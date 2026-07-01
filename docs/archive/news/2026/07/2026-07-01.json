@@ -1,7 +1,327 @@
 {
   "date": "2026-07-01",
-  "count": 3192,
+  "count": 3224,
   "items": [
+    {
+      "id": "mkt:019f1ded-26fd-7aab-8c5c-f2f1921fac3b",
+      "time": "2026-07-01 21:45:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US June S&P Global Manufacturing PMI final 53.9; prior 55.7."
+    },
+    {
+      "id": "mkt:019f1ded-044b-7aab-8c5c-ef03a0be869a",
+      "time": "2026-07-01 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Markit Manufacturing PMI Final (Jun) | actual 53.9 | previous 55.7"
+    },
+    {
+      "id": "4965507",
+      "time": "2026-07-01 21:44:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金<XPT=>上漲近3%，報每盎司1597.12美元。"
+    },
+    {
+      "id": "4965506",
+      "time": "2026-07-01 21:44:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "現貨黃金在美聯儲理事凱文·沃什發表講話後延續漲勢，最新上漲突破2%，報每盎司4086.09美元。"
+    },
+    {
+      "id": "4965505",
+      "time": "2026-07-01 21:44:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲1.79%。"
+    },
+    {
+      "id": "mkt:019f1dec-bb20-7aab-8c5c-e49be042cd91",
+      "time": "2026-07-01 21:44:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "SHFE main gold contract rose more than 2.00% intraday, trading at 894.96 yuan/gram."
+    },
+    {
+      "id": "4965504",
+      "time": "2026-07-01 21:44:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲2.09%。"
+    },
+    {
+      "id": "mkt:019f1dec-81ab-7aab-8c5c-daa1a32f1aa9",
+      "time": "2026-07-01 21:44:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold up 2% intraday at $4,087.54/oz."
+    },
+    {
+      "id": "4965503",
+      "time": "2026-07-01 21:44:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4088.79美元/盎司。"
+    },
+    {
+      "id": "mkt:019f1deb-fb30-7aab-8c5c-d38a758eccb1",
+      "time": "2026-07-01 21:43:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures traded above $4,100/oz, up 1.52% on the day."
+    },
+    {
+      "id": "mkt:019f1deb-d655-7aab-8c5c-cf48670542e8",
+      "time": "2026-07-01 21:43:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver most-active contract rose 2.0% intraday to 14,666 yuan/kg."
+    },
+    {
+      "id": "4965502",
+      "time": "2026-07-01 21:43:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14666.00元。"
+    },
+    {
+      "id": "4965501",
+      "time": "2026-07-01 21:43:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，盛豐物流漲6.39%，陸金所控股漲4.72%，萬國資料漲4.26%，世紀互聯漲3.61%，老虎證券漲3.20%。"
+    },
+    {
+      "id": "4965500",
+      "time": "2026-07-01 21:43:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲1.53%。"
+    },
+    {
+      "id": "4965499",
+      "time": "2026-07-01 21:43:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "布魯姆能源股價上漲2.7%，此前該公司與布魯克菲爾德將人工智慧基礎設施能源合作專案規模擴大至250億美元。"
+    },
+    {
+      "id": "mkt:019f1deb-aa04-7aab-8c5c-c09cc4056767",
+      "time": "2026-07-01 21:43:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures rose 1.00% intraday to $60.53/oz."
+    },
+    {
+      "id": "4965498",
+      "time": "2026-07-01 21:43:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破60美元/盎司，日內漲2.51%。"
+    },
+    {
+      "id": "4965497",
+      "time": "2026-07-01 21:43:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報60.53美元/盎司。"
+    },
+    {
+      "id": "mkt:019f1deb-0d65-7aab-8c5c-bf45463f23cf",
+      "time": "2026-07-01 21:42:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Spot silver tops $60/oz】Spot silver rose above $60/oz, gaining 2.47% intraday."
+    },
+    {
+      "id": "4965496",
+      "time": "2026-07-01 21:42:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "薩布林離岸石油公司股價暴漲29%，此前該公司完成股票及可轉換票據發行定價。"
+    },
+    {
+      "id": "mkt:019f1dea-9635-7aab-8c5c-b3ee3aa653ea",
+      "time": "2026-07-01 21:42:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "BOC Governor Macklem warned the rise of hedge funds in sovereign debt markets raises concern that disruption in the repo market could trigger rapid forced liquidations."
+    },
+    {
+      "id": "4965495",
+      "time": "2026-07-01 21:42:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：對沖基金在主權債券市場影響力提升令人擔憂，回購市場擾動可能引發頭寸快速平倉。"
+    },
+    {
+      "id": "mkt:019f1dea-123f-7aab-8c5c-ac5323dfad02",
+      "time": "2026-07-01 21:41:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Kevin Warsh: inf risks have eased】Fed chair Kevin Warsh said on Wednesday that inflation expectations and inf risks have eased in recent weeks and reiterated the Fed’s commitment to returning inf to its 2% target. He warned that if households, businesses or financial markets expect the Fed to tolerate inf above 2% they will be disappointed and said the Fed will ensure the U.S. achieves price stability."
+    },
+    {
+      "id": "mkt:019f1de9-f96f-7aab-8c5c-a0acafd1f68e",
+      "time": "2026-07-01 21:41:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "White House spokesperson says there is a strong chance the US will reach an agreement with Iran."
+    },
+    {
+      "id": "4965494",
+      "time": "2026-07-01 21:41:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮發言人：美國與伊朗有很大機會達成協議。"
+    },
+    {
+      "id": "mkt:019f1de9-c9b6-7aab-8c5c-9fe8b570a85c",
+      "time": "2026-07-01 21:41:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "BOC Governor Macklem said equity valuations look too high from a financial stability perspective."
+    },
+    {
+      "id": "mkt:019f1de9-be9d-7aab-8c5c-9631c28a4589",
+      "time": "2026-07-01 21:41:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House spokesperson said the U.S. has paved the way for Iran's denuclearization."
+    },
+    {
+      "id": "mkt:019f1de9-7c01-7aab-8c5c-8a64cbeac745",
+      "time": "2026-07-01 21:41:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver up 2.00% intraday at $59.73/oz."
+    },
+    {
+      "id": "4965493",
+      "time": "2026-07-01 21:41:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲1.84%。"
+    },
+    {
+      "id": "4965492",
+      "time": "2026-07-01 21:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mobix Labs已納入羅素微盤指數與羅素3000E成長基準指數，自2026年6月29日起生效。"
+    },
+    {
+      "id": "4965491",
+      "time": "2026-07-01 21:41:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：從金融穩定的角度來看，股票估值已處於偏高水平。"
+    },
+    {
+      "id": "4965490",
+      "time": "2026-07-01 21:40:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮發言人：我們已為伊朗無核化鋪平道路。"
+    },
     {
       "id": "4965489",
       "time": "2026-07-01 21:40:56",
