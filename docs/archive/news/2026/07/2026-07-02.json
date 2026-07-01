@@ -1,7 +1,70 @@
 {
   "date": "2026-07-02",
-  "count": 306,
+  "count": 313,
   "items": [
+    {
+      "id": "te:economy:563541",
+      "time": "2026-07-02 04:54:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Holds Key Interest Rate — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its June 2026 meeting, as its projections continue to place inflation on a path toward convergence with the 4.5% target over the monetary policy horizon. Inflation expectations also remained aligned with the central bank’s objective. Annual inflation rose to 3.77% in May, driven by higher administered prices, particularly energy, reflecting the impact of global supply shocks. Core inflation edged up to 3.6%, though policymakers noted no significant second-round effects. Easing geopolitical tensions in the Middle East reduced global financial volatility and pressure on energy prices. Labor market and income indicators remained resilient, while economic activity continued to expand. The central bank said inflation is likely to rise in the short term, but the balance of risks remains broadly balanced over the policy horizon. Future policy decisions will depend on incoming inflation data and its underlying dynamics."
+    },
+    {
+      "id": "4965943",
+      "time": "2026-07-02 04:53:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全新iPad Pro、重新設計入門款MacBook Pro正在籌備中】蘋果公司正計劃於明年推出升級款iPad Pro系列與全新改款入門MacBook Pro，恰逢iPhone問世20週年，該公司同期還規劃了多款重磅新品。蘋果正在測試四款內部硬體升級的全新iPad Pro機型，搭載效能更強的晶片；同時打造外觀重新設計的入門MacBook Pro。蘋果計劃2027年密集釋出多款硬體新品，首發首款M7處理器，同步推出第二代iPhone Air以及入門款iPhone。"
+    },
+    {
+      "id": "4965942",
+      "time": "2026-07-02 04:53:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "道富集團：道富SPDR標普500ETF被美國財政部選定為特朗普相關賬戶的獨家預設ETF。"
+    },
+    {
+      "id": "4965941",
+      "time": "2026-07-02 04:52:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月份輕型汽車總銷量增至1652萬輛，高於此前預期的1610萬輛。"
+    },
+    {
+      "id": "4965940",
+      "time": "2026-07-02 04:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）預估：2027自然年度聯邦醫保居家護理總支付金額將上調2.4%，新增支出4.2億美元。"
+    },
+    {
+      "id": "4965939",
+      "time": "2026-07-02 04:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）提出新增醫保參保資格撤銷依據，將高風險經營場所納入其中。"
+    },
+    {
+      "id": "4965938",
+      "time": "2026-07-02 04:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）釋出2027財年家庭健康預付費支付體系擬議規則，每年可節省8200萬美元支出並打擊欺詐行為。"
+    },
     {
       "id": "4965937",
       "time": "2026-07-02 04:51:35",
