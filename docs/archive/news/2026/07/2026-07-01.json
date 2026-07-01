@@ -1,7 +1,238 @@
 {
   "date": "2026-07-01",
-  "count": 3129,
+  "count": 3157,
   "items": [
+    {
+      "id": "mkt:019f1de5-a9ce-7aab-8c5c-2b482dbeb1ec",
+      "time": "2026-07-01 21:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said he will seek views from leading experts in the U.S. and abroad."
+    },
+    {
+      "id": "mkt:019f1de5-a738-7aab-8c5c-27e44649d3a2",
+      "time": "2026-07-01 21:36:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rabobank: Expectation of Friday yen intervention rises but impact likely limited】Rabobank analyst Jane Foley says market speculation is growing that Japanese authorities may use thin US-holiday liquidity on Friday to intervene in the yen; no action could be the more surprising outcome. She judges further intervention likely, but warns a single round of intervention is unlikely to alter entrenched negative market sentiment toward the yen. Yen weakness is partly dollar-driven, and gains in Japanese equities may prompt foreign investors to increase hedging against yen depreciation."
+    },
+    {
+      "id": "4965468",
+      "time": "2026-07-01 21:36:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：長期來看，有理由設定更低的通脹目標。"
+    },
+    {
+      "id": "4965467",
+      "time": "2026-07-01 21:36:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：下週可能會有關於工作組領導層的訊息。"
+    },
+    {
+      "id": "4965466",
+      "time": "2026-07-01 21:36:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "瑞典法院裁定谷歌需向該公司支付15億美元反壟斷損害賠償金後，Klarna股價上漲6%。"
+    },
+    {
+      "id": "mkt:019f1de5-2eb6-7aab-8c5c-1ceb4f88ffbd",
+      "time": "2026-07-01 21:36:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said there may be announcements next week on appointments of working-group heads."
+    },
+    {
+      "id": "4965465",
+      "time": "2026-07-01 21:36:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：認為未來通脹目標不會上調。"
+    },
+    {
+      "id": "te:markets:563453",
+      "time": "2026-07-01 21:36:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Pressured by BoE Tone, Dollar Strength — The pound traded just above $1.32, near a seven-month low after a 1.4% June drop against the dollar, pressured by political uncertainty, a stronger greenback, and the Bank of England’s dovish tone. Against the euro, sterling hit a one-year high as the single currency weakened on softer-than-expected European inflation data. Investors are focusing on the ECB’s Sintra Forum for economic and policy signals. Bank of England Governor Andrew Bailey maintained his dovish stance, telling CNBC that UK policymakers see a softening economy and that May’s decision to hold rates at 3.75% reflected this assessment. He also ruled out imminent cuts, citing persistent inflation risks, though he acknowledged progress from falling energy prices. Meanwhile, Fed Chair Kevin Warsh offered no new guidance, with markets still expecting US rate hikes this year. In UK politics, markets assessed the likelihood of Ed Miliband becoming Chancellor, with fiscal concerns easing after Andy Burnham’s discipline pledge."
+    },
+    {
+      "id": "4965464",
+      "time": "2026-07-01 21:35:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.17美元/盎司。"
+    },
+    {
+      "id": "mkt:019f1de4-7f2e-7aab-8c5c-177ce7dada81",
+      "time": "2026-07-01 21:35:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $59.15/oz."
+    },
+    {
+      "id": "4965463",
+      "time": "2026-07-01 21:35:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至4.4%】費城半導體指數跌幅擴大至4.4%。英偉達股價下跌3.16%，臺積電股價下跌3.04%，博通股價下跌1.76%，美光科技股價下跌7.68%，超威半導體股價下跌4.33%，阿斯麥股價下跌4.14%，英特爾股價下跌4.68%，ARM股價下跌4.42%。"
+    },
+    {
+      "id": "mkt:019f1de4-1093-7aab-8c5c-0f80ca3ea194",
+      "time": "2026-07-01 21:35:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said volatility has declined and yields have fallen."
+    },
+    {
+      "id": "mkt:019f1de3-f113-7aab-8c5c-0728669429ba",
+      "time": "2026-07-01 21:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "USDJPY"
+      ],
+      "text": "US June S&P Global Manufacturing PMI final will be released in 10 minutes."
+    },
+    {
+      "id": "mkt:019f1de3-d121-7aab-8c5b-f8a05e28d281",
+      "time": "2026-07-01 21:34:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said if models impede sound policy, they should be discarded."
+    },
+    {
+      "id": "4965462",
+      "time": "2026-07-01 21:34:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：波動性下降，收益率下降。"
+    },
+    {
+      "id": "4965461",
+      "time": "2026-07-01 21:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：倘若經濟模型會阻礙制定合理政策，那就捨棄這些模型。"
+    },
+    {
+      "id": "4965460",
+      "time": "2026-07-01 21:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將閃迪目標股價從2100美元上調至2500美元。"
+    },
+    {
+      "id": "mkt:019f1de3-63de-7aab-8c5b-f6bba9942a50",
+      "time": "2026-07-01 21:34:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAILEY said forward guidance becomes fairly tricky over time."
+    },
+    {
+      "id": "4965459",
+      "time": "2026-07-01 21:34:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：我們眼下最重要的事是制定正確的政策 。"
+    },
+    {
+      "id": "mkt:019f1de3-2568-7aab-8c5b-eb4735da27a7",
+      "time": "2026-07-01 21:34:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the most important thing we can do is to set the right policy."
+    },
+    {
+      "id": "4965458",
+      "time": "2026-07-01 21:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提案將規範投資簽證專案合規監管。"
+    },
+    {
+      "id": "mkt:019f1de2-d9ba-7aab-8c5b-e7c6ee383c23",
+      "time": "2026-07-01 21:33:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Russian deputy PM Novak says domestic gasoline, diesel supplies adequate】On July 1 local time, Russian Deputy Prime Minister Novak said Russia has adequate overall supplies of gasoline and diesel. He said isolated shortages and service interruptions at individual filling stations are mainly due to changes in fuel logistics, and that recent price rises—concentrated at private stations—are a \"normal market situation\" that should stabilize as the market becomes saturated."
+    },
+    {
+      "id": "4965457",
+      "time": "2026-07-01 21:33:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：前瞻性指引推行一段時間後會變得相當棘手。"
+    },
+    {
+      "id": "4965455",
+      "time": "2026-07-01 21:33:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：實現價格穩定的策略與戰術仍有待制定。"
+    },
     {
       "id": "mkt:019f1de1-dea1-7aab-8c5b-dd53b59f744b",
       "time": "2026-07-01 21:32:49",
@@ -101,6 +332,15 @@
       "text": "納斯達克中國金龍指數漲超0.5%，盛豐物流漲6.39%，中進醫療漲3.30%，世紀互聯漲2.55%，億咖通科技漲3.10%，萬國資料漲3.06%。"
     },
     {
+      "id": "em:qqyh_mlc:202607013790535258",
+      "time": "2026-07-01 21:31:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：通脹風險已經下降】美聯儲主席沃什表示，通脹風險已經下降。他補充道，“如果有人認為我們會滿足於通脹高於2%，那他們會失望的。”"
+    },
+    {
       "id": "4965449",
       "time": "2026-07-01 21:31:42",
       "tags": [
@@ -141,6 +381,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed Chair Kevin Warsh said the Fed will remain an independent central bank and its independence has not changed."
+    },
+    {
+      "id": "4965447",
+      "time": "2026-07-01 21:31:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的沃什：我們將成為一個獨立的中央銀行。"
     },
     {
       "id": "4965446",
@@ -189,6 +438,15 @@
         "WDC.O"
       ],
       "text": "U.S. stocks opened lower: Dow -0.2%, S&P 500 -0.3%, Nasdaq -0.6%. Meta Platforms (META.O) rose 6% on reports it is building a cloud business to sell excess AI compute capacity. Storage names fell: SanDisk (SNDK.O) -7.5%, Western Digital (WDC.O) down >4%, Micron Technology (MU.O) -6%."
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790536847",
+      "time": "2026-07-01 21:30:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席：就業和物價穩定的目標都必須實現】美聯儲主席沃什稱，美國勞動力市場穩定，經濟需求強勁；美國經濟的供給側強勁；就業和物價穩定的目標都必須實現。"
     },
     {
       "id": "4965444",
@@ -303,6 +561,15 @@
         "其他"
       ],
       "text": "沃什：已再次承諾致力於實現物價穩定。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790534290",
+      "time": "2026-07-01 21:29:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱，AI對就業影響的時間點仍存在重大疑問。"
     },
     {
       "id": "4965436",

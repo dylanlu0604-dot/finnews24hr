@@ -1,7 +1,238 @@
 {
-  "updated": "2026-07-01 21:33:34",
-  "count": 14063,
+  "updated": "2026-07-01 21:37:36",
+  "count": 14077,
   "items": [
+    {
+      "id": "mkt:019f1de5-a9ce-7aab-8c5c-2b482dbeb1ec",
+      "time": "2026-07-01 21:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said he will seek views from leading experts in the U.S. and abroad."
+    },
+    {
+      "id": "mkt:019f1de5-a738-7aab-8c5c-27e44649d3a2",
+      "time": "2026-07-01 21:36:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rabobank: Expectation of Friday yen intervention rises but impact likely limited】Rabobank analyst Jane Foley says market speculation is growing that Japanese authorities may use thin US-holiday liquidity on Friday to intervene in the yen; no action could be the more surprising outcome. She judges further intervention likely, but warns a single round of intervention is unlikely to alter entrenched negative market sentiment toward the yen. Yen weakness is partly dollar-driven, and gains in Japanese equities may prompt foreign investors to increase hedging against yen depreciation."
+    },
+    {
+      "id": "4965468",
+      "time": "2026-07-01 21:36:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：長期來看，有理由設定更低的通脹目標。"
+    },
+    {
+      "id": "4965467",
+      "time": "2026-07-01 21:36:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：下週可能會有關於工作組領導層的訊息。"
+    },
+    {
+      "id": "4965466",
+      "time": "2026-07-01 21:36:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "瑞典法院裁定谷歌需向該公司支付15億美元反壟斷損害賠償金後，Klarna股價上漲6%。"
+    },
+    {
+      "id": "mkt:019f1de5-2eb6-7aab-8c5c-1ceb4f88ffbd",
+      "time": "2026-07-01 21:36:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said there may be announcements next week on appointments of working-group heads."
+    },
+    {
+      "id": "4965465",
+      "time": "2026-07-01 21:36:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：認為未來通脹目標不會上調。"
+    },
+    {
+      "id": "te:markets:563453",
+      "time": "2026-07-01 21:36:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Pressured by BoE Tone, Dollar Strength — The pound traded just above $1.32, near a seven-month low after a 1.4% June drop against the dollar, pressured by political uncertainty, a stronger greenback, and the Bank of England’s dovish tone. Against the euro, sterling hit a one-year high as the single currency weakened on softer-than-expected European inflation data. Investors are focusing on the ECB’s Sintra Forum for economic and policy signals. Bank of England Governor Andrew Bailey maintained his dovish stance, telling CNBC that UK policymakers see a softening economy and that May’s decision to hold rates at 3.75% reflected this assessment. He also ruled out imminent cuts, citing persistent inflation risks, though he acknowledged progress from falling energy prices. Meanwhile, Fed Chair Kevin Warsh offered no new guidance, with markets still expecting US rate hikes this year. In UK politics, markets assessed the likelihood of Ed Miliband becoming Chancellor, with fiscal concerns easing after Andy Burnham’s discipline pledge."
+    },
+    {
+      "id": "4965464",
+      "time": "2026-07-01 21:35:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.17美元/盎司。"
+    },
+    {
+      "id": "mkt:019f1de4-7f2e-7aab-8c5c-177ce7dada81",
+      "time": "2026-07-01 21:35:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $59.15/oz."
+    },
+    {
+      "id": "4965463",
+      "time": "2026-07-01 21:35:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至4.4%】費城半導體指數跌幅擴大至4.4%。英偉達股價下跌3.16%，臺積電股價下跌3.04%，博通股價下跌1.76%，美光科技股價下跌7.68%，超威半導體股價下跌4.33%，阿斯麥股價下跌4.14%，英特爾股價下跌4.68%，ARM股價下跌4.42%。"
+    },
+    {
+      "id": "mkt:019f1de4-1093-7aab-8c5c-0f80ca3ea194",
+      "time": "2026-07-01 21:35:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said volatility has declined and yields have fallen."
+    },
+    {
+      "id": "mkt:019f1de3-f113-7aab-8c5c-0728669429ba",
+      "time": "2026-07-01 21:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "USDJPY"
+      ],
+      "text": "US June S&P Global Manufacturing PMI final will be released in 10 minutes."
+    },
+    {
+      "id": "mkt:019f1de3-d121-7aab-8c5b-f8a05e28d281",
+      "time": "2026-07-01 21:34:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said if models impede sound policy, they should be discarded."
+    },
+    {
+      "id": "4965462",
+      "time": "2026-07-01 21:34:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：波動性下降，收益率下降。"
+    },
+    {
+      "id": "4965461",
+      "time": "2026-07-01 21:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：倘若經濟模型會阻礙制定合理政策，那就捨棄這些模型。"
+    },
+    {
+      "id": "4965460",
+      "time": "2026-07-01 21:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將閃迪目標股價從2100美元上調至2500美元。"
+    },
+    {
+      "id": "mkt:019f1de3-63de-7aab-8c5b-f6bba9942a50",
+      "time": "2026-07-01 21:34:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAILEY said forward guidance becomes fairly tricky over time."
+    },
+    {
+      "id": "4965459",
+      "time": "2026-07-01 21:34:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：我們眼下最重要的事是制定正確的政策 。"
+    },
+    {
+      "id": "mkt:019f1de3-2568-7aab-8c5b-eb4735da27a7",
+      "time": "2026-07-01 21:34:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the most important thing we can do is to set the right policy."
+    },
+    {
+      "id": "4965458",
+      "time": "2026-07-01 21:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提案將規範投資簽證專案合規監管。"
+    },
+    {
+      "id": "mkt:019f1de2-d9ba-7aab-8c5b-e7c6ee383c23",
+      "time": "2026-07-01 21:33:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Russian deputy PM Novak says domestic gasoline, diesel supplies adequate】On July 1 local time, Russian Deputy Prime Minister Novak said Russia has adequate overall supplies of gasoline and diesel. He said isolated shortages and service interruptions at individual filling stations are mainly due to changes in fuel logistics, and that recent price rises—concentrated at private stations—are a \"normal market situation\" that should stabilize as the market becomes saturated."
+    },
+    {
+      "id": "4965457",
+      "time": "2026-07-01 21:33:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：前瞻性指引推行一段時間後會變得相當棘手。"
+    },
+    {
+      "id": "4965455",
+      "time": "2026-07-01 21:33:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：實現價格穩定的策略與戰術仍有待制定。"
+    },
     {
       "id": "mkt:019f1de1-dea1-7aab-8c5b-dd53b59f744b",
       "time": "2026-07-01 21:32:49",
@@ -101,6 +332,15 @@
       "text": "Federal Reserve Chair Kevin Warsh said prices are too high and the Fed will achieve price stability."
     },
     {
+      "id": "em:qqyh_mlc:202607013790535258",
+      "time": "2026-07-01 21:31:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：通脹風險已經下降】美聯儲主席沃什表示，通脹風險已經下降。他補充道，“如果有人認為我們會滿足於通脹高於2%，那他們會失望的。”"
+    },
+    {
       "id": "4965449",
       "time": "2026-07-01 21:31:42",
       "tags": [
@@ -141,6 +381,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed Chair Kevin Warsh said the Fed will remain an independent central bank and its independence has not changed."
+    },
+    {
+      "id": "4965447",
+      "time": "2026-07-01 21:31:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的沃什：我們將成為一個獨立的中央銀行。"
     },
     {
       "id": "4965446",
@@ -197,6 +446,15 @@
         "WDC.O"
       ],
       "text": "U.S. stocks opened lower: Dow -0.2%, S&P 500 -0.3%, Nasdaq -0.6%. Meta Platforms (META.O) rose 6% on reports it is building a cloud business to sell excess AI compute capacity. Storage names fell: SanDisk (SNDK.O) -7.5%, Western Digital (WDC.O) down >4%, Micron Technology (MU.O) -6%."
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790536847",
+      "time": "2026-07-01 21:30:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席：就業和物價穩定的目標都必須實現】美聯儲主席沃什稱，美國勞動力市場穩定，經濟需求強勁；美國經濟的供給側強勁；就業和物價穩定的目標都必須實現。"
     },
     {
       "id": "mkt:019f1de0-1bf2-7aab-8c5b-96fd3b1de92e",
@@ -303,6 +561,15 @@
         "其他"
       ],
       "text": "沃什：已再次承諾致力於實現物價穩定。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607013790534290",
+      "time": "2026-07-01 21:29:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱，AI對就業影響的時間點仍存在重大疑問。"
     },
     {
       "id": "4965436",
@@ -129459,138 +129726,6 @@
         "Impact bullish"
       ],
       "text": "Google (GOOG.O) shares rose 1.3% after the company was named to replace Verizon Communications as a component of the Dow Jones Industrial Average."
-    },
-    {
-      "id": "te:markets:561557",
-      "time": "2026-06-24 21:37:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Edge Higher After Chip Selloff — US equity indices inched higher on Wednesday following the selloff in the heavyweight chip sector yesterday The Nasdaq 100 and the S&P 500 gained around 0.5%. Micron added 2% head of its earnings after the bell. It followed the 13% plunge last session on fresh doubts that capital expenditures from AI companies were overdone and are due to slow. Other semiconductor and memory producers rebounded from the selloff, with Nvidia, Lam Research, and Sandisk were in the green. AI fundraising remained at soaring levels as SK Hynix was looking to raise $29 billion with a US listing shortly after the record SpaceX IPO. In turn, yields remained elevated along the curve despite the return of oil prices to pre-Iran war levels on the outlook of a hawkish Fed. Financial stocks traded muted ahead of the open. The Dow was flat as it avoided the volatility from other indices due to lower exposure to tech, set to change on Monday when Alphabet takes the place of Verizon."
-    },
-    {
-      "id": "4952955",
-      "time": "2026-06-24 21:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "醫療及安全訊息來源稱，以色列無人機空襲黎巴嫩南部一輛車輛，造成兩人死亡。"
-    },
-    {
-      "id": "4952954",
-      "time": "2026-06-24 21:36:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026青海產業“四地”推介洽談會在京成功舉辦】6月23日上午，第四屆鏈博會期間，2026青海產業“四地”推介洽談會在京成功舉辦。本次活動由青海省人民政府主辦，青海省商務廳、青海省貿促會、中國貿促會貿易推廣交流中心共同承辦。俄羅斯聯邦工商會、中國美國商會、英中貿易協會、日本貿易振興機構等外國商協會代表，飛利浦、英特爾、瑞穗銀行等外資企業代表，部分中資企業和商協會代表等120餘人出席推介洽談會。"
-    },
-    {
-      "id": "4952953",
-      "time": "2026-06-24 21:36:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌母公司Alphabet股價上漲1.3%；該公司將取代威瑞森通訊，納入道瓊斯工業平均指數成份股。"
-    },
-    {
-      "id": "te:markets:561556",
-      "time": "2026-06-24 21:36:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Stryker Stock Price Hits 4-week High — Stryker shares increased to 315.68 USD, the highest since May 2026. Over the past 4 weeks, Stryker gained 0.74%, and in the last 12 months, it decreased 18.41%."
-    },
-    {
-      "id": "te:markets:561555",
-      "time": "2026-06-24 21:36:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Switzerland Hit All-time High — CH20 increased to an all-time high of 14104.00 Index Points. Over the past 4 weeks, Switzerland Stock Market Index (CH20) gained 4.24%, and in the last 12 months, it increased 18.68%."
-    },
-    {
-      "id": "4952952",
-      "time": "2026-06-24 21:35:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "溫蒂漢堡股價上漲37%後因波動而暫停交易。"
-    },
-    {
-      "id": "4952951",
-      "time": "2026-06-24 21:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國遭遇創紀錄高溫 盧浮宮等景點提前關門】法國23日遭遇自1947年有氣象觀測記錄以來的最熱一天，巴黎盧浮宮和埃菲爾鐵塔被迫提前關閉，不少吃閉門羹的遊客在酷暑中敗興離去。據法國氣象局公佈的資料，法國23日全國平均氣溫達到29.8攝氏度，成為有氣象觀測記錄以來最熱一天。多地景區運營方宣佈縮短開放時間，提醒遊客推遲參觀計劃。盧浮宮管理方說，這座歷經數百年的建築“未能充分適應氣候變化”，將於24日至27日每天提前2小時、於16時停止對外開放。埃菲爾鐵塔往年暑期旺季通常開放到午夜，但其運營方23日發表宣告說，當天提早至16時關閉，且24日“極有可能”繼續縮短開放時間。（新華社）"
-    },
-    {
-      "id": "4952950",
-      "time": "2026-06-24 21:35:07",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價跌破4,000美元，貴金屬礦商股大跌】隨著金價自2025年11月以來首次跌破每盎司4,000美元，倫敦礦業股大跌。市場對美聯儲加息的預期拖累了這種無收益的黃色金屬，同時美元走強也令金價承壓，因為這增加了外國買家的購買成本。銀價大幅下跌也拖累了礦商股。紐約黃金期貨下跌4%，至每盎司3,984.40美元，而白銀期貨下跌5.9%，至每盎司58.38美元。在倫敦上市的Hochschild在整個交易日中跌幅加劇，其股價在後市交易中下跌超過9%，觸及六個月低點。白銀礦商Fresnillo下跌5.1%，而專門開採西非黃金的Endeavour Mining大跌5.25%。"
-    },
-    {
-      "id": "4952949",
-      "time": "2026-06-24 21:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政署署長在參議院作證時表示，需要國會採取行動解決財務困境：“歸根結底，我們已經沒錢了”。"
-    },
-    {
-      "id": "4952948",
-      "time": "2026-06-24 21:34:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【龐淑欽任中國進出口銀行上海分行黨委書記、行長】據中國進出口銀行訊息，中國進出口銀行黨委決定：龐淑欽任上海分行黨委書記、行長。"
-    },
-    {
-      "id": "4952947",
-      "time": "2026-06-24 21:34:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，金生遊樂跌5.81%，海天網路跌5.37%，金山雲跌3.48%，中比能源跌2.99%，愛奇藝跌1.92%。"
-    },
-    {
-      "id": "4952946",
-      "time": "2026-06-24 21:33:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金短線反彈20美元，現報3994美元/盎司。"
-    },
-    {
-      "id": "mkt:019ef9d6-4fa2-7dd8-b0fb-2ca0c62d1e2b",
-      "time": "2026-06-24 21:33:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold briefly rallied $20 to $3,994/oz."
     }
   ]
 }
