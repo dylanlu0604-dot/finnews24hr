@@ -1,7 +1,153 @@
 {
-  "updated": "2026-07-01 07:59:59",
-  "count": 13970,
+  "updated": "2026-07-01 08:03:48",
+  "count": 13967,
   "items": [
+    {
+      "id": "mkt:019f1afc-7f0b-7aab-8c46-0329c9ba289b",
+      "time": "2026-07-01 08:03:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "According to the Wall Street Journal, the U.S. threatened to cut off missile-interceptor supplies after Saudi Arabia refused to open its military bases to the 'Free Action' program."
+    },
+    {
+      "id": "te:economy:563133",
+      "time": "2026-07-01 08:02:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Growth at 4-Month High — South Korea’s imports jumped 30.1% yoy in June 2026, accelerating from a 20.7% rise in April, flash data showed. It was the eighth straight month of growth and the strongest pace since May 2022 amid robust domestic demand despite lingering trade disruptions linked to the Middle East conflict. Consumer spending continued to be supported by government stimulus measures launched in April."
+    },
+    {
+      "id": "mkt:019f1afb-284c-7aab-8c45-fe9678f541c0",
+      "time": "2026-07-01 08:01:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI opened 140.79 points higher, up 1.66%, at 8,617.27 on Wednesday, July 1."
+    },
+    {
+      "id": "mkt:019f1afa-ef8e-7aab-8c45-f21ca90943df",
+      "time": "2026-07-01 08:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 938.33 points, or 1.34%, at 71,000.65 on Wednesday, July 1."
+    },
+    {
+      "id": "4963823",
+      "time": "2026-07-01 08:01:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港舉行升旗儀式和酒會慶祝迴歸祖國29週年】7月1日上午，香港特區政府舉行升旗儀式和酒會，慶祝香港迴歸祖國29週年。上午8時，升旗儀式在香港金紫荊廣場舉行。香港特別行政區行政長官李家超、中央駐港機構負責人以及社會各界人士共同出席。伴隨著國歌奏響，鮮豔的五星紅旗和香港特別行政區區旗在金紫荊廣場冉冉升起。現場全體人員肅立面向國旗和區旗，高唱國歌。升旗儀式結束後，香港特區政府在香港會議展覽中心舉行香港迴歸祖國29週年慶祝酒會。當天清晨，中央駐港機構也舉行了升國旗儀式。（央視）"
+    },
+    {
+      "id": "4963822",
+      "time": "2026-07-01 08:00:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲2.0個基點，至3.965%。"
+    },
+    {
+      "id": "4963821",
+      "time": "2026-07-01 08:00:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.4%，至8591.50點。"
+    },
+    {
+      "id": "4963820",
+      "time": "2026-07-01 08:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報70774.28點，漲幅1.02％。韓國綜合股價指數（KOSPI）開盤上漲1.4％，至8591.50點。"
+    },
+    {
+      "id": "4963819",
+      "time": "2026-07-01 08:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月出口同比 70.9%，預期 60.7%，前值 53.2%。韓國6月進口同比 30.1%，預期 24.5%，前值 20.8%。"
+    },
+    {
+      "id": "mkt:019f1af9-e2e8-7aab-8c45-ef4fcbb3287a",
+      "time": "2026-07-01 08:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea preliminary June trade surplus US$36.15 bln, vs. forecast US$32.58 bln; May surplus revised up to US$27.036 bln from US$26.949 bln."
+    },
+    {
+      "id": "mkt:019f1af9-da4b-7aab-8c45-e143241c597e",
+      "time": "2026-07-01 08:00:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "South Korea June exports YoY +70.9% vs. 61.0% expected; May revised to +53.4% from +53.2%."
+    },
+    {
+      "id": "mkt:019f1af9-d608-7aab-8c45-debb140d1397",
+      "time": "2026-07-01 08:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June imports +30.1% YoY, vs 26.3% expected; prior reading revised to +20.7% from +20.8%."
+    },
+    {
+      "id": "mkt:019f1af9-b74f-7aab-8c45-d53907311fc3",
+      "time": "2026-07-01 08:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Trade Balance Flash (Jun) | actual 36150000000B | consensus 32580000000B | previous 26949000000B"
+    },
+    {
+      "id": "mkt:019f1af9-b745-7aab-8c45-cfb9f98ec7d3",
+      "time": "2026-07-01 08:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Imports (YoY) (Jun) | actual 30.1% | consensus 26.3% | previous 20.80%"
+    },
+    {
+      "id": "mkt:019f1af9-b727-7aab-8c45-c559d09177a1",
+      "time": "2026-07-01 08:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Exports (YoY) (Jun) | actual 70.9% | consensus 61% | previous 53.20%"
+    },
     {
       "id": "4963818",
       "time": "2026-07-01 07:59:17",
@@ -128166,195 +128312,6 @@
         "觀點"
       ],
       "text": "【中信建投：證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期】中信建投研報稱，證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期。業績端，中報高增+投行專案兌現構成連續驗證；產業端，大財富業務格局集中、科創投行賦能、國際業務加速擴張三大趨勢夯實中長期中樞；估值端，PB歷史較低分位蘊含安全邊際。在科技板塊交易擁擠度攀升、資金高切低輪動的背景下，證券板塊的風險收益比仍具吸引力。"
-    },
-    {
-      "id": "mkt:019ef6f0-1c2f-7dd8-b0e5-95c310af3767",
-      "time": "2026-06-24 08:03:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "Samsung Electronics shares rose 4%; SK Hynix shares gained 3%."
-    },
-    {
-      "id": "mkt:019ef6ef-da1e-7dd8-b0e5-8ca7c6a992ff",
-      "time": "2026-06-24 08:02:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI opened 1.9% higher; Japan's Nikkei 225 opened 0.25% lower."
-    },
-    {
-      "id": "mkt:019ef6ef-d6b1-7dd8-b0e5-85c0afe7b928",
-      "time": "2026-06-24 08:02:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan June policy meeting summary: one member said there is no reason for the BOJ to stop reducing bond purchases."
-    },
-    {
-      "id": "4951326",
-      "time": "2026-06-24 08:02:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%，SK海力士股價上漲3.4%。"
-    },
-    {
-      "id": "4951325",
-      "time": "2026-06-24 08:02:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員稱央行完全沒有理由停止削減日本公債購買規模。"
-    },
-    {
-      "id": "4951324",
-      "time": "2026-06-24 08:02:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：通脹將回歸目標水平。"
-    },
-    {
-      "id": "te:markets:561288",
-      "time": "2026-06-24 08:02:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady Ahead of Micron Results — US stock futures were little changed on Wednesday as investors awaited Micron Technology’s earnings report, with the memory chip sector continuing to benefit from the global expansion of AI infrastructure. Micron shares gained more than 1% in after-hours trading, while competitor Sandisk added around 1%, recovering slightly after both stocks plunged over 13% during Tuesday’s regular session. Meanwhile, shares of Google parent Alphabet rose roughly 0.5% after S&P Global announced the company would join the 30-stock Dow before trading begins next Monday. In the previous session, the S&P 500 fell 1.44% and the Nasdaq Composite dropped 2.21%, while the Dow lost 0.09%. The selloff was led by AI infrastructure firms, including semiconductor and memory chip makers, as investors grew increasingly concerned that massive AI investments by hyperscalers may generate weaker-than-expected returns."
-    },
-    {
-      "id": "mkt:019ef6ef-2587-7dd8-b0e5-7a2a204c363c",
-      "time": "2026-06-24 08:02:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan June policy meeting summary: a member said global AI-related demand is boosting economic activity and prices more than expected."
-    },
-    {
-      "id": "4951323",
-      "time": "2026-06-24 08:02:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和譽醫藥：與禮來深化研發合作】和譽醫藥公告，公司與全球領先製藥企業禮來簽署戰略研究合作及授權協議。根據協議，雙方將圍繞多個疾病靶點開展創新藥研發合作，共同推進具有全球潛力的新型候選藥物。和譽醫藥將依託其早期藥物發現平臺、創新研發體系及豐富的開發經驗，圍繞禮來選定的疾病靶點開展新藥專案的發現與早期開發活動。和譽醫藥將獲得首付款，並有資格在後續達成開發、監管及商業化相關里程碑後獲得進一步付款，潛在總金額達19億美元。此外，和譽醫藥還將有權根據此次合作產生的產品年度淨銷售額獲得階梯式銷售分成。"
-    },
-    {
-      "id": "4951322",
-      "time": "2026-06-24 08:01:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，全球人工智慧相關需求正以超出預期的程度推高經濟活動和物價。"
-    },
-    {
-      "id": "4951321",
-      "time": "2026-06-24 08:01:47",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議意見摘要：一位委員表示，即使未來原油價格下跌，價格上行偏差也極有可能開始蔓延至更廣泛的商品領域。"
-    },
-    {
-      "id": "mkt:019ef6ee-b402-7dd8-b0e5-738709b1d0ad",
-      "time": "2026-06-24 08:01:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "BANK OF JAPAN June policy meeting summary: a member said inf expectations have shifted; negative real rates have driven higher lending, commercial paper issuance and asset prices."
-    },
-    {
-      "id": "4951320",
-      "time": "2026-06-24 08:01:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國會令特朗普將美軍撤出對伊行動】當地時間6月23日下午，美國國會參議院透過一項法案，要求美國總統特朗普停止對伊朗的軍事行動，將美軍從與伊朗的敵對行動中撤出。表決結果為50票贊成、48票反對，2名共和黨議員缺席投票。這項戰爭權力決議本月早些時候已在眾議院透過。這是自美國1973年《戰爭權力法》頒佈以來，首次由參眾兩院雙雙透過決議。不過，該投票大機率僅具象徵意義。 根據1973年《戰爭權力法》，兩院透過的“共同決議案”不需送白宮由總統簽署。美國國會制定該法時意圖將其作為終止軍事行動的機制。但法律專家認為此問題尚無定論——此前從未有戰爭權力決議在參眾兩院雙雙透過；而1983年美國最高法院裁決稱此類措施須提交總統簽署或否決方能產生法律效力。 白宮方面則堅持《戰爭權力法》違憲，故對其無約束力。"
-    },
-    {
-      "id": "mkt:019ef6ee-26e5-7dd8-b0e5-6c09c9d9a9ef",
-      "time": "2026-06-24 08:01:03",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "BANK OF JAPAN June policy meeting summary: one member said signs of rising wholesale prices are becoming clearer, particularly in distribution costs, which could feed through to underlying inflation."
-    },
-    {
-      "id": "mkt:019ef6ee-0329-7dd8-b0e5-65d7afdbad06",
-      "time": "2026-06-24 08:00:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan June policy meeting summary: one member said more attention is needed to firms' proactive pricing behavior and the upward pressure it places on overall inflation."
-    },
-    {
-      "id": "4951319",
-      "time": "2026-06-24 08:00:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.9%，至8356.79點。"
-    },
-    {
-      "id": "4951318",
-      "time": "2026-06-24 08:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報69615.08點，跌幅0.25%。"
-    },
-    {
-      "id": "te:markets:561287",
-      "time": "2026-06-24 08:00:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Commonwealth Bank Stock Price Hits 4-week High — Commonwealth Bank shares increased to 166.11 AUD, the highest since May 2026. Over the past 4 weeks, Commonwealth Bank gained 0.92%, and in the last 12 months, it decreased 11.7%."
     }
   ]
 }
