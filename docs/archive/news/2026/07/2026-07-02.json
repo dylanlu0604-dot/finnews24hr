@@ -1,7 +1,32 @@
 {
   "date": "2026-07-02",
-  "count": 164,
+  "count": 166,
   "items": [
+    {
+      "id": "mkt:019f1ef0-02b5-7aab-8c64-fe344c9a5ca2",
+      "time": "2026-07-02 02:27:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "LRCX.O",
+        "Impact bearish",
+        "AMAT.O",
+        "MU.O"
+      ],
+      "text": "Philadelphia semiconductor index widened losses to 5.87%; Lam Research (LRCX.O) fell 11.24%, Applied Materials (AMAT.O) fell 11.24%, Micron Technology (MU.O) fell 9.42%, Intel (INTC.O) fell 8.11% and ASML (ASML.O) fell 7.51%."
+    },
+    {
+      "id": "te:markets:563533",
+      "time": "2026-07-02 02:25:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Soars by 5.97% — Top commodity gainers are Coffee (5.97%) and Oat (2.38%)."
+    },
     {
       "id": "4965846",
       "time": "2026-07-02 02:22:47",

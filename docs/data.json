@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-02 02:25:14",
-  "count": 14140,
+  "updated": "2026-07-02 02:29:00",
+  "count": 14137,
   "items": [
+    {
+      "id": "mkt:019f1ef0-02b5-7aab-8c64-fe344c9a5ca2",
+      "time": "2026-07-02 02:27:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "LRCX.O",
+        "Impact bearish",
+        "AMAT.O",
+        "MU.O"
+      ],
+      "text": "Philadelphia semiconductor index widened losses to 5.87%; Lam Research (LRCX.O) fell 11.24%, Applied Materials (AMAT.O) fell 11.24%, Micron Technology (MU.O) fell 9.42%, Intel (INTC.O) fell 8.11% and ASML (ASML.O) fell 7.51%."
+    },
+    {
+      "id": "te:markets:563533",
+      "time": "2026-07-02 02:25:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Soars by 5.97% — Top commodity gainers are Coffee (5.97%) and Oat (2.38%)."
+    },
     {
       "id": "4965846",
       "time": "2026-07-02 02:22:47",
@@ -130297,50 +130322,6 @@
         "國際"
       ],
       "text": "受燃油短缺加劇影響，俄羅斯已與哈薩克接洽，擬供應約5萬噸92號汽油。受煉油廠生產中斷影響，俄羅斯汽油產量較去年下降約四分之一。"
-    },
-    {
-      "id": "mkt:019efae3-d171-7dd8-b102-53376be8fbea",
-      "time": "2026-06-25 02:28:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Punchbowl, a Republican senator called Trump's meeting \"more like a venting session by the president.\""
-    },
-    {
-      "id": "4953330",
-      "time": "2026-06-25 02:28:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "隨著成交量放大，Alphabet股價小幅回落，最新下跌約0.1%，報345.89美元。"
-    },
-    {
-      "id": "mkt:019efae3-11f4-7dd8-b102-4c98cc3d31ae",
-      "time": "2026-06-25 02:27:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: President Trump spent roughly 90% of a lunch with Republican lawmakers criticizing Lisa Murkowski, Bill Cassidy and Mitch McConnell as RINOs."
-    },
-    {
-      "id": "4953329",
-      "time": "2026-06-25 02:26:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普正與參議院共和黨議員爆發一場公開激烈對峙】美國參議院共和黨人遲遲未能透過《拯救美國法案》，這令特朗普頗為惱火；而黨內不少議員如今也對他心生不滿——由於該法案推進陷入停滯，特朗普取消了原定今日舉行的法案簽署儀式。黨內的緊張矛盾，疊加伊朗局勢不斷升級，預計將成為今日特朗普與參議院共和黨閉門午餐會的核心討論議題。此次分歧凸顯出共和黨內部的一道裂痕。自特朗普以自身政治主張重塑共和黨以來，黨內如此明顯的對立局面實屬罕見。"
-    },
-    {
-      "id": "te:markets:561635",
-      "time": "2026-06-25 02:25:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Danaher Stock Price Hits 9-week High — Danaher shares increased to 189.23 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 9.31%, and in the last 12 months, it decreased 6.02%."
     }
   ]
 }
