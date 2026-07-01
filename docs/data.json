@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-01 15:14:54",
-  "count": 13821,
+  "updated": "2026-07-01 15:18:52",
+  "count": 13818,
   "items": [
+    {
+      "id": "4964424",
+      "time": "2026-07-01 15:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 迪拜酋長之子斥資 3500 萬英鎊購入倫敦聯排別墅。"
+    },
+    {
+      "id": "mkt:019f1c89-c405-7aab-8c4e-5e280bb81b89",
+      "time": "2026-07-01 15:16:58",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung HBM4E yields exceed 70%; seventh‑generation AI DRAM development enters stable phase】Samsung Electronics' chief technology officer and head of its Semiconductor Research Institute said at an internal Device Solutions division briefing on June 30 that HBM4E reliability-test yields have risen above 70%. While the industry typically treats roughly 80% as a mature-process yield threshold, Samsung said HBM4E remains in reliability testing and the >70% level marks entry into a stable development phase. He also said Samsung's next‑generation 10nm‑class seventh‑generation DRAM process (D1d) has gained a technical edge over competitors and is scheduled to complete production readiness assessment (PRA) in November."
+    },
+    {
+      "id": "4964423",
+      "time": "2026-07-01 15:16:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債價格下跌；英國10年期國債收益率上漲6個基點至4.82%。"
+    },
+    {
+      "id": "4964422",
+      "time": "2026-07-01 15:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓終止“6·29”高縣5.5級地震三級應急響應】“宜賓釋出”訊息，6月29日0時12分，高縣發生5.5級地震，地震發生後，市抗震救災指揮部啟動宜賓市地震三級應急響應，迅速開展各項抗震救災工作。截至目前，現場搜救排查全面完成，受傷人員全部傷愈出院，受災群眾安置轉為過渡安置，災區生產生活秩序恢復正常。根據《中華人民共和國突發事件應對法》《宜賓市突發事件總體應急預案》《宜賓市地震應急預案》規定，結合國家、省終止響應的情況，經會商研究，決定於2026年7月1日14時起終止“6·29”高縣5.5級地震三級應急響應。"
+    },
+    {
+      "id": "mkt:019f1c89-2693-7aab-8c4e-527ffbb105fb",
+      "time": "2026-07-01 15:16:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures midday close】2-year (TS) most-active contract down 0.05%, 5-year (TF) down 0.15%, 10-year (T) down 0.21%, 30-year (TL) down 0.34% at midday close."
+    },
+    {
+      "id": "te:markets:563315",
+      "time": "2026-07-01 15:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.45% Higher — The Shangai Composite Index went up by 18 points or 0.45 percent on Wednesday to close at 4113 points. The rise was led by Datang Intl (10.03%), Yonghui Superstore (9.86%) and New China Life (9.47%). On the downside, the weakerst performers were Sanan Optoelectron (-7.02%), Avic Aviation Engine (-1.62%) and Bank Of China (-1.40%)."
+    },
+    {
+      "id": "4964421",
+      "time": "2026-07-01 15:15:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星HBM4E良率突破70% 第七代AI記憶體開發進入穩定階段】三星電子技術長兼半導體研究所所長於6月30日在DS（器件解決方案）部門內部經營說明會上表示，HBM4E的可靠性測試良率已提升至70%以上。業界通常將80%以上視為工藝穩定的\"成熟良率\"門檻，而HBM4E目前仍處於可靠性測試階段，70%以上的水平被認為標誌著開發程序正式進入穩定區間。與此同時，他在同一場合透露，下一代10奈米級第七代DRAM工藝（D1d）在技術競爭力上已取得對競爭對手的優勢，並計劃於今年11月完成生產準備認證（PRA）。"
+    },
+    {
+      "id": "mkt:019f1c88-1279-7aab-8c4e-497eb033e9ce",
+      "time": "2026-07-01 15:15:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Spain June manufacturing PMI 49.7, below consensus 51.0 and down from May's 51.2."
+    },
+    {
+      "id": "4964420",
+      "time": "2026-07-01 15:15:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙6月製造業PMI 49.7，預期51，前值51.2。"
+    },
+    {
+      "id": "4964419",
+      "time": "2026-07-01 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.34%， 10年期主力合約跌0.21%， 5年期主力合約跌0.15%， 2年期主力合約跌0.05%。"
+    },
+    {
+      "id": "mkt:019f1c87-f603-7aab-8c4e-4489359b5630",
+      "time": "2026-07-01 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Manufacturing PMI (Jun) | actual 49.7 | consensus 51 | previous 51.2"
+    },
+    {
+      "id": "4964418",
+      "time": "2026-07-01 15:14:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李學軍出任偉巴斯特中國區總裁】7月1日，據偉巴斯特集團官微訊息，自2026年7月1日起，李學軍正式出任偉巴斯特中國區總裁，負責偉巴斯特中國區車頂系統業務的管理、業務運營和發展。同時，原中國區總裁張麗華將出任偉巴斯特集團全球執行副總裁，負責車頂系統業務的全球銷售與市場工作。加入偉巴斯特前，李學軍曾擔任道依茨中國（DEUTZ China）執行長及董事會董事。在此之前，他還曾在北汽集團、梅賽德斯-賓士中國以及北京現代合資企業擔任高階管理職務。"
+    },
     {
       "id": "4964417",
       "time": "2026-07-01 15:13:56",
@@ -127021,139 +127129,6 @@
         "Impact bullish"
       ],
       "text": "【China EV charging connectors total 22.497 million at end‑May】National Energy Administration data from the national charging facilities monitoring platform show China had 22.497 million EV charging connectors at end‑May 2026, up 44.9% YoY. Public connectors numbered 4.951 million (+25.9% YoY) with aggregate rated power of 242 GW and average power per connector of about 48.89 kW. Private connectors reached 17.546 million (+51.4% YoY); private charging reported installed capacity was 151 million kVA."
-    },
-    {
-      "id": "mkt:019ef87e-f46e-7dd8-b0f0-4421980e47f6",
-      "time": "2026-06-24 15:18:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT expects inf to peak at 4.5% this year."
-    },
-    {
-      "id": "4952026",
-      "time": "2026-06-24 15:18:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【無錫資料集團與帕西尼達成戰略合作】6月22日，無錫資料集團與帕西尼感知科技（深圳）（簡稱“帕西尼”）達成戰略合作。雙方將依託無錫城市級全域真實場景網路，打通“EGO空間語義採集—高自由度觸覺感知—多模態資料對齊—資料資產化運營”的全鏈路。"
-    },
-    {
-      "id": "mkt:019ef87e-c84d-7dd8-b0f0-383db7b573fc",
-      "time": "2026-06-24 15:18:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Pakistan says US and Iran technical talks will resume next week, Saudi broadcaster Al Arabiya reports."
-    },
-    {
-      "id": "mkt:019ef87d-dae6-7dd8-b0f0-3681a1110f98",
-      "time": "2026-06-24 15:17:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reports technical-level talks between Tehran and Washington continue, though participants occasionally pause."
-    },
-    {
-      "id": "mkt:019ef87d-1f88-7dd8-b0f0-2f48639b481b",
-      "time": "2026-06-24 15:16:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures midday close】At the midday close, 2-year China government bond futures (TS) main contract rose 0.02%, 5-year (TF) rose 0.05%, 10-year (T) rose 0.03%, and 30-year (TL) fell 0.12%."
-    },
-    {
-      "id": "mkt:019ef87d-027e-7dd8-b0f0-2576854252cb",
-      "time": "2026-06-24 15:16:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "BOT expects Thailand's exports to rise 14.0% in 2026, up from its early-June forecast of 12–13%."
-    },
-    {
-      "id": "mkt:019ef87c-ac70-7dd8-b0f0-1930dcf5c4bf",
-      "time": "2026-06-24 15:16:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT expects foreign visitor arrivals to reach 33 million in 2026, unchanged from its April forecast."
-    },
-    {
-      "id": "4952025",
-      "time": "2026-06-24 15:16:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達110億港元。"
-    },
-    {
-      "id": "te:markets:561405",
-      "time": "2026-06-24 15:16:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.11% Higher — The Shangai Composite Index went up by 5 points or 0.11 percent on Wednesday to close at 4111 points. The rise was led by Sanan Optoelectron (9.98%), Foshan Haitian (2.31%) and Jiangsu Hengrui (2.29%). On the downside, the weakerst performers were Datang Intl (-5.04%), China Fortune (-4.72%) and Huaneng (-4.24%)."
-    },
-    {
-      "id": "4952024",
-      "time": "2026-06-24 15:16:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【即夢 AI 上線 Seedance 2.0 VIP 原生 4K 版本】6月23日，即夢 AI 網頁版Seedance 2.0 VIP 正式上線原生 4K 功能，支援超清輸出。與後期超分不同，原生4K 能夠從源頭保留更多區域性細節。人物髮絲、服裝紋理、建築線條、材質肌理等高密度資訊，都能更完整、清晰呈現，進一步提升畫面細節、色彩層次與光影表現，適配影視後期、品牌視覺、廣告營銷等高品質創作場景。"
-    },
-    {
-      "id": "4952023",
-      "time": "2026-06-24 15:15:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：預計2026年外國入境遊客數量為3300萬人次（4月預測值同樣為3300萬人次）。"
-    },
-    {
-      "id": "4952022",
-      "time": "2026-06-24 15:15:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：預計2026年出口將增長14.0%（6月初預期為增長12%至13%）。"
-    },
-    {
-      "id": "4952021",
-      "time": "2026-06-24 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約跌0.12%， 10年期主力合約漲0.03%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "4952020",
-      "time": "2026-06-24 15:14:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率跌至4.736%，創一週新低。"
-    },
-    {
-      "id": "mkt:019ef87b-654a-7dd8-b0f0-12e0ef2db4cd",
-      "time": "2026-06-24 15:14:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK 10-year government bond yield fell to 4.736%, a one-week low."
     }
   ]
 }
