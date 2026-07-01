@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-01 23:49:06",
-  "count": 14259,
+  "updated": "2026-07-01 23:53:11",
+  "count": 14263,
   "items": [
+    {
+      "id": "4965758",
+      "time": "2026-07-01 23:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 過去三天商業航運通行恢復暢通無阻。"
+    },
+    {
+      "id": "mkt:019f1e61-95e4-7aab-8c62-8cb6075d7b3e",
+      "time": "2026-07-01 23:52:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Vice President Vance said commercial shipping has had free passage over the past three days."
+    },
+    {
+      "id": "mkt:019f1e60-fd4a-7aab-8c62-84e3889da278",
+      "time": "2026-07-01 23:51:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "US10Y"
+      ],
+      "text": "U.S. Vice President Vance reiterated that Iran's navy and military forces have been destroyed."
+    },
+    {
+      "id": "4965757",
+      "time": "2026-07-01 23:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 數日前伊朗向船隻發動襲擊後，我方實施了數次空襲打擊。"
+    },
+    {
+      "id": "mkt:019f1e60-5b83-7aab-8c62-7ecbbc8ed912",
+      "time": "2026-07-01 23:50:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Vice President Vance said a few days ago that after Iran fired on vessels, US forces conducted airstrikes and dropped bombs."
+    },
+    {
+      "id": "4965756",
+      "time": "2026-07-01 23:50:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta宣佈任命Alex Schultz為公司首位首席資料官，Denise Moreno將出任首席市場官一職。"
+    },
+    {
+      "id": "4965755",
+      "time": "2026-07-01 23:49:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯重申，伊朗海軍和軍隊已被摧毀。"
+    },
+    {
+      "id": "te:markets:563512",
+      "time": "2026-07-01 23:49:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Equities Rebound, Dow Rises to Record — US equity indices rose from session lows on Wednesday as markets gauged the likelihood of a Fed rate hike this year and how much room is left on the AI trade. The S&P 500 gained 0.4% and the Dow rose 250 points to a new record high. Fed Chairman Warsh noted that inflation risks are decreasing and ISM Manufacturing prices fell sharply more than expected in June, limiting the need for an urgent hawkish response by the US central bank. Hyperscalers making up the Magnificent 7 extended their rebound after underperforming AI infrastructure companies since mid-May, with Microsoft, Amazon, and Alphabet adding more than 2%. Also, Meta soared11% after announcing plans to develop a cloud business to sell its excess AI compute capacity. Still, the Nasdaq 100 was 1% lower. Chip producers dropped after leading the rally for global stock markets, reigniting the AI trade despite lingering warnings that the sector is overleveraged. Micron and Sandisk fell over 7%."
+    },
     {
       "id": "mkt:019f1e5c-1595-7aab-8c62-76e9687d57b3",
       "time": "2026-07-01 23:46:19",
@@ -131479,42 +131556,6 @@
         "其他"
       ],
       "text": "GE航空航天漲超2%。"
-    },
-    {
-      "id": "4953158",
-      "time": "2026-06-24 23:51:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國推進向土耳其出售戰機發動機相關交易】儘管美國國會表示反對，特朗普政府仍計劃推進一筆價值超7億美元的交易，向土耳其出售通用電氣（GE）戰機發動機，用於該國“可汗”（Kaan）戰鬥機。這筆交易預計將在未來數日內敲定，趕在下月於土耳其舉辦的北約峰會之前完成。此前美土雙方曾因F-35戰機專案、土耳其採購俄羅斯S-400防空系統產生矛盾，而此次舉措釋放出美土防務合作持續推進的訊號。"
-    },
-    {
-      "id": "4953157",
-      "time": "2026-06-24 23:50:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美加州州長加文·紐森：簡直離譜。特朗普拿保障性住房議題當籌碼要挾國會，逼迫國會透過他那套壓制選民的法案。他故意拖延為住房困難家庭提供救助，只為抬高已婚女性、美國黑人的投票門檻。這個人心理扭曲。"
-    },
-    {
-      "id": "mkt:019efa52-bca7-7dd8-b0fe-d18865b657df",
-      "time": "2026-06-24 23:49:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S., Qatar, Nigeria and Algeria urged the EU to amend methane regulations, warning the rules may pose risks to gas supply and prices."
-    },
-    {
-      "id": "mkt:019efa52-3c1b-7dd8-b0fe-cbf842f4427b",
-      "time": "2026-06-24 23:49:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Sources say the Trump administration plans to continue selling jet engines worth several hundred million dollars to Turkey."
     }
   ]
 }
