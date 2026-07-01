@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-01 13:18:41",
-  "count": 13935,
+  "updated": "2026-07-01 13:22:35",
+  "count": 13920,
   "items": [
+    {
+      "id": "4964261",
+      "time": "2026-07-01 13:21:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【訊息稱SK 海力士長期供貨協議未設定價格上限，有望全額享受漲價收益】據臺灣電子時報，有訊息指出，SK 海力士近期與客戶簽訂的長期供貨協議（LTA）和競品廠商條款存在差異，採用無價格上限的特殊合約模式。這一策略使SK海力士成為市場上唯一不設價格上限的廠商，有望在未來的漲價週期中最大化紅利。此舉打破了半導體儲存器長約的傳統定價模式，能有效避免因設定價格上限而錯失供不應求時的暴漲收益。SK海力士在這波長約（LTA）變革中的關鍵特徵如下：不設上限：有別於其他競爭對手通常設立的「價格上限（Ceiling Price）」。週期紅利：在市況火熱且供不應求時，SK海力士能完整吃到完整漲價紅利，將市場價值最大化。合約年限：因應AI需求大增，SK海力士與三星皆已將合約從過往的一年期，拉長為3至5年的長期供應協議。"
+    },
+    {
+      "id": "4964260",
+      "time": "2026-07-01 13:20:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將阿迪達斯目標價從165歐元上調至185歐元。"
+    },
+    {
+      "id": "4964259",
+      "time": "2026-07-01 13:20:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將以太坊12個月價格預測下調至2240美元，此前預測為3175美元。"
+    },
     {
       "id": "mkt:019f1c1a-e2db-7aab-8c4b-f06054fbac9c",
       "time": "2026-07-01 13:15:51",
@@ -127974,176 +128000,6 @@
         "SZSE Component"
       ],
       "text": "China A-share robot-concept stocks rallied in the afternoon; Xin Hongye and Mankun Technology earlier hit a 20CM limit-up, while Yibo Technology gained >17%, Suochen Technology >16%, Jingzhida >14% and Hailanxin >13%."
-    },
-    {
-      "id": "4951801",
-      "time": "2026-06-24 13:22:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲8%。"
-    },
-    {
-      "id": "4951800",
-      "time": "2026-06-24 13:22:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "達倫·瓊斯：“安迪·伯納姆將成為下一任首相”。"
-    },
-    {
-      "id": "4951799",
-      "time": "2026-06-24 13:21:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將力拓目標價從7100便士上調至7850便士。"
-    },
-    {
-      "id": "4951798",
-      "time": "2026-06-24 13:21:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度阿達尼集團計劃到2035年建成10吉瓦的核電裝機容量。"
-    },
-    {
-      "id": "mkt:019ef813-9ab7-7dd8-b0ec-8c160283577f",
-      "time": "2026-06-24 13:21:34",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China's CSI 1000 index futures (IM) most-active contract hit 8,500 points, up 1.42% intraday."
-    },
-    {
-      "id": "mkt:019ef813-92a8-7dd8-b0ec-81ad0dac16ee",
-      "time": "2026-06-24 13:21:32",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Tech Index rises more than 2%; HSI up 0.35%."
-    },
-    {
-      "id": "4951797",
-      "time": "2026-06-24 13:21:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "達倫·瓊斯排除參加英國首相競逐的可能性。"
-    },
-    {
-      "id": "4951796",
-      "time": "2026-06-24 13:21:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超2%，現報4487.590點；恒生指數現漲0.365%。"
-    },
-    {
-      "id": "4951795",
-      "time": "2026-06-24 13:20:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "機器人概念股區域性異動，日發精機直線漲停。"
-    },
-    {
-      "id": "mkt:019ef812-a846-7dd8-b0ec-7a8d7642e5d3",
-      "time": "2026-06-24 13:20:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares extended gains; Shenzhen Component and ChiNext rose over 1%, Shanghai Composite up 0.15%."
-    },
-    {
-      "id": "4951793",
-      "time": "2026-06-24 13:20:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.01%，現報4234.613點；上證指數漲0.17%，現報4113.278點；深證成指漲1.06%，現報16022.106點。"
-    },
-    {
-      "id": "mkt:019ef812-70d2-7dd8-b0ec-739c5400453a",
-      "time": "2026-06-24 13:20:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China's CSI 500 index futures main contract (IC) climbed above 8,600, up 2.03% intraday."
-    },
-    {
-      "id": "4951792",
-      "time": "2026-06-24 13:20:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【創新奇智與華航唯實達成戰略合作】近日，創新奇智與華航唯實達成戰略合作。雙方將共同聚力打造集創新研發、應用推廣、產教融合於一體的人工智慧公共服務平臺。本次合作，將聚焦智慧製造行業下的需求痛點，以AI+工業軟體及AI+具身智慧機器人技術的研發與應用為核心，結合華航唯實在高校業務佈局及工業軟體產業資源優勢，雙方將在製造生產管控、裝置智慧運維、安全生產、工業模擬等核心應用場景開展深度落地實踐。"
-    },
-    {
-      "id": "4951791",
-      "time": "2026-06-24 13:19:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報16013.657點；上證指數漲0.13%，現報4111.713點；創業板指漲0.93%，現報4231.345點。"
-    },
-    {
-      "id": "4951790",
-      "time": "2026-06-24 13:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《2026年十大新興技術》報告發布】正在遼寧大連舉行的第十七屆夏季達沃斯論壇，今天釋出《2026年十大新興技術》報告。與會嘉賓表示，中國完備產業生態將持續為新技術落地提供廣闊空間，為全球經濟增長帶來新機遇。本屆論壇釋出的十大新興技術報告中，萬物互聯電網、直接提鋰技術、被動輻射冷卻材料等入選最值得關注的十大突破性技術。報告認為今年技術發展重心從軟體最佳化的AI轉向物理系統，同時多項技術打破資源、地域限制，有望化解能源、環境、醫療等全球性難題。（央視新聞）"
-    },
-    {
-      "id": "4951789",
-      "time": "2026-06-24 13:19:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本電力JERA董事長：我們目前正就向資料中心供電事宜，與美國、歐洲及亞洲的多家運營商展開洽談。"
-    },
-    {
-      "id": "mkt:019ef811-0750-7dd8-b0ec-6c02e343d030",
-      "time": "2026-06-24 13:18:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "【Three major A-share indices turn positive in afternoon session】Three major A-share indices turned positive in the afternoon session; Shanghai Composite moved into the green. ChiNext rose 0.74% and the SZSE Component Index gained 0.8%. Top-performing sectors: fluorochemicals, memory chips, PCB and crude palm oil (CPO). More than 1,200 stocks advanced."
-    },
-    {
-      "id": "4951788",
-      "time": "2026-06-24 13:18:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三大指數午後集體翻紅】A股三大指數午後集體翻紅，滬指翻紅，創業板指漲0.74%，深成指漲0.8%，氟化工、儲存晶片、PCB概念、CPO板塊漲幅居前。全市場上漲個股超1200只。"
     }
   ]
 }
