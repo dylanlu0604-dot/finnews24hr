@@ -1,7 +1,81 @@
 {
   "date": "2026-07-01",
-  "count": 1353,
+  "count": 1361,
   "items": [
+    {
+      "id": "4964273",
+      "time": "2026-07-01 13:37:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利在四川成立科技公司】企查查APP顯示，近日，吉利科技（四川）有限公司成立，法定代表人為徐志豪，註冊資本為3.81億元，經營範圍包含工程和技術研究和試驗發展；企業總部管理；資源再生利用技術研發；新材料技術研發等。企查查股權穿透顯示，該公司由吉利旗下寧波銳馬企業管理合夥企業（有限合夥）及浙江濟底科技有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f1c2e-95f9-7aab-8c4c-334d931f462c",
+      "time": "2026-07-01 13:37:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Commission President von der Leyen said this is positive for transatlantic trade, making trade more predictable, expanding options and delivering lower prices for EU businesses and consumers."
+    },
+    {
+      "id": "4964272",
+      "time": "2026-07-01 13:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體板塊午後震盪下行 恆運昌跌超9%】半導體板塊午後震盪下行，恆運昌跌超9%，寒武紀、源傑科技、長光華芯、芯原股份等股跟跌。"
+    },
+    {
+      "id": "4964271",
+      "time": "2026-07-01 13:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：今天，歐盟取消了對美國工業產品進口的關稅。這是歐盟與美國聯合宣告中作出的承諾。"
+    },
+    {
+      "id": "mkt:019f1c2c-b697-7aab-8c4c-2b8387c765ac",
+      "time": "2026-07-01 13:35:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share innovative-drug stocks rebounded in afternoon trade; Qianhong Pharmaceutical hit the daily limit, while Yahong Pharmaceutical, Yifang Bio, Sansheng Guojian and Qianyuan Bio also rose."
+    },
+    {
+      "id": "mkt:019f1c2c-a4c4-7aab-8c4c-27241ef675c3",
+      "time": "2026-07-01 13:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index (Taiex) closed up 893.08 points, or 1.94%, at 47,018.99 on Wednesday, July 1."
+    },
+    {
+      "id": "4964270",
+      "time": "2026-07-01 13:35:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高1.9%報47,018.99。"
+    },
+    {
+      "id": "4964269",
+      "time": "2026-07-01 13:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念股震盪回暖 千紅製藥觸及漲停】創新藥概念股震盪回暖，千紅製藥觸及漲停，亞虹醫藥、益方生物、三生國健、前沿生物等股跟漲。"
+    },
     {
       "id": "4964268",
       "time": "2026-07-01 13:33:40",
