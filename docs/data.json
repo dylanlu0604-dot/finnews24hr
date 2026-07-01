@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-01 20:10:07",
+  "updated": "2026-07-01 20:14:09",
   "count": 13931,
   "items": [
+    {
+      "id": "4965217",
+      "time": "2026-07-01 20:13:05",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣下跌，受美國加息押注及Strategy新計劃影響】比特幣在隔夜觸及21個月低點後依然承壓。對美聯儲可能加息的預期是導致該加密貨幣走弱的原因之一。Trade Nation的David Morrison在一份報告中表示，囤積加密貨幣的公司Strategy可能出售比特幣以籌集更多現金的訊息，也無助於提振市場情緒。“這是該公司創始人Michael Saylor曾說過永遠不會發生的事情。”他表示，投資者似乎正在撤出加密貨幣，並湧入半導體股票以及任何與AI相關的領域。"
+    },
+    {
+      "id": "mkt:019f1d98-bf1e-7aab-8c57-287453af9d33",
+      "time": "2026-07-01 20:12:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【Nomura: Too early to call peak in chip stocks】Nomura analysts say it is too early to declare chip stocks have peaked and expect the sector’s upward momentum to continue. They cite two drivers: hyperscale data‑center operators that must scale or exit are unlikely to stop investing through 2027, in part because rising storage‑chip costs are sustaining spend; and data‑center buildouts are accelerating. The team calls the recent chip‑price pullback “healthy” but warns markets have not yet priced some potential future risks and supply shortages."
+    },
+    {
+      "id": "mkt:019f1d98-ad3b-7aab-8c57-23267252f93a",
+      "time": "2026-07-01 20:12:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say OPEC+ is likely to raise August oil production quotas by 188,000 b/d at its Sunday meeting."
+    },
+    {
+      "id": "4965216",
+      "time": "2026-07-01 20:12:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：邁仕渡積體電路（中山）有限公司不會進行主控晶片的生產研發】江波龍(301308)7月1日在互動平臺表示，邁仕渡積體電路（中山）有限公司不會進行主控晶片的生產研發，公司自研主控晶片及儲存晶片採用Fabless模式（無晶圓廠製造模式）。子公司設立，是公司動態最佳化經營策略的體現，該等變化短期不實質影響公司合併報表層面，不宜過度解讀。"
+    },
+    {
+      "id": "4965215",
+      "time": "2026-07-01 20:12:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "三名訊息人士透露，石油輸出國組織與夥伴國（OPEC+）週日會議上大機率會將8月石油產量配額每日上調18.8萬桶。"
+    },
+    {
+      "id": "te:economy:563429",
+      "time": "2026-07-01 20:12:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Brazil Loan Growth Picks Up — The value of outstanding loans from the Brazilian financial sector rose by 0.6% from the previous month to R$7.3 trillion in May of 2026. Despite the acceleration, the growth rate remained slightly below averages since recovery of the Brazilian economic crisis in 2017, as the Brazilian central bank maintained its policy rate as one of the highest real rates globally to combat inflationary risks. Loans extended to households rose by 0.5% in the period to R$4.6 trillion. In the meantime, loans extended to companies rose 0.7% to 2.7 trillion."
+    },
+    {
+      "id": "4965214",
+      "time": "2026-07-01 20:11:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳闢謠“全域開放無人駕駛計程車”：將嚴格控制投放規模】《深圳經濟特區智慧網聯汽車管理條例》修改決定於7月1日起施行。此前有訊息解讀稱“深圳將全域開放無人駕駛計程車”，對此，7月1日，深圳市有關職能部門回應稱，該訊息不實，深圳市交通運輸局正推動智慧網聯汽車產業叢集發展，嚴格控制投放規模。"
+    },
+    {
+      "id": "mkt:019f1d97-3f3f-7aab-8c57-19751d0d3fb3",
+      "time": "2026-07-01 20:11:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen denies plan to open entire city to driverless taxis; will strictly limit deployments】An amendment to the Shenzhen Special Economic Zone Intelligent Connected Vehicle Management Regulation took effect July 1. Reports that Shenzhen would open the entire city to driverless taxis are false, city authorities said July 1. The Shenzhen Transport Bureau said it is promoting an intelligent connected vehicle industry cluster while strictly controlling the scale of robotaxi deployments."
+    },
+    {
+      "id": "4965213",
+      "time": "2026-07-01 20:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿維塔 6 月交付 7459 輛。"
+    },
+    {
+      "id": "4965210",
+      "time": "2026-07-01 20:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：TIKTOK證實在印尼裁員。"
+    },
     {
       "id": "4965209",
       "time": "2026-07-01 20:09:27",
@@ -128182,88 +128282,6 @@
         "國際"
       ],
       "text": "特朗普對福克斯新聞表示：先期向伊朗提供5億美元用於購買美國商品。"
-    },
-    {
-      "id": "4952769",
-      "time": "2026-06-24 20:13:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國產單核心大冷量稀釋製冷機成功下線】6月24日，在中國科學院量子資訊與量子科技創新研究院授權指導下，科大國盾量子技術股份有限公司完成工程化開發的國產稀釋製冷機ez-Q F1500首臺正式下線，為我國後續千位元可糾錯超導量子計算機的研製奠定基礎。據瞭解，目前商用單核心稀釋製冷機的製冷量多在400至800微瓦區間，難以滿足千位元超導量子計算機需求。國際通用做法是將至少兩個核心單元並聯，但系統複雜度大幅增加，對裝置長期穩定執行構成挑戰。為此，中國科學院量子資訊與量子科技創新研究院於2025年完成“單稀釋製冷單元大功率稀釋製冷機”原型研製，實現了20毫開爾文溫度下40微瓦製冷量的技術突破。在此基礎上，國盾量子進一步聯合攻關，ez-Q F1500僅依靠單核心就能在100毫開爾文溫度下製冷量達1700微瓦，20毫開爾文溫度下製冷量達48微瓦，低溫極限可降至約5.42毫開爾文，單核心製冷量達國際領先水平。（新華社）"
-    },
-    {
-      "id": "mkt:019ef98c-389c-7dd8-b0f8-f2d65b0770af",
-      "time": "2026-06-24 20:12:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported US President Trump said there is no need to rush to send inspectors into Iranian facilities."
-    },
-    {
-      "id": "4952768",
-      "time": "2026-06-24 20:12:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金<XPT=>下跌超3%，至每盎司1601美元。"
-    },
-    {
-      "id": "4952767",
-      "time": "2026-06-24 20:12:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告訴福克斯新聞，不急於派遣檢查人員進入伊朗場所。"
-    },
-    {
-      "id": "4952766",
-      "time": "2026-06-24 20:11:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通：將在收購完成時透過私募配售發行股份。"
-    },
-    {
-      "id": "mkt:019ef98b-277d-7dd8-b0f8-efdf6036aad5",
-      "time": "2026-06-24 20:11:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fox News reports US President Trump said inspectors would be allowed access to Iran's uranium storage sites."
-    },
-    {
-      "id": "4952765",
-      "time": "2026-06-24 20:11:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通將向Modular股權持有人發行至多1920萬股股票。"
-    },
-    {
-      "id": "4952764",
-      "time": "2026-06-24 20:11:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOLAREDGE盤前股價上漲6%，ENPHASE ENERGY股價上漲4.8%。"
-    },
-    {
-      "id": "4952763",
-      "time": "2026-06-24 20:11:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普向福克斯新聞表示：伊朗鈾存放地點將允許核查人員進入。"
-    },
-    {
-      "id": "4952762",
-      "time": "2026-06-24 20:10:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌4%，現報1193.61美元/盎司。"
     }
   ]
 }
