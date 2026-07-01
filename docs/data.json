@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-02 03:47:03",
-  "count": 14112,
+  "updated": "2026-07-02 03:50:52",
+  "count": 14113,
   "items": [
+    {
+      "id": "4965891",
+      "time": "2026-07-02 03:49:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 當年我們把巴拿馬運河交還給巴拿馬之後，他們第一件事就是把船舶通行費漲了四倍，過往船隻一艘都沒減少。 後來他們又再度漲價，船隻通行量依舊沒有下滑。 他們賺得盆滿缽滿。我們當初那麼做實在太蠢了。"
+    },
+    {
+      "id": "4965890",
+      "time": "2026-07-02 03:49:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：巴拿馬運河是我們耗資最大的工程，同時也是收益最高的專案，兩者兼得實屬難得。"
+    },
+    {
+      "id": "mkt:019f1f3a-3f48-7aab-8c65-d5ad2e30727f",
+      "time": "2026-07-02 03:48:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Market sources: US signs agreement to establish a permanent embassy in Jerusalem."
+    },
+    {
+      "id": "4965889",
+      "time": "2026-07-02 03:47:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國簽署協議，計劃在耶路撒冷設立常駐大使館。"
+    },
+    {
+      "id": "mkt:019f1f38-ae1d-7aab-8c65-c943e8c55545",
+      "time": "2026-07-02 03:47:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "WBG executive board approved $150 mln in financing for Sri Lanka to support its reform agenda."
+    },
+    {
+      "id": "4965888",
+      "time": "2026-07-02 03:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行執行董事會批准提供1.5億美元融資支援斯里蘭卡改革議程。"
+    },
     {
       "id": "4965887",
       "time": "2026-07-02 03:43:38",
@@ -130005,56 +130059,6 @@
         "Importance 1"
       ],
       "text": "Microsoft Stock Price Hits 10-week Low — Microsoft shares decreased to 367.06 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 11.69%, and in the last 12 months, it decreased 25.37%."
-    },
-    {
-      "id": "mkt:019efb2e-c492-7dd8-b103-9cdd5c8d25e9",
-      "time": "2026-06-25 03:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Japan & APAC",
-        "S&P500",
-        "Impact mixed",
-        "USDJPY"
-      ],
-      "text": "Federal Reserve to release annual bank stress test results in ten minutes; Bank of Japan Governor UEDA to attend an event in ten minutes."
-    },
-    {
-      "id": "mkt:019efb2e-353c-7dd8-b103-90f88791aa5f",
-      "time": "2026-06-25 03:49:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to The Information, General Atlantic is in talks to lead a financing round for SambaNova that would exceed $1bln and could close as early as next week."
-    },
-    {
-      "id": "4953415",
-      "time": "2026-06-25 03:48:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "Cerebras Systems跌幅擴大至19%，跌破IPO發行價。"
-    },
-    {
-      "id": "mkt:019efb2d-0526-7dd8-b103-8aa28d2608ab",
-      "time": "2026-06-25 03:48:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Intel-backed AI chipmaker SambaNova is targeting a $10 billion valuation — a fivefold increase — and plans to raise $800m–$1bn, The Information reports."
-    },
-    {
-      "id": "4953412",
-      "time": "2026-06-25 03:47:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英特爾投資的 AI 晶片企業 Sambanova 估值將增至五倍，達到 100 億美元。"
     }
   ]
 }
