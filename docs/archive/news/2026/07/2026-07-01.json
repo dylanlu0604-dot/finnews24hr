@@ -1,7 +1,83 @@
 {
   "date": "2026-07-01",
-  "count": 1216,
+  "count": 1224,
   "items": [
+    {
+      "id": "te:economy:563243",
+      "time": "2026-07-01 12:13:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Indonesia Inflation Rate Hits 3-Month High — Indonesia’s annual inflation accelerated to 3.34% in June 2026 from 3.08% in the previous month, exceeding market expectations of 3.2% and marking the highest reading since March. The latest result remained within the upper end of Bank Indonesia’s 1.5%–3.5% target range. On a monthly basis, consumer prices rose 0.44%, quickening from a 0.28% increase in May and topping forecasts of a 0.3% gain. It marked the strongest monthly inflation reading since February."
+    },
+    {
+      "id": "4964187",
+      "time": "2026-07-01 12:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "問界汽車：6月交付新車30199臺，上半年累計交付同比增長10.2%。全新一代問界M9系列，上市一個月大定突破42000臺；問界M6上市54天，累計交付超30000臺。"
+    },
+    {
+      "id": "mkt:019f1be0-a37d-7aab-8c4a-f69bbf215a58",
+      "time": "2026-07-01 12:12:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 5-year bond yield rose 2.5 bps to 1.915%."
+    },
+    {
+      "id": "4964186",
+      "time": "2026-07-01 12:11:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲2.5個基點，至1.915%。"
+    },
+    {
+      "id": "mkt:019f1be0-22c9-7aab-8c4a-ea5d543aa36f",
+      "time": "2026-07-01 12:11:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 2-year bond yield rose 2.0 bps to 1.395%."
+    },
+    {
+      "id": "4964185",
+      "time": "2026-07-01 12:11:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲2.0個基點，至1.395%。"
+    },
+    {
+      "id": "4964184",
+      "time": "2026-07-01 12:11:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1198.59美元/盎司。"
+    },
+    {
+      "id": "4964183",
+      "time": "2026-07-01 12:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嵐圖汽車： 2026年6月交付 14223 輛 同比增長41%】嵐圖汽車釋出訊息稱， 2026年6月交付 14223 輛，同比增長41%；2026年1-6月累計交付76264 輛，同比增長36%。嵐圖汽車同時透露，嵐圖追光S 7月下旬開啟預售。"
+    },
     {
       "id": "mkt:019f1bde-3f31-7aab-8c4a-e0e34217a23a",
       "time": "2026-07-01 12:09:37",

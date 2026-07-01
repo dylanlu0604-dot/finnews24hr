@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-01 12:10:29",
-  "count": 13932,
+  "updated": "2026-07-01 12:14:27",
+  "count": 13928,
   "items": [
+    {
+      "id": "te:economy:563243",
+      "time": "2026-07-01 12:13:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Indonesia Inflation Rate Hits 3-Month High — Indonesia’s annual inflation accelerated to 3.34% in June 2026 from 3.08% in the previous month, exceeding market expectations of 3.2% and marking the highest reading since March. The latest result remained within the upper end of Bank Indonesia’s 1.5%–3.5% target range. On a monthly basis, consumer prices rose 0.44%, quickening from a 0.28% increase in May and topping forecasts of a 0.3% gain. It marked the strongest monthly inflation reading since February."
+    },
+    {
+      "id": "4964187",
+      "time": "2026-07-01 12:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "問界汽車：6月交付新車30199臺，上半年累計交付同比增長10.2%。全新一代問界M9系列，上市一個月大定突破42000臺；問界M6上市54天，累計交付超30000臺。"
+    },
+    {
+      "id": "mkt:019f1be0-a37d-7aab-8c4a-f69bbf215a58",
+      "time": "2026-07-01 12:12:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 5-year bond yield rose 2.5 bps to 1.915%."
+    },
+    {
+      "id": "4964186",
+      "time": "2026-07-01 12:11:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲2.5個基點，至1.915%。"
+    },
+    {
+      "id": "mkt:019f1be0-22c9-7aab-8c4a-ea5d543aa36f",
+      "time": "2026-07-01 12:11:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 2-year bond yield rose 2.0 bps to 1.395%."
+    },
+    {
+      "id": "4964185",
+      "time": "2026-07-01 12:11:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲2.0個基點，至1.395%。"
+    },
+    {
+      "id": "4964184",
+      "time": "2026-07-01 12:11:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1198.59美元/盎司。"
+    },
+    {
+      "id": "4964183",
+      "time": "2026-07-01 12:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嵐圖汽車： 2026年6月交付 14223 輛 同比增長41%】嵐圖汽車釋出訊息稱， 2026年6月交付 14223 輛，同比增長41%；2026年1-6月累計交付76264 輛，同比增長36%。嵐圖汽車同時透露，嵐圖追光S 7月下旬開啟預售。"
+    },
     {
       "id": "mkt:019f1bde-3f31-7aab-8c4a-e0e34217a23a",
       "time": "2026-07-01 12:09:37",
@@ -127989,114 +128065,6 @@
         "其他"
       ],
       "text": "【受降雨影響 全國6條河流發生超警洪水】從水利部瞭解到，受降雨影響，昨天到今天，廣西西江干流平南江段及支流白沙江、柳江上游都柳江，貴州北盤江支流打邦河，湖南沅水支流渠水，江西長江中游支流烏石港等6條河流發生超警洪水，最大超警幅度0.49米，目前除白沙江外均已退至警戒以下。"
-    },
-    {
-      "id": "4951720",
-      "time": "2026-06-24 12:14:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：汽油價格最好開始以比我目前看到的快得多的速度下跌。"
-    },
-    {
-      "id": "mkt:019ef7d5-b5c7-7dd8-b0eb-5d8f78c7b3de",
-      "time": "2026-06-24 12:13:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. President Trump has directed the Justice Department to immediately open investigations into oil companies that have not lowered fuel prices."
-    },
-    {
-      "id": "4951719",
-      "time": "2026-06-24 12:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：已下令司法部調查汽油價格】特朗普稱，已指示司法部立即調查未降低加油站油價的石油公司。"
-    },
-    {
-      "id": "4951718",
-      "time": "2026-06-24 12:13:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：大型石油公司沒有降低油價。"
-    },
-    {
-      "id": "4951717",
-      "time": "2026-06-24 12:12:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雄安一號衛星整裝待發，新區空天產業迎來里程碑時刻】萬眾期待的雄安一號衛星發射日程備受外界關注。作為雄安本土衛星生產線打造出的首顆自研衛星，它承載著關鍵技術驗證的重要使命。這不僅僅是一次航天技術層面的落地實踐，更象徵著雄安新區空天資訊產業鏈正式邁入高速發展新階段，為區域高階科創產業佈局築牢堅實根基。（中國日報）"
-    },
-    {
-      "id": "mkt:019ef7d4-791d-7dd8-b0eb-55744ca1f582",
-      "time": "2026-06-24 12:12:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says it is premature to discuss rate hikes now."
-    },
-    {
-      "id": "mkt:019ef7d4-533f-7dd8-b0eb-4aa8132eabb0",
-      "time": "2026-06-24 12:12:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said the central bank would shift its policy stance from neutral to restrictive if it wanted to prepare markets for rate hikes."
-    },
-    {
-      "id": "4951716",
-      "time": "2026-06-24 12:12:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：現在談論加息還為時過早。"
-    },
-    {
-      "id": "4951715",
-      "time": "2026-06-24 12:11:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：如果我們希望讓市場為加息做好準備，我們就會將政策立場從中性調整至緊縮性了。"
-    },
-    {
-      "id": "te:markets:561362",
-      "time": "2026-06-24 12:11:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Holds Decline as Dollar Strengthens — Copper futures traded around $6.1 per pound on Wednesday after tumbling more than 3% in the previous session, pressured by a stronger dollar amid hawkish expectations for Federal Reserve policy. At its latest policy meeting, Fed officials left interest rates unchanged but signaled increasing support for future rate hikes, while new Fed Chair Kevin Warsh reaffirmed his commitment to restoring price stability. A stronger dollar makes dollar-denominated commodities such as copper more expensive for holders of other currencies, while the prospect of higher borrowing costs clouds the outlook for global growth and industrial metals demand. Meanwhile, analysts noted that weakness in China’s traditional copper-consuming sectors has only been partly offset by resilient demand from renewable energy, energy storage, and electronics industries."
-    },
-    {
-      "id": "mkt:019ef7d3-4878-7dd8-b0eb-43bf53a18de1",
-      "time": "2026-06-24 12:11:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【System fault resolved, German rail services gradually resume】German authorities said on the 24th a wireless communications fault that halted Deutsche Bahn services nationwide for several hours has been resolved. Train services began to be restored early today local time, though delays and some cancellations remain possible. Deutsche Bahn suspended nationwide services on the evening of the 23rd; long-distance, regional and intercity trains were affected."
-    },
-    {
-      "id": "4951714",
-      "time": "2026-06-24 12:10:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【系統故障解決 德國鐵路列車服務逐步恢復】據德國方面24日訊息，在經歷了數小時的全國停運後，德國鐵路無線通訊系統故障已經得到解決。德國範圍內的鐵路列車服務於當地時間今天凌晨開始逐步恢復，但是不排除還會有一些列車延誤或者取消的情況。此前，德國鐵路公司發言人證實，當地時間23日晚，因無線通訊系統故障，德國鐵路公司暫停了全國範圍內的列車服務。長途列車、區域列車以及城際列車均受到影響。"
     }
   ]
 }
