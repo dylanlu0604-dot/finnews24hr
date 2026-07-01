@@ -1,7 +1,155 @@
 {
   "date": "2026-07-01",
-  "count": 3540,
+  "count": 3554,
   "items": [
+    {
+      "id": "4965684",
+      "time": "2026-07-01 22:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）表示，美國墨西哥灣沿岸汽油庫存上週下降，降至2024年10月以來的最低水平。"
+    },
+    {
+      "id": "mkt:019f1e21-c986-7aab-8c60-dddf044eb206",
+      "time": "2026-07-01 22:42:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. diesel futures retraced some gains and were up 0.4% after the EIA reported an unexpected build in U.S. distillate fuel inventories."
+    },
+    {
+      "id": "4965682",
+      "time": "2026-07-01 22:42:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油期貨回吐部分漲幅，現漲0.4%，EIA報告顯示美國餾分油庫存意外增加。"
+    },
+    {
+      "id": "mkt:019f1e21-61fe-7aab-8c60-d7c746953966",
+      "time": "2026-07-01 22:42:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures extended losses to 1.6% after an EIA report showed US crude inventories fell by less than expected. US gasoline futures rose 1.1% as the EIA reported gasoline stock draws larger than forecasts."
+    },
+    {
+      "id": "mkt:019f1e20-fda6-7aab-8c60-ce415b5f4c37",
+      "time": "2026-07-01 22:41:46",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "An ECB Governing Council member said this autumn may bring more clarity on wages."
+    },
+    {
+      "id": "4965681",
+      "time": "2026-07-01 22:41:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）庫存報告顯示，美國原油庫存降幅不及預期後，美國原油期貨<CLc1>變動不大，下跌1%。"
+    },
+    {
+      "id": "mkt:019f1e20-ae4f-7aab-8c60-c0b0ee90263f",
+      "time": "2026-07-01 22:41:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Kasik said the war’s impact on oil prices is likely to be longer-lasting and that another rate hike is a reasonable expectation."
+    },
+    {
+      "id": "te:markets:563499",
+      "time": "2026-07-01 22:41:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 26-week High — Progressive shares increased to 224.57 USD, the highest since December 2025. Over the past 4 weeks, Progressive gained 16.2%, and in the last 12 months, it decreased 15.29%."
+    },
+    {
+      "id": "4965680",
+      "time": "2026-07-01 22:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙6月高溫相關死亡人數達十餘年來最高】西班牙國家氣象局在社交媒體上發文說，2026年6月成為1961年有相關氣象記錄以來第二熱的6月，僅次於2025年6月。據西班牙國家氣象局釋出的初步資料，西班牙本土6月的平均氣溫較常年同期偏高約3.2攝氏度。持續高溫帶來顯著公共衛生影響。據西班牙每日死亡率監測系統估算，整個6月，西班牙與高溫相關的死亡人數達到1029人，超過2017年6月的1000人，為2015年有可比記錄以來當月的最高值。（新華社）"
+    },
+    {
+      "id": "4965679",
+      "time": "2026-07-01 22:40:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行 官員卡西克 ：戰爭可能會造成長期性的影響。"
+    },
+    {
+      "id": "mkt:019f1e1f-f080-7aab-8c60-bdd6a9787d7a",
+      "time": "2026-07-01 22:40:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Warsh on Supreme Court ruling on Fed: 'We need not worry about political interference'】After the Supreme Court blocked President Trump’s attempt to remove Fed governor Cook, Fed Chair Kevin Warsh said the Fed has operated independently and will continue to do so and will abide by the court’s decision. He said he trusts Article III judges and the rule of law, that the ruling reaffirms the Fed’s commitment to impartial execution of its duties, and that the Fed will pursue reform goals and deliver Congress’s mandate to achieve price stability under the dual mandate — adding that if it achieves price stability, there is no need to fear political or judicial interference and the central bank can remain focused on its tasks."
+    },
+    {
+      "id": "4965678",
+      "time": "2026-07-01 22:40:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克：今年秋季薪資資料或將更加明朗。"
+    },
+    {
+      "id": "mkt:019f1e1f-7ed3-7aab-8c60-b3b7853ea298",
+      "time": "2026-07-01 22:40:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) shares rose more than 10% intraday after reports the company is building a cloud business to sell excess AI compute capacity."
+    },
+    {
+      "id": "4965677",
+      "time": "2026-07-01 22:40:08",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行官員卡西克：市場合理預期央行還將加息一次。"
+    },
     {
       "id": "4965676",
       "time": "2026-07-01 22:39:19",
