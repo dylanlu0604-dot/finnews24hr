@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-02 03:15:06",
-  "count": 14114,
+  "updated": "2026-07-02 03:18:52",
+  "count": 14110,
   "items": [
+    {
+      "id": "4965872",
+      "time": "2026-07-02 03:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會表示，人工智慧偏見防控措施可能違反消費者保護法。"
+    },
+    {
+      "id": "4965871",
+      "time": "2026-07-02 03:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國正積極遊說美國，獲准在德國境內製造美製武器裝備，一方面希望維繫特朗普對歐洲安全事務的投入，另一方面補齊本國軍備缺口。"
+    },
     {
       "id": "4965870",
       "time": "2026-07-02 03:11:50",
@@ -130026,54 +130042,6 @@
         "Impact bearish"
       ],
       "text": "CBS reports Trump plans to push to make the 15% ethanol gasoline blend policy (E15) permanent."
-    },
-    {
-      "id": "mkt:019efb11-6129-7dd8-b103-2e2d0242a8c7",
-      "time": "2026-06-25 03:18:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Foreign Ministry spokesman said the U.S. must avoid interpreting the memorandum of understanding in a way that contradicts its literal text and must fulfill its commitments."
-    },
-    {
-      "id": "4953385",
-      "time": "2026-06-25 03:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "據CBS：特朗普擬推動將 15% 乙醇汽油混合燃料政策永久化。"
-    },
-    {
-      "id": "4953383",
-      "time": "2026-06-25 03:17:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：美國不得做出與結束戰爭諒解備忘錄明文條款相悖的解讀，並應履行自身承諾。"
-    },
-    {
-      "id": "4953382",
-      "time": "2026-06-25 03:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美能源部長：過去24小時72艘船透過霍爾木茲海峽】美國能源部長賴特表示，過去24小時內共有72艘船舶透過霍爾木茲海峽，運輸原油約2000萬桶。賴特當天在紐約表示，伊朗今後將無法關閉霍爾木茲海峽，並稱這是伊朗“關鍵籌碼”，美國正在削弱這一籌碼。（央視新聞）"
-    },
-    {
-      "id": "4953381",
-      "time": "2026-06-25 03:15:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將向國會尋求逾14億美元的埃博拉資金援助。"
-    },
-    {
-      "id": "mkt:019efb0e-f56b-7dd8-b103-245d98e23499",
-      "time": "2026-06-25 03:15:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said US statements on the memorandum of understanding are contradictory and do not help reduce distrust among the Iranian public."
     }
   ]
 }
