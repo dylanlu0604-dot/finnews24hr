@@ -1,7 +1,23 @@
 {
   "date": "2026-07-02",
-  "count": 146,
+  "count": 148,
   "items": [
+    {
+      "id": "mkt:019f1ed3-45be-7aab-8c64-cf1b1d5269a0",
+      "time": "2026-07-02 01:56:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ECB's Stournaras says further tightening may not be needed after June hike】ECB Governing Council member Stournaras said an unexpected fall in energy prices and slowing euro-area inflation may mean the bank does not need to tighten policy further after a June rate increase. Euro-area CPI eased to 2.8% YoY, below forecasts, which he called a clear downside surprise. He said attention should shift to how firms pass through energy-cost changes and how AI-driven investment could alter price dynamics. \"I don't expect any change in July unless things deteriorate significantly,\" he said, and he favors keeping policy unchanged for a period. The ECB has already raised rates to 2.25%. Stournaras cited Gulf central bankers' assessments that recent shocks caused limited damage to energy infrastructure and said Iran may release more crude, countering prior market tightness assumptions. He warned energy-price rises transmit quickly to consumer prices while declines pass through more slowly, reflecting limited competition in parts of Europe, and noted AI investment could weigh on electronics prices, notably imports from Korea and Taiwan."
+    },
+    {
+      "id": "mkt:019f1ed0-0b13-7aab-8c64-c5fa895240cf",
+      "time": "2026-07-02 01:52:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice said a suspected member of the cybercriminal group Scattered Spider was arrested in Finland and extradited to the United States."
+    },
     {
       "id": "4965836",
       "time": "2026-07-02 01:51:44",
