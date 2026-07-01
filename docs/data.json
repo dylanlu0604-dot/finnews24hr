@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-02 03:03:48",
-  "count": 14119,
+  "updated": "2026-07-02 03:07:34",
+  "count": 14120,
   "items": [
+    {
+      "id": "4965869",
+      "time": "2026-07-02 03:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭當地官方通報，俄羅斯無人機襲擊致使烏克蘭尼古拉耶夫州一家五金店燃起大火。應急救援部門稱，已出動20名消防員、5輛消防車前往斯尼胡裡夫卡鎮滅火，並確認此次事故暫無人員受傷。"
+    },
+    {
+      "id": "4965868",
+      "time": "2026-07-02 03:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞伯拉罕·林肯登頂《福布斯》“史上250位白手起家傑出美國人”榜單榜首。林肯基本靠自學成才，出身貧寒，早年做過商店店員、柵欄木料劈木工等多種工作，之後自學法律成為律師，並最終在1860年當選美國總統。"
+    },
+    {
+      "id": "mkt:019f1f12-5d75-7aab-8c65-8f92af45a75b",
+      "time": "2026-07-02 03:05:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.63% at 22,990, a 109-point premium to the cash index."
+    },
+    {
+      "id": "4965867",
+      "time": "2026-07-02 03:05:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美光公司表示，將透過員工配套資助計劃及直接捐贈，向特朗普兒童賬戶專案投入2.5億美元，該舉措預計將惠及多達100萬名兒童。特朗普稱這筆投入是同類企業出資中規模最大的一筆，這類享有稅收優惠的新型兒童儲蓄賬戶將於7月4日正式推出。"
+    },
+    {
+      "id": "mkt:019f1f11-d4b4-7aab-8c65-84e3630f7b33",
+      "time": "2026-07-02 03:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's prime minister said the state will not abandon its stance on arms control; it will not confront Hezbollah but will not accept pressure from the group."
+    },
+    {
+      "id": "4965866",
+      "time": "2026-07-02 03:02:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部週三釋出訊息稱，美軍中央司令部司令布拉德·庫珀海軍上將與11箇中東國家的高階軍方官員，就地區安全形勢以及深化防務合作的相關舉措展開會談。與會官員來自巴林、埃及、約旦、科威特、黎巴嫩、阿曼、卡達、沙烏地阿拉伯、敘利亞、阿聯酋以及葉門。美軍中央司令部表示：“各方領導人著重強調，共同維護霍爾木茲海峽商業航運自由通行的立場。”"
+    },
     {
       "id": "4965865",
       "time": "2026-07-02 03:01:50",
@@ -130082,48 +130135,6 @@
         "AI Revolution"
       ],
       "text": "The Wall Street Journal reports a startup founded by former Anthropic employees plans to help scientists develop their own AI."
-    },
-    {
-      "id": "4953375",
-      "time": "2026-06-25 03:06:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司：布齊奧斯油田週二原油日產量達到 110 萬桶。"
-    },
-    {
-      "id": "4953374",
-      "time": "2026-06-25 03:05:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國上訴法院維持原判，阻止司法部調取密歇根州選民登記名冊。"
-    },
-    {
-      "id": "mkt:019efb05-610d-7dd8-b102-ff43ccfd46ad",
-      "time": "2026-06-25 03:04:54",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng index futures fell 0.29% in the night session to 23,322, trading 90 points below the cash index."
-    },
-    {
-      "id": "4953373",
-      "time": "2026-06-25 03:04:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：資料中心業務 2027 財年將創造數十億美元營收。"
-    },
-    {
-      "id": "mkt:019efb04-c8ca-7dd8-b102-f5637a26ac41",
-      "time": "2026-06-25 03:04:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports prediction-market platform Kalshi is in talks to raise funding at a $40 bln valuation."
     }
   ]
 }
