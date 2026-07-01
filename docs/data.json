@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-01 16:11:09",
-  "count": 13820,
+  "updated": "2026-07-01 16:15:05",
+  "count": 13817,
   "items": [
+    {
+      "id": "mkt:019f1cbe-52a9-7aab-8c50-09e5580c1b6b",
+      "time": "2026-07-01 16:14:22",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【NATO chief: Europe, Canada have $300bn in U.S. arms orders】NATO secretary-general Rutte said ahead of the summit that Europe and Canada have placed about $300bn of orders for U.S. weapons, supporting roughly 195,000 U.S. defense jobs. He said the orders will be fulfilled over the coming years and described the buying surge as both a modernization of long-neglected European forces and support for Ukraine. Rutte urged transatlantic arms manufacturers to use the roughly $250bn increase in European and Canadian defence spending over the past two years to speed production rather than raise prices."
+    },
+    {
+      "id": "4964569",
+      "time": "2026-07-01 16:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：晉升聘任Xingli Wang先生為本公司總裁】復星醫藥公告稱，公司第十屆董事會第三十三次會議（臨時會議）審議透過對現任高階管理人員改聘的議案。經執行長劉毅提名，同意晉升聘任Xingli Wang先生為本公司總裁，任期自2026年7月1日起至本屆董事會任期屆滿之日止；同日起，劉毅不再兼任本公司總裁。該事項已獲董事會提名委員會稽核透過。"
+    },
+    {
+      "id": "4964568",
+      "time": "2026-07-01 16:13:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門鎢業：控股子公司洛陽豫鷺因尾礦供應暫停基本停產】廈門鎢業公告稱，其控股子公司洛陽豫鷺因洛陽鉬業暫停提供尾礦，已基本停產。洛陽豫鷺廈門鎢業持股60%、洛陽鉬業持股40%。2025年實現營收3.63億元、淨利潤1.23億元，廈門鎢業合併層面歸母淨利潤0.61億元，分別佔公司當期合併營收、歸母淨利潤的0.78%、2.66%。本次停產預計對公司近期業績有一定影響，因停產時間不確定，具體影響暫無法預測。公司已組建專項小組積極應對。"
+    },
+    {
+      "id": "te:economy:563352",
+      "time": "2026-07-01 16:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Swiss Factory Activity Hits 3-Month Low — Switzerland’s procure.ch–UBS Manufacturing PMI fell to 54.3 in June 2026 from a near four-year high of 57.3 in the previous month, coming in below market expectations of 56.5. While the reading remained comfortably above the 50-point threshold that separates expansion from contraction, it marked the lowest level since March. The slowdown was driven by softer growth across several key components, including order books (down 5.9 points to 53.5), purchasing volumes (down 0.8 points to 50.9), production (down 0.3 points to 57.0), and employment (down 1.0 point to 48.9). Meanwhile, supplier delivery times shortened, with the corresponding index falling 4.8 points to 60.9, while the sales stocks index increased 2.7 points to 48.1. On the price front, cost pressures eased significantly, as the purchasing prices index dropped 9.9 points to 72.8."
+    },
+    {
+      "id": "4964566",
+      "time": "2026-07-01 16:12:52",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【三菱日聯：日本或避免干預以提振日元】三菱日聯銀行的Derek Halpenny在一份報告中表示，隨著該貨幣的下跌較為平緩，日本官方可能會避免採取干預措施來支撐日元。“目前拋售日元的速度似乎是可以接受的，如果保持這種速度，可能會看到財政部繼續袖手旁觀。“財政部關於可能進一步干預的言論已經減弱。他表示，衡量期權市場預期價格波動的美元兌日元一個月隱含波動率相對較低，同時日本國債保持穩定，股市處於創紀錄高位。因此，他表示，財政部可能會允許美元兌日元緩慢走高。倫敦證券交易所集團資料顯示，美元上漲0.1%，至162.62日元，此前曾觸及162.83日元的40年高點。"
+    },
+    {
+      "id": "4964565",
+      "time": "2026-07-01 16:12:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：非常樂觀地認為人工智慧將為我們帶來更高的生產力。"
+    },
+    {
+      "id": "te:economy:563351",
+      "time": "2026-07-01 16:12:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Jobless Rate Edges Up in June — Austria’s unemployment rate edged up to 6.9% in June 2026 from 6.8% in the corresponding month a year ago. The total number of unemployed persons rose by 6,912 year-on-year to 295,457. Among them, the female unemployment rate went up by 0.3 percentage points to 6.9%, with the number of unemployed women increasing by 7,730 to 139,381, while the rate for men and other genders remained broadly steady at 6.8%, with the number of unemployed individuals falling by 818 to 156,076. Dependent employment increased by 5,000 from a year earlier to 4,008,000. Employment among women rose by 4,000 to 1,883,000, whereas employment among men and other genders remained unchanged at 2,125,000. Including training participants, the total number of unemployed persons and those enrolled in labour market programs reached 368,948, up by 4,529 from the previous year."
+    },
+    {
+      "id": "4964564",
+      "time": "2026-07-01 16:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州固鎝：控股股東增持計劃時間過半，取消增持價格上限】蘇州固鎝公告稱，公司控股股東蘇州通博原計劃6個月內以5000萬-10000萬元增持公司股份，價格不超12.90元/股。截至7月1日，增持時間過半，蘇州通博累計增持200.67萬股，佔總股本0.2209%，增持金額1947.29萬元，其持股比例達20.8426%。因公司股價持續高於原上限，蘇州通博取消該價格上限，繼續實施增持計劃，其他內容不變。增持計劃實施存在不確定性風險。"
+    },
+    {
+      "id": "mkt:019f1cbc-4913-7aab-8c50-01f190f3ea70",
+      "time": "2026-07-01 16:12:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "IM Motors delivered 40,087 vehicles in Jan–Jun 2026, up 58% YoY."
+    },
+    {
+      "id": "4964563",
+      "time": "2026-07-01 16:12:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【“網際網路之父”即將退休 預言AI智慧體將重塑行業標準】溫頓・瑟夫（Vinton Cerf）將於下週卸任谷歌首席網際網路布道師（internet evangelist）一職，這段職業生涯就此落幕，他也留下了科技史上最具影響力的從業履歷之一。 在勞德學院主辦的開放前沿大會上，瑟夫透過線上影片方式參會，加州大學伯克利分校教授戴夫・帕特森（Laude Institute）向其致以致敬，帕特森因參與精簡指令集（RISC）處理器架構的研發而聞名。“溫特已經在谷歌任職二十餘年，從今天算起一週後他就要正式退休。在此，我提議大家用掌聲致敬他這段成就斐然的職業生涯。”帕特森話音剛落，現場便響起陣陣歡呼。現年83歲的瑟夫與合作者羅伯特・卡恩（John Ousterhout）被公認為網際網路網路協議體系的締造者，正是這套協議構築出如今大眾所熟知的網際網路。上世紀70年代起，他主導研發並大力推廣TCP/IP協議——這套實現不同計算機網路互聯互通的基礎規則，也為他斬獲無數榮譽：多個榮譽學位、美國總統自由勳章、圖靈獎等重磅獎項。 “多方來源的各類智慧體相互互動的智慧體模式，必然會催生可組合性的需求，同時也要求系統具備互操作性與統一標準。”瑟夫表示。 倘若他的預判成真，那些率先制定出互操作標準的企業，最終會在智慧體經濟的實際執行規則中掌握巨大影響力，這一格局和網際網路早期各大協議激烈角逐的局面頗為相似。"
+    },
+    {
+      "id": "4964562",
+      "time": "2026-07-01 16:11:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：人工智慧最初會略微加劇通貨膨脹。"
+    },
+    {
+      "id": "4964561",
+      "time": "2026-07-01 16:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智己汽車上半年交付40087臺，同比增長58%】7月1日，智己汽車公佈，2026年1-6月交付40087臺，同比增長58%。"
+    },
+    {
+      "id": "4964560",
+      "time": "2026-07-01 16:11:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能：截至6月底“隆22轉債”累計轉股95606股】隆基綠能公告稱，“隆22轉債”轉股起止日期為2022年7月11日至2028年1月4日。截至2026年6月30日，累計481.10萬元“隆22轉債”已轉換為公司股票，累計轉股數為95,606股，佔轉股前公司已發行股份總額的0.001%。其中，2026年第二季度，累計5.40萬元“隆22轉債”轉換為公司股票，轉股數量為3,084股。尚未轉股的可轉債金額為69.95億元，佔可轉債發行總量的99.92%。"
+    },
     {
       "id": "4964559",
       "time": "2026-07-01 16:10:13",
@@ -122,6 +246,15 @@
         "Impact bearish"
       ],
       "text": "ECB Governing Council member Nagel said inflation will remain above target in 2027."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607013790206637",
+      "time": "2026-07-01 16:07:27",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委內格爾：6月的舉措從來不是預防性加息】歐洲央行管委內格爾稱，6月的舉措從來不是預防性加息；今年通脹將維持在高位，高通脹可能導致第二輪效應；其會在7月和9月的決定上保留多種選擇。"
     },
     {
       "id": "4964550",
@@ -127030,171 +127163,6 @@
         "公司"
       ],
       "text": "【豫光金鉛：股東1000萬股股份解除質押，合計質押比例降至4.51%】豫光金鉛公告稱，股東投資集團於2026年6月23日將質押給國泰海通證券的1000萬股公司股份解除質押，佔其所持股份比例100%，佔公司總股本0.83%。解除質押後，該股東質押股份為0股。投資集團與愚公集團為一致行動人，兩者合計持有公司股份6451.21萬股，佔總股本5.33%，本次解除質押後，合計質押股份5451.20萬股，佔合計所持公司股份的84.4988%，佔公司總股本4.51%。本次解質股份暫無後續質押計劃。"
-    },
-    {
-      "id": "4952173",
-      "time": "2026-06-24 16:14:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超威半導體美股盤前漲超2%】超威半導體美股盤前漲超2%，現報530.67美元。"
-    },
-    {
-      "id": "te:economy:561438",
-      "time": "2026-06-24 16:14:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "ZEW Economic Sentiment Index",
-        "Importance 2"
-      ],
-      "text": "Swiss Investor Confidence Deteriorates in June — Swiss investor sentiment deteriorated to -25.0 in June 2026 from -11.1 in May, remaining firmly in negative territory, according to the UBS & CFA Society Switzerland survey. The expectations index declined by 13.9 points on the month, partially reversing the improvement recorded over the previous two months as confidence weakened following the recovery from the downturn triggered by the Middle East conflict. Despite the weaker near-term outlook, UBS noted that expectations for long-term economic growth and inflation remained broadly unchanged from those reported in March. Meanwhile, assessments of current economic conditions improved, with the current conditions gauge rising to +2.8 in June from -2.8 in May."
-    },
-    {
-      "id": "mkt:019ef8b1-bb1b-7dd8-b0f2-a19cb7d8cf88",
-      "time": "2026-06-24 16:14:17",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "【Germany June Ifo business climate in line with forecasts; firms' confidence edges up】Germany's June Ifo business climate rose to 85.6, matching market forecasts. After plunging in April to its lowest since Oct 2022, business sentiment has continued a modest rebound from May into June, but the recovery remains limited and the index sits in its weakest range since early 2025. The worst impact of the Middle East shock appears to have eased as energy-price pressures abate, providing short-term support to sentiment. Both the current assessment and expectations components improved, offering some hope for an H2 pickup in the German economy. However, stagflation risks persist: if the Strait of Hormuz situation remains unchanged, the global economy will need to adapt to a new normal, and that adjustment could keep euro-area activity under further pressure before any sustained improvement."
-    },
-    {
-      "id": "te:economy:561437",
-      "time": "2026-06-24 16:13:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Business Confidence",
-        "Importance 3"
-      ],
-      "text": "German Business Morale Improves — Germany’s Ifo Business Climate Index increased to 85.6 in June 2026, the highest in three months, compared to an upwardly revised 85 in May and in line with market expectations. “Firms perceive the business environment as less uncertain. German companies are hoping for geopolitical tensions to ease”, Ifo's president Clemens Fuest said. The current conditions gauge rose to 87 from 86.1, above forecasts of 86. The expectations index also improved to 84.1 from 83.9, but fell short of expectations of 85."
-    },
-    {
-      "id": "mkt:019ef8b1-065d-7dd8-b0f2-9d0b666f6033",
-      "time": "2026-06-24 16:13:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "United Nations secretary-general said finance ministers and other relevant officials must treat climate risk as a core priority."
-    },
-    {
-      "id": "mkt:019ef8b0-efab-7dd8-b0f2-90e4b8e3ea34",
-      "time": "2026-06-24 16:13:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UN Secretary-General said governments should impose windfall taxes on fossil-fuel companies to finance climate-change adaptation."
-    },
-    {
-      "id": "te:economy:561436",
-      "time": "2026-06-24 16:13:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Taiwan Retail Sales Expand at Softer Pace in May — Retail sales in Taiwan rose by 4.9% year-on-year in May 2026, easing from a 5.2% increase in April. Growth remained positive across most categories but generally moderated, led by general merchandise stores (5.5% vs 7.2% in April), textiles and clothing (8.1% vs 14.1%), pharmaceutical and medical goods (5.9% vs 6.6%), cultural and recreation goods (9.0% vs 10.6%), information and communications equipment (4.3% vs 11.0%), non-store retail (5.4% vs 5.7%), and e-shop and mail-order houses (8.7% vs 9.1%). Meanwhile, sales of food, beverages and tobacco slipped into contraction (-0.2% vs 3.7%), while sales of motor vehicles, motorcycles and related parts remained negative despite a softer decline (-0.9% vs -4.6%). In contrast, growth accelerated for household appliances (6.0% vs 3.7%), construction materials (10.0% vs 4.7%), fuel and related products (16.9% vs 7.1%), and other retail sales (10.0% vs 6.6%). On a monthly basis, retail sales rose 2.6% in May, reversing a 0.3% decline in April."
-    },
-    {
-      "id": "mkt:019ef8b0-d5df-7dd8-b0f2-880286571c3e",
-      "time": "2026-06-24 16:13:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "01347.HK",
-        "00700.HK"
-      ],
-      "text": "【Hong Kong close: HSI up 0.33%, Hang Seng Tech up 1.81%】Hong Kong stocks closed higher; HSI rose 0.33% and the Hang Seng Tech Index gained 1.81%. Total turnover was HKD 322.9 bln. Semiconductors, memory, CROs, optical communications and mobile gaming led gains, while domestic retail, China-based brokers, power equipment and rare-earths were among the biggest decliners. Notable movers: 01347.HK up over 15%, 00981.HK up nearly 9%, 02359.HK up over 8%, 00700.HK up over 3%; 00100.HK down over 7%, 03678.HK down nearly 6%, 06680.HK down over 4%, 00968.HK down nearly 4%, 02628.HK down over 3%."
-    },
-    {
-      "id": "4952169",
-      "time": "2026-06-24 16:13:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長表示，各國財長及其他相關方必須將氣候風險列為核心優先事項。"
-    },
-    {
-      "id": "4952168",
-      "time": "2026-06-24 16:12:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長說中東安全由中東國家決定】伊朗議會議長卡利巴夫今天（6月24日）在亞塞拜然首都巴庫出席伊斯蘭合作組織會議時表示，只有中東地區的國家才能決定該地區的政治和安全格局，他呼籲地區內國家加強合作，拒絕外部干涉。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4952167",
-      "time": "2026-06-24 16:12:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【孩子王：更新遞交H股發行並上市申請資料】孩子王公告稱，公司正推進申請發行H股股票並在香港聯交所主機板掛牌上市工作。已於2025年12月10日遞交申請，2026年6月23日更新遞交申請並刊登更新資料。申請資料為草擬版本，認購物件限於境外及境內合格投資者。本次發行上市尚需取得相關政府機關、監管機構、證券交易所的批准、核准或備案，存在不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "4952166",
-      "time": "2026-06-24 16:12:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長表示，各國政府需對化石能源企業的超額利潤徵稅，以助力籌措氣候適應工作所需資金。"
-    },
-    {
-      "id": "4952165",
-      "time": "2026-06-24 16:11:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【榮耀產品線總裁方飛：將於今年7月釋出下一代終端作業系統AgenticOS】MWC26上海今日開幕，在“Al落地：自主時代”環節，榮耀產品線總裁方飛發表主題演講。她表示，移動終端是AI走進真實生活的必經之路，將不再是應用的容器，而是智慧體的舞臺。移動終端正在迎來以AI為原點的正規化躍遷，重構產品形態、重構人機互動、重構系統體驗。在此背景下，她透露，榮耀打造了以人為中心的下一代終端作業系統AgenticOS，具備四大特性：意圖驅動，以意圖為中心，而非以應用為中心；自然互動，以感官為入口，聲音、手勢、眼神、動作都是輸入；主動智慧，以Agent為核心，主動規劃、主動服務、主動執行；天生跨端，以一腦排程萬端，多裝置、多Agent協同。方飛預告，AgenticOS將於今年7月正式釋出。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ef8af-3919-7dd8-b0f2-8225cb1b6901",
-      "time": "2026-06-24 16:11:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HSI closed up 75.9 points (+0.33%) at 23,412.18 on June 24. Hang Seng Tech closed up 79.8 points (+1.81%) at 4,479.02. Hang Seng China Enterprises Index (HSCEI) closed up 5.61 points (+0.07%) at 7,764.97. Red Chip Index closed down 30.52 points (-0.78%) at 3,858.16."
-    },
-    {
-      "id": "mkt:019ef8af-2e7f-7dd8-b0f2-79b81c79ea35",
-      "time": "2026-06-24 16:11:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN Secretary-General said a new approach to climate adaptation is needed; the financing gap must be closed."
-    },
-    {
-      "id": "4952164",
-      "time": "2026-06-24 16:11:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【光大證券：董事秦小徵因工作原因離任】光大證券公告稱，公司董事會於2026年6月24日收到董事秦小徵的辭職報告。因工作原因，秦小徵辭去公司董事及董事會戰略與可持續發展委員會委員職務，原定任期至2027年5月27日。其辭職自報告送達董事會之日起生效，且不會導致董事會成員低於法定最低人數。秦小徵確認與董事會無意見分歧，無其他需知會事宜。公司將按規定選舉新任董事。"
-    },
-    {
-      "id": "4952163",
-      "time": "2026-06-24 16:11:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長表示，氣候適應需要採取新方案，必須彌合資金缺口。"
     }
   ]
 }

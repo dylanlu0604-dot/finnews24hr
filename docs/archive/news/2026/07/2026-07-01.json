@@ -1,7 +1,131 @@
 {
   "date": "2026-07-01",
-  "count": 1805,
+  "count": 1819,
   "items": [
+    {
+      "id": "mkt:019f1cbe-52a9-7aab-8c50-09e5580c1b6b",
+      "time": "2026-07-01 16:14:22",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【NATO chief: Europe, Canada have $300bn in U.S. arms orders】NATO secretary-general Rutte said ahead of the summit that Europe and Canada have placed about $300bn of orders for U.S. weapons, supporting roughly 195,000 U.S. defense jobs. He said the orders will be fulfilled over the coming years and described the buying surge as both a modernization of long-neglected European forces and support for Ukraine. Rutte urged transatlantic arms manufacturers to use the roughly $250bn increase in European and Canadian defence spending over the past two years to speed production rather than raise prices."
+    },
+    {
+      "id": "4964569",
+      "time": "2026-07-01 16:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：晉升聘任Xingli Wang先生為本公司總裁】復星醫藥公告稱，公司第十屆董事會第三十三次會議（臨時會議）審議透過對現任高階管理人員改聘的議案。經執行長劉毅提名，同意晉升聘任Xingli Wang先生為本公司總裁，任期自2026年7月1日起至本屆董事會任期屆滿之日止；同日起，劉毅不再兼任本公司總裁。該事項已獲董事會提名委員會稽核透過。"
+    },
+    {
+      "id": "4964568",
+      "time": "2026-07-01 16:13:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門鎢業：控股子公司洛陽豫鷺因尾礦供應暫停基本停產】廈門鎢業公告稱，其控股子公司洛陽豫鷺因洛陽鉬業暫停提供尾礦，已基本停產。洛陽豫鷺廈門鎢業持股60%、洛陽鉬業持股40%。2025年實現營收3.63億元、淨利潤1.23億元，廈門鎢業合併層面歸母淨利潤0.61億元，分別佔公司當期合併營收、歸母淨利潤的0.78%、2.66%。本次停產預計對公司近期業績有一定影響，因停產時間不確定，具體影響暫無法預測。公司已組建專項小組積極應對。"
+    },
+    {
+      "id": "te:economy:563352",
+      "time": "2026-07-01 16:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Swiss Factory Activity Hits 3-Month Low — Switzerland’s procure.ch–UBS Manufacturing PMI fell to 54.3 in June 2026 from a near four-year high of 57.3 in the previous month, coming in below market expectations of 56.5. While the reading remained comfortably above the 50-point threshold that separates expansion from contraction, it marked the lowest level since March. The slowdown was driven by softer growth across several key components, including order books (down 5.9 points to 53.5), purchasing volumes (down 0.8 points to 50.9), production (down 0.3 points to 57.0), and employment (down 1.0 point to 48.9). Meanwhile, supplier delivery times shortened, with the corresponding index falling 4.8 points to 60.9, while the sales stocks index increased 2.7 points to 48.1. On the price front, cost pressures eased significantly, as the purchasing prices index dropped 9.9 points to 72.8."
+    },
+    {
+      "id": "4964566",
+      "time": "2026-07-01 16:12:52",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【三菱日聯：日本或避免干預以提振日元】三菱日聯銀行的Derek Halpenny在一份報告中表示，隨著該貨幣的下跌較為平緩，日本官方可能會避免採取干預措施來支撐日元。“目前拋售日元的速度似乎是可以接受的，如果保持這種速度，可能會看到財政部繼續袖手旁觀。“財政部關於可能進一步干預的言論已經減弱。他表示，衡量期權市場預期價格波動的美元兌日元一個月隱含波動率相對較低，同時日本國債保持穩定，股市處於創紀錄高位。因此，他表示，財政部可能會允許美元兌日元緩慢走高。倫敦證券交易所集團資料顯示，美元上漲0.1%，至162.62日元，此前曾觸及162.83日元的40年高點。"
+    },
+    {
+      "id": "4964565",
+      "time": "2026-07-01 16:12:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：非常樂觀地認為人工智慧將為我們帶來更高的生產力。"
+    },
+    {
+      "id": "te:economy:563351",
+      "time": "2026-07-01 16:12:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Jobless Rate Edges Up in June — Austria’s unemployment rate edged up to 6.9% in June 2026 from 6.8% in the corresponding month a year ago. The total number of unemployed persons rose by 6,912 year-on-year to 295,457. Among them, the female unemployment rate went up by 0.3 percentage points to 6.9%, with the number of unemployed women increasing by 7,730 to 139,381, while the rate for men and other genders remained broadly steady at 6.8%, with the number of unemployed individuals falling by 818 to 156,076. Dependent employment increased by 5,000 from a year earlier to 4,008,000. Employment among women rose by 4,000 to 1,883,000, whereas employment among men and other genders remained unchanged at 2,125,000. Including training participants, the total number of unemployed persons and those enrolled in labour market programs reached 368,948, up by 4,529 from the previous year."
+    },
+    {
+      "id": "4964564",
+      "time": "2026-07-01 16:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州固鎝：控股股東增持計劃時間過半，取消增持價格上限】蘇州固鎝公告稱，公司控股股東蘇州通博原計劃6個月內以5000萬-10000萬元增持公司股份，價格不超12.90元/股。截至7月1日，增持時間過半，蘇州通博累計增持200.67萬股，佔總股本0.2209%，增持金額1947.29萬元，其持股比例達20.8426%。因公司股價持續高於原上限，蘇州通博取消該價格上限，繼續實施增持計劃，其他內容不變。增持計劃實施存在不確定性風險。"
+    },
+    {
+      "id": "mkt:019f1cbc-4913-7aab-8c50-01f190f3ea70",
+      "time": "2026-07-01 16:12:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "IM Motors delivered 40,087 vehicles in Jan–Jun 2026, up 58% YoY."
+    },
+    {
+      "id": "4964563",
+      "time": "2026-07-01 16:12:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【“網際網路之父”即將退休 預言AI智慧體將重塑行業標準】溫頓・瑟夫（Vinton Cerf）將於下週卸任谷歌首席網際網路布道師（internet evangelist）一職，這段職業生涯就此落幕，他也留下了科技史上最具影響力的從業履歷之一。 在勞德學院主辦的開放前沿大會上，瑟夫透過線上影片方式參會，加州大學伯克利分校教授戴夫・帕特森（Laude Institute）向其致以致敬，帕特森因參與精簡指令集（RISC）處理器架構的研發而聞名。“溫特已經在谷歌任職二十餘年，從今天算起一週後他就要正式退休。在此，我提議大家用掌聲致敬他這段成就斐然的職業生涯。”帕特森話音剛落，現場便響起陣陣歡呼。現年83歲的瑟夫與合作者羅伯特・卡恩（John Ousterhout）被公認為網際網路網路協議體系的締造者，正是這套協議構築出如今大眾所熟知的網際網路。上世紀70年代起，他主導研發並大力推廣TCP/IP協議——這套實現不同計算機網路互聯互通的基礎規則，也為他斬獲無數榮譽：多個榮譽學位、美國總統自由勳章、圖靈獎等重磅獎項。 “多方來源的各類智慧體相互互動的智慧體模式，必然會催生可組合性的需求，同時也要求系統具備互操作性與統一標準。”瑟夫表示。 倘若他的預判成真，那些率先制定出互操作標準的企業，最終會在智慧體經濟的實際執行規則中掌握巨大影響力，這一格局和網際網路早期各大協議激烈角逐的局面頗為相似。"
+    },
+    {
+      "id": "4964562",
+      "time": "2026-07-01 16:11:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：人工智慧最初會略微加劇通貨膨脹。"
+    },
+    {
+      "id": "4964561",
+      "time": "2026-07-01 16:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智己汽車上半年交付40087臺，同比增長58%】7月1日，智己汽車公佈，2026年1-6月交付40087臺，同比增長58%。"
+    },
+    {
+      "id": "4964560",
+      "time": "2026-07-01 16:11:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能：截至6月底“隆22轉債”累計轉股95606股】隆基綠能公告稱，“隆22轉債”轉股起止日期為2022年7月11日至2028年1月4日。截至2026年6月30日，累計481.10萬元“隆22轉債”已轉換為公司股票，累計轉股數為95,606股，佔轉股前公司已發行股份總額的0.001%。其中，2026年第二季度，累計5.40萬元“隆22轉債”轉換為公司股票，轉股數量為3,084股。尚未轉股的可轉債金額為69.95億元，佔可轉債發行總量的99.92%。"
+    },
     {
       "id": "te:markets:563350",
       "time": "2026-07-01 16:10:13",
@@ -122,6 +246,15 @@
         "Impact bearish"
       ],
       "text": "ECB Governing Council member Nagel said inflation will remain above target in 2027."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607013790206637",
+      "time": "2026-07-01 16:07:27",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委內格爾：6月的舉措從來不是預防性加息】歐洲央行管委內格爾稱，6月的舉措從來不是預防性加息；今年通脹將維持在高位，高通脹可能導致第二輪效應；其會在7月和9月的決定上保留多種選擇。"
     },
     {
       "id": "4964550",
