@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-01 08:03:48",
-  "count": 13967,
+  "updated": "2026-07-01 08:07:36",
+  "count": 13974,
   "items": [
+    {
+      "id": "4963831",
+      "time": "2026-07-01 08:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報71479.62點。"
+    },
+    {
+      "id": "mkt:019f1aff-cd83-7aab-8c46-1ff19ff6b5fb",
+      "time": "2026-07-01 08:06:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 2.00% intraday."
+    },
+    {
+      "id": "te:economy:563134",
+      "time": "2026-07-01 08:06:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Exports Top $100 Billion for 1st Tim — South Korea’s exports surged 70.9% year-on-year to a record high of USD 102.25 billion in June 2026, accelerating sharply from a 53.2% jump in May and marking the strongest growth since June 1976. Exports exceeded USD 100 billion for the first time, mainly driven by a surge in semiconductor shipments. Shipments increased for the 13th consecutive month."
+    },
+    {
+      "id": "4963829",
+      "time": "2026-07-01 08:06:07",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：基於智駕大行業拐點 產業鏈細分賽道robotaxi、智駕晶片、鐳射雷達均有望充分受益】中信建投指出，2026年是中國智慧駕駛從“功能競賽”轉向“制度化商業落地”的關鍵分水嶺。2024—2025年智駕行業主要圍繞L2+高階輔助駕駛的快速滲透、NOA能力下沉與整車廠智駕平權競爭為核心，2026年，產業座標已明顯切換至三條主線並行：L2進入強監管週期，行業由“拼體驗”轉向“拼合規、拼安全、拼體系”；L3從試點走向有限商業化，責任邊界、准入機制和標準體系開始形成；L4/Robotaxi在中美共振下邁入規模化驗證階段，商業化判斷標準從“能否跑起來”轉向“能否低成本複製、能否跑通單車經濟模型”。基於智駕大行業拐點，產業鏈細分賽道robotaxi、智駕晶片、鐳射雷達均有望充分受益。"
+    },
+    {
+      "id": "mkt:019f1aff-28bf-7aab-8c46-1148fe88d042",
+      "time": "2026-07-01 08:05:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【Huatai Securities: South Korea $1.3tn plan to reshape global semiconductor equipment positioning amid memory cycle】Huatai Securities said South Korea's $1.3 trillion semiconductor strategy equals roughly 7.8x TSMC's $165 billion Arizona investment and could materially alter global industry competition and supply-demand dynamics. Under strong AI-driven demand, expansion of advanced nodes, HBM and advanced packaging capacity should sustain incremental equipment demand; semiconductor equipment vendors may receive long-term structural tailwinds from this decade-spanning investment cycle. Relevant overseas beneficiaries include leaders in lithography, deposition and etch, and coat/develop equipment, plus firms with high memory revenue exposure. Chinese beneficiaries noted include cleaning-equipment and thermal-processing suppliers with operations in South Korea."
+    },
+    {
+      "id": "4963828",
+      "time": "2026-07-01 08:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“機器人伴侶”訂單破1萬臺 僅限成人購買！公司CEO回應：量產、技術難度較高】6月30日，在優必選2026年度全球釋出會上，公司釋出了全尺寸超仿生人形機器人U1系列，主打日常陪伴、情緒支援、生活美學、社交輔助。現場展示的機器人具備面部眨眼、頭部轉動等能力，還演示了跳舞等功能。針對定價，優必選創始人、董事會主席兼CEO周劍回應稱，“有一定的盈利的空間。如果未來實現規模量產，可以覆蓋不同的細分人群，那麼成本、價格會進一步下降。”"
+    },
+    {
+      "id": "mkt:019f1afe-d0c6-7aab-8c46-0eced2e0c454",
+      "time": "2026-07-01 08:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local media reported an explosion at the Salina Cruz refinery in Oaxaca state, Mexico; three workers sustained burns while conducting maintenance in the alkylation unit."
+    },
+    {
+      "id": "4963827",
+      "time": "2026-07-01 08:05:08",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：韓國1.3萬億美元戰略落地，聚焦儲存週期下全球半導體裝置企業卡位】華泰證券指出，6月29日，韓國總統李在明在青瓦臺主持“大韓民國大飛躍三大超級專案”國民報告會，三星電子董事長李在鎔、SK集團董事長崔泰源同臺直接釋出投資計劃。該戰略覆蓋2026—2036年，總投資約2000萬億韓元（約1.3萬億美元）。該專案以“半導體、AI資料中心、物理AI”為三大支柱，旨在打破韓國首都圈工業壟斷、將國家資源向光州（儲存器），大邱（機器人），忠清（資料中心，顯示）等首都圈以外地區傾斜，對韓國科技產業發展是標誌性事件。1.3萬億美元的投資規模相當於臺積電在美國亞利桑那州投資規模（1650億美元）的7.8倍，對全球半導體產業的競爭格局，供需關係都或將產生深遠影響。 華泰證券認為，AI高景氣下先進製程、HBM與先進封裝產能擴張將帶來持續的裝置增量需求，裝置廠商在本輪跨越十年的長線投資下或迎來長期結構性利好。產業鏈相關海外公司包括光刻龍頭、沉積和刻蝕裝置龍頭、塗膠顯影裝置龍頭等全球主要前道裝置供應商，以及儲存收入佔比較高的公司等;中國相關企業包括在韓國均有業務佈局的清洗裝置廠商、熱處理裝置廠商等。"
+    },
+    {
+      "id": "4963826",
+      "time": "2026-07-01 08:04:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "宣佈收購 South32 資產後，美國鋁業公司 (Alcoa) 的股票在悉尼市場下跌 4.9%。"
+    },
+    {
+      "id": "4963825",
+      "time": "2026-07-01 08:03:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "澳大利亞礦業公司South32股價早盤上漲10%，報4.29澳元。"
+    },
+    {
+      "id": "4963824",
+      "time": "2026-07-01 08:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地媒體報道，墨西哥瓦哈卡州薩利納克魯斯的安東尼奧·多瓦利·海梅煉油廠發生爆炸，致三名工人受傷。"
+    },
     {
       "id": "mkt:019f1afc-7f0b-7aab-8c46-0329c9ba289b",
       "time": "2026-07-01 08:03:02",
@@ -128272,46 +128377,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：美聯儲主席沃什將最佳化增長和價格穩定的路徑。"
-    },
-    {
-      "id": "mkt:019ef6f3-b518-7dd8-b0e5-9ce211309c81",
-      "time": "2026-06-24 08:07:07",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "【CSC Financial: securities sector in a window where high earnings growth, low valuations and accelerating industry trends converge】CSC Financial says the securities sector is in a convergence window of high earnings growth, low valuations and accelerating structural trends. Earnings: strong interim results plus conversion of investment‑banking deal flow provide ongoing validation. Industry: consolidation in large-scale wealth-management, scaling of sci‑tech investment‑banking capabilities and faster international expansion underpin a higher medium-to-long-term earnings baseline. Valuation: PB at historically low percentiles offers a margin of safety. Against rising trade overcrowding in technology and capital rotating from high- to low-valuation areas, the sector’s risk/reward profile remains attractive."
-    },
-    {
-      "id": "4951329",
-      "time": "2026-06-24 08:06:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：有信心美聯儲主席將最佳化經濟路徑。"
-    },
-    {
-      "id": "4951328",
-      "time": "2026-06-24 08:05:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市暴跌引發投資者重新審視2900億美元槓桿ETF熱潮】在韓國股市AI驅動的拋售中，市場的目光重新聚焦於散戶投資增長最快的領域之一：槓桿交易所交易基金(ETF)。這些產品多年來一直是日內交易員的常用工具，但本週三星電子和SK海力士股價波動劇烈，而且韓國最高市場監管機構對允許發行單一股票槓桿ETF表達了後悔之意，這引發了投資者對這類ETF是否在加劇市場波動的重新審視。這個問題在週二變得更加緊迫，當日韓國基準Kospi指數暴跌10%，引發全球半導體股票遭拋售，並拖累歐洲和美國股指下跌。雖然很少有投資者將此次下跌歸咎於槓桿ETF，但策略師們越來越將它們視為投機機制的一部分，一旦動能發生轉變，槓桿ETF就會放大市場波動。隨著槓桿ETF產品達到空前規模，市場對其的關注度也隨之升溫。資料顯示，目前槓桿ETF的資產規模已超過2900億美元，其中亞洲市場規模超過450億美元，美國市場規模超過2200億美元。巴克萊股票戰術策略的Alexander Altmann估計，過去10個交易日中，美國槓桿ETF的再平衡平均每天約為200億美元，大約是過去一年平均水平的四倍。"
-    },
-    {
-      "id": "4951327",
-      "time": "2026-06-24 08:04:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期】中信建投研報稱，證券板塊當前處於“業績高增、估值低位、產業趨勢加速”三者共振的視窗期。業績端，中報高增+投行專案兌現構成連續驗證；產業端，大財富業務格局集中、科創投行賦能、國際業務加速擴張三大趨勢夯實中長期中樞；估值端，PB歷史較低分位蘊含安全邊際。在科技板塊交易擁擠度攀升、資金高切低輪動的背景下，證券板塊的風險收益比仍具吸引力。"
     }
   ]
 }
