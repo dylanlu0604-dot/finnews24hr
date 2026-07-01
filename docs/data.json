@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-02 01:49:23",
-  "count": 14186,
+  "updated": "2026-07-02 01:53:15",
+  "count": 14184,
   "items": [
+    {
+      "id": "4965836",
+      "time": "2026-07-02 01:51:44",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【城堡證券警告稱美聯儲7月加息風險被低估 且就業報告有超預期風】城堡證券表示，投資者正在低估美聯儲最早本月就會加息的可能性，因為主席凱文·沃什似乎準備採取更具先發制人的方式來抗擊通脹。該公司宏觀策略主管Frank Flight繼續將美聯儲今年加息兩次——分別在9月份和12月份，視為基準情形。即便如此，他表示，市場賦予7月份加息的機率約為30%，這一水平過低。Flight在給客戶的一份報告中寫道，投資者仍然固守這樣一種看法，即只有在經濟資料以壓倒性優勢證明有必要行動之後，美聯儲才會收緊政策。但Flight認為，沃什正在採用城堡證券所稱的“適應性”框架，在這一框架下，央行會及早行動，以防止通脹壓力變得根深蒂固。"
+    },
+    {
+      "id": "4965835",
+      "time": "2026-07-02 01:50:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署（EIA）週四釋出報告預計，上週美國天然氣庫存增加 810 億立方英尺。"
+    },
+    {
+      "id": "te:economy:563530",
+      "time": "2026-07-02 01:50:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Jobless Rate Rises Slightly in May — Uruguay’s unemployment rate edged up to 7.6% in May 2026 from 7.5% in April, pointing to a broadly stable labor market. By region, the jobless rate stood at 7.7% in Montevideo and 7.6% in the country’s interior. By gender, unemployment was lower among men at 6.8%, compared with 8.5% for women. Younger workers continued to face the highest unemployment, with the rate reaching 25.7% among those aged 14 to 24. For workers aged 25 to 29, the rate stood at 8.4%, while it declined steadily across older age groups, falling to 3.7% for those aged 35 to 44 and 2.3% for those aged 65 and over. Among employed workers, 8.8% were underemployed and 20.9% were not registered with social security in their main job. Meanwhile, Uruguay’s labor force participation rate stood at 64.4%, while the employment rate reached 59.5%."
+    },
     {
       "id": "mkt:019f1ecb-9b8f-7aab-8c64-bf893628be3f",
       "time": "2026-07-02 01:48:07",
@@ -130733,54 +130763,6 @@
         "公司"
       ],
       "text": "阿聯酋將巴布氣田氣頂開發特許權授予阿布扎比國家石油公司及其合作伙伴。"
-    },
-    {
-      "id": "4953288",
-      "time": "2026-06-25 01:52:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌7%，現報57.21美元/盎司。"
-    },
-    {
-      "id": "mkt:019efac2-1732-7dd8-b101-a375041a183f",
-      "time": "2026-06-25 01:51:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 7.00% intraday to $57.23/oz; spot palladium fell 6.00% to $1,154.40/oz."
-    },
-    {
-      "id": "te:economy:561630",
-      "time": "2026-06-25 01:51:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Eases After Copom Minutes — Brazil’s 10-year government bond yield edged down to 14.4% in late June after the release of the minutes from the latest Copom meeting, in which the benchmark Selic rate was cut by 25 basis points to 14.25% per year. The view that Copom left the door open for further Selic cuts helped ease the Brazilian yield curve. Still, the minutes struck a slightly more hawkish tone than the initial statement, explicitly describing the inflation risk balance as asymmetric and tilted to the upside. Meanwhile, the US Federal Reserve adopted a more hawkish stance at its latest meeting, with policymakers signaling additional rate hikes by December. The shift led investors to scale back expectations for monetary easing, limiting the decline in bond yields."
-    },
-    {
-      "id": "4953287",
-      "time": "2026-06-25 01:50:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌7%，現報13853.00元。"
-    },
-    {
-      "id": "4953286",
-      "time": "2026-06-25 01:50:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase：部分使用者在OP網路上發起轉賬可能失敗。"
     }
   ]
 }
