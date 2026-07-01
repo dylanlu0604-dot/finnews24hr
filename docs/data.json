@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-02 03:18:52",
-  "count": 14110,
+  "updated": "2026-07-02 03:22:38",
+  "count": 14105,
   "items": [
+    {
+      "id": "mkt:019f1f21-bcbe-7aab-8c65-90d265da9d47",
+      "time": "2026-07-02 03:22:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kevin Warsh reportedly names Treasury Secretary Bessent aide Samantha Schwab as Fed adviser】Foreign media report Fed Chair Kevin Warsh is adding Treasury Secretary Bessent’s senior aide Samantha Schwab to his advisory team as a Fed adviser. Schwab has served as Bessent’s deputy chief of staff at the Treasury since January 2025 and previously worked in the White House during Trump’s first term; a start date was not announced. The appointment has prompted debate about closer Fed–Treasury coordination, given Warsh and Bessent hold weekly meetings, and market attention on whether central-bank independence could be affected."
+    },
     {
       "id": "4965872",
       "time": "2026-07-02 03:15:46",
@@ -129984,64 +129992,6 @@
         "其他"
       ],
       "text": "【西班牙遭遇今夏首輪熱浪，6月單日平均氣溫創新高】西班牙國家氣象局24日表示，在今年首輪熱浪襲擊下，該國已連續兩天創下有記錄以來6月單日平均氣溫新高，近日多地最高氣溫超過40攝氏度。本輪熱浪自21日開始影響西班牙大部分地區，預計將持續至24日晚間。多個地區釋出最高階別高溫預警。初步資料顯示，22日和23日，西班牙全國平均氣溫較往年同期正常水平高出7.1攝氏度，達到有記錄以來6月單日平均氣溫新高，超過此前2025年6月30日創下的記錄。與此同時，與高溫相關的就診病例明顯增加。（新華社）"
-    },
-    {
-      "id": "mkt:019efb14-c4a6-7dd8-b103-4b9e7d2f9f23",
-      "time": "2026-06-25 03:21:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. ambassador to the United Nations said Iran will buy surplus U.S. farm crops."
-    },
-    {
-      "id": "mkt:019efb14-60be-7dd8-b103-43b0b1a01f69",
-      "time": "2026-06-25 03:21:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. UN envoy Walz said Iran’s unfrozen funds will be placed in an escrow account."
-    },
-    {
-      "id": "mkt:019efb13-fb42-7dd8-b103-38ca7ba46130",
-      "time": "2026-06-25 03:20:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Ambassador to the United Nations Walz said sanctions on Iran have not been lifted and are only temporary."
-    },
-    {
-      "id": "4953389",
-      "time": "2026-06-25 03:19:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美常駐聯合國代表沃爾茨： 伊朗解凍資金將存入第三方託管賬戶， 伊朗將採購美國農戶的過剩農產品。"
-    },
-    {
-      "id": "4953388",
-      "time": "2026-06-25 03:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美常駐聯合國代表沃爾茨：針對伊朗的制裁並未取消，此次僅為臨時性措施。 這只是談判期間發放的臨時許可。"
-    },
-    {
-      "id": "mkt:019efb12-593d-7dd8-b103-356a0b37e04a",
-      "time": "2026-06-25 03:19:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "CBS reports Trump plans to push to make the 15% ethanol gasoline blend policy (E15) permanent."
     }
   ]
 }

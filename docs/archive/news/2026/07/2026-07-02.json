@@ -1,7 +1,15 @@
 {
   "date": "2026-07-02",
-  "count": 211,
+  "count": 212,
   "items": [
+    {
+      "id": "mkt:019f1f21-bcbe-7aab-8c65-90d265da9d47",
+      "time": "2026-07-02 03:22:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kevin Warsh reportedly names Treasury Secretary Bessent aide Samantha Schwab as Fed adviser】Foreign media report Fed Chair Kevin Warsh is adding Treasury Secretary Bessent’s senior aide Samantha Schwab to his advisory team as a Fed adviser. Schwab has served as Bessent’s deputy chief of staff at the Treasury since January 2025 and previously worked in the White House during Trump’s first term; a start date was not announced. The appointment has prompted debate about closer Fed–Treasury coordination, given Warsh and Bessent hold weekly meetings, and market attention on whether central-bank independence could be affected."
+    },
     {
       "id": "4965872",
       "time": "2026-07-02 03:15:46",
