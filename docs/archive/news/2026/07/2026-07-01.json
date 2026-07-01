@@ -1,7 +1,148 @@
 {
   "date": "2026-07-01",
-  "count": 2891,
+  "count": 2907,
   "items": [
+    {
+      "id": "mkt:019f1db9-5d8f-7aab-8c58-f97e736af8be",
+      "time": "2026-07-01 20:48:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's finance minister said the country's 2027 budget growth will be below the inflation rate."
+    },
+    {
+      "id": "4965331",
+      "time": "2026-07-01 20:48:25",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "布倫特原油期貨下跌逾1美元，此前特朗普稱美國與伊朗關係非常好。"
+    },
+    {
+      "id": "4965330",
+      "time": "2026-07-01 20:48:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普表示：英特爾當時需要扶持。我跟他們說“我可以幫你們，但你們公司要拿出10%的股份交給美國政府。” 對方當即回應“成交。”答應得太快了，我當時本該多要點的。"
+    },
+    {
+      "id": "4965329",
+      "time": "2026-07-01 20:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團與梅花創投入股躍瓦創新】近日，工商變更資訊顯示，深圳躍瓦創新科技有限公司（簡稱：躍瓦創新）完成天使輪融資，新增投資方為美團、梅花創投。躍瓦創新成立於2024年，專注具身智慧機器人研發，首款產品Cocowa為具有可感知生命感的AI智慧體機器人。"
+    },
+    {
+      "id": "4965328",
+      "time": "2026-07-01 20:47:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達投資安防企業Verkada】主營安防攝像頭及配套軟體的Verkada公司於週三宣佈，英偉達對這家成立已有十年的企業進行了金額未披露的股權投資，本輪投後企業估值達58億美元，與去年12月由谷歌母公司Alphabet旗下成長投資部門CapitalG領投的融資輪次估值持平。"
+    },
+    {
+      "id": "mkt:019f1db8-9264-7aab-8c58-f130a0e2f94a",
+      "time": "2026-07-01 20:47:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Colombia's finance minister said the new government will submit a tax bill to Congress aimed at promoting economic growth."
+    },
+    {
+      "id": "mkt:019f1db8-5e28-7aab-8c58-ec1ebe81de09",
+      "time": "2026-07-01 20:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nissan is cutting production costs for vehicles made in Mexico to offset US tariffs, the company's CEO said."
+    },
+    {
+      "id": "4965327",
+      "time": "2026-07-01 20:47:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞新一屆政府將向國會提交稅收法案。"
+    },
+    {
+      "id": "4965326",
+      "time": "2026-07-01 20:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產削減墨西哥產車型生產成本，以抵消美國關稅帶來的影響。"
+    },
+    {
+      "id": "4965325",
+      "time": "2026-07-01 20:46:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "NEBIUS集團盤前股價下跌5.5%。"
+    },
+    {
+      "id": "mkt:019f1db7-b9cf-7aab-8c58-e7d44de4b931",
+      "time": "2026-07-01 20:46:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "CRWV.O",
+        "Impact bearish"
+      ],
+      "text": "CoreWeave (CRWV.O) fell 5.3% in premarket trading as Meta plans to expand its cloud business."
+    },
+    {
+      "id": "4965324",
+      "time": "2026-07-01 20:46:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海南海藥：股票交易異常波動 目前仍處於虧損狀態】海南海藥公告稱，公司股票於2026年6月29日至7月1日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營情況正常。2025年度淨虧損4.29億元，2026年一季度淨虧損7645.21萬元，目前仍處虧損狀態。異常波動期間，公司、控股股東和實控人未買賣公司股票。"
+    },
+    {
+      "id": "4965323",
+      "time": "2026-07-01 20:46:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "由於 META 將構建雲業務，COREWEAVE 股價盤前下跌 5.3%。"
+    },
+    {
+      "id": "mkt:019f1db7-734a-7aab-8c58-da0920ef73a7",
+      "time": "2026-07-01 20:46:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain heat-related deaths in June hit record high】Amid Europe’s record temperatures, Spain recorded 1,028 heat-related deaths in June, the highest June toll since records began in 2015, the Carlos III Health Institute said. The institute calculates heat-related excess deaths by comparing total deaths with historical averages."
+    },
+    {
+      "id": "4965322",
+      "time": "2026-07-01 20:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊處得很好 】美國總統特朗普今天（7月1日）對媒體表示，美國目前與伊朗“處得很好”，並稱近期在卡達舉行的會談“進展順利”。特朗普稱：“伊朗無核化程序推進良好，雙方舉行了非常不錯的會談，我們拭目以待。（CCTV國際時訊）"
+    },
+    {
+      "id": "4965321",
+      "time": "2026-07-01 20:45:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普披露卡達贈予美國的新一代空軍一號更多細節：“波音高管稱這架飛機是該廠打造過最精良的 747 機型。我到訪卡達時提出，希望臨時啟用這架專機，想必大家也清楚，原有空軍一號還在建造當中。”"
+    },
     {
       "id": "te:economy:563441",
       "time": "2026-07-01 20:45:03",
