@@ -88,6 +88,7 @@ jobs:
 
           for i in $(seq 1 "$rounds"); do
             echo "=== Round $i ==="
+            git pull --ff-only origin main
             python scraper/fetch_sina.py || echo "[WARN] scraper failed"
 
             git add docs/data.json docs/ai_summaries.json docs/central_bank_summaries.json docs/economic_calendar.json docs/market.json
@@ -95,7 +96,7 @@ jobs:
               echo "No changes."
             else
               git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
-              git pull --rebase origin main
+              git pull --rebase -X theirs origin main
               git push
 
               # 同步 docs/ 到公開 repo
@@ -103,7 +104,7 @@ jobs:
               git -C /tmp/page-repo add .
               if ! git -C /tmp/page-repo diff --cached --quiet; then
                 git -C /tmp/page-repo commit -m "page: round $i [$(date -u '+%H:%M:%S UTC')]"
-                git -C /tmp/page-repo pull --rebase origin main
+                git -C /tmp/page-repo pull --rebase -X theirs origin main
                 git -C /tmp/page-repo push
               fi
             fi
