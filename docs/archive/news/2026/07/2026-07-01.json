@@ -1,7 +1,53 @@
 {
   "date": "2026-07-01",
-  "count": 1331,
+  "count": 1336,
   "items": [
+    {
+      "id": "mkt:019f1c1a-e2db-7aab-8c4b-f06054fbac9c",
+      "time": "2026-07-01 13:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai business group says Thailand's economic recovery is uneven."
+    },
+    {
+      "id": "te:markets:563270",
+      "time": "2026-07-01 13:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 0.42% — Top currency losers are South Korean Won (-0.42%), Australian Dollar (-0.40%), British Pound (-0.15%), Euro (-0.12%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.13%)."
+    },
+    {
+      "id": "mkt:019f1c19-e9f4-7aab-8c4b-ef2c41de8be6",
+      "time": "2026-07-01 13:14:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "STAR 50 Index slid over 2% in afternoon trade; constituents Cambricon and Yuanjie Technology fell more than 6%, while XinYuan and Shengyi Electronics dropped over 5%."
+    },
+    {
+      "id": "mkt:019f1c19-e263-7aab-8c4b-e1695d3c8be3",
+      "time": "2026-07-01 13:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai business group expects Thailand's exports to rise 8-10% in 2026 and projects 2026 GDP growth at 1.6-2.0%."
+    },
+    {
+      "id": "4964258",
+      "time": "2026-07-01 13:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商會預計2026年通脹率將處於2.5%至3.0%區間，預計出口增長8%至10%，維持GDP增速預期1.6%至2.0%。"
+    },
     {
       "id": "te:economy:563268",
       "time": "2026-07-01 13:13:23",

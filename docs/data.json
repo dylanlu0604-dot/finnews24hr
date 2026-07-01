@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-01 13:14:41",
-  "count": 13940,
+  "updated": "2026-07-01 13:18:41",
+  "count": 13935,
   "items": [
+    {
+      "id": "mkt:019f1c1a-e2db-7aab-8c4b-f06054fbac9c",
+      "time": "2026-07-01 13:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai business group says Thailand's economic recovery is uneven."
+    },
+    {
+      "id": "te:markets:563270",
+      "time": "2026-07-01 13:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 0.42% — Top currency losers are South Korean Won (-0.42%), Australian Dollar (-0.40%), British Pound (-0.15%), Euro (-0.12%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.13%)."
+    },
+    {
+      "id": "mkt:019f1c19-e9f4-7aab-8c4b-ef2c41de8be6",
+      "time": "2026-07-01 13:14:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "STAR 50 Index slid over 2% in afternoon trade; constituents Cambricon and Yuanjie Technology fell more than 6%, while XinYuan and Shengyi Electronics dropped over 5%."
+    },
+    {
+      "id": "mkt:019f1c19-e263-7aab-8c4b-e1695d3c8be3",
+      "time": "2026-07-01 13:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai business group expects Thailand's exports to rise 8-10% in 2026 and projects 2026 GDP growth at 1.6-2.0%."
+    },
+    {
+      "id": "4964258",
+      "time": "2026-07-01 13:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商會預計2026年通脹率將處於2.5%至3.0%區間，預計出口增長8%至10%，維持GDP增速預期1.6%至2.0%。"
+    },
     {
       "id": "te:economy:563268",
       "time": "2026-07-01 13:13:23",
@@ -128098,100 +128144,6 @@
         "市場"
       ],
       "text": "【三大指數午後集體翻紅】A股三大指數午後集體翻紅，滬指翻紅，創業板指漲0.74%，深成指漲0.8%，氟化工、儲存晶片、PCB概念、CPO板塊漲幅居前。全市場上漲個股超1200只。"
-    },
-    {
-      "id": "4951787",
-      "time": "2026-06-24 13:17:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲頂新耀：與海南合瑞就布地奈德腸溶膠囊達成商業化合作】6月24日，雲頂新耀在港交所公告，公司及海南合瑞製藥股份有限公司就海南合瑞的布地奈德腸溶膠囊達成商業化合作。該產品已於2025年12月獲得國家藥品監督管理局（NMPA）批准上市。根據該合作，海南合瑞的布地奈德腸溶膠囊將獲准在中國大陸市場上市，並由本公司負責其商業化。本公司將對海南合瑞的生產及供應進行嚴格的技術指導與品質審計。該合作將有助於提升患者對耐賦康®與海南合瑞布地奈德腸溶膠囊的用藥選擇。該合作需滿足慣例交割條件後方可生效。"
-    },
-    {
-      "id": "mkt:019ef80f-ead5-7dd8-b0ec-65a7fb1bc62c",
-      "time": "2026-06-24 13:17:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "002475.SZ",
-        "Impact bullish"
-      ],
-      "text": "Luxshare Precision hit its daily limit-up; turnover 21.5 bln yuan."
-    },
-    {
-      "id": "4951786",
-      "time": "2026-06-24 13:16:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【立訊精密觸及漲停】立訊精密觸及漲停，成交額209.36億元。"
-    },
-    {
-      "id": "4951785",
-      "time": "2026-06-24 13:16:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池產業鏈午後拉昇，天華新能漲超10%】電池產業鏈午後拉昇，天華新能漲超10%，聖陽股份此前封板，龍蟠科技、嘉元科技、海科新源跟漲。"
-    },
-    {
-      "id": "4951784",
-      "time": "2026-06-24 13:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "半導體零部件概念股N臻寶午後拉昇，現漲超970%，最高見488.88元/股。"
-    },
-    {
-      "id": "mkt:019ef80e-20e5-7dd8-b0ec-5d2fda6234ab",
-      "time": "2026-06-24 13:15:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Semiconductor components–themed stock N Zhenbao surged in afternoon trade, up over 970% and peaking at 488.88 yuan per share."
-    },
-    {
-      "id": "4951783",
-      "time": "2026-06-24 13:15:30",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【俄媒：俄羅斯石油企業應將30%的原油留在國內加工】俄羅斯商業報紙《生意人報》週三援引俄最大石油企業俄羅斯石油公司總裁伊戈爾・謝欽的信函報道，俄羅斯各石油企業應留存至少三成自產原油，交由本國煉油廠加工。報道稱，在烏克蘭頻繁襲擊俄羅斯能源基礎設施、國內燃油供應陷入危機的背景下，這位掌控俄羅斯石油產業的巨頭於 5 月底向總統普京遞交了這份建議書。報道補充，普京已責成分管能源的副總理亞歷山大・諾瓦克跟進落實相關提議。週二，這名副總理對外表示，俄羅斯正考慮出臺柴油出口禁令；另有媒體報道，俄方或計劃進口成品油，以此緩解國內燃料短缺問題。"
-    },
-    {
-      "id": "te:markets:561373",
-      "time": "2026-06-24 13:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 0.58% — Top currency losers are South Korean Won (-0.58%), Euro (-0.14%) and British Pound (-0.06%). Gains are led by Indian Rupee (0.35%) and Dollar Index (0.08%)."
-    },
-    {
-      "id": "4951782",
-      "time": "2026-06-24 13:14:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【峰岹科技新設子公司 含AI及積體電路晶片業務】企查查APP顯示，近日，翱韜智慧科技（深圳）有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧基礎軟體開發；積體電路設計；積體電路銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由峰岹科技(688279)全資持股。"
-    },
-    {
-      "id": "4951781",
-      "time": "2026-06-24 13:14:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【周鴻禕：中國必須擁有自己的Mythos】在今日開幕的ISC.AI 2026（第十四屆網際網路安全大會）上，360集團創始人周鴻禕表示，未來幾年，我國很多關鍵基礎設施和重要產業將進入網路攻擊高發期，中國網路安全行業必須擁有自己的Mythos。近期，Anthropic宣佈限制內部最強模型Mythos對外開放，引發全球安全行業廣泛關注。早在該模型問世初期，曾引發美國一眾網路安全巨頭股價集體暴跌。周鴻禕認為，Mythos之所以引發震動，根本原因在於它能自主發現漏洞、分析漏洞甚至構造網路攻擊“武器”，相當於AI時代的“網路核武器” 。(國是直通車)"
     }
   ]
 }
