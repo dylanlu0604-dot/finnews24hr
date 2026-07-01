@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-02 02:16:32",
-  "count": 14154,
+  "updated": "2026-07-02 02:21:24",
+  "count": 14150,
   "items": [
+    {
+      "id": "te:markets:563532",
+      "time": "2026-07-02 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.26% — Top commodity gainers are Silver (2.26%), Lithium Carbonate (2.24%), Platinum (1.88%) and Gold (1.47%). Biggest losers are Iron Ore CNY (-1.87%) and Copper (-1.27%)."
+    },
+    {
+      "id": "4965845",
+      "time": "2026-07-02 02:18:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月02日01時57分在阿富汗（北緯36.55度，東經70.35度）發生5.4級地震，震源深度200千米。"
+    },
+    {
+      "id": "4965843",
+      "time": "2026-07-02 02:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至2295人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯1日表示，該國日前發生的兩次強震已造成2295人死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019f1ee5-46b4-7aab-8c64-f0f99af8bc22",
+      "time": "2026-07-02 02:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude-5.5 earthquake in Jurm, Afghanistan."
+    },
     {
       "id": "te:markets:563531",
       "time": "2026-07-02 02:15:02",
@@ -130404,87 +130439,6 @@
         "國際"
       ],
       "text": "特朗普：與國會議員的會面非常愉快。"
-    },
-    {
-      "id": "te:markets:561633",
-      "time": "2026-06-25 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Slumps by 7.80% — Top commodity losers are Silver (-7.80%), Platinum (-5.80%), Copper (-3.23%) and Gold (-3.07%). Gains are led by Iron Ore CNY (0.74%)."
-    },
-    {
-      "id": "mkt:019efadc-30ae-7dd8-b102-1d6dda7a6b74",
-      "time": "2026-06-25 02:19:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Google (GOOG.O) slipped briefly after reports that two more AI employees may be leaving for ANTHROPIC."
-    },
-    {
-      "id": "4953322",
-      "time": "2026-06-25 02:19:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長：公司重啟投資，將深耕巴西本土市場。"
-    },
-    {
-      "id": "4953321",
-      "time": "2026-06-25 02:19:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌股價迅速轉跌，下跌0.6%。"
-    },
-    {
-      "id": "4953320",
-      "time": "2026-06-25 02:18:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際艾滋病疫苗倡議組織（IAVI）發言人：首款埃博拉候選疫苗預計將於2026年底前完成製備，可開展人體評估。"
-    },
-    {
-      "id": "4953319",
-      "time": "2026-06-25 02:18:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通投資者日會議開幕。"
-    },
-    {
-      "id": "4953318",
-      "time": "2026-06-25 02:18:09",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌再有兩名人工智慧員工或將跳槽至Anthropic公司。"
-    },
-    {
-      "id": "mkt:019efad9-6b74-7dd8-b102-140aa2ae63eb",
-      "time": "2026-06-25 02:16:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【ECB's Zigman: price stability is priority; oil decline eases task】ECB official Zigman said price stability is the ECB’s primary task and that falling oil prices are making that task relatively easier. Speaking in his first public appearance since becoming governor of the Croatian central bank this month, he said ECB rate hikes have signalled determination despite the risk of further slowing an already fragile regional economy. He added that geopolitical developments around the Strait of Hormuz have pushed oil prices down, which he said will have a positive effect on inflation."
     }
   ]
 }

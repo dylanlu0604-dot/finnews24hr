@@ -1,7 +1,42 @@
 {
   "date": "2026-07-02",
-  "count": 159,
+  "count": 163,
   "items": [
+    {
+      "id": "te:markets:563532",
+      "time": "2026-07-02 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.26% — Top commodity gainers are Silver (2.26%), Lithium Carbonate (2.24%), Platinum (1.88%) and Gold (1.47%). Biggest losers are Iron Ore CNY (-1.87%) and Copper (-1.27%)."
+    },
+    {
+      "id": "4965845",
+      "time": "2026-07-02 02:18:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月02日01時57分在阿富汗（北緯36.55度，東經70.35度）發生5.4級地震，震源深度200千米。"
+    },
+    {
+      "id": "4965843",
+      "time": "2026-07-02 02:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至2295人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯1日表示，該國日前發生的兩次強震已造成2295人死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019f1ee5-46b4-7aab-8c64-f0f99af8bc22",
+      "time": "2026-07-02 02:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude-5.5 earthquake in Jurm, Afghanistan."
+    },
     {
       "id": "te:markets:563531",
       "time": "2026-07-02 02:15:02",
