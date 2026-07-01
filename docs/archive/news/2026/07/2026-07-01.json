@@ -1,7 +1,95 @@
 {
   "date": "2026-07-01",
-  "count": 1425,
+  "count": 1434,
   "items": [
+    {
+      "id": "te:markets:563287",
+      "time": "2026-07-01 14:14:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Softer Open — European equity markets were set to open slightly lower on Wednesday as the recent rally in global stocks lost momentum, while investors cautiously awaited a key US jobs report and Federal Reserve Chair Kevin Warsh’s remarks at the ECB Forum in Sintra, Portugal. European shares ended at record highs on Tuesday, supported by softer inflation data and growing expectations that the European Central Bank will keep interest rates unchanged in the near term. Investors now turn their focus to UK house price data, flash Eurozone inflation estimates and final PMI readings from across the region. Meanwhile, no major corporate earnings releases are scheduled in Europe. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.1%."
+    },
+    {
+      "id": "4964320",
+      "time": "2026-07-01 14:13:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景林資產“內部信”曝光：核心配置聚焦半導體與AI基礎設施】從渠道處獲悉，景林資產管理合夥人、CEO高雲程在《2026年中給投資者的一封信》中，系統闡述了其對AI產業趨勢、全球產業鏈重構以及當前組合配置方向的最新判斷。高雲程認為，過去半年全球資本市場最深層次的變化，並非指數漲跌，而是“智慧第一次開始被機器規模化生產出來”。在他看來，AI並不只是一個新的軟體工具，而是一場新的工業革命，能源、廣義半導體系統、AI大模型、資料中心和應用層正共同構成新的“智慧生產體系”。基於這一變化，高雲程認為，過去圍繞使用者數、流量、廣告收入和利潤率建立的平臺公司估值體系，需要被重新審視。未來市場更應關注算力投入效率、模型能力、資料閉環、AI商業化能力以及資本開支回報率。（上證報）"
+    },
+    {
+      "id": "mkt:019f1c4f-8ac9-7aab-8c4c-dbfeac7951ab",
+      "time": "2026-07-01 14:13:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Jinglin Asset internal letter: core allocations focused on semiconductors and AI infrastructure】In a mid-2026 investor letter, Gao Yuncheng, managing partner and CEO of Jinglin Asset Management, said the firm’s core holdings are concentrated in semiconductors and AI infrastructure as it repositions for AI-driven industry change and global supply-chain realignment. Gao wrote that the deepest market shift over the past six months is not index moves but “intelligence being mass-produced by machines.” He described AI as a new industrial revolution in which energy, broad semiconductor systems, large AI models, data centers and the application layer form a new “intelligent production system.” Gao said valuation frameworks for platform companies based on users, traffic, ad revenue and margins need reassessment; investors should instead prioritise compute efficiency, model capability, data closed loops, AI monetization and CAPEX returns."
+    },
+    {
+      "id": "4964319",
+      "time": "2026-07-01 14:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料彙編機構Bilstatistik.dk表示，6月份特斯拉在丹麥的新增註冊量同比增長39%。"
+    },
+    {
+      "id": "4964318",
+      "time": "2026-07-01 14:13:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.6%，報8722.90點。"
+    },
+    {
+      "id": "te:economy:563286",
+      "time": "2026-07-01 14:13:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 1"
+      ],
+      "text": "UK House Price Growth Accelerates in June — The UK Nationwide House Price Index rose 2.2% year-on-year in June 2026, missing market expectations of 2.4% but accelerating from a 1.7% increase in May. Nationwide Chief Economist Robert Gardner said that easing geopolitical tensions and lower-than-expected inflation have strengthened expectations that the Bank of England may not need to raise interest rates, or at least by less than had previously been anticipated. He also noted that the decline in market interest rates underpinning fixed-rate mortgage pricing has already begun to improve affordability conditions. Gardner added that, if sustained, these trends should help restore household confidence and support a recovery in housing market activity in the coming quarters. Regionally, Northern Ireland remained the strongest-performing area in the second quarter, with house prices 8.6% higher than a year earlier. On a monthly basis, house prices showed a flat reading, in line with forecasts, following a 0.6% rise in May."
+    },
+    {
+      "id": "4964317",
+      "time": "2026-07-01 14:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "William O'Neil恢復跟蹤海光資訊；評級買進。"
+    },
+    {
+      "id": "4964316",
+      "time": "2026-07-01 14:12:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【紐約梅隆銀行：美國國債市場依然受到支撐】紐約梅隆的Geoff Yu在一份報告中表示，儲備需求和流動性偏好繼續支撐美國國債市場，外部投資者青睞曲線前端。該EMEA宏觀策略師表示，近期的催化劑是本週的美國勞動力市場資料。他說：“一份有韌性的就業報告將強化通脹預期錨定的當前環境，從而支撐美國實際收益率、美債需求，並進而支撐美元。“美國非農就業人數資料定於週四公佈。"
+    },
+    {
+      "id": "4964315",
+      "time": "2026-07-01 14:11:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "據交易員透露，印度央行大機率在盧比兌美元匯率位於94.75附近時賣出美元。"
+    },
     {
       "id": "4964314",
       "time": "2026-07-01 14:09:14",

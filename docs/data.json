@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-01 14:10:21",
-  "count": 13910,
+  "updated": "2026-07-01 14:15:14",
+  "count": 13905,
   "items": [
+    {
+      "id": "te:markets:563287",
+      "time": "2026-07-01 14:14:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Softer Open — European equity markets were set to open slightly lower on Wednesday as the recent rally in global stocks lost momentum, while investors cautiously awaited a key US jobs report and Federal Reserve Chair Kevin Warsh’s remarks at the ECB Forum in Sintra, Portugal. European shares ended at record highs on Tuesday, supported by softer inflation data and growing expectations that the European Central Bank will keep interest rates unchanged in the near term. Investors now turn their focus to UK house price data, flash Eurozone inflation estimates and final PMI readings from across the region. Meanwhile, no major corporate earnings releases are scheduled in Europe. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.1%."
+    },
+    {
+      "id": "4964320",
+      "time": "2026-07-01 14:13:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景林資產“內部信”曝光：核心配置聚焦半導體與AI基礎設施】從渠道處獲悉，景林資產管理合夥人、CEO高雲程在《2026年中給投資者的一封信》中，系統闡述了其對AI產業趨勢、全球產業鏈重構以及當前組合配置方向的最新判斷。高雲程認為，過去半年全球資本市場最深層次的變化，並非指數漲跌，而是“智慧第一次開始被機器規模化生產出來”。在他看來，AI並不只是一個新的軟體工具，而是一場新的工業革命，能源、廣義半導體系統、AI大模型、資料中心和應用層正共同構成新的“智慧生產體系”。基於這一變化，高雲程認為，過去圍繞使用者數、流量、廣告收入和利潤率建立的平臺公司估值體系，需要被重新審視。未來市場更應關注算力投入效率、模型能力、資料閉環、AI商業化能力以及資本開支回報率。（上證報）"
+    },
+    {
+      "id": "mkt:019f1c4f-8ac9-7aab-8c4c-dbfeac7951ab",
+      "time": "2026-07-01 14:13:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Jinglin Asset internal letter: core allocations focused on semiconductors and AI infrastructure】In a mid-2026 investor letter, Gao Yuncheng, managing partner and CEO of Jinglin Asset Management, said the firm’s core holdings are concentrated in semiconductors and AI infrastructure as it repositions for AI-driven industry change and global supply-chain realignment. Gao wrote that the deepest market shift over the past six months is not index moves but “intelligence being mass-produced by machines.” He described AI as a new industrial revolution in which energy, broad semiconductor systems, large AI models, data centers and the application layer form a new “intelligent production system.” Gao said valuation frameworks for platform companies based on users, traffic, ad revenue and margins need reassessment; investors should instead prioritise compute efficiency, model capability, data closed loops, AI monetization and CAPEX returns."
+    },
+    {
+      "id": "4964319",
+      "time": "2026-07-01 14:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料彙編機構Bilstatistik.dk表示，6月份特斯拉在丹麥的新增註冊量同比增長39%。"
+    },
+    {
+      "id": "4964318",
+      "time": "2026-07-01 14:13:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.6%，報8722.90點。"
+    },
+    {
+      "id": "te:economy:563286",
+      "time": "2026-07-01 14:13:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 1"
+      ],
+      "text": "UK House Price Growth Accelerates in June — The UK Nationwide House Price Index rose 2.2% year-on-year in June 2026, missing market expectations of 2.4% but accelerating from a 1.7% increase in May. Nationwide Chief Economist Robert Gardner said that easing geopolitical tensions and lower-than-expected inflation have strengthened expectations that the Bank of England may not need to raise interest rates, or at least by less than had previously been anticipated. He also noted that the decline in market interest rates underpinning fixed-rate mortgage pricing has already begun to improve affordability conditions. Gardner added that, if sustained, these trends should help restore household confidence and support a recovery in housing market activity in the coming quarters. Regionally, Northern Ireland remained the strongest-performing area in the second quarter, with house prices 8.6% higher than a year earlier. On a monthly basis, house prices showed a flat reading, in line with forecasts, following a 0.6% rise in May."
+    },
+    {
+      "id": "4964317",
+      "time": "2026-07-01 14:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "William O'Neil恢復跟蹤海光資訊；評級買進。"
+    },
+    {
+      "id": "4964316",
+      "time": "2026-07-01 14:12:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【紐約梅隆銀行：美國國債市場依然受到支撐】紐約梅隆的Geoff Yu在一份報告中表示，儲備需求和流動性偏好繼續支撐美國國債市場，外部投資者青睞曲線前端。該EMEA宏觀策略師表示，近期的催化劑是本週的美國勞動力市場資料。他說：“一份有韌性的就業報告將強化通脹預期錨定的當前環境，從而支撐美國實際收益率、美債需求，並進而支撐美元。“美國非農就業人數資料定於週四公佈。"
+    },
+    {
+      "id": "4964315",
+      "time": "2026-07-01 14:11:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "據交易員透露，印度央行大機率在盧比兌美元匯率位於94.75附近時賣出美元。"
+    },
     {
       "id": "4964314",
       "time": "2026-07-01 14:09:14",
@@ -127810,139 +127898,6 @@
         "其他"
       ],
       "text": "【國家廣播電視總局徵求意見：微短劇不得載有下列內容】包括：危害國家統一、主權和領土完整，洩露國家秘密，危害國家安全，損害國家尊嚴、榮譽和利益，宣揚恐怖主義、極端主義；煽動民族仇恨、民族歧視，侵害民族風俗習慣，歪曲民族歷史或者民族歷史人物，傷害民族感情，破壞民族團結；詆譭中華優秀傳統文化，歪曲、否定革命文化、社會主義先進文化，宣揚文化虛無主義、歷史虛無主義，醜化、褻瀆英雄烈士事蹟和精神；違背國家宗教政策，宣揚邪教、迷信，歧視、侮辱宗教信仰；侵害未成年人合法權益或者危害未成年人身心健康；侮辱、誹謗他人或者散佈他人隱私，損害他人合法權益和公共利益；宣揚破壞生態環境保護，危害公共健康；宣揚淫穢、賭博、吸毒、拜金主義、奢靡之風，宣揚基於種族、國籍、地域、性別、職業、身心缺陷等理由的歧視，以及其他危害社會公德和違背公序良俗的內容等。"
-    },
-    {
-      "id": "mkt:019ef844-1d0b-7dd8-b0ed-9fd8b9caf3e3",
-      "time": "2026-06-24 14:14:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Lianxun Instruments rose as much as 11% intraday, reaching a record high of 2,628 yuan per share."
-    },
-    {
-      "id": "te:economy:561380",
-      "time": "2026-06-24 14:14:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Danish Retail Sales Pick Up in May — Retail sales in Denmark rose 3.8% year-on-year in May 2026, picking up from a ten-month low and an upwardly revised 1.4% increase in the previous month. Sales rebounded for supermarkets, department stores, and specialized grocery stores (3.2% vs -2.2% in April), while it increased at a faster pace for household equipment, furniture, and building materials (5.1% vs 2.4%) and cultural and leisure products (18.1% vs 17.4%). Meanwhile, trade continued to decline for liquid fuels and filling stations (-17.8% vs -14.7%). In addition, sales growth eased for consumer electronics (5.7% vs 15.1%), clothing, footwear, and jewelry (6.4% vs 10.6%), pharmacies and personal care products (3.3% vs 4.2%), and second-hand goods (13.2% vs 14.2%). On a monthly basis, retail sales rose 1.0%, rebounding from a 1.8% fall in April."
-    },
-    {
-      "id": "4951873",
-      "time": "2026-06-24 14:14:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【聯訊儀器股價再創歷史新高】6月24日，A股“股王”、第一高價股聯訊儀器一度漲超11%，盤中股價最高漲至2628元/股，再創歷史新高。"
-    },
-    {
-      "id": "te:markets:561379",
-      "time": "2026-06-24 14:14:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Cautious Open — European equity markets were set to open flat to slightly lower on Wednesday as investors remained cautious following a global selloff in technology stocks driven by growing concerns over AI-related valuations, while awaiting the latest earnings results from Micron Technology. Market participants also continued to track developments in US-Iran peace negotiations amid signs of improving traffic through the Strait of Hormuz. However, uncertainty remains over whether Tehran has agreed to permit UN inspections of its nuclear facilities. In Europe, attention will turn to Germany’s June business climate data, with no major corporate earnings reports scheduled for release. In premarket trading, futures on the Euro Stoxx 50 and Stoxx 600 were little changed to modestly lower."
-    },
-    {
-      "id": "4951872",
-      "time": "2026-06-24 14:14:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【玻璃基板概念震盪回升 戈碧迦漲超20%創歷史新高】午後玻璃基板概念震盪回升，戈碧迦漲超20%，創歷史新高，路維光電、光力科技漲超10%，凱格精機、深天馬A、鼎龍股份、京東方A漲幅靠前。訊息面上，臺積電已於近期確認首批CoPoS裝置供應鏈評估名單，目前各廠商正積極跟隨研發進度，以求透過認證。根據裝置清單顯示，包括玻璃基板處理、光阻塗布、曝光、鍍銅、研磨、貼片、模封、檢測、最終分選等環節，各裝置廠已全面卡位，並陸續進入驗證與認證階段。"
-    },
-    {
-      "id": "te:markets:561378",
-      "time": "2026-06-24 14:14:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Stock Price Hits 9-week High — ICICI Bank shares increased to 1374.00 INR, the highest since April 2026. Over the past 4 weeks, ICICI Bank gained 6.29%, and in the last 12 months, it decreased 3.7%."
-    },
-    {
-      "id": "4951871",
-      "time": "2026-06-24 14:13:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念持續走高 領益智造等多股漲停】午後液冷伺服器概念持續走高，領益智造封漲停，此前聖陽股份、飛龍股份、意華股份、金富科技漲停，勝藍股份、同飛股份、大元泵業、奕東電子等漲幅靠前。訊息面上，英偉達發文詳細介紹了即將量產的Vera Rubin平臺所使用的45℃全面液冷技術，表示其幫助AI資料中心大幅降低能耗，並稱Rubin是全球首個實現100%液冷的AI計算平臺。"
-    },
-    {
-      "id": "4951870",
-      "time": "2026-06-24 14:13:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普200指數收盤上漲0.2%，報8808.40點。"
-    },
-    {
-      "id": "4951869",
-      "time": "2026-06-24 14:12:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "KNDS：德意志聯邦共和國已與韋格曼集團達成原則性協議，將從韋格曼集團手中收購KNDS 40%的普通股股本。"
-    },
-    {
-      "id": "4951868",
-      "time": "2026-06-24 14:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "KNDS：宣佈計劃推進首次公開募股（IPO），為其長期增長戰略提供支撐。"
-    },
-    {
-      "id": "mkt:019ef841-325d-7dd8-b0ed-91231cdfa32f",
-      "time": "2026-06-24 14:11:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IAEA to inspect Iran's enrichment facilities; timing unclear】IAEA Director General Rafael Grossi said inspectors will ultimately inspect Iran's enrichment facilities, though the timing is uncertain and could range from days to about ten days. He said a memorandum of understanding signed by the US and Iranian presidents stipulates that the covered nuclear activities will be under IAEA supervision and requires Iran to dilute its stock of highly enriched uranium. US vice president JD Vance said Iran agreed to invite IAEA inspectors back, but Iranian foreign ministry spokesman Baghaei said Iran has not met with Grossi and there is no concrete inspection timetable."
-    },
-    {
-      "id": "4951867",
-      "time": "2026-06-24 14:10:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "TANKMAKER KNDS 計劃在巴黎和法蘭克福首次公開募股。"
-    },
-    {
-      "id": "4951866",
-      "time": "2026-06-24 14:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高樂股份成立智聚算網科技公司 含AI及積體電路業務】企查查APP顯示，近日，楚雄智聚算網科技有限公司成立，經營範圍包含：半導體分立器件銷售；積體電路銷售；光電子器件銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由高樂股份(002348)全資持股。"
-    },
-    {
-      "id": "mkt:019ef840-5145-7dd8-b0ed-8f3d53c62ddf",
-      "time": "2026-06-24 14:10:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Foxconn, Sharp sign memorandum to pursue AI infrastructure and robotics】Foxconn Technology Group and Sharp signed a strategic cooperation memorandum to establish a joint R&D and commercialization framework targeting new businesses in AI infrastructure, energy and ESG, robotics and intelligent automation, next‑generation communications and smart cities."
     }
   ]
 }
