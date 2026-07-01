@@ -1,7 +1,99 @@
 {
   "date": "2026-07-01",
-  "count": 1485,
+  "count": 1495,
   "items": [
+    {
+      "id": "4964362",
+      "time": "2026-07-01 14:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG新能源股價下跌3.9%，收於348,000韓元。"
+    },
+    {
+      "id": "mkt:019f1c68-32c0-7aab-8c4d-69398ca3d6f6",
+      "time": "2026-07-01 14:40:18",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UK house prices stagnate despite easing mortgage costs】Nationwide said UK house prices were flat in June for a second consecutive month, with the average at £277,484 after a 0.6% fall in May, missing economists’ 0.1% growth forecast. Middle East hostilities disrupted the mortgage market and ended the strong early‑year price momentum. Mortgage rates have eased from April peaks but remain above pre‑conflict levels. With investors increasingly expecting a US‑Iran ceasefire to hold, market bets on further Bank of England hikes have eased, leaving scope for mortgage costs to fall further in coming months."
+    },
+    {
+      "id": "4964361",
+      "time": "2026-07-01 14:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門國本國資產業投資基金登記成立 出資額100.01億】天眼查App顯示，近日，廈門國本國資產業投資基金合夥企業（有限合夥）成立，出資額100.01億人民幣，執行事務合夥人為廈門國升發展私募基金管理有限責任公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由廈門國有資本投資有限責任公司、廈門輕工集團創業投資有限公司、廈門安居控股集團有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:019f1c68-1f87-7aab-8c4d-649887ca1436",
+      "time": "2026-07-01 14:40:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "MOL.BU",
+        "Impact bullish"
+      ],
+      "text": "MOL, Hungary's oil and gas company, has received a formal license from the U.S. Treasury to continue negotiations to acquire Serbia's oil company NIS; the license is valid through July 31."
+    },
+    {
+      "id": "4964360",
+      "time": "2026-07-01 14:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克1-6月預算赤字29.69億歐元。"
+    },
+    {
+      "id": "4964359",
+      "time": "2026-07-01 14:39:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌5.8%，收報314,500韓元。"
+    },
+    {
+      "id": "4964358",
+      "time": "2026-07-01 14:39:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "匈牙利油氣集團（MOL）宣告稱，已收到美國財政部頒發的正式許可證，允許其就收購塞爾維亞石油公司（NIS）的談判持續至7月31日。"
+    },
+    {
+      "id": "4964357",
+      "time": "2026-07-01 14:38:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量4049億元。"
+    },
+    {
+      "id": "4964356",
+      "time": "2026-07-01 14:37:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美企擬年內恢復“新格倫”火箭發射】美國藍色起源公司執行長戴維·林普6月30日表示，公司不會按原有方案重建因爆炸受損的“新格倫”重型運載火箭發射設施，而是採用新方案，力爭今年內恢復火箭發射。"
+    },
+    {
+      "id": "4964355",
+      "time": "2026-07-01 14:37:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4807.20點。"
+    },
     {
       "id": "4964354",
       "time": "2026-07-01 14:37:18",

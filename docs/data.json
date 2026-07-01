@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-01 14:38:19",
-  "count": 13873,
+  "updated": "2026-07-01 14:42:17",
+  "count": 13864,
   "items": [
+    {
+      "id": "4964362",
+      "time": "2026-07-01 14:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG新能源股價下跌3.9%，收於348,000韓元。"
+    },
+    {
+      "id": "4964361",
+      "time": "2026-07-01 14:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門國本國資產業投資基金登記成立 出資額100.01億】天眼查App顯示，近日，廈門國本國資產業投資基金合夥企業（有限合夥）成立，出資額100.01億人民幣，執行事務合夥人為廈門國升發展私募基金管理有限責任公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由廈門國有資本投資有限責任公司、廈門輕工集團創業投資有限公司、廈門安居控股集團有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:019f1c68-32c0-7aab-8c4d-69398ca3d6f6",
+      "time": "2026-07-01 14:40:18",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UK house prices stagnate despite easing mortgage costs】Nationwide said UK house prices were flat in June for a second consecutive month, with the average at £277,484 after a 0.6% fall in May, missing economists’ 0.1% growth forecast. Middle East hostilities disrupted the mortgage market and ended the strong early‑year price momentum. Mortgage rates have eased from April peaks but remain above pre‑conflict levels. With investors increasingly expecting a US‑Iran ceasefire to hold, market bets on further Bank of England hikes have eased, leaving scope for mortgage costs to fall further in coming months."
+    },
+    {
+      "id": "mkt:019f1c68-1f87-7aab-8c4d-649887ca1436",
+      "time": "2026-07-01 14:40:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "MOL.BU",
+        "Impact bullish"
+      ],
+      "text": "MOL, Hungary's oil and gas company, has received a formal license from the U.S. Treasury to continue negotiations to acquire Serbia's oil company NIS; the license is valid through July 31."
+    },
+    {
+      "id": "4964360",
+      "time": "2026-07-01 14:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克1-6月預算赤字29.69億歐元。"
+    },
+    {
+      "id": "4964359",
+      "time": "2026-07-01 14:39:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌5.8%，收報314,500韓元。"
+    },
+    {
+      "id": "4964358",
+      "time": "2026-07-01 14:39:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "匈牙利油氣集團（MOL）宣告稱，已收到美國財政部頒發的正式許可證，允許其就收購塞爾維亞石油公司（NIS）的談判持續至7月31日。"
+    },
+    {
+      "id": "4964357",
+      "time": "2026-07-01 14:38:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量4049億元。"
+    },
+    {
+      "id": "4964356",
+      "time": "2026-07-01 14:37:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美企擬年內恢復“新格倫”火箭發射】美國藍色起源公司執行長戴維·林普6月30日表示，公司不會按原有方案重建因爆炸受損的“新格倫”重型運載火箭發射設施，而是採用新方案，力爭今年內恢復火箭發射。"
+    },
+    {
+      "id": "4964355",
+      "time": "2026-07-01 14:37:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4807.20點。"
+    },
     {
       "id": "4964354",
       "time": "2026-07-01 14:37:18",
@@ -127445,182 +127537,6 @@
         "國際"
       ],
       "text": "日本央行行長植田和男：在最近加息後，金融環境仍保持寬鬆，將繼續為經濟活動提供支撐。"
-    },
-    {
-      "id": "mkt:019ef85d-46d4-7dd8-b0ee-6a475041edaa",
-      "time": "2026-06-24 14:42:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "N Zhenbao's post-resumption rally narrowed to a 1,000% gain; trading value exceeded 9.2 billion yuan and turnover rate topped 73%."
-    },
-    {
-      "id": "mkt:019ef85d-39f8-7dd8-b0ee-60493849988c",
-      "time": "2026-06-24 14:41:59",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Governor UEDA said the risk that inf may exceed 2% remains."
-    },
-    {
-      "id": "4951945",
-      "time": "2026-06-24 14:41:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "N臻寶復牌後漲幅縮窄至1000%，成交額超92億元，換手率超73%。"
-    },
-    {
-      "id": "4951944",
-      "time": "2026-06-24 14:41:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：潛在通脹存在超調2%目標的風險。"
-    },
-    {
-      "id": "4951943",
-      "time": "2026-06-24 14:41:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行植田和男：當前金融環境寬鬆。"
-    },
-    {
-      "id": "4951942",
-      "time": "2026-06-24 14:41:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團副總裁陶雪璇：必吃榜覆蓋全球264座城市和地區】大眾點評必吃榜10週年盛典舉行，美團副總裁、點評事業部總經理陶雪璇發表《用真實的微光照亮美好生活》主題演講。陶雪璇表示，必吃榜自2017年釋出至今，已經覆蓋全球264座城市和地區，4279家商戶上榜。“必吃榜不是評出來的，而是靠真實食客吃出來的。”陶雪璇強調，大眾點評的底色是“真使用者推薦給真使用者”，“讓使用者把生活經驗交給使用者，讓真實體驗沉澱為可信賴的消費參考。”陶雪璇強調，在AI時代，大眾點評的價值不只在於幫助找店，而是建設彼此信任、真誠交流的社群，“讓每一個熱愛生活的人所留下的真實生活足跡成為其他人可信任的決策參考。”（新浪科技）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606243781337761",
-      "time": "2026-06-24 14:41:34",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行行長植田和男表示，日本經濟正溫和復甦，將根據經濟和物價情況繼續升息。"
-    },
-    {
-      "id": "te:markets:561393",
-      "time": "2026-06-24 14:41:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Closes Slightly Higher — The ASX 200 edged up 21 points or 0.2% to finish at 8,808 on Wednesday, snapping a four-session slide as softer May headline inflation supported sentiment despite core readings running a touch hot. In Asia, markets mainly advanced as U.S. stock futures ticked up amid easing tensions in the Middle East, with tanker traffic through the Strait of Hormuz gradually normalising. Later this week, focus will turn to the U.S. PCE price index and final GDP figures. Gains in local markets were broad across tech services, healthcare, consumer, and commercial sectors, offset by weakness in energy and mining. Three of the big four banks rose between 0.1% and 1.2%, while Wisetech Global rebounded 14.5% after its prior slump. Other standouts included Lynas Rare Earths (4.3%), PLS Group (3.6%), and Pro Medicus (3.9%). In contrast, Woodside Energy slipped 1.4%, and Santos fell 1.0%. Traders now await Thursday’s labor market and household spending data for further cues on domestic resilience."
-    },
-    {
-      "id": "mkt:019ef85c-922c-7dd8-b0ee-5d38512951c5",
-      "time": "2026-06-24 14:41:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan Governor UEDA said economic growth may slow but will continue a moderate recovery."
-    },
-    {
-      "id": "mkt:019ef85c-8549-7dd8-b0ee-57c3ce31ffc0",
-      "time": "2026-06-24 14:41:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Governor UEDA, in a speech read on his behalf by a deputy governor, said Japan's economy is moderately recovering, though some weaknesses remain."
-    },
-    {
-      "id": "4951941",
-      "time": "2026-06-24 14:41:07",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將根據經濟與物價形勢持續加息。"
-    },
-    {
-      "id": "4951940",
-      "time": "2026-06-24 14:40:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：日本經濟增長大機率會放緩，但將繼續保持溫和復甦態勢。"
-    },
-    {
-      "id": "mkt:019ef85b-efaf-7dd8-b0ee-4893a58ad55f",
-      "time": "2026-06-24 14:40:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filings show Shenzhen Fengyi Technology Group Co., Ltd. has submitted a listing application."
-    },
-    {
-      "id": "4951939",
-      "time": "2026-06-24 14:40:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳市豐宜科技集團股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4951938",
-      "time": "2026-06-24 14:40:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【統戰部：所謂新疆少數民族“強制遷徙”“強迫勞動”說法極其荒謬可笑】6月24日上午，國務院新聞辦公室舉行新聞釋出會，介紹《中華人民共和國民族團結進步促進法》和我國民族工作有關情況。有記者問：有些西方媒體報道，中國對新疆少數民族“強迫勞動”“強制遷徙”議題，而民族團結進步促進法在“促進交往交流交融”章節中明確保障跨區域就業創業公民的合法權利，請問如何評價這種將促進各民族共同發展的舉措與“強迫勞動”掛鉤的言論？中國法律如何保障各族勞動者在流動就業中的合法權益不受侵犯？中央統戰部副部長、國家民委主任陳瑞峰表示，民族團結進步促進法明確了保障跨區域就業創業公民的合法權益，這些法律規定集中體現在第二十五條，作出這樣的規定，目的是維護各族群眾平等發展權利、拓寬增收渠道、促進各民族交往交流交融，始終堅持完全自願、雙向選擇、依法合規、來去自由的核心原則。新疆勞動力轉移就業是尊重各族群眾意願前提下實施的，目的在於幫助各族群眾增加就業機會，提高經濟收入，完全是、純粹是在為新疆老百姓辦實事、做好事。所有外出就業的新疆群眾，全部都是基於改善家庭生活、提升自身技能的個人意願自主報名，根本不存在所謂的“強制遷徙”“強迫勞動”，此類說法是極其荒謬、極其可笑的。（央視新聞）"
-    },
-    {
-      "id": "4951937",
-      "time": "2026-06-24 14:40:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行植田和男：日本經濟正溫和復甦。"
-    },
-    {
-      "id": "4951936",
-      "time": "2026-06-24 14:39:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【餓了麼旗下筷馬熱食變更負責人】天眼查App顯示，近日，筷馬熱食關聯公司上海饌山文化傳媒有限公司發生工商變更，賈甦卸任法定代表人，由周廣浩接任。該公司成立於2015年7月，註冊資本約8.9億人民幣，經營範圍包括組織文化藝術交流活動、網際網路銷售、會議及展覽服務等，由餓了麼關聯公司拉扎斯網路科技（上海）有限公司全資持股。"
-    },
-    {
-      "id": "4951935",
-      "time": "2026-06-24 14:38:48",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東吳證券：維持卓勝微“買入”評級，射頻全棧佈局持續兌現】東吳證券研報指出，卓勝微芯卓產線構築核心壁壘，射頻全棧佈局持續兌現。2026年起公司L-PAMiD高階模組正式進入放量週期，該產品打破海外廠商長期壟斷，是業界首次實現全國產供應鏈的系列產品，疊加海外龍頭企業退出中國市場、地緣摩擦催化國產替代加速，公司有望承接市場份額，驅動該產品實現數倍增長。射頻格局最佳化、模組成勢放量、矽光蓄力進階，雙輪驅動業績與估值共振。公司深度受益海外巨頭退出帶來的份額遷移，基於測算，射頻業務模組收入佔比2028年有望升高至6成，矽光業務逐步貢獻收入，消費電子加光通訊成長結構漸顯。預計26-28年營業收入為40.96/50.01/61.83億元，歸母淨利潤-0.03/2.62/4.87億元，27-28年對應PE分別為233/125倍，維持“買入”評級。"
-    },
-    {
-      "id": "4951934",
-      "time": "2026-06-24 14:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SPHBM4標準獲批，突破HBM封裝成本高昂的瓶頸】JEDEC制定並公佈了SPHBM4標準。SPHBM4是一項新的JEDEC標準，使用更少的訊號引腳、標準封裝和更經濟的基板，即可實現接近HBM4的效能。SPHBM4將訊號引腳數量減少到原來的五分之一，並透過將訊號速度提高至原來的四倍，緩解效能損失的問題。這樣一來，即使使用標準基板，也能實現與HBM相當的頻寬。記憶體晶片和計算晶片之間的連線距離也增加到 20 毫米。這種距離的增加有助於提升封裝內部的散熱效能。"
     }
   ]
 }
