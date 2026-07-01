@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-02 06:38:35_
-_本檔包含 2767 則快訊，約 530173 字_
+_更新時間：2026-07-02 07:10:35_
+_本檔包含 2758 則快訊，約 530039 字_
+
+---
+
+### 2026-06-26 19:51:23  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Turn Lower on Tech Volatility — US equity futures were firmly lower on Friday as fresh uncertainty on the AI trade reignited selling pressure for chip producers and AI companies. Contracts for the S&P 500 and Nasdaq 100 fell 0.5% and 1.2%, respectively, to two-week lows. Hyperscale cloud providers in the Magnificent 7 held their sharp drops from the previous session on lingering concerns that AI spending may have been overdone, with Nvidia, Tesla, and Oracle dropping more than 1% premarket. Also, memory and other chip producers came under fresh selling, trimming gains from yesterday's rally fueled by Micron's earnings results amid concerns that AI infrastructure spending will slow. Micron and Sandisk dropped 5%. Concurrently, a report indicated that OpenAI could delay its IPO, also aligned with lower spending for compute capacity. In turn, the Dow was close to the flatline after testing record highs yesterday to reflect resilience from traditional sectors of the economy.
+
+---
+
+### 2026-06-26 19:51:14  #公司
+
+【邁信林：擬公開掛牌轉讓部分資產】邁信林(688685)6月26日公告，公司擬將所擁有的位於蘇州市吳中區東太湖路2208號不動產及附屬配套設施（簡稱“交易標的”）以公開掛牌的方式在蘇州產權交易中心有限公司進行轉讓。本次公開掛牌轉讓價格以評估值為依據，確定交易標的的首次公開掛牌轉讓價格為4.03億元，最終交易金額以實際成交價格為準。
+
+---
+
+### 2026-06-26 19:51:07  #其他
+
+【北京朝陽將發放3000萬元汽車購新禮包 釋放消費市場潛力】記者26日從北京市朝陽區商務局獲悉，6月26日0時至9月30日24時，該區將投放3000萬元汽車購新禮包，進一步釋放汽車消費市場潛力，助力區域經濟高質量發展。
+
+---
+
+### 2026-06-26 19:50:49  #國際
+
+據菲律賓火山地震研究所訊息，今天（6月26日）19時34分左右，菲律賓南部海域發生6.6級地震，震源深度10公里，附近多地有震感。（CCTV國際時訊）
+
+---
+
+### 2026-06-26 19:50:40  #國際 #兩會
+
+【6月26日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平會見柬埔寨人民黨主席、參議院主席洪森； 2.習近平會見孟加拉國總理； 3.習近平簽署國家主席令； 4.習近平就委內瑞拉發生強烈地震向委內瑞拉代總統致慰問電； 5.李強會見柬埔寨人民黨主席、參議院主席洪森； 6.十四屆全國人大常委會第二十三次會議在京閉幕； 7.趙樂際會見孟加拉國總理； 8.丁薛祥在新疆調研； 9.紅色旅遊升溫 匯聚奮進力量； 10.【“十五五”開好局起好步】到2030年我國將初步建成新型能源體系； 11.國際禁毒日：各地開展形式多樣的禁毒主題宣傳活動； 12.國內聯播快訊： （1）網路銷售重點工業產品清單釋出； （2）我國設立養老服務師職業資格制度； （3）國家廣播電視總局釋出AI微短劇分類分層標準； （4）天台抽水蓄能電站全面投產； （5）大渡河雙江口水電站首臺機組併網發電； （6）渝昆高鐵全部隧道貫通； （7）《高階訪談》今晚播出對幾內亞總理烏里·巴的專訪； 13.委內瑞拉強震遇難人數升至235人 救援持續進行 委內瑞拉宣佈多項措施應對強震災情； 14.伊朗和阿曼兩國外長通話討論霍爾木茲海峽問題 報告稱霍爾木茲海峽通航量恢復至戰前近六成； 15.國際聯播快訊： （1）以稱以軍將無限期駐留黎南部等地區； （2）白俄羅斯總統警告烏克蘭勿激化局勢。
+
+---
+
+### 2026-06-26 19:48:56  #國際
+
+以色列持續屢次違反停火協議，以軍向曼蘇里城鎮廣播通知，要求當地居民撤離該區域。
+
+---
+
+### 2026-06-26 19:48:32  #公司
+
+【應急管理部公佈一批安全生產嚴格執法典型案例】2025年12月9日，江蘇省常州市應急管理局執法人員對江蘇某鋁業有限公司進行執法檢查時，發現該公司存在以下問題：1.主要負責人未按照規定經考核合格，屬於《工貿企業重大事故隱患判定標準》第三條第三項判定情形；2.鑄造用熔煉爐和保溫爐前方未設定應急坑等應急儲存設施，屬於《工貿企業重大事故隱患判定標準》第七條第二項判定情形；3.未按照國家規定投保安全生產責任保險。對該公司相關違法行為進行立案處罰，責令其限期改正，處罰款15.475萬元。
+
+---
+
+### 2026-06-26 19:47:58  #其他
+
+巴西規劃部長：農業債務重組方案可能會導致信貸收緊。
+
+---
+
+### 2026-06-26 19:46:50  #其他
+
+巴西規劃部長：農業債務重新談判法案對銀行構成風險；法案文字需要調整。
+
+---
+
+### 2026-06-26 19:46:47  #MKT News
+
+RIA reports former Russian defense minister Ivanov has died.
+
+---
+
+### 2026-06-26 19:46:25  #MKT News
+
+【6.8 magnitude earthquake off North Sulawesi, Indonesia】Indonesia's Agency for Meteorology, Climatology and Geophysics (BMKG) reported a magnitude-6.8 earthquake at 18:34 local time on June 26, centered about 196 km northwest of North Sulawesi offshore.
+
+---
+
+### 2026-06-26 19:46:21  #國際
+
+俄羅斯前國防部長伊萬諾夫去世。
+
+---
+
+### 2026-06-26 19:46:13  #宏觀
+
+世界銀行出臺幫扶幾內亞框架方案，2027 年起將提供 30 億美元資金支援。
+
+---
+
+### 2026-06-26 19:44:37  #國際
+
+據印尼氣象、氣候和地球物理局釋出的報告，當地時間今天（6月26日）18時34分，印尼北蘇拉威西省西北196公里海域發生6.8級地震，震源深度10公里。（CCTV國際時訊）
+
+---
+
+### 2026-06-26 19:44:23  #公司
+
+【光智科技：擬3.01億元增資收購先銳科技50.0832%股權】光智科技公告稱，公司擬與清遠先導、先銳科技簽署《投資協議》，以增資形式投資先銳科技，取得其50.0832%股權，實現控股，增資總金額3.01億元。本次交易構成關聯交易，但不構成重大資產重組。先銳科技2026年1 - 4月營收1922.22萬元，淨虧損34.16萬元。交易已透過董事會審議，尚需股東會批准。
+
+---
+
+### 2026-06-26 19:44:01  #其他
+
+中國地震臺網自動測定：06月26日19時34分在蘇拉威西海附近（北緯5.41度，東經125.21度）發生6.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-26 19:43:55  #其他
+
+【諶貽琴向上海合作組織婦女論壇開幕式發表影片致辭】上海合作組織婦女論壇6月26日在吉爾吉斯斯坦比什凱克開幕，國務委員、全國婦聯主席諶貽琴發表影片致辭。 諶貽琴指出，婦女領域是上合組織合作的重要內容。在習近平主席親切關懷下，2018年中國成功舉辦首屆上合組織婦女論壇，構築起各國婦女相知相親的重要平臺，為區域共同繁榮注入溫暖而堅定的巾幗力量。（新華社）
+
+---
+
+### 2026-06-26 19:43:20  #MKT News
+
+GFZ reported a magnitude-6.49 earthquake in Mindanao, Philippines.
+
+---
+
+### 2026-06-26 19:43:02  #國際
+
+美國地質調查局：菲律賓薩蘭甘尼西南偏西 21 公里處發生 6.7 級地震。
+
+---
+
+### 2026-06-26 19:42:39  #市場
+
+波音股價盤前上漲0.6%。
+
+---
+
+### 2026-06-26 19:42:14  #其他
+
+【本田2025財年錄得超4000億日元鉅額虧損，預計2026年財年扭虧為盈】本田6月26日公佈，2025財年（2025年4月至2026年3月）計入伴隨純電動汽車戰略調整的4239億日元鉅額淨虧損，遭遇上市以來首次超過4000億日元的鉅虧。本田預計2026年財年（2026年4月至2027年3月）將扭虧為盈，實現2600億日元盈利。
+
+---
+
+### 2026-06-26 19:42:00  #公司
+
+【事關證券行業專業人員水平評價測試 中證協釋出五件大綱】中國證券業協會6月26日釋出訊息稱，中證協結合近年來資本市場改革發展、法治建設等情況，修訂形成了《證券公司高階管理人員水平評價測試大綱（2026）》等五件大綱，進一步做好證券行業專業人員水平評價測試工作，建設德才兼備的高質量金融人才隊伍。
+
+---
+
+### 2026-06-26 19:41:50  #公司
+
+【雄安金融中心將在明年具備全面入駐條件，重點引進科技金融領域企業】雄安金融中心6個地塊將於2027年全部竣工備案，片區屆時將全方位滿足各類企業入駐落地條件。據雄安集團雄安金融島公司副總經理張加健介紹，雄安金融中心專案於2025年2月正式啟動施工。目前，專案19棟單體建築已實現主體結構全面封頂，業態覆蓋高階辦公主樓、企業食堂、商業配套、服務式公寓及片區各類市政配套工程。現階段，專案整體外立面施工已進入收尾階段，施工現場正全力推進室內精裝修、室外景觀打造及小型市政管網鋪設等後續工程，專案建設穩步提速。（澎湃）
+
+---
+
+### 2026-06-26 19:41:16  #其他
+
+【上海啟動規範汽車行業網上資訊傳播秩序專項整治行動】據“網信上海”訊息，上海市委網信辦會同市經信委、市公安局網安總隊等部門，即日起啟動規範汽車行業網上資訊傳播秩序專項整治行動。本次專項行動重點整治網上汽車交易不實資訊、汽車價格虛假資訊，以及惡意唱衰車市、煽動非理性維權等違法違規內容，嚴防“自媒體”和MCN機構藉助網路編造虛假車價，誤導消費者預期，擾亂汽車市場正常秩序。各部門將堅持線上線下一體治理，透過開展專項整治，督促車企加強行業自律，主動抵制低俗、虛假、誇大宣傳等不良網路營銷行為；壓實平臺主體責任，健全完善汽車領域內容稽核釋出規則，為汽車行業健康發展營造客觀理性、清朗有序的網路環境。今年以來，市委網信辦持續緊盯汽車領域虛假宣傳、惡意炒作等網路突出問題，指導小紅書、嗶哩嗶哩、虎撲等屬地重點平臺深入開展自查自糾，集中清理涉汽車領域違法和不良資訊10273條，處置違規汽車類“自媒體”賬號123個，持續整治虛假車價、惡意炒作、違規引流、教唆惡意投訴等問題。市委網信辦相關負責人表示，網路空間不是法外之地，各類涉汽車領域網路宣傳、市場營銷行為必須嚴格遵守法律法規。專項整治期間，對屢教不改、頂風違規的“自媒體”賬號及MCN機構，將依法從嚴處置，全面淨化涉汽車領域網路輿論生態，切實維護車企及廣大消費者合法權益，有力護航汽車行業高質量發展。
+
+---
+
+### 2026-06-26 19:40:57  #其他
+
+富國銀行從瑞銀、雷蒙德・詹姆斯挖角醫療行業投行人才。
+
+---
+
+### 2026-06-26 19:40:35  #市場
+
+EXAIL股價漲幅擴大至20%，創2025年2月以來最大漲幅。
+
+---
+
+### 2026-06-26 19:40:22  #其他
+
+主辦方表示：原定於週六舉行的比利時滑鐵盧戰役重演活動因熱浪已取消。
+
+---
+
+### 2026-06-26 19:40:02  #公司
+
+【景旺電子：H股發行獲中國證監會備案，擬發行不超過1.26億股】景旺電子公告，公司正在申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市。公司於近日收到中國證監會出具的《關於深圳市景旺電子股份有限公司境外發行上市備案通知書》（國合函〔2026〕1475號），主要內容包括：公司擬發行不超過1.26億股境外上市普通股並在香港聯合交易所上市；自備案通知書出具之日起至本次境外發行上市結束前，公司如發生重大事項應透過中國證監會備案管理系統報告；公司完成境外發行上市後15個工作日內應報告發行上市情況；公司自備案通知書出具之日起12個月內未完成境外發行上市，擬繼續推進的應更新備案材料。備案通知書僅對備案資訊予以確認，本次發行尚需取得香港相關監管機構批准。
+
+---
+
+### 2026-06-26 19:39:33  #公司
+
+【思林傑：持股5%以上股東減持0.5%股份】思林傑公告稱，2026年6月26日，持股5%以上股東橫琴啟創天瑞投資企業（有限合夥）透過集中競價方式，減持公司無限售流通股333,039股，佔公司總股本的0.50%，持股比例由7.20%降至6.70%。此次減持是履行此前披露的減持計劃，尚未實施完畢，不會導致公司控股股東及實際控制人變化，也不影響公司治理結構及持續經營。
+
+---
+
+### 2026-06-26 19:37:35  #公司 #市場
+
+【精測電子：股價異常波動 實控人減持可轉債14.8萬張】精測電子公告稱，公司股票2026年6月24日至26日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無需更正補充，近期經營及環境無重大變化，不存在應披露未披露重大事項。控股股東、實際控制人彭騫在異常波動期間減持“精測轉2”可轉債14.8萬張，無減持公司股票情況，也不存在資訊披露違規情形。
+
+---
+
+### 2026-06-26 19:37:22  #公司 #市場 #國際
+
+【韓國股市怎麼了？大起大落的一週讓韓國AI股行情亂了陣腳】韓國股市在短短一週內從狂熱迅速轉向焦慮，這場劇烈震盪暴露出AI行情究竟有多脆弱。韓國Kospi指數週一一度突破9000點，創下歷史新高；次日暴跌10%，隨後兩個交易日收復大部分失地；但週五再次遭遇大規模拋售，並觸發熔斷機制。如此劇烈的波動表明，圍繞全球人工智慧投資熱潮的樂觀情緒，正迅速讓位於市場對這輪漲勢能否持續的質疑。自2000年以來，韓國交易所僅啟動過11次熔斷，其中兩次就發生在本週。投資者對AI相關訊息變得異常敏感。三星電子和SK海力士股價週五盤中一度均跌逾10%，交易員一邊消化兩家公司龐大的資本投資計劃，一邊評估蘋果提高產品售價，以及有關OpenAI可能推遲首次公開募股(IPO)的報道所帶來的影響。 隨著外國投資者持續拋售韓國股票，韓國散戶則逢低買入，淨買入超過50億美元Kospi股票，僅略低於本週早些時候的紀錄買入規模。這種資金流向進一步放大了市場波動：大量依賴保證金交易的散戶以及不斷增長的槓桿ETF，都會在市場波動時釋放出更大規模的買賣盤。
+
+---
+
+### 2026-06-26 19:36:40  #國際
+
+俄羅斯通報與烏克蘭完成 160 人換俘，雙方各釋放 160 名戰俘。
+
+---
+
+### 2026-06-26 19:36:11  #公司
+
+【湖南裕能：寧德時代6月26日減持210.50萬股 持股降至6.85%】湖南裕能公告稱，寧德時代於2026年6月26日透過集中競價方式累計減持公司股份210.5032萬股，佔總股本的0.2496%，合計持有公司股份佔現有總股本的比例由7.0963%下降至6.8467%。寧德時代非公司第一大股東或實際控制人，本次權益變動不涉及資金來源。
 
 ---
 
@@ -16459,257 +16657,5 @@ WTI原油日內漲1%，現報71.05美元/桶。
 ### 2026-06-25 23:04:38  #MKT News
 
 UK Maritime Trade Operations (UKMTO) said it received reports of an incident 7.5 nautical miles southeast of Amandashit.
-
----
-
-### 2026-06-25 23:04:22  #其他
-
-英國海事組織收到報告稱，在阿曼達希特島東南7.5海里處發生一起事故。
-
----
-
-### 2026-06-25 23:04:11  #市場 #焦點
-
-WTI原油突破71美元/桶，日內漲0.94%。
-
----
-
-### 2026-06-25 23:04:07  #央行 #國際
-
-國際貨幣基金組織：關於伊朗戰爭影響的主要擔憂集中在那些財政緩衝或石油儲備有限的淨能源進口國，特別是非洲國家。歡迎美聯儲主席沃什對實現價格穩定的堅定承諾。我們並未參與委內瑞拉宣佈的債務重組過程。正在密切關注委內瑞拉的局勢，並與委內瑞拉當局保持溝通，以評估地震後的需求。
-
----
-
-### 2026-06-25 23:03:53  #MKT News
-
-Hungary's prime minister magyar said the government will discuss preliminary 2026 budget figures this weekend.
-
----
-
-### 2026-06-25 23:03:42  #MKT News
-
-IMF says it remains confident Argentina will continue repaying the Fund despite a staff report warning of specific risks to repayment capacity.
-
----
-
-### 2026-06-25 23:03:28  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #XAUUSD #Impact bearish
-
-IMF says US economic momentum remains strong; Q1 growth exceeded initial expectations.
-
----
-
-### 2026-06-25 23:03:14  #MKT News
-
-IMF says it remains in contact with Venezuelan authorities, is monitoring the macroeconomic outlook and stands ready to assist with debt restructuring if needed.
-
----
-
-### 2026-06-25 23:03:12  #其他
-
-國際貨幣基金組織（IMF）：全球通脹預期保持穩定，金融環境維持寬鬆。
-
----
-
-### 2026-06-25 23:03:09  #央行 #其他
-
-巴西央行行長：貨幣政策未有任何形式的改變。
-
----
-
-### 2026-06-25 23:02:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper
-
-The International Monetary Fund said that since the US and Iran reached an agreement, Gulf-origin energy, fertilizer and base metal prices have declined, but full normalization will take time.
-
----
-
-### 2026-06-25 23:02:46  #MKT News
-
-IMF says India's economic momentum is 'quite strong' and it remains a growth engine for the global economy.
-
----
-
-### 2026-06-25 23:02:44  #央行 #其他
-
-巴西央行行長：我們的溝通問題可能在於試圖解釋得太多，而非缺乏透明度。
-
----
-
-### 2026-06-25 23:02:37  #MKT News
-
-IMF says global inf expectations remain stable and financial conditions are accommodative.
-
----
-
-### 2026-06-25 23:02:33  #焦點 #國際
-
-國際貨幣基金組織：將於7月8日釋出《世界經濟展望》的更新版本，屆時將決定是繼續採用三種情景，還是迴歸傳統的基線預測。
-
----
-
-### 2026-06-25 23:02:28  #MKT News #Important #DXY #Impact mixed #S&P500 #US10Y
-
-IMF will publish an updated World Economic Outlook on July 8 and decide whether to continue using a three-scenario framework or revert to a traditional baseline forecast.
-
----
-
-### 2026-06-25 23:02:21  #央行 #國際
-
-國際貨幣基金組織：美聯儲在進一步的政策行動上必須謹慎行事。
-
----
-
-### 2026-06-25 23:01:59  #MKT News
-
-IMF is closely monitoring the situation in Venezuela and is in contact with Venezuelan authorities to assess post-earthquake needs.
-
----
-
-### 2026-06-25 23:01:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-IMF said the Fed's decision last week to hold interest rates unchanged was appropriate.
-
----
-
-### 2026-06-25 23:01:37  #MKT News #Important
-
-By 23:00 local close, China's domestic front-month commodity futures were mixed. Decliners: 20# rubber down over 3%, rubber down nearly 2%, iron ore and coke down more than 1%, soda ash down nearly 1%. Advancers: propylene up nearly 3%, low-sulfur fuel oil (LU) and LPG up more than 2%, polypropylene up nearly 2%, Soybean No.1, fuel oil and palm oil up more than 1%.
-
----
-
-### 2026-06-25 23:01:27  #MKT News
-
-IMF said it did not participate in the debt restructuring announced by Venezuela.
-
----
-
-### 2026-06-25 23:01:26  #其他
-
-匈牙利總理：政府將於本週末討論2026年預算的初步資料。
-
----
-
-### 2026-06-25 23:01:18  #央行 #其他
-
-巴西央行行長：外界對我們政策宣告中的新內容缺乏理解，存在一些混淆，這些新內容本意是在有限篇幅內對諸多事宜進行闡釋。
-
----
-
-### 2026-06-25 23:01:15  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-IMF welcomes Federal Reserve Chair Kevin Warsh's firm commitment to achieving price stability.
-
----
-
-### 2026-06-25 23:01:13  #MKT News
-
-IMF says the main concern about the impact of the Iran war is concentrated among net energy‑importing countries with limited fiscal buffers or oil reserves, particularly in Africa.
-
----
-
-### 2026-06-25 23:00:52  #觀點 #國際
-
-摩根大通透過“美國夢計劃”加碼社群銀行業務，擴大可負擔金融服務准入與金融健康普及教育。
-
----
-
-### 2026-06-25 23:00:45  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-U.S. Kansas City Fed manufacturing production index (June) 19, prior 9.
-
----
-
-### 2026-06-25 23:00:37  #MKT News #Economic Calendar #Important
-
-United States | Kansas Fed Manufacturing Production Index (Jun) | actual 19 | previous 9
-
----
-
-### 2026-06-25 23:00:35  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-US June Kansas City Fed manufacturing composite index 11, prior 8.
-
----
-
-### 2026-06-25 23:00:32  #央行 #國際
-
-美國6月堪薩斯聯儲製造業綜合指數 11，前值8。
-
----
-
-### 2026-06-25 23:00:27  #MKT News #Economic Calendar #Important
-
-United States | Kansas Fed Manufacturing Index (Jun) | actual 11 | previous 8
-
----
-
-### 2026-06-25 23:00:02  #市場
-
-【夜盤期貨收盤】20號膠連續跌3.36%，低硫燃料油連續漲2.68%，液化石油氣連續漲2.00%，聚丙烯連續漲1.93%，天然橡膠連續跌1.89%。
-
----
-
-### 2026-06-25 23:00:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 0.46% — Top currency gainers are Brazilian Real (0.46%), Swedish Krona (0.33%), Swiss Franc (0.28%), British Pound (0.27%), Euro (0.16%) and Japanese Yen (0.10%). Biggest loser is Dollar Index (-0.22%).
-
----
-
-### 2026-06-25 22:58:25  #其他
-
-【四川7月1日起調整居民階梯電價】近日，四川省發展改革委印發《關於調整我省居民階梯電價政策有關事項的通知》，明確自7月1日起正式調整居民階梯電價政策。  政策調整後，夏季（7-9月）居民月階梯電量分檔標準顯著提高：第一檔電量由原180度上調至260度，覆蓋0-260度區間；第二檔電量調整為261-460度，較原181-280度區間大幅擴容；第三檔電量仍為460度以上。其餘月份（1-6月、10-12月）階梯電量分檔維持原標準，即第一檔0-180度、第二檔181-280度、第三檔280度以上。階梯電價標準保持不變，第一檔、第二檔、第三檔電價仍分別為0.5224元/度、0.6224元/度、0.8224元/度。
-
----
-
-### 2026-06-25 22:57:59  #MKT News
-
-Hungarian Prime Minister Magyar said the government has not yet discussed a phased removal of price caps, but the measure is worth considering.
-
----
-
-### 2026-06-25 22:57:10  #其他
-
-匈牙利總理：但這一舉措或許值得考慮。
-
----
-
-### 2026-06-25 22:56:41  #其他
-
-匈牙利總理：政府尚未討論分階段取消價格上限的相關事宜。
-
----
-
-### 2026-06-25 22:56:23  #國際
-
-墨西哥總統：美國農業部長將於週六為墨西哥一座不育果蠅工廠揭幕，以開展螺旋蠅防治工作。
-
----
-
-### 2026-06-25 22:56:00  #MKT News #WTI #Impact bearish #Brent
-
-【Strait of Hormuz transit recovers to about 57% of pre-conflict levels】S&P Global said on the 25th that 78 vessels transited the Strait of Hormuz on the 24th, the highest daily count since the Iran conflict began. The month's daily average transit rate has recovered to roughly 57% of pre-conflict levels; cumulative transits reached 551 as of the 24th and the month is on track to be the busiest since the conflict began. Departing vessels include ships long idled by the conflict as well as recent entrants, signaling early normalization of shipping activity, though continuation depends on consolidation and implementation of related agreements.
-
----
-
-### 2026-06-25 22:55:50  #公司 #國際
-
-【霍爾木茲海峽通航量恢復至戰事前近六成水平】標普全球能源公司25日釋出報告說，24日共有78艘船舶透過霍爾木茲海峽，創下伊朗戰事爆發以來單日最高通航紀錄。本月霍爾木茲海峽的船舶日均通航量已恢復至衝突前水平的約57%。報告說，截至24日，本月累計有551艘船舶透過霍爾木茲海峽，有望成為戰事爆發以來通航量最高的月份。報告指出，近期駛離霍爾木茲海峽的船舶不僅包括因衝突而長期滯留的船舶，也包括近期進入的船舶，反映出航運活動初步正常化跡象。不過，海峽通航量回升態勢能否持續仍有待觀察，相關協議仍需進一步鞏固和落實。（新華社）
-
----
-
-### 2026-06-25 22:55:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran proposes fees for Strait of Hormuz; potential annual revenue $40 bln】According to officials, Iran is proposing security, protection and environmental service fees for passage through the Strait of Hormuz that could generate about $40 bln a year for participating states if implemented. Officials say the plan would give Tehran cash flow and control it did not previously possess and is modelled on international precedents including the Dardanelles, where Turkey levies a transit charge known as the "gold franc." Iran is pitching the proposal to Gulf neighbours and other countries and seeks to include them in a revenue-sharing arrangement. Parliament speaker Ghalibaf visited Oman on Tuesday to discuss the proposal, saying management of the strait will not revert to the previous status quo.
-
----
-
-### 2026-06-25 22:55:33  #國際
-
-【伊朗擬對霍爾木茲收費 相關年收入或達400億美元】據知情官員透露，伊朗估計，對霍爾木茲海峽的安全、安保和環境服務收費，每年將為相關國家帶來400億美元的收入。如果這一想法得以實施，將為德黑蘭帶來戰前所不具備的現金流和控制權。這些官員表示，伊朗政權正在借鑑世界各地的模式，包括達達尼爾海峽。在達達尼爾海峽，土耳其對往返愛琴海的船隻徵收一種名為“金法郎”的稅，用於支付透過該國際水道的通行費。據伊朗官員稱，為了獲得支援，德黑蘭正在向更廣泛的中東地區乃至更遠的國家推介這一想法。他們表示，伊朗希望其波斯灣鄰國也能加入該協議，並分享收入。伊朗議會議長卡利巴夫週二訪問阿曼，與鄰國討論擬議安排時表示，每個人都需要明白，海峽的管理方式永遠不會再回到以前那樣了。
-
----
-
-### 2026-06-25 22:54:51  #其他
-
-【Adobe 宣佈收購 Topaz Labs 強化 AI 影片與影象佈局，交易預計 2026 年下半年完成】Adobe 今日宣佈已與 AI 影象及影片增強工具開發商 Topaz Labs 達成最終收購協議。交易預計在 2026 年下半年完成，尚需獲得監管部門批准並滿足其他慣例成交條件。Adobe 近年來在創意工具領域面臨著來自 Canva 以及 DaVinci Resolve 開發商 Blackmagic Design 的激烈競爭。透過將 Topaz Labs 納入麾下，Adobe 旨在進一步鞏固其創意軟體生態，防止使用者流向其他影片編輯與增強軟體。
 
 ---

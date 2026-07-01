@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-02 06:38:35_
-_本檔包含 2807 則快訊，約 529782 字_
+_更新時間：2026-07-02 07:10:35_
+_本檔包含 2817 則快訊，約 530135 字_
+
+---
+
+### 2026-06-25 23:04:22  #其他
+
+英國海事組織收到報告稱，在阿曼達希特島東南7.5海里處發生一起事故。
+
+---
+
+### 2026-06-25 23:04:11  #市場 #焦點
+
+WTI原油突破71美元/桶，日內漲0.94%。
+
+---
+
+### 2026-06-25 23:04:07  #央行 #國際
+
+國際貨幣基金組織：關於伊朗戰爭影響的主要擔憂集中在那些財政緩衝或石油儲備有限的淨能源進口國，特別是非洲國家。歡迎美聯儲主席沃什對實現價格穩定的堅定承諾。我們並未參與委內瑞拉宣佈的債務重組過程。正在密切關注委內瑞拉的局勢，並與委內瑞拉當局保持溝通，以評估地震後的需求。
+
+---
+
+### 2026-06-25 23:03:53  #MKT News
+
+Hungary's prime minister magyar said the government will discuss preliminary 2026 budget figures this weekend.
+
+---
+
+### 2026-06-25 23:03:42  #MKT News
+
+IMF says it remains confident Argentina will continue repaying the Fund despite a staff report warning of specific risks to repayment capacity.
+
+---
+
+### 2026-06-25 23:03:28  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #XAUUSD #Impact bearish
+
+IMF says US economic momentum remains strong; Q1 growth exceeded initial expectations.
+
+---
+
+### 2026-06-25 23:03:14  #MKT News
+
+IMF says it remains in contact with Venezuelan authorities, is monitoring the macroeconomic outlook and stands ready to assist with debt restructuring if needed.
+
+---
+
+### 2026-06-25 23:03:12  #其他
+
+國際貨幣基金組織（IMF）：全球通脹預期保持穩定，金融環境維持寬鬆。
+
+---
+
+### 2026-06-25 23:03:09  #央行 #其他
+
+巴西央行行長：貨幣政策未有任何形式的改變。
+
+---
+
+### 2026-06-25 23:02:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper
+
+The International Monetary Fund said that since the US and Iran reached an agreement, Gulf-origin energy, fertilizer and base metal prices have declined, but full normalization will take time.
+
+---
+
+### 2026-06-25 23:02:46  #MKT News
+
+IMF says India's economic momentum is 'quite strong' and it remains a growth engine for the global economy.
+
+---
+
+### 2026-06-25 23:02:44  #央行 #其他
+
+巴西央行行長：我們的溝通問題可能在於試圖解釋得太多，而非缺乏透明度。
+
+---
+
+### 2026-06-25 23:02:37  #MKT News
+
+IMF says global inf expectations remain stable and financial conditions are accommodative.
+
+---
+
+### 2026-06-25 23:02:33  #焦點 #國際
+
+國際貨幣基金組織：將於7月8日釋出《世界經濟展望》的更新版本，屆時將決定是繼續採用三種情景，還是迴歸傳統的基線預測。
+
+---
+
+### 2026-06-25 23:02:28  #MKT News #Important #DXY #Impact mixed #S&P500 #US10Y
+
+IMF will publish an updated World Economic Outlook on July 8 and decide whether to continue using a three-scenario framework or revert to a traditional baseline forecast.
+
+---
+
+### 2026-06-25 23:02:21  #央行 #國際
+
+國際貨幣基金組織：美聯儲在進一步的政策行動上必須謹慎行事。
+
+---
+
+### 2026-06-25 23:01:59  #MKT News
+
+IMF is closely monitoring the situation in Venezuela and is in contact with Venezuelan authorities to assess post-earthquake needs.
+
+---
+
+### 2026-06-25 23:01:52  #MKT News #Macro & Rates #The Fed (FOMC)
+
+IMF said the Fed's decision last week to hold interest rates unchanged was appropriate.
+
+---
+
+### 2026-06-25 23:01:37  #MKT News #Important
+
+By 23:00 local close, China's domestic front-month commodity futures were mixed. Decliners: 20# rubber down over 3%, rubber down nearly 2%, iron ore and coke down more than 1%, soda ash down nearly 1%. Advancers: propylene up nearly 3%, low-sulfur fuel oil (LU) and LPG up more than 2%, polypropylene up nearly 2%, Soybean No.1, fuel oil and palm oil up more than 1%.
+
+---
+
+### 2026-06-25 23:01:27  #MKT News
+
+IMF said it did not participate in the debt restructuring announced by Venezuela.
+
+---
+
+### 2026-06-25 23:01:26  #其他
+
+匈牙利總理：政府將於本週末討論2026年預算的初步資料。
+
+---
+
+### 2026-06-25 23:01:18  #央行 #其他
+
+巴西央行行長：外界對我們政策宣告中的新內容缺乏理解，存在一些混淆，這些新內容本意是在有限篇幅內對諸多事宜進行闡釋。
+
+---
+
+### 2026-06-25 23:01:15  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
+
+IMF welcomes Federal Reserve Chair Kevin Warsh's firm commitment to achieving price stability.
+
+---
+
+### 2026-06-25 23:01:13  #MKT News
+
+IMF says the main concern about the impact of the Iran war is concentrated among net energy‑importing countries with limited fiscal buffers or oil reserves, particularly in Africa.
+
+---
+
+### 2026-06-25 23:00:52  #觀點 #國際
+
+摩根大通透過“美國夢計劃”加碼社群銀行業務，擴大可負擔金融服務准入與金融健康普及教育。
+
+---
+
+### 2026-06-25 23:00:45  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
+
+U.S. Kansas City Fed manufacturing production index (June) 19, prior 9.
+
+---
+
+### 2026-06-25 23:00:37  #MKT News #Economic Calendar #Important
+
+United States | Kansas Fed Manufacturing Production Index (Jun) | actual 19 | previous 9
+
+---
+
+### 2026-06-25 23:00:35  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+US June Kansas City Fed manufacturing composite index 11, prior 8.
+
+---
+
+### 2026-06-25 23:00:32  #央行 #國際
+
+美國6月堪薩斯聯儲製造業綜合指數 11，前值8。
+
+---
+
+### 2026-06-25 23:00:27  #MKT News #Economic Calendar #Important
+
+United States | Kansas Fed Manufacturing Index (Jun) | actual 11 | previous 8
+
+---
+
+### 2026-06-25 23:00:02  #市場
+
+【夜盤期貨收盤】20號膠連續跌3.36%，低硫燃料油連續漲2.68%，液化石油氣連續漲2.00%，聚丙烯連續漲1.93%，天然橡膠連續跌1.89%。
+
+---
+
+### 2026-06-25 23:00:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.46% — Top currency gainers are Brazilian Real (0.46%), Swedish Krona (0.33%), Swiss Franc (0.28%), British Pound (0.27%), Euro (0.16%) and Japanese Yen (0.10%). Biggest loser is Dollar Index (-0.22%).
+
+---
+
+### 2026-06-25 22:58:25  #其他
+
+【四川7月1日起調整居民階梯電價】近日，四川省發展改革委印發《關於調整我省居民階梯電價政策有關事項的通知》，明確自7月1日起正式調整居民階梯電價政策。  政策調整後，夏季（7-9月）居民月階梯電量分檔標準顯著提高：第一檔電量由原180度上調至260度，覆蓋0-260度區間；第二檔電量調整為261-460度，較原181-280度區間大幅擴容；第三檔電量仍為460度以上。其餘月份（1-6月、10-12月）階梯電量分檔維持原標準，即第一檔0-180度、第二檔181-280度、第三檔280度以上。階梯電價標準保持不變，第一檔、第二檔、第三檔電價仍分別為0.5224元/度、0.6224元/度、0.8224元/度。
+
+---
+
+### 2026-06-25 22:57:59  #MKT News
+
+Hungarian Prime Minister Magyar said the government has not yet discussed a phased removal of price caps, but the measure is worth considering.
+
+---
+
+### 2026-06-25 22:57:10  #其他
+
+匈牙利總理：但這一舉措或許值得考慮。
+
+---
+
+### 2026-06-25 22:56:41  #其他
+
+匈牙利總理：政府尚未討論分階段取消價格上限的相關事宜。
+
+---
+
+### 2026-06-25 22:56:23  #國際
+
+墨西哥總統：美國農業部長將於週六為墨西哥一座不育果蠅工廠揭幕，以開展螺旋蠅防治工作。
+
+---
+
+### 2026-06-25 22:56:00  #MKT News #WTI #Impact bearish #Brent
+
+【Strait of Hormuz transit recovers to about 57% of pre-conflict levels】S&P Global said on the 25th that 78 vessels transited the Strait of Hormuz on the 24th, the highest daily count since the Iran conflict began. The month's daily average transit rate has recovered to roughly 57% of pre-conflict levels; cumulative transits reached 551 as of the 24th and the month is on track to be the busiest since the conflict began. Departing vessels include ships long idled by the conflict as well as recent entrants, signaling early normalization of shipping activity, though continuation depends on consolidation and implementation of related agreements.
+
+---
+
+### 2026-06-25 22:55:50  #公司 #國際
+
+【霍爾木茲海峽通航量恢復至戰事前近六成水平】標普全球能源公司25日釋出報告說，24日共有78艘船舶透過霍爾木茲海峽，創下伊朗戰事爆發以來單日最高通航紀錄。本月霍爾木茲海峽的船舶日均通航量已恢復至衝突前水平的約57%。報告說，截至24日，本月累計有551艘船舶透過霍爾木茲海峽，有望成為戰事爆發以來通航量最高的月份。報告指出，近期駛離霍爾木茲海峽的船舶不僅包括因衝突而長期滯留的船舶，也包括近期進入的船舶，反映出航運活動初步正常化跡象。不過，海峽通航量回升態勢能否持續仍有待觀察，相關協議仍需進一步鞏固和落實。（新華社）
+
+---
+
+### 2026-06-25 22:55:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran proposes fees for Strait of Hormuz; potential annual revenue $40 bln】According to officials, Iran is proposing security, protection and environmental service fees for passage through the Strait of Hormuz that could generate about $40 bln a year for participating states if implemented. Officials say the plan would give Tehran cash flow and control it did not previously possess and is modelled on international precedents including the Dardanelles, where Turkey levies a transit charge known as the "gold franc." Iran is pitching the proposal to Gulf neighbours and other countries and seeks to include them in a revenue-sharing arrangement. Parliament speaker Ghalibaf visited Oman on Tuesday to discuss the proposal, saying management of the strait will not revert to the previous status quo.
+
+---
+
+### 2026-06-25 22:55:33  #國際
+
+【伊朗擬對霍爾木茲收費 相關年收入或達400億美元】據知情官員透露，伊朗估計，對霍爾木茲海峽的安全、安保和環境服務收費，每年將為相關國家帶來400億美元的收入。如果這一想法得以實施，將為德黑蘭帶來戰前所不具備的現金流和控制權。這些官員表示，伊朗政權正在借鑑世界各地的模式，包括達達尼爾海峽。在達達尼爾海峽，土耳其對往返愛琴海的船隻徵收一種名為“金法郎”的稅，用於支付透過該國際水道的通行費。據伊朗官員稱，為了獲得支援，德黑蘭正在向更廣泛的中東地區乃至更遠的國家推介這一想法。他們表示，伊朗希望其波斯灣鄰國也能加入該協議，並分享收入。伊朗議會議長卡利巴夫週二訪問阿曼，與鄰國討論擬議安排時表示，每個人都需要明白，海峽的管理方式永遠不會再回到以前那樣了。
+
+---
+
+### 2026-06-25 22:54:51  #其他
+
+【Adobe 宣佈收購 Topaz Labs 強化 AI 影片與影象佈局，交易預計 2026 年下半年完成】Adobe 今日宣佈已與 AI 影象及影片增強工具開發商 Topaz Labs 達成最終收購協議。交易預計在 2026 年下半年完成，尚需獲得監管部門批准並滿足其他慣例成交條件。Adobe 近年來在創意工具領域面臨著來自 Canva 以及 DaVinci Resolve 開發商 Blackmagic Design 的激烈競爭。透過將 Topaz Labs 納入麾下，Adobe 旨在進一步鞏固其創意軟體生態，防止使用者流向其他影片編輯與增強軟體。
 
 ---
 
@@ -16697,212 +16949,5 @@ U.S. tsunami warning system says earthquake in Venezuela no longer poses a tsuna
 ### 2026-06-25 07:10:53  #其他
 
 國際貨幣基金組織批准向茅利塔尼亞提供9580萬美元融資安排。
-
----
-
-### 2026-06-25 07:10:05  #國際
-
-【委內瑞拉強震後多處建築受損】據中國地震臺網正式測定，今天（6月25日）6時4分在委內瑞拉發生7.1級地震，震源深度10公里，震中位於北緯10.35度，西經68.35度。首都加拉加斯震感強烈。根據社交媒體釋出的影片來看，委內瑞拉首都加拉加斯有建築倒塌和損壞。加拉加斯附近的玻利瓦爾國際機場內部也出現設施受損的情況。目前，官方傷亡和損失統計尚未釋出。美國海嘯預警系統在地震後釋出海嘯威脅警報。（CCTV國際時訊 ）
-
----
-
-### 2026-06-25 07:09:46  #其他
-
-【美光高管：人形機器人的儲存容量是L2+汽車的十倍】在當地時間6月24日的2026財年第三季度業績交流會上，美光科技高管表示，人形機器人的儲存容量大約是L2+自動駕駛車輛的10倍，預計從這個10年（截至2030年）的後半部分開始，相關市場將開啟大規模、長達數十年的記憶體需求週期。
-
----
-
-### 2026-06-25 07:09:25  #宏觀 #公司
-
-【央企“科改”“雙百”2025年度考核放榜，上市公司表現亮眼】近日，國務院國資委公佈中央企業“科改示範行動”“雙百行動”2025年度改革專項考核結果，評級分為標杆、優良、合格、不合格四個等級。作為國企改革深化提升行動高質量收官之年的關鍵“大考”，本次考核備受關注。從已公佈的情況來看，中國能建、中國西電、中鋁集團等多家央企取得歷史最佳成績，一批央企控股上市公司以“標杆”評級脫穎而出，改革紅利加速向資本市場傳導。（上證報）
-
----
-
-### 2026-06-25 07:08:56  #其他
-
-【OpenAI釋出首款AI晶片】當地時間6月24日，OpenAI與博通聯合釋出首款定製晶片Jalapeño。這是一款專用積體電路（ASIC），專為大模型推理設計，從設計到流片僅用9個月時間。合作方中，OpenAI負責架構設計，博通負責流片、網路硬體，加拿大電子製造商Celestica提供板卡/機架整合配套。該晶片透過最佳化資料流動，提升推理效率並降低能耗。晶片工程樣片已完成實驗室驗證，計劃2026年底規模化落地，配套千兆瓦級資料中心叢集。
-
----
-
-### 2026-06-25 07:08:48  #公司 #市場
-
-【美光高管：無法確定儲存供應何時能趕上增長的需求】當地時間6月24日，在美光科技2026財年第三季度業績交流會上，美光高管表示，公司預計行業供應將在2028年逐步改善，但目前無法確定儲存供應何時能趕上不斷增長的需求。當日美光科技跌0.37%，盤後漲超15%。
-
----
-
-### 2026-06-25 07:07:21  #國際
-
-【委內瑞拉發生7.1級地震 引發海嘯預警】委內瑞拉當地時間週三晚間發生大地震，加拉加斯建築倒塌，部分手機訊號和電力線路中斷，加勒比海地區拉響海嘯警報。美國地質調查局稱，此次地震震級為7.1級，震中位於卡拉沃沃省蒙塔爾班西北約45公里（28英里）處。這是該國歷史上最嚴重的地震之一。加拉加斯餘震不斷，驚恐的市民滯留街頭。委內瑞拉當局和官方媒體尚未通報人員傷亡情況。海嘯預警中心表示，海嘯可能襲擊委內瑞拉海岸。太平洋海嘯預警中心在電郵宣告中稱，震中300公里內的海岸都可能遭受危險海嘯襲擊。報告稱，博內爾島、委內瑞拉、庫拉索島和阿魯巴島的沿海地區都可能出現海嘯。
-
----
-
-### 2026-06-25 07:05:35  #公司 #市場
-
-三星電子首爾盤前在NexTrade漲7.8%，SK海力士漲6.7%。
-
----
-
-### 2026-06-25 07:05:09  #國際
-
-據中國地震臺網正式測定，2026年06月25日06時30分（北京時間），日本本州東部附近海域海域（40.20°N,142.40°E）發生6.9級地震，震源深度為50千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
-
----
-
-### 2026-06-25 07:04:40  #國際
-
-日本東北電力：女川核電站及停運的東通核電站均未發現異常。
-
----
-
-### 2026-06-25 07:03:42  #其他
-
-委內瑞拉內政部長透過國家電視臺表示，地震已造成加拉加斯多棟建築倒塌。
-
----
-
-### 2026-06-25 07:02:32  #市場
-
-紐約期銀日內跌1%，現報57.92美元/盎司。
-
----
-
-### 2026-06-25 07:02:29  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、李強出席2026年夏季達沃斯論壇工商界代表座談會
-2、在第十七屆夏季達沃斯論壇開幕式上的致辭（二〇二六年六月二十四日，大連）
-3、2026年夏季達沃斯論壇上各界熱議“中國機遇”——創新賦能 開放共贏
-4、涉企檢查當“減量不降效”（縱橫）
-5、鏈博會上，科技創新氛圍濃
-6、就微短劇發展管理辦法 廣電總局公開徵求意見
-7、免籤政策釋放紅利 民心紐帶持續拉緊 中巴旅遊合作展現充沛動能
-8、加大政策支援力度 中孟合作走深走實 孟加拉國加快發展可再生能源
-9、菲律賓經濟面臨滯脹風險 腐敗醜聞打擊投資者信心 低收入群體生活壓力加大
-10、從暑期消費看文旅市場新活力（商海觀潮）。
-
----
-
-### 2026-06-25 07:02:19  #宏觀 #焦點 #兩會
-
-今天《人民日報》頭版的主要內容有：
-1、習近平在山東德州考察時強調 以紮實舉措推進農業農村現代化 用勤勞和智慧創造更加美好生活
-2、湖南韶山市把紅色資源轉化為發展動能——紅色熱土鋪展新畫卷（牢記初心使命 奮進復興征程）
-3、李強出席2026年夏季達沃斯論壇開幕式並致辭
-4、趙樂際同全國人大常委會會議列席代表座談時強調 深入學習貫徹習近平法治思想 在法治宣傳教育中積極發揮代表作用
-5、全國政協十四屆常委會第十七次會議閉幕 王滬寧主持並講話。
-
----
-
-### 2026-06-25 07:01:00  #央行 #美聯儲
-
-【美聯儲公佈壓力測試結果：32家大型銀行具備充足抵禦能力】據報道，美聯儲最新壓力測試顯示，32家大型銀行具備充足抵禦能力，即便遭遇嚴重經濟衰退仍可持續開展放貸業務。接受測試的銀行在假設情景下能夠承受超過7000億美元的損失，資本僅下降1.6%，仍然高於最低監管要求。
-
----
-
-### 2026-06-25 07:00:57  #市場
-
-英國汽車製造商與經銷商協會（SMMT）：5 月英國汽車總產量上漲 2.7%，達 51178 輛。
-
----
-
-### 2026-06-25 07:00:45  #其他
-
-英國汽車製造商與經銷商協會（SMMT）：5 月英國乘用車產量增長 3.2%，達 49249 輛；商用車產量下降 7.6%，至 1929 輛。
-
----
-
-### 2026-06-25 07:00:26  #公司
-
-【黃仁勳股東大會放言：本輪AI基建週期長達數十年】在當地時間6月24日的英偉達2026年度股東大會上，股東批准了該公司全部10名董事會成員提名。英偉達CEO黃仁勳在股東大會上還進行了發言，強調“有用的AI時代”已經到來，並釋放了對AI基礎設施建設將繼續的信心。就AI基礎設施建設的可持續性，黃仁勳則表示，算力越多，token越多，收入也就越多。這輪建設將以數十年為單位來衡量，涉及電網、網際網路等關鍵基礎設施建設。相信這將成為人類歷史上規模最大的基礎設施建設。
-
----
-
-### 2026-06-25 06:54:12  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Higher in Morning Trade — The NZX 50 climbed 25 points, or 0.2%, to 13,426 in Thursday morning trade, erasing losses from the previous three sessions, tracking a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Federal Reserve's monetary policy decision at its upcoming meeting, after it left interest rates unchanged last week. Consumer staples, energy, communication services, and utilities primarily drove the index, with notable gains from A2 Milk (4.2%), Scott Technology (2.4%), Channel Infrastructure (0.9%), Ebos Group (0.8%), and ANZ Group (0.4%).
-
----
-
-### 2026-06-25 06:53:59  #市場 #焦點
-
-紐約期金失守4010美元/盎司，日內漲0.05%。
-
----
-
-### 2026-06-25 06:52:45  #其他
-
-海嘯預警中心稱巨浪可能襲擊委內瑞拉海岸。
-
----
-
-### 2026-06-25 06:52:21  #國際
-
-【俄稱控制一定居點 烏稱打擊俄能源設施】24日，俄羅斯國防部發布戰報稱，俄軍控制了蘇梅地區伊沃爾詹斯科耶居民點。俄軍各部隊叢集在蘇梅、哈爾科夫、頓涅茨克、第聶伯羅彼得羅夫斯克、扎波羅熱方向多地打擊烏軍。俄軍還對烏軍特種作戰部隊無人系統中心、烏燃料能源和交通基礎設施等目標實施打擊。烏克蘭武裝部隊總參謀部24日稱，當天凌晨，烏國防軍對俄羅斯奧倫堡州一座天然氣精煉廠和一座氦氣廠實施打擊。烏方稱，此次行動地點距烏方前線超過1200公里，兩座工廠已起火，受損情況正在核實中。此外，烏軍還打擊了俄羅斯別爾哥羅德州一處無人機倉庫。（央視新聞）
-
----
-
-### 2026-06-25 06:49:59  #國際
-
-美國海嘯預警系統：本次日本地震未觸發海嘯預警、提示、觀測警報及海嘯風險警報。
-
----
-
-### 2026-06-25 06:49:00  #國際
-
-【國際原子能機構要求核查伊朗核設施】國際原子能機構總幹事格羅西24日在日本表示，對於伊朗核相關設施的核查“必須進行”，具體地點和時間仍在研究之中，希望能儘快實施核查。 (央視新聞)
-
----
-
-### 2026-06-25 06:47:15  #公司 #國際
-
-【阿里巴巴證實：已起訴美國防部】多家外媒23日報道稱，阿里巴巴起訴美國國防部，要求將其從“中國軍事企業名單”中移除。24日，阿里巴巴向《環球時報》記者證實了上述訊息。阿里巴巴在宣告中表示：“我們已正式對美國國防部提起訴訟，要求將公司從‘中國軍事企業名單’中移除。”阿里巴巴強調，公司並非中國軍工企業，亦未參與任何“軍民融合”戰略。將阿里巴巴列入名單的決定毫無事實依據，武斷且反覆無常。
-
----
-
-### 2026-06-25 06:46:56  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-【Alibaba confirms lawsuit against Pentagon over US 'Chinese military companies' list】Alibaba confirmed it has filed suit against the Pentagon seeking removal from the US list of Chinese military companies. The company said it is not a Chinese defense contractor, has not participated in military-civil fusion, and called the designation baseless, arbitrary and inconsistent.
-
----
-
-### 2026-06-25 06:45:37  #市場 #央行 #國際
-
-【對沖基金持續加大美國國債敞口 美聯儲稱基差交易是主要推手】美聯儲表示，對沖基金對美國國債敞口不斷增加，主要是由於現貨-期貨基差交易的復甦。由首席經濟學家Phillip Monin撰寫的報告表示，截至去年9月，這種高槓杆交易已在對沖基金所持美國國債多頭頭寸中佔8300億美元，約為2020年初上一峰值的兩倍。其在對沖基金國債多頭總敞口中佔比35%。在對沖基金的美債多頭頭寸中，互換利差和期限匹配交易等套利策略佔據主導地位。報告稱，基差交易涉及做空國債期貨合約，同時做多以回購融資方式購買的、可交割到期貨的國債。
-
----
-
-### 2026-06-25 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 3.05% — Top crypto losers are Ether (-3.05%), Bitcoin (-2.93%) and Binance (-2.38%).
-
----
-
-### 2026-06-25 06:41:27  #MKT News
-
-NHK reported that no tsunami warning was issued after an earthquake in Japan.
-
----
-
-### 2026-06-25 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 7.21% — Top commodity gainers are Cocoa (7.21%) and Coffee (0.62%). Biggest losers are Oat (-6.37%) and Cotton (-3.23%).
-
----
-
-### 2026-06-25 06:39:34  #MKT News #USDJPY #Impact bearish #XAUUSD #Impact bullish #Nikkei 225
-
-【6.9-magnitude quake offshore Iwate Prefecture】Around 07:30 Tokyo time on the 25th, a magnitude-6.9 earthquake struck offshore Iwate Prefecture; the Japan Meteorological Agency reported a maximum seismic intensity of JMA 6-upper. Strong shaking was felt in Tokyo.
-
----
-
-### 2026-06-25 06:39:33  #公司
-
-【A股公司年度“紅包”派發進行時，“雙創”板塊成現金分紅硬核力量】截至6月23日（按派息日計），今年已有2379家上市公司實施了2025年年度現金分紅，合計派發現金紅利7087.55億元。其中，工商銀行以601.97億元的分紅金額居首，中國移動、農業銀行、中國平安緊隨其後，分紅金額均超過300億元。從行業分佈來看，除銀行、證券等金融板塊外，通訊、電力裝置、醫藥生物、電子等行業已發放的分紅金額位居前列。值得注意的是，一批來自創業板、科創板的硬核科技企業正步入業績收穫期，並以持續高分紅回饋耐心陪跑的投資者。（上證報）
-
----
-
-### 2026-06-25 06:39:20  #國際
-
-【日本巖手縣近海發生6.9級地震】東京時間25日早上7時30分左右，巖手縣近海發生里氏6.9級地震，最大震感為震度6強。日本首都東京有明顯震感。（央視新聞）
 
 ---
