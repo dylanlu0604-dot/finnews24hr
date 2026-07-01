@@ -1,7 +1,118 @@
 {
   "date": "2026-07-01",
-  "count": 1849,
+  "count": 1861,
   "items": [
+    {
+      "id": "mkt:019f1cc8-fd81-7aab-8c50-48acda1162dc",
+      "time": "2026-07-01 16:26:01",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "XAUUSD"
+      ],
+      "text": "France will hold the first round of its presidential election on April 18."
+    },
+    {
+      "id": "4964600",
+      "time": "2026-07-01 16:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳創視訊：上海凌穹崑崙科技合夥企業透過協議轉讓受讓佳創視訊5.0017%股份】佳創視訊公告，資訊披露義務人上海凌穹崑崙科技合夥企業於2026年6月26日與佳創視訊控股股東、實際控制人陳坤江及股東隋湘、羅偉分別簽署《股份轉讓協議》，約定以7.33元/股的價格受讓上述轉讓方合計持有的佳創視訊2155萬股股份，佔佳創視訊總股本的5.0017%。"
+    },
+    {
+      "id": "te:markets:563360",
+      "time": "2026-07-01 16:25:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Methanol Hits 15-week Low — Methanol decreased to 2382.00 CNY/T, the lowest since March 2026. Over the past 4 weeks, Methanol lost 19.9%, and in the last 12 months, it increased 1.37%."
+    },
+    {
+      "id": "4964599",
+      "time": "2026-07-01 16:25:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【先正達集團任命覃衡德為執行長】7月1日，先正達集團宣佈，其董事會已任命覃衡德為執行長，自2026年8月1日起生效。覃衡德目前擔任營運長兼種子業務負責人，將接任Jeff Rowe的職務。Jeff Rowe將在8月1日前繼續擔任現職，隨後將在為公司服務近10年後返回美國。覃衡德將常駐公司位於瑞士巴塞爾的總部，他自2023年1月起便常駐該地。自2020年起，他便擔任先正達集團管理團隊成員，曾在業務、財務、人力資源及全球運營等領域擔任高階職務。任職期間，他曾擔任先正達集團首席財務官、首席人力資源官以及先正達集團中國總裁。"
+    },
+    {
+      "id": "4964597",
+      "time": "2026-07-01 16:24:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國將於4月18日舉行總統選舉第一輪投票。"
+    },
+    {
+      "id": "4964596",
+      "time": "2026-07-01 16:24:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守69美元/桶，日內跌0.72%。"
+    },
+    {
+      "id": "4964595",
+      "time": "2026-07-01 16:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極狐汽車2026年6月銷量25646臺】極狐汽車公佈2026年6月銷量資料。6月，極狐汽車銷量25646臺，同比增長219.3%，重新整理品牌單月銷量紀錄。今年上半年，極狐汽車累計交付80581臺，同比增長65.88%。（極狐汽車）"
+    },
+    {
+      "id": "mkt:019f1cc7-0d85-7aab-8c50-4247f213b2d1",
+      "time": "2026-07-01 16:23:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Arcfox Auto June 2026 sales 25,646 units】Arcfox Auto reported June 2026 deliveries of 25,646 units, up 219.3% YoY and a record for the brand's single-month deliveries. 1H deliveries totaled 80,581 units, up 65.88% YoY."
+    },
+    {
+      "id": "4964594",
+      "time": "2026-07-01 16:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇國泰：持股5%以上股東及其一致行動人增持並計劃再增持3000萬元】江蘇國泰公告稱，持股5%以上股東盛泰投資於2026年6月30日增持281萬股，佔總股本0.17%。增持後，盛泰投資及其一致行動人合計持股195,622,463股，佔總股本12.02%。盛泰投資計劃自7月2日起6個月內，以集中競價方式繼續增持不低於3000萬元，資金源於自有資金。本次增持計劃可能因市場、政策等因素延遲或無法全部實施。"
+    },
+    {
+      "id": "4964593",
+      "time": "2026-07-01 16:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯化科技：2025年度權益分派方案，每10股派2元現金】聯化科技公告稱，公司2025年度權益分派方案已獲2026年5月25日股東會審議透過。以現有總股本899,873,217股為基數，向全體股東每10股派2元現金（含稅），不送紅股、不轉增股本。股權登記日為2026年7月8日，除權除息日為7月9日。委託中國結算深圳分公司代派的A股股東現金紅利，將於7月9日劃入股東資金賬戶。"
+    },
+    {
+      "id": "te:economy:563358",
+      "time": "2026-07-01 16:23:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Factory Growth Revised Up: PMI — The S&P Global Germany Manufacturing PMI was revised higher to 50.3 in June 2026 from a preliminary of 50, pointing to small growth in factory activity, compared to 50.1 in the previous month. There was a modest rise in output that was supported by a slight uptick in demand, while goods producers were a little more optimistic about the outlook. In addition, reports of delays and cost pressures both eased from the recent highs but firms continued to face substantial disruption across supply chains and a steep rate of input price inflation, both principally linked to the fallout from the war in the Middle East. \"On the whole, it was a slightly more positive set of results for the German manufacturing sector in June than we saw the month before\", according to Phil Smith, Economics Associate Director at S&P Global Market Intelligence ."
+    },
+    {
+      "id": "4964592",
+      "time": "2026-07-01 16:22:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洋河股份：選舉陳軍為副董事長兼總裁 同意捐贈390萬元】洋河股份公告稱，公司第八屆董事會第二十一次會議審議透過多項議案。選舉陳軍為公司第八屆董事會副董事長，聘任其為公司總裁，董事長顧宇不再兼任總裁。會議還同意增設酒體設計中心，以及捐贈390萬元用於“貴州貴酒·夢想計劃”公益專案。陳軍歷任多職，未持有公司股份，無關聯關係，無違規違法情況。"
+    },
     {
       "id": "4964591",
       "time": "2026-07-01 16:22:07",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 16:23:17",
+  "updated": "2026-07-01 16:27:18",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -8306,8 +8306,8 @@
               "importance": 2,
               "previous": "51.3",
               "forecast": "51.3",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "51.4",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173575",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -33667,8 +33667,8 @@
       "importance": 2,
       "previous": "51.3",
       "forecast": "51.3",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "51.4",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173575",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
