@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-01 23:19:43",
-  "count": 14271,
+  "updated": "2026-07-01 23:23:37",
+  "count": 14262,
   "items": [
+    {
+      "id": "mkt:019f1e45-30db-7aab-8c61-c9e60205b5c8",
+      "time": "2026-07-01 23:21:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Democratic Sen. Elizabeth Warren said legislation is needed to prevent Trump from obtaining further crypto-related profits."
+    },
+    {
+      "id": "4965726",
+      "time": "2026-07-01 23:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫：需要立法來防止特朗普從加密貨幣中進一步獲利。"
+    },
+    {
+      "id": "mkt:019f1e44-c6bb-7aab-8c61-c0a922c567b5",
+      "time": "2026-07-01 23:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Examiner reports Director of National Intelligence Clayton confirmed a hearing is tentatively scheduled for July 15."
+    },
+    {
+      "id": "te:economy:563505",
+      "time": "2026-07-01 23:20:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing PMI at 2024-Highs — The S&P Global Mexico Manufacturing PMI rose to 51.3 in June 2026 from 49.6 in May, marking the strongest reading since March 2024 and signaling improvement in operating conditions. Order book volumes expanded at the fastest pace in 27 months, supported by the FIFA World Cup, while new export orders rose at the end of the second quarter. Production declined marginally due to cash flow issues, input shortages, and technical stoppages. Input inventories fell for a ninth consecutive month as supplier delivery delays persisted, driven by blockades, highway insecurity, material shortages, customs issues, and the conflict in the Middle East. Meanwhile, buying activity rebounded, reflecting stronger demand and inventory building. On the labor market, manufactures singaled another job shedding. Meanwhile, cost pressures eased.Looking ahead, manufacturers remained optimistic, with business confidence rising to a three-month high."
+    },
+    {
+      "id": "4965725",
+      "time": "2026-07-01 23:19:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：克萊頓國家情報總監聽證會暫定 7 月 15 日舉行。"
+    },
     {
       "id": "4965724",
       "time": "2026-07-01 23:17:25",
@@ -131497,139 +131542,6 @@
         "MKT News"
       ],
       "text": "ECB Executive Board member Schnabel said that, given current conditions, further rate hikes are needed to reach the ECB's 2% inflation target."
-    },
-    {
-      "id": "4953127",
-      "time": "2026-06-24 23:23:11",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行管委施納貝爾：歐洲央行當前利率尚未達到緊縮水平。"
-    },
-    {
-      "id": "mkt:019efa3a-6427-7dd8-b0fe-33e284c50ae3",
-      "time": "2026-06-24 23:23:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Meteo-France: Paris recorded its highest June temperature on record; Paris-Longchamp station measured 40.9°C."
-    },
-    {
-      "id": "4953126",
-      "time": "2026-06-24 23:23:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委施納貝爾：通脹第二輪傳導效應風險持續攀升。"
-    },
-    {
-      "id": "4953125",
-      "time": "2026-06-24 23:22:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委施納貝爾：即便達成停火，歐洲央行也不能放鬆警惕。"
-    },
-    {
-      "id": "4953124",
-      "time": "2026-06-24 23:22:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報52188.051點；納指漲0.77%，現報25783.791點；標普500指數漲0.75%，現報7420.490點。"
-    },
-    {
-      "id": "te:markets:561602",
-      "time": "2026-06-24 23:22:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Home Depot Stock Price Hits 9-week High — Home Depot shares increased to 341.20 USD, the highest since April 2026. Over the past 4 weeks, Home Depot gained 9.73%, and in the last 12 months, it decreased 5.83%."
-    },
-    {
-      "id": "4953123",
-      "time": "2026-06-24 23:22:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委施納貝爾：戰爭、通脹與經濟增長情況將決定加息的時點與幅度。"
-    },
-    {
-      "id": "4953122",
-      "time": "2026-06-24 23:22:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委施納貝爾：當前形勢下，仍需進一步加息以實現2%通脹目標。"
-    },
-    {
-      "id": "mkt:019efa39-41ff-7dd8-b0fe-2da9387ea836",
-      "time": "2026-06-24 23:21:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "US equities extended gains; the Dow Jones Industrial Average rose 1%."
-    },
-    {
-      "id": "4953121",
-      "time": "2026-06-24 23:21:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國氣象局：巴黎創六月史上最高溫，巴黎隆尚賽馬場測得40.9攝氏度。"
-    },
-    {
-      "id": "4953120",
-      "time": "2026-06-24 23:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨表示，美國並未要求以色列從黎巴嫩南部撤軍，這是伊朗在停火談判中提出的條件。"
-    },
-    {
-      "id": "mkt:019efa37-9f6f-7dd8-b0fe-27ba003b9e0d",
-      "time": "2026-06-24 23:20:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Saudi news outlet Hadas reports Israeli drones flying at low altitude over Beirut."
-    },
-    {
-      "id": "mkt:019efa37-6784-7dd8-b0fe-1f031de79073",
-      "time": "2026-06-24 23:19:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "LME aluminium down 4.00% intraday, trading at $3,124.92/ton."
-    },
-    {
-      "id": "4953119",
-      "time": "2026-06-24 23:19:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫鋁日內大跌4.00%，現報3124.92美元/噸。"
     }
   ]
 }

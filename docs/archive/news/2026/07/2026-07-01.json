@@ -1,7 +1,52 @@
 {
   "date": "2026-07-01",
-  "count": 3628,
+  "count": 3633,
   "items": [
+    {
+      "id": "mkt:019f1e45-30db-7aab-8c61-c9e60205b5c8",
+      "time": "2026-07-01 23:21:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Democratic Sen. Elizabeth Warren said legislation is needed to prevent Trump from obtaining further crypto-related profits."
+    },
+    {
+      "id": "4965726",
+      "time": "2026-07-01 23:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫：需要立法來防止特朗普從加密貨幣中進一步獲利。"
+    },
+    {
+      "id": "mkt:019f1e44-c6bb-7aab-8c61-c0a922c567b5",
+      "time": "2026-07-01 23:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Examiner reports Director of National Intelligence Clayton confirmed a hearing is tentatively scheduled for July 15."
+    },
+    {
+      "id": "te:economy:563505",
+      "time": "2026-07-01 23:20:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing PMI at 2024-Highs — The S&P Global Mexico Manufacturing PMI rose to 51.3 in June 2026 from 49.6 in May, marking the strongest reading since March 2024 and signaling improvement in operating conditions. Order book volumes expanded at the fastest pace in 27 months, supported by the FIFA World Cup, while new export orders rose at the end of the second quarter. Production declined marginally due to cash flow issues, input shortages, and technical stoppages. Input inventories fell for a ninth consecutive month as supplier delivery delays persisted, driven by blockades, highway insecurity, material shortages, customs issues, and the conflict in the Middle East. Meanwhile, buying activity rebounded, reflecting stronger demand and inventory building. On the labor market, manufactures singaled another job shedding. Meanwhile, cost pressures eased.Looking ahead, manufacturers remained optimistic, with business confidence rising to a three-month high."
+    },
+    {
+      "id": "4965725",
+      "time": "2026-07-01 23:19:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：克萊頓國家情報總監聽證會暫定 7 月 15 日舉行。"
+    },
     {
       "id": "4965724",
       "time": "2026-07-01 23:17:25",
