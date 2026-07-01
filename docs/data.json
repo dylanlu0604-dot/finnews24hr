@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-01 11:06:25",
-  "count": 13952,
+  "updated": "2026-07-01 11:10:12",
+  "count": 13959,
   "items": [
+    {
+      "id": "mkt:019f1ba6-e594-7aab-8c4a-037446708316",
+      "time": "2026-07-01 11:09:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) 2608 weakened intraday, extending losses to 9.05% and sliding to 2,581.5 points, with turnover about 1.75 bln yuan. Open interest rose roughly 2,800 contracts intraday and market volatility increased."
+    },
+    {
+      "id": "te:markets:563223",
+      "time": "2026-07-01 11:08:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Rises on USDA Data — Corn futures rose above $4.1 per bushel, climbing off from a nearly nine-month low reached on June 29 after the USDA projected tighter stockpiles and acreage. In its quarterly report, the USDA estimated June 1 corn stocks at 5.295 billion bushels, below analysts' expectations, while its annual acreage report pegged planted area at 95.343 million acres, above trade forecasts but down from 2025 and still the fourth largest since 1944. Additionally, markets continued to monitor hot weather across the US Midwest, which is expected to stress corn crops before easing later this week. Meanwhile, the dollar continued to rise as strong US economic data reinforced expectations that the Federal Reserve will raise interest rates this year, making commodities more expensive for foreign buyers. Elsewhere, investors also awaited updates from the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement."
+    },
+    {
+      "id": "mkt:019f1ba6-3945-7aab-8c49-fa9883df39e7",
+      "time": "2026-07-01 11:08:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen June residential transactions highest since 2021】Shenzhen Centaline Research Center reported June residential transactions at 8,878 units, down 11.9% MoM but up 14.2% YoY, the highest June volume since 2021. New-home net-signings (presale + current-sale) totaled 3,785 units (-16.7% MoM, +15.6% YoY); resales recorded 5,093 transfers (-8.0% MoM, +13.1% YoY)."
+    },
+    {
+      "id": "4964119",
+      "time": "2026-07-01 11:08:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報8871.00點。"
+    },
+    {
+      "id": "mkt:019f1ba5-fa12-7aab-8c49-f7ff648d4007",
+      "time": "2026-07-01 11:08:09",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Wedbush initiates coverage of SpaceX (SPCX.O) with Outperform rating and $190 PT."
+    },
+    {
+      "id": "4964118",
+      "time": "2026-07-01 11:08:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌9%，現報2582.00點。"
+    },
+    {
+      "id": "mkt:019f1ba5-4f6a-7aab-8c49-eb4bb2a10884",
+      "time": "2026-07-01 11:07:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Baowu Taigang Steel Technology completes trial production of T1100S carbon fiber】China Baowu Taigang Steel Technology Co. said it completed a single-run trial production of T1100S-grade ultra-high-strength carbon fiber, with key performance metrics described as domestic-leading and internationally advanced. Carbon fiber is a strategic material for aerospace and high-end equipment manufacturing; T1100S is a top-tier, high-modulus ultra-high-strength grade with high technical barriers and has been a long-standing focus of domestic new-material R&D."
+    },
+    {
+      "id": "4964117",
+      "time": "2026-07-01 11:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑汽車：6月全球交付93376臺 同比增長95%】零跑汽車公佈6月交付資料：全球交付93376臺，同比增長95%，上半年累計交付達356487臺。"
+    },
+    {
+      "id": "mkt:019f1ba4-75d4-7aab-8c49-e0575500aa17",
+      "time": "2026-07-01 11:06:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09863.HK",
+        "Impact bullish"
+      ],
+      "text": "Leapmotor (09863.HK) June deliveries 93,376 units, up 95% YoY."
+    },
+    {
+      "id": "4964116",
+      "time": "2026-07-01 11:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功】據中國寶武訊息，近日，中國寶武太鋼鋼科公司T1100S級超高強碳纖維一次性試製成功，各項關鍵效能指標優異，達到國內領先、國際先進水平。碳纖維是支撐航空航天、高階裝備製造的關鍵戰略材料，從飛機結構件到火箭殼體，輕量化材料的突破直接決定裝備效能的天花板。而T1100S則是行業頂尖的高模量超高強碳纖維，技術壁壘極高，長期是國內新材料攻關的重點方向。"
+    },
+    {
+      "id": "4964115",
+      "time": "2026-07-01 11:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國自研的世界首套水下焊接原位中子衍射研究裝置投入使用】我國自主研發的、世界首套水下焊接原位中子衍射研究裝置7月1日在中國散裂中子源工程材料譜儀上投入使用，並順利完成首次水下焊接過程原位觀測實驗。這標誌著我國在水下焊接過程中的微觀結構實時觀測與核心焊接機理揭示方面取得重大突破，可為大型水下結構物水下焊接技術的自主可控及焊接質量提升提供科學支撐。"
+    },
     {
       "id": "4964114",
       "time": "2026-07-01 11:05:31",
@@ -128210,46 +128315,6 @@
         "其他"
       ],
       "text": "【剛果（金）埃博拉疫情病例增加 社群傳播有所加劇】剛果（金）衛生部23日釋出的埃博拉疫情報告顯示，該國累計確診病例升至1094例。根據剛果（金）衛生部報告，387名患者處於隔離或住院治療狀態，累計治癒115例，死亡277例。另有疑似病例131例，已死亡的疑似病例44例。報告說，確診病例逐周增加，表明社群傳播仍在持續並有所加劇。"
-    },
-    {
-      "id": "mkt:019ef79b-13b3-7dd8-b0ea-23dc1add21f7",
-      "time": "2026-06-24 11:09:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【US media: Treasury secretary reportedly called commerce secretary 'idiot' amid dispute over Ukraine minerals pact】The Hill reports Treasury Secretary Scott Bessent called Commerce Secretary Howard Lutnick \"an idiot\" during a dispute over preparations for a rare-earth metals transaction under the US-Ukraine natural resources agreement signed April 30, 2025. Lutnick accused Bessent of \"sabotaging\" the deal; Bessent reportedly called Lutnick's proposal \"a shit deal.\" The agreement gives the US priority purchase rights on minerals extracted in Ukraine and establishes a 50/50 joint investment fund to jointly manage and finance development."
-    },
-    {
-      "id": "4951626",
-      "time": "2026-06-24 11:09:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦批民進黨當局窮兵黷武：“臺獨”是絕路 外人靠不住】6月24日，國務院臺辦舉行例行新聞釋出會。有記者問：賴清德近日稱“不會放棄提高防務支出”，並稱將另提“特別條例”或透過追加預算等方式確保防務裝備採購等順利推進。請問對此有何評論？發言人張晗表示，民進黨當局為一黨政治私利，妄圖“以武謀獨”，不斷揮霍臺灣老百姓的血汗錢窮兵黷武，企圖把臺灣民眾綁上“臺獨”戰車，只會把臺灣推入更加危險的境地。“臺獨”是絕路，外人靠不住。我們有堅定意志、堅強決心、強大能力，粉碎一切“臺獨”分裂圖謀，維護國家主權和領土完整。（央視新聞）"
-    },
-    {
-      "id": "4951625",
-      "time": "2026-06-24 11:09:05",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【軟銀孫正義放棄60多歲退休計劃，還會再幹10到15年】軟銀集團CEO孫正義週三表示，計劃繼續擔任自己創立的科技集團的最高職位十年或更久，這推翻了他長期以來宣稱將在六十多歲時交出領導權的計劃。這位68歲的科技投資者表示，他現在渴望幫助加速人工智慧的普及，並將軟銀打造成為世界領先的人工智慧機器人公司。“我還沒時間退休，”他說道，並提及軟銀正在追求他認為具有根本性的長期技術。孫正義補充說，他已經修改了自己原先的50年計劃，還會再工作10到15年。"
-    },
-    {
-      "id": "mkt:019ef799-035a-7dd8-b0ea-1da69a270d43",
-      "time": "2026-06-24 11:07:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "ARM.O",
-        "Impact bullish"
-      ],
-      "text": "【Son says SoftBank-owned Arm to enter chip manufacturing, sees >10x growth】SoftBank chairman Masayoshi Son told shareholders UK chip design firm Arm (ARM.O) will evolve from a designer into a chip provider and that he will personally take part in its manufacturing. He predicted the AI era will be CPU-centric and said Arm still has more than 10x growth potential. Son added SoftBank’s roughly JPY300 billion investment in Intel, once controversial, has generated market-value gains amounting to tens of trillions of yen."
     }
   ]
 }
