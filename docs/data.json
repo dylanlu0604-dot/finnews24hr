@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-02 08:56:11",
-  "count": 14046,
+  "updated": "2026-07-02 09:00:33",
+  "count": 14036,
   "items": [
+    {
+      "id": "4966134",
+      "time": "2026-07-02 08:58:27",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部選定道富、貝萊德和先鋒基金作為特朗普賬戶投資標的】美國財政部週三公佈了特朗普賬戶的投資產品名單，其中包括道富(State Street)、貝萊德(BlackRock)和先鋒集團(Vanguard)旗下的交易所交易基金(ETF)。美國財政部表示，存入特朗普賬戶的所有資金都將投資於道富SPDR組合標普500指數ETF（SPYM），該基金將在計劃啟動階段作為預設投資選項。財政部還選定了貝萊德旗下iShares Core標普500指數ETF（IVV）和iShares Core標普美國整體股市ETF（ITOT）、道富SPDR組合標普1500綜合股市ETF（SPTM）以及先鋒全股市指數ETF（VTI）。"
+    },
+    {
+      "id": "mkt:019f2055-11ba-7aab-8c68-49691090c686",
+      "time": "2026-07-02 08:57:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS",
+        "MU.O"
+      ],
+      "text": "【South Korean stocks plunge over 6% as AI compute oversupply fears hit chipmakers】South Korean equities tumbled after Meta’s plan to sell computing capacity raised concerns of AI compute oversupply. The KOSPI fell more than 6%, sliding as much as nearly 7% in early trade on Thursday and briefly triggering a trading halt. SK hynix dropped about 9% and Samsung Electronics fell over 7%. Overnight U.S. peers Micron (MU.O) and SanDisk (SNDK.O) each fell more than 10%. The moves may intensify investor doubts about the sustainability of the chip rally driven by booming AI infrastructure demand; Korea’s major suppliers occupy a central position in that supply chain."
+    },
+    {
+      "id": "4966133",
+      "time": "2026-07-02 08:57:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度的Meta競爭對手ShareChat計劃明年IPO 融資4億美元】印度運營社交網路ShareChat、短影片平臺Moj以及訂閱制微劇應用QuickTV的Mohalla Tech Pvt.公司，正計劃於明年在公開市場進行上市，尋求最高達4億美元的資金。 該公司通常被稱為ShareChat，其首席財務官Manohar Charan本週在接受採訪時表示，自2026年4月起運營的第一個季度以來，公司已實現盈利。“我們的單位經濟現在已轉為正向，”他說道，“我們將在未來四到五個季度內完成上市。” 此次IPO計劃尚未最終確定，可能會有所調整。"
+    },
+    {
+      "id": "4966132",
+      "time": "2026-07-02 08:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雷曼光電與南方科技大學奈米科學與應用研究院達成戰略合作】據雷曼光電訊息，7月1日，雷曼光電與南方科技大學奈米科學與應用研究院簽署《產學研戰略合作框架協議》。雙方約定將致力於構建產學研深度融合的創新體系，力爭在TGV玻璃基Micro LED、量子點顯示、基於Micro LED的CPO光通訊等領域實現技術突破，提升自主創新能力與產業核心競爭力。雙方同時還商定將定期徵集並確定聯合研發課題，共同投入研發人員、實驗平臺及相關資源，推動技術成果的中試與產業化落地。"
+    },
+    {
+      "id": "4966131",
+      "time": "2026-07-02 08:55:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融捷股份：南沙正極材料專案尚未投產】就“公司的磷酸鐵鋰正極材料是否已經量產”問題，融捷股份(002192)7月2日在互動平臺回覆稱，公司南沙正極材料專案目前尚未投產。"
+    },
     {
       "id": "4966130",
       "time": "2026-07-02 08:54:53",
@@ -129296,141 +129346,6 @@
         "Impact bearish"
       ],
       "text": "Shanghai Gold Exchange Gold T+D fell 2.03% to 874.52 yuan/gram in early trade on June 25 (Thu); Silver T+D dropped 5.9% to 13,950 yuan/kg."
-    },
-    {
-      "id": "mkt:019efc4a-df89-7dd8-b107-58de2d166f7d",
-      "time": "2026-06-25 09:00:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened 0.1% higher."
-    },
-    {
-      "id": "4953736",
-      "time": "2026-06-25 09:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌5%，現報12085.00元。"
-    },
-    {
-      "id": "mkt:019efc4a-cb83-7dd8-b107-5095ef7b4652",
-      "time": "2026-06-25 09:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "At the morning open, China’s main domestic futures were mixed: Shanghai silver futures fell over 6%; 20# rubber dropped more than 5%; bottle-grade PET chip and PTA declined nearly 5%; synthetic rubber, p-xylene, rubber and propylene fell over 4%. On the upside, coke rose over 1% and caustic soda gained about 1%."
-    },
-    {
-      "id": "4953735",
-      "time": "2026-06-25 09:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.1%至46,553.33點。"
-    },
-    {
-      "id": "4953734",
-      "time": "2026-06-25 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.6%報46,339.68。"
-    },
-    {
-      "id": "4953733",
-      "time": "2026-06-25 09:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌5%，現報5454.00元。"
-    },
-    {
-      "id": "4953732",
-      "time": "2026-06-25 09:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海軍事活動】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月26日0時至28日24時，渤海部分海域開展軍事活動，禁止駛入。"
-    },
-    {
-      "id": "4953731",
-      "time": "2026-06-25 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌4%，現報12155.00元。"
-    },
-    {
-      "id": "4953730",
-      "time": "2026-06-25 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌4%，現報5464.00元。"
-    },
-    {
-      "id": "4953729",
-      "time": "2026-06-25 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌6%，現報13960.00元。"
-    },
-    {
-      "id": "4953728",
-      "time": "2026-06-25 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.03%。"
-    },
-    {
-      "id": "4953727",
-      "time": "2026-06-25 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】白銀連續跌6.18%，20號膠連續跌5.56%，PTA連續跌4.74%，瓶片連續跌4.59%，丁二烯橡膠連續跌4.44%。"
-    },
-    {
-      "id": "4953726",
-      "time": "2026-06-25 08:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海博思創與GOLDBECK SOLAR簽署1GWh儲能框架協議】據海博思創訊息，歐洲智慧能源展（The smarter E Europe）首日，海博思創與德國可再生能源EPC領軍企業GOLDBECK SOLAR正式簽署框架協議。雙方將在電池儲能系統領域展開深度合作，合作規模高達1GWh，雙方關係從單一專案合作升級為長期戰略伙伴關係。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606253782095091",
-      "time": "2026-06-25 08:57:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美國5月PCE前瞻：通脹壓力料升級 美聯儲何時按下加息鍵】當地時間週四（25日），美國經濟統計局（BEA）將公佈5月PCE通脹報告。這是美聯儲最重視的通脹指標之一，也將成為短線市場判斷美聯儲政策路徑的關鍵資料。對於投資者來說，關注點在於資料能否改變美聯儲最新偏鷹表態後的利率預期。"
-    },
-    {
-      "id": "4953725",
-      "time": "2026-06-25 08:56:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【常鋁股份：電容器鋁箔當前生產銷售數量較小 營收佔比顯著輕微】常鋁股份(002160)今日在互動平臺表示，公司目前從事新能源電池集流體鋁箔、軟包鋁箔以及電容器鋁箔（陰極箔）的研發、生產及銷售，其中電容器鋁箔當前生產銷售數量較小，佔公司整體營收比例顯著輕微。"
     }
   ]
 }
