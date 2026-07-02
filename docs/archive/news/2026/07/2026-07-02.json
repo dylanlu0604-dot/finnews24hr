@@ -1,7 +1,75 @@
 {
   "date": "2026-07-02",
-  "count": 997,
+  "count": 1004,
   "items": [
+    {
+      "id": "mkt:019f20d7-e750-7aab-8c6b-1a54499553a9",
+      "time": "2026-07-02 11:20:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple plans at least five new iPhone models, raises foldable output targets amid memory shortage】Nikkei sources say Apple plans an ambitious iPhone slate across H2 this year and H1 2027, comprising at least five new models and raising foldable-phone production above prior expectations. Apple has asked suppliers to prepare roughly 10m foldable iPhones this year, up from earlier forecasts of about 7–8m, and has booked about 80m smartphone parts and components; sources say some new models are slated for H2 2026, including iPhone Pro, Pro Max and the first foldable iPhone. Including existing and upcoming models, Apple expects 2026 full-year iPhone output to well exceed 220m units and retains stronger bargaining power than most rivals in memory and key-component procurement."
+    },
+    {
+      "id": "4966454",
+      "time": "2026-07-02 11:20:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果擬於今明兩年推出至少五款新iPhone 摺疊屏出貨量超預期】據報道，蘋果公司正計劃在今年下半年至2027年上半年期間，發起一項雄心勃勃的iPhone新品釋出計劃，預計將推出至少五款新機型。儘管目前整個科技行業正面臨供應鏈零部件短缺的困境，但蘋果仍決定加大摺疊屏手機的出貨量，超出市場此前預期。知情人士表示，蘋果已要求供應商今年準備約1000萬部摺疊屏iPhone的產量，高於此前幾個月約700萬至800萬部的預測。該公司已預訂約8000萬部智慧手機相關零部件與元件，這些新機型將在2026年下半年推出，其中包括iPhone Pro、iPhone Pro Max以及首款摺疊屏iPhone。知情人士表示，相較多數競爭對手，蘋果在記憶體及關鍵零部件採購方面具備更強議價能力，包括現有和即將推出的 iPhone 機型在內，蘋果2026年全年iPhone總產量預計將遠超2.2億部。"
+    },
+    {
+      "id": "mkt:019f20d6-a89e-7aab-8c6b-13814a47fead",
+      "time": "2026-07-02 11:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The mayor of Kyiv said Russian attacks on the city have raised the death toll to five and injured 34 people."
+    },
+    {
+      "id": "4966453",
+      "time": "2026-07-02 11:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市長表示，俄羅斯襲擊基輔造成的死亡人數已升至5人，另有34人受傷。"
+    },
+    {
+      "id": "4966452",
+      "time": "2026-07-02 11:19:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.01%，成分股中，三協電機漲9.77%，錦華新材漲9.15%，萬達軸承漲6.66%，華密新材漲6.22%。"
+    },
+    {
+      "id": "4966451",
+      "time": "2026-07-02 11:19:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東方A午前拉昇翻紅，早盤一度觸及跌停價。"
+    },
+    {
+      "id": "mkt:019f20d6-4720-7aab-8c6b-0ebb563ecf8c",
+      "time": "2026-07-02 11:19:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000725.SZ",
+        "Impact bullish"
+      ],
+      "text": "BOE A-shares rallied into positive territory before noon after earlier in the session hitting the intraday limit-down."
+    },
     {
       "id": "4966450",
       "time": "2026-07-02 11:16:30",

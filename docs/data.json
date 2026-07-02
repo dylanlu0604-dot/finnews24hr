@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-02 11:18:09",
-  "count": 14008,
+  "updated": "2026-07-02 11:22:04",
+  "count": 14009,
   "items": [
+    {
+      "id": "mkt:019f20d7-e750-7aab-8c6b-1a54499553a9",
+      "time": "2026-07-02 11:20:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple plans at least five new iPhone models, raises foldable output targets amid memory shortage】Nikkei sources say Apple plans an ambitious iPhone slate across H2 this year and H1 2027, comprising at least five new models and raising foldable-phone production above prior expectations. Apple has asked suppliers to prepare roughly 10m foldable iPhones this year, up from earlier forecasts of about 7–8m, and has booked about 80m smartphone parts and components; sources say some new models are slated for H2 2026, including iPhone Pro, Pro Max and the first foldable iPhone. Including existing and upcoming models, Apple expects 2026 full-year iPhone output to well exceed 220m units and retains stronger bargaining power than most rivals in memory and key-component procurement."
+    },
+    {
+      "id": "4966454",
+      "time": "2026-07-02 11:20:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果擬於今明兩年推出至少五款新iPhone 摺疊屏出貨量超預期】據報道，蘋果公司正計劃在今年下半年至2027年上半年期間，發起一項雄心勃勃的iPhone新品釋出計劃，預計將推出至少五款新機型。儘管目前整個科技行業正面臨供應鏈零部件短缺的困境，但蘋果仍決定加大摺疊屏手機的出貨量，超出市場此前預期。知情人士表示，蘋果已要求供應商今年準備約1000萬部摺疊屏iPhone的產量，高於此前幾個月約700萬至800萬部的預測。該公司已預訂約8000萬部智慧手機相關零部件與元件，這些新機型將在2026年下半年推出，其中包括iPhone Pro、iPhone Pro Max以及首款摺疊屏iPhone。知情人士表示，相較多數競爭對手，蘋果在記憶體及關鍵零部件採購方面具備更強議價能力，包括現有和即將推出的 iPhone 機型在內，蘋果2026年全年iPhone總產量預計將遠超2.2億部。"
+    },
+    {
+      "id": "mkt:019f20d6-a89e-7aab-8c6b-13814a47fead",
+      "time": "2026-07-02 11:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The mayor of Kyiv said Russian attacks on the city have raised the death toll to five and injured 34 people."
+    },
+    {
+      "id": "4966453",
+      "time": "2026-07-02 11:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市長表示，俄羅斯襲擊基輔造成的死亡人數已升至5人，另有34人受傷。"
+    },
+    {
+      "id": "4966452",
+      "time": "2026-07-02 11:19:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.01%，成分股中，三協電機漲9.77%，錦華新材漲9.15%，萬達軸承漲6.66%，華密新材漲6.22%。"
+    },
+    {
+      "id": "4966451",
+      "time": "2026-07-02 11:19:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東方A午前拉昇翻紅，早盤一度觸及跌停價。"
+    },
+    {
+      "id": "mkt:019f20d6-4720-7aab-8c6b-0ebb563ecf8c",
+      "time": "2026-07-02 11:19:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000725.SZ",
+        "Impact bullish"
+      ],
+      "text": "BOE A-shares rallied into positive territory before noon after earlier in the session hitting the intraday limit-down."
+    },
     {
       "id": "4966450",
       "time": "2026-07-02 11:16:30",
@@ -128990,65 +129058,6 @@
         "國際"
       ],
       "text": "菲律賓股市指數上漲1%至6051.92點。"
-    },
-    {
-      "id": "mkt:019efcca-75e4-7dd8-b10b-74568cd8b12d",
-      "time": "2026-06-25 11:19:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【JP Morgan raises South Korea Kospi bull-case target to 15,000】JP Morgan raised its bull-case target for South Korea's Kospi index to 15,000 and lifted its base and bear targets to 12,500 and 8,000 respectively, implying roughly 77% upside from Wednesday's close of 8,471.02. The bank keeps its highest overweight on Korean equities and recommends buying on dips, citing a constructive view on AI, stronger earnings at related hardware names, and further room for retail inflows."
-    },
-    {
-      "id": "4954030",
-      "time": "2026-06-25 11:19:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國產品碳足跡管理體系建設和適應氣候變化進展相關報告發布】6月25日，生態環境部召開6月例行新聞釋出會，生態環境部新聞發言人裴曉菲表示，在今年“全國低碳日”活動現場，生態環境部發布了《產品碳足跡管理體系建設進展報告（2026）》和《中國適應氣候變化進展報告（2025）》。《產品碳足跡管理體系建設進展報告（2026）》系統梳理了2025年以來各部門工作進展及地方實踐。報告顯示，我國產品碳足跡核算標準體系日趨完善，印發《產品碳足跡因子資料庫建設工作指引》，產品碳足跡工作從核算走向應用。《中國適應氣候變化進展報告（2025）》顯示，全球氣候變暖趨勢仍在持續。我國區域性、階段性高溫熱浪頻發，降水極端性突出，對自然生態系統和經濟社會系統造成顯著影響。面對複雜嚴峻形勢，各地各部門有效防範應對，推動適應氣候變化重點工作取得實效。（生態環境部）"
-    },
-    {
-      "id": "4954029",
-      "time": "2026-06-25 11:19:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【生態環境部：五大攻堅行動集中解決“家門口”的突出水環境問題】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，未來，不僅要把大江大河、重要湖泊建成美麗河湖，還要努力把群眾身邊的小微水體建成一個個美麗水細胞，讓老百姓真切感受到河湖之美、生態之變。生態環境部水生態環境司司長 蔣火華：我們聚焦群眾反映的突出問題，會同國家發展改革委、工信部、住建部、水利部、農業農村部精準部署五大攻堅行動：工業園區水汙染整治、縣鄉黑臭水體治理、畜禽糞汙綜合治理、鄉村河湖庫管護、小微水體排查整治。集中力量解決老百姓“家門口”的突出水環境問題，推動群眾身邊水體實現三個基本目標：無異色、無異味、無異物。據介紹，生態環境部將強化源頭治理，緊盯工業、城鎮生活、農業農村三大汙染源，透過強化工業企業汙染防控、加強城鎮生活汙水收集處理、推動養殖業清潔生產、強化入河汙染物管控，從源頭推動生產生活方式綠色低碳轉型，從根本上著力解決水汙染問題。同時加強監測執法，把水質監測網路從大江大河向小微水體延伸，強化對製造、加工、修理等規模以下工業企業以及畜禽養殖場（戶）的現場執法監管，對群眾反覆投訴、久拖不決的水汙染難題推動納入生態環保督察，壓實各方責任，做到群眾身邊水體有人管、管得住、管得好。"
-    },
-    {
-      "id": "mkt:019efcc9-fb97-7dd8-b10b-6c48def19ccf",
-      "time": "2026-06-25 11:19:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "China's Sci‑Tech Innovation 50 Index rose over 4%, led by Xin Yuan Co., whose shares jumped more than 14%."
-    },
-    {
-      "id": "4954028",
-      "time": "2026-06-25 11:18:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4.00%，成分股中，芯原股份漲14.95%，佰維儲存漲11.53%，百利天恆漲11.10%，海光資訊漲8.46%。"
-    },
-    {
-      "id": "4954027",
-      "time": "2026-06-25 11:18:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪走強 芯原股份漲超10%創歷史新高】算力晶片概念震盪走強，芯原股份漲超10%，創歷史新高，海光資訊、天普股份、寒武紀、翱捷科技、東芯股份等跟漲。"
     }
   ]
 }
