@@ -1,7 +1,70 @@
 {
   "date": "2026-07-03",
-  "count": 179,
+  "count": 186,
   "items": [
+    {
+      "id": "mkt:019f2400-9a4f-7aab-8c82-8dc2a74515e5",
+      "time": "2026-07-03 02:04:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK prime ministerial candidate Burnham said he believes defence spending plans must be taken seriously by the state."
+    },
+    {
+      "id": "4968195",
+      "time": "2026-07-03 02:03:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆談國防開支計劃：我認為這是英國必須嚴肅面對的問題。"
+    },
+    {
+      "id": "mkt:019f23ff-fc26-7aab-8c82-817c3ea9b5da",
+      "time": "2026-07-03 02:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he will take full responsibility and fully implement the defence spending plan."
+    },
+    {
+      "id": "mkt:019f23ff-d487-7aab-8c82-7bfcdaa94b0f",
+      "time": "2026-07-03 02:03:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK prime minister candidate Burnham said there are grounds to raise business rates on warehouses."
+    },
+    {
+      "id": "mkt:019f23ff-d472-7aab-8c82-756bc1bf8738",
+      "time": "2026-07-03 02:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said there is room for tax changes under the Labour manifesto."
+    },
+    {
+      "id": "4968194",
+      "time": "2026-07-03 02:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：我將履行職責，為國防開支計劃提供足額資金。"
+    },
+    {
+      "id": "4968193",
+      "time": "2026-07-03 02:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：主張將水務、能源、交通行業更多收歸公有管控。"
+    },
     {
       "id": "4968192",
       "time": "2026-07-03 02:00:44",
