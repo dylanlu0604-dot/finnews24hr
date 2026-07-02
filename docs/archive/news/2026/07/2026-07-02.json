@@ -1,7 +1,34 @@
 {
   "date": "2026-07-02",
-  "count": 1217,
+  "count": 1220,
   "items": [
+    {
+      "id": "4966602",
+      "time": "2026-07-02 13:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據《國家防汛抗旱應急預案》有關規定，國家防總決定於7月2日12時針對海南、廣西、廣東啟動防汛防颱風四級應急響應，並派出工作組赴海南一線協助指導。"
+    },
+    {
+      "id": "4966601",
+      "time": "2026-07-02 13:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭襲已致10死56傷】當地時間7月2日，烏克蘭基輔市市長克利奇科通報稱，當天凌晨對基輔的襲擊已造成10人死亡。烏克蘭基輔軍政管理局負責人特卡琴科稱，傷者已達56人。2日凌晨，烏克蘭首都基輔市響起密集強烈爆炸聲。基輔市市長克利奇科表示，俄軍對基輔市發動導彈襲擊。"
+    },
+    {
+      "id": "te:markets:563637",
+      "time": "2026-07-02 13:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.37% — Top currency gainers are Indian Rupee (0.37%), Japanese Yen (0.11%), British Pound (0.10%) and Euro (0.08%). Biggest loser is Dollar Index (-0.09%)."
+    },
     {
       "id": "mkt:019f213f-7abf-7aab-8c6d-21923ff45c2d",
       "time": "2026-07-02 13:13:56",

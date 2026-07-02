@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-02 13:14:32",
-  "count": 14011,
+  "updated": "2026-07-02 13:18:34",
+  "count": 13999,
   "items": [
+    {
+      "id": "4966602",
+      "time": "2026-07-02 13:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據《國家防汛抗旱應急預案》有關規定，國家防總決定於7月2日12時針對海南、廣西、廣東啟動防汛防颱風四級應急響應，並派出工作組赴海南一線協助指導。"
+    },
+    {
+      "id": "4966601",
+      "time": "2026-07-02 13:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭襲已致10死56傷】當地時間7月2日，烏克蘭基輔市市長克利奇科通報稱，當天凌晨對基輔的襲擊已造成10人死亡。烏克蘭基輔軍政管理局負責人特卡琴科稱，傷者已達56人。2日凌晨，烏克蘭首都基輔市響起密集強烈爆炸聲。基輔市市長克利奇科表示，俄軍對基輔市發動導彈襲擊。"
+    },
+    {
+      "id": "te:markets:563637",
+      "time": "2026-07-02 13:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.37% — Top currency gainers are Indian Rupee (0.37%), Japanese Yen (0.11%), British Pound (0.10%) and Euro (0.08%). Biggest loser is Dollar Index (-0.09%)."
+    },
     {
       "id": "mkt:019f213f-7abf-7aab-8c6d-21923ff45c2d",
       "time": "2026-07-02 13:13:56",
@@ -128981,146 +129008,6 @@
         "日本央行"
       ],
       "text": "日本央行審議委員田村直樹在被問及是否可能連續加息時表示，若通脹超出目標的風險成為現實，可能需要加快加息步伐。"
-    },
-    {
-      "id": "te:economy:561745",
-      "time": "2026-06-25 13:18:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Coincident Index",
-        "Importance 1"
-      ],
-      "text": "Japan's Coincident Index Beats Flash Estimate — Japan’s coincident economic index, a key measure of current economic activity based on indicators such as industrial production, employment, and retail sales, rose to 118.1 in April 2026, above the preliminary figure of 117.9 and March’s 116.8. The reading marked the highest level since May 2019, pointing to continued economic recovery despite lingering uncertainty stemming from the Middle East conflict. Domestic demand remained resilient, supported by improving employment and income conditions, though consumer confidence softened. Meanwhile, both exports and imports were broadly unchanged, reflecting cautious business sentiment amid geopolitical risks and persistent trade-related uncertainties. On the monetary policy front, the Bank of Japan kept its short-term policy rate unchanged at 0.75% in April while raising its inflation outlook, citing higher energy costs and continued price pressures."
-    },
-    {
-      "id": "4954178",
-      "time": "2026-06-25 13:17:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞6月1-25日棕櫚油出口增長10.6%。"
-    },
-    {
-      "id": "4954177",
-      "time": "2026-06-25 13:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "船運調查機構ITS：馬來西亞6月1-25日棕櫚油出口量預計為1,127,867噸。"
-    },
-    {
-      "id": "mkt:019efd36-2826-7dd8-b10d-8d5d14d9fee5",
-      "time": "2026-06-25 13:17:25",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan policy board member Tamura said whether the BOJ will raise rates every three or four months will depend on economic and price developments and market reactions to each hike."
-    },
-    {
-      "id": "4954176",
-      "time": "2026-06-25 13:17:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：日本央行是每三個月還是每四個月加息一次，將取決於經濟、物價和市場對每次加息的反應。"
-    },
-    {
-      "id": "mkt:019efd35-dad0-7dd8-b10d-80289dba14b3",
-      "time": "2026-06-25 13:17:05",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan policy board member TAMURA said if the risk of inflation exceeding expectations materializes, the bank may need to accelerate the pace of rate hikes."
-    },
-    {
-      "id": "4954175",
-      "time": "2026-06-25 13:16:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹當被問及連續加息的可能性時表示，如果通脹超調的風險成為現實，我們可能需要加快加息步伐。"
-    },
-    {
-      "id": "4954174",
-      "time": "2026-06-25 13:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【駐宋卡總領館駐普吉領事辦公室提醒中國公民注意報警事宜】普吉、攀牙和甲米府一直是中國遊客心儀的國際旅遊勝地。為便利中國公民在三府遇到人身意外或緊急情況時及時順利報警求助，駐宋卡總領館駐普吉領事辦公室現梳理當地報警要點供瞭解掌握。中國公民可向皇家警察和旅遊警察報警。皇家警察主要處理刑事案件、治安管理、交通執法及其他需要出具正式報案材料和相關法律文書的案件。旅遊警察專門負責處理外國遊客旅遊糾紛、詐騙、失竊、消費爭議或一般性求助。（ 中國駐宋卡總領館  ）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606253782856863",
-      "time": "2026-06-25 13:16:01",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行審議委員田村直樹：外匯波動是影響日本經濟和物價的重要因素】日本央行審議委員田村直樹稱，外匯波動是影響日本經濟和物價的重要因素。由於企業定價行為的變化，外匯波動對通脹的影響比過去更大。"
-    },
-    {
-      "id": "4954173",
-      "time": "2026-06-25 13:15:24",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普要求調查石油公司未相應下調汽油價格行為】美國總統特朗普24日說，已要求司法部調查石油公司未隨原油價格下跌相應下調汽油零售價格的行為，指責相關企業對消費者“漫天要價”。特朗普當天在社交媒體上說，加油站汽油價格維持在高位，消費者正在被“欺詐”，“我已指示司法部立即展開調查”。白宮隨後釋出的影片顯示，特朗普點名埃克森美孚公司和雪佛龍石油公司。（新華社）"
-    },
-    {
-      "id": "mkt:019efd34-4634-7dd8-b10d-7f0b060a3fd3",
-      "time": "2026-06-25 13:15:21",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan policy board member Tamura said exchange-rate volatility now has a greater impact on inflation than in the past, reflecting changes in corporate pricing behavior."
-    },
-    {
-      "id": "mkt:019efd34-0d01-7dd8-b10d-739adf0ec224",
-      "time": "2026-06-25 13:15:07",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan Policy Board member Tamura said exchange-rate volatility is an important factor affecting Japan's economy and prices."
-    },
-    {
-      "id": "mkt:019efd33-efe8-7dd8-b10d-6d134e92e28c",
-      "time": "2026-06-25 13:14:59",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan policy board member Tamura said exchange-rate movements are driven not only by the central bank's policy stance but also by other factors."
-    },
-    {
-      "id": "4954172",
-      "time": "2026-06-25 13:14:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：由於企業定價行為發生變化，匯率波動對通脹的影響比過去更大。"
-    },
-    {
-      "id": "mkt:019efd33-87ff-7dd8-b10d-66a2e33e9947",
-      "time": "2026-06-25 13:14:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "TAMURA, a Bank of Japan policy board member, said exchange-rate moves must reflect fundamentals."
     }
   ]
 }
