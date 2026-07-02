@@ -1,7 +1,1354 @@
 {
   "date": "2026-07-02",
-  "count": 3010,
+  "count": 3153,
   "items": [
+    {
+      "id": "4968017",
+      "time": "2026-07-02 23:12:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【經濟學家：儘管6月就業資料疲軟，美聯儲的焦點仍是通貨膨脹】Evercore ISI表示，“迴歸正常的就業報告使美聯儲的焦點保持在通貨膨脹上。”這些經濟學家認為，在之前幾個月就業人數出人意料地強勁之後，美聯儲將把疲軟的6月就業報告視為使招聘資料重新回到更好的平衡狀態。“有人認為，這份報告使今年加息的可能性大幅下降。我們並不完全同意，”他們說。桑坦德銀行的斯蒂芬·斯坦利對此表示贊同。“將由通貨膨脹資料來決定美國聯邦公開市場委員會的行動路線，”他說。他認為6月就業報告可能會“極其微小地”改變美聯儲官員的看法，但他認為大多數決策者認為勞動力市場是穩定的。“金融市場出現了大幅的下意識反應，包括降低今年加息的機率。我認為後者是對這份報告的不當反應。”"
+    },
+    {
+      "id": "mkt:019f2363-a1fc-7aab-8c7f-7427ec7eacd2",
+      "time": "2026-07-02 23:12:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Seat fight complicates Powell's Fed tenure】Hassett criticized Powell's continued tenure, framing the dispute as a battle over Federal Reserve Board seats. Powell's chair term ends but his Board term runs to January 2028; as long as he remains a governor the White House lacks an immediate vacancy to fill and the Board's voting balance cannot be quickly rewritten along political lines. That shifts market focus from 'who will be chair and when cuts come' to a slower institutional variable: how Board-term protections limit presidential control of the Fed and how future policy splits may hinge not just on rate forecasts but on whether Board seats can be reshaped."
+    },
+    {
+      "id": "4968016",
+      "time": "2026-07-02 23:12:29",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【瑞銀：高質量短期公司債券提供具吸引力的收益率】瑞銀全球財富管理策略師在一份報告中表示，短期高質量信用債提供具吸引力的收益率，使其成為良好的投資機會。這些策略師表示，市場似乎高估了主要央行加息的可能性，這意味著收益率可能在未來幾個月下降。他們表示：“我們認為中短期高質量債券提供了具有吸引力的風險回報特徵。”"
+    },
+    {
+      "id": "4968015",
+      "time": "2026-07-02 23:11:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑石面向富裕人士的基金5月創下最強單月表現 得益於投資Anthropic】得益於對AI領域熱門企業Anthropic PBC的投資，黑石集團旗下面向富裕人士的私募股權基金5月取得了有史以來最強勁的月度業績。一封致投資者信函顯示，黑石私募股權策略基金(簡稱BXPE)的Class I份額在5月實現了4.3%的淨回報，今年以來的漲幅達到11.4%。BXPE在第二季度投入超過25億美元，其中包括對Anthropic的追加投資以及對支付處理商Stripe的押注。儘管近年來私募股權行業面臨壓力，但黑石在信中指出，槓桿收購和IPO市場的長期低迷狀態正開始緩解。"
+    },
+    {
+      "id": "mkt:019f2362-31e7-7aab-8c7f-6ff35aa91001",
+      "time": "2026-07-02 23:11:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: U.S. June jobs report shows hiring engine weakening】Sung Won Sohn, chief economist at SS Economics, said the U.S. June jobs report reshapes the labor-market picture: nonfarm payroll growth slowed and was revised down, labor force participation fell, leisure and hospitality weakened, and job gains remain heavily concentrated in health care and social assistance. Sohn said the data indicate the labor market is no longer booming, describing a \"low hiring, low firing\" environment with less margin for error. He added the report reduces near-term odds of further Fed tightening, has weakened the dollar, and investors will monitor whether the cooling persists."
+    },
+    {
+      "id": "mkt:019f2362-09b6-7aab-8c7f-6182601c8fe8",
+      "time": "2026-07-02 23:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported the Israeli military said the Givati Brigade has completed combat operations in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f2360-9e78-7aab-8c7f-5bbb8cdff890",
+      "time": "2026-07-02 23:09:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) extends losses to 4%."
+    },
+    {
+      "id": "4968012",
+      "time": "2026-07-02 23:09:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快手：北京可靈將持有可靈AI相關資產及業務，多方投資者同意向可靈AI注資20億美元】快手(01024.HK)公告，於2026年7月2日（交易時段後），(i)北京可靈（本公司的間接全資附屬公司，預期於重組完成後將持有快手集團可靈AI相關資產及業務），(ii)21名獨立投資者、甲方及乙方，(iii)北京可靈集團公司，(iv)LuckyLabs，及(v)北京快靈瑞，訂立增資協議，據此，初始投資者同意合共以人民幣13,823.60百萬元（或2,028.20百萬美元）的現金資本注入北京可靈，惟須條件獲達成或獲豁免。根據增資協議，經北京可靈同意後，額外投資者可自簽署日期起60天內透過簽署加入協議成為增資協議項下的投資者訂約方，惟增資協議的總增資款不得超過人民幣20,447.10百萬元。加入協議應構成增資協議的一部分。據此，於增資協議同日，15名額外投資者各自與北京可靈訂立加入協議，據此，彼等成為增資協議的訂約方，並同意合共以人民幣5,223.50百萬元的現金資本注入北京可靈，惟須條件獲達成或獲豁免。北京可靈可於認購期內在認購限額範圍內與新的額外投資者進一步訂立加入協議。"
+    },
+    {
+      "id": "4968011",
+      "time": "2026-07-02 23:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌幅擴大至4%。美光科技跌5.10%，西部資料跌7.28%，希捷科技跌7.48%，閃迪跌11.53%，鎧俠ADR跌12.50%。"
+    },
+    {
+      "id": "4968010",
+      "time": "2026-07-02 23:08:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【丹麥央行入市干預匯市 提振丹麥克朗】丹麥央行週四釋出宣告稱，該行上月對外匯市場實施干預，以維持丹麥克朗釘住歐元的匯率機制。6 月央行購入 7 億丹麥克朗，推升本國貨幣匯率。本次是 2023 年 1 月以來該央行首次進行匯市干預。"
+    },
+    {
+      "id": "4968009",
+      "time": "2026-07-02 23:07:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，海天網路跌20.25%，新氧跌9.71%，世紀互聯跌9.02%，復朗集團跌6.47%，阿特斯跌5.94%。"
+    },
+    {
+      "id": "mkt:019f235f-25bd-7aab-8c7f-572c39355dd2",
+      "time": "2026-07-02 23:07:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 reversed earlier gains to trade lower; Nasdaq down 0.7%, Dow up 0.5%."
+    },
+    {
+      "id": "4968008",
+      "time": "2026-07-02 23:07:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數抹去漲幅，轉為下跌。"
+    },
+    {
+      "id": "mkt:019f235e-8bf9-7aab-8c7f-4a763b789754",
+      "time": "2026-07-02 23:07:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc determined that at 22:44 on July 2 a magnitude-4.5 earthquake occurred offshore Yilan County, Taiwan, with a focal depth of 90 km."
+    },
+    {
+      "id": "4968006",
+      "time": "2026-07-02 23:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月02日22時44分在臺灣宜蘭縣海域（北緯24.60度，東經122.60度）發生4.5級地震，震源深度90千米。"
+    },
+    {
+      "id": "4968005",
+      "time": "2026-07-02 23:04:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯利康漲幅擴大，觸及盤中高點，最新漲幅為6%。"
+    },
+    {
+      "id": "4968004",
+      "time": "2026-07-02 23:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國常駐聯合國代表：呼籲伊朗停止襲擊，並開放霍爾木茲海峽】美國常駐聯合國代表：伊朗試圖在霍爾木茲海峽徵收非法費用。霍爾木茲海峽必須向所有國家開放。儘管已有諒解備忘錄，伊朗仍繼續襲擊船隻以及巴林和科威特。我們呼籲伊朗停止襲擊，並開放霍爾木茲海峽。我們不會接受在霍爾木茲海峽徵收任何非法費用。伊朗不尊重《聯合國憲章》。我們呼籲伊朗重回對話與和平努力。美國總統特朗普對伊朗的耐心正在耗盡。"
+    },
+    {
+      "id": "4968003",
+      "time": "2026-07-02 23:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "快手：增資協議項下認購總金額不得超過人民幣204.471億元。"
+    },
+    {
+      "id": "te:markets:563843",
+      "time": "2026-07-02 23:03:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Futures Rebounds — Platinum futures traded around $1,630 an ounce, rebounding about 2.5% from a seven-month low as a weaker US dollar outweighed easing geopolitical uncertainty. Oil prices continued to decline as tanker traffic normalized amid ongoing peace talks, although uncertainty over a lasting agreement persisted. Meanwhile, softer-than-expected US payrolls data and last week's inflation reading reduced expctations of further rate hikes from the Federal Reserve this year, weighing on the dollar and boosting the appeal of dollar-denominated metals. On the supply side, South Africa's platinum output remained constrained after criminal activity disrupted power supplies to major mining operations. In contrast, Russia's Nornickel has begun expanding its mines, aiming to extend production through at least 2048."
+    },
+    {
+      "id": "mkt:019f235b-38f1-7aab-8c7f-407b7289d197",
+      "time": "2026-07-02 23:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danmarks Nationalbank intervened in FX markets last month, buying DKK700m."
+    },
+    {
+      "id": "mkt:019f235a-d287-7aab-8c7f-38324a2f6dd2",
+      "time": "2026-07-02 23:03:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to the United Nations said President Trump’s patience with Iran is running out."
+    },
+    {
+      "id": "4968002",
+      "time": "2026-07-02 23:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約針對遠端辦公人員徵收的相關稅項在法律訴訟中勝訴，政策得以保留。"
+    },
+    {
+      "id": "mkt:019f235a-4ed5-7aab-8c7f-37c7456d8934",
+      "time": "2026-07-02 23:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US permanent representative to the UN called on Iran to return to dialogue and pursue peaceful efforts."
+    },
+    {
+      "id": "4968001",
+      "time": "2026-07-02 23:02:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "快手：投資者同意向AI模型可靈注資20億美元。"
+    },
+    {
+      "id": "4968000",
+      "time": "2026-07-02 23:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊斯資訊聯合中標福建省低空智慧網聯絡統專案（一期）】近日，萊斯資訊聯合福建省電子政務建設運營有限公司，成功中標福建省低空智慧網聯絡統（一期）專案，中標金額近3000萬元。"
+    },
+    {
+      "id": "4967999",
+      "time": "2026-07-02 23:01:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "丹麥央行上月開展外匯市場干預操作。"
+    },
+    {
+      "id": "4967998",
+      "time": "2026-07-02 23:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時100指數上漲2%，報10688.06點。"
+    },
+    {
+      "id": "mkt:019f2359-90ae-7aab-8c7f-2c6a5d2bfa2d",
+      "time": "2026-07-02 23:01:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "U.S. permanent representative to the United Nations said the United States will not accept any illegal levies in the Strait of Hormuz and that Iran does not respect the UN Charter."
+    },
+    {
+      "id": "mkt:019f2359-38b9-7aab-8c7f-241702c8d2dc",
+      "time": "2026-07-02 23:01:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK's FTSE 100 up 2.00% intraday."
+    },
+    {
+      "id": "mkt:019f2359-10cc-7aab-8c7f-1fd31581ff53",
+      "time": "2026-07-02 23:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "As of the 23:00 close, China's main futures contracts were mostly higher: LPG up about 3%, methanol over 2%. Propylene, polypropylene (monthly-average), asphalt, coke and plastics (monthly-average) rose more than 1%. Iron ore fell over 1% and palm oil slipped nearly 1%."
+    },
+    {
+      "id": "mkt:019f2358-edac-7aab-8c7f-1529484104a4",
+      "time": "2026-07-02 23:00:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. ambassador to the U.N. called on Iran to stop attacks and open the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f2358-c2bb-7aab-8c7f-0e2b9320fcf9",
+      "time": "2026-07-02 23:00:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. permanent representative to the U.N. said despite a memorandum of understanding, Iran continues to attack vessels and strike Bahrain and Kuwait."
+    },
+    {
+      "id": "te:markets:563842",
+      "time": "2026-07-02 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Increases by 0.94% — Top currency gainers are Japanese Yen (0.94%), Swiss Franc (0.90%), Norwegian Krone (0.83%), British Pound (0.75%) and Euro (0.58%). Biggest loser is Dollar Index (-0.62%)."
+    },
+    {
+      "id": "4967997",
+      "time": "2026-07-02 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續漲2.89%，甲醇連續漲2.10%，聚丙烯連續漲1.40%，鐵礦石連續跌1.34%，瀝青連續漲1.33%。"
+    },
+    {
+      "id": "mkt:019f2357-e256-7aab-8c7f-00fb63167e12",
+      "time": "2026-07-02 22:59:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The U.S. permanent representative to the United Nations said Iran is attempting to impose illegal fees in the Strait of Hormuz. The strait must remain open to all countries."
+    },
+    {
+      "id": "mkt:019f2357-a910-7aab-8c7e-fd10f4ba30dc",
+      "time": "2026-07-02 22:59:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US permanent representative to the UN said Washington will not allow Iran to hold the global economy hostage. He said Iran has attacked civilian vessels and impeded freedom of navigation, affecting global agriculture."
+    },
+    {
+      "id": "4967996",
+      "time": "2026-07-02 22:59:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國常駐聯合國代表：我們不會允許伊朗將全球經濟作為人質。伊朗襲擊民用船隻並阻礙航行自由，對全球農業造成了影響。"
+    },
+    {
+      "id": "4967995",
+      "time": "2026-07-02 22:59:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【厄爾尼諾擾動全球農產品供給，倫敦白糖期貨價格創九個月新高】中國國家氣候中心副主任袁佳雙7月2日表示，6月以來，赤道中東太平洋海溫持續攀升。綜合國內外動力氣候模式和統計方法預測，夏秋季將形成一次東部型強至超強厄爾尼諾事件。世界氣象組織此前預計，7至9月出現強厄爾尼諾的機率已升至80%，持續至11月及以後的機率高達90%。7月2日，ICE倫敦白糖期貨延續漲勢，盤中一度觸及490美元/噸，創九個半月新高，成為本輪厄爾尼諾行情中價格反應最為敏感的品種之一。（澎湃新聞）"
+    },
+    {
+      "id": "4967994",
+      "time": "2026-07-02 22:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本正在測試依託星鏈網路運作的消防栓標識，將其用作應急通訊站點。"
+    },
+    {
+      "id": "4967993",
+      "time": "2026-07-02 22:56:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2384.00元。"
+    },
+    {
+      "id": "te:markets:563841",
+      "time": "2026-07-02 22:56:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "GlaxoSmithKline Stock Price Hits 5-week High — GlaxoSmithKline shares increased to 2011.00 GBp, the highest since May 2026. Over the past 4 weeks, GlaxoSmithKline gained 8.53%, and in the last 12 months, it increased 44.15%."
+    },
+    {
+      "id": "4967992",
+      "time": "2026-07-02 22:56:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【哈塞特稱在與所有人工智慧公司對話 探討如何分享收益】美國國家經濟委員會主任凱文·哈塞特在被問及政府是否計劃持有OpenAI股份時表示：“我們正在與所有大型AI公司接觸，想了解它們認為可以透過什麼方式與美國民眾分享收益。”他在接受CNBC採訪時還表示，政府持有英特爾股份是由“特殊”情況推動的，“未來我們會多頻繁地做類似的事情，仍是一個開放性問題”。"
+    },
+    {
+      "id": "mkt:019f2354-cc5c-7aab-8c7e-f5b2bb05c128",
+      "time": "2026-07-02 22:56:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bearish"
+      ],
+      "text": "SanDisk (SNDK.O) intraday decline widened to 10%."
+    },
+    {
+      "id": "4967991",
+      "time": "2026-07-02 22:56:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘋果公司股價上漲4.1%。"
+    },
+    {
+      "id": "4967990",
+      "time": "2026-07-02 22:55:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼：迪士尼+與Anime Ltd宣佈達成獲獎動畫片單在英國和法國的流媒體播放協議。"
+    },
+    {
+      "id": "4967989",
+      "time": "2026-07-02 22:54:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪日內跌幅擴大至10%】7月2日訊息，閃迪日內跌幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019f2352-1479-7aab-8c7e-e88b8fefc557",
+      "time": "2026-07-02 22:53:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shipping giant Saade signaled openness to spinning off its logistics business."
+    },
+    {
+      "id": "4967988",
+      "time": "2026-07-02 22:52:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部：巴基斯坦財政部長會見標普全球評級代表團。"
+    },
+    {
+      "id": "mkt:019f2351-3bcb-7aab-8c7e-e64632906a0f",
+      "time": "2026-07-02 22:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan finance minister met with a S&P Global Ratings delegation, the finance ministry said."
+    },
+    {
+      "id": "4967987",
+      "time": "2026-07-02 22:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：北歐航空執行長範德韋夫是加拿大航空首席高管熱門候選人之一。"
+    },
+    {
+      "id": "4967986",
+      "time": "2026-07-02 22:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，美國牽頭在巴林舉辦此次會議，意在掩蓋美方在該地區製造動盪的政策與無法無天的行徑。"
+    },
+    {
+      "id": "4967985",
+      "time": "2026-07-02 22:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運巨頭薩阿德透露，考慮分拆旗下物流業務獨立上市。"
+    },
+    {
+      "id": "4967984",
+      "time": "2026-07-02 22:50:30",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【現貨金大漲 疲軟的美國就業資料淡化升息憂慮】金價大幅上漲，因美國疲軟的就業資料緩解了市場對美聯儲今年可能為遏制通脹而加息的擔憂。6月非農就業報告公佈後，現貨黃金一度上漲2.8%，延續此前兩個交易日的反彈勢頭。資料顯示，美國6月新增非農就業人數大幅放緩，彭博調查的所有經濟學家中只有一人的預測資料低於公佈值。疲弱的就業資料將減輕美聯儲主席沃什7月加息壓力。沃什週三在歐洲央行論壇上發表的講話，被市場認為其沒有此前擔心的那樣鷹派。由於黃金本身不產生利息，更高的借貸成本通常會對金價構成壓力。ING Bank大宗商品策略師Ewa Manthey表示：“弱於預期的就業報告重新令市場聚焦美聯儲降息，推動美債收益率和美元走低，也為黃金帶來新一輪上漲動力。”她預計，接下來的黃金走勢將取決於後續經濟資料是否繼續支援降息預期。"
+    },
+    {
+      "id": "mkt:019f234f-5194-7aab-8c7e-dd6bfea08030",
+      "time": "2026-07-02 22:50:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "AMD.O",
+        "META.O"
+      ],
+      "text": "U.S. tech stocks fell: AMD (AMD.O) down nearly 4%, Meta Platforms (META.O) down 3.5%, Intel (INTC.O) down 2.5%, NVIDIA (NVDA.O) down 0.6%, Broadcom (AVGO.O) down 0.3%."
+    },
+    {
+      "id": "4967983",
+      "time": "2026-07-02 22:50:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【滙豐：美國拒絕續簽《美墨加協定》之際，墨西哥比索未受動搖】滙豐墨西哥首席經濟學家José Carlos Sánchez在一份報告中表示，在美國拒絕續簽《美墨加協定》、使該貿易協定進入年度審議程式之後，墨西哥比索保持穩定，這表明該決定在廣泛意料之中。他說，美國宣告的及時性和清晰度最終利好比索。儘管審議程式不如“乾淨利落“的續簽理想，但這種期望從來都不現實，並且“我們仍然認為，與其他新興市場同行相比，墨西哥將從更大的美國經濟市場準入中獲益。“比索兌美元報17.47，昨日為17.56。"
+    },
+    {
+      "id": "4967982",
+      "time": "2026-07-02 22:49:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019f234d-2a4e-7aab-8c7e-d0267b25dca8",
+      "time": "2026-07-02 22:48:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bearish",
+        "WDC.O",
+        "SNDK.O"
+      ],
+      "text": "U.S. storage stocks extended their pullback: Micron (MU.O) down more than 3%, Western Digital (WDC.O) down more than 5%, SanDisk (SNDK.O) down more than 9%."
+    },
+    {
+      "id": "mkt:019f234c-3f34-7aab-8c7e-cf54a1d8736c",
+      "time": "2026-07-02 22:47:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automated detection: 22:44 on July 2 — ~M4.3 earthquake near Yilan County, Taiwan. Final result pending official quick report."
+    },
+    {
+      "id": "4967981",
+      "time": "2026-07-02 22:46:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月02日22時44分在臺灣宜蘭縣附近（北緯24.40度，東經121.74度）發生4.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4967980",
+      "time": "2026-07-02 22:46:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：黎巴嫩軍方總司令會見英國、巴基斯坦外交官，磋商以黎雙方簽署的框架協議，以及軍方所需的國際援助事宜。"
+    },
+    {
+      "id": "mkt:019f234b-9884-7aab-8c7e-c1fc7e52e4b2",
+      "time": "2026-07-02 22:46:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "Nasdaq-100 futures fell as much as 1%. Nasdaq erased earlier gains and is down 0.2%; the S&P 500's advance narrowed to 0.2% while the Dow Jones is up 0.7%."
+    },
+    {
+      "id": "4967979",
+      "time": "2026-07-02 22:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京人工智慧賦能科學研究實施方案啟動】記者從北京市相關部門瞭解到，為進一步發揮北京教育、科技、人才資源優勢，加快推動人工智慧賦能科學研究，以人工智慧引領科研正規化變革，促進各領域科學研究加速突破，提升科學研究效能，推動科技創新和產業創新深度融合，支撐北京（京津冀）國際科技創新中心建設，2026年6月30日，中共北京市委教育科技人才工作領導小組印發《北京市加快推進人工智慧賦能科學研究實施方案（2026—2028年）》，從自主實驗室建設、標杆場景應用、科學模型構建、科學資料供給、創新生態營造等方面系統部署，全面推動科學智慧創新發展。當前，人工智慧正重塑科學研究的正規化與路徑，成為驅動科學研究突破、催生重大原創成果的關鍵力量，是全球科技強國重點佈局的前沿賽道。北京作為全國的科學中心及人才高地，創新資源優勢顯著：擁有90多所高校，100多萬科研從業者，800多位兩院院士，2025年高被引科學家400人次；4個國家實驗室，145家在京全國重點實驗室佔全國總量的近三成。全社會研發投入強度多年保持在6%以上，基礎研究投入比重保持在16%左右，連續9年穩居自然指數-科研城市全球榜首，入選“中國科學十大進展”成果數量佔全國近一半。（央視財經）"
+    },
+    {
+      "id": "4967978",
+      "time": "2026-07-02 22:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊繼續回撥】美股儲存板塊繼續回撥，美光科技跌3.47%，西部資料跌5.09%，希捷科技跌5.40%，閃迪跌8.83%，鎧俠ADR跌9.30%。"
+    },
+    {
+      "id": "4967977",
+      "time": "2026-07-02 22:45:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞中部發生暴力衝突致18人死亡】奈及利亞中部尼日州警方2日表示，該州本週以來因土地糾紛引發的暴力衝突已造成至少18人死亡。 尼日州警方發言人說，此次衝突於6月29日爆發，並於7月1日進一步升級。衝突起因是當地兩個族群之間長期存在的土地糾紛。 警方還說，地方政府已牽頭成立調解委員會，並與安全部門合作，推動化解衝突。由警方和軍方組成的聯合安全部隊也已部署至事發地區，以恢復當地秩序。（新華社）"
+    },
+    {
+      "id": "4967976",
+      "time": "2026-07-02 22:45:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【熱浪影響法國阿爾卑斯山區 登山風險上升】法國近期遭遇罕見熱浪，全國多數省份釋出高溫紅色預警，多地氣溫突破40攝氏度。持續高溫也影響到法國東南部阿爾卑斯山區，冰雪狀況不穩定導致勃朗峰多條登山線路安全風險顯著上升。（央視新聞）"
+    },
+    {
+      "id": "4967975",
+      "time": "2026-07-02 22:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳小江艾爾肯·吐尼亞孜會見中國南水北調集團董事長汪安南】新疆自治區黨委書記陳小江、新疆自治區主席艾爾肯·吐尼亞孜7月2日在烏魯木齊會見了中國南水北調集團董事長汪安南。"
+    },
+    {
+      "id": "4967974",
+      "time": "2026-07-02 22:43:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，道瓊斯指數期貨漲0.62%，標普500指數期貨漲0.01%。"
+    },
+    {
+      "id": "4967973",
+      "time": "2026-07-02 22:43:03",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利等多家銀行看空美元樂觀預期】法國農業信貸銀行、摩根士丹利與道明證券的外匯策略師均不認同市場普遍看漲美元的觀點。法農銀行十國集團外匯研究與策略主管瓦倫丁・馬裡諾夫表示，美元當前處於 “超買、估值過高” 狀態。若美元漲勢止步或有所回落，將對日本等多國政策官員產生重大影響，能夠降低各國輸入性通脹風險。"
+    },
+    {
+      "id": "4967972",
+      "time": "2026-07-02 22:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國首個高超音速武器專案面臨進一步延期】美國首個高超音速武器專案，其部署日期已至少推遲兩年，如今再次面臨延期。據美國國會審計人員稱，此次延期是由於尚未解決的生產問題。這一結論出自美國政府問責局（GAO）週四釋出的年度主要武器系統評估報告。該報告涵蓋了五角大樓104個最昂貴的專案，總價值達2.4萬億美元，其中包括遠端高超音速武器專案。"
+    },
+    {
+      "id": "mkt:019f2348-477d-7aab-8c7e-bfe456e78131",
+      "time": "2026-07-02 22:42:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【First U.S. hypersonic weapon program faces further delay, GAO says】The first U.S. hypersonic weapon program, whose deployment date was already delayed by at least two years, faces further delay due to unresolved production problems, the U.S. Government Accountability Office said in its annual major weapon systems assessment on Thursday. The report reviewed 104 of the Pentagon's most expensive programs totaling $2.4 trillion and included the long-range hypersonic weapon program."
+    },
+    {
+      "id": "4967971",
+      "time": "2026-07-02 22:42:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國參議員沃倫致信美聯儲理事沃勒 要求停止推進地區聯儲改革方案】美國參議員伊麗莎白·沃倫要求美聯儲理事克里斯托弗·沃勒停止其改革美聯儲12家地區分行運營架構的努力。作為參議院銀行委員會首席民主黨議員，沃倫週三致信沃勒指出，他針對美聯儲系統提出的改革方案可能與聯邦法律相牴觸，並暗示這可能會削弱美聯儲的獨立性。儘管沃勒作為美聯儲理事會儲備銀行事務委員會主席擁有一定的監管權，但這些地區分行在設立之初即被賦予了高度自治權，擁有自身日常運營的控制權。“這一提案看起來並不是在認真改革美聯儲系統，反而更像是為了討好正試圖獲得對地區分行行長更大控制權的特朗普而幾乎不加掩飾的舉動，”沃倫在彭博看到的這封信中寫道，“我要求你立即停止與該提案相關的所有工作，並向國會提供更多資訊。”"
+    },
+    {
+      "id": "4967970",
+      "time": "2026-07-02 22:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林外長：戰爭期間，伊朗向巴林領土發射了200多枚導彈和600多架無人機，德黑蘭將人口稠密的平民地區作為攻擊目標。聯合國安理會不能對伊朗的行為袖手旁觀。"
+    },
+    {
+      "id": "mkt:019f2346-4bdc-7aab-8c7e-b6a0431fffa0",
+      "time": "2026-07-02 22:40:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's foreign minister said that during the war Iran launched more than 200 missiles and over 600 drones into Bahraini territory, targeting densely populated civilian areas. He said the UN Security Council cannot stand by in the face of Iran's actions."
+    },
+    {
+      "id": "4967969",
+      "time": "2026-07-02 22:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江電力正式全容量接管世界額定水頭最高、我國單機容量最大抽水蓄能電站】7月1日，隨著最後一臺機組試執行及檢修工作順利結束，長江電力正式全容量接管世界額定水頭最高、我國單機容量最大的抽水蓄能電站——浙江天台抽水蓄能電站。浙江天台抽水蓄能電站總裝機容量170萬千瓦，額定水頭724米，共裝設4臺42.5萬千瓦可逆式水輪發電機組，預計年發電量約17億千瓦時。"
+    },
+    {
+      "id": "4967968",
+      "time": "2026-07-02 22:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大眾汽車將廢除現行獎金制度。"
+    },
+    {
+      "id": "4967967",
+      "time": "2026-07-02 22:39:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國就業增長慢於預期，降低美聯儲加息機率】隨著6月份慢於預期的就業創造使該央行偏緊縮的理由減少，期貨市場中美聯儲加息的機率下降。根據芝商所的FedWatch工具，市場預期7月份加息的機率為18%，低於昨日的29%。年底前至少降息一次的機率從83%降至76%。美國勞工統計局報告6月份新增就業崗位5.7萬個，而接受《華爾街日報》調查的經濟學家預期為11.5萬個。聯博的Eric Winograd寫道：“勞動力市場資料更加疲軟，加上油價大幅下跌，應該會降低美聯儲加息的可能性。”"
+    },
+    {
+      "id": "4967966",
+      "time": "2026-07-02 22:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【廣島民間團體要求日政府堅持“無核三原則”】日本廣島縣內7個核爆受害者團體的代表7月2日在廣島市舉行會議，彙總擬於今年廣島核爆紀念日向首相高市早苗等提出的訴求，要求日本政府堅持“無核三原則”。訴求書說，日本政府和執政黨內部出現主張修改作為國策的“無核三原則”、甚至鼓吹“核共享”等論調，“這背離了我們的意願，絕對不能容許”。訴求書指出，高市主張的政策缺乏推動和平外交、核裁軍和廢除核武器的具體舉措，只會加劇地區緊張局勢。訴求書認為，降低核戰爭風險、推進核裁軍是日本當前的緊迫課題。（新華社）"
+    },
+    {
+      "id": "4967965",
+      "time": "2026-07-02 22:37:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "Coatue對沖基金 6 月收益大漲，2026 年累計收益率升至 24.5%。"
+    },
+    {
+      "id": "mkt:019f2341-6cd1-7aab-8c7e-af7647bf41e8",
+      "time": "2026-07-02 22:35:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Tesla (TSLA.O) shares extended losses, down 6.1%."
+    },
+    {
+      "id": "4967964",
+      "time": "2026-07-02 22:34:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉股價跌幅擴大至6.1%。"
+    },
+    {
+      "id": "mkt:019f2340-4a1b-7aab-8c7e-a58d4fbde14f",
+      "time": "2026-07-02 22:34:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Labor data weakens but still grows; Fed pause reappraised】Analyst Eric Merlis said June nonfarm payrolls were significantly below expectations, a stark contrast with a string of upside surprises earlier this year, but the labor market is still adding jobs and wage growth shows little sign of accelerating. With participation falling and hiring cooling, the Fed’s decision to stand pat last month looks less like a policy mistake and more like prudent patience. Markets are repricing: as the inflation debate continues, the probability of further rate hikes is declining."
+    },
+    {
+      "id": "4967963",
+      "time": "2026-07-02 22:33:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【就業資料走弱但仍增長，美聯儲按兵不動獲重新評價】分析師Eric Merlis：“6月非農就業明顯不及預期，這與今年早些時候連續出現的上行意外形成鮮明對比，但勞動力市場仍在持續創造就業，工資增長也幾乎沒有顯示出加速跡象。”“隨著勞動力參與率走弱、招聘降溫，美聯儲上月選擇按兵不動的決定，看起來不再像是政策失誤，而更像是謹慎耐心的做法。與此同時，市場正在重新定價：隨著通脹討論持續，未來加息的可能性正在下降。”"
+    },
+    {
+      "id": "4967962",
+      "time": "2026-07-02 22:33:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍宣告：以軍在阿里・塔赫爾山脊一處地下恐怖設施外部擊斃一名真主黨武裝人員。"
+    },
+    {
+      "id": "mkt:019f233f-b9e0-7aab-8c7e-9938b6b6198d",
+      "time": "2026-07-02 22:33:26",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut Netflix (NFLX.O) PT to $104 from $113."
+    },
+    {
+      "id": "4967961",
+      "time": "2026-07-02 22:33:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場訊息：秘魯總統藤森任命埃爾默・庫瓦擔任財政部長。"
+    },
+    {
+      "id": "mkt:019f233f-63e3-7aab-8c7e-91952e2dd270",
+      "time": "2026-07-02 22:33:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 1.6% after the EIA reported inventories rose by more than expected."
+    },
+    {
+      "id": "4967960",
+      "time": "2026-07-02 22:32:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果漲幅達4%。"
+    },
+    {
+      "id": "mkt:019f233f-11ab-7aab-8c7e-8971334a2d25",
+      "time": "2026-07-02 22:32:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares rose 4%."
+    },
+    {
+      "id": "4967959",
+      "time": "2026-07-02 22:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將NETFLIX目標價從113美元下調至104美元。"
+    },
+    {
+      "id": "4967958",
+      "time": "2026-07-02 22:32:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨延續微跌走勢，跌幅1.6%，此前EIA公佈庫存增幅超預期。"
+    },
+    {
+      "id": "4967957",
+      "time": "2026-07-02 22:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，道格拉斯正朝北向較冷水域移動，預計週五將減弱為殘留低氣壓。"
+    },
+    {
+      "id": "mkt:019f233e-013d-7aab-8c7e-813faa35372b",
+      "time": "2026-07-02 22:31:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO's top military commander said for a small number of areas where European allies currently lack replacement capabilities, NATO is studying alternative capabilities with equivalent effect."
+    },
+    {
+      "id": "4967956",
+      "time": "2026-07-02 22:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約最高軍事指揮官：目前歐洲盟友在少數領域尚無替代能力，我們正研究具備同等效力的替代方案。"
+    },
+    {
+      "id": "mkt:019f233d-a0f8-7aab-8c7e-7df75422145e",
+      "time": "2026-07-02 22:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100's decline widened to 0.5%."
+    },
+    {
+      "id": "4967955",
+      "time": "2026-07-02 22:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：芬蘭國防軍後勤司令部已透過自我糾正撤銷了涉及智慧物流（INTLOG）專案的採購決定，並終止了該採購程式。"
+    },
+    {
+      "id": "mkt:019f233d-3eed-7aab-8c7e-7349fc883bad",
+      "time": "2026-07-02 22:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly natural gas report: U.S. working gas in storage totaled 29,220 bcf for the week ended June 26, up 87 bcf from the prior week, down 23 bcf YoY (-0.8%) and 1,750 bcf above the five-year average (+6.4%)."
+    },
+    {
+      "id": "4967954",
+      "time": "2026-07-02 22:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4967953",
+      "time": "2026-07-02 22:30:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA天然氣報告：截至6月26日當週，美國天然氣庫存總量為29220億立方英尺，較此前一週增加870億立方英尺，較去年同期減少230億立方英尺，同比降幅0.8%，同時較5年均值高1750億立方英尺，增幅6.4%。"
+    },
+    {
+      "id": "mkt:019f233c-ca50-7aab-8c7e-6e0a3e547917",
+      "time": "2026-07-02 22:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US EIA weekly natural gas storage injection for week ended June 26: 87 bcf; market est. 81 bcf; prior 76 bcf."
+    },
+    {
+      "id": "4967952",
+      "time": "2026-07-02 22:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署稱，上週美國天然氣庫存增加了870億立方英尺。"
+    },
+    {
+      "id": "mkt:019f233c-9899-7aab-8c7e-627799fdaac9",
+      "time": "2026-07-02 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jun.26) | actual 87000000000B | consensus 81000000000B | previous 76000000000B"
+    },
+    {
+      "id": "mkt:019f233c-703a-7aab-8c7e-59471b76cc6f",
+      "time": "2026-07-02 22:29:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO’s top military commander said European allies have largely filled the gap left by US cuts to funding for NATO forces."
+    },
+    {
+      "id": "4967951",
+      "time": "2026-07-02 22:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦副總理兼外交部長與沙特外交大臣通電話，雙方就最新地區局勢以及近期多哈會談事宜交換意見。"
+    },
+    {
+      "id": "4967950",
+      "time": "2026-07-02 22:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約最高軍事指揮官表示：歐洲盟國已基本填補了美國削減北約部隊編制後留下的缺口。"
+    },
+    {
+      "id": "mkt:019f233a-72f0-7aab-8c7e-50503e2ad596",
+      "time": "2026-07-02 22:27:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Yake Technology hits daily limit down; says no tungsten hexafluoride business or plans】On July 2 Yake Technology shares hit the daily limit down, closing at 212.48 yuan per share. The company said it is a semiconductor materials supplier upstream of chip manufacturing and has neither tungsten hexafluoride (WF6) related business nor plans to enter that market."
+    },
+    {
+      "id": "4967949",
+      "time": "2026-07-02 22:27:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【雅克科技跌停，公司回應：沒有六氟化鎢相關業務，也沒有佈局計劃】7月2日，雅克科技股價跌停。截至收盤，公司股價報212.48元/股。對於股價下跌，雅克科技方面回應，公司屬於半導體材料行業，是晶片製造的上游企業，既沒有六氟化鎢相關業務，也沒有佈局計劃。（中證金牛座）"
+    },
+    {
+      "id": "mkt:019f2339-9fac-7aab-8c7e-4afdc59ead08",
+      "time": "2026-07-02 22:26:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【White House NEC director Hassett criticizes Powell remaining on Federal Reserve】White House National Economic Council director Hassett criticized former Fed chair Powell for remaining on the Federal Reserve, saying Jay Powell not stepping down is \"extremely unusual\" and that his staying blocks the administration from nominating new Fed governors. Hassett also said most Fed voters \"did not vote out of patriotism but because they wanted to remove Trump.\" Powell, whose board term runs to January 2028, said he will remain for now. He has said an investigation into a Fed building project appears politically motivated and in April said he would leave \"when I think appropriate.\" The Fed board currently has only one member nominated during Trump's re‑election: new chair Kevin Warsh."
+    },
+    {
+      "id": "mkt:019f2339-5b26-7aab-8c7e-479153f4a062",
+      "time": "2026-07-02 22:26:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 erased gains and turned negative."
+    },
+    {
+      "id": "4967948",
+      "time": "2026-07-02 22:26:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普的顧問哈塞特批評鮑威爾繼續留在美聯儲】美國白宮國家經濟委員會主任哈塞特批評前美聯儲主席鮑威爾繼續留在美聯儲，此舉阻礙了政府提名新的美聯儲理事。“傑伊·鮑威爾沒有退出，這極其不尋常，”哈塞特表示。“前任美聯儲主席繼續留任是非常不尋常的。”此前，哈塞特表示，“美聯儲的大多數人投票並非出於愛國，而是因為他們想讓特朗普下臺。” 他是在回答有關他是否對美聯儲的某些成員感到擔憂的問題時做出上述表態的。美聯儲理事會目前只有一位成員是特朗普連任以來提名的：新任主席凱文·沃什。鮑威爾的理事任期至2028年1月，他表示目前會繼續留任。鮑威爾曾對一項針對美聯儲大樓專案的調查表示擔憂，稱其出於政治動機。今年4月，他表示會在“我認為合適的時候”離任。"
+    },
+    {
+      "id": "4967947",
+      "time": "2026-07-02 22:26:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數抹去漲幅，轉為下跌。"
+    },
+    {
+      "id": "4967946",
+      "time": "2026-07-02 22:25:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "北歐美國油輪公司：三艘船舶已駛離阿拉伯灣。"
+    },
+    {
+      "id": "mkt:019f2338-3b7c-7aab-8c7e-3aaa02bb3655",
+      "time": "2026-07-02 22:25:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "North Euro-American Tanker Company said three of its tankers have resumed international voyages after transiting the Strait of Hormuz. All crew are reported safe."
+    },
+    {
+      "id": "4967945",
+      "time": "2026-07-02 22:25:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗官員稱阿曼提出霍爾木茲海峽收費方案】霍爾木茲海峽未來的安排仍是美伊談判的核心問題之一。近期，有美國方面訊息顯示，伊朗官員和知情外交官員稱，阿曼提出了一項對途經霍爾木茲海峽船隻收取服務費的方案。伊朗官員與地區外交官表示，阿曼近期向美國及其他西方盟友提交了一份正式方案。根據該方案，航運公司使用霍爾木茲海峽將需要支付服務費。訊息稱，阿曼的最新提議部分參考了馬六甲海峽和新加坡海峽的安排。在馬六甲海峽和新加坡海峽，有來自各國政府、企業和行業協會的“自願捐款”，用來促進海峽航行安全。這名地區外交官稱，阿曼在方案中提出的是自願付費機制，但伊朗官員給出相反說法，表示這些費用將強制收取。（央視新聞）"
+    },
+    {
+      "id": "4967944",
+      "time": "2026-07-02 22:24:42",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉跌幅擴大至5%。"
+    },
+    {
+      "id": "4967943",
+      "time": "2026-07-02 22:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "北歐美洲油輪公司：旗下所有油輪船員均安全。"
+    },
+    {
+      "id": "4967942",
+      "time": "2026-07-02 22:24:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "北歐美國油輪公司稱旗下船舶已駛離阿拉伯灣海域。"
+    },
+    {
+      "id": "4967941",
+      "time": "2026-07-02 22:24:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "大馬士革省長表示，製造爆炸襲擊的兇手必將繩之以法，並補充稱 “我們日復一日追查，終將抓獲所有破壞敘利亞安全的人”。"
+    },
+    {
+      "id": "mkt:019f2337-3701-7aab-8c7e-36f4579b1867",
+      "time": "2026-07-02 22:24:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) shares extended losses to about 5%."
+    },
+    {
+      "id": "te:markets:563833",
+      "time": "2026-07-02 22:23:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Zurich Stock Price Hits 14-month High — Zurich shares increased to 606.90 CHF, the highest since April 2025. Over the past 4 weeks, Zurich gained 11.12%, and in the last 12 months, it increased 9.6%."
+    },
+    {
+      "id": "mkt:019f2336-2a18-7aab-8c7e-2e1f5ad6993d",
+      "time": "2026-07-02 22:22:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO: Marburg virus case detected in Uganda】WHO on July 2 said a Marburg virus infection was identified in Uganda after the Africa CDC on July 1 reported the Uganda Ministry of Health had notified one case. WHO described Marburg virus disease as a severe viral hemorrhagic fever with symptoms including high fever, headache, muscle pain, diarrhea, vomiting and bleeding. Studies indicate the virus’s natural reservoir is the Egyptian fruit bat; transmission to humans can occur and human-to-human spread is possible via direct contact and infected bodily fluids."
+    },
+    {
+      "id": "4967940",
+      "time": "2026-07-02 22:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "7 月 2 日外資淨賣出價值 418 億印度盧比的印度股票衍生品。"
+    },
+    {
+      "id": "4967939",
+      "time": "2026-07-02 22:22:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬MONA L03亮相：全系搭載自研圖靈AI晶片，預售價14.38萬元起】在今日的小鵬MONA L03中國首秀釋出會上，小鵬集團董事長、CEO何小鵬發表演講。小鵬MONA L03由前法拉利知名設計師胡安馬領銜，與來自23個國家的全球設計團隊共同打造。小鵬MONA L03全系搭載小鵬自研圖靈AI晶片，推出Max、Ultra SE兩個版本。其中Max版搭載單顆圖靈AI晶片，750TOPS有效算力，配置第二代VLA蒸餾版（今年三季度開始推送）；Ultra SE版搭載兩顆圖靈AI晶片，1500TOPS有效算力，支援第二代VLA滿血版。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f2334-f043-7aab-8c7e-227c3b7a538d",
+      "time": "2026-07-02 22:21:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Insiders: European powers now see transit fees for Strait of Hormuz as inevitable】Sources say several major European governments now accept that vessels transiting the Strait of Hormuz will likely have to pay fees to Iran and Oman. Two people familiar with internal discussions said some form of service charge has become inevitable in the aftermath of a US-Israel-Iran war. They added some Gulf Arab officials privately share the view, though it may not reflect official government positions. It is unclear what type or level of fees states would accept. The US and Gulf Arab governments continue to oppose any fees imposed by Iran or Oman on passage through the strait."
+    },
+    {
+      "id": "4967938",
+      "time": "2026-07-02 22:21:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【知情人士：歐洲國家如今認為霍爾木茲海峽收費不可避免】據知情人士透露，一些歐洲主要大國現在承認，途經重要航道霍爾木茲海峽的船隻必須向伊朗和阿曼支付費用。兩位知悉內部討論的知情人士表示，在美以伊戰爭之後，收取某種形式的服務費已成定局。他們還表示，一些海灣阿拉伯國家的官員私下裡也持相同觀點，但這未必是他們政府的正式立場。目前尚不清楚各國願意接受何種型別或金額的費用。與此同時，美國和海灣阿拉伯國家仍然堅持認為，伊朗和阿曼不得對霍爾木茲海峽徵收任何費用。"
+    },
+    {
+      "id": "4967937",
+      "time": "2026-07-02 22:21:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾股價上漲，滙豐銀行針對其代工業務給出華爾街最高目標價】英特爾股價上漲1.8%，此前滙豐銀行將該晶片製造商的目標價上調了一倍，給出了華爾街最高的200美元目標價。分析師Frank Lee對英特爾的代工（Foundry）業務持更加積極的態度，稱該業務“現在已經好到不容忽視”，因為“英特爾與外部客戶的合作一直在增加”。“伺服器CPU的增長仍然是英特爾在2026/27財年盈利增長的關鍵驅動力”，並且“得益於內部代工產能的重新分配，英特爾在提升2026/27財年伺服器CPU出貨量方面處於有利地位”。"
+    },
+    {
+      "id": "te:markets:563832",
+      "time": "2026-07-02 22:20:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Gain as Fed Hike Bets Ease — The S&P/TSX Composite Index edged up to trade near the 35,000 mark on Thursday as investors assessed the latest US payrolls report for signals on the Fed's policy path. A weaker-than-expected labor market reading reduced expectations of further Fed rate hikes this year. Meanwhile, oil prices extended losses and remained near pre-conflict levels, easing inflation concerns and reinforcing expectations that the BoC may adopt a more dovish stance. Geopolitical tensions remained in focus after Iran and the US concluded a round of indirect talks in Doha without a clear breakthrough, although concerns over disruptions in the Strait of Hormuz continued to ease. Financial stocks traded mixed, with Brookfield gaining over 0.5% while TD Bank fell nearly 1%. Gold prices edged higher, lending support to mining stocks, with Barrick and Franco-Nevada rising more than 3% and WPM adding 3.5%. Shopify jumped over 5% after reaching a settlement with Shopline, a company owned by Joyy."
+    },
+    {
+      "id": "mkt:019f2333-88aa-7aab-8c7e-1a262036e98e",
+      "time": "2026-07-02 22:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week ended June 26 due in 10 minutes."
+    },
+    {
+      "id": "4967936",
+      "time": "2026-07-02 22:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股儲存概念股走低，閃迪跌幅擴大至4%，希捷科技跌超2%，西部資料跌1.8%，美光科技漲幅收窄至0.2%。"
+    },
+    {
+      "id": "4967935",
+      "time": "2026-07-02 22:19:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織：烏干達出現馬爾堡病毒感染病例】世界衛生組織7月2日公佈，在烏干達發現感染馬爾堡病毒感染病例。非洲疾控中心當地時間1日公佈，烏干達衛生部報告一例感染馬爾堡病毒的病例。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f2332-9f91-7aab-8c7e-126bfc8dfdd6",
+      "time": "2026-07-02 22:19:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Anthropic in talks with Samsung on custom AI chip】The Information reports Anthropic has begun early-stage in-house AI chip development and is in discussions with Samsung Electronics over potential foundry and advanced packaging cooperation, according to three sources. Anthropic is still defining chip role, target performance and server-cluster integration, has engaged multiple chip-design firms, and has not entered detailed design, testing or manufacturing. Sources say Anthropic is considering Samsung’s 2nm process and advanced packaging. The move follows peers’ in-house chip efforts; OpenAI partnered with Broadcom to design chips in 2024 and released the first joint product, Jalapeño, last month."
+    },
+    {
+      "id": "4967934",
+      "time": "2026-07-02 22:18:42",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "俄羅斯央行：燃油價格可能會讓6月CPI上揚大約0.3個百分點。"
+    },
+    {
+      "id": "4967933",
+      "time": "2026-07-02 22:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國人權辦公室：計劃於2026年11月30日前關閉其設在布吉納法索的辦事處。"
+    },
+    {
+      "id": "4967932",
+      "time": "2026-07-02 22:18:01",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月2日增減持彙總】據不完全統計，7月2日盤後，中巨芯、ST合力泰、*ST國中、山東鋼鐵4家A股公司披露增持情況。瑞晨環保、北玻股份披露擬減持情況。"
+    },
+    {
+      "id": "4967931",
+      "time": "2026-07-02 22:17:45",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：若美聯儲避免加息，美元或進一步走軟】Monex Europe的分析師在一份報告中表示，在週四弱於預期的美國非農就業人數公佈後，美元的回撥可能還會繼續。他們表示，美聯儲可能會維持利率不變，打破加息預期。此外，Monex並不認同市場對AI將對經濟活動產生實質性、即時提振的樂觀情緒。Monex Europe的分析師表示，這使得市場容易感到失望，美元也料將受到打擊。根據倫敦證券交易所集團的資料，DXY美元指數在就業資料公佈後不久觸及100.558的兩週低點，隨後下跌0.7%，至100.708；Monex預計DXY美元指數將在未來12個月內跌至98.1。"
+    },
+    {
+      "id": "4967930",
+      "time": "2026-07-02 22:17:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：AI應用驅動下 8英寸晶圓將進入新一輪缺貨漲價週期】群智諮詢發文稱，隨著AI資料中心拉動8英寸需求持續增長，疊加頭部代工廠商主動減產、IDM委外訂單增加等因素，預計2027年起全球8英寸代工供需持續收緊，儘管8英寸轉12英寸趨勢能夠起一定緩解作用，但並不能扭轉8英寸晶圓供應長期緊張的趨勢。由於產能利用率與上游材料價格雙漲趨勢明確，8英寸晶圓代工2027-2030年大機率走入漲價行情。"
+    },
+    {
+      "id": "4967929",
+      "time": "2026-07-02 22:16:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST龍元：股票交易異常波動 不存在應披露未披露重大事項】ST龍元公告稱，公司股票於2026年7月1日、7月2日連續2個交易日內收盤價格漲幅偏離值累計超12%，屬異常波動。經自查，除7月3日披露的籌劃重大事項停牌公告外，不存在應披露未披露重大資訊。公司控股股東、實控人及董高人員在異常波動期間無買賣公司股票行為。此外，公司存在業績虧損、部分債務逾期、訴訟、控股股東部分股份被司法輪候凍結等風險。"
+    },
+    {
+      "id": "4967928",
+      "time": "2026-07-02 22:16:17",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【ST龍元：相關方正在籌劃涉及公司的重大事項，股票停牌】ST龍元公告，公司接相關方通知，正在籌劃涉及公司的重大事項。鑑於上述事項尚存在重大不確定性，為保證公平資訊披露，維護投資者利益，避免公司股價異常波動，根據《上海證券交易所上市公司自律監管指引第4號——停復牌》、《上海證券交易所股票上市規則》等相關規定，經向上海證券交易所申請，本公司股票將於2026年7月3日開市起停牌，預計停牌時間不超過2個交易日。"
+    },
+    {
+      "id": "4967927",
+      "time": "2026-07-02 22:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部表示，自 3 月 2 日以來，以色列發動的襲擊已造成至少 4298 人死亡、12196 人受傷。"
+    },
+    {
+      "id": "4967926",
+      "time": "2026-07-02 22:15:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗聯合軍事指揮部警告美國、以色列及其盟友切勿出現任何 “誤判”，並揚言將實施報復；目前哈梅內伊的葬禮籌備工作仍在進行，有訊息稱美伊雙方將在葬禮結束後重啟談判。"
+    },
+    {
+      "id": "4967925",
+      "time": "2026-07-02 22:15:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "Meta股價下跌3.52%，報591美元/股，總市值報1.50萬億美元。"
+    },
+    {
+      "id": "mkt:019f232e-d2ae-7aab-8c7e-080b338a9651",
+      "time": "2026-07-02 22:14:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IATA partners with Yifei Ruite to deploy CargoIS in China】IATA signed a strategic cooperation agreement with Yifei Ruite in Shanghai. Under the deal, Yifei Ruite will handle market promotion, implementation, technical support and client operations for IATA’s CargoIS air-cargo intelligence platform in mainland China, and the parties will jointly推進 digital upgrades across China’s air cargo sector."
+    },
+    {
+      "id": "4967924",
+      "time": "2026-07-02 22:14:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈塞特稱就業資料與強勁經濟相符】白宮國家經濟委員會主任凱文·哈塞特表示，6月份的就業資料與強勁的經濟相符。然而，他表示不清楚的是休閒和酒店業就業人數的下降。“我們知道這屆世界盃是歷史上最成功的世界盃，而那些為國內所有這些球迷提供旅遊和休閒支援的人員，其就業人數不知何故卻下降了，“他說。“這對我們來說說不通。”"
+    },
+    {
+      "id": "4967923",
+      "time": "2026-07-02 22:13:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際航協與翌飛銳特達成戰略合作 共同推進CargoIS在中國落地】近日，國際航空運輸協會（簡稱“國際航協”）與翌飛銳特在上海正式簽署戰略合作協議。作為戰略合作伙伴，翌飛銳特將全面負責國際航協CargoIS（航空貨運智慧資料平臺）在中國大陸的市場推廣、落地實施、技術支援與客戶運維，雙方將攜手推動中國航空貨運數字化升級。"
+    },
     {
       "id": "4967922",
       "time": "2026-07-02 22:12:52",
