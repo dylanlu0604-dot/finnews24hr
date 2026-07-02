@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-03 03:55:01",
-  "count": 13797,
+  "updated": "2026-07-03 03:58:56",
+  "count": 13798,
   "items": [
+    {
+      "id": "4968254",
+      "time": "2026-07-03 03:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "針對《紐約時報》有關美方官員認為以色列可能密謀刺殺伊朗首席談判代表的報道，一名不願具名的安全官員向以色列 i24 新聞臺回應稱：“只要以色列想除掉某人，就一定會動手。”"
+    },
+    {
+      "id": "mkt:019f2468-ac2f-7aab-8c83-d4f74dc78884",
+      "time": "2026-07-03 03:57:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【After hot demand, quick cooling — Invesco exec blasts SpaceX bond performance】Matt Brill, head of North America investment‑grade credit at Invesco, said SpaceX’s $25bn debut bond traded “very messy” in the secondary market, calling the deal “very disappointing” and a “red card.” The issue drew nearly $90bn of orders at pricing but weakened sharply on the break, surprising traders. Brill flagged possible underwriter mispricing or weak participation from long‑term buyers such as pension and insurance funds. He warned IG credit spreads are at multi‑year tights and that downside risk outweighs upside, and said Invesco is reducing concentration in the technology sector. Market participants view the volatility as evidence the gap between headline demand and real absorption capacity is widening."
+    },
+    {
+      "id": "mkt:019f2467-73a0-7aab-8c83-ca2d4509336f",
+      "time": "2026-07-03 03:56:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones extended gains to just over 1%; the S&P 500 and Nasdaq narrowed losses, down 0.12% and 0.89% respectively."
+    },
+    {
+      "id": "4968253",
+      "time": "2026-07-03 03:55:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報52832.340點；納指跌0.90%，現報25804.861點；標普500指數跌0.14%，現報7472.990點。"
+    },
     {
       "id": "4968252",
       "time": "2026-07-03 03:53:33",
@@ -127058,38 +127098,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌2.74%】海天網路跌17.57%，攜程跌12.56%，中比能源跌11.76%，叮咚買菜跌8.05%，優品車跌7.03%。"
-    },
-    {
-      "id": "4955848",
-      "time": "2026-06-26 03:57:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "“大空頭”Michael Burry：加倉FISERV、京東和奧多比。"
-    },
-    {
-      "id": "mkt:019f005b-af12-7dd8-b125-d4ce6762e825",
-      "time": "2026-06-26 03:57:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Fed's Williams: Current policy stance can return inflation to 2%】Williams said the current monetary policy stance is well positioned to return inflation to the Fed's 2% target but acknowledged material risks remain to fulfilling the central bank's dual mandate. He said inflation is undoubtedly elevated and well above the Committee's 2% goal, and he expects inflation to ease modestly over the next few quarters, though significant risks persist."
-    },
-    {
-      "id": "4955847",
-      "time": "2026-06-26 03:55:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會 (ICI) 資料：貨幣市場基金規模降至 7.9 萬億美元。"
     }
   ]
 }
