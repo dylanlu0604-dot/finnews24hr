@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-02 20:06:03",
+  "updated": "2026-07-02 20:10:06",
   "count": 13797,
   "items": [
+    {
+      "id": "mkt:019f22bb-67c4-7aab-8c77-1b6aed9f9fd0",
+      "time": "2026-07-02 20:08:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Major U.S. stock index futures reversed earlier losses and are now trading higher."
+    },
+    {
+      "id": "4967585",
+      "time": "2026-07-02 20:08:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨抹去早盤跌幅，轉為上漲。"
+    },
+    {
+      "id": "4967584",
+      "time": "2026-07-02 20:08:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "RAYMOND JAMES將迪士尼目標股價從119美元下調至111美元。"
+    },
+    {
+      "id": "mkt:019f22ba-7248-7aab-8c77-1414db55f517",
+      "time": "2026-07-02 20:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY: We are in the early stages where AI could deliver exponential productivity gains."
+    },
+    {
+      "id": "4967583",
+      "time": "2026-07-02 20:07:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事戴利：人工智慧帶來生產率提升的潛在指數式增長目前仍處於早期階段。"
+    },
+    {
+      "id": "mkt:019f22b9-f189-7aab-8c77-0c3ed003df17",
+      "time": "2026-07-02 20:07:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Daly said acting too quickly could suppress the economy prematurely; acting too slowly could harm the public."
+    },
+    {
+      "id": "mkt:019f22b9-9263-7aab-8c77-0712ef929ed1",
+      "time": "2026-07-02 20:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia's crude exports are approaching pre-war levels, averaging 6.3 mln b/d over the six days to Wednesday."
+    },
+    {
+      "id": "4967582",
+      "time": "2026-07-02 20:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：已將土耳其銀行業、非銀行金融機構以及保險業的行業展望下調至惡化。"
+    },
+    {
+      "id": "mkt:019f22b9-6883-7aab-8c76-ffc8f116bc5d",
+      "time": "2026-07-02 20:06:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US received no benefit from NATO】President Trump said the United States has spent far more on NATO than any other member and received no benefit, citing 2014-2025 expenditures: US $999 bln, UK $90.5 bln, France $66.5 bln, Italy $48.8 bln, Poland $44.3 bln; other countries, including Germany, spent far less."
+    },
+    {
+      "id": "4967581",
+      "time": "2026-07-02 20:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美國未從北約獲得任何好處】美國總統特朗普表示：“美國在北約上的花費遠遠超過其他任何國家，用於保護北約，卻並未從中獲得任何好處：美國9990億美元，英國905億美元，法國665億美元，義大利488億美元，波蘭443億美元。其他國家，包括德國，花費則低得多。（2014-2025年）簡直荒謬！”"
+    },
+    {
+      "id": "4967580",
+      "time": "2026-07-02 20:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塔吉克發生交通事故致11人死亡】塔吉克內務部2日釋出訊息說，首都杜尚別附近當天發生一起重大交通事故，導致11人死亡。據塔內務部訊息，事故發生在當地時間6時30分左右。在杜尚別附近的瓦赫達特市，一輛卡車在該市埃洛克村附近公路上行駛時剎車失靈，與兩輛轎車相撞。卡車司機、一名轎車司機以及兩輛轎車上的9名乘客當場死亡。（環球網）"
+    },
+    {
+      "id": "4967579",
+      "time": "2026-07-02 20:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新任中國駐塞普勒斯大使楊雲東抵塞履新】2026年7月1日，新任中國駐塞普勒斯共和國特命全權大使楊雲東抵塞履新。塞外交部禮賓司長、使館主要外交官到機場迎接。"
+    },
     {
       "id": "mkt:019f22b8-0d61-7aab-8c76-f7d93aa2b44b",
       "time": "2026-07-02 20:05:15",
@@ -127052,106 +127173,6 @@
         "公司"
       ],
       "text": "【九洲集團：李寅等股東完成減持 未超計劃且未影響控制權】九洲集團公告稱，股東李寅於2026年5月13 - 14日以集中競價減持785,000股，佔總股本0.1220%；劉富利於5月6日 - 6月1日減持12,599股，佔0.0020%。盧志國、高明未減持。減持後，李寅持股降至13.219%，劉富利降至0.0059%。本次減持符合法規，未超計劃，不會導致公司控制權變更，不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "4955206",
-      "time": "2026-06-25 20:09:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九洲集團：李寅等股東完成減持 未超計劃且未影響控制權】九洲集團公告稱，股東李寅於2026年5月13 - 14日以集中競價減持785,000股，佔總股本0.1220%；劉富利於5月6日 - 6月1日減持12,599股，佔0.0020%。盧志國、高明未減持。減持後，李寅持股降至13.219%，劉富利降至0.0059%。本次減持符合法規，未超計劃，不會導致公司控制權變更，不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "mkt:019efeaf-1011-7dd8-b11a-308a1e1354f7",
-      "time": "2026-06-25 20:09:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NPC Standing Committee chairpersons' meeting reviews Trademark Law, CPA Law, Hong Kong port jurisdiction and 2025 central final accounts】Beijing, June 25 — The 14th NPC Standing Committee chairpersons' meeting, chaired by Zhao Leji at the Great Hall of the People, heard reports and reviewed revised drafts on several items. Xin Chunying reported on proposed revisions to the Trademark Law amendment, suggested edits to a draft decision amending the CPA Law, and the review outcome of a draft decision to authorize the HKSAR to exercise jurisdiction over the Hong Kong-side port area at Huanggang and related extended zones; the meeting examined the revised drafts. Xu Hongcai reported on the review of the 2025 central final accounts draft and accompanying report, and the meeting examined a draft resolution to approve the 2025 central final accounts. Liu Qi reported on individual deputies' qualification reviews and related appointment/removal cases. The chairpersons' meeting decided to submit the revised drafts and draft decisions to the full NPC Standing Committee for consideration."
-    },
-    {
-      "id": "mkt:019efeaf-02fa-7dd8-b11a-2852564fd525",
-      "time": "2026-06-25 20:09:02",
-      "tags": [
-        "MKT News",
-        "JPM.N"
-      ],
-      "text": "JP Morgan (JPM.N) appointed Doug Petno and Troy Rohrbaugh as co-presidents."
-    },
-    {
-      "id": "4955205",
-      "time": "2026-06-25 20:08:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇州召開“中小微企業日”企業家座談會】在聯合國“中小微企業日”來臨之際，6月25日，蘇州市委書記範波主持召開蘇州市“中小微企業日”企業家座談會，深入學習貫徹習近平總書記關於促進中小企業發展的重要論述和對江蘇、蘇州工作重要講話重要指示精神，深入開展服務企業、服務專案、服務園區和基層“三服務”專項行動，廣泛聽取意見建議，幫助解決實際問題，以一流營商環境助力企業發展壯大。會上，零一汽車、桐力光電、優理奇機器人、齊飛航空、貝康醫療、中瑞智創、星恆電源、新梅華、眾海投資、燦勤科技等企業負責人分別發言，圍繞強化數智賦能、打響蘇州品牌、夯實低空基礎設施、支援醫療器械產業發展、助力校企聯合攻關、拓展本土應用場景等方面提出意見建議。相關部門作了回應。（蘇州日報）"
-    },
-    {
-      "id": "mkt:019efeae-916e-7dd8-b11a-2365eb44ee84",
-      "time": "2026-06-25 20:08:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Ares private-credit fund again caps investor redemptions at 5%."
-    },
-    {
-      "id": "4955204",
-      "time": "2026-06-25 20:08:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【零跑D99正式上市】6月25日，零跑首款MPV車型零跑D99正式上市，搭載零跑旗艦D平臺，首發寧德時代“超混電芯”+全域千伏高壓架構，首發雙高通8797晶片，座椅採用2+2+3共7座佈局，提供增程和純電兩種動力選擇， 增程版搭載1.5TD增程器，配備80.3kWh電池，純電版搭載115kWh電池，售價24.98萬元起。"
-    },
-    {
-      "id": "4955203",
-      "time": "2026-06-25 20:08:19",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【十四屆全國人大常委會舉行第六十九次委員長會議 聽取有關草案和議案審議情況彙報 趙樂際主持】十四屆全國人大常委會第六十九次委員長會議25日下午在北京人民大會堂舉行。趙樂際委員長主持。\n會議聽取了全國人大憲法和法律委員會主任委員信春鷹作的關於商標法修訂草案修改意見的彙報、關於修改註冊會計師法的決定草案修改意見的彙報、關於授權香港特別行政區對皇崗口岸港方口岸區及相關延伸區實施管轄的決定草案審議結果的報告，審議了相關草案修改稿、決定草案。\n會議聽取了全國人大財政經濟委員會副主任委員、全國人大常委會預算工作委員會主任許宏才作的關於2025年中央決算草案和2025年中央決算報告審查情況的彙報，審議了關於批准2025年中央決算的決議草案代擬稿。\n會議聽取了全國人大常委會秘書長劉奇作的關於個別代表的代表資格的報告和任免案審議情況的彙報等。\n委員長會議決定，將上述草案修改稿等提交常委會會議審議。（新華社）"
-    },
-    {
-      "id": "4955202",
-      "time": "2026-06-25 20:08:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "經合組織：就斯洛伐克問題表示，能源補貼給財政預算帶來了沉重負擔，扭曲了經濟選擇，並且抑制了能效提升工作。"
-    },
-    {
-      "id": "4955201",
-      "time": "2026-06-25 20:07:13",
-      "tags": [
-        "宏觀",
-        "其他",
-        "焦點"
-      ],
-      "text": "【廣東落地全國首批民營企業再貸款線上交易業務】6月25日，中國人民銀行正式上線民營企業再貸款線上交易業務。上線當日，中國人民銀行廣東省分行指導轄內陽江市分行、雲浮市分行成功以線上交易方式為4家地方法人金融機構發放民營企業再貸款，業務型別涵蓋信用方式和券款對付結算（DVP）方式，標誌著民營企業再貸款線上交易業務在廣東率先落地。"
-    },
-    {
-      "id": "4955200",
-      "time": "2026-06-25 20:07:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告 ：英國國債投資者等待新政府的經濟政策】Federated Hermes的Filippo Alloatti在一份報告中表示，繼基爾·斯塔默本週早些時候辭去首相職務之後，英國國債投資者渴望瞭解新政府領導下經濟政策的潛在變化。他表示：“任何關於財政寬鬆的預期都可能導致英國國債收益率上升，這反映出在經歷了先前的市場動盪之後，投資者對財政信譽的敏感性。”Tradeweb資料顯示，10年期英國國債收益率上漲1.1個基點，最新報4.695%。"
-    },
-    {
-      "id": "4955199",
-      "time": "2026-06-25 20:06:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天虹股份：持股5%以上股東擬減持不超3%股份】天虹股份公告稱，持股5%以上股東五龍貿易有限公司持有公司股份5844.90萬股，佔總股本比例為5.12%，計劃自2026年7月20日起3個月內，以集中競價、大宗交易方式減持不超3423.77萬股，即不超公司總股本的3.00%。其中，集中競價不超1141.26萬股（1.00%），大宗交易不超2282.51萬股（2.00%）。減持因自身資金需求，股份源於首次公開發行前股份。本次減持計劃實施存在不確定性，不會導致公司控制權變更。"
-    },
-    {
-      "id": "4955198",
-      "time": "2026-06-25 20:06:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【超力電器創業板IPO稽核狀態變更為'已受理'】江蘇超力電器股份有限公司創業板IPO稽核狀態變更為'已受理'，保薦機構為中信建投。"
     }
   ]
 }

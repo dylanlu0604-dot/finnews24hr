@@ -1,7 +1,128 @@
 {
   "date": "2026-07-02",
-  "count": 2460,
+  "count": 2472,
   "items": [
+    {
+      "id": "mkt:019f22bb-67c4-7aab-8c77-1b6aed9f9fd0",
+      "time": "2026-07-02 20:08:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Major U.S. stock index futures reversed earlier losses and are now trading higher."
+    },
+    {
+      "id": "4967585",
+      "time": "2026-07-02 20:08:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨抹去早盤跌幅，轉為上漲。"
+    },
+    {
+      "id": "4967584",
+      "time": "2026-07-02 20:08:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "RAYMOND JAMES將迪士尼目標股價從119美元下調至111美元。"
+    },
+    {
+      "id": "mkt:019f22ba-7248-7aab-8c77-1414db55f517",
+      "time": "2026-07-02 20:07:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "DALY: We are in the early stages where AI could deliver exponential productivity gains."
+    },
+    {
+      "id": "4967583",
+      "time": "2026-07-02 20:07:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事戴利：人工智慧帶來生產率提升的潛在指數式增長目前仍處於早期階段。"
+    },
+    {
+      "id": "mkt:019f22b9-f189-7aab-8c77-0c3ed003df17",
+      "time": "2026-07-02 20:07:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Daly said acting too quickly could suppress the economy prematurely; acting too slowly could harm the public."
+    },
+    {
+      "id": "mkt:019f22b9-9263-7aab-8c77-0712ef929ed1",
+      "time": "2026-07-02 20:06:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi Arabia's crude exports are approaching pre-war levels, averaging 6.3 mln b/d over the six days to Wednesday."
+    },
+    {
+      "id": "4967582",
+      "time": "2026-07-02 20:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：已將土耳其銀行業、非銀行金融機構以及保險業的行業展望下調至惡化。"
+    },
+    {
+      "id": "mkt:019f22b9-6883-7aab-8c76-ffc8f116bc5d",
+      "time": "2026-07-02 20:06:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says US received no benefit from NATO】President Trump said the United States has spent far more on NATO than any other member and received no benefit, citing 2014-2025 expenditures: US $999 bln, UK $90.5 bln, France $66.5 bln, Italy $48.8 bln, Poland $44.3 bln; other countries, including Germany, spent far less."
+    },
+    {
+      "id": "4967581",
+      "time": "2026-07-02 20:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美國未從北約獲得任何好處】美國總統特朗普表示：“美國在北約上的花費遠遠超過其他任何國家，用於保護北約，卻並未從中獲得任何好處：美國9990億美元，英國905億美元，法國665億美元，義大利488億美元，波蘭443億美元。其他國家，包括德國，花費則低得多。（2014-2025年）簡直荒謬！”"
+    },
+    {
+      "id": "4967580",
+      "time": "2026-07-02 20:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塔吉克發生交通事故致11人死亡】塔吉克內務部2日釋出訊息說，首都杜尚別附近當天發生一起重大交通事故，導致11人死亡。據塔內務部訊息，事故發生在當地時間6時30分左右。在杜尚別附近的瓦赫達特市，一輛卡車在該市埃洛克村附近公路上行駛時剎車失靈，與兩輛轎車相撞。卡車司機、一名轎車司機以及兩輛轎車上的9名乘客當場死亡。（環球網）"
+    },
+    {
+      "id": "4967579",
+      "time": "2026-07-02 20:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新任中國駐塞普勒斯大使楊雲東抵塞履新】2026年7月1日，新任中國駐塞普勒斯共和國特命全權大使楊雲東抵塞履新。塞外交部禮賓司長、使館主要外交官到機場迎接。"
+    },
     {
       "id": "mkt:019f22b8-0d61-7aab-8c76-f7d93aa2b44b",
       "time": "2026-07-02 20:05:15",
