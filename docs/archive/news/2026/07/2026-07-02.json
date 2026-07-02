@@ -1,7 +1,107 @@
 {
   "date": "2026-07-02",
-  "count": 3173,
+  "count": 3183,
   "items": [
+    {
+      "id": "te:markets:563845",
+      "time": "2026-07-02 23:29:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Novartis Stock Price Hits All-time High — Novartis shares increased to an all-time high of 131.60 CHF. Over the past 4 weeks, Novartis gained 13.16%, and in the last 12 months, it increased 32.71%."
+    },
+    {
+      "id": "te:markets:563844",
+      "time": "2026-07-02 23:29:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Visa Stock Price Hits 51-week High — Visa shares increased to 358.81 USD, the highest since July 2025. Over the past 4 weeks, Visa gained 14.83%, and in the last 12 months, it decreased 0.04%."
+    },
+    {
+      "id": "mkt:019f2372-c56f-7aab-8c7f-ada486c2fd44",
+      "time": "2026-07-02 23:29:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources: Kuwait's crude production averaged 1.65 mln bpd in June, up from 578,000 bpd in May. Production briefly rose to 1.9 mln bpd during the final 10 days of June."
+    },
+    {
+      "id": "mkt:019f2372-60bc-7aab-8c7f-a54e7e41478e",
+      "time": "2026-07-02 23:28:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia suggests Ukraine may have used long-range ballistic missile for first time】Russian Defence Ministry said its air defences shot down a \"long-range combat tactical missile\", seven guided bombs and 602 fixed-wing drones in the past 24 hours, but did not identify the missile model or provide further detail. Ukraine has not publicly confirmed use of a ballistic missile. Ukrainian defence firm \"Fire Point\" has said its FP-9 ballistic missile, with a reported range of about 850 km intended to strike deep Russian targets, could begin flight tests after engine development is complete as soon as this summer or early autumn."
+    },
+    {
+      "id": "4968035",
+      "time": "2026-07-02 23:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮稱，六月的就業報告顯示，外籍出生勞動力在過去一年中急劇下降。"
+    },
+    {
+      "id": "4968034",
+      "time": "2026-07-02 23:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士透露，科威特6月原油產量平均為每日165萬桶，5月為每日57.8萬桶。"
+    },
+    {
+      "id": "mkt:019f2371-ddcd-7aab-8c7f-9a493c809c7b",
+      "time": "2026-07-02 23:28:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said the government has exempted routine inspections of properties owned by firms damaged in Russian strikes to speed up recovery efforts."
+    },
+    {
+      "id": "4968033",
+      "time": "2026-07-02 23:28:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，六月下旬過去十天裡，科威特原油產量已升至每日190萬桶。"
+    },
+    {
+      "id": "4968032",
+      "time": "2026-07-02 23:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面表示， 無人機持續執行偵察監測任務，統籌各類應急救援行動。目前基輔境內所有火情均已撲滅。"
+    },
+    {
+      "id": "mkt:019f2370-e93f-7aab-8c7f-920288c9a6a1",
+      "time": "2026-07-02 23:27:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House press secretary Leavitt said the June employment report shows the foreign-born labor force contracted sharply over the past year, suggesting President Trump's measures against illegal immigration are reshaping the US labor market composition."
+    },
     {
       "id": "4968031",
       "time": "2026-07-02 23:24:24",
