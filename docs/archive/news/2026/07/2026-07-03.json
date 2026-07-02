@@ -1,7 +1,117 @@
 {
   "date": "2026-07-03",
-  "count": 299,
+  "count": 310,
   "items": [
+    {
+      "id": "mkt:019f2476-a409-7aab-8c84-0ba11c547b7a",
+      "time": "2026-07-03 04:13:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority said it will lower the maximum lock draft for New Panamax vessels. Effective July 24 the maximum draft will be 49 ft; effective August 15 it will be 48.5 ft."
+    },
+    {
+      "id": "4968265",
+      "time": "2026-07-03 04:10:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴拿馬運河管理局公告：新巴拿馬型船閘船舶最大允許吃水深度將於 7 月 24 日下調至 49 英尺，8 月 15 日進一步降至 48.5 英尺。"
+    },
+    {
+      "id": "4968264",
+      "time": "2026-07-03 04:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局釋出宣告稱，將在新巴拿馬型船閘實施吃水深度縮減管控。"
+    },
+    {
+      "id": "4968263",
+      "time": "2026-07-03 04:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 技術長：滑鼠軌跡追蹤軟體上線前已完成隱私、法務及其他多輪稽核。"
+    },
+    {
+      "id": "mkt:019f2470-62d2-7aab-8c84-02daff62f58b",
+      "time": "2026-07-03 04:06:12",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed up 594.18 points (+1.14%) at 52,899.42 on Thursday, July 2. S&P 500 closed down 0.49 points (-0.01%) at 7,482.74. Nasdaq Composite closed down 207.36 points (-0.80%) at 25,832.67."
+    },
+    {
+      "id": "mkt:019f2470-15af-7aab-8c83-fdeb75a2631e",
+      "time": "2026-07-03 04:05:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "i24News reports Israeli security officials, responding to a New York Times article, said \"if Israel wanted to eliminate anyone, it could.\" The NYT had earlier reported US officials feared Israel might assassinate key Iranian negotiators during US–Iran talks."
+    },
+    {
+      "id": "mkt:019f246f-ae6e-7aab-8c83-f5667a06e5c3",
+      "time": "2026-07-03 04:05:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CTO said the mouse-tracking software underwent privacy, legal and other reviews before release."
+    },
+    {
+      "id": "4968262",
+      "time": "2026-07-03 04:04:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會披露檔案：AdaptHealth 公司證實保險賬單密碼檔案遭外洩，健康記錄訪問門戶遭非法入侵， 截至 2026 年 7 月 2 日，該事件尚未對公司運營及患者服務造成重大影響。"
+    },
+    {
+      "id": "mkt:019f246d-39e0-7aab-8c83-ef06e1b6cbf8",
+      "time": "2026-07-03 04:02:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "This week the S&P 500 rose 1.75%, the Nasdaq rose 2.12% and the Dow Jones Industrial Average rose 1.97%. The Dow posted a fourth straight weekly gain, its longest winning streak since October 2024."
+    },
+    {
+      "id": "mkt:019f246c-eabf-7aab-8c83-e3d9038969fe",
+      "time": "2026-07-03 04:02:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) closed down 7.5%, its largest single-day decline in nearly a year."
+    },
+    {
+      "id": "4968261",
+      "time": "2026-07-03 04:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "“特斯拉勁敵”Rivian收漲78.4%，創1月13日以來收盤新高。"
+    },
     {
       "id": "4968260",
       "time": "2026-07-03 04:01:55",
