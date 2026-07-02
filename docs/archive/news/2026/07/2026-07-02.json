@@ -1,7 +1,159 @@
 {
   "date": "2026-07-02",
-  "count": 782,
+  "count": 796,
   "items": [
+    {
+      "id": "4966297",
+      "time": "2026-07-02 09:44:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "地產股震盪拉昇，金科股份、津投城開漲停，華麗家族、榮豐控股、電子城、濱江集團、綠地控股漲幅居前。"
+    },
+    {
+      "id": "mkt:019f207e-4bc4-7aab-8c69-bd1b17cf37f4",
+      "time": "2026-07-02 09:42:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robot theme active against the market; Riying Electronics hit the daily limit. Wuzhou Xinchun, Fenglong Co., Orbbec, Siling Zhiqu, Lixing Co. and Buke Co. also gained."
+    },
+    {
+      "id": "4966296",
+      "time": "2026-07-02 09:42:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【汽車板塊盤初走強 海馬汽車漲停】汽車板塊盤初走強，海馬汽車漲停，比亞迪、北汽藍谷、長安汽車等股漲幅居前。"
+    },
+    {
+      "id": "te:economy:563591",
+      "time": "2026-07-02 09:42:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "Australia Logs Biggest Trade Deficit Since 2015 — Australia unexpectedly posted a trade deficit of AUD 3.02 billion in May 2026, shifting from a downwardly revised AUD 1.38 billion surplus in the previous month and defying market expectations of an AUD 2.2 billion surplus. It was the second trade deficit so far this year and the largest since December 2015, as exports fell while imports rose. Exports dropped 6.9% month-on-month to AUD 43.61 billion, reversing a 7.2% increase in April, primarily weighed down by non-monetary gold and metal ores and minerals. Meanwhile, imports grew 2.6% month-on-month to AUD 45.46 billion, accelerating from a downwardly revised 0.2% increase in April, reflecting stronger domestic demand."
+    },
+    {
+      "id": "mkt:019f207d-d32c-7aab-8c69-b36a0de36c0e",
+      "time": "2026-07-02 09:42:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share livestock sector rose again. Yisheng hit the daily trading limit; Tianyu Bio, Xin Wufeng, Guolian Aquatic, Huaying Agriculture and Minhe also gained."
+    },
+    {
+      "id": "mkt:019f207d-cbd5-7aab-8c69-ada4317b8cc4",
+      "time": "2026-07-02 09:42:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share Hainan sector rallied intraday; Hainan Haiyao posted a fourth consecutive daily limit-up, Haima Automobile hit the daily limit, and Shennong Seed, Xinlong Holdings, Kangzhi Pharmaceutical and Haixia Co. also advanced."
+    },
+    {
+      "id": "mkt:019f207d-c037-7aab-8c69-a559f69fa41e",
+      "time": "2026-07-02 09:42:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "【US June nonfarm payrolls due today; US markets closed July 3】US June nonfarm payrolls will be released at 20:30 Beijing time on July 2. US equity markets will be closed on July 3 for Independence Day. CME will end trading in precious metals, energy, FX, US Treasury and equity index futures early at 01:00 Beijing time on July 4. ICE will end trading in Brent crude futures early at 01:30 Beijing time on July 4. Market participants should note the adjusted hours."
+    },
+    {
+      "id": "mkt:019f207d-7c10-7aab-8c69-9f4f21299f3d",
+      "time": "2026-07-02 09:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "01211.HK",
+        "Impact bullish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks extended gains in early trade: BYD Co. (01211.HK) rose over 8%, Li Auto (02015.HK) climbed nearly 6%, with XPeng Inc. (09868.HK) and Leapmotor (09863.HK) also higher."
+    },
+    {
+      "id": "4966295",
+      "time": "2026-07-02 09:41:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養殖業板塊再度走高】養殖業板塊再度走高，益生股份漲停，天域生物、新五豐、國聯水產、華英農業、民和股份跟漲。"
+    },
+    {
+      "id": "mkt:019f207d-336f-7aab-8c69-918e87726619",
+      "time": "2026-07-02 09:41:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum most-active contract extended intraday gains to 4.00%, trading at 397.45 yuan/gram."
+    },
+    {
+      "id": "4966294",
+      "time": "2026-07-02 09:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股跌超15%】智譜港股跌15.40%，報1781.00港元。"
+    },
+    {
+      "id": "4966293",
+      "time": "2026-07-02 09:41:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞威資管(01835.HK)今日復牌，盤初漲逾200%。公司此前公告，於2026年6月14日，公司、要約人訂立認購協議，公司有條件同意配發及發行共1.5億股H股，總代價1.2億港元。"
+    },
+    {
+      "id": "4966292",
+      "time": "2026-07-02 09:40:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化纖概念異動拉昇，尤夫股份、優彩資源雙雙漲停】化纖概念異動拉昇，尤夫股份、優彩資源雙雙漲停，ST海龍、寶麗迪、新鄉化纖、同益中、蒙泰高新、恆逸石化等跟漲。"
+    },
+    {
+      "id": "4966291",
+      "time": "2026-07-02 09:40:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "海南板塊短線走強，海南海藥4連板，海馬汽車漲停，神農種業、欣龍控股、康芝藥業、海峽股份跟漲。"
+    },
     {
       "id": "4966290",
       "time": "2026-07-02 09:40:12",

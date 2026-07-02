@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-02 09:40:52",
-  "count": 14043,
+  "updated": "2026-07-02 09:44:41",
+  "count": 14038,
   "items": [
+    {
+      "id": "4966297",
+      "time": "2026-07-02 09:44:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "地產股震盪拉昇，金科股份、津投城開漲停，華麗家族、榮豐控股、電子城、濱江集團、綠地控股漲幅居前。"
+    },
+    {
+      "id": "mkt:019f207e-4bc4-7aab-8c69-bd1b17cf37f4",
+      "time": "2026-07-02 09:42:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robot theme active against the market; Riying Electronics hit the daily limit. Wuzhou Xinchun, Fenglong Co., Orbbec, Siling Zhiqu, Lixing Co. and Buke Co. also gained."
+    },
+    {
+      "id": "4966296",
+      "time": "2026-07-02 09:42:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【汽車板塊盤初走強 海馬汽車漲停】汽車板塊盤初走強，海馬汽車漲停，比亞迪、北汽藍谷、長安汽車等股漲幅居前。"
+    },
+    {
+      "id": "te:economy:563591",
+      "time": "2026-07-02 09:42:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "Australia Logs Biggest Trade Deficit Since 2015 — Australia unexpectedly posted a trade deficit of AUD 3.02 billion in May 2026, shifting from a downwardly revised AUD 1.38 billion surplus in the previous month and defying market expectations of an AUD 2.2 billion surplus. It was the second trade deficit so far this year and the largest since December 2015, as exports fell while imports rose. Exports dropped 6.9% month-on-month to AUD 43.61 billion, reversing a 7.2% increase in April, primarily weighed down by non-monetary gold and metal ores and minerals. Meanwhile, imports grew 2.6% month-on-month to AUD 45.46 billion, accelerating from a downwardly revised 0.2% increase in April, reflecting stronger domestic demand."
+    },
+    {
+      "id": "mkt:019f207d-d32c-7aab-8c69-b36a0de36c0e",
+      "time": "2026-07-02 09:42:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share livestock sector rose again. Yisheng hit the daily trading limit; Tianyu Bio, Xin Wufeng, Guolian Aquatic, Huaying Agriculture and Minhe also gained."
+    },
+    {
+      "id": "mkt:019f207d-cbd5-7aab-8c69-ada4317b8cc4",
+      "time": "2026-07-02 09:42:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share Hainan sector rallied intraday; Hainan Haiyao posted a fourth consecutive daily limit-up, Haima Automobile hit the daily limit, and Shennong Seed, Xinlong Holdings, Kangzhi Pharmaceutical and Haixia Co. also advanced."
+    },
+    {
+      "id": "mkt:019f207d-c037-7aab-8c69-a559f69fa41e",
+      "time": "2026-07-02 09:42:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "【US June nonfarm payrolls due today; US markets closed July 3】US June nonfarm payrolls will be released at 20:30 Beijing time on July 2. US equity markets will be closed on July 3 for Independence Day. CME will end trading in precious metals, energy, FX, US Treasury and equity index futures early at 01:00 Beijing time on July 4. ICE will end trading in Brent crude futures early at 01:30 Beijing time on July 4. Market participants should note the adjusted hours."
+    },
+    {
+      "id": "mkt:019f207d-7c10-7aab-8c69-9f4f21299f3d",
+      "time": "2026-07-02 09:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "01211.HK",
+        "Impact bullish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks extended gains in early trade: BYD Co. (01211.HK) rose over 8%, Li Auto (02015.HK) climbed nearly 6%, with XPeng Inc. (09868.HK) and Leapmotor (09863.HK) also higher."
+    },
+    {
+      "id": "4966295",
+      "time": "2026-07-02 09:41:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養殖業板塊再度走高】養殖業板塊再度走高，益生股份漲停，天域生物、新五豐、國聯水產、華英農業、民和股份跟漲。"
+    },
+    {
+      "id": "mkt:019f207d-336f-7aab-8c69-918e87726619",
+      "time": "2026-07-02 09:41:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum most-active contract extended intraday gains to 4.00%, trading at 397.45 yuan/gram."
+    },
+    {
+      "id": "4966294",
+      "time": "2026-07-02 09:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股跌超15%】智譜港股跌15.40%，報1781.00港元。"
+    },
+    {
+      "id": "4966293",
+      "time": "2026-07-02 09:41:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞威資管(01835.HK)今日復牌，盤初漲逾200%。公司此前公告，於2026年6月14日，公司、要約人訂立認購協議，公司有條件同意配發及發行共1.5億股H股，總代價1.2億港元。"
+    },
+    {
+      "id": "4966292",
+      "time": "2026-07-02 09:40:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化纖概念異動拉昇，尤夫股份、優彩資源雙雙漲停】化纖概念異動拉昇，尤夫股份、優彩資源雙雙漲停，ST海龍、寶麗迪、新鄉化纖、同益中、蒙泰高新、恆逸石化等跟漲。"
+    },
+    {
+      "id": "4966291",
+      "time": "2026-07-02 09:40:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "海南板塊短線走強，海南海藥4連板，海馬汽車漲停，神農種業、欣龍控股、康芝藥業、海峽股份跟漲。"
+    },
     {
       "id": "4966290",
       "time": "2026-07-02 09:40:12",
@@ -129216,180 +129368,6 @@
         "Importance 1"
       ],
       "text": "CNOOC Stock Price Hits 23-week Low — CNOOC shares decreased to 21.46 HKD, the lowest since January 2026. Over the past 4 weeks, CNOOC lost 20.21%, and in the last 12 months, it increased 19.6%."
-    },
-    {
-      "id": "4953872",
-      "time": "2026-06-25 09:44:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價跌至1215元】6月25日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所下調，老鳳祥報價1215元/克，較前一日下降26元；周生生報價1221元/克，較前一日下降19元；老廟黃金報價1238元/克，較前一日下降7元。"
-    },
-    {
-      "id": "4953871",
-      "time": "2026-06-25 09:44:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠城環保：網傳“聯合石化因油品質量問題拒籤合同”不屬實】惠城環保(300779)在互動平臺回覆投資者稱，網傳“聯合石化因油品質量問題拒籤合同”的說法不屬實。公司目前與聯合石化的合作處於正常推進中。公司20萬噸/年混合廢塑膠資源化綜合利用專案產出的產品為液化塑膠裂解氣和塑膠裂解輕油。公司生產出的產品經SGS檢測，產品質量符合要求。鑑於不同客戶不同裝置針對原料指標要求存在差異，公司現已建成加氫裝置，以提升產品品質。"
-    },
-    {
-      "id": "4953870",
-      "time": "2026-06-25 09:44:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報8681.00點。"
-    },
-    {
-      "id": "4953869",
-      "time": "2026-06-25 09:44:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅德里格斯稱委內瑞拉學校將暫時停課。"
-    },
-    {
-      "id": "4953868",
-      "time": "2026-06-25 09:43:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅德里格斯稱委內瑞拉發生了20次餘震。"
-    },
-    {
-      "id": "4953867",
-      "time": "2026-06-25 09:43:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "gn0980073【A股MicroLED板塊異動拉昇】維信諾觸及漲停，長信科技、TCL科技、天通股份、京東方A、木林森、惠柏新材跟漲。"
-    },
-    {
-      "id": "4953866",
-      "time": "2026-06-25 09:43:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "gn0980024【A股觸控式螢幕概念板塊異動拉昇】超聲電子觸及漲停，萬順新材、長信科技、京東方A、藍思科技、寶明科技、彩虹股份跟漲。"
-    },
-    {
-      "id": "4953865",
-      "time": "2026-06-25 09:43:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "gn0700957【A股摺疊屏板塊異動拉昇】維信諾觸及漲停，長信科技、TCL科技、安潔科技、斯迪克、信維通訊、京東方A跟漲。"
-    },
-    {
-      "id": "4953864",
-      "time": "2026-06-25 09:43:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "hy0270300【A股光學光電子板塊異動拉昇】維信諾觸及漲停，匯創達、長信科技、TCL科技、萬潤科技、光智科技、翰博高新跟漲。"
-    },
-    {
-      "id": "4953863",
-      "time": "2026-06-25 09:43:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "hy0270301【A股面板板塊異動拉昇】維信諾觸及漲停，匯創達、長信科技、TCL科技、翰博高新、京東方A、彩虹股份跟漲。"
-    },
-    {
-      "id": "4953862",
-      "time": "2026-06-25 09:42:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "鎧俠CEO：不會進行會損害供需平衡的資本支出。"
-    },
-    {
-      "id": "mkt:019efc71-b907-7dd8-b109-73763da15389",
-      "time": "2026-06-25 09:42:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "STAR 50 Index rose more than 2%; Baiwei Storage led constituents, up over 9%."
-    },
-    {
-      "id": "4953861",
-      "time": "2026-06-25 09:42:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯稱加拉加斯有建築物倒塌。"
-    },
-    {
-      "id": "4953860",
-      "time": "2026-06-25 09:42:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.08%，成分股中，佰維儲存漲9.06%，中科飛測漲6.74%，瀾起科技漲5.37%，盛美上海漲4.93%。"
-    },
-    {
-      "id": "mkt:019efc71-74c9-7dd8-b109-6d7a7c3d3a73",
-      "time": "2026-06-25 09:42:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share advanced packaging theme strengthened amid choppy trading. Changdian Technology recorded three limit-up sessions in four trading days and extended to a record high; Shengjian Technology, Guolin Technology, Xinyuan Micro and Zhongke Feice also rose."
-    },
-    {
-      "id": "4953859",
-      "time": "2026-06-25 09:41:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【淮安市委書記史志軍會見新開發銀行行長羅塞芙】據“淮安釋出”，近日，淮安市委書記史志軍會見新開發銀行行長羅塞芙，就加強溝通對接、推動合作共贏進行深入交流。史志軍表示，當前淮安正一手抓工業強市，一手抓城市功能品質提升，加快建設區域醫療高地，推動淮安大學正式獲批，同時加大水環境治理力度，彰顯“水城”特色，努力在服務區域發展中發揮更大作用。希望新開發銀行在基礎設施建設、生態環保等領域給予更多支援，拓展雙方合作空間。"
-    },
-    {
-      "id": "4953858",
-      "time": "2026-06-25 09:41:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【先進封裝概念反覆活躍 長電科技4天3板續創歷史新高】先進封裝概念反覆活躍，長電科技4天3板，續創歷史新高，總市值超1800億，盛劍科技、國林科技、芯源微、中科飛測、耐科裝備等漲幅靠前。"
-    },
-    {
-      "id": "mkt:019efc70-65e6-7dd8-b109-675121f0f357",
-      "time": "2026-06-25 09:41:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "Shenzhen Component Index rose more than 1%; Shanghai Composite's decline narrowed to 0.17%."
-    },
-    {
-      "id": "mkt:019efc70-2666-7dd8-b109-5a0c8a85cae6",
-      "time": "2026-06-25 09:41:08",
-      "tags": [
-        "MKT News",
-        "02391.HK",
-        "Impact bearish",
-        "02533.HK",
-        "02525.HK"
-      ],
-      "text": "Hong Kong autonomous-driving stocks slid in choppy trade: Tuya Smart (02391.HK) tumbled over 10%, Black Sesame Technologies (02533.HK) and Hesai-W (02525.HK) fell over 4%, CHINA'S WERIDE-W (00800.HK) declined nearly 4%."
     }
   ]
 }
