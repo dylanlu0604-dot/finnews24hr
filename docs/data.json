@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-02 12:34:46",
-  "count": 14017,
+  "updated": "2026-07-02 12:38:33",
+  "count": 14027,
   "items": [
+    {
+      "id": "4966560",
+      "time": "2026-07-02 12:37:53",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "瑞士央行：正如瑞士信貸危機期間所凸顯的，現行監管資本制度未能充分覆蓋外資參股相關風險。聯邦委員會的提案有針對性地應對了這些風險，主要影響瑞銀集團。根據當局的模擬計算並計入儲備金後，瑞銀現有資本已足以滿足擬議要求。"
+    },
+    {
+      "id": "mkt:019f211e-149f-7aab-8c6c-a7387de31f6e",
+      "time": "2026-07-02 12:37:27",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank said preliminary calculations show UBS, including its reserves, has sufficient capital to meet the proposed requirements."
+    },
+    {
+      "id": "mkt:019f211d-f3d0-7aab-8c6c-9c503acd27cf",
+      "time": "2026-07-02 12:37:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank said the Federal Council's proposals provide targeted responses to these risks and primarily affect UBS."
+    },
+    {
+      "id": "4966559",
+      "time": "2026-07-02 12:37:16",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本股市遭遇外資大規模拋售，投資者紛紛清倉科技股】截至6月27日當週，海外投資者以約三個月來最快的速度拋售日本股票，以便趁上季度股價大幅上漲後估值走高之際從科技股中獲利。人們對透過債務資助的人工智慧支出也日益感到擔憂。日本財政部週四公佈的資料顯示，非本國投資者在當週從日本股市淨撤出1.82萬億日元（約合112億美元），這是自3月28日以來最大的單週淨賣出額。 日經 225 指數上季度累計大漲 37.21%，受此影響，投資者上週紛紛在漲幅過高的科技股上落袋為安。 與此同時，日本長期國債外資連續第四周淨流出，流出規模合計 4937 億日元；境外投資者還拋售了 2.43 萬億日元短期國庫券。"
+    },
+    {
+      "id": "mkt:019f211d-db34-7aab-8c6c-9146206b7aa8",
+      "time": "2026-07-02 12:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank said that, as highlighted during the Credit Suisse crisis, the current regulatory capital framework has not adequately covered risks associated with foreign participation."
+    },
+    {
+      "id": "mkt:019f211c-ef11-7aab-8c6c-88c8cb1caf55",
+      "time": "2026-07-02 12:36:12",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "SWISS NATIONAL BANK said the Federal Council's proposal addresses the risks in a targeted way and primarily affects UBS."
+    },
+    {
+      "id": "mkt:019f211c-498e-7aab-8c6c-8796b4e3abfb",
+      "time": "2026-07-02 12:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank said that, as highlighted during the Credit Suisse crisis, the current regulatory capital framework does not fully cover risks associated with foreign participation."
+    },
+    {
+      "id": "4966558",
+      "time": "2026-07-02 12:34:47",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "瑞士央行：聯邦委員會特別建議，應強化銀行集團內母行的資本金要求。"
+    },
+    {
+      "id": "mkt:019f211b-9675-7aab-8c6c-7e9e6315f5a0",
+      "time": "2026-07-02 12:34:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Local officials said a Russian strike on Kyiv wounded 56 people, including two children."
+    },
+    {
+      "id": "mkt:019f211b-7625-7aab-8c6c-77038cfda78d",
+      "time": "2026-07-02 12:34:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Swiss National Bank said bank supervision must be further strengthened."
+    },
+    {
+      "id": "mkt:019f211b-5f1a-7aab-8c6c-6ec7f0401840",
+      "time": "2026-07-02 12:34:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says overall profitability of the Swiss banking sector improved in 2025."
+    },
+    {
+      "id": "mkt:019f211b-464c-7aab-8c6c-63bbca93e1ea",
+      "time": "2026-07-02 12:34:23",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank said UBS Group exceeds the fully applicable capital requirements under current too-big-to-fail (TBTF) rules in force through 2030."
+    },
+    {
+      "id": "4966557",
+      "time": "2026-07-02 12:34:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：必須進一步加強銀行業監管。"
+    },
+    {
+      "id": "4966556",
+      "time": "2026-07-02 12:34:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：2025年瑞士銀行業整體盈利能力有所改善。"
+    },
     {
       "id": "4966555",
       "time": "2026-07-02 12:33:41",
@@ -129125,42 +129257,6 @@
         "其他"
       ],
       "text": "D.A.戴維森將美光科技目標股價從1500美元上調至2000美元。"
-    },
-    {
-      "id": "4954123",
-      "time": "2026-06-25 12:38:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭：無人機襲擊了烏克蘭波爾塔瓦地區一處工業設施，火勢已被撲滅】烏克蘭當局稱，在波爾塔瓦地區，救援人員撲滅了一處因敵方無人機襲擊引發的工業設施火災。 據烏克蘭資訊社援引烏克蘭國家緊急服務部門在Telegram上的訊息報道稱，由於敵方襲擊，波爾塔瓦地區的一處工業設施發生火災。消防人員迅速趕到現場並撲滅了火災。"
-    },
-    {
-      "id": "4954122",
-      "time": "2026-06-25 12:37:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "SUSQUEHANNA：將美光目標價從1750美元上調至2000美元；將高通目標價從160美元上調至190美元。"
-    },
-    {
-      "id": "mkt:019efd11-4fd2-7dd8-b10c-b531ff7f03d0",
-      "time": "2026-06-25 12:37:10",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Susquehanna raises Qualcomm (QCOM.O) PT to $190 from $160."
-    },
-    {
-      "id": "mkt:019efd10-da92-7dd8-b10c-af65100041d5",
-      "time": "2026-06-25 12:36:40",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Susquehanna raised its price target for Micron Technology (MU.O) to $2,000 from $1,750."
     }
   ]
 }
