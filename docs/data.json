@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-02 11:35:19",
-  "count": 14003,
+  "updated": "2026-07-02 11:39:14",
+  "count": 14002,
   "items": [
+    {
+      "id": "mkt:019f20e7-9ada-7aab-8c6b-6d5397d4e7b8",
+      "time": "2026-07-02 11:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues national meteorological development 15th Five-Year Plan】China Meteorological Administration and the National Development and Reform Commission issued the National Meteorological Development 15th Five-Year Plan, setting targets through 2030. The plan commits to major breakthroughs in key meteorological science and technology, deep integration of artificial intelligence into meteorology, marked improvements in extreme-weather monitoring, forecasting and warning capabilities, and major progress on earth-system forecasting and a national earth-system data platform. It designates meteorological data as an important driver of economic and social development and calls for strengthened meteorological support for development and security, with the aim of raising China’s meteorological science, monitoring and forecasting to world-advanced and world-leading levels and increasing international influence by 2030."
+    },
+    {
+      "id": "4966482",
+      "time": "2026-07-02 11:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：透過收入分成與信貸支援模式，攜手AI雲服務商部署大規模多租戶AI工廠。"
+    },
+    {
+      "id": "mkt:019f20e7-2cca-7aab-8c6b-673d2eebd974",
+      "time": "2026-07-02 11:37:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Sources say Japanese authorities are gradually abandoning the practice of issuing advance warnings to reduce intervention risk and are shifting focus to targeting speculators. Any intervention would be timed not to a specific yen level but to prevent excessive yen depreciation."
+    },
+    {
+      "id": "4966481",
+      "time": "2026-07-02 11:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《全國氣象發展“十五五”規劃》印發】近日，中國氣象局聯合國家發展改革委印發《全國氣象發展“十五五”規劃》，《規劃》明確，到2030年，氣象關鍵科技取得重要突破，人工智慧在氣象領域深度融合應用，極端天氣監測預報預警能力顯著提升，地球系統預報和地球系統資料平臺建設取得重大進展，氣象資料要素成為經濟社會發展重要動能，統籌發展和安全氣象保障能力全面增強。我國氣象綜合實力和國際影響力大幅提升，氣象科技、監測、預報能力達到世界先進水平，氣象服務實現世界領先，成為全球氣象治理重要力量。"
+    },
+    {
+      "id": "mkt:019f20e6-809e-7aab-8c6b-5b5c2e9ab9fd",
+      "time": "2026-07-02 11:36:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【A-shares midday: ChiNext down >3%, STAR 50 down >4% as precious metals surge】A-shares opened lower and slid through the morning session. At midday the Shanghai Composite was down 0.9%, the Shenzhen Composite Index down 2.09% and the ChiNext Index down 3.47%; combined turnover topped 2.2 trillion yuan and more than 2,000 stocks were lower. The STAR 50 Index fell over 4% intraday. Precious-metals names outperformed, with several miners — including Xianglu Tungsten, Chifeng Gold, Zhaojin Gold and Shanjin International — hitting daily limit-ups. Humanoid-robot concept stocks also rallied, with over ten constituents at limit-up. Advanced packaging warmed, while semiconductor equipment continued to weaken; compute-hardware plays, glass-substrate and memory-chip sectors posted the largest declines."
+    },
+    {
+      "id": "4966480",
+      "time": "2026-07-02 11:36:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電科（蘇州）人工智慧產業股權基金成立，出資額20億】天眼查App顯示，7月1日，中電科（蘇州）人工智慧產業股權基金（有限合夥）成立，執行事務合夥人為中電科網信私募基金管理有限公司，出資額20億人民幣，經營範圍包括以私募基金從事股權投資、投資管理、資產管理等活動等。合夥人資訊顯示，該基金由中電科投資控股有限公司、蘇州市相城金融控股（集團）有限公司、央企戰略性新興產業發展基金有限責任公司、江蘇蘇州人工智慧產業專項母基金（有限合夥）等共同出資。"
+    },
+    {
+      "id": "4966479",
+      "time": "2026-07-02 11:36:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【微軟與新加坡Lightstorm公司合作，建設連線印度與東南亞的海底光纜】隨著科技公司競相在印度——這個全球增長最快的資料市場之一——擴充套件人工智慧和雲基礎設施，由微軟和電信初創公司Lightstorm組成的財團計劃鋪設一條連線印度、馬來西亞和新加坡的新海底光纜。該財團的其他成員包括塔塔通訊、新加坡電信、新加坡的東盟電纜船公司以及日本的NEC公司。這些公司週四表示，將鋪設I-2SEA海底光纜，以支援人工智慧、雲端計算和超大規模工作負載。各方未透露包括投資規模在內的更多細節。該網路全長3,600公里，將在印度南部安得拉邦的馬奇利帕特南設有登陸站，Meta和Alphabet 此前已宣佈將在該地建設資料中心。"
+    },
+    {
+      "id": "4966478",
+      "time": "2026-07-02 11:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱日本不再提前預警干預風險，轉而重點打擊投機客。"
+    },
+    {
+      "id": "4966477",
+      "time": "2026-07-02 11:35:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債拍賣投標倍數為3.13，低於6月份上次拍賣的3.53。"
+    },
+    {
+      "id": "te:markets:563621",
+      "time": "2026-07-02 11:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Trades Ease Slightly — Malaysian palm oil futures edged lower to below MYR 4,560 per tonne, giving back part of the prior session's gains as a stronger ringgit and weaker Dalian palm oil futures weighed on sentiment. Additional pressure came from crude oil prices, which fell to their lowest since February amid signs of progress in indirect U.S.-Iran talks, reducing support for biofuel-linked vegetable oils. Traders also remained cautious ahead of key monthly supply and demand reports due later this month. Still, losses were limited by firmer rival edible oils on the Chicago Board of Trade. On the fundamental side, Indonesia's new B50 biodiesel mandate officially took effect on July 1, supporting expectations of stronger domestic palm oil consumption. Meanwhile, official data showed Indonesia exported 8.92 million tonnes of crude and refined palm oil during January-May, up 7.4% yoy. Cargo surveyors noted that palm oil exports during June 1-25 rose 10.6%-11.1% from May, pointing to improving overseas demand."
+    },
     {
       "id": "mkt:019f20e4-ab05-7aab-8c6b-5705a1008057",
       "time": "2026-07-02 11:34:44",
@@ -128906,104 +129002,6 @@
         "Importance 1"
       ],
       "text": "Thailand Import Growth Stays Robust — Thailand’s imports rose 35.1% yoy in May 2026, slowing from a 45.0% surge in the prior month. The was roughly in line with market expectations of 25.1%, supported by resilient household demand and policy support aimed at boosting spending and capital outlays despite disruptions from the Middle East conflict."
-    },
-    {
-      "id": "te:economy:561717",
-      "time": "2026-06-25 11:39:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Thailand Export Growth Slows to 3-Month Low — Thailand’s exports grew 10.6% year-on-year in May 2026, easing sharply from a 23.1% surge in April, which marked the strongest growth in three months, and falling short of market forecasts of 11.6%. It was the softest increase in exports since February."
-    },
-    {
-      "id": "4954060",
-      "time": "2026-06-25 11:39:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北方銅業：將在充分調研市場基礎上決定覆銅板投建計劃】北方銅業(000737)在互動平臺表示，公司年產5萬噸高效能壓延銅箔和200萬平米覆銅板專案的覆銅板建設部分，因相關技術、人才儲備不足，為審慎起見，目前尚未投建。下一步，公司將在充分調研市場、科學論證的基礎上，決定覆銅板投建計劃。"
-    },
-    {
-      "id": "mkt:019efcdc-128c-7dd8-b10b-fde3bc0bd869",
-      "time": "2026-06-25 11:39:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's Ministry of Commerce said exports will continue to expand later this year."
-    },
-    {
-      "id": "mkt:019efcdc-064b-7dd8-b10b-f5952ad8732c",
-      "time": "2026-06-25 11:38:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 20-year government bond (JGB) auction bid-cover ratio was 2.97, the weakest since May 2025; May's bid-cover ratio was 4.01."
-    },
-    {
-      "id": "4954059",
-      "time": "2026-06-25 11:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國商務部：今年晚些時候泰國出口將繼續保持增長。"
-    },
-    {
-      "id": "4954058",
-      "time": "2026-06-25 11:38:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國高溫天氣造成數十萬只家禽死亡】法國農業組織估算，持續多日的高溫天氣造成該國數十萬只家禽死亡，死禽清運處理系統不堪負荷，兩大主產區的政府正考慮允許養殖戶就地掩埋死禽。"
-    },
-    {
-      "id": "4954057",
-      "time": "2026-06-25 11:38:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債拍賣認購倍數創2025年5月以來最低。"
-    },
-    {
-      "id": "4954056",
-      "time": "2026-06-25 11:37:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國5月出口同比增長10.6%(】泰國商務部公佈資料顯示，泰國5月基於海關資料的出口較上年同期增長10.6%，泰國5月基於海關資料的進口較上年同期增長35.1%。泰國5月海關清關貿易逆差57.1億美元。"
-    },
-    {
-      "id": "4954055",
-      "time": "2026-06-25 11:36:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江世寶：線控轉向尚未在已上市車型中廣泛應用】針對投資者關於“ 公司在“線控轉向”國內佔比多少，國標實施後對公司哪些增量 ？ ”浙江世寶6月25日在互動平臺回應稱，線控轉向尚未在已上市車型中廣泛應用。公司認為相關標準的實施將有助於線控轉向在高階自動駕駛汽車上的應用。公司是國內領先的線控轉向供應商，目前已經與數個主要客戶在共同推進開發專案。"
-    },
-    {
-      "id": "4954054",
-      "time": "2026-06-25 11:35:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債拍賣投標倍數為2.97，而12個月平均值為3.55。"
-    },
-    {
-      "id": "mkt:019efcd9-0418-7dd8-b10b-edd47ce901cf",
-      "time": "2026-06-25 11:35:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's Ministry of Commerce said May customs-cleared trade deficit was $5.71 bln, versus a Reuters survey estimate of a $6.12 bln deficit."
     }
   ]
 }
