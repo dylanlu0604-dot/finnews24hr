@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-03 02:17:06",
-  "count": 13847,
+  "updated": "2026-07-03 02:21:00",
+  "count": 13846,
   "items": [
+    {
+      "id": "te:markets:563865",
+      "time": "2026-07-03 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.58% — Top commodity gainers are Silver (2.58%), Gold (2.12%) and Platinum (1.58%). Biggest loser is Titanium (-2.11%)."
+    },
+    {
+      "id": "4968204",
+      "time": "2026-07-03 02:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團旗下的QTS放棄了位於弗吉尼亞州的大型資料中心。"
+    },
+    {
+      "id": "4968203",
+      "time": "2026-07-03 02:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據ICI統計，美國貨幣市場基金資產規模創下7.95萬億美元的歷史新高。"
+    },
+    {
+      "id": "4968202",
+      "time": "2026-07-03 02:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【默茨：德國改革計劃或將推動2027年GDP增速突破1%】據德國公共廣播公司ARD釋出的文字記錄顯示，德國總理弗里德里希·默茨表示，執政聯盟剛剛公佈的改革方案有望在2027年將德國GDP增速推升至1%以上。默茨表示：“我想打破我國經濟的低迷狀態。我們需要再次提振潛在增長率。我希望明年GDP增速的小數點前能重新出現‘1’。”今年4月，德國政府已將今年的GDP增長預期下調一半至0.5%，並將明年的增長預期下調至0.9%。"
+    },
+    {
+      "id": "mkt:019f240d-ae89-7aab-8c82-90ccc3be9b51",
+      "time": "2026-07-03 02:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Scholar warns Iran is normalizing control of Strait of Hormuz】Al Jazeera reported King's College London security studies lecturer Rob Geist‑Pinfold said that despite US efforts to restore normal shipping and a memorandum of understanding, Iran's de facto control of the Strait of Hormuz has not weakened and has in fact strengthened since the conflict. He said pre‑conflict traffic ran about 125 vessels a day, and shipping volumes remain noticeably below that level even after recent diplomatic efforts. Gulf states had already been seeking alternative trade routes before the fighting and that shift accelerated afterwards; Iran, through sustained actions, has created faits accomplis, consolidated its influence and deepened strategic entrenchment in the strait, leaving shipping companies with no practical choice but to adapt."
+    },
+    {
+      "id": "4968201",
+      "time": "2026-07-03 02:16:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨扭轉跌幅，交投於每桶71.58美元上方。"
+    },
     {
       "id": "4968200",
       "time": "2026-07-03 02:16:13",
@@ -127483,75 +127537,6 @@
         "Brent"
       ],
       "text": "【IMO pauses Strait of Hormuz ship evacuations after reported attack】International Maritime Organization (IMO) Secretary-General Arsenio Domingues said the IMO has paused an evacuation plan for vessels in the Strait of Hormuz, launched earlier this week, after a reported attack today on a vessel off the Omani coast in the Gulf of Oman. A UK maritime agency reported the attack; the vessel was not operating under the IMO evacuation framework. Domingues said the pause will allow the IMO to reconfirm the evacuation list and verify that all vessels in the area have necessary security protections."
-    },
-    {
-      "id": "4955761",
-      "time": "2026-06-26 02:20:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "原油期貨漲幅擴大，美國汽油價格上漲5%。"
-    },
-    {
-      "id": "te:markets:561988",
-      "time": "2026-06-26 02:20:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Gains by 2.22% — Top commodity gainers are Copper (2.22%), Silver (1.68%), Platinum (1.33%) and Gold (0.96%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%)."
-    },
-    {
-      "id": "mkt:019f0002-a7ec-7dd8-b124-187e0c605714",
-      "time": "2026-06-26 02:20:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Explosions heard in Kyiv】Around 9:00 p.m. local time on the 25th a reporter in Kyiv heard multiple strong explosions. Kyiv Mayor Klitschko and the city military administration said on social media that Russian forces launched ballistic missiles at Kyiv and that the city’s air-defence system is operating."
-    },
-    {
-      "id": "4955760",
-      "time": "2026-06-26 02:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔傳出爆炸聲】當地時間25日晚9時許，記者在烏克蘭首都基輔聽到多次強烈爆炸聲。基輔市市長克利奇科和基輔市軍事管理局在社交媒體上說，俄軍向基輔市發射了彈道導彈，基輔市防空系統正在執行。（新華社）"
-    },
-    {
-      "id": "mkt:019f0002-3792-7dd8-b124-15a4889c4b9a",
-      "time": "2026-06-26 02:19:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's GOOLSBEE welcomed the move to simplify the Federal Reserve's policy statement."
-    },
-    {
-      "id": "4955759",
-      "time": "2026-06-26 02:18:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：我支援精簡美聯儲貨幣政策宣告。"
-    },
-    {
-      "id": "4955758",
-      "time": "2026-06-26 02:17:18",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。"
     }
   ]
 }

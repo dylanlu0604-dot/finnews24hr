@@ -1,7 +1,61 @@
 {
   "date": "2026-07-03",
-  "count": 191,
+  "count": 197,
   "items": [
+    {
+      "id": "te:markets:563865",
+      "time": "2026-07-03 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.58% — Top commodity gainers are Silver (2.58%), Gold (2.12%) and Platinum (1.58%). Biggest loser is Titanium (-2.11%)."
+    },
+    {
+      "id": "4968204",
+      "time": "2026-07-03 02:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團旗下的QTS放棄了位於弗吉尼亞州的大型資料中心。"
+    },
+    {
+      "id": "4968203",
+      "time": "2026-07-03 02:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據ICI統計，美國貨幣市場基金資產規模創下7.95萬億美元的歷史新高。"
+    },
+    {
+      "id": "4968202",
+      "time": "2026-07-03 02:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【默茨：德國改革計劃或將推動2027年GDP增速突破1%】據德國公共廣播公司ARD釋出的文字記錄顯示，德國總理弗里德里希·默茨表示，執政聯盟剛剛公佈的改革方案有望在2027年將德國GDP增速推升至1%以上。默茨表示：“我想打破我國經濟的低迷狀態。我們需要再次提振潛在增長率。我希望明年GDP增速的小數點前能重新出現‘1’。”今年4月，德國政府已將今年的GDP增長預期下調一半至0.5%，並將明年的增長預期下調至0.9%。"
+    },
+    {
+      "id": "mkt:019f240d-ae89-7aab-8c82-90ccc3be9b51",
+      "time": "2026-07-03 02:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Scholar warns Iran is normalizing control of Strait of Hormuz】Al Jazeera reported King's College London security studies lecturer Rob Geist‑Pinfold said that despite US efforts to restore normal shipping and a memorandum of understanding, Iran's de facto control of the Strait of Hormuz has not weakened and has in fact strengthened since the conflict. He said pre‑conflict traffic ran about 125 vessels a day, and shipping volumes remain noticeably below that level even after recent diplomatic efforts. Gulf states had already been seeking alternative trade routes before the fighting and that shift accelerated afterwards; Iran, through sustained actions, has created faits accomplis, consolidated its influence and deepened strategic entrenchment in the strait, leaving shipping companies with no practical choice but to adapt."
+    },
+    {
+      "id": "4968201",
+      "time": "2026-07-03 02:16:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨扭轉跌幅，交投於每桶71.58美元上方。"
+    },
     {
       "id": "4968200",
       "time": "2026-07-03 02:16:13",
