@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-03 05:53:05",
-  "count": 13858,
+  "updated": "2026-07-03 05:56:58",
+  "count": 13859,
   "items": [
+    {
+      "id": "4968332",
+      "time": "2026-07-03 05:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄聯邦安全會議副主席梅德韋傑夫：芬蘭已解除本國境內禁止部署核武器的禁令。這對芬蘭人意味著什麼？只有一點微小變化：如今芬蘭已被列入俄羅斯核打擊目標清單。"
+    },
+    {
+      "id": "mkt:019f24d3-d0b4-7aab-8c85-5d5af5bc95d0",
+      "time": "2026-07-03 05:54:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Trump: Musk \"not happy\" with my decision on an electric-vehicle mandate."
+    },
+    {
+      "id": "4968331",
+      "time": "2026-07-03 05:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：馬斯克對自己有關電動汽車強制法規的決議並不滿意。"
+    },
+    {
+      "id": "mkt:019f24d2-8823-7aab-8c85-51e08f09c1b1",
+      "time": "2026-07-03 05:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he wrote Elon Musk a note congratulating him on becoming a 'trillionaire'."
+    },
     {
       "id": "4968330",
       "time": "2026-07-03 05:52:10",
@@ -127645,30 +127681,6 @@
         "國際"
       ],
       "text": "【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。"
-    },
-    {
-      "id": "mkt:019f00c7-cbc9-7dd8-b126-9a74e1d7c946",
-      "time": "2026-06-26 05:55:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Trump administration on Wednesday notified Congress of a planned sale of $700 mln in jet engines to Turkey."
-    },
-    {
-      "id": "4955889",
-      "time": "2026-06-26 05:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府週三通知國會，擬向土耳其出售價值 7 億美元的航空發動機。"
-    },
-    {
-      "id": "4955888",
-      "time": "2026-06-26 05:53:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）"
     }
   ]
 }
