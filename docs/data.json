@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-02 19:53:59",
-  "count": 13782,
+  "updated": "2026-07-02 19:58:01",
+  "count": 13792,
   "items": [
+    {
+      "id": "4967561",
+      "time": "2026-07-02 19:56:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立新能源：向特定物件發行股票申請獲同意】立新能源公告，公司向特定物件發行股票的註冊申請獲得中國證監會同意。根據批覆，本次發行應嚴格按照報送深圳證券交易所的申報檔案和發行方案實施。批覆自同意註冊之日起12個月內有效。公司董事會將在規定期限內辦理本次發行相關事宜，並及時履行資訊披露義務。"
+    },
+    {
+      "id": "4967560",
+      "time": "2026-07-02 19:55:39",
+      "tags": [
+        "行業"
+      ],
+      "text": "乘聯分會：6月特斯拉中國批發銷量89,091輛。"
+    },
+    {
+      "id": "mkt:019f22af-31a9-7aab-8c76-ba0fc1d03061",
+      "time": "2026-07-02 19:55:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "CPCA: Tesla's wholesale sales in China in June were 89,091 units."
+    },
+    {
+      "id": "mkt:019f22ae-b126-7aab-8c76-b57677d4cd5b",
+      "time": "2026-07-02 19:55:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "WTI",
+        "Hang Seng Index"
+      ],
+      "text": "【CPCA: High oil prices, supply optimization and exports drove June NEV passenger-car growth】CPCA identifies three core drivers of strong June new-energy passenger-vehicle growth. First, sustained high retail fuel prices—tightened by Strait of Hormuz shipping disruption—pushed running costs for internal-combustion cars sharply higher, accelerating consumer switching to NEVs and creating rigid demand support. Second, OEMs accelerated ICE-to-NEV production shifts and released capacity, lifting wholesale volumes MoM by over 10% in June and speeding the supply-side response. Third, elevated international oil prices triggered a surge in overseas demand for low-energy, high-value NEVs; Chinese domestic brands’ mature electrification and cost advantages are substituting for ICEs abroad, expanding exports and reinforcing domestic production and sales."
+    },
+    {
+      "id": "4967559",
+      "time": "2026-07-02 19:55:00",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：6月新能源乘用車較強增長的核心驅動因素：油價倒掛、供給最佳化與出口共振】新能源乘用車較強增長的核心驅動因素：油價倒掛、供給最佳化與出口共振。1、高油價加速消費結構轉換。受霍爾木茲海峽通航受阻影響，國內成品油零售價持續維持高位，傳統燃油車使用成本大幅上升，直接抑制了燃油車消費意願。在此背景下，終端需求加速向新能源車型切換，形成對新能源銷量的剛性支撐；2、車企排產最佳化與產能釋放。主流車企主動推動燃油車轉型新能源，推動6月批售環比增幅升至10%以上，供給端響應速度顯著加快；3、海外市場爆發式增長。國際油價高企，海外消費者對低能耗、高價效比的新能源車型需求激增。自主品牌憑藉成熟的電動化技術和突出的成本優勢，在海外市場對燃油車形成強替代效應，出口規模穩步擴大，進一步反哺國內產銷量。"
+    },
+    {
+      "id": "4967558",
+      "time": "2026-07-02 19:54:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "證監會同意福建馬坑礦業股份有限公司首次公開發行股票。"
+    },
+    {
+      "id": "mkt:019f22ae-9566-7aab-8c76-ab13756efec1",
+      "time": "2026-07-02 19:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSRC approved Fujian Makeng Mining Co., Ltd.'s initial public offering."
+    },
+    {
+      "id": "4967557",
+      "time": "2026-07-02 19:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙大赦行動在申請稽核階段已有60萬移民進入正規經濟領域。"
+    },
+    {
+      "id": "4967556",
+      "time": "2026-07-02 19:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "比利時官員：比利時計劃斥資31億歐元採購國家先進地空導彈系統（NASAMS）和“天空遊騎兵”（Skyranger）防空系統。"
+    },
+    {
+      "id": "4967555",
+      "time": "2026-07-02 19:54:11",
+      "tags": [
+        "行業",
+        "焦點"
+      ],
+      "text": "【乘聯分會：6月全國新能源乘用車廠商批發銷量預估達到151萬輛，同比增長22%】2026年6月，全國新能源乘用車廠商批發銷量預估達到151萬輛，同比增長22%，環比增長12%，實現兩位數雙增長，標誌著新能源板塊在經歷前期調整後已進入明確的復甦通道。這一增速顯著高於同期整體車市大盤，新能源車成為拉動乘用車市場增長的核心引擎。"
+    },
+    {
+      "id": "mkt:019f22ad-e676-7aab-8c76-a0caf1e76813",
+      "time": "2026-07-02 19:54:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CPCA: June China new-energy passenger vehicle manufacturers' wholesale deliveries estimated at 1.51 million units, +22% YoY】CPCA estimates June 2026 China new-energy passenger vehicle manufacturers' wholesale deliveries at 1.51 million units, up 22% YoY and 12% MoM. The pace outpaced the overall auto market, making new-energy vehicles the primary driver of passenger vehicle growth and signaling the sector has entered a clear recovery after earlier adjustment."
+    },
+    {
+      "id": "mkt:019f22ad-c4b3-7aab-8c76-9a42e9420de2",
+      "time": "2026-07-02 19:54:01",
+      "tags": [
+        "MKT News",
+        "RTX.N",
+        "Impact bullish",
+        "RHM.DE",
+        "LMT.N"
+      ],
+      "text": "Belgian official: Belgium plans to spend €3.1 billion to procure NASAMS surface-to-air missile systems and Skyranger air-defence systems."
+    },
+    {
+      "id": "4967554",
+      "time": "2026-07-02 19:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三亞颱風預警升級】三亞市氣象臺2026年07月02日19時30分變更颱風藍色預警訊號為颱風黃色預警訊號：隨著熱帶低壓逐漸靠近三亞市，未來24小時內，三亞市沿海和陸地風力將逐漸加大，平均風力將達6－7級，陣風8－10級，並伴有強雷電和強降水，請有關單位和人員繼續做好防範工作，建議幼兒園停課。"
+    },
     {
       "id": "4967553",
       "time": "2026-07-02 19:52:47",
@@ -126988,32 +127115,6 @@
         "公司"
       ],
       "text": "【大中礦業：“大中轉債”6月30日起恢復轉股】大中礦業公告稱，因實施2025年度權益分派，“大中轉債”（債券程式碼：127070）自2026年6月17日起暫停轉股，暫停期限至權益分派股權登記日（6月29日）止。此外，因部分募投專案變更，“大中轉債”附加回售條款生效，回售申報期間（6月22日至6月26日）暫停轉股。“大中轉債”暫停轉股截止日以回售申報期最後一日或權益分派股權登記日孰晚為準，自6月30日起恢復轉股。"
-    },
-    {
-      "id": "4955183",
-      "time": "2026-06-25 19:57:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渤海汽車：收到上交所恢復重大資產重組稽核通知】渤海汽車公告稱，公司擬發行股份及支付現金購買北京海納川持有的北京北汽模塑51%股權、海納川安道拓（廊坊）座椅51%股權、廊坊萊尼線束系統50%股權並募集配套資金。2026年5月31日，該事項因財報更新中止稽核。截至6月25日，公司完成加期財務資料更新並申請恢復稽核，同日收到上交所同意通知。本次交易尚需上交所稽核透過及證監會同意註冊，能否獲批及時間均不確定。"
-    },
-    {
-      "id": "4955182",
-      "time": "2026-06-25 19:57:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【楚天龍釋出eSIM安全融合通訊方案】6月24日，在2026年上海行動通訊大會（MWC）現場，楚天龍股份有限公司（簡稱“楚天龍”）研發中心總經理董逢華代表公司釋出《楚天龍AIoT智慧終端專用eSIM安全融合通訊方案》，以硬體金融級安全標準，為物聯網裝置打通穩定、安全、高效的通訊通路。"
-    },
-    {
-      "id": "4955181",
-      "time": "2026-06-25 19:54:42",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲：道指期貨漲0.19%，標普500指數期貨漲0.66%，納指期貨漲漲2.08%。\n②德國DAX指數漲0.63%，英國富時100指數漲0.45%，法國CAC40指數漲0.49%，歐洲斯托克50指數漲0.70%。\n③WTI原油跌1.12%，報69.55美元/桶。布倫特原油跌1.07%，報73.08美元/桶。\n④美國5月PCE資料即將公佈。市場普遍預期，美國5月核心PCE價格指數將環比上漲0.3%，同比漲幅上升至3.4%。\n⑤美聯儲轉向引發市場顛簸，富國銀行：莫追漲，靜待回撥。\n⑥摩根大通上調標普500目標至7800點，維持美股看漲預期。\n⑦美光美股盤前張超17%，訊息面上，美光業績超預期，摩根士丹利將美光科技的目標價由1050美元上調至1200美元，維持“增持”評級。\n⑧IBM美股盤前漲超3%，訊息面上，該公司推出全球首款亞1奈米晶片技術，新晶片設計效能最高提升50%，能效比其2奈米節點晶片提高70%。\n⑨閃迪美股盤前漲超15%，花旗集團將其目標股價從2025美元上調至2500美元。"
     }
   ]
 }
