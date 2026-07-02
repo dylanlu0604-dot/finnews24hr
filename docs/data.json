@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-03 05:41:24",
-  "count": 13833,
+  "updated": "2026-07-03 05:45:17",
+  "count": 13845,
   "items": [
+    {
+      "id": "4968320",
+      "time": "2026-07-03 05:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我認為他們幾乎答應了我們提出的所有條件。"
+    },
+    {
+      "id": "mkt:019f24ca-8163-7aab-8c85-278ddfe0513a",
+      "time": "2026-07-03 05:44:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump (on Iran): I think they have almost agreed to everything we wanted."
+    },
+    {
+      "id": "mkt:019f24ca-5ce6-7aab-8c85-1dd6b9d0f4fc",
+      "time": "2026-07-03 05:44:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said Venezuela's oil sector is performing \"unprecedentedly well\" and that his policies helped restore the country's energy output."
+    },
+    {
+      "id": "mkt:019f24ca-5a32-7aab-8c85-154fb9b7ce62",
+      "time": "2026-07-03 05:44:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he will not sign housing bill before signing election bill】President Trump declined to commit to signing a bipartisan housing bill that passed Congress more than a week ago, saying he will not sign it until Congress sends the contested election measure, the SAVE America Act, to his desk. Trump called the SAVE America Act the most important bill now and for years to come. The measure would require voters to show photo ID at the polls and provide proof of citizenship when registering. He said the housing bill contains many Democratic provisions he objects to and that he would rather sign no bill until SAVE is enacted."
+    },
+    {
+      "id": "4968319",
+      "time": "2026-07-03 05:44:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿爾及利亞舉行議會選舉】當日，阿爾及利亞議會舉行選舉，超2470萬名阿爾及利亞登記選民參與投票。本次選舉共有9854名候選人角逐國民議會（眾議院）的407個席位。（新華社）"
+    },
+    {
+      "id": "mkt:019f24ca-20a5-7aab-8c85-0b2da5c032b0",
+      "time": "2026-07-03 05:44:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the situation with Iran is about denuclearization rather than war, and that US actions remain focused on eliminating Iran's nuclear threat."
+    },
+    {
+      "id": "4968318",
+      "time": "2026-07-03 05:44:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗還剩部分導彈，我們可以將其全部摧毀。"
+    },
+    {
+      "id": "mkt:019f24c9-579d-7aab-8c85-0391d9ac956b",
+      "time": "2026-07-03 05:43:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran has no navy and no air force."
+    },
+    {
+      "id": "4968317",
+      "time": "2026-07-03 05:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗新領導層：我認為這實質上就是政權更迭。"
+    },
+    {
+      "id": "mkt:019f24c9-43a1-7aab-8c84-fbb4f37b57c1",
+      "time": "2026-07-03 05:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he gets along well with Iran's new leadership."
+    },
+    {
+      "id": "4968316",
+      "time": "2026-07-03 05:43:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗新領導人更加理性。"
+    },
+    {
+      "id": "4968315",
+      "time": "2026-07-03 05:41:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電網運營巨頭PJM互聯公司（PJM Interconnection LLC）因為高溫高熱天氣而釋出二級電網緊急警報。"
+    },
     {
       "id": "4968314",
       "time": "2026-07-03 05:40:39",
