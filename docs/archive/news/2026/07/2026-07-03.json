@@ -1,7 +1,50 @@
 {
   "date": "2026-07-03",
-  "count": 388,
+  "count": 393,
   "items": [
+    {
+      "id": "4968314",
+      "time": "2026-07-03 05:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉石油產業如今發展狀況空前向好。"
+    },
+    {
+      "id": "4968313",
+      "time": "2026-07-03 05:40:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：目標是實現去核，而非發動戰爭。"
+    },
+    {
+      "id": "mkt:019f24c4-e720-7aab-8c84-f0a8e69b1f57",
+      "time": "2026-07-03 05:38:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said artificial intelligence is more important than the internet."
+    },
+    {
+      "id": "4968312",
+      "time": "2026-07-03 05:37:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我依舊會推行關稅政策，但如今的力度會更大。"
+    },
+    {
+      "id": "mkt:019f24c4-2396-7aab-8c84-ef671cb11f1f",
+      "time": "2026-07-03 05:37:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the housing bill contains many Democratic-leaning provisions and he is inclined not to sign it unless a voter ID requirement is added."
+    },
     {
       "id": "4968311",
       "time": "2026-07-03 05:36:46",
