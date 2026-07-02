@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-03 05:49:12",
-  "count": 13851,
+  "updated": "2026-07-03 05:53:05",
+  "count": 13858,
   "items": [
+    {
+      "id": "4968330",
+      "time": "2026-07-03 05:52:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨天剛和美光科技通了話，這家企業現在勢頭正盛。"
+    },
+    {
+      "id": "mkt:019f24d1-04a9-7aab-8c85-4fa14aca039f",
+      "time": "2026-07-03 05:51:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "President Trump said he believes Musk will donate SpaceX (SPCX.O) shares to a \"Trump account\"."
+    },
+    {
+      "id": "4968329",
+      "time": "2026-07-03 05:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及SpaceX股票捐贈事宜：認為馬斯克會這麼做。"
+    },
+    {
+      "id": "mkt:019f24cf-e5ea-7aab-8c85-4167f6b67834",
+      "time": "2026-07-03 05:50:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US President Trump said the US has completely defeated Iran militarily, that Iran still has some missiles, and that the US could destroy them all."
+    },
+    {
+      "id": "4968328",
+      "time": "2026-07-03 05:50:15",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱讚美光和戴爾。"
+    },
+    {
+      "id": "4968327",
+      "time": "2026-07-03 05:49:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：馬斯克成為萬億富豪後，我給他寫過一張便條。"
+    },
+    {
+      "id": "4968326",
+      "time": "2026-07-03 05:49:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：自從馬斯克成為萬億富豪以來，我還沒跟他說過話。"
+    },
+    {
+      "id": "4968325",
+      "time": "2026-07-03 05:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和埃隆・馬斯克關係十分融洽。"
+    },
+    {
+      "id": "mkt:019f24ce-5f05-7aab-8c85-3e1ff2791b19",
+      "time": "2026-07-03 05:48:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he has a very good relationship with Elon Musk."
+    },
     {
       "id": "4968324",
       "time": "2026-07-03 05:48:28",
@@ -127589,27 +127669,6 @@
         "其他"
       ],
       "text": "【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）"
-    },
-    {
-      "id": "4955887",
-      "time": "2026-06-26 05:52:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：美國政府要求OpenAI分階段釋出最新模型GPT 5.6】據知情人士透露，在美國總統特朗普的政府提出要求後，OpenAI將分階段釋出其最新人工智慧模型GPT 5.6。OpenAI執行長Sam Altman週三在員工問答會上講話，這和一份備忘錄透露出以上資訊。OpenAI將首先向少數合作伙伴釋出GPT 5.6有限預覽，Altman表示，這是儘快廣泛釋出該模型的最佳路徑。 Altman在週四的一份備忘錄中告訴員工，在GPT 5.6預覽期間，政府將“逐個客戶批准訪問許可權”。Altman在備忘錄中稱：“我們已向美國政府明確表示，這不是我們偏好的長期模式，並將與政府和業內合作，為未來的產品釋出尋求更可持續的方案。”分階段釋出的要求源於OpenAI與美國國家網路總監辦公室以及白宮科技政策辦公室的溝通。"
-    },
-    {
-      "id": "te:markets:562005",
-      "time": "2026-06-26 05:52:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency."
     }
   ]
 }
