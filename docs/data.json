@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-03 04:56:40",
-  "count": 13793,
+  "updated": "2026-07-03 05:00:33",
+  "count": 13792,
   "items": [
+    {
+      "id": "mkt:019f24a1-a1e3-7aab-8c84-468726e098d4",
+      "time": "2026-07-03 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (Jun) | actual 427360000000.00006B | previous 426989999999.99994B"
+    },
+    {
+      "id": "4968278",
+      "time": "2026-07-03 04:58:50",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【新興市場外匯市場受美國疲軟就業資料及美元走弱提振】週四，在美國公佈的就業資料表明勞動力市場降溫幅度超出預期後，多數新興市場貨幣對美元走強。該資料降低了美聯儲在10月份加息的機率，並提振了風險資產。MSCI新興市場貨幣指數漲幅一度達到0.3%，但在尾盤調整前漲幅有所收窄。"
+    },
     {
       "id": "te:markets:563884",
       "time": "2026-07-03 04:51:18",
@@ -127045,34 +127065,6 @@
         "MKT News"
       ],
       "text": "A British official said King Charles will not reside at Buckingham Palace after renovation work completes next year."
-    },
-    {
-      "id": "4955878",
-      "time": "2026-06-26 05:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國查爾斯國王 2024 至 2025 財年繳納個人稅款 1290 萬英鎊。"
-    },
-    {
-      "id": "4955877",
-      "time": "2026-06-26 04:58:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（6月25日）紐約尾盤，現貨黃金漲0.64%，報4024.97美元/盎司。COMEX黃金期貨漲0.78%，報4040.10美元/盎司。現貨白銀漲0.73%，報57.8327美元/盎司。COMEX白銀期貨跌0.38%，報58.290美元/盎司。COMEX銅期貨漲2.03%，報6.1335美元/磅。現貨鉑金漲1.08%，現貨鈀金漲1.43%。"
-    },
-    {
-      "id": "te:markets:561998",
-      "time": "2026-06-26 04:56:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher on Banks and Miners Gains — The S&P/TSX Composite Index rose 0.3% to close at 34,850 on Thursday, supported by gains in the financial and mining sectors. Although oil prices edged higher after a cargo ship was struck by an unidentified projectile off the Omani coast, they remained near pre-conflict lows, easing inflation concerns and supporting financial stocks and the broader index. TD Bank rose 0.9%, RBC gained 0.4%, and BMO added 0.9%. Gold prices also edged higher, supporting mining shares, with Agnico Eagle rising 1.7%. Meanwhile, a renewed wave of volatility in technology stocks on Wall Street weighed on Canadian tech shares. Shopify fell 2.6%, Constellation Software lost 3.6%, and Celestica shed 0.7%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and changes in energy prices."
     }
   ]
 }
