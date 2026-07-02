@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-02 09:56:02",
-  "count": 14024,
+  "updated": "2026-07-02 09:59:48",
+  "count": 14023,
   "items": [
+    {
+      "id": "4966330",
+      "time": "2026-07-02 09:59:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國Celltrion製藥公司：將投資2萬億韓元，在忠清道建設全球蛋白填充劑及終灌裝（PFS）生產設施。"
+    },
+    {
+      "id": "mkt:019f208c-eef3-7aab-8c69-f81ea3e6cef8",
+      "time": "2026-07-02 09:58:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share photoresist stocks rebounded intraday. Xingye Shares posted a \"near-limit-up\", marking four limit-ups in five sessions; Baihehua recorded two limit-ups in three sessions. Tianlong Group, Nanda Optoelectronics, Tongcheng New Materials, Gelinda and Xilong Science also rallied."
+    },
+    {
+      "id": "4966329",
+      "time": "2026-07-02 09:58:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠概念震盪回升 興業股份5天4板】光刻膠概念盤中震盪回升，興業股份上演“準地天板”，走出5天4板，百合花3天2板，天龍集團、南大光電、彤程新材、格林達、西隴科學衝高。"
+    },
+    {
+      "id": "4966328",
+      "time": "2026-07-02 09:58:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "減速器板塊短線拉昇，韶能股份漲停, 宏昌科技、盛德鑫泰漲超10%，瑞迪智驅、瑜欣電子、光洋股份、豐光精密、易實精密等跟漲。"
+    },
+    {
+      "id": "4966327",
+      "time": "2026-07-02 09:57:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.86%，成分股中，中科飛測跌7.19%，華海清科跌6.47%，瀾起科技跌5.66%，中微公司跌4.69%。"
+    },
+    {
+      "id": "te:markets:563599",
+      "time": "2026-07-02 09:57:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Trades Near 7-Month Lows — Platinum futures traded around $1,600 an ounce, hovering near their lowest level since November 2025, as a stronger US dollar outweighed easing inflation concerns amid improving global energy supply. Oil prices returned near pre-war levels as crude shipments through the Strait of Hormuz continued to recover, while signs of progress in US-Iran peace talks further eased concerns over potential supply disruptions. However, the US dollar remained broadly firmed, making dollar-denominated commodities such as the platinum more expensive for buyers of other currencies. Despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month, markets continued to price in more than a 60% chance of a September rate hike as he reaffirmed the Fed's commitment to restoring price stability, while strong US data underscored the economy’s resilience. Meanwhile, the platinum market remains structurally tight, as output from major producers South Africa and Russia remains constrained."
+    },
+    {
+      "id": "mkt:019f208b-9050-7aab-8c69-f6a54a22c929",
+      "time": "2026-07-02 09:57:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fluorochemicals sector outperformed, with Heyuan Gas posting a second consecutive daily limit-up; Tianyu Bio, Binhua Co. and Lianhua Technology hit daily upper limits, while Yongtai Technology, Jinshi Resources, Lianchuang Co., CSSC Special Gas and Haohua Technology also advanced."
+    },
+    {
+      "id": "4966326",
+      "time": "2026-07-02 09:56:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【預製菜概念震盪反彈，ST龍大、天地線上雙雙漲停】預製菜概念震盪反彈，ST龍大、天地線上雙雙漲停，中水漁業、國聯水產、晶雪節能、*ST福成、紫燕食品、大東方等跟漲。"
+    },
+    {
+      "id": "4966325",
+      "time": "2026-07-02 09:56:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1%至6130.90點。"
+    },
+    {
+      "id": "4966324",
+      "time": "2026-07-02 09:56:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股石藥集團一度漲10%，現漲9%。"
+    },
+    {
+      "id": "4966323",
+      "time": "2026-07-02 09:55:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止09:55，兩市100只個股漲停。"
+    },
     {
       "id": "4966322",
       "time": "2026-07-02 09:55:27",
@@ -129118,122 +129226,6 @@
         "0700.HK"
       ],
       "text": "【Chuanhuan Technology: Downstream adoption of rubber/plastic pipeline applications accelerating】Chuanhuan Technology said multiple domestic and overseas leading customers have recently conducted technical exchanges, on-site audits and project coordination, with cooperation covering compute liquid cooling, energy-storage thermal management and automotive pipeline applications. In the compute liquid cooling segment most partners have completed qualification certification and projects are progressing steadily; Tencent recently completed an on-site audit and received certification, and subsequent project integration is proceeding as planned. A company representative said projects across segments are advancing in an orderly rhythm and downstream matching for rubber/plastic pipeline applications is accelerating."
-    },
-    {
-      "id": "4953910",
-      "time": "2026-06-25 09:59:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨價格下跌逾1美元，至2月27日以來最低水平。"
-    },
-    {
-      "id": "mkt:019efc80-72ec-7dd8-b10a-050eafbd97ae",
-      "time": "2026-06-25 09:58:56",
-      "tags": [
-        "MKT News",
-        "03986.HK",
-        "Impact bullish",
-        "09903.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong-listed chip stocks ended higher after choppy trading: Zhaoyi Innovation (03986.HK) rose more than 9%, Tianshu Zhixin (09903.HK) rose over 8%, Lanqi Technology (06809.HK) gained over 6% and SMIC (00981.HK) climbed more than 3%."
-    },
-    {
-      "id": "mkt:019efc80-5efd-7dd8-b109-f9fc085dccb7",
-      "time": "2026-06-25 09:58:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC warns vessels using Strait of Hormuz routes not approved by Tehran will be targeted】The Islamic Revolutionary Guard Corps warned international shipping on Wednesday that any new Strait of Hormuz transit routes established without Tehran’s coordination are unacceptable and dangerous, and threatened direct action against vessels that ignore its orders. The IRGC said only Iran-designated routes are safe, and its navy added all vessels seeking transit must coordinate with Iranian forces on VHF channel 16 — a requirement that places Iranian military permission at the centre of commercial navigation through the chokepoint."
-    },
-    {
-      "id": "4953909",
-      "time": "2026-06-25 09:58:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3990美元/盎司，日內跌0.47%。"
-    },
-    {
-      "id": "4953908",
-      "time": "2026-06-25 09:58:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前5個月上海實現進出口2.1萬億元 增長17.9%】從上海海關獲悉，今年前5個月，上海市累計實現進出口2.1萬億元，增長17.9%，外貿執行穩中向好。其中5月，上海市進出口4204.9億元，同比增長11.5%，連續16個月保持增長態勢；出口2000.1億元，增長26.7%；進口2204.8億元，增長0.6%。"
-    },
-    {
-      "id": "4953907",
-      "time": "2026-06-25 09:57:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀘州老窖集團等投資新設金嘉企管合夥企業】企查查APP顯示，近日，成都金嘉企業管理合夥企業（有限合夥）成立，經營範圍包含：企業總部管理；企業管理；資訊諮詢服務（不含許可類資訊諮詢服務）；企業管理諮詢。企查查股權穿透顯示，該企業由瀘州老窖集團有限責任公司旗下四川金舵投資有限責任公司等共同持股。"
-    },
-    {
-      "id": "4953906",
-      "time": "2026-06-25 09:57:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯訊儀器漲超5%，股價突破2700元。"
-    },
-    {
-      "id": "mkt:019efc7e-f67d-7dd8-b109-f0de3c80994a",
-      "time": "2026-06-25 09:57:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share gaming sector rose in choppy trade; Giant Network hit the daily limit-up. ZQGame, Bingchuan Network, 37 Interactive Entertainment, Perfect World and G-bits also advanced."
-    },
-    {
-      "id": "4953905",
-      "time": "2026-06-25 09:57:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【遊戲板塊震盪上揚，巨人網路漲停】遊戲板塊震盪上揚，巨人網路漲停，中青寶、冰川網路、三七互娛、完美世界、吉位元跟漲。"
-    },
-    {
-      "id": "mkt:019efc7e-8a94-7dd8-b109-e8c91f04e135",
-      "time": "2026-06-25 09:56:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year government bond yield fell 4bps to 2.625%."
-    },
-    {
-      "id": "4953904",
-      "time": "2026-06-25 09:56:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯24日宣佈，該國進入緊急狀態。（新華社）"
-    },
-    {
-      "id": "4953903",
-      "time": "2026-06-25 09:56:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌4.0個基點至2.625%。"
     }
   ]
 }
