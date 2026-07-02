@@ -1,7 +1,35 @@
 {
   "date": "2026-07-03",
-  "count": 188,
+  "count": 191,
   "items": [
+    {
+      "id": "4968200",
+      "time": "2026-07-03 02:16:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行設定比索官方匯率為1美元兌17.4725比索。"
+    },
+    {
+      "id": "te:markets:563864",
+      "time": "2026-07-03 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 4.10% — Top commodity gainers are Natural Gas EU (4.10%), Natural Gas UK (4.06%) and Germany Natural Gas THE (2.22%). Biggest losers are Propane (-1.58%), Heating Oil (-1.31%), Gasoline (-1.18%) and Crude Oil WTI (-0.18%). Meanwhile Brent Crude Oil was little changed."
+    },
+    {
+      "id": "4968199",
+      "time": "2026-07-03 02:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織宣佈“洪迪厄斯”號相關漢坦病毒疫情結束】世界衛生組織2日宣佈與“洪迪厄斯”號郵輪相關的漢坦病毒疫情結束，此前最後一名密接者已完成隔離且病毒檢測結果呈陰性。世衛組織總幹事譚德塞當天在該機構例行新聞釋出會上通報說，“今天，“洪迪厄斯”號郵輪上最後一名漢坦病毒密接者結束隔離，病毒檢測結果呈陰性且已回家”，自5月25日以來無新增病例，世衛組織認為本輪漢坦病毒疫情已經結束。（新華社）"
+    },
     {
       "id": "4968198",
       "time": "2026-07-03 02:10:38",

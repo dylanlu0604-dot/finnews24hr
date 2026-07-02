@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-03 02:13:10",
-  "count": 13855,
+  "updated": "2026-07-03 02:17:06",
+  "count": 13847,
   "items": [
+    {
+      "id": "4968200",
+      "time": "2026-07-03 02:16:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行設定比索官方匯率為1美元兌17.4725比索。"
+    },
+    {
+      "id": "te:markets:563864",
+      "time": "2026-07-03 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 4.10% — Top commodity gainers are Natural Gas EU (4.10%), Natural Gas UK (4.06%) and Germany Natural Gas THE (2.22%). Biggest losers are Propane (-1.58%), Heating Oil (-1.31%), Gasoline (-1.18%) and Crude Oil WTI (-0.18%). Meanwhile Brent Crude Oil was little changed."
+    },
+    {
+      "id": "4968199",
+      "time": "2026-07-03 02:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織宣佈“洪迪厄斯”號相關漢坦病毒疫情結束】世界衛生組織2日宣佈與“洪迪厄斯”號郵輪相關的漢坦病毒疫情結束，此前最後一名密接者已完成隔離且病毒檢測結果呈陰性。世衛組織總幹事譚德塞當天在該機構例行新聞釋出會上通報說，“今天，“洪迪厄斯”號郵輪上最後一名漢坦病毒密接者結束隔離，病毒檢測結果呈陰性且已回家”，自5月25日以來無新增病例，世衛組織認為本輪漢坦病毒疫情已經結束。（新華社）"
+    },
     {
       "id": "4968198",
       "time": "2026-07-03 02:10:38",
@@ -127524,128 +127552,6 @@
         "國際"
       ],
       "text": "【凱投宏觀：金和白銀結束連跌勢頭，但黃金仍有進一步下跌的空間】黃金和白銀結算價雙雙走高，結束了兩者連續四天的跌勢。凱投宏觀的Hamad Hussain表示，儘管今天收盤上漲，但黃金仍有進一步下跌的空間，他不認為4,000美元是底部。“我們認為，黃金市場可能會擠出更多過度投機的成分，“他說。他將此歸因於AI/科技股繼續成為投機者首選的賺錢工具，以及市場認為由Kevin Warsh領導的美聯儲將在利率問題上保持偏緊縮立場的觀點。近月黃金期貨收盤上漲1%，至每盎司4,030.50美元，而白銀收盤上漲0.5%，至每盎司58.348美元。"
-    },
-    {
-      "id": "4955757",
-      "time": "2026-06-26 02:16:04",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行公佈比索官方匯率：1 美元兌 17.5260 墨西哥比索。"
-    },
-    {
-      "id": "mkt:019efffe-dbdb-7dd8-b124-0ffd1cc4a43e",
-      "time": "2026-06-26 02:15:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Fed's GOOLSBEE said inf may rise before wages increase."
-    },
-    {
-      "id": "4955756",
-      "time": "2026-06-26 02:15:33",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：脹可能在薪資上漲之前先行攀升。"
-    },
-    {
-      "id": "4955755",
-      "time": "2026-06-26 02:15:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：薪資並非衡量通脹的理想先行指標。"
-    },
-    {
-      "id": "mkt:019efffe-71c7-7dd8-b124-004965f2f293",
-      "time": "2026-06-26 02:15:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Goolsbee said wages are not a good leading indicator of inflation."
-    },
-    {
-      "id": "mkt:019efffe-4bb0-7dd8-b123-fd2495bad3ea",
-      "time": "2026-06-26 02:15:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "GOOLSBEE said a rise in core CPI driven by services would be more concerning than one driven by goods or oil-related items."
-    },
-    {
-      "id": "te:markets:561987",
-      "time": "2026-06-26 02:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Rises by 4.94% — Top commodity gainers are Gasoline (4.94%), Heating Oil (4.44%), Natural gas (3.12%), Crude Oil WTI (2.18%) and Brent Crude Oil (1.87%). Biggest losers are Methanol (-1.77%), Germany Natural Gas THE (-1.32%) and Natural Gas EU (-0.66%)."
-    },
-    {
-      "id": "4955754",
-      "time": "2026-06-26 02:14:40",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：若核心消費者物價指數上漲由服務業驅動，相比商品或石油相關品類上漲，這會更令我擔憂。"
-    },
-    {
-      "id": "te:markets:561986",
-      "time": "2026-06-26 02:14:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline is up by 5% — Gasoline increased 5% to 3.0258 USD/Gal"
-    },
-    {
-      "id": "4955753",
-      "time": "2026-06-26 02:14:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：認同沃什關於前瞻指引的觀點。"
-    },
-    {
-      "id": "mkt:019efffc-7a64-7dd8-b123-f7f1237e4f57",
-      "time": "2026-06-26 02:13:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes."
     }
   ]
 }
