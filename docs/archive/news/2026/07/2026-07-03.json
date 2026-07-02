@@ -1,7 +1,55 @@
 {
   "date": "2026-07-03",
-  "count": 342,
+  "count": 347,
   "items": [
+    {
+      "id": "4968286",
+      "time": "2026-07-03 05:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Citadel（城堡）旗下戰術交易基金至6月份（上半年）資產管理規模增長14.3%。"
+    },
+    {
+      "id": "4968285",
+      "time": "2026-07-03 05:10:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電網運營巨頭PJM互聯公司（PJM Interconnection LLC）更新炎熱天氣的運營情況。針對7月3日釋出“最大化發電警報”。現階段針對7月3日釋出電網負荷管理警告。針對炎熱天氣的（用電）警報有效期至少將持續至7月4日。"
+    },
+    {
+      "id": "mkt:019f24a9-dae6-7aab-8c84-5f04bf54f7eb",
+      "time": "2026-07-03 05:08:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Record heat to persist across much of US; about 163 mln affected, DOE requests backup generation】The NWS said on July 2 that record heat will continue across much of the US Midwest and East, with heat-index readings up to 115°F (about 46°C). US media report roughly 163 million people are affected. The US Department of Energy has asked multiple regions to bring diesel and natural-gas backup generators online and to reduce reliance on the public grid amid rising electricity demand and grid stress."
+    },
+    {
+      "id": "4968284",
+      "time": "2026-07-03 05:08:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高溫席捲美國大部分地區 約1.63億人受影響】美國國家氣象局網站2日釋出訊息說，破紀錄的高溫天氣將持續籠罩美國中部和東部大部分地區，最高體感溫度可達115華氏度（約46攝氏度）。另據美國媒體報道，約有1.63億人受到高溫影響。高溫加劇美國多地供電壓力。美能源部要求多地啟用柴油機、天然氣發電機等備用發電裝置，減少使用公共電網。（新華社）"
+    },
+    {
+      "id": "mkt:019f24a9-5fb5-7aab-8c84-5402e94312fe",
+      "time": "2026-07-03 05:08:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.52% at 100.861 on 2nd】The dollar index, measuring the dollar against six major currencies, fell 0.52% to 100.861 at the New York close. EUR/USD 1.1433 (prior 1.1380); GBP/USD 1.3348 (prior 1.3278). USD/JPY 161.05 (prior 162.53); USD/CHF 0.8035 (prior 0.8092); USD/CAD 1.4182 (prior 1.4216); USD/SEK 9.6679 (prior 9.7300)."
+    },
     {
       "id": "4968282",
       "time": "2026-07-03 05:07:47",
