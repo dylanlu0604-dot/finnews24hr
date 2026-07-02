@@ -1,7 +1,48 @@
 {
   "date": "2026-07-03",
-  "count": 149,
+  "count": 153,
   "items": [
+    {
+      "id": "mkt:019f23ed-dc29-7aab-8c82-1992384e141d",
+      "time": "2026-07-03 01:43:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "British Columbia premier said the agreement does not require the province to support Alberta's pipeline proposal, but acknowledged British Columbia lacks constitutional authority to veto the pipeline."
+    },
+    {
+      "id": "4968176",
+      "time": "2026-07-03 01:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大不列顛哥倫比亞省省長埃比：該協議並不意味著不列顛哥倫比亞省必須支援阿爾伯塔省的管道專案，但該省承認其在憲法層面無權否決該管道專案。"
+    },
+    {
+      "id": "mkt:019f23ec-83e6-7aab-8c82-16d852c424b4",
+      "time": "2026-07-03 01:42:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fars News reported the Iranian president dismissed criticism over supplying 20 mln barrels of oil to a company, calling it an internal disclosure issue, and said he would be willing to supply 100 mln barrels if a similar case occurred."
+    },
+    {
+      "id": "mkt:019f23ec-24a2-7aab-8c82-09168bfc44a0",
+      "time": "2026-07-03 01:41:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "According to Fars News, Iran's president said supporting the armed forces is his duty and he will back them with all available force."
+    },
     {
       "id": "mkt:019f23ea-06ae-7aab-8c82-00fb19e00d53",
       "time": "2026-07-03 01:39:27",

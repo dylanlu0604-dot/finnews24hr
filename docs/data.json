@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-03 01:41:56",
-  "count": 13896,
+  "updated": "2026-07-03 01:45:51",
+  "count": 13894,
   "items": [
+    {
+      "id": "mkt:019f23ed-dc29-7aab-8c82-1992384e141d",
+      "time": "2026-07-03 01:43:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "British Columbia premier said the agreement does not require the province to support Alberta's pipeline proposal, but acknowledged British Columbia lacks constitutional authority to veto the pipeline."
+    },
+    {
+      "id": "4968176",
+      "time": "2026-07-03 01:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大不列顛哥倫比亞省省長埃比：該協議並不意味著不列顛哥倫比亞省必須支援阿爾伯塔省的管道專案，但該省承認其在憲法層面無權否決該管道專案。"
+    },
+    {
+      "id": "mkt:019f23ec-83e6-7aab-8c82-16d852c424b4",
+      "time": "2026-07-03 01:42:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fars News reported the Iranian president dismissed criticism over supplying 20 mln barrels of oil to a company, calling it an internal disclosure issue, and said he would be willing to supply 100 mln barrels if a similar case occurred."
+    },
+    {
+      "id": "mkt:019f23ec-24a2-7aab-8c82-09168bfc44a0",
+      "time": "2026-07-03 01:41:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "According to Fars News, Iran's president said supporting the armed forces is his duty and he will back them with all available force."
+    },
     {
       "id": "mkt:019f23ea-06ae-7aab-8c82-00fb19e00d53",
       "time": "2026-07-03 01:39:27",
@@ -127998,54 +128039,6 @@
         "其他"
       ],
       "text": "紐約聯邦儲備銀行在6月25日的常備回購操作中，全額接受了申報的200萬美元申請。"
-    },
-    {
-      "id": "4955708",
-      "time": "2026-06-26 01:45:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：亞馬遜與中科創達達成協議，面向整車廠合作開發車載智慧語音人工智慧方案。"
-    },
-    {
-      "id": "4955707",
-      "time": "2026-06-26 01:44:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：亞馬遜 Alexa 與中科創達宣佈達成合作協議。"
-    },
-    {
-      "id": "4955706",
-      "time": "2026-06-26 01:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國首相斯塔默的繼任者安迪·伯納姆計劃在曼徹斯特新設 “權力下放事務部”。"
-    },
-    {
-      "id": "4955705",
-      "time": "2026-06-26 01:43:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：工黨執政機構已經制定了選舉新黨魁的時間表，英國首相斯塔默的繼任者安迪·伯納姆最早可能於7月17日上任。"
-    },
-    {
-      "id": "4955704",
-      "time": "2026-06-26 01:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震188人遇難1520人傷】委內瑞拉方面釋出的最新統計顯示，委內瑞拉北部地震6月24日的接連強震已造成至少188人遇難、1520人受傷，此外還有200人被困。#委內瑞拉地震已致188人遇難# 委內瑞拉全國代表大會主席豪爾赫·羅德里格斯稱，截至目前統計共有250棟建築物受損毀，主要集中在拉瓜伊拉州。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019effe0-1d54-7dd8-b122-f6c8f0aa7c6d",
-      "time": "2026-06-26 01:42:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BBC reported Labour’s ruling body has set a timetable to elect a new leader; Andy Burnham could succeed Prime Minister Starmer as early as July 17."
     }
   ]
 }
