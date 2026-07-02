@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-02 14:18:39",
-  "count": 14016,
+  "updated": "2026-07-02 14:22:40",
+  "count": 14018,
   "items": [
+    {
+      "id": "4966696",
+      "time": "2026-07-02 14:21:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔鋼鐵董事長：公司荷蘭部分遺留資產，在監管認可的時間框架內目前無法找到可行的解決方案。"
+    },
+    {
+      "id": "mkt:019f217c-4120-7aab-8c6e-6f9058d75b5e",
+      "time": "2026-07-02 14:20:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 5.50 points (-0.06%) at 8,717.40 on Thursday, July 2."
+    },
+    {
+      "id": "4966695",
+      "time": "2026-07-02 14:20:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【休閒食品概念震盪反彈，ST絕味漲停】休閒食品概念震盪反彈，ST絕味漲停，洽洽食品、有友食品、元祖股份、鹽津鋪子、青島食品、三隻松鼠等漲幅居前。"
+    },
+    {
+      "id": "mkt:019f217c-0a19-7aab-8c6e-643ecdc88165",
+      "time": "2026-07-02 14:20:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Swiss June CPI m/m due in 10 minutes."
+    },
+    {
+      "id": "4966694",
+      "time": "2026-07-02 14:19:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔鋼鐵董事長：公司正就制定塔塔鋼鐵荷蘭業務的發展路線，與荷蘭政府及相關利益相關方展開積極溝通。"
+    },
+    {
+      "id": "4966693",
+      "time": "2026-07-02 14:19:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元走高 交易員警惕日本當局干預風險】日元兌美元週四小幅走強，市場猜測日本可能會在官員沒有發出任何警告的情況下干預匯率。日元兌美元上漲0.23%，至162.21。此前報道稱，日本可能不會事先向市場透露其干預意圖，不再像4月30日發出警告後進行干預。報道稱，這種新策略可能有效消除做空日元的投機性押注。日本最高外匯事務官員三村淳週三接受彭博採訪時，並未明確闡述財務省的標準匯率立場，比如做好準備隨時採取“大膽行動”。鑑於週四晚些時候即將公佈的美國就業資料可能影響美元兌日元匯率，這種沉默令交易員們保持警惕。另一個風險因素是美國週五逢假日，這將導致外匯市場交易量減少，並有可能放大幹預措施的影響。"
+    },
+    {
+      "id": "4966692",
+      "time": "2026-07-02 14:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔塔鋼鐵董事長：荷蘭運營環境已變得頗具挑戰性，當地部分環境法規嚴於歐盟標準。"
+    },
+    {
+      "id": "4966691",
+      "time": "2026-07-02 14:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古茗增資至4.4億】天眼查App顯示，近日，古茗科技集團有限公司發生工商變更，註冊資本由4.32億人民幣增至4.4億人民幣。該公司成立於2018年6月，法定代表人為王雲安，經營範圍包括餐飲管理、食品銷售、新鮮水果批發零售等，由 Guming（Hong Kong）Limited 全資持股。"
+    },
     {
       "id": "te:markets:563646",
       "time": "2026-07-02 14:15:36",
@@ -63,6 +132,15 @@
         "國際"
       ],
       "text": "【三星高管團隊到訪聯想總部，或涉及儲存晶片長期供應合作】韓國三星電子高管團隊到訪聯想集團總部。一位接近雙方合作的人士表示，此次三星高層團隊到訪，雙方交流內容或涉及儲存晶片供應、AI硬體協同以及長期合作機制等議題。不過，截至發稿，聯想集團與三星方面暫未就具體合作內容作出公開回應。（新浪科技）"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607023791758285",
+      "time": "2026-07-02 14:14:14",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本政府經濟顧問長瀨：日本央行應該以每六個月一次的速度加息】日本政府經濟顧問長瀨稱，日本央行應該以每六個月一次的速度加息，這種速度不會傷害國內投資。適度的日本央行加息對糾正日元過度貶值至關重要。預計日本央行將在今年年底加息，然後在明年夏季再次加息，之後將暫停加息。"
     },
     {
       "id": "4966686",
@@ -129133,66 +129211,6 @@
         "其他"
       ],
       "text": "【英國財政大臣力挺伯納姆 稱不會“預先揣測”對其職務有何決定】英國財政大臣雷切爾·裡夫斯接受BBC採訪時表示，她支援安迪·伯納姆成為下一任首相。她補充道，“我知道，無論將來誰擔任首相和財政大臣，面對的經濟都比我兩年前接手時更加強勁”。當被問及媒體報道伯納姆將給她提供一個級別較低的大臣職位時，裡夫斯表示：“我不會預先揣測新首相的決定。我支援安迪。我認為他會是一位優秀的首相，但那是他的決定，不是我來決定”。"
-    },
-    {
-      "id": "4954252",
-      "time": "2026-06-25 14:21:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念股部分回暖，通化金馬漲停】創新藥概念股部分回暖，通化金馬漲停，科興製藥漲超10%，百利天恆、凱萊英、美迪西漲幅居前。"
-    },
-    {
-      "id": "mkt:019efd70-f2c4-7dd8-b10e-c0e9ff71cd3d",
-      "time": "2026-06-25 14:21:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE presidential adviser Gargash said imposing a new geopolitical reality on Gulf states through \"aggression\" will not bring stability, and the same applies to the Strait of Hormuz."
-    },
-    {
-      "id": "te:economy:561767",
-      "time": "2026-06-25 14:21:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Saudi Arabia Trade Surplus Widens in April — Saudi Arabia’s trade surplus expanded to SAR 25.2 billion in April 2026, more than doubling from SAR 12.7 billion in the same month last year, as exports increased while imports declined. Exports rose 9.3% from a year earlier to SAR 101.2 billion, mainly due to an 11.7% increase in oil exports, which represented 68.8% of total exports. Non-oil exports, meanwhile, dropped 7.3% amid a decline in plastic and rubber products (-12.4%), which accounted for 17.1% of total non-oil exports. China remained the leading destination for Saudi exports, making up 15.2% of the total, followed by the UAE (10.6%) and South Korea (9.7%). Imports decreased 5.2% to SAR 75.7 billion amid a sharp drop in transport equipment imports (-34.1%). China also remained the largest source of imports, accounting for 29.4% of total imports, followed by the UAE (7.9%) and the US (7.2%)."
-    },
-    {
-      "id": "4954251",
-      "time": "2026-06-25 14:20:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋總統顧問加爾加什表示，因“侵略行為”而給海灣國家強加新的地緣政治現實無法帶來穩定，並稱這一論斷同樣適用於霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019efd6f-ee65-7dd8-b10e-be364f346804",
-      "time": "2026-06-25 14:20:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian S&P/ASX 200 fell 58.80 points (-0.67%) to 8,749.60 at the close on Thursday, June 25."
-    },
-    {
-      "id": "mkt:019efd6f-2e9c-7dd8-b10e-b02574c04a85",
-      "time": "2026-06-25 14:19:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An HKEX filing shows Hangzhou Lingka Technology Co., Ltd. has submitted a listing application."
-    },
-    {
-      "id": "4954250",
-      "time": "2026-06-25 14:18:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州靈卡科技股份有限公司向港交所提交上市申請書】據港交所檔案：杭州靈卡科技股份有限公司向港交所提交上市申請書。"
     }
   ]
 }
