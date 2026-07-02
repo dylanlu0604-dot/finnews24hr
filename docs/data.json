@@ -1,7 +1,187 @@
 {
-  "updated": "2026-07-02 19:01:59",
-  "count": 13825,
+  "updated": "2026-07-02 19:05:56",
+  "count": 13830,
   "items": [
+    {
+      "id": "mkt:019f2280-6514-7aab-8c75-8a178a9a85a2",
+      "time": "2026-07-02 19:04:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【June 2026 new A-share accounts 2.8646 mln, +73.99% YoY】Shanghai Stock Exchange data: June 2026 new A-share accounts totaled 2.8646 mln, up 3.59% MoM and 73.99% YoY. YTD new accounts through June totaled 20.1614 mln, up 60.04% YoY."
+    },
+    {
+      "id": "mkt:019f2280-6426-7aab-8c75-875d965ccbae",
+      "time": "2026-07-02 19:04:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "XAUUSD"
+      ],
+      "text": "【Germany launches large-scale reform; 34-point plan targets pensions, taxes and labor】Chancellor Merz on Thursday unveiled a 34-point package of pension, tax and labour reforms, aiming for parliamentary approval of the main elements by year-end. On pensions, the plan implements recommendations to add capital-market-based elements to the state pension system and to gradually raise the retirement age over the coming decades. Tax changes raise allowances and ease progressivity for middle incomes; two-child working families would receive more than €600 (about $685) in annual income-tax relief. The measures are projected to cut household tax burdens by roughly €10bn a year and would be partly financed by lifting the top marginal rate from 45% to 47% on annual taxable income above €280,000. Industrial and technology support will target autos, chemicals and pharma, cleantech, machinery, batteries, semiconductors and AI, and the Germany Fund investment framework will be expanded into a strategic vehicle focused on resilience, energy and raw materials."
+    },
+    {
+      "id": "4967463",
+      "time": "2026-07-02 19:04:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【時空科技：股價異常波動 業績虧損且重組存不確定性】時空科技公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。6月22日以來累計漲73.16%，期間三次觸及異常波動指標，最新市盈率為負、市淨率10.08倍，顯著高於行業的3.12倍。2025年營收3.47億元，同比增1.85%，淨虧損2.44億元；2026年Q1營收0.58億元，同比降18.13%，淨虧損679.56萬元。公司擬收購嘉合勁威100%股權，尚需稽核註冊，存在不確定性。"
+    },
+    {
+      "id": "mkt:019f227f-d63e-7aab-8c75-781cc3aa466e",
+      "time": "2026-07-02 19:03:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India's petroleum minister said the country needs to expand oil and fuel storage capacity."
+    },
+    {
+      "id": "4967462",
+      "time": "2026-07-02 19:03:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：印度需提高石油與燃料儲備能力。"
+    },
+    {
+      "id": "mkt:019f227f-55d5-7aab-8c75-77e3b0461205",
+      "time": "2026-07-02 19:03:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Financial Conduct Authority (FCA) said if the plan secures support, payments are expected to commence in 2027."
+    },
+    {
+      "id": "mkt:019f227f-25be-7aab-8c75-6f9df6f45ffe",
+      "time": "2026-07-02 19:03:05",
+      "tags": [
+        "MKT News",
+        "LUV.N",
+        "Impact bullish",
+        "UAL.O",
+        "DAL.N"
+      ],
+      "text": "BMO raised price targets for US airlines: Southwest Airlines (LUV.N) to $58.50 from $45; United Airlines (UAL.O) to $157.50 from $130; American Airlines (AAL.O) to $19.50 from $13.50; Delta Air Lines (DAL.N) to $105 from $80."
+    },
+    {
+      "id": "4967461",
+      "time": "2026-07-02 19:03:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST國中：控股股東一致行動人擬增持1億至2億元】*ST國中公告，公司控股股東的一致行動人上海鵬啟邦計劃自本公告披露之日起6個月內，透過上海證券交易所股票交易系統以集中競價交易方式增持公司A股，合計增持金額不低於人民幣1億元（含），不超過人民幣2億元（含），資金來源為自有資金或自籌資金。"
+    },
+    {
+      "id": "4967460",
+      "time": "2026-07-02 19:02:57",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【2026年6月A股新開戶286.46萬戶 同比增長73.99% 2026年累計新開2016.14萬戶】上交所資料顯示，2026年6月A股新開戶286.46萬戶，環比增長3.59%，同比2025年6月的164.64萬戶增長73.99%。2026年累計新開2016.14萬戶，同比增長60.04%。"
+    },
+    {
+      "id": "4967459",
+      "time": "2026-07-02 19:02:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰奧智慧：股東史鳳華已減持0.8861%】佰奧智慧公告，股東史鳳華本次減持計劃期限已屆滿，其於2026年4月24日—2026年6月16日透過集中競價交易減持81.91萬股，減持均價69.27元/股，減持股數佔總股本比例0.8861%；減持後持有403.17萬股，佔總股本比例4.3615%。"
+    },
+    {
+      "id": "4967458",
+      "time": "2026-07-02 19:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠髮電力：上半年獲取新能源專案建設指標96萬千瓦】綠髮電力公告，2026年上半年，公司積極推進“兩個轉移”戰略目標落地，多措並舉獲取新能源專案建設指標96萬千瓦，其中風電46萬千瓦、儲能50萬千瓦。具體明細如下：風電專案位於天津，裝機規模46萬千瓦，佔比47.92%；儲能專案分別位於內蒙古20萬千瓦、山西30萬千瓦，佔比分別為52.08%。天津新能源專案建設指標目前尚處於公示期，最終核准結果存在不確定性。"
+    },
+    {
+      "id": "mkt:019f227e-a424-7aab-8c75-611a4eac2b31",
+      "time": "2026-07-02 19:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Interval Open-Ended Mixed Fund will suspend trading from market open on July 3, 2026 until 10:30 that day."
+    },
+    {
+      "id": "4967457",
+      "time": "2026-07-02 19:02:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年7月3日開盤起至當日10:30停牌。"
+    },
+    {
+      "id": "4967456",
+      "time": "2026-07-02 19:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩通科技：控股股東夏軍減持股份致權益變動觸及5%整數倍】浩通科技公告稱，公司控股股東、實際控制人夏軍於2026年6月30日至7月1日，透過集中競價和大宗交易合計減持403.87萬股，佔總股本1.8227%。本次權益變動後，夏軍持股降至7755.42萬股，佔比35%，觸及5%整數倍。此次減持是履行此前計劃，且不會導致公司控制權變化，目前減持計劃尚未實施完畢。"
+    },
+    {
+      "id": "mkt:019f227e-7949-7aab-8c75-5dd68a1a6557",
+      "time": "2026-07-02 19:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huatai-PineBridge Innovative Drugs ETF to suspend trading from market open on July 3, 2026 until 10:30 on the same day."
+    },
+    {
+      "id": "4967455",
+      "time": "2026-07-02 19:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "創新藥ETF華泰柏瑞：將於2026年7月3日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "mkt:019f227e-3f83-7aab-8c75-5120fb51beb6",
+      "time": "2026-07-02 19:02:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Huatai-PineBridge’s China–Korea Semiconductor ETF will be suspended from market open on July 3, 2026 until 10:30 a.m. Beijing time."
+    },
+    {
+      "id": "mkt:019f227e-364c-7aab-8c75-4c70e9ef9140",
+      "time": "2026-07-02 19:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FCA: A higher court has ordered suspension of parts of an auto finance programme."
+    },
+    {
+      "id": "4967454",
+      "time": "2026-07-02 19:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "中韓半導體ETF華泰柏瑞：將於2026年7月3日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "4967453",
+      "time": "2026-07-02 19:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "WTI近月價差短暫轉為輕微正價差，幅度為每桶負1美分，這是去年11月以來首次出現這一形態。"
+    },
     {
       "id": "4967452",
       "time": "2026-07-02 19:01:08",
@@ -127223,154 +127403,6 @@
         "Importance 1"
       ],
       "text": "Sensex Advances for 2nd Day — India’s BSE Sensex pared early gains to close marginally up at 77,100.5 on Thursday, its second straight session of advances, as investors reduced positions in late trade ahead of a long weekend. Market sentiment continued to be supported by the ongoing pullback in crude oil prices amid signs of progress in US-Iran talks and improved traffic in the key Strait of Hormuz. Buying activity was concentrated in banking and automobile stocks, contrasting with weakness in the IT sector and metals. In equities, IndiGo rallied 4.6%, Mahindra & Mahindra gained 4.2% and Maruti added 3.8%, ranking among the top gainers. Banks continued to benefit from the RBI’s decision to allow loans against foreign currency deposits. State Bank of India and ICICI Bank gained 1% each, Kotak Mahindra Bank rose 0.7% and HDFC Bank added 0.4%. On the flip side, Power Grid (-2.4%), BEL (-1.7%), Tech Mahindra (-1.7%), Infosys (-1.4%) and Bharti Airtel (-1.4%) posted the biggest losses."
-    },
-    {
-      "id": "mkt:019efe75-1dbd-7dd8-b118-62c564544e55",
-      "time": "2026-06-25 19:05:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil central bank: inflation expectations rose sharply."
-    },
-    {
-      "id": "4955056",
-      "time": "2026-06-25 19:05:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【恆逸石化：股票連續三日漲幅偏離值超20% 提示多項風險】恆逸石化公告稱，公司股票在2026年6月23日至25日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬於異常波動。經核查，公司前期資訊無更正補充，未發現影響股價的未公開重大資訊，經營正常，但主要原材料原油價格有不確定性風險。公司及控股股東、實控人無應披露未披露事項，異常波動期間無買賣公司股票行為。此外，“恆逸轉2”承諾不贖回期限即將到期，在建專案存在市場需求不及預期等風險。"
-    },
-    {
-      "id": "4955055",
-      "time": "2026-06-25 19:05:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【白宮協助馬克・扎克伯格與谷歌執行長躲過參議院質詢】白宮出面斡旋，試圖讓Meta執行長馬克・扎克伯格與谷歌執行長桑達爾・皮查伊免於出席一場即將召開的參議院聽證會；該聽證會將圍繞兩家企業平臺對兒童安全造成的影響展開問詢。其中四名訊息人士稱，司法委員會主席、愛荷華州共和黨參議員查克・格拉斯利已達成折中方案：下月聽證會暫定於 7 月 28 日舉行，屆時將由兩大科技巨頭旗下 Instagram、YouTube 業務負責人代替首席高管出席作證。"
-    },
-    {
-      "id": "mkt:019efe74-6538-7dd8-b118-5cee677f2339",
-      "time": "2026-06-25 19:05:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) will launch a registered app-store program later this year to simplify app installation."
-    },
-    {
-      "id": "mkt:019efe73-ff48-7dd8-b118-52930a0d745b",
-      "time": "2026-06-25 19:04:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O): a change of address for the Google Play store in the UK has drawn concern from the UK Competition and Markets Authority (CMA)."
-    },
-    {
-      "id": "4955054",
-      "time": "2026-06-25 19:04:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新聚思美股盤前漲超10%】新聚思美股盤前漲超10%，現報311.908美元。"
-    },
-    {
-      "id": "4955053",
-      "time": "2026-06-25 19:04:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【外資看好中國 中國詞元呼叫量連續7周霸榜全球】今年的夏季達沃斯會場，處處都能感受到科技創新的氣息，諸多創新技術正走出實驗室，滲透進製造業、能源系統、醫療體系乃至日常生活中。參會嘉賓也表示，中國企業在AI應用方面領跑全球。 德勤中國執行長劉明華表示，中國token（詞元）呼叫量連續7周霸榜全球。麥肯錫中國區主席倪以理表示：“為什麼中國公司走得更快，是因為他們對於科技的信任感，對科技的好奇，對科技的擁抱，我認為是比任何一個地方的企業都快。”敦豪全球貨運大中華區執行長艾若馨表示：“中國貢獻了全球約60%的電動車銷量。”（央視財經）"
-    },
-    {
-      "id": "4955052",
-      "time": "2026-06-25 19:04:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船特氣：公司股票將於6月26日復牌】中船特氣公告，公司股票將於2026年6月26日開市起復牌。經公司自查並向公司控股股東及實際控制人書面核實，截至2026年6月25日，公司不存在應披露而未披露的重大事項。"
-    },
-    {
-      "id": "mkt:019efe73-875e-7dd8-b118-4be4d200d405",
-      "time": "2026-06-25 19:04:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O): UK developers will be eligible from June 30 for reduced Google Play service fees and an option to use independent billing."
-    },
-    {
-      "id": "4955051",
-      "time": "2026-06-25 19:04:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【致歐科技：擬使用不超過1億元資金回購公司股份】致歐科技公告，擬使用自有資金及銀行回購專項貸款以集中競價交易方式回購公司部分社會公眾股份。回購資金總額不低於人民幣5000萬元（含），不超過人民幣1億元（含）。回購股份的價格不超過人民幣26.59元/股（含）；預計回購股份數量為188.04萬股，佔公司當前總股本的0.47%；按照回購資金總額上限人民幣1億元、回購價格上限人民幣26.59元/股進行測算，預計回購股份數量為376.08萬股，佔公司當前總股本的0.93%。"
-    },
-    {
-      "id": "mkt:019efe72-f3fe-7dd8-b118-472bfefc6b4a",
-      "time": "2026-06-25 19:03:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "GOOGL.O"
-      ],
-      "text": "Politico, citing five sources, reported the White House intervened to try to keep Meta CEO Mark Zuckerberg and Google CEO Sundar Pichai from attending an upcoming Senate hearing on their companies' child-safety measures."
-    },
-    {
-      "id": "4955050",
-      "time": "2026-06-25 19:03:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：自6月30日起英國開發者可享受更低谷歌Play服務費率，並可自主選擇支付方式。"
-    },
-    {
-      "id": "4955049",
-      "time": "2026-06-25 19:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部：中方在臺島以東海域執法巡查是正當舉措】今天（6月25日），有記者就中方在臺灣島以東海域開展相關執法巡查活動提問。外交部發言人郭嘉昆表示，根據中國國內法和包括《聯合國海洋法公約》在內的國際法，中國在臺灣島以東海域擁有專屬經濟區和大陸架，中方有關部門在該海域開展相關執法巡查活動，是依法行使管轄權，維護地區穩定和海上秩序的正當舉措，也是針對日本、菲律賓操弄劃界議題，侵害中方海洋權益的必要行動。有關國家應尊重中方主權、領土完整和海洋權益，停止混淆是非、顛倒黑白，有關機構不應發表與身份不符的言論。民進黨當局對日本、菲律賓侵權行徑裝聾作啞、視而不見，卻拉攏貼靠外部勢力對中央政府維權行動大肆攻擊抹黑，鼓譟“臺獨”分裂謬論，這再次暴露出民進黨當局冥頑不化的“臺獨”本性和背叛中華民族整體利益的醜惡嘴臉，必將遭到兩岸同胞的唾棄和歷史的清算。"
-    },
-    {
-      "id": "mkt:019efe72-5532-7dd8-b118-3ab3d180e213",
-      "time": "2026-06-25 19:02:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【South Korea private-sector debt near twice GDP, BANK OF KOREA】BANK OF KOREA said in its Financial Stability Report that South Korea’s household and corporate debt is approaching twice the size of the economy: private-sector credit-to-GDP was 197.9% of nominal GDP at end-2025, with household leverage at 88.2% and corporate leverage at 109.8%. The bank said the modest decline versus Q2 last year mainly reflects statistical factors, while outstanding debt continues to rise. Borrowing for equity investment has increased and house-price inflation is reaccelerating."
-    },
-    {
-      "id": "4955048",
-      "time": "2026-06-25 19:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：白宮曾協助扎克伯格迴避參議院聽證會。"
     }
   ]
 }
