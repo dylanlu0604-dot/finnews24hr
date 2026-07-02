@@ -1,7 +1,62 @@
 {
   "date": "2026-07-03",
-  "count": 427,
+  "count": 432,
   "items": [
+    {
+      "id": "mkt:019f24dc-87d3-7aab-8c85-81daed658175",
+      "time": "2026-07-03 06:04:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump reiterates Iran will buy US agricultural products】CNBC reports Trump reiterated that under a potential peace accord to end US‑Iran hostilities Iran would purchase US agricultural products; Tehran has denied the claim. He said Iran \"won't make money\" and the US would \"take some of the funds\" to buy food—naming corn, wheat and soybeans—from US farmers. The memorandum signed last month to end the conflict included lifting a blockade on Iranian ports and easing some oil sanctions; Trump said the funds should finance food purchases, not rebuild Iran's military. Iran's central bank governor told TASNIM NEWS last month there is \"no obligation\" for Iran to buy agricultural inputs from the US."
+    },
+    {
+      "id": "4968335",
+      "time": "2026-07-03 06:03:01",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭澳新銀行 - 羅伊・摩根 6 月消費者信心指數：91.3，高於市場預期值 87.2，前值 86.5。"
+    },
+    {
+      "id": "mkt:019f24da-f3a5-7aab-8c85-795a82e9f18e",
+      "time": "2026-07-03 06:02:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "【Trump says AI bigger than late‑1990s internet; Goldman sees $700bn AI capex by 2026; predicts 40–60% of chip output in U.S.】According to CNBC, President Trump said on Thursday that AI investment is larger than the late‑1990s internet build and that overall capex figures support that view. Goldman Sachs estimated in 2025 that AI capital spending would need to reach $700bn by 2026 to match the late‑1990s telecom peak; in May the bank forecast AI capex of $765bn this year and annual spending rising to $1.6trln by 2031. Trump also said he expects 40–60% of chip manufacturing to be located in the United States by the time he leaves office."
+    },
+    {
+      "id": "4968334",
+      "time": "2026-07-03 06:02:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為82.4%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為82.4%，累計加息25個基點的機率為17.6%。 美聯儲到9月維持利率不變的機率為46.8%，累計加息25個基點的機率為45.6%，累計加息50個基點的機率為7.6%。"
+    },
+    {
+      "id": "4968333",
+      "time": "2026-07-03 06:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內漲0.32%。"
+    },
     {
       "id": "mkt:019f24d6-7b5e-7aab-8c85-755bc0171dfe",
       "time": "2026-07-03 05:57:43",
