@@ -1,7 +1,74 @@
 {
   "date": "2026-07-02",
-  "count": 899,
+  "count": 906,
   "items": [
+    {
+      "id": "te:economy:563610",
+      "time": "2026-07-02 10:25:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Holds Gains Ahead of NFP — The yield on the 10-year US Treasury note held around 4.48% on Thursday, maintaining its recent gains as investors cautiously awaited the June jobs report for fresh insights into labor market conditions and greater clarity on the Federal Reserve’s policy outlook. Data released on Wednesday showed private-sector hiring in the US slowed more than expected last month, while the ISM PMI indicated wholesale energy prices had returned to levels seen before the Middle East conflict. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Meanwhile, rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks pushed oil prices lower and eased inflation concerns."
+    },
+    {
+      "id": "mkt:019f20a5-2d24-7aab-8c6a-5918d2b0b97b",
+      "time": "2026-07-02 10:25:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea unveils 392 trillion-won industrial investment plan; Samsung, SK Hynix to anchor central Chungcheong projects】The Ministry of Trade, Industry and Energy (MOTIE) on July 2 announced a 392 trillion-won industrial investment package targeted at the central Chungcheong region. Samsung group subsidiaries are slated to invest about 140 trillion won for an HBM wafer fab, advanced packaging, OLED output and battery lines; SK Hynix plans roughly 100 trillion won for NAND and advanced packaging fabs; Celltrion intends about 2 trillion won for biopharma facilities. Approximately 150 trillion won is earmarked for AI data centers. The government pledged financing, tax incentives and regulatory support to secure project implementation."
+    },
+    {
+      "id": "4966379",
+      "time": "2026-07-02 10:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微戰略投資光羽芯辰 驅動端側AI上下游合作】據帝奧微訊息，近期，帝奧微完成對上海光羽芯辰科技有限公司（光羽芯辰）的投資，攜手其他產業和財務投資人，共同助力光羽芯辰端側大模型晶片技術迭代與產業落地，並進一步探索公司已有模擬晶片業務在各類智慧裝置商與端側AI的協同合作，拓展公司業務邊界。"
+    },
+    {
+      "id": "4966378",
+      "time": "2026-07-02 10:24:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為鴻蒙裝機量超7000萬臺】華為何剛宣佈：7000萬！這份成績單，屬於每一位使用者、開發者和生態夥伴。"
+    },
+    {
+      "id": "4966377",
+      "time": "2026-07-02 10:24:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：民進黨當局卑劣無恥的行徑必遭兩岸同胞唾棄】國務院臺辦舉行例行新聞釋出會，有記者問：對於大陸海警近日在臺灣東部海域開展執法巡查活動，賴清德發表不當言論。對此有何評論？發言人朱鳳蓮表示，大陸海警在相關海域開展執法巡查，是依法行使管轄權，是維護國家領土主權和海洋權益的正義之舉，也是針對日本、菲律賓繞開中國擅自啟動在該海域劃界談判，侵害中國海洋權益採取的必要行動。民進黨當局對日菲侵權行為裝聾作啞，對島內民眾利益受損視而不見，卻藉機大肆散播“臺獨”分裂謬論，這種卑劣無恥的行徑必遭兩岸同胞唾棄。"
+    },
+    {
+      "id": "4966376",
+      "time": "2026-07-02 10:24:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷電微力：集中資源推進星載、地面終端相控陣產品的研製 同時也對其他通用領域持續關注】雷電微力(301050)7月1日接受機構調研時表示，公司在深耕專用市場的同時，正依託成熟的技術沉澱與產業積累，佈局通用市場，目前重點發展衛星通訊領域，集中資源推進星載、地面終端相控陣產品的研製，豐富產品矩陣，同時也對其他通用領域持續關注，儲備技術，如有合適的合作方，將結合自身技術優勢與行業節奏適時佈局。"
+    },
+    {
+      "id": "4966375",
+      "time": "2026-07-02 10:22:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "越南央行副行長：銀行系統不良貸款在可控範圍內。"
+    },
     {
       "id": "4966374",
       "time": "2026-07-02 10:21:26",

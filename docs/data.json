@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-02 10:22:38",
-  "count": 14022,
+  "updated": "2026-07-02 10:27:17",
+  "count": 14020,
   "items": [
+    {
+      "id": "te:economy:563610",
+      "time": "2026-07-02 10:25:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Holds Gains Ahead of NFP — The yield on the 10-year US Treasury note held around 4.48% on Thursday, maintaining its recent gains as investors cautiously awaited the June jobs report for fresh insights into labor market conditions and greater clarity on the Federal Reserve’s policy outlook. Data released on Wednesday showed private-sector hiring in the US slowed more than expected last month, while the ISM PMI indicated wholesale energy prices had returned to levels seen before the Middle East conflict. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Meanwhile, rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks pushed oil prices lower and eased inflation concerns."
+    },
+    {
+      "id": "mkt:019f20a5-2d24-7aab-8c6a-5918d2b0b97b",
+      "time": "2026-07-02 10:25:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea unveils 392 trillion-won industrial investment plan; Samsung, SK Hynix to anchor central Chungcheong projects】The Ministry of Trade, Industry and Energy (MOTIE) on July 2 announced a 392 trillion-won industrial investment package targeted at the central Chungcheong region. Samsung group subsidiaries are slated to invest about 140 trillion won for an HBM wafer fab, advanced packaging, OLED output and battery lines; SK Hynix plans roughly 100 trillion won for NAND and advanced packaging fabs; Celltrion intends about 2 trillion won for biopharma facilities. Approximately 150 trillion won is earmarked for AI data centers. The government pledged financing, tax incentives and regulatory support to secure project implementation."
+    },
+    {
+      "id": "4966379",
+      "time": "2026-07-02 10:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微戰略投資光羽芯辰 驅動端側AI上下游合作】據帝奧微訊息，近期，帝奧微完成對上海光羽芯辰科技有限公司（光羽芯辰）的投資，攜手其他產業和財務投資人，共同助力光羽芯辰端側大模型晶片技術迭代與產業落地，並進一步探索公司已有模擬晶片業務在各類智慧裝置商與端側AI的協同合作，拓展公司業務邊界。"
+    },
+    {
+      "id": "4966378",
+      "time": "2026-07-02 10:24:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為鴻蒙裝機量超7000萬臺】華為何剛宣佈：7000萬！這份成績單，屬於每一位使用者、開發者和生態夥伴。"
+    },
+    {
+      "id": "4966377",
+      "time": "2026-07-02 10:24:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：民進黨當局卑劣無恥的行徑必遭兩岸同胞唾棄】國務院臺辦舉行例行新聞釋出會，有記者問：對於大陸海警近日在臺灣東部海域開展執法巡查活動，賴清德發表不當言論。對此有何評論？發言人朱鳳蓮表示，大陸海警在相關海域開展執法巡查，是依法行使管轄權，是維護國家領土主權和海洋權益的正義之舉，也是針對日本、菲律賓繞開中國擅自啟動在該海域劃界談判，侵害中國海洋權益採取的必要行動。民進黨當局對日菲侵權行為裝聾作啞，對島內民眾利益受損視而不見，卻藉機大肆散播“臺獨”分裂謬論，這種卑劣無恥的行徑必遭兩岸同胞唾棄。"
+    },
+    {
+      "id": "4966376",
+      "time": "2026-07-02 10:24:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷電微力：集中資源推進星載、地面終端相控陣產品的研製 同時也對其他通用領域持續關注】雷電微力(301050)7月1日接受機構調研時表示，公司在深耕專用市場的同時，正依託成熟的技術沉澱與產業積累，佈局通用市場，目前重點發展衛星通訊領域，集中資源推進星載、地面終端相控陣產品的研製，豐富產品矩陣，同時也對其他通用領域持續關注，儲備技術，如有合適的合作方，將結合自身技術優勢與行業節奏適時佈局。"
+    },
+    {
+      "id": "4966375",
+      "time": "2026-07-02 10:22:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "越南央行副行長：銀行系統不良貸款在可控範圍內。"
+    },
     {
       "id": "4966374",
       "time": "2026-07-02 10:21:26",
@@ -129136,84 +129203,6 @@
         "其他"
       ],
       "text": "【招商銀行擬任行長王小青：保持“四個定力”，打造“一樣中的不一樣”】6月25日，招商銀行2025年度股東會在深圳召開。招商銀行黨委書記、擬任行長王小青在會上表示，要將業務做精做透、形成招行中長期發展的新動能，使招行在中國銀行業“一樣中的不一樣”，必須保持“四個定力”。一是堅持以客戶為中心。經營碰到階段性挑戰，越要堅持長期主義，越不能急功近利，越不能“薅羊毛”；二是堅持資產質量優先，在能力邊界範圍內做事，能力不夠的領域要慎之又慎，絕不能用明天的不良來換取今天的營收；三是堅持零售銀行主體地位，儘管零售市場面臨挑戰，但以大財富管理為重要抓手的零售業務依然是招行的重點特色服務、壓艙石；四是持續加強科技投入。"
-    },
-    {
-      "id": "4953960",
-      "time": "2026-06-25 10:27:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "老鋪黃金港股下跌7.2%。"
-    },
-    {
-      "id": "4953959",
-      "time": "2026-06-25 10:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【比亞迪儲能推出戶儲新品Battery-Box Mega】6月23日至25日，2026年歐洲智慧能源展（The Smarter E Europe）在德國慕尼黑舉行。比亞迪儲能釋出戶用能源生態系統BYD Residential Energy Ecosystem，並同步推出戶儲新品Battery-Box Mega。據比亞迪儲能介紹，Battery-Box Mega專為小型工廠、農場、商店、酒店等場景設計，兼具工商業級效能與戶用級便捷。"
-    },
-    {
-      "id": "4953958",
-      "time": "2026-06-25 10:26:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【廣州期貨交易所據悉考慮推出首個鈷期貨產品】據知情人士稱，廣州期貨交易所正在考慮推出中國首個鈷期貨。訊息人士稱，廣州期貨交易所正在討論推出實物交割鈷金屬期貨的可能性。相關討論仍處於早期階段，未必會實施。知情人士稱，考慮到硫酸鈷應用範圍更廣，合約也可能納入硫酸鈷作為交割選項，以擴大可用於交割的數量，並滿足更多企業的套期保值需求。知情人士表示，推出的時間表尚未確定。"
-    },
-    {
-      "id": "mkt:019efc98-f756-7dd8-b10a-80a04ab3bed2",
-      "time": "2026-06-25 10:25:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An earthquake offshore near Iwate Prefecture, Japan, at about 10:00 local time on the 25th injured at least four people, Japanese authorities said."
-    },
-    {
-      "id": "mkt:019efc98-d6b1-7dd8-b10a-7e1cbf4cc62f",
-      "time": "2026-06-25 10:25:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "Mainland A-share financial sector rallied, led by Changjiang Securities which jumped over 9%; Founder Securities, CSC Financial, China Life, PICC and New China Life also advanced."
-    },
-    {
-      "id": "4953957",
-      "time": "2026-06-25 10:24:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "紫金礦業港股下跌6.9%，A股下跌5.7%。"
-    },
-    {
-      "id": "4953956",
-      "time": "2026-06-25 10:24:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "洛陽鉬業港股下跌6.1%，A股下跌4.4%。"
-    },
-    {
-      "id": "4953955",
-      "time": "2026-06-25 10:23:50",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【證券、保險等大金融板塊拉昇】證券、保險等大金融板塊拉昇，長江證券漲超8%，方正證券、中信建投、中國人壽、中國人保、新華保險紛紛拉昇。"
-    },
-    {
-      "id": "4953954",
-      "time": "2026-06-25 10:22:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陳航卸任釘釘科技有限公司法定代表人、董事、經理，由朱鴻接任】天眼查App顯示，6月23日，釘釘科技有限公司發生工商變更，陳航卸任法定代表人、董事、經理，由朱鴻接任。該公司成立於2017年12月，註冊資本5000萬人民幣，經營範圍包括第一類增值電信業務、第二類增值電信業務、基礎電信業務等，由杭州寶軒投資管理有限公司全資持股。"
     }
   ]
 }
