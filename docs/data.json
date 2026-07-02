@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-02 11:10:20",
-  "count": 14017,
+  "updated": "2026-07-02 11:14:14",
+  "count": 14014,
   "items": [
+    {
+      "id": "4966448",
+      "time": "2026-07-02 11:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭襲已致3死25傷】當地時間2日，烏克蘭基輔軍政管理局負責人特卡琴科稱，當天凌晨對基輔的襲擊已造成3人死亡，25人受傷。2日凌晨，烏克蘭首都基輔市響起密集強烈爆炸聲。基輔市市長克利奇科表示，俄軍對基輔市發動導彈襲擊。俄方對此暫無回應。"
+    },
+    {
+      "id": "4966447",
+      "time": "2026-07-02 11:12:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果將推出5款新iPhone機型。"
+    },
+    {
+      "id": "4966446",
+      "time": "2026-07-02 11:11:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張雪峰11歲女兒接手張雪峰公司股份】蘇州研途教育科技有限公司近日發生工商變更，張雪峰（張子彪）退出，退出前任公司監事並持股約10.86%，退出後其所持股份由女兒張姩菡接手。同時，公司聯合創始人康立職務由執行董事變更為執行公司事務的董事。公開資訊顯示，張姩菡，2015年6月出生，目前尚未成年。蘇州研途教育科技有限公司成立於2016年1月，法定代表人康立，註冊資本約920.9萬元，經營範圍包含教育諮詢服務、招生輔助服務、資訊諮詢服務、自費出國留學中介服務等，現由康立、張姩菡、蘇州研途伍企業管理合夥企業（有限合夥）等共同持股。股權穿透顯示，康立為該公司實際控制人。"
+    },
+    {
+      "id": "mkt:019f20ce-ffe0-7aab-8c6b-04a181e700bf",
+      "time": "2026-07-02 11:11:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Apple will launch five new iPhone models."
+    },
+    {
+      "id": "mkt:019f20ce-0a8e-7aab-8c6a-fae64e4bcb81",
+      "time": "2026-07-02 11:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hang Seng Indexes Company, Cyberport launch thematic index exploration programme to advance AI-driven index innovation】Hang Seng Indexes Company and Cyberport on June 30, 2026 launched a thematic index exploration programme to co-develop AI solutions with technology firms and accelerate thematic-index design. The initiative is the second phase of the Index Innovation Lab, established in 2024 to explore AI and other frontier technologies to support Hang Seng Indexes Company’s index operations and deliver more market-aligned index solutions."
+    },
+    {
+      "id": "4966445",
+      "time": "2026-07-02 11:09:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生指數公司聯同數碼港推出主題指數探索計劃 促進以人工智慧驅動指數創新】恒生指數公司與數碼港於2026年6月30日宣佈推出主題指數探索計劃，與創科公司共同開發人工智慧解決方案，加快主題指數的設計流程。本次計劃為指數創新實驗室第二階段專案。實驗室由恒生指數公司與數碼港於2024年成立，旨在探索利用人工智慧等前沿技術支援恒生指數公司的指數營運，並提供更切合市場需求的指數方案。（恒生指數公司）"
+    },
     {
       "id": "4966444",
       "time": "2026-07-02 11:08:51",
@@ -129055,91 +129110,6 @@
         "市場"
       ],
       "text": "【廣汽本田公佈語音換道專利，可提高自動駕駛車輛換道效率】天眼查智慧財產權資訊顯示，6月23日，廣汽本田汽車有限公司、廣汽本田汽車研究開發有限公司申請的 “基於語音互動的車輛換道控制方法、裝置、裝置及程式產品” 專利公佈。摘要顯示，本發明公開了基於語音互動的車輛換道控制方法、裝置、裝置及程式產品，包括：當車輛處於自動駕駛模式，獲取駕駛員的語音資訊，根據語音資訊識別駕駛員是否發出換道指示；當駕駛員發出換道指示，確定換道指示對應的目標車道，獲取當前車道的第一車道路況和目標車道的第二車道路況；確定車輛的換道成本、換道收益以及換道風險值，根據換道收益與換道成本的比值確定收益成本比；當收益成本比大於等於預設的第一閾值，且換道風險值小於預設的第二閾值，確定執行換道指示，根據第一車道路況和第二車道路況規劃得到目標換道路徑；根據目標換道路徑控制車輛換道至目標車道。"
-    },
-    {
-      "id": "4954023",
-      "time": "2026-06-25 11:13:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "HCLTECH 和 ServiceNow 將藉助 Google Cloud 擴充套件企業級人工智慧。"
-    },
-    {
-      "id": "4954022",
-      "time": "2026-06-25 11:13:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌6%，現報11960.00元。"
-    },
-    {
-      "id": "mkt:019efcc4-b8fc-7dd8-b10b-4da32ccd76f5",
-      "time": "2026-06-25 11:13:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "XPEV.O",
-        "Impact bullish"
-      ],
-      "text": "XPeng said global deliveries of its X9 model have exceeded 60,000 vehicles."
-    },
-    {
-      "id": "4954021",
-      "time": "2026-06-25 11:13:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交通運輸部等：圍繞航線規劃等核心任務 鼓勵開發民航垂域大模型】交通運輸部、國家鐵路局、中國民用航空局、國家郵政局、中國國家鐵路集團有限公司印發《“人工智慧+交通運輸”典型應用場景創新行動方案》，其中提出，圍繞航線規劃、飛行安全、航班編排、籤派決策、機組排班等核心任務，鼓勵開發民航垂域大模型，開展執行預測、排程最佳化、風險防控等關鍵技術應用，打造全流程個性化出行服務、機坪態勢感知與風險預警、無人化智慧貨運站等多方面立體化應用場景，加快推進民航數智化轉型升級。深化多模態生物識別與智慧安檢技術在值機、通關、登機等環節整合應用，構建安檢通道旅客識別系統、行李匹配系統、服務引導終端等，提升旅客出行體驗。在確保安全的前提下，探索開展垂直起降航空器與無人機在短途運輸、空中游覽等場景應用，提升低空運輸服務能力。"
-    },
-    {
-      "id": "4954020",
-      "time": "2026-06-25 11:13:16",
-      "tags": [
-        "市場",
-        "觀點",
-        "焦點",
-        "國際",
-        "原創"
-      ],
-      "text": "【摩根大通將韓國股市牛市情景目標位上調至15000點】摩根大通上調韓國Kospi指數目標位，並建議逢低加倉，繼續維持對韓國股市的最高敞口。摩根大通策略師在報告中寫道：“這源於我們對人工智慧的建設性看法以及相關硬體公司的盈利。散戶買盤仍有進一步增加的空間。”策略師表示，參與AI資料中心建設的科技企業盈利如今已經大到足以在宏觀層面產生影響，為企業、家庭和政府帶來財富提振。摩根大通的牛市情景目標位預示，Kospi指數較週三收盤點位8471.02點有77%的上行空間。摩根大通還將該指數的基本情景和熊市情景目標位分別上調至12500點和8000點。"
-    },
-    {
-      "id": "mkt:019efcc4-32c2-7dd8-b10b-43bd9d5c1353",
-      "time": "2026-06-25 11:12:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China transport agencies to develop end-to-end large AI models for intelligent driving】The Ministry of Transport, National Railway Administration, Civil Aviation Administration, State Post Bureau and China State Railway Group issued an Action Plan for AI+Transport applications, directing R&D and testing of end-to-end large AI models for intelligent driving. Work will target highway freight, logistics parks/campus transport and short-distance shuttles; develop and validate intelligent evaluation technologies and explore hybrid virtual–real test sites. The plan prioritises trunk routes for bulk cargo—minerals, containers and grain—for integrated intelligent-driving field validation, aiming to drive technical cost reductions and quality/efficiency gains in freight transport."
-    },
-    {
-      "id": "4954019",
-      "time": "2026-06-25 11:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "何小鵬：小鵬X9全球第60000臺交付，在香港，交給了陳幼堅先生。 陳幼堅先生是華人設計界的前輩，國家大劇院的標識、香港國際機場的Logo、可口可樂的中文商標，都出自他手。"
-    },
-    {
-      "id": "mkt:019efcc2-9e36-7dd8-b10b-3b49bd98c4b7",
-      "time": "2026-06-25 11:11:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Kioxia plans to issue US ADRs in spring 2027】Kioxia, the Japanese NAND flash supplier, plans to issue US American Depositary Receipts (ADRs) in spring 2027 to capture AI-driven strength in global semiconductor demand, CFO Yoshihiko Kawamura said at the annual shareholders meeting. Kawamura said the company aims to enter the US market after its fiscal year ends in late March, targeting the start of the next fiscal year — around April, May or June — to establish a direct link to US investors."
-    },
-    {
-      "id": "4954018",
-      "time": "2026-06-25 11:10:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部發布預警：低分上名校？“內部指標”不存在】2026年高考落下帷幕，查分、志願填報、錄取等環節成為考生和家長關注的焦點，一些機構或個人為牟取經濟利益盯上了這個關鍵時期，打著各種幌子實施詐騙。近期，上海嘉定警方打掉一招生詐騙團伙，犯罪嫌疑人虛構“國家級體能協會副主席”等身份，以“包裝成‘高水平運動員’低分上名校”為名，謊稱可將高考失利學生包裝為足球、籃球等專案高水平運動員，以低分進入“985”“211”高校，先後詐騙22名考生家長，涉案金額900餘萬元。教育部提醒，高校招生錄取嚴格依據分數、志願和計劃進行，公開透明，不存在任何“內部指標”“特招名額”“內部降低分數補招”等非正規渠道。"
     }
   ]
 }
