@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03 04:52:47",
-  "count": 13796,
+  "updated": "2026-07-03 04:56:40",
+  "count": 13793,
   "items": [
     {
       "id": "te:markets:563884",
@@ -127073,38 +127073,6 @@
         "Importance 1"
       ],
       "text": "TSX Edges Higher on Banks and Miners Gains — The S&P/TSX Composite Index rose 0.3% to close at 34,850 on Thursday, supported by gains in the financial and mining sectors. Although oil prices edged higher after a cargo ship was struck by an unidentified projectile off the Omani coast, they remained near pre-conflict lows, easing inflation concerns and supporting financial stocks and the broader index. TD Bank rose 0.9%, RBC gained 0.4%, and BMO added 0.9%. Gold prices also edged higher, supporting mining shares, with Agnico Eagle rising 1.7%. Meanwhile, a renewed wave of volatility in technology stocks on Wall Street weighed on Canadian tech shares. Shopify fell 2.6%, Constellation Software lost 3.6%, and Celestica shed 0.7%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and changes in energy prices."
-    },
-    {
-      "id": "4955876",
-      "time": "2026-06-26 04:53:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮副幕僚長米勒：美國預計將驅逐所有喪失臨時保護身份（TPS）的人員。"
-    },
-    {
-      "id": "mkt:019f008e-cf3e-7dd8-b126-6e7208a510da",
-      "time": "2026-06-26 04:53:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【International oil prices rose on the 25th】By the close, NYMEX light sweet crude for August delivery rose $1.58 to settle at $71.92/bbl, up 2.25%. London Brent for August delivery rose $1.52 to settle at $75.26/bbl, up 2.06%."
-    },
-    {
-      "id": "mkt:019f008e-b48e-7dd8-b126-60d209cf4cee",
-      "time": "2026-06-26 04:52:59",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index down 0.18% to 101.430 at New York close on the 25th】The dollar index (DXY) fell 0.18% to 101.430 at the New York close on the 25th. EUR/USD rose to 1.1373 from 1.1355; GBP/USD rose to 1.3198 from 1.3162. USD/JPY was 161.80 versus 161.76; USD/CHF fell to 0.8098 from 0.8124; USD/CAD fell to 1.4197 from 1.4237; USD/SEK fell to 9.7352 from 9.7714."
     }
   ]
 }
