@@ -1,7 +1,31 @@
 {
   "date": "2026-07-03",
-  "count": 336,
+  "count": 339,
   "items": [
+    {
+      "id": "4968280",
+      "time": "2026-07-03 05:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "“大空頭”Michael Burry：於週三以 1051.87 美元的價位做空美光科技。"
+    },
+    {
+      "id": "mkt:019f24a1-c474-7aab-8c84-4c28585108f0",
+      "time": "2026-07-03 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign-exchange reserves were $427.36 billion in June, up from $426.99 billion in the prior month."
+    },
+    {
+      "id": "4968279",
+      "time": "2026-07-03 05:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月外匯儲備 4273.6億美元，前值4269.9億美元。"
+    },
     {
       "id": "mkt:019f24a1-a1e3-7aab-8c84-468726e098d4",
       "time": "2026-07-03 05:00:00",
