@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-02 12:19:21",
-  "count": 14015,
+  "updated": "2026-07-02 12:23:09",
+  "count": 14017,
   "items": [
+    {
+      "id": "4966546",
+      "time": "2026-07-02 12:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達透過收入分成方式與AI雲公司合作】英偉達在其網站上發表宣告稱，將與人工智慧AI雲公司合作，透過收入分成和信用支援模式“部署大規模、多租戶的AI工廠”。透過這種新模式，AI雲公司將銷售由英偉達DSX AI工廠提供的雲服務，這些工廠能夠大規模生產詞元。“這將加速客戶採用英偉達平臺，同時為這些雲平臺提供一條資本高效的擴充套件路徑，併為英偉達帶來新的、與使用量掛鉤的經常性收入來源。”Sharon AI和Firmus在最早與英偉達合作實施這一戰略的公司之列。"
+    },
+    {
+      "id": "4966545",
+      "time": "2026-07-02 12:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北啟動重大氣象災害（高溫）Ⅳ級應急響應】河北省氣象臺2026年7月1日16時5分發布高溫橙色預警訊號：預計2日白天，保定、廊坊及以南的大部分地區最高氣溫可達36～39℃。預計3-4日，張家口南部和保定、廊坊及以南的大部分地區，最高氣溫可達35～39℃，其中保定、石家莊、衡水、邢臺、邯鄲等地的局地最高氣溫可達40℃以上。為此，省氣象災害防禦指揮部於7月2日11時啟動重大氣象災害（高溫）Ⅳ級應急響應。提請相關部門密切關注此次高溫天氣過程，加強風險研判和安全隱患排查，適時啟動相應應急響應，做好防範應對工作。"
+    },
+    {
+      "id": "4966544",
+      "time": "2026-07-02 12:22:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古特雷斯說未實繳的會費不能退】當地時間7月1日，聯合國秘書長古特雷斯在紐約聯合國總部表示，聯合國大會日前決定改革聯合國財務規則，將有助於聯合國的財務運營和資源管理。古特雷斯當天在記者會上說，長期以來，聯合國預算程式面臨一個根本性矛盾：會員國並不總是按時、足額繳納應繳會費，但聯合國卻經常被要求返還並未支出的資金，即使這些資金由於會員國欠繳會費而實際上並未收到，這對聯合國的財務狀況是“雙重打擊”。古特雷斯表示，根據新規則，在為期4年的試行期內，聯合國只有在相關資金實際到賬、有現金支援的情況下，才會將未使用資金返還或記入會員國貸項。"
+    },
+    {
+      "id": "mkt:019f210f-6e14-7aab-8c6c-381616edf613",
+      "time": "2026-07-02 12:21:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. resumes airlift of US dollars to Iraq after months-long pause】NYT, citing two aides to Iraq's prime minister, reports the U.S. has resumed airlifting physical US dollars to Iraq after a months-long pause. The suspension had been used to pressure Baghdad to distance itself from Iran. In April the Trump administration cut off dollar inflows to Iraq's largely cash-based economy and seized oil-sale revenues."
+    },
+    {
+      "id": "4966543",
+      "time": "2026-07-02 12:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒體人卡爾森稱正努力籌建新政黨，或對美國會選舉產生重大影響】據美國《新聞週刊》報道，美國保守派評論員塔克·卡爾森當地時間7月1日表示，他正著手幫助組建一個新政黨。報道稱，如果卡爾森成功組建政黨，或將對競爭激烈的美眾議院和參議院選舉產生重大影響。據報道，卡爾森1日在一檔電視節目上表示，在美國和以色列對伊朗發動襲擊之前，他曾三次到訪白宮為此發出警告，但“自從戰爭開始以來”，他便未曾與特朗普交談過。“我對和他交談不感興趣”，他補充說。"
+    },
+    {
+      "id": "4966541",
+      "time": "2026-07-02 12:19:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本當局或轉向出人意料的日元干預策略】媒體援引未具名人士報道稱，日本財務省可能突然出手，清除投機性日元頭寸。官員們暗示將採取更有針對性的措施，打壓投機者，提高做空日元的成本。同時避免暗示可能觸發干預行動的具體“匯率底線”。"
+    },
+    {
+      "id": "mkt:019f210d-3503-7aab-8c6c-313d88c4da2c",
+      "time": "2026-07-02 12:19:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA launches new AI infrastructure partnership model to scale compute via revenue-sharing with AI cloud providers】NVIDIA on July 1 announced a partnership model using revenue-sharing and credit-support mechanisms with AI cloud service providers to co‑build large-scale, multi-tenant AI factories. Under the plan, cloud providers will deploy AI factories based on NVIDIA's DSX AI Factory architecture and offer the capacity as cloud services, aimed at faster access to AI compute for startups, model developers, enterprises and research institutions. NVIDIA says the model will create ongoing revenue tied to compute usage."
+    },
     {
       "id": "4966540",
       "time": "2026-07-02 12:18:35",
@@ -129109,53 +129172,6 @@
         "公司"
       ],
       "text": "【恒大物業：獲清盤人告知，潛在賣方與潛在買方之間的談判已終止】恒大物業公告，本公司接獲清盤人通知，潛在賣方與潛在買方之間的相關談判已終止，雙方並未就本次潛在交易簽署任何正式或具備法律約束力的買賣協議。目前清盤人正與其財務顧問持續積極磋商，物色其他潛在收購方，以出讓由中國恒大及 CEG Holdings 持有的本公司控股股權（即潛在交易）。"
-    },
-    {
-      "id": "te:markets:561736",
-      "time": "2026-06-25 12:22:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Continues Uptrend for Second Day — India’s BSE Sensex rose about 0.5% to 77,376 in early trading on Thursday, extending gains from the previous session, as easing crude oil prices and improving global risk sentiment supported investor appetite. Market sentiment was buoyed after Brent crude fell back to levels seen before the recent Iran-related supply concerns, reducing pressure on India's import bill and inflation outlook. Financial stocks remained in focus after the RBI signaled that it was premature to discuss interest-rate hikes and introduced measures aimed at supporting liquidity. Investors also monitored corporate developments, including regulatory approval for ICICI Bank to raise its stake in its insurance unit and management changes at Life Insurance Corporation of India, which announced that its CFO would step down effective July 14. Among early gainers, Relaxo surged 12.9%, Ramco Systems gained 8.1%, and HFCL advanced 5.0%, while Mahindra & Mahindra and Shriram Finance rose 2.5% and 2.0%, respectively."
-    },
-    {
-      "id": "4954113",
-      "time": "2026-06-25 12:22:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率走勢逆轉，最新上漲1個基點至3.875%。"
-    },
-    {
-      "id": "4954112",
-      "time": "2026-06-25 12:21:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率在標售結果公佈後逆轉走勢，最新持平報3.565%。"
-    },
-    {
-      "id": "4954111",
-      "time": "2026-06-25 12:21:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國註冊船員達208萬人】從交通運輸部海事局瞭解到，今天是第十六個“世界海員日”，今年世界海員日的主題為“承天下之商，擔海上之險”。截至2025年底，全國註冊船員達208萬人，同比增長2.6%。全年外派船員18.5萬人次，同比增長11.5%，外派規模創近年新高。全球與我國簽署船員證書合作檔案的國家和地區增至31個。"
-    },
-    {
-      "id": "4954109",
-      "time": "2026-06-25 12:19:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比兌美元上漲0.5%，至94.1800。"
     }
   ]
 }
