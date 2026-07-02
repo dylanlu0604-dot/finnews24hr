@@ -1,7 +1,40 @@
 {
   "date": "2026-07-03",
-  "count": 275,
+  "count": 278,
   "items": [
+    {
+      "id": "4968246",
+      "time": "2026-07-03 03:37:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：AI基建遇阻，黑石旗下QTS放棄美國弗吉尼亞資料中心建設專案】據知情人士透露，黑石集團旗下的QTS房地產信託公司高管近日決定，已不值得繼續在法庭上推進此事。該公司的律師計劃最早於本週向法院通報這一決定。對於那些多年來一直抗爭並試圖阻止該專案的當地居民而言，這無疑是一場勝利。這家資料中心開發商原計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，改造成全球最大科技走廊之一的核心地帶。由於毗鄰一處具有歷史意義的南北戰爭戰場，並且位於此前受保護而免受開發影響的土地上，該專案引發業主的強烈抵制，並因訴訟而陷入停滯。"
+    },
+    {
+      "id": "4968245",
+      "time": "2026-07-03 03:36:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析師：Meta承認AI進展未達預期，但並非“舉白旗”】分析師Adam Button表示，媒體援引Meta Platforms(META.O)內部全員會議訊息稱，CEO扎克伯格坦言，過去四個月AI智慧體開發速度未如預期。本週Meta備受關注，緣於近日傳出該公司考慮出售過剩算力，市場猜測其或正從基礎模型賽道抽身。Meta近期也因裁員、調崗衝擊企業文化，又試圖透過提供零食（安撫）和舉辦駭客松（激發活力） 這種相對表面的手段，來緩和員工情緒。扎克伯格在會上坦言，部門重組“本可以更利落”；高管年初曾擔心“AI行動不夠快”。不過扎克伯格顯然尚未準備退讓，稱重組的最佳成果“尚未實現”，並仍相信長期趨勢與重組方向一致。這聽起來並不像是在舉白旗。媒體最新報道傳出後，Meta股價一度承壓，但隨即便有所反彈。"
+    },
+    {
+      "id": "mkt:019f2455-6bc2-7aab-8c83-aa080b53f8f8",
+      "time": "2026-07-03 03:36:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization \"could have been cleaner,\" said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are \"yet to come\" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound."
+    },
     {
       "id": "mkt:019f244d-2680-7aab-8c83-a1c4dcd311ff",
       "time": "2026-07-03 03:27:43",

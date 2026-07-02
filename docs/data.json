@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-03 03:35:29",
-  "count": 13806,
+  "updated": "2026-07-03 03:39:22",
+  "count": 13808,
   "items": [
+    {
+      "id": "4968246",
+      "time": "2026-07-03 03:37:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：AI基建遇阻，黑石旗下QTS放棄美國弗吉尼亞資料中心建設專案】據知情人士透露，黑石集團旗下的QTS房地產信託公司高管近日決定，已不值得繼續在法庭上推進此事。該公司的律師計劃最早於本週向法院通報這一決定。對於那些多年來一直抗爭並試圖阻止該專案的當地居民而言，這無疑是一場勝利。這家資料中心開發商原計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，改造成全球最大科技走廊之一的核心地帶。由於毗鄰一處具有歷史意義的南北戰爭戰場，並且位於此前受保護而免受開發影響的土地上，該專案引發業主的強烈抵制，並因訴訟而陷入停滯。"
+    },
+    {
+      "id": "4968245",
+      "time": "2026-07-03 03:36:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析師：Meta承認AI進展未達預期，但並非“舉白旗”】分析師Adam Button表示，媒體援引Meta Platforms(META.O)內部全員會議訊息稱，CEO扎克伯格坦言，過去四個月AI智慧體開發速度未如預期。本週Meta備受關注，緣於近日傳出該公司考慮出售過剩算力，市場猜測其或正從基礎模型賽道抽身。Meta近期也因裁員、調崗衝擊企業文化，又試圖透過提供零食（安撫）和舉辦駭客松（激發活力） 這種相對表面的手段，來緩和員工情緒。扎克伯格在會上坦言，部門重組“本可以更利落”；高管年初曾擔心“AI行動不夠快”。不過扎克伯格顯然尚未準備退讓，稱重組的最佳成果“尚未實現”，並仍相信長期趨勢與重組方向一致。這聽起來並不像是在舉白旗。媒體最新報道傳出後，Meta股價一度承壓，但隨即便有所反彈。"
+    },
+    {
+      "id": "mkt:019f2455-6bc2-7aab-8c83-aa080b53f8f8",
+      "time": "2026-07-03 03:36:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization \"could have been cleaner,\" said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are \"yet to come\" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound."
+    },
     {
       "id": "mkt:019f244d-2680-7aab-8c83-a1c4dcd311ff",
       "time": "2026-07-03 03:27:43",
@@ -127200,14 +127233,6 @@
         "Impact mixed"
       ],
       "text": "Federal Reserve's Williams said the US has so far shown resilience to the economic effects of the war."
-    },
-    {
-      "id": "4955838",
-      "time": "2026-06-26 03:38:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥大豆、玉米期貨至多漲約2%，紐約可可漲約5.2%逼近1月13日頂部5658美元】週四（6月25日）紐約尾盤，彭博穀物分類指數漲1.63%，報29.5998點，開始一天的交易之後，北京時間10:05小幅下挫重新整理日低至29.0082點，美股開盤後從這一水平附近持續反彈。CBOT玉米期貨漲1.84%，報4.4275美元/蒲式耳。CBOT小麥期貨漲0.88%，報6.0125美元/蒲式耳。CBOT大豆期貨漲1.98%，報11.5750美元/蒲式耳，豆粕期貨漲1.50%，豆油期貨漲2.14%。ICE原糖期貨漲0.89%，ICE白糖期貨漲0.05%。ICE阿拉比卡咖啡期貨跌3.28%，咖啡“C”期貨跌0.16%。羅布斯塔咖啡期貨漲1.69%。紐約可可期貨漲5.17%，報5230美元/噸。倫敦可可期貨漲1.04%。芝加哥WCE雙低油菜籽期貨漲0.50%。ICE棉花期貨漲0.96%。"
     }
   ]
 }
