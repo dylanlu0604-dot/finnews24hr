@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-03 03:47:11",
-  "count": 13796,
+  "updated": "2026-07-03 03:51:05",
+  "count": 13795,
   "items": [
+    {
+      "id": "mkt:019f245e-dfbe-7aab-8c83-bf3e18364909",
+      "time": "2026-07-03 03:47:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bearish"
+      ],
+      "text": "Per The Information, Palantir (PLTR.N) CEO said some U.S. government clients have shifted to open-source AI."
+    },
     {
       "id": "4968249",
       "time": "2026-07-03 03:45:52",
@@ -127056,29 +127068,6 @@
         "其他"
       ],
       "text": "【立陶宛總統提名辛克維丘斯出任新總理】立陶宛總統瑙塞達25日晚向議會提名立陶宛社會民主黨主席明道加斯·辛克維丘斯為新總理候選人。據立陶宛國家廣播電視臺報道，議會將於30日投票選舉新政府總理。魯吉尼埃內政府已於23日宣佈總辭職，現為看守政府。根據立陶宛法律，新總理由議會中擁有最多席位的社會民主黨推薦。（新華社）"
-    },
-    {
-      "id": "4955844",
-      "time": "2026-06-26 03:49:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉不到一天已發生138次餘震】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯25日在委國家電視臺直播節目中表示，自24日傍晚兩次強震後，截至當地時間25日12時已有138次餘震被監測到。（新華社）"
-    },
-    {
-      "id": "mkt:019f0053-1c8e-7dd8-b125-c89d46c656ab",
-      "time": "2026-06-26 03:47:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Williams expects inflation to edge down over the next few quarters. He cited four factors: tariff effects have largely run their course; his baseline is that supply disruptions tied to the Strait of Hormuz will be resolved relatively quickly; housing-related inflation should continue to slow; and he sees no evidence the labor market is adding inflationary pressure."
     }
   ]
 }

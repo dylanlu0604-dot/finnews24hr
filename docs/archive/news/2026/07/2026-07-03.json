@@ -1,7 +1,19 @@
 {
   "date": "2026-07-03",
-  "count": 282,
+  "count": 283,
   "items": [
+    {
+      "id": "mkt:019f245e-dfbe-7aab-8c83-bf3e18364909",
+      "time": "2026-07-03 03:47:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bearish"
+      ],
+      "text": "Per The Information, Palantir (PLTR.N) CEO said some U.S. government clients have shifted to open-source AI."
+    },
     {
       "id": "4968249",
       "time": "2026-07-03 03:45:52",
