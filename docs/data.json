@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-03 03:43:17",
-  "count": 13795,
+  "updated": "2026-07-03 03:47:11",
+  "count": 13796,
   "items": [
+    {
+      "id": "4968249",
+      "time": "2026-07-03 03:45:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Palantir 執行長稱，部分美國政府客戶已轉向採用開源人工智慧方案。"
+    },
+    {
+      "id": "mkt:019f245c-9bd8-7aab-8c83-b7ead4e43732",
+      "time": "2026-07-03 03:44:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Walsh's first week dominated by internal meetings; little Wall Street outreach】New Fed chair Kevin Walsh's first-week calendar was largely internal, with limited external engagements: a breakfast with Treasury Secretary Scott Bessent and meetings with former Fed governor Stephen Milan and Brookings' Nellie Liang. By contrast, former chair Jerome Powell's end-of-tenure schedule featured heavier outreach to global central bankers and Wall Street executives, including Goldman CEO David Solomon and the UBS chair. The Fed posts the chair's schedule monthly on its website."
+    },
+    {
+      "id": "4968248",
+      "time": "2026-07-03 03:44:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普財務披露顯示2025年交易逾2.1萬筆】美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。根據其2025年財務披露檔案，這些交易的總金額介於6億美元至18.6億美元之間；該檔案列示交易價值的區間較寬。許多交易涉及與聯邦政府有業務往來的大型公司。對該報告的分析顯示，特朗普平均每個交易日進行85筆交易。2025年執行的所有交易中，約四分之一集中在10個交易日內。其中許多交易發生在特朗普宣佈政策調整之後、華爾街波動加劇之際。特朗普八個獨立交易賬戶之間也存在不一致之處：他在同一天透過一個賬戶買入某隻股票、又透過另一個賬戶賣出同一股票的情況出現了200多次。"
+    },
     {
       "id": "4968247",
       "time": "2026-07-03 03:39:38",
@@ -127051,23 +127079,6 @@
         "S&P500"
       ],
       "text": "Fed's Williams expects inflation to edge down over the next few quarters. He cited four factors: tariff effects have largely run their course; his baseline is that supply disruptions tied to the Strait of Hormuz will be resolved relatively quickly; housing-related inflation should continue to slow; and he sees no evidence the labor market is adding inflationary pressure."
-    },
-    {
-      "id": "4955843",
-      "time": "2026-06-26 03:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：委內瑞拉將動用IMF特別提款權進行震後重建】據美國媒體25日報道，委內瑞拉在遭遇強震後，預計將動用其在國際貨幣基金組織（IMF）部分特別提款權用於震後重建。彭博社援引知情人士的話報道，委內瑞拉計劃從其45億美元特別提款權資金中提取2億美元。目前，尚不清楚委內瑞拉是否在近期還會尋求動用更多特別提款權資金。（新華社）"
-    },
-    {
-      "id": "4955842",
-      "time": "2026-06-26 03:43:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：通脹受到關稅、能源和人工智慧投資推動。貨幣政策對於當前經濟而言處於“適宜位置”。"
     }
   ]
 }
