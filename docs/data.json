@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-03 06:28:48",
-  "count": 13860,
+  "updated": "2026-07-03 06:32:42",
+  "count": 13862,
   "items": [
+    {
+      "id": "mkt:019f24f4-9180-7aab-8c85-932d7ee63647",
+      "time": "2026-07-03 06:30:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an HKEX filing, Shenzhen Hongxinyu Electronics Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "te:markets:563890",
+      "time": "2026-07-03 06:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 4.22% — Top commodity gainers are Natural Gas EU (4.22%), Natural Gas UK (4.06%) and Germany Natural Gas THE (2.22%). Biggest losers are Methanol (-2.10%), Propane (-1.82%), Heating Oil (-1.06%) and Crude Oil WTI (-0.16%). Meanwhile Brent Crude Oil was little changed."
+    },
+    {
+      "id": "4968342",
+      "time": "2026-07-03 06:29:21",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 全天 美國休市；\n② 08:30 日本6月服務業、綜合PMI終值；\n③ 09:45 中國6月RatingDog服務業、綜合PMI；\n④ 10:05 越南6月進出口、貿易餘額，二季度GDP；\n⑤ 13:00 印度6月服務業、綜合PMI終值；\n⑥ 15:45 義大利6月服務業、綜合PMI終值；\n⑦ 15:50 法國6月服務業、綜合PMI終值；\n⑧ 15:55 德國6月服務業、綜合PMI終值；\n⑨ 16:00 歐元區6月服務業、綜合PMI終值，歐洲央行行長拉加德在法國講話；\n⑩ 時間待定 國內成品油將開啟新一輪調價視窗；\n16:30 英國6月服務業、綜合PMI終值；\n23:00 歐洲央行管委兼德國央行行長Nagel、歐洲央行管委Makhlouf、英國央行行長貝利在法國講話；\n週六14:50 歐洲央行管委Kaasik講話；\n週六16:00 歐洲央行副行長Vujcic在法國講話；\n週六17:00 歐洲央行管委兼法國央行行長Moulin講話；\n週六時間待定 美國總統特朗普講話。"
+    },
     {
       "id": "4968341",
       "time": "2026-07-03 06:26:35",
@@ -127696,17 +127725,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%)."
-    },
-    {
-      "id": "te:markets:562008",
-      "time": "2026-06-26 06:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%)."
     }
   ]
 }
