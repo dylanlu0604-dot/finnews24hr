@@ -1,7 +1,78 @@
 {
   "date": "2026-07-02",
-  "count": 3212,
+  "count": 3220,
   "items": [
+    {
+      "id": "4968054",
+      "time": "2026-07-02 23:41:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬集團：專案取消導致季度訂單缺口達200億歐元，其中包括F126護衛艦專案。"
+    },
+    {
+      "id": "te:markets:563847",
+      "time": "2026-07-02 23:40:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Climbs to $1,270 — Palladium climbed above $1,270 per ounce, recovering to levels last seen in early October as a weaker US dollar supported precious metals. Oil prices continued to decline as tanker traffic normalized amid ongoing peace negotiations, although uncertainty over a lasting agreement persists. The dollar softened after weaker-than-expected US payroll and lower inflation data reduced expectations of further Fed rate hikes this year, improving the appeal of dollar-denominated metals. However, Fed Chair Kevin Warsh reiterated the commitment to returning inflation to its 2% target. On the supply side, Russia's Norilsk Nickel, the world's largest palladium producer, expects output to decline 2% this year due to lower ore grades, while South African platinum group metal mines continue to face operational constraints. Demand remains under pressure as China's electric vehicle exports surged 49% year-on-year, accelerating the demand shift away from palladium used in automotive catalytic converters."
+    },
+    {
+      "id": "4968053",
+      "time": "2026-07-02 23:40:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南三市縣釋出停課通知】受南海熱帶低壓影響，7月2日晚，海南三亞、萬寧、陵水相繼釋出停課通知。"
+    },
+    {
+      "id": "4968052",
+      "time": "2026-07-02 23:39:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共服務與採購部：加拿大政府向Ocean Pacific Marine Supply與Camarc Design合資企業授予約7,470萬加元合同。"
+    },
+    {
+      "id": "4968051",
+      "time": "2026-07-02 23:38:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根士丹利等機構不認同看漲美元的市場主流觀點】法國農業信貸銀行、摩根士丹利和道明證券的外匯策略師，紛紛一反市場主流觀點，並不認為美元會走強。彭博美元現貨指數6月上漲2%，創伊朗戰爭爆發以來最佳單月表現。推動這輪漲勢的關鍵因素之一，是市場預期美聯儲將把利率維持在高位，甚至進一步加息。此前，新任美聯儲主席凱文·沃什在6月17日的新聞釋出會上強調，央行將致力於抗擊通脹。美元此輪升勢動能之強，以至於投機交易員對美元的看漲押注已升至一年半來最極端水平。在這種背景下，包括Stephen Jen的Eurizon SLJ Capital在內，越來越多預測人士開始認為，投資者透過押注美元上漲所能獲得的收益，目前大致已被榨取殆盡。法國農業信貸銀行G-10外匯研究與策略主管Valentin Marinov表示：“美元看起來已經處於超買且估值過高的狀態。美聯儲的鷹派程度未必會像美國利率市場預期的那樣強。”"
+    },
+    {
+      "id": "mkt:019f237b-8072-7aab-8c80-37b3a17f6f37",
+      "time": "2026-07-02 23:38:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Department of Justice is investigating alleged insider trading tied to trades that inflicted losses at Susquehanna; the US Securities and Exchange Commission is conducting a parallel probe."
+    },
+    {
+      "id": "4968050",
+      "time": "2026-07-02 23:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：持續支援我方防空力量至關重要。"
+    },
+    {
+      "id": "4968049",
+      "time": "2026-07-02 23:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯再度將襲擊矛頭對準普通平民與民用住宅，基輔市內已有超過 130 棟建築在襲擊中受損。"
+    },
     {
       "id": "4968048",
       "time": "2026-07-02 23:37:19",

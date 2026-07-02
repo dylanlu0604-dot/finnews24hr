@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-02 23:38:11",
-  "count": 13934,
+  "updated": "2026-07-02 23:42:14",
+  "count": 13933,
   "items": [
+    {
+      "id": "4968054",
+      "time": "2026-07-02 23:41:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬集團：專案取消導致季度訂單缺口達200億歐元，其中包括F126護衛艦專案。"
+    },
+    {
+      "id": "te:markets:563847",
+      "time": "2026-07-02 23:40:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Climbs to $1,270 — Palladium climbed above $1,270 per ounce, recovering to levels last seen in early October as a weaker US dollar supported precious metals. Oil prices continued to decline as tanker traffic normalized amid ongoing peace negotiations, although uncertainty over a lasting agreement persists. The dollar softened after weaker-than-expected US payroll and lower inflation data reduced expectations of further Fed rate hikes this year, improving the appeal of dollar-denominated metals. However, Fed Chair Kevin Warsh reiterated the commitment to returning inflation to its 2% target. On the supply side, Russia's Norilsk Nickel, the world's largest palladium producer, expects output to decline 2% this year due to lower ore grades, while South African platinum group metal mines continue to face operational constraints. Demand remains under pressure as China's electric vehicle exports surged 49% year-on-year, accelerating the demand shift away from palladium used in automotive catalytic converters."
+    },
+    {
+      "id": "4968053",
+      "time": "2026-07-02 23:40:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南三市縣釋出停課通知】受南海熱帶低壓影響，7月2日晚，海南三亞、萬寧、陵水相繼釋出停課通知。"
+    },
+    {
+      "id": "4968052",
+      "time": "2026-07-02 23:39:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共服務與採購部：加拿大政府向Ocean Pacific Marine Supply與Camarc Design合資企業授予約7,470萬加元合同。"
+    },
+    {
+      "id": "4968051",
+      "time": "2026-07-02 23:38:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根士丹利等機構不認同看漲美元的市場主流觀點】法國農業信貸銀行、摩根士丹利和道明證券的外匯策略師，紛紛一反市場主流觀點，並不認為美元會走強。彭博美元現貨指數6月上漲2%，創伊朗戰爭爆發以來最佳單月表現。推動這輪漲勢的關鍵因素之一，是市場預期美聯儲將把利率維持在高位，甚至進一步加息。此前，新任美聯儲主席凱文·沃什在6月17日的新聞釋出會上強調，央行將致力於抗擊通脹。美元此輪升勢動能之強，以至於投機交易員對美元的看漲押注已升至一年半來最極端水平。在這種背景下，包括Stephen Jen的Eurizon SLJ Capital在內，越來越多預測人士開始認為，投資者透過押注美元上漲所能獲得的收益，目前大致已被榨取殆盡。法國農業信貸銀行G-10外匯研究與策略主管Valentin Marinov表示：“美元看起來已經處於超買且估值過高的狀態。美聯儲的鷹派程度未必會像美國利率市場預期的那樣強。”"
+    },
+    {
+      "id": "mkt:019f237b-8072-7aab-8c80-37b3a17f6f37",
+      "time": "2026-07-02 23:38:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Department of Justice is investigating alleged insider trading tied to trades that inflicted losses at Susquehanna; the US Securities and Exchange Commission is conducting a parallel probe."
+    },
+    {
+      "id": "4968050",
+      "time": "2026-07-02 23:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：持續支援我方防空力量至關重要。"
+    },
+    {
+      "id": "4968049",
+      "time": "2026-07-02 23:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯再度將襲擊矛頭對準普通平民與民用住宅，基輔市內已有超過 130 棟建築在襲擊中受損。"
+    },
     {
       "id": "4968048",
       "time": "2026-07-02 23:37:19",
@@ -128302,90 +128373,6 @@
         "國際"
       ],
       "text": "拜耳：美國法院裁決有望大幅遏制相關訴訟規模。"
-    },
-    {
-      "id": "4955556",
-      "time": "2026-06-25 23:41:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【國際貨幣基金組織：美國經濟增長依舊強勁】IMF 表示美國經濟持續穩健增長，其一季度國內生產總值（GDP）上修至 2.1% 是有力佐證。該機構預計通脹將逐步回落，至 2027 年達到美聯儲 2% 的通脹目標，並支援美聯儲當前維持利率不變的政策。"
-    },
-    {
-      "id": "mkt:019eff70-fd1a-7dd8-b120-e96d0a69028f",
-      "time": "2026-06-25 23:40:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israeli forces control southern Lebanon from the Beaufort Heights and will remain in the security zone, not withdrawing as long as necessary. He said forces have shifted control from one area to another and will continue to hold those zones to defend northern residents and all Israeli citizens."
-    },
-    {
-      "id": "mkt:019eff6f-a144-7dd8-b120-e4b863d91bd9",
-      "time": "2026-06-25 23:39:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities closed higher on Thursday June 25: Germany's DAX 30 rose 296.72 pts (+1.20%) to 25,012.96, the UK's FTSE 100 gained 73.68 pts (+0.70%) to 10,535.31, France's CAC 40 added 46.12 pts (+0.55%) to 8,431.61, the Stoxx Europe 50 advanced 54.66 pts (+0.88%) to 6,269.36, Spain's IBEX 35 climbed 135.00 pts (+0.70%) to 19,524.50 and Italy's FTSE MIB increased 155.56 pts (+0.30%) to 51,794.50."
-    },
-    {
-      "id": "mkt:019eff6f-8abe-7dd8-b120-dc676c8c65d6",
-      "time": "2026-06-25 23:39:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Italy denies US used its bases to strike Iran】On the 25th, Italian Foreign Minister Tajani told his Iranian counterpart by phone he firmly rejects the NATO secretary-general’s recent claim that US forces used Italian military bases in operations against Iran. Tajani said Italian bases have never been used for attacks on Iran and will not be; no US warplanes departed Italian territory to bomb Iran and Rome never authorised such operations. The Iranian foreign minister thanked Italy for the clarification and said a clear, formal denial was necessary."
-    },
-    {
-      "id": "4955555",
-      "time": "2026-06-25 23:39:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠豐鑽石：公司散熱產品收入極少 佔營業收入比例極低】惠豐鑽石釋出風險提示公告，公司是一家專業從事人造金剛石單晶微粉、微粉延伸應用產品及CVD金剛石材料的研發、生產和銷售的高新技術企業，主要產品包括金剛石微粉、金剛石破碎整形料及CVD培育鑽石等。經自查，公司目前生產經營情況正常，公司主營業務未發生重大變化。近期金剛石散熱應用相關概念關注度較高，但截至目前，公司散熱產品收入極少，佔營業收入比例極低。散熱產品在下游應用能否順利實現，影響的因素較多且存在較大的不確定性，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "4955554",
-      "time": "2026-06-25 23:38:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利外長否認美軍使用該國軍事基地轟炸伊朗】當地時間25日，義大利外交部長塔亞尼與伊朗外交部長阿拉格齊通電話。通話中，塔亞尼堅決否認北約秘書長近期關於“美國在對伊朗軍事行動中使用義大利軍事基地”的說法。塔亞尼強調，義大利的軍事基地從未被用於針對伊朗的任何襲擊行動，未來也不會發生類似情況，並表示，美軍戰機並未從義大利領土起飛轟炸伊朗，義大利政府也從未授權此類軍事行動。阿拉格齊對意方此次通話及相關澄清表示感謝，同時強調義大利政府有必要對相關言論作出明確、正式的否認。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eff6e-e57a-7dd8-b120-d40c4fc21fb1",
-      "time": "2026-06-25 23:38:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said topics discussed with U.S. President Trump included NATO and Iran."
-    },
-    {
-      "id": "4955553",
-      "time": "2026-06-25 23:38:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：與特朗普討論的議題包括北約、伊朗。"
-    },
-    {
-      "id": "mkt:019eff6e-b890-7dd8-b120-cf04ef9ae334",
-      "time": "2026-06-25 23:38:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Carney said he held extended talks with U.S. President Trump and several senior U.S. officials on a range of issues."
     }
   ]
 }
