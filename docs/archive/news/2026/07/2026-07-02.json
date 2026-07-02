@@ -1,7 +1,74 @@
 {
   "date": "2026-07-02",
-  "count": 1162,
+  "count": 1169,
   "items": [
+    {
+      "id": "mkt:019f2122-02b5-7aab-8c6c-aedaf91d8e23",
+      "time": "2026-07-02 12:41:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said it shot down 327 Ukrainian drones overnight."
+    },
+    {
+      "id": "4966565",
+      "time": "2026-07-02 12:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄通訊社援引俄國防部訊息稱：俄羅斯昨夜擊落327架烏克蘭無人機。"
+    },
+    {
+      "id": "4966564",
+      "time": "2026-07-02 12:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【珠海釋出全國首個城市級“海上新基建”建設行動方案】廣東珠海釋出了全國首個城市級“海上新基建”建設行動方案及首批投資機會清單。根據《珠海市“海上新基建”建設行動方案（2026-2028年）》，到2028年底，珠海將全面建成物理、數字、生態空間深度融合的現代化海上新基建體系。33個投資機會清單涵蓋智慧航運、深遠海綠能、海底算力、海洋牧場、海島開發等領域，包括萬山海域海底資料中心、海上綜合能源島、具身智慧海洋特色模擬訓練區等。（證券時報）"
+    },
+    {
+      "id": "4966563",
+      "time": "2026-07-02 12:40:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【訊息人士：日本改採“突襲式”干預手法，劍指日元空頭】據媒體援引兩位知情人士表示，日本官員正在摒棄事先透露干預風險的慣例，轉而暗示將採取更有針對性的行動，以打壓投機者，並提高做空日元的成本。訊息人士稱，與此前干預行動前那種經過精心斟酌的口頭干預不同，財務省可能會突然出手，一舉清除日元投機頭寸。官員們也將刻意迴避任何關於具體\"觸發干預的匯率紅線\"的表態。這一轉變反映出財務省更為激進的政策取向——以沉默作為政策工具，令交易員無從揣摩。訊息人士稱，這增加了突然干預的風險：干預的導火索將是投機性日元空頭頭寸的不斷累積，而非匯率突破某個公開已知的關口。另外兩位訊息人士稱，日本財務省的新策略，以及日本央行持續的鷹派言論，表明雙方正協調行動以遏制日元空頭。所有訊息人士均因事件敏感而要求匿名。"
+    },
+    {
+      "id": "4966562",
+      "time": "2026-07-02 12:39:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀旗下的LY與貝恩再次提高對Kakaku的收購報價 估值達41億美元】軟銀旗下的LY Corp 與貝恩資本再次提高了對Kakaku.com 的收購報價，將這家日本比價網站運營商的估值定為6,700億日元（41.2億美元），從而進一步拉大了與瑞典EQT 提出的競購報價之間的差距。在週三晚間公佈的具有法律約束力的要約中，LY和貝恩表示，將把對Kakaku.com所有流通股的收購報價從5月份提出的每股3,232日元上調至每股3,384日元。針對這一新提案，Kakaku.com週四在一份宣告中表示，將就EQT目前每股3,000日元的報價與其進行磋商，同時維持對這家瑞典投資公司收購要約的支援。該公司撤回了此前支援EQT收購要約的股東建議，將立場調整為“中立”，並補充稱將與兩家競購方展開磋商。"
+    },
+    {
+      "id": "te:markets:563634",
+      "time": "2026-07-02 12:38:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Gains on Lower Oil Prices — India’s BSE Sensex rose about 0.7% to 77,383 in early trade on Thursday, following gains in the previous session, as lower crude oil prices lifted sentiment in the import-dependent economy. Brent crude slipped below $71 a barrel after signs of progress in indirect US-Iran talks eased concerns over India's inflation and import bill. Among individual stocks, V-Mart Retail gained after reporting a 23% increase in quarterly revenue and 9% same-store sales growth. Banking shares were also in focus after Indian Bank and Punjab & Sind Bank reported double-digit growth in gross advances. Despite the upbeat start, investors remained cautious ahead of key US unemployment data due later in the day, which is expected to remain unchanged at 4.3% and could offer fresh clues on the Federal Reserve's interest-rate path. Top performers included Vedanta Oil and Gas (11.6%), RHIM (9.4%), Sonata (8.5%), Exide (5.2%), Infosys (4.6%), and Vedanta (4.1%)."
+    },
+    {
+      "id": "4966561",
+      "time": "2026-07-02 12:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀旗下LY與貝恩資本再次提高對Kakaku的收購報價，估值達41億美元。"
+    },
     {
       "id": "4966560",
       "time": "2026-07-02 12:37:53",
