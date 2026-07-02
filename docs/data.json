@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-02 12:57:49",
-  "count": 14028,
+  "updated": "2026-07-02 13:01:40",
+  "count": 14016,
   "items": [
+    {
+      "id": "mkt:019f2133-b032-7aab-8c6c-bd8391104743",
+      "time": "2026-07-02 13:01:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates Global Aluminium says its recycling plants in the US and Germany will remain in production through 2026."
+    },
+    {
+      "id": "4966584",
+      "time": "2026-07-02 12:59:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國報告呼籲儘快完善人工智慧治理】聯合國“人工智慧獨立國際科學小組”1日就人工智慧可能帶來的機遇、風險與影響釋出初步報告。報告在肯定人工智慧巨大潛在益處的同時，呼籲各國儘快採取行動，完善人工智慧治理。報告說，近年來人工智慧技術快速發展，如果部署和應用得當，可助力實現可持續發展目標，促進健康科學發展，擴大受教育機會。不過，該技術發展速度之快，潛在應用範圍之廣，也給政策制定者帶來重大挑戰。大規模、未加管控地快速部署人工智慧技術會帶來巨大風險，對社會、經濟和環境等產生負面影響。報告指出，快速提升的能力與有效的風險管理方法之間的差距可能導致災難性後果。要充分實現人工智慧的效益，同時儘量降低風險，就需要良好的治理。政策制定者通常需要科學證據來實現有效治理，但等到證據確鑿時再採取行動，或許為時已晚，因為證據的積累滯後於人工智慧的發展速度。這份報告為聯合國會員國的決策提供了一個共享的證據基礎。"
+    },
+    {
+      "id": "4966583",
+      "time": "2026-07-02 12:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光電子先導院完成新一輪融資】7月2日，據中科創星訊息，陝西光電子先導院科技有限公司近日完成新一輪融資，本次引入陝西西安國資國企綜合改革試驗基金(有限合夥)、國開科技創業投資有限責任公司、中科創星三家投資機構與產業資本增資。本輪融資的資金主要用於矽光工藝研發，少部分用於光通訊VCSEL工藝研發及異質整合預研，推動公司從“中試平臺”向“全鏈條產業賦能型平臺”升級。"
+    },
     {
       "id": "4966582",
       "time": "2026-07-02 12:56:17",
@@ -129128,158 +129152,6 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司鑽井部門：根據一項價值15.4億美元的鑽井服務合同，六座新一代鑽井平臺中的首座已提前近三個月交付。"
-    },
-    {
-      "id": "mkt:019efd27-5847-7dd8-b10d-36d0c87883f5",
-      "time": "2026-06-25 13:01:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "513310.SZ",
-        "Impact bullish"
-      ],
-      "text": "China-Korea Semiconductor ETF (513310) rose more than 5%; turnover exceeded 6.2 bln yuan."
-    },
-    {
-      "id": "mkt:019efd27-386a-7dd8-b10d-2acfc5f860a4",
-      "time": "2026-06-25 13:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan coincident index, final for April, MoM +1.3%; prior +1.1%."
-    },
-    {
-      "id": "mkt:019efd27-241f-7dd8-b10d-252c5c05e593",
-      "time": "2026-06-25 13:01:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan April coincident index (final) 118.1; prior 117.9."
-    },
-    {
-      "id": "mkt:019efd27-18fb-7dd8-b10d-1df9c22e31e3",
-      "time": "2026-06-25 13:00:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Final (MoM) (Apr) | actual 1.3% | previous 1.1%"
-    },
-    {
-      "id": "mkt:019efd27-15a6-7dd8-b10d-16a40e270743",
-      "time": "2026-06-25 13:00:57",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's leading economic index, final for April, rose 0.7% MoM, up from 0.5% previously."
-    },
-    {
-      "id": "mkt:019efd27-073f-7dd8-b10d-0c2f9acecc84",
-      "time": "2026-06-25 13:00:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Final (Apr) | actual 118.1 | previous 117.9"
-    },
-    {
-      "id": "mkt:019efd26-fda5-7dd8-b10d-01ac8873adb6",
-      "time": "2026-06-25 13:00:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April composite leading index (final) 116.1, up from 115.9."
-    },
-    {
-      "id": "mkt:019efd26-f53a-7dd8-b10c-f8162736b4a8",
-      "time": "2026-06-25 13:00:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Final (MoM) (Apr) | actual 0.7% | previous 0.5%"
-    },
-    {
-      "id": "mkt:019efd26-dd65-7dd8-b10c-f64ef907e4e4",
-      "time": "2026-06-25 13:00:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Final (Apr) | actual 116.1 | previous 115.9"
-    },
-    {
-      "id": "4954147",
-      "time": "2026-06-25 13:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方兩倍做多海力士(07709)午後漲超20%。"
-    },
-    {
-      "id": "4954146",
-      "time": "2026-06-25 13:00:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "Betashares投資策略師Hugh Lam表示：美光隔夜釋出的財報提醒投資者，記憶體週期和更廣泛的人工智慧交易的永續性將持續下去。儘管市場情緒會因股價的劇烈波動而劇烈震盪，但DRAM和NAND兩大晶片的結構性供應限制至少在2027年內為這些股票的進一步疲軟提供了支撐。"
-    },
-    {
-      "id": "mkt:019efd26-ba3e-7dd8-b10c-ef48f24a139f",
-      "time": "2026-06-25 13:00:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "China Southern Asset Management's 2x long SK hynix (07709) product surged over 20% in afternoon trade."
-    },
-    {
-      "id": "4954145",
-      "time": "2026-06-25 13:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月同步指標終值 118.1，初值 117.9。日本4月領先指標終值 116.1，初值 115.9。"
-    },
-    {
-      "id": "4954144",
-      "time": "2026-06-25 13:00:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【許昆林王新偉會見沙特國際電力和水務公司董事長穆罕默德·阿布納揚】據遼寧日報，6月25日，遼寧省委書記許昆林、省長王新偉在大連會見出席2026大連夏季達沃斯論壇的沙特國際電力和水務公司董事長穆罕默德·阿布納揚一行。許昆林說，雙方產業發展方向高度契合、合作潛力巨大，希望沙特國際電力和水務公司持續深耕遼寧，加快專案建設，深化新能源領域的全方位合作，攜手遼寧科研院所、高校、企業開展聯合攻關，推動科技成果轉化落地，積極帶動更多企業來遼投資興業，實現更深層次、更寬領域的合作共贏。"
-    },
-    {
-      "id": "mkt:019efd25-58f9-7dd8-b10c-e7b914d22ec0",
-      "time": "2026-06-25 12:59:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "Market Themes",
-        "AI Revolution",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "【Pulaisi Group prefers short-duration fixed income amid inf risk】Vincent Chung, co-portfolio manager at Pulaisi Group, said a global manufacturing rebound and rising raw-materials costs mean markets may be underestimating the risk of more persistent inf. He cautioned that expected AI-driven productivity gains could take time to materialize and that a market re-pricing of growth, inf and rates could increase volatility. Chung prefers short-duration fixed income, including high-quality global high-yield and selective emerging-market credit, and views inflation-linked bonds as a useful portfolio diversifier."
     }
   ]
 }
