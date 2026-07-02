@@ -1,7 +1,72 @@
 {
   "date": "2026-07-02",
-  "count": 1120,
+  "count": 1126,
   "items": [
+    {
+      "id": "mkt:019f2109-2b96-7aab-8c6c-2b2a71e71d4f",
+      "time": "2026-07-02 12:14:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 5bps to 2.750%."
+    },
+    {
+      "id": "4966538",
+      "time": "2026-07-02 12:14:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲5.0個基點，至2.750%。"
+    },
+    {
+      "id": "te:markets:563632",
+      "time": "2026-07-02 12:14:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Weakness Deepens on Fitch Alert, Trade Gap — The rupiah dipped around IDR 17,990 per dollar on Thursday, marking a fourth straight session of losses as broad U.S. dollar strength weighed ahead of the key nonfarm payrolls release. Domestic sentiment also soured after Fitch Ratings warned that sustained capital outflows or a prolonged decline in foreign reserves could pressure Indonesia’s credit profile, following its March outlook cut to negative from stable. Fresh economic data further pressured the currency, as Indonesia posted its first trade deficit since April 2020 in May, with exports unexpectedly falling while imports maintained double-digit growth, reducing support from external balances. Still, the rupiah's losses were partly limited by lower oil prices, which eased fiscal pressures, along with a recent pledge from the central bank to deploy all available tools to stabilise the rupiah. Meanwhile, June inflation accelerated further, moving closer to the upper end of Bank Indonesia's 1-1/2%-3-1/2% target band."
+    },
+    {
+      "id": "4966537",
+      "time": "2026-07-02 12:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞銀將試執行美國銀行業務，爭取美國富裕客戶。"
+    },
+    {
+      "id": "mkt:019f2106-bd89-7aab-8c6c-266729f5a62f",
+      "time": "2026-07-02 12:11:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "【Report: OpenAI proposed 5% stake sale to Trump administration】The Financial Times reports OpenAI is discussing selling a 5% stake to the Trump administration; the AI firm is valued at about 852 bln dlr and is seeking administration financial support to remove political obstacles. CEO Sam Altman has argued public ownership is the best way to share AI gains and reportedly proposed this scale of stake in early government talks. The proposal would envisage other US AI firms selling similar stakes, though it is unclear if they would participate. OpenAI and rival Anthropic have delayed advanced model releases amid US government review, and some Republicans and Trump advisers are pushing for tighter regulation."
+    },
+    {
+      "id": "mkt:019f2106-66de-7aab-8c6c-1cc123485945",
+      "time": "2026-07-02 12:11:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese 40-year government bond yield rose 4.5 bps to 3.840%."
+    },
     {
       "id": "mkt:019f2105-bed7-7aab-8c6c-1594533f4eaa",
       "time": "2026-07-02 12:10:52",

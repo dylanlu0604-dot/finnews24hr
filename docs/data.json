@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-02 12:11:42",
-  "count": 14019,
+  "updated": "2026-07-02 12:15:32",
+  "count": 14017,
   "items": [
+    {
+      "id": "mkt:019f2109-2b96-7aab-8c6c-2b2a71e71d4f",
+      "time": "2026-07-02 12:14:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield rose 5bps to 2.750%."
+    },
+    {
+      "id": "4966538",
+      "time": "2026-07-02 12:14:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲5.0個基點，至2.750%。"
+    },
+    {
+      "id": "te:markets:563632",
+      "time": "2026-07-02 12:14:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Weakness Deepens on Fitch Alert, Trade Gap — The rupiah dipped around IDR 17,990 per dollar on Thursday, marking a fourth straight session of losses as broad U.S. dollar strength weighed ahead of the key nonfarm payrolls release. Domestic sentiment also soured after Fitch Ratings warned that sustained capital outflows or a prolonged decline in foreign reserves could pressure Indonesia’s credit profile, following its March outlook cut to negative from stable. Fresh economic data further pressured the currency, as Indonesia posted its first trade deficit since April 2020 in May, with exports unexpectedly falling while imports maintained double-digit growth, reducing support from external balances. Still, the rupiah's losses were partly limited by lower oil prices, which eased fiscal pressures, along with a recent pledge from the central bank to deploy all available tools to stabilise the rupiah. Meanwhile, June inflation accelerated further, moving closer to the upper end of Bank Indonesia's 1-1/2%-3-1/2% target band."
+    },
+    {
+      "id": "4966537",
+      "time": "2026-07-02 12:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞銀將試執行美國銀行業務，爭取美國富裕客戶。"
+    },
+    {
+      "id": "mkt:019f2106-bd89-7aab-8c6c-266729f5a62f",
+      "time": "2026-07-02 12:11:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "【Report: OpenAI proposed 5% stake sale to Trump administration】The Financial Times reports OpenAI is discussing selling a 5% stake to the Trump administration; the AI firm is valued at about 852 bln dlr and is seeking administration financial support to remove political obstacles. CEO Sam Altman has argued public ownership is the best way to share AI gains and reportedly proposed this scale of stake in early government talks. The proposal would envisage other US AI firms selling similar stakes, though it is unclear if they would participate. OpenAI and rival Anthropic have delayed advanced model releases amid US government review, and some Republicans and Trump advisers are pushing for tighter regulation."
+    },
+    {
+      "id": "mkt:019f2106-66de-7aab-8c6c-1cc123485945",
+      "time": "2026-07-02 12:11:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese 40-year government bond yield rose 4.5 bps to 3.840%."
+    },
     {
       "id": "mkt:019f2105-bed7-7aab-8c6c-1594533f4eaa",
       "time": "2026-07-02 12:10:52",
@@ -129105,75 +129170,6 @@
         "國際"
       ],
       "text": "【委內瑞拉發生強震後，馬杜羅社交媒體賬號更新動態發聲】 據美國有線電視新聞網報道，委內瑞拉當地時間24日發生強震後，委內瑞拉總統馬杜羅的社交媒體賬號更新一則帖子。“今天，只有一點資訊：最大限度團結、最大限度行動。”帖子稱，不要讓任何人孤立無援。（環球網）"
-    },
-    {
-      "id": "4954104",
-      "time": "2026-06-25 12:15:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【B站影片播客單日播放時長突破1億分鐘】 6月25日，B站釋出《嗶哩嗶哩影片播客創作手冊》（1.0版本），首次系統披露平臺影片播客生態的增長情況、內容特徵與創作趨勢。其中提到，今年5月13日，B站影片播客單日播放時長首次突破1億分鐘；預計到明年，影片播客日均播放時長有望達到3億分鐘，同比增長300%。在B站，超過一半的影片播客內容時長超過30分鐘，2小時以上的“超長播客”投稿量增長了近9倍。（第一財經）"
-    },
-    {
-      "id": "4954103",
-      "time": "2026-06-25 12:14:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【精工科技：公司碳纖維材料尚未向AI眼鏡企業供貨】 精工科技(002006)6月25日在互動平臺表示，截至目前，公司碳纖維材料尚未向AI眼鏡企業供貨。"
-    },
-    {
-      "id": "4954102",
-      "time": "2026-06-25 12:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第六次中蒙進出口食品安全磋商機制會議在廈門召開】 6月24日，海關總署副署長王軍與蒙古國食品、農業與輕工業部國務秘書扎木巴勒策仁在廈門共同主持召開第六次中蒙進出口食品安全磋商機制會議。雙方就落實中蒙兩國元首重要共識，圍繞深化檢驗檢疫領域務實合作、推進電子證書聯網、促進農食產品貿易發展等議題交換意見，達成廣泛共識，並簽署會議紀要和相關合作檔案。（海關總署）"
-    },
-    {
-      "id": "4954101",
-      "time": "2026-06-25 12:14:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "莎莎國際全年營收43.8億港元，預估43億港元；莎莎國際全年淨利潤2.005億港元。"
-    },
-    {
-      "id": "4954100",
-      "time": "2026-06-25 12:14:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金融監管總局系統指導保險業做好夏糧農險理賠服務】 國家金融監督管理總局6月25日介紹，受近期強降雨等因素影響，部分夏糧主產省份受災嚴重。金融監管總局系統積極推動保險業加大農業保險理賠力度，提升服務水平，有效發揮農業保險經濟補償功能，最大限度降低農業生產損失，穩定農民收益。 資料顯示，今年1至5月，全國農業保險已賠付370億元，受益農戶1209萬戶次。糧食作物保險已賠付60.47億元，受益農戶546.31萬戶次，其中，小麥保險已賠付30.93億元，受益農戶343.42萬戶次。農險賠款為受災農戶恢復再生產發揮了重要作用。 據介紹，金融監管總局召開影片排程會，對8個省份和8家主要財險公司開展夏糧農險理賠工作進行排程。金融監管總局要求保險公司規範查勘定損操作、提升理賠服務效率、加大基層資源投入；加強夏糧主產區主糧作物理賠案件回訪，及時關注投保農戶的投訴，對反映的問題線索進行全面核查和整改。 金融監管總局要求各金融監管局加強與財政、農業農村等相關部門的溝通協調，統籌轄內分局、支局監管資源，緊盯夏糧理賠滯後、服務缺位等突出問題，開展轄內夏糧農險理賠督導工作。(新華社)"
-    },
-    {
-      "id": "4954099",
-      "time": "2026-06-25 12:13:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【海關總署公告2026年第88號（關於全面推廣《貨物進口證明書（汽車、摩托車）》和《進口機動車輛隨車檢驗單》“兩證合一”改革的公告）】\n\n為進一步最佳化營商環境，提升進口機動車輛通關效率，促進我國汽車產業持續健康發展，海關總署、公安部決定全面推廣《貨物進口證明書（汽車、摩托車）》（以下簡稱《證明書》）和《進口機動車輛隨車檢驗單》（以下簡稱《隨車單》）“兩證合一”改革。現就有關事項公告如下：\n\n一、依法向海關申報進口的汽車、摩托車，對原按照海關總署公告2015年第34號（關於《貨物進口證明書》相關事宜的公告）、《進口汽車檢驗管理辦法》（原國家出入境檢驗檢疫局令第1號公佈，根據海關總署令第238號、240號修改）分別簽發《證明書》和《隨車單》的，在進口車輛辦結放行手續並經檢驗合格後，簽發“兩證合一”的《貨物進口證明書（汽車、摩托車）》（以下稱新版《證明書》）。\n\n二、進口貨物收貨人應當自進口汽車、摩托車放行並經檢驗合格後三年內向海關提出簽發新版《證明書》申請。\n\n三、進口非中規車的，進口貨物收貨人應當在報關單“規格型號”欄目中申報原銷售目的國車版、型（如“原歐規”“原美規”“原加規”“原中東規”等）。\n\n四、進口貨物收貨人申請僅簽發《證明書》或者《隨車單》之一的，按照原規定辦理申請手續。\n\n五、海關總署公告2015年第34號中與本公告規定不一致的，以本公告為準。\n\n本公告自2026年7月1日起施行。海關總署公告2023年第43號，海關總署、公安部公告2024年第70號以及海關總署、公安部公告2025年第89號同時廢止。"
-    },
-    {
-      "id": "te:markets:561733",
-      "time": "2026-06-25 12:12:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Slides to One-Week Low — Malaysian palm oil futures slid almost 2% to below MYR 4,600 per tonne, marking a one-week low and registering losses of over 2% so far this week. Sentiment weakened amid a stronger ringgit and weaker edible oil prices on Dalian and Chicago exchanges. Meanwhile, crude oil prices eased toward pre-conflict levels, eroding palm oil’s competitiveness and biofuel appeal. Pressure also followed Malaysia’s cut to its July crude palm oil reference price, though the export duty stayed at 10%. Still, losses were tempered by firm export demand, with cargo surveyors estimating June 1–20 shipments rose 19.1%–25% from the same period in May. Meantime, supply concerns lingered as El Niño continued to curb output. In top producer Indonesia, the B50 biodiesel mandate will kick off on July 1, potentially expanding domestic use. Meanwhile, India’s June palm oil imports are projected above 600,000 tonnes, compared with 549,356 tonnes in May, underscoring resilient demand from the world's largest buyer."
-    },
-    {
-      "id": "4954098",
-      "time": "2026-06-25 12:12:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴基斯坦對涉華鄰苯二甲酸酐啟動反傾銷日落複審調查】5月23日，巴基斯坦國家關稅委員會發布第56號案件的最新公告稱，應巴基斯坦生產商Nimir Chemicals Pakistan Limited和PA-Chem Global Private Limited於2026年4月15日提交的申請，對原產於或進口自中國大陸、韓國、俄羅斯和中國臺灣地區的鄰苯二甲酸酐啟動反傾銷第一次日落複審調查。"
     }
   ]
 }
