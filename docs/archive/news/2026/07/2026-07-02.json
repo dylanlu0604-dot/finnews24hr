@@ -1,7 +1,101 @@
 {
   "date": "2026-07-02",
-  "count": 524,
+  "count": 534,
   "items": [
+    {
+      "id": "4966099",
+      "time": "2026-07-02 08:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英格蘭地區遭遇有系統觀測以來最熱6月】英國氣象局7月1日表示，今年6月，英格蘭地區經歷了英國有系統觀測以來最熱的6月。6月26日諾福克郡林伍德最高氣溫達到37.7攝氏度，創下英國有系統觀測以來6月最高氣溫紀錄。（央視新聞）"
+    },
+    {
+      "id": "4966098",
+      "time": "2026-07-02 08:19:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計通脹將在一段時間內保持高位。"
+    },
+    {
+      "id": "4966097",
+      "time": "2026-07-02 08:19:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：7月消費者價格通脹率預計略低於6月。"
+    },
+    {
+      "id": "4966096",
+      "time": "2026-07-02 08:19:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行預測，消費者價格通脹短期內將維持在高位。"
+    },
+    {
+      "id": "mkt:019f2031-006e-7aab-8c68-032eedf75edf",
+      "time": "2026-07-02 08:18:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kioxia's Japan-listed shares fell 9%."
+    },
+    {
+      "id": "mkt:019f202f-fa9d-7aab-8c67-fa3c8998dcb9",
+      "time": "2026-07-02 08:17:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【South Korea inflation stays elevated, reinforcing Bank of Korea hawkish stance】South Korea June CPI rose 3.2% YoY, the fastest pace since Dec 2023 and in line with economists' forecasts. Core inflation excluding volatile food and energy held at 2.5%, signalling persistent underlying price pressures. The print reinforces expectations that the Bank of Korea will remain hawkish ahead of its July 16 policy meeting; policymakers cite inflation, strong growth, a weaker won and surging house prices as increasingly pointing to the need to tighten monetary policy."
+    },
+    {
+      "id": "4966095",
+      "time": "2026-07-02 08:17:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會就海納國際指控的相關內幕期權交易展開調查。"
+    },
+    {
+      "id": "mkt:019f202f-a2ba-7aab-8c67-f43efbe7903c",
+      "time": "2026-07-02 08:17:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "DAX",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures down 0.3%; DAX futures down 0.2%; FTSE 100 futures down 0.2%; Nasdaq futures down 0.3%."
+    },
+    {
+      "id": "4966094",
+      "time": "2026-07-02 08:16:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.3%，德國DAX指數期貨下滑0.2%，英國富時指數期貨走低0.2%。"
+    },
+    {
+      "id": "4966093",
+      "time": "2026-07-02 08:16:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "和譽在港交所公告，公司之附屬公司和譽醫藥宣佈，與阿斯利康簽署戰略合作協議，共同推進一項新型靶免聯合療法治療非小細胞肺癌（“NSCLC”）的臨床研究。"
+    },
     {
       "id": "4966092",
       "time": "2026-07-02 08:15:02",
