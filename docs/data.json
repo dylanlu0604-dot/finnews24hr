@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-02 13:58:50",
+  "updated": "2026-07-02 14:02:50",
   "count": 13999,
   "items": [
+    {
+      "id": "4966664",
+      "time": "2026-07-02 14:01:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐元斯托克歐洲50指數期貨<STXEc1>下跌0.19%，德國DAX指數期貨<FDXc1>持平，法國CAC 40指數期貨<FCEc1>上漲0.05%，富時指數期貨<FFIc1>下跌0.08%。"
+    },
+    {
+      "id": "4966663",
+      "time": "2026-07-02 14:01:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：將阿斯麥目標價從1770歐元上調至2000歐元。"
+    },
+    {
+      "id": "mkt:019f216a-e3cc-7aab-8c6d-df3ac8cdb685",
+      "time": "2026-07-02 14:01:20",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs raises ASML PT to €2,000 from €1,770."
+    },
+    {
+      "id": "te:markets:563641",
+      "time": "2026-07-02 14:01:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End 0.2% Lower — The NZX 50 fell 28 points, or 0.2%, to close at 13,582 on Thursday, extending losses from the previous session, mainly driven by the communication services, energy, consumer staples, and technology sectors. Communication services fell 2.8%, with Spark New Zealand, New Zealand's largest telecommunications and digital services company, slumping 3.7%, while Chorus, New Zealand's largest telecommunications network operator, saw its share price drop 2.5%. The broader index tracked a decline on Wall Street overnight as traders reassessed the sustainability of the AI-driven rally. Traders anticipated the release of New Zealand's consumer spending data for May, due on Friday. However, easing oil prices helped limit the losses as inflation concerns subsided, reducing expectations of an interest rate hike. Other losers included Ebos Group (-2.7%) and A2 Milk (-1.3%), while Infratil and Hallenstein Glasson each dropped 0.8%."
+    },
+    {
+      "id": "4966662",
+      "time": "2026-07-02 14:00:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國副財政部長：與日本在外匯事務上保持密切溝通；美元-韓元匯率與經濟基本面不符。"
+    },
+    {
+      "id": "mkt:019f216a-4482-7aab-8c6d-d4e1e496ad1d",
+      "time": "2026-07-02 14:00:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "South Korea's deputy finance minister said Seoul is maintaining close communication with Japan on foreign-exchange matters and that the USD-KRW rate is inconsistent with economic fundamentals."
+    },
+    {
+      "id": "mkt:019f216a-045f-7aab-8c6d-cecda817ea76",
+      "time": "2026-07-02 14:00:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "India's trade minister said India is increasing regulatory barriers with Japan to help expand exports."
+    },
+    {
+      "id": "4966661",
+      "time": "2026-07-02 14:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股映美控股午後漲超110%。"
+    },
+    {
+      "id": "mkt:019f2168-a5b0-7aab-8c6d-c1f33cbe1ee1",
+      "time": "2026-07-02 13:58:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02028.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Yingmei Holdings (02028.HK) jumped more than 110% in afternoon trade."
+    },
     {
       "id": "4966660",
       "time": "2026-07-02 13:57:13",
@@ -128929,90 +129019,6 @@
         "公司"
       ],
       "text": "英國石油公司（BP）與阿布扎比國家石油公司（ADNOC）及其他合作伙伴簽署特許權協議，開發阿布扎比的巴布氣頂專案。"
-    },
-    {
-      "id": "4954228",
-      "time": "2026-06-25 14:01:52",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【1點點再發宣告：所有茶葉及原物料均來自正規供應商，絕非“三無”】1點點alittleTea官方微博6月25日釋出關於近日媒體報道門店食品安全問題的補充說明稱，1點點所有茶葉及所有原物料均採購自具備合法資質的正規供應商，每批次均有完整的供應商資質、檢驗報告和溯源資訊，絕非“三無產品”。報道中涉事門店出現的茶葉無標籤情況，經核查，系店員在將大包裝拆包分裝時未按規定張貼分裝標籤所致。這是門店執行環節的偏差，並不代表1點點使用了來源不明、資訊缺失的產品。"
-    },
-    {
-      "id": "te:markets:561760",
-      "time": "2026-06-25 14:00:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Positive Open — European equity markets were poised to open higher on Thursday, tracking gains across global markets after Micron Technology’s strong earnings report reinforced optimism surrounding the artificial intelligence sector. Investor sentiment was also supported by progress in US-Iran peace efforts, which helped push oil prices back to pre-conflict levels, easing inflation concerns and reducing pressure on central banks to raise interest rates. In Europe, market participants will focus on consumer confidence data from Germany and France, along with Spain’s final first-quarter GDP figures. Meanwhile, the corporate earnings calendar remains relatively quiet, with no major results scheduled for release. In premarket trading, Euro Stoxx 50 futures rose 0.3%, while Stoxx 600 futures gained 0.2%."
-    },
-    {
-      "id": "4954227",
-      "time": "2026-06-25 14:00:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量2845億元。"
-    },
-    {
-      "id": "4954226",
-      "time": "2026-06-25 14:00:07",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國7月Gfk消費者信心指數 -29.2，預期-27.6，前值由-29.8修正為-29.7。"
-    },
-    {
-      "id": "mkt:019efd5d-42d2-7dd8-b10e-81f865b37c5b",
-      "time": "2026-06-25 14:00:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany July GfK consumer confidence -29.2; consensus -27.6; prior revised to -29.7 from -29.8."
-    },
-    {
-      "id": "mkt:019efd5d-247e-7dd8-b10e-7f8b93c85942",
-      "time": "2026-06-25 14:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Gfk Consumer Confidence Survey (Jul) | actual -29.2 | consensus -27.6 | previous -29.8"
-    },
-    {
-      "id": "4954225",
-      "time": "2026-06-25 13:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "NAVER雲：將斥資2460億韓元從韓國政府購買GPU許可證。"
-    },
-    {
-      "id": "4954224",
-      "time": "2026-06-25 13:59:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "攜程港股跌幅擴大至11%，報315.20港元。"
-    },
-    {
-      "id": "mkt:019efd5c-9b96-7dd8-b10e-771c85190cf7",
-      "time": "2026-06-25 13:59:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PBOC to add overnight reverse repo at end-June — implications】The PBOC will add an overnight reverse repo operation at end-June. Huaxi Securities says this should push the overnight rate center toward about 1.30%-1.40% in the short term, guiding market money rates lower. Longer term, whether China’s policy-rate system becomes overnight-rate–centric depends on the operation’s structure: if the PBOC increases frequency and size, short-end market rates could reprice to the overnight policy rate and the framework could shift toward a Fed-style, overnight-rate–led regime; if overnight repos are used only episodically, the existing 7-day reverse repo–centered system would likely persist and overnight repos would merely stabilize the short-end rate center."
     }
   ]
 }

@@ -1,7 +1,97 @@
 {
   "date": "2026-07-02",
-  "count": 1298,
+  "count": 1307,
   "items": [
+    {
+      "id": "4966664",
+      "time": "2026-07-02 14:01:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐元斯托克歐洲50指數期貨<STXEc1>下跌0.19%，德國DAX指數期貨<FDXc1>持平，法國CAC 40指數期貨<FCEc1>上漲0.05%，富時指數期貨<FFIc1>下跌0.08%。"
+    },
+    {
+      "id": "4966663",
+      "time": "2026-07-02 14:01:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：將阿斯麥目標價從1770歐元上調至2000歐元。"
+    },
+    {
+      "id": "mkt:019f216a-e3cc-7aab-8c6d-df3ac8cdb685",
+      "time": "2026-07-02 14:01:20",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs raises ASML PT to €2,000 from €1,770."
+    },
+    {
+      "id": "te:markets:563641",
+      "time": "2026-07-02 14:01:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End 0.2% Lower — The NZX 50 fell 28 points, or 0.2%, to close at 13,582 on Thursday, extending losses from the previous session, mainly driven by the communication services, energy, consumer staples, and technology sectors. Communication services fell 2.8%, with Spark New Zealand, New Zealand's largest telecommunications and digital services company, slumping 3.7%, while Chorus, New Zealand's largest telecommunications network operator, saw its share price drop 2.5%. The broader index tracked a decline on Wall Street overnight as traders reassessed the sustainability of the AI-driven rally. Traders anticipated the release of New Zealand's consumer spending data for May, due on Friday. However, easing oil prices helped limit the losses as inflation concerns subsided, reducing expectations of an interest rate hike. Other losers included Ebos Group (-2.7%) and A2 Milk (-1.3%), while Infratil and Hallenstein Glasson each dropped 0.8%."
+    },
+    {
+      "id": "4966662",
+      "time": "2026-07-02 14:00:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國副財政部長：與日本在外匯事務上保持密切溝通；美元-韓元匯率與經濟基本面不符。"
+    },
+    {
+      "id": "mkt:019f216a-4482-7aab-8c6d-d4e1e496ad1d",
+      "time": "2026-07-02 14:00:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "South Korea's deputy finance minister said Seoul is maintaining close communication with Japan on foreign-exchange matters and that the USD-KRW rate is inconsistent with economic fundamentals."
+    },
+    {
+      "id": "mkt:019f216a-045f-7aab-8c6d-cecda817ea76",
+      "time": "2026-07-02 14:00:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "India's trade minister said India is increasing regulatory barriers with Japan to help expand exports."
+    },
+    {
+      "id": "4966661",
+      "time": "2026-07-02 14:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股映美控股午後漲超110%。"
+    },
+    {
+      "id": "mkt:019f2168-a5b0-7aab-8c6d-c1f33cbe1ee1",
+      "time": "2026-07-02 13:58:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02028.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Yingmei Holdings (02028.HK) jumped more than 110% in afternoon trade."
+    },
     {
       "id": "4966660",
       "time": "2026-07-02 13:57:13",
