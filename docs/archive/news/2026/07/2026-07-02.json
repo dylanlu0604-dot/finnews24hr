@@ -1,7 +1,167 @@
 {
   "date": "2026-07-02",
-  "count": 2852,
+  "count": 2867,
   "items": [
+    {
+      "id": "4967841",
+      "time": "2026-07-02 21:40:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲的戴利表示通脹應會降溫 但經濟前景仍存在不確定性】美國舊金山聯儲銀行行長瑪麗·戴利表示，通脹應會開始放緩，但經濟前景仍存在很大不確定性。戴利週四在西班牙桑坦德舉行的一場西班牙央行活動上表示：“我們的政策仍處於略有限制性的水平，因此通脹應該會回落。”戴利表示，今年春季，由於關稅和美國對伊朗發動戰爭後油價上漲，導致通脹抬頭。她對美伊達成停火協議後油價漲勢回落表示歡迎，並稱這帶來了“緩解的希望”，但同時警告稱，經濟接下來將如何演變仍不得而知。她列舉了多種可能情景，可能要求美聯儲作出不同反應，並表示如果通脹持續，可能需要採取更激進的應對措施。戴利還表示，她願意研究不同和新的方式來評估經濟，但強調，對美聯儲信譽而言，重要的是不能改變其實現充分就業和物價穩定這兩項使命的目標標準。"
+    },
+    {
+      "id": "te:markets:563807",
+      "time": "2026-07-02 21:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.55% Higher — The Dow Jones Index is up by 286 points or 0.55 percent on Thursday. Top gainers are Boeing (3.34%), Nike (3.23%) and Apple (1.88%). Biggest losses came from Cisco Systems (-1.64%), Caterpillar (-1.47%) and Alphabet (-0.86%)."
+    },
+    {
+      "id": "mkt:019f230d-7628-7aab-8c7c-9a7ff6619659",
+      "time": "2026-07-02 21:38:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "HSBC raises Intel (INTC.O) PT to $200 from $100."
+    },
+    {
+      "id": "te:markets:563806",
+      "time": "2026-07-02 21:38:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Dow Extends Record High After NFP — US equity indices rose on Thursday as weaker-than-expected jobs data pushed back expectations that the Federal Reserve may tighten monetary policy. The S&P 500 gained 0.5% the flatline and the Dow rose above 52,500 for the first time on record. The US economy added a net 57K jobs in June, around half of what was expected, to halt the momentum of strong payroll gains. The result tempered the leeway the Fed could have to combat rising inflation this year, supporting the case for no more rate hikes and aiding credit-sensitive equities. Traditional sectors of the economy remained strong, with Visa and Eli Lilly hovering near records. In turn, AI hyperscalers held yesterday's rebound, with Oracle and Microsoft trading higher. In turn, the Nasdaq 100 hovered near the flatline on further weakness from chip producers, with Micron and Sandisk holding recent losses. Lastly, Meta was 2% down after its announcement that it will sell excess compute capacity triggered a rally last session."
+    },
+    {
+      "id": "4967840",
+      "time": "2026-07-02 21:38:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【惠譽：美聯儲無需擔憂就業 油價助攻通脹降溫】惠譽評級首席經濟學家Brian Coulton認為，今天的這些資料意味著美聯儲不必過於擔心其使命中就業方面的問題，但他補充道，“近期勞動力市場資料的另一個顯著特徵是工資增長放緩，這將在油價大幅下跌之際減輕通脹壓力。”"
+    },
+    {
+      "id": "mkt:019f230d-3bfc-7aab-8c7c-9389465a94b3",
+      "time": "2026-07-02 21:38:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) has erased earlier gains and is down 1.2%."
+    },
+    {
+      "id": "mkt:019f230d-285e-7aab-8c7c-8905f14cbdea",
+      "time": "2026-07-02 21:38:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Fitch: Fed needn't worry about jobs; oil drop should ease inflationary pressure】Fitch chief economist Brian Coulton said today's data imply the Fed need not be overly concerned about its employment mandate. He added a notable recent feature of the labour market is slowing wage growth, which should relieve inflationary pressure as oil prices fall sharply."
+    },
+    {
+      "id": "mkt:019f230d-1eca-7aab-8c7c-833e33e49063",
+      "time": "2026-07-02 21:38:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director HASSETT said it is highly unusual that Powell has not yet left the Federal Reserve and voiced concern about Powell’s motives for remaining."
+    },
+    {
+      "id": "4967839",
+      "time": "2026-07-02 21:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將英特爾目標股價從100美元上調至200美元。"
+    },
+    {
+      "id": "4967838",
+      "time": "2026-07-02 21:37:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：擔憂鮑威爾留在美聯儲的動機。"
+    },
+    {
+      "id": "4967837",
+      "time": "2026-07-02 21:37:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價抹去了早盤漲幅，目前下跌1.2%。"
+    },
+    {
+      "id": "4967836",
+      "time": "2026-07-02 21:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統辦公室訊息，黎巴嫩總統為黎以談判進行辯護，稱相關談判並非背叛國家，自己絕不會讓出黎巴嫩一寸領土。"
+    },
+    {
+      "id": "mkt:019f230c-8a22-7aab-8c7c-7931137a1028",
+      "time": "2026-07-02 21:37:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【European major indices widen gains】European major indices widened gains: Germany's DAX +1.9%, Italy's FTSE MIB up as much as 2% intraday, UK's FTSE 100 +1.4%, France's CAC 40 +1.7%."
+    },
+    {
+      "id": "4967835",
+      "time": "2026-07-02 21:37:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：鮑威爾至今未離任美聯儲，這種情況極不尋常。"
+    },
+    {
+      "id": "4967834",
+      "time": "2026-07-02 21:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官方訊息：基輔已有 21 人遇難。"
+    },
     {
       "id": "4967833",
       "time": "2026-07-02 21:36:10",
