@@ -1,7 +1,74 @@
 {
   "date": "2026-07-02",
-  "count": 1204,
+  "count": 1211,
   "items": [
+    {
+      "id": "4966596",
+      "time": "2026-07-02 13:09:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "State Street投資管理公司策略師在一份報告中指出，黃金價格可能在2027年初達到每盎司5000美元，因為黃金的牛市週期仍具持續性；預計未來六到九個月內，基礎金條價格將上漲至每盎司4750至5500美元。"
+    },
+    {
+      "id": "mkt:019f2139-9b75-7aab-8c6d-16fdc9a8ad4f",
+      "time": "2026-07-02 13:07:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE’s Global Aluminium says its Jebel Ali plant continues to operate at full capacity, producing aluminium."
+    },
+    {
+      "id": "mkt:019f2139-1d4c-7aab-8c6d-08b92e002f70",
+      "time": "2026-07-02 13:06:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium reports the Al Taweelah project restart is progressing smoothly."
+    },
+    {
+      "id": "mkt:019f2139-0725-7aab-8c6d-04a041fea4e0",
+      "time": "2026-07-02 13:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rallied into the afternoon, gaining more than 3%."
+    },
+    {
+      "id": "mkt:019f2138-b657-7aab-8c6c-fb0c5b7f3ce6",
+      "time": "2026-07-02 13:06:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium said its Al Taweelah casting plant will produce its first cast metal on May 4 next year."
+    },
+    {
+      "id": "4966594",
+      "time": "2026-07-02 13:06:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.00%，成分股中，錦華新材漲10.16%，三協電機漲9.98%，戈碧迦漲8.72%，萬達軸承漲7.00%。"
+    },
+    {
+      "id": "mkt:019f2138-6447-7aab-8c6c-f249fdbcd2a9",
+      "time": "2026-07-02 13:06:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium says its bauxite processing plant in Al Taweelah is expected to record first bauxite production in early Q3."
+    },
     {
       "id": "mkt:019f2137-c8c3-7aab-8c6c-eb18db574619",
       "time": "2026-07-02 13:05:31",

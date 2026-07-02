@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-02 13:06:25",
-  "count": 14022,
+  "updated": "2026-07-02 13:10:30",
+  "count": 14017,
   "items": [
+    {
+      "id": "4966596",
+      "time": "2026-07-02 13:09:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "State Street投資管理公司策略師在一份報告中指出，黃金價格可能在2027年初達到每盎司5000美元，因為黃金的牛市週期仍具持續性；預計未來六到九個月內，基礎金條價格將上漲至每盎司4750至5500美元。"
+    },
+    {
+      "id": "mkt:019f2139-9b75-7aab-8c6d-16fdc9a8ad4f",
+      "time": "2026-07-02 13:07:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE’s Global Aluminium says its Jebel Ali plant continues to operate at full capacity, producing aluminium."
+    },
+    {
+      "id": "mkt:019f2139-1d4c-7aab-8c6d-08b92e002f70",
+      "time": "2026-07-02 13:06:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium reports the Al Taweelah project restart is progressing smoothly."
+    },
+    {
+      "id": "mkt:019f2139-0725-7aab-8c6d-04a041fea4e0",
+      "time": "2026-07-02 13:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rallied into the afternoon, gaining more than 3%."
+    },
+    {
+      "id": "mkt:019f2138-b657-7aab-8c6c-fb0c5b7f3ce6",
+      "time": "2026-07-02 13:06:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium said its Al Taweelah casting plant will produce its first cast metal on May 4 next year."
+    },
+    {
+      "id": "4966594",
+      "time": "2026-07-02 13:06:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.00%，成分股中，錦華新材漲10.16%，三協電機漲9.98%，戈碧迦漲8.72%，萬達軸承漲7.00%。"
+    },
+    {
+      "id": "mkt:019f2138-6447-7aab-8c6c-f249fdbcd2a9",
+      "time": "2026-07-02 13:06:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Emirates Global Aluminium says its bauxite processing plant in Al Taweelah is expected to record first bauxite production in early Q3."
+    },
     {
       "id": "mkt:019f2137-c8c3-7aab-8c6c-eb18db574619",
       "time": "2026-07-02 13:05:31",
@@ -129106,119 +129173,6 @@
         "Greater China"
       ],
       "text": "China A-share photovoltaic equipment sector rallied in afternoon trade; Hengdian Dongci hit the daily limit and a fresh high, Maiwei rose over 10%, and Zhongxinbo, Dier Laser, Gaoce, Laplace and TCL Zhonghuan also advanced."
-    },
-    {
-      "id": "4954163",
-      "time": "2026-06-25 13:10:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：美國國防公司安杜里爾正就利用日產工廠在日本生產無人機一事進行磋商】三位知情人士透露，美國國防企業安杜里爾工業公司（Anduril Industries）正在就收購日產汽車位於東京附近的尾濱（Oppama）組裝廠進行談判，這家自主武器製造商計劃在日本生產軍用無人機。儘管訊息人士稱尚未做出決定，但任何交易都可能將日本戰後首批大型汽車工廠之一——長期以來一直是日本工業復興象徵的尾濱工廠——轉變為武器製造中心。"
-    },
-    {
-      "id": "4954162",
-      "time": "2026-06-25 13:09:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將歐萊雅評級從中性上調至買入，並將目標價從375歐元上調至435歐元。"
-    },
-    {
-      "id": "4954161",
-      "time": "2026-06-25 13:09:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏裝置板塊午後拉昇，邁為股份漲超10%】光伏裝置板塊午後拉昇，橫店東磁漲停創新高，邁為股份漲超10%，中信博、帝爾鐳射、高測股份、拉普拉斯、TCL中環跟漲。"
-    },
-    {
-      "id": "te:markets:561744",
-      "time": "2026-06-25 13:08:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Stays Weak on Hawkish Fed Outlook — The Indonesian rupiah hovered above IDR 17,900 per U.S. dollar on Thursday, remaining under pressure as the U.S. dollar index held near a 14-month high, as the Federal Reserve indicated support for tighter monetary policy. The hawkish outlook outweighed the positive impact of progress in U.S.-Iran peace talks, which had eased geopolitical tensions and reduced demand for haven assets. Locally, traders looked ahead to next week's June inflation data, with particular focus on food prices after they posted the fastest annual rise in seven months in May, reflecting the impact of El Niño. Still, weakness was limited by foreign inflows into the central bank's one-year securities and government bonds, totaling about IDR 105 trillion so far in June. Lower oil prices, which have retreated toward pre-Iran conflict levels, also eased concerns over Indonesia's fiscal burden. Separately, MSCI reaffirmed Indonesia's emerging market status despite highlighting concerns over market transparency."
-    },
-    {
-      "id": "mkt:019efd2d-78a1-7dd8-b10d-471de7a1219d",
-      "time": "2026-06-25 13:07:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "03988.HK",
-        "Impact bearish",
-        "01398.HK",
-        "00939.HK"
-      ],
-      "text": "Chinese bank shares fell, led by Bank of China (03988.HK) down more than 6%; CITIC Bank (00998.HK) and Agricultural Bank of China (01288.HK) down over 3%; Postal Savings Bank of China (01658.HK), Industrial and Commercial Bank of China (01398.HK) and China Construction Bank (00939.HK) down over 2%."
-    },
-    {
-      "id": "4954160",
-      "time": "2026-06-25 13:07:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲4.4%，報72,234.00點。"
-    },
-    {
-      "id": "te:markets:561743",
-      "time": "2026-06-25 13:07:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Soybeans Hits 20-week Low — Soybeans decreased to 1100.00 USd/Bu, the lowest since February 2026. Over the past 4 weeks, Soybeans lost 6.58%, and in the last 12 months, it increased 8.33%."
-    },
-    {
-      "id": "4954159",
-      "time": "2026-06-25 13:07:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四方達：公司PCD微鑽產品正展開試樣 需要一定時間週期】四方達(300179)在互動平臺表示，目前公司PCD微鑽產品正在按電子產品廠家的驗證程式展開試樣，需要一定時間週期。公司將積極與客戶保持溝通，具體業務情況請以公司公開披露的資訊為準。"
-    },
-    {
-      "id": "4954158",
-      "time": "2026-06-25 13:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度尼西亞稱已簽署合同進口俄羅斯石油】週四，在雅加達舉行的會議上，能源與礦產資源部長巴赫利·拉哈達利亞（Bahlil Lahadalia）向媒體表示，一家政府機構已簽署合同，從俄羅斯進口石油，並有可能增加進口量。 該機構為油氣測試機構Lemigas，最近已獲得授權，以保障能源安全為目的進口石油。"
-    },
-    {
-      "id": "4954157",
-      "time": "2026-06-25 13:07:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光伏加工裝置板塊異動拉昇】邁為股份漲11.94%，帝爾鐳射、高測股份、拉普拉斯、奧特維、捷佳偉創、連城數控跟漲。"
-    },
-    {
-      "id": "mkt:019efd2c-7f53-7dd8-b10d-3cf63f4b3e01",
-      "time": "2026-06-25 13:06:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say U.S. defense firm Anduril is in talks to buy a Nissan factory in Japan to produce unmanned aerial vehicles."
-    },
-    {
-      "id": "4954156",
-      "time": "2026-06-25 13:06:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股銀行板塊午後走低，中國銀行跌超5%】港股銀行板塊午後走低，中國銀行跌超5%，中信銀行、農業銀行跌超3%，甘肅銀行、郵儲銀行、重慶銀行、工商銀行紛紛下挫。"
     }
   ]
 }
