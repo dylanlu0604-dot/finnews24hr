@@ -1,7 +1,28 @@
 {
   "date": "2026-07-03",
-  "count": 311,
+  "count": 313,
   "items": [
+    {
+      "id": "mkt:019f247c-18cd-7aab-8c84-109025b54727",
+      "time": "2026-07-03 04:19:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CTO said a preliminary review of the mouse-tracking data security incident found no employee data were included in AI training."
+    },
+    {
+      "id": "4968267",
+      "time": "2026-07-03 04:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 技術長：針對滑鼠追蹤資料安全事件的初步核查顯示，暫無員工資料被用於人工智慧模型訓練。"
+    },
     {
       "id": "4968266",
       "time": "2026-07-03 04:15:22",

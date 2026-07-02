@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-03 04:18:00",
-  "count": 13802,
+  "updated": "2026-07-03 04:21:52",
+  "count": 13800,
   "items": [
+    {
+      "id": "mkt:019f247c-18cd-7aab-8c84-109025b54727",
+      "time": "2026-07-03 04:19:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CTO said a preliminary review of the mouse-tracking data security incident found no employee data were included in AI training."
+    },
+    {
+      "id": "4968267",
+      "time": "2026-07-03 04:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 技術長：針對滑鼠追蹤資料安全事件的初步核查顯示，暫無員工資料被用於人工智慧模型訓練。"
+    },
     {
       "id": "4968266",
       "time": "2026-07-03 04:15:22",
@@ -127107,40 +127128,6 @@
         "國際"
       ],
       "text": "加利福尼亞州申請法院禁令，阻止美國環保署將機動車排放法規提交國會、以防相關規定遭撤銷。"
-    },
-    {
-      "id": "mkt:019f0070-09df-7dd8-b126-0b3a4621707f",
-      "time": "2026-06-26 04:19:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Information reports the Trump administration asked OpenAI to stagger the rollout of new models for safety reasons."
-    },
-    {
-      "id": "4955862",
-      "time": "2026-06-26 04:19:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普尋求為陷入困境的美國農民提供111億美元新援助】美國總統特朗普為當地時間週四晚些時候受邀在白宮共進晚餐的農民們準備了一個驚喜：他向國會提出請求，要求提供111億美元的援助資金，其中包括100億美元的農作物種植者援助資金，以及11億美元用於幫助受冬季風暴影響的佛羅里達州農業生產者。這將是陷入困境的農業部門在年內獲得的第二次紓困。"
-    },
-    {
-      "id": "4955861",
-      "time": "2026-06-26 04:18:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國政府要求 OpenAI 分階段釋出新款大模型，出於安全考量，OpenAI 將分階段推出新款模型。"
-    },
-    {
-      "id": "4955860",
-      "time": "2026-06-26 04:18:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "安森美半導體將按大約70億美元估值收購Synaptics Inc.。 Synaptics 股東將持有合併後公司約 12% 股份。"
     }
   ]
 }
