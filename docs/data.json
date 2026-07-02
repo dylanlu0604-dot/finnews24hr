@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-02 11:59:35",
-  "count": 14008,
+  "updated": "2026-07-02 12:04:03",
+  "count": 14010,
   "items": [
+    {
+      "id": "mkt:019f20fe-11d4-7aab-8c6b-da3ec79b8575",
+      "time": "2026-07-02 12:02:29",
+      "tags": [
+        "MKT News",
+        "01211.HK",
+        "Impact bullish",
+        "02099.HK",
+        "00981.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong midday: Hang Seng retreats from highs but closes up 1.19%; autos and gold lead gains】Hang Seng opened strong—up nearly 200 points and topping a >2% intraday gain—before trimming advances; at midday HSI +1.19% at 23,154.41, Hang Seng Tech Index +0.62% at 4,499.91. Market turnover HK$213.387 billion. Autos and gold stocks led gains; AI-application names pared earlier strength and innovative-drug names were active. Semiconductors and optical-communications hardware slumped on overseas headlines. Notable movers: BYD Company (01211.HK) +8.76%, China Gold International Resources (02099.HK) +14.37%, Jiangsu Hengrui Medicine (01276.HK) +3.11%, Zhipu (02513.HK) -14.78%, GigaDevice Semiconductor (03986.HK) -14.39%, SMIC (00981.HK) -8.89%."
+    },
+    {
+      "id": "4966522",
+      "time": "2026-07-02 12:02:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【睿健醫藥完成2.6億元C+輪融資】7月2日，睿健醫藥宣佈完成2.6億元人民幣C+輪融資。本輪融資由成都科創投領投，中信建投資本、錫創投、鼎泰星、新基業、弘毅資本等機構共同投資，老股東元希海河、金沙江聯合潤璞園豐持續追加投資。隨著本輪融資的完成，睿健醫藥引進國際化資本市場高管Tim Ruan（阮添士），負責公司後續資本運作。阮添士此前曾任高盛執行董事和摩根士丹利副總裁。"
+    },
+    {
+      "id": "4966521",
+      "time": "2026-07-02 12:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國《金融時報》：OpenAI提議向特朗普政府出讓5%股權。"
+    },
+    {
+      "id": "4966520",
+      "time": "2026-07-02 12:01:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本當局或轉向出人意料的日元干預策略。"
+    },
+    {
+      "id": "4966519",
+      "time": "2026-07-02 12:01:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.19%，恒生科技指數漲0.62%】港股午間收盤，恒生指數漲1.19%，恒生科技指數漲0.62%。恒指港股通ETF銀華（159318）漲1.52%，港股通科技ETF鵬華（159751）漲0.6%。板塊方面，醫療保健技術、資本市場板塊漲幅靠前；半導體產品與裝置、工業集團企業板塊跌幅靠前。個股方面，金力永磁漲14.67%，中國黃金國際漲14.37%，新意網集團漲12.64%，映恩生物-B漲12.58%，森松國際漲12.39%；馭勢科技跌26.72%，今海醫療科技跌23.2%，劍橋科技跌19.02%，廣合科技跌18.71%，白鴿線上跌17.87%。"
+    },
+    {
+      "id": "4966518",
+      "time": "2026-07-02 12:01:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【網傳“西安賽格商場有人墜亡”，官方通報】西安雁塔區聯合調查處置工作專班7月2日通報：網傳“西安一商場發生人員墜樓”，經核實情況屬實。2026年7月1日12時10分左右，一男子在賽格商場墜亡，墜樓者為賽格商場某商戶負責人。經公安部門現場勘查、調查走訪，現已排除刑事案件。家屬安撫及善後工作正在有序推進。針對網傳賽格商場與墜樓者所在商鋪間商業糾紛問題，我區已成立由市場監管、商務、公安、司法等部門組成的聯合調查組開展調查工作。下一步，我區將持續做好善後工作，切實加強市場秩序監管，維護好各方合法權益。"
+    },
+    {
+      "id": "4966517",
+      "time": "2026-07-02 12:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【QDII最新累計批准額度為1761.69億美元】根據國家外匯管理局最新披露的合格境內機構投資者（QDII）投資額度審批情況表，截至6月末，QDII累計批准額度為1761.69億美元，其中證券基金類機構的QDII累計批准額度為972.80億美元。從最新批准日期來看，最新一次發放QDII額度的時間為3月23日。"
+    },
+    {
+      "id": "4966516",
+      "time": "2026-07-02 11:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼議會批准2027年預算的關鍵目標。"
+    },
     {
       "id": "4966515",
       "time": "2026-07-02 11:58:57",
@@ -129027,58 +129098,6 @@
         "XAUUSD"
       ],
       "text": "【Hong Kong midday: HSI down 1.38%, Hang Seng Tech down 1.67%】At midday in Hong Kong the HSI fell 1.38% and the Hang Seng Tech Index fell 1.67%. Internet and broader tech names underperformed; gold, non-ferrous metals, coal and media stocks were among the largest decliners. Memory and storage, PCB-related names and airlines led gains. Notable movers: GigaDevice Semiconductor (03986.HK) up >7%, China Eastern Airlines (00670.HK) up nearly 7%, Bilibili (09626.HK) up nearly 3%; Sunny Optical Technology (02382.HK) and Trip.com Group (09961.HK) down >10%, China Molybdenum (03993.HK) down >6%, MINIMAX-W (00100.HK) down >5%, Alibaba (09988.HK) down >4%."
-    },
-    {
-      "id": "mkt:019efcf2-4357-7dd8-b10c-5e39a2ff21b9",
-      "time": "2026-06-25 12:03:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hong Kong to start public consultation on new Policy Address and five-year plan from 29th】Hong Kong chief executive John Lee announced on 25th that public consultation on the next Policy Address will begin next Monday (29th) and will simultaneously seek public views on Hong Kong’s first five-year plan."
-    },
-    {
-      "id": "4954091",
-      "time": "2026-06-25 12:01:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【20cm跌停！實控人涉非法吸存被刑拘，華恒生物回應】華恒生物6月24日晚釋出多則重磅公告。其中，公司實際控制人、董事長兼總經理郭恆華因涉嫌非法吸收公眾存款罪被公安機關刑事拘留，並稱相關調查事項與公司經營無關。值得注意的是，在華恒生物上市前，郭恆華就已捲入多起民事訴訟案件，其中大部分案件與薛金合等非法吸收公眾存款案有關。華恒生物接線工作人員表示，公司與巾幗系企業不存在資金拆借、擔保等關聯交易。至於後續郭恆華的股份是否存在被凍結、拍賣的可能，該工作人員稱未有更多資訊，建議投資者關注後續公告。（21財經）"
-    },
-    {
-      "id": "mkt:019efcf0-c2e8-7dd8-b10c-54725101d0dd",
-      "time": "2026-06-25 12:01:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Caltech seismologist says Venezuela, Japan magnitude-7 quakes were unrelated】Venezuela experienced consecutive M7+ earthquakes, followed shortly by an M7.2 off Japan’s northeast coast; California recorded an M5.6 the same day. Lucy Jones, senior seismologist at Caltech, said the events are not causally linked: they occurred on different faults and plate boundaries, so one quake did not trigger another. Timing may be coincidental; each quake struck known active plate boundaries where stress has accumulated over decades to centuries, and while large quakes are part of the natural cycle in these regions, precise timing remains unpredictable."
-    },
-    {
-      "id": "4954090",
-      "time": "2026-06-25 12:01:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數跌1.38%，恒生科技指數跌1.67%】港股午間收盤，恒生指數跌1.38%，恒生科技指數跌1.67%。恒指港股通ETF銀華（159318）跌0.82%，港股通科技ETF鵬華（159751）跌0.59%。板塊方面，客運航空公司板塊漲幅靠前；金屬與採礦、水務板塊跌幅靠前。個股方面，琻捷電子科技漲13.62%，九方智投控股漲12.09%，英矽智慧漲9.53%，仙工智慧漲8.96%，海清智元漲8.83%；舜宇光學科技跌10.34%，攜程集團-S跌10.29%，拓璞數控跌9.14%，招金礦業跌8.83%，中國有色礦業跌8.79%。"
-    },
-    {
-      "id": "4954089",
-      "time": "2026-06-25 12:00:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：委內瑞拉強震造成慘重死亡 】美國總統特朗普24日在社交媒體上說，委內瑞拉剛剛發生的兩場強震，“規模都極其巨大，造成慘重死亡，初步報告顯示情況不容樂觀”。（新華社）"
-    },
-    {
-      "id": "4954088",
-      "time": "2026-06-25 11:59:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【熱浪席捲歐洲致電價飆升 埃菲爾鐵塔提前閉塔】持續加劇的熱浪接連重新整理氣溫紀錄，埃菲爾鐵塔觀景層被迫提前關閉，法國晚間電力價格飆升至2022年能源危機以來最高水平。法國氣象局資料顯示，6月22日法國沙託梅揚測得43.3攝氏度（110華氏度）高溫。氣象預報顯示，6月25日前法國西部日間最高氣溫或將達到42攝氏度，西班牙部分地區6月23日氣溫將升至44攝氏度。這場熱浪從歐洲大陸向南蔓延，法國近一週都處於高溫。厄爾尼諾現象引發大氣環流變化，導致極端高溫覆蓋歐洲，目前已有多起高溫致死案例。法國迎來史上最熱夜晚，夜間平均最低氣溫達21.6攝氏度。法國總理塞巴斯蒂安・勒科爾尼6月23日表示，醫療機構收治的高溫相關病患數量激增。"
     }
   ]
 }
