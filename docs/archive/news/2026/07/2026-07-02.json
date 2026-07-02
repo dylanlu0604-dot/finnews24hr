@@ -1,7 +1,82 @@
 {
   "date": "2026-07-02",
-  "count": 2325,
+  "count": 2334,
   "items": [
+    {
+      "id": "mkt:019f228f-c71b-7aab-8c75-d51072903718",
+      "time": "2026-07-02 19:21:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi largest crude outbound since ceasefire as four Bahri VLCCs sail into Gulf of Oman】Saudi Arabia has increased shipments following a temporary US–Iran peace accord, dispatching four Bahri-owned VLCCs into the Gulf of Oman on Thursday after loading at Ras Tanura, ship-tracking data show. The departures are the largest outbound volume since the ceasefire took effect about two weeks ago; Bloomberg-tracked data show the four tankers are carrying roughly 8.0 mln barrels from Ras Tanura, one of the world’s biggest crude export terminals."
+    },
+    {
+      "id": "4967490",
+      "time": "2026-07-02 19:20:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬：小鵬MONA M03累計交付量突破28萬臺，連續兩個月銷量超過所有燃油轎車】在今日的小鵬MONA L03中國首秀釋出會上，小鵬集團董事長、CEO何小鵬發表演講。他表示，小鵬MONA M03釋出674天，累計交付數量突破28萬臺，平均每月交付數量超13000臺。另外，小鵬MONA M03連續22個月蟬聯10-20萬元純電轎車銷量冠軍；2026年4月-5月，連續兩個月銷量超過所有燃油轎車，不分級別不分尺寸；2025年市佔率超純電A級轎車2-5名總和。此次，小鵬MONA L03正式亮相，也是小鵬MONA首款SUV。何小鵬介紹，MONA的命名來自專案代號MONALISA（蒙娜麗莎）。在小鵬MONA中，M系列代表轎車，L系列代表SUV。（新浪科技）"
+    },
+    {
+      "id": "4967489",
+      "time": "2026-07-02 19:19:47",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣擴大漲幅，此前美聯儲凱文·沃什給加息押注降溫】隨著市場小幅下調對美聯儲加息的預期，比特幣升至一週高點。此前，美聯儲主席凱文·沃什週三表示通脹風險已經緩解，市場隨之重新定價。Nexo分析師Iliya Kalchev在一份報告中表示，市場對他的言論作出的反應是基本不再押注7月份加息，儘管凱文·沃什未給出前瞻性指引，並重申了美聯儲2%的通脹目標。“今天的[非農]就業人數報告將強化或挑戰這一重新定價。“該資料將於格林威治時間1230公佈。倫敦證券交易所集團的資料顯示，比特幣上漲1.9%，最高觸及61,323美元。"
+    },
+    {
+      "id": "mkt:019f228e-45ab-7aab-8c75-c801daec055a",
+      "time": "2026-07-02 19:19:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NORDEN.CO",
+        "Impact bullish"
+      ],
+      "text": "NORDEN shares in Denmark jumped 12% after the shipping company raised full-year net profit guidance to $120m-$190m from $70m-$140m."
+    },
+    {
+      "id": "4967488",
+      "time": "2026-07-02 19:19:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST銀江：股票連續三日漲幅偏離值超30% 不存在應披露未披露事項】ST銀江公告稱，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日收盤價格漲幅偏離值累積超過30%，屬於異常波動。經核查，公司生產經營正常，內外部環境未變，未發現公共傳媒報道可能影響股價的未公開重大資訊，公司、控股股東和實控人不存在應披露而未披露的重大事項，實控人、控股股東在異動期間未買賣公司股票，不存在違反公平資訊披露規定的情形。"
+    },
+    {
+      "id": "4967487",
+      "time": "2026-07-02 19:18:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小雨智造首發具身智慧焊接機器人，起售價16.98萬】7月2日，在2026全球數字經濟大會，北京小雨智造科技有限公司釋出面向工業的具身智慧焊接機器人“小雨未來機器人”，標準版起售價16.98萬元，包含小雨潤物世界模型、小雨息壤硬體平臺和定位筆三項底層技術，目前已在十餘家一線工廠投入使用，覆蓋建築鋼構、船舶製造等場景。"
+    },
+    {
+      "id": "4967486",
+      "time": "2026-07-02 19:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：巴西監管機構批准了巴西石油公司與挪威國家石油公司的天然氣區塊交易。"
+    },
+    {
+      "id": "4967485",
+      "time": "2026-07-02 19:17:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國力電子：子公司起訴四被告專利侵權 涉案金額7000萬元】國力電子公告稱，公司下屬控股子公司國力源通、全資子公司瑞普電氣，就四被告侵害原告4項專利權，向蘇州市中級人民法院提起訴訟，涉案金額合計7000萬元。目前法院已立案，尚未開庭審理。鑑於案件尚未審理，無法預計對公司利潤的具體影響，實際影響以法院生效判決為準。公司將密切關注進展並及時披露，提醒投資者注意風險。"
+    },
     {
       "id": "mkt:019f228c-2902-7aab-8c75-c343b55632f0",
       "time": "2026-07-02 19:17:18",
@@ -9,6 +84,14 @@
         "MKT News"
       ],
       "text": "Brazilian regulators approved Petrobras's gas-block transaction with Equinor."
+    },
+    {
+      "id": "4967484",
+      "time": "2026-07-02 19:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北成立6G領域國際科技合作產業技術聯盟】“聚智聯鄂·環球技轉”國際技術轉移6G通訊對接會7月2日在武漢舉行，鄂港兩地高校院所、龍頭企業、科技服務機構等代表與會，湖北省6G領域國際科技合作產業技術聯盟正式成立。"
     },
     {
       "id": "4967483",

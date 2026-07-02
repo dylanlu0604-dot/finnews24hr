@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-02 19:18:04",
-  "count": 13816,
+  "updated": "2026-07-02 19:22:02",
+  "count": 13810,
   "items": [
+    {
+      "id": "mkt:019f228f-c71b-7aab-8c75-d51072903718",
+      "time": "2026-07-02 19:21:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi largest crude outbound since ceasefire as four Bahri VLCCs sail into Gulf of Oman】Saudi Arabia has increased shipments following a temporary US–Iran peace accord, dispatching four Bahri-owned VLCCs into the Gulf of Oman on Thursday after loading at Ras Tanura, ship-tracking data show. The departures are the largest outbound volume since the ceasefire took effect about two weeks ago; Bloomberg-tracked data show the four tankers are carrying roughly 8.0 mln barrels from Ras Tanura, one of the world’s biggest crude export terminals."
+    },
+    {
+      "id": "4967490",
+      "time": "2026-07-02 19:20:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬：小鵬MONA M03累計交付量突破28萬臺，連續兩個月銷量超過所有燃油轎車】在今日的小鵬MONA L03中國首秀釋出會上，小鵬集團董事長、CEO何小鵬發表演講。他表示，小鵬MONA M03釋出674天，累計交付數量突破28萬臺，平均每月交付數量超13000臺。另外，小鵬MONA M03連續22個月蟬聯10-20萬元純電轎車銷量冠軍；2026年4月-5月，連續兩個月銷量超過所有燃油轎車，不分級別不分尺寸；2025年市佔率超純電A級轎車2-5名總和。此次，小鵬MONA L03正式亮相，也是小鵬MONA首款SUV。何小鵬介紹，MONA的命名來自專案代號MONALISA（蒙娜麗莎）。在小鵬MONA中，M系列代表轎車，L系列代表SUV。（新浪科技）"
+    },
+    {
+      "id": "4967489",
+      "time": "2026-07-02 19:19:47",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣擴大漲幅，此前美聯儲凱文·沃什給加息押注降溫】隨著市場小幅下調對美聯儲加息的預期，比特幣升至一週高點。此前，美聯儲主席凱文·沃什週三表示通脹風險已經緩解，市場隨之重新定價。Nexo分析師Iliya Kalchev在一份報告中表示，市場對他的言論作出的反應是基本不再押注7月份加息，儘管凱文·沃什未給出前瞻性指引，並重申了美聯儲2%的通脹目標。“今天的[非農]就業人數報告將強化或挑戰這一重新定價。“該資料將於格林威治時間1230公佈。倫敦證券交易所集團的資料顯示，比特幣上漲1.9%，最高觸及61,323美元。"
+    },
+    {
+      "id": "mkt:019f228e-45ab-7aab-8c75-c801daec055a",
+      "time": "2026-07-02 19:19:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NORDEN.CO",
+        "Impact bullish"
+      ],
+      "text": "NORDEN shares in Denmark jumped 12% after the shipping company raised full-year net profit guidance to $120m-$190m from $70m-$140m."
+    },
+    {
+      "id": "4967488",
+      "time": "2026-07-02 19:19:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST銀江：股票連續三日漲幅偏離值超30% 不存在應披露未披露事項】ST銀江公告稱，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日收盤價格漲幅偏離值累積超過30%，屬於異常波動。經核查，公司生產經營正常，內外部環境未變，未發現公共傳媒報道可能影響股價的未公開重大資訊，公司、控股股東和實控人不存在應披露而未披露的重大事項，實控人、控股股東在異動期間未買賣公司股票，不存在違反公平資訊披露規定的情形。"
+    },
+    {
+      "id": "4967487",
+      "time": "2026-07-02 19:18:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小雨智造首發具身智慧焊接機器人，起售價16.98萬】7月2日，在2026全球數字經濟大會，北京小雨智造科技有限公司釋出面向工業的具身智慧焊接機器人“小雨未來機器人”，標準版起售價16.98萬元，包含小雨潤物世界模型、小雨息壤硬體平臺和定位筆三項底層技術，目前已在十餘家一線工廠投入使用，覆蓋建築鋼構、船舶製造等場景。"
+    },
+    {
+      "id": "4967486",
+      "time": "2026-07-02 19:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：巴西監管機構批准了巴西石油公司與挪威國家石油公司的天然氣區塊交易。"
+    },
+    {
+      "id": "4967485",
+      "time": "2026-07-02 19:17:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國力電子：子公司起訴四被告專利侵權 涉案金額7000萬元】國力電子公告稱，公司下屬控股子公司國力源通、全資子公司瑞普電氣，就四被告侵害原告4項專利權，向蘇州市中級人民法院提起訴訟，涉案金額合計7000萬元。目前法院已立案，尚未開庭審理。鑑於案件尚未審理，無法預計對公司利潤的具體影響，實際影響以法院生效判決為準。公司將密切關注進展並及時披露，提醒投資者注意風險。"
+    },
     {
       "id": "mkt:019f228c-2902-7aab-8c75-c343b55632f0",
       "time": "2026-07-02 19:17:18",
@@ -9,6 +84,14 @@
         "MKT News"
       ],
       "text": "Brazilian regulators approved Petrobras's gas-block transaction with Equinor."
+    },
+    {
+      "id": "4967484",
+      "time": "2026-07-02 19:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北成立6G領域國際科技合作產業技術聯盟】“聚智聯鄂·環球技轉”國際技術轉移6G通訊對接會7月2日在武漢舉行，鄂港兩地高校院所、龍頭企業、科技服務機構等代表與會，湖北省6G領域國際科技合作產業技術聯盟正式成立。"
     },
     {
       "id": "4967483",
@@ -127170,132 +127253,6 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said the focus is on Iran's actions rather than its rhetoric."
-    },
-    {
-      "id": "4955099",
-      "time": "2026-06-25 19:21:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方泵業：子公司出售部分資產，交易價1.42億元已完成過戶】南方泵業公告稱，為盤活閒置資產，公司子公司湖南南方長河泵業有限公司擬出售部分資產。以2025年7月31日為基準日，該部分資產評估價值為1.35億元，最終以1.42億元（含稅價）掛牌交易。2026年2月2日，南方長河與受讓方湖南南方安美消防裝置有限公司簽訂合同，截至公告日，南方長河已全額收到轉讓款，並完成資產過戶手續。本次交易為公司合併報表範圍內子公司間交易，對合並報表淨利潤無重大影響。"
-    },
-    {
-      "id": "4955098",
-      "time": "2026-06-25 19:21:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西部建設：全資子公司設立合資公司註冊資本1000萬元】西部建設公告，全資子公司中建西部建設建材科學研究院有限公司與聯京（北京）控股集團有限公司簽署股東協議書，共同出資設立中建聯京新能源科技有限公司。合資公司註冊資本為1000萬元，其中研究院出資650萬元，持股65%；聯京控股出資350萬元，持股35%。"
-    },
-    {
-      "id": "mkt:019efe83-aa7d-7dd8-b118-cb768b2247bb",
-      "time": "2026-06-25 19:21:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio said Iran will continue to issue extreme statements."
-    },
-    {
-      "id": "4955097",
-      "time": "2026-06-25 19:21:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：我們關注的是伊朗的行動，而不是言辭。"
-    },
-    {
-      "id": "4955096",
-      "time": "2026-06-25 19:21:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗和阿曼外長討論最新事態發展。"
-    },
-    {
-      "id": "4955095",
-      "time": "2026-06-25 19:20:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：伊朗諒解備忘錄旨在解決干涉他國事務的問題。"
-    },
-    {
-      "id": "4955094",
-      "time": "2026-06-25 19:19:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芯碁微裝港股暗盤收漲近76% 每手賺9593.5港元】芯碁微裝將於6月26日(週五)在香港掛牌。截至收盤，利弗莫爾證券暗盤交易顯示報價444.60港元，較招股價252.73港元上漲75.92%，每手50股，不計手續費，每手賺9593.5港元。"
-    },
-    {
-      "id": "mkt:019efe81-7bf6-7dd8-b118-c448e15ba798",
-      "time": "2026-06-25 19:19:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said Gulf states do not support levying transit fees in the Strait of Hormuz."
-    },
-    {
-      "id": "4955093",
-      "time": "2026-06-25 19:19:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行指數下跌2.3%。"
-    },
-    {
-      "id": "4955092",
-      "time": "2026-06-25 19:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：與海灣國家進行了非常成功的會議。我們不會做任何削弱海灣合作伙伴的事情。海灣國家分享了一些嚴重關切的問題。海灣國家對霍爾木茲海峽收費“零支援”。"
-    },
-    {
-      "id": "mkt:019efe81-27a3-7dd8-b118-be91bd57d5a8",
-      "time": "2026-06-25 19:18:57",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Wedbush raised Micron Technology (MU.O) PT to $1,400 from $1,300."
-    },
-    {
-      "id": "mkt:019efe80-fc14-7dd8-b118-b7e5f2796c61",
-      "time": "2026-06-25 19:18:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said Gulf states shared serious concerns."
-    },
-    {
-      "id": "mkt:019efe80-dd18-7dd8-b118-ae25867ed264",
-      "time": "2026-06-25 19:18:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the U.S. will not take any actions that weaken its Gulf partners."
-    },
-    {
-      "id": "4955091",
-      "time": "2026-06-25 19:18:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "數字貨幣X科技已簽署證券購買協議，擬以7億美元私募發行單位份額，認購款可透過美元或數字資產支付，所得資金將用於推進其數字資產國庫戰略。"
-    },
-    {
-      "id": "mkt:019efe80-a478-7dd8-b118-a26077d770b1",
-      "time": "2026-06-25 19:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said he held very successful meetings with Gulf states."
     }
   ]
 }
