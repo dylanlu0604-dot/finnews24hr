@@ -1,7 +1,251 @@
 {
-  "updated": "2026-07-02 16:02:18",
-  "count": 13898,
+  "updated": "2026-07-02 16:09:40",
+  "count": 13880,
   "items": [
+    {
+      "id": "mkt:019f21dc-cc5b-7aab-8c71-6413766da414",
+      "time": "2026-07-02 16:05:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IEA Executive Director Birol said he was pleased to announce Nigeria has formally joined the International Energy Agency."
+    },
+    {
+      "id": "4966925",
+      "time": "2026-07-02 16:05:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安汽車：截至6月底回購股份1.48% 耗資超8億元】長安汽車公告稱，公司於2026年3月19日透過以集中競價方式回購股份方案，回購A股資金7億-14億元，回購B股資金3億-6億元，實施期限不超十二個月。截至6月30日，公司已回購股份146,762,341股，佔總股本1.48052%，其中A股66,392,392股，耗資5.61億元，B股80,369,949股，耗資2.51億元。公司後續將繼續實施回購並及時披露資訊。"
+    },
+    {
+      "id": "4966924",
+      "time": "2026-07-02 16:05:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神通科技：持股5%以上股東減持公司股份 持股比例降至63.14%】神通科技公告稱，公司於2026年7月2日收到必恆投資通知，其於當日透過大宗交易方式減持892.37萬股。本次權益變動後，必恆投資及其一致行動人合計持股比例由65.00%降至63.14%，觸及1%刻度。本次權益變動符合相關規定，不觸及要約收購，不會導致控股股東及實際控制人變化，是股東履行此前減持計劃所致，後續公司將督促其按規減持並及時披露。"
+    },
+    {
+      "id": "te:markets:563718",
+      "time": "2026-07-02 16:05:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Falls by 2.11% — Top commodity losers are Titanium (-2.11%) and Copper (-0.74%). Gains are led by Lithium Carbonate (1.56%), Platinum (1.20%), Iron Ore CNY (1.16%) and Gold (0.87%)."
+    },
+    {
+      "id": "4966923",
+      "time": "2026-07-02 16:04:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，科技股延續此前跌勢，美光科技跌近3%，英特爾跌超2%，康寧跌3.68%。"
+    },
+    {
+      "id": "4966922",
+      "time": "2026-07-02 16:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪：印度擬在10年內從日本獲得10萬億日元投資。"
+    },
+    {
+      "id": "mkt:019f21db-b216-7aab-8c71-5f23bc79629b",
+      "time": "2026-07-02 16:04:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "India and Japan have a joint economic-security roadmap ready, Prime Minister Modi said."
+    },
+    {
+      "id": "mkt:019f21db-9add-7aab-8c71-50a52ecde2ba",
+      "time": "2026-07-02 16:04:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Modi said India and Japan have signed a defence co-development agreement."
+    },
+    {
+      "id": "4966921",
+      "time": "2026-07-02 16:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將LVMH目標股價從640歐元上調至650歐元。"
+    },
+    {
+      "id": "4966920",
+      "time": "2026-07-02 16:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合肥建投鑫芯股權投資合夥企業登記成立 出資額10億】天眼查App顯示，近日，合肥建投鑫芯股權投資合夥企業（有限合夥）成立，執行事務合夥人為合肥建投資本管理有限公司，出資額10億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該合夥企業由合肥市建設投資控股（集團）有限公司、安徽創禾產業投資有限公司、安徽省新一代資訊科技產業基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "4966919",
+      "time": "2026-07-02 16:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將愛馬仕目標價從1765歐元上調至1795歐元。"
+    },
+    {
+      "id": "4966918",
+      "time": "2026-07-02 16:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將歷峰集團目標股價從186瑞郎上調至213瑞郎。"
+    },
+    {
+      "id": "4966917",
+      "time": "2026-07-02 16:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將博柏利目標股價從1420便士上調至1425便士。"
+    },
+    {
+      "id": "mkt:019f21da-9428-7aab-8c71-4a81348a18c4",
+      "time": "2026-07-02 16:03:20",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "German mechanical-equipment manufacturers' association says German engineering-industry orders fell 1% YoY in May; domestic orders down 3%, foreign orders up 1%."
+    },
+    {
+      "id": "4966916",
+      "time": "2026-07-02 16:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國機械工業聯合會（VDMA）表示，3-5月德國工程行業訂單同比增長10%，其中國內訂單增長3%，海外訂單增長13%；5月德國工程行業訂單同比下降1%，其中國內訂單下降3%，海外訂單增長1%。"
+    },
+    {
+      "id": "mkt:019f21da-2305-7aab-8c71-42ee76a2e2eb",
+      "time": "2026-07-02 16:02:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Mechanical Engineering Industry Association: Orders in Germany's engineering sector rose 10% YoY in Mar–May; domestic orders +3%, export orders +13%."
+    },
+    {
+      "id": "4966915",
+      "time": "2026-07-02 16:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遊族網路：第一大股東部分股份解除質押 數量為1346萬股】遊族網路公告稱，公司第一大股東上海加遊企業管理合夥企業（有限合夥）將所持1346萬股公司股份辦理解除質押登記手續，佔其所持股份比例12.54%，佔公司總股本比例1.37%，起始日為2025年7月4日，解除日期為2026年7月1日，質權人為國聯民生證券股份有限公司。截至目前，該股東累計被質押股份3478萬股，佔公司總股本3.55%。本次解質不會對公司正常經營產生影響。"
+    },
+    {
+      "id": "4966914",
+      "time": "2026-07-02 16:02:17",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式啟動一項為期一週的“黃金換里拉”賣出方掉期拍賣，規模為6噸黃金。"
+    },
+    {
+      "id": "4966913",
+      "time": "2026-07-02 16:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪：印度和日本同意共同開發國防技術。"
+    },
+    {
+      "id": "mkt:019f21d9-885a-7aab-8c71-3bf0f4671a4c",
+      "time": "2026-07-02 16:02:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Turkey's central bank launched a one-week \"gold-for-lira\" sell-side swap auction via conventional procedure, sized at 6 tonnes of gold."
+    },
+    {
+      "id": "te:markets:563717",
+      "time": "2026-07-02 16:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Stays Near One-Year Lows on Soft Inflation — The euro rebounded to $1.14 but remained near one-year lows against the dollar and pound, pressured by softer-than-expected Eurozone inflation and dovish remarks from ECB President Christine Lagarde. Wednesday’s data showed headline inflation falling to 2.8% in June from 3.2% in May, below expectations of 3.0%, while the core rate dropped to 2.4%, also under forecasts of 2.6%. At the ECB’s Sintra Forum, Lagarde noted that risks to euro-area inflation and growth have diminished. This shift follows the ECB’s decision three weeks earlier to become the first G7 central bank to hike rates after the Iran war, citing concerns over inflation spreading. Since then, hopes for a US-Iran peace accord have sharply lowered oil prices, removing a key inflation driver. Elsewhere, traders welcomed progress in indirect US-Iran talks, with Qatar announcing the next meeting would be scheduled as soon as possible. Oil prices continued to fall as more shipments passed through the Strait of Hormuz."
+    },
+    {
+      "id": "4966912",
+      "time": "2026-07-02 16:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科磁業：控股股東質押240萬股用於自身生產經營】中科磁業公告稱，公司控股股東、實際控制人吳中平將240萬股（佔其所持股份比例5.81%，佔公司總股本比例1.93%）首發前限售股質押給浙江東陽農村商業銀行股份有限公司，質押開始日期為2026年7月1日，用途為自身生產經營。截至公告披露日，吳中平累計質押股份480萬股，佔其所持股份比例11.62%，佔公司總股本比例3.87%。其資信良好，質押股份無平倉或被強制過戶風險，對公司無實質性影響。"
+    },
+    {
+      "id": "4966911",
+      "time": "2026-07-02 16:01:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數迷你電子期貨下跌0.21%，道瓊斯指數期貨下跌0.1%，納斯達克100指數期貨下跌0.76%。"
+    },
+    {
+      "id": "mkt:019f21d9-253b-7aab-8c71-370a28f395a1",
+      "time": "2026-07-02 16:01:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Institutions' preview of US June unemployment rate (prior: 4.3%)】BNP Paribas, Scotiabank and TD Securities project US June unemployment at 4.2%. The remainder of the surveyed institutions expect 4.3%, matching Reuters' 4.3% consensus."
+    },
+    {
+      "id": "mkt:019f21d8-c249-7aab-8c71-2c120de91c03",
+      "time": "2026-07-02 16:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy unemployment rate 5.0% in May, vs 5.1% expected and 5.1% in April."
+    },
     {
       "id": "mkt:019f21d8-9ecb-7aab-8c71-25613d21f08d",
       "time": "2026-07-02 16:01:12",
@@ -11,6 +255,22 @@
         "Important"
       ],
       "text": "Italy | Unemployment Rate Flash (May) | actual 5% | consensus 5.1% | previous 5.10%"
+    },
+    {
+      "id": "4966910",
+      "time": "2026-07-02 16:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：銅庫存減少2500噸，鋁庫存減少1500噸，鎳庫存增加390噸，錫庫存減少50噸，鋅庫存減少250噸，鉛庫存減少1450噸。"
+    },
+    {
+      "id": "4966909",
+      "time": "2026-07-02 16:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫迪：印日科技合作將成為兩國關係的中流砥柱。"
     },
     {
       "id": "mkt:019f21d8-8a1f-7aab-8c71-1f771f2d0356",
@@ -127738,436 +127998,6 @@
         "國際"
       ],
       "text": "亞馬遜：2010至2030年在印度累計投資將超880億美元。"
-    },
-    {
-      "id": "4954555",
-      "time": "2026-06-25 16:09:32",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【江西省商務廳原黨組書記、廳長謝一平等4人被提起公訴】最高檢6月25日通報，檢察機關依法分別對江西省商務廳原黨組書記、廳長謝一平，雲南省政協教科衛體委員會原分黨組書記、主任譚亞原，雲南省森林消防總隊原黨委委員、副總隊長兼保障部部長羅爽，寧夏回族自治區體育局原黨組成員、副局長張梅提起公訴。"
-    },
-    {
-      "id": "mkt:019efdd3-a994-7dd8-b112-c3ee5e92c68c",
-      "time": "2026-06-25 16:09:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "TCOM.O",
-        "Impact bearish"
-      ],
-      "text": "Trip.com Group (TCOM.O) U.S. shares fell 13.5% in pre-market trade after weak first-quarter results."
-    },
-    {
-      "id": "4954554",
-      "time": "2026-06-25 16:09:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "攜程在美上市股票盤前下跌13.5%，此前該集團公佈一季度業績。"
-    },
-    {
-      "id": "mkt:019efdd3-755b-7dd8-b112-bbf6ad4020ae",
-      "time": "2026-06-25 16:09:14",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "VDMA (German Mechanical Engineering Association) expects the sector to record no growth in 2026."
-    },
-    {
-      "id": "4954553",
-      "time": "2026-06-25 16:09:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德爾股份：電池阻燃產品已向歐洲客戶批次供貨】德爾股份6月25日在互動平臺表示，公司的電池阻燃產品可以有效延緩電池內部火焰蔓延到外部的時間，對於動力電池的安全防護起到積極作用，該產品已向歐洲客戶批次供貨，公司也在積極拓展國內客戶。"
-    },
-    {
-      "id": "4954552",
-      "time": "2026-06-25 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.432%，恒生科技指數跌1.632%】周大福跌4.617%，中國銀行跌5.503%，中國宏橋跌5.693%，洛陽鉬業跌7.995%，老鋪黃金跌8.096%，攜程集團-S跌10.690%，舜宇光學科技跌11.594%。"
-    },
-    {
-      "id": "mkt:019efdd3-2e9e-7dd8-b112-b6511d545917",
-      "time": "2026-06-25 16:08:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02382.HK",
-        "09961.HK"
-      ],
-      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.43% and the Hang Seng TECH Index dropped 1.63%. Base-metals and robotics names led declines; Sunny Optical (02382.HK) fell over 11%, Zhaojin Mining (01818.HK) dropped more than 8%. Trip.com Group-S (09961.HK) slid about 11% post-earnings."
-    },
-    {
-      "id": "4954551",
-      "time": "2026-06-25 16:08:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國機械工程工業協會VDMA：預計2026年行業不再增長。"
-    },
-    {
-      "id": "4954550",
-      "time": "2026-06-25 16:08:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜今年將在印度新增20個以上履約中心。"
-    },
-    {
-      "id": "4954549",
-      "time": "2026-06-25 16:08:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【漢馬科技：免去鄭志強總經理職務，聘任林明世為公司總經理】漢馬科技6月25日公告，公司董事會免去鄭志強總經理職務，並聘任鄭志強為公司常務副總經理。同時，公司董事會同意聘任林明世為公司總經理。上述人員任期自本次董事會透過之日起至公司第九屆董事會任期屆滿之日止。"
-    },
-    {
-      "id": "4954548",
-      "time": "2026-06-25 16:08:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東星醫療：擬90%控股武漢醫佳寶 重組尚待股東會審批】東星醫療公告稱，公司擬以支付現金方式受讓包仕軍及其控制的湖北天輝持有的武漢醫佳寶90%股權，預計構成重大資產重組。2026年5月12日，公司已與交易對方簽署附條件生效的《股權收購協議》。5月26日收到深交所重組問詢函並於6月13日完成回覆。截至公告披露日，本次交易相關議案尚需公司股東會審議批准及相關法律法規要求的其他審批，存在不確定性，提請投資者注意風險。"
-    },
-    {
-      "id": "mkt:019efdd2-988a-7dd8-b112-aec3ff1e0dec",
-      "time": "2026-06-25 16:08:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) said it will invest an additional $13 bln in India by 2030 to expand and support AI and cloud infrastructure."
-    },
-    {
-      "id": "4954547",
-      "time": "2026-06-25 16:08:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：計劃額外投入130億美元，到2030年前在印度擴建並運維人工智慧與雲基礎設施。"
-    },
-    {
-      "id": "4954546",
-      "time": "2026-06-25 16:08:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：通貨緊縮不可避免。"
-    },
-    {
-      "id": "mkt:019efdd2-0b78-7dd8-b112-a6f0f070c890",
-      "time": "2026-06-25 16:07:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Amazon (AMZN.O) CEO Andy Jassy met Indian Prime Minister Modi and announced plans to invest $48 billion in India between 2026 and 2030."
-    },
-    {
-      "id": "4954545",
-      "time": "2026-06-25 16:07:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜宣佈2030年前將在印度投資480億美元。"
-    },
-    {
-      "id": "mkt:019efdd1-d8da-7dd8-b112-9bd2ec2b0979",
-      "time": "2026-06-25 16:07:28",
-      "tags": [
-        "MKT News",
-        "ARM.O",
-        "Impact bullish",
-        "QCOM.O"
-      ],
-      "text": "Arm (ARM.O), a supplier to Qualcomm, rose 6% in US premarket trading after Qualcomm raised its long-term revenue targets for data-center and non-handset businesses."
-    },
-    {
-      "id": "4954544",
-      "time": "2026-06-25 16:06:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "高通供應商安謀股價盤前上漲6%，此前高通上調了長期資料中心及非手機業務營收目標。"
-    },
-    {
-      "id": "4954543",
-      "time": "2026-06-25 16:06:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金融街：海倫中心CMBS成立】金融街(000402)6月25日公告，公司於6月24日順利完成金融街商業地產第3期（海倫中心）資產支援專項計劃（簡稱“海倫中心CMBS”）的發行工作。經立信會計師事務所（特殊普通合夥）驗資，海倫中心CMBS實際收到的認購資金為35.8億元，海倫中心CMBS募集專戶中的本金金額已經達到《金融街商業地產第3期（海倫中心）資產支援專項計劃說明書》約定的專項計劃目標募集規模，海倫中心CMBS於2026年6月24日正式成立。"
-    },
-    {
-      "id": "4954542",
-      "time": "2026-06-25 16:06:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯汽車經銷商向寶馬提起250億盧布訴訟。"
-    },
-    {
-      "id": "4954541",
-      "time": "2026-06-25 16:06:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油天然氣公司與英國石油簽署技術服務合同，以提高西近海盆地油田的產量。"
-    },
-    {
-      "id": "mkt:019efdd0-a125-7dd8-b112-95e9ba9c99d1",
-      "time": "2026-06-25 16:06:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's 8+9 sectors add 373,000 new firms Jan-Apr 2026, SAMR says】The State Administration for Market Regulation said China registered 373,000 new enterprises in 8+9 industries (eight emerging and nine future sectors) in Jan-Apr 2026. Generative AI saw 34,000 new firms, up 24.9% YoY; humanoid robots added 78,000 new firms, up 13.3%; quantum information exceeded 7,000 new firms, up 8.9%."
-    },
-    {
-      "id": "4954540",
-      "time": "2026-06-25 16:05:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第四屆中歐能源技術創新合作論壇在四川成都舉辦】6月25日，第四屆中歐能源技術創新合作論壇在四川成都舉辦，英國、冰島、芬蘭等13國代表和歐盟代表，以及中歐能源企業、行業組織、科研機構代表參加本屆論壇。中國國家能源局副局長何洋出席論壇並致辭。中歐代表圍繞清潔能源技術創新、產業鏈供應鏈協同、綠色電力消費與國際互認等重點議題深入交流。論壇期間成功釋出多項中歐能源合作優秀成果，包括首批19項中歐能源合作典型案例、“RE100·中國綠色電力園區”倡議、《綠電（零碳）園區綠電供應方式方案集》等。論壇期間，同步舉辦了英國、冰島、芬蘭主題日及氫能、智慧能源、儲能、風電、生物質能等專題分論壇。"
-    },
-    {
-      "id": "mkt:019efdd0-4235-7dd8-b112-8e59d525352f",
-      "time": "2026-06-25 16:05:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【JP Morgan: Memory remains a strategic asset for AGI】JP Morgan analysts said on Thursday that memory shortages are being driven by explosive demand for AI factory infrastructure, and that memory’s role as a strategic asset for artificial general intelligence (AGI) remains unchanged. They added there are few signs of demand destruction or of reductions in memory intensity that would relieve the current supply-demand imbalance."
-    },
-    {
-      "id": "4954539",
-      "time": "2026-06-25 16:05:43",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【加密貨幣連續殺跌】6月25日，比特幣一度跌破6萬美元，盤中跌幅一度超過3%。截至發稿，比特幣下跌1.80%報6.16萬美元；以太坊、BNB、XRP、Solana、XLM、艾達幣等紛紛跟跌。 CoinGlass資料顯示，24小時內，加密貨幣全網爆倉金額接近10億美元，爆倉人數超過17萬人。其中，多單爆倉近8億美元。 市場分析人士指出，比特幣近期帶頭殺跌，主要受兩大利空打擊：一是價值近100億美元的比特幣期權將於明日（6月26日）到期；二是，美聯儲加息預期升溫引發美元走強，以比特幣為首的風險資產因流動性收緊而承壓。（券商中國）"
-    },
-    {
-      "id": "mkt:019efdcf-ff80-7dd8-b112-8715ca6ac6a3",
-      "time": "2026-06-25 16:05:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Germany plans to issue €47 bln of money-market instruments in Q3."
-    },
-    {
-      "id": "4954538",
-      "time": "2026-06-25 16:05:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：歐盟趕在特朗普期限前敲定美歐貿易協議】歐盟已完成對美貿易協議的最終審批，協定即將正式生效。歐盟寄望該協議能在持續經貿緊張局勢下穩住雙邊貿易基本盤。歐盟成員國於週四表決透過這份協議，持續近一年、幾度讓協定瀕臨作廢的核準拉鋸就此落幕。根據協議條款，歐盟將取消美國工業品及部分農產品進口關稅，換取美方對歐盟輸美商品設定 15% 關稅上限。協定落地有望立刻緩和緊繃的歐美經貿關係。此前美國總統特朗普曾放話，若歐盟無法在 7 月 4 日前完成審批，將對歐盟加徵新一輪關稅。但雙方在鋼鋁關稅、科技監管等議題上分歧仍深，未來數月相關矛盾仍可能衝擊雙邊經貿關係。"
-    },
-    {
-      "id": "te:markets:561818",
-      "time": "2026-06-25 16:05:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 1.08% — Top commodity losers are Iron Ore CNY (-1.08%), Platinum (-0.80%), Silicon (-0.66%) and Gold (-0.19%). Gains are led by Copper (1.02%)."
-    },
-    {
-      "id": "4954537",
-      "time": "2026-06-25 16:04:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "高通股價盤前上漲11.8%，此前該公司上調了長期資料中心及非手機業務營收目標。"
-    },
-    {
-      "id": "mkt:019efdcf-31fe-7dd8-b112-7a9019728930",
-      "time": "2026-06-25 16:04:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB says the move is the final step in winding down temporary crisis-era collateral-easing measures, with earliest implementation planned for November 2027."
-    },
-    {
-      "id": "mkt:019efdcf-0291-7dd8-b112-7196b1b0df8e",
-      "time": "2026-06-25 16:04:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "ECB says non-financial corporate loan portfolios will be included in its general collateral framework."
-    },
-    {
-      "id": "4954536",
-      "time": "2026-06-25 16:04:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "4954535",
-      "time": "2026-06-25 16:04:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美光科技釋出第四財季業績預測超預期後，美國儲存晶片製造商股價盤前大漲。迪股價上漲12.4%，西部資料股價上漲12.1%，希捷科技股價上漲8.7%。"
-    },
-    {
-      "id": "4954534",
-      "time": "2026-06-25 16:03:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股液冷龍頭維諦技術美股盤前漲超5%】美股液冷龍頭維諦技術美股盤前漲超5%，現報332.42美元。"
-    },
-    {
-      "id": "4954533",
-      "time": "2026-06-25 16:03:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：此次調整是終止危機時期臨時抵押品寬鬆措施的最後一步。"
-    },
-    {
-      "id": "4954532",
-      "time": "2026-06-25 16:03:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：非金融企業債權組合將被納入一般抵押品框架。"
-    },
-    {
-      "id": "4954531",
-      "time": "2026-06-25 16:03:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：歐洲央行將把非金融債權組合納入一般抵押框架，逐步取消臨時措施。"
-    },
-    {
-      "id": "4954530",
-      "time": "2026-06-25 16:03:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮邦醫藥透過在香港的首次公開募股(IPO)籌集了13億港元。"
-    },
-    {
-      "id": "mkt:019efdce-49c9-7dd8-b112-6b17f384d73a",
-      "time": "2026-06-25 16:03:35",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "ECB to include holdings of non‑financial corporate credit bonds in its general collateral framework and to gradually phase out temporary measures."
-    },
-    {
-      "id": "4954529",
-      "time": "2026-06-25 16:03:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋁庫存減少2000噸，鋅庫存減少425噸，錫庫存減少190噸，鉛庫存減少1125噸，鎳庫存減少618噸，銅庫存減少2825噸。"
-    },
-    {
-      "id": "4954528",
-      "time": "2026-06-25 16:03:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【維諦技術美股盤前漲超5%】維諦技術美股盤前漲超5%，現報332.42美元。"
-    },
-    {
-      "id": "4954527",
-      "time": "2026-06-25 16:03:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部、商務部等五部門聯合啟動2026年新能源汽車下鄉活動】6月25日，工業和資訊化部、商務部會同國家發展改革委、農業農村部、國家能源局在新疆塔城、海南澄邁同時啟動2026年新能源汽車下鄉活動。裝備工業一司相關負責人表示，今年的下鄉活動將搭建專屬平臺，強化政策支援、充實支撐力量、豐富活動組織，進一步提升服務水平、擴大活動影響，並針對鄉村地區消費者換購新能源汽車給予申領以舊換新補貼不受補貼資格數量限制等特別支援，為新能源汽車鄉村地區推廣應用創造積極條件。塔城站共有41個主流品牌、120餘款車型參與，澄邁站共有30多個品牌、50餘款車型參與，並同步開展購車補貼申領、售後金融一站式服務等配套活動。（工信部）"
-    },
-    {
-      "id": "4954526",
-      "time": "2026-06-25 16:03:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國防部：民進黨當局蓄意製造緊張不得人心】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。記者：美日正在開展“勇敢之盾2026”大規模軍演，臺軍同步舉行備戰操演，雙方演訓時間高度重合，針對臺海的意味很強，請問對此有何評論？張曉剛：民進黨當局蓄意製造緊張，升高兩岸對立對抗，不得人心。靠軍演壯膽換不來真正安全。不管是誰，把對抗當成常態，把民生福祉放在政治私利之後，最終都將付出相應代價。解放軍始終保持高度戒備，堅決挫敗任何“臺獨”妄動。（央視新聞）"
-    },
-    {
-      "id": "4954525",
-      "time": "2026-06-25 16:02:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田以超過3000億日元的價格出售了所持三井住友海上火災保險（MS&AD）的全部股份。"
-    },
-    {
-      "id": "mkt:019efdcd-2446-7dd8-b112-679692e05bc3",
-      "time": "2026-06-25 16:02:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "QCOM.O",
-        "Impact bullish",
-        "INTC.O",
-        "AMD.O"
-      ],
-      "text": "US AI chip-related names were mixed in pre-market trading: Qualcomm (QCOM.O) jumped ~13%, Intel (INTC.O) rose ~6%, AMD (AMD.O) gained ~4%, while Baidu (BIDU.O) fell ~2% and Google (GOOG.O) dropped ~1.4%."
     }
   ]
 }

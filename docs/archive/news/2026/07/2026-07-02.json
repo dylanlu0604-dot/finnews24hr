@@ -1,7 +1,251 @@
 {
   "date": "2026-07-02",
-  "count": 1641,
+  "count": 1668,
   "items": [
+    {
+      "id": "mkt:019f21dc-cc5b-7aab-8c71-6413766da414",
+      "time": "2026-07-02 16:05:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IEA Executive Director Birol said he was pleased to announce Nigeria has formally joined the International Energy Agency."
+    },
+    {
+      "id": "4966925",
+      "time": "2026-07-02 16:05:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安汽車：截至6月底回購股份1.48% 耗資超8億元】長安汽車公告稱，公司於2026年3月19日透過以集中競價方式回購股份方案，回購A股資金7億-14億元，回購B股資金3億-6億元，實施期限不超十二個月。截至6月30日，公司已回購股份146,762,341股，佔總股本1.48052%，其中A股66,392,392股，耗資5.61億元，B股80,369,949股，耗資2.51億元。公司後續將繼續實施回購並及時披露資訊。"
+    },
+    {
+      "id": "4966924",
+      "time": "2026-07-02 16:05:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神通科技：持股5%以上股東減持公司股份 持股比例降至63.14%】神通科技公告稱，公司於2026年7月2日收到必恆投資通知，其於當日透過大宗交易方式減持892.37萬股。本次權益變動後，必恆投資及其一致行動人合計持股比例由65.00%降至63.14%，觸及1%刻度。本次權益變動符合相關規定，不觸及要約收購，不會導致控股股東及實際控制人變化，是股東履行此前減持計劃所致，後續公司將督促其按規減持並及時披露。"
+    },
+    {
+      "id": "te:markets:563718",
+      "time": "2026-07-02 16:05:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Falls by 2.11% — Top commodity losers are Titanium (-2.11%) and Copper (-0.74%). Gains are led by Lithium Carbonate (1.56%), Platinum (1.20%), Iron Ore CNY (1.16%) and Gold (0.87%)."
+    },
+    {
+      "id": "4966923",
+      "time": "2026-07-02 16:04:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，科技股延續此前跌勢，美光科技跌近3%，英特爾跌超2%，康寧跌3.68%。"
+    },
+    {
+      "id": "4966922",
+      "time": "2026-07-02 16:04:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪：印度擬在10年內從日本獲得10萬億日元投資。"
+    },
+    {
+      "id": "mkt:019f21db-b216-7aab-8c71-5f23bc79629b",
+      "time": "2026-07-02 16:04:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "India and Japan have a joint economic-security roadmap ready, Prime Minister Modi said."
+    },
+    {
+      "id": "mkt:019f21db-9add-7aab-8c71-50a52ecde2ba",
+      "time": "2026-07-02 16:04:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Modi said India and Japan have signed a defence co-development agreement."
+    },
+    {
+      "id": "4966921",
+      "time": "2026-07-02 16:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將LVMH目標股價從640歐元上調至650歐元。"
+    },
+    {
+      "id": "4966920",
+      "time": "2026-07-02 16:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合肥建投鑫芯股權投資合夥企業登記成立 出資額10億】天眼查App顯示，近日，合肥建投鑫芯股權投資合夥企業（有限合夥）成立，執行事務合夥人為合肥建投資本管理有限公司，出資額10億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該合夥企業由合肥市建設投資控股（集團）有限公司、安徽創禾產業投資有限公司、安徽省新一代資訊科技產業基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "4966919",
+      "time": "2026-07-02 16:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將愛馬仕目標價從1765歐元上調至1795歐元。"
+    },
+    {
+      "id": "4966918",
+      "time": "2026-07-02 16:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將歷峰集團目標股價從186瑞郎上調至213瑞郎。"
+    },
+    {
+      "id": "4966917",
+      "time": "2026-07-02 16:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將博柏利目標股價從1420便士上調至1425便士。"
+    },
+    {
+      "id": "mkt:019f21da-9428-7aab-8c71-4a81348a18c4",
+      "time": "2026-07-02 16:03:20",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "German mechanical-equipment manufacturers' association says German engineering-industry orders fell 1% YoY in May; domestic orders down 3%, foreign orders up 1%."
+    },
+    {
+      "id": "4966916",
+      "time": "2026-07-02 16:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國機械工業聯合會（VDMA）表示，3-5月德國工程行業訂單同比增長10%，其中國內訂單增長3%，海外訂單增長13%；5月德國工程行業訂單同比下降1%，其中國內訂單下降3%，海外訂單增長1%。"
+    },
+    {
+      "id": "mkt:019f21da-2305-7aab-8c71-42ee76a2e2eb",
+      "time": "2026-07-02 16:02:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Mechanical Engineering Industry Association: Orders in Germany's engineering sector rose 10% YoY in Mar–May; domestic orders +3%, export orders +13%."
+    },
+    {
+      "id": "4966915",
+      "time": "2026-07-02 16:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遊族網路：第一大股東部分股份解除質押 數量為1346萬股】遊族網路公告稱，公司第一大股東上海加遊企業管理合夥企業（有限合夥）將所持1346萬股公司股份辦理解除質押登記手續，佔其所持股份比例12.54%，佔公司總股本比例1.37%，起始日為2025年7月4日，解除日期為2026年7月1日，質權人為國聯民生證券股份有限公司。截至目前，該股東累計被質押股份3478萬股，佔公司總股本3.55%。本次解質不會對公司正常經營產生影響。"
+    },
+    {
+      "id": "4966914",
+      "time": "2026-07-02 16:02:17",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式啟動一項為期一週的“黃金換里拉”賣出方掉期拍賣，規模為6噸黃金。"
+    },
+    {
+      "id": "4966913",
+      "time": "2026-07-02 16:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪：印度和日本同意共同開發國防技術。"
+    },
+    {
+      "id": "mkt:019f21d9-885a-7aab-8c71-3bf0f4671a4c",
+      "time": "2026-07-02 16:02:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Turkey's central bank launched a one-week \"gold-for-lira\" sell-side swap auction via conventional procedure, sized at 6 tonnes of gold."
+    },
+    {
+      "id": "te:markets:563717",
+      "time": "2026-07-02 16:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Stays Near One-Year Lows on Soft Inflation — The euro rebounded to $1.14 but remained near one-year lows against the dollar and pound, pressured by softer-than-expected Eurozone inflation and dovish remarks from ECB President Christine Lagarde. Wednesday’s data showed headline inflation falling to 2.8% in June from 3.2% in May, below expectations of 3.0%, while the core rate dropped to 2.4%, also under forecasts of 2.6%. At the ECB’s Sintra Forum, Lagarde noted that risks to euro-area inflation and growth have diminished. This shift follows the ECB’s decision three weeks earlier to become the first G7 central bank to hike rates after the Iran war, citing concerns over inflation spreading. Since then, hopes for a US-Iran peace accord have sharply lowered oil prices, removing a key inflation driver. Elsewhere, traders welcomed progress in indirect US-Iran talks, with Qatar announcing the next meeting would be scheduled as soon as possible. Oil prices continued to fall as more shipments passed through the Strait of Hormuz."
+    },
+    {
+      "id": "4966912",
+      "time": "2026-07-02 16:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科磁業：控股股東質押240萬股用於自身生產經營】中科磁業公告稱，公司控股股東、實際控制人吳中平將240萬股（佔其所持股份比例5.81%，佔公司總股本比例1.93%）首發前限售股質押給浙江東陽農村商業銀行股份有限公司，質押開始日期為2026年7月1日，用途為自身生產經營。截至公告披露日，吳中平累計質押股份480萬股，佔其所持股份比例11.62%，佔公司總股本比例3.87%。其資信良好，質押股份無平倉或被強制過戶風險，對公司無實質性影響。"
+    },
+    {
+      "id": "4966911",
+      "time": "2026-07-02 16:01:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數迷你電子期貨下跌0.21%，道瓊斯指數期貨下跌0.1%，納斯達克100指數期貨下跌0.76%。"
+    },
+    {
+      "id": "mkt:019f21d9-253b-7aab-8c71-370a28f395a1",
+      "time": "2026-07-02 16:01:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Institutions' preview of US June unemployment rate (prior: 4.3%)】BNP Paribas, Scotiabank and TD Securities project US June unemployment at 4.2%. The remainder of the surveyed institutions expect 4.3%, matching Reuters' 4.3% consensus."
+    },
+    {
+      "id": "mkt:019f21d8-c249-7aab-8c71-2c120de91c03",
+      "time": "2026-07-02 16:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy unemployment rate 5.0% in May, vs 5.1% expected and 5.1% in April."
+    },
     {
       "id": "mkt:019f21d8-9ecb-7aab-8c71-25613d21f08d",
       "time": "2026-07-02 16:01:12",
@@ -11,6 +255,22 @@
         "Important"
       ],
       "text": "Italy | Unemployment Rate Flash (May) | actual 5% | consensus 5.1% | previous 5.10%"
+    },
+    {
+      "id": "4966910",
+      "time": "2026-07-02 16:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：銅庫存減少2500噸，鋁庫存減少1500噸，鎳庫存增加390噸，錫庫存減少50噸，鋅庫存減少250噸，鉛庫存減少1450噸。"
+    },
+    {
+      "id": "4966909",
+      "time": "2026-07-02 16:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫迪：印日科技合作將成為兩國關係的中流砥柱。"
     },
     {
       "id": "mkt:019f21d8-8a1f-7aab-8c71-1f771f2d0356",
