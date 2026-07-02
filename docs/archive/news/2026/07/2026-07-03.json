@@ -1,7 +1,108 @@
 {
   "date": "2026-07-03",
-  "count": 23,
+  "count": 33,
   "items": [
+    {
+      "id": "4968101",
+      "time": "2026-07-03 00:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta 推出全新應用，搭載趣味程式碼創作小遊戲社交資訊流】Meta 旗下全新人工智慧社交應用Pocket已在部分地區分批上線。Meta 將這款產品定義為一個能和好友一同創作、分享、探索互動小程式的平臺。簡單來說，它是使用者輸入提示詞就能生成的小型互動遊戲。Meta 給出官方定義：gizmo 是由 AI 生成、可互動、能直接遊玩的趣味內容。Meta 的應用矩陣早已不止 Facebook、Instagram、WhatsApp 三款產品。該公司陸續推出 Threads、Forum 等新型社交軟體，同時上線多款 AI 應用，持續加碼人工智慧業務。 此前據報道，Meta 收購了 Atma Sciences 的研發團隊，這家公司開發過一款名為 Gizmo 的應用；Meta 還取得了這家初創企業技術的非獨佔授權。當時 Meta 並未披露這筆交易的資金細節。收購該團隊數月後，Meta 推出獨立應用 Pocket，落地這套 gizmo 互動內容玩法。"
+    },
+    {
+      "id": "mkt:019f239b-d7a6-7aab-8c80-d65d042db9d0",
+      "time": "2026-07-03 00:14:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Business Insider reports Meta Platforms (META.O) has launched Pocket, an app featuring a mood-tagged game feed."
+    },
+    {
+      "id": "mkt:019f239a-feeb-7aab-8c80-cadf85a043c9",
+      "time": "2026-07-03 00:13:08",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Airbus expects to deliver about 350 aircraft in 1H 2026."
+    },
+    {
+      "id": "4968100",
+      "time": "2026-07-03 00:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西與美國代表團將於7月15日會晤，商討貿易相關事宜。"
+    },
+    {
+      "id": "mkt:019f239a-6df8-7aab-8c80-c668cd4c16ae",
+      "time": "2026-07-03 00:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said the Trump administration and ANTHROPIC did not discuss the government taking an equity stake in the company."
+    },
+    {
+      "id": "te:markets:563859",
+      "time": "2026-07-03 00:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.60% Higher — The FTSE MIB Index went up by 824 points or 1.60 percent on Thursday to close at 52428 points. The rise was led by Leonardo SpA (6.88%), Fincantieri (6.78%) and UniCredit (3.79%)."
+    },
+    {
+      "id": "4968099",
+      "time": "2026-07-03 00:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京150萬畝永久基本農田將整體納入“大田”】北京市規劃自然資源委副主任孫龍廣介紹，截至2025年底，北京市現狀耕地面積接近200萬畝，永久基本農田超過151萬畝，超額完成國家下達的166萬畝耕地保護目標和150萬畝永久基本農田保護任務。在永久基本農田的基礎上，北京市進一步劃定了不少於166萬畝的耕地保護空間，並納入國土空間規劃“一張圖”，明確不可逾越的耕地保護紅線，確保市、區、鄉鎮各層級耕地保護任務足額落地上圖。孫龍廣介紹，北京在市級耕地保護規劃中，劃定了14個萬畝級、400餘個千畝級、3300餘個百畝級“大田”。重點包含永久基本農田，以及下一步擬實施復耕的潛力資源地塊，“大田”內允許科學佈局農村道路、設施農業、點狀配套設施用地，服務“大田”規模化、高質量經營。下一步，萬畝級、千畝級、百畝級大田將分別由市、區、鄉鎮三級田長督促指導，引導耕地補充、質量提升和適度規模化經營等專項工作在“大田”內集中實施。（新華社）"
+    },
+    {
+      "id": "mkt:019f2399-ce6a-7aab-8c80-bd30af4d4748",
+      "time": "2026-07-03 00:11:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is launching a new app combining a social feed with mood-coded mini-games, Business Insider reports."
+    },
+    {
+      "id": "te:markets:563858",
+      "time": "2026-07-03 00:11:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.16% Higher — The DAX Index rose 541 points or 2.16 percent on Thursday to close at 25581 points. Leading the gains are Bayer (8.90%), Rheinmetall (6.80%) and Deutsche Bank (5.31%)."
+    },
+    {
+      "id": "4968098",
+      "time": "2026-07-03 00:11:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據知情訊息人士透露，特朗普政府與Anthropic公司並未就政府入股該公司一事進行過討論。"
+    },
     {
       "id": "4968097",
       "time": "2026-07-03 00:10:36",

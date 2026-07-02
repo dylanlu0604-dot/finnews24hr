@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-03 00:11:27",
-  "count": 13930,
+  "updated": "2026-07-03 00:15:35",
+  "count": 13932,
   "items": [
+    {
+      "id": "4968101",
+      "time": "2026-07-03 00:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta 推出全新應用，搭載趣味程式碼創作小遊戲社交資訊流】Meta 旗下全新人工智慧社交應用Pocket已在部分地區分批上線。Meta 將這款產品定義為一個能和好友一同創作、分享、探索互動小程式的平臺。簡單來說，它是使用者輸入提示詞就能生成的小型互動遊戲。Meta 給出官方定義：gizmo 是由 AI 生成、可互動、能直接遊玩的趣味內容。Meta 的應用矩陣早已不止 Facebook、Instagram、WhatsApp 三款產品。該公司陸續推出 Threads、Forum 等新型社交軟體，同時上線多款 AI 應用，持續加碼人工智慧業務。 此前據報道，Meta 收購了 Atma Sciences 的研發團隊，這家公司開發過一款名為 Gizmo 的應用；Meta 還取得了這家初創企業技術的非獨佔授權。當時 Meta 並未披露這筆交易的資金細節。收購該團隊數月後，Meta 推出獨立應用 Pocket，落地這套 gizmo 互動內容玩法。"
+    },
+    {
+      "id": "mkt:019f239b-d7a6-7aab-8c80-d65d042db9d0",
+      "time": "2026-07-03 00:14:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Business Insider reports Meta Platforms (META.O) has launched Pocket, an app featuring a mood-tagged game feed."
+    },
+    {
+      "id": "mkt:019f239a-feeb-7aab-8c80-cadf85a043c9",
+      "time": "2026-07-03 00:13:08",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Airbus expects to deliver about 350 aircraft in 1H 2026."
+    },
+    {
+      "id": "4968100",
+      "time": "2026-07-03 00:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西與美國代表團將於7月15日會晤，商討貿易相關事宜。"
+    },
+    {
+      "id": "mkt:019f239a-6df8-7aab-8c80-c668cd4c16ae",
+      "time": "2026-07-03 00:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said the Trump administration and ANTHROPIC did not discuss the government taking an equity stake in the company."
+    },
+    {
+      "id": "te:markets:563859",
+      "time": "2026-07-03 00:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.60% Higher — The FTSE MIB Index went up by 824 points or 1.60 percent on Thursday to close at 52428 points. The rise was led by Leonardo SpA (6.88%), Fincantieri (6.78%) and UniCredit (3.79%)."
+    },
+    {
+      "id": "4968099",
+      "time": "2026-07-03 00:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京150萬畝永久基本農田將整體納入“大田”】北京市規劃自然資源委副主任孫龍廣介紹，截至2025年底，北京市現狀耕地面積接近200萬畝，永久基本農田超過151萬畝，超額完成國家下達的166萬畝耕地保護目標和150萬畝永久基本農田保護任務。在永久基本農田的基礎上，北京市進一步劃定了不少於166萬畝的耕地保護空間，並納入國土空間規劃“一張圖”，明確不可逾越的耕地保護紅線，確保市、區、鄉鎮各層級耕地保護任務足額落地上圖。孫龍廣介紹，北京在市級耕地保護規劃中，劃定了14個萬畝級、400餘個千畝級、3300餘個百畝級“大田”。重點包含永久基本農田，以及下一步擬實施復耕的潛力資源地塊，“大田”內允許科學佈局農村道路、設施農業、點狀配套設施用地，服務“大田”規模化、高質量經營。下一步，萬畝級、千畝級、百畝級大田將分別由市、區、鄉鎮三級田長督促指導，引導耕地補充、質量提升和適度規模化經營等專項工作在“大田”內集中實施。（新華社）"
+    },
+    {
+      "id": "mkt:019f2399-ce6a-7aab-8c80-bd30af4d4748",
+      "time": "2026-07-03 00:11:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is launching a new app combining a social feed with mood-coded mini-games, Business Insider reports."
+    },
+    {
+      "id": "4968098",
+      "time": "2026-07-03 00:11:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據知情訊息人士透露，特朗普政府與Anthropic公司並未就政府入股該公司一事進行過討論。"
+    },
+    {
+      "id": "te:markets:563858",
+      "time": "2026-07-03 00:11:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.16% Higher — The DAX Index rose 541 points or 2.16 percent on Thursday to close at 25581 points. Leading the gains are Bayer (8.90%), Rheinmetall (6.80%) and Deutsche Bank (5.31%)."
+    },
     {
       "id": "4968097",
       "time": "2026-07-03 00:10:36",
@@ -128250,81 +128351,6 @@
         "市場"
       ],
       "text": "納斯達克100指數漲幅擴大至1%，美股早盤呈現出V形反轉，成分股閃迪目前漲18.1%，美光漲16.1%，應用材料漲10.1%，西部資料漲8.1%，高通漲7.9%，阿斯麥ADR漲4.5%，谷歌A跌0.8%，英偉達跌幅收窄至1.1%，Meta跌1.7%，亞馬遜跌2.2%，微軟跌3.4%，蘋果仍然重挫超5.6%，Strategy跌6.9%。半導體指數漲超4.1%。"
-    },
-    {
-      "id": "te:markets:561977",
-      "time": "2026-06-26 00:14:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Heating Oil Rallies as Crude Recovers — US heating oil prices rose more than 3% to above $3.27 a gallon, mirroring a rebound in crude driven by renewed safety concerns in the Middle East. The maritime group UKMTO reported that a vessel was struck by an unknown projectile in the Strait of Hormuz off the Omani coast, prompting several commercial ships to reverse course. This incident stoked anxieties regarding Iran's control over the chokepoint as Tehran and Washington negotiate a permanent end to their war. Despite these disruptions, Saudi Arabian tankers proceeded toward the Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. To contain energy costs, the White House waived the Jones Act and tapped the Strategic Petroleum Reserve. However, the market remains tight because the US operates as a global supplier of last resort, pushing domestic diesel inventories to seasonal lows. Prospective Russian export bans could spark further upward pressure."
-    },
-    {
-      "id": "4955603",
-      "time": "2026-06-26 00:12:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1%。"
-    },
-    {
-      "id": "4955602",
-      "time": "2026-06-26 00:12:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "羅馬尼亞財政部資料顯示，截至5月底，該國綜合預算赤字相當於國內生產總值(GDP)的1.75%，2025年同期為3.39%/GDP。"
-    },
-    {
-      "id": "mkt:019eff8d-80e8-7dd8-b121-6c05d4dde9eb",
-      "time": "2026-06-26 00:12:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Macau joint-inspection ports to fully implement facial-recognition self-service clearance】Macau Public Security Police Force and the Security Forces Affairs Bureau said on June 25 that from June 26 the joint-inspection self-service lanes at Qingmao Port and the Zhuhai–Macau hall of the Hong Kong–Zhuhai–Macau Bridge will adopt smart clearance. All 204 self-service joint-inspection lanes across Macau ports will be upgraded to facial-recognition clearance."
-    },
-    {
-      "id": "te:markets:561976",
-      "time": "2026-06-26 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.28% Higher — The FTSE MIB Index went up by 144 points or 0.28 percent on Thursday to close at 51783 points. The rise was led by STMicroelectronics (2.57%), Buzzi Unicem (2.17%) and Enel (2.00%). On the downside, the weakerst performers were Avio (-6.62%), Leonardo SpA (-3.94%) and Fincantieri (-2.92%)."
-    },
-    {
-      "id": "4955601",
-      "time": "2026-06-26 00:12:00",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：預期的偏緊縮立場有助於解釋通脹預期下降】Northlight的Chris Zaccarelli表示，市場對未來通脹和利率反映的預期中看似存在的差異可能具有欺騙性。與戰爭相關的能源價格上漲以及美聯儲近期的偏緊縮轉向，已讓聯邦基金期貨反映出今年至少加息一次的預期。但油價最新大幅下跌。與此同時，完全不同的掉期市場反映的預期是，一年期通脹率將接近美聯儲2%的目標。“兩個市場可能都是正確的，”Zaccarelli說，因為“美聯儲的一些成員可能希望加息，以期推動通脹率下降。“不過，他預計美聯儲將維持利率不變，而不是加息。"
-    },
-    {
-      "id": "4955600",
-      "time": "2026-06-26 00:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普請求為陷入困境的農民提供111億美元新援助】美國總統特朗普為受邀於週四晚些時候在白宮共進晚餐的農民們準備了一個驚喜：他向國會提出請求，要求提供111億美元的援助資金。這將是陷入困境的農業部門在年內獲得的第二次紓困。這項提交給國會的請求屬於一項包含國防開支在內的追加撥款方案。該方案尋求為種植玉米、大豆和水稻等作物的農戶提供100億美元援助，併為受2025年末及2026年初冬季風暴影響的佛羅里達州生產者提供11億美元援助。"
-    },
-    {
-      "id": "mkt:019eff8d-1918-7dd8-b121-67d11438bd58",
-      "time": "2026-06-26 00:11:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump seeks $11.1 bln in new aid for distressed farmers】President Trump has requested $11.1 bln from Congress in emergency aid for struggling farmers, submitted as part of a supplemental appropriations package that includes defense spending. The proposal would allocate $10 bln for corn, soybean and rice growers and $1.1 bln for Florida producers hit by winter storms in late 2025 and early 2026. This would be the farm sector's second bailout this year; the funds remain subject to congressional approval."
     }
   ]
 }
