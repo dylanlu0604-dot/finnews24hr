@@ -1,7 +1,58 @@
 {
   "date": "2026-07-03",
-  "count": 122,
+  "count": 128,
   "items": [
+    {
+      "id": "4968163",
+      "time": "2026-07-03 01:22:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通：Meta的雲計劃或表明其AI進展緩慢】摩根大通認為，如果Meta決定推出雲基礎設施業務，1吉瓦的算力可能會為Meta帶來約200億美元的年營收和數美元的每股收益。此前有報道稱，Meta正在考慮這一舉措。但摩根大通的分析師也認為，這表明該公司在專有AI工作方面缺乏進展。“我們更希望Meta開發核心AI產品，在其40億使用者基礎上加以利用，併為其自身的推理需求提供大規模算力，而不是出售其基礎設施的使用權，”摩根大通的分析師在一份報告中說。“這仍然向我們表明，Meta在廣告以外的AI產品吸引力仍然有限。”Meta股價跌超4%。"
+    },
+    {
+      "id": "mkt:019f23da-e0a0-7aab-8c81-c7086c17c4bb",
+      "time": "2026-07-03 01:22:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canadian Prime Minister Carney said Ottawa and British Columbia have agreed to maintain the federal Northern Coast tanker ban. The federal government will accelerate development of new liquefied natural gas projects, targeting a threefold increase in LNG production within the next decade."
+    },
+    {
+      "id": "4968162",
+      "time": "2026-07-03 01:22:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大將最高提供30億加元資金支援喬治·梅西隧道專案，計劃投資5億加元擴建雷德克里斯銅金礦。"
+    },
+    {
+      "id": "mkt:019f23d9-dd56-7aab-8c81-bfe9e0e29216",
+      "time": "2026-07-03 01:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the EU will provide €100m in aid to the Lebanese Armed Forces to strengthen national security and the state monopoly on the use of force, and is considering additional security support and a possible EU mission."
+    },
+    {
+      "id": "4968161",
+      "time": "2026-07-03 01:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：聯邦政府將加速新建液化天然氣專案，目標在未來十年將液化天然氣產量提升兩倍。"
+    },
+    {
+      "id": "4968160",
+      "time": "2026-07-03 01:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大與不列顛哥倫比亞省達成的協議承諾維持聯邦政府的北海岸油輪禁令。"
+    },
     {
       "id": "4968159",
       "time": "2026-07-03 01:21:25",
