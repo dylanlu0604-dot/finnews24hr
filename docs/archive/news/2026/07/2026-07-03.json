@@ -1,7 +1,67 @@
 {
   "date": "2026-07-03",
-  "count": 258,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:019f243a-528f-7aab-8c83-6e1e441fcee7",
+      "time": "2026-07-03 03:07:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Agriculture Ministry said early-June sugar output in the central-south region fell 3% to 2.30 million tonnes, while ethanol production rose 21% to 2.16 billion litres."
+    },
+    {
+      "id": "4968240",
+      "time": "2026-07-03 03:06:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：O'Reilly 汽配有意收購 Genuine Parts 旗下汽車零部件業務板塊。"
+    },
+    {
+      "id": "4968239",
+      "time": "2026-07-03 03:06:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西農業部資料：6 月初巴西中南部乙醇產量增至 21.6 億升，同比上漲 21%。6 月初巴西中南部食糖產量 230 萬噸，同比下降 3%。"
+    },
+    {
+      "id": "mkt:019f2438-3710-7aab-8c83-62201cae6c5e",
+      "time": "2026-07-03 03:04:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said executives in early 2026 feared they were 'not moving fast enough' on AI."
+    },
+    {
+      "id": "4968238",
+      "time": "2026-07-03 03:04:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格： 2026 年初高層管理團隊曾擔憂公司在人工智慧領域的推進速度跟不上需求。"
+    },
+    {
+      "id": "mkt:019f2437-8735-7aab-8c83-5dc2c6f2c889",
+      "time": "2026-07-03 03:04:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO said the company’s 2026 departmental reorganization \"could have been handled more cleanly.\""
+    },
     {
       "id": "4968237",
       "time": "2026-07-03 03:03:22",
