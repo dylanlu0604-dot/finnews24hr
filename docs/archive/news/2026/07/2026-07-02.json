@@ -1,7 +1,90 @@
 {
   "date": "2026-07-02",
-  "count": 554,
+  "count": 563,
   "items": [
+    {
+      "id": "4966121",
+      "time": "2026-07-02 08:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加97.93億元】截至7月1日，上交所融資餘額報15196.88億元，較前一交易日增加27.79億元；深交所融資餘額報14778.94億元，較前一交易日增加70.14億元；兩市合計29975.82億元，較前一交易日增加97.93億元。"
+    },
+    {
+      "id": "4966120",
+      "time": "2026-07-02 08:46:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報70.84美元/桶。"
+    },
+    {
+      "id": "mkt:019f204a-f17c-7aab-8c68-25544675eb30",
+      "time": "2026-07-02 08:46:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lianhe Power says first 800V active-suspension hydraulic pump entered mass-production delivery in May】Lianhe Power told investors its first 800V active-suspension hydraulic pump entered mass-production and was delivered in May. The company is developing both hydraulic and mechanical active-suspension solutions and plans to expand into rear-wheel steering and braking systems, and expects the business to grow rapidly."
+    },
+    {
+      "id": "4966119",
+      "time": "2026-07-02 08:46:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度《經濟時報》報道，阿達尼集團和IHC計劃合併成立一家價值115億美元的鋁業公司。"
+    },
+    {
+      "id": "4966118",
+      "time": "2026-07-02 08:45:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【殷勇會見全球行動通訊系統協會執行長】據北京釋出，日前，北京市市長殷勇會見全球行動通訊系統協會執行長洪曜莊。殷勇說，希望雙方加強溝通聯絡，依託雙方資源優勢，拓展在數字技術創新、成果轉化等方面合作，推動全球6G與人工智慧協同創新、開放發展，實現雙向賦能、互利共贏。洪曜莊表示，將發揮全球資源優勢，積極打造包容多元產業生態，深化產業資源互通和經驗共享，助力通訊技術創新賦能全球發展、增進各國人民福祉。"
+    },
+    {
+      "id": "te:markets:563564",
+      "time": "2026-07-02 08:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall on Tech-Led Selloff — The Nikkei 225 Index fell 2% to around 69,000 on Thursday, snapping a three-day winning streak as it tracked a tech-driven selloff on Wall Street overnight amid lingering concerns over the sustainability of the AI-fueled rally. Chip- and AI-related stocks led the decline, with steep losses from Kioxia Holdings (-11.4%), Taiyo Yuden (-4.3%), Tokyo Electron (-6.2%), Advantest (-6.7%), and Fujikura (-6.6%). In contrast, financial and consumer shares mostly advanced, including Mitsubishi UFJ (1.9%), Mizuho Financial (2.4%), and Toyota Motor (3.6%). Japanese equities also came under pressure despite increased oil flows through the Strait of Hormuz and signs of progress in indirect US-Iran talks. Meanwhile, Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates."
+    },
+    {
+      "id": "4966117",
+      "time": "2026-07-02 08:45:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，谷歌也一直在與美國政府進行討論，為其先進程式設計模型的釋出做準備。這些模型將具備比前幾代產品更為複雜的網路能力。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607023790906546",
+      "time": "2026-07-02 08:44:35",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【聚焦今晚20:30！高盛：美國6月非農或超預期 世界盃貢獻4萬崗位】北京時間週四晚間20:30，美國勞工統計局將釋出6月非農就業報告。 這也將是沃什擔任美聯儲主席後的第二份非農報告。全球市場正對此翹首以待，因為這份報告將為美聯儲接下來的利率走向提供重要線索。根據市場普遍預期，美國6月新增就業將略超11萬人，失業率為4.3%。但高盛表示，受世界盃的強勁拉動，即將公佈的6月非農就業報告可能會比市場預期更為強勁。"
+    },
+    {
+      "id": "mkt:019f2048-df92-7aab-8c68-1c387657dff1",
+      "time": "2026-07-02 08:44:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $71 per barrel, down 0.37% intraday."
+    },
     {
       "id": "4966116",
       "time": "2026-07-02 08:41:54",
