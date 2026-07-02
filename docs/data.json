@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-02 09:25:40",
-  "count": 14011,
+  "updated": "2026-07-02 09:29:27",
+  "count": 14015,
   "items": [
+    {
+      "id": "4966197",
+      "time": "2026-07-02 09:28:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "CPO板塊集體低開，劍橋科技跌停，深科技跌超9%，東山精密、華燦光電等跟跌。"
+    },
+    {
+      "id": "mkt:019f2071-5eec-7aab-8c68-fbc8ea801df6",
+      "time": "2026-07-02 09:28:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO sector opened broadly lower; Cambridge Technology hit limit-down, Shenzhen Tech fell over 9%, and Dongshan Precision and HC Semitek also declined."
+    },
+    {
+      "id": "mkt:019f2070-ef80-7aab-8c68-f63e6b495776",
+      "time": "2026-07-02 09:28:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "China A‑share STAR 50 opened sharply lower, down more than 4%; among constituents, Baiwei Storage and Advanced Micro‑Fabrication Equipment Inc. China (AMEC) opened over 7% lower."
+    },
+    {
+      "id": "4966196",
+      "time": "2026-07-02 09:27:41",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【科創50大幅低開超4%】科創50大幅低開超4%，成分股中，佰維儲存、中微公司低開超7%。"
+    },
+    {
+      "id": "mkt:019f2070-31d6-7aab-8c68-ea4a15aad127",
+      "time": "2026-07-02 09:27:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open in China on July 2, the CSI 300 Index fell 93.81 points (-1.89%) to 4,865.17; China's Shanghai Composite Index fell 58.36 points (-1.42%) to 4,054.09; the Shenzhen Composite Index fell 389.25 points (-2.41%) to 15,729.92; the ChiNext Index fell 125.38 points (-2.94%) to 4,135.34; the STAR 50 Index fell 93.14 points (-4.33%) to 2,059.90."
+    },
+    {
+      "id": "mkt:019f2070-2a58-7aab-8c68-e7446a6c445f",
+      "time": "2026-07-02 09:27:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share storage-chip sector opened lower; Youyan Xincai and Saiteng hit the daily limit in the opening call auction, Puran shares fell more than 11%, Jingyi Equipment and Shangluo Electronics also declined."
+    },
+    {
+      "id": "4966195",
+      "time": "2026-07-02 09:27:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "儲存晶片板塊低開，有研新材、賽騰股份競價跌停，普冉股份跌超11%，京儀裝備、商絡電子等跟跌。"
+    },
+    {
+      "id": "mkt:019f206f-87e2-7aab-8c68-db9d08caafa9",
+      "time": "2026-07-02 09:26:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share glass-substrate sector opened broadly lower; Meidikai fell more than 9%, Changdian Technology and BOE A dropped over 7%, with Dier Laser and Delong Laser also declining."
+    },
+    {
+      "id": "mkt:019f206f-2f49-7aab-8c68-d43557f5cd91",
+      "time": "2026-07-02 09:26:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix CEO says the M17 wafer fab will start operations in 2029."
+    },
+    {
+      "id": "4966194",
+      "time": "2026-07-02 09:26:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧概念股走低 芯碁微裝跌超13%】截至發稿，芯碁微裝(09630.HK)跌13.46%，劍橋科技(06166.HK)跌12.52%，兆易創新(03986.HK)跌12.46%，天數智芯(09903.HK)跌7.59%。"
+    },
+    {
+      "id": "4966193",
+      "time": "2026-07-02 09:26:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【索尼：2028年起，PlayStation新遊戲將全面停止發行實體光碟】當地時間7月1日，索尼互動娛樂官方宣佈，自2028年1月起，所有在PlayStation平臺新發售的遊戲將不再推出物理實體光碟，全面轉向數字版發行。零售商和線上商店屆時僅發售數字版遊戲。索尼表示，此舉是順應消費者全面倒向數字媒體的自然趨勢。該政策不影響2028年1月前已經發售或計劃發售的實體光碟遊戲。"
+    },
+    {
+      "id": "4966192",
+      "time": "2026-07-02 09:25:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東華軟體在西藏成立新公司 含AI相關業務】企查查APP顯示，近日，東華軟體（西藏）有限公司成立，註冊資本1億元，經營範圍包含人工智慧應用軟體開發；智慧基礎製造裝備銷售；市場營銷策劃；圖文設計製作等。企查查股權穿透顯示，該公司由東華軟體間接全資持股。"
+    },
+    {
+      "id": "4966191",
+      "time": "2026-07-02 09:25:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士CEO：將於2029年啟動M17晶圓廠。"
+    },
+    {
+      "id": "4966190",
+      "time": "2026-07-02 09:25:31",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌1.42％，深成指跌2.41％，創業板跌2.94％。"
+    },
+    {
+      "id": "mkt:019f206e-5ef7-7aab-8c68-cd38bcf6a29d",
+      "time": "2026-07-02 09:25:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 1.42%, the Shenzhen Composite Index fell 2.41% and the ChiNext Index fell 2.94%."
+    },
+    {
+      "id": "4966189",
+      "time": "2026-07-02 09:25:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "武田製藥股價最新上漲2.2%。"
+    },
     {
       "id": "4966188",
       "time": "2026-07-02 09:25:02",
@@ -128967,114 +129141,6 @@
         "Important"
       ],
       "text": "Australia | Full-Time Employment (May) | actual 5200K | previous -10700K"
-    },
-    {
-      "id": "4953800",
-      "time": "2026-06-25 09:29:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特上漲0.5%，表現領跑新興亞洲貨幣。"
-    },
-    {
-      "id": "mkt:019efc65-46eb-7dd8-b108-8ba655f7ca29",
-      "time": "2026-06-25 09:29:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela acting president to address nation】Two earthquakes above magnitude 7 struck northern Venezuela within a minute on the evening of June 24 local time (morning of June 25 Beijing). The USGS placed the epicenter about 160 km west of Caracas at a depth of 10 km. Buildings in Caracas were damaged; casualty figures are unknown. The quakes occurred on a public holiday while many people were at home. Venezuela's acting president Rodríguez will address the nation. The USGS warned the twin quakes could cause \"large numbers of casualties and widespread damage.\""
-    },
-    {
-      "id": "4953799",
-      "time": "2026-06-25 09:28:25",
-      "tags": [
-        "公司",
-        "觀點",
-        "原創"
-      ],
-      "text": "【花旗將新易盛目標價上調近一倍 稱全球光互連市場三年增長率有望達65%】花旗上調新易盛、東山精密以及天孚通訊的目標價，稱全球光互連行業2028年整體市場規模可能達到920億美元，三年複合年增長率為65%。花旗分析師Kyna Wong等人在報告中表示，在此期間由於技術升級，平均售價複合年增長率有望達到18%。該行將新易盛目標價上調約98%至701元，受益於3.2T/NPO（近封裝光學）技術演進；將東山精密目標價上調約56%至350元，看好其在光晶片/光模組領域的份額提升；將天孚通訊目標價上調約32%至419元，作為CPO（共封裝光學）的核心受益標的；將太辰光的評級從買入下調至賣出，主因是存在與康寧脫鉤的風險以及目前估值過高。"
-    },
-    {
-      "id": "4953798",
-      "time": "2026-06-25 09:28:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌4%，現報3669.00元。"
-    },
-    {
-      "id": "mkt:019efc63-999b-7dd8-b108-81887f68557b",
-      "time": "2026-06-25 09:27:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "On June 25, China's Shanghai Composite Index opened down 7.33 points (-0.18%) at 4,103.48; Shenzhen Composite Index opened up 48.44 points (+0.30%) at 16,099.76. CSI 300 Index opened up 7.96 points (+0.16%) at 4,950.98; ChiNext Index opened up 26.91 points (+0.63%) at 4,278.34; STAR 50 Index opened up 15.34 points (+0.77%) at 2,004.77."
-    },
-    {
-      "id": "mkt:019efc63-3184-7dd8-b108-7f7298701623",
-      "time": "2026-06-25 09:26:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange (KRX) announced it is postponing the planned launch of single-stock weekly options."
-    },
-    {
-      "id": "4953797",
-      "time": "2026-06-25 09:26:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊高開，太極實業漲停】儲存晶片板塊高開，太極實業漲停，匯成股份漲超10%，盛視科技、雅克科技、佰維儲存、江波龍、勝科奈米跟漲。"
-    },
-    {
-      "id": "4953796",
-      "time": "2026-06-25 09:26:44",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.18％，深成指漲0.3％，創業板漲0.63％。"
-    },
-    {
-      "id": "4953795",
-      "time": "2026-06-25 09:26:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚合聚變完成數億元天使輪融資，高瓴創投、紅杉中國等參與】6月25日，合肥聚合聚變技術有限公司宣佈完成數億元天使輪融資，本輪投資方包括高瓴創投、紅杉中國、同創偉業、合肥產投旗下合肥創新投、BV百度風投、國元證券旗下國元股權。本輪資金將重點用於FRC脈衝磁約束聚變裝置迭代研發、核心關鍵部件自研、工程體系搭建與高階人才梯隊擴容，進一步推動FRC脈衝磁約束聚變技術系統化工程落地。"
-    },
-    {
-      "id": "mkt:019efc62-7df9-7dd8-b108-717e03b10781",
-      "time": "2026-06-25 09:26:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Liuzhou: Jan–May industrial robot output up 861.1%】Liuzhou Statistics Bureau on June 24 released Jan–May 2026 data: industrial value added at firms above designated size rose 7.7% YoY, 1.7ppt faster than Jan–Apr. Production of industrial robots +861.1% YoY, lithium‑ion batteries +139.2%, electronic components +52.8%. Jan–May foreign trade totaled 20.176 bln yuan, +13.4% YoY; exports led by new‑energy products — electric vehicles +397.1%, lithium‑ion batteries +302.5%. Exports to ASEAN reached 5.892 bln yuan, +54.8%, highlighting rising regional trade links."
-    },
-    {
-      "id": "4953794",
-      "time": "2026-06-25 09:25:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 瀾起科技漲超7%】截至發稿，瀾起科技(06809.HK)漲7.16%，智譜(02513.HK)漲6.99%，兆易創新(03986.HK)漲5.91%，MINIMAX-W(00100.HK)漲4.27%。"
-    },
-    {
-      "id": "4953793",
-      "time": "2026-06-25 09:25:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所宣佈推遲推出單隻股票周度期權產品。"
     }
   ]
 }
