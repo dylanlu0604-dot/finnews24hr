@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-03 05:27:42_
-_本檔包含 2830 則快訊，約 521155 字_
+_更新時間：2026-07-03 06:40:29_
+_本檔包含 2827 則快訊，約 523007 字_
+
+---
+
+### 2026-06-29 15:06:53  #MKT News #XAUUSD #Impact bullish #Brent
+
+The Israel Defense Forces (IDF) said it struck three Hezbollah command centers in southern Lebanon, including in Nabatieh, in response to earlier ceasefire violations, and destroyed a Hezbollah launcher.
+
+---
+
+### 2026-06-29 15:06:52  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【HKTDC raises 2026 Hong Kong export forecast to at least 20% growth】The Hong Kong Trade Development Council raised its 2026 Hong Kong export forecast, now projecting at least 20% growth for the year. In its Q2 2026 Export Confidence Index the HKTDC reported the current-conditions index at 51.0 and the expectations index at 52.4, both back above the 50 threshold, signalling improved exporter confidence despite ongoing US trade-policy adjustments and evolving geopolitical risks.
+
+---
+
+### 2026-06-29 15:06:48  #公司
+
+【奇瑞成立千農科技公司 含AI及機器人業務】企查查APP顯示，近日，安徽千農科技有限公司成立，經營範圍包含人工智慧應用軟體開發；軟體銷售；人工智慧硬體銷售；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由奇瑞控股集團有限公司間接全資持股。
+
+---
+
+### 2026-06-29 15:06:38  #宏觀
+
+今日起施行 《湖南省煙花爆竹安全生產管理若干規定》出臺。（央視新聞）
+
+---
+
+### 2026-06-29 15:06:30  #公司
+
+【聯想集團伺服器業務明年交付規模或超2000億元】6月29日，記者獲悉，聯想集團中國基礎設施業務正大幅上調伺服器業務增長預期。該公司此前提出2027/2028財年1000億元的伺服器業務目標，按照當前已在執行訂單測算，明年僅兩個主要客戶對應的可確認收入交付規模已接近2000億元。上述人士稱，近期公司籤下一個規模更大的框架協議，潛在規模可能超過聯想集團基礎設施業務一年業務量，相關客戶和市場資訊仍處於保密階段。（第一財經）
+
+---
+
+### 2026-06-29 15:06:17  #國際
+
+據上海航運交易所資料，截至2026年6月29日，上海出口集裝箱結算運價指數（歐洲航線）報3358.62點，與上期相比漲11.6%。
+
+---
+
+### 2026-06-29 15:06:11  #MKT News
+
+【Saudi foreign minister Faisal to visit China】China's foreign ministry said Saudi foreign minister Faisal will make an official visit to China from June 30 to July 1 at the invitation of China foreign minister Wang Yi.
+
+---
+
+### 2026-06-29 15:05:47  #焦點 #國際
+
+【沙特外交大臣費薩爾將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，沙特外交大臣費薩爾將於6月30日至7月1日對中國進行正式訪問。
+
+---
+
+### 2026-06-29 15:05:06  #其他
+
+惠譽將本田汽車擬發行的歐元債券評級為“A-”。
+
+---
+
+### 2026-06-29 15:04:42  #觀點
+
+摩根大通將耐克目標價從52美元下調至47美元。
+
+---
+
+### 2026-06-29 15:04:29  #公司
+
+【效能翻倍，成本下降 首款全國產FC交換機研發成功】近日，龍芯中科攜手成都光航信科技有限公司成功研製出首款全國產FC SAN交換機。裝置搭載龍架構處理器，不僅打破國外長期技術壟斷，實現產業鏈自主可控，還築牢國家關鍵行業網路安全防線，為各類核心業務儲存網路提供底層安全支撐。FCSAN交換機適配關鍵業務資料儲存交換網路，可滿足虛擬化、雲化儲存等業務場景。裝置支援16/32Gbps高速傳輸，交換時延低至350ns以內，單裝置提供24/48/96多種埠規格，整機集合頻寬最大覆蓋384-1536Gbit/sec。產品支援最高50℃寬溫環境不間斷執行，同時具備低功耗優勢。對標同規格進口裝置，產品效能翻倍升級、綜合成本大幅下降。以此為合作新起點，龍芯中科與光航信在成都簽署合作協議。雙方將充分發揮各自技術與資源優勢，堅守核心技術自主可控發展路線，深耕FC交換機領域，全方位夯實底層儲存資料安全防護能力。(龍芯中科)
+
+---
+
+### 2026-06-29 15:03:59  #公司
+
+【銀行AIC提速，上半年已投專案超58只】2026年以來，銀行金融資產投資公司（AIC）投資勢頭呈提速狀態。僅今年上半年，9家AIC合計投資數量已超58只，已接近2024年全年水平。從地域看，新設基金主要集中在18個試點城市，上海、北京、深圳、廣州、南京、重慶等地成為佈局重點。
+
+---
+
+### 2026-06-29 15:03:44  #MKT News #SSE Composite #Impact bullish #CSI300 #SZSE Component
+
+China equities closed higher on Monday, June 29: China's Shanghai Composite Index rose 1.16% to 4,073.90, Shenzhen Composite Index rose 0.19% to 15,812.87, CSI 300 Index rose 1.21% to 4,926.92, ChiNext Index rose 0.54% to 4,216.70, STAR 50 Index rose 4.61% to 2,126.01.
+
+---
+
+### 2026-06-29 15:03:21  #其他
+
+【中企承建黑山最大基建專案啟動 南北高速公路建設邁入新階段】29日，記者從中國電建成都勘測設計研究院獲悉，由該院承建的黑山馬泰舍沃-安德里耶維察（MA）高速公路專案開工儀式近日在科拉欣市舉行。該專案是目前黑山規模最大的基礎設施建設工程，標誌著黑山南北交通網路建設邁入新階段。（環球時報）
+
+---
+
+### 2026-06-29 15:03:04  #公司 #市場
+
+【收評：滬指低開高走漲超1%，醫藥、晶片股集體走強，兆易創新股價盤中創歷史新高】市場全天探底回升，滬指午後漲超1%，科創50漲超4%再創新高。醫藥股集體走強，廣生堂、三生國健、萬邦醫藥等漲停。半導體產業鏈延續漲勢，華海清科、金海通、廣鋼氣體等多股漲停。大消費板塊反彈，東鵬飲料、佳禾食品、百潤股份等漲停。下跌方面，PCB、CPO等算力硬體方向下挫，中京電子、宏和科技、寶鼎科技等跌停。個股跌多漲少，滬深京三市超2800股飄綠，今日成交3.54萬億。截止收盤滬指漲1.16%，深成指漲0.19%，創業板指漲0.54%。
+
+---
+
+### 2026-06-29 15:03:02  #MKT News #Market Regions #Greater China
+
+【June 29 — China markets turnover 3.518 tln yuan; GigaDevice tops single-stock turnover】June 29 — Shanghai and Shenzhen exchanges posted combined turnover of 3.518 tln yuan, down 34.66 bln yuan from the prior session. Shanghai turnover was 1.666 tln yuan (prev. 1.621 tln); trading volume 659 mln lots. Shenzhen turnover was 1.852 tln yuan (prev. 1.931 tln); trading volume 808 mln lots. GigaDevice led single-stock turnover at 43.15 bln yuan, followed by Zhongji Xuchuang 42.63 bln, BOE Technology A 32.49 bln, JCET (Changdian Electronics) 32.44 bln and Montage Technology 30.29 bln.
+
+---
+
+### 2026-06-29 15:02:12  #宏觀 #資料 #國際
+
+【香港貿發局：上調2026年香港出口增長預測 預計至少增長20%】香港貿發局上調2026年香港出口預測，預計全年錄得至少20%增長。同時，香港貿發局還公佈，2026年第二季出口信心指數，當中兩項核心指標均有所改善：第二季“現狀指數”為51.0，“預期指數”為52.4，兩者均重返50以上，顯示儘管美國貿易政策持續調整，以及地緣政治局勢持續發展，出口商的信心依然有所提升。
+
+---
+
+### 2026-06-29 15:01:45  #MKT News #DAX #Impact bullish #FTSE100 #Impact bearish
+
+European stocks opened mixed on Monday June 29: Germany’s DAX opened up 73.28 pts (+0.30%) at 24,755.00; UK’s FTSE 100 opened down 18.52 pts (-0.18%) at 10,489.50; France’s CAC 40 opened down 10.60 pts (-0.13%) at 8,374.27; Euro Stoxx 50 opened up 4.50 pts (+0.07%) at 6,226.05; Spain’s IBEX 35 opened down 53.45 pts (-0.28%) at 19,371.85; Italy’s FTSE MIB opened up 47.15 pts (+0.09%) at 51,312.50.
+
+---
+
+### 2026-06-29 15:01:44  #市場
+
+【ETF收評：科創創新藥ETF領漲11.67%，長三角ETF領跌6.7%】ETF收盤漲跌不一，科創創新藥ETF（589120）領漲11.67%，科創創新藥ETF（589720）漲11.50%，科創半導體裝置ETF（588710）漲10.57%，長三角ETF（512650）領跌6.7%，通訊ETF（159507）跌2.9%，通訊ETF（159695）跌2.72%。
+
+---
+
+### 2026-06-29 15:01:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China index futures midday close】Midday: CSI 300 index futures (IF main contract) +0.98%; SSE 50 futures (IH main) +2.29%; CSI 500 futures (IC main) +0.90%; CSI 1000 futures (IM main) -0.17%.
+
+---
+
+### 2026-06-29 15:01:10  #MKT News #Important #Commodities #Precious Metals #WTI #Impact bearish
+
+At the mid-session close, China's main futures contracts were mostly higher. Palladium, coking coal and live hogs rose more than 4%; fiberboard and lithium carbonate gained over 3%; propylene, cotton and Shanghai zinc advanced over 2%. On the downside, japonica rice, SC crude oil and synthetic rubber fell more than 1%, while polyvinyl chloride (PVC) slipped about 1%.
+
+---
+
+### 2026-06-29 15:01:01  #市場 #焦點
+
+A股收盤，上證指數漲1.16%，深證成指漲0.19%，創業板指漲0.54%。
+
+---
+
+### 2026-06-29 15:00:58  #其他
+
+【中國農業銀行河北省分行原副行長許樹寶接受審查調查】中央紀委國家監委網站6月29日通報，據中央紀委國家監委駐中國農業銀行紀檢監察組、河北省紀委監委訊息：中國農業銀行河北省分行原黨委委員、副行長許樹寶涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業銀行紀檢監察組紀律審查和河北省監委監察調查。
+
+---
+
+### 2026-06-29 15:00:38  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain June harmonized CPI (HICP) preliminary MoM +0.6% vs. +0.4% expected; May +0.10%.
+
+---
+
+### 2026-06-29 15:00:35  #MKT News #Market Regions #Greater China
+
+【China enterprise credit index 161.53 in May; credit levels stable】The State Administration for Market Regulation said China’s enterprise credit index stood at 161.53 in May, with overall corporate credit remaining stable. Top five industry scores were financials; power, heat, gas and water production and supply; residential services and repairs/other services; water conservancy, environmental and public facility management; and manufacturing. Residential services and repairs posted the largest gain, entering the top five for the first time this year. Culture, sports and entertainment edged higher, with credit resilience continuing to strengthen.
+
+---
+
+### 2026-06-29 15:00:29  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain June CPI preliminary (MoM) 0.6% vs 0.4% expected; May 0.1%.
+
+---
+
+### 2026-06-29 15:00:26  #資料
+
+西班牙6月CPI年率初值 3.2%，預期3%，前值3.20%。西班牙6月調和CPI年率初值 3.6%，預期3.4%，前值3.60%。
+
+---
+
+### 2026-06-29 15:00:23  #市場 #焦點
+
+滬深兩市成交額超3.5萬億元，較上日此時縮量357億元。
+
+---
+
+### 2026-06-29 15:00:21  #宏觀
+
+【今年5月中國企業信用指數為161.53 保持平穩執行態勢】記者今天（29日）從市場監管總局瞭解到，今年5月，中國企業信用指數為161.53，企業信用水平總體保持平穩執行態勢。信用指數排名前5的行業分別為金融業、電力熱力燃氣及水生產和供應業、居民服務修理和其他服務業、水利環境和公共設施管理業、製造業。其中，居民服務修理和其他服務業指數增幅最大，指數排名今年以來首次進入前5位。文化、體育和娛樂業指數得分小幅上升，信用韌性持續增強。（央視新聞）
+
+---
+
+### 2026-06-29 15:00:08  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Spain June CPI preliminary YoY 3.2% vs 3.0% expected; May final 3.2%.
+
+---
+
+### 2026-06-29 15:00:08  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain June HICP preliminary YoY 3.6% vs 3.4% expected; May 3.6%.
+
+---
+
+### 2026-06-29 15:00:02  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌0.19%， 滬深300指數期貨連續漲0.95%， 中證500指數期貨連續漲0.90%， 上證50指數期貨連續漲2.29%。
+
+---
+
+### 2026-06-29 15:00:02  #市場
+
+【商品期貨收盤】鈀連續漲4.37%，焦煤連續漲4.19%，生豬連續漲4.07%，纖維板連續漲3.66%，碳酸鋰連續漲3.34%，丙烯連續漲2.62%，棉花連續漲2.46%，焦炭連續漲2.45%，滬鋅連續漲2.45%，棉紗連續漲2.17%。
+
+---
+
+### 2026-06-29 15:00:02  #市場
+
+歐股開盤普跌，德國DAX指數跌1.29%，英國富時100指數跌0.21%，法國CAC40指數跌0.55%，歐洲斯托克50指數跌0.73%，義大利富時MIB指數跌1%。
+
+---
+
+### 2026-06-29 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | CPI Flash (YoY) (Jun) | actual 3.2% | consensus 3% | previous 3.20%
+
+---
+
+### 2026-06-29 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | HICP Flash (YoY) (Jun) | actual 3.6% | consensus 3.4% | previous 3.60%
+
+---
+
+### 2026-06-29 14:59:32  #市場 #觀點 #國際
+
+【摩根大通策略師：歐洲斯托克600指數年末有望上漲7%】摩根大通策略師上調歐洲基準股指年末目標位，理由是市場資金將不再僅扎堆人工智慧相關個股，行情覆蓋面會持續拓寬。由米斯拉夫・馬泰伊卡牽頭的策略團隊當前預測，斯托克600指數年底將觸及680點附近，較當前點位有約7%的上漲空間。團隊在研報中寫道：“我們對下半年市場維持樂觀態度，持續看好週期板塊交易主線；二季度市場行情高度集中於少數龍頭，後市資金或將出現板塊輪動。”策略師同時認為，美股大型科技股的回撥行情難以持續，本輪下跌主要受技術面與持倉結構因素主導。此外，該行將英國富時100指數2026年末目標位從10300點上調至11000點。
+
+---
+
+### 2026-06-29 14:57:53  #Trading Economics #Markets #Commodity #Importance 1
+
+Zinc Extends Gain — Zinc futures rose above $3,500 per tonne, extending their rebound from a seven-week low amid tight supply conditions. Glencore’s Kazzinc facility in Kazakhstan continues to operate at reduced rates after an explosion, while Nexa’s Cajamarquilla smelter in Peru is recovering from fire-related damage. A seismic event at Boliden’s Garpenberg mine earlier this year has also raised concerns about lower production levels for longer. These supply constraints come as the International Lead and Zinc Study Group forecasts a refined zinc deficit of 19,000 tonnes this year. At the same time, the US-Iran peace deal eased concerns over further disruptions to global economic activity and improved the outlook for industrial demand. However, gains remained limited by a firm US dollar amid growing expectations of a US rate hike, making dollar-denominated commodities more expensive for holders of other currencies.
 
 ---
 
@@ -16849,251 +17077,5 @@ U.S. crude (WTI) and Brent rose $0.60 in intraday trade to $69.20/bbl and $72.65
 ### 2026-06-26 23:52:56  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Falls on Friday — The FTSE 100 edged down on Friday, tracking a broader decline in European equities fueled by retreating oil prices and a US technology selloff. Oil prices weakened on growing optimism surrounding a potential US-Iran peace deal and restored shipping traffic through the Strait of Hormuz, directly hitting energy heavyweights BP and Shell, which dropped 2% and 0.8% respectively. Globally, market sentiment soured following a slide in Apple shares and reports that OpenAI might delay its initial public offering. This broader risk-off environment dragged down banks like HSBC by over 1.5%, and aerospace manufacturing giants Rolls-Royce (-1.4%). Mining majors Rio Tinto was down 0.4% and Glencore slid over 2%. Defying the downturn, pharmaceutical firm AstraZeneca added 1.4%, and consumer staples Unilever rose 0.7% and British American Tobacco gained 1.5%. Despite Friday's loss, the UK index rose 1.5% this week.
-
----
-
-### 2026-06-26 23:52:47  #國際
-
-特朗普：一架無人機擊中貨船上層甲板，美方擊落另外三架無人機。
-
----
-
-### 2026-06-26 23:52:22  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump said Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz and called the action a stupid violation of our ceasefire agreement.
-
----
-
-### 2026-06-26 23:52:07  #國際
-
-特朗普談及伊朗：此舉公然違反了我們之間的停火協議，實屬愚蠢之舉。
-
----
-
-### 2026-06-26 23:51:47  #國際
-
-特朗普：我們擊落了三架無人機。
-
----
-
-### 2026-06-26 23:51:41  #焦點 #國際
-
-特朗普：伊朗向穿越霍爾木茲海峽的船隻發射了至少四架單向攻擊無人機。
-
----
-
-### 2026-06-26 23:51:23  #央行 #國際
-
-美聯儲卡什卡利：勞動力市場絕對不算火熱，但整體尚可。
-
----
-
-### 2026-06-26 23:50:37  #公司
-
-法國電力集團（EDF）：KKR 已同意收購其旗下美加電力解決方案業務。
-
----
-
-### 2026-06-26 23:49:04  #Trading Economics #Markets #Switzerland #Currency #Importance 1
-
-Swiss Franc Rebounds From One-Year Low — The Swiss franc strengthened to around $0.807 against a weaker dollar, rebounding from a one-year low of $0.81227 hit on June 24, as sliding oil prices tempered Federal Reserve rate hike bets. Despite gaining ground, the franc remains 4.8% weaker than before the Middle East conflict, and a potential peace deal could further reduce haven demand. The Swiss National Bank kept its policy rate unchanged at 0% for a fourth consecutive meeting, maintaining that the current stance remains consistent with price stability and economic growth. However, the SNB revised its inflation outlook higher and reiterated its willingness to intervene in foreign exchange markets if needed. Meanwhile, the International Monetary Fund reported that Swiss economic growth will slow to 1.1% in 2026 amid weak external demand and tariff uncertainties. The Swiss government also trimmed its own 2026 domestic growth forecast to 0.9%, citing the dampening effects of recent energy price spikes.
-
----
-
-### 2026-06-26 23:47:49  #國際
-
-【阿聯酋與伊朗外長通話討論地區局勢】阿聯酋外交部長謝赫阿卜杜拉·本·扎耶德·阿勒納哈揚26日與伊朗外交部長阿拉格齊通電話，就美國與伊朗達成諒解備忘錄後的地區局勢發展交換意見。據阿通社報道，阿卜杜拉說，各方應全面遵守協議條款，確保地區敵對行動立即、全面停止，尊重各國主權和睦鄰友好原則，遵守國際法，維護海上通道安全和國際航行自由，包括保障霍爾木茲海峽的航運暢通。他表示，希望正在進行的美伊談判能夠取得積極成果，為實現地區持久安全與穩定作出貢獻，並強調認真開展外交努力和負責任的對話是解決地區和國際危機的最佳途徑。（新華社）
-
----
-
-### 2026-06-26 23:45:32  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y #Impact bearish
-
-【Kashkari says he expects one Fed rate hike in 2026】Fed official Kashkari said signs of broadening inflation led him to project one rate hike in 2026 in the Fed’s economic projections released earlier this month, with policy likely to be unchanged in 2027. In a Friday interview he said he is concerned inflation is not solely linked to the Middle East; the Iran war has pushed oil higher and price increases have broadened across categories. May PCE rose 4.1% YoY, the biggest gain since April 2023, and prices have exceeded the Fed’s 2% target for more than five years. The Fed’s dot plot released last week showed roughly half of officials expect at least one rate hike this year.
-
----
-
-### 2026-06-26 23:44:19  #MKT News #Macro & Rates
-
-Federal Reserve's Kashkari said the situation in the Middle East is not yet fully clear.
-
----
-
-### 2026-06-26 23:44:03  #央行 #國際
-
-美聯儲卡什卡利： 中東局勢尚未出現全面緩和的訊號。
-
----
-
-### 2026-06-26 23:43:58  #MKT News
-
-Brazil's President Lula vows to integrate defense matters into government plans.
-
----
-
-### 2026-06-26 23:43:46  #其他
-
-挪威海上油氣產區：受持續罷工及已公佈的停工封鎖措施影響，下週挪威石油、天然氣日產量或將減少 1.2 萬桶油當量。  若罷工持續至 7 月中旬後，油氣日產量損失或將超過 12 萬桶油當量。
-
----
-
-### 2026-06-26 23:43:29  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-Federal Reserve's Kashkari said the goal is to lower inflation without harming employment.
-
----
-
-### 2026-06-26 23:42:41  #央行 #國際
-
-美聯儲卡什卡里：政策目標是在不損害就業的前提下壓低通脹。
-
----
-
-### 2026-06-26 23:41:44  #市場 #焦點
-
-紐約期金突破4110美元/盎司，日內漲1.55%。
-
----
-
-### 2026-06-26 23:40:27  #國際
-
-據報道，俄羅斯總統普京與白俄羅斯總統盧卡申科當前正在磋商俄白聯盟國家相關議程、經貿合作以及地區安全議題。
-
----
-
-### 2026-06-26 23:39:55  #MKT News
-
-New York COMEX silver futures are up 2.00% intraday at $59.53/oz.
-
----
-
-### 2026-06-26 23:39:37  #市場
-
-紐約期銀日內漲2%，現報59.98美元/盎司。
-
----
-
-### 2026-06-26 23:38:05  #市場 #國際
-
-市場訊息：美國多名參議員致函美國商品期貨交易委員會，要求調查 Polymarket 平臺。
-
----
-
-### 2026-06-26 23:37:48  #MKT News
-
-LULA has asked Brazil's defense minister to travel to Venezuela to discuss assistance arrangements.
-
----
-
-### 2026-06-26 23:37:38  #國際
-
-【特朗普前助理博爾頓承認非法保留國家安全資訊】據美國方面訊息，當地時間6月26日，曾在特朗普首個總統任期內任總統國家安全事務助理的約翰·博爾頓在聯邦法院承認一項非法保留國家安全資訊的罪名。博爾頓當天在馬里蘭州格林貝爾特聯邦法院出庭。檢方表示，他最高可面臨5年監禁。（央視新聞）
-
----
-
-### 2026-06-26 23:37:37  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities closed lower on June 26: Germany's DAX down 328.90 points (-1.32%) at 24,671.64; FTSE 100 down 19.23 points (-0.18%) at 10,510.66; France's CAC 40 down 46.74 points (-0.55%) at 8,384.87; Euro Stoxx 50 down 45.53 points (-0.73%) at 6,222.00; Spain's IBEX 35 down 75.13 points (-0.39%) at 19,438.47; Italy's FTSE MIB down 480.41 points (-0.93%) at 51,302.50.
-
----
-
-### 2026-06-26 23:37:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-INTERTANKO said Iran's Hormuz route was "worrying."
-
----
-
-### 2026-06-26 23:37:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【Li Xunlei: Gold shows long bear cycles and short bull runs】International gold is down about 30% from January's record high. Li Xunlei, vice chairman of the China Chief Economist Forum, said gold's long-term pattern is characterized by extended bear periods and shorter bull runs. Since 1971 roughly 30 years were bears and 25 years bulls; each historic bull delivered more than 5x gains and typically lasted about 10 years. The current bull has risen roughly 3x and is approaching a 10-year duration, so market participants should remain cautious.
-
----
-
-### 2026-06-26 23:36:58  #MKT News #WTI #Impact bullish #Brent
-
-Intertanko advised shipowners to delay transits of the Strait of Hormuz where conditions permit.
-
----
-
-### 2026-06-26 23:36:21  #MKT News #Market Regions #Europe & UK
-
-Market sources: NATO Secretary General Rutte will meet on Monday with UK Prime Minister Starmer, Home Secretary Cooper and Minister of State for Security Jarvis.
-
----
-
-### 2026-06-26 23:36:18  #其他
-
-巴西總統盧拉要求巴西國防部長前往委內瑞拉磋商援助相關事宜。
-
----
-
-### 2026-06-26 23:35:51  #國際
-
-【巴基斯坦協助22名被扣伊朗船員回國】巴基斯坦副總理兼外長達爾26日說，近期被美國方面攔截的一艘船隻上的22名伊朗船員已於當天下午安全抵達巴南部城市卡拉奇。達爾在社交媒體發文表示，巴方同美方、伊方始終保持密切聯絡，目前正與伊朗駐巴使領館緊密協作，確保這批船員能夠儘早安全返回祖國。達爾說，這是過去兩個月以來巴基斯坦協助回國的第四批伊朗船員。巴方已成功協助超過70名伊朗公民踏上回國旅程。（新華社）
-
----
-
-### 2026-06-26 23:35:34  #宏觀 #市場 #央行 #國際
-
-【美聯儲卡什卡利：通脹全面抬頭，美聯儲或需加息】明尼阿波利斯聯邦儲備銀行行長尼爾・卡什卡里表示，各類通脹指標普遍走高，促使他在本月早些時候美聯儲釋出的經濟預測中，計入一次本年度加息。 卡什卡里接受採訪時稱：“我對通脹形勢感到擔憂，通脹上行並不只受中東局勢影響，整體經濟正顯現大範圍通脹壓力。” 今年年初通脹一度再度顯現降溫苗頭，但過去三個月物價大幅反彈。伊朗衝突推高了油價，而各類商品與服務價格同步上漲。這令部分美聯儲官員愈發擔憂：通脹擴散範圍更廣、持續性更強，央行或許需要出臺更強硬的調控舉措。
-
----
-
-### 2026-06-26 23:35:03  #MKT News #Market Themes #AI Revolution
-
-CNBC reports OpenAI, at the request of the Trump administration, plans to limit the rollout of GPT-5.6.
-
----
-
-### 2026-06-26 23:33:22  #國際
-
-歐洲STOXX 600指數初步收跌0.90%，報634.43點。德國DAX 30指數初步收跌1.62%，報24590.52點。法國股指初步收跌0.81%，義大利股指初步收跌1.23%，英國股指初步收跌0.43%。
-
----
-
-### 2026-06-26 23:33:04  #國際
-
-國際獨立油輪船東協會（INTERTANKO）：建議船舶在條件允許的情況下推遲穿越霍爾木茲海峽， 伊朗控制的霍爾木茲海峽航道存在安全隱患。
-
----
-
-### 2026-06-26 23:32:47  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed's Kashkari said he is concerned about inflation, particularly services-sector inflation.
-
----
-
-### 2026-06-26 23:32:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Federal Reserve's Kashkari said he expects one rate hike in 2026 and for policy rates to remain unchanged in 2027.
-
----
-
-### 2026-06-26 23:31:12  #國際
-
-市場訊息：應特朗普政府要求，OpenAI 擬限制 GPT 5.6 的推出範圍。
-
----
-
-### 2026-06-26 23:30:56  #央行 #國際
-
-美聯儲卡什卡利： 我們還需觀察取消前瞻性指引的實際效果。
-
----
-
-### 2026-06-26 23:30:32  #央行 #焦點 #國際
-
-美聯儲卡什卡利：我預計 2026 年還會加息一次，通脹上行不只是石油、中東局勢所致， 此時調整聯邦公開市場委員會宣告措辭恰逢其時。
-
----
-
-### 2026-06-26 23:30:05  #Trading Economics #Economy #Zambia #Government Bond 10Y #Importance 0
-
-Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.84%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 215.00 basis points.
-
----
-
-### 2026-06-26 23:30:00  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Kashkari said the central bank needs to see how policy works without forward guidance.
 
 ---

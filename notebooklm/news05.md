@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-03 05:27:42_
-_本檔包含 2612 則快訊，約 521234 字_
+_更新時間：2026-07-03 06:40:29_
+_本檔包含 2625 則快訊，約 521579 字_
+
+---
+
+### 2026-06-26 23:52:47  #國際
+
+特朗普：一架無人機擊中貨船上層甲板，美方擊落另外三架無人機。
+
+---
+
+### 2026-06-26 23:52:22  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump said Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz and called the action a stupid violation of our ceasefire agreement.
+
+---
+
+### 2026-06-26 23:52:07  #國際
+
+特朗普談及伊朗：此舉公然違反了我們之間的停火協議，實屬愚蠢之舉。
+
+---
+
+### 2026-06-26 23:51:47  #國際
+
+特朗普：我們擊落了三架無人機。
+
+---
+
+### 2026-06-26 23:51:41  #焦點 #國際
+
+特朗普：伊朗向穿越霍爾木茲海峽的船隻發射了至少四架單向攻擊無人機。
+
+---
+
+### 2026-06-26 23:51:23  #央行 #國際
+
+美聯儲卡什卡利：勞動力市場絕對不算火熱，但整體尚可。
+
+---
+
+### 2026-06-26 23:50:37  #公司
+
+法國電力集團（EDF）：KKR 已同意收購其旗下美加電力解決方案業務。
+
+---
+
+### 2026-06-26 23:49:04  #Trading Economics #Markets #Switzerland #Currency #Importance 1
+
+Swiss Franc Rebounds From One-Year Low — The Swiss franc strengthened to around $0.807 against a weaker dollar, rebounding from a one-year low of $0.81227 hit on June 24, as sliding oil prices tempered Federal Reserve rate hike bets. Despite gaining ground, the franc remains 4.8% weaker than before the Middle East conflict, and a potential peace deal could further reduce haven demand. The Swiss National Bank kept its policy rate unchanged at 0% for a fourth consecutive meeting, maintaining that the current stance remains consistent with price stability and economic growth. However, the SNB revised its inflation outlook higher and reiterated its willingness to intervene in foreign exchange markets if needed. Meanwhile, the International Monetary Fund reported that Swiss economic growth will slow to 1.1% in 2026 amid weak external demand and tariff uncertainties. The Swiss government also trimmed its own 2026 domestic growth forecast to 0.9%, citing the dampening effects of recent energy price spikes.
+
+---
+
+### 2026-06-26 23:47:49  #國際
+
+【阿聯酋與伊朗外長通話討論地區局勢】阿聯酋外交部長謝赫阿卜杜拉·本·扎耶德·阿勒納哈揚26日與伊朗外交部長阿拉格齊通電話，就美國與伊朗達成諒解備忘錄後的地區局勢發展交換意見。據阿通社報道，阿卜杜拉說，各方應全面遵守協議條款，確保地區敵對行動立即、全面停止，尊重各國主權和睦鄰友好原則，遵守國際法，維護海上通道安全和國際航行自由，包括保障霍爾木茲海峽的航運暢通。他表示，希望正在進行的美伊談判能夠取得積極成果，為實現地區持久安全與穩定作出貢獻，並強調認真開展外交努力和負責任的對話是解決地區和國際危機的最佳途徑。（新華社）
+
+---
+
+### 2026-06-26 23:45:32  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y #Impact bearish
+
+【Kashkari says he expects one Fed rate hike in 2026】Fed official Kashkari said signs of broadening inflation led him to project one rate hike in 2026 in the Fed’s economic projections released earlier this month, with policy likely to be unchanged in 2027. In a Friday interview he said he is concerned inflation is not solely linked to the Middle East; the Iran war has pushed oil higher and price increases have broadened across categories. May PCE rose 4.1% YoY, the biggest gain since April 2023, and prices have exceeded the Fed’s 2% target for more than five years. The Fed’s dot plot released last week showed roughly half of officials expect at least one rate hike this year.
+
+---
+
+### 2026-06-26 23:44:19  #MKT News #Macro & Rates
+
+Federal Reserve's Kashkari said the situation in the Middle East is not yet fully clear.
+
+---
+
+### 2026-06-26 23:44:03  #央行 #國際
+
+美聯儲卡什卡利： 中東局勢尚未出現全面緩和的訊號。
+
+---
+
+### 2026-06-26 23:43:58  #MKT News
+
+Brazil's President Lula vows to integrate defense matters into government plans.
+
+---
+
+### 2026-06-26 23:43:46  #其他
+
+挪威海上油氣產區：受持續罷工及已公佈的停工封鎖措施影響，下週挪威石油、天然氣日產量或將減少 1.2 萬桶油當量。  若罷工持續至 7 月中旬後，油氣日產量損失或將超過 12 萬桶油當量。
+
+---
+
+### 2026-06-26 23:43:29  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Federal Reserve's Kashkari said the goal is to lower inflation without harming employment.
+
+---
+
+### 2026-06-26 23:42:41  #央行 #國際
+
+美聯儲卡什卡里：政策目標是在不損害就業的前提下壓低通脹。
+
+---
+
+### 2026-06-26 23:41:44  #市場 #焦點
+
+紐約期金突破4110美元/盎司，日內漲1.55%。
+
+---
+
+### 2026-06-26 23:40:27  #國際
+
+據報道，俄羅斯總統普京與白俄羅斯總統盧卡申科當前正在磋商俄白聯盟國家相關議程、經貿合作以及地區安全議題。
+
+---
+
+### 2026-06-26 23:39:55  #MKT News
+
+New York COMEX silver futures are up 2.00% intraday at $59.53/oz.
+
+---
+
+### 2026-06-26 23:39:37  #市場
+
+紐約期銀日內漲2%，現報59.98美元/盎司。
+
+---
+
+### 2026-06-26 23:38:05  #市場 #國際
+
+市場訊息：美國多名參議員致函美國商品期貨交易委員會，要求調查 Polymarket 平臺。
+
+---
+
+### 2026-06-26 23:37:48  #MKT News
+
+LULA has asked Brazil's defense minister to travel to Venezuela to discuss assistance arrangements.
+
+---
+
+### 2026-06-26 23:37:38  #國際
+
+【特朗普前助理博爾頓承認非法保留國家安全資訊】據美國方面訊息，當地時間6月26日，曾在特朗普首個總統任期內任總統國家安全事務助理的約翰·博爾頓在聯邦法院承認一項非法保留國家安全資訊的罪名。博爾頓當天在馬里蘭州格林貝爾特聯邦法院出庭。檢方表示，他最高可面臨5年監禁。（央視新聞）
+
+---
+
+### 2026-06-26 23:37:37  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities closed lower on June 26: Germany's DAX down 328.90 points (-1.32%) at 24,671.64; FTSE 100 down 19.23 points (-0.18%) at 10,510.66; France's CAC 40 down 46.74 points (-0.55%) at 8,384.87; Euro Stoxx 50 down 45.53 points (-0.73%) at 6,222.00; Spain's IBEX 35 down 75.13 points (-0.39%) at 19,438.47; Italy's FTSE MIB down 480.41 points (-0.93%) at 51,302.50.
+
+---
+
+### 2026-06-26 23:37:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+INTERTANKO said Iran's Hormuz route was "worrying."
+
+---
+
+### 2026-06-26 23:37:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Li Xunlei: Gold shows long bear cycles and short bull runs】International gold is down about 30% from January's record high. Li Xunlei, vice chairman of the China Chief Economist Forum, said gold's long-term pattern is characterized by extended bear periods and shorter bull runs. Since 1971 roughly 30 years were bears and 25 years bulls; each historic bull delivered more than 5x gains and typically lasted about 10 years. The current bull has risen roughly 3x and is approaching a 10-year duration, so market participants should remain cautious.
+
+---
+
+### 2026-06-26 23:36:58  #MKT News #WTI #Impact bullish #Brent
+
+Intertanko advised shipowners to delay transits of the Strait of Hormuz where conditions permit.
+
+---
+
+### 2026-06-26 23:36:21  #MKT News #Market Regions #Europe & UK
+
+Market sources: NATO Secretary General Rutte will meet on Monday with UK Prime Minister Starmer, Home Secretary Cooper and Minister of State for Security Jarvis.
+
+---
+
+### 2026-06-26 23:36:18  #其他
+
+巴西總統盧拉要求巴西國防部長前往委內瑞拉磋商援助相關事宜。
+
+---
+
+### 2026-06-26 23:35:51  #國際
+
+【巴基斯坦協助22名被扣伊朗船員回國】巴基斯坦副總理兼外長達爾26日說，近期被美國方面攔截的一艘船隻上的22名伊朗船員已於當天下午安全抵達巴南部城市卡拉奇。達爾在社交媒體發文表示，巴方同美方、伊方始終保持密切聯絡，目前正與伊朗駐巴使領館緊密協作，確保這批船員能夠儘早安全返回祖國。達爾說，這是過去兩個月以來巴基斯坦協助回國的第四批伊朗船員。巴方已成功協助超過70名伊朗公民踏上回國旅程。（新華社）
+
+---
+
+### 2026-06-26 23:35:34  #宏觀 #市場 #央行 #國際
+
+【美聯儲卡什卡利：通脹全面抬頭，美聯儲或需加息】明尼阿波利斯聯邦儲備銀行行長尼爾・卡什卡里表示，各類通脹指標普遍走高，促使他在本月早些時候美聯儲釋出的經濟預測中，計入一次本年度加息。 卡什卡里接受採訪時稱：“我對通脹形勢感到擔憂，通脹上行並不只受中東局勢影響，整體經濟正顯現大範圍通脹壓力。” 今年年初通脹一度再度顯現降溫苗頭，但過去三個月物價大幅反彈。伊朗衝突推高了油價，而各類商品與服務價格同步上漲。這令部分美聯儲官員愈發擔憂：通脹擴散範圍更廣、持續性更強，央行或許需要出臺更強硬的調控舉措。
+
+---
+
+### 2026-06-26 23:35:03  #MKT News #Market Themes #AI Revolution
+
+CNBC reports OpenAI, at the request of the Trump administration, plans to limit the rollout of GPT-5.6.
+
+---
+
+### 2026-06-26 23:33:22  #國際
+
+歐洲STOXX 600指數初步收跌0.90%，報634.43點。德國DAX 30指數初步收跌1.62%，報24590.52點。法國股指初步收跌0.81%，義大利股指初步收跌1.23%，英國股指初步收跌0.43%。
+
+---
+
+### 2026-06-26 23:33:04  #國際
+
+國際獨立油輪船東協會（INTERTANKO）：建議船舶在條件允許的情況下推遲穿越霍爾木茲海峽， 伊朗控制的霍爾木茲海峽航道存在安全隱患。
+
+---
+
+### 2026-06-26 23:32:47  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+Fed's Kashkari said he is concerned about inflation, particularly services-sector inflation.
+
+---
+
+### 2026-06-26 23:32:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Federal Reserve's Kashkari said he expects one rate hike in 2026 and for policy rates to remain unchanged in 2027.
+
+---
+
+### 2026-06-26 23:31:12  #國際
+
+市場訊息：應特朗普政府要求，OpenAI 擬限制 GPT 5.6 的推出範圍。
+
+---
+
+### 2026-06-26 23:30:56  #央行 #國際
+
+美聯儲卡什卡利： 我們還需觀察取消前瞻性指引的實際效果。
+
+---
+
+### 2026-06-26 23:30:32  #央行 #焦點 #國際
+
+美聯儲卡什卡利：我預計 2026 年還會加息一次，通脹上行不只是石油、中東局勢所致， 此時調整聯邦公開市場委員會宣告措辭恰逢其時。
+
+---
+
+### 2026-06-26 23:30:05  #Trading Economics #Economy #Zambia #Government Bond 10Y #Importance 0
+
+Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.84%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 215.00 basis points.
+
+---
+
+### 2026-06-26 23:30:00  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Kashkari said the central bank needs to see how policy works without forward guidance.
 
 ---
 
@@ -15611,173 +15857,5 @@ Crypto Updates: Ether Depreciates by 3.18% — Top crypto losers are Ether (-3.1
 ⑦ 週六21:45 歐洲央行執委Schnabel參與一場討論；
 ⑧ 週日20:15 澳洲聯儲主席Bullock在瑞士講話；
 ⑨ 下週一00:35 美國里士滿聯儲主席Barkin（2027年FOMC票委）講話。
-
----
-
-### 2026-06-26 06:40:27  #其他
-
-必和必拓：拆分美洲業務板塊，分設北美區總裁、南美區總裁。
-
----
-
-### 2026-06-26 06:40:10  #MKT News
-
-The US issued a general license for Venezuela authorizing transactions related to earthquake relief.
-
----
-
-### 2026-06-26 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rises by 4.96% — Top commodity gainers are Cocoa (4.96%), Soybeans (1.98%) and Corn (1.90%). Biggest losers are Oat (-3.18%) and Wool (-2.31%).
-
----
-
-### 2026-06-26 06:38:04  #國際
-
-美國發布針對委內瑞拉通用許可，允許開展與地震救災相關的交易活動。
-
----
-
-### 2026-06-26 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Copper Gains by 1.86% — Top commodity gainers are Copper (1.86%), Platinum (1.33%) and Gold (0.73%). Biggest losers are Iron Ore CNY (-1.21%), Steel Rebar (-0.78%) and Silicon (-0.66%).
-
----
-
-### 2026-06-26 06:30:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Gasoline Rises by 4.13% — Top commodity gainers are Gasoline (4.13%), Heating Oil (3.31%), Propane (2.75%), Crude Oil WTI (1.48%) and Brent Crude Oil (1.23%). Biggest losers are Methanol (-2.44%), Germany Natural Gas THE (-1.32%) and Liquefied Natural Gas Japan Korea (-1.06%).
-
----
-
-### 2026-06-26 06:25:30  #公司 #觀點
-
-【同仁堂醫養香港上市擬籌資不超過6.716億港元】根據呈交香港交易所的公告，北京同仁堂醫養投資股份有限公司在香港發售1.08億股股份，發售價區間為每股5.48港元至6.21港元。計算顯示，該公司預計將籌資不超過6.716億港元。預計7月7日上市交易，中金公司是獨家保薦人。
-
----
-
-### 2026-06-26 06:23:34  #央行 #市場
-
-【資金面緊張情緒緩解，債市全線走強】6月25日，在資金面緊張情緒明顯緩解的帶動下，債市全線走強。市場人士認為，央行近期釋放出穩定跨季流動性的訊號，疊加銀行融出規模回升，市場對資金面的擔憂有所降溫。不過，債市已較為充分反映基本面和資金面寬鬆預期，後續修復仍待增量資訊。（上證報）
-
----
-
-### 2026-06-26 06:23:16  #其他
-
-【加碼國際業務 券商競逐業績新增長極 】中資券商出海明顯換擋提速，資本注入從“零星試探”變成“集中加碼”。據不完全統計，2026年以來，至少已有7家上市券商披露海外業務佈局進展。在具體業務拓展中，券商海外業務已從單一的經紀業務服務走向FICC、資管、衍生品等綜合服務。在業內人士看來，隨著資本金陸續到位、業務逐步落地，國際業務對券商的利潤貢獻還有進一步抬升空間，頭部券商有望在國際化佈局中保持行業競爭優勢。（中證報）
-
----
-
-### 2026-06-26 06:22:41  #公司
-
-極兔速遞：回購授權允許回購最多 10% 已發行股份，本次股份回購計劃資金上限設定為 20 億港元。
-
----
-
-### 2026-06-26 06:21:37  #公司 #市場 #央行 #國際
-
-【隔夜逆回購月底“首秀”，短端利率調控再添新工具】中國人民銀行6月25日公告，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。與歐洲央行等類似，目前我國央行公開市場主力操作品種是7天期逆回購。7天期逆回購操作有效維護了短端利率平穩。強化隔夜利率調控，更符合我國銀行間市場的交易結構。國盛證券首席經濟學家熊園表示，隔夜品種是銀行間市場流動性交易最集中的期限，成交規模和市場活躍度均明顯高於7天期品種，因此其價格變化更能反映銀行體系短期流動性的邊際鬆緊。當前，短端市場利率已回升至政策利率附近。展望下一階段的流動性狀況，東方金誠首席宏觀分析師王青判斷，在央行啟動隔夜逆回購背景下，月底前央行公開市場操作有望處於較大規模的淨投放狀態，市場利率持續向上大幅偏離政策利率的可能性不大。（上證報）
-
----
-
-### 2026-06-26 06:21:27  #市場
-
-【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）
-
----
-
-### 2026-06-26 06:20:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes.
-
----
-
-### 2026-06-26 06:18:42  #MKT News #09999.HK #Impact bullish
-
-NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the "S" marker will be removed from its Hong Kong stock short name on the effective date.
-
----
-
-### 2026-06-26 06:18:32  #央行 #公司
-
-【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。
-
----
-
-### 2026-06-26 06:16:49  #其他
-
-網易：獲選定為港交所雙重主要上市企業，6 月 30 日生效。
-
----
-
-### 2026-06-26 06:15:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.65% — Top currency gainers are Brazilian Real (0.65%), Mexican Peso (0.58%), Swiss Franc (0.25%), British Pound (0.20%) and Euro (0.12%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.16%).
-
----
-
-### 2026-06-26 06:14:27  #央行 #公司
-
-【隔夜逆回購操作在即 央行多維發力呵護年中流動性】中國人民銀行6月25日釋出公告稱，將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種。同日，央行開展5000億元MLF操作與3705億元7天期逆回購操作，實現淨投放3225億元。專家表示，增加隔夜逆回購操作品種以及淨投放7天期逆回購，將有助於更好匹配銀行體系短期流動性需求。同時，加量續做當月MLF將有效滿足金融機構較長期限資金需求，支援政府債券順利發行及銀行加大信貸投放力度。（中證報）
-
----
-
-### 2026-06-26 06:13:56  #資料
-
-【物價溫和回升 供需迴圈改善訊號清晰 】今年上半年，國內物價走出持續低位格局，呈現CPI溫和抬升、PPI同比轉正的結構性修復態勢，供需迴圈改善訊號清晰。專家表示，展望下半年，物價整體將維持在溫和區間。當前，“PPI—CPI”剪刀差進一步走闊，後續財政政策、貨幣政策、保供穩價政策仍需協同發力，暢通產業鏈價格傳導，以修復市場預期，促進經濟正向迴圈。（中證報）
-
----
-
-### 2026-06-26 06:09:04  #市場
-
-紐約期銀日內跌1%，現報58.16美元/盎司。
-
----
-
-### 2026-06-26 06:00:40  #市場 #焦點
-
-現貨黃金突破4030美元/盎司，日內漲0.07%。
-
----
-
-### 2026-06-26 06:00:17  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。
-
----
-
-### 2026-06-26 05:55:21  #MKT News
-
-The Trump administration on Wednesday notified Congress of a planned sale of $700 mln in jet engines to Turkey.
-
----
-
-### 2026-06-26 05:55:00  #國際
-
-市場訊息：特朗普政府週三通知國會，擬向土耳其出售價值 7 億美元的航空發動機。
-
----
-
-### 2026-06-26 05:53:53  #其他
-
-【2名中國公民在委內瑞拉地震中遇難】據中國駐委內瑞拉大使館公佈的訊息，截至當地時間25日16時，據不完全統計，已確認有2名中國公民在“6·24地震”中遇難。（新華社）
-
----
-
-### 2026-06-26 05:52:41  #公司 #國際
-
-【報道：美國政府要求OpenAI分階段釋出最新模型GPT 5.6】據知情人士透露，在美國總統特朗普的政府提出要求後，OpenAI將分階段釋出其最新人工智慧模型GPT 5.6。OpenAI執行長Sam Altman週三在員工問答會上講話，這和一份備忘錄透露出以上資訊。OpenAI將首先向少數合作伙伴釋出GPT 5.6有限預覽，Altman表示，這是儘快廣泛釋出該模型的最佳路徑。 Altman在週四的一份備忘錄中告訴員工，在GPT 5.6預覽期間，政府將“逐個客戶批准訪問許可權”。Altman在備忘錄中稱：“我們已向美國政府明確表示，這不是我們偏好的長期模式，並將與政府和業內合作，為未來的產品釋出尋求更可持續的方案。”分階段釋出的要求源於OpenAI與美國國家網路總監辦公室以及白宮科技政策辦公室的溝通。
-
----
-
-### 2026-06-26 05:52:35  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency.
-
----
-
-### 2026-06-26 05:32:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225
-
-【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines.
 
 ---
