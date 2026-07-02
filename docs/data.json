@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-02 07:57:55",
-  "count": 14028,
+  "updated": "2026-07-02 08:01:47",
+  "count": 14034,
   "items": [
+    {
+      "id": "4966064",
+      "time": "2026-07-02 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌4.5%，至7933.10點。"
+    },
+    {
+      "id": "te:markets:563562",
+      "time": "2026-07-02 08:00:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Stabilizes on Warsh Remarks — Silver steadied above $59 an ounce on Thursday after hitting seven-month lows in recent sessions, as Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, suggesting there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Data released on Wednesday also showed private-sector hiring in the US slowed more than expected last month, while investors now await the nonfarm payrolls report later today for fresh insights into labor market conditions and the Fed’s policy outlook. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Silver also drew support from rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks, which pushed oil prices lower and eased inflation concerns."
+    },
+    {
+      "id": "4966063",
+      "time": "2026-07-02 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報70039.89點，跌幅0.62％。韓國綜合股價指數（KOSPI）開盤下跌4.5％，至7933.10點。"
+    },
+    {
+      "id": "4966062",
+      "time": "2026-07-02 07:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地媒體稱韓國考慮投入7.8萬億韓元建造六艘下一代驅逐艦。"
+    },
+    {
+      "id": "mkt:019f201f-b2cf-7aab-8c67-afba9f3977f0",
+      "time": "2026-07-02 07:59:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "CSI300",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【China International Capital Co: Interim results to become primary investment theme】China International Capital Co said markets began to wobble in mid‑May and staged a partial recovery in early June but remain below prior peaks. Hot thematic sectors show high cumulative gains and crowding, and style rebalancing has gained traction. Internationally, transit through the Strait of Hormuz has eased crude supply disruption and pushed WTI toward about $70/bbl, easing upward pressure on global inflation; however Kevin Warsh's policy stance continues to intermittently influence US monetary expectations. Domestically, the A‑share market is entering interim‑results season; stronger July–August results are expected to support indices, CICC says prior volatility and rapid style rotation may be waning, and interim earnings should progressively become the main investment focus."
+    },
+    {
+      "id": "te:markets:563561",
+      "time": "2026-07-02 07:58:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Finds Support After Warsh Remarks — Gold stabilized above $4,000 an ounce on Thursday after falling to an eight-month low earlier this week, as Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, suggesting there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Data released on Wednesday also showed private-sector hiring in the US slowed more than expected last month, while investors now await the nonfarm payrolls report later today for fresh insights into labor market conditions and the Fed’s policy outlook. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Gold also drew support from rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks, which pushed oil prices lower and eased inflation concerns."
+    },
+    {
+      "id": "mkt:019f201e-efa5-7aab-8c67-a399b2c4cba0",
+      "time": "2026-07-02 07:58:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said on July 3 that Free Fuel Network will cut gasoline prices at 25 Free Fuel stations in the greater Philadelphia area, urged other retailers to follow, and predicted pump prices would soon return to the record lows seen before the \"Iran action\"."
+    },
+    {
+      "id": "4966061",
+      "time": "2026-07-02 07:58:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓華海洋表示，已從國防採辦計劃管理局（DAPA）選為韓國下一代驅逐艦（KDDX）專案的首選競標者。"
+    },
+    {
+      "id": "4966060",
+      "time": "2026-07-02 07:58:14",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：中報業績將逐步成為投資主線】中金指出，5月中旬市場開始震盪調整，6月初後顯現修復，但據前期高點仍有距離。行業方面，在熱點主題累計漲幅與擁擠度都偏高的狀態下，近期風格再平衡關注度有所抬升。從海外環境看，霍爾木茲海峽通航後，原油供應擾動緩解，WTI原油降至約70美元/桶，對全球通脹的推升壓力已經明顯減弱，但美聯儲主席沃什的貨幣政策立場仍階段性影響投資者對美國貨幣政策的預期。從內部環境看，A股市場即將進入中報期，7—8月較好的中報業績預計能對指數帶來一定支撐，前期震盪整理、風格快速輪動現象可能已經處於尾聲階段，中金認為中報業績將逐步成為投資主線。"
+    },
+    {
+      "id": "4966059",
+      "time": "2026-07-02 07:58:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：厄爾尼諾或帶來大水電估值修復機會】華泰證券研報稱，2026年5月底南方電網負荷提前創歷史新高，大幅提升了市場對極端天氣及水電來水的關注度。"
+    },
     {
       "id": "4966058",
       "time": "2026-07-02 07:55:17",
@@ -129197,39 +129298,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數早盤下跌0.2%，報8,794.20點。"
-    },
-    {
-      "id": "4953663",
-      "time": "2026-06-25 08:01:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲11%。"
-    },
-    {
-      "id": "4953662",
-      "time": "2026-06-25 08:01:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥格理將必和必拓目標價上調2%，至每股57.00澳元。"
-    },
-    {
-      "id": "4953661",
-      "time": "2026-06-25 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.7%，至8703.42點。"
-    },
-    {
-      "id": "4953660",
-      "time": "2026-06-25 08:00:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報70114.09點，漲幅1.36%。"
     }
   ]
 }
