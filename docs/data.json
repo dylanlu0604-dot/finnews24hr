@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-02 13:10:30",
-  "count": 14017,
+  "updated": "2026-07-02 13:14:32",
+  "count": 14011,
   "items": [
+    {
+      "id": "mkt:019f213f-7abf-7aab-8c6d-21923ff45c2d",
+      "time": "2026-07-02 13:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says missile strike on Kyiv kills 10, injures 56】On July 2 local time, Kyiv mayor Klitschko said early-morning missile strikes on the Ukrainian capital killed 10 people. Kyiv military-civil administration head Tkachchenko said 56 people were injured. A series of loud explosions was heard across Kyiv; Klitschko attributed the strikes to Russian forces."
+    },
+    {
+      "id": "4966600",
+      "time": "2026-07-02 13:13:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南政府：上半年咖啡出口量同比增長9.7%，至110萬噸。"
+    },
+    {
+      "id": "4966599",
+      "time": "2026-07-02 13:13:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【世界黃金協會：今年下半年金價走勢或將趨穩】總部位於倫敦的世界黃金協會1日釋出《全球黃金市場年中展望》報告指出，儘管今年上半年經歷了價格回撥，黃金仍是過去12個月表現最佳的資產之一。今年下半年，黃金價格走勢將趨於穩定，繼續充當全球宏觀經濟的晴雨表。根據報告，今年1月，金價12次重新整理歷史峰值，倫敦金銀市場協會金價一度達到每盎司5405美元的歷史高點；6月，金價大幅回落至每盎司4002美元的低點。截至目前，金價較年初下跌了7%。報告認為，上半年金價驅動因素包括地緣政治風險上升，其中中東戰事的影響尤為顯著。此外，投資者調整倉位、獲利了結等行為也對金價產生顯著影響。（新華社）"
+    },
+    {
+      "id": "mkt:019f213e-26a5-7aab-8c6d-18ec1b3a1ae4",
+      "time": "2026-07-02 13:12:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【TD Securities: US-Japan joint FX intervention appears likely】TD Securities' macro research team says a US-Japan joint FX intervention to support the yen appears likely. The team notes MIMURA repeatedly referenced the United States in a Wednesday interview, signaling an attempt to secure US agreement for bilateral action, which would be stronger than a unilateral intervention. TD Securities warns that in that scenario USD/JPY's decline could far exceed the roughly 5-yen move typical of past unilateral interventions. The firm views MIMURA's comments as a clear warning to yen speculators not to push USD/JPY below 163."
+    },
+    {
+      "id": "4966598",
+      "time": "2026-07-02 13:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭通訊社援引波蘭總統助理的話報道，美國同意在波蘭永久駐軍。"
+    },
+    {
+      "id": "4966597",
+      "time": "2026-07-02 13:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度要求WhatsApp暫停使用者名稱功能的推出，並說明該功能的合理性，否則將採取行動】據媒體查閱的一封政府信函顯示，印度已要求WhatsApp就計劃推出的使用者名稱功能的實施提供合理依據，並暫停在其最大市場推出該功能，這加劇了始於Telegram的對即時通訊匿名性的打壓。本週早些時候，Meta旗下 的WhatsApp表示，已開始在全球（包括印度）分階段推出該功能，該功能允許使用者預留一個唯一使用者名稱，並最終在不分享手機號碼的情況下向他人傳送訊息。7月1日的這封信函要求WhatsApp在三天內作出回應，並禁止其繼續推進該功能的推出，直至與政府的磋商結束。匿名性是印度上月暫時封禁即時通訊應用Telegram時所列舉的擔憂之一。此次干預標誌著印度對線上平臺監管力度的升級，此前數週印度曾封禁Telegram，且多年來因內容下架令與埃隆·馬斯克旗下的X平臺多次發生衝突。"
+    },
     {
       "id": "4966596",
       "time": "2026-07-02 13:09:42",
@@ -129068,111 +129121,6 @@
         "Japan & APAC"
       ],
       "text": "TAMURA, a Bank of Japan policy board member, said exchange-rate moves must reflect fundamentals."
-    },
-    {
-      "id": "4954171",
-      "time": "2026-06-25 13:14:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：匯率走勢不僅取決於央行的政策立場，還受到其他因素的影響。"
-    },
-    {
-      "id": "4954170",
-      "time": "2026-06-25 13:13:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：匯率是影響日本經濟和物價的重要因素。"
-    },
-    {
-      "id": "mkt:019efd32-b148-7dd8-b10d-5d6be72b1ef7",
-      "time": "2026-06-25 13:13:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tamura, a Bank of Japan policy board member, said the BOJ should determine the neutral interest rate by assessing how each rate hike affects economic activity, prices and financial developments."
-    },
-    {
-      "id": "4954169",
-      "time": "2026-06-25 13:13:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國報告：全球仍有6.55億人用不上電】多家聯合國機構24日聯合釋出的《追蹤可持續發展目標7：能源進展報告》顯示，目前全球仍有6.55億人用不上電。報告說，若不採取緊急且更大規模的行動，全球將無法實現可持續發展目標7，即確保到2030年人人獲得負擔得起、可靠和可持續的現代能源。報告顯示，全球大多數地區正接近實現全民用電，但撒哈拉以南非洲地區進展緩慢，該地區超過5.6億人用不上電，9.7億人無法獲得清潔烹飪能源。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606253782855867",
-      "time": "2026-06-25 13:13:14",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行審議委員田村直樹：已實現了央行設定的2%通脹目標】日本央行審議委員田村直樹稱，日本已實現了央行設定的2%通脹目標，必須將利率提升至接近中性水平，以避免潛在通脹水平超出目標範圍。"
-    },
-    {
-      "id": "4954168",
-      "time": "2026-06-25 13:13:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：外匯匯率保持穩定，與基本面保持一致，這一點很重要。"
-    },
-    {
-      "id": "mkt:019efd32-0e92-7dd8-b10d-57174791ad69",
-      "time": "2026-06-25 13:12:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tamura, a Bank of Japan policy board member, said Japan has already met the BOJ's 2% inflation target and rates should be raised toward near-neutral levels to prevent inflation from potentially overshooting the target."
-    },
-    {
-      "id": "4954167",
-      "time": "2026-06-25 13:12:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：日本央行需透過評估每次加息對經濟、物價和金融發展的影響，來判斷中性利率水平所在。"
-    },
-    {
-      "id": "4954166",
-      "time": "2026-06-25 13:12:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹： 在探索中性利率水平時，可能需要提高政策利率。"
-    },
-    {
-      "id": "4954165",
-      "time": "2026-06-25 13:11:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "CPO概念反覆活躍，新易盛漲超8%，創歷史新高，總市值近8400億，此前華盛昌漲停，羅博特科、聯特科技、長光華芯、東山精密等漲幅靠前。"
-    },
-    {
-      "id": "4954164",
-      "time": "2026-06-25 13:11:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：日本已經實現央行2%的通脹目標，必須將利率提高至接近中性水平，以避免基礎通脹率超過目標。"
-    },
-    {
-      "id": "mkt:019efd30-79f2-7dd8-b10d-4fe809570331",
-      "time": "2026-06-25 13:11:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share photovoltaic equipment sector rallied in afternoon trade; Hengdian Dongci hit the daily limit and a fresh high, Maiwei rose over 10%, and Zhongxinbo, Dier Laser, Gaoce, Laplace and TCL Zhonghuan also advanced."
     }
   ]
 }
