@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-03 04:45:04",
-  "count": 13794,
+  "updated": "2026-07-03 04:48:56",
+  "count": 13796,
   "items": [
+    {
+      "id": "te:markets:563883",
+      "time": "2026-07-03 04:48:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Steadies Near Pre-War Levels — Brent crude oil prices were trading near $71.5 on Thursday, recovering from a 2% decline earlier in the session as traders sought to secure supplies ahead of the extended U.S. Independence Day weekend. Still, prices remained at their lowest level since February 27, as shipping activity through the Strait of Hormuz continued to recover steadily and investors remained hopeful that a permanent peace deal between the U.S. and Iran could be reached. The United Arab Emirates restored its exports to more than 3.9 million barrels per day, while Saudi Arabia ramped up oil exports to Asia, bringing total daily flows through the Strait of Hormuz above 10 million barrels. Meanwhile, President Donald Trump said U.S.-Iran negotiations were progressing well after mediators from Qatar and Pakistan concluded separate meetings with U.S. and Iranian negotiators in Doha on Wednesday."
+    },
+    {
+      "id": "te:markets:563882",
+      "time": "2026-07-03 04:46:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Near Pre-War Levels — Crude oil prices were trading near $68.5 on Thursday, recovering from a 2% decline earlier in the session as traders sought to secure supplies ahead of the extended U.S. Independence Day weekend. Still, prices remained at their lowest level since February 27, as shipping activity through the Strait of Hormuz continued to recover steadily and investors remained hopeful that a permanent peace deal between the U.S. and Iran could be reached. The United Arab Emirates restored its exports to more than 3.9 million barrels per day, while Saudi Arabia ramped up oil exports to Asia, bringing total daily flows through the Strait of Hormuz above 10 million barrels. Meanwhile, President Donald Trump said U.S.-Iran negotiations were progressing well after mediators from Qatar and Pakistan concluded separate meetings with U.S. and Iranian negotiators in Doha on Wednesday."
+    },
+    {
+      "id": "4968276",
+      "time": "2026-07-03 04:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國敲定六艘北極安全巡邏艦採購合同。"
+    },
     {
       "id": "4968275",
       "time": "2026-07-03 04:43:52",
@@ -127068,21 +127098,6 @@
         "市場"
       ],
       "text": "【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於101.430。截至紐約匯市尾市，1歐元兌換1.1373美元，高於前一交易日的1.1355美元；1英鎊兌換1.3198美元，高於前一交易日的1.3162美元。1美元兌換161.80日元，高於前一交易日的161.76日元；1美元兌換0.8098瑞士法郎，低於前一交易日的0.8124瑞士法郎；1美元兌換1.4197加元，低於前一交易日的1.4237加元；1美元兌換9.7352瑞典克朗，低於前一交易日的9.7714瑞典克朗。"
-    },
-    {
-      "id": "mkt:019f008a-5062-7dd8-b126-58ec21addf25",
-      "time": "2026-06-26 04:48:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX slide alarms markets; OpenAI may delay IPO until next year】The New York Times, citing three people involved in internal discussions, reports OpenAI is leaning toward postponing an IPO until next year; the company had targeted as early as Q3–Q4 this year. CEO Sam Altman pushed advisers to aim for a $1 trillion valuation. Recent developments — most notably Musk’s SpaceX post-IPO share slide, which fell to $153 on Thursday from a $202 peak last week — and recent tech-led market volatility forced OpenAI executives to abandon their aggressive timetable. Two people said advisers warned last week that retail investors may not show strong demand for the stock."
     }
   ]
 }
