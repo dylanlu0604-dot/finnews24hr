@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-03 01:26:05",
-  "count": 13899,
+  "updated": "2026-07-03 01:30:02",
+  "count": 13910,
   "items": [
+    {
+      "id": "mkt:019f23e0-f313-7aab-8c81-ea56014c6c99",
+      "time": "2026-07-03 01:29:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google (GOOG.O) disabled Google accounts used by NetNut for malware command-and-control."
+    },
+    {
+      "id": "mkt:019f23e0-940f-7aab-8c81-e729d8e1d28f",
+      "time": "2026-07-03 01:29:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) has taken action against the NetNut residential proxy network, also known as POPA."
+    },
+    {
+      "id": "4968170",
+      "time": "2026-07-03 01:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：GTIG估計Netnut殭屍網路在全球擁有200萬臺裝置。"
+    },
+    {
+      "id": "4968169",
+      "time": "2026-07-03 01:28:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：已停用NetNut用於惡意軟體指揮與控制的谷歌賬號。"
+    },
+    {
+      "id": "4968168",
+      "time": "2026-07-03 01:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：已對NETNUT住宅代理網路（亦稱POPA）採取行動。"
+    },
+    {
+      "id": "4968167",
+      "time": "2026-07-03 01:28:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大將維持不列顛哥倫比亞省北海岸外海域的油輪禁令。"
+    },
+    {
+      "id": "mkt:019f23de-ab3e-7aab-8c81-da060db2f0fd",
+      "time": "2026-07-03 01:27:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Chancellor Merz said a reform plan could raise German GDP by at least 1% in 2027."
+    },
+    {
+      "id": "mkt:019f23de-5814-7aab-8c81-d03ef56d6239",
+      "time": "2026-07-03 01:26:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney: Canada is \"far behind\" in port logistics."
+    },
+    {
+      "id": "mkt:019f23de-0b52-7aab-8c81-cc8b30a307d7",
+      "time": "2026-07-03 01:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said Canada will provide C$10 bln to expand capacity at the Port of Vancouver."
+    },
+    {
+      "id": "4968166",
+      "time": "2026-07-03 01:26:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼警告稱該國在港口物流方面“嚴重落後”。"
+    },
+    {
+      "id": "4968165",
+      "time": "2026-07-03 01:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大將提供100億加元以擴大溫哥華港的吞吐能力。"
+    },
+    {
+      "id": "4968164",
+      "time": "2026-07-03 01:25:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：一攬子改革方案有望將德國2027年國內生產總值增速至少提升1個百分點。"
+    },
     {
       "id": "4968163",
       "time": "2026-07-03 01:22:55",
@@ -128047,18 +128151,6 @@
         "國際"
       ],
       "text": "【歐洲股市上漲 科技股表現亮眼】歐洲股市週四上漲，隨著市場對AI主題的信心恢復，科技板塊表現突出。拜耳公司在其除草劑獲得有利的法院裁決後股價飆升。斯托克歐洲600指數週四上漲0.8%，創下收盤歷史新高。在美光科技釋出的超預期財報緩解了市場對AI板塊估值過高的擔憂後，英飛凌和阿斯麥等半導體相關股票紛紛上漲。拜耳股價一度暴漲20%，此前美國最高法院裁定，該公司無需就旗下Roundup除草劑是否應標示致癌風險承擔數萬起訴訟的法律責任。這一判決將有助於結束長達十年之久的訴訟潮，這些訴訟已讓該公司付出了超過100億美元的代價。"
-    },
-    {
-      "id": "mkt:019effd4-a5d1-7dd8-b122-baa3d9fc8334",
-      "time": "2026-06-26 01:29:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CBS reported that Louisiana Republican Senator Bill Cassidy withdrew his support for a Democratic-led bill aimed at limiting President Trump's war powers regarding Iran."
     }
   ]
 }
