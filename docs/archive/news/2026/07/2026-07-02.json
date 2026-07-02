@@ -1,7 +1,248 @@
 {
   "date": "2026-07-02",
-  "count": 2952,
+  "count": 2977,
   "items": [
+    {
+      "id": "mkt:019f2325-b276-7aab-8c7d-bf720897bbb0",
+      "time": "2026-07-02 22:05:00",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Mann said short- and long-term expectations remain elevated."
+    },
+    {
+      "id": "mkt:019f2325-6be2-7aab-8c7d-b54395d0caa6",
+      "time": "2026-07-02 22:04:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Mann said labour-market signals in some sectors are not as weak as the headline unemployment rate suggests."
+    },
+    {
+      "id": "4967904",
+      "time": "2026-07-02 22:04:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員曼恩：短期和長期通脹預期仍處高位。"
+    },
+    {
+      "id": "4967903",
+      "time": "2026-07-02 22:04:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：部分行業的細分勞動力訊號弱於整體失業率。"
+    },
+    {
+      "id": "mkt:019f2324-e519-7aab-8c7d-ad7fea436690",
+      "time": "2026-07-02 22:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's Monetary Policy Committee member Mann said energy prices, profit margins and wage agreements are key indicators."
+    },
+    {
+      "id": "mkt:019f2324-c2b6-7aab-8c7d-a09c7ab069e7",
+      "time": "2026-07-02 22:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Mann said monetary policy could have rapid effects."
+    },
+    {
+      "id": "4967902",
+      "time": "2026-07-02 22:03:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：能源價格、企業利潤率、薪資協議是核心觀測指標。"
+    },
+    {
+      "id": "mkt:019f2324-8cb8-7aab-8c7d-9cc3fdded66b",
+      "time": "2026-07-02 22:03:45",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England MPC member Mann said fiscal measures are crucial to help return inflation to target."
+    },
+    {
+      "id": "mkt:019f2324-50a9-7aab-8c7d-929d4f46c9eb",
+      "time": "2026-07-02 22:03:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Mann said in June cost-push inflationary pressures were being offset by domestically oriented financial tightening."
+    },
+    {
+      "id": "4967901",
+      "time": "2026-07-02 22:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行官員曼恩：財政措施對於推動我們迴歸通脹目標至關重要。"
+    },
+    {
+      "id": "mkt:019f2324-21f0-7aab-8c7d-8fa3d5ec1d7e",
+      "time": "2026-07-02 22:03:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq 100 hit an intraday high, up 0.7%."
+    },
+    {
+      "id": "4967900",
+      "time": "2026-07-02 22:03:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員曼恩：6月份，成本導向型通脹壓力被國內導向型金融緊縮政策所抵消。"
+    },
+    {
+      "id": "mkt:019f2323-ff57-7aab-8c7d-85c0ec40123f",
+      "time": "2026-07-02 22:03:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Mann, a member of the Bank of England's Monetary Policy Committee, said H2 data will be particularly important to him."
+    },
+    {
+      "id": "mkt:019f2323-e73c-7aab-8c7d-796cb39e560d",
+      "time": "2026-07-02 22:03:03",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Bank of England monetary policy committee member Mann said the trade-off between inf risks and economic activity raises his concern about inf persistence, leading him to lean toward keeping policy rates higher for longer and possibly to act to curb that risk."
+    },
+    {
+      "id": "4967899",
+      "time": "2026-07-02 22:03:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：下半年的資料對我而言尤為重要。"
+    },
+    {
+      "id": "4967898",
+      "time": "2026-07-02 22:02:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數盤中高點，上漲0.7%。"
+    },
+    {
+      "id": "4967897",
+      "time": "2026-07-02 22:02:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：貨幣政策能夠快速見效。"
+    },
+    {
+      "id": "mkt:019f2323-2959-7aab-8c7d-71da79d13714",
+      "time": "2026-07-02 22:02:14",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Mann said in June upside risks to inflation outweigh downside risks to economic activity."
+    },
+    {
+      "id": "4967896",
+      "time": "2026-07-02 22:02:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員曼恩表示：通脹風險與經濟活動之間的權衡，促使我更加重視通脹的持續性，這改變了我的看法，傾向於更長時間地維持利率不變，並可能需要採取行動來防範這一風險。"
+    },
+    {
+      "id": "4967895",
+      "time": "2026-07-02 22:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府問責局：波音推進擱置的空軍一號專機專案已取得進展。"
+    },
+    {
+      "id": "4967894",
+      "time": "2026-07-02 22:01:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員曼恩：6月時通脹上行風險較經濟活動下行風險更為突出。"
+    },
+    {
+      "id": "4967893",
+      "time": "2026-07-02 22:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中車集團董事長孫永才與深圳市副市長羅晃浩座談交流】7月2日，中國中車集團黨委書記、董事長孫永才在集團總部與深圳市副市長羅晃浩一行舉行會談。雙方就軌道交通裝備、新能源裝備、人工智慧等領域的深化合作進行了深入交流。"
+    },
+    {
+      "id": "4967892",
+      "time": "2026-07-02 22:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【起步價2000萬的杭州豪宅成交量創十年新高】上半年杭州新房成交2.62萬套，總價2000萬以上高階房源成交700套，重新整理近十年歷史新高。錢江晚報的統計資料透露出杭州豪宅市場的火爆。同期，二手房累計成交約4.67萬套，成交量排在近五年同期第二位；杭州十區住宅用地成交總金額超481億元，成交規模穩居全國第二，僅次於上海。"
+    },
+    {
+      "id": "4967891",
+      "time": "2026-07-02 22:01:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大競爭局：BVD公司已同意將加拿大石油公司加油站及Petro-Pass自助加油鎖控設施出售給買方，該交易需經競爭事務專員批准。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607023792229052",
+      "time": "2026-07-02 22:00:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月耐用品訂單終值環比下降4.5%，符合市場預期。"
+    },
     {
       "id": "4967890",
       "time": "2026-07-02 22:00:45",
