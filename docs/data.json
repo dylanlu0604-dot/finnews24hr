@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-03 06:44:28",
-  "count": 13866,
+  "updated": "2026-07-03 06:48:23",
+  "count": 13863,
   "items": [
+    {
+      "id": "4968350",
+      "time": "2026-07-03 06:47:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【科技行情行至十字路口，公募推敲“業績驗證”邏輯】7月初，A股與海外市場半導體板塊共振回撥，多隻龍頭股放量下跌。然而，拉長時間軸來看，半導體領域依然是年內最亮眼的投資主線，相關ETF及主動權益基金業績領跑全市場。短期波動加大背景下，記者採訪多家公募機構後發現，在全球半導體景氣度超預期及AI算力建設剛需支撐下，機構普遍認為科技板塊短期仍處於右側佈局階段，投資邏輯正從“主題炒作”向“業績驗證”切換。（中證報）"
+    },
+    {
+      "id": "te:markets:563894",
+      "time": "2026-07-03 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates largely by 5.31% — Top crypto gainers are Ether (5.31%), Bitcoin (2.42%) and Binance (1.12%)."
+    },
     {
       "id": "4968348",
       "time": "2026-07-03 06:42:04",
@@ -127714,50 +127733,6 @@
         "國際"
       ],
       "text": "市場訊息：三星電子擬在韓國新建晶片工廠，投資規模或達 300 萬億韓元。 未來十年將在韓國投資 1000 萬億韓元。"
-    },
-    {
-      "id": "mkt:019f00f6-d63a-7dd8-b126-b81ca2cb3d71",
-      "time": "2026-06-26 06:46:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Starlink is working to rapidly deploy terminals to restore connectivity in Venezuela's worst-hit areas. Starlink will provide free service to new and existing customers affected by the Venezuela earthquake through July 25."
-    },
-    {
-      "id": "4955908",
-      "time": "2026-06-26 06:45:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“不可接受”！蘋果商店下架多款俄羅斯應用程式，克宮要求作出解釋】據路透社報道，在俄羅斯網際網路公司VK旗下多款應用程式被美國蘋果公司的應用商店（App Store）下架後，克里姆林宮25日要求蘋果公司作出解釋。報道稱，VK公司在一份宣告中表示，該公司從未受到美國製裁，但其應用程式卻“在沒有收到任何警告或解釋的情況下”被下架。“我們認為蘋果公司這些針對俄羅斯使用者的行為完全不合理且不可接受。”克里姆林宮發言人佩斯科夫表示，俄羅斯有關機構將直接與蘋果公司交涉此事，並要求其作出解釋。佩斯科夫還稱，如果沒有得到合理解釋，俄方將需要據此決定是否繼續與該公司合作。（環球網）"
-    },
-    {
-      "id": "4955907",
-      "time": "2026-06-26 06:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "星鏈：針對委內瑞拉地震受災民眾，星鏈為新老使用者提供免費服務，有效期至 7 月 25 日。"
-    },
-    {
-      "id": "te:markets:562011",
-      "time": "2026-06-26 06:45:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 3.18% — Top crypto losers are Ether (-3.18%) and Bitcoin (-2.12%)."
-    },
-    {
-      "id": "4955906",
-      "time": "2026-06-26 06:44:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "星鏈針對委內瑞拉災情表態：正加急部署星鏈終端裝置，為重災區恢復網路通訊。"
     }
   ]
 }
