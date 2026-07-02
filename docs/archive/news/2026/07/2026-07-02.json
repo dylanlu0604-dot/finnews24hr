@@ -1,7 +1,224 @@
 {
   "date": "2026-07-02",
-  "count": 3183,
+  "count": 3205,
   "items": [
+    {
+      "id": "mkt:019f2376-d7ab-7aab-8c80-230503855832",
+      "time": "2026-07-02 23:33:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.2) | actual 3.65% | previous 3.66%"
+    },
+    {
+      "id": "mkt:019f2376-d5da-7aab-8c80-1d9f6840dbe7",
+      "time": "2026-07-02 23:33:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury bill auction on July 2: BID-COVER RATIO 2.70, prior 2.79."
+    },
+    {
+      "id": "mkt:019f2376-adb9-7aab-8c80-10a84308d6cd",
+      "time": "2026-07-02 23:33:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury auction on July 2 — share of awards at the stop-out (high) yield 53.99% (prior 70.5%)."
+    },
+    {
+      "id": "mkt:019f2376-ac63-7aab-8c80-08d2714156cb",
+      "time": "2026-07-02 23:33:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.2) | actual 2.7 | previous 2.79"
+    },
+    {
+      "id": "mkt:019f2376-136c-7aab-8c80-03377cdf813c",
+      "time": "2026-07-02 23:32:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "EURUSD"
+      ],
+      "text": "Stoxx Europe 600 preliminary close up 1.43%, marking a record closing high."
+    },
+    {
+      "id": "4968043",
+      "time": "2026-07-02 23:32:46",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英國央行決策官員Mann：如果價格壓力持續 她已做好加息準備】英國央行決策者Catherine Mann表示，如果通脹預期和其他價格警示訊號今年晚些時候沒有改善，她對進行一次“主動性”加息做好了準備。根據她將於週四晚些時候在倫敦所發表講話的文字，她表示，她支援目前將利率維持在3.75%，但警告稱通脹可能會固化入價格之中。她將在今年下半年密切關注資料，以防價格上漲影響工資協議和通脹預期。她表示：“能源價格走勢、利潤率行為，以及2027年工資談判的基礎，將是決定當前成本壓力是否會變得更加根深蒂固的關鍵。”“我相信，如果實際結果，尤其是預期方面的結果，不利於基礎通脹發展，一次主動性的行動能夠推動通脹預期和通脹結果朝著2%的目標靠攏。”"
+    },
+    {
+      "id": "4968042",
+      "time": "2026-07-02 23:32:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至7月2日4周國債競拍-得標利率 3.605%，前值3.61%。\n美國至7月2日4周國債競拍-得標利率配置百分比 46.77%，前值24.04%。\n美國至7月2日4周國債競拍-投標倍數 2.72，前值2.74。"
+    },
+    {
+      "id": "mkt:019f2375-929d-7aab-8c7f-ff2aa652fe37",
+      "time": "2026-07-02 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-week Treasury auction to July 2 — share awarded at the stop-out yield 46.77% (prior 24.04%)."
+    },
+    {
+      "id": "mkt:019f2375-908c-7aab-8c7f-f5cd948db3ed",
+      "time": "2026-07-02 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 4-week Treasury bill auction bid-cover ratio 2.72 on July 2; prior 2.74."
+    },
+    {
+      "id": "mkt:019f2375-900d-7aab-8c7f-ee6ee7443042",
+      "time": "2026-07-02 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction on July 2: stop-out yield 3.605% (previous 3.61%)."
+    },
+    {
+      "id": "mkt:019f2375-7004-7aab-8c7f-e61e70d6369d",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.2) | actual 2.72 | previous 2.74"
+    },
+    {
+      "id": "mkt:019f2375-6ff8-7aab-8c7f-da6f2c08904f",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.2) | actual 46.77% | previous 24.04%"
+    },
+    {
+      "id": "mkt:019f2375-6feb-7aab-8c7f-d1188e00518c",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.2) | actual 3.605% | previous 3.61%"
+    },
+    {
+      "id": "mkt:019f2375-61f8-7aab-8c7f-c961dd76af74",
+      "time": "2026-07-02 23:32:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US Economy",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Potential yen intervention likely to have limited effect】After weaker US payrolls, the dollar fell versus major currencies and USD/JPY dropped about 1%. That pullback may temper expectations of imminent yen-supporting intervention, but the yen at the 161 level remains concerning. Daniela Hathorn at Capital.com said intervention would require Japanese authorities to sell dollars and other FX reserves; US Treasuries could be sold but likely not enough to push yields substantially higher. She added past interventions have not had lasting effects because fundamentals did not change and exchange rates ultimately depend on interest-rate differentials and capital flows."
+    },
+    {
+      "id": "mkt:019f2375-30d6-7aab-8c7f-c3f1cdc9baf2",
+      "time": "2026-07-02 23:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Automobile Dealers Association said Brazil's auto sales in June were 272,466 units."
+    },
+    {
+      "id": "mkt:019f2374-cf37-7aab-8c7f-bb20f1e07449",
+      "time": "2026-07-02 23:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs (GS.N) will provide funding for 'Trump accounts' for eligible employees' children."
+    },
+    {
+      "id": "mkt:019f2374-7c54-7aab-8c7f-b231ce1752f9",
+      "time": "2026-07-02 23:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon's Aoun meets Syrian transitional foreign minister, stresses non‑interference】Lebanese President Aoun met visiting Syrian transitional foreign minister Shibani in Beirut and said Lebanon seeks bilateral ties with Syria based on cooperation, coordination and non‑interference. Aoun welcomed formation of a high‑level joint committee and endorsed coordination on border security and joint efforts against weapons and drug smuggling and human trafficking as mutually beneficial; he reiterated calls for Israeli forces to withdraw from Lebanese and Syrian territory to support regional stability. Shibani said the visit aims to deepen ties and economic cooperation, denied any Syrian intent to militarily intervene in Lebanon and voiced support for resolving regional issues through dialogue rather than confrontation."
+    },
+    {
+      "id": "4968040",
+      "time": "2026-07-02 23:31:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市創收盤歷史新高】歐洲STOXX 600指數初步收漲1.57%，報649.35點，時隔一個交易日再創收盤歷史新高。歐元區STOXX 50指數初步收漲1.40%，報6370.08點，也創收盤歷史新高。富時泛歐績優300指數初步收漲1.62%，報2601.96點。"
+    },
+    {
+      "id": "4968039",
+      "time": "2026-07-02 23:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Wolfe：上調雪佛龍評級至“跑贏大市”，近期回撥創造入市時機】Wolfe Research將雪佛龍的評級由“與同業持平”上調至“跑贏大市”，目標價210美元，指出該石油巨頭股價近期的回撥為投資者創造了具吸引力的入市時機，市場尚未充分反映其長期自由現金流的改善前景。"
+    },
+    {
+      "id": "4968038",
+      "time": "2026-07-02 23:30:51",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：將為符合資格的員工子女繳存“特朗普賬戶”。"
+    },
+    {
+      "id": "4968037",
+      "time": "2026-07-02 23:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統會見敘過渡政府外長 強調互不干涉內政】據黎巴嫩國家通訊社2日報道，黎巴嫩總統奧恩當天在貝魯特會見到訪的敘利亞過渡政府外長希巴尼時表示，黎巴嫩希望與敘利亞建立基於合作、協調及互不干涉內政原則的雙邊關係。奧恩表示，黎巴嫩高度重視敘利亞的穩定，持續呼籲以色列從黎巴嫩及敘利亞領土上撤軍，以促進地區和平與穩定。（新華社）"
+    },
+    {
+      "id": "4968036",
+      "time": "2026-07-02 23:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "FENABRAVE：巴西 6 月汽車銷量 272,466 輛。"
+    },
     {
       "id": "te:markets:563845",
       "time": "2026-07-02 23:29:22",

@@ -1,7 +1,224 @@
 {
-  "updated": "2026-07-02 23:30:12",
-  "count": 13941,
+  "updated": "2026-07-02 23:34:13",
+  "count": 13942,
   "items": [
+    {
+      "id": "mkt:019f2376-d7ab-7aab-8c80-230503855832",
+      "time": "2026-07-02 23:33:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.2) | actual 3.65% | previous 3.66%"
+    },
+    {
+      "id": "mkt:019f2376-d5da-7aab-8c80-1d9f6840dbe7",
+      "time": "2026-07-02 23:33:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury bill auction on July 2: BID-COVER RATIO 2.70, prior 2.79."
+    },
+    {
+      "id": "mkt:019f2376-adb9-7aab-8c80-10a84308d6cd",
+      "time": "2026-07-02 23:33:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury auction on July 2 — share of awards at the stop-out (high) yield 53.99% (prior 70.5%)."
+    },
+    {
+      "id": "mkt:019f2376-ac63-7aab-8c80-08d2714156cb",
+      "time": "2026-07-02 23:33:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.2) | actual 2.7 | previous 2.79"
+    },
+    {
+      "id": "mkt:019f2376-136c-7aab-8c80-03377cdf813c",
+      "time": "2026-07-02 23:32:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "EURUSD"
+      ],
+      "text": "Stoxx Europe 600 preliminary close up 1.43%, marking a record closing high."
+    },
+    {
+      "id": "4968043",
+      "time": "2026-07-02 23:32:46",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英國央行決策官員Mann：如果價格壓力持續 她已做好加息準備】英國央行決策者Catherine Mann表示，如果通脹預期和其他價格警示訊號今年晚些時候沒有改善，她對進行一次“主動性”加息做好了準備。根據她將於週四晚些時候在倫敦所發表講話的文字，她表示，她支援目前將利率維持在3.75%，但警告稱通脹可能會固化入價格之中。她將在今年下半年密切關注資料，以防價格上漲影響工資協議和通脹預期。她表示：“能源價格走勢、利潤率行為，以及2027年工資談判的基礎，將是決定當前成本壓力是否會變得更加根深蒂固的關鍵。”“我相信，如果實際結果，尤其是預期方面的結果，不利於基礎通脹發展，一次主動性的行動能夠推動通脹預期和通脹結果朝著2%的目標靠攏。”"
+    },
+    {
+      "id": "4968042",
+      "time": "2026-07-02 23:32:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至7月2日4周國債競拍-得標利率 3.605%，前值3.61%。\n美國至7月2日4周國債競拍-得標利率配置百分比 46.77%，前值24.04%。\n美國至7月2日4周國債競拍-投標倍數 2.72，前值2.74。"
+    },
+    {
+      "id": "mkt:019f2375-929d-7aab-8c7f-ff2aa652fe37",
+      "time": "2026-07-02 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-week Treasury auction to July 2 — share awarded at the stop-out yield 46.77% (prior 24.04%)."
+    },
+    {
+      "id": "mkt:019f2375-908c-7aab-8c7f-f5cd948db3ed",
+      "time": "2026-07-02 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 4-week Treasury bill auction bid-cover ratio 2.72 on July 2; prior 2.74."
+    },
+    {
+      "id": "mkt:019f2375-900d-7aab-8c7f-ee6ee7443042",
+      "time": "2026-07-02 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction on July 2: stop-out yield 3.605% (previous 3.61%)."
+    },
+    {
+      "id": "mkt:019f2375-7004-7aab-8c7f-e61e70d6369d",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.2) | actual 2.72 | previous 2.74"
+    },
+    {
+      "id": "mkt:019f2375-6ff8-7aab-8c7f-da6f2c08904f",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.2) | actual 46.77% | previous 24.04%"
+    },
+    {
+      "id": "mkt:019f2375-6feb-7aab-8c7f-d1188e00518c",
+      "time": "2026-07-02 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.2) | actual 3.605% | previous 3.61%"
+    },
+    {
+      "id": "mkt:019f2375-61f8-7aab-8c7f-c961dd76af74",
+      "time": "2026-07-02 23:32:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US Economy",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Potential yen intervention likely to have limited effect】After weaker US payrolls, the dollar fell versus major currencies and USD/JPY dropped about 1%. That pullback may temper expectations of imminent yen-supporting intervention, but the yen at the 161 level remains concerning. Daniela Hathorn at Capital.com said intervention would require Japanese authorities to sell dollars and other FX reserves; US Treasuries could be sold but likely not enough to push yields substantially higher. She added past interventions have not had lasting effects because fundamentals did not change and exchange rates ultimately depend on interest-rate differentials and capital flows."
+    },
+    {
+      "id": "mkt:019f2375-30d6-7aab-8c7f-c3f1cdc9baf2",
+      "time": "2026-07-02 23:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Automobile Dealers Association said Brazil's auto sales in June were 272,466 units."
+    },
+    {
+      "id": "mkt:019f2374-cf37-7aab-8c7f-bb20f1e07449",
+      "time": "2026-07-02 23:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs (GS.N) will provide funding for 'Trump accounts' for eligible employees' children."
+    },
+    {
+      "id": "mkt:019f2374-7c54-7aab-8c7f-b231ce1752f9",
+      "time": "2026-07-02 23:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon's Aoun meets Syrian transitional foreign minister, stresses non‑interference】Lebanese President Aoun met visiting Syrian transitional foreign minister Shibani in Beirut and said Lebanon seeks bilateral ties with Syria based on cooperation, coordination and non‑interference. Aoun welcomed formation of a high‑level joint committee and endorsed coordination on border security and joint efforts against weapons and drug smuggling and human trafficking as mutually beneficial; he reiterated calls for Israeli forces to withdraw from Lebanese and Syrian territory to support regional stability. Shibani said the visit aims to deepen ties and economic cooperation, denied any Syrian intent to militarily intervene in Lebanon and voiced support for resolving regional issues through dialogue rather than confrontation."
+    },
+    {
+      "id": "4968040",
+      "time": "2026-07-02 23:31:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市創收盤歷史新高】歐洲STOXX 600指數初步收漲1.57%，報649.35點，時隔一個交易日再創收盤歷史新高。歐元區STOXX 50指數初步收漲1.40%，報6370.08點，也創收盤歷史新高。富時泛歐績優300指數初步收漲1.62%，報2601.96點。"
+    },
+    {
+      "id": "4968039",
+      "time": "2026-07-02 23:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Wolfe：上調雪佛龍評級至“跑贏大市”，近期回撥創造入市時機】Wolfe Research將雪佛龍的評級由“與同業持平”上調至“跑贏大市”，目標價210美元，指出該石油巨頭股價近期的回撥為投資者創造了具吸引力的入市時機，市場尚未充分反映其長期自由現金流的改善前景。"
+    },
+    {
+      "id": "4968038",
+      "time": "2026-07-02 23:30:51",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：將為符合資格的員工子女繳存“特朗普賬戶”。"
+    },
+    {
+      "id": "4968037",
+      "time": "2026-07-02 23:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統會見敘過渡政府外長 強調互不干涉內政】據黎巴嫩國家通訊社2日報道，黎巴嫩總統奧恩當天在貝魯特會見到訪的敘利亞過渡政府外長希巴尼時表示，黎巴嫩希望與敘利亞建立基於合作、協調及互不干涉內政原則的雙邊關係。奧恩表示，黎巴嫩高度重視敘利亞的穩定，持續呼籲以色列從黎巴嫩及敘利亞領土上撤軍，以促進地區和平與穩定。（新華社）"
+    },
+    {
+      "id": "4968036",
+      "time": "2026-07-02 23:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "FENABRAVE：巴西 6 月汽車銷量 272,466 輛。"
+    },
     {
       "id": "te:markets:563845",
       "time": "2026-07-02 23:29:22",
@@ -128228,222 +128445,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊25日在社交媒體發文說，他與阿曼外交大臣通話，雙方再次強調將繼續溝通，以明確霍爾木茲海峽未來的管理和服務事宜。（新華社）"
-    },
-    {
-      "id": "mkt:019eff6a-b54b-7dd8-b120-af35384fa886",
-      "time": "2026-06-25 23:34:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli Defense Minister KATZ said the military will maintain forces inside \"security zones\" in Lebanon, Syria and Gaza as long as necessary and will not withdraw from the \"security zones\"."
-    },
-    {
-      "id": "4955540",
-      "time": "2026-06-25 23:33:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：我們反對在壓力下從黎巴嫩境內的“安全區”撤軍，我們不會撤軍。"
-    },
-    {
-      "id": "4955539",
-      "time": "2026-06-25 23:33:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至6月25日8周國債競拍-投標倍數 2.79，前值2.57。\n美國至6月25日8周國債競拍-得標利率 3.66%，前值3.64%。\n美國至6月25日8周國債競拍-得標利率配置百分比 70.5%，前值31.85%。"
-    },
-    {
-      "id": "mkt:019eff69-fb45-7dd8-b120-a45aa8fc0889",
-      "time": "2026-06-25 23:33:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 8-week Treasury bill auction through June 25 — share of awards at the stop-out yield 70.5%, prior 31.85%."
-    },
-    {
-      "id": "mkt:019eff69-a81a-7dd8-b120-9a6cdbdf43cb",
-      "time": "2026-06-25 23:32:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. 8-week Treasury auction on June 25: stop-out yield 3.66%, prior 3.64%."
-    },
-    {
-      "id": "mkt:019eff69-9433-7dd8-b120-942c5957f6a8",
-      "time": "2026-06-25 23:32:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 8-week Treasury auction to June 25: bid-cover ratio 2.79, prior 2.57."
-    },
-    {
-      "id": "mkt:019eff69-7e2c-7dd8-b120-8a929ae9d620",
-      "time": "2026-06-25 23:32:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Jun.25) | actual 3.66% | previous 3.64%"
-    },
-    {
-      "id": "4955538",
-      "time": "2026-06-25 23:32:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：只要有必要，以軍就將繼續駐紮在黎巴嫩、敘利亞和加沙境內的“安全區”。"
-    },
-    {
-      "id": "mkt:019eff69-65d3-7dd8-b120-838c207177d1",
-      "time": "2026-06-25 23:32:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jun.25) | actual 2.79 | previous 2.57"
-    },
-    {
-      "id": "4955537",
-      "time": "2026-06-25 23:32:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至6月25日4周國債競拍-得標利率 3.61%，前值3.58%。\n美國至6月25日4周國債競拍-得標利率配置百分比 24.04%，前值64.65%。\n美國至6月25日4周國債競拍-投標倍數 2.74，前值2.99。"
-    },
-    {
-      "id": "mkt:019eff69-10da-7dd8-b120-7c6cd7da7c39",
-      "time": "2026-06-25 23:32:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 4-week Treasury bill auction on June 25: bid-cover ratio 2.74, prior 2.99."
-    },
-    {
-      "id": "mkt:019eff69-0e2a-7dd8-b120-766d5ab00187",
-      "time": "2026-06-25 23:32:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "U.S. 4-week Treasury auction for the week to June 25: stop-out yield 3.61% vs 3.58% prior."
-    },
-    {
-      "id": "mkt:019eff69-0b0e-7dd8-b120-6e04c128c8d5",
-      "time": "2026-06-25 23:32:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US 4‑week Treasury auction to Jun 25 — percentage of awards at the stop-out rate 24.04% (prior 64.65%)."
-    },
-    {
-      "id": "mkt:019eff68-dec5-7dd8-b120-63800d6c7e50",
-      "time": "2026-06-25 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.25) | actual 2.74 | previous 2.99"
-    },
-    {
-      "id": "mkt:019eff68-dec4-7dd8-b120-58369fbc1e5d",
-      "time": "2026-06-25 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Jun.25) | actual 24.04% | previous 64.65%"
-    },
-    {
-      "id": "mkt:019eff68-de8d-7dd8-b120-53b77294ea1c",
-      "time": "2026-06-25 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Jun.25) | actual 3.61% | previous 3.58%"
-    },
-    {
-      "id": "4955536",
-      "time": "2026-06-25 23:31:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：我們正在研討厄爾尼諾影響的測算方法。"
-    },
-    {
-      "id": "4955535",
-      "time": "2026-06-25 23:31:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：暫無下一步政策動向相關訊號。"
-    },
-    {
-      "id": "4955534",
-      "time": "2026-06-25 23:31:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Jack Henry與谷歌雲擴大合作，為銀行和信用合作社提供AI驅動的安全解決方案。"
-    },
-    {
-      "id": "4955533",
-      "time": "2026-06-25 23:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.79%，報640.19點。歐元區STOXX 50指數初步收漲0.62%，報6253.03點。富時泛歐績優300指數初步收漲0.78%，報2561.38點。"
-    },
-    {
-      "id": "4955532",
-      "time": "2026-06-25 23:30:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收漲1.03%，報24996.31點。法國股指初步收漲0.54%，義大利股指初步收漲0.03%、銀行指數跌0.63%，英國股指初步收漲0.72%。"
     }
   ]
 }
