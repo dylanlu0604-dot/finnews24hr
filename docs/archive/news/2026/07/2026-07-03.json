@@ -1,7 +1,62 @@
 {
   "date": "2026-07-03",
-  "count": 352,
+  "count": 357,
   "items": [
+    {
+      "id": "4968292",
+      "time": "2026-07-03 05:22:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚股市上漲。"
+    },
+    {
+      "id": "4968291",
+      "time": "2026-07-03 05:22:05",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：美聯儲主席沃什必須做他必須做的事】美國總統特朗普宣稱，美聯儲主席沃什“必須做他必須”做的事。沃什是一個偉大的傢伙，他必須做他必須做的事。我們將針對美聯儲理事庫克採取完美的撤換程式。（經濟）增長可以對通脹（取得進展）有利，而不僅僅是不利（於通脹）。美聯儲理事會不幸帶有一點點敵意。"
+    },
+    {
+      "id": "mkt:019f24b5-6489-7aab-8c84-87a553d325e7",
+      "time": "2026-07-03 05:21:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he will begin proceedings to remove Federal Reserve Governor Cook."
+    },
+    {
+      "id": "mkt:019f24b4-e8d7-7aab-8c84-7f93cddd6a09",
+      "time": "2026-07-03 05:21:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Trump said the Supreme Court's rejection of a bid to remove Fed governor Cook can be overcome by winning the case, which would allow her removal."
+    },
+    {
+      "id": "mkt:019f24b4-54cc-7aab-8c84-71aa373a748f",
+      "time": "2026-07-03 05:20:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump says U.S. GDP should be 12–13%."
+    },
     {
       "id": "mkt:019f24b2-8922-7aab-8c84-6a6d78ccd7a5",
       "time": "2026-07-03 05:18:27",

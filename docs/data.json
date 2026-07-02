@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-03 05:19:57",
-  "count": 13799,
+  "updated": "2026-07-03 05:23:51",
+  "count": 13798,
   "items": [
+    {
+      "id": "4968292",
+      "time": "2026-07-03 05:22:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚股市上漲。"
+    },
+    {
+      "id": "4968291",
+      "time": "2026-07-03 05:22:05",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：美聯儲主席沃什必須做他必須做的事】美國總統特朗普宣稱，美聯儲主席沃什“必須做他必須”做的事。沃什是一個偉大的傢伙，他必須做他必須做的事。我們將針對美聯儲理事庫克採取完美的撤換程式。（經濟）增長可以對通脹（取得進展）有利，而不僅僅是不利（於通脹）。美聯儲理事會不幸帶有一點點敵意。"
+    },
+    {
+      "id": "mkt:019f24b5-6489-7aab-8c84-87a553d325e7",
+      "time": "2026-07-03 05:21:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. President Trump said he will begin proceedings to remove Federal Reserve Governor Cook."
+    },
+    {
+      "id": "mkt:019f24b4-e8d7-7aab-8c84-7f93cddd6a09",
+      "time": "2026-07-03 05:21:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Trump said the Supreme Court's rejection of a bid to remove Fed governor Cook can be overcome by winning the case, which would allow her removal."
+    },
+    {
+      "id": "mkt:019f24b4-54cc-7aab-8c84-71aa373a748f",
+      "time": "2026-07-03 05:20:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump says U.S. GDP should be 12–13%."
+    },
     {
       "id": "mkt:019f24b2-8922-7aab-8c84-6a6d78ccd7a5",
       "time": "2026-07-03 05:18:27",
@@ -127083,59 +127138,6 @@
         "Nikkei 225"
       ],
       "text": "【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines."
-    },
-    {
-      "id": "te:economy:562004",
-      "time": "2026-06-26 05:23:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "Paraguay Producer Prices Extend Decline — Paraguay’s Producer Price Index fell 1.5% year-on-year in May 2026, following a 1.0% decline in April and marking the fourth consecutive month of producer deflation. Imported products remained the main source of downward pressure, particularly in categories such as metal products, machinery and equipment, food, beverages and tobacco, textiles and leather goods, and non-metallic transportable goods. This contrasted with the positive contribution from domestic products, which helped limit the overall decline, supported by stronger price growth in domestic food, beverages and tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods."
-    },
-    {
-      "id": "mkt:019f00a8-3f1c-7dd8-b126-88a3e850eadb",
-      "time": "2026-06-26 05:20:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reported House Speaker Johnson said he will submit a housing bill to the White House after meeting with Trump."
-    },
-    {
-      "id": "4955886",
-      "time": "2026-06-26 05:20:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准擬向澳大利亞出售 F/A-18F 超級大黃蜂戰機、EA-18G 咆哮者電子戰機配套訓練裝置及相關裝備，交易價值 2.5 億美元。"
-    },
-    {
-      "id": "mkt:019f00a7-e0f5-7dd8-b126-840326937fa0",
-      "time": "2026-06-26 05:20:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department approved a $250 million sale to Australia of training services and related equipment for F/A-18F Super Hornet and EA-18G Growler aircraft."
-    },
-    {
-      "id": "4955885",
-      "time": "2026-06-26 05:20:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認巴西主權信用評級為 BB/B，評級展望維持穩定。"
-    },
-    {
-      "id": "4955884",
-      "time": "2026-06-26 05:19:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜： 在與特朗普會面後，將把住房法案送至白宮。"
     }
   ]
 }
