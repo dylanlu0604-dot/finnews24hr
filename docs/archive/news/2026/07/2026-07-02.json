@@ -1,7 +1,163 @@
 {
   "date": "2026-07-02",
-  "count": 2728,
+  "count": 2744,
   "items": [
+    {
+      "id": "4967764",
+      "time": "2026-07-02 21:07:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據媒體Semafor： 伊朗局勢衝突推高燃油價格，進而帶動非洲電動汽車銷量上漲。"
+    },
+    {
+      "id": "mkt:019f22f0-c993-7aab-8c7b-468877d3f331",
+      "time": "2026-07-02 21:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Department of Transportation has allocated $1.776 bln to FAA grant projects to upgrade airports nationwide."
+    },
+    {
+      "id": "mkt:019f22f0-54e3-7aab-8c7b-3bc7555fa4da",
+      "time": "2026-07-02 21:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Security sources said a drone strike hit a camp of an Iranian Kurdish opposition group north of Erbil, Iraq."
+    },
+    {
+      "id": "4967763",
+      "time": "2026-07-02 21:06:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【劉國中會見白俄羅斯第一副總理斯諾普科夫】中共中央政治局委員、國務院副總理劉國中7月2日在京會見白俄羅斯第一副總理斯諾普科夫。劉國中表示，6月29日，習近平主席同盧卡申科總統舉行了富有成果的會見，為中白全天候全面戰略伙伴關係發展注入新動力。雙方要落實好兩國元首重要共識，充分發揮中白政府間合作委員會等機制作用，推動互利合作走深走實，更好促進各自現代化建設和民族振興。斯諾普科夫表示，願同中方深化各領域務實合作，推動白中關係不斷邁上新臺階。（新華社）"
+    },
+    {
+      "id": "mkt:019f22f0-3afa-7aab-8c7b-364f333387da",
+      "time": "2026-07-02 21:06:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Nonfarm payrolls make Fed rate hike harder to justify, analyst says】Analyst Jersey said today's nonfarm payrolls make a Fed rate hike harder to implement. While markets still price the Fed's next move as a hike, the report highlights that a rate increase could threaten the employment side of the Fed's dual mandate. Although Walsh sought to downplay the employment mandate, Jersey expects an FOMC majority will worry a hike could hurt jobs; absent inflation sustainably above 3% and expected to remain there, they will hold the policy rate unchanged until a clear trend shift."
+    },
+    {
+      "id": "mkt:019f22f0-2edd-7aab-8c7b-2b38e8be2f3c",
+      "time": "2026-07-02 21:06:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Liu Guozhong meets Belarus First Deputy Prime Minister Snopkov】China Politburo member and Vice Premier Liu Guozhong met Belarus First Deputy Prime Minister Snopkov in Beijing on July 2. Liu said President Xi’s June 29 meeting with President Lukashenko had injected fresh momentum into the China‑Belarus all‑weather comprehensive strategic partnership and urged implementation of the leaders’ consensus, using the China‑Belarus Intergovernmental Cooperation Committee and other mechanisms to deepen mutually beneficial cooperation and support each side’s modernization. Snopkov said Belarus is willing to deepen pragmatic, cross‑sector cooperation and advance bilateral ties."
+    },
+    {
+      "id": "4967762",
+      "time": "2026-07-02 21:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：無人機襲擊擊中伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。"
+    },
+    {
+      "id": "mkt:019f22ef-ba47-7aab-8c7b-2043b0e3232e",
+      "time": "2026-07-02 21:06:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Weak nonfarm payrolls may still please Fed】Analyst Enda Curran said the weaker-than-expected nonfarm payrolls could still be welcomed by the Federal Reserve. Despite the miss, the labor market has improved year-on-year, and with oil prices down and signs of employment stabilizing, Curran said the Fed would likely be satisfied with the result."
+    },
+    {
+      "id": "4967761",
+      "time": "2026-07-02 21:05:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部披露聯邦航空管理局撥款規模達 17.76 億美元。"
+    },
+    {
+      "id": "4967760",
+      "time": "2026-07-02 21:05:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股價在公佈第二季度交付資料後下跌1.8%。"
+    },
+    {
+      "id": "4967759",
+      "time": "2026-07-02 21:05:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特斯拉盤前一度拉昇漲超2%，現回落至不足1%，Q2總交付量為480,126輛，高於市場預估。"
+    },
+    {
+      "id": "mkt:019f22ef-31af-7aab-8c7b-1ab13cded906",
+      "time": "2026-07-02 21:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) shares jumped as much as 2% premarket but have pared gains to under 1% after reporting Q2 total deliveries of 480,126 vehicles, above market expectations."
+    },
+    {
+      "id": "te:economy:563797",
+      "time": "2026-07-02 21:05:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Labor Force Participation Rate",
+        "Importance 0"
+      ],
+      "text": "US Labor Force Participation Rate Falls to 61.5% — The Labor Force Participation Rate in the United States decreased by 0.3 percentage points to 61.5% in June 2025. It is the lowest rate since February 2021, as 720,000 people left the labor force."
+    },
+    {
+      "id": "4967758",
+      "time": "2026-07-02 21:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "據敘利亞國家電視臺：大馬士革爆炸事件系炸彈引起。"
+    },
+    {
+      "id": "mkt:019f22ee-5ac3-7aab-8c7b-11de5863f343",
+      "time": "2026-07-02 21:04:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian state TV says a Damascus explosion was caused by a bomb."
+    },
+    {
+      "id": "4967757",
+      "time": "2026-07-02 21:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "行星公司與伊薩爾航天公司合作推出德國首個自主建造衛星火箭任務。"
+    },
     {
       "id": "4967756",
       "time": "2026-07-02 21:04:08",

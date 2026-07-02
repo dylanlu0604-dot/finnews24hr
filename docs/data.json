@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-02 21:04:58",
-  "count": 13831,
+  "updated": "2026-07-02 21:09:00",
+  "count": 13836,
   "items": [
+    {
+      "id": "4967764",
+      "time": "2026-07-02 21:07:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據媒體Semafor： 伊朗局勢衝突推高燃油價格，進而帶動非洲電動汽車銷量上漲。"
+    },
+    {
+      "id": "mkt:019f22f0-c993-7aab-8c7b-468877d3f331",
+      "time": "2026-07-02 21:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Department of Transportation has allocated $1.776 bln to FAA grant projects to upgrade airports nationwide."
+    },
+    {
+      "id": "mkt:019f22f0-54e3-7aab-8c7b-3bc7555fa4da",
+      "time": "2026-07-02 21:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Security sources said a drone strike hit a camp of an Iranian Kurdish opposition group north of Erbil, Iraq."
+    },
+    {
+      "id": "4967763",
+      "time": "2026-07-02 21:06:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【劉國中會見白俄羅斯第一副總理斯諾普科夫】中共中央政治局委員、國務院副總理劉國中7月2日在京會見白俄羅斯第一副總理斯諾普科夫。劉國中表示，6月29日，習近平主席同盧卡申科總統舉行了富有成果的會見，為中白全天候全面戰略伙伴關係發展注入新動力。雙方要落實好兩國元首重要共識，充分發揮中白政府間合作委員會等機制作用，推動互利合作走深走實，更好促進各自現代化建設和民族振興。斯諾普科夫表示，願同中方深化各領域務實合作，推動白中關係不斷邁上新臺階。（新華社）"
+    },
+    {
+      "id": "mkt:019f22f0-3afa-7aab-8c7b-364f333387da",
+      "time": "2026-07-02 21:06:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Nonfarm payrolls make Fed rate hike harder to justify, analyst says】Analyst Jersey said today's nonfarm payrolls make a Fed rate hike harder to implement. While markets still price the Fed's next move as a hike, the report highlights that a rate increase could threaten the employment side of the Fed's dual mandate. Although Walsh sought to downplay the employment mandate, Jersey expects an FOMC majority will worry a hike could hurt jobs; absent inflation sustainably above 3% and expected to remain there, they will hold the policy rate unchanged until a clear trend shift."
+    },
+    {
+      "id": "mkt:019f22f0-2edd-7aab-8c7b-2b38e8be2f3c",
+      "time": "2026-07-02 21:06:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Liu Guozhong meets Belarus First Deputy Prime Minister Snopkov】China Politburo member and Vice Premier Liu Guozhong met Belarus First Deputy Prime Minister Snopkov in Beijing on July 2. Liu said President Xi’s June 29 meeting with President Lukashenko had injected fresh momentum into the China‑Belarus all‑weather comprehensive strategic partnership and urged implementation of the leaders’ consensus, using the China‑Belarus Intergovernmental Cooperation Committee and other mechanisms to deepen mutually beneficial cooperation and support each side’s modernization. Snopkov said Belarus is willing to deepen pragmatic, cross‑sector cooperation and advance bilateral ties."
+    },
+    {
+      "id": "4967762",
+      "time": "2026-07-02 21:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：無人機襲擊擊中伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。"
+    },
+    {
+      "id": "mkt:019f22ef-ba47-7aab-8c7b-2043b0e3232e",
+      "time": "2026-07-02 21:06:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Weak nonfarm payrolls may still please Fed】Analyst Enda Curran said the weaker-than-expected nonfarm payrolls could still be welcomed by the Federal Reserve. Despite the miss, the labor market has improved year-on-year, and with oil prices down and signs of employment stabilizing, Curran said the Fed would likely be satisfied with the result."
+    },
+    {
+      "id": "4967761",
+      "time": "2026-07-02 21:05:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部披露聯邦航空管理局撥款規模達 17.76 億美元。"
+    },
+    {
+      "id": "4967760",
+      "time": "2026-07-02 21:05:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股價在公佈第二季度交付資料後下跌1.8%。"
+    },
+    {
+      "id": "4967759",
+      "time": "2026-07-02 21:05:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特斯拉盤前一度拉昇漲超2%，現回落至不足1%，Q2總交付量為480,126輛，高於市場預估。"
+    },
+    {
+      "id": "mkt:019f22ef-31af-7aab-8c7b-1ab13cded906",
+      "time": "2026-07-02 21:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) shares jumped as much as 2% premarket but have pared gains to under 1% after reporting Q2 total deliveries of 480,126 vehicles, above market expectations."
+    },
+    {
+      "id": "te:economy:563797",
+      "time": "2026-07-02 21:05:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Labor Force Participation Rate",
+        "Importance 0"
+      ],
+      "text": "US Labor Force Participation Rate Falls to 61.5% — The Labor Force Participation Rate in the United States decreased by 0.3 percentage points to 61.5% in June 2025. It is the lowest rate since February 2021, as 720,000 people left the labor force."
+    },
+    {
+      "id": "4967758",
+      "time": "2026-07-02 21:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "據敘利亞國家電視臺：大馬士革爆炸事件系炸彈引起。"
+    },
+    {
+      "id": "mkt:019f22ee-5ac3-7aab-8c7b-11de5863f343",
+      "time": "2026-07-02 21:04:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian state TV says a Damascus explosion was caused by a bomb."
+    },
+    {
+      "id": "4967757",
+      "time": "2026-07-02 21:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "行星公司與伊薩爾航天公司合作推出德國首個自主建造衛星火箭任務。"
+    },
     {
       "id": "4967756",
       "time": "2026-07-02 21:04:08",
@@ -127231,112 +127387,6 @@
         "其他"
       ],
       "text": "科技記者古爾曼補充蘋果更多漲價資訊：Mac Studio 漲價 500 美元，現售價 2499 美元；基礎款 iPad 449 美元，iPad mini 599 美元。"
-    },
-    {
-      "id": "4955311",
-      "time": "2026-06-25 21:08:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲1%，現報2451.00元。"
-    },
-    {
-      "id": "mkt:019efee5-3987-7dd8-b11d-744d31010bc3",
-      "time": "2026-06-25 21:08:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot silver traded above $59/oz, rising 2.68% on the day."
-    },
-    {
-      "id": "4955310",
-      "time": "2026-06-25 21:07:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲2%，現報14349.00元。"
-    },
-    {
-      "id": "4955309",
-      "time": "2026-06-25 21:07:24",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【信聯科技創業板IPO稽核狀態變更為'已受理'】山東高速信聯科技股份有限公司創業板IPO稽核狀態變更為'已受理'，保薦機構為中泰證券。"
-    },
-    {
-      "id": "4955308",
-      "time": "2026-06-25 21:06:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鈀金上漲3%，報每盎司1,201.05美元。"
-    },
-    {
-      "id": "4955307",
-      "time": "2026-06-25 21:06:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST惠倫：擬出資1000萬元在上海市設立全資子公司】ST惠倫6月25日公告，公司擬以自有資金出資人民幣1000萬元在上海市設立全資子公司從事主營產品銷售等業務。本次對外投資事項在公司董事會審批許可權範圍內，無需提交公司股東會審議。"
-    },
-    {
-      "id": "mkt:019efee3-456b-7dd8-b11d-69c8f0a914c4",
-      "time": "2026-06-25 21:06:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium rose 3% to $1,201.05 per ounce."
-    },
-    {
-      "id": "4955306",
-      "time": "2026-06-25 21:05:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌重組 AI 編碼專項攻堅團隊，全力追趕 Anthropic 高利潤商用 AI 業務】據熟悉本次架構調整的知情人士透露，谷歌正在重組不久前剛成立、專注 AI 編碼工具研發的專項攻堅小組，試圖在盈利前景最豐厚的前沿 AI 應用賽道縮小與 Anthropic 的差距。知情人士表示，這支成立僅數月的攻堅小組將調整谷歌大模型的訓練思路，同步提升模型程式碼生成能力與 PPT 製作等多場景創作能力。這一調整思路與 Anthropic、OpenAI 的戰略方向一致：二者均在把 AI 編碼工具拓展至企業各類辦公業務場景。本次調整除拓寬攻堅小組業務邊界外，還將這支原本短期專案制團隊固化為常設正式組織。此次架構重組恰逢兩位核心高管離職，市場由此擔憂谷歌能否持續領跑高效能大模型研發迭代。儘管 AI 熱潮整體讓谷歌大幅受益，但公司始終難以高效調配人力與算力資源，直面 Anthropic、OpenAI 的競爭。"
-    },
-    {
-      "id": "te:markets:561903",
-      "time": "2026-06-25 21:05:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds on Thursday — Gold traded above $4,000 per ounce on Thursday, rebounding from earlier losses as a weaker US dollar and lower Treasury yields provided support after the latest US PCE inflation report came in broadly in line with expectations. While inflation remains well above the Fed’s 2% target, the data eased concerns about a sharper-than-expected acceleration in price pressures. Meanwhile, oil prices continued to retreat and have now returned to levels seen before the outbreak of the Iran conflict, further alleviating inflation worries. As a result, traders pared back expectations for additional monetary tightening, with the probability of a Fed rate hike in September falling to 63% from 68% the previous day. Despite Thursday’s rebound, gold remains down roughly 5% year-to-date and nearly 20% below its January record high, reached before the escalation of the conflict involving Iran."
-    },
-    {
-      "id": "mkt:019efee2-dd0c-7dd8-b11d-67d2121854d0",
-      "time": "2026-06-25 21:05:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, Google (GOOG.O) plans to reorganize its AI programming strike team to catch up with Anthropic."
-    },
-    {
-      "id": "4955305",
-      "time": "2026-06-25 21:05:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金價持續下跌 金店客流不增反降】受國際金價持續下跌的影響，國內品牌金飾價格同步大幅下調。6月25日，記者走訪深圳多家品牌金飾門店發現，金飾零售價已跌至年內新低，周大福首飾金報每克1222元左右，一些品牌推出滿減活動，首飾金克價低至1100元。而在深圳水貝市場，金飾的克價約1042元。而在今年1月的行情高點，水貝金飾克價曾突破1400元。資本市場的反應更為明顯。25日，A股和港股市場上的黃金概念股幾乎全線下跌。其中，老鋪黃金的股價跌幅超過8%。 有品牌金飾門店的工作人員告訴記者，雖然金價不像過去那樣“大起大落”，但最近持續震盪下跌的走勢還是影響了消費者的心理，近期金店客流不增反降，多數消費者持幣觀望，門店成交維持低位。“端午節假期幾天的生意還不錯，但這周的生意額就明顯回落了。” 隨著金價持續走低，黃金回收價也隨之下調。水貝市場的價格顯示，25日的黃金回收價格在每克855元左右。鍾經理表示，最近有不少本來就擔心黃金價格“高處不勝寒”的消費者賣掉黃金變現。（證券時報）"
     }
   ]
 }
