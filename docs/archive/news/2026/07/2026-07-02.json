@@ -1,7 +1,161 @@
 {
   "date": "2026-07-02",
-  "count": 1763,
+  "count": 1779,
   "items": [
+    {
+      "id": "mkt:019f21f8-13f9-7aab-8c72-0288348a998a",
+      "time": "2026-07-02 16:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank vice chairman said bank competitiveness and high capital adequacy ratios are not mutually exclusive."
+    },
+    {
+      "id": "mkt:019f21f8-0776-7aab-8c71-f9e3853f0265",
+      "time": "2026-07-02 16:35:30",
+      "tags": [
+        "MKT News",
+        "UBS.O",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank vice chairman said liquidity and capital measures are key to addressing weaknesses exposed by the Credit Suisse crisis. Using CET1 capital to fully back overseas holdings will fill the shortfall; the measure is proportionate and will bring UBS in line with international peers."
+    },
+    {
+      "id": "4967010",
+      "time": "2026-07-02 16:34:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST京機：股票連續三日漲幅偏離值超12% 提示多項風險】ST京機公告稱，公司股票在2026年6月30日、7月1日、7月2日連續三個交易日內收盤價格漲幅偏離值累計超過12%，屬於異常波動。經核查，公司前期披露資訊無更正補充，未發現媒體報道未公開重大資訊，經營正常，無應披露未披露重大事項，控股股東及實控人未買賣公司股票。此外，公司尚未收到湖北證監局最終處罰決定，2026年半年度財務資料正在核算中，提醒投資者注意風險。"
+    },
+    {
+      "id": "4967009",
+      "time": "2026-07-02 16:34:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生指數：因網易納入港股通之恒生指數系列成份股變動】恒生指數公告，因網易-S(09999.HK)已獲納入港股通並符合相關指數的快速納入規則要求，網易將於2026年7月17日收市後被納入以下指數，並於2026年7月20日起生效。"
+    },
+    {
+      "id": "mkt:019f21f7-3996-7aab-8c71-f605426a3cfc",
+      "time": "2026-07-02 16:34:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Onshore yuan closed at 6.7866 per US dollar at 16:30 on July 2, up 69 pips from the previous session."
+    },
+    {
+      "id": "4967008",
+      "time": "2026-07-02 16:34:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華聯控股：“華聯A區”城市更新單元計劃有效期延至2027年6月8日】華聯控股公告稱，“華聯A區”城市更新單元此前被列入《2023年深圳市南山區城市更新單元計劃第二批計劃》。近日，南山區城市更新局釋出補充公告，專案更新單元計劃有效期調整已獲區政府批准，在原計劃有效期基礎上延期一年，至2027年6月8日止。公司將開展後續專項規劃指標調整等工作，推動專案實施。"
+    },
+    {
+      "id": "4967007",
+      "time": "2026-07-02 16:34:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化：截至6月底累計回購A股2.50億元】中國石化公告稱，公司於2026年6月15日審議透過回購方案，預計回購金額5億元-10億元，回購期限為2026年6月15日-9月14日，用途為維護公司價值及股東權益。2026年6月18日首次實施回購，截至6月30日，累計回購A股53,790,690股，佔總股本的0.04%，支付總金額249,999,599.50元（不含交易費），回購價格4.44元/股-4.87元/股，回購股份將用於登出並減少註冊資本。"
+    },
+    {
+      "id": "4967006",
+      "time": "2026-07-02 16:34:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【杭華股份：股價連續兩日漲幅偏離值超30% 提示投資風險】杭華股份公告稱，公司股票於2026年7月1 - 2日連續兩個交易日內日收盤價格漲幅偏離值累計超過30%，屬於異常波動。經自查，公司目前經營正常，2026年一季度營收2.98億元，同比增長5.51%；淨利潤2797.85萬元，同比降1.23%；扣非淨利潤2674.52萬元，同比增11.56%。截至公告日，不存在應披露未披露的重大資訊。公司提示投資者注意投資風險。"
+    },
+    {
+      "id": "te:economy:563732",
+      "time": "2026-07-02 16:33:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Gilt Yields Follow US Treasuries Higher Before Jobs Data — UK 10-year gilt yields rose to 4.8%, hitting a one-week high as they followed US Treasury yields higher, with investors awaiting US jobs data later in the day. Markets also digested remarks from central bankers at the ECB’s Sintra Forum. Bank of England Governor Andrew Bailey maintained a dovish tone, citing a softening UK economy but ruling out near-term rate cuts due to lingering inflation risks. Meanwhile, Fed Chair Kevin Warsh noted that inflation expectations have eased recently, though he reaffirmed the Fed’s commitment to its 2% target. UK political shifts are unlikely to impact sterling until late July, when Andy Burnham is expected to take office as Prime Minister. Elsewhere, markets welcomed progress in indirect US-Iran talks, with Qatar set to schedule the next meeting soon, while oil prices continued to decline as more shipments moved through the Strait of Hormuz."
+    },
+    {
+      "id": "4967005",
+      "time": "2026-07-02 16:33:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾生物：擬以5000萬元-1億元回購公司股份】海爾生物公告，擬以5000萬元-1億元回購公司股份，回購價格不超過46元/股。"
+    },
+    {
+      "id": "4967004",
+      "time": "2026-07-02 16:33:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀計劃在美國推出新雲服務，以滿足市場對AI算力的強勁需求】7月2日，軟銀集團和軟銀公司宣佈，將成立一家名為SB Neo Inc.（暫定名）的公司，該公司將在美國運營新雲（“neocloud”）業務。SB Neo將於2026年7月在美國成立，軟銀公司將持股51%，母公司軟銀集團將持股49%。該公司將依託軟銀集團正在推進的10吉瓦級能源與AI基礎設施，在截至2027財年內正式推出新雲服務，為美國大型企業提供大規模AI模型訓練與推理所需的計算資源。此外，為應對美國市場對AI算力的強勁需求，SB Neo將分階段擴大服務能力，並計劃後續部署10吉瓦規模的AI基礎設施。據報道，知情人士透露，在美國提供新雲服務運營，可能使軟銀公司的年營業利潤輕鬆增長三到四倍，達到3萬億至4萬億日元（約合185億至250億美元）。"
+    },
+    {
+      "id": "te:markets:563730",
+      "time": "2026-07-02 16:33:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Futures Near 2-Month Low — Rubber futures fell below 210 US cents per kilogram in early July, near their lowest level in almost two months, as a weakening outlook for Chinese auto demand and improving supply prospects weighed on prices. Concerns over tire demand intensified after BYD's domestic sales fell 22% year-on-year in June, while the China Passenger Car Association lowered its 2026 car sales forecast to an 11% decline from a previously projected 1% drop. Meanwhile, rubber output increased across major Southeast Asian producers, including Thailand, Indonesia, and Vietnam. Indonesia and Vietnam are entering their seasonal production upswing, with favorable weather boosting latex yields and tapping activity, further improving supply prospects. Oil prices also extended their losses, remaining close to pre-conflict levels and adding pressure to natural rubber, which competes with petroleum-based synthetic rubber."
+    },
+    {
+      "id": "4967003",
+      "time": "2026-07-02 16:33:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧特維：公司在光模組領域已經實現AOI檢測裝置批次供貨】奧特維(688516.SH)釋出投資者關係活動記錄表公告，公司在光模組領域已經實現AOI檢測裝置批次供貨，公司正基於半導體封裝領域的技術積累，積極拓展光模組相關裝置的研發與佈局。公司半導體裝置訂單自2024年開始實現高速增長，2025年半導體業務新簽訂單金額超過2.5億元，增速達107%。隨著公司裝置逐漸透過客戶端驗證並收穫批次復購訂單，公司半導體裝置業務中長期增長確定性較強。"
+    },
+    {
+      "id": "mkt:019f21f5-d0a3-7aab-8c71-ecab8e802c1c",
+      "time": "2026-07-02 16:33:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact mixed"
+      ],
+      "text": "HSI will announce results of the Hang Seng Index series review for Q2 2026 on Friday, Aug 21, 2026."
+    },
+    {
+      "id": "4967002",
+      "time": "2026-07-02 16:33:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數：將於2026年8月21日(星期五)宣佈2026年第二季度之恒生指數系列檢討結果。"
+    },
+    {
+      "id": "mkt:019f21f5-9798-7aab-8c71-e31dee4fd4ec",
+      "time": "2026-07-02 16:32:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Bank of England: lenders expect mortgage demand to increase in the three months to the end of August."
+    },
     {
       "id": "4967001",
       "time": "2026-07-02 16:32:27",
