@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-03 03:00:33",
-  "count": 13834,
+  "updated": "2026-07-03 03:04:27",
+  "count": 13819,
   "items": [
+    {
+      "id": "4968237",
+      "time": "2026-07-03 03:03:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7830元，較週三夜盤收盤漲50點。成交量605.08億美元。"
+    },
+    {
+      "id": "4968236",
+      "time": "2026-07-03 03:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。"
+    },
+    {
+      "id": "mkt:019f2434-bb08-7aab-8c83-52780b8187dc",
+      "time": "2026-07-03 03:01:03",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot."
+    },
+    {
+      "id": "4968235",
+      "time": "2026-07-03 03:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。"
+    },
+    {
+      "id": "4968234",
+      "time": "2026-07-03 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。"
+    },
+    {
+      "id": "mkt:019f2433-863c-7aab-8c83-48279980d04d",
+      "time": "2026-07-03 02:59:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "SMH"
+      ],
+      "text": "【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market."
+    },
+    {
+      "id": "4968233",
+      "time": "2026-07-03 02:59:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。"
+    },
     {
       "id": "4968232",
       "time": "2026-07-03 02:57:57",
@@ -127245,198 +127308,6 @@
         "國際"
       ],
       "text": "市場訊息：美國多家軍工企業週三向特朗普表示希望獲得更多資金支援。"
-    },
-    {
-      "id": "4955813",
-      "time": "2026-06-26 03:04:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：預計墨西哥經濟第二季度將實現擴張。"
-    },
-    {
-      "id": "4955812",
-      "time": "2026-06-26 03:04:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：核心通脹預計將在2027年第二季度收斂至3%的目標水平。"
-    },
-    {
-      "id": "mkt:019f002b-1321-7dd8-b125-2f1e068fa37d",
-      "time": "2026-06-26 03:04:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "White House official says the US is investigating an attack on a vessel in the Strait of Hormuz."
-    },
-    {
-      "id": "4955811",
-      "time": "2026-06-26 03:03:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國通訊業工人協會（CWA）：與美國廣播公司電視網（ABC-TV）達成的新合同承諾，未來四年薪資將分別上漲3%、4%、3%與3.75%。"
-    },
-    {
-      "id": "4955810",
-      "time": "2026-06-26 03:03:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行承諾後續維持 6.5% 基準利率不變。"
-    },
-    {
-      "id": "4955809",
-      "time": "2026-06-26 03:03:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：董事會預計，未來將基準利率維持在當前水平是合適的舉措。"
-    },
-    {
-      "id": "4955808",
-      "time": "2026-06-26 03:03:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：參與社群對話的人士明確表達了採取行動應對住房危機的願望。較年輕的調查參與者表示，他們已經放棄了將來擁有自己住房的念頭。在央行調查過的所有社群中，加拿大人都對生活成本表示擔憂。私營部門經濟學家認為加拿大央行過去十年中採用的核心通脹指標過多，並建議央行應側重於整體通脹。"
-    },
-    {
-      "id": "4955807",
-      "time": "2026-06-26 03:03:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測 2026 年二季度通脹率為 4%，此前預期為 4.1%。"
-    },
-    {
-      "id": "4955806",
-      "time": "2026-06-26 03:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。"
-    },
-    {
-      "id": "mkt:019f0029-54c0-7dd8-b125-26596c2de3b8",
-      "time": "2026-06-26 03:02:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures' night session closed down 0.33% at 23,005, trading 72 points below the cash index."
-    },
-    {
-      "id": "4955805",
-      "time": "2026-06-26 03:02:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：2026年6月1日全生豬存欄量同比為上年的100%，交易市場預估為100.9%。"
-    },
-    {
-      "id": "4955804",
-      "time": "2026-06-26 03:01:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮官員：現在斷定是誰在霍爾木茲島襲擊了船隻還為時過早。"
-    },
-    {
-      "id": "mkt:019f0028-e4ea-7dd8-b125-19c402166d91",
-      "time": "2026-06-26 03:01:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Mexico's board voted unanimously to keep the policy rate unchanged."
-    },
-    {
-      "id": "4955803",
-      "time": "2026-06-26 03:01:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "白 白宮官員：美國正在調查霍爾木茲海峽船隻遇襲事件。"
-    },
-    {
-      "id": "mkt:019f0028-baf2-7dd8-b125-10c1adeba77e",
-      "time": "2026-06-26 03:01:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC: younger survey respondents say they have given up the idea of owning their own home in the future."
-    },
-    {
-      "id": "4955802",
-      "time": "2026-06-26 03:01:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥銀行：在預測區間內，通脹走勢的風險平衡仍偏向上行。"
-    },
-    {
-      "id": "mkt:019f0028-7b49-7dd8-b125-0cf7724aee3d",
-      "time": "2026-06-26 03:01:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC said participants in community dialogues expressed a clear desire for action to address the housing crisis."
-    },
-    {
-      "id": "mkt:019f0028-6c18-7dd8-b125-0483d3ef5e56",
-      "time": "2026-06-26 03:01:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC says private-sector economists view the bank's reliance on too many core inf measures over the past decade and recommend the bank focus on headline inf."
-    },
-    {
-      "id": "mkt:019f0028-476b-7dd8-b124-ff82cac63b92",
-      "time": "2026-06-26 03:01:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC says a disconnect between official inflation data and Canadians' everyday experience has undermined confidence in the CPI and, by extension, in the central bank."
-    },
-    {
-      "id": "mkt:019f0028-3b47-7dd8-b124-f07ba4a7cecb",
-      "time": "2026-06-26 03:01:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC says stakeholders expressed support for a flexible inf-targeting framework and the 2% target."
-    },
-    {
-      "id": "4955801",
-      "time": "2026-06-26 03:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大銀行：各界相關方強烈支援 2% 通脹目標。"
-    },
-    {
-      "id": "mkt:019f0027-cfcb-7dd8-b124-ebfe15e36093",
-      "time": "2026-06-26 03:00:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC: In every community surveyed by the central bank, Canadians expressed concern about the cost of living."
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "date": "2026-07-03",
-  "count": 251,
+  "count": 258,
   "items": [
+    {
+      "id": "4968237",
+      "time": "2026-07-03 03:03:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7830元，較週三夜盤收盤漲50點。成交量605.08億美元。"
+    },
+    {
+      "id": "4968236",
+      "time": "2026-07-03 03:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。"
+    },
+    {
+      "id": "mkt:019f2434-bb08-7aab-8c83-52780b8187dc",
+      "time": "2026-07-03 03:01:03",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot."
+    },
+    {
+      "id": "4968235",
+      "time": "2026-07-03 03:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。"
+    },
+    {
+      "id": "4968234",
+      "time": "2026-07-03 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。"
+    },
+    {
+      "id": "mkt:019f2433-863c-7aab-8c83-48279980d04d",
+      "time": "2026-07-03 02:59:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "SMH"
+      ],
+      "text": "【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market."
+    },
+    {
+      "id": "4968233",
+      "time": "2026-07-03 02:59:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。"
+    },
     {
       "id": "4968232",
       "time": "2026-07-03 02:57:57",
