@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-02 11:14:14",
-  "count": 14014,
+  "updated": "2026-07-02 11:18:09",
+  "count": 14008,
   "items": [
+    {
+      "id": "4966450",
+      "time": "2026-07-02 11:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局：7月有2～3個颱風登陸或影響我國沿海地區】中國氣象局今天舉行新聞釋出會，對我國7月氣候趨勢進行預測分析。從降水方面來看，內蒙古東部、東北地區、華北大部、華中中南部、華東中部、華南、西南地區南部、新疆西南部、西藏西北部和東南部等地降水較常年同期偏多，全國其餘地區降水接近常年同期到偏少。氣溫方面，內蒙古東部、東北地區西北部、華南西南部、西南地區南部氣溫較常年同期偏低，全國其餘大部地區氣溫偏高，其中內蒙古西部、西北地區北部、新疆東北部偏高1～2℃。颱風方面，西北太平洋和南海海域有4～6個颱風生成，較常年同期（3.8個）偏多；有2～3個登陸或影響我國沿海地區，較常年同期（1.8個）偏多；強度總體偏強，存在較強颱風北上影響我國北方地區的風險。（央視新聞）"
+    },
+    {
+      "id": "4966449",
+      "time": "2026-07-02 11:15:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "4966448",
       "time": "2026-07-02 11:13:33",
@@ -129032,84 +129049,6 @@
         "市場"
       ],
       "text": "【算力晶片概念震盪走強 芯原股份漲超10%創歷史新高】算力晶片概念震盪走強，芯原股份漲超10%，創歷史新高，海光資訊、天普股份、寒武紀、翱捷科技、東芯股份等跟漲。"
-    },
-    {
-      "id": "mkt:019efcc8-3eac-7dd8-b10b-6645a010b0f7",
-      "time": "2026-06-25 11:17:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【No limit on fuel–electric swaps; Beijing to allocate 9,600 ordinary passenger‑car quotas by lottery】Beijing Municipal Motor Vehicle Regulation Office said at 10:00 on June 26 the city will allocate 9,600 ordinary passenger‑car quotas for families and individuals, who will enter a single joint lottery pool; an additional 400 quotas will be allocated to companies."
-    },
-    {
-      "id": "4954026",
-      "time": "2026-06-25 11:17:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【油電切換無次數限制 北京9600個普通小客車指標將搖號配置】從北京市機動車調控管理辦公室獲悉，6月26日10:00，北京市將配置家庭和個人普通小客車指標共計9600個，家庭與個人申請人進入同池搖號；另配置單位普通小客車指標400個。截至2026年3月8日24時的小客車指標申請，經稽核，家庭普通小客車指標申請共計528855個有效編碼，個人普通小客車指標申請共計2546598個有效編碼，單位普通小客車指標申請共計38406家。交通部門特別提示，北京市支援普通小客車指標購置新能源小客車。根據《〈北京市小客車數量調控暫行規定〉實施細則（2025年修訂）》第二十九條規定，持普通小客車指標購置的新能源小客車在出售、報廢后，可以申請普通小客車更新指標。按此規定，普通指標可自由切換購置燃油車或新能源車。"
-    },
-    {
-      "id": "mkt:019efcc7-eb4c-7dd8-b10b-5f9a52d35e54",
-      "time": "2026-06-25 11:17:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CSI 300 index futures main contract (IF) broke above 4,900, posting an intraday gain of 1.41%."
-    },
-    {
-      "id": "mkt:019efcc7-9f27-7dd8-b10b-578705ebc5c3",
-      "time": "2026-06-25 11:16:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China MEE moves to prevent large water-quality swings in main flood season】China's Ministry of Ecology and Environment (MEE) said at its June 25 regular press briefing that, with the country in the main flood season, it has mobilised to prevent large fluctuations in water quality. The MEE will hold prompt analysis meetings on abnormal water-quality swings, provide point-to-point guidance to local authorities to identify causes and speed remediation, and push basin-wide coordination — including upstream-downstream and left-right bank joint risk assessments and coordinated countermeasures — to prevent pollution being shifted downstream or between banks. The ministry said it will enforce closed-loop management covering problem assignment, rectification and follow-up."
-    },
-    {
-      "id": "4954025",
-      "time": "2026-06-25 11:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【生態環境部：嚴防汛期水質出現大幅波動】生態環境部今天（25日）舉行6月例行新聞釋出會，有關負責人介紹，當前我國已進入主汛期，針對汛期水質容易出現大幅波動的嚴峻形勢，生態環境部已聞汛而動，作出安排部署。生態環境部水生態環境司司長蔣火華介紹，汛期是檢驗水生態環境質量保障能力的一場“大考”。一些地方旱季“藏汙納垢”、雨季“零存整取”問題突出。從監測資料來看，汛期水質會出現大幅波動，每年6—9月全國I至Ⅲ類水質比例平均下降10個百分點，這與秋冬季容易出現重汙染天氣的情況類似。生態環境部已做出系統部署，加強風險隱患排查整治，做到早識別、早排查、早整改。充分發揮水質自動監測站作用，逐一識別汛期問題斷面，督促指導地方加密監測頻次，最佳化防控措施。對‌白洋淀、洱海、丹江口水庫和太湖、巢湖、滇池‌等新老“三湖”，及贛江、漢江等24個重點水體，及時啟動大面積水華“一湖一策”應對方案。密切關注氣象水文動態，強化應急值守和資訊報告，一旦發生突發水汙染事件，迅速啟動應急響應，及時妥善處理處置。對汛期水質異常波動等問題，生態環境部將及時開展分析會商，點對點指導地方查明原因、加快整改。同時還推動流域上下游、左右岸共同研判風險、協同制定對策，避免“上游排汙、下游買單”“左岸治理、右岸反彈”等，形成問題交辦、整改落實、跟蹤問效的閉環管理。"
-    },
-    {
-      "id": "te:economy:561716",
-      "time": "2026-06-25 11:15:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Holds Near 4-Month Low — Australia’s 10-year government bond yield held around 4.7%, sitting near a four-month low, as falling oil prices and narrowing yield spreads driven by a hawkish US policy outlook outweighed a rebound in domestic employment data. The economy added 40,300 jobs in May, rebounding from a revised decline of 40,600 in April and above market forecasts for a 30,000 increase, while the unemployment rate dipped to 4.4% from 4.5%, as expected. The latest jobs data followed Wednesday’s mixed inflation figures, which left markets split on another rate hike, priced at around 50% by year-end. Meanwhile, mounting wagers on US interest rate hikes have helped Australian bonds outperform Treasuries, shrinking the Aussie's yield premium. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to restoring price stability. Progress in US-Iran peace talks have also pushed oil prices back to pre-conflict levels and eased inflation concerns."
-    },
-    {
-      "id": "te:markets:561714",
-      "time": "2026-06-25 11:15:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Zinc Hits 7-Week Low — Zinc futures fell to around $3,410 per tonne, the lowest in seven weeks, pressured by a surging US dollar. Expectations of higher US interest rates strengthen the greenback, making dollar-priced commodities less attractive for buyers using other currencies. The downside was partly limited by progress in US-Iran talks, which reduced concerns over further disruptions to global activity and improved the industrial demand outlook. Zinc prices also remained supported by tightening supply conditions following recent disruptions at key facilities. Glencore’s Kazzinc facility in Kazakhstan remains affected by reduced operating rates after an explosion, while Nexa’s Cajamarquilla smelter in Peru has been recovering from fire-related damage. A seismic event at Boliden’s Garpenberg mine earlier this year has also raised concerns about prolonged lower output. These supply constraints come as the International Lead and Zinc Study Group forecasts a refined zinc deficit of 19,000 tonnes this year."
-    },
-    {
-      "id": "4954024",
-      "time": "2026-06-25 11:15:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【廣汽本田公佈語音換道專利，可提高自動駕駛車輛換道效率】天眼查智慧財產權資訊顯示，6月23日，廣汽本田汽車有限公司、廣汽本田汽車研究開發有限公司申請的 “基於語音互動的車輛換道控制方法、裝置、裝置及程式產品” 專利公佈。摘要顯示，本發明公開了基於語音互動的車輛換道控制方法、裝置、裝置及程式產品，包括：當車輛處於自動駕駛模式，獲取駕駛員的語音資訊，根據語音資訊識別駕駛員是否發出換道指示；當駕駛員發出換道指示，確定換道指示對應的目標車道，獲取當前車道的第一車道路況和目標車道的第二車道路況；確定車輛的換道成本、換道收益以及換道風險值，根據換道收益與換道成本的比值確定收益成本比；當收益成本比大於等於預設的第一閾值，且換道風險值小於預設的第二閾值，確定執行換道指示，根據第一車道路況和第二車道路況規劃得到目標換道路徑；根據目標換道路徑控制車輛換道至目標車道。"
     }
   ]
 }
