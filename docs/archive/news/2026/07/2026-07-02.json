@@ -1,7 +1,26 @@
 {
   "date": "2026-07-02",
-  "count": 634,
+  "count": 636,
   "items": [
+    {
+      "id": "te:markets:563576",
+      "time": "2026-07-02 09:19:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Consolidate — US heating oil prices traded around $3.20 per gallon, consolidating near their lowest levels since the Iran war after retracing much of their conflict-driven surge over the previous three months. Oil shipments through the Strait of Hormuz continued to recover, with crude flows exceeding 10 million barrels per day under US military protection, according to a US official. The UAE also restored oil exports to pre-war levels through alternative routes, while Iran's crude exports surpassed 40 million barrels after the US lifted its naval blockade. At the same time, President Donald Trump praised progress in negotiations following a round of indirect talks. On the data front, distillate stockpiles, which include diesel and heating oil, rose by 2.483 million barrels in the last week of June, compared with expectations for a 0.7 million-barrel decline. Elsewhere, UK diesel prices posted a record monthly decline in June, further signaling easing pressure across distillate fuel markets."
+    },
+    {
+      "id": "4966177",
+      "time": "2026-07-02 09:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團登記擬發行至多1.5萬億日元債券。"
+    },
     {
       "id": "4966176",
       "time": "2026-07-02 09:15:50",

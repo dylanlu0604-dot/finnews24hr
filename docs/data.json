@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-02 09:16:55",
-  "count": 14011,
+  "updated": "2026-07-02 09:21:49",
+  "count": 14001,
   "items": [
+    {
+      "id": "te:markets:563576",
+      "time": "2026-07-02 09:19:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Consolidate — US heating oil prices traded around $3.20 per gallon, consolidating near their lowest levels since the Iran war after retracing much of their conflict-driven surge over the previous three months. Oil shipments through the Strait of Hormuz continued to recover, with crude flows exceeding 10 million barrels per day under US military protection, according to a US official. The UAE also restored oil exports to pre-war levels through alternative routes, while Iran's crude exports surpassed 40 million barrels after the US lifted its naval blockade. At the same time, President Donald Trump praised progress in negotiations following a round of indirect talks. On the data front, distillate stockpiles, which include diesel and heating oil, rose by 2.483 million barrels in the last week of June, compared with expectations for a 0.7 million-barrel decline. Elsewhere, UK diesel prices posted a record monthly decline in June, further signaling easing pressure across distillate fuel markets."
+    },
+    {
+      "id": "4966177",
+      "time": "2026-07-02 09:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團登記擬發行至多1.5萬億日元債券。"
+    },
     {
       "id": "4966176",
       "time": "2026-07-02 09:15:50",
@@ -128955,134 +128974,6 @@
         "其他"
       ],
       "text": "央行開展3705億元7天期逆回購操作，操作利率為1.40%。"
-    },
-    {
-      "id": "mkt:019efc5e-08e5-7dd8-b108-6143149fd389",
-      "time": "2026-06-25 09:21:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Impact bullish",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong's Hang Seng Index opened down 23.68 points (-0.1%) at 23,388.5 on Thursday, June 25; the Hang Seng Tech Index opened up 18.25 points (+0.41%) at 4,497.27; the Hang Seng China Enterprises Index (HSCEI) opened down 7.48 points (-0.1%) at 7,757.49; the Hang Seng Red Chip Index opened down 17.96 points (-0.47%) at 3,840.2."
-    },
-    {
-      "id": "mkt:019efc5d-eda3-7dd8-b108-5f96b43e6eab",
-      "time": "2026-06-25 09:21:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "02513.HK",
-        "Impact bullish",
-        "02382.HK",
-        "00100.HK"
-      ],
-      "text": "Hong Kong open: Hang Seng opened 0.1% lower, Hang Seng Tech opened 0.41% higher. Zhipu (02513.HK) rose about 7%; Sunny Optical (02382.HK) gained more than 5%; MINIMAX-W (00100.HK) rose over 4%."
-    },
-    {
-      "id": "mkt:019efc5d-9c4e-7dd8-b108-5471deb433a3",
-      "time": "2026-06-25 09:20:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH"
-      ],
-      "text": "PBOC today conducted 370.5 bln yuan of 7-day reverse repos; bids 370.5 bln yuan, allotment 370.5 bln yuan at a 1.40% rate, unchanged."
-    },
-    {
-      "id": "4953787",
-      "time": "2026-06-25 09:20:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數漲3%。"
-    },
-    {
-      "id": "mkt:019efc5d-4022-7dd8-b108-4eb0552c79b7",
-      "time": "2026-06-25 09:20:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps Navy (IRGC Navy) said vessels transiting the Strait of Hormuz must coordinate with the IRGC on VHF channel 16; ships that ignore passage instructions will face action. It warned uncoordinated new shipping routes through Hormuz are unacceptable and dangerous."
-    },
-    {
-      "id": "mkt:019efc5c-dde7-7dd8-b108-453632aaf119",
-      "time": "2026-06-25 09:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Australia's May seasonally adjusted unemployment rate due in 10 minutes."
-    },
-    {
-      "id": "4953786",
-      "time": "2026-06-25 09:19:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家藥監局局長黃果到疫苗生產企業開展巡查督導】6月24日，國家藥監局黨組書記、局長黃果帶隊到遼寧省大連市科興（大連）疫苗技術有限公司，督導疫苗巡查檢查工作。黃果指出，要壓緊壓實監管責任與企業主體責任，嚴格對照責任清單，堅決築牢疫苗質量安全底線。要嚴格執行疫苗巡查檢查制度，持續開展對在產疫苗生產企業全覆蓋、常態化巡查，落實駐廠監督制度，把風險隱患處置在一線、管控在苗頭。要持續完善疫苗監管技術支撐體系，提升批簽發、現場檢查、藥物警戒等工作水平，以過硬的技術能力為疫苗高質量發展保駕護航。"
-    },
-    {
-      "id": "mkt:019efc5c-3f69-7dd8-b108-3fc3c664a3a1",
-      "time": "2026-06-25 09:19:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing mayor Yin Yong meets PwC global chair】On June 24, Beijing mayor Yin Yong met PwC’s global chair. Yin encouraged PwC to continue serving as a bridge, using its professional services to help global firms enter Beijing and Beijing firms expand overseas, and to share global industry and urban-governance expertise to support Beijing’s high-quality development. Beijing said it will continue to expand high-level opening-up, build a world-class business environment, and refine its \"service package\" and \"service concierge\" mechanisms to improve conditions for companies operating in the city."
-    },
-    {
-      "id": "4953785",
-      "time": "2026-06-25 09:19:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柳州工業機器人產量增長861% 外貿對東盟出口猛增55%】柳州市統計局資料顯示，1-5月全市規模以上工業增加值同比增長7.7%，較1-4月加快1.7個百分點。工業機器人、鋰離子電池、電子元件產量分別大增861.1%、139.2%、52.8%。高技術製造業增加值增長40.5%，其中電子及通訊裝置製造業增長54.8%。外貿進出口總額201.76億元，同比增長13.4%，出口189.59億元增長21.7%；其中對東盟出口58.92億元，增長54.8%。電動汽車、鋰離子蓄電池出口分別增長397.1%、302.5%。此外，軟體和資訊科技服務業投資增長30.9倍，工業技改投資增長55.8%。"
-    },
-    {
-      "id": "4953784",
-      "time": "2026-06-25 09:18:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【陶氏公司宣佈擴大有機矽產能，預計到明年底總投資額約1億美元】北京時間6月25日，陶氏公司宣佈一系列定向投資專案，預計到2027年底總投資額約1億美元，以擴大其全球特種有機矽產品的製造與創新能力。此次投資將增強陶氏公司在美國、中國和日本的特種有機矽的綜合能力，重點聚焦先進有機矽材料及其加工技術。"
-    },
-    {
-      "id": "mkt:019efc5a-f793-7dd8-b108-339bac834a60",
-      "time": "2026-06-25 09:18:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "TAMURA, a Bank of Japan policy board member, said suppressing inflation will help prevent future declines in demand and an economic recession."
-    },
-    {
-      "id": "4953783",
-      "time": "2026-06-25 09:17:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行委員田村：抑制通脹將有助於防止未來需求下降和經濟衰退。"
     }
   ]
 }
