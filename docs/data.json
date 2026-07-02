@@ -1,7 +1,166 @@
 {
-  "updated": "2026-07-02 16:44:46",
-  "count": 13864,
+  "updated": "2026-07-02 16:48:39",
+  "count": 13872,
   "items": [
+    {
+      "id": "mkt:019f2203-7885-7aab-8c72-4dd49efcdd91",
+      "time": "2026-07-02 16:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuanian president says he has reached agreement with all parliamentary parties to remove the constitutional clause banning deployment of nuclear weapons on Lithuanian territory."
+    },
+    {
+      "id": "4967040",
+      "time": "2026-07-02 16:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭部長稱，隨著歷史緊張局勢升溫，烏克蘭正扣留承諾提供的無人機技術。"
+    },
+    {
+      "id": "4967039",
+      "time": "2026-07-02 16:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濟南大資料集團在山東成立人工智慧公司 註冊資本8000萬】天眼查App顯示，近日，山東開創未來人工智慧有限公司成立，法定代表人為夏廣越，註冊資本8000萬人民幣，經營範圍包括人工智慧基礎資源與技術平臺、大資料服務、資訊系統整合服務、智慧控制系統整合等，由濟南大資料集團有限公司、邁富時企業管理（上海）有限公司、上海乘風引擎智慧技術有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f2202-e62a-7aab-8c72-454bce3a4259",
+      "time": "2026-07-02 16:47:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong government spokesperson said authorities are monitoring the impact of external uncertainties on consumption."
+    },
+    {
+      "id": "4967038",
+      "time": "2026-07-02 16:47:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鳳凰航運：股票交易異常波動 不存在應披露未披露重大事項】鳳凰航運公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動情形。經核查，公司、控股股東及實控人不存在應披露而未披露的重大事項，近期生產經營等基本面穩定，控股股東等在異常波動期間未買賣公司股票。此外，公司近兩個完整會計年度財報被出具保留意見審計報告，股價短期漲幅偏離基本面，存在較高交易風險。"
+    },
+    {
+      "id": "4967037",
+      "time": "2026-07-02 16:47:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭稱境內51處地點遇襲】烏克蘭空軍2日說，1日晚至2日凌晨，俄羅斯軍方發動大規模導彈和無人機襲擊，烏境內共有51處地點遇襲。烏克蘭總統澤連斯基說，空襲已造成13人死亡、90多人受傷。烏空軍在社交媒體上說，俄軍使用各型武器從不同方向同步發動襲擊，共發射74枚導彈，其中包括4枚“鋯石”高超音速導彈。俄軍還發射496架無人機。截至當地時間2日上午9時，俄軍導彈和無人機擊中烏境內33處地點，另有18處地點被導彈或無人機碎片擊中。澤連斯基2日在社交媒體發文稱，俄軍空襲已造成13人死亡，90多人受傷。空襲主要目標是基輔市，哈爾科夫州、基輔州、蘇梅州等地也遭到襲擊。他表示，西方盟友為烏克蘭提供防空支援是“當務之急”。（新華社）"
+    },
+    {
+      "id": "4967036",
+      "time": "2026-07-02 16:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：亞美尼亞對歐盟出口商品中，高達80%將免徵關稅。"
+    },
+    {
+      "id": "4967035",
+      "time": "2026-07-02 16:46:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟宣佈措施，以放寬與亞美尼亞的貿易限制。"
+    },
+    {
+      "id": "mkt:019f2202-1da7-7aab-8c72-3883ce1e31bc",
+      "time": "2026-07-02 16:46:31",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG GOVT spokesperson said economic expansion and tourism will benefit the retail sector."
+    },
+    {
+      "id": "4967034",
+      "time": "2026-07-02 16:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理謝里夫將於7月3日至5日訪問伊朗和土耳其。"
+    },
+    {
+      "id": "4967033",
+      "time": "2026-07-02 16:46:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著防禦性股票反彈，歐洲股指轉漲】歐洲股指在大多低開後，隨著早盤交易的推進而攀升。更多防禦性股票（即投資者認為對經濟衰退不那麼敏感的股票）反彈，其中一籃子醫療健康類股上漲1.5%，而一項食品飲料指標上漲2%。歐洲斯托克600指數上漲0.5%。雜貨商類股幫助提振英國富時100指數和法國CAC 40指數分別上漲0.5%和0.7%。德國DAX指數上漲0.3%，因製藥巨頭拜耳在獲得券商上調評級後大漲5%，不過人工智慧相關股票下跌。半導體權重較大的荷蘭AEX指數依然走低，在阿姆斯特丹市場下跌0.7%。阿斯麥下跌3.8%。義大利富時MIB指數和西班牙IBEX 35指數均上漲0.6%。"
+    },
+    {
+      "id": "mkt:019f2201-d41d-7aab-8c72-37f1197d2cf8",
+      "time": "2026-07-02 16:46:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ONS: 32% of UK firms said they have some level of concern about potential impacts of climate change on their business, up 5 percentage points from March 2026."
+    },
+    {
+      "id": "mkt:019f2201-b02f-7aab-8c72-2f868e762484",
+      "time": "2026-07-02 16:46:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ONS: In June 2026, 29% of UK businesses reported using at least one AI technology, up 8 percentage points from June 2025 and extending a three-year upward trend."
+    },
+    {
+      "id": "4967032",
+      "time": "2026-07-02 16:45:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北方華創今日跌10.00% 4家機構專用席位淨賣出7.98億元】北方華創今日跌10.00%，成交額103.46億元，換手率1.67%，盤後龍虎榜資料顯示，深股通專用席位買入12.76億元並賣出15.57億元，3家機構專用席位淨買入2.89億元，有4家機構專用席位淨賣出7.98億元。"
+    },
+    {
+      "id": "4967031",
+      "time": "2026-07-02 16:45:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗於哈梅內伊葬禮遊行前夕警告美、以切勿發動襲擊】伊朗一名軍方指揮官週四警告美國和以色列，不要對伊朗發起任何襲擊。該國正籌備最高領袖阿亞圖拉・阿里・哈梅內伊的國葬，哈梅內伊已於戰爭首日遭空襲身亡。哈塔姆安比亞中央指揮部指揮官阿里・阿卜杜拉希透過官方媒體發表宣告稱：“我們警告伊朗的敵人，尤其是美國與猶太復國主義政權（以色列），切勿誤判形勢。一旦我國遭受任何威脅與侵略，我方武裝力量必將實施嚴厲報復，望其三思。”哈梅內伊的送葬遊行將於 7 月 4 日在德黑蘭啟動，7 月 9 日在其故鄉馬什哈德下葬；期間還會在庫姆以及伊拉克舉辦配套悼念儀式。"
+    },
+    {
+      "id": "mkt:019f2201-32d0-7aab-8c72-21a983b762f8",
+      "time": "2026-07-02 16:45:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ONS: As of late June 2026, a business survey shows 64% of firms reported some concern about energy prices, broadly unchanged from early June. 68% of firms reported some concern about fuel prices, down 2 percentage points from early June."
+    },
+    {
+      "id": "te:economy:563734",
+      "time": "2026-07-02 16:45:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jordan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Jordan Producer Inflation Hits Over 3-Year High — Producer prices in Jordan increased 5.8% year-on-year in April 2026, rebounding from a 1.66% decline in the previous month and marking the first annual increase since January 2025, as well as the highest reading since November 2022. The turnaround was driven by a rebound in manufacturing prices, which rose 5.93% after a 1.87% decline in March, alongside a pick up in mining and quarrying prices, which climbed 8.98% following a 1.13% fall. At the same time, costs edged higher in electricity, gas, steam, and air conditioning supply (1.12% vs 1.0%). On a monthly basis, producer prices rose 6.98% in April, accelerating sharply from 1.17% in the previous month. Over the January–April 2026 period, producer prices fell 0.34% compared with the same period a year earlier, as declines in manufacturing prices outweighed increases in mining and electricity costs."
+    },
+    {
+      "id": "4967030",
+      "time": "2026-07-02 16:44:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜低地軌道衛星計劃新一批衛星發射升空】美國亞馬遜公司2日使用美國聯合發射聯盟公司運載火箭，將其低地軌道衛星計劃的29顆衛星送入預定軌道。 美國東部時間2日0時30分許（北京時間12時30分許），聯合發射聯盟公司的“宇宙神5”型火箭搭載29顆衛星，從佛羅里達州卡納維拉爾角太空軍基地發射升空。聯合發射聯盟公司隨後確認，衛星已按計劃部署至低地軌道。 亞馬遜低地軌道衛星計劃原名“柯伊伯計劃”，是亞馬遜公司旗下的衛星寬頻網路專案，目標是透過在低地軌道部署數千顆衛星，為使用者提供快速、可靠的網際網路服務。(新華社)"
+    },
     {
       "id": "4967029",
       "time": "2026-07-02 16:43:57",
@@ -127772,104 +127931,6 @@
         "國際"
       ],
       "text": "一名官員表示，以色列撤軍是對黎巴嫩政府表達“誠意”的行為。"
-    },
-    {
-      "id": "4954666",
-      "time": "2026-06-25 16:48:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【福萊蒽特：股價連續三日跌幅偏離值累計達20% 提示交易風險】福萊蒽特公告稱，公司股票於2026年6月23日至6月25日連續三個交易日內日收盤價格跌幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，不存在應披露未披露重大資訊。公司提醒投資者注意二級市場交易風險，同時購買IT裝置及伺服器專案屬新業務領域，收益存在不確定性。"
-    },
-    {
-      "id": "4954665",
-      "time": "2026-06-25 16:47:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海亞虹：股價連續三日跌幅偏離值超20% 控制權變更已終止】上海亞虹公告稱，公司股票於2026年6月23日、6月24日、6月25日連續三個交易日內日收盤價格跌幅偏離值累計超過20%，屬於異常波動情形。經自查，控股股東籌劃的控制權變更事項已終止，不會對公司業績和財務產生重大不利影響。公司目前生產經營正常，2025年淨利潤521.56萬元，2026年一季度淨虧損451.11萬元。提醒投資者注意交易風險。"
-    },
-    {
-      "id": "4954664",
-      "time": "2026-06-25 16:47:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：美國兩年期國債收益率或暗示美聯儲下一步行動是加息】Aptus Capital Advisors的John Luke Tyner在一份報告中表示，在過去30年裡，每次美國兩年期國債收益率升破聯邦基金利率時，美聯儲的下一步行動都是加息。“我們目前正處於這種情況，”這位基金經理兼固定收益主管表示。他說，過去幾個月裡，由於經濟強勁和通脹高企（主要與能源價格上漲有關），對美聯儲降息的預期大幅削減，並轉變為對加息的預期。聯邦基金利率為3.50%-3.75%。根據Tradeweb的資料，美國兩年期國債收益率最新報4.147%，上漲1個基點。"
-    },
-    {
-      "id": "4954663",
-      "time": "2026-06-25 16:47:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新易盛現5.63億元平價大宗交易】新易盛今日出現5.63億元平價大宗交易，成交價610.49元/股，買方為長江證券北京新源裡營業部、機構專用席位，賣方均為機構專用席位。"
-    },
-    {
-      "id": "4954662",
-      "time": "2026-06-25 16:47:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族鐳射等在深圳成立投資新公司】企查查APP顯示，近日，深圳市大族富創投資有限公司成立，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動；企業管理諮詢；資訊諮詢服務（不含許可類資訊諮詢服務）；資訊科技諮詢服務。企查查股權穿透顯示，該公司由大族鐳射等共同持股。"
-    },
-    {
-      "id": "4954661",
-      "time": "2026-06-25 16:46:20",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【策略師：市場密切關注日本干預匯市的可能性，但干預未必能扭轉局勢】隨著日元兌美元跌近近兩年來的最低水平，外匯市場正嚴陣以待，密切關注日本政府可能採取的干預行動。不過，單靠干預不太可能足以改變日元的命運。美元兌日元匯率週四最新報161.82日元，距離6月22日創下的161.92日元高點僅一步之遙。如果升破該水平，日元將跌至2024年7月以來的最低點，並可能引發日本政府部門採取行動。隨著日元下挫，日本政府高層官員不斷釋放訊號，表明他們干預外匯市場以支撐日元的意願正在升溫。日元最新一輪跌勢，正值市場對美聯儲將在年底前加息的押注不斷升溫之際。華僑銀行(OCBC)集團研究部的策略師在一份報告中表示，日本相關部門今年早些時候為支撐日元而實施的外匯干預措施的效果“目前已悉數回吐，甚至猶有過之”，美元兌日元匯率已重新站上160日元關口。這些策略師稱：“這進一步印證了這樣一種觀點，即單靠干預不足以推動美元兌日元持續性逆轉下行。”"
-    },
-    {
-      "id": "4954660",
-      "time": "2026-06-25 16:45:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滄州明珠：向特定物件發行股票申請獲深交所受理】滄州明珠公告，公司於2026年6月24日收到深圳證券交易所出具的《關於受理滄州明珠塑膠股份有限公司向特定物件發行股票申請檔案的通知》。深交所對公司報送的向特定物件發行股票的申請檔案進行了核對，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的批覆後方可實施。"
-    },
-    {
-      "id": "mkt:019efdf4-85d6-7dd8-b114-0012e0ec0d94",
-      "time": "2026-06-25 16:45:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Ukraine's prime minister said he will announce today the first €3.2 billion tranche of an EU loan."
-    },
-    {
-      "id": "te:economy:561836",
-      "time": "2026-06-25 16:45:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Trade Deficit Widens Sharply — Hong Kong's trade deficit widened sharply to HKD 44.2 billion in May 2026 from HKD 27.3 billion in the same month a year earlier. Imports surged 42.0% year-on-year to HKD 655.4 billion, driven by higher purchases of electrical machinery, apparatus and appliances and related parts (51.6%), telecommunications and sound recording equipment (61.2%), and office machines and automatic data-processing equipment (44.5%). Imports grew the most from Mainland China (51.2%), followed by Taiwan (20.3%), Singapore (24.7%), and Vietnam (76.5%). Meanwhile, exports rose 40.8% from a year earlier to a three-month low of HKD 611.2 billion, supported by robust demand for electrical machinery, apparatus and appliances and related parts (56.1%), office machines and automatic data-processing equipment (50.2%), and telecommunications and sound recording equipment (37.6%). Exports to Asia expanded 44.6%, while sales to other major markets, such as the UK (61.7%) and the US (55.7%), also strengthened."
-    },
-    {
-      "id": "4954659",
-      "time": "2026-06-25 16:45:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國5200萬人開了1.08億股票賬戶 半年增超1000萬】隨著韓國KOSPI指數持續創歷史新高，越來越多的人進入股市。尤其是今年，小型賬戶數量顯著增加，帶來了新投資者的湧入。根據韓國金融投資協會25日的資料，截至24日，所有韓國國內證券公司的活躍股票交易賬戶總數為1.0877億，按照最新統計的人均持有2個賬戶。根據大信證券按年齡組劃分的新賬戶開設分析，今年4月，0至9歲年齡段開戶率較今年1月增長了119.2%。新韓投資證券今年第一季度未成年人開戶量也同比增長了272%。（新華財經）"
     }
   ]
 }
