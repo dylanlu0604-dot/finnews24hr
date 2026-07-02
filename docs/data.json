@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-03 05:04:28",
-  "count": 13791,
+  "updated": "2026-07-03 05:08:21",
+  "count": 13793,
   "items": [
+    {
+      "id": "4968282",
+      "time": "2026-07-03 05:07:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數2日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.52%，在匯市尾市收於100.861。截至紐約匯市尾市，1歐元兌換1.1433美元，高於前一交易日的1.1380美元；1英鎊兌換1.3348美元，高於前一交易日的1.3278美元。1美元兌換161.05日元，低於前一交易日的162.53日元；1美元兌換0.8035瑞士法郎，低於前一交易日的0.8092瑞士法郎；1美元兌換1.4182加元，低於前一交易日的1.4216加元；1美元兌換9.6679瑞典克朗，低於前一交易日的9.7300瑞典克朗。"
+    },
+    {
+      "id": "te:economy:563885",
+      "time": "2026-07-03 05:06:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "South Korea FX Reserves Edge Higher in June — South Korea’s foreign exchange reserves rose to $427.4 billion at the end of June 2026 from $427.0 billion in May, marking a modest increase in the country’s external buffers. The reserve stock remained heavily concentrated in securities, which accounted for $380.3 billion, or 89.0% of total holdings. Deposits stood at $22.3 billion (5.2%), followed by Special Drawing Rights (SDRs) at $15.6 billion (3.7%), gold reserves at $4.8 billion (1.1%), and the country’s reserve position at the IMF at $4.3 billion (1.0%)."
+    },
+    {
+      "id": "4968281",
+      "time": "2026-07-03 05:04:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【現貨黃金在非農日漲超2%】週四（7月2日）紐約尾盤，現貨黃金漲2.30%，報4123.21美元/盎司，全天處於收漲狀態，過半時間持穩於4060美元附近，北京時間20:30釋出美國非農就業報告時快速拉昇至接近4140美元的水平，後續持穩於4120美元附近。COMEX黃金期貨漲1.22%，報4132.20美元/盎司，非農就業報告出爐前主要持穩於4080美元附近、資料釋出後持穩於4130美元附近。現貨白銀漲3.04%，報60.9430美元/盎司。COMEX白銀期貨漲2.87%，報61.340美元/盎司。COMEX銅期貨漲0.18%，報6.1725美元/磅。"
+    },
     {
       "id": "4968280",
       "time": "2026-07-03 05:01:10",
@@ -127044,14 +127073,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.57%，報15765點。"
-    },
-    {
-      "id": "4955881",
-      "time": "2026-06-26 05:07:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果調整Mac晶片戰略 下一代高階晶片將直接躍遷至M7系列】蘋果公司正對其Mac晶片戰略進行史上最大調整之一，準備讓下一代高階處理器直接躍遷至聚焦人工智慧的新一代晶片。知情人士稱，目前使用M5系列的蘋果計劃最早於今年推出基礎版M6處理器，用於入門級Mac，但該公司將首次跳過這款晶片的高階版本。知情人士稱，蘋果轉而計劃在2027年推出具備更先進計算和圖形處理能力的下一代Pro和Max晶片，作為新一代M7晶片的一部分。"
     }
   ]
 }
