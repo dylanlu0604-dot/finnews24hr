@@ -1,7 +1,26 @@
 {
   "date": "2026-07-03",
-  "count": 350,
+  "count": 352,
   "items": [
+    {
+      "id": "mkt:019f24b2-8922-7aab-8c84-6a6d78ccd7a5",
+      "time": "2026-07-03 05:18:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Trump said Fed chair Kevin Warsh faces a somewhat hostile C.BANK."
+    },
+    {
+      "id": "4968290",
+      "time": "2026-07-03 05:16:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.38%，報14745點。"
+    },
     {
       "id": "4968289",
       "time": "2026-07-03 05:14:04",

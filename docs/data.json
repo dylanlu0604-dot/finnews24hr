@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-03 05:16:06",
-  "count": 13800,
+  "updated": "2026-07-03 05:19:57",
+  "count": 13799,
   "items": [
+    {
+      "id": "mkt:019f24b2-8922-7aab-8c84-6a6d78ccd7a5",
+      "time": "2026-07-03 05:18:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Trump said Fed chair Kevin Warsh faces a somewhat hostile C.BANK."
+    },
+    {
+      "id": "4968290",
+      "time": "2026-07-03 05:16:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.38%，報14745點。"
+    },
     {
       "id": "4968289",
       "time": "2026-07-03 05:14:04",
@@ -127117,34 +127136,6 @@
         "國際"
       ],
       "text": "美國眾議院議長約翰遜： 在與特朗普會面後，將把住房法案送至白宮。"
-    },
-    {
-      "id": "mkt:019f00a6-df57-7dd8-b126-7a4ec67a9a1e",
-      "time": "2026-06-26 05:19:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PENTAGON updates targeting guidance to allow AI-initiated actions under human supervision】PENTAGON quietly revised US military targeting guidance in April, approving language that envisions \"systems where AI, under human supervision, can initiate actions,\" a shift from the current human-in-the-loop requirement that actions be initiated by humans. The revision underscores the Pentagon's push to accelerate AI adoption; rapid advances in AI capabilities also introduce new threats and ethical and legal dilemmas that could complicate compliance with the law of armed conflict."
-    },
-    {
-      "id": "te:economy:562003",
-      "time": "2026-06-26 05:16:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Banxico Holds Interest Rates — Banxico kept its benchmark interest rate unchanged at 6.50% during its June 2026 meeting, in line with expectations. It was noted that the economy is expected to rebound in the second quarter, although significant downside risks to activity remain. Inflation continued to ease between April and mid-June, with headline inflation down from 4.45% to 3.55%, while core inflation eased from 4.26% to 4.12%. Banxico revised down its headline inflation forecasts for the second quarter due to softer non-core prices, while slightly raising its core inflation outlook through the end of 2026. Banxico maintained its projection for headline inflation to converge to the 3% target in the second quarter of 2027. Policymakers said the balance of risks remains tilted to the upside, citing trade disruptions, geopolitical tensions, persistent core inflation, climate-related shocks, and possible peso depreciation. Banxico signaled that it will likely be keeping the policy rate at its current level."
-    },
-    {
-      "id": "4955883",
-      "time": "2026-06-26 05:16:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：與特朗普舉行了富有成效的會晤。"
     }
   ]
 }
