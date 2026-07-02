@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-03 04:48:56",
+  "updated": "2026-07-03 04:52:47",
   "count": 13796,
   "items": [
+    {
+      "id": "te:markets:563884",
+      "time": "2026-07-03 04:51:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Higher as Fed Hike Bets Ease — The Ibovespa rose 0.6% to close at 172,788 on Thursday after the release of the US payroll report, the Federal Reserve’s key gauge of labor market conditions, which came in much weaker than expected. Softer job creation reduced the likelihood of further Fed rate hikes in the coming months, improving global risk sentiment. Meanwhile, oil prices eased as the gradual normalization of shipping flows through the Strait of Hormuz raised expectations of higher supply, further easing concerns over energy-driven inflation and supporting expectations of a more dovish stance from major central banks. Financial stocks led gains, with Bradesco up 0.7% and Banco do Brasil rising 1.4%. Other notable gainers included Rede D'Or (+1.5%) and Embraer (+1.5%)."
+    },
+    {
+      "id": "4968277",
+      "time": "2026-07-03 04:51:02",
+      "tags": [
+        "行業",
+        "公司",
+        "資料",
+        "市場"
+      ],
+      "text": "【7月3日美股成交額前20：特斯拉嚴控員工AI支出，每週最高200美元】週四美股成交額第3名特斯拉收跌7.49%，成交287.74億美元。據報道，特斯拉將員工每週AI支出上限設為200美元。據該公司內部備忘錄及知情人士報道，特斯拉上月通知員工，將從7月6日起對員工的人工智慧支出設定每週200美元的上限。備忘錄稱，員工如需超過限額，需要獲得批准，但上述限額不包括xAI產品的測試版。據兩位熟悉相關使用情況的人士透露，特斯拉工程師每週經常消耗價值數千美元的詞元。"
+    },
     {
       "id": "te:markets:563883",
       "time": "2026-07-03 04:48:11",
@@ -127082,22 +127105,6 @@
         "USDJPY"
       ],
       "text": "【Dollar index down 0.18% to 101.430 at New York close on the 25th】The dollar index (DXY) fell 0.18% to 101.430 at the New York close on the 25th. EUR/USD rose to 1.1373 from 1.1355; GBP/USD rose to 1.3198 from 1.3162. USD/JPY was 161.80 versus 161.76; USD/CHF fell to 0.8098 from 0.8124; USD/CAD fell to 1.4197 from 1.4237; USD/SEK fell to 9.7352 from 9.7714."
-    },
-    {
-      "id": "4955875",
-      "time": "2026-06-26 04:51:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價25日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.58美元，收於每桶71.92美元，漲幅為2.25%；8月交貨的倫敦布倫特原油期貨價格上漲1.52美元，收於每桶75.26美元，漲幅為2.06%。"
-    },
-    {
-      "id": "4955874",
-      "time": "2026-06-26 04:50:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於101.430。截至紐約匯市尾市，1歐元兌換1.1373美元，高於前一交易日的1.1355美元；1英鎊兌換1.3198美元，高於前一交易日的1.3162美元。1美元兌換161.80日元，高於前一交易日的161.76日元；1美元兌換0.8098瑞士法郎，低於前一交易日的0.8124瑞士法郎；1美元兌換1.4197加元，低於前一交易日的1.4237加元；1美元兌換9.7352瑞典克朗，低於前一交易日的9.7714瑞典克朗。"
     }
   ]
 }
