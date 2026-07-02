@@ -1,7 +1,90 @@
 {
   "date": "2026-07-02",
-  "count": 1220,
+  "count": 1230,
   "items": [
+    {
+      "id": "4966609",
+      "time": "2026-07-02 13:21:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "江化微盤中漲停，上演“地天板”，成交額超25億元。"
+    },
+    {
+      "id": "mkt:019f2146-3667-7aab-8c6d-3c7cb5d19fe4",
+      "time": "2026-07-02 13:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey auto sales rose 11.4% YoY in June; Jan–Jun auto sales fell 8.19% YoY."
+    },
+    {
+      "id": "4966608",
+      "time": "2026-07-02 13:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江2026年1-5月發用電情況一覽】2026年1-5月，浙江全口徑發電量2173.94億千瓦時，同比增長8.69%；全社會用電量2812.62億千瓦時，同比增長7.37%。（浙江釋出）"
+    },
+    {
+      "id": "4966607",
+      "time": "2026-07-02 13:20:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊午後持續走弱 兆易創新觸及跌停】儲存晶片板塊午後持續走弱，北方華創、深科技、賽騰股份、兆易創新觸及跌停，江豐電子、精測電子、中科飛測、珂瑪科技、華海清科、芯源微、夏農芯創、利和興、神工股份跌超10%，邁為股份、立昂微、瀾起科技、微導奈米跟跌。"
+    },
+    {
+      "id": "4966606",
+      "time": "2026-07-02 13:20:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其汽車工業協會公佈資料顯示，該國6月汽車銷量同比下降11.4%。"
+    },
+    {
+      "id": "4966605",
+      "time": "2026-07-02 13:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海6G信通智谷正式啟動】6G產業化驗證中試平臺在上海6G未來產業培育區核心承載區——上海6G信通智谷7月1日正式啟動。該平臺標誌著上海6G產業“樓下研發、樓上測試、園區中試、區域量產”創新閉環基本成型。"
+    },
+    {
+      "id": "4966604",
+      "time": "2026-07-02 13:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南公積金新政：購買自住住房夫妻雙方最高貸款基準額提至120萬元】海南省住房公積金管理局釋出《關於進一步最佳化調整住房公積金貸款政策的通知》，該通知自印發之日起施行。新政明確，提高購買自住住房最高貸款基準額度。繳存人家庭購買新建、二手自住住房申請住房公積金貸款，單方繳存住房公積金的，最高貸款基準額度分別由現行新房80萬元和二手房60萬元統一提高至100萬元；夫妻雙方均繳存住房公積金的，最高貸款基準額度分別由現行新房110萬元和二手房90萬元統一提高至120萬元。"
+    },
+    {
+      "id": "mkt:019f2144-ea4c-7aab-8c6d-32207cd920ac",
+      "time": "2026-07-02 13:19:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield rose 6.0 bps to 2.760%."
+    },
+    {
+      "id": "mkt:019f2144-bd26-7aab-8c6d-2eebd817655b",
+      "time": "2026-07-02 13:19:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China rolls out nationwide pilot of occupational-injury coverage for new-form employment from this month】The Ministry of Human Resources and Social Security said a pilot program providing occupational-injury protection for workers in new forms of employment will be rolled out nationwide from this month. Newly added platform firms include nine ride‑hailing platforms — T3 Chuxing, Huaxiaozhu Chuxing, Yangguang Chuxing, Ruqi Chuxing, Xiangdao Chuxing, Jishi Yongche, Fengyun Chuxing, Shouqi Yueche and Meituan Dache — and five instant‑delivery platforms — Xiaoxiang Supermarket, Hema (Freshippo), Dingdong Maicai, Pupu Supermarket and UU Paotui. Provinces will, on a “mature one batch, include one batch” basis, incorporate locally registered small‑ and mid‑sized platform firms across three pilot industries into the program within the year."
+    },
+    {
+      "id": "4966603",
+      "time": "2026-07-02 13:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長安汽車上半年交付119.56萬輛】長安汽車上半年交付119.56萬輛，海外交付同比增長35.1%。上半年新能源交付45.6萬輛，同比增長5.2%。"
+    },
     {
       "id": "4966602",
       "time": "2026-07-02 13:16:12",

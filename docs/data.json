@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-02 13:18:34",
-  "count": 13999,
+  "updated": "2026-07-02 13:22:34",
+  "count": 14004,
   "items": [
+    {
+      "id": "4966609",
+      "time": "2026-07-02 13:21:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "江化微盤中漲停，上演“地天板”，成交額超25億元。"
+    },
+    {
+      "id": "mkt:019f2146-3667-7aab-8c6d-3c7cb5d19fe4",
+      "time": "2026-07-02 13:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey auto sales rose 11.4% YoY in June; Jan–Jun auto sales fell 8.19% YoY."
+    },
+    {
+      "id": "4966608",
+      "time": "2026-07-02 13:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江2026年1-5月發用電情況一覽】2026年1-5月，浙江全口徑發電量2173.94億千瓦時，同比增長8.69%；全社會用電量2812.62億千瓦時，同比增長7.37%。（浙江釋出）"
+    },
+    {
+      "id": "4966607",
+      "time": "2026-07-02 13:20:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊午後持續走弱 兆易創新觸及跌停】儲存晶片板塊午後持續走弱，北方華創、深科技、賽騰股份、兆易創新觸及跌停，江豐電子、精測電子、中科飛測、珂瑪科技、華海清科、芯源微、夏農芯創、利和興、神工股份跌超10%，邁為股份、立昂微、瀾起科技、微導奈米跟跌。"
+    },
+    {
+      "id": "4966606",
+      "time": "2026-07-02 13:20:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其汽車工業協會公佈資料顯示，該國6月汽車銷量同比下降11.4%。"
+    },
+    {
+      "id": "4966605",
+      "time": "2026-07-02 13:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海6G信通智谷正式啟動】6G產業化驗證中試平臺在上海6G未來產業培育區核心承載區——上海6G信通智谷7月1日正式啟動。該平臺標誌著上海6G產業“樓下研發、樓上測試、園區中試、區域量產”創新閉環基本成型。"
+    },
+    {
+      "id": "4966604",
+      "time": "2026-07-02 13:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南公積金新政：購買自住住房夫妻雙方最高貸款基準額提至120萬元】海南省住房公積金管理局釋出《關於進一步最佳化調整住房公積金貸款政策的通知》，該通知自印發之日起施行。新政明確，提高購買自住住房最高貸款基準額度。繳存人家庭購買新建、二手自住住房申請住房公積金貸款，單方繳存住房公積金的，最高貸款基準額度分別由現行新房80萬元和二手房60萬元統一提高至100萬元；夫妻雙方均繳存住房公積金的，最高貸款基準額度分別由現行新房110萬元和二手房90萬元統一提高至120萬元。"
+    },
+    {
+      "id": "mkt:019f2144-ea4c-7aab-8c6d-32207cd920ac",
+      "time": "2026-07-02 13:19:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield rose 6.0 bps to 2.760%."
+    },
+    {
+      "id": "mkt:019f2144-bd26-7aab-8c6d-2eebd817655b",
+      "time": "2026-07-02 13:19:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China rolls out nationwide pilot of occupational-injury coverage for new-form employment from this month】The Ministry of Human Resources and Social Security said a pilot program providing occupational-injury protection for workers in new forms of employment will be rolled out nationwide from this month. Newly added platform firms include nine ride‑hailing platforms — T3 Chuxing, Huaxiaozhu Chuxing, Yangguang Chuxing, Ruqi Chuxing, Xiangdao Chuxing, Jishi Yongche, Fengyun Chuxing, Shouqi Yueche and Meituan Dache — and five instant‑delivery platforms — Xiaoxiang Supermarket, Hema (Freshippo), Dingdong Maicai, Pupu Supermarket and UU Paotui. Provinces will, on a “mature one batch, include one batch” basis, incorporate locally registered small‑ and mid‑sized platform firms across three pilot industries into the program within the year."
+    },
+    {
+      "id": "4966603",
+      "time": "2026-07-02 13:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長安汽車上半年交付119.56萬輛】長安汽車上半年交付119.56萬輛，海外交付同比增長35.1%。上半年新能源交付45.6萬輛，同比增長5.2%。"
+    },
     {
       "id": "4966602",
       "time": "2026-07-02 13:16:12",
@@ -128965,49 +129048,6 @@
         "DXY"
       ],
       "text": "【Japan $2.3tn investment plan raises fresh JGB market concerns】Prime Minister Takaichi's proposed 14-year investment programme — ¥370 trillion (~$2.3tn) through March 2041 — has prompted bond strategists to warn of renewed pressure on the Japanese government bond market and questions over financing and the plan's ability to deliver growth. The government has not specified incremental fiscal outlays; several brokers say expanded borrowing would likely lift long-term yields. Masayuki Koguchi, executive fund manager at Mitsubishi UFJ Asset Management, said investors will focus on financing and that the plan will most likely be funded via government bond issuance or other measures, a result that could make JGBs difficult to buy. Daiwa Securities chief strategist Shun Otani said the plan will have a negative effect on JGBs, noting the government's assumption of roughly ¥10 trillion a year in fiscal spending and the issuance of transitional bonds, and added market uncertainty over whether the investments will produce the expected growth will push up risk premia."
-    },
-    {
-      "id": "4954181",
-      "time": "2026-06-25 13:21:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件、超級電容板塊震盪走高，風華高科觸及漲停】元件、超級電容板塊震盪走高，風華高科觸及漲停，東方鉭業、江海股份、時代新材此前封板，中天科技、振華科技跟漲。"
-    },
-    {
-      "id": "mkt:019efd39-fb94-7dd8-b10d-97aef6b8cdc9",
-      "time": "2026-06-25 13:21:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 30-year government bond yield fell 3 bps to 3.835%."
-    },
-    {
-      "id": "4954180",
-      "time": "2026-06-25 13:20:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：美聯儲可能加息兩次】丹麥銀行高階分析師Kirstine Kundby-Nielsen和首席分析師Jens Peter Sorensen在一份報告中表示，預計美聯儲將加息兩次——分別在2026年12月和2027年3月——使聯邦基金利率達到4.00%-4.25%。“不過，我們強調，存在加息可能更早到來的風險，而且加息次數可能超過兩次，“他們表示。凱文·沃什作為美聯儲主席的首次會議發出了一個明確訊號，即美聯儲正日益放棄使用圍繞未來貨幣政策決定的前瞻性指引。“所有跡象都表明，（美聯儲）傾向於在未來的政策決定中擁有更大的自由裁量權，“丹麥銀行的分析師表示。"
-    },
-    {
-      "id": "4954179",
-      "time": "2026-06-25 13:19:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "儲存晶片概念持續走強，北京君正“20cm”漲停，中微半導、太極實業此前漲停，佰維儲存、華新科技漲超10%。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606253782860038",
-      "time": "2026-06-25 13:19:36",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行審議委員田村直樹在被問及是否可能連續加息時表示，若通脹超出目標的風險成為現實，可能需要加快加息步伐。"
     }
   ]
 }
