@@ -1,7 +1,93 @@
 {
   "date": "2026-07-02",
-  "count": 948,
+  "count": 956,
   "items": [
+    {
+      "id": "mkt:019f20bb-9fa3-7aab-8c6a-c0438171ad80",
+      "time": "2026-07-02 10:49:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alipay's AI assistant Abao enters public beta】July 2 — Ant Group's Alipay said its AI assistant Abao has entered public beta. iOS and Android users can access Abao via app stores or within the Alipay app. Abao was first released for invite-only testing on June 16."
+    },
+    {
+      "id": "mkt:019f20bb-5877-7aab-8c6a-b96b4d0be6b0",
+      "time": "2026-07-02 10:49:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600172.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share lab-grown diamond sector surged; Huanghe Whirlwind hit the daily up-limit in a straight move, while Sifangda, Huifeng Diamond and Liliang Diamond also rose."
+    },
+    {
+      "id": "mkt:019f20ba-f6db-7aab-8c6a-b7505b791ed8",
+      "time": "2026-07-02 10:49:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Polish armed forces said they suspended fighter flight operations following Russian attacks on Ukraine; no airspace violations were recorded."
+    },
+    {
+      "id": "4966417",
+      "time": "2026-07-02 10:49:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【民進黨政客對民族團結進步促進法發表不當言論 國臺辦：居心叵測 不會得逞】國務院臺辦舉行例行新聞釋出會，有記者問：民族團結進步促進法已正式實施。有民進黨政客發表不當言論，請問對此有何評論？發言人朱鳳蓮表示，民族團結進步促進法的實施，有利於進一步促進兩岸經濟文化交流合作，深化兩岸各領域融合發展，推動兩岸同胞共同傳承弘揚中華文化，增進臺灣同胞對中華民族的歸屬感、認同感、榮譽感。民進黨當局頑固堅持“臺獨”分裂立場，出於政治私利一再對該法說三道四，造謠抹黑，編造謊言，故意混淆視聽，目的是煽動兩岸對立對抗，恐嚇臺灣民眾，居心叵測，不會得逞。"
+    },
+    {
+      "id": "4966416",
+      "time": "2026-07-02 10:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本2025財年稅收收入預計將達到創紀錄的84.2萬億日元。"
+    },
+    {
+      "id": "4966415",
+      "time": "2026-07-02 10:48:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方在X平臺表示，在俄羅斯對烏克蘭發動襲擊後，波蘭已提前結束戰鬥機飛行任務，目前未記錄到領空遭侵犯的情況。"
+    },
+    {
+      "id": "mkt:019f20ba-31cd-7aab-8c6a-a8ca755b64f4",
+      "time": "2026-07-02 10:48:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "China A-share precious metals sector extended gains; Zhaojin Gold, Chifeng Gold and Shan Jin International hit daily limit-ups, while Xiaocheng Technology, Western Gold, Zijin Mining and Sichuan Gold also rallied."
+    },
+    {
+      "id": "4966414",
+      "time": "2026-07-02 10:47:31",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國對涉華碳鋼及合金鋼熱軋板卷徵收反傾銷稅】近日，韓國企劃財政部發布第35號令，正式對原產於中國和日本的碳鋼及合金鋼熱軋板卷徵收反傾銷稅，其中，中國涉案產品稅率為28.16%至33.10%；與此同時，批准了三家日本企業和六家中國企業提出的價格承諾，對符合價格承諾的企業不徵收反傾銷稅。公告自發布之日起生效。"
+    },
     {
       "id": "mkt:019f20b8-5954-7aab-8c6a-a0914fd245af",
       "time": "2026-07-02 10:46:20",

@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-02 10:46:57",
-  "count": 14015,
+  "updated": "2026-07-02 10:50:48",
+  "count": 14017,
   "items": [
+    {
+      "id": "mkt:019f20bb-9fa3-7aab-8c6a-c0438171ad80",
+      "time": "2026-07-02 10:49:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alipay's AI assistant Abao enters public beta】July 2 — Ant Group's Alipay said its AI assistant Abao has entered public beta. iOS and Android users can access Abao via app stores or within the Alipay app. Abao was first released for invite-only testing on June 16."
+    },
+    {
+      "id": "mkt:019f20bb-5877-7aab-8c6a-b96b4d0be6b0",
+      "time": "2026-07-02 10:49:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600172.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share lab-grown diamond sector surged; Huanghe Whirlwind hit the daily up-limit in a straight move, while Sifangda, Huifeng Diamond and Liliang Diamond also rose."
+    },
+    {
+      "id": "mkt:019f20ba-f6db-7aab-8c6a-b7505b791ed8",
+      "time": "2026-07-02 10:49:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Polish armed forces said they suspended fighter flight operations following Russian attacks on Ukraine; no airspace violations were recorded."
+    },
+    {
+      "id": "4966417",
+      "time": "2026-07-02 10:49:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【民進黨政客對民族團結進步促進法發表不當言論 國臺辦：居心叵測 不會得逞】國務院臺辦舉行例行新聞釋出會，有記者問：民族團結進步促進法已正式實施。有民進黨政客發表不當言論，請問對此有何評論？發言人朱鳳蓮表示，民族團結進步促進法的實施，有利於進一步促進兩岸經濟文化交流合作，深化兩岸各領域融合發展，推動兩岸同胞共同傳承弘揚中華文化，增進臺灣同胞對中華民族的歸屬感、認同感、榮譽感。民進黨當局頑固堅持“臺獨”分裂立場，出於政治私利一再對該法說三道四，造謠抹黑，編造謊言，故意混淆視聽，目的是煽動兩岸對立對抗，恐嚇臺灣民眾，居心叵測，不會得逞。"
+    },
+    {
+      "id": "4966416",
+      "time": "2026-07-02 10:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本2025財年稅收收入預計將達到創紀錄的84.2萬億日元。"
+    },
+    {
+      "id": "4966415",
+      "time": "2026-07-02 10:48:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方在X平臺表示，在俄羅斯對烏克蘭發動襲擊後，波蘭已提前結束戰鬥機飛行任務，目前未記錄到領空遭侵犯的情況。"
+    },
+    {
+      "id": "mkt:019f20ba-31cd-7aab-8c6a-a8ca755b64f4",
+      "time": "2026-07-02 10:48:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "China A-share precious metals sector extended gains; Zhaojin Gold, Chifeng Gold and Shan Jin International hit daily limit-ups, while Xiaocheng Technology, Western Gold, Zijin Mining and Sichuan Gold also rallied."
+    },
+    {
+      "id": "4966414",
+      "time": "2026-07-02 10:47:31",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國對涉華碳鋼及合金鋼熱軋板卷徵收反傾銷稅】近日，韓國企劃財政部發布第35號令，正式對原產於中國和日本的碳鋼及合金鋼熱軋板卷徵收反傾銷稅，其中，中國涉案產品稅率為28.16%至33.10%；與此同時，批准了三家日本企業和六家中國企業提出的價格承諾，對符合價格承諾的企業不徵收反傾銷稅。公告自發布之日起生效。"
+    },
     {
       "id": "mkt:019f20b8-5954-7aab-8c6a-a0914fd245af",
       "time": "2026-07-02 10:46:20",
@@ -129064,64 +129150,6 @@
         "09888.HK"
       ],
       "text": "Hong Kong internet stocks slid, led by Trip.com Group-S (09961.HK) down more than 9%; Alibaba (09988.HK) off about 5%; Baidu (09888.HK) and Xiaomi Group (01810.HK) down over 3%; JD.com (09618.HK) down nearly 3% and Meituan (03690.HK) down just over 2%."
-    },
-    {
-      "id": "mkt:019efcaf-e5ee-7dd8-b10b-0be73710c3ec",
-      "time": "2026-06-25 10:50:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guo Lanfeng: Income-distribution reform needed to boost consumption, better reflect labour value】June 25 — Guo Lanfeng, chair of the China Economic System Reform Research Association, said at the 2026 Summer Davos Forum that expanding consumption and domestic demand first requires consumers’ capacity to spend. Beyond high-quality employment, raising that capacity requires income-distribution reform because labour currently holds a disadvantaged share; ordinary workers account for most consumption, so reforms should progressively let labour’s value be more fully reflected in the economic cycle."
-    },
-    {
-      "id": "4953990",
-      "time": "2026-06-25 10:50:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭蘭峰：提升消費能力需要收入分配改革 更充分體現出勞動價值】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費或者擴大國內需求，首先要有消費能力，除了高質量的就業，提升消費能力還需要收入分配改革。近年社會各界對收入分配改革的呼聲越來越強，因為勞動在收入分配中處於劣勢。大量的消費都在普通勞動者，所以收入分配製度改革，可能要逐步讓勞動價值在整體經濟迴圈中得到更充分體現。"
-    },
-    {
-      "id": "te:economy:561709",
-      "time": "2026-06-25 10:48:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds at Over 6-Week Low — The yield on the US 10-year Treasury note hovered around 4.4% on Thursday after falling roughly 10 basis points in the previous session to its lowest level in more than six weeks, as progress in US-Iran peace negotiations pushed oil prices back to pre-conflict levels and eased inflation concerns. Investors also continued to evaluate the outlook for Federal Reserve policy ahead of a key US inflation report that could help shape expectations for interest rates. Last week, the Fed signaled growing support for tighter monetary policy, with Chair Kevin Warsh reaffirming his commitment to bringing inflation under control. Market participants are now awaiting the latest PCE price index report, the Fed’s preferred measure of inflation. Other major releases due include final first-quarter GDP data, May personal income and preliminary durable goods orders figures, as well as weekly jobless claims for the period ending June 20."
-    },
-    {
-      "id": "te:markets:561708",
-      "time": "2026-06-25 10:47:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Construction Bank Stock Price Hits 4-week Low — China Construction Bank shares decreased to 8.42 HKD, the lowest since May 2026. Over the past 4 weeks, China Construction Bank lost 3.44%, and in the last 12 months, it increased 3.82%."
-    },
-    {
-      "id": "4953989",
-      "time": "2026-06-25 10:47:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河樞紐工程進入有水聯調階段】據廣西日報，6月25日，平陸運河青年樞紐啟動首次單線有水聯合除錯，標誌著平陸運河樞紐工程進入有水聯調階段。下一步，青年樞紐還將進行雙線有水聯調，這也是國內規模最大互灌互洩船閘聯合除錯，再往後還將進行實船實試驗。待企石樞紐和馬道樞紐也走完這套“體檢”流程，平陸運河就將具備通航條件。"
-    },
-    {
-      "id": "4953988",
-      "time": "2026-06-25 10:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：西江洪峰已平穩入海】水利部最新訊息，2026年6月18日以來，珠江流域中上游遭遇入汛以來最強降雨過程，西江流域42條河流發生超警以上洪水，西江於6月22日17時30分發生2026年第1號洪水，為我國今年大江大河首次編號洪水。截至6月25日上午，西江洪峰已平穩入海。"
     }
   ]
 }
