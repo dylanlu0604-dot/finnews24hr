@@ -1,7 +1,48 @@
 {
   "date": "2026-07-03",
-  "count": 51,
+  "count": 55,
   "items": [
+    {
+      "id": "4968116",
+      "time": "2026-07-03 00:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利駐德黑蘭大使館將恢復運營。"
+    },
+    {
+      "id": "te:markets:563861",
+      "time": "2026-07-03 00:27:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed sharply higher at new records on Thursday as the outlook of an improved macroeconomic backdrop lent broad support to the European corporate sector. The Euro STOXX 50 gained 1.2% to 6,355 and the STOXX Europe 600 rose 1.4% to a record of 648. Equities across the world rose after a non-farm payrolls in the US rose only half what was expected, limiting the urgency for tighter policy by the Federal Reserve, and aiding fixed-income assets in economies with exposure to the US. This followed softer inflation in the Eurozone, which supported government bonds in the bloc. UniCredit soared 4% on the final day of its offer period for German lender Commerzbank, while Deutsche Bank added more than 5%. In the meantime, the outlook of lower rates in the US aided luxury giants traded in Paris, with Hermes and LVMH both adding more than 3%. Defense stocks also rallied across Europe, lifting Rheinmetall to close 6% higher."
+    },
+    {
+      "id": "mkt:019f23a8-5ebc-7aab-8c80-ff603487919e",
+      "time": "2026-07-03 00:27:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Lebanese National News Agency said an Israeli drone struck near a hospital in the southern Lebanese town of Nabatieh."
+    },
+    {
+      "id": "4968115",
+      "time": "2026-07-03 00:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列無人機在黎巴嫩南部城鎮納巴蒂耶一所醫院附近發動襲擊。"
+    },
     {
       "id": "4968114",
       "time": "2026-07-03 00:26:24",

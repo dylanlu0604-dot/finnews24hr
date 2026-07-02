@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-03 00:27:41",
-  "count": 13929,
+  "updated": "2026-07-03 00:31:36",
+  "count": 13928,
   "items": [
+    {
+      "id": "4968116",
+      "time": "2026-07-03 00:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利駐德黑蘭大使館將恢復運營。"
+    },
+    {
+      "id": "te:markets:563861",
+      "time": "2026-07-03 00:27:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed sharply higher at new records on Thursday as the outlook of an improved macroeconomic backdrop lent broad support to the European corporate sector. The Euro STOXX 50 gained 1.2% to 6,355 and the STOXX Europe 600 rose 1.4% to a record of 648. Equities across the world rose after a non-farm payrolls in the US rose only half what was expected, limiting the urgency for tighter policy by the Federal Reserve, and aiding fixed-income assets in economies with exposure to the US. This followed softer inflation in the Eurozone, which supported government bonds in the bloc. UniCredit soared 4% on the final day of its offer period for German lender Commerzbank, while Deutsche Bank added more than 5%. In the meantime, the outlook of lower rates in the US aided luxury giants traded in Paris, with Hermes and LVMH both adding more than 3%. Defense stocks also rallied across Europe, lifting Rheinmetall to close 6% higher."
+    },
+    {
+      "id": "mkt:019f23a8-5ebc-7aab-8c80-ff603487919e",
+      "time": "2026-07-03 00:27:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Lebanese National News Agency said an Israeli drone struck near a hospital in the southern Lebanese town of Nabatieh."
+    },
+    {
+      "id": "4968115",
+      "time": "2026-07-03 00:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列無人機在黎巴嫩南部城鎮納巴蒂耶一所醫院附近發動襲擊。"
+    },
     {
       "id": "4968114",
       "time": "2026-07-03 00:26:24",
@@ -128273,48 +128314,6 @@
         "國際"
       ],
       "text": "【波斯灣原油出口反彈至戰前水平的75% 但霍爾木茲海峽並非風平浪靜】美伊簽署臨時和平協議一週後，波斯灣原油出口已恢復至戰前水平的至少75%，不過，這可能只是較容易邁出的一步。根據測算，截至週三的三天內，波斯灣地區出口原油接近1300萬桶/日，其中很大一部分來自此前滯留的貨物。伊朗和其他國家已開始清理這些積壓原油。儘管當前原油出口量較6月上半月平均水平高出約40%，但更大的問題在於，這種復甦能否持續，以及會有多少油輪願意重返海灣地區，從而使航運恢復到更正常的節奏。隨著美國和伊朗繼續敲定協議細節，可能還需要數週時間局勢才會更加明朗。此外，由於部分“暗船”仍在關閉定位訊號的情況下航行，臨時和平協議達成後的真實出口規模仍難以準確統計。美國官員估計的出口量明顯高得多。霍爾木茲海峽的重新開放很可能不會一帆風順。英國一家海軍機構週四表示，接到報告稱一艘船隻在霍爾木茲海峽遭到不明飛行物襲擊。此前數小時，已有數艘貨輪在嘗試穿越該水道時中途掉頭返航。"
-    },
-    {
-      "id": "mkt:019eff9e-809e-7dd8-b121-a7ae34c59174",
-      "time": "2026-06-26 00:30:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The United States and the Gulf Cooperation Council issued a joint statement condemning attacks in Iraq carried out by Iranian proxies."
-    },
-    {
-      "id": "4955620",
-      "time": "2026-06-26 00:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍和義大利總理梅洛尼在昂蒂布舉行的第36屆法意峰會上出席簽署儀式並發表聯合講話。"
-    },
-    {
-      "id": "mkt:019eff9e-23d9-7dd8-b121-9c51452e15fb",
-      "time": "2026-06-26 00:30:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "French President Macron and Italian Prime Minister Meloni attended a signing ceremony and delivered a joint speech at the 36th France–Italy summit in Antibes."
-    },
-    {
-      "id": "4955619",
-      "time": "2026-06-26 00:29:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta智慧實驗室招攬Virtue AI創始人團隊】Meta智慧實驗室正在招攬人工智慧安全初創企業 Virtue AI 的三位創始人及其他團隊成員。繼 Anthropic 最新系列模型釋出後又緊急下架，行業對人工智慧安全的擔憂持續升溫，在此背景下，Meta 正著力加強其智慧體相關的安全研發力量。阿克西奧斯獲取的一份內部公告顯示，人工智慧安全領域頂尖學者、Virtue AI 三位聯合創始人將加入元超級智慧實驗室。本次招聘還吸納了Virtue AI其餘團隊成員。該公司主打企業級人工智慧安全工具，業務覆蓋自動化紅藍對抗測試、執行時安全防護與人工智慧合規治理。本次人才收購的相關交易條款未對外披露。"
-    },
-    {
-      "id": "4955618",
-      "time": "2026-06-26 00:27:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德意志銀行：美光科技向投資者表示，在AI時代公司已向好轉變】德意志銀行的分析師在一份研究報告中表示，美光科技第三財季的業績在財務和戰略上都跨越了高門檻，這有助於向投資者傳達一個資訊，即在AI時代，該公司的商業模式已經發生了根本性的改變。這些分析師說，該公司提供了有關其長期客戶合同的重要細節，這些合同將確保在當前的經濟週期內實現盈利。德意志銀行的分析師表示，協議的廣度和披露的深度超出了投資者的預期。他們表示，這份報告在很大程度上表明，隨著儲存晶片成為一種戰略資產而不僅僅是大宗商品，儲存晶片行業的內在基本面動態已經發生改變。"
     }
   ]
 }
