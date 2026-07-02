@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-03 02:09:17",
-  "count": 13868,
+  "updated": "2026-07-03 02:13:10",
+  "count": 13855,
   "items": [
+    {
+      "id": "4968198",
+      "time": "2026-07-03 02:10:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構對比特幣保持謹慎樂觀 稱年底將回升至10萬美元】比特幣在今年上半年表現艱難，自1月1日以來下跌了35%，觸及約58,000美元的最新多年低點。但比特幣和其他加密貨幣在7月份開局火熱，在就業報告顯示新增就業人數少於受訪分析師此前預期後，回升至61,600美元上方。加密貨幣研究公司21shares表示，他們對2026年下半年比特幣的前景保持“謹慎樂觀”，儘管預計那些一直壓低價格的因素不會消失。“持有比特幣的錢包數量繼續增長，”該公司在一份報告中表示。“我們的年底基本預測是回升至10萬美元，而不是突破創下歷史新高。”"
+    },
+    {
+      "id": "4968197",
+      "time": "2026-07-03 02:10:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【倫敦股市2日上漲】英國倫敦股市《金融時報》100種股票平均價格指數2日報收於10652.87點，較前一交易日上漲174.53點，漲幅為1.67%。歐洲三大股指當天全線上漲。當天倫敦股市成分股中位於漲幅前五位的個股分別為：企業服務外包商巴布科克國際股價上漲5.54%，貝宜系統公司股價上漲5.45%，阿斯利康製藥公司股價上漲4.94%，投資公司梅爾羅斯工業公司股價上漲4.92%，金融投資公司聖詹姆斯廣場股價上漲4.08%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：極地資本科技信託公司股價下跌3.55%，體育博彩公司恩坦股價下跌2.14%，資訊科技服務公司康普塔森特股價下跌1.95%，約翰-戴維運動時裝公司股價下跌1.33%，保險及金融投資公司保誠集團股價下跌1.25%。"
+    },
     {
       "id": "mkt:019f2400-9a4f-7aab-8c82-8dc2a74515e5",
       "time": "2026-07-03 02:04:06",
@@ -127627,153 +127646,6 @@
         "Impact bearish"
       ],
       "text": "【WSJ: Iran attack on Singapore-flagged freighter tests US-Iran ceasefire deal】Two US senior officials told the Wall Street Journal that Iran’s Islamic Revolutionary Guard Corps attacked a Singapore-flagged freighter in the Strait of Hormuz on Thursday, an incident that tests last week’s US-Iran agreement to end hostilities and reopen the vital shipping lane. The UK Maritime Trade Operations said the vessel’s wheelhouse was damaged but there were no injuries; the strike occurred near Oman’s coast. Iranian paramilitary naval forces had warned hours earlier that ships must not use unapproved routes."
-    },
-    {
-      "id": "4955752",
-      "time": "2026-06-26 02:13:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【EDF擬就出售小型模組化反應堆子公司股權與義大利企業展開談判】據知情人士透露，法國電力公司（EDF）準備就出售其小型模組化核反應堆子公司的股權事宜，與義大利企業展開談判。週四在法國昂蒂布舉行的法意兩國領導人會晤期間，法國總統馬克龍與義大利總理焦爾吉婭·梅洛尼討論了Nuward子公司的相關計劃。EDF旗下的義大利子公司愛迪生公司（Edison）已與義大利核能企業簽署宣告，共同開發Nuward小型模組化反應堆技術，目標是在2035年前實現首批電廠投入運營。該專案旨在設計和建造小型反應堆，為更廣泛的客戶群提供低碳電力和熱能。由於電力成本高昂，義大利正考慮重返核電領域。"
-    },
-    {
-      "id": "mkt:019efffc-3167-7dd8-b123-efca007d4908",
-      "time": "2026-06-26 02:12:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Goolsbee said core inflation remains too high and is trending in the wrong direction."
-    },
-    {
-      "id": "4955751",
-      "time": "2026-06-26 02:12:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：核心通脹仍過高，走勢方向錯誤。"
-    },
-    {
-      "id": "4955750",
-      "time": "2026-06-26 02:11:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：但當前通脹水平仍遠高於目標區間。"
-    },
-    {
-      "id": "mkt:019efffb-0281-7dd8-b123-e5209b12b622",
-      "time": "2026-06-26 02:11:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOOLSBEE said it remains well above the required level."
-    },
-    {
-      "id": "mkt:019efffa-d4d8-7dd8-b123-da46523d0f4d",
-      "time": "2026-06-26 02:11:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed's Goolsbee sees some hopeful signs in services inflation."
-    },
-    {
-      "id": "4955749",
-      "time": "2026-06-26 02:11:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：服務業通脹方面看到一些希望的曙光。"
-    },
-    {
-      "id": "mkt:019efffa-b09f-7dd8-b123-d2bed1f13b81",
-      "time": "2026-06-26 02:11:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Boeing expects the first satellite to be delivered in 2031."
-    },
-    {
-      "id": "mkt:019efffa-8091-7dd8-b123-cf6dce913754",
-      "time": "2026-06-26 02:11:07",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "Boeing selected by the U.S. Space Force to expand military communications capabilities."
-    },
-    {
-      "id": "4955748",
-      "time": "2026-06-26 02:10:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音公司：MUOS衛星壽命延長合同價值高達20億美元，包括兩顆窄帶通訊衛星，首顆將於2031年交付。"
-    },
-    {
-      "id": "4955746",
-      "time": "2026-06-26 02:10:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "波音：波音獲美國太空軍選定，負責擴大全球安全軍事通訊覆蓋範圍。"
-    },
-    {
-      "id": "mkt:019efff9-f134-7dd8-b123-c5be13f55249",
-      "time": "2026-06-26 02:10:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's GOOLSBEE: Spending now premised on future returns makes me nervous about potential inf pressures."
-    },
-    {
-      "id": "4955745",
-      "time": "2026-06-26 02:10:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：當前支出依賴未來收益的狀況，令我對潛在通脹壓力感到擔憂。"
-    },
-    {
-      "id": "mkt:019efff9-c3e8-7dd8-b123-ba6ca1a8afc9",
-      "time": "2026-06-26 02:10:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's GOOLSBEE said the economy could overheat if equities price in AI-driven future productivity gains and that pricing prompts higher consumer spending."
-    },
-    {
-      "id": "4955744",
-      "time": "2026-06-26 02:09:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果人工智慧帶來的未來生產率提升已經被計入股價，民眾開始以此為基礎增加支出，這種情況可能會導致經濟過熱。"
     }
   ]
 }
