@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-02 11:51:56",
-  "count": 14001,
+  "updated": "2026-07-02 11:55:44",
+  "count": 14005,
   "items": [
+    {
+      "id": "4966511",
+      "time": "2026-07-02 11:54:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉地震死亡人數升至2295人，全國哀悼7天。（新華社）"
+    },
+    {
+      "id": "4966510",
+      "time": "2026-07-02 11:54:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【訊息人士稱日本去年稅收收入或創歷史新高】兩名政府訊息人士週四透露，日本2025財年稅收收入或突破84萬億日元（摺合5169.2億美元），連續第六年創下歷史紀錄。稅收收入的增長或將助力高市早苗內閣減少依靠新增發債來支撐大規模支出計劃。日本公共廣播機構日本放送協會（NHK）率先披露，截至今年3月結束的本財年預估稅收，較政府去年11月的預測值高出約4萬億日元。訊息人士表示，薪資上漲、企業盈利表現強勁，帶動居民與企業納稅額增加，推高了整體稅收收入。"
+    },
+    {
+      "id": "4966509",
+      "time": "2026-07-02 11:53:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東啟動防風IV級應急響應】根據氣象部門監測預報，7月2日8時，南海熱帶低壓中心位於海南萬寧市東偏南方向約380公里的南海海面上，中心附近最大風力7級（15米／秒），正在以每小時15至20公里的速度向偏西方向移動，強度逐漸增強，預計12小時內加強為編號颱風，未來幾天給廣東省帶來嚴重風雨影響。鑑於當前形勢，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部已於7月2日10時啟動防風IV級應急響應。"
+    },
+    {
+      "id": "4966508",
+      "time": "2026-07-02 11:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，日本去年稅收收入或創歷史新高。"
+    },
+    {
+      "id": "mkt:019f20f5-2d02-7aab-8c6b-cedfcea49d98",
+      "time": "2026-07-02 11:52:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty IT index rose 2.9%."
+    },
+    {
+      "id": "4966507",
+      "time": "2026-07-02 11:52:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4071.37美元/盎司。"
+    },
+    {
+      "id": "4966506",
+      "time": "2026-07-02 11:52:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報60.29美元/盎司。"
+    },
+    {
+      "id": "4966505",
+      "time": "2026-07-02 11:52:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.99%。"
+    },
+    {
+      "id": "mkt:019f20f4-da08-7aab-8c6b-c75b47c819e5",
+      "time": "2026-07-02 11:52:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the sidecar mechanism for the KOSDAQ index, suspending KOSDAQ program trading."
+    },
+    {
+      "id": "te:markets:563625",
+      "time": "2026-07-02 11:51:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Recovers from 3-Week Low — The Indian rupee strengthened to around 94.9 per dollar, retreating from three-week lows as another decline in crude oil prices supported sentiment. Brent crude extended its losses after falling 1% on Wednesday and slipping another 1%, dropping below USD 71 per barrel following signs of progress in indirect US-Iran negotiations and easing concerns over disruptions to oil supplies through the Strait of Hormuz. Although lower energy prices offered temporary relief by easing concerns over India's import bill, traders remained cautious, citing higher US Treasury yields and a stronger dollar that kept most Asian currencies under pressure. Earlier this week, the Reserve Bank of India was reportedly seen selling US dollars near the 94.75 level, but the currency continued to weaken after the intervention eased. Investors also assessed recent US economic data and remarks from Federal Reserve officials, reinforcing the importance of containing inflation, supporting demand for the US dollar."
+    },
+    {
+      "id": "4966504",
+      "time": "2026-07-02 11:51:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月2日午間漲停分析】創業板指半日跌超3%、科創50跌超4%，人形機器人概念逆勢爆發。海南海藥4連板，一圖看懂>>"
+    },
     {
       "id": "4966503",
       "time": "2026-07-02 11:50:49",
@@ -128952,67 +129048,6 @@
         "觀點"
       ],
       "text": "【國信證券6月醫藥行業投資策略：創新藥及產業鏈基本面向好】國信證券釋出研報稱，中國創新藥不僅連續在國際重要學術會議上讀出優秀的臨床資料，在海外的臨床開發同樣取得進展，即將進入在全球的商業化階段。中國CXO企業在人才紅利、化學能力、合規產能、智慧財產權保護方面具有綜合優勢。該行認為，中國企業在化學CDMO領域的核心行業地位5年內具備較強的不可替代性。此外，該行關注估值合理、邏輯改善的藥房板塊。"
-    },
-    {
-      "id": "4954084",
-      "time": "2026-06-25 11:55:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英力股份：公司暫未取得戴爾AIPC結構件訂單】英力股份6月25日在互動平臺表示，公司暫未取得戴爾AIPC結構件訂單；惠普的AIPC結構件，公司已開展樣品送樣認證工作，訂單尚未落地。"
-    },
-    {
-      "id": "4954083",
-      "time": "2026-06-25 11:54:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北緯科技：物聯網業務目前無AI玩具相關合作】北緯科技6月25日在互動平臺表示，公司物聯網業務目前無AI玩具相關合作。"
-    },
-    {
-      "id": "4954081",
-      "time": "2026-06-25 11:53:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月25日午間漲停分析】創業板指半日漲超2%、科創50漲超4%，儲存晶片、半導體概念持續爆發，全市下跌個股4300只。興業科技5連板，宏柏新材3連板，一圖看懂>>"
-    },
-    {
-      "id": "4954080",
-      "time": "2026-06-25 11:52:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國信通院人工智慧所聯合釋出《企業級智慧體技術與應用研究報告（2026年）》】6月24日，在第十四屆網際網路安全大會上，中國信通院人工智慧研究所聯合三六零安全科技股份有限公司共同釋出《企業級智慧體技術與應用研究報告（2026年）》。報告聚焦智慧體在企業級領域的應用研究，重點圍繞企業級智慧體的發展概述、技術能力、運營管理、應用實踐、趨勢展望五大篇章展開。透過梳理企業級智慧體技術與應用發展現狀，呈現行業應用成效，分析當前問題挑戰，旨在加速企業級智慧體規模化落地應用，促進產業發展。"
-    },
-    {
-      "id": "4954079",
-      "time": "2026-06-25 11:52:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【西太平洋銀行下調紐西蘭利率峰值預期】紐西蘭央行上調官方隔夜拆款利率的幅度可能不及西太平洋銀行最初的預期。預期加息幅度較小是因為，伊朗衝突的儘早解決意味著通貨膨脹前景走弱以及經濟復甦提前。西太平洋銀行預計紐西蘭央行將從9月份開始上調官方隔夜拆款利率，但在2026年僅會再收緊一次政策。這一緊縮路徑意味著官方隔夜拆款利率將在2027年底達到4.0%的峰值，隨後在2028年底回落至3.75%的中性水平。西太平洋銀行此前曾預計官方隔夜拆款利率將在4.25%觸頂。西太平洋銀行表示：“我們的核心觀點意味著，今年的加息次數比我們最新預測的少一次，但比我們在衝突爆發前的預測多一次。”"
-    },
-    {
-      "id": "te:markets:561727",
-      "time": "2026-06-25 11:52:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Rises on Falling Crude Prices — The Indian rupee strengthened to around 94.3 per dollar,reversing earlier losses and positioning for further gains as crude oil prices fell below levels seen before the Iran conflict. In the previous session, the rupee briefly neared the 95-per-dollar level before rebounding, supported by likely Reserve Bank of India intervention and comments from RBI Governor Sanjay Malhotra that weighed on forward premium levels. Support for the rupee was reinforced by a steep correction in global energy markets following the announcement of a 60-day negotiating period between the United States and Iran. The retreat in energy costs has eased worries about imported inflation for major oil-importing economies such as India. European natural gas prices have fallen about 45% from their wartime peak, while crude oil prices have declined roughly 40%. Brent crude has slipped below $80 per barrel, dropping beneath levels recorded before the Iran conflict escalated, and US crude is approaching the $70 mark."
-    },
-    {
-      "id": "4954078",
-      "time": "2026-06-25 11:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【建國慶典活動變競選式集會 特朗普再喊“美國回來了”】美國總統特朗普把他自己和他的政策描繪為美國未來偉大復興的關鍵，將一場與美國建國250週年慶典相關的活動變成了一場競選式的集會。“我非常高興地宣佈，美國回來了，”特朗普當地時間週三在華盛頓國家廣場上說道。這場臨時活動拉開了美國大州博覽會(Great American State Fair)的序幕，該博覽會將在華盛頓舉辦16天，作為週年慶典的一部分。特朗普試圖借美國建國250週年紀念之機，在政治上陷入困境、民調支援率接近歷史低點之際，提升自己的形象。此前，多名藝術家退出原定的系列音樂會，稱這些活動比他們預想的更具政治色彩。特朗普隨即著手在週三的慶祝活動中注入自己的元素。"
     }
   ]
 }
