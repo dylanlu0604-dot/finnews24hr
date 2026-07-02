@@ -1,7 +1,124 @@
 {
   "date": "2026-07-02",
-  "count": 2436,
+  "count": 2449,
   "items": [
+    {
+      "id": "4967568",
+      "time": "2026-07-02 20:01:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海黃金交易所黃金T+D 7月2日（週四）晚盤盤初上漲1.8%報886.81元/克；上海黃金交易所白銀T+D 7月2日（週四）晚盤盤初上漲2.94%報14550.0元/千克。"
+    },
+    {
+      "id": "mkt:019f22b4-5cc3-7aab-8c76-e0ae9e05694d",
+      "time": "2026-07-02 20:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) Gold T+D rose 1.8% to 886.81 yuan/gram at the start of evening trading on July 2; SGE Silver T+D rose 2.94% to 14,550.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f22b4-599a-7aab-8c76-dfbc3b063733",
+      "time": "2026-07-02 20:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: India revises drug regulations to unify regulatory oversight of gene therapies."
+    },
+    {
+      "id": "4967567",
+      "time": "2026-07-02 20:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度修訂藥品法規，統一規範基因療法監管。"
+    },
+    {
+      "id": "4967566",
+      "time": "2026-07-02 20:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥6月國內汽車銷量為126,778輛。"
+    },
+    {
+      "id": "4967565",
+      "time": "2026-07-02 20:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：捷豹路虎27財年第一財季零售銷量為8萬輛，同比下降15.3%。"
+    },
+    {
+      "id": "mkt:019f22b3-9713-7aab-8c76-d6587280bf20",
+      "time": "2026-07-02 20:00:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico domestic auto sales in June totaled 126,778 units."
+    },
+    {
+      "id": "4967564",
+      "time": "2026-07-02 20:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車業務旗下捷豹路虎（JLR）27財年第一季度批發銷量為79,300輛，同比下降9.2%。"
+    },
+    {
+      "id": "mkt:019f22b2-5425-7aab-8c76-cbfea1eaccf2",
+      "time": "2026-07-02 19:58:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldwind's Baldon wind-storage project in Australia wins AEMO, Transgrid GPS approval】Goldwind's Baldon wind-plus-storage project in Australia has secured grid-connection approval for generator performance standards (GPS) from the Australian Energy Market Operator (AEMO) and transmission operator Transgrid. Phase one is planned at 360 MW of wind capacity paired with 132 MWh of storage using Goldwind's DC-coupled wind–storage system, integrating turbines, batteries and control into a single design to boost operational flexibility and grid compatibility."
+    },
+    {
+      "id": "4967563",
+      "time": "2026-07-02 19:58:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中基健康：股票交易異常波動 預重整存在不確定性】中基健康公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日收盤價格漲幅累計偏離20.32%，屬於異常波動。經核查，公司生產經營正常，內外部環境未變，前期資訊無更正補充。2025年扣除後營收4.88億元，淨虧損4623.18萬元，已撤銷退市風險警示。公司及子公司處於預重整中，期限延至7月28日。提醒投資者注意交易和預重整不確定性風險。"
+    },
+    {
+      "id": "te:markets:563770",
+      "time": "2026-07-02 19:58:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Muted Ahead of NFP — Futures tracking US equity indices were muted on Thursday ahead of the June jobs report. Contracts for the S&P 500 hovered slightly above the flatline and those for the Dow inched higher to a new record high. The US economy is expected to have added over 100,000 jobs last month, maintaining the robust labor backdrop to add leeway for the Federal Reserve to tighten monetary policy. Still, credit-sensitive sectors continued to enjoy some respite from yesterday after Fed Chairman Warsh stated he saw pro-inflationary risks softening with the pullback in energy prices. Traditional sectors of the economy remained strong, with JPMorgan and Eli Lilly hovering near records. In turn, AI hyperscalers held yesterday's rebound. The Nasdaq 100 dropped further on a fresh decline for chip producers, extending their period of volatility as the sector's ambitious guidance clashed against concerns of overcapacity for AI infrastructure."
+    },
+    {
+      "id": "4967562",
+      "time": "2026-07-02 19:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金風科技澳洲Baldon風儲融合專案獲併網批准】近日，由金風科技與合作伙伴聯合開發的澳大利亞Baldon風儲融合專案，成功獲得澳大利亞能源市場運營機構AEMO和輸電運營商Transgrid對發電機效能標準（GPS）的併網批准。專案一期規劃360MW風電和132MWh儲能，採用金風科技創新的風儲直流耦合技術路線。與傳統的風儲獨立配置不同，Baldon專案從設計之初就將風機、儲能與控制系統作為一個整體，形成系統性解決方案，賦予電站更強的靈活調節能力和電網友好性。"
+    },
+    {
+      "id": "mkt:019f22b1-acf2-7aab-8c76-c0c53c7c1094",
+      "time": "2026-07-02 19:58:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【India oil minister says country must boost fuel and crude storage after lessons learned】India oil minister Puri said on Thursday India needs to expand oil and fuel storage capacity during periods of low prices and step up communication with bilateral partners. He said total crude stocks at ports, jetties, refineries and strategic petroleum reserves currently cover only 76–80 days and New Delhi \"should store more.\" Commenting on the Gulf crisis, Puri added the government has learned lessons and will work to increase storage capacity."
+    },
     {
       "id": "4967561",
       "time": "2026-07-02 19:56:35",

@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-02 19:58:01",
-  "count": 13792,
+  "updated": "2026-07-02 20:02:01",
+  "count": 13795,
   "items": [
+    {
+      "id": "4967568",
+      "time": "2026-07-02 20:01:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海黃金交易所黃金T+D 7月2日（週四）晚盤盤初上漲1.8%報886.81元/克；上海黃金交易所白銀T+D 7月2日（週四）晚盤盤初上漲2.94%報14550.0元/千克。"
+    },
+    {
+      "id": "mkt:019f22b4-5cc3-7aab-8c76-e0ae9e05694d",
+      "time": "2026-07-02 20:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) Gold T+D rose 1.8% to 886.81 yuan/gram at the start of evening trading on July 2; SGE Silver T+D rose 2.94% to 14,550.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f22b4-599a-7aab-8c76-dfbc3b063733",
+      "time": "2026-07-02 20:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: India revises drug regulations to unify regulatory oversight of gene therapies."
+    },
+    {
+      "id": "4967567",
+      "time": "2026-07-02 20:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度修訂藥品法規，統一規範基因療法監管。"
+    },
+    {
+      "id": "4967566",
+      "time": "2026-07-02 20:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥6月國內汽車銷量為126,778輛。"
+    },
+    {
+      "id": "4967565",
+      "time": "2026-07-02 20:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：捷豹路虎27財年第一財季零售銷量為8萬輛，同比下降15.3%。"
+    },
+    {
+      "id": "mkt:019f22b3-9713-7aab-8c76-d6587280bf20",
+      "time": "2026-07-02 20:00:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico domestic auto sales in June totaled 126,778 units."
+    },
+    {
+      "id": "4967564",
+      "time": "2026-07-02 20:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車業務旗下捷豹路虎（JLR）27財年第一季度批發銷量為79,300輛，同比下降9.2%。"
+    },
+    {
+      "id": "mkt:019f22b2-5425-7aab-8c76-cbfea1eaccf2",
+      "time": "2026-07-02 19:58:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldwind's Baldon wind-storage project in Australia wins AEMO, Transgrid GPS approval】Goldwind's Baldon wind-plus-storage project in Australia has secured grid-connection approval for generator performance standards (GPS) from the Australian Energy Market Operator (AEMO) and transmission operator Transgrid. Phase one is planned at 360 MW of wind capacity paired with 132 MWh of storage using Goldwind's DC-coupled wind–storage system, integrating turbines, batteries and control into a single design to boost operational flexibility and grid compatibility."
+    },
+    {
+      "id": "4967563",
+      "time": "2026-07-02 19:58:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中基健康：股票交易異常波動 預重整存在不確定性】中基健康公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日收盤價格漲幅累計偏離20.32%，屬於異常波動。經核查，公司生產經營正常，內外部環境未變，前期資訊無更正補充。2025年扣除後營收4.88億元，淨虧損4623.18萬元，已撤銷退市風險警示。公司及子公司處於預重整中，期限延至7月28日。提醒投資者注意交易和預重整不確定性風險。"
+    },
+    {
+      "id": "te:markets:563770",
+      "time": "2026-07-02 19:58:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Muted Ahead of NFP — Futures tracking US equity indices were muted on Thursday ahead of the June jobs report. Contracts for the S&P 500 hovered slightly above the flatline and those for the Dow inched higher to a new record high. The US economy is expected to have added over 100,000 jobs last month, maintaining the robust labor backdrop to add leeway for the Federal Reserve to tighten monetary policy. Still, credit-sensitive sectors continued to enjoy some respite from yesterday after Fed Chairman Warsh stated he saw pro-inflationary risks softening with the pullback in energy prices. Traditional sectors of the economy remained strong, with JPMorgan and Eli Lilly hovering near records. In turn, AI hyperscalers held yesterday's rebound. The Nasdaq 100 dropped further on a fresh decline for chip producers, extending their period of volatility as the sector's ambitious guidance clashed against concerns of overcapacity for AI infrastructure."
+    },
+    {
+      "id": "4967562",
+      "time": "2026-07-02 19:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金風科技澳洲Baldon風儲融合專案獲併網批准】近日，由金風科技與合作伙伴聯合開發的澳大利亞Baldon風儲融合專案，成功獲得澳大利亞能源市場運營機構AEMO和輸電運營商Transgrid對發電機效能標準（GPS）的併網批准。專案一期規劃360MW風電和132MWh儲能，採用金風科技創新的風儲直流耦合技術路線。與傳統的風儲獨立配置不同，Baldon專案從設計之初就將風機、儲能與控制系統作為一個整體，形成系統性解決方案，賦予電站更強的靈活調節能力和電網友好性。"
+    },
+    {
+      "id": "mkt:019f22b1-acf2-7aab-8c76-c0c53c7c1094",
+      "time": "2026-07-02 19:58:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【India oil minister says country must boost fuel and crude storage after lessons learned】India oil minister Puri said on Thursday India needs to expand oil and fuel storage capacity during periods of low prices and step up communication with bilateral partners. He said total crude stocks at ports, jetties, refineries and strategic petroleum reserves currently cover only 76–80 days and New Delhi \"should store more.\" Commenting on the Gulf crisis, Puri added the government has learned lessons and will work to increase storage capacity."
+    },
     {
       "id": "4967561",
       "time": "2026-07-02 19:56:35",
@@ -127023,98 +127140,6 @@
         "觀點"
       ],
       "text": "摩根大通任命羅爾博擔任消費者及社群銀行業務執行長。"
-    },
-    {
-      "id": "4955190",
-      "time": "2026-06-25 20:01:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神宇股份：部分董事、高管擬合計減持不超0.31%公司股份】神宇股份(300563)6月25日公告，公司董事/副總經理陳宏計劃減持本公司股份合計不超過12.25萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.07%）。董事/副總經理陸嶸華計劃減持本公司股份合計不超過12.125萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.07%）。副總經理劉青計劃減持本公司股份合計不超過15.03萬股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.08%）。副總經理劉斌計劃減持本公司股份合計不超過15.3股（佔剔除公司回購專用賬戶股份數量後的總股本比例0.09%）。"
-    },
-    {
-      "id": "4955189",
-      "time": "2026-06-25 20:01:35",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【易方達基金：旗下部分公募基金參與兩公司股票申購及認購】易方達基金公告稱，旗下部分公募基金參與了華潤新能源首次公開發行股票的網下申購、芯碁微裝於港交所發行的H股的認購。其中，由中信證券託管的5只公募基金參與華潤新能源申購，獲配金額從10.99萬元到85.03萬元不等；由中國銀行託管的3只公募基金參與芯碁微裝認購，獲配金額從5.05萬港元到114.99萬港元不等。"
-    },
-    {
-      "id": "mkt:019efea8-310c-7dd8-b11a-0e60dd93a5d6",
-      "time": "2026-06-25 20:01:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Reuters: Stronger U.S. PCE could reverse optimism from Micron earnings】Bank senior markets analyst Ipek Ozkardeskaya said stronger-than-expected U.S. PCE could prompt the Fed toward a more hawkish stance and reverse market optimism after Micron Technology’s earnings. She added that, with tech giants taking on more debt to pursue AI, stronger PCE could reawaken concerns about rising borrowing costs."
-    },
-    {
-      "id": "4955188",
-      "time": "2026-06-25 20:01:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通任命道格・佩特諾與特洛伊・羅爾博為聯席總裁。"
-    },
-    {
-      "id": "4955187",
-      "time": "2026-06-25 20:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "Scaled Cognition 完成 1 億美元 A 輪融資。"
-    },
-    {
-      "id": "mkt:019efea7-84e2-7dd8-b11a-067754637e36",
-      "time": "2026-06-25 20:00:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 2.22% at the start of the evening session on June 25 (Thursday) to 872.86 yuan/gram; Shanghai Gold Exchange silver T+D fell 0.74% to 13,820.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019efea7-5ca5-7dd8-b119-fe414fc75f1a",
-      "time": "2026-06-25 20:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index fell 1.63% to 2,591 points."
-    },
-    {
-      "id": "4955186",
-      "time": "2026-06-25 20:00:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨指數下跌1.63%，至2591點。"
-    },
-    {
-      "id": "4955185",
-      "time": "2026-06-25 19:59:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部駁斥歐盟稱中國協助訓練俄軍】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。 有記者問，歐盟外交與安全政策高階代表卡拉斯稱，本月早些時候歐盟方面確認，中國軍方協助訓練赴烏克蘭戰場的俄羅斯軍人。請問對此有何評論？ 張曉剛說，有關說法純屬汙衊抹黑。中方在烏克蘭危機上的立場是一貫的、明確的。中俄合作既不針對第三方，也不受第三方因素影響。（北京日報）"
-    },
-    {
-      "id": "4955184",
-      "time": "2026-06-25 19:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大中礦業：“大中轉債”6月30日起恢復轉股】大中礦業公告稱，因實施2025年度權益分派，“大中轉債”（債券程式碼：127070）自2026年6月17日起暫停轉股，暫停期限至權益分派股權登記日（6月29日）止。此外，因部分募投專案變更，“大中轉債”附加回售條款生效，回售申報期間（6月22日至6月26日）暫停轉股。“大中轉債”暫停轉股截止日以回售申報期最後一日或權益分派股權登記日孰晚為準，自6月30日起恢復轉股。"
     }
   ]
 }
