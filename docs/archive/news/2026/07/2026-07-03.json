@@ -1,7 +1,40 @@
 {
   "date": "2026-07-03",
-  "count": 244,
+  "count": 248,
   "items": [
+    {
+      "id": "4968231",
+      "time": "2026-07-03 02:55:11",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未\"如我們預期般加速\"。"
+    },
+    {
+      "id": "4968230",
+      "time": "2026-07-03 02:53:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。"
+    },
+    {
+      "id": "4968229",
+      "time": "2026-07-03 02:53:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）"
+    },
+    {
+      "id": "mkt:019f242c-cd95-7aab-8c83-37b9ef203b63",
+      "time": "2026-07-03 02:52:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, UK hold 15th Joint Economic and Trade Commission in London】MOFCOM minister Raimondo and the UK trade minister co‑chaired the 15th China‑UK Joint Economic and Trade Commission in London on July 2. China urged the UK to adjust steel quota measures that took effect July 1, saying they raise serious concerns and should be brought into compliance with WTO rules. China welcomed increased UK investment into China and asked London to provide a fair, non‑discriminatory environment for Chinese investors; the UK said it welcomes Chinese investment and will offer greater certainty and predictability. Both sides agreed to implement outcomes from the WTO’s 14th ministerial meeting and to deepen cooperation on trade, investment and multilateral issues; the UK highlighted opportunities from China’s services liberalization and proposed policy dialogue, a UK‑China services partnership and a feasibility study on a services trade agreement."
+    },
     {
       "id": "4968228",
       "time": "2026-07-03 02:50:43",

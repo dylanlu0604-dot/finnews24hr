@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-03 02:52:14",
-  "count": 13841,
+  "updated": "2026-07-03 02:56:09",
+  "count": 13840,
   "items": [
+    {
+      "id": "4968231",
+      "time": "2026-07-03 02:55:11",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未\"如我們預期般加速\"。"
+    },
+    {
+      "id": "4968230",
+      "time": "2026-07-03 02:53:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。"
+    },
+    {
+      "id": "4968229",
+      "time": "2026-07-03 02:53:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）"
+    },
+    {
+      "id": "mkt:019f242c-cd95-7aab-8c83-37b9ef203b63",
+      "time": "2026-07-03 02:52:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, UK hold 15th Joint Economic and Trade Commission in London】MOFCOM minister Raimondo and the UK trade minister co‑chaired the 15th China‑UK Joint Economic and Trade Commission in London on July 2. China urged the UK to adjust steel quota measures that took effect July 1, saying they raise serious concerns and should be brought into compliance with WTO rules. China welcomed increased UK investment into China and asked London to provide a fair, non‑discriminatory environment for Chinese investors; the UK said it welcomes Chinese investment and will offer greater certainty and predictability. Both sides agreed to implement outcomes from the WTO’s 14th ministerial meeting and to deepen cooperation on trade, investment and multilateral issues; the UK highlighted opportunities from China’s services liberalization and proposed policy dialogue, a UK‑China services partnership and a feasibility study on a services trade agreement."
+    },
     {
       "id": "4968228",
       "time": "2026-07-03 02:50:43",
@@ -127447,51 +127480,6 @@
         "S&P500"
       ],
       "text": "【EU extends tariff suspension in Airbus-Boeing dispute】EU member states have agreed to extend the tariff suspension in the long-running Airbus-Boeing dispute, covering $4 billion of U.S. goods; no end date was set. European Commission spokesman Olof Gill said Brussels is holding ongoing talks with Washington to preserve stability and keep countermeasures suspended. The dispute over alleged illegal subsidies previously led both sides to impose tariffs on about $11.5 billion of each other’s exports before a five-year truce."
-    },
-    {
-      "id": "4955794",
-      "time": "2026-06-26 02:54:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報告顯示，美國廉航公司正喪失相對於大型航空公司的競爭優勢】幾十年來重塑了美國航空旅行格局的低成本航空模式正面臨日益嚴峻的挑戰；與此同時，傳統航空公司憑藉高階艙位、高利潤的常旅客計劃以及聯名信用卡等優勢，正逐漸佔據上風。美國政府問責局（GAO）週四釋出的一份報告指出，儘管航空業的整合浪潮最終並未削弱整體競爭態勢，但廉價航空和超低成本航空曾經賴以顛覆市場的諸多優勢正在逐漸喪失，迫使這些航空公司重新審視其基於“超低票價”的商業模式。"
-    },
-    {
-      "id": "mkt:019f0022-9fa3-7dd8-b124-cf84815a2094",
-      "time": "2026-06-26 02:54:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【GAO report: US low-cost carriers losing competitive edge to legacy airlines】The low-cost airline model that reshaped US air travel over decades is facing growing headwinds, the GAO said Thursday. While industry consolidation did not ultimately reduce overall competition, many of the advantages that let low-cost and ultra-low-cost carriers disrupt the market are eroding as legacy carriers lean on premium cabins, high-margin loyalty programs and co-branded credit cards, forcing low-cost carriers to reassess ultra-low-fare business models."
-    },
-    {
-      "id": "4955793",
-      "time": "2026-06-26 02:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "I-PULSE：將與美國國家實驗室、大學及專業製造商共同開發碳化矽半導體。"
-    },
-    {
-      "id": "4955792",
-      "time": "2026-06-26 02:53:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：I-PULSE與美國商務部簽署最終協議，獲得2.5億美元晶片研發獎勵。"
-    },
-    {
-      "id": "te:markets:561991",
-      "time": "2026-06-26 02:52:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Merck Stock Price Hits 22-month High — Merck shares increased to 125.37 USD, the highest since July 2024. Over the past 4 weeks, Merck & Co gained 4.64%, and in the last 12 months, it increased 58.92%."
     }
   ]
 }
