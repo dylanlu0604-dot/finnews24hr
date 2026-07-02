@@ -1,7 +1,709 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-03 01:57:32_
-_本檔包含 2956 則快訊，約 521844 字_
+_更新時間：2026-07-03 03:47:11_
+_本檔包含 2961 則快訊，約 521400 字_
+
+---
+
+### 2026-07-03 03:45:52  #公司 #國際
+
+Palantir 執行長稱，部分美國政府客戶已轉向採用開源人工智慧方案。
+
+---
+
+### 2026-07-03 03:44:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Walsh's first week dominated by internal meetings; little Wall Street outreach】New Fed chair Kevin Walsh's first-week calendar was largely internal, with limited external engagements: a breakfast with Treasury Secretary Scott Bessent and meetings with former Fed governor Stephen Milan and Brookings' Nellie Liang. By contrast, former chair Jerome Powell's end-of-tenure schedule featured heavier outreach to global central bankers and Wall Street executives, including Goldman CEO David Solomon and the UBS chair. The Fed posts the chair's schedule monthly on its website.
+
+---
+
+### 2026-07-03 03:44:23  #公司 #國際
+
+【特朗普財務披露顯示2025年交易逾2.1萬筆】美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。根據其2025年財務披露檔案，這些交易的總金額介於6億美元至18.6億美元之間；該檔案列示交易價值的區間較寬。許多交易涉及與聯邦政府有業務往來的大型公司。對該報告的分析顯示，特朗普平均每個交易日進行85筆交易。2025年執行的所有交易中，約四分之一集中在10個交易日內。其中許多交易發生在特朗普宣佈政策調整之後、華爾街波動加劇之際。特朗普八個獨立交易賬戶之間也存在不一致之處：他在同一天透過一個賬戶買入某隻股票、又透過另一個賬戶賣出同一股票的情況出現了200多次。
+
+---
+
+### 2026-07-03 03:39:38  #市場 #國際
+
+【美元指數在非農日跌超0.4%】週四（7月2日）紐約尾盤，ICE美元指數跌0.50%，報100.890點，亞太盤初以來持續走低，北京時20:30釋出美國非農就業報告之前回升至101.200點附近，資料釋出後快速跳水，20:45重新整理日低至100.558點。彭博美元指數跌0.43%，報1219.52點，日內交投區間為1225.21-1216.41點。
+
+---
+
+### 2026-07-03 03:37:02  #公司 #國際
+
+【報道：AI基建遇阻，黑石旗下QTS放棄美國弗吉尼亞資料中心建設專案】據知情人士透露，黑石集團旗下的QTS房地產信託公司高管近日決定，已不值得繼續在法庭上推進此事。該公司的律師計劃最早於本週向法院通報這一決定。對於那些多年來一直抗爭並試圖阻止該專案的當地居民而言，這無疑是一場勝利。這家資料中心開發商原計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，改造成全球最大科技走廊之一的核心地帶。由於毗鄰一處具有歷史意義的南北戰爭戰場，並且位於此前受保護而免受開發影響的土地上，該專案引發業主的強烈抵制，並因訴訟而陷入停滯。
+
+---
+
+### 2026-07-03 03:36:49  #公司
+
+【分析師：Meta承認AI進展未達預期，但並非“舉白旗”】分析師Adam Button表示，媒體援引Meta Platforms(META.O)內部全員會議訊息稱，CEO扎克伯格坦言，過去四個月AI智慧體開發速度未如預期。本週Meta備受關注，緣於近日傳出該公司考慮出售過剩算力，市場猜測其或正從基礎模型賽道抽身。Meta近期也因裁員、調崗衝擊企業文化，又試圖透過提供零食（安撫）和舉辦駭客松（激發活力） 這種相對表面的手段，來緩和員工情緒。扎克伯格在會上坦言，部門重組“本可以更利落”；高管年初曾擔心“AI行動不夠快”。不過扎克伯格顯然尚未準備退讓，稱重組的最佳成果“尚未實現”，並仍相信長期趨勢與重組方向一致。這聽起來並不像是在舉白旗。媒體最新報道傳出後，Meta股價一度承壓，但隨即便有所反彈。
+
+---
+
+### 2026-07-03 03:36:45  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bearish
+
+【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization "could have been cleaner," said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are "yet to come" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound.
+
+---
+
+### 2026-07-03 03:27:43  #MKT News #Star Stocks #Tesla #Market Themes #AI Revolution #Magnificent 7 #TSLA.O
+
+【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years.
+
+---
+
+### 2026-07-03 03:19:06  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【U.S. officials feared Israel might target Iranian negotiators】U.S. intelligence and diplomatic officials feared during secret U.S.–Iran talks this spring that Israel might plan assassinations of senior Iranian figures involved in the negotiations, including negotiator Araghchi and parliament speaker Qalibaf. Washington alerted Tehran of the potential risk via regional partners, citing concern such strikes would directly undermine fragile ceasefire and interim peace talks. Israeli planning reportedly flagged multiple senior Iranians as possible targets early in the conflict, including moderates linked to dialogue. After April, U.S. engagement intensified — coordinated by Vice President Vance, U.S. Middle East envoy Witkoff and Jared Kushner — to protect the negotiations. Iran responded by tightening security for senior officials and using fighter escorts on some foreign trips to mitigate attack risk.
+
+---
+
+### 2026-07-03 03:15:52  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CEO said he believes long-term trends remain consistent with the underlying objectives of the company’s departmental reorganization.
+
+---
+
+### 2026-07-03 03:15:35  #MKT News
+
+【Five Colorado wildfires burn nearly 506 sq km】Five wildfires in Colorado have burned nearly 506 sq km as of the morning of July 2, state officials said. The largest, the Aspen X fire, ignited on the morning of June 29 in southern Colorado and had expanded to about 194 sq km by the evening of July 1. The Pueblo County sheriff's office said Aspen X has destroyed more than 180 structures and injured one firefighter.
+
+---
+
+### 2026-07-03 03:15:15  #公司
+
+Meta執行長扎克伯格： 認為長期發展趨勢仍與公司此次重組的整體框架相契合。
+
+---
+
+### 2026-07-03 03:14:38  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week.
+
+---
+
+### 2026-07-03 03:12:59  #國際
+
+【美國科羅拉多州5場山火蔓延 燒燬近506平方公里土地】當地時間7月2日獲悉，美國科羅拉多州正在燃燒的5場山火截至當天上午共燒燬近506平方公里土地，面積接近科羅拉多斯普林斯市。其中，該州當前規模最大的山火阿斯彭埃克斯火災截至1日晚已擴大至約194平方公里。該火災於6月29日早晨在科羅拉多州南部燃起，普韋布洛縣治安官辦公室稱，該火災已摧毀逾180棟建築，並造成一名消防員受傷。（央視新聞）
+
+---
+
+### 2026-07-03 03:12:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Analyst: Saudi crude exports overstated as stranded cargoes inflate earlier counts】Energy Intelligence reporter Amena Bakr, citing sources, said Saudi crude and product exports average about 5.8 mln bpd versus roughly 6.3 mln bpd reported elsewhere, with the higher number including previously stranded cargoes. She warned the description of a "market oversupply" is misleading and said Strait of Hormuz flows remain far from normal. Bloomberg tanker-tracking showed a six-day average to Wednesday of 6.3 mln bpd, roughly equal to the 2025 average and about 90% of February levels.
+
+---
+
+### 2026-07-03 03:10:16  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) CEO said the company's departmental restructuring bets have not yet paid off.
+
+---
+
+### 2026-07-03 03:10:14  #其他
+
+市場訊息：特斯拉將員工每週 AI 工具使用費用上限設定為 200 美元。
+
+---
+
+### 2026-07-03 03:09:02  #公司
+
+Meta執行長扎克伯格： 公司為此次架構重組押下的籌碼 “目前尚未見到成效”。
+
+---
+
+### 2026-07-03 03:07:09  #MKT News
+
+Brazil's Agriculture Ministry said early-June sugar output in the central-south region fell 3% to 2.30 million tonnes, while ethanol production rose 21% to 2.16 billion litres.
+
+---
+
+### 2026-07-03 03:06:50  #其他
+
+市場訊息：O'Reilly 汽配有意收購 Genuine Parts 旗下汽車零部件業務板塊。
+
+---
+
+### 2026-07-03 03:06:22  #市場
+
+巴西農業部資料：6 月初巴西中南部乙醇產量增至 21.6 億升，同比上漲 21%。6 月初巴西中南部食糖產量 230 萬噸，同比下降 3%。
+
+---
+
+### 2026-07-03 03:04:51  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) CEO said executives in early 2026 feared they were 'not moving fast enough' on AI.
+
+---
+
+### 2026-07-03 03:04:30  #公司
+
+Meta執行長扎克伯格： 2026 年初高層管理團隊曾擔憂公司在人工智慧領域的推進速度跟不上需求。
+
+---
+
+### 2026-07-03 03:04:06  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CEO said the company’s 2026 departmental reorganization "could have been handled more cleanly."
+
+---
+
+### 2026-07-03 03:03:22  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7830元，較週三夜盤收盤漲50點。成交量605.08億美元。
+
+---
+
+### 2026-07-03 03:03:07  #公司
+
+Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。
+
+---
+
+### 2026-07-03 03:01:03  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot.
+
+---
+
+### 2026-07-03 03:00:23  #市場
+
+【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。
+
+---
+
+### 2026-07-03 03:00:03  #市場
+
+恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。
+
+---
+
+### 2026-07-03 02:59:44  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #SMH
+
+【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market.
+
+---
+
+### 2026-07-03 02:59:41  #觀點
+
+法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。
+
+---
+
+### 2026-07-03 02:57:57  #其他
+
+Meta一度跌超5%。
+
+---
+
+### 2026-07-03 02:57:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) slipped intraday, down 4.89%.
+
+---
+
+### 2026-07-03 02:56:18  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected.
+
+---
+
+### 2026-07-03 02:55:11  #公司 #焦點
+
+Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未"如我們預期般加速"。
+
+---
+
+### 2026-07-03 02:53:33  #市場
+
+布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。
+
+---
+
+### 2026-07-03 02:53:28  #公司
+
+【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）
+
+---
+
+### 2026-07-03 02:52:23  #MKT News
+
+【China, UK hold 15th Joint Economic and Trade Commission in London】MOFCOM minister Raimondo and the UK trade minister co‑chaired the 15th China‑UK Joint Economic and Trade Commission in London on July 2. China urged the UK to adjust steel quota measures that took effect July 1, saying they raise serious concerns and should be brought into compliance with WTO rules. China welcomed increased UK investment into China and asked London to provide a fair, non‑discriminatory environment for Chinese investors; the UK said it welcomes Chinese investment and will offer greater certainty and predictability. Both sides agreed to implement outcomes from the WTO’s 14th ministerial meeting and to deepen cooperation on trade, investment and multilateral issues; the UK highlighted opportunities from China’s services liberalization and proposed policy dialogue, a UK‑China services partnership and a feasibility study on a services trade agreement.
+
+---
+
+### 2026-07-03 02:50:43  #公司
+
+【‌ElevenLabs正洽談要約收購 估值達220億美元‌】ElevenLabs已與投資者展開初步談判，計劃推進一輪二級發售，投後估值約達220億美元。這家公司主打可生成多語言逼真語音的AI軟體，相關工具已面向多個行業推廣落地。儘管ElevenLabs面臨頭部AI巨頭的競爭，但憑藉在語音AI賽道的垂直深耕優勢，依然深受投資者青睞，市場普遍認為其有望在細分領域跑贏大型科技企業。
+
+---
+
+### 2026-07-03 02:50:40  #MKT News
+
+Saudi broadcaster Al Arabiya reported the French foreign ministry said it will, at Lebanon's request, deploy an international force to support the Lebanese army.
+
+---
+
+### 2026-07-03 02:50:22  #國際
+
+法國外交部：應黎巴嫩政府請求，我方將部署國際部隊支援黎巴嫩軍隊。
+
+---
+
+### 2026-07-03 02:49:35  #國際
+
+【中英經貿聯委會第15次會議在倫敦舉行】當地時間7月2日，商務部部長王文濤與英國商貿大臣凱爾在倫敦共同主持召開中英經貿聯委會第15次會議，就貿易、投資以及區域和多邊合作深入交換意見。王文濤表示，今年年初，中英兩國領導人就發展長期穩定的中英全面戰略伙伴關係達成重要共識，為中英經貿合作指明瞭方向。雙方應充分發揮中英經貿聯委會機制作用，進一步推動兩國貿易投資合作。中方歡迎英國擔任今年“出口中國”活動主題國，將積極擴大優質產品自英進口。中方願與英方加快推進中英服貿協定聯合可行性研究工作，為兩國進一步提升服務貿易合作水平創造有利條件。中方歡迎英國企業擴大對華投資，希望英方為中國企業赴英投資提供公平公正非歧視的環境。中英都是世貿組織重要成員，應共同落實好世貿組織第14次部長級會議成果。中方對7月1日生效的英國鋼鐵配額措施表示嚴重關切，希望英方儘快調整措施，確保其符合世貿規則。凱爾表示，經貿合作是英中關係的重要支柱。中國大力發展服務業，為英國企業提供了重要的機遇。英方願與中方加強政策溝通，透過英中服務夥伴關係和英中服貿協定可行性研究，擴大服務領域合作。英方歡迎中國企業赴英投資，願提供更多確定性和可預測性。英方願與中方用好英中世貿組織工作組，加強政策溝通與協調，推動世貿組織改革、電子商務等議題取得積極進展。雙方高度評價聯委會項下的投資、服務貿易、出口管制、世貿組織、航空等工作組的工作進展，期待各工作組為推動雙邊經貿關係發展發揮更大作用。會前，王文濤部長和凱爾大臣同部分中英企業代表交流。（商務部）
+
+---
+
+### 2026-07-03 02:49:05  #其他
+
+德國民調： 默茨所屬的基民盟 / 基社盟聯盟支援率跌至 22%，創下 2021 年 11 月以來新低；聯合執政夥伴社民黨支援率降至 12%。
+
+---
+
+### 2026-07-03 02:48:49  #其他
+
+德國民調：默茨支援率創歷史新低，選擇黨以 27% 成為第一大黨。
+
+---
+
+### 2026-07-03 02:47:04  #MKT News
+
+Fitch says the Dominican Republic's tax reform has reduced the fiscal impact of an oil shock.
+
+---
+
+### 2026-07-03 02:47:02  #其他
+
+惠譽評級：多明尼加共和國稅制改革緩解石油衝擊帶來的財政壓力。
+
+---
+
+### 2026-07-03 02:41:30  #MKT News #Brent #Impact bearish #WTI #XAUUSD
+
+Iran's foreign minister said regional peace can be maintained only under comprehensive, inclusive conditions free of external interference.
+
+---
+
+### 2026-07-03 02:41:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign minister said U.S. Central Command has brought instability rather than security to the region, calling the answer 'obvious', and added that Iran's powerful armed forces have shown external actors cannot even protect themselves.
+
+---
+
+### 2026-07-03 02:39:29  #國際
+
+伊朗外長：美國中央司令部給本地區帶來的是安全還是動盪？答案不言而喻。 與此同時，我國強大的武裝力量已經證明，外來勢力連自身都無法保全。 本地區的和平唯有建立在全面、包容、杜絕外部干涉的基礎之上，才能長久維繫。
+
+---
+
+### 2026-07-03 02:38:59  #國際
+
+PJM電網預測：美國週四電力需求將不再攀升至歷史高位。
+
+---
+
+### 2026-07-03 02:38:00  #市場 #觀點 #央行 #國際
+
+【花旗：鋁價短期見底 年底有望回升至3500美元】花旗表示，預計鋁價將在未來一個月內觸底，隨後在9月至12月期間逐步回升至每噸3300至3500美元區間。 該行認為，這一判斷基於多重因素，包括美聯儲政策趨於鴿派、實際利率下降、需求前景改善以及消費天數口徑下庫存持續走低。同時，近期鋁價下跌主要反映需求弱於預期、可見庫存去化放緩、地緣政治風險緩解、投機及實物頭寸集中平倉，以及市場對未來供應增加的預期上升。 過去一個月鋁價已從約4450美元/噸下跌約20%，動搖了持續一年多的上漲行情。不過，花旗認為當前不適合做空鋁價，因為市場在近期衝擊前本就處於供應缺口狀態，而新增供應難以及時彌補需求增長。 該行還指出，市場對中東供應快速回歸的擔憂可能被誇大。
+
+---
+
+### 2026-07-03 02:37:53  #MKT News #Market Regions #Europe & UK
+
+【Raimondo chairs roundtable with China-invested firms in UK】On July 2 in London, Raimondo, MOFCOM minister, hosted a roundtable with more than 10 China-invested firms in the UK from financial, insurance, new energy, auto, retail and telecom sectors and leaders of the China‑Britain Chamber of Commerce. Firms reported on UK operations and sought help protecting overseas interests and expanding practical cooperation. Raimondo said China‑UK trade ties have deepened; China-invested firms have withstood international pressures, delivered solid economic results and contributed to bilateral cooperation. He urged firms to deepen cooperation in services, innovation and three‑way projects, strengthen self-discipline and orderly competition, protect the overall image of Chinese firms, and improve international operating standards and risk-management capabilities.
+
+---
+
+### 2026-07-03 02:37:35  #MKT News #Commodities #Industrial Metals #Macro & Rates #The Fed (FOMC) #Copper #Impact bullish
+
+【Citigroup: aluminum likely to bottom near term, seen rising to $3,300–3,500/t in Sep–Dec】Citigroup expects aluminum to bottom within the next month and to recover to $3,300–3,500/ton during Sep–Dec. The call is based on a more dovish Fed outlook, falling real rates, an improving demand outlook and inventories declining on a consumption‑days basis. The bank says the recent ~20% drop from about $4,450/t over the past month largely reflected weaker-than-expected demand, slower visible inventory draws, easing geopolitical risk, concentrated liquidations of speculative and physical positions, and rising expectations of future supply increases. Citigroup warns conditions do not favor shorting: the market was in a supply deficit before the recent shock and new supply is unlikely to close the gap quickly. It also says concerns about a rapid return of Middle East supply may be overstated.
+
+---
+
+### 2026-07-03 02:35:55  #其他
+
+ElevenLabs正洽談要約收購事宜，企業估值達2200億美元。
+
+---
+
+### 2026-07-03 02:35:16  #其他
+
+【商務部：王文濤部長主持召開在英中資企業圓桌會】當地時間7月2日，商務部部長王文濤在倫敦主持召開在英中資企業圓桌會。來自金融、保險、新能源、汽車、零售、電信等領域的十多家在英中資企業負責人和英國中國商會負責人參加會議，介紹在英業務情況，並就維護企業海外利益、拓展務實合作等提出具體訴求。王文濤表示，近年來，中英經貿關係不斷深化，成為中英關係的壓艙石和推進器。面對風雲變幻的國際形勢，在英中資企業頂住壓力，深耕英國市場，取得了良好經濟效益，為中英經貿合作作出了積極貢獻。展望未來，兩國企業可繼續在服務業、創新、三方合作等領域深化合作。希望在英中資企業加強自律，有序競爭，維護好中國企業整體形象，同時提高國際化經營水平，提升風險防範意識和能力。
+
+---
+
+### 2026-07-03 02:31:41  #MKT News #Market Themes #The Trump Trade
+
+US Treasury said it and the IRS will accept donations of shares from large publicly listed companies to support the "Trump Accounts" children's financial accounts plan.
+
+---
+
+### 2026-07-03 02:31:34  #市場
+
+WTI 8月原油期貨收漲0.11美元，漲幅0.16%，報68.69美元/桶。NYMEX 8月天然氣期貨收報3.1960美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9173美元/加侖，NYMEX 8月取暖油期貨收報3.1822美元/加侖。
+
+---
+
+### 2026-07-03 02:31:15  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
+
+【Night session main contracts close】At 02:30, Shanghai gold main contract closed up 1.18% at 901 yuan/gram; Shanghai silver main contract closed up 1.53% at 14,850 yuan/kg; SC crude oil main contract closed up 0.05% at 442 yuan/barrel.
+
+---
+
+### 2026-07-03 02:31:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 1.23% at 898.0 yuan/gram in Thursday (July 2) evening trade; SGE silver T+D closed up 1.59% at 14,810.0 yuan/kg.
+
+---
+
+### 2026-07-03 02:31:07  #市場 #國際
+
+美國原油期貨收於每桶68.69美元，上漲11美分，漲幅0.16%。
+
+---
+
+### 2026-07-03 02:30:21  #其他
+
+美、布兩油日內均漲超1%，現分別報68.72美元/桶和71.98美元/桶。
+
+---
+
+### 2026-07-03 02:30:06  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent both rose more than 1% intraday, trading at $68.72/bbl and $71.98/bbl respectively.
+
+---
+
+### 2026-07-03 02:30:04  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates largely by 5.79% — Top crypto gainers are Ether (5.79%), Bitcoin (2.94%) and Binance (1.92%).
+
+---
+
+### 2026-07-03 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.05%，報441.80元人民幣/桶。滬金夜盤收漲1.18%，滬銀收漲1.53%。
+
+---
+
+### 2026-07-03 02:28:41  #MKT News
+
+【Algeria holds vote for People's National Assembly】Algeria held parliamentary voting on July 2; 24.7 mln registered voters were eligible. 9,854 candidates contested 407 seats in the People's National Assembly; women accounted for 21% of candidates and 54% were under 40. Algeria's parliament comprises the People's National Assembly (lower house) and the Council of the Nation (upper house); lower‑house deputies are elected by universal suffrage for five‑year terms.
+
+---
+
+### 2026-07-03 02:28:18  #國際
+
+倫交所理柏（LSEG Lipper）：7月1日當週，美國時政債券基金獲得17億美元投資者資金流入。
+
+---
+
+### 2026-07-03 02:27:48  #宏觀 #公司 #國際
+
+美國財政部：今日，美國財政部與美國國稅局邁出關鍵一步，助力美國兒童的未來發展，允許社會各界將具備高流通性的上市公司大額公益捐贈股票存入特朗普賬戶。 這項政策完全契合惠益家庭、提振經濟、造福美國民眾的定位，能夠保障下一代擁有實實在在的經濟發展機遇，而非空洞的承諾。
+
+---
+
+### 2026-07-03 02:26:39  #公司 #國際
+
+賓堡美國烘焙公司將在2026年底前完成甜烘焙食品與零食的人工色素去除工作。
+
+---
+
+### 2026-07-03 02:26:21  #MKT News
+
+Brazil will meet its 2026 fiscal target without additional measures, the planning minister said.
+
+---
+
+### 2026-07-03 02:26:19  #MKT News #Market Regions #Emerging Markets
+
+Brazil's planning minister said the government may partially ease a 23.7 billion reais cap on budget spending this month.
+
+---
+
+### 2026-07-03 02:25:54  #MKT News #WTI #Impact bearish #Brent
+
+Brazil's planning minister said the government may abolish the tax on oil exports this month or cut it to below 12%.
+
+---
+
+### 2026-07-03 02:25:54  #MKT News #Market Regions #Emerging Markets
+
+Brazil's planning minister says government spending pressures show no significant signs of easing.
+
+---
+
+### 2026-07-03 02:25:41  #MKT News #Commodities #Energy
+
+Brazil's planning minister said the pace of diesel subsidy removal will be slower than for gasoline to avoid sharp price swings and supply risks.
+
+---
+
+### 2026-07-03 02:25:34  #MKT News #Macro & Rates #US Economy
+
+ICI: US money market fund assets reached a record $7.95 trillion.
+
+---
+
+### 2026-07-03 02:25:33  #MKT News
+
+Brazil's planning minister said the dividend tax shortfall will be offset by stronger revenues in other areas.
+
+---
+
+### 2026-07-03 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Rises by 3.32% — Top commodity gainers are Oat (3.32%) and Corn (0.77%). Biggest losers are Rubber (-2.97%), Coffee (-2.50%) and Cocoa (-1.47%).
+
+---
+
+### 2026-07-03 02:24:29  #其他
+
+巴西計劃部長表示，為避免價格衝擊與供應風險，柴油補貼的退出節奏將慢於汽油補貼。
+
+---
+
+### 2026-07-03 02:24:15  #其他
+
+巴西部長：石油出口稅或於本月取消，或降至12%以下。
+
+---
+
+### 2026-07-03 02:24:07  #其他
+
+巴西部長：巴西無需額外措施即可實現2026財年目標。
+
+---
+
+### 2026-07-03 02:23:57  #其他
+
+巴西經濟：237億雷亞爾的預算支出凍結或於本月部分解凍。
+
+---
+
+### 2026-07-03 02:22:11  #公司
+
+‌【黑石集團旗下QTS放棄弗吉尼亞州大型資料中心專案‌】黑石集團旗下的QTS正放棄其在弗吉尼亞州一處資料中心園區的建設規劃，為多年來持續反對該專案的當地居民送上了一場勝利。這家資料中心開發商原本計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，打造為全球規模最大科技走廊之一的核心組成部分。據知情人士透露，受近期相關司法判決與不斷疊加的監管障礙影響，QTS管理層最終判定繼續推進相關訴訟已無實際價值。
+
+---
+
+### 2026-07-03 02:22:11  #MKT News #BX.N
+
+Market sources: Blackstone (BX.N)'s QTS unit has canceled plans to build a hyperscale data center in Virginia, US.
+
+---
+
+### 2026-07-03 02:20:41  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 1
+
+Paraguay Annual Inflation Eases in June — Paraguay’s annual inflation eased to 2.1% in June 2026 from 2.4% in May, moving further below the central bank’s target of 3.5%. Price pressures remained strongest in restaurants and hotels, which rose 8.6% year-on-year, followed by education (5.9%), recreation and culture (2.9%), and food and non-alcoholic beverages (2.2%). In contrast, transport prices fell 1.2%, helping to contain the overall inflation rate. On a monthly basis, consumer prices declined 0.3%, reversing a 0.1% increase in May. Meanwhile, core inflation, which excludes more volatile items, slowed to 1.7% from 1.9%, pointing to softer underlying price pressures.
+
+---
+
+### 2026-07-03 02:20:10  #公司 #國際
+
+【學者警告：伊朗正將霍爾木茲海峽控制常態化】據半島電視臺報道，倫敦國王學院安全研究講師羅布·蓋斯特·平福德表示，儘管美國推動恢復正常航運並達成諒解備忘錄，伊朗在霍爾木茲海峽的實際控制力不僅未被削弱，反而在衝突後進一步增強。他指出，戰前該海峽每日約有125艘船通行，但即便在近期外交努力之後，航運流量仍明顯低於這一水平。平福德認為，海灣國家早在衝突前就已尋求替代貿易路線，戰爭後相關趨勢進一步加速，但伊朗透過持續行動“創造既成事實”，鞏固了其在該關鍵航道的影響力。他強調，伊朗正在加深對海峽的戰略嵌入，使航運公司在現實操作中“別無選擇，只能適應”新的格局。
+
+---
+
+### 2026-07-03 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 2.58% — Top commodity gainers are Silver (2.58%), Gold (2.12%) and Platinum (1.58%). Biggest loser is Titanium (-2.11%).
+
+---
+
+### 2026-07-03 02:18:57  #公司
+
+黑石集團旗下的QTS放棄了位於弗吉尼亞州的大型資料中心。
+
+---
+
+### 2026-07-03 02:18:33  #國際
+
+據ICI統計，美國貨幣市場基金資產規模創下7.95萬億美元的歷史新高。
+
+---
+
+### 2026-07-03 02:18:27  #公司
+
+【默茨：德國改革計劃或將推動2027年GDP增速突破1%】據德國公共廣播公司ARD釋出的文字記錄顯示，德國總理弗里德里希·默茨表示，執政聯盟剛剛公佈的改革方案有望在2027年將德國GDP增速推升至1%以上。默茨表示：“我想打破我國經濟的低迷狀態。我們需要再次提振潛在增長率。我希望明年GDP增速的小數點前能重新出現‘1’。”今年4月，德國政府已將今年的GDP增長預期下調一半至0.5%，並將明年的增長預期下調至0.9%。
+
+---
+
+### 2026-07-03 02:18:24  #MKT News #WTI #Impact bullish #Brent
+
+【Scholar warns Iran is normalizing control of Strait of Hormuz】Al Jazeera reported King's College London security studies lecturer Rob Geist‑Pinfold said that despite US efforts to restore normal shipping and a memorandum of understanding, Iran's de facto control of the Strait of Hormuz has not weakened and has in fact strengthened since the conflict. He said pre‑conflict traffic ran about 125 vessels a day, and shipping volumes remain noticeably below that level even after recent diplomatic efforts. Gulf states had already been seeking alternative trade routes before the fighting and that shift accelerated afterwards; Iran, through sustained actions, has created faits accomplis, consolidated its influence and deepened strategic entrenchment in the strait, leaving shipping companies with no practical choice but to adapt.
+
+---
+
+### 2026-07-03 02:16:57  #市場
+
+布倫特原油期貨扭轉跌幅，交投於每桶71.58美元上方。
+
+---
+
+### 2026-07-03 02:16:13  #央行 #其他
+
+墨西哥央行設定比索官方匯率為1美元兌17.4725比索。
+
+---
+
+### 2026-07-03 02:15:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 4.10% — Top commodity gainers are Natural Gas EU (4.10%), Natural Gas UK (4.06%) and Germany Natural Gas THE (2.22%). Biggest losers are Propane (-1.58%), Heating Oil (-1.31%), Gasoline (-1.18%) and Crude Oil WTI (-0.18%). Meanwhile Brent Crude Oil was little changed.
+
+---
+
+### 2026-07-03 02:14:05  #其他
+
+【世衛組織宣佈“洪迪厄斯”號相關漢坦病毒疫情結束】世界衛生組織2日宣佈與“洪迪厄斯”號郵輪相關的漢坦病毒疫情結束，此前最後一名密接者已完成隔離且病毒檢測結果呈陰性。世衛組織總幹事譚德塞當天在該機構例行新聞釋出會上通報說，“今天，“洪迪厄斯”號郵輪上最後一名漢坦病毒密接者結束隔離，病毒檢測結果呈陰性且已回家”，自5月25日以來無新增病例，世衛組織認為本輪漢坦病毒疫情已經結束。（新華社）
+
+---
+
+### 2026-07-03 02:10:38  #公司 #市場
+
+【機構對比特幣保持謹慎樂觀 稱年底將回升至10萬美元】比特幣在今年上半年表現艱難，自1月1日以來下跌了35%，觸及約58,000美元的最新多年低點。但比特幣和其他加密貨幣在7月份開局火熱，在就業報告顯示新增就業人數少於受訪分析師此前預期後，回升至61,600美元上方。加密貨幣研究公司21shares表示，他們對2026年下半年比特幣的前景保持“謹慎樂觀”，儘管預計那些一直壓低價格的因素不會消失。“持有比特幣的錢包數量繼續增長，”該公司在一份報告中表示。“我們的年底基本預測是回升至10萬美元，而不是突破創下歷史新高。”
+
+---
+
+### 2026-07-03 02:10:13  #公司 #市場 #國際
+
+【倫敦股市2日上漲】英國倫敦股市《金融時報》100種股票平均價格指數2日報收於10652.87點，較前一交易日上漲174.53點，漲幅為1.67%。歐洲三大股指當天全線上漲。當天倫敦股市成分股中位於漲幅前五位的個股分別為：企業服務外包商巴布科克國際股價上漲5.54%，貝宜系統公司股價上漲5.45%，阿斯利康製藥公司股價上漲4.94%，投資公司梅爾羅斯工業公司股價上漲4.92%，金融投資公司聖詹姆斯廣場股價上漲4.08%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：極地資本科技信託公司股價下跌3.55%，體育博彩公司恩坦股價下跌2.14%，資訊科技服務公司康普塔森特股價下跌1.95%，約翰-戴維運動時裝公司股價下跌1.33%，保險及金融投資公司保誠集團股價下跌1.25%。
+
+---
+
+### 2026-07-03 02:10:00  #其他
+
+【阿爾及利亞舉行議會選舉】阿爾及利亞議會2日舉行選舉，超2470萬名阿爾及利亞登記選民參與投票。本次選舉共有9854名候選人角逐國民議會（眾議院）的407個席位。在所有候選人中，女性佔21%，40歲以下候選人佔54%。（新華社）
+
+---
+
+### 2026-07-03 02:04:06  #MKT News #Market Regions #Europe & UK
+
+UK prime ministerial candidate Burnham said he believes defence spending plans must be taken seriously by the state.
+
+---
+
+### 2026-07-03 02:03:47  #其他
+
+英國工黨領袖候選人伯納姆談國防開支計劃：我認為這是英國必須嚴肅面對的問題。
+
+---
+
+### 2026-07-03 02:03:26  #MKT News
+
+UK prime minister candidate Burnham said he will take full responsibility and fully implement the defence spending plan.
+
+---
+
+### 2026-07-03 02:03:14  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
+
+UK prime minister candidate Burnham said there are grounds to raise business rates on warehouses.
+
+---
+
+### 2026-07-03 02:03:14  #MKT News
+
+UK prime minister candidate Burnham said there is room for tax changes under the Labour manifesto.
+
+---
+
+### 2026-07-03 02:02:57  #其他
+
+英國工黨領袖候選人伯納姆：我將履行職責，為國防開支計劃提供足額資金。
+
+---
+
+### 2026-07-03 02:01:36  #其他
+
+英國工黨領袖候選人伯納姆：主張將水務、能源、交通行業更多收歸公有管控。
+
+---
+
+### 2026-07-03 02:00:44  #國際
+
+歐盟委員會：批准比利時5.67億歐元第四筆資金撥付申請。
+
+---
+
+### 2026-07-03 02:00:11  #國際
+
+歐盟委員會：批准葡萄牙23.2億歐元第九筆資金撥付申請。
+
+---
+
+### 2026-07-03 01:59:48  #其他
+
+英國工黨領袖候選人伯納姆： 主張上調倉儲物業的商業房產稅。
+
+---
+
+### 2026-07-03 01:59:48  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK prime minister candidate Burnham said he is highly disciplined on public finances.
+
+---
+
+### 2026-07-03 01:59:30  #宏觀 #國際
+
+美國財政部、國稅局接受以股票形式向特朗普相關賬戶出資。
+
+---
+
+### 2026-07-03 01:59:09  #MKT News
+
+UK prime ministerial candidate Burnham said he wants to end trickle-down economics.
+
+---
+
+### 2026-07-03 01:58:40  #MKT News
+
+UK prime minister candidate Burnham said he has decided to engage in politics in a new way.
+
+---
+
+### 2026-07-03 01:58:25  #其他
+
+英國工黨領袖候選人伯納姆：在公共財政問題上，我並非我行我素不受約束。
+
+---
+
+### 2026-07-03 01:58:20  #MKT News
+
+UK prime minister candidate Burnham says he will uphold the Labour Party's tax pledge.
+
+---
+
+### 2026-07-03 01:58:16  #其他
+
+英國工黨領袖候選人伯納姆： 我將恪守工黨競選宣言中的稅收相關政策。
+
+---
+
+### 2026-07-03 01:57:40  #國際
+
+歐盟部分批准西班牙總額 57 億歐元的第六筆復甦資金撥付申請。
+
+---
+
+### 2026-07-03 01:57:31  #公司 #國際
+
+聯合太平洋鐵路公司：已與美國海關與邊境保護局（CBP）領導層確認，新型鐵路車廂的進口流程不會作出調整，客戶無需採取任何行動。
+
+---
+
+### 2026-07-03 01:57:21  #其他
+
+英國工黨領袖候選人伯納姆：我將採取全新的施政從政路線。
+
+---
+
+### 2026-07-03 01:56:56  #其他
+
+英國工黨領袖候選人伯納姆： 我主張終結涓滴經濟學。
 
 ---
 
@@ -17098,677 +17800,5 @@ FTSE China A50 index futures opened 0.15% higher.
 ### 2026-07-02 08:57:53  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bearish #005930.KS #MU.O
 
 【South Korean stocks plunge over 6% as AI compute oversupply fears hit chipmakers】South Korean equities tumbled after Meta’s plan to sell computing capacity raised concerns of AI compute oversupply. The KOSPI fell more than 6%, sliding as much as nearly 7% in early trade on Thursday and briefly triggering a trading halt. SK hynix dropped about 9% and Samsung Electronics fell over 7%. Overnight U.S. peers Micron (MU.O) and SanDisk (SNDK.O) each fell more than 10%. The moves may intensify investor doubts about the sustainability of the chip rally driven by booming AI infrastructure demand; Korea’s major suppliers occupy a central position in that supply chain.
-
----
-
-### 2026-07-02 08:57:09  #公司 #國際
-
-【印度的Meta競爭對手ShareChat計劃明年IPO 融資4億美元】印度運營社交網路ShareChat、短影片平臺Moj以及訂閱制微劇應用QuickTV的Mohalla Tech Pvt.公司，正計劃於明年在公開市場進行上市，尋求最高達4億美元的資金。 該公司通常被稱為ShareChat，其首席財務官Manohar Charan本週在接受採訪時表示，自2026年4月起運營的第一個季度以來，公司已實現盈利。“我們的單位經濟現在已轉為正向，”他說道，“我們將在未來四到五個季度內完成上市。” 此次IPO計劃尚未最終確定，可能會有所調整。
-
----
-
-### 2026-07-02 08:56:29  #其他
-
-【雷曼光電與南方科技大學奈米科學與應用研究院達成戰略合作】據雷曼光電訊息，7月1日，雷曼光電與南方科技大學奈米科學與應用研究院簽署《產學研戰略合作框架協議》。雙方約定將致力於構建產學研深度融合的創新體系，力爭在TGV玻璃基Micro LED、量子點顯示、基於Micro LED的CPO光通訊等領域實現技術突破，提升自主創新能力與產業核心競爭力。雙方同時還商定將定期徵集並確定聯合研發課題，共同投入研發人員、實驗平臺及相關資源，推動技術成果的中試與產業化落地。
-
----
-
-### 2026-07-02 08:55:38  #公司
-
-【融捷股份：南沙正極材料專案尚未投產】就“公司的磷酸鐵鋰正極材料是否已經量產”問題，融捷股份(002192)7月2日在互動平臺回覆稱，公司南沙正極材料專案目前尚未投產。
-
----
-
-### 2026-07-02 08:54:53  #公司
-
-【漢鍾精機：公司真空泵產品正積極對接新客戶 持續拓展市場應用空間】漢鍾精機近日接受機構調研時表示，公司真空泵產品核心應用場景聚焦光伏與半導體行業，同時持續拓展業務邊界，逐步滲透鋰電、醫藥、精細化工、顯示器製造、LED製造、光通訊、鍍膜、特種氣體、熱處理等多個下游高階製造領域。目前，公司真空泵產品已獲得國內多家晶片製造企業的認可，實現批次供貨，可充分滿足下游客戶新產線擴建、老舊裝置替換的雙重市場需求。與此同時，公司正積極對接新客戶，配合客戶新工藝開展產品測試與驗證工作，持續拓展市場應用空間。2025年，公司真空泵產品銷售收入有所下滑，主要受光伏行業市場波動影響。現階段光伏行業已逐步回暖，行業帶來的負面影響將持續減弱，公司真空泵業務有望重回穩步增長軌道。
-
----
-
-### 2026-07-02 08:54:49  #其他
-
-鎧俠股價延續跌勢，最新跌幅為13.7%。
-
----
-
-### 2026-07-02 08:54:17  #Trading Economics #Economy #Peru #Inflation Rate #Importance 0
-
-Peru Inflation Accelerates Slightly to 4.0% — The annual inflation rate in Peru’s capital, Lima, accelerated slightly to 4.01% in June 2026 from 3.9% in the previous month. Still, it remained above the central bank's 1%-3% target range. Prices accelerated primarily for food & non-alcoholic beverages (3.32% vs 2.88% in May), furnishings & household equipment (3.00% vs 2.81%), restaurants & hotels (4.15% vs 3.98%), and housing & utilities (1.21% vs 1.04%), boosted by adjusted residential electricity rates. Meanwhile, inflation moderated for transportation (14.63% vs 15.10%) and recreation & culture (2.01% vs 2.07%), while prices declined for alcoholic beverages & tobacco (-0.45% vs 0.05%). On a monthly basis, the CPI rose 0.23%, rebounding from a 0.1% fall in May, due to higher prices for food, furnishings, and restaurants.
-
----
-
-### 2026-07-02 08:54:14  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Steady Ahead of Jobs Report — The dollar index was little changed at around 101.4 on Thursday after experiencing heightened volatility in the previous session, as investors cautiously awaited the June jobs report for fresh insights into labor market conditions and greater clarity on the Federal Reserve’s policy outlook. Data released on Wednesday showed private-sector hiring in the US slowed more than expected last month. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Markets continue to price in more than a 60% chance of a Fed rate hike in September. The dollar also remained resilient despite rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks, which pushed oil prices lower and eased inflation concerns.
-
----
-
-### 2026-07-02 08:54:05  #國際
-
-印度對標Meta的社交平臺ShareChat計劃明年進行4億美元的IPO。
-
----
-
-### 2026-07-02 08:53:57  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kyiv mayor says Russian attack on Kyiv has raised the number of wounded to 11.
-
----
-
-### 2026-07-02 08:53:36  #MKT News #Macro & Rates
-
-Japan 30-year government bond yield rose 2.5 bps to 3.980%.
-
----
-
-### 2026-07-02 08:52:00  #市場 #國際
-
-30年期日本國債收益率上漲2.5個基點，至3.980%。
-
----
-
-### 2026-07-02 08:51:13  #國際
-
-【全球基金繼續買入印度債券】根據印度證券交易委員會的資料，6月30日全球基金淨買入2.855億美元印度債券，為連續第18個交易日淨買入。
-
----
-
-### 2026-07-02 08:50:55  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Stocks Hit 3-Week Low as Trade Nerves Weigh — Australian shares slid 41 points, or 0.5%, to 8,680 in early trade on Thursday, marking a third straight decline and touching their lowest in nearly three weeks. Sentiment soured after Wall Street opened July on a weak footing overnight, as investors trimmed chipmaker holdings. Locally, caution built ahead of May trade data due later in the day, after April exports outpaced imports and delivered a modest surplus. Meanwhile, building permits fell more than expected in May. Simultaneously, industry conditions remained deeply contracted in June despite a slight improvement, weighed by higher costs and lingering uncertainty. Logistics, retail, energy minerals, and manufacturing led declines, though gains in consumer services, healthcare, and tech services helped cushion the fall. Heavyweights BHP Group slipped 1.4%, Westfarmers dropped 3.1%, Goodman Group fell 2.1%, Woodside Energy lost 1.8%, and Santos shed 2.0%. In contrast, three of four big banks gained
-
----
-
-### 2026-07-02 08:50:10  #市場 #焦點
-
-現貨黃金突破4050美元/盎司，日內漲0.50%。
-
----
-
-### 2026-07-02 08:50:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold broke above $4,050/oz, up 0.46% intraday.
-
----
-
-### 2026-07-02 08:49:26  #市場
-
-【酒價內參7月2日價格釋出：古井貢古20精品茅臺領漲 總價低位小幅反彈】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月2日整體低位小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9878元，較昨日小幅上漲8元，結束昨日回落走勢。古井貢古20平近一月最高價紀錄，而飛天茅臺續創近一月最低價。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒邊際改善，但總價低位震盪格局仍未扭轉。今日11大白酒單品六漲四跌一平，贏家數量佔據優勢。上漲方面，古井貢古20漲幅居前，上漲6元/瓶，平近一月最高價紀錄；精品茅臺與習酒君品均上漲5元/瓶，前者成功鞏固2400元一線；五糧液1618上漲3元/瓶；青花汾20上漲2元/瓶，重返370元關口上方；五糧液普五八代小幅上漲1元/瓶，自昨日創下的“酒價內參”去年11月有統計以來最低處小幅修復，但仍處於近八個月以來次低位。下跌方面，國窖1573跌幅居前，下跌5元/瓶；青花郎下跌4元/瓶，兩者均為兩連陰；飛天茅臺下跌3元/瓶，相對i茅臺官方定價的價差持續收窄；洋河夢之藍M6+下跌2元/瓶，自近一月最高位小幅回落。水晶劍南春價格環比保持不變，仍處於近一月次低位。
-
----
-
-### 2026-07-02 08:48:59  #其他
-
-【AMD將Radeon顯示卡價格上調10%】報道稱，AMD決定將Radeon顯示卡價格上調10%，新價格於2026年7月正式落地執行。供貨商透露，AMD已向其主機板合作伙伴發出漲價通知。
-
----
-
-### 2026-07-02 08:48:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Two‑market margin financing balances rise 9.794 billion yuan】As of July 1, margin financing balances were 1,519.688 bn yuan on the Shanghai Stock Exchange (SSE), up 2.779 bn yuan from the prior session; 1,477.894 bn on the Shenzhen Stock Exchange (SZSE), up 7.015 bn; combined total 2,997.582 bn, up 9.794 bn yuan.
-
----
-
-### 2026-07-02 08:48:04  #公司
-
-【博傑股份：公司暫無鉭電容相關生產裝置】博傑股份(002975)7月2日在互動平臺回覆稱，公司暫無鉭電容相關生產裝置。
-
----
-
-### 2026-07-02 08:47:36  #其他
-
-【兩市融資餘額較上日增加97.93億元】截至7月1日，上交所融資餘額報15196.88億元，較前一交易日增加27.79億元；深交所融資餘額報14778.94億元，較前一交易日增加70.14億元；兩市合計29975.82億元，較前一交易日增加97.93億元。
-
----
-
-### 2026-07-02 08:46:57  #市場
-
-布倫特原油日內跌1%，現報70.84美元/桶。
-
----
-
-### 2026-07-02 08:46:50  #MKT News
-
-【Lianhe Power says first 800V active-suspension hydraulic pump entered mass-production delivery in May】Lianhe Power told investors its first 800V active-suspension hydraulic pump entered mass-production and was delivered in May. The company is developing both hydraulic and mechanical active-suspension solutions and plans to expand into rear-wheel steering and braking systems, and expects the business to grow rapidly.
-
----
-
-### 2026-07-02 08:46:24  #公司 #國際
-
-據印度《經濟時報》報道，阿達尼集團和IHC計劃合併成立一家價值115億美元的鋁業公司。
-
----
-
-### 2026-07-02 08:45:29  #公司
-
-【殷勇會見全球行動通訊系統協會執行長】據北京釋出，日前，北京市市長殷勇會見全球行動通訊系統協會執行長洪曜莊。殷勇說，希望雙方加強溝通聯絡，依託雙方資源優勢，拓展在數字技術創新、成果轉化等方面合作，推動全球6G與人工智慧協同創新、開放發展，實現雙向賦能、互利共贏。洪曜莊表示，將發揮全球資源優勢，積極打造包容多元產業生態，深化產業資源互通和經驗共享，助力通訊技術創新賦能全球發展、增進各國人民福祉。
-
----
-
-### 2026-07-02 08:45:00  #公司 #國際
-
-訊息人士稱，谷歌也一直在與美國政府進行討論，為其先進程式設計模型的釋出做準備。這些模型將具備比前幾代產品更為複雜的網路能力。
-
----
-
-### 2026-07-02 08:45:00  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Fall on Tech-Led Selloff — The Nikkei 225 Index fell 2% to around 69,000 on Thursday, snapping a three-day winning streak as it tracked a tech-driven selloff on Wall Street overnight amid lingering concerns over the sustainability of the AI-fueled rally. Chip- and AI-related stocks led the decline, with steep losses from Kioxia Holdings (-11.4%), Taiyo Yuden (-4.3%), Tokyo Electron (-6.2%), Advantest (-6.7%), and Fujikura (-6.6%). In contrast, financial and consumer shares mostly advanced, including Mitsubishi UFJ (1.9%), Mizuho Financial (2.4%), and Toyota Motor (3.6%). Japanese equities also came under pressure despite increased oil flows through the Strait of Hormuz and signs of progress in indirect US-Iran talks. Meanwhile, Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates.
-
----
-
-### 2026-07-02 08:44:35  #經濟數據 #美國
-
-【聚焦今晚20:30！高盛：美國6月非農或超預期 世界盃貢獻4萬崗位】北京時間週四晚間20:30，美國勞工統計局將釋出6月非農就業報告。 這也將是沃什擔任美聯儲主席後的第二份非農報告。全球市場正對此翹首以待，因為這份報告將為美聯儲接下來的利率走向提供重要線索。根據市場普遍預期，美國6月新增就業將略超11萬人，失業率為4.3%。但高盛表示，受世界盃的強勁拉動，即將公佈的6月非農就業報告可能會比市場預期更為強勁。
-
----
-
-### 2026-07-02 08:44:34  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude fell below $71 per barrel, down 0.37% intraday.
-
----
-
-### 2026-07-02 08:41:54  #市場 #國際
-
-【訊息人士：橋水旗艦宏觀基金頂住市場震盪 上半年實現8.1%收益】知情訊息人士週三表示，橋水基金旗艦產品Pure Alpha宏觀基金上半年實現8.1%的收益，頂住市場劇烈波動的衝擊。受伊朗戰爭影響，今年金融市場大幅震盪，許多頂尖對沖基金苦於因應，並在衝突結束後蒙受重大虧損。不過，此後整體行業反彈回穩。今年前六個月，標普500指數和納斯達克指數分別上漲9.67%和12.48%，逼近紀錄高點。兩位訊息人士表示，Millennium和Point72等大型多策略基金同期也實現兩位數的收益。目前旗下管理約1020億美元資產的橋水基金近年積極佈局新策略，包括一檔利用人工智慧(AI)進行投資決策的基金。此外，橋水也與道富環球投資管理（State Street Global Advisors）合作推出一檔交易所交易基金（ETF）。其中一位訊息人士表示，這檔名為AIA宏觀基金的AI基金同期實現了8.1%的收益。自2023年底推出以來，AIA基金的年化回報率為11.3%，目前管理約45億美元資產。
-
----
-
-### 2026-07-02 08:41:06  #央行 #美聯儲
-
-【沃什說服了特朗普先不降息？專訪歐洲經濟學家米霍夫】“沃什曾提出一套論點，闡述為何降息並非壞事，反而有利；然而在首次會議上，他似乎又在這一立場上有所退縮。在我看來，這是一個非常重要的訊號。”歐洲工商管理學院（INSEAD）前院長、現任勞辛經濟與商業講席教授伊利亞·米霍夫表示。米霍夫對記者表示：“我的推測是，沃爾什成功說服了特朗普，讓他相信通脹是其競選（中期選舉）面臨的最大敵人——畢竟美國前總統拜登的敗選很大程度上就是因為通脹問題。”
-
----
-
-### 2026-07-02 08:40:33  #MKT News
-
-【Shenghong Technology: mid-term high-end product supply to remain relatively tight】Shenghong Technology said on July 1 in an investor-relations record that mid-term supply of high-end products will remain relatively tight. High-end PCB capacity expansion has long lead times and high equipment and process barriers, so new expansion projects are unlikely to deliver meaningful capacity in the short term. Downstream leading customers are prioritizing supply-chain stability, product quality and on-time delivery.
-
----
-
-### 2026-07-02 08:40:10  #其他
-
-【勝宏科技：高階產品的供給仍將處於相對緊張的狀態】勝宏科技7月1日在投資者關係活動記錄表中指出，從中期來看，高階產品的供給仍將處於相對緊張的狀態。高階PCB產能擴張週期長、裝置與工藝壁壘高，新增擴產專案短期難以形成有效產能供給。現階段下游頭部客戶以確保供應鏈穩定、保障產品品質與交付為核心訴求。
-
----
-
-### 2026-07-02 08:39:15  #公司 #國際
-
-【日產CEO堅稱與雷諾的合作從未如此牢固】繼日產汽車公司失去一名董事會成員後，其合作伙伴、最大股東雷諾集團撤回支援，這家日本車企隨即發出一個明確訊號：一切安好。 在紐約接受採訪時，日產執行長伊萬·埃斯皮諾薩（Ivan Espinosa）淡化了雷諾上週拒絕對有影響力的外部董事 Motoo Nagai重新任命投票一事的重要性。 儘管這一舉動導致 Motoo Nagai失去了自2019年起一直擔任的董事會席位，但埃斯皮諾薩表示，此事並不意味著日產與雷諾關係再度緊張。 “很多言論是在股權交叉結構變更時說的，比如‘他們要離婚了，彼此恨得要命’，”埃斯皮諾薩說，“但現實是，我們現在合作比以往任何時候都更加緊密。”
-
----
-
-### 2026-07-02 08:38:50  #公司
-
-【匯通集團與京石公司簽署路企戰略合作備忘錄】據匯通集團訊息，7月1日，河北京石高速公路開發有限公司副總經理卞照躍帶隊到訪匯通集團，雙方實地觀摩物流園區產業鏈運營，開展深度座談研討，並正式簽署戰略合作備忘錄，搭建長效協同合作平臺。下一步，雙方將加快推進大資料平臺搭建、保通保暢、優惠政策落地等工作，持續完善配套服務，以路企協同新模式賦能區域產業高質量發展。
-
----
-
-### 2026-07-02 08:38:47  #其他
-
-【全國鐵路實行第三季度列車執行圖 深圳鐵路運能升級】從7月1日起，全國鐵路實行第三季度列車執行圖，較調圖前增加106列。本次調圖後，深圳鐵路迎來全域運能升級，廣深港高鐵、城際通勤、跨區域幹線三大維度同步提質增效。此次調圖，深港跨境通行能力再度升級。香港西九龍直達內地站點新增廣州北、義烏、福清西3個站點，總數增至113個。廣深港高鐵高峰每小時開行30列，平均兩分鐘一班，跨境出行真正實現公交化通勤。同時，兩趟長途列車始發站調整至福田站，實現跨境通勤與跨省長途出行雙向提質。
-
----
-
-### 2026-07-02 08:38:23  #其他
-
-【中國銀河證券：年內豬價或有所反彈表現】中國銀河證券研報稱，關於2026年豬價走勢，中國銀河證券認為年度均價或呈現同比下行走勢，受冬季疫病影響程度的變化，年內豬價或有所反彈表現。中國銀河證券建議積極關注成本管控領先、資金面相對健康、估值合理的優秀豬企。
-
----
-
-### 2026-07-02 08:38:01  #公司
-
-百信國際控股有限公司在香港暫停交易。
-
----
-
-### 2026-07-02 08:36:03  #公司
-
-日產執行長堅稱，與雷諾的聯盟從未如此牢固。
-
----
-
-### 2026-07-02 08:35:26  #公司 #觀點
-
-【中信證券：液冷產業進入訂單與業績兌現階段 建議把握三條主線機會】中信證券研報稱，液冷產業正從主題預期進入訂單與業績兌現階段，關注具備產能彈性、客戶認證和核心部件能力的供應鏈公司。代工鏈短期業績彈性大，GB200/GB300量產導致臺系及國際龍頭產能緊張，大陸企業憑藉精密加工和組裝承接外溢訂單。自主品牌供應鏈長期成長性最強，憑藉認證資產和客戶介面卡位CSP、ODM及國產GPU生態，當前處於樣機和小批次驗證階段。橫向新品類提供差異化機會，配電系統、光模組液冷等新品價值量較低但客戶廣、易切入。建議沿“代工鏈業績彈性、自主品牌認證突破、橫向新品類放量”三條主線把握機會。
-
----
-
-### 2026-07-02 08:34:25  #公司 #市場 #國際
-
-【韓國股市重挫6% AI擔憂導致晶片製造商股票下跌】韓國股市大跌，Meta Platform Inc.計劃出售算力，引發投資者對AI產能過剩的質疑，導致晶片製造商類股遭拋售。Kospi指數一度下跌6.5%，三星電子和SK海力士的跌幅均至少達到7%。由於Kospi期貨大幅下跌，交易所暫時中止了程式化賣出操作。美國同類股票美光科技和閃迪的股價均下跌超過10%。這一走勢可能會加劇投資者對晶片股漲勢可持續性的擔憂。此前，全球人工智慧建設的蓬勃發展推動晶片股飆升。韓國市場權重股處於供應鏈的核心位置，迄今為止一直受益於市場對先進硬體的持續需求。然而，韓國股市近期的劇烈波動凸顯出，一旦人們對這種繁榮的可持續性產生質疑，市場情緒就會迅速轉變。
-
----
-
-### 2026-07-02 08:32:54  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【RAC: UK diesel posts largest monthly drop on record】UK diesel prices fell sharply in June, the latest sign the inflation shock tied to the Iran war is rapidly fading, the RAC said. Average diesel dropped nearly 17p to 167p per litre, the biggest single-month fall since records began in 2000. Petrol fell 8p to 151p per litre, the seventh-largest monthly decline on record. The fuel price falls are likely to offset some of the inflationary impact from a 13% household energy bill rise that took effect yesterday. Markets now expect the UK inflation peak to be well below the BoE's April projection; traders have sharply reduced rate-hike bets and no longer fully price a hike this year.
-
----
-
-### 2026-07-02 08:32:17  #其他
-
-【江西樂安河發生2026年第2號洪水】從水利部瞭解到，受降雨影響，江西鄱陽湖水系樂安河香屯水文站7月1日23時漲至38.01米，超警戒0.01米，依據主要江河洪水編號規定，此次洪水編號為“樂安河2026年第2號洪水”。
-
----
-
-### 2026-07-02 08:29:16  #公司
-
-【英矽智慧：與武田製藥達成價值最高 6 億美元的 AI 賦能藥物發現戰略合作】英矽智慧公告，本集團已與武田製藥（「武田製藥」）訂立一項戰略合作協議。雙方將依託英矽智慧自主研發的全流程 Pharma.AI 人工智慧藥物研發平臺，針對武田製藥選定的疾病治療領域聯合開展候選藥物研發，聚焦高潛力治療靶點，開發具備臨床差異化優勢的候選藥物（「本次合作」）。本次合作項下，英矽智慧負責主導人工智慧驅動的藥物發現環節，篩選滿足預設科學標準與早期開發要求的候選分子；武田製藥將依託其成熟的全球化藥物開發實力，推進對應候選藥物的臨床試驗驗證工作。依據協議約定條款，英矽智慧可收取約 6000 萬美元專案啟動金及近期里程碑款項；同時有權收取臨床前、臨床、商業化及銷售階段對應的各期里程碑付款，整筆合作交易總金額最高可達約 6 億美元，另可在合作產品實現商業化後，按產品銷售額收取分級特許權使用費。武田製藥將獨家享有本次合作產出創新療法在全球範圍內的開發、生產及商業化權益。
-
----
-
-### 2026-07-02 08:27:56  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加0.28噸】截至2026年07月01日，全球最大的黃金ETF SPDR Gold Trust持倉量為1005.36噸，較前一個交易日增加0.28噸。
-
----
-
-### 2026-07-02 08:26:19  #其他
-
-碧桂園控股：截至2026年5月31日，發行人合併範圍內較前次統計時點（2026年4月30日）涉及新增標的金額5,000萬元以上的未決訴訟、仲裁案件20宗，標的金額合計約52.18億元。
-
----
-
-### 2026-07-02 08:25:24  #市場 #焦點
-
-紐約期金突破4060美元/盎司，日內跌0.55%。
-
----
-
-### 2026-07-02 08:23:25  #公司
-
-【中證協公佈2026年第四批IPO現場檢查名單 11家為科創板IPO】中證協於今日公佈關於2026年第四批首發企業現場檢查抽查名單，共抽中21家IPO。其中，11家IPO來自科創板，分別是世和基因、博睿康、普生醫療、卓鐳鐳射、好達電子、夏禾科技、物奇微、金連線、中電防務、匯禾醫療、東方晶源；8家IPO來自創業板，分別是光遠新材、耐德股份、超力電器、延長中科、百靈生物、瑞高新材、永康防務、億鈳氣體；2家IPO來自滬市主機板IPO，分別為勝華波、康佰家。值得注意的是，本次被抽中現場檢查的21家IPO均於6月受理。
-
----
-
-### 2026-07-02 08:22:39  #公司 #市場
-
-【日經指數下跌2.2%】日經225指數擴大跌幅，最新下跌2.2%，報68953.80點。鎧俠控股股價下跌9%，軟銀集團股價下跌3%。
-
----
-
-### 2026-07-02 08:20:04  #其他
-
-【英格蘭地區遭遇有系統觀測以來最熱6月】英國氣象局7月1日表示，今年6月，英格蘭地區經歷了英國有系統觀測以來最熱的6月。6月26日諾福克郡林伍德最高氣溫達到37.7攝氏度，創下英國有系統觀測以來6月最高氣溫紀錄。（央視新聞）
-
----
-
-### 2026-07-02 08:19:46  #央行 #國際
-
-韓國央行：預計通脹將在一段時間內保持高位。
-
----
-
-### 2026-07-02 08:19:15  #央行 #國際
-
-韓國央行：7月消費者價格通脹率預計略低於6月。
-
----
-
-### 2026-07-02 08:19:07  #央行 #國際
-
-韓國央行預測，消費者價格通脹短期內將維持在高位。
-
----
-
-### 2026-07-02 08:18:29  #MKT News #Market Regions #Japan & APAC
-
-Kioxia's Japan-listed shares fell 9%.
-
----
-
-### 2026-07-02 08:17:22  #MKT News #Macro & Rates
-
-【South Korea inflation stays elevated, reinforcing Bank of Korea hawkish stance】South Korea June CPI rose 3.2% YoY, the fastest pace since Dec 2023 and in line with economists' forecasts. Core inflation excluding volatile food and energy held at 2.5%, signalling persistent underlying price pressures. The print reinforces expectations that the Bank of Korea will remain hawkish ahead of its July 16 policy meeting; policymakers cite inflation, strong growth, a weaker won and surging house prices as increasingly pointing to the need to tighten monetary policy.
-
----
-
-### 2026-07-02 08:17:20  #國際
-
-美國證券交易委員會就海納國際指控的相關內幕期權交易展開調查。
-
----
-
-### 2026-07-02 08:17:00  #MKT News #Market Regions #Europe & UK #Wall Street (US) #Nasdaq100 #Impact bearish #DAX #FTSE100
-
-Euro Stoxx 50 futures down 0.3%; DAX futures down 0.2%; FTSE 100 futures down 0.2%; Nasdaq futures down 0.3%.
-
----
-
-### 2026-07-02 08:16:58  #市場 #國際
-
-歐洲斯托克50指數期貨下跌0.3%，德國DAX指數期貨下滑0.2%，英國富時指數期貨走低0.2%。
-
----
-
-### 2026-07-02 08:16:53  #公司
-
-和譽在港交所公告，公司之附屬公司和譽醫藥宣佈，與阿斯利康簽署戰略合作協議，共同推進一項新型靶免聯合療法治療非小細胞肺癌（“NSCLC”）的臨床研究。
-
----
-
-### 2026-07-02 08:15:02  #公司 #市場 #央行 #國際
-
-【韓國Kospi指數大跌 晶片股跟隨美股走低】韓國Kospi指數一度下跌6%，晶片製造商股價跟隨美國同行下跌，投資者正在評估美聯儲主席凱文·沃什關於通脹的最新言論。SK海力士、三星電子和三星電機對指數拖累最大。韓國小型股Kosdaq指數下跌幅度一度高達4.6%。MSCI亞太指數一度下跌1.1%。
-
----
-
-### 2026-07-02 08:14:14  #市場 #焦點 #國際
-
-韓國綜合股價指數（KOSPI）下跌6%，至7804.92。
-
----
-
-### 2026-07-02 08:14:05  #MKT News #Important #Market Themes #Chip Wars #005930.KS #Impact bearish #000660.KS
-
-South Korea's KOSPI index deepened losses to 6%; Samsung Electronics fell 7%, SK Hynix dropped nearly 8%.
-
----
-
-### 2026-07-02 08:13:42  #國際
-
-波蘭軍方在X平臺上表示，俄羅斯襲擊烏克蘭期間，波蘭緊急調動戰鬥機。
-
----
-
-### 2026-07-02 08:13:12  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Poland's military said on social media it scrambled fighter jets in response to Russian strikes on Ukraine.
-
----
-
-### 2026-07-02 08:13:01  #MKT News #Market Regions #Greater China
-
-【China successfully launches Haiyang-2E ocean-observation satellite】At 07:46 Beijing time on July 2, 2026, China launched the Haiyang-2E ocean-observation satellite from Jiuquan Satellite Launch Center on a Long March 4B rocket; the satellite reached its planned orbit and the mission was declared successful. The launch was the Long March family’s 654th flight.
-
----
-
-### 2026-07-02 08:12:33  #其他
-
-【我國成功發射海洋二號E衛星】北京時間2026年7月2日7時46分，我國在酒泉衛星發射中心使用長征四號乙運載火箭，成功將海洋二號E衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第654次飛行。
-
----
-
-### 2026-07-02 08:11:33  #公司 #觀點
-
-【中信證券：功率器件二輪漲價趨勢確立 AI電源開啟長期增量空間】中信證券指出，功率器件板塊正迎來二輪漲價週期確認與AI電源需求爆發的雙重催化。中短期，根據各公司公告，國內外功率器件廠商將陸續啟動第二輪漲價，本輪上行週期進一步明確；中長期來看，預計AI電源對功率器件拉動會持續強化，HVDC/SST趨勢下長期增量空間將逐步開啟。預計本輪漲價趨勢有望延續至2027年，相關廠商有望開啟新一輪收入快速成長同時盈利能力顯著修復，看好功率器件板塊整體上行機遇。
-
----
-
-### 2026-07-02 08:10:56  #公司
-
-【百心安-B：國家藥監局批准BIOHEART生物可吸收藥物洗脫支架註冊】百心安-B(02185)釋出公告，於2029年6月29日，由本公司自主研發的Bioheart®生物可吸收藥物洗脫支架(BRS)，已獲中華人民共和國國家藥品監督管理局(國家藥監局)批准，用於治療因原生冠狀動脈病變所致的缺血性心臟病患者，以改善冠狀動脈管腔直徑。Bioheart®BRS關鍵性試驗的詳細結果已發表於《JACC: Cardiovascular Interventions》(2025年第18卷第1號)。
-
----
-
-### 2026-07-02 08:09:16  #市場 #國際
-
-日本丸紅株式會社股價逆勢上漲，現漲2.8%。
-
----
-
-### 2026-07-02 08:09:13  #MKT News #Important
-
-Korea Exchange activated a temporary halt mechanism, suspending programmatic trading on the KOSPI for 5 minutes.
-
----
-
-### 2026-07-02 08:08:04  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。
-
----
-
-### 2026-07-02 08:07:50  #市場 #國際
-
-受美國半導體股票拋售壓力蔓延影響，日經225指數下跌超過2%，一度跌至69051.63點。
-
----
-
-### 2026-07-02 08:07:30  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell 2.00% intraday.
-
----
-
-### 2026-07-02 08:07:11  #公司
-
-【石四藥集團：美索巴莫片(0.5g)獲藥品生產註冊批件】石四藥集團(02005)釋出公告，本集團是首家國內企業取得中國國家藥品監督管理局(國家藥監局)有關美索巴莫片(0.5g)的藥品生產註冊批件，屬於化學藥品第3類，視同透過一致性評價。美索巴莫片是一種肌肉鬆弛藥，主要用於關節肌肉扭傷、腰肌勞損、坐骨神經痛等病症。
-
----
-
-### 2026-07-02 08:06:27  #公司 #觀點
-
-【中金：機構間REITs供給年底有望實現翻倍擴容】中金公司表示，展望後市，中金認為機構間REITs供給年底有望實現翻倍擴容。市場或將呈現三大發展主線：外資加速佈局盤活不動產、儲架式序列發行與存量擴募走向常態化、各類首單底層資產持續落地。隨著底層運營資料不斷積累、監管引導深化，產品架構設計將進一步向權益本源收斂。長遠來看，在監管體系逐步完備的支撐下，機構間REITs將成為盤活不動產存量資產、服務實體經濟的長效權益融資載體。
-
----
-
-### 2026-07-02 08:05:46  #公司
-
-【科華資料山河灣谷智算中心揭牌投運】據科華資料訊息，7月1日，由科華資料自主投資、設計及建設的山河灣谷智算中心正式揭牌投運。在座談會交流及戰略簽約環節，科華資料與北京移動朝陽分公司正式簽署戰略合作協議。雙方將以山河灣谷智算中心為合作基點，在算力網路共建、智算場景應用、行業解決方案等領域開展深度合作。
-
----
-
-### 2026-07-02 08:05:44  #市場 #國際
-
-美國股指期貨下跌；納斯達克100指數期貨下跌0.4%。
-
----
-
-### 2026-07-02 08:05:22  #其他
-
-國家海洋預報臺7月2日08時釋出海浪藍色警報：受南海熱帶低壓的影響，預計：7月2日下午到3日上午，南海中部、北部將出現3到5米的大浪到巨浪區；海南東部近岸海域將出現2到3米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全。
-
----
-
-### 2026-07-02 08:05:08  #觀點
-
-【中信建投：金剛石高導熱材料替代空間廣闊 產業鏈相關標的具備長期投資價值】中信建投指出，金剛石散熱材料商業化程序持續提速，AI伺服器、消費電子兩大賽道均出現規模化落地產品。算力側，神達、AMD金剛石散熱AI伺服器、曙光數創兆瓦級金剛石銅浸沒液冷整機櫃已批次商用，Akash金剛石冷卻GPU伺服器斬獲大額訂單；消費端微星遊戲顯示卡、聯想AI輕薄本、高階PC水冷頭均匯入金剛石複合散熱方案。英特爾新一代伺服器處理器也有望配套金剛石導熱材料。伴隨AI高算力硬體持續迭代，金剛石高導熱材料替代空間廣闊，產業鏈相關標的具備長期投資價值。
-
----
-
-### 2026-07-02 08:04:58  #市場
-
-【銀河證券：瓦楞紙價格持續上行 龍頭企業集中停機收縮供給】銀河證券研報指出，2026年6月，造紙行業延續“停機+提價”組合拳，箱板瓦楞紙淡季逆勢大漲。6月初玖龍紙業十大基地全線提漲50—100元/噸，中旬21家企業陸續跟漲50—200元/噸，提價範圍和幅度為近三年淡季罕見。6月第二週箱板紙、瓦楞紙噸價環比分別上漲35元和48元，瓦楞原紙價格較4月低點累計上漲約11%。文化紙與白卡紙方面，晨鳴、太陽、APP等紙廠於6月20日起對銅版紙、雙膠紙及白卡紙系列同步上調200元/噸。龍頭企業協同大規模停機檢修收縮供給，玖龍、山鷹、理文、榮成等各大基地於5月底至6月執行密集停機計劃，涉及瓦楞、箱板紙等多紙種，進一步改善供需關係，為紙價上漲提供底部支撐。
-
----
-
-### 2026-07-02 08:04:36  #其他
-
-【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報69369.96點。
-
----
-
-### 2026-07-02 08:04:16  #市場
-
-MSCI亞太指數下跌1%至271.25點。
-
----
-
-### 2026-07-02 08:03:45  #其他
-
-【江西樂安河發生2026年第2號洪水】受降雨影響，江西鄱陽湖水系樂安河香屯水文站（江西上饒市）7月1日23時漲至38.01米，超警戒0.01米，依據主要江河洪水編號規定，此次洪水編號為“樂安河2026年第2號洪水”。6月30日，國家防總副總指揮、水利部部長李國英召開專題會商，對鄱陽湖水系洪水防禦作出安排部署。水利部密切關注樂安河等河流洪水發展變化，向江西省水利廳發出“一省一單”，提醒做好水庫安全度汛、中小河流洪水、山洪災害防禦和城市內澇防範等工作。江西省水利廳維持洪水防禦四級應急響應，滾動會商研判風險，派出專家組赴上饒等地協助指導洪水防禦工作。
-
----
-
-### 2026-07-02 08:03:36  #國際
-
-古巴：美國低估了我們的抗壓韌性。
-
----
-
-### 2026-07-02 08:03:20  #市場
-
-澳大利亞S&P/ASX 200指數早盤下跌0.5%，至8,676.20點。
-
----
-
-### 2026-07-02 08:03:14  #市場
-
-WTI原油日內跌1%，現報67.89美元/桶。
-
----
-
-### 2026-07-02 08:02:41  #MKT News #Important #000660.KS #Impact bearish #005930.KS
-
-SK Hynix fell 7.6% in early trade; Samsung Electronics down 6.5%.
-
----
-
-### 2026-07-02 08:02:08  #其他
-
-【莆田下發通知嚴禁組織旅遊團隊前往未開發開放區域】6月28日，莆田市仙遊縣刺刀峽谷發生一起戶外探險安全事故，9名戶外探險人員在該未開發區域活動時發生意外，其中5人溺水身亡。7月1日，莆田市文化和旅遊局訊息，該局日前釋出通知，強調嚴禁組織旅遊團隊赴未開發開放區域旅遊。通知明確，管控範圍涵蓋轄區內所有未經主管部門審批備案、未正式對外開放、未完成標準化旅遊開發建設、無安全防護設施、無應急保障體系、無正規遊覽線路、無配套服務設施的區域。（澎湃新聞）
-
----
-
-### 2026-07-02 08:02:01  #公司 #市場 #焦點 #國際
-
-受美國科技股拋售潮影響，韓國綜合股價指數下跌5%。SK海力士股價下跌8%。三星電子股價下跌7%。
-
----
-
-### 2026-07-02 08:02:01  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell below 70,000 points, down 0.70% on the day.
-
----
-
-### 2026-07-02 08:02:00  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-【South Korea's KOSPI opens down 5.02% at 7,886.87; Japan's Nikkei 225 down 0.65% at 70,015.11】KOSPI opened down 416.54 points (-5.02%) at 7,886.87 on July 2. Japan's Nikkei 225 opened down 459.85 points (-0.65%) at 70,015.11.
-
----
-
-### 2026-07-02 08:01:35  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌5%，至7,886.87。
-
----
-
-### 2026-07-02 08:01:28  #市場
-
-SK海力士股價下跌8%。
-
----
-
-### 2026-07-02 08:01:24  #公司 #市場
-
-三星電子股價下跌7％，SK海力士股價下跌8％。
-
----
-
-### 2026-07-02 08:01:13  #國際
-
-特朗普在Truth社交平臺發文：“我很高興地宣佈，一家業務遍佈美國東北部的極具實力的零售企業即將進駐，並向費城人民送上‘生日快樂’的祝福！”
-
----
-
-### 2026-07-02 08:00:39  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌4.5%，至7933.10點。
-
----
-
-### 2026-07-02 08:00:36  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Stabilizes on Warsh Remarks — Silver steadied above $59 an ounce on Thursday after hitting seven-month lows in recent sessions, as Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, suggesting there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Data released on Wednesday also showed private-sector hiring in the US slowed more than expected last month, while investors now await the nonfarm payrolls report later today for fresh insights into labor market conditions and the Fed’s policy outlook. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Silver also drew support from rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks, which pushed oil prices lower and eased inflation concerns.
-
----
-
-### 2026-07-02 08:00:19  #市場
-
-【日韓股市開盤】日經225指數上午開盤報70039.89點，跌幅0.62％。韓國綜合股價指數（KOSPI）開盤下跌4.5％，至7933.10點。
-
----
-
-### 2026-07-02 07:59:47  #國際
-
-當地媒體稱韓國考慮投入7.8萬億韓元建造六艘下一代驅逐艦。
-
----
-
-### 2026-07-02 07:59:36  #MKT News #Market Regions #Greater China #Macro & Rates #The Fed (FOMC) #CSI300 #Impact bullish #WTI #Impact mixed #US10Y
-
-【China International Capital Co: Interim results to become primary investment theme】China International Capital Co said markets began to wobble in mid‑May and staged a partial recovery in early June but remain below prior peaks. Hot thematic sectors show high cumulative gains and crowding, and style rebalancing has gained traction. Internationally, transit through the Strait of Hormuz has eased crude supply disruption and pushed WTI toward about $70/bbl, easing upward pressure on global inflation; however Kevin Warsh's policy stance continues to intermittently influence US monetary expectations. Domestically, the A‑share market is entering interim‑results season; stronger July–August results are expected to support indices, CICC says prior volatility and rapid style rotation may be waning, and interim earnings should progressively become the main investment focus.
-
----
-
-### 2026-07-02 07:58:49  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Finds Support After Warsh Remarks — Gold stabilized above $4,000 an ounce on Thursday after falling to an eight-month low earlier this week, as Federal Reserve Chair Kevin Warsh said inflation expectations had eased over the past month, suggesting there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Data released on Wednesday also showed private-sector hiring in the US slowed more than expected last month, while investors now await the nonfarm payrolls report later today for fresh insights into labor market conditions and the Fed’s policy outlook. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Gold also drew support from rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks, which pushed oil prices lower and eased inflation concerns.
-
----
-
-### 2026-07-02 07:58:46  #MKT News #WTI #Impact bearish #Brent
-
-US President Trump said on July 3 that Free Fuel Network will cut gasoline prices at 25 Free Fuel stations in the greater Philadelphia area, urged other retailers to follow, and predicted pump prices would soon return to the record lows seen before the "Iran action".
-
----
-
-### 2026-07-02 07:58:41  #國際
-
-韓華海洋表示，已從國防採辦計劃管理局（DAPA）選為韓國下一代驅逐艦（KDDX）專案的首選競標者。
-
----
-
-### 2026-07-02 07:58:14  #觀點 #央行 #國際
-
-【中金：中報業績將逐步成為投資主線】中金指出，5月中旬市場開始震盪調整，6月初後顯現修復，但據前期高點仍有距離。行業方面，在熱點主題累計漲幅與擁擠度都偏高的狀態下，近期風格再平衡關注度有所抬升。從海外環境看，霍爾木茲海峽通航後，原油供應擾動緩解，WTI原油降至約70美元/桶，對全球通脹的推升壓力已經明顯減弱，但美聯儲主席沃什的貨幣政策立場仍階段性影響投資者對美國貨幣政策的預期。從內部環境看，A股市場即將進入中報期，7—8月較好的中報業績預計能對指數帶來一定支撐，前期震盪整理、風格快速輪動現象可能已經處於尾聲階段，中金認為中報業績將逐步成為投資主線。
-
----
-
-### 2026-07-02 07:58:11  #觀點
-
-【華泰證券：厄爾尼諾或帶來大水電估值修復機會】華泰證券研報稱，2026年5月底南方電網負荷提前創歷史新高，大幅提升了市場對極端天氣及水電來水的關注度。
-
----
-
-### 2026-07-02 07:55:17  #觀點
-
-【華泰證券：看好本輪鋰電漲價週期，同時看好鈉電池與固態電池新技術產業化趨勢】華泰證券指出，鑫欏鋰電釋出鋰電產業鏈7月預排產資料，樣本企業中電池7月排產181.4GWh，環比+3.2%，正極合計23.7萬噸，環比+6.2%，負極19.9萬噸，環比+4.5%，隔膜22.1億平，環比+1.4%，電解液13.3萬噸，環比+6.8%，旺季效應持續，國內外儲能需求維持強勁，全球汽車電動化持續加速，疊加年底出口退稅搶出口+儲能併網旺季，我們預計下半年排產有望加速提升，我們重申看好本輪鋰電漲價週期，同時看好鈉電池從1到N產業趨勢，固態電池新技術產業化。
-
----
-
-### 2026-07-02 07:54:46  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-President Trump said, as he promised, oil prices are falling rapidly and gasoline prices are also declining, but not fast enough.
-
----
-
-### 2026-07-02 07:54:33  #觀點
-
-【中信建投：看好相關創新藥及製藥企業的醫保準入與商保增量空間】中信建投研報指出，2026年6月29日，國家醫保局公示透過2026年基本醫保目錄及商保創新藥目錄調整初步形式審查的藥品名單及相關資訊。本次形式審查呈現三大特徵：一是申報品種數量進一步提高，共收到申報材料818份、涉及674個通用名，較2025年增加100份材料、41個通用名；二是形式審查透過率大幅提升，除預申報品種外初步形式審查總體透過率達92%，較去年提高8個百分點；三是申報品種以新藥為主，以目錄外條件1（五年內獲批新通用名藥品）申報的數量達343個。疊加今年首次引入的“預申報”機制，本次結果充分體現了醫保目錄調整對創新藥的持續傾斜，看好相關創新藥及製藥企業的醫保準入與商保增量空間。
-
----
-
-### 2026-07-02 07:54:20  #市場 #國際
-
-特朗普：油價正在快速下跌。
-
----
-
-### 2026-07-02 07:52:59  #公司 #市場 #國際
-
-【受伊朗戰爭擔憂影響，紐西蘭房價接近三年低點】紐西蘭房價在6月份連續第三個月下跌，接近三年來的最低點，這進一步加劇了經濟放緩的跡象，因為全球石油危機打擊了家庭收入和消費者信心。惠靈頓房地產諮詢公司Cotality週四援引其房屋價值指數稱，房價較5月份修正後的0.3%下跌了0.2%。短短三個月內，房價已下跌0.8%，創下自2023年7月以來的最低水平。
-
----
-
-### 2026-07-02 07:52:46  #公司
-
-【36家A股公司預披露半年報 29家預喜】資料顯示，截至7月1日上午12時記者發稿，A股共有36家上市公司披露了2026年上半年業績預告。其中，以歸屬於母公司股東的淨利潤變動上限來看，略增、預增、續盈、扭虧的公司數量分別為11家、13家、2家、3家，合計數量為29家，佔已披露業績預告公司的80.56%。通訊、電子、有色金屬等科技和週期行業中報業績增速相對較高。
-
----
-
-### 2026-07-02 07:52:41  #經濟數據 #日本
-
-【日本6月基礎貨幣同比-13.7%】7月2日訊息，日本6月基礎貨幣同比-13.7%，前值-12.2%。
-
----
-
-### 2026-07-02 07:51:50  #國際
-
-【基輔市遭空襲傳出持續爆炸聲 至少5人受傷 】烏克蘭基輔市市長克利奇科2日凌晨在社交媒體發文稱，俄軍對基輔市發動導彈和無人機襲擊，初步資訊顯示，空襲已造成至少5人受傷。克利奇科稱，基輔舍甫琴科夫斯基區一處賓館和戈洛謝耶夫斯基區的一棟居民樓遭到襲擊並起火。截至凌晨2時35分，新華社記者在基輔市仍能聽到爆炸聲和防空系統開火聲。
 
 ---
