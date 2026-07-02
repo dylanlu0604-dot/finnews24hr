@@ -1,7 +1,244 @@
 {
-  "updated": "2026-07-02 21:49:39",
-  "count": 13887,
+  "updated": "2026-07-02 21:53:41",
+  "count": 13906,
   "items": [
+    {
+      "id": "mkt:019f231a-db76-7aab-8c7d-14444a0e66fd",
+      "time": "2026-07-02 21:53:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Information reports Anthropic has held talks with several chip-design firms."
+    },
+    {
+      "id": "te:economy:563819",
+      "time": "2026-07-02 21:52:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield Trim Gains on Weak US Jobs Data — UK 10-year gilt yields gave up early gains to fall below 2.8% as weaker-than-expected US jobs data prompted investors to scale back expectations for further Federal Reserve rate hikes. The US economy added just 57,000 jobs last month, well below forecasts, while the unemployment rate unexpectedly fell to 4.2% as many people left the labor force. Investors also assessed remarks from central bankers at the ECB's Sintra Forum. Bank of England Governor Andrew Bailey maintained a dovish tone, pointing to a slowing UK economy while stressing that persistent inflation risks rule out near-term rate cuts. Meanwhile, Fed Chair Kevin Warsh said inflation expectations had eased in recent weeks but reaffirmed the Fed's commitment to returning inflation to its 2% target. Elsewhere, improving prospects for indirect US-Iran talks, with Qatar expected to schedule the next round soon, helped push oil prices lower as shipping through the Strait of Hormuz remained largely uninterrupted."
+    },
+    {
+      "id": "4967878",
+      "time": "2026-07-02 21:52:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 已與多家晶片設計企業展開洽談。"
+    },
+    {
+      "id": "4967877",
+      "time": "2026-07-02 21:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 已自研 AI 晶片，相關前期研發工作啟動。"
+    },
+    {
+      "id": "mkt:019f231a-197c-7aab-8c7d-0dc92b45dcad",
+      "time": "2026-07-02 21:52:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "The Information reports ANTHROPIC is in talks with Samsung to develop custom AI chips."
+    },
+    {
+      "id": "te:markets:563818",
+      "time": "2026-07-02 21:52:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 27-year High — HSBC Holdings shares increased to 1456.00 GBp, the highest since July 1999. Over the past 4 weeks, HSBC Holdings gained 4.53%, and in the last 12 months, it increased 64.44%."
+    },
+    {
+      "id": "4967875",
+      "time": "2026-07-02 21:51:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息：Anthropic 正與三星洽談定製人工智慧晶片合作事宜。"
+    },
+    {
+      "id": "mkt:019f2319-7048-7aab-8c7d-073bf419a815",
+      "time": "2026-07-02 21:51:37",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "US electric-vehicle maker RIVIAN (RIVN.O) shares extended gains to 12.1%."
+    },
+    {
+      "id": "mkt:019f2319-57c8-7aab-8c7c-fd85fa391f9c",
+      "time": "2026-07-02 21:51:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches one-year push to upgrade digital services for inbound visitors in six key cities】July 2 — At the 2026 Global Digital Economy Conference opening, the Cyberspace Administration of China, the Ministry of Culture and Tourism and the Ministry of Commerce launched a targeted initiative to improve digital services for inbound foreign visitors. The program will pilot in Beijing, Shanghai, Shenzhen, Hangzhou, Chengdu and Sanya and aims, over about one year, to roll out flagship use cases, remove bottlenecks in digital access across residence, medical, payment, tourism and public services, lift regional inbound-digital service levels and promote an interoperable, inclusive system with mutual recognition of standards."
+    },
+    {
+      "id": "4967874",
+      "time": "2026-07-02 21:51:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國重點城市境外人員入境數字化服務便利性提升專項行動啟動】7月2日，全國重點城市境外人員入境數字化服務便利性提升專項行動在2026全球數字經濟大會開幕式上啟動。國家網信辦、文化和旅遊部、商務部聯合在北京、上海、深圳、杭州、成都、三亞共6個數字化服務基礎較好、入境人員規模較大的城市開展專項行動，將用一年左右時間，推動重點城市落地一批標誌性應用場景，進一步暢通數字化基礎服務，加快打通居住、醫療、支付、旅遊、公共服務等領域數字化應用服務堵點，輻射帶動各地區入境數字化服務水平再上新臺階，推動形成互聯互通、包容普惠、標準互認的數字化服務體系。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f2319-05c1-7aab-8c7c-f3ee2a27e3c4",
+      "time": "2026-07-02 21:51:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Cboe VIX fell to a more-than-two-week low, down 0.72 pts at 15.87."
+    },
+    {
+      "id": "te:markets:563817",
+      "time": "2026-07-02 21:51:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Stock Price Hits Near 25-year High — General Electric Aerospace shares increased to 380.17 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 19.46%, and in the last 12 months, it increased 55.08%."
+    },
+    {
+      "id": "4967873",
+      "time": "2026-07-02 21:51:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "Rivian 股價漲幅進一步擴大，最新上漲12.1%。"
+    },
+    {
+      "id": "4967872",
+      "time": "2026-07-02 21:50:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬銀2608盤中明顯走強，漲幅擴大至3.53%，價格上探15143元/千克，成交額已超420億元；日內增倉近6000手，量倉活躍度同步抬升。"
+    },
+    {
+      "id": "mkt:019f2318-ad94-7aab-8c7c-e8cdad40284f",
+      "time": "2026-07-02 21:50:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver 2608 contract strengthened intraday, gains widened to 3.53% and price probed CNY15,143/kg; traded value exceeded CNY42.0 billion. Open interest rose by nearly 6,000 contracts during the session, with volume and open interest both picking up."
+    },
+    {
+      "id": "4967871",
+      "time": "2026-07-02 21:50:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產拖拉機熱銷海外】近年來，我國農機出口呈現穩步遞增的趨勢。浙江永康作為農機企業的聚集地，多家農機企業正開足馬力趕製海外訂單，央視財經記者瞭解到，小馬力拖拉機等主力產品持續走俏歐美、東南亞等地。資料顯示，1-5月我國農業機械累計出口金額為336.5億元，比去年同期增長13.6%。其中，拖拉機1-5月累計出口金額為43.1億元，同比增長18.4％。國產農機企業加大研發投入，適配海外客戶需求。業內人士表示：“一方面我們已經從產品出口，轉向全產業鏈出海。很多頭部農機企業已經開始走‘產品＋配件＋服務’，再加上本地化組裝的模式。另一方面，產品競爭從價格競爭轉向技術競爭。（央視財經）"
+    },
+    {
+      "id": "4967870",
+      "time": "2026-07-02 21:50:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破62美元/盎司，日內漲4.94%。"
+    },
+    {
+      "id": "te:economy:563814",
+      "time": "2026-07-02 21:50:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Holds Near Two-Week High — Germany's 10-year Bund yield held above 2.9%, near a two-week high, as investors weighed weaker-than-expected US jobs data, softer Eurozone inflation, and reduced expectations for aggressive ECB rate hikes this year. The US economy added just 57,000 jobs last month, well below forecasts, while the unemployment rate unexpectedly fell to 4.2% as many people left the labor force. In Europe, June inflation came in below expectations, with headline inflation easing to 2.8% and core inflation slowing to 2.4%. Speaking at the ECB's Sintra Forum, President Christine Lagarde said risks to euro-area inflation and growth had become more balanced, citing the recent decline in oil prices. Her comments marked a shift from the ECB's rate hike three weeks earlier, when policymakers cited inflation risks stemming from the Iran conflict. Since then, oil prices have dropped sharply on optimism over a US-Iran peace deal, with Qatar announcing that the next round of indirect talks would be scheduled soon."
+    },
+    {
+      "id": "4967869",
+      "time": "2026-07-02 21:50:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【身處私募信貸風暴中心 Blue Owl再度限制基金贖回】連續第二個季度，Blue Owl Capital Inc.旗下兩隻私募信貸基金遭遇行業內規模最大的贖回申請，迫使公司再次限制投資者贖回。根據Blue Owl週四的一封投資者信函，旗下規模約340億美元的Blue Owl Credit Income Corp.（業內規模最大的私募信貸基金之一，簡稱OCIC）第二季度投資者申請贖回的份額佔基金總份額的18.8%，對應金額約36億美元。這一數字低於前一季度42億美元的贖回申請。"
+    },
+    {
+      "id": "mkt:019f2318-1927-7aab-8c7c-e4b65bbbc2b4",
+      "time": "2026-07-02 21:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain's IBEX 35 advanced about 2% intraday."
+    },
+    {
+      "id": "4967868",
+      "time": "2026-07-02 21:50:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙IBEX35指數日內漲幅達2%。"
+    },
+    {
+      "id": "mkt:019f2318-067b-7aab-8c7c-dc6f0358f045",
+      "time": "2026-07-02 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. May factory orders m/m due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f2317-c027-7aab-8c7c-d306414df71b",
+      "time": "2026-07-02 21:49:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose as much as 5% intraday."
+    },
+    {
+      "id": "4967865",
+      "time": "2026-07-02 21:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗官方媒體報道，伊朗外交部長於週四會見阿富汗臨時政府代理外長。"
+    },
     {
       "id": "4967864",
       "time": "2026-07-02 21:48:48",
@@ -127834,51 +128071,6 @@
         "焦點"
       ],
       "text": "納指跌1.01%，現報25219.207點；道指漲0.47%，現報52094.621點；標普500指數跌0.24%，現報7340.250點。"
-    },
-    {
-      "id": "mkt:019eff0e-9557-7dd8-b11e-5e4efc22c3f4",
-      "time": "2026-06-25 21:53:26",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq-100 flipped negative, giving back as much as 2.1% of earlier intraday gains."
-    },
-    {
-      "id": "4955383",
-      "time": "2026-06-25 21:52:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【14%份額申請贖回後 阿瑞斯私募信貸基金限制贖回】由於贖回申請比例升至14.4%，阿瑞斯管理公司連續第二個季度限制旗下一隻私募信貸基金的贖回，這表明規模達1.8萬億美元的私募信貸行業仍面臨壓力。根據週四提交的一份檔案，阿瑞斯戰略收益基金本季度僅允許投資者贖回其所持基金份額的5%。與多數同類基金一樣，該基金第二季度的贖回需求較第一季度進一步上升，當時投資者申請贖回的比例為11.6%。該基金在致股東信中表示，近一半的贖回申請來自規模較小的機構投資者和家族辦公室，這些投資者主要位於美國以外。不過，這部分投資者在基金超過2萬名基金份額持有人中佔比還不到1%。此外，約三分之二的贖回申請來自上一季度就曾申請贖回的投資者。包括阿波羅資產管理、貝萊德以及Cliffwater Inc.在內的多家資產管理公司，第二季度也都面臨贖回申請激增的情況，因為年初未能成功贖回資金的投資者再次提出了贖回申請。該Ares基金表示，第二季度那些沒有被處理完的贖回申請，到今年年底前可能“基本得到滿足”。前提是未來幾個季度新的贖回需求，與上一季度剩餘未處理的贖回申請規模大致相當。"
-    },
-    {
-      "id": "4955382",
-      "time": "2026-06-25 21:51:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek釋出招聘廣告：正努力將所有部門的規模擴大至少一倍】DeepSeek釋出招聘廣告，稱隨著技術演進，我們正努力將所有部門的規模擴大至少一倍，空缺崗位如下：服務端開發工程師、預訓練資料工程師、AI搜尋演算法/架構工程師、Agent Harness 團隊、Agent Infra研發工程師、前端/客戶端開發工程師、AI跨界技術人才等。"
-    },
-    {
-      "id": "mkt:019eff0c-26fe-7dd8-b11e-5069a37ba46c",
-      "time": "2026-06-25 21:50:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Turkey's major bank index fell 3.3%."
-    },
-    {
-      "id": "4955381",
-      "time": "2026-06-25 21:49:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【期螺跌破3100關口 市場情緒降至冰點】今日鋼市繼續走弱。現貨市場一般跌10-20元，華東、華北部分市場螺紋已經企穩，市場拋貨狀況減緩，終端對低價貨接單量增加。不過，盤面繼續走弱創新低，期螺主力跌破3100關口。從目前看，鋼材現貨出現拋壓，部分地區低價搶跑出貨給市場帶來一定壓力，再加上外圍市場美元指數走強背景下金銀跳水，霍爾木茲海峽通行，海灣能源商品出口暴增這些因素對油價、有色等工業品都形成了較大打壓，市場形成較強的空頭氛圍。 (蘭格鋼鐵網)"
     }
   ]
 }
