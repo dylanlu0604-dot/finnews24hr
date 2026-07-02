@@ -1,7 +1,158 @@
 {
   "date": "2026-07-02",
-  "count": 2993,
+  "count": 3010,
   "items": [
+    {
+      "id": "4967922",
+      "time": "2026-07-02 22:12:52",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【大商所：推動塑膠期貨國際化發展勢在必行】2026年7月2日，由嘉悅物產集團有限公司、國泰君安期貨有限公司聯合主辦，大連商品交易所（下稱大商所）支援的越南河內塑化產業交流會成功舉辦。大商所相關負責人在會上指出，中國已是全球塑膠生產與消費核心樞紐，實體產業規模持續擴張，但當前塑膠期貨市場僅向境內投資者及合格境外投資者有限開放，而塑膠本身具備高度全球化的產業鏈屬性。伴隨國內塑膠產銷實力不斷增強、產業深度融入全球貿易，推動塑膠期貨國際化發展勢在必行。大連商品交易所構建了系統性的PVC、PP及PE期貨國際化設計框架，旨在為全球市場參與者打造公開、透明的定價平臺。"
+    },
+    {
+      "id": "mkt:019f232c-5692-7aab-8c7e-044cbb52a502",
+      "time": "2026-07-02 22:12:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Market sources say major European countries now view levying transit fees in the Strait of Hormuz as inevitable."
+    },
+    {
+      "id": "4967921",
+      "time": "2026-07-02 22:11:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯安全委員會通報，布良斯克地區遇襲巴士的司機傷勢危重。一架無人機在巴士前方發生爆炸，碎片造成司機受傷。"
+    },
+    {
+      "id": "4967920",
+      "time": "2026-07-02 22:11:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國總統副助理兼新聞顧問：特朗普總統兌現全面減稅承諾：97% 報稅人享受減稅紅利。減稅政策的紅利絕大多數流向工薪家庭 —— 財政部資料顯示，享受減稅的報稅人中，96% 人群年收入低於 20 萬美元。"
+    },
+    {
+      "id": "4967919",
+      "time": "2026-07-02 22:10:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲主要國家承認，霍爾木茲海峽通行費的徵收已成必然趨勢。"
+    },
+    {
+      "id": "4967918",
+      "time": "2026-07-02 22:10:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場訊息：哥倫比亞當選總統下令候任財政部長前往華盛頓，會晤各大國際銀行及多邊機構，協商重新談判公共債務事宜。"
+    },
+    {
+      "id": "4967917",
+      "time": "2026-07-02 22:10:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：整體失業率或誇大勞動力市場疲軟程度。"
+    },
+    {
+      "id": "mkt:019f232a-4786-7aab-8c7d-ff7d13e57887",
+      "time": "2026-07-02 22:10:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mann, a member of the Bank of England's Monetary Policy Committee, said the headline unemployment rate may overstate the extent of labour market weakness."
+    },
+    {
+      "id": "mkt:019f232a-2710-7aab-8c7d-f611e86bba76",
+      "time": "2026-07-02 22:09:52",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD one‑week volatility fell to 5.21%, the lowest level since January 2022."
+    },
+    {
+      "id": "mkt:019f232a-1b06-7aab-8c7d-e86a3c8e0724",
+      "time": "2026-07-02 22:09:49",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Mann said active measures could bring inflation close to target."
+    },
+    {
+      "id": "mkt:019f2329-e118-7aab-8c7d-e7807c441c30",
+      "time": "2026-07-02 22:09:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said Russia plans to ship up to 3 million barrels per day of crude through its western ports in July."
+    },
+    {
+      "id": "mkt:019f2329-bb9c-7aab-8c7d-deeca5264f46",
+      "time": "2026-07-02 22:09:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's crude exports via western ports rose in June to a record 3.0 mln bpd."
+    },
+    {
+      "id": "te:markets:563826",
+      "time": "2026-07-02 22:09:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Dovish Fed Bets — The Ibovespa gained nearly 1% to trade above 173,000 on Thursday as investors reacted to weaker-than-expected US labor market data. The US economy added 57,000 nonfarm payrolls last month, well below forecasts of 110,000, reducing expectations of a Federal Reserve rate hike later this month and prompting a reassessment of the monetary policy outlook. Financial stocks posted gains, with Itaú up 1.5%, while Bradesco and Banco do Brasil advanced more than 1%. Utilities also traded higher, with Axia gaining nearly 2%. Vale rose over 1.5% as iron ore prices strengthened. Petrobras added more than 1.5% despite lower oil prices after reports that the company is preparing to enter nuclear power generation by installing a small modular reactor (SMR) at one of its refineries as part of its decarbonization strategy. Other notable gainers included Ambev (+1%), Rede D’Or (+1%), and Embraer (+1.5%)."
+    },
+    {
+      "id": "te:economy:563825",
+      "time": "2026-07-02 22:09:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Factory Orders",
+        "Importance 2"
+      ],
+      "text": "US Factory Orders Fall Less than Expected — Factory orders in the US fell 1.3% month-over-month in May 2026, following an upwardly revised 5.3% surge in April and compared with market expectations for a 1.8% decline. The decrease was driven by a 4.5% drop in durable goods orders, led by a 14% slump in transportation equipment, largely reflecting a 51.8% plunge in orders for nondefense aircraft and parts. Orders for electrical equipment, appliances, and components also slipped 0.3%. Excluding transportation, factory orders rose 1.9%, extending April's 1.7% increase. Gains were recorded in fabricated metal products (1.4%), machinery (2.1%), and computers and electronic products (0.2%). Meanwhile, orders for nondurable goods increased 2.2%."
+    },
     {
       "id": "4967916",
       "time": "2026-07-02 22:08:55",
@@ -697,6 +848,16 @@
       "text": "The Information reports ANTHROPIC is in talks with Samsung to develop custom AI chips."
     },
     {
+      "id": "4967876",
+      "time": "2026-07-02 21:52:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股市開盤小幅走高 非農報告令市場押注美聯儲暫且不會加息】美國就業增長低於預期，推動美國股市早盤上漲，並令短期國債收益率走低。市場押注，美聯儲短期內不會被迫加息。紐約時間9:31，標普500指數上漲0.3%，延續本週的漲勢，納斯達克100指數基本持平，道指走高0.4%。貨幣市場顯示，交易員目前計入美聯儲本月加息的機率約為20%，低於資料公佈前的33%。美國6月招聘顯著放緩，削弱了今年以來就業增長顯現的動能。6月非農就業人數增加5.7萬人，而此前兩個月資料下修，也令近期就業報告強勁的勢頭有所減弱。失業率降至4.2%。推薦閱讀：環球市場連線：非農遠不及預期；AI泡沫憂慮再起；日元干預戒備升溫eToro的Bret Kenwell表示：“就在投資者以為自己已經摸清勞動力市場狀況之際，6月就業報告卻給了他們一個意外。令人失望的就業報告本身並不算好訊息，但對風險資產而言，或許也帶來了一線利好，那就是美聯儲採取鷹派立場的壓力減輕了。”他指出，儘管當天的報告並未顯示勞動力市場出現明顯問題，但確實在一定程度上給此前的敘事降了溫。這可能會讓市場討論重新回到美聯儲的雙重使命，也就是在通脹與就業之間尋求平衡，而不是迫使政策制定者幾乎只關注價格壓力。"
+    },
+    {
       "id": "te:markets:563818",
       "time": "2026-07-02 21:52:00",
       "tags": [
@@ -866,6 +1027,14 @@
       "text": "U.S. May factory orders m/m due in 10 minutes."
     },
     {
+      "id": "4967867",
+      "time": "2026-07-02 21:50:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特石油出口接近戰前水平 霍爾木茲海峽運輸量持續回升】自沙烏地阿拉伯恢復在波斯灣內的裝載作業以來，其原油出口量已激增至大致相當於戰前的水平。這進一步表明，在美國與伊朗達成臨時和平協議後，該地區產油國的供應正在復甦。彭博彙編的油輪追蹤資料顯示，全球最大石油出口國沙特在截至週三的六天內，日均原油出口量達到630萬桶。這一出口量與2025年的平均水平相當，已達到戰爭爆發前的2月水平的近90%，當時沙特及其海灣鄰國加大了供應力度。華盛頓與德黑蘭達成的臨時和平框架中包含一項協議，允許船隻通行霍爾木茲海峽。然而，伊朗伊斯蘭革命衛隊仍然聲稱控制著這一通往全球市場的關鍵水道。儘管出口的短期平均資料可能存在波動，但過去一週沙特一直在提高拉斯坦努拉港口的裝運量，並派出了伊朗戰爭爆發以來的首批超級油輪進入阿曼灣。這與自其西海岸延布港的裝運活動一道，推高了整體出口量。日均630萬桶的出口量涵蓋了延布港和沙特波斯灣各港口的總出貨量。彭博彙編的油輪追蹤資料顯示，如果這一水平得以維持，將標誌著出口量較6月出現顯著增長，6月的日均出口量約為445萬桶。此外，還有數艘油輪很可能在週四啟航，這將進一步推高出口量。沙特能源部未立即回應置評請求。"
+    },
+    {
       "id": "mkt:019f2317-c027-7aab-8c7c-d306414df71b",
       "time": "2026-07-02 21:49:46",
       "tags": [
@@ -874,6 +1043,14 @@
         "Precious Metals"
       ],
       "text": "Spot silver rose as much as 5% intraday."
+    },
+    {
+      "id": "4967866",
+      "time": "2026-07-02 21:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法院裁定中央情報局不得解僱負責多元、公平與包容（DEI）相關工作的工作人員。"
     },
     {
       "id": "4967865",
