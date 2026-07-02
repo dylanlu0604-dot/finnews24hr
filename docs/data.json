@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-03 04:14:04",
-  "count": 13804,
+  "updated": "2026-07-03 04:18:00",
+  "count": 13802,
   "items": [
+    {
+      "id": "4968266",
+      "time": "2026-07-03 04:15:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：洛克希德・馬丁是收購海軍防務企業 Ultra Maritime 的頭號競標方，交易金額約 35 億美元。"
+    },
     {
       "id": "mkt:019f2476-a409-7aab-8c84-0ba11c547b7a",
       "time": "2026-07-03 04:13:02",
@@ -127133,32 +127141,6 @@
         "公司"
       ],
       "text": "安森美半導體將按大約70億美元估值收購Synaptics Inc.。 Synaptics 股東將持有合併後公司約 12% 股份。"
-    },
-    {
-      "id": "4955859",
-      "time": "2026-06-26 04:16:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "安森美半導體：安森美半導體將收購 SYNAPTICS，以推動下一代物理AI智慧系統的開發。"
-    },
-    {
-      "id": "mkt:019f006d-1393-7dd8-b126-02fbdec662c6",
-      "time": "2026-06-26 04:16:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump plans to nominate telecom-law expert Adam Candeub as head of the Justice Department’s Antitrust Division."
-    },
-    {
-      "id": "4955858",
-      "time": "2026-06-26 04:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "可口可樂公司宣佈北美業務單元管理層人事調整。"
     }
   ]
 }
