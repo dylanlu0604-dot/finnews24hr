@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-02 14:14:40",
-  "count": 14014,
+  "updated": "2026-07-02 14:18:39",
+  "count": 14016,
   "items": [
+    {
+      "id": "te:markets:563646",
+      "time": "2026-07-02 14:15:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were set for a subdued open on Thursday as global risk sentiment weakened amid a technology-led selloff, fueled by concerns over the sustainability of the AI-driven rally. Investors also awaited a key US jobs report for fresh clues on the Federal Reserve’s policy outlook after Chair Kevin Warsh said inflation expectations had eased over the past month. Meanwhile, rising oil flows through the Strait of Hormuz and signs of progress in indirect US-Iran talks eased pressure on oil-importing economies worldwide. In Europe, investors will monitor employment data from Spain and Italy, along with France’s budget balance figures, while no major corporate earnings releases are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were flat to slightly lower."
+    },
+    {
+      "id": "4966690",
+      "time": "2026-07-02 14:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：公司會抓住半導體產業鏈國產轉移的契機 預期未來該業務板塊將保持高速增長】新萊應材7月1日接受機構調研時表示，國產替代是公司一貫堅持的發展策略，在半導體領域，公司會抓住半導體產業鏈國產轉移的契機，在半導體裝置及廠務端零部件市場積極佈局，預期未來該業務板塊將保持高速增長；在食品安全領域，公司將繼續堅持“裝置+包材”的業務模式佈局市場，增加與客戶間的黏性，不斷提升在國產品牌的市場份額。推動公司產品銷量快速增長；生物醫藥領域，公司將不斷在高附加值的醫藥級泵閥領域加大研發投入，以應對該行業未來市場下行的風險。"
+    },
+    {
+      "id": "4966689",
+      "time": "2026-07-02 14:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "海關總署： 根據我國相關法律法規與中華人民共和國海關總署（以下稱中方）和塞爾維亞共和國農業、林業和水利部（以下稱塞方）有關輸華禽肉的檢驗檢疫要求規定，即日起，允許符合相關要求的塞爾維亞禽肉進口。"
+    },
+    {
+      "id": "mkt:019f2177-171f-7aab-8c6e-5bc5d974bc1d",
+      "time": "2026-07-02 14:14:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's government economic adviser Nagase said he personally favors a June rate hike, warning that delaying it would cause excessive yen depreciation and harm households."
+    },
+    {
+      "id": "4966688",
+      "time": "2026-07-02 14:14:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員長濱：個人認為6月加息是合適的，因推遲加息將導致日元過度貶值，損害家庭部門利益。"
+    },
+    {
+      "id": "4966687",
+      "time": "2026-07-02 14:14:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星高管團隊到訪聯想總部，或涉及儲存晶片長期供應合作】韓國三星電子高管團隊到訪聯想集團總部。一位接近雙方合作的人士表示，此次三星高層團隊到訪，雙方交流內容或涉及儲存晶片供應、AI硬體協同以及長期合作機制等議題。不過，截至發稿，聯想集團與三星方面暫未就具體合作內容作出公開回應。（新浪科技）"
+    },
+    {
+      "id": "4966686",
+      "time": "2026-07-02 14:13:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【住友林業擬發行新一輪公司債，募資總額上限達4000億日元】7月2日，日本住友林業（Sumitomo Forestry）向監管機構提交披露檔案，計劃發行新一輪公司債券，發行總額度上限最高達4000億日元。本次募資計劃主要用於最佳化集團的資本結構、償還到期債務，併為其在全球住宅、木材建材業務以及綠色可持續發展專案上的擴張提供充足的資金儲備。"
+    },
     {
       "id": "mkt:019f2176-4f63-7aab-8c6e-54d0bcf3cca4",
       "time": "2026-07-02 14:13:49",
@@ -129122,51 +129193,6 @@
         "公司"
       ],
       "text": "【杭州靈卡科技股份有限公司向港交所提交上市申請書】據港交所檔案：杭州靈卡科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4954248",
-      "time": "2026-06-25 14:18:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏柏新材增資至7.7億元，增幅約22%】天眼查App顯示，6月23日，宏柏新材（605366）發生工商變更，註冊資本由約6.3億人民幣增至約7.7億人民幣，增幅約22%。該公司成立於2005年12月，法定代表人為紀金樹，經營範圍包括基礎化學原料製造、化工產品生產、新材料技術研發等，由宏柏化學有限公司、宏柏（亞洲）集團有限公司等共同持股。"
-    },
-    {
-      "id": "4954247",
-      "time": "2026-06-25 14:16:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌5%，現報387.00元。"
-    },
-    {
-      "id": "4954246",
-      "time": "2026-06-25 14:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南淮濱通報“600萬元建成的加油站被指非法佔地，責令限期拆除”】6月25日，河南信陽市淮濱縣聯合調查組釋出情況通報：針對媒體報道“投資600萬元的加油站，建成即被‘責令限期拆除’”的情況，我縣高度重視，立即成立由紀委、政法、自然資源局、谷堆鄉政府等單位組成的聯合調查組對相關情況進行全面核查。經調查，加油站存在未批先建等問題，縣紀委監委已於2024年7月對相關責任人進行追責問責。加油站法定代表人高某父親為獲取審批，買賣偽造的國家機關證件的行為涉嫌違法犯罪，縣法院已於2025年4月依法進行判決。下一步，我縣將根據核查情況依法依規處置。"
-    },
-    {
-      "id": "4954245",
-      "time": "2026-06-25 14:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥完勝捷克 隊史首次三連勝晉級】在24日進行的美加墨世界盃A組末輪比賽中，東道主墨西哥隊以3:0戰勝捷克隊，以三戰全勝的戰績排名小組第一，晉級淘汰賽。這是墨西哥隊首次在世界盃小組賽階段以全勝成績出線，也是他們自2002年韓日世界盃以來首次獲得小組第一。（新華社）"
-    },
-    {
-      "id": "mkt:019efd6b-02e7-7dd8-b10e-ad97a3a115f3",
-      "time": "2026-06-25 14:15:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "09988.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed Alibaba (09988.HK) down more than 5%, turnover above HK$8.8 billion."
     }
   ]
 }

@@ -1,7 +1,78 @@
 {
   "date": "2026-07-02",
-  "count": 1343,
+  "count": 1350,
   "items": [
+    {
+      "id": "te:markets:563646",
+      "time": "2026-07-02 14:15:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were set for a subdued open on Thursday as global risk sentiment weakened amid a technology-led selloff, fueled by concerns over the sustainability of the AI-driven rally. Investors also awaited a key US jobs report for fresh clues on the Federal Reserve’s policy outlook after Chair Kevin Warsh said inflation expectations had eased over the past month. Meanwhile, rising oil flows through the Strait of Hormuz and signs of progress in indirect US-Iran talks eased pressure on oil-importing economies worldwide. In Europe, investors will monitor employment data from Spain and Italy, along with France’s budget balance figures, while no major corporate earnings releases are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were flat to slightly lower."
+    },
+    {
+      "id": "4966690",
+      "time": "2026-07-02 14:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：公司會抓住半導體產業鏈國產轉移的契機 預期未來該業務板塊將保持高速增長】新萊應材7月1日接受機構調研時表示，國產替代是公司一貫堅持的發展策略，在半導體領域，公司會抓住半導體產業鏈國產轉移的契機，在半導體裝置及廠務端零部件市場積極佈局，預期未來該業務板塊將保持高速增長；在食品安全領域，公司將繼續堅持“裝置+包材”的業務模式佈局市場，增加與客戶間的黏性，不斷提升在國產品牌的市場份額。推動公司產品銷量快速增長；生物醫藥領域，公司將不斷在高附加值的醫藥級泵閥領域加大研發投入，以應對該行業未來市場下行的風險。"
+    },
+    {
+      "id": "4966689",
+      "time": "2026-07-02 14:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "海關總署： 根據我國相關法律法規與中華人民共和國海關總署（以下稱中方）和塞爾維亞共和國農業、林業和水利部（以下稱塞方）有關輸華禽肉的檢驗檢疫要求規定，即日起，允許符合相關要求的塞爾維亞禽肉進口。"
+    },
+    {
+      "id": "mkt:019f2177-171f-7aab-8c6e-5bc5d974bc1d",
+      "time": "2026-07-02 14:14:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's government economic adviser Nagase said he personally favors a June rate hike, warning that delaying it would cause excessive yen depreciation and harm households."
+    },
+    {
+      "id": "4966688",
+      "time": "2026-07-02 14:14:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員長濱：個人認為6月加息是合適的，因推遲加息將導致日元過度貶值，損害家庭部門利益。"
+    },
+    {
+      "id": "4966687",
+      "time": "2026-07-02 14:14:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星高管團隊到訪聯想總部，或涉及儲存晶片長期供應合作】韓國三星電子高管團隊到訪聯想集團總部。一位接近雙方合作的人士表示，此次三星高層團隊到訪，雙方交流內容或涉及儲存晶片供應、AI硬體協同以及長期合作機制等議題。不過，截至發稿，聯想集團與三星方面暫未就具體合作內容作出公開回應。（新浪科技）"
+    },
+    {
+      "id": "4966686",
+      "time": "2026-07-02 14:13:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【住友林業擬發行新一輪公司債，募資總額上限達4000億日元】7月2日，日本住友林業（Sumitomo Forestry）向監管機構提交披露檔案，計劃發行新一輪公司債券，發行總額度上限最高達4000億日元。本次募資計劃主要用於最佳化集團的資本結構、償還到期債務，併為其在全球住宅、木材建材業務以及綠色可持續發展專案上的擴張提供充足的資金儲備。"
+    },
     {
       "id": "mkt:019f2176-4f63-7aab-8c6e-54d0bcf3cca4",
       "time": "2026-07-02 14:13:49",
