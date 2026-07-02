@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-03 01:10:13",
-  "count": 13898,
+  "updated": "2026-07-03 01:14:11",
+  "count": 13899,
   "items": [
+    {
+      "id": "mkt:019f23d1-aebd-7aab-8c81-9c576b762a67",
+      "time": "2026-07-03 01:12:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Russia's ambassador said Moscow has issued a diplomatic note to Sweden's foreign ministry over another drone attack on Russia's diplomatic mission in Sweden."
+    },
+    {
+      "id": "mkt:019f23d1-826a-7aab-8c81-939fb31382b3",
+      "time": "2026-07-03 01:12:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Department of Justice refused to recognize the International Criminal Court's jurisdiction over US citizens."
+    },
+    {
+      "id": "4968151",
+      "time": "2026-07-03 01:11:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗認為從當前價位來看，鋁並不具備吸引力的做空交易價值。"
+    },
+    {
+      "id": "4968150",
+      "time": "2026-07-03 01:10:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗認為，未來一個月鋁價將觸底，隨後在9月至12月期間回升至每噸3300至3500美元區間。"
+    },
+    {
+      "id": "4968149",
+      "time": "2026-07-03 01:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯大使表示，針對俄駐瑞典外交機構再次遭遇無人機襲擊一事，俄方已向瑞典外交部遞交照會。"
+    },
     {
       "id": "4968147",
       "time": "2026-07-03 01:07:37",
@@ -128011,38 +128056,6 @@
         "國際"
       ],
       "text": "馬克龍表示，法國將於週五公佈應對高溫天氣的全新舉措。"
-    },
-    {
-      "id": "4955674",
-      "time": "2026-06-26 01:12:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國法官叫停特朗普關於建立新合格選民名單的命令】一名聯邦法官叫停了美國總統特朗普一項行政命令的關鍵部分。該命令旨在於11月中期選舉前，編制一份被聯邦機構認定為有資格投票的人員名單，並對郵寄選票施加新的限制。這是本週特朗普政府在選舉事務上遭遇的一系列法庭挫敗之一。與此同時，這位總統正因共和黨人未能促使國會透過一項強制要求提供公民身份證明才能投票的法案，而與自己所在的政黨發生內訌。"
-    },
-    {
-      "id": "mkt:019effc5-02db-7dd8-b122-8d1b8a48daca",
-      "time": "2026-06-26 01:12:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. judge blocks Trump order to create new voter-eligibility list】A federal judge blocked key provisions of President Trump’s executive order that sought to have federal agencies compile a list of persons deemed eligible to vote and to impose new limits on mail ballots ahead of the November midterm elections. The ruling is one of several court setbacks for the administration this week, and comes as Trump faces intra-party friction after Republicans failed to pass federal legislation requiring proof of citizenship to vote."
-    },
-    {
-      "id": "4955673",
-      "time": "2026-06-26 01:12:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國佛羅里達州州長：“鱷魚惡魔島” （美國佛羅里達州的一座非法移民拘留設施）人員遣散工作正在推進，被拘留者已被轉移到其他聯邦設施。"
-    },
-    {
-      "id": "4955672",
-      "time": "2026-06-26 01:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：愛迪生、法國電力、紐沃德及多家義大利企業簽署小型模組化反應堆核電合作協議。"
     }
   ]
 }
