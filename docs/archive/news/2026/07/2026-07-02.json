@@ -1,7 +1,207 @@
 {
   "date": "2026-07-02",
-  "count": 1247,
+  "count": 1267,
   "items": [
+    {
+      "id": "4966633",
+      "time": "2026-07-02 13:37:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌4%，現報5300.00元。"
+    },
+    {
+      "id": "4966632",
+      "time": "2026-07-02 13:37:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高雲半導體完成數億元Pre-IPO輪融資】7月2日，據高雲半導體訊息，廣東高雲半導體科技股份有限公司近日順利完成Pre-IPO輪融資交割落地，本次融資總規模達數億元。本次Pre-IPO輪融資由廣開基金、廣州工控資本、越秀產業基金、廣州金控基金、知識城創投、國創集團（大灣區國創中心資產管理平臺）、番禺產投等本地國資共同參與。"
+    },
+    {
+      "id": "mkt:019f2155-1449-7aab-8c6d-9b25dca8cb6d",
+      "time": "2026-07-02 13:37:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China's CSI 300 index futures (IF) front-month contract fell more than 2.00% intraday to 4,730.4 points."
+    },
+    {
+      "id": "mkt:019f2154-f326-7aab-8c6d-9101051f603a",
+      "time": "2026-07-02 13:37:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share Xingye Technology hit the daily up-limit in the afternoon, completing a floor-to-ceiling reversal after trading nearly RMB900 mln. The stock had closed at limit-down for two consecutive sessions and briefly touched the down-limit earlier today."
+    },
+    {
+      "id": "4966631",
+      "time": "2026-07-02 13:37:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨下跌2.0%至4,730.40點。"
+    },
+    {
+      "id": "4966630",
+      "time": "2026-07-02 13:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部：將就Coupang調查事宜再次聯絡美國眾議院司法委員會。"
+    },
+    {
+      "id": "mkt:019f2154-3d0f-7aab-8c6d-8cf85594857b",
+      "time": "2026-07-02 13:36:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Apple has asked suppliers to produce 10 million foldable iPhones this year."
+    },
+    {
+      "id": "mkt:019f2153-dfb3-7aab-8c6d-818936c2086e",
+      "time": "2026-07-02 13:36:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's Sci‑Tech Innovation Board 50 (STAR 50) fell more than 6% in the afternoon session; Shenzhen ChiNext Index is down about 4.8%. Stocks in advanced packaging, compute hardware and memory/storage chips led the declines."
+    },
+    {
+      "id": "4966629",
+      "time": "2026-07-02 13:36:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋環球鋁業公司（EGA）已重啟約7%的鋁生產裝置；目標是在年底前將庫存降至正常水平。"
+    },
+    {
+      "id": "4966628",
+      "time": "2026-07-02 13:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿聯酋IHC與阿達尼集團擬在印度奧里薩邦投資115億美元建設鋁業專案。"
+    },
+    {
+      "id": "mkt:019f2152-f32d-7aab-8c6d-7d90193b2089",
+      "time": "2026-07-02 13:35:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Taiwan Weighted Index fell 274.83 points (0.58%) to 46,744.16 at the close on Thursday, July 2."
+    },
+    {
+      "id": "mkt:019f2152-df5a-7aab-8c6d-708dac085f4d",
+      "time": "2026-07-02 13:35:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Hamas calls on Arab League to convene emergency summit】An agency reported a Hamas spokesman called on the Arab League to convene an emergency leaders' summit to respond to Israeli plans to expel residents of the Gaza Strip."
+    },
+    {
+      "id": "4966627",
+      "time": "2026-07-02 13:34:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內跌2%，現報2875.80點。"
+    },
+    {
+      "id": "4966626",
+      "time": "2026-07-02 13:34:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部：對美國眾議院關於Coupang調查的報告僅反映Coupang單方面主張表示遺憾。"
+    },
+    {
+      "id": "mkt:019f2152-a2fe-7aab-8c6d-6cfe8e82d9f6",
+      "time": "2026-07-02 13:34:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell over 3% intraday."
+    },
+    {
+      "id": "mkt:019f2152-93dc-7aab-8c6d-6753df2b8374",
+      "time": "2026-07-02 13:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fuqiao confirms 15–30% price hikes for E‑glass fabrics, effective July 1】Fuqiao Industrial’s core unit Fuqiao (Dongguan) Glassfiber Co. confirmed on July 2 that it has implemented price increases for electronic fabrics effective July 1. Citing higher manufacturing costs and tight supply, the company said standard E‑glass fabrics for traditional PCBs and consumer electronics are up 30%, while Low‑DK2 electronic fabrics for AI servers and high‑speed/high‑frequency boards are up 15%."
+    },
+    {
+      "id": "4966625",
+      "time": "2026-07-02 13:34:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4734.40點。"
+    },
+    {
+      "id": "mkt:019f2152-0240-7aab-8c6d-5e8edc4dde0a",
+      "time": "2026-07-02 13:34:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Report: China embodied intelligence market to reach 1.09 tln yuan by 2026; 22–23% CAGR】A Shanghai industry report projects China’s embodied intelligence market will grow from about 213.3 bln yuan in 2018 to 1.09 tln yuan by 2026, a 22–23% CAGR, making it one of the fastest-growing global markets. The report highlights a complete domestic value chain — core sensors, servo motors, harmonic reducers, final assembly and algorithm integration — with concentrated component clusters in the Yangtze River and Pearl River deltas that speed prototype iteration versus US/EU peers and underpin a manufacturing cost advantage of roughly 30–50% versus overseas rivals."
+    },
+    {
+      "id": "4966624",
+      "time": "2026-07-02 13:34:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至3%。"
+    },
+    {
+      "id": "4966623",
+      "time": "2026-07-02 13:34:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【興業科技午後觸及漲停 上演“地天板”】高位人氣股興業科技午後觸及漲停，上演“地天板”，成交近9億元。該股此前連續2日報收跌停，今早一度觸及跌停。"
+    },
     {
       "id": "4966622",
       "time": "2026-07-02 13:33:21",
