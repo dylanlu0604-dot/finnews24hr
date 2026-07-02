@@ -1,7 +1,27 @@
 {
   "date": "2026-07-03",
-  "count": 327,
+  "count": 329,
   "items": [
+    {
+      "id": "4968275",
+      "time": "2026-07-03 04:43:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴林外交部稱，應巴林方面要求，聯合國安理會召開緊急會議，會議結束後，巴林外交大臣於週四在紐約會見了美國駐聯合國大使邁克・沃爾茨，巴林稱本國遭到伊朗襲擊。雙方探討了多項相關事宜：推動美伊談判達成全面和平協議、恢復霍爾木茲海峽國際航運通行、強化地區安全域性勢。"
+    },
+    {
+      "id": "te:markets:563880",
+      "time": "2026-07-03 04:40:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Rise on Softer Fed Outlook — The S&P/TSX Composite Index rose 0.3% to close at 34,967 on Thursday, as a weaker-than-expected US jobs report tempered expectations of further Fed rate hikes. US job growth slowed more than expected in June, pointing to a cooling labor market and prompting investors to scale back bets on near-term tightening. Meanwhile, Iran and the US concluded another round of indirect talks in Doha without a clear breakthrough toward a lasting peace agreement. Oil prices still declined as supply concerns around the Strait of Hormuz continued to ease, reducing energy-driven inflation pressures and reinforcing expectations that the BoC could adopt a more dovish stance. Financial stocks traded mixed, with Brookfield rising 1.7%, while RBC fell 1.1%. Mining shares advanced on higher gold prices, with Barrick up 4% and Franco-Nevada gaining 4.3%. Shopify jumped more than 4.5% after reaching a settlement with Shopline, a company owned by Joyy."
+    },
     {
       "id": "mkt:019f248e-08b3-7aab-8c84-3c3bec24804c",
       "time": "2026-07-03 04:38:35",
