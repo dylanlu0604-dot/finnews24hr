@@ -1,7 +1,84 @@
 {
   "date": "2026-07-02",
-  "count": 608,
+  "count": 617,
   "items": [
+    {
+      "id": "mkt:019f205e-b8f5-7aab-8c68-90cac88c7498",
+      "time": "2026-07-02 09:08:26",
+      "tags": [
+        "MKT News",
+        "JD.O",
+        "Impact bullish"
+      ],
+      "text": "【China’s national elderly-care subsidy goes live on JD; 50% off home-care services, 800 yuan/mo cap】From July 1 China’s national elderly-care consumption subsidy is available on JD.com, with the first e-commerce redemption executed in Beijing. The Ministry of Civil Affairs and Ministry of Finance will subsidize services for moderately disabled and more severely disabled elderly across home care, institutional care, respite and day-care; the JD rollout covers home-care services. Eligible seniors on the JD app receive a 50% reduction on purchases of high-frequency in-home services — assisted bathing, domestic help, hospital escort, rehab/physiotherapy and short-term care — with a maximum subsidy of 800 yuan per person per month."
+    },
+    {
+      "id": "4966160",
+      "time": "2026-07-02 09:08:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【隨著霍爾木茲海峽供應量增加，瑞銀下調油價預期】途經霍爾木茲海峽的能源運輸量不斷增加，促使瑞銀下調其2026-2027年油價預期。瑞銀目前預計，今年布倫特原油均價為每桶84美元，較早前預期下調每桶9美元。該行還將2027年油價預期從每桶85美元下調至75美元。瑞銀表示：“地緣政治風險降低以及供應量的快速反彈，導致價格下跌幅度超出我們的預期。“該行預計，隨著海灣地區的浮動儲備恢復正常且需求回升，今年下半年油價將小幅反彈至每桶80美元。瑞銀還認為風險溢價會更高，因為恢復正常的道路可能依然崎嶇。瑞銀表示：“補充庫存的需求應會在到2027年底前繼續支撐價格，但所需的庫存重建規模小於我們此前預期的10億桶。”"
+    },
+    {
+      "id": "4966159",
+      "time": "2026-07-02 09:07:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《智慧網聯汽車 組合駕駛輔助系統安全要求》強制性國家標準正式釋出】2026年6月27日，工業和資訊化部組織制定並歸口的《智慧網聯汽車 組合駕駛輔助系統安全要求》（GB47955—2026）強制性國家標準由國家市場監督管理總局、國家標準化管理委員會批准釋出，擬於2027年1月1日起正式實施。《智慧網聯汽車 組合駕駛輔助系統安全要求》的釋出和實施，為組合駕駛輔助系統明確統一的安全規範，對提升智慧網聯汽車安全水平、保障產業健康可持續發展具有重要意義。下一步，工業和資訊化部將認真做好標準的宣貫實施，加強智慧網聯汽車產品准入管理，進一步壓實企業安全主體責任，保障組合駕駛輔助系統安全合規應用；同時，加快釋出實施自動駕駛系統等其他強制性國家標準，推動構建完善的智慧網聯汽車標準測試和監管體系，加速自動駕駛技術產業化程序，引領我國智慧網聯汽車產業高質量發展。"
+    },
+    {
+      "id": "4966158",
+      "time": "2026-07-02 09:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調油價預測，因霍爾木茲海峽輸油量提升。"
+    },
+    {
+      "id": "4966157",
+      "time": "2026-07-02 09:06:49",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【鴻擎科技完成超13億元Pre-B輪融資】近日，鴻擎科技完成超13億元Pre-B輪融資，累計融資金額超過25億元。本輪融資由建信投資、工銀資本、金浦資本聯合領投。四川發展科創基金、國泰海通、中銀國際、中信建投、興業證券、源餘資本、泊富基金、金芙蓉空天海洋基金、紫金國瑞工融基金、廈門建源金創軌道基金、建源湘能興望基金、交銀投資、成都交子資本、農銀投資等共同參與。老股東北京先進製造基金、亦莊國投追加投資。本輪融資主要用於公司經營、研發投入、團隊建設，進一步提升鴻擎科技服務衛星組網的核心能力。"
+    },
+    {
+      "id": "4966156",
+      "time": "2026-07-02 09:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【HarmonyOS 6 終端裝置數突破7000萬】7月2日訊息，HarmonyOS 6 終端裝置數突破7000萬。"
+    },
+    {
+      "id": "4966155",
+      "time": "2026-07-02 09:06:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首批產品開售，南方中證REITs全收益指數基金一天結募】7月1日，首批4只REITs指數基金開啟發行。其中，南方基金旗下產品率先結募，僅1天時間，募資規模已超過3億元上限。南方基金公告稱，基金髮行截止日由此前的7月7日提前至7月1日，並對7月1日的認購申請進行比例確認。（中證金牛座）"
+    },
+    {
+      "id": "mkt:019f205c-1a06-7aab-8c68-8f9128f5504d",
+      "time": "2026-07-02 09:05:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "HarmonyOS said on its official WeChat account that the number of devices running HarmonyOS 6 has exceeded 70 million."
+    },
+    {
+      "id": "4966154",
+      "time": "2026-07-02 09:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月1日749股獲融資買入超億元 兆易創新獲買入64.40億元居首】7月1日共有3464只個股獲融資資金買入，有749股買入金額超億元。其中，兆易創新、京東方Ａ、瀾起科技融資買入金額排名前三，分別獲買入64.40億元、53.18億元、50.16億元。"
+    },
     {
       "id": "mkt:019f205a-8040-7aab-8c68-850bed2915e9",
       "time": "2026-07-02 09:03:49",
