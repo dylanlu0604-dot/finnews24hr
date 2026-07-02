@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-03 00:23:39",
-  "count": 13931,
+  "updated": "2026-07-03 00:27:41",
+  "count": 13929,
   "items": [
+    {
+      "id": "4968114",
+      "time": "2026-07-03 00:26:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "隨著AI礦產熱潮吸引投資關注，剛果（金）計劃建立首個證券交易所。"
+    },
+    {
+      "id": "mkt:019f23a6-1faf-7aab-8c80-f31beda5cdbc",
+      "time": "2026-07-03 00:25:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "US equity gauges diverged: Nasdaq Composite fell more than 1%, the S&P 500 dropped 0.28%, and the Dow Jones Industrial Average rose 0.64%."
+    },
+    {
+      "id": "4968113",
+      "time": "2026-07-03 00:23:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報25779.481點；道指漲0.66%，現報52648.750點；標普500指數跌0.27%，現報7463.370點。"
+    },
+    {
+      "id": "mkt:019f23a4-71fe-7aab-8c80-e8f2da929094",
+      "time": "2026-07-03 00:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Austria's embassy in Tehran has resumed operations."
+    },
+    {
+      "id": "4968112",
+      "time": "2026-07-03 00:23:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【分析師：Anthropic與五角大樓的爭端凸顯了Palantir的優勢】D.A. Davidson分析師Gil Luria和Lucky Schreiner在一份報告中寫道，Anthropic與美國國防部之間緊張的關係表明，在人工智慧模型之上建立編排層的必要性，這凸顯了Palantir的優勢。他們寫道，直接在Anthropic模型之上建立業務的企業可能會因為政府限制訪問許可權而面臨“災難性”干擾，但Palantir可以順暢地切換其服務底層的模型。D.A. Davidson的分析師寫道：“我們認為，這一事態發展消除了Palantir面臨的最大潛在威脅，即企業將求助於Anthropic和OpenAI來解決其最大問題的觀念。”Palantir股價上漲2.5%。"
+    },
     {
       "id": "4968111",
       "time": "2026-07-03 00:22:20",
@@ -128265,72 +128315,6 @@
         "公司"
       ],
       "text": "【德意志銀行：美光科技向投資者表示，在AI時代公司已向好轉變】德意志銀行的分析師在一份研究報告中表示，美光科技第三財季的業績在財務和戰略上都跨越了高門檻，這有助於向投資者傳達一個資訊，即在AI時代，該公司的商業模式已經發生了根本性的改變。這些分析師說，該公司提供了有關其長期客戶合同的重要細節，這些合同將確保在當前的經濟週期內實現盈利。德意志銀行的分析師表示，協議的廣度和披露的深度超出了投資者的預期。他們表示，這份報告在很大程度上表明，隨著儲存晶片成為一種戰略資產而不僅僅是大宗商品，儲存晶片行業的內在基本面動態已經發生改變。"
-    },
-    {
-      "id": "4955617",
-      "time": "2026-06-26 00:27:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "Bumble在被曝尋求出售之後，恢復交易，股價上漲 13%。"
-    },
-    {
-      "id": "te:markets:561981",
-      "time": "2026-06-26 00:26:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises on Thursday — The FTSE 100 advanced more than 0.5% on Thursday, aligning with broader European markets. Gains were primarily driven by a global rebound in technology sentiment, strong corporate updates, and renewed takeover activity. HSBC rose 1.1%, 3i jumped 11.5%, and AstraZeneca gained 1.1%, alongside broader support from banking, mining, and consumer equities. Budget airline operator EasyJet climbed over 6% after rejecting a fourth takeover proposal from investment firm Castlelake while simultaneously extending the deadline for potential future offers. Financial giant Barclays also advanced nearly 3% following announcements that its US division exceeded mandatory capital thresholds in recent Federal Reserve stress tests. Conversely, energy majors Shell and BP finished lower, pressured by a volatile oil market that traded down for most of the session before recovering late in the UK schedule on renewed concerns over Strait of Hormuz flows."
-    },
-    {
-      "id": "4955616",
-      "time": "2026-06-26 00:26:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞當選總統：哥倫比亞不會向犯罪集團提供優待政策。"
-    },
-    {
-      "id": "4955615",
-      "time": "2026-06-26 00:25:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和海灣合作委員會譴責伊朗代理人在伊拉克發動的襲擊。"
-    },
-    {
-      "id": "4955614",
-      "time": "2026-06-26 00:25:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase Global：因網路中斷，部分使用者在Base網路上的交易可能會出現延遲。"
-    },
-    {
-      "id": "mkt:019eff99-0acf-7dd8-b121-90cd7a6d2683",
-      "time": "2026-06-26 00:24:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "AXIOS reports Meta Platforms (META.O) hired the founder of Virtue AI for its Superintelligence lab."
-    },
-    {
-      "id": "4955613",
-      "time": "2026-06-26 00:23:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta智慧實驗室招攬 Virtue AI 創始人團隊。"
     }
   ]
 }
