@@ -1,7 +1,49 @@
 {
   "date": "2026-07-03",
-  "count": 321,
+  "count": 325,
   "items": [
+    {
+      "id": "te:markets:563878",
+      "time": "2026-07-03 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index went up by 539 points or 1.03 percent on Thursday to close at 52844 points. The rise was led by Apple (4.80%), McDonalds (4.07%) and Walt Disney (3.84%)."
+    },
+    {
+      "id": "mkt:019f2489-5048-7aab-8c84-3135c1c99158",
+      "time": "2026-07-03 04:33:26",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $11.06bn in the week to June 26, versus a $5.66bn increase in the prior week."
+    },
+    {
+      "id": "4968273",
+      "time": "2026-07-03 04:33:23",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至6月26日當週外國央行持有美國國債 -110.64億美元，前值56.56億美元。"
+    },
+    {
+      "id": "mkt:019f2489-1fff-7aab-8c84-2aa57bb8bb4d",
+      "time": "2026-07-03 04:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.26) | actual -11064000000B | previous 5656000000B"
+    },
     {
       "id": "4968272",
       "time": "2026-07-03 04:31:33",

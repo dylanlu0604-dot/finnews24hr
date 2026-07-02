@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-03 04:33:30",
-  "count": 13799,
+  "updated": "2026-07-03 04:37:22",
+  "count": 13794,
   "items": [
+    {
+      "id": "te:markets:563878",
+      "time": "2026-07-03 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index went up by 539 points or 1.03 percent on Thursday to close at 52844 points. The rise was led by Apple (4.80%), McDonalds (4.07%) and Walt Disney (3.84%)."
+    },
+    {
+      "id": "mkt:019f2489-5048-7aab-8c84-3135c1c99158",
+      "time": "2026-07-03 04:33:26",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $11.06bn in the week to June 26, versus a $5.66bn increase in the prior week."
+    },
+    {
+      "id": "4968273",
+      "time": "2026-07-03 04:33:23",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至6月26日當週外國央行持有美國國債 -110.64億美元，前值56.56億美元。"
+    },
+    {
+      "id": "mkt:019f2489-1fff-7aab-8c84-2aa57bb8bb4d",
+      "time": "2026-07-03 04:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.26) | actual -11064000000B | previous 5656000000B"
+    },
     {
       "id": "4968272",
       "time": "2026-07-03 04:31:33",
@@ -127036,91 +127078,6 @@
         "MKT News"
       ],
       "text": "【Lithuanian president nominates Sinkevičius as new prime minister】President Nausėda on the evening of the 25th nominated Social Democratic chairman Mindaugas Sinkevičius as candidate for prime minister. Parliament is scheduled to vote on the new government on the 30th. The Ruginienė government resigned on the 23rd and is serving in a caretaker capacity. Under Lithuanian law the new PM is proposed by the Social Democratic Party, which holds the largest number of seats in parliament."
-    },
-    {
-      "id": "mkt:019f0080-0f33-7dd8-b126-42084f164c34",
-      "time": "2026-06-26 04:37:00",
-      "tags": [
-        "MKT News",
-        "JPM.O"
-      ],
-      "text": "Sources say JP Morgan CEO Dimon is expected to remain CEO for three more years."
-    },
-    {
-      "id": "te:markets:561993",
-      "time": "2026-06-26 04:36:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Close Mixed — US equities finished mixed on Thursday, with the S&P 500 flat, the Nasdaq 100 falling 0.5%, and the Dow Jones up 0.1%. Investors reassessed their exposure to mega-cap tech stocks while also weighing robust economic data. While optimism toward semiconductors and AI-related demand remained intact, concerns over the heavy concentration of market gains in a handful of hyperscale and software companies weighed on broader indices. Micron rallied over 15% after stronger-than-expected earnings and a bullish revenue forecast of $50 billion for the August quarter, while Qualcomm rose 10% after doubling its projection for non-handset revenue in the next three years. On the other hand, Nvidia, Oracle, Amazon, Alphabet, and Microsoft saw losses ranging between 1.5% and 3.2%. Apple plunged 6.1%, after lifting prices on MacBook and iPad products, pointing to surging input costs, particularly for chips and other key components."
-    },
-    {
-      "id": "mkt:019f007f-1ad3-7dd8-b126-388a94bf4d92",
-      "time": "2026-06-26 04:35:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Colombian carrier said it will resume scheduled flights to Valencia, Venezuela from Thursday afternoon."
-    },
-    {
-      "id": "4955871",
-      "time": "2026-06-26 04:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬航空表示，將持續暫停往返加拉加斯的航班至 7 月 2 日，期間將視運營狀況重新評估。"
-    },
-    {
-      "id": "mkt:019f007e-9478-7dd8-b126-376569cbdff4",
-      "time": "2026-06-26 04:35:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "New York Times reports OpenAI is leaning toward waiting until next year to pursue an IPO."
-    },
-    {
-      "id": "4955870",
-      "time": "2026-06-26 04:35:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "訊息人士：摩根大通董事會希望傑米・戴蒙繼續擔任執行長數年，戴蒙或將繼續擔任執行長三年。戴蒙卸任執行長後，將轉任執行董事長一職。"
-    },
-    {
-      "id": "te:markets:561992",
-      "time": "2026-06-26 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 49 points or 0.09 percent on Thursday to close at 51898 points. The rise was led by Caterpillar (6.09%), Merck (4.03%) and UnitedHealth (2.42%). On the downside, the weakerst performers were Apple (-6.41%), Microsoft (-3.46%) and McDonalds (-3.41%)."
-    },
-    {
-      "id": "4955869",
-      "time": "2026-06-26 04:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：5 月抵押貸款相關投資組合未償還本金總額（UPB）減少約 46 億美元。"
-    },
-    {
-      "id": "4955868",
-      "time": "2026-06-26 04:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長皮特·赫格塞思：動員國防部支援委內瑞拉人民。"
     }
   ]
 }
