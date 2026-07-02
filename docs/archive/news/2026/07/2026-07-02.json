@@ -1,7 +1,163 @@
 {
   "date": "2026-07-02",
-  "count": 2937,
+  "count": 2952,
   "items": [
+    {
+      "id": "4967890",
+      "time": "2026-07-02 22:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月計算機/電子產品訂單環比增長0.2%，4月該資料為環比下降0.4%。"
+    },
+    {
+      "id": "4967889",
+      "time": "2026-07-02 22:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份扣除防務後的工廠訂單環比下降1.2%，4月份該資料為增長5.1%。"
+    },
+    {
+      "id": "mkt:019f2321-7616-7aab-8c7d-694e8db9a616",
+      "time": "2026-07-02 22:00:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US May factory orders ex-defense MoM -1.2% (prior 4.7%)."
+    },
+    {
+      "id": "4967888",
+      "time": "2026-07-02 22:00:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5月扣除運輸業的工廠訂單環比上漲1.9%，4月該資料為漲幅1.7%（前值原為漲幅1.3%）。"
+    },
+    {
+      "id": "mkt:019f2321-58be-7aab-8c7d-61ba56d534ae",
+      "time": "2026-07-02 22:00:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Defense (MoM) (May) | actual -1.2% | previous 4.7%"
+    },
+    {
+      "id": "4967887",
+      "time": "2026-07-02 22:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月耐用品訂單終值環比下降4.5%; 預估為-4.5%。"
+    },
+    {
+      "id": "mkt:019f2321-4853-7aab-8c7d-5bf40a91392b",
+      "time": "2026-07-02 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US May durable goods orders final MoM -4.5%, matching forecast -4.5% and prior -4.5%."
+    },
+    {
+      "id": "mkt:019f2321-4348-7aab-8c7d-50e038de13e9",
+      "time": "2026-07-02 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US May factory orders MoM -1.3% (expected -1.8%); April revised up to 5.3% from 4.8%."
+    },
+    {
+      "id": "mkt:019f2321-4287-7aab-8c7d-4a310a1e3d4d",
+      "time": "2026-07-02 22:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US factory orders ex-transportation, May MoM +1.9% (consensus +1.0%); April revised to +1.7% from +1.3%."
+    },
+    {
+      "id": "4967886",
+      "time": "2026-07-02 22:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份工廠訂單減少1.3% 預估為-2.0%。"
+    },
+    {
+      "id": "mkt:019f2321-2941-7aab-8c7d-45176ba3e845",
+      "time": "2026-07-02 22:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO declares hantavirus outbreak linked to cruise ship Hondius over】The World Health Organization on the 2nd declared the hantavirus outbreak linked to the cruise ship Hondius over after the last person identified as a close contact completed quarantine and tested negative."
+    },
+    {
+      "id": "mkt:019f2321-2592-7aab-8c7d-3a320e2c3124",
+      "time": "2026-07-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Revised (MoM) (May) | actual -4.5% | consensus -4.5% | previous -4.5%"
+    },
+    {
+      "id": "mkt:019f2321-24e1-7aab-8c7d-36d11fe8d8fa",
+      "time": "2026-07-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Transportation (MoM) (May) | actual 1.9% | consensus 1% | previous 1.30%"
+    },
+    {
+      "id": "mkt:019f2321-1dd5-7aab-8c7d-2e952038415c",
+      "time": "2026-07-02 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders (MoM) (May) | actual -1.3% | consensus -1.8% | previous 4.80%"
+    },
+    {
+      "id": "te:economy:563822",
+      "time": "2026-07-02 21:57:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Canada PMI Signals Solid Factory Expansion — The S&P Global Canada Manufacturing PMI held at 53.0 in June 2026, little changed from 52.9 in May, pointing to a third straight month of solid expansion in factory activity. Output and new orders rose for a third consecutive month, supported by new product launches, although firms noted that tariffs continued to weigh on demand and export orders fell for the first time in three months. Backlogs increased, prompting manufacturers to expand payrolls at the fastest pace since October 2024. Purchasing activity also rose as firms sought to secure inventories and avoid further supplier price hikes. Supply chain delays worsened to the highest level since September 2022, largely linked to shipping disruptions from the Iran conflict. Input cost inflation accelerated to its highest since July 2022, driven by oil, transport costs and tariffs. Business confidence remained positive but fell to a three-month low amid uncertainty over US trade policy."
+    },
     {
       "id": "4967885",
       "time": "2026-07-02 21:55:16",

@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-02 21:57:44",
+  "updated": "2026-07-02 22:01:39",
   "count": 13907,
   "items": [
+    {
+      "id": "4967890",
+      "time": "2026-07-02 22:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月計算機/電子產品訂單環比增長0.2%，4月該資料為環比下降0.4%。"
+    },
+    {
+      "id": "4967889",
+      "time": "2026-07-02 22:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份扣除防務後的工廠訂單環比下降1.2%，4月份該資料為增長5.1%。"
+    },
+    {
+      "id": "4967888",
+      "time": "2026-07-02 22:00:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5月扣除運輸業的工廠訂單環比上漲1.9%，4月該資料為漲幅1.7%（前值原為漲幅1.3%）。"
+    },
+    {
+      "id": "mkt:019f2321-7616-7aab-8c7d-694e8db9a616",
+      "time": "2026-07-02 22:00:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US May factory orders ex-defense MoM -1.2% (prior 4.7%)."
+    },
+    {
+      "id": "mkt:019f2321-58be-7aab-8c7d-61ba56d534ae",
+      "time": "2026-07-02 22:00:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Defense (MoM) (May) | actual -1.2% | previous 4.7%"
+    },
+    {
+      "id": "4967887",
+      "time": "2026-07-02 22:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月耐用品訂單終值環比下降4.5%; 預估為-4.5%。"
+    },
+    {
+      "id": "mkt:019f2321-4853-7aab-8c7d-5bf40a91392b",
+      "time": "2026-07-02 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US May durable goods orders final MoM -4.5%, matching forecast -4.5% and prior -4.5%."
+    },
+    {
+      "id": "mkt:019f2321-4348-7aab-8c7d-50e038de13e9",
+      "time": "2026-07-02 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US May factory orders MoM -1.3% (expected -1.8%); April revised up to 5.3% from 4.8%."
+    },
+    {
+      "id": "4967886",
+      "time": "2026-07-02 22:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份工廠訂單減少1.3% 預估為-2.0%。"
+    },
+    {
+      "id": "mkt:019f2321-4287-7aab-8c7d-4a310a1e3d4d",
+      "time": "2026-07-02 22:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US factory orders ex-transportation, May MoM +1.9% (consensus +1.0%); April revised to +1.7% from +1.3%."
+    },
+    {
+      "id": "mkt:019f2321-2941-7aab-8c7d-45176ba3e845",
+      "time": "2026-07-02 22:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO declares hantavirus outbreak linked to cruise ship Hondius over】The World Health Organization on the 2nd declared the hantavirus outbreak linked to the cruise ship Hondius over after the last person identified as a close contact completed quarantine and tested negative."
+    },
+    {
+      "id": "mkt:019f2321-2592-7aab-8c7d-3a320e2c3124",
+      "time": "2026-07-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Revised (MoM) (May) | actual -4.5% | consensus -4.5% | previous -4.5%"
+    },
+    {
+      "id": "mkt:019f2321-24e1-7aab-8c7d-36d11fe8d8fa",
+      "time": "2026-07-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Transportation (MoM) (May) | actual 1.9% | consensus 1% | previous 1.30%"
+    },
+    {
+      "id": "mkt:019f2321-1dd5-7aab-8c7d-2e952038415c",
+      "time": "2026-07-02 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders (MoM) (May) | actual -1.3% | consensus -1.8% | previous 4.80%"
+    },
+    {
+      "id": "te:economy:563822",
+      "time": "2026-07-02 21:57:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Canada PMI Signals Solid Factory Expansion — The S&P Global Canada Manufacturing PMI held at 53.0 in June 2026, little changed from 52.9 in May, pointing to a third straight month of solid expansion in factory activity. Output and new orders rose for a third consecutive month, supported by new product launches, although firms noted that tariffs continued to weigh on demand and export orders fell for the first time in three months. Backlogs increased, prompting manufacturers to expand payrolls at the fastest pace since October 2024. Purchasing activity also rose as firms sought to secure inventories and avoid further supplier price hikes. Supply chain delays worsened to the highest level since September 2022, largely linked to shipping disruptions from the Iran conflict. Input cost inflation accelerated to its highest since July 2022, driven by oil, transport costs and tariffs. Business confidence remained positive but fell to a three-month low amid uncertainty over US trade policy."
+    },
     {
       "id": "4967885",
       "time": "2026-07-02 21:55:16",
@@ -127940,151 +128096,6 @@
         "其他"
       ],
       "text": "Orthogonal完成430萬美元種子輪融資，資金將用於開發覆蓋全網的AI智慧體服務發現、編排與支付功能。"
-    },
-    {
-      "id": "4955398",
-      "time": "2026-06-25 22:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa推出Visa Destinations服務，覆蓋10個地區。"
-    },
-    {
-      "id": "4955397",
-      "time": "2026-06-25 22:00:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：美方將向海灣國家通報美伊談判所有進展】麥納麥訊息：美國國務卿魯比奧25日在巴林首都麥納麥說，美國將建立溝通機制向海灣地區國家通報與伊朗談判的所有進展。 魯比奧在出席海灣阿拉伯國家合作委員會（海合會）與美國的部長級會議後接受媒體採訪時作出上述表態。他說，海灣地區國家關注美伊談判，希望瞭解談判的所有進展。 魯比奧還說，在當天會議中，美方和海合會方面並未討論有關投入資金用於伊朗的重建與經濟發展的問題。 根據美伊此前達成的諒解備忘錄，美國承諾與區域夥伴為伊朗重建與經濟發展投入至少3000億美元。 魯比奧當天早些時候在上述會議上表示，美國尋求與伊朗開展建設性對話，並達成最終協議，但不會不惜一切代價。他還表示，任何國家都無權在霍爾木茲海峽徵收通行費。 魯比奧自23日起先後訪問阿聯酋、科威特和巴林。三國均設有美軍基地。"
-    },
-    {
-      "id": "4955396",
-      "time": "2026-06-25 22:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【非法出售48粒右美沙芬片 藥店老闆獲刑八個月】每年的國際禁毒日，都是一次對公眾安全意識的提醒。當管制類藥品越過合法使用的邊界，就會成為毒品。近日，上海市寶山區人民檢察院公佈一起販毒案，被告人盧某是一家藥店的經營者，在明知右美沙芬被列入第二類精神藥品目錄的情況下，仍囤積右美沙芬之後出售。檢察機關以販賣毒品罪對其提起公訴，被告人盧某被法院判處有期徒刑八個月，緩刑一年，並處罰金人民幣2萬元。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eff15-2d40-7dd8-b11e-921f6dd6f810",
-      "time": "2026-06-25 22:00:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude hit $74/barrel, up 0.79% intraday."
-    },
-    {
-      "id": "4955395",
-      "time": "2026-06-25 22:00:11",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【6月25日增減持彙總】據不完全統計，6月25日盤後牧原股份披露增持情況，博碩科技、天虹股份、新特電氣、宇瞳光學、捷安高科、奕瑞科技、卡萊特、神宇股份8家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "4955394",
-      "time": "2026-06-25 21:59:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞安航空在監管機構啟動調查後取消家庭選座費。"
-    },
-    {
-      "id": "mkt:019eff13-8cb5-7dd8-b11e-8c7a8d9f263b",
-      "time": "2026-06-25 21:58:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude oil rose above $71 a barrel, up 0.79% intraday."
-    },
-    {
-      "id": "mkt:019eff13-6262-7dd8-b11e-877067ca89d8",
-      "time": "2026-06-25 21:58:40",
-      "tags": [
-        "MKT News",
-        "IBM.N",
-        "Impact bearish"
-      ],
-      "text": "IBM (IBM.N) stock reversed earlier gains and is down 2.1%."
-    },
-    {
-      "id": "4955393",
-      "time": "2026-06-25 21:58:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲科技股指回吐此前漲幅，當前下跌0.2%。"
-    },
-    {
-      "id": "mkt:019eff13-09a1-7dd8-b11e-7ff5052dfac1",
-      "time": "2026-06-25 21:58:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "Apple (AAPL.O) extended its decline, shares down 5.1% in the latest trade."
-    },
-    {
-      "id": "te:markets:561932",
-      "time": "2026-06-25 21:58:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on Financials and Miners Gains — The S&P/TSX Composite Index gained 0.5% to trade near the 35,000 mark on Thursday, supported by gains in the financial and mining sectors. Oil prices fell to levels last seen before the start of the Iran conflict on signs of rising Middle East supply. Lower energy costs pushed bond yields down by easing inflation concerns, lifting financial stocks and the broader index. TD Bank, BMO, and Brookfield added around 1%. Gold prices edged higher, supporting mining shares. Agnico Eagle, Barrick, and Franco-Nevada gained nearly 2%, while WPM rose more than 1%. Meanwhile, technology stocks traded mixed after upbeat forecasts from Micron and Qualcomm pointed to resilient AI demand. Celestica added over 1% and Constellation Software rose more than 0.5%, while Shopify fell about 1%. Investors also assessed the latest minutes from the Bank of Canada, which showed policymakers agreed to keep monetary policy flexible in response to potential new US trade restrictions and shifts in energy prices."
-    },
-    {
-      "id": "4955392",
-      "time": "2026-06-25 21:58:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【上期能源正式推出20號膠期貨跨境交割業務】上海期貨交易所子公司上海國際能源交易中心6月25日釋出了《上海國際能源交易中心交割細則（修訂版）》，正式在20號膠期貨品種上推出跨境交割業務。為確保該業務的平穩推出和穩健執行，上期能源同日配套釋出了《上海國際能源交易中心20號膠期貨境外交割結算業務指引》和《上海國際能源交易中心20號膠期貨境外交割提貨業務指引》兩項操作指引，並公佈了境外地區裝貨港資訊及升貼水標準等內容。據瞭解，20號膠期貨跨境交割業務是指透過在境外設立交割庫，允許簽發以20號膠離岸貨物為標的的境外標準倉單，並用於實物交割的業務模式。交易在境內達成，實貨在境外交付，貨物既可繼續在境外流轉，亦可跨境運回國內。在國家外匯管理部門的大力支援下，上期能源取得了相應的外匯管理政策，並據此制定了相關監管規範。為順應20號膠現貨貿易特點，夯實期貨定價基準，平衡境內外交割成本，經反覆調研並廣泛徵求市場意見，上期能源選取泰國、馬來西亞、印度尼西亞作為20號膠期貨跨境交割業務的境外交割地區，設定泰國的林查班港與曼谷港、馬來西亞的檳城港與巴生港作為裝貨港，均執行貼水50元/噸；印度尼西亞的巨港作為裝貨港，執行貼水210元/噸。上期能源相關負責人表示，下一步將適時推動相關企業成為境外交割庫，透過多種形式面向境內外市場潛在參與主體開展業務培訓與市場宣傳，同時指導存管銀行嚴格落實展業要求，確保後續跨境交割資訊申報合規，穩妥有序推進20號膠期貨跨境交割業務落地實施。"
-    },
-    {
-      "id": "mkt:019eff12-dc80-7dd8-b11e-766179817ee7",
-      "time": "2026-06-25 21:58:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NVIDIA (NVDA.O) shares fell rapidly, widening losses to about 3%."
-    },
-    {
-      "id": "mkt:019eff12-d0b8-7dd8-b11e-6fc864cdf7e4",
-      "time": "2026-06-25 21:58:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DeepSeek posts job ads aiming to at least double headcount across all departments】DeepSeek posted job advertisements saying it aims to at least double staffing across all departments as technology evolves. Open roles include server/backend development engineers, pre‑training data engineers, AI search algorithm/architecture engineers, Agent Harness team members, Agent infra R&D engineers, frontend/client developers and cross‑disciplinary AI specialists."
-    },
-    {
-      "id": "4955391",
-      "time": "2026-06-25 21:57:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技漲幅收窄至10%，此前一度上漲20%。"
     }
   ]
 }
