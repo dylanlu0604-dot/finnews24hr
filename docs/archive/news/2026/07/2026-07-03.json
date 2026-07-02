@@ -1,7 +1,469 @@
 {
   "date": "2026-07-03",
-  "count": 55,
+  "count": 104,
   "items": [
+    {
+      "id": "4968145",
+      "time": "2026-07-03 01:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）：旅遊應用Hopper將支付3500萬美元，了結聯邦貿易委員會對其提出的相關指控。"
+    },
+    {
+      "id": "4968144",
+      "time": "2026-07-03 01:03:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【費城半導體指數跌超6% 美光科技、Arm跌超6%】費城半導體指數跌超6%，科磊跌超12%，美光科技、Arm跌超6%，美國超微公司、英特爾、高通跌超5%。"
+    },
+    {
+      "id": "mkt:019f23c8-f4d9-7aab-8c81-8826d9de39d9",
+      "time": "2026-07-03 01:03:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total active rigs 580 in week to July 3, prior 573."
+    },
+    {
+      "id": "mkt:019f23c8-c99c-7aab-8c81-821019101d3f",
+      "time": "2026-07-03 01:03:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US gas-directed rig count rose to 126 in the week ended July 3, from 125 the prior week."
+    },
+    {
+      "id": "mkt:019f23c8-aa2e-7aab-8c81-78bcc213f51e",
+      "time": "2026-07-03 01:03:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.3) | actual 126 | previous 125"
+    },
+    {
+      "id": "mkt:019f23c8-9e55-7aab-8c81-77eeee286c05",
+      "time": "2026-07-03 01:02:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US oil rigs totaled 445 in the week to July 3, up from 440 a week earlier."
+    },
+    {
+      "id": "mkt:019f23c8-9677-7aab-8c81-6b9375ad618b",
+      "time": "2026-07-03 01:02:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jul.3) | actual 580 | previous 573"
+    },
+    {
+      "id": "mkt:019f23c8-83bf-7aab-8c81-626001665c14",
+      "time": "2026-07-03 01:02:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jul.3) | actual 445 | previous 440"
+    },
+    {
+      "id": "4968143",
+      "time": "2026-07-03 01:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國油服貝克休斯：美國能源企業鑽井機連增三週。"
+    },
+    {
+      "id": "4968142",
+      "time": "2026-07-03 01:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月3日當週石油鑽井數 445，前值 440。"
+    },
+    {
+      "id": "4968141",
+      "time": "2026-07-03 01:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月3日當週總鑽井數 580，前值 573。"
+    },
+    {
+      "id": "4968140",
+      "time": "2026-07-03 01:01:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯資料顯示，截至7月2日當週，美國各油氣盆地每週石油天然氣鑽井平臺數量變動如下：二疊紀盆地較一週前增加3座；伊格爾福德盆地不變；威利斯頓盆地減少1座；奈厄布拉勒盆地不變；海恩斯維爾盆地不變；尤蒂卡盆地不變。"
+    },
+    {
+      "id": "4968139",
+      "time": "2026-07-03 01:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：截至7月2日當週，美國天然氣鑽井平臺數量增加1座，至126座。"
+    },
+    {
+      "id": "4968138",
+      "time": "2026-07-03 01:00:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：截至7月2日當週，美國水平鑽井機數量增加33臺，至520臺。"
+    },
+    {
+      "id": "mkt:019f23c6-901d-7aab-8c81-5d7b4ad9bd90",
+      "time": "2026-07-03 01:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel defense minister Katz said in an assessment today that the IDF has destroyed about 83% of Hamas’s tunnel network within Gaza Strip areas under IDF control."
+    },
+    {
+      "id": "4968137",
+      "time": "2026-07-03 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.22%，滬銅收漲0.12%，滬鋁收漲0.09%，滬鋅收跌0.43%，滬鉛收漲0.19%，滬鎳收跌0.62%，滬錫收跌0.85%。氧化鋁夜盤收跌1.73%，鋁合金收漲0.67%。不鏽鋼夜盤收跌0.31%。"
+    },
+    {
+      "id": "4968136",
+      "time": "2026-07-03 00:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長伊斯雷爾・卡茨稱，今日一份評估簡報告知他，以軍已摧毀加沙地帶由以色列國防軍控制區域內 83% 的哈馬斯隧道。"
+    },
+    {
+      "id": "mkt:019f23c5-6ac8-7aab-8c81-51276eb40af0",
+      "time": "2026-07-03 00:59:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli media reported the earlier air-raid alert was a false alarm, triggered after Israeli forces opened fire."
+    },
+    {
+      "id": "te:markets:563863",
+      "time": "2026-07-03 00:58:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nasdaq Sinks, Dow Rises to Record High — Different sectors of the US stock market diverged on Thursday as fresh selling for the heavyweight tech sector weighed against support from short-dated rates. The S&P 500 dropped 0.4% and the Nasdaq 100 slipped more than 2%. Stocks in the AI trade tanked as markets continued to gauge for signs that the sector is overbought. The latest catalysts included reports that OpenAI started discussions about selling a 5% stake to the US government. Also, Meta (-5%) announced it may start selling excess compute capacity, a sign that its capital expenditures were overdone. Micron lost 7%, Marvell and Applied Materials dropped 10%, and Sandisk sank 13%. Tesla fell 8% despite a strong deliveries report. Still, the Dow rose 300 points to another record high amid strength on traditional sectors. Yields pulled back on a soft jobs report, pushing back expectations of a Fed hike. Apple gained 5%, while Visa and Walmart rose over 2%."
+    },
+    {
+      "id": "4968135",
+      "time": "2026-07-03 00:58:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4968134",
+      "time": "2026-07-03 00:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受熱帶低壓影響 海南多地釋出停課通知】7月2日晚，受熱帶低壓影響，海南省萬寧市、陵水黎族自治縣、三亞市和瓊海市教育局相繼釋出停課通知。其中，萬寧全市幼兒園將於7月3日停課1天，7月3日下午全市中小學校、校外培訓機構停課半天（含晚修）。陵水黎族自治縣各幼兒園將於7月3日停課，暫停線下教學及各類集體活動，復課時間另行通知。三亞全市幼兒園、托育機構從7月3日開始停課。復課時間另行通知。瓊海全市幼兒園7月3日停課一天，復課時間另行通知。"
+    },
+    {
+      "id": "4968133",
+      "time": "2026-07-03 00:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列當地訊息：以軍開火後，防空警報隨即響起。"
+    },
+    {
+      "id": "4968132",
+      "time": "2026-07-03 00:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲28美元，報13326美元/噸。LME期鋁收漲16美元，報3092美元/噸。LME期鋅收跌12美元，報3487美元/噸。"
+    },
+    {
+      "id": "4968131",
+      "time": "2026-07-03 00:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "最近24小時，MarketVectorTM數字資產100小盤指數漲2.05%，暫報2187.21點，整體持續震盪上行。MarketVectorTM數字資產100中盤指數漲3.35%，報2532.09點。MarketVector數字資產100指數漲3.33%，報12304.78點。目前，Solana漲4.41%，狗狗幣漲2.28%，XRP漲2.96%。比特幣漲2.59%，暫報61616.63美元，整體呈現出長尾W形走勢；以太坊漲5.05%，暫報1699美元。"
+    },
+    {
+      "id": "mkt:019f23bd-a10b-7aab-8c81-4ffbca451da6",
+      "time": "2026-07-03 00:50:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Defense Forces (IDF) said air-raid sirens sounded in Avivim and Ilon and that it was verifying the situation."
+    },
+    {
+      "id": "mkt:019f23bc-d56c-7aab-8c81-4664bf8f5826",
+      "time": "2026-07-03 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total oil rig count for the week to July 3 due in 10 minutes."
+    },
+    {
+      "id": "4968130",
+      "time": "2026-07-03 00:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦政府訊息人士：美伊預計將於 7 月第三週在卡達多哈舉行下一輪直接談判，推進《伊斯蘭堡諒解備忘錄》落地執行，會談重點預計圍繞黎巴嫩局勢最新進展以及霍爾木茲海峽相關事宜展開。"
+    },
+    {
+      "id": "4968129",
+      "time": "2026-07-03 00:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理弗里德里希·默茨推出一攬子全面經濟振興改革方案，其中一項舉措是取消員工無需醫生證明即可請病假的權利。"
+    },
+    {
+      "id": "4968128",
+      "time": "2026-07-03 00:46:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【傳特朗普政府未與Anthropic討論入股 OpenAI曾涉5%股權提議】據報道，一位知情人士透露，特朗普政府與人工智慧公司Anthropic目前尚未就政府入股該公司進行任何討論。白宮、美國商務部和Anthropic均未立即回應置評請求。此前，《金融時報》報道稱，OpenAI正討論向美國政府轉讓5%股權，以應對華盛頓對先進AI模型潛在濫用風險的審查，以及確保美國民眾從AI行業鉅額估值中獲益的問題。"
+    },
+    {
+      "id": "mkt:019f23b9-0600-7aab-8c81-3f0334da0146",
+      "time": "2026-07-03 00:45:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Reuters: Trump administration has not discussed equity stake in Anthropic; OpenAI earlier linked to 5% stake proposal】Reuters cited a source saying the Trump administration has not discussed a government equity investment in AI firm Anthropic. The White House, the Commerce Department and Anthropic did not immediately comment. The Financial Times earlier reported OpenAI was considering transferring a 5% stake to the US government to address Washington’s scrutiny of potential misuse of advanced AI models and to ensure Americans share in the industry’s large valuations."
+    },
+    {
+      "id": "4968127",
+      "time": "2026-07-03 00:45:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率於非農日跌超1個基點，30年期德債收益率漲約4個基點】週四（7月2日）歐市尾盤，德國10年期國債收益率漲2.6個基點，報2.904%，全天處於上漲狀態、交投於2.892%-2.929%區間，北京時間20:30釋出美國非農就業報告前60秒重新整理日高、資料釋出時顯著跳水，21:25以來持續回吐漲幅。兩年期德債收益率跌1.2個基點，報2.5%，20:29重新整理日高至2.541%，非農就業報告出爐時跳水，23:21重新整理日低至2.492%；30年期德債收益率漲3.8個基點，報3.489%，16:00以來高位震盪、持續交投於3.490%附近。2/10年期德債收益率利差漲3.701個基點，報+40.211個基點，21:37重新整理日高至+41.516個基點。"
+    },
+    {
+      "id": "mkt:019f23b6-e230-7aab-8c81-31acd2cc51f8",
+      "time": "2026-07-03 00:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US appeals court vacated an order requiring the Trump administration to reinstall national park exhibits on slavery and climate change."
+    },
+    {
+      "id": "mkt:019f23b6-dbc9-7aab-8c81-2c47b7f48f39",
+      "time": "2026-07-03 00:43:34",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said second-round effects have not yet emerged."
+    },
+    {
+      "id": "4968126",
+      "time": "2026-07-03 00:43:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：美伊達成協議後，科威特 6 月原油產量大幅提升】一位知情人士週四透露，隨著美伊臨時和平協議落地，這個歐佩克成員國正加大波斯灣石油出口力度。科威特原油產量大幅回升，進一步印證：霍爾木茲海峽的海灣石油運輸量正在衝突擾動後快速復甦；此前滯留油輪逐步駛過海峽，各產油國也陸續恢復產能。2 月末，美以發動襲擊，伊朗隨即近乎封鎖霍爾木茲海峽。封鎖前科威特原油日產量約 250 萬桶，海峽受阻迫使科威特、沙特、伊拉克等海灣產油國單日減產數百萬桶原油。這位不願具名的訊息人士補充稱，6 月最後10天，科威特日產量最高回升至 190 萬桶。該訊息釋出後，布倫特原油（LCOc1）、WTI 原油（CLc1）週四跌幅進一步擴大。國際油價本就已跌至 2 月末衝突爆發前以來的最低水平。受本次伊朗相關衝突衝擊最嚴重的海灣國家中，科威特位列其一，根源就是海峽航運近乎中斷。"
+    },
+    {
+      "id": "mkt:019f23b6-538e-7aab-8c81-2098bd3725ba",
+      "time": "2026-07-03 00:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde: supply shock is spreading across the economy."
+    },
+    {
+      "id": "mkt:019f23b6-317b-7aab-8c81-18e3c3af998c",
+      "time": "2026-07-03 00:42:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said most policymakers had previously been prepared to raise rates in April."
+    },
+    {
+      "id": "mkt:019f23b5-d152-7aab-8c81-152d3aa15460",
+      "time": "2026-07-03 00:42:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said she is confident the ECB's June rate hike was the right decision."
+    },
+    {
+      "id": "4968125",
+      "time": "2026-07-03 00:41:30",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【剛果（金）正籌備設立首家證券交易所】剛果民主共和國正籌備設立本國首家證券交易所，該國礦產是人工智慧產業發展的關鍵原材料，全球相關需求暴漲帶動本國經濟向好，剛果希望藉此吸引更多投資。該國財政部長Doudou Fwamba Likunde Li-Botayi透露，這家新交易所將上市以剛果法郎、美元雙幣種計價的證券。他表示，與此同時，政府正與國際金融公司合作搭建資本市場制度框架。 Li-Botayi稱，擬建的金沙薩證券交易所是政府發展戰略的一環，旨在抓住外資對剛果經濟日益增長的興趣，拓寬企業融資渠道。當局也期望，這套雙幣種交易機制長期來看能推動市場更多使用剛果法郎。"
+    },
+    {
+      "id": "4968124",
+      "time": "2026-07-03 00:41:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：目前尚未出現第二輪通脹效應。"
+    },
+    {
+      "id": "4968123",
+      "time": "2026-07-03 00:40:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：供給衝擊正蔓延至整體經濟。"
+    },
+    {
+      "id": "4968122",
+      "time": "2026-07-03 00:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院撤銷了要求特朗普政府重新安裝已從國家公園撤除的、涉及奴隸制與氣候變化等議題的展覽的裁定。"
+    },
+    {
+      "id": "4968121",
+      "time": "2026-07-03 00:40:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：多數政策制定者4月時已準備加息。"
+    },
+    {
+      "id": "4968120",
+      "time": "2026-07-03 00:40:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文向新墨西哥州環境局提交木星專案大氣排汙許可申請，尋求審批透過。"
+    },
+    {
+      "id": "4968119",
+      "time": "2026-07-03 00:40:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "拉加德：歐洲央行6月加息的決策無疑是正確的。"
+    },
+    {
+      "id": "4968118",
+      "time": "2026-07-03 00:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019f23b0-853b-7aab-8c81-0bc221117a29",
+      "time": "2026-07-03 00:36:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O",
+        "Impact bearish",
+        "NTES.O",
+        "BABA.N"
+      ],
+      "text": "Nasdaq Golden Dragon China Index fell more than 2%; Baidu (BIDU.O) dropped 5.39%, NetEase (NTES.O) fell 2.67% and Alibaba (BABA.N) fell 2.57%."
+    },
+    {
+      "id": "te:markets:563862",
+      "time": "2026-07-03 00:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.6% to close at 52,428 on Thursday, supported by lower-than-expected US labor data and defense-linked gains. Defense stocks extended the previous session's gains, led by Fincantieri (6.8%), Leonardo (6.5%) and Avio (1.5%). Weaker-than-expected US labor data fueled gains in financial stocks by reducing expectations of further Fed rate hikes this year, while the BTP-Bund spread dropped to 78bps during the session and added support. UniCredit led gains at 4.1%, followed by Banca Mediolanum (2.2%), Finecobank (2.1%), Intesa Sanpaolo (2.1%) and Mediobanca (1.2%). Insurers Unipol (3.2%) and Generali (0.7%) also extended advances. Energy stocks also advanced, led by A2A (3.6%), while Eni gained 1.6% after announcing a fusion energy joint venture. Meanwhile, AI-related stocks remained volatile, with STMicroelectronics (-0.9%) and Prysmian (-0.7%) ending lower."
+    },
+    {
+      "id": "mkt:019f23ae-5c2a-7aab-8c81-04e943062f5b",
+      "time": "2026-07-03 00:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Democratic Republic of the Congo (DRC) plans to establish its first securities exchange as an AI mining boom draws investor attention."
+    },
+    {
+      "id": "4968117",
+      "time": "2026-07-03 00:33:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，海天網路跌23.86%，世紀互聯跌9.02%，新氧跌8.88%，阿特斯跌8.63%，萬國資料跌8.13%。"
+    },
     {
       "id": "4968116",
       "time": "2026-07-03 00:28:42",

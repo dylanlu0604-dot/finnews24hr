@@ -1,7 +1,469 @@
 {
-  "updated": "2026-07-03 00:31:36",
-  "count": 13928,
+  "updated": "2026-07-03 01:06:12",
+  "count": 13899,
   "items": [
+    {
+      "id": "4968145",
+      "time": "2026-07-03 01:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）：旅遊應用Hopper將支付3500萬美元，了結聯邦貿易委員會對其提出的相關指控。"
+    },
+    {
+      "id": "4968144",
+      "time": "2026-07-03 01:03:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【費城半導體指數跌超6% 美光科技、Arm跌超6%】費城半導體指數跌超6%，科磊跌超12%，美光科技、Arm跌超6%，美國超微公司、英特爾、高通跌超5%。"
+    },
+    {
+      "id": "mkt:019f23c8-f4d9-7aab-8c81-8826d9de39d9",
+      "time": "2026-07-03 01:03:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total active rigs 580 in week to July 3, prior 573."
+    },
+    {
+      "id": "mkt:019f23c8-c99c-7aab-8c81-821019101d3f",
+      "time": "2026-07-03 01:03:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US gas-directed rig count rose to 126 in the week ended July 3, from 125 the prior week."
+    },
+    {
+      "id": "mkt:019f23c8-aa2e-7aab-8c81-78bcc213f51e",
+      "time": "2026-07-03 01:03:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.3) | actual 126 | previous 125"
+    },
+    {
+      "id": "mkt:019f23c8-9e55-7aab-8c81-77eeee286c05",
+      "time": "2026-07-03 01:02:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US oil rigs totaled 445 in the week to July 3, up from 440 a week earlier."
+    },
+    {
+      "id": "mkt:019f23c8-9677-7aab-8c81-6b9375ad618b",
+      "time": "2026-07-03 01:02:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jul.3) | actual 580 | previous 573"
+    },
+    {
+      "id": "mkt:019f23c8-83bf-7aab-8c81-626001665c14",
+      "time": "2026-07-03 01:02:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jul.3) | actual 445 | previous 440"
+    },
+    {
+      "id": "4968143",
+      "time": "2026-07-03 01:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國油服貝克休斯：美國能源企業鑽井機連增三週。"
+    },
+    {
+      "id": "4968142",
+      "time": "2026-07-03 01:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月3日當週石油鑽井數 445，前值 440。"
+    },
+    {
+      "id": "4968141",
+      "time": "2026-07-03 01:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月3日當週總鑽井數 580，前值 573。"
+    },
+    {
+      "id": "4968140",
+      "time": "2026-07-03 01:01:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯資料顯示，截至7月2日當週，美國各油氣盆地每週石油天然氣鑽井平臺數量變動如下：二疊紀盆地較一週前增加3座；伊格爾福德盆地不變；威利斯頓盆地減少1座；奈厄布拉勒盆地不變；海恩斯維爾盆地不變；尤蒂卡盆地不變。"
+    },
+    {
+      "id": "4968139",
+      "time": "2026-07-03 01:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：截至7月2日當週，美國天然氣鑽井平臺數量增加1座，至126座。"
+    },
+    {
+      "id": "4968138",
+      "time": "2026-07-03 01:00:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：截至7月2日當週，美國水平鑽井機數量增加33臺，至520臺。"
+    },
+    {
+      "id": "mkt:019f23c6-901d-7aab-8c81-5d7b4ad9bd90",
+      "time": "2026-07-03 01:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel defense minister Katz said in an assessment today that the IDF has destroyed about 83% of Hamas’s tunnel network within Gaza Strip areas under IDF control."
+    },
+    {
+      "id": "4968137",
+      "time": "2026-07-03 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.22%，滬銅收漲0.12%，滬鋁收漲0.09%，滬鋅收跌0.43%，滬鉛收漲0.19%，滬鎳收跌0.62%，滬錫收跌0.85%。氧化鋁夜盤收跌1.73%，鋁合金收漲0.67%。不鏽鋼夜盤收跌0.31%。"
+    },
+    {
+      "id": "4968136",
+      "time": "2026-07-03 00:59:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長伊斯雷爾・卡茨稱，今日一份評估簡報告知他，以軍已摧毀加沙地帶由以色列國防軍控制區域內 83% 的哈馬斯隧道。"
+    },
+    {
+      "id": "mkt:019f23c5-6ac8-7aab-8c81-51276eb40af0",
+      "time": "2026-07-03 00:59:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli media reported the earlier air-raid alert was a false alarm, triggered after Israeli forces opened fire."
+    },
+    {
+      "id": "te:markets:563863",
+      "time": "2026-07-03 00:58:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nasdaq Sinks, Dow Rises to Record High — Different sectors of the US stock market diverged on Thursday as fresh selling for the heavyweight tech sector weighed against support from short-dated rates. The S&P 500 dropped 0.4% and the Nasdaq 100 slipped more than 2%. Stocks in the AI trade tanked as markets continued to gauge for signs that the sector is overbought. The latest catalysts included reports that OpenAI started discussions about selling a 5% stake to the US government. Also, Meta (-5%) announced it may start selling excess compute capacity, a sign that its capital expenditures were overdone. Micron lost 7%, Marvell and Applied Materials dropped 10%, and Sandisk sank 13%. Tesla fell 8% despite a strong deliveries report. Still, the Dow rose 300 points to another record high amid strength on traditional sectors. Yields pulled back on a soft jobs report, pushing back expectations of a Fed hike. Apple gained 5%, while Visa and Walmart rose over 2%."
+    },
+    {
+      "id": "4968135",
+      "time": "2026-07-03 00:58:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4968134",
+      "time": "2026-07-03 00:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受熱帶低壓影響 海南多地釋出停課通知】7月2日晚，受熱帶低壓影響，海南省萬寧市、陵水黎族自治縣、三亞市和瓊海市教育局相繼釋出停課通知。其中，萬寧全市幼兒園將於7月3日停課1天，7月3日下午全市中小學校、校外培訓機構停課半天（含晚修）。陵水黎族自治縣各幼兒園將於7月3日停課，暫停線下教學及各類集體活動，復課時間另行通知。三亞全市幼兒園、托育機構從7月3日開始停課。復課時間另行通知。瓊海全市幼兒園7月3日停課一天，復課時間另行通知。"
+    },
+    {
+      "id": "4968133",
+      "time": "2026-07-03 00:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列當地訊息：以軍開火後，防空警報隨即響起。"
+    },
+    {
+      "id": "4968132",
+      "time": "2026-07-03 00:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲28美元，報13326美元/噸。LME期鋁收漲16美元，報3092美元/噸。LME期鋅收跌12美元，報3487美元/噸。"
+    },
+    {
+      "id": "4968131",
+      "time": "2026-07-03 00:51:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "最近24小時，MarketVectorTM數字資產100小盤指數漲2.05%，暫報2187.21點，整體持續震盪上行。MarketVectorTM數字資產100中盤指數漲3.35%，報2532.09點。MarketVector數字資產100指數漲3.33%，報12304.78點。目前，Solana漲4.41%，狗狗幣漲2.28%，XRP漲2.96%。比特幣漲2.59%，暫報61616.63美元，整體呈現出長尾W形走勢；以太坊漲5.05%，暫報1699美元。"
+    },
+    {
+      "id": "mkt:019f23bd-a10b-7aab-8c81-4ffbca451da6",
+      "time": "2026-07-03 00:50:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Defense Forces (IDF) said air-raid sirens sounded in Avivim and Ilon and that it was verifying the situation."
+    },
+    {
+      "id": "mkt:019f23bc-d56c-7aab-8c81-4664bf8f5826",
+      "time": "2026-07-03 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total oil rig count for the week to July 3 due in 10 minutes."
+    },
+    {
+      "id": "4968130",
+      "time": "2026-07-03 00:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦政府訊息人士：美伊預計將於 7 月第三週在卡達多哈舉行下一輪直接談判，推進《伊斯蘭堡諒解備忘錄》落地執行，會談重點預計圍繞黎巴嫩局勢最新進展以及霍爾木茲海峽相關事宜展開。"
+    },
+    {
+      "id": "4968129",
+      "time": "2026-07-03 00:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理弗里德里希·默茨推出一攬子全面經濟振興改革方案，其中一項舉措是取消員工無需醫生證明即可請病假的權利。"
+    },
+    {
+      "id": "4968128",
+      "time": "2026-07-03 00:46:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【傳特朗普政府未與Anthropic討論入股 OpenAI曾涉5%股權提議】據報道，一位知情人士透露，特朗普政府與人工智慧公司Anthropic目前尚未就政府入股該公司進行任何討論。白宮、美國商務部和Anthropic均未立即回應置評請求。此前，《金融時報》報道稱，OpenAI正討論向美國政府轉讓5%股權，以應對華盛頓對先進AI模型潛在濫用風險的審查，以及確保美國民眾從AI行業鉅額估值中獲益的問題。"
+    },
+    {
+      "id": "mkt:019f23b9-0600-7aab-8c81-3f0334da0146",
+      "time": "2026-07-03 00:45:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Reuters: Trump administration has not discussed equity stake in Anthropic; OpenAI earlier linked to 5% stake proposal】Reuters cited a source saying the Trump administration has not discussed a government equity investment in AI firm Anthropic. The White House, the Commerce Department and Anthropic did not immediately comment. The Financial Times earlier reported OpenAI was considering transferring a 5% stake to the US government to address Washington’s scrutiny of potential misuse of advanced AI models and to ensure Americans share in the industry’s large valuations."
+    },
+    {
+      "id": "4968127",
+      "time": "2026-07-03 00:45:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率於非農日跌超1個基點，30年期德債收益率漲約4個基點】週四（7月2日）歐市尾盤，德國10年期國債收益率漲2.6個基點，報2.904%，全天處於上漲狀態、交投於2.892%-2.929%區間，北京時間20:30釋出美國非農就業報告前60秒重新整理日高、資料釋出時顯著跳水，21:25以來持續回吐漲幅。兩年期德債收益率跌1.2個基點，報2.5%，20:29重新整理日高至2.541%，非農就業報告出爐時跳水，23:21重新整理日低至2.492%；30年期德債收益率漲3.8個基點，報3.489%，16:00以來高位震盪、持續交投於3.490%附近。2/10年期德債收益率利差漲3.701個基點，報+40.211個基點，21:37重新整理日高至+41.516個基點。"
+    },
+    {
+      "id": "mkt:019f23b6-e230-7aab-8c81-31acd2cc51f8",
+      "time": "2026-07-03 00:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US appeals court vacated an order requiring the Trump administration to reinstall national park exhibits on slavery and climate change."
+    },
+    {
+      "id": "mkt:019f23b6-dbc9-7aab-8c81-2c47b7f48f39",
+      "time": "2026-07-03 00:43:34",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said second-round effects have not yet emerged."
+    },
+    {
+      "id": "4968126",
+      "time": "2026-07-03 00:43:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：美伊達成協議後，科威特 6 月原油產量大幅提升】一位知情人士週四透露，隨著美伊臨時和平協議落地，這個歐佩克成員國正加大波斯灣石油出口力度。科威特原油產量大幅回升，進一步印證：霍爾木茲海峽的海灣石油運輸量正在衝突擾動後快速復甦；此前滯留油輪逐步駛過海峽，各產油國也陸續恢復產能。2 月末，美以發動襲擊，伊朗隨即近乎封鎖霍爾木茲海峽。封鎖前科威特原油日產量約 250 萬桶，海峽受阻迫使科威特、沙特、伊拉克等海灣產油國單日減產數百萬桶原油。這位不願具名的訊息人士補充稱，6 月最後10天，科威特日產量最高回升至 190 萬桶。該訊息釋出後，布倫特原油（LCOc1）、WTI 原油（CLc1）週四跌幅進一步擴大。國際油價本就已跌至 2 月末衝突爆發前以來的最低水平。受本次伊朗相關衝突衝擊最嚴重的海灣國家中，科威特位列其一，根源就是海峽航運近乎中斷。"
+    },
+    {
+      "id": "mkt:019f23b6-538e-7aab-8c81-2098bd3725ba",
+      "time": "2026-07-03 00:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde: supply shock is spreading across the economy."
+    },
+    {
+      "id": "mkt:019f23b6-317b-7aab-8c81-18e3c3af998c",
+      "time": "2026-07-03 00:42:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said most policymakers had previously been prepared to raise rates in April."
+    },
+    {
+      "id": "mkt:019f23b5-d152-7aab-8c81-152d3aa15460",
+      "time": "2026-07-03 00:42:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said she is confident the ECB's June rate hike was the right decision."
+    },
+    {
+      "id": "4968125",
+      "time": "2026-07-03 00:41:30",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【剛果（金）正籌備設立首家證券交易所】剛果民主共和國正籌備設立本國首家證券交易所，該國礦產是人工智慧產業發展的關鍵原材料，全球相關需求暴漲帶動本國經濟向好，剛果希望藉此吸引更多投資。該國財政部長Doudou Fwamba Likunde Li-Botayi透露，這家新交易所將上市以剛果法郎、美元雙幣種計價的證券。他表示，與此同時，政府正與國際金融公司合作搭建資本市場制度框架。 Li-Botayi稱，擬建的金沙薩證券交易所是政府發展戰略的一環，旨在抓住外資對剛果經濟日益增長的興趣，拓寬企業融資渠道。當局也期望，這套雙幣種交易機制長期來看能推動市場更多使用剛果法郎。"
+    },
+    {
+      "id": "4968124",
+      "time": "2026-07-03 00:41:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：目前尚未出現第二輪通脹效應。"
+    },
+    {
+      "id": "4968123",
+      "time": "2026-07-03 00:40:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：供給衝擊正蔓延至整體經濟。"
+    },
+    {
+      "id": "4968122",
+      "time": "2026-07-03 00:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院撤銷了要求特朗普政府重新安裝已從國家公園撤除的、涉及奴隸制與氣候變化等議題的展覽的裁定。"
+    },
+    {
+      "id": "4968121",
+      "time": "2026-07-03 00:40:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：多數政策制定者4月時已準備加息。"
+    },
+    {
+      "id": "4968120",
+      "time": "2026-07-03 00:40:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文向新墨西哥州環境局提交木星專案大氣排汙許可申請，尋求審批透過。"
+    },
+    {
+      "id": "4968119",
+      "time": "2026-07-03 00:40:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "拉加德：歐洲央行6月加息的決策無疑是正確的。"
+    },
+    {
+      "id": "4968118",
+      "time": "2026-07-03 00:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019f23b0-853b-7aab-8c81-0bc221117a29",
+      "time": "2026-07-03 00:36:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O",
+        "Impact bearish",
+        "NTES.O",
+        "BABA.N"
+      ],
+      "text": "Nasdaq Golden Dragon China Index fell more than 2%; Baidu (BIDU.O) dropped 5.39%, NetEase (NTES.O) fell 2.67% and Alibaba (BABA.N) fell 2.57%."
+    },
+    {
+      "id": "te:markets:563862",
+      "time": "2026-07-03 00:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.6% to close at 52,428 on Thursday, supported by lower-than-expected US labor data and defense-linked gains. Defense stocks extended the previous session's gains, led by Fincantieri (6.8%), Leonardo (6.5%) and Avio (1.5%). Weaker-than-expected US labor data fueled gains in financial stocks by reducing expectations of further Fed rate hikes this year, while the BTP-Bund spread dropped to 78bps during the session and added support. UniCredit led gains at 4.1%, followed by Banca Mediolanum (2.2%), Finecobank (2.1%), Intesa Sanpaolo (2.1%) and Mediobanca (1.2%). Insurers Unipol (3.2%) and Generali (0.7%) also extended advances. Energy stocks also advanced, led by A2A (3.6%), while Eni gained 1.6% after announcing a fusion energy joint venture. Meanwhile, AI-related stocks remained volatile, with STMicroelectronics (-0.9%) and Prysmian (-0.7%) ending lower."
+    },
+    {
+      "id": "mkt:019f23ae-5c2a-7aab-8c81-04e943062f5b",
+      "time": "2026-07-03 00:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Democratic Republic of the Congo (DRC) plans to establish its first securities exchange as an AI mining boom draws investor attention."
+    },
+    {
+      "id": "4968117",
+      "time": "2026-07-03 00:33:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，海天網路跌23.86%，世紀互聯跌9.02%，新氧跌8.88%，阿特斯跌8.63%，萬國資料跌8.13%。"
+    },
     {
       "id": "4968116",
       "time": "2026-07-03 00:28:42",
@@ -127595,725 +128057,6 @@
         "Impact bullish"
       ],
       "text": "ICF International said the U.S. power grid is expanding at an astonishing pace; by 2030 cumulative additions could be equivalent in scale to the country’s largest current regional power system."
-    },
-    {
-      "id": "mkt:019effbe-e153-7dd8-b122-74452746a75f",
-      "time": "2026-06-26 01:05:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italian Prime Minister MELONI said Italy will provide only technical and logistical support."
-    },
-    {
-      "id": "4955670",
-      "time": "2026-06-26 01:05:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利總理梅洛尼：我們僅提供了技術與後勤支援。"
-    },
-    {
-      "id": "4955669",
-      "time": "2026-06-26 01:05:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼：我們從未捲入伊朗衝突。"
-    },
-    {
-      "id": "mkt:019effbe-2ec0-7dd8-b122-681f8b201f9f",
-      "time": "2026-06-26 01:05:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italian Prime Minister Meloni said Italy has never been involved in the Iran conflict."
-    },
-    {
-      "id": "4955668",
-      "time": "2026-06-26 01:04:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國七年期國債收益率拍賣後變動不大，最新報4.254%，下跌2.25個基點。"
-    },
-    {
-      "id": "4955667",
-      "time": "2026-06-26 01:03:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（6月25日）歐市尾盤，英國10年期國債收益率漲1.6個基點，報4.699%。兩年期英債收益率跌1.4個基點，報4.115%。30年期英債收益率漲2.6個基點，50年期英債收益率漲1.0個基點。2/10年期英債收益率利差漲3.268個基點，報+58.464個基點，整體持續上揚。"
-    },
-    {
-      "id": "4955666",
-      "time": "2026-06-26 01:03:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國向一級交易商授予12.8%的七年期國債。\n美國將29.7%的七年期國債授予直接競標者。\n美國七年期國債競價/承銷比率為2.50，低於上次拍賣的2.52。\n美國將57.6%的七年期國債授予間接競標者。\n美國七年期國債收益率下降4.260%；配售比例高達36.22%。\n美國7年期國債收益率下降4.260%，與預售時的發行收益率持平。"
-    },
-    {
-      "id": "mkt:019effbb-8283-7dd8-b122-612b7850426b",
-      "time": "2026-06-26 01:02:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 7-year Treasury auction settling June 25: stop-out yield 4.26% vs 4.29% prior."
-    },
-    {
-      "id": "mkt:019effbb-6c30-7dd8-b122-5cbe319217c5",
-      "time": "2026-06-26 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "US 7-year Treasury auction through June 25: share allocated at the stop-out yield 36.22%, prior 71.23%."
-    },
-    {
-      "id": "mkt:019effbb-6ab3-7dd8-b122-50e42a219460",
-      "time": "2026-06-26 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 7-year Treasury auction June 25: bid-cover ratio 2.50, prior 2.52."
-    },
-    {
-      "id": "4955665",
-      "time": "2026-06-26 01:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫：祝賀阿里總理及繁榮黨在衣索比亞議會選舉中取得勝利。期待雙方攜手協作，進一步鞏固兩國友好紐帶。"
-    },
-    {
-      "id": "mkt:019effbb-486e-7dd8-b122-4b8fd9c07aa0",
-      "time": "2026-06-26 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 7-Year Note Auction Accepted at High (Jun.25) | actual 36.22% | previous 71.23%"
-    },
-    {
-      "id": "mkt:019effbb-485a-7dd8-b122-42d0f0bf2883",
-      "time": "2026-06-26 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 7-Year Note Auction Bid/Cover Ratio (Jun.25) | actual 2.5 | previous 2.52"
-    },
-    {
-      "id": "mkt:019effbb-4849-7dd8-b122-3d7b2d483179",
-      "time": "2026-06-26 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 7-Year Note Auction High Yield Rate (Jun.25) | actual 4.26% | previous 4.29%"
-    },
-    {
-      "id": "mkt:019effba-b4ed-7dd8-b122-3624265bb53a",
-      "time": "2026-06-26 01:01:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】Night session most-active contracts at the 01:00 close: SHFE rebar +1.40%, SHFE tin +0.91%, SHFE copper +0.90%, international copper most-active +0.81%, SHFE lead +0.25%, SHFE nickel +0.17%, SHFE aluminum -0.17%, SHFE zinc -0.12%, SHFE alumina -0.78%."
-    },
-    {
-      "id": "4955664",
-      "time": "2026-06-26 01:00:40",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部 7 年期 WI 國債收益率報 4.260%，即將發行 440 億美元標售。"
-    },
-    {
-      "id": "4955663",
-      "time": "2026-06-26 01:00:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國6月24日當週未季調商業票據未償餘額增加148億美元。"
-    },
-    {
-      "id": "4955662",
-      "time": "2026-06-26 01:00:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國6月第24周未季調未償外國金融商業票據餘額增加110億美元。"
-    },
-    {
-      "id": "4955661",
-      "time": "2026-06-26 01:00:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：經季節性調整後，美國6月24日當週未償商業票據餘額減少35億美元。"
-    },
-    {
-      "id": "4955660",
-      "time": "2026-06-26 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.90%，滬銅收漲0.90%，滬鋁收跌0.17%，滬鋅收跌0.12%，滬鉛收漲0.25%，滬鎳收漲0.23%，滬錫收漲0.91%。氧化鋁夜盤收跌0.78%，鋁合金收跌0.44%。不鏽鋼夜盤收漲1.40%。"
-    },
-    {
-      "id": "4955659",
-      "time": "2026-06-26 00:59:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克在社交平臺發帖：庫克表示，此番（計算機和配件的）成本暴漲是他 “從業四十餘年來，在任何領域都從未見過” 的情況。這也是我生平見過幅度最大的一次漲價。"
-    },
-    {
-      "id": "4955658",
-      "time": "2026-06-26 00:56:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：今天早些時候，以色列總統搭乘國防軍直升機進行例行飛行期間，該直升機在遭遇鳥擊後降落於以色列中部的一個空軍基地。事件未造成人員受傷或裝置損壞。"
-    },
-    {
-      "id": "4955657",
-      "time": "2026-06-26 00:56:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭希望國際社會能伸出援手，幫助身處這場災難中的委內瑞拉民眾，我方已做好援助準備 —— 本國應急救援人員可參與搜救行動。目前我方正與委內瑞拉及歐洲各方溝通，等待對方對我方援助提議作出答覆。"
-    },
-    {
-      "id": "mkt:019effb6-37b7-7dd8-b122-2a6c5ff3398f",
-      "time": "2026-06-26 00:56:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Italian Prime Minister MELONI said she and French President MACRON have agreed to form an alliance to support Lebanon after the UN Interim Force in Lebanon (UNIFIL) mandate ends."
-    },
-    {
-      "id": "mkt:019effb5-f5e6-7dd8-b122-24956e52ec4c",
-      "time": "2026-06-26 00:56:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An IDF spokesman said earlier the helicopter carrying Israel's president suffered a bird strike during a routine flight and landed at an air force base in central Israel. No personnel were injured and no equipment was damaged."
-    },
-    {
-      "id": "4955656",
-      "time": "2026-06-26 00:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼：我們已與法國總統馬克龍達成一致，將在聯黎部隊任務結束後發起一個支援黎巴嫩的聯盟。"
-    },
-    {
-      "id": "4955655",
-      "time": "2026-06-26 00:55:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：隨著日本央行減少購債，日本銀行業對購買日本國債持觀望態度。"
-    },
-    {
-      "id": "mkt:019effb5-5ff6-7dd8-b122-198c92e7409d",
-      "time": "2026-06-26 00:55:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikkei reports that as the Bank of Japan reduces bond purchases, Japanese banks are taking a wait-and-see stance on buying Japanese government bonds (JGBs)."
-    },
-    {
-      "id": "4955654",
-      "time": "2026-06-26 00:53:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：比特幣可能從低迷水平反彈】比特幣目前的交易價格在59,000美元附近，這一水平上一次出現是在2024年。儘管對美聯儲偏緊縮立場（可能在今年多次加息）的預期令比特幣承壓，但長期持有者對這種處境並不陌生。21shares的Matt Mena指出，Glassnode的積累趨勢得分很高，這一高分上一次出現是在2022年與FTX相關的拋售深淵中，以及2020年新冠疫情時期的市場崩盤中。“比特幣隨後從這些低點分別增至36倍和8倍，”Mena說。如果即將釋出的政府報告弱於預期，那麼Mena認為比特幣有回升至67,000美元左右的途徑；如果美伊衝突得到持久解決，比特幣還有進一步上漲的空間。"
-    },
-    {
-      "id": "4955653",
-      "time": "2026-06-26 00:53:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所三月期鈷收盤持平，報每噸 56290 美元。\n倫敦金屬交易所三月期鋁收盤上漲 42 美元，報每噸 3164 美元。\n倫敦金屬交易所三月期錫收盤上漲 702 美元，報每噸 50383 美元。\n倫敦金屬交易所三月期鋅收盤上漲 13 美元，報每噸 3434 美元。\n倫敦金屬交易所三月期鎳收盤上漲 6 美元，報每噸 16824 美元。\n倫敦金屬交易所三月期鉛收盤持平，報每噸 1912 美元。\n倫敦金屬交易所三月期銅收盤上漲 184 美元，報每噸 13270 美元。"
-    },
-    {
-      "id": "mkt:019effb2-8035-7dd8-b122-13c7ab8cd91c",
-      "time": "2026-06-26 00:52:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "Microsoft (MSFT.O) says server storage and memory costs have risen more than 2.5x and are expected to double again by autumn 2027."
-    },
-    {
-      "id": "4955652",
-      "time": "2026-06-26 00:52:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中煤廣元燃煤發電專案1號機組投產】6月25日，中煤廣元燃煤發電專案1號機組順利完成168小時滿負荷試執行，正式投入商業執行。此專案位於四川省廣元市利州區寶輪鎮清江村，由中國能建西南院牽頭EPC總承包建設。新建2臺1000兆瓦超超臨界燃煤發電機組，同步建設高效煙氣脫硫、脫硝及除塵設施。機組在完成長週期滿負荷試執行後，各項執行引數穩定，具備持續安全高效發電能力。在環保效能方面，專案汙染物排放指標達到國內先進水平，煙塵、二氧化硫、氮氧化物排放濃度分別低於4、20、24毫克/標準立方米，遠優於國家超低排放標準，實現全廠廢水零排放，綠色清潔化水平顯著提升。作為川東北區域重要電源支撐專案，工程投產後預計年發電量超90億千瓦時，可有效提升區域電力供應保障能力，緩解區域性電力緊張狀況，為工業生產與民生用電提供穩定能源支撐。（新華社）"
-    },
-    {
-      "id": "mkt:019effb1-afea-7dd8-b122-0f77f10277e9",
-      "time": "2026-06-26 00:51:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish media report a collision between a passenger train and a freight train in Poland."
-    },
-    {
-      "id": "4955651",
-      "time": "2026-06-26 00:51:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：遊戲主機通常均虧本售賣。"
-    },
-    {
-      "id": "4955650",
-      "time": "2026-06-26 00:51:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭媒體報道，波蘭境內發生客運列車與貨運列車相撞事故。"
-    },
-    {
-      "id": "4955649",
-      "time": "2026-06-26 00:51:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：主機儲存、記憶體成本漲幅超 2.5 倍。預計 2027 年秋季相關成本將再度翻倍。"
-    },
-    {
-      "id": "mkt:019effb0-5191-7dd8-b122-0230eecffe5f",
-      "time": "2026-06-26 00:50:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Market sources say Microsoft will raise retail prices for Xbox consoles: the 512GB model by $100 and the 1TB model by $150."
-    },
-    {
-      "id": "4955648",
-      "time": "2026-06-26 00:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會：透過新規加快海底電纜部署。"
-    },
-    {
-      "id": "mkt:019effaf-9729-7dd8-b121-fbe23d01e566",
-      "time": "2026-06-26 00:49:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Market sources: Microsoft is raising Xbox prices globally."
-    },
-    {
-      "id": "4955647",
-      "time": "2026-06-26 00:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：1TB 版本 Xbox 主機售價上調 150 美元。"
-    },
-    {
-      "id": "4955646",
-      "time": "2026-06-26 00:48:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：512GB 版本 Xbox 主機售價上調 100 美元。"
-    },
-    {
-      "id": "4955645",
-      "time": "2026-06-26 00:48:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Xbox 全系產品調價，8 月 1 日起生效。"
-    },
-    {
-      "id": "4955644",
-      "time": "2026-06-26 00:47:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：全球上調 Xbox 產品售價。"
-    },
-    {
-      "id": "4955643",
-      "time": "2026-06-26 00:46:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率跌約2個基點，意債收益率曾短暫地異常波動】週四（6月25日）歐市尾盤，德國10年期國債收益率跌0.8個基點，報2.857%，日內交投於2.876%-2.845%區間。兩年期德債收益率跌1.8個基點，報2.528%，日內交投於2.561%-2.521%區間；30年期德債收益率跌0.7個基點，報3.404%。2/10年期德債收益率利差漲1.068個基點，報+32.722個基點。法國10年期國債收益率漲0.3個基點，兩年期法債收益率跌1.5個基點，30年期法債收益率大致持平。義大利10年期國債收益率漲0.1個基點，報3.590%，彭博資料顯示歐股開盤之前瞬間尖銳地衝高回落——北京時間14:29達到4.849%、隨後恢復至平盤附近，剔除這一異常波動之外，日內交易非常沉悶。西班牙10年期國債收益率漲0.2個基點，希臘10年期國債收益率跌0.1個基點。"
-    },
-    {
-      "id": "4955642",
-      "time": "2026-06-26 00:46:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大芝加哥期權交易所歡迎漢密爾頓增強型比特幣Daymax™ETF掛牌上市。"
-    },
-    {
-      "id": "4955641",
-      "time": "2026-06-26 00:45:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲7年期國債投標總額為66億美元。"
-    },
-    {
-      "id": "4955640",
-      "time": "2026-06-26 00:45:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國七年期非競爭投標國債認購額 7290 萬美元。"
-    },
-    {
-      "id": "mkt:019effab-d43c-7dd8-b121-f66951c2112f",
-      "time": "2026-06-26 00:45:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple to skip high-end M6, accelerate launch of AI-capable M7 series】People familiar with the matter say Apple, currently on M5, plans a base M6 for entry-level Macs as early as this year but will skip a high-end M6. Apple intends to ship Pro and Max versions in a next-generation M7 family in 2027 with greater compute and graphics performance. The change is aimed at accelerating technologies slated for later release to meet rising demand for on-device AI features and graphics-intensive software."
-    },
-    {
-      "id": "4955639",
-      "time": "2026-06-26 00:44:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱， Monroe Energy旗下賓夕法尼亞州特雷納煉油廠火災發生在催化裂化裝置重啟過程中。"
-    },
-    {
-      "id": "mkt:019effaa-fd81-7dd8-b121-ed5e6627c975",
-      "time": "2026-06-26 00:44:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Source: Israeli withdrawal from Lebanon a key 'red line' for Iran】On June 25 a source close to the negotiating team said Israel withdrawing from Lebanese territory is one of Iran's conditions for a final U.S.-Iran accord and is regarded by Iran's negotiators as an important \"red line\". The source said the final memorandum of understanding would guarantee Lebanon's sovereignty and territorial integrity. Text agreed earlier in Switzerland emphasized a conflict-resolution mechanism to be implemented with Iranian participation and unified execution. Iran is now following up on a timetable for implementation."
-    },
-    {
-      "id": "4955638",
-      "time": "2026-06-26 00:44:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【訊息人士：以軍撤離黎巴嫩是伊朗重要“紅線”】一名接近談判團隊的訊息人士稱，以色列從黎巴嫩領土撤軍是伊朗與美國最終協議的條件之一，並被伊朗談判團隊視為一條重要“紅線”。該訊息人士進一步表示，最終的諒解備忘錄將保障黎巴嫩的主權與領土完整。此前在瑞士達成的協議文字中已經強調由伊朗參與且統一執行的“衝突解決機制”。伊朗方面目前正跟進其具體執行的時間表。該訊息人士還稱，在過去6天內，以色列對黎巴嫩的襲擊規模明顯下降，這表明伊朗的舉措已產生效果。但伊朗絕不會滿意，除非實現永久停火，且以色列從黎巴嫩完全撤軍。（央視新聞）"
-    },
-    {
-      "id": "te:economy:561983",
-      "time": "2026-06-26 00:43:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US 30-Year Mortgage Rate Ticks Higher — The average rate on a 30-year fixed-mortgage inched higher by 2bps to 6.49% on the week to June 25th, 2026, according to data compiled by Freddie Mac. The result was in line with some elevated yields for longer maturity Treasury bonds at the start of the week, when the hawkish projections by FOMC members drove the market to position for rate hikes by the Fed this year. “The average 30-year fixed mortgage rate was little changed this week at 6.49%” said Sam Khater, Freddie Mac’s Chief Economist. “Rates have remained relatively stable over the last six weeks. Meanwhile, purchase activity eased modestly and refinance activity has continued to pick up recently, reflecting borrowers’ responsiveness to current rate levels.”"
-    },
-    {
-      "id": "4955637",
-      "time": "2026-06-26 00:42:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍稱法國與義大利支援布羅莫太空合作專案。"
-    },
-    {
-      "id": "4955636",
-      "time": "2026-06-26 00:41:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：歐洲私人信貸再融資規模攀升；人工智慧相關敞口、兌付風險均處於低位。"
-    },
-    {
-      "id": "4955635",
-      "time": "2026-06-26 00:39:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Monroe Energy：將對此次事故的具體原因展開調查。"
-    },
-    {
-      "id": "4955634",
-      "time": "2026-06-26 00:39:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Monroe Energy：目前正在開展周邊空氣監測，監測結果顯示當前對社群不存在任何風險。"
-    },
-    {
-      "id": "4955633",
-      "time": "2026-06-26 00:39:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：法國願與義大利開展核能專案合作。"
-    },
-    {
-      "id": "mkt:019effa6-63f2-7dd8-b121-e469f6237393",
-      "time": "2026-06-26 00:39:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mengluo Energy says it will take all necessary measures to extinguish the fire."
-    },
-    {
-      "id": "4955632",
-      "time": "2026-06-26 00:39:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "Monroe Energy  ：正採取一切必要措施撲滅火災。"
-    },
-    {
-      "id": "mkt:019effa6-4e88-7dd8-b121-de6fc79db898",
-      "time": "2026-06-26 00:39:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mengluo Energy said it has immediately activated its on-site fire emergency team and deployed multiple emergency response resources."
-    },
-    {
-      "id": "4955631",
-      "time": "2026-06-26 00:38:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "Monroe Energy ：立即啟動了現場火災應對小組，並調配了多支應急救援資源。"
-    },
-    {
-      "id": "mkt:019effa5-fb85-7dd8-b121-d03ce7063472",
-      "time": "2026-06-26 00:38:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Monroe Energy said a pump house in a process unit at its Trainer, Pennsylvania refinery caught fire."
-    },
-    {
-      "id": "4955630",
-      "time": "2026-06-26 00:38:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Monroe Energy ：6月25日上午約11點30分，門羅能源位於賓夕法尼亞州特雷納的煉油廠工藝裝置泵房發生火災。"
-    },
-    {
-      "id": "mkt:019effa5-c0e0-7dd8-b121-cf7a6d6792f6",
-      "time": "2026-06-26 00:38:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Market sources say Apple will skip its planned high-end M6 Mac chip and move to an AI-focused M7, a rare strategic shift aimed at meeting AI workflow needs."
-    },
-    {
-      "id": "mkt:019effa5-55bf-7dd8-b121-c5fecc2e3f20",
-      "time": "2026-06-26 00:38:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Market sources say Apple is testing an entry-level MacBook Pro fitted with the standard M6 chip."
-    },
-    {
-      "id": "mkt:019effa4-c991-7dd8-b121-bfbcc7a903fa",
-      "time": "2026-06-26 00:37:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple plans to launch a base M6 chip first, followed by M7 Pro, M7 Max and M7 Ultra variants."
-    },
-    {
-      "id": "4955629",
-      "time": "2026-06-26 00:37:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果調整Mac產品線戰略，新一代高階晶片統一歸入M7系列】蘋果公司正對 Mac 自研晶片戰略作出史上規模最大的調整之一，計劃為下一代高階處理器推出全新、主打人工智慧的晶片產品線。知情人士透露，蘋果當前晶片迭代至 M5 系列，最早將於今年推出基礎版 M6 處理器，用於入門級 Mac 裝置。因相關規劃尚未對外公開，知情人士要求匿名。知情人士稱，蘋果將首次不再推出該晶片的高階衍生版本。知情人士表示，蘋果計劃於 2027 年推出運算與圖形效能更強的新一代 Pro、Max 晶片，歸入全新 M7 系列。"
-    },
-    {
-      "id": "te:markets:561982",
-      "time": "2026-06-26 00:37:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rebounds From Three-Day Slide — The FTSE MIB increased 0.28% to close at 51,782 on Thursday, rebounding from a three-day streak of losses with support from tech and power infrastructure companies. STMicroelectronics rose 2.8%, after Micron's positive earnings report helped ease worries and improved sentiment on the AI sector. Prysmian followed, gaining 0.3%. Rising electricity demand linked to data centers led to gains for utilities, where Enel (2%) and A2A (1.5%) both rose sharply. However, defense linked firms Avio and Leonardo led losses on the market at 6.6% and 4%, respectively. Selling was also concentrated on ENI (-2%), along with Saipem (-1.8%), after concerns emerged that widespread power outages in Venezuela, following recent earthquakes, could disrupt crude oil capacity. Elsewhere, Ferragamo advanced 3%."
-    },
-    {
-      "id": "4955628",
-      "time": "2026-06-26 00:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果罕見調整產品戰略，以適配人工智慧工作流需求。"
-    },
-    {
-      "id": "4955627",
-      "time": "2026-06-26 00:35:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果正在測試搭載標準版 M6 處理器的入門款 MacBook Pro。"
-    },
-    {
-      "id": "4955626",
-      "time": "2026-06-26 00:35:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果計劃先推出基礎版 M6 晶片，後續再發布 M7 Pro、M7 Max 以及 M7 Ultra 晶片。"
-    },
-    {
-      "id": "4955625",
-      "time": "2026-06-26 00:35:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果將放棄高階 M6 系列 Mac 晶片，轉而主推側重人工智慧的 M7 晶片。"
-    },
-    {
-      "id": "4955624",
-      "time": "2026-06-26 00:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：德國與以色列在海法附近海域舉行了聯合海軍演習。"
-    },
-    {
-      "id": "4955623",
-      "time": "2026-06-26 00:33:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Bumble股價在被報道該公司正探索出售事宜後上漲10.5%。"
-    },
-    {
-      "id": "mkt:019effa1-119d-7dd8-b121-b7bc08034abd",
-      "time": "2026-06-26 00:33:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany and Israel held joint naval exercises off Haifa."
-    },
-    {
-      "id": "4955622",
-      "time": "2026-06-26 00:32:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國農業部表示，由於種植面積大幅減少，加上破紀錄的熱浪可能造成的損害，法國今年的玉米產量可能會暴跌約30%。"
-    },
-    {
-      "id": "mkt:019eff9f-b10d-7dd8-b121-af9972d830d6",
-      "time": "2026-06-26 00:31:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's agriculture ministry said sharply reduced plantings and damage from a record heatwave could cut French corn output by about 30% this year."
-    },
-    {
-      "id": "4955621",
-      "time": "2026-06-26 00:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波斯灣原油出口反彈至戰前水平的75% 但霍爾木茲海峽並非風平浪靜】美伊簽署臨時和平協議一週後，波斯灣原油出口已恢復至戰前水平的至少75%，不過，這可能只是較容易邁出的一步。根據測算，截至週三的三天內，波斯灣地區出口原油接近1300萬桶/日，其中很大一部分來自此前滯留的貨物。伊朗和其他國家已開始清理這些積壓原油。儘管當前原油出口量較6月上半月平均水平高出約40%，但更大的問題在於，這種復甦能否持續，以及會有多少油輪願意重返海灣地區，從而使航運恢復到更正常的節奏。隨著美國和伊朗繼續敲定協議細節，可能還需要數週時間局勢才會更加明朗。此外，由於部分“暗船”仍在關閉定位訊號的情況下航行，臨時和平協議達成後的真實出口規模仍難以準確統計。美國官員估計的出口量明顯高得多。霍爾木茲海峽的重新開放很可能不會一帆風順。英國一家海軍機構週四表示，接到報告稱一艘船隻在霍爾木茲海峽遭到不明飛行物襲擊。此前數小時，已有數艘貨輪在嘗試穿越該水道時中途掉頭返航。"
     }
   ]
 }
