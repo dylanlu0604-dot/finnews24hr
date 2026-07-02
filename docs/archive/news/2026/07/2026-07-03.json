@@ -1,7 +1,64 @@
 {
   "date": "2026-07-03",
-  "count": 463,
+  "count": 469,
   "items": [
+    {
+      "id": "mkt:019f250f-9df0-7aab-8c85-b0adf3cc566c",
+      "time": "2026-07-03 07:00:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June S&P Global Composite PMI final reading 50.4, prior 49.8."
+    },
+    {
+      "id": "mkt:019f250f-9bfc-7aab-8c85-ab3c6d2d863b",
+      "time": "2026-07-03 07:00:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June S&P Global Services PMI (final) 50.5, prior 49.9."
+    },
+    {
+      "id": "4968358",
+      "time": "2026-07-03 07:00:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月標普全球綜合PMI終值 50.4，前值49.8。澳大利亞6月標普全球服務業PMI終值 50.5，前值49.9。"
+    },
+    {
+      "id": "4968357",
+      "time": "2026-07-03 06:57:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【關停“槓桿炒金”通道，銀行擰緊個人貴金屬業務風險閥門】6月以來，包括交通銀行、招商銀行、工商銀行在內的多家國有大行、股份制銀行密集“踩剎車”——宣佈將於7月停辦代理上海黃金交易所個人貴金屬交易業務。在業內人士看來，這是銀行主動進行風險管理的舉措，透過提前壓縮高風險投機業務，防範極端行情下的客戶違約風險、聲譽風險，同時幫助投資者規避貴金屬價格波動帶來的資金損失。（中證報）"
+    },
+    {
+      "id": "4968356",
+      "time": "2026-07-03 06:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室將於 7 月 6 日就巴西 301 調查舉行聽證會。"
+    },
+    {
+      "id": "te:markets:563895",
+      "time": "2026-07-03 06:57:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Down but Heads for Weekly Rise — The NZX 50 fell 13 points, or 0.1%, to 13,568 in Friday morning trade, declining for the third consecutive session, mainly weighed down by the financial, industrial, and technology sectors. Traders were cautious ahead of the RBNZ's monetary policy decision next week while anticipating the release of China's inflation data, amid rising global oil prices during June. However, easing oil prices helped cap the losses as inflation concerns subsided, reducing expectations of an interest rate hike. The latest data also limited the decline, as consumer confidence in New Zealand hit a three-month high in June, following an improvement in business confidence. Among the early decliners were Mercury NZ (-1.1%), Fletcher Building (-0.9%), Freightways Group (-0.4%), Infratil (-0.4%), and ANZ Group (-0.3%). However, the index is heading for a 0.6% weekly gain after being flat in the previous week."
+    },
     {
       "id": "4968355",
       "time": "2026-07-03 06:54:36",
