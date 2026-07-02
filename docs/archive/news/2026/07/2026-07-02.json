@@ -1,7 +1,205 @@
 {
   "date": "2026-07-02",
-  "count": 2867,
+  "count": 2889,
   "items": [
+    {
+      "id": "4967855",
+      "time": "2026-07-02 21:44:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數漲幅擴大至1.5%，創盤中新高。"
+    },
+    {
+      "id": "mkt:019f2313-095e-7aab-8c7c-b70150d08637",
+      "time": "2026-07-02 21:44:37",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish",
+        "LRCX.O",
+        "MU.O"
+      ],
+      "text": "【SEMI: 2026 global 300mm wafer-fab memory equipment investment projected to top $52 bln】SEMI’s 300mm Fab Outlook projects 2026 global 300mm wafer-fab memory equipment investment will exceed $52 bln, up 29% YoY, and rise a further 11% to $57 bln in 2027. The report cites increased spending on AI infrastructure, data centers and next‑generation computing as the driver, reflecting sustained AI‑driven demand for advanced memory. SEMI forecasts 2024–2029 global 300mm wafer-fab memory equipment investment will grow at a 19% CAGR. Global 300mm memory capacity is expected to expand to 4.10 mln wafers/month in 2026 and 4.20 mln wafers/month in 2027."
+    },
+    {
+      "id": "4967854",
+      "time": "2026-07-02 21:44:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國上市貴金屬礦業公司股票上漲，Gold Fields上漲5.6%，哈莫尼黃金(HMY.N)上漲7%，紐蒙特礦業(NEM.N)上漲3.8%，巴里克黃金(GOLD.N)上漲4.1%，SPDR黃金ETF上漲2.3%。"
+    },
+    {
+      "id": "mkt:019f2312-fa4c-7aab-8c7c-accc2f370d92",
+      "time": "2026-07-02 21:44:33",
+      "tags": [
+        "MKT News",
+        "HMY.N",
+        "Impact bullish",
+        "GOLD.N",
+        "NEM.N"
+      ],
+      "text": "US-listed precious metals miners rose; Harmony Gold (HMY.N) +7.0%, Gold Fields +5.6%, Barrick Gold (GOLD.N) +4.1% and Newmont (NEM.N) +3.8%. The SPDR Gold ETF rose 2.3%."
+    },
+    {
+      "id": "4967853",
+      "time": "2026-07-02 21:44:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價在第二季度交付資料公佈後下跌2.2%。"
+    },
+    {
+      "id": "4967852",
+      "time": "2026-07-02 21:44:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅賓漢（HOOD）股價上漲8.4%，因比特幣價格觸及一週高位。"
+    },
+    {
+      "id": "4967851",
+      "time": "2026-07-02 21:44:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣個股上漲，比特幣觸及一週高位。ProShares比特幣策略ETF與iShares比特幣信託每股上漲3.3%。COINBASE GLOBAL上漲8%，STRATEGY上漲9.8%，HUT 8上漲1%，MARA HOLDINGS上漲4%。"
+    },
+    {
+      "id": "te:markets:563812",
+      "time": "2026-07-02 21:44:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 41.42 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 10.57%, and in the last 12 months, it increased 49.17%."
+    },
+    {
+      "id": "4967850",
+      "time": "2026-07-02 21:43:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報62.34美元/盎司。"
+    },
+    {
+      "id": "4967849",
+      "time": "2026-07-02 21:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SEMI：AI算力需求引爆儲存投資 2026年全球300mm晶圓廠裝置支出首破500億美元】SEMI在最新發布的《300mm晶圓廠展望報告》中指出，2026年全球300mm晶圓廠儲存領域裝置投資預計首次突破500億美元，增長29%至520億美元，2027年再增11%至570億美元。受AI基礎設施、資料中心及下一代計算系統投資增加的支撐，這一增長反映了AI驅動對先進儲存的持續需求。展望未來，SEMI預計2024年至2029年全球300mm晶圓廠儲存領域裝置投資將以19%的複合年增長率（CAGR）增長。全球300mm儲存產能也預計將持續增加，2026年將達到每月410萬片晶圓，2027年達到每月420萬片晶圓。"
+    },
+    {
+      "id": "mkt:019f2311-e218-7aab-8c7c-a41d5ddb0271",
+      "time": "2026-07-02 21:43:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany's DAX 30 index rose 2% intraday."
+    },
+    {
+      "id": "4967848",
+      "time": "2026-07-02 21:42:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華策影視：擬4億元與專業機構共同投資AI影片生成領域】華策影視公告稱，公司擬以自有資金4億元，與杭州亨石共同設立青島華歆，擔任有限合夥人。投資後，青島華歆規模為5.09億元，公司出資佔比78.584%。本次投資有助於公司佈局人工智慧領域，與主營業務協同，提升綜合競爭力。不過，投資存在回收期長、收益不達預期等風險。截止公告披露日，投資後續尚需基金備案等手續，實施情況和進度存在不確定性。"
+    },
+    {
+      "id": "te:markets:563810",
+      "time": "2026-07-02 21:42:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Rebounds as Weak US Jobs Data Weighs on Dollar — The euro rose toward $1.145, rebounding from recent one-year lows as the US dollar weakened after a much softer-than-expected US jobs report. The US economy added just 57,000 jobs last month, well below forecasts, while the unemployment rate unexpectedly fell to 4.2% as many people left the labor force. The euro's gains were limited by weaker-than-expected Eurozone inflation and dovish remarks from ECB President Christine Lagarde. Data showed headline inflation slowed to 2.8% in June from 3.2% in May, below expectations, while core inflation eased to 2.4%, also missing forecasts. Speaking at the ECB's Sintra Forum, Lagarde said risks to euro-area inflation and growth had diminished, reflecting lower energy price pressures since the ECB's rate hike three weeks ago. Meanwhile, optimism over indirect US-Iran talks continued to support lower oil prices, with Qatar announcing that a new round of negotiations would be scheduled soon."
+    },
+    {
+      "id": "4967847",
+      "time": "2026-07-02 21:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【穩定幣USDC發行商Circle漲超9%】穩定幣USDC發行商Circle盤初走高，最新漲超9%。"
+    },
+    {
+      "id": "4967846",
+      "time": "2026-07-02 21:42:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果美股盤初漲2%】蘋果美股盤初漲2%。蘋果上調首款摺疊屏iPhone備貨預期，目標從700萬—800萬部增至約1000萬部。"
+    },
+    {
+      "id": "4967845",
+      "time": "2026-07-02 21:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI應用股Palantir盤初走高，最新漲超5%。"
+    },
+    {
+      "id": "4967844",
+      "time": "2026-07-02 21:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普補充稱，他已告知普爾特，其可以 “任意解密所有檔案”，並表示自己獲悉這位代理國家情報總監擁有解密幾乎所有檔案的許可權。"
+    },
+    {
+      "id": "te:markets:563809",
+      "time": "2026-07-02 21:41:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Germany Hit All-time High — DE40 increased to an all-time high of 25589.00 Index Points. Over the past 4 weeks, Germany Stock Market Index (DE40) gained 3.12%, and in the last 12 months, it increased 6.84%."
+    },
+    {
+      "id": "4967843",
+      "time": "2026-07-02 21:41:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普總統表示，國家情報代理總監比爾・普爾特的任期或將持續約兩個月。"
+    },
+    {
+      "id": "4967842",
+      "time": "2026-07-02 21:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特有權解密檔案。"
+    },
+    {
+      "id": "te:markets:563808",
+      "time": "2026-07-02 21:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Over 1-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, rose for the third session on Thursday, surging about 3.4% to its highest since June 24 at 2,650 points, buoyed by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, climbed 6.2% to 3,291 points, marking the third consecutive increase, on improved cargo activity along key Australia and Brazil iron ore routes, while Chinese restrictions on some Fortescue deliveries limited buying by domestic steel mills. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, went up 0.8% to 2,195 points; and the supramax index edged up 0.1% to 1,675 points."
+    },
     {
       "id": "4967841",
       "time": "2026-07-02 21:40:14",
@@ -23,6 +221,15 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Opens 0.55% Higher — The Dow Jones Index is up by 286 points or 0.55 percent on Thursday. Top gainers are Boeing (3.34%), Nike (3.23%) and Apple (1.88%). Biggest losses came from Cisco Systems (-1.64%), Caterpillar (-1.47%) and Alphabet (-0.86%)."
+    },
+    {
+      "id": "em:qqyh_mlc:202607023792213634",
+      "time": "2026-07-02 21:39:11",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國白宮經濟顧問：對鮑威爾留任美聯儲的動機表示擔憂】美國白宮經濟顧問哈塞特表示，非常不尋常的是鮑威爾仍未離開美聯儲，對鮑威爾留任美聯儲的動機表示擔憂。"
     },
     {
       "id": "mkt:019f230d-7628-7aab-8c7c-9a7ff6619659",
