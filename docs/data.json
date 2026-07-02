@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-03 06:17:01",
-  "count": 13863,
+  "updated": "2026-07-03 06:20:57",
+  "count": 13862,
   "items": [
+    {
+      "id": "te:economy:563889",
+      "time": "2026-07-03 06:18:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Nigeria 10Y Bond Yield Hits 12-month High — Nigeria 10 Year Government Bond Yield increased to 18.55%, the highest since June 2025. Over the past 4 weeks, Nigeria 10Y Bond Yield gained 358.20 basis points, and in the last 12 months, it increased 17.60 basis points."
+    },
+    {
+      "id": "mkt:019f24e8-9d7f-7aab-8c85-8989d6f35665",
+      "time": "2026-07-03 06:17:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "INTC.O",
+        "Impact mixed"
+      ],
+      "text": "【Trump dodges question on potential US 5% OpenAI stake, highlights US 10% Intel holding】In a CNBC interview, Trump declined to say whether the US would take a 5% stake in OpenAI after a Financial Times report on a potential deal, instead highlighting the US government's stake in Intel. He cited last August's $8.9bn investment in Intel common stock that gave the US government a 10% holding and said he had demanded a 10% stake in return for fixing the company's problems."
+    },
     {
       "id": "4968337",
       "time": "2026-07-03 06:16:10",
@@ -127702,36 +127726,6 @@
         "市場"
       ],
       "text": "【多因素共振 券商板塊再現強勢上漲 】在經歷週一的強勢大漲後，6月25日，A股券商板塊再度上攻，其自6月9日以來的這輪反彈行情，累計漲幅已超過15%。業內人士表示，行業業績增長預期強化、政策訊號密集釋出以及板塊估值處於低位或是此輪券商板塊上漲的主要因素。此外，近期市場風格的再平衡一定程度上也提升了市場對券商板塊投資價效比的關注度。從更長期視角看，低利率背景帶來的財富管理發展歷史性機遇等敘事邏輯有望驅動券商板塊實現估值重塑，綜合實力領先的頭部券商更加值得關注。（中證報）"
-    },
-    {
-      "id": "mkt:019f00de-775f-7dd8-b126-ab501505d872",
-      "time": "2026-06-26 06:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "2027 FOMC voting member and Chicago Fed President Austan Goolsbee to speak in 10 minutes."
-    },
-    {
-      "id": "mkt:019f00dd-2a90-7dd8-b126-a481ccf92e68",
-      "time": "2026-06-26 06:18:42",
-      "tags": [
-        "MKT News",
-        "09999.HK",
-        "Impact bullish"
-      ],
-      "text": "NetEase-S (09999.HK) has chosen to become a dual primary-listed company on HKEX, effective June 30, 2026; the \"S\" marker will be removed from its Hong Kong stock short name on the effective date."
-    },
-    {
-      "id": "4955896",
-      "time": "2026-06-26 06:18:32",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【上證報：利率調控短端化的三重考量】我國利率調控正呈現短端化趨勢。2026年6月25日，央行釋出公告，將在6月29日、30日公開市場操作中增加隔夜逆回購操作品種，短端利率調控機制進一步完善。專家認為，利率調控短端化，或包含三重核心考量：一是適配重塑中的金融結構。二是穩定金融市場執行與金融產品估值。三是精準契合貨幣政策調控轉型方向。有機構判斷，隔夜（逆）回購利率可能成為我國的新政策利率。不過，有業內人士判斷，未來即使政策利率切換至隔夜逆回購利率，也將經歷一個平穩過渡、循序漸進的過程，需要先理順各期限工具利差、切換金融產品等利率基準錨點。"
     }
   ]
 }
