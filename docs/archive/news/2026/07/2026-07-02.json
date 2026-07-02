@@ -1,7 +1,64 @@
 {
   "date": "2026-07-02",
-  "count": 1322,
+  "count": 1328,
   "items": [
+    {
+      "id": "mkt:019f2172-2ade-7aab-8c6e-1f972eeedd34",
+      "time": "2026-07-02 14:09:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【South Korea deputy finance minister says in close talks with Japan, allies on FX; won detached from fundamentals】South Korea’s deputy finance minister said on Thursday Seoul is in close communication with Japan and other major allies on foreign-exchange matters and warned the won has significantly diverged from economic fundamentals. He said authorities maintain close cooperation and information sharing with Japan and related countries. Asked about potential intervention, he declined to elaborate but said the government is prepared to take stabilizing measures if insufficient market liquidity leads to excessive exchange-rate volatility."
+    },
+    {
+      "id": "4966677",
+      "time": "2026-07-02 14:08:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌9.3%。"
+    },
+    {
+      "id": "4966676",
+      "time": "2026-07-02 14:08:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長表示：馬哈拉施特拉邦的土地徵用批准有望推動滯後的日本資助高鐵專案。"
+    },
+    {
+      "id": "mkt:019f2170-b8c4-7aab-8c6e-14dbcc313358",
+      "time": "2026-07-02 14:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NRTA: boutique short-form dramas becoming an industry-driven trend】The National Radio and Television Administration said recent short-form dramas display richer themes, heightened intent, more mature storytelling and stronger distinctiveness, and that 'boutique' production is becoming an industry consensus and self-driven practice. At a 2026 summer review of boutique short-form dramas in Beijing, Network Department director Wang Xiaoliang said future short-form drama creation must adhere to the correct direction, uphold content bottom lines, set benchmarks and deliver high-quality titles."
+    },
+    {
+      "id": "4966675",
+      "time": "2026-07-02 14:07:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣電總局：微短劇精品化正成行業自覺行動】國家廣播電視總局相關負責人表示，近期優秀微短劇作品呈現出題材更加豐富、立意更加升華、敘事更加成熟、特色更加突出的鮮明特徵，微短劇精品化正成為行業共識和自覺行動。日前在京舉辦的2026精品微短劇夏季點評會上，廣電總局網路司司長王小亮作上述論斷後認為，未來的微短劇精品創作，要正方向、守底線，在紛繁的市場中把穩“方向盤”；要樹標杆、出精品，在千帆競發中樹立“風向標”。（新華社）"
+    },
+    {
+      "id": "4966674",
+      "time": "2026-07-02 14:06:58",
+      "tags": [
+        "宏觀",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【三菱日聯：日本推動投資有加劇通脹的風險】三菱日聯摩根士丹利證券策略師六車治美表示，日本即將出臺的公共和私營投資計劃需要密切關注加劇通脹壓力和破壞日本經濟穩定的風險。她說，隨著日本央行最新短觀調查顯示企業不再猶豫轉嫁不斷上升的成本，在嚴重的勞動力短缺、高企的原油價格和日元疲軟的推動下，企業的通脹預期正在不斷攀升。這種轉變表明，任何激進的投資推動都可能在生產能力跟上之前導致該國經濟過熱。"
+    },
     {
       "id": "4966673",
       "time": "2026-07-02 14:05:50",
