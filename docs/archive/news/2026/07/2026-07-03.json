@@ -1,7 +1,116 @@
 {
   "date": "2026-07-03",
-  "count": 4,
+  "count": 16,
   "items": [
+    {
+      "id": "te:markets:563851",
+      "time": "2026-07-03 00:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Hits Record High — The DAX 40 gained ground to close about 2.2% firmer at an all-time high of 25,546 on Thursday, outperforming its regional peers. Sentiment was lifted by a new government reform package, upbeat corporate news and reduced expectations of Fed and ECB rate hikes. Earlier in the day, Chancellor Friedrich Merz's coalition unveiled an ambitious reform package aimed at boosting the economy, including €10 billion in tax cuts for lower-income households, pension reforms and measures to expand affordable housing. Bayer shares stood out with a gain of 8.6%, after announcing it would consolidate its US business with the controversial weedkiller glyphosate into a separate subsidiary called Ruveon. Analysts at Deutsche Bank upgraded their recommendation on the company to \"Buy\" from \"Hold\". Vonovia gained 6% after receiving a \"Buy\" rating from JPMorgan, and Deutsche Bank rose 5.2% after Morgan Stanley raised its price target and the lender announced a collective bargaining agreement at Postbank."
+    },
+    {
+      "id": "4968092",
+      "time": "2026-07-03 00:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多項成果亮相2026全球數字經濟大會開幕式】2026全球數字經濟大會2日在京開幕。開幕式上，《2026全球數字經濟城市發展報告》、2026全球數字經濟燈塔案例等多項重磅成果亮相，為全球數字城市建設注入新動力。 由全球數字經濟城市聯盟釋出的《2026全球數字經濟城市發展報告》系統梳理城市數字化發展的路徑、模式與型別，立足全球數字化轉型加速演進的大背景，系統回應數字經濟如何重塑城市、城市如何塑造數字經濟，以及未來城市應承擔何種責任等關鍵命題。報告明確，“數字友好”是未來城市數字化轉型的重要價值方向，強調數字技術不僅要支撐產業升級和城市治理，更需讓市民可感、企業可用、社會可及。（新華社）"
+    },
+    {
+      "id": "mkt:019f2394-0f97-7aab-8c80-b6905a87bfad",
+      "time": "2026-07-03 00:05:33",
+      "tags": [
+        "MKT News",
+        "MS.N"
+      ],
+      "text": "Morgan Stanley (MS.N) will match $1,000 in donations to Trump accounts opened for employees' children."
+    },
+    {
+      "id": "4968091",
+      "time": "2026-07-03 00:04:18",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利將為員工子女開立的特朗普相關賬戶配套等額繳納1000美元出資。"
+    },
+    {
+      "id": "4968090",
+      "time": "2026-07-03 00:04:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社訊息：伊朗議員支援專家會議十點宣告。"
+    },
+    {
+      "id": "4968089",
+      "time": "2026-07-03 00:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4968088",
+      "time": "2026-07-03 00:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "聖路易斯陪審團駁回指控，認定涉事企業不存在隱瞞奶粉健康風險行為。"
+    },
+    {
+      "id": "4968087",
+      "time": "2026-07-03 00:03:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "利潔時旗下美贊臣事業部在早產兒奶粉訴訟中獲陪審團裁定無責。"
+    },
+    {
+      "id": "4968086",
+      "time": "2026-07-03 00:02:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗資料顯示交易員全力押注納斯達克100指數 認為漲勢還將繼續】通常情況下，納斯達克100指數在三個月內上漲30%會促使投資者獲利了結。但眼下，他們卻押注這波漲勢才剛剛開始。對追蹤納斯達克100指數的最大交易所買賣基金的看漲期權需求，其增長速度超過了整體市場，表明資金正輪動進入人工智慧和成長型股票。花旗集團彙編的資料顯示，從某項指標來看，相對於標普500指數，科技股看漲期權的成本正處於2007年以來的最高水平。這種格局並非沒有風險，人們越來越擔心，主導今年大部分時間市場敘事的人工智慧交易可能已經過熱。週三，納斯達克100指數下跌1.5%，表現遜於收盤幾乎持平的標普500指數，而週四這一股指再次跑輸大盤。期權平臺Spot Gamma的創始人布倫特·科楚巴在談及科技股看漲期權時表示：“交易員目前正處於極端看漲狀態。”"
+    },
+    {
+      "id": "mkt:019f2390-e9a8-7aab-8c80-ac7911c7869f",
+      "time": "2026-07-03 00:02:07",
+      "tags": [
+        "MKT News",
+        "CAT.N"
+      ],
+      "text": "Caterpillar (CAT.N) has launched a Texas workforce development program as part of a five-year, $100 million initiative, with initial grants of up to $5 million for workforce training in Texas."
+    },
+    {
+      "id": "te:markets:563850",
+      "time": "2026-07-03 00:02:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rally on Softer Inflation Outlook — The CAC 40 rose 1.7% to close at 8,476 on Thursday, rebounding from the previous session as easing inflation concerns and prospects of a more dovish Federal Reserve boosted sentiment. At the ECB Forum, Fed Chair Kevin Warsh said inflation risks had moderated in recent weeks, while ECB President Lagarde noted that risks to euro-area inflation and growth had become less pronounced. A weaker-than-expected US labor market reading also reduced expectations of further Fed rate hikes this year, supporting broader risk appetite. Also, oil prices extended losses and remained near pre-conflict levels, easing energy-driven inflation concerns. Domestically, the state budget deficit narrowed in the January–May period. Luxury stocks led gains as risk aversion eased, with LVMH up 3.5%, Hermès advancing 3.3%, and L'Oréal gaining 2%. Industrials also posted strong gains, with Airbus up 2.9% and Thales adding 4.8%. Other notable performers included Sanofi (+3%), Air Liquide (+2.1%), and Engie (+2.3%)."
+    },
+    {
+      "id": "mkt:019f2390-d319-7aab-8c80-a5f388b15999",
+      "time": "2026-07-03 00:02:01",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP data shows markets are heavily positioned on the Nasdaq-100, expecting the rally to continue."
+    },
     {
       "id": "mkt:019f238f-982d-7aab-8c80-98f6ff87af5f",
       "time": "2026-07-03 00:00:40",
