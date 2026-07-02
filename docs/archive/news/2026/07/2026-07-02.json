@@ -1,7 +1,118 @@
 {
   "date": "2026-07-02",
-  "count": 2296,
+  "count": 2308,
   "items": [
+    {
+      "id": "te:markets:563761",
+      "time": "2026-07-02 19:09:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises for 2nd Day — India’s BSE Sensex closed about 0.75% firmer at 77,502 on Thursday, extending previous session's gains, amid positive global cues and renewed strength in IT stocks. Investors were encouraged by falling oil prices and expectations that central banks may adopt a less aggressive policy stance if inflation continues to cool. Optimism over constructive US-Iran talks in Doha, coupled with Fed Chair Kevin Warsh's reassuring inflation remarks, supported market sentiment. Information technology stocks were the standout performers, with Infosys, Tech Mahindra, and other frontline IT companies rising between 4% and 5.6%."
+    },
+    {
+      "id": "4967472",
+      "time": "2026-07-02 19:08:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "商務部辦公廳、海關總署辦公廳釋出關於開展綜合保稅區外保稅檢測試點工作的通知。"
+    },
+    {
+      "id": "4967471",
+      "time": "2026-07-02 19:07:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鹽湖股份：預計上半年淨利潤同比增長131.38%-142.95%】鹽湖股份公告，預計2026年上半年淨利潤為60億元—63億元，同比增長131.38%—142.95%。報告期內，公司氯化鉀產量約168.17萬噸，銷量約224.73萬噸；碳酸鋰產量約4.94萬噸，銷量約3.91萬噸。受銷量及價格同比上漲驅動，氯化鉀板塊盈利顯著增長。同時，4萬噸/年基礎鋰鹽專案量產，帶動碳酸鋰產銷量同比提升，且市場價格呈上漲趨勢，助力公司整體業績實現大幅增長。"
+    },
+    {
+      "id": "4967470",
+      "time": "2026-07-02 19:07:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST節能：股票交易異常波動 多項風險需關注】*ST節能公告稱，2026年7月1日、2日公司股票連續2個交易日收盤價格漲幅偏離值累計達12.73%，屬異常波動。公司已被證監會立案調查，正推進撤銷退市風險警示工作，尚處補充材料階段。2026年一季度營收2967.24萬元，扣非淨利潤虧損100.76萬元；2025年扣非淨利潤虧損6704.17萬元，淨資產8700.79萬元。提醒投資者注意風險。"
+    },
+    {
+      "id": "4967469",
+      "time": "2026-07-02 19:06:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新五豐：擬註冊發行不超過人民幣15億元永續中期票據】新五豐公告，2026年7月2日，公司第六屆董事會第二十八次會議審議透過《關於擬註冊發行永續中期票據的預案》。本次永續中期票據的註冊及發行總額擬不超過人民幣15億元（含15億元），發行期限無固定到期期限，發行物件為銀行間債券市場的投資者，募集資金擬用於公司及子公司償還金融機構借款、補充流動資金以及其他符合法律法規的用途。"
+    },
+    {
+      "id": "mkt:019f2282-6f3f-7aab-8c75-982fa8cc891b",
+      "time": "2026-07-02 19:06:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed",
+        "BHP.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources say Faraday Copper will acquire BHP's San Manuel mining assets in Arizona, US."
+    },
+    {
+      "id": "4967468",
+      "time": "2026-07-02 19:06:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑期運輸啟動，鄭州鐵路計劃增開臨客列車132列】7月1日，為期62天的2026年鐵路暑期運輸啟動。7月1日至8月31日，國鐵集團鄭州局預計傳送旅客4151萬人次，較2025年同期增長4.1%；計劃增開臨客列車132列，新開多條旅遊專線，推出旅遊計次票、網路訂餐等便民服務。（鄭州釋出）"
+    },
+    {
+      "id": "mkt:019f2282-1555-7aab-8c75-90dca900cec4",
+      "time": "2026-07-02 19:06:18",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 futures pared losses, trading down 0.33%."
+    },
+    {
+      "id": "4967467",
+      "time": "2026-07-02 19:06:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500迷你股指期貨持平，道指期貨上漲0.2%。"
+    },
+    {
+      "id": "4967466",
+      "time": "2026-07-02 19:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "康寧持續看好中國經濟與高新技術產業發展 康寧大中國區總裁林春梅在接受中國日報網採訪時稱，企業高度看好中國經濟與高新技術發展，公司發展戰略契合 “十五五”規劃，將持續加碼顯示、汽車尾氣治理、AI 通訊領域產能投資，助力國內重點產業穩步發展。（中國日報）"
+    },
+    {
+      "id": "4967465",
+      "time": "2026-07-02 19:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球至少2000萬兒童使用過人工智慧】聯合國兒童基金會6月30日釋出報告稱，全球已有至少2000萬兒童使用過人工智慧，人工智慧為學習和創造力帶來新機遇，但相關安全保障措施尚未跟上技術被迅速採用的步伐，兒童安全和權利保護正成為人工智慧治理中的重要議題。當地時間7月1日，聯合國秘書長發言人迪雅裡克在回應央視記者提問時表示，聯合國支援將兒童安全和權利置於人工智慧議題的核心。（CCTV國際時訊）"
+    },
+    {
+      "id": "4967464",
+      "time": "2026-07-02 19:05:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨收窄跌幅，最新下跌0.33%。"
+    },
     {
       "id": "mkt:019f2280-6514-7aab-8c75-8a178a9a85a2",
       "time": "2026-07-02 19:04:27",

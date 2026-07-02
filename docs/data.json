@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-02 19:05:56",
-  "count": 13830,
+  "updated": "2026-07-02 19:10:02",
+  "count": 13827,
   "items": [
+    {
+      "id": "te:markets:563761",
+      "time": "2026-07-02 19:09:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises for 2nd Day — India’s BSE Sensex closed about 0.75% firmer at 77,502 on Thursday, extending previous session's gains, amid positive global cues and renewed strength in IT stocks. Investors were encouraged by falling oil prices and expectations that central banks may adopt a less aggressive policy stance if inflation continues to cool. Optimism over constructive US-Iran talks in Doha, coupled with Fed Chair Kevin Warsh's reassuring inflation remarks, supported market sentiment. Information technology stocks were the standout performers, with Infosys, Tech Mahindra, and other frontline IT companies rising between 4% and 5.6%."
+    },
+    {
+      "id": "4967472",
+      "time": "2026-07-02 19:08:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "商務部辦公廳、海關總署辦公廳釋出關於開展綜合保稅區外保稅檢測試點工作的通知。"
+    },
+    {
+      "id": "4967471",
+      "time": "2026-07-02 19:07:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鹽湖股份：預計上半年淨利潤同比增長131.38%-142.95%】鹽湖股份公告，預計2026年上半年淨利潤為60億元—63億元，同比增長131.38%—142.95%。報告期內，公司氯化鉀產量約168.17萬噸，銷量約224.73萬噸；碳酸鋰產量約4.94萬噸，銷量約3.91萬噸。受銷量及價格同比上漲驅動，氯化鉀板塊盈利顯著增長。同時，4萬噸/年基礎鋰鹽專案量產，帶動碳酸鋰產銷量同比提升，且市場價格呈上漲趨勢，助力公司整體業績實現大幅增長。"
+    },
+    {
+      "id": "4967470",
+      "time": "2026-07-02 19:07:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST節能：股票交易異常波動 多項風險需關注】*ST節能公告稱，2026年7月1日、2日公司股票連續2個交易日收盤價格漲幅偏離值累計達12.73%，屬異常波動。公司已被證監會立案調查，正推進撤銷退市風險警示工作，尚處補充材料階段。2026年一季度營收2967.24萬元，扣非淨利潤虧損100.76萬元；2025年扣非淨利潤虧損6704.17萬元，淨資產8700.79萬元。提醒投資者注意風險。"
+    },
+    {
+      "id": "4967469",
+      "time": "2026-07-02 19:06:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新五豐：擬註冊發行不超過人民幣15億元永續中期票據】新五豐公告，2026年7月2日，公司第六屆董事會第二十八次會議審議透過《關於擬註冊發行永續中期票據的預案》。本次永續中期票據的註冊及發行總額擬不超過人民幣15億元（含15億元），發行期限無固定到期期限，發行物件為銀行間債券市場的投資者，募集資金擬用於公司及子公司償還金融機構借款、補充流動資金以及其他符合法律法規的用途。"
+    },
+    {
+      "id": "mkt:019f2282-6f3f-7aab-8c75-982fa8cc891b",
+      "time": "2026-07-02 19:06:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed",
+        "BHP.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources say Faraday Copper will acquire BHP's San Manuel mining assets in Arizona, US."
+    },
+    {
+      "id": "4967468",
+      "time": "2026-07-02 19:06:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑期運輸啟動，鄭州鐵路計劃增開臨客列車132列】7月1日，為期62天的2026年鐵路暑期運輸啟動。7月1日至8月31日，國鐵集團鄭州局預計傳送旅客4151萬人次，較2025年同期增長4.1%；計劃增開臨客列車132列，新開多條旅遊專線，推出旅遊計次票、網路訂餐等便民服務。（鄭州釋出）"
+    },
+    {
+      "id": "mkt:019f2282-1555-7aab-8c75-90dca900cec4",
+      "time": "2026-07-02 19:06:18",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 futures pared losses, trading down 0.33%."
+    },
+    {
+      "id": "4967467",
+      "time": "2026-07-02 19:06:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500迷你股指期貨持平，道指期貨上漲0.2%。"
+    },
+    {
+      "id": "4967466",
+      "time": "2026-07-02 19:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "康寧持續看好中國經濟與高新技術產業發展 康寧大中國區總裁林春梅在接受中國日報網採訪時稱，企業高度看好中國經濟與高新技術發展，公司發展戰略契合 “十五五”規劃，將持續加碼顯示、汽車尾氣治理、AI 通訊領域產能投資，助力國內重點產業穩步發展。（中國日報）"
+    },
+    {
+      "id": "4967465",
+      "time": "2026-07-02 19:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球至少2000萬兒童使用過人工智慧】聯合國兒童基金會6月30日釋出報告稱，全球已有至少2000萬兒童使用過人工智慧，人工智慧為學習和創造力帶來新機遇，但相關安全保障措施尚未跟上技術被迅速採用的步伐，兒童安全和權利保護正成為人工智慧治理中的重要議題。當地時間7月1日，聯合國秘書長發言人迪雅裡克在回應央視記者提問時表示，聯合國支援將兒童安全和權利置於人工智慧議題的核心。（CCTV國際時訊）"
+    },
+    {
+      "id": "4967464",
+      "time": "2026-07-02 19:05:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨收窄跌幅，最新下跌0.33%。"
+    },
     {
       "id": "mkt:019f2280-6514-7aab-8c75-8a178a9a85a2",
       "time": "2026-07-02 19:04:27",
@@ -127271,138 +127382,6 @@
         "公司"
       ],
       "text": "【敏芯股份：2025年度擬每10股派2.7元轉4股】敏芯股份公告稱，公司擬以總股本扣減回購專用證券賬戶股份後的股數為基數，向全體股東每10股派發現金紅利2.70元（含稅），每10股以資本公積轉增4股。截至公告披露日，總股本56,059,772股，扣減425,399股後，派發現金紅利1502.13萬元，擬轉增22,253,749股，轉增後總股本78,313,521股。股權登記日為2026年7月1日，除權（息）日等均為7月2日。"
-    },
-    {
-      "id": "4955067",
-      "time": "2026-06-25 19:09:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本下調七個中東國家的旅行警示等級，其中包括阿拉伯聯合大公國。"
-    },
-    {
-      "id": "4955066",
-      "time": "2026-06-25 19:09:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工機械：控股股東徐工集團增持計劃實施完畢，累計增持0.078%股份】徐工機械公告，控股股東徐州工程機械集團有限公司基於對公司未來發展的信心及履行《全球投資者未來三年（2025-2027）回報計劃》承諾，於2025年12月26日至2026年6月25日透過集中競價方式累計增持公司股份915.72萬股，佔公司總股本的0.078%，增持金額約9993.39萬元（不含交易費用），增持均價10.91元/股。本次增持後，徐工集團持股比例由20.94%升至21.09%，增持計劃已實施完畢。"
-    },
-    {
-      "id": "4955065",
-      "time": "2026-06-25 19:09:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華海清科：更新向特定物件發行股票稽核問詢函回覆】華海清科公告稱，公司於2026年6月18日收到上交所關於向特定物件發行股票申請檔案的稽核問詢函，於6月24日披露了回覆檔案。根據上交所進一步稽核意見，公司會同中介機構對部分回覆內容進行更新並公開披露。本次發行尚需透過上交所稽核，並獲中國證監會同意註冊後方可實施，最終能否透過及時間存在不確定性。"
-    },
-    {
-      "id": "4955064",
-      "time": "2026-06-25 19:09:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅森布拉特證券將美光目標股價從1200美元上調至1500美元。"
-    },
-    {
-      "id": "mkt:019efe78-84b2-7dd8-b118-69de0d343a2c",
-      "time": "2026-06-25 19:09:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's central bank said economic activity grew strongly in Q1 2026."
-    },
-    {
-      "id": "4955063",
-      "time": "2026-06-25 19:08:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奕瑞科技：股東及董事擬減持不超0.95%公司股份】奕瑞科技公告稱，截至2026年6月24日，股東海南合毅持股16,409,845股，佔總股本5.44%；董事Richard Aufrichtig持股163,268股，佔0.05%。海南合毅擬自7月17日至10月16日，透過集中競價減持不超2,800,000股，佔比不超0.93%；Richard Aufrichtig擬同期減持不超40,000股，佔比不超0.02%，減持原因為自身資金需要。本次減持計劃實施存在不確定性，不會影響公司治理和持續經營。"
-    },
-    {
-      "id": "te:markets:561860",
-      "time": "2026-06-25 19:08:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls Toward Pre-War Levels — Brent crude oil fell below $73 a barrel on Thursday, extending losses for a fourth consecutive session and nearly wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels."
-    },
-    {
-      "id": "4955062",
-      "time": "2026-06-25 19:08:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局召開2026年第二次企業公平競爭座談會】據市說新語公眾號，6月25日，市場監管總局召開2026年第二次企業公平競爭座談會。來自製造業、人工智慧、醫藥、建築等領域7家企業負責人，圍繞“破除各種卡點堵點，維護市場公平競爭”進行交流。總局黨組成員、副局長孟揚主持座談會並講話。孟揚在聽取企業負責人意見建議後，對有關情況作了回應，並介紹了總局在強化反壟斷執法、加強公平競爭治理等方面出臺的政策舉措和開展的主要工作。他指出，總局將深入貫徹黨中央決策部署，堅持問題導向，立足標本兼治，以更高標準、更實舉措推進執法監管，堅決破除妨礙統一市場和公平競爭卡點堵點，著力最佳化營商環境，激發企業創新活力，推動建設強大國內市場。"
-    },
-    {
-      "id": "te:markets:561859",
-      "time": "2026-06-25 19:07:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Sinks Toward Pre-War Levels — Crude oil fell below $70 a barrel on Thursday, extending losses for a fourth consecutive session and nearly wiping out all the gains made since the outbreak of the Middle East conflict, as progress in US-Iran peace efforts improved the supply outlook. Growing confidence in a lasting agreement has encouraged more tankers to transit the Strait of Hormuz with their tracking signals turned on. Saudi Arabian tankers are heading toward the Ras Tanura terminal to restart Persian Gulf exports for the first time since March. In addition, a temporary US waiver permitting purchases of already-loaded Iranian oil is expected to boost supply. As oil streams through the waterway at its fastest wartime pace, market attention is shifting toward an anticipated 2026 global supply surplus, prompting Iraq to threaten to leave OPEC unless its production quota is increased. Meanwhile, US stockpiles at Cushing, Oklahoma, are below operational requirements at roughly 19 million barrels."
-    },
-    {
-      "id": "4955061",
-      "time": "2026-06-25 19:07:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁威生物：2607萬股限售股7月3日上市流通】邁威生物公告稱，本次上市流通的限售股為首次公開發行部分限售股，涉及4名股東，對應數量2607萬股，佔公司A股股份數量的6.52%，佔公司股份總數的5.84%。限售期為股票上市之日起3個完整會計年度，鎖定期即將屆滿，將於2026年7月3日起上市流通。截至核查意見出具日，限售股股東已履行承諾，保薦機構對本次限售股上市流通事項無異議。"
-    },
-    {
-      "id": "4955060",
-      "time": "2026-06-25 19:07:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "黑莓在美上市股票盤前漲幅在業績公佈後進一步擴大，最新上漲9.9%。"
-    },
-    {
-      "id": "4955059",
-      "time": "2026-06-25 19:06:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首創證券：選舉張小娟為第二屆董事會非獨立董事】首創證券公告稱，公司2025年年度股東會審議透過選舉張小娟為公司第二屆董事會非獨立董事的議案。自股東會選舉透過其任職議案之日起，張小娟正式履職，任期至第二屆董事會任期屆滿。其任職經股東會審議批准後，須報中國證監會北京監管局備案。"
-    },
-    {
-      "id": "4955058",
-      "time": "2026-06-25 19:06:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行：2028年通脹預測已作出小幅調整，這反映出相對食品價格正迴歸常態，且利率走勢較此前預期的水平更高。"
-    },
-    {
-      "id": "4955057",
-      "time": "2026-06-25 19:06:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞翔整合：股價異常波動 提示多項投資風險】亞翔整合公告稱，公司股票於2026年6月23日至25日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司及控股股東、實控人均無應披露未披露重大資訊。2025年公司營收49.06億元，同比降8.81%。截至6月25日收盤，公司股價255.07元，市淨率21.55倍，顯著高於行業平均。股價短期漲幅大，可能存在市場情緒過熱、非理性炒作風險，提醒投資者注意。"
-    },
-    {
-      "id": "te:markets:561857",
-      "time": "2026-06-25 19:06:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Advances for 2nd Day — India’s BSE Sensex pared early gains to close marginally up at 77,100.5 on Thursday, its second straight session of advances, as investors reduced positions in late trade ahead of a long weekend. Market sentiment continued to be supported by the ongoing pullback in crude oil prices amid signs of progress in US-Iran talks and improved traffic in the key Strait of Hormuz. Buying activity was concentrated in banking and automobile stocks, contrasting with weakness in the IT sector and metals. In equities, IndiGo rallied 4.6%, Mahindra & Mahindra gained 4.2% and Maruti added 3.8%, ranking among the top gainers. Banks continued to benefit from the RBI’s decision to allow loans against foreign currency deposits. State Bank of India and ICICI Bank gained 1% each, Kotak Mahindra Bank rose 0.7% and HDFC Bank added 0.4%. On the flip side, Power Grid (-2.4%), BEL (-1.7%), Tech Mahindra (-1.7%), Infosys (-1.4%) and Bharti Airtel (-1.4%) posted the biggest losses."
     }
   ]
 }
