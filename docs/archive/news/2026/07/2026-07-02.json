@@ -1,7 +1,226 @@
 {
   "date": "2026-07-02",
-  "count": 1668,
+  "count": 1692,
   "items": [
+    {
+      "id": "4966944",
+      "time": "2026-07-02 16:12:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康龍化成：持股5%以上股東6月16日至7月1日合計減持1780萬股】康龍化成公告稱，公司持股5%以上股東信中康成及其一致行動人信中龍成因自身資金需求，於2026年6月16日至7月1日期間合計減持公司1780萬股股份，佔總股本的0.97%。本次減持後，二者合計持股比例降至10.99%。本次減持是按已披露計劃進行，不會對公司治理結構及持續性經營產生重大影響，也不會導致公司控制權變更，且減持計劃尚未實施完畢。"
+    },
+    {
+      "id": "4966943",
+      "time": "2026-07-02 16:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰景科技：擬3500萬元設立全資子公司佈局AR業務】騰景科技公告稱，公司於2026年7月2日召開董事會會議，審議透過以自有或自籌資金3500萬元設立全資子公司騰景視覺技術（崑山）有限公司。該子公司將在南京、福州設分公司，承接公司南京分公司全部權益與義務及部分AR消費類光學資產、業務、人員，形成協同運營模式。本次投資不涉及關聯交易和重大資產重組，但存在政策、操作及運營等風險。"
+    },
+    {
+      "id": "4966942",
+      "time": "2026-07-02 16:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元利科技：目前沒有高純硫化鋰產品的生產及專案建設規劃】元利科技(603217)7月2日在互動平臺表示，公司目前沒有高純硫化鋰產品的生產及專案建設規劃；公司依託現有的聚碳酸酯二元醇高分子聚合物中間體，開發了適配新能源領域固態電池負極粘結劑聚合物產品，固態電池技術理論上可應用於儲能領域，但公司相關材料仍處於研發適配階段，暫未實際應用於儲能電池或儲能電站等商業化專案。"
+    },
+    {
+      "id": "4966941",
+      "time": "2026-07-02 16:10:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：同意深化與莫迪的戰略關係。"
+    },
+    {
+      "id": "4966940",
+      "time": "2026-07-02 16:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福耀玻璃：2026年6月法定/註冊股本及已發行股份無變動】福耀玻璃公告稱，截至2026年6月30日，公司法定/註冊股本總額為26.10億元，較上月無變動。其中，H股法定/註冊股份6.07億股，A股法定/註冊股份20.03億股。已發行股份方面，H股已發行6.07億股，A股已發行20.03億股，均與上月持平。公司確認，截至本月底H股已符合適用的公眾持股量要求。"
+    },
+    {
+      "id": "4966939",
+      "time": "2026-07-02 16:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【財政部發布2026年度會計師事務所執業質量檢查名單】依照《中華人民共和國註冊會計師法》等規定，根據2026年度會計師事務所執業質量檢查工作計劃，財政部確定40家會計師事務所執業質量檢查名單，現予釋出。"
+    },
+    {
+      "id": "te:economy:563722",
+      "time": "2026-07-02 16:10:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Thailand Business Mood Improves in June — Thailand’s Business Sentiment Index rose to 46.1 in June 2026 from 42.5 in May, marking its least pessimistic reading in three months. The improvement was driven by the easing of the Middle East conflict, lower energy prices, and the government's \"Thais Help Thais Plus\" scheme, which temporarily boosted domestic purchasing power. Sentiment strengthened across production (51.9 vs 44.0 in May), business performance (49.3 vs 43.7), and total order books (48.1 vs 43.6). Manufacturing confidence improved across all industries, led by the automotive sector, while the chemical industry benefited from lower energy costs and alternative raw material sourcing. Non-manufacturing sentiment also strengthened, mainly in retail and wholesale trade. Meanwhile, the three-month expected Business Sentiment Index increased to 48.0 from 46.9. Cost pressures eased markedly as lower energy prices reduced production costs, while 12-month inflation expectations were unchanged at 2.7%."
+    },
+    {
+      "id": "4966938",
+      "time": "2026-07-02 16:10:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞“外長”在特朗普就對抗真主黨發表言論後訪問貝魯特。"
+    },
+    {
+      "id": "te:markets:563721",
+      "time": "2026-07-02 16:10:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Falls by 2.97% — Top commodity losers are Rubber (-2.97%) and Palm Oil (-0.88%). Gains are led by Oat (0.56%)."
+    },
+    {
+      "id": "4966937",
+      "time": "2026-07-02 16:09:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科學家發現水稻高溫“自我急救”策略】高溫來襲時植物細胞如何迅速阻止細胞膜失穩，是困擾科學界的難題。我國科學家最新研究發現了水稻高溫下快速維持細胞膜穩定性的新機制，並挖掘到一個有助於水稻高溫下穩產的稀有單倍型，為耐熱水稻育種提供了新的基因資源。相關研究成果於北京時間7月1日晚在國際學術期刊《自然》線上發表。（新華社）"
+    },
+    {
+      "id": "4966936",
+      "time": "2026-07-02 16:09:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航發科技：獨立董事毛中根因工作調整申請辭職】航發科技公告稱，公司董事會近日收到獨立董事毛中根的書面辭職報告。毛中根因工作調整，申請辭去獨立董事及董事會薪酬與考核委員會主任委員、審計委員會委員職務，離任後不再擔任公司任何職務。辭職將在股東大會選舉產生新任獨立董事後生效，此前仍履行職責。公司將盡快完成補選等後續工作。截至公告披露日，毛中根未持股，無未履行完畢的公開承諾。"
+    },
+    {
+      "id": "4966935",
+      "time": "2026-07-02 16:09:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國電信：2026年6月H股及A股法定/已發行股份數均無變動】中國電信公告稱，截至2026年6月30日，公司H股法定/註冊股份數目為138.77億股，已發行股份（不包括庫存股份）數目為138.77億股，均與上月底結存相同；A股法定/註冊股份數目為776.30億股，已發行股份（不包括庫存股份）數目為776.30億股，也與上月底結存一致。本月底法定/註冊股本總額為915.07億元。此外，H股已符合適用的公眾持股量要求。"
+    },
+    {
+      "id": "mkt:019f21df-e67f-7aab-8c71-7bf0a1215b79",
+      "time": "2026-07-02 16:09:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "03986.HK",
+        "Impact bearish",
+        "00981.HK"
+      ],
+      "text": "Hong Kong stocks closed with the Hang Seng Index up 0.76% and the Hang Seng Tech Index down 0.40%. Semiconductor names tumbled: GigaDevice (03986.HK) fell 18.39% and SMIC (00981.HK) slid 10.07%."
+    },
+    {
+      "id": "4966934",
+      "time": "2026-07-02 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.760%，恒生科技指數跌0.401%】石藥集團漲8.178%，比亞迪股份漲8.005%，信達生物漲7.035%，翰森製藥漲6.820%，MINIMAX-W跌13.477%，華虹宏力跌13.987%，智譜跌16.112%。"
+    },
+    {
+      "id": "4966933",
+      "time": "2026-07-02 16:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曝小紅書被前高管實名舉報，投訴其上市合規性】小紅書疑遭前高管實名舉報，舉報人稱小紅書VIE架構披露前後矛盾，還存在大規模勞工賠償潛在風險，此前有訊息傳出小紅書計劃6月底衝刺IPO。自稱原小紅書商業化華南直銷負責人陳浩的網友釋出文章表示，自己已向港交所上市部、香港證監會實名提交針對小紅書主體上市合規的投訴，同時附上判決書、期權訴訟卷宗、離職證明、批次受害員工佐證等全套材料。截至發稿，小紅書暫未對此事作出回應。"
+    },
+    {
+      "id": "mkt:019f21df-4cf7-7aab-8c71-70aa245ac163",
+      "time": "2026-07-02 16:08:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "603986.SS",
+        "Impact bearish",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【A-share storage-chip stocks slump; GigaDevice hits daily limit, says operations normal】July 2 — A-share storage-chip concept stocks fell broadly, with sector leader GigaDevice hitting the daily limit down. The company told callers to its investor hotline that production and operations are normal and that it is in the interim results disclosure window, declining to provide further details. Separately, media report Meta is planning a cloud infrastructure business to sell AI compute and model-access to external customers."
+    },
+    {
+      "id": "4966932",
+      "time": "2026-07-02 16:08:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念股集體下挫 兆易創新回應】7月2日，A股儲存晶片概念股集體下挫，龍頭企業兆易創新跌停。媒體撥打兆易創新投資者熱線，對方工作人員回覆：“公司目前生產經營一切正常，正值半年報披露視窗期，其他情況不便透露。”訊息層面上，Meta正制定計劃，擬推出雲基礎設施業務，向外部客戶出售AI算力和模型訪問許可權。（第一財經）"
+    },
+    {
+      "id": "4966931",
+      "time": "2026-07-02 16:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓大使館緊急提醒在菲中國公民進一步提高安全防範】近日，菲律賓馬尼拉博尼法西奧廣場、EDSA大道沿線等地區舉行大規模遊行示威，交通嚴重受阻，區域性地區出現衝突。中國駐菲律賓使領館特此提醒在菲同胞務必迴避示威現場，切勿圍觀。進一步提高安全防範意識，外出時做好交通規劃，留意集會引發的交通管制，並隨身攜帶有效證件，確保人身安全。"
+    },
+    {
+      "id": "4966930",
+      "time": "2026-07-02 16:07:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新疆鐵路暑運預計傳送旅客1270萬人次】記者從中國鐵路烏魯木齊局集團有限公司獲悉，2026年暑運已於7月1日啟動，新疆鐵路部門預計傳送旅客1270萬人次，日均傳送旅客20.5萬人次，較2025年暑運增運24萬人次、增幅1.9%。（新華社）"
+    },
+    {
+      "id": "mkt:019f21de-60c8-7aab-8c71-6f219cded0e4",
+      "time": "2026-07-02 16:07:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German federal prosecutors confirmed they have filed charges against a Ukrainian in connection with the Nord Stream pipeline explosions."
+    },
+    {
+      "id": "4966929",
+      "time": "2026-07-02 16:06:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前普跌，百度跌4%】美股中概股盤前普跌，嗶哩嗶哩、攜程、阿里巴巴跌1%，拼多多、理想汽車、網易跌2%，蔚來跌3%，百度跌4%。"
+    },
+    {
+      "id": "4966928",
+      "time": "2026-07-02 16:06:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數下跌，蘋果漲0.8%】美股大型科技股盤前多數下跌，蘋果漲0.8%，亞馬遜漲0.5%，微軟漲0.3%，特斯拉跌0.3%，SpaceX跌0.5%，Meta跌0.6%，英偉達、谷歌A跌0.8%。"
+    },
+    {
+      "id": "4966927",
+      "time": "2026-07-02 16:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國聯邦檢察官在一份宣告中確認，他們已就北溪管道爆炸事件對一名烏克蘭人提起公訴。"
+    },
+    {
+      "id": "4966926",
+      "time": "2026-07-02 16:06:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾：很高興地宣佈，奈及利亞正式加入國際能源署。"
+    },
     {
       "id": "mkt:019f21dc-cc5b-7aab-8c71-6413766da414",
       "time": "2026-07-02 16:05:46",
