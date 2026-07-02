@@ -1,7 +1,232 @@
 {
   "date": "2026-07-02",
-  "count": 2811,
+  "count": 2834,
   "items": [
+    {
+      "id": "mkt:019f2308-139d-7aab-8c7c-58b61dffbb6c",
+      "time": "2026-07-02 21:32:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Blue Owl Capital shares rose 7.1%, the largest intraday gain since June 4."
+    },
+    {
+      "id": "4967819",
+      "time": "2026-07-02 21:32:11",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國電動汽車公司Rivian上漲4.8%，公司此前上調2026年交付預期。"
+    },
+    {
+      "id": "mkt:019f2307-9272-7aab-8c7c-53b87132ba6d",
+      "time": "2026-07-02 21:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukrainian and US negotiators spoke on Wednesday."
+    },
+    {
+      "id": "mkt:019f2307-5e70-7aab-8c7c-49dde006c805",
+      "time": "2026-07-02 21:31:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "RIVIAN (RIVN.O) shares rose 4.8% after the company earlier raised its 2026 delivery guidance."
+    },
+    {
+      "id": "4967818",
+      "time": "2026-07-02 21:31:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美元樹股價上漲2%，此前公司宣佈25億美元的股票回購計劃。"
+    },
+    {
+      "id": "4967817",
+      "time": "2026-07-02 21:31:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲戴利強調不改變雙重使命目標 但願以新方法評估經濟】美聯儲戴利表示，通脹應會開始放緩，但經濟前景存在很大的不確定性。戴利週四在西班牙桑坦德舉行的西班牙央行活動上說：“我們繼續將政策維持在略微限制性的水平，因此通脹應該會下降。”戴利表示，在美國對伊朗開戰後，今年春季關稅和油價上漲推高了通脹。她對美伊達成停火協議後油價飆升勢頭回落表示讚賞，稱這帶來了“緩解的希望”，但警告稱，目前尚不清楚經濟將如何演變。她概述了可能需要美聯儲做出不同回應的多種情景，並表示美聯儲可能需要對持續通脹做出更積極的應對。戴利還指出，她對採用不同且新穎的方法來評估經濟持開放態度，但對於美聯儲的公信力而言，重要的是不能改變其促進充分就業和穩定物價這兩個使命的目標。"
+    },
+    {
+      "id": "mkt:019f2307-2af7-7aab-8c7c-4115d8d83757",
+      "time": "2026-07-02 21:31:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【DALY says Fed will not change dual-mandate goals, open to new methods to assess economy】DALY said inf should begin to slow but the economic outlook is highly uncertain. The Fed is maintaining a modestly restrictive stance, which she said should help reduce inf. She said spring tariffs and oil-price increases after U.S.-Iran hostilities pushed up inf, welcomed the retreat in oil-driven pressure after a ceasefire, but warned it’s unclear how the economy will evolve. DALY outlined scenarios that could require different Fed responses and said the Fed may need to act more forcefully if inf remains persistent, while stressing the Fed must not change its dual mandate of maximum employment and price stability."
+    },
+    {
+      "id": "4967816",
+      "time": "2026-07-02 21:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "Bending Spoons股價在納斯達克上市次日下跌3%。"
+    },
+    {
+      "id": "mkt:019f2307-04d0-7aab-8c7c-3839a216b856",
+      "time": "2026-07-02 21:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Thursday, July 2, the Dow Jones Industrial Average rose 267.70 points (0.51%) to 52,572.94; the S&P 500 gained 24.61 points (0.33%) to 7,507.84; the Nasdaq Composite was up 47.62 points (0.18%) at 26,087.65."
+    },
+    {
+      "id": "te:markets:563804",
+      "time": "2026-07-02 21:31:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Stock Price Hits 4-week Low — Enbridge shares decreased to 75.80 CAD, the lowest since June 2026. Over the past 4 weeks, Enbridge lost 2.15%, and in the last 12 months, it increased 24.63%."
+    },
+    {
+      "id": "mkt:019f2306-e2be-7aab-8c7c-34cf9fdd4f70",
+      "time": "2026-07-02 21:31:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "TSLA.O"
+      ],
+      "text": "【US June nonfarm payrolls miss; major US indices open higher】US June nonfarm payrolls were weak, easing Fed rate-hike expectations. At the open, Dow +0.6%, S&P 500 +0.3%, Nasdaq +0.1%. Intel (INTC) -0.9%, Micron (MU) -0.3%. Tesla (TSLA) +0.4% after releasing Q2 delivery data. Alphabet (GOOGL) -0.2% after EU court upheld a €4.1 bln antitrust fine. Meta Platforms (META) -1.4% after rallying >8% yesterday."
+    },
+    {
+      "id": "4967815",
+      "time": "2026-07-02 21:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：國際貨幣基金組織也將上調對巴西經濟潛在增長的預測。"
+    },
+    {
+      "id": "4967814",
+      "time": "2026-07-02 21:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯工業平均指數開盤後上漲281.70點，漲幅0.54%，報52586.94點。"
+    },
+    {
+      "id": "4967813",
+      "time": "2026-07-02 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.53%，標普500指數漲0.23%，納指漲0.09%。Strategy漲5.96%，羅賓漢漲5.20%，Coinbase Global漲4.62%，耐克漲3.46%，Palantir Technologies漲3.45%。“七姐妹”方面：蘋果漲0.69%，亞馬遜漲0.61%，特斯拉漲0.55%，微軟漲0.25%，英偉達漲0.05%，谷歌跌0.36%，Meta Platforms跌1.48%。"
+    },
+    {
+      "id": "4967812",
+      "time": "2026-07-02 21:30:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLUE OWL CAPITAL 股價一度上漲 7.1%，創 6 月 4 日以來最大漲幅。"
+    },
+    {
+      "id": "4967811",
+      "time": "2026-07-02 21:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海軍事活動】據中國海事局網站訊息，秦皇島海事局釋出航行警告，7月3日0時至15時30分，渤海部分海域開展軍事活動，禁止駛入。"
+    },
+    {
+      "id": "mkt:019f2306-3834-7aab-8c7c-2bb462e7065b",
+      "time": "2026-07-02 21:30:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qinhuangdao MSA warns of military activity in parts of Bohai Sea on July 3】According to the China Maritime Safety Administration website, the Qinhuangdao Maritime Safety Administration issued a navigational warning that parts of the Bohai Sea will conduct military activities and navigation will be prohibited from July 3 00:00 to 15:30."
+    },
+    {
+      "id": "4967810",
+      "time": "2026-07-02 21:30:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股指.GSPTSE開盤上漲117.77點，漲幅0.34%，報34974.76點。"
+    },
+    {
+      "id": "4967809",
+      "time": "2026-07-02 21:30:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大6月RBC製造業PMI 53，前值 52.9。"
+    },
+    {
+      "id": "mkt:019f2305-c87c-7aab-8c7c-205ded733c7e",
+      "time": "2026-07-02 21:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June S&P Global manufacturing PMI 53.0, prior 52.9."
+    },
+    {
+      "id": "mkt:019f2305-a4ed-7aab-8c7c-1dcaac0870cb",
+      "time": "2026-07-02 21:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | RBC Manufacturing PMI (Jun) | actual 53 | previous 52.9"
+    },
+    {
+      "id": "4967807",
+      "time": "2026-07-02 21:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織宣佈與郵輪相關的漢坦病毒疫情結束】當地時間2日，世衛組織總幹事譚德塞宣佈，與遊輪有關的漢坦病毒疫情已結束，最後一名接觸者完成了隔離且病毒檢測結果呈陰性。此次疫情共導致13人感染、3人死亡。（央視新聞）"
+    },
+    {
+      "id": "4967806",
+      "time": "2026-07-02 21:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭與美國談判人員週三舉行了會談。"
+    },
     {
       "id": "4967805",
       "time": "2026-07-02 21:28:25",
