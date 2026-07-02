@@ -1,7 +1,69 @@
 {
   "date": "2026-07-02",
-  "count": 823,
+  "count": 829,
   "items": [
+    {
+      "id": "4966322",
+      "time": "2026-07-02 09:55:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工板塊逆市走強 和遠氣體2連板】氟化工板塊逆市走強，和遠氣體2連板，天域生物、濱化股份、聯化科技漲停，永太科技、金石資源、聯創股份、中船特氣、昊華科技跟漲。"
+    },
+    {
+      "id": "mkt:019f2089-95a7-7aab-8c69-e9562c2e5f31",
+      "time": "2026-07-02 09:55:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09660.HK",
+        "Impact bullish",
+        "01211.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Tech Index up more than 2%; Horizon Robotics (09660.HK) and BYD Co. (01211.HK) lead gains. Hang Seng Index currently up 1.6%."
+    },
+    {
+      "id": "4966321",
+      "time": "2026-07-02 09:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《智慧網聯汽車 組合駕駛輔助系統安全要求》強制性國家標準正式釋出】據工信部訊息，2026年6月27日，工業和資訊化部組織制定並歸口的《智慧網聯汽車 組合駕駛輔助系統安全要求》（GB 47955—2026）強制性國家標準由國家市場監督管理總局、國家標準化管理委員會批准釋出，擬於2027年1月1日起正式實施。《智慧網聯汽車 組合駕駛輔助系統安全要求》的釋出和實施，為組合駕駛輔助系統明確統一的安全規範，對提升智慧網聯汽車安全水平、保障產業健康可持續發展具有重要意義。下一步，工業和資訊化部將加快釋出實施自動駕駛系統等其他強制性國家標準，推動構建完善的智慧網聯汽車標準測試和監管體系，加速自動駕駛技術產業化程序，引領我國智慧網聯汽車產業高質量發展。"
+    },
+    {
+      "id": "4966320",
+      "time": "2026-07-02 09:54:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4561.820點；恒生指數現漲1.604%。"
+    },
+    {
+      "id": "te:markets:563597",
+      "time": "2026-07-02 09:52:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Slide on Broad Tech Selloff — The Shanghai Composite slipped 1.4% to 4,054 on Thursday, snapping a three-day winning streak, while the Shenzhen Component tumbled 2.7% to 15,678, extending losses from the previous session. Both benchmarks were pressured by a broad selloff in technology stocks as investors reassessed the sustainability of the recent AI-driven rally amid concerns that valuations had risen too quickly. Sentiment was also weighed down by reports that Apple is in talks to source memory chips from Chinese manufacturers ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies Co. (YMTC), a move that could attract scrutiny from US policymakers amid heightened tensions between Washington and Beijing over advanced technology. Among the worst-performing technology stocks were Cambricon Technologies (-6.9%), SMIC (-2.7%), Hygon Information Technology (-5.5%), Zhongji Innolight (-3.7%), Eoptolink Technology (-5.2%), and Victory Giant Technology (-5.7%)."
+    },
+    {
+      "id": "4966319",
+      "time": "2026-07-02 09:51:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【陽光電源：歐盟個別銀行對使用中國逆變器專案的融資限制影響有限 公司參與此類專案較少】陽光電源7月1日在電話交流上表示，公司關注到近期市場傳聞及歐美市場關切，給大家做簡單的近況交流。今年全球儲能市場規模預計大幅增加，特別是歐洲市場超預期。公司近期參加了歐洲Intersolar展和中國SNEC展，客戶對公司非常認可，訂單比較飽滿，公司會努力做好研發、生產和交付工作。關於歐盟融資限制問題，歐盟個別銀行對使用中國逆變器專案的融資限制影響有限，該部分專案佔歐洲市場大約20%，且公司參與此類專案較少。"
+    },
     {
       "id": "4966318",
       "time": "2026-07-02 09:51:40",

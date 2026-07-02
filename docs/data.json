@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-02 09:52:13",
-  "count": 14026,
+  "updated": "2026-07-02 09:56:02",
+  "count": 14024,
   "items": [
+    {
+      "id": "4966322",
+      "time": "2026-07-02 09:55:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工板塊逆市走強 和遠氣體2連板】氟化工板塊逆市走強，和遠氣體2連板，天域生物、濱化股份、聯化科技漲停，永太科技、金石資源、聯創股份、中船特氣、昊華科技跟漲。"
+    },
+    {
+      "id": "mkt:019f2089-95a7-7aab-8c69-e9562c2e5f31",
+      "time": "2026-07-02 09:55:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09660.HK",
+        "Impact bullish",
+        "01211.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Tech Index up more than 2%; Horizon Robotics (09660.HK) and BYD Co. (01211.HK) lead gains. Hang Seng Index currently up 1.6%."
+    },
+    {
+      "id": "4966321",
+      "time": "2026-07-02 09:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《智慧網聯汽車 組合駕駛輔助系統安全要求》強制性國家標準正式釋出】據工信部訊息，2026年6月27日，工業和資訊化部組織制定並歸口的《智慧網聯汽車 組合駕駛輔助系統安全要求》（GB 47955—2026）強制性國家標準由國家市場監督管理總局、國家標準化管理委員會批准釋出，擬於2027年1月1日起正式實施。《智慧網聯汽車 組合駕駛輔助系統安全要求》的釋出和實施，為組合駕駛輔助系統明確統一的安全規範，對提升智慧網聯汽車安全水平、保障產業健康可持續發展具有重要意義。下一步，工業和資訊化部將加快釋出實施自動駕駛系統等其他強制性國家標準，推動構建完善的智慧網聯汽車標準測試和監管體系，加速自動駕駛技術產業化程序，引領我國智慧網聯汽車產業高質量發展。"
+    },
+    {
+      "id": "4966320",
+      "time": "2026-07-02 09:54:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4561.820點；恒生指數現漲1.604%。"
+    },
+    {
+      "id": "te:markets:563597",
+      "time": "2026-07-02 09:52:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Slide on Broad Tech Selloff — The Shanghai Composite slipped 1.4% to 4,054 on Thursday, snapping a three-day winning streak, while the Shenzhen Component tumbled 2.7% to 15,678, extending losses from the previous session. Both benchmarks were pressured by a broad selloff in technology stocks as investors reassessed the sustainability of the recent AI-driven rally amid concerns that valuations had risen too quickly. Sentiment was also weighed down by reports that Apple is in talks to source memory chips from Chinese manufacturers ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies Co. (YMTC), a move that could attract scrutiny from US policymakers amid heightened tensions between Washington and Beijing over advanced technology. Among the worst-performing technology stocks were Cambricon Technologies (-6.9%), SMIC (-2.7%), Hygon Information Technology (-5.5%), Zhongji Innolight (-3.7%), Eoptolink Technology (-5.2%), and Victory Giant Technology (-5.7%)."
+    },
+    {
+      "id": "4966319",
+      "time": "2026-07-02 09:51:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【陽光電源：歐盟個別銀行對使用中國逆變器專案的融資限制影響有限 公司參與此類專案較少】陽光電源7月1日在電話交流上表示，公司關注到近期市場傳聞及歐美市場關切，給大家做簡單的近況交流。今年全球儲能市場規模預計大幅增加，特別是歐洲市場超預期。公司近期參加了歐洲Intersolar展和中國SNEC展，客戶對公司非常認可，訂單比較飽滿，公司會努力做好研發、生產和交付工作。關於歐盟融資限制問題，歐盟個別銀行對使用中國逆變器專案的融資限制影響有限，該部分專案佔歐洲市場大約20%，且公司參與此類專案較少。"
+    },
     {
       "id": "4966318",
       "time": "2026-07-02 09:51:40",
@@ -129172,74 +129234,6 @@
         "國際"
       ],
       "text": "10年期日本國債收益率下跌4.0個基點至2.625%。"
-    },
-    {
-      "id": "4953902",
-      "time": "2026-06-25 09:55:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股保險股集體下跌，眾安線上等多股跌超3%】港股保險股集體下跌，眾安線上、中國太平、中國財險、中國平安跌超3%，友邦保險、中國人壽跌超2%。"
-    },
-    {
-      "id": "4953901",
-      "time": "2026-06-25 09:55:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三環集團：警惕偽造授權與假冒MLCC產品】三環集團6月24日晚就MLCC產品釋出宣告稱，近期發現市場上存在偽造公司授權檔案、冒充公司授權代理商以及銷售假冒公司MLCC（多層片式陶瓷電容器）產品等情況。三環集團表示，公司從未授權任何代理商向下遊客戶（包括但不限於貿易商、分銷商及終端客戶）授予任何形式的二級授權或分銷代理資格。公司授權證書均採用統一模板。公司MLCC產品標籤均為原廠封裝。"
-    },
-    {
-      "id": "4953900",
-      "time": "2026-06-25 09:55:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉最大機場因地震受損關閉】委內瑞拉代總統羅德里格斯當地時間6月24日晚表示，因接連強震造成的破壞，首都加拉加斯附近的全國最大機場——邁克蒂亞西蒙·玻利瓦爾國際機場關閉。（CCTV國際時訊）"
-    },
-    {
-      "id": "4953899",
-      "time": "2026-06-25 09:54:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊方說船隻透過霍爾木茲海峽須與伊革命衛隊協調】伊朗伊斯蘭革命衛隊海軍25日在社交媒體上發表宣告說，船隻透過霍爾木茲海峽必須與革命衛隊海軍協調，違規船舶“將受到處置”。宣告說，數小時前，某些機構在未與伊朗協調的情況下，宣佈了船舶透過霍爾木茲海峽的新航線，所謂新航線不可接受且極其危險。宣告還說，革命衛隊海軍警告，透過霍爾木茲海峽僅可經由伊朗所公佈的航線，禁止任何船舶在這些航線以外航行，在這些航線以外航行極其危險。（新華社）"
-    },
-    {
-      "id": "mkt:019efc7c-b700-7dd8-b109-e0d2925a84a6",
-      "time": "2026-06-25 09:54:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says vessels transiting Strait of Hormuz must coordinate with IRGC navy】Iran’s Islamic Revolutionary Guard Corps (IRGC) navy said on social media on the 25th that vessels transiting the Strait of Hormuz must coordinate with the IRGC navy and that non‑compliant ships “will be dealt with.” It said some agencies hours earlier had announced new transit routes without Iranian coordination, calling those routes unacceptable and extremely dangerous. The IRGC navy warned transit is permitted only via Iran‑published routes and that navigation outside those routes is prohibited and extremely dangerous."
-    },
-    {
-      "id": "4953898",
-      "time": "2026-06-25 09:54:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先正達集團中國與麥當勞中國、麥肯食品中國簽署三方合作備忘錄】6月24日，第四屆鏈博會期間，先正達集團中國與麥當勞中國、麥肯食品中國，正式簽署三方合作備忘錄，共同推進馬鈴薯試點合作專案。"
-    },
-    {
-      "id": "4953897",
-      "time": "2026-06-25 09:53:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念反覆活躍 光電股份等多股漲停】光纖概念反覆活躍，上游原材料方向領漲，光電股份漲停，此前泰和新材14天7板，宏柏新材2連板，金信諾、中天科技、永鼎股份、唯科科技漲幅靠前。"
-    },
-    {
-      "id": "mkt:019efc7b-a759-7dd8-b109-dad9908b011a",
-      "time": "2026-06-25 09:53:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Where to park spare cash: retail money-market yield tracker】Tencent Licaitong on-demand + 7-day annualized yield ranged 0.6640%–1.4590%. WeChat Lingqiantong 7-day annualized yield ranged 1.0020%–1.0270%. Alipay Yu'ebao 7-day annualized yield ranged 1.0000%–1.0990%."
     }
   ]
 }
