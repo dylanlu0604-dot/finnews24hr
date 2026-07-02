@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-03 01:57:32",
-  "count": 13897,
+  "updated": "2026-07-03 02:01:26",
+  "count": 13905,
   "items": [
+    {
+      "id": "4968192",
+      "time": "2026-07-03 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：批准比利時5.67億歐元第四筆資金撥付申請。"
+    },
+    {
+      "id": "4968191",
+      "time": "2026-07-03 02:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：批准葡萄牙23.2億歐元第九筆資金撥付申請。"
+    },
+    {
+      "id": "4968190",
+      "time": "2026-07-03 01:59:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 主張上調倉儲物業的商業房產稅。"
+    },
+    {
+      "id": "mkt:019f23fc-a7f8-7aab-8c82-6afd08effc70",
+      "time": "2026-07-03 01:59:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK prime minister candidate Burnham said he is highly disciplined on public finances."
+    },
+    {
+      "id": "4968189",
+      "time": "2026-07-03 01:59:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部、國稅局接受以股票形式向特朗普相關賬戶出資。"
+    },
+    {
+      "id": "mkt:019f23fc-11e6-7aab-8c82-60f37723f196",
+      "time": "2026-07-03 01:59:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime ministerial candidate Burnham said he wants to end trickle-down economics."
+    },
+    {
+      "id": "mkt:019f23fb-9f88-7aab-8c82-5b15829ad065",
+      "time": "2026-07-03 01:58:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he has decided to engage in politics in a new way."
+    },
+    {
+      "id": "4968188",
+      "time": "2026-07-03 01:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：在公共財政問題上，我並非我行我素不受約束。"
+    },
+    {
+      "id": "mkt:019f23fb-5248-7aab-8c82-5301d9d5cc37",
+      "time": "2026-07-03 01:58:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham says he will uphold the Labour Party's tax pledge."
+    },
+    {
+      "id": "4968187",
+      "time": "2026-07-03 01:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 我將恪守工黨競選宣言中的稅收相關政策。"
+    },
+    {
+      "id": "4968186",
+      "time": "2026-07-03 01:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟部分批准西班牙總額 57 億歐元的第六筆復甦資金撥付申請。"
+    },
+    {
+      "id": "4968185",
+      "time": "2026-07-03 01:57:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "聯合太平洋鐵路公司：已與美國海關與邊境保護局（CBP）領導層確認，新型鐵路車廂的進口流程不會作出調整，客戶無需採取任何行動。"
+    },
+    {
+      "id": "4968184",
+      "time": "2026-07-03 01:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：我將採取全新的施政從政路線。"
+    },
+    {
+      "id": "4968183",
+      "time": "2026-07-03 01:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 我主張終結涓滴經濟學。"
+    },
     {
       "id": "mkt:019f23f9-3c63-7aab-8c82-4daca7075b17",
       "time": "2026-07-03 01:56:04",
@@ -128024,59 +128144,6 @@
         "國際"
       ],
       "text": "【伊朗襲擊貨輪，考驗特朗普重啟海峽通航的相關協議】兩名美國高階官員透露，伊朗伊斯蘭革命衛隊於週四在霍爾木茲海峽襲擊了一艘新加坡籍貨輪，此舉令美伊上週簽署的停火、恢復這條關鍵航運要道通航協議面臨考驗。英國海上貿易行動辦公室表示，此次襲擊造成船舶駕駛臺受損，但未出現人員傷亡。事發地點位於阿曼海岸附近，數小時前，這支伊朗準軍事海上力量剛剛警告船隻不得走該國未認可的海峽航道。白宮暫未回應媒體關於此次襲擊及其對協議影響的置評請求。船舶追蹤平臺 Marine Traffic 資訊顯示，遭襲貨輪 “Ever Lovely” 此前在伊拉克烏姆卡斯爾港裝載貨物，目的地為新加坡。金融資料服務商倫敦證券交易所集團（LSEG）資料顯示，“Ever Lovely” 已在波斯灣滯留超 100 天。當地時間週四清晨，該船駛向海峽入海口，另有三艘船舶也幾乎在同一時段嘗試過境。"
-    },
-    {
-      "id": "4955718",
-      "time": "2026-06-26 02:01:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：美歐軍工企業已擴大產能以增加供應，但仍需加大投入."
-    },
-    {
-      "id": "4955717",
-      "time": "2026-06-26 02:00:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報75.35美元/桶。"
-    },
-    {
-      "id": "mkt:019efff1-14e3-7dd8-b123-197059bf3df8",
-      "time": "2026-06-26 02:00:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The Wall Street Journal reported two senior U.S. officials said the Islamic Revolutionary Guard Corps attacked a cargo ship in the Strait of Hormuz on Thursday, testing last week’s U.S.-Iran agreement aimed at ending hostilities and reopening the strategic waterway."
-    },
-    {
-      "id": "4955716",
-      "time": "2026-06-26 01:59:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員訊息：伊朗在霍爾木茲海峽襲擊一艘船隻。"
-    },
-    {
-      "id": "4955715",
-      "time": "2026-06-26 01:59:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：委內瑞拉計劃從其所持在國際貨幣基金組織的45億美元特別提款權中，先行提取2億美元，用於地震災後重建。"
-    },
-    {
-      "id": "mkt:019effee-d4ec-7dd8-b123-1776b075d0c7",
-      "time": "2026-06-26 01:58:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Venezuela will use its funds at the International Monetary Fund for post-earthquake reconstruction."
     }
   ]
 }

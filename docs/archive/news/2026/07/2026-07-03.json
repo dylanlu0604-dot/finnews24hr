@@ -1,7 +1,127 @@
 {
   "date": "2026-07-03",
-  "count": 165,
+  "count": 179,
   "items": [
+    {
+      "id": "4968192",
+      "time": "2026-07-03 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：批准比利時5.67億歐元第四筆資金撥付申請。"
+    },
+    {
+      "id": "4968191",
+      "time": "2026-07-03 02:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：批准葡萄牙23.2億歐元第九筆資金撥付申請。"
+    },
+    {
+      "id": "mkt:019f23fc-a7f8-7aab-8c82-6afd08effc70",
+      "time": "2026-07-03 01:59:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK prime minister candidate Burnham said he is highly disciplined on public finances."
+    },
+    {
+      "id": "4968190",
+      "time": "2026-07-03 01:59:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 主張上調倉儲物業的商業房產稅。"
+    },
+    {
+      "id": "4968189",
+      "time": "2026-07-03 01:59:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部、國稅局接受以股票形式向特朗普相關賬戶出資。"
+    },
+    {
+      "id": "mkt:019f23fc-11e6-7aab-8c82-60f37723f196",
+      "time": "2026-07-03 01:59:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime ministerial candidate Burnham said he wants to end trickle-down economics."
+    },
+    {
+      "id": "mkt:019f23fb-9f88-7aab-8c82-5b15829ad065",
+      "time": "2026-07-03 01:58:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he has decided to engage in politics in a new way."
+    },
+    {
+      "id": "4968188",
+      "time": "2026-07-03 01:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：在公共財政問題上，我並非我行我素不受約束。"
+    },
+    {
+      "id": "mkt:019f23fb-5248-7aab-8c82-5301d9d5cc37",
+      "time": "2026-07-03 01:58:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham says he will uphold the Labour Party's tax pledge."
+    },
+    {
+      "id": "4968187",
+      "time": "2026-07-03 01:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 我將恪守工黨競選宣言中的稅收相關政策。"
+    },
+    {
+      "id": "4968186",
+      "time": "2026-07-03 01:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟部分批准西班牙總額 57 億歐元的第六筆復甦資金撥付申請。"
+    },
+    {
+      "id": "4968185",
+      "time": "2026-07-03 01:57:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "聯合太平洋鐵路公司：已與美國海關與邊境保護局（CBP）領導層確認，新型鐵路車廂的進口流程不會作出調整，客戶無需採取任何行動。"
+    },
+    {
+      "id": "4968184",
+      "time": "2026-07-03 01:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆：我將採取全新的施政從政路線。"
+    },
+    {
+      "id": "4968183",
+      "time": "2026-07-03 01:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 我主張終結涓滴經濟學。"
+    },
     {
       "id": "mkt:019f23f9-3c63-7aab-8c82-4daca7075b17",
       "time": "2026-07-03 01:56:04",
