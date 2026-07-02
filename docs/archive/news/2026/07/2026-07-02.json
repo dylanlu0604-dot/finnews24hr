@@ -1,7 +1,92 @@
 {
   "date": "2026-07-02",
-  "count": 3220,
+  "count": 3229,
   "items": [
+    {
+      "id": "mkt:019f2381-1762-7aab-8c80-43ab77665ed9",
+      "time": "2026-07-02 23:44:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Source: Kuwait June crude output rises to 1.65 mln bpd】A source said Kuwait's crude oil production averaged 1.65 mln bpd in June, versus May's average of 578k bpd. The source added output reached about 1.9 mln bpd during the final 10 days of June."
+    },
+    {
+      "id": "4968060",
+      "time": "2026-07-02 23:44:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部計劃就俄使館遭襲一事召見瑞典大使】總檯記者當地時間7月2日獲悉，俄羅斯外交部發言人扎哈羅娃稱，因俄駐瑞典大使館遭無人機“尋釁”，俄外交部計劃召見瑞典駐俄大使。（央視新聞）"
+    },
+    {
+      "id": "4968059",
+      "time": "2026-07-02 23:43:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊茵金屬：即便其他所有業務部門訂單動能都表現強勁，依然出現這一狀況。"
+    },
+    {
+      "id": "mkt:019f237f-7f91-7aab-8c80-39b43cc0605f",
+      "time": "2026-07-02 23:43:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equity indices closed higher on Thursday, July 2: Germany's DAX rose 529.08 points (2.11%) to 25,598.19; UK's FTSE 100 gained 181.73 points (1.73%) to 10,660.07; France's CAC 40 added 137.57 points (1.65%) to 8,474.86; STOXX Europe 50 rose 84.55 points (1.35%) to 6,367.05; Spain's IBEX 35 climbed 277.54 points (1.43%) to 19,684.14; Italy's FTSE MIB advanced 847.94 points (1.64%) to 52,452.50."
+    },
+    {
+      "id": "te:markets:563848",
+      "time": "2026-07-02 23:42:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall after EIA Data — US natural gas futures dropped below $3.2 per MMbtu, driven by robust domestic supplies, falling oil prices, and shifting weather patterns. According to the Energy Information Administration, energy firms injected a larger-than-expected 87 billion cubic feet of gas into storage for the week ending June 26, keeping total stockpiles roughly 6.2% above historical averages. Looking ahead, meteorologists expect warmer-than-normal temperatures through mid-July. Meanwhile, June production in the Lower 48 states averaged a strong 110 billion cubic feet per day, approaching record highs, while average flows to major liquefied natural gas export terminals reached 17.3 billion cubic feet per day. Simultaneously, crude oil prices slid to prewar levels following diplomatic progress between the US and Iran regarding the Strait of Hormuz, dampening energy markets."
+    },
+    {
+      "id": "4968058",
+      "time": "2026-07-02 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊茵金屬：2026年營收受影響規模最高或達3億歐元。"
+    },
+    {
+      "id": "4968057",
+      "time": "2026-07-02 23:42:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬股份公司：按計劃，該公司對2030年中期營收指引的貢獻佔比低於3%。"
+    },
+    {
+      "id": "4968056",
+      "time": "2026-07-02 23:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬：目前公司正在調查訂單取消是否會對全年業績指引產生額外影響，並將在2026年8月6日釋出第二季度財報時提供更詳細的最新資訊。"
+    },
+    {
+      "id": "4968055",
+      "time": "2026-07-02 23:41:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊茵金屬：正在評估 F126 專案可能帶來的影響。"
+    },
     {
       "id": "4968054",
       "time": "2026-07-02 23:41:23",
