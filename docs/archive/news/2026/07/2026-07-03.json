@@ -1,7 +1,21 @@
 {
   "date": "2026-07-03",
-  "count": 274,
+  "count": 275,
   "items": [
+    {
+      "id": "mkt:019f244d-2680-7aab-8c83-a1c4dcd311ff",
+      "time": "2026-07-03 03:27:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years."
+    },
     {
       "id": "mkt:019f2445-4121-7aab-8c83-9d443dd41f82",
       "time": "2026-07-03 03:19:06",

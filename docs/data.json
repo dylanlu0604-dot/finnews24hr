@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-03 03:27:45",
-  "count": 13810,
+  "updated": "2026-07-03 03:31:37",
+  "count": 13808,
   "items": [
+    {
+      "id": "mkt:019f244d-2680-7aab-8c83-a1c4dcd311ff",
+      "time": "2026-07-03 03:27:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years."
+    },
     {
       "id": "mkt:019f2445-4121-7aab-8c83-9d443dd41f82",
       "time": "2026-07-03 03:19:06",
@@ -127212,40 +127226,6 @@
         "Industrial Metals"
       ],
       "text": "【US Army to allow critical-mineral processing plants on bases】As part of the Trump administration’s push to boost domestic production, the US Army will allow several companies to build critical-mineral processing plants on military bases nationwide, people familiar with the matter said. REalloys, Titan Mining, ioneer and Energy Exploration Technologies have agreements with the Pentagon to build facilities to process rare earths, graphite, lithium and boron. REalloys plans a rare-earth separation plant at the Tooele Army Depot in Utah; output will be stored on-site for military use."
-    },
-    {
-      "id": "mkt:019f0042-d5db-7dd8-b125-656fc0b03fcc",
-      "time": "2026-06-26 03:30:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FOMC permanent voter and New York Fed President Williams is due to speak in ten minutes."
-    },
-    {
-      "id": "4955836",
-      "time": "2026-06-26 03:29:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方代表在人權理事會作共同發言 揭批以人權為藉口濫施關稅行徑】中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德25日在人權理事會第62屆會議代表近20國作共同發言，揭批以“強迫勞動”為名濫施關稅的單邊霸凌行徑。共同發言指出，消除貧困需要保障各國人民的勞動權和發展權。我們堅決反對“強迫勞動”，同時嚴重關切、強烈反對某個國家濫用國內法律，單方面認定其他經濟體未有效實施並執行“禁止進口強迫勞動產品措施”，並以此為藉口加徵額外關稅。有關國家以“強迫勞動”為名，行濫施關稅之實，只會損害各國勞動者體面勞動的權利和發展權，干擾全球供應鏈產業鏈穩定，破壞國際社會消除貧困的努力。共同發言敦促有關國家尊重客觀事實，停止將經貿問題政治化、人權議題武器化，以實際行動維護國際經貿秩序，助力全球發展和減貧程序。共同發言得到廣泛支援，俄羅斯、巴基斯坦、古巴、委內瑞拉、蘇丹、柬埔寨等多國加入共同發言，發展中國家積極發言呼應。（新華社）"
-    },
-    {
-      "id": "mkt:019f0041-d6ce-7dd8-b125-5bbf51ad2c9b",
-      "time": "2026-06-26 03:29:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Market sources: a U.S. Army base will host a critical minerals plant to advance domestic production."
     }
   ]
 }
