@@ -1,7 +1,23 @@
 {
   "date": "2026-07-03",
-  "count": 155,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:019f23f6-4524-7aab-8c82-296bde20fb91",
+      "time": "2026-07-03 01:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump declared a \"National Scallop Day\" and said it would boost scallop production, create jobs and benefit multiple U.S. East Coast fishing regions."
+    },
+    {
+      "id": "4968178",
+      "time": "2026-07-03 01:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：推出長軸距版Model Y，現已在美國和波多黎各上市。"
+    },
     {
       "id": "mkt:019f23ef-aff5-7aab-8c82-238894be0c53",
       "time": "2026-07-03 01:45:38",

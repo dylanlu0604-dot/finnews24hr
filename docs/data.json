@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-03 01:49:44",
-  "count": 13895,
+  "updated": "2026-07-03 01:53:39",
+  "count": 13889,
   "items": [
+    {
+      "id": "mkt:019f23f6-4524-7aab-8c82-296bde20fb91",
+      "time": "2026-07-03 01:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump declared a \"National Scallop Day\" and said it would boost scallop production, create jobs and benefit multiple U.S. East Coast fishing regions."
+    },
+    {
+      "id": "4968178",
+      "time": "2026-07-03 01:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：推出長軸距版Model Y，現已在美國和波多黎各上市。"
+    },
     {
       "id": "mkt:019f23ef-aff5-7aab-8c82-238894be0c53",
       "time": "2026-07-03 01:45:38",
@@ -127980,82 +127996,6 @@
         "MKT News"
       ],
       "text": "Market sources: Venezuela will use its funds at the International Monetary Fund for post-earthquake reconstruction."
-    },
-    {
-      "id": "4955714",
-      "time": "2026-06-26 01:52:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在真實社交平臺發文：昨晚現場人山人海，場地擠得水洩不通 —— 到場民眾至少有 4.5 萬人，電視與線上觀看的觀眾規模同樣龐大。真希望當時能有更大的場地，而 7 月 4 日我再度發表演講時，就能用上更大的場地。現場的空中編隊通場表演與配樂都十分精彩。所有人全程留到我的演講結束，大家都愛聽我講述一個真正繁榮強盛的美國。7 月 4 日再見！"
-    },
-    {
-      "id": "mkt:019effe9-727d-7dd8-b123-0ee8d0466963",
-      "time": "2026-06-26 01:52:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UN shipping agency says evacuation plan for the Strait of Hormuz is suspended pending further clarity."
-    },
-    {
-      "id": "mkt:019effe9-2921-7dd8-b123-0710f47022a3",
-      "time": "2026-06-26 01:52:10",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UN agency says vessel attacked on Thursday in the Gulf of Oman was not operating under the agency's evacuation framework."
-    },
-    {
-      "id": "mkt:019effe9-046e-7dd8-b122-fc5518509bf7",
-      "time": "2026-06-26 01:52:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The UN shipping agency said it has temporarily shelved plans to evacuate vessels and crews stranded in the Strait of Hormuz region after a vessel attack."
-    },
-    {
-      "id": "4955713",
-      "time": "2026-06-26 01:51:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國機構表示，霍爾木茲疏散計劃將暫停，直至獲得進一步明確資訊。"
-    },
-    {
-      "id": "4955712",
-      "time": "2026-06-26 01:51:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國機構表示，週四在阿曼灣遇襲的船舶並非根據該機構的撤離框架過境。"
-    },
-    {
-      "id": "4955711",
-      "time": "2026-06-26 01:51:38",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "聯合國航運機構表示，霍爾木茲海峽遇襲事件發生後，該機構已暫時暫停針對受困船隻與船員的撤離計劃。"
-    },
-    {
-      "id": "4955710",
-      "time": "2026-06-26 01:50:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：Google.org 提供500萬美元贈款，用於擴充套件烏克蘭國家人工智慧就業平臺 OBRII。"
     }
   ]
 }
