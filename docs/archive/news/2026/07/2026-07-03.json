@@ -1,7 +1,32 @@
 {
   "date": "2026-07-03",
-  "count": 153,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:019f23ef-aff5-7aab-8c82-238894be0c53",
+      "time": "2026-07-03 01:45:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Lagarde: June rate hike was the right call; supply shocks still transmitting】ECB President Lagarde said the June rate increase was the correct decision, noting most Governing Council members were ready to act in April but postponed until June due to insufficient information. She said external supply shocks are still transmitting into broader parts of the economy, though second-round inflation effects have not yet emerged. Lagarde added the recent US‑Iran peace deal has pushed oil prices down and eased inflationary pressure, but indirect price effects continue to spread and the ECB will keep inflation risks under close watch."
+    },
+    {
+      "id": "4968177",
+      "time": "2026-07-03 01:45:32",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長稱6月加息是正確決定 供應衝擊的影響仍持續擴散】歐洲央行行長克里斯蒂娜·拉加德在接受《回聲報》採訪時表示，歐洲央行上個月決定加息是正確的。“我們確信自己做出了正確的決定，”拉加德在週四接受這家法國報紙採訪時表示，“早在4月，管理委員會的絕大多數成員就已準備好做出決定，但當時我們還沒有掌握所有必要的資訊。”就在上月，歐洲央行成為伊朗戰爭爆發後七國集團(G7)中首個加息的央行。歐洲央行當時解釋稱，加息決定是基於對能源衝擊波及整個經濟的判斷，而且該行不能容忍通脹失控。此後，美伊達成臨時和平協議促使油價大幅回落，從而消除了通脹的主要驅動因素。週三公佈的歐元區最新資料顯示，物價上漲放緩幅度超出預期。拉加德表示，儘管第二輪通脹效應尚未顯現，但供應衝擊的影響仍持續向整個經濟體擴散。"
+    },
     {
       "id": "mkt:019f23ed-dc29-7aab-8c82-1992384e141d",
       "time": "2026-07-03 01:43:38",
