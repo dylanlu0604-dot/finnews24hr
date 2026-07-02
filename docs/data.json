@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-03 05:56:58",
-  "count": 13859,
+  "updated": "2026-07-03 06:01:24",
+  "count": 13860,
   "items": [
+    {
+      "id": "mkt:019f24d6-7b5e-7aab-8c85-755bc0171dfe",
+      "time": "2026-07-03 05:57:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he does not want a global depression during his term."
+    },
+    {
+      "id": "mkt:019f24d6-5fd4-7aab-8c85-6db02aad8dfb",
+      "time": "2026-07-03 05:57:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump also praised Dell Inc (DELL.N)."
+    },
+    {
+      "id": "mkt:019f24d5-b3d0-7aab-8c85-66ed233b71a5",
+      "time": "2026-07-03 05:56:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O"
+      ],
+      "text": "U.S. President Trump said Micron Technology (MU.O) is a \"hot company\" run by a \"great guy\"."
+    },
     {
       "id": "4968332",
       "time": "2026-07-03 05:55:31",
@@ -127663,24 +127694,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌1%，現報58.16美元/盎司。"
-    },
-    {
-      "id": "4955891",
-      "time": "2026-06-26 06:00:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4030美元/盎司，日內漲0.07%。"
-    },
-    {
-      "id": "4955890",
-      "time": "2026-06-26 06:00:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為36.6%，累計加息25個基點的機率為48.8%，累計加息50個基點的機率為14.6%。"
     }
   ]
 }
