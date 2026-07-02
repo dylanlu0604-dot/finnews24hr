@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-02 23:58:30",
-  "count": 13951,
+  "updated": "2026-07-03 00:03:24",
+  "count": 13937,
   "items": [
+    {
+      "id": "4968085",
+      "time": "2026-07-03 00:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟動員6000名員工，助客戶採用AI技術】微軟公司正在組建一個新的部門，將配備6000名員工，專門幫助企業客戶處理部署人工智慧（AI）所需的技術和戰略工作。微軟在宣告中表示，該部門的員工將在工程、企業培訓、管理以及特定行業領域擁有豐富經驗。"
+    },
+    {
+      "id": "mkt:019f238f-982d-7aab-8c80-98f6ff87af5f",
+      "time": "2026-07-03 00:00:40",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fannie Mae: US 30-year fixed mortgage rate fell to 6.43%."
+    },
+    {
+      "id": "4968084",
+      "time": "2026-07-03 00:00:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【甩開美國另起爐灶 加拿大計劃在北約峰會上宣佈“全球防務銀行”創始成員】加拿大首席談判代表表示，加拿大計劃在下週於土耳其舉行的北約峰會上共同宣佈全球防務銀行的約10個創始成員國。加拿大總理卡尼正在推動建立國防、安全與韌性銀行（DSRB），這是他今年呼籲建立“中等強國”聯盟的一部分，旨在應對“以美國為主導的傳統世界秩序的瓦解”。“我們把北約峰會作為最後期限……我們計劃宣佈的是創始成員國名單，”加拿大首席談判代表、加拿大商業發展銀行執行長伊莎貝爾·胡頓表示。該銀行的宗旨是透過籌集高達1000億英鎊（1330億美元）的低成本資金來加強盟國的國防。胡頓表示，除加拿大外，首批成員國可能全部是歐洲國家，但她拒絕透露具體名單。"
+    },
+    {
+      "id": "4968083",
+      "time": "2026-07-03 00:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "房地美公佈的美國30年期抵押貸款利率降至6.43%。"
+    },
+    {
+      "id": "4968082",
+      "time": "2026-07-02 23:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬ADR漲幅收窄，公司稱F126專案取消或將影響2026財年。"
+    },
+    {
+      "id": "4968081",
+      "time": "2026-07-02 23:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國文化大臣南迪表示將退出X平臺，稱該平臺如今助長辱罵言論與虛假資訊傳播。"
+    },
+    {
+      "id": "4968080",
+      "time": "2026-07-02 23:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默：週一酒吧將提前營業，方便民眾觀看英格蘭賽事。"
+    },
+    {
+      "id": "mkt:019f238d-c11b-7aab-8c80-97c843e77a61",
+      "time": "2026-07-02 23:58:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada to announce founding members of proposed Global Defence Bank at NATO summit】Canada plans to jointly announce about 10 founding members of a proposed Global Defence Bank at next week’s NATO summit in Turkey, Canada’s chief negotiator said. Prime Minister CARNEY is pushing to establish a Defence, Security and Resilience Bank (DSRB) as part of a push this year to build a middle-power alliance. “We are using the NATO summit as the deadline… we intend to announce the list of founding members,” said Isabelle Houghton, chief negotiator and CEO of the Business Development Bank of Canada. The bank aims to raise up to £100bn ($133bn) of low-cost financing to bolster allies’ defence. Houghton said the inaugural members will likely be European states but declined to name them."
+    },
     {
       "id": "mkt:019f238c-ebd6-7aab-8c80-89de406ad1d2",
       "time": "2026-07-02 23:57:45",
@@ -128334,204 +128402,6 @@
         "國際"
       ],
       "text": "美國及海灣國家就黎巴嫩問題發表聯合宣告：強調堅持談判程序的重要性。"
-    },
-    {
-      "id": "mkt:019eff85-54d5-7dd8-b121-1935e82f20f9",
-      "time": "2026-06-26 00:03:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney says Ottawa will provide humanitarian aid to Venezuela."
-    },
-    {
-      "id": "mkt:019eff85-5057-7dd8-b121-11dd483f4b8b",
-      "time": "2026-06-26 00:03:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google (GOOG.O) launched a new Google Finance app for Android today and will roll out the \"Portfolio\" feature globally in the new Google Finance starting this week. An iOS version is scheduled for later this year."
-    },
-    {
-      "id": "4955588",
-      "time": "2026-06-26 00:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：正採取行動向委內瑞拉提供人道主義援助。"
-    },
-    {
-      "id": "4955587",
-      "time": "2026-06-26 00:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯邦通訊委員會主席卡爾表示，該機構正在推進對ABC廣播執照的審查，並稱所有選項仍在考慮範圍內。"
-    },
-    {
-      "id": "4955586",
-      "time": "2026-06-26 00:02:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將於今年晚些時候推出iOS版財經應用。"
-    },
-    {
-      "id": "4955585",
-      "time": "2026-06-26 00:02:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：從本週起，我們將在新版本谷歌財經中向全球推出投資組合功能。"
-    },
-    {
-      "id": "4955584",
-      "time": "2026-06-26 00:02:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本原子能規制委員會力爭最早於2027年推動相關法律修訂。"
-    },
-    {
-      "id": "mkt:019eff84-5151-7dd8-b121-0aadfb8f1c40",
-      "time": "2026-06-26 00:02:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "An Iranian source close to the negotiating team said Israeli withdrawal from Lebanon is a condition for a final Iran–US agreement and constitutes Iran’s red line."
-    },
-    {
-      "id": "4955583",
-      "time": "2026-06-26 00:01:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：今日我們還將推出一款面向安卓系統的全新谷歌財經應用。"
-    },
-    {
-      "id": "4955582",
-      "time": "2026-06-26 00:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：週三沒有與美國總統特朗普討論美墨加協定（USMCA）。"
-    },
-    {
-      "id": "4955581",
-      "time": "2026-06-26 00:01:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗談判團隊知情人士向本國官方媒體透露：以色列撤出黎巴嫩是伊美達成最終協議的前提條件，同時也是伊朗的紅線。"
-    },
-    {
-      "id": "4955580",
-      "time": "2026-06-26 00:01:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行官員：對2028年通脹預期並無過度樂觀情緒。"
-    },
-    {
-      "id": "mkt:019eff83-6cad-7dd8-b121-01259c5fa47e",
-      "time": "2026-06-26 00:01:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said on Wednesday he did not discuss the US-Mexico-Canada Agreement (USMCA) with U.S. President Trump."
-    },
-    {
-      "id": "4955579",
-      "time": "2026-06-26 00:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所英國 7 月天然氣期貨結算價報 96.52 便士 / 熱量單位。"
-    },
-    {
-      "id": "4955578",
-      "time": "2026-06-26 00:00:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "房地美：美國抵押貸款利率微升至 6.49%。"
-    },
-    {
-      "id": "te:markets:561965",
-      "time": "2026-06-25 23:59:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Rise to 3-Week High — US natural gas prices climbed toward $3.28 per MMBtu, the highest in three weeks, propelled by increased flows to liquefied natural gas export facilities and forecasts for warmer weather through July 10. This hotter weather is expected to drive up electricity demand for air conditioning in a country where gas-fired plants generate roughly 40% of the power supply. Average daily flows to major export plants rose to 17.3 billion cubic feet so far in June, up from 17.1 billion cubic feet in May, boosted by record feedgas activity at the Golden Pass facility in Texas. Simultaneously, the Energy Information Administration reported a near-normal storage injection of 76 billion cubic feet for the week ended June 19. This addition keeps domestic stockpiles about 5.7% above seasonal norms. At the same time, production in the Lower 48 states has been steady at 109.7 billion cubic feet per day so far in June, unchanged from the previous month."
-    },
-    {
-      "id": "4955577",
-      "time": "2026-06-25 23:59:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本將提前開展反恐審查，簡化核電站審批流程。"
-    },
-    {
-      "id": "te:markets:561964",
-      "time": "2026-06-25 23:59:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Finance and Tech Gains — The CAC 40 rose 0.6% to close at 8,432 on Thursday as oil prices remained near pre-conflict levels and optimism over AI-driven growth prospects returned. Growing confidence in a lasting US-Iran agreement encouraged more tankers to transit the Strait of Hormuz, keeping oil prices low and easing inflation concerns. Financial stocks posted gains, with BNP Paribas up 1.5%, AXA advancing 0.7%, and Societe Generale gaining 2.8%. Meanwhile, STMicroelectronics rose 2.7% after Micron reported strong quarterly results and issued an upbeat revenue outlook, pointing to sustained AI-related demand and helping revive appetite for technology stocks after the recent global selloff. Industrial stocks traded mixed, with Safran up 1.6%, while Thales fell 3.1% on progress toward a US-Iran ceasefire. Luxury stocks were also mixed, with LVMH and L'Oréal edging higher, while Hermès lost 0.9%."
-    },
-    {
-      "id": "mkt:019eff81-e2c2-7dd8-b120-fece827103b4",
-      "time": "2026-06-25 23:59:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian president said he hopes a new government will be formed before parliament's summer recess on June 30."
-    },
-    {
-      "id": "4955576",
-      "time": "2026-06-25 23:59:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 7 月柴油期貨結算價報每噸 913.50 美元。"
-    },
-    {
-      "id": "te:markets:561963",
-      "time": "2026-06-25 23:59:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close at Record — European stocks closed higher on Thursday, gaining traction from a muted session yesterday amid fresh support from the tech sector. Euro STOXX 50 gained 0.8% to 6,263 and the STOXX Europe 600 rose 0.8% to a record high of 640. Chip stocks and companies with exposure to AI infrastructure surged following their pullback yesterday after the strong guidance by Micron in the US restored some confidence in the AI trade. ASML added 2.6% and Infineon gained 2.3%, while Siemens Energy jumped 2.5%. Meanwhile, banks also rebounded as energy prices retreated further and lowered sovereign yields in the Eurozone, supporting the outlook for credit activity. BNP Paribas and BBVA rose 1.5%. Lastly, Bayer surged close to 20%, its strongest session in 23 years after the US Supreme Court sided with the drugmaker on lawsuits concerning its Roundup weedkiller."
-    },
-    {
-      "id": "4955575",
-      "time": "2026-06-25 23:58:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "羅馬尼亞總統表示，他期待各政黨向他提名一個支援親歐洲的議會多數派，以批准組建少數派內閣。"
     }
   ]
 }
