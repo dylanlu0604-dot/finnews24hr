@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-02 08:32:50",
+  "updated": "2026-07-02 08:36:42",
   "count": 14041,
   "items": [
+    {
+      "id": "4966109",
+      "time": "2026-07-02 08:36:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "日產執行長堅稱，與雷諾的聯盟從未如此牢固。"
+    },
+    {
+      "id": "4966108",
+      "time": "2026-07-02 08:35:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：液冷產業進入訂單與業績兌現階段 建議把握三條主線機會】中信證券研報稱，液冷產業正從主題預期進入訂單與業績兌現階段，關注具備產能彈性、客戶認證和核心部件能力的供應鏈公司。代工鏈短期業績彈性大，GB200/GB300量產導致臺系及國際龍頭產能緊張，大陸企業憑藉精密加工和組裝承接外溢訂單。自主品牌供應鏈長期成長性最強，憑藉認證資產和客戶介面卡位CSP、ODM及國產GPU生態，當前處於樣機和小批次驗證階段。橫向新品類提供差異化機會，配電系統、光模組液冷等新品價值量較低但客戶廣、易切入。建議沿“代工鏈業績彈性、自主品牌認證突破、橫向新品類放量”三條主線把握機會。"
+    },
+    {
+      "id": "4966107",
+      "time": "2026-07-02 08:34:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市重挫6% AI擔憂導致晶片製造商股票下跌】韓國股市大跌，Meta Platform Inc.計劃出售算力，引發投資者對AI產能過剩的質疑，導致晶片製造商類股遭拋售。Kospi指數一度下跌6.5%，三星電子和SK海力士的跌幅均至少達到7%。由於Kospi期貨大幅下跌，交易所暫時中止了程式化賣出操作。美國同類股票美光科技和閃迪的股價均下跌超過10%。這一走勢可能會加劇投資者對晶片股漲勢可持續性的擔憂。此前，全球人工智慧建設的蓬勃發展推動晶片股飆升。韓國市場權重股處於供應鏈的核心位置，迄今為止一直受益於市場對先進硬體的持續需求。然而，韓國股市近期的劇烈波動凸顯出，一旦人們對這種繁榮的可持續性產生質疑，市場情緒就會迅速轉變。"
+    },
+    {
+      "id": "mkt:019f203e-3366-7aab-8c68-0985551b951f",
+      "time": "2026-07-02 08:32:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【RAC: UK diesel posts largest monthly drop on record】UK diesel prices fell sharply in June, the latest sign the inflation shock tied to the Iran war is rapidly fading, the RAC said. Average diesel dropped nearly 17p to 167p per litre, the biggest single-month fall since records began in 2000. Petrol fell 8p to 151p per litre, the seventh-largest monthly decline on record. The fuel price falls are likely to offset some of the inflationary impact from a 13% household energy bill rise that took effect yesterday. Markets now expect the UK inflation peak to be well below the BoE's April projection; traders have sharply reduced rate-hike bets and no longer fully price a hike this year."
+    },
+    {
+      "id": "4966106",
+      "time": "2026-07-02 08:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西樂安河發生2026年第2號洪水】從水利部瞭解到，受降雨影響，江西鄱陽湖水系樂安河香屯水文站7月1日23時漲至38.01米，超警戒0.01米，依據主要江河洪水編號規定，此次洪水編號為“樂安河2026年第2號洪水”。"
+    },
     {
       "id": "4966105",
       "time": "2026-07-02 08:29:16",
@@ -129327,48 +129376,6 @@
         "其他"
       ],
       "text": "滔搏在香港暫停交易。"
-    },
-    {
-      "id": "4953702",
-      "time": "2026-06-25 08:35:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4000美元/盎司，日內跌0.22%。"
-    },
-    {
-      "id": "4953701",
-      "time": "2026-06-25 08:34:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少4.28噸】截至2026年06月24日，全球最大的黃金ETF SPDR Gold Trust持倉量為1013.36噸，較前一個交易日減少4.28噸。"
-    },
-    {
-      "id": "mkt:019efc32-d368-7dd8-b107-2199e076dc02",
-      "time": "2026-06-25 08:34:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela's Chacao mayor said an earthquake caused casualties but gave no figures."
-    },
-    {
-      "id": "4953700",
-      "time": "2026-06-25 08:33:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首款摺疊屏iPhone即將量產，4股獲融資客大幅買入】據TheElec近日報道，蘋果已完成摺疊屏iPhone包括顯示屏、外殼及機械部件在內的主要規格確認，正式進入量產準備階段。富士康將負責初期產量的生產。今年4月已完成首輪試產，量產預計於7月下旬前後啟動。證券時報·資料寶梳理了二季度以來（截至6月23日），融資資金淨買入逾5億元的摺疊屏概念股，共計15股。藍思科技、京東方A、華工科技、信維通訊排名前四，淨買入額依次為61.59億元、44.25億元、36.36億元、26.12億元；東材科技、鼎龍股份、德福科技、電連技術緊隨其後，淨買入額均在10億元以上。從機構關注度看，上述個股中，藍思科技、鼎龍股份、京東方A、TCL科技和萊特光電排名靠前，依次有19家、18家、17家、12家、12家機構參與公司評級。"
-    },
-    {
-      "id": "4953699",
-      "time": "2026-06-25 08:32:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3990美元/盎司，日內跌0.25%。"
     }
   ]
 }
