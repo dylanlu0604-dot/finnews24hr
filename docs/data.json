@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-03 00:19:37",
+  "updated": "2026-07-03 00:23:39",
   "count": 13931,
   "items": [
+    {
+      "id": "4968111",
+      "time": "2026-07-03 00:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 我今日同芬蘭總統亞歷克斯・斯圖布通了電話。感謝他致以慰問，並表態願意向我方提供援助。"
+    },
+    {
+      "id": "4968110",
+      "time": "2026-07-03 00:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林：匯率影響在第二季度應會呈現小幅負值，上半年整體仍將為負。"
+    },
+    {
+      "id": "te:markets:563860",
+      "time": "2026-07-03 00:21:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Climbs to Around 2-1/2-Month High — The FTSE 100 rose 1.7% to 10653 on Thursday, the highest since April 17, driven by a powerful rally across defensive, pharmaceutical, and aerospace sectors. Pharmaceutical giants led the upward momentum with AstraZeneca jumping over 5% and GSK adding more than 4%, while defense majors secured heavy gains as BAE Systems surged 6.1% and Babcock International advanced 5.5%. Broad-based support from market heavyweights including Rolls-Royce, British American Tobacco, oil majors BP and Shell, alongside lenders HSBC and Lloyds Banking Group, further underpinned the index's advance. Also, Capricorn Energy agreed to be taken over by Genel Energy, while CMC Markets got an upgrade from analysts at Panmure Liberum after increasing its earnings guidance. Additionally, retailer Currys posted financial year earnings matching analyst estimates and announced the launch of a £50 million share buyback program."
+    },
+    {
+      "id": "4968109",
+      "time": "2026-07-03 00:21:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林就輪胎銷量：我們的最終資料應會接近最初的共同預期。"
+    },
+    {
+      "id": "4968108",
+      "time": "2026-07-03 00:20:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝達克半導體科技（上海）股份有限公司啟動上市輔導】據證監會官網顯示，勝達克半導體科技（上海）股份有限公司於2026年7月2日正式啟動上市輔導，招商證券擔任輔導機構。"
+    },
+    {
+      "id": "4968107",
+      "time": "2026-07-03 00:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇應能微電子股份有限公司啟動上市輔導】據證監會官網顯示，江蘇應能微電子股份有限公司於2026年7月2日正式啟動上市輔導，申萬宏源證券承銷保薦有限責任公司擔任輔導機構。"
+    },
+    {
+      "id": "4968106",
+      "time": "2026-07-03 00:20:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【南京聯成科技發展股份有限公司啟動上市輔導】據證監會官網顯示，南京聯成科技發展股份有限公司於2026年7月2日正式啟動上市輔導，開源證券擔任輔導機構。"
+    },
+    {
+      "id": "4968105",
+      "time": "2026-07-03 00:20:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江億太諾科技股份有限公司啟動上市輔導】據證監會官網顯示，浙江億太諾科技股份有限公司於2026年7月2日正式啟動上市輔導，東方證券擔任輔導機構。"
+    },
+    {
+      "id": "4968104",
+      "time": "2026-07-03 00:19:06",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行（BOE）擬限制對沖基金用於買入英國國債（gilts）的借貸槓桿規模。"
+    },
     {
       "id": "mkt:019f23a0-6468-7aab-8c80-e3547d65a84d",
       "time": "2026-07-03 00:19:01",
@@ -128253,97 +128331,6 @@
         "其他"
       ],
       "text": "Meta智慧實驗室招攬 Virtue AI 創始人團隊。"
-    },
-    {
-      "id": "mkt:019eff97-f6f0-7dd8-b121-8926547c8e6f",
-      "time": "2026-06-26 00:23:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Apple (AAPL.O) shares fell 6%, the largest decline since April 2025."
-    },
-    {
-      "id": "4955612",
-      "time": "2026-06-26 00:22:27",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果股價跌幅擴大至 6%，創 2025 年 4 月以來最大單日跌幅。"
-    },
-    {
-      "id": "4955611",
-      "time": "2026-06-26 00:22:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長：今天我們為 Excel 版 Copilot 新增專業技能能力，讓團隊能夠在所有工作簿中高效複用專業知識。"
-    },
-    {
-      "id": "4955610",
-      "time": "2026-06-26 00:21:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【深圳市盛世智慧裝備股份有限公司啟動上市輔導】據證監會官網顯示，深圳市盛世智慧裝備股份有限公司於2026年6月25日正式啟動上市輔導，中信建投證券擔任輔導機構。"
-    },
-    {
-      "id": "4955609",
-      "time": "2026-06-26 00:21:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾亞液冷科技（浙江）股份有限公司啟動上市輔導】據證監會官網顯示，諾亞液冷科技（浙江）股份有限公司於2026年6月25日正式啟動上市輔導，浙商證券擔任輔導機構。"
-    },
-    {
-      "id": "mkt:019eff95-56ff-7dd8-b121-86c37727b5e8",
-      "time": "2026-06-26 00:20:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Rubio reassures Gulf states, rejects Strait of Hormuz transit fees】U.S. Secretary of State Rubio said on Thursday in Bahrain that Washington seeks an agreement with Iran to end the conflict but will not accept a deal “at any cost.” He reiterated that any demand for transit or “service” fees for passage through the Strait of Hormuz is unacceptable, calling it semantics and saying it would never be an acceptable term in any agreement."
-    },
-    {
-      "id": "4955608",
-      "time": "2026-06-26 00:20:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：Bumble聘請摩根士丹利探索出售可能性。"
-    },
-    {
-      "id": "4955607",
-      "time": "2026-06-26 00:19:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "INTERLINK ELECTRONICS獲選納入羅素微型股指數，自2026年6月29日起生效。"
-    },
-    {
-      "id": "mkt:019eff94-8397-7dd8-b121-7bd9a05d165e",
-      "time": "2026-06-26 00:19:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Market sources: A fire broke out at the Trainer refinery in Delaware County, Pennsylvania, US."
     }
   ]
 }
