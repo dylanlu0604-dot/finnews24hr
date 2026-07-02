@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-02 11:39:14",
-  "count": 14002,
+  "updated": "2026-07-02 11:43:11",
+  "count": 13999,
   "items": [
+    {
+      "id": "mkt:019f20eb-ea30-7aab-8c6b-8003982b7b03",
+      "time": "2026-07-02 11:42:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield rose 4.5 bps to 4.000%, the highest since May 22."
+    },
+    {
+      "id": "4966486",
+      "time": "2026-07-02 11:42:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲4.5個基點至4.000%，為5月22日以來最高。"
+    },
+    {
+      "id": "mkt:019f20ea-cd06-7aab-8c6b-787fb2974cb3",
+      "time": "2026-07-02 11:41:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 2.00% intraday at $60.27/oz."
+    },
+    {
+      "id": "4966485",
+      "time": "2026-07-02 11:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國10條河流發生超警洪水】從水利部瞭解到，受降雨影響，昨天到今天，江西昌江、樂安河，安徽新安江及支流練江、昌江支流大洪水（河流名），江蘇水陽江，浙江太湖周邊頔塘、菱湖塘，廣西紅水河支流龍頭河，雲南瀾滄江支流鬥閣河等10條河流發生超警洪水，目前大部已出峰迴落。"
+    },
+    {
+      "id": "4966484",
+      "time": "2026-07-02 11:40:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京基智農投資成立智算科技公司】企查查APP顯示，近日，深圳市子夏智算科技有限公司成立，法定代表人為廖振暉，註冊資本為5000萬元，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；積體電路銷售等。企查查股權穿透顯示，該公司由京基智農(000048)全資持股。"
+    },
+    {
+      "id": "4966483",
+      "time": "2026-07-02 11:39:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【比亞迪股份高開高走漲超8%】比亞迪股份高開高走漲超8%，盤中一度漲近10%，A股比亞迪漲近5%。訊息面上，比亞迪公佈6月銷量資料，單月整體銷量突破40萬大關，維持同比增長，主要由於海外銷量創新高，達17.53萬輛，同比增長94.73%，環比增長9.15%。"
+    },
+    {
+      "id": "mkt:019f20e8-67f2-7aab-8c6b-722a3cd7de40",
+      "time": "2026-07-02 11:38:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA said it will partner with AI cloud providers to deploy large-scale, multi-tenant AI factories under revenue-sharing and credit-support arrangements."
+    },
     {
       "id": "mkt:019f20e7-9ada-7aab-8c6b-6d5397d4e7b8",
       "time": "2026-07-02 11:37:57",
@@ -128909,99 +128977,6 @@
         "國際"
       ],
       "text": "【康寧大中國區總裁：始終在中國，與產業鏈夥伴協同發展】第四屆鏈博會正在北京舉行。175年曆史的美國老牌材料科學巨頭康寧公司，今年已連續第四次參展。康寧公司方面表示，期待藉助鏈博會平臺，促進產業鏈供應鏈協同合作，以百年創新積澱與全球化視野，推動中國創新實踐走向全球。鏈博會康寧公司展臺今年鏈博會展出的“重頭戲”，是康寧面向下一代資料中心架構的技術創新，包括共封裝光學（CPO），多模多芯光纖等前沿技術方向的解決方案。據瞭解，緊抓AI驅動的新一輪產業變革機遇，康寧持續加大在光通訊、顯示科技及汽車應用等關鍵領域的投入，貫穿資料中心、先進製造與高階顯示等重要產業環節。（北京日報）"
-    },
-    {
-      "id": "mkt:019efcdf-8015-7dd8-b10c-0b43b72055bc",
-      "time": "2026-06-25 11:42:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 20-year bond yield fell 1.5 bps to 3.55%."
-    },
-    {
-      "id": "4954066",
-      "time": "2026-06-25 11:42:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率下跌1.5個基點，至3.55%。"
-    },
-    {
-      "id": "4954065",
-      "time": "2026-06-25 11:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國製冷學會公開徵集資料中心液冷技術需求與科技成果】6月25日，中國製冷學會發布通知，為加速資料中心液冷技術研發與產業化應用，推動綠色低碳解決方案落地，中國製冷學會現依託中國科協“科創中國”數字平臺，面向全國公開徵集資料中心液冷技術需求及科技成果。後續，中國製冷學會將對徵集的技術需求進行梳理和識別，選擇其中有代表性的難題，組建專家團隊組織專項“線上問診+線下對接”活動，形成技術解決方案；從徵整合果中遴選潛力較大、應用預期較好的專案，策劃專場對接會，推動轉化落地實施。"
-    },
-    {
-      "id": "mkt:019efcde-802b-7dd8-b10c-0764667d9a38",
-      "time": "2026-06-25 11:41:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Goldman Sachs: Indonesia likely to retain MSCI EM status as reforms advance】Goldman Sachs analysts say Indonesia is likely to retain its MSCI emerging-market status as market reforms progress, though updated equity-disclosure data could still trigger further index weight cuts and stock deletions. MSCI has kept Indonesia's EM status unchanged and delayed a final decision until November. Analysts say index-adjustment uncertainty and a challenging economy may weigh on investor sentiment; higher rates support the rupiah, but weak domestic demand, slowing credit growth and cooling retail sales are downside risks. Goldman Sachs maintains an underweight rating on Indonesian equities."
-    },
-    {
-      "id": "4954064",
-      "time": "2026-06-25 11:41:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數向上觸及72000點，最新報72005.05點，日內上漲4.09%。"
-    },
-    {
-      "id": "te:markets:561720",
-      "time": "2026-06-25 11:41:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Advance — US natural gas prices rose to around $3.24 per MMBtu as weather forecasts turned hotter, while investors awaited weekly inventory data. Forecasters said above-average temperatures are expected across the mid-Atlantic and Upper Midwest through July 3, lifting gas-for-power demand. Expectations of a smaller-than-average storage build also supported prices, with inventories forecast to increase by 67 bcf for the week ended June 19, below the five-year average gain of 75 bcf for the period. Additional support came from improved LNG export activity, with average gas flows to major US LNG export facilities rising to 17.3 bcfd so far in June from 17.1 bcfd in May, partly driven by record feedgas at the Golden Pass. Moreover, production in the US Lower 48 states fell to 109.5 bcfd so far in June from 109.7 bcfd in May."
-    },
-    {
-      "id": "4954063",
-      "time": "2026-06-25 11:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美地震學家：委內瑞拉、日本連發強震無關聯】北京時間25日6時過後，委內瑞拉連續發生7級以上強震，日本東北海域此後不久發生7.2級地震。據美國有線電視新聞網報道，同一天，美國加利福尼亞州發生5.6級地震。這些地震之間是否有關聯？加州理工學院資深地震學家露西·瓊斯表示，簡而言之，沒有關聯。瓊斯認為，這些地震發生在不同的斷層和板塊邊界上，意味著並非一場地震引發另一場地震。地震發生時間或許會有巧合，但地點不會——每一次地震都發生在人們熟知的活躍板塊邊界上，那裡的應力已經積累數十年甚至數個世紀。在這些地區，大地震是自然迴圈中可以預期的一部分，儘管具體何時發生目前仍無法準確預測。（新華社）"
-    },
-    {
-      "id": "4954062",
-      "time": "2026-06-25 11:40:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【曹操出行：將開拓歐洲Robotaxi市場】曹操出行宣佈，公司與全球自動駕駛技術企業May Mobility正式達成戰略合作。雙方將在國際市場合作探索Robotaxi 大規模商業化運營。"
-    },
-    {
-      "id": "4954061",
-      "time": "2026-06-25 11:39:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價年內跌近500元】國內各大黃金品牌的金飾掛牌價持續下調。6月25日，國內黃金飾品價格對比顯示，部分品牌克價距離年初高點跌近500元，跌幅超28%。老鳳祥報價1215元/克，較前一日下降26元，兩日累計下降53元，克價距離年初高點跌498元；周生生報價1221元/克，較前一日下降19元，兩日累計跌去49元，克價距離年初高點跌487元；周大福、六福分別報價1222元/克、1220元/克，較前一日均下降16元，兩日累計分別跌去55元、46元，克價距離年初高點分別跌約478元、480元。"
-    },
-    {
-      "id": "te:economy:561719",
-      "time": "2026-06-25 11:39:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "Thailand Import Growth Stays Robust — Thailand’s imports rose 35.1% yoy in May 2026, slowing from a 45.0% surge in the prior month. The was roughly in line with market expectations of 25.1%, supported by resilient household demand and policy support aimed at boosting spending and capital outlays despite disruptions from the Middle East conflict."
     }
   ]
 }

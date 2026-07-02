@@ -1,7 +1,75 @@
 {
   "date": "2026-07-02",
-  "count": 1044,
+  "count": 1051,
   "items": [
+    {
+      "id": "mkt:019f20eb-ea30-7aab-8c6b-8003982b7b03",
+      "time": "2026-07-02 11:42:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield rose 4.5 bps to 4.000%, the highest since May 22."
+    },
+    {
+      "id": "4966486",
+      "time": "2026-07-02 11:42:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲4.5個基點至4.000%，為5月22日以來最高。"
+    },
+    {
+      "id": "mkt:019f20ea-cd06-7aab-8c6b-787fb2974cb3",
+      "time": "2026-07-02 11:41:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 2.00% intraday at $60.27/oz."
+    },
+    {
+      "id": "4966485",
+      "time": "2026-07-02 11:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國10條河流發生超警洪水】從水利部瞭解到，受降雨影響，昨天到今天，江西昌江、樂安河，安徽新安江及支流練江、昌江支流大洪水（河流名），江蘇水陽江，浙江太湖周邊頔塘、菱湖塘，廣西紅水河支流龍頭河，雲南瀾滄江支流鬥閣河等10條河流發生超警洪水，目前大部已出峰迴落。"
+    },
+    {
+      "id": "4966484",
+      "time": "2026-07-02 11:40:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京基智農投資成立智算科技公司】企查查APP顯示，近日，深圳市子夏智算科技有限公司成立，法定代表人為廖振暉，註冊資本為5000萬元，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；積體電路銷售等。企查查股權穿透顯示，該公司由京基智農(000048)全資持股。"
+    },
+    {
+      "id": "4966483",
+      "time": "2026-07-02 11:39:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【比亞迪股份高開高走漲超8%】比亞迪股份高開高走漲超8%，盤中一度漲近10%，A股比亞迪漲近5%。訊息面上，比亞迪公佈6月銷量資料，單月整體銷量突破40萬大關，維持同比增長，主要由於海外銷量創新高，達17.53萬輛，同比增長94.73%，環比增長9.15%。"
+    },
+    {
+      "id": "mkt:019f20e8-67f2-7aab-8c6b-722a3cd7de40",
+      "time": "2026-07-02 11:38:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA said it will partner with AI cloud providers to deploy large-scale, multi-tenant AI factories under revenue-sharing and credit-support arrangements."
+    },
     {
       "id": "mkt:019f20e7-9ada-7aab-8c6b-6d5397d4e7b8",
       "time": "2026-07-02 11:37:57",
