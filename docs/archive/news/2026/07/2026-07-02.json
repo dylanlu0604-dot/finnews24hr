@@ -1,7 +1,101 @@
 {
   "date": "2026-07-02",
-  "count": 2787,
+  "count": 2798,
   "items": [
+    {
+      "id": "4967796",
+      "time": "2026-07-02 21:24:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱讚美光就涉特朗普相關賬戶事宜釋出公告。"
+    },
+    {
+      "id": "4967795",
+      "time": "2026-07-02 21:24:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：根據美國證券交易委員會(SEC)檔案，阿賈伊·K·普里在過渡期間將繼續擔任高階顧問一職。"
+    },
+    {
+      "id": "4967794",
+      "time": "2026-07-02 21:23:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：感謝美光公司。"
+    },
+    {
+      "id": "4967793",
+      "time": "2026-07-02 21:23:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【本週國內多晶矽成交價格繼續低位下探】中國有色金屬工業協會矽業分會發布最新周度多晶矽市場價格資料。據安泰科統計，本週國內多晶矽成交價格繼續低位下探，N型復投料（棒狀矽）與N 型顆粒矽均價雙雙環比下滑，本輪多晶矽價格已實現周度五連跌。具體價格資料顯示，本週 N 型復投料（棒狀矽）成交價格區間為 3.1 萬 - 3.4 萬元 / 噸，成交均價 3.28 萬元 / 噸，環比下滑 1.20%；N 型顆粒矽成交價格區間為 3.2 萬 - 3.3 萬元 / 噸，成交均價 3.23 萬元 / 噸，環比下滑 0.62%。"
+    },
+    {
+      "id": "mkt:019f22ff-406d-7aab-8c7b-f37fcea3776f",
+      "time": "2026-07-02 21:23:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Portugal declares state of alert over extreme heat】Portugal's government on July 2 said the country will enter a state of alert from July 3 through July 6 to address expected extreme heat. Emergency restrictions on the use of agricultural machinery, intended to reduce wildfire risk, have taken effect. Interior Minister Luis Neves said after a firefighting meeting that conditions will \"deteriorate markedly\" and the government will deploy special measures for major emergencies. Civil protection raised the fire warning level to 3, a higher-level alert."
+    },
+    {
+      "id": "mkt:019f22fe-6069-7aab-8c7b-ef070cecee70",
+      "time": "2026-07-02 21:22:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.2-magnitude earthquake hits Greece's Karpathos island; no casualties】A magnitude-5.2 earthquake struck Karpathos in the Aegean Sea on the afternoon of July 2 local time, at a depth of 13 km. No casualties were reported. The island recorded a magnitude-5.0 quake one week earlier."
+    },
+    {
+      "id": "4967792",
+      "time": "2026-07-02 21:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：瑞士寶盛集團將在對奧地利房地產及零售業大亨本科（Benko）相關風險敞口的清理工作接近尾聲之際，放寬客戶限制措施。"
+    },
+    {
+      "id": "mkt:019f22fe-39b1-7aab-8c7b-e00fe758c791",
+      "time": "2026-07-02 21:21:53",
+      "tags": [
+        "MKT News",
+        "BAER.SW",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Julius Baer will ease client restrictions as it nears completion of clearing risk exposures tied to Austrian real estate and retail magnate René Benko."
+    },
+    {
+      "id": "4967791",
+      "time": "2026-07-02 21:21:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑曜石能源有限公司2026年展望：平均產量指引為每日29,000至31,000桶油當量。"
+    },
+    {
+      "id": "4967790",
+      "time": "2026-07-02 21:21:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葡萄牙宣佈將進入警戒狀態應對極端高溫】葡萄牙政府2日宣佈，全國將從3日開始進入警戒狀態，以應對預計將持續至6日的極端高溫天氣。與此同時，針對農業活動中使用機械裝置的緊急限制措施正式生效，以降低野火風險。 葡萄牙內政部長路易斯·內韋斯當天在一場消防會議後宣佈上述訊息。他表示，未來幾天全國天氣狀況將“顯著惡化”。針對重大緊急情況，政府將採取一系列特殊措施。他呼籲全體民眾積極配合，共同做好防範工作。 葡萄牙海洋和大氣研究所說，自2日起，葡萄牙本土18個地區中的12個地區將進入紅色高溫預警狀態，其餘6個地區將處於橙色高溫預警狀態。 此外，葡萄牙民防部門已將火災預警級別提升至三級，即較高等級預警。(新華社)"
+    },
+    {
+      "id": "4967789",
+      "time": "2026-07-02 21:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊：對美墨加協定的年度審查可能導致企業繼續推遲投資】美國決定不續簽與墨西哥和加拿大的貿易協定，這使得美墨加協定進入年度審查程式。巴克萊的Gabriel Casillas和Nestor Rodriguez在一份報告中表示：“雖然從投資確定性的角度來看遠非理想，但該條約仍然有效，並且……繼續提供一個延續至其現有期限的法律框架，除非被取代、終止或隨後獲得續簽。“他們寫道，主要挑戰仍然是政策不確定性，而不是現有的關稅水平，企業可能會繼續推遲投資決策。“企業通常能夠應對關稅、原產地規則要求和監管變化。更難應對的是未來運營框架的不確定性。”"
+    },
     {
       "id": "4967788",
       "time": "2026-07-02 21:20:19",
