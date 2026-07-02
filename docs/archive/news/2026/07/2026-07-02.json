@@ -1,7 +1,281 @@
 {
   "date": "2026-07-02",
-  "count": 2701,
+  "count": 2728,
   "items": [
+    {
+      "id": "4967756",
+      "time": "2026-07-02 21:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉(TSLA.O)：第二季度其他車型生產量為8,822輛，交付量為12,364輛。"
+    },
+    {
+      "id": "mkt:019f22ed-ca11-7aab-8c7b-09ff9236550f",
+      "time": "2026-07-02 21:03:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O) deployed 13.5 GWh of energy storage products in Q2."
+    },
+    {
+      "id": "mkt:019f22ed-b206-7aab-8c7b-07988d1253e1",
+      "time": "2026-07-02 21:03:50",
+      "tags": [
+        "MKT News",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O) said second-quarter production of other models was 8,822 vehicles and deliveries were 12,364 vehicles."
+    },
+    {
+      "id": "4967755",
+      "time": "2026-07-02 21:03:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【非農資料和沃什近期講話提振金價】低於預期的美國非農就業資料提振了黃金價格，金價在報告發布前小幅下跌後，目前上漲2%。美國勞工統計局資料顯示，6月份僅新增5.7萬個非農就業崗位，低於分析師此前預測的11.5萬個。這一意外資料推動股市和大宗商品價格上漲，報告緩解了市場對未來加息的擔憂，美聯儲主席沃什的講話也淡化了市場對利率的擔憂。交投最活躍的白銀也上漲，漲幅達4%。"
+    },
+    {
+      "id": "mkt:019f22ed-7015-7aab-8c7a-fc6503e32522",
+      "time": "2026-07-02 21:03:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Weaker US nonfarm payrolls and Warsh remarks lift gold】US nonfarm payrolls rose 57,000 in June versus a 115,000 consensus, the U.S. Bureau of Labor Statistics said. The surprise miss cut market odds of further Fed tightening, helping gold to gain about 2% after an initial dip and lifting most-active silver roughly 4%. Equities and commodities rallied, and remarks from Fed Chair Kevin Warsh further tempered rate concerns."
+    },
+    {
+      "id": "mkt:019f22ed-44c1-7aab-8c7a-f205faee692c",
+      "time": "2026-07-02 21:03:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) Q2 deliveries 480,126 vehicles vs. market estimate 402,776; Q2 production 451,758 vehicles."
+    },
+    {
+      "id": "te:markets:563795",
+      "time": "2026-07-02 21:03:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rallies as Weak Jobs Data Cuts Fed Hike Odds — Silver prices climbed above $61 per ounce on Thursday, recovering from seven-month lows, as markets reduced bets on Federal Reserve rate hikes after disappointing US jobs data. The economy added just 57,000 jobs in June, the lowest in four months and far below the 110,000 forecast, with leisure and hospitality losing 61,000 jobs despite World Cup tourism. The unemployment rate unexpectedly dropped to 4.2% as workers exited the labor force, while wage growth ticked up to 3.5% year-over-year. Fed funds futures now show less than a 50% chance of a September hike, down from 67% before the report. On Wednesday, Fed Chair Kevin Warsh acknowledged easing inflation expectations but reiterated the Fed’s focus on price stability. Silver also drew support from rising oil shipments through the Strait of Hormuz and progress in indirect US-Iran talks, which lowered oil prices and further eased inflation pressures."
+    },
+    {
+      "id": "te:markets:563794",
+      "time": "2026-07-02 21:02:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "DXY Falls After Jobs Report — The US dollar index declined to 100.8 following a softer-than-anticipated employment report that led investors to scale back expectations for Federal Reserve interest rate increases this year. Nonfarm payrolls expanded by a meager 57K in June, compounded by downward revisions to hiring data from April and May. Although the unemployment rate unexpectedly ticked down to 4.2%, this shift primarily stemmed from a shrinking labor force participation rate, highlighting an overall cooling in the job market. Consequently, the market implied probability of a September rate hike dropped to nearly 50% from roughly 64% the previous day. This cautious outlook was further reinforced by Fed Chair Kevin Warsh at the ECB Forum, who noted that moderating inflation expectations have removed the immediate urgency for tightening monetary policy, even as he maintained the central bank's overarching commitment to achieving long-term price stability."
+    },
+    {
+      "id": "mkt:019f22ec-7f7c-7aab-8c7a-e93c4e92d0f4",
+      "time": "2026-07-02 21:02:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O): Q2 Model 3/Y production 442,936 vehicles; deliveries 467,762 vehicles."
+    },
+    {
+      "id": "4967754",
+      "time": "2026-07-02 21:02:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉：第二季度Model 3/Y產量為442,936輛，交付量為467,762輛。"
+    },
+    {
+      "id": "4967753",
+      "time": "2026-07-02 21:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第二季度儲能產品裝機量為13.5吉瓦時。"
+    },
+    {
+      "id": "4967752",
+      "time": "2026-07-02 21:01:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉：第二季度交付量480126，預估396466。"
+    },
+    {
+      "id": "te:markets:563793",
+      "time": "2026-07-02 21:01:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Jumps as Weak Jobs Data Dims Fed Hike Bets — Gold prices jumped above $4,100 per ounce on Thursday, rebounding from an eight-month low, as markets scaled back expectations for Federal Reserve rate hikes following weaker-than-expected US jobs data. The economy added just 57,000 jobs in June, the fewest in four months and well below the 110,000 forecast, with leisure and hospitality shedding 61,000 jobs despite a World Cup tourism boost. The unemployment rate unexpectedly fell to 4.2% as workers left the labor force, while wage growth edged up to 3.5% year-over-year. Fed funds futures now price in less than a 50% chance of a September rate hike, down from 67% before the report. On Wednesday, Fed Chair Kevin Warsh noted easing inflation expectations but reaffirmed the central bank’s commitment to price stability. Gold also gained support from increased oil shipments through the Strait of Hormuz and progress in indirect US-Iran talks, which pushed oil prices lower and further soothed inflation concerns."
+    },
+    {
+      "id": "4967751",
+      "time": "2026-07-02 21:01:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【隆華科技：兩款靶材產品透過三星驗證並開始批次供貨】隆華科技在互動平臺表示，公司兩款用於顯示面板的靶材產品順利透過韓國三星的品質稽核和產品驗證，成功匯入其供應商名錄並開始批次供貨，海外市場拓展取得顯著突破。"
+    },
+    {
+      "id": "mkt:019f22eb-0253-7aab-8c7a-e5c9ab396ea1",
+      "time": "2026-07-02 21:00:54",
+      "tags": [
+        "MKT News",
+        "LCID.O"
+      ],
+      "text": "Lucid Group (LCID.O) appointed Raja Ramana Macha as chief technology officer and Alexander De Bock as chief financial officer."
+    },
+    {
+      "id": "mkt:019f22ea-a86f-7aab-8c7a-daae580a55b2",
+      "time": "2026-07-02 21:00:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China night session: main futures contracts opened mostly lower. SC crude oil (Shanghai contract) fell nearly 2%; alumina, PET chips, para-xylene and PTA dropped over 1%; synthetic rubber, iron ore and SHFE zinc declined about 1%. Winners included SHFE silver and LPG, up more than 2%; SHFE gold rose over 1% and coking coal advanced roughly 1%."
+    },
+    {
+      "id": "4967750",
+      "time": "2026-07-02 21:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟斥資25億美元成立新公司，助力企業落地人工智慧技術。"
+    },
+    {
+      "id": "4967749",
+      "time": "2026-07-02 21:00:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：將注資25億美元成立微軟前沿公司。"
+    },
+    {
+      "id": "4967748",
+      "time": "2026-07-02 21:00:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：羅德里戈·凱德·利馬將出任微軟前沿業務公司總裁。"
+    },
+    {
+      "id": "4967747",
+      "time": "2026-07-02 21:00:13",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至6月30日當週央行黃金和外匯儲備 7152億美元，前值7438億美元。"
+    },
+    {
+      "id": "mkt:019f22ea-58a8-7aab-8c7a-d049b0b21d58",
+      "time": "2026-07-02 21:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's central bank gold and FX reserves for the week ended June 30 were $715.2 bln, down from $743.8 bln the previous week."
+    },
+    {
+      "id": "4967746",
+      "time": "2026-07-02 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報15071.00元。"
+    },
+    {
+      "id": "4967745",
+      "time": "2026-07-02 21:00:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：加快推進產業結構躍遷升級，打造一批具有全球競爭力的世界級產業叢集】7月2日，國務院國資委黨委召開專題會議。全力以赴把黨中央決策部署付諸行動、抓出實效。要牢牢把握建設現代化產業體系的核心特質與本質要求，以更實舉措因地制宜發展新質生產力，推動國有資本“三個集中”，提升國有資本配置和執行效率；加快推進產業結構躍遷升級，打造一批具有全球競爭力的世界級產業叢集；著力鞏固產業體系韌性和安全水平，加快補齊產業基礎短板，構建安全可靠、韌性充足的產業鏈供應鏈體系。牢牢把握新一輪科技革命和產業變革的發展趨勢，以更大力度推動中央企業科技創新再上新臺階，加快打造國家戰略科技力量，加強面向產業的基礎研究，加大基礎前沿技術研發力度；加快打造開放協同創新生態，打通基礎研究、應用開發、成果轉化的創新鏈條；加快打造科技人才隊伍，加強基礎前沿和行業共性技術人才培養。"
+    },
+    {
+      "id": "mkt:019f22ea-466c-7aab-8c7a-cc6b7059ebed",
+      "time": "2026-07-02 21:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SASAC to accelerate industrial upgrading, build globally competitive industry clusters】On July 2 the State-owned Assets Supervision and Administration Commission (SASAC) held a special meeting directing faster industrial-structure upgrading and higher state-capital efficiency. It called for tailoring measures to develop new-quality productive capacity locally and to advance the 'three concentrations' of state capital to improve allocation and operating efficiency. SASAC prioritized creating several world-class, globally competitive industry clusters, strengthening industrial resilience and security, and closing gaps in industrial foundations to build secure, resilient supply chains. It instructed central SOEs to step up technology innovation, accelerate formation of national strategic science-and-technology capabilities, expand industry-facing basic research and frontier R&D, and forge an open, collaborative innovation ecosystem linking basic research, applied development and commercialization. The commission also stressed accelerating development of science-and-technology talent, especially in basic frontier areas and industry-common technologies."
+    },
+    {
+      "id": "4967744",
+      "time": "2026-07-02 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鉑連續漲5.48%，鈀連續漲2.97%，白銀連續漲2.60%，膠版印刷紙連續漲1.95%，集運指數歐線期貨連續跌1.83%。"
+    },
+    {
+      "id": "mkt:019f22ea-32dc-7aab-8c7a-c34753a5eb02",
+      "time": "2026-07-02 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jun.30) | actual 715200000000B | previous 743800000000B"
+    },
+    {
+      "id": "4967743",
+      "time": "2026-07-02 20:59:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威Gassco公司將德瓦林氣田原定於7月4日至5日進行的每日550萬立方米天然氣停產檢修提前至7月3日至4日。"
+    },
     {
       "id": "4967742",
       "time": "2026-07-02 20:59:26",

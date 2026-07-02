@@ -1,7 +1,281 @@
 {
-  "updated": "2026-07-02 21:00:57",
-  "count": 13820,
+  "updated": "2026-07-02 21:04:58",
+  "count": 13831,
   "items": [
+    {
+      "id": "4967756",
+      "time": "2026-07-02 21:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉(TSLA.O)：第二季度其他車型生產量為8,822輛，交付量為12,364輛。"
+    },
+    {
+      "id": "mkt:019f22ed-ca11-7aab-8c7b-09ff9236550f",
+      "time": "2026-07-02 21:03:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O) deployed 13.5 GWh of energy storage products in Q2."
+    },
+    {
+      "id": "mkt:019f22ed-b206-7aab-8c7b-07988d1253e1",
+      "time": "2026-07-02 21:03:50",
+      "tags": [
+        "MKT News",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O) said second-quarter production of other models was 8,822 vehicles and deliveries were 12,364 vehicles."
+    },
+    {
+      "id": "4967755",
+      "time": "2026-07-02 21:03:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【非農資料和沃什近期講話提振金價】低於預期的美國非農就業資料提振了黃金價格，金價在報告發布前小幅下跌後，目前上漲2%。美國勞工統計局資料顯示，6月份僅新增5.7萬個非農就業崗位，低於分析師此前預測的11.5萬個。這一意外資料推動股市和大宗商品價格上漲，報告緩解了市場對未來加息的擔憂，美聯儲主席沃什的講話也淡化了市場對利率的擔憂。交投最活躍的白銀也上漲，漲幅達4%。"
+    },
+    {
+      "id": "mkt:019f22ed-7015-7aab-8c7a-fc6503e32522",
+      "time": "2026-07-02 21:03:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Weaker US nonfarm payrolls and Warsh remarks lift gold】US nonfarm payrolls rose 57,000 in June versus a 115,000 consensus, the U.S. Bureau of Labor Statistics said. The surprise miss cut market odds of further Fed tightening, helping gold to gain about 2% after an initial dip and lifting most-active silver roughly 4%. Equities and commodities rallied, and remarks from Fed Chair Kevin Warsh further tempered rate concerns."
+    },
+    {
+      "id": "mkt:019f22ed-44c1-7aab-8c7a-f205faee692c",
+      "time": "2026-07-02 21:03:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) Q2 deliveries 480,126 vehicles vs. market estimate 402,776; Q2 production 451,758 vehicles."
+    },
+    {
+      "id": "te:markets:563795",
+      "time": "2026-07-02 21:03:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rallies as Weak Jobs Data Cuts Fed Hike Odds — Silver prices climbed above $61 per ounce on Thursday, recovering from seven-month lows, as markets reduced bets on Federal Reserve rate hikes after disappointing US jobs data. The economy added just 57,000 jobs in June, the lowest in four months and far below the 110,000 forecast, with leisure and hospitality losing 61,000 jobs despite World Cup tourism. The unemployment rate unexpectedly dropped to 4.2% as workers exited the labor force, while wage growth ticked up to 3.5% year-over-year. Fed funds futures now show less than a 50% chance of a September hike, down from 67% before the report. On Wednesday, Fed Chair Kevin Warsh acknowledged easing inflation expectations but reiterated the Fed’s focus on price stability. Silver also drew support from rising oil shipments through the Strait of Hormuz and progress in indirect US-Iran talks, which lowered oil prices and further eased inflation pressures."
+    },
+    {
+      "id": "te:markets:563794",
+      "time": "2026-07-02 21:02:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "DXY Falls After Jobs Report — The US dollar index declined to 100.8 following a softer-than-anticipated employment report that led investors to scale back expectations for Federal Reserve interest rate increases this year. Nonfarm payrolls expanded by a meager 57K in June, compounded by downward revisions to hiring data from April and May. Although the unemployment rate unexpectedly ticked down to 4.2%, this shift primarily stemmed from a shrinking labor force participation rate, highlighting an overall cooling in the job market. Consequently, the market implied probability of a September rate hike dropped to nearly 50% from roughly 64% the previous day. This cautious outlook was further reinforced by Fed Chair Kevin Warsh at the ECB Forum, who noted that moderating inflation expectations have removed the immediate urgency for tightening monetary policy, even as he maintained the central bank's overarching commitment to achieving long-term price stability."
+    },
+    {
+      "id": "mkt:019f22ec-7f7c-7aab-8c7a-e93c4e92d0f4",
+      "time": "2026-07-02 21:02:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla (TSLA.O): Q2 Model 3/Y production 442,936 vehicles; deliveries 467,762 vehicles."
+    },
+    {
+      "id": "4967754",
+      "time": "2026-07-02 21:02:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉：第二季度Model 3/Y產量為442,936輛，交付量為467,762輛。"
+    },
+    {
+      "id": "4967753",
+      "time": "2026-07-02 21:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：第二季度儲能產品裝機量為13.5吉瓦時。"
+    },
+    {
+      "id": "4967752",
+      "time": "2026-07-02 21:01:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "特斯拉：第二季度交付量480126，預估396466。"
+    },
+    {
+      "id": "te:markets:563793",
+      "time": "2026-07-02 21:01:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Jumps as Weak Jobs Data Dims Fed Hike Bets — Gold prices jumped above $4,100 per ounce on Thursday, rebounding from an eight-month low, as markets scaled back expectations for Federal Reserve rate hikes following weaker-than-expected US jobs data. The economy added just 57,000 jobs in June, the fewest in four months and well below the 110,000 forecast, with leisure and hospitality shedding 61,000 jobs despite a World Cup tourism boost. The unemployment rate unexpectedly fell to 4.2% as workers left the labor force, while wage growth edged up to 3.5% year-over-year. Fed funds futures now price in less than a 50% chance of a September rate hike, down from 67% before the report. On Wednesday, Fed Chair Kevin Warsh noted easing inflation expectations but reaffirmed the central bank’s commitment to price stability. Gold also gained support from increased oil shipments through the Strait of Hormuz and progress in indirect US-Iran talks, which pushed oil prices lower and further soothed inflation concerns."
+    },
+    {
+      "id": "4967751",
+      "time": "2026-07-02 21:01:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【隆華科技：兩款靶材產品透過三星驗證並開始批次供貨】隆華科技在互動平臺表示，公司兩款用於顯示面板的靶材產品順利透過韓國三星的品質稽核和產品驗證，成功匯入其供應商名錄並開始批次供貨，海外市場拓展取得顯著突破。"
+    },
+    {
+      "id": "mkt:019f22eb-0253-7aab-8c7a-e5c9ab396ea1",
+      "time": "2026-07-02 21:00:54",
+      "tags": [
+        "MKT News",
+        "LCID.O"
+      ],
+      "text": "Lucid Group (LCID.O) appointed Raja Ramana Macha as chief technology officer and Alexander De Bock as chief financial officer."
+    },
+    {
+      "id": "mkt:019f22ea-a86f-7aab-8c7a-daae580a55b2",
+      "time": "2026-07-02 21:00:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China night session: main futures contracts opened mostly lower. SC crude oil (Shanghai contract) fell nearly 2%; alumina, PET chips, para-xylene and PTA dropped over 1%; synthetic rubber, iron ore and SHFE zinc declined about 1%. Winners included SHFE silver and LPG, up more than 2%; SHFE gold rose over 1% and coking coal advanced roughly 1%."
+    },
+    {
+      "id": "4967750",
+      "time": "2026-07-02 21:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟斥資25億美元成立新公司，助力企業落地人工智慧技術。"
+    },
+    {
+      "id": "4967749",
+      "time": "2026-07-02 21:00:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：將注資25億美元成立微軟前沿公司。"
+    },
+    {
+      "id": "4967748",
+      "time": "2026-07-02 21:00:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：羅德里戈·凱德·利馬將出任微軟前沿業務公司總裁。"
+    },
+    {
+      "id": "4967747",
+      "time": "2026-07-02 21:00:13",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至6月30日當週央行黃金和外匯儲備 7152億美元，前值7438億美元。"
+    },
+    {
+      "id": "mkt:019f22ea-58a8-7aab-8c7a-d049b0b21d58",
+      "time": "2026-07-02 21:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's central bank gold and FX reserves for the week ended June 30 were $715.2 bln, down from $743.8 bln the previous week."
+    },
+    {
+      "id": "4967746",
+      "time": "2026-07-02 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報15071.00元。"
+    },
+    {
+      "id": "4967745",
+      "time": "2026-07-02 21:00:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：加快推進產業結構躍遷升級，打造一批具有全球競爭力的世界級產業叢集】7月2日，國務院國資委黨委召開專題會議。全力以赴把黨中央決策部署付諸行動、抓出實效。要牢牢把握建設現代化產業體系的核心特質與本質要求，以更實舉措因地制宜發展新質生產力，推動國有資本“三個集中”，提升國有資本配置和執行效率；加快推進產業結構躍遷升級，打造一批具有全球競爭力的世界級產業叢集；著力鞏固產業體系韌性和安全水平，加快補齊產業基礎短板，構建安全可靠、韌性充足的產業鏈供應鏈體系。牢牢把握新一輪科技革命和產業變革的發展趨勢，以更大力度推動中央企業科技創新再上新臺階，加快打造國家戰略科技力量，加強面向產業的基礎研究，加大基礎前沿技術研發力度；加快打造開放協同創新生態，打通基礎研究、應用開發、成果轉化的創新鏈條；加快打造科技人才隊伍，加強基礎前沿和行業共性技術人才培養。"
+    },
+    {
+      "id": "mkt:019f22ea-466c-7aab-8c7a-cc6b7059ebed",
+      "time": "2026-07-02 21:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SASAC to accelerate industrial upgrading, build globally competitive industry clusters】On July 2 the State-owned Assets Supervision and Administration Commission (SASAC) held a special meeting directing faster industrial-structure upgrading and higher state-capital efficiency. It called for tailoring measures to develop new-quality productive capacity locally and to advance the 'three concentrations' of state capital to improve allocation and operating efficiency. SASAC prioritized creating several world-class, globally competitive industry clusters, strengthening industrial resilience and security, and closing gaps in industrial foundations to build secure, resilient supply chains. It instructed central SOEs to step up technology innovation, accelerate formation of national strategic science-and-technology capabilities, expand industry-facing basic research and frontier R&D, and forge an open, collaborative innovation ecosystem linking basic research, applied development and commercialization. The commission also stressed accelerating development of science-and-technology talent, especially in basic frontier areas and industry-common technologies."
+    },
+    {
+      "id": "4967744",
+      "time": "2026-07-02 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鉑連續漲5.48%，鈀連續漲2.97%，白銀連續漲2.60%，膠版印刷紙連續漲1.95%，集運指數歐線期貨連續跌1.83%。"
+    },
+    {
+      "id": "mkt:019f22ea-32dc-7aab-8c7a-c34753a5eb02",
+      "time": "2026-07-02 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jun.30) | actual 715200000000B | previous 743800000000B"
+    },
+    {
+      "id": "4967743",
+      "time": "2026-07-02 20:59:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威Gassco公司將德瓦林氣田原定於7月4日至5日進行的每日550萬立方米天然氣停產檢修提前至7月3日至4日。"
+    },
     {
       "id": "4967742",
       "time": "2026-07-02 20:59:26",
@@ -127063,151 +127337,6 @@
         "市場"
       ],
       "text": "【金價持續下跌 金店客流不增反降】受國際金價持續下跌的影響，國內品牌金飾價格同步大幅下調。6月25日，記者走訪深圳多家品牌金飾門店發現，金飾零售價已跌至年內新低，周大福首飾金報每克1222元左右，一些品牌推出滿減活動，首飾金克價低至1100元。而在深圳水貝市場，金飾的克價約1042元。而在今年1月的行情高點，水貝金飾克價曾突破1400元。資本市場的反應更為明顯。25日，A股和港股市場上的黃金概念股幾乎全線下跌。其中，老鋪黃金的股價跌幅超過8%。 有品牌金飾門店的工作人員告訴記者，雖然金價不像過去那樣“大起大落”，但最近持續震盪下跌的走勢還是影響了消費者的心理，近期金店客流不增反降，多數消費者持幣觀望，門店成交維持低位。“端午節假期幾天的生意還不錯，但這周的生意額就明顯回落了。” 隨著金價持續走低，黃金回收價也隨之下調。水貝市場的價格顯示，25日的黃金回收價格在每克855元左右。鍾經理表示，最近有不少本來就擔心黃金價格“高處不勝寒”的消費者賣掉黃金變現。（證券時報）"
-    },
-    {
-      "id": "te:economy:561900",
-      "time": "2026-06-25 21:04:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Falls to 7-Week Low — The yield on the 10-year US Treasury note fell to below 4.40% on Thursday, the lowest in seven weeks, as lower inflation concerns limited the likelihood of multiple rate hikes by the Fed this year. The core PCE price index was softer than expected in May and the headline rate increased less than expected. The results softened pro-inflationary risks as fresh oil supply from the Middle East lowered energy prices. The US and Iran signaled progress in talks after their memorandum of understanding halted the naval blockade, and tanker flows through the Strait of Hormuz picked up. Rate futures showed that market trimmed positions that reflect more than one rate hike by the Fed this year. Still, underlying inflation gauges remained elevated and both personal spending and beat expectations. Evidence of robust growth and labor backdrops maintained the outlook of a hike by the Fed, aligned with the hawkish pivot from the last FOMC projections."
-    },
-    {
-      "id": "4955304",
-      "time": "2026-06-25 21:03:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST惠倫：選舉邢越為公司董事長】ST惠倫6月25日公告，公司於2026年6月24日召開第五屆董事會第十一次會議，選舉邢越為公司第五屆董事會董事長，自邢越被選舉為公司董事長之日起，趙劍華不再擔任公司董事長。根據《公司章程》規定，公司法定代表人由趙劍華變更為邢越。公司將盡快完成法定代表人的工商變更登記工作。"
-    },
-    {
-      "id": "mkt:019efee0-c977-7dd8-b11d-5bbc8dea6c16",
-      "time": "2026-06-25 21:03:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York silver futures rose as much as 1.00% intraday to $58.68/oz; New York gold futures rose over 1.00% to $4,049.00/oz."
-    },
-    {
-      "id": "mkt:019efee0-87b0-7dd8-b11d-56e034770711",
-      "time": "2026-06-25 21:03:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver rose 2.00% intraday to $58.62/oz."
-    },
-    {
-      "id": "4955303",
-      "time": "2026-06-25 21:02:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【北大荒：股價連續三日跌幅偏離值超20% 不存在未披露重大事項】北大荒公告稱，公司股票於2026年6月23日、6月24日、6月25日連續三個交易日內收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東查證，截至公告披露日，不存在應披露而未披露的重大事項。公司生產經營正常，未發現其他可能影響股價的重大事件，相關人員在此期間無買賣公司股票情況。公司提醒投資者注意投資風險。"
-    },
-    {
-      "id": "mkt:019efee0-604f-7dd8-b11d-4da8bcfaa52d",
-      "time": "2026-06-25 21:02:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tata Communications said some customers experienced temporary operational disruptions because restoring critical systems required time."
-    },
-    {
-      "id": "4955302",
-      "time": "2026-06-25 21:02:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4049.00美元/盎司。"
-    },
-    {
-      "id": "4955301",
-      "time": "2026-06-25 21:02:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報59.10美元/盎司。"
-    },
-    {
-      "id": "4955300",
-      "time": "2026-06-25 21:02:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌重組AI程式設計突擊團隊，以在利潤豐厚的市場追趕Anthropic。"
-    },
-    {
-      "id": "4955299",
-      "time": "2026-06-25 21:02:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北大荒：控股股東稱不存在影響股價異常波動重大事項】北大荒公告稱，公司控股股東北大荒農墾集團有限公司回函表示，截至回函簽署日，不存在影響公司股票交易異常波動的重大事項，不存在涉及公司應披露而未披露的重大資訊，包括重大資產重組等，也不存在股票異常波動期間買賣公司股票的情況。"
-    },
-    {
-      "id": "mkt:019efedf-cfa7-7dd8-b11d-468dadc500cd",
-      "time": "2026-06-25 21:02:20",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC'S PAN meets Brazil finance minister Durigan】On June 25, 2026 PBOC'S PAN met Brazil finance minister Durigan to discuss international macro policy coordination and deeper bilateral financial cooperation. Both sides agreed to strengthen China‑Brazil financial ties, use the strategic financial cooperation working group to deepen investment and financing cooperation, promote bilateral use of local currencies and advance financial infrastructure connectivity. They expect China Central Depository & Clearing Co., China Foreign Exchange Trade System and Brazil's stock exchange to reach consensus on a memorandum of understanding on market cooperation. Both parties supported expanding the China‑Brazil Sustainable Development and Capacity Cooperation Fund to deploy climate and clean‑energy projects. During the meeting Pan and Durigan witnessed Brazil's finance ministry submit a panda bond issuance application to the National Association of Financial Market Institutional Investors via Bank of China."
-    },
-    {
-      "id": "4955298",
-      "time": "2026-06-25 21:02:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4030美元/盎司，日內漲0.81%。"
-    },
-    {
-      "id": "4955297",
-      "time": "2026-06-25 21:02:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報58.59美元/盎司。"
-    },
-    {
-      "id": "4955296",
-      "time": "2026-06-25 21:01:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破59美元/盎司，日內漲0.85%。"
-    },
-    {
-      "id": "4955295",
-      "time": "2026-06-25 21:01:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "Salesforce公司：Salesforce推出Agentforce幫助代理。"
-    },
-    {
-      "id": "mkt:019efede-ac77-7dd8-b11d-3cd05276f500",
-      "time": "2026-06-25 21:01:06",
-      "tags": [
-        "MKT News",
-        "TATACOMM.NS"
-      ],
-      "text": "Tata Communications said it has restored data for most affected customers."
     }
   ]
 }
