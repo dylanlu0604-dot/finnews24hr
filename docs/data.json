@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-02 23:22:02",
-  "count": 13938,
+  "updated": "2026-07-02 23:26:09",
+  "count": 13932,
   "items": [
+    {
+      "id": "4968031",
+      "time": "2026-07-02 23:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Jersey Mike's Subs 遞交IPO申請，計劃在紐交所掛牌上市。"
+    },
+    {
+      "id": "4968030",
+      "time": "2026-07-02 23:23:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "EG集團旗下坎伯蘭農場遞交美國首次公開募股申請。"
+    },
+    {
+      "id": "mkt:019f236c-bcbc-7aab-8c7f-886ba534ade5",
+      "time": "2026-07-02 23:22:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WSJ reports insiders say a US negotiator in Doha offered to unlock billions in frozen Iranian funds if Iran renounced claims to control the Strait of Hormuz and stopped charging transit fees. On Thursday Iran signaled the proposal was insufficient to change its position."
+    },
+    {
+      "id": "4968029",
+      "time": "2026-07-02 23:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：歷經八個月作戰行動，吉瓦提旅部隊完成了在黎巴嫩南部的全部任務。該旅初期沿邊境執行防禦任務，隨後深入黎巴嫩全境開展攻勢作戰。行動期間，部隊在希亞姆、賓特朱拜勒、利塔尼河以北區域及博福特山脊一帶開展行動，搗毀數百處恐怖分子基礎設施，擊斃數百名真主黨武裝人員，並搜繳各類武器逾千件。"
+    },
+    {
+      "id": "4968028",
+      "time": "2026-07-02 23:21:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秘魯多地因厄爾尼諾進入60天緊急狀態】秘魯政府2日宣佈，由於當前厄爾尼諾現象持續發展並可能引發強降雨和重大災害風險，全國多地進入為期60天的緊急狀態。秘魯政府當天釋出公告說，安卡什省、阿雷基帕省、皮烏拉省等多個省份的796個區市進入為期60天的緊急狀態。緊急狀態期間，政府將採取必要措施以降低災害風險，並開展應急處置和災後恢復工作。秘魯厄爾尼諾現象研究中心近期釋出報告說，厄爾尼諾現象在秘魯近海的影響正在持續，預計將延續至2027年夏季。厄爾尼諾現象指太平洋赤道海域海水大範圍持續異常升溫的現象，往往會引起全球多個地區氣候異常。（新華社）"
+    },
     {
       "id": "4968027",
       "time": "2026-07-02 23:20:26",
@@ -128314,110 +128355,6 @@
         "Importance 1"
       ],
       "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 17 bps — Government bonds yields are lower on Thursday. Top losers are Brazil 10Y (-17bps), Japan 10Y (-4.21bps), Germany 10Y (-0.94bps) and US 10Y (-0.10bps)."
-    },
-    {
-      "id": "4955531",
-      "time": "2026-06-25 23:25:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：非對稱風險不會讓我們傾向單邊政策調整。"
-    },
-    {
-      "id": "4955530",
-      "time": "2026-06-25 23:25:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲5月截尾平均PCE物價指數年化漲幅為+2.8%，4月為+2.4%。"
-    },
-    {
-      "id": "mkt:019eff61-eea1-7dd8-b120-4c0dcc922e9a",
-      "time": "2026-06-25 23:24:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【UBS: Micron's long-term contracts should withstand several years of market weakness】UBS analysts say Micron's long-term customer contracts are sufficiently robust, with low minimum-price floors, to survive market weakness for the next few years. UBS estimates sufficient incremental supply to breach those floors and prompt customers to consider default is unlikely before 2029 and is more likely in 2030. Micron has also taken customer prepayments UBS estimates at roughly $40–50 billion, which would provide a substantial buffer against defaults if conditions worsen."
-    },
-    {
-      "id": "4955529",
-      "time": "2026-06-25 23:24:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，法國農業信貸銀行已告知義大利政府，其計劃將所持大眾裕農銀行（Banco BPM）的股份提升至略低於30%的水平。"
-    },
-    {
-      "id": "4955528",
-      "time": "2026-06-25 23:24:00",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "惠譽評級：西非貨幣聯盟各銀行對塞內加爾風險敞口推升風險，區域層面或出臺兜底支援機制。"
-    },
-    {
-      "id": "mkt:019eff61-0754-7dd8-b120-451319321c55",
-      "time": "2026-06-25 23:23:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rallied about $30 intraday, briefly topping $4,040/oz, up 0.98% on the day."
-    },
-    {
-      "id": "4955527",
-      "time": "2026-06-25 23:22:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4040.07美元/盎司。"
-    },
-    {
-      "id": "4955526",
-      "time": "2026-06-25 23:22:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4040美元/盎司，日內漲1.03%。"
-    },
-    {
-      "id": "mkt:019eff60-689b-7dd8-b120-3d082cc3d04d",
-      "time": "2026-06-25 23:22:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures climbed above $4,050/oz, up 1.03% intraday."
-    },
-    {
-      "id": "4955525",
-      "time": "2026-06-25 23:22:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：立陶宛總統提名辛克維丘斯出任下一任總理。"
-    },
-    {
-      "id": "4955524",
-      "time": "2026-06-25 23:22:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4050美元/盎司，日內漲1.07%。"
     }
   ]
 }
