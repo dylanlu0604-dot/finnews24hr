@@ -1,7 +1,74 @@
 {
   "date": "2026-07-03",
-  "count": 16,
+  "count": 23,
   "items": [
+    {
+      "id": "4968097",
+      "time": "2026-07-03 00:10:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【業內人士：算力過剩系誤讀】據證券時報，7月2日，A股科技股大跌，半導體、算力硬體、儲存晶片等板塊跌幅較大。以科技股扎堆的“雙創板”為例，創業板指和科創綜指分別下跌5.71%和5.64%。從市場情況來看，A股科技股大跌源於Meta對外出售算力的訊息被市場解讀為算力過剩。然而，多位業內人士認為，該訊息屬於誤讀，Meta出售算力不是AI資本支出的結束，而是意味著AI基建商業模式成熟。“出售算力對Meta是利好，之前每次公司上調 AI CapEx（資本支出），市場都會擔心這些投入如何回收。現在如果Meta能將部分AI算力對外銷售，CapEx就不再只是成本，而可能變成直接收入來源。”天風證券表示，“市場此前懲罰Meta高CapEx，現在可能反過來對這部分資產進行重估。”興業證券首席策略分析師張啟堯也認為，Meta是hyperscalers中的特殊存在，toC為主的業務導致其AI變現能力主要依託廣告，其探索雲業務可以提升股東回報和現金流。（第一財經）"
+    },
+    {
+      "id": "te:markets:563857",
+      "time": "2026-07-03 00:10:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.77% Higher — The CAC 40 Index gained 148 points or 1.77 percent on Thursday to close at 8485 points. Gains were led by ArcelorMittal (6.34%), Carrefour (3.15%) and Thales (2.88%)."
+    },
+    {
+      "id": "4968096",
+      "time": "2026-07-03 00:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客2026年上半年飛機交付量約350架。"
+    },
+    {
+      "id": "4968095",
+      "time": "2026-07-03 00:08:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 新應用名為 Pocket，現已在部分地區上線。"
+    },
+    {
+      "id": "4968094",
+      "time": "2026-07-03 00:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta即將推出全新應用，內建風格分類遊戲資訊流。"
+    },
+    {
+      "id": "4968093",
+      "time": "2026-07-03 00:07:47",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【高溫疊加資料中心用電激增，美國 PJM 電網創用電峰值預期，電力成本大漲近七成】受高溫穹頂天氣、資料中心用電需求暴漲雙重因素推動，美國最大區域電網 PJM 週四全力應對創紀錄用電負荷：排程調整過載輸電線路電力流向，啟用高成本化石燃料發電機組，防止出現停電事故。PJM 預計，美國東部夏令時週四傍晚 6 時左右，近 100 華氏度（38 攝氏度）的極端高溫將打破該電網長達 20 年的用電需求紀錄。最新預測電力峰值負荷達 166.2 吉瓦，高於此前 165.6 吉瓦的歷史極值。PJM 表示現有供電能力足以應對此次負荷高峰。PJM 獨立市場監管機構最新報告顯示，耗電巨大的資料中心本週持續給電網造成壓力；今年服務 6700 萬人口的電網整體運營成本漲幅接近 70%，新增成本超 160 億美元。市場分析機構 Monitoring Analytics 測算，資料中心激增的用電需求推高批發電力成本 38 億美元，佔電網批發電力成本全年累計增幅 162.5 億美元的 23%。"
+    },
+    {
+      "id": "te:markets:563854",
+      "time": "2026-07-03 00:07:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.76% Higher — The FTSE 100 Index went up by 185 points or 1.76 percent on Thursday to close at 10663 points. The rise was led by BAE Systems (6.12%), Babcock International (5.54%) and AstraZeneca (4.94%)."
+    },
     {
       "id": "te:markets:563851",
       "time": "2026-07-03 00:06:19",
