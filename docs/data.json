@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-03 01:34:01",
-  "count": 13906,
+  "updated": "2026-07-03 01:38:01",
+  "count": 13894,
   "items": [
+    {
+      "id": "4968172",
+      "time": "2026-07-03 01:35:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "IMPERIAL METALS的股價迅速上漲，漲幅高達12%。"
+    },
     {
       "id": "4968171",
       "time": "2026-07-03 01:32:39",
@@ -128013,112 +128021,6 @@
         "國際"
       ],
       "text": "市場訊息：美國發布涉俄通用許可 131G。"
-    },
-    {
-      "id": "4955700",
-      "time": "2026-06-26 01:37:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西2025/26年度玉米出口預估為3700萬噸，低於上一年度的4170萬噸 。"
-    },
-    {
-      "id": "4955699",
-      "time": "2026-06-26 01:37:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國對與剛果民主共和國有關聯的個人和實體實施制裁。"
-    },
-    {
-      "id": "4955698",
-      "time": "2026-06-26 01:37:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國批准部分與俄羅斯企業盧克石油相關的交易。"
-    },
-    {
-      "id": "4955697",
-      "time": "2026-06-26 01:35:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室稱：美國堅決支援烏茲別克加入世界貿易組織的程序，並認可烏茲別克迄今已取得的顯著進展。"
-    },
-    {
-      "id": "mkt:019effda-0f72-7dd8-b122-e9b27700009c",
-      "time": "2026-06-26 01:35:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Office of the U.S. Trade Representative said the United States strongly supports Uzbekistan's accession to the World Trade Organization and recognizes the substantive progress it has made to date."
-    },
-    {
-      "id": "mkt:019effd9-d606-7dd8-b122-e2542024c202",
-      "time": "2026-06-26 01:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Trade Representative’s office said the United States and Uzbekistan agreed to strengthen investment cooperation and will explore measures to promote and facilitate bilateral investment."
-    },
-    {
-      "id": "4955696",
-      "time": "2026-06-26 01:35:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：美國與烏茲別克將加快談判，力爭達成一項對等貿易投資協定。"
-    },
-    {
-      "id": "4955695",
-      "time": "2026-06-26 01:35:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：美國與烏茲別克還同意加強投資合作，探索推動和促進雙邊投資的路徑。"
-    },
-    {
-      "id": "4955694",
-      "time": "2026-06-26 01:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：美國承諾在關稅行動中對烏茲別克工業產品與農產品給予優惠考慮。"
-    },
-    {
-      "id": "mkt:019effd9-538d-7dd8-b122-da961a6f30ad",
-      "time": "2026-06-26 01:34:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative (USTR) said the U.S. will give preferential consideration to Uzbekistan's industrial and agricultural products in tariff measures."
-    },
-    {
-      "id": "4955693",
-      "time": "2026-06-26 01:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：烏茲別克承諾取消或降低範圍廣泛的美國工業產品與農產品的關稅。"
-    },
-    {
-      "id": "mkt:019effd9-0b96-7dd8-b122-d3254f7fdd34",
-      "time": "2026-06-26 01:34:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "USTR said Uzbekistan has committed to eliminate or reduce tariffs on a range of U.S. industrial goods and agricultural products."
-    },
-    {
-      "id": "4955692",
-      "time": "2026-06-26 01:34:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和烏茲別克宣佈提前收穫貿易成果。"
     }
   ]
 }
