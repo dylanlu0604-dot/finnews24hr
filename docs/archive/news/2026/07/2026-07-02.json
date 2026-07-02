@@ -1,7 +1,44 @@
 {
   "date": "2026-07-02",
-  "count": 944,
+  "count": 948,
   "items": [
+    {
+      "id": "mkt:019f20b8-5954-7aab-8c6a-a0914fd245af",
+      "time": "2026-07-02 10:46:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 2.8 earthquake at 10:38 on July 2 (Beijing time) in Kangding city, Ganzi Prefecture, Sichuan; epicenter 29.91°N, 101.95°E, focal depth 7 km."
+    },
+    {
+      "id": "mkt:019f20b6-3759-7aab-8c6a-9dc5912511bb",
+      "time": "2026-07-02 10:44:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share rare-earth permanent-magnet names were active; Dadi Xiong rose more than 10%, with Jinli Permanent Magnet, Zhongke Sanhuan, Ningbo Yunsheng, Zhongke Magnetics and Galaxy Magnetics also advancing."
+    },
+    {
+      "id": "4966413",
+      "time": "2026-07-02 10:43:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟對原產於中國的聚醚多元醇發起反傾銷調查】據中國貿易救濟資訊網， 6月30日，歐盟委員會發布公告稱，應歐盟企業於2026年6月8日提出的申請，對原產於中國的聚醚多元醇發起反傾銷調查。本案傾銷調查期為2025年4月1日至2026年3月31日，損害調查期為2022年1月1日至傾銷調查期結束。"
+    },
+    {
+      "id": "4966412",
+      "time": "2026-07-02 10:42:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.00%，成分股中，三協電機漲10.53%，萬達軸承漲7.45%，華密新材漲6.74%，萬通液壓漲5.88%。"
+    },
     {
       "id": "4966411",
       "time": "2026-07-02 10:42:17",
