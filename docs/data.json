@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-03 04:25:43",
-  "count": 13800,
+  "updated": "2026-07-03 04:29:34",
+  "count": 13804,
   "items": [
+    {
+      "id": "4968271",
+      "time": "2026-07-03 04:28:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利給予海光資訊超配的初始評級，目標價480元人民幣。"
+    },
+    {
+      "id": "te:markets:563871",
+      "time": "2026-07-03 04:27:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed — US equity indices closed mixed on Thursday, as tech volatility gripped trading ahead of the holiday, despite easing concerns over rate hikes. The S&P 500 was flat and the Nasdaq 100 fell 0.8%. Stocks of chipmakers fell for a second day, as investors questioned if AI optimism had pushed valuations beyond reasonable levels. Fresh developments included reports that OpenAI was in talks to sell a 5% stake to the U.S. government, while Meta (-4.9%) said it may monetize its excess compute capacity. Micron Technology sank 7%, Applied Materials slipped 7.4%, and Advanced Micro Devices dropped 4.3%. SanDisk (-14%) and Marvell (-9.8%) tanked. Tesla fell 7.5% despite a strong deliveries report. Still, the Dow climbed 595 points to a new record high amid strength in traditional sectors."
+    },
+    {
+      "id": "4968270",
+      "time": "2026-07-03 04:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國計劃加強工作場所移民執法力度。"
+    },
+    {
+      "id": "4968269",
+      "time": "2026-07-03 04:25:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴西批准南方共同市場多項貿易協定，全面取消出口關稅】巴西又批准了另一項貿易協定。巴西政府發表宣告稱，巴西於6月30日批准了南方共同市場（Mercosur）與新加坡之間的自由貿易協定，這是該集團與東南亞國家達成的首項協議。宣告指出，該協定確保巴西對新加坡100%的出口商品實現零關稅，並將於8月1日正式生效。"
+    },
     {
       "id": "4968268",
       "time": "2026-07-03 04:23:37",
