@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-02 21:09:00",
-  "count": 13836,
+  "updated": "2026-07-02 21:13:02",
+  "count": 13834,
   "items": [
+    {
+      "id": "mkt:019f22f5-2cf8-7aab-8c7b-64699cb17899",
+      "time": "2026-07-02 21:12:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Explosion in Damascus kills four】An explosion in Syria's capital Damascus on July 2 local time killed four and injured 10."
+    },
+    {
+      "id": "4967767",
+      "time": "2026-07-02 21:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘首都大馬士革發生爆炸事件 已致4人死亡】總檯記者當地時間7月2日獲悉，敘利亞首都大馬士革當天發生爆炸事件，目前已造成4人死亡，10人受傷。另據敘利亞方面訊息，爆炸地點為一家咖啡館，爆炸原因尚不明確。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f22f3-b8ba-7aab-8c7b-59df81333700",
+      "time": "2026-07-02 21:10:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "White House: June jobs report shows U.S. labor market remains resilient."
+    },
+    {
+      "id": "mkt:019f22f3-a4dc-7aab-8c7b-57c7abf47eac",
+      "time": "2026-07-02 21:10:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Slower jobs growth reduces pressure on Fed to tighten policy】US nonfarm payrolls rose 57,000 in June, about half of economists' expectations, and May payrolls were revised down to 129,000 from 172,000, the Bureau of Labor Statistics said. The softer report led markets on Thursday to dial back expected Fed tightening; Principal Asset Management chief global strategist Seema Shah said the slowdown challenges recent labor-market recovery assumptions and reinforces that pressure on the Fed to tighten is limited. Short-term interest-rate futures now price the probability of a July rate hike below 20%, though odds of a move by September are viewed as higher."
+    },
+    {
+      "id": "4967766",
+      "time": "2026-07-02 21:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：6月就業報告顯示勞動力市場依然穩健。"
+    },
+    {
+      "id": "4967765",
+      "time": "2026-07-02 21:09:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特斯拉汽車銷量大漲 25%，大幅超出分析師預期】特斯拉公司汽車銷量大幅超出華爾街普遍保守預期，在全球插電式汽車市場增速放緩的環境下實現銷量增長。該公司第二季度全球交付新車 480126 輛。特斯拉於週四釋出公告公佈該資料，遠超媒體彙總得出的市場平均預期 396466 輛。交付量同比上漲 25%。去年同期，特斯拉執行長埃隆・馬斯克為特朗普政府開展的一系列極具爭議的工作引發大批消費者抵制。儘管銷量持續回暖，但眾多關注馬斯克動向的業內人士已不再侷限於特斯拉核心電動汽車業務，而是聚焦於馬斯克的長遠規劃：將人工智慧、自動駕駛與機器人技術打造為公司未來核心營收支柱。市場也越來越多地猜測，馬斯克或將推動特斯拉與SpaceX合併，後者上月完成了史上規模創紀錄的首次公開募股。"
+    },
+    {
+      "id": "mkt:019f22f2-6b32-7aab-8c7b-4d5d38c4552c",
+      "time": "2026-07-02 21:09:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Tonight's jobs data not purely dovish】Markets had been pricing an earlier Fed hike on several consecutive strong payroll prints; this report breaks that continuity. The unemployment rate fell while labor force participation slipped to 61.5%, implying the lower jobless rate is not unambiguously demand-driven. Wage growth paired with low unemployment makes it hard for the Fed to justify pivoting to easing on the basis of a single weak payroll print. Market takeaway: the data delays pressure for earlier hikes rather than eliminating the possibility of further rate moves."
+    },
     {
       "id": "4967764",
       "time": "2026-07-02 21:07:51",
@@ -127308,85 +127392,6 @@
         "國際"
       ],
       "text": "印度政府：已取消對液化石油氣供應的行業性供應限制。"
-    },
-    {
-      "id": "4955318",
-      "time": "2026-06-25 21:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：已將非國產包裝液化石油氣供應恢復至危機前水平。"
-    },
-    {
-      "id": "4955317",
-      "time": "2026-06-25 21:12:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫銅日內漲幅擴大至2.00%，現報13299.70美元/噸。"
-    },
-    {
-      "id": "4955316",
-      "time": "2026-06-25 21:12:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首個通訊智慧體協同開源專案OpenAN釋出】6月25日，在2026上海世界行動通訊大會期間，中國移動攜手GSMA及華為、中興等多家國際知名通訊與科技企業，正式釋出全球首個通訊智慧體協同的開源專案——OpenAN。"
-    },
-    {
-      "id": "4955315",
-      "time": "2026-06-25 21:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於7月3日在拉什莫爾山出席活動。"
-    },
-    {
-      "id": "4955314",
-      "time": "2026-06-25 21:11:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國銀行策略師質疑AI熱潮 建議關注防禦性板塊】美國銀行歐洲股票策略主管Sebastian Raedler表示，如果AI交易開始退潮，投資者應該將注意力轉向防禦性板塊。對AI能否成為一項高利潤業務，並證明其鉅額資本支出的合理性，Raedler持懷疑態度。他建議投資者關注那些此前被市場冷落的板塊，從而規避下行風險，如必需消費品和製藥行業，這些行業的底層商業邏輯依然運轉良好。“一旦客戶告訴我們不願為AI支付那麼多錢，一旦客戶將流量轉移到更便宜的模型，一旦第一家超大規模雲服務商說‘實際上，我不確定我是否在這裡創造了價值，讓我削減那個資本支出數字’，那麼許多防禦性板塊將蓄勢待發，” Raedler在接受彭博電視採訪時表示。"
-    },
-    {
-      "id": "mkt:019efee8-9c6e-7dd8-b11d-87000fa3a001",
-      "time": "2026-06-25 21:11:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "LME copper's intraday gain widened to 2.0%, trading at $13,299.70/tonne."
-    },
-    {
-      "id": "4955313",
-      "time": "2026-06-25 21:11:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：決議批准向象牙海岸撥付約8.328億美元資金。"
-    },
-    {
-      "id": "mkt:019efee7-a76f-7dd8-b11d-7a900ffa0860",
-      "time": "2026-06-25 21:10:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai silver 2608 contract rallied intraday, up 2.03% at CNY 14,349 per kg. Turnover was about CNY 13.164 billion; open interest rose by nearly 4,400 lots intraday as volume and OI activity picked up."
-    },
-    {
-      "id": "4955312",
-      "time": "2026-06-25 21:10:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "科技記者古爾曼補充蘋果更多漲價資訊：Mac Studio 漲價 500 美元，現售價 2499 美元；基礎款 iPad 449 美元，iPad mini 599 美元。"
     }
   ]
 }
