@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-02 10:03:34",
-  "count": 14020,
+  "updated": "2026-07-02 10:07:24",
+  "count": 14022,
   "items": [
+    {
+      "id": "4966346",
+      "time": "2026-07-02 10:06:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至5750.91點。"
+    },
+    {
+      "id": "4966345",
+      "time": "2026-07-02 10:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "東山精密成交額達100億元，現跌8.18%。"
+    },
+    {
+      "id": "4966344",
+      "time": "2026-07-02 10:06:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股機床工具板塊異動拉昇】亞威股份、ST匯洲觸及漲停，科德數控、國盛智科、秦川機床、紐威數控、瀋陽機床跟漲。"
+    },
+    {
+      "id": "4966343",
+      "time": "2026-07-02 10:04:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高德地圖在北京成立新智慧科技公司 註冊資本1500萬】天眼查App顯示，近日，北京高行藍隼智慧科技有限公司成立，法定代表人為劉書鵬，註冊資本1500萬人民幣，經營範圍包括軟體開發、人工智慧應用軟體開發、資訊系統整合服務、技術進出口等。股東資訊顯示，該公司由高德軟體有限公司旗下北京利通出行科技有限公司全資持股。"
+    },
+    {
+      "id": "4966342",
+      "time": "2026-07-02 10:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟銀集團擬發行新一輪公司債，發行總額上限達1.5萬億日元】軟銀集團7月2日向監管機構提交披露檔案，計劃發行新一輪針對個人或機構投資者的公司債券，發行總額度上限最高達1.5萬億日元。本次大規模募資計劃主要用於償還即將到期的既有債務、最佳化集團資本結構，併為其在AI及尖端科技領域的持續投資儲備充足的流動性資金。"
+    },
+    {
+      "id": "4966341",
+      "time": "2026-07-02 10:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賈躍亭及樂視汽車被執行3531萬】天眼查法律訴訟資訊顯示，7月1日，賈躍亭、樂視汽車（北京）有限公司新增一則被執行人資訊，執行標的3531萬餘元人民幣，執行法院為北京市第四中級人民法院。該公司成立於2014年7月，法定代表人為劉秋萍，註冊資本5000萬人民幣，經營範圍包括貨物進出口、技術進出口、代理進出口等，由法法汽車（中國）有限公司、樂視致樂科技（北京）有限公司共同持股。"
+    },
+    {
+      "id": "4966340",
+      "time": "2026-07-02 10:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019f2091-cb68-7aab-8c6a-16d3f0d078b7",
+      "time": "2026-07-02 10:04:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Do-Fluoride New Materials' A-share trading turnover hit CNY 10 bln; shares down 0.14%."
+    },
+    {
+      "id": "4966339",
+      "time": "2026-07-02 10:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "多氟多成交額達100億元，現跌0.14%。"
+    },
+    {
+      "id": "4966338",
+      "time": "2026-07-02 10:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長：投資者對韓國經濟和資本市場的需求不斷增長。"
+    },
     {
       "id": "4966337",
       "time": "2026-07-02 10:02:17",
@@ -129112,92 +129197,6 @@
         "其他"
       ],
       "text": "【2025年1月至2026年5月檢察機關提起公訴毒品犯罪4.6萬餘人】最高檢黨組成員、副檢察長苗生明介紹，2025年1月至2026年5月，全國檢察機關共批捕毒品犯罪2.9萬餘人，同比下降36%；提起公訴毒品犯罪4.6萬餘人，同比下降30%。從辦案情況看，受境外毒品滲透等多方面因素影響，新型毒品犯罪和未列管成癮性物質濫用問題突出，懲治毒品犯罪仍需持續發力。"
-    },
-    {
-      "id": "mkt:019efc87-a700-7dd8-b10a-3c3cbc899acc",
-      "time": "2026-06-25 10:06:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed XPeng Inc. (09868.HK) shares fell more than 5% on turnover exceeding HK$300 mln."
-    },
-    {
-      "id": "4953922",
-      "time": "2026-06-25 10:06:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪恩汽電等成立芯宸智算科技公司 含多項AI業務】企查查APP顯示，近日，深圳市豪恩芯宸智算科技有限公司成立，經營範圍包含：人工智慧通用應用系統；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由豪恩汽電等共同持股。"
-    },
-    {
-      "id": "4953921",
-      "time": "2026-06-25 10:05:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "DIGITALBRIDGE據悉正在探索AIMS資料中心的各種方案，包括出售的可能性，估值或達20億美元。"
-    },
-    {
-      "id": "mkt:019efc86-42c9-7dd8-b10a-30f9d315cda1",
-      "time": "2026-06-25 10:05:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "BIDU.O",
-        "Impact bullish"
-      ],
-      "text": "【Baidu consolidates Wenxin sites into unified AI portal】On June 25, Baidu said it has merged and upgraded its Wenxin-related websites into a single Baidu Wenxin site as a one-stop AI services portal, with an expanded feature matrix."
-    },
-    {
-      "id": "te:markets:561696",
-      "time": "2026-06-25 10:05:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Chinese Stocks Follow Mixed Wall Street Session — The Shanghai Composite slipped 0.3% to 4,099 on Thursday, while the Shenzhen Component advanced 1.3% to 16,251, as the two benchmarks diverged following a mixed overnight session on Wall Street. Sentiment toward artificial intelligence-related stocks improved after Micron Technology reported stronger-than-expected quarterly results and issued an upbeat revenue forecast, bolstering confidence in sustained AI-driven demand. Adding to the positive tone, Qualcomm projected annual data-center AI component sales exceeding $15 billion by fiscal 2029. Both developments helped revive investor interest in the technology sector following a recent global selloff. However, gains in technology shares were partly offset by weakness in major lenders, with Industrial and Commercial Bank of China falling 1.1%, Agricultural Bank of China losing 1.0%, China Construction Bank dropping 1.3%, and Bank of China retreating 2.0%."
-    },
-    {
-      "id": "mkt:019efc85-991e-7dd8-b10a-2998da3ca2ce",
-      "time": "2026-06-25 10:04:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01347.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Hua Hong Hongli (01347.HK) climbed above HK$200 to a fresh record high, extending its year-to-date gain to over 170%."
-    },
-    {
-      "id": "4953920",
-      "time": "2026-06-25 10:04:32",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "港股華虹宏力(01347.HK)突破200港元續刷歷史新高，年內漲幅超170%。"
-    },
-    {
-      "id": "mkt:019efc85-0cb9-7dd8-b10a-267c4c82ccb2",
-      "time": "2026-06-25 10:03:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【Mitsubishi UFJ: Thai baht, other Asian currencies pressured by US rates staying higher for longer】Mitsubishi UFJ senior FX analyst Lloyd Chan says the Thai baht and other Asian currencies are under pressure against the dollar as US interest rates are expected to remain higher for longer. He warns this is likely to create short-term downside for regional currencies, especially low-yielders, and the bank maintains a negative view on recent baht moves. Chan added that although the BOT expects stronger growth this year, concerns persist that expansion remains slow and uneven."
     }
   ]
 }
