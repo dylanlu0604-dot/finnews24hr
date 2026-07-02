@@ -1,7 +1,55 @@
 {
   "date": "2026-07-02",
-  "count": 3251,
+  "count": 3257,
   "items": [
+    {
+      "id": "mkt:019f238c-ebd6-7aab-8c80-89de406ad1d2",
+      "time": "2026-07-02 23:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said a NATO summit and other meetings will be held in the coming days, and that one of the most important outcomes should be strengthened air-defence capabilities."
+    },
+    {
+      "id": "mkt:019f238c-cbdf-7aab-8c80-80e52266ceaa",
+      "time": "2026-07-02 23:57:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy said Europe must have sufficient autonomous defense capability to counter a range of threats, including Russian ballistic missiles."
+    },
+    {
+      "id": "4968079",
+      "time": "2026-07-02 23:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 我們必須建立本土生產線。無論是在烏克蘭本土建廠，還是聯合合作伙伴在歐洲投產相關裝備，這套產能在必要時也能為美軍行動提供支撐。"
+    },
+    {
+      "id": "4968078",
+      "time": "2026-07-02 23:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：未來幾天將舉行北約峰會，還有其他多邊磋商機制，防空援助必須成為本次峰會的核心成果之一 —— 前提是北約對各盟國仍具備實際意義。歐洲必須擁有完整、充足的自主防禦能力。"
+    },
+    {
+      "id": "4968077",
+      "time": "2026-07-02 23:55:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力公司ENGIE SA在秘魯獲得四個大型輸電專案，特許經營期為30年。"
+    },
+    {
+      "id": "mkt:019f2389-6c91-7aab-8c80-7f7f75c76b10",
+      "time": "2026-07-02 23:53:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's lead negotiator said the biggest challenge for potential members of a defence bank is raising capital, so an announcement cannot yet be guaranteed."
+    },
     {
       "id": "mkt:019f2389-43a7-7aab-8c80-7742308ae7d7",
       "time": "2026-07-02 23:53:46",

@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-02 23:54:23",
+  "updated": "2026-07-02 23:58:30",
   "count": 13951,
   "items": [
+    {
+      "id": "mkt:019f238c-ebd6-7aab-8c80-89de406ad1d2",
+      "time": "2026-07-02 23:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said a NATO summit and other meetings will be held in the coming days, and that one of the most important outcomes should be strengthened air-defence capabilities."
+    },
+    {
+      "id": "mkt:019f238c-cbdf-7aab-8c80-80e52266ceaa",
+      "time": "2026-07-02 23:57:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy said Europe must have sufficient autonomous defense capability to counter a range of threats, including Russian ballistic missiles."
+    },
+    {
+      "id": "4968079",
+      "time": "2026-07-02 23:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 我們必須建立本土生產線。無論是在烏克蘭本土建廠，還是聯合合作伙伴在歐洲投產相關裝備，這套產能在必要時也能為美軍行動提供支撐。"
+    },
+    {
+      "id": "4968078",
+      "time": "2026-07-02 23:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：未來幾天將舉行北約峰會，還有其他多邊磋商機制，防空援助必須成為本次峰會的核心成果之一 —— 前提是北約對各盟國仍具備實際意義。歐洲必須擁有完整、充足的自主防禦能力。"
+    },
+    {
+      "id": "4968077",
+      "time": "2026-07-02 23:55:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力公司ENGIE SA在秘魯獲得四個大型輸電專案，特許經營期為30年。"
+    },
+    {
+      "id": "mkt:019f2389-6c91-7aab-8c80-7f7f75c76b10",
+      "time": "2026-07-02 23:53:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's lead negotiator said the biggest challenge for potential members of a defence bank is raising capital, so an announcement cannot yet be guaranteed."
+    },
     {
       "id": "mkt:019f2389-43a7-7aab-8c80-7742308ae7d7",
       "time": "2026-07-02 23:53:46",
@@ -128484,58 +128532,6 @@
         "國際"
       ],
       "text": "羅馬尼亞總統表示，他期待各政黨向他提名一個支援親歐洲的議會多數派，以批准組建少數派內閣。"
-    },
-    {
-      "id": "4955574",
-      "time": "2026-06-25 23:58:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行官員： 我們持續監測中性利率水平。"
-    },
-    {
-      "id": "4955573",
-      "time": "2026-06-25 23:57:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞總統表示，羅馬尼亞最好能在6月30日議會進入夏季休會之前組建新政府。"
-    },
-    {
-      "id": "4955572",
-      "time": "2026-06-25 23:57:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：瑞銀交易業務主管巴倫將牽頭投行人工智慧戰略工作。"
-    },
-    {
-      "id": "4955571",
-      "time": "2026-06-25 23:56:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【匈牙利國債收益率逼近英國金邊債券，親歐轉向助推市場大漲】匈牙利債券大幅上漲，收益率正逼近英國水平，這是投資者看好新政府修復經濟及加入歐元區計劃的最新跡象。該國10年期基準債券收益率已降至5.15%，與同期限英國國債的差距不到半個百分點。這一利差自3月以來已大幅收窄——當時債券持有人要求持有匈牙利福林債務比持有英國金邊債券（Gilts）需獲得2.6個百分點的額外收益率。"
-    },
-    {
-      "id": "4955570",
-      "time": "2026-06-25 23:55:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦金屬交易所（LME）公告：里昂證券（英國）自2026年6月29日星期一 起，正式以二類會員身份開始在倫敦金屬交易所開展交易業務。"
-    },
-    {
-      "id": "mkt:019eff7e-2570-7dd8-b120-f1f3f05dffb6",
-      "time": "2026-06-25 23:55:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold's intraday gain widened to 1.00%, trading at $4,041.05/oz."
     }
   ]
 }
