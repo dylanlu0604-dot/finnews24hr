@@ -1,7 +1,26 @@
 {
   "date": "2026-07-03",
-  "count": 433,
+  "count": 435,
   "items": [
+    {
+      "id": "4968337",
+      "time": "2026-07-03 06:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美東時間17:45，美國電網運營巨頭PJM Interconnection LLC在Dominion地區的實時電價飆漲至2588美元/MWh。"
+    },
+    {
+      "id": "te:markets:563888",
+      "time": "2026-07-03 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Rises by 0.90% — Top currency gainers are Japanese Yen (0.90%), South Korean Won (0.80%), Swiss Franc (0.76%), British Pound (0.55%) and Euro (0.50%). Biggest losers are Dollar Index (-0.52%) and Turkish Lira (-0.25%)."
+    },
     {
       "id": "4968336",
       "time": "2026-07-03 06:11:28",
