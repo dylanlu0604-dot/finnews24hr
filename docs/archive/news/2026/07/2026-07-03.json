@@ -1,7 +1,391 @@
 {
   "date": "2026-07-03",
-  "count": 197,
+  "count": 238,
   "items": [
+    {
+      "id": "mkt:019f2427-f0a9-7aab-8c83-20ab3ab3cf7a",
+      "time": "2026-07-03 02:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says the Dominican Republic's tax reform has reduced the fiscal impact of an oil shock."
+    },
+    {
+      "id": "4968223",
+      "time": "2026-07-03 02:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：多明尼加共和國稅制改革緩解石油衝擊帶來的財政壓力。"
+    },
+    {
+      "id": "mkt:019f2422-d43f-7aab-8c83-1880b388bec1",
+      "time": "2026-07-03 02:41:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said regional peace can be maintained only under comprehensive, inclusive conditions free of external interference."
+    },
+    {
+      "id": "mkt:019f2422-d036-7aab-8c83-15166906dce8",
+      "time": "2026-07-03 02:41:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister said U.S. Central Command has brought instability rather than security to the region, calling the answer 'obvious', and added that Iran's powerful armed forces have shown external actors cannot even protect themselves."
+    },
+    {
+      "id": "4968222",
+      "time": "2026-07-03 02:39:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：美國中央司令部給本地區帶來的是安全還是動盪？答案不言而喻。 與此同時，我國強大的武裝力量已經證明，外來勢力連自身都無法保全。 本地區的和平唯有建立在全面、包容、杜絕外部干涉的基礎之上，才能長久維繫。"
+    },
+    {
+      "id": "4968221",
+      "time": "2026-07-03 02:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "PJM電網預測：美國週四電力需求將不再攀升至歷史高位。"
+    },
+    {
+      "id": "4968220",
+      "time": "2026-07-03 02:38:00",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗：鋁價短期見底 年底有望回升至3500美元】花旗表示，預計鋁價將在未來一個月內觸底，隨後在9月至12月期間逐步回升至每噸3300至3500美元區間。 該行認為，這一判斷基於多重因素，包括美聯儲政策趨於鴿派、實際利率下降、需求前景改善以及消費天數口徑下庫存持續走低。同時，近期鋁價下跌主要反映需求弱於預期、可見庫存去化放緩、地緣政治風險緩解、投機及實物頭寸集中平倉，以及市場對未來供應增加的預期上升。 過去一個月鋁價已從約4450美元/噸下跌約20%，動搖了持續一年多的上漲行情。不過，花旗認為當前不適合做空鋁價，因為市場在近期衝擊前本就處於供應缺口狀態，而新增供應難以及時彌補需求增長。 該行還指出，市場對中東供應快速回歸的擔憂可能被誇大。"
+    },
+    {
+      "id": "mkt:019f241f-8500-7aab-8c83-0f13f1a9c859",
+      "time": "2026-07-03 02:37:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Raimondo chairs roundtable with China-invested firms in UK】On July 2 in London, Raimondo, MOFCOM minister, hosted a roundtable with more than 10 China-invested firms in the UK from financial, insurance, new energy, auto, retail and telecom sectors and leaders of the China‑Britain Chamber of Commerce. Firms reported on UK operations and sought help protecting overseas interests and expanding practical cooperation. Raimondo said China‑UK trade ties have deepened; China-invested firms have withstood international pressures, delivered solid economic results and contributed to bilateral cooperation. He urged firms to deepen cooperation in services, innovation and three‑way projects, strengthen self-discipline and orderly competition, protect the overall image of Chinese firms, and improve international operating standards and risk-management capabilities."
+    },
+    {
+      "id": "mkt:019f241f-3ecb-7aab-8c83-06dd194b20b0",
+      "time": "2026-07-03 02:37:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: aluminum likely to bottom near term, seen rising to $3,300–3,500/t in Sep–Dec】Citigroup expects aluminum to bottom within the next month and to recover to $3,300–3,500/ton during Sep–Dec. The call is based on a more dovish Fed outlook, falling real rates, an improving demand outlook and inventories declining on a consumption‑days basis. The bank says the recent ~20% drop from about $4,450/t over the past month largely reflected weaker-than-expected demand, slower visible inventory draws, easing geopolitical risk, concentrated liquidations of speculative and physical positions, and rising expectations of future supply increases. Citigroup warns conditions do not favor shorting: the market was in a supply deficit before the recent shock and new supply is unlikely to close the gap quickly. It also says concerns about a rapid return of Middle East supply may be overstated."
+    },
+    {
+      "id": "4968219",
+      "time": "2026-07-03 02:35:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "ElevenLabs正洽談要約收購事宜，企業估值達2200億美元。"
+    },
+    {
+      "id": "4968218",
+      "time": "2026-07-03 02:35:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：王文濤部長主持召開在英中資企業圓桌會】當地時間7月2日，商務部部長王文濤在倫敦主持召開在英中資企業圓桌會。來自金融、保險、新能源、汽車、零售、電信等領域的十多家在英中資企業負責人和英國中國商會負責人參加會議，介紹在英業務情況，並就維護企業海外利益、拓展務實合作等提出具體訴求。王文濤表示，近年來，中英經貿關係不斷深化，成為中英關係的壓艙石和推進器。面對風雲變幻的國際形勢，在英中資企業頂住壓力，深耕英國市場，取得了良好經濟效益，為中英經貿合作作出了積極貢獻。展望未來，兩國企業可繼續在服務業、創新、三方合作等領域深化合作。希望在英中資企業加強自律，有序競爭，維護好中國企業整體形象，同時提高國際化經營水平，提升風險防範意識和能力。"
+    },
+    {
+      "id": "mkt:019f2419-d855-7aab-8c82-fa794876fd68",
+      "time": "2026-07-03 02:31:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US Treasury said it and the IRS will accept donations of shares from large publicly listed companies to support the \"Trump Accounts\" children's financial accounts plan."
+    },
+    {
+      "id": "4968217",
+      "time": "2026-07-03 02:31:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收漲0.11美元，漲幅0.16%，報68.69美元/桶。NYMEX 8月天然氣期貨收報3.1960美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9173美元/加侖，NYMEX 8月取暖油期貨收報3.1822美元/加侖。"
+    },
+    {
+      "id": "mkt:019f2419-7488-7aab-8c82-f2982924aa9c",
+      "time": "2026-07-03 02:31:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At 02:30, Shanghai gold main contract closed up 1.18% at 901 yuan/gram; Shanghai silver main contract closed up 1.53% at 14,850 yuan/kg; SC crude oil main contract closed up 0.05% at 442 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f2419-62cc-7aab-8c82-e9b718f6c5d2",
+      "time": "2026-07-03 02:31:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.23% at 898.0 yuan/gram in Thursday (July 2) evening trade; SGE silver T+D closed up 1.59% at 14,810.0 yuan/kg."
+    },
+    {
+      "id": "4968216",
+      "time": "2026-07-03 02:31:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶68.69美元，上漲11美分，漲幅0.16%。"
+    },
+    {
+      "id": "4968215",
+      "time": "2026-07-03 02:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "美、布兩油日內均漲超1%，現分別報68.72美元/桶和71.98美元/桶。"
+    },
+    {
+      "id": "mkt:019f2418-66d4-7aab-8c82-e04b1c1f1d67",
+      "time": "2026-07-03 02:30:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent both rose more than 1% intraday, trading at $68.72/bbl and $71.98/bbl respectively."
+    },
+    {
+      "id": "te:markets:563868",
+      "time": "2026-07-03 02:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates largely by 5.79% — Top crypto gainers are Ether (5.79%), Bitcoin (2.94%) and Binance (1.92%)."
+    },
+    {
+      "id": "4968214",
+      "time": "2026-07-03 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.05%，報441.80元人民幣/桶。滬金夜盤收漲1.18%，滬銀收漲1.53%。"
+    },
+    {
+      "id": "mkt:019f2417-192f-7aab-8c82-d91d8856f65b",
+      "time": "2026-07-03 02:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Algeria holds vote for People's National Assembly】Algeria held parliamentary voting on July 2; 24.7 mln registered voters were eligible. 9,854 candidates contested 407 seats in the People's National Assembly; women accounted for 21% of candidates and 54% were under 40. Algeria's parliament comprises the People's National Assembly (lower house) and the Council of the Nation (upper house); lower‑house deputies are elected by universal suffrage for five‑year terms."
+    },
+    {
+      "id": "4968213",
+      "time": "2026-07-03 02:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "倫交所理柏（LSEG Lipper）：7月1日當週，美國時政債券基金獲得17億美元投資者資金流入。"
+    },
+    {
+      "id": "4968212",
+      "time": "2026-07-03 02:27:48",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部：今日，美國財政部與美國國稅局邁出關鍵一步，助力美國兒童的未來發展，允許社會各界將具備高流通性的上市公司大額公益捐贈股票存入特朗普賬戶。 這項政策完全契合惠益家庭、提振經濟、造福美國民眾的定位，能夠保障下一代擁有實實在在的經濟發展機遇，而非空洞的承諾。"
+    },
+    {
+      "id": "4968211",
+      "time": "2026-07-03 02:26:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "賓堡美國烘焙公司將在2026年底前完成甜烘焙食品與零食的人工色素去除工作。"
+    },
+    {
+      "id": "mkt:019f2414-f5f4-7aab-8c82-d6b86107b7ce",
+      "time": "2026-07-03 02:26:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil will meet its 2026 fiscal target without additional measures, the planning minister said."
+    },
+    {
+      "id": "mkt:019f2414-f0ba-7aab-8c82-cf8a108e5c6e",
+      "time": "2026-07-03 02:26:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's planning minister said the government may partially ease a 23.7 billion reais cap on budget spending this month."
+    },
+    {
+      "id": "mkt:019f2414-8e02-7aab-8c82-c4d046749b67",
+      "time": "2026-07-03 02:25:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Brazil's planning minister said the government may abolish the tax on oil exports this month or cut it to below 12%."
+    },
+    {
+      "id": "mkt:019f2414-8d2d-7aab-8c82-ba1b760c5760",
+      "time": "2026-07-03 02:25:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's planning minister says government spending pressures show no significant signs of easing."
+    },
+    {
+      "id": "mkt:019f2414-59ce-7aab-8c82-b16d47e06f7b",
+      "time": "2026-07-03 02:25:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazil's planning minister said the pace of diesel subsidy removal will be slower than for gasoline to avoid sharp price swings and supply risks."
+    },
+    {
+      "id": "mkt:019f2414-4195-7aab-8c82-ad482f5e30cf",
+      "time": "2026-07-03 02:25:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ICI: US money market fund assets reached a record $7.95 trillion."
+    },
+    {
+      "id": "mkt:019f2414-3af4-7aab-8c82-a60d0590c19e",
+      "time": "2026-07-03 02:25:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning minister said the dividend tax shortfall will be offset by stronger revenues in other areas."
+    },
+    {
+      "id": "te:markets:563867",
+      "time": "2026-07-03 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 3.32% — Top commodity gainers are Oat (3.32%) and Corn (0.77%). Biggest losers are Rubber (-2.97%), Coffee (-2.50%) and Cocoa (-1.47%)."
+    },
+    {
+      "id": "4968210",
+      "time": "2026-07-03 02:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西計劃部長表示，為避免價格衝擊與供應風險，柴油補貼的退出節奏將慢於汽油補貼。"
+    },
+    {
+      "id": "4968209",
+      "time": "2026-07-03 02:24:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西部長：石油出口稅或於本月取消，或降至12%以下。"
+    },
+    {
+      "id": "4968208",
+      "time": "2026-07-03 02:24:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西部長：巴西無需額外措施即可實現2026財年目標。"
+    },
+    {
+      "id": "4968207",
+      "time": "2026-07-03 02:23:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西經濟：237億雷亞爾的預算支出凍結或於本月部分解凍。"
+    },
+    {
+      "id": "mkt:019f2411-27c8-7aab-8c82-9ec8d1646e50",
+      "time": "2026-07-03 02:22:11",
+      "tags": [
+        "MKT News",
+        "BX.N"
+      ],
+      "text": "Market sources: Blackstone (BX.N)'s QTS unit has canceled plans to build a hyperscale data center in Virginia, US."
+    },
+    {
+      "id": "4968206",
+      "time": "2026-07-03 02:22:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "‌【黑石集團旗下QTS放棄弗吉尼亞州大型資料中心專案‌】黑石集團旗下的QTS正放棄其在弗吉尼亞州一處資料中心園區的建設規劃，為多年來持續反對該專案的當地居民送上了一場勝利。這家資料中心開發商原本計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，打造為全球規模最大科技走廊之一的核心組成部分。據知情人士透露，受近期相關司法判決與不斷疊加的監管障礙影響，QTS管理層最終判定繼續推進相關訴訟已無實際價值。"
+    },
+    {
+      "id": "te:economy:563866",
+      "time": "2026-07-03 02:20:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Annual Inflation Eases in June — Paraguay’s annual inflation eased to 2.1% in June 2026 from 2.4% in May, moving further below the central bank’s target of 3.5%. Price pressures remained strongest in restaurants and hotels, which rose 8.6% year-on-year, followed by education (5.9%), recreation and culture (2.9%), and food and non-alcoholic beverages (2.2%). In contrast, transport prices fell 1.2%, helping to contain the overall inflation rate. On a monthly basis, consumer prices declined 0.3%, reversing a 0.1% increase in May. Meanwhile, core inflation, which excludes more volatile items, slowed to 1.7% from 1.9%, pointing to softer underlying price pressures."
+    },
+    {
+      "id": "4968205",
+      "time": "2026-07-03 02:20:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【學者警告：伊朗正將霍爾木茲海峽控制常態化】據半島電視臺報道，倫敦國王學院安全研究講師羅布·蓋斯特·平福德表示，儘管美國推動恢復正常航運並達成諒解備忘錄，伊朗在霍爾木茲海峽的實際控制力不僅未被削弱，反而在衝突後進一步增強。他指出，戰前該海峽每日約有125艘船通行，但即便在近期外交努力之後，航運流量仍明顯低於這一水平。平福德認為，海灣國家早在衝突前就已尋求替代貿易路線，戰爭後相關趨勢進一步加速，但伊朗透過持續行動“創造既成事實”，鞏固了其在該關鍵航道的影響力。他強調，伊朗正在加深對海峽的戰略嵌入，使航運公司在現實操作中“別無選擇，只能適應”新的格局。"
+    },
     {
       "id": "te:markets:563865",
       "time": "2026-07-03 02:20:03",
@@ -102,6 +486,14 @@
         "國際"
       ],
       "text": "【倫敦股市2日上漲】英國倫敦股市《金融時報》100種股票平均價格指數2日報收於10652.87點，較前一交易日上漲174.53點，漲幅為1.67%。歐洲三大股指當天全線上漲。當天倫敦股市成分股中位於漲幅前五位的個股分別為：企業服務外包商巴布科克國際股價上漲5.54%，貝宜系統公司股價上漲5.45%，阿斯利康製藥公司股價上漲4.94%，投資公司梅爾羅斯工業公司股價上漲4.92%，金融投資公司聖詹姆斯廣場股價上漲4.08%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：極地資本科技信託公司股價下跌3.55%，體育博彩公司恩坦股價下跌2.14%，資訊科技服務公司康普塔森特股價下跌1.95%，約翰-戴維運動時裝公司股價下跌1.33%，保險及金融投資公司保誠集團股價下跌1.25%。"
+    },
+    {
+      "id": "4968196",
+      "time": "2026-07-03 02:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿爾及利亞舉行議會選舉】阿爾及利亞議會2日舉行選舉，超2470萬名阿爾及利亞登記選民參與投票。本次選舉共有9854名候選人角逐國民議會（眾議院）的407個席位。在所有候選人中，女性佔21%，40歲以下候選人佔54%。（新華社）"
     },
     {
       "id": "mkt:019f2400-9a4f-7aab-8c82-8dc2a74515e5",
