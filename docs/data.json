@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-02 10:54:40",
-  "count": 14021,
+  "updated": "2026-07-02 10:58:41",
+  "count": 14025,
   "items": [
+    {
+      "id": "mkt:019f20c2-f030-7aab-8c6a-d22fcf986317",
+      "time": "2026-07-02 10:57:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【OCBC cuts oil forecasts as Strait of Hormuz flows recover】OCBC Group Research cut its quarterly Brent forecasts through Q2 2027 after shipping and crude flows in the Strait of Hormuz rebounded following a US‑Iran memorandum of understanding. OCBC said market expectations of supply normalization have pushed prices back toward pre‑conflict levels and rekindled supply‑glut concerns. Revised Brent forecasts: 2026 Q3 $75/bbl (prev. $85), 2026 Q4 $75/bbl (prev. $80), 2027 Q1 $73/bbl (prev. $75), 2027 Q2 $71/bbl (prev. $75)."
+    },
+    {
+      "id": "4966432",
+      "time": "2026-07-02 10:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葡萄牙釋出國家人工智慧大模型“阿馬利婭”】葡萄牙政府1日釋出國家人工智慧（AI）大模型“阿馬利婭”，並宣佈追加投資150萬歐元，使專案總投資增至700萬歐元。新增資金將用於支援大模型迭代和自主人工智慧基礎設施建設。據葡萄牙盧薩通訊社報道，“阿馬利婭”是一款以葡萄牙語為核心的大語言模型，開發歷時18個月，未來將應用於教育、國防、文化、醫療衛生和政務服務等領域。"
+    },
+    {
+      "id": "4966431",
+      "time": "2026-07-02 10:57:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用人工智慧公司VAST完成超10億元A3輪融資】7月2日，通用人工智慧公司VAST（三啟萬物）宣佈，其於本月再次完成超10億人民幣A3戰略輪融資。本輪融資由吉利資本等產業方，四三九九、貪玩遊戲、巨人網路等遊戲廠商，某知名網際網路戰投，亦莊國投、基石資本、毅達資本、成都科創投、復星創富、華控基金、錫創投、慕華科創、策源資本等投資機構及地方產業基金聯合參投。老股東渶策資本、元生資本持續追投。本輪融資完成後，公司將繼續加大力度，持續投入AI 3D大模型與世界模型的核心演算法迭代、資料沉澱與頂尖人才引進，同時加速全球市場商業化佈局與產業生態構建。"
+    },
+    {
+      "id": "4966430",
+      "time": "2026-07-02 10:57:24",
+      "tags": [
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【日本債券6月份遭遇2023年以來最大規模資金外流】根據日本財務省週四公佈的初步投資組合流動資料，預計上個月海外投資者拋售了自2023年以來數量最多的日本債券。資料顯示，6月份外資流出總額為3.12萬億日元（約合192億美元）。 該資料未提供債券型別或投資者所在地的細分資訊。根據單獨的月度資料和國際收支資料，這是自2023年1月以來最大的資金外流。大量贖回可能導致了資金外流。日本財務省資料顯示，6月份到期的日本政府債券總額達22.1萬億日元。"
+    },
+    {
+      "id": "mkt:019f20c2-2933-7aab-8c6a-cbf4a12fb0a5",
+      "time": "2026-07-02 10:57:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Finnish Defence Forces say Finland has established a temporary flight restriction zone in the eastern Gulf of Finland."
+    },
+    {
+      "id": "4966429",
+      "time": "2026-07-02 10:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4966428",
+      "time": "2026-07-02 10:56:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲5%，現報401.20元。"
+    },
+    {
+      "id": "4966427",
+      "time": "2026-07-02 10:54:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【庫迪高科技（安徽）有限公司增資至1億，增幅900%】天眼查App顯示，6月29日，庫迪高科技（安徽）有限公司發生工商變更，王亮卸任法定代表人、董事、經理，張鈞接任法定代表人、董事，方存澤接任經理，新增庫蜂智慧科技（貴州）有限公司為股東，同時，註冊資本由1000萬人民幣增至1億人民幣，增幅900%。該公司成立於2023年12月，經營範圍包括科技中介服務、餐飲管理、食品銷售等。股東資訊顯示，該公司現由庫迪供應鏈（集團）有限公司及上述新增股東共同持股。"
+    },
     {
       "id": "4966426",
       "time": "2026-07-02 10:54:00",
@@ -129134,42 +129207,6 @@
         "公司"
       ],
       "text": "【深圳天使母基金、昭衍新藥等成立種子創投合夥企業】企查查APP顯示，近日，深圳市倚鋒明遠種子創業投資合夥企業（有限合夥）成立，出資額約1.28億元，經營範圍包含：以自有資金從事投資活動；創業投資。企查查股權穿透顯示，該合夥企業由深圳市天使投資引導基金有限公司、昭衍新藥(603127)全資子公司北京昭衍管理科技有限公司等共同持股。"
-    },
-    {
-      "id": "4953996",
-      "time": "2026-06-25 10:57:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭蘭峰：“胖東來現象”反映居民對最佳化消費環境的訴求】6月25日，中國經濟體制改革研究會會長郭蘭峰在2026夏季達沃斯論壇上表示，擴大消費要最佳化消費環境。“為什麼會出現‘胖東來現象’？我想是因為他們商場的價格比較合理、產品質量有保障。”郭蘭峰表示，“胖東來現象”一定程度反映出居民對最佳化消費環境的訴求。"
-    },
-    {
-      "id": "te:economy:561711",
-      "time": "2026-06-25 10:57:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Nears 3-Week Low — China’s 10-year government bond yield fell to around 1.73% on Thursday, approaching its lowest level in three weeks, as plans by the People's Bank of China to introduce overnight reverse repo operations raised expectations of easier liquidity conditions. The PBOC said it will conduct overnight reverse repo operations on June 29–30, providing fixed-rate overnight liquidity to better meet short-term funding needs in the banking system. The new overnight rate will complement the existing 7-day rate of 1.4%, aligning the PBOC’s policy framework more closely with global peers. The move follows Governor Pan Gongsheng’s remarks at the Lujiazui Forum, where he signaled plans to expand overnight operations. Meanwhile, China launched marketing for up to €5 billion ($5.7 billion) of euro-denominated sovereign bonds, which could be its largest euro issuance on record, with initial price guidance set at 15, 22, and 33 basis points over mid-swaps for the 5-, 8-, and 12-year tranches, respectively."
-    },
-    {
-      "id": "4953995",
-      "time": "2026-06-25 10:55:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國貿促會副會長李慶霜率團出席上合組織實業家委員會理事會會議等系列活動】6月23日至25日，中國貿促會副會長李慶霜率團赴吉爾吉斯斯坦出席上合組織實業家委員會理事會會議和上合組織投資與商務論壇併發言，與上合組織政商界代表就深化區域產供鏈協同合作、推動地方交流、拓展務實合作空間等進行交流。"
-    },
-    {
-      "id": "mkt:019efcb3-ddc9-7dd8-b10b-1a41e11efbc9",
-      "time": "2026-06-25 10:55:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The State Department’s deputy assistant secretary for foreign assistance said the US will deploy search-and-rescue teams and deliver medical and humanitarian supplies to Venezuela."
     }
   ]
 }
