@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-02 11:31:22",
-  "count": 14005,
+  "updated": "2026-07-02 11:35:19",
+  "count": 14003,
   "items": [
+    {
+      "id": "mkt:019f20e4-ab05-7aab-8c6b-5705a1008057",
+      "time": "2026-07-02 11:34:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, NVIDIA is offering financing for GPU purchases and taking a percentage share of cloud computing revenue."
+    },
+    {
+      "id": "4966476",
+      "time": "2026-07-02 11:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟與新加坡Lightstorm合作建設印度-東南亞海底電纜。"
+    },
+    {
+      "id": "te:economy:563619",
+      "time": "2026-07-02 11:34:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Rises from 4-Month Lows — Australia’s 10-year government bond yield rose above 4.8%, climbing off from four-month lows as markets continued to wager on near-term US rate hikes, while paring back expectations for further tightening at home. The sharp de-escalation of the Middle East conflict and the reopening of the Strait of Hormuz drove oil prices back to pre-war levels, easing inflation risks and prompting markets to scale back expectations for further rate hikes in Australia. An August move by the Reserve Bank is now priced in at just 15% chance, while markets see a 50% probability that the tightening cycle has ended. Meanwhile, bond markets came under pressure after US Treasury yields surged as investors increased bets on a Federal Reserve rate hike ahead of Thursday's crucial jobs report, with a September move now almost fully priced in. This came despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month."
+    },
+    {
+      "id": "4966475",
+      "time": "2026-07-02 11:33:34",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【午評：創業板指低開低走跌3.47% 貴金屬、化工等傳統行業逆市走強】截至午盤，上證指數跌0.9%，深證成指跌2.09%，創業板指跌3.47%，北證50漲2.79%。貴金屬板塊走高，招金黃金、山金國際、赤峰黃金漲停，西部黃金、中金黃金、曉程科技、山東黃金、紫金礦業跟漲。海南自貿區概念逆勢走高，海南海藥4連板，海馬汽車、欣龍控股、海南瑞澤漲停，新大洲A、海南礦業、中稀有色、雙成藥業、康芝藥業跟漲。稀土永磁板塊震盪走強，爭光股份、東方鋯業盤中創新高，赤峰黃金漲停，大地熊漲超10%，瑞晨環保、寧波韻升、奔朗新材、金力永磁、杭華股份跟漲。儲存晶片板塊持續走弱，北方華創觸及跌停，中科飛測、微導奈米、珂瑪科技、華海清科、神工股份跌超10%，深科技、賽騰股份、精測電子、江豐電子、利和興跟跌。元件板塊低開低走，東山精密觸及跌停，三環集團、風華高科、四會富仕、法拉電子、一博科技跟跌。"
+    },
+    {
+      "id": "4966474",
+      "time": "2026-07-02 11:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達將為GPU採購提供財務擔保，並從雲服務收入中抽成。"
+    },
+    {
+      "id": "4966473",
+      "time": "2026-07-02 11:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達據悉將從部分客戶的雲收入中抽取分成。"
+    },
+    {
+      "id": "mkt:019f20e1-b1bc-7aab-8c6b-49a55e6f7e88",
+      "time": "2026-07-02 11:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Xiamen Tungsten subsidiary halts production after China Molybdenum suspends tailings supply】On July 1 evening Xiamen Tungsten’s subsidiary Luoyang Yulu Mining effectively halted production after upstream partner China Molybdenum suspended deliveries of tungsten-bearing tailings. China Molybdenum said the pause reflects national compliance requirements for tungsten mining and that Luoyang Yulu’s shareholders have not agreed a handling plan, so the company stopped tailings supply to ensure regulatory compliance. Industry sources note tungsten is managed as a strategic metal under quota and export controls and that tailings are being reclassified; supplying tungsten-containing tailings to Luoyang Yulu could therefore raise quota, resource-flow or mining-rights compliance issues."
+    },
+    {
+      "id": "mkt:019f20e1-7eaf-7aab-8c6b-4444c719b209",
+      "time": "2026-07-02 11:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Index futures morning session close】China equity index futures morning session: CSI 300 (IF) front contract down 1.29%, SSE 50 (IH) front contract down 1.46%, CSI 500 (IC) front contract down 1.05%, CSI 1000 (IM) front contract down 0.16%."
+    },
+    {
+      "id": "mkt:019f20e1-70da-7aab-8c6b-3bcdd11b3b51",
+      "time": "2026-07-02 11:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures morning session close】2-year government bond futures (TS) main contract rose 0.02% at the morning close; 5-year (TF) up 0.06%; 10-year (T) up 0.07%; 30-year (TL) up 0.06%."
+    },
+    {
+      "id": "4966472",
+      "time": "2026-07-02 11:31:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能在盤前拋售美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:019f20e1-329b-7aab-8c6b-34a23528177b",
+      "time": "2026-07-02 11:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the morning session close, China’s most-active futures were mixed with losses dominant. Shanghai crude (SC) slid over 5%; LPG and paraxylene fell more than 4%; PTA, fuel oil and methanol dropped over 3%; bitumen and synthetic rubber were down about 3%. Gains: platinum rose over 5%, palladium nearly 3%, Shanghai silver up more than 2%; rapeseed meal, Shanghai gold, lithium carbonate and soybean meal gained over 1%, rapeseed up about 1%."
+    },
     {
       "id": "4966471",
       "time": "2026-07-02 11:30:37",
@@ -128890,129 +129004,6 @@
         "MKT News"
       ],
       "text": "Thailand's Ministry of Commerce said May customs-cleared trade deficit was $5.71 bln, versus a Reuters survey estimate of a $6.12 bln deficit."
-    },
-    {
-      "id": "mkt:019efcd8-79b1-7dd8-b10b-e15cbeed58e3",
-      "time": "2026-06-25 11:35:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "【A-share midday: STAR 50 Index +4.18% as storage chips, brokers lead gains】Chinese A-shares at midday: Shanghai Composite +0.36%, Shenzhen Composite +1.46%, ChiNext +2.01%, STAR 50 +4.18%. Storage-chip names triggered a wave of limit-ups, including Taiji Industrial. Securities stocks rallied; Zhongxin Jiantou and Changjiang Securities hit limit-up. Also outperforming: optical communications, baijiu, insurance, construction machinery and warehousing/logistics. Underperforming: lithium, innovative drugs, oil, nonferrous metals and power. Market turnover in the first half-day exceeded 2.4 trillion yuan."
-    },
-    {
-      "id": "4954053",
-      "time": "2026-06-25 11:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "天邑股份6月25日在互動平臺表示，公司在CPO領域目前沒有應用技術。"
-    },
-    {
-      "id": "mkt:019efcd7-fb36-7dd8-b10b-dc501a1298df",
-      "time": "2026-06-25 11:34:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's Ministry of Commerce said May imports, on a customs-based measure, rose 35.1% YoY, versus a REUTERS SURVEY estimate of 35.0%."
-    },
-    {
-      "id": "4954052",
-      "time": "2026-06-25 11:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國5月經清關核算貿易逆差為57.1億美元。"
-    },
-    {
-      "id": "mkt:019efcd7-5423-7dd8-b10b-d054aec850e0",
-      "time": "2026-06-25 11:33:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's Commerce Ministry said May exports based on customs data rose 10.6% YoY, below a REUTERS SURVEY estimate of 12.0%."
-    },
-    {
-      "id": "mkt:019efcd7-413a-7dd8-b10b-c806b004095b",
-      "time": "2026-06-25 11:33:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japanese businesses send 10 delegations to China】The fourth Chain Expo was held in Beijing June 22–26. Japan sent the largest number of Asian delegations, dispatching 10 economic groups to China, including Keidanren (Japan Business Federation), the Japan Chamber of Commerce and Industry and the Kansai Economic Federation. Keidanren is Japan’s largest and most influential comprehensive business group, with core members spanning leading firms across sectors; the Japan Chamber is one of the country’s largest nationwide business organizations; the Kansai federation represents the Kansai region, Japan’s second-largest economic area. Collectively the 10 delegations cover broad segments of Japan’s corporate network."
-    },
-    {
-      "id": "mkt:019efcd7-3864-7dd8-b10b-c7b4404f80fd",
-      "time": "2026-06-25 11:33:43",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "7203.T",
-        "7201.T"
-      ],
-      "text": "【Yen slide to 40-year low may add ¥934bn (≈$5.8bn) to Japanese automakers' profits】Yen weakness, despite policy efforts to halt the fall, could lift aggregate profits at Japanese automakers by about ¥934bn (≈$5.8bn) if the currency stays near current levels. Toyota’s May guidance assumes $1=¥150 versus the current ~¥161; Toyota estimates each ¥1 depreciation boosts its operating profit by ¥50bn, implying a substantial benefit from continued yen weakness. Other OEM assumptions are more conservative: Honda $1=¥145, Nissan $1=¥150, Subaru and Mazda $1=¥155. In yuan terms of input costs, raw material and energy prices in yen have fallen more than 30% from late‑April peaks after the US‑Iran peace agreement. Analyst Tatsuo Yoshida says the recent developments could be materially positive for firms that already factored Middle East risks into forecasts and that lower gasoline prices may help consumer confidence and support vehicle demand."
-    },
-    {
-      "id": "4954051",
-      "time": "2026-06-25 11:33:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國商務部公佈資料：5月經清關進口額同比增長35.1%，預期為增長35%。"
-    },
-    {
-      "id": "4954050",
-      "time": "2026-06-25 11:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鏈博會期間日本企業組了10個團訪華】6月22日至26日，第四屆鏈博會在京舉行，譚主獲取了此次訪華的日本訪問團名單。譚主獲悉，本屆鏈博會中，日本是亞洲國家裡團組數量最多的。 日方共有10個經濟團組來華，包括日本經濟團體聯合會（經團聯）、日本商工會議所等。經團聯是日本規模最大、最具權威的綜合性經濟團體，核心會員幾乎囊括了日本所有領域的頭部企業；日本商工會議所是日本規模最大的全國性工商組織之一；而關西經濟聯合會所代表的關西地區是日本第二大經濟圈。可以說，這10個團體廣泛覆蓋了日本社會企業網路的方方面面。 其實，由約200名商界領袖組成的日本經濟界代表團年初曾計劃訪華，卻因高市早苗涉臺錯誤言論的影響，被一再推遲。日本企業一等再等，索性自己尋找交流的方法。 在鏈博會現場，譚主也和日本商界人士聊了聊。日本貿易振興機構中國東北亞地區總代表小野寺修表示：“各企業來訪是為了在中日關係困難的時候，維持與中國商界的關係，瞭解中國當前的形勢。”國際貿促會副會長秦喜秋也直言：“失去中國，日本也無法存在。” 此次鏈博會，日本企業“用腳投票”恰恰說明，高市早苗的對華“脫鉤”完全不得人心。（玉淵譚天）"
-    },
-    {
-      "id": "mkt:019efcd6-2f03-7dd8-b10b-bb19d010c1c9",
-      "time": "2026-06-25 11:32:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's 10-year benchmark government bond yield fell to its lowest level since March 20."
-    },
-    {
-      "id": "mkt:019efcd5-4256-7dd8-b10b-b11ece4c2df3",
-      "time": "2026-06-25 11:31:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Index futures morning session close】Index futures morning session close: CSI 300 futures (IF) front contract +1.63%; SSE 50 futures (IH) front contract +1.49%; CSI 500 futures (IC) front contract +0.62%; CSI 1000 futures (IM) front contract +0.06%."
-    },
-    {
-      "id": "4954049",
-      "time": "2026-06-25 11:31:30",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點",
-        "A股"
-      ],
-      "text": "【午評：科創50指數漲超4%站上2000點，大金融、算力硬體板塊集體走強】三大指數早盤集體上漲，截至午盤，上證指數漲0.36%，深證成指漲1.46%，創業板指漲2.01%，北證50跌0.99%，科創50指數漲4.18%。全市場成交額24388億元，較上日放量3390億元，全市場4300只個股下跌。板塊題材上，機場航運、保險、證券、白酒、元件、遊戲、儲存晶片、PCB概念股漲幅居前；貴金屬、教育、PEEK材料、農化製品、染料、軟體開發板塊跌幅居前。盤面上，儲存晶片巨頭美光科技公佈的財報大超預期推動算力硬體板塊繼續走強，中微半導、太龍股份、長電科技、太極實業、盛視科技等10餘股漲停。硬科技IPO紅利釋放，券商股盤中再度拉昇，長江證券漲停，中信建投、財達證券漲幅居前。多家名酒企業釋出調價通知，白酒板塊盤中異動拉昇，酒鬼酒直線漲停。此外，遊戲、機場航運、超級電容等板塊均有表現。另一方面，隔夜國際金價失守4000美元/盎司，貴金屬板塊集體走低，興業銀錫、山金國際、紫金礦業領跌板塊。ST板塊同樣表現低迷，ST雪浪、*ST航圖盤中大跌超10%。"
-    },
-    {
-      "id": "mkt:019efcd5-1633-7dd8-b10b-a961d08162d1",
-      "time": "2026-06-25 11:31:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures morning session close】2-year bond futures (TS) main contract up 0.02%; 5-year (TF) up 0.05%; 10-year (T) up 0.10%; 30-year (TL) up 0.41%."
     }
   ]
 }

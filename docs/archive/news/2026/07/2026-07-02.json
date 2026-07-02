@@ -1,7 +1,121 @@
 {
   "date": "2026-07-02",
-  "count": 1023,
+  "count": 1034,
   "items": [
+    {
+      "id": "mkt:019f20e4-ab05-7aab-8c6b-5705a1008057",
+      "time": "2026-07-02 11:34:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, NVIDIA is offering financing for GPU purchases and taking a percentage share of cloud computing revenue."
+    },
+    {
+      "id": "4966476",
+      "time": "2026-07-02 11:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟與新加坡Lightstorm合作建設印度-東南亞海底電纜。"
+    },
+    {
+      "id": "te:economy:563619",
+      "time": "2026-07-02 11:34:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Rises from 4-Month Lows — Australia’s 10-year government bond yield rose above 4.8%, climbing off from four-month lows as markets continued to wager on near-term US rate hikes, while paring back expectations for further tightening at home. The sharp de-escalation of the Middle East conflict and the reopening of the Strait of Hormuz drove oil prices back to pre-war levels, easing inflation risks and prompting markets to scale back expectations for further rate hikes in Australia. An August move by the Reserve Bank is now priced in at just 15% chance, while markets see a 50% probability that the tightening cycle has ended. Meanwhile, bond markets came under pressure after US Treasury yields surged as investors increased bets on a Federal Reserve rate hike ahead of Thursday's crucial jobs report, with a September move now almost fully priced in. This came despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month."
+    },
+    {
+      "id": "4966475",
+      "time": "2026-07-02 11:33:34",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【午評：創業板指低開低走跌3.47% 貴金屬、化工等傳統行業逆市走強】截至午盤，上證指數跌0.9%，深證成指跌2.09%，創業板指跌3.47%，北證50漲2.79%。貴金屬板塊走高，招金黃金、山金國際、赤峰黃金漲停，西部黃金、中金黃金、曉程科技、山東黃金、紫金礦業跟漲。海南自貿區概念逆勢走高，海南海藥4連板，海馬汽車、欣龍控股、海南瑞澤漲停，新大洲A、海南礦業、中稀有色、雙成藥業、康芝藥業跟漲。稀土永磁板塊震盪走強，爭光股份、東方鋯業盤中創新高，赤峰黃金漲停，大地熊漲超10%，瑞晨環保、寧波韻升、奔朗新材、金力永磁、杭華股份跟漲。儲存晶片板塊持續走弱，北方華創觸及跌停，中科飛測、微導奈米、珂瑪科技、華海清科、神工股份跌超10%，深科技、賽騰股份、精測電子、江豐電子、利和興跟跌。元件板塊低開低走，東山精密觸及跌停，三環集團、風華高科、四會富仕、法拉電子、一博科技跟跌。"
+    },
+    {
+      "id": "4966474",
+      "time": "2026-07-02 11:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達將為GPU採購提供財務擔保，並從雲服務收入中抽成。"
+    },
+    {
+      "id": "4966473",
+      "time": "2026-07-02 11:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達據悉將從部分客戶的雲收入中抽取分成。"
+    },
+    {
+      "id": "mkt:019f20e1-b1bc-7aab-8c6b-49a55e6f7e88",
+      "time": "2026-07-02 11:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Xiamen Tungsten subsidiary halts production after China Molybdenum suspends tailings supply】On July 1 evening Xiamen Tungsten’s subsidiary Luoyang Yulu Mining effectively halted production after upstream partner China Molybdenum suspended deliveries of tungsten-bearing tailings. China Molybdenum said the pause reflects national compliance requirements for tungsten mining and that Luoyang Yulu’s shareholders have not agreed a handling plan, so the company stopped tailings supply to ensure regulatory compliance. Industry sources note tungsten is managed as a strategic metal under quota and export controls and that tailings are being reclassified; supplying tungsten-containing tailings to Luoyang Yulu could therefore raise quota, resource-flow or mining-rights compliance issues."
+    },
+    {
+      "id": "mkt:019f20e1-7eaf-7aab-8c6b-4444c719b209",
+      "time": "2026-07-02 11:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Index futures morning session close】China equity index futures morning session: CSI 300 (IF) front contract down 1.29%, SSE 50 (IH) front contract down 1.46%, CSI 500 (IC) front contract down 1.05%, CSI 1000 (IM) front contract down 0.16%."
+    },
+    {
+      "id": "mkt:019f20e1-70da-7aab-8c6b-3bcdd11b3b51",
+      "time": "2026-07-02 11:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures morning session close】2-year government bond futures (TS) main contract rose 0.02% at the morning close; 5-year (TF) up 0.06%; 10-year (T) up 0.07%; 30-year (TL) up 0.06%."
+    },
+    {
+      "id": "4966472",
+      "time": "2026-07-02 11:31:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能在盤前拋售美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:019f20e1-329b-7aab-8c6b-34a23528177b",
+      "time": "2026-07-02 11:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the morning session close, China’s most-active futures were mixed with losses dominant. Shanghai crude (SC) slid over 5%; LPG and paraxylene fell more than 4%; PTA, fuel oil and methanol dropped over 3%; bitumen and synthetic rubber were down about 3%. Gains: platinum rose over 5%, palladium nearly 3%, Shanghai silver up more than 2%; rapeseed meal, Shanghai gold, lithium carbonate and soybean meal gained over 1%, rapeseed up about 1%."
+    },
     {
       "id": "4966471",
       "time": "2026-07-02 11:30:37",
