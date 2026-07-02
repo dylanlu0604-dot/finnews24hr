@@ -1,7 +1,44 @@
 {
   "date": "2026-07-03",
-  "count": 33,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019f23a0-6468-7aab-8c80-e3547d65a84d",
+      "time": "2026-07-03 00:19:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mann, a member of the Bank of England's Monetary Policy Committee, said the easing in financial conditions since June will be pivotal to his vote on rates at the next meeting."
+    },
+    {
+      "id": "mkt:019f239f-d056-7aab-8c80-d8a5758a0b94",
+      "time": "2026-07-03 00:18:23",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "The Times reports the Bank of England will limit hedge funds' leverage for purchasing UK government bonds."
+    },
+    {
+      "id": "4968103",
+      "time": "2026-07-03 00:17:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：自6月以來金融環境已出現寬鬆，這將對我下次會議的利率投票產生重要影響。"
+    },
+    {
+      "id": "4968102",
+      "time": "2026-07-03 00:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【供應鏈難題持續困擾，空客上半年交付 350 架飛機】據知情人士透露，歐洲飛機製造商空中客車（Airbus SE）上半年向客戶交付了約 350 架客機。儘管長期受供應鏈各類問題掣肘，空客仍在持續提升產能。不願具名的知情人士表示，初步資料顯示 6 月交付量提速至約 90 架，5 月交付量為 81 架，最終正式資料或將有所調整。今年上半年交付總量，對比 2025 年同期的 306 架實現增長。空客發言人表示，本月晚些時候官方釋出訂單與交付資料前，暫不予置評。空客全年交付目標定為 870 架，這意味著截至 12 月 31 日前，企業還需完成約 520 架飛機交付。航空行業慣例是年末交付節奏會大幅加快。"
+    },
     {
       "id": "4968101",
       "time": "2026-07-03 00:14:23",

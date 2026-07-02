@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-03 00:15:35",
-  "count": 13932,
+  "updated": "2026-07-03 00:19:37",
+  "count": 13931,
   "items": [
+    {
+      "id": "mkt:019f23a0-6468-7aab-8c80-e3547d65a84d",
+      "time": "2026-07-03 00:19:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mann, a member of the Bank of England's Monetary Policy Committee, said the easing in financial conditions since June will be pivotal to his vote on rates at the next meeting."
+    },
+    {
+      "id": "mkt:019f239f-d056-7aab-8c80-d8a5758a0b94",
+      "time": "2026-07-03 00:18:23",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "The Times reports the Bank of England will limit hedge funds' leverage for purchasing UK government bonds."
+    },
+    {
+      "id": "4968103",
+      "time": "2026-07-03 00:17:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：自6月以來金融環境已出現寬鬆，這將對我下次會議的利率投票產生重要影響。"
+    },
+    {
+      "id": "4968102",
+      "time": "2026-07-03 00:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【供應鏈難題持續困擾，空客上半年交付 350 架飛機】據知情人士透露，歐洲飛機製造商空中客車（Airbus SE）上半年向客戶交付了約 350 架客機。儘管長期受供應鏈各類問題掣肘，空客仍在持續提升產能。不願具名的知情人士表示，初步資料顯示 6 月交付量提速至約 90 架，5 月交付量為 81 架，最終正式資料或將有所調整。今年上半年交付總量，對比 2025 年同期的 306 架實現增長。空客發言人表示，本月晚些時候官方釋出訂單與交付資料前，暫不予置評。空客全年交付目標定為 870 架，這意味著截至 12 月 31 日前，企業還需完成約 520 架飛機交付。航空行業慣例是年末交付節奏會大幅加快。"
+    },
     {
       "id": "4968101",
       "time": "2026-07-03 00:14:23",
@@ -128307,50 +128344,6 @@
         "Brent"
       ],
       "text": "Market sources: A fire broke out at the Trainer refinery in Delaware County, Pennsylvania, US."
-    },
-    {
-      "id": "mkt:019eff94-11b4-7dd8-b121-770e8d6bc5dc",
-      "time": "2026-06-26 00:19:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) credit derivatives began trading following its first bond issuance."
-    },
-    {
-      "id": "4955606",
-      "time": "2026-06-26 00:18:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "據當地媒體報道，美國特拉華縣的特雷納煉油廠發生大規模火災。"
-    },
-    {
-      "id": "4955605",
-      "time": "2026-06-26 00:18:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納音樂集團：公司與獨立唱片店啟動性試點專案，探索黑膠唱片回收途徑。"
-    },
-    {
-      "id": "te:markets:561978",
-      "time": "2026-06-26 00:17:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rebounds Toward $3 — US gasoline prices rose more than 3% to $2.98 per gallon, tracking a rebound in crude driven by geopolitical tensions in the Middle East. The maritime group UKMTO reported that a vessel was struck by an unknown projectile in the Strait of Hormuz off the Omani coast, prompting several commercial ships to reverse course. This disruption renewed safety concerns regarding the vital shipping corridor and fueled anxieties over Iran dictating transit while Washington and Tehran negotiate a permanent end to their war. Despite the volatility, Saudi Arabian tankers headed toward the Ras Tanura terminal to resume Persian Gulf exports for the first time since March, and Qatar issued its first post-war crude tender. Domestically, US gasoline inventories rose by 2.064 million barrels to 216.3 million barrels, defying expectations of a draw. However, stockpiles remain 5% below the five-year average. Meanwhile, President Donald Trump ordered a federal investigation into the slow-falling pump prices."
-    },
-    {
-      "id": "4955604",
-      "time": "2026-06-26 00:17:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1%，美股早盤呈現出V形反轉，成分股閃迪目前漲18.1%，美光漲16.1%，應用材料漲10.1%，西部資料漲8.1%，高通漲7.9%，阿斯麥ADR漲4.5%，谷歌A跌0.8%，英偉達跌幅收窄至1.1%，Meta跌1.7%，亞馬遜跌2.2%，微軟跌3.4%，蘋果仍然重挫超5.6%，Strategy跌6.9%。半導體指數漲超4.1%。"
     }
   ]
 }
