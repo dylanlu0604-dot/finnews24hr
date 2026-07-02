@@ -1,7 +1,100 @@
 {
   "date": "2026-07-02",
-  "count": 1064,
+  "count": 1073,
   "items": [
+    {
+      "id": "4966503",
+      "time": "2026-07-02 11:50:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【涉山西留神峪特別重大瓦斯爆炸事故 崔瑞軍被查】國家礦山安全監察局山西局監察執法八處處長崔瑞軍涉嫌嚴重違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省監察委員會監察調查。"
+    },
+    {
+      "id": "4966502",
+      "time": "2026-07-02 11:50:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY IT指數上漲2.9%。"
+    },
+    {
+      "id": "mkt:019f20f2-a5a9-7aab-8c6b-bd03169392f4",
+      "time": "2026-07-02 11:50:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield rises 4.0 bps to 2.740%."
+    },
+    {
+      "id": "mkt:019f20f2-7741-7aab-8c6b-b1370121ab23",
+      "time": "2026-07-02 11:49:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "02099.HK",
+        "Impact bullish",
+        "03330.HK",
+        "02259.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks extended gains: China Gold International (02099.HK) up over 13%, Lingbao Gold (03330.HK) up over 11%, Chifeng Gold (06693.HK) and Zijin Gold International (02259.HK) also higher."
+    },
+    {
+      "id": "4966501",
+      "time": "2026-07-02 11:49:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率在拍賣結果公佈後上升4個基點，至2.740%。"
+    },
+    {
+      "id": "4966499",
+      "time": "2026-07-02 11:49:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【矽羽科技半年連續完成四輪融資，累計金額數億元】7月2日，據華興資本訊息，近期，矽羽科技（SPARO）在半年內連續完成四輪融資，累計金額數億元。投資方包括耀途資本、錦秋基金、阿里巴巴、弘毅投資、普洛斯隱山資本及雲時資本。華興資本擔任本輪首席財務顧問。現階段融資將主要⽤於擴充關鍵崗位的團隊建設、推進產品線的商業化落地與規模化交付，以及加速技術平臺的持續迭代。"
+    },
+    {
+      "id": "4966498",
+      "time": "2026-07-02 11:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化交易。"
+    },
+    {
+      "id": "mkt:019f20f1-6005-7aab-8c6b-ae5429be605f",
+      "time": "2026-07-02 11:48:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "【Musk: Optimus mass production will be extremely slow at start as technologies are all newly developed】Tesla CEO Musk posted a photo from the Optimus humanoid robot production line at the Fremont, California factory and said initial mass production will be extremely slow because all technologies are newly developed, adding it is not like manufacturing cars."
+    },
+    {
+      "id": "mkt:019f20f0-d86a-7aab-8c6b-a218faeed6c2",
+      "time": "2026-07-02 11:48:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou June second‑hand residential online signings fall YoY and MoM】Guangzhou Real Estate Brokerage Association reports June 2026 second‑hand residential online signings at 8,740 units and 888,900 sq m, down 12.45% and 10.68% MoM and down 9.82% and 7.70% YoY. 1H 2026 totals: 53,358 units and 5.3487 mln sq m. The association cited the Dragon Boat holiday and extreme heat and heavy rain, which reduced viewings and weakened transaction intent."
+    },
     {
       "id": "4966497",
       "time": "2026-07-02 11:47:29",
