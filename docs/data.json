@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-03 01:14:11",
-  "count": 13899,
+  "updated": "2026-07-03 01:18:11",
+  "count": 13897,
   "items": [
+    {
+      "id": "4968154",
+      "time": "2026-07-03 01:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯：加拿大鑽井數量較上週減少7座，至190座。"
+    },
+    {
+      "id": "mkt:019f23d5-90cd-7aab-8c81-a6afe8943ea5",
+      "time": "2026-07-03 01:17:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "The Federal Reserve accepted $2.175 billion in bids from four counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4968153",
+      "time": "2026-07-03 01:16:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國中長期國債收益率漲約2個基點】週四（7月2日）歐市尾盤，英國10年期國債收益率漲1.9個基點，報4.776%，全天處於收漲狀態、整體呈現出衝高回落走勢，北京時間20:30釋出美國非農就業報告前60秒重新整理日高至4.816%。兩年期英債收益率跌0.7個基點，報4.199%，20:29重新整理日高至4.155%，隨後快速下挫。30年期英債收益率漲2.5個基點，50年期英債收益率漲2.6個基點。2/10年期英債收益率利差漲2.474個基點，報+65.442個基點。"
+    },
+    {
+      "id": "4968152",
+      "time": "2026-07-03 01:16:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（7月2日），美聯儲隔夜逆回購協議（RRP）使用規模為21.75億美元（交易對手4家），上個交易日報10.01億美元。"
+    },
     {
       "id": "mkt:019f23d1-aebd-7aab-8c81-9c576b762a67",
       "time": "2026-07-03 01:12:52",
@@ -128005,57 +128046,6 @@
         "其他"
       ],
       "text": "委內瑞拉總統抵達拉瓜伊拉，實地勘察地震災情。"
-    },
-    {
-      "id": "4955678",
-      "time": "2026-06-26 01:17:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約州共和黨州長候選人布魯斯・布萊克曼公佈上任首日施政議程：廢除庇護城市政策、減稅、降低能源成本。"
-    },
-    {
-      "id": "4955677",
-      "time": "2026-06-26 01:16:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲在6月25日的逆回購工具操作中，全額接受了申報的57.18億美元申請額度。"
-    },
-    {
-      "id": "mkt:019effc8-3468-7dd8-b122-9aafaa972342",
-      "time": "2026-06-26 01:16:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $5.718 billion from six counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:019effc7-c4e7-7dd8-b122-948553f6daaf",
-      "time": "2026-06-26 01:15:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "After consulting the head of the Security Service of Ukraine (SBU), Ukrainian President Zelenskiy said he approved a 40-day operation aimed at influencing Russia to end the war."
-    },
-    {
-      "id": "4955676",
-      "time": "2026-06-26 01:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基在與國家安全域性局長磋商後表示，他已批准一項為期40天的行動，以“施壓”俄羅斯結束衝突。"
-    },
-    {
-      "id": "4955675",
-      "time": "2026-06-26 01:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍表示，法國將於週五公佈應對高溫天氣的全新舉措。"
     }
   ]
 }
