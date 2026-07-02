@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-02 13:54:52",
-  "count": 14003,
+  "updated": "2026-07-02 13:58:50",
+  "count": 13999,
   "items": [
+    {
+      "id": "4966660",
+      "time": "2026-07-02 13:57:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為海思概念走弱，北方華創跌停】華為海思概念走弱，北方華創跌停，芯源微、一博科技跌超10%，泰晶科技、德龍鐳射、盛劍科技、羅博特科、華天科技等跟跌。"
+    },
+    {
+      "id": "4966659",
+      "time": "2026-07-02 13:56:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銀河期貨增資至50億，增幅約11%】天眼查App顯示，7月1日，銀河期貨有限公司發生工商變更，註冊資本由45億人民幣增至50億人民幣，增幅約11%。該公司成立於2006年12月，法定代表人為王東，經營範圍為商品期貨經紀、金融期貨經紀、期貨投資諮詢、資產管理、基金銷售，由中國銀河全資持股。"
+    },
+    {
+      "id": "4966658",
+      "time": "2026-07-02 13:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國報告呼籲儘快完善人工智慧治理】聯合國“人工智慧獨立國際科學小組”7月1日就人工智慧可能帶來的機遇、風險與影響釋出初步報告。報告在肯定人工智慧巨大潛在益處的同時，呼籲各國儘快採取行動，完善人工智慧治理。（新華社）"
+    },
+    {
+      "id": "4966657",
+      "time": "2026-07-02 13:54:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥板塊午後回暖】創新藥板塊午後回暖，科倫藥業、澤璟製藥盤中創新高，海南海藥4連板，石藥景峰、聯化科技、京新藥業、華麗家族漲停，熱景生物漲超15%，石藥創新、萬邦醫藥、津藥藥業、康芝藥業、雙鷺藥業跟漲。"
+    },
+    {
+      "id": "mkt:019f2164-f088-7aab-8c6d-bc70e091302f",
+      "time": "2026-07-02 13:54:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000733.SZ",
+        "Impact bearish"
+      ],
+      "text": "【Zhenhua Technology tumbles after prior-day limit-up; company says AI-MLCC price hikes unrelated】Zhenhua Technology shares fell sharply in early trade on July 2; at midday the stock was 58.97 yuan, down 5.35%. The previous trading day the stock hit the daily up limit after reports of MLCC suppliers raising prices. The company said MLCC price increases for AI servers are unrelated to its core business, noting AI-related MLCC hikes mainly involve a few large, consumer-facing suppliers and that Zhenhua’s MLCC business is very small and not separately quantified. It acknowledged some product price rises from higher raw-material costs but said increases were smaller than market expectations and that it is pursuing material substitution and other cost-saving measures."
+    },
+    {
+      "id": "4966656",
+      "time": "2026-07-02 13:54:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【前一日漲停，今日大跌 振華科技回應】7月2日早盤，振華科技股價大跌。截至午間收盤，公司股價報58.97元/股，跌幅為5.35%。前一個交易日，受MLCC行業巨頭漲價利好刺激，振華科技股價漲停。對於MLCC漲價，振華科技方面回應稱，用於AI伺服器的MLCC漲價和公司主業沒有關係。市場提到的AI領域MLCC漲價，主要是一些市場份額佔比較高的大廠，屬於民品領域。公司MLCC業務佔比很小，沒有做過統計。“受原材料漲價影響，公司部分產品確實有漲價，但漲價幅度沒有市場想象的那麼大。除漲價外，公司採取原材料替代、降本增效等舉措，以應對原材料漲價帶來的衝擊。”振華科技方面表示。（中證金牛座）"
+    },
+    {
+      "id": "4966655",
+      "time": "2026-07-02 13:54:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將雀巢目標價從74瑞士法郎上調至76瑞士法郎。"
+    },
     {
       "id": "4966654",
       "time": "2026-07-02 13:53:55",
@@ -128950,95 +129013,6 @@
         "MKT News"
       ],
       "text": "【PBOC to add overnight reverse repo at end-June — implications】The PBOC will add an overnight reverse repo operation at end-June. Huaxi Securities says this should push the overnight rate center toward about 1.30%-1.40% in the short term, guiding market money rates lower. Longer term, whether China’s policy-rate system becomes overnight-rate–centric depends on the operation’s structure: if the PBOC increases frequency and size, short-end market rates could reprice to the overnight policy rate and the framework could shift toward a Fed-style, overnight-rate–led regime; if overnight repos are used only episodically, the existing 7-day reverse repo–centered system would likely persist and overnight repos would merely stabilize the short-end rate center."
-    },
-    {
-      "id": "4954223",
-      "time": "2026-06-25 13:58:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【銀河證券章俊：AI與地緣重塑宏觀框架 Token或成新貨幣錨點】銀河證券首席經濟學家章俊在2026年度中期策略會上指出，AI與地緣政治正成為重塑全球宏觀的兩大底層變數。AI作為新一輪康波週期起點，正驅動經濟與市場“K型分化”，當前AI泡沫已進入回報率驗證的關鍵階段；地緣方面，全球正經歷中東格局、地緣政治、經濟週期、產業鏈供應鏈、能源體系及貨幣體系六大重構，傳統分析框架失效，資產定價面臨“AI資本開支+產業政策”與“地緣再通脹+安全資產”的雙軌博弈。章俊認為，AI時代貨幣錨點有望迴歸生產力體系，Token憑藉龐大高頻的真實需求、標準化屬性及去中心化特徵，成為天然選擇。中國在制度、市場、產業和人才領域具備競爭力，生產力體系下工業優勢突出，人民幣國際化有望依託產業與數字生態開拓新路徑。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606253782850037",
-      "time": "2026-06-25 13:58:40",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【穆長春：央行數字貨幣重塑跨境支付】6月24日，在夏季達沃斯論壇上，中國人民銀行數字貨幣研究所所長穆長春表示，其最終目標是發展成為多邊治理和平等互利模式下央行共建、金融機構參與的新型金融市場基礎設施（FMI）。據瞭解，自2024年6月貨幣橋成功進入真實交易持續執行階段以來，吸引了49家商業銀行率先參與業務，其中有21家境外外資銀行。截至2025年底，平臺累計交易額摺合近5000億元人民幣。"
-    },
-    {
-      "id": "4954222",
-      "time": "2026-06-25 13:58:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋表示，新的既成事實不能強加於海灣國家。"
-    },
-    {
-      "id": "mkt:019efd5b-a51b-7dd8-b10e-68c364d2b22c",
-      "time": "2026-06-25 13:58:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military said one soldier was killed during operations in southern Lebanon."
-    },
-    {
-      "id": "4954221",
-      "time": "2026-06-25 13:58:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，一名士兵在黎巴嫩南部的“作戰行動”中身亡。"
-    },
-    {
-      "id": "mkt:019efd5b-566b-7dd8-b10e-64d792b980c9",
-      "time": "2026-06-25 13:58:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea sees renewed 'egg inflation' as consumers hunt for cheaper eggs】South Korea is experiencing renewed 'egg inflation' and consumers are shopping around as the government increases imports to offset weaker domestic supply, local media reported, citing the Korea Animal Products Quality Evaluation Institute and the Ministry of Agriculture, Food and Rural Affairs. As of mid-month, the retail price for a 30-egg carton averaged 7,506 won, up 7.1% YoY. The average retail price for a 10-egg premium carton rose to 5,229 won, exceeding 5,000 won for the first time, up 16.7% from May and nearly 39% YoY. Daily egg supply this month averaged 47.05 million eggs, down 3.3% YoY."
-    },
-    {
-      "id": "mkt:019efd5a-8168-7dd8-b10e-5872f0ca8d32",
-      "time": "2026-06-25 13:57:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UN report: 655 million people worldwide still lack electricity】Multiple UN agencies on the 24th released the Tracking SDG7: Energy Progress report, saying 655 million people still lack access to electricity. The report warns that without urgent, larger-scale action the world will miss SDG7 — universal, affordable, reliable and sustainable modern energy access by 2030. While most regions are close to universal electrification, progress in Sub-Saharan Africa is slow: more than 560 million people lack electricity and 970 million lack access to clean cooking energy."
-    },
-    {
-      "id": "4954220",
-      "time": "2026-06-25 13:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯4月份貿易順差為254.27億沙特里亞爾。"
-    },
-    {
-      "id": "4954219",
-      "time": "2026-06-25 13:56:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀成交額達200億元，現漲4.13%。"
-    },
-    {
-      "id": "4954218",
-      "time": "2026-06-25 13:56:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國報告稱全球仍有6.55億人用不上電】多家聯合國機構24日聯合釋出的《追蹤可持續發展目標7：能源進展報告》顯示，目前全球仍有6.55億人用不上電。報告說，若不採取緊急且更大規模的行動，全球將無法實現可持續發展目標7，即確保到2030年人人獲得負擔得起、可靠和可持續的現代能源。報告顯示，全球大多數地區正接近實現全民用電，但撒哈拉以南非洲地區進展緩慢，該地區超過5.6億人用不上電，9.7億人無法獲得清潔烹飪能源。"
-    },
-    {
-      "id": "4954217",
-      "time": "2026-06-25 13:54:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Prosus向法國健康科技公司Alan投資4.6億美元。"
     }
   ]
 }
