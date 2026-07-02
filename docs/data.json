@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-03 04:21:52",
+  "updated": "2026-07-03 04:25:43",
   "count": 13800,
   "items": [
+    {
+      "id": "4968268",
+      "time": "2026-07-03 04:23:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta 技術長：若公司重新啟用滑鼠軌跡追蹤程式，將設定為使用者主動選擇加入模式。"
+    },
+    {
+      "id": "mkt:019f2480-119d-7aab-8c84-1db8f9846e7e",
+      "time": "2026-07-03 04:23:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) CTO said any reinstatement of a mouse-tracking program would be opt-in."
+    },
     {
       "id": "mkt:019f247c-18cd-7aab-8c84-109025b54727",
       "time": "2026-07-03 04:19:00",
@@ -127112,22 +127134,6 @@
         "市場"
       ],
       "text": "Rocket Lab美股盤後漲幅擴大至5%，該公司贏得一份NASA合同。"
-    },
-    {
-      "id": "mkt:019f0074-562d-7dd8-b126-1306e3a9361b",
-      "time": "2026-06-26 04:24:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "California, citing concern the rules could be withdrawn, is seeking a court order to block the U.S. Environmental Protection Agency (EPA) from submitting vehicle emissions rules to Congress."
-    },
-    {
-      "id": "4955863",
-      "time": "2026-06-26 04:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "加利福尼亞州申請法院禁令，阻止美國環保署將機動車排放法規提交國會、以防相關規定遭撤銷。"
     }
   ]
 }

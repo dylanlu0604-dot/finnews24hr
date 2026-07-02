@@ -1,7 +1,29 @@
 {
   "date": "2026-07-03",
-  "count": 313,
+  "count": 315,
   "items": [
+    {
+      "id": "4968268",
+      "time": "2026-07-03 04:23:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta 技術長：若公司重新啟用滑鼠軌跡追蹤程式，將設定為使用者主動選擇加入模式。"
+    },
+    {
+      "id": "mkt:019f2480-119d-7aab-8c84-1db8f9846e7e",
+      "time": "2026-07-03 04:23:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) CTO said any reinstatement of a mouse-tracking program would be opt-in."
+    },
     {
       "id": "mkt:019f247c-18cd-7aab-8c84-109025b54727",
       "time": "2026-07-03 04:19:00",
