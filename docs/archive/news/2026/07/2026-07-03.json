@@ -1,7 +1,54 @@
 {
   "date": "2026-07-03",
-  "count": 444,
+  "count": 449,
   "items": [
+    {
+      "id": "4968344",
+      "time": "2026-07-03 06:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【在委內瑞拉中資企業已向委方捐贈物資超120噸】記者從中國駐委內瑞拉大使館瞭解到，據初步統計，截至7月2日，在委中資企業已向委方捐贈物資超120噸。"
+    },
+    {
+      "id": "te:economy:563892",
+      "time": "2026-07-03 06:35:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "ANZ Roy Morgan Consumer Confidence Index",
+        "Importance 1"
+      ],
+      "text": "New Zealand Consumer Mood at 3-Month High — The ANZ-Roy Morgan Consumer Confidence climbed to 91.3 in June 2026 from 86.5 in May. The index has risen 4 points over the previous month, matching the increase recorded in March and marking the largest monthly gain in three months, but it remains 16 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, increased 9 points to -11. Two-year inflation expectations eased to 4.6% from 5.3%, while house price expectations were unchanged at 2.5%."
+    },
+    {
+      "id": "te:markets:563891",
+      "time": "2026-07-03 06:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 3.30% — Top commodity gainers are Silver (3.30%), Gold (2.35%) and Platinum (1.76%). Biggest loser is Titanium (-2.11%)."
+    },
+    {
+      "id": "mkt:019f24f7-62f1-7aab-8c85-9d93c442b982",
+      "time": "2026-07-03 06:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. grid operator PJM issued an alert directing dispatchers to immediately start all offline generating units and ramp them to full emergency maximum output."
+    },
+    {
+      "id": "4968343",
+      "time": "2026-07-03 06:32:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "提醒：淡水河谷將於7月21日披露（礦石）銷售資料，將於7月30日釋出二季度業績報告。"
+    },
     {
       "id": "mkt:019f24f4-9180-7aab-8c85-932d7ee63647",
       "time": "2026-07-03 06:30:35",
