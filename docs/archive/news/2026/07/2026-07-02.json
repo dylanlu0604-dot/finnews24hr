@@ -1,7 +1,85 @@
 {
   "date": "2026-07-02",
-  "count": 2308,
+  "count": 2316,
   "items": [
+    {
+      "id": "mkt:019f2288-42b0-7aab-8c75-b3b1185deda9",
+      "time": "2026-07-02 19:13:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "India will build crude oil reserves to hedge against the risk of sharp oil-price spikes."
+    },
+    {
+      "id": "4967476",
+      "time": "2026-07-02 19:12:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：印度將建立原油儲備以對沖油價飆升風險。"
+    },
+    {
+      "id": "4967475",
+      "time": "2026-07-02 19:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "穩定幣交易所StablecoinX推出StablecoinX Harness基礎設施軟體平臺。"
+    },
+    {
+      "id": "mkt:019f2287-6893-7aab-8c75-aac61aa99d93",
+      "time": "2026-07-02 19:12:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: All 14 economists expect the Bank of Israel to cut rates by 25 bps next week."
+    },
+    {
+      "id": "mkt:019f2287-04d9-7aab-8c75-a19b7486d5b4",
+      "time": "2026-07-02 19:11:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【MOFCOM, CUSTOMS launch pilot for bonded testing outside comprehensive bonded zones】MOFCOM and CUSTOMS issued a notice initiating a pilot that allows qualified firms outside comprehensive bonded zones, subject to application and approval, to import goods under bond from abroad for quality, specification and performance testing and then re-export them. Approved pilots are limited to integrated circuits and consumer electronics; bonded testing may not be used for goods whose import/export are prohibited by law, administrative regulation, the State Council or authorized departments, nor may it be used for repair, disassembly or scrapping."
+    },
+    {
+      "id": "4967474",
+      "time": "2026-07-02 19:11:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：所有14名經濟學家均預計以色列央行下週將基準利率下調25個基點。"
+    },
+    {
+      "id": "4967473",
+      "time": "2026-07-02 19:10:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博安生物：BA1106聯合BA1104治療非小細胞肺癌的Ⅱ期臨床試驗申請獲CDE批准】博安生物公告，公司自主開發的創新抗體BA1106（抗CD25單抗）聯合其自有PD-1抑制劑BA1104（納武利尤單抗）用於非小細胞肺癌（NSCLC）一線和二線治療的Ⅱ期臨床試驗申請已正式獲得國家藥品監督管理局藥品審評中心（CDE）批准。"
+    },
+    {
+      "id": "te:markets:563762",
+      "time": "2026-07-02 19:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UniCredit Stock Price Hits 16-1/2-year High — UniCredit shares increased to 81.11 EUR, the highest since November 2009. Over the past 4 weeks, UniCredit gained 9.96%, and in the last 12 months, it increased 41.74%."
+    },
     {
       "id": "te:markets:563761",
       "time": "2026-07-02 19:09:12",

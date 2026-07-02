@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-02 19:10:02",
+  "updated": "2026-07-02 19:14:03",
   "count": 13827,
   "items": [
+    {
+      "id": "mkt:019f2288-42b0-7aab-8c75-b3b1185deda9",
+      "time": "2026-07-02 19:13:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "India will build crude oil reserves to hedge against the risk of sharp oil-price spikes."
+    },
+    {
+      "id": "4967476",
+      "time": "2026-07-02 19:12:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：印度將建立原油儲備以對沖油價飆升風險。"
+    },
+    {
+      "id": "4967475",
+      "time": "2026-07-02 19:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "穩定幣交易所StablecoinX推出StablecoinX Harness基礎設施軟體平臺。"
+    },
+    {
+      "id": "mkt:019f2287-6893-7aab-8c75-aac61aa99d93",
+      "time": "2026-07-02 19:12:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: All 14 economists expect the Bank of Israel to cut rates by 25 bps next week."
+    },
+    {
+      "id": "mkt:019f2287-04d9-7aab-8c75-a19b7486d5b4",
+      "time": "2026-07-02 19:11:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【MOFCOM, CUSTOMS launch pilot for bonded testing outside comprehensive bonded zones】MOFCOM and CUSTOMS issued a notice initiating a pilot that allows qualified firms outside comprehensive bonded zones, subject to application and approval, to import goods under bond from abroad for quality, specification and performance testing and then re-export them. Approved pilots are limited to integrated circuits and consumer electronics; bonded testing may not be used for goods whose import/export are prohibited by law, administrative regulation, the State Council or authorized departments, nor may it be used for repair, disassembly or scrapping."
+    },
+    {
+      "id": "4967474",
+      "time": "2026-07-02 19:11:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：所有14名經濟學家均預計以色列央行下週將基準利率下調25個基點。"
+    },
+    {
+      "id": "4967473",
+      "time": "2026-07-02 19:10:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博安生物：BA1106聯合BA1104治療非小細胞肺癌的Ⅱ期臨床試驗申請獲CDE批准】博安生物公告，公司自主開發的創新抗體BA1106（抗CD25單抗）聯合其自有PD-1抑制劑BA1104（納武利尤單抗）用於非小細胞肺癌（NSCLC）一線和二線治療的Ⅱ期臨床試驗申請已正式獲得國家藥品監督管理局藥品審評中心（CDE）批准。"
+    },
+    {
+      "id": "te:markets:563762",
+      "time": "2026-07-02 19:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UniCredit Stock Price Hits 16-1/2-year High — UniCredit shares increased to 81.11 EUR, the highest since November 2009. Over the past 4 weeks, UniCredit gained 9.96%, and in the last 12 months, it increased 41.74%."
+    },
     {
       "id": "te:markets:563761",
       "time": "2026-07-02 19:09:12",
@@ -127316,72 +127394,6 @@
         "國際"
       ],
       "text": "訊息人士透露，三家印度開發金融機構正計劃在印度央行的一項計劃下申請15億美元貸款。"
-    },
-    {
-      "id": "4955074",
-      "time": "2026-06-25 19:13:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國防部回應侵華日軍曾開展“異種輸血”實驗：罪惡滔天、天理難容】6月25日下午，國防部舉行例行記者會，國防部新聞發言人張曉剛大校答記者問。\n\n記者：我有兩個問題。第一個問題，近日央視首次曝光了火箭軍東風-17高超音速導彈的實彈發射畫面。有報道稱，美軍對此感到震驚，因為東風-17的發射車能在夜間公路上停下後直接進行無依託發射。還有分析指出，畫面公佈的時間點時逢七國集團（G7）峰會剛結束、“環太平洋”軍演啟動前，是在釋放解放軍有能力實施遠端精確打擊的訊號。請問對此有何評論？第二個問題，日本媒體報道，日本陸軍可能在二戰侵華戰爭期間，曾反覆進行將動物血液注入人體的“異種輸血”實驗。這一實驗記錄，在日軍官方組織“陸軍軍醫團”的內部雜誌中被發現。據推測，這些實驗可能在中國進行。請問對此有何評論？\n\n張曉剛：先回答你的第一個問題。今年是中國戰略導彈部隊組建60週年。一甲子礪劍強軍，新起點奮進出發。火箭軍組織開展有關報道，反映建設發展情況和闊步新徵程的時代風采。我沒有更多補充資訊，也請不必過度關聯解讀。\n\n現在回答你的第二個問題。我們也注意到有關報道。侵華日軍大規模開展滅絕人性的活體實驗和細菌戰，罪惡滔天、天理難容。越來越多的證據揭露出日本軍國主義的戰爭罪行，越來越多的人正在瞭解這段黑暗殘忍的歷史。日本若重走軍國主義邪路，中國人民不會答應，國際社會不會允許，最終只能以失敗告終，遭到徹底的正義審判和歷史清算。"
-    },
-    {
-      "id": "4955073",
-      "time": "2026-06-25 19:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國防部談中國軍隊加快先進武器裝備發展】有記者問：據報道，東部戰區第73集團軍首次進行新型防空導彈系統實彈射擊考核，有裝備銘牌上印著“HQ-16F”字樣，這標誌著解放軍具備了從超低空到近地空間的全空域全射程攔截能力。請問對此有何評論？ 國防部新聞發言人張曉剛大校表示，中國軍隊加快先進武器裝備發展，紮實推進練兵備戰，完全是為了提升捍衛國家主權、安全、發展利益戰略能力，始終是維護世界和平的堅定力量。（國防部發布）"
-    },
-    {
-      "id": "4955072",
-      "time": "2026-06-25 19:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：尋求發展天基進攻能力。"
-    },
-    {
-      "id": "mkt:019efe7b-136f-7dd8-b118-767a6c9b1ee3",
-      "time": "2026-06-25 19:12:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The State Administration for Market Regulation held its second 2026 forum on fair competition among enterprises."
-    },
-    {
-      "id": "4955071",
-      "time": "2026-06-25 19:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Benchmark將高通目標價從225美元上調至300美元。"
-    },
-    {
-      "id": "4955070",
-      "time": "2026-06-25 19:10:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新和成：擬3億-6億元回購股份用於激勵計劃】新和成公告稱，公司第九屆董事會第二十次會議已審議透過回購方案，將以自有資金3億元-6億元，不超45.50元/股的價格，以集中競價方式回購公司部分社會公眾股份，用於實施股權激勵計劃或員工持股計劃。預計回購股份659.34萬股-1318.68萬股，佔公司總股本的0.21%-0.43%。回購期限為自董事會審議透過之日起12個月。本次回購存在無法實施或只能部分實施等風險。"
-    },
-    {
-      "id": "4955069",
-      "time": "2026-06-25 19:10:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "羅森布拉特證券公司將高通目標股價從190美元上調至265美元。"
-    },
-    {
-      "id": "4955068",
-      "time": "2026-06-25 19:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【敏芯股份：2025年度擬每10股派2.7元轉4股】敏芯股份公告稱，公司擬以總股本扣減回購專用證券賬戶股份後的股數為基數，向全體股東每10股派發現金紅利2.70元（含稅），每10股以資本公積轉增4股。截至公告披露日，總股本56,059,772股，扣減425,399股後，派發現金紅利1502.13萬元，擬轉增22,253,749股，轉增後總股本78,313,521股。股權登記日為2026年7月1日，除權（息）日等均為7月2日。"
     }
   ]
 }
