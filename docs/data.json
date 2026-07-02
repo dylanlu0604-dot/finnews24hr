@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-02 21:53:41",
-  "count": 13906,
+  "updated": "2026-07-02 21:57:44",
+  "count": 13907,
   "items": [
+    {
+      "id": "4967885",
+      "time": "2026-07-02 21:55:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港澳臺簡訊：逾2700家臺資企業落戶天津】記者從天津市政府新聞辦2日舉行的新聞釋出會上獲悉，第十七屆津臺會將於7月7日至12日在天津舉辦，屆時臺灣政界工商界重要人士、臺灣青年企業家、基層民眾代表等約600人將來津參訪交流。截至目前，天津共批准設立臺資企業2718家，投資總額超過190億美元。（新華社）"
+    },
+    {
+      "id": "4967884",
+      "time": "2026-07-02 21:54:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將百事目標股價從186美元下調至172美元。"
+    },
+    {
+      "id": "te:markets:563820",
+      "time": "2026-07-02 21:54:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Vertex Pharmaceuticals Stock Price Hits 15-month High — Vertex Pharmaceuticals shares increased to 513.25 USD, the highest since March 2025. Over the past 4 weeks, Vertex Pharmaceuticals gained 20.18%, and in the last 12 months, it increased 11.78%."
+    },
+    {
+      "id": "4967883",
+      "time": "2026-07-02 21:54:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic據悉正與三星洽談定製人工智慧晶片】據三位直接瞭解該專案的人士透露，Anthropic已開始開發自有的AI晶片，並與三星電子進行了談判，作為潛在的製造合作伙伴，效仿競爭對手OpenAI試圖獲得對其模型背後昂貴計算系統的更多控制權。如果Claude製造商繼續推進該晶片，與其他公司相比，它在開發自有AI伺服器晶片方面將是相對較新的。"
+    },
+    {
+      "id": "4967882",
+      "time": "2026-07-02 21:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "人工智慧公司Anthropic正考慮採用三星的2奈米制造工藝及先進封裝設施。"
+    },
+    {
+      "id": "mkt:019f231b-5f3c-7aab-8c7d-27ee5b3a7a2b",
+      "time": "2026-07-02 21:53:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Five takeaways from U.S. June jobs report】Nonfarm payrolls rose 57k in June, with the prior two months revised down a combined 74k; unemployment rate fell to 4.2%. Labor force participation dropped to its lowest level in over five years. Leisure and hospitality posted the largest payroll decline since 2020; retail trade and information sectors also cut jobs. Healthcare and social assistance continued robust hiring; manufacturing added jobs but remains slightly below early‑2025 levels. S&P 500 rallied and U.S. Treasury yields fell as investors trimmed odds of additional Fed rate hikes this year."
+    },
+    {
+      "id": "4967881",
+      "time": "2026-07-02 21:53:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指在早盤交易中上漲1%。"
+    },
+    {
+      "id": "4967880",
+      "time": "2026-07-02 21:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將達美樂披薩目標股價從425美元下調至375美元。"
+    },
+    {
+      "id": "mkt:019f231a-f1a9-7aab-8c7d-1cef3523fbd5",
+      "time": "2026-07-02 21:53:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's benchmark stock index rose 1% in early trade."
+    },
     {
       "id": "mkt:019f231a-db76-7aab-8c7d-14444a0e66fd",
       "time": "2026-07-02 21:53:10",
@@ -10,6 +98,14 @@
         "Important"
       ],
       "text": "The Information reports Anthropic has held talks with several chip-design firms."
+    },
+    {
+      "id": "4967879",
+      "time": "2026-07-02 21:53:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "道瓊斯指數漲0.9%，再創歷史新高，成分股耐克、波音、蘋果，高盛領漲。"
     },
     {
       "id": "te:economy:563819",
@@ -127989,88 +128085,6 @@
         "市場"
       ],
       "text": "美光科技漲幅收窄至10%，此前一度上漲20%。"
-    },
-    {
-      "id": "mkt:019eff12-799a-7dd8-b11e-643601c4421f",
-      "time": "2026-06-25 21:57:41",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) shares pared gains to about 10% after earlier jumping as much as 20%."
-    },
-    {
-      "id": "4955390",
-      "time": "2026-06-25 21:57:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "IBM股價在盤前交易中扭轉走勢，最新下跌2.1%。"
-    },
-    {
-      "id": "4955389",
-      "time": "2026-06-25 21:57:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭氣象研究所因週五將出現極端高溫釋出罕見紅色預警。"
-    },
-    {
-      "id": "4955388",
-      "time": "2026-06-25 21:56:44",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【巴西財政部向中方遞交熊貓債發行申請函】記者從中國人民銀行瞭解到，今天（25日），巴西財政部向中國銀行交易商協會遞交了熊貓債發行申請函，巴西將成為首個註冊發行主權熊貓債的拉美國家。中國人民銀行行長潘功勝表示，深化兩國投融資合作，促進雙邊本幣使用，推動金融基礎設施互聯互通，確保合作成果惠及兩國企業和民眾，為全球經濟發展和金融穩定注入強勁動力。中巴雙方將進一步推進金融市場互聯互通。雙方支援中巴可持續發展擴大產能合作基金髮揮更大作用，透過在氣候變化、清潔能源等重點領域佈局專案，實現經濟效益與社會效益的互利共贏。雙方同意加強在二十國集團、金磚、國際貨幣基金組織等機制下的宏觀經濟政策協調，共同為發展中國家發聲。（央視新聞）"
-    },
-    {
-      "id": "4955387",
-      "time": "2026-06-25 21:56:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達股價快速擴大跌幅至3%。"
-    },
-    {
-      "id": "4955386",
-      "time": "2026-06-25 21:55:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "攜程集團美國上市股票在一季度業績公佈後跌至一年多來新低，最新跌幅為15.5%。"
-    },
-    {
-      "id": "te:markets:561931",
-      "time": "2026-06-25 21:54:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Solar Energy Index Hits 8-week Low — Solar Energy Index decreased to 56.93 USD, the lowest since April 2026. Over the past 4 weeks, Solar Energy Index lost 16.5%, and in the last 12 months, it increased 66.83%."
-    },
-    {
-      "id": "4955385",
-      "time": "2026-06-25 21:53:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破59000美元，日內跌3.52%。"
-    },
-    {
-      "id": "4955384",
-      "time": "2026-06-25 21:53:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.01%，現報25219.207點；道指漲0.47%，現報52094.621點；標普500指數跌0.24%，現報7340.250點。"
     }
   ]
 }
