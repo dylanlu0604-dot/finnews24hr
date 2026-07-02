@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-03 03:08:19",
-  "count": 13814,
+  "updated": "2026-07-03 03:12:12",
+  "count": 13815,
   "items": [
+    {
+      "id": "mkt:019f243d-2db8-7aab-8c83-76f0af51cfc8",
+      "time": "2026-07-03 03:10:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said the company's departmental restructuring bets have not yet paid off."
+    },
+    {
+      "id": "4968242",
+      "time": "2026-07-03 03:10:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉將員工每週 AI 工具使用費用上限設定為 200 美元。"
+    },
+    {
+      "id": "4968241",
+      "time": "2026-07-03 03:09:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格： 公司為此次架構重組押下的籌碼 “目前尚未見到成效”。"
+    },
     {
       "id": "mkt:019f243a-528f-7aab-8c83-6e1e441fcee7",
       "time": "2026-07-03 03:07:09",
@@ -127252,22 +127282,6 @@
         "市場"
       ],
       "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7990元，較週三夜盤收盤漲102點。成交量593.26億美元。"
-    },
-    {
-      "id": "4955825",
-      "time": "2026-06-26 03:12:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌重組全新 AI 程式碼攻堅團隊。"
-    },
-    {
-      "id": "4955824",
-      "time": "2026-06-26 03:08:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告訴國防承包商，他正在努力爭取資金。"
     }
   ]
 }
