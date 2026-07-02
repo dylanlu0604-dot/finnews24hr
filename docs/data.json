@@ -1,7 +1,156 @@
 {
-  "updated": "2026-07-02 14:10:44",
-  "count": 14009,
+  "updated": "2026-07-02 14:14:40",
+  "count": 14014,
   "items": [
+    {
+      "id": "mkt:019f2176-4f63-7aab-8c6e-54d0bcf3cca4",
+      "time": "2026-07-02 14:13:49",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japanese government economic adviser Nagase expects the BOJ to hike at year-end, hike again next summer, then pause further increases."
+    },
+    {
+      "id": "4966685",
+      "time": "2026-07-02 14:13:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8724.50美元。"
+    },
+    {
+      "id": "mkt:019f2175-ed32-7aab-8c6e-4c0e79316ebb",
+      "time": "2026-07-02 14:13:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's government economic adviser Nagase said a modest Bank of Japan rate hike is crucial to correcting excessive yen depreciation."
+    },
+    {
+      "id": "4966684",
+      "time": "2026-07-02 14:13:16",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌8%，SK海力士股價跌幅擴大至14%。"
+    },
+    {
+      "id": "mkt:019f2175-bd83-7aab-8c6e-47f2f45f9d2b",
+      "time": "2026-07-02 14:13:12",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japanese government economic adviser Nagase said the Bank of Japan should raise rates every six months and that such a pace would not harm domestic investment."
+    },
+    {
+      "id": "mkt:019f2175-7043-7aab-8c6e-3a1b0532fbfb",
+      "time": "2026-07-02 14:12:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's government economic adviser Nagase said the Bank of Japan should continue raising interest rates at a moderate pace."
+    },
+    {
+      "id": "4966683",
+      "time": "2026-07-02 14:12:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員長濱：預計日本央行將在今年底加息，然後在明年夏季前後再次加息，之後暫停行動。"
+    },
+    {
+      "id": "4966682",
+      "time": "2026-07-02 14:12:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員長濱：日本央行溫和加息對糾正日元過度疲軟至關重要。"
+    },
+    {
+      "id": "4966681",
+      "time": "2026-07-02 14:11:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員長濱：央行應以大約每六個月一次的節奏加息，這樣的步伐不會損害國內投資。"
+    },
+    {
+      "id": "mkt:019f2174-051a-7aab-8c6e-33d61567e444",
+      "time": "2026-07-02 14:11:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China crude oil futures contract 2608 slid intraday, widening losses to 6.02% at 432.7 yuan/barrel; turnover topped 26.4 bln yuan. Open interest rose about 2,300 contracts during the session and intraday volatility increased."
+    },
+    {
+      "id": "4966680",
+      "time": "2026-07-02 14:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國北部一醫院發生火災 已致2人死亡逾30人受傷】當地時間7月2日凌晨，德國北部城市路德維希斯盧斯特一家醫院發生火災，已造成2人死亡、30多人受傷。目前，消防和救援人員仍在現場處置，起火原因尚不清楚。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f2173-a4e1-7aab-8c6e-297e7dc0d209",
+      "time": "2026-07-02 14:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's trade minister said India and Japan, as Quad members, are jointly committed to promoting peace in the Indo-Pacific."
+    },
+    {
+      "id": "mkt:019f2173-83a1-7aab-8c6e-217f1b5d075b",
+      "time": "2026-07-02 14:10:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian military says it has struck the Kstovo oil refinery in Russia."
+    },
+    {
+      "id": "4966679",
+      "time": "2026-07-02 14:10:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報432.70元。"
+    },
+    {
+      "id": "4966678",
+      "time": "2026-07-02 14:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱襲擊了位於KSTOVO的俄羅斯煉油廠。"
+    },
     {
       "id": "mkt:019f2172-2ade-7aab-8c6e-1f972eeedd34",
       "time": "2026-07-02 14:09:17",
@@ -129018,111 +129167,6 @@
         "Impact bearish"
       ],
       "text": "Hong Kong-listed Alibaba (09988.HK) down more than 5%, turnover above HK$8.8 billion."
-    },
-    {
-      "id": "mkt:019efd6a-6cb8-7dd8-b10e-a40b29439294",
-      "time": "2026-06-25 14:14:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Germany July GfK consumer confidence still weak but shows tentative stabilization】GfK's July consumer confidence index was -29.2 (consensus -27.6); June was revised to -29.7. The index remains deeply weak; July's modest improvement reflected a small uptick in income expectations while purchase intent and saving propensity were unchanged. GfK said confidence is stable at low levels: easing inflation worries from peace talks and lower oil prices have slightly lifted economic expectations, but there is no sign of a return to pre-war levels."
-    },
-    {
-      "id": "4954244",
-      "time": "2026-06-25 14:14:20",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【阿里巴巴-W港股跌超5%】阿里巴巴-W港股跌5.18%，報94.25港元。"
-    },
-    {
-      "id": "4954243",
-      "time": "2026-06-25 14:14:12",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【巴克萊：美國10年期國債收益率未來一年料將上升】巴克萊策略師在一份報告中表示，在巴克萊的基準情境下，美國10年期國債收益率預計將在未來一年升至4.65%。在他們的基準情境下，美聯儲將按兵不動。他們寫道：“我們認為投資者應繼續低配全球長久期政府債券，尤其是長期美國國債。“這些策略師認為，長期利率的市場定價仍反映出較低的均衡利率預期，但與此同時，期限溢價上升的理由正日益增多。他們表示：“更高的結構性赤字、更少的前瞻性指引、債券帶來的多元化收益變差——所有這些都指向這樣一個世界：投資者在全球範圍內承擔久期風險時，應要求獲得更多的補償。“根據Tradeweb的資料，美國10年期國債收益率最新報4.409%。"
-    },
-    {
-      "id": "4954242",
-      "time": "2026-06-25 14:13:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量2839億元。"
-    },
-    {
-      "id": "4954241",
-      "time": "2026-06-25 14:13:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，報8748.70點。"
-    },
-    {
-      "id": "mkt:019efd69-594f-7dd8-b10e-9ec3b6843f3a",
-      "time": "2026-06-25 14:13:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 40-year government bond yield fell 6.5 bps to 3.715%."
-    },
-    {
-      "id": "4954240",
-      "time": "2026-06-25 14:13:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【胡潤髮布《2026全球獨角獸榜》，前三名均佈局大模型業務】6月25日，胡潤研究院於廣州釋出《2026全球獨角獸榜》。榜單顯示，全球獨角獸企業數量創下歷史新高，達1603家，較去年增長5.3%，增加80家。美國以806家獨角獸企業領跑，較去年增加48家，佔全球總數的50.3%。中國以381家獨角獸企業位居全球第二，較去年增加38家。英國以70家獨角獸企業超過印度（61家），位居第三。前三名均佈局大模型業務：隨著SpaceX的史上最大IPO，Claude母公司Anthropic一躍成為全球價值最高獨角獸，價值達6.6萬億元人民幣，單年增值6.1萬億元創胡潤獨角獸榜紀錄；ChatGPT母公司OpenAI以5.8萬億元價值位列第二，豆包母公司位元組跳動價值3.3萬億元位列第三。"
-    },
-    {
-      "id": "mkt:019efd69-29de-7dd8-b10e-90b7965ac8b3",
-      "time": "2026-06-25 14:13:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "MU.DE",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology's Frankfurt-listed shares surged 18% after the company said its earnings outlook exceeded market expectations."
-    },
-    {
-      "id": "4954239",
-      "time": "2026-06-25 14:12:20",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "美光科技法蘭克福上市股票在業績預測超出預期後上漲18%。"
-    },
-    {
-      "id": "te:markets:561764",
-      "time": "2026-06-25 14:11:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Snaps 3-Day Losing Streak, Ends Up 0.7% — The NZX 50 rose 92 points, or 0.7%, to 13,493 on Thursday, erasing losses from the previous three sessions, mainly boosted by gains in energy, healthcare, consumer staples, and communication services. The broader index tracked a rise in US futures after Micron posted a sizeable earnings beat and a better-than-expected outlook. Easing oil prices also lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious ahead of the release of the final US Q1 GDP data and the May PCE Price Index later today, which could provide clues about the Fed's monetary policy decision at its upcoming meeting. A2 Milk surged 3.3% after declaring a USD 300 million special dividend for shareholders following the clearance of Chinese regulatory hurdles. Other gainers included Fisher & Paykel Healthcare (3.2%), Skellerup Holdings (2.7%), Ebos Group (1.6%), and Hallenstein Glasson Holdings (1.5%)."
     }
   ]
 }
