@@ -1,7 +1,72 @@
 {
   "date": "2026-07-02",
-  "count": 518,
+  "count": 524,
   "items": [
+    {
+      "id": "4966092",
+      "time": "2026-07-02 08:15:02",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數大跌 晶片股跟隨美股走低】韓國Kospi指數一度下跌6%，晶片製造商股價跟隨美國同行下跌，投資者正在評估美聯儲主席凱文·沃什關於通脹的最新言論。SK海力士、三星電子和三星電機對指數拖累最大。韓國小型股Kosdaq指數下跌幅度一度高達4.6%。MSCI亞太指數一度下跌1.1%。"
+    },
+    {
+      "id": "4966091",
+      "time": "2026-07-02 08:14:14",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌6%，至7804.92。"
+    },
+    {
+      "id": "mkt:019f202c-f649-7aab-8c67-ee685ffdbbca",
+      "time": "2026-07-02 08:14:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index deepened losses to 6%; Samsung Electronics fell 7%, SK Hynix dropped nearly 8%."
+    },
+    {
+      "id": "4966090",
+      "time": "2026-07-02 08:13:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方在X平臺上表示，俄羅斯襲擊烏克蘭期間，波蘭緊急調動戰鬥機。"
+    },
+    {
+      "id": "mkt:019f202c-28e8-7aab-8c67-e0882292a42b",
+      "time": "2026-07-02 08:13:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Poland's military said on social media it scrambled fighter jets in response to Russian strikes on Ukraine."
+    },
+    {
+      "id": "mkt:019f202b-fc70-7aab-8c67-d8e809f5ab5e",
+      "time": "2026-07-02 08:13:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China successfully launches Haiyang-2E ocean-observation satellite】At 07:46 Beijing time on July 2, 2026, China launched the Haiyang-2E ocean-observation satellite from Jiuquan Satellite Launch Center on a Long March 4B rocket; the satellite reached its planned orbit and the mission was declared successful. The launch was the Long March family’s 654th flight."
+    },
     {
       "id": "4966089",
       "time": "2026-07-02 08:12:33",
