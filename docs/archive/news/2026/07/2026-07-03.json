@@ -1,7 +1,27 @@
 {
   "date": "2026-07-03",
-  "count": 325,
+  "count": 327,
   "items": [
+    {
+      "id": "mkt:019f248e-08b3-7aab-8c84-3c3bec24804c",
+      "time": "2026-07-03 04:38:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Air strike on Kyiv kills 27, wounds 91】Kyiv military administration head Tkachenko said on social media on the evening of the 2nd that a large-scale Russian airstrike on Kyiv from the night of the 1st into the early hours of the 2nd killed 27 people and wounded 91."
+    },
+    {
+      "id": "4968274",
+      "time": "2026-07-03 04:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔遭空襲致27死91傷】烏克蘭基輔市軍事管理局局長特卡琴科2日晚在社交媒體發文稱，俄軍1日晚至2日凌晨對基輔市發動的大規模空襲已造成27人死亡、91人受傷。特卡琴科稱，俄軍襲擊導致達爾尼茨基區一處居民區5人死亡，尚有8人下落不明。目前，搜救工作仍在進行，傷亡人數可能繼續增加。2日下午，在達爾尼茨基區遇襲現場，烏國家緊急情況局發言人告訴新華社記者，基輔市已投入130套裝置和500名救援人員在全市39處遇襲地點展開救援。（新華社）"
+    },
     {
       "id": "te:markets:563878",
       "time": "2026-07-03 04:35:07",
