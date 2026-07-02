@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-03 01:38:01",
-  "count": 13894,
+  "updated": "2026-07-03 01:41:56",
+  "count": 13896,
   "items": [
+    {
+      "id": "mkt:019f23ea-06ae-7aab-8c82-00fb19e00d53",
+      "time": "2026-07-03 01:39:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "According to The Information, Microsoft Copilot chief Jacob Andrew is trimming low-value Copilot features."
+    },
+    {
+      "id": "4968175",
+      "time": "2026-07-03 01:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟將整合消費端與企業端 Copilot 為統一應用】據報道，微軟一名高管週四上午對內告知員工，公司正計劃將面向普通使用者與企業使用者的兩款 Copilot 人工智慧聊天機器人合併為一款獨立應用，以此打造實力更強的競品，對標 Anthropic 的 Claude 以及 OpenAI 的 ChatGPT。內部備忘錄顯示，執行副總裁雅各布・安德烈烏在這份 1200 字的檔案中表示，這款全新統一版應用還將搭載 AI 程式設計工具，以及多款全新智慧代理功能，該類功能需使用者額外付費使用。備忘錄提及，全新智慧代理系列命名為 AutoPilot，主打 “全天候線上”，可代使用者處理各類事務，實現 “繁雜工作自動化”。微軟此前已展示過一款名為 Scout 的 AutoPilot 智慧代理，該工具能夠整理使用者日程、監控收件箱，並彙總生成精選郵件摘要。目前安德烈烏統籌多個團隊，研發其他多品類同類智慧代理。"
+    },
+    {
+      "id": "4968174",
+      "time": "2026-07-03 01:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟Copilot高管雅各布·安德烈烏正在削減Copilot的低價值功能。"
+    },
+    {
+      "id": "mkt:019f23e8-dac5-7aab-8c81-fe3f7f03b37b",
+      "time": "2026-07-03 01:38:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) plans to merge its consumer and enterprise Copilot chatbots in August, The Information reports."
+    },
+    {
+      "id": "4968173",
+      "time": "2026-07-03 01:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：保衛武裝力量是我的職責，我將傾盡全部力量支援軍隊；針對向某企業供應 2000 萬桶原油一事引發的外界批評，相關資訊僅屬內部披露，不予理會；並承諾若再出現類似情況，將供應 1 億桶原油。"
+    },
     {
       "id": "4968172",
       "time": "2026-07-03 01:35:12",
@@ -127997,30 +128046,6 @@
         "MKT News"
       ],
       "text": "BBC reported Labour’s ruling body has set a timetable to elect a new leader; Andy Burnham could succeed Prime Minister Starmer as early as July 17."
-    },
-    {
-      "id": "4955703",
-      "time": "2026-06-26 01:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽 - 畢馬威銀行業峰會：居民消費韌性、人工智慧落地應用支撐美國銀行業經營環境。"
-    },
-    {
-      "id": "4955702",
-      "time": "2026-06-26 01:40:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：烏茲別克將取消或降低對部分美國商品的關稅。"
-    },
-    {
-      "id": "4955701",
-      "time": "2026-06-26 01:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國發布涉俄通用許可 131G。"
     }
   ]
 }
