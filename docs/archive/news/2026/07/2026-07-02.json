@@ -1,7 +1,151 @@
 {
   "date": "2026-07-02",
-  "count": 1307,
+  "count": 1322,
   "items": [
+    {
+      "id": "4966673",
+      "time": "2026-07-02 14:05:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本 20 年期國債收益率上漲 11 個基點，報 3.775%。"
+    },
+    {
+      "id": "4966672",
+      "time": "2026-07-02 14:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航升衛星：與杭州柯林戰略合作 攻堅算力衛星等高功率衛星在軌能源安全難題】7月2日，航升衛星與杭州柯林(688611)簽署戰略合作協議，將聚焦空間能源智慧感知、衛星在軌能源安全管控、新能源空天地監測等核心領域開展深度長期合作，開拓空天地融合產業全新賽道。當前，太空算力產業快速爆發，高功率、大體量衛星成為行業發展主流，衛星在軌能源安全管控、健康狀態智慧診斷預警，已成為保障衛星穩定執行、突破商業航天發展瓶頸的關鍵環節。雙方將攻堅衛星能源在軌核心技術，共建衛星能源安全數字化聯合實驗室，精準攻克算力衛星、SAR、手機直連衛星等高功率衛星在軌能源安全痛點難題，聯合研發新一代分散式大功率衛星能源控制系統、在軌智慧感知與安全管理系列產品。推動杭州柯林能源感知、安全管控核心產品與航升衛星全系列衛星平臺實現標準化適配、在軌試驗及規模化搭載應用。"
+    },
+    {
+      "id": "4966671",
+      "time": "2026-07-02 14:04:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "嘉士伯已為其印度子公司首次公開募股秘密提交了招股草案，募資規模最高可達7億美元。"
+    },
+    {
+      "id": "4966670",
+      "time": "2026-07-02 14:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【餘偉文：拓展人民幣跨境應用場景 助力實體經濟發展】人民幣國際化近年來備受關注，推進人民幣國際化也是國家“十五五”規劃的重點之一。作為全球重要的國際金融中心和離岸人民幣業務樞紐，香港一直積極把握機遇，紮實推動多項具體措施，著力於深化離岸人民幣市場發展，並持續推動內地與香港金融市場互聯互通。與此同時，我們積極推動企業在國際貿易和投融資等實體經濟活動中更廣泛使用人民幣，便利企業跨境營運，強化香港聯通內地與國際市場的橋樑角色。我們與業界保持溝通，瞭解企業使用人民幣面臨的挑戰。與金融市場不同，實體經濟的難點在於：企業使用其他國際貨幣有其慣性，營運與會計等內部系統有一套沿用已久的實務操作流程，未必能支援人民幣交易，以致轉型動力相對不足；部分企業對銀行提供的人民幣產品認識有限，亦未深入分析成本效益。針對這些難點，我們積極與業界和內地政策部門磋商，探討可行解決辦法。（香港金融管理局）"
+    },
+    {
+      "id": "mkt:019f216d-a22f-7aab-8c6e-0c5e0dd30b53",
+      "time": "2026-07-02 14:04:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Yu Weiwen: Expand cross-border RMB use to support real economy】RMB internationalization remains a policy priority. Hong Kong, as an international financial centre and offshore RMB hub, is implementing measures to deepen the offshore RMB market and strengthen mainland–Hong Kong market connectivity. Authorities are promoting wider corporate use of RMB in trade and financing to ease cross-border operations and reinforce Hong Kong’s conduit role between the mainland and global markets. Industry feedback highlights frictions: corporate inertia toward other currencies, legacy operational and accounting systems that do not support RMB transactions, and limited awareness or cost‑benefit analysis of RMB banking products. Hong Kong authorities are consulting with industry and mainland policy departments to identify practicable solutions."
+    },
+    {
+      "id": "4966669",
+      "time": "2026-07-02 14:04:13",
+      "tags": [
+        "焦點"
+      ],
+      "text": "韓國KOSPI指數日內跌幅擴大至7.00%，現報7721.60點。"
+    },
+    {
+      "id": "mkt:019f216d-6df3-7aab-8c6e-027eee41dd7c",
+      "time": "2026-07-02 14:04:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "South Korea's KOSPI index intraday loss widened to 7.00%, trading at 7,721.60 points."
+    },
+    {
+      "id": "4966668",
+      "time": "2026-07-02 14:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里整合QoderWork、悟空、MuleRun 將推出新的生產力AI產品】阿里巴巴正在對旗下Agent產品線進行整合：以QoderWork為基礎，整合悟空、MuleRun的能力，整合升級成一款更強大的面向企業生產力場景的AI產品。新產品由陳宇森負責。阿里巴巴方面回應：QoderWork、悟空、MuleRun現有產品服務未來將無縫升級，所有使用者權益不會受影響。"
+    },
+    {
+      "id": "mkt:019f216c-dc08-7aab-8c6d-f94bf7eb0d03",
+      "time": "2026-07-02 14:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kunlun Wanwei: Tiangong AI ARR tops $800 million】Kunlun Wanwei said on July 2 that Tiangong AI achieved an ARR milestone in Q2 2026: AINative model and product business ARR has exceeded $800 million. The AI short-drama platform business accounts for over $700 million of ARR, while AI tools ARR has passed $100 million. DramaWave has completed an AI-native transformation; more than 80% of newly published content on the platform is now AI-generated."
+    },
+    {
+      "id": "4966667",
+      "time": "2026-07-02 14:03:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國副財政部長：韓國正在考慮採取措施以增強隔夜即期市場的流動性。經濟情況與1997年危機時不同；美元流動性充足。"
+    },
+    {
+      "id": "4966666",
+      "time": "2026-07-02 14:03:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元<JPY=EBS>下跌0.20%，報162.2550。"
+    },
+    {
+      "id": "4966665",
+      "time": "2026-07-02 14:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崑崙萬維：天工AI業務ARR突破8億美元】崑崙萬維7月2日宣佈，旗下天工AI在2026年第二季度實現歷史性突破：AI Native模型與產品業務年度經常性收入（ARR）已超過8億美元大關。其中AI短劇平臺業務ARR超過7億美元，AI工具業務ARR突破1億美元。同時，天工AI旗下短劇平臺DramaWave正式完成AI原生化轉型。目前平臺超過80%的新增釋出內容由AI生成，標誌著天工AI引領全球短劇行業正式進入AI原生內容時代。（崑崙萬維官方公眾號）"
+    },
+    {
+      "id": "mkt:019f216c-4c80-7aab-8c6d-f795833a3014",
+      "time": "2026-07-02 14:02:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "South Korea's deputy finance minister said current economic conditions differ from the 1997 crisis and US dollar liquidity is ample."
+    },
+    {
+      "id": "mkt:019f216c-02a4-7aab-8c6d-ef81d0e0096a",
+      "time": "2026-07-02 14:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative-drug sector rebounded in the afternoon. Kelun Pharma and Zejing Pharmaceutical hit intraday record highs; Hainan Haiyao posted a fourth consecutive daily limit-up; CSPC Jingfeng and Lianhua Technology hit daily limits; Hotgen Biotech jumped over 15%, while CSPC Innovation, Wanbang Pharma, JinYao Pharmaceutical, Kangzhi Pharmaceutical and Shuanglu Pharmaceutical also climbed."
+    },
+    {
+      "id": "mkt:019f216b-d6ad-7aab-8c6d-e3dec02c6acf",
+      "time": "2026-07-02 14:02:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister said the government is considering measures to bolster liquidity in the overnight spot market."
+    },
     {
       "id": "4966664",
       "time": "2026-07-02 14:01:53",
