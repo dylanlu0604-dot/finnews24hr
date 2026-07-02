@@ -1,7 +1,45 @@
 {
   "date": "2026-07-03",
-  "count": 248,
+  "count": 251,
   "items": [
+    {
+      "id": "4968232",
+      "time": "2026-07-03 02:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta一度跌超5%。"
+    },
+    {
+      "id": "mkt:019f2431-5dbc-7aab-8c83-46b7645d8af5",
+      "time": "2026-07-03 02:57:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) slipped intraday, down 4.89%."
+    },
+    {
+      "id": "mkt:019f2430-6146-7aab-8c83-3e4dde71d8cc",
+      "time": "2026-07-03 02:56:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected."
+    },
     {
       "id": "4968231",
       "time": "2026-07-03 02:55:11",

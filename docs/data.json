@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-03 02:56:09",
-  "count": 13840,
+  "updated": "2026-07-03 03:00:33",
+  "count": 13834,
   "items": [
+    {
+      "id": "4968232",
+      "time": "2026-07-03 02:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta一度跌超5%。"
+    },
+    {
+      "id": "mkt:019f2431-5dbc-7aab-8c83-46b7645d8af5",
+      "time": "2026-07-03 02:57:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) slipped intraday, down 4.89%."
+    },
+    {
+      "id": "mkt:019f2430-6146-7aab-8c83-3e4dde71d8cc",
+      "time": "2026-07-03 02:56:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected."
+    },
     {
       "id": "4968231",
       "time": "2026-07-03 02:55:11",
@@ -127399,87 +127437,6 @@
         "MKT News"
       ],
       "text": "BOC: In every community surveyed by the central bank, Canadians expressed concern about the cost of living."
-    },
-    {
-      "id": "4955800",
-      "time": "2026-06-26 03:00:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大銀行：消費者物價指數資料與民眾實際生活感受存在偏差，正削弱公眾信任。"
-    },
-    {
-      "id": "mkt:019f0027-6912-7dd8-b124-e40de4962d73",
-      "time": "2026-06-26 03:00:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Mexico central bank policy rate through June 25: 6.50% (consensus 6.50%, prior 6.50%)."
-    },
-    {
-      "id": "4955799",
-      "time": "2026-06-26 03:00:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行維持隔夜利率在6.50%不變。"
-    },
-    {
-      "id": "4955798",
-      "time": "2026-06-26 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.36%，報22942.68點，低水134.23點。"
-    },
-    {
-      "id": "mkt:019f0027-461b-7dd8-b124-dee18fc827ab",
-      "time": "2026-06-26 03:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Mexico | Banxico Interest Rate Decision (Jun.25) | actual 6.5% | consensus 6.50% | previous 6.50%"
-    },
-    {
-      "id": "4955797",
-      "time": "2026-06-26 02:59:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大不列顛哥倫比亞省省長：加拿大液化天然氣二期專案將於 9 月作出投資最終決定。"
-    },
-    {
-      "id": "4955796",
-      "time": "2026-06-26 02:57:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度商務部長談及美印貿易協議： 在確保自身（尤其在南亞、東南亞地區）競爭優勢前，印度不會啟動這項美印貿易協議。"
-    },
-    {
-      "id": "4955795",
-      "time": "2026-06-26 02:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟延長波音-空客貿易爭端中的關稅暫停期】據知情人士透露，歐盟成員國已同意延長涉及空客與波音之間的貿易爭端的關稅暫停期，這些關稅原定針對價值40億美元的美國產品。此次關稅暫停未設定明確的截止日期。歐盟委員會發言人奧洛夫·吉爾對這一表決結果表示歡迎，他表示：“我們正與美國進行持續磋商，以確保情況穩定與確定性，並維持雙方暫停實施反制措施的狀態。”總部位於法國圖盧茲的空客與總部位於美國弗吉尼亞州阿靈頓的波音之間這場曠日持久的爭端，起因是非法補貼問題。在雙方於五年前達成臨時休戰協議之前，歐盟和美國曾分別對價值115億美元的對方出口商品加徵關稅。"
-    },
-    {
-      "id": "mkt:019f0024-acc0-7dd8-b124-d64cb96fcb7d",
-      "time": "2026-06-26 02:57:11",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【EU extends tariff suspension in Airbus-Boeing dispute】EU member states have agreed to extend the tariff suspension in the long-running Airbus-Boeing dispute, covering $4 billion of U.S. goods; no end date was set. European Commission spokesman Olof Gill said Brussels is holding ongoing talks with Washington to preserve stability and keep countermeasures suspended. The dispute over alleged illegal subsidies previously led both sides to impose tariffs on about $11.5 billion of each other’s exports before a five-year truce."
     }
   ]
 }
