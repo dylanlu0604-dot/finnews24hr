@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-02 10:07:24",
-  "count": 14022,
+  "updated": "2026-07-02 10:11:12",
+  "count": 14017,
   "items": [
+    {
+      "id": "4966349",
+      "time": "2026-07-02 10:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【違規收集個人資訊、過度索取許可權 32款APP及SDK被通報】工信部對APP、SDK違法違規收集使用個人資訊等問題開展治理。近期，經組織第三方檢測機構進行抽查，共發現32款APP及SDK存在侵害使用者權益行為。"
+    },
+    {
+      "id": "4966348",
+      "time": "2026-07-02 10:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳交所：正在調查使用者訪問澳交所線上平臺的問題。"
+    },
+    {
+      "id": "4966347",
+      "time": "2026-07-02 10:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CounterPoint Research預估蘋果首款摺疊手機將斬獲全球市場29%的訂單】市場調查機構CounterPoint Research預估，蘋果首款摺疊手機上市後，在2026年全球摺疊手機螢幕出貨量佔比中，將斬獲29%的訂單。"
+    },
+    {
+      "id": "mkt:019f2094-7096-7aab-8c6a-22c632a7e930",
+      "time": "2026-07-02 10:07:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "2330.TW",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【AI rally forces rebalancing; foreign investors withdraw a record $137.4bn from Asian equities】Foreign investors pulled $137.36bn from Asian equities in 1H 2026, a record outflow, with Korea and Taiwan seeing withdrawals of $70.8bn and $29.6bn respectively. A rally in AI chip makers concentrated gains and prompted portfolio rebalancing, with Korea’s KOSPI nearly doubling and Taiwan’s Weighted Index up 62% led by TSMC, Samsung and SK Hynix. Analysts say the selling largely reflects position adjustment away from an unusually concentrated rally rather than broad risk aversion. Capital is rotating from oversized chip leaders into downstream suppliers and lower‑valuation markets, notably Southeast Asia, as investors reassess tech exposure and pursue broader diversification, according to asset managers."
+    },
+    {
+      "id": "mkt:019f2094-560c-7aab-8c6a-1c1d3a0e4eb2",
+      "time": "2026-07-02 10:06:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Counterpoint Research: Apple’s first foldable iPhone to capture 29% of global foldable-display shipments in 2026】Market research firm Counterpoint Research estimates that once launched, Apple’s first foldable iPhone will account for 29% of global foldable-display shipments in 2026."
+    },
     {
       "id": "4966346",
       "time": "2026-07-02 10:06:50",
@@ -10,6 +62,15 @@
         "國際"
       ],
       "text": "印尼股市基準指數上漲1%至5750.91點。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607023791362142",
+      "time": "2026-07-02 10:06:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美銀：美聯儲縮減對外發聲頻率 政策訊號傳導機制面臨重塑】自六月聯邦公開市場委員會（FOMC）會議結束以來，美聯儲官員的公開溝通頻次出現顯著減少。美國銀行策略團隊最新監測資料顯示，包括本週末已安排的活動在內，美聯儲官員近期僅進行了12場公開演講和採訪；而自2022年以來，同期平均發聲次數約為23次。這一近乎腰斬的資料變化，引發市場對美聯儲溝通風格是否正在經歷重大轉向的密切關注。"
     },
     {
       "id": "4966345",
@@ -129100,103 +129161,6 @@
         "原創"
       ],
       "text": "【霍爾木茲海峽重開增加供應 布倫特原油抹去戰時全部漲幅】在美伊和平協議取得進展後，霍爾木茲海峽的運輸量增加，布倫特原油期貨價格已抹去戰爭期間的所有漲幅。這一全球基準油價週四延續跌勢，跌破衝突前的收盤價每桶72.48美元。WTI原油期貨交易價格徘徊在69美元附近。市場關鍵領域突然供應過剩，買家被來自中東以及非洲的原油報價淹沒。截至北京時間上午10:00，8月交割的布倫特原油期貨下跌1.6%至每桶72.56美元。8月交割的WTI下降1.4%至每桶69.38美元。美國頒佈的一項臨時豁免令允許購買已裝船的伊朗原油，這也將進一步增加供應量。不過，融資和保險方面的障礙依然存在，這可能會限制銷售。"
-    },
-    {
-      "id": "mkt:019efc8b-16e2-7dd8-b10a-4964ed847304",
-      "time": "2026-06-25 10:10:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Tech Index fell over 2%; HSI down 1.4%."
-    },
-    {
-      "id": "4953931",
-      "time": "2026-06-25 10:10:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉官員：地震致至少18人受傷】委內瑞拉首都加拉加斯附近的米蘭達州查考市市長古斯塔沃·杜克24日在社交媒體上說，該市有兩處建築物在地震中倒塌，目前已救出18名受困傷者，500餘名政府工作人員正在執行救援任務。（新華社）"
-    },
-    {
-      "id": "mkt:019efc8a-f680-7dd8-b10a-46785d8032cd",
-      "time": "2026-06-25 10:10:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela official: Earthquake injures at least 18】Gustavo Duque, mayor of Chacao in Miranda state near Caracas, said on social media on the 24th that two buildings collapsed in the quake; 18 people have been rescued injured and more than 500 government personnel are conducting rescue operations."
-    },
-    {
-      "id": "4953930",
-      "time": "2026-06-25 10:10:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌8%，現報13704.00元。"
-    },
-    {
-      "id": "4953929",
-      "time": "2026-06-25 10:10:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4389.270點；恒生指數現跌1.405%。"
-    },
-    {
-      "id": "4953928",
-      "time": "2026-06-25 10:09:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.03%，成分股中，國航遠洋跌6.00%，聚星科技跌5.37%，XD銅冠礦跌4.86%，諾思蘭德跌4.46%。"
-    },
-    {
-      "id": "4953927",
-      "time": "2026-06-25 10:08:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高檢：深挖涉毒洗錢犯罪】最高人民檢察院6月25日舉行的新聞釋出會上，最高檢副檢察長苗生明介紹，檢察機關深挖徹查“自洗錢”與“他洗錢”犯罪，大力推進涉毒資產追繳，確保實現涉毒洗錢犯罪查處全覆蓋。2025年1月至2026年5月，全國檢察機關共起訴涉毒洗錢犯罪1200餘人。如最高檢掛牌督辦、重慶檢察機關辦理的李某波等人特大跨境走私、販賣、運輸毒品、洗錢案，李某波透過虛擬貨幣洗錢4800餘萬元，被依法數罪併罰判處死刑。"
-    },
-    {
-      "id": "4953926",
-      "time": "2026-06-25 10:08:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3980美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "4953925",
-      "time": "2026-06-25 10:08:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4953924",
-      "time": "2026-06-25 10:08:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3970美元/盎司，日內跌0.76%。"
-    },
-    {
-      "id": "4953923",
-      "time": "2026-06-25 10:08:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年1月至2026年5月檢察機關提起公訴毒品犯罪4.6萬餘人】最高檢黨組成員、副檢察長苗生明介紹，2025年1月至2026年5月，全國檢察機關共批捕毒品犯罪2.9萬餘人，同比下降36%；提起公訴毒品犯罪4.6萬餘人，同比下降30%。從辦案情況看，受境外毒品滲透等多方面因素影響，新型毒品犯罪和未列管成癮性物質濫用問題突出，懲治毒品犯罪仍需持續發力。"
     }
   ]
 }
