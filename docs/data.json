@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-03 03:58:56",
-  "count": 13798,
+  "updated": "2026-07-03 04:02:50",
+  "count": 13800,
   "items": [
+    {
+      "id": "4968260",
+      "time": "2026-07-03 04:01:55",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉收跌7.5%，創將近一年來最差單日表現。"
+    },
+    {
+      "id": "4968259",
+      "time": "2026-07-03 04:01:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "非官方周度資料：標普 500 指數上漲 1.75%，納斯達克指數上漲 2.12%，道瓊斯工業平均指數上漲 1.97%。"
+    },
+    {
+      "id": "4968258",
+      "time": "2026-07-03 04:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.13%，標普500指數跌0.01%，納指跌0.87%。閃迪跌14.13%，泰瑞達跌13.63%，科磊跌11.55%，純正部件漲12.91%，Moderna漲10.01%，Strategy漲8.00%。“七姐妹”方面：蘋果漲4.75%，微軟漲1.54%，亞馬遜漲0.24%，谷歌跌0.47%，英偉達跌1.47%，Meta Platforms跌4.87%，特斯拉跌7.64%。"
+    },
+    {
+      "id": "mkt:019f246b-3180-7aab-8c83-df11f154d766",
+      "time": "2026-07-03 04:00:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said the company expects to start seeing greater benefits from its AI investments within the next 3-6 months."
+    },
+    {
+      "id": "4968257",
+      "time": "2026-07-03 04:00:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：預計公司將在未來 3 至 6 個月逐步收穫 AI 投資帶來的更多收益。"
+    },
+    {
+      "id": "4968256",
+      "time": "2026-07-03 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.83%】海天網路跌22.47%，世紀互聯跌9.99%，新氧跌9.71%，阿特斯跌7.67%，億航跌6.18%。"
+    },
+    {
+      "id": "4968255",
+      "time": "2026-07-03 03:59:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Whale Rock旗艦基金今年盈利近73% 押注科技股帶來豐厚回報】Whale Rock Capital Management的旗艦對沖基金今年上漲72.5%，使這家專注科技領域、管理資產190億美元的公司成為業內最佳之一。據一位知情人士稱，該對沖基金6月份上漲9.2%。Whale Rock的單純做多基金上個月上漲9.4%，推動其年初至今回報達到82%。該人士稱，該公司的回報受到在半導體公司閃迪和SK海力士以及電路板製造商 TTM Technologies Inc.持倉的提振。今年上半年，閃迪飆升超過850%，SK海力士上漲逾300%，TTM上漲約170%。Whale Rock還受益於對人工智慧公司Anthropic PBC的押注。Anthropic在最新一輪融資中達到9650億美元估值，首次超過競爭對手OpenAI。"
+    },
+    {
+      "id": "te:markets:563869",
+      "time": "2026-07-03 03:58:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 7-week High — Lowe's Companies shares increased to 227.32 USD, the highest since May 2026. Over the past 4 weeks, Lowe's Companies gained 9.38%, and in the last 12 months, it decreased 0.52%."
+    },
     {
       "id": "4968254",
       "time": "2026-07-03 03:57:53",
@@ -127035,69 +127113,6 @@
         "AI Revolution"
       ],
       "text": "According to The Information, Vaudit, a vendor of AI billing-audit tools, says its data show billing errors may have led some customers to overpay for ANTHROPIC and OpenAI products."
-    },
-    {
-      "id": "4955853",
-      "time": "2026-06-26 04:01:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果股價收盤下跌6.1%，創2025年4月以來最大跌幅。"
-    },
-    {
-      "id": "4955852",
-      "time": "2026-06-26 04:01:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "Hertz收跌11%，使得最近兩個交易日累計下跌47%。"
-    },
-    {
-      "id": "mkt:019f005f-5ee9-7dd8-b125-d85ab9780140",
-      "time": "2026-06-26 04:01:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Microsoft",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "MU.O",
-        "Impact bullish",
-        "BABA.N"
-      ],
-      "text": "【US close: major indexes mixed; Apple falls over 6%】US equities closed mixed on Thursday: the Dow Jones Industrial Average rose 0.14%, the S&P 500 was marginally lower and the Nasdaq Composite fell 0.46%. Apple (AAPL.O) slid 6.1%, leaving its market value close to dipping below $4 trillion. Micron Technology (MU.O) jumped 15.7% and Qualcomm (QCOM.O) gained 3.7%; Microsoft (MSFT.O) dropped more than 3%. The Nasdaq Golden Dragon China Index fell 2.7%, with Alibaba (BABA.N) down 4.7%."
-    },
-    {
-      "id": "4955851",
-      "time": "2026-06-26 04:01:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：我預計未來幾個季度通脹資料將小幅回落，原因有四點： 第一，關稅帶來的影響基本已消化完畢； 第二，基準情景假設霍爾木茲海峽相關供應中斷問題會較快得到解決； 第三，住房通脹增速將持續放緩； 第四，目前沒有跡象顯示勞動力市場會推高物價。"
-    },
-    {
-      "id": "4955850",
-      "time": "2026-06-26 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.15%，標普500指數跌0.01%，納指跌0.52%。Strategy跌9.27%，閃迪漲22.01%，Techne Corporation漲20.08%。“七姐妹”方面：特斯拉跌0.22%，谷歌跌0.96%，英偉達跌1.65%，Meta Platforms跌2.70%，亞馬遜跌3.11%，微軟跌3.69%，蘋果跌6.42%。"
-    },
-    {
-      "id": "4955849",
-      "time": "2026-06-26 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.74%】海天網路跌17.57%，攜程跌12.56%，中比能源跌11.76%，叮咚買菜跌8.05%，優品車跌7.03%。"
     }
   ]
 }
