@@ -1,7 +1,23 @@
 {
   "date": "2026-07-03",
-  "count": 319,
+  "count": 321,
   "items": [
+    {
+      "id": "4968272",
+      "time": "2026-07-03 04:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：颶風道格拉斯現於太平洋開闊海域向西北偏北行進，預計本週五減弱為殘餘低壓環流。"
+    },
+    {
+      "id": "mkt:019f2487-3b5b-7aab-8c84-22dde86a13c3",
+      "time": "2026-07-03 04:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports the U.S. plans to tighten workplace immigration enforcement."
+    },
     {
       "id": "4968271",
       "time": "2026-07-03 04:28:25",

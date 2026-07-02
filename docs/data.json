@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-03 04:29:34",
-  "count": 13804,
+  "updated": "2026-07-03 04:33:30",
+  "count": 13799,
   "items": [
+    {
+      "id": "4968272",
+      "time": "2026-07-03 04:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：颶風道格拉斯現於太平洋開闊海域向西北偏北行進，預計本週五減弱為殘餘低壓環流。"
+    },
+    {
+      "id": "mkt:019f2487-3b5b-7aab-8c84-22dde86a13c3",
+      "time": "2026-07-03 04:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports the U.S. plans to tighten workplace immigration enforcement."
+    },
     {
       "id": "4968271",
       "time": "2026-07-03 04:28:25",
@@ -127105,71 +127121,6 @@
         "國際"
       ],
       "text": "美國國防部長皮特·赫格塞思：動員國防部支援委內瑞拉人民。"
-    },
-    {
-      "id": "4955867",
-      "time": "2026-06-26 04:33:03",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "據紐約時報：OpenAI 傾向推遲至明年再啟動 IPO 上市。"
-    },
-    {
-      "id": "4955866",
-      "time": "2026-06-26 04:32:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：5 月獨棟住宅抵押貸款逾期率維持 0.59% 不變。 多戶住宅抵押貸款逾期率從 4 月的 0.43% 升至 5 月的 0.47%。"
-    },
-    {
-      "id": "mkt:019f007b-1478-7dd8-b126-2f5ce1204c75",
-      "time": "2026-06-26 04:31:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump to nominate FCC general counsel Adam Candeub to lead DOJ antitrust division】People familiar with the matter say the White House plans to nominate FCC general counsel Adam Candeub to head the DOJ antitrust division. DOJ staff were notified this week and the nomination is expected to be announced shortly. Candeub met with Trump earlier this week. He served as a senior official in Trump’s first administration and co-authored sections of the Heritage Foundation’s Project 2025 report, which has informed several proposals in Trump’s second-term policy blueprint."
-    },
-    {
-      "id": "mkt:019f007a-d299-7dd8-b126-27a88abfac1b",
-      "time": "2026-06-26 04:31:16",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Foreign official holdings of US Treasuries rose by $5.656 bln in the week to June 19, compared with a net decline of $2.118 bln in the prior week."
-    },
-    {
-      "id": "4955865",
-      "time": "2026-06-26 04:31:09",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至6月19日當週外國央行持有美國國債 56.56億美元，前值-21.18億美元。"
-    },
-    {
-      "id": "mkt:019f007a-8864-7dd8-b126-1b65354f7a5b",
-      "time": "2026-06-26 04:30:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.19) | actual 5656000000B | previous -2118000000B"
-    },
-    {
-      "id": "4955864",
-      "time": "2026-06-26 04:30:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Rocket Lab美股盤後漲幅擴大至5%，該公司贏得一份NASA合同。"
     }
   ]
 }
