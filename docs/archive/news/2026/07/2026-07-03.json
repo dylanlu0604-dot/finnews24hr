@@ -1,7 +1,57 @@
 {
   "date": "2026-07-03",
-  "count": 267,
+  "count": 272,
   "items": [
+    {
+      "id": "mkt:019f2442-0c23-7aab-8c83-8b38eab4235e",
+      "time": "2026-07-03 03:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Five Colorado wildfires burn nearly 506 sq km】Five wildfires in Colorado have burned nearly 506 sq km as of the morning of July 2, state officials said. The largest, the Aspen X fire, ignited on the morning of June 29 in southern Colorado and had expanded to about 194 sq km by the evening of July 1. The Pueblo County sheriff's office said Aspen X has destroyed more than 180 structures and injured one firefighter."
+    },
+    {
+      "id": "4968244",
+      "time": "2026-07-03 03:15:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格： 認為長期發展趨勢仍與公司此次重組的整體框架相契合。"
+    },
+    {
+      "id": "mkt:019f2441-2d26-7aab-8c83-844de7f7eb6c",
+      "time": "2026-07-03 03:14:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week."
+    },
+    {
+      "id": "4968243",
+      "time": "2026-07-03 03:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國科羅拉多州5場山火蔓延 燒燬近506平方公里土地】當地時間7月2日獲悉，美國科羅拉多州正在燃燒的5場山火截至當天上午共燒燬近506平方公里土地，面積接近科羅拉多斯普林斯市。其中，該州當前規模最大的山火阿斯彭埃克斯火災截至1日晚已擴大至約194平方公里。該火災於6月29日早晨在科羅拉多州南部燃起，普韋布洛縣治安官辦公室稱，該火災已摧毀逾180棟建築，並造成一名消防員受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f243f-01e7-7aab-8c83-7ba3a2fefd4b",
+      "time": "2026-07-03 03:12:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Analyst: Saudi crude exports overstated as stranded cargoes inflate earlier counts】Energy Intelligence reporter Amena Bakr, citing sources, said Saudi crude and product exports average about 5.8 mln bpd versus roughly 6.3 mln bpd reported elsewhere, with the higher number including previously stranded cargoes. She warned the description of a \"market oversupply\" is misleading and said Strait of Hormuz flows remain far from normal. Bloomberg tanker-tracking showed a six-day average to Wednesday of 6.3 mln bpd, roughly equal to the 2025 average and about 90% of February levels."
+    },
     {
       "id": "mkt:019f243d-2db8-7aab-8c83-76f0af51cfc8",
       "time": "2026-07-03 03:10:16",
