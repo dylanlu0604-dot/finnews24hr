@@ -1,7 +1,235 @@
 {
-  "updated": "2026-07-02 09:00:33",
-  "count": 14036,
+  "updated": "2026-07-02 09:04:26",
+  "count": 14033,
   "items": [
+    {
+      "id": "mkt:019f205a-8040-7aab-8c68-850bed2915e9",
+      "time": "2026-07-02 09:03:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold and silver rose intraday; silver traded above $60/oz, up 1.55% on the day, while gold gained 0.8% to $4,064/oz."
+    },
+    {
+      "id": "4966152",
+      "time": "2026-07-02 09:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江中下游強降雨持續 北方多地暑熱持續發展】今明兩天（7月2日至3日），重慶、貴州至長江中下游地區仍將有明顯降雨，並且華南一帶的雨勢明天起也將再度增強，局地或現大暴雨至特大暴雨。此外，未來三天新疆等地酷熱程度將進一步加劇，吐魯番或現49℃的極端高溫；華北、黃淮未來七天高溫也會頻繁現身，需注意防暑。"
+    },
+    {
+      "id": "4966151",
+      "time": "2026-07-02 09:02:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內跌0.06%。"
+    },
+    {
+      "id": "4966150",
+      "time": "2026-07-02 09:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東土科技全國產化智慧機器人通用電子架構完成適配並實現小批次出貨】據東土科技訊息，近日，東土科技自主研發的全國產化智慧機器人通用電子架構已在多家國內具身智慧機器人公司完成適配驗證，並實現小批次出貨。公司表示，這標誌著我國自主可控的機器人底層技術體系正式邁入產業化落地階段，為智慧機器人產業提供了從“大腦”到“關節”全鏈可控的中國底座。"
+    },
+    {
+      "id": "mkt:019f2058-c82e-7aab-8c68-79e7a467781a",
+      "time": "2026-07-02 09:01:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract was up 2.00% intraday, trading at 14,672.00 yuan/kg."
+    },
+    {
+      "id": "4966149",
+      "time": "2026-07-02 09:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英諾鐳射：已連續多年向SHI公司批次供應碳化矽退火製程的鐳射器】英諾鐳射7月2日在互動平臺表示，公司已連續多年向SHI公司批次供應碳化矽退火製程的鐳射器。"
+    },
+    {
+      "id": "4966148",
+      "time": "2026-07-02 09:01:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14672.00元。"
+    },
+    {
+      "id": "4966146",
+      "time": "2026-07-02 09:01:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5410.00元。"
+    },
+    {
+      "id": "4966145",
+      "time": "2026-07-02 09:01:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報4401.00元。"
+    },
+    {
+      "id": "mkt:019f2058-3041-7aab-8c68-73ec6cc38dd6",
+      "time": "2026-07-02 09:01:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.69% in early trade on Thursday, July 2 to 885.9 yuan/gram; silver T+D rose 3.16% to 14,580 yuan/kg."
+    },
+    {
+      "id": "mkt:019f2058-24b6-7aab-8c68-6c20e71a3aca",
+      "time": "2026-07-02 09:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) opened Thursday, July 2 at 46,095.97, down 923.02 points or 1.96%."
+    },
+    {
+      "id": "4966144",
+      "time": "2026-07-02 09:01:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4060美元/盎司，日內漲0.74%。"
+    },
+    {
+      "id": "4966143",
+      "time": "2026-07-02 09:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.74美元/盎司。"
+    },
+    {
+      "id": "mkt:019f2057-8673-7aab-8c68-63bd032ad0b3",
+      "time": "2026-07-02 09:00:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose more than 1% intraday to $59.69/oz."
+    },
+    {
+      "id": "mkt:019f2057-77a2-7aab-8c68-5a140c47665c",
+      "time": "2026-07-02 09:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Early session, China's main futures contracts opened mixed with declines outnumbering gains. SC crude fell over 4%; LPG and container freight (Europe route) dropped more than 3%; methanol declined nearly 3%; fuel oil and low-sulfur fuel oil (LU) slipped over 2%. Down more than 1% were polypropylene, asphalt, benzene, BR rubber, plastics, p-xylene, ethylene glycol, propylene, coke, polysilicon and styrene. On the upside, platinum rose over 2%; iron ore and Shanghai silver gained more than 1%; Shanghai gold, soybean meal and pulp were up around 1%."
+    },
+    {
+      "id": "4966142",
+      "time": "2026-07-02 09:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內跌0.30%。"
+    },
+    {
+      "id": "4966141",
+      "time": "2026-07-02 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.9%至46,140.10點。"
+    },
+    {
+      "id": "mkt:019f2057-4e33-7aab-8c68-512619925380",
+      "time": "2026-07-02 09:00:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.15% higher."
+    },
+    {
+      "id": "4966140",
+      "time": "2026-07-02 09:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.4%報46,833.89。"
+    },
+    {
+      "id": "4966139",
+      "time": "2026-07-02 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報441.00元。"
+    },
+    {
+      "id": "4966138",
+      "time": "2026-07-02 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2510.00點。"
+    },
+    {
+      "id": "4966137",
+      "time": "2026-07-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.10%。"
+    },
+    {
+      "id": "4966136",
+      "time": "2026-07-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌4.24%，集運指數歐線期貨連續跌3.99%，液化石油氣連續跌3.45%，甲醇連續跌3.25%，燃料油連續跌2.81%。"
+    },
+    {
+      "id": "4966135",
+      "time": "2026-07-02 08:59:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【均普智慧與國際製造巨頭達成工業具身智慧業務合作】據均普智慧訊息，近日，均普智慧與國際一製造業巨頭企業達成了在工業具身智慧業務方面的合作，雙方將透過合作共同推動全球智造新正規化的升級。此前，均普智慧的具身智慧業務已經和多家企業達成了合作，並已在場景驗證方面取得了系列階段性成果。"
+    },
     {
       "id": "4966134",
       "time": "2026-07-02 08:58:27",
@@ -129093,259 +129321,6 @@
         "Nikkei 225"
       ],
       "text": "Bank of Japan policy board member TAMURA said he expects to raise rates every few months until the policy rate reaches roughly a 2% neutral level."
-    },
-    {
-      "id": "4953753",
-      "time": "2026-06-25 09:04:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本巖手縣附近海域地震 暫未發現周邊核電站異常】日本巖手縣附近海域25日發生6.9級地震。日本共同社援引電力公司方面的訊息稱，福島第一、第二核電站以及青森縣東通核電站、宮城縣女川核電站暫未發現異常。當地時間25日7時30分左右，巖手縣附近海域發生6.9級地震。日本氣象廳表示，此次地震可能導致沿岸出現輕微海面變化，但無需擔心海嘯災害。（新華社）"
-    },
-    {
-      "id": "4953752",
-      "time": "2026-06-25 09:04:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟規劃草案顯示，政府將呼籲採取“適當的貨幣政策以支援民間需求”。"
-    },
-    {
-      "id": "4953751",
-      "time": "2026-06-25 09:03:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：將利率提高至更接近中性水平非常重要。我的設想是日本央行以每隔幾個月一次的步調上調政策利率，朝著對經濟影響中性、大約在2%左右的水平邁進。"
-    },
-    {
-      "id": "mkt:019efc4d-876d-7dd8-b107-acc7a9f74f82",
-      "time": "2026-06-25 09:03:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.9-magnitude quake off Iwate; nearby nuclear plants report no abnormalities】A magnitude-6.9 earthquake struck offshore Iwate at about 07:30 JST on the 25th. Kyodo, citing power companies, said Fukushima Daiichi, Fukushima Daini, Aomori’s Higashidori and Miyagi’s Onagawa nuclear plants reported no abnormalities. The Japan Meteorological Agency said slight coastal sea-level changes are possible but a tsunami threat is not expected."
-    },
-    {
-      "id": "4953750",
-      "time": "2026-06-25 09:03:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報73.13美元/桶。"
-    },
-    {
-      "id": "4953749",
-      "time": "2026-06-25 09:03:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2403.00元。"
-    },
-    {
-      "id": "4953748",
-      "time": "2026-06-25 09:02:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報69.60美元/桶。"
-    },
-    {
-      "id": "4953747",
-      "time": "2026-06-25 09:02:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：認為日本的中性利率約為2%。"
-    },
-    {
-      "id": "4953746",
-      "time": "2026-06-25 09:02:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員田村直樹：需要每隔幾個月就加息一次。"
-    },
-    {
-      "id": "mkt:019efc4c-ada6-7dd8-b107-a5bd1cf0f6e3",
-      "time": "2026-06-25 09:02:24",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "TAMURA, a Bank of Japan policy board member, said he believes Japan's neutral interest rate is around 2%."
-    },
-    {
-      "id": "mkt:019efc4c-9e78-7dd8-b107-9c2299b4e655",
-      "time": "2026-06-25 09:02:20",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan policy board member Tamura said it is important to steer the BOJ's policy rate toward neutral to avoid being forced into large rate hikes later."
-    },
-    {
-      "id": "mkt:019efc4c-9b26-7dd8-b107-9466646c8f16",
-      "time": "2026-06-25 09:02:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 30-year government bond yield fell 2.5 bps to 3.840%."
-    },
-    {
-      "id": "mkt:019efc4c-7701-7dd8-b107-8942c8ef33e0",
-      "time": "2026-06-25 09:02:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "A draft of Japan's government economic blueprint calls for \"appropriate monetary policy to support private demand\"."
-    },
-    {
-      "id": "4953745",
-      "time": "2026-06-25 09:02:09",
-      "tags": [
-        "央行",
-        "公司",
-        "焦點"
-      ],
-      "text": "【央行：將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。"
-    },
-    {
-      "id": "4953744",
-      "time": "2026-06-25 09:02:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亦莊國投成立人工智慧與積體電路等四大基金】企查查APP顯示，近日，北京經濟技術開發區人工智慧與積體電路股權投資基金合夥企業（有限合夥）、北京經濟技術開發區智慧製造與機器人股權投資基金合夥企業（有限合夥）、北京經濟技術開發區生物技術與大健康股權投資基金合夥企業（有限合夥）、北京經濟技術開發區未來產業股權投資基金合夥企業（有限合夥）成立，出資額分別約為80億元、50億元、40億元、30億元。企查查股權穿透顯示，上述企業皆由北京亦莊國際投資發展有限公司、北京亦莊國際產業投資管理有限公司共同出資。"
-    },
-    {
-      "id": "4953743",
-      "time": "2026-06-25 09:01:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌5%，現報7524.00元。"
-    },
-    {
-      "id": "4953742",
-      "time": "2026-06-25 09:01:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌3%，現報2935.00元。"
-    },
-    {
-      "id": "mkt:019efc4c-08e1-7dd8-b107-85469c134efa",
-      "time": "2026-06-25 09:01:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index opened up 724.39 points (+1.57%) at 46,767.99 on Thursday, June 25."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606253782162246",
-      "time": "2026-06-25 09:01:35",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種】央行公告，為更好匹配銀行體系短期流動性需求，中國人民銀行將在6月29日、6月30日公開市場操作中增加隔夜逆回購操作品種，隔夜逆回購操作採用固定利率、數量招標。"
-    },
-    {
-      "id": "4953741",
-      "time": "2026-06-25 09:01:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌4%，現報7061.00元。"
-    },
-    {
-      "id": "mkt:019efc4b-e657-7dd8-b107-7b48c4959d8f",
-      "time": "2026-06-25 09:01:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning — Bohai Sea closed for military activity Jun 26-28】Qinhuangdao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning closing parts of the Bohai Sea to navigation for military activity from 0000 June 26 to 2400 June 28; entry is prohibited."
-    },
-    {
-      "id": "4953740",
-      "time": "2026-06-25 09:01:16",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金財富期貨：美元走強直接打壓以美元計價的貴金屬資產，黃金一度跌破4000美元關口】美聯儲加息預期升溫支撐美元走高，美元走強直接打壓以美元計價的貴金屬資產，黃金一度跌破4000美元關口。當前油價大幅回落，但是黃金並未走強，核心原因在於美股對於流動性的虹吸效應。之前因賺錢效應而過度炒作的黃金仍在逐步迴歸理性，注意不要盲目抄底。"
-    },
-    {
-      "id": "mkt:019efc4b-6376-7dd8-b107-7795fbcf4024",
-      "time": "2026-06-25 09:00:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "The People's Bank of China said it will add overnight reverse repos to open market operations on June 29 and June 30; the repos will be conducted as fixed-rate, quantity tenders to better match banks' short-term liquidity needs."
-    },
-    {
-      "id": "4953739",
-      "time": "2026-06-25 09:00:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶科科技在江西成立鑫算科技公司】企查查APP顯示，近日，江西鑫算科技有限公司成立，經營範圍包含：資料處理和儲存支援服務，資訊系統整合服務，資訊系統執行維護服務等。企查查股權穿透顯示，該公司由晶科科技(601778)間接全資持股。"
-    },
-    {
-      "id": "mkt:019efc4b-4b3f-7dd8-b107-6cd4819c92bc",
-      "time": "2026-06-25 09:00:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan Meteorological Agency warns strong quake may recur within a week】At 06:30 Beijing time on June 25 a magnitude-6.9 earthquake struck off eastern Honshu, hypocenter depth 50 km. Japan reported a seismic intensity of upper-6 on the JMA 10-point scale (second-highest). No tsunami warning was issued. In a morning briefing the Japan Meteorological Agency said similar-magnitude shocks could occur over the next week, that stronger shaking cannot be ruled out, and urged the public to remain vigilant."
-    },
-    {
-      "id": "4953737",
-      "time": "2026-06-25 09:00:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內跌5%，現報6576.00元。"
-    },
-    {
-      "id": "mkt:019efc4b-0fde-7dd8-b107-64df717f36de",
-      "time": "2026-06-25 09:00:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 2.03% to 874.52 yuan/gram in early trade on June 25 (Thu); Silver T+D dropped 5.9% to 13,950 yuan/kg."
     }
   ]
 }

@@ -1,7 +1,235 @@
 {
   "date": "2026-07-02",
-  "count": 584,
+  "count": 608,
   "items": [
+    {
+      "id": "mkt:019f205a-8040-7aab-8c68-850bed2915e9",
+      "time": "2026-07-02 09:03:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold and silver rose intraday; silver traded above $60/oz, up 1.55% on the day, while gold gained 0.8% to $4,064/oz."
+    },
+    {
+      "id": "4966152",
+      "time": "2026-07-02 09:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江中下游強降雨持續 北方多地暑熱持續發展】今明兩天（7月2日至3日），重慶、貴州至長江中下游地區仍將有明顯降雨，並且華南一帶的雨勢明天起也將再度增強，局地或現大暴雨至特大暴雨。此外，未來三天新疆等地酷熱程度將進一步加劇，吐魯番或現49℃的極端高溫；華北、黃淮未來七天高溫也會頻繁現身，需注意防暑。"
+    },
+    {
+      "id": "4966151",
+      "time": "2026-07-02 09:02:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內跌0.06%。"
+    },
+    {
+      "id": "4966150",
+      "time": "2026-07-02 09:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東土科技全國產化智慧機器人通用電子架構完成適配並實現小批次出貨】據東土科技訊息，近日，東土科技自主研發的全國產化智慧機器人通用電子架構已在多家國內具身智慧機器人公司完成適配驗證，並實現小批次出貨。公司表示，這標誌著我國自主可控的機器人底層技術體系正式邁入產業化落地階段，為智慧機器人產業提供了從“大腦”到“關節”全鏈可控的中國底座。"
+    },
+    {
+      "id": "mkt:019f2058-c82e-7aab-8c68-79e7a467781a",
+      "time": "2026-07-02 09:01:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract was up 2.00% intraday, trading at 14,672.00 yuan/kg."
+    },
+    {
+      "id": "4966149",
+      "time": "2026-07-02 09:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英諾鐳射：已連續多年向SHI公司批次供應碳化矽退火製程的鐳射器】英諾鐳射7月2日在互動平臺表示，公司已連續多年向SHI公司批次供應碳化矽退火製程的鐳射器。"
+    },
+    {
+      "id": "4966148",
+      "time": "2026-07-02 09:01:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14672.00元。"
+    },
+    {
+      "id": "4966146",
+      "time": "2026-07-02 09:01:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5410.00元。"
+    },
+    {
+      "id": "4966145",
+      "time": "2026-07-02 09:01:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報4401.00元。"
+    },
+    {
+      "id": "mkt:019f2058-3041-7aab-8c68-73ec6cc38dd6",
+      "time": "2026-07-02 09:01:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.69% in early trade on Thursday, July 2 to 885.9 yuan/gram; silver T+D rose 3.16% to 14,580 yuan/kg."
+    },
+    {
+      "id": "mkt:019f2058-24b6-7aab-8c68-6c20e71a3aca",
+      "time": "2026-07-02 09:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) opened Thursday, July 2 at 46,095.97, down 923.02 points or 1.96%."
+    },
+    {
+      "id": "4966144",
+      "time": "2026-07-02 09:01:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4060美元/盎司，日內漲0.74%。"
+    },
+    {
+      "id": "4966143",
+      "time": "2026-07-02 09:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.74美元/盎司。"
+    },
+    {
+      "id": "mkt:019f2057-8673-7aab-8c68-63bd032ad0b3",
+      "time": "2026-07-02 09:00:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose more than 1% intraday to $59.69/oz."
+    },
+    {
+      "id": "mkt:019f2057-77a2-7aab-8c68-5a140c47665c",
+      "time": "2026-07-02 09:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Early session, China's main futures contracts opened mixed with declines outnumbering gains. SC crude fell over 4%; LPG and container freight (Europe route) dropped more than 3%; methanol declined nearly 3%; fuel oil and low-sulfur fuel oil (LU) slipped over 2%. Down more than 1% were polypropylene, asphalt, benzene, BR rubber, plastics, p-xylene, ethylene glycol, propylene, coke, polysilicon and styrene. On the upside, platinum rose over 2%; iron ore and Shanghai silver gained more than 1%; Shanghai gold, soybean meal and pulp were up around 1%."
+    },
+    {
+      "id": "4966142",
+      "time": "2026-07-02 09:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內跌0.30%。"
+    },
+    {
+      "id": "4966141",
+      "time": "2026-07-02 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.9%至46,140.10點。"
+    },
+    {
+      "id": "mkt:019f2057-4e33-7aab-8c68-512619925380",
+      "time": "2026-07-02 09:00:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened 0.15% higher."
+    },
+    {
+      "id": "4966140",
+      "time": "2026-07-02 09:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.4%報46,833.89。"
+    },
+    {
+      "id": "4966139",
+      "time": "2026-07-02 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報441.00元。"
+    },
+    {
+      "id": "4966138",
+      "time": "2026-07-02 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2510.00點。"
+    },
+    {
+      "id": "4966137",
+      "time": "2026-07-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.10%。"
+    },
+    {
+      "id": "4966136",
+      "time": "2026-07-02 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌4.24%，集運指數歐線期貨連續跌3.99%，液化石油氣連續跌3.45%，甲醇連續跌3.25%，燃料油連續跌2.81%。"
+    },
+    {
+      "id": "4966135",
+      "time": "2026-07-02 08:59:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【均普智慧與國際製造巨頭達成工業具身智慧業務合作】據均普智慧訊息，近日，均普智慧與國際一製造業巨頭企業達成了在工業具身智慧業務方面的合作，雙方將透過合作共同推動全球智造新正規化的升級。此前，均普智慧的具身智慧業務已經和多家企業達成了合作，並已在場景驗證方面取得了系列階段性成果。"
+    },
     {
       "id": "4966134",
       "time": "2026-07-02 08:58:27",
