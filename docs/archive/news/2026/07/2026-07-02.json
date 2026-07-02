@@ -1,7 +1,210 @@
 {
   "date": "2026-07-02",
-  "count": 2751,
+  "count": 2773,
   "items": [
+    {
+      "id": "mkt:019f22f9-3380-7aab-8c7b-a15713f689a2",
+      "time": "2026-07-02 21:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ford Motor Co (F.N) sold 62,909 electric vehicles in the U.S. in Q2."
+    },
+    {
+      "id": "mkt:019f22f9-0cb8-7aab-8c7b-9a64423b29fc",
+      "time": "2026-07-02 21:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House NEC director Hassett said he believes Fed Chair Kevin Warsh can persuade colleagues to accept his view."
+    },
+    {
+      "id": "4967780",
+      "time": "2026-07-02 21:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織負責人表示，認為與一艘郵輪相關的漢坦病毒疫情已經結束。"
+    },
+    {
+      "id": "4967779",
+      "time": "2026-07-02 21:15:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：預計鋁供應將在下半年實現更充分的復甦。"
+    },
+    {
+      "id": "mkt:019f22f8-ac15-7aab-8c7b-9640e1b94068",
+      "time": "2026-07-02 21:15:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor (F.N): U.S. vehicle sales fell 10.3% in Q2; F-Series pickup sales declined 11% and electric vehicle sales dropped 40.7%."
+    },
+    {
+      "id": "4967778",
+      "time": "2026-07-02 21:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：若剔除車型更替影響，並假設租賃銷量持平，第二季度銷量預計將上升0.5%。"
+    },
+    {
+      "id": "4967777",
+      "time": "2026-07-02 21:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：路易斯維爾組裝廠正在進行生產線改造，明年將基於全新通用電動汽車平臺生產全新四門電動皮卡。"
+    },
+    {
+      "id": "4967776",
+      "time": "2026-07-02 21:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：儘管客戶需求仍保持旺盛，受去年鋁供應短缺後商業生產重新排期影響，F系列上半年銷量呈現相應波動。"
+    },
+    {
+      "id": "4967775",
+      "time": "2026-07-02 21:15:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：相信沃什能夠說服同事們接受他的觀點。"
+    },
+    {
+      "id": "te:economy:563800",
+      "time": "2026-07-02 21:15:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Manufacturing Activity at 2018-Highs — Singapore's Manufacturing PMI rose to 51.3 in June 2026 from 51.0 in May, marking the 11th consecutive month of expansion amid the ongoing AI boom. The reading was the highest since November 2018, driven by stronger growth in new orders, new export orders, factory output, input purchases, and employment. The sector continued to benefit from robust AI-driven semiconductor demand. However, geopolitical tensions, although potentially easing, continued to disrupt global supply chains, resulting in slower supplier deliveries and longer lead times. Meanwhile, the Electronics PMI, which accounts for about one-third of manufacturing output, rose to 52.2 from 51.9, supported by the same AI-driven demand. Looking ahead, sentiment remains positive, with the manufacturing sector expected to stay supported by strong demand for AI-related electronics."
+    },
+    {
+      "id": "4967774",
+      "time": "2026-07-02 21:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特第二季度美國汽車總銷量為549,200輛。"
+    },
+    {
+      "id": "4967773",
+      "time": "2026-07-02 21:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特：受車型逐步淘汰及日租銷量下滑69%影響，二季度美國銷量下滑10%。"
+    },
+    {
+      "id": "4967772",
+      "time": "2026-07-02 21:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特美國市場二季度電動汽車銷量下滑 40.7%。"
+    },
+    {
+      "id": "mkt:019f22f8-1a52-7aab-8c7b-8a58c96db7e3",
+      "time": "2026-07-02 21:15:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "White House National Economic Council director Hassett said there is no reason to believe economic growth will cause inf."
+    },
+    {
+      "id": "4967771",
+      "time": "2026-07-02 21:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：經濟增長沒有理由必然導致通貨膨脹。"
+    },
+    {
+      "id": "mkt:019f22f7-a31c-7aab-8c7b-834702041387",
+      "time": "2026-07-02 21:14:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director HASSETT said he respects the Federal Reserve's independence."
+    },
+    {
+      "id": "4967770",
+      "time": "2026-07-02 21:14:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：尊重美聯儲的獨立性。"
+    },
+    {
+      "id": "mkt:019f22f7-6159-7aab-8c7b-79f4b7f466ce",
+      "time": "2026-07-02 21:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO Director-General Tedros said WHO considers the hantavirus outbreak over."
+    },
+    {
+      "id": "mkt:019f22f6-98db-7aab-8c7b-7001881da250",
+      "time": "2026-07-02 21:13:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Tesla (TSLA.O) Q2 deliveries rise 25% to 480,126, well above Bloomberg consensus】Tesla (TSLA.O) delivered 480,126 vehicles in Q2, up 25% YoY and topping Bloomberg's consensus of 396,466, outpacing a slowdown in the global plug‑in EV market. Investors are increasingly shifting focus from corporate controversies to Musk's drive to scale AI, autonomous driving and robotics as future revenue sources, and some expect he may consider merging Tesla with SpaceX after SpaceX completed a record IPO last month."
+    },
+    {
+      "id": "mkt:019f22f5-e72c-7aab-8c7b-6aab7726845c",
+      "time": "2026-07-02 21:12:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council director Hassett said employment data are consistent with strong economic conditions."
+    },
+    {
+      "id": "4967769",
+      "time": "2026-07-02 21:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特  ：就業資料與強勁的經濟形勢相符。"
+    },
+    {
+      "id": "4967768",
+      "time": "2026-07-02 21:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【希臘卡帕索斯島發生里氏5.2級地震】當地時間7月2日下午，位於愛琴海上的希臘卡帕索斯島發生里氏5.2級地震，震源深度13公里，未造成人員傷亡。僅在一週前，卡帕索斯島剛發生過一次里氏5.0級地震。（央視新聞）"
+    },
     {
       "id": "mkt:019f22f5-2cf8-7aab-8c7b-64699cb17899",
       "time": "2026-07-02 21:12:00",

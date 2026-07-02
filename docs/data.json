@@ -1,7 +1,210 @@
 {
-  "updated": "2026-07-02 21:13:02",
-  "count": 13834,
+  "updated": "2026-07-02 21:17:02",
+  "count": 13844,
   "items": [
+    {
+      "id": "mkt:019f22f9-3380-7aab-8c7b-a15713f689a2",
+      "time": "2026-07-02 21:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ford Motor Co (F.N) sold 62,909 electric vehicles in the U.S. in Q2."
+    },
+    {
+      "id": "mkt:019f22f9-0cb8-7aab-8c7b-9a64423b29fc",
+      "time": "2026-07-02 21:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House NEC director Hassett said he believes Fed Chair Kevin Warsh can persuade colleagues to accept his view."
+    },
+    {
+      "id": "4967780",
+      "time": "2026-07-02 21:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織負責人表示，認為與一艘郵輪相關的漢坦病毒疫情已經結束。"
+    },
+    {
+      "id": "4967779",
+      "time": "2026-07-02 21:15:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：預計鋁供應將在下半年實現更充分的復甦。"
+    },
+    {
+      "id": "mkt:019f22f8-ac15-7aab-8c7b-9640e1b94068",
+      "time": "2026-07-02 21:15:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor (F.N): U.S. vehicle sales fell 10.3% in Q2; F-Series pickup sales declined 11% and electric vehicle sales dropped 40.7%."
+    },
+    {
+      "id": "4967778",
+      "time": "2026-07-02 21:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：若剔除車型更替影響，並假設租賃銷量持平，第二季度銷量預計將上升0.5%。"
+    },
+    {
+      "id": "4967777",
+      "time": "2026-07-02 21:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：路易斯維爾組裝廠正在進行生產線改造，明年將基於全新通用電動汽車平臺生產全新四門電動皮卡。"
+    },
+    {
+      "id": "4967776",
+      "time": "2026-07-02 21:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：儘管客戶需求仍保持旺盛，受去年鋁供應短缺後商業生產重新排期影響，F系列上半年銷量呈現相應波動。"
+    },
+    {
+      "id": "4967775",
+      "time": "2026-07-02 21:15:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：相信沃什能夠說服同事們接受他的觀點。"
+    },
+    {
+      "id": "te:economy:563800",
+      "time": "2026-07-02 21:15:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Manufacturing Activity at 2018-Highs — Singapore's Manufacturing PMI rose to 51.3 in June 2026 from 51.0 in May, marking the 11th consecutive month of expansion amid the ongoing AI boom. The reading was the highest since November 2018, driven by stronger growth in new orders, new export orders, factory output, input purchases, and employment. The sector continued to benefit from robust AI-driven semiconductor demand. However, geopolitical tensions, although potentially easing, continued to disrupt global supply chains, resulting in slower supplier deliveries and longer lead times. Meanwhile, the Electronics PMI, which accounts for about one-third of manufacturing output, rose to 52.2 from 51.9, supported by the same AI-driven demand. Looking ahead, sentiment remains positive, with the manufacturing sector expected to stay supported by strong demand for AI-related electronics."
+    },
+    {
+      "id": "4967774",
+      "time": "2026-07-02 21:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特第二季度美國汽車總銷量為549,200輛。"
+    },
+    {
+      "id": "4967773",
+      "time": "2026-07-02 21:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特：受車型逐步淘汰及日租銷量下滑69%影響，二季度美國銷量下滑10%。"
+    },
+    {
+      "id": "4967772",
+      "time": "2026-07-02 21:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特美國市場二季度電動汽車銷量下滑 40.7%。"
+    },
+    {
+      "id": "mkt:019f22f8-1a52-7aab-8c7b-8a58c96db7e3",
+      "time": "2026-07-02 21:15:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "White House National Economic Council director Hassett said there is no reason to believe economic growth will cause inf."
+    },
+    {
+      "id": "4967771",
+      "time": "2026-07-02 21:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：經濟增長沒有理由必然導致通貨膨脹。"
+    },
+    {
+      "id": "mkt:019f22f7-a31c-7aab-8c7b-834702041387",
+      "time": "2026-07-02 21:14:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director HASSETT said he respects the Federal Reserve's independence."
+    },
+    {
+      "id": "4967770",
+      "time": "2026-07-02 21:14:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：尊重美聯儲的獨立性。"
+    },
+    {
+      "id": "mkt:019f22f7-6159-7aab-8c7b-79f4b7f466ce",
+      "time": "2026-07-02 21:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO Director-General Tedros said WHO considers the hantavirus outbreak over."
+    },
+    {
+      "id": "mkt:019f22f6-98db-7aab-8c7b-7001881da250",
+      "time": "2026-07-02 21:13:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Tesla (TSLA.O) Q2 deliveries rise 25% to 480,126, well above Bloomberg consensus】Tesla (TSLA.O) delivered 480,126 vehicles in Q2, up 25% YoY and topping Bloomberg's consensus of 396,466, outpacing a slowdown in the global plug‑in EV market. Investors are increasingly shifting focus from corporate controversies to Musk's drive to scale AI, autonomous driving and robotics as future revenue sources, and some expect he may consider merging Tesla with SpaceX after SpaceX completed a record IPO last month."
+    },
+    {
+      "id": "mkt:019f22f5-e72c-7aab-8c7b-6aab7726845c",
+      "time": "2026-07-02 21:12:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council director Hassett said employment data are consistent with strong economic conditions."
+    },
+    {
+      "id": "4967769",
+      "time": "2026-07-02 21:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特  ：就業資料與強勁的經濟形勢相符。"
+    },
+    {
+      "id": "4967768",
+      "time": "2026-07-02 21:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【希臘卡帕索斯島發生里氏5.2級地震】當地時間7月2日下午，位於愛琴海上的希臘卡帕索斯島發生里氏5.2級地震，震源深度13公里，未造成人員傷亡。僅在一週前，卡帕索斯島剛發生過一次里氏5.0級地震。（央視新聞）"
+    },
     {
       "id": "mkt:019f22f5-2cf8-7aab-8c7b-64699cb17899",
       "time": "2026-07-02 21:12:00",
@@ -127281,117 +127484,6 @@
         "市場"
       ],
       "text": "【特斯拉德國工廠產能提升20%】特斯拉週四表示，旗下柏林工廠自今年 10 月起產能將提升 20%，達到每週 7500 臺整車。特斯拉稱，本次擴產計劃將新增招聘 1000 名員工。公司早在 4 月就已宣佈該工廠擴容計劃，以滿足 Model Y 車型上漲的市場需求；5 月又宣佈將加碼該廠動力電池生產線投資。特斯拉表示，上述三項規劃落地後，工廠整車製造與電池產線中短期合計新增 3500 個工作崗位。"
-    },
-    {
-      "id": "4955325",
-      "time": "2026-06-25 21:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲35攝氏度以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，法國、英國等多國遭遇6月同期破紀錄高溫。據估算，25日氣溫超過35攝氏度的歐洲地區人口超過了1個億。法新社根據天氣預報和歐盟聯合研究中心的人口資料估算，歐洲當天至少有1.01億人身處35攝氏度以上高溫環境，其中法國受影響人口達5000萬、德國1800萬。另外，同一天，氣溫超過30攝氏度的歐洲地區人口超過3.8億，其中包括德國約7000萬人、法國6300萬人、義大利4800萬人、英國3800萬人。（新華社）"
-    },
-    {
-      "id": "mkt:019efeec-6531-7dd8-b11d-aaba1d3dd0e9",
-      "time": "2026-06-25 21:16:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Treasury yields, dollar slip after mixed US data and oil drop】Treasury yields and the dollar eased after mixed US data and oil prices fell below pre-war levels. May PCE inflation (YoY) rose to 4.1% from 3.8%, in line with consensus; lower energy costs are expected to ease future inflationary pressure. May durable goods orders fell 4.5% vs -4.0% consensus. Q1 real GDP (annualized) was revised up to 2.1% from 1.6% (consensus 1.7%). Weekly initial jobless claims fell to 215,000 (consensus 223,000). The 10-year Treasury yield slid to 4.371% from an earlier 4.414%; the 2-year fell to 4.107% from 4.162%."
-    },
-    {
-      "id": "mkt:019efeeb-d9d2-7dd8-b11d-a1d311acf1c7",
-      "time": "2026-06-25 21:15:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Indian government says LPG supply has recovered due to recent improvements in supply conditions."
-    },
-    {
-      "id": "mkt:019efeeb-a5aa-7dd8-b11d-9c66d9ffa15b",
-      "time": "2026-06-25 21:15:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "The Indian government said it has lifted industry supply restrictions on liquefied petroleum gas (LPG)."
-    },
-    {
-      "id": "4955324",
-      "time": "2026-06-25 21:15:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI智慧體基礎設施公司Sail Research獲8000萬美元融資，估值達4.5億美元】6月25日，專為長週期人工智慧智慧體（AI Agent）打造的基礎設施公司Sail Research宣佈，已在種子輪和A輪融資中成功籌集8000萬美元，估值達到4.5億美元。其中，A輪融資由凱鵬華盈（Kleiner Perkins）領投，種子輪由紅杉資本（Sequoia）領投。Alphabet董事長約翰·軒尼詩（John Hennessy）及Together AI首席科學家Tri Dao等作為天使投資人參與投資。"
-    },
-    {
-      "id": "4955323",
-      "time": "2026-06-25 21:14:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【奧比中光與科德寶集團在多個關鍵業務方向上達成合作意向】據奧比中光訊息，近日，德國工業科技巨頭科德寶集團（Freudenberg Group）高層代表團到訪奧比中光科技集團股份有限公司（簡稱“奧比中光”）位於佛山順德的3D視覺感知產業智慧製造基地及深圳總部。雙方聚焦具身智慧、智慧製造及工業自動化領域的深度協同，展開務實交流，並在多個關鍵業務方向上初步達成合作意向。在技術賦能方面，擬開展雙向合作：一方面，探索由科德寶為奧比中光3D視覺系統、相關應用以及機器人制造服務提供密封、特種潤滑和NVH最佳化方案，以提升其在複雜工業環境下的可靠性、耐用性及場景適配能力；同時，結合科德寶在材料與製造領域的專長和奧比中光的新一代方案，進一步提升產品效能與效益。另一方面，探索將奧比中光3D視覺感知技術及定製化機器人方案應用於科德寶智慧製造產線，助力提升生產自動化水平和運營效率，挖掘先進製造領域的協同潛力。在全球市場拓展方面，雙方規劃聯合亮相國際頂級行業展會，並在歐洲、北美及中國協同開展客戶拜訪。此外，雙方還計劃藉助Tech Day等形式，共同展示奧比中光的3D視覺技術與科德寶在密封、特種潤滑、NVH領域的技術積累，並探索在人形機器人等新興領域的聯合共創機會。"
-    },
-    {
-      "id": "mkt:019efeeb-346e-7dd8-b11d-96fdccc463f4",
-      "time": "2026-06-25 21:14:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian government says it will restore supply of packaged liquefied petroleum gas (LPG) for non-household users to pre-crisis levels."
-    },
-    {
-      "id": "4955322",
-      "time": "2026-06-25 21:14:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保時捷擬敲定新一輪成本削減計劃】據媒體報道，在6月23日舉行的股東大會上，不少投資者正向保時捷施壓，要求其採取緊急行動，扭轉利潤下滑的頹勢，並重振中國市場。 保時捷股份公司CEO邁克爾·萊特斯預估，保時捷將重點提高現有及未來車型的利潤率，即便整體銷量因此減少，經營方向也不會改變。他在接受媒體採訪時表示：“保時捷即使少賣車也必須賺錢。我們希望繼續為保時捷品牌吸引新客戶。” 為了達成這一目標，保時捷正敲定新一輪成本削減磋商，企業將迎來整車減產週期，告別擴產路線。據悉，該公司計劃在未來幾年裁減約3900個崗位。 對此，記者向保時捷中國方面進行求證，有工作人員透露，保時捷內部確實在進行一系列的改革和調整，會在近兩個月與海外員工進行談話，為推進相關工作進行前期準備。調整的目的是為了內部更有效率，以更好應對未來挑戰。（每經）"
-    },
-    {
-      "id": "4955321",
-      "time": "2026-06-25 21:13:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：近期液化石油氣供應形勢好轉後，供應已逐步恢復。"
-    },
-    {
-      "id": "te:markets:561906",
-      "time": "2026-06-25 21:13:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Approaches $59 — Silver rebounded to approach $59 per ounce on Thursday, recovering from earlier losses and tracking modest gains across the precious metals complex. The metal found support from a weaker US dollar and lower Treasury yields after the latest US PCE inflation report came in broadly in line with expectations, easing concerns about a sharper acceleration in price pressures. While inflation remains well above the Fed’s 2% target, the data eased concerns about a sharper-than-expected acceleration in price pressures. Meanwhile, oil prices continued to retreat and have now returned to levels seen before the outbreak of the Iran conflict, further alleviating inflation worries. As a result, traders pared back expectations for additional monetary tightening, with the probability of a Fed rate hike in September falling to 63% from 68% the previous day. Still, silver is down about 13% year-to-date and nearly 47% below its record high reached in January, before the outbreak of the conflict with Iran."
-    },
-    {
-      "id": "mkt:019efee9-c688-7dd8-b11d-8ec2583a6ef0",
-      "time": "2026-06-25 21:13:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "White House says Trump will attend an event at Mount Rushmore on July 3."
-    },
-    {
-      "id": "4955319",
-      "time": "2026-06-25 21:13:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：已取消對液化石油氣供應的行業性供應限制。"
     }
   ]
 }
