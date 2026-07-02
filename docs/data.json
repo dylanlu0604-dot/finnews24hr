@@ -1,7 +1,220 @@
 {
-  "updated": "2026-07-03 05:27:42",
-  "count": 13806,
+  "updated": "2026-07-03 05:37:26",
+  "count": 13828,
   "items": [
+    {
+      "id": "4968311",
+      "time": "2026-07-03 05:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：美國航空執飛救援航班前往委內瑞拉加拉加斯。"
+    },
+    {
+      "id": "4968310",
+      "time": "2026-07-03 05:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及住房法案：這份法案本身沒什麼問題。這份住房法案裡有大量民主黨傾向的條款。 在選民身份核驗法案落地前，我寧願不簽署這份住房法案。"
+    },
+    {
+      "id": "mkt:019f24c2-7b86-7aab-8c84-e72ee977eadd",
+      "time": "2026-07-03 05:35:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said artificial intelligence, whether good or bad, is already being used."
+    },
+    {
+      "id": "mkt:019f24c1-bdf4-7aab-8c84-dea1a89dcee4",
+      "time": "2026-07-03 05:35:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump on the housing bill: no problem."
+    },
+    {
+      "id": "mkt:019f24c1-1eed-7aab-8c84-d3046aba117a",
+      "time": "2026-07-03 05:34:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil edges higher on 2nd】As of the close, NYMEX August light sweet crude (WTI) rose $0.11 to $68.69/bbl, +0.16%; ICE September Brent gained $0.23 to $71.80/bbl, +0.32%."
+    },
+    {
+      "id": "4968309",
+      "time": "2026-07-03 05:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及住房法案：選民身份驗證法案才是重中之重。"
+    },
+    {
+      "id": "4968308",
+      "time": "2026-07-03 05:34:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧監管約束：近期出現過存在安全隱患的相關案例。"
+    },
+    {
+      "id": "mkt:019f24c0-c353-7aab-8c84-ce7428bf24b8",
+      "time": "2026-07-03 05:34:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Trump to press on with effort to remove Federal Reserve governor Lisa Cook, says he'll 'win the case'】CNBC reports that despite a U.S. Supreme Court ruling the president currently lacks authority to remove Federal Reserve governor Lisa Cook, Trump said he will continue to seek her ouster from the Fed board. Asked how he would remove Cook, Trump said, By winning this case. He said the court remanded the matter on procedural grounds rather than the merits; the opinion left open the possibility Cook could be removed in future."
+    },
+    {
+      "id": "4968307",
+      "time": "2026-07-03 05:33:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我認為人工智慧的影響力會超過網際網路。"
+    },
+    {
+      "id": "4968306",
+      "time": "2026-07-03 05:33:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價2日微漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲11美分，收於每桶68.69美元，漲幅為0.16%；9月交貨的倫敦布倫特原油期貨價格上漲23美分，收於每桶71.80美元，漲幅為0.32%。"
+    },
+    {
+      "id": "4968305",
+      "time": "2026-07-03 05:33:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧：確實需要監管約束，但管控越少越好。"
+    },
+    {
+      "id": "mkt:019f24bf-5ddf-7aab-8c84-c2763f3a59ef",
+      "time": "2026-07-03 05:32:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Chip Wars",
+        "INTC.O"
+      ],
+      "text": "When asked about OpenAI shares, President Trump mentioned Intel (INTC.O) and said the US government holds a stake in Intel."
+    },
+    {
+      "id": "4968304",
+      "time": "2026-07-03 05:32:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英特爾股價暴漲，是當下最熱門的企業之一。"
+    },
+    {
+      "id": "4968303",
+      "time": "2026-07-03 05:32:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們完全沒必要只滿足 4% 的 GDP 增速，目標應該衝到 12%、13%…… 當初我們國家就是靠這樣的增速發展起來的。"
+    },
+    {
+      "id": "4968302",
+      "time": "2026-07-03 05:31:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普宣揚美國持有英特爾股份帶來的收益。"
+    },
+    {
+      "id": "4968301",
+      "time": "2026-07-03 05:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯就其外交機構遇襲向瑞典發出照會】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫2日說，俄方已就其駐瑞典大使館遇襲事件向瑞典外交部發出照會。別利亞耶夫當天接受俄媒採訪時說，俄方期待瑞典政府儘快公佈調查結果。他表示，自2024年5月以來，俄駐瑞典大使館遭受的襲擊已超25次，但俄方尚未看到瑞典政府公佈任何調查結果。別利亞耶夫說：“今天是我們第一次看到無人機本身，它顯然是自制的，由3D列印部件製成。”（新華社）"
+    },
+    {
+      "id": "mkt:019f24bd-d7a2-7aab-8c84-b8ee9a6f2a06",
+      "time": "2026-07-03 05:30:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "President Trump said the United States must lead in artificial intelligence."
+    },
+    {
+      "id": "4968300",
+      "time": "2026-07-03 05:30:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "被問及是否持有 OpenAI 股份時，特朗普轉而提及英特爾相關持股。"
+    },
+    {
+      "id": "mkt:019f24bd-6b00-7aab-8c84-b5638dcc9218",
+      "time": "2026-07-03 05:30:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "Trump said he holds a very small amount of NVIDIA (NVDA.O) stock."
+    },
+    {
+      "id": "4968299",
+      "time": "2026-07-03 05:28:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧，無論好壞，我們都掌握這項技術。"
+    },
+    {
+      "id": "mkt:019f24bb-fc61-7aab-8c84-affa46f24d09",
+      "time": "2026-07-03 05:28:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump, asked about cryptocurrency gains, said he knows nothing about them."
+    },
+    {
+      "id": "4968298",
+      "time": "2026-07-03 05:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（ 當被問及加密貨幣相關收益時）我對此並不知情。 加密貨幣收益並不違法。"
+    },
+    {
+      "id": "mkt:019f24bb-17bc-7aab-8c84-a620a18e5ff2",
+      "time": "2026-07-03 05:27:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he was involved in cryptocurrency before taking office."
+    },
     {
       "id": "4968297",
       "time": "2026-07-03 05:26:09",
@@ -127192,19 +127405,6 @@
         "Importance 1"
       ],
       "text": "BRL Gains In Late June — The Brazilian real traded near 5.17 per USD in June, strengthening slightly toward the end of the month amid a broader pullback in the US dollar. Softer-than-expected US PCE data eased concerns over additional Federal Reserve tightening, pushing Treasury yields lower and weighing on the dollar against major and emerging market currencies. In Brazil, the BCB’s updated Monetary Policy Report raised the probability of inflation breaching the upper bound of the target range, despite June’s softer-than-expected mid-month inflation reading. Still, the interest rate differential remained supportive for the real, with Brazil’s benchmark Selic at 14.25% compared with the US policy range of 3.50%-3.75%. That wide spread has continued to attract foreign inflows and provide support to the Brazilian currency."
-    },
-    {
-      "id": "mkt:019f00b2-7da7-7dd8-b126-917efec3637e",
-      "time": "2026-06-26 05:32:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "【Japan to propose higher defense spending based on ruling party proposals】On the 24th, Prime Minister Takaichi accepted proposals from the ruling LDP and Nippon Ishin to revise Japan’s three security documents. The government plans a formal cabinet revision by year-end and, following LDP guidance, will propose raising defense spending. The LDP offered no explicit target but asked officials to study NATO peers that aim for about 3.5% of GDP. Nippon Ishin called for defense spending above 2% of GDP by FY2026 and urged a realistic review of the Three Non‑Nuclear Principles’ no‑introduction clause, pressing for the prompt acquisition of nuclear submarines."
     }
   ]
 }
