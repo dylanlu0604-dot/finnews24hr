@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-03 09:11:17",
-  "count": 13901,
+  "updated": "2026-07-03 09:15:02",
+  "count": 13909,
   "items": [
+    {
+      "id": "4968559",
+      "time": "2026-07-03 09:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：日本和韓國財務部門之間的關係非常好。"
+    },
+    {
+      "id": "4968558",
+      "time": "2026-07-03 09:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：盡最大努力進行經濟、財政管理。"
+    },
+    {
+      "id": "mkt:019f2589-a437-7aab-8c87-66cdfa1a0efe",
+      "time": "2026-07-03 09:13:25",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China NEA deputy meets EDF executive】On July 1 in Beijing, National Energy Administration deputy director He Yang met with EDF executive director Yu Yunsa. He said China’s 15th Five-Year Plan will prioritise rapid development of clean energy, expand investment in renewables and maintain an open, market-oriented, rule-of-law and international business environment, welcoming foreign firms including EDF to deepen cooperation across energy sectors. Yu said EDF views China as a core market and is prepared to partner with Chinese firms on nuclear, electrification, emerging technologies and third‑party market projects."
+    },
+    {
+      "id": "4968557",
+      "time": "2026-07-03 09:13:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%，至8811.90。"
+    },
+    {
+      "id": "4968556",
+      "time": "2026-07-03 09:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將制定恰當的經濟政策，監控形勢變化。"
+    },
+    {
+      "id": "4968555",
+      "time": "2026-07-03 09:12:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲1.56%。"
+    },
+    {
+      "id": "mkt:019f2588-b98d-7aab-8c87-5cb08df9a027",
+      "time": "2026-07-03 09:12:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said he is prepared to take appropriate measures to address currency volatility."
+    },
+    {
+      "id": "4968554",
+      "time": "2026-07-03 09:11:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【638股獲融資買入超億元，京東方A獲買入57.14億元居首】A股7月2日共有3784只個股獲融資資金買入，有638股買入金額超億元。其中，京東方A、中際旭創、新易盛融資買入金額排名前三，分別獲買入57.14億元、48.55億元、47.7億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中科匯股份、海馬汽車、中光學融資買入額佔成交額比重排名前三，分別為31.2%、30.07%、29.84%。從融資淨買入金額來看，有43只個股獲融資淨買入超億元。其中，新易盛、C華潤、多氟多融資淨買入金額排名前三，分別獲淨買入11.34億元、7.01億元、4.27億元。"
+    },
+    {
+      "id": "4968553",
+      "time": "2026-07-03 09:11:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：已準備好對匯率波動採取適當應對措施。"
+    },
+    {
+      "id": "mkt:019f2587-9098-7aab-8c87-51841c3dadd1",
+      "time": "2026-07-03 09:11:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she would not comment on specific exchange-rate levels."
+    },
     {
       "id": "4968552",
       "time": "2026-07-03 09:10:30",
@@ -128111,22 +128202,6 @@
         "市場"
       ],
       "text": "恒指期貨日盤開盤跌0.53%，報22904.71點，低水172.20點。"
-    },
-    {
-      "id": "4956086",
-      "time": "2026-06-26 09:12:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商絡電子：部分AI伺服器電源客戶涉及液冷技術 公司與客戶合作研發液冷專案】商絡電子(300975)6月26日在互動平臺表示，公司部分AI伺服器電源客戶涉及液冷技術，公司與客戶合作研發液冷專案，為其供應元器件產品並提供配套技術方案。目前該類業務未來訂單放量與業績貢獻存在不確定性，請投資者注意投資風險。"
-    },
-    {
-      "id": "4956085",
-      "time": "2026-06-26 09:12:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普向國會要求111億美元農業援助 並稱伊朗將很快購買美國農產品】美國總統唐納德·特朗普週四邀請農民到白宮共進晚餐，並給了他們一個驚喜：向國會要求111億美元的援助，這將是今年對陷入困境的農業領域的第二次資助。向國會提出的這項請求是包括國防開支在內的補充撥款方案的一部分。該方案尋求為玉米、大豆和水稻等農作物種植者提供100億美元的援助，併為受2025年末和2026年初冬季風暴影響的佛羅里達州農戶提供11億美元的援助。這項援助要求是本週政府為爭取農民支援而推出的幾項措施之一。農民一直是總統政治支援的重要組成部分，但他們也受到了特朗普一些更具爭議性舉措的強烈反對，這些舉措包括實施全面的全球關稅以及與以色列聯手對伊朗發動戰爭。週四晚間，白宮釋出了一項旨在加強再生農業的行政命令。在晚宴上，特朗普承諾伊朗戰後重建可能會給美國農民帶來福音。特朗普在玫瑰園晚宴上說，“伊朗正面臨糧食短缺的困境，我們將拿走他們的一些錢，然後花掉這些錢，購買小麥和大豆。”“這個過程很快就要開始了。而且規模會相當大。我認為它會非常龐大。”伊朗戰爭導致燃料和化肥價格飆升，進一步擠壓了已經受到特朗普關稅政策影響的農民的處境。"
     }
   ]
 }
