@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-03 10:36:58",
-  "count": 13890,
+  "updated": "2026-07-03 10:40:55",
+  "count": 13886,
   "items": [
+    {
+      "id": "4968753",
+      "time": "2026-07-03 10:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【如身機器人完成億元Pre-A輪融資】近日，上海如身機器人科技有限公司宣佈於四月底完成億元Pre-A輪融資，本輪融資由知名醫療基金清松資本、頭部算力上市公司潤澤科技及平湖澤新共同投資，將用於加速具身智慧在養老機構與居家場景的應用部署。"
+    },
+    {
+      "id": "te:markets:563970",
+      "time": "2026-07-03 10:39:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Set for Weekly Advance — The Australian dollar strengthened for a second straight session to around $0.690 and was on track for a weekly gain, supported by hawkish interpretations of the RBA's June meeting minutes from major banks. While markets priced in only a 15% chance of an August rate hike and roughly 50% odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing persistent references to excess demand and capacity constraints as signs the RBA remains alert to inflation risks. Likewise, ANZ said the minutes reinforced the risk of another rate hike while leaving its core rate call unchanged. The Aussie dollar also found support from a weaker US dollar after softer-than-expected employment data tempered expectations for further Fed rate hikes. Meanwhile, Australia's S&P Global Composite PMI was revised up to 50.4 in June from a preliminary estimate of 49.8, driven by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7)."
+    },
+    {
+      "id": "4968752",
+      "time": "2026-07-03 10:39:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數上漲1%至4,860.50點。"
+    },
+    {
+      "id": "mkt:019f25d7-b366-7aab-8c89-d7e2c10d9aa5",
+      "time": "2026-07-03 10:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Research Centre for Geosciences (GFZ) reported a magnitude 6.3 earthquake struck Halmahera, Indonesia."
+    },
+    {
+      "id": "4968751",
+      "time": "2026-07-03 10:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心說剛果（金）埃博拉疫情仍“非常嚴重”】非洲疾病預防控制中心主任卡塞亞2日在剛果（金）首都金沙薩說，該國本輪埃博拉疫情仍“非常嚴重”，確診病例和死亡病例增長較快。剛果（金）政府2日晚釋出的疫情資料顯示，截至1日，該國本輪埃博拉疫情累計報告確診病例1460例，其中死亡447例，595名患者正在隔離或接受治療，213人治癒。（新華社）"
+    },
+    {
+      "id": "4968750",
+      "time": "2026-07-03 10:37:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：印度尼西亞哈馬黑拉島發生6.3級地震。"
+    },
+    {
+      "id": "4968749",
+      "time": "2026-07-03 10:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州、濟南、青島社保卡將實現互通】從鄭州市人力資源和社會保障局獲悉，鄭州、濟南、青島三市人社部門日前共同簽署《濟青鄭三城聯動社保領域協同發展合作協議》，並聯合發布全國首個跨兩省三市《社會保障卡居民服務“一卡通”應用目錄》，落地20餘項社保便民服務清單，標誌著社保卡服務從“一卡通用”跨入“三城互通”新階段。在三市聯合釋出的社保卡居民服務“一卡通”應用目錄中，共涉及人社、醫保、交通、文旅、政務惠民、金融等六大領域26個應用場景。今後，三市居民持實體社保卡或電子社保卡，可實現暢通辦理就醫結算、公交地鐵、景區入園、圖書借閱、便民繳費等各類民生業務。"
+    },
+    {
+      "id": "4968748",
+      "time": "2026-07-03 10:37:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多家品牌金飾價格大漲，周生生克價1266元】7月3日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1260元/克，較前一日1230元/克漲30元；周生生報價1266元/克，較前一日1236元/克漲30元；周大福報價1262元/克，較前一日1233元漲29元；老廟黃金報價1261元/克，較前一日1235元/克漲26元。"
+    },
+    {
+      "id": "mkt:019f25d6-0768-7aab-8c89-cc3675b415fc",
+      "time": "2026-07-03 10:36:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02715.HK",
+        "Impact bullish",
+        "09880.HK",
+        "09660.HK"
+      ],
+      "text": "Hong Kong robotics stocks continued to rally: Estun (02715.HK) up over 23%, UBTECH (09880.HK) up over 10%; Horizon Robotics (09660.HK) and Weichuang Robotics (02252.HK) also advanced."
+    },
     {
       "id": "mkt:019f25d5-5abb-7aab-8c89-c6fc25357bcc",
       "time": "2026-07-03 10:36:07",
@@ -127878,130 +127961,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內跌2%，現報1168.61美元/盎司。"
-    },
-    {
-      "id": "mkt:019f01cc-45b6-7dd8-b12b-2fc56d1b6c94",
-      "time": "2026-06-26 10:39:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China NEA to coordinate power and AI compute; backs green-power links, western renewables hubs, eastern microgrids】NEA director Wang Hongzhi said China’s AI surge is creating sharp electricity demand growth — generating 5 seconds of HD video uses roughly the same power as charging 10 phones. The NEA will implement an electricity-driven compute approach to align energy-resource allocation with data-center construction, advancing compute-power coordination across planning, policy and operations. In planning, western regions will link national compute hubs with large new-energy bases and co-develop compute facilities and power systems; eastern regions will push distributed compute paired with distributed generation, microgrids and virtual power plants for local response. Policy measures will encourage direct green-power connections for qualifying compute facilities and allow participation in green-power certificate trading; operational measures will optimize compute-load scheduling by task-specific demand profiles and flexibility potential."
-    },
-    {
-      "id": "4956298",
-      "time": "2026-06-26 10:39:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152650元/噸，較上日16:30價格下跌2600元/噸。"
-    },
-    {
-      "id": "4956297",
-      "time": "2026-06-26 10:38:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊持續走低，維科技術跌停】電池板塊持續走低，維科技術跌停，安孚科技、聖陽股份、容百科技、理奇智慧、德方奈米等跟跌。"
-    },
-    {
-      "id": "mkt:019f01cb-4034-7dd8-b12b-253c4704fd80",
-      "time": "2026-06-26 10:38:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell more than 3.00% intraday to $56.10/oz."
-    },
-    {
-      "id": "4956296",
-      "time": "2026-06-26 10:38:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4007.00美元/盎司。"
-    },
-    {
-      "id": "4956295",
-      "time": "2026-06-26 10:38:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【AI生成5秒鐘高畫質影片用電量相當於給10部手機充電 國家能源局：將強化算電協同部署】6月26日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快新型能源體系建設有關規劃情況。國家能源局局長王宏志表示，當前人工智慧和能源已經駛入雙向賦能的快車道。同時，人工智慧爆發式增長帶動用電量激增。比如我們讓人工智慧生成5秒的高畫質影片，它的用電量就相當於給10部手機充電。針對這種爆發式增長，我們將按照“以電強算”的方式，統籌能源資源配置與算力設施建設，多維度推進算電協同。首先在規劃佈局上加強協同，西部地區統籌國家算力樞紐佈局與大型新能源基地的規劃建設，推進算力設施與電力系統協同建設；東部地區推動分散式算力與分散式電源、微電網虛擬電廠協同規劃，就近響應需求；其次在政策體系上加強協同，鼓勵具備條件的算力設施綠電直連，支援算力設施參與綠電綠證交易；最後，在執行調節上加強協同，根據不同設計任務用電特徵和調節潛力，最佳化算力負荷的安排。"
-    },
-    {
-      "id": "4956294",
-      "time": "2026-06-26 10:38:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【橫琴粵澳深度合作區執委會九個機構改革正式落地】6月26日，橫琴粵澳深度合作區執行委員會機構改革正式落地，新組建及更名的工作機構全面掛牌運作。本輪改革緊扣服務澳門經濟適度多元發展的初心使命，對執委會機構設定、職能配置、權責邊界進行系統性最佳化整合，進一步構建起科學規範、執行高效、契合橫琴特色的職責架構體系。改革後，執委會共設定9個工作機構，依次為：行政法務局、發展改革和統計局、財政局、產業發展局、金融發展局、民生事務局、商事服務局、城市規劃和建設局、人才發展和社會保障局。各部門即日起將以新機構名義對外履行職責。"
-    },
-    {
-      "id": "4956293",
-      "time": "2026-06-26 10:38:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報56.09美元/盎司。"
-    },
-    {
-      "id": "4956292",
-      "time": "2026-06-26 10:38:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4010美元/盎司，日內跌0.94%。"
-    },
-    {
-      "id": "4956291",
-      "time": "2026-06-26 10:37:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報13635.00元。"
-    },
-    {
-      "id": "4956290",
-      "time": "2026-06-26 10:37:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證50指數期貨連續主力合約日內跌2%，現報2864.40點。"
-    },
-    {
-      "id": "mkt:019f01c9-ebab-7dd8-b12b-1fb77470ae12",
-      "time": "2026-06-26 10:37:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell below $4,000/oz again, down 0.68% intraday."
-    },
-    {
-      "id": "4956289",
-      "time": "2026-06-26 10:37:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4000美元/盎司，日內跌0.67%。"
     }
   ]
 }

@@ -1,7 +1,90 @@
 {
   "date": "2026-07-03",
-  "count": 1014,
+  "count": 1023,
   "items": [
+    {
+      "id": "4968753",
+      "time": "2026-07-03 10:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【如身機器人完成億元Pre-A輪融資】近日，上海如身機器人科技有限公司宣佈於四月底完成億元Pre-A輪融資，本輪融資由知名醫療基金清松資本、頭部算力上市公司潤澤科技及平湖澤新共同投資，將用於加速具身智慧在養老機構與居家場景的應用部署。"
+    },
+    {
+      "id": "te:markets:563970",
+      "time": "2026-07-03 10:39:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Set for Weekly Advance — The Australian dollar strengthened for a second straight session to around $0.690 and was on track for a weekly gain, supported by hawkish interpretations of the RBA's June meeting minutes from major banks. While markets priced in only a 15% chance of an August rate hike and roughly 50% odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing persistent references to excess demand and capacity constraints as signs the RBA remains alert to inflation risks. Likewise, ANZ said the minutes reinforced the risk of another rate hike while leaving its core rate call unchanged. The Aussie dollar also found support from a weaker US dollar after softer-than-expected employment data tempered expectations for further Fed rate hikes. Meanwhile, Australia's S&P Global Composite PMI was revised up to 50.4 in June from a preliminary estimate of 49.8, driven by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7)."
+    },
+    {
+      "id": "4968752",
+      "time": "2026-07-03 10:39:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數上漲1%至4,860.50點。"
+    },
+    {
+      "id": "mkt:019f25d7-b366-7aab-8c89-d7e2c10d9aa5",
+      "time": "2026-07-03 10:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Research Centre for Geosciences (GFZ) reported a magnitude 6.3 earthquake struck Halmahera, Indonesia."
+    },
+    {
+      "id": "4968751",
+      "time": "2026-07-03 10:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心說剛果（金）埃博拉疫情仍“非常嚴重”】非洲疾病預防控制中心主任卡塞亞2日在剛果（金）首都金沙薩說，該國本輪埃博拉疫情仍“非常嚴重”，確診病例和死亡病例增長較快。剛果（金）政府2日晚釋出的疫情資料顯示，截至1日，該國本輪埃博拉疫情累計報告確診病例1460例，其中死亡447例，595名患者正在隔離或接受治療，213人治癒。（新華社）"
+    },
+    {
+      "id": "4968750",
+      "time": "2026-07-03 10:37:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：印度尼西亞哈馬黑拉島發生6.3級地震。"
+    },
+    {
+      "id": "4968749",
+      "time": "2026-07-03 10:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州、濟南、青島社保卡將實現互通】從鄭州市人力資源和社會保障局獲悉，鄭州、濟南、青島三市人社部門日前共同簽署《濟青鄭三城聯動社保領域協同發展合作協議》，並聯合發布全國首個跨兩省三市《社會保障卡居民服務“一卡通”應用目錄》，落地20餘項社保便民服務清單，標誌著社保卡服務從“一卡通用”跨入“三城互通”新階段。在三市聯合釋出的社保卡居民服務“一卡通”應用目錄中，共涉及人社、醫保、交通、文旅、政務惠民、金融等六大領域26個應用場景。今後，三市居民持實體社保卡或電子社保卡，可實現暢通辦理就醫結算、公交地鐵、景區入園、圖書借閱、便民繳費等各類民生業務。"
+    },
+    {
+      "id": "4968748",
+      "time": "2026-07-03 10:37:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多家品牌金飾價格大漲，周生生克價1266元】7月3日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1260元/克，較前一日1230元/克漲30元；周生生報價1266元/克，較前一日1236元/克漲30元；周大福報價1262元/克，較前一日1233元漲29元；老廟黃金報價1261元/克，較前一日1235元/克漲26元。"
+    },
+    {
+      "id": "mkt:019f25d6-0768-7aab-8c89-cc3675b415fc",
+      "time": "2026-07-03 10:36:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02715.HK",
+        "Impact bullish",
+        "09880.HK",
+        "09660.HK"
+      ],
+      "text": "Hong Kong robotics stocks continued to rally: Estun (02715.HK) up over 23%, UBTECH (09880.HK) up over 10%; Horizon Robotics (09660.HK) and Weichuang Robotics (02252.HK) also advanced."
+    },
     {
       "id": "mkt:019f25d5-5abb-7aab-8c89-c6fc25357bcc",
       "time": "2026-07-03 10:36:07",
