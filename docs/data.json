@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-04 02:16:39",
-  "count": 13445,
+  "updated": "2026-07-04 02:24:00",
+  "count": 13439,
   "items": [
+    {
+      "id": "mkt:019f2937-12a2-7aab-8c9a-431933c0718e",
+      "time": "2026-07-04 02:21:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Lagarde to personally attend next week’s Eurogroup and Ecofin meetings】European Central Bank President Christine Lagarde will attend the Eurogroup on July 9 and the EU Economic and Financial Affairs Council (Ecofin) on July 10 in Brussels, the ECB’s weekly calendar shows. The moves are atypical—such meetings are usually represented by an ECB vice‑president. Vujcic, who took office as ECB vice‑president in early June and has attended Ecofin once, is scheduled to be in Athens next Friday. Lagarde has not ruled out an early resignation to pursue French politics."
+    },
+    {
+      "id": "4970046",
+      "time": "2026-07-04 02:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "PJM 表示，正在執行相關運營方案，要求轄區內電力企業削減用電負荷。該供電區域覆蓋美國中大西洋地區、南部地區以及華盛頓特區，服務人口達 6700 萬。"
+    },
+    {
+      "id": "te:markets:564219",
+      "time": "2026-07-04 02:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 2.36% — Top commodity gainers are Silver (2.36%), Lithium Carbonate (1.69%) and Platinum (1.56%). Biggest losers are Iron Ore CNY (-0.81%) and Gold (-0.78%)."
+    },
+    {
+      "id": "4970045",
+      "time": "2026-07-04 02:19:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最大電網運營商 PJM 釋出二級緊急能源預警（EEA2），當前已無法滿足預期用電需求。"
+    },
     {
       "id": "te:markets:564218",
       "time": "2026-07-04 02:15:06",
@@ -123708,95 +123745,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rubber Plunges by 6.02% — Top commodity losers are Rubber (-6.02%), Cocoa (-2.67%) and Wheat (-2.32%). Gains are led by Sugar (3.07%) and Rice (1.24%)."
-    },
-    {
-      "id": "mkt:019f052b-21f0-7dd8-b13d-57891d50b5b6",
-      "time": "2026-06-27 02:22:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump criticized New York City's rent-freeze measures."
-    },
-    {
-      "id": "mkt:019f052a-bc9d-7dd8-b13d-498f5e023aa6",
-      "time": "2026-06-27 02:21:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said New York Mayor Mamdani pledged to prevent rent increases despite rising energy costs."
-    },
-    {
-      "id": "4957907",
-      "time": "2026-06-27 02:21:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普批評紐約市凍結租金。"
-    },
-    {
-      "id": "te:markets:562319",
-      "time": "2026-06-27 02:20:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.08%), Iron Ore CNY (1.77%), Platinum (1.36%) and Gold (1.16%)."
-    },
-    {
-      "id": "mkt:019f0528-9a56-7dd8-b13d-459512aaf5ca",
-      "time": "2026-06-27 02:19:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【OpenAI begins limited preview of GPT-5.6 series】OpenAI has begun a limited preview of the GPT-5.6 series, which includes flagship Sol, balanced Terra and low-cost Luna. Terra delivers performance comparable to GPT-5.5 at roughly half the cost; Luna is positioned as a faster, highly economical option. OpenAI says GPT-5.6 Sol is its most powerful model and features strengthened safety controls against high‑risk uses, sensitive network requests and repeated abuse; the company spent weeks probing system weaknesses and stress‑testing to harden defenses. OpenAI plans broad availability of Sol, Terra and Luna in the coming weeks and briefed the US government on the release plan and capabilities ahead of Friday’s public notice."
-    },
-    {
-      "id": "mkt:019f0527-7c61-7dd8-b13d-3bc56562292b",
-      "time": "2026-06-27 02:18:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Burkina Faso said France did not adhere to the principles of mutual respect and non-interference in internal affairs."
-    },
-    {
-      "id": "4957906",
-      "time": "2026-06-27 02:18:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "布吉納法索通訊部長： 法國未遵守相互尊重、不干涉內政原則，該國將斷絕與法國的外交關係。"
-    },
-    {
-      "id": "te:markets:562318",
-      "time": "2026-06-27 02:18:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Analog Devices Stock Price Hits 5-week Low — Analog Devices shares decreased to 383.31 USD, the lowest since May 2026. Over the past 4 weeks, Analog Devices lost 7.74%, and in the last 12 months, it increased 62.31%."
-    },
-    {
-      "id": "mkt:019f0527-2ae6-7dd8-b13d-31a50ed2fdd7",
-      "time": "2026-06-27 02:18:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Burkina Faso's communications minister said the country will sever diplomatic relations with France."
-    },
-    {
-      "id": "mkt:019f0526-24f4-7dd8-b13d-2ee08773d521",
-      "time": "2026-06-27 02:16:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Official reveals tripartite framework: Israel to keep forces in southern Lebanon \"security zone\"】An Israeli official said late on the 26th that US, Israeli and Lebanese representatives signed a tripartite framework agreement in the United States. Under the accord, Israel will continue to station forces in the southern Lebanon area it has unilaterally designated as a \"security zone\" until HEZBOLLAH is disarmed; the IDF will retain freedom of action across the zone and may act at any time to remove security threats. Israel and Lebanon also agreed that in two areas outside the \"security zone\" Israel will withdraw progressively and hand control to the Lebanese army. Israeli and Lebanese authorities had no immediate comment."
     }
   ]
 }

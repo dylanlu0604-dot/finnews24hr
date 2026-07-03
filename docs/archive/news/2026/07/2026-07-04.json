@@ -1,7 +1,44 @@
 {
   "date": "2026-07-04",
-  "count": 80,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019f2937-12a2-7aab-8c9a-431933c0718e",
+      "time": "2026-07-04 02:21:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Lagarde to personally attend next week’s Eurogroup and Ecofin meetings】European Central Bank President Christine Lagarde will attend the Eurogroup on July 9 and the EU Economic and Financial Affairs Council (Ecofin) on July 10 in Brussels, the ECB’s weekly calendar shows. The moves are atypical—such meetings are usually represented by an ECB vice‑president. Vujcic, who took office as ECB vice‑president in early June and has attended Ecofin once, is scheduled to be in Athens next Friday. Lagarde has not ruled out an early resignation to pursue French politics."
+    },
+    {
+      "id": "4970046",
+      "time": "2026-07-04 02:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "PJM 表示，正在執行相關運營方案，要求轄區內電力企業削減用電負荷。該供電區域覆蓋美國中大西洋地區、南部地區以及華盛頓特區，服務人口達 6700 萬。"
+    },
+    {
+      "id": "te:markets:564219",
+      "time": "2026-07-04 02:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 2.36% — Top commodity gainers are Silver (2.36%), Lithium Carbonate (1.69%) and Platinum (1.56%). Biggest losers are Iron Ore CNY (-0.81%) and Gold (-0.78%)."
+    },
+    {
+      "id": "4970045",
+      "time": "2026-07-04 02:19:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最大電網運營商 PJM 釋出二級緊急能源預警（EEA2），當前已無法滿足預期用電需求。"
+    },
     {
       "id": "te:markets:564218",
       "time": "2026-07-04 02:15:06",
