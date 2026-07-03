@@ -1,7 +1,31 @@
 {
   "date": "2026-07-04",
-  "count": 59,
+  "count": 62,
   "items": [
+    {
+      "id": "mkt:019f2908-c370-7aab-8c99-fa1c88af7d76",
+      "time": "2026-07-04 01:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IAEA: Zaporizhzhia nuclear plant loses external power for 21st time】The International Atomic Energy Agency said on the 3rd that the Zaporizhzhia nuclear plant lost external power for the 21st time during the military conflict. An IAEA team on site heard military activity that caused electrical protection devices between the plant and transmission lines to trip, including a line repaired during the June ceasefire. Emergency diesel generators started and supplied power for reactor cooling and other critical safety functions. Power has been restored, but one transmission line linking the plant to the grid remains out of service."
+    },
+    {
+      "id": "mkt:019f2908-26c3-7aab-8c99-f31e590a13fa",
+      "time": "2026-07-04 01:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he would be willing to negotiate with the Taliban to repatriate Afghan asylum seekers."
+    },
+    {
+      "id": "4970035",
+      "time": "2026-07-04 01:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際原子能機構：扎波羅熱核電站第21次失去外部電源】當地時間3日，國際原子能機構釋出宣告稱，扎波羅熱核電站在軍事衝突期間第21次失去外部電源。在核電站現場的國際原子能機構團隊聽到了軍事活動，該軍事活動導致連線扎波羅熱核電站與電源線路間的電氣保護裝置啟動，其中包括一條在6月停火期間修復的線路。核電站應急柴油發電機已啟動執行，為反應堆冷卻和其他關鍵核安全功能提供電力。目前電力已恢復，但連線核電站與輸電線路的其中一條線路仍然無法使用。（央視新聞）"
+    },
     {
       "id": "mkt:019f28ff-a933-7aab-8c99-eca1ce62f686",
       "time": "2026-07-04 01:21:11",

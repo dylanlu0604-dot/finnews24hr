@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-04 01:30:23",
-  "count": 13463,
+  "updated": "2026-07-04 01:34:20",
+  "count": 13461,
   "items": [
+    {
+      "id": "mkt:019f2908-c370-7aab-8c99-fa1c88af7d76",
+      "time": "2026-07-04 01:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IAEA: Zaporizhzhia nuclear plant loses external power for 21st time】The International Atomic Energy Agency said on the 3rd that the Zaporizhzhia nuclear plant lost external power for the 21st time during the military conflict. An IAEA team on site heard military activity that caused electrical protection devices between the plant and transmission lines to trip, including a line repaired during the June ceasefire. Emergency diesel generators started and supplied power for reactor cooling and other critical safety functions. Power has been restored, but one transmission line linking the plant to the grid remains out of service."
+    },
+    {
+      "id": "mkt:019f2908-26c3-7aab-8c99-f31e590a13fa",
+      "time": "2026-07-04 01:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he would be willing to negotiate with the Taliban to repatriate Afghan asylum seekers."
+    },
+    {
+      "id": "4970035",
+      "time": "2026-07-04 01:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際原子能機構：扎波羅熱核電站第21次失去外部電源】當地時間3日，國際原子能機構釋出宣告稱，扎波羅熱核電站在軍事衝突期間第21次失去外部電源。在核電站現場的國際原子能機構團隊聽到了軍事活動，該軍事活動導致連線扎波羅熱核電站與電源線路間的電氣保護裝置啟動，其中包括一條在6月停火期間修復的線路。核電站應急柴油發電機已啟動執行，為反應堆冷卻和其他關鍵核安全功能提供電力。目前電力已恢復，但連線核電站與輸電線路的其中一條線路仍然無法使用。（央視新聞）"
+    },
     {
       "id": "mkt:019f28ff-a933-7aab-8c99-eca1ce62f686",
       "time": "2026-07-04 01:21:11",
@@ -123909,55 +123933,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：在華盛頓會談後宣佈以色列與黎巴嫩達成框架協議。"
-    },
-    {
-      "id": "4957889",
-      "time": "2026-06-27 01:32:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國官員：委內瑞拉強震後逾5萬人失蹤】當地時間26日，聯合國分管人道主義事務的副秘書長兼緊急救援協調員湯姆·弗萊徹表示，在委內瑞拉發生強烈地震後，已有超過5萬人失蹤，他認為死亡人數“可能還會大幅增加”。弗萊徹稱，“目前有超過5萬人失蹤，已有500多人遇難；因此，在廢墟中搜尋是一項艱鉅的任務。”（央視新聞）"
-    },
-    {
-      "id": "4957888",
-      "time": "2026-06-27 01:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩訊息人士表示：我們不會接受任何為以色列留在黎巴嫩任何土地上進行辯護或允許其留下的措辭。（Al-Hadath）"
-    },
-    {
-      "id": "mkt:019f04fc-8a9a-7dd8-b13c-9915a1b33033",
-      "time": "2026-06-27 01:31:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Drone strike on Luhansk region kills 2, wounds 4 — Russia-appointed head】Pasechnik, the Russia-appointed head of Luhansk region, said on social media on the 26th that Ukrainian forces launched a drone strike that killed two and wounded four. The injured were taken to medical facilities for treatment."
-    },
-    {
-      "id": "mkt:019f04fc-2ea1-7dd8-b13c-93447c0564fe",
-      "time": "2026-06-27 01:31:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【U.S. energy firms sharply increase drilling rig count】Baker Hughes said the U.S. rig count rose by 10 in the week to June 26, the largest weekly increase since June 2022, bringing the total to 573 — the highest since May 2025. The gain, an early indicator of future output, leaves the rig count up 26 rigs year‑on‑year (+5%). Oil rigs added seven to 440, the highest since June 2025; gas rigs rose three to 125; other rigs held at eight."
-    },
-    {
-      "id": "4957887",
-      "time": "2026-06-27 01:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【盧甘斯克地區遭襲致2死4傷】俄羅斯方面任命的盧甘斯克地區領導人帕謝奇尼克26日在社交媒體發文說，烏軍對盧甘斯克地區發動無人機襲擊致2人死亡、4人受傷。傷者已被送往醫療機構接受治療。（新華社）"
     }
   ]
 }
