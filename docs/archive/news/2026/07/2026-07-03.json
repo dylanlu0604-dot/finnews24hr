@@ -1,7 +1,124 @@
 {
   "date": "2026-07-03",
-  "count": 1972,
+  "count": 1987,
   "items": [
+    {
+      "id": "4969487",
+      "time": "2026-07-03 17:40:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【戈碧迦：秭歸桐碧迦、吳林海擬分別減持1.57%和0.43%】戈碧迦公告，股東秭歸桐碧迦企業管理諮詢中心（有限合夥）擬自本公告披露之日起15個交易日後的3個月內，透過集中競價、大宗交易減持227萬股，佔總股本1.57%；吳林海擬同期透過集中競價減持61.86萬股，佔總股本0.43%，減持原因為股東自身資金需求。"
+    },
+    {
+      "id": "4969486",
+      "time": "2026-07-03 17:39:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鹿得醫療：擬1100萬元-1650萬元回購公司股份】鹿得醫療7月3日公告，擬回購公司股份，回購總金額不低於1100萬元且不超過1650萬元。回購價格不超過11元/股。回購股份將用於實施員工持股計劃或股權激勵。回購期限為自董事會審議透過本次股份回購方案之日起不超過12個月。"
+    },
+    {
+      "id": "4969485",
+      "time": "2026-07-03 17:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "摩納哥檢察官：摩納哥襲擊案嫌疑人約30歲，為烏克蘭籍，最後登記的官方居住地為德國。"
+    },
+    {
+      "id": "mkt:019f2758-c366-7aab-8c92-b6d88c5fee92",
+      "time": "2026-07-03 17:39:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Monaco prosecutor says the suspect is about 30 years old, a Ukrainian national, and had a last officially registered residence in Germany."
+    },
+    {
+      "id": "4969484",
+      "time": "2026-07-03 17:39:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金嶺南：預計上半年淨利潤同比增長87.89%-114.73%】中金嶺南公告，預計2026年上半年淨利潤為10.5億元–12億元，同比增長87.89%-114.73%。報告期內，公司整體經營業績同比實現較大幅度提升，主要原因系：1報告期公司主要產品金屬價格同比上升；2報告期內公司持有交易性金融資產公允價值變動收益同比上升；3報告期內公司持有的子公司權益比例同比上升，歸屬於上市公司股東的淨利潤增加。"
+    },
+    {
+      "id": "4969483",
+      "time": "2026-07-03 17:38:49",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【廖岷會見美國歐亞集團名譽董事長庫普錢】2026年7月1日上午，財政部副部長廖岷在北京會見美國歐亞集團名譽董事長庫普錢，就中美經貿關係、中美宏觀經濟形勢等議題交換了意見。 （財政部）"
+    },
+    {
+      "id": "mkt:019f2758-2e47-7aab-8c92-aa406451ff92",
+      "time": "2026-07-03 17:38:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Vice Finance Minister Liao Min meets Eurasia Group honorary chairman Kupqian】On the morning of July 1, 2026, Vice Finance Minister Liao Min met in Beijing with Kupqian, honorary chairman of U.S.-based Eurasia Group, to exchange views on China-U.S. economic and trade relations and the bilateral macroeconomic outlook."
+    },
+    {
+      "id": "mkt:019f2758-012a-7aab-8c92-a74555de5e4d",
+      "time": "2026-07-03 17:38:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Monaco prosecutor says a car displaying German license plates may have been used by the suspect in the Monaco attack."
+    },
+    {
+      "id": "4969482",
+      "time": "2026-07-03 17:38:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中稀有色：投資1950萬元建設高效能稀土粉體材料中試線，年產20噸】中稀有色公告，公司第九屆董事會2026年第六次會議審議透過《關於“稀土高階功能新材料研發及中試線建設”專案立項的議案》，同意與科學院所合作開展高階稀土複合塗層粉體材料研究，專案以公司自有資金1950萬元在廣州投資建設高效能特殊領域稀土粉體材料中試示範線2條，專案週期預計為2年，建成可實現年產20噸產能規模，主要用於重型燃氣輪機、航空航天發動機等高階裝備領域塗層解決方案。"
+    },
+    {
+      "id": "4969481",
+      "time": "2026-07-03 17:38:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家金融監督管理總局決定對眾邦銀行實施接管】國家金融監督管理總局、湖北省人民政府關於對武漢眾邦銀行股份有限公司實施接管的公告。鑑於武漢眾邦銀行股份有限公司（以下簡稱眾邦銀行）出現嚴重信用風險，為保護存款人和其他客戶的合法權益，依照《中華人民共和國銀行業監督管理法》和《中華人民共和國商業銀行法》有關規定，國家金融監督管理總局決定對眾邦銀行實施接管。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f2756-f7e0-7aab-8c92-9a50ba2adf15",
+      "time": "2026-07-03 17:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Monaco prosecutor said a woman disguised as a man is the principal suspect in the Monaco attack."
+    },
+    {
+      "id": "4969480",
+      "time": "2026-07-03 17:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩納哥檢察官：一名女扮男裝者是摩納哥襲擊案的主要嫌疑人。"
+    },
+    {
+      "id": "4969479",
+      "time": "2026-07-03 17:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩納哥檢察官：摩納哥炸彈襲擊者使用遙控器引爆炸藥。"
+    },
+    {
+      "id": "mkt:019f2756-6af3-7aab-8c92-94fab89d40dc",
+      "time": "2026-07-03 17:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Monaco prosecutor said the attacker in the Monaco explosion used a remote device to detonate the bomb."
+    },
     {
       "id": "mkt:019f2756-2484-7aab-8c92-8c3d8c3e80dc",
       "time": "2026-07-03 17:36:24",
@@ -9,6 +126,14 @@
         "MKT News"
       ],
       "text": "Sources said Russia plans to import Japanese jet fuel shipped in July via traders."
+    },
+    {
+      "id": "4969478",
+      "time": "2026-07-03 17:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲南鍺業：副總經理普世坤因工作調整辭職】雲南鍺業(002428.SZ)公告稱，公司副總經理普世坤因工作調整申請辭去副總經理職務，辭職後仍擔任公司技術中心主任等其他職務。截至公告日，普世坤未持有公司股票。"
     },
     {
       "id": "4969477",
