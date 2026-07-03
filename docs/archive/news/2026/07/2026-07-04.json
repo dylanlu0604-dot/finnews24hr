@@ -1,7 +1,59 @@
 {
   "date": "2026-07-04",
-  "count": 13,
+  "count": 19,
   "items": [
+    {
+      "id": "te:markets:564214",
+      "time": "2026-07-04 00:33:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens as Fed Rate Hike Bets Ease — The Brazilian real rose to 5.17 per USD from the three-month low of 5.22 on July 2nd as weak labor data from the US threatened to stretch the rate differential between the Fed and the BCB. The interest rate differential remains supportive for the real, with Brazil's benchmark Selic rate at 14.25% compared with the US policy range of 3.50%-3.75%. The wide yield gap continued to attract foreign inflows and support the Brazilian currency. Domestic gross public debt rose above forecasts in May, while primary deficit was wider than expected. The deterioration in fiscal accounts reinforced expectations of higher-for-longer borrowing costs and persistent upward pressure on interest rates. In addition, Brazil’s annual inflation rose past 4.8% in the first half of June, above the central bank's upper target band of 4.5%"
+    },
+    {
+      "id": "4970013",
+      "time": "2026-07-04 00:32:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國2/10年期國債收益率週五漲超3個基點】週五（7月3日）歐市尾盤，德國10年期國債收益率漲3.1個基點，報2.935%，本週累計上漲8.4個基點——週一持平、週二至週五持續上揚，整體交投於2.831%-2.936%區間。兩年期德債收益率漲3.6個基點，報2.536%，本週累漲1.9個基點，交投於2.492%-2.549%區間；30年期德債收益率漲2.0個基點，報3.509%。2/10年期德債收益率利差跌0.598個基點，報+39.612個基點，本週累漲6.464個基點。"
+    },
+    {
+      "id": "4970012",
+      "time": "2026-07-04 00:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡辦公室：內塔尼亞胡與特朗普於週五通電話，雙方同意近期在美國舉行會晤。"
+    },
+    {
+      "id": "mkt:019f28d1-b60a-7aab-8c99-6463156a4310",
+      "time": "2026-07-04 00:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO: As of July 1, the Democratic Republic of the Congo has reported 1,460 cumulative confirmed cases, including 452 deaths."
+    },
+    {
+      "id": "4970011",
+      "time": "2026-07-04 00:30:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SQM合資企業尋求智利30億美元鋰專案獲批】由智利化工礦業公司（SQM）運營的合資企業已提交環境審批申請，擬在智利北部投資30億美元以擴大鋰產量，同時引入全新的提取技術。根據週五在監管機構網站上釋出的檔案，由SQM與智利國家銅業公司（Codelco）組建的Novandino合資企業提交了環境影響評估報告。該報告提議將阿塔卡馬鹽湖（Salar de Atacama）礦區目前的運營期限從2030年延長至2060年。"
+    },
+    {
+      "id": "4970010",
+      "time": "2026-07-04 00:30:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【席捲西歐的熱浪可能導致近三分之一的法國玉米作物受損】上週席捲西歐的熱浪可能導致近三分之一的法國玉米作物受損，進一步惡化了該地區最大農業生產國的作物前景。據法國農業部初步估計，極端天氣導致法國玉米產量損失高達30%。此外，約一半的胡蘿蔔作物、60%的啤酒花以及大片果園被烤焦，另有數十萬只家禽死亡。 這些估計是官方對農民受損規模的首次正式評估。此前，由於伊朗戰爭導致化肥和燃料成本上升，種植戶減少了播種面積，玉米產量本已預期下降。研究機構Expana估計，法國僅有不到三分之一的玉米種植面積具備灌溉條件，並警告稱產量可能降至1990年以來的最低水平。"
+    },
     {
       "id": "mkt:019f28d0-77bd-7aab-8c99-59b5f4b22d89",
       "time": "2026-07-04 00:29:38",
