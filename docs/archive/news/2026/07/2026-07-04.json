@@ -1,7 +1,26 @@
 {
   "date": "2026-07-04",
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "id": "4970014",
+      "time": "2026-07-04 00:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“美莎克”登陸海南】據中央氣象臺訊息，颱風“美莎克”（熱帶風暴級）已於7月3日18時20分前後在海南省陵水黎族自治縣椰林鎮沿海地區登陸。受颱風“美莎克”外圍環流影響，未來24小時內，海南島西南部仍有強風雨影響。記者從廣西氣象部門獲悉，颱風“美莎克”預計於4日凌晨移入北部灣，並於4日晚在廣西沿海至越南北部一帶再次登陸。受其影響，3日至6日，廣西將有強風雨天氣，北部灣海面最大陣風10至11級，沿海及桂南地區局地有特大暴雨。目前，廣西已將重大氣象災害（颱風）應急響應提升至Ⅲ級。（新華社）"
+    },
+    {
+      "id": "mkt:019f28d5-68be-7aab-8c99-69c0e75aaa47",
+      "time": "2026-07-04 00:35:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Axios reported President Trump spoke by phone with Israeli Prime Minister Netanyahu today; the Israeli prime minister’s office said they agreed to meet in the U.S. soon."
+    },
     {
       "id": "te:markets:564214",
       "time": "2026-07-04 00:33:09",

@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-04 00:34:46",
-  "count": 13481,
+  "updated": "2026-07-04 00:38:58",
+  "count": 13480,
   "items": [
+    {
+      "id": "4970014",
+      "time": "2026-07-04 00:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“美莎克”登陸海南】據中央氣象臺訊息，颱風“美莎克”（熱帶風暴級）已於7月3日18時20分前後在海南省陵水黎族自治縣椰林鎮沿海地區登陸。受颱風“美莎克”外圍環流影響，未來24小時內，海南島西南部仍有強風雨影響。記者從廣西氣象部門獲悉，颱風“美莎克”預計於4日凌晨移入北部灣，並於4日晚在廣西沿海至越南北部一帶再次登陸。受其影響，3日至6日，廣西將有強風雨天氣，北部灣海面最大陣風10至11級，沿海及桂南地區局地有特大暴雨。目前，廣西已將重大氣象災害（颱風）應急響應提升至Ⅲ級。（新華社）"
+    },
+    {
+      "id": "mkt:019f28d5-68be-7aab-8c99-69c0e75aaa47",
+      "time": "2026-07-04 00:35:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Axios reported President Trump spoke by phone with Israeli Prime Minister Netanyahu today; the Israeli prime minister’s office said they agreed to meet in the U.S. soon."
+    },
     {
       "id": "te:markets:564214",
       "time": "2026-07-04 00:33:09",
@@ -124100,30 +124119,6 @@
         "國際"
       ],
       "text": "【倫銅漲0.5%，本週跌約2%，歐盟出口稅計劃提振倫鋁價格】LME期銅漲0.5%，報13345.50美元/噸，一度跌1.4%至13083美元，本週恐將累跌約1.8%，那將至5月1日以來最差單週表現。上期所銅庫存周環比減少5.7%，至13.5732萬噸，創12月份以來新低；LME銅庫存降低至33.6475萬噸，創3月18日以來新低。LME期鋁漲0.8%，報3189美元/噸，據英國金融時報，歐盟打算從9月份開始實施15%的出口稅。LME期鋅漲1.4%，報3483美元/噸。LME期鉛跌0.5%，報1902美元/噸。LME期鎳跌0.3%，報16780美元/噸。LME期錫漲0.9%，報50875美元/噸。"
-    },
-    {
-      "id": "mkt:019f04cb-ea52-7dd8-b13b-8f0fea061a82",
-      "time": "2026-06-27 00:38:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market report: explosion at a fireworks factory in Turkey."
-    },
-    {
-      "id": "mkt:019f04c9-5c93-7dd8-b13b-803688a0a888",
-      "time": "2026-06-27 00:35:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he will deliver remarks at about 9:00 p.m. on July 4, followed by a fireworks display."
-    },
-    {
-      "id": "mkt:019f04c8-e209-7dd8-b13b-7d69ae80dd43",
-      "time": "2026-06-27 00:35:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said a large aerial display will be held over Washington, D.C., on July 4, the largest in U.S. history."
     }
   ]
 }
