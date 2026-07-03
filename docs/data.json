@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-03 08:36:25",
-  "count": 13876,
+  "updated": "2026-07-03 08:40:12",
+  "count": 13872,
   "items": [
+    {
+      "id": "4968484",
+      "time": "2026-07-03 08:38:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華南沿海颱風雨來襲 北方多地正經歷今年來最大範圍高溫過程】隨著今年第10號颱風“美莎克”靠近我國，今天（7月3日）起，華南一帶降雨將增多增強，局地或遭遇特大暴雨，同時長江中下游等地仍將出現強降雨。受強盛的大陸高壓影響，北方多地正在經歷今年以來最大範圍的高溫天氣過程，新疆、甘肅等地需警惕極端高溫。"
+    },
+    {
+      "id": "4968483",
+      "time": "2026-07-03 08:37:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國家能源局負責人會見法國電力集團執行董事】7月1日，中國國家能源局副局長何洋在京會見法國電力集團執行董事於雲颯，雙方就中國“十五五”能源規劃、清潔能源領域合作等議題交換意見。何洋表示，“十五五”時期，中國將大力發展清潔能源，擴大可再生能源領域投資，並始終堅持開放政策，打造市場化、法治化、國際化營商環境，歡迎法國電力集團在內的廣大外資企業深耕中國市場，與中方企業在能源各領域深化務實合作。於雲颯表示，法國電力集團與中國企業保持了良好的合作關係，中國一直是法國電力集團深耕發展的核心市場。法國電力集團願依託傳統技術優勢，與中國企業共同開展核電、電氣化、新興技術、第三方市場等方面合作。"
+    },
+    {
+      "id": "mkt:019f2568-c959-7aab-8c86-c70fb09fd3c5",
+      "time": "2026-07-03 08:37:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Indian Prime Minister Modi will make his first official visit to New Zealand next week, New Zealand's prime minister said."
+    },
+    {
+      "id": "mkt:019f2568-98d2-7aab-8c86-b8a51c26fb77",
+      "time": "2026-07-03 08:37:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI fell as much as 3% before a swift rebound and is currently down 1.5%."
+    },
+    {
+      "id": "te:economy:563914",
+      "time": "2026-07-03 08:36:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Revised Upward — Japan’s S&P Global Composite PMI Business Activity Index was revised higher to 52.8 in June 2026 from the flash estimate of 52.5, marking its highest level since March and extending the sector’s expansion streak to 15 consecutive months. The improvement came as service providers reported stronger business activity, while manufacturing output also continued to recover. New orders rose at the fastest pace since February, supported primarily by domestic demand, although foreign demand increased only marginally. Firms also reported the strongest accumulation of backlogged work in four months, prompting a slightly faster, though still modest, increase in hiring. On the price front, cost pressures intensified, with input prices rising at the sharpest pace in four years, reflecting higher labor, raw material, and operating costs. Businesses continued to pass part of these higher costs on to customers, although output price inflation eased from May’s record high and remained elevated overall."
+    },
+    {
+      "id": "4968482",
+      "time": "2026-07-03 08:36:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國科斯達克指數下跌3.6%。"
+    },
     {
       "id": "4968480",
       "time": "2026-07-03 08:35:09",
@@ -80,6 +139,15 @@
         "WTI"
       ],
       "text": "【China International Capital Co: Dollar index may return to weaker trading range】China International Capital Co says markets have entered a corrective phase since June: the dollar index broke above its one-year upper range while AI-driven global equity benchmarks and liquidity-sensitive indices have pulled back; US equities show a defensive-style bias. The report attributes the moves mainly to rising rate-hike expectations and marginal tightening in dollar liquidity. It reiterates the view that the Fed will be nominally hawkish but effectively dovish this year; policy implementation this year is more likely to focus on easing bank regulation to support the investment cycle and buy time for AI-driven productivity gains. After this round of adjustment markets may rotate into lagged-curve trades; the dollar index could revert to a weaker trading range. Real assets, industrials and technology retain expansion potential, and investors should watch banking deregulation for its potential to lift traditional cyclicals."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607033792593720",
+      "time": "2026-07-03 08:30:40",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月綜合PMI終值為52.8，前值52.5。"
     },
     {
       "id": "mkt:019f2562-78df-7aab-8c86-9e6fad7e2ff5",
@@ -127786,104 +127854,6 @@
         "公司"
       ],
       "text": "惠譽評級：亞太證券公司在市場波動中展現韌性。"
-    },
-    {
-      "id": "mkt:019f015e-9ca4-7dd8-b127-f4ae429a2fc6",
-      "time": "2026-06-26 08:40:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's defense minister said Seoul plans to use South Korean components in drone manufacturing."
-    },
-    {
-      "id": "4956040",
-      "time": "2026-06-26 08:40:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加州億萬富翁稅提案將提交11月投票表決。"
-    },
-    {
-      "id": "mkt:019f015e-71b2-7dd8-b127-ed5a6735358b",
-      "time": "2026-06-26 08:39:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea finance minister says fuel price cap will be lowered】South Korea's finance minister said on Friday the government will lower the national fuel price cap as part of measures to rein in inf. He said officials kept the sixth-round cap unchanged this week amid ongoing Middle East uncertainty, but the seventh-round cap will be set below the current level and maintained until consumer prices stabilize. Seoul introduced a nationwide fuel price cap in March for the first time in decades; authorities now review the cap monthly."
-    },
-    {
-      "id": "4956039",
-      "time": "2026-06-26 08:39:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國貿促會副會長林紅紅會見新加坡大華銀行國際管理董事總經理張志堅】6月25日，中國貿促會副會長林紅紅在京會見專程來華參加第四屆鏈博會的新加坡大華銀行國際管理董事總經理張志堅一行。雙方圍繞深化兩機構交流合作、更好服務中外企業發展等議題進行交流。"
-    },
-    {
-      "id": "4956038",
-      "time": "2026-06-26 08:38:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國國防部長：計劃在無人機制造中使用韓國零部件。"
-    },
-    {
-      "id": "4956037",
-      "time": "2026-06-26 08:38:20",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國綜合股價指數下跌3% SK海力士和三星股價下挫】受華爾街股市劇烈波動的影響，晶片製造商股價下跌，韓國綜合股價指數（KOSPI）一度下跌3.3%。權重股三星和SK海力士均下跌超過3%，此前兩股在前一交易日均大幅上漲。三星電子、SK海力士和SK Square是導致該指數下跌的最大因素。全球基金淨賣出韓國綜合股價指數（KOSPI）股票，而散戶投資者則買入。韓國小型股Kosdaq指數下跌幅度高達2.5%。MSCI亞太指數下跌1%。"
-    },
-    {
-      "id": "4956036",
-      "time": "2026-06-26 08:37:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "部分美股晶片股夜盤走低，美光科技(MU.O)跌近4%，西部資料(WDC.O)和邁威爾科技(MRVL.O)跌2%，高通(QCOM.O)跌1%。"
-    },
-    {
-      "id": "mkt:019f015b-b58b-7dd8-b127-e7e8c027dc0d",
-      "time": "2026-06-26 08:36:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's defense minister said Seoul will rapidly expand drone and counter-drone capabilities."
-    },
-    {
-      "id": "4956035",
-      "time": "2026-06-26 08:36:40",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價下跌 價格可能還有進一步下跌空間】亞洲時段早盤金價下跌。現貨黃金下跌0.2%，報每盎司4,018.77美元。雖然市場預計金價在跌至每盎司4,000美元后會反彈，但凱投宏觀的Hamad Hussain認為，這種貴金屬在未來18個月內仍有進一步下跌的空間。他指出，美聯儲加息的前景將推高實際收益率並令金價承壓。該經濟學家表示，股市潛在的暴跌也可能對金價造成更大的下行壓力，因為在股市突然遭到拋售期間，投資者通常不得不出售優質資產以滿足追加保證金的要求。凱投宏觀預計，到2026年底和2027年底，金價將分別跌至每盎司3,500美元和每盎司3,250美元。"
-    },
-    {
-      "id": "mkt:019f015b-7cf8-7dd8-b127-df429f3e0aaf",
-      "time": "2026-06-26 08:36:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bearish",
-        "WDC.O",
-        "MRVL.O"
-      ],
-      "text": "U.S. chip stocks slipped in after-hours trading: Micron Technology (MU.O) down nearly 4%, Western Digital (WDC.O) and Marvell (MRVL.O) down about 2% each, Qualcomm (QCOM.O) down 1%."
-    },
-    {
-      "id": "mkt:019f015b-7b7b-7dd8-b127-d705412f4190",
-      "time": "2026-06-26 08:36:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Defense Ministry says it will train 500,000 drone operators."
     }
   ]
 }

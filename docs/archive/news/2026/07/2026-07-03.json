@@ -1,7 +1,66 @@
 {
   "date": "2026-07-03",
-  "count": 633,
+  "count": 640,
   "items": [
+    {
+      "id": "4968484",
+      "time": "2026-07-03 08:38:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華南沿海颱風雨來襲 北方多地正經歷今年來最大範圍高溫過程】隨著今年第10號颱風“美莎克”靠近我國，今天（7月3日）起，華南一帶降雨將增多增強，局地或遭遇特大暴雨，同時長江中下游等地仍將出現強降雨。受強盛的大陸高壓影響，北方多地正在經歷今年以來最大範圍的高溫天氣過程，新疆、甘肅等地需警惕極端高溫。"
+    },
+    {
+      "id": "4968483",
+      "time": "2026-07-03 08:37:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國家能源局負責人會見法國電力集團執行董事】7月1日，中國國家能源局副局長何洋在京會見法國電力集團執行董事於雲颯，雙方就中國“十五五”能源規劃、清潔能源領域合作等議題交換意見。何洋表示，“十五五”時期，中國將大力發展清潔能源，擴大可再生能源領域投資，並始終堅持開放政策，打造市場化、法治化、國際化營商環境，歡迎法國電力集團在內的廣大外資企業深耕中國市場，與中方企業在能源各領域深化務實合作。於雲颯表示，法國電力集團與中國企業保持了良好的合作關係，中國一直是法國電力集團深耕發展的核心市場。法國電力集團願依託傳統技術優勢，與中國企業共同開展核電、電氣化、新興技術、第三方市場等方面合作。"
+    },
+    {
+      "id": "mkt:019f2568-c959-7aab-8c86-c70fb09fd3c5",
+      "time": "2026-07-03 08:37:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Indian Prime Minister Modi will make his first official visit to New Zealand next week, New Zealand's prime minister said."
+    },
+    {
+      "id": "mkt:019f2568-98d2-7aab-8c86-b8a51c26fb77",
+      "time": "2026-07-03 08:37:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI fell as much as 3% before a swift rebound and is currently down 1.5%."
+    },
+    {
+      "id": "te:economy:563914",
+      "time": "2026-07-03 08:36:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Revised Upward — Japan’s S&P Global Composite PMI Business Activity Index was revised higher to 52.8 in June 2026 from the flash estimate of 52.5, marking its highest level since March and extending the sector’s expansion streak to 15 consecutive months. The improvement came as service providers reported stronger business activity, while manufacturing output also continued to recover. New orders rose at the fastest pace since February, supported primarily by domestic demand, although foreign demand increased only marginally. Firms also reported the strongest accumulation of backlogged work in four months, prompting a slightly faster, though still modest, increase in hiring. On the price front, cost pressures intensified, with input prices rising at the sharpest pace in four years, reflecting higher labor, raw material, and operating costs. Businesses continued to pass part of these higher costs on to customers, although output price inflation eased from May’s record high and remained elevated overall."
+    },
+    {
+      "id": "4968482",
+      "time": "2026-07-03 08:36:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國科斯達克指數下跌3.6%。"
+    },
     {
       "id": "4968480",
       "time": "2026-07-03 08:35:09",
@@ -80,6 +139,15 @@
         "WTI"
       ],
       "text": "【China International Capital Co: Dollar index may return to weaker trading range】China International Capital Co says markets have entered a corrective phase since June: the dollar index broke above its one-year upper range while AI-driven global equity benchmarks and liquidity-sensitive indices have pulled back; US equities show a defensive-style bias. The report attributes the moves mainly to rising rate-hike expectations and marginal tightening in dollar liquidity. It reiterates the view that the Fed will be nominally hawkish but effectively dovish this year; policy implementation this year is more likely to focus on easing bank regulation to support the investment cycle and buy time for AI-driven productivity gains. After this round of adjustment markets may rotate into lagged-curve trades; the dollar index could revert to a weaker trading range. Real assets, industrials and technology retain expansion potential, and investors should watch banking deregulation for its potential to lift traditional cyclicals."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607033792593720",
+      "time": "2026-07-03 08:30:40",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月綜合PMI終值為52.8，前值52.5。"
     },
     {
       "id": "mkt:019f2562-78df-7aab-8c86-9e6fad7e2ff5",
