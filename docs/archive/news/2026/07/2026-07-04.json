@@ -1,7 +1,33 @@
 {
   "date": "2026-07-04",
-  "count": 93,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:019f294c-4988-7aab-8c9a-6142b6ccacec",
+      "time": "2026-07-04 02:44:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru election body declares Keiko Fujimori president】Peru's National Elections Jury on July 3 (local time) declared Popular Force candidate Keiko Fujimori president after she won 50.135% of valid votes in the presidential runoff. She is due to be sworn in on July 28 for a five-year term."
+    },
+    {
+      "id": "4970051",
+      "time": "2026-07-04 02:44:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智利兩大礦企為鋰合資專案增產70%規劃路徑】智利化工礦業(SQM)和智利國家銅業(Codelco)正為其大型鋰合資專案增產逾70%鋪路，對電池需求進行長期押注。在一份關於30億美元業務改造計劃的環境影響研究中，該合資企業Novandino表示，其目標是年產量最高達到47萬噸。相比之下，今年的指引約為27萬噸。該公司沒有說明何時將達到這一新目標。除了電動汽車需求外，電網級電池儲能也在拉動需求，Novandino希望抓住全球鋰消費兩位數增長的機遇。隨著該行業走出全球供應過剩，這一擴張可能給成本較高的競爭對手帶來壓力。儘管如此，新增產量仍需數年時間才能實現。根據週五提交的檔案，在現有框架下，產量預計將逐步升至約30萬噸，之後該合資企業將開始為期七年的過渡，轉向納入直接鋰提取等技術的綜合生產系統。"
+    },
+    {
+      "id": "mkt:019f294a-32be-7aab-8c9a-59e365e37311",
+      "time": "2026-07-04 02:42:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Senior NATO commander says Europe has filled most of the gap created by U.S. cuts to its share within NATO."
+    },
     {
       "id": "te:economy:564222",
       "time": "2026-07-04 02:42:17",
