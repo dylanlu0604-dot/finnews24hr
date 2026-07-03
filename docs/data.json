@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-03 08:55:33",
-  "count": 13883,
+  "updated": "2026-07-03 08:59:19",
+  "count": 13888,
   "items": [
+    {
+      "id": "mkt:019f257c-56cb-7aab-8c87-048970939228",
+      "time": "2026-07-03 08:58:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alberta provincial government: financing details for the proposed new West Coast oil pipeline remain under negotiation."
+    },
+    {
+      "id": "4968517",
+      "time": "2026-07-03 08:57:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大阿爾伯塔省省長史密斯：西海岸新管道專案的融資細節尚待談判。"
+    },
+    {
+      "id": "4968516",
+      "time": "2026-07-03 08:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：影響外匯匯率的因素很多，對此不予置評。"
+    },
+    {
+      "id": "4968514",
+      "time": "2026-07-03 08:57:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銘普光磁：800G LPO已實現小批次出貨】銘普光磁7月3日在互動平臺表示，800G LPO已實現小批次出貨，客戶驗證與批次匯入有序開展，公司正按客戶計劃穩步推進量產爬坡。"
+    },
+    {
+      "id": "4968513",
+      "time": "2026-07-03 08:57:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普堅稱其鉅額加密貨幣收入“沒有任何不妥”】在財務披露顯示其家族企業透過加密貨幣業務斬獲鉅額收益後，美國總統特朗普週四稱他並不清楚自己持有的數字資產規模，但強調他參與相關業務不存在任何違法之處。 特朗普本週早些時候披露，2025年他從加密貨幣和迷因幣相關公司獲得了至少14億美元收入。已將商業運營交給長子和次子打理的特朗普在接受採訪時，被問及是否瞭解這些加密貨幣投資專案。“我本可以瞭解這些情況，”特朗普在白宮受訪時稱。“但我並沒有去了解。”“這沒有任何違法之處，沒有任何不妥，”特朗普在談到自己與家族企業的往來時說。"
+    },
+    {
+      "id": "mkt:019f257a-434e-7aab-8c86-f96a85983fae",
+      "time": "2026-07-03 08:56:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,150/oz, up 0.63% intraday."
+    },
+    {
+      "id": "4968512",
+      "time": "2026-07-03 08:56:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲0.64%。"
+    },
+    {
+      "id": "4968511",
+      "time": "2026-07-03 08:56:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統羅德里格斯表示，委內瑞拉發生地震後，已立即派出4000名官員（展開救援）。"
+    },
+    {
+      "id": "4968510",
+      "time": "2026-07-03 08:55:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美改以現貨定價供油 以加快在亞洲的銷售】據貿易訊息人士和航運資料，至少有五艘從拉斯塔努拉港(Ras Tanura)裝載總計1,000萬桶沙特原油的超級油輪已駛離霍爾木茲海峽；與此同時，沙烏地阿拉伯國家石油公司(沙特阿美)已轉為採用現貨定價，以加快在亞洲的銷售。在停擺近四個月後，沙特阿美上週五恢復從全球最大石油港口拉斯塔努拉的裝船作業(Full Story)。該公司正在加大向亞洲的裝船和發運力度，加劇了現貨市場供應過剩局面。多位因事涉敏感而要求匿名的貿易訊息人士表示，除了利用沙特國家航運公司巴赫裡(Bahri)油輪船隊運輸原油外，沙特阿美還以現貨價格向亞洲客戶供應原油，以在競爭加劇的情況下吸引需求。其中一位訊息人士稱，沙特阿美已向其傳統亞洲客戶提供600萬桶7月裝船的原油。另一位訊息人士表示，其價格對中國買家而言“非常有吸引力”。沙特阿美拒絕置評。"
+    },
     {
       "id": "4968509",
       "time": "2026-07-03 08:54:57",
@@ -127925,42 +128003,6 @@
         "Importance 0"
       ],
       "text": "Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries."
-    },
-    {
-      "id": "4956061",
-      "time": "2026-06-26 08:58:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：不會限制用於投資的預算申請。在投資時會將財政可持續性銘記於心。不會依靠舉債來為調降食品消費稅提供資金。需要透過評估補貼和支出來為減稅籌集資金。"
-    },
-    {
-      "id": "4956060",
-      "time": "2026-06-26 08:58:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：兩大新興專業首次評職稱】昨天，北京市人力資源和社會保障局釋出《關於開展2026年度北京市職稱評價工作的通知》，自7月7日起，在全市啟動2026年度職稱申報工作。今年，本市首次開設機器人、低空技術兩大新興專業職稱評審。機器人專業劃分四大評價方向，包含核心零部件、演算法與軟體、整機設計與製造、系統整合與應用，覆蓋研發、硬體、程式開發、專案整合等全領域從業人員。低空技術專業結合城市產業實際，設定低空飛行器研發、低空飛行器製造、低空執行系統建設、低空安全保障四大方向，完整覆蓋低空經濟產業鏈核心環節。"
-    },
-    {
-      "id": "te:markets:562028",
-      "time": "2026-06-26 08:57:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 2.8% to below 70,400, while the broader Topix Index slipped 0.7% to 3,987 on Friday, giving back the previous session's gains as technology stocks came under renewed selling pressure after Thursday's strong rally. Japanese equities also tracked a volatile session on Wall Street, where losses in megacap technology stocks outweighed optimism driven by a bullish outlook for memory-chip makers. Among the biggest decliners were Kioxia Holdings (-4.1%), SoftBank Group (-10.8%), Advantest (-6.2%), Tokyo Electron (-2.3%), and Taiyo Yuden (-8.3%). On the economic front, data showed Tokyo's core inflation rate accelerated for the first time in eight months, reinforcing expectations that the Bank of Japan will continue raising interest rates."
-    },
-    {
-      "id": "4956059",
-      "time": "2026-06-26 08:57:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市前五月財政收入3146.3億元 同比增長6%】北京市財政局釋出的北京市2026年1至5月財政收支情況顯示，前五個月，全市一般公共預算收入完成3146.3億元，同比增長6.0%；完成年度預算的45.3%，超時間進度3.6個百分點。從支出重點看，科技和衛生健康支出增速較快。從主要支出領域看，科技支出392.2億元，同比增長24.6%，重點用於支援“三城一區”聯動發展，促進教育科技人才一體發展。教育支出547.7億元，同比增長2.6%。衛生健康支出334.3億元，同比增長10.5%，重點用於支援同仁醫院等新院區建設，推動優質醫療資源擴容，加強基層醫療衛生服務體系建設。"
     }
   ]
 }
