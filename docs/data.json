@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-04 06:44:50",
-  "count": 13312,
+  "updated": "2026-07-04 06:48:44",
+  "count": 13314,
   "items": [
+    {
+      "id": "te:markets:564233",
+      "time": "2026-07-04 06:45:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 3.94% — Top crypto gainers are XRP (3.94%), Ether (3.40%), Binance (2.74%) and Bitcoin (1.71%)."
+    },
+    {
+      "id": "4970149",
+      "time": "2026-07-04 06:44:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年1至5月 中國進出口銀行投放科技貸款超3400億元】今年1至5月，中國進出口銀行新發放科技貸款超3400億元，支援企業2500餘家。重點投向人工智慧、人形機器人、先進材料等領域，積極滿足科技企業在技術研發、成果轉化、產業化發展等環節融資需求。（央視新聞）"
+    },
     {
       "id": "te:markets:564232",
       "time": "2026-07-04 06:40:19",
