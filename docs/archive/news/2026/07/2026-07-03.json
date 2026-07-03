@@ -1,7 +1,116 @@
 {
   "date": "2026-07-03",
-  "count": 866,
+  "count": 878,
   "items": [
+    {
+      "id": "mkt:019f25aa-e168-7aab-8c88-bd8bcca11d0d",
+      "time": "2026-07-03 09:49:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU to propose ban on social media use by minors】European media reported on July 2 that the European Commission is expected to unveil in September a proposal to ban minors from using social media across the EU. Commission President Ursula von der Leyen is slated to announce the recommendation in her State of the Union address on September 16; member states have been briefed. A child online safety advisory group will deliver a report on September 13 to inform the Commission. The proposed age threshold and enforcement details remain unclear; member states are debating options ranging from an outright ban for under‑age groups to requiring parental consent."
+    },
+    {
+      "id": "mkt:019f25aa-bdab-7aab-8c88-b7ea1f839ac6",
+      "time": "2026-07-03 09:49:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DJI sues Yingshi over Luna-series gimbal patents in China; Shenzhen trial Aug. 3; U.S. suits withdrawn】DJI has filed patent-infringement lawsuits in multiple Chinese courts against Yingshi’s Luna series, accusing the product line of violating several long-held invention patents covering handheld gimbals and control methods, gimbal-based shooting methods and storage media, detachable controllers, and related control schemes. The case accepted by the Shenzhen Intermediate People’s Court is scheduled for trial on Aug. 3. On June 28 (U.S. time) both DJI and Yingshi filed notices of dismissal in the U.S. District Court for the Eastern District of Texas, withdrawing earlier patent suits and counterclaims."
+    },
+    {
+      "id": "te:economy:563936",
+      "time": "2026-07-03 09:49:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "China RatingDog Composite PMI Falls from 3-Month Peak — The RatingDog China General Composite PMI eased to 53.6 in June 2026 from May's three-month high of 54.01 in the prior month. Still, the latest result was among the highest readings in three years, supported by broad-based growth across manufacturing and services"
+    },
+    {
+      "id": "4968656",
+      "time": "2026-07-03 09:49:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【碳酸鋰期貨及期權今起正式引入境外交易者】經中國證監會批准，從今天（7月3日）上午9時起，境外交易者可參與廣州期貨交易所碳酸鋰期貨及期權交易，這是我國期貨市場對外開放的又一重要舉措，標誌著我國在全球新能源材料領域的價格影響力進一步增強。碳酸鋰廣泛應用於動力電池和儲能電池的生產。我國是全球最大的碳酸鋰生產國、消費國和進口國。（央視新聞）"
+    },
+    {
+      "id": "4968655",
+      "time": "2026-07-03 09:48:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股AI概念股反彈，智譜港股漲超11%，MINIMAX漲超2%。"
+    },
+    {
+      "id": "4968654",
+      "time": "2026-07-03 09:48:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報3889.00元。"
+    },
+    {
+      "id": "4968653",
+      "time": "2026-07-03 09:48:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4968652",
+      "time": "2026-07-03 09:47:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲1%，現報5442.00元。"
+    },
+    {
+      "id": "4968651",
+      "time": "2026-07-03 09:47:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐樹彪任中國華電集團有限公司總經理】2026年7月3日，中國華電集團有限公司召開領導班子（擴大）會議。受中央組織部領導委託，中央組織部有關幹部局負責同志宣佈了黨中央關於中國華電集團有限公司總經理任職的決定：徐樹彪同志任中國華電集團有限公司董事、總經理、黨組副書記，免去其國家電力投資集團有限公司董事、總經理、黨組副書記職務。相關職務任免，按有關法律和章程的規定辦理。"
+    },
+    {
+      "id": "mkt:019f25a8-47db-7aab-8c88-ac87e51fcf3d",
+      "time": "2026-07-03 09:46:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fluorochemical sector extended early-session losses; Do-Fluoride hit the daily limit down, Jianghua Micro slid more than 9%, with Zhongxin Fluoromaterials and Juhua Co. also retreating."
+    },
+    {
+      "id": "4968650",
+      "time": "2026-07-03 09:46:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體材料板塊震盪下挫 多氟多跌停】早盤半導體材料板塊震盪下挫，電子特氣、光刻膠方向領跌，多氟多跌停，金宏氣體、江化微、有研矽、晶瑞電材、彤程新材等跟跌。"
+    },
+    {
+      "id": "4968649",
+      "time": "2026-07-03 09:46:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "mkt:019f25a7-5460-7aab-8c88-a4581f2e9c0e",
       "time": "2026-07-03 09:45:50",
