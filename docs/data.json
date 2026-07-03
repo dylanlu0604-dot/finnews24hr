@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-03 21:19:15",
-  "count": 13637,
+  "updated": "2026-07-03 21:23:19",
+  "count": 13631,
   "items": [
+    {
+      "id": "mkt:019f2824-11fc-7aab-8c96-d310d363dd0c",
+      "time": "2026-07-03 21:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Shipping data showed Middle East Gulf crude exports rose to above 10 mln bpd in June but remain about 40% below pre-conflict levels."
+    },
+    {
+      "id": "te:economy:564173",
+      "time": "2026-07-03 21:20:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Consumer Confidence Improves in June — Mexico's Consumer Confidence Index rose 0.4 points to 43.8 in June 2026 from May, as households became slightly more optimistic about current economic conditions. Four of the five components of the index improved during the month. The largest increases were recorded in perceptions of current household finances, which rose 1.2 points to 51.2, and willingness to purchase durable goods, up 1.1 points to 30.0. Assessments of the current national economic situation increased 0.7 points to 37.5, while expectations for the country's economic outlook over the next 12 months edged up 0.3 points to 43.7. In contrast, expectations for household finances over the next year declined 1.0 point to 56.4. Compared with June 2025, consumer confidence was 1.8 points lower."
+    },
+    {
+      "id": "4969889",
+      "time": "2026-07-03 21:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示，6月中東海灣原油出口量升至每日1000萬桶以上，但仍較衝突前水平低40%。"
+    },
     {
       "id": "te:markets:564172",
       "time": "2026-07-03 21:16:27",
@@ -125570,90 +125604,6 @@
         "公司"
       ],
       "text": "【榮科科技：公司股票將於6月30日被實施其他風險警示】榮科科技公告，公司股票將於2026年6月30日被實施其他風險警示，股票簡稱由“榮科科技”變更為“ST榮科”。公司股票自2026年6月29日（星期一）開市起停牌1天，將於2026年6月30日（星期二）開市起復牌。"
-    },
-    {
-      "id": "4957630",
-      "time": "2026-06-26 21:23:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星輝娛樂：擬5000萬元-1億元回購公司股份】星輝娛樂6月26日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於5000萬元且不超過1億元。回購價格不超過7.1元/股。回購股份將用於維護公司價值及股東權益。回購期限為自公司董事會審議透過回購方案之日起3個月內。"
-    },
-    {
-      "id": "4957629",
-      "time": "2026-06-26 21:23:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部公佈兩起安全生產培訓考試領域行刑銜接典型案例，嚴查弄虛作假行為】近年來，一些違法犯罪分子在安全生產培訓考試領域弄虛作假，嚴重破壞培訓考試公平公正，給安全生產工作埋下重大隱患，必須依法從嚴予以打擊。應急管理部會同相關部門指導地方嚴肅查處安全生產培訓考試領域弄虛作假行為，加強行刑銜接，有力發揮警示震懾作用。現公佈兩起涉及組織作弊、非法控制計算機資訊系統和製售假證的典型案例，以案說法、以案示警。"
-    },
-    {
-      "id": "4957628",
-      "time": "2026-06-26 21:22:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古自治區呼和浩特市人大常委會原副主任吳文明接受審查調查】據內蒙古自治區紀委監委訊息：內蒙古自治區呼和浩特市人大常委會原黨組成員、副主任吳文明涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019f0418-433e-7dd8-b137-c9d9aec27ae4",
-      "time": "2026-06-26 21:22:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The UAE said that after issuing a potential-threat alert, the situation is now secure."
-    },
-    {
-      "id": "4957625",
-      "time": "2026-06-26 21:21:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋表示，在釋出潛在威脅警報後，當前局勢安全。"
-    },
-    {
-      "id": "4957624",
-      "time": "2026-06-26 21:20:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國商品貿易逆差擴大至逾一年最高水平 消費品和資本品出口均下滑】美國5月商品貿易逆差擴大至逾一年最高水平，因出口下滑而進口上升。報告顯示，消費品和資本品出口均大幅下降。與此同時，近幾個月來，美國持續進口裝置以推進資料中心建設。週五資料表明，5月資本品進口繼續上升。該類別包括計算機及配件、半導體和電信裝置。與上年同期相比，資本品進口增長近42%。近期採購經理人調查顯示，隨著供應鏈延誤日益普遍，企業也在持續囤積商品和原材料，加劇了對進一步漲價的擔憂。"
-    },
-    {
-      "id": "mkt:019f0416-566e-7dd8-b137-c5e5a648a426",
-      "time": "2026-06-26 21:20:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent rose nearly $1 intraday to $70.32/bbl and $73.73/bbl."
-    },
-    {
-      "id": "4957623",
-      "time": "2026-06-26 21:19:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錢江摩托：擬出資2億元參與設立合夥企業】錢江摩托(000913)6月26日公告，公司擬與浙江銘島鋁業有限公司、浙江羅梅投資有限公司及寧波吉洋商務諮詢有限公司共同投資設立杭州吉摩企業管理合夥企業。該合夥企業出資總額為5億元，其中，公司擬作為有限合夥人認繳出資2億元，認繳出資比例為39.98%。透過本次設立合夥企業，有助於公司盤活資金，並藉助控股股東在新能源、新材料及新科技上的資源優勢，幫助公司開拓發展業務。"
-    },
-    {
-      "id": "mkt:019f0416-2ea9-7dd8-b137-bdec09162f76",
-      "time": "2026-06-26 21:19:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "UAE issued mobile alerts warning of a possible missile threat."
     }
   ]
 }

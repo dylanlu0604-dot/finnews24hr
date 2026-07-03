@@ -1,7 +1,41 @@
 {
   "date": "2026-07-03",
-  "count": 2524,
+  "count": 2527,
   "items": [
+    {
+      "id": "mkt:019f2824-11fc-7aab-8c96-d310d363dd0c",
+      "time": "2026-07-03 21:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Shipping data showed Middle East Gulf crude exports rose to above 10 mln bpd in June but remain about 40% below pre-conflict levels."
+    },
+    {
+      "id": "te:economy:564173",
+      "time": "2026-07-03 21:20:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Consumer Confidence Improves in June — Mexico's Consumer Confidence Index rose 0.4 points to 43.8 in June 2026 from May, as households became slightly more optimistic about current economic conditions. Four of the five components of the index improved during the month. The largest increases were recorded in perceptions of current household finances, which rose 1.2 points to 51.2, and willingness to purchase durable goods, up 1.1 points to 30.0. Assessments of the current national economic situation increased 0.7 points to 37.5, while expectations for the country's economic outlook over the next 12 months edged up 0.3 points to 43.7. In contrast, expectations for household finances over the next year declined 1.0 point to 56.4. Compared with June 2025, consumer confidence was 1.8 points lower."
+    },
+    {
+      "id": "4969889",
+      "time": "2026-07-03 21:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示，6月中東海灣原油出口量升至每日1000萬桶以上，但仍較衝突前水平低40%。"
+    },
     {
       "id": "te:markets:564172",
       "time": "2026-07-03 21:16:27",
