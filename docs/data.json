@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-04 04:49:46",
-  "count": 13330,
+  "updated": "2026-07-04 04:53:36",
+  "count": 13329,
   "items": [
+    {
+      "id": "4970118",
+      "time": "2026-07-04 04:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：巴勒尼群島地區發生5.3級地震。"
+    },
+    {
+      "id": "4970117",
+      "time": "2026-07-04 04:50:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "聯合愛迪生電力公司切斷美國紐約皇后區西南部使用者電力供應。"
+    },
+    {
+      "id": "4970116",
+      "time": "2026-07-04 04:49:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合愛迪生電力公司臨時切斷9800名使用者的電力供應。"
+    },
     {
       "id": "4970115",
       "time": "2026-07-04 04:44:42",
@@ -122665,48 +122690,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Rises as Bank Gains Offset Commodity Losses — The Ibovespa rose 0.8% to close at 173,295 on Friday, recovering from early losses as gains in financial stocks offset declines in heavyweight commodity shares. Bond yields edged lower as oil prices returned to pre-conflict levels amid easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite President Donald Trump accusing Iran of violating the ceasefire by targeting cargo ships transiting the strait. Earlier, Iran reaffirmed its right to control shipping through the waterway and warned Gulf states against siding with the US, a day after an attack on a vessel near Oman. Major banks led gains, with Banco do Brasil up 1.4%, Bradesco rising 1.7%, Itaú climbing 1.3%, and Santander advancing 0.6%. On the downside, Vale fell 0.6% despite stronger iron ore prices, while Petrobras dropped 1.0% on lower global oil prices. Braskem plunged 8.4% after a downgrade from Citi."
-    },
-    {
-      "id": "mkt:019f05b4-7cf2-7dd8-b13f-bc501ba44c04",
-      "time": "2026-06-27 04:52:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Fox News reports US strikes against Iranian targets are \"ongoing\"."
-    },
-    {
-      "id": "4958031",
-      "time": "2026-06-27 04:51:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：美國對伊朗目標的打擊目前仍在“進行中”。"
-    },
-    {
-      "id": "mkt:019f05b2-c166-7dd8-b13f-b569a8095721",
-      "time": "2026-06-27 04:50:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "【Oracle posts biggest weekly drop since August 2001 post‑dotcom trough】Oracle (ORCL.N) fell 19.4% this week, its largest weekly decline since the August 2001 post‑dotcom trough, as investor concerns over AI-related financing intensified. In the latest fiscal year, capital expenditure rose 162%, free cash flow showed roughly a $24.0bn deficit and total debt stood at about $130.0bn."
-    },
-    {
-      "id": "4958030",
-      "time": "2026-06-27 04:50:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：藉助烏克蘭支援貸款計劃，未來兩年我們將再追加提供 900 億歐元。今日我們將撥付首批款項，共計 32 億歐元宏觀金融援助資金。未來數日，我們還將啟動撥付 60 億歐元無人機生產專項資金的首筆資金。"
     }
   ]
 }
