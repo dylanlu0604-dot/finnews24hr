@@ -1,7 +1,38 @@
 {
   "date": "2026-07-04",
-  "count": 52,
+  "count": 55,
   "items": [
+    {
+      "id": "4970032",
+      "time": "2026-07-04 01:17:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 9 月布倫特原油期貨結算價報每桶 72.12 美元。"
+    },
+    {
+      "id": "4970031",
+      "time": "2026-07-04 01:17:05",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通：預計黃金短期內將維持區間震盪走勢，隨後迎來回升；2026 年第三季度黃金均價為每盎司 4300 美元，2026 年第四季度均價為每盎司 4500 美元。"
+    },
+    {
+      "id": "mkt:019f28fb-c807-7aab-8c99-d86354af382c",
+      "time": "2026-07-04 01:16:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan expects gold to remain rangebound in the near term before rebounding, forecasting an average of $4,300/oz in Q3 2026 and $4,500/oz in Q4 2026."
+    },
     {
       "id": "te:economy:564216",
       "time": "2026-07-04 01:12:33",

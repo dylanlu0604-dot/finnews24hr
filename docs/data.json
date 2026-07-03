@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-04 01:14:52",
-  "count": 13474,
+  "updated": "2026-07-04 01:18:45",
+  "count": 13471,
   "items": [
+    {
+      "id": "4970032",
+      "time": "2026-07-04 01:17:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 9 月布倫特原油期貨結算價報每桶 72.12 美元。"
+    },
+    {
+      "id": "4970031",
+      "time": "2026-07-04 01:17:05",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通：預計黃金短期內將維持區間震盪走勢，隨後迎來回升；2026 年第三季度黃金均價為每盎司 4300 美元，2026 年第四季度均價為每盎司 4500 美元。"
+    },
+    {
+      "id": "mkt:019f28fb-c807-7aab-8c99-d86354af382c",
+      "time": "2026-07-04 01:16:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan expects gold to remain rangebound in the near term before rebounding, forecasting an average of $4,300/oz in Q3 2026 and $4,500/oz in Q4 2026."
+    },
     {
       "id": "te:economy:564216",
       "time": "2026-07-04 01:12:33",
@@ -124001,63 +124032,6 @@
         "其他"
       ],
       "text": "剛果民主共和國稱，埃博拉確診病例已升至 1203 例，其中包含 321 例死亡病例。"
-    },
-    {
-      "id": "te:economy:562315",
-      "time": "2026-06-27 01:17:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jun 29th — Markets will monitor the flow of tankers and commercial vessels through the Strait of Hormuz, as the recent rebound in traffic drove energy prices to decline. The US will release a batch of labor market data, headlined by the June jobs report, topping off results from the JOLTS, ADP report, and the Challenger job cuts report. Other key data includes the ISM Manufacturing PMI, factory orders, and Case-Schiller home prices. In Europe, the ECB will host speeches by Governing Council members and other central bankers in their annual forum. Also, the Eurozone and its largest economies will publish their inflation rate. In Japan, the Tankan index will take the spotlight along with industrial production, retail sales, and the unemployment rate. Meanwhile, China will post both official and broader industry PMIs."
-    },
-    {
-      "id": "mkt:019f04ee-c3ba-7dd8-b13c-5aafb31afe70",
-      "time": "2026-06-27 01:16:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $6.426 billion from eight counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "em:qqyh_mlc:202606273785193541",
-      "time": "2026-06-27 01:16:21",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週五使用規模為64.26億美元，上個交易日報57.18億美元。"
-    },
-    {
-      "id": "4957880",
-      "time": "2026-06-27 01:16:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會（FTC）批准馬斯克收購MESH光學技術公司。"
-    },
-    {
-      "id": "4957879",
-      "time": "2026-06-27 01:15:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（6月26日），美聯儲隔夜逆回購協議（RRP）使用規模為64.26億美元，上個交易日報57.18億美元。"
-    },
-    {
-      "id": "mkt:019f04ed-a98e-7dd8-b13c-52642f1f693a",
-      "time": "2026-06-27 01:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese sources said they will never accept any statement defending or permitting Israel’s continued presence on Lebanese territory."
     }
   ]
 }
