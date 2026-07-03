@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-04 00:02:13",
-  "count": 13516,
+  "updated": "2026-07-04 00:06:19",
+  "count": 13513,
   "items": [
+    {
+      "id": "te:markets:564208",
+      "time": "2026-07-04 00:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to 4-Month High — The FTSE 100 rose 0.3% to 10679 on Friday, the highest since March 2 and following a 1.7% advance on Thursday. Utility companies were among the best performers, with SSE climbing around 1.5%, National Grid adding 1.3%, Centrica expanding 1.1%, and Severn Trent rising over 0.5%. Also, mining stocks supported the upward trajectory, as precious metals miner Fresnillo rose more than 1%, while Anglo American advanced by over 1%. Overall market trading volumes were thin due to the US Independence Day public holiday closure. For the week, the UK index added 1.6%, following a 1.4% rise in the previous period."
+    },
+    {
+      "id": "te:markets:564207",
+      "time": "2026-07-04 00:03:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Hits 4-Month High — The CAC 40 rose 0.4% to close at 8,508 on Friday, extending the previous session's gains to its highest level since late February as weaker-than-expected US jobs data prompted investors to scale back expectations for Fed rate hikes. US employment growth slowed sharply in June, while downward revisions to the prior two months pointed to a softer labor market, reinforcing expectations that the Fed will keep interest rates unchanged this month and possibly through September. Meanwhile, eurozone inflation continued to ease toward the ECB's target in June, reducing pressure for further policy tightening. Domestically, France's industrial production fell 0.1% month-on-month in May, outperforming expectations for a 0.4% decline. Industrials led gains, with Schneider Electric rising 1.5%, Airbus adding 1.1%, and Safran advancing 1%. In contrast, luxury stocks underperformed, with L'Oréal down 1.4% and Kering losing 1.6%."
+    },
     {
       "id": "4970004",
       "time": "2026-07-03 23:58:50",
@@ -124430,50 +124454,6 @@
         "WTI"
       ],
       "text": "【IMO: About 2,500 seafarers evacuated from Strait of Hormuz】IMO Secretary-General Domingues said on the 26th that since the evacuation plan for stranded seafarers in the Strait of Hormuz began on the 23rd, roughly 2,500 seafarers on 115 vessels have been evacuated, according to preliminary IMO tallies covering 3.5 days."
-    },
-    {
-      "id": "4957845",
-      "time": "2026-06-27 00:05:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際海事組織：約2500名海員已撤離霍爾木茲海峽】國際海事組織秘書長多明格斯26日表示，自23日啟動霍爾木茲海峽地區滯留海員疏散計劃以來，已有115艘船舶上的約2500名海員從霍爾木茲海峽撤離。多明格斯當天在一場線上記者會上說，據國際海事組織初步統計，這一資料涵蓋了疏散行動啟動以來3天半的撤離情況。國際海事組織23日宣佈啟動霍爾木茲海峽地區滯留海員疏散計劃，推薦的航道分別是伊朗一側的霍爾木茲海峽北部航道以及阿曼一側的南部航道。國際海事組織25日宣佈，一艘船舶當天在阿曼灣遭襲，該組織決定暫停霍爾木茲海峽滯留船舶的疏散行動，以進一步確認相關安全保障措施是否仍然有效。（新華社）"
-    },
-    {
-      "id": "mkt:019f04ad-707a-7dd8-b13a-c8a7b58d2eab",
-      "time": "2026-06-27 00:05:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【UAE, Iran foreign ministers discuss regional situation】UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan spoke by phone with Iranian Foreign Minister Araghchi on the 26th to discuss regional developments following the US‑Iran memorandum of understanding. They urged full compliance with the agreement, an immediate and complete halt to hostile actions, respect for sovereignty, and protection of maritime security and freedom of navigation, including ensuring unimpeded transit through the Strait of Hormuz. They expressed hope ongoing US‑Iran talks will yield positive results and stressed diplomacy and responsible dialogue as the preferred means to resolve regional crises."
-    },
-    {
-      "id": "4957844",
-      "time": "2026-06-27 00:04:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國因蘇丹使用化學武器對其實施新一輪制裁。"
-    },
-    {
-      "id": "4957843",
-      "time": "2026-06-27 00:03:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市漲幅擴大，標普500指數、道指漲0.3%，納指漲0.2%。"
-    },
-    {
-      "id": "4957842",
-      "time": "2026-06-27 00:03:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大航空：韓亞航空將於 2026 年 12 月 16 日退出星空聯盟。"
     }
   ]
 }
