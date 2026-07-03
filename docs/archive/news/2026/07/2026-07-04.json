@@ -1,7 +1,23 @@
 {
   "date": "2026-07-04",
-  "count": 99,
+  "count": 101,
   "items": [
+    {
+      "id": "4970054",
+      "time": "2026-07-04 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.20%，報23252.01點，低水98.02點。"
+    },
+    {
+      "id": "mkt:019f2959-7cd0-7aab-8c9a-7174add15148",
+      "time": "2026-07-04 02:59:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham says he would not call early election, pledges policy continuity if PM】Labour politician Andy Burnham said that if he replaces Starmer as prime minister he would not call an early general election and would maintain Labour’s 2024 manifesto commitments, including the pensions triple lock. He supports stronger regulation in public services and did not rule out nationalization in some sectors. Burnham said he favors closer UK‑EU relations, electoral reform, guaranteed funding for defence investment and continued firm support for Ukraine. If unopposed for the party nomination he could become Labour leader and then prime minister in mid‑July."
+    },
     {
       "id": "mkt:019f2954-7a17-7aab-8c9a-6dcab649ce6f",
       "time": "2026-07-04 02:53:49",
