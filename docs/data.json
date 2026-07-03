@@ -1,7 +1,109 @@
 {
-  "updated": "2026-07-03 09:15:02",
-  "count": 13909,
+  "updated": "2026-07-03 09:18:42",
+  "count": 13911,
   "items": [
+    {
+      "id": "mkt:019f258d-3680-7aab-8c87-86aaed658aa8",
+      "time": "2026-07-03 09:17:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said on rising JGB yields he will strive to implement fiscal policy to win market confidence."
+    },
+    {
+      "id": "4968565",
+      "time": "2026-07-03 09:16:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山在被問及日本國債收益率上升時表示，將推行財政政策並努力贏得市場信任。"
+    },
+    {
+      "id": "4968564",
+      "time": "2026-07-03 09:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉震區幾乎所有官員遇難】當地時間7月2日晚，委內瑞拉代總統羅德里格斯召開新聞釋出會表示，委內瑞拉在地震發生後立即啟動應急系統，震後搜救工作目前仍在持續。據羅德里格斯透露，重災區拉瓜伊拉州幾乎所有官員都在地震遇難。"
+    },
+    {
+      "id": "mkt:019f258b-ee2a-7aab-8c87-7ca1087a77f3",
+      "time": "2026-07-03 09:15:55",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened 0.62% higher at 23,178, trading 132 points above the spot index."
+    },
+    {
+      "id": "mkt:019f258b-e43c-7aab-8c87-724dfb87dcaa",
+      "time": "2026-07-03 09:15:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Gold rises after weaker-than-expected US jobs report】U.S. Labor Department reported June payrolls rose 57,000, below economists' 115,000 forecast. Spot gold climbed more than 1.3% in Asian morning trade as investors pared odds of a Fed rate hike in July; ANZ research said the weak labor market could ease pressure on the Fed to tighten at its next meeting. Higher interest rates typically weigh on non‑yielding assets such as gold, despite its inflation-hedge role."
+    },
+    {
+      "id": "4968563",
+      "time": "2026-07-03 09:15:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲1.40%。"
+    },
+    {
+      "id": "mkt:019f258b-93c7-7aab-8c87-6d9268f76500",
+      "time": "2026-07-03 09:15:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo will continue close coordination with the United States on foreign-exchange matters during the U.S. holiday."
+    },
+    {
+      "id": "4968562",
+      "time": "2026-07-03 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8047元。"
+    },
+    {
+      "id": "4968561",
+      "time": "2026-07-03 09:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.31%，報23121.40點，高水66.37點。"
+    },
+    {
+      "id": "4968560",
+      "time": "2026-07-03 09:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：與美國就外匯問題保持密切協調，即便在美國假日期間也不例外。"
+    },
     {
       "id": "4968559",
       "time": "2026-07-03 09:14:25",
@@ -128127,81 +128229,6 @@
         "Greater China"
       ],
       "text": "【Jan-May 2026 China all-sector outbound direct investment 506.95 bln yuan, +3% YoY】MOFCOM and SAFE data show China’s all-sector outbound direct investment totaled 506.95 bln yuan in Jan-May 2026, up 3% YoY (USD 73.36 bln, +7.1%). Domestic investors made non-financial direct investments in 6,081 overseas firms across 142 countries and regions, totaling 381.46 bln yuan, down 13.8% YoY (USD 55.2 bln, -10.4%)."
-    },
-    {
-      "id": "4956093",
-      "time": "2026-06-26 09:18:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【1-5月我國全行業對外直接投資5069.5億元人民幣 同比增長3%】據商務部、外匯局統計，2026年1-5月，我國全行業對外直接投資5069.5億元人民幣，同比增長3%（以美元計為733.6億美元，增長7.1%）。其中，我國境內投資者共對全球142個國家和地區的6081家境外企業進行了非金融類直接投資，累計投資3814.6億元人民幣，下降13.8%（以美元計為552億美元，下降10.4%）。"
-    },
-    {
-      "id": "te:markets:562037",
-      "time": "2026-06-26 09:17:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Subdued, Set for Weekly Decline — Australian shares were little changed in early Friday trade, holding near 8,750 after the prior session’s losses. Gains in non-energy minerals, process industries, and energy minerals helped offset weakness in healthcare, commercial services, and tech services. Traders looked ahead to the Reserve Bank’s June meeting minutes due next week, following the board's decision to pause after three rate hikes earlier this year. Inflation data stayed in focus, with headline CPI easing to 4.0% in May from 4.2% in April, though core inflation quickened to 3.6%. Genesis Minerals rose 2.9%, alongside Ramelius Resources (2.3%) and Bluescope Steel (1.6%). On the downside, CSL Ltd. slipped 2.3%, and Aristocrat Leisure fell 1.9%. Three of the four big banks edged lower between 0.2% and 0.5%. For the week, the market is on track for its first decline in three weeks, down about 0.8%, as caution lingers that the central bank’s stance may stay hawkish after stronger-than-expected May employment figures."
-    },
-    {
-      "id": "4956092",
-      "time": "2026-06-26 09:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方堅定支援阿根廷對馬爾維納斯群島主權的正當要求】中國常駐聯合國副代表孫磊25日在聯合國大會非殖化特委會審議馬爾維納斯群島問題時表示，中方堅定支援阿根廷對馬爾維納斯群島主權的正當要求。孫磊說，中國在馬爾維納斯群島問題上的立場是一貫的、明確的。中方始終主張根據《聯合國憲章》宗旨和原則，透過和平談判解決國與國之間的領土爭端。希望英國積極回應阿根廷的要求，儘早重啟對話談判，根據聯合國有關決議找到和平、公正、持久的解決辦法。"
-    },
-    {
-      "id": "4956091",
-      "time": "2026-06-26 09:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【近80部影片集中上映 多元好片解鎖暑期生活】2026年暑期檔電影片單昨天在北京釋出，近80部中外影片扎堆上映。歷史、動畫、喜劇、動作等題材豐富，覆蓋全年齡段觀眾。今年暑期檔，多部歷史題材影片集中定檔，以光影講述崢嶸歲月，傳遞深厚的家國情懷。（央視）"
-    },
-    {
-      "id": "mkt:019f0180-06c8-7dd8-b128-60879a9c22e9",
-      "time": "2026-06-26 09:16:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.58% at 22,948, trading at a 129-point discount to the cash index."
-    },
-    {
-      "id": "4956089",
-      "time": "2026-06-26 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8166元，較上日調高43點。"
-    },
-    {
-      "id": "4956088",
-      "time": "2026-06-26 09:15:04",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【銅價下跌，但下行空間料將受限】亞洲早盤銅價下跌，三個月期倫敦金屬交易所(LME)銅合約下跌0.5%，報每噸13,212.50美元。國泰君安期貨分析師在一份報告中寫道，美聯儲在本月會議上表現出偏緊縮立場後美元走強，令銅價承壓，但隨著原油回落至接近衝突前水平，通脹擔憂有所緩解，改善了更廣泛的宏觀環境。隨著宏觀風險緩解以及下游買家逢低吸納支撐了銅的基本面，下行空間可能有限。"
-    },
-    {
-      "id": "4956087",
-      "time": "2026-06-26 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.53%，報22904.71點，低水172.20點。"
     }
   ]
 }

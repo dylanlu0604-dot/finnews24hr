@@ -1,7 +1,109 @@
 {
   "date": "2026-07-03",
-  "count": 738,
+  "count": 748,
   "items": [
+    {
+      "id": "mkt:019f258d-3680-7aab-8c87-86aaed658aa8",
+      "time": "2026-07-03 09:17:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said on rising JGB yields he will strive to implement fiscal policy to win market confidence."
+    },
+    {
+      "id": "4968565",
+      "time": "2026-07-03 09:16:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山在被問及日本國債收益率上升時表示，將推行財政政策並努力贏得市場信任。"
+    },
+    {
+      "id": "4968564",
+      "time": "2026-07-03 09:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉震區幾乎所有官員遇難】當地時間7月2日晚，委內瑞拉代總統羅德里格斯召開新聞釋出會表示，委內瑞拉在地震發生後立即啟動應急系統，震後搜救工作目前仍在持續。據羅德里格斯透露，重災區拉瓜伊拉州幾乎所有官員都在地震遇難。"
+    },
+    {
+      "id": "mkt:019f258b-ee2a-7aab-8c87-7ca1087a77f3",
+      "time": "2026-07-03 09:15:55",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened 0.62% higher at 23,178, trading 132 points above the spot index."
+    },
+    {
+      "id": "mkt:019f258b-e43c-7aab-8c87-724dfb87dcaa",
+      "time": "2026-07-03 09:15:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Gold rises after weaker-than-expected US jobs report】U.S. Labor Department reported June payrolls rose 57,000, below economists' 115,000 forecast. Spot gold climbed more than 1.3% in Asian morning trade as investors pared odds of a Fed rate hike in July; ANZ research said the weak labor market could ease pressure on the Fed to tighten at its next meeting. Higher interest rates typically weigh on non‑yielding assets such as gold, despite its inflation-hedge role."
+    },
+    {
+      "id": "4968563",
+      "time": "2026-07-03 09:15:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲1.40%。"
+    },
+    {
+      "id": "mkt:019f258b-93c7-7aab-8c87-6d9268f76500",
+      "time": "2026-07-03 09:15:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo will continue close coordination with the United States on foreign-exchange matters during the U.S. holiday."
+    },
+    {
+      "id": "4968562",
+      "time": "2026-07-03 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8047元。"
+    },
+    {
+      "id": "4968561",
+      "time": "2026-07-03 09:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.31%，報23121.40點，高水66.37點。"
+    },
+    {
+      "id": "4968560",
+      "time": "2026-07-03 09:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：與美國就外匯問題保持密切協調，即便在美國假日期間也不例外。"
+    },
     {
       "id": "4968559",
       "time": "2026-07-03 09:14:25",
