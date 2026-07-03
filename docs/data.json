@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-04 03:33:35",
-  "count": 13401,
+  "updated": "2026-07-04 03:37:20",
+  "count": 13398,
   "items": [
+    {
+      "id": "4970082",
+      "time": "2026-07-04 03:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京於週五視察了聯合部隊叢集一處前沿輔助指揮點。"
+    },
+    {
+      "id": "4970081",
+      "time": "2026-07-04 03:35:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "佩斯科夫通報，俄羅斯聯邦已完全“解放”康斯坦丁諾夫卡。"
+    },
+    {
+      "id": "4970080",
+      "time": "2026-07-04 03:34:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際足聯正因天氣擾動風險，商討將世界盃英格蘭對陣墨西哥的比賽開球時間提前至週日更早時段。"
+    },
+    {
+      "id": "4970079",
+      "time": "2026-07-04 03:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "資料顯示，今年英偉達 Blackwell 200 晶片租賃價格上漲約 20%；而英偉達舊款晶片過去一年漲幅超 20%，近 30 天價格基本持平。"
+    },
+    {
+      "id": "4970078",
+      "time": "2026-07-04 03:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "定價資料服務商 Silicon Data 執行長：晶片離開英偉達後，雲服務商對外出租算力的定價邏輯，和原油等大宗商品市場一樣，完全受供需關係驅動。"
+    },
+    {
+      "id": "4970077",
+      "time": "2026-07-04 03:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【儲存緊缺推高英偉達 GB300 機架價格，零部件單週波動最高 40%】儲存晶片及其他零部件供給有限、需求暴漲，導致搭載這類晶片的英偉達 AI 伺服器價格快速走高，近幾個月漲勢尤為明顯。一名英偉達伺服器經銷商透露，搭載英偉達 GPU 顯示卡的伺服器機架，部分核心零部件單週價格波動幅度最高達 40%，波動品類涵蓋臺積電代工的晶圓、封裝配套元件、網路裝置、散熱模組，影響最大的則是各類儲存晶片。該經銷商稱，GPU 伺服器機架價格 “波動極其劇烈”：“所有零部件的行情兩到三週就會徹底變天，價格完全無法預判。企業只能在極短視窗期鎖定採購價，視窗期一過就無法規劃成本。”某 GPU 雲服務商高管表示，近期其採購的伺服器機架單週漲價 2% 至 3%；另一家競品雲廠商高管稱，其採購的英偉達 Grace Blackwell GB300 機架中，NVMe 固態硬碟是價格劇烈波動的主因，數月前漲價速度極快。這名高管透露，當前機架價格較其認定的常規基準價高出 10%~15%，GB300 機型每月漲幅已趨於平穩，約 1%。"
+    },
     {
       "id": "4970076",
       "time": "2026-07-04 03:31:31",
@@ -123315,82 +123363,6 @@
         "國際"
       ],
       "text": "市場訊息：黎巴嫩真主黨拒絕美國斡旋達成的框架協議。"
-    },
-    {
-      "id": "4957958",
-      "time": "2026-06-27 03:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國國防部已做好準備，將根據現有授權與撥款，向黎巴嫩武裝部隊提供超過3000萬美元的償付款。"
-    },
-    {
-      "id": "mkt:019f056e-cb54-7dd8-b13e-a1c6e33c39d6",
-      "time": "2026-06-27 03:36:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio called for a clear, orderly process to restore Lebanese sovereignty, disarm Hezbollah and dismantle its infrastructure."
-    },
-    {
-      "id": "mkt:019f056e-96d8-7dd8-b13e-9de5cff70e07",
-      "time": "2026-06-27 03:36:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said the framework agreement would allow Israel to return to its border if the security of its citizens is threatened."
-    },
-    {
-      "id": "mkt:019f056e-690d-7dd8-b13e-901cfcb5f81a",
-      "time": "2026-06-27 03:35:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio said the US will remain fully engaged and commit substantial resources, coordinating with the United Nations, and will immediately provide $100 million in humanitarian assistance."
-    },
-    {
-      "id": "mkt:019f056e-2efa-7dd8-b13e-89de4bd84dba",
-      "time": "2026-06-27 03:35:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio said the agreement, brokered by the United States, established a trilateral military coordination group for Lebanon."
-    },
-    {
-      "id": "4957957",
-      "time": "2026-06-27 03:35:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "索尼影業執行長預計 26 財年美國本土票房將突破 100 億美元。"
-    },
-    {
-      "id": "mkt:019f056d-ed33-7dd8-b13e-80a431cacf96",
-      "time": "2026-06-27 03:35:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC: For the week to June 23, speculative traders in NYMEX and ICE natural gas futures were net short 2,183 contracts, 3,515 contracts fewer than the prior week."
-    },
-    {
-      "id": "4957956",
-      "time": "2026-06-27 03:35:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國將保持全面介入，並投入大量資源，其中包括立即提供1億美元人道主義援助，該援助將與聯合國協調開展。"
-    },
-    {
-      "id": "4957955",
-      "time": "2026-06-27 03:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：協議建立了由美國推動的黎巴嫩三方軍事協調小組。"
     }
   ]
 }
