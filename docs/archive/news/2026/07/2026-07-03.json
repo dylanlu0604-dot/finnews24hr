@@ -1,7 +1,123 @@
 {
   "date": "2026-07-03",
-  "count": 2270,
+  "count": 2282,
   "items": [
+    {
+      "id": "mkt:019f27b9-e738-7aab-8c94-c11979e1c97b",
+      "time": "2026-07-03 19:25:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen Stock Exchange says 263 abnormal trading cases subject to self-regulatory measures】From June 29 to July 3, 2026, the Shenzhen Stock Exchange (SZSE) carried out self-regulatory measures on 263 cases of abnormal trading, including intraday price ramping and suppression and false order submissions; it opened probes into eight material corporate events and referred four suspected violations to the CSRC."
+    },
+    {
+      "id": "4969712",
+      "time": "2026-07-03 19:25:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英國政府已聘請獵頭公司為英國鋼鐵集團招募董事會成員。"
+    },
+    {
+      "id": "mkt:019f27b9-0af5-7aab-8c94-b94af2a4bb46",
+      "time": "2026-07-03 19:24:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IDF says it struck about 10 Hezbollah sites in southern Lebanon】The Israel Defense Forces said on the 3rd it carried out precision strikes over the past two days on roughly 10 Hezbollah infrastructure sites in southern Lebanon and on a truck transporting weapons. The IDF said strikes on the 2nd hit Hezbollah facilities in southern Lebanese areas including Bint Jbeil, Beit Yahoun, Kunin and Brashit, which it alleged were used to attack Israeli soldiers operating inside the \"security zone\". In the early hours of the 3rd the IDF said it detected a Hezbollah armed group attempting to move weapons by truck near the southern \"security zone\" and struck the vehicle to eliminate the threat."
+    },
+    {
+      "id": "4969711",
+      "time": "2026-07-03 19:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿富汗讚揚伊朗抵抗美以侵略。"
+    },
+    {
+      "id": "mkt:019f27b8-ff74-7aab-8c94-b3df6be4928f",
+      "time": "2026-07-03 19:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. pilot killed in attack in eastern Indonesia】Indonesia's military confirmed on the 3rd that a U.S. pilot was killed on the 2nd in Papua, eastern Indonesia, after being attacked by local militants; the light aircraft he was flying was also set on fire."
+    },
+    {
+      "id": "4969710",
+      "time": "2026-07-03 19:23:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在黎南部打擊約10處真主黨設施】當地時間3日，以色列國防軍發表宣告稱，針對黎巴嫩真主黨所謂“持續違反停火協議並襲擊以軍”的行為，以軍在過去兩天內對黎巴嫩南部約10處真主黨基礎設施及一輛運送武器的卡車實施了精準打擊。宣告稱，當地時間2日，以軍對黎巴嫩南部賓特朱拜勒、貝特亞洪、庫寧和布拉希特等地區的約10處真主黨基礎設施進行了精確打擊。以方稱，這些基礎設施被真主黨用於對在“安全區”內行動的以軍士兵發動襲擊。此外，當地時間3日凌晨，以軍在黎巴嫩南部“安全區”附近發現一個真主黨武裝小組正企圖使用卡車運送武器。隨後，以軍對該卡車實施了打擊以消除威脅。（央視新聞）"
+    },
+    {
+      "id": "4969709",
+      "time": "2026-07-03 19:22:44",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【證監會：建立再融資定向增發儲架發行制度】中國證監會就完善上市公司再融資規則公開徵求意見。建立再融資定向增發儲架發行制度。資訊披露工作規範程度較高的上市公司申請競價定增的，可採取一次註冊、多次發行方式，更好適應雙邊市場特徵，便利上市公司迅速抓住市場時機實施融資，引導其理性融資、有序融資，減少一次性大額融資對市場的擾動。"
+    },
+    {
+      "id": "4969708",
+      "time": "2026-07-03 19:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會：建立再融資定向增發儲架發行制度】中國證監會就完善上市公司再融資規則公開徵求意見。建立再融資定向增發儲架發行制度。資訊披露工作規範程度較高的上市公司申請競價定增的，可採取一次註冊、多次發行方式，更好適應雙邊市場特徵，便利上市公司迅速抓住市場時機實施融資，引導其理性融資、有序融資，減少一次性大額融資對市場的擾動。"
+    },
+    {
+      "id": "4969707",
+      "time": "2026-07-03 19:22:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【一美籍飛行員在印尼東部遇襲身亡】印度尼西亞軍方3日證實，一名美國籍飛行員2日在印尼東部巴布亞地區遭當地武裝分子襲擊身亡，其駕駛的小型飛機也被縱火燒燬。據當地媒體報道，襲擊事件發生在高地巴布亞省亞胡基莫縣一個村莊，涉事飛機隸屬於印尼一家航空公司。當天，由這名美籍飛行員駕駛並載有7名乘客的飛機在降落後失聯，隨後遭到襲擊。目前該飛行員遺體已被找到，同機7名乘客已被安全安置。印尼軍方表示，這起襲擊事件為當地武裝分裂分子所為，目前軍方正在全力追捕嫌疑人，並已加強事發周邊地區的安保措施。當地一武裝組織已宣稱對此次襲擊負責。該組織稱，其成員擊斃了這名美籍飛行員並燒燬了飛機，理由是這架飛機經常運送印尼軍事人員。該組織還警告稱，如果印尼政府繼續允許民用飛機進入由其控制的巴布亞部分割槽域，他們將發動更多襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:019f27b7-19e2-7aab-8c94-ae976486909e",
+      "time": "2026-07-03 19:22:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSRC seeks comments on refinancing rules, proposes uniform market-price issuance pricing mechanism】The CSRC has opened a public consultation to refine listed companies' refinancing rules and proposes a uniform market-price issuance pricing mechanism. Under the proposal, all listed companies' private placements must use the first day of the issuance period as the pricing reference date to set issue prices, to promote market-based pricing and improve lock-up arrangements to better protect small investors."
+    },
+    {
+      "id": "mkt:019f27b6-7856-7aab-8c94-a4bb876f1bce",
+      "time": "2026-07-03 19:21:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【CSRC seeks comments to raise quick refinancing caps: SSE/SZSE to 600 mln yuan, Beijing Exchange to 200 mln; extra-large firms to 1 bln yuan】The CSRC launched a consultation to tighten listed-company refinancing rules, proposing higher small, rapid-refinancing limits provided planned financings do not exceed 20% of net assets. Caps for Shanghai- and Shenzhen-listed firms would rise from 300 mln to 600 mln yuan; Beijing Stock Exchange firms’ cap would increase from 100 mln to 200 mln yuan. For firms with net assets above 100 bln yuan, the small-refinancing cap would be raised to 1 bln yuan. The draft also changes required authorization from annual shareholders’ meeting approval to shareholders’ meeting authorization to increase financing flexibility."
+    },
+    {
+      "id": "4969706",
+      "time": "2026-07-03 19:21:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國證監會就完善上市公司再融資規則公開徵求意見】主要修改內容如下：一是建立再融資定向增發儲架發行制度。資訊披露工作規範程度較高的上市公司申請競價定增的，可採取一次註冊、多次發行方式，更好適應雙邊市場特徵，便利上市公司迅速抓住市場時機實施融資，引導其理性融資、有序融資，減少一次性大額融資對市場的擾動。二是最佳化小額快速再融資制度，在擬融資規模不超過淨資產20%的前提下，滬深交易所上市公司小額快速融資上限從3億元提升至6億元，淨資產超過100億元的特大型企業小額快速融資上限提升至10億元；北交所上市公司小額快速融資上限從1億元提升至2億元。同時，將小額快速再融資由上市公司年度股東會授權修改為上市公司股東會授權，提高融資靈活性。三是實行統一的市價發行定價機制。要求所有上市公司定增須以發行期首日作為定價基準日確定發行價格，推動定價市場化，並完善鎖定期安排，更加體現對中小投資者的保護。四是簡化上市公司向控股股東定增條件。支援執行規範、不存在嚴重失信行為的實際控制人、控股股東參與上市公司定增，發揮控股股東對上市公司的支援作用，幫助上市公司長期持續穩定發展。同時，將此類發行限售期延長至36個月，發揮市場機制約束作用。五是強化可轉債監管要求。明確滬深可轉債與定增、增發、配股適用相同的再融資間隔期要求，並加強對發行可轉債相關償債能力約束的要求。六是進一步明確募集資金投向主業等監管要求。最佳化財務性投資等相關要求，進一步強調募集資金應當投向主業。"
+    },
     {
       "id": "mkt:019f27b5-0246-7aab-8c94-99c9b37466fd",
       "time": "2026-07-03 19:20:01",
