@@ -1,7 +1,63 @@
 {
   "date": "2026-07-03",
-  "count": 572,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:019f2550-e9b2-7aab-8c86-26b1e6b58157",
+      "time": "2026-07-03 08:11:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 opened 29.80 points higher (+0.34%) at 8,754.30 on Friday, July 3."
+    },
+    {
+      "id": "4968449",
+      "time": "2026-07-03 08:10:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國防部長赫格思曾擬定大幅削減歐洲駐軍重磅方案，最終遭否決】知情人士透露，美國國防部長皮特・赫格思上月原計劃前往布魯塞爾，在與北約最高軍事長官的會晤中丟擲一則極具衝擊力的重磅宣告。按照他原本的方案，美國準備進一步削減駐歐洲兵力，此次裁軍力度將超過此前取消向波蘭部署裝甲旅、以及從羅馬尼亞撤出步兵旅的規模。但該方案提交給特朗普總統的國家安全顧問馬爾科・盧比奧及其他高層官員審閱後，遭到否決。最終赫格思對外表態，美國將開展一項為期最長可達六個月的歐洲駐軍部署態勢評估。"
+    },
+    {
+      "id": "te:markets:563910",
+      "time": "2026-07-03 08:10:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gains on Weak US Jobs Data — Gold held above $4,100 an ounce on Friday after surging more than 2% in the previous session, supported by weaker-than-expected US labor market data that led traders to trim expectations for further Federal Reserve rate hikes. The US economy added just 57,000 jobs in June, the fewest in four months and well below forecasts of 110,000, while the unemployment rate remained at 4.2%. That followed a report on Wednesday showing private-sector job growth also came in below expectations. Fed funds futures now imply roughly a 50% chance of a September rate hike, down from 67% before the latest employment data. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability. Meanwhile, gold drew additional support from lower oil prices and easing inflation concerns as commercial shipping through the Strait of Hormuz continued to recover amid progress in US-Iran talks."
+    },
+    {
+      "id": "mkt:019f254f-1238-7aab-8c86-1a319f5a2ee6",
+      "time": "2026-07-03 08:09:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 index extends decline to 1%."
+    },
+    {
+      "id": "4968448",
+      "time": "2026-07-03 08:08:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星光刻技術引入量子 機構關注的概念股出爐】量子技術或將被應用於晶片製造領域。據媒體7月2日報道，三星正計劃在半導體光刻模擬技術引入量子計算，推動晶片整合密度與良率突破。A股方面，量子科技相關概念股表現差異巨大，與通訊相關的亨通光電、富信科技、中天科技年內股價翻倍，電科網安、格爾軟體、神州資訊相關概念股年內則大跌超30%。從年內機構調研來看，中天科技、騰景科技、國芯科技、國盾量子、三未信安獲得50家以上密集機構調研，關注度較高。從業績預測來看，獲3家及以上機構評級的概念股中，機構一致預測中國長城、國盾量子、亨通光電、三未信安、神州資訊、中天科技2026年業績或增長超100%。"
+    },
+    {
+      "id": "4968447",
+      "time": "2026-07-03 08:08:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌1%，至68016.24點。"
+    },
     {
       "id": "4968446",
       "time": "2026-07-03 08:07:48",
