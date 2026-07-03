@@ -1,7 +1,39 @@
 {
   "date": "2026-07-04",
-  "count": 49,
+  "count": 52,
   "items": [
+    {
+      "id": "te:economy:564216",
+      "time": "2026-07-04 01:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jul 6th — Tanker flows through the Strait of Hormuz picked up sharply in early July. Energy prices sank but long-term yields remain higher, shifting monetary policy back to the market's spotlight. The Federal Reserve will release minutes from its June meeting to unveil insights on a divided FOMC. On the data front, the US will release the ISM Services PMI, existing home sales, and its full trade balance. The ECB will also release monetary policy accounts. Germany and Italy will publish industrial output data, while Germany will join France in posting trade flows. A busy week of economic data in Japan will be headlined by consumer spending, machine tool orders, producer prices, and the current account at a time of pressure on the yen and JGBs. China will unveil its inflation rate. On policy decisions, the RBNZ will determine its interest rate. Elsewhere, OPEC will meet and define output levels on improved trade routes."
+    },
+    {
+      "id": "mkt:019f28f6-2ae5-7aab-8c99-d6bf95ebb310",
+      "time": "2026-07-04 01:10:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK prime minister candidate Burnham pledged to build closer ties with the EU, saying he would build on the previous government's progress."
+    },
+    {
+      "id": "4970030",
+      "time": "2026-07-04 01:10:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相候選人伯納姆：將在政府現有良好舉措基礎上進一步深化與歐盟的緊密聯絡。"
+    },
     {
       "id": "mkt:019f28f4-643a-7aab-8c99-cd0064f93c51",
       "time": "2026-07-04 01:08:52",

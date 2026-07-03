@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04 01:10:57",
-  "count": 13472,
+  "updated": "2026-07-04 01:14:52",
+  "count": 13474,
   "items": [
+    {
+      "id": "te:economy:564216",
+      "time": "2026-07-04 01:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jul 6th — Tanker flows through the Strait of Hormuz picked up sharply in early July. Energy prices sank but long-term yields remain higher, shifting monetary policy back to the market's spotlight. The Federal Reserve will release minutes from its June meeting to unveil insights on a divided FOMC. On the data front, the US will release the ISM Services PMI, existing home sales, and its full trade balance. The ECB will also release monetary policy accounts. Germany and Italy will publish industrial output data, while Germany will join France in posting trade flows. A busy week of economic data in Japan will be headlined by consumer spending, machine tool orders, producer prices, and the current account at a time of pressure on the yen and JGBs. China will unveil its inflation rate. On policy decisions, the RBNZ will determine its interest rate. Elsewhere, OPEC will meet and define output levels on improved trade routes."
+    },
+    {
+      "id": "mkt:019f28f6-2ae5-7aab-8c99-d6bf95ebb310",
+      "time": "2026-07-04 01:10:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK prime minister candidate Burnham pledged to build closer ties with the EU, saying he would build on the previous government's progress."
+    },
+    {
+      "id": "4970030",
+      "time": "2026-07-04 01:10:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相候選人伯納姆：將在政府現有良好舉措基礎上進一步深化與歐盟的緊密聯絡。"
+    },
     {
       "id": "mkt:019f28f4-643a-7aab-8c99-cd0064f93c51",
       "time": "2026-07-04 01:08:52",
@@ -124026,16 +124058,6 @@
         "MKT News"
       ],
       "text": "Lebanese sources said they will never accept any statement defending or permitting Israel’s continued presence on Lebanese territory."
-    },
-    {
-      "id": "mkt:019f04ec-c96c-7dd8-b13c-4f7f7d8ac23f",
-      "time": "2026-06-27 01:14:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Atlanta Fed search for new president deadlocked】TIMIRAOS reports the selection of a new president at the Federal Reserve Bank of Atlanta has deadlocked after the initial candidate slate failed to produce a nominee, forcing a restart of a search that has already lasted seven months. The delay highlights strains on Fed independence; regional presidents participate in rate-setting and their appointments are intended to be insulated from Washington political influence."
     }
   ]
 }
