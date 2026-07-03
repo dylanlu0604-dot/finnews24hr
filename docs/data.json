@@ -1,7 +1,254 @@
 {
-  "updated": "2026-07-03 09:54:12",
-  "count": 13910,
+  "updated": "2026-07-03 09:58:04",
+  "count": 13928,
   "items": [
+    {
+      "id": "4968682",
+      "time": "2026-07-03 09:57:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：第二季度GDP同比增長8.39%。"
+    },
+    {
+      "id": "mkt:019f25b1-a194-7aab-8c89-0649e28c33bc",
+      "time": "2026-07-03 09:57:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam Q2 GDP YoY 8.39%, up from 7.83% in the prior quarter."
+    },
+    {
+      "id": "4968681",
+      "time": "2026-07-03 09:57:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股PEEK概念板塊異動拉昇】富恆新材漲12.24%，恆勃股份、超捷股份、科達利、寧波華翔、道恩股份、中研股份跟漲。"
+    },
+    {
+      "id": "4968680",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股自動化裝置板塊異動拉昇】雷賽智慧觸及漲停，新睿電子、綠的諧波、埃斯頓、邁赫股份、藍海華騰、艾隆科技跟漲。"
+    },
+    {
+      "id": "4968679",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股塑膠板塊異動拉昇】富恆新材漲12.24%，上緯新材、藍曉科技、艾艾精工、道恩股份、中研股份、聚石化學跟漲。"
+    },
+    {
+      "id": "4968678",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股智慧手機板塊異動拉昇】福蓉科技、安潔科技觸及漲停，信濠光電、慧博雲通、奧比中光、富滿微、朝陽科技跟漲。"
+    },
+    {
+      "id": "4968677",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股華為手機板塊異動拉昇】福蓉科技、ST合力泰觸及漲停，國際復材、凌雲光、長盈精密、中石科技、兆威機電跟漲。"
+    },
+    {
+      "id": "4968676",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股伺服系統板塊異動拉昇】新睿電子漲20.63%，維宏股份、通達動力、藍海華騰、科力爾、鳴志電器、偉創電氣跟漲。"
+    },
+    {
+      "id": "4968675",
+      "time": "2026-07-03 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股ASIC晶片板塊異動拉昇】ST臻鐳漲8.39%，奧比中光、富滿微、瑞斯康達、利亞德、諾瓦星雲、瑞芯微跟漲。"
+    },
+    {
+      "id": "4968674",
+      "time": "2026-07-03 09:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構測算：隨著多家廠商2026年實現商用機器人量產 其對鎂合金的需求有望迎來爆發式增長】憑藉輕量化、高減震、電磁遮蔽、散熱優異等綜合特性，鎂合金正成為人形機器人核心結構件的優選基材，目前已應用於特斯拉Optimus Gen2、小鵬IRON、埃斯頓、智元機器人等多款機型。在業內看來，隨著行業規模化商用程序提速，機器人領域鎂合金需求有望迎來持續擴容。機構測算顯示，隨著多家廠商2026年實現商用機器人量產，其對鎂合金的需求有望迎來爆發式增長。按照單臺人形機器人鎂合金用量12千克計算，若假設未來人形機器人出貨量達到100萬臺、1000萬臺，則對鎂合金需求量達到1.2萬噸、12萬噸。 (上證報)"
+    },
+    {
+      "id": "mkt:019f25b1-6882-7aab-8c88-fc49e2763865",
+      "time": "2026-07-03 09:56:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share glass-substrate sector plunged in morning trade; Rainbow Co. hit the daily limit down, BOE A fell over 7%, and Linuo Pharmaceutical Packaging, Red Star Development, TCL Technology and Ancai High‑Tech also retreated."
+    },
+    {
+      "id": "4968673",
+      "time": "2026-07-03 09:56:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南消費品以舊換新新增8類地方自主補貼品類】海南省商務廳釋出《關於新增海南省2026年消費品以舊換新地方自主補貼品類的公告》（以下簡稱《公告》）。根據《公告》，海南最佳化實施消費品以舊換新工作，在現有6類家電以舊換新、4類數碼智慧產品購新補貼基礎上，新增實施8類地方自主補貼品類。新增的8類地方自主補貼品類包括智慧吸油煙機、智慧家用灶具（含智慧整合灶）、掃地機器人、智慧門鎖、智慧馬桶（含智慧馬桶蓋）、智慧康養陪伴機器人、呼吸機（含製氧機）、智慧床。在補貼標準方面，《公告》明確，按照產品扣除各環節優惠後最終銷售價格的15%給予補貼，每位消費者每類產品可補貼1件，每件補貼不超過1500元。享受補貼商品須具備國家標準統一13位商品編碼；涉及能效、水效標識的產品，需達到國家1級能效/水效標準，並完成能效水效標識網備案手續。"
+    },
+    {
+      "id": "mkt:019f25b1-1aec-7aab-8c88-f582e46f75e9",
+      "time": "2026-07-03 09:56:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Former Shanghai Gold Exchange chair Yu Wenjian named PBOC Shanghai chief】Yu Wenjian, former party secretary and chairman of the Shanghai Gold Exchange, has been appointed deputy party secretary and director of the People's Bank of China (PBOC) Shanghai headquarters, concurrently serving as head of the PBOC Shanghai branch and director of the State Administration of Foreign Exchange’s Shanghai bureau. He succeeds Jin Penghui, who was reassigned in May as deputy secretary-general of the Shanghai municipal government."
+    },
+    {
+      "id": "4968672",
+      "time": "2026-07-03 09:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：漢坦病毒疫情不再構成公共衛生風險。"
+    },
+    {
+      "id": "4968671",
+      "time": "2026-07-03 09:56:14",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【上金所理事長余文建出任央行上海市分行行長】上海黃金交易所原黨委書記、理事長余文建接棒金鵬輝，出任中國人民銀行上海總部黨委副書記、主任兼上海市分行行長，國家外匯管理局上海市分局局長。金鵬輝已於今年5月調任上海市人民政府副秘書長。（21財經）"
+    },
+    {
+      "id": "mkt:019f25b0-cfce-7aab-8c88-ea1d794b5a9d",
+      "time": "2026-07-03 09:56:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share lab-grown diamond sector extended weakness; Hengsheng Energy hit the daily limit-down, with peers Huanghe Whirlwind, Sifangda, Liliang Diamond, Huifeng Diamond, Jingsheng Electromechanical and Woerde also sliding."
+    },
+    {
+      "id": "4968670",
+      "time": "2026-07-03 09:56:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石板塊持續走弱，恆盛能源跌停】培育鑽石板塊持續走弱，恆盛能源跌停，黃河旋風、四方達、力量鑽石、惠豐鑽石、晶盛機電、沃爾德等跟跌。"
+    },
+    {
+      "id": "mkt:019f25b0-afc9-7aab-8c88-e2766164a6e9",
+      "time": "2026-07-03 09:56:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam retail sales YoY 14.8% in June, versus 11.8% previously."
+    },
+    {
+      "id": "4968669",
+      "time": "2026-07-03 09:56:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1616億元。"
+    },
+    {
+      "id": "4968668",
+      "time": "2026-07-03 09:55:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念集體調整 彩虹股份跌停】玻璃基板概念集體調整，彩虹股份跌停，京東方A、力諾藥包、紅星發展、TCL科技、安彩高科紛紛下挫。"
+    },
+    {
+      "id": "4968667",
+      "time": "2026-07-03 09:55:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光智科技成立新公司 含積體電路晶片業務】企查查APP顯示，近日，山東光智全譜科技有限公司成立，經營範圍包含積體電路晶片及產品製造；積體電路晶片及產品銷售；核子及核輻射測量儀器製造；太赫茲檢測技術研發等。企查查股權穿透顯示，該公司由光智科技(300489)全資持股。"
+    },
+    {
+      "id": "4968666",
+      "time": "2026-07-03 09:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：6月零售銷售同比增長14.8%。"
+    },
+    {
+      "id": "mkt:019f25af-d9ee-7aab-8c88-db78a9854c5c",
+      "time": "2026-07-03 09:55:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June CPI YoY 4.69% vs 5.60% prior."
+    },
+    {
+      "id": "mkt:019f25af-5850-7aab-8c88-d35f618259ba",
+      "time": "2026-07-03 09:54:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【June RatingDog China services PMI slips to 54.1, expansion moderates】RatingDog’s China services PMI fell to 54.1 in June, down 0.3 percentage point from May and remaining in expansion for a 42nd month. New business volumes grew for a 42nd month but at a slightly slower pace; new export orders accelerated sharply, the fastest gain so far this year. Firms’ 12‑month activity expectations stayed optimistic. Input-cost inflation eased and selling prices returned to expansion after two months of slight contraction. Employment rose for a second month, with hiring intentions strengthening. Overall, June shows a modest cooling from May’s peak but underlying activity remains solid."
+    },
+    {
+      "id": "4968665",
+      "time": "2026-07-03 09:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：6月工業生產同比增長12.7%。"
+    },
+    {
+      "id": "4968664",
+      "time": "2026-07-03 09:54:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南6月消費者價格同比上漲4.69%；預估+5.45%。"
+    },
+    {
+      "id": "te:markets:563940",
+      "time": "2026-07-03 09:53:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound on Bargain Hunting — The benchmark KOSPI rose more than 1% to around 7,760 on Friday, recovering part of the previous session's losses as bargain hunting lifted heavyweight semiconductor shares. Samsung Electronics and SK hynix rebounded nearly 4% and 2%, respectively, after suffering sharp declines a day earlier, helping lift the index despite continued weakness in global chip shares. Other gainers included Hanwha Aerospace (4.2%), KB Financial Group (3.4%), Shinhan Financial Group (4.9%), LG Energy Solution (1.3%), and Kia Corporation (1.5%). At the same time, Samsung Electronics remained in focus after reports that AI startup Anthropic is in talks with the company to develop custom AI chips, lending additional support to the semiconductor sector. Sentiment was also supported by weaker-than-expected US June jobs data, which strengthened expectations that the Federal Reserve could ease monetary policy in the coming months, boosting broader risk appetite."
+    },
     {
       "id": "4968663",
       "time": "2026-07-03 09:52:41",
@@ -128105,90 +128352,6 @@
         "公司"
       ],
       "text": "瑞穗CEO：希望實現2倍市淨率。"
-    },
-    {
-      "id": "4956195",
-      "time": "2026-06-26 09:57:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌2%至273.28點。"
-    },
-    {
-      "id": "mkt:019f01a5-4a2a-7dd8-b129-d245ba246710",
-      "time": "2026-06-26 09:57:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "N Huike jumped over 600%; turnover exceeded CNY 3.6 billion; market capitalization topped CNY 540 billion."
-    },
-    {
-      "id": "4956194",
-      "time": "2026-06-26 09:57:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "N惠科漲超600%，成交額超36億元，總市值超5400億元。"
-    },
-    {
-      "id": "mkt:019f01a4-5c4d-7dd8-b129-c84afaa87acf",
-      "time": "2026-06-26 09:56:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Mitsubishi UFJ: Ringgit upside likely limited despite policy support】Mitsubishi UFJ Financial Group senior FX strategist Lloyd Chan said in a report the Malaysian Ringgit should remain supported near term after Bank Negara encouraged government-linked companies to repatriate offshore earnings and convert them into Ringgit. Chan said upside versus the dollar is likely limited because expectations of higher-for-longer US interest rates continue to underpin the dollar, a shift from 2024 when markets priced Fed cuts, so external headwinds may persist despite domestic policy support."
-    },
-    {
-      "id": "4956193",
-      "time": "2026-06-26 09:56:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "滔搏國際復牌後股價下跌11%，報1.82港元。"
-    },
-    {
-      "id": "mkt:019f01a4-054a-7dd8-b129-c71827acecf8",
-      "time": "2026-06-26 09:55:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan's TAIEX fell more than 2%."
-    },
-    {
-      "id": "4956192",
-      "time": "2026-06-26 09:55:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特斯拉中國為員工子女設立“星河獎學金”】特斯拉高階副總裁陶琳微博稱：為特斯拉員工子女設立的“星河獎學金”正式上線。符合條件的員工即可申請，單項獎金最高5000元。"
-    },
-    {
-      "id": "4956191",
-      "time": "2026-06-26 09:55:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數下跌2%至45,322.04點。"
-    },
-    {
-      "id": "mkt:019f01a2-da7f-7dd8-b129-be657a703033",
-      "time": "2026-06-26 09:54:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "Shenzhen Component Index falls more than 2%; Taichen Guang plunges over 12%, the worst-performing constituent."
     }
   ]
 }
