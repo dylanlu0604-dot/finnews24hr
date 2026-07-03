@@ -1,7 +1,44 @@
 {
   "date": "2026-07-03",
-  "count": 1338,
+  "count": 1342,
   "items": [
+    {
+      "id": "4968987",
+      "time": "2026-07-03 13:58:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：農業銀行目標價降至6.55港元 維持“增持”評級】摩根大通釋出研報稱，將農業銀行（01288）的估值終點滾動至2027年12月，因而將其目標價由7.2港元下調至6.55港元，並維持“增持”評級。 該行更新了農業銀行的模型以反映其2026年首季業績，並將農業銀行2026至2028年的盈利預測分別下調1.6%、3.7%及5.6%，主要由於貸款組合惡化導致淨息差預期分別收窄2個、5個及4個基點。"
+    },
+    {
+      "id": "te:markets:564020",
+      "time": "2026-07-03 13:57:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Erases Early Losses, Ends Week Higher — The NZX 50 rose 36 points, or 0.3%, to close at 13,618 on Friday, reversing morning weakness and erasing losses from the previous two sessions, mainly buoyed by the consumer staples and healthcare sectors. Easing oil prices lifted sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data. The latest data also supported the index, as consumer confidence in New Zealand hit a three-month high in June, while business confidence reached its highest level since February. However, traders remained cautious ahead of the RBNZ's monetary policy decision next week amid higher global oil prices during June. A2 Milk rose 2.7%, Fletcher Building increased 2.4%, Ebos Group gained 2.3%, while Fisher & Paykel, Mainfreight, and Summerset Group each advanced 1.7%. For the week, the index gained 0.9% after being flat the previous week."
+    },
+    {
+      "id": "4968986",
+      "time": "2026-07-03 13:55:51",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【Github Copilot接入開源模型Kimi K2.7】7月3日，月之暗面宣佈，Github Copilot接入第一個開源模型Kimi K2.7。"
+    },
+    {
+      "id": "4968985",
+      "time": "2026-07-03 13:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦一客運巴士墜山 已致超30人死亡】巴基斯坦俾路支省災害管理局3日通報，位於開伯爾-普什圖省與俾路支省交界的達納薩爾地區，一輛客運巴士當天翻車墜落山谷，事故造成30人死亡，多人受傷。另據當地救援組織稱，死亡人數已升至39人。"
+    },
     {
       "id": "mkt:019f268a-81f1-7aab-8c8c-5acf04d39116",
       "time": "2026-07-03 13:53:59",
