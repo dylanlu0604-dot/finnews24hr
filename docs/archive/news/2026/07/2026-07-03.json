@@ -1,7 +1,82 @@
 {
   "date": "2026-07-03",
-  "count": 2547,
+  "count": 2555,
   "items": [
+    {
+      "id": "mkt:019f283a-35e7-7aab-8c97-0ee31b2a8ec8",
+      "time": "2026-07-03 21:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning — temporary traffic control on lower Yangtze】China Maritime Safety Administration posted that Huangshi Maritime Safety Administration issued a navigation warning: from July 8 10:00 to 14:00 a PLA unit will conduct military activity in waters near the Huanggang road-and-rail bridge on the lower Yangtze; Huangshi MSA will impose temporary traffic control on adjacent waters during the activity."
+    },
+    {
+      "id": "4969908",
+      "time": "2026-07-03 21:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！長江下游臨時交通管制】據中國海事局網站訊息，黃石海事局釋出航行警告，7月8日10時至14時，中國人民解放軍某部將在長江下游黃岡公鐵大橋附近水域進行軍事活動。軍事活動期間，黃石海事局將對附近水域實施臨時交通管制。"
+    },
+    {
+      "id": "4969907",
+      "time": "2026-07-03 21:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京樓市半年報：二手房成交超9.3萬套創五年同期新高，新房去化週期縮短】北京上半年樓市成績單出爐。機構監測資料顯示，今年上半年北京二手房量升價穩、交易規模創近五年新高，置換鏈條有所恢復；新房市場在3月後迎來改善性群體加速入市，市場開始修復，庫存下行。（澎湃）"
+    },
+    {
+      "id": "mkt:019f2839-9786-7aab-8c97-019c63126d73",
+      "time": "2026-07-03 21:44:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iranian media: Saudi deputy foreign minister pays respects to Iran's deceased supreme leader】Iranian media reported Saudi Deputy Foreign Minister Walid al-Khereiji and his delegation paid respects to Iran's late Supreme Leader Ayatollah Ali Khamenei. Khamenei was killed on Feb. 28 in a war launched by Israel and the United States against Iran. The conflict prompted Iranian attacks on Gulf states hosting US military bases, including Saudi Arabia, and has killed thousands, primarily in Iran and Lebanon."
+    },
+    {
+      "id": "4969906",
+      "time": "2026-07-03 21:44:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【順威股份：目前銷往歐洲市場的風葉業務同比略增 但該業務佔營收比重較小】順威股份在互動平臺表示，目前公司銷往歐洲市場的風葉業務同比略增，但該業務佔營收比重較小。"
+    },
+    {
+      "id": "mkt:019f2839-668f-7aab-8c96-fac647ec74ab",
+      "time": "2026-07-03 21:44:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Nasdaq100",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Tech stock gains: earnings or liquidity?】Nasdaq movement shows a 97.5% correlation with global liquidity. Liquidity expansion compresses discount rates and risk premia, disproportionately boosting long-duration, high-valuation technology stocks and helping explain perceptions of overvaluation. Equity prices, however, remain a function of expected future cash flows and discount rates: liquidity mainly alters the discount rate, monetary policy can materially shift that rate, but corporate cash flows, earnings realization and industry networks determine whether elevated valuations are sustainable."
+    },
+    {
+      "id": "4969905",
+      "time": "2026-07-03 21:43:11",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球央行5月淨購金41噸！波蘭依舊是最大買家 金價大跌也未改儲備趨勢】儘管國際金價經歷了連續數月調整，但全球央行依然堅定增持黃金。世界黃金協會(WGC)週四釋出的報告顯示，2026年5月，全球央行官方黃金儲備淨增加41噸，較4月重新回升，購金力量依舊集中於波蘭、中國、烏茲別克和哈薩克等新興市場經濟體。"
+    },
+    {
+      "id": "4969904",
+      "time": "2026-07-03 21:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國政府完成收購電網運營商Tennet在德國分部的股權。"
+    },
     {
       "id": "te:markets:564180",
       "time": "2026-07-03 21:42:19",

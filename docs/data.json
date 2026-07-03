@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-03 21:43:26",
-  "count": 13579,
+  "updated": "2026-07-03 21:47:20",
+  "count": 13578,
   "items": [
+    {
+      "id": "mkt:019f283a-35e7-7aab-8c97-0ee31b2a8ec8",
+      "time": "2026-07-03 21:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning — temporary traffic control on lower Yangtze】China Maritime Safety Administration posted that Huangshi Maritime Safety Administration issued a navigation warning: from July 8 10:00 to 14:00 a PLA unit will conduct military activity in waters near the Huanggang road-and-rail bridge on the lower Yangtze; Huangshi MSA will impose temporary traffic control on adjacent waters during the activity."
+    },
+    {
+      "id": "4969908",
+      "time": "2026-07-03 21:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！長江下游臨時交通管制】據中國海事局網站訊息，黃石海事局釋出航行警告，7月8日10時至14時，中國人民解放軍某部將在長江下游黃岡公鐵大橋附近水域進行軍事活動。軍事活動期間，黃石海事局將對附近水域實施臨時交通管制。"
+    },
+    {
+      "id": "4969907",
+      "time": "2026-07-03 21:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京樓市半年報：二手房成交超9.3萬套創五年同期新高，新房去化週期縮短】北京上半年樓市成績單出爐。機構監測資料顯示，今年上半年北京二手房量升價穩、交易規模創近五年新高，置換鏈條有所恢復；新房市場在3月後迎來改善性群體加速入市，市場開始修復，庫存下行。（澎湃）"
+    },
+    {
+      "id": "mkt:019f2839-9786-7aab-8c97-019c63126d73",
+      "time": "2026-07-03 21:44:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iranian media: Saudi deputy foreign minister pays respects to Iran's deceased supreme leader】Iranian media reported Saudi Deputy Foreign Minister Walid al-Khereiji and his delegation paid respects to Iran's late Supreme Leader Ayatollah Ali Khamenei. Khamenei was killed on Feb. 28 in a war launched by Israel and the United States against Iran. The conflict prompted Iranian attacks on Gulf states hosting US military bases, including Saudi Arabia, and has killed thousands, primarily in Iran and Lebanon."
+    },
+    {
+      "id": "4969906",
+      "time": "2026-07-03 21:44:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【順威股份：目前銷往歐洲市場的風葉業務同比略增 但該業務佔營收比重較小】順威股份在互動平臺表示，目前公司銷往歐洲市場的風葉業務同比略增，但該業務佔營收比重較小。"
+    },
+    {
+      "id": "mkt:019f2839-668f-7aab-8c96-fac647ec74ab",
+      "time": "2026-07-03 21:44:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Nasdaq100",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Tech stock gains: earnings or liquidity?】Nasdaq movement shows a 97.5% correlation with global liquidity. Liquidity expansion compresses discount rates and risk premia, disproportionately boosting long-duration, high-valuation technology stocks and helping explain perceptions of overvaluation. Equity prices, however, remain a function of expected future cash flows and discount rates: liquidity mainly alters the discount rate, monetary policy can materially shift that rate, but corporate cash flows, earnings realization and industry networks determine whether elevated valuations are sustainable."
+    },
+    {
+      "id": "4969905",
+      "time": "2026-07-03 21:43:11",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球央行5月淨購金41噸！波蘭依舊是最大買家 金價大跌也未改儲備趨勢】儘管國際金價經歷了連續數月調整，但全球央行依然堅定增持黃金。世界黃金協會(WGC)週四釋出的報告顯示，2026年5月，全球央行官方黃金儲備淨增加41噸，較4月重新回升，購金力量依舊集中於波蘭、中國、烏茲別克和哈薩克等新興市場經濟體。"
+    },
+    {
+      "id": "4969904",
+      "time": "2026-07-03 21:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國政府完成收購電網運營商Tennet在德國分部的股權。"
+    },
     {
       "id": "te:markets:564180",
       "time": "2026-07-03 21:42:19",
@@ -125036,93 +125111,6 @@
         "MKT News"
       ],
       "text": "President Sheinbaum said Mexico will provide Venezuela with aid and all necessary support."
-    },
-    {
-      "id": "mkt:019f042f-3034-7dd8-b138-833cbc9839e4",
-      "time": "2026-06-26 21:47:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexican President Sheinbaum will meet Venezuela's interim President Rodriguez, sources said."
-    },
-    {
-      "id": "4957686",
-      "time": "2026-06-26 21:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股AI應用軟體股逆勢走高，ServiceNow、 Figma Inc漲超5%，Palantir、Adobe、Workday、賽富時、Datadog漲超3%，微軟漲超2%。"
-    },
-    {
-      "id": "4957685",
-      "time": "2026-06-26 21:46:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統將與委內瑞拉代總統舉行會談。"
-    },
-    {
-      "id": "mkt:019f042e-0888-7dd8-b138-79c08d47e2c1",
-      "time": "2026-06-26 21:45:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays expects oil inventories to continue declining for at least the next few weeks as supply recovery lags."
-    },
-    {
-      "id": "mkt:019f042d-72e8-7dd8-b138-75858aff0083",
-      "time": "2026-06-26 21:45:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kremlin spokesman: U.S. not 'absolutely neutral' on Russia-Ukraine】Kremlin spokesman Dmitry Peskov said on June 26 the U.S. cannot be considered 'absolutely neutral' on the Russia-Ukraine conflict, citing continued large deliveries of weapons, equipment and other technical support to Ukraine and a shift from 'pseudo-grant' assistance to paid sales. He said Moscow nevertheless welcomes U.S. statements expressing willingness to help facilitate a peaceful settlement."
-    },
-    {
-      "id": "4957684",
-      "time": "2026-06-26 21:45:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：由於供應復甦滯後，預計至少未來幾周庫存將持續下降。"
-    },
-    {
-      "id": "4957683",
-      "time": "2026-06-26 21:44:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋外交大臣表示，外交與對話是解決地區危機的最佳途徑。"
-    },
-    {
-      "id": "mkt:019f042c-3483-7dd8-b138-6ee7103ab32b",
-      "time": "2026-06-26 21:43:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Barclays cuts its Brent crude price forecast to $96/bbl for 2026 and $85/bbl for 2027."
-    },
-    {
-      "id": "te:markets:562268",
-      "time": "2026-06-26 21:43:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walt Disney Stock Price Hits 11-week Low — Walt Disney shares decreased to 97.90 USD, the lowest since April 2026. Over the past 4 weeks, Walt Disney lost 4.44%, and in the last 12 months, it decreased 18.75%."
     }
   ]
 }
