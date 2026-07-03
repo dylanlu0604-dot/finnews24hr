@@ -1,7 +1,71 @@
 {
   "date": "2026-07-03",
-  "count": 1920,
+  "count": 1928,
   "items": [
+    {
+      "id": "mkt:019f2743-39fb-7aab-8c92-376951c89e16",
+      "time": "2026-07-03 17:15:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Shorting Micron (MU.O) now likely to incur heavy losses】Shorting Micron (MU.O) is likely to be costly. Data-center memory demand is forecast to rise from $60 bln in 2024 to $1.4 tln by 2030 — roughly 23x growth and excluding mobile, notebook and automotive demand. Only three suppliers manufacture this memory: Samsung, SK Hynix and Micron. Market focus is on HBM (high-bandwidth memory) rather than commodity DRAM; HBM is physically mounted adjacent to NVIDIA GPUs — a Blackwell GB200 requires 192GB HBM and an NVL72 rack 13,824GB. Meta and Microsoft are ordering racks in the thousands, creating large, certain HBM procurement. Micron has sold out its HBM allocation for 2026 before the year began, signed 16 take-or-pay contracts locking at least $100 bln of revenue, and received $22 bln in prepayments for chips not yet produced. With roughly one-third of the global memory market, Micron would capture about $470 bln of the $1.4 tln data-center market alone. Shorting Micron effectively bets hyperscalers stop building and AI demand vanishes."
+    },
+    {
+      "id": "4969442",
+      "time": "2026-07-03 17:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：騰訊持有浙江太美醫療的股權比例由 6.04% 降至 5.99%。"
+    },
+    {
+      "id": "4969441",
+      "time": "2026-07-03 17:14:26",
+      "tags": [
+        "行業"
+      ],
+      "text": "【滙豐：佈局中國人工智慧全產業鏈 把握產業投資潛在機會】近日，滙豐私人銀行及財富管理中國首席投資總監釋出觀點稱，6月以來，A股呈現存量博弈、極致結構性分化的格局，但受益於中長期的AI主題熱度，科創50與創業板指等雙創指數仍錄得可觀漲幅。"
+    },
+    {
+      "id": "4969440",
+      "time": "2026-07-03 17:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華銀電力：預計2026年上半年淨利潤同比下降73.37%到78.21%】華銀電力公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為4500萬元到5500萬元，同比下降73.37%到78.21%。扣除非經常性損益後的淨利潤為4000萬元到5000萬元，同比下降75.59%到80.47%。2026年上半年湖南省處於豐水期且今年來水頗豐，省內水力發電同比增長約45%，階段性壓縮了公司火力發電和新能源發電的空間，也影響了電力現貨交易市場價格走低，使得公司利潤同比減少；自2026年6月1日起，湖南省火電容量電價提升至330元/千瓦，但前五個月依然實施165元/千瓦的容量電價，對公司火電收入的正向支撐未完全體現。"
+    },
+    {
+      "id": "4969439",
+      "time": "2026-07-03 17:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鷗股份：控股股東金敖大擬減持不超過3%】海鷗股份公告，控股股東及實際控制人金敖大持有公司股份5393.76萬股，佔公司總股本的12.4871%。金敖大擬自本公告披露之日起15個交易日後的90日內，透過集中競價交易方式、大宗交易方式合計減持不超過1295.83萬股，不超過公司總股本的3%。"
+    },
+    {
+      "id": "4969438",
+      "time": "2026-07-03 17:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長源電力：6月發電量24.55億千瓦時，同比降低2.12%】長源電力公告，2026年6月公司完成發電量24.55億千瓦時，同比降低2.12%。其中，火電發電量19.6億千瓦時，同比降低5.63%；水電發電量2.72億千瓦時，同比增長54.04%；新能源發電量2.23億千瓦時，同比降低12.44%。2026年1-6月累計完成發電量169.28億千瓦時，同比增長1.28%。火電發電量148.55億千瓦時，同比增長1.12%；水電發電量9.41億千瓦時，同比增長67.28%；新能源發電量11.32億千瓦時，同比降低22.50%。"
+    },
+    {
+      "id": "4969437",
+      "time": "2026-07-03 17:13:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：推進重點用能行業綠色化清潔化發展，逐步明確可再生能源消費最低比重目標】國務院印發《美麗中國建設“十五五”規劃》，其中提到，推進重點用能行業綠色化清潔化發展，逐步明確可再生能源消費最低比重目標，建設一批綠色工廠。推進西部地區可再生能源就近利用，有序推動符合要求的高載能產業向可再生能源資源富集區域轉移。修訂產業結構調整指導目錄，將低效、高耗能、高排放工藝和裝備納入淘汰類目錄。推進機場執行電動化和港口岸電應用盡用，發展可持續航空燃料。提高大宗貨物鐵路、水路運輸比重和新能源汽車運輸比重，推進新能源運輸工具規模化應用，加快配套補能設施建設，構建“外集內配”貨物運輸模式，鼓勵開展貨運零排放試點，推進零碳運輸走廊建設，重點行業清潔運輸比例達到75%、大氣汙染防治重點區域重點行業清潔運輸比例達到85%。加強既有建築和市政設施節能降碳改造，發展城鄉綠色建築。制定重點行業和生態環境基礎設施減汙降碳協同治理技術指南，構建協同度指數，深化城市和產業園區減汙降碳協同創新試點。"
+    },
     {
       "id": "4969436",
       "time": "2026-07-03 17:12:33",
@@ -175,6 +239,14 @@
         "市場"
       ],
       "text": "【科藍軟體：科藍轉債已有10個交易日收盤價低於轉股價85%】科藍軟體公告，公司此前發行的可轉換公司債券“科藍轉債”當前轉股價格為8.8元/股。截至2026年7月3日，公司股票已有10個交易日的收盤價格低於當期轉股價格的85%（即7.48元/股），預計後續將觸發轉股價格向下修正條件。若觸發條件，公司將按相關規定及時履行審議程式和資訊披露義務。"
+    },
+    {
+      "id": "mkt:019f2744-2459-7aab-8c92-3bc01dc2895c",
+      "time": "2026-07-03 17:06:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council to tighten oversight of offshore wind, oil and gas development】The State Council issued the Beautiful China Construction 15th Five-Year Plan, calling for deeper marine ecological protection and strengthened regulation of offshore wind, oil and gas development and construction activities. The plan directs delineation of national and provincial key marine governance areas and control zones; tighter land‑to‑sea pollution control with inspection and remediation of major coastal sewage outlets; accelerated marine debris cleanup and resource reuse; stronger supervision of marine aquaculture and coastal bathing areas; and orderly national marine ecological surveys, targeted ecosystem protection and restoration, and enhanced protection of key marine species and habitats."
     },
     {
       "id": "mkt:019f273a-5cbf-7aab-8c91-fa67f4f3b3d7",

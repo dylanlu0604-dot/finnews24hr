@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-03 17:13:20",
-  "count": 13777,
+  "updated": "2026-07-03 17:17:15",
+  "count": 13779,
   "items": [
+    {
+      "id": "mkt:019f2743-39fb-7aab-8c92-376951c89e16",
+      "time": "2026-07-03 17:15:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Shorting Micron (MU.O) now likely to incur heavy losses】Shorting Micron (MU.O) is likely to be costly. Data-center memory demand is forecast to rise from $60 bln in 2024 to $1.4 tln by 2030 — roughly 23x growth and excluding mobile, notebook and automotive demand. Only three suppliers manufacture this memory: Samsung, SK Hynix and Micron. Market focus is on HBM (high-bandwidth memory) rather than commodity DRAM; HBM is physically mounted adjacent to NVIDIA GPUs — a Blackwell GB200 requires 192GB HBM and an NVL72 rack 13,824GB. Meta and Microsoft are ordering racks in the thousands, creating large, certain HBM procurement. Micron has sold out its HBM allocation for 2026 before the year began, signed 16 take-or-pay contracts locking at least $100 bln of revenue, and received $22 bln in prepayments for chips not yet produced. With roughly one-third of the global memory market, Micron would capture about $470 bln of the $1.4 tln data-center market alone. Shorting Micron effectively bets hyperscalers stop building and AI demand vanishes."
+    },
+    {
+      "id": "4969442",
+      "time": "2026-07-03 17:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：騰訊持有浙江太美醫療的股權比例由 6.04% 降至 5.99%。"
+    },
+    {
+      "id": "4969441",
+      "time": "2026-07-03 17:14:26",
+      "tags": [
+        "行業"
+      ],
+      "text": "【滙豐：佈局中國人工智慧全產業鏈 把握產業投資潛在機會】近日，滙豐私人銀行及財富管理中國首席投資總監釋出觀點稱，6月以來，A股呈現存量博弈、極致結構性分化的格局，但受益於中長期的AI主題熱度，科創50與創業板指等雙創指數仍錄得可觀漲幅。"
+    },
+    {
+      "id": "4969440",
+      "time": "2026-07-03 17:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華銀電力：預計2026年上半年淨利潤同比下降73.37%到78.21%】華銀電力公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為4500萬元到5500萬元，同比下降73.37%到78.21%。扣除非經常性損益後的淨利潤為4000萬元到5000萬元，同比下降75.59%到80.47%。2026年上半年湖南省處於豐水期且今年來水頗豐，省內水力發電同比增長約45%，階段性壓縮了公司火力發電和新能源發電的空間，也影響了電力現貨交易市場價格走低，使得公司利潤同比減少；自2026年6月1日起，湖南省火電容量電價提升至330元/千瓦，但前五個月依然實施165元/千瓦的容量電價，對公司火電收入的正向支撐未完全體現。"
+    },
+    {
+      "id": "4969439",
+      "time": "2026-07-03 17:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鷗股份：控股股東金敖大擬減持不超過3%】海鷗股份公告，控股股東及實際控制人金敖大持有公司股份5393.76萬股，佔公司總股本的12.4871%。金敖大擬自本公告披露之日起15個交易日後的90日內，透過集中競價交易方式、大宗交易方式合計減持不超過1295.83萬股，不超過公司總股本的3%。"
+    },
+    {
+      "id": "4969438",
+      "time": "2026-07-03 17:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長源電力：6月發電量24.55億千瓦時，同比降低2.12%】長源電力公告，2026年6月公司完成發電量24.55億千瓦時，同比降低2.12%。其中，火電發電量19.6億千瓦時，同比降低5.63%；水電發電量2.72億千瓦時，同比增長54.04%；新能源發電量2.23億千瓦時，同比降低12.44%。2026年1-6月累計完成發電量169.28億千瓦時，同比增長1.28%。火電發電量148.55億千瓦時，同比增長1.12%；水電發電量9.41億千瓦時，同比增長67.28%；新能源發電量11.32億千瓦時，同比降低22.50%。"
+    },
+    {
+      "id": "4969437",
+      "time": "2026-07-03 17:13:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：推進重點用能行業綠色化清潔化發展，逐步明確可再生能源消費最低比重目標】國務院印發《美麗中國建設“十五五”規劃》，其中提到，推進重點用能行業綠色化清潔化發展，逐步明確可再生能源消費最低比重目標，建設一批綠色工廠。推進西部地區可再生能源就近利用，有序推動符合要求的高載能產業向可再生能源資源富集區域轉移。修訂產業結構調整指導目錄，將低效、高耗能、高排放工藝和裝備納入淘汰類目錄。推進機場執行電動化和港口岸電應用盡用，發展可持續航空燃料。提高大宗貨物鐵路、水路運輸比重和新能源汽車運輸比重，推進新能源運輸工具規模化應用，加快配套補能設施建設，構建“外集內配”貨物運輸模式，鼓勵開展貨運零排放試點，推進零碳運輸走廊建設，重點行業清潔運輸比例達到75%、大氣汙染防治重點區域重點行業清潔運輸比例達到85%。加強既有建築和市政設施節能降碳改造，發展城鄉綠色建築。制定重點行業和生態環境基礎設施減汙降碳協同治理技術指南，構建協同度指數，深化城市和產業園區減汙降碳協同創新試點。"
+    },
     {
       "id": "4969436",
       "time": "2026-07-03 17:12:33",
@@ -175,6 +239,14 @@
         "市場"
       ],
       "text": "【科藍軟體：科藍轉債已有10個交易日收盤價低於轉股價85%】科藍軟體公告，公司此前發行的可轉換公司債券“科藍轉債”當前轉股價格為8.8元/股。截至2026年7月3日，公司股票已有10個交易日的收盤價格低於當期轉股價格的85%（即7.48元/股），預計後續將觸發轉股價格向下修正條件。若觸發條件，公司將按相關規定及時履行審議程式和資訊披露義務。"
+    },
+    {
+      "id": "mkt:019f2744-2459-7aab-8c92-3bc01dc2895c",
+      "time": "2026-07-03 17:06:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council to tighten oversight of offshore wind, oil and gas development】The State Council issued the Beautiful China Construction 15th Five-Year Plan, calling for deeper marine ecological protection and strengthened regulation of offshore wind, oil and gas development and construction activities. The plan directs delineation of national and provincial key marine governance areas and control zones; tighter land‑to‑sea pollution control with inspection and remediation of major coastal sewage outlets; accelerated marine debris cleanup and resource reuse; stronger supervision of marine aquaculture and coastal bathing areas; and orderly national marine ecological surveys, targeted ecosystem protection and restoration, and enhanced protection of key marine species and habitats."
     },
     {
       "id": "mkt:019f273a-5cbf-7aab-8c91-fa67f4f3b3d7",
@@ -126845,61 +126917,6 @@
         "國際"
       ],
       "text": "【雙成藥業：簽訂SC-C141美國獨家許可協議，最高許可費1000萬美元】雙成藥業公告，公司於2026年6月26日召開董事會審議透過簽訂《獨家開發、生產及供應協議》，將SC-C141專案在美國地區的獨家商業化權利授予合作方A公司。A公司需在里程碑節點達成後支付最高總額為1000萬美元的許可費，產品上市後還將獲得美國地區銷售利潤分成。該事項不構成關聯交易及重大資產重組，無需提交股東會審議。"
-    },
-    {
-      "id": "4957004",
-      "time": "2026-06-26 17:16:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本本田社長在股東大會上就2025財年鉅虧道歉】日本本田公司26日在東京都內舉行定期股東大會。2025財年（2025年4月至2026年3月）計入了伴隨純電動汽車（EV）戰略調整的鉅額虧損，遭遇上市以來首次超過4000億日元（約合人民幣168億元）的鉅虧。社長三部敏宏在股東大會伊始道歉稱：“前期的財報呈現虧損，讓各位股東擔心並添了麻煩，對此深表歉意。” 三部就原定在北美生產的EV相關開發中止等事宜稱“這是痛苦的決斷。我當然深刻認識到被嚴厲質疑作出判斷相應的經營責任”，在此基礎上表示“認識到重返增長軌道是我肩負的責任”，表示將致力於經營改革。"
-    },
-    {
-      "id": "4957003",
-      "time": "2026-06-26 17:14:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股市錄得3月以來首次資金淨流出 科技基金外流規模創紀錄】投資者三個月來首次從美國股市撤資，科技基金出現創紀錄資金流出，顯示人工智慧交易正在降溫。美國銀行援引EPFR Global資料在一份報告中稱，截至6月24日當週，美國股票基金流出85億美元。其中，科技基金引領資金外流態勢，錄得93億美元創紀錄流出。這一趨勢與前一週形成逆轉。美銀以Michael Hartnett為首的團隊在一份報告中寫道，此前一週科技基金曾吸引創紀錄的192億美元流入。華爾街近來受到大型科技股拋售衝擊，包括蘋果公司股價大幅下跌。儘管儲存晶片製造商美光科技給出強勁銷售預期，緩解了市場對科技行業放緩的擔憂，但標普500指數已從本月早些時候創下的紀錄高位回落。股指期貨顯示，華爾街週五開盤可能再度走弱。美銀表示，整體股票基金錄得50億美元資金流出，貨幣市場基金流出255億美元。歐洲基金繼續失寵，連續第11周出現資金流出。根據這份報告，投資者轉而流入固定收益基金，後者吸納了166億美元資金。"
-    },
-    {
-      "id": "te:economy:562211",
-      "time": "2026-06-26 17:14:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Iceland Inflation Rate Edged Up — The annual inflation rate in Iceland edgd up to 5.2% year-on-year in June 2026 from 5.1% in the previous month. Upward price pressures were primarily driven by transport (9.9% vs. 7.9%), information and communication (3.6% vs 2.9%), recreation, sport and culture (2.8% vs 2.7%), while furnishings and household equipment prices rebounded by 0.2% after a 0.4% decline in the previous month. Inflation in educational services stood at 4.2%. At the same time, price growth eased for food and non-alcoholic beverages (3.9% vs 4.2%), housing and utilities (6.5% vs 6.6%), restaurants and accommodation services (4.6% vs 5.1%), health (4.1% vs 4.4%), insurance and financial services (3.9% vs 4.1%) and alcoholic beverages and tobacco (3.3% vs 3.5%). Meanwhile, clothing and footwear prices reversed course, falling 1.2% after rising 0.9% in May. On a monthly basis, consumer prices rose 0.9% in June, the fastest increase in four months, accelerating from the 0.1% rise recorded in May."
-    },
-    {
-      "id": "mkt:019f0335-066f-7dd8-b133-c145e8d6d64a",
-      "time": "2026-06-26 17:13:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Small aircraft hits perimeter fence at Yao Airport in Osaka Prefecture; no casualties reported】About 17:30 local time on the 26th, Yao Airport in Yao City, Osaka Prefecture, received a report from a nearby resident that a small aircraft struck the airport perimeter fence. Local fire authorities are on site assessing the scene; no casualties have been reported so far."
-    },
-    {
-      "id": "4957002",
-      "time": "2026-06-26 17:13:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧瑞德：持股5%以上股東6080萬股將被司法變賣】奧瑞德公告稱，公司持股5%以上大股東左洪波、褚淑霞為一致行動人，合計持股17027.17萬股。左洪波持有的6080萬股（限售股）將被司法變賣，佔其與一致行動人持股的35.71%，佔公司總股本的2.21%。重慶市第一中級人民法院將於7月12日和7月15日起在京東資產交易平臺公開變賣，變賣期60天。本次變賣尚在公示階段，結果不確定，不會導致公司控制權變更及對經營產生不利影響。"
-    },
-    {
-      "id": "4957001",
-      "time": "2026-06-26 17:13:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤達醫療：股東朱文怡質押、劉輝部分股份被凍結】潤達醫療公告稱，股東朱文怡將1829萬股質押給華夏銀行，佔其所持股份的99.95%，佔公司總股本的3.03%；股東劉輝500萬股被司法凍結，累計凍結2290.4萬股，佔其持股總數的95.16%，佔公司總股本的3.79%。朱文怡和劉輝為一致行動人，合計持股佔公司總股本的7.01%，合計質押股份佔其所持股份的43.17%，合計凍結股份佔54.06%。上述事項不會致實控人變更，對公司經營無重大影響。"
     }
   ]
 }
