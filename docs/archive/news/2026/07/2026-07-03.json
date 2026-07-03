@@ -1,7 +1,70 @@
 {
   "date": "2026-07-03",
-  "count": 1000,
+  "count": 1007,
   "items": [
+    {
+      "id": "4968744",
+      "time": "2026-07-03 10:32:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破63美元/盎司，日內漲3.19%。"
+    },
+    {
+      "id": "4968743",
+      "time": "2026-07-03 10:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲0.7%，東證指數漲0.9%。"
+    },
+    {
+      "id": "4968742",
+      "time": "2026-07-03 10:31:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2081億元。"
+    },
+    {
+      "id": "4968741",
+      "time": "2026-07-03 10:31:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Paytm：Paytm歐洲公司獲授予支付機構牌照，自2026年7月2日起生效。"
+    },
+    {
+      "id": "4968740",
+      "time": "2026-07-03 10:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國泰航空正計劃陸續恢復中東航線】記者今日從國泰航空處獲悉，國泰航空正在計劃陸續恢復中東航線。其中，旗下國泰貨運計劃8月1日起，恢復往來利雅得的貨機航班。 (財聯社)"
+    },
+    {
+      "id": "te:economy:563967",
+      "time": "2026-07-03 10:29:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Inflation Rate Eases to 4-Month Low — Vietnam’s annual inflation rate eased to 4.69% in June 2026 from 5.60% in the previous month. This marked the lowest reading since February 2025, as price growth moderated in food (4.89% vs 5.03% in May), alcoholic beverages and tobacco (4.21% vs 4.29%), clothing and footwear (2.19% vs 2.37%), housing utilities (7.17% vs 8.19%), transportation (5.29% vs 12.48%), and miscellaneous goods and services (4.08% vs 4.22%). In contrast, costs increased in furnishing and household equipment (3.17% vs 3.12%), health (1.20% vs 1.19%), information and communication (0.13% vs 0.07%), and recreation and culture (3.32% vs 2.91%), while inflation remained steady in education (at 3.39%). On a monthly basis, consumer prices fell 0.39% in May, following a 0.29% gain. Meanwhile, the annual inflation rose by 4.50%, easing from 4.67% in the preceding period."
+    },
+    {
+      "id": "4968739",
+      "time": "2026-07-03 10:28:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念震盪回落 通化金馬封跌停】創新藥概念日內震盪回落，通化金馬封跌停，新贛江、益諾思、雙鷺藥業、海思科、澤璟製藥、三生國健均跌超5%。"
+    },
     {
       "id": "4968738",
       "time": "2026-07-03 10:28:16",
