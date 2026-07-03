@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 04:34:20",
-  "count": 13360,
+  "updated": "2026-07-04 04:38:15",
+  "count": 13349,
   "items": [
+    {
+      "id": "4970113",
+      "time": "2026-07-04 04:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伯納姆稱若接替斯塔默出任首相 不會提前舉行英國大選】安迪·伯納姆表示，若接替基爾·斯塔默出任英國首相，他不會提前舉行英國大選。週五在社交媒體平臺Reddit上被問及是否會舉行大選時，伯納姆回答“不會”。他是本月工黨黨魁選舉中唯一已宣佈參選的斯塔默繼任候選人。伯納姆表示，他將堅持該黨在2024年大選中的競選綱領承諾。他說，其中包括維持所謂國家養老金“三重鎖定”機制的承諾。"
+    },
     {
       "id": "4970112",
       "time": "2026-07-04 04:30:00",
@@ -122890,121 +122898,6 @@
         "國際"
       ],
       "text": "美國中央司令部：週四對伊朗襲擊事件的回應是發動空襲。"
-    },
-    {
-      "id": "4958017",
-      "time": "2026-06-27 04:38:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍將繼續保持部署、保持警惕，以確保伊朗協議的所有條款都得到遵守、得到執行，並全面生效。"
-    },
-    {
-      "id": "4958016",
-      "time": "2026-06-27 04:38:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：伊朗無端侵略違反了停火協議。"
-    },
-    {
-      "id": "mkt:019f05a7-5dbd-7dd8-b13f-6fd2b82819d0",
-      "time": "2026-06-27 04:38:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian media reported a missile struck a dock area in Sirik in southern Iran."
-    },
-    {
-      "id": "4958015",
-      "time": "2026-06-27 04:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍部隊持續為通行該海峽的商船提供安全通行協調與支援。"
-    },
-    {
-      "id": "4958014",
-      "time": "2026-06-27 04:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍已開展打擊行動，以應對昨日一艘途經霍爾木茲海峽的商船遇襲事件。"
-    },
-    {
-      "id": "mkt:019f05a6-9165-7dd8-b13f-60e264a2521a",
-      "time": "2026-06-27 04:37:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. military said it struck Iran in response to Iranian attacks on commercial vessels."
-    },
-    {
-      "id": "4958013",
-      "time": "2026-06-27 04:37:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美國戰機襲擊了伊朗導彈和無人機儲存地點。"
-    },
-    {
-      "id": "4958012",
-      "time": "2026-06-27 04:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：今天對伊朗發動了空襲。"
-    },
-    {
-      "id": "mkt:019f05a6-3924-7dd8-b13f-59be1c7be2a0",
-      "time": "2026-06-27 04:36:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Market sources said Zuckerberg urged Meta Platforms (META.O) to consider cooperating with PolyMarket."
-    },
-    {
-      "id": "4958011",
-      "time": "2026-06-27 04:35:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：扎克伯格敦促Meta 考慮與 PolyMarket 開展合作。"
-    },
-    {
-      "id": "te:markets:562328",
-      "time": "2026-06-27 04:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.09% Lower — The Dow Jones Index dropped 45 points or 0.09 percent on Friday to close at 51876 points. Losses were led by Caterpillar (-5.67%), Cisco Systems (-4.56%) and Goldman Sachs (-4.07%). Offsetting the fall, top gainers were Microsoft (5.71%), Salesforce (5.45%) and IBM (5.08%)."
-    },
-    {
-      "id": "4958010",
-      "time": "2026-06-27 04:35:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：美國軍隊襲擊了霍爾木茲海峽地區的伊朗目標。"
     }
   ]
 }
