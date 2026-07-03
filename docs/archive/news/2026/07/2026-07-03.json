@@ -1,7 +1,36 @@
 {
   "date": "2026-07-03",
-  "count": 551,
+  "count": 554,
   "items": [
+    {
+      "id": "4968433",
+      "time": "2026-07-03 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報68676.06點，跌幅0.08%。"
+    },
+    {
+      "id": "4968432",
+      "time": "2026-07-03 07:57:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【被曝暗中“監視”中國使用者後 美國AI公司稱將下線此功能】當地時間7月1日，美國人工智慧公司Anthropic就其推出的AI程式設計工具中疑似暗藏針對中國的“監視程式碼”一事作出回應，稱此舉是“一次實驗”，目的是識別和防範未經授權的轉售商濫用賬戶並防範模型“蒸餾”。Anthropic方面還表示，目前其團隊已經找到更好的應對方案，將在次日刪除特殊的檢測程式碼。（南方都市報）"
+    },
+    {
+      "id": "mkt:019f2543-821b-7aab-8c85-f3b432c65c64",
+      "time": "2026-07-03 07:56:48",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CITIC Securities: Global semiconductor equipment market could double by 2028 vs 2025】CITIC Securities projects global semiconductor manufacturers’ capex will reach $341.7 bln in 2028, up 103.3% from $168.1 bln in 2025, with the higher capex transmitting directly to equipment demand. It forecasts front‑end wafer fab equipment (WFE) at $241.4 bln in 2028, roughly +108% versus 2025, and back‑end equipment at $38.3 bln, up 136.9% from $16.16 bln in 2025. By end‑market, memory demand is expected to rise most (+150%), followed by foundry (+91.4%). After Chinese market inventory destocking in 2025–26, China is forecast to see a strong recovery in 2027."
+    },
     {
       "id": "4968431",
       "time": "2026-07-03 07:56:02",

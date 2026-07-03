@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-03 07:57:06",
-  "count": 13859,
+  "updated": "2026-07-03 08:00:58",
+  "count": 13856,
   "items": [
+    {
+      "id": "4968433",
+      "time": "2026-07-03 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報68676.06點，跌幅0.08%。"
+    },
+    {
+      "id": "4968432",
+      "time": "2026-07-03 07:57:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【被曝暗中“監視”中國使用者後 美國AI公司稱將下線此功能】當地時間7月1日，美國人工智慧公司Anthropic就其推出的AI程式設計工具中疑似暗藏針對中國的“監視程式碼”一事作出回應，稱此舉是“一次實驗”，目的是識別和防範未經授權的轉售商濫用賬戶並防範模型“蒸餾”。Anthropic方面還表示，目前其團隊已經找到更好的應對方案，將在次日刪除特殊的檢測程式碼。（南方都市報）"
+    },
+    {
+      "id": "mkt:019f2543-821b-7aab-8c85-f3b432c65c64",
+      "time": "2026-07-03 07:56:48",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CITIC Securities: Global semiconductor equipment market could double by 2028 vs 2025】CITIC Securities projects global semiconductor manufacturers’ capex will reach $341.7 bln in 2028, up 103.3% from $168.1 bln in 2025, with the higher capex transmitting directly to equipment demand. It forecasts front‑end wafer fab equipment (WFE) at $241.4 bln in 2028, roughly +108% versus 2025, and back‑end equipment at $38.3 bln, up 136.9% from $16.16 bln in 2025. By end‑market, memory demand is expected to rise most (+150%), followed by foundry (+91.4%). After Chinese market inventory destocking in 2025–26, China is forecast to see a strong recovery in 2027."
+    },
     {
       "id": "4968431",
       "time": "2026-07-03 07:56:02",
@@ -127638,61 +127667,6 @@
         "Impact bearish"
       ],
       "text": "Japan's Nikkei 225 opened down 668.60 points, or 0.92%, at 71,697.74 on Friday, June 26."
-    },
-    {
-      "id": "4955991",
-      "time": "2026-06-26 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.3%，至8813.18點。"
-    },
-    {
-      "id": "mkt:019f013a-77ec-7dd8-b127-597fb442094a",
-      "time": "2026-06-26 08:00:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【CITIC Securities: Sees dollar index supported this year but rally unlikely to be sustained】CITIC Securities said the dollar index has rallied sharply, driving gold below $4,000/oz, and that easing inflation concerns have not weakened the dollar. Political 're-dollarization' may partly explain the move, but the firm sees expectations of tighter dollar liquidity as the dominant driver. It expects the dollar index to find support this year but for further upside to be difficult to sustain; the next US inflation print could be a catalyst for market re-pricing."
-    },
-    {
-      "id": "4955990",
-      "time": "2026-06-26 08:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報71587.71點，跌幅1.08%。"
-    },
-    {
-      "id": "4955989",
-      "time": "2026-06-26 08:00:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【索尼互動娛樂將削減Bungie工作室員工人數】當地時間6月25日，索尼互動娛樂執行長Hermen Hulst在公司網站上釋出的一封電子郵件中表示，在對遊戲開發工作室Bungie的長期方向和發展重點進行評估後，公司決定對該工作室裁減大量崗位。  此次裁員將涉及Bungie《命運》團隊的大多數成員，以及《失落星船：馬拉松》團隊的部分成員。此外，支援Bungie運營的索尼互動娛樂團隊也有縮減。"
-    },
-    {
-      "id": "4955988",
-      "time": "2026-06-26 07:59:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【僅需70分鐘 雲南彌勒至玉溪高速公路今日通車】今天，雲南省連線紅河哈尼族彝族自治州和玉溪市的彌勒至玉溪高速公路全線通車運營，兩地通行時長由原來的2小時縮短至1小時10分鐘，惠及沿線近200萬名群眾。彌玉高速公路主線全長117.998公里，採用雙向六車道標準建設，全線建有橋樑102座、隧道13座。"
-    },
-    {
-      "id": "4955987",
-      "time": "2026-06-26 07:58:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【原油期貨因可能的技術性回撥而下跌】繼隔夜期貨強勁上漲之後，原油期貨因可能的技術性回撥而下跌。然而，由於對油輪透過霍爾木茲海峽的擔憂，期貨的跌幅可能受到限制。據兩名美國高階官員稱，伊朗伊斯蘭革命衛隊週四在該海峽襲擊了一艘懸掛新加坡國旗的貨船。澳新銀行研究部的分析師在一份研究報告中說：“與此同時，幾艘商船在試圖透過該海峽時掉頭，這引發了人們對關鍵水道重新開放後出現的石油供應持續恢復的新疑慮。“近月西得州中質油期貨下跌0.6%，報每桶71.52美元。"
     }
   ]
 }
