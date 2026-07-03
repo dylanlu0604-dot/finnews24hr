@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-04 04:07:27",
-  "count": 13391,
+  "updated": "2026-07-04 04:11:16",
+  "count": 13378,
   "items": [
+    {
+      "id": "4970103",
+      "time": "2026-07-04 04:10:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：“戴高樂”號航母將返回母港】法國總統馬克龍當地時間7月3日宣佈，鑑於地區局勢出現積極進展以及相關需求發生變化，法國決定調整其在中東地區的軍事部署。馬克龍表示，法國已在中東部署掃雷力量，包括兩艘獵雷艦，並由兩艘護衛艦和一架海上巡邏機提供支援。這些力量已做好準備，將與夥伴國家共同推動霍爾木茲海峽全面恢復通航，並保障海上交通安全。馬克龍表示，6月17日美國與伊朗簽署的諒解備忘錄，是促進地區穩定的重要進展，其中重申了霍爾木茲海峽的航行自由。經過與阿曼蘇丹進行建設性交流後，他決定相應調整法國在當地的軍事部署。根據這一調整，法國“戴高樂”號航空母艦將返回母港土倫，法國掃雷力量及其護航兵力則繼續部署，並隨時準備與夥伴國家共同行動。（央視新聞）"
+    },
+    {
+      "id": "4970102",
+      "time": "2026-07-04 04:07:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息預期降溫致美元走弱，拉美資產迎來反彈】週五，大多數拉美貨幣延續漲勢，股市表現漲跌互現。此前一天，美國公佈的就業資料弱於預期，削弱了市場對美聯儲近期加息的押注，並在週末前提振了市場風險偏好。MSCI拉美股票指數上漲0.6%，區域貨幣指數微漲0.3%。兩者均有望在第三季度的第一週實現小幅上漲。該貨幣指數此前已錄得連續第六個季度上漲，創下自2009年以來的最長連漲紀錄。"
+    },
     {
       "id": "4970101",
       "time": "2026-07-04 04:05:38",
@@ -123169,152 +123187,6 @@
         "US Economy"
       ],
       "text": "S&P forecasts U.S. real GDP growth of about 2% annually from 2026 through 2029."
-    },
-    {
-      "id": "mkt:019f058e-ade0-7dd8-b13f-05907e6ecb9c",
-      "time": "2026-06-27 04:11:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "S&P expects US general government net debt to approach 100% of GDP as non-discretionary interest costs and aging-related spending rise structurally."
-    },
-    {
-      "id": "mkt:019f058e-740a-7dd8-b13e-fa4c37ac8488",
-      "time": "2026-06-27 04:10:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "PHLX Semiconductor Index (SOX) fell 7.9% this week, its largest weekly decline since early April."
-    },
-    {
-      "id": "4957994",
-      "time": "2026-06-27 04:10:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "標普關於美國經濟的觀點：預計美聯儲將繼續應對降低通脹與化解金融市場脆弱性的挑戰。"
-    },
-    {
-      "id": "4957993",
-      "time": "2026-06-27 04:10:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "標普關於美國經濟的觀點：我們預計美聯儲將堅定承諾引導通脹回落至其目標水平。"
-    },
-    {
-      "id": "4957992",
-      "time": "2026-06-27 04:10:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城費城半導體指數本週跌7.9%，創4月初以來最大單週跌幅。"
-    },
-    {
-      "id": "mkt:019f058d-e79f-7dd8-b13e-f01d6cdb12d5",
-      "time": "2026-06-27 04:10:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Noor News reported explosions in Iran's Sirik region; source unknown."
-    },
-    {
-      "id": "4957991",
-      "time": "2026-06-27 04:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：美國經濟的韌性應會支撐強勁的財政收入，持續加徵的關稅也將貢獻其中一部分收入。"
-    },
-    {
-      "id": "4957990",
-      "time": "2026-06-27 04:09:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普關於美國的觀點：儘管兩極分化加劇，我們仍認為關鍵制度與權力制衡體系為政策結果提供了穩定支撐。"
-    },
-    {
-      "id": "4957989",
-      "time": "2026-06-27 04:09:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗錫裡克地區聽到爆炸聲，訊息來源尚不明確。"
-    },
-    {
-      "id": "mkt:019f058d-7107-7dd8-b13e-ee71cd1cc1bd",
-      "time": "2026-06-27 04:09:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "S&P affirmed the US sovereign credit rating at AA+/A-1+ and kept the outlook stable."
-    },
-    {
-      "id": "4957988",
-      "time": "2026-06-27 04:09:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股市在經歷動盪的一週後幾無變動】美國主要股指週五收盤幾無變動，此前經歷了一週動盪的交易，投資者從人工智慧相關投資轉向傳統避險資產。道瓊斯指數表現突出，連續第三週上漲，而納斯達克和標普500指數則走低。受對霍爾木茲海峽供應的樂觀情緒影響，油價回落至戰前水平。道瓊斯指數下跌44點，至51876點，跌幅0.1%；標普500指數下跌0.1%，至7353點；納斯達克下跌0.2%，至25297點。市場注意力將轉向勞動力資料，6月份就業人數報告將於週四在7月4日假期前釋出。"
-    },
-    {
-      "id": "te:markets:562322",
-      "time": "2026-06-27 04:09:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Dip as Chipmakers Retreat — US stock indexes closed lower on Friday, with the S&P 500 inching down 0.05%, the Nasdaq 100 losing 1.1%, and the Dow Jones slipping 44 points. Chipmakers led the declines as investors trimmed positions after Thursday’s rally, which had been fueled by strong guidance from Micron. Its shares fell 6.7%, while peers Nvidia (-1.3%) and Broadcom (-3.7%) also moved lower. The Dow traded more in line with its tech-heavy counterparts after Alphabet (-1.3%) replaced Verizon in the index, though it still ended near record highs. Broader losses were pared as lower oil prices eased inflation concerns, after evidence that tankers continued crossing the Strait of Hormuz improved the supply outlook for Middle Eastern energy and reduced fears of multiple Federal Reserve rate hikes this year. Still, sentiment remained cautious after President Donald Trump accused Iran of violating the ceasefire agreement by firing at cargo ships transiting the Strait, highlighting the fragility of the truce."
-    },
-    {
-      "id": "4957987",
-      "time": "2026-06-27 04:08:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普關於美國的評級展望：受非自主利息支出及老齡化相關支出結構性上升影響，預計美國一般政府淨債務佔GDP比重將接近100%。"
-    },
-    {
-      "id": "4957986",
-      "time": "2026-06-27 04:08:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普關於美國信用評級的觀點：基於我們對經濟增長將持續保持穩健的預期，美國評級展望維持穩定。"
-    },
-    {
-      "id": "4957985",
-      "time": "2026-06-27 04:08:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普全球評級確認美國主權實時全額結算系統評級為 AA+/A-1+，展望維持穩定。"
     }
   ]
 }
