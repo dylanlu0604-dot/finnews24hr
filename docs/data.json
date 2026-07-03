@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-03 10:33:06",
-  "count": 13892,
+  "updated": "2026-07-03 10:36:58",
+  "count": 13890,
   "items": [
+    {
+      "id": "mkt:019f25d5-5abb-7aab-8c89-c6fc25357bcc",
+      "time": "2026-07-03 10:36:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index extends gains to 1%."
+    },
+    {
+      "id": "4968747",
+      "time": "2026-07-03 10:35:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4767.00點。"
+    },
+    {
+      "id": "4968746",
+      "time": "2026-07-03 10:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報15654.798點；上證指數漲0.42%，現報4045.770點；創業板指漲1.35%，現報4071.658點。"
+    },
+    {
+      "id": "mkt:019f25d3-d2f9-7aab-8c89-be40f70f4b47",
+      "time": "2026-07-03 10:34:26",
+      "tags": [
+        "MKT News",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon opens €5bn Dresden Smart Power Fab, world's largest power-semiconductor plant, months early】On July 2 local time, German semiconductor maker Infineon said it has commissioned its Dresden Smart Power Fab, the world's largest power-semiconductor plant, several months ahead of schedule. The project is a €5bn investment, the largest single investment in Infineon's history and among Germany's biggest recent investments."
+    },
+    {
+      "id": "4968745",
+      "time": "2026-07-03 10:34:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投資50億歐元 英飛凌全球最大功率半導體工廠提前投產】當地時間7月2日，德國半導體製造商英飛凌宣佈，正式啟用其位於德國德累斯頓的全球最大功率半導體工廠——Smart Power Fab。，較原計劃提前數月投產。該專案總投資達50億歐元，是英飛凌史上規模最大的單筆投資，也是德國近年來最大的投資專案之一。"
+    },
+    {
+      "id": "mkt:019f25d2-d490-7aab-8c89-b7069b528c8a",
+      "time": "2026-07-03 10:33:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share innovative-drug sector reversed after an early spike; Tonghua Jinma hit the daily limit-down, while Xin Ganjiang, Yinuosi, Shuanglu Pharmaceutical, Haisco, Zejing Pharmaceutical and Sansheng Guojian dropped."
+    },
+    {
+      "id": "te:economy:563968",
+      "time": "2026-07-03 10:32:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Climbs Toward 30-Year High — Japan's 10-year government bond yield climbed toward 2.8% on Friday, approaching its highest level since October 1996 after a weak 10-year JGB auction this week reinforced concerns over rising fiscal spending and increased government borrowing. The bond market has faced sustained selling pressure since the government unveiled a sweeping long-term economic strategy that features significant spending commitments while urging the Bank of Japan to ensure monetary policy supports its growth objectives. Under the plan, Japan aims to mobilize more than ¥370 trillion ($2.29 trillion) in combined public and private investment through fiscal 2040 to bolster key strategic industries. Investors fear the plan could require greater debt issuance, while the Bank of Japan may remain cautious about raising interest rates despite mounting inflationary pressures."
+    },
     {
       "id": "4968744",
       "time": "2026-07-03 10:32:30",
@@ -127929,96 +128002,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4000美元/盎司，日內跌0.67%。"
-    },
-    {
-      "id": "4956288",
-      "time": "2026-06-26 10:36:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨下跌逾1%，至每桶74.33美元。"
-    },
-    {
-      "id": "4956287",
-      "time": "2026-06-26 10:36:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第四屆鏈博會清潔能源主題活動成功舉辦】6月23日上午，第四屆鏈博會期間，清潔能源主題活動在京成功舉辦。中國貿促會副會長、中國國際商會副會長劉健男指出，當前，全球能源格局深度調整，數智化與綠色化兩大轉型浪潮加速交匯融合。清潔能源已成為推動這一轉型的核心動力，持續帶動產業鏈供應鏈脫碳化、綠色化發展。中國貿促會將持續為中外清潔能源企業搭建高質量平臺、提供全方位服務。期待各方以此次活動為契機，凝聚共識、深化合作，推動全球能源供應鏈向清潔低碳、安全高效方向發展。"
-    },
-    {
-      "id": "4956286",
-      "time": "2026-06-26 10:36:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨價格下跌逾1%，觸及盤中低點71.06美元/桶。"
-    },
-    {
-      "id": "mkt:019f01c8-ce00-7dd8-b12b-173ca8ccc331",
-      "time": "2026-06-26 10:36:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Macron and Meloni say France, Italy seek multinational force to support Lebanon】June 25 — French President Macron said France and Italy want to form a multinational coalition to support Lebanon after the withdrawal of the UN Interim Force in Lebanon (UNIFIL). Speaking with visiting Italian Prime Minister Meloni in Antibes, Macron said the coalition would be coordinated with the EU and the UN to uphold Lebanese sovereignty and back the Lebanese Armed Forces. Meloni said maintaining an international presence in Lebanon is vital to prevent an \"extremely dangerous\" security vacuum."
-    },
-    {
-      "id": "4956285",
-      "time": "2026-06-26 10:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：“十五五”時期將做好化石能源“開發”和“儲備” 顯著提升非化石能源供給】國家發展改革委黨組成員、國家能源局局長王宏志在國新辦新聞釋出會上表示，“十五五”時期能源需求還要持續增長。我們將始終把能源安全放在首要位置，堅持底線思維、系統思維，重點做好三個方面工作。第一，是做好化石能源的“開發”和“儲備”。煤炭是我們穩定能源供應的最大底氣，要立足這一國情做好煤炭基地建設。油氣要加大國內勘探開發力度，穩定石油產量，增加天然氣供應。同時，還要加強能源儲備，健全油氣儲備體系，加強煤制油氣產能和技術儲備，完善煤炭產能儲備，這樣才能做到“風雨不動安如山”。第二，是顯著提升非化石能源供給。我們將堅持風光水核等多能並舉，構建新型電力系統，促進新能源大規模高比例開發利用，加快推動新增用電量由清潔能源供應。第三，是擴大能源合作朋友圈。目前我國油氣很大比例來自國際市場。我們將堅持能源進口多元化，加強與重點能源資源國的互利合作，與各國一道維護好能源運輸通道安全，保障開放條件下的能源安全。"
-    },
-    {
-      "id": "mkt:019f01c6-f642-7dd8-b12b-0a897b87dee5",
-      "time": "2026-06-26 10:34:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02382.HK",
-        "Impact bearish",
-        "00992.HK",
-        "00981.HK"
-      ],
-      "text": "Hang Seng Index (HSI) fell more than 2%. Among constituents, Sunny Optical Technology (02382.HK) dropped over 12%, Lenovo Group (00992.HK) fell over 7%, and SMIC (00981.HK) declined nearly 6%."
-    },
-    {
-      "id": "mkt:019f01c6-d424-7dd8-b12b-00c2d614dbf8",
-      "time": "2026-06-26 10:33:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "China CSI 500 index futures (main IC contract) fell more than 2.00% intraday to 8,514.4 points."
-    },
-    {
-      "id": "mkt:019f01c6-aff0-7dd8-b12a-febd34d4148a",
-      "time": "2026-06-26 10:33:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【NEA says coal power will continue to support rapid renewables growth in 15th Five-Year Plan】NEA deputy director Wan Jinsong told a State Council briefing that China will continue to rely on coal power during the 15th Five-Year Plan to support rapid renewables build-out and meet energy demand. He said China’s thermal power installed share is about 40% (below the global average); China accounted for more than half of global new wind and solar capacity in recent years; and since the 14th Five-Year Plan coal-fired capacity share has fallen from 49% to 32% and coal generation share from 61% to 51%."
-    },
-    {
-      "id": "4956284",
-      "time": "2026-06-26 10:33:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光纖概念股震盪走低，特發資訊、烽火通訊雙雙跌停】光纖概念股震盪走低，特發資訊、烽火通訊雙雙跌停，中天科技、亨通光電、長江通訊、長飛光纖跟跌。"
     }
   ]
 }

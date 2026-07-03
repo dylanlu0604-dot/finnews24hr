@@ -1,7 +1,80 @@
 {
   "date": "2026-07-03",
-  "count": 1007,
+  "count": 1014,
   "items": [
+    {
+      "id": "mkt:019f25d5-5abb-7aab-8c89-c6fc25357bcc",
+      "time": "2026-07-03 10:36:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index extends gains to 1%."
+    },
+    {
+      "id": "4968747",
+      "time": "2026-07-03 10:35:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4767.00點。"
+    },
+    {
+      "id": "4968746",
+      "time": "2026-07-03 10:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報15654.798點；上證指數漲0.42%，現報4045.770點；創業板指漲1.35%，現報4071.658點。"
+    },
+    {
+      "id": "mkt:019f25d3-d2f9-7aab-8c89-be40f70f4b47",
+      "time": "2026-07-03 10:34:26",
+      "tags": [
+        "MKT News",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon opens €5bn Dresden Smart Power Fab, world's largest power-semiconductor plant, months early】On July 2 local time, German semiconductor maker Infineon said it has commissioned its Dresden Smart Power Fab, the world's largest power-semiconductor plant, several months ahead of schedule. The project is a €5bn investment, the largest single investment in Infineon's history and among Germany's biggest recent investments."
+    },
+    {
+      "id": "4968745",
+      "time": "2026-07-03 10:34:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投資50億歐元 英飛凌全球最大功率半導體工廠提前投產】當地時間7月2日，德國半導體製造商英飛凌宣佈，正式啟用其位於德國德累斯頓的全球最大功率半導體工廠——Smart Power Fab。，較原計劃提前數月投產。該專案總投資達50億歐元，是英飛凌史上規模最大的單筆投資，也是德國近年來最大的投資專案之一。"
+    },
+    {
+      "id": "mkt:019f25d2-d490-7aab-8c89-b7069b528c8a",
+      "time": "2026-07-03 10:33:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share innovative-drug sector reversed after an early spike; Tonghua Jinma hit the daily limit-down, while Xin Ganjiang, Yinuosi, Shuanglu Pharmaceutical, Haisco, Zejing Pharmaceutical and Sansheng Guojian dropped."
+    },
+    {
+      "id": "te:economy:563968",
+      "time": "2026-07-03 10:32:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Climbs Toward 30-Year High — Japan's 10-year government bond yield climbed toward 2.8% on Friday, approaching its highest level since October 1996 after a weak 10-year JGB auction this week reinforced concerns over rising fiscal spending and increased government borrowing. The bond market has faced sustained selling pressure since the government unveiled a sweeping long-term economic strategy that features significant spending commitments while urging the Bank of Japan to ensure monetary policy supports its growth objectives. Under the plan, Japan aims to mobilize more than ¥370 trillion ($2.29 trillion) in combined public and private investment through fiscal 2040 to bolster key strategic industries. Investors fear the plan could require greater debt issuance, while the Bank of Japan may remain cautious about raising interest rates despite mounting inflationary pressures."
+    },
     {
       "id": "4968744",
       "time": "2026-07-03 10:32:30",
