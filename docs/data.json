@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-03 22:19:32",
-  "count": 13541,
+  "updated": "2026-07-03 22:23:38",
+  "count": 13535,
   "items": [
+    {
+      "id": "4969937",
+      "time": "2026-07-03 22:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非反壟斷監管機構將奧達泰克斯旗下子公司移交檢方起訴。"
+    },
     {
       "id": "4969936",
       "time": "2026-07-03 22:18:37",
@@ -124678,67 +124686,6 @@
         "其他"
       ],
       "text": "禮來美股漲幅擴大至6%，重新整理歷史新高。"
-    },
-    {
-      "id": "4957740",
-      "time": "2026-06-26 22:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：受航空燃油短缺影響，漢莎航空正準備停飛至多40架飛機。"
-    },
-    {
-      "id": "4957739",
-      "time": "2026-06-26 22:23:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "大秦數字能源技術股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
-    },
-    {
-      "id": "4957738",
-      "time": "2026-06-26 22:23:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：白俄羅斯國家監察委員會地方機構與俄羅斯各地區監察審計機構簽署了多項合作協議。"
-    },
-    {
-      "id": "te:markets:562284",
-      "time": "2026-06-26 22:23:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls for 5th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, extended its decline into a fifth consecutive session on Friday, falling about 2.6% to its lowest since mid-April at 2,524 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 4.9% to 3,640 points; and the supramax index decreased by 0.5% to its lowest since June 15 at 1,670 points. By contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 0.7% to 2,110 points. For the week, the benchmark index posted a 7.3% decline."
-    },
-    {
-      "id": "4957737",
-      "time": "2026-06-26 22:21:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普發文稱： 其他民調顯示我的支援率達到65%，甚至更高！ 和正直的記者一樣，靠譜的民調機構少之又少，很難找到！"
-    },
-    {
-      "id": "4957736",
-      "time": "2026-06-26 22:20:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指收窄跌幅；標普500下跌0.1%，納斯達克下跌0.2%，道指持平。"
-    },
-    {
-      "id": "4957735",
-      "time": "2026-06-26 22:19:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【富士山附近5.6級地震】日本氣象廳稱，山梨縣富士五湖地區今晚發生5.6級地震後，截至目前，富士山的觀測資料沒有出現變化，火山活動也沒有發現特殊變化。據東京電力公司訊息，該公司轄區內共有約5000戶停電。（CCTV國際時訊）"
     }
   ]
 }
