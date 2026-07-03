@@ -1,7 +1,95 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-04 05:18:14_
-_本檔包含 2822 則快訊，約 506257 字_
+_更新時間：2026-07-04 06:37:01_
+_本檔包含 2825 則快訊，約 506848 字_
+
+---
+
+### 2026-07-03 06:54:23  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、微觀察·習近平總書記在慶祝中國共產黨成立一百零五週年大會上發表重要講話 “中國共產黨為什麼能的關鍵密碼”
+2、不懈奮鬥，黨領導人民創造了偉大成就——論學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上重要講話
+3、“奮力創造新的歷史輝煌！”——慶祝中國共產黨成立105週年大會側記
+4、中央軍委發出通報 表彰全軍優秀共產黨員、優秀黨務工作者和先進基層黨組織。
+
+---
+
+### 2026-07-03 06:53:43  #MKT News #Important #Market Themes #Crypto Concepts
+
+【Trump says unaware of reported $1.2bn crypto gains】In a CNBC interview on Thursday, President Trump said he was unaware of crypto investments that his latest financial disclosure shows generated about $1.2bn for him last year. He said his business affairs are managed by his sons, naming Eric as responsible, and that he did not know who handled the investments and had not discussed them with Eric. Trump added the gains were not illegal and said there is no practical requirement to recuse from every potential personal conflict while running the country.
+
+---
+
+### 2026-07-03 06:52:16  #其他
+
+【國際原子能機構總幹事：破壞核安全的襲擊不可接受】國際原子能機構總幹事格羅西2日表示，近期發生在扎波羅熱核電站附近的無人機襲擊危及核電站的應急響應能力，此類襲擊“不可接受”。格羅西在國際原子能機構的一份宣告中表示，該機構駐紮在扎波羅熱核電站的團隊本週確認，附近埃涅爾戈達爾市一座消防站遭到嚴重破壞。該消防站對保障扎波羅熱核電站的應急響應能力至關重要，可在核電站發生大規模緊急情況時，為核電站自身的消防隊提供重要的後備支援。宣告說，無人機襲擊發生在6月30日，次日國際原子能機構團隊前往現場檢查，發現消防站建築和數輛消防車遭到破壞，消防站的執行能力被嚴重削弱。格羅西警告說：“任何破壞核安全和應急能力的襲擊都是不可接受的。”（新華社）
+
+---
+
+### 2026-07-03 06:48:07  #公司
+
+據港交所檔案顯示，深圳宏芯宇電子股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-07-03 06:47:14  #市場
+
+【科技行情行至十字路口，公募推敲“業績驗證”邏輯】7月初，A股與海外市場半導體板塊共振回撥，多隻龍頭股放量下跌。然而，拉長時間軸來看，半導體領域依然是年內最亮眼的投資主線，相關ETF及主動權益基金業績領跑全市場。短期波動加大背景下，記者採訪多家公募機構後發現，在全球半導體景氣度超預期及AI算力建設剛需支撐下，機構普遍認為科技板塊短期仍處於右側佈局階段，投資邏輯正從“主題炒作”向“業績驗證”切換。（中證報）
+
+---
+
+### 2026-07-03 06:47:08  #宏觀 #國際
+
+【王毅同丹麥外交大臣拉斯穆森會談】當地時間7月2日，中共中央政治局委員、外交部長王毅在哥本哈根同丹麥外交大臣拉斯穆森舉行會談。王毅說，中丹交往歷史悠久，兩國關係曾創下多項“第一”。丹麥是第一個同中國建立全面戰略伙伴關係的北歐國家，也是第一個同中國構建綠色轉型合作機制的國家，瑪格麗特二世女王是中國改革開放後第一位訪華的西方國家元首。這些都充分體現丹麥發展對華關係的戰略眼光和歷史主動。去年中丹共同慶祝建交75週年，習近平主席同腓特烈十世國王互致賀電，對在新起點推動中丹關係新發展寄予殷切期待。中方願同丹方落實兩國元首重要共識，保持高層交往，加強各部門各領域對話合作。（央視新聞）
+
+---
+
+### 2026-07-03 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates largely by 5.31% — Top crypto gainers are Ether (5.31%), Bitcoin (2.42%) and Binance (1.12%).
+
+---
+
+### 2026-07-03 06:42:04  #其他
+
+【多隻ETF拆分份額，公募產品普惠性凸顯】近期泛AI行情強勢演繹，相關基金淨值也水漲船高。在此情形下，多隻產品選擇拆分份額。7月3日，半導體ETF國聯安按1∶2的比例進行份額拆分除權，人工智慧ETF華夏、半導體裝置ETF華夏、科創半導體ETF華夏、通訊ETF國泰以當天為權益登記日對登記在冊的基金份額進行拆分。Wind資料顯示，按權益登記日計算，6月以來約一個月時間，已有18只ETF拆分份額，幾乎是今年前五個月的總和。業內人士分析，降低投資門檻、活躍場內流動性、降低基金做市成本是份額拆分背後的主要考量。（中證報）
+
+---
+
+### 2026-07-03 06:40:26  #其他
+
+市場訊息：京瓷株式會社（Kyocera）未來七年將投資1000億日元到MLCC（片式多層陶瓷電容器）產品。
+
+---
+
+### 2026-07-03 06:40:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Soars by 5.25% — Top commodity gainers are Oat (5.25%) and Corn (0.95%). Biggest losers are Rubber (-2.97%) and Coffee (-2.51%).
+
+---
+
+### 2026-07-03 06:38:45  #國際
+
+PJM 電網宣佈進入最高階電力應急狀態，要求所有停運發電機組即刻啟動並升至滿負荷出力，保障美國電網供電穩定。 PJM 敦促各成員排程機構考慮面向公眾發起節電呼籲，並同步通報相關政府部門。
+
+---
+
+### 2026-07-03 06:37:38  #市場
+
+【市場供需兩旺，磷酸鐵鋰頭部企業量價齊升】“今年二季度，受成本上漲疊加旺季補庫需求影響，磷酸鐵鋰價格再度集中上調，且頭部企業持續滿產，高階產品供不應求，加速步入高景氣週期。”7月2日，一家磷酸鐵鋰頭部企業相關人士表示。今年一季度，受磷酸鐵鋰價格大幅上漲推動，磷酸鐵鋰龍頭企業盈利普遍大增，湖南裕能同比增長約13倍。有機構預測，行業盈利在二季度有望進一步提升。隆眾資訊提供的資料顯示，2026年6月磷酸鐵鋰的月均價為61113.33元/噸，較今年初的月均價51209.52元/噸上漲19.34%，與去年同期33802.08元/噸的月均價相比，漲幅超過80%。（上證報）
+
+---
+
+### 2026-07-03 06:35:58  #其他
+
+【在委內瑞拉中資企業已向委方捐贈物資超120噸】記者從中國駐委內瑞拉大使館瞭解到，據初步統計，截至7月2日，在委中資企業已向委方捐贈物資超120噸。
+
+---
+
+### 2026-07-03 06:35:30  #Trading Economics #Economy #New Zealand #ANZ Roy Morgan Consumer Confidence Index #Importance 1
+
+New Zealand Consumer Mood at 3-Month High — The ANZ-Roy Morgan Consumer Confidence climbed to 91.3 in June 2026 from 86.5 in May. The index has risen 4 points over the previous month, matching the increase recorded in March and marking the largest monthly gain in three months, but it remains 16 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, increased 9 points to -11. Two-year inflation expectations eased to 4.6% from 5.3%, while house price expectations were unchanged at 2.5%.
 
 ---
 
@@ -16916,71 +17004,5 @@ US 10Y Yield Holds Gains Ahead of NFP — The yield on the 10-year US Treasury n
 ### 2026-07-02 10:21:21  #Trading Economics #Markets #Australia #Currency #Importance 1
 
 Australian Dollar Stays Near 3-Month Lows — The Australian dollar remained below $0.690, hovering near a three-month low as investors pared back expectations for further interest rate hikes, while weaker-than-expected trade data weighed on sentiment. The country unexpectedly posted a AUD 3.02 billion trade deficit in May, the largest since December 2015, as exports slumped to a four-month low, while imports climbed to a fresh record-high. Markets have also scaled back expectations for further rate hikes as easing global inflation risks after the reopening of the Strait of Hormuz drove oil prices back to pre-war levels. An August move by the Reserve Bank is now priced in at just 15% chance, while markets see a 50% probability that the tightening cycle has ended. Meanwhile, the Aussie remained under pressure from a broadly firm US dollar, as investors continued to price in a Fed rate hike in September despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month.
-
----
-
-### 2026-07-02 10:21:05  #公司
-
-【內蒙古新金山碳纖維有限公司增資至12億，增幅100%】天眼查App顯示，近日，內蒙古新金山碳纖維有限公司發生工商變更，肖斌卸任法定代表人，由金宏偉接任，新增中國石油化工股份有限公司、烏審旗國有資本投資集團有限公司等為股東，同時，註冊資本由6億人民幣增至12億人民幣，增幅100%。該公司成立於2025年2月，經營範圍包括高效能纖維及複合材料製造、石墨及碳素製品製造、合成纖維製造、碳纖維再生利用技術研發等。股東資訊顯示，該公司由中國石化上海石油化工股份有限公司及上述新增股東共同持股。
-
----
-
-### 2026-07-02 10:20:49  #央行 #其他
-
-越南央行副行長：截至6月26日，銀行貸款同比增長18.1%。
-
----
-
-### 2026-07-02 10:20:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #Copper
-
-【China approves mandatory PV energy-use and efficiency standards covering polysilicon, wafers, modules and inverters】China on July 2 approved and published three mandatory national standards setting energy‑consumption limits and efficiency thresholds across the photovoltaic value chain. The Ministry of Industry and Information Technology, jointly with the National Development and Reform Commission and SAMR, issued: Energy Consumption Limit per Unit Product for Monocrystalline Silicon; Energy Efficiency Limit Values and Efficiency Grades for Crystalline Silicon Photovoltaic Modules and Inverters; and Energy Consumption Limit per Unit Product for Polysilicon and Germanium. The standards cover key links including polysilicon, wafers, modules and inverters, impose graded energy and efficiency metrics to curb high‑energy, low‑efficiency capacity, and introduce a coupled environmental‑stress degradation rate metric for modules. Industry bodies will accelerate promotion and implementation. Authorities say the rules aim to strengthen China’s PV industry competitiveness and support the country’s green low‑carbon transition and dual‑carbon targets.
-
----
-
-### 2026-07-02 10:20:36  #宏觀
-
-【國臺辦：熱忱歡迎兩岸同胞相互來往 結伴遊覽】國務院臺辦舉行例行新聞釋出會，有記者問：今年6月28日是“大陸居民赴臺個人遊”啟動15週年。有輿論認為，“旅遊是沒有語言的感動，也是兩岸共贏的最佳方式”，近距離互動，方能化解分歧。請問發言人對此有何評論？發言人朱鳳蓮表示，旅遊是人與景的邂逅，是人與人的相逢。赴臺團隊遊、個人遊是互利共贏的好事。島內業界對此滿懷期待。我們熱忱歡迎兩岸同胞相互來往，結伴遊覽。兩岸山水相依、文脈同源，我們期待更多兩岸同胞能夠跨越海峽走訪交流，不斷增進同胞情誼，拉近心理距離。
-
----
-
-### 2026-07-02 10:20:21  #國際
-
-日本內閣官房長官木原稔：尋求與印度建立更緊密的戰略關係。
-
----
-
-### 2026-07-02 10:19:32  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-A-share electric motor sector rebounded; Fangzheng Motor hit the daily limit, with Yuxin Electronics, Sanxie Motor, Huayang Intelligent, Weiguang Co., Jiangsu Leili and Zhongdian Motor also rising.
-
----
-
-### 2026-07-02 10:19:28  #市場
-
-ST東時盤中漲停，上演“地天板”，成交額超4400萬元。
-
----
-
-### 2026-07-02 10:18:54  #公司 #市場
-
-【電機板塊震盪反彈，方正電機直線漲停】電機板塊震盪反彈，方正電機直線漲停，瑜欣電子、三協電機、華陽智慧、微光股份、江蘇雷利、中電電機等跟漲。
-
----
-
-### 2026-07-02 10:17:54  #其他
-
-【光伏能耗能效國標釋出 築牢光伏產業綠色發展底線】從工業和資訊化部獲悉，今天（7月2日），三項光伏領域強制性國家標準正式批准釋出，圍繞矽料、矽片、光伏元件、逆變器全鏈條劃定能耗能效剛性約束，以標準化手段完善光伏產業鏈綠色管控體系，為新能源產業高質量發展提供製度支撐。工業和資訊化部聯合國家發展改革委、國家市場監督管理總局釋出《矽單晶單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽多晶和鍺單位產品能源消耗限額》三項光伏能耗能效強制性國家標準，覆蓋多晶矽、矽片、元件、逆變器等光伏產業鏈關鍵環節，分等級設定相關產品能耗能效指標，嚴控各環節高耗能低效產能；針對元件，創新納入耦合環境應力衰減率評價指標。據瞭解，三項標準系統銜接、協同發力，既提高光伏產品綠色准入門檻，促進光伏產業轉型升級；又統一全鏈條能耗能效核算規則，促進光伏這一綠色能源更加綠色低碳。下一步，行業有關組織將加快推動標準的宣貫解讀及應用實施，以剛性標準夯實我國光伏全球產業競爭力，支撐能源綠色低碳轉型與“雙碳”目標落地。
-
----
-
-### 2026-07-02 10:17:26  #市場 #焦點
-
-ST東時盤中漲停，上演“地天板”，現報2.82元，成交額4474.25萬元。
-
----
-
-### 2026-07-02 10:17:16  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-Vietnam deputy central bank governor said the VND is under pressure as the USD strengthens; Vietnam central bank will stabilize the FX market.
 
 ---

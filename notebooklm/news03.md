@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-04 05:18:14_
-_本檔包含 2956 則快訊，約 506625 字_
+_更新時間：2026-07-04 06:37:01_
+_本檔包含 2960 則快訊，約 506282 字_
+
+---
+
+### 2026-07-02 10:21:05  #公司
+
+【內蒙古新金山碳纖維有限公司增資至12億，增幅100%】天眼查App顯示，近日，內蒙古新金山碳纖維有限公司發生工商變更，肖斌卸任法定代表人，由金宏偉接任，新增中國石油化工股份有限公司、烏審旗國有資本投資集團有限公司等為股東，同時，註冊資本由6億人民幣增至12億人民幣，增幅100%。該公司成立於2025年2月，經營範圍包括高效能纖維及複合材料製造、石墨及碳素製品製造、合成纖維製造、碳纖維再生利用技術研發等。股東資訊顯示，該公司由中國石化上海石油化工股份有限公司及上述新增股東共同持股。
+
+---
+
+### 2026-07-02 10:20:49  #央行 #其他
+
+越南央行副行長：截至6月26日，銀行貸款同比增長18.1%。
+
+---
+
+### 2026-07-02 10:20:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #Copper
+
+【China approves mandatory PV energy-use and efficiency standards covering polysilicon, wafers, modules and inverters】China on July 2 approved and published three mandatory national standards setting energy‑consumption limits and efficiency thresholds across the photovoltaic value chain. The Ministry of Industry and Information Technology, jointly with the National Development and Reform Commission and SAMR, issued: Energy Consumption Limit per Unit Product for Monocrystalline Silicon; Energy Efficiency Limit Values and Efficiency Grades for Crystalline Silicon Photovoltaic Modules and Inverters; and Energy Consumption Limit per Unit Product for Polysilicon and Germanium. The standards cover key links including polysilicon, wafers, modules and inverters, impose graded energy and efficiency metrics to curb high‑energy, low‑efficiency capacity, and introduce a coupled environmental‑stress degradation rate metric for modules. Industry bodies will accelerate promotion and implementation. Authorities say the rules aim to strengthen China’s PV industry competitiveness and support the country’s green low‑carbon transition and dual‑carbon targets.
+
+---
+
+### 2026-07-02 10:20:36  #宏觀
+
+【國臺辦：熱忱歡迎兩岸同胞相互來往 結伴遊覽】國務院臺辦舉行例行新聞釋出會，有記者問：今年6月28日是“大陸居民赴臺個人遊”啟動15週年。有輿論認為，“旅遊是沒有語言的感動，也是兩岸共贏的最佳方式”，近距離互動，方能化解分歧。請問發言人對此有何評論？發言人朱鳳蓮表示，旅遊是人與景的邂逅，是人與人的相逢。赴臺團隊遊、個人遊是互利共贏的好事。島內業界對此滿懷期待。我們熱忱歡迎兩岸同胞相互來往，結伴遊覽。兩岸山水相依、文脈同源，我們期待更多兩岸同胞能夠跨越海峽走訪交流，不斷增進同胞情誼，拉近心理距離。
+
+---
+
+### 2026-07-02 10:20:21  #國際
+
+日本內閣官房長官木原稔：尋求與印度建立更緊密的戰略關係。
+
+---
+
+### 2026-07-02 10:19:32  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+A-share electric motor sector rebounded; Fangzheng Motor hit the daily limit, with Yuxin Electronics, Sanxie Motor, Huayang Intelligent, Weiguang Co., Jiangsu Leili and Zhongdian Motor also rising.
+
+---
+
+### 2026-07-02 10:19:28  #市場
+
+ST東時盤中漲停，上演“地天板”，成交額超4400萬元。
+
+---
+
+### 2026-07-02 10:18:54  #公司 #市場
+
+【電機板塊震盪反彈，方正電機直線漲停】電機板塊震盪反彈，方正電機直線漲停，瑜欣電子、三協電機、華陽智慧、微光股份、江蘇雷利、中電電機等跟漲。
+
+---
+
+### 2026-07-02 10:17:54  #其他
+
+【光伏能耗能效國標釋出 築牢光伏產業綠色發展底線】從工業和資訊化部獲悉，今天（7月2日），三項光伏領域強制性國家標準正式批准釋出，圍繞矽料、矽片、光伏元件、逆變器全鏈條劃定能耗能效剛性約束，以標準化手段完善光伏產業鏈綠色管控體系，為新能源產業高質量發展提供製度支撐。工業和資訊化部聯合國家發展改革委、國家市場監督管理總局釋出《矽單晶單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽多晶和鍺單位產品能源消耗限額》三項光伏能耗能效強制性國家標準，覆蓋多晶矽、矽片、元件、逆變器等光伏產業鏈關鍵環節，分等級設定相關產品能耗能效指標，嚴控各環節高耗能低效產能；針對元件，創新納入耦合環境應力衰減率評價指標。據瞭解，三項標準系統銜接、協同發力，既提高光伏產品綠色准入門檻，促進光伏產業轉型升級；又統一全鏈條能耗能效核算規則，促進光伏這一綠色能源更加綠色低碳。下一步，行業有關組織將加快推動標準的宣貫解讀及應用實施，以剛性標準夯實我國光伏全球產業競爭力，支撐能源綠色低碳轉型與“雙碳”目標落地。
+
+---
+
+### 2026-07-02 10:17:26  #市場 #焦點
+
+ST東時盤中漲停，上演“地天板”，現報2.82元，成交額4474.25萬元。
+
+---
+
+### 2026-07-02 10:17:16  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+Vietnam deputy central bank governor said the VND is under pressure as the USD strengthens; Vietnam central bank will stabilize the FX market.
 
 ---
 
@@ -17781,47 +17847,5 @@ Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56
 ### 2026-07-01 15:29:14  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
 
 India 10Y Yield Falls as Tax Break Spurs Inflows — The yield on India’s 10-year G-Sec fell to around 6.74%, reaching a fifteen-week low as record foreign inflows into government bonds boosted demand after recent tax incentives for overseas investors. Investor demand strengthened after the government scrapped taxes on capital gains and interest income for foreign investors in sovereign bonds under the Fully Accessible Route and added new FAR-eligible securities. The measures drove record monthly foreign purchases of INR 418 billion in June, nearly double the previous record of INR 239 billion set in August 2024. Further weighing on yields, the central bank reportedly intervened in the foreign exchange market through state-run banks to support the rupee. Analysts cautioned inflows could slow if global financial conditions tighten and US rates remain elevated. Still, stronger overseas participation could support India's inclusion in the Bloomberg Global Aggregate Index, with Goldman Sachs estimating about $15 billion in passive inflows.
-
----
-
-### 2026-07-01 15:29:03  #其他
-
-【“攜寵出行”更便捷 鐵路“愛寵行”服務進一步擴大範圍】記者從中鐵快運瞭解到，為更好地向攜帶寵物出行的旅客提供便利，今天（7月1日）起，鐵路“愛寵行”服務進一步擴大範圍，並同步對這項服務進行了最佳化。本次“愛寵行”服務範圍進行了拓展，新增長白山、天津、濟南、無錫、廈門、深圳、北海、南寧、遵義等32座辦理車站，新增G7、G44等92趟動車組列車承接寵物託運業務。目前，“愛寵行”服務累計覆蓋163座高鐵車站、364趟動車組列車。（央視新聞）
-
----
-
-### 2026-07-01 15:29:01  #Trading Economics #Economy #Turkey #Manufacturing PMI #Importance 1
-
-Turkey Manufacturing Contraction Deepens — The Istanbul Chamber of Industry Türkiye Manufacturing PMI fell to 47.1 in June from 49.8 in May, signaling a sharper deterioration in manufacturing conditions and extending the sector's downturn to 27 consecutive months. Output contracted again after returning to growth in May, amid weaker demand and market uncertainty stemming from the war in the Middle East. New orders declined further, while new export orders returned to contraction after expanding in May. Employment and purchasing activity also declined in response to softer demand. Meanwhile, suppliers' delivery times lengthened again as the conflict disrupted raw material supplies, although the deterioration was the least marked since February. On prices, both input cost and output price inflation eased for a second straight month, with input cost inflation slowing to the weakest since November despite higher oil and raw material costs. Lastly, inventories of purchases and finished goods declined amid muted demand.
-
----
-
-### 2026-07-01 15:28:44  #MKT News
-
-Foreign media reported on July 1, citing sources, that U.S. and Iranian officials will hold indirect talks in Doha, Qatar.
-
----
-
-### 2026-07-01 15:28:35  #公司
-
-【三星員工喊出“2026大逃亡”：獎金差最高100倍，有人應聘SK海力士】近日，三星電子內部因績效獎金分配差距引發員工不滿，家電與移動部門正出現“離職潮”苗頭。隨著競爭對手SK海力士啟動招聘，不少三星員工在內部聊天室轉發招聘連結，並留言稱“好訊息來了”“2026大逃亡開始了”。引發不滿的導火索，是家電與移動部門和半導體部門之間懸殊的績效獎金差距。三星電子家電與移動部門主要負責電視、家電和智慧手機業務；半導體部門則受益於近期半導體行業繁榮，今年獲得了價值數億韓元的績效獎金。相比之下，家電與移動部門員工僅以“結算金”名義獲得價值600萬韓元的公司股票，由此引發強烈不滿。在家電與移動部門工作第五年的員工A某，正準備應聘SK海力士截至7月6日開放的有經驗員工招聘崗位。他表示，自己求職時甚至沒有投遞過SK海力士，但如今決定“逃離三星電子”。（紅星新聞）
-
----
-
-### 2026-07-01 15:28:32  #國際
-
-【外交部：巴拉圭政府和領導人應早日站到歷史正確的一邊】7月1日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，巴拉圭外交部長昨日表示，只要不必中斷與臺灣地區的聯絡，巴拉圭對與中國大陸開展貿易持開放態度。外交部對此有何評論？“中方已經多次就有關問題闡明立場。”郭嘉昆表示，巴拉圭政府和領導人應該順應歷史潮流和人民願望，早日站到歷史正確的一邊，站到國際社會絕大多數國家的一邊，做出符合本國根本和長遠利益的正確的決斷，不要再自陷孤立。（北京日報）
-
----
-
-### 2026-07-01 15:28:28  #MKT News #Market Regions
-
-【China says Lai administration's 'diplomacy of lies' exposed after Honduras clarification】On July 1 foreign ministry spokesman Guo Jiakun said Honduras' foreign ministry had clarified it did not discuss restoring diplomatic ties with Taiwan, a move he said exposed the Lai Ching-te administration's 'diplomacy of lies.' Guo reiterated that Taiwan independence lacks popular support and is destined to fail, and said China, on the one‑China principle, is willing to advance China‑Honduras relations for the benefit of both peoples.
-
----
-
-### 2026-07-01 15:28:11  #MKT News #WTI #Impact bearish #Brent
-
-【China urges early lifting of unilateral sanctions on Iran】At a July 1 regular press briefing, Foreign Ministry spokesman Guo Jiakun said China consistently advocates early removal of unilateral sanctions on Iran. Asked about US steps to lift sanctions and how Chinese firms should adapt as 60‑day oil waivers progress, Guo urged the United States and Iran to implement the signed memorandum of understanding and continue negotiations toward a comprehensive political settlement.
 
 ---

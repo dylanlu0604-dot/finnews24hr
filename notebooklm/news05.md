@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-04 05:18:14_
-_本檔包含 2619 則快訊，約 505889 字_
+_更新時間：2026-07-04 06:37:01_
+_本檔包含 2601 則快訊，約 506379 字_
+
+---
+
+### 2026-06-29 16:02:51  #公司
+
+【通靈股份：持股5%以上股東、實控人之一質押690萬股】通靈股份公告稱，公司持股5%以上股東、實際控制人之一嚴華女士將690萬股辦理質押，佔其所持股份44.51%，佔公司總股本5.75%，質押用途為融資，質押起始日為2026年6月24日，至辦理解除質押登記手續之日止。截至公告披露日，嚴華累計質押股份690萬股，佔其持股的44.51%。上述質押不會導致公司實際控制權變更，對公司經營管理、公司治理無重大影響。
+
+---
+
+### 2026-06-29 16:02:26  #MKT News
+
+Sources said mediators have set up communication channels to reduce the risk of escalation from any incidents, and technical talks between the US and Iran will continue.
+
+---
+
+### 2026-06-29 16:02:12  #其他
+
+【贛鋒鋰電：積極響應動力和儲能電池企業供應商賬款支付規範倡議】6月29日，中國汽車動力電池產業創新聯盟聯合中關村儲能產業技術聯盟釋出《動力和儲能電池企業供應商賬款支付規範倡議》。對此，贛鋒鋰電錶示，積極響應倡議號召。未來將持續最佳化供應商管理體系，打造規範透明的賬款支付流程；加強技術研發，持續推出適配各類場景的電池產品與解決方案，與廣大合作伙伴攜手同行，共同推動動力及儲能電池產業高質量發展。
+
+---
+
+### 2026-06-29 16:02:00  #其他
+
+英國政府：國防科學與技術實驗室將在未來四年內獲得5.8億英鎊的基礎設施資金支援。該資金是國防投資計劃的一部分。
+
+---
+
+### 2026-06-29 16:01:48  #MKT News
+
+UK government to allocate £580 million in infrastructure funding to the Defence Science and Technology Laboratory over the next four years under the Defence Investment Plan.
+
+---
+
+### 2026-06-29 16:01:36  #市場 #國際
+
+美國標普500迷你股指期貨上漲0.70%，道瓊斯股指期貨上漲0.38%，納斯達克100股指期貨上漲1.05%。
+
+---
+
+### 2026-06-29 16:01:27  #其他
+
+倫敦金屬交易所（LME）：鋁庫存減少1500噸，鎳庫存減少372噸，鋅庫存減少775噸，銅庫存減少3375噸，錫庫存減少40噸，鉛庫存減少450噸。
+
+---
+
+### 2026-06-29 16:01:24  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminium #Nickel
+
+LME stocks fell: copper down 3,375 t, aluminium down 1,500 t, zinc down 775 t, lead down 450 t, nickel down 372 t, tin down 40 t.
+
+---
+
+### 2026-06-29 16:01:22  #公司 #市場
+
+【美股大型科技股盤前漲跌互現，微軟漲1%】美股大型科技股盤前漲跌互現，Meta、SpaceX、微軟、英偉達漲1%，亞馬遜漲0.9%，谷歌A漲0.8%，特斯拉漲0.6%，蘋果漲0.2%。
+
+---
+
+### 2026-06-29 16:01:20  #市場
+
+【美股中概股盤前多數上漲，盛美漲5%】美股中概股盤前多數上漲，盛美漲5%，百度、網易漲2%，嗶哩嗶哩、拼多多、攜程、貝殼漲1%，理想汽車跌2%。
+
+---
+
+### 2026-06-29 16:01:17  #焦點 #國際
+
+知情人士表示，負責落實該諒解備忘錄的伊朗與美國技術團隊將於近日在多哈舉行會晤。
+
+---
+
+### 2026-06-29 16:01:17  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Euro area three-month annualised M3 money supply +3.0% in May vs 2.7% expected; prior 2.7%.
+
+---
+
+### 2026-06-29 16:01:06  #MKT News #Economic Calendar #Important
+
+Eurozone | 3-mo M3 Money Supply (YoY) (May) | actual 3% | consensus 2.7% | previous 2.7%
+
+---
+
+### 2026-06-29 16:01:02  #MKT News
+
+Sources said technical teams from Iran and the United States will meet in Doha in the coming days to discuss implementation of a memorandum of understanding (MOU).
+
+---
+
+### 2026-06-29 16:00:52  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+【UK political uncertainty fuels heavy sterling shorting】After Starmer's resignation as UK prime minister, markets have focused on who potential successor Burnham would appoint as chancellor and on the likely fiscal policy path. Latest CFTC weekly data show investors hold $8.72bn of sterling short positions, the largest since May 2015 when $9.567bn was recorded.
+
+---
+
+### 2026-06-29 16:00:39  #觀點
+
+【大摩：預計鈉電池2030年市佔率升至20% 將拉動原鹽需求持續增長】摩根士丹利分析師預測，鈉離子電池在全球電池總裝機量中的市場份額將迎來大幅攀升：2027年約為2%，2030年將達到20%，2035年則將進一步升至37%。大摩表示，鈉離子電池之所以受到青睞，是因為其成本比磷酸鐵鋰（LFP）電池低30%至40%，且在低溫環境下的效能表現更為優異。隨著鈉離子電池需求的加速增長，原鹽將具備極為重要的戰略地位。
+
+---
+
+### 2026-06-29 16:00:11  #MKT News #000660.KS #Impact mixed
+
+【SK Hynix says new-factory financing will rely mainly on operating cash flow and timing will be flexible】SK Hynix said financing for new factory construction will primarily rely on operating cash flow and the company will flexibly adjust financing scale and timing to market conditions. It is exploring multiple financing options, including partnerships with global partners, and said factory sites outside South Korea that meet its criteria may be considered. The company plans phased cleanroom construction and staggered production ramps.
+
+---
+
+### 2026-06-29 16:00:09  #其他
+
+歐元區5月M3貨幣供應同比 3.2%，預期 2.7%，前值 2.7%。
+
+---
+
+### 2026-06-29 16:00:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 1.71% — Top commodity gainers are Natural Gas UK (1.71%), Natural Gas EU (1.54%), Heating Oil (0.98%) and Crude Oil WTI (0.39%). Biggest loser is Natural gas (-0.84%). Meanwhile Brent Crude Oil was little changed.
+
+---
+
+### 2026-06-29 16:00:09  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Eurozone M3 money supply YoY for May 3.2% vs 2.7% prior.
+
+---
+
+### 2026-06-29 16:00:02  #MKT News #Economic Calendar #Important
+
+Eurozone | M3 Money Supply (YoY) (May) | actual 3.2% | previous 2.70%
+
+---
+
+### 2026-06-29 16:00:00  #MKT News #Market Regions #Greater China
+
+【Tianjin further optimizes housing provident fund policy】Tianjin has introduced a convenience measure allowing eligible contributors, their spouses and both parents to make a one‑time withdrawal from housing provident fund accounts to cover downpayments on presale homes. Eligibility requires purchase of presale housing within Tianjin using a housing provident fund (combined) loan or a commercial mortgage; the presale project must have the downpayment‑withdrawal service enabled by the Tianjin Housing Provident Fund Management Center. If the buyer and spouse have no property and no mortgage record, they may also simultaneously withdraw from both parents' provident fund accounts.
 
 ---
 
@@ -15605,245 +15737,5 @@ Agricultural Commodities Updates: Rubber Plunges by 6.02% — Top commodity lose
 ### 2026-06-27 06:37:28  #其他
 
 玻利維亞經濟部：玻利維亞政府將實施靈活匯率制度。
-
----
-
-### 2026-06-27 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.27%), Iron Ore CNY (1.77%) and Gold (1.49%).
-
----
-
-### 2026-06-27 06:34:32  #市場 #國際
-
-ICE歐洲期貨交易所：交易所交易商持倉報告(COT)資料顯示，截至6月23日，飼料小麥投機者淨空頭倉位增加375手，至375手。
-
----
-
-### 2026-06-27 06:32:59  #公司 #焦點 #國際
-
-市場訊息：美國解除對Anthropic強大Claude Mythos 5人工智慧模型的限制，允許該公司向100多家美國機構釋出。
-
----
-
-### 2026-06-27 06:32:33  #國際
-
-市場訊息：美國向部分企業釋出強大的Anthropic模型Mythos。
-
----
-
-### 2026-06-27 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Brent Crude Oil Drops by 3.07% — Top commodity losers are Brent Crude Oil (-3.07%), Crude Oil WTI (-2.34%) and Heating Oil (-1.79%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (1.90%).
-
----
-
-### 2026-06-27 06:29:50  #國際
-
-歐洲地中海地震中心（EMSC）將委內瑞拉地震震級由 5.4 級修正至 4.9 級。
-
----
-
-### 2026-06-27 06:29:22  #國際
-
-【伊朗革命衛隊：多份與美衝突相關宣告為偽造內容】當地時間27日，伊朗伊斯蘭革命衛隊公共關係部負責人表示，近期在社交媒體上流傳的、涉及與美國發生衝突的所謂“革命衛隊宣告”均為偽造內容。從數小時前開始，多份被歸為伊朗伊斯蘭革命衛隊的文字和宣告在社交媒體上流傳，但革命衛隊公關負責人表示，這些內容均不是由革命衛隊釋出。當地時間6月26日，美軍中央司令部發布宣告表示，美軍中央司令部部隊當日對伊朗實施了打擊。伊朗學生通訊社27日凌晨報道稱，伊朗伊斯蘭革命衛隊表示，革命衛隊的海軍與空軍挫敗了美軍對錫裡克島發動的襲擊，迫使侵略軍隊撤退，以此捍衛伊朗對其領土及水域的主權。隨後，伊朗學生通訊社刪除了這一報道。（央視新聞）
-
----
-
-### 2026-06-27 06:28:21  #國際
-
-伊朗方面訊息：援引知情人士訊息，不久前兩枚彈體擊中格什姆島馬桑村區域。
-
----
-
-### 2026-06-27 06:28:03  #國際
-
-伊朗國家媒體援引伊朗革命衛隊訊息稱，該部隊對該地區多處美軍部署地點發動了打擊。
-
----
-
-### 2026-06-27 06:27:40  #其他
-
-市場訊息：委內瑞拉強震感明顯，此前數日當地剛發生多場強震。
-
----
-
-### 2026-06-27 06:27:14  #國際
-
-歐洲地中海地震中心（EMSC）訊息：委內瑞拉阿拉瓜州近海發生 5.4 級地震。
-
----
-
-### 2026-06-27 06:15:17  #其他
-
-據中國駐委內瑞拉大使館訊息，截至當地時間26日17時，據不完全統計，已確認有7名中國公民在“6·24地震”中遇難。（新華社）
-
----
-
-### 2026-06-27 06:15:05  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Depreciates by 0.69% — Top currency losers are Norwegian Krone (-0.69%), Australian Dollar (-0.31%), Turkish Lira (-0.27%) and Dollar Index (-0.06%). Gains are led by South Korean Won (0.67%), Brazilian Real (0.43%), Indian Rupee (0.33%), Euro (0.12%) and British Pound (0.07%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-06-27 06:12:23  #公司 #國際
-
-【Anthropic據悉正接近與美國政府達成協議 AI模型限制有望解除】據知情人士透露，Anthropic PBC與特朗普政府正在接近達成解除對這家人工智慧公司兩款最先進模型限制的協議，此前雙方就係統安全問題進行了數週談判。這些知情人士表示，美國商務部長霍華德·盧特尼克在緩解安全顧慮方面正取得進展，這將有助於取消商務部對Anthropic的Fable 5和Mythos 5系統實施的出口管制。他們表示，一旦政府各部門官員批准，這些限制措施就可能被解除。因討論未公開訊息而要求匿名的這些知情人士表示，參與談判的包括Anthropic聯合創始人Tom Brown在內的多名高管，他於近日會見了盧特尼克及其他政府高層官員。知情人士稱，美國官員已告知Anthropic，相關限制在政府的安全擔憂得到解決後就會解除。目前尚不清楚白宮及其他積極參與人工智慧政策制定的政府機構將以多快的速度給予批准。一名美國官員表示，商務部正努力與Anthropic達成解決方案，並尋求確保整個政府在相關決定上保持一致。
-
----
-
-### 2026-06-27 06:09:42  #焦點 #國際
-
-美國副總統萬斯在社交平臺 X 發文：若伊朗對諒解備忘錄存在異議，可主動致電溝通。
-
----
-
-### 2026-06-27 06:08:58  #國際
-
-美國副總統萬斯談及伊朗：以暴力回應暴力。
-
----
-
-### 2026-06-27 06:06:46  #其他
-
-世界銀行：已批准為孟加拉國兩個專案提供11億美元資金。
-
----
-
-### 2026-06-27 06:02:27  #其他
-
-英國國家電網系統運營商：本週五晚高峰用電時段的發電裕度通知已取消。
-
----
-
-### 2026-06-27 06:00:25  #焦點 #國際
-
-伊朗法爾斯通訊社援引伊朗革命衛隊公共關係辦公室的訊息表示，美軍發動襲擊後，革命衛隊尚未釋出任何宣告。
-
----
-
-### 2026-06-27 05:50:27  #國際
-
-伊朗議會國家安全委員會主席表示，"魯莽違反停火協議"將導致美方"退卻與後悔"。。
-
----
-
-### 2026-06-27 05:49:10  #焦點 #國際
-
-伊朗議會國家安全委員會主席表示，特朗普未對談判原則或停火作出任何承諾。
-
----
-
-### 2026-06-27 05:46:09  #國際
-
-委內瑞拉代總統： 接到了美國總統特朗普與美國國務卿魯比奧 的來電，二人重申，在委內瑞拉當前艱難時刻，美國政府將給予我方支援。
-
----
-
-### 2026-06-27 05:45:42  #國際
-
-市場訊息：美國商務部部長推進工作，有望解除對 Anthropic 的出口管制。 美國與 Anthropic 的談判取得進展。白宮及其他相關機構仍有待審批簽字。
-
----
-
-### 2026-06-27 05:44:38  #其他
-
-Anthropic 推進與美方達成協議，以解除針對其 AI 模型的相關限制。
-
----
-
-### 2026-06-27 05:33:08  #市場
-
-遊戲驛站盤後上漲5.2%。
-
----
-
-### 2026-06-27 05:30:23  #焦點 #國際
-
-美國稱此次空襲並不意味著恢復大規模作戰行動。
-
----
-
-### 2026-06-27 05:30:04  #國際
-
-遊戲驛站在提交給美國證券交易委員會(SEC)的檔案中表示，預計2026財年調整後息稅折舊攤銷前利潤(EBITDA)將超過6億美元。
-
----
-
-### 2026-06-27 05:29:50  #其他
-
-市場訊息：TRACTOR SUPPLY與4-H攜手星鏈，共同彌合鄉村社群數字鴻溝。
-
----
-
-### 2026-06-27 05:29:28  #公司
-
-遊戲驛站公司：仍專注於推進對eBay公司的擬議收購。
-
----
-
-### 2026-06-27 05:27:37  #國際
-
-【伊朗革命衛隊稱將回應美軍襲擊當地時間今天（6月27日）凌晨，伊朗伊斯蘭革命衛隊表示，伊朗南部錫裡克地區遭美軍襲擊，革命衛隊將對美軍襲擊作出“迅速而果斷”的回應。伊朗國家電視臺援引一名知情人士的話報道稱，“兩枚彈體”擊中了錫裡克地區的一座通訊塔。 （CCTV國際時訊）
-
----
-
-### 2026-06-27 05:27:12  #國際
-
-美國運輸部：聯邦航空管理局針對多款波音飛機發布適航指令。
-
----
-
-### 2026-06-27 05:23:56  #國際
-
-Dlocal 宣佈被納入美國羅素 2000 小盤股指數。
-
----
-
-### 2026-06-27 05:23:36  #市場 #國際
-
-【紐約油價自美伊戰事以來首次跌破每桶70美元】隨著市場聚焦於中東地緣政治衝突局勢改善和石油供應增加前景，國際原油期貨價格26日顯著下跌，紐約原油期貨近月合約價格收盤價自3月以來首次跌破每桶70美元。截至26日收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.69美元，收於每桶69.23美元，跌幅為3.74%；8月交貨的倫敦布倫特原油期貨價格下跌3.27美元，收於每桶71.99美元，跌幅為4.34%。（新華社）
-
----
-
-### 2026-06-27 05:22:43  #國際
-
-多家媒體報道：聯合國安理會將於莫斯科時間 6 月 29 日 22 時召開會議，審議烏克蘭武裝部隊襲擊搭載白俄羅斯公民巴士一事。
-
----
-
-### 2026-06-27 05:21:49  #國際
-
-美國高階官員：美國今晚對伊朗襲擊的所有目標都位於霍爾木茲海峽沿岸。
-
----
-
-### 2026-06-27 05:21:13  #其他
-
-標普道瓊斯指數：Gulfport Energy與Mobility Global將納入標普小型股600指數。
-
----
-
-### 2026-06-27 05:19:44  #其他
-
-【委內瑞拉地震920人遇難3360人傷】據委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間6月26日下午通報，委內瑞拉地震已造成920人遇難、3360人受傷，另有172人仍被困於廢墟之下。 此外，截至當天下午，一個接收失蹤報告的網站登記在案的失蹤人數已超過5萬人。（CCTV國際時訊）
-
----
-
-### 2026-06-27 05:19:19  #焦點 #國際
-
-市場訊息：今晚美國對伊朗的空襲行動已經結束。
-
----
-
-### 2026-06-27 05:18:46  #焦點 #國際
-
-伊朗革命衛隊表示，將迅速、果斷地回擊美軍襲擊。
-
----
-
-### 2026-06-27 05:18:19  #焦點 #國際
-
-伊朗革命衛隊稱美軍襲擊錫裡克島，伊朗已擊退此次進攻。
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-04 05:18:14_
-_本檔包含 2450 則快訊，約 507061 字_
+_更新時間：2026-07-04 06:37:01_
+_本檔包含 2435 則快訊，約 506221 字_
+
+---
+
+### 2026-07-01 15:29:03  #其他
+
+【“攜寵出行”更便捷 鐵路“愛寵行”服務進一步擴大範圍】記者從中鐵快運瞭解到，為更好地向攜帶寵物出行的旅客提供便利，今天（7月1日）起，鐵路“愛寵行”服務進一步擴大範圍，並同步對這項服務進行了最佳化。本次“愛寵行”服務範圍進行了拓展，新增長白山、天津、濟南、無錫、廈門、深圳、北海、南寧、遵義等32座辦理車站，新增G7、G44等92趟動車組列車承接寵物託運業務。目前，“愛寵行”服務累計覆蓋163座高鐵車站、364趟動車組列車。（央視新聞）
+
+---
+
+### 2026-07-01 15:29:01  #Trading Economics #Economy #Turkey #Manufacturing PMI #Importance 1
+
+Turkey Manufacturing Contraction Deepens — The Istanbul Chamber of Industry Türkiye Manufacturing PMI fell to 47.1 in June from 49.8 in May, signaling a sharper deterioration in manufacturing conditions and extending the sector's downturn to 27 consecutive months. Output contracted again after returning to growth in May, amid weaker demand and market uncertainty stemming from the war in the Middle East. New orders declined further, while new export orders returned to contraction after expanding in May. Employment and purchasing activity also declined in response to softer demand. Meanwhile, suppliers' delivery times lengthened again as the conflict disrupted raw material supplies, although the deterioration was the least marked since February. On prices, both input cost and output price inflation eased for a second straight month, with input cost inflation slowing to the weakest since November despite higher oil and raw material costs. Lastly, inventories of purchases and finished goods declined amid muted demand.
+
+---
+
+### 2026-07-01 15:28:44  #MKT News
+
+Foreign media reported on July 1, citing sources, that U.S. and Iranian officials will hold indirect talks in Doha, Qatar.
+
+---
+
+### 2026-07-01 15:28:35  #公司
+
+【三星員工喊出“2026大逃亡”：獎金差最高100倍，有人應聘SK海力士】近日，三星電子內部因績效獎金分配差距引發員工不滿，家電與移動部門正出現“離職潮”苗頭。隨著競爭對手SK海力士啟動招聘，不少三星員工在內部聊天室轉發招聘連結，並留言稱“好訊息來了”“2026大逃亡開始了”。引發不滿的導火索，是家電與移動部門和半導體部門之間懸殊的績效獎金差距。三星電子家電與移動部門主要負責電視、家電和智慧手機業務；半導體部門則受益於近期半導體行業繁榮，今年獲得了價值數億韓元的績效獎金。相比之下，家電與移動部門員工僅以“結算金”名義獲得價值600萬韓元的公司股票，由此引發強烈不滿。在家電與移動部門工作第五年的員工A某，正準備應聘SK海力士截至7月6日開放的有經驗員工招聘崗位。他表示，自己求職時甚至沒有投遞過SK海力士，但如今決定“逃離三星電子”。（紅星新聞）
+
+---
+
+### 2026-07-01 15:28:32  #國際
+
+【外交部：巴拉圭政府和領導人應早日站到歷史正確的一邊】7月1日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，巴拉圭外交部長昨日表示，只要不必中斷與臺灣地區的聯絡，巴拉圭對與中國大陸開展貿易持開放態度。外交部對此有何評論？“中方已經多次就有關問題闡明立場。”郭嘉昆表示，巴拉圭政府和領導人應該順應歷史潮流和人民願望，早日站到歷史正確的一邊，站到國際社會絕大多數國家的一邊，做出符合本國根本和長遠利益的正確的決斷，不要再自陷孤立。（北京日報）
+
+---
+
+### 2026-07-01 15:28:28  #MKT News #Market Regions
+
+【China says Lai administration's 'diplomacy of lies' exposed after Honduras clarification】On July 1 foreign ministry spokesman Guo Jiakun said Honduras' foreign ministry had clarified it did not discuss restoring diplomatic ties with Taiwan, a move he said exposed the Lai Ching-te administration's 'diplomacy of lies.' Guo reiterated that Taiwan independence lacks popular support and is destined to fail, and said China, on the one‑China principle, is willing to advance China‑Honduras relations for the benefit of both peoples.
+
+---
+
+### 2026-07-01 15:28:11  #MKT News #WTI #Impact bearish #Brent
+
+【China urges early lifting of unilateral sanctions on Iran】At a July 1 regular press briefing, Foreign Ministry spokesman Guo Jiakun said China consistently advocates early removal of unilateral sanctions on Iran. Asked about US steps to lift sanctions and how Chinese firms should adapt as 60‑day oil waivers progress, Guo urged the United States and Iran to implement the signed memorandum of understanding and continue negotiations toward a comprehensive political settlement.
 
 ---
 
@@ -14645,137 +14687,5 @@ SpaceX股價盤前上漲1.4%，此前該公司確認將納入納斯達克100指�
 ### 2026-06-29 16:02:55  #公司
 
 【先河環保：實際控制人與其一致行動人到期解除一致行動關係】先河環保公告稱，公司實際控制人姚國瑞先生與李玉國先生的一致行動關係約定於2026年6月28日到期，到期後一致行動關係自動解除。本次權益變動系一致行動關係到期解除所致，不涉及股東持股數量和持股比例變動，不會導致公司控股股東、實際控制人發生變更，也不會對公司的治理結構、持續經營產生不利影響。
-
----
-
-### 2026-06-29 16:02:51  #公司
-
-【通靈股份：持股5%以上股東、實控人之一質押690萬股】通靈股份公告稱，公司持股5%以上股東、實際控制人之一嚴華女士將690萬股辦理質押，佔其所持股份44.51%，佔公司總股本5.75%，質押用途為融資，質押起始日為2026年6月24日，至辦理解除質押登記手續之日止。截至公告披露日，嚴華累計質押股份690萬股，佔其持股的44.51%。上述質押不會導致公司實際控制權變更，對公司經營管理、公司治理無重大影響。
-
----
-
-### 2026-06-29 16:02:26  #MKT News
-
-Sources said mediators have set up communication channels to reduce the risk of escalation from any incidents, and technical talks between the US and Iran will continue.
-
----
-
-### 2026-06-29 16:02:12  #其他
-
-【贛鋒鋰電：積極響應動力和儲能電池企業供應商賬款支付規範倡議】6月29日，中國汽車動力電池產業創新聯盟聯合中關村儲能產業技術聯盟釋出《動力和儲能電池企業供應商賬款支付規範倡議》。對此，贛鋒鋰電錶示，積極響應倡議號召。未來將持續最佳化供應商管理體系，打造規範透明的賬款支付流程；加強技術研發，持續推出適配各類場景的電池產品與解決方案，與廣大合作伙伴攜手同行，共同推動動力及儲能電池產業高質量發展。
-
----
-
-### 2026-06-29 16:02:00  #其他
-
-英國政府：國防科學與技術實驗室將在未來四年內獲得5.8億英鎊的基礎設施資金支援。該資金是國防投資計劃的一部分。
-
----
-
-### 2026-06-29 16:01:48  #MKT News
-
-UK government to allocate £580 million in infrastructure funding to the Defence Science and Technology Laboratory over the next four years under the Defence Investment Plan.
-
----
-
-### 2026-06-29 16:01:36  #市場 #國際
-
-美國標普500迷你股指期貨上漲0.70%，道瓊斯股指期貨上漲0.38%，納斯達克100股指期貨上漲1.05%。
-
----
-
-### 2026-06-29 16:01:27  #其他
-
-倫敦金屬交易所（LME）：鋁庫存減少1500噸，鎳庫存減少372噸，鋅庫存減少775噸，銅庫存減少3375噸，錫庫存減少40噸，鉛庫存減少450噸。
-
----
-
-### 2026-06-29 16:01:24  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminium #Nickel
-
-LME stocks fell: copper down 3,375 t, aluminium down 1,500 t, zinc down 775 t, lead down 450 t, nickel down 372 t, tin down 40 t.
-
----
-
-### 2026-06-29 16:01:22  #公司 #市場
-
-【美股大型科技股盤前漲跌互現，微軟漲1%】美股大型科技股盤前漲跌互現，Meta、SpaceX、微軟、英偉達漲1%，亞馬遜漲0.9%，谷歌A漲0.8%，特斯拉漲0.6%，蘋果漲0.2%。
-
----
-
-### 2026-06-29 16:01:20  #市場
-
-【美股中概股盤前多數上漲，盛美漲5%】美股中概股盤前多數上漲，盛美漲5%，百度、網易漲2%，嗶哩嗶哩、拼多多、攜程、貝殼漲1%，理想汽車跌2%。
-
----
-
-### 2026-06-29 16:01:17  #焦點 #國際
-
-知情人士表示，負責落實該諒解備忘錄的伊朗與美國技術團隊將於近日在多哈舉行會晤。
-
----
-
-### 2026-06-29 16:01:17  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Euro area three-month annualised M3 money supply +3.0% in May vs 2.7% expected; prior 2.7%.
-
----
-
-### 2026-06-29 16:01:06  #MKT News #Economic Calendar #Important
-
-Eurozone | 3-mo M3 Money Supply (YoY) (May) | actual 3% | consensus 2.7% | previous 2.7%
-
----
-
-### 2026-06-29 16:01:02  #MKT News
-
-Sources said technical teams from Iran and the United States will meet in Doha in the coming days to discuss implementation of a memorandum of understanding (MOU).
-
----
-
-### 2026-06-29 16:00:52  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-【UK political uncertainty fuels heavy sterling shorting】After Starmer's resignation as UK prime minister, markets have focused on who potential successor Burnham would appoint as chancellor and on the likely fiscal policy path. Latest CFTC weekly data show investors hold $8.72bn of sterling short positions, the largest since May 2015 when $9.567bn was recorded.
-
----
-
-### 2026-06-29 16:00:39  #觀點
-
-【大摩：預計鈉電池2030年市佔率升至20% 將拉動原鹽需求持續增長】摩根士丹利分析師預測，鈉離子電池在全球電池總裝機量中的市場份額將迎來大幅攀升：2027年約為2%，2030年將達到20%，2035年則將進一步升至37%。大摩表示，鈉離子電池之所以受到青睞，是因為其成本比磷酸鐵鋰（LFP）電池低30%至40%，且在低溫環境下的效能表現更為優異。隨著鈉離子電池需求的加速增長，原鹽將具備極為重要的戰略地位。
-
----
-
-### 2026-06-29 16:00:11  #MKT News #000660.KS #Impact mixed
-
-【SK Hynix says new-factory financing will rely mainly on operating cash flow and timing will be flexible】SK Hynix said financing for new factory construction will primarily rely on operating cash flow and the company will flexibly adjust financing scale and timing to market conditions. It is exploring multiple financing options, including partnerships with global partners, and said factory sites outside South Korea that meet its criteria may be considered. The company plans phased cleanroom construction and staggered production ramps.
-
----
-
-### 2026-06-29 16:00:09  #其他
-
-歐元區5月M3貨幣供應同比 3.2%，預期 2.7%，前值 2.7%。
-
----
-
-### 2026-06-29 16:00:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Gains by 1.71% — Top commodity gainers are Natural Gas UK (1.71%), Natural Gas EU (1.54%), Heating Oil (0.98%) and Crude Oil WTI (0.39%). Biggest loser is Natural gas (-0.84%). Meanwhile Brent Crude Oil was little changed.
-
----
-
-### 2026-06-29 16:00:09  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-Eurozone M3 money supply YoY for May 3.2% vs 2.7% prior.
-
----
-
-### 2026-06-29 16:00:02  #MKT News #Economic Calendar #Important
-
-Eurozone | M3 Money Supply (YoY) (May) | actual 3.2% | previous 2.70%
-
----
-
-### 2026-06-29 16:00:00  #MKT News #Market Regions #Greater China
-
-【Tianjin further optimizes housing provident fund policy】Tianjin has introduced a convenience measure allowing eligible contributors, their spouses and both parents to make a one‑time withdrawal from housing provident fund accounts to cover downpayments on presale homes. Eligibility requires purchase of presale housing within Tianjin using a housing provident fund (combined) loan or a commercial mortgage; the presale project must have the downpayment‑withdrawal service enabled by the Tianjin Housing Provident Fund Management Center. If the buyer and spouse have no property and no mortgage record, they may also simultaneously withdraw from both parents' provident fund accounts.
 
 ---
