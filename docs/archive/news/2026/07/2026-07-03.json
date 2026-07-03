@@ -1,7 +1,90 @@
 {
   "date": "2026-07-03",
-  "count": 2578,
+  "count": 2587,
   "items": [
+    {
+      "id": "4969925",
+      "time": "2026-07-03 22:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭銅礦企業KGHM：該專案獲得審批許可可能需要約6年時間。"
+    },
+    {
+      "id": "mkt:019f284d-4286-7aab-8c97-5934956650ce",
+      "time": "2026-07-03 22:06:19",
+      "tags": [
+        "MKT News",
+        "GFL.N",
+        "Impact bearish"
+      ],
+      "text": "GFL Environmental transaction may face obstacles; talks remain at an early stage."
+    },
+    {
+      "id": "mkt:019f284c-e408-7aab-8c97-54796070e22e",
+      "time": "2026-07-03 22:05:55",
+      "tags": [
+        "MKT News",
+        "GFL.TO",
+        "Impact bullish"
+      ],
+      "text": "GFL Environmental, the Canadian environmental services group, is considering going private after receiving acquisition interest from private equity firms and is consulting advisers; the company received preliminary takeover approaches in recent months."
+    },
+    {
+      "id": "te:markets:564187",
+      "time": "2026-07-03 22:05:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for the fourth session on Friday, rising about 2.5% to its highest since June 19 at 2,717 points, mainly supported by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, was up for a fourth day, climbing 4.6% to 4,100 points, fueled by stronger iron ore shipments from Australia and Brazil, while Chinese curbs on some Fortescue deliveries limited steel mill buying. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, increased by 0.4% to 2,203 points. On the other hand, the supramax index edged down by 0.1% to 1,673 points. The benchmark index recorded a weekly gain of 7.6%."
+    },
+    {
+      "id": "4969924",
+      "time": "2026-07-03 22:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：在多家收購公司表示出興趣後，GFL正在考慮私有化。"
+    },
+    {
+      "id": "mkt:019f284c-2287-7aab-8c97-4b9190fa6f76",
+      "time": "2026-07-03 22:05:05",
+      "tags": [
+        "MKT News",
+        "CON.DE",
+        "Impact mixed"
+      ],
+      "text": "German auto parts supplier Continental is set to finalise an agreement to sell its ContiTech business."
+    },
+    {
+      "id": "4969923",
+      "time": "2026-07-03 22:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波蘭銅礦企業KGHM的銅礦專案依託梅羅希諾礦床開發，該礦床的地質資源量估計超過3.03億噸。"
+    },
+    {
+      "id": "4969922",
+      "time": "2026-07-03 22:03:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月3日增減持彙總】7月3日盤後，據不完全統計，戈碧迦、光力科技、資料港、宏和科技、海鷗股份、皖儀科技、漢邦科技等7家A股上市公司披露擬減持情況。當日暫無A股公司披露增持情況。"
+    },
+    {
+      "id": "4969921",
+      "time": "2026-07-03 22:03:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST葫蘆娃：股票交易異常波動 不存在應披露未披露重大事項】ST葫蘆娃公告稱，公司股票於2026年7月1日至7月3日連續3個交易日內收盤價格漲幅偏離值累計超過12%，屬於異常波動情形。經自查，公司目前生產經營正常，主營業務未變，不存在應披露而未披露的重大資訊，未發現對股價有影響的媒體報道或市場傳聞，相關人員在此期間也無買賣公司股票情況。此外，公司因收到行政處罰事先告知書，於2026年5月21日起疊加實施其他風險警示，最終結果以正式處罰決定為準。"
+    },
     {
       "id": "mkt:019f2849-9868-7aab-8c97-428c2ede5c92",
       "time": "2026-07-03 22:02:19",
