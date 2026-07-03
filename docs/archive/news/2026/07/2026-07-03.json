@@ -1,7 +1,117 @@
 {
   "date": "2026-07-03",
-  "count": 554,
+  "count": 566,
   "items": [
+    {
+      "id": "4968441",
+      "time": "2026-07-03 08:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPIC公佈關於FABLE 5網路防護的更多細節，稱無意阻礙網路安全相關活動。"
+    },
+    {
+      "id": "4968440",
+      "time": "2026-07-03 08:04:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報61.68美元/盎司。"
+    },
+    {
+      "id": "mkt:019f2549-c4de-7aab-8c86-15f3fef7088a",
+      "time": "2026-07-03 08:03:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI turned negative after an early-session gain of 1.4%."
+    },
+    {
+      "id": "4968439",
+      "time": "2026-07-03 08:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲各方避免刺激中東緊張局勢升級】當地時間2日，聯合國安理會舉行中東局勢緊急公開會。針對近期美國和伊朗軍事對抗再度升級，中方代表在會上呼籲各方避免威脅言論和軍事冒險行動，避免刺激緊張局勢升級。中國常駐聯合國代表傅聰在發言中表示，最近美國和伊朗發生新一輪相互襲擊，巴林和科威特境內目標遭到波及。中方一貫主張，各方都應遵守《聯合國憲章》宗旨和原則，反對在國際關係中使用或威脅使用武力。中方呼籲各方保持冷靜剋制，避免採取威脅言論和軍事冒險行動，避免刺激緊張局勢升級。中方同時強調，中東地區各國主權、安全和領土完整都應得到尊重，平民和非軍事目標都應得到保護。"
+    },
+    {
+      "id": "mkt:019f2548-579a-7aab-8c86-0d1e929f3260",
+      "time": "2026-07-03 08:02:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal, citing sources, reported U.S. Defense Secretary Hegseth intended to announce further cuts to U.S. forces in Europe at last month’s NATO defense ministers meeting in Brussels, but the plan was vetoed."
+    },
+    {
+      "id": "4968438",
+      "time": "2026-07-03 08:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“醫保找藥”功能上線 覆蓋全國所有定點醫療機構、零售藥店 】為進一步提升醫保服務便捷性，國家醫保局依託全國統一的醫保資訊平臺開發了“醫保找藥”功能，幫助參保群眾更便捷查詢醫保藥品及商保創新藥在哪裡可以買得到，讓參保群眾購藥更高效、更透明、更省心。 “醫保找藥”功能可以便捷查詢某種藥一個月內在哪家醫保定點醫療機構或定點藥店有過結算記錄，並實現每日資料更新。功能覆蓋了全國所有定點醫療機構和定點零售藥店，且支援醫保藥品及創新藥的模糊查詢和精準檢索。"
+    },
+    {
+      "id": "mkt:019f2548-16e9-7aab-8c86-032fe1527bba",
+      "time": "2026-07-03 08:01:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI opened 107.5 points higher, up 1.41%, at 7,755.59 on Friday, July 3. Samsung Electronics rose over 2%; SK Hynix gained about 1%."
+    },
+    {
+      "id": "mkt:019f2547-acb1-7aab-8c85-f81507b83c21",
+      "time": "2026-07-03 08:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index opened up 79.28 points, or 0.12%, at 68,812.43 on Friday, July 3."
+    },
+    {
+      "id": "4968437",
+      "time": "2026-07-03 08:01:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數上漲1.5%，至7763.52點。"
+    },
+    {
+      "id": "4968436",
+      "time": "2026-07-03 08:01:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1.5個基點，至3.780%。"
+    },
+    {
+      "id": "4968435",
+      "time": "2026-07-03 08:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌0.5個基點，至1.925%。"
+    },
+    {
+      "id": "4968434",
+      "time": "2026-07-03 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.2%，至7739.75點。"
+    },
     {
       "id": "4968433",
       "time": "2026-07-03 08:00:21",
