@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-03 23:41:23",
-  "count": 13521,
+  "updated": "2026-07-03 23:45:26",
+  "count": 13516,
   "items": [
+    {
+      "id": "4969993",
+      "time": "2026-07-03 23:42:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委馬赫魯夫表示，歐洲央行有絕對的意願實現2%的通脹目標。"
+    },
+    {
+      "id": "4969992",
+      "time": "2026-07-03 23:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理防長賽義德·伊本·禮薩：伊朗可一邊與對手談判，一邊與之對抗；他警告，若美國在談判期間 “違背承諾”，德黑蘭方面將在戰場上作出回擊。 在談判全程以及伊美雙方達成共識所約定的 60 天期限內，伊朗都將在 “各領域” 維持並強化軍事部署。 伊朗武裝部隊已處於 “最高戰備狀態”，並警告美方若再有任何 “新的挑釁或誤判行為”，伊朗的反擊力度將比以往更為強硬。"
+    },
     {
       "id": "mkt:019f28a3-aa35-7aab-8c99-159d824c16cd",
       "time": "2026-07-03 23:40:42",
@@ -124469,73 +124486,6 @@
         "Impact bearish"
       ],
       "text": "【Kashkari says he expects one Fed rate hike in 2026】Fed official Kashkari said signs of broadening inflation led him to project one rate hike in 2026 in the Fed’s economic projections released earlier this month, with policy likely to be unchanged in 2027. In a Friday interview he said he is concerned inflation is not solely linked to the Middle East; the Iran war has pushed oil higher and price increases have broadened across categories. May PCE rose 4.1% YoY, the biggest gain since April 2023, and prices have exceeded the Fed’s 2% target for more than five years. The Fed’s dot plot released last week showed roughly half of officials expect at least one rate hike this year."
-    },
-    {
-      "id": "mkt:019f049a-766c-7dd8-b13a-a00cefa36895",
-      "time": "2026-06-26 23:44:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Federal Reserve's Kashkari said the situation in the Middle East is not yet fully clear."
-    },
-    {
-      "id": "4957829",
-      "time": "2026-06-26 23:44:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利： 中東局勢尚未出現全面緩和的訊號。"
-    },
-    {
-      "id": "mkt:019f049a-23b5-7dd8-b13a-991223f48d3c",
-      "time": "2026-06-26 23:43:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's President Lula vows to integrate defense matters into government plans."
-    },
-    {
-      "id": "4957828",
-      "time": "2026-06-26 23:43:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威海上油氣產區：受持續罷工及已公佈的停工封鎖措施影響，下週挪威石油、天然氣日產量或將減少 1.2 萬桶油當量。  若罷工持續至 7 月中旬後，油氣日產量損失或將超過 12 萬桶油當量。"
-    },
-    {
-      "id": "mkt:019f0499-b1f2-7dd8-b13a-96d4fb4df8ac",
-      "time": "2026-06-26 23:43:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve's Kashkari said the goal is to lower inflation without harming employment."
-    },
-    {
-      "id": "4957827",
-      "time": "2026-06-26 23:42:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：政策目標是在不損害就業的前提下壓低通脹。"
-    },
-    {
-      "id": "4957826",
-      "time": "2026-06-26 23:41:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4110美元/盎司，日內漲1.55%。"
     }
   ]
 }
