@@ -1,7 +1,195 @@
 {
   "date": "2026-07-03",
-  "count": 915,
+  "count": 935,
   "items": [
+    {
+      "id": "4968694",
+      "time": "2026-07-03 10:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲0.51%，報69,080.62點。"
+    },
+    {
+      "id": "mkt:019f25b5-732e-7aab-8c89-36bdf6379917",
+      "time": "2026-07-03 10:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Namibia president Netumbo Nandi-Ndaitwa to visit CHINA July 5-11】Namibia President Netumbo Nandi-Ndaitwa will make a state visit to CHINA from July 5 to 11 at the invitation of CHINA, the foreign ministry said."
+    },
+    {
+      "id": "mkt:019f25b5-4955-7aab-8c89-2c6ab22f2d68",
+      "time": "2026-07-03 10:01:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【OCBC: Gold remains an effective medium‑term diversifier】OCBC Group Research strategists say gold remains an effective medium‑term portfolio diversifier but prices may be pressured by a tougher macro backdrop. Central bank buying — several central banks have signalled plans to add to reserves over the next 12 months — should support demand. However, investors have largely priced Fed tightening; rising real yields and a stronger dollar are likely to exert short‑term headwinds that may not be fully offset. OCBC forecasts gold at $4,360/oz by end‑2026 and $4,680/oz by end‑Q2 2027."
+    },
+    {
+      "id": "4968693",
+      "time": "2026-07-03 10:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【奈米比亞總統恩代特瓦將訪華】外交部發言人宣佈：應國家主席習近平邀請，奈米比亞共和國總統內通博·南迪－恩代特瓦將於7月5日至11日對中國進行國事訪問。"
+    },
+    {
+      "id": "mkt:019f25b5-135c-7aab-8c89-200f88bb4312",
+      "time": "2026-07-03 10:00:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's 10-year government bond yield fell 1.5 bps to 2.765%."
+    },
+    {
+      "id": "te:markets:563945",
+      "time": "2026-07-03 10:00:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 18-year High — HSBC Holdings shares increased to 150.50 HKD, the highest since November 2007. Over the past 4 weeks, HSBC Holdings gained 2.31%, and in the last 12 months, it increased 58.46%."
+    },
+    {
+      "id": "4968692",
+      "time": "2026-07-03 10:00:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點至2.765%。"
+    },
+    {
+      "id": "te:markets:563944",
+      "time": "2026-07-03 10:00:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Head for Mixed Weekly Finish — The Shanghai Composite edged up 0.1% to around 4,031 on Friday, while the Shenzhen Component gained 0.6% to 15,586, with the benchmarks headed for a mixed weekly performance as technology stocks remained a key drag on sentiment. While investors remain convinced of the long-term growth potential of artificial intelligence, concerns have grown that valuations may have outpaced fundamentals amid escalating investment costs and intensifying competition across the industry, keeping the sector under pressure. Chinese technology shares were among the biggest laggards, led by NAURA Technology (-6.2%), Huagong Tech (-1.8%), and Victory Giant Technology (-3.5%), as well as semiconductor names GigaDevice Semiconductor (-3.7%) and SMIC (-0.4%). In contrast, notable gainers included energy stocks such as PetroChina (1.5%) and CNOOC (1.2%), alongside BYD (2.9%), Midea Group (3.3%), and Luxshare Precision Industry (4.6%)."
+    },
+    {
+      "id": "4968691",
+      "time": "2026-07-03 10:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "北證50指數漲超1%。"
+    },
+    {
+      "id": "4968690",
+      "time": "2026-07-03 09:59:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南6月份大米出口量為76.9萬噸，橡膠出口量為11.6萬噸。"
+    },
+    {
+      "id": "mkt:019f25b4-3e34-7aab-8c89-18b3c25e4d6e",
+      "time": "2026-07-03 09:59:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02295.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Fengcheng Holdings (02295.HK) resumed trading today, surging over 145% after receiving a mandatory unconditional cash offer from Lvsheng Global Energy for total consideration of HK$196 million."
+    },
+    {
+      "id": "4968689",
+      "time": "2026-07-03 09:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特稱特朗普的加密貨幣收益沒有問題。"
+    },
+    {
+      "id": "mkt:019f25b3-6d12-7aab-8c89-10745380b540",
+      "time": "2026-07-03 09:59:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "The Hang Seng Index opened higher and extended gains through the session, with intraday advance widening to about 2%."
+    },
+    {
+      "id": "4968688",
+      "time": "2026-07-03 09:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：6月出口508億美元，環比增長8.2%。"
+    },
+    {
+      "id": "4968687",
+      "time": "2026-07-03 09:58:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南6月份咖啡出口量達12.6萬噸。"
+    },
+    {
+      "id": "4968686",
+      "time": "2026-07-03 09:58:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超2%，現報23516.701點；恒生科技指數現漲2.255%。"
+    },
+    {
+      "id": "mkt:019f25b2-d48f-7aab-8c89-0b318b1e3e7d",
+      "time": "2026-07-03 09:58:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME nickel rose 2.00% intraday to $16,638.90 a tonne."
+    },
+    {
+      "id": "4968685",
+      "time": "2026-07-03 09:58:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南6月進口同比 45.2%，預期 35%，前值 33.8%。"
+    },
+    {
+      "id": "4968684",
+      "time": "2026-07-03 09:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南6月出口同比增長28.1%；預估+20.0%。"
+    },
+    {
+      "id": "4968683",
+      "time": "2026-07-03 09:57:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紫金礦業集團港股上漲9.3%，至30.80港元。"
+    },
     {
       "id": "4968682",
       "time": "2026-07-03 09:57:08",
