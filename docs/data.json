@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 04:26:37",
-  "count": 13364,
+  "updated": "2026-07-04 04:30:30",
+  "count": 13361,
   "items": [
+    {
+      "id": "4970111",
+      "time": "2026-07-04 04:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：普京宣佈俄軍“完全解放”盧甘斯克】俄羅斯總統新聞秘書佩斯科夫當地時間3日晚在臨時召開的新聞釋出會上介紹，俄總統普京宣佈俄軍已“完全解放”盧甘斯克並在頓涅茨克取得重大進展。 佩斯科夫當晚還宣佈，俄軍已完全佔領康斯坦丁諾夫卡市。（新華社）"
+    },
     {
       "id": "4970110",
       "time": "2026-07-04 04:23:55",
@@ -123011,44 +123019,6 @@
         "國際"
       ],
       "text": "市場訊息：美國軍方在霍爾木茲地區發動空襲。"
-    },
-    {
-      "id": "te:markets:562326",
-      "time": "2026-06-27 04:29:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Falls on Surging Hormuz Shipments — Crude oil fell nearly 4% toward $69 a barrel on Friday, the lowest since February 27, as shipping transits through the Strait of Hormuz accelerated. Volumes surged as vessels openly navigated the waterway following progress toward a US-Iran peace deal, restoring Persian Gulf exports to roughly 75% of prewar levels. Crucially, Saudi Arabia began loading tankers at its Ras Tanura terminal, signaling a major regional output ramp-up. Middle Eastern producers, including the United Arab Emirates, Kuwait, and Qatar, are boosting supply despite difficulties securing enough tankers to transport the additional crude. Iraq is also seeking a higher OPEC production quota to recoup the oil sales it lost during the war. Meanwhile, US President Donald Trump accused Iran of violating a ceasefire by shooting drones at ships in Hormuz. Crude oil recorded an over 10% weekly drop, the largest in a month."
-    },
-    {
-      "id": "4958008",
-      "time": "2026-06-27 04:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總統：達成框架協議是恢復黎主權的第一步】當地時間26日，黎巴嫩、以色列和美國在華盛頓宣佈達成三方框架協議。黎巴嫩總統約瑟夫·奧恩表示，框架協議將使得黎巴嫩人民能夠重返家園。奧恩稱，感謝駐華盛頓的黎巴嫩談判團隊，最終促成了黎巴嫩實現恢復其全部領土主權道路上的第一步。（央視新聞）"
-    },
-    {
-      "id": "te:markets:562325",
-      "time": "2026-06-27 04:28:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls as Hormuz Flows Recover Sharply — Brent crude oil fell to around $72 a barrel on Friday, the lowest since February 27, as shipping transits through the Strait of Hormuz accelerated. Volumes surged as vessels openly navigated the waterway following progress toward a US-Iran peace deal, restoring Persian Gulf exports to roughly 75% of prewar levels. Crucially, Saudi Arabia began loading tankers at its Ras Tanura terminal, signaling a major regional output ramp-up. Middle Eastern producers, including the United Arab Emirates, Kuwait, and Qatar, are boosting supply despite difficulties securing enough tankers to transport the additional crude. Iraq is also seeking a higher OPEC production quota to recoup the oil sales it lost during the war. Meanwhile, US President Donald Trump accused Iran of violating a ceasefire by shooting drones at ships in Hormuz. Brent recorded an over 10% weekly drop, the largest in a month."
-    },
-    {
-      "id": "4958007",
-      "time": "2026-06-27 04:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍：雪佛龍所有員工都已確認安全，其在委內瑞拉的設施安保到位且仍可正常運營。"
     }
   ]
 }
