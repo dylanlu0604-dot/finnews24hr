@@ -1,7 +1,33 @@
 {
   "date": "2026-07-04",
-  "count": 96,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:019f2954-7a17-7aab-8c9a-6dcab649ce6f",
+      "time": "2026-07-04 02:53:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE data: In the week ended June 30, speculators cut Brent crude futures net longs by 34,704 contracts to 55,634, and reduced diesel futures net longs by 2,664 contracts to 57,852."
+    },
+    {
+      "id": "4970053",
+      "time": "2026-07-04 02:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "洲際交易所布倫特原油投機交易者在截至 6 月 30 日當週減持 34704 手淨多頭頭寸，淨多頭持倉降至 55634 手。"
+    },
+    {
+      "id": "4970052",
+      "time": "2026-07-04 02:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所柴油投機客在截至 6 月 30 日當週削減 2664 手淨多頭持倉，淨多頭持倉降至 57852 手。"
+    },
     {
       "id": "mkt:019f294c-4988-7aab-8c9a-6142b6ccacec",
       "time": "2026-07-04 02:44:53",
