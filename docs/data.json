@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-04 01:18:45",
-  "count": 13471,
+  "updated": "2026-07-04 01:22:37",
+  "count": 13469,
   "items": [
+    {
+      "id": "mkt:019f28ff-a933-7aab-8c99-eca1ce62f686",
+      "time": "2026-07-04 01:21:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan maintains a long-term bullish outlook on gold and expects prices to rise further in 2027."
+    },
+    {
+      "id": "4970034",
+      "time": "2026-07-04 01:21:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通維持黃金長期看漲預期，並認為 2027 年金價將進一步回升。"
+    },
+    {
+      "id": "mkt:019f28fe-88b9-7aab-8c99-e43d156c425f",
+      "time": "2026-07-04 01:19:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE Brent September crude futures settled at $72.12 per barrel."
+    },
+    {
+      "id": "4970033",
+      "time": "2026-07-04 01:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風影響減弱 海南環島高鐵、三亞鳳凰國際機場明日恢復執行】從海南鐵路獲悉，隨著颱風影響減弱，預計4日9時55分起，海南環島高鐵、海口市域列車、三樂旅遊鐵路列車將逐步恢復開行。此外。隨著今年第10號颱風“美莎克”（熱帶風暴級）的影響逐漸減弱，三亞鳳凰國際機場於7月4日6時起陸續恢復航班執行。"
+    },
     {
       "id": "4970032",
       "time": "2026-07-04 01:17:39",
@@ -123974,64 +124014,6 @@
         "其他"
       ],
       "text": "委內瑞拉臨時總統羅德里格斯：委內瑞拉地震死亡人數升至920人。"
-    },
-    {
-      "id": "te:economy:562316",
-      "time": "2026-06-27 01:22:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Paraguay Economy Grows in Q1 2026 — Paraguay’s economy expanded 5.8% year-on-year in the first quarter of 2026, easing from a 6.2% increase in the previous quarter. The services sector rose 6.6% on strong performances in transportation, financial intermediation, household and government services, real estate, restaurants and hotels, business services, telecommunications, information services, and valuation services. Manufacturing activity increased 6.0%, supported by higher production of oils, dairy products, sugar, milling and bakery products, beverages and tobacco, chemical and pharmaceutical products, paper, wood, non-metallic minerals, basic metals, machinery and equipment, and other manufactured goods. Agriculture grew 8.2%, driven by stronger soybean, sugarcane, cassava, beans, sunflower, and tobacco output. The construction sector expanded 5.6% on faster private-sector project execution, while utilities rose 4.7%, supported by solid performances in electricity distribution, water supply, and sanitation."
-    },
-    {
-      "id": "mkt:019f04f3-dc6f-7dd8-b13c-710e39b84857",
-      "time": "2026-06-27 01:21:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "An Israeli official told i24News the Israel Defense Forces will not withdraw from the Yellow Line until Hezbollah is disarmed and no longer poses a threat to Israel, saying \"we will maintain freedom of action in the security zone.\""
-    },
-    {
-      "id": "mkt:019f04f3-21ef-7dd8-b13c-6f4d2421cf0c",
-      "time": "2026-06-27 01:21:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Venezuela earthquake death toll rises to 920."
-    },
-    {
-      "id": "4957882",
-      "time": "2026-06-27 01:20:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "裡德半導體（Reed Semiconductor）宣佈完成1億美元融資。"
-    },
-    {
-      "id": "mkt:019f04f2-eced-7dd8-b13c-67b79ee16490",
-      "time": "2026-06-27 01:20:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Reed Semiconductor said it closed a $100 million funding round."
-    },
-    {
-      "id": "4957881",
-      "time": "2026-06-27 01:20:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果民主共和國稱，埃博拉確診病例已升至 1203 例，其中包含 321 例死亡病例。"
     }
   ]
 }

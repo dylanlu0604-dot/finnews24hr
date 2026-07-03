@@ -1,7 +1,47 @@
 {
   "date": "2026-07-04",
-  "count": 55,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:019f28ff-a933-7aab-8c99-eca1ce62f686",
+      "time": "2026-07-04 01:21:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan maintains a long-term bullish outlook on gold and expects prices to rise further in 2027."
+    },
+    {
+      "id": "4970034",
+      "time": "2026-07-04 01:21:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通維持黃金長期看漲預期，並認為 2027 年金價將進一步回升。"
+    },
+    {
+      "id": "mkt:019f28fe-88b9-7aab-8c99-e43d156c425f",
+      "time": "2026-07-04 01:19:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE Brent September crude futures settled at $72.12 per barrel."
+    },
+    {
+      "id": "4970033",
+      "time": "2026-07-04 01:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風影響減弱 海南環島高鐵、三亞鳳凰國際機場明日恢復執行】從海南鐵路獲悉，隨著颱風影響減弱，預計4日9時55分起，海南環島高鐵、海口市域列車、三樂旅遊鐵路列車將逐步恢復開行。此外。隨著今年第10號颱風“美莎克”（熱帶風暴級）的影響逐漸減弱，三亞鳳凰國際機場於7月4日6時起陸續恢復航班執行。"
+    },
     {
       "id": "4970032",
       "time": "2026-07-04 01:17:39",
