@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-04 06:28:24",
-  "count": 13319,
+  "updated": "2026-07-04 06:32:11",
+  "count": 13317,
   "items": [
+    {
+      "id": "te:markets:564230",
+      "time": "2026-07-04 06:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 2.60% — Top commodity gainers are Natural Gas UK (2.60%), Heating Oil (2.33%), Natural Gas EU (2.30%), Brent Crude Oil (0.42%) and Crude Oil WTI (0.11%)."
+    },
     {
       "id": "te:markets:564229",
       "time": "2026-07-04 06:15:18",
@@ -122581,33 +122592,6 @@
         "國際"
       ],
       "text": "市場訊息：美國向部分企業釋出強大的Anthropic模型Mythos。"
-    },
-    {
-      "id": "te:markets:562332",
-      "time": "2026-06-27 06:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Drops by 3.07% — Top commodity losers are Brent Crude Oil (-3.07%), Crude Oil WTI (-2.34%) and Heating Oil (-1.79%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (1.90%)."
-    },
-    {
-      "id": "4958072",
-      "time": "2026-06-27 06:29:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心（EMSC）將委內瑞拉地震震級由 5.4 級修正至 4.9 級。"
-    },
-    {
-      "id": "4958071",
-      "time": "2026-06-27 06:29:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：多份與美衝突相關宣告為偽造內容】當地時間27日，伊朗伊斯蘭革命衛隊公共關係部負責人表示，近期在社交媒體上流傳的、涉及與美國發生衝突的所謂“革命衛隊宣告”均為偽造內容。從數小時前開始，多份被歸為伊朗伊斯蘭革命衛隊的文字和宣告在社交媒體上流傳，但革命衛隊公關負責人表示，這些內容均不是由革命衛隊釋出。當地時間6月26日，美軍中央司令部發布宣告表示，美軍中央司令部部隊當日對伊朗實施了打擊。伊朗學生通訊社27日凌晨報道稱，伊朗伊斯蘭革命衛隊表示，革命衛隊的海軍與空軍挫敗了美軍對錫裡克島發動的襲擊，迫使侵略軍隊撤退，以此捍衛伊朗對其領土及水域的主權。隨後，伊朗學生通訊社刪除了這一報道。（央視新聞）"
     }
   ]
 }
