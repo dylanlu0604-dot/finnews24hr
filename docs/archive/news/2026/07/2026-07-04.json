@@ -1,7 +1,40 @@
 {
   "date": "2026-07-04",
-  "count": 67,
+  "count": 71,
   "items": [
+    {
+      "id": "4970040",
+      "time": "2026-07-04 02:00:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空客（AIR.PA）執行長： 我們依舊看好歐洲合作。"
+    },
+    {
+      "id": "mkt:019f2922-533a-7aab-8c9a-1dba8aa5ab0a",
+      "time": "2026-07-04 01:59:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Airbus CEO said he is \"not necessarily optimistic\" about defense cooperation, saying countries are under pressure and have their own funding."
+    },
+    {
+      "id": "4970039",
+      "time": "2026-07-04 01:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客（AIR.PA）執行長：“對於防務合作未必持樂觀態度，各國當前面臨資金壓力，且都有各自的資金規劃。”"
+    },
+    {
+      "id": "mkt:019f2921-729c-7aab-8c9a-14958a967e95",
+      "time": "2026-07-04 01:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO: Ebola outbreak in DRC still spreading】WHO Africa regional director said on July 3 that weekly new Ebola cases in the Democratic Republic of Congo have reached the highest level since the outbreak began, with transmission continuing in eastern DRC's Ituri and North Kivu provinces."
+    },
     {
       "id": "4970038",
       "time": "2026-07-04 01:56:37",

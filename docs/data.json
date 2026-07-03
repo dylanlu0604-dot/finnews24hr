@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-04 01:57:27",
-  "count": 13450,
+  "updated": "2026-07-04 02:01:14",
+  "count": 13453,
   "items": [
+    {
+      "id": "4970040",
+      "time": "2026-07-04 02:00:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空客（AIR.PA）執行長： 我們依舊看好歐洲合作。"
+    },
+    {
+      "id": "mkt:019f2922-533a-7aab-8c9a-1dba8aa5ab0a",
+      "time": "2026-07-04 01:59:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Airbus CEO said he is \"not necessarily optimistic\" about defense cooperation, saying countries are under pressure and have their own funding."
+    },
+    {
+      "id": "4970039",
+      "time": "2026-07-04 01:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客（AIR.PA）執行長：“對於防務合作未必持樂觀態度，各國當前面臨資金壓力，且都有各自的資金規劃。”"
+    },
+    {
+      "id": "mkt:019f2921-729c-7aab-8c9a-14958a967e95",
+      "time": "2026-07-04 01:58:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO: Ebola outbreak in DRC still spreading】WHO Africa regional director said on July 3 that weekly new Ebola cases in the Democratic Republic of Congo have reached the highest level since the outbreak began, with transmission continuing in eastern DRC's Ituri and North Kivu provinces."
+    },
     {
       "id": "4970038",
       "time": "2026-07-04 01:56:37",
@@ -123825,16 +123858,6 @@
         "國際"
       ],
       "text": "【多明尼加附近海域發生5.2級地震】據美國地質調查局訊息，當地時間6月26日12時06分，多明尼加東南部附近海域發生5.2級地震，震源深度82千米。目前沒有引發海嘯預警。"
-    },
-    {
-      "id": "mkt:019f0516-ecd1-7dd8-b13c-d8c3f34c57cb",
-      "time": "2026-06-27 02:00:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【U.S. to decide who can access OpenAI's new ChatGPT model, Washington Post reports】The U.S. government will vet companies seeking to use OpenAI's latest model, GPT-5.6 (Sol), the Washington Post reports, marking a significant expansion of the Trump administration's oversight of Silicon Valley. OpenAI said the government will initially approve who can access the new model and that AI firms and government agencies will jointly develop a long-term regulatory framework. OpenAI warned it does not believe such a government approval process should become the default, saying it would prevent developers, enterprises, cybersecurity defenders and international partners from accessing the best tools."
     }
   ]
 }
