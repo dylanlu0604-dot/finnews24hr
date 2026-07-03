@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-04 00:46:56",
-  "count": 13476,
+  "updated": "2026-07-04 00:50:54",
+  "count": 13475,
   "items": [
+    {
+      "id": "4970019",
+      "time": "2026-07-04 00:49:17",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委Nagel強調下次利率決議需保持警惕】歐洲央行管理委員會委員Joachim Nagel表示，歐洲央行應繼續警惕通脹風險，並保持政策靈活性。Nagel說，當前局勢仍然非常動盪，並指出油價下跌出乎市場意料。“我們應當保持警惕，保持開放態度，無論未來發生什麼，都要保留政策選擇空間。我認為，這是我們目前能夠採取的最佳做法，也就是堅持逐次會議作出決策的方式。”本週早些時候，歐洲央行官員結束了在葡萄牙舉行的年度論壇，但對於是否還需要進一步加息，並未形成明確共識。歐洲央行上月提高借貸成本，是七國集團成員央行中首家因伊朗戰爭而採取加息行動的機構。"
+    },
+    {
+      "id": "te:economy:564215",
+      "time": "2026-07-04 00:49:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Remains Near One-Year Low — The Canadian dollar traded near 1.42 per USD in July, remaining close to a one-year low as pressure from lower oil prices outweighed a softer the US dollar following their weak jobs report. The Canadian currency continued to face headwinds from lower global oil prices, which have reduced Canada's terms-of-trade advantage and reinforced expectations that the BoC will maintain a dovish policy stance if disinflation continues. Domestic data provided only limited support, pointing to modest manufacturing growth and a labor market that remains soft but is showing signs of stabilizing. These conditions are expected to keep the BoC on hold. Meanwhile, uncertainty surrounding negotiations to revise the USMCA continued to weigh on the economic outlook and reduced prospects for future rate hikes. The US dollar, however, remained under pressure at the turn of the month as weak US jobs data lowered expectations of a near-term Fed rate hike."
+    },
+    {
+      "id": "4970018",
+      "time": "2026-07-04 00:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：已劃分六大區域共計 72 個細分行業，若中東衝突持續，這些行業將持續面臨潛在風險。"
+    },
+    {
+      "id": "mkt:019f28e1-468c-7aab-8c99-912d360a7b32",
+      "time": "2026-07-04 00:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's deputy defense minister said Iran and Pakistan could be the cornerstone of a new regional security arrangement."
+    },
     {
       "id": "mkt:019f28df-0645-7aab-8c99-8ef60d82c217",
       "time": "2026-07-04 00:45:32",
@@ -124036,56 +124075,6 @@
         "QCOM.O"
       ],
       "text": "Semafor reports Qualcomm (QCOM.O) plans to introduce a new smartphone chip architecture."
-    },
-    {
-      "id": "4957871",
-      "time": "2026-06-27 00:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "據 Semafor 訊息，高通計劃推出全新手機晶片架構。"
-    },
-    {
-      "id": "mkt:019f04d6-ae3a-7dd8-b13b-de961bd17545",
-      "time": "2026-06-27 00:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "U.S. oil rig count for the week to June 26 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019f04d4-2f47-7dd8-b13b-d632ee6b8f29",
-      "time": "2026-06-27 00:47:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to Iranian Nour News, an Islamic Revolutionary Guard Corps spokesman denied reports of a direct dividing line between Iran and the United States in the Strait of Hormuz, calling them \"complete lies\" and saying the strait is \"Iranian territory, unrelated to the US.\""
-    },
-    {
-      "id": "4957870",
-      "time": "2026-06-27 00:47:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "努爾新聞社訊息：伊朗革命衛隊發言人否認有關伊朗與美國在霍爾木茲海峽存在直接分界線的說法，稱其“完全是謊言”，並表示霍爾木茲海峽是“伊朗領土，與美國無關”。"
-    },
-    {
-      "id": "4957869",
-      "time": "2026-06-27 00:47:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "IMF首席經濟學家古蘭沙： 美聯儲此次舉措釋放強烈訊號，但各國央行仍需為長期利率提供某種形式指引。 美聯儲不再採用力度較強的貨幣政策前瞻性指引，這一做法 “完全恰當”。 市場總會解讀央行釋放的各類訊號；如有必要，央行將出手進行預期修正。"
     }
   ]
 }
