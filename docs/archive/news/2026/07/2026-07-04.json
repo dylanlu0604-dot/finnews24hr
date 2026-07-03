@@ -1,7 +1,31 @@
 {
   "date": "2026-07-04",
-  "count": 2,
+  "count": 4,
   "items": [
+    {
+      "id": "te:markets:564210",
+      "time": "2026-07-04 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.19% Higher — The FTSE 100 Index gained 21 points or 0.19 percent on Friday to close at 10673 points. Gains were led by Mondi (2.42%), Weir (2.33%) and Intermediate Capital (1.84%). Biggest losers were Intercontinental Hotels (-2.36%), Entain (-2.26%) and Pearson (-1.73%)."
+    },
+    {
+      "id": "te:markets:564209",
+      "time": "2026-07-04 00:05:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Posts Weekly Gain — The FTSE MIB rose 0.8% to close at 52,819 on Friday, with gains broad-based across sectors. Amplifon led the advance, climbing 4.7%, followed by Lottomatica (4.0%). Saipem gained 3.6% after announcing a new contract through its joint venture. AI-related stocks also outperformed ahead of financial statements, lifting Prysmian (3.0%) and STMicroelectronics (1.5%). Data centers-linked demand extended gains for utilities, led by A2A (2.0%) and Enel (1.4%). Leonardo added 1.1% after its Edgewing joint venture secured a £4.6 billion contract, while Avio and Fincantieri each rose around 1%. Banks remained supported as expectations of further interest rate hikes eased, with Mediobanca and BPER Banca both up 1.1%, and Banca Mediolanum gaining 0.9%. Insurers also advanced, led by Unipol (1.5%) and Generali (0.8%). On the downside, Stellantis fell 3.6% while luxury stocks lagged, with Brunello Cucinelli down 1.1%. For the week, the index gained 3.85%, rebounding from the previous week's decline."
+    },
     {
       "id": "te:markets:564208",
       "time": "2026-07-04 00:03:51",

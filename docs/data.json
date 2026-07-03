@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-04 00:06:19",
-  "count": 13513,
+  "updated": "2026-07-04 00:10:28",
+  "count": 13506,
   "items": [
+    {
+      "id": "te:markets:564210",
+      "time": "2026-07-04 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.19% Higher — The FTSE 100 Index gained 21 points or 0.19 percent on Friday to close at 10673 points. Gains were led by Mondi (2.42%), Weir (2.33%) and Intermediate Capital (1.84%). Biggest losers were Intercontinental Hotels (-2.36%), Entain (-2.26%) and Pearson (-1.73%)."
+    },
+    {
+      "id": "te:markets:564209",
+      "time": "2026-07-04 00:05:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Posts Weekly Gain — The FTSE MIB rose 0.8% to close at 52,819 on Friday, with gains broad-based across sectors. Amplifon led the advance, climbing 4.7%, followed by Lottomatica (4.0%). Saipem gained 3.6% after announcing a new contract through its joint venture. AI-related stocks also outperformed ahead of financial statements, lifting Prysmian (3.0%) and STMicroelectronics (1.5%). Data centers-linked demand extended gains for utilities, led by A2A (2.0%) and Enel (1.4%). Leonardo added 1.1% after its Edgewing joint venture secured a £4.6 billion contract, while Avio and Fincantieri each rose around 1%. Banks remained supported as expectations of further interest rate hikes eased, with Mediobanca and BPER Banca both up 1.1%, and Banca Mediolanum gaining 0.9%. Insurers also advanced, led by Unipol (1.5%) and Generali (0.8%). On the downside, Stellantis fell 3.6% while luxury stocks lagged, with Brunello Cucinelli down 1.1%. For the week, the index gained 3.85%, rebounding from the previous week's decline."
+    },
     {
       "id": "te:markets:564208",
       "time": "2026-07-04 00:03:51",
@@ -124348,112 +124372,6 @@
         "國際"
       ],
       "text": "【特朗普稱伊朗無人機襲擊霍爾木茲海峽船隻違反停火協議】當地時間6月26日，美國總統特朗普表示，伊朗至少向經過霍爾木茲海峽的船隻發射4架單向攻擊無人機，其中一架擊中一艘大型貨船上層甲板造成損壞，但船隻仍繼續航行。特朗普稱，美方擊落了其餘3架無人機，並表示伊朗此舉“明顯違反了我們的停火協議”。（央視新聞）"
-    },
-    {
-      "id": "te:markets:562305",
-      "time": "2026-06-27 00:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.69% Lower — The CAC 40 Index fell 58 points or 0.69 percent on Friday to close at 8373 points. Leading the losses are ArcelorMittal (-3.24%), STMicroelectronics (-3.23%) and Safran (-2.85%). Top gainers were Danone (3.06%), Edenred (1.99%) and Dassault Systemes (1.93%)."
-    },
-    {
-      "id": "mkt:019f04b1-c583-7dd8-b13a-e9c08654ad77",
-      "time": "2026-06-27 00:09:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed's Kashkari said he remains optimistic about labor market prospects despite AI."
-    },
-    {
-      "id": "4957847",
-      "time": "2026-06-27 00:09:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利： 人工智慧產業建設或意味著美聯儲將不得不加息。"
-    },
-    {
-      "id": "mkt:019f04b1-3966-7dd8-b13a-e0e09de432bd",
-      "time": "2026-06-27 00:09:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Governor Kashkari said AI build-out is clearly inflationary in the short term."
-    },
-    {
-      "id": "mkt:019f04b0-fcf9-7dd8-b13a-deafe0859ffe",
-      "time": "2026-06-27 00:08:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed's Kashkari said artificial intelligence has likely pushed up market interest rates."
-    },
-    {
-      "id": "te:markets:562304",
-      "time": "2026-06-27 00:07:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trim Losses — US equities cut earlier losses on Friday as lower oil prices softened inflationary risks. The S&P 500 and the Dow swung above the flatline, with the latter set to close at a record high of nearly 52,100. Evidence that oil tankers continued to cross the Strait of Hormuz improved the supply outlook from Middle Eastern energy, easing concerns of multiple rate hikes by the Fed this year. Companies in traditional economic sectors gained, with Visa and Walmart adding over 2%. Meanwhile, Eli Lilly soared 7% after the EU backed the use of its leukemia therapy. On the other hand, the Nasdaq 100 was 0.4% lower on fresh uncertainty on the AI trade. Chip producers slumped to trim yesterday's rally, which stemmed from the strong outlook by Micron. Its stock was 4% down, while Sandisk, Lam Research, and Western Digital fell up to 10%. The Dow is set to trade in more similar direction as tech-heavy counterparts on Monday as Alphabet will replace Verizon."
-    },
-    {
-      "id": "4957846",
-      "time": "2026-06-27 00:07:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利： 短期來看，人工智慧產業擴張明顯會推高通脹。 人工智慧相關因素或正在推高市場利率。"
-    },
-    {
-      "id": "te:markets:562303",
-      "time": "2026-06-27 00:07:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.17% Lower — The FTSE 100 Index dropped 18 points or 0.17 percent on Friday to close at 10512 points. Losses were led by Croda International (-3.94%), Berkeley (-3.92%) and Vistry Group (-3.21%). Offsetting the fall, top gainers were Endeavour (3.08%), Coca-Cola (2.84%) and Burberry (2.77%)."
-    },
-    {
-      "id": "mkt:019f04ae-a54c-7dd8-b13a-d5a6da8af07c",
-      "time": "2026-06-27 00:06:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【IMO: About 2,500 seafarers evacuated from Strait of Hormuz】IMO Secretary-General Domingues said on the 26th that since the evacuation plan for stranded seafarers in the Strait of Hormuz began on the 23rd, roughly 2,500 seafarers on 115 vessels have been evacuated, according to preliminary IMO tallies covering 3.5 days."
     }
   ]
 }
