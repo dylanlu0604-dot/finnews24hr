@@ -1,7 +1,102 @@
 {
   "date": "2026-07-03",
-  "count": 1342,
+  "count": 1352,
   "items": [
+    {
+      "id": "mkt:019f2691-b976-7aab-8c8c-7c3a42949629",
+      "time": "2026-07-03 14:01:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【GigaDevice and Desay SV agree strategic cooperation on domestic car-grade chips】July 3 — Chinese chipmaker GigaDevice and automotive electronics supplier Desay SV reached a strategic cooperation agreement to accelerate commercialization of domestically produced automotive-grade chips. The partners will leverage their car-grade chip and automotive-electronics design capabilities to foster upstream-downstream industry collaboration and support security and sustainable development of the China automotive electronics supply chain. Under the agreement they will deepen cooperation on memory and microcontroller product lines."
+    },
+    {
+      "id": "4968993",
+      "time": "2026-07-03 14:01:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2696.50點。"
+    },
+    {
+      "id": "mkt:019f2691-807d-7aab-8c8c-760ac22f7d6a",
+      "time": "2026-07-03 14:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 40-year government bond yield rose 1.5 bps to 3.870%."
+    },
+    {
+      "id": "4968992",
+      "time": "2026-07-03 14:00:36",
+      "tags": [
+        "兩會"
+      ],
+      "text": "湖南省政協副主席張灼華涉嫌嚴重職務違法， 目前正接受國家監委監察調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f2690-7aa8-7aab-8c8c-6ae1d4112eb2",
+      "time": "2026-07-03 14:00:30",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact mixed",
+        "WDC.O",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Kioxia CEO says capital expenditure could rise if market growth exceeds expectations."
+    },
+    {
+      "id": "4968991",
+      "time": "2026-07-03 14:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國推進開發前沿人工智慧模型並擴充套件基礎設施】韓國科學技術資訊通訊部副部長3日表示，韓國政府正在戰略性地重新審視其自主人工智慧基礎模式的構建。政府將推進以AI基礎設施、物理AI及自主模型能力建設為核心的大規模專案。副部長還指出，韓國為躋身全球前三AI強國，今年將AI預算提高至9.9萬億韓元，是去年的三倍。韓國政府正計劃擴大AI資料中心建設，預計到2029年建成8.4吉瓦的資料中心容量，到2035年再新增10吉瓦的資料中心容量。政府還設定目標，到2030年在物理AI領域躍居全球第一。同時，將推進“全民AI”專案，使所有公民都能使用AI服務。"
+    },
+    {
+      "id": "4968990",
+      "time": "2026-07-03 14:00:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新與德賽西威達成戰略合作】7月3日，兆易創新（GigaDevice）與德賽西威正式達成戰略合作。雙方將共同推進國產車規晶片的產業化落地。根據協議，德賽西威與兆易創新將深化在儲存和微控制器產品線的合作。"
+    },
+    {
+      "id": "mkt:019f268f-25ab-7aab-8c8c-655099b4d217",
+      "time": "2026-07-03 13:59:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea to scale frontier AI models and expand infrastructure】South Korea’s Ministry of Science and ICT vice minister said on the 3rd the government is re-evaluating plans to build sovereign foundational AI models and will pursue large-scale projects focused on AI infrastructure, physical AI and autonomous model capabilities. The government has raised its AI budget to 9.9 trillion won this year, about three times last year, targeting a top-three global AI ranking. Seoul plans to expand AI data-center capacity to 8.4 GW by 2029 and add a further 10 GW by 2035, and aims to lead the physical AI field by 2030 while advancing an AI-for-all program to give all citizens access to AI services. The ministry said on the 2nd there is no concrete decision yet to use excess semiconductor tax revenue to fund development of a MYTHOS-scale sovereign model."
+    },
+    {
+      "id": "4968989",
+      "time": "2026-07-03 13:59:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "鎧俠CEO：如果市場增長速度超出預期，可能會增加資本支出。"
+    },
+    {
+      "id": "4968988",
+      "time": "2026-07-03 13:58:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選等在煙臺成立新公司，註冊資本3200萬】天眼查App顯示，7月1日，蔚藍優智科技（煙臺）有限公司成立，法定代表人為李海明，註冊資本3200萬人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、服務消費機器人制造等。股東資訊顯示，該公司由煙臺深藍人才發展集團有限公司、優必選（09880.HK）共同持股。"
+    },
     {
       "id": "4968987",
       "time": "2026-07-03 13:58:05",
