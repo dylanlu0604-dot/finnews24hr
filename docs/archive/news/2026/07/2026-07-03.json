@@ -1,7 +1,96 @@
 {
   "date": "2026-07-03",
-  "count": 1310,
+  "count": 1319,
   "items": [
+    {
+      "id": "mkt:019f267c-d239-7aab-8c8c-2390c60c7233",
+      "time": "2026-07-03 13:39:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai holds July 7 briefing on preparations for 2026 World Artificial Intelligence Conference】The 2026 World Artificial Intelligence Conference and High-level Meeting on Global AI Governance will be held in Shanghai July 17-20. On July 7 the Shanghai municipal government held a press briefing; city leaders and officials from the Ministry of Foreign Affairs, the National Development and Reform Commission (NDRC), the Ministry of Industry and Information Technology (MIIT), the Shanghai Commission of Economy and Informatization and Donghao Lansheng Group outlined preparatory progress."
+    },
+    {
+      "id": "4968972",
+      "time": "2026-07-03 13:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華域汽車等成立科技公司 含貨物進出口業務】企查查APP顯示，近日，上海森索博科技有限公司成立，法定代表人為邱海漩，註冊資本為4000萬元，經營範圍包含汽車零配件批發；汽車零配件零售；技術進出口；貨物進出口等。企查查股權穿透顯示，該公司由華域汽車(600741)全資子公司上海匯眾汽車製造有限公司、上海淅減汽車懸架有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f267b-dbcf-7aab-8c8c-18b32be32b27",
+      "time": "2026-07-03 13:37:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【CITIGROUP: Brent could fall to $60/bbl by year-end as Strait of Hormuz disruptions ease】CITIGROUP says Brent crude could slide to $60/bbl by year-end as disruptions in the Strait of Hormuz abate. Analyst Francesco Martoccia notes fundamentals are rapidly normalizing: shipping flows are restoring, the spot crude market has weakened sharply and inventory draws have been far smaller than expected. The bank warns of initial volatility as shipping routes normalize, insurance markets reprice and residual logistics bottlenecks clear, but a return to orderly navigation and rising traffic suggests commercial operators increasingly view the risk as manageable."
+    },
+    {
+      "id": "4968971",
+      "time": "2026-07-03 13:37:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【預告：上海市政府7月7日舉行釋出會 介紹2026世界人工智慧大會籌備進展】2026世界人工智慧大會暨人工智慧全球治理高階別會議將於7月17日至20日在上海舉行。7月7日，上海市政府舉行新聞釋出會，邀請市領導及外交部、國家發展改革委、工業和資訊化部、市經濟資訊化委、東浩蘭生集團等相關負責人出席，介紹大會籌備進展情況，並答記者問。"
+    },
+    {
+      "id": "4968970",
+      "time": "2026-07-03 13:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國亞洲經濟發展協會會長權順基接受紀律審查和監察調查】據中央紀委國家監委駐中央社會工作部紀檢監察組、山東省紀委監委訊息：中國亞洲經濟發展協會會長權順基涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中央社會工作部紀檢監察組紀律審查和山東省煙臺市監察委員會監察調查。"
+    },
+    {
+      "id": "4968969",
+      "time": "2026-07-03 13:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國衛生部長表示，近期熱浪過後，6月22日至28日當週出現2,025例超額死亡。"
+    },
+    {
+      "id": "mkt:019f267a-04e5-7aab-8c8c-11bf515e92e4",
+      "time": "2026-07-03 13:35:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Citigroup says oil could fall to $60/bbl as the Strait of Hormuz shock fades."
+    },
+    {
+      "id": "mkt:019f2679-db13-7aab-8c8c-08f97e92b111",
+      "time": "2026-07-03 13:35:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【KB Securities: SK Hynix to benefit from accelerated AI investment in H2】KB Securities analysts led by Jeff Kim say SK Hynix will benefit in H2 from accelerating AI infrastructure investment and from a storage-chip supply shortage expected to persist through end-2028. \"Under continued expansion of AI-related investment, SK Hynix's earnings and share-price uptrend is far from over,\" they said. KB forecasts global AI investment at $800 bln in 2026, $1.1 tln in 2027 and $1.5 tln in 2028, and raised its 2026 operating profit forecast for SK Hynix by 3.6% to 290 tln won."
+    },
+    {
+      "id": "mkt:019f2679-5d88-7aab-8c8c-07a37eef771c",
+      "time": "2026-07-03 13:35:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 36.46 points, or 0.08%, at 46,780.62 on Friday, July 3."
+    },
     {
       "id": "4968968",
       "time": "2026-07-03 13:34:00",
