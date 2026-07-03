@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04 03:10:58",
-  "count": 13414,
+  "updated": "2026-07-04 03:14:44",
+  "count": 13413,
   "items": [
+    {
+      "id": "4970065",
+      "time": "2026-07-04 03:14:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“百基連發” 7月以來新發基金168只，權益類佔比近六成】下半年開局，公募基金便迎來了一波新發小高峰。資料顯示，7月基金新發數量達到168只，權益類產品佔比近六成，成為月度新發主力。此次權益賽道發行結構更趨均衡，佈局方向兼顧成長與價值兩大主線。（上證報）"
+    },
+    {
+      "id": "4970064",
+      "time": "2026-07-04 03:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商板塊 獲得機構密集調研，修復行情有望持續】6月下旬以來，沉寂許久的券商板塊驟然掀起行情浪潮。行情啟動前夕，機構調研風向已率先轉向券商賽道。Wind資料顯示，6月以來，有13家券商接受了證券、基金、外資等各類投資機構的調研，受訪券商數量較去年同期增長四成。展望半年報，多家機構預計上市券商淨利潤同比增速有望達50%。業內認為，本輪行情是基本面景氣與交易壓制出清共同作用的結果，當前板塊估值仍處於歷史偏低位置，隨著業績不斷驗證與資金面持續改善，券商板塊的估值修復行情具備較強持續性。（上證報）"
+    },
+    {
+      "id": "4970063",
+      "time": "2026-07-04 03:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長：在伊朗與阿曼對波斯灣及霍爾木茲海峽的“聯合管理”框架下，美國在地區的“干擾”將減少，從而為區域過境與交通合作創造更有利條件。"
+    },
+    {
+      "id": "4970062",
+      "time": "2026-07-04 03:12:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長：當前局勢較過去有所改善，美國已被迫接受新的地區格局。"
+    },
     {
       "id": "mkt:019f2963-9500-7aab-8c9a-97b7feee9ce0",
       "time": "2026-07-04 03:10:19",
@@ -123474,55 +123506,6 @@
         "國際"
       ],
       "text": "【機構：受中東樂觀情緒影響，油價回落至戰前水平】原油期貨因對霍爾木茲海峽供應的樂觀情緒而恢復跌勢，主要基準結算價處於或接近戰前水平。XS.com的Antonio Di Giacomo在一份報告中表示：“近期資料顯示，原油供應量已恢復到高位，這有助於恢復市場參與者的信心。“週四對一艘貨船的襲擊暫時引發了對海上安全的擔憂，但“交易員將其視為孤立事件，並繼續關注運輸和出口狀況的更廣泛改善。“布倫特原油結算價下跌4.3%，報每桶71.99美元，為2月26日以來的最低水平。西得州中質油下跌3.7%，至69.23美元，為2月27日以來的最低收盤價。"
-    },
-    {
-      "id": "4957935",
-      "time": "2026-06-27 03:14:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：布吉納法索斷絕與法國外交關係。"
-    },
-    {
-      "id": "4957934",
-      "time": "2026-06-27 03:12:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：外界預計安迪・伯納姆將於 7 月 17 日（週五）出任工黨領袖，並在 7 月 20 日（週一）、也就是世界盃決賽次日就任英國首相。"
-    },
-    {
-      "id": "mkt:019f0558-f893-7dd8-b13e-36685fc18cd4",
-      "time": "2026-06-27 03:12:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports Nissan's U.S. CEO wants to revive the automaker's \"edgy\" image."
-    },
-    {
-      "id": "mkt:019f0558-d9b8-7dd8-b13e-2f8abf57020a",
-      "time": "2026-06-27 03:12:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Netanyahu: IDF to remain in southern Lebanon \"security zone\" until Hezbollah disarms】In a televised address on the evening of the 26th, Israeli Prime Minister Netanyahu said representatives of Israel, Lebanon and the US signed a working-framework agreement in Washington. He said the Israel Defense Forces will remain long-term in a southern Lebanon \"security zone\" until Hezbollah is fully disarmed and no longer poses a threat to Israel. Netanyahu described the accord as a major achievement and a heavy blow to Iran, saying Tehran had sought to force an IDF withdrawal but Israel and the US have signaled that Iran, Hezbollah and other armed groups have no foothold in Lebanese affairs."
-    },
-    {
-      "id": "mkt:019f0558-4c64-7dd8-b13e-2373e98766c2",
-      "time": "2026-06-27 03:11:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.99% at 22,874, trading a 202-point premium to the cash index."
     }
   ]
 }
