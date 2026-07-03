@@ -1,7 +1,123 @@
 {
-  "updated": "2026-07-03 08:28:52",
-  "count": 13874,
+  "updated": "2026-07-03 08:32:38",
+  "count": 13875,
   "items": [
+    {
+      "id": "mkt:019f2563-6a3d-7aab-8c86-ace8bd9dba59",
+      "time": "2026-07-03 08:31:39",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares plunge, down 3.5%."
+    },
+    {
+      "id": "mkt:019f2562-da9a-7aab-8c86-a6a5a7b25286",
+      "time": "2026-07-03 08:31:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【China International Capital Co: Dollar index may return to weaker trading range】China International Capital Co says markets have entered a corrective phase since June: the dollar index broke above its one-year upper range while AI-driven global equity benchmarks and liquidity-sensitive indices have pulled back; US equities show a defensive-style bias. The report attributes the moves mainly to rising rate-hike expectations and marginal tightening in dollar liquidity. It reiterates the view that the Fed will be nominally hawkish but effectively dovish this year; policy implementation this year is more likely to focus on easing bank regulation to support the investment cycle and buy time for AI-driven productivity gains. After this round of adjustment markets may rotate into lagged-curve trades; the dollar index could revert to a weaker trading range. Real assets, industrials and technology retain expansion potential, and investors should watch banking deregulation for its potential to lift traditional cyclicals."
+    },
+    {
+      "id": "mkt:019f2562-78df-7aab-8c86-9e6fad7e2ff5",
+      "time": "2026-07-03 08:30:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI slipped below 7,500, down 2.05% intraday."
+    },
+    {
+      "id": "4968475",
+      "time": "2026-07-03 08:30:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌2.1%，至7491.25。"
+    },
+    {
+      "id": "mkt:019f2561-fab4-7aab-8c86-93f2f9592dd0",
+      "time": "2026-07-03 08:30:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June final composite PMI 52.8, versus prior 52.5."
+    },
+    {
+      "id": "mkt:019f2561-fa50-7aab-8c86-8cbba157a1f1",
+      "time": "2026-07-03 08:30:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June services PMI (final) 52.2; prior 51.8."
+    },
+    {
+      "id": "4968474",
+      "time": "2026-07-03 08:30:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：美元指數或重回弱勢波動區間】中金公司研報認為，6月以來市場開啟連續調整：一方面，美元指數上行突破過去一年波動區間上限；另一方面，全球資本市場中受AI景氣推動和美元流動性影響較大的指數普遍回撥，美股內部也出現風格調整，偏防禦的板塊佔據上風。研報認為，這一系列調整的主要驅動力是加息預期發酵和美元流動性邊際收緊。重申此前判斷，美聯儲年內“名鷹實鴿”，沃什在今年可能落地的更可能是對銀行業的去監管，以維繫投資週期的景氣，為AI落地提升經濟效率爭取時間。市場或在本輪調整後開啟“滯後曲線”交易，美元指數或重回弱勢波動區間，實物資產、工業板塊以及科技仍保持擴張潛力，並可留意金融去監管對傳統週期板塊的拉動作用。"
+    },
+    {
+      "id": "mkt:019f2561-e437-7aab-8c86-827ffd0f3a6a",
+      "time": "2026-07-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Composite PMI (Jun) | actual 52.8 | previous 52.5"
+    },
+    {
+      "id": "mkt:019f2561-e41c-7aab-8c86-7cd8149a19ee",
+      "time": "2026-07-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services PMI (Jun) | actual 52.2 | previous 51.8"
+    },
+    {
+      "id": "mkt:019f2560-e350-7aab-8c86-71f33b84cb7f",
+      "time": "2026-07-03 08:28:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Kioxia begins sample deliveries of next‑generation flash chips to AI data centers】Tokyo-based Kioxia has started delivering samples of a next-generation, high-storage-density 3D flash chip to AI data center operators as it competes for share in the higher-margin data-center market, the company said on Friday. The chip features a 332-layer stack and is aimed at improving storage density, data throughput and energy efficiency for data-center SSDs. Production will be ramped at a new facility in Kitakami, Iwate Prefecture, to increase capacity for rising demand from AI service providers. Kioxia said it will also expand output of lower-cost ninth-generation scalable-bit-cost chips alongside its tenth-generation products."
+    },
     {
       "id": "4968473",
       "time": "2026-07-03 08:27:21",
@@ -127761,86 +127877,6 @@
         "國際"
       ],
       "text": "【韓國財政部長：將下調燃油價格上限】韓國財政部長週五表示，為緩解通脹壓力，韓國將下調燃油價格上限。“由於中東局勢的不確定性，本週我們維持了第六次燃油價格上限不變，但第七次上限將低於當前水平，並將持續到消費者價格穩定為止，”韓國財政部長具允哲表示。韓國時隔數十年首次於三月在全國範圍內實施燃油價格上限，目前當局每月都會對此進行調整。韓國5月份消費者通脹率升至3.1%，為兩年多來的最高水平，超出預期。這一上漲主要受中東衝突引發的高油價推動，也增強了下月就可能實施貨幣緊縮政策的理由。具允哲表示，政府將採取政策措施，力爭今年下半年將消費者通脹控制在3%以下。"
-    },
-    {
-      "id": "4956029",
-      "time": "2026-06-26 08:32:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國國防部長官：將迅速擴充無人機及反無人機部隊。"
-    },
-    {
-      "id": "4956028",
-      "time": "2026-06-26 08:32:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率上漲1.5個基點，至3.840%。"
-    },
-    {
-      "id": "4956027",
-      "time": "2026-06-26 08:31:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞典能源公司Orrön Energy宣佈達成戰略交易，將設立北歐領先獨立發電企業】當地時間6月25日，瑞典能源公司Orrön Energy宣佈與挪威可再生能源公司Cloudberry Clean Energy達成協議。Orrön Energy表示，將把公司除Karskruv風電場外的北歐可再生能源平臺及組織與Cloudberry進行合併，由此設立一家領先的北歐獨立發電企業。作為本次交易的對價，Orrön Energy將獲得合併後Cloudberry 27.01%的股份，成為其最大股東。Orrön Energy將繼續持有Karskruv風電場及其大型歐洲開發業務，包括資料中心、太陽能和電池專案。"
-    },
-    {
-      "id": "4956026",
-      "time": "2026-06-26 08:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月5月煤炭進口總量同比增長11.8%，動力煤進口量增長14.1%，無煙煤進口量增長64.3%；日本5月液化天然氣進口量下降15.1%。"
-    },
-    {
-      "id": "4956025",
-      "time": "2026-06-26 08:30:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月原油進口量下降57.3%。"
-    },
-    {
-      "id": "4956024",
-      "time": "2026-06-26 08:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中網投董事長吳海：AI已成\"原子級技術\"，一級市場投融資持續活躍】MWC2026上海期間，中國網際網路投資基金董事長吳海致辭表示，\"十五五\"規劃中AI定位戰略升級，已成為\"產業創新核心\"和\"原子級技術\"，將深度嵌入研發、製造、檢測全環節。一級市場AI投融資自2023年起持續高活躍，具身機器人、多模態模型等方向融資走高。中網投在AI領域長期佈局三大方向：基礎創新（模型演算法）、基礎設施（AI晶片、資料平臺）、產業融合（具身智慧、自動駕駛、AI安全）。"
-    },
-    {
-      "id": "4956023",
-      "time": "2026-06-26 08:30:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額上漲0.7%至15,211.1億元。"
-    },
-    {
-      "id": "te:markets:562024",
-      "time": "2026-06-26 08:29:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady After Choppy Session — US stock futures were little changed on Friday after the major indexes ended mixed in the previous session following volatile trading, as renewed weakness in megacap technology stocks offset optimism driven by a bullish outlook for memory-chip makers. On Thursday, the Nasdaq Composite fell 0.46%, marking its fourth consecutive day of losses, as an early rally sparked by Micron’s upbeat forecast gave way to broad selling across the technology sector. Micron surged 15.7% after reporting strong earnings and issuing a robust revenue outlook for the August quarter, lifting other chip-related stocks including Sandisk (22%), Applied Materials (13.4%), and Western Digital (4.9%). Meanwhile, megacap technology shares remained under pressure, with Apple (-6.1%), Nvidia (-1.6%), Microsoft (-3.5%), Amazon (-3.1%), and Meta (-2.7%) all posting losses."
-    },
-    {
-      "id": "4956022",
-      "time": "2026-06-26 08:29:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【中韓半導體ETF華泰柏瑞：將於2026年6月26日開市起至當日10:30停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱 “本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金（QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱 “本基金”）二級市場交易價格顯著高於基金份額參考淨值，存在大幅溢價情形。特此提醒投資者警惕二級市場交易溢價風險，若盲目參與投資，或將產生重大虧損。為維護投資者合法權益，本基金將於 2026 年 6 月 26 日開盤起至當日 10:30 實施停牌。如午市收盤時，本基金二級市場交易溢價幅度仍維持高位，公司有權向上海證券交易所申請，於 2026 年 6 月 26 日下午盤中臨時停牌直至收盤，以此向市場提示風險，具體安排以屆時釋出公告為準。"
     }
   ]
 }
