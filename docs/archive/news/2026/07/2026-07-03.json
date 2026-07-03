@@ -1,7 +1,74 @@
 {
   "date": "2026-07-03",
-  "count": 993,
+  "count": 1000,
   "items": [
+    {
+      "id": "4968738",
+      "time": "2026-07-03 10:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為技術有限公司增資至約411.4億元】天眼查App顯示，7月1日，華為技術有限公司發生工商變更，註冊資本由約410.4億人民幣增至約411.4億人民幣。該公司成立於1987年9月，法定代表人為趙明路，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。"
+    },
+    {
+      "id": "4968737",
+      "time": "2026-07-03 10:27:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：日本可能正在採取新的外匯干預策略】星展集團研究部的Philip Wee在一份評論中表示，日本可能正在採取新的外匯干預策略。該高階外匯策略師指出，有傳言稱日本財務省可能會轉向不公開的隱秘貨幣干預。Wee表示，在今天美國債券和股票市場因獨立日假期而流動性稀薄的情況下，此類干預“可能會加劇波動“。“日本的新策略似乎旨在將市場心理從懷疑轉為謹慎。“"
+    },
+    {
+      "id": "4968736",
+      "time": "2026-07-03 10:27:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【帝奧微：原材料價格大幅上漲 公司已根據實際情況調整了產品價格】帝奧微近日接受機構調研時表示，由於晶圓及封裝產能緊張，原材料價格大幅上漲，公司生產成本無可避免亦大幅上升，按目前狀況預期短期內不會有改善空間。為了能繼續支援客戶需求，公司已根據實際情況調整了產品價格。"
+    },
+    {
+      "id": "4968735",
+      "time": "2026-07-03 10:27:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "鎧俠股價漲幅擴大至8.9%。"
+    },
+    {
+      "id": "mkt:019f25cc-9e80-7aab-8c89-ac6397757150",
+      "time": "2026-07-03 10:26:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share power grid equipment sector strengthened amid choppy trading; Huaming Equipment hit the daily limit-up. Jinzhi Technology, Jinguan Electric, Mingyang Electric, Shenma Power and Siyuan Electric also rose."
+    },
+    {
+      "id": "4968734",
+      "time": "2026-07-03 10:25:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，金智科技、金冠電氣、明陽電氣、神馬電力、思源電氣跟漲。"
+    },
+    {
+      "id": "te:economy:563963",
+      "time": "2026-07-03 10:25:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Vietnam Industrial Output Climbs to 5-Month High — Vietnam’s industrial production expanded 12.7% year-on-year in June 2026, accelerating from an upwardly revised 10.1% growth in May and marking its strongest increase in five months. The pickup was driven by faster growth across all major sectors, led by electricity and gas supply (16.6% vs. 10.3% in May), manufacturing and processing (12.6% vs. 10.7%), mining and quarrying (8.8% vs. 4.0%), and water supply, waste management, and wastewater treatment (8.7% vs. 6.2%). On a monthly basis, industrial output rose 3.5%, signaling continued strength in the sector. For the first half of 2026, industrial production increased 10.8% compared with the same period a year earlier, highlighting sustained momentum in Vietnam's industrial activity."
+    },
     {
       "id": "te:markets:563962",
       "time": "2026-07-03 10:23:50",

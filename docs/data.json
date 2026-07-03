@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-03 10:25:20",
-  "count": 13908,
+  "updated": "2026-07-03 10:29:12",
+  "count": 13904,
   "items": [
+    {
+      "id": "4968738",
+      "time": "2026-07-03 10:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為技術有限公司增資至約411.4億元】天眼查App顯示，7月1日，華為技術有限公司發生工商變更，註冊資本由約410.4億人民幣增至約411.4億人民幣。該公司成立於1987年9月，法定代表人為趙明路，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。"
+    },
+    {
+      "id": "4968737",
+      "time": "2026-07-03 10:27:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：日本可能正在採取新的外匯干預策略】星展集團研究部的Philip Wee在一份評論中表示，日本可能正在採取新的外匯干預策略。該高階外匯策略師指出，有傳言稱日本財務省可能會轉向不公開的隱秘貨幣干預。Wee表示，在今天美國債券和股票市場因獨立日假期而流動性稀薄的情況下，此類干預“可能會加劇波動“。“日本的新策略似乎旨在將市場心理從懷疑轉為謹慎。“"
+    },
+    {
+      "id": "4968736",
+      "time": "2026-07-03 10:27:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【帝奧微：原材料價格大幅上漲 公司已根據實際情況調整了產品價格】帝奧微近日接受機構調研時表示，由於晶圓及封裝產能緊張，原材料價格大幅上漲，公司生產成本無可避免亦大幅上升，按目前狀況預期短期內不會有改善空間。為了能繼續支援客戶需求，公司已根據實際情況調整了產品價格。"
+    },
+    {
+      "id": "4968735",
+      "time": "2026-07-03 10:27:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "鎧俠股價漲幅擴大至8.9%。"
+    },
+    {
+      "id": "mkt:019f25cc-9e80-7aab-8c89-ac6397757150",
+      "time": "2026-07-03 10:26:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share power grid equipment sector strengthened amid choppy trading; Huaming Equipment hit the daily limit-up. Jinzhi Technology, Jinguan Electric, Mingyang Electric, Shenma Power and Siyuan Electric also rose."
+    },
+    {
+      "id": "4968734",
+      "time": "2026-07-03 10:25:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，金智科技、金冠電氣、明陽電氣、神馬電力、思源電氣跟漲。"
+    },
+    {
+      "id": "te:economy:563963",
+      "time": "2026-07-03 10:25:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Vietnam Industrial Output Climbs to 5-Month High — Vietnam’s industrial production expanded 12.7% year-on-year in June 2026, accelerating from an upwardly revised 10.1% growth in May and marking its strongest increase in five months. The pickup was driven by faster growth across all major sectors, led by electricity and gas supply (16.6% vs. 10.3% in May), manufacturing and processing (12.6% vs. 10.7%), mining and quarrying (8.8% vs. 4.0%), and water supply, waste management, and wastewater treatment (8.7% vs. 6.2%). On a monthly basis, industrial output rose 3.5%, signaling continued strength in the sector. For the first half of 2026, industrial production increased 10.8% compared with the same period a year earlier, highlighting sustained momentum in Vietnam's industrial activity."
+    },
     {
       "id": "te:markets:563962",
       "time": "2026-07-03 10:23:50",
@@ -128054,115 +128121,6 @@
         "市場"
       ],
       "text": "【光纖概念持續調整 特發資訊封跌停】光纖概念盤中持續調整，特發資訊封跌停，長盈通跌近10%，中天科技、永鼎股份、亨通光電、通鼎互聯等均跌超5%。"
-    },
-    {
-      "id": "4956267",
-      "time": "2026-06-26 10:28:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥板塊多數走低，通化金馬跌停】創新藥板塊多數走低，通化金馬跌停，海欣股份此前跌停，海南海藥、迪哲醫藥、必貝特跟跌。"
-    },
-    {
-      "id": "4956266",
-      "time": "2026-06-26 10:28:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法意或組建多國聯盟支援黎巴嫩】法國總統馬克龍25日表示，聯合國駐黎巴嫩臨時部隊（聯黎部隊）撤離後，法國和義大利希望組建一個多國聯盟來支援黎巴嫩。 馬克龍當天在法國南部城市昂蒂布與到訪的義大利總理梅洛尼共同會見記者時作出上述表態。馬克龍說，該聯盟的組建將與歐盟及聯合國進行協調，以維護黎巴嫩主權，並支援其武裝部隊。 梅洛尼表示，確保國際力量在黎巴嫩的存在至關重要，旨在防止出現“極度危險”的安全真空。 根據聯合國安理會去年8月透過的第2790號決議，聯黎部隊任期獲最後一次延長，至2026年12月31日停止行動，隨後安全、有序縮減部隊規模，並在一年內撤離全部人員。 第2790號決議敦促以色列從聯合國2000年所劃“藍線”以北撤出其部隊、取消以方在“藍線”以北設定的緩衝區。決議敦促黎巴嫩政府在聯黎部隊幫助下，在以軍撤出地區部署黎政府軍，從而得以在黎全境行使主權。（新華社）"
-    },
-    {
-      "id": "mkt:019f01c0-97ec-7dd8-b12a-d8689169f976",
-      "time": "2026-06-26 10:27:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "09903.HK",
-        "Impact bearish",
-        "06809.HK",
-        "02676.HK"
-      ],
-      "text": "Hong Kong-listed semiconductor shares slid in choppy trade; 09903.HK down over 10%, 06809.HK down over 8%, 02676.HK down over 6%, while 00981.HK, 03986.HK and 01347.HK each fell more than 5%."
-    },
-    {
-      "id": "mkt:019f01c0-3bf5-7dd8-b12a-d044f195805c",
-      "time": "2026-06-26 10:26:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Iraq's state oil marketer SOMO has offered crude for July loading via tender."
-    },
-    {
-      "id": "4956265",
-      "time": "2026-06-26 10:26:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華立科技與寶可夢合作 將開發線下游藝產品“寶可夢速捕點”】據華立科技訊息，寶可夢與華立科技達成合作，The Pokémon Company將與華立科技共同開發全新線下游藝產品“寶可夢速捕點（Pokémon Spot）”。"
-    },
-    {
-      "id": "4956264",
-      "time": "2026-06-26 10:26:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元最新下跌0.5%，報0.68761。"
-    },
-    {
-      "id": "mkt:019f01bf-b516-7dd8-b12a-cc01fd8d9c22",
-      "time": "2026-06-26 10:26:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "CSI 300 index futures (IF) most-active contract fell 2.00% intraday to 4,799.0 points."
-    },
-    {
-      "id": "4956263",
-      "time": "2026-06-26 10:25:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "據訊息人士透露，伊拉克國家石油銷售組織（SOMO）透過招標發售7月裝船原油。"
-    },
-    {
-      "id": "4956262",
-      "time": "2026-06-26 10:25:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌2%至4,919.54點。"
-    },
-    {
-      "id": "mkt:019f01bf-358a-7dd8-b12a-c3deb70efdf2",
-      "time": "2026-06-26 10:25:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China EV Leaders",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "【Nio's Li Bin says China's NEV penetration to exceed 90% by 2030】On June 26 at Nio Partner Day 2026, Nio founder, chairman and CEO Li Bin said NEV penetration in China's new-car market will exceed 90% by 2030, and battery-electric vehicles will account for more than 90% of the NEV market. PCA data show NEV penetration in China's new-car market reached 62.9% in May 2026, with BEVs representing 67.1% of NEV sales."
-    },
-    {
-      "id": "4956261",
-      "time": "2026-06-26 10:25:26",
-      "tags": [
-        "行業",
-        "公司"
-      ],
-      "text": "【蔚來李斌：2030年新能源汽車滲透率將超90%】6月26日，蔚來創始人、董事長、CEO李斌在2026蔚來合作伙伴日上表示，2030年，新能源汽車在中國新車市場滲透率將超過90%，而純電在新能源汽車市場佔比將超過90%。乘聯會資料顯示，2026年5月中國新能源汽車在新車市場滲透率達62.9%，其中純電佔比達67.1%。（一財）"
     }
   ]
 }
