@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 01:03:03",
-  "count": 13476,
+  "updated": "2026-07-04 01:07:04",
+  "count": 13470,
   "items": [
+    {
+      "id": "4970026",
+      "time": "2026-07-04 01:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及是否會持續援助烏克蘭時，伯納姆明確表示 “百分百會”。"
+    },
+    {
+      "id": "4970025",
+      "time": "2026-07-04 01:03:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "烏拉圭 6 月消費者物價環比上漲 0.37%，市場預期為上漲 0.50%； 烏拉圭 6 月居民消費價格同比上漲 4.25%，市場預期漲幅 4.40%。"
+    },
     {
       "id": "mkt:019f28ec-4ffa-7aab-8c99-b859799d4bd2",
       "time": "2026-07-04 01:00:03",
@@ -124000,81 +124016,6 @@
         "AI Revolution"
       ],
       "text": "OpenAI begins limited preview testing of its GPT-5.6 series."
-    },
-    {
-      "id": "mkt:019f04e6-11d2-7dd8-b13c-32d5ef27ea26",
-      "time": "2026-06-27 01:06:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Centers for Disease Control and Prevention raised its response level for the Congo Ebola outbreak to Level 1, the agency's highest."
-    },
-    {
-      "id": "4957877",
-      "time": "2026-06-27 01:06:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據 Semafor 報道，貝森特就人工智慧相關事宜展開溝通，並對美聯儲支付系統發出警示。"
-    },
-    {
-      "id": "4957876",
-      "time": "2026-06-27 01:05:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心將針對剛果埃博拉疫情的應急響應等級提升至一級啟動狀態，即最高響應級別。"
-    },
-    {
-      "id": "mkt:019f04e4-2fdf-7dd8-b13c-28da647eb0f2",
-      "time": "2026-06-27 01:04:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes said US energy companies added the most drilling rigs in a single week since June 2022."
-    },
-    {
-      "id": "mkt:019f04e3-3747-7dd8-b13c-254b4ca91e88",
-      "time": "2026-06-27 01:03:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. natural gas rig count 125 in the week to June 26, versus 122 in the prior week."
-    },
-    {
-      "id": "mkt:019f04e3-1789-7dd8-b13c-1f5cfc083c57",
-      "time": "2026-06-27 01:03:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.26) | actual 125 | previous 122"
-    },
-    {
-      "id": "mkt:019f04e2-b50b-7dd8-b13c-15ecdd001cc7",
-      "time": "2026-06-27 01:03:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "According to the Wall Street Journal, the Atlanta Fed's search for a new president has stalled."
-    },
-    {
-      "id": "4957875",
-      "time": "2026-06-27 01:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國油服貝克休斯：美國能源企業活躍石油鑽井機連增兩週。"
     }
   ]
 }
