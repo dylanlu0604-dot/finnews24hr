@@ -1,7 +1,38 @@
 {
   "date": "2026-07-03",
-  "count": 1302,
+  "count": 1305,
   "items": [
+    {
+      "id": "mkt:019f2674-dfc0-7aab-8c8b-f36e353bcdd1",
+      "time": "2026-07-03 13:30:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share phosphate chemicals sector weakened in afternoon trading; Taihe Technology fell more than 11%, Xilong Science dropped over 9%, while Liuguo Chemical and Xingfa Group also declined."
+    },
+    {
+      "id": "mkt:019f2674-543f-7aab-8c8b-ebee9805306a",
+      "time": "2026-07-03 13:29:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korean stocks rebound after AI-driven volatility】South Korea's KOSPI bounced after two trading days of nearly 10% declines, climbing as much as 5.5% on Friday; Samsung Electronics and SK Hynix each rallied more than 9%. A surge in KOSPI futures prompted the Korea Exchange to briefly suspend program trading. Foreign funds and retail investors were net sellers of KOSPI stocks while domestic funds increased holdings. Reports that ANTHROPIC PBC is in talks with Samsung to co-develop custom AI chips, together with elevated expectations ahead of Samsung's preliminary results, underpinned gains. Fibonacci Asset Management CEO Jung In-yoon said the ANTHROPIC-Samsung talks are early-stage and likely to have limited near-term earnings impact but are strategically positive for Samsung's AI-chip positioning and for Asia's role in the AI semiconductor supply chain."
+    },
+    {
+      "id": "4968965",
+      "time": "2026-07-03 13:28:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石油化工板塊震盪走低 新鳳鳴觸及跌停】石油化工板塊午後震盪走低，新鳳鳴觸及跌停，昊華科技、桐昆股份、衛星化學等股下跌。"
+    },
     {
       "id": "4968964",
       "time": "2026-07-03 13:26:19",

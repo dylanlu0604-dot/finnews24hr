@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-03 13:27:56",
-  "count": 13850,
+  "updated": "2026-07-03 13:31:47",
+  "count": 13848,
   "items": [
+    {
+      "id": "mkt:019f2674-dfc0-7aab-8c8b-f36e353bcdd1",
+      "time": "2026-07-03 13:30:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share phosphate chemicals sector weakened in afternoon trading; Taihe Technology fell more than 11%, Xilong Science dropped over 9%, while Liuguo Chemical and Xingfa Group also declined."
+    },
+    {
+      "id": "mkt:019f2674-543f-7aab-8c8b-ebee9805306a",
+      "time": "2026-07-03 13:29:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korean stocks rebound after AI-driven volatility】South Korea's KOSPI bounced after two trading days of nearly 10% declines, climbing as much as 5.5% on Friday; Samsung Electronics and SK Hynix each rallied more than 9%. A surge in KOSPI futures prompted the Korea Exchange to briefly suspend program trading. Foreign funds and retail investors were net sellers of KOSPI stocks while domestic funds increased holdings. Reports that ANTHROPIC PBC is in talks with Samsung to co-develop custom AI chips, together with elevated expectations ahead of Samsung's preliminary results, underpinned gains. Fibonacci Asset Management CEO Jung In-yoon said the ANTHROPIC-Samsung talks are early-stage and likely to have limited near-term earnings impact but are strategically positive for Samsung's AI-chip positioning and for Asia's role in the AI semiconductor supply chain."
+    },
+    {
+      "id": "4968965",
+      "time": "2026-07-03 13:28:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石油化工板塊震盪走低 新鳳鳴觸及跌停】石油化工板塊午後震盪走低，新鳳鳴觸及跌停，昊華科技、桐昆股份、衛星化學等股下跌。"
+    },
     {
       "id": "4968964",
       "time": "2026-07-03 13:26:19",
@@ -127523,52 +127554,6 @@
         "其他"
       ],
       "text": "港股大模型概念股震盪下挫，智譜、MINIMAX-W均跌超10%。"
-    },
-    {
-      "id": "4956515",
-      "time": "2026-06-26 13:31:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "天然橡膠連續主力合約日內跌3%，現報16465.00元。"
-    },
-    {
-      "id": "mkt:019f0269-1ae9-7dd8-b12e-2d33ddd70264",
-      "time": "2026-06-26 13:31:10",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China electric loaders in hot demand; construction machinery order books full】June is normally a seasonal trough for China’s construction machinery sector, but production lines are running at full capacity, electric models are in acute shortage and delivery cycles have lengthened significantly. New-energy construction equipment sales remain strong: Jan–May electric loader sales totaled 20,819 units, up 90.9% YoY. Electrification is becoming the industry's primary growth engine. Exports are also elevated: Jan–May construction machinery trade was $28.911 bln, up 19.5% YoY, with exports of $27.902 bln, up 20.8%. Many manufacturers report capacity constraints and say logistics have shifted from monthly concentrated shipments to continuous dispatching."
-    },
-    {
-      "id": "4956514",
-      "time": "2026-06-26 13:30:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國電動裝載機熱銷 工程機械訂單爆滿】每年六月份通常是工程機械行業的傳統淡季，但今年卻出現了“淡季不淡”的火熱景象。央視財經記者在走訪中發現，多家企業生產線滿負荷運轉，電動產品更是“一機難求”，部分訂單交付週期大幅延長。資料顯示，今年1至5月份，我國新能源工程機械銷量保持較好的勢頭，以電動裝載機為例，1至5月份累計銷售20819臺，同比增長90.9%。電動化正在成為工程機械行業增長的核心引擎。國內市場“淡季不淡”，海外市場同樣飄紅。今年前五個月，我國工程機械出口持續高增長，多家企業突破產能上限，物流發貨節奏也從“月度集中”轉為“常態化”。資料顯示，今年1至5月，我國工程機械進出口貿易額為289.11億美元，同比增長19.5%，其中出口金額279.02億美元，同比增長20.8%。 （央視財經）"
-    },
-    {
-      "id": "4956513",
-      "time": "2026-06-26 13:28:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌幅收窄至不足6%，此前一度重挫近9%。"
-    },
-    {
-      "id": "mkt:019f0266-62a2-7dd8-b12e-247f750a04e1",
-      "time": "2026-06-26 13:28:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China meets Cambodian People's Party chairman and Senate president Hun Sen】China met Cambodian People's Party chairman and Senate president Hun Sen at the Great Hall of the People on June 26. China said international and regional conditions are undergoing complex, deep changes and urged closer China‑Cambodia cooperation to inject greater stability into regional peace and development. China expressed willingness to establish a security partnership with Cambodia and praised Phnom Penh's decisive action against telecom‑network fraud, saying it will continue to work with Cambodia to fully eliminate such criminal networks."
     }
   ]
 }
