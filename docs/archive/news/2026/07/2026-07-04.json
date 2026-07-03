@@ -1,7 +1,60 @@
 {
   "date": "2026-07-04",
-  "count": 4,
+  "count": 9,
   "items": [
+    {
+      "id": "4970006",
+      "time": "2026-07-04 00:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將西門子能源評級上調至‘BBB+’，展望為穩定。"
+    },
+    {
+      "id": "te:markets:564213",
+      "time": "2026-07-04 00:12:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.75% Higher — The FTSE MIB Index gained 391 points or 0.75 percent on Friday to close at 52819 points. Gains were led by Amplifon (4.71%), Saipem (3.69%) and Lottomatica (3.67%). Biggest losers were Stellantis N.V. (-3.60%), Brunello Cucinelli (-0.70%) and Azimut Holding (-0.52%)."
+    },
+    {
+      "id": "4970005",
+      "time": "2026-07-04 00:11:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國央行行長貝利：如果伊朗戰爭沒有爆發 英國通脹率本已達標】英國央行行長安德魯·貝利週五在法國普羅旺斯地區艾克斯舉行的一場經濟會議小組討論中表示：“我非常沮喪，因為我確實相信，如果這場衝突沒有爆發，我們實際上本會在一個月前左右就把通脹降至2%”。目前通脹率為2.8%，“但我們會讓它回落。我們將以最符合長期價格穩定、同時坦率地說在非必要情況下不損害產出的方式，依然來達成通脹目標。這是一項判斷，這也是我們必須作出的判斷”。"
+    },
+    {
+      "id": "te:markets:564212",
+      "time": "2026-07-04 00:11:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.78% Higher — The DAX Index went up by 198 points or 0.78 percent on Friday to close at 25779 points. The rise was led by E.ON (4.38%), Siemens (2.58%) and Daimler Truck Holding AG (2.18%). On the downside, the weakerst performers were Rheinmetall (-2.27%), SAP (-1.62%) and Qiagen NV (-1.33%)."
+    },
+    {
+      "id": "te:markets:564211",
+      "time": "2026-07-04 00:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.48% Higher — The CAC 40 Index rose 41 points or 0.48 percent on Friday to close at 8516 points. Leading the gains are ArcelorMittal (5.89%), Edenred (3.73%) and Veolia (2.88%). Top losers were Stellantis NV (-3.37%), Essilor (-1.87%) and Kering (-1.47%)."
+    },
     {
       "id": "te:markets:564210",
       "time": "2026-07-04 00:07:13",
