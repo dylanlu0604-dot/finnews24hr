@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-03 08:21:20",
-  "count": 13874,
+  "updated": "2026-07-03 08:25:06",
+  "count": 13880,
   "items": [
+    {
+      "id": "4968470",
+      "time": "2026-07-03 08:24:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅下跌，瑞薩電子下跌5.4%，Lasertec下跌5.6%。"
+    },
+    {
+      "id": "4968469",
+      "time": "2026-07-03 08:23:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4140美元/盎司，日內漲0.40%。"
+    },
+    {
+      "id": "4968468",
+      "time": "2026-07-03 08:23:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌1.0%，受電子和科技股拖累】隨著對中東衝突的不確定性持續，日本股市早盤走低。電子和科技股領跌。鎧俠下跌7.0%，軟銀集團下跌4.6%。令人失望的美國就業資料公佈後，美元報161.47日元，較週四東京股市收盤時的162.25日元下跌。投資者正密切關注美伊和平談判的任何進展以及原油價格。日經指數下跌1.0%，報68,065.34點。"
+    },
+    {
+      "id": "mkt:019f255c-2853-7aab-8c86-6cc454633a8b",
+      "time": "2026-07-03 08:23:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index fell as much as 1.00% intraday after initially rising more than 1% at the open."
+    },
+    {
+      "id": "4968467",
+      "time": "2026-07-03 08:23:19",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國將向受韓元疲軟影響的企業提供14.9萬億韓元融資支援】韓國財政部門週五在一份宣告中表示，將向受韓元疲軟日益加劇的經營壓力影響的中小企業提供1490萬韓元（約合97億美元）的緊急融資。韓國財政部長具潤哲稱，外匯和金融市場波動仍在持續，生計困難依然存在，6月份消費者價格同比上漲3.2%。具潤哲週五在一次緊急經濟會議上發表了上述言論。"
+    },
+    {
+      "id": "4968466",
+      "time": "2026-07-03 08:23:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "迅策：根據一般授權配售新H股。"
+    },
+    {
+      "id": "4968465",
+      "time": "2026-07-03 08:21:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯原股份推出CPP2000攝像頭後處理IP】7月3日，芯原股份宣佈推出高效能CPP2000攝像頭後處理（CPP）IP。據其介紹，CPP2000能夠提升移動成像場景下的影象質量與視覺感知能力，為機器人、無人機及其他移動視覺應用提供更加穩定可靠的視覺處理效能。"
+    },
     {
       "id": "4968464",
       "time": "2026-07-03 08:20:46",
@@ -87,6 +150,24 @@
         "AI Revolution"
       ],
       "text": "【CITIC Securities: China domestic AI compute theme clear; leaders' earnings likely to accelerate】CITIC Securities says Meituan on June 30, 2026 completed end-to-end training and inference of a trillion-parameter model on a 50,000-card China domestic compute cluster, marking a capability shift from inference to training. DeepSeekV4 final, due mid‑July, will introduce peak‑valley pricing with peak API call prices doubling, and domestic compute supply constraints are intensifying. CITIC says order visibility for domestic compute has materially improved; chip design firms with confirmed customer orders and priority capacity allocation should be first beneficiaries. The broker remains constructive on the China domestic compute supply chain, citing scale-up opportunities from scarce advanced process capacity to diverse design companies and super‑node operators, and expects strong growth momentum for advanced process, advanced packaging, advanced memory and supporting suppliers."
+    },
+    {
+      "id": "em:qqyh_mlc:202607033792589379",
+      "time": "2026-07-03 08:17:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，6月美國新增非農就業5.7萬人，低於市場預期，表明就業增長的加速勢頭有所降溫。前值下修後，近三個月平均新增就業仍達11.1萬人，顯示勞動力市場仍在擴張。與此同時，失業率降至4.2%，勞動參與率繼續回落，反映就業需求穩健與勞動力供給收縮並存，整體失業壓力不大。我們認為，這份資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607033792589379",
+      "time": "2026-07-03 08:17:40",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，6月美國新增非農就業5.7萬人，低於市場預期，表明就業增長的加速勢頭有所降溫。前值下修後，近三個月平均新增就業仍達11.1萬人，顯示勞動力市場仍在擴張。與此同時，失業率降至4.2%，勞動參與率繼續回落，反映就業需求穩健與勞動力供給收縮並存，整體失業壓力不大。我們認為，這份資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。"
     },
     {
       "id": "4968460",
@@ -127818,30 +127899,6 @@
         "其他"
       ],
       "text": "【中國移動聯合產業夥伴釋出全球首個通訊智慧體協同開源專案OpenAN】6月25日，在2026上海世界行動通訊大會期間，中國移動攜手GSMA及華為、中興等多家國際知名通訊與科技企業，在Linux網路子基金會社群正式釋出全球首個通訊智慧體協同的開源專案——OpenAN，面向網路運營場景實現安全、高效、可控的多智慧體協同模式。OpenAN專案的釋出，為全球通訊行業提供了首個面向通訊場景的智慧體協同全開源解決方案，標誌著智慧體技術從概念研究走向工程落地。同時，該專案也為自智網路向L4級演進積累了重要的技術基礎。"
-    },
-    {
-      "id": "4956015",
-      "time": "2026-06-26 08:23:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少6.27噸】截至2026年06月25日，全球最大的黃金ETF SPDR Gold Trust持倉量為1007.08噸，較前一個交易日減少6.27噸。"
-    },
-    {
-      "id": "mkt:019f014e-c556-7dd8-b127-ad5c77c23850",
-      "time": "2026-06-26 08:22:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea’s Ministry of Oceans and Fisheries says eight South Korean vessels have exited the Strait of Hormuz."
-    },
-    {
-      "id": "4956014",
-      "time": "2026-06-26 08:21:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國海洋部：另有八艘韓國船隻已駛出霍爾木茲海峽。"
     }
   ]
 }
