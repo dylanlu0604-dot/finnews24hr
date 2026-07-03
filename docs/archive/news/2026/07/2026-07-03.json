@@ -1,7 +1,29 @@
 {
   "date": "2026-07-03",
-  "count": 2701,
+  "count": 2703,
   "items": [
+    {
+      "id": "mkt:019f289d-317d-7aab-8c98-d41b203c9a22",
+      "time": "2026-07-03 23:33:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthi group says Saudi warplanes violated Yemeni airspace】Houthi military spokesman Yahya said on July 3 at 05:20 local time a formation of Saudi warplanes entered Yemeni airspace attempting to prevent an Iranian civilian airliner from landing at Sanaa International Airport. He said Houthi air defenses launched multiple surface-to-air missiles to intercept, forcing the warplanes to leave Yemeni airspace. The group warned that further Saudi airspace incursions or military action against Houthi forces would prompt retaliatory strikes on Saudi airports and key infrastructure. It said it will not accept a blockade of Sanaa airport or Yemen, will take measures to lift any blockade, and will continue to maintain flights between Sanaa and Tehran, welcoming Iran’s efforts to restore those services. Saudi authorities had no immediate comment."
+    },
+    {
+      "id": "mkt:019f289c-993c-7aab-8c98-cd559c55dc66",
+      "time": "2026-07-03 23:32:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AAPL.O"
+      ],
+      "text": "Ireland's central government account posted a €700 mln surplus at end-June, down from a €4.5 bln surplus a year earlier, the Irish Finance Ministry said, attributing the decline mainly to Apple (AAPL.O) back-tax payments."
+    },
     {
       "id": "mkt:019f289b-3792-7aab-8c98-c15f010085dd",
       "time": "2026-07-03 23:31:28",
