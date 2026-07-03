@@ -1,7 +1,46 @@
 {
   "date": "2026-07-03",
-  "count": 2598,
+  "count": 2602,
   "items": [
+    {
+      "id": "4969936",
+      "time": "2026-07-03 22:18:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受私有化交易報道提振，加拿大廢物處理公司GFL環保股票上漲。"
+    },
+    {
+      "id": "4969935",
+      "time": "2026-07-03 22:16:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭銅業集團（KGHM Polska Miedz SA）：與濱海省就普克多水鉀鎂鹽礦專案合作簽署諒解備忘錄。普克專案基於米耶羅希諾礦床，估計地質資源量超過3.03億噸。將準備申請該礦床採礦特許權所需的檔案。獲得該專案的相關審批決定可能需要大約6年時間。"
+    },
+    {
+      "id": "4969934",
+      "time": "2026-07-03 22:15:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月4日盧布官方匯率定為1美元兌77.2264盧布（前值為77.9293）。"
+    },
+    {
+      "id": "te:economy:564191",
+      "time": "2026-07-03 22:15:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Tanzania Lifts Key Policy Rate to 6.25% — The Bank of Tanzania raised its key interest rate by 50 basis points to 6.25% on July 3rd, 2026, marking its first hike since April 2024. Policymakers said the decision was intended to ensure inflation remains within the 3%–5% target range while sustaining economic growth. The annual inflation rate inched up to 4.2% in May from 4% in April, marking the highest level since April 2023, on the back of higher fuel and fertilizer costs amid the Middle East crisis. Looking ahead, the central bank expects inflationary pressures to remain contained, supported by a strong harvest that should keep food prices stable and robust export earnings that are expected to cushion exchange rate pass-through to import prices. Meanwhile, the MPC said economic growth remained resilient despite external headwinds, including the ongoing Middle East conflict, with GDP projected to expand by around 6% in the first half of 2026."
+    },
     {
       "id": "mkt:019f2854-f9f8-7aab-8c97-7216c218df2f",
       "time": "2026-07-03 22:14:45",

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-03 22:15:37",
-  "count": 13545,
+  "updated": "2026-07-03 22:19:32",
+  "count": 13541,
   "items": [
+    {
+      "id": "4969936",
+      "time": "2026-07-03 22:18:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受私有化交易報道提振，加拿大廢物處理公司GFL環保股票上漲。"
+    },
+    {
+      "id": "4969935",
+      "time": "2026-07-03 22:16:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭銅業集團（KGHM Polska Miedz SA）：與濱海省就普克多水鉀鎂鹽礦專案合作簽署諒解備忘錄。普克專案基於米耶羅希諾礦床，估計地質資源量超過3.03億噸。將準備申請該礦床採礦特許權所需的檔案。獲得該專案的相關審批決定可能需要大約6年時間。"
+    },
+    {
+      "id": "4969934",
+      "time": "2026-07-03 22:15:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月4日盧布官方匯率定為1美元兌77.2264盧布（前值為77.9293）。"
+    },
+    {
+      "id": "te:economy:564191",
+      "time": "2026-07-03 22:15:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Tanzania Lifts Key Policy Rate to 6.25% — The Bank of Tanzania raised its key interest rate by 50 basis points to 6.25% on July 3rd, 2026, marking its first hike since April 2024. Policymakers said the decision was intended to ensure inflation remains within the 3%–5% target range while sustaining economic growth. The annual inflation rate inched up to 4.2% in May from 4% in April, marking the highest level since April 2023, on the back of higher fuel and fertilizer costs amid the Middle East crisis. Looking ahead, the central bank expects inflationary pressures to remain contained, supported by a strong harvest that should keep food prices stable and robust export earnings that are expected to cushion exchange rate pass-through to import prices. Meanwhile, the MPC said economic growth remained resilient despite external headwinds, including the ongoing Middle East conflict, with GDP projected to expand by around 6% in the first half of 2026."
+    },
     {
       "id": "mkt:019f2854-f9f8-7aab-8c97-7216c218df2f",
       "time": "2026-07-03 22:14:45",
@@ -124700,84 +124739,6 @@
         "國際"
       ],
       "text": "【富士山附近5.6級地震】日本氣象廳稱，山梨縣富士五湖地區今晚發生5.6級地震後，截至目前，富士山的觀測資料沒有出現變化，火山活動也沒有發現特殊變化。據東京電力公司訊息，該公司轄區內共有約5000戶停電。（CCTV國際時訊）"
-    },
-    {
-      "id": "4957734",
-      "time": "2026-06-26 22:18:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月26日增減持彙總】6月26日盤後，據不完全統計，華菱鋼鐵、*ST金科、可孚醫療、神馬股份等4家A股上市公司披露擬增持情況。峰岹科技、新風光、天宸股份、博敏電子、北京君正等5家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "te:markets:562282",
-      "time": "2026-06-26 22:17:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Hits 4-week High — Sugar increased to 14.64 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Sugar gained 3.44%, and in the last 12 months, it decreased 7.49%."
-    },
-    {
-      "id": "4957733",
-      "time": "2026-06-26 22:17:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：前美國國家安全顧問對不當處理涉密檔案的指控表示認罪。"
-    },
-    {
-      "id": "mkt:019f044a-f927-7dd8-b139-64c2e457600f",
-      "time": "2026-06-26 22:17:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran reiterates national security and right of self‑defense are non‑negotiable】On June 26, Iranian foreign ministry spokesman BAGHAEI posted on social media that Iran is more concerned than any other party about regional collective security and described the actions of Gulf Cooperation Council member states as \"disappointing.\" He said Iran’s military capability guarantees the people’s exercise of their inherent right of self‑defense and underpins regional peace and stability. National security and national dignity are not for trade or conditionality; the inherent right of self‑defense will not be a subject for negotiation, and measures to safeguard it will not be compromised with any party."
-    },
-    {
-      "id": "4957732",
-      "time": "2026-06-26 22:17:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯原子能領域專家將在未來數週重返伊朗布什爾核電站。"
-    },
-    {
-      "id": "4957731",
-      "time": "2026-06-26 22:16:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4090美元/盎司，日內漲1.63%。"
-    },
-    {
-      "id": "4957730",
-      "time": "2026-06-26 22:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗重申國家安全與合法自衛權不容談判】當地時間26日，伊朗外交部發言人巴加埃在社交媒體發文稱，伊朗比任何其他一方都更關注地區集體安全問題。巴加埃稱，海灣阿拉伯國家合作委員會（海合會）成員國的做法“令人沮喪”。巴加埃強調，伊朗的軍事能力是伊朗人民在面對侵略時行使固有合法自衛權的保障，同時也是地區和平與穩定的保障。伊朗的國家安全和民族尊嚴不容交易或附加任何條件；固有合法自衛權不會成為談判議題，維護這一權利的相關手段也不會成為與任何一方妥協的條件。海合會與美國25日發表聯合宣告表示，重新開放霍爾木茲海峽至關重要，反對任何在霍爾木茲海峽徵收通行費或試圖對該海峽實施控制的行為。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0449-b1cb-7dd8-b139-5f3e76fe594d",
-      "time": "2026-06-26 22:16:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Memory, storage, CPU and GPU costs rise; several popular laptop models sharply repriced】Apple has raised prices on some notebooks and tablets across multiple global markets by about 16–25%. Domestic retail prices for a number of popular PC models have also jumped: a best‑selling gaming laptop that retailed around 7,000 yuan in July–August last year now sells above 10,000 yuan in Shenzhen. Price increases extend beyond gaming rigs to ordinary business notebooks; models that sold below 4,000 yuan last year are largely absent this year, while mid‑to‑high‑end notebooks have risen roughly 500–1,500 yuan. Dealers say component cost inflation — memory, SSDs, CPUs and GPUs — has pushed prices since Q4 last year amid a surge in global AI compute demand, and many resellers have been forced to adjust retail prices frequently after vendor repricing notices."
     }
   ]
 }
