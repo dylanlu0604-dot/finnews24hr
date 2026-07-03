@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-03 13:31:47",
-  "count": 13848,
+  "updated": "2026-07-03 13:35:37",
+  "count": 13850,
   "items": [
+    {
+      "id": "4968968",
+      "time": "2026-07-03 13:34:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本航空公司一架航班因液壓系統故障緊急迫降關西機場，事件中無人受傷。"
+    },
+    {
+      "id": "4968967",
+      "time": "2026-07-03 13:32:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數站上8100點，日內漲幅擴大至6%。"
+    },
+    {
+      "id": "mkt:019f2676-f75c-7aab-8c8b-fc86e762de9f",
+      "time": "2026-07-03 13:32:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index climbed above 8,100, extending intraday gains to 6%."
+    },
+    {
+      "id": "4968966",
+      "time": "2026-07-03 13:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【僑批檔案資料庫共建啟動 粵閩兩省僑批已超42萬件】從國家檔案局獲悉，今天廣東省、福建省檔案部門在汕頭市簽署僑批檔案工作協作框架協議，啟動僑批檔案資料庫共建。目前，廣東各級檔案館、文博機構僑批總量已超34.2萬件，福建省各級檔案館現有僑批檔案數量8萬多件。兩省將從資源共享、史料徵集、編研開發三大維度搭建粵閩協同、海內外聯動的僑批活化與傳承的工作機制。"
+    },
+    {
+      "id": "te:markets:564019",
+      "time": "2026-07-03 13:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Flat, on Track for Modest Weekly Decline — The Indonesian rupiah traded around IDR 17,960 per U.S. dollar on Friday, little changed from the previous session as traders awaited key domestic data due next week, including June forex reserves, consumer confidence, and May retail sales. Sentiment remained cautious after Fitch Ratings warned that a prolonged decline in forex reserves could pressure Indonesia's credit profile, with figures having fallen to a nearly two-year low in May. Meanwhile, Bank Indonesia reaffirmed its commitment to deploying all available tools to support the currency even as strong foreign inflows into government bonds and Bank Indonesia securities continued in June. Globally, the U.S. dollar index edged lower after weaker-than-expected U.S. labor market data dampened expectations of further Fed tightening this year. For the week, the rupiah is heading for a modest weekly loss of around 0.3%, weighed by Indonesia's first trade gap since April 2020 and a sharp contraction in manufacturing activity."
+    },
     {
       "id": "mkt:019f2674-dfc0-7aab-8c8b-f36e353bcdd1",
       "time": "2026-07-03 13:30:21",
@@ -127523,37 +127570,6 @@
         "市場"
       ],
       "text": "ZALANDO股價在Tradegate平臺下跌14.3%，此前德國金融監管機構對ZALANDO 2025年賬目展開調查。"
-    },
-    {
-      "id": "4956517",
-      "time": "2026-06-26 13:35:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低3.6%報44,571.76。"
-    },
-    {
-      "id": "mkt:019f026a-e8f3-7dd8-b12e-316ba18bd96b",
-      "time": "2026-06-26 13:33:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: Limited scope for further decline in German 10-year bund yield】SEB chief strategist Jussi Hiljanen said in a note the rally in German government bonds may be near its end after the 10-year bund yield fell to about a multi-month low of 2.85%. He said a sustained move below 2.80% would require a clear dovish shift in the ECB policy outlook, which he judges premature. SEB expects the 10-year bund yield to recover to 2.90–3.00% ahead of the ECB meeting on July 23. Hiljanen added the longer-term trajectory will largely depend on whether markets begin to price further policy-rate cuts in 2027."
-    },
-    {
-      "id": "4956516",
-      "time": "2026-06-26 13:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股大模型概念股震盪下挫，智譜、MINIMAX-W均跌超10%。"
     }
   ]
 }
