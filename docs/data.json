@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-03 20:25:05",
-  "count": 13653,
+  "updated": "2026-07-03 20:29:10",
+  "count": 13658,
   "items": [
+    {
+      "id": "mkt:019f27f2-fc88-7aab-8c95-c7eb021d010e",
+      "time": "2026-07-03 20:27:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BofA raised its Brazil 2027 inflation forecast to 4.7% from 4.0%."
+    },
+    {
+      "id": "4969815",
+      "time": "2026-07-03 20:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將巴西2027年通脹預期從4%上調至4.7%。"
+    },
+    {
+      "id": "4969814",
+      "time": "2026-07-03 20:26:33",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：歐洲投資者希望將目光投向AI之外】摩根士丹利分析師寫道，歐洲股票投資者希望擴大持倉範圍，不再侷限於與AI相關的股票。摩根士丹利的分析師們表示，投資者應考慮將投資範圍擴大到不依賴AI的股票以及能提供收益的股票，以降低投資組合的波動性。此外，他們表示，投資者應持有基本面主題不斷改善的股票，例如那些受益於霍爾木茲海峽重新開放的股票。“歐洲提供了充足的多元化空間、不斷改善的基本面以及結構性上升的股票分散度。“摩根士丹利的分析師認為，英國防務集團羅爾斯-羅伊斯和British Airways母公司IAG等股票將受益於該海峽的重新開放。"
+    },
+    {
+      "id": "4969813",
+      "time": "2026-07-03 20:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所官網顯示，廣東鈳銳鍶數控技術股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "mkt:019f27f1-a2ee-7aab-8c95-be4241dca3ab",
+      "time": "2026-07-03 20:26:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange shows Guangdong Kairuisi CNC Technology Co.'s STAR Market IPO review status has changed to \"inquiry\"."
+    },
+    {
+      "id": "mkt:019f27f1-8136-7aab-8c95-b115fa36fb26",
+      "time": "2026-07-03 20:26:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BofA lowers Brazil 2027 GDP growth forecast to 1.3% from 2%."
+    },
+    {
+      "id": "4969812",
+      "time": "2026-07-03 20:26:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行下調巴西 2027 年 GDP 增速預期，從 2% 降至 1.3%。"
+    },
+    {
+      "id": "mkt:019f27f1-6704-7aab-8c95-a96d4a4f8c1a",
+      "time": "2026-07-03 20:25:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russia raises June refinery subsidies more than sixfold to counter fuel shortages】Russia paid 210.6 billion rubles ($2.72bn) in June subsidies to refineries supplying the domestic market — more than sixfold YoY — to partly offset the gap between domestic and export fuel prices, the finance ministry said Friday. It was the largest single-month subsidy since Dec 2023, mainly driven by elevated international fuel prices after disruptions in the Strait of Hormuz and by Ukrainian attacks on refineries that worsened nationwide shortages. The measures aim to boost domestic fuel inventories by incentivizing firms to store more oil products domestically and sell to consumers at lower prices."
+    },
+    {
+      "id": "4969811",
+      "time": "2026-07-03 20:25:23",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【雲南能投：擬投資100MW/400MWh全釩液流獨立共享儲能專案】雲南能投公告稱，公司收到《中選通知書》，確定為“麗江市寧蒗縣100MW/400MWh全釩液流獨立共享儲能專案社會投資人公開優選”中選單位，該專案已列入2026年雲南省新型共享儲能專案清單。專案規劃建設容量為100MW/400MWh，擬選場址位於寧蒗縣爛泥箐鄉，交易對手方為麗江市發改委。專案實施預計對本年度財務和經營成果無重大影響，但尚需備案、審批及公司審議，存在不確定性。"
+    },
+    {
+      "id": "4969810",
+      "time": "2026-07-03 20:25:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST龍大：股票交易異常波動 可轉債到期兌付存風險】ST龍大公告稱，公司股票連續3個交易日（2026年7月1 - 3日）內收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司經營及內外部環境未變，無應披露未披露重大事項。此外，“龍大轉債”將於7月12日到期，截至7月2日，尚有749.10萬張未轉股，佔發行總量78.85%，公司貨幣資金餘額預計無法覆蓋到期本息，存兌付風險。"
+    },
+    {
+      "id": "4969809",
+      "time": "2026-07-03 20:25:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟投25億美元造前沿公司】當地時間7月2日，微軟宣佈以25億美元的投資打造微軟前沿公司（Microsoft Frontier Company），以人工智慧為全球客戶提供前沿轉型服務。微軟商業業務CEO Judson Althoff表示，微軟前沿公司將超越所謂的FDE，並“成為業內規模最大、能力最強、以結果為導向的工程組織”。微軟預計派遣6000名行業和工程專家派駐客戶公司，基於可衡量的業務成果，共同設計、共同創新、部署並持續改進大規模人工智慧系統。 微軟正在抓緊跟上對手的步伐。兩天前亞馬遜宣佈投入10億美元打造FDE團隊，兩天後微軟就加碼投入以促進AI在業務場景的落地。 國內FDE崗位正迎來爆發期。2026年上半年，脈脈平臺上FDE相關職位的釋出量同比飆升21倍。在釋出FDE崗位的公司中，49.3%公司規模在1000人以上，37.3%是AI原生企業。（第一財經）"
+    },
     {
       "id": "4969808",
       "time": "2026-07-03 20:23:50",
@@ -125773,59 +125874,6 @@
         "公司"
       ],
       "text": "【剛果（金）擬訓練超2萬名礦區安保人員】剛果（金）政府正與一傢俬營公司商談，以訓練超過2萬名武裝保安人員，保護該國礦區，此舉旨在改善當地礦業的聲譽。據礦業總監察局負責人透露，這些保安人員將保護大型商業礦區，幫助規範使用簡陋工具挖礦的手工採礦者作業點，並提高礦產出口的可追溯性。"
-    },
-    {
-      "id": "mkt:019f03e7-89b3-7dd8-b136-ed78020d9612",
-      "time": "2026-06-26 20:28:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Singapore-flagged container ship lightly damaged after strike in Strait of Hormuz】The Maritime and Port Authority of Singapore (MPA) said on June 26 that a Singapore-flagged container vessel, Chang Yue, suffered minor damage on June 25 after being struck by an unidentified projectile in the Strait of Hormuz. The impact hit the wheelhouse area as the vessel was departing the strait. All 21 crew are safe; there are no Singapore nationals aboard. The ship has transited the Strait of Hormuz and is continuing its voyage."
-    },
-    {
-      "id": "4957509",
-      "time": "2026-06-26 20:28:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，德國最初210億歐元的預算缺口已被完全填補；必須動用97億歐元儲備金中的相當一部分來應對2027年的財政需求。"
-    },
-    {
-      "id": "4957508",
-      "time": "2026-06-26 20:28:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據委內瑞拉官方通報，委內瑞拉強震遇難人數升至589人，另有2980人受傷。（新華社）"
-    },
-    {
-      "id": "4957506",
-      "time": "2026-06-26 20:26:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通程控股：控股股東35%股權劃轉至長沙國控集團】通程控股公告稱，2026年6月22日，公司收到控股股東通程集團告知函，長沙市國資委已將其持有的通程集團35%股權全部劃轉至長沙國控集團，股權變更登記過戶手續已完成。通程集團持有公司44.33%股份，為控股股東。本次劃轉後，公司及通程集團股權結構未變，長沙國控集團持有通程集團35%股權。該事項不涉及重大資產重組，不影響控股股東和實控人，對公司經營無重大影響。"
-    },
-    {
-      "id": "4957505",
-      "time": "2026-06-26 20:26:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁普醫學：發行股份購易介醫療100%股權獲深交所稽核透過】邁普醫學公告稱，公司擬發行股份及支付現金購買廣州澤新醫療科技等10名交易對方持有的廣州易介醫療科技有限公司100%股權並募集配套資金。6月26日，深交所併購重組稽核委員會審議結果顯示，本次交易符合重組條件和資訊披露要求。本次交易尚需中國證監會同意註冊方可實施，能否獲批及時間仍不確定。"
-    },
-    {
-      "id": "4957504",
-      "time": "2026-06-26 20:25:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國上市的泰坦礦業股價盤前大漲21%，公司與美國陸軍簽署石墨加工租賃協議。"
     }
   ]
 }
