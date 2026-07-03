@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-04 00:42:58_
-_本檔包含 2523 則快訊，約 509813 字_
+_更新時間：2026-07-04 02:01:14_
+_本檔包含 2530 則快訊，約 509328 字_
+
+---
+
+### 2026-07-04 02:00:07  #公司 #國際
+
+空客（AIR.PA）執行長： 我們依舊看好歐洲合作。
+
+---
+
+### 2026-07-04 01:59:03  #MKT News
+
+Airbus CEO said he is "not necessarily optimistic" about defense cooperation, saying countries are under pressure and have their own funding.
+
+---
+
+### 2026-07-04 01:58:52  #公司
+
+空客（AIR.PA）執行長：“對於防務合作未必持樂觀態度，各國當前面臨資金壓力，且都有各自的資金規劃。”
+
+---
+
+### 2026-07-04 01:58:05  #MKT News
+
+【WHO: Ebola outbreak in DRC still spreading】WHO Africa regional director said on July 3 that weekly new Ebola cases in the Democratic Republic of Congo have reached the highest level since the outbreak began, with transmission continuing in eastern DRC's Ituri and North Kivu provinces.
+
+---
+
+### 2026-07-04 01:56:37  #市場 #國際
+
+歐洲洲際期貨交易所持倉報告（COT）資料顯示：截至 6 月 30 日，可可投機客削減 7287 手淨空頭頭寸，淨空頭持倉降至 7756 手。羅布斯塔咖啡投機客增持 4028 手淨多頭頭寸，淨多頭持倉增至 38588 手。 白糖投機商增持 9991 手淨多頭頭寸，淨多頭持倉增至 47763 手。
+
+---
+
+### 2026-07-04 01:52:20  #其他
+
+【世衛組織：剛果（金）埃博拉疫情仍在擴散 】世衛組織非洲區域辦事處主任穆罕默德·賈納比3日說，剛果（金）每週新增埃博拉病例數已達疫情暴發以來最高水平，疫情仍在剛果（金）東部伊圖裡省、北基伍省持續擴散。（新華社）
+
+---
+
+### 2026-07-04 01:45:38  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+【JP Morgan: Gold under near-term pressure; H2 2026 may reach $4,500/oz】JP Morgan says gold is likely to remain rangebound in the near term as weaker buying power in key demand areas and renewed sensitivity to real interest-rate moves could cap upside. The bank stays bullish medium-to-long term, forecasting H2 2026 recovery with Q3 average roughly $4,300/oz and Q4 around $4,500/oz; it sees further 2027 upside driven by sustained central bank purchases, stronger physical demand and ongoing structural allocation needs supporting gold’s reserve and safe‑haven appeal.
+
+---
+
+### 2026-07-04 01:40:02  #MKT News
+
+【Argentina abolishes Interior Ministry】Argentina's government late on the 2nd issued a decree abolishing the Interior Ministry and transferring its functions to the Chief of Cabinet's office. The office will assume coordination with provinces and cross-jurisdictional responsibilities previously handled by the Interior Ministry, and will manage federal-level tourism, environment, sports and science and technology. The decree also establishes two deputy cabinet minister posts to assist the chief of cabinet.
+
+---
+
+### 2026-07-04 01:39:19  #其他
+
+【阿根廷宣佈撤銷內政部】阿根廷政府2日宣佈撤銷內政部，將其職能轉移至內閣首席部長辦公室。阿根廷政府2日深夜在一份法令中宣佈，內閣首席部長辦公室將正式接管協調與各省的關係、處理跨轄區事務等此前由內政部承擔的職責，並且在聯邦層面管理旅遊、環境、體育、科學技術等事務。此外，該法令還設定兩個內閣副部長職務，協助內閣首席部長。（新華社）
+
+---
+
+### 2026-07-04 01:31:07  #MKT News
+
+【IAEA: Zaporizhzhia nuclear plant loses external power for 21st time】The International Atomic Energy Agency said on the 3rd that the Zaporizhzhia nuclear plant lost external power for the 21st time during the military conflict. An IAEA team on site heard military activity that caused electrical protection devices between the plant and transmission lines to trip, including a line repaired during the June ceasefire. Emergency diesel generators started and supplied power for reactor cooling and other critical safety functions. Power has been restored, but one transmission line linking the plant to the grid remains out of service.
+
+---
+
+### 2026-07-04 01:30:27  #MKT News
+
+UK prime minister candidate Burnham said he would be willing to negotiate with the Taliban to repatriate Afghan asylum seekers.
+
+---
+
+### 2026-07-04 01:30:12  #其他
+
+【國際原子能機構：扎波羅熱核電站第21次失去外部電源】當地時間3日，國際原子能機構釋出宣告稱，扎波羅熱核電站在軍事衝突期間第21次失去外部電源。在核電站現場的國際原子能機構團隊聽到了軍事活動，該軍事活動導致連線扎波羅熱核電站與電源線路間的電氣保護裝置啟動，其中包括一條在6月停火期間修復的線路。核電站應急柴油發電機已啟動執行，為反應堆冷卻和其他關鍵核安全功能提供電力。目前電力已恢復，但連線核電站與輸電線路的其中一條線路仍然無法使用。（央視新聞）
+
+---
+
+### 2026-07-04 01:21:11  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+JP Morgan maintains a long-term bullish outlook on gold and expects prices to rise further in 2027.
+
+---
+
+### 2026-07-04 01:21:09  #市場 #觀點
+
+摩根大通維持黃金長期看漲預期，並認為 2027 年金價將進一步回升。
+
+---
+
+### 2026-07-04 01:19:57  #MKT News #Commodities #Energy
+
+ICE Brent September crude futures settled at $72.12 per barrel.
+
+---
+
+### 2026-07-04 01:19:45  #其他
+
+【颱風影響減弱 海南環島高鐵、三亞鳳凰國際機場明日恢復執行】從海南鐵路獲悉，隨著颱風影響減弱，預計4日9時55分起，海南環島高鐵、海口市域列車、三樂旅遊鐵路列車將逐步恢復開行。此外。隨著今年第10號颱風“美莎克”（熱帶風暴級）的影響逐漸減弱，三亞鳳凰國際機場於7月4日6時起陸續恢復航班執行。
+
+---
+
+### 2026-07-04 01:17:39  #市場
+
+洲際交易所 9 月布倫特原油期貨結算價報每桶 72.12 美元。
+
+---
+
+### 2026-07-04 01:17:05  #市場 #觀點 #焦點
+
+摩根大通：預計黃金短期內將維持區間震盪走勢，隨後迎來回升；2026 年第三季度黃金均價為每盎司 4300 美元，2026 年第四季度均價為每盎司 4500 美元。
+
+---
+
+### 2026-07-04 01:16:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+JP Morgan expects gold to remain rangebound in the near term before rebounding, forecasting an average of $4,300/oz in Q3 2026 and $4,500/oz in Q4 2026.
+
+---
+
+### 2026-07-04 01:12:33  #Trading Economics #Economy #United States #Calendar #Importance 2
+
+Week Ahead - Jul 6th — Tanker flows through the Strait of Hormuz picked up sharply in early July. Energy prices sank but long-term yields remain higher, shifting monetary policy back to the market's spotlight. The Federal Reserve will release minutes from its June meeting to unveil insights on a divided FOMC. On the data front, the US will release the ISM Services PMI, existing home sales, and its full trade balance. The ECB will also release monetary policy accounts. Germany and Italy will publish industrial output data, while Germany will join France in posting trade flows. A busy week of economic data in Japan will be headlined by consumer spending, machine tool orders, producer prices, and the current account at a time of pressure on the yen and JGBs. China will unveil its inflation rate. On policy decisions, the RBNZ will determine its interest rate. Elsewhere, OPEC will meet and define output levels on improved trade routes.
+
+---
+
+### 2026-07-04 01:10:49  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+UK prime minister candidate Burnham pledged to build closer ties with the EU, saying he would build on the previous government's progress.
+
+---
+
+### 2026-07-04 01:10:35  #國際
+
+英國首相候選人伯納姆：將在政府現有良好舉措基礎上進一步深化與歐盟的緊密聯絡。
+
+---
+
+### 2026-07-04 01:08:52  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed
+
+UK prime minister candidate Burnham says he will seek talks with the EU on a more "ambitious" agreement.
+
+---
+
+### 2026-07-04 01:08:22  #其他
+
+當被問及是否會提前舉行大選時，伯納姆予以否定。
+
+---
+
+### 2026-07-04 01:07:48  #公司 #央行 #國際
+
+【拉加德將親自出席下週的歐盟經濟和財政事務理事會會議】歐洲央行行長克里斯蒂娜·拉加德將親自出席下週在布魯塞爾舉行的歐盟財長會議，而不是由副行長代表與會。根據歐洲央行公佈的每週日程，拉加德不僅將於7月9日出席歐元集團會議，還將於次日出席歐盟經濟和財政事務理事會(Ecofin)會議。這一安排較為罕見，因為按照慣例，此類會議通常由歐洲央行副行長代表出席。Boris Vujcic自6月初出任歐洲央行副行長以來，已出席過一次Ecofin會議。而歐洲央行的日程顯示，他將於下週五前往雅典參加一場會議。拉加德將親自出席這兩場會議之際，此前她並未排除提前離任以投身法國政壇的可能性。
+
+---
+
+### 2026-07-04 01:07:39  #MKT News
+
+UK prime ministerial candidate Burnham confirms he will not call a snap general election.
+
+---
+
+### 2026-07-04 01:06:35  #其他
+
+英國首相候選人伯納姆： 我支援選舉改革，將努力說服黨內同僚。
+
+---
+
+### 2026-07-04 01:06:07  #國際
+
+被問及是否會持續援助烏克蘭時，伯納姆明確表示 “百分百會”。
+
+---
+
+### 2026-07-04 01:03:43  #市場
+
+烏拉圭 6 月消費者物價環比上漲 0.37%，市場預期為上漲 0.50%； 烏拉圭 6 月居民消費價格同比上漲 4.25%，市場預期漲幅 4.40%。
+
+---
+
+### 2026-07-04 01:00:03  #MKT News #Market Regions #Europe & UK
+
+UK prime minister candidate Burnham said the manifesto pledge to preserve the pensions "triple lock" remains in place.
+
+---
+
+### 2026-07-04 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.09%，滬銅收漲0.14%，滬鋁收漲0.60%，滬鋅收漲0.87%，滬鉛收漲0.38%，滬鎳收跌0.02%，滬錫收漲3.80%。氧化鋁夜盤收跌0.07%，鋁合金收漲0.24%。不鏽鋼夜盤收跌1.85%。
+
+---
+
+### 2026-07-04 00:59:23  #MKT News #Commodities #Precious Metals
+
+Spot palladium fell 2.00% intraday to $1,225.57/oz.
+
+---
+
+### 2026-07-04 00:59:22  #MKT News
+
+UK prime minister candidate Burnham said he will ensure the defence investment programme receives full funding.
+
+---
+
+### 2026-07-04 00:57:27  #其他
+
+英國工黨領袖候選人伯納姆： 養老金三重保障承諾必須堅守，此事至關重要。
+
+---
+
+### 2026-07-04 00:56:55  #其他
+
+英國工黨領袖候選人伯納姆： 將確保國防投資計劃資金足額到位。
+
+---
+
+### 2026-07-04 00:56:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+IAEA said it learned the Zaporizhzhia nuclear power plant lost external power for the 21st time today amid the military conflict.
+
+---
+
+### 2026-07-04 00:56:33  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【Fitch: Middle East tensions still pose risk to global corporates】Fitch said the Middle East remains a risk to global corporates despite a June 17 temporary memorandum between the US and Iran, noting retaliatory strikes continue, the pact is fragile and Israel is not a party. In an updated downside scenario Fitch said an extreme outcome — equities down 10%, corporate bond spreads widening 100–200bps, monetary policy tightening and a marked global slowdown — may not fully materialize but serves as a reference for conflict escalation; under that scenario US and euro-area growth would drop significantly. Fitch reviewed 72 industry sub‑sectors across six regions, leaving most risk assessments unchanged while revising some; it warned tail risks persist and renewed escalation would pressure corporate credit conditions and financial markets.
+
+---
+
+### 2026-07-04 00:56:05  #其他
+
+國際原子能機構：扎波羅熱核電站今日在軍事衝突期間第 21 次失去場外供電。
+
+---
+
+### 2026-07-04 00:51:41  #市場 #國際
+
+【倫鋁價格承壓，中東風險溢價消退】LME期銅收漲40美元，報13366美元/噸。LME期鋁收跌1美元，報3090美元/噸。LME期鋅收漲54美元，報3541美元/噸。LME期鉛收漲16美元，報1892美元/噸。LME期鎳收漲174美元，報16424美元/噸。LME期錫收漲1668美元，報52628美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-07-04 00:49:17  #公司 #市場 #央行 #國際
+
+【歐洲央行管委Nagel強調下次利率決議需保持警惕】歐洲央行管理委員會委員Joachim Nagel表示，歐洲央行應繼續警惕通脹風險，並保持政策靈活性。Nagel說，當前局勢仍然非常動盪，並指出油價下跌出乎市場意料。“我們應當保持警惕，保持開放態度，無論未來發生什麼，都要保留政策選擇空間。我認為，這是我們目前能夠採取的最佳做法，也就是堅持逐次會議作出決策的方式。”本週早些時候，歐洲央行官員結束了在葡萄牙舉行的年度論壇，但對於是否還需要進一步加息，並未形成明確共識。歐洲央行上月提高借貸成本，是七國集團成員央行中首家因伊朗戰爭而採取加息行動的機構。
+
+---
+
+### 2026-07-04 00:49:17  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canadian Dollar Remains Near One-Year Low — The Canadian dollar traded near 1.42 per USD in July, remaining close to a one-year low as pressure from lower oil prices outweighed a softer the US dollar following their weak jobs report. The Canadian currency continued to face headwinds from lower global oil prices, which have reduced Canada's terms-of-trade advantage and reinforced expectations that the BoC will maintain a dovish policy stance if disinflation continues. Domestic data provided only limited support, pointing to modest manufacturing growth and a labor market that remains soft but is showing signs of stabilizing. These conditions are expected to keep the BoC on hold. Meanwhile, uncertainty surrounding negotiations to revise the USMCA continued to weigh on the economic outlook and reduced prospects for future rate hikes. The US dollar, however, remained under pressure at the turn of the month as weak US jobs data lowered expectations of a near-term Fed rate hike.
+
+---
+
+### 2026-07-04 00:48:33  #國際
+
+惠譽評級：已劃分六大區域共計 72 個細分行業，若中東衝突持續，這些行業將持續面臨潛在風險。
+
+---
+
+### 2026-07-04 00:48:00  #MKT News
+
+IRNA: Iran's deputy defense minister said Iran and Pakistan could be the cornerstone of a new regional security arrangement.
+
+---
+
+### 2026-07-04 00:45:32  #MKT News
+
+Fitch: If the Middle East conflict persists, 72 sub‑sectors across six regions will remain exposed to potential risk.
+
+---
+
+### 2026-07-04 00:44:13  #國際
+
+惠譽評級：60 天臨時協議存在脆弱性，且以色列並未參與，這意味著中東衝突仍將對各類企業構成風險。
+
+---
+
+### 2026-07-04 00:43:27  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Fitch Ratings says a 60-day temporary agreement is fragile and, with Israel not participating, indicates the Middle East conflict continues to pose a threat to corporate issuers.
 
 ---
 
@@ -14967,239 +15243,5 @@ Palantir 執行長稱，部分美國政府客戶已轉向採用開源人工智�
 ### 2026-07-03 03:44:23  #公司 #國際
 
 【特朗普財務披露顯示2025年交易逾2.1萬筆】美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。根據其2025年財務披露檔案，這些交易的總金額介於6億美元至18.6億美元之間；該檔案列示交易價值的區間較寬。許多交易涉及與聯邦政府有業務往來的大型公司。對該報告的分析顯示，特朗普平均每個交易日進行85筆交易。2025年執行的所有交易中，約四分之一集中在10個交易日內。其中許多交易發生在特朗普宣佈政策調整之後、華爾街波動加劇之際。特朗普八個獨立交易賬戶之間也存在不一致之處：他在同一天透過一個賬戶買入某隻股票、又透過另一個賬戶賣出同一股票的情況出現了200多次。
-
----
-
-### 2026-07-03 03:39:38  #市場 #國際
-
-【美元指數在非農日跌超0.4%】週四（7月2日）紐約尾盤，ICE美元指數跌0.50%，報100.890點，亞太盤初以來持續走低，北京時20:30釋出美國非農就業報告之前回升至101.200點附近，資料釋出後快速跳水，20:45重新整理日低至100.558點。彭博美元指數跌0.43%，報1219.52點，日內交投區間為1225.21-1216.41點。
-
----
-
-### 2026-07-03 03:37:02  #公司 #國際
-
-【報道：AI基建遇阻，黑石旗下QTS放棄美國弗吉尼亞資料中心建設專案】據知情人士透露，黑石集團旗下的QTS房地產信託公司高管近日決定，已不值得繼續在法庭上推進此事。該公司的律師計劃最早於本週向法院通報這一決定。對於那些多年來一直抗爭並試圖阻止該專案的當地居民而言，這無疑是一場勝利。這家資料中心開發商原計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，改造成全球最大科技走廊之一的核心地帶。由於毗鄰一處具有歷史意義的南北戰爭戰場，並且位於此前受保護而免受開發影響的土地上，該專案引發業主的強烈抵制，並因訴訟而陷入停滯。
-
----
-
-### 2026-07-03 03:36:49  #公司
-
-【分析師：Meta承認AI進展未達預期，但並非“舉白旗”】分析師Adam Button表示，媒體援引Meta Platforms(META.O)內部全員會議訊息稱，CEO扎克伯格坦言，過去四個月AI智慧體開發速度未如預期。本週Meta備受關注，緣於近日傳出該公司考慮出售過剩算力，市場猜測其或正從基礎模型賽道抽身。Meta近期也因裁員、調崗衝擊企業文化，又試圖透過提供零食（安撫）和舉辦駭客松（激發活力） 這種相對表面的手段，來緩和員工情緒。扎克伯格在會上坦言，部門重組“本可以更利落”；高管年初曾擔心“AI行動不夠快”。不過扎克伯格顯然尚未準備退讓，稱重組的最佳成果“尚未實現”，並仍相信長期趨勢與重組方向一致。這聽起來並不像是在舉白旗。媒體最新報道傳出後，Meta股價一度承壓，但隨即便有所反彈。
-
----
-
-### 2026-07-03 03:36:45  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bearish
-
-【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization "could have been cleaner," said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are "yet to come" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound.
-
----
-
-### 2026-07-03 03:27:43  #MKT News #Star Stocks #Tesla #Market Themes #AI Revolution #Magnificent 7 #TSLA.O
-
-【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years.
-
----
-
-### 2026-07-03 03:19:06  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【U.S. officials feared Israel might target Iranian negotiators】U.S. intelligence and diplomatic officials feared during secret U.S.–Iran talks this spring that Israel might plan assassinations of senior Iranian figures involved in the negotiations, including negotiator Araghchi and parliament speaker Qalibaf. Washington alerted Tehran of the potential risk via regional partners, citing concern such strikes would directly undermine fragile ceasefire and interim peace talks. Israeli planning reportedly flagged multiple senior Iranians as possible targets early in the conflict, including moderates linked to dialogue. After April, U.S. engagement intensified — coordinated by Vice President Vance, U.S. Middle East envoy Witkoff and Jared Kushner — to protect the negotiations. Iran responded by tightening security for senior officials and using fighter escorts on some foreign trips to mitigate attack risk.
-
----
-
-### 2026-07-03 03:15:52  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO said he believes long-term trends remain consistent with the underlying objectives of the company’s departmental reorganization.
-
----
-
-### 2026-07-03 03:15:35  #MKT News
-
-【Five Colorado wildfires burn nearly 506 sq km】Five wildfires in Colorado have burned nearly 506 sq km as of the morning of July 2, state officials said. The largest, the Aspen X fire, ignited on the morning of June 29 in southern Colorado and had expanded to about 194 sq km by the evening of July 1. The Pueblo County sheriff's office said Aspen X has destroyed more than 180 structures and injured one firefighter.
-
----
-
-### 2026-07-03 03:15:15  #公司
-
-Meta執行長扎克伯格： 認為長期發展趨勢仍與公司此次重組的整體框架相契合。
-
----
-
-### 2026-07-03 03:14:38  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week.
-
----
-
-### 2026-07-03 03:12:59  #國際
-
-【美國科羅拉多州5場山火蔓延 燒燬近506平方公里土地】當地時間7月2日獲悉，美國科羅拉多州正在燃燒的5場山火截至當天上午共燒燬近506平方公里土地，面積接近科羅拉多斯普林斯市。其中，該州當前規模最大的山火阿斯彭埃克斯火災截至1日晚已擴大至約194平方公里。該火災於6月29日早晨在科羅拉多州南部燃起，普韋布洛縣治安官辦公室稱，該火災已摧毀逾180棟建築，並造成一名消防員受傷。（央視新聞）
-
----
-
-### 2026-07-03 03:12:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Analyst: Saudi crude exports overstated as stranded cargoes inflate earlier counts】Energy Intelligence reporter Amena Bakr, citing sources, said Saudi crude and product exports average about 5.8 mln bpd versus roughly 6.3 mln bpd reported elsewhere, with the higher number including previously stranded cargoes. She warned the description of a "market oversupply" is misleading and said Strait of Hormuz flows remain far from normal. Bloomberg tanker-tracking showed a six-day average to Wednesday of 6.3 mln bpd, roughly equal to the 2025 average and about 90% of February levels.
-
----
-
-### 2026-07-03 03:10:16  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said the company's departmental restructuring bets have not yet paid off.
-
----
-
-### 2026-07-03 03:10:14  #其他
-
-市場訊息：特斯拉將員工每週 AI 工具使用費用上限設定為 200 美元。
-
----
-
-### 2026-07-03 03:09:02  #公司
-
-Meta執行長扎克伯格： 公司為此次架構重組押下的籌碼 “目前尚未見到成效”。
-
----
-
-### 2026-07-03 03:07:09  #MKT News
-
-Brazil's Agriculture Ministry said early-June sugar output in the central-south region fell 3% to 2.30 million tonnes, while ethanol production rose 21% to 2.16 billion litres.
-
----
-
-### 2026-07-03 03:06:50  #其他
-
-市場訊息：O'Reilly 汽配有意收購 Genuine Parts 旗下汽車零部件業務板塊。
-
----
-
-### 2026-07-03 03:06:22  #市場
-
-巴西農業部資料：6 月初巴西中南部乙醇產量增至 21.6 億升，同比上漲 21%。6 月初巴西中南部食糖產量 230 萬噸，同比下降 3%。
-
----
-
-### 2026-07-03 03:04:51  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said executives in early 2026 feared they were 'not moving fast enough' on AI.
-
----
-
-### 2026-07-03 03:04:30  #公司
-
-Meta執行長扎克伯格： 2026 年初高層管理團隊曾擔憂公司在人工智慧領域的推進速度跟不上需求。
-
----
-
-### 2026-07-03 03:04:06  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO said the company’s 2026 departmental reorganization "could have been handled more cleanly."
-
----
-
-### 2026-07-03 03:03:22  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7830元，較週三夜盤收盤漲50點。成交量605.08億美元。
-
----
-
-### 2026-07-03 03:03:07  #公司
-
-Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。
-
----
-
-### 2026-07-03 03:01:03  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot.
-
----
-
-### 2026-07-03 03:00:23  #市場
-
-【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。
-
----
-
-### 2026-07-03 03:00:03  #市場
-
-恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。
-
----
-
-### 2026-07-03 02:59:44  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #SMH
-
-【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market.
-
----
-
-### 2026-07-03 02:59:41  #觀點
-
-法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。
-
----
-
-### 2026-07-03 02:57:57  #其他
-
-Meta一度跌超5%。
-
----
-
-### 2026-07-03 02:57:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) slipped intraday, down 4.89%.
-
----
-
-### 2026-07-03 02:56:18  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected.
-
----
-
-### 2026-07-03 02:55:11  #公司 #焦點
-
-Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未"如我們預期般加速"。
-
----
-
-### 2026-07-03 02:53:33  #市場
-
-布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。
-
----
-
-### 2026-07-03 02:53:28  #公司
-
-【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）
-
----
-
-### 2026-07-03 02:52:23  #MKT News
-
-【China, UK hold 15th Joint Economic and Trade Commission in London】MOFCOM minister Raimondo and the UK trade minister co‑chaired the 15th China‑UK Joint Economic and Trade Commission in London on July 2. China urged the UK to adjust steel quota measures that took effect July 1, saying they raise serious concerns and should be brought into compliance with WTO rules. China welcomed increased UK investment into China and asked London to provide a fair, non‑discriminatory environment for Chinese investors; the UK said it welcomes Chinese investment and will offer greater certainty and predictability. Both sides agreed to implement outcomes from the WTO’s 14th ministerial meeting and to deepen cooperation on trade, investment and multilateral issues; the UK highlighted opportunities from China’s services liberalization and proposed policy dialogue, a UK‑China services partnership and a feasibility study on a services trade agreement.
-
----
-
-### 2026-07-03 02:50:43  #公司
-
-【‌ElevenLabs正洽談要約收購 估值達220億美元‌】ElevenLabs已與投資者展開初步談判，計劃推進一輪二級發售，投後估值約達220億美元。這家公司主打可生成多語言逼真語音的AI軟體，相關工具已面向多個行業推廣落地。儘管ElevenLabs面臨頭部AI巨頭的競爭，但憑藉在語音AI賽道的垂直深耕優勢，依然深受投資者青睞，市場普遍認為其有望在細分領域跑贏大型科技企業。
-
----
-
-### 2026-07-03 02:50:40  #MKT News
-
-Saudi broadcaster Al Arabiya reported the French foreign ministry said it will, at Lebanon's request, deploy an international force to support the Lebanese army.
-
----
-
-### 2026-07-03 02:50:22  #國際
-
-法國外交部：應黎巴嫩政府請求，我方將部署國際部隊支援黎巴嫩軍隊。
-
----
-
-### 2026-07-03 02:49:35  #國際
-
-【中英經貿聯委會第15次會議在倫敦舉行】當地時間7月2日，商務部部長王文濤與英國商貿大臣凱爾在倫敦共同主持召開中英經貿聯委會第15次會議，就貿易、投資以及區域和多邊合作深入交換意見。王文濤表示，今年年初，中英兩國領導人就發展長期穩定的中英全面戰略伙伴關係達成重要共識，為中英經貿合作指明瞭方向。雙方應充分發揮中英經貿聯委會機制作用，進一步推動兩國貿易投資合作。中方歡迎英國擔任今年“出口中國”活動主題國，將積極擴大優質產品自英進口。中方願與英方加快推進中英服貿協定聯合可行性研究工作，為兩國進一步提升服務貿易合作水平創造有利條件。中方歡迎英國企業擴大對華投資，希望英方為中國企業赴英投資提供公平公正非歧視的環境。中英都是世貿組織重要成員，應共同落實好世貿組織第14次部長級會議成果。中方對7月1日生效的英國鋼鐵配額措施表示嚴重關切，希望英方儘快調整措施，確保其符合世貿規則。凱爾表示，經貿合作是英中關係的重要支柱。中國大力發展服務業，為英國企業提供了重要的機遇。英方願與中方加強政策溝通，透過英中服務夥伴關係和英中服貿協定可行性研究，擴大服務領域合作。英方歡迎中國企業赴英投資，願提供更多確定性和可預測性。英方願與中方用好英中世貿組織工作組，加強政策溝通與協調，推動世貿組織改革、電子商務等議題取得積極進展。雙方高度評價聯委會項下的投資、服務貿易、出口管制、世貿組織、航空等工作組的工作進展，期待各工作組為推動雙邊經貿關係發展發揮更大作用。會前，王文濤部長和凱爾大臣同部分中英企業代表交流。（商務部）
 
 ---

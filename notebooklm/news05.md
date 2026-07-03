@@ -1,7 +1,177 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-04 00:42:58_
-_本檔包含 2763 則快訊，約 509501 字_
+_更新時間：2026-07-04 02:01:14_
+_本檔包含 2719 則快訊，約 509007 字_
+
+---
+
+### 2026-06-29 15:23:54  #公司
+
+【科大訊飛旗下資訊科技公司變更負責人】天眼查App顯示，近日，遼寧訊飛資訊科技有限公司發生工商變更，李俊峰卸任法定代表人、執行董事、經理，由馮祥接任法定代表人、經理，同時劉棟瑜新任董事。該公司成立於2021年3月，註冊資本5000萬人民幣，經營範圍包括人工智慧通用應用系統、人工智慧應用軟體開發、大資料服務、資訊系統整合服務等，由科大訊飛（002230）全資持股。
+
+---
+
+### 2026-06-29 15:23:37  #MKT News #USDJPY #Impact bearish
+
+【Nomura: rising intervention vigilance caps USD/JPY upside】Nomura’s global FX strategy team says rising market vigilance about possible Japanese intervention is capping USD/JPY gains. They caution the sample is extremely limited but note past episodes — including 2022 and 2024, when Japan intervened twice in a single year — imply the odds of Ministry of Finance intervention increase as USD/JPY approaches the 163 level.
+
+---
+
+### 2026-06-29 15:23:07  #Trading Economics #Economy #Turkey #Economic Optimism Index #Importance 1
+
+Turkey Economic Confidence Rises to 4-Month High — The Economic Confidence Index in Turkey rose to 98.9 in June 2026 from 97.2 in the previous month, reaching its highest level since February as all five sub-indices posted monthly increases. Consumer confidence recorded the strongest improvement, with the index rising 2.5% month over month to 87.9 from 85.8 in May. The manufacturing confidence index increased to 102 from 101, the services confidence index climbed to 110.5 from 109, the retail trade confidence index edged up to 112.8 from 112.5, and the construction confidence index rose to 83 from 82.1. Despite the broad-based improvement, the economic confidence index remained below the 100 threshold, suggesting that overall sentiment toward the economy was still pessimistic.
+
+---
+
+### 2026-06-29 15:23:03  #焦點 #國際
+
+【以軍稱襲擊黎南部三處真主黨指揮中心】當地時間29日，以色列國防軍發表宣告稱，作為對黎巴嫩真主黨違反停火協議的回應，以軍28日對位於黎巴嫩南部的三處真主黨指揮中心實施了軍事打擊。宣告表示，黎真主黨近期持續對位於“安全區”內的以色列國防軍士兵發動襲擊。作為回應，以軍於28日空襲了真主黨位於黎南部奈拜提耶和邁法敦地區的三處指揮中心。此外，以軍在28日早些時候還摧毀了一個黎真主黨的火箭彈發射裝置。以軍稱，真主黨此前曾持續使用該裝置對前線以軍士兵實施針對性襲擊。以色列國防軍在宣告中重申，以軍將繼續採取行動消除任何針對以方士兵的潛在安全威脅。（央視新聞）
+
+---
+
+### 2026-06-29 15:22:59  #MKT News #005930.KS #Impact bearish #000660.KS
+
+【Morningstar: SK Hynix and Samsung investment plans could create oversupply risk】Samsung Electronics and SK Hynix have announced large-scale investment plans. Morningstar analyst Jing Jie Yu says SK Hynix’s Yongin semiconductor cluster carries total investment commitments of about 600 trillion won; if the new commitments are standalone investments, they could imply material oversupply risk over the next decade, a concern that pushed shares lower intraday. He retains a view that memory-chip pricing is cyclical over the long run, expects new capacity will take at least 2–3 years to come online, and that early output will likely be demand-accretive but later capacity peaks meeting slowing demand typically lead to oversupply. Yu adds that persistent shortages and large cash generation are driving a wave of capacity investment, but unless hyperscale cloud providers’ returns sustain volume and price growth across the cycle, that expansion is unlikely to be maintained over the next ten years.
+
+---
+
+### 2026-06-29 15:22:24  #MKT News
+
+【China says it will not allow Japan, Philippines to unilaterally launch so‑called maritime delimitation talks】Beijing, June 29 — Foreign Ministry spokesman Guo Jiakun reiterated that China has an EEZ and continental shelf east of Taiwan and that Chinese agencies’ activities there are lawful. He said Japan and the Philippines bypassed China to unilaterally launch so‑called maritime delimitation talks, a move that seriously violates UNCLOS and basic norms of international relations and seriously infringes China’s maritime rights; China will not allow it.
+
+---
+
+### 2026-06-29 15:22:00  #其他
+
+【欣旺達動力：積極響應《動力和儲能電池企業供應商賬款支付規範倡議》】6月29日，中國汽車動力電池產業創新聯盟與中關村儲能產業技術聯盟聯合釋出《動力和儲能電池企業供應商款項支付規範倡議》。欣旺達動力表示，積極響應倡議號召，將在訂單確認、交付與驗收、支付與結算、合同期限等關鍵環節落實倡議要求，切實保障供應商權益，穩定供應商預期，增強產業鏈韌性。
+
+---
+
+### 2026-06-29 15:21:20  #MKT News
+
+【Foreign Ministry: China to provide additional 100 mln yuan in emergency in‑kind aid to Venezuela】Foreign Ministry spokesperson Guo Jiakun said at a regular briefing on June 29 that China will provide an additional 100 mln yuan in emergency, non‑reimbursable material aid to Venezuela, supplementing earlier cash assistance, for earthquake relief and reconstruction. The supplies will be sent to Venezuela as soon as possible. China also provided satellite imagery of the affected areas to support relief operations.
+
+---
+
+### 2026-06-29 15:21:03  #MKT News
+
+【Does Australia‑Vanuatu cooperation deal affect China’s presence in Vanuatu? Foreign Ministry responds】June 29 — Foreign Ministry spokesman Guo Jiakun said at a routine briefing that Australia and Vanuatu signed an economic and security cooperation agreement today that bars establishment of foreign military bases on Vanuatu territory. Guo noted Australian officials had earlier expressed concern that China may be seeking to expand a security presence in the region, including Vanuatu. He said China pursues pragmatic cooperation with Pacific island countries, including Vanuatu, based on mutual respect, equality, mutual benefit and openness, and urged that external cooperation with Pacific islands should genuinely support their development and stability, should not target third parties and should not be used for geopolitical rivalry.
+
+---
+
+### 2026-06-29 15:20:46  #國際
+
+【日菲擅自啟動所謂海域劃界談判中方絕不允許】6月29日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，日本政府發言人稱，中國海警在與那國島以南的日本專屬經濟區內的活動，以及對這些海域的主權主張是不可接受的。中方對此有何回應？ 郭嘉昆表示，中方已經多次闡明瞭嚴正立場。我們願重申，中國在臺灣島以東海域擁有專屬經濟區和大陸架，中方有關部門在該海域開展相關活動合理合法、無可非議。日本、菲律賓繞開中方擅自啟動所謂“海域劃界談判”，嚴重違反包括《聯合國海洋法公約》在內的國際法和國際關係基本準則，嚴重侵害中方海洋權益，中方絕不允許。（北青報）
+
+---
+
+### 2026-06-29 15:20:20  #國際
+
+【外交部：願根據委內瑞拉災情進展，繼續向委方提供更多支援】6月29日，外交部發言人郭嘉昆主持例行記者會。有記者提問，委內瑞拉地震發生以來，傷亡人數持續上升。請問中方為委內瑞拉地震救災提供了哪些幫助?郭嘉昆表示，中方十分關注委內瑞拉地震災情，習近平主席已向委內瑞拉代總統羅德里格斯致慰問電。中國政府已決定在此前向委方提供現匯援助的基礎上，向委方追加1億元人民幣緊急無償物資援助，用於地震救災和災後重建，並將儘快運抵委內瑞拉。郭嘉昆介紹，中方還向委方提供了地震災區衛星影象，為委方抗震救災提供支援。在委內瑞拉的中資企業和華僑社團紛紛自發向委方提供救援工作急需的工程機械和醫療物資，並組建救援隊，積極參與搜救工作。中方願根據委內瑞拉災情進展，繼續向委方提供更多支援。（澎湃新聞）
+
+---
+
+### 2026-06-29 15:20:07  #公司 #國際
+
+【外交部回應將部分日本實體列入出口管制管控名單：堅決遏制日本新型軍國主義妄動】6月29日，外交部發言人郭嘉昆主持例行記者會。日本廣播協會（NHK）記者提問，中國商務部今天宣佈將部分日本實體列入出口管制管控名單。此前商務部曾表示，相關措施不影響中日正常經貿往來。日本經濟團體方面稱，即便在民用領域，日本企業的稀土採購也已經受到影響。請問外交部如何看待此次措施？中方如何評價此次措施對兩國正常經貿往來的影響？郭嘉昆表示，中方主管部門已經發布公告並闡明中方立場。我們要強調的是，中方此舉完全正當、合理、合法，旨在堅決遏制日本新型軍國主義妄動。“我們希望日方迷途知返，糾正錯誤行徑，真正反思並回到正確軌道。”郭嘉昆說，中方依法列單的行為僅針對少數日本實體相關措施，僅針對兩用物項，不影響中日正常經貿往來。誠信守法的日本實體完全無需擔心。（澎湃新聞）
+
+---
+
+### 2026-06-29 15:19:57  #國際
+
+【澳瓦簽署合作協議影響中國在萬那杜存在？外交部回應】6月29日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，澳大利亞與萬那杜今天簽署了一項經濟與安全合作協議，禁止在該太平洋島國領土上建立任何外國軍事基地。澳大利亞官員此前曾表示擔憂，稱中國正尋求擴大在該地區，包括萬那杜的安全存在。請問外交部對此有何評論？郭嘉昆表示，中方始終秉持相互尊重、平等相待、互利共贏、開放包容的原則，同包括萬那杜在內的太平洋島國開展各領域的務實合作。“我們希望有關國家同太平洋島國開展合作，真正有利於島國地區的發展和穩定，不應該針對第三方，更不應藉此搞地緣博弈。”（澎湃新聞）
+
+---
+
+### 2026-06-29 15:19:44  #Trading Economics #Economy #Spain #Retail Sales YoY #Importance 1
+
+Spain Retail Sales Growth Accelerates in May — Retail sales in Spain rose 1.3% year-on-year in May 2026, following a 0.6% increase in April. Sales growth accelerated for non-food products (3.7% vs 2.3% in April), particularly personal equipment (3.4% vs 0.2%); household equipment (5.7% vs 2.7%) and healthcare products (2.6% vs 1.9%). Spending on food also picked up (2% vs 1.4%). On a seasonally adjusted monthly basis, retail trade increased by 0.6% in May, reversing a 1.5% decrease in the previous month.
+
+---
+
+### 2026-06-29 15:19:35  #公司
+
+【中國交建等在合肥新設科技產業發展公司】企查查APP顯示，近日，合肥交智科技產業發展有限公司成立，經營範圍包括房地產開發經營、園區管理服務、工程管理服務等。企查查股權穿透顯示，該公司由中國交建(601800)全資子公司中交投資有限公司等共同持股。
+
+---
+
+### 2026-06-29 15:19:17  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
+
+【Spain inflation unexpectedly above ECB 2% target】Energy prices have eased since a US‑Iran peace agreement, but Spain’s inflation remains well above the ECB’s 2% target. June harmonized CPI (HICP) rose 3.6% YoY, unchanged from May. Electricity and gas costs were the main upward contributors; gasoline prices partially offset the rise. This is the first major inflation print after the ECB’s recent rate increases; other major-economy inflation data are due Tuesday and euro‑area HICP on Wednesday. Markets had been expecting a slowdown and have pared back ECB rate‑hike bets.
+
+---
+
+### 2026-06-29 15:19:02  #其他
+
+【兩大產業聯盟聯合釋出《動力和儲能電池企業供應商賬款支付規範倡議》】其中提出，堅持平等、自願、公正、誠信原則，遵守國家相關法律法規，落實《保障中小企業款項支付條例》要求，不利用大企業優勢地位侵害供應商利益，共建公平公正、誠信合規、合作共贏的產業生態，推動動力和儲能電池產業高質量、可持續健康發展。
+
+---
+
+### 2026-06-29 15:18:41  #公司 #國際
+
+【馬來西亞同意延長馬航370航班客機殘骸搜尋工作】馬來西亞交通部29日發表宣告說，馬來西亞政府將延長與水下探測公司“海洋無限”的協議期限，繼續在印度洋南部海域開展馬來西亞航空公司370航班客機殘骸搜尋工作。宣告說，馬來西亞內閣於本月26日批准延長雙方搜尋工作協議。協議延長一年，有效期為2026年7月1日至2027年6月30日。（新華社）
+
+---
+
+### 2026-06-29 15:17:39  #市場 #觀點
+
+【野村：對匯市干預警惕性升溫限制美元兌日元漲幅】野村全球外匯策略團隊的四位分析師在一份研究報告中表示，由於對日本相關部門干預外匯市場的警惕性升溫，美元兌日元的漲幅繼續受限。他們表示：“基於過去的干預事件，儘管我們注意到樣本量極其有限，但我們留意到，隨著美元兌日元接近163水平，日本財務省干預的可能性越來越大。“這些分析師基於2022年和2024年同一年內兩輪買入日元干預的資料，估算出163這一水平。倫敦證券交易所集團資料顯示，美元基本持平，報161.79日元。
+
+---
+
+### 2026-06-29 15:17:26  #公司
+
+【娃哈哈旗下天水飲料公司更名宏勝】天眼查App顯示，近日，天水娃哈哈飲料有限公司發生工商變更，企業名稱變更為天水宏勝飲料有限公司。該公司成立於2010年3月，法定代表人為曾哲泉，註冊資本825萬美元，經營範圍包括食品生產、食品用塑膠包裝容器工具製品生產、食品銷售等，由盛佳集團有限公司、麗水宏博飲料有限公司共同持股。
+
+---
+
+### 2026-06-29 15:16:17  #市場 #焦點
+
+南向資金淨賣出額達20億港元。
+
+---
+
+### 2026-06-29 15:16:11  #MKT News
+
+【China government bond futures midday close】China government bond futures midday close: front-month 2-year (TS) up 0.03%, 5-year (TF) up 0.10%, 10-year (T) up 0.14%, 30-year (TL) up 0.12%.
+
+---
+
+### 2026-06-29 15:16:02  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 1.19% Higher — The Shangai Composite Index gained 48 points or 1.19 percent on Monday to close at 4075 points. Gains were led by Jiangsu Hengrui (8.18%), Sh Fosun Pharma (6.65%) and Guangzhou Baiy (3.95%).
+
+---
+
+### 2026-06-29 15:15:01  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.14%， 5年期主力合約漲0.10%， 2年期主力合約漲0.03%。
+
+---
+
+### 2026-06-29 15:14:31  #Trading Economics #Economy #Spain #Inflation Rate #Importance 2
+
+Spain Inflation Rate Holds at 3.2% as Expected — Spain's annual inflation rate remained unchanged at 3.2% in June 2026, matching the readings in May and April and meeting market expectations, according to preliminary estimates. Upward pressure came from electricity and gas prices, which increased more sharply than they did in June 2025. In contrast, motor fuels and lubricants for personal vehicles helped moderate inflation, as their prices declined compared with the increase recorded a year earlier. Meanwhile, the core inflation rate eased to 2.9% from an upwardly revised 3.0% in May. On a monthly basis, the CPI rose 0.6%.
+
+---
+
+### 2026-06-29 15:12:43  #Trading Economics #Economy #Slovakia #Consumer Confidence #Importance 1
+
+Slovakia Consumer Morale Hits 4-Month High — Slovakia's consumer confidence indicator rose to -27.3 in June 2026 from a more than three-year low of -28.3 in the previous month. It marked the highest level since February, mainly driven by less pessimistic expectations regarding households' future financial situation (-11.3 vs -13.4 in May) and a more favorable assessment of their past financial situation (-15.1 vs -17.2). Consumers were also less negative about the country's future economic outlook (-42.4 vs -44.0), although their assessment of the past economic situation deteriorated slightly (-54.7 vs -53.6). Expectations for unemployment improved (36.2 vs 36.6), while expectations for household savings were marginally less negative (-19.1 vs -19.3). On the inflation front, perceptions of past price growth eased (42.4 vs 45.1), while inflation expectations also softened notably (36.6 vs 40.8).
+
+---
+
+### 2026-06-29 15:11:34  #公司
+
+【歌爾股份旗下精密製造公司增資至約10.7億】天眼查App顯示，近日，怡力精密製造有限公司發生工商變更，註冊資本由約10.1億人民幣增至約10.7億人民幣。該公司成立於2013年7月，法定代表人為何朝明，經營範圍包括開發、製造、銷售光電子器件及其他電子器件等，由歌爾股份（002241）、香港歌爾泰克有限公司共同持股。
+
+---
+
+### 2026-06-29 15:11:29  #公司 #市場
+
+【上海期貨交易所：同意華友鈷業“HUAYOU”牌電解鎳（電積工藝）（三期）註冊】6月29日，上海期貨交易所公告，近期，上期所收到浙江華友鈷業股份有限公司報送的相關申請材料。根據《上海期貨交易所有色金屬交割商品管理規定》等有關規定，經研究決定：
+一、同意浙江華友鈷業股份有限公司子公司衢州華友鈷新材料有限公司生產的“HUAYOU”牌電解鎳（電積工藝，Ni99.96）（三期）在我所註冊，註冊產能5萬噸，執行標準價。
+二、自公告之日起，上述產品可用於我所鎳期貨合約的履約交割。
 
 ---
 
@@ -16259,439 +16429,5 @@ Israeli Prime Minister Netanyahu said Israel will remain indefinitely in the sec
 ### 2026-06-27 02:02:09  #國際
 
 【多明尼加附近海域發生5.2級地震】據美國地質調查局訊息，當地時間6月26日12時06分，多明尼加東南部附近海域發生5.2級地震，震源深度82千米。目前沒有引發海嘯預警。
-
----
-
-### 2026-06-27 02:00:16  #MKT News #Market Themes #AI Revolution
-
-【U.S. to decide who can access OpenAI's new ChatGPT model, Washington Post reports】The U.S. government will vet companies seeking to use OpenAI's latest model, GPT-5.6 (Sol), the Washington Post reports, marking a significant expansion of the Trump administration's oversight of Silicon Valley. OpenAI said the government will initially approve who can access the new model and that AI firms and government agencies will jointly develop a long-term regulatory framework. OpenAI warned it does not believe such a government approval process should become the default, saying it would prevent developers, enterprises, cybersecurity defenders and international partners from accessing the best tools.
-
----
-
-### 2026-06-27 01:55:41  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish
-
-【Israel Transport Ministry: U.S. to accelerate withdrawal of military aircraft from Ben‑Gurion Airport】Israel's Transport Ministry said on the 26th it reached an understanding with U.S. forces to accelerate removal of U.S. military aircraft from Ben‑Gurion Airport. Under the pact, 30 aircraft will be moved to Israeli airbases by the 30th of this month, with the remaining 20 withdrawn thereafter. The agreement permits U.S. aircraft to return to Ben‑Gurion within 72 hours if the local security situation escalates.
-
----
-
-### 2026-06-27 01:55:19  #MKT News
-
-【U.S., Israel and Lebanon sign three-party framework after fifth-round talks】U.S., Israeli and Lebanese negotiators signed a three-party framework after a fifth round of talks. Discussions included a U.S.-backed proposal for Israeli forces to transfer some occupied territory to the Lebanese army. Lebanon sought a full Israeli withdrawal; Israel said any pullback must be conditioned on Hezbollah’s full disarmament and guarantees it will not reestablish a military presence on the border. U.S. Secretary of State Rubio called the deal a first step and said substantial work remains.
-
----
-
-### 2026-06-27 01:55:08  #焦點 #國際
-
-【以色列交通部：美軍將加速撤離停在以機場的美國軍機】當地時間26日，以色列交通部發表宣告稱，以色列已與美軍達成諒解協議，美軍將加速撤離部署在以色列本-古裡安機場的美國軍用飛機。根據諒解協議，到本月30日前，30架美軍飛機將逐步撤離至以色列境內的空軍基地；隨後剩餘的20架軍機也將完成撤離。諒解協議同時規定，若當地安全域性勢出現升級，美國軍機獲准在72小時內重新返回本-古裡安機場。（央視新聞）
-
----
-
-### 2026-06-27 01:53:59  #焦點 #國際
-
-【黎以美達成三方框架協議】據外媒報道，黎巴嫩、以色列和美國26日在華盛頓宣佈達成三方框架協議。(新華社)
-
----
-
-### 2026-06-27 01:53:40  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE: Gasoil speculators cut net long positions by 294 contracts to 60,516 in the week to June 23. Brent crude speculators cut net longs by 23,790 contracts to 90,338 over the same period.
-
----
-
-### 2026-06-27 01:45:50  #公司
-
-沃爾瑪繼承人盧卡斯・沃爾頓將收購 NBA 芝加哥公牛隊股份。
-
----
-
-### 2026-06-27 01:45:32  #其他
-
-【委內瑞拉強震死亡人數上升至920人】當地時間26日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報稱，截至目前，委內瑞拉24日發生的強震遇難人數已升至920人，另有3360人受傷，383棟住宅樓完全或嚴重受損，其中大部分位於拉瓜伊拉州。（央視新聞）
-
----
-
-### 2026-06-27 01:43:12  #焦點 #國際
-
-美國、以色列、黎巴嫩簽署三邊框架協議。
-
----
-
-### 2026-06-27 01:43:05  #MKT News #Important
-
-The U.S., Israel and Lebanon signed a trilateral framework agreement.
-
----
-
-### 2026-06-27 01:42:36  #國際
-
-美國商務部長盧特尼克稱讚歐盟推進美歐貿易協定相關立法。
-
----
-
-### 2026-06-27 01:41:55  #國際
-
-以色列駐美國大使：這份三方框架協議以實際執行成效為基準。
-
----
-
-### 2026-06-27 01:41:53  #MKT News
-
-Israel's ambassador to the United States said the trilateral framework will be results-driven.
-
----
-
-### 2026-06-27 01:36:55  #MKT News
-
-U.S. Secretary of State Rubio said there is still much work to be done.
-
----
-
-### 2026-06-27 01:36:46  #國際
-
-美國國務卿魯比奧：後續仍有大量工作有待推進。
-
----
-
-### 2026-06-27 01:35:12  #MKT News #Important
-
-US Secretary of State Rubio said Israel and Lebanon reached a framework agreement following talks in Washington.
-
----
-
-### 2026-06-27 01:35:03  #焦點 #國際
-
-美國國務卿魯比奧：在華盛頓會談後宣佈以色列與黎巴嫩達成框架協議。
-
----
-
-### 2026-06-27 01:32:29  #其他
-
-【聯合國官員：委內瑞拉強震後逾5萬人失蹤】當地時間26日，聯合國分管人道主義事務的副秘書長兼緊急救援協調員湯姆·弗萊徹表示，在委內瑞拉發生強烈地震後，已有超過5萬人失蹤，他認為死亡人數“可能還會大幅增加”。弗萊徹稱，“目前有超過5萬人失蹤，已有500多人遇難；因此，在廢墟中搜尋是一項艱鉅的任務。”（央視新聞）
-
----
-
-### 2026-06-27 01:32:01  #國際
-
-黎巴嫩訊息人士表示：我們不會接受任何為以色列留在黎巴嫩任何土地上進行辯護或允許其留下的措辭。（Al-Hadath）
-
----
-
-### 2026-06-27 01:31:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Drone strike on Luhansk region kills 2, wounds 4 — Russia-appointed head】Pasechnik, the Russia-appointed head of Luhansk region, said on social media on the 26th that Ukrainian forces launched a drone strike that killed two and wounded four. The injured were taken to medical facilities for treatment.
-
----
-
-### 2026-06-27 01:31:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. energy firms sharply increase drilling rig count】Baker Hughes said the U.S. rig count rose by 10 in the week to June 26, the largest weekly increase since June 2022, bringing the total to 573 — the highest since May 2025. The gain, an early indicator of future output, leaves the rig count up 26 rigs year‑on‑year (+5%). Oil rigs added seven to 440, the highest since June 2025; gas rigs rose three to 125; other rigs held at eight.
-
----
-
-### 2026-06-27 01:30:56  #國際
-
-【盧甘斯克地區遭襲致2死4傷】俄羅斯方面任命的盧甘斯克地區領導人帕謝奇尼克26日在社交媒體發文說，烏軍對盧甘斯克地區發動無人機襲擊致2人死亡、4人受傷。傷者已被送往醫療機構接受治療。（新華社）
-
----
-
-### 2026-06-27 01:29:31  #焦點 #國際
-
-【以媒：以黎就小幅撤軍達成框架協議】據以色列媒體26日報道，以色列和黎巴嫩已就以軍從黎南部部分地區小幅撤離達成框架協議，雙方預計將很快啟動協議簽署程式。（新華社）
-
----
-
-### 2026-06-27 01:29:27  #MKT News #Important #Brent #Impact bearish #XAUUSD #DXY
-
-【Israeli media: Israel, Lebanon reach framework agreement on limited withdrawal】Israeli media reported on the 26th that Israel and Lebanon have reached a framework agreement for a limited withdrawal of Israeli forces from parts of southern Lebanon; both sides expect to begin formal signing procedures soon.
-
----
-
-### 2026-06-27 01:25:48  #MKT News #Important
-
-【Iran denies US-Iran hotline on Strait of Hormuz】On the 26th, a spokesman for the Islamic Revolutionary Guard Corps (IRGC) denied reports that Iran and the United States had established a hotline on the Strait of Hormuz, calling the claims fabricated.
-
----
-
-### 2026-06-27 01:25:28  #焦點 #國際
-
-【伊朗否認伊美就霍爾木茲海峽問題建立溝通熱線】當地時間26日，伊朗伊斯蘭革命衛隊發言人侯賽因·穆赫比表示，針對“伊朗與美國已就霍爾木茲海峽問題設立溝通熱線”的說法予以否認，並稱該訊息完全是捏造。（央視新聞）
-
----
-
-### 2026-06-27 01:23:59  #MKT News
-
-The Democratic Republic of Congo said confirmed Ebola cases have risen to 1,203, including 321 deaths.
-
----
-
-### 2026-06-27 01:22:47  #其他
-
-委內瑞拉臨時總統羅德里格斯：委內瑞拉地震死亡人數升至920人。
-
----
-
-### 2026-06-27 01:22:22  #Trading Economics #Economy #Paraguay #GDP Annual Growth Rate #Importance 1
-
-Paraguay Economy Grows in Q1 2026 — Paraguay’s economy expanded 5.8% year-on-year in the first quarter of 2026, easing from a 6.2% increase in the previous quarter. The services sector rose 6.6% on strong performances in transportation, financial intermediation, household and government services, real estate, restaurants and hotels, business services, telecommunications, information services, and valuation services. Manufacturing activity increased 6.0%, supported by higher production of oils, dairy products, sugar, milling and bakery products, beverages and tobacco, chemical and pharmaceutical products, paper, wood, non-metallic minerals, basic metals, machinery and equipment, and other manufactured goods. Agriculture grew 8.2%, driven by stronger soybean, sugarcane, cassava, beans, sunflower, and tobacco output. The construction sector expanded 5.6% on faster private-sector project execution, while utilities rose 4.7%, supported by solid performances in electricity distribution, water supply, and sanitation.
-
----
-
-### 2026-06-27 01:21:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-An Israeli official told i24News the Israel Defense Forces will not withdraw from the Yellow Line until Hezbollah is disarmed and no longer poses a threat to Israel, saying "we will maintain freedom of action in the security zone."
-
----
-
-### 2026-06-27 01:21:10  #MKT News
-
-Market news: Venezuela earthquake death toll rises to 920.
-
----
-
-### 2026-06-27 01:20:59  #其他
-
-裡德半導體（Reed Semiconductor）宣佈完成1億美元融資。
-
----
-
-### 2026-06-27 01:20:56  #MKT News #Market Themes #Chip Wars
-
-Reed Semiconductor said it closed a $100 million funding round.
-
----
-
-### 2026-06-27 01:20:42  #其他
-
-剛果民主共和國稱，埃博拉確診病例已升至 1203 例，其中包含 321 例死亡病例。
-
----
-
-### 2026-06-27 01:17:21  #Trading Economics #Economy #United States #Calendar #Importance 2
-
-Week Ahead - Jun 29th — Markets will monitor the flow of tankers and commercial vessels through the Strait of Hormuz, as the recent rebound in traffic drove energy prices to decline. The US will release a batch of labor market data, headlined by the June jobs report, topping off results from the JOLTS, ADP report, and the Challenger job cuts report. Other key data includes the ISM Manufacturing PMI, factory orders, and Case-Schiller home prices. In Europe, the ECB will host speeches by Governing Council members and other central bankers in their annual forum. Also, the Eurozone and its largest economies will publish their inflation rate. In Japan, the Tankan index will take the spotlight along with industrial production, retail sales, and the unemployment rate. Meanwhile, China will post both official and broader industry PMIs.
-
----
-
-### 2026-06-27 01:16:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $6.426 billion from eight counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-06-27 01:16:21  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週五使用規模為64.26億美元，上個交易日報57.18億美元。
-
----
-
-### 2026-06-27 01:16:10  #公司 #國際
-
-美國聯邦貿易委員會（FTC）批准馬斯克收購MESH光學技術公司。
-
----
-
-### 2026-06-27 01:15:58  #央行 #國際
-
-週五（6月26日），美聯儲隔夜逆回購協議（RRP）使用規模為64.26億美元，上個交易日報57.18億美元。
-
----
-
-### 2026-06-27 01:15:11  #MKT News
-
-Lebanese sources said they will never accept any statement defending or permitting Israel’s continued presence on Lebanese territory.
-
----
-
-### 2026-06-27 01:14:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Atlanta Fed search for new president deadlocked】TIMIRAOS reports the selection of a new president at the Federal Reserve Bank of Atlanta has deadlocked after the initial candidate slate failed to produce a nominee, forcing a restart of a search that has already lasted seven months. The delay highlights strains on Fed independence; regional presidents participate in rate-setting and their appointments are intended to be insulated from Washington political influence.
-
----
-
-### 2026-06-27 01:08:51  #國際
-
-美國疾控中心表示，埃博拉在美國傳播的風險仍處於較低水平。
-
----
-
-### 2026-06-27 01:08:44  #MKT News
-
-U.S. Centers for Disease Control and Prevention says the risk of Ebola transmission in the U.S. remains relatively low.
-
----
-
-### 2026-06-27 01:07:27  #MKT News #Market Themes #AI Revolution
-
-OpenAI begins limited preview testing of its GPT-5.6 series.
-
----
-
-### 2026-06-27 01:06:54  #MKT News
-
-US Centers for Disease Control and Prevention raised its response level for the Congo Ebola outbreak to Level 1, the agency's highest.
-
----
-
-### 2026-06-27 01:06:02  #央行 #國際
-
-據 Semafor 報道，貝森特就人工智慧相關事宜展開溝通，並對美聯儲支付系統發出警示。
-
----
-
-### 2026-06-27 01:05:20  #國際
-
-美國疾控中心將針對剛果埃博拉疫情的應急響應等級提升至一級啟動狀態，即最高響應級別。
-
----
-
-### 2026-06-27 01:04:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Baker Hughes said US energy companies added the most drilling rigs in a single week since June 2022.
-
----
-
-### 2026-06-27 01:03:47  #MKT News
-
-U.S. natural gas rig count 125 in the week to June 26, versus 122 in the prior week.
-
----
-
-### 2026-06-27 01:03:39  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Natural Gas Rig Count (Jun.26) | actual 125 | previous 122
-
----
-
-### 2026-06-27 01:03:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-According to the Wall Street Journal, the Atlanta Fed's search for a new president has stalled.
-
----
-
-### 2026-06-27 01:03:11  #國際
-
-美國油服貝克休斯：美國能源企業活躍石油鑽井機連增兩週。
-
----
-
-### 2026-06-27 01:02:54  #其他
-
-OpenAI 開啟 GPT-5.6 系列有限預覽版測試。
-
----
-
-### 2026-06-27 01:02:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US total rig count for the week to June 26: 573 rigs, up from 563 the prior week.
-
----
-
-### 2026-06-27 01:02:23  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Rig Count (Jun.26) | actual 573 | previous 563
-
----
-
-### 2026-06-27 01:02:00  #MKT News #Important #WTI #Impact bearish #Brent
-
-US oil rigs totaled 440 in the week to June 26, up from 433 the previous week.
-
----
-
-### 2026-06-27 01:01:53  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Oil Rig Count (Jun.26) | actual 440 | previous 433
-
----
-
-### 2026-06-27 01:01:36  #焦點 #國際
-
-貝克休斯：美國石油鑽井平臺數量增加7個，達到440個。
-美國鑽井平臺總數為573臺。
-美國天然氣鑽井平臺數量增加3個，達到125個。
-
----
-
-### 2026-06-27 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.90%，滬銅收漲0.90%，滬鋁收漲0.81%，滬鋅收漲2.16%，滬鉛收跌0.37%，滬鎳收漲0.36%，滬錫收漲1.66%。氧化鋁夜盤收漲0.64%，鋁合金收漲1.66%。不鏽鋼夜盤收漲0.48%。
-
----
-
-### 2026-06-27 00:59:01  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-IMF chief economist Gourinchas said the global economy remains centered on the dollar.
-
----
-
-### 2026-06-27 00:50:56  #MKT News #Market Themes #Chip Wars #QCOM.O
-
-Semafor reports Qualcomm (QCOM.O) plans to introduce a new smartphone chip architecture.
-
----
-
-### 2026-06-27 00:50:17  #其他
-
-據 Semafor 訊息，高通計劃推出全新手機晶片架構。
-
----
-
-### 2026-06-27 00:50:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
-
-U.S. oil rig count for the week to June 26 due in 10 minutes.
-
----
-
-### 2026-06-27 00:47:22  #MKT News #WTI #Impact bearish #Brent
-
-According to Iranian Nour News, an Islamic Revolutionary Guard Corps spokesman denied reports of a direct dividing line between Iran and the United States in the Strait of Hormuz, calling them "complete lies" and saying the strait is "Iranian territory, unrelated to the US."
-
----
-
-### 2026-06-27 00:47:19  #焦點 #國際
-
-努爾新聞社訊息：伊朗革命衛隊發言人否認有關伊朗與美國在霍爾木茲海峽存在直接分界線的說法，稱其“完全是謊言”，並表示霍爾木茲海峽是“伊朗領土，與美國無關”。
-
----
-
-### 2026-06-27 00:47:08  #央行 #國際
-
-IMF首席經濟學家古蘭沙： 美聯儲此次舉措釋放強烈訊號，但各國央行仍需為長期利率提供某種形式指引。 美聯儲不再採用力度較強的貨幣政策前瞻性指引，這一做法 “完全恰當”。 市場總會解讀央行釋放的各類訊號；如有必要，央行將出手進行預期修正。
-
----
-
-### 2026-06-27 00:46:54  #MKT News
-
-IMF chief economist GOURINCHAS said markets will always interpret signals from central banks, and central banks will step in to correct when necessary.
-
----
-
-### 2026-06-27 00:46:41  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-GOURINCHAS, IMF chief economist, said the Fed's gradual abandonment of strong forward guidance in monetary policy is "entirely appropriate."
-
----
-
-### 2026-06-27 00:46:33  #MKT News #Macro & Rates #The Fed (FOMC)
-
-IMF chief economist Gourinchas said the Fed's actions sent a strong signal, but central banks still need to provide some form of guidance on long-term interest rates.
-
----
-
-### 2026-06-27 00:46:13  #MKT News #Important
-
-Israeli senior officials say Israel and Lebanon are expected to sign a framework agreement in Washington on Friday; Axios cites a senior Israeli official saying a framework agreement has been reached with Lebanon.
-
----
-
-### 2026-06-27 00:45:48  #焦點 #國際
-
-以色列高階官員：以色列與黎巴嫩預計週五在華盛頓簽署框架協議。
-
----
-
-### 2026-06-27 00:44:26  #MKT News #Important
-
-NewsNation cited a US official saying that, despite Trump alleging Iran violated a ceasefire agreement, US-Iran negotiations are expected to continue.
 
 ---

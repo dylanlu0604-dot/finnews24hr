@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-04 00:42:58_
-_本檔包含 2461 則快訊，約 509593 字_
+_更新時間：2026-07-04 02:01:14_
+_本檔包含 2467 則快訊，約 508781 字_
+
+---
+
+### 2026-07-01 14:44:08  #MKT News #Important #603986.SS #Impact bearish
+
+A-share GigaDevice saw turnover exceed 40 billion yuan and is currently down more than 5%.
+
+---
+
+### 2026-07-01 14:44:07  #MKT News
+
+【Samsung teases Galaxy Z Fold8, Z Flip8 and Z Fold8 Ultra; Unpacked may be July 22 in London】Android Authority reported Samsung has launched a new marketing push for three foldable phones — Galaxy Z Fold8, Galaxy Z Flip8 and Galaxy Z Fold8 Ultra — and may host a Galaxy Unpacked event in London on July 22 to unveil them.
+
+---
+
+### 2026-07-01 14:44:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Steel Extends Decline Toward 8-Month Low — Steel rebar futures dropped below CNY 3,040 per ton on Wednesday, approaching their lowest levels in eight months as tighter European Union restrictions on steel imports darkened the demand outlook. The European Commission rolled out a revised safeguard mechanism that sharply curbs duty-free steel imports to shield the bloc’s steel industry and improve capacity utilization. Effective Wednesday, the EU reduced its annual tariff-free import quota by 47% to 18.3 million metric tons and imposed a 50% tariff on imports exceeding the quota across 26 steel product categories. Prices also remained under pressure from sluggish demand in top consumer China, where Zenith Steel lowered its early-July rebar prices, signaling weaker consumption as the prolonged downturn in the property market continued to weigh on construction activity.
+
+---
+
+### 2026-07-01 14:43:35  #國際
+
+【日興證券：日本暫停干預可能是出於戰略考慮，而非默許日元走弱】SMBC日興證券經濟學家Junichi Makino表示，日本財務省最近長達一個月的外匯干預暫停可能是出於戰略考慮，而不是默許日元走弱。Makino說，該財務省可能認為暫停匯市干預是更明智的做法，因為對美國利率上升的預期會削弱任何干預措施的效果。日本財務省的資料顯示，在5月28日至6月26日期間，該部門沒有進行買入日元的操作。美元最新報162.71日元。
+
+---
+
+### 2026-07-01 14:43:02  #公司
+
+【寧德時代增資至約45.6億】天眼查App顯示，近日，寧德時代（300750）發生工商變更，註冊資本由約44億人民幣增至約45.6億人民幣。該公司成立於2011年12月，法定代表人為曾毓群，經營範圍包括鋰離子電池、鋰聚合物電池、燃料電池、動力電池、超大容量儲能電池、電池管理系統及可充電電池包的開發、生產和銷售及售後服務等，由廈門瑞庭投資有限公司、香港中央結算有限公司、黃世霖等共同持股。
+
+---
+
+### 2026-07-01 14:43:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Aluminum Drops to Lowest in Over 4 Months — Aluminum futures in the UK fell below $3,100 per tonne, the lowest since February, pressured by a stronger US dollar and expectations of renewed metal shipments from the Persian Gulf. The decline extended June's 16% plunge, the steepest monthly drop since 2008, which followed a strong rally from March to May. Expectations of an imminent US interest rate hike have strengthened the greenback, making dollar-denominated commodities more expensive for buyers using other currencies. Easing tensions in the Middle East have also raised the prospect for the resumption of metal exports from the region, which accounts for nearly a 10th of global aluminum output. Additional downward pressure has come from rising production in China, the world's largest producer, as well as increased output from smelters in Indonesia.
+
+---
+
+### 2026-07-01 14:42:45  #Trading Economics #Economy #Australia #Commodity Prices YoY #Importance 1
+
+Australia Commodity Prices Rise 16.9% in June — The Reserve Bank of Australia’s Index of Commodity Prices rose 16.9% year-on-year in June 2026, following an upwardly revised 18.4% jump in the previous month. The increase was driven largely by strong price growth in gold, coking oil, and rural commodities, which more than offset declines in liquefied gas (LNG) and alumina prices. On a monthly basis, the index dropped 2.2%, following a downwardly revised 1.1% growth in the prior period, weighed down by lower costs across non-rural and base metals, while rural commodities recorded increases.
+
+---
+
+### 2026-07-01 14:42:04  #國際
+
+澤連斯基：感謝塞普勒斯對歐盟理事會富有成效且實質性的主席國任期。在這六個月裡，我們成功開啟了第一個談判叢集，並正式啟動烏克蘭加入歐盟的談判。我們啟動了歐盟900億歐元的金融支援計劃。針對俄羅斯的第20輪制裁方案獲得透過。
+
+---
+
+### 2026-07-01 14:40:40  #央行 #美聯儲
+
+【巴克萊銀行：美聯儲路徑不明朗 股市關注焦點轉向盈利】據報道，巴克萊銀行策略師表示，鑑於美聯儲在新任主席領導下的發展方向不明朗，市場更加關注盈利能力對股票表現的催化作用。
+
+---
+
+### 2026-07-01 14:40:35  #市場
+
+LG新能源股價下跌3.9%，收於348,000韓元。
+
+---
+
+### 2026-07-01 14:40:18  #公司
+
+【廈門國本國資產業投資基金登記成立 出資額100.01億】天眼查App顯示，近日，廈門國本國資產業投資基金合夥企業（有限合夥）成立，出資額100.01億人民幣，執行事務合夥人為廈門國升發展私募基金管理有限責任公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由廈門國有資本投資有限責任公司、廈門輕工集團創業投資有限公司、廈門安居控股集團有限公司等共同出資。
+
+---
+
+### 2026-07-01 14:40:18  #MKT News #GBPUSD #Impact mixed
+
+【UK house prices stagnate despite easing mortgage costs】Nationwide said UK house prices were flat in June for a second consecutive month, with the average at £277,484 after a 0.6% fall in May, missing economists’ 0.1% growth forecast. Middle East hostilities disrupted the mortgage market and ended the strong early‑year price momentum. Mortgage rates have eased from April peaks but remain above pre‑conflict levels. With investors increasingly expecting a US‑Iran ceasefire to hold, market bets on further Bank of England hikes have eased, leaving scope for mortgage costs to fall further in coming months.
+
+---
+
+### 2026-07-01 14:40:13  #MKT News #Commodities #Energy #MOL.BU #Impact bullish
+
+MOL, Hungary's oil and gas company, has received a formal license from the U.S. Treasury to continue negotiations to acquire Serbia's oil company NIS; the license is valid through July 31.
+
+---
+
+### 2026-07-01 14:39:53  #其他
+
+斯洛伐克1-6月預算赤字29.69億歐元。
+
+---
+
+### 2026-07-01 14:39:47  #公司 #市場
+
+三星電子股價下跌5.8%，收報314,500韓元。
+
+---
+
+### 2026-07-01 14:39:24  #宏觀 #公司 #國際
+
+匈牙利油氣集團（MOL）宣告稱，已收到美國財政部頒發的正式許可證，允許其就收購塞爾維亞石油公司（NIS）的談判持續至7月31日。
+
+---
+
+### 2026-07-01 14:38:58  #市場 #焦點
+
+滬深兩市成交額超3.4萬億元，較上日此時放量4049億元。
+
+---
+
+### 2026-07-01 14:37:52  #公司 #國際
+
+【美企擬年內恢復“新格倫”火箭發射】美國藍色起源公司執行長戴維·林普6月30日表示，公司不會按原有方案重建因爆炸受損的“新格倫”重型運載火箭發射設施，而是採用新方案，力爭今年內恢復火箭發射。
+
+---
+
+### 2026-07-01 14:37:47  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌1%，現報4807.20點。
+
+---
+
+### 2026-07-01 14:37:18  #公司 #市場
+
+【先進封裝板塊震盪走弱，快克智慧跌停】先進封裝板塊震盪走弱，快克智慧跌停，三佳科技、芯原股份、興森科技、寒武紀、藍箭電子、聯瑞新材等跟跌。
+
+---
+
+### 2026-07-01 14:37:16  #MKT News #CSI300 #Impact bearish #Hang Seng Index
+
+CSI 500 index futures (IC) main contract traded down more than 1.00% intraday to 8,672.0 points.
+
+---
+
+### 2026-07-01 14:37:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Slides Toward 1-Year Low — Iron ore futures fell below CNY 740 per ton, drifting toward their lowest levels in nearly a year as new European Union trade restrictions on steel imports clouded the demand outlook. The European Commission introduced quotas under a new system to curb duty-free steel imports into the EU, aiming to protect the region’s steel industry and boost capacity utilization. Meanwhile, global supply remained abundant, while iron ore inventories at Chinese ports stayed near historically high levels. Steel demand from China’s construction sector also remained subdued, while manufacturing-related demand continued to soften, a trend that could persist for months. At the same time, net steel exports have been unable to match the robust levels recorded during the same period last year.
+
+---
+
+### 2026-07-01 14:35:45  #公司 #市場 #央行 #國際
+
+【機構：美元兌日元嚴重超買】蘇克敦金融研究團隊在評論中表示，根據日線圖上81.4的相對強弱指數，美元兌日元似乎嚴重超買。該團隊表示，這增加了美元向161日元附近的20日簡單移動平均線或161.20日元的結構性支撐位進行修正性回撥的可能性。該團隊表示，定於週四公佈的美國非農就業人數報告是近期的一個關鍵催化劑，因為強勁的資料將強化美聯儲偏緊縮的貨幣政策預期，並可能推動美元升至163日元上方。不過該團隊補充說，“令人失望的資料可能會為在這些極端水平獲利了結提供環境。“倫敦證券交易所集團資料顯示，美元上漲0.1%，報162.70日元。
+
+---
+
+### 2026-07-01 14:35:27  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌11%，現報2525.50點。
+
+---
+
+### 2026-07-01 14:35:26  #其他
+
+挪威公路聯合會(OFV)彙編的資料顯示，6月特斯拉在挪威的新車註冊量同比下降43%。
+
+---
+
+### 2026-07-01 14:34:44  #公司
+
+起亞公司：6月全球銷量同比增長9.5%，至295,720輛。
+
+---
+
+### 2026-07-01 14:34:30  #MKT News #Market Themes #AI Revolution
+
+【Joyson Electronics to unveil robotic dexterous hand, semi-solid-state battery solution】Joyson Electronics will unveil a robotic dexterous hand, a solid-liquid hybrid energy solution (semi-solid-state battery), an embodied AI brain and a third-generation AI head assembly at the 2026 World Artificial Intelligence Conference.
+
+---
+
+### 2026-07-01 14:33:40  #市場
+
+韓元兌美元在本地時間下午3:30在岸市場收報1,554.9，創2009年3月以來最低。
+
+---
+
+### 2026-07-01 14:33:39  #MKT News #WTI #Impact bearish #Brent
+
+【Domestic fuel prices likely to return to 7 yuan/liter range】China's next refined fuel pricing window opens July 3 at 24:00; the 13th pricing cycle is about 70% complete with three statutory working days remaining. Assessed retail price declines have widened for six consecutive days, increasing from an initial ~0.40 yuan/liter cut to more than 0.65 yuan/liter. Downward momentum looks difficult to reverse; Friday night's adjustment is likely to produce a third consecutive price cut this year — the first three-in-a-row drop of the year and the fourth cut overall — potentially pushing retail gasoline back into the 7 yuan/liter band.
+
+---
+
+### 2026-07-01 14:33:34  #其他
+
+【中際旭創成交額超300億元】7月1日下午，中際旭創成交額超300億元，現跌4.49%。
+
+---
+
+### 2026-07-01 14:33:23  #公司
+
+【蔚能電池減資至約26.7億】天眼查App顯示，近日，武漢蔚能電池資產有限公司發生工商變更，註冊資本由約28.1億人民幣減至約26.7億人民幣。該公司成立於2020年8月，法定代表人為賴曉明，經營範圍包括電動汽車充電基礎設施運營、蓄電池租賃、電池銷售、儲能技術服務、資源再生利用技術研發等。股東資訊顯示，該公司由蔚來控股有限公司、寧德時代（300750）、山東威達（002026）等共同持股。
+
+---
+
+### 2026-07-01 14:33:07  #Trading Economics #Economy #Russia #Manufacturing PMI #Importance 1
+
+Russia Manufacturing Returns to Growth — Russia’s S&P Global Manufacturing PMI rose to 50.3 in June from 48.8 in May, signaling the first improvement in factory activity in over a year and the strongest operating conditions since January 2025. Output expanded at the fastest pace since January 2025, while new orders stabilized after 12 months of decline. Meanwhile, new export orders fell at the sharpest rate since September 2025. Employment declined further as firms did not replace voluntary leavers, though the pace of job shedding eased markedly from May's record. On prices, both input cost and selling price inflation softened, despite supplier delivery times lengthening to the greatest extent since January 2026 due to logistics disruptions and import challenges following the war in the Middle East. Purchasing activity increased as firms prepared for stronger demand. Lastly, sentiment weakened to a three-month low amid concerns over customers' purchasing power, despite expectations for higher output over the coming year.
+
+---
+
+### 2026-07-01 14:32:36  #市場
+
+【油價或重返7元時代】按照國內成品油價格調整週期安排，7月3日24時將開啟第13輪調價視窗，目前僅剩餘3個統計工作日，本輪計價週期進度完成70%。據大眾日報，本輪週期內油價跌幅持續拓寬，連續6天不斷加深，從開局下跌4毛多擴大至當前超6毛5，大幅下調趨勢基本難以逆轉，本週五晚間或將迎來年內首次油價三連降，也是今年第4次降價。截至當前第7個工作日測算資料：預計汽油下調820元/噸、柴油下調790元/噸。折算零售終端單價：預計92號汽油每升降0.66元，95號汽油每升降0.7元，0號柴油每升降0.68元。6月前兩輪調價已經實現二連降，汽柴油累計下調1040元/噸、1000元/噸，摺合每升累計降價0.84至0.89元，92號汽油已跌破8元，重回7元區間。待本輪下調落地後，全國95號汽油或將跌破8元，再度進入7元時代。 （中新經緯）
+
+---
+
+### 2026-07-01 14:31:31  #MKT News #Important #Market Themes #The Trump Trade #300274.SZ #Impact bearish
+
+【Sungrow Power shares near limit down after report US drafting inverter import ban; company says operations normal】On July 1 Sungrow Power shares opened sharply lower and intraday approached the daily down limit after foreign media reported the Trump administration is drafting an import ban on foreign solar inverters, citing concerns China could use such equipment to disrupt power supply. The draft reportedly would target new-model foreign inverters and could be issued as soon as this year. At midday Sungrow's board office said production and operations were normal and that external triggers for the share move were being verified. Asked about possible pressure on overseas business, the company said it has local subsidiaries in several markets, including the United States, for localized operations, but declined to disclose regional subsidiaries' performance or headcount; the board office does not hold detailed data.
 
 ---
 
@@ -14676,175 +14880,5 @@ India 10Y Yield Remains Under Pressure — The yield on India’s 10-year G-Sec 
 ### 2026-06-29 15:23:59  #MKT News #Market Regions #Greater China
 
 【China says activities in waters east of Taiwan lawful; rejects Japan–Philippines maritime delimitation talks】June 29 — Foreign Ministry spokesman Guo Jiakun said China has repeatedly stated it holds an EEZ and continental shelf east of Taiwan and that Chinese authorities’ activities in those waters are lawful and beyond reproach. He rejected Tokyo’s characterization of Chinese coastguard operations inside Japan’s EEZ south of Yonaguni as unacceptable, and accused Japan and the Philippines of bypassing China to initiate unilateral maritime delimitation talks. Guo said such moves violate UNCLOS and basic international‑relations norms, seriously infringe China’s maritime rights, and will not be allowed.
-
----
-
-### 2026-06-29 15:23:54  #公司
-
-【科大訊飛旗下資訊科技公司變更負責人】天眼查App顯示，近日，遼寧訊飛資訊科技有限公司發生工商變更，李俊峰卸任法定代表人、執行董事、經理，由馮祥接任法定代表人、經理，同時劉棟瑜新任董事。該公司成立於2021年3月，註冊資本5000萬人民幣，經營範圍包括人工智慧通用應用系統、人工智慧應用軟體開發、大資料服務、資訊系統整合服務等，由科大訊飛（002230）全資持股。
-
----
-
-### 2026-06-29 15:23:37  #MKT News #USDJPY #Impact bearish
-
-【Nomura: rising intervention vigilance caps USD/JPY upside】Nomura’s global FX strategy team says rising market vigilance about possible Japanese intervention is capping USD/JPY gains. They caution the sample is extremely limited but note past episodes — including 2022 and 2024, when Japan intervened twice in a single year — imply the odds of Ministry of Finance intervention increase as USD/JPY approaches the 163 level.
-
----
-
-### 2026-06-29 15:23:07  #Trading Economics #Economy #Turkey #Economic Optimism Index #Importance 1
-
-Turkey Economic Confidence Rises to 4-Month High — The Economic Confidence Index in Turkey rose to 98.9 in June 2026 from 97.2 in the previous month, reaching its highest level since February as all five sub-indices posted monthly increases. Consumer confidence recorded the strongest improvement, with the index rising 2.5% month over month to 87.9 from 85.8 in May. The manufacturing confidence index increased to 102 from 101, the services confidence index climbed to 110.5 from 109, the retail trade confidence index edged up to 112.8 from 112.5, and the construction confidence index rose to 83 from 82.1. Despite the broad-based improvement, the economic confidence index remained below the 100 threshold, suggesting that overall sentiment toward the economy was still pessimistic.
-
----
-
-### 2026-06-29 15:23:03  #焦點 #國際
-
-【以軍稱襲擊黎南部三處真主黨指揮中心】當地時間29日，以色列國防軍發表宣告稱，作為對黎巴嫩真主黨違反停火協議的回應，以軍28日對位於黎巴嫩南部的三處真主黨指揮中心實施了軍事打擊。宣告表示，黎真主黨近期持續對位於“安全區”內的以色列國防軍士兵發動襲擊。作為回應，以軍於28日空襲了真主黨位於黎南部奈拜提耶和邁法敦地區的三處指揮中心。此外，以軍在28日早些時候還摧毀了一個黎真主黨的火箭彈發射裝置。以軍稱，真主黨此前曾持續使用該裝置對前線以軍士兵實施針對性襲擊。以色列國防軍在宣告中重申，以軍將繼續採取行動消除任何針對以方士兵的潛在安全威脅。（央視新聞）
-
----
-
-### 2026-06-29 15:22:59  #MKT News #005930.KS #Impact bearish #000660.KS
-
-【Morningstar: SK Hynix and Samsung investment plans could create oversupply risk】Samsung Electronics and SK Hynix have announced large-scale investment plans. Morningstar analyst Jing Jie Yu says SK Hynix’s Yongin semiconductor cluster carries total investment commitments of about 600 trillion won; if the new commitments are standalone investments, they could imply material oversupply risk over the next decade, a concern that pushed shares lower intraday. He retains a view that memory-chip pricing is cyclical over the long run, expects new capacity will take at least 2–3 years to come online, and that early output will likely be demand-accretive but later capacity peaks meeting slowing demand typically lead to oversupply. Yu adds that persistent shortages and large cash generation are driving a wave of capacity investment, but unless hyperscale cloud providers’ returns sustain volume and price growth across the cycle, that expansion is unlikely to be maintained over the next ten years.
-
----
-
-### 2026-06-29 15:22:24  #MKT News
-
-【China says it will not allow Japan, Philippines to unilaterally launch so‑called maritime delimitation talks】Beijing, June 29 — Foreign Ministry spokesman Guo Jiakun reiterated that China has an EEZ and continental shelf east of Taiwan and that Chinese agencies’ activities there are lawful. He said Japan and the Philippines bypassed China to unilaterally launch so‑called maritime delimitation talks, a move that seriously violates UNCLOS and basic norms of international relations and seriously infringes China’s maritime rights; China will not allow it.
-
----
-
-### 2026-06-29 15:22:00  #其他
-
-【欣旺達動力：積極響應《動力和儲能電池企業供應商賬款支付規範倡議》】6月29日，中國汽車動力電池產業創新聯盟與中關村儲能產業技術聯盟聯合釋出《動力和儲能電池企業供應商款項支付規範倡議》。欣旺達動力表示，積極響應倡議號召，將在訂單確認、交付與驗收、支付與結算、合同期限等關鍵環節落實倡議要求，切實保障供應商權益，穩定供應商預期，增強產業鏈韌性。
-
----
-
-### 2026-06-29 15:21:20  #MKT News
-
-【Foreign Ministry: China to provide additional 100 mln yuan in emergency in‑kind aid to Venezuela】Foreign Ministry spokesperson Guo Jiakun said at a regular briefing on June 29 that China will provide an additional 100 mln yuan in emergency, non‑reimbursable material aid to Venezuela, supplementing earlier cash assistance, for earthquake relief and reconstruction. The supplies will be sent to Venezuela as soon as possible. China also provided satellite imagery of the affected areas to support relief operations.
-
----
-
-### 2026-06-29 15:21:03  #MKT News
-
-【Does Australia‑Vanuatu cooperation deal affect China’s presence in Vanuatu? Foreign Ministry responds】June 29 — Foreign Ministry spokesman Guo Jiakun said at a routine briefing that Australia and Vanuatu signed an economic and security cooperation agreement today that bars establishment of foreign military bases on Vanuatu territory. Guo noted Australian officials had earlier expressed concern that China may be seeking to expand a security presence in the region, including Vanuatu. He said China pursues pragmatic cooperation with Pacific island countries, including Vanuatu, based on mutual respect, equality, mutual benefit and openness, and urged that external cooperation with Pacific islands should genuinely support their development and stability, should not target third parties and should not be used for geopolitical rivalry.
-
----
-
-### 2026-06-29 15:20:46  #國際
-
-【日菲擅自啟動所謂海域劃界談判中方絕不允許】6月29日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，日本政府發言人稱，中國海警在與那國島以南的日本專屬經濟區內的活動，以及對這些海域的主權主張是不可接受的。中方對此有何回應？ 郭嘉昆表示，中方已經多次闡明瞭嚴正立場。我們願重申，中國在臺灣島以東海域擁有專屬經濟區和大陸架，中方有關部門在該海域開展相關活動合理合法、無可非議。日本、菲律賓繞開中方擅自啟動所謂“海域劃界談判”，嚴重違反包括《聯合國海洋法公約》在內的國際法和國際關係基本準則，嚴重侵害中方海洋權益，中方絕不允許。（北青報）
-
----
-
-### 2026-06-29 15:20:20  #國際
-
-【外交部：願根據委內瑞拉災情進展，繼續向委方提供更多支援】6月29日，外交部發言人郭嘉昆主持例行記者會。有記者提問，委內瑞拉地震發生以來，傷亡人數持續上升。請問中方為委內瑞拉地震救災提供了哪些幫助?郭嘉昆表示，中方十分關注委內瑞拉地震災情，習近平主席已向委內瑞拉代總統羅德里格斯致慰問電。中國政府已決定在此前向委方提供現匯援助的基礎上，向委方追加1億元人民幣緊急無償物資援助，用於地震救災和災後重建，並將儘快運抵委內瑞拉。郭嘉昆介紹，中方還向委方提供了地震災區衛星影象，為委方抗震救災提供支援。在委內瑞拉的中資企業和華僑社團紛紛自發向委方提供救援工作急需的工程機械和醫療物資，並組建救援隊，積極參與搜救工作。中方願根據委內瑞拉災情進展，繼續向委方提供更多支援。（澎湃新聞）
-
----
-
-### 2026-06-29 15:20:07  #公司 #國際
-
-【外交部回應將部分日本實體列入出口管制管控名單：堅決遏制日本新型軍國主義妄動】6月29日，外交部發言人郭嘉昆主持例行記者會。日本廣播協會（NHK）記者提問，中國商務部今天宣佈將部分日本實體列入出口管制管控名單。此前商務部曾表示，相關措施不影響中日正常經貿往來。日本經濟團體方面稱，即便在民用領域，日本企業的稀土採購也已經受到影響。請問外交部如何看待此次措施？中方如何評價此次措施對兩國正常經貿往來的影響？郭嘉昆表示，中方主管部門已經發布公告並闡明中方立場。我們要強調的是，中方此舉完全正當、合理、合法，旨在堅決遏制日本新型軍國主義妄動。“我們希望日方迷途知返，糾正錯誤行徑，真正反思並回到正確軌道。”郭嘉昆說，中方依法列單的行為僅針對少數日本實體相關措施，僅針對兩用物項，不影響中日正常經貿往來。誠信守法的日本實體完全無需擔心。（澎湃新聞）
-
----
-
-### 2026-06-29 15:19:57  #國際
-
-【澳瓦簽署合作協議影響中國在萬那杜存在？外交部回應】6月29日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，澳大利亞與萬那杜今天簽署了一項經濟與安全合作協議，禁止在該太平洋島國領土上建立任何外國軍事基地。澳大利亞官員此前曾表示擔憂，稱中國正尋求擴大在該地區，包括萬那杜的安全存在。請問外交部對此有何評論？郭嘉昆表示，中方始終秉持相互尊重、平等相待、互利共贏、開放包容的原則，同包括萬那杜在內的太平洋島國開展各領域的務實合作。“我們希望有關國家同太平洋島國開展合作，真正有利於島國地區的發展和穩定，不應該針對第三方，更不應藉此搞地緣博弈。”（澎湃新聞）
-
----
-
-### 2026-06-29 15:19:44  #Trading Economics #Economy #Spain #Retail Sales YoY #Importance 1
-
-Spain Retail Sales Growth Accelerates in May — Retail sales in Spain rose 1.3% year-on-year in May 2026, following a 0.6% increase in April. Sales growth accelerated for non-food products (3.7% vs 2.3% in April), particularly personal equipment (3.4% vs 0.2%); household equipment (5.7% vs 2.7%) and healthcare products (2.6% vs 1.9%). Spending on food also picked up (2% vs 1.4%). On a seasonally adjusted monthly basis, retail trade increased by 0.6% in May, reversing a 1.5% decrease in the previous month.
-
----
-
-### 2026-06-29 15:19:35  #公司
-
-【中國交建等在合肥新設科技產業發展公司】企查查APP顯示，近日，合肥交智科技產業發展有限公司成立，經營範圍包括房地產開發經營、園區管理服務、工程管理服務等。企查查股權穿透顯示，該公司由中國交建(601800)全資子公司中交投資有限公司等共同持股。
-
----
-
-### 2026-06-29 15:19:17  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
-
-【Spain inflation unexpectedly above ECB 2% target】Energy prices have eased since a US‑Iran peace agreement, but Spain’s inflation remains well above the ECB’s 2% target. June harmonized CPI (HICP) rose 3.6% YoY, unchanged from May. Electricity and gas costs were the main upward contributors; gasoline prices partially offset the rise. This is the first major inflation print after the ECB’s recent rate increases; other major-economy inflation data are due Tuesday and euro‑area HICP on Wednesday. Markets had been expecting a slowdown and have pared back ECB rate‑hike bets.
-
----
-
-### 2026-06-29 15:19:02  #其他
-
-【兩大產業聯盟聯合釋出《動力和儲能電池企業供應商賬款支付規範倡議》】其中提出，堅持平等、自願、公正、誠信原則，遵守國家相關法律法規，落實《保障中小企業款項支付條例》要求，不利用大企業優勢地位侵害供應商利益，共建公平公正、誠信合規、合作共贏的產業生態，推動動力和儲能電池產業高質量、可持續健康發展。
-
----
-
-### 2026-06-29 15:18:41  #公司 #國際
-
-【馬來西亞同意延長馬航370航班客機殘骸搜尋工作】馬來西亞交通部29日發表宣告說，馬來西亞政府將延長與水下探測公司“海洋無限”的協議期限，繼續在印度洋南部海域開展馬來西亞航空公司370航班客機殘骸搜尋工作。宣告說，馬來西亞內閣於本月26日批准延長雙方搜尋工作協議。協議延長一年，有效期為2026年7月1日至2027年6月30日。（新華社）
-
----
-
-### 2026-06-29 15:17:39  #市場 #觀點
-
-【野村：對匯市干預警惕性升溫限制美元兌日元漲幅】野村全球外匯策略團隊的四位分析師在一份研究報告中表示，由於對日本相關部門干預外匯市場的警惕性升溫，美元兌日元的漲幅繼續受限。他們表示：“基於過去的干預事件，儘管我們注意到樣本量極其有限，但我們留意到，隨著美元兌日元接近163水平，日本財務省干預的可能性越來越大。“這些分析師基於2022年和2024年同一年內兩輪買入日元干預的資料，估算出163這一水平。倫敦證券交易所集團資料顯示，美元基本持平，報161.79日元。
-
----
-
-### 2026-06-29 15:17:26  #公司
-
-【娃哈哈旗下天水飲料公司更名宏勝】天眼查App顯示，近日，天水娃哈哈飲料有限公司發生工商變更，企業名稱變更為天水宏勝飲料有限公司。該公司成立於2010年3月，法定代表人為曾哲泉，註冊資本825萬美元，經營範圍包括食品生產、食品用塑膠包裝容器工具製品生產、食品銷售等，由盛佳集團有限公司、麗水宏博飲料有限公司共同持股。
-
----
-
-### 2026-06-29 15:16:17  #市場 #焦點
-
-南向資金淨賣出額達20億港元。
-
----
-
-### 2026-06-29 15:16:11  #MKT News
-
-【China government bond futures midday close】China government bond futures midday close: front-month 2-year (TS) up 0.03%, 5-year (TF) up 0.10%, 10-year (T) up 0.14%, 30-year (TL) up 0.12%.
-
----
-
-### 2026-06-29 15:16:02  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 1.19% Higher — The Shangai Composite Index gained 48 points or 1.19 percent on Monday to close at 4075 points. Gains were led by Jiangsu Hengrui (8.18%), Sh Fosun Pharma (6.65%) and Guangzhou Baiy (3.95%).
-
----
-
-### 2026-06-29 15:15:01  #市場
-
-【國債期貨收盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.14%， 5年期主力合約漲0.10%， 2年期主力合約漲0.03%。
-
----
-
-### 2026-06-29 15:14:31  #Trading Economics #Economy #Spain #Inflation Rate #Importance 2
-
-Spain Inflation Rate Holds at 3.2% as Expected — Spain's annual inflation rate remained unchanged at 3.2% in June 2026, matching the readings in May and April and meeting market expectations, according to preliminary estimates. Upward pressure came from electricity and gas prices, which increased more sharply than they did in June 2025. In contrast, motor fuels and lubricants for personal vehicles helped moderate inflation, as their prices declined compared with the increase recorded a year earlier. Meanwhile, the core inflation rate eased to 2.9% from an upwardly revised 3.0% in May. On a monthly basis, the CPI rose 0.6%.
-
----
-
-### 2026-06-29 15:12:43  #Trading Economics #Economy #Slovakia #Consumer Confidence #Importance 1
-
-Slovakia Consumer Morale Hits 4-Month High — Slovakia's consumer confidence indicator rose to -27.3 in June 2026 from a more than three-year low of -28.3 in the previous month. It marked the highest level since February, mainly driven by less pessimistic expectations regarding households' future financial situation (-11.3 vs -13.4 in May) and a more favorable assessment of their past financial situation (-15.1 vs -17.2). Consumers were also less negative about the country's future economic outlook (-42.4 vs -44.0), although their assessment of the past economic situation deteriorated slightly (-54.7 vs -53.6). Expectations for unemployment improved (36.2 vs 36.6), while expectations for household savings were marginally less negative (-19.1 vs -19.3). On the inflation front, perceptions of past price growth eased (42.4 vs 45.1), while inflation expectations also softened notably (36.6 vs 40.8).
-
----
-
-### 2026-06-29 15:11:34  #公司
-
-【歌爾股份旗下精密製造公司增資至約10.7億】天眼查App顯示，近日，怡力精密製造有限公司發生工商變更，註冊資本由約10.1億人民幣增至約10.7億人民幣。該公司成立於2013年7月，法定代表人為何朝明，經營範圍包括開發、製造、銷售光電子器件及其他電子器件等，由歌爾股份（002241）、香港歌爾泰克有限公司共同持股。
-
----
-
-### 2026-06-29 15:11:29  #公司 #市場
-
-【上海期貨交易所：同意華友鈷業“HUAYOU”牌電解鎳（電積工藝）（三期）註冊】6月29日，上海期貨交易所公告，近期，上期所收到浙江華友鈷業股份有限公司報送的相關申請材料。根據《上海期貨交易所有色金屬交割商品管理規定》等有關規定，經研究決定：
-一、同意浙江華友鈷業股份有限公司子公司衢州華友鈷新材料有限公司生產的“HUAYOU”牌電解鎳（電積工藝，Ni99.96）（三期）在我所註冊，註冊產能5萬噸，執行標準價。
-二、自公告之日起，上述產品可用於我所鎳期貨合約的履約交割。
 
 ---
