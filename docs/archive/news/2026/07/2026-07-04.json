@@ -1,7 +1,30 @@
 {
   "date": "2026-07-04",
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:019f28d0-77bd-7aab-8c99-59b5f4b22d89",
+      "time": "2026-07-04 00:29:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Germany 2027 draft budget plans >€203 bln new borrowing; defence spending jumps】Germany's 2027 draft budget proposes new borrowing of more than €203 bln, above prior expectations and materially higher than 2024. Total outlays are around €555.4 bln, with investment lifted to €117.5 bln focused on transport, digitalisation and hospital upgrades. The core defence budget rises to €109.8 bln; including Ukraine aid and other security spending, total defence-related outlays reach roughly €130.1 bln. The government says it will use expanded borrowing and special funds to accelerate infrastructure and rearmament. The draft warns prolonged disruption in the Strait of Hormuz or oil supplies would have a significant impact on the German economy. The budget is due to be submitted to parliament in September and is expected to be approved by year-end."
+    },
+    {
+      "id": "4970009",
+      "time": "2026-07-04 00:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織訊息：截至 7 月 1 日，剛果民主共和國累計報告 1460 例確診病例，其中死亡 452 例。"
+    },
     {
       "id": "4970008",
       "time": "2026-07-04 00:20:41",

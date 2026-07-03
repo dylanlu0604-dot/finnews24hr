@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-04 00:26:45",
-  "count": 13487,
+  "updated": "2026-07-04 00:30:44",
+  "count": 13484,
   "items": [
+    {
+      "id": "mkt:019f28d0-77bd-7aab-8c99-59b5f4b22d89",
+      "time": "2026-07-04 00:29:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Germany 2027 draft budget plans >€203 bln new borrowing; defence spending jumps】Germany's 2027 draft budget proposes new borrowing of more than €203 bln, above prior expectations and materially higher than 2024. Total outlays are around €555.4 bln, with investment lifted to €117.5 bln focused on transport, digitalisation and hospital upgrades. The core defence budget rises to €109.8 bln; including Ukraine aid and other security spending, total defence-related outlays reach roughly €130.1 bln. The government says it will use expanded borrowing and special funds to accelerate infrastructure and rearmament. The draft warns prolonged disruption in the Strait of Hormuz or oil supplies would have a significant impact on the German economy. The budget is due to be submitted to parliament in September and is expected to be approved by year-end."
+    },
+    {
+      "id": "4970009",
+      "time": "2026-07-04 00:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織訊息：截至 7 月 1 日，剛果民主共和國累計報告 1460 例確診病例，其中死亡 452 例。"
+    },
     {
       "id": "4970008",
       "time": "2026-07-04 00:20:41",
@@ -124139,58 +124162,6 @@
         "MKT News"
       ],
       "text": "Hezbollah leader says Israel will leave Lebanon \"in shame and defeat\"."
-    },
-    {
-      "id": "mkt:019f04c4-1223-7dd8-b13b-4a638a3e37ec",
-      "time": "2026-06-27 00:29:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Quake damages Caracas airport; carriers suspend commercial flights】Local time June 26 — Caracas’s Maiquetía Simón Bolívar International Airport, Venezuela’s largest airport, sustained structural damage in an earthquake and remains closed; commercial flights are suspended. Copa Airlines said on June 26 it has suspended flights between Panama City’s Tocumen International Airport and Maiquetía from June 24 through July 2. To evacuate affected passengers, Copa will add two daily commercial flights between Panama City and Valencia (Carabobo state) from June 26 to July 2, increasing service from one to three daily flights."
-    },
-    {
-      "id": "4957861",
-      "time": "2026-06-27 00:29:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【受地震影響 多家航司停飛往返委內瑞拉首都機場商業航班】當地時間26日，總檯記者獲悉，受地震影響，委內瑞拉首都加拉加斯附近的全國最大機場——邁克蒂亞西蒙·玻利瓦爾國際機場建築受損，目前仍處於關閉狀態，商業航班暫停運營。巴拿馬航空公司26日表示，從24日起，往返巴拿馬城託庫門國際機場和邁克蒂亞西蒙·玻利瓦爾國際機場之間的航班暫停運營，直至7月2日。此外，為疏散因邁克蒂亞西蒙·玻利瓦爾國際機場臨時關閉而受到影響的乘客，從6月26日起到7月2日，巴拿馬航空公司在巴拿馬城和委內瑞拉卡拉沃沃州首府巴倫西亞之間，每日新增2趟商業航班，從此前的1趟增加至3趟。哥倫比亞國家航空公司表示，受到航班暫停影響，為6月24日至7月1日往返加拉加斯的乘客提供改簽和退票服務。與此同時，美國航空公司也宣佈暫停往返加拉加斯的航班。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f04c2-9680-7dd8-b13b-46a3cbb5f126",
-      "time": "2026-06-27 00:28:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Air raid alerts activated in Kyiv and multiple other regions of Ukraine."
-    },
-    {
-      "id": "4957860",
-      "time": "2026-06-27 00:27:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：基輔及多個地區已拉響防空警報。"
-    },
-    {
-      "id": "mkt:019f04c1-8990-7dd8-b13b-39bc6fa5c3f2",
-      "time": "2026-06-27 00:27:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Trump threatens 100% tariffs on countries imposing digital services tax】Trump posted on social media that many European countries are considering or nearing implementation of a digital services tax on US companies. He warned any country that levies such a tax would face immediate 100% tariffs on all goods exported to the United States, and said those tariffs would replace any trade agreements regardless of whether they are in effect, signed or not yet operative."
     }
   ]
 }
