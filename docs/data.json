@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-03 13:51:09",
-  "count": 13847,
+  "updated": "2026-07-03 13:54:56",
+  "count": 13846,
   "items": [
+    {
+      "id": "mkt:019f268a-81f1-7aab-8c8c-5acf04d39116",
+      "time": "2026-07-03 13:53:59",
+      "tags": [
+        "MKT News",
+        "006400.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's Samsung SDI will invest 16 trillion won in R&D for next-generation batteries."
+    },
+    {
+      "id": "4968984",
+      "time": "2026-07-03 13:52:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華油惠博普印尼卡蘭巴天然氣專案正式投產】近日，由華油惠博普集團承建的印度尼西亞卡蘭巴天然氣集輸處理EPC專案（簡稱“卡蘭巴專案”）正式投入商業運營。隨著首氣（First Gas）順利實現，專案正式進入商業執行階段，所產天然氣將透過現有管網向巴釐巴板煉油廠穩定供氣。"
+    },
+    {
+      "id": "4968983",
+      "time": "2026-07-03 13:52:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI將投資16萬億韓元研發下一代電池。"
+    },
     {
       "id": "4968982",
       "time": "2026-07-03 13:49:49",
@@ -127504,50 +127531,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Stocks End Week Flat — The NZX 50 was little changed, closing at 13,495 on Friday after strengthening in the morning session, as gains in energy and technology stocks were offset by declines in materials and utilities. Easing oil prices further lifted sentiment as inflation concerns moderated, reducing expectations of an interest rate hike. However, traders remained cautious after US PCE inflation hit a three-year high, raising expectations that the Fed will hold interest rates higher for longer. Traders also anticipated New Zealand's consumer and business confidence data due next week, as well as China's PMI data and US jobs data for June. Freightways Group surged 4.3%, Channel Infrastructure rose 1.3%, and Ebos Group gained 1.0%, while Turners Automotive Group, Westpac Banking Corp, and Vulcan Steel fell 2.3%, 1.9%, and 1.6%, respectively. For the week, the index was flat after rising for the previous two weeks."
-    },
-    {
-      "id": "mkt:019f027c-a4ac-7dd8-b12e-72448bdf537b",
-      "time": "2026-06-26 13:52:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "AI Revolution"
-      ],
-      "text": "【Leapmotor launches first MPV D99】Leapmotor launched its first MPV, the D99, equipped with dual Qualcomm SA8797 chips and an on-device multimodal AI large model. All trims come standard with all-wheel drive and continuously variable damping; powertrain options include range-extender and battery-electric variants. Pricing starts at 249,800 yuan."
-    },
-    {
-      "id": "4956541",
-      "time": "2026-06-26 13:52:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【零跑釋出首款MPV車型D99】6月26日，零跑釋出首款MPV車型D99，搭載雙高通SA8797晶片、端側全模態AI大模型，全系標配四驅系統、連續可變阻尼減振，提供增程和純電兩種動力選擇，售價24.98萬元起。"
-    },
-    {
-      "id": "mkt:019f027c-64b7-7dd8-b12e-6f569f3affd4",
-      "time": "2026-06-26 13:52:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Gold set for fourth weekly decline; analyst says pullback could extend to $3,400】Gold is poised for a fourth consecutive weekly decline as a firm dollar and market expectations of faster Fed rate hikes keep bullion under pressure around $4,000/oz. OANDA senior market analyst Kelvin Wong said rapid repricing toward a hawkish Fed has fueled the dollar’s rally and driven the recent sharp sell-off; Wong adds the longer-term correction could extend to $3,400/oz. Gold is down about 29% from a Jan. 29 record high of $5,594.82/oz amid inflationary pressure tied to the US‑Iran war that boosted rate‑hike bets; US May PCE rose from April and headline PCE inflation is above 4% YoY, reinforcing prospects of tighter Fed policy."
-    },
-    {
-      "id": "4956540",
-      "time": "2026-06-26 13:51:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【速賣通618品牌成交同比增長90%】阿里旗下速賣通披露，今年海外618大促平臺品牌成交同比90%增長，177個品牌環比三月實現3倍以上爆發，品牌成交滲透率近40%。"
     }
   ]
 }
