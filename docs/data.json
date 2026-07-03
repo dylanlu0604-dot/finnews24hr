@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-03 08:17:32",
-  "count": 13871,
+  "updated": "2026-07-03 08:21:20",
+  "count": 13874,
   "items": [
+    {
+      "id": "4968464",
+      "time": "2026-07-03 08:20:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所港股通標的證券名單調入大金重工，7月3日起生效。"
+    },
+    {
+      "id": "4968463",
+      "time": "2026-07-03 08:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國總統特朗普稱住房法案“沒問題” 但仍暫緩簽署】美國總統唐納德·特朗普表示，自己拒絕簽署的一項獲得兩黨支援的住房法案“沒有問題”，似乎暗示該法案最終仍可能成為法律。不過，他仍在暫緩簽署，希望藉此推動自己認為更重要的選民身份識別立法。“住房法案沒問題。裡面有很多民主黨的內容，我甚至認為並不好，但法案本身沒問題，”特朗普當地時間週四接受採訪時表示，“不過，我已經表明立場，在《拯救美國法案》獲得透過之前，我寧願什麼都不籤。”"
+    },
+    {
+      "id": "mkt:019f2559-01e8-7aab-8c86-67de03b052fb",
+      "time": "2026-07-03 08:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shenzhen Stock Exchange added Dajin Heavy Industry to the list of Hong Kong Stock Connect eligible securities, effective July 3."
+    },
+    {
+      "id": "mkt:019f2557-f969-7aab-8c86-5ded3065d2b8",
+      "time": "2026-07-03 08:19:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【China International Capital Co: Cooler US nonfarm supports Fed holding rates this year (no hike, no cut)】China International Capital Co (CICC) says June US nonfarm payrolls rose 57k, below consensus, indicating a cooling in employment acceleration. After downward revisions the three‑month average gain remains 111k, showing continued labor‑market expansion; unemployment fell to 4.2% while labor‑force participation declined, consistent with firm demand and tighter supply and limited overall unemployment pressure. CICC maintains a call that the report gives the Fed room to wait, so it expects neither a rate hike nor a cut this year. Medium term, CICC attributes recent job gains more to an AI‑investment led cyclical recovery than to short‑lived factors; if AI drives sustained aggregate demand expansion, the Fed could resume hiking next year."
+    },
+    {
+      "id": "4968462",
+      "time": "2026-07-03 08:18:58",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，就業資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。中期來看，今年美國就業改善更多源於AI投資推動的經濟週期修復，而非世界盃等短期因素。這意味著如果經濟總需求在AI的拉動下持續擴張，則不排除明年美聯儲重啟加息的可能性。"
+    },
+    {
+      "id": "mkt:019f2557-22cd-7aab-8c86-519a2e2a7c17",
+      "time": "2026-07-03 08:18:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CITIC Securities expects bulk commodity prices to remain divergent in Q3 and favors copper, lithium carbonate, electrolytic aluminum and coal on clear demand-side support."
+    },
+    {
+      "id": "4968461",
+      "time": "2026-07-03 08:17:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部長：外匯波動和物價上漲加劇了民眾的生活困難。"
+    },
+    {
+      "id": "mkt:019f2556-9e66-7aab-8c86-4fa07d2593c7",
+      "time": "2026-07-03 08:17:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: China domestic AI compute theme clear; leaders' earnings likely to accelerate】CITIC Securities says Meituan on June 30, 2026 completed end-to-end training and inference of a trillion-parameter model on a 50,000-card China domestic compute cluster, marking a capability shift from inference to training. DeepSeekV4 final, due mid‑July, will introduce peak‑valley pricing with peak API call prices doubling, and domestic compute supply constraints are intensifying. CITIC says order visibility for domestic compute has materially improved; chip design firms with confirmed customer orders and priority capacity allocation should be first beneficiaries. The broker remains constructive on the China domestic compute supply chain, citing scale-up opportunities from scarce advanced process capacity to diverse design companies and super‑node operators, and expects strong growth momentum for advanced process, advanced packaging, advanced memory and supporting suppliers."
+    },
+    {
+      "id": "4968460",
+      "time": "2026-07-03 08:17:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受與三星電機成立合資企業訊息提振，住友化學股價上漲7.8%。"
+    },
     {
       "id": "mkt:019f2555-f4a5-7aab-8c86-447dbf119e31",
       "time": "2026-07-03 08:16:57",
@@ -127747,69 +127842,6 @@
         "國際"
       ],
       "text": "韓國海洋部：另有八艘韓國船隻已駛出霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f014c-d4b9-7dd8-b127-a52dc0175b36",
-      "time": "2026-06-26 08:20:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【China International Capital Co: Gold bull market not over; turnaround may be near】China International Capital Co says gold’s selloff since March does not signal the end of the bull market. International gold fell below $4,000/oz, off more than 25% from the March peak of $5,321/oz. CICC cites two primary drivers: US–Iran conflict-driven oil and inflation upside, which stoked tightening expectations, and a June FOMC appearance by a Fed official that was read as hawkish — the dot plot revised up inflation expectations and roughly half of the 18 voters signalled support for at least one rate hike this year. Futures markets have priced one Fed hike in 2026 and one in 2027; a stronger dollar has weighed on gold. CICC cautions against linear extrapolation: US inflation may have peaked and could trend down in H2, and the recent hawkish rhetoric does not necessarily mark a permanent Fed shift away from eventual easing. Conclusion: the correction is not the end of the gold bull market; a turnaround may be near. Recommendation: maintain positions and buy on dips."
-    },
-    {
-      "id": "4956013",
-      "time": "2026-06-26 08:20:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【日經指數跌幅擴大】日經225指數下跌2.4%，報70,658.98點。軟銀集團股價下跌10%。"
-    },
-    {
-      "id": "4956012",
-      "time": "2026-06-26 08:19:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "瑞穗銀行外匯即期交易部副總經理Jumpei Tanaka表示，日元在過去一個月左右的跑贏G10貨幣，可能不僅僅是由於對貨幣干預的擔憂，油價下跌，日本央行加息逐步改善實際利率，因此“此前導致日元貶值的因素已不如以往那麼顯著”。"
-    },
-    {
-      "id": "4956011",
-      "time": "2026-06-26 08:19:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌10%。"
-    },
-    {
-      "id": "4956010",
-      "time": "2026-06-26 08:18:07",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：黃金牛市尚未結束 轉機可能已經不遠】中金公司研報稱，美國通脹今年夏季大機率見頂，勞動力市場正在降溫，沃什改革為未來美聯儲政策轉松預留空間，美聯儲政策並不會全面轉向緊縮。隨著地緣與通脹壓力在下半年逐漸緩解，美聯儲加息的機率很低，反而降息的時點和節奏可能超出市場預期，推動美元流動性寬鬆迴歸，為黃金、股票等資產提供新的支援。因此，中金認為黃金牛市並未結束。6月全球通脹衝高，且多家央行正在加息，或是全球流動性壓力最大的時期，黃金加速調整並不意外。進入7—8月，隨著美國通脹與增長資料回落，或沃什提供新的政策指引，存在美聯儲緊縮敘事被快速逆轉的可能性，判斷黃金市場的轉折點已經漸行漸近。與此同時，中金提示黃金也是AI泡沫的潛在對沖資產，可起到風險分散效果。綜上所述，中金仍對黃金後市保持樂觀，建議維持倉位，逢低吸納，靜待轉機。"
-    },
-    {
-      "id": "4956009",
-      "time": "2026-06-26 08:17:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "野村：已與穩定幣網路運營商Circle網際網路集團達成戰略合作伙伴關係，將提供由穩定幣支援的抵押品管理、資金轉移等全球金融服務。"
     }
   ]
 }

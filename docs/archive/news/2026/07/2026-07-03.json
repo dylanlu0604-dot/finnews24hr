@@ -1,7 +1,102 @@
 {
   "date": "2026-07-03",
-  "count": 595,
+  "count": 604,
   "items": [
+    {
+      "id": "4968464",
+      "time": "2026-07-03 08:20:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所港股通標的證券名單調入大金重工，7月3日起生效。"
+    },
+    {
+      "id": "4968463",
+      "time": "2026-07-03 08:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國總統特朗普稱住房法案“沒問題” 但仍暫緩簽署】美國總統唐納德·特朗普表示，自己拒絕簽署的一項獲得兩黨支援的住房法案“沒有問題”，似乎暗示該法案最終仍可能成為法律。不過，他仍在暫緩簽署，希望藉此推動自己認為更重要的選民身份識別立法。“住房法案沒問題。裡面有很多民主黨的內容，我甚至認為並不好，但法案本身沒問題，”特朗普當地時間週四接受採訪時表示，“不過，我已經表明立場，在《拯救美國法案》獲得透過之前，我寧願什麼都不籤。”"
+    },
+    {
+      "id": "mkt:019f2559-01e8-7aab-8c86-67de03b052fb",
+      "time": "2026-07-03 08:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shenzhen Stock Exchange added Dajin Heavy Industry to the list of Hong Kong Stock Connect eligible securities, effective July 3."
+    },
+    {
+      "id": "mkt:019f2557-f969-7aab-8c86-5ded3065d2b8",
+      "time": "2026-07-03 08:19:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【China International Capital Co: Cooler US nonfarm supports Fed holding rates this year (no hike, no cut)】China International Capital Co (CICC) says June US nonfarm payrolls rose 57k, below consensus, indicating a cooling in employment acceleration. After downward revisions the three‑month average gain remains 111k, showing continued labor‑market expansion; unemployment fell to 4.2% while labor‑force participation declined, consistent with firm demand and tighter supply and limited overall unemployment pressure. CICC maintains a call that the report gives the Fed room to wait, so it expects neither a rate hike nor a cut this year. Medium term, CICC attributes recent job gains more to an AI‑investment led cyclical recovery than to short‑lived factors; if AI drives sustained aggregate demand expansion, the Fed could resume hiking next year."
+    },
+    {
+      "id": "4968462",
+      "time": "2026-07-03 08:18:58",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，就業資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。中期來看，今年美國就業改善更多源於AI投資推動的經濟週期修復，而非世界盃等短期因素。這意味著如果經濟總需求在AI的拉動下持續擴張，則不排除明年美聯儲重啟加息的可能性。"
+    },
+    {
+      "id": "mkt:019f2557-22cd-7aab-8c86-519a2e2a7c17",
+      "time": "2026-07-03 08:18:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CITIC Securities expects bulk commodity prices to remain divergent in Q3 and favors copper, lithium carbonate, electrolytic aluminum and coal on clear demand-side support."
+    },
+    {
+      "id": "4968461",
+      "time": "2026-07-03 08:17:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部長：外匯波動和物價上漲加劇了民眾的生活困難。"
+    },
+    {
+      "id": "mkt:019f2556-9e66-7aab-8c86-4fa07d2593c7",
+      "time": "2026-07-03 08:17:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: China domestic AI compute theme clear; leaders' earnings likely to accelerate】CITIC Securities says Meituan on June 30, 2026 completed end-to-end training and inference of a trillion-parameter model on a 50,000-card China domestic compute cluster, marking a capability shift from inference to training. DeepSeekV4 final, due mid‑July, will introduce peak‑valley pricing with peak API call prices doubling, and domestic compute supply constraints are intensifying. CITIC says order visibility for domestic compute has materially improved; chip design firms with confirmed customer orders and priority capacity allocation should be first beneficiaries. The broker remains constructive on the China domestic compute supply chain, citing scale-up opportunities from scarce advanced process capacity to diverse design companies and super‑node operators, and expects strong growth momentum for advanced process, advanced packaging, advanced memory and supporting suppliers."
+    },
+    {
+      "id": "4968460",
+      "time": "2026-07-03 08:17:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受與三星電機成立合資企業訊息提振，住友化學股價上漲7.8%。"
+    },
     {
       "id": "mkt:019f2555-f4a5-7aab-8c86-447dbf119e31",
       "time": "2026-07-03 08:16:57",
