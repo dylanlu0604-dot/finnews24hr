@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-03 09:18:42",
-  "count": 13911,
+  "updated": "2026-07-03 09:22:29",
+  "count": 13919,
   "items": [
+    {
+      "id": "mkt:019f2591-9323-7aab-8c87-ab8d63b6e916",
+      "time": "2026-07-03 09:22:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong-listed gold miners opened higher; Zhaojin Mining (01818.HK) rose over 7%, Lingbao Gold (03330.HK) rose over 6%, with Zijin Gold International (02259.HK) and Shandong Gold (01787.HK) also higher."
+    },
+    {
+      "id": "4968577",
+      "time": "2026-07-03 09:21:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠1,685.0億元人民幣。"
+    },
+    {
+      "id": "4968576",
+      "time": "2026-07-03 09:21:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財政大臣片山：具體貨幣政策由日本央行決定。"
+    },
+    {
+      "id": "4968575",
+      "time": "2026-07-03 09:21:21",
+      "tags": [],
+      "text": "港股恒指高開漲0.81％，國企指數漲0.82％，科指開漲0.76%。"
+    },
+    {
+      "id": "4968574",
+      "time": "2026-07-03 09:21:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨微升0.3%，納斯達克指數期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:019f2590-d203-7aab-8c87-a05a5887b5b3",
+      "time": "2026-07-03 09:21:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY63 bln 7-day reverse repo today; tendered CNY63 bln and accepted CNY63 bln at a 1.40% rate, unchanged from the prior operation."
+    },
+    {
+      "id": "4968573",
+      "time": "2026-07-03 09:21:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報15212.00元。"
+    },
+    {
+      "id": "mkt:019f2590-c9e1-7aab-8c87-9f95223f6e97",
+      "time": "2026-07-03 09:21:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01024.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Hang Seng Tech"
+      ],
+      "text": "Hong Kong open: Hang Seng +0.81%, Hang Seng Tech +0.76%. Kuaishou (01024.HK) +6.24% after the company said yesterday it will spin off Keling as a separately capitalized entity and investors agreed to inject $3 bln into Keling."
+    },
+    {
+      "id": "4968572",
+      "time": "2026-07-03 09:21:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展630億元人民幣7天期逆回購操作，利率1.40%，前次為1.40%。"
+    },
+    {
+      "id": "4968571",
+      "time": "2026-07-03 09:20:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報62.18美元/盎司。"
+    },
+    {
+      "id": "4968570",
+      "time": "2026-07-03 09:20:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.5%，英國富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "mkt:019f2590-2b63-7aab-8c87-94914d852b82",
+      "time": "2026-07-03 09:20:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 rose more than 1% to 8,820.90 points."
+    },
+    {
+      "id": "mkt:019f258f-c6b2-7aab-8c87-8cb9f4999f8f",
+      "time": "2026-07-03 09:20:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【National Australia Bank: RBA expected to cut in 2027; AUD outlook weak】National Australia Bank expects the Reserve Bank of Australia to begin easing by Q2 2027, amounting to 75bps. NAB now forecasts AUD/USD at 0.6700 by end-2027 (previously 0.7000) and sees the pair probing at least 0.6500 at some point. NAB adds that if the RBA cuts next year while the Federal Reserve remains on hold, AUD downside would deepen."
+    },
+    {
+      "id": "4968569",
+      "time": "2026-07-03 09:20:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1.1%，至8,820.90點。"
+    },
+    {
+      "id": "4968568",
+      "time": "2026-07-03 09:19:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數轉漲，此前一度跌超3.5%。"
+    },
+    {
+      "id": "4968567",
+      "time": "2026-07-03 09:18:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "片山皋月：外匯走勢可能反映日本國債招標需求疲弱和美國勞動力市場資料。"
+    },
+    {
+      "id": "4968566",
+      "time": "2026-07-03 09:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯表示，國際貨幣基金組織與世界銀行已為震後重建提供援助和信貸支援。"
+    },
     {
       "id": "mkt:019f258d-3680-7aab-8c87-86aaed658aa8",
       "time": "2026-07-03 09:17:19",
@@ -128135,100 +128287,6 @@
         "市場"
       ],
       "text": "阿里巴巴港股開盤下跌3.2%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606263783938227",
-      "time": "2026-06-26 09:22:26",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2315億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4956096",
-      "time": "2026-06-26 09:21:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2315億元7天逆回購操作，投標量2315億元，中標量2315億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4956095",
-      "time": "2026-06-26 09:21:08",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.54％，國企指數跌0.44％，科指開跌0.78%。"
-    },
-    {
-      "id": "mkt:019f0183-f45b-7dd8-b128-89775e9453a9",
-      "time": "2026-06-26 09:20:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong markets opened lower on Friday June 26: Hang Seng Index down 124.82 pts (-0.54%) at 22,952.09; Hang Seng Tech Index down 34.38 pts (-0.78%) at 4,371.54; Hang Seng China Enterprises Index down 33.20 pts (-0.44%) at 7,575.18; Hang Seng Red Chip Index down 2.96 pts (-0.08%) at 3,794.07."
-    },
-    {
-      "id": "mkt:019f0183-eaa9-7dd8-b128-816e48bccaa7",
-      "time": "2026-06-26 09:20:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "Hang Seng Index",
-        "Impact bearish",
-        "01299.HK",
-        "09988.HK"
-      ],
-      "text": "Hong Kong stocks opened lower: Hang Seng Index down 0.54%, Hang Seng TECH Index down 0.78%. AIA Group (01299.HK) fell nearly 4%; Alibaba Group (09988.HK) fell about 3%."
-    },
-    {
-      "id": "mkt:019f0183-b618-7dd8-b128-7ba3cde28c38",
-      "time": "2026-06-26 09:20:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC conducted CNY 231.5 bln of 7‑day reverse repos today; bids totaled CNY 231.5 bln and allotments were CNY 231.5 bln. Rate set at 1.40%, unchanged."
-    },
-    {
-      "id": "mkt:019f0183-7639-7dd8-b128-72f86324fa2e",
-      "time": "2026-06-26 09:20:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【N. Korea's Kim Jong Un Observes Artillery, Missile Tests】KCNA reported on June 26 that N. Korea leader Kim Jong Un observed weapons tests on June 25 focused on artillery and missile modernization. Tests included an upgraded 240mm 24-tube rocket launcher with automated fire control and indigenous precision guidance, range extended to 90 km; a tactical ballistic missile fitted with a \"special mission\" warhead said to be intended for lethal, destructive strikes on enemy airports, ports and power facilities; and a 155mm self-propelled gun trialing an extended-range projectile reaching 65 km. Kim said the tests demonstrate major technical progress in automation, range and ultra-precision."
-    },
-    {
-      "id": "4956094",
-      "time": "2026-06-26 09:20:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金正恩觀摩火炮及導彈相關武器試驗】據朝中社26日報道，朝鮮勞動黨總書記、國務委員長金正恩25日觀摩火炮及導彈現代化相關武器試驗。據報道，試驗內容包括升級版240毫米24管火箭炮、戰術彈道導彈和155毫米自行加農榴彈炮增程彈。報道說，升級版火箭炮的作業系統實現自動化，採用精確自行制導系統，射程增至90公里。戰術彈道導彈“特殊使命戰鬥部”旨在對敵方機場、港口、電力設施等重要目標實施“致命性、毀滅性打擊”。155毫米自行加農榴彈炮試驗的65公里增程炮彈“也具有重要軍事意義”。金正恩說，此次試驗是一個重要契機，證明朝鮮武力建設方針以及在實現自動化、遠端化、超精密化三大方面取得的巨大技術進步。金正恩還說，朝鮮自衛性國防政策不是單純提升防禦能力，而是強化致命性、毀滅性的攻擊態勢，讓敵方感到不安和恐懼，遏制戰爭，這是朝鮮在軍隊建設和軍事行動實踐中的防禦理念。（新華社）"
-    },
-    {
-      "id": "mkt:019f0182-ffe4-7dd8-b128-69d5f8e8826d",
-      "time": "2026-06-26 09:19:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Jan-May 2026 China all-sector outbound direct investment 506.95 bln yuan, +3% YoY】MOFCOM and SAFE data show China’s all-sector outbound direct investment totaled 506.95 bln yuan in Jan-May 2026, up 3% YoY (USD 73.36 bln, +7.1%). Domestic investors made non-financial direct investments in 6,081 overseas firms across 142 countries and regions, totaling 381.46 bln yuan, down 13.8% YoY (USD 55.2 bln, -10.4%)."
     }
   ]
 }

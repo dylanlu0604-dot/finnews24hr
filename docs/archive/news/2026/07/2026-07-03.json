@@ -1,7 +1,159 @@
 {
   "date": "2026-07-03",
-  "count": 748,
+  "count": 765,
   "items": [
+    {
+      "id": "mkt:019f2591-9323-7aab-8c87-ab8d63b6e916",
+      "time": "2026-07-03 09:22:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong-listed gold miners opened higher; Zhaojin Mining (01818.HK) rose over 7%, Lingbao Gold (03330.HK) rose over 6%, with Zijin Gold International (02259.HK) and Shandong Gold (01787.HK) also higher."
+    },
+    {
+      "id": "4968577",
+      "time": "2026-07-03 09:21:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠1,685.0億元人民幣。"
+    },
+    {
+      "id": "4968576",
+      "time": "2026-07-03 09:21:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財政大臣片山：具體貨幣政策由日本央行決定。"
+    },
+    {
+      "id": "4968575",
+      "time": "2026-07-03 09:21:21",
+      "tags": [],
+      "text": "港股恒指高開漲0.81％，國企指數漲0.82％，科指開漲0.76%。"
+    },
+    {
+      "id": "4968574",
+      "time": "2026-07-03 09:21:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨微升0.3%，納斯達克指數期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:019f2590-d203-7aab-8c87-a05a5887b5b3",
+      "time": "2026-07-03 09:21:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY63 bln 7-day reverse repo today; tendered CNY63 bln and accepted CNY63 bln at a 1.40% rate, unchanged from the prior operation."
+    },
+    {
+      "id": "mkt:019f2590-c9e1-7aab-8c87-9f95223f6e97",
+      "time": "2026-07-03 09:21:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01024.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Hang Seng Tech"
+      ],
+      "text": "Hong Kong open: Hang Seng +0.81%, Hang Seng Tech +0.76%. Kuaishou (01024.HK) +6.24% after the company said yesterday it will spin off Keling as a separately capitalized entity and investors agreed to inject $3 bln into Keling."
+    },
+    {
+      "id": "4968573",
+      "time": "2026-07-03 09:21:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報15212.00元。"
+    },
+    {
+      "id": "4968572",
+      "time": "2026-07-03 09:21:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展630億元人民幣7天期逆回購操作，利率1.40%，前次為1.40%。"
+    },
+    {
+      "id": "4968571",
+      "time": "2026-07-03 09:20:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報62.18美元/盎司。"
+    },
+    {
+      "id": "4968570",
+      "time": "2026-07-03 09:20:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.5%，英國富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "mkt:019f2590-2b63-7aab-8c87-94914d852b82",
+      "time": "2026-07-03 09:20:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 rose more than 1% to 8,820.90 points."
+    },
+    {
+      "id": "mkt:019f258f-c6b2-7aab-8c87-8cb9f4999f8f",
+      "time": "2026-07-03 09:20:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【National Australia Bank: RBA expected to cut in 2027; AUD outlook weak】National Australia Bank expects the Reserve Bank of Australia to begin easing by Q2 2027, amounting to 75bps. NAB now forecasts AUD/USD at 0.6700 by end-2027 (previously 0.7000) and sees the pair probing at least 0.6500 at some point. NAB adds that if the RBA cuts next year while the Federal Reserve remains on hold, AUD downside would deepen."
+    },
+    {
+      "id": "4968569",
+      "time": "2026-07-03 09:20:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1.1%，至8,820.90點。"
+    },
+    {
+      "id": "4968568",
+      "time": "2026-07-03 09:19:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數轉漲，此前一度跌超3.5%。"
+    },
+    {
+      "id": "4968567",
+      "time": "2026-07-03 09:18:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "片山皋月：外匯走勢可能反映日本國債招標需求疲弱和美國勞動力市場資料。"
+    },
+    {
+      "id": "4968566",
+      "time": "2026-07-03 09:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯表示，國際貨幣基金組織與世界銀行已為震後重建提供援助和信貸支援。"
+    },
     {
       "id": "mkt:019f258d-3680-7aab-8c87-86aaed658aa8",
       "time": "2026-07-03 09:17:19",
