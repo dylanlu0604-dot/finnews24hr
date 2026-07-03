@@ -1,7 +1,49 @@
 {
   "date": "2026-07-03",
-  "count": 2718,
+  "count": 2722,
   "items": [
+    {
+      "id": "4969995",
+      "time": "2026-07-03 23:45:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：若無戰爭因素，英國通脹本可達到目標水平。"
+    },
+    {
+      "id": "mkt:019f28a8-6d30-7aab-8c99-243bdda5707f",
+      "time": "2026-07-03 23:45:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "BAILEY said UK inf would have reached its target absent the war."
+    },
+    {
+      "id": "mkt:019f28a8-6b61-7aab-8c99-1f77a8c80116",
+      "time": "2026-07-03 23:45:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli PMO denies plan to assassinate Iranian negotiators】On March 3 Israel’s prime minister’s office denied US media reports that Israel planned to assassinate senior Iranian negotiators, calling the accounts false and fabricated. The New York Times reported on March 2 that US officials had earlier this year indirectly warned Iranian foreign ministry official Abbas Araghchi and parliament speaker Mohammad Bagher Ghalibaf that Israel might attempt to target them. US officials feared such an attempt could derail ceasefire talks and spark new conflict, and asked regional partners to pass the warning to Tehran. The report said Araghchi and Ghalibaf were listed as targets after a Feb. 28 US-Israel strike on Iran, and that two senior Iranian negotiators involved in the talks had previously been killed in Israeli strikes."
+    },
+    {
+      "id": "4969994",
+      "time": "2026-07-03 23:45:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以總理辦公室否認計劃暗殺伊朗談判代表】當地時間3日，以色列總理辦公室發表宣告，否認美國媒體關於以色列計劃暗殺伊朗高階談判代表的報道，指責相關內容完全是“虛假新聞”和“徹底的捏造”。（央視新聞）"
+    },
     {
       "id": "4969993",
       "time": "2026-07-03 23:42:20",

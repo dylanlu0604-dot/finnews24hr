@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-03 23:45:26",
-  "count": 13516,
+  "updated": "2026-07-03 23:49:30",
+  "count": 13517,
   "items": [
+    {
+      "id": "4969995",
+      "time": "2026-07-03 23:45:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：若無戰爭因素，英國通脹本可達到目標水平。"
+    },
+    {
+      "id": "mkt:019f28a8-6d30-7aab-8c99-243bdda5707f",
+      "time": "2026-07-03 23:45:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "BAILEY said UK inf would have reached its target absent the war."
+    },
+    {
+      "id": "mkt:019f28a8-6b61-7aab-8c99-1f77a8c80116",
+      "time": "2026-07-03 23:45:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli PMO denies plan to assassinate Iranian negotiators】On March 3 Israel’s prime minister’s office denied US media reports that Israel planned to assassinate senior Iranian negotiators, calling the accounts false and fabricated. The New York Times reported on March 2 that US officials had earlier this year indirectly warned Iranian foreign ministry official Abbas Araghchi and parliament speaker Mohammad Bagher Ghalibaf that Israel might attempt to target them. US officials feared such an attempt could derail ceasefire talks and spark new conflict, and asked regional partners to pass the warning to Tehran. The report said Araghchi and Ghalibaf were listed as targets after a Feb. 28 US-Israel strike on Iran, and that two senior Iranian negotiators involved in the talks had previously been killed in Israeli strikes."
+    },
+    {
+      "id": "4969994",
+      "time": "2026-07-03 23:45:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以總理辦公室否認計劃暗殺伊朗談判代表】當地時間3日，以色列總理辦公室發表宣告，否認美國媒體關於以色列計劃暗殺伊朗高階談判代表的報道，指責相關內容完全是“虛假新聞”和“徹底的捏造”。（央視新聞）"
+    },
     {
       "id": "4969993",
       "time": "2026-07-03 23:42:20",
@@ -124451,41 +124493,6 @@
         "公司"
       ],
       "text": "法國電力集團（EDF）：KKR 已同意收購其旗下美加電力解決方案業務。"
-    },
-    {
-      "id": "te:markets:562299",
-      "time": "2026-06-26 23:49:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Swiss Franc Rebounds From One-Year Low — The Swiss franc strengthened to around $0.807 against a weaker dollar, rebounding from a one-year low of $0.81227 hit on June 24, as sliding oil prices tempered Federal Reserve rate hike bets. Despite gaining ground, the franc remains 4.8% weaker than before the Middle East conflict, and a potential peace deal could further reduce haven demand. The Swiss National Bank kept its policy rate unchanged at 0% for a fourth consecutive meeting, maintaining that the current stance remains consistent with price stability and economic growth. However, the SNB revised its inflation outlook higher and reiterated its willingness to intervene in foreign exchange markets if needed. Meanwhile, the International Monetary Fund reported that Swiss economic growth will slow to 1.1% in 2026 amid weak external demand and tariff uncertainties. The Swiss government also trimmed its own 2026 domestic growth forecast to 0.9%, citing the dampening effects of recent energy price spikes."
-    },
-    {
-      "id": "4957830",
-      "time": "2026-06-26 23:47:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋與伊朗外長通話討論地區局勢】阿聯酋外交部長謝赫阿卜杜拉·本·扎耶德·阿勒納哈揚26日與伊朗外交部長阿拉格齊通電話，就美國與伊朗達成諒解備忘錄後的地區局勢發展交換意見。據阿通社報道，阿卜杜拉說，各方應全面遵守協議條款，確保地區敵對行動立即、全面停止，尊重各國主權和睦鄰友好原則，遵守國際法，維護海上通道安全和國際航行自由，包括保障霍爾木茲海峽的航運暢通。他表示，希望正在進行的美伊談判能夠取得積極成果，為實現地區持久安全與穩定作出貢獻，並強調認真開展外交努力和負責任的對話是解決地區和國際危機的最佳途徑。（新華社）"
-    },
-    {
-      "id": "mkt:019f049b-94bb-7dd8-b13a-ad75fde6ce4c",
-      "time": "2026-06-26 23:45:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Kashkari says he expects one Fed rate hike in 2026】Fed official Kashkari said signs of broadening inflation led him to project one rate hike in 2026 in the Fed’s economic projections released earlier this month, with policy likely to be unchanged in 2027. In a Friday interview he said he is concerned inflation is not solely linked to the Middle East; the Iran war has pushed oil higher and price increases have broadened across categories. May PCE rose 4.1% YoY, the biggest gain since April 2023, and prices have exceeded the Fed’s 2% target for more than five years. The Fed’s dot plot released last week showed roughly half of officials expect at least one rate hike this year."
     }
   ]
 }
