@@ -1,7 +1,44 @@
 {
   "date": "2026-07-03",
-  "count": 1298,
+  "count": 1302,
   "items": [
+    {
+      "id": "4968964",
+      "time": "2026-07-03 13:26:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股機器人概念漲幅擴大 優必選等5股漲超10%】截至發稿，微創機器人-B(02252.HK)漲15%，優必選(09880.HK)漲14%，越疆漲14%，地平線機器人-W(09660.HK)漲13%，首程控股漲11%。"
+    },
+    {
+      "id": "mkt:019f266f-6bda-7aab-8c8b-e2b7831617c0",
+      "time": "2026-07-03 13:24:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: Samsung Electronics seeks up to 20% rise in Q3 DRAM prices】Industry sources on the 3rd said Samsung Electronics is negotiating with customers to lift average DRAM selling prices in Q3 this year by up to 20% QoQ."
+    },
+    {
+      "id": "4968963",
+      "time": "2026-07-03 13:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星電子第三季度DRAM價格將上調至多20%】據業內人士3日透露，三星電子目前正在與客戶進行談判，目標是將今年第三季度DRAM的平均售價比上一季度提高20%。（ZDNET Korea）"
+    },
+    {
+      "id": "4968962",
+      "time": "2026-07-03 13:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊外交部：百餘國派代表出席哈梅內伊遺體告別儀式】當地時間7月3日，伊朗外交部發言人巴加埃表示，約100個國家派遣官方代表團、公眾團體或知名人士出席伊朗已故最高領袖哈梅內伊遺體告別儀式。巴加埃表示，出席儀式的包括至少8位國家元首（總統或總理）、來自12個國家的議長，以及多個國家的外交部長、部長級官員或特使。他還表示，來自東歐各國的官方代表團、議員及民間人士也都出席儀式。但對於公開支援以色列和美國對伊朗發動軍事行動的歐洲國家，伊方未邀請其參加。"
+    },
     {
       "id": "4968961",
       "time": "2026-07-03 13:22:53",
