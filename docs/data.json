@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-03 22:27:30",
+  "updated": "2026-07-03 22:31:27",
   "count": 13531,
   "items": [
+    {
+      "id": "mkt:019f2862-d3b8-7aab-8c97-8ddff0161353",
+      "time": "2026-07-03 22:29:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Document shows Germany's draft 2027 budget foresees core-budget net borrowing of €118.7bn and allocates €117.5bn for investment."
+    },
+    {
+      "id": "4969943",
+      "time": "2026-07-03 22:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國2027年預算草案為投資安排的總資金規模達1175億歐元，核心預算淨借貸規模為1187億歐元。"
+    },
+    {
+      "id": "mkt:019f2862-95ba-7aab-8c97-81b64638aa29",
+      "time": "2026-07-03 22:29:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Document shows Germany's 2027 budget draft sets total spending at €555.4 bln, up from €543.3 bln in the prior draft. Planned total borrowing is €203.7 bln, versus €196.5 bln previously."
+    },
+    {
+      "id": "4969942",
+      "time": "2026-07-03 22:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國2027年預算草案的總借款規模為2037億歐元，高於此前的1965億歐元。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202607033793878029",
+      "time": "2026-07-03 22:29:12",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大6月溫哥華基準住房價格同比下降6%】加拿大6月溫哥華基準住房價格同比下降6%，住房銷售同比增長9.6%。"
+    },
+    {
+      "id": "4969941",
+      "time": "2026-07-03 22:28:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月溫哥華基準住房價格同比下降6%，住房銷售同比增長9.6%。"
+    },
+    {
+      "id": "mkt:019f2861-4efc-7aab-8c97-79b296c70938",
+      "time": "2026-07-03 22:28:13",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "UK's Medicines and Healthcare products Regulatory Agency (MHRA) approved semaglutide injection for the treatment of a liver disease."
+    },
+    {
+      "id": "4969940",
+      "time": "2026-07-03 22:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "三國聯合戰鬥機專案進入新階段，46億英鎊合同正式啟動（ 注：GCAP為Global Combat Air Programme的縮寫，即全球空戰計劃，是英國、義大利、日本聯合推進的下一代戰鬥機研發專案。  ）。"
+    },
     {
       "id": "4969939",
       "time": "2026-07-03 22:26:42",
@@ -124580,75 +124651,6 @@
         "其他"
       ],
       "text": "阿聯酋宣告稱：週五預警系統發生技術故障，導致發出錯誤預警資訊。"
-    },
-    {
-      "id": "4957752",
-      "time": "2026-06-26 22:31:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋宣告稱，預警系統技術故障已得到處置。"
-    },
-    {
-      "id": "mkt:019f0457-8237-7dd8-b139-758477e0b272",
-      "time": "2026-06-26 22:31:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UAE said it has resolved a technical fault in its early-warning system."
-    },
-    {
-      "id": "4957751",
-      "time": "2026-06-26 22:30:50",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國消費者信心回升 但仍接近紀錄低點】美國消費者信心6月回升，汽油價格下跌緩解了美國民眾面臨的高通脹壓力。密歇根大學週五公佈的調查顯示，6月消費者信心指數終值由5月的紀錄低點44.8升至49.5。儘管高於初值，但仍是該項資料自20世紀70年代有記錄以來的第二低水平。消費者預計未來一年物價將以4.6%的幅度上漲，低於5月預期的4.8%。他們還預計，未來5至10年物價將以3.3%的年率上漲，抹去了前一個月的大幅上升。近幾周，美國汽油價格每加侖平均下跌逾60美分，提振了居民信心。報告顯示，不同收入群體以及不同政治傾向消費者的信心均有所改善。不過，調查負責人Joanne Hsu在宣告中表示：“生活成本仍是消費者最關心的問題。超過半數消費者主動提到，高物價正拖累他們的個人財務狀況。”"
-    },
-    {
-      "id": "4957750",
-      "time": "2026-06-26 22:30:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普前國家安全事務助理認罪】美國總統特朗普第一個總統任期時的國家安全事務助理博爾頓今天（6月26日）在聯邦法院承認一項非法保留國家安全資訊的罪名。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f0456-6df9-7dd8-b139-6d4fe7dc83e2",
-      "time": "2026-06-26 22:30:00",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【Germany weighing €20bn income-tax cut as Merz advances reform agenda】The ruling coalition led by Chancellor Merz is negotiating a personal income-tax cut of up to €20 billion as part of a push to advance broader reforms. Parties remain split on how to finance the measure; CDU leadership and SPD leaders will meet Sunday to try to bridge differences over a proposal targeted at taxpayers with annual income up to €100,000. Coalition partners are preparing a July 1 meeting to finalise plans for pensions, healthcare and tax-system reforms intended to revive German economic growth."
-    },
-    {
-      "id": "4957749",
-      "time": "2026-06-26 22:29:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩堅持要求將以色列全面撤軍內容納入談判最終宣告。"
-    },
-    {
-      "id": "4957748",
-      "time": "2026-06-26 22:28:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Vitol將滯留的鋁貨物運出霍爾木茲海峽。"
-    },
-    {
-      "id": "4957747",
-      "time": "2026-06-26 22:28:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在黎南部打死7名真主黨武裝人員】以色列國防軍26日發表宣告說，以軍當天在黎巴嫩南部發動空襲，打死7名黎巴嫩真主黨武裝人員。 宣告說，當天早些時候，這7名武裝人員在黎南部“安全區”附近轉運武器。武器被運送至曼宰萊地區一處建築內，武裝人員曾在此策劃並準備實施針對以軍士兵的襲擊行動。 宣告稱，以軍將繼續採取行動消除相關威脅。(新華社)"
     }
   ]
 }

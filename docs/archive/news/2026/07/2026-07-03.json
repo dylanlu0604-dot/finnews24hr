@@ -1,7 +1,78 @@
 {
   "date": "2026-07-03",
-  "count": 2605,
+  "count": 2613,
   "items": [
+    {
+      "id": "mkt:019f2862-d3b8-7aab-8c97-8ddff0161353",
+      "time": "2026-07-03 22:29:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Document shows Germany's draft 2027 budget foresees core-budget net borrowing of €118.7bn and allocates €117.5bn for investment."
+    },
+    {
+      "id": "4969943",
+      "time": "2026-07-03 22:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國2027年預算草案為投資安排的總資金規模達1175億歐元，核心預算淨借貸規模為1187億歐元。"
+    },
+    {
+      "id": "mkt:019f2862-95ba-7aab-8c97-81b64638aa29",
+      "time": "2026-07-03 22:29:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Document shows Germany's 2027 budget draft sets total spending at €555.4 bln, up from €543.3 bln in the prior draft. Planned total borrowing is €203.7 bln, versus €196.5 bln previously."
+    },
+    {
+      "id": "4969942",
+      "time": "2026-07-03 22:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國2027年預算草案的總借款規模為2037億歐元，高於此前的1965億歐元。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202607033793878029",
+      "time": "2026-07-03 22:29:12",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大6月溫哥華基準住房價格同比下降6%】加拿大6月溫哥華基準住房價格同比下降6%，住房銷售同比增長9.6%。"
+    },
+    {
+      "id": "4969941",
+      "time": "2026-07-03 22:28:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月溫哥華基準住房價格同比下降6%，住房銷售同比增長9.6%。"
+    },
+    {
+      "id": "mkt:019f2861-4efc-7aab-8c97-79b296c70938",
+      "time": "2026-07-03 22:28:13",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "UK's Medicines and Healthcare products Regulatory Agency (MHRA) approved semaglutide injection for the treatment of a liver disease."
+    },
+    {
+      "id": "4969940",
+      "time": "2026-07-03 22:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "三國聯合戰鬥機專案進入新階段，46億英鎊合同正式啟動（ 注：GCAP為Global Combat Air Programme的縮寫，即全球空戰計劃，是英國、義大利、日本聯合推進的下一代戰鬥機研發專案。  ）。"
+    },
     {
       "id": "4969939",
       "time": "2026-07-03 22:26:42",
