@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-03 10:21:25",
-  "count": 13917,
+  "updated": "2026-07-03 10:25:20",
+  "count": 13908,
   "items": [
+    {
+      "id": "te:markets:563962",
+      "time": "2026-07-03 10:23:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Holds Gains Amid Katayama Remarks — The Japanese yen traded near 161 per dollar on Friday after jumping nearly 1% in the previous session, as Finance Minister Satsuki Katayama reiterated that authorities stand ready to intervene at any time to support the currency. Her comments came amid growing speculation over another round of intervention, with thin liquidity during the US holiday weekend seen as creating favorable conditions for official action. Katayama also said Japan and the US remain in close communication on foreign exchange policy. On Thursday, the yen rebounded sharply from 40-year lows after reports suggested Japan may stop signaling intervention plans in advance, catching traders off guard and helping unwind speculative positions against the currency. The yen also drew support from a weaker dollar after softer-than-expected US jobs data prompted traders to reduce expectations for Federal Reserve rate hikes this year."
+    },
+    {
+      "id": "4968733",
+      "time": "2026-07-03 10:23:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股今日休市 金銀油交易提前結束】受美國獨立日假期影響，美國股市今日休市一日。芝商所（CME）旗下貴金屬、能源、外匯、美債、股指期貨合約交易提前於北京時間7月4日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間7月4日01:30結束。"
+    },
+    {
+      "id": "mkt:019f25c9-dc76-7aab-8c89-a73560c57106",
+      "time": "2026-07-03 10:23:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China A-share small-metals sector weakened; Xianglu Tungsten hit the daily limit down, while China Tungsten High-Tech, Xiamen Tungsten, Dongfang Tantalum, Zhangyuan Tungsten, Jinduicheng Molybdenum and Guiyan Platinum also fell."
+    },
+    {
+      "id": "4968732",
+      "time": "2026-07-03 10:23:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隱功科技完成億元級Pre-A+輪融資】7月3日，據復旦科創訊息，近日，江蘇隱功科技有限公司宣佈完成億元級Pre-A+輪融資，本輪融資由復旦科創與啟賦資本聯合領投，蘇科創、襄禾資本及產業戰略投資方跟投。融資將主要用於新增產線建設及多技術路線鈉電的產品迭代與研發。"
+    },
+    {
+      "id": "4968731",
+      "time": "2026-07-03 10:22:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股快手轉跌，此前一度漲逾6%。"
+    },
+    {
+      "id": "4968730",
+      "time": "2026-07-03 10:21:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體材料板塊走弱，立昂微等多股跌停】半導體材料板塊走弱，立昂微、濱化股份、三美股份、多氟多、巨化股份跌停，金宏氣體、有研矽、正帆科技、晶瑞電材、中巨芯-U、南大光電等跌超10%。"
+    },
+    {
+      "id": "4968729",
+      "time": "2026-07-03 10:21:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價漲幅擴大，最新報30.35萬韓元，漲幅6.1%。"
+    },
+    {
+      "id": "mkt:019f25c7-c7b4-7aab-8c89-99fe42ce9717",
+      "time": "2026-07-03 10:21:17",
+      "tags": [
+        "MKT News",
+        "066570.KS",
+        "Impact bullish",
+        "011070.KS"
+      ],
+      "text": "【Hana Securities: LG Electronics Q2 earnings likely to beat expectations】Hana Securities analyst Minkyung Kim says LG Electronics’ Q2 (Apr–Jun) consolidated operating profit could more than double YoY to KRW 1.441 tln, above a KRW 1.040 tln consensus, aided by U.S. tariff refunds and related factors. Kim expects LG to offset higher raw-material and logistics costs via price increases and efficiency measures. Strong results at Apple supplier LG Innotek may further lift the parent’s profit."
+    },
+    {
+      "id": "mkt:019f25c7-af77-7aab-8c89-97e143d2be25",
+      "time": "2026-07-03 10:21:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan raises flood and typhoon emergency response to level 3】Typhoon Maysak, the 10th storm of the year, formed early on July 3 and is forecast to move north‑northwest at 10–15 km/h, intensify, and make landfall between Wanning and Sanya in the afternoon to evening of July 3 as a tropical storm or severe tropical storm. Hainan Meteorological Bureau upgraded the typhoon warning from level 4 to level 3 at 06:30 on July 3. Hainan’s provincial disaster‑reduction committee raised the flood/typhoon/drought emergency response from level 4 to level 3 at 07:00 on July 3."
+    },
+    {
+      "id": "4968728",
+      "time": "2026-07-03 10:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家菸草專賣局修訂釋出7份電子煙監管政策檔案】國家菸草專賣局公告，為貫徹落實《國家菸草專賣局關於落實電子煙產業政策 進一步推動供需動態平衡的通知》（國煙法〔2026〕21號），保證電子煙監管政策體系的統一協調性，國家菸草專賣局對《關於促進電子煙產業法治化規範化的若干政策措施（試行）》（國煙辦〔2022〕43號）、《電子煙固定資產投資管理細則》（國煙法〔2024〕104號）、《電子煙產品技術審評實施細則》（國煙法〔2024〕120號）、《電子煙產品追溯管理細則》（國煙辦〔2022〕43號）、《電子煙進出口貿易和對外經濟技術合作管理細則》（國煙法〔2022〕125號）、《電子煙相關生產企業設立、分立、合併、撤銷管理細則》（國煙辦〔2022〕104號）、《一體化政務服務平臺 電子證照 菸草專賣生產企業許可證第2部分：電子煙》（國煙辦綜〔2024〕25號）等7份電子煙監管政策檔案進行了修訂。本公告自發布之日起施行。"
+    },
     {
       "id": "4968727",
       "time": "2026-07-03 10:20:45",
@@ -128072,194 +128163,6 @@
         "公司"
       ],
       "text": "【蔚來李斌：2030年新能源汽車滲透率將超90%】6月26日，蔚來創始人、董事長、CEO李斌在2026蔚來合作伙伴日上表示，2030年，新能源汽車在中國新車市場滲透率將超過90%，而純電在新能源汽車市場佔比將超過90%。乘聯會資料顯示，2026年5月中國新能源汽車在新車市場滲透率達62.9%，其中純電佔比達67.1%。（一財）"
-    },
-    {
-      "id": "4956260",
-      "time": "2026-06-26 10:25:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4020美元/盎司，日內跌0.68%。"
-    },
-    {
-      "id": "mkt:019f01be-839f-7dd8-b12a-be1d209114bc",
-      "time": "2026-06-26 10:24:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IMO suspends Strait of Hormuz evacuation plan after ship hit in Gulf of Oman】The International Maritime Organization said it is temporarily suspending an evacuation operation for vessels and seafarers stranded in the Gulf of Oman after a cargo ship was struck by unidentified aerial objects near Omani waters on Thursday. A US official blamed Iran for the attack and said Washington is investigating. IMO Secretary-General Domingues said the pause will allow authorities to reconfirm the evacuation list and verify security measures for all ships in the area. A US official added that President Trump has said Iran must not be allowed to disrupt freedom of navigation."
-    },
-    {
-      "id": "4956259",
-      "time": "2026-06-26 10:24:43",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌6%至8394.29點。"
-    },
-    {
-      "id": "mkt:019f01bd-ff7a-7dd8-b12a-b23f17b2c2ab",
-      "time": "2026-06-26 10:24:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI index slid below 8,400, down nearly 6% intraday."
-    },
-    {
-      "id": "mkt:019f01bd-df45-7dd8-b12a-a81cffe28a8c",
-      "time": "2026-06-26 10:24:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "U.S. equity index futures extended losses: Nasdaq-100 futures down more than 1%, S&P 500 futures down 0.42%, Dow Jones futures down 0.08%."
-    },
-    {
-      "id": "4956258",
-      "time": "2026-06-26 10:24:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股股指期貨持續下挫，納斯達克100指數期貨跌超1%，標普500指數期貨跌0.42%，道瓊斯指數期貨跌0.08%。"
-    },
-    {
-      "id": "4956257",
-      "time": "2026-06-26 10:23:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【勝科奈米李曉旻：將失效分析交由第三方執行的“Labless”模式正在興起】在今日舉行的第四屆半導體第三方分析檢測生態圈戰略大會上，勝科奈米董事長李曉旻表示，隨著半導體產業專業化分工深化，檢測環節正逐步獨立。類似於Fabless模式，將失效分析等工作交由第三方執行的“Labless”模式正在興起。目前該模式表現為“Lab-Lite”：企業保留小規模自建實驗室以應對緊急和保密需求，同時將大部分檢測業務外包給第三方。"
-    },
-    {
-      "id": "4956256",
-      "time": "2026-06-26 10:23:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報56.66美元/盎司。"
-    },
-    {
-      "id": "4956255",
-      "time": "2026-06-26 10:23:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局局長王宏志：預計“十五五”能源重點專案和新業態投資總規模超20萬億元】國家發展改革委黨組成員、國家能源局局長王宏志在國新辦新聞釋出會上表示，預計“十五五”能源重點專案和新業態投資保持穩步增長態勢，總規模超過20萬億元。"
-    },
-    {
-      "id": "4956254",
-      "time": "2026-06-26 10:23:45",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【頂點A5 Max上線，中信證券第三代核心交易系統全面落地】據頂點軟體訊息，中信證券第三代核心交易系統專案全面上線後已經平穩執行2個月，順利經受了大行情的考驗。據悉，A5 Max為國內證券行業首個超兩千萬量級客戶規模、全棧國產信創、全業務全記憶體化、多地多中心超分散式核心交易系統，由中信證券與頂點軟體聯合打造，基於國產晶片、伺服器、網路、作業系統、資料庫等全棧國產化重構，覆蓋交易、行情、報盤、清算等全業務鏈路，全面去“IOE”，徹底擺脫對國外技術的依賴，築牢國家金融安全基礎底座。"
-    },
-    {
-      "id": "mkt:019f01bd-7063-7dd8-b12a-a53ddd221158",
-      "time": "2026-06-26 10:23:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks opened lower and extended losses; Hang Seng Tech Index down more than 3%, HSI down 1.7%."
-    },
-    {
-      "id": "4956253",
-      "time": "2026-06-26 10:23:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念持續拉昇 雷曼光電20CM漲停】玻璃基板概念持續拉昇，雷曼光電20CM漲停，京東方A逼近漲停，力諾藥包漲超15%，此前紅星發展、凱盛科技漲停，沃格光電、TCL科技、艾森股份、彩虹股份、安彩高科跟漲。"
-    },
-    {
-      "id": "4956252",
-      "time": "2026-06-26 10:23:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超3%，現報4273.430點；恒生指數現跌1.718%。"
-    },
-    {
-      "id": "4956251",
-      "time": "2026-06-26 10:22:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OPPO向支付技術公司Verifone許可蜂窩通訊標準必要專利】6月26日，OPPO宣佈與全球支付技術公司Verifone簽署了一項雙邊專利許可協議。根據該協議，OPPO的蜂窩通訊標準必要專利將許可予Verifone的POS支付裝置，以提升使用者體驗。這是OPPO公開宣告的第四個對外許可協議，也是在POS機行業的第一雙邊專利許可協議。"
-    },
-    {
-      "id": "mkt:019f01bc-b7da-7dd8-b12a-9ef8444b439b",
-      "time": "2026-06-26 10:22:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose more than 2%; Gebijia led constituent gains, up 22%."
-    },
-    {
-      "id": "4956250",
-      "time": "2026-06-26 10:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國總統政策室長暗示下週將公佈重大企業投資計劃】韓國總統政策室長金容範表示，6月29日，李在明總統將主持召開會議，討論大型企業的投資計劃，屆時將公佈“非常不尋常”的資料。金在YouTube頻道上發表了上述評論，6月29日的活動將重點聚焦半導體、人工智慧資料中心和物理人工智慧等關鍵領域。"
-    },
-    {
-      "id": "mkt:019f01bc-2982-7dd8-b12a-9176369cdb76",
-      "time": "2026-06-26 10:22:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【GCC, US say reopening Strait of Hormuz vital】Gulf Cooperation Council foreign ministers and US Secretary of State Rubio met in Manama on June 25 and issued a joint statement saying reopening the Strait of Hormuz is vital. The statement said navigation must be free, unconditional and unrestricted, including transit rights under international law, and opposed any tolls or attempts to control the strait; it welcomed Oman and the International Maritime Organization’s plan to evacuate detained seafarers. It added that trade and investment with Iran will depend on Tehran’s compliance with memoranda of understanding and any final agreement and on Tehran creating the conditions for economic engagement."
-    },
-    {
-      "id": "mkt:019f01bc-1dac-7dd8-b12a-8d38fc0f8d1d",
-      "time": "2026-06-26 10:22:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09888.HK",
-        "Impact bearish"
-      ],
-      "text": "Baidu (09888.HK) Hong Kong-listed shares slipped below HK$100, the first time they have traded under that level since September 2025."
-    },
-    {
-      "id": "4956249",
-      "time": "2026-06-26 10:22:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股百度(09888.HK)跌破100港元，為2025年9月以來首次。"
     }
   ]
 }
