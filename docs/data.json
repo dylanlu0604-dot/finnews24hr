@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-04 03:37:20",
-  "count": 13398,
+  "updated": "2026-07-04 03:59:42",
+  "count": 13394,
   "items": [
+    {
+      "id": "mkt:019f298e-ddd3-7aab-8c9a-e0712c71f462",
+      "time": "2026-07-04 03:57:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "【Dollar set for biggest weekly drop since April as rate-cut odds rise after softer U.S. jobs】The dollar slid sharply this week and is poised for its largest weekly decline since April after U.S. June jobs softened and markets trimmed the near-term Fed rate path; the dollar index fell about 0.5% on the week. EUR/USD rose to 1.1440, up roughly 0.5% for the week. GBP/USD climbed to 1.3352, gaining about 1.1% and marking its best weekly performance in nearly three months. USD/JPY, having retreated from near a 40-year high, fell to around 161 but remains elevated. Japanese finance and cabinet officials reiterated close market monitoring and said they stand ready to intervene in FX markets. Analysts say the dollar is clearly tracking employment data and rate expectations; further weak economic releases could extend dollar pressure, while the yen’s sustainability depends on the U.S.-Japan rate differential and any Japanese policy action."
+    },
+    {
+      "id": "mkt:019f298a-7c12-7aab-8c9a-da4c3c0ee0bf",
+      "time": "2026-07-04 03:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela's information ministry says an earthquake has killed 2,645 people."
+    },
+    {
+      "id": "mkt:019f298a-22f4-7aab-8c9a-d07dd06beef8",
+      "time": "2026-07-04 03:52:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Putin appeared in military uniform and said Russian forces on the front lines hold \"strategic initiative\"."
+    },
+    {
+      "id": "4970089",
+      "time": "2026-07-04 03:52:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉新聞部表示，地震遇難人數已達2645人。"
+    },
+    {
+      "id": "4970088",
+      "time": "2026-07-04 03:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京稱俄軍已在前線掌握 “戰略主動權”。"
+    },
+    {
+      "id": "mkt:019f2986-7342-7aab-8c9a-cb9927227ddb",
+      "time": "2026-07-04 03:48:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russia launched a large-scale bombardment on Sumy in northern Ukraine, striking an apartment building and a shop and killing three people."
+    },
+    {
+      "id": "4970087",
+      "time": "2026-07-04 03:47:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭蘇梅州州長表示，俄軍對烏克蘭北部城市蘇梅發動大規模轟炸，襲擊命中一棟公寓樓和一家商鋪，造成三人死亡。"
+    },
+    {
+      "id": "4970086",
+      "time": "2026-07-04 03:46:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列稱其打擊了黎巴嫩南部多處真主黨據點。"
+    },
+    {
+      "id": "mkt:019f2982-d121-7aab-8c9a-c48c88eb1908",
+      "time": "2026-07-04 03:44:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Greenland authorities say US still pressing but island 'not for sale'】Greenland's self-rule premier Jens-Frederik Nielsen said on the 3rd in France that the United States continues pressing to acquire Greenland, but the island is 'not for sale'. He said direct talks with the US are the 'right direction' and that Greenland is willing to deepen cooperation with 'like-minded' European countries on critical minerals, energy and hydropower."
+    },
+    {
+      "id": "4970085",
+      "time": "2026-07-04 03:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【格陵蘭島當局：美國仍在施壓，但該島“絕不出售”】格陵蘭島自治政府總理延斯-弗雷德裡克·尼爾森3日在法國出席一場公開活動時表示，美國為取得格陵蘭島仍在持續施壓，但格陵蘭島“絕不出售”。尼爾森說，與美國展開直接對話是解決問題的“正確方向”，格陵蘭島願與“志同道合”的歐洲國家在關鍵礦產、能源、水力發電等方面加強合作。（新華社）"
+    },
+    {
+      "id": "mkt:019f2980-4fc8-7aab-8c9a-be4c33c0ffcd",
+      "time": "2026-07-04 03:41:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Kremlin spokesman Peskov said the Russian Federation had fully liberated Konstantinovka in central Donetsk Oblast, eastern Ukraine."
+    },
+    {
+      "id": "4970084",
+      "time": "2026-07-04 03:39:54",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通預計第四季度金價將達到4,500美元，並指出存在下行風險】摩根大通表示，主要行業的黃金需求將不如其預期般強勁，這將限制今年金價的漲幅，預計第三季度金價將升至每盎司4,300美元，第四季度升至每盎司4,500美元。該行表示，鑑於若今夏剩餘時間經濟資料表現強勁，美國聯邦儲備理事會可能提前加息，其預測面臨的風險偏向下行。就在6月9日，摩根大通還曾表示預計金價將在年底前升至6,000美元。該行維持長期看漲觀點 ，稱隨著央行購金和實物需求在持續的結構性積蓄驅動因素下增強，黃金價格在2027年可能延續漲勢。該行還預測，隨著市場擺脫去年實物供應緊張的局面，且金銀比價趨於正常化，在其展望期內白銀價格將平均維持在每盎司60至65美元之間。"
+    },
+    {
+      "id": "mkt:019f297e-5abb-7aab-8c9a-b43e1208bfeb",
+      "time": "2026-07-04 03:39:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian media reported President Putin on Friday inspected an auxiliary command post of the joint forces and received a briefing from Chief of the General Staff Gerasimov, who assessed the current situation in the special military operation area."
+    },
+    {
+      "id": "4970083",
+      "time": "2026-07-04 03:37:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧魯科索紙漿公司以 2.16 億美元出售林業資產。"
+    },
+    {
+      "id": "te:markets:564224",
+      "time": "2026-07-04 03:37:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Steady on Dovish Fed Expectations — The Mexican peso traded little changed at 17.5 per USD in July as broad US dollar weakness was offset by uncertainty surrounding the USMCA review. The dollar came under pressure after weaker-than-expected US nonfarm payrolls data for June reduced expectations of additional Federal Reserve rate hikes. The return of oil prices to pre-conflict levels also eased concerns about energy-driven inflation, reinforcing expectations that the Fed could remain on hold through year-end. Meanwhile, uncertainty surrounding negotiations to revise the USMCA continued to weigh on the economic outlook and reduced prospects for future rate hikes. Also, domestic data strengthened the case for dovish policymakers at Banxico. Mexico's annual headline inflation fell more than expected to a ten-month low of 3.55% in the first half of June, while core inflation also eased by more than forecast, supporting expectations of lower interest rates."
+    },
     {
       "id": "4970082",
       "time": "2026-07-04 03:36:06",
@@ -123196,173 +123346,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.91%】海天網路漲29.65%，網易漲7.86%，新氧漲6.78%，迅雷漲6.56%，好未來漲5.92%。"
-    },
-    {
-      "id": "4957972",
-      "time": "2026-06-27 03:58:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通股價迅速延續跌勢，跌至當日低點9.1%。"
-    },
-    {
-      "id": "4957971",
-      "time": "2026-06-27 03:57:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "思科股價快速跌至盤中低點，跌幅達 5%。"
-    },
-    {
-      "id": "mkt:019f0581-9bfa-7dd8-b13e-c60aff90d54e",
-      "time": "2026-06-27 03:56:47",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "FITCH revised Boeing's outlook to Positive and affirmed its 'BBB-' credit rating."
-    },
-    {
-      "id": "mkt:019f0581-777c-7dd8-b13e-be0ace3d1eca",
-      "time": "2026-06-27 03:56:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SanDisk (SNDK.O) late-session losses widened to 11%."
-    },
-    {
-      "id": "mkt:019f0581-1341-7dd8-b13e-b19b2874d06c",
-      "time": "2026-06-27 03:56:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "When asked about Iran's actions in the Strait of Hormuz, US President Trump said observers should wait and see."
-    },
-    {
-      "id": "4957970",
-      "time": "2026-06-27 03:56:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠譽將波音公司的評級展望調整為正面；確認其發行人違約評級為“BBB-”。"
-    },
-    {
-      "id": "4957969",
-      "time": "2026-06-27 03:55:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者問及伊朗涉嫌違反停火協議一事，特朗普回應：拭目以待。"
-    },
-    {
-      "id": "4957968",
-      "time": "2026-06-27 03:55:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "閃迪公司股價在收盤前數分鐘因成交量激增觸及日內盤中低點，最新跌幅為11%。"
-    },
-    {
-      "id": "4957967",
-      "time": "2026-06-27 03:55:04",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價大跌之際，美債收益率下跌，美元上漲】本週地緣政治緊張局勢緩解導致油價下跌近10%，在此期間美債收益率下跌，美元走強。好壞參半的美國經濟指標和不斷下降的通脹預期拖累收益率走低。密歇根大學消費者信心指數升幅略高於預期，達到49.5。《華爾街日報》的一項調查顯示，週二公佈的世界大型企業研究會消費者信心指數預計將從93.1升至94.6。6月就業人數預計將從17.2萬人降至11.8萬人。華爾街日報美元指數本週下跌0.6%。10年期美債收益率連續第三週下跌，下降0.078個百分點，至4.372%；兩年期美債收益率下降0.090個百分點，至4.087%。"
-    },
-    {
-      "id": "4957966",
-      "time": "2026-06-27 03:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及伊朗違反停火協議一事時說：我不喜歡這樣。"
-    },
-    {
-      "id": "4957965",
-      "time": "2026-06-27 03:53:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "應用材料公司股價迅速跌至當日最低點，下跌6.9%。"
-    },
-    {
-      "id": "mkt:019f057d-ce73-7dd8-b13e-aa5ab3fb1cd7",
-      "time": "2026-06-27 03:52:38",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Lebanon's prime minister said the framework agreed with Israel aims to secure Israel's withdrawal from all Lebanese territory."
-    },
-    {
-      "id": "4957964",
-      "time": "2026-06-27 03:52:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總理表示，已與以色列達成框架協議，目標是推動以色列撤出所有黎巴嫩領土。"
-    },
-    {
-      "id": "4957963",
-      "time": "2026-06-27 03:51:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果股價迅速飆升至盤中最高點3.6%，隨後有所回落。"
-    },
-    {
-      "id": "te:markets:562321",
-      "time": "2026-06-27 03:50:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Qualcomm Stock Price Hits 7-week Low — Qualcomm shares decreased to 189.53 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 18.1%, and in the last 12 months, it increased 20.57%."
-    },
-    {
-      "id": "4957962",
-      "time": "2026-06-27 03:49:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總理表示，黎巴嫩在該框架下的義務是透過武裝力量將國家主權延伸至全境。"
-    },
-    {
-      "id": "4957961",
-      "time": "2026-06-27 03:49:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "史賽克：持續佈局外科醫療、神經技術及骨科業務。 上述各項業務均構成獨立可報告分部。"
-    },
-    {
-      "id": "4957960",
-      "time": "2026-06-27 03:41:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西國家電力局釋出 7 月電價黃色預警。"
-    },
-    {
-      "id": "4957959",
-      "time": "2026-06-27 03:40:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩真主黨拒絕美國斡旋達成的框架協議。"
     }
   ]
 }
