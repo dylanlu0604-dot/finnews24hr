@@ -1,7 +1,53 @@
 {
   "date": "2026-07-03",
-  "count": 2573,
+  "count": 2578,
   "items": [
+    {
+      "id": "mkt:019f2849-9868-7aab-8c97-428c2ede5c92",
+      "time": "2026-07-03 22:02:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【European Commission proposes five major cross‑border defence projects】The European Commission on Friday proposed five major cross‑border defence projects, paving the way for EU funding. Designated as European Defence Projects of Common Interest (EDPCI), they include: a drone and counter‑drone programme involving 26 EU member states plus Norway and Ukraine; an Eastern Flank vigilance project with 13 EU members, Norway and Ukraine; an integrated maritime and undersea defence project; an air and missile defence and early‑warning project; and a space‑based defence project. EDPCI projects are seeded with an initial €325 mln allocation under the European Defence Industrial Programme (about $372 mln); additional funding may follow."
+    },
+    {
+      "id": "mkt:019f2849-7419-7aab-8c97-3bb3d5f7e9c5",
+      "time": "2026-07-03 22:02:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Venezuela's largest refinery resumes operations】Venezuela's largest refinery, the 645,000 b/d Amuay, resumed operations on Friday after a blackout and is processing about 140,000 b/d; its FCC has also restarted. Last week's earthquakes knocked out power at several Venezuelan refineries. The 146,000 b/d El Palito has had power restored, but staff have not yet restarted production units."
+    },
+    {
+      "id": "4969920",
+      "time": "2026-07-03 22:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟決策層拒絕英國在歐盟扮演“決策”角色的請求。"
+    },
+    {
+      "id": "4969919",
+      "time": "2026-07-03 21:59:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【熱浪期間歐洲3國超額死亡超3700人，法國家中死亡人數激增90%】上個月，歐洲遭遇了史上罕見的熱浪襲擊。根據法國、比利時和荷蘭衛生部門公佈的最新資料，在本輪熱浪期間，至少記錄了3700例超額死亡。 根據法國衛生部公佈的最新資料，在6月22日至28日熱浪高峰期間，所有年齡段的全因死亡人數為8973人，較前一週的6948人增加了2025人，增幅超過29%。其中45歲及以上人群的全因死亡人數增加，尤其是在家中死亡的人數增加超過90%，在養老院中的死亡人數也增長37%。 所謂全因死亡是指各種原因導致的死亡，無論是疾病、意外或自然原因。在特定時期內觀察到的死亡人數與正常情況下預期的死亡人數的差額被稱為超額死亡。 歐洲6月下旬經歷了史上最嚴重的熱浪。此輪熱浪從6月20日左右開始，一直持續至6月28日才有所緩解。法國氣象局6月22日監測到44度的極端高溫。（一財）"
+    },
+    {
+      "id": "mkt:019f2846-9321-7aab-8c97-30a2ac9852bc",
+      "time": "2026-07-03 21:59:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【NATO to reaffirm Article 5 'firm commitment', pledge €70 bln ($80 bln) military aid to Ukraine by 2026】NATO ambassadors approved a text on Friday saying leaders, including U.S. President Trump, will at next week’s summit in Ankara reaffirm a 'firm commitment' to collective defense under Article 5. The text pledges NATO members will provide €70 bln ($80 bln) in military aid to Ukraine by 2026 and 'at least the same level' in 2027; the statement still requires leaders' final approval."
+    },
     {
       "id": "te:markets:564186",
       "time": "2026-07-03 21:57:53",
