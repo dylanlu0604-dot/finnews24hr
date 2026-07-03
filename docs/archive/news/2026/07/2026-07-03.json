@@ -1,7 +1,46 @@
 {
   "date": "2026-07-03",
-  "count": 2569,
+  "count": 2573,
   "items": [
+    {
+      "id": "te:markets:564186",
+      "time": "2026-07-03 21:57:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High on Mining Rally — The S&P/TSX Composite Index gained nearly 1% to trade above the 35,000 mark on Friday, approaching record highs on gains from gold miners. Gold advanced after US nonfarm payrolls rose nearly half what was expected in June, boosting hopes for a more dovish Fed. Agnico Eagle, WPM, and Barrick gained about 2%. Meanwhile, BHP Group agreed to transfer its San Manuel property in Arizona to Faraday Copper (+1.5%) in exchange for a 30% stake in the Canadian miner, which is seeking to develop a copper hub around its adjacent Copper Creek project. Oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks, with Scotiabank and BMO both rising nearly 1%. Separately, AtkinsRéalis gained 1% after saying Turkey could begin formal talks on a CANDU nuclear power plant following an early reactor review later this summer."
+    },
+    {
+      "id": "te:markets:564184",
+      "time": "2026-07-03 21:56:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Surges on Weak US Jobs Data — Silver rose above $62 per ounce on Friday, reaching its highest level since June 23 and heading for a nearly 6% weekly gain, as weaker-than-expected US jobs data dampened expectations for a near-term Federal Reserve interest rate hike. US nonfarm payrolls grew by only 57,000 in June, the smallest increase in four months and well below the 110,000 forecast, leading traders to cut their bets on a September hike. The CME FedWatch tool showed the probability of a rate increase falling to 50%, down from 66% before the data. Lower interest rates reduce the opportunity cost of holding non-yielding assets like silver. The US dollar also weakened, heading for its biggest weekly drop since April, which further boosted precious metals. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability."
+    },
+    {
+      "id": "4969918",
+      "time": "2026-07-03 21:55:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【長三角聯合出臺舉措助力國際科創中心建設】3日，浙江省市場監管局會同上海市市場監管局、江蘇省市場監管局、安徽省市場監管局聯合釋出《長三角市場監管一體化助力上海（長三角）國際科創中心建設的若干舉措》，為上海（長三角）國際科技創新中心建設提供系統性、整合化的政策供給。據悉，此次釋出的若干舉措共19條，聚焦創新空間、基礎制度、產業賦能、成果轉化、人才支撐、服務保障等六個方面，推出了一套覆蓋科技創新全生命週期的政策包。（新華社）"
+    },
+    {
+      "id": "4969917",
+      "time": "2026-07-03 21:55:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京解除雷電黃色預警訊號】目前，影響北京市的強雷雨雲團已減弱，解除冰雹黃色預警訊號。 （氣象北京）"
+    },
     {
       "id": "4969916",
       "time": "2026-07-03 21:54:27",

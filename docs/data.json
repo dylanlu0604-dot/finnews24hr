@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-03 21:55:23",
-  "count": 13568,
+  "updated": "2026-07-03 21:59:27",
+  "count": 13560,
   "items": [
+    {
+      "id": "te:markets:564186",
+      "time": "2026-07-03 21:57:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High on Mining Rally — The S&P/TSX Composite Index gained nearly 1% to trade above the 35,000 mark on Friday, approaching record highs on gains from gold miners. Gold advanced after US nonfarm payrolls rose nearly half what was expected in June, boosting hopes for a more dovish Fed. Agnico Eagle, WPM, and Barrick gained about 2%. Meanwhile, BHP Group agreed to transfer its San Manuel property in Arizona to Faraday Copper (+1.5%) in exchange for a 30% stake in the Canadian miner, which is seeking to develop a copper hub around its adjacent Copper Creek project. Oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks, with Scotiabank and BMO both rising nearly 1%. Separately, AtkinsRéalis gained 1% after saying Turkey could begin formal talks on a CANDU nuclear power plant following an early reactor review later this summer."
+    },
+    {
+      "id": "te:markets:564184",
+      "time": "2026-07-03 21:56:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Surges on Weak US Jobs Data — Silver rose above $62 per ounce on Friday, reaching its highest level since June 23 and heading for a nearly 6% weekly gain, as weaker-than-expected US jobs data dampened expectations for a near-term Federal Reserve interest rate hike. US nonfarm payrolls grew by only 57,000 in June, the smallest increase in four months and well below the 110,000 forecast, leading traders to cut their bets on a September hike. The CME FedWatch tool showed the probability of a rate increase falling to 50%, down from 66% before the data. Lower interest rates reduce the opportunity cost of holding non-yielding assets like silver. The US dollar also weakened, heading for its biggest weekly drop since April, which further boosted precious metals. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability."
+    },
+    {
+      "id": "4969918",
+      "time": "2026-07-03 21:55:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【長三角聯合出臺舉措助力國際科創中心建設】3日，浙江省市場監管局會同上海市市場監管局、江蘇省市場監管局、安徽省市場監管局聯合釋出《長三角市場監管一體化助力上海（長三角）國際科創中心建設的若干舉措》，為上海（長三角）國際科技創新中心建設提供系統性、整合化的政策供給。據悉，此次釋出的若干舉措共19條，聚焦創新空間、基礎制度、產業賦能、成果轉化、人才支撐、服務保障等六個方面，推出了一套覆蓋科技創新全生命週期的政策包。（新華社）"
+    },
+    {
+      "id": "4969917",
+      "time": "2026-07-03 21:55:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京解除雷電黃色預警訊號】目前，影響北京市的強雷雨雲團已減弱，解除冰雹黃色預警訊號。 （氣象北京）"
+    },
     {
       "id": "4969916",
       "time": "2026-07-03 21:54:27",
@@ -124906,113 +124945,6 @@
         "Impact mixed"
       ],
       "text": "SHFE silver 2608 up 2.22% at 14,330 yuan/kg; turnover about 33.63 bln yuan. Open interest rose ~6,100 lots intraday; price volatility and volume-driven positioning remain elevated. SHFE gold 2608 up 1.44% at 893.3 yuan/g; turnover about 40.26 bln yuan. Open interest fell ~500 lots intraday, showing a price rise on position liquidation."
-    },
-    {
-      "id": "4957710",
-      "time": "2026-06-26 21:59:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：06月26日21時28分在日本本州島（北緯35.40度，東經139.10度）發生5.1級地震，震源深度10千米。"
-    },
-    {
-      "id": "4957709",
-      "time": "2026-06-26 21:59:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯阿爾羅薩公司表示，其子公司謝韋爾馬茲鑽石礦自7月1日起暫停運營。"
-    },
-    {
-      "id": "4957708",
-      "time": "2026-06-26 21:58:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯阿爾羅薩公司表示，其子公司謝韋爾馬茲將暫停運營約三個月。"
-    },
-    {
-      "id": "4957707",
-      "time": "2026-06-26 21:58:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅收窄至1%。"
-    },
-    {
-      "id": "4957706",
-      "time": "2026-06-26 21:58:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "*標普500指數跌幅收窄至0.2%。"
-    },
-    {
-      "id": "mkt:019f0439-308a-7dd8-b138-d0889ff603ec",
-      "time": "2026-06-26 21:58:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold has risen more than $50 intraday, trading at $4,076.73/oz, up 1.24%."
-    },
-    {
-      "id": "4957705",
-      "time": "2026-06-26 21:57:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，迅雷漲9.44%，逸仙電商漲6.41%，網易漲5.38%，中比能源漲5.34%，愛奇藝漲4.56%。"
-    },
-    {
-      "id": "mkt:019f0438-c4a6-7dd8-b138-cd13141de5d2",
-      "time": "2026-06-26 21:57:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures extended intraday gains to 1.00%, trading at $4,088.40/oz."
-    },
-    {
-      "id": "4957704",
-      "time": "2026-06-26 21:57:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1217.50美元/盎司。"
-    },
-    {
-      "id": "4957703",
-      "time": "2026-06-26 21:57:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4090美元/盎司，日內漲1.05%。"
-    },
-    {
-      "id": "4957702",
-      "time": "2026-06-26 21:57:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4089.36美元/盎司。"
-    },
-    {
-      "id": "4957701",
-      "time": "2026-06-26 21:57:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4070美元/盎司，日內漲1.09%。"
     }
   ]
 }
