@@ -1,7 +1,183 @@
 {
   "date": "2026-07-03",
-  "count": 1998,
+  "count": 2015,
   "items": [
+    {
+      "id": "mkt:019f2760-af90-7aab-8c93-1ea39b00fade",
+      "time": "2026-07-03 17:47:55",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank will ensure it does not signal the start of a new rate‑hiking cycle."
+    },
+    {
+      "id": "4969502",
+      "time": "2026-07-03 17:47:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：我們看到經濟增長非常緩慢。預計第二季度經濟增長不會大幅提升。我們沒有就下次會議做出任何承諾。"
+    },
+    {
+      "id": "mkt:019f2760-5019-7aab-8c93-176ba002ccdf",
+      "time": "2026-07-03 17:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB policymaker Moulin said the central bank has made no commitments regarding the next meeting."
+    },
+    {
+      "id": "mkt:019f275f-df18-7aab-8c93-0e4c6f8fc3f3",
+      "time": "2026-07-03 17:47:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Moulin said June growth was weak and lacked momentum, and he does not expect a marked pick-up in Q2 growth."
+    },
+    {
+      "id": "4969501",
+      "time": "2026-07-03 17:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝爾鐳射：控股股東等擬詢價轉讓768.2萬股，佔總股本2.6932%】帝爾鐳射公告，公司股東李志剛（控股股東、實際控制人、董事長、總經理）、彭新波（董事）、武漢速能企業管理合夥企業（有限合夥）（李志剛一致行動人）擬透過詢價轉讓方式轉讓合計768.2萬股，佔公司總股本2.6932%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓後6個月內不得轉讓。"
+    },
+    {
+      "id": "mkt:019f275f-8000-7aab-8c93-067f73fdc182",
+      "time": "2026-07-03 17:46:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said he was satisfied with the baseline scenario."
+    },
+    {
+      "id": "mkt:019f275f-5cf4-7aab-8c92-fc7c978cc1ac",
+      "time": "2026-07-03 17:46:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB Governing Council member Moulin said developments in the Strait of Hormuz are good news for the world."
+    },
+    {
+      "id": "mkt:019f275f-3c34-7aab-8c92-f16bd856129e",
+      "time": "2026-07-03 17:46:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "TSLA.O",
+        "QCOM.O"
+      ],
+      "text": "【India opens probe into Tata Electronics breach that leaked unreleased iPhone 18 Pro documents】India’s minister of information technology Krishnan said on Thursday the government is investigating a data breach at Tata Electronics that exposed documents related to Apple (AAPL.O)’s unreleased iPhone 18 Pro — the government’s first public comment. The incident has been reported to the Indian Computer Emergency Response Team (CERT-In). Reports say a ransomware group stole data from the Apple supplier and posted files on the dark web, including component lists, sensitive supplier lists and photos of the iPhone 18 Pro. The breach reportedly also affected Tesla and Qualcomm. Tata Group has engaged global advisers to conduct a legal audit."
+    },
+    {
+      "id": "mkt:019f275f-3361-7aab-8c92-ec92608efae5",
+      "time": "2026-07-03 17:46:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank will publish new forecasts in September."
+    },
+    {
+      "id": "4969500",
+      "time": "2026-07-03 17:46:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委：油價方面傳來了好訊息，油價下跌將減輕服務業影響。"
+    },
+    {
+      "id": "mkt:019f275e-fb35-7aab-8c92-e6279c0813b2",
+      "time": "2026-07-03 17:46:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said June's rate hike was the right decision."
+    },
+    {
+      "id": "mkt:019f275e-d719-7aab-8c92-d86611888216",
+      "time": "2026-07-03 17:45:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Moulin said falling oil prices will ease the impact on the services sector."
+    },
+    {
+      "id": "mkt:019f275e-b6bc-7aab-8c92-d6e9e2901537",
+      "time": "2026-07-03 17:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank is in a good position and the risk balance is at a reasonable level."
+    },
+    {
+      "id": "4969499",
+      "time": "2026-07-03 17:45:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：6月加息是正確的決定。"
+    },
+    {
+      "id": "4969498",
+      "time": "2026-07-03 17:45:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：我們將在9月份釋出新的預測。"
+    },
+    {
+      "id": "mkt:019f275e-7a1c-7aab-8c92-c8c741bda3e5",
+      "time": "2026-07-03 17:45:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ECB Governing Council member Moulin said there has been good news on oil prices."
+    },
+    {
+      "id": "4969497",
+      "time": "2026-07-03 17:44:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：當前政策處境良好。"
+    },
     {
       "id": "4969496",
       "time": "2026-07-03 17:43:51",

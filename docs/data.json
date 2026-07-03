@@ -1,7 +1,183 @@
 {
-  "updated": "2026-07-03 17:44:44",
-  "count": 13709,
+  "updated": "2026-07-03 17:48:42",
+  "count": 13703,
   "items": [
+    {
+      "id": "mkt:019f2760-af90-7aab-8c93-1ea39b00fade",
+      "time": "2026-07-03 17:47:55",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank will ensure it does not signal the start of a new rate‑hiking cycle."
+    },
+    {
+      "id": "4969502",
+      "time": "2026-07-03 17:47:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：我們看到經濟增長非常緩慢。預計第二季度經濟增長不會大幅提升。我們沒有就下次會議做出任何承諾。"
+    },
+    {
+      "id": "mkt:019f2760-5019-7aab-8c93-176ba002ccdf",
+      "time": "2026-07-03 17:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB policymaker Moulin said the central bank has made no commitments regarding the next meeting."
+    },
+    {
+      "id": "mkt:019f275f-df18-7aab-8c93-0e4c6f8fc3f3",
+      "time": "2026-07-03 17:47:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Moulin said June growth was weak and lacked momentum, and he does not expect a marked pick-up in Q2 growth."
+    },
+    {
+      "id": "4969501",
+      "time": "2026-07-03 17:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝爾鐳射：控股股東等擬詢價轉讓768.2萬股，佔總股本2.6932%】帝爾鐳射公告，公司股東李志剛（控股股東、實際控制人、董事長、總經理）、彭新波（董事）、武漢速能企業管理合夥企業（有限合夥）（李志剛一致行動人）擬透過詢價轉讓方式轉讓合計768.2萬股，佔公司總股本2.6932%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓後6個月內不得轉讓。"
+    },
+    {
+      "id": "mkt:019f275f-8000-7aab-8c93-067f73fdc182",
+      "time": "2026-07-03 17:46:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said he was satisfied with the baseline scenario."
+    },
+    {
+      "id": "mkt:019f275f-5cf4-7aab-8c92-fc7c978cc1ac",
+      "time": "2026-07-03 17:46:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB Governing Council member Moulin said developments in the Strait of Hormuz are good news for the world."
+    },
+    {
+      "id": "mkt:019f275f-3c34-7aab-8c92-f16bd856129e",
+      "time": "2026-07-03 17:46:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "TSLA.O",
+        "QCOM.O"
+      ],
+      "text": "【India opens probe into Tata Electronics breach that leaked unreleased iPhone 18 Pro documents】India’s minister of information technology Krishnan said on Thursday the government is investigating a data breach at Tata Electronics that exposed documents related to Apple (AAPL.O)’s unreleased iPhone 18 Pro — the government’s first public comment. The incident has been reported to the Indian Computer Emergency Response Team (CERT-In). Reports say a ransomware group stole data from the Apple supplier and posted files on the dark web, including component lists, sensitive supplier lists and photos of the iPhone 18 Pro. The breach reportedly also affected Tesla and Qualcomm. Tata Group has engaged global advisers to conduct a legal audit."
+    },
+    {
+      "id": "mkt:019f275f-3361-7aab-8c92-ec92608efae5",
+      "time": "2026-07-03 17:46:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank will publish new forecasts in September."
+    },
+    {
+      "id": "4969500",
+      "time": "2026-07-03 17:46:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委：油價方面傳來了好訊息，油價下跌將減輕服務業影響。"
+    },
+    {
+      "id": "mkt:019f275e-fb35-7aab-8c92-e6279c0813b2",
+      "time": "2026-07-03 17:46:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said June's rate hike was the right decision."
+    },
+    {
+      "id": "mkt:019f275e-d719-7aab-8c92-d86611888216",
+      "time": "2026-07-03 17:45:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Moulin said falling oil prices will ease the impact on the services sector."
+    },
+    {
+      "id": "mkt:019f275e-b6bc-7aab-8c92-d6e9e2901537",
+      "time": "2026-07-03 17:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Moulin said the bank is in a good position and the risk balance is at a reasonable level."
+    },
+    {
+      "id": "4969499",
+      "time": "2026-07-03 17:45:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：6月加息是正確的決定。"
+    },
+    {
+      "id": "4969498",
+      "time": "2026-07-03 17:45:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行穆蘭：我們將在9月份釋出新的預測。"
+    },
+    {
+      "id": "mkt:019f275e-7a1c-7aab-8c92-c8c741bda3e5",
+      "time": "2026-07-03 17:45:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ECB Governing Council member Moulin said there has been good news on oil prices."
+    },
+    {
+      "id": "4969497",
+      "time": "2026-07-03 17:44:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：當前政策處境良好。"
+    },
     {
       "id": "4969496",
       "time": "2026-07-03 17:43:51",
@@ -126065,220 +126241,6 @@
         "Europe & UK"
       ],
       "text": "Hungarian Prime Minister Magyar said Hungary's national recovery plan is on the EU Council agenda for July 10 but remains subject to approval."
-    },
-    {
-      "id": "4957132",
-      "time": "2026-06-26 17:48:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千億航天：“玄鳥-R”完成上升段亞跨超測力風洞試驗】據千億航天訊息，近日，“玄鳥-R”可重複使用運載火箭在中國航天空氣動力技術研究院亞跨超（Ma0.3至Ma4.0）風洞試驗室完成上升段亞跨超測力風洞試驗。試驗與模擬資料規律一致，誤差可控，整體吻合程度較高，驗證了“玄鳥-R”火箭前期氣動模擬計算方法的準確性與可靠性，為後續氣動外形的精細化調整奠定了堅實基礎。風洞試驗的開展意味著“玄鳥-R”火箭氣動設計從數字模擬正在快速轉進工程驗證階段。"
-    },
-    {
-      "id": "4957131",
-      "time": "2026-06-26 17:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "歐元集團主席：匈牙利國家復甦計劃將列入7月10日歐元集團理事會會議審議批准議程。"
-    },
-    {
-      "id": "mkt:019f0354-5852-7dd8-b134-c1455ca7d1c7",
-      "time": "2026-06-26 17:48:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Strait of Hormuz transits rebound; tanker freight surges】S&P Global Energy said 78 vessels transited the Strait of Hormuz on June 24, the largest single-day passage since hostilities involving the US, Israel and Iran began. This month’s daily average transits have recovered to roughly 57% of pre-conflict levels. The transit rebound, together with multi-country autumn/winter crude restocking, has driven international tanker freight sharply higher. Domestically the impact is mixed: shipping companies have seen risk premia fall as route tensions ease and higher rates lift earnings, while refiners face margin pressure as rising sea freight increases landed crude costs. Many Chinese refiners are expediting crude replenishment to use the current window."
-    },
-    {
-      "id": "4957130",
-      "time": "2026-06-26 17:47:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "CHARGEPANEL AB (PUBL) ：平臺使用者將可接入歐洲特斯拉超級充電網路。"
-    },
-    {
-      "id": "4957129",
-      "time": "2026-06-26 17:47:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "CHARGEPANEL AB (PUBL) ：與特斯拉簽署協議。"
-    },
-    {
-      "id": "mkt:019f0353-b4e5-7dd8-b134-bffe97532014",
-      "time": "2026-06-26 17:47:25",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Eurogroup president said he welcomed Hungary's commitment to deepen financial integration and its pledge to adopt the euro."
-    },
-    {
-      "id": "4957128",
-      "time": "2026-06-26 17:47:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中國與埃及主管部門間首次衛星網路協調會談順利舉行】據工信部官網，2026年6月22－25日，工業和資訊化部無線電管理局與埃及無線電主管部門在埃及吉薩舉行了雙方首次衛星網路協調會談。雙方在國際電信聯盟《無線電規則》框架下，就高低軌多個衛星系統的40餘項議題開展磋商，涉及衛星通訊、衛星氣象、北斗短報文等多種業務。雙方充分交換意見並達成多項共識，共同簽署了會議紀要。此次會談的成功舉辦，促進了兩國衛星系統的頻率相容共用，有助於加快我國衛星網路國際協調程序，推動我國航天工程建設。本次會談，中方代表團由工業和資訊化部無線電管理局、國家無線電頻譜管理中心、國家衛星氣象中心、北京跟蹤與通訊技術研究所、北京衛星導航中心、中國衛星網路集團有限公司、中國衛通集團股份有限公司等單位組成。埃及代表團由埃及國家電信管理局、埃及國防部、NILESAT衛星公司等單位組成。"
-    },
-    {
-      "id": "4957127",
-      "time": "2026-06-26 17:47:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國東航：子公司東航海外擬發行不超過28億等值人民幣境外債券】中國東航6月26日公告，公司全資子公司東航海外（香港）有限公司（下稱“東航海外”）擬發行不超過28億等值人民幣的境外債券，公司擬為本次債券項下的全部償付義務提供無條件且不可撤銷的保證擔保。由於東航海外為公司全資子公司，本次擔保不涉及其他股東方提供擔保，亦不涉及反擔保。"
-    },
-    {
-      "id": "mkt:019f0353-4cf3-7dd8-b134-b10cd6136509",
-      "time": "2026-06-26 17:46:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "QatarEnergy has not indicated it will extend force majeure provisions for Asian customers."
-    },
-    {
-      "id": "4957126",
-      "time": "2026-06-26 17:46:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【退市太和：公司股票退市整理期預計最後交易日為6月29日】退市太和公告稱，公司股票進入退市整理期起始日為2026年6月8日，預計最後交易日為6月29日，退市整理期為15個交易日。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間首個交易日無價格漲跌幅限制，此後每日漲跌幅限制為10%。公司在退市整理期不籌劃或實施重大資產重組，提醒投資者及時了結相關業務，有權機關提前辦理續凍手續。"
-    },
-    {
-      "id": "4957125",
-      "time": "2026-06-26 17:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德邦科技：國家積體電路基金6月3 - 26日減持1.05%公司股份】德邦科技公告稱，2026年6月3日至26日，持股5%以上股東國家積體電路產業投資基金股份有限公司透過大宗交易方式減持公司股份149.352萬股，持股比例由11.90%降至10.85%，觸及1%的整數倍。本次權益變動屬履行此前減持計劃，不觸及強制要約收購義務，不會導致公司控股股東及實控人變化，也不影響公司治理與經營。截至公告披露日，減持計劃內累計權益變動比例為2.80%。"
-    },
-    {
-      "id": "4957124",
-      "time": "2026-06-26 17:46:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "歐元集團主席：我對匈牙利深化金融一體化並承諾採用歐元的表態表示歡迎。"
-    },
-    {
-      "id": "4957123",
-      "time": "2026-06-26 17:45:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠色經濟：預期年度純利約850萬港元，較上年減少約690萬港元】綠色經濟公告，公司根據未經稽核管理賬目初步審閱，預期截至2026年3月31日止年度錄得本公司擁有人應占未經稽核綜合純利約850萬港元，較截至2025年3月31日止年度的約1540萬港元減少約690萬港元。利潤減少主要由於持續經營業務溢利減少約1650萬港元（因毛利減少約2220萬港元及銷售費用增加約820萬港元，部分被其他收入增加約970萬港元及所得稅開支減少約260萬港元抵銷），以及已終止經營業務溢利增加約960萬港元（因出售錄得收益約1100萬港元）。全年業績仍在落實中。"
-    },
-    {
-      "id": "mkt:019f0352-54ae-7dd8-b134-afa903602ccb",
-      "time": "2026-06-26 17:45:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "Microsoft",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: AI boom risks lifting inflation outlook】RSM UK analyst James Bull said rising AI investment has intensified competition for memory chips, a pressure already showing up in consumer prices. Apple and Microsoft have issued price-rise notices, reflecting industry responses to supply‑chain shortages. The four largest US tech firms are forecast to spend $725bn on data centers and AI equipment in 2026, driving demand that supply chains cannot meet. Bull warned the cost of building the AI economy is being passed to consumers and could raise the inflation outlook; industry leaders say shortages may persist beyond 2028."
-    },
-    {
-      "id": "4957122",
-      "time": "2026-06-26 17:45:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華達科技：董事劉丹群減持計劃實施完畢，累計減持615萬股佔總股本1.31%】華達科技公告，董事劉丹群女士出具的《股份減持進展告知函》，截至2026年6月25日，劉丹群透過集中競價交易方式減持465萬股，透過大宗交易方式減持150萬股，合計減持615萬股，佔公司總股本的比例為1.31%，本次減持計劃已實施完畢。本次減持價格區間為32.32～40.14元/股，減持總金額為2.22億元。本次減持後，劉丹群持有公司股份1846.04萬股，佔公司總股本比例為3.93%。"
-    },
-    {
-      "id": "4957121",
-      "time": "2026-06-26 17:45:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：卡達能源公司尚未表示將針對亞洲客戶延長不可抗力條款。"
-    },
-    {
-      "id": "mkt:019f0352-02d3-7dd8-b134-a287d6fa26a1",
-      "time": "2026-06-26 17:45:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Eurogroup chair Pierakakis says Hungary is moving from the margins of Europe’s development process toward the core of European decision-making."
-    },
-    {
-      "id": "mkt:019f0351-c90f-7dd8-b134-981b82a788ab",
-      "time": "2026-06-26 17:45:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jinhe Biotech board approves 10,000t gramicidin and 20,000t CoQ10-intermediate project, RMB 549.57 mln】June 26, 2026 — Jinhe Biotechnology Co., Ltd. said its board voted 9-0 to approve investment in a flexible production project with annual capacity of 10,000 tonnes of gramicidin and 20,000 tonnes of coenzyme Q10 intermediates. Total investment is about RMB 549.57 million, to be funded by the company’s own funds or self-raised financing."
-    },
-    {
-      "id": "mkt:019f0351-c182-7dd8-b134-921ca5aaa1e4",
-      "time": "2026-06-26 17:45:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Eurogroup chair Pierrakakis said Hungary has demonstrated its commitment to Europe through clear statements and concrete actions."
-    },
-    {
-      "id": "4957120",
-      "time": "2026-06-26 17:45:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華亞智慧：實控人及一致行動人持股比例因可轉債轉股被動稀釋至47.84%】華亞智慧公告，2026年6月22日至6月25日期間，公司“華亞轉債”累計轉股279.41萬股，總股本由1.35億股增至1.38億股。在公司實際控制人及一致行動人（王彩男、陸巧英、王景餘、蘇州春雨欣投資諮詢服務合夥企業）持股數量不變的情況下，持股比例由48.83%被動稀釋至47.84%，權益變動觸及1%整數倍。本次變動不涉及持股數量變化，不會導致公司控股股東及實際控制人發生變化。"
-    },
-    {
-      "id": "4957119",
-      "time": "2026-06-26 17:45:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金河生物：擬投資5.5億元建設地黴素及輔酶Q10中間體專案】金河生物公告，公司擬投資建設年產10000噸地黴素、20000噸輔酶Q10中間體柔性生產建設專案。該事項已獲公司第七屆董事會第三次會議審議透過，預計總投資5.5億元，資金來源為自有資金或自籌資金。專案計劃建設起止年限為2026年08月01日至2028年04月30日，實施主體為金河生物科技股份有限公司，建設地點為托克托經濟開發區西區，不涉及新增獲取土地。"
-    },
-    {
-      "id": "4957118",
-      "time": "2026-06-26 17:44:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【璞泰來：嘉拓智慧北交所上市輔導6月26日獲驗收完成】璞泰來公告，公司控股子公司江蘇嘉拓新能源智慧裝備股份有限公司（簡稱“嘉拓智慧”）擬申請向不特定合格投資者公開發行股票並在北京證券交易所上市，該事項已獲公司董事會及股東會審議透過。2026年6月26日，嘉拓智慧收到中國證券監督管理委員會江蘇監管局出具的《江蘇證監局關於中信建投證券股份有限公司對江蘇嘉拓新能源智慧裝備股份有限公司輔導工作的驗收工作完成函》，確認中信建投證券對嘉拓智慧的上市輔導工作已完成驗收。"
-    },
-    {
-      "id": "4957117",
-      "time": "2026-06-26 17:44:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河鋼股份：2025年營收1181.37億元 淨利潤同比增32.95%】河鋼股份公告稱，2025年實現營業收入1181.37億元，同比降2.86%；營業利潤10.24億元，同比增108.13%；淨利潤10.65億元，同比增32.95%。報告期內，公司經營活動產生的現金流量淨額99.01億元，同比增2.31%。截至報告期末，“24河鋼Y3”“24河鋼Y4”募集資金已使用完畢，募集資金專項賬戶執行正常。公司經營穩定、償債意願和能力未發生重大不利變化，報告期內各期債券本息按時足額償付。"
     }
   ]
 }
