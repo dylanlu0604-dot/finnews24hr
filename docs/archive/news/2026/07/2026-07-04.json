@@ -1,7 +1,43 @@
 {
   "date": "2026-07-04",
-  "count": 185,
+  "count": 189,
   "items": [
+    {
+      "id": "4970124",
+      "time": "2026-07-04 05:04:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（7月3日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7853元，較週四紐約尾盤漲35點，日內整體交投於6.7901-6.7811元區間。本週，離岸人民幣累計上漲大約190點，漲幅0.29%。"
+    },
+    {
+      "id": "te:markets:564226",
+      "time": "2026-07-04 05:03:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits Record High on Gold Rally — The S&P/TSX Composite Index gained 0.9% to close at a record high of 35,275 on Friday, led by gold mining stocks after weaker-than-expected US jobs data boosted hopes for a more dovish Fed. Gold prices rose after US nonfarm payrolls increased by roughly half the expected amount in June. Agnico Eagle gained 2.7%, while WPM and Barrick advanced 2.6% and 2.4%, respectively. Meanwhile, BHP Group agreed to transfer its San Manuel property in Arizona to Faraday Copper (+1.1%) in exchange for a 30% stake in the Canadian miner, which is seeking to develop a copper hub around its adjacent Copper Creek project. Oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks, with Scotiabank rising 1% and Brookfield adding 1.1%. Separately, AtkinsRéalis climbed 3.6% after saying Turkey could begin formal talks on a CANDU nuclear power plant following an early reactor review later this summer."
+    },
+    {
+      "id": "4970123",
+      "time": "2026-07-04 05:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及闖入16強】美加墨世界盃1/16決賽，埃及隊VS澳大利亞隊。常規時間內雙方戰成1-1。點球大戰，埃及隊4-2戰勝澳大利亞隊，晉級16強。"
+    },
+    {
+      "id": "4970122",
+      "time": "2026-07-04 05:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：智利中部海岸附近發生5.54級地震。"
+    },
     {
       "id": "4970121",
       "time": "2026-07-04 04:59:55",

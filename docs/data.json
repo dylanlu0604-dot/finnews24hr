@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-04 05:01:16",
-  "count": 13327,
+  "updated": "2026-07-04 05:05:08",
+  "count": 13329,
   "items": [
+    {
+      "id": "4970124",
+      "time": "2026-07-04 05:04:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（7月3日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7853元，較週四紐約尾盤漲35點，日內整體交投於6.7901-6.7811元區間。本週，離岸人民幣累計上漲大約190點，漲幅0.29%。"
+    },
+    {
+      "id": "te:markets:564226",
+      "time": "2026-07-04 05:03:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits Record High on Gold Rally — The S&P/TSX Composite Index gained 0.9% to close at a record high of 35,275 on Friday, led by gold mining stocks after weaker-than-expected US jobs data boosted hopes for a more dovish Fed. Gold prices rose after US nonfarm payrolls increased by roughly half the expected amount in June. Agnico Eagle gained 2.7%, while WPM and Barrick advanced 2.6% and 2.4%, respectively. Meanwhile, BHP Group agreed to transfer its San Manuel property in Arizona to Faraday Copper (+1.1%) in exchange for a 30% stake in the Canadian miner, which is seeking to develop a copper hub around its adjacent Copper Creek project. Oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks, with Scotiabank rising 1% and Brookfield adding 1.1%. Separately, AtkinsRéalis climbed 3.6% after saying Turkey could begin formal talks on a CANDU nuclear power plant following an early reactor review later this summer."
+    },
+    {
+      "id": "4970123",
+      "time": "2026-07-04 05:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及闖入16強】美加墨世界盃1/16決賽，埃及隊VS澳大利亞隊。常規時間內雙方戰成1-1。點球大戰，埃及隊4-2戰勝澳大利亞隊，晉級16強。"
+    },
+    {
+      "id": "4970122",
+      "time": "2026-07-04 05:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：智利中部海岸附近發生5.54級地震。"
+    },
     {
       "id": "4970121",
       "time": "2026-07-04 04:59:55",
@@ -122647,22 +122683,6 @@
         "國際"
       ],
       "text": "法拉第未來智慧電動：據美國證券交易委員會檔案，公司擬最高發行 3 億美元證券。"
-    },
-    {
-      "id": "4958036",
-      "time": "2026-06-27 05:04:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【黃金、白銀週五漲超1%，本週現貨黃金跌1.9%、白銀跌約9.5%】週五（6月26日）紐約尾盤，現貨黃金漲1.35%，報4081.02美元/盎司，本週累計下跌超1.90%、3月初以來持續回撤。COMEX黃金期貨漲1.32%，報4102.20美元/盎司。現貨白銀漲1.63%，報58.77美元/盎司，本週累累跌約9.49%。COMEX白銀期貨漲1.18%，報59.49美元/盎司。COMEX銅期貨漲0.94%，報6.281美元/磅，本週累跌超0.88%。"
-    },
-    {
-      "id": "4958035",
-      "time": "2026-06-27 05:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國4-1挪威】2026年美加墨世界盃小組賽I組第3輪在波士頓體育場展開角逐，挪威對陣法國。上半場登貝萊帽子戲法，姆巴佩兩送助攻+中框，奧斯高扳回一城，下半場特奧送點，邁尼昂撲點，杜埃補時破門，哈蘭德未登場。最終法國4-1戰勝挪威，法國3戰全勝積9分位居I組頭名出線，挪威2勝1負積6分以I組第2名出線，挪威淘汰賽將迎戰象牙海岸。"
     }
   ]
 }
