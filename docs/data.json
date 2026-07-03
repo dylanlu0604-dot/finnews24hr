@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-03 08:51:46",
-  "count": 13884,
+  "updated": "2026-07-03 08:55:33",
+  "count": 13883,
   "items": [
+    {
+      "id": "4968509",
+      "time": "2026-07-03 08:54:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "信能低碳有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4968508",
+      "time": "2026-07-03 08:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統羅德里格斯：地震發生後，應急系統已立即投入部署。"
+    },
+    {
+      "id": "4968507",
+      "time": "2026-07-03 08:53:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王予波會見中國上市公司協會商業航天與低空經濟專業委員會成立大會嘉賓】據“雲南釋出”，7月2日，中國上市公司協會商業航天與低空經濟專業委員會成立大會暨投資雲南·產融對接會在昆明舉行。會前，雲南省委副書記、省長王予波會見了中國民航局原黨組書記、局長李家祥，中國科學院院士吳一戎等嘉賓代表。王予波說，雲南區位優勢明顯、資源能源豐富、應用場景多元、政策支撐有力，商業航天與低空經濟發展條件得天獨厚。誠摯邀請更多企業來滇投資興業，與我們共享發展機遇、共拓廣闊市場，推動場景應用+先進製造協同發展，實現互利共贏。雲南將持續打造一流營商環境，全力支援來滇發展的企業。"
+    },
+    {
+      "id": "4968506",
+      "time": "2026-07-03 08:53:04",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗預計伊朗與美國諒解備忘錄得以維繫 布倫特油價年底在60-65美元】花旗集團7月2日的報告稱，預計美國-伊朗諒解備忘錄將在未來幾個月內繼續有效，並最終轉化為正式協議。Francesco Martoccia等分析師指出，給戰爭降級的動力蓋過重新對抗的代價。重申建議在夏季任何上漲行情時賣出，並預測布倫特原油價格將在年底前跌至每桶60-65美元。透過這份諒解備忘錄，伊朗基本實現了其訴求，而美國則獲得了可以接受的全球油價。隨著霍爾木茲海峽局勢的動盪逐漸消退，基本面正在迅速恢復，但由於霍爾木茲海峽的管理權和通行費爭議持續存在，這一程序仍然脆弱。"
+    },
+    {
+      "id": "4968505",
+      "time": "2026-07-03 08:52:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【鎧俠控股股價跌至一個月來的最低點 失去日本市值最高公司地位】3日在東京證券交易所上市的鎧俠控股該公司股價一度下跌12%，跌至近一個月來的最低點。此次拋售是對股價快速上漲的反應，原因是市場擔憂人工智慧相關資本投資放緩，以及半導體行業可能陷入過度投資的困境。該公司股價已從6月22日創下的歷史最高點下跌了40%。公司市值一度是日本最大，目前暫時跌至第三位。軟銀集團、東京電子、村田製作所等其他此前被大量買入的AI相關股票也全面大幅下跌。"
+    },
+    {
+      "id": "te:markets:563919",
+      "time": "2026-07-03 08:52:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 1.5% to below 67,800 on Friday, extending losses for a second consecutive session as technology stocks remained under pressure amid concerns that the artificial intelligence-driven rally has outpaced underlying fundamentals. Investors questioned whether heavy spending and intensifying competition in the AI sector can support elevated valuations and deliver sustainable profits. Japanese firms tied to the global AI infrastructure buildout posted another day of steep losses, including Kioxia Holdings (-4.6%), Taiyo Yuden (-8.5%), Tokyo Electron (-3.4%), Murata Manufacturing (-5.2%), and Fujikura (-5%). Domestic equities also weakened as the yen rallied nearly 1% on Thursday, fueled by speculation that Japanese authorities could intervene in the currency market at any time."
+    },
     {
       "id": "mkt:019f2575-76db-7aab-8c86-f2160e0c693b",
       "time": "2026-07-03 08:51:22",
@@ -9,6 +66,15 @@
         "MKT News"
       ],
       "text": "【EU plans bloc-wide social media ban for minors】European Dynamic cited EU officials on July 2 saying European Commission President von der Leyen plans to unveil a bloc-wide ban on minors’ use of social media in her annual State of the Union address to the European Parliament on Sept. 16. An advisory group on minors’ online safety is due to submit a report by July 13 to inform the Commission. Member states have proposed different implementation options — a full ban below a specified age or parental-consent requirements — and the plan would pave the way for EU legislation or other measures to restrict minors’ access to social platforms."
+    },
+    {
+      "id": "4968504",
+      "time": "2026-07-03 08:51:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌0.5個基點，至3.760%。"
     },
     {
       "id": "4968503",
@@ -127895,72 +127961,6 @@
         "其他"
       ],
       "text": "【北京市前五月財政收入3146.3億元 同比增長6%】北京市財政局釋出的北京市2026年1至5月財政收支情況顯示，前五個月，全市一般公共預算收入完成3146.3億元，同比增長6.0%；完成年度預算的45.3%，超時間進度3.6個百分點。從支出重點看，科技和衛生健康支出增速較快。從主要支出領域看，科技支出392.2億元，同比增長24.6%，重點用於支援“三城一區”聯動發展，促進教育科技人才一體發展。教育支出547.7億元，同比增長2.6%。衛生健康支出334.3億元，同比增長10.5%，重點用於支援同仁醫院等新院區建設，推動優質醫療資源擴容，加強基層醫療衛生服務體系建設。"
-    },
-    {
-      "id": "4956058",
-      "time": "2026-06-26 08:54:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲0.5個基點至2.630%。"
-    },
-    {
-      "id": "4956057",
-      "time": "2026-06-26 08:54:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優優綠能：公司資料中心直流供電產品暫無專案落地】優優綠能6月26日在互動平臺表示，公司資料中心直流供電產品暫無專案落地。"
-    },
-    {
-      "id": "4956056",
-      "time": "2026-06-26 08:54:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：推進科技創新和產業創新深度融合 實施製造業重點產業鏈高質量發展行動】中共河南省委辦公廳、河南省人民政府辦公廳近日印發《關於推動城市高質量發展的實施方案》，方案提出，推進科技創新和產業創新深度融合。推動嵩山、神農種業等省實驗室爭創國家實驗室或成為國家實驗室基地，打造一批卓越工程師學院、校企研發中心、實訓基地和產業學院。推動鄭洛新國家自主創新示範區建設提質增效。實施省級重大科技專項和重點研發專項，集中突破一批關鍵技術。實施製造業重點產業鏈高質量發展行動，推動製造業高階化、智慧化、綠色化轉型，最佳化提升傳統產業，推進規模以上工業企業研發活動高質量覆蓋。"
-    },
-    {
-      "id": "mkt:019f016a-990b-7dd8-b128-1f9858aa7259",
-      "time": "2026-06-26 08:53:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea to sharply boost drone and counter-drone capabilities】South Korea's Defense Ministry said on Friday it will rapidly expand drone and counter-drone capabilities, training 500,000 \"drone warriors\", procuring more than 20,000 low-cost expendable drones, and producing 110,000 drones by 2029 to deploy across units. The measures are part of a comprehensive upgrade of unmanned combat capability."
-    },
-    {
-      "id": "4956055",
-      "time": "2026-06-26 08:53:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：加強鄭州國家中心城市建設】中共河南省委辦公廳、河南省人民政府辦公廳近日印發《關於推動城市高質量發展的實施方案》，方案提出，發揮“一主兩副”引領帶動作用。加強鄭州國家中心城市建設，做強做精樞紐開放、科技創新、教育文化、金融服務等核心功能，高質量完成要素市場化配置綜合改革試點。支援洛陽加快建設國家重要創新高地和先進製造業基地、現代生態宜居城市、文化旅遊名城、人文交往中心。支援南陽做大做強中心城區，深化京豫南水北調對口協作。"
-    },
-    {
-      "id": "4956054",
-      "time": "2026-06-26 08:52:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【研究：美國人每年在房貸上多付650億美元的冤枉錢】由於在申請房貸時沒有貨比三家尋找最優房貸利率，美國購房者和房主多掏了數百億美元。眼下美國房價令人望而卻步，房貸利率也居高不下，貨比三家是少數幾種能降低購房成本的方法之一。但人們並沒有這麼做，即使是高收入人群也不例外。Bankrate執行長馬特.費洛斯(Matt Fellowes)和商業智慧分析師傑克.奧康納(Jack O'Connor)的一項研究顯示，自2022年以來購房的美國人現在每年總計多付約650億美元的房貸成本，而這筆錢本可避免。他們發現，收入較高和年齡較大的人往往是付出最高昂代價的群體。該研究定於週四發表。沒人喜歡在緊迫的時間內一遍又一遍地提交納稅申報表和銀行對賬單，更別提在貸款機構之間反覆比較和討價還價。研究一再表明，儘管受通脹上升影響，近期房貸利率一直停留在6%中高位區間，但許多美國人僅索取了一份貸款報價。週四，30年期固定利率房貸的平均利率為6.49%。"
-    },
-    {
-      "id": "mkt:019f0169-6020-7dd8-b128-17aeb6fed2b7",
-      "time": "2026-06-26 08:51:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Defense Ministry plans to procure more than 20,000 low-cost, single-use drones."
-    },
-    {
-      "id": "mkt:019f0169-5bf8-7dd8-b128-0d991c057d12",
-      "time": "2026-06-26 08:51:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's defense minister said the government plans to produce 110,000 unmanned aerial vehicles for distribution to military units."
     }
   ]
 }

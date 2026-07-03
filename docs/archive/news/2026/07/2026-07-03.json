@@ -1,7 +1,64 @@
 {
   "date": "2026-07-03",
-  "count": 668,
+  "count": 675,
   "items": [
+    {
+      "id": "4968509",
+      "time": "2026-07-03 08:54:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "信能低碳有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4968508",
+      "time": "2026-07-03 08:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統羅德里格斯：地震發生後，應急系統已立即投入部署。"
+    },
+    {
+      "id": "4968507",
+      "time": "2026-07-03 08:53:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王予波會見中國上市公司協會商業航天與低空經濟專業委員會成立大會嘉賓】據“雲南釋出”，7月2日，中國上市公司協會商業航天與低空經濟專業委員會成立大會暨投資雲南·產融對接會在昆明舉行。會前，雲南省委副書記、省長王予波會見了中國民航局原黨組書記、局長李家祥，中國科學院院士吳一戎等嘉賓代表。王予波說，雲南區位優勢明顯、資源能源豐富、應用場景多元、政策支撐有力，商業航天與低空經濟發展條件得天獨厚。誠摯邀請更多企業來滇投資興業，與我們共享發展機遇、共拓廣闊市場，推動場景應用+先進製造協同發展，實現互利共贏。雲南將持續打造一流營商環境，全力支援來滇發展的企業。"
+    },
+    {
+      "id": "4968506",
+      "time": "2026-07-03 08:53:04",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗預計伊朗與美國諒解備忘錄得以維繫 布倫特油價年底在60-65美元】花旗集團7月2日的報告稱，預計美國-伊朗諒解備忘錄將在未來幾個月內繼續有效，並最終轉化為正式協議。Francesco Martoccia等分析師指出，給戰爭降級的動力蓋過重新對抗的代價。重申建議在夏季任何上漲行情時賣出，並預測布倫特原油價格將在年底前跌至每桶60-65美元。透過這份諒解備忘錄，伊朗基本實現了其訴求，而美國則獲得了可以接受的全球油價。隨著霍爾木茲海峽局勢的動盪逐漸消退，基本面正在迅速恢復，但由於霍爾木茲海峽的管理權和通行費爭議持續存在，這一程序仍然脆弱。"
+    },
+    {
+      "id": "4968505",
+      "time": "2026-07-03 08:52:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【鎧俠控股股價跌至一個月來的最低點 失去日本市值最高公司地位】3日在東京證券交易所上市的鎧俠控股該公司股價一度下跌12%，跌至近一個月來的最低點。此次拋售是對股價快速上漲的反應，原因是市場擔憂人工智慧相關資本投資放緩，以及半導體行業可能陷入過度投資的困境。該公司股價已從6月22日創下的歷史最高點下跌了40%。公司市值一度是日本最大，目前暫時跌至第三位。軟銀集團、東京電子、村田製作所等其他此前被大量買入的AI相關股票也全面大幅下跌。"
+    },
+    {
+      "id": "te:markets:563919",
+      "time": "2026-07-03 08:52:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 1.5% to below 67,800 on Friday, extending losses for a second consecutive session as technology stocks remained under pressure amid concerns that the artificial intelligence-driven rally has outpaced underlying fundamentals. Investors questioned whether heavy spending and intensifying competition in the AI sector can support elevated valuations and deliver sustainable profits. Japanese firms tied to the global AI infrastructure buildout posted another day of steep losses, including Kioxia Holdings (-4.6%), Taiyo Yuden (-8.5%), Tokyo Electron (-3.4%), Murata Manufacturing (-5.2%), and Fujikura (-5%). Domestic equities also weakened as the yen rallied nearly 1% on Thursday, fueled by speculation that Japanese authorities could intervene in the currency market at any time."
+    },
     {
       "id": "mkt:019f2575-76db-7aab-8c86-f2160e0c693b",
       "time": "2026-07-03 08:51:22",
@@ -9,6 +66,15 @@
         "MKT News"
       ],
       "text": "【EU plans bloc-wide social media ban for minors】European Dynamic cited EU officials on July 2 saying European Commission President von der Leyen plans to unveil a bloc-wide ban on minors’ use of social media in her annual State of the Union address to the European Parliament on Sept. 16. An advisory group on minors’ online safety is due to submit a report by July 13 to inform the Commission. Member states have proposed different implementation options — a full ban below a specified age or parental-consent requirements — and the plan would pave the way for EU legislation or other measures to restrict minors’ access to social platforms."
+    },
+    {
+      "id": "4968504",
+      "time": "2026-07-03 08:51:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌0.5個基點，至3.760%。"
     },
     {
       "id": "4968503",
