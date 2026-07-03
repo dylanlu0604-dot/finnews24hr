@@ -1,7 +1,80 @@
 {
   "date": "2026-07-03",
-  "count": 1928,
+  "count": 1936,
   "items": [
+    {
+      "id": "mkt:019f2747-44af-7aab-8c92-40b0418290c7",
+      "time": "2026-07-03 17:20:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASS reported the Russian Defence Ministry said Russian forces have taken control of the Ukrainian town of Oleksandrivka."
+    },
+    {
+      "id": "4969448",
+      "time": "2026-07-03 17:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍控制烏克蘭的亞歷山大裡夫卡。"
+    },
+    {
+      "id": "te:economy:564154",
+      "time": "2026-07-03 17:19:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "House Price Index MoM",
+        "Importance 1"
+      ],
+      "text": "Norway House Price Up 0.4% MoM in June — House prices in Norway increased 0.4% month-on-month in June 2026, following a 0.1% gain in the previous month. Residential sales totaled 11,757 units, 2% fewer than in the same month last year, while 12,028 homes were listed for sale, up 4% from June 2025. The average time to sell a home was 40 days in June, down from 42 days in May, with homes selling fastest in Bergen and Stavanger at 13 and 16 days, respectively. Meanwhile, Fredrikstad/Sarpsborg recorded the longest selling time at 93 days. Regionally, Porsgrunn/Skien posted the strongest monthly house price growth at 2.6%, followed by Bodø and Fauske with a 1.8% increase. In contrast, Fredrikstad/Sarpsborg recorded the weakest performance, with prices falling 0.9%. On a yearly basis, house prices rose 3.9% in June, the highest increase since January. For the January–June period, prices were 5.5% higher than in the corresponding period a year earlier."
+    },
+    {
+      "id": "4969447",
+      "time": "2026-07-03 17:18:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺繼續釋出海浪風暴潮預警】記者從自然資源部獲悉，今年第10號颱風“美莎克”（熱帶風暴級）的中心今天16時位於距離海南省陵水黎族自治縣偏南方向約45公里的近海海面，這是今年首個即將登陸我國沿海的颱風，國家海洋預報臺今天下午繼續釋出海浪黃色警報和風暴潮藍色警報。（央視新聞）"
+    },
+    {
+      "id": "4969446",
+      "time": "2026-07-03 17:17:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據市場訊息：俄羅斯謝韋爾鋼鐵公司（Severstal）表示，可能於2027年將資本支出削減至約850億盧布。"
+    },
+    {
+      "id": "4969445",
+      "time": "2026-07-03 17:17:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所資訊顯示，貝萊德在中國人壽H股的持股比例於06月29日從5.92%升至6.09%。"
+    },
+    {
+      "id": "4969444",
+      "time": "2026-07-03 17:17:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：加強海上風電、油氣等開發建設活動監管】國務院印發《美麗中國建設“十五五”規劃》。《規劃》提出，深化海洋生態環境保護。健全陸海統籌、近遠海協調聯動的海洋生態環境保護格局。劃定國家生態環境治理重點海域及其控制區域、省級重點海域範圍，實施綜合治理攻堅。深化陸源汙染治理與管控，加強海洋垃圾清理和資源化利用，基本完成重點海域入海排汙口排查整治。強化海水養殖環境整治與監管，提升海水浴場等親海區域環境品質。加強海上風電、油氣等開發建設活動監管。有序推進海洋生態環境綜合調查，開展典型海洋生態系統保護修復及成效評估，加強重要海洋物種及其棲息地保護與監管。推進潮白河—渤海灣、九龍江—廈門灣等從山頂到海洋保護治理機制創新。"
+    },
+    {
+      "id": "4969443",
+      "time": "2026-07-03 17:16:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陳滋英同志逝世】國務院港澳事務辦公室原副主任、黨組成員陳滋英同志，因病於2026年6月20日在北京逝世，享年94歲。（新華社）"
+    },
     {
       "id": "mkt:019f2743-39fb-7aab-8c92-376951c89e16",
       "time": "2026-07-03 17:15:44",
