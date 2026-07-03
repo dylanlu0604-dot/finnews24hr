@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 04:53:36",
-  "count": 13329,
+  "updated": "2026-07-04 04:57:26",
+  "count": 13328,
   "items": [
+    {
+      "id": "4970120",
+      "time": "2026-07-04 04:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國稱，埃博拉確診病例數已升至1502例，其中死亡病例473例。"
+    },
+    {
+      "id": "4970119",
+      "time": "2026-07-04 04:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國唐寧街：阿曼蘇丹國已同意與英國和法國開展合作，確保其主權領海的航行安全。"
+    },
     {
       "id": "4970118",
       "time": "2026-07-04 04:52:14",
@@ -122657,39 +122673,6 @@
         "國際"
       ],
       "text": "【訊息人士稱伊朗南部港口城市碼頭傳出爆炸聲】當地時間26日，一名伊朗軍事訊息人士透露，當晚23時15分左右，伊朗南部港口城市錫裡克的碼頭傳出爆炸聲，爆炸原因是有彈體擊中了碼頭區域。該軍事訊息人士稱，大約5小時前，錫裡克地區曾向霍爾木茲海峽內的違規船隻進行警告射擊。（央視）"
-    },
-    {
-      "id": "mkt:019f05b9-135f-7dd8-b13f-c2f2a1179742",
-      "time": "2026-06-27 04:57:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Explosion heard at Iran's southern port Sirik, military source says】A military source said on the night of the 26th at about 23:15 local time explosions were heard at the pier in the southern Iranian port city of Sirik after a projectile struck the quay area. The source said roughly five hours earlier Sirik-area forces had fired warning shots at vessels inside the Strait of Hormuz for rule violations."
-    },
-    {
-      "id": "4958032",
-      "time": "2026-06-27 04:55:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱對伊朗發動打擊以回應商船遭襲事件】美國中央司令部26日在社交媒體發文稱，美軍於當天對伊朗發動打擊，以回應前一天一艘途經霍爾木茲海峽的商船遭襲事件。（新華社）"
-    },
-    {
-      "id": "te:markets:562330",
-      "time": "2026-06-27 04:54:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises as Bank Gains Offset Commodity Losses — The Ibovespa rose 0.8% to close at 173,295 on Friday, recovering from early losses as gains in financial stocks offset declines in heavyweight commodity shares. Bond yields edged lower as oil prices returned to pre-conflict levels amid easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite President Donald Trump accusing Iran of violating the ceasefire by targeting cargo ships transiting the strait. Earlier, Iran reaffirmed its right to control shipping through the waterway and warned Gulf states against siding with the US, a day after an attack on a vessel near Oman. Major banks led gains, with Banco do Brasil up 1.4%, Bradesco rising 1.7%, Itaú climbing 1.3%, and Santander advancing 0.6%. On the downside, Vale fell 0.6% despite stronger iron ore prices, while Petrobras dropped 1.0% on lower global oil prices. Braskem plunged 8.4% after a downgrade from Citi."
     }
   ]
 }
