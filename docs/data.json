@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-03 22:11:41",
-  "count": 13543,
+  "updated": "2026-07-03 22:15:37",
+  "count": 13545,
   "items": [
+    {
+      "id": "mkt:019f2854-f9f8-7aab-8c97-7216c218df2f",
+      "time": "2026-07-03 22:14:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toronto Stock Exchange index rose 1%."
+    },
+    {
+      "id": "mkt:019f2854-e496-7aab-8c97-69339a16430e",
+      "time": "2026-07-03 22:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guizhou launches three-year export push for baijiu】Guizhou provincial government office issued a 2026–2030 action plan to shift marketing “from selling liquor to selling a lifestyle” and to promote Guizhou baijiu overseas. The plan calls for a three-year outbound campaign, urging firms to innovate cooperation and export models, set up overseas exhibition-and-sales centres, and develop products tailored to international consumption habits and scenarios. It mandates at least six annual \"Qian Liquor Global Tour\" events leveraging embassies, consulates and trade associations to embed Guizhou baijiu in global consumer channels, and links outbound promotion with inbound tourism to support two-way growth."
+    },
+    {
+      "id": "4969933",
+      "time": "2026-07-03 22:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州：實施貴州白酒出海三年行動】貴州省人民政府辦公廳印發《貴州省打造“賣酒向賣生活方式”轉變升級版行動方案（2026—2030年）》，方案提出，推動貴州白酒出海。實施貴州白酒出海三年行動，鼓勵企業創新合作與出口模式，建立海外展銷中心，開發適配國際消費習慣和消費場景的新產品。每年統籌舉辦不少於6場“黔酒全球行”等活動，藉助使領館、商協會等渠道，讓貴州白酒融入全球生活，傳遞“醉美”文化魅力。聯動白酒出海與入境旅遊，推動雙向促進。"
+    },
+    {
+      "id": "te:economy:564188",
+      "time": "2026-07-03 22:12:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Bond Yield Edges Up — Switzerland's 10-year bond yield rose to 0.33% at the start of July as easing geopolitical tensions improved risk appetite and reduced demand for safe-haven assets despite lingering uncertainty over a lasting agreement. Meanwhile, Swiss inflation slowed in June for the first time in eight months to 0.5%, remaining within the Swiss National Bank's 0-2% target range. The SNB kept interest rates at 0%, preferring to rely on currency interventions to curb excessive franc appreciation and pushing inflation too low through cheaper imports. The International Monetary Fund urged the SNB to remain ready to raise rates or cut them into negative territory if a stagflation scenario occurs, while the central bank reiterated its willingness to intervene in currency markets. Policymakers expect inflation to pick up modestly later this year but remain stable over the medium term, as energy supply disruptions ease, while the government trimmed its own 2026 domestic growth forecast to 0.9%."
+    },
+    {
+      "id": "4969931",
+      "time": "2026-07-03 22:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：挪威國家電網公司在投訴審查後撤銷對NORCONSULT的授標決定。"
+    },
+    {
+      "id": "mkt:019f2851-b795-7aab-8c97-6017f7a38186",
+      "time": "2026-07-03 22:11:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "CON.DE",
+        "Impact bullish"
+      ],
+      "text": "Continental shares in Germany rose 2% as the company nears finalising an agreement to sell its ContiTech industrial-technology unit."
+    },
     {
       "id": "4969930",
       "time": "2026-07-03 22:10:24",
@@ -124722,44 +124778,6 @@
         "Impact mixed"
       ],
       "text": "【Memory, storage, CPU and GPU costs rise; several popular laptop models sharply repriced】Apple has raised prices on some notebooks and tablets across multiple global markets by about 16–25%. Domestic retail prices for a number of popular PC models have also jumped: a best‑selling gaming laptop that retailed around 7,000 yuan in July–August last year now sells above 10,000 yuan in Shenzhen. Price increases extend beyond gaming rigs to ordinary business notebooks; models that sold below 4,000 yuan last year are largely absent this year, while mid‑to‑high‑end notebooks have risen roughly 500–1,500 yuan. Dealers say component cost inflation — memory, SSDs, CPUs and GPUs — has pushed prices since Q4 last year amid a surge in global AI compute demand, and many resellers have been forced to adjust retail prices frequently after vendor repricing notices."
-    },
-    {
-      "id": "4957729",
-      "time": "2026-06-26 22:14:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多個電腦熱門機型售價大幅上調】蘋果公司最近宣佈，上調全球多個市場部分膝上型電腦和平板電腦售價，漲幅在16%至25%不等。國內市場多款熱門電腦機型售價也出現大幅上調。在深圳華強北的一家電腦銷售門店，店長向央視財經記者介紹了一款熱賣遊戲膝上型電腦。這款電腦去年七八月份上市時零售價在7000元左右，如今終端售價已突破1萬元。記者走訪發現，除了熱門遊戲筆記本，普通商務筆記本的價格也普遍上調。去年市場上價格在4000元以下的機型，今年已基本難覓蹤影，而中高階筆記本的漲幅普遍在500至1500元之間。自去年第四季度起，受全球AI算力需求爆發影響，記憶體、硬碟以及CPU、顯示卡等核心配件價格普遍走高。面對廠家的調價通知，今年以來，不少經銷商不得不頻繁調整終端零售價。（央視財經）"
-    },
-    {
-      "id": "mkt:019f0446-efd1-7dd8-b139-52ae16079a15",
-      "time": "2026-06-26 22:13:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures touched $4,100/oz, up 1.29% on the day."
-    },
-    {
-      "id": "4957728",
-      "time": "2026-06-26 22:12:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【桑達股份所屬中電三公司中標自貢高新區智慧智造基地EPC專案】近日，桑達股份所屬中電三公司成功中標自貢高新區動力及新型儲能智慧製造基地配套基礎設施建設(一期)專案設計施工總承包（EPC）第四標段，中標額達15.13億元。"
-    },
-    {
-      "id": "4957727",
-      "time": "2026-06-26 22:12:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4100美元/盎司，日內漲1.30%。"
     }
   ]
 }

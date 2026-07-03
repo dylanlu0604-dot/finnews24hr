@@ -1,7 +1,63 @@
 {
   "date": "2026-07-03",
-  "count": 2592,
+  "count": 2598,
   "items": [
+    {
+      "id": "mkt:019f2854-f9f8-7aab-8c97-7216c218df2f",
+      "time": "2026-07-03 22:14:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toronto Stock Exchange index rose 1%."
+    },
+    {
+      "id": "mkt:019f2854-e496-7aab-8c97-69339a16430e",
+      "time": "2026-07-03 22:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guizhou launches three-year export push for baijiu】Guizhou provincial government office issued a 2026–2030 action plan to shift marketing “from selling liquor to selling a lifestyle” and to promote Guizhou baijiu overseas. The plan calls for a three-year outbound campaign, urging firms to innovate cooperation and export models, set up overseas exhibition-and-sales centres, and develop products tailored to international consumption habits and scenarios. It mandates at least six annual \"Qian Liquor Global Tour\" events leveraging embassies, consulates and trade associations to embed Guizhou baijiu in global consumer channels, and links outbound promotion with inbound tourism to support two-way growth."
+    },
+    {
+      "id": "4969933",
+      "time": "2026-07-03 22:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州：實施貴州白酒出海三年行動】貴州省人民政府辦公廳印發《貴州省打造“賣酒向賣生活方式”轉變升級版行動方案（2026—2030年）》，方案提出，推動貴州白酒出海。實施貴州白酒出海三年行動，鼓勵企業創新合作與出口模式，建立海外展銷中心，開發適配國際消費習慣和消費場景的新產品。每年統籌舉辦不少於6場“黔酒全球行”等活動，藉助使領館、商協會等渠道，讓貴州白酒融入全球生活，傳遞“醉美”文化魅力。聯動白酒出海與入境旅遊，推動雙向促進。"
+    },
+    {
+      "id": "te:economy:564188",
+      "time": "2026-07-03 22:12:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Bond Yield Edges Up — Switzerland's 10-year bond yield rose to 0.33% at the start of July as easing geopolitical tensions improved risk appetite and reduced demand for safe-haven assets despite lingering uncertainty over a lasting agreement. Meanwhile, Swiss inflation slowed in June for the first time in eight months to 0.5%, remaining within the Swiss National Bank's 0-2% target range. The SNB kept interest rates at 0%, preferring to rely on currency interventions to curb excessive franc appreciation and pushing inflation too low through cheaper imports. The International Monetary Fund urged the SNB to remain ready to raise rates or cut them into negative territory if a stagflation scenario occurs, while the central bank reiterated its willingness to intervene in currency markets. Policymakers expect inflation to pick up modestly later this year but remain stable over the medium term, as energy supply disruptions ease, while the government trimmed its own 2026 domestic growth forecast to 0.9%."
+    },
+    {
+      "id": "4969931",
+      "time": "2026-07-03 22:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：挪威國家電網公司在投訴審查後撤銷對NORCONSULT的授標決定。"
+    },
+    {
+      "id": "mkt:019f2851-b795-7aab-8c97-6017f7a38186",
+      "time": "2026-07-03 22:11:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "CON.DE",
+        "Impact bullish"
+      ],
+      "text": "Continental shares in Germany rose 2% as the company nears finalising an agreement to sell its ContiTech industrial-technology unit."
+    },
     {
       "id": "4969930",
       "time": "2026-07-03 22:10:24",
