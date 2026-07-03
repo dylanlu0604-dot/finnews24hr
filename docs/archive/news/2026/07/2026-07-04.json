@@ -1,7 +1,26 @@
 {
   "date": "2026-07-04",
-  "count": 109,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:019f2963-9500-7aab-8c9a-97b7feee9ce0",
+      "time": "2026-07-04 03:10:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Ghalibaf: US must accept regional reality, urges steps toward sanction relief】Iranian parliament speaker Ghalibaf told an Uzbek parliamentary delegation the US must accept the “changed realities” in the region after recent confrontations involving Iran, Israel and the United States, and has been forced to accommodate a new regional configuration. He said economic and trade ties could expand under the new balance and expressed hope this would create conditions for future lifting of sanctions. Ghalibaf added that an Iran‑Oman joint-management framework for the Persian Gulf and the Strait of Hormuz would reduce US interference and improve conditions for regional transit and shipping cooperation."
+    },
+    {
+      "id": "mkt:019f2963-39b3-7aab-8c9a-8f53de327f1b",
+      "time": "2026-07-04 03:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron says France is adjusting its Middle East deployment: aircraft carrier Charles de Gaulle will be withdrawn, while mine‑clearing and escort forces will remain on station and on standby."
+    },
     {
       "id": "4970060",
       "time": "2026-07-04 03:05:19",
