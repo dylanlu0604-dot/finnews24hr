@@ -1,7 +1,147 @@
 {
   "date": "2026-07-03",
-  "count": 950,
+  "count": 965,
   "items": [
+    {
+      "id": "mkt:019f25bc-2be7-7aab-8c89-773b51a93e6e",
+      "time": "2026-07-03 10:08:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June exports YoY +28.1% vs +18.0% prior."
+    },
+    {
+      "id": "mkt:019f25bc-1090-7aab-8c89-6bba8a34f380",
+      "time": "2026-07-03 10:08:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June trade deficit narrowed to $2.644 billion, versus a $5.21 billion deficit previously."
+    },
+    {
+      "id": "4968713",
+      "time": "2026-07-03 10:08:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熱景生物成立AI製藥公司 加速推進小核酸藥物研發】據熱景生物訊息，近日，熱景生物正式註冊成立北京熵景智藥科技有限公司，標誌著公司2023年啟動的AI藥物研發戰略完成階段性落地，公司將持續加大AI技術在創新藥業務領域的投入，特別是以AI技術重構小核酸藥物研發正規化，加速推進公司小核酸藥物管線的智慧化升級。"
+    },
+    {
+      "id": "mkt:019f25bb-d0c9-7aab-8c89-63aca707063c",
+      "time": "2026-07-03 10:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam imports rose 45.2% YoY in June, up from 33.8% previously."
+    },
+    {
+      "id": "4968712",
+      "time": "2026-07-03 10:07:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲幅擴大至3%。"
+    },
+    {
+      "id": "4968711",
+      "time": "2026-07-03 10:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特表示：工資與通脹之間的差異是短期波動。"
+    },
+    {
+      "id": "mkt:019f25ba-9a3a-7aab-8c89-5985d98e753c",
+      "time": "2026-07-03 10:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals",
+        "SZSE Component",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China A-share ChiNext Index rose more than 1%; humanoid robotics, defense and gold sectors led gains."
+    },
+    {
+      "id": "4968710",
+      "time": "2026-07-03 10:06:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燃氣輪機概念表現活躍 圖南股份、隆達股份均漲超10%】燃氣輪機概念表現活躍，圖南股份、隆達股份均漲超10%，萬澤股份、傑瑞股份、常寶股份、東方電氣跟漲。"
+    },
+    {
+      "id": "4968709",
+      "time": "2026-07-03 10:06:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.04%，現報4059.162點；上證指數漲0.34%，現報4042.554點；深證成指漲0.81%，現報15624.880點。"
+    },
+    {
+      "id": "4968708",
+      "time": "2026-07-03 10:06:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念持續走高 臥龍電驅等十餘股漲停】機器人概念持續走高，臥龍電驅、埃斯頓封漲停，此前日發精機、雷賽智慧、晉拓股份、藍黛科技等漲停，新睿電子觸及30cm漲停，豐光精密、長盛軸承、綠的諧波等多股漲超10%。"
+    },
+    {
+      "id": "4968707",
+      "time": "2026-07-03 10:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "極氪汽車宣佈，極氪9X五座版車型將於7月8日開啟預售。"
+    },
+    {
+      "id": "mkt:019f25b9-e72e-7aab-8c89-57d0c7811256",
+      "time": "2026-07-03 10:06:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "300287.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share humanoid-robot sector extended gains; Kailong Gaoke hit the 20% daily limit. Estun and Wolong Electric Drive also reached limit-up, while Tuosida, Lude Xiebo, Changsheng Bearing and Shangwei New Materials advanced."
+    },
+    {
+      "id": "4968706",
+      "time": "2026-07-03 10:05:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "富士膠片就印度晶片材料工廠建設達成協議。"
+    },
+    {
+      "id": "te:markets:563948",
+      "time": "2026-07-03 10:05:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Gains for Second Day — The Hang Seng Index climbed 1.7%, or 383 points, to 23,445 on Friday, extending gains for a second straight session as technology, financial, and consumer stocks led broad-based gains. The market outperformed several Asian peers despite renewed weakness in technology and artificial intelligence-related shares, as investors elsewhere continued to rotate out of the sector on concerns that the AI-driven rally had become overextended. In Hong Kong, investors continued to favor internet companies amid attractive valuations, while improved global risk sentiment following the latest U.S. jobs data eased concerns over further Fed rate hikes. Lower oil prices, as shipping flows through the Strait of Hormuz gradually normalized, also eased fears of energy-driven inflation and supported risk appetite. Notable gainers included Tencent Holdings (2.7%), Xiaomi (5.7%), Knowledge Atlas (11.8%), Kuaishou Technology (6.2%), and AIA (1.5%)."
+    },
+    {
+      "id": "4968705",
+      "time": "2026-07-03 10:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本宮城縣附近海域發生4.8級地震】據日本氣象廳訊息，當地時間3日10時44分左右，日本宮城縣附近海域發生4.8級地震，最大震感為震度2，震源深度30公里。本次地震沒有引發海嘯的風險。"
+    },
     {
       "id": "mkt:019f25b8-febf-7aab-8c89-4e203322d05b",
       "time": "2026-07-03 10:05:08",

@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-03 10:05:51",
-  "count": 13939,
+  "updated": "2026-07-03 10:09:41",
+  "count": 13941,
   "items": [
+    {
+      "id": "mkt:019f25bc-2be7-7aab-8c89-773b51a93e6e",
+      "time": "2026-07-03 10:08:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June exports YoY +28.1% vs +18.0% prior."
+    },
+    {
+      "id": "mkt:019f25bc-1090-7aab-8c89-6bba8a34f380",
+      "time": "2026-07-03 10:08:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam June trade deficit narrowed to $2.644 billion, versus a $5.21 billion deficit previously."
+    },
+    {
+      "id": "4968713",
+      "time": "2026-07-03 10:08:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熱景生物成立AI製藥公司 加速推進小核酸藥物研發】據熱景生物訊息，近日，熱景生物正式註冊成立北京熵景智藥科技有限公司，標誌著公司2023年啟動的AI藥物研發戰略完成階段性落地，公司將持續加大AI技術在創新藥業務領域的投入，特別是以AI技術重構小核酸藥物研發正規化，加速推進公司小核酸藥物管線的智慧化升級。"
+    },
+    {
+      "id": "mkt:019f25bb-d0c9-7aab-8c89-63aca707063c",
+      "time": "2026-07-03 10:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam imports rose 45.2% YoY in June, up from 33.8% previously."
+    },
+    {
+      "id": "4968712",
+      "time": "2026-07-03 10:07:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲幅擴大至3%。"
+    },
+    {
+      "id": "4968711",
+      "time": "2026-07-03 10:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特表示：工資與通脹之間的差異是短期波動。"
+    },
+    {
+      "id": "mkt:019f25ba-9a3a-7aab-8c89-5985d98e753c",
+      "time": "2026-07-03 10:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals",
+        "SZSE Component",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China A-share ChiNext Index rose more than 1%; humanoid robotics, defense and gold sectors led gains."
+    },
+    {
+      "id": "4968710",
+      "time": "2026-07-03 10:06:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燃氣輪機概念表現活躍 圖南股份、隆達股份均漲超10%】燃氣輪機概念表現活躍，圖南股份、隆達股份均漲超10%，萬澤股份、傑瑞股份、常寶股份、東方電氣跟漲。"
+    },
+    {
+      "id": "4968709",
+      "time": "2026-07-03 10:06:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.04%，現報4059.162點；上證指數漲0.34%，現報4042.554點；深證成指漲0.81%，現報15624.880點。"
+    },
+    {
+      "id": "4968708",
+      "time": "2026-07-03 10:06:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念持續走高 臥龍電驅等十餘股漲停】機器人概念持續走高，臥龍電驅、埃斯頓封漲停，此前日發精機、雷賽智慧、晉拓股份、藍黛科技等漲停，新睿電子觸及30cm漲停，豐光精密、長盛軸承、綠的諧波等多股漲超10%。"
+    },
+    {
+      "id": "4968707",
+      "time": "2026-07-03 10:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "極氪汽車宣佈，極氪9X五座版車型將於7月8日開啟預售。"
+    },
+    {
+      "id": "mkt:019f25b9-e72e-7aab-8c89-57d0c7811256",
+      "time": "2026-07-03 10:06:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "300287.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share humanoid-robot sector extended gains; Kailong Gaoke hit the 20% daily limit. Estun and Wolong Electric Drive also reached limit-up, while Tuosida, Lude Xiebo, Changsheng Bearing and Shangwei New Materials advanced."
+    },
+    {
+      "id": "4968706",
+      "time": "2026-07-03 10:05:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "富士膠片就印度晶片材料工廠建設達成協議。"
+    },
+    {
+      "id": "te:markets:563948",
+      "time": "2026-07-03 10:05:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Gains for Second Day — The Hang Seng Index climbed 1.7%, or 383 points, to 23,445 on Friday, extending gains for a second straight session as technology, financial, and consumer stocks led broad-based gains. The market outperformed several Asian peers despite renewed weakness in technology and artificial intelligence-related shares, as investors elsewhere continued to rotate out of the sector on concerns that the AI-driven rally had become overextended. In Hong Kong, investors continued to favor internet companies amid attractive valuations, while improved global risk sentiment following the latest U.S. jobs data eased concerns over further Fed rate hikes. Lower oil prices, as shipping flows through the Strait of Hormuz gradually normalized, also eased fears of energy-driven inflation and supported risk appetite. Notable gainers included Tencent Holdings (2.7%), Xiaomi (5.7%), Knowledge Atlas (11.8%), Kuaishou Technology (6.2%), and AIA (1.5%)."
+    },
+    {
+      "id": "4968705",
+      "time": "2026-07-03 10:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本宮城縣附近海域發生4.8級地震】據日本氣象廳訊息，當地時間3日10時44分左右，日本宮城縣附近海域發生4.8級地震，最大震感為震度2，震源深度30公里。本次地震沒有引發海嘯的風險。"
+    },
     {
       "id": "mkt:019f25b8-febf-7aab-8c89-4e203322d05b",
       "time": "2026-07-03 10:05:08",
@@ -128359,125 +128499,6 @@
         "Importance 1"
       ],
       "text": "Hong Kong Stocks Drop on Tech Weakness — The Hang Seng Index fell 1.4%, or 325 points, to 22,747 on Friday, extending losses as weakness in global technology stocks continued to weigh on investor sentiment. The cautious mood followed a volatile overnight session on Wall Street, where renewed selling in megacap technology shares offset optimism from upbeat semiconductor earnings. Investors also remained cautious despite the Hong Kong debut of Apple supplier Lingyi iTech, whose HK$8.3 billion IPO highlighted continued interest in AI-related listings but failed to lift broader market sentiment. Technology stocks led the decline, while financial and producer manufacturing shares also came under pressure. Among the notable laggards were Tencent (-1.4%), AIA (-1.8%), Semiconductor Manufacturing International Corporation (-2.5%), Lenovo (-4.2%), and Kingboard Laminates (-1.3%). The downside was partially offset by gains in Kingboard Holdings (+0.9%) and CITIC Resources Holdings (+8.5%)."
-    },
-    {
-      "id": "4956221",
-      "time": "2026-06-26 10:09:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”能源重點專案和新業態投資總規模將超20萬億元】6月26日，國家能源局局長王宏志在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上表示，預計“十五五”能源重點專案和新業態投資保持穩步增長態勢，總規模超過20萬億元。（新華社）"
-    },
-    {
-      "id": "4956220",
-      "time": "2026-06-26 10:09:04",
-      "tags": [],
-      "text": "“十五五”能源重點專案和新業態投資總規模將超20萬億元。（新華社）"
-    },
-    {
-      "id": "mkt:019f01af-e2ee-7dd8-b12a-2c4a2baf933b",
-      "time": "2026-06-26 10:08:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Investment in key energy projects and new energy business formats during China's 15th Five-Year Plan will exceed 20 trillion yuan."
-    },
-    {
-      "id": "4956219",
-      "time": "2026-06-26 10:08:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光刻機概念持續走高 海立股份直線漲停】光刻機概念持續走高，海立股份直線漲停，此前新萊應材20cm漲停，藍英裝備、佳先股份漲超10%，張江高科、波長光電、奧普光電、茂萊光學等紛紛衝高。"
-    },
-    {
-      "id": "mkt:019f01af-9445-7dd8-b12a-252384bb2baa",
-      "time": "2026-06-26 10:08:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share commercial-space sector spiked intraday; Guanghe Technology hit limit-up, while Shanghai Hanxun, Sirui New Materials, Xice Testing, Goldwind and ShaanGu Power also rose."
-    },
-    {
-      "id": "4956218",
-      "time": "2026-06-26 10:08:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代在柳州投資成立新能源科技公司】企查查APP顯示，近日，時代騏驥新能源科技（柳州）有限公司成立，法定代表人為曾凡清，經營範圍包括新興能源技術研發、新能源汽車換電設施銷售、線上能源計量技術研發、合同能源管理等。企查查股權穿透顯示，該公司由寧德時代旗下時代騏驥新能源科技（南寧）有限公司全資持股。"
-    },
-    {
-      "id": "4956217",
-      "time": "2026-06-26 10:07:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "港元兌美元匯率跌至2025年8月以來最低水平。"
-    },
-    {
-      "id": "4956216",
-      "time": "2026-06-26 10:06:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【基點起源：近半年內完成3輪融資，總金額達數億元】近日，基點起源（AlignBase）宣佈已於近半年內完成3輪融資，總金額達數億元，由國科投資、電控產投、上海半導體產投、建投投資、鑫和達、崇麟資本、硬核堅果資本等多家知名投資機構聯合參與投資，指數資本擔任財務顧問。融資資金將主要用於全要素大模型核心技術的持續研發、工業場景解決方案的深化。"
-    },
-    {
-      "id": "mkt:019f01ad-f458-7dd8-b12a-1d7107152cd3",
-      "time": "2026-06-26 10:06:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PBOC deputy governor and SAFE director Zhu Hexin meets IMF deputy managing director Li Bo】June 24, 2026 — PBOC Deputy Governor and SAFE Director Zhu Hexin met with IMF Deputy Managing Director Li Bo. They exchanged views on the international economic and financial situation and on deepening cooperation. SAFE Deputy Director Li Bin accompanied Zhu."
-    },
-    {
-      "id": "mkt:019f01ad-e5dc-7dd8-b12a-1316af78e890",
-      "time": "2026-06-26 10:06:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share shipping sector slid intraday; China Merchants Shipping hit the daily limit-down, while COSCO Shipping Energy, China Merchants Nanyou, Guohang Yuanyang and HNA Technology also fell."
-    },
-    {
-      "id": "4956215",
-      "time": "2026-06-26 10:06:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京頭部大模型累計註冊使用者達20.5億】6月25日，北京市人民政府新聞辦公室舉行2026全球數字經濟大會新聞釋出會。會上介紹，截至目前，北京頭部大模型累計註冊使用者達到了20.5億，面向全國近5萬家機構提供API的介面服務，龍頭企業示範引領、輻射帶動效應持續凸顯。（網信北京）"
-    },
-    {
-      "id": "mkt:019f01ad-8d70-7dd8-b12a-09261c8775d2",
-      "time": "2026-06-26 10:06:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Beijing leading large AI models reach 2.05 bln cumulative registered users】At a press briefing for the 2026 Global Digital Economy Conference, Beijing municipal government said its leading large AI models have amassed 2.05 bln cumulative registered users, provide API services to nearly 50,000 institutions nationwide, and that demonstration and spillover effects from leading firms remain evident."
-    },
-    {
-      "id": "4956214",
-      "time": "2026-06-26 10:06:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家外匯管理局局長朱鶴新會見國際貨幣基金組織副總裁李波】6月24日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的國際貨幣基金組織副總裁李波。雙方就國際經濟金融形勢、深化交流合作等議題交換了意見。國家外匯管理局副局長李斌陪同會見。"
     }
   ]
 }
