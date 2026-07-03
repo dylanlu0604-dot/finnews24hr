@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 03:29:48",
-  "count": 13408,
+  "updated": "2026-07-04 03:33:35",
+  "count": 13401,
   "items": [
+    {
+      "id": "4970076",
+      "time": "2026-07-04 03:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "受美國獨⽴紀念⽇假期影響，CFTC周度持倉報告推遲至北京時間7月7日（週二）03:30公佈。"
+    },
+    {
+      "id": "4970075",
+      "time": "2026-07-04 03:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我知道這件事聽上去荒誕至極，但這確是事實，也是昏庸的喬・拜登執政整整四年間，我們國家被迫承受的政治工具化治理與荒唐亂象的縮影。我即刻釋放這六個人！"
+    },
     {
       "id": "mkt:019f2973-459b-7aab-8c9a-ac2cf866b69c",
       "time": "2026-07-04 03:27:28",
@@ -123375,93 +123391,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：協議建立了由美國推動的黎巴嫩三方軍事協調小組。"
-    },
-    {
-      "id": "4957954",
-      "time": "2026-06-27 03:32:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加91手，至113,010手。"
-    },
-    {
-      "id": "4957953",
-      "time": "2026-06-27 03:32:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "國商品期貨交易委員會（CFTC）：6月23日當週，投機者所持NYMEX WTI原油淨多頭頭寸下降12,491手合約，至88,486手合約。"
-    },
-    {
-      "id": "4957952",
-      "time": "2026-06-27 03:32:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：框架協議將允許以色列在其公民面臨的威脅消除後，撤回至原邊界線。"
-    },
-    {
-      "id": "mkt:019f056a-fdf0-7dd8-b13e-7d49dc067dd6",
-      "time": "2026-06-27 03:32:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week ended June 23, speculators increased net short positions in CBOT U.S. 2-year Treasury futures by 48,339 contracts to 1,318,846 contracts, and reduced net short positions in CBOT U.S. 10-year Treasury futures by 75,816 contracts to 835,266 contracts."
-    },
-    {
-      "id": "mkt:019f056a-7553-7dd8-b13e-7350d5da4b94",
-      "time": "2026-06-27 03:31:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Copper"
-      ],
-      "text": "CFTC weekly positions to June 23: COMEX gold speculative net longs rose 91 contracts to 113,010; COMEX silver net longs fell 411 contracts to 11,659; COMEX copper net longs fell 2,257 contracts to 68,818."
-    },
-    {
-      "id": "4957951",
-      "time": "2026-06-27 03:30:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "美國國務卿魯比奧：已制定清晰且體系化的流程，以恢復黎巴嫩主權、解除真主黨武裝並拆除其基礎設施。"
-    },
-    {
-      "id": "4957950",
-      "time": "2026-06-27 03:30:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價26日顯著下跌 】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌2.69美元，收於每桶69.23美元，跌幅為3.74%；8月交貨的倫敦布倫特原油期貨價格下跌3.27美元，收於每桶71.99美元，跌幅為4.34%。"
-    },
-    {
-      "id": "4957949",
-      "time": "2026-06-27 03:30:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數26日下跌】美元指數26日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.07%，在匯市尾市收於101.357。截至紐約匯市尾市，1歐元兌換1.1386美元，高於前一交易日的1.1373美元；1英鎊兌換1.3200美元，高於前一交易日的1.3198美元。1美元兌換161.74日元，低於前一交易日的161.80日元；1美元兌換0.8097瑞士法郎，低於前一交易日的0.8098瑞士法郎；1美元兌換1.4192加元，低於前一交易日的1.4197加元；1美元兌換9.7409瑞典克朗，高於前一交易日的9.7352瑞典克朗。"
-    },
-    {
-      "id": "mkt:019f0569-6c28-7dd8-b13e-6cffefdc6f57",
-      "time": "2026-06-27 03:30:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "EURUSD",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "CFTC: week to June 23 — JPY net short 146,104 contracts; EUR net long 30,158 contracts; GBP net short 105,719 contracts; CHF net short 41,094 contracts."
     }
   ]
 }
