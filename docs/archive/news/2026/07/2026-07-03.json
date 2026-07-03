@@ -1,7 +1,129 @@
 {
   "date": "2026-07-03",
-  "count": 1380,
+  "count": 1394,
   "items": [
+    {
+      "id": "4969025",
+      "time": "2026-07-03 14:13:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1%，至6187.61點。"
+    },
+    {
+      "id": "4969024",
+      "time": "2026-07-03 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲1.4%，至8,844.30點。"
+    },
+    {
+      "id": "4969023",
+      "time": "2026-07-03 14:12:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長表示，伊美停火後經濟增長動能正在增強。"
+    },
+    {
+      "id": "4969022",
+      "time": "2026-07-03 14:12:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光啟旗下子公司與震有科技達成戰略合作】近日，光啟技術旗下子公司深圳光啟商業航天技術有限公司（簡稱“光啟商業航天”）與震有科技簽署戰略合作協議。雙方將精準對接商業航天與新一代衛星網際網路產業化發展需求，整合技術優勢，聯合攻堅關鍵技術、加速產業化成果落地。在技術攻堅層面，雙方將聯合攻關衛星網際網路終端與系統的關鍵技術，重點突破輕量化高效能天線、星載與地面裝置一體化設計等行業痛點，旨在打破現有技術瓶頸；在業務融合層面，雙方將形成涵蓋聯合研發、供應鏈協同、生產製造到市場推廣的全鏈條合作體系，將聯合研發的產品與技術解決方案推向國內外衛星網際網路運營商，共同打造具備國際競爭力的商業航天產品與解決方案。"
+    },
+    {
+      "id": "mkt:019f269b-5457-7aab-8c8c-c93ffabab025",
+      "time": "2026-07-03 14:12:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issued a Yellow Rainstorm Warning for Hong Kong."
+    },
+    {
+      "id": "4969021",
+      "time": "2026-07-03 14:12:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行公佈的資料顯示，第三季度GDP增長率為4%。"
+    },
+    {
+      "id": "mkt:019f269a-a0d0-7aab-8c8c-c276e0c74975",
+      "time": "2026-07-03 14:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's FTSE Straits Times Index rose 0.5% to a record high of 5,241.99."
+    },
+    {
+      "id": "4969020",
+      "time": "2026-07-03 14:11:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翌晶能源完成數千萬元Pre-A輪融資】7月3日，上海翌晶能源技術有限公司（簡稱“翌晶能源”）宣佈完成數千萬元Pre-A輪融資，本輪戰略融資由萬幫數字能源旗下科創投資平臺創星聚能與Starcharge共同完成。本輪融資將主要用於翌晶能源常州生產基地產能擴建、上海總部及研發中心升級、團隊擴張以及國內外示範工程專案建設。"
+    },
+    {
+      "id": "mkt:019f269a-6cc2-7aab-8c8c-be37c4fb5f87",
+      "time": "2026-07-03 14:11:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "002594.SZ",
+        "Impact bullish",
+        "601633.SS",
+        "000957.SZ"
+      ],
+      "text": "A-share auto OEM sector firmed amid choppy trading; JAC Motors and BYD rose over 5%, Zhongtong Bus gained more than 3%, SERES and Great Wall Motor also advanced."
+    },
+    {
+      "id": "4969019",
+      "time": "2026-07-03 14:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "4969018",
+      "time": "2026-07-03 14:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國團隊憑電池回收新技術獲2026年歐洲發明家獎】總部設在德國慕尼黑的歐洲專利局2日在柏林舉行頒獎典禮，公佈2026年歐洲發明家獎獲獎名單。中國發明家餘海軍、謝英豪憑藉智慧電池回收相關發明，榮獲2026年歐洲發明家獎（“非歐洲專利局成員國獎”類別），並同時獲得本屆歐洲發明家獎“人氣獎”。（新華社）"
+    },
+    {
+      "id": "mkt:019f2699-a83b-7aab-8c8c-b3dafc110b28",
+      "time": "2026-07-03 14:10:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French health minister: at least 2,025 excess deaths nationwide during June 18-28 heatwave】On July 3, French Health Minister Stéphanie Rist said preliminary data from Public Health France show at least 2,025 excess deaths nationwide during the June 18-28 heatwave. Rist cautioned the figure is provisional and does not yet include all regional data; a final assessment will be published after the summer."
+    },
+    {
+      "id": "4969017",
+      "time": "2026-07-03 14:10:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【汽車整車板塊震盪走強】汽車整車板塊震盪走強，江淮汽車、福田汽車、宇通客車、比亞迪、千里科技均漲超5%。相關ETF方面，智慧汽車ETF富國（515250）漲3.81%，成交額3047.23萬元，汽車零部件ETF華夏（562700）漲5.68%，成交額2959.39萬元。"
+    },
+    {
+      "id": "4969014",
+      "time": "2026-07-03 14:10:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長賈米爾稱該國經濟正逐步好轉。"
+    },
     {
       "id": "4969013",
       "time": "2026-07-03 14:09:58",
