@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-03 08:59:19",
-  "count": 13888,
+  "updated": "2026-07-03 09:03:43",
+  "count": 13883,
   "items": [
+    {
+      "id": "mkt:019f257e-7b36-7aab-8c87-22387dab8d61",
+      "time": "2026-07-03 09:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.95% in early trade on Friday, July 3, to 904.45 yuan/gram; Silver T+D gained 2.63% to 14,961 yuan/kg."
+    },
+    {
+      "id": "mkt:019f257e-7398-7aab-8c87-1852c1c96407",
+      "time": "2026-07-03 09:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Taiwan Stock Exchange Weighted Index opened down 770.95 points (1.65%) at 45,973.21 on Friday, July 3."
+    },
+    {
+      "id": "4968526",
+      "time": "2026-07-03 09:01:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【閃迪3D NAND快閃記憶體新品BiCS10 1Tb TLC開始提供樣品】當地時間7月2日，閃迪公司宣佈，其第10代3D NAND快閃記憶體技術BiCS10 1Tb TLC開始提供樣品。據閃迪介紹，BiCS10 TLC將儲存層數增加到332層，並整合了Toggle DDR6.0、SCA協議和PI-LTT技術，以支援高速、低功耗執行。"
+    },
+    {
+      "id": "4968525",
+      "time": "2026-07-03 09:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿爾伯塔省省長史密斯：計劃加大油砂投資以提高產量，從而充分利用新輸油管道。"
+    },
+    {
+      "id": "4968524",
+      "time": "2026-07-03 09:00:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內漲4%，現報171420.00元。"
+    },
+    {
+      "id": "mkt:019f257d-fb14-7aab-8c87-1526856ccb62",
+      "time": "2026-07-03 09:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened 0.19% higher."
+    },
+    {
+      "id": "4968523",
+      "time": "2026-07-03 09:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.6%至46,003.72點。"
+    },
+    {
+      "id": "mkt:019f257d-a520-7aab-8c87-0ff27f20819f",
+      "time": "2026-07-03 09:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China’s most-active futures were mostly higher. Palladium rose more than 4%; lithium carbonate and liquefied petroleum gas (LPG) gained over 3%; platinum, Shanghai silver and methanol climbed over 2%; bitumen and Shanghai gold were up about 2%. On the downside, alumina and polysilicon fell nearly 2%, iron ore dropped more than 1% and palm oil was down about 1%."
+    },
+    {
+      "id": "4968522",
+      "time": "2026-07-03 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.4%報46,545.14。"
+    },
+    {
+      "id": "4968521",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15020.00元。"
+    },
+    {
+      "id": "4968520",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.12%。"
+    },
+    {
+      "id": "4968519",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續漲3.88%，液化石油氣連續漲3.41%，鉑連續漲3.36%，白銀連續漲2.71%，甲醇連續漲2.40%，碳酸鋰連續漲2.11%。"
+    },
+    {
+      "id": "4968518",
+      "time": "2026-07-03 08:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉羅德里格斯表示，我以委內瑞拉的名義感謝外國援助者、美國總統特朗普和薩爾瓦多總統布克爾。"
+    },
     {
       "id": "mkt:019f257c-56cb-7aab-8c87-048970939228",
       "time": "2026-07-03 08:58:53",
@@ -127837,172 +127963,6 @@
         "其他"
       ],
       "text": "【6月25日679股獲融資買入超億元 中際旭創穫買入84.77億元居首】6月25日共有3467只個股獲融資資金買入，有679股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入84.77億元、63.90億元、57.67億元。"
-    },
-    {
-      "id": "4956072",
-      "time": "2026-06-26 09:03:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：到2030年新增保障性租賃住房5萬套以上】中共河南省委辦公廳、河南省人民政府辦公廳近日印發《關於推動城市高質量發展的實施方案》，方案提出，提升城市住房品質。壓實城市政府主體責任，因城施策控增量、去庫存、優供給，著力穩定房地產市場，加快構建房地產發展新模式。落實“好房子”建設導則，引導各城市每年打造2—3個“好房子”樣板。穩步推進城中村和危舊房改造，支援老舊住房自主更新、原拆原建，到2028年國家專項借款支援的城中村改造專案基本建成。持續推進2005年以前建成、基礎設施不完善的城鎮老舊小區改造。推動收購存量商品房重點用於保障性住房，到2030年新增保障性租賃住房5萬套以上。"
-    },
-    {
-      "id": "mkt:019f0173-ace3-7dd8-b128-4b9d53ab9354",
-      "time": "2026-06-26 09:03:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Henan to add at least 50,000 affordable rental units by 2030】Henan provincial party and government offices issued an implementation plan to boost high-quality urban development, tasking city governments with stabilizing the property market by city-specific supply control, inventory reduction and higher-quality housing supply. The plan mandates cities to deliver 2–3 annual model \"Good House\" projects, accelerate urban-village and dilapidated-housing redevelopment, support owner-led refurbishment and rebuild-on-original-footprint schemes, and complete nationally funded urban-village redevelopment projects by 2028. It requires continued renovation of urban neighborhoods built before 2005 and promotes acquisition of existing commercial housing for use as affordable rental housing, targeting an addition of over 50,000 affordable rental units by 2030. The plan also orders a property-service quality upgrade, aiming for full coverage of community property services and party-building within property service firms."
-    },
-    {
-      "id": "4956071",
-      "time": "2026-06-26 09:01:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲2%，現報3803.00元。"
-    },
-    {
-      "id": "4956070",
-      "time": "2026-06-26 09:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "據委內瑞拉衛生部通報，委內瑞拉強震遇難人數升至235人。"
-    },
-    {
-      "id": "4956069",
-      "time": "2026-06-26 09:01:28",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列】油價下行，但是由狂熱的AI投資驅動的新通脹可能正在成型，蘋果和微軟在同一天宣佈漲價，這可能不是巧合，AI軍備競賽的賬單開始轉嫁給普通消費者，一場由資料中心驅動的新一輪通脹正悄然成形，目前黃金市場無法消除通脹壓力的影響，且隨著美股科技股的市值劇烈膨脹疊加天量IPO抽血，美股資本市場也出現非AI資產被AI資產“抽血”資金的情況，黃金亦在受害者之列。"
-    },
-    {
-      "id": "mkt:019f0172-2b99-7dd8-b128-40313e9dad8e",
-      "time": "2026-06-26 09:01:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "At the morning open on Friday June 26, Shanghai Gold Exchange gold T+D rose 1.25% to 884.2 yuan/gram; silver T+D rose 0.91% to 14,050 yuan/kg."
-    },
-    {
-      "id": "mkt:019f0172-2b88-7dd8-b128-3f6255af4f16",
-      "time": "2026-06-26 09:01:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened 538.4 points lower, down 1.16% at 45,716.86 on Friday, June 26."
-    },
-    {
-      "id": "mkt:019f0171-d47c-7dd8-b128-354364513821",
-      "time": "2026-06-26 09:01:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military activity east of Wenzhou】China Maritime Safety Administration: Wenzhou maritime authority issued a navigation warning closing parts of the East China Sea east of Wenzhou to navigation for military activities from June 26 18:00 to June 28 18:00 (CST); entry prohibited."
-    },
-    {
-      "id": "mkt:019f0171-46c2-7dd8-b128-2eb5463e8d1e",
-      "time": "2026-06-26 09:00:28",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures opened 0.6% lower."
-    },
-    {
-      "id": "mkt:019f0171-391a-7dd8-b128-242029fcca9b",
-      "time": "2026-06-26 09:00:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the open, most-active domestic futures contracts were mixed. Low-sulfur fuel oil (LU) rose over 3%; propylene, container freight to Europe, LPG and polypropylene gained more than 2%; SC crude, Soybean No.1 and fuel oil climbed over 1%. On the downside, lithium carbonate fell over 4%; 20# rubber dropped more than 3%; rubber was down nearly 2%; iron ore and coke declined over 1%."
-    },
-    {
-      "id": "4956068",
-      "time": "2026-06-26 09:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1%至45,774.10點。"
-    },
-    {
-      "id": "4956067",
-      "time": "2026-06-26 09:00:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌4%，現報148900.00元。"
-    },
-    {
-      "id": "4956066",
-      "time": "2026-06-26 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.1%報46,188.60。"
-    },
-    {
-      "id": "4956065",
-      "time": "2026-06-26 09:00:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【英國私募巨頭MFS衝擊波蔓延，摩根士丹利曾是早期支持者】媒體看到的檔案顯示，摩根士丹利是華爾街最早支援Market Financial Solutions Ltd.（MFS）的機構之一，在該公司經歷繁榮並最終因揹負24億美元債務而破產之前，提升了這家英國私募信貸公司的信譽。檔案顯示，當MFS創始人、曾經的酒水商店老闆Paresh Raja拓展其英國抵押貸款業務時，摩根士丹利便為其提供了早期支援。"
-    },
-    {
-      "id": "4956064",
-      "time": "2026-06-26 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內漲1%，現報2974.00元。"
-    },
-    {
-      "id": "4956063",
-      "time": "2026-06-26 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.60%。"
-    },
-    {
-      "id": "4956062",
-      "time": "2026-06-26 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】碳酸鋰連續跌3.89%，低硫燃料油連續漲3.61%，20號膠連續跌3.49%，丙烯連續漲3.48%，液化石油氣連續漲2.68%，燃料油連續漲2.59%，聚丙烯連續漲2.22%，集運指數歐線期貨連續漲2.08%。"
-    },
-    {
-      "id": "te:markets:562030",
-      "time": "2026-06-26 08:59:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Set for Sharp Weekly Drop — Silver steadied near $58 an ounce on Friday but remained on track to lose about 12% for the week as hawkish signals from the US Federal Reserve outweighed support from the impact of US-Iran peace efforts. On Thursday, silver found some support after the latest US PCE inflation data came in broadly in line with expectations, easing fears of imminent Fed rate hikes and pushing the dollar and Treasury yields lower. Even so, markets are pricing in an 80% chance of a Fed rate hike in December following last week's hawkish pause, while the probability of a September increase stands at around 63%. Meanwhile, oil prices continued to retreat and have returned to pre-conflict levels as progress in US-Iran peace negotiations eased concerns over Middle East supply disruptions and further reduced inflation worries."
     }
   ]
 }

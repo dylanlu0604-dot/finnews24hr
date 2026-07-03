@@ -1,7 +1,133 @@
 {
   "date": "2026-07-03",
-  "count": 684,
+  "count": 697,
   "items": [
+    {
+      "id": "mkt:019f257e-7b36-7aab-8c87-22387dab8d61",
+      "time": "2026-07-03 09:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.95% in early trade on Friday, July 3, to 904.45 yuan/gram; Silver T+D gained 2.63% to 14,961 yuan/kg."
+    },
+    {
+      "id": "mkt:019f257e-7398-7aab-8c87-1852c1c96407",
+      "time": "2026-07-03 09:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Taiwan Stock Exchange Weighted Index opened down 770.95 points (1.65%) at 45,973.21 on Friday, July 3."
+    },
+    {
+      "id": "4968526",
+      "time": "2026-07-03 09:01:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【閃迪3D NAND快閃記憶體新品BiCS10 1Tb TLC開始提供樣品】當地時間7月2日，閃迪公司宣佈，其第10代3D NAND快閃記憶體技術BiCS10 1Tb TLC開始提供樣品。據閃迪介紹，BiCS10 TLC將儲存層數增加到332層，並整合了Toggle DDR6.0、SCA協議和PI-LTT技術，以支援高速、低功耗執行。"
+    },
+    {
+      "id": "4968525",
+      "time": "2026-07-03 09:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿爾伯塔省省長史密斯：計劃加大油砂投資以提高產量，從而充分利用新輸油管道。"
+    },
+    {
+      "id": "4968524",
+      "time": "2026-07-03 09:00:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內漲4%，現報171420.00元。"
+    },
+    {
+      "id": "mkt:019f257d-fb14-7aab-8c87-1526856ccb62",
+      "time": "2026-07-03 09:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened 0.19% higher."
+    },
+    {
+      "id": "4968523",
+      "time": "2026-07-03 09:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.6%至46,003.72點。"
+    },
+    {
+      "id": "mkt:019f257d-a520-7aab-8c87-0ff27f20819f",
+      "time": "2026-07-03 09:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China’s most-active futures were mostly higher. Palladium rose more than 4%; lithium carbonate and liquefied petroleum gas (LPG) gained over 3%; platinum, Shanghai silver and methanol climbed over 2%; bitumen and Shanghai gold were up about 2%. On the downside, alumina and polysilicon fell nearly 2%, iron ore dropped more than 1% and palm oil was down about 1%."
+    },
+    {
+      "id": "4968522",
+      "time": "2026-07-03 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.4%報46,545.14。"
+    },
+    {
+      "id": "4968521",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15020.00元。"
+    },
+    {
+      "id": "4968520",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.12%。"
+    },
+    {
+      "id": "4968519",
+      "time": "2026-07-03 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續漲3.88%，液化石油氣連續漲3.41%，鉑連續漲3.36%，白銀連續漲2.71%，甲醇連續漲2.40%，碳酸鋰連續漲2.11%。"
+    },
+    {
+      "id": "4968518",
+      "time": "2026-07-03 08:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉羅德里格斯表示，我以委內瑞拉的名義感謝外國援助者、美國總統特朗普和薩爾瓦多總統布克爾。"
+    },
     {
       "id": "mkt:019f257c-56cb-7aab-8c87-048970939228",
       "time": "2026-07-03 08:58:53",
