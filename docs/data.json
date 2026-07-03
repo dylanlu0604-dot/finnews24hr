@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 01:38:12",
+  "updated": "2026-07-04 01:42:06",
   "count": 13457,
   "items": [
+    {
+      "id": "mkt:019f2910-ec87-7aab-8c9a-057cdea5da45",
+      "time": "2026-07-04 01:40:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina abolishes Interior Ministry】Argentina's government late on the 2nd issued a decree abolishing the Interior Ministry and transferring its functions to the Chief of Cabinet's office. The office will assume coordination with provinces and cross-jurisdictional responsibilities previously handled by the Interior Ministry, and will manage federal-level tourism, environment, sports and science and technology. The decree also establishes two deputy cabinet minister posts to assist the chief of cabinet."
+    },
+    {
+      "id": "4970036",
+      "time": "2026-07-04 01:39:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷宣佈撤銷內政部】阿根廷政府2日宣佈撤銷內政部，將其職能轉移至內閣首席部長辦公室。阿根廷政府2日深夜在一份法令中宣佈，內閣首席部長辦公室將正式接管協調與各省的關係、處理跨轄區事務等此前由內政部承擔的職責，並且在聯邦層面管理旅遊、環境、體育、科學技術等事務。此外，該法令還設定兩個內閣副部長職務，協助內閣首席部長。（新華社）"
+    },
     {
       "id": "mkt:019f2908-c370-7aab-8c99-fa1c88af7d76",
       "time": "2026-07-04 01:31:07",
@@ -123883,22 +123899,6 @@
         "國際"
       ],
       "text": "美國商務部長盧特尼克稱讚歐盟推進美歐貿易協定相關立法。"
-    },
-    {
-      "id": "4957892",
-      "time": "2026-06-27 01:41:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列駐美國大使：這份三方框架協議以實際執行成效為基準。"
-    },
-    {
-      "id": "mkt:019f0506-17be-7dd8-b13c-b1e662223c0c",
-      "time": "2026-06-27 01:41:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's ambassador to the United States said the trilateral framework will be results-driven."
     }
   ]
 }
