@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 04:11:16",
-  "count": 13378,
+  "updated": "2026-07-04 04:15:05",
+  "count": 13370,
   "items": [
+    {
+      "id": "4970104",
+      "time": "2026-07-04 04:11:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至2645人】當地時間3日，委內瑞拉通訊部通報稱，地震造成的死亡人數上升至2645人，受傷人數上升至12666人，另有6462人獲救。地震還導致1074座建築不同程度受損，15050人流離失所。（央視新聞）"
+    },
     {
       "id": "4970103",
       "time": "2026-07-04 04:10:27",
@@ -123095,98 +123103,6 @@
         "國際"
       ],
       "text": "標普：基於標普對美國持續穩健增長以及可靠、有效的貨幣政策執行的預期，美國前景仍保持穩定。"
-    },
-    {
-      "id": "mkt:019f0592-3475-7dd8-b13f-345e282d81d5",
-      "time": "2026-06-27 04:14:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "S&P says U.S. outlook is stable, citing expectations of continued robust U.S. growth and monetary policy that is credible and effective."
-    },
-    {
-      "id": "mkt:019f0592-027b-7dd8-b13f-2d05244ee02c",
-      "time": "2026-06-27 04:14:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P: While Fannie Mae and Freddie Mac could potentially pursue IPOs, do not expect the U.S. government to relinquish control over their management."
-    },
-    {
-      "id": "4957997",
-      "time": "2026-06-27 04:14:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：儘管房利美與房地美存在首次公開募股的可能性，但不要指望美國政府會放棄對這兩家機構的管控權。"
-    },
-    {
-      "id": "mkt:019f058f-8d4b-7dd8-b13f-23ed61bb831f",
-      "time": "2026-06-27 04:12:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "S&P expects the Fed will continue to face challenges in reducing inf and addressing financial-market vulnerabilities."
-    },
-    {
-      "id": "mkt:019f058f-5233-7dd8-b13f-1924a700e17b",
-      "time": "2026-06-27 04:11:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "S&P expects the Federal Reserve to remain firmly committed to steering inf back toward its target."
-    },
-    {
-      "id": "4957996",
-      "time": "2026-06-27 04:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普關於美國市場觀點：預計強勁的人工智慧投資仍將是整體投資的核心推動力。"
-    },
-    {
-      "id": "mkt:019f058f-28d6-7dd8-b13f-11a05b215737",
-      "time": "2026-06-27 04:11:35",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P said it still expects key institutions and checks and balances to continue functioning, keeping policy outcomes stable despite rising U.S. political polarization."
-    },
-    {
-      "id": "4957995",
-      "time": "2026-06-27 04:11:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美稱設立軍事協調小組協助落實美以黎三方框架協議】當地時間6月26日，美國國務卿魯比奧釋出宣告表示，當日，美國、黎巴嫩和以色列簽署三方框架協議。宣告稱，該協議確立了一個清晰且有條理的程序，旨在恢復黎巴嫩主權，解除黎巴嫩真主黨武裝並拆除其基礎設施，同時確保在針對公民的威脅消除後，以色列能夠重返其邊界。協議還設立了由美國推動的“黎巴嫩三方軍事協調小組”，以協助雙方落實該框架協議。宣告還稱，美國將繼續參與相關程序，包括與聯合國協調，立即提供1億美元的人道主義援助。美國國防部準備依據現行授權及撥款，向黎巴嫩武裝部隊提供超過3000萬美元的資金，以支援黎巴嫩實現持久和平。美國計劃與地區夥伴密切合作，落實這一框架。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f058e-e373-7dd8-b13f-0cc0e9e667bd",
-      "time": "2026-06-27 04:11:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "S&P forecasts U.S. real GDP growth of about 2% annually from 2026 through 2029."
     }
   ]
 }
