@@ -1,7 +1,64 @@
 {
   "date": "2026-07-03",
-  "count": 1828,
+  "count": 1834,
   "items": [
+    {
+      "id": "4969374",
+      "time": "2026-07-03 16:47:50",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【7月5日起中國內地航線燃油附加費將下調】中國國航等航空公司7月3日釋出公告顯示，自7月5日0時起銷售的中國內地航線客票，燃油附加費將下調。下調後的具體標準為：800公里（含）以下航線每航段50元，800公里以上航線每航段100元。嬰兒旅客免收燃油附加費，兒童、革命傷殘軍人、因公致殘人民警察客票燃油附加費減半收取。據悉，對比現行燃油附加費標準，800公里（含）以下航線將下調30元，800公里以上航線將下調50元。(新華社)"
+    },
+    {
+      "id": "4969373",
+      "time": "2026-07-03 16:47:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天龍股份：董事、總經理辭職，聘任劉寶升為總經理】天龍股份公告稱，7月3日，董事、總經理沈朝暉因個人原因辭職，辭職後仍擔任董事長助理，其持有公司股份124.1萬股，佔總股本0.62%，存在未履行完畢的公開承諾。同日，公司召開董事會，同意聘任劉寶升為總經理，補選其為戰略委員會委員，任期均至第五屆董事會屆滿。劉寶升持有公司股票12.08萬股，佔總股本0.06%，符合任職條件。"
+    },
+    {
+      "id": "mkt:019f2729-3cb2-7aab-8c91-81ea99ca311a",
+      "time": "2026-07-03 16:47:21",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【ING: Japan may have intervened in the yen】ING analyst Francisco Pesole said Japanese authorities may have intervened in the yen on Thursday and could act again on Friday as liquidity thins for a U.S. holiday. USD/JPY fell in early Thursday trade even before weak U.S. nonfarm payrolls pushed it below 161.00, and Pesole said the initial dip could have been intervention-driven. He warned further intervention risk remains; Japan typically intervenes around holidays and spreads operations over multiple days, and acting after adverse dollar moves is consistent with its 2024 strategy."
+    },
+    {
+      "id": "4969372",
+      "time": "2026-07-03 16:46:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國太保：王明超副總裁任職資格獲核准】中國太保(601601)7月3日公告，公司近日收到國家金融監管總局批覆，國家金融監管總局已核准了王明超擔任公司副總裁的任職資格。"
+    },
+    {
+      "id": "4969371",
+      "time": "2026-07-03 16:46:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的在徐州成立新公司 註冊資本100萬】天眼查App顯示，7月1日，徐州美的數智樓宇裝置有限公司成立，法定代表人為張崴翰，註冊資本100萬人民幣，經營範圍包括家用電器銷售、機械電氣裝置銷售、工業自動控制系統裝置銷售等，由海南美的樓宇科技有限公司、佛山市美的空調工業投資有限公司共同持股。"
+    },
+    {
+      "id": "te:economy:564138",
+      "time": "2026-07-03 16:46:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "UK Services Sector Shrinks Sharply in June — The S&P Global UK Services PMI was revised slightly higher to 48.8 in June 2026 from a preliminary estimate of 48.7, but remained below May's reading of 49.3. The data showed the services sector contracted for a second consecutive month, with the pace of decline accelerating to its steepest since January 2023. Total new work received by service sector companies fell for the fourth consecutive month and the rate of contraction accelerated to its fastest since November 2022. Survey respondents attributed weaker demand to global inflationary pressures linked to the Middle East conflict and heightened domestic political uncertainty."
+    },
     {
       "id": "4969370",
       "time": "2026-07-03 16:45:05",
