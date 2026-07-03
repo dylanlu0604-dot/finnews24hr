@@ -1,7 +1,156 @@
 {
-  "updated": "2026-07-03 09:22:29",
-  "count": 13919,
+  "updated": "2026-07-03 09:26:16",
+  "count": 13927,
   "items": [
+    {
+      "id": "mkt:019f2595-0ce6-7aab-8c87-da06fcd6c711",
+      "time": "2026-07-03 09:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash yield snapshot】Tencent Licaitong (on-demand + 7-day) 7-day annualized yields ranged 0.7750–1.0700%. WeChat Lingqian Tong 7-day annualized yields ranged 0.9680–1.0040%. Alipay Yu'e Bao 7-day annualized yields ranged 1.0020–1.0240%."
+    },
+    {
+      "id": "4968588",
+      "time": "2026-07-03 09:25:30",
+      "tags": [],
+      "text": "三大股指開盤漲跌不一，滬指漲0.06％，深成指跌0.12％，創業板跌0.16％。"
+    },
+    {
+      "id": "mkt:019f2594-9d7f-7aab-8c87-d35da6cf9621",
+      "time": "2026-07-03 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "At the A-share open, the Shanghai Composite Index rose 0.06%; the Shenzhen Composite Index fell 0.12% and the ChiNext Index fell 0.16%."
+    },
+    {
+      "id": "4968587",
+      "time": "2026-07-03 09:25:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股快手高開超6%】港股快手高開超6%，訊息面上，據新京報報道，快手旗下影片生成大模型可靈AI落地近30億美元融資，投後估值有望達到180億美元。"
+    },
+    {
+      "id": "4968586",
+      "time": "2026-07-03 09:24:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲1.62%。"
+    },
+    {
+      "id": "4968585",
+      "time": "2026-07-03 09:24:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月講話之際，日元兌美元匯率升破161。"
+    },
+    {
+      "id": "4968584",
+      "time": "2026-07-03 09:24:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4200美元/盎司，日內漲1.80%。"
+    },
+    {
+      "id": "4968583",
+      "time": "2026-07-03 09:23:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）收復早盤失地，上漲1.2%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607033792778688",
+      "time": "2026-07-03 09:23:21",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展630億元7天逆回購操作】央行今日開展630億元7天逆回購操作，投標量630億元，中標量630億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f2592-ad73-7aab-8c87-ca04585096da",
+      "time": "2026-07-03 09:23:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the open in Hong Kong on July 3, the Hang Seng Index (HSI) rose 185.82 points, or 0.81%, to 23,240.85; the Hang Seng Tech Index gained 33.70 points, or 0.76%, to 4,487.98; the Hang Seng China Enterprises Index (HSCEI) added 62.07 points, or 0.82%, to 7,674.55; the Hang Seng Red Chip Index advanced 18.55 points, or 0.50%, to 3,754.15."
+    },
+    {
+      "id": "mkt:019f2592-8e3e-7aab-8c87-c1658960551a",
+      "time": "2026-07-03 09:23:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said specific monetary policy decisions should be made by the Bank of Japan."
+    },
+    {
+      "id": "4968582",
+      "time": "2026-07-03 09:22:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：經濟藍圖中關於日本央行的內容並無新意。"
+    },
+    {
+      "id": "4968581",
+      "time": "2026-07-03 09:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲約1%。"
+    },
+    {
+      "id": "mkt:019f2592-18fc-7aab-8c87-b8296781838c",
+      "time": "2026-07-03 09:22:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index is up about 1% intraday after earlier falling as much as 3%."
+    },
+    {
+      "id": "mkt:019f2591-c765-7aab-8c87-b5631773828d",
+      "time": "2026-07-03 09:22:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver 2608 contract rallied intraday, gains widening to 3.94% as price rose to 15,202 yuan/kg; turnover exceeded 123.0 bln yuan. Open interest increased by nearly 2,300 contracts intraday, with volume and OI activity rising in tandem."
+    },
+    {
+      "id": "4968580",
+      "time": "2026-07-03 09:22:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：期望日本央行在與政府協調的同時實施適當的貨幣政策。"
+    },
     {
       "id": "mkt:019f2591-9323-7aab-8c87-ab8d63b6e916",
       "time": "2026-07-03 09:22:05",
@@ -128214,79 +128363,6 @@
         "市場"
       ],
       "text": "現貨白銀日內跌1%，現報57.22美元/盎司。"
-    },
-    {
-      "id": "4956102",
-      "time": "2026-06-26 09:26:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國工黨敲定黨首選舉時間表】當地時間6月25日，英國工黨全國執行委員會召開會議，正式敲定新任黨首選舉時間表。根據會議決定，如果最終只有一名候選人獲得黨首提名資格，新任黨首將在7月17日舉行的工黨特別代表大會上正式宣佈產生。(央視新聞)"
-    },
-    {
-      "id": "4956101",
-      "time": "2026-06-26 09:25:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報2475.00元。"
-    },
-    {
-      "id": "mkt:019f0188-22b9-7dd8-b128-9c0318c2d6e3",
-      "time": "2026-06-26 09:25:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "At the open, China A-shares fell: Shanghai Composite down 0.52%, Shenzhen Composite Index down 0.81%, ChiNext Index down 1.20%. Largest sector declines: CPO, memory/storage chips and lab-grown diamonds."
-    },
-    {
-      "id": "4956100",
-      "time": "2026-06-26 09:25:19",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.52％，深成指跌0.81％，創業板跌1.2％。"
-    },
-    {
-      "id": "mkt:019f0187-d7e9-7dd8-b128-9206f9830797",
-      "time": "2026-06-26 09:25:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY 231.5 bln injection today; CNY 529.7 bln this week】PBOC conducted CNY 231.5 bln of 7-day reverse repos today; with no reverse-repo maturities, net injection was CNY 231.5 bln. This week the PBOC supplied CNY 2,265.5 bln of 7-day reverse repos and CNY 500.0 bln of 1-year MLF; maturities totaled CNY 1,935.8 bln of 7-day reverse repos and CNY 300.0 bln of 1-year MLF, yielding an aggregate net injection of CNY 529.7 bln for the week."
-    },
-    {
-      "id": "4956099",
-      "time": "2026-06-26 09:24:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和晶科技在無錫成立技術新公司】企查查APP顯示，近日，無錫和泓技術有限公司成立，經營範圍包括軟體開發，技術推廣服務，資訊系統整合服務等。企查查股權穿透顯示，該公司由和晶科技間接全資持股。"
-    },
-    {
-      "id": "4956098",
-      "time": "2026-06-26 09:23:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳海關原巡視員鍾保華接受審查調查】中央紀委國家監委網站6月26日通報，據中央紀委國家監委駐海關總署紀檢監察組、遼寧省紀委監委訊息：深圳海關原巡視員鍾保華涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐海關總署紀檢監察組紀律審查和遼寧省大連市監察委員會監察調查。"
-    },
-    {
-      "id": "4956097",
-      "time": "2026-06-26 09:23:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股開盤下跌3.2%。"
     }
   ]
 }

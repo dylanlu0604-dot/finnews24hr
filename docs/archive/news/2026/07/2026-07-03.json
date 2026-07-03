@@ -1,7 +1,156 @@
 {
   "date": "2026-07-03",
-  "count": 765,
+  "count": 781,
   "items": [
+    {
+      "id": "mkt:019f2595-0ce6-7aab-8c87-da06fcd6c711",
+      "time": "2026-07-03 09:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash yield snapshot】Tencent Licaitong (on-demand + 7-day) 7-day annualized yields ranged 0.7750–1.0700%. WeChat Lingqian Tong 7-day annualized yields ranged 0.9680–1.0040%. Alipay Yu'e Bao 7-day annualized yields ranged 1.0020–1.0240%."
+    },
+    {
+      "id": "4968588",
+      "time": "2026-07-03 09:25:30",
+      "tags": [],
+      "text": "三大股指開盤漲跌不一，滬指漲0.06％，深成指跌0.12％，創業板跌0.16％。"
+    },
+    {
+      "id": "mkt:019f2594-9d7f-7aab-8c87-d35da6cf9621",
+      "time": "2026-07-03 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "At the A-share open, the Shanghai Composite Index rose 0.06%; the Shenzhen Composite Index fell 0.12% and the ChiNext Index fell 0.16%."
+    },
+    {
+      "id": "4968587",
+      "time": "2026-07-03 09:25:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股快手高開超6%】港股快手高開超6%，訊息面上，據新京報報道，快手旗下影片生成大模型可靈AI落地近30億美元融資，投後估值有望達到180億美元。"
+    },
+    {
+      "id": "4968586",
+      "time": "2026-07-03 09:24:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲1.62%。"
+    },
+    {
+      "id": "4968585",
+      "time": "2026-07-03 09:24:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月講話之際，日元兌美元匯率升破161。"
+    },
+    {
+      "id": "4968584",
+      "time": "2026-07-03 09:24:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4200美元/盎司，日內漲1.80%。"
+    },
+    {
+      "id": "4968583",
+      "time": "2026-07-03 09:23:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）收復早盤失地，上漲1.2%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607033792778688",
+      "time": "2026-07-03 09:23:21",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展630億元7天逆回購操作】央行今日開展630億元7天逆回購操作，投標量630億元，中標量630億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f2592-ad73-7aab-8c87-ca04585096da",
+      "time": "2026-07-03 09:23:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the open in Hong Kong on July 3, the Hang Seng Index (HSI) rose 185.82 points, or 0.81%, to 23,240.85; the Hang Seng Tech Index gained 33.70 points, or 0.76%, to 4,487.98; the Hang Seng China Enterprises Index (HSCEI) added 62.07 points, or 0.82%, to 7,674.55; the Hang Seng Red Chip Index advanced 18.55 points, or 0.50%, to 3,754.15."
+    },
+    {
+      "id": "mkt:019f2592-8e3e-7aab-8c87-c1658960551a",
+      "time": "2026-07-03 09:23:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said specific monetary policy decisions should be made by the Bank of Japan."
+    },
+    {
+      "id": "4968582",
+      "time": "2026-07-03 09:22:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：經濟藍圖中關於日本央行的內容並無新意。"
+    },
+    {
+      "id": "4968581",
+      "time": "2026-07-03 09:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲約1%。"
+    },
+    {
+      "id": "mkt:019f2592-18fc-7aab-8c87-b8296781838c",
+      "time": "2026-07-03 09:22:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index is up about 1% intraday after earlier falling as much as 3%."
+    },
+    {
+      "id": "mkt:019f2591-c765-7aab-8c87-b5631773828d",
+      "time": "2026-07-03 09:22:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver 2608 contract rallied intraday, gains widening to 3.94% as price rose to 15,202 yuan/kg; turnover exceeded 123.0 bln yuan. Open interest increased by nearly 2,300 contracts intraday, with volume and OI activity rising in tandem."
+    },
+    {
+      "id": "4968580",
+      "time": "2026-07-03 09:22:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：期望日本央行在與政府協調的同時實施適當的貨幣政策。"
+    },
     {
       "id": "mkt:019f2591-9323-7aab-8c87-ab8d63b6e916",
       "time": "2026-07-03 09:22:05",
