@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04 04:03:37",
-  "count": 13392,
+  "updated": "2026-07-04 04:07:27",
+  "count": 13391,
   "items": [
+    {
+      "id": "4970101",
+      "time": "2026-07-04 04:05:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷6月份汽車出口量為22373輛。"
+    },
+    {
+      "id": "4970100",
+      "time": "2026-07-04 04:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷6月份汽車產量為37,029輛。"
+    },
+    {
+      "id": "4970099",
+      "time": "2026-07-04 04:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷6月份汽車銷量為44,096輛。"
+    },
+    {
+      "id": "4970098",
+      "time": "2026-07-04 04:04:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士寶盛銀行（Swissquote Bank）高階分析師Ipek Ozkardeskaya）表示：“最終將由通脹資料來決定這一轉變是否會持續……我們可能會看到美元鞏固近期的漲幅，未來幾天黃金和主要貨幣的上漲空間有限。”"
+    },
     {
       "id": "4970097",
       "time": "2026-07-04 04:03:01",
@@ -123283,46 +123315,6 @@
         "國際"
       ],
       "text": "標普全球評級確認美國主權實時全額結算系統評級為 AA+/A-1+，展望維持穩定。"
-    },
-    {
-      "id": "mkt:019f058a-50bf-7dd8-b13e-e43212a2be96",
-      "time": "2026-06-27 04:06:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli airstrikes in Gaza kill four, including three Gaza Interior Ministry police】Palestinian health officials said Israeli military airstrikes across the Gaza Strip killed four people. An Israeli drone struck a car near the entrance to the al‑Maghazi refugee camp in central Gaza, killing three and wounding several others. A separate strike in the northern town of Beit Lahiya killed a Palestinian youth. Three of the dead were police from the Gaza Interior Ministry, which is controlled by Hamas."
-    },
-    {
-      "id": "4957984",
-      "time": "2026-06-27 04:05:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列空襲加沙地帶多地致4人死亡】巴勒斯坦衛生部門訊息人士26日告訴新華社記者，以色列軍方當天對加沙地帶多地發動襲擊，造成4人死亡，其中包括3名隸屬於巴勒斯坦伊斯蘭抵抗運動（哈馬斯）控制的加沙內政部警察。訊息人士稱，一架以軍無人機向加沙地帶中部馬加齊難民營入口附近的一輛汽車發動空襲，導致3人死亡，另有多人受傷。同日，一名巴勒斯坦青年在加沙地帶北部拜特拉希亞鎮遭以軍空襲身亡。巴勒斯坦加沙地帶內政部門當日發表宣告證實，3名內政部警察在以軍對馬加齊難民營的空襲中身亡。目前，以軍尚未就這兩起事件作出回應。巴勒斯坦加沙地帶衛生部門25日釋出的最新資料顯示，自2025年10月10日加沙停火第一階段協議生效以來，已有1031名巴勒斯坦人在以方軍事行動中死亡、3309人受傷。（新華社）"
-    },
-    {
-      "id": "4957983",
-      "time": "2026-06-27 04:04:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "針對伊朗校園襲擊事件的調查仍在推進審查中，調查襲擊事件過程中發現多處失誤，美國分析師相關言論位列其中。"
-    },
-    {
-      "id": "4957982",
-      "time": "2026-06-27 04:04:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方分析師失實言論遭調查，該言論關聯造成傷亡的伊朗校園襲擊事件。"
-    },
-    {
-      "id": "4957981",
-      "time": "2026-06-27 04:03:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉石油部長表示，國內天然氣供應量足以滿足本土需求。"
     }
   ]
 }
