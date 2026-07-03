@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-03 14:22:16",
-  "count": 13863,
+  "updated": "2026-07-03 14:26:14",
+  "count": 13860,
   "items": [
+    {
+      "id": "4969042",
+      "time": "2026-07-03 14:25:09",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【包承超入職中信證券 任研究部策略大組長】中國證券業協會執業資訊顯示，國聯民生證券研究所前常務副總經理兼策略首席分析師包承超已於7月2日正式加盟中信證券，出任研究部策略大組長一職。"
+    },
+    {
+      "id": "4969041",
+      "time": "2026-07-03 14:25:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲2%。"
+    },
+    {
+      "id": "4969040",
+      "time": "2026-07-03 14:23:18",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【巨量引擎釋出自研廣告治理大模型Mamoda2.5】7月3日，巨量引擎正式釋出自研廣告治理大模型Mamoda2.5版本。據介紹，從1.0版本的文字單點識別起步，Mamoda的能力邊界逐步擴充套件至圖片、短影片，本次2.5版本覆蓋影片全形態。"
+    },
+    {
+      "id": "4969039",
+      "time": "2026-07-03 14:23:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【報告：最新美國就業資料料表明美聯儲今年利率將維持不變】全球經濟學家Mohit Kumar在一份報告中表示，美國6月份就業資料（新增就業人數少於分析師預期）支援了Jefferies的觀點，即美聯儲今年不會加息。他寫道：“美國經濟依然充滿韌性，但就業資料還不夠強勁，不足以要求加息。“他表示，在未來幾個月，對於美聯儲的預期而言，通脹資料可能比就業資料更重要。“但除非通脹資料大幅超出預期，否則我們認為就業資料將為我們在未來幾周的首選交易開綠燈——做多股票、做多信用債和做多前端利率。”"
+    },
+    {
+      "id": "4969038",
+      "time": "2026-07-03 14:22:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊持續上漲 盟升電子、龍溪股份等漲停】商業航天板塊持續上漲，盟升電子、龍溪股份等漲停，豪能股份、航天環宇等股漲幅靠前。"
+    },
+    {
+      "id": "4969037",
+      "time": "2026-07-03 14:22:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團：將在韓國新建人工智慧資料中心，投資規模達140萬億韓元。"
+    },
+    {
+      "id": "4969036",
+      "time": "2026-07-03 14:21:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞銀：上調藥明生物目標價至51.1港元，重申“買入”評級】瑞銀髮表報告，該行主持了藥明生物的醫療保健線上巡迴會議，管理層在會上重申2026年收入同比增長13%至17%的指引(扣除匯率影響為16%至20%)，儘管面臨持續的匯率壓力，仍顯示出管理層對潛在需求和營運執行的信心。繼1月至4月的強勁表現後，5月至6月的新訂單動能維持健康，其中歐洲和美國市場持續增長，中國市場亦呈現穩健復甦趨勢。新技術平臺特別是雙特異性抗體(bispecifics)仍是主要驅動因素。該行指出，藥明生物的定價趨勢正變得更加有利，新合同價格上漲5%至15%，高於往年3%至5%的歷史漲幅。產能擴張方面，管理層透露中國區產能明年可能接近滿產，海外如新加坡及愛爾蘭等地的產能建設亦進展順利。該行上調藥明生物2027至2029財年的收入預測，因此將其基於現金流折現(DCF)計算的目標價由49.3港元升至51.1港元，並重申“買入”評級。"
+    },
     {
       "id": "mkt:019f26a3-a0ad-7aab-8c8c-eef47ceb1d4f",
       "time": "2026-07-03 14:21:25",
@@ -127580,100 +127641,6 @@
         "公司"
       ],
       "text": "【國城礦業：“趙滿堂實際控制國城礦業”為不實資訊】關於“多家財經媒體報道，趙滿堂實際控制國城礦業，是否真實”的問題，國城礦業在互動平臺表示，該報道為不實資訊，公司已於第一時間對接涉事媒體，督促其完成內容更正。"
-    },
-    {
-      "id": "4956583",
-      "time": "2026-06-26 14:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達400億元】中際旭創成交額達400億元，現跌4.48%。"
-    },
-    {
-      "id": "te:markets:562118",
-      "time": "2026-06-26 14:26:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were set to open lower on Friday, tracking losses across global markets as the selloff in technology stocks intensified amid persistent concerns over heavy spending on artificial intelligence infrastructure. Sentiment was also dampened by reports that OpenAI may postpone its initial public offering until 2027. Meanwhile, oil prices continued to retreat to pre-war levels as progress in US-Iran peace efforts eased inflation concerns, though expectations that the US Federal Reserve will still raise interest rates later this year continued to weigh on equities. In Europe, investors will focus on Eurozone consumer inflation expectations, Italian business and consumer confidence, and French jobless claims data. No major corporate earnings are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were down 0.8% and 0.7%, respectively."
-    },
-    {
-      "id": "mkt:019f0299-bc00-7dd8-b12e-f2962b74823e",
-      "time": "2026-06-26 14:24:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "EQUINOR said it will continue investing in long-term partnerships with Japanese firms across technology development, commodities, capital markets and supply chains."
-    },
-    {
-      "id": "mkt:019f0299-b16a-7dd8-b12e-ee281d144f18",
-      "time": "2026-06-26 14:24:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Equinor said the decision reflects a strategic reassessment and a further shift toward integrated power markets."
-    },
-    {
-      "id": "mkt:019f0299-9845-7dd8-b12e-e1a158639c81",
-      "time": "2026-06-26 14:24:08",
-      "tags": [
-        "MKT News",
-        "EQNR.O",
-        "Impact bearish"
-      ],
-      "text": "Equinor has decided to exit its offshore wind business in Japan; its Tokyo office will close by end-2026."
-    },
-    {
-      "id": "4956582",
-      "time": "2026-06-26 14:24:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "‌挪威國家石油公司Equinor：決定結束在日本的離岸風電業務，東京辦公室將在2026年底前關閉。將繼續推進與日本企業在技術開發、大宗商品、資本市場及整個供應鏈領域的長期合作關係。這一決定反映了對戰略方向的重新評估，進一步聚焦於綜合電力市場。"
-    },
-    {
-      "id": "4956581",
-      "time": "2026-06-26 14:22:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "鐵礦石2609盤中快速拉昇，漲幅擴大至1.35%，最新報752元/噸；成交額約202.83億元，日內減倉1.97萬手，盤面呈現減倉上行特徵。"
-    },
-    {
-      "id": "mkt:019f0298-543b-7dd8-b12e-def7d9d718a0",
-      "time": "2026-06-26 14:22:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Iron ore 2609 contract rallied intraday, rising as much as 1.35% to 752 yuan/ton. Turnover was about 20.283 billion yuan; open interest fell by 19,700 lots intraday, signaling price gains accompanied by position reductions."
-    },
-    {
-      "id": "4956580",
-      "time": "2026-06-26 14:22:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【義大利監管機構就“Microsoft 365”漲價一事對微軟展開調查】義大利反壟斷監管機構週五表示，已針對微軟公司展開調查，原因是該公司涉嫌在“Microsoft 365”訂閱服務漲價過程中存在不公平商業行為。該監管機構稱，這家Windows系統製造商未充分告知消費者，其Microsoft 365服務已與人工智慧工具Copilot和Designer整合。該監管機構在宣告中補充道，除非消費者主動選擇退出，否則將被自動轉入更昂貴的訂閱套餐，而他們收到的資訊不足以決定是否續約。監管機構還指出，這家科技巨頭的做法可能被視為“強硬”，因為它不當限制了消費者的選擇自由。微軟尚未立即對此置評。"
-    },
-    {
-      "id": "4956579",
-      "time": "2026-06-26 14:22:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026南京軟體大會在南京國際博覽中心開幕】2026南京軟體大會由江蘇省工業和資訊化廳指導，南京市人民政府主辦，南京市工業和資訊化局、中國（南京）軟體谷管委會、工業和資訊化部電子第五研究所、南京市軟體叢集發展促進機構共同承辦。6月26日至27日，大會聚焦軟體產業智慧化、自主工業軟體、鴻蒙、開源生態等重點細分領域，將舉辦1場主題大會、7場重大專場活動。全市各板塊、園區和重點企業同期還將聯動舉辦6場專題活動。"
     }
   ]
 }
