@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-04 03:26:02",
-  "count": 13412,
+  "updated": "2026-07-04 03:29:48",
+  "count": 13408,
   "items": [
+    {
+      "id": "mkt:019f2973-459b-7aab-8c9a-ac2cf866b69c",
+      "time": "2026-07-04 03:27:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【REUTERS SURVEY: OPEC output rebounds strongly from 20-plus-year low】REUTERS SURVEY: OPEC crude output rose sharply in June, up roughly 3.3 mln bpd MoM to about 19.43 mln bpd, rebounding from May’s 20-plus-year low but remaining well below quota levels. The increase was led by Gulf producers restoring supply—Kuwait the largest contributor—while Iran, Saudi Arabia and Iraq also added, with Nigeria and Libya posting smaller gains; the UAE exited OPEC on May 1 and is excluded from the figures. The report says prior conflict involving Iran and an effective Strait of Hormuz blockade had disrupted flows; the US then lifted restrictions on vessels calling at Iranian ports, allowing some output to return. OPEC+ had planned June increases but could not fully implement them due to the conflict; overall global oil supply is repairing but not yet back to normal."
+    },
+    {
+      "id": "mkt:019f2972-fd16-7aab-8c9a-a5e32248b810",
+      "time": "2026-07-04 03:27:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump pardoned six people prosecuted for \"fixing cars\"."
+    },
     {
       "id": "4970074",
       "time": "2026-07-04 03:25:20",
@@ -123441,61 +123462,6 @@
         "Impact bearish"
       ],
       "text": "CFTC: week to June 23 — JPY net short 146,104 contracts; EUR net long 30,158 contracts; GBP net short 105,719 contracts; CHF net short 41,094 contracts."
-    },
-    {
-      "id": "4957948",
-      "time": "2026-06-27 03:29:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年6月23日的當周，比特幣淨多頭頭寸為3524張合約。"
-    },
-    {
-      "id": "mkt:019f0568-52c9-7dd8-b13e-62ab56bfc71c",
-      "time": "2026-06-27 03:29:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week ended June 23, equity fund managers increased CME S&P 500 futures net-long positions by 4,547 contracts to 987,977 contracts. Equity fund speculators cut CME S&P 500 futures net-short positions by 146,022 contracts to 355,669 contracts."
-    },
-    {
-      "id": "4957947",
-      "time": "2026-06-27 03:28:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，股票基金投機者將芝加哥商品交易所（CME）標普500淨空頭持倉削減146,022手，至355,669手。"
-    },
-    {
-      "id": "4957946",
-      "time": "2026-06-27 03:28:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月23日當週，股票基金經理將芝加哥商業交易所（CME）標普500淨多頭頭寸增加4547張合約，至987977張合約。"
-    },
-    {
-      "id": "4957945",
-      "time": "2026-06-27 03:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員阿齊茲：霍爾木茲海峽由伊朗掌控，因此各方須遵守以下要求：恪守相關規則；選擇安全航道通行；勿將我方管控舉措誤判為局勢升級。倘若各方拒不遵守規則，伊朗武裝力量將親自教你們認清底線。此舉並非破壞停火協議，而是對停火態勢實施管控。"
-    },
-    {
-      "id": "4957944",
-      "time": "2026-06-27 03:27:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "松市場訊息：在烏克蘭發動大規模無人機襲擊後，俄羅斯國內民族主義陣營呼籲俄方採取強硬報復手段，其中包括動用戰術核武器。"
     }
   ]
 }

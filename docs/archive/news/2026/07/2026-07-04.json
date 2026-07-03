@@ -1,7 +1,28 @@
 {
   "date": "2026-07-04",
-  "count": 127,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:019f2973-459b-7aab-8c9a-ac2cf866b69c",
+      "time": "2026-07-04 03:27:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【REUTERS SURVEY: OPEC output rebounds strongly from 20-plus-year low】REUTERS SURVEY: OPEC crude output rose sharply in June, up roughly 3.3 mln bpd MoM to about 19.43 mln bpd, rebounding from May’s 20-plus-year low but remaining well below quota levels. The increase was led by Gulf producers restoring supply—Kuwait the largest contributor—while Iran, Saudi Arabia and Iraq also added, with Nigeria and Libya posting smaller gains; the UAE exited OPEC on May 1 and is excluded from the figures. The report says prior conflict involving Iran and an effective Strait of Hormuz blockade had disrupted flows; the US then lifted restrictions on vessels calling at Iranian ports, allowing some output to return. OPEC+ had planned June increases but could not fully implement them due to the conflict; overall global oil supply is repairing but not yet back to normal."
+    },
+    {
+      "id": "mkt:019f2972-fd16-7aab-8c9a-a5e32248b810",
+      "time": "2026-07-04 03:27:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump pardoned six people prosecuted for \"fixing cars\"."
+    },
     {
       "id": "4970074",
       "time": "2026-07-04 03:25:20",
