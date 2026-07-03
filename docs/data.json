@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-03 10:40:55",
-  "count": 13886,
+  "updated": "2026-07-03 10:44:48",
+  "count": 13887,
   "items": [
+    {
+      "id": "4968759",
+      "time": "2026-07-03 10:44:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指一度上漲2.5%至5,885.422點。"
+    },
+    {
+      "id": "4968758",
+      "time": "2026-07-03 10:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特斯拉Model Y L在美上市 售價61990美元】特斯拉週四宣佈在美國市場推出 Model Y L車型，目前可在官網訂購，首發售價 61990 美元，僅提供全輪驅動、長軸距一種版本。"
+    },
+    {
+      "id": "4968757",
+      "time": "2026-07-03 10:43:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼指標股指一度上漲2.5%至5,885.422點。"
+    },
+    {
+      "id": "4968756",
+      "time": "2026-07-03 10:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東方A成交額超200億元，現跌超6%。"
+    },
+    {
+      "id": "mkt:019f25db-05ed-7aab-8c89-e5cdf1bb0439",
+      "time": "2026-07-03 10:42:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong to launch long‑planned gold clearing and settlement system next week, sources say】Sources say the Hong Kong government will launch a long‑planned gold clearing and settlement system next week and plans to process the first gold settlement via the new system on Tuesday. Market participants report large physical flows out of London, the US and Europe, with large-format bars being air‑freighted to Asia ahead of the start. The move could trigger near‑term volatility in the London gold market as participants rebalance. If the system draws significant international and local bank participation, Hong Kong could shift from a price taker to a price setter in global gold pricing."
+    },
+    {
+      "id": "mkt:019f25da-98ff-7aab-8c89-deecd9a9bf36",
+      "time": "2026-07-03 10:41:50",
+      "tags": [
+        "MKT News",
+        "002916.SZ",
+        "Impact bullish",
+        "002463.SZ",
+        "002938.SZ"
+      ],
+      "text": "China A-share PCB sector firmed after choppy trading; Shennan Circuits hit limit-up, while Hudian, Shengyi Technology, Pengding Holdings and Guanghe Technology also advanced."
+    },
+    {
+      "id": "4968755",
+      "time": "2026-07-03 10:41:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數震盪上行】三大指數震盪上行，深成指漲超1%，創業板指漲1.24%，滬指漲0.48%。全市場3400家個股上漲。"
+    },
+    {
+      "id": "4968754",
+      "time": "2026-07-03 10:41:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：07月03日10時31分在印尼哈馬黑拉島附近（北緯1.45度，東經127.77度）發生6.3級左右地震（深源），最終結果以正式速報為準。"
+    },
+    {
+      "id": "te:economy:563972",
+      "time": "2026-07-03 10:40:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Snaps 2-Session Gains — Australia’s 10-year government bond yield slipped to around 4.8% on Friday, ending a two-session advance as investors assessed major banks’ hawkish interpretations of the Reserve Bank of Australia’s June meeting minutes. Although markets continued to price only a 15% chance of an August rate hike and roughly even odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing repeated references to excess demand and capacity constraints as evidence that the RBA remains concerned about inflationary pressures. Likewise, ANZ said the minutes reinforced the risk of a further rate increase while maintaining its core rate forecast. On the economic front, Australia’s S&P Global Composite PMI was revised up to 50.4 in June from a preliminary reading of 49.8, supported by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7)."
+    },
+    {
+      "id": "te:economy:563971",
+      "time": "2026-07-03 10:40:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Vietnam Retail Sales Growth Strongest Since 2023 — Retail sales in Vietnam rose by 14.8% year-on-year in June 2026, accelerating from an 11.8% increase in the previous month and marking the strongest growth since January 2023. All major categories recorded stronger growth, with retail sales of goods, representing 75.6% of total activity, increasing 13.4% after rising 11.3% in May. Sales also strengthened further in accommodation, food, and beverage services (19.7% vs. 15.4%), travel and tourism (24.9% vs. 15.4%), and other services (17.9% vs. 10.8%). In the first half of 2026, total retail sales rose 12.9% compared with the same period a year earlier."
+    },
     {
       "id": "4968753",
       "time": "2026-07-03 10:40:05",
@@ -127876,91 +127975,6 @@
         "公司"
       ],
       "text": "本田執行長三部敏宏：其他市場“新興勢力”的增長速度極快，如果我們無法與之競爭，四輪業務未來將面臨非常嚴峻的挑戰。"
-    },
-    {
-      "id": "4956305",
-      "time": "2026-06-26 10:44:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念震盪走弱 科興製藥跌超10%】創新藥概念盤中震盪走弱，科興製藥跌超10%，此前海欣股份、通化金馬跌停，海南海藥、迪哲醫藥、翰宇藥業、益方生物等跌幅靠前。"
-    },
-    {
-      "id": "mkt:019f01d0-8d91-7dd8-b12b-389995b53a04",
-      "time": "2026-06-26 10:44:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Power supply seen tight in parts of East, Central, Southwest and South China】China's National Energy Administration says national electricity supply and demand are broadly balanced, but some provinces in East, Central, Southwest and South China face tighter supply. The agency says interprovincial power transfers and other mutual-aid measures can effectively secure supply in those areas."
-    },
-    {
-      "id": "4956304",
-      "time": "2026-06-26 10:44:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位官員透露：以色列和黎巴嫩的會談將於週五繼續進行。"
-    },
-    {
-      "id": "4956303",
-      "time": "2026-06-26 10:43:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "本田CEO：我們的重點是美國、日本和印度市場，在這些市場中，“新興力量”的影響相對較小，我們有成功的機會。"
-    },
-    {
-      "id": "4956302",
-      "time": "2026-06-26 10:41:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江波龍在中山成立積體電路公司 註冊資本1億元】企查查APP顯示，近日，邁仕渡積體電路（中山）有限公司成立，法定代表人為蔡麗江，註冊資本為1億元，經營範圍包含：積體電路製造；積體電路設計；積體電路晶片及產品製造；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由江波龍(301308)間接全資持股。"
-    },
-    {
-      "id": "mkt:019f01ce-2aea-7dd8-b12b-37da8dd184c8",
-      "time": "2026-06-26 10:41:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "01958.HK",
-        "Impact bearish",
-        "09866.HK",
-        "01211.HK"
-      ],
-      "text": "Hong Kong-listed auto stocks continued to slide; Beijing Auto (01958.HK) fell more than 9%, NIO-SW (09866.HK) and BYD Co. (01211.HK) dropped over 5%, and GAC Group (02238.HK) and XPeng (09868.HK) declined over 4%."
-    },
-    {
-      "id": "4956301",
-      "time": "2026-06-26 10:41:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：預計華東、華中、西南、南方部分省份電力供應偏緊】國家能源局：我們研判全國電力供需總體平衡，其中華東、華中、西南、南方區域的部分省份供應偏緊，透過跨省區的電力互濟等手段，這些地區的電力供應可以得到有效保障。（中國經營報）"
-    },
-    {
-      "id": "4956300",
-      "time": "2026-06-26 10:41:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報8353.20點。"
-    },
-    {
-      "id": "4956299",
-      "time": "2026-06-26 10:41:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1168.61美元/盎司。"
     }
   ]
 }
