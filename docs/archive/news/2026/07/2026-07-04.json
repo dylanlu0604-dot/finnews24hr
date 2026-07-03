@@ -1,7 +1,47 @@
 {
   "date": "2026-07-04",
-  "count": 21,
+  "count": 25,
   "items": [
+    {
+      "id": "mkt:019f28db-b6c4-7aab-8c99-7a1caeb49144",
+      "time": "2026-07-04 00:41:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "FITCH is reassessing persistent Iran-related risks to the global corporate sector."
+    },
+    {
+      "id": "4970016",
+      "time": "2026-07-04 00:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級重新評估伊朗相關因素對全球企業部門造成的持續風險。"
+    },
+    {
+      "id": "4970015",
+      "time": "2026-07-04 00:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級強調稱2026年基準油價假設面臨下行風險。"
+    },
+    {
+      "id": "mkt:019f28d9-cd89-7aab-8c99-771b491f3f37",
+      "time": "2026-07-04 00:39:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH says its 2026 benchmark oil-price assumption faces downside risk."
+    },
     {
       "id": "4970014",
       "time": "2026-07-04 00:35:23",
