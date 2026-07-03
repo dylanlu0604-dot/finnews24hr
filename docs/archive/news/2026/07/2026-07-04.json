@@ -1,7 +1,43 @@
 {
   "date": "2026-07-04",
-  "count": 74,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:019f2927-d415-7aab-8c9a-32de42e30f35",
+      "time": "2026-07-04 02:05:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "AIR.PA",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Airbus CEO says political leaders in Berlin and Paris are eager to find a cooperative solution."
+    },
+    {
+      "id": "mkt:019f2927-bfac-7aab-8c9a-2ebee9be4ffd",
+      "time": "2026-07-04 02:04:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Brazilian government data show June crude oil exports were 8.48 mln tonnes, up from 7.95 mln tonnes a year earlier."
+    },
+    {
+      "id": "mkt:019f2927-be6b-7aab-8c9a-278d9a431256",
+      "time": "2026-07-04 02:04:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Brazilian government data: June soybean exports 14.50 mln tonnes, up 8.1% YoY from 13.42 mln tonnes; June iron ore exports 42.23 mln tonnes, up 17.7% YoY from 35.87 mln tonnes."
+    },
     {
       "id": "4970043",
       "time": "2026-07-04 02:01:50",
