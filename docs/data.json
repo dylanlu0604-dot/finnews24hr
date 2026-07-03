@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-03 23:53:35",
-  "count": 13515,
+  "updated": "2026-07-03 23:57:34",
+  "count": 13518,
   "items": [
+    {
+      "id": "mkt:019f28b2-4580-7aab-8c99-5136f22979c5",
+      "time": "2026-07-03 23:56:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Iranian Students' News Agency (ISNA) reported Iran and Pakistan held talks after the funeral of Iran's former supreme leader Khamenei."
+    },
+    {
+      "id": "4970003",
+      "time": "2026-07-03 23:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 哈梅內伊葬禮結束後，伊朗與巴基斯坦舉行會談。"
+    },
+    {
+      "id": "mkt:019f28b1-61c1-7aab-8c99-48b097a87beb",
+      "time": "2026-07-03 23:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NPC Standing Committee vice chairman He Wei represents China at Tehran funeral for Iran's late supreme leader Khamenei】July 2-3 — NPC Standing Committee vice chairman He Wei represented China at the funeral in Tehran for Iran's late supreme leader Khamenei. He met President Pezeshkian and Parliament Speaker Ghalibaf, and said China welcomes the Iran‑US memorandum of understanding, urging both sides to implement existing outcomes, maintain the ceasefire, act rationally and pragmatically, and consolidate negotiation momentum. He also urged that the Strait of Hormuz issue be properly handled and called for harmonious relations among regional states."
+    },
+    {
+      "id": "4970002",
+      "time": "2026-07-03 23:55:08",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【全國人大常委會副委員長何維代表中方出席伊朗已故最高領袖哈梅內伊葬禮 】7月2日至3日，全國人大常委會副委員長何維代表中方出席在德黑蘭舉行的伊朗已故最高領袖哈梅內伊葬禮。伊朗總統佩澤希齊揚和議長卡利巴夫分別會見何維。（新華社）"
+    },
+    {
+      "id": "mkt:019f28af-723e-7aab-8c99-40a8ac82138f",
+      "time": "2026-07-03 23:53:34",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Nagel said the central bank should remain vigilant and flexible."
+    },
+    {
+      "id": "4970001",
+      "time": "2026-07-03 23:52:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 7 月柴油期貨結算價報每噸 943.50 美元。"
+    },
     {
       "id": "4970000",
       "time": "2026-07-03 23:52:05",
@@ -124440,39 +124490,6 @@
         "國際"
       ],
       "text": "俄羅斯總統新聞秘書佩斯科夫： 普京與盧卡申科在瓦爾代的會晤結束後，二人並無計劃向媒體發表宣告，也不會簽署任何檔案。"
-    },
-    {
-      "id": "4957838",
-      "time": "2026-06-26 23:56:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "SemiAnalysis：H100雲端指數現貨價格正在下跌，現在每小時2.42美元，比5月峰值低約40%。生態系統擔心這表明計算需求以及由此延伸的人工智慧AI需求正在減弱。重要的訊號是，這很可能是一個現貨價格指數，而不是期限定價。我們針對1年期H100合同價格的新雲調查顯示，該價格反而從去年末的大約每小時1.70美元的低谷攀升至如今的每小時約2.65美元。"
-    },
-    {
-      "id": "te:markets:562301",
-      "time": "2026-06-26 23:53:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Week Lower — European stocks closed firmly lower on Friday amid fresh pressure from banks, auto producers, and companies in the AI infrastructure sector. The Euro STOXX 50 fell 0.9% to 6,212, a 1.2% drop on the week, and the STOXX Europe 600 fell 0.7% to 635.5, unchanged since last Friday. Chip producers in North America reversed their rally stemmed from Micron's strong guidance to reflect fresh skepticism on the AI trade. This dented chip producer Infineon with a 4.3% decline and ASML with a 1% drop, while Siemens Energy, which has large exposure to data center power operations, slide 5.6%. Meanwhile, banks dropped sharply despite further expectations that the ECB may hold off from delivering another rate hike this year after oil prices dropped further. Deutsche Bank dropped 2.7% while BNP Paribas and BBVA fell nearly 2%. Lastly, Volkswagen slipped 3.9% after reports indicated it could cut up to 100,000 jobs and close four factories in its largest overhaul yet."
-    },
-    {
-      "id": "mkt:019f04a3-33da-7dd8-b13a-c04a46e11958",
-      "time": "2026-06-26 23:53:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says Iran fired at least four drones at ships in Strait of Hormuz; one hit, three shot down】US President Trump posted that Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz. One drone struck the superstructure of a large, expensive cargo ship, causing damage but the vessel remained underway. He said we shot down the other three and called the action a stupid violation of our ceasefire agreement."
     }
   ]
 }
