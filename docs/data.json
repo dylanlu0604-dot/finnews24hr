@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04 02:54:20",
-  "count": 13414,
+  "updated": "2026-07-04 02:58:05",
+  "count": 13410,
   "items": [
     {
       "id": "mkt:019f2954-7a17-7aab-8c9a-6dcab649ce6f",
@@ -123491,40 +123491,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲1.03%，報22882.37點，高水210.51點。"
-    },
-    {
-      "id": "mkt:019f054b-7e0b-7dd8-b13e-01189a15184e",
-      "time": "2026-06-27 02:57:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "According to CNBC, Anthropic is still negotiating with the U.S. government in an effort to return Mythos to the market."
-    },
-    {
-      "id": "4957928",
-      "time": "2026-06-27 02:57:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Anthropic 仍在與美國政府協商，以期重啟 Mythos 專案。"
-    },
-    {
-      "id": "4957927",
-      "time": "2026-06-27 02:56:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克聲稱：歐洲剛剛透過了關於美歐貿易協議的歷史性立法。歐洲首次將關稅降至零。這是我們偉大的汽車製造商、漁民、牧場主以及眾多生產商的歷史性成就，他們終於在與歐洲貿易時擁有了公平的競爭環境。"
-    },
-    {
-      "id": "mkt:019f0549-277a-7dd8-b13d-f84114621af4",
-      "time": "2026-06-27 02:55:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports the U.S. Commodity Futures Trading Commission (CFTC) is investigating prediction-market operator Polymarket."
     }
   ]
 }
