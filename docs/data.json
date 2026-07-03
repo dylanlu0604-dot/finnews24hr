@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-03 09:26:16",
-  "count": 13927,
+  "updated": "2026-07-03 09:30:07",
+  "count": 13919,
   "items": [
+    {
+      "id": "mkt:019f2598-7cd7-7aab-8c88-03e52ead6d34",
+      "time": "2026-07-03 09:29:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The China A-share precious metals sector opened sharply higher, with Chifeng Gold and Shanjin International up more than 6% at the open; Xiaocheng Technology, Zhaojin Gold and Shandong Gold also rose."
+    },
+    {
+      "id": "4968590",
+      "time": "2026-07-03 09:28:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊大幅高開 赤峰黃金、山金國際高開超6%】貴金屬板塊大幅高開，赤峰黃金、山金國際高開超6%，曉程科技、招金黃金、山東黃金跟漲。"
+    },
+    {
+      "id": "mkt:019f2597-78a2-7aab-8c87-ff052892332f",
+      "time": "2026-07-03 09:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said there is nothing new at present regarding the Bank of Japan's economic blueprint."
+    },
+    {
+      "id": "4968589",
+      "time": "2026-07-03 09:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一輪國內成品油價格將迎來調整視窗】今天（3日）24點，新一輪國內成品油調價視窗將再次開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。"
+    },
+    {
+      "id": "mkt:019f2596-4f8b-7aab-8c87-f0796882b129",
+      "time": "2026-07-03 09:27:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "At the open on July 3 (Friday), China’s Shanghai Composite Index rose 2.43 points (+0.06%) to 4,031.34; Shenzhen Composite fell 18.69 points (-0.12%) to 15,480.12; CSI 300 Index fell 2.80 points (-0.06%) to 4,809.50; ChiNext Index fell 6.45 points (-0.16%) to 4,010.82; China STAR 50 Index fell 8.54 points (-0.43%) to 1,978.75."
+    },
+    {
+      "id": "mkt:019f2596-4498-7aab-8c87-e928511002b7",
+      "time": "2026-07-03 09:27:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama expects the Bank of Japan to maintain close communication with the government."
+    },
+    {
+      "id": "mkt:019f2596-0f48-7aab-8c87-e29501165a3b",
+      "time": "2026-07-03 09:26:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said he expects the Bank of Japan to adopt appropriate monetary policy to steadily achieve its price target."
+    },
+    {
+      "id": "te:markets:563935",
+      "time": "2026-07-03 09:26:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Poised to Reverse Prior Week’s Dip — Australian stocks climbed 82 points or 0.9% to 8,806 on Friday morning deals, rebounding from a subdued session the day before amid stronger U.S. equity futures after Wall Street ended mixed overnight after weak U.S. jobs data. An upward revision in Australia's private sector activity for June boosted sentiment, highlighting renewed growth in services. Gains, however, were capped by rate concerns, as the Reserve Bank's June meeting minutes and recent remarks from Governor Bullock signaled policy tightening may still be needed despite calmer Middle East tensions. Sector strength included consumer durables, healthcare, retail, and process industries. Three of four major banks rose between 0.3% and 1%. Mining giant BHP Group edged up 0.3% while other notable performers were Northern Star Resources (7.0%), Evolution Mining (4.8%), and Greatland Resources (2.6%). For the week, markets are on track to edge higher, up around 0.2% so far, reversing from a modest drop in the prior period."
+    },
     {
       "id": "mkt:019f2595-0ce6-7aab-8c87-da06fcd6c711",
       "time": "2026-07-03 09:25:52",
@@ -128203,166 +128283,6 @@
         "其他"
       ],
       "text": "【海口桂林洋110kV福創輸變電工程全面投運】據海口日報，近日，隨著最後一組專項除錯及執行試驗資料順利達標，海口桂林洋110kV福創輸變電新建工程正式投入運營。作為江東新區總部經濟區（生態CBD）唯一規劃的110kV變電站，該專案投運後將有效破解園區供電瓶頸，為江東新區高質量發展提供堅實電力保障。"
-    },
-    {
-      "id": "mkt:019f018c-5eef-7dd8-b128-c82b1ae97fca",
-      "time": "2026-06-26 09:30:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02272.HK",
-        "Impact bullish",
-        "01956.HK",
-        "09630.HK"
-      ],
-      "text": "Hong Kong new listings rallied: Ketuo Co. (02272.HK) surged 178.38%, Zhongke Wenge (01956.HK) rose 81.22%, and Xinqi Weizhuang (09630.HK) gained 73.70%."
-    },
-    {
-      "id": "4956112",
-      "time": "2026-06-26 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.44%， 滬深300指數期貨連續跌0.27%， 中證500指數期貨連續跌0.47%， 上證50指數期貨連續跌0.10%。"
-    },
-    {
-      "id": "4956111",
-      "time": "2026-06-26 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4352.950點；恒生指數現跌0.578%。"
-    },
-    {
-      "id": "4956110",
-      "time": "2026-06-26 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.54%，成分股中，翱捷科技跌3.39%，盛科通訊跌3.28%，華虹宏力跌3.14%，佰維儲存跌3.11%。"
-    },
-    {
-      "id": "4956109",
-      "time": "2026-06-26 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約基本持平， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4956108",
-      "time": "2026-06-26 09:29:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普將首次乘坐卡達贈送的新專機 下週出席北達科他州活動】據白宮官員透露，唐納德·特朗普將首次乘坐卡達政府贈送的新總統專機，計劃於7月1日前往北達科他州參加活動。特朗普將首次乘坐這架波音公司747-8飛機，出席西奧多·羅斯福總統圖書館的落成典禮，也是他下週為慶祝美國建國250週年而舉辦的一系列活動之一。"
-    },
-    {
-      "id": "mkt:019f018b-bab1-7dd8-b128-c3d184bc4130",
-      "time": "2026-06-26 09:29:22",
-      "tags": [
-        "MKT News",
-        "000300.SS",
-        "Impact bearish",
-        "000001.SS",
-        "399001.SZ"
-      ],
-      "text": "A-share CPO sector opened sharply lower in early trade; Lihexing fell more than 8%, Taichenguang dropped over 7%, Tonghui Electronics declined about 6%, and Luxshare Precision and Changyingtong were down more than 4%."
-    },
-    {
-      "id": "mkt:019f018b-a488-7dd8-b128-b8e241409ed9",
-      "time": "2026-06-26 09:29:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【Galaxy Securities H2 2026 machinery outlook: focus on AI-related tech growth】Galaxy Securities says H2 2026 investment opportunities in the machinery equipment sector center on three market themes: prioritise AI-related tech growth — e.g., optical-module test instruments, AI PCB equipment and consumables, and AI power-generation equipment; target strategic and emerging industries highlighted in China’s 15th Five-Year Plan, such as humanoid robotics and controlled nuclear fusion; and favour low-valuation, high-quality stocks with rising industry beta in cyclical subsectors, including construction/engineering machinery and machine tools."
-    },
-    {
-      "id": "4956107",
-      "time": "2026-06-26 09:29:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股新股集體走強 科拓股份等個股漲超70%】利弗莫爾證券顯示，截至發稿，科拓股份(02272.HK)漲178.38%，中科聞歌(01956.HK)漲81.22%，芯碁微裝(09630.HK)漲73.70%。"
-    },
-    {
-      "id": "4956106",
-      "time": "2026-06-26 09:28:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國總理塔裡克向人民英雄紀念碑敬獻花圈】6月26日上午，孟加拉國總理塔裡克前往天安門廣場，向人民英雄紀念碑敬獻花圈。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f018a-f8c7-7dd8-b128-b5c9d79c349f",
-      "time": "2026-06-26 09:28:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share lab-grown diamond sector pulled back; Huifeng Diamond fell over 7%, Liliang Diamond dropped over 5%, Huanghe Xuanfeng down more than 4%, Sifangda and Chujiang New Material also declined."
-    },
-    {
-      "id": "4956105",
-      "time": "2026-06-26 09:28:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本航空自衛隊改編航空宇宙自衛隊】今天（6月26日），包含將日本航空自衛隊改編為“航空宇宙自衛隊”等內容的《防衛省設定法》等修正案，在日本參議院全體會議上獲得透過。修正後的《防衛省設定法》等明確“將宇宙領域列為新的行動領域”，並規定將航空自衛隊更名為“航空宇宙自衛隊”。日本“航空宇宙自衛隊”預計將在本財年（2026年4月1日至2027年3月31日）內正式成立，並將新組建負責宇宙領域任務的專業部隊——“宇宙作戰集團”。這是自1954年日本航空自衛隊成立以來，首次對其組織名稱進行調整。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f018a-92c2-7dd8-b128-ae945fa0e536",
-      "time": "2026-06-26 09:28:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan approves renaming of Air Self-Defense Force to Air and Space Self-Defense Force】Japan’s House of Councillors passed amendments to the Defense Ministry Establishment Law today, formally designating space as a new operational domain and renaming the Air Self-Defense Force the Air and Space Self-Defense Force. The new service is expected to be established in fiscal 2026 (Apr. 1, 2026–Mar. 31, 2027) and will include a newly created Space Operations Group responsible for space missions. This is the first organizational name change since the Air Self-Defense Force’s founding in 1954."
-    },
-    {
-      "id": "4956104",
-      "time": "2026-06-26 09:27:59",
-      "tags": [
-        "觀點",
-        "其他"
-      ],
-      "text": "【銀河證券下半年機械行業展望：緊抓跟AI相關科技成長主線】銀河證券研報稱，展望2026年下半年機械裝置板塊的投資機會，可以從三個方面考慮：一是繼續緊抓跟AI相關科技成長主線，包括光模組測試儀器、AI PCB裝置及耗材、AI發電裝置等；二是“十五五”規劃強調未來產業和新興產業，是中國經濟轉型升級新舊動能轉換的關鍵，包括人形機器人、可控核聚變等；三是從各細分行業週期性特徵考慮選擇行業β向上的低估值基本面優質個股，包括工程機械、機床等板塊。"
-    },
-    {
-      "id": "mkt:019f018a-1561-7dd8-b128-a46f3b1d11c5",
-      "time": "2026-06-26 09:27:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "Friday, June 26 — China's Shanghai Composite opened down 21.59 points (-0.52%) at 4,098.69; Shenzhen Composite opened down 132.68 points (-0.81%) at 16,211.41; CSI 300 Index opened down 38.28 points (-0.76%) at 4,981.83; ChiNext Index opened down 52.58 points (-1.20%) at 4,319.41; STAR 50 Index opened down 31.90 points (-1.54%) at 2,034.43."
-    },
-    {
-      "id": "4956103",
-      "time": "2026-06-26 09:27:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報57.22美元/盎司。"
     }
   ]
 }

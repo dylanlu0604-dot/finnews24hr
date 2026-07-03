@@ -1,7 +1,87 @@
 {
   "date": "2026-07-03",
-  "count": 781,
+  "count": 789,
   "items": [
+    {
+      "id": "mkt:019f2598-7cd7-7aab-8c88-03e52ead6d34",
+      "time": "2026-07-03 09:29:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The China A-share precious metals sector opened sharply higher, with Chifeng Gold and Shanjin International up more than 6% at the open; Xiaocheng Technology, Zhaojin Gold and Shandong Gold also rose."
+    },
+    {
+      "id": "4968590",
+      "time": "2026-07-03 09:28:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊大幅高開 赤峰黃金、山金國際高開超6%】貴金屬板塊大幅高開，赤峰黃金、山金國際高開超6%，曉程科技、招金黃金、山東黃金跟漲。"
+    },
+    {
+      "id": "mkt:019f2597-78a2-7aab-8c87-ff052892332f",
+      "time": "2026-07-03 09:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said there is nothing new at present regarding the Bank of Japan's economic blueprint."
+    },
+    {
+      "id": "4968589",
+      "time": "2026-07-03 09:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一輪國內成品油價格將迎來調整視窗】今天（3日）24點，新一輪國內成品油調價視窗將再次開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。"
+    },
+    {
+      "id": "mkt:019f2596-4f8b-7aab-8c87-f0796882b129",
+      "time": "2026-07-03 09:27:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "At the open on July 3 (Friday), China’s Shanghai Composite Index rose 2.43 points (+0.06%) to 4,031.34; Shenzhen Composite fell 18.69 points (-0.12%) to 15,480.12; CSI 300 Index fell 2.80 points (-0.06%) to 4,809.50; ChiNext Index fell 6.45 points (-0.16%) to 4,010.82; China STAR 50 Index fell 8.54 points (-0.43%) to 1,978.75."
+    },
+    {
+      "id": "mkt:019f2596-4498-7aab-8c87-e928511002b7",
+      "time": "2026-07-03 09:27:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama expects the Bank of Japan to maintain close communication with the government."
+    },
+    {
+      "id": "mkt:019f2596-0f48-7aab-8c87-e29501165a3b",
+      "time": "2026-07-03 09:26:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said he expects the Bank of Japan to adopt appropriate monetary policy to steadily achieve its price target."
+    },
+    {
+      "id": "te:markets:563935",
+      "time": "2026-07-03 09:26:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Poised to Reverse Prior Week’s Dip — Australian stocks climbed 82 points or 0.9% to 8,806 on Friday morning deals, rebounding from a subdued session the day before amid stronger U.S. equity futures after Wall Street ended mixed overnight after weak U.S. jobs data. An upward revision in Australia's private sector activity for June boosted sentiment, highlighting renewed growth in services. Gains, however, were capped by rate concerns, as the Reserve Bank's June meeting minutes and recent remarks from Governor Bullock signaled policy tightening may still be needed despite calmer Middle East tensions. Sector strength included consumer durables, healthcare, retail, and process industries. Three of four major banks rose between 0.3% and 1%. Mining giant BHP Group edged up 0.3% while other notable performers were Northern Star Resources (7.0%), Evolution Mining (4.8%), and Greatland Resources (2.6%). For the week, markets are on track to edge higher, up around 0.2% so far, reversing from a modest drop in the prior period."
+    },
     {
       "id": "mkt:019f2595-0ce6-7aab-8c87-da06fcd6c711",
       "time": "2026-07-03 09:25:52",
