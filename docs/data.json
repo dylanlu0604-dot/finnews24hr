@@ -1,7 +1,152 @@
 {
-  "updated": "2026-07-03 10:01:57",
-  "count": 13934,
+  "updated": "2026-07-03 10:05:51",
+  "count": 13939,
   "items": [
+    {
+      "id": "mkt:019f25b8-febf-7aab-8c89-4e203322d05b",
+      "time": "2026-07-03 10:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【200 bln yuan \"Two-New\" equipment upgrade funding fully allocated — NDRC】The National Development and Reform Commission said 200 bln yuan of ultra-long special government bond funding earmarked to support \"Two-New\" equipment upgrades has been fully allocated."
+    },
+    {
+      "id": "te:economy:563947",
+      "time": "2026-07-03 10:05:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Q2 GDP Growth Accelerates — Vietnam’s economy expanded 8.39% year-on-year in Q2 2026, quickening from a 7.83% increase in the previous quarter and bringing first-half growth to 8.18%."
+    },
+    {
+      "id": "4968704",
+      "time": "2026-07-03 10:04:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今年2000億元“兩新”裝置更新資金已全部下達】從國家發展改革委瞭解到，今年2000億元超長期特別國債支援“兩新”裝置更新資金已全部下達。"
+    },
+    {
+      "id": "4968703",
+      "time": "2026-07-03 10:04:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲2%至5857.77點。"
+    },
+    {
+      "id": "mkt:019f25b8-9a24-7aab-8c89-41a0cc554558",
+      "time": "2026-07-03 10:04:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share photoresist sector extended losses; Yawei hit the daily limit down, with Jianghua Micro, Jingrui Electronic Materials, Yida, Xilong Science, Nanda Optoelectronics and Tongcheng New Materials also trading lower."
+    },
+    {
+      "id": "te:economy:563946",
+      "time": "2026-07-03 10:04:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Vietnam Trade Balance Swings to Deficit — Vietnam recorded a trade deficit of USD 2.64 billion in June 2026, shifting from a surplus of USD 3.2 billion in the same month a year earlier. Exports grew 28.1% year-on-year to a record high of USD 50.79 billion, while imports rose at a faster pace of 45.2% to a record high of USD 53.43 billion."
+    },
+    {
+      "id": "4968702",
+      "time": "2026-07-03 10:04:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠板塊持續走弱，亞威股份跌停】光刻膠板塊持續走弱，亞威股份跌停，江化微、晶瑞電材、怡達股份、西隴科學、南大光電、彤程新材等跟跌。"
+    },
+    {
+      "id": "4968701",
+      "time": "2026-07-03 10:03:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：汽油價格下跌過程中可能會出現一些波動。"
+    },
+    {
+      "id": "4968700",
+      "time": "2026-07-03 10:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南1-6月實際吸引外國直接投資額為130.3億美元，同比增長11.2%。"
+    },
+    {
+      "id": "4968699",
+      "time": "2026-07-03 10:03:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報973.00元。"
+    },
+    {
+      "id": "4968698",
+      "time": "2026-07-03 10:02:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計最早在6月份就能看到實際工資增長。"
+    },
+    {
+      "id": "mkt:019f25b6-47fa-7aab-8c89-3dd4e233b1c6",
+      "time": "2026-07-03 10:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vietnam June industrial production YoY +12.7% (May: +8.8%)."
+    },
+    {
+      "id": "4968697",
+      "time": "2026-07-03 10:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：上半年咖啡出口量增長7.3%，至110萬噸。"
+    },
+    {
+      "id": "4968696",
+      "time": "2026-07-03 10:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至272.83點。"
+    },
+    {
+      "id": "4968695",
+      "time": "2026-07-03 10:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳機場集團50億元小公募債申報獲深交所受理】深交所專案進度資訊顯示，深圳市機場（集團）有限公司50億元小公募債專案狀態更新為“已受理”，受理日期為2026年7月2日。募集說明書申報稿顯示，發行人擬將14.50億元用於償還有息債務，擬將35.50億元用於補充公司日常生產經營所需流動資金、專案建設及運營、股權投資、基金出資或其他合法合規用途。"
+    },
     {
       "id": "4968694",
       "time": "2026-07-03 10:01:18",
@@ -128333,93 +128478,6 @@
         "公司"
       ],
       "text": "【國家外匯管理局局長朱鶴新會見國際貨幣基金組織副總裁李波】6月24日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的國際貨幣基金組織副總裁李波。雙方就國際經濟金融形勢、深化交流合作等議題交換了意見。國家外匯管理局副局長李斌陪同會見。"
-    },
-    {
-      "id": "4956213",
-      "time": "2026-06-26 10:05:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航運板塊震盪下挫 招商輪船觸及跌停】航運板塊盤中震盪下挫，招商輪船觸及跌停，中遠海能、招商南油、國航遠洋、鳳凰航運、海航科技跟跌。"
-    },
-    {
-      "id": "4956212",
-      "time": "2026-06-26 10:05:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統政策室長：6月29日將公佈非常不尋常的資料。"
-    },
-    {
-      "id": "4956211",
-      "time": "2026-06-26 10:05:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報71.20美元/桶。"
-    },
-    {
-      "id": "4956210",
-      "time": "2026-06-26 10:04:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南省信陽市人大常委會原副主任陳延虎接受審查調查】中央紀委國家監委網站6月26日通報，據河南省紀委監委訊息：河南省信陽市人大常委會原副主任陳延虎涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019f01ab-7e4f-7dd8-b12a-037b2e11dc37",
-      "time": "2026-06-26 10:04:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01519.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed J&T Express (01519.HK) shares rose more than 3% after the company proposed a share buyback of up to HK$2 billion."
-    },
-    {
-      "id": "4956209",
-      "time": "2026-06-26 10:03:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "江西生物計劃將香港IPO定價為每股11.20港元。（IFR）"
-    },
-    {
-      "id": "mkt:019f01ab-0cf3-7dd8-b129-f9684f8e2477",
-      "time": "2026-06-26 10:03:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MIIT: Jan-May telecom services revenue 735.5 bln yuan, down 1.9% YoY】China's Ministry of Industry and Information Technology (MIIT) says Jan-May telecom services revenue totaled 735.5 bln yuan, down 1.9% YoY. Telecom services volume at constant prices rose 7.9% YoY. Cumulative mobile internet traffic Jan-May reached 181.2 bln GB, up 17.9% YoY. Mobile internet users were 1.634 bln at end-May, a net increase of 24.12 mln vs end of last year. May monthly data usage per user (DOU) was 24.01 GB, up 12.7% YoY and 0.97 GB higher than at end‑of‑last‑year."
-    },
-    {
-      "id": "mkt:019f01aa-0a01-7dd8-b129-f5b95ce00814",
-      "time": "2026-06-26 10:02:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China issues interim vocational qualification rules for elderly care workers】On June 26, China’s Ministry of Civil Affairs and Ministry of Human Resources and Social Security issued Interim Provisions on the Vocational Qualification System for Elderly Care Workers, effective on publication. The rules establish a competency-assessment occupational qualification for professionals providing elderly care in home, community and institutional settings and set three levels: junior, intermediate and senior. Junior and intermediate levels will follow a nationally unified syllabus, unified exam content and unified exam administration; rules for the senior qualification will be issued separately. The interim provisions comprise 23 articles covering general provisions, examinations, professional competence, registration and supplementary provisions."
-    },
-    {
-      "id": "4956208",
-      "time": "2026-06-26 10:02:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元早盤走弱至17960。"
-    },
-    {
-      "id": "4956207",
-      "time": "2026-06-26 10:02:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門就養老服務師職業資格制度出臺暫行規定】6月26日，民政部、人力資源社會保障部公佈《養老服務師職業資格制度暫行規定》，明確設定養老服務師職業資格，並從總則、考試、職業能力、登記及附則等5個方面對養老服務師職業資格制度作出23條具體規定。暫行規定自發布之日起施行。暫行規定明確，養老服務師職業資格為水平評價類職業資格，適用於在居家、社群、機構等養老服務場景中從事養老服務工作的專業技術人員；明確該職業資格設定為初級、中級、高階等三個級別，其中初級、中級實行全國統一大綱、統一命題、統一組織的考試製度，高階養老服務師職業資格有關規定另行制定。（新華社）"
     }
   ]
 }

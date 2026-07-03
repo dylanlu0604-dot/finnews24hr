@@ -1,7 +1,152 @@
 {
   "date": "2026-07-03",
-  "count": 935,
+  "count": 950,
   "items": [
+    {
+      "id": "mkt:019f25b8-febf-7aab-8c89-4e203322d05b",
+      "time": "2026-07-03 10:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【200 bln yuan \"Two-New\" equipment upgrade funding fully allocated — NDRC】The National Development and Reform Commission said 200 bln yuan of ultra-long special government bond funding earmarked to support \"Two-New\" equipment upgrades has been fully allocated."
+    },
+    {
+      "id": "te:economy:563947",
+      "time": "2026-07-03 10:05:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Q2 GDP Growth Accelerates — Vietnam’s economy expanded 8.39% year-on-year in Q2 2026, quickening from a 7.83% increase in the previous quarter and bringing first-half growth to 8.18%."
+    },
+    {
+      "id": "4968704",
+      "time": "2026-07-03 10:04:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今年2000億元“兩新”裝置更新資金已全部下達】從國家發展改革委瞭解到，今年2000億元超長期特別國債支援“兩新”裝置更新資金已全部下達。"
+    },
+    {
+      "id": "4968703",
+      "time": "2026-07-03 10:04:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲2%至5857.77點。"
+    },
+    {
+      "id": "mkt:019f25b8-9a24-7aab-8c89-41a0cc554558",
+      "time": "2026-07-03 10:04:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share photoresist sector extended losses; Yawei hit the daily limit down, with Jianghua Micro, Jingrui Electronic Materials, Yida, Xilong Science, Nanda Optoelectronics and Tongcheng New Materials also trading lower."
+    },
+    {
+      "id": "te:economy:563946",
+      "time": "2026-07-03 10:04:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Vietnam Trade Balance Swings to Deficit — Vietnam recorded a trade deficit of USD 2.64 billion in June 2026, shifting from a surplus of USD 3.2 billion in the same month a year earlier. Exports grew 28.1% year-on-year to a record high of USD 50.79 billion, while imports rose at a faster pace of 45.2% to a record high of USD 53.43 billion."
+    },
+    {
+      "id": "4968702",
+      "time": "2026-07-03 10:04:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠板塊持續走弱，亞威股份跌停】光刻膠板塊持續走弱，亞威股份跌停，江化微、晶瑞電材、怡達股份、西隴科學、南大光電、彤程新材等跟跌。"
+    },
+    {
+      "id": "4968701",
+      "time": "2026-07-03 10:03:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：汽油價格下跌過程中可能會出現一些波動。"
+    },
+    {
+      "id": "4968700",
+      "time": "2026-07-03 10:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南1-6月實際吸引外國直接投資額為130.3億美元，同比增長11.2%。"
+    },
+    {
+      "id": "4968699",
+      "time": "2026-07-03 10:03:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報973.00元。"
+    },
+    {
+      "id": "4968698",
+      "time": "2026-07-03 10:02:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計最早在6月份就能看到實際工資增長。"
+    },
+    {
+      "id": "mkt:019f25b6-47fa-7aab-8c89-3dd4e233b1c6",
+      "time": "2026-07-03 10:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vietnam June industrial production YoY +12.7% (May: +8.8%)."
+    },
+    {
+      "id": "4968697",
+      "time": "2026-07-03 10:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局：上半年咖啡出口量增長7.3%，至110萬噸。"
+    },
+    {
+      "id": "4968696",
+      "time": "2026-07-03 10:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至272.83點。"
+    },
+    {
+      "id": "4968695",
+      "time": "2026-07-03 10:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳機場集團50億元小公募債申報獲深交所受理】深交所專案進度資訊顯示，深圳市機場（集團）有限公司50億元小公募債專案狀態更新為“已受理”，受理日期為2026年7月2日。募集說明書申報稿顯示，發行人擬將14.50億元用於償還有息債務，擬將35.50億元用於補充公司日常生產經營所需流動資金、專案建設及運營、股權投資、基金出資或其他合法合規用途。"
+    },
     {
       "id": "4968694",
       "time": "2026-07-03 10:01:18",
