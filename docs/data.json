@@ -1,7 +1,195 @@
 {
-  "updated": "2026-07-03 09:38:38",
-  "count": 13917,
+  "updated": "2026-07-03 09:42:31",
+  "count": 13914,
   "items": [
+    {
+      "id": "4968633",
+      "time": "2026-07-03 09:41:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統德爾西·羅德里格斯2日說，委內瑞拉強震遇難人數已升至2595人、受傷人數已超1.2萬人。（新華社）"
+    },
+    {
+      "id": "mkt:019f25a3-9145-7aab-8c88-7aab0ad9ac69",
+      "time": "2026-07-03 09:41:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02513.HK"
+      ],
+      "text": "Hang Seng Tech Index early gains widened to 2%; Zhipu (02513.HK) rose over 8%, leading constituents, while the Hang Seng Index was up 1.6%."
+    },
+    {
+      "id": "4968632",
+      "time": "2026-07-03 09:41:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4543.740點；恒生指數現漲1.622%。"
+    },
+    {
+      "id": "mkt:019f25a2-dbb0-7aab-8c88-756a60ebe8ff",
+      "time": "2026-07-03 09:40:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "China A-share military equipment sector extended gains; Hangfa Keji hit the daily up-limit. Aileda, Ligong Navigation, Longda, Hangtian Huanyu and Lihang Technology also rose."
+    },
+    {
+      "id": "4968631",
+      "time": "2026-07-03 09:40:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報7806.04點。個股方面，三星電子漲超5%，SK海力士漲超3%。"
+    },
+    {
+      "id": "mkt:019f25a2-756c-7aab-8c88-69ebe4c12cdd",
+      "time": "2026-07-03 09:40:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI climbed to 7,800, extending intraday gains to 2%."
+    },
+    {
+      "id": "4968630",
+      "time": "2026-07-03 09:40:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工裝備持續走強 航發科技漲停】軍工裝備持續走強，航發科技漲停，愛樂達、理工導航、隆達股份、航天環宇、立航科技跟漲。"
+    },
+    {
+      "id": "4968629",
+      "time": "2026-07-03 09:39:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲4.6%，報29.9萬韓元。"
+    },
+    {
+      "id": "4968628",
+      "time": "2026-07-03 09:39:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.09%，成分股中，萬達軸承漲8.61%，納科諾爾漲7.22%，駿創科技漲4.14%，富士達漲3.66%。"
+    },
+    {
+      "id": "mkt:019f25a1-86ba-7aab-8c88-6707e96d447e",
+      "time": "2026-07-03 09:39:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan finance minister Katayama reiterates readiness to act on yen】Japan's finance minister Katayama said the government is prepared to take appropriate measures against yen volatility but would not comment on specific exchange-rate levels. She said Tokyo remains in close contact with US authorities on FX. On rising JGB yields, Katayama said the government will seek to implement fiscal measures to shore up market confidence. Monetary policy is for the Bank of Japan to decide; she expects the BoJ to maintain close communication with the government and take appropriate policy to stabilize progress toward its price target. There are no new details on the BoJ's economic blueprint."
+    },
+    {
+      "id": "mkt:019f25a1-6596-7aab-8c88-598ea63f6769",
+      "time": "2026-07-03 09:39:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Tencent",
+        "01810.HK",
+        "Impact bullish",
+        "09888.HK",
+        "00700.HK"
+      ],
+      "text": "Hong Kong-listed tech stocks extended gains; Xiaomi Group (01810.HK) rose over 5%, JD Health (06618.HK) rose over 4%, and AliHealth (00241.HK), Baidu (09888.HK) and Tencent Holdings (00700.HK) also advanced."
+    },
+    {
+      "id": "4968627",
+      "time": "2026-07-03 09:39:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美總統去年總收入至少22億美元】“美國總統特朗普個人財富增長速度在現代史上前所未有。”當地時間1日，美國《華盛頓郵報》網站頭條的標題這樣寫道。當天，美國各大主流媒體紛紛報道稱，根據有關強制披露財務資訊的法律，白宮公佈了特朗普的個人年度財務報告，他在重返白宮的第一年就賺了至少 22 億美元，其中僅在加密貨幣方面就賺了14億美元。《紐約時報》稱，數額如此巨大，表明他重返白宮後獲得了巨大利益，他在白宮採取的一些政策，不僅使自己和家人受益，也使其親密朋友、高官及其他關聯人士受益，這可能涉嫌利益衝突。對此，特朗普表示，自己“從不插手”財務管理，他的財富增長“與任何擁有退休基金的美國人並無二致，因為股市上漲，且基金公司很好地管理著我的資金”。 白宮還在一份宣告中稱：“所有這些（指責）都是民主黨人和媒體十年來一直在鼓吹的陳舊、虛假的敘事。” (環球時報)"
+    },
+    {
+      "id": "4968626",
+      "time": "2026-07-03 09:39:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股交換機板塊異動拉昇】星網銳捷觸及漲停，銳捷網路、紫光股份、菲菱科思、天邑股份、歐陸通、共進股份跟漲。"
+    },
+    {
+      "id": "4968625",
+      "time": "2026-07-03 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股F5G板塊異動拉昇】星網銳捷觸及漲停，菲菱科思、天邑股份、共進股份、瑞斯康達、特發資訊、通宇通訊跟漲。"
+    },
+    {
+      "id": "4968624",
+      "time": "2026-07-03 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股毫米波板塊異動拉昇】鋮昌科技觸及漲停，天銀機電、ST臻鐳、國博電子、共進股份、航天發展、和而泰跟漲。"
+    },
+    {
+      "id": "mkt:019f25a1-0b0e-7aab-8c88-5641b31e3ab3",
+      "time": "2026-07-03 09:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xinghe Power Aerospace’s Zhishenxing-1 reusable rocket set for near-term maiden flight】July 3 — Xinghe Power Aerospace said its domestically developed Cangqiong-50 reusable LOX/kerosene engine completed its 163rd routine hot-fire on July 1 at the Niutoushan power-system test center. The company said it has completed 57 engine hot-fire runs to date, with cumulative test time of 20,088s and a single-unit maximum cumulative run time of 2,757s. The Cangqiong-50 is designed for at least 25 reuses; more than 40 engines of this type have been assembled and delivered. The Zhishenxing-1 mid-to-large reusable liquid launch vehicle, powered by Cangqiong-50, is scheduled for a near-term maiden flight and will begin staged recovery validation thereafter."
+    },
+    {
+      "id": "4968623",
+      "time": "2026-07-03 09:38:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1263億元。"
+    },
+    {
+      "id": "4968622",
+      "time": "2026-07-03 09:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震已造成2595人死亡】據委內瑞拉代總統羅德里格斯當地時間7月2日晚對媒體稱，委內瑞拉地震造成的遇難人數升至2595人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f25a0-8bbf-7aab-8c88-4eef91df2cb1",
+      "time": "2026-07-03 09:38:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drug sector firmed in early trade; Yuandong Bio jumped more than 10%, while Shenlian Bio, Rejing Bio, Yifang Bio, Wanze Co. and Weikang Pharma also advanced."
+    },
     {
       "id": "4968621",
       "time": "2026-07-03 09:37:22",
@@ -128047,213 +128235,6 @@
         "市場"
       ],
       "text": "【PCB概念反覆走強 中材科技13天7板續創歷史新高】PCB概念反覆走強，CCL產業鏈領漲，玻纖龍頭中材科技13天7板，續創歷史新高，超聲電子、賢豐控股漲停，國際復材、中國巨石、廣合科技、宏和科技漲幅靠前。"
-    },
-    {
-      "id": "mkt:019f0197-87ce-7dd8-b129-5e5ff7d45ac4",
-      "time": "2026-06-26 09:42:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02714.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Muyuan Foodstuff (02714.HK) rose over 5% intraday after announcing a proposed HK$300-500 mln H-share buyback."
-    },
-    {
-      "id": "4956156",
-      "time": "2026-06-26 09:42:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股BIPV概念板塊異動拉昇】旗濱集團、太極實業觸及漲停，隆基綠能、海達股份、南玻A、能輝科技、晶澳科技跟漲。"
-    },
-    {
-      "id": "4956155",
-      "time": "2026-06-26 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股HJT/HIT電池板塊異動拉昇】新萊應材觸及漲停，TCL中環、華民股份、三孚新科、隆基綠能、賽伍技術、金剛光伏跟漲。"
-    },
-    {
-      "id": "4956154",
-      "time": "2026-06-26 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股特種玻璃板塊異動拉昇】旗濱集團、萊寶高科觸及漲停，凱盛科技、力諾藥包、戈碧迦、金剛光伏、長海股份跟漲。"
-    },
-    {
-      "id": "4956153",
-      "time": "2026-06-26 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股HJT電池板塊異動拉昇】新萊應材觸及漲停，TCL中環、華民股份、三孚新科、隆基綠能、賽伍技術、金剛光伏跟漲。"
-    },
-    {
-      "id": "4956152",
-      "time": "2026-06-26 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股矽錳板塊異動拉昇】旗濱集團、宏柏新材觸及漲停，有研矽、博遷新材、TCL中環、華民股份、立昂微跟漲。"
-    },
-    {
-      "id": "4956151",
-      "time": "2026-06-26 09:41:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "MiniMax港股下跌5.8%。"
-    },
-    {
-      "id": "4956150",
-      "time": "2026-06-26 09:41:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "法拉第未來獲發美國混合動力增程傳動系統專利，該技術將用於其未來車型系列，可實現強勁增程效果並降低機械複雜度。"
-    },
-    {
-      "id": "mkt:019f0196-d956-7dd8-b129-56d1b5f7cef2",
-      "time": "2026-06-26 09:41:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "02382.HK",
-        "Impact bearish",
-        "02018.HK",
-        "09988.HK"
-      ],
-      "text": "Hong Kong robotics-themed stocks opened lower: Sunny Optical (02382.HK) down over 7%, AAC Technologies (02018.HK) down over 5%, 01415.HK and Alibaba Group (09988.HK) down over 4%."
-    },
-    {
-      "id": "4956149",
-      "time": "2026-06-26 09:41:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華勤技術與正行創新簽署戰略合作協議】據華勤技術訊息，6月25日，華勤技術與前沿物理智慧創新企業正行創新正式簽署戰略合作協議。此次戰略合作標誌著雙方正式開啟深度協同，將圍繞“真實場景資料底座建設”與“工業智造具身解決方案”兩大核心方向，加速物理智慧在工業製造領域的規模化落地，共同樹立智造新標杆。"
-    },
-    {
-      "id": "mkt:019f0195-f439-7dd8-b129-4a647903ea73",
-      "time": "2026-06-26 09:40:32",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share advanced-packaging sector active in early trade; Laibao Gaoke and Taiji Industrial hit daily limits, Zhongke Feice rose over 10%, Xinyuan Micro, Jingce Electronics and Kaisheng Technology also gained."
-    },
-    {
-      "id": "mkt:019f0195-af13-7dd8-b129-470cb51ceb52",
-      "time": "2026-06-26 09:40:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Retail e‑wallet cash yield snapshot】Seven‑day annualized yields for major Chinese e‑wallet money‑market products: Tencent Licaitong (demand+7‑day) ranged from 0.7080% to 1.3450%; WeChat Wallet money‑market 7‑day yield ranged from 1.0020% to 1.0120%; Alipay Yu’e Bao 7‑day yield ranged from 1.0010% to 1.0300%."
-    },
-    {
-      "id": "mkt:019f0195-adec-7dd8-b129-3c70ceaa867e",
-      "time": "2026-06-26 09:40:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "00992.HK",
-        "Impact bearish",
-        "02172.HK",
-        "06681.HK"
-      ],
-      "text": "Hong Kong brain–computer interface stocks slid; Lenovo Group (00992.HK) fell more than 6%, 02172.HK dropped over 3% and 06681.HK slipped over 2%."
-    },
-    {
-      "id": "4956148",
-      "time": "2026-06-26 09:40:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝板塊再度活躍，萊寶高科、太極實業雙雙漲停】先進封裝板塊再度活躍，萊寶高科、太極實業雙雙漲停，中科飛測漲超10%，芯源微、精測電子、凱盛科技跟漲。"
-    },
-    {
-      "id": "4956147",
-      "time": "2026-06-26 09:39:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4956146",
-      "time": "2026-06-26 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股玻璃玻纖板塊異動拉昇】中材科技觸及漲停，國際復材、中國巨石、長海股份、宏和科技、旗濱集團、南玻A跟漲。"
-    },
-    {
-      "id": "4956145",
-      "time": "2026-06-26 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股玻纖製造板塊異動拉昇】中材科技觸及漲停，國際復材、中國巨石、長海股份、宏和科技、山東玻纖、振石股份跟漲。"
-    },
-    {
-      "id": "4956144",
-      "time": "2026-06-26 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股建築材料板塊異動拉昇】中材科技觸及漲停，國際復材、中國巨石、長海股份、宏和科技、旗濱集團、南玻A跟漲。"
-    },
-    {
-      "id": "4956143",
-      "time": "2026-06-26 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股電子布板塊異動拉昇】中材科技觸及漲停，國際復材、中國巨石、長海股份、宏和科技、平安電工、菲利華跟漲。"
-    },
-    {
-      "id": "4956142",
-      "time": "2026-06-26 09:38:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國首條AI+個性化靶點腫瘤疫苗產線在北京經開區開建】據“北京亦莊”訊息，近日，北京立康生命科技有限公司藥物研發及生產中心專案在北京經濟技術開發區（簡稱北京經開區，又稱北京亦莊）正式開工建設。該專案總投資約1.1億元，將建設研發實驗室及我國首條AI+個性化靶點腫瘤疫苗生產線，預計於2026年10月份竣工投產。"
-    },
-    {
-      "id": "mkt:019f0194-6594-7dd8-b129-33e0ef3176b7",
-      "time": "2026-06-26 09:38:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share short-form drama and gaming sector slid; Zhongguang Tianze and Aruide fell more than 6%, Pingzhi Information dropped over 5%, while Bona Film, Dianhun Network and Tiandi Online also declined."
-    },
-    {
-      "id": "4956141",
-      "time": "2026-06-26 09:38:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "舜宇光學科技港股大跌7.0%。"
     }
   ]
 }
