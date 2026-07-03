@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-03 21:39:23",
-  "count": 13590,
+  "updated": "2026-07-03 21:43:26",
+  "count": 13579,
   "items": [
+    {
+      "id": "te:markets:564180",
+      "time": "2026-07-03 21:42:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Stocks Rise on Strong Services Activity — The Ibovespa edged up to trade near the 173,000 mark on Friday as investors assessed May industrial production and June services PMI data. Services activity data showed an expansion at a slightly faster pace in June as demand improved, supporting shares linked to domestic tertiary sector activity. Rede D'Or gained nearly 1%, Raia Drogasil advanced 1.5%, while Bradesco and Banco do Brasil added about 0.5%. Also, oil prices remained near pre-conflict lows amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks and the broader index. Meanwhile, industrial production rose just 0.2% year-on-year in May, well below forecasts of a 1.3% increase, Ambev fell nearly 1%. Investors also monitored the US decision to launch a public consultation on Brazilian trade policies and practices while awaiting trade balance data."
+    },
+    {
+      "id": "mkt:019f2836-6c2a-7aab-8c96-f68efc4c710f",
+      "time": "2026-07-03 21:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VTB first deputy president says the bank plans to increase reserves in H2."
+    },
+    {
+      "id": "4969903",
+      "time": "2026-07-03 21:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯外貿銀行計劃在今年下半年擴充儲備金。"
+    },
     {
       "id": "4969901",
       "time": "2026-07-03 21:37:01",
@@ -125095,138 +125123,6 @@
         "Importance 1"
       ],
       "text": "Walt Disney Stock Price Hits 11-week Low — Walt Disney shares decreased to 97.90 USD, the lowest since April 2026. Over the past 4 weeks, Walt Disney lost 4.44%, and in the last 12 months, it decreased 18.75%."
-    },
-    {
-      "id": "4957682",
-      "time": "2026-06-26 21:43:20",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "巴克萊將布倫特油價預測下調至2026年每桶96美元、2027年每桶85美元。"
-    },
-    {
-      "id": "mkt:019f042b-5a5e-7dd8-b138-631f1e4df1c7",
-      "time": "2026-06-26 21:42:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "UAE state news agency reported the UAE foreign minister told Iran's foreign minister maritime sea lanes, including the Strait of Hormuz, must be protected and freedom of navigation upheld."
-    },
-    {
-      "id": "4957681",
-      "time": "2026-06-26 21:42:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾比森：實控人丁彥輝擬減持不超3%公司股份】艾比森(300389)6月26日公告，控股股東、實際控制人、董事長丁彥輝計劃以集中競價方式、大宗交易方式減持本公司股份不超過1107.3萬股（含本數），即不超過公司股份總數的3%。"
-    },
-    {
-      "id": "4957680",
-      "time": "2026-06-26 21:41:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "Rocket Lab獲NASA合同，開盤後拉昇，漲幅擴大至3%。"
-    },
-    {
-      "id": "4957679",
-      "time": "2026-06-26 21:41:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟逆勢上漲2.3%，微軟13個月內三次上調Xbox售價並表示儲存元件成本到明年還要翻倍。"
-    },
-    {
-      "id": "mkt:019f042a-0dc3-7dd8-b138-5d631e3764cb",
-      "time": "2026-06-26 21:41:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【EU plans 15% export tax on aluminum scrap】The Financial Times reports the EU plans to impose a 15% export tax on aluminum scrap, expected to take effect on Sept. 9. The levy, reportedly Brussels' first charge on outbound goods, is designed to curb scrap shipments to the US and Asia and to protect EU producers. European smelters say overseas refiners have been buying European scrap at higher prices, melting it into new metal and exporting it back to the bloc, putting domestic firms at a competitive disadvantage. European Aluminium director-general Paul Voss said Europe’s industry should be able to compete on a level playing field."
-    },
-    {
-      "id": "4957678",
-      "time": "2026-06-26 21:41:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滔搏否認耐克終止線上授權，但耐克確實有調整渠道規劃】6月25日，滔搏公告稱，截至公告日，公司並未接到耐克就終止於中國內地線上經銷安排而發出的任何正式通知。此前，市場傳出耐克有意自2027年1月1日起終止其於中國內地所有線上一級經銷授權的訊息。傳聞稱，滔搏、勝道、銳力等頭部經銷商未來將不得在電商平臺售賣耐克產品，消費者線上購買渠道僅保留耐克官方旗艦店。此後滔搏股價陷入連跌。（21世紀經濟報道）"
-    },
-    {
-      "id": "4957677",
-      "time": "2026-06-26 21:41:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部向伊朗外長強調，必須保護霍爾木茲海峽等海域的海上航道與航行自由。"
-    },
-    {
-      "id": "4957676",
-      "time": "2026-06-26 21:40:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數日內跌幅擴大至超5%。"
-    },
-    {
-      "id": "mkt:019f0429-6ca6-7dd8-b138-57523195c085",
-      "time": "2026-06-26 21:40:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) intraday losses widened to more than 5%."
-    },
-    {
-      "id": "4957675",
-      "time": "2026-06-26 21:40:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書：美國在俄烏問題上並非“絕對中立” 】俄羅斯總統新聞秘書佩斯科夫26日表示，在有關俄烏問題上美國的立場並不能被視為“絕對中立”。佩斯科夫在新聞釋出會上說，美國仍在繼續向烏克蘭提供大量武器裝備和其他技術支援，並且由“偽無償”轉為有償出售，因此不能認為其在俄烏問題上的立場是“絕對中立”的。但是，俄方讚賞美願促成和平解決俄烏問題的相關表態。此前有媒體報道說，法國總統馬克龍稱，美國在七國集團峰會後將不再充當烏克蘭問題的“中立調解人”。佩斯科夫對此表示，俄方尚未收到美國有關正式表態。“俄羅斯對包括美國在內的各方出面調解俄烏問題依然持開放態度。”（新華社）"
-    },
-    {
-      "id": "mkt:019f0429-1bf9-7dd8-b138-4a4edc9fe375",
-      "time": "2026-06-26 21:40:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE state news agency said the UAE foreign minister told Iran's foreign minister in a phone call that the terms of the US-Iran agreement must be fully observed."
-    },
-    {
-      "id": "4957674",
-      "time": "2026-06-26 21:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋國家通訊社：阿聯酋外交部長在與伊朗外長通話時強調，伊美協議必須得到全面遵守。"
-    },
-    {
-      "id": "te:markets:562267",
-      "time": "2026-06-26 21:40:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.53% Lower — The Dow Jones Index is losing 278 points. Losses were led by Caterpillar (-3.91%), Goldman Sachs (-3.71%) and Cisco Systems (-3.13%). Offsetting the fall, top gainers were Salesforce (3.80%), IBM (2.38%) and Microsoft (2.34%)."
     }
   ]
 }
