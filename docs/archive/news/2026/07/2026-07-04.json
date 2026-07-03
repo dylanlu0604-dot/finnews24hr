@@ -1,7 +1,19 @@
 {
   "date": "2026-07-04",
-  "count": 64,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:019f2916-0ca9-7aab-8c9a-08c496d98c0b",
+      "time": "2026-07-04 01:45:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【JP Morgan: Gold under near-term pressure; H2 2026 may reach $4,500/oz】JP Morgan says gold is likely to remain rangebound in the near term as weaker buying power in key demand areas and renewed sensitivity to real interest-rate moves could cap upside. The bank stays bullish medium-to-long term, forecasting H2 2026 recovery with Q3 average roughly $4,300/oz and Q4 around $4,500/oz; it sees further 2027 upside driven by sustained central bank purchases, stronger physical demand and ongoing structural allocation needs supporting gold’s reserve and safe‑haven appeal."
+    },
     {
       "id": "mkt:019f2910-ec87-7aab-8c9a-057cdea5da45",
       "time": "2026-07-04 01:40:02",
