@@ -1,7 +1,78 @@
 {
   "date": "2026-07-03",
-  "count": 660,
+  "count": 668,
   "items": [
+    {
+      "id": "mkt:019f2575-76db-7aab-8c86-f2160e0c693b",
+      "time": "2026-07-03 08:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU plans bloc-wide social media ban for minors】European Dynamic cited EU officials on July 2 saying European Commission President von der Leyen plans to unveil a bloc-wide ban on minors’ use of social media in her annual State of the Union address to the European Parliament on Sept. 16. An advisory group on minors’ online safety is due to submit a report by July 13 to inform the Commission. Member states have proposed different implementation options — a full ban below a specified age or parental-consent requirements — and the plan would pave the way for EU legislation or other measures to restrict minors’ access to social platforms."
+    },
+    {
+      "id": "4968503",
+      "time": "2026-07-03 08:51:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲0.84%。"
+    },
+    {
+      "id": "4968502",
+      "time": "2026-07-03 08:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國第二批埃博拉抗疫醫療專家組赴剛果（金）】記者從國家衛生健康委獲悉，7月3日凌晨，中國第二批抗疫醫療專家組從北京啟程，赴剛果（金）接續首批專家組工作，接力開展埃博拉疫情防控國際合作，持續助力當地築牢公共衛生防線。據悉，本次出征的中國第二批專家組成員涵蓋公共衛生、臨床救治、感染防控、實驗室檢測、流行病學檢疫等專業領域。專家組成員來自國家衛生健康委、海關總署、復旦大學附屬華山醫院、中國疾控中心等，均擁有豐富的疫情防控經驗。國家衛生健康委有關負責人介紹，抵達剛果（金）後，專家組將與首批專家組做好交接，與中國援剛果（金）醫療隊一道，加強風險趨勢評估，與有關疾病控制機構交流防疫經驗，推動合作，與國際組織建立常態化聯絡機制，參與抗疫國際行動，助力當地提升埃博拉疫情防控能力。（新華社）"
+    },
+    {
+      "id": "4968501",
+      "time": "2026-07-03 08:49:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶萊特等成立科技公司 含積體電路晶片業務】企查查APP顯示，近日，珠海市威寶科技有限公司成立，經營範圍包含積體電路晶片及產品銷售；積體電路晶片設計及服務；網際網路裝置銷售；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由寶萊特等共同持股。"
+    },
+    {
+      "id": "mkt:019f2573-b6d1-7aab-8c86-e9a1decb8af5",
+      "time": "2026-07-03 08:49:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Canada's Alberta government says design and construction of a new west-coast oil pipeline will begin no earlier than Sept. 1, 2027."
+    },
+    {
+      "id": "4968500",
+      "time": "2026-07-03 08:48:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【普利製藥注射用伏立康唑馬來西亞獲批上市】海南普利製藥股份有限公司（簡稱“普利製藥”）近日收到馬來西亞藥品管理局簽發的注射用伏立康唑（規格：200mg）上市許可，標誌著普利製藥生產的注射用伏立康唑具備了在馬來西亞上市銷售的資格。"
+    },
+    {
+      "id": "4968499",
+      "time": "2026-07-03 08:48:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大阿爾伯塔省政府：新西海岸輸油管道的設計與施工最早將於2027年9月1日啟動。"
+    },
+    {
+      "id": "4968498",
+      "time": "2026-07-03 08:47:23",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金財富期貨：6月非農就業新增5.7萬人遠低預期 黃金市場迎來反彈契機】6月非農就業新增5.7萬人，遠低於市場預期，且前兩個月資料合計下修。失業率雖降至4.2%，但主要原因是勞動力人口減少，25至34歲勞動參與人數單月驟降70萬。資料公佈後，市場對美聯儲下一步動作的預期明顯轉向\"觀望\"，黃金大幅反彈。目前美聯儲面臨的形勢是就業不過熱、通脹預期趨於溫和，這意味著整個夏天加息的機率驟然降溫，黃金市場迎來反彈契機。"
+    },
     {
       "id": "mkt:019f2571-c4df-7aab-8c86-e7d1fa4f7237",
       "time": "2026-07-03 08:47:20",
