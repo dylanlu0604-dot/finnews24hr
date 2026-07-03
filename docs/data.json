@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-04 00:50:54",
-  "count": 13475,
+  "updated": "2026-07-04 01:03:03",
+  "count": 13476,
   "items": [
+    {
+      "id": "mkt:019f28ec-4ffa-7aab-8c99-b859799d4bd2",
+      "time": "2026-07-04 01:00:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK prime minister candidate Burnham said the manifesto pledge to preserve the pensions \"triple lock\" remains in place."
+    },
+    {
+      "id": "4970024",
+      "time": "2026-07-04 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.09%，滬銅收漲0.14%，滬鋁收漲0.60%，滬鋅收漲0.87%，滬鉛收漲0.38%，滬鎳收跌0.02%，滬錫收漲3.80%。氧化鋁夜盤收跌0.07%，鋁合金收漲0.24%。不鏽鋼夜盤收跌1.85%。"
+    },
+    {
+      "id": "mkt:019f28eb-b5c1-7aab-8c99-b350dac24d3c",
+      "time": "2026-07-04 00:59:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 2.00% intraday to $1,225.57/oz."
+    },
+    {
+      "id": "mkt:019f28eb-b0f1-7aab-8c99-af390910b441",
+      "time": "2026-07-04 00:59:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister candidate Burnham said he will ensure the defence investment programme receives full funding."
+    },
+    {
+      "id": "4970023",
+      "time": "2026-07-04 00:57:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 養老金三重保障承諾必須堅守，此事至關重要。"
+    },
+    {
+      "id": "4970022",
+      "time": "2026-07-04 00:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國工黨領袖候選人伯納姆： 將確保國防投資計劃資金足額到位。"
+    },
+    {
+      "id": "mkt:019f28e9-2f94-7aab-8c99-a5fa10b64fb6",
+      "time": "2026-07-04 00:56:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "IAEA said it learned the Zaporizhzhia nuclear power plant lost external power for the 21st time today amid the military conflict."
+    },
+    {
+      "id": "mkt:019f28e9-1b8b-7aab-8c99-999d0e10f86d",
+      "time": "2026-07-04 00:56:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Fitch: Middle East tensions still pose risk to global corporates】Fitch said the Middle East remains a risk to global corporates despite a June 17 temporary memorandum between the US and Iran, noting retaliatory strikes continue, the pact is fragile and Israel is not a party. In an updated downside scenario Fitch said an extreme outcome — equities down 10%, corporate bond spreads widening 100–200bps, monetary policy tightening and a marked global slowdown — may not fully materialize but serves as a reference for conflict escalation; under that scenario US and euro-area growth would drop significantly. Fitch reviewed 72 industry sub‑sectors across six regions, leaving most risk assessments unchanged while revising some; it warned tail risks persist and renewed escalation would pressure corporate credit conditions and financial markets."
+    },
+    {
+      "id": "4970021",
+      "time": "2026-07-04 00:56:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：扎波羅熱核電站今日在軍事衝突期間第 21 次失去場外供電。"
+    },
+    {
+      "id": "4970020",
+      "time": "2026-07-04 00:51:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【倫鋁價格承壓，中東風險溢價消退】LME期銅收漲40美元，報13366美元/噸。LME期鋁收跌1美元，報3090美元/噸。LME期鋅收漲54美元，報3541美元/噸。LME期鉛收漲16美元，報1892美元/噸。LME期鎳收漲174美元，報16424美元/噸。LME期錫收漲1668美元，報52628美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "4970019",
       "time": "2026-07-04 00:49:17",
@@ -123979,102 +124075,6 @@
         "國際"
       ],
       "text": "美國油服貝克休斯：美國能源企業活躍石油鑽井機連增兩週。"
-    },
-    {
-      "id": "4957874",
-      "time": "2026-06-27 01:02:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 開啟 GPT-5.6 系列有限預覽版測試。"
-    },
-    {
-      "id": "mkt:019f04e2-0bc2-7dd8-b13c-0a6f99e193a1",
-      "time": "2026-06-27 01:02:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total rig count for the week to June 26: 573 rigs, up from 563 the prior week."
-    },
-    {
-      "id": "mkt:019f04e1-f0f6-7dd8-b13c-02b9d8637200",
-      "time": "2026-06-27 01:02:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jun.26) | actual 573 | previous 563"
-    },
-    {
-      "id": "mkt:019f04e1-94a1-7dd8-b13b-fb946e812f16",
-      "time": "2026-06-27 01:02:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US oil rigs totaled 440 in the week to June 26, up from 433 the previous week."
-    },
-    {
-      "id": "mkt:019f04e1-7c04-7dd8-b13b-f1145179880c",
-      "time": "2026-06-27 01:01:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jun.26) | actual 440 | previous 433"
-    },
-    {
-      "id": "4957873",
-      "time": "2026-06-27 01:01:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "貝克休斯：美國石油鑽井平臺數量增加7個，達到440個。\n美國鑽井平臺總數為573臺。\n美國天然氣鑽井平臺數量增加3個，達到125個。"
-    },
-    {
-      "id": "4957872",
-      "time": "2026-06-27 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.90%，滬銅收漲0.90%，滬鋁收漲0.81%，滬鋅收漲2.16%，滬鉛收跌0.37%，滬鎳收漲0.36%，滬錫收漲1.66%。氧化鋁夜盤收漲0.64%，鋁合金收漲1.66%。不鏽鋼夜盤收漲0.48%。"
-    },
-    {
-      "id": "mkt:019f04de-da88-7dd8-b13b-e981bebe2b85",
-      "time": "2026-06-27 00:59:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "IMF chief economist Gourinchas said the global economy remains centered on the dollar."
-    },
-    {
-      "id": "mkt:019f04d7-7431-7dd8-b13b-e5bc41a2aba5",
-      "time": "2026-06-27 00:50:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O"
-      ],
-      "text": "Semafor reports Qualcomm (QCOM.O) plans to introduce a new smartphone chip architecture."
     }
   ]
 }
