@@ -1,7 +1,92 @@
 {
   "date": "2026-07-03",
-  "count": 2613,
+  "count": 2623,
   "items": [
+    {
+      "id": "mkt:019f2867-1ff5-7aab-8c97-bff21f1f8ffa",
+      "time": "2026-07-03 22:34:34",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "CBS reports US authorities are monitoring oil markets to prevent price manipulation."
+    },
+    {
+      "id": "4969947",
+      "time": "2026-07-03 22:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟10年沒幹成的事，這些城市跑步入場】2024年，微軟雲運營與創新部門負責人諾埃爾·沃爾什表示，“微軟不會在世界任何地方建造海底資料中心。”矽谷巨頭用10年驗證了技術可行後，最終選擇關停Natick海底資料中心專案。但在中國，一批沿海城市卻接過了建設海底資料中心的接力棒。據不完全統計，全國已有約10個沿海城市/區域明確規劃、簽約或啟動海底資料中心（UDC）建設。海南陵水、上海臨港、廣東陽江及汕頭的相關專案已正式運營或在建。算力需求還在爆發式增長。據IDC預測，2030年全球算力需求將是2025年的10倍。隨著越來越多的國家隊入局海底資料中心專案，中國首次以重大戰略專案的模式，發力海底算力這一未來產業新賽道。（21財經）"
+    },
+    {
+      "id": "mkt:019f2866-d043-7aab-8c97-b20d7cb3b7c1",
+      "time": "2026-07-03 22:34:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Argentina completed a USD 6 billion repo financing priced at SOFR +400bps."
+    },
+    {
+      "id": "mkt:019f2865-6333-7aab-8c97-af0a512ee4f4",
+      "time": "2026-07-03 22:32:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Jizhi Technology, Xiaomi and 3M China plan joint new‑display laboratory】At a July 3 seminar in Ningbo, Xiaomi, 3M China and Jizhi Technology said they plan to jointly establish a new‑display laboratory, combining materials R&D, thin‑film deposition and end‑product integration capabilities to advance energy efficiency and high‑end upgrades in the China display industry."
+    },
+    {
+      "id": "mkt:019f2865-219b-7aab-8c97-a1f3c4bdc284",
+      "time": "2026-07-03 22:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister proposed a package of crisis-response measures to advance normalization of relations between the two sides."
+    },
+    {
+      "id": "mkt:019f2864-c770-7aab-8c97-9e0577f75315",
+      "time": "2026-07-03 22:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister, after meeting Poland's foreign minister, said Ukraine is willing to engage in equal and honest dialogue."
+    },
+    {
+      "id": "4969946",
+      "time": "2026-07-03 22:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【激智科技聯合小米、3M中國計劃共建新型顯示聯合實驗室】7月3日，“聚光成鏈・智創未來——2026光電技術產才融合創新研討會”在寧波順利舉辦。會上小米、3M中國、激智科技三方計劃共建新型顯示聯合實驗室，三方整合材料研發、成膜技術、終端整機優勢，合力推動顯示行業節能化、高階化升級。"
+    },
+    {
+      "id": "4969945",
+      "time": "2026-07-03 22:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長提議一攬子反危機措施以推動關係正常化。"
+    },
+    {
+      "id": "4969944",
+      "time": "2026-07-03 22:31:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長在與波蘭外長會晤後表示：基輔願意開展平等、坦誠的對話。"
+    },
+    {
+      "id": "mkt:019f2863-eee8-7aab-8c97-913e111d9e67",
+      "time": "2026-07-03 22:31:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Argentina's central bank will extend repurchase agreement maturities to 2028."
+    },
     {
       "id": "mkt:019f2862-d3b8-7aab-8c97-8ddff0161353",
       "time": "2026-07-03 22:29:53",

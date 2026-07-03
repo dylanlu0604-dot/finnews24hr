@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-03 22:31:27",
+  "updated": "2026-07-03 22:35:28",
   "count": 13531,
   "items": [
+    {
+      "id": "mkt:019f2867-1ff5-7aab-8c97-bff21f1f8ffa",
+      "time": "2026-07-03 22:34:34",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "CBS reports US authorities are monitoring oil markets to prevent price manipulation."
+    },
+    {
+      "id": "4969947",
+      "time": "2026-07-03 22:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟10年沒幹成的事，這些城市跑步入場】2024年，微軟雲運營與創新部門負責人諾埃爾·沃爾什表示，“微軟不會在世界任何地方建造海底資料中心。”矽谷巨頭用10年驗證了技術可行後，最終選擇關停Natick海底資料中心專案。但在中國，一批沿海城市卻接過了建設海底資料中心的接力棒。據不完全統計，全國已有約10個沿海城市/區域明確規劃、簽約或啟動海底資料中心（UDC）建設。海南陵水、上海臨港、廣東陽江及汕頭的相關專案已正式運營或在建。算力需求還在爆發式增長。據IDC預測，2030年全球算力需求將是2025年的10倍。隨著越來越多的國家隊入局海底資料中心專案，中國首次以重大戰略專案的模式，發力海底算力這一未來產業新賽道。（21財經）"
+    },
+    {
+      "id": "mkt:019f2866-d043-7aab-8c97-b20d7cb3b7c1",
+      "time": "2026-07-03 22:34:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Argentina completed a USD 6 billion repo financing priced at SOFR +400bps."
+    },
+    {
+      "id": "mkt:019f2865-6333-7aab-8c97-af0a512ee4f4",
+      "time": "2026-07-03 22:32:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Jizhi Technology, Xiaomi and 3M China plan joint new‑display laboratory】At a July 3 seminar in Ningbo, Xiaomi, 3M China and Jizhi Technology said they plan to jointly establish a new‑display laboratory, combining materials R&D, thin‑film deposition and end‑product integration capabilities to advance energy efficiency and high‑end upgrades in the China display industry."
+    },
+    {
+      "id": "mkt:019f2865-219b-7aab-8c97-a1f3c4bdc284",
+      "time": "2026-07-03 22:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister proposed a package of crisis-response measures to advance normalization of relations between the two sides."
+    },
+    {
+      "id": "mkt:019f2864-c770-7aab-8c97-9e0577f75315",
+      "time": "2026-07-03 22:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister, after meeting Poland's foreign minister, said Ukraine is willing to engage in equal and honest dialogue."
+    },
+    {
+      "id": "4969946",
+      "time": "2026-07-03 22:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【激智科技聯合小米、3M中國計劃共建新型顯示聯合實驗室】7月3日，“聚光成鏈・智創未來——2026光電技術產才融合創新研討會”在寧波順利舉辦。會上小米、3M中國、激智科技三方計劃共建新型顯示聯合實驗室，三方整合材料研發、成膜技術、終端整機優勢，合力推動顯示行業節能化、高階化升級。"
+    },
+    {
+      "id": "4969945",
+      "time": "2026-07-03 22:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長提議一攬子反危機措施以推動關係正常化。"
+    },
+    {
+      "id": "4969944",
+      "time": "2026-07-03 22:31:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長在與波蘭外長會晤後表示：基輔願意開展平等、坦誠的對話。"
+    },
+    {
+      "id": "mkt:019f2863-eee8-7aab-8c97-913e111d9e67",
+      "time": "2026-07-03 22:31:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Argentina's central bank will extend repurchase agreement maturities to 2028."
+    },
     {
       "id": "mkt:019f2862-d3b8-7aab-8c97-8ddff0161353",
       "time": "2026-07-03 22:29:53",
@@ -124567,90 +124652,6 @@
         "市場"
       ],
       "text": "【分析：投資者預期英國政府發債可能增加】Tickmill Group合夥人Patrick Munnelly表示，由於預期政府發債可能大幅增加，投資者在購買英國國債時要求獲得額外補償。他說：“市場預期英國國債供應將增加、赤字將擴大，且政治風險將揮之不去。“在發達市場同類國家中，英國的政府借貸成本最高。Tradeweb的資料顯示，10年期英國國債收益率攀升3.5個基點，最新報4.738%。倫敦證券交易所集團的資料顯示，英鎊兌歐元走弱，歐元升至盤中高點0.8651英鎊。"
-    },
-    {
-      "id": "4957759",
-      "time": "2026-06-26 22:35:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【它石智航與天海電子達成戰略合作】6月26日，它石智航與天海汽車電子集團股份有限公司簽署戰略合作協議。雙方將圍繞具身智慧在汽車線束裝配場景的規模化應用展開深度協同。"
-    },
-    {
-      "id": "4957758",
-      "time": "2026-06-26 22:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投集團與四川省政府簽署全面深化戰略合作協議】6月26日，國家電投集團與四川省政府簽署全面深化戰略合作協議。根據協議，雙方將圍繞清潔能源開發利用、鄉村振興等方面開展深入合作，共同拓展綠電直連、零碳園區、綠色氫基能源等新業態。"
-    },
-    {
-      "id": "4957757",
-      "time": "2026-06-26 22:35:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百利食品北交所IPO將於7月3日上會】6月26日，據北交所網站披露，北交所上市稽核委員會定於7月3日上午9時召開2026年第64次上市稽核委員會審議會議，屆時將審議廣東百利食品股份有限公司的首發事項。"
-    },
-    {
-      "id": "mkt:019f045a-d7d2-7dd8-b139-82b0d77ea06c",
-      "time": "2026-06-26 22:34:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Minoru Kihara said no abnormal activity has been observed at Mount Fuji."
-    },
-    {
-      "id": "te:markets:562288",
-      "time": "2026-06-26 22:34:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Down for 2nd Day — The US dollar index weakened for a second consecutive session, falling to 101.1 on Friday after a broadly in-line PCE inflation report led investors to slightly scale back expectations for Fed rate hikes this year. The dollar’s losses were most pronounced against the euro and the Swiss franc. Still, the greenback remains up about 0.3% for the week, supported by a more hawkish Fed tone earlier in the month. New Fed Chair Warsh reaffirmed the central bank’s commitment to bringing inflation under control, easing concerns that he might come under pressure from US President Trump to cut interest rates prematurely. The Fed also raised its 2026 PCE inflation projections. Headline PCE inflation accelerated to 4.1% in May, reinforcing the view that inflation remains sticky. Markets are currently pricing in three Fed rate hikes this year, with the probability of the first move in September standing at around 62%."
-    },
-    {
-      "id": "4957756",
-      "time": "2026-06-26 22:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本官員：富士山未監測到異常活動。"
-    },
-    {
-      "id": "4957755",
-      "time": "2026-06-26 22:34:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【野生菌扎堆上市價格跳水】央視財經訊息，這幾天，隨著野生菌批次上市，位於雲南昆明的大型野生菌交易中心，單日交易量突破200噸，雲南正式進入食菌季。上市量的增長也帶動了野生菌價格明顯回落。其中，前段時間見手青每公斤賣到500到600多元，現在品質最好的300多元，價格便宜了一半。雞樅菌售價穩定在每公斤500元左右。同時，香格里拉松茸半月前曾因上市量不多被搶購一空，而本週，也可以少量嚐鮮。除了熱門品類，谷熟菌、奶漿菌、雞油菌等小眾野生菌，價格也降至每公斤百元上下。（央視財經）"
-    },
-    {
-      "id": "4957754",
-      "time": "2026-06-26 22:33:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：盧卡申科已抵達俄羅斯，計劃於今日同普京會面。"
-    },
-    {
-      "id": "mkt:019f0458-6c5f-7dd8-b139-78c8dc599dc8",
-      "time": "2026-06-26 22:32:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UAE said an early-warning system experienced a technical fault on Friday, causing erroneous alerts to be issued."
-    },
-    {
-      "id": "4957753",
-      "time": "2026-06-26 22:31:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋宣告稱：週五預警系統發生技術故障，導致發出錯誤預警資訊。"
     }
   ]
 }
