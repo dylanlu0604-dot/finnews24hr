@@ -1,7 +1,18 @@
 {
   "date": "2026-07-04",
-  "count": 84,
+  "count": 85,
   "items": [
+    {
+      "id": "te:markets:564220",
+      "time": "2026-07-04 02:25:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers are Wool (-2.01%) and Palm Oil (-0.58%). Gains are led by Butter (0.72%)."
+    },
     {
       "id": "mkt:019f2937-12a2-7aab-8c9a-431933c0718e",
       "time": "2026-07-04 02:21:42",

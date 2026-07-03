@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-04 02:24:00",
-  "count": 13439,
+  "updated": "2026-07-04 02:27:49",
+  "count": 13436,
   "items": [
+    {
+      "id": "te:markets:564220",
+      "time": "2026-07-04 02:25:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers are Wool (-2.01%) and Palm Oil (-0.58%). Gains are led by Butter (0.72%)."
+    },
     {
       "id": "mkt:019f2937-12a2-7aab-8c9a-431933c0718e",
       "time": "2026-07-04 02:21:42",
@@ -123705,46 +123716,6 @@
         "國際"
       ],
       "text": "特朗普誇耀股市高點。"
-    },
-    {
-      "id": "mkt:019f0530-1bc6-7dd8-b13d-6d1db37634f7",
-      "time": "2026-06-27 02:27:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump: Iran still has some military capability, but not much."
-    },
-    {
-      "id": "mkt:019f0530-0d41-7dd8-b13d-626a39165650",
-      "time": "2026-06-27 02:27:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said no one now wants to be Iran's leader, saying people ask \"Who wants to be president?\" and everyone replies \"No, thank you.\""
-    },
-    {
-      "id": "mkt:019f052f-8eda-7dd8-b13d-5a2332a600bf",
-      "time": "2026-06-27 02:27:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "US tech site The Verge reports the non‑Pro iPhone 18 may get a modest RAM increase to bolster on‑device AI performance."
-    },
-    {
-      "id": "te:markets:562320",
-      "time": "2026-06-27 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Plunges by 6.02% — Top commodity losers are Rubber (-6.02%), Cocoa (-2.67%) and Wheat (-2.32%). Gains are led by Sugar (3.07%) and Rice (1.24%)."
     }
   ]
 }
