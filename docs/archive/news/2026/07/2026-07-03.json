@@ -1,7 +1,102 @@
 {
   "date": "2026-07-03",
-  "count": 878,
+  "count": 888,
   "items": [
+    {
+      "id": "4968663",
+      "time": "2026-07-03 09:52:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工業氣體概念股震盪走弱 金宏氣體跌超12%】工業氣體概念股震盪走弱，金宏氣體跌超12%，巨化股份、正帆科技、凱美特氣等股下跌。"
+    },
+    {
+      "id": "4968662",
+      "time": "2026-07-03 09:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭解除核禁令 俄將其列為核打擊目標】俄羅斯聯邦安全會議副主席梅德韋傑夫2日表示，芬蘭解除在其領土上部署核武器的禁令後，它已成為俄羅斯核打擊的目標。梅德韋傑夫當天在社交媒體上發文說，芬蘭已解除在其領土上部署核武器的禁令，這給芬蘭人帶來一個變化，就是他們的國家現在已被俄羅斯列為核打擊目標。（新華社）"
+    },
+    {
+      "id": "4968661",
+      "time": "2026-07-03 09:52:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "同仁堂健康香港IPO定價5.50港元。（IFR）"
+    },
+    {
+      "id": "mkt:019f25ac-ff5b-7aab-8c88-cdee46103a11",
+      "time": "2026-07-03 09:52:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish",
+        "00100.HK",
+        "03896.HK"
+      ],
+      "text": "Hong Kong AI application stocks extended gains: Zhipu (02513.HK) up nearly 15%, MINIMAX-W (00100.HK) up over 6%; Kingsoft Cloud (03896.HK) and Horizon Robotics (09660.HK) also climbed."
+    },
+    {
+      "id": "mkt:019f25ac-ce2c-7aab-8c88-c673296bc4f9",
+      "time": "2026-07-03 09:51:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year bond yield fell 1.5bps to 3.750%."
+    },
+    {
+      "id": "4968660",
+      "time": "2026-07-03 09:51:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震搜救仍在進行 拉瓜伊拉州政府官員幾乎全部遇難】當地時間2日，委內瑞拉代總統羅德里格斯召開震後一週新聞釋出會。羅德里格斯稱，委內瑞拉地震導致189座建築物完全倒塌，地震搜救仍在繼續。羅德里格斯表示，委內瑞拉在地震發生後立即部署了應急系統。重災區拉瓜伊拉州政府及市政廳的官員幾乎全部遇難，該州的軍事和警察部隊也有大量人員傷亡。"
+    },
+    {
+      "id": "4968659",
+      "time": "2026-07-03 09:51:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4968658",
+      "time": "2026-07-03 09:50:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌1.5個基點至3.750%。"
+    },
+    {
+      "id": "te:economy:563937",
+      "time": "2026-07-03 09:50:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "China Services Growth Beats Forecasts — The RatingDog China General Services PMI declined to 54.1 in June 2026 from May's three-month high of 54.4. However, the latest reading exceeded market forecasts of 53.0, supported by growth in new orders, although the pace of increase eased slightly while remaining above the trend seen during the current expansion period. Foreign demand supported the overall increase in new business, growing for the second consecutive month and at the fastest pace since October 2024."
+    },
+    {
+      "id": "4968657",
+      "time": "2026-07-03 09:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國第16次北冰洋考察啟航】7月3日，由自然資源部組織的中國第16次北冰洋考察隊“雪龍”號、“雪龍2”號、北海局“極地”號從大連啟航，這是“十五五”開局之年我國組織實施的首次北冰洋考察，由“雪龍”號、“雪龍2”號、北海局“極地”號、“探索三號”四船共同實施，預計10月上旬完成考察任務。"
+    },
     {
       "id": "mkt:019f25aa-e168-7aab-8c88-bd8bcca11d0d",
       "time": "2026-07-03 09:49:43",
