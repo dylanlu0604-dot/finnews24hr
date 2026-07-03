@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-04 06:32:11",
-  "count": 13317,
+  "updated": "2026-07-04 06:37:01",
+  "count": 13314,
   "items": [
+    {
+      "id": "te:markets:564231",
+      "time": "2026-07-04 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.24% — Top commodity gainers are Silver (2.24%), Lithium Carbonate (1.69%), Platinum (1.56%) and Gold (1.15%). Biggest loser is Iron Ore CNY (-0.81%)."
+    },
     {
       "id": "te:markets:564230",
       "time": "2026-07-04 06:30:18",
@@ -122554,44 +122565,6 @@
         "其他"
       ],
       "text": "玻利維亞經濟部：玻利維亞政府將實施靈活匯率制度。"
-    },
-    {
-      "id": "te:markets:562333",
-      "time": "2026-06-27 06:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.87% — Top commodity losers are Lithium Carbonate (-2.87%) and Silicon (-1.14%). Gains are led by Silver (2.27%), Iron Ore CNY (1.77%) and Gold (1.49%)."
-    },
-    {
-      "id": "4958075",
-      "time": "2026-06-27 06:34:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "ICE歐洲期貨交易所：交易所交易商持倉報告(COT)資料顯示，截至6月23日，飼料小麥投機者淨空頭倉位增加375手，至375手。"
-    },
-    {
-      "id": "4958074",
-      "time": "2026-06-27 06:32:59",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：美國解除對Anthropic強大Claude Mythos 5人工智慧模型的限制，允許該公司向100多家美國機構釋出。"
-    },
-    {
-      "id": "4958073",
-      "time": "2026-06-27 06:32:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國向部分企業釋出強大的Anthropic模型Mythos。"
     }
   ]
 }

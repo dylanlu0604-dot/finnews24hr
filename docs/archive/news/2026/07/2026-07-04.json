@@ -1,7 +1,18 @@
 {
   "date": "2026-07-04",
-  "count": 215,
+  "count": 216,
   "items": [
+    {
+      "id": "te:markets:564231",
+      "time": "2026-07-04 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.24% — Top commodity gainers are Silver (2.24%), Lithium Carbonate (1.69%), Platinum (1.56%) and Gold (1.15%). Biggest loser is Iron Ore CNY (-0.81%)."
+    },
     {
       "id": "te:markets:564230",
       "time": "2026-07-04 06:30:18",
