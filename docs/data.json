@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-04 05:12:50",
-  "count": 13333,
+  "updated": "2026-07-04 05:18:14",
+  "count": 13336,
   "items": [
+    {
+      "id": "4970132",
+      "time": "2026-07-04 05:16:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普簽署美國建國 250 週年公告。"
+    },
+    {
+      "id": "4970131",
+      "time": "2026-07-04 05:15:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛迪生聯合電氣公司：愛迪生聯合電氣的工作人員正全力評估受損情況、開展搶修，爭取儘快安全恢復供電。"
+    },
+    {
+      "id": "4970130",
+      "time": "2026-07-04 05:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.03%，報14882點。"
+    },
+    {
+      "id": "4970129",
+      "time": "2026-07-04 05:15:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛迪生聯合電氣公司：皇后區西南部因極端高溫與用電需求過高引發裝置故障，已停止供電。"
+    },
+    {
+      "id": "te:markets:564227",
+      "time": "2026-07-04 05:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Stronger Services Data — The Ibovespa gained 0.7% to close at 174,070 on Friday as investors assessed May industrial production and June services PMI data. The S&P Global Services PMI showed the sector expanded at a slightly faster pace in June as demand improved, supporting domestically oriented stocks. Retail shares led gains, with Ultrapar rising 3.5% and Magazine Luiza advancing 4.2%. Financial stocks also moved higher, with Itaúsa adding 0.7% and B3 gaining 1%. Meanwhile, oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation. Petrobras rose 0.8% despite lower crude prices after inaugurating the Pre-Salt Technology Center, a semi-industrial-scale research facility built with R$300 million in funding. Meanwhile, industrial production rose just 0.2% year-on-year in May, well below forecasts of a 1.3% increase. Investors also monitored the US decision to launch a public consultation on Brazil's trade policies and practices."
+    },
     {
       "id": "4970128",
       "time": "2026-07-04 05:10:36",
@@ -122700,23 +122745,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊稱美軍襲擊錫裡克島，伊朗已擊退此次進攻。"
-    },
-    {
-      "id": "4958038",
-      "time": "2026-06-27 05:16:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨夜盤收漲0.82%，報15432點。"
-    },
-    {
-      "id": "4958037",
-      "time": "2026-06-27 05:15:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法拉第未來智慧電動：據美國證券交易委員會檔案，公司擬最高發行 3 億美元證券。"
     }
   ]
 }
