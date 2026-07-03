@@ -1,7 +1,64 @@
 {
   "date": "2026-07-03",
-  "count": 2555,
+  "count": 2561,
   "items": [
+    {
+      "id": "mkt:019f283e-8d60-7aab-8c97-1dfc7c826fcf",
+      "time": "2026-07-03 21:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DesRosiers, a Canadian automotive market research firm, said Canadian motor vehicle sales rose 1.9% year-on-year in June."
+    },
+    {
+      "id": "4969911",
+      "time": "2026-07-03 21:49:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度國家證券交易所（NSE）資料顯示，NEO APEX股票經紀有限責任合夥企業透過大宗交易，以每股42.42盧比的價格購入韋丹塔鋼鐵（Vedanta Iron and Steel）2089萬股股票。"
+    },
+    {
+      "id": "4969910",
+      "time": "2026-07-03 21:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證監會舉行“兩優一先”表彰大會暨學習教育專題黨課報告會】據證監會7月3日訊息，7月3日下午，證監會黨委召開“兩優一先”表彰大會，深入學習貫徹習近平黨建思想和習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話，傳達學習金融系統黨的建設工作會議精神，表彰中國證監會優秀共產黨員、優秀黨務工作者和先進基層黨組織。證監會黨委書記、主席吳清出席會議並圍繞牢固樹立和踐行正確政績觀作專題黨課報告。"
+    },
+    {
+      "id": "te:markets:564181",
+      "time": "2026-07-03 21:47:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Croatia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4482.00 Index Points, the highest since February 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 3.95%, and in the last 12 months, it increased 25.61%."
+    },
+    {
+      "id": "mkt:019f283b-9c31-7aab-8c97-102a0d6be6c5",
+      "time": "2026-07-03 21:47:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources: Venezuela's Amuay refinery has resumed operations after a power outage; capacity 645,000 bpd."
+    },
+    {
+      "id": "4969909",
+      "time": "2026-07-03 21:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：委內瑞拉日產能64.5萬桶的阿穆艾煉油廠在停電後恢復運營。"
+    },
     {
       "id": "mkt:019f283a-35e7-7aab-8c97-0ee31b2a8ec8",
       "time": "2026-07-03 21:45:31",

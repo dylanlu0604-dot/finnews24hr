@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-03 21:47:20",
-  "count": 13578,
+  "updated": "2026-07-03 21:51:21",
+  "count": 13569,
   "items": [
+    {
+      "id": "mkt:019f283e-8d60-7aab-8c97-1dfc7c826fcf",
+      "time": "2026-07-03 21:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DesRosiers, a Canadian automotive market research firm, said Canadian motor vehicle sales rose 1.9% year-on-year in June."
+    },
+    {
+      "id": "4969911",
+      "time": "2026-07-03 21:49:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度國家證券交易所（NSE）資料顯示，NEO APEX股票經紀有限責任合夥企業透過大宗交易，以每股42.42盧比的價格購入韋丹塔鋼鐵（Vedanta Iron and Steel）2089萬股股票。"
+    },
+    {
+      "id": "4969910",
+      "time": "2026-07-03 21:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證監會舉行“兩優一先”表彰大會暨學習教育專題黨課報告會】據證監會7月3日訊息，7月3日下午，證監會黨委召開“兩優一先”表彰大會，深入學習貫徹習近平黨建思想和習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話，傳達學習金融系統黨的建設工作會議精神，表彰中國證監會優秀共產黨員、優秀黨務工作者和先進基層黨組織。證監會黨委書記、主席吳清出席會議並圍繞牢固樹立和踐行正確政績觀作專題黨課報告。"
+    },
+    {
+      "id": "te:markets:564181",
+      "time": "2026-07-03 21:47:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Croatia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4482.00 Index Points, the highest since February 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 3.95%, and in the last 12 months, it increased 25.61%."
+    },
+    {
+      "id": "mkt:019f283b-9c31-7aab-8c97-102a0d6be6c5",
+      "time": "2026-07-03 21:47:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources: Venezuela's Amuay refinery has resumed operations after a power outage; capacity 645,000 bpd."
+    },
+    {
+      "id": "4969909",
+      "time": "2026-07-03 21:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：委內瑞拉日產能64.5萬桶的阿穆艾煉油廠在停電後恢復運營。"
+    },
     {
       "id": "mkt:019f283a-35e7-7aab-8c97-0ee31b2a8ec8",
       "time": "2026-07-03 21:45:31",
@@ -124965,152 +125022,6 @@
         "Importance 0"
       ],
       "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4455.00 Index Points, the highest since February 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 6.07%, and in the last 12 months, it increased 22.93%."
-    },
-    {
-      "id": "mkt:019f0432-eb34-7dd8-b138-ab4c9a3c6b06",
-      "time": "2026-06-26 21:51:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spot gold rose 1.00% intraday to $4,067.05/oz."
-    },
-    {
-      "id": "4957695",
-      "time": "2026-06-26 21:51:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4067.46美元/盎司。"
-    },
-    {
-      "id": "4957694",
-      "time": "2026-06-26 21:50:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST正平：選舉金煜坤為董事長】*ST正平(603843)6月26日公告，公司於6月26日召開了第五屆董事會第二十次（臨時）會議，審議透過了《關於選舉公司董事長的議案》，選舉金煜坤為公司董事長，任期自本公告之日起至本屆董事會任期屆滿止。"
-    },
-    {
-      "id": "4957693",
-      "time": "2026-06-26 21:50:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【啟境首款車型GT7售價公佈：20.99萬起】6月26日晚，啟境汽車宣佈，啟境GT7正式上市，官方指導價20.99萬元至32.99萬元。"
-    },
-    {
-      "id": "mkt:019f0431-df78-7dd8-b138-a250eebc01a1",
-      "time": "2026-06-26 21:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Final June U.S. University of Michigan consumer sentiment index and final one‑year inflation expectations due in 10 minutes."
-    },
-    {
-      "id": "4957691",
-      "time": "2026-06-26 21:49:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠美股ADR下跌14%，儲存板塊集體下跌。"
-    },
-    {
-      "id": "4957690",
-      "time": "2026-06-26 21:49:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST華聞：執行重整計劃致控股股東、實控人發生變更】*ST華聞公告稱，執行《重整計劃》，以原有總股本19.97億股為基數，按每10股轉增12股的比例實施資本公積轉增股本，共計轉增23.97億股。2026年6月23日，16.93億股轉增股票過戶至全體重整投資人證券賬戶。過戶完成後，海南聯合持有4.84億股，持股比例11.01%，成為第一大股東暨控股股東，實控人變更為海南省國資委；國廣資產合計持股2.21億股，持股比例被動稀釋至5.03%，不再是控股股東。本次控制權變更不影響公司正常經營，但重整計劃尚在執行階段，公司股票仍有終止上市風險。"
-    },
-    {
-      "id": "te:markets:562271",
-      "time": "2026-06-26 21:49:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "J&J Stock Price Hits All-time High — J&J shares increased to an all-time high of 251.76 USD. Over the past 4 weeks, Johnson & Johnson gained 9.14%, and in the last 12 months, it increased 65.27%."
-    },
-    {
-      "id": "mkt:019f0430-c984-7dd8-b138-9caddde14512",
-      "time": "2026-06-26 21:48:53",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "VIX briefly hit a two-week high; last up 1.42 points at 20.31."
-    },
-    {
-      "id": "4957689",
-      "time": "2026-06-26 21:48:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆：將向委內瑞拉提供援助和所需的一切。"
-    },
-    {
-      "id": "4957688",
-      "time": "2026-06-26 21:48:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆與委內瑞拉臨時總統羅德里格斯的電話會議將於美東時間12:00（北京時間次日0:00）進行。"
-    },
-    {
-      "id": "mkt:019f0430-79f8-7dd8-b138-93093cdc7379",
-      "time": "2026-06-26 21:48:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexican president Sheinbaum will hold a phone call with Venezuela's interim president Rodriguez at 12:00 p.m. ET (00:00 Beijing time next day)."
-    },
-    {
-      "id": "4957687",
-      "time": "2026-06-26 21:48:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數盤中短暫突破兩週高位；最新上漲1.42點，報20.31點。"
-    },
-    {
-      "id": "te:markets:562270",
-      "time": "2026-06-26 21:48:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Slips as Labor Market Holds Firm — The Ibovespa edged lower to trade below the 171,500 mark on Friday as investors assessed Brazil’s latest labor market data. The unemployment rate fell slightly to 5.6% in the rolling quarter ending in May, matching forecasts and holding at the lowest level in the historical series. The resilience of the labor market reinforced expectations that the BCB may keep interest rates elevated for longer. Major banks traded lower, with Itaú down more than 0.5% and Bradesco losing nearly 1%. Petrobras also fell 1% as oil prices returned to pre-conflict levels amid easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite Iran reaffirming its control over shipping in the Strait and warning Gulf states against siding with the US, a day after an attack on a vessel near Oman highlighted the fragility of the preliminary peace deal. Meanwhile, meatpackers extended gains, with MBRF rising more than 2.5%."
-    },
-    {
-      "id": "mkt:019f042f-eaaf-7dd8-b138-88da430cfc8b",
-      "time": "2026-06-26 21:47:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Sheinbaum said Mexico will provide Venezuela with aid and all necessary support."
     }
   ]
 }
