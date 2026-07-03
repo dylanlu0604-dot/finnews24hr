@@ -1,7 +1,64 @@
 {
   "date": "2026-07-03",
-  "count": 1966,
+  "count": 1972,
   "items": [
+    {
+      "id": "mkt:019f2756-2484-7aab-8c92-8c3d8c3e80dc",
+      "time": "2026-07-03 17:36:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Russia plans to import Japanese jet fuel shipped in July via traders."
+    },
+    {
+      "id": "4969477",
+      "time": "2026-07-03 17:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯計劃透過貿易商進口7月裝船的原產日本航煤。"
+    },
+    {
+      "id": "4969476",
+      "time": "2026-07-03 17:35:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海特：公司董事長、董事離任】中遠海特(600428)7月3日公告，因工作調動原因，張煒提出辭去公司董事長、董事及戰略決策委員會主任委員、提名委員會委員等職務，王威提出辭去公司董事、戰略決策委員會委員等職務。"
+    },
+    {
+      "id": "mkt:019f2754-06be-7aab-8c92-864af3bff1ad",
+      "time": "2026-07-03 17:34:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【BofA: U.S. stocks log largest outflow in three months】BofA says investors sold U.S. equities at the fastest pace since March. A Michael Hartnett-led team, citing EPFR Global, reports $17.2bn of outflows in the week to July 1 — the first weekly redemption in three months after strong inflows earlier this year. Flows favored international stocks: Japan saw the largest inflow in seven weeks at $1.9bn. Continued skepticism over AI-driven valuations weighed on chip names; the Philadelphia Semiconductor Index fell about 11% over the past two trading days."
+    },
+    {
+      "id": "4969475",
+      "time": "2026-07-03 17:34:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認淡馬錫 AAA/A-1 + 信用評級，展望穩定。"
+    },
+    {
+      "id": "4969474",
+      "time": "2026-07-03 17:33:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST章鼓：股票交易異常波動 近期無應披露未披露重大事項】ST章鼓公告稱，公司股票於2026年7月1日至7月3日連續3個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。公司於7月1日決定本次不向下修正“章鼓轉債”轉股價格，未來6個月內如觸發也不提出修正方案。經核查，公司目前無應披露而未披露的重大事項，近期經營正常，內外部環境無重大變化，控股股東和實控人無買賣公司股票行為。此外，公司股票已被實施其他風險警示，投資者需注意風險。"
+    },
     {
       "id": "4969473",
       "time": "2026-07-03 17:32:18",
