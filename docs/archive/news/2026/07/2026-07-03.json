@@ -1,7 +1,128 @@
 {
   "date": "2026-07-03",
-  "count": 647,
+  "count": 660,
   "items": [
+    {
+      "id": "mkt:019f2571-c4df-7aab-8c86-e7d1fa4f7237",
+      "time": "2026-07-03 08:47:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Barclays: Japan government bond yield curve steepens amid multiple headwinds】In Tokyo morning trade, two Barclays Japan analysts said the JGB yield curve has shown clear \"bear steepening\" this week, driven by market concern the Bank of Japan may be slow to act and by worries over Japan’s fiscal outlook. Analysts said investors are likely to continue awaiting details of fiscal spending; the cabinet may decide on a draft of the government’s Basic Policies on Economic and Fiscal Management and Reform."
+    },
+    {
+      "id": "mkt:019f2571-7a42-7aab-8c86-dcad45fea046",
+      "time": "2026-07-03 08:47:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China margin financing balances fall CNY6.445bn】As of July 2, Shanghai Stock Exchange margin balance was CNY1.515 tln, down CNY4.724bn from the previous trading day; Shenzhen was CNY1.476 tln, down CNY1.721bn. Combined margin balance was CNY2.991 tln, down CNY6.445bn."
+    },
+    {
+      "id": "4968497",
+      "time": "2026-07-03 08:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少64.45億元】截至7月2日，上交所融資餘額報15149.64億元，較前一交易日減少47.24億元；深交所融資餘額報14761.73億元，較前一交易日減少17.21億元；兩市合計29911.37億元，較前一交易日減少64.45億元。"
+    },
+    {
+      "id": "4968496",
+      "time": "2026-07-03 08:46:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "嘉士伯印度公司秘密提交印度IPO申請。"
+    },
+    {
+      "id": "te:economy:563917",
+      "time": "2026-07-03 08:45:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Services PMI Revised Higher — Japan’s S&P Global Services PMI Business Activity Index stood at 52.2 in June 2026, higher than the flash data of 51.8 and 50.0 in the prior month. The latest reading marked the 14th expansion in the past 15 months, although the pace of growth remained modest and slightly below the average over the past year. New business rose at one of the fastest rates in nearly two years, driven by stronger domestic demand, even as export orders fell sharply. Firms expanded hiring, with employment growth accelerating, while backlogs increased at the quickest pace since March, underscoring capacity pressures. Input cost inflation surged to a four-year high on higher oil, energy, food, and labor costs, yet selling price hikes slowed compared with May, hinting at softer pass-through. Finally, business confidence stayed subdued, among the weakest since the pandemic, as companies flagged uncertainty from Middle East tensions, persistent cost burdens, and labor shortages as key risks to the outlook."
+    },
+    {
+      "id": "mkt:019f2570-2b59-7aab-8c86-d6bd761ca376",
+      "time": "2026-07-03 08:45:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Everbright Securities: Meta renting compute is resource optimization; expansion plans unchanged】Everbright Securities says Meta’s pilot of external compute leasing aims to monetize its large AI infrastructure investment, signaling cloud services as the fastest, clearest route to recoup upfront costs and boost near-term returns. External monetization now serves as a cash-flow backstop for continued AI-capacity buildout; Everbright says Meta’s medium- to long-term plan to expand AI compute remains unchanged."
+    },
+    {
+      "id": "4968495",
+      "time": "2026-07-03 08:45:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【光大證券：Meta算力出租是資源最佳化手段 不改中長期擴產規劃】Meta試水外部算力租賃，光大證券最新研報表示，Meta進軍雲端計算的底層邏輯，是希望為鉅額的AI基礎設施投資創造新的變現通道，側面反映出雲端計算為當前最快、最明確的收回鉅額前期投入、提高當期回報率的方式，說明對外變現能力本身已成為支撐Meta持續擴大AI投資的現金流保證。Meta中長期持續加碼AI算力的整體規劃並未轉向。"
+    },
+    {
+      "id": "4968494",
+      "time": "2026-07-03 08:45:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：Trans Mountain Corporation將負責管道規劃與建設。"
+    },
+    {
+      "id": "mkt:019f256f-da25-7aab-8c86-cea52ba31fef",
+      "time": "2026-07-03 08:45:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Canada's prime minister Carney said he has reached an agreement with Alberta that the preferred route for a new pipeline is southbound through the mountain corridor to the Pacific coast. The Canadian government, Alberta and an oil-sands alliance have agreed terms to launch the 'Path Project'."
+    },
+    {
+      "id": "te:economy:563916",
+      "time": "2026-07-03 08:44:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Private Sector Growth Picks Up in June — Singapore’s S&P Global PMI rose to 57.4 in June 2026 from 56.7 in May, signaling another notable improvement in operating conditions. The expansion was primarily driven by sustained growth in new orders, supported by strong domestic demand, although output growth eased. The gap between output and new orders led to a significant increase in backlogs of work, which encouraged firms to expand their workforce, ending a two-month period of job shedding. Companies also increased their purchasing activity, allowing them to build up input inventories, resulting in a similarly sharp rise in pre-production stocks. In addition, vendors continued to keep pace with demand, as reflected in a third consecutive monthly improvement in suppliers’ delivery times. On the pricing front, input cost inflation reached a new survey high, while purchase price inflation eased for the first time in eight months. Finally, business confidence for the next 12 months improved noticeably."
+    },
+    {
+      "id": "4968493",
+      "time": "2026-07-03 08:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡尼：加拿大聯邦政府、阿爾伯塔省與油砂聯盟已就“路徑專案”（Pathways Project）的啟動條款達成一致。"
+    },
+    {
+      "id": "4968492",
+      "time": "2026-07-03 08:43:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST文峰等成立航天科技新公司】企查查APP顯示，近日，北京星峰航天科技有限公司成立，註冊資本1億元，經營範圍包含衛星導航多模增強應用服務系統整合；衛星遙感應用系統整合；衛星技術綜合應用系統整合；衛星行動通訊終端銷售等。企查查股權穿透顯示，該公司由ST文峰等共同持股。"
+    },
+    {
+      "id": "4968491",
+      "time": "2026-07-03 08:43:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic釋出Fable 5模型的安全防護措施及AI“越獄”行為評估框架】Anthropic釋出一套評估人工智慧“越獄”(jailbreak)行為嚴重程度的擬議框架，並詳細介紹了已在全球上線的Claude Fable 5模型所採用的網路安全防護措施。該公司將網路安全相關使用場景劃分為四類，從“禁止使用”到“無害用途”不等。被禁止的用途包括勒索軟體開發、惡意軟體開發以及網路—物理基礎設施破壞等活動。在建立更完善的控制機制之前，對於滲透測試等具有“雙重用途”屬性的高風險活動將予以攔截。Anthropic提出的網路越獄嚴重程度Cyber Jailbreak Severity評級體系，從CJS-0至CJS-4，共分五級，並依據四個維度進行評估。Anthropic還推出了HackerOne專案，邀請安全研究人員提交潛在的模型越獄案例。"
+    },
     {
       "id": "4968490",
       "time": "2026-07-03 08:43:19",
