@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-04 06:37:01_
-_本檔包含 2960 則快訊，約 506282 字_
+_更新時間：2026-07-04 07:40:31_
+_本檔包含 2960 則快訊，約 506401 字_
+
+---
+
+### 2026-07-02 10:30:32  #MKT News #Important
+
+A-share China-Korea Semiconductor ETF (513310) resumed trading and fell more than 5%.
+
+---
+
+### 2026-07-02 10:30:23  #MKT News
+
+A Vietnam central bank official said the bank is determined to control inflation.
+
+---
+
+### 2026-07-02 10:30:22  #央行 #其他
+
+越南央行副行長：決心將通脹控制在可控範圍內。
+
+---
+
+### 2026-07-02 10:30:09  #其他
+
+【默沙東：動物保健森斯坦®將在中國境內上市】7月2日，默沙東宣佈，其動物保健事業部最新的科技解決方案森斯坦®將在中國境內上市；此外，其紐弗羅®(氟苯尼考注射液)已於近期獲得中國農業農村部關於原料藥變更的批准，即將重返中國市場。此前，該產品已獲批將靶動物拓展至牛，進一步滿足牛和豬呼吸道疾病的防控需求。
+
+---
+
+### 2026-07-02 10:29:34  #市場
+
+小金屬板塊短線拉昇，翔鷺鎢業漲停，國城礦業、章源鎢業、中鎢高新、華陽新材、浩通科技等紛紛走高。
+
+---
+
+### 2026-07-02 10:29:18  #公司 #市場
+
+【工業母機概念震盪反彈，亞威股份等多股漲停】工業母機概念震盪反彈，*ST海華、亞威股份、*ST東智、ST匯洲漲停，科德數控、宏德股份、紐威數控漲超10%，貝斯特、秦川機床、浙海德曼等跟漲。
+
+---
+
+### 2026-07-02 10:28:42  #宏觀
+
+【國臺辦評張雪暖心回應島內車主讚歎 因為我們是一家人】國務院臺辦舉行例行新聞釋出會，總檯記者提問，近日張雪機車創始人張雪在與島內一位機車車主影片連線中，面對車主讚歎“你們的工業技術真先進”，張雪暖心回應。請問對此有何評論？發言人朱鳳蓮表示，這樣的對話讓我想起了一首歌《我們都是一家人》，從前的時候是一家人，現在還是一家人。因為我們是一家人，所以兩岸的中國人都會為張雪機車等一大批大陸產業技術創新成果感到驕傲；因為我們是一家人，所以大陸同胞願意率先同臺灣同胞分享中國式現代化發展機遇，共創民族復興偉業。我們熱忱歡迎廣大臺灣同胞多來大陸走走看看，親身感受祖國大陸日新月異的發展，積極參與兩岸交流合作、融合發展，攜手共創中華民族美好未來。
+
+---
+
+### 2026-07-02 10:28:18  #公司 #市場
+
+【小紅書概念股全面爆發 福石控股等多股漲停】小紅書概念股全面爆發走強，福石控股20cm漲停，天地線上、引力傳媒、天娛數科漲停，天創時尚、來伊份、慧辰股份、ST匯洲、天下秀等跟漲。
+
+---
+
+### 2026-07-02 10:27:18  #MKT News
+
+Vietnam central bank official says inflationary pressures in Vietnam are intensifying.
+
+---
+
+### 2026-07-02 10:27:07  #其他
+
+【南海部分水域有火箭殘骸掉落，禁止駛入】據中國海事局網站訊息，清瀾海事局釋出航行警告，7月4日16時30分至18時30分，南海部分水域有火箭殘骸掉落，禁止駛入。
+
+---
+
+### 2026-07-02 10:27:02  #公司
+
+【樂享科技完成近5億元Pre-A輪融資 螞蟻集團領投】近日，蘇州樂享智慧科技有限公司（樂享科技）正式完成近5億元Pre-A輪融資，併發布家庭具身智慧品牌“元點Zeroth”。本輪融資由螞蟻集團領投，產業方吉利資本、三七互娛，元禾璞華跟投，老股東Monolith持續超額跟投。新一輪融資將主要用於6項核心技術自研、人才引入和全球市場開拓，支援樂享科技繼續推動家庭具身智慧機器人走向真實場景。
+
+---
+
+### 2026-07-02 10:26:57  #其他
+
+【AI創作平臺“靈珠”完成天使輪融資，TikTok天使投資人領投】AI創作平臺“靈珠”近日完成天使輪融資，由TikTok天使投資人韋海軍領投。公開資料顯示，韋海軍曾在擔任獵豹移動投資負責人期間主導了對Musical.ly的天使投資，該產品後被位元組跳動收購更名為TikTok。靈珠定位於零門檻AI創作平臺，於今年4月20日開啟內測。6月25日，平臺正式面向全網公測、支援使用者對平臺上的作品進行二次創作。
+
+---
+
+### 2026-07-02 10:25:47  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10Y Yield Holds Gains Ahead of NFP — The yield on the 10-year US Treasury note held around 4.48% on Thursday, maintaining its recent gains as investors cautiously awaited the June jobs report for fresh insights into labor market conditions and greater clarity on the Federal Reserve’s policy outlook. Data released on Wednesday showed private-sector hiring in the US slowed more than expected last month, while the ISM PMI indicated wholesale energy prices had returned to levels seen before the Middle East conflict. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Meanwhile, rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks pushed oil prices lower and eased inflation concerns.
+
+---
+
+### 2026-07-02 10:25:23  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
+
+【South Korea unveils 392 trillion-won industrial investment plan; Samsung, SK Hynix to anchor central Chungcheong projects】The Ministry of Trade, Industry and Energy (MOTIE) on July 2 announced a 392 trillion-won industrial investment package targeted at the central Chungcheong region. Samsung group subsidiaries are slated to invest about 140 trillion won for an HBM wafer fab, advanced packaging, OLED output and battery lines; SK Hynix plans roughly 100 trillion won for NAND and advanced packaging fabs; Celltrion intends about 2 trillion won for biopharma facilities. Approximately 150 trillion won is earmarked for AI data centers. The government pledged financing, tax incentives and regulatory support to secure project implementation.
+
+---
+
+### 2026-07-02 10:25:09  #公司
+
+【帝奧微戰略投資光羽芯辰 驅動端側AI上下游合作】據帝奧微訊息，近期，帝奧微完成對上海光羽芯辰科技有限公司（光羽芯辰）的投資，攜手其他產業和財務投資人，共同助力光羽芯辰端側大模型晶片技術迭代與產業落地，並進一步探索公司已有模擬晶片業務在各類智慧裝置商與端側AI的協同合作，拓展公司業務邊界。
+
+---
+
+### 2026-07-02 10:24:59  #公司
+
+【華為鴻蒙裝機量超7000萬臺】華為何剛宣佈：7000萬！這份成績單，屬於每一位使用者、開發者和生態夥伴。
+
+---
+
+### 2026-07-02 10:24:27  #宏觀 #國際
+
+【國臺辦：民進黨當局卑劣無恥的行徑必遭兩岸同胞唾棄】國務院臺辦舉行例行新聞釋出會，有記者問：對於大陸海警近日在臺灣東部海域開展執法巡查活動，賴清德發表不當言論。對此有何評論？發言人朱鳳蓮表示，大陸海警在相關海域開展執法巡查，是依法行使管轄權，是維護國家領土主權和海洋權益的正義之舉，也是針對日本、菲律賓繞開中國擅自啟動在該海域劃界談判，侵害中國海洋權益採取的必要行動。民進黨當局對日菲侵權行為裝聾作啞，對島內民眾利益受損視而不見，卻藉機大肆散播“臺獨”分裂謬論，這種卑劣無恥的行徑必遭兩岸同胞唾棄。
+
+---
+
+### 2026-07-02 10:24:11  #公司
+
+【雷電微力：集中資源推進星載、地面終端相控陣產品的研製 同時也對其他通用領域持續關注】雷電微力(301050)7月1日接受機構調研時表示，公司在深耕專用市場的同時，正依託成熟的技術沉澱與產業積累，佈局通用市場，目前重點發展衛星通訊領域，集中資源推進星載、地面終端相控陣產品的研製，豐富產品矩陣，同時也對其他通用領域持續關注，儲備技術，如有合適的合作方，將結合自身技術優勢與行業節奏適時佈局。
+
+---
+
+### 2026-07-02 10:22:23  #央行 #其他
+
+越南央行副行長：銀行系統不良貸款在可控範圍內。
+
+---
+
+### 2026-07-02 10:21:26  #公司 #國際
+
+【韓國起草392萬億韓元投資計劃：三星、SK海力士等巨頭重倉中部地區】韓國產業通商資源部7月2日宣佈，將向忠清中部地區注入392萬億韓元的產業投資。在總投資中，三星旗下各子公司將注入約140萬億韓元，用於HBM晶圓廠、先進封裝、OLED生產及電池線的建設；SK海力士計劃投資約100萬億韓元建設NAND和先進封裝廠；生物製藥公司Celltrion擬投入約2萬億韓元用於生物製藥設施。此外，還有約150萬億韓元將流向AI資料中心。韓國政府承諾將提供融資、稅收優惠和監管支援以確保專案落地。
+
+---
+
+### 2026-07-02 10:21:21  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Stays Near 3-Month Lows — The Australian dollar remained below $0.690, hovering near a three-month low as investors pared back expectations for further interest rate hikes, while weaker-than-expected trade data weighed on sentiment. The country unexpectedly posted a AUD 3.02 billion trade deficit in May, the largest since December 2015, as exports slumped to a four-month low, while imports climbed to a fresh record-high. Markets have also scaled back expectations for further rate hikes as easing global inflation risks after the reopening of the Strait of Hormuz drove oil prices back to pre-war levels. An August move by the Reserve Bank is now priced in at just 15% chance, while markets see a 50% probability that the tightening cycle has ended. Meanwhile, the Aussie remained under pressure from a broadly firm US dollar, as investors continued to price in a Fed rate hike in September despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month.
 
 ---
 
@@ -17721,131 +17847,5 @@ TikTok plans to cut about 300 jobs in Dublin as part of a restructuring that wil
 ### 2026-07-01 15:34:19  #公司 #國際
 
 【津藥藥業：二丙酸倍他米松原料藥取得FDA DMF First Adequate Letter】津藥藥業公告稱，近日收到美國食品藥品監督管理局（FDA）簽發的DMF First Adequate Letter。二丙酸倍他米松是糖皮質激素類藥物倍他米松的前藥，公司於2020年12月提交該原料藥申請，截至目前累計研發投入約330萬元。此次透過技術審評，將對公司拓展美國市場、提升業績帶來積極影響。不過，FDA仍可能要求補充資料、進行現場檢查，且下游客戶拓展也存在不及預期風險。
-
----
-
-### 2026-07-01 15:34:00  #市場 #國際
-
-【油價幾無變動，市場關注美伊談判及霍爾木茲海峽航運恢復】在市場關注美國與伊朗之間的和平談判以及透過霍爾木茲海峽的航運恢復之際，早盤油價幾無變動。布倫特原油上漲0.2%，至每桶73.10美元；西得州中質油期貨上漲0.1%，至每桶69.58美元，此前該期貨在週二創下自2020年初以來的最大季度跌幅。據報道，美國總統特朗普曾權衡是否恢復與伊朗的全面戰爭，但決定目前堅持外交談判。他還告訴助手，如果與德黑蘭的談判超過8月18日的最後期限，他也覺得沒問題。三菱日聯(MUFG)的分析師表示：“達成持久的美伊協議的前景不斷改善，繼續緩解了對供應的擔憂。“不過，“在包括伊朗核計劃和霍爾木茲海峽未來管轄權在內的關鍵問題上仍存在不確定性，這可能會使持續停火期間的談判複雜化。”
-
----
-
-### 2026-07-01 15:33:30  #Trading Economics #Economy #Hungary #Manufacturing PMI #Importance 1
-
-Hungary Factory Activity at 6-Month High — The HALPIN Manufacturing PMI rose to 51.5 in June 2026 from 50.2 in the previous month, marking its highest level since December 2025, though it remained below its long-term monthly average of 52.6. The reading also exceeded the average June level of 50.0 recorded over the past three years, signaling a faster expansion in manufacturing activity compared with the previous month. Growth was driven by stronger new orders and higher production volumes, both of which remained in expansion territory. On the other hand, the purchase price index eased but continued to indicate a marked increase in input costs. The employment index stayed in contraction, while both export and import indicators pointed to continued expansion.
-
----
-
-### 2026-07-01 15:33:22  #其他
-
-市場訊息：TikTok計劃裁減都柏林約300名員工。
-
----
-
-### 2026-07-01 15:32:59  #其他
-
-【中基協“摸底”頭部量化私募 涉及同質化交易等內容】近日記者採訪獲悉，6月中基協組織部分頭部量化私募召開座談會，就量化管理人的基本情況與經營現狀、主要策略特徵與迭代方向、合規展業情況、行業風險情況等方面內容進行交流。量化私募相關人士透露，此次座談會不僅涉及頭部量化私募當前規模及近一年變化，投研、交易人員規模與配置等基本情況，還關注了多項今年以來量化私募的最新變化。比如，各家量化私募主推策略容量上限判斷、應對因子同質化的差異化措施等。在風險層面，座談會還涉及了DMA或收益互換等槓桿工具使用情況及槓桿倍數、極端行情下各傢俬募的風控機制以及同質化交易引發的流動性風險等內容。（上證報）
-
----
-
-### 2026-07-01 15:32:25  #國際
-
-【烏克蘭真理報：烏軍前總司令扎盧日內告知澤連斯基 他將參選總統】《烏克蘭真理報》援引未具名知情人士的話報道，前武裝部隊總司令、現任烏克蘭駐英國大使瓦列裡·扎盧日內已直接向總統澤連斯基確認，他打算參加總統選舉。  在英國首相斯塔默辭職前，扎盧日內被召回基輔；澤連斯基提到了選舉問題，警告稱一場競爭激烈的選舉可能會導致內部分裂；同時提出了包括外交和政府職位在內的其他職業發展路徑。
-
----
-
-### 2026-07-01 15:32:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.08% Lower — The FTSE 100 Index is falling 8 points. Losses were driven by Associated British Foods (-2.44%), JD Sports Fashion (-2.24%) and Compass (-2.23%). Biggest rises came from Babcock International (2.02%), J Sainsbury (1.36%) and Melrose (1.03%).
-
----
-
-### 2026-07-01 15:32:02  #MKT News #Commodities #Precious Metals
-
-Shanghai Gold Exchange gold T+D closed down 0.38% at 867.5 yuan/gram on July 1; silver T+D closed down 0.17% at 14,000.0 yuan/kg.
-
----
-
-### 2026-07-01 15:31:56  #公司
-
-【華天科技：公司有儲存晶片封測業務，但不涉及基板業務】華天科技(002185)7月1日在互動平臺回覆稱，公司有儲存晶片封測業務，但不涉及基板業務。
-
----
-
-### 2026-07-01 15:31:53  #公司
-
-【廣發證券：市場低估聯發科與谷歌合作潛力 博通與高通)訂單或受影響】谷歌新一代AI晶片TPUv9(代號“Triggerfish”)的供應鏈格局正在經歷一場深刻變革。據廣發證券最新報告，谷歌已選擇聯發科而非博通或高通來構建其第九代張量處理器(TPU)，這標誌著谷歌定製晶片戰略的一次重大轉向。此前，博通在6月初的財報會議上已首度證實，谷歌正尋求引入其他晶片供應商，意味著博通將失去谷歌TPU相關設計訂單的獨家供應地位。
-
----
-
-### 2026-07-01 15:31:52  #MKT News #Market Regions #Europe & UK #1211.HK #Impact bullish
-
-BYD's special adviser for the European market said the company is seeking brownfield investment opportunities in Europe, with Spain identified as a potential location.
-
----
-
-### 2026-07-01 15:31:36  #其他
-
-【三項光伏領域強制性國標明年1月1日起實施 全鏈條能效標準系統性升級】近日，光伏行業迎來三項重磅強制性國家標準的最新進展。《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項標準於2026年6月27日釋出，將於2027年1月1日實施。三項標準均由國家標準委（469）歸口，全國能源基礎與管理標準化技術委員會（TC20）執行。
-
----
-
-### 2026-07-01 15:31:16  #其他
-
-【永輝超市釋出調改第二階段成績單 有單店13天累計銷售額超1700萬元】7月1日，永輝超市釋出調改第二階段成績單。自6月18日開業至6月30日，廣西柳州城中萬達店13天累計銷售額超1700萬元，累計客流超20萬人次。其中，6月18日至6月28日連續11天單日銷售破百萬元。
-
----
-
-### 2026-07-01 15:31:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.03% Higher — The DAX Index is gaining 6 points or 0.03 percent on Wednesday. Leading the gains are Rheinmetall (2.71%), Symrise (1.84%) and Airbus (1.64%). Top losers are Commerzbank (-1.32%), Siemens (-1.30%) and Adidas (-1.14%).
-
----
-
-### 2026-07-01 15:31:03  #其他
-
-【臺軍承認使用大陸品牌輪胎 島內網友嘲諷】據臺灣中天新聞網報道，6月29日，“臉書”粉絲專頁“政知局”發文稱，民進黨“非紅供應鏈”再破功，臺當局“陸軍後勤指揮部”被發現採購大陸輪胎。 帖文附上一張臺軍“輕型戰術輪車”的圖片，可清楚看到車尾的備胎上印有一家總部位於青島的專業輪胎廠商“賽輪”（SAILUN）的英文字樣。 臺“陸軍司令部”6月30日證實，網傳圖中臺軍車輛使用的確實是大陸品牌輪胎，系在2020年採購。 有島內網友表示，“（民進黨）抗中是口號，親中是生活”“‘青鳥’（綠營支持者）真的很傻眼，想護航民進黨的作為又說不出口”。（環球網）
-
----
-
-### 2026-07-01 15:30:23  #國際
-
-比亞迪歐洲市場特別顧問：我們正在尋找棕地，西班牙是潛在目的地。
-
----
-
-### 2026-07-01 15:30:12  #資料
-
-瑞士6月製造業PMI 54.3，預期 56.5，前值 57.3。瑞士6月服務業PMI 59.8，前值 56。
-
----
-
-### 2026-07-01 15:30:10  #MKT News
-
-Switzerland SVM Purchasing Managers' Index (PMI) June 54.3; expected 56.5; prior 57.3.
-
----
-
-### 2026-07-01 15:30:06  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.44% Lower — The CAC 40 Index is losing 37 points. Losses were led by Publicis (-4.74%), Schneider Electric (-2.54%) and Societe Generale (-1.58%). Offsetting the fall, top gainers were Renault (2.47%), Air Liquide (2.02%) and Airbus (1.61%).
-
----
-
-### 2026-07-01 15:30:00  #MKT News #Economic Calendar #Important
-
-Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56.5 | previous 57.3
-
----
-
-### 2026-07-01 15:29:55  #公司
-
-【弘景光電：一體化非球面透鏡已實現量產】弘景光電(301479)7月1日在互動平臺回覆稱，公司一體化非球面透鏡已實現量產，目前相關業務按計劃有序開展中。
-
----
-
-### 2026-07-01 15:29:14  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Falls as Tax Break Spurs Inflows — The yield on India’s 10-year G-Sec fell to around 6.74%, reaching a fifteen-week low as record foreign inflows into government bonds boosted demand after recent tax incentives for overseas investors. Investor demand strengthened after the government scrapped taxes on capital gains and interest income for foreign investors in sovereign bonds under the Fully Accessible Route and added new FAR-eligible securities. The measures drove record monthly foreign purchases of INR 418 billion in June, nearly double the previous record of INR 239 billion set in August 2024. Further weighing on yields, the central bank reportedly intervened in the foreign exchange market through state-run banks to support the rupee. Analysts cautioned inflows could slow if global financial conditions tighten and US rates remain elevated. Still, stronger overseas participation could support India's inclusion in the Bloomberg Global Aggregate Index, with Goldman Sachs estimating about $15 billion in passive inflows.
 
 ---

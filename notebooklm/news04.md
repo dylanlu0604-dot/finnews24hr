@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-04 06:37:01_
-_本檔包含 2435 則快訊，約 506221 字_
+_更新時間：2026-07-04 07:40:31_
+_本檔包含 2434 則快訊，約 506409 字_
+
+---
+
+### 2026-07-01 15:34:00  #市場 #國際
+
+【油價幾無變動，市場關注美伊談判及霍爾木茲海峽航運恢復】在市場關注美國與伊朗之間的和平談判以及透過霍爾木茲海峽的航運恢復之際，早盤油價幾無變動。布倫特原油上漲0.2%，至每桶73.10美元；西得州中質油期貨上漲0.1%，至每桶69.58美元，此前該期貨在週二創下自2020年初以來的最大季度跌幅。據報道，美國總統特朗普曾權衡是否恢復與伊朗的全面戰爭，但決定目前堅持外交談判。他還告訴助手，如果與德黑蘭的談判超過8月18日的最後期限，他也覺得沒問題。三菱日聯(MUFG)的分析師表示：“達成持久的美伊協議的前景不斷改善，繼續緩解了對供應的擔憂。“不過，“在包括伊朗核計劃和霍爾木茲海峽未來管轄權在內的關鍵問題上仍存在不確定性，這可能會使持續停火期間的談判複雜化。”
+
+---
+
+### 2026-07-01 15:33:30  #Trading Economics #Economy #Hungary #Manufacturing PMI #Importance 1
+
+Hungary Factory Activity at 6-Month High — The HALPIN Manufacturing PMI rose to 51.5 in June 2026 from 50.2 in the previous month, marking its highest level since December 2025, though it remained below its long-term monthly average of 52.6. The reading also exceeded the average June level of 50.0 recorded over the past three years, signaling a faster expansion in manufacturing activity compared with the previous month. Growth was driven by stronger new orders and higher production volumes, both of which remained in expansion territory. On the other hand, the purchase price index eased but continued to indicate a marked increase in input costs. The employment index stayed in contraction, while both export and import indicators pointed to continued expansion.
+
+---
+
+### 2026-07-01 15:33:22  #其他
+
+市場訊息：TikTok計劃裁減都柏林約300名員工。
+
+---
+
+### 2026-07-01 15:32:59  #其他
+
+【中基協“摸底”頭部量化私募 涉及同質化交易等內容】近日記者採訪獲悉，6月中基協組織部分頭部量化私募召開座談會，就量化管理人的基本情況與經營現狀、主要策略特徵與迭代方向、合規展業情況、行業風險情況等方面內容進行交流。量化私募相關人士透露，此次座談會不僅涉及頭部量化私募當前規模及近一年變化，投研、交易人員規模與配置等基本情況，還關注了多項今年以來量化私募的最新變化。比如，各家量化私募主推策略容量上限判斷、應對因子同質化的差異化措施等。在風險層面，座談會還涉及了DMA或收益互換等槓桿工具使用情況及槓桿倍數、極端行情下各傢俬募的風控機制以及同質化交易引發的流動性風險等內容。（上證報）
+
+---
+
+### 2026-07-01 15:32:25  #國際
+
+【烏克蘭真理報：烏軍前總司令扎盧日內告知澤連斯基 他將參選總統】《烏克蘭真理報》援引未具名知情人士的話報道，前武裝部隊總司令、現任烏克蘭駐英國大使瓦列裡·扎盧日內已直接向總統澤連斯基確認，他打算參加總統選舉。  在英國首相斯塔默辭職前，扎盧日內被召回基輔；澤連斯基提到了選舉問題，警告稱一場競爭激烈的選舉可能會導致內部分裂；同時提出了包括外交和政府職位在內的其他職業發展路徑。
+
+---
+
+### 2026-07-01 15:32:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.08% Lower — The FTSE 100 Index is falling 8 points. Losses were driven by Associated British Foods (-2.44%), JD Sports Fashion (-2.24%) and Compass (-2.23%). Biggest rises came from Babcock International (2.02%), J Sainsbury (1.36%) and Melrose (1.03%).
+
+---
+
+### 2026-07-01 15:32:02  #MKT News #Commodities #Precious Metals
+
+Shanghai Gold Exchange gold T+D closed down 0.38% at 867.5 yuan/gram on July 1; silver T+D closed down 0.17% at 14,000.0 yuan/kg.
+
+---
+
+### 2026-07-01 15:31:56  #公司
+
+【華天科技：公司有儲存晶片封測業務，但不涉及基板業務】華天科技(002185)7月1日在互動平臺回覆稱，公司有儲存晶片封測業務，但不涉及基板業務。
+
+---
+
+### 2026-07-01 15:31:53  #公司
+
+【廣發證券：市場低估聯發科與谷歌合作潛力 博通與高通)訂單或受影響】谷歌新一代AI晶片TPUv9(代號“Triggerfish”)的供應鏈格局正在經歷一場深刻變革。據廣發證券最新報告，谷歌已選擇聯發科而非博通或高通來構建其第九代張量處理器(TPU)，這標誌著谷歌定製晶片戰略的一次重大轉向。此前，博通在6月初的財報會議上已首度證實，谷歌正尋求引入其他晶片供應商，意味著博通將失去谷歌TPU相關設計訂單的獨家供應地位。
+
+---
+
+### 2026-07-01 15:31:52  #MKT News #Market Regions #Europe & UK #1211.HK #Impact bullish
+
+BYD's special adviser for the European market said the company is seeking brownfield investment opportunities in Europe, with Spain identified as a potential location.
+
+---
+
+### 2026-07-01 15:31:36  #其他
+
+【三項光伏領域強制性國標明年1月1日起實施 全鏈條能效標準系統性升級】近日，光伏行業迎來三項重磅強制性國家標準的最新進展。《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項標準於2026年6月27日釋出，將於2027年1月1日實施。三項標準均由國家標準委（469）歸口，全國能源基礎與管理標準化技術委員會（TC20）執行。
+
+---
+
+### 2026-07-01 15:31:16  #其他
+
+【永輝超市釋出調改第二階段成績單 有單店13天累計銷售額超1700萬元】7月1日，永輝超市釋出調改第二階段成績單。自6月18日開業至6月30日，廣西柳州城中萬達店13天累計銷售額超1700萬元，累計客流超20萬人次。其中，6月18日至6月28日連續11天單日銷售破百萬元。
+
+---
+
+### 2026-07-01 15:31:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.03% Higher — The DAX Index is gaining 6 points or 0.03 percent on Wednesday. Leading the gains are Rheinmetall (2.71%), Symrise (1.84%) and Airbus (1.64%). Top losers are Commerzbank (-1.32%), Siemens (-1.30%) and Adidas (-1.14%).
+
+---
+
+### 2026-07-01 15:31:03  #其他
+
+【臺軍承認使用大陸品牌輪胎 島內網友嘲諷】據臺灣中天新聞網報道，6月29日，“臉書”粉絲專頁“政知局”發文稱，民進黨“非紅供應鏈”再破功，臺當局“陸軍後勤指揮部”被發現採購大陸輪胎。 帖文附上一張臺軍“輕型戰術輪車”的圖片，可清楚看到車尾的備胎上印有一家總部位於青島的專業輪胎廠商“賽輪”（SAILUN）的英文字樣。 臺“陸軍司令部”6月30日證實，網傳圖中臺軍車輛使用的確實是大陸品牌輪胎，系在2020年採購。 有島內網友表示，“（民進黨）抗中是口號，親中是生活”“‘青鳥’（綠營支持者）真的很傻眼，想護航民進黨的作為又說不出口”。（環球網）
+
+---
+
+### 2026-07-01 15:30:23  #國際
+
+比亞迪歐洲市場特別顧問：我們正在尋找棕地，西班牙是潛在目的地。
+
+---
+
+### 2026-07-01 15:30:12  #資料
+
+瑞士6月製造業PMI 54.3，預期 56.5，前值 57.3。瑞士6月服務業PMI 59.8，前值 56。
+
+---
+
+### 2026-07-01 15:30:10  #MKT News
+
+Switzerland SVM Purchasing Managers' Index (PMI) June 54.3; expected 56.5; prior 57.3.
+
+---
+
+### 2026-07-01 15:30:06  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.44% Lower — The CAC 40 Index is losing 37 points. Losses were led by Publicis (-4.74%), Schneider Electric (-2.54%) and Societe Generale (-1.58%). Offsetting the fall, top gainers were Renault (2.47%), Air Liquide (2.02%) and Airbus (1.61%).
+
+---
+
+### 2026-07-01 15:30:00  #MKT News #Economic Calendar #Important
+
+Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56.5 | previous 57.3
+
+---
+
+### 2026-07-01 15:29:55  #公司
+
+【弘景光電：一體化非球面透鏡已實現量產】弘景光電(301479)7月1日在互動平臺回覆稱，公司一體化非球面透鏡已實現量產，目前相關業務按計劃有序開展中。
+
+---
+
+### 2026-07-01 15:29:14  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Falls as Tax Break Spurs Inflows — The yield on India’s 10-year G-Sec fell to around 6.74%, reaching a fifteen-week low as record foreign inflows into government bonds boosted demand after recent tax incentives for overseas investors. Investor demand strengthened after the government scrapped taxes on capital gains and interest income for foreign investors in sovereign bonds under the Fully Accessible Route and added new FAR-eligible securities. The measures drove record monthly foreign purchases of INR 418 billion in June, nearly double the previous record of INR 239 billion set in August 2024. Further weighing on yields, the central bank reportedly intervened in the foreign exchange market through state-run banks to support the rupee. Analysts cautioned inflows could slow if global financial conditions tighten and US rates remain elevated. Still, stronger overseas participation could support India's inclusion in the Bloomberg Global Aggregate Index, with Goldman Sachs estimating about $15 billion in passive inflows.
 
 ---
 
@@ -14555,137 +14681,5 @@ Slovakia Business Morale Worsens to 7-Month Low — The industrial confidence in
 ### 2026-06-29 16:07:29  #公司
 
 【拱東醫療：2025年營收11.36億元 同比增長1.84%並完成分紅】拱東醫療公告稱，2025年公司實現營業收入11.36億元，較上年同期增長1.84%。研發上，新增6項發明專利和3項實用新型專利，部分產品獲國內醫療器械備案證書及國際認證；生產運營和市場拓展也有進展。2026年6月18日，公司完成2025年年度權益分派，以2.20億股為基數，每股派發現金紅利0.15元（含稅），共計派發3303.01萬元。此外，公司還在資訊披露、治理機制等方面有所完善。
-
----
-
-### 2026-06-29 16:07:26  #公司
-
-【石頭科技：累計回購股份佔比達1.02% 金額2.66億元】石頭科技公告稱，公司於2026年6月1日起實施回購股份方案，預計回購3-4億元，用於維護公司價值及股東權益。截至6月26日，公司已累計回購264.5848萬股，佔總股本的1.0205%，與前次披露數相比增加0.9766%，實際回購價格區間為91.78-114.98元/股，已支付總金額2.66億元。公司將在回購期限內繼續實施，並及時披露進展。
-
----
-
-### 2026-06-29 16:07:23  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics expects domestic South Korean investment to reach 2,450 trillion won by 2040.
-
----
-
-### 2026-06-29 16:07:21  #公司
-
-【振華股份：向不特定物件發行可轉債申請獲同意】振華股份公告，近日收到中國證監會出具的《關於同意湖北振華化學股份有限公司向不特定物件發行可轉換公司債券註冊的批覆》（證監許可〔2026〕1508號），同意公司向不特定物件發行可轉換公司債券的註冊申請。本次發行應嚴格按照報送上海證券交易所的申報檔案和發行方案實施。本批覆自同意註冊之日起12個月內有效。
-
----
-
-### 2026-06-29 16:07:19  #國際
-
-穆迪：印度可承受今年財政赤字小幅擴大。
-
----
-
-### 2026-06-29 16:06:54  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish #AMD.O #AVGO.O
-
-U.S. AI chip stocks rose in pre-market trade: Qualcomm (QCOM.O) up more than 2%, AMD (AMD.O) up 1.9%, Broadcom (AVGO.O) up 1.5%.
-
----
-
-### 2026-06-29 16:06:53  #市場 #國際
-
-【金價下跌，市場關注伊朗和平談判】三菱日聯(MUFG)的Soojin Kim寫道，隨著市場更加關注不斷緩解的通脹預期以及伊朗與美國恢復和平談判的前景，金價出現下跌。“隨著地緣政治風險溢價繼續消退，且對能源驅動的通脹下降的預期改善，金價可能繼續承壓，“她補充說。伊朗和美國曾交火，但隨後同意停止敵對行動。在紐約市場，黃金期貨下跌0.4%，至每盎司4,078.30美元。在倫敦市場，黃金礦商Endeavour Mining的股價下跌2.05%，而同行Fresnillo下跌約1%。
-
----
-
-### 2026-06-29 16:06:34  #Trading Economics #Economy #Palestine #Current Account #Importance 1
-
-Palestine Current Account Deficit Narrows in Q1 — Palestine’s current account deficit narrowed sharply to USD 440 million in the first quarter of 2026 from USD 963 million in the corresponding quarter of the previous year. The services account deficit significantly decreased to USD 81 million from USD 263 million. On the other hand, the goods account deficit expanded by USD 183 million to USD 1,523 million from USD 1,340 million, while the surplus in net current transfers from abroad also rose to USD 893 million from USD 387 million a year earlier. Additionally, the net income surplus increased to USD 271 million from USD 253 million, driven largely by higher compensation for Palestinian workers in Israel, while gains were partially offset by a decrease in foreign investment income, mainly from interest earned on Palestinian deposits from foreign banks.
-
----
-
-### 2026-06-29 16:06:32  #公司
-
-【耀皮玻璃：2025年度權益分派實施 A股每股派0.015元】耀皮玻璃公告稱，2025年年度權益分派方案已獲2026年5月28日股東會透過。本次以總股本976,757,073股為基數，每股派現金紅利0.015元（含稅），共派1465.14萬元。A股股權登記日為2026年7月6日，除權（息）日和現金紅利發放日為7月7日；B股最後交易日為7月6日，股權登記日為7月9日，除權（息）日為7月23日。B股每股現金紅利0.002200美元（含稅）。
-
----
-
-### 2026-06-29 16:06:19  #公司
-
-【拱東醫療：2025年營收11.36億元 同比增長1.84%並完成分紅】拱東醫療公告稱，2025年公司實現營業收入11.36億元，較上年同期增長1.84%。研發上，新增6項發明專利和3項實用新型專利，部分產品獲國內醫療器械備案證書及國際認證；生產運營和市場拓展也有進展。2026年6月18日，公司完成2025年年度權益分派，以2.20億股為基數，每股派發現金紅利0.15元（含稅），共計派發3303.01萬元。此外，公司還在資訊披露、治理機制等方面有所完善。
-
----
-
-### 2026-06-29 16:06:02  #公司 #國際
-
-三星電子：計劃到2040年在韓國完成總計2450萬億韓元的本土投資。
-
----
-
-### 2026-06-29 16:05:59  #市場
-
-美股儲存概念股盤前走高，西部資料、美光科技漲超2%，閃迪漲1.88%，希捷科技漲1.79%。
-
----
-
-### 2026-06-29 16:05:13  #MKT News #Market Regions #Europe & UK
-
-Hungary's Prime Minister Magyar said that without an agreement on EU funds the 2026 budget deficit will exceed 8% of GDP; even with EU funding support the 2026 deficit could still exceed 7% of GDP.
-
----
-
-### 2026-06-29 16:05:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 1.71% — Top commodity losers are Platinum (-1.71%) and Gold (-0.62%). Gains are led by Silicon (0.67%).
-
----
-
-### 2026-06-29 16:04:53  #公司
-
-【崑崙芯將在港股上市，目標估值500億美元超過百度】據媒體報道，百度旗下的AI（人工智慧）晶片子公司崑崙芯計劃在香港上市，目標估值500億美元（約合3398 億元），並要求投資者承諾購買其晶片。百度集團最新市值約為355億美元。6月29日，受崑崙芯港股上市訊息影響，百度港股股價截至發稿漲超6%。此前，一位知情人士告訴《財經》，投資人若想拿到股份份額，得先購買崑崙芯的貨，“想要拿到1000萬元的股份份額，需要購買7000萬元晶片”。關於投資人認購問題，截至發稿，崑崙芯未有回應。該人士補充，如今崑崙芯無論在晶片採購還是股份份額認購，都很火爆，騰訊也是崑崙芯的客戶。 崑崙芯原是百度內部負責AI晶片研發的部門，於2021年4月獨立分拆，首輪估值130億元。2025年7月D輪融資後，估值漲到了210億元。截至目前，崑崙芯完成六輪融資，投資方包括CPE源峰、IDG資本、君聯資本、比亞迪、中國網際網路投資基金等。百度是其控股股東，持股比例約58%。（財經雜誌）
-
----
-
-### 2026-06-29 16:04:47  #國際
-
-匈牙利總理：即便計入歐盟撥款，2026年預算赤字佔GDP比重仍可能超過7%。
-
----
-
-### 2026-06-29 16:04:27  #MKT News #SPCX.O #Impact bullish #Nasdaq100
-
-SpaceX (SPCX.O) U.S. pre-market stock rose more than 1% after the company was added to the Nasdaq-100 index, effective July 7.
-
----
-
-### 2026-06-29 16:04:17  #其他
-
-【億緯鋰能：將持續最佳化供應鏈賬款管理 與產業鏈上下游夥伴共建協作共贏的良好生態】億緯鋰能訊息，6月29日，中國汽車動力電池產業創新聯盟聯合中關村儲能產業技術聯盟釋出《動力和儲能電池企業供應商賬款支付規範倡議》，在訂單確認、交付與驗收、支付與結算等提出系列要求。為全面響應《倡議》，億緯鋰能將持續最佳化供應鏈賬款管理，以實際行動維護健康有序的市場環境，與產業鏈上下游夥伴共建協作共贏的良好生態。
-
----
-
-### 2026-06-29 16:04:15  #國際
-
-匈牙利總理：若未就歐盟資金達成協議，2026年預算赤字佔GDP比重將突破8%。
-
----
-
-### 2026-06-29 16:03:50  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Little Changed on Monday — The FTSE 100 traded flat to lower on Monday, showing muted reaction to a volatile weekend as the US and Iran agreed to a temporary halt in hostilities ahead of upcoming peace talks. Corporate actions drove individual stock movements, with British American Tobacco shares falling over 1% after announcing a restructuring plan to cut its global workforce by roughly 20%, resulting in 5,500 job losses and 3,500 outsourced roles by year end. Conversely, BT shares advanced 1.4% following a newly secured international partnership with US telecom giant Verizon to merge their global enterprise operations. Meanwhile, broader market attention shifted toward politics as Andy Burnham prepared to deliver a speech in Manchester.
-
----
-
-### 2026-06-29 16:03:44  #其他
-
-【攜程親自下場開餐廳】最近，攜程董事局主席梁建章和記者談起入境遊這一話題。他認為，中國入境遊發展的重點已經從“便利化”轉向“產品開發”的新階段——隨著中國免籤朋友圈越擴越大，以及支付、上網、高鐵購票等體驗不斷最佳化，接下來，讓外國旅客感到來中國不方便的因素只會越來越少，中國入境遊產業要做的是提供更多滿足國際旅客需要的創新產品，吸引他們、留住他們，增加他們來中國，甚至反覆來中國旅遊的理由。“Taste of China”餐廳在這樣的背景下應運而生。談及這家餐廳，梁建章說“我不會考核它的投資回報率，這是一個探索，更像是拋磚引玉，攜程要帶頭做一些創新。”從商業的角度來看，攜程“Taste of China”餐廳每天提供午宴和晚宴兩場體驗，不支援翻檯。餐廳的最大接待人數為60人，成年人單人消費價格在600元至1000多元。儘管客單價較高，但餐廳成本也明顯不低。（上觀新聞）
-
----
-
-### 2026-06-29 16:03:30  #公司 #市場
-
-SpaceX股價盤前上漲1.4%，此前該公司確認將納入納斯達克100指數，7月7日起生效。
-
----
-
-### 2026-06-29 16:02:55  #公司
-
-【先河環保：實際控制人與其一致行動人到期解除一致行動關係】先河環保公告稱，公司實際控制人姚國瑞先生與李玉國先生的一致行動關係約定於2026年6月28日到期，到期後一致行動關係自動解除。本次權益變動系一致行動關係到期解除所致，不涉及股東持股數量和持股比例變動，不會導致公司控股股東、實際控制人發生變更，也不會對公司的治理結構、持續經營產生不利影響。
 
 ---

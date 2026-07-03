@@ -1,7 +1,120 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-04 06:37:01_
-_本檔包含 2825 則快訊，約 506848 字_
+_更新時間：2026-07-04 07:40:31_
+_本檔包含 2819 則快訊，約 506403 字_
+
+---
+
+### 2026-07-03 07:04:22  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+【Trump says Kevin Warsh will face resistance at Fed, vows legal push to oust governor Cook】After the latest US jobs report, President Trump declined to advise Fed chair Kevin Warsh, saying the new chair "must do what he must do." Trump said Warsh faces a "possibly somewhat hostile" board that may want "to do the wrong thing." He said he will continue efforts to remove Fed governor Cook by "winning lawsuits." Trump has long favored lower rates.
+
+---
+
+### 2026-07-03 07:04:21  #Trading Economics #Economy #Australia #Services PMI #Importance 2
+
+Australia Services PMI Revised Up, Returns to Expansion — The S&P Global Flash Australia Services PMI Business Activity Index was revised higher to 50.5 in June 2026 from the preliminary estimate of 49.9 and after a final reading of 48.7 in the previous month. The latest reading indicated that the services sector returned to expansion, though it remained only slightly above the neutral 50.0 mark.
+
+---
+
+### 2026-07-03 07:04:21  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite PMI Revised Higher — Australia's composite PMI stood at 50.4 in June 2026, above flash data of 49.8 and May's 48.7. The latest result signalled a marginal monthly increase in private-sector business activity.
+
+---
+
+### 2026-07-03 07:04:19  #其他
+
+【核電小型堆發展提速 算力中心供電或有新突破】在算力負荷持續暴漲的情況下，風光等電源供電短板凸顯，核電小型模組化反應堆（下稱“小型堆”）配套AI算力中心有望成為資料中心零碳穩定供電新選擇。當前，國內外都在加快推動小型堆發展。在近日舉行的先進核能產業研討會上，多位能源、核能領域專家圍繞小型堆配套AI算力中心的發展路徑展開研判。記者還從業內獲悉，近期能源主管部門召開會議研討小型堆發展事宜，相關部門負責人要求快速推進研發示範。（上海證券報）
+
+---
+
+### 2026-07-03 07:04:04  #其他
+
+【三項能耗能效國標明年起實施 光伏行業落後產能出清“倒計時”】7月2日，工業和資訊化部聯合國家發展改革委、國家市場監督管理總局釋出《矽單晶單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽多晶和鍺單位產品能源消耗限額》等三項光伏能耗能效強制性國家標準，覆蓋多晶矽、矽片、元件、逆變器等光伏產業鏈關鍵環節，分等級設定相關產品能耗能效指標，嚴控各環節高耗能低效產能。針對元件，創新納入耦合環境應力衰減率評價指標。能耗能效新國標的“靴子落地”引發光伏業內廣泛關注。多位專家向記者表示，本次光伏全產業鏈能效標準實現系統性升級，是行業持續破除無序“內卷”、推進高質量發展的關鍵抓手。三項標準將大幅加速多晶矽、元件環節低效落後產能出清。但當前行業優質元件產能供給仍較為充足，企業需堅持以銷定產，合理下調生產負荷、嚴控庫存規模。（上海證券報）
+
+---
+
+### 2026-07-03 07:03:49  #市場
+
+【銀價波動影響企業利潤 光伏行業借金融工具破解保供難題】2025年以來，受地緣局勢不確定性凸顯、全球貨幣政策預期變化、供需基本面調整等多重因素影響，貴金屬價格劇烈波動。其中，白銀價格波動率創歷史新高，對眾多工業用銀企業經營造成衝擊。光伏銀漿是太陽能電池製造的核心輔材，白銀在該環節的成本佔比超過90%。隨著銀價劇烈波動，以及大量白銀實物從工業領域流向投資領域，如何在白銀原料端實現保供穩價，已成為關乎光伏產業鏈穩健生存的重要課題。記者近期走訪多家實體企業瞭解到，部分頭部光伏銀漿企業及上游供應商，已著手組建專業的期貨期權交易團隊，一方面透過套期保值對生產經營環節的白銀價格敞口進行管理，另一方面參與期貨交割鎖定白銀實物的遠期貨源。（上海證券報）
+
+---
+
+### 2026-07-03 07:01:11  #公司 #市場 #觀點 #央行 #焦點 #國際
+
+【7月3日隔夜要聞一覽】
+1、美股週四收盤漲跌不一。道指創歷史新高漲1.14％，納指跌0.80％，標普500指數跌0.01％。
+2、美國總統特朗普表示，美國仍在與伊朗談判，但他認為“他們幾乎已經同意了我們所需要的一切”。
+3、美國總統唐納德·特朗普表示，美聯儲主席凱文·沃什可能無法強迫央行其他官員按照他的意願制定貨幣政策。
+4、美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。
+5、據一份內部備忘錄顯示，特斯拉上月通知員工，從7月6日起，員工每週人工智慧工具使用額度上限將設定為200美元。
+6、據報道，Meta執行長馬克·扎克伯格表示，過去四個月AI的智慧體開發“並未以我們預期的方式加速”。
+7、微軟一名高管向員工透露，公司將整合面向個人消費者與企業端的兩款Copilot應用，並砍掉冗餘功能，力求在使用者心中“贏得生存的資格”。
+8、花旗集團彙編的資料顯示，從某項指標來看，相對於標普500指數，科技股看漲期權的成本正處於2007年以來的最高水平。
+9、電影《大空頭》原型、知名投資人Michael Burry在週四晚些時候釋出的Substack文章中表示，他已做空美光股票，理由是其週期性，並對一些現有多頭頭寸進行了加倉。
+
+---
+
+### 2026-07-03 07:00:08  #MKT News #DXY #Impact bearish
+
+Australia June S&P Global Composite PMI final reading 50.4, prior 49.8.
+
+---
+
+### 2026-07-03 07:00:07  #資料
+
+澳大利亞6月標普全球綜合PMI終值 50.4，前值49.8。澳大利亞6月標普全球服務業PMI終值 50.5，前值49.9。
+
+---
+
+### 2026-07-03 07:00:07  #MKT News #DXY #Impact bearish
+
+Australia June S&P Global Services PMI (final) 50.5, prior 49.9.
+
+---
+
+### 2026-07-03 06:57:43  #公司 #市場
+
+【關停“槓桿炒金”通道，銀行擰緊個人貴金屬業務風險閥門】6月以來，包括交通銀行、招商銀行、工商銀行在內的多家國有大行、股份制銀行密集“踩剎車”——宣佈將於7月停辦代理上海黃金交易所個人貴金屬交易業務。在業內人士看來，這是銀行主動進行風險管理的舉措，透過提前壓縮高風險投機業務，防範極端行情下的客戶違約風險、聲譽風險，同時幫助投資者規避貴金屬價格波動帶來的資金損失。（中證報）
+
+---
+
+### 2026-07-03 06:57:38  #國際
+
+美國貿易代表辦公室將於 7 月 6 日就巴西 301 調查舉行聽證會。
+
+---
+
+### 2026-07-03 06:57:00  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Down but Heads for Weekly Rise — The NZX 50 fell 13 points, or 0.1%, to 13,568 in Friday morning trade, declining for the third consecutive session, mainly weighed down by the financial, industrial, and technology sectors. Traders were cautious ahead of the RBNZ's monetary policy decision next week while anticipating the release of China's inflation data, amid rising global oil prices during June. However, easing oil prices helped cap the losses as inflation concerns subsided, reducing expectations of an interest rate hike. The latest data also limited the decline, as consumer confidence in New Zealand hit a three-month high in June, following an improvement in business confidence. Among the early decliners were Mercury NZ (-1.1%), Fletcher Building (-0.9%), Freightways Group (-0.4%), Infratil (-0.4%), and ANZ Group (-0.3%). However, the index is heading for a 0.6% weekly gain after being flat in the previous week.
+
+---
+
+### 2026-07-03 06:54:36  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、“出口中國”英國專場活動在倫敦舉行
+2、中企承建的巴西薩爾瓦多跨海大橋開工
+3、三項失業保險政策舉措支援企業穩崗擴崗
+4、2025年我國海洋生物醫藥產業增加值達996億元 探索廣袤海洋的健康寶庫（大資料觀察）
+5、北京釋出人工智慧賦能科學研究實施方案 圍繞五大方向明確18項重點工作
+6、累計交付186架、載客超3700萬人次 C909成為中國支線航空運輸市場主力機型
+7、廣東推動新能源汽車叢集發展 汽車生產線鏈起產業生態圈（經濟聚焦）
+8、河北高陽縣推動企業品牌出海 毛巾出口，要過八道關（高質量發展在一線·小城寶藏）
+9、江西銀行創新金融產品，精準對接需求 助力特色產業提質增效
+10、新修訂的民用航空法本月起施行 民航安全與旅客權益更有保障（法治聚焦）
+11、印尼努力打造汽車全產業價值鏈 重點發力電動化轉型、產業鏈本土化、自主品牌建設等
+12、長期投資不足 數字化推廣緩慢 德國亟待推進鐵路現代化改造
+13、美國不同意以現有形式續簽美墨加協定
+14、平臺經濟要從“拼價格”轉向“拼質量、拼創新”（每週經濟評論）。
+
+---
+
+### 2026-07-03 06:54:32  #市場
+
+【科技板塊遭遇深度調整，機構建議聚焦細分龍頭】7月2日，A股市場迎來大幅調整，前期強勢領漲的科技板塊首當其衝，半導體、儲存晶片、通訊裝置等熱門方向集體重挫。分析人士認為，本輪調整並非基本面邏輯的逆轉，而是上半年科技板塊極致分化行情下交易擁擠、籌碼結構脆弱等風險因素的集中釋放。經歷半年大幅上漲後，部分高位品種估值與預期透支較為嚴重，短期回撥具有一定的合理性。但從中長期維度來看，AI產業趨勢並未改變，機構普遍建議投資者在調整過程中保持定力，關注具備核心競爭力的細分龍頭，同時適度配置高股息資產以平滑組合波動。（中證報）
 
 ---
 
@@ -16878,131 +16991,5 @@ China Maritime Safety Administration said the Qinglan Maritime Bureau issued a n
 ### 2026-07-02 10:30:43  #國際
 
 【中央氣象臺：今年第9號颱風“巴威”生成，未來6天對我國海域無影響】中央氣象臺訊息，今年第9號颱風“巴威”（熱帶風暴級；英文名稱：Bavi；名字來源：越南；名稱意義：位於越南北部的山脈）已於今天（7月2日）上午在西北太平洋洋麵上生成，上午8點鐘其中心位於美國關島東偏南方向約1620公里的洋麵上，就是北緯11.0度、東經160.1度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為180-280公里。預計，“巴威”將以每小時20公里左右的速度向西偏北方向移動，強度逐漸增強，最強可達超強颱風（58-65米/秒，17級或以上）。未來6天“巴威”對我國海域無影響，9日後逐漸趨向我國東南沿海。
-
----
-
-### 2026-07-02 10:30:32  #MKT News #Important
-
-A-share China-Korea Semiconductor ETF (513310) resumed trading and fell more than 5%.
-
----
-
-### 2026-07-02 10:30:23  #MKT News
-
-A Vietnam central bank official said the bank is determined to control inflation.
-
----
-
-### 2026-07-02 10:30:22  #央行 #其他
-
-越南央行副行長：決心將通脹控制在可控範圍內。
-
----
-
-### 2026-07-02 10:30:09  #其他
-
-【默沙東：動物保健森斯坦®將在中國境內上市】7月2日，默沙東宣佈，其動物保健事業部最新的科技解決方案森斯坦®將在中國境內上市；此外，其紐弗羅®(氟苯尼考注射液)已於近期獲得中國農業農村部關於原料藥變更的批准，即將重返中國市場。此前，該產品已獲批將靶動物拓展至牛，進一步滿足牛和豬呼吸道疾病的防控需求。
-
----
-
-### 2026-07-02 10:29:34  #市場
-
-小金屬板塊短線拉昇，翔鷺鎢業漲停，國城礦業、章源鎢業、中鎢高新、華陽新材、浩通科技等紛紛走高。
-
----
-
-### 2026-07-02 10:29:18  #公司 #市場
-
-【工業母機概念震盪反彈，亞威股份等多股漲停】工業母機概念震盪反彈，*ST海華、亞威股份、*ST東智、ST匯洲漲停，科德數控、宏德股份、紐威數控漲超10%，貝斯特、秦川機床、浙海德曼等跟漲。
-
----
-
-### 2026-07-02 10:28:42  #宏觀
-
-【國臺辦評張雪暖心回應島內車主讚歎 因為我們是一家人】國務院臺辦舉行例行新聞釋出會，總檯記者提問，近日張雪機車創始人張雪在與島內一位機車車主影片連線中，面對車主讚歎“你們的工業技術真先進”，張雪暖心回應。請問對此有何評論？發言人朱鳳蓮表示，這樣的對話讓我想起了一首歌《我們都是一家人》，從前的時候是一家人，現在還是一家人。因為我們是一家人，所以兩岸的中國人都會為張雪機車等一大批大陸產業技術創新成果感到驕傲；因為我們是一家人，所以大陸同胞願意率先同臺灣同胞分享中國式現代化發展機遇，共創民族復興偉業。我們熱忱歡迎廣大臺灣同胞多來大陸走走看看，親身感受祖國大陸日新月異的發展，積極參與兩岸交流合作、融合發展，攜手共創中華民族美好未來。
-
----
-
-### 2026-07-02 10:28:18  #公司 #市場
-
-【小紅書概念股全面爆發 福石控股等多股漲停】小紅書概念股全面爆發走強，福石控股20cm漲停，天地線上、引力傳媒、天娛數科漲停，天創時尚、來伊份、慧辰股份、ST匯洲、天下秀等跟漲。
-
----
-
-### 2026-07-02 10:27:18  #MKT News
-
-Vietnam central bank official says inflationary pressures in Vietnam are intensifying.
-
----
-
-### 2026-07-02 10:27:07  #其他
-
-【南海部分水域有火箭殘骸掉落，禁止駛入】據中國海事局網站訊息，清瀾海事局釋出航行警告，7月4日16時30分至18時30分，南海部分水域有火箭殘骸掉落，禁止駛入。
-
----
-
-### 2026-07-02 10:27:02  #公司
-
-【樂享科技完成近5億元Pre-A輪融資 螞蟻集團領投】近日，蘇州樂享智慧科技有限公司（樂享科技）正式完成近5億元Pre-A輪融資，併發布家庭具身智慧品牌“元點Zeroth”。本輪融資由螞蟻集團領投，產業方吉利資本、三七互娛，元禾璞華跟投，老股東Monolith持續超額跟投。新一輪融資將主要用於6項核心技術自研、人才引入和全球市場開拓，支援樂享科技繼續推動家庭具身智慧機器人走向真實場景。
-
----
-
-### 2026-07-02 10:26:57  #其他
-
-【AI創作平臺“靈珠”完成天使輪融資，TikTok天使投資人領投】AI創作平臺“靈珠”近日完成天使輪融資，由TikTok天使投資人韋海軍領投。公開資料顯示，韋海軍曾在擔任獵豹移動投資負責人期間主導了對Musical.ly的天使投資，該產品後被位元組跳動收購更名為TikTok。靈珠定位於零門檻AI創作平臺，於今年4月20日開啟內測。6月25日，平臺正式面向全網公測、支援使用者對平臺上的作品進行二次創作。
-
----
-
-### 2026-07-02 10:25:47  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10Y Yield Holds Gains Ahead of NFP — The yield on the 10-year US Treasury note held around 4.48% on Thursday, maintaining its recent gains as investors cautiously awaited the June jobs report for fresh insights into labor market conditions and greater clarity on the Federal Reserve’s policy outlook. Data released on Wednesday showed private-sector hiring in the US slowed more than expected last month, while the ISM PMI indicated wholesale energy prices had returned to levels seen before the Middle East conflict. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. However, he reiterated the central bank’s commitment to restoring price stability. Markets continue to price in more than a 60% chance of a Fed rate hike in September. Meanwhile, rising oil shipments through the Strait of Hormuz and signs of progress in indirect US-Iran talks pushed oil prices lower and eased inflation concerns.
-
----
-
-### 2026-07-02 10:25:23  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
-
-【South Korea unveils 392 trillion-won industrial investment plan; Samsung, SK Hynix to anchor central Chungcheong projects】The Ministry of Trade, Industry and Energy (MOTIE) on July 2 announced a 392 trillion-won industrial investment package targeted at the central Chungcheong region. Samsung group subsidiaries are slated to invest about 140 trillion won for an HBM wafer fab, advanced packaging, OLED output and battery lines; SK Hynix plans roughly 100 trillion won for NAND and advanced packaging fabs; Celltrion intends about 2 trillion won for biopharma facilities. Approximately 150 trillion won is earmarked for AI data centers. The government pledged financing, tax incentives and regulatory support to secure project implementation.
-
----
-
-### 2026-07-02 10:25:09  #公司
-
-【帝奧微戰略投資光羽芯辰 驅動端側AI上下游合作】據帝奧微訊息，近期，帝奧微完成對上海光羽芯辰科技有限公司（光羽芯辰）的投資，攜手其他產業和財務投資人，共同助力光羽芯辰端側大模型晶片技術迭代與產業落地，並進一步探索公司已有模擬晶片業務在各類智慧裝置商與端側AI的協同合作，拓展公司業務邊界。
-
----
-
-### 2026-07-02 10:24:59  #公司
-
-【華為鴻蒙裝機量超7000萬臺】華為何剛宣佈：7000萬！這份成績單，屬於每一位使用者、開發者和生態夥伴。
-
----
-
-### 2026-07-02 10:24:27  #宏觀 #國際
-
-【國臺辦：民進黨當局卑劣無恥的行徑必遭兩岸同胞唾棄】國務院臺辦舉行例行新聞釋出會，有記者問：對於大陸海警近日在臺灣東部海域開展執法巡查活動，賴清德發表不當言論。對此有何評論？發言人朱鳳蓮表示，大陸海警在相關海域開展執法巡查，是依法行使管轄權，是維護國家領土主權和海洋權益的正義之舉，也是針對日本、菲律賓繞開中國擅自啟動在該海域劃界談判，侵害中國海洋權益採取的必要行動。民進黨當局對日菲侵權行為裝聾作啞，對島內民眾利益受損視而不見，卻藉機大肆散播“臺獨”分裂謬論，這種卑劣無恥的行徑必遭兩岸同胞唾棄。
-
----
-
-### 2026-07-02 10:24:11  #公司
-
-【雷電微力：集中資源推進星載、地面終端相控陣產品的研製 同時也對其他通用領域持續關注】雷電微力(301050)7月1日接受機構調研時表示，公司在深耕專用市場的同時，正依託成熟的技術沉澱與產業積累，佈局通用市場，目前重點發展衛星通訊領域，集中資源推進星載、地面終端相控陣產品的研製，豐富產品矩陣，同時也對其他通用領域持續關注，儲備技術，如有合適的合作方，將結合自身技術優勢與行業節奏適時佈局。
-
----
-
-### 2026-07-02 10:22:23  #央行 #其他
-
-越南央行副行長：銀行系統不良貸款在可控範圍內。
-
----
-
-### 2026-07-02 10:21:26  #公司 #國際
-
-【韓國起草392萬億韓元投資計劃：三星、SK海力士等巨頭重倉中部地區】韓國產業通商資源部7月2日宣佈，將向忠清中部地區注入392萬億韓元的產業投資。在總投資中，三星旗下各子公司將注入約140萬億韓元，用於HBM晶圓廠、先進封裝、OLED生產及電池線的建設；SK海力士計劃投資約100萬億韓元建設NAND和先進封裝廠；生物製藥公司Celltrion擬投入約2萬億韓元用於生物製藥設施。此外，還有約150萬億韓元將流向AI資料中心。韓國政府承諾將提供融資、稅收優惠和監管支援以確保專案落地。
-
----
-
-### 2026-07-02 10:21:21  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Stays Near 3-Month Lows — The Australian dollar remained below $0.690, hovering near a three-month low as investors pared back expectations for further interest rate hikes, while weaker-than-expected trade data weighed on sentiment. The country unexpectedly posted a AUD 3.02 billion trade deficit in May, the largest since December 2015, as exports slumped to a four-month low, while imports climbed to a fresh record-high. Markets have also scaled back expectations for further rate hikes as easing global inflation risks after the reopening of the Strait of Hormuz drove oil prices back to pre-war levels. An August move by the Reserve Bank is now priced in at just 15% chance, while markets see a 50% probability that the tightening cycle has ended. Meanwhile, the Aussie remained under pressure from a broadly firm US dollar, as investors continued to price in a Fed rate hike in September despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month.
 
 ---
