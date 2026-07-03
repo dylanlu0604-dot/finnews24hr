@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-04 02:31:37",
-  "count": 13430,
+  "updated": "2026-07-04 02:35:23",
+  "count": 13422,
   "items": [
+    {
+      "id": "4970049",
+      "time": "2026-07-04 02:34:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價本週漲超2%】週五（7月3日），現貨黃金最終漲1.32%，報4176.94美元/盎司，本週累計上漲2.16%，整體呈現出V形走勢。COMEX黃金期貨漲1.49%，報4187.30美元/盎司，本週累漲2.22%。現貨白銀漲2.46%，報62.4158美元/盎司，本週累漲5.52%。COMEX白銀期貨漲2.04%，報62.815美元/盎司，本週累漲5.39%。COMEX銅期貨漲0.79%，報6.2240美元/磅，本週累漲0.47%。"
+    },
+    {
+      "id": "mkt:019f293f-d63e-7aab-8c9a-542633af8371",
+      "time": "2026-07-04 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China night session most-active contracts close】At the 02:30 close, Shanghai gold most-active contract rose 0.81% to 913 yuan/gram; Shanghai silver most-active contract rose 1.61% to 15,294 yuan/kg; SC crude (Shanghai futures) most-active contract fell 0.16% to 438 yuan/barrel."
+    },
     {
       "id": "mkt:019f293f-b405-7aab-8c9a-49b1fe8519e6",
       "time": "2026-07-04 02:31:08",
@@ -123571,99 +123592,6 @@
         "國際"
       ],
       "text": "特朗普：獨立日過後立刻著手修繕反射池。"
-    },
-    {
-      "id": "4957917",
-      "time": "2026-06-27 02:34:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩真主黨議員： 華盛頓方面此番操作，意在阻撓 “伊斯蘭堡談判程序”，“缺少抵抗力量的認可，任何協議都無法推行”。"
-    },
-    {
-      "id": "mkt:019f0535-f826-7dd8-b13d-b89d53bab6b9",
-      "time": "2026-06-27 02:34:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission spokesman says the EU is prepared to engage constructively to seek a global fair-tax solution for the digital economy consistent with conclusions reached by G7 finance ministers."
-    },
-    {
-      "id": "4957916",
-      "time": "2026-06-27 02:33:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會發言人針對特朗普數字稅威脅作出回應：歐盟及其成員國擁有在本國領土內監管經濟活動的主權權利。 相關稅收制度設計上不存在歧視，適用於所有大型企業，不分企業來源地。 若美方採取無正當理由的單邊措施，歐盟將迅速、果斷採取行動，捍衛自身權益與監管自主權。 歐盟願開展建設性磋商，依據七國集團財長會議共識，推動達成數字經濟公平徵稅的全球性解決方案。"
-    },
-    {
-      "id": "mkt:019f0535-acd5-7dd8-b13d-b68049375307",
-      "time": "2026-06-27 02:33:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "A European Commission spokesperson said the EU will respond swiftly and decisively to any unreasonable unilateral measures to defend its rights and regulatory autonomy."
-    },
-    {
-      "id": "mkt:019f0535-895a-7dd8-b13d-ae86a170a4e8",
-      "time": "2026-06-27 02:33:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "A European Commission spokesperson said, in response to a threat from US President Trump, that the EU and its member states have sovereign rights to regulate economic activity on their territory."
-    },
-    {
-      "id": "4957915",
-      "time": "2026-06-27 02:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨議員：除非當局在美國支援下挑起內戰，否則根本無法落實這份華盛頓協議。"
-    },
-    {
-      "id": "mkt:019f0535-1a80-7dd8-b13d-a4ab82c7a443",
-      "time": "2026-06-27 02:33:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission spokesperson said tax measures are designed to be non-discriminatory and will apply equally to all large companies regardless of country of origin."
-    },
-    {
-      "id": "mkt:019f0534-6840-7dd8-b13d-9d751d5d3f3d",
-      "time": "2026-06-27 02:32:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said on attacks by Iranian boats on vessels that they cannot do that."
-    },
-    {
-      "id": "mkt:019f0533-e377-7dd8-b13d-9793178efdd0",
-      "time": "2026-06-27 02:31:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $69.23/bl, down $2.69, or 3.74%."
-    },
-    {
-      "id": "mkt:019f0533-d03c-7dd8-b13d-8ad3228c867b",
-      "time": "2026-06-27 02:31:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said gasoline prices will soon fall to $2.50 per gallon."
     }
   ]
 }

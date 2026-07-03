@@ -1,7 +1,28 @@
 {
   "date": "2026-07-04",
-  "count": 89,
+  "count": 91,
   "items": [
+    {
+      "id": "4970049",
+      "time": "2026-07-04 02:34:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價本週漲超2%】週五（7月3日），現貨黃金最終漲1.32%，報4176.94美元/盎司，本週累計上漲2.16%，整體呈現出V形走勢。COMEX黃金期貨漲1.49%，報4187.30美元/盎司，本週累漲2.22%。現貨白銀漲2.46%，報62.4158美元/盎司，本週累漲5.52%。COMEX白銀期貨漲2.04%，報62.815美元/盎司，本週累漲5.39%。COMEX銅期貨漲0.79%，報6.2240美元/磅，本週累漲0.47%。"
+    },
+    {
+      "id": "mkt:019f293f-d63e-7aab-8c9a-542633af8371",
+      "time": "2026-07-04 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China night session most-active contracts close】At the 02:30 close, Shanghai gold most-active contract rose 0.81% to 913 yuan/gram; Shanghai silver most-active contract rose 1.61% to 15,294 yuan/kg; SC crude (Shanghai futures) most-active contract fell 0.16% to 438 yuan/barrel."
+    },
     {
       "id": "mkt:019f293f-b405-7aab-8c9a-49b1fe8519e6",
       "time": "2026-07-04 02:31:08",
