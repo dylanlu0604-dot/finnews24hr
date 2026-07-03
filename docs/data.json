@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-04 03:22:15",
-  "count": 13413,
+  "updated": "2026-07-04 03:26:02",
+  "count": 13412,
   "items": [
+    {
+      "id": "4970074",
+      "time": "2026-07-04 03:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：簽署赦免令，赦免那些因“修理”汽車而“遭受迫害”的人。"
+    },
+    {
+      "id": "4970073",
+      "time": "2026-07-04 03:24:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：剛剛簽署了六人的赦免令。"
+    },
+    {
+      "id": "4970072",
+      "time": "2026-07-04 03:24:01",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元料創4月來最大周線跌幅，就業資料打擊美聯儲加息預期】美元週五下跌，且勢將創下12周來最大周線跌幅，週四公佈的美國就業報告表現疲軟，令市場對美聯儲近期加息的預期降溫，這也令日元獲得喘息之機。隨著美元全面走弱，歐元兌美元升至1.1440美元，此前一天曾觸及近兩週最高，本週累計上漲0.5%。芝商所（CME）FedWatch工具顯示，市場目前認為美聯儲9月會議加息的機率約為45%。美國公債市場週五因獨立日假期休市。“我們的預測中沒有升息，因此這符合我們的看法，即最終會出現轉向，美元會走弱，”SEB分析主管Karl Steiner表示。“如果我們看到美元進一步下行，我不會感到意外。”美元指數下跌約0.2%，報100.83，週四下跌0.5%，本週下跌0.5%，創4月初以來最大單週跌幅。"
+    },
     {
       "id": "4970071",
       "time": "2026-07-04 03:18:50",
@@ -123470,43 +123496,6 @@
         "國際"
       ],
       "text": "松市場訊息：在烏克蘭發動大規模無人機襲擊後，俄羅斯國內民族主義陣營呼籲俄方採取強硬報復手段，其中包括動用戰術核武器。"
-    },
-    {
-      "id": "4957943",
-      "time": "2026-06-27 03:24:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果股價漲幅收窄至1.9%，此前智慧眼鏡負責人將離職加入OpenAI。"
-    },
-    {
-      "id": "4957942",
-      "time": "2026-06-27 03:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果Vision Pro及智慧眼鏡業務主管將離職，轉投OpenAI】蘋果公司負責 Vision Pro 頭顯及旗下智慧眼鏡研發業務的高管即將跳槽至 OpenAI。近期人工智慧與硬體行業頭部人才持續流向競品企業，本次離職只是又一例重磅高管出走事件。多位知情人士透露，副總裁保羅・米德將於下週離開蘋果，隨後入職 OpenAI 硬體部門。知情人士因涉及尚未對外公佈的人事變動而要求匿名，他們表示，米德將主導 OpenAI 新一代全系 AI 智慧硬體產品的研發工作。米德的離職對這家 iPhone 製造商而言是重大打擊。七年來，他一直執掌 Vision Pro 頭顯硬體工程團隊，該裝置曾被視作蘋果下一代核心計算平臺。蘋果與 OpenAI 的發言人均拒絕就此置評。"
-    },
-    {
-      "id": "mkt:019f0563-6da1-7dd8-b13e-5f38ebb125dd",
-      "time": "2026-06-27 03:23:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "The head of Apple Inc (AAPL.O)'s Vision Pro and smart glasses business will leave to join OpenAI."
-    },
-    {
-      "id": "mkt:019f0562-d9a7-7dd8-b13e-56f34c2a5ceb",
-      "time": "2026-06-27 03:23:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Elon Musk cleared to acquire Mesh, expands data-center optical communications footprint】Elon Musk has received U.S. regulatory approval to acquire startup Mesh Optical Technologies, which develops data-center optical transceivers that it says deliver higher energy efficiency and lower latency versus existing solutions. Mesh, founded by SpaceX engineers who worked on Starlink laser-link communications, exited stealth in February after raising $50m in a round led by Thrive Capital."
     }
   ]
 }
