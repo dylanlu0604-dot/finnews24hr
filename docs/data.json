@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-03 23:49:30",
-  "count": 13517,
+  "updated": "2026-07-03 23:53:35",
+  "count": 13515,
   "items": [
+    {
+      "id": "4970000",
+      "time": "2026-07-03 23:52:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾： 近期能源價格回落出乎意料，市場局勢仍存波動。"
+    },
+    {
+      "id": "mkt:019f28ad-9d36-7aab-8c99-39891127cf38",
+      "time": "2026-07-03 23:51:34",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "ECB policymaker NAGEL said the recent drop in energy prices was unexpected and the situation remains unstable."
+    },
+    {
+      "id": "4969999",
+      "time": "2026-07-03 23:51:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾： 歐洲央行應保持警惕，保留政策操作空間。"
+    },
+    {
+      "id": "4969998",
+      "time": "2026-07-03 23:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方稱損毀7架俄戰機 俄方稱摧毀烏多處軍用設施】烏克蘭國家安全域性3日在官網釋出訊息稱，為執行烏總統澤連斯基的40天對俄行動，烏國家安全域性使用無人機對克里米亞兩座軍用機場實施了打擊。另據俄國防部的最新戰報，6月27日至7月3日，俄軍打擊行動摧毀了烏克蘭多處軍用設施。烏國家安全域性稱，薩基機場存放蘇-30SM、蘇-30、蘇-24等戰機的7座機庫遭襲擊。初步資訊顯示，至少7架戰機損毀，這是該軍用機場在一週內遭到的第二次襲擊。烏國家安全域性表示，在近衛軍村機場，兩座機庫遭襲，機庫記憶體放有攻擊型無人機和航空裝備。烏國家安全域性還稱，俄軍戰機定期從上述兩座機場起飛，向烏髮射導彈併為俄軍提供支援。截至目前，俄方對這一訊息沒有作出回應。（新華社）"
+    },
+    {
+      "id": "4969997",
+      "time": "2026-07-03 23:49:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：德國在改革方面邁出了非常重要的一步。"
+    },
+    {
+      "id": "mkt:019f28ab-50f6-7aab-8c99-3480a0941bf3",
+      "time": "2026-07-03 23:49:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB executive board member Nagel said Germany has taken a very important step in reforms."
+    },
+    {
+      "id": "mkt:019f28ab-4df0-7aab-8c99-2fcf5c41cbc8",
+      "time": "2026-07-03 23:49:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said the Bank will seek to achieve its inflation target without harming output."
+    },
+    {
+      "id": "4969996",
+      "time": "2026-07-03 23:48:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利： 英國央行力求在不損害經濟產出的前提下實現通脹目標。"
+    },
     {
       "id": "4969995",
       "time": "2026-07-03 23:45:57",
@@ -124398,101 +124473,6 @@
         "XAUUSD"
       ],
       "text": "【Trump says Iran fired at least four drones at ships in Strait of Hormuz; one hit, three shot down】US President Trump posted that Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz. One drone struck the superstructure of a large, expensive cargo ship, causing damage but the vessel remained underway. He said we shot down the other three and called the action a stupid violation of our ceasefire agreement."
-    },
-    {
-      "id": "mkt:019f04a2-d37f-7dd8-b13a-b86be38d82b2",
-      "time": "2026-06-26 23:53:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. crude (WTI) and Brent rose $0.60 in intraday trade to $69.20/bbl and $72.65/bbl, respectively."
-    },
-    {
-      "id": "4957837",
-      "time": "2026-06-26 23:53:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利： 當前勞動力市場並未推高通脹， 通脹由供給問題驅動，其中包括人工智慧產業建設相關因素。"
-    },
-    {
-      "id": "te:markets:562300",
-      "time": "2026-06-26 23:52:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Friday — The FTSE 100 edged down on Friday, tracking a broader decline in European equities fueled by retreating oil prices and a US technology selloff. Oil prices weakened on growing optimism surrounding a potential US-Iran peace deal and restored shipping traffic through the Strait of Hormuz, directly hitting energy heavyweights BP and Shell, which dropped 2% and 0.8% respectively. Globally, market sentiment soured following a slide in Apple shares and reports that OpenAI might delay its initial public offering. This broader risk-off environment dragged down banks like HSBC by over 1.5%, and aerospace manufacturing giants Rolls-Royce (-1.4%). Mining majors Rio Tinto was down 0.4% and Glencore slid over 2%. Defying the downturn, pharmaceutical firm AstraZeneca added 1.4%, and consumer staples Unilever rose 0.7% and British American Tobacco gained 1.5%. Despite Friday's loss, the UK index rose 1.5% this week."
-    },
-    {
-      "id": "4957836",
-      "time": "2026-06-26 23:52:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：一架無人機擊中貨船上層甲板，美方擊落另外三架無人機。"
-    },
-    {
-      "id": "mkt:019f04a1-d40f-7dd8-b13a-b6709cb1e5ad",
-      "time": "2026-06-26 23:52:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said Iran fired at least four one-way attack drones at vessels transiting the Strait of Hormuz and called the action a stupid violation of our ceasefire agreement."
-    },
-    {
-      "id": "4957835",
-      "time": "2026-06-26 23:52:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：此舉公然違反了我們之間的停火協議，實屬愚蠢之舉。"
-    },
-    {
-      "id": "4957834",
-      "time": "2026-06-26 23:51:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們擊落了三架無人機。"
-    },
-    {
-      "id": "4957833",
-      "time": "2026-06-26 23:51:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗向穿越霍爾木茲海峽的船隻發射了至少四架單向攻擊無人機。"
-    },
-    {
-      "id": "4957832",
-      "time": "2026-06-26 23:51:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：勞動力市場絕對不算火熱，但整體尚可。"
-    },
-    {
-      "id": "4957831",
-      "time": "2026-06-26 23:50:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國電力集團（EDF）：KKR 已同意收購其旗下美加電力解決方案業務。"
     }
   ]
 }
