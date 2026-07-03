@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-03 21:23:19",
-  "count": 13631,
+  "updated": "2026-07-03 21:27:15",
+  "count": 13627,
   "items": [
+    {
+      "id": "4969892",
+      "time": "2026-07-03 21:25:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盛弘股份：儲能逆變器業務在美收入佔公司整體收入的比重極低】關於“針對有關近期美國禁止進口外國逆變器的傳聞，對公司有何影響”的問題，盛弘股份在接受機構調研時回應稱，公司無光伏逆變器產品銷售；儲能逆變器業務在美收入佔公司整體收入的比重極低。傳聞的具體情況還在商討和確認階段，公司會實時跟進發展和市場具體變化，並根據實際情況，彈性部署產能，打造多元化供應鏈佈局，以應對潛在的風險和變化，合法合規地拓展海外業務。"
+    },
+    {
+      "id": "te:economy:564176",
+      "time": "2026-07-03 21:24:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Private Sector Rebounds in June — The S&P Global Composite PMI for Brazil rose to 50.7 in June 2026 from 49.5 in May, pointing to a mild recovery in private sector activity. The upturn was driven by services, while manufacturing recorded a softer decline in output. Aggregate new orders increased, supported by stronger demand for services, while manufacturing contraction in order books moderated. Employment declined for the first time in five months as services firms reduced staffing despite hiring in manufacturing. Overall price pressures eased to a three-month low, but business optimism softened."
+    },
+    {
+      "id": "te:economy:564175",
+      "time": "2026-07-03 21:23:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Services PMI Extends Growth Streak — Brazil's S&P Global Services PMI rose to 51.3 in June 2026 from 50.4 in May, signaling a slightly faster pace of expansion in the services sector and extending the current growth streak to eight months. The survey showed that new business continued to increase only modestly, with transport, information and communication, and consumer services posting growth, while finance and insurance and real estate and business services contracted. The improvement in demand came despite elevated price pressures, as output charge inflation accelerated and remained among the strongest in 16 months. Input costs also rose at the fastest pace since February 2025, driven by higher prices for commodities, fuel, transportation, and food. Meanwhile, employment declined, ending a four-month period of job creation, as firms cited layoffs and restructuring efforts. Confidence weakened to an 11-month low amid concerns over the upcoming presidential election, economic instability, and geopolitical tensions."
+    },
+    {
+      "id": "mkt:019f2826-30da-7aab-8c96-e4d90c7768d1",
+      "time": "2026-07-03 21:23:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Gulf June oil exports surge; UAE crude shipments hit record high】Gulf oil exports in June rose by more than 3.00 mln b/d versus May to top 10.00 mln b/d, but remain roughly 40% below pre-war levels. UAE-led flows freed millions of barrels stranded in the Gulf, enabling producers to raise output and helping push oil prices back toward pre-war levels. Kpler shows combined crude and condensate exports from Saudi Arabia, the UAE, Kuwait, Iraq and Iran rose by over 3.50 mln b/d to 10.07 mln b/d. Freight analytics firm Vortexa estimates June shipments at 10.20 mln b/d, up from 7.00 mln b/d in May but down from 16.50 mln b/d a year earlier."
+    },
+    {
+      "id": "4969891",
+      "time": "2026-07-03 21:23:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海灣地區6月石油出口量激增，阿聯酋原油輸送量創歷史新高】資料顯示，海灣地區6月石油出口量較5月增長超過300萬桶/日，突破1000萬桶/日，但仍比戰前水平低40%。阿聯酋引領了石油市場的復甦，使得數百萬桶滯留在海灣地區的原油得以進入國際市場，從而使生產商能夠提高產量，並將油價降至戰前水平。Kpler的資料顯示，沙特、阿聯酋、科威特、伊拉克和伊朗的原油和凝析油出口總量較5月增長超過350萬桶/日，達到1007萬桶/日。另一家貨運分析公司Vortexa估計，6月份的石油輸送量為1020萬桶/日，高於5月份的700萬桶/日，但仍遠低於去年同期的1650萬桶/日。"
+    },
+    {
+      "id": "mkt:019f2825-f071-7aab-8c96-dbfcf3facc68",
+      "time": "2026-07-03 21:23:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "Infineon Technologies said it won another patent-infringement case against Innoscience."
+    },
+    {
+      "id": "4969890",
+      "time": "2026-07-03 21:22:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英飛凌：贏得針對英諾賽科的又一起專利侵權訴訟。"
+    },
     {
       "id": "mkt:019f2824-11fc-7aab-8c96-d310d363dd0c",
       "time": "2026-07-03 21:21:20",
@@ -125498,112 +125574,6 @@
         "其他"
       ],
       "text": "【深圳萬億GDP轄區南山“虹吸效應”顯著 超50%換房業主仍選擇南山】樂有家資料顯示，超50%換房業主仍選擇留在南山。鹽田、坪山、光明等區域亦有超三成換房客湧入南山置業；正如洛杉磯、紐約等核心城市，人才、資本、產業資源始終湧向最核心的座標，南山這座萬億城區的“虹吸效應”正被更多家庭投票驗證。當南山吸納全城置業的關注點，深圳正以安居型商品房為人才託底。據CRIC克而瑞·深圳資料顯示：25年10月-26年6月深圳市商品住宅成交套數排行榜中，山樾灣成交1787套，月均超250套，蟬聯深圳商品房成交榜首。作為可取得100%產權、兼具\"流通紅利\"的安居房，僅需首付42萬起，入主南山前海核心區。專案逾半數為30歲左右首次置業者。專案申購申請條件：深戶、無房、社保滿5年（本科及以上3年），單身滿30週歲，無需輪候。申購截至6月30日。"
-    },
-    {
-      "id": "mkt:019f041c-d035-7dd8-b137-e339e81dc47f",
-      "time": "2026-06-26 21:27:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Citigroup/YouGov survey: UK long-term inflation expectations fell to 3.9% in June from 4.0% in May."
-    },
-    {
-      "id": "mkt:019f041c-997b-7dd8-b137-df4423d578c3",
-      "time": "2026-06-26 21:26:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CITI/YOUGOV survey: UK one-year-ahead inflation expectations were 3.8% in June, down from 4.7% in May."
-    },
-    {
-      "id": "4957638",
-      "time": "2026-06-26 21:25:56",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗/輿觀：英國6月一年期通脹預期為3.8%，5月為4.7%。"
-    },
-    {
-      "id": "4957637",
-      "time": "2026-06-26 21:25:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗/輿觀調查網：英國6月長期通脹預期為3.9%，5月為4.0%。"
-    },
-    {
-      "id": "mkt:019f041b-a08e-7dd8-b137-d0008edb1b4a",
-      "time": "2026-06-26 21:25:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【UAE issues missile alert, cancels shortly after】Foreign media reported the UAE issued a cellphone alert warning residents of a possible missile threat; minutes later authorities sent a cancellation saying the situation was secure. The alerts briefly pushed U.S. and Brent crude futures up nearly $1."
-    },
-    {
-      "id": "4957635",
-      "time": "2026-06-26 21:25:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾股東德卡投資：這將解決成本分歧。"
-    },
-    {
-      "id": "4957634",
-      "time": "2026-06-26 21:25:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "大眾汽車股東德卡投資：大眾需要推出能夠創造高需求的富有吸引力的產品。"
-    },
-    {
-      "id": "4957633",
-      "time": "2026-06-26 21:25:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "海灣合作委員會秘書長歡迎阿曼計劃撤離霍爾木茲海峽逾1.1萬名受困船員，並譴責伊朗對該海峽航行自由的\"威脅\"。"
-    },
-    {
-      "id": "4957632",
-      "time": "2026-06-26 21:25:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "大眾汽車股東德卡投資：高成本只是表象，而非根源。"
-    },
-    {
-      "id": "te:markets:562262",
-      "time": "2026-06-26 21:24:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Down About 10% on the Week — Silver rose above $58 per ounce on Friday but remained down nearly 10% for the week, extending the losses recorded in the previous week, as the Fed's hawkish stance continued to support the US dollar. New Fed Chair Warsh reaffirmed the central bank's commitment to bringing inflation under control, easing concerns that he might bow to pressure from US President Trump to cut interest rates prematurely. The Fed also raised its 2026 PCE inflation projections, while the headline PCE inflation rate accelerated to 4.1% in May. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing at around 62%. Silver has broadly tracked the weakness across precious metals but has underperformed gold since the outbreak of the Iran war, losing roughly half its value since reaching a record high in January. Silver is also an industrial metal, making it more sensitive to changes in investors' risk appetite and expectations for global growth."
-    },
-    {
-      "id": "4957631",
-      "time": "2026-06-26 21:23:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮科科技：公司股票將於6月30日被實施其他風險警示】榮科科技公告，公司股票將於2026年6月30日被實施其他風險警示，股票簡稱由“榮科科技”變更為“ST榮科”。公司股票自2026年6月29日（星期一）開市起停牌1天，將於2026年6月30日（星期二）開市起復牌。"
     }
   ]
 }

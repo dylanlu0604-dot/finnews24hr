@@ -1,7 +1,83 @@
 {
   "date": "2026-07-03",
-  "count": 2527,
+  "count": 2534,
   "items": [
+    {
+      "id": "4969892",
+      "time": "2026-07-03 21:25:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盛弘股份：儲能逆變器業務在美收入佔公司整體收入的比重極低】關於“針對有關近期美國禁止進口外國逆變器的傳聞，對公司有何影響”的問題，盛弘股份在接受機構調研時回應稱，公司無光伏逆變器產品銷售；儲能逆變器業務在美收入佔公司整體收入的比重極低。傳聞的具體情況還在商討和確認階段，公司會實時跟進發展和市場具體變化，並根據實際情況，彈性部署產能，打造多元化供應鏈佈局，以應對潛在的風險和變化，合法合規地拓展海外業務。"
+    },
+    {
+      "id": "te:economy:564176",
+      "time": "2026-07-03 21:24:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Private Sector Rebounds in June — The S&P Global Composite PMI for Brazil rose to 50.7 in June 2026 from 49.5 in May, pointing to a mild recovery in private sector activity. The upturn was driven by services, while manufacturing recorded a softer decline in output. Aggregate new orders increased, supported by stronger demand for services, while manufacturing contraction in order books moderated. Employment declined for the first time in five months as services firms reduced staffing despite hiring in manufacturing. Overall price pressures eased to a three-month low, but business optimism softened."
+    },
+    {
+      "id": "te:economy:564175",
+      "time": "2026-07-03 21:23:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Services PMI Extends Growth Streak — Brazil's S&P Global Services PMI rose to 51.3 in June 2026 from 50.4 in May, signaling a slightly faster pace of expansion in the services sector and extending the current growth streak to eight months. The survey showed that new business continued to increase only modestly, with transport, information and communication, and consumer services posting growth, while finance and insurance and real estate and business services contracted. The improvement in demand came despite elevated price pressures, as output charge inflation accelerated and remained among the strongest in 16 months. Input costs also rose at the fastest pace since February 2025, driven by higher prices for commodities, fuel, transportation, and food. Meanwhile, employment declined, ending a four-month period of job creation, as firms cited layoffs and restructuring efforts. Confidence weakened to an 11-month low amid concerns over the upcoming presidential election, economic instability, and geopolitical tensions."
+    },
+    {
+      "id": "mkt:019f2826-30da-7aab-8c96-e4d90c7768d1",
+      "time": "2026-07-03 21:23:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Gulf June oil exports surge; UAE crude shipments hit record high】Gulf oil exports in June rose by more than 3.00 mln b/d versus May to top 10.00 mln b/d, but remain roughly 40% below pre-war levels. UAE-led flows freed millions of barrels stranded in the Gulf, enabling producers to raise output and helping push oil prices back toward pre-war levels. Kpler shows combined crude and condensate exports from Saudi Arabia, the UAE, Kuwait, Iraq and Iran rose by over 3.50 mln b/d to 10.07 mln b/d. Freight analytics firm Vortexa estimates June shipments at 10.20 mln b/d, up from 7.00 mln b/d in May but down from 16.50 mln b/d a year earlier."
+    },
+    {
+      "id": "4969891",
+      "time": "2026-07-03 21:23:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海灣地區6月石油出口量激增，阿聯酋原油輸送量創歷史新高】資料顯示，海灣地區6月石油出口量較5月增長超過300萬桶/日，突破1000萬桶/日，但仍比戰前水平低40%。阿聯酋引領了石油市場的復甦，使得數百萬桶滯留在海灣地區的原油得以進入國際市場，從而使生產商能夠提高產量，並將油價降至戰前水平。Kpler的資料顯示，沙特、阿聯酋、科威特、伊拉克和伊朗的原油和凝析油出口總量較5月增長超過350萬桶/日，達到1007萬桶/日。另一家貨運分析公司Vortexa估計，6月份的石油輸送量為1020萬桶/日，高於5月份的700萬桶/日，但仍遠低於去年同期的1650萬桶/日。"
+    },
+    {
+      "id": "mkt:019f2825-f071-7aab-8c96-dbfcf3facc68",
+      "time": "2026-07-03 21:23:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "Infineon Technologies said it won another patent-infringement case against Innoscience."
+    },
+    {
+      "id": "4969890",
+      "time": "2026-07-03 21:22:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英飛凌：贏得針對英諾賽科的又一起專利侵權訴訟。"
+    },
     {
       "id": "mkt:019f2824-11fc-7aab-8c96-d310d363dd0c",
       "time": "2026-07-03 21:21:20",
