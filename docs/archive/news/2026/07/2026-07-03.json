@@ -1,7 +1,59 @@
 {
   "date": "2026-07-03",
-  "count": 626,
+  "count": 633,
   "items": [
+    {
+      "id": "4968480",
+      "time": "2026-07-03 08:35:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3%，至7418.25點。"
+    },
+    {
+      "id": "4968479",
+      "time": "2026-07-03 08:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭總理拉克森：印度總理納倫德拉·莫迪將於下週對紐西蘭進行首次正式訪問。"
+    },
+    {
+      "id": "mkt:019f2565-c372-7aab-8c86-b2e4b6f32ffe",
+      "time": "2026-07-03 08:34:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【VeriSilicon launches CPP2000 camera post‑processing IP】July 3 — VeriSilicon launched the high‑performance CPP2000 camera post‑processing (CPP) IP, saying it improves image quality and visual perception in mobile‑imaging scenarios and targets robotics, drones and other mobile‑vision applications with more stable, more reliable visual processing."
+    },
+    {
+      "id": "4968478",
+      "time": "2026-07-03 08:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯原股份推出CPP2000攝像頭後處理IP】7月3日，芯原股份宣佈推出高效能CPP2000攝像頭後處理 (CPP) IP，據介紹，CPP2000能夠提升移動成像場景下的影象質量與視覺感知能力，為機器人、無人機及其他移動視覺應用提供更加穩定可靠的視覺處理效能。"
+    },
+    {
+      "id": "4968477",
+      "time": "2026-07-03 08:33:53",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【日本6月標普全球服務業採購經理人指數(PMI)為52.2】標普全球釋出了日本6月份服務業綜合採購經理人指數（PMI）。服務業採購經理人指數升至52.2，低於5月份的50和去年6月份的51.7。綜合採購經理人指數升至52.8，低於5月份的51.1和去年6月份的51.5。擴張活動和收縮活動的分界線是50。"
+    },
+    {
+      "id": "4968476",
+      "time": "2026-07-03 08:32:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻色量子完成數億元Pre-IPO輪融資 加速實用化量子計算】記者獲悉，近日玻色量子正式完成數億元Pre-IPO輪融資，由杭州產投、九智資本、元禾璞華、全新世、洪泰基金、君禮資本、招銀國際、中銀資本投控、元和資本、福州國資集團榕投資本聯合投資。包括本輪融資和今年3月份完成的10億元B輪融資，玻色量子自2020年11月成立以來已進行了10輪融資。"
+    },
     {
       "id": "mkt:019f2563-6a3d-7aab-8c86-ace8bd9dba59",
       "time": "2026-07-03 08:31:39",
@@ -47,6 +99,15 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）下跌2.1%，至7491.25。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607033792592578",
+      "time": "2026-07-03 08:30:19",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月服務業PMI終值為52.2，前值51.8。"
     },
     {
       "id": "mkt:019f2561-fab4-7aab-8c86-93f2f9592dd0",
