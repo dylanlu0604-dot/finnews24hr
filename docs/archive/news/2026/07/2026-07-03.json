@@ -1,7 +1,904 @@
 {
   "date": "2026-07-03",
-  "count": 2421,
+  "count": 2524,
   "items": [
+    {
+      "id": "te:markets:564172",
+      "time": "2026-07-03 21:16:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Gain as Gold Prices Climb — Futures tracking the S&P/TSX Composite Index edged higher on Friday, supported by firmer gold prices after weaker-than-expected US jobs data tempered expectations of a near-term Federal Reserve rate hike. Gold gained after data showed US nonfarm payrolls rose by 57,000 in June, well below forecasts of 110,000, boosting hopes for a more dovish Fed and supporting mining shares. Meanwhile, BHP Group agreed to transfer its San Manuel property in Arizona to Faraday Copper in exchange for a 30% stake in the Canadian miner, as Faraday seeks to develop a copper hub around its adjacent Copper Creek project. Oil prices remained near pre-war lows amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting financial stocks. Separately, AtkinsRéalis said Turkey could begin formal talks on a CANDU nuclear plant after completing an early reactor review later this summer."
+    },
+    {
+      "id": "4969888",
+      "time": "2026-07-03 21:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭赫爾松已檢測到制導航空炸彈。"
+    },
+    {
+      "id": "te:economy:564171",
+      "time": "2026-07-03 21:15:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Output Falls in May — Brazil's industrial production fell 0.2% in May 2026 from the previous month, missing expectations of a 0.3% growth and marking its first monthly decline of the year after a 0.7% increase in April. The downturn was broad-based, with three of the four major industrial categories and 8 of the 25 industries surveyed posting declines. The largest negative contributions came from coke, refined petroleum products and biofuels (-6.1%) and extractive industries (-2.6%). Additional declines were recorded in food products (-1.3%), textiles (-4.0%), printing and recorded media (-8.1%), and computers, electronic and optical products (-2.0%). Among the 16 industries that expanded, the main gains came from pharmaceuticals (13.1%), motor vehicles (4.1%), and chemicals (3.1%), followed by metallurgy (2.3%), apparel (4.7%), other transport equipment (4.7%), electrical machinery (2.6%), and machinery and equipment (1.2%). Compared with May 2025, industrial production edged up 0.2%."
+    },
+    {
+      "id": "4969887",
+      "time": "2026-07-03 21:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭外交部長：倘若普京試圖試探北約團結，那將是極為魯莽之舉。"
+    },
+    {
+      "id": "mkt:019f281e-22fe-7aab-8c96-ce052723dd45",
+      "time": "2026-07-03 21:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's foreign minister said it would be madness if Putin were to test NATO's unity."
+    },
+    {
+      "id": "4969886",
+      "time": "2026-07-03 21:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "英飛凌稱法院在侵權訴訟中作出有利於該公司的判決。"
+    },
+    {
+      "id": "mkt:019f281c-e691-7aab-8c96-c16390b8a2bb",
+      "time": "2026-07-03 21:13:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to reports, guided aerial bombs have been launched targeting Kherson, Ukraine."
+    },
+    {
+      "id": "4969885",
+      "time": "2026-07-03 21:11:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“白加黑停產”登上熱搜 拜耳回應：仍在生產和銷售】據國家藥監局官網資訊，“白加黑”對應兩組藥品批文，通用名分別為氨酚偽麻美芬片Ⅱ（白片）、氨麻苯美片（黑片），生產單位是拜耳醫藥保健有限公司啟東分公司，其母公司拜耳醫藥保健有限公司系跨國藥企拜耳集團在華設立的全資企業。針對全網熱議的停產傳聞，拜耳方面表示：“這款產品目前仍在生產和銷售。” (21財經)"
+    },
+    {
+      "id": "4969884",
+      "time": "2026-07-03 21:10:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信濠光電：持股5%以上股東股份擬司法拍賣被撤回】信濠光電公告稱，公司持股5%以上股東梁國豪持有的147萬股公司股份，原擬於7月2日10時至7月3日10時在深圳市寶安區人民法院淘寶網司法拍賣網路平臺公開拍賣，近日該拍賣已被撤回。截至公告披露日，梁國豪持有公司股份1604.93萬股，佔總股本的5.65%，其股份全部處於質押、凍結並輪候凍結狀態。本次撤回不會導致公司第一大股東變化，也不影響生產經營。"
+    },
+    {
+      "id": "4969883",
+      "time": "2026-07-03 21:10:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬公司：萊茵金屬加拿大分公司為加拿大月球車專案提供PATH系統。"
+    },
+    {
+      "id": "4969882",
+      "time": "2026-07-03 21:10:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢口銀行依法依規承接眾邦銀行的相關資產、負債、業務和人員】國家金融監督管理總局依法決定對武漢眾邦銀行股份有限公司實施接管。在國家金融監督管理總局、湖北省人民政府監督下，由漢口銀行股份有限公司依法依規承接眾邦銀行的相關資產、負債、業務和人員。（武漢市地方金融管理局網站）"
+    },
+    {
+      "id": "4969881",
+      "time": "2026-07-03 21:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中共中央批准：李剛任新疆維吾爾自治區黨委常委】中共中央批准：李剛同志任新疆維吾爾自治區黨委委員、常委。（新疆日報）"
+    },
+    {
+      "id": "mkt:019f2818-35ba-7aab-8c96-bcdeaf90fd6a",
+      "time": "2026-07-03 21:08:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A NATO Ankara summit statement obtained by Refinitiv shows leaders will declare Iran must never possess nuclear weapons and will call on Tehran to fully respect freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f2818-0b3e-7aab-8c96-b1f644ad96cc",
+      "time": "2026-07-03 21:08:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President VON DER LEYEN said the Commission will soon put forward a proposal on the settlements issue."
+    },
+    {
+      "id": "4969880",
+      "time": "2026-07-03 21:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約領導人將宣佈伊朗絕不得擁有核武器，並呼籲伊朗充分尊重霍爾木茲海峽航行自由。"
+    },
+    {
+      "id": "mkt:019f2817-8d08-7aab-8c96-aab9f1c8a0fd",
+      "time": "2026-07-03 21:07:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President Von der Leyen said Israeli settlement expansion is unacceptable."
+    },
+    {
+      "id": "4969879",
+      "time": "2026-07-03 21:07:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：歐盟委員會即將出臺有關定居點問題的方案檔案。"
+    },
+    {
+      "id": "4969878",
+      "time": "2026-07-03 21:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【名臣健康：持股5%以上股東減持致持股比例降至5%以下】名臣健康公告稱，持股5%以上股東吳心玲於2026年6月29日-7月3日，透過集中競價及大宗交易減持135.65萬股，佔總股本0.51%。本次權益變動後，吳心玲持股降至1330.67萬股，佔總股本4.9999%，不再是持股5%以上股東。此次減持與此前披露計劃一致且未實施完畢，不會導致公司控制權變化，也不影響公司治理結構及持續經營。"
+    },
+    {
+      "id": "4969877",
+      "time": "2026-07-03 21:06:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：以色列擴建定居點之舉無法接受。"
+    },
+    {
+      "id": "4969876",
+      "time": "2026-07-03 21:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長表示，伊朗正就依據近期與美國簽署的諒解備忘錄管控霍爾木茲海峽一事，同包括伊拉克在內的周邊國家進行磋商。"
+    },
+    {
+      "id": "4969875",
+      "time": "2026-07-03 21:05:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度政府：正調查蘋果手機資訊洩露事件】印度電子和資訊科技部秘書S·克里希南2日表示，政府正就塔塔電子大規模資料洩露事件展開調查。這也是印度政府首次就這起事件發聲。克里希南說：“我們正在調查。”按他的說法，相關事件已上報負責印度網路安全的下屬機構計算機應急響應小組。塔塔電子是蘋果公司的零部件供應商，也是蘋果手機在印度的主要代工廠之一。據路透社報道，一個團伙日前從塔塔電子竊取大量未公開機密資料並上傳至暗網，包括未釋出的iPhone 18 Pro零部件供應鏈資訊和機型測試素材等。檔案顯示，至少有6份文件詳細標註了iPhone 18 Pro各零部件對應的獨家供貨廠商，涵蓋主機板晶片、電池元件、攝像頭模組等核心配件詳情。另據《印度時報》報道，名為iPhone 18 Pro資料夾內的多張照片顯示，工廠正對一款灰色手機進行跌落測試，日期為2026年初；多個檔案還帶有“機密”水印和內部程式碼名稱。蘋果預計將於今年9月推出多款新機型，而本次資料洩露事件發生的節點對蘋果而言十分棘手。知情人士透露，蘋果將這類資訊列為商業機密，且此前從未在公開供應商名單中披露各零部件對應的具體資訊，而這些供應鏈資訊這次被完整曝出。目前，蘋果已就這起資料洩露事件展開調查；塔塔方面正排查內部安全漏洞，並聘請國際諮詢機構開展法務審計。（新華社）"
+    },
+    {
+      "id": "4969874",
+      "time": "2026-07-03 21:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：要以釘釘子精神推動擴消費穩外貿穩外資、多雙邊經貿合作等重點工作】7月3日，商務部黨組召開會議，專題傳達學習習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神，研究部署學習貫徹工作。會議要求，堅決落實黨中央決策部署，時刻對標對錶，確保商務事業沿著正確政治方向前進。要以釘釘子精神推動擴消費穩外貿穩外資、多雙邊經貿合作等重點工作，努力實現“十五五”開好局、起好步。（商務部）"
+    },
+    {
+      "id": "mkt:019f2814-f36c-7aab-8c96-a583a78d15d0",
+      "time": "2026-07-03 21:04:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "PTI reports Meta Platforms (META.O) will submit its final response to the Indian government within three days."
+    },
+    {
+      "id": "mkt:019f2814-b7ad-7aab-8c96-9b2a29d75543",
+      "time": "2026-07-03 21:04:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "According to PTI, Meta Platforms (META.O) met with Indian officials after receiving a notice concerning a username feature."
+    },
+    {
+      "id": "mkt:019f2814-51ea-7aab-8c96-97b1ea252957",
+      "time": "2026-07-03 21:04:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "EQT.ST",
+        "Impact bullish"
+      ],
+      "text": "Canada Pension Plan Investment Board (CPPIB) to partner with Swedish investment firm EQT on AI infrastructure investments; CPPIB will commit US$1.75bln to support EQT's related strategy."
+    },
+    {
+      "id": "4969873",
+      "time": "2026-07-03 21:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大養老金投資委員會與瑞典投資機構EQT達成合作，共同推進人工智慧基礎設施投資。加拿大養老金投資委員會將投資17.5億美元，以支援EQT的相關戰略。"
+    },
+    {
+      "id": "4969872",
+      "time": "2026-07-03 21:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Meta在使用者名稱功能相關通知釋出後與印度官員展開會談。"
+    },
+    {
+      "id": "4969871",
+      "time": "2026-07-03 21:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息  ：蘇梅地區傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f2813-4ee9-7aab-8c96-8b1617efabb3",
+      "time": "2026-07-03 21:03:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ireland's prime minister says Dublin will share results of a bauxite-mine investigation with the EU."
+    },
+    {
+      "id": "4969870",
+      "time": "2026-07-03 21:02:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理：   將向歐盟通報氧化鋁調查結果。"
+    },
+    {
+      "id": "mkt:019f2812-c7f2-7aab-8c96-84676219c01f",
+      "time": "2026-07-03 21:02:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran parliament speaker says Strait of Hormuz should be jointly managed by Iran and Oman】Iran's parliament speaker said the Strait of Hormuz should be jointly managed by Iran and Oman, telling Iraq's parliament speaker that a recent memorandum of understanding with the United States provides for such joint management. He said Iran is soliciting views from Persian Gulf littoral states, including Iraq."
+    },
+    {
+      "id": "4969869",
+      "time": "2026-07-03 21:02:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長：霍爾木茲海峽應由伊朗和阿曼共同管理】據伊朗塔斯尼姆通訊社3日報道，伊朗伊斯蘭議會議長卡利巴夫當天表示，霍爾木茲海峽應由伊朗和阿曼兩國共同管理。卡利巴夫在與伊拉克議會議長海巴特·哈勒布西會見時作出上述表態。卡利巴夫在談及霍爾木茲海峽的管理時指出，近期與美國簽署的諒解備忘錄已就此作出規定，即霍爾木茲海峽應由伊朗和阿曼兩國共同管理。他表示，伊朗正在就此徵求包括伊拉克在內的波斯灣沿岸國家的意見。（新華社）"
+    },
+    {
+      "id": "mkt:019f2812-5118-7aab-8c96-7ee2e47dc203",
+      "time": "2026-07-03 21:01:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "A NATO statement from the Ankara summit obtained by Refinitiv shows allies will pledge €70 bln in military aid to Ukraine in 2026 and reaffirm a commitment to \"at least maintain a comparable level\" in 2027."
+    },
+    {
+      "id": "4969868",
+      "time": "2026-07-03 21:01:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "安卡拉峰會檔案顯示，北約盟國將承諾在2026年向烏克蘭提供700億歐元軍事援助，並確認承諾2027年軍事援助金額將保持在「至少同等水平」。"
+    },
+    {
+      "id": "4969867",
+      "time": "2026-07-03 21:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "據烏克蘭方面訊息：哈爾科夫市基輔區遭敵對無人機襲擊，兩名分別 58 歲、63 歲的男性受傷，二人受爆炸創傷，已送醫救治；另有一名 58 歲女性出現急性應激反應，所有傷者均正在接受醫療救治。"
+    },
+    {
+      "id": "4969866",
+      "time": "2026-07-03 21:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普說自己是對以色列最好的總統】當地時間7月2日，美國總統特朗普接受美國消費者新聞與商業頻道（CNBC）採訪時，談及即將到來的美國中期選舉問題時表示，“猶太人不可能把票投給民主黨”，因為他是“以色列歷史上最好的（美國）總統”，在以色列，自己的支援率高達99%。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f2810-ca3e-7aab-8c96-71e88e64f704",
+      "time": "2026-07-03 21:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "At the China night session open, most main futures contracts were higher. Synthetic rubber, SHFE silver and SHFE tin rose over 1%; ethylene glycol (EG) gained about 1%. Palm oil and rapeseed meal edged lower."
+    },
+    {
+      "id": "4969865",
+      "time": "2026-07-03 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鈀連續漲3.98%，集運指數歐線期貨連續漲3.72%，鉑連續漲3.27%，碳酸鋰連續漲2.40%，矽鐵連續漲1.58%。"
+    },
+    {
+      "id": "mkt:019f280e-b455-7aab-8c96-6ae64f9c8557",
+      "time": "2026-07-03 20:58:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Refinitiv-obtained NATO communique from the Ankara summit shows leaders will say European allies and Canada are taking on greater responsibility for the alliance's defense."
+    },
+    {
+      "id": "mkt:019f280e-8176-7aab-8c96-609f888e1846",
+      "time": "2026-07-03 20:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government says Maersk has placed an order with DCM Shriram Group for 1,000 additional India-made shipping containers."
+    },
+    {
+      "id": "4969864",
+      "time": "2026-07-03 20:57:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約領導人將宣佈，歐洲盟國與加拿大正對北約防務承擔更大責任。"
+    },
+    {
+      "id": "4969863",
+      "time": "2026-07-03 20:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所就修改再融資規則公開徵求意見】北交所近日對《北京證券交易所上市公司證券發行上市稽核規則》進行了修改，自2026年7月3日起向社會公開徵求意見。本次修改一是完善儲架發行機制。明確儲架發行中“資訊披露工作規範程度較高”的具體標準，要求保薦機構就相關資訊披露工作事項發表核查意見。二是最佳化簡易程式要求。將簡易程式需由年度股東會授權調整為股東會，並完善競價確定發行價格和發行物件的時間。三是最佳化財報有效期的具體安排。在上位規則取消“6+1”財報有效期的背景下，明確稽核註冊過程中發行人披露新的年報、半年報的，可援引最新公告相應內容，並在10個工作日內報送更新後的全套申報材料。四是明確重大變化和重大違法的標準和要求。明確上市公司再融資過程中發生重大變化的情形和應當履行的程式，以及重大違法行為的認定標準及中介機構核查要求等。"
+    },
+    {
+      "id": "mkt:019f280e-29a4-7aab-8c96-5930084d4c64",
+      "time": "2026-07-03 20:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A NATO Ankara summit communiqué obtained by Refinitiv shows NATO leaders will say they are \"building a stronger Europe within a stronger NATO framework.\""
+    },
+    {
+      "id": "mkt:019f280d-81ae-7aab-8c96-56bb43d4ca46",
+      "time": "2026-07-03 20:56:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President von der Leyen said housing is one of the major social challenges of our time."
+    },
+    {
+      "id": "4969862",
+      "time": "2026-07-03 20:56:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度政府：馬士基向DCM施利拉姆集團追加訂購1000個印度製造的海運集裝箱。"
+    },
+    {
+      "id": "mkt:019f280d-69cc-7aab-8c96-4916e17aacda",
+      "time": "2026-07-03 20:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President Von der Leyen said the aim is to launch a European Housing Alliance."
+    },
+    {
+      "id": "4969861",
+      "time": "2026-07-03 20:56:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：住房問題是我們這個時代標誌性的社會難題。"
+    },
+    {
+      "id": "4969860",
+      "time": "2026-07-03 20:56:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約領導人將在安卡拉表示，他們正致力於建設“更強北約中的更強歐洲”。"
+    },
+    {
+      "id": "4969859",
+      "time": "2026-07-03 20:56:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：計劃發起歐洲住房聯盟。"
+    },
+    {
+      "id": "mkt:019f280c-a7cc-7aab-8c96-472e853a708c",
+      "time": "2026-07-03 20:55:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "A NATO communique from its Ankara summit obtained by Refinitiv said Russia poses a \"long-term threat\" to Euro-Atlantic security and stability."
+    },
+    {
+      "id": "4969858",
+      "time": "2026-07-03 20:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴林譴責大馬士革恐怖爆炸襲擊，並申明支援敘利亞。"
+    },
+    {
+      "id": "4969857",
+      "time": "2026-07-03 20:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約安卡拉峰會宣告稱，俄羅斯對歐洲-大西洋安全與穩定構成“長期威脅”。"
+    },
+    {
+      "id": "4969856",
+      "time": "2026-07-03 20:54:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一博科技：目前訂單基本滿產 且每月呈較快增長態勢】一博科技7月3日接受機構調研時表示，公司目前產能利用較好，部分瓶頸工序產能已經打滿，訂單基本滿產，且每月呈較快增長態勢。"
+    },
+    {
+      "id": "mkt:019f280b-c95b-7aab-8c96-38eef49f9bb4",
+      "time": "2026-07-03 20:54:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO leaders will reaffirm a \"firm commitment\" to collective defense and Article 5 in a declaration at the Ankara summit, which ambassadors have approved."
+    },
+    {
+      "id": "4969855",
+      "time": "2026-07-03 20:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據大使們批准的安卡拉峰會宣告顯示，北約領導人將重申對集體防務第五條作出“堅定承諾”。"
+    },
+    {
+      "id": "4969854",
+      "time": "2026-07-03 20:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國在脫歐後提出參與相關會議的請求引發歐盟不滿】英國正謀求參與歐盟部分會議，具體希望加入農業與食品標準、碳市場及電力市場相關委員會。歐盟委員會強調，依據現行雙邊安排，英國無權參與上述會議，但可考慮允許英國官員出席部分專家層級會議並發表意見。這場分歧只是英歐重建關係過程中諸多難題的一環，雙方至今仍難以敲定國防採購、留學專案等領域的相關協議。"
+    },
+    {
+      "id": "4969853",
+      "time": "2026-07-03 20:53:26",
+      "tags": [
+        "行業"
+      ],
+      "text": "【中國鋼鐵行業價格監督員制度工作啟動會在京召開】7月3日，中國鋼鐵行業價格監督員制度工作啟動會在京召開。會上審議透過了中國鋼鐵行業價格監督員名單。與會代表圍繞如何依法依規有效落實該制度提出意見建議。中國鋼鐵工業協會黨委副書記、副會長唐祖君主持會議。唐祖君強調，在行業建立價格監督員制度是貫徹落實中央辦公廳、國務院辦公廳《關於完善價格治理機制的意見》要求“行業協會建立價格監督員制度”的具體舉措，也是行業“反內卷”的必要之舉。鋼鐵行業進入減量發展、存量最佳化的新發展階段，企業不能再靠打“價格戰”謀生存，而應該把更多的精力放在技術、質量、品牌、價值、服務等方面。"
+    },
+    {
+      "id": "mkt:019f280a-79ee-7aab-8c96-30b37d8e8dcc",
+      "time": "2026-07-03 20:53:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market sources: the UK's request to attend post-Brexit meetings has provoked discontent within the EU."
+    },
+    {
+      "id": "4969852",
+      "time": "2026-07-03 20:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國脫歐後申請列席相關會議，此舉惹惱歐盟。"
+    },
+    {
+      "id": "4969851",
+      "time": "2026-07-03 20:51:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿科力：擬向特定物件發行股票募資不超3.75億元】阿科力公告稱，2026年7月3日，公司股東朱學軍等與華芯智基簽署《股份轉讓協議》，轉讓合計1699.85萬股，完成後華芯智基將成二股東。同日，公司與華芯智基簽署《附條件生效的股份認購協議》，擬募資不超3.75億元，發行股數不超1221.50萬股。發行完成後，華芯智基預計持股不超2921.35萬股，佔比不超26.57%，將成控股股東。本次發行尚需股東會審議透過，並經上交所稽核、證監會同意註冊。"
+    },
+    {
+      "id": "mkt:019f2809-2142-7aab-8c96-295b34d26c49",
+      "time": "2026-07-03 20:51:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's oil ministry said an executive protocol with Turkey will pave the way for a new agreement within one year after the current accord expires."
+    },
+    {
+      "id": "4969850",
+      "time": "2026-07-03 20:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【惠譽評級上調浦發銀行主體評級至BBB+】7月3日，惠譽評級將浦發銀行的長期外幣發行人主體評級自BBB上調至BBB+，生存力評級由bb-調至bb，展望穩定。惠譽評級方面表示：“本次上調浦發銀行的長期發行人主體評級及政府支援評級主要是為了反映中央政府和上海市政府對浦發銀行的支援意願較我們之前評估的水平更強，這在浦發銀行2025年債轉股過程中得到了很好的體現，進一步加強了中央政府與該行之間的關聯性。與此同時，浦發銀行的規模和零售存款基礎持續提升至接近評級更高同業的水平。”對於本次上調浦發銀行生存力評級的驅動因素，惠譽評級解釋稱，是基於該行內在信用狀況逐步改善，體現為風險偏好更趨溫和以及表外業務減少。儘管銀行業整體盈利承壓，前述因素對其資產質量、資本水平以及融資與流動性形成支撐。（上證報）"
+    },
+    {
+      "id": "mkt:019f2808-349b-7aab-8c96-2356ae455c10",
+      "time": "2026-07-03 20:50:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's Ministry of Oil said Iraq and Turkey expect to sign an implementing protocol to ensure continued exports of Iraqi oil, including crude from the Kurdistan region. The two sides agreed to continue technical and legal negotiations on oil exports."
+    },
+    {
+      "id": "4969849",
+      "time": "2026-07-03 20:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部表示，伊拉克與土耳其預計將簽署一份執行協議，以保障包括庫爾德地區原油在內的伊拉克石油出口持續進行。"
+    },
+    {
+      "id": "mkt:019f2807-47d0-7aab-8c96-181aacfda3fd",
+      "time": "2026-07-03 20:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan cement sales in June rose 18% to 4.3 mln tonnes."
+    },
+    {
+      "id": "4969848",
+      "time": "2026-07-03 20:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦 6 月水泥總銷量同比增長 18%，達 430 萬噸。"
+    },
+    {
+      "id": "4969847",
+      "time": "2026-07-03 20:49:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "伊拉克石油部訊息：伊拉克與土耳其同意繼續就石油出口事宜開展技術及法律層面磋商。"
+    },
+    {
+      "id": "4969846",
+      "time": "2026-07-03 20:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿曼議會議長悼念伊斯蘭革命已故領袖。"
+    },
+    {
+      "id": "4969845",
+      "time": "2026-07-03 20:48:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深水海納：公司控制權變更事項終止】深水海納公告，公司收到公司控股股東、實際控制人李海波先生通知，獲悉控股股東、實際控制人李海波先生及其一致行動人西藏海納博創管理有限公司、相關股東方安義深水投資合夥企業（有限合夥）與茂名市發展集團有限公司於2026年7月3日簽署《終止協議》，各方就終止股權轉讓及控制權變更事宜協商達成一致意見。"
+    },
+    {
+      "id": "4969844",
+      "time": "2026-07-03 20:48:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾起科技接待多家機構調研 披露MRDIMM未來兩至三年迎來規模化上量】瀾起科技公告，2026年6月30日至7月2日，公司以現場會議結合電話會議形式開展特定物件調研活動，針對市場關注的MRDIMM及MRCD/MDB晶片業務，瀾起科技表示，MRDIMM是適配AI、高效能運算場景的標準化高頻寬伺服器記憶體模組，能夠有效解決AI推理帶來的記憶體頻寬瓶頸，行業當前處於第二代產品規模試用階段，預計未來兩至三年迎來行業規模化上量。"
+    },
+    {
+      "id": "4969843",
+      "time": "2026-07-03 20:48:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行預計2028年巴西SELIC利率將達到12.25%。"
+    },
+    {
+      "id": "mkt:019f2805-9c84-7aab-8c96-156c57b5268c",
+      "time": "2026-07-03 20:48:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BofA forecasts Brazil's SELIC rate will reach 12.25% in 2028."
+    },
+    {
+      "id": "4969842",
+      "time": "2026-07-03 20:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛洋科技：選舉葉利明為董事長 聘任多位高管】盛洋科技公告稱，2026年7月3日第六屆董事會第一次會議，選舉葉利明為董事長、代表公司執行事務的董事及法定代表人，任期三年；選舉葉利明等組成第六屆董事會專門委員會；聘任葉利明為總經理，申傑峰為董事會秘書，高璟琳為證券事務代表，安楓豐為內審部負責人，徐鳳娟、趙立峰、吳秋婷、申傑峰為副總經理，範月剛為財務總監，任期均至第六屆董事會屆滿。"
+    },
+    {
+      "id": "mkt:019f2804-8f93-7aab-8c96-0c85c548528a",
+      "time": "2026-07-03 20:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chile's central bank bought US$25 mln."
+    },
+    {
+      "id": "4969841",
+      "time": "2026-07-03 20:46:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入 2500 萬美元外匯。"
+    },
+    {
+      "id": "mkt:019f2804-6473-7aab-8c96-006715f72dc7",
+      "time": "2026-07-03 20:46:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Beijing signs institutional cooperation statement with UNIDO on industrial digitalization】On July 2, 2026, the Beijing Municipal Bureau of Economy and Information Technology and the United Nations Industrial Development Organization (UNIDO) signed a joint statement to institutionalize strategic cooperation on Beijing's industrial development, innovation and digitalization. The agreement creates a long-term framework focused on information exchange, experience sharing, industrial collaboration, capacity building and technology transfer, explicitly linking Beijing's industrial digitalization with UN sustainable industrial development efforts. Two priority tasks are establishing a Global Center of Excellence for Intelligent Manufacturing and Robotics and deepening participation in the Global Digital Economy Conference, including support for the Global Digital Economy Cities Alliance."
+    },
+    {
+      "id": "4969840",
+      "time": "2026-07-03 20:46:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美圖：執行長吳澤源增持1,600,000股公司股份】美圖(01357.HK)公告，公司董事會獲本公司創始人、董事長及執行長吳澤源先生告知，吳先生於二零二六年七月三日於香港聯合交易所有限公司公開市場以平均價每股4.023港元購入本公司股份1,600,000股。吳先生從未出售本公司的任何股份，並且自二零一八年五月十日起多次增持本公司的股份，體現其對本公司的持續信心。連同本次增持事項，吳先生已累計購買5,580,000股股份。緊隨本次增持事項後，吳先生於本公司的合計權益由593,196,670股股份增加至594,796,670股股份，佔本公司已發行股本的比例由約12.93%上升至約12.97%。"
+    },
+    {
+      "id": "4969839",
+      "time": "2026-07-03 20:46:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行業指數跌幅擴大，下跌4.2%。"
+    },
+    {
+      "id": "4969838",
+      "time": "2026-07-03 20:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市經濟和資訊化局與聯合國工業發展組織簽署聯合宣告】7月2日，在2026全球數字經濟大會主論壇現場，北京市經濟和資訊化局與工發組織正式簽署推動北京工業發展、創新及數字化轉型合作聯合宣告，這是雙方制度化戰略合作的開創性舉措，填補首都工業數字化領域對接聯合國可持續工業發展體系的合作空白。本次簽署的聯合宣告搭建起長期穩定的合作框架，明確以資訊互通、經驗共享、產業協作、能力建設、技術轉移為核心合作方向，重點推進兩大核心任務：一是落地全球智慧製造與機器人卓越中心；二是深度參與全球數字經濟大會、賦能全球數字經濟城市聯盟建設等工作。"
+    },
+    {
+      "id": "4969837",
+      "time": "2026-07-03 20:45:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織：未來數月極端天氣可能性加大】世界氣象組織3日發表新聞公報稱，厄爾尼諾狀態已在熱帶太平洋地區發展，預計未來幾個月將迅速加強，從而增加世界許多地區出現熱浪、乾旱、強降雨和其他極端天氣事件的可能性。（新華社）"
+    },
+    {
+      "id": "mkt:019f2802-deef-7aab-8c95-fb97a532b13a",
+      "time": "2026-07-03 20:45:04",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Baltic Dry Index hits two-week high as Capesize freight leads gains】Baltic Dry Index closed up 67 pts (2.5%) at 2,717 on Friday, its highest level since June 19; weekly gain 7.6%. Capesize index rose 179 pts (4.6%) to 4,100, up 12% on the week — the largest weekly increase since mid‑April; Capesize average daily earnings increased $1,618 to $33,678. Panamax index gained 8 pts (0.4%) to 2,203, rising just over 4% for the week and recording a second consecutive weekly rise; Panamax average daily earnings rose $67 to $19,825. Supramax index slipped 2 pts (0.1%) to 1,673."
+    },
+    {
+      "id": "mkt:019f2802-6376-7aab-8c95-f106f4f4a3a8",
+      "time": "2026-07-03 20:44:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Shanghai Stock Exchange issued a supervisory letter concerning a change of control at Wuxi Akeli Technology Co., Ltd."
+    },
+    {
+      "id": "4969836",
+      "time": "2026-07-03 20:44:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "上交所釋出關於無錫阿科力科技股份有限公司控制權變更事項的監管工作函。"
+    },
+    {
+      "id": "4969835",
+      "time": "2026-07-03 20:44:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：俄聯邦安全會議副主席梅德韋傑夫出席伊斯蘭革命已故領袖的葬禮儀式。"
+    },
+    {
+      "id": "4969834",
+      "time": "2026-07-03 20:42:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【何小鵬：期望L03是小鵬全球銷量最大的一款車】何小鵬宣佈，小鵬MONA L03 7月16日將在德國慕尼黑舉行全球上市釋出會，2026年將在全球64個國家開啟銷售。"
+    },
+    {
+      "id": "4969833",
+      "time": "2026-07-03 20:41:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國啟用打擊電信詐騙及人口販運資訊交換系統】泰國警方3日表示，其自主開發的“詐騙與人口販運資訊交換與聯動資料庫”系統已正式啟用。該系統旨在加強打擊電信詐騙與人口販運的情報交換能力，進一步提升國際執法協調效率。（新華社）"
+    },
+    {
+      "id": "4969832",
+      "time": "2026-07-03 20:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：剛果（金）外交部長悼念伊斯蘭革命已故領袖。"
+    },
+    {
+      "id": "4969831",
+      "time": "2026-07-03 20:40:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統出席已故最高領袖告別儀式】今天（7月3日），伊朗已故最高領袖哈梅內伊遺體告別儀式在伊朗首都德黑蘭舉行。伊朗總統佩澤希齊揚、最高領袖顧問穆赫辛·雷扎伊、司法總監埃傑伊、議長卡利巴夫、外長阿拉格齊等人出席。根據伊朗官方此前公佈的日程安排，哈梅內伊遺體告別儀式之後，還將在德黑蘭、庫姆、馬什哈德以及伊拉克什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式。送葬儀式完成後，遺體將安葬於馬什哈德的伊瑪目禮薩聖陵（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f27fe-4ab5-7aab-8c95-ed4287aa444b",
+      "time": "2026-07-03 20:40:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkish banking index fell 4%, hitting its lowest level since June 12."
+    },
+    {
+      "id": "4969830",
+      "time": "2026-07-03 20:40:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其銀行股指下跌 4%，創 6 月 12 日以來新低。"
+    },
+    {
+      "id": "mkt:019f27fd-b62e-7aab-8c95-e39d0dbf128b",
+      "time": "2026-07-03 20:39:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian Foreign Ministry condemned the terrorist bombing in Damascus and reaffirmed support for Syria's security and stability."
+    },
+    {
+      "id": "4969829",
+      "time": "2026-07-03 20:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦外交部譴責大馬士革發生的恐怖爆炸襲擊，並申明支援敘利亞的安全與穩定。"
+    },
+    {
+      "id": "4969828",
+      "time": "2026-07-03 20:38:07",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【疲軟就業資料繼續拖累美元】在週四公佈的不及預期的美國非農就業資料之後，美元依然走弱。該資料降低了市場對美聯儲即將加息的預期。然而，倫敦證券交易所集團的資料仍顯示，7月份加息的機率為20%，9月份加息的機率為60%。三菱日聯銀行的Derek Halpenny在一份報告中表示，利率曲線仍然定價過高，原因似乎是市場過於看重美聯儲主席凱文·沃什在6月會議上關於維持價格穩定的言論。他表示，美聯儲可能會維持利率不變，可能一直持續到今年年底。DXY美元指數下跌0.1%，至100.779，週四曾觸及100.558的兩週低點。"
+    },
+    {
+      "id": "4969827",
+      "time": "2026-07-03 20:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈爾科夫市基輔區一處加油站遭無人機襲擊。"
+    },
+    {
+      "id": "4969826",
+      "time": "2026-07-03 20:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：德國將在四年內把國防預算翻一番。"
+    },
+    {
+      "id": "4969825",
+      "time": "2026-07-03 20:35:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：捷克億萬富翁斯特納德考慮收購倍耐力 14% 股份。"
+    },
+    {
+      "id": "4969824",
+      "time": "2026-07-03 20:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "7 月 3 日全球基金淨買入印度股票 136 億印度盧比。"
+    },
+    {
+      "id": "4969823",
+      "time": "2026-07-03 20:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "得克薩斯州就 StubHub 平臺世界盃門票退票糾紛展開調查。"
+    },
+    {
+      "id": "mkt:019f27f8-ee84-7aab-8c95-de6e146d42b4",
+      "time": "2026-07-03 20:34:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSRC and MAS hold 10th China-Singapore securities and futures regulatory roundtable】On June 29, 2026 in Singapore, the China Securities Regulatory Commission (CSRC) and the Monetary Authority of Singapore (MAS) held the 10th China‑Singapore securities and futures regulatory roundtable. CSRC Vice Chairman Liu Haoling and MAS Deputy Managing Director Ho Hengxin delivered opening remarks. Officials reviewed pragmatic cooperation to date—including China‑Singapore index collaboration, deepening China‑Singapore ETF connectivity, and strengthened securities regulatory cooperation—and exchanged on market reform developments, capital‑market operations and enforcement under frontier technologies, and cross‑border securities and futures business and supervision. MAS Assistant Managing Director Lim Tuanli, CSRC and MAS department heads and about 40 industry and exchange representatives attended in person and online."
+    },
+    {
+      "id": "4969822",
+      "time": "2026-07-03 20:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國證監會與新加坡金管局舉行第十屆中新證券期貨監管圓桌會】2026年6月29日，中國證監會與新加坡金管局在新加坡成功舉行第十屆中新證券期貨監管圓桌會。中國證監會副主席劉浩凌和新加坡金管局副行長何恆心出席會議並分別致辭。雙方回顧近年來兩國資本市場合作取得的務實成果，包括加強中新指數合作、深化中新ETF互通、加強證券監管合作等。雙方就各自市場改革發展最新動態、前沿技術背景下的資本市場執行與監管執法、證券期貨行業跨境展業及監管等議題進行廣泛深入的交流。新加坡金管局助理行長林端利，中國證監會、新加坡金管局相關部門負責人，雙方證券交易所等行業代表40餘人以現場和線上方式參會。"
+    },
+    {
+      "id": "4969821",
+      "time": "2026-07-03 20:33:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息預期緩和，金價有望創下 5 月以來首週上漲行情】隨著交易員下調美聯儲加息預期，黃金有望錄得 5 月以來首次單週上漲。美國就業資料疲軟、能源價格走低，令投資者縮減對貨幣政策收緊的押注，而收緊政策通常會對無息資產黃金形成利空。道明證券全球大宗商品策略主管巴特・梅萊克表示，能源價格回落疊加就業增長放緩，預示未來數月通脹壓力或將有所緩和。"
+    },
+    {
+      "id": "4969820",
+      "time": "2026-07-03 20:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：奇瑞汽車將在南非新工廠生產Jaecoo J5車型。"
+    },
+    {
+      "id": "mkt:019f27f7-f5f2-7aab-8c95-d5147e13bc32",
+      "time": "2026-07-03 20:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chery Automobile will produce the Jaecoo J5 at a new factory in South Africa."
+    },
     {
       "id": "mkt:019f27f7-2742-7aab-8c95-cbf4a3157999",
       "time": "2026-07-03 20:32:16",
