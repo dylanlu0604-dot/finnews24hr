@@ -1,7 +1,26 @@
 {
   "date": "2026-07-04",
-  "count": 211,
+  "count": 213,
   "items": [
+    {
+      "id": "te:markets:564229",
+      "time": "2026-07-04 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Increases by 0.99% — Top currency gainers are Brazilian Real (0.99%) and South Korean Won (0.73%). Biggest loser is Japanese Yen (-0.16%). Meanwhile, Euro, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "4970146",
+      "time": "2026-07-04 06:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普登上空軍一號前往南達科他州，當地時間週五他將在拉什莫爾山發表獨立日前夜講話。"
+    },
     {
       "id": "4970144",
       "time": "2026-07-04 05:58:53",

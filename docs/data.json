@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-04 06:13:00",
+  "updated": "2026-07-04 06:16:52",
   "count": 13322,
   "items": [
+    {
+      "id": "te:markets:564229",
+      "time": "2026-07-04 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Increases by 0.99% — Top currency gainers are Brazilian Real (0.99%) and South Korean Won (0.73%). Biggest loser is Japanese Yen (-0.16%). Meanwhile, Euro, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "4970146",
+      "time": "2026-07-04 06:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普登上空軍一號前往南達科他州，當地時間週五他將在拉什莫爾山發表獨立日前夜講話。"
+    },
     {
       "id": "4970144",
       "time": "2026-07-04 05:58:53",
@@ -122612,25 +122631,6 @@
         "國際"
       ],
       "text": "歐洲地中海地震中心（EMSC）訊息：委內瑞拉阿拉瓜州近海發生 5.4 級地震。"
-    },
-    {
-      "id": "4958066",
-      "time": "2026-06-27 06:15:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "據中國駐委內瑞拉大使館訊息，截至當地時間26日17時，據不完全統計，已確認有7名中國公民在“6·24地震”中遇難。（新華社）"
-    },
-    {
-      "id": "te:markets:562331",
-      "time": "2026-06-27 06:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Depreciates by 0.69% — Top currency losers are Norwegian Krone (-0.69%), Australian Dollar (-0.31%), Turkish Lira (-0.27%) and Dollar Index (-0.06%). Gains are led by South Korean Won (0.67%), Brazilian Real (0.43%), Indian Rupee (0.33%), Euro (0.12%) and British Pound (0.07%). Meanwhile Japanese Yen was little changed."
     }
   ]
 }
