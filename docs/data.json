@@ -1,7 +1,132 @@
 {
-  "updated": "2026-07-03 23:37:23",
-  "count": 13516,
+  "updated": "2026-07-03 23:41:23",
+  "count": 13521,
   "items": [
+    {
+      "id": "mkt:019f28a3-aa35-7aab-8c99-159d824c16cd",
+      "time": "2026-07-03 23:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President Petro said Trump was previously unaware he had been placed on the US Treasury’s Office of Foreign Assets Control (OFAC) sanctions list; Trump said he would take action in response."
+    },
+    {
+      "id": "mkt:019f28a3-757c-7aab-8c99-0f6e44f18f5f",
+      "time": "2026-07-03 23:40:28",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Friday, July 3: Germany's DAX 30 +255.17 pts (+1.00%) at 25,801.57; UK FTSE 100 +24.78 pts (+0.23%) at 10,677.65; France's CAC 40 +33.21 pts (+0.39%) at 8,508.07; STOXX Europe 50 +56.09 pts (+0.88%) at 6,416.56; Spain's IBEX 35 +173.97 pts (+0.88%) at 19,845.77; Italy's FTSE MIB +389.32 pts (+0.74%) at 52,817.50."
+    },
+    {
+      "id": "mkt:019f28a3-47df-7aab-8c99-055c45b5977b",
+      "time": "2026-07-03 23:40:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "LME has approved Adani Copper as a deliverable brand for LME Grade A copper contracts, effective immediately. Warehouse warrants for the brand may be issued only from July 10, 2026."
+    },
+    {
+      "id": "4969991",
+      "time": "2026-07-03 23:40:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞總統佩特羅：特朗普此前並不知曉我被列入美國海外資產控制辦公室（OFAC）制裁清單，他會就此採取行動。"
+    },
+    {
+      "id": "4969990",
+      "time": "2026-07-03 23:39:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：該品牌雖即刻完成註冊，但倉單自 2026 年 7 月 10 日起方可開具生效。"
+    },
+    {
+      "id": "mkt:019f28a2-9c44-7aab-8c98-fe92fbc6831f",
+      "time": "2026-07-03 23:39:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MAKHLOUF said the ECB is absolutely determined to achieve its 2% inflation target."
+    },
+    {
+      "id": "mkt:019f28a2-7c22-7aab-8c98-f546a6762af8",
+      "time": "2026-07-03 23:39:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME has approved Adani Copper as a registered deliverable brand for its copper contracts."
+    },
+    {
+      "id": "4969989",
+      "time": "2026-07-03 23:39:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）：LME 已批准阿達尼銅品牌註冊，即刻起可用於 LME A 級銅合約交割。"
+    },
+    {
+      "id": "mkt:019f28a2-44ad-7aab-8c98-eb3f410e5203",
+      "time": "2026-07-03 23:39:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou Nansha starts \"trade-in old for new\" housing subsidy applications July 15; max 20,000 yuan】Guangzhou’s Nansha district opens applications for a trade-in old-for-new commodity-housing subsidy from July 15, 2026 to July 15, 2027. Total subsidy pool is 30 mln yuan, available until exhausted. For newly built commercial housing with total purchase price ≤2,000,000 yuan the subsidy equals 1% of the purchase price (rounded to the yuan); for purchases ≥2,000,000 yuan the subsidy is a flat 20,000 yuan. Each resident’s sale of one second‑hand home may be matched to one new home for a subsidy claim, and each new home may receive the subsidy only once."
+    },
+    {
+      "id": "4969988",
+      "time": "2026-07-03 23:38:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）：交易所已批准阿達尼銅品牌註冊，可用於 LME 銅合約交割。"
+    },
+    {
+      "id": "mkt:019f28a1-4884-7aab-8c98-e03dbc8dff6a",
+      "time": "2026-07-03 23:38:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chile's central bank sold US$75 million of FX forwards at an average rate of 918.67 Chilean pesos per US$."
+    },
+    {
+      "id": "mkt:019f28a1-3760-7aab-8c98-d987ed233533",
+      "time": "2026-07-03 23:38:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Colombian President Petro said he held a cordial conversation with U.S. President Trump."
+    },
+    {
+      "id": "te:markets:564205",
+      "time": "2026-07-03 23:36:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Close at Records — European stocks rose to new records on Friday amid an improving macroeconomic backdrop for equities and a bounce for companies with exposure to the speculative AI trade. The Euro STOXX 50 closed 0.9% higher at 6,417 and the STOXX Europe 600 rose 0.7% to 653. A session of thinner trading due to the holiday in the US put the spotlight on the tech sector, trimming its losses from a volatile week as investors reconsidered risks that chip producers and AI hyperscalers are overbought. ASML rose 3.7%, tracking Asian counterparts, and Infineon gained 1.2%. Meanwhile, companies with participation in data center operation gained with Siemens adding 2.5%and Schneider gaining 1.5%, while utilities Iberdrola and Enel rose 1.5%. While sovereign yields remained higher in the long end, lower yields for shorter maturities supported banks with BBVA and Deutsche Bank adding 1%. Gains consolidated as a soft jobs report in the US and inflation report in the Eurozone trimmed rate cut bets by central banks."
+    },
     {
       "id": "mkt:019f289d-317d-7aab-8c98-d41b203c9a22",
       "time": "2026-07-03 23:33:38",
@@ -124411,81 +124536,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4110美元/盎司，日內漲1.55%。"
-    },
-    {
-      "id": "4957825",
-      "time": "2026-06-26 23:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，俄羅斯總統普京與白俄羅斯總統盧卡申科當前正在磋商俄白聯盟國家相關議程、經貿合作以及地區安全議題。"
-    },
-    {
-      "id": "mkt:019f0496-6f35-7dd8-b13a-8b403c92bd23",
-      "time": "2026-06-26 23:39:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York COMEX silver futures are up 2.00% intraday at $59.53/oz."
-    },
-    {
-      "id": "4957824",
-      "time": "2026-06-26 23:39:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報59.98美元/盎司。"
-    },
-    {
-      "id": "4957823",
-      "time": "2026-06-26 23:38:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：美國多名參議員致函美國商品期貨交易委員會，要求調查 Polymarket 平臺。"
-    },
-    {
-      "id": "mkt:019f0494-8074-7dd8-b13a-86c28cab39e6",
-      "time": "2026-06-26 23:37:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LULA has asked Brazil's defense minister to travel to Venezuela to discuss assistance arrangements."
-    },
-    {
-      "id": "4957822",
-      "time": "2026-06-26 23:37:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普前助理博爾頓承認非法保留國家安全資訊】據美國方面訊息，當地時間6月26日，曾在特朗普首個總統任期內任總統國家安全事務助理的約翰·博爾頓在聯邦法院承認一項非法保留國家安全資訊的罪名。博爾頓當天在馬里蘭州格林貝爾特聯邦法院出庭。檢方表示，他最高可面臨5年監禁。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0494-54c6-7dd8-b13a-7b43c1abfada",
-      "time": "2026-06-26 23:37:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities closed lower on June 26: Germany's DAX down 328.90 points (-1.32%) at 24,671.64; FTSE 100 down 19.23 points (-0.18%) at 10,510.66; France's CAC 40 down 46.74 points (-0.55%) at 8,384.87; Euro Stoxx 50 down 45.53 points (-0.73%) at 6,222.00; Spain's IBEX 35 down 75.13 points (-0.39%) at 19,438.47; Italy's FTSE MIB down 480.41 points (-0.93%) at 51,302.50."
-    },
-    {
-      "id": "mkt:019f0494-2206-7dd8-b13a-7360164eeb71",
-      "time": "2026-06-26 23:37:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "INTERTANKO said Iran's Hormuz route was \"worrying.\""
     }
   ]
 }
