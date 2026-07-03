@@ -1,7 +1,179 @@
 {
-  "updated": "2026-07-03 09:42:31",
-  "count": 13914,
+  "updated": "2026-07-03 09:46:23",
+  "count": 13915,
   "items": [
+    {
+      "id": "mkt:019f25a7-5460-7aab-8c88-a4581f2e9c0e",
+      "time": "2026-07-03 09:45:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index bounced off session lows and turned positive after earlier falling nearly 2%. Components Guobo Electronics and Jinghe Integration rose over 6%."
+    },
+    {
+      "id": "4968648",
+      "time": "2026-07-03 09:45:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國6月RatingDog綜合PMI 53.6，前值54。"
+    },
+    {
+      "id": "mkt:019f25a7-03bc-7aab-8c88-9b9b4fa92b62",
+      "time": "2026-07-03 09:45:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China June RatingDog composite PMI 53.6, down from 54.0 previously."
+    },
+    {
+      "id": "mkt:019f25a6-e382-7aab-8c88-92c9354ef08d",
+      "time": "2026-07-03 09:45:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Composite PMI (Jun) | actual 53.6 | previous 54"
+    },
+    {
+      "id": "mkt:019f25a6-ac10-7aab-8c88-8b09e55d0967",
+      "time": "2026-07-03 09:45:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "China's June RatingDog services PMI stood at 54.1, down from 54.4 previously."
+    },
+    {
+      "id": "4968647",
+      "time": "2026-07-03 09:45:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國6月RatingDog服務業PMI 54.1，前值54.4。"
+    },
+    {
+      "id": "mkt:019f25a6-8e37-7aab-8c88-83738a9ab331",
+      "time": "2026-07-03 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Services PMI (Jun) | actual 54.1 | previous 54.4"
+    },
+    {
+      "id": "4968646",
+      "time": "2026-07-03 09:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50探底回升翻紅】科創50探底回升翻紅，此前一度跌近2%。成分股中，國博電子、晶合整合漲超6%。"
+    },
+    {
+      "id": "4968645",
+      "time": "2026-07-03 09:44:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念震盪回升 天山電子20cm漲停】早盤儲存晶片概念震盪回升，天山電子20cm漲停，杭州柯林、西測測試、北京君正、普冉股份、德明利等衝高。"
+    },
+    {
+      "id": "4968644",
+      "time": "2026-07-03 09:44:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾納生物任命王鵬為營運長】7月3日，諾納生物宣佈任命王鵬為營運長（COO）。王鵬將常駐中國蘇州，直接向諾納生物執行長洪滌彙報。加入諾納生物之前，他曾擔任冠科生物（Crown Bioscience）生物藥及體外檢測亞太區負責人。在此之前，他曾擔任藥明康德（WuXi AppTec）抗體藥團隊負責人，並曾在羅氏（Roche）擔任資深科學家。"
+    },
+    {
+      "id": "4968643",
+      "time": "2026-07-03 09:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首艘數智化改造海事公務船艇投入試用】從交通運輸部海事局瞭解到，今天（7月3日），我國首艘數智化改造的海事公務船艇“海巡14102”在深圳投入試用。“海巡14102”是一艘12米級高速艇，最高航速36節，具備較強的抗傾覆能力，能夠快速接近水上目標，日常承擔複雜水域快速響應和應急救援等高強度任務。"
+    },
+    {
+      "id": "4968642",
+      "time": "2026-07-03 09:42:53",
+      "tags": [
+        "焦點"
+      ],
+      "text": "恒生科技指數盤初漲勢擴大至2％，恒指現漲1.6％，智譜漲超8％領漲成分股。"
+    },
+    {
+      "id": "4968641",
+      "time": "2026-07-03 09:42:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永鼎股份等成立光通訊裝置公司】企查查APP顯示，近日，安徽鼎嶽光通訊裝置有限公司成立，經營範圍包含通訊裝置製造；光電子器件製造；通訊裝置銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由永鼎股份(600105)等共同持股。"
+    },
+    {
+      "id": "4968640",
+      "time": "2026-07-03 09:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股走低 迅策跌近13%】截至發稿，迅策(03317.HK)跌12.76%，五一視界(06651.HK)跌6.92%，劍橋科技(06166.HK)跌3.58%。"
+    },
+    {
+      "id": "4968638",
+      "time": "2026-07-03 09:42:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股氟化工板塊短線走低】多氟多跌9.76%"
+    },
+    {
+      "id": "4968637",
+      "time": "2026-07-03 09:42:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【氯鹼板塊短線走低】氯鹼板塊短線走低，濱化股份跌超7%，新金路、氯鹼化工、航錦科技、華塑股份等跟跌。"
+    },
+    {
+      "id": "4968636",
+      "time": "2026-07-03 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股航天裝備Ⅱ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。"
+    },
+    {
+      "id": "4968635",
+      "time": "2026-07-03 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股航天系板塊異動拉昇】航天發展觸及漲停，中國衛星、航天電器、航天電子、航天動力、航天智裝、中國衛通跟漲。"
+    },
+    {
+      "id": "4968634",
+      "time": "2026-07-03 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股航天裝備Ⅲ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。"
+    },
     {
       "id": "4968633",
       "time": "2026-07-03 09:41:52",
@@ -128077,164 +128249,6 @@
         "Hang Seng Index"
       ],
       "text": "FTSE China A50 index futures fell more than 2%."
-    },
-    {
-      "id": "mkt:019f019b-4c54-7dd8-b129-738e31b24e10",
-      "time": "2026-06-26 09:46:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【N Huike surges nearly 400%, triggers second trading halt】N Huike surged nearly 400%, triggering a second intraday trading halt. Shares were at 50.56 yuan, implying a market capitalization of 368.9 bln yuan. The company’s core business is R&D, manufacturing and sales of semiconductor display panels and smart display terminals."
-    },
-    {
-      "id": "4956170",
-      "time": "2026-06-26 09:46:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1181.10美元/盎司。"
-    },
-    {
-      "id": "4956169",
-      "time": "2026-06-26 09:46:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國ITC釋出對光伏幹線匯流排電纜部件及其元件的337部分終裁】美國國際貿易委員會（ITC）釋出公告稱，對特定光伏幹線匯流排電纜部件及其元件作出337部分終裁：認定經由列名被告美國Voltage, LLC, Chapel Hill, N.C.、中國浙江Ningbo Voltage Smart Production Co., Ningbo, China寧波小伏科技有限公司對美出口、在美進口和在美銷售的涉案產品存在侵權美國註冊專利號12,015,375第1、8、12、20項權利要求和美國註冊專利號12,015,376第1、10、12項權利要求，救濟措施為對侵權產品釋出有限排除令，對總統審查期間出口到美國的侵權產品徵收100%保證金，本案調查終止。"
-    },
-    {
-      "id": "4956168",
-      "time": "2026-06-26 09:45:27",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "新股N惠科漲近400%，觸發二次臨停。"
-    },
-    {
-      "id": "4956167",
-      "time": "2026-06-26 09:45:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念逆勢拉昇 旗濱集團、萊寶高科雙雙漲停】早盤玻璃基板概念逆勢拉昇，旗濱集團、萊寶高科漲停，凱盛科技、力諾藥包、長信科技、美迪凱等跟漲。"
-    },
-    {
-      "id": "te:markets:562043",
-      "time": "2026-06-26 09:45:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Pressured by Stronger US Dollar — The Australian dollar traded below $0.690, near a three-month low and headed for a heavy weekly loss as the greenback remained broadly firm on expectations of US interest rate hikes. The US dollar has rallied since the Federal Reserve adopted a surprisingly hawkish stance last week, prompting markets to price in a 75% chance of a rate hike as early as September. Meanwhile, expectations for additional tightening by the Reserve Bank of Australia have eased, despite a slight increase in underlying price pressures in May. Investors expect second-quarter inflation to fall short of the central bank’s 8% forecast, reinforcing bets that the RBA has already reached the peak of its tightening cycle. Markets priced in only about a 50% chance of another hike in the 4.35% cash rate, while some have started pricing in rate cuts in the second half of 2027. The Aussie is also on track for a second straight monthly loss, weighed down by recent Middle East tensions and a selloff in tech-related stocks."
-    },
-    {
-      "id": "4956166",
-      "time": "2026-06-26 09:45:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯信檢測回應網傳甲醯胺相關檢測報告：正式報告並未發出，屬於無效報告】6月26日，聯信檢測（江蘇）有限公司就近期網傳紙尿褲檢出甲醯胺相關檢測內容釋出宣告：線上流出的報告均為截圖內容，正式報告應加蓋騎縫章，且正式報告並未發出，屬於無效報告。實驗室仍在檢測過程中，任何報道引用內容均為無效內容。請各界人員切勿輕信、轉發不實網傳報告，避免誤導消費者。針對惡意造謠、散播不實資訊損害公司聲譽的行為，將依法追責。"
-    },
-    {
-      "id": "4956165",
-      "time": "2026-06-26 09:44:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下跌0.5%，富時指數期貨下滑0.4%。"
-    },
-    {
-      "id": "4956164",
-      "time": "2026-06-26 09:44:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊震盪走高，節能風電等股漲停】電力板塊震盪走高，節能風電、龍源電力、金房能源、露笑科技漲停，大連熱電、金開新能、協鑫能科紛紛拉昇。"
-    },
-    {
-      "id": "4956163",
-      "time": "2026-06-26 09:44:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉衛生部長卡洛斯·阿爾瓦拉多25日接受國家電視臺電話採訪時說，24日強震後，該國醫療機構登記死亡人數已達235人，另有4300人受傷。（新華社）"
-    },
-    {
-      "id": "4956162",
-      "time": "2026-06-26 09:44:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "N惠科復牌後漲超347%，成交額超23億元。"
-    },
-    {
-      "id": "mkt:019f0199-1ba4-7dd8-b129-682194b17458",
-      "time": "2026-06-26 09:43:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Huike shares jumped over 347% on resumption of trading; turnover exceeded 2.3 billion yuan."
-    },
-    {
-      "id": "4956161",
-      "time": "2026-06-26 09:43:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500股指期貨回吐漲幅，下跌0.2%；納斯達克股指期貨下跌0.7%。"
-    },
-    {
-      "id": "4956160",
-      "time": "2026-06-26 09:43:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光伏裝置板塊震盪拉昇，TCL中環觸及漲停，華民股份、金剛光伏、雙良節能、隆基綠能、易成新能均漲超5%。"
-    },
-    {
-      "id": "4956159",
-      "time": "2026-06-26 09:43:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "蔚來汽車：6月26日，蔚來ES9完成第10,000臺新車交付。"
-    },
-    {
-      "id": "mkt:019f0198-5ae1-7dd8-b129-61dc39ac2316",
-      "time": "2026-06-26 09:43:09",
-      "tags": [
-        "MKT News",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "NIO completed delivery of the 10,000th ES9 vehicle on June 26, 2026."
-    },
-    {
-      "id": "4956158",
-      "time": "2026-06-26 09:42:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧股走低 深演智慧跌近8%】截至發稿，深演智慧(02723.HK)跌7.72%，群核科技(00068.HK)跌6.58%，天數智芯(09903.HK)跌5.99%。"
-    },
-    {
-      "id": "4956157",
-      "time": "2026-06-26 09:42:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念反覆走強 中材科技13天7板續創歷史新高】PCB概念反覆走強，CCL產業鏈領漲，玻纖龍頭中材科技13天7板，續創歷史新高，超聲電子、賢豐控股漲停，國際復材、中國巨石、廣合科技、宏和科技漲幅靠前。"
     }
   ]
 }
