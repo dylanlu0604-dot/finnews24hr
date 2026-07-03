@@ -1,7 +1,235 @@
 {
-  "updated": "2026-07-03 09:30:07",
-  "count": 13919,
+  "updated": "2026-07-03 09:34:45",
+  "count": 13912,
   "items": [
+    {
+      "id": "4968609",
+      "time": "2026-07-03 09:33:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫光電與現象創新簽署太空光伏聯合研發合作框架協議】近日，協鑫光電與現象創新（深圳）科技有限公司正式簽署太空光伏聯合研發合作框架協議。雙方將圍繞航天級鈣鈦礦光伏元件研發、樣品製備、空間環境驗證及市場推廣展開合作，推動鈣鈦礦光伏技術在低軌衛星、空間站等商業航天場景中的應用落地。此次合作將結合協鑫光電在鈣鈦礦光伏研發、GW級規模化製造及元件工藝方面的優勢，以及現象創新在PULSE閉環材料研發平臺的技術積累，共同打造輕量化、高適配、高可靠的航天級鈣鈦礦光伏產品。"
+    },
+    {
+      "id": "4968608",
+      "time": "2026-07-03 09:32:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交換機概念盤初走強 星網銳捷4天3板】早盤交換機概念走強，星網銳捷走出4天3板，銳捷網路20cm4天2板，盛科通訊、紫光股份、菲菱科思、共進股份跟漲。"
+    },
+    {
+      "id": "4968607",
+      "time": "2026-07-03 09:32:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摺疊屏概念表現活躍 福蓉科技直線漲停】摺疊屏概念表現活躍，福蓉科技直線漲停，宜安科技、安潔科技、精研科技、聯得裝備跟漲。"
+    },
+    {
+      "id": "4968606",
+      "time": "2026-07-03 09:32:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤初漲逾1%。"
+    },
+    {
+      "id": "mkt:019f259a-e05c-7aab-8c88-2f2b77971870",
+      "time": "2026-07-03 09:32:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures rose more than 1% in early trade."
+    },
+    {
+      "id": "4968605",
+      "time": "2026-07-03 09:32:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報62.90美元/盎司。"
+    },
+    {
+      "id": "4968604",
+      "time": "2026-07-03 09:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅德里格斯：委內瑞拉地震死亡人數已達2595人。"
+    },
+    {
+      "id": "mkt:019f259a-c44e-7aab-8c88-2762ee2a09cd",
+      "time": "2026-07-03 09:32:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "01211.HK",
+        "Impact bullish",
+        "09863.HK",
+        "02238.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks opened higher; BYD Company (01211.HK) rose over 5%, Leapmotor (09863.HK) gained nearly 3%, BAIC (01958.HK) and GAC Group (02238.HK) also advanced."
+    },
+    {
+      "id": "4968603",
+      "time": "2026-07-03 09:32:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.03%，成分股中，華海清科跌5.69%，中科飛測跌4.00%，盛美上海跌3.38%，佰維儲存跌2.91%。"
+    },
+    {
+      "id": "4968602",
+      "time": "2026-07-03 09:31:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2671.50點。"
+    },
+    {
+      "id": "mkt:019f259a-3b25-7aab-8c88-1e042384907c",
+      "time": "2026-07-03 09:31:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "01024.HK",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index rose over 1% in early trade, led by Kuaishou (01024.HK)."
+    },
+    {
+      "id": "4968601",
+      "time": "2026-07-03 09:31:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人在上海成立智慧裝置新公司】企查查APP顯示，近日，智元創新（上海）智慧裝置有限公司成立，經營範圍包含智慧機器人的研發；服務消費機器人銷售；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由智元創新（上海）科技股份有限公司（簡稱“智元機器人”）全資持股。"
+    },
+    {
+      "id": "mkt:019f2599-f736-7aab-8c88-10e22f11f1ad",
+      "time": "2026-07-03 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Stock index futures open higher】CSI 300 index futures (IF) most-active contract rose 0.42%; SSE 50 index futures (IH) most-active contract rose 0.47%; CSI 500 index futures (IC) most-active contract rose 0.10%; CSI 1000 index futures (IM) most-active contract rose 0.05%."
+    },
+    {
+      "id": "mkt:019f2599-e6b8-7aab-8c88-0fa92c051396",
+      "time": "2026-07-03 09:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning open】At the morning open, China government bond futures' most-active 2-year contract (TS) and 5-year contract (TF) were unchanged; the 10-year contract (T) fell 0.01% and the 30-year contract (TL) fell 0.07%."
+    },
+    {
+      "id": "4968600",
+      "time": "2026-07-03 09:31:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23316.031點；恒生科技指數現漲1.015%。"
+    },
+    {
+      "id": "4968599",
+      "time": "2026-07-03 09:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星河動力智神星一號可重複使用運載火箭將於近期首飛】7月3日，星河動力航天宣佈，其自主研製的蒼穹-50可重複使用液氧/煤油發動機於7月1日在牛頭山動力系統試驗中心完成第163次常態化熱試車。至此，星河動力已經累計完成57臺次蒼穹-50發動機熱試車，累計試車時長達到20088秒，其中單機最長累計試車2757秒。星河動力介紹，蒼穹-50設計重複使用次數不低於25次。截至目前，該型號已完成40餘臺發動機裝配交付。以蒼穹-50為主動力系統的智神星一號中大型可重複使用液體運載火箭，將於近期迎來首飛，並在後續逐步開啟回收驗證。"
+    },
+    {
+      "id": "4968598",
+      "time": "2026-07-03 09:30:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA旗下新能源部門JERA NEX收購了住友商事所持比利時西北二號海上風電場的30%股權，獲得該專案的全部所有權。"
+    },
+    {
+      "id": "4968597",
+      "time": "2026-07-03 09:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23300.818點；恒生科技指數現漲0.926%。"
+    },
+    {
+      "id": "4968596",
+      "time": "2026-07-03 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.06%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4968595",
+      "time": "2026-07-03 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.17%， 滬深300指數期貨連續漲0.17%， 中證500指數期貨連續漲0.06%， 上證50指數期貨連續漲0.14%。"
+    },
+    {
+      "id": "4968594",
+      "time": "2026-07-03 09:29:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念盤初活躍 首開股份一字漲停】人形機器人概念盤初活躍，首開股份一字漲停，雷賽智慧2連板，景興紙業、中大力德、日盈電子、臥龍電驅跟漲。"
+    },
+    {
+      "id": "4968593",
+      "time": "2026-07-03 09:29:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.12%。三江轉債、藍曉轉02、大中轉債、金25轉債、金誠轉債漲幅居前，分別漲30.00%、5.74%、5.37%、4.00%、3.43%。宏微轉債、微導轉債、華辰轉債、三房轉債、京源轉債跌幅居前，分別跌2.71%、2.07%、1.77%、1.59%、1.54%。"
+    },
+    {
+      "id": "4968592",
+      "time": "2026-07-03 09:29:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“三江轉債”盤中臨時停牌】深交所公告，“三江轉債”（123273）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "4968591",
+      "time": "2026-07-03 09:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年機構間REITs發行規模達330億元，國金資管發行規模居首】資料顯示，2026年上半年，交易所市場累計發行24單產品（含1單擴募發行產品），規模合計約330億元，規模較去年同期增長25倍。其中，國金資管在今年上半年的機構間REITs累計發行規模達93.66億元，位列全市場計劃管理人第一，佔全市場總髮行規模近三成。"
+    },
     {
       "id": "mkt:019f2598-7cd7-7aab-8c88-03e52ead6d34",
       "time": "2026-07-03 09:29:38",
@@ -127978,311 +128206,6 @@
         "國際"
       ],
       "text": "韓國綜合指數跌幅擴大；最新跌3.5%，報8621.59點。"
-    },
-    {
-      "id": "4956133",
-      "time": "2026-06-26 09:34:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4857.00點。"
-    },
-    {
-      "id": "4956132",
-      "time": "2026-06-26 09:34:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4956131",
-      "time": "2026-06-26 09:34:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧省沈撫改革創新示範區黨工委委員範靜國接受審查調查】中央紀委國家監委網站6月26日通報，據遼寧省紀委監委訊息：遼寧省沈撫改革創新示範區黨工委委員、管委會副主任範靜國涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019f0190-46e9-7dd8-b129-15fa5f9db2f8",
-      "time": "2026-06-26 09:34:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "New listing N Huike surged over 300% in early trade to 41.08 yuan, triggering a temporary trading suspension."
-    },
-    {
-      "id": "4956130",
-      "time": "2026-06-26 09:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新股N惠科盤初漲超300%觸發臨停】新股N惠科盤初漲超300%觸發臨停，報41.08元。"
-    },
-    {
-      "id": "mkt:019f0190-0136-7dd8-b129-0de0a3468ddd",
-      "time": "2026-06-26 09:34:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "09988.HK",
-        "Impact bearish",
-        "02076.HK",
-        "09961.HK"
-      ],
-      "text": "Hong Kong tech stocks opened lower: BOSS Zhipin (02076.HK) and Alibaba (09988.HK) down over 4%, Trip.com Group-S (09961.HK) off more than 3%, Xiaomi (01810.HK) and Bilibili (09626.HK) down about 3%."
-    },
-    {
-      "id": "4956129",
-      "time": "2026-06-26 09:34:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南：建立可持續的城市建設運營投融資體系】近日，中共河南省委辦公廳、河南省人民政府辦公廳印發《關於推動城市高質量發展的實施方案》。方案提出，建立可持續的城市建設運營投融資體系。統籌利用財政資金、社會資本和金融等資金渠道。積極爭取新型政策性金融工具等資金支援。在債務風險可控前提下，支援符合條件的城市更新專案申請地方政府專項債券，加大對城市更新相關領域專案的支援力度。創新財政金融政策工具，吸引和規範社會資金參與，穩慎推進公用事業價格改革。鼓勵金融機構在依法合規、風險可控、商業可持續前提下，提供支援城市更新的多樣化、長週期金融產品和金融服務。按照市場化、法治化原則支援老舊街區、老舊廠區等符合條件的城市更新專案發行基礎設施領域不動產投資信託基金（REITs）等。建立完善專案融資合作推進機制，常態化開展政銀企對接活動。"
-    },
-    {
-      "id": "te:markets:562041",
-      "time": "2026-06-26 09:33:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Fall on Tech Selloff, Profit-Taking — The benchmark KOSPI fell more than 3% to around 8,660 on Friday, reversing gains from the previous session, following overnight losses on Wall Street and profit-taking. Investor sentiment weakened after the Nasdaq extended its losing streak as renewed weakness in large-cap technology stocks reignited concerns over AI-related valuations. Markets also remained cautious after US core inflation matched expectations but reached its highest level since October 2023, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. At the same time, investors locked in profits following the KOSPI's 5.4% surge in the previous session. Technology heavyweights declined, with Samsung Electronics and SK Hynix falling more than 3% and 4%, respectively, while SK Square (-7.7%), Hyundai Motor (-3.4%), LG Energy Solution (-2.7%), HD Hyundai Heavy Industries (-3.3%), Hanwha Aerospace (-4.8%), and Doosan Enerbility (-4.6%) also traded sharply lower."
-    },
-    {
-      "id": "mkt:019f018f-d14f-7dd8-b129-04ed2ee85c4b",
-      "time": "2026-06-26 09:33:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "【Economist: Tokyo CPI unlikely to speed Bank of Japan rate hikes】Takuya Hoshino of the Dai-ichi Life Research Institute said Tokyo-area CPI rebounded in June for the first time in eight months but is unlikely to push the Bank of Japan to accelerate rate hikes. Tokyo consumer prices excluding fresh food rose 1.6% YoY in June, up from 1.3% in May. Hoshino said the print shows some underlying price resilience but is insufficient to prompt concern about faster cost pass-through to consumers and is unlikely to move the BOJ to bring forward hikes."
-    },
-    {
-      "id": "4956128",
-      "time": "2026-06-26 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股昨日連闆闆塊異動拉昇】超聲電子、興業科技觸及漲停，中材科技、泰和新材、美盈森、航錦科技、ST中裝跟漲。"
-    },
-    {
-      "id": "mkt:019f018e-fc77-7dd8-b128-fdb727b28209",
-      "time": "2026-06-26 09:32:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "01211.HK",
-        "Impact bearish",
-        "02015.HK",
-        "09863.HK"
-      ],
-      "text": "Hong Kong auto stocks mostly fell. Beijing Automotive (01958.HK) and NIO-SW (09866.HK) slid over 5%; Leapmotor (09863.HK) fell about 4%; BYD Company (01211.HK) dropped over 3%; Li Auto (02015.HK) fell nearly 3%."
-    },
-    {
-      "id": "mkt:019f018e-f582-7dd8-b128-f634eaad229d",
-      "time": "2026-06-26 09:32:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 futures extend losses to 1.2%."
-    },
-    {
-      "id": "4956127",
-      "time": "2026-06-26 09:32:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "中科聞歌首日開盤現漲超100%，報123.5港元，總市值超200億港元。"
-    },
-    {
-      "id": "4956126",
-      "time": "2026-06-26 09:32:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "20號膠連續主力合約日內跌4%，現報14275.00元。"
-    },
-    {
-      "id": "4956125",
-      "time": "2026-06-26 09:32:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠翔新材：截至目前公司與安瓦新能源暫無供貨關係】遠翔新材(301300)在互動平臺表示，公司董事長帶隊走訪安瓦新能源，意在挖掘電池配套材料合作機會。截至目前，公司與安瓦新能源暫無供貨關係，未簽署供貨訂單。本次僅為前期產業交流，後續合作能否落地存在不確定性，相關進展達到披露要求後公司會及時公告，請注意投資風險。"
-    },
-    {
-      "id": "4956124",
-      "time": "2026-06-26 09:32:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "電力股盤初拉昇，龍源電力直線漲停，金房能源、節能風電、協鑫能科、浙江新能、華電遼能跟漲。"
-    },
-    {
-      "id": "4956123",
-      "time": "2026-06-26 09:31:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4317.360點；恒生指數現跌0.892%。"
-    },
-    {
-      "id": "mkt:019f018d-af6d-7dd8-b128-ea9f505ccfc9",
-      "time": "2026-06-26 09:31:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares grid-equipment sector opened higher; Baosheng hit the daily limit. Baiyun Electric, Yineng Power, Acrel, Hangzhou Kelin and Great Wall Technology also advanced."
-    },
-    {
-      "id": "mkt:019f018d-aa1e-7dd8-b128-e218b1ece6c6",
-      "time": "2026-06-26 09:31:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China stock index futures open lower】China's CSI 300 index futures (IF) front-month contract fell 0.54% at the morning open; SSE 50 index futures (IH) down 0.10%; CSI 500 index futures (IC) down 0.82%; CSI 1000 index futures (IM) down 0.98%."
-    },
-    {
-      "id": "mkt:019f018d-900e-7dd8-b128-dd64bce81787",
-      "time": "2026-06-26 09:31:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open: morning session】At the morning open, China’s 2-year government bond futures (TS) most-active contract fell 0.01%, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.10%."
-    },
-    {
-      "id": "4956122",
-      "time": "2026-06-26 09:31:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報8610.80點。"
-    },
-    {
-      "id": "4956121",
-      "time": "2026-06-26 09:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.03%。迴天轉債、祥和轉債、聯瑞轉債、威唐轉債、奕瑞轉債跌幅居前，分別跌4.57%、4.39%、2.67%、2.46%、2.38%。恆逸轉2、花園轉債、百潤轉債、金05轉債、天準轉債漲幅居前，分別漲8.18%、4.44%、3.14%、1.70%、1.50%。"
-    },
-    {
-      "id": "4956120",
-      "time": "2026-06-26 09:31:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8432.00點。"
-    },
-    {
-      "id": "mkt:019f018d-469a-7dd8-b128-d6dc6f4e5996",
-      "time": "2026-06-26 09:31:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HSI fell 1%; Hang Seng Tech Index fell 1.8%."
-    },
-    {
-      "id": "4956119",
-      "time": "2026-06-26 09:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.21%，成分股中，同惠電子跌5.67%，曙光數創跌3.98%，華嶺股份跌3.83%，納科諾爾跌2.77%。"
-    },
-    {
-      "id": "4956118",
-      "time": "2026-06-26 09:30:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "4956117",
-      "time": "2026-06-26 09:30:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超1%，現報22840.230點；恒生科技指數現跌1.647%。"
-    },
-    {
-      "id": "4956116",
-      "time": "2026-06-26 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌4%，現報34685.00元。"
-    },
-    {
-      "id": "4956115",
-      "time": "2026-06-26 09:30:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊高開，寶勝股份漲停】電網裝置板塊高開，寶勝股份漲停，白雲電器、億能電力、安科瑞、杭州柯林、長城科技跟漲。"
-    },
-    {
-      "id": "4956114",
-      "time": "2026-06-26 09:30:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.00%，現報16180.621點；上證指數跌0.54%，現報4097.895點；創業板指跌1.47%，現報4307.839點。"
-    },
-    {
-      "id": "4956113",
-      "time": "2026-06-26 09:30:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海口桂林洋110kV福創輸變電工程全面投運】據海口日報，近日，隨著最後一組專項除錯及執行試驗資料順利達標，海口桂林洋110kV福創輸變電新建工程正式投入運營。作為江東新區總部經濟區（生態CBD）唯一規劃的110kV變電站，該專案投運後將有效破解園區供電瓶頸，為江東新區高質量發展提供堅實電力保障。"
     }
   ]
 }
