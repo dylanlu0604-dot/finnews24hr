@@ -1,7 +1,23 @@
 {
   "date": "2026-07-04",
-  "count": 77,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:019f292d-d0c9-7aab-8c9a-3d7d3ea3a2f1",
+      "time": "2026-07-04 02:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Iran's president discussed expanding cooperation with Russia."
+    },
+    {
+      "id": "4970044",
+      "time": "2026-07-04 02:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗總統與俄羅斯討論擴大合作的事宜。"
+    },
     {
       "id": "mkt:019f2927-d415-7aab-8c9a-32de42e30f35",
       "time": "2026-07-04 02:05:03",

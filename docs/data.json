@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 02:08:56",
-  "count": 13449,
+  "updated": "2026-07-04 02:12:50",
+  "count": 13450,
   "items": [
+    {
+      "id": "mkt:019f292d-d0c9-7aab-8c9a-3d7d3ea3a2f1",
+      "time": "2026-07-04 02:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Iran's president discussed expanding cooperation with Russia."
+    },
+    {
+      "id": "4970044",
+      "time": "2026-07-04 02:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗總統與俄羅斯討論擴大合作的事宜。"
+    },
     {
       "id": "mkt:019f2927-d415-7aab-8c9a-32de42e30f35",
       "time": "2026-07-04 02:05:03",
@@ -123823,14 +123839,6 @@
         "國際"
       ],
       "text": "【OpenAI：開啟下一代模型GPT-5.6系列的限量預覽，其中Sol最強】OpenAI表示，已開啟GPT-5.6系列的限量預覽。該系列包括旗艦模型Sol、適用於日常工作的均衡模型Terra、以及快速且經濟實惠的模型Luna。Terra的效能與 GPT-5.5 相當，但成本低2倍；Luna則以其最低的成本提供了強大的能力。GPT-5.6 Sol搭載了該公司迄今最強大的安全防護體系。加強了對高風險活動、敏感網路請求以及重複濫用行為的防護，並花費數週時間尋找系統弱點、進行壓力測試，以增強其抵禦現實世界攻擊的能力。該公司計劃在未來幾周內全面開放GPT-5.6 Sol、Terra和Luna。作為我們與美國政府持續溝通的一部分，在週五釋出之前，OpenAI提前向政府展示了該公司的釋出計劃以及模型的各項能力。GPT-5.6 Sol是其迄今最強大的模型。"
-    },
-    {
-      "id": "mkt:019f0522-6250-7dd8-b13d-17fbaceb3f38",
-      "time": "2026-06-27 02:12:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump pressured Senator Lisa Murkowski to vote for the Save America Act."
     }
   ]
 }
