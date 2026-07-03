@@ -1,7 +1,62 @@
 {
   "date": "2026-07-03",
-  "count": 965,
+  "count": 971,
   "items": [
+    {
+      "id": "mkt:019f25c0-0ae6-7aab-8c89-85cd7ad86868",
+      "time": "2026-07-03 10:12:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share liquid-cooled server sector surged intraday: Feilong Co. hit the daily limit, Shenling Environment rose over 10%, and Tenglong Co., Qiangrui Technology, Chuanhuan Technology, Nanfang Pump and Yingweike also advanced."
+    },
+    {
+      "id": "4968716",
+      "time": "2026-07-03 10:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【腦機介面公司格式塔宣佈完成4.2億元人民幣融資】7月3日，國內腦機介面公司格式塔科技（Gestala）宣佈完成4.2億元人民幣天使+輪融資。本輪融資由華映資本領投，C資本、紅杉中國、藍思科技、中電健康基金、創新工場、臨港科創投資、復旦復容資本、國泰創投等多家國內外頭部投資機構跟投。同日，公司位於上海市閔行區“腦智天地”的格式塔科技上海總部正式啟用。"
+    },
+    {
+      "id": "4968715",
+      "time": "2026-07-03 10:10:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓亞證券將LG電子目標價由230,000韓元上調至260,000韓元。"
+    },
+    {
+      "id": "te:markets:563951",
+      "time": "2026-07-03 10:09:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Decline on Weak Jobs Data — The dollar index held below 101 on Friday after tumbling in the previous session, as weaker-than-expected US labor market data led traders to dial back expectations for Federal Reserve rate hikes this year. The US economy added just 57,000 jobs in June, the fewest in four months and well below forecasts of 110,000, while the unemployment rate stood at 4.2%. That followed a report on Wednesday showing private-sector job growth also fell short of expectations. Fed funds futures now imply roughly a 50% chance of a September rate hike, down from 67% before the latest employment report. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability. The dollar index is on track to end the week lower, snapping a two-week winning streak."
+    },
+    {
+      "id": "4968714",
+      "time": "2026-07-03 10:09:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破69美元/桶，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:019f25bc-cbf2-7aab-8c89-7ecc48f87e71",
+      "time": "2026-07-03 10:09:17",
+      "tags": [
+        "MKT News",
+        "600875.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share gas-turbine concept stocks were active: Tunan and Longda rose more than 10%, while Wanze, Jereh, Changbao and Dongfang Electric also advanced."
+    },
     {
       "id": "mkt:019f25bc-2be7-7aab-8c89-773b51a93e6e",
       "time": "2026-07-03 10:08:36",

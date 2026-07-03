@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-03 10:09:41",
-  "count": 13941,
+  "updated": "2026-07-03 10:13:33",
+  "count": 13933,
   "items": [
+    {
+      "id": "mkt:019f25c0-0ae6-7aab-8c89-85cd7ad86868",
+      "time": "2026-07-03 10:12:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share liquid-cooled server sector surged intraday: Feilong Co. hit the daily limit, Shenling Environment rose over 10%, and Tenglong Co., Qiangrui Technology, Chuanhuan Technology, Nanfang Pump and Yingweike also advanced."
+    },
+    {
+      "id": "4968716",
+      "time": "2026-07-03 10:12:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【腦機介面公司格式塔宣佈完成4.2億元人民幣融資】7月3日，國內腦機介面公司格式塔科技（Gestala）宣佈完成4.2億元人民幣天使+輪融資。本輪融資由華映資本領投，C資本、紅杉中國、藍思科技、中電健康基金、創新工場、臨港科創投資、復旦復容資本、國泰創投等多家國內外頭部投資機構跟投。同日，公司位於上海市閔行區“腦智天地”的格式塔科技上海總部正式啟用。"
+    },
+    {
+      "id": "4968715",
+      "time": "2026-07-03 10:10:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓亞證券將LG電子目標價由230,000韓元上調至260,000韓元。"
+    },
+    {
+      "id": "te:markets:563951",
+      "time": "2026-07-03 10:09:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Decline on Weak Jobs Data — The dollar index held below 101 on Friday after tumbling in the previous session, as weaker-than-expected US labor market data led traders to dial back expectations for Federal Reserve rate hikes this year. The US economy added just 57,000 jobs in June, the fewest in four months and well below forecasts of 110,000, while the unemployment rate stood at 4.2%. That followed a report on Wednesday showing private-sector job growth also fell short of expectations. Fed funds futures now imply roughly a 50% chance of a September rate hike, down from 67% before the latest employment report. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability. The dollar index is on track to end the week lower, snapping a two-week winning streak."
+    },
+    {
+      "id": "4968714",
+      "time": "2026-07-03 10:09:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破69美元/桶，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:019f25bc-cbf2-7aab-8c89-7ecc48f87e71",
+      "time": "2026-07-03 10:09:17",
+      "tags": [
+        "MKT News",
+        "600875.SS",
+        "Impact bullish"
+      ],
+      "text": "A-share gas-turbine concept stocks were active: Tunan and Longda rose more than 10%, while Wanze, Jereh, Changbao and Dongfang Electric also advanced."
+    },
     {
       "id": "mkt:019f25bc-2be7-7aab-8c89-773b51a93e6e",
       "time": "2026-07-03 10:08:36",
@@ -128368,137 +128423,6 @@
         "其他"
       ],
       "text": "【習近平將會見孟加拉國總理塔裡克】6月26日上午，國家主席習近平將在北京人民大會堂會見來華進行正式訪問的孟加拉人民共和國總理塔裡克·拉赫曼。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f01b4-238a-7dd8-b12a-47998c600bbb",
-      "time": "2026-06-26 10:13:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "【KOSPI plunges 5%; SK Hynix down >6%】South Korea's KOSPI tumbled 5% intraday to 8,477.78 points. SK Hynix fell more than 6; Samsung Electronics was down 5.7%."
-    },
-    {
-      "id": "4956231",
-      "time": "2026-06-26 10:12:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI指數程式化交易。"
-    },
-    {
-      "id": "4956230",
-      "time": "2026-06-26 10:12:04",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌5.1%，至8477.78點。"
-    },
-    {
-      "id": "4956229",
-      "time": "2026-06-26 10:12:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報147440.00元。"
-    },
-    {
-      "id": "4956228",
-      "time": "2026-06-26 10:11:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4808.40點。"
-    },
-    {
-      "id": "mkt:019f01b2-47d5-7dd8-b12a-3a9a596f51cd",
-      "time": "2026-06-26 10:11:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Over 100 million in Europe exposed to temperatures above 35°C】A persistent heatwave has driven record June temperatures across France, the UK and other European countries. Estimates show regions with temperatures above 35°C covered more than 100 million people on June 25. French Met Office data show a national average of 30°C on June 24, the second consecutive day of record highs, and some areas including Paris exceeded 40°C."
-    },
-    {
-      "id": "mkt:019f01b2-2cd7-7dd8-b12a-345ab410e136",
-      "time": "2026-06-26 10:11:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-shares lithography-equipment sector kept rallying; Haili Co. surged straight to the daily limit. Earlier Xinlai Yingcai's 20cm hit the daily limit. Lanying Equipment and Jiaxian Co. rose over 10%; Zhangjiang Hi-Tech and Bochang Photonics also advanced."
-    },
-    {
-      "id": "4956227",
-      "time": "2026-06-26 10:11:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "野村將瑞薩電子目標股價從4100日元上調至5300日元。"
-    },
-    {
-      "id": "4956226",
-      "time": "2026-06-26 10:11:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲35攝氏度以上高溫覆蓋人口超1億】隨著高溫天氣持續席捲歐洲，法國、英國等多國遭遇6月同期破紀錄高溫。據估算，25日氣溫超過35攝氏度的歐洲地區人口超過了1個億。（新華社）"
-    },
-    {
-      "id": "4956225",
-      "time": "2026-06-26 10:10:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報74.74美元/桶。"
-    },
-    {
-      "id": "4956224",
-      "time": "2026-06-26 10:10:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員稱伊朗襲貨船 海峽船舶疏散暫停】美國《華爾街日報》25日報道稱，伊朗伊斯蘭革命衛隊當天在霍爾木茲海峽襲擊了一艘新加坡籍貨船。國際海事組織已因此暫停霍爾木茲海峽滯留船舶的疏散行動。截至目前，伊朗方面尚未就此作出官方回應。報道援引匿名美國高階官員的話稱，襲擊發生在阿曼海岸附近，一架攻擊無人機在撞擊該貨船前，先“機動”飛行至其西側，“這表明此次襲擊是蓄意的”。(新華社)"
-    },
-    {
-      "id": "4956223",
-      "time": "2026-06-26 10:10:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蒿慧傑葉牛平會見香港特別行政區政府財政司司長陳茂波、正大製藥集團總裁鄭翔玲一行】據西安日報，6月25日，西安市委書記蒿慧傑，市委副書記、市長葉牛平會見香港特別行政區政府財政司司長陳茂波、正大製藥集團總裁鄭翔玲一行。蒿慧傑說，希望兩地進一步深化政府間交流合作，形成更多務實合作成果，實現高水平互利共贏。一是加強在經貿、投資、金融等領域合作，透過香港重要對外視窗讓西安更多產品走出去，讓更多香港企業來西安投資興業，支援西安更多優質企業赴港上市融資。二是加強在戰略性新興產業特別是商業航天領域合作，支援兩地共建科技成果轉移轉化平臺與技術交易機制，促進資源共享、供需對接、產學研深度融合。三是加強在文化、旅遊、青少年、媒體、法律等人文領域的交流，更好促進民心相通。四是加強在生物醫藥、大健康領域合作，發揮正大製藥集團的獨特優勢，助力提升西安生物醫藥產業鏈群規模和核心競爭力。"
-    },
-    {
-      "id": "4956222",
-      "time": "2026-06-26 10:09:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳交所：已注意到使用者訪問澳交所線上平臺時遇到問題。"
-    },
-    {
-      "id": "te:markets:562053",
-      "time": "2026-06-26 10:09:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Drop on Tech Weakness — The Hang Seng Index fell 1.4%, or 325 points, to 22,747 on Friday, extending losses as weakness in global technology stocks continued to weigh on investor sentiment. The cautious mood followed a volatile overnight session on Wall Street, where renewed selling in megacap technology shares offset optimism from upbeat semiconductor earnings. Investors also remained cautious despite the Hong Kong debut of Apple supplier Lingyi iTech, whose HK$8.3 billion IPO highlighted continued interest in AI-related listings but failed to lift broader market sentiment. Technology stocks led the decline, while financial and producer manufacturing shares also came under pressure. Among the notable laggards were Tencent (-1.4%), AIA (-1.8%), Semiconductor Manufacturing International Corporation (-2.5%), Lenovo (-4.2%), and Kingboard Laminates (-1.3%). The downside was partially offset by gains in Kingboard Holdings (+0.9%) and CITIC Resources Holdings (+8.5%)."
     }
   ]
 }
