@@ -1,7 +1,42 @@
 {
   "date": "2026-07-04",
-  "count": 85,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:019f293f-b405-7aab-8c9a-49b1fe8519e6",
+      "time": "2026-07-04 02:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.41% to 910.7 yuan/gram in the July 3 (Friday) evening session; silver T+D gained 0.76% to 15,207 yuan/kg."
+    },
+    {
+      "id": "4970048",
+      "time": "2026-07-04 02:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：試想本國四千多萬民眾依靠食品救濟券度日，卻指責別國百姓食不果腹。這並非宣言，只是客觀現狀。收起你們關於糧食救濟的說教。 本國資產、本國抉擇。管好自己國內的營養不良問題。"
+    },
+    {
+      "id": "te:markets:564221",
+      "time": "2026-07-04 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.23% — Top crypto gainers are Ether (2.23%), Binance (1.55%) and Bitcoin (1.02%)."
+    },
+    {
+      "id": "4970047",
+      "time": "2026-07-04 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.16%，報438.30元人民幣/桶。滬金夜盤收漲0.81%，滬銀收漲1.61%。"
+    },
     {
       "id": "te:markets:564220",
       "time": "2026-07-04 02:25:06",
