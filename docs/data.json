@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-03 14:02:46",
-  "count": 13842,
+  "updated": "2026-07-03 14:06:42",
+  "count": 13844,
   "items": [
+    {
+      "id": "te:economy:564022",
+      "time": "2026-07-03 14:05:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Russia Services Sector Contracts the Most in 9 Months — The S&P Global Russia Services PMI declined to 48.2 in June 2026 from May's 49.7, marking the fourth consecutive month of contraction in the sector. The latest reading also marked the steepest contraction since last September, driven by sharper declines in both output and new orders. In line with lower new orders, firms reduced employment for the fifth consecutive month, with the pace of job shedding the steepest in three and a half years."
+    },
+    {
+      "id": "mkt:019f2695-35c3-7aab-8c8c-9736d6aa79cb",
+      "time": "2026-07-03 14:05:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【MOFCOM minister Raimondo chairs roundtable with Chinese-invested firms in UK】On July 2 in London, MOFCOM minister Raimondo chaired a roundtable with more than ten Chinese-invested firms operating in the UK. Participants from finance, insurance, new energy, autos, retail and telecoms, plus the China-Britain Chamber of Commerce, reported on UK operations and pressed for protection of overseas interests and expanded pragmatic cooperation. Raimondo said Sino‑UK trade has deepened and that Chinese firms in the UK have withstood pressure, deepened market presence and delivered solid economic returns. He called for continued cooperation in services, innovation and trilateral projects, and urged Chinese firms in the UK to strengthen self‑discipline, compete orderly, protect the overall image of Chinese companies, and raise international management and risk‑control capabilities."
+    },
+    {
+      "id": "mkt:019f2695-15f4-7aab-8c8c-8992ba8d6811",
+      "time": "2026-07-03 14:05:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hanwha Group said it will invest 55 trillion won in South Korea to develop satellites, space launch vehicles and a defense AI data center."
+    },
+    {
+      "id": "4969001",
+      "time": "2026-07-03 14:05:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均漲超1%】上證指數漲1.01%，現報4069.677點；深證成指漲1.65%，現報15753.981點；創業板指漲1.50%，現報4077.425點。"
+    },
+    {
+      "id": "4969000",
+      "time": "2026-07-03 14:05:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓華集團：將在韓國投資55萬億韓元，用於製造衛星、運載火箭、國防人工智慧資料中心。"
+    },
+    {
+      "id": "mkt:019f2694-0368-7aab-8c8c-8049664acac7",
+      "time": "2026-07-03 14:04:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IDF said yesterday its soldiers conducted an operation in the Mukhmas area, arresting eight suspects wanted for pursuing and assaulting Israeli civilians who entered the area."
+    },
+    {
+      "id": "4968999",
+      "time": "2026-07-03 14:04:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國方面表示將為SK海力士ADR帶來的外匯流入做好準備。"
+    },
+    {
+      "id": "4968998",
+      "time": "2026-07-03 14:03:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.38%，道瓊斯指數期貨漲0.2%。"
+    },
+    {
+      "id": "4968997",
+      "time": "2026-07-03 14:03:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口成立新公司 含商業綜合體管理服務業務】企查查APP顯示，近日，深圳招商匯港商業管理有限公司成立，法定代表人為陳雙，經營範圍包含物業管理；非居住房地產租賃；商業綜合體管理服務；餐飲管理；企業管理諮詢等。企查查股權穿透顯示，該公司由招商蛇口(001979)間接全資持股。"
+    },
+    {
+      "id": "4968996",
+      "time": "2026-07-03 14:03:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國汽車在歐洲市場銷量首超日本】歐洲汽車製造商協會最新的新車銷量統計資料顯示，五家中國汽車製造商今年5月在歐洲市場共計銷售近14萬輛汽車，同比增長65%，銷量上首次超過日系汽車。報道說，這五家中國汽車製造商分別是比亞迪、上汽、吉利、奇瑞及零跑。 （央視財經）"
+    },
+    {
+      "id": "4968995",
+      "time": "2026-07-03 14:02:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50股指期貨上漲0.39%，德國DAX股指期貨上漲0.52%，富時股指期貨上漲0.16%。"
+    },
+    {
+      "id": "te:economy:564021",
+      "time": "2026-07-03 14:02:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Russia Composite PMI Lowest in 3 Months — Russia’s S&P Global Composite PMI inched down to 48.9 in June 2026 from 49.2 in the previous month, marking the lowest reading since March. The latest figure also marked the fourth straight month of decline in private-sector activity."
+    },
     {
       "id": "mkt:019f2691-b976-7aab-8c8c-7c3a42949629",
       "time": "2026-07-03 14:01:52",
@@ -13,6 +121,14 @@
         "Greater China"
       ],
       "text": "【GigaDevice and Desay SV agree strategic cooperation on domestic car-grade chips】July 3 — Chinese chipmaker GigaDevice and automotive electronics supplier Desay SV reached a strategic cooperation agreement to accelerate commercialization of domestically produced automotive-grade chips. The partners will leverage their car-grade chip and automotive-electronics design capabilities to foster upstream-downstream industry collaboration and support security and sustainable development of the China automotive electronics supply chain. Under the agreement they will deepen cooperation on memory and microcontroller product lines."
+    },
+    {
+      "id": "4968994",
+      "time": "2026-07-03 14:01:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【公平競爭審查制度實施十年 全國累計審查政策措施188萬件】從市場監管總局瞭解到，2016年6月，國務院印發《關於在市場體系建設中建立公平競爭審查制度的意見》，我國公平競爭審查制度正式建立。十年來，全國累計審查政策措施188萬件，廢止和修訂排除、限制競爭的政策措施12.3萬件，公平競爭審查制度在規範地方政府經濟促進行為、破除地方保護和市場分割、推動全國統一大市場建設等方面發揮了重要作用。（日月譚天）"
     },
     {
       "id": "4968993",
@@ -127395,109 +127511,6 @@
         "DXY"
       ],
       "text": "JP Morgan said that even if a peace agreement holds, the Iran conflict will continue to affect market conditions across EMEA (Europe, Middle East and Africa)."
-    },
-    {
-      "id": "4956560",
-      "time": "2026-06-26 14:06:37",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通新興歐非中東證券有限公司：即便和平協議得以維持，衝突仍將影響歐洲、中東及非洲地區各市場的行情。"
-    },
-    {
-      "id": "mkt:019f0289-218c-7dd8-b12e-bf3b8246aa9e",
-      "time": "2026-06-26 14:06:09",
-      "tags": [
-        "MKT News",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "Italy's competition authority opens probe into Microsoft (MSFT.O) over Microsoft 365 subscription price increases."
-    },
-    {
-      "id": "4956559",
-      "time": "2026-06-26 14:05:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利競爭管理局已對微軟就“Microsoft 365”訂閱提價一事展開調查。"
-    },
-    {
-      "id": "mkt:019f0288-7401-7dd8-b12e-b787235d2618",
-      "time": "2026-06-26 14:05:24",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "France's finance minister said the government aims to cut the budget deficit to below 5% of GDP in 2026."
-    },
-    {
-      "id": "4956558",
-      "time": "2026-06-26 14:05:23",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通新興歐非中東證券有限公司表示，公司運營所處的地緣政治背景依然充滿挑戰。"
-    },
-    {
-      "id": "4956557",
-      "time": "2026-06-26 14:05:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海光資訊：已提前準備“CPU+DCU”雙芯融合技術開發】海光資訊高管表示，基於海光“CPU+DCU”雙芯一體化方案，使用者無需區分算力最佳化工作由CPU還是DCU承載，整套系統可統一輸出高效算力。未來CPU將承載更多原本由加速晶片承擔的運算任務，部分輕量化應用也可直接執行在DCU上，而對於僅佈局單一品類晶片的廠商而言，很難匹配這類複合需求。據透露，海光已提前準備雙芯融合的相關技術開發。"
-    },
-    {
-      "id": "4956556",
-      "time": "2026-06-26 14:05:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時縮量472億元。"
-    },
-    {
-      "id": "4956555",
-      "time": "2026-06-26 14:04:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：力爭在2026年將赤字控制在5%以內。"
-    },
-    {
-      "id": "4956554",
-      "time": "2026-06-26 14:04:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50期貨<STXEc1>下跌0.7%，德國DAX期貨<FDXc1>下跌0.83%，法國CAC 40期貨<FCEc1>下跌0.5%，富時期貨<FFIc1>下跌0.6%。"
-    },
-    {
-      "id": "mkt:019f0287-0fa7-7dd8-b12e-acfc2c9c0cde",
-      "time": "2026-06-26 14:03:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【China NEA: charging infrastructure to reach 40 million by 2030】China's National Energy Administration deputy director Wan Jinsong said charging infrastructure will expand to 40 million charging points by 2030. Renewable hydrogen production capacity is targeted at 2 mln tonnes for steel and chemical feedstock. Virtual power plant balancing capacity is expected to exceed 50 GW, roughly equivalent to 50 large thermal units not using coal."
-    },
-    {
-      "id": "4956553",
-      "time": "2026-06-26 14:03:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家能源局：到2030年我國充電基礎設施將達到4000萬個】今天，國務院新聞辦舉行新聞釋出會。國家能源局副局長萬勁松表示，“十五五”期間，我國將進一步加快佈局建設新型能源基礎設施。國家能源局副局長萬勁松介紹，新型能源基礎設施是新型能源體系的“大骨架”“硬支撐”，能讓風光水電等清潔能源送得出、接得住、用得好，未來要加快佈局促進新能源發展的能源基礎設施。國家能源局副局長萬勁松表示，將最佳化開發方式，建設“三北”風電光伏、西南水風光一體化等清潔能源基地，因地制宜發展綠電直連，建設低碳零碳油氣田，推動新能源整合融合發展。同時，提升新能源的接入和消納能力，加快打造安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，推動源儲調節能力增長40%以上。同時，還要加快佈局新技術新模式帶動的能源基礎設施，包括可再生能源制氫、綠色燃料、充電設施、核能綜合利用、虛擬電廠、綜合能源站等。到2030年，我國的充電基礎設施將達到4000萬個、實現倍增發展。可再生能源制氫規模將達到200萬噸，用於鋼鐵化工生產等。虛擬電廠的調節能力將達到5000萬千瓦以上，相當於50臺不燒煤的大型火電機組。"
     }
   ]
 }
