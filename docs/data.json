@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-04 00:42:58",
-  "count": 13479,
+  "updated": "2026-07-04 00:46:56",
+  "count": 13476,
   "items": [
+    {
+      "id": "mkt:019f28df-0645-7aab-8c99-8ef60d82c217",
+      "time": "2026-07-04 00:45:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch: If the Middle East conflict persists, 72 sub‑sectors across six regions will remain exposed to potential risk."
+    },
+    {
+      "id": "4970017",
+      "time": "2026-07-04 00:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：60 天臨時協議存在脆弱性，且以色列並未參與，這意味著中東衝突仍將對各類企業構成風險。"
+    },
+    {
+      "id": "mkt:019f28dd-1d26-7aab-8c99-8222ab253ef7",
+      "time": "2026-07-04 00:43:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fitch Ratings says a 60-day temporary agreement is fragile and, with Israel not participating, indicates the Middle East conflict continues to pose a threat to corporate issuers."
+    },
     {
       "id": "mkt:019f28db-b6c4-7aab-8c99-7a1caeb49144",
       "time": "2026-07-04 00:41:55",
@@ -124057,62 +124086,6 @@
         "國際"
       ],
       "text": "IMF首席經濟學家古蘭沙： 美聯儲此次舉措釋放強烈訊號，但各國央行仍需為長期利率提供某種形式指引。 美聯儲不再採用力度較強的貨幣政策前瞻性指引，這一做法 “完全恰當”。 市場總會解讀央行釋放的各類訊號；如有必要，央行將出手進行預期修正。"
-    },
-    {
-      "id": "mkt:019f04d3-c40d-7dd8-b13b-cea638a2198c",
-      "time": "2026-06-27 00:46:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF chief economist GOURINCHAS said markets will always interpret signals from central banks, and central banks will step in to correct when necessary."
-    },
-    {
-      "id": "mkt:019f04d3-8ff6-7dd8-b13b-c1a421971cef",
-      "time": "2026-06-27 00:46:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "GOURINCHAS, IMF chief economist, said the Fed's gradual abandonment of strong forward guidance in monetary policy is \"entirely appropriate.\""
-    },
-    {
-      "id": "mkt:019f04d3-6f1b-7dd8-b13b-bd12f14b228c",
-      "time": "2026-06-27 00:46:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "IMF chief economist Gourinchas said the Fed's actions sent a strong signal, but central banks still need to provide some form of guidance on long-term interest rates."
-    },
-    {
-      "id": "mkt:019f04d3-2153-7dd8-b13b-b2263b5f2a0d",
-      "time": "2026-06-27 00:46:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israeli senior officials say Israel and Lebanon are expected to sign a framework agreement in Washington on Friday; Axios cites a senior Israeli official saying a framework agreement has been reached with Lebanon."
-    },
-    {
-      "id": "4957868",
-      "time": "2026-06-27 00:45:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列高階官員：以色列與黎巴嫩預計週五在華盛頓簽署框架協議。"
-    },
-    {
-      "id": "mkt:019f04d1-7f03-7dd8-b13b-aef63af947d6",
-      "time": "2026-06-27 00:44:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "NewsNation cited a US official saying that, despite Trump alleging Iran violated a ceasefire agreement, US-Iran negotiations are expected to continue."
     }
   ]
 }

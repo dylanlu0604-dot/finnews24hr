@@ -1,7 +1,36 @@
 {
   "date": "2026-07-04",
-  "count": 25,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:019f28df-0645-7aab-8c99-8ef60d82c217",
+      "time": "2026-07-04 00:45:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch: If the Middle East conflict persists, 72 sub‑sectors across six regions will remain exposed to potential risk."
+    },
+    {
+      "id": "4970017",
+      "time": "2026-07-04 00:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：60 天臨時協議存在脆弱性，且以色列並未參與，這意味著中東衝突仍將對各類企業構成風險。"
+    },
+    {
+      "id": "mkt:019f28dd-1d26-7aab-8c99-8222ab253ef7",
+      "time": "2026-07-04 00:43:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fitch Ratings says a 60-day temporary agreement is fragile and, with Israel not participating, indicates the Middle East conflict continues to pose a threat to corporate issuers."
+    },
     {
       "id": "mkt:019f28db-b6c4-7aab-8c99-7a1caeb49144",
       "time": "2026-07-04 00:41:55",
