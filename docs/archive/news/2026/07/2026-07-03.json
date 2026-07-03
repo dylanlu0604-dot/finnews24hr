@@ -1,7 +1,78 @@
 {
   "date": "2026-07-03",
-  "count": 1324,
+  "count": 1332,
   "items": [
+    {
+      "id": "mkt:019f2683-45ef-7aab-8c8c-405639600593",
+      "time": "2026-07-03 13:46:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【TD Securities: Buy 10-year US Treasuries on weakness】TD Securities' rates strategist said investors should consider buying 10-year US Treasuries on price weakness, citing uncertainty about the Fed's policy path that could keep the 10-year yield in a 4.25%-4.66% range in the near term. TD expects the Fed will not raise rates but warned that the central bank's wait-for-data stance may keep market expectations for further hikes elevated."
+    },
+    {
+      "id": "4968981",
+      "time": "2026-07-03 13:45:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1859億元。"
+    },
+    {
+      "id": "4968980",
+      "time": "2026-07-03 13:45:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "鎧俠CEO：我們未看到資料中心需求疲軟的跡象。"
+    },
+    {
+      "id": "4968979",
+      "time": "2026-07-03 13:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星河動力航天增資至5.2億元，增幅約21%】天眼查App顯示，6月30日，北京星河動力航天科技股份有限公司發生工商變更，註冊資本由約4.3億人民幣增至約5.2億人民幣，增幅約21%。該公司成立於2018年2月，法定代表人為劉百奇，經營範圍包括航空航天的技術開發、技術轉讓、技術諮詢、技術服務等，由北京至遠探索管理諮詢中心（有限合夥）、劉百奇、劉建設等共同持股。"
+    },
+    {
+      "id": "mkt:019f2681-5bcf-7aab-8c8c-3fbee08b61af",
+      "time": "2026-07-03 13:43:59",
+      "tags": [
+        "MKT News",
+        "IFX.DE"
+      ],
+      "text": "【Infineon rebuts Innoscience claim GaN units removed at Shanghai electronics fair】July 3 — Infineon said via its WeChat account that Innoscience’s July 2 statement did not fully reflect the facts and that Infineon is complying with applicable laws and current rulings. Infineon said the 10 MVCoolGaN™ G3 models cited remain subject to judicial proceedings and that it is pursuing legal remedies and a comprehensive review of the facts and law. Innoscience had said on July 2 that on July 1 its personnel discovered allegedly infringing GaN products at the Shanghai Munich electronics fair and, citing a Chinese court order prohibiting sale, offer to sell and import those products, the displays were removed."
+    },
+    {
+      "id": "4968978",
+      "time": "2026-07-03 13:43:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國11條中小河流發生超警以上洪水】從水利部瞭解到，受降雨影響，昨天（7月2日）到今天，四川沿長江支流大洪河，重慶烏江支流酉陽河、沅水支流財神河溝，貴州綦江支流新站河、赤水河支流水邊河，雲南瑞麗江支流芒市大河等11條中小河流發生超警以上洪水，其中四川大洪河、重慶酉陽河2條河流發生小幅超保洪水，目前大部已出峰迴落。"
+    },
+    {
+      "id": "mkt:019f2680-7cfc-7aab-8c8c-32fb5b121787",
+      "time": "2026-07-03 13:43:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary ruling-party lawmaker Tarkani said a new supreme authority should supervise and sanction polluting industries, including the electric-vehicle battery sector, and will propose setting pollution fines as a percentage of companies' turnover to strengthen deterrence."
+    },
+    {
+      "id": "4968977",
+      "time": "2026-07-03 13:42:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【氮化鎵產品在上海慕尼黑電子展撤展下架？英飛凌回應】7月3日，針對英諾賽科於7月2日釋出的相關公開宣告，英飛凌透過其微信公眾號發文回應：其表述未完整還原事件整體背景和具體情況。英飛凌表示，其嚴格遵守法律法規及現行裁定。本案涉及的10個MV CoolGaN™ G3產品型號目前仍處於司法程式之中，其正依法透過相關法律程式主張自身合法權益，並就相關事實和法律問題尋求全面審查。7月2日，英諾賽科發文表示，英飛凌侵權產品在上海慕尼黑電子展遭當場撤展下架。英諾賽科稱，2026年7月1日，因展出已被中國法院明確禁止銷售、許諾銷售、進口的侵權氮化鎵（GaN）產品，被專利權人英諾賽科當場發現後，撤展下架。"
+    },
     {
       "id": "4968976",
       "time": "2026-07-03 13:42:44",
