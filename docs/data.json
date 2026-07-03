@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-04 02:12:50",
-  "count": 13450,
+  "updated": "2026-07-04 02:16:39",
+  "count": 13445,
   "items": [
+    {
+      "id": "te:markets:564218",
+      "time": "2026-07-04 02:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 2.60% — Top commodity gainers are Natural Gas UK (2.60%), Heating Oil (2.39%), Natural Gas EU (2.33%), Brent Crude Oil (0.44%) and Crude Oil WTI (0.08%)."
+    },
     {
       "id": "mkt:019f292d-d0c9-7aab-8c9a-3d7d3ea3a2f1",
       "time": "2026-07-04 02:11:36",
@@ -123786,59 +123797,6 @@
         "Important"
       ],
       "text": "【Official reveals tripartite framework: Israel to keep forces in southern Lebanon \"security zone\"】An Israeli official said late on the 26th that US, Israeli and Lebanese representatives signed a tripartite framework agreement in the United States. Under the accord, Israel will continue to station forces in the southern Lebanon area it has unilaterally designated as a \"security zone\" until HEZBOLLAH is disarmed; the IDF will retain freedom of action across the zone and may act at any time to remove security threats. Israel and Lebanon also agreed that in two areas outside the \"security zone\" Israel will withdraw progressively and hand control to the Lebanese army. Israeli and Lebanese authorities had no immediate comment."
-    },
-    {
-      "id": "4957905",
-      "time": "2026-06-27 02:16:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以官員披露三方框架協議細節：以軍繼續駐留黎南部“安全區”】當地時間26日晚，一名以色列官員披露稱，經過美國、以色列和黎巴嫩三方的會談，三方代表當晚在美國簽署了一項三方框架協議。根據該協議，以色列將在黎巴嫩南部其單方面劃定的“安全區”保持駐軍，直至黎巴嫩真主黨解除武裝。該官員表示，在整個“安全區”範圍內，以色列國防軍將保留其軍事行動自由，可隨時採取行動消除各類潛在的安全威脅。同時，以色列和黎巴嫩同意，在“安全區”以外的兩個地區，以色列逐步撤軍並由黎巴嫩政府軍接管控制。對此訊息，以色列官方及黎巴嫩方面尚未作出回應。（央視新聞）"
-    },
-    {
-      "id": "te:markets:562317",
-      "time": "2026-06-27 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.32% — Top commodity losers are Brent Crude Oil (-4.32%), Crude Oil WTI (-3.62%) and Heating Oil (-2.30%). Gains are led by Natural Gas UK (2.10%), Germany Natural Gas THE (2.04%) and Natural Gas EU (0.83%)."
-    },
-    {
-      "id": "mkt:019f0523-c525-7dd8-b13d-240d61dd92d5",
-      "time": "2026-06-27 02:14:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge has ordered the Department of Justice to explain its decision to drop criminal charges against Indian businessman Gautam Adani."
-    },
-    {
-      "id": "mkt:019f0523-8326-7dd8-b13d-1b58e177d4c9",
-      "time": "2026-06-27 02:14:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said House Democrats will hold a caucus Sunday evening; the meeting is expected to focus on appropriations, particularly imminent amendment votes related to aid for Israel."
-    },
-    {
-      "id": "4957904",
-      "time": "2026-06-27 02:13:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官責令司法部說明撤銷針對印度阿達尼刑事指控的理由。"
-    },
-    {
-      "id": "4957903",
-      "time": "2026-06-27 02:13:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI：開啟下一代模型GPT-5.6系列的限量預覽，其中Sol最強】OpenAI表示，已開啟GPT-5.6系列的限量預覽。該系列包括旗艦模型Sol、適用於日常工作的均衡模型Terra、以及快速且經濟實惠的模型Luna。Terra的效能與 GPT-5.5 相當，但成本低2倍；Luna則以其最低的成本提供了強大的能力。GPT-5.6 Sol搭載了該公司迄今最強大的安全防護體系。加強了對高風險活動、敏感網路請求以及重複濫用行為的防護，並花費數週時間尋找系統弱點、進行壓力測試，以增強其抵禦現實世界攻擊的能力。該公司計劃在未來幾周內全面開放GPT-5.6 Sol、Terra和Luna。作為我們與美國政府持續溝通的一部分，在週五釋出之前，OpenAI提前向政府展示了該公司的釋出計劃以及模型的各項能力。GPT-5.6 Sol是其迄今最強大的模型。"
     }
   ]
 }

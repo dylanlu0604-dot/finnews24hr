@@ -1,7 +1,18 @@
 {
   "date": "2026-07-04",
-  "count": 79,
+  "count": 80,
   "items": [
+    {
+      "id": "te:markets:564218",
+      "time": "2026-07-04 02:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 2.60% — Top commodity gainers are Natural Gas UK (2.60%), Heating Oil (2.39%), Natural Gas EU (2.33%), Brent Crude Oil (0.44%) and Crude Oil WTI (0.08%)."
+    },
     {
       "id": "mkt:019f292d-d0c9-7aab-8c9a-3d7d3ea3a2f1",
       "time": "2026-07-04 02:11:36",
