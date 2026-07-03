@@ -1,7 +1,169 @@
 {
   "date": "2026-07-03",
-  "count": 578,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:019f2555-f4a5-7aab-8c86-447dbf119e31",
+      "time": "2026-07-03 08:16:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan-listed Kioxia shares fall 9%."
+    },
+    {
+      "id": "4968459",
+      "time": "2026-07-03 08:16:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠控股股價一度下跌12%，創下7月2日以來的最大單日跌幅。"
+    },
+    {
+      "id": "4968458",
+      "time": "2026-07-03 08:16:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠控股股價下跌9%。"
+    },
+    {
+      "id": "4968457",
+      "time": "2026-07-03 08:16:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：持續推薦稀土產業鏈戰略配置價值，維持行業“強於大市”評級】中信證券研報指出，供需與科技共振，稀土價值重估正當時。2026年上半年氧化鐠釹均價為73.1萬元/噸，同比增長73.6%。供給側，進口及回收出現明顯減量，國內稀土管理政策執行力度趨嚴，稀土行業供給持續偏緊；需求側，新能源汽車及機器人產量環比提升，出口訂單強勢增長，特斯拉機器人量產在即，稀土需求有望延續增長趨勢。綜合供需形勢，2026年起全球稀土供需缺口有望持續擴大，對稀土價格形成長期支撐，持續推薦稀土產業鏈戰略配置價值，維持行業“強於大市”評級。"
+    },
+    {
+      "id": "mkt:019f2554-5b40-7aab-8c86-3f9fb956c784",
+      "time": "2026-07-03 08:15:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CITIC Securities: Supply-demand and tech convergence justify rare-earth re-rating】CITIC Securities says supply-demand dynamics and technology convergence warrant a rare-earth valuation re-rating. Praseodymium-neodymium oxide averaged 731,000 yuan/ton in 1H2026, up 73.6% YoY. Supply: imports and recycling have fallen and domestic rare-earth management enforcement has tightened, leaving industry supply persistently tight. Demand: EV and robotics output rose MoM, export orders strengthened, and Tesla’s robot mass production is imminent, supporting continued demand growth. CITIC expects a global rare-earth supply deficit likely to widen from 2026, providing long-term price support, and continues to recommend strategic allocation along the rare-earth chain, maintaining an outperform sector rating."
+    },
+    {
+      "id": "em:qqyh_mlc:202607033792588329",
+      "time": "2026-07-03 08:14:25",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：6月非農超預期下行暫緩美聯儲短期加息壓力】華泰證券研報稱，6月美國新增非農不及預期，主要是由於此前受到Memorialday提前以及世界盃提振的休閒酒店、地方政府就業大幅回落；分行業看，服務和政府部門新增非農就業均明顯放緩，商品部門則小幅回升。6月非農報告緩解市場對美國就業市場過熱風險的擔憂，領先指標指示未來數月就業水平位於0—5萬均衡水平附近，維持美聯儲下半年保持利率不變、明年可能需要加息的觀點。"
+    },
+    {
+      "id": "4968456",
+      "time": "2026-07-03 08:14:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲0.60%。"
+    },
+    {
+      "id": "4968455",
+      "time": "2026-07-03 08:14:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華燦光電：Micro LED通訊應用業務尚未產生收入】華燦光電(300323)7月2日接受機構調研時表示，Micro LED通訊應用晶片樣品已率先送測海外客戶，公司正與產業鏈夥伴積極推進該技術的產業化落地，但目前尚未產生收入。"
+    },
+    {
+      "id": "4968454",
+      "time": "2026-07-03 08:14:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券：8月—9月有望成為銅概念股錯殺修復的主要視窗】國金證券研報稱，當前銅概念股處於“低PE、高EPS韌性、商品未證偽”的組合階段，市場仍按過去十年的宏觀殺估值框架定價銅概念股，但本輪有色板塊已經進入EPS驅動週期，銅板塊盈利能力和資源價值重估尚未結束。國金證券判斷，8月—9月有望成為銅概念股錯殺修復的主要視窗，第四季度前後強漲價催化機率進一步上升。建議重點關注資源端權益銅產量高、成本優勢突出、業績對銅價敏感度高、估值處於低位的銅資源企業。"
+    },
+    {
+      "id": "4968453",
+      "time": "2026-07-03 08:14:00",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：宏觀擾動加劇，商品延續分化】中信證券研報指出，2026年6月美伊開始和談並簽約，原油價格大幅回落，但衝突對通脹形成更長期的影響，宏觀擾動加劇。美聯儲是否啟動加息對黃金等貴金屬產生顯著影響。展望三季度，大宗品價格將延續分化。整體我們看好需求端支撐明顯的銅、碳酸鋰、電解鋁、煤炭等。"
+    },
+    {
+      "id": "mkt:019f2553-3b10-7aab-8c86-34782a31bbcf",
+      "time": "2026-07-03 08:13:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: US rate-hike expectations still have room to fall】CITIC Securities says June 2026 US unemployment was 4.2%, below expectations, and nonfarm payrolls also missed. Leisure and hospitality — a May jobs contributor — dragged June nonfarm; unadjusted employment in the sector still rose but weaker-than-normal month-on-month gains produced a negative seasonal adjustment. The unemployment drop was aided by a fall in labor force participation; a sharp one-month decline in 25–54 prime-age participation may be World Cup-related and should not be read as a structural trend. Wage growth remains elevated, implying persistent inflationary pressure. Markets pared rate-hike pricing after the print, but the underlying nonfarm strength is not enough to prompt expectations of materially easier liquidity. CITIC maintains its view that the Fed will hold rates unchanged this year and judges there is still downside risk to market rate-hike expectations."
+    },
+    {
+      "id": "mkt:019f2552-b6aa-7aab-8c86-296b9c49fac1",
+      "time": "2026-07-03 08:13:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【WSJ: Hegseth plan for large cuts to U.S. forces in Europe rejected】The Wall Street Journal reports U.S. Defense Secretary Hegseth planned last month in Brussels to announce cuts to U.S. forces in Europe that would have exceeded earlier moves to cancel an armored brigade deployment to Poland and withdraw an infantry brigade from Romania. Insiders said the proposal was rejected after being submitted to U.S. Secretary of State Rubio and other senior officials. Hegseth instead said the U.S. will conduct a review of troop posture in Europe that could last up to six months."
+    },
+    {
+      "id": "4968452",
+      "time": "2026-07-03 08:13:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：國產算力主線明確，龍頭業績有望加速兌現】中信證券研報指出，2026年6月30日美團釋出首個在五萬卡國產算力叢集上完成全流程訓練與推理的萬億引數模型，當前國產算力系統能力從推理升維至訓練，此外DeepSeekV4正式版在7月中旬釋出後將引入“峰谷定價”機制，高峰API呼叫價格將翻倍，國產算力供給約束仍在加強。我們認為現階段國產算力訂單清晰度顯著增強，未來具備客戶訂單及產能優先分配權的設計公司有望率先受益。我們繼續全面看好國產算力產業鏈，從稀缺的先進製程能力到百花齊放的設計公司，到超節點均會迎來放量機會，同時先進製程、先進封裝、先進儲存以及配套產業鏈有望迎來強勁增長動能。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607033792588163",
+      "time": "2026-07-03 08:13:01",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【中信證券：非農超預期走弱 市場加息預期下修】中信證券研報指出，2026年6月美國失業率4.2%，低於預期，新增非農就業人數也低於預期。5月為主要貢獻的休閒酒店業在6月成為非農資料的拖累，不過該行業非季調就業仍在增加，因環比增幅弱於往年同期體現為季調後負增長。失業率下降受到勞動參與率回落影響，25-54歲壯年勞動力參與率單月大幅下滑或與世界盃因素有關，我們認為不應理解為趨勢變化。"
+    },
+    {
+      "id": "4968451",
+      "time": "2026-07-03 08:12:44",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰證券：6月非農超預期下行暫緩美聯儲短期加息壓力】華泰證券研報稱，6月美國新增非農不及預期，主要是由於此前受到Memorial day提前以及世界盃提振的休閒酒店、地方政府就業大幅回落；分行業看，服務和政府部門新增非農就業均明顯放緩，商品部門則小幅回升。6月非農報告緩解市場對美國就業市場過熱風險的擔憂，領先指標指示未來數月就業水平位於0—5萬均衡水平附近，維持美聯儲下半年保持利率不變、明年可能需要加息的觀點。"
+    },
+    {
+      "id": "4968450",
+      "time": "2026-07-03 08:12:20",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：美國市場加息預期仍有下修空間】中信證券研報指出，2026年6月美國失業率4.2%，低於預期，新增非農就業人數也低於預期。5月為主要貢獻的休閒酒店業在6月成為非農資料的拖累，不過該行業非季調就業仍在增加，因環比增幅弱於往年同期體現為季調後負增長。失業率下降受到勞動參與率回落影響，25-54歲壯年勞動力參與率單月大幅下滑或與世界盃因素有關，我們認為不應理解為趨勢變化。薪資增速仍然較高，對應通脹粘性依然存在。資料釋出後，市場下修加息定價，但本質不弱的非農資料並不足以讓市場轉向流動性明顯寬鬆的預期。我們維持年內美聯儲維持利率不變的判斷，認為市場加息預期仍有下修空間。"
+    },
+    {
+      "id": "te:markets:563911",
+      "time": "2026-07-03 08:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains on Weak US Jobs Data — Silver held around $61 an ounce on Friday after jumping more than 3% in the previous session, underpinned by weaker-than-expected US jobs data that prompted traders to scale back bets on Federal Reserve rate hikes. The US economy added just 57,000 jobs in June, the fewest in four months and well below forecasts of 110,000, while the unemployment rate stood at 4.2%. That followed a report on Wednesday showing private-sector job growth also came in below expectations. Fed funds futures now imply roughly a 50% chance of a September rate hike, down from 67% before the latest employment data. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability. Meanwhile, gold drew additional support from lower oil prices and easing inflation concerns as commercial shipping through the Strait of Hormuz continued to recover amid progress in US-Iran talks."
+    },
     {
       "id": "mkt:019f2550-e9b2-7aab-8c86-26b1e6b58157",
       "time": "2026-07-03 08:11:27",
