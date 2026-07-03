@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-03 23:57:34",
-  "count": 13518,
+  "updated": "2026-07-04 00:02:13",
+  "count": 13516,
   "items": [
+    {
+      "id": "4970004",
+      "time": "2026-07-03 23:58:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【經歷跌宕起伏的上半年 小型對沖基金回報領先多策略基金】在經歷了第一季度的劇烈波動後，隨著近幾個月市場全面回暖，股票策略和事件驅動策略成為對沖基金上半年業績表現最好的投資策略。據知情人士透露，截至6月底的六個月，CastleKnight和Melqart旗下 Opportunities基金分別上漲42.3%和29.1%。與此同時，專注亞洲的股票基金TAL China Focus和Keystone同期分別取得95.1%和62.7%的回報。\n在大型多策略對沖基金中，Citadel旗下Wellington基金6月份上漲1.8%，今年以來累計回報達到5.7%；Millennium Management 6月份上漲4.1%，推動上半年累計收益達到10.5%。Qube Research & Technologies旗下Torus基金6月份上漲7.8%，使今年前六個月累計回報達到18.6%。"
+    },
+    {
+      "id": "te:markets:564206",
+      "time": "2026-07-03 23:57:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rises to Record High — The DAX 40 rose 0.9% on Friday, breaking above the 25,800 mark to set another record high and extend gains for a fourth straight session. Market sentiment remained positive, supported by fading expectations of further monetary tightening, optimism about the German reform package and hopes that the conflict in the Middle East could be resolved. Utilities, techs, autos, banks and industrials were the top performing sectors. Among the biggest gainers were E.ON (+4.2%) and Siemens (+2.6%) after Kepler Cheuvreux upgraded the stock to \"Hold\" from \"Reduce\". GEA added 1.9% after RBC upgraded the stock to \"Outperform\" from \"Sector Perform.\" On the downside, Rheinmetall fell 2.3%, as the defense group assessed the impact of the German government's decision to cancel the F126 frigate project. The company warned that the revenue hit could reach up to €300 million this year unless mitigating measures are implemented. The index advanced 4.7% in the week."
+    },
     {
       "id": "mkt:019f28b2-4580-7aab-8c99-5136f22979c5",
       "time": "2026-07-03 23:56:39",
@@ -124454,42 +124474,6 @@
         "其他"
       ],
       "text": "加拿大航空：韓亞航空將於 2026 年 12 月 16 日退出星空聯盟。"
-    },
-    {
-      "id": "4957841",
-      "time": "2026-06-27 00:01:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：美伊衝突帶來壓力，但不會顛覆全球信用前景。"
-    },
-    {
-      "id": "te:markets:562302",
-      "time": "2026-06-26 23:59:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Tech Selloff Resumes — The CAC 40 fell 0.5% to close at 8,385 on Friday, as renewed selling pressure in technology stocks weighed on risk appetite amid persistent concerns over elevated AI-driven valuations. While Micron earnings offered some reassurance on underlying AI demand, reports that OpenAI may delay its IPO until 2027, along with indications that Apple and Microsoft are considering price increases for some products, added to uncertainty around the sector. STMicroelectronics fell 3.8%. TotalEnergies lost 1.3% as oil prices declined on easing supply concerns, with more tankers leaving the Strait of Hormuz. This came despite Iran reaffirming its control over shipping in the Strait and warning Gulf states against siding with the US, a day after an attack on a vessel near Oman. Industrial stocks also traded lower, with Airbus down 1.6% and Safran shedding 3.2%, as investors also assessed reports that the company is evaluating a potential acquisition of Exail Technologies."
-    },
-    {
-      "id": "4957840",
-      "time": "2026-06-26 23:59:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大外長：已與土方商討推進雙邊經貿關係，其中包括未來自貿協定相關事宜。"
-    },
-    {
-      "id": "4957839",
-      "time": "2026-06-26 23:58:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統新聞秘書佩斯科夫： 普京與盧卡申科在瓦爾代的會晤結束後，二人並無計劃向媒體發表宣告，也不會簽署任何檔案。"
     }
   ]
 }
