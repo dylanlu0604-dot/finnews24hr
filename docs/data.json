@@ -1,7 +1,142 @@
 {
-  "updated": "2026-07-03 14:06:42",
-  "count": 13844,
+  "updated": "2026-07-03 14:10:41",
+  "count": 13851,
   "items": [
+    {
+      "id": "4969013",
+      "time": "2026-07-03 14:09:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指<.STI>一度上漲0.5%，觸及5,241.99點的紀錄高位。"
+    },
+    {
+      "id": "4969012",
+      "time": "2026-07-03 14:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國衛生部長：6月熱浪期間全法至少出現2025例超額死亡】當地時間7月3日，法國衛生部長斯特凡妮·里斯特表示，根據法國公共衛生署的初步統計，6月18日至28日熱浪期間，法國全國至少出現2025例超額死亡。里斯特表示，目前這一數字仍為初步統計結果，尚未彙總全部地區資料，最終評估結果將在今年夏季結束後公佈。（央視新聞）"
+    },
+    {
+      "id": "4969011",
+      "time": "2026-07-03 14:09:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電機：截至2040年將在釜山投資15萬億韓元，用於建設人工智慧資料中心封裝基板與多層瓷介電容器（MLCC）母生產線。"
+    },
+    {
+      "id": "4969010",
+      "time": "2026-07-03 14:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "現代汽車：將在韓國向自動駕駛出行、汽車零部件生產、製造業人工智慧以及航空航天領域投資42萬億韓元。"
+    },
+    {
+      "id": "4969009",
+      "time": "2026-07-03 14:09:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓元收復跌幅，韓國市場靜待海力士外匯資金流入。"
+    },
+    {
+      "id": "mkt:019f2698-1c22-7aab-8c8c-af5a02f196b0",
+      "time": "2026-07-03 14:08:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor equipment sector rebounded in the afternoon; Yitang shares jumped over 8%, while Huafeng Measurement & Control, Zhongwei (AMEC), Changchuan Technology, Xianfeng Jingke and Shengmei Shanghai also advanced."
+    },
+    {
+      "id": "mkt:019f2697-abad-7aab-8c8c-a54a783766b6",
+      "time": "2026-07-03 14:08:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukraine reports 30 dead after strikes on Kyiv】Ukraine's State Emergency Service said on July 3 that deaths from Russia's large-scale strikes on Kyiv on July 2 have risen to 30."
+    },
+    {
+      "id": "4969008",
+      "time": "2026-07-03 14:07:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭襲已致30死】烏克蘭國家緊急情況服務局3日通報稱，7月2日俄羅斯對基輔發動的大規模襲擊造成的死亡人數已上升至30人。2日下午，在達爾尼茨基區遇襲現場，烏國家緊急情況局發言人表示，基輔市已投入130套裝置和500名救援人員在全市39處遇襲地點展開救援。基輔市市長克利奇科在社交媒體發文稱，基輔市這次同時遭到彈道導彈、巡航導彈和無人機襲擊，10個區遭波及，其中達爾尼茨基區一棟居民樓受損最嚴重，部分樓體坍塌。（央視新聞）"
+    },
+    {
+      "id": "4969007",
+      "time": "2026-07-03 14:07:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【半導體裝置板塊震盪回升】半導體裝置板塊震盪回升，早盤板塊指數一度跌超4%，屹唐股份漲超8%，華峰測控、中微公司、長川科技、先鋒精科、盛美上海跟漲。"
+    },
+    {
+      "id": "4969006",
+      "time": "2026-07-03 14:07:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將馬士基評級從賣出上調至中性，並將目標股價從13000丹麥克朗上調至16000丹麥克朗。"
+    },
+    {
+      "id": "4969005",
+      "time": "2026-07-03 14:07:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報8454.40點。"
+    },
+    {
+      "id": "4969004",
+      "time": "2026-07-03 14:06:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲2%至275.53點。"
+    },
+    {
+      "id": "4969003",
+      "time": "2026-07-03 14:06:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【預告：上海市政府新聞辦就2026世界人工智慧大會籌備進展情況舉行新聞釋出會】據上海市人民政府新聞辦公室訊息，2026世界人工智慧大會暨人工智慧全球治理高階別會議將於7月17日至20日在上海舉行。上海市政府新聞辦定於7月7日（星期二）上午10:00舉行新聞釋出會，邀請市領導及外交部、國家發展改革委、工業和資訊化部、市經濟資訊化委、東浩蘭生集團等相關負責人出席，介紹大會籌備進展情況，並回答記者提問。"
+    },
+    {
+      "id": "4969002",
+      "time": "2026-07-03 14:06:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美國勞工資料減輕美聯儲加息壓力】駿利亨德森投資的Bradford Smith在一份報告中寫道，美國6月份就業報告減輕了美聯儲在近期加息的一些壓力。該基金經理指出，話雖如此，美聯儲主席凱文·沃什在其首次新聞釋出會上評論稱，就業資料只有在第三次修正後才變得有意義，而到那時就成了“歷史的回聲“。Smith說，在油價漲幅有所緩和的背景下，就業方面的一些疲軟可能會讓美聯儲按兵不動，至少在下一次會議上是這樣。美國經濟6月份新增5.7萬個就業崗位，少於分析師預期的11.5萬個。"
+    },
+    {
+      "id": "mkt:019f2695-b78d-7aab-8c8c-9b3b0adbfdf8",
+      "time": "2026-07-03 14:06:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean authorities said they will prepare for foreign exchange inflows from SK Hynix ADRs."
+    },
     {
       "id": "te:economy:564022",
       "time": "2026-07-03 14:05:53",
@@ -127436,81 +127571,6 @@
         "Importance 1"
       ],
       "text": "Sweden Household Lending Growth Edges Up to 3.1% — The annual growth rate of lending to Swedish households edged up to 3.1% in May 2026 from 3.0% in April, marking its highest level since January 2023. Housing loans, which accounted for 83% of total household lending, grew by 3.2%, while consumer loans, representing around 6% of household lending, increased by 1.6%. Lending to non-financial corporations also accelerated to 3.3% from 3.1% in the previous month. Meanwhile, mortgage borrowing costs eased, with the average floating housing loan rate declining to 2.78% from 2.81%, while the average fixed rate on new housing loans with maturities between one and five years fell to 3.25% from 3.29%. The average interest rate on new mortgage agreements also decreased to 2.83% from 2.88%. On the funding side, household deposits rose to SEK 2,967 billion, with 74% held in demand accounts, amounting to SEK 2,208 billion."
-    },
-    {
-      "id": "4956565",
-      "time": "2026-06-26 14:10:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高溫致醫療系統承壓 巴黎實施臨時禁酒令】法國巴黎警方25日釋出公告說，於26日至28日的指定時段在巴黎的公共場所實施臨時禁酒令，以期少給因高溫天氣承壓的當地醫療和應急系統“添麻煩”。（新華社）"
-    },
-    {
-      "id": "mkt:019f028c-4786-7dd8-b12e-cf75a20b41b2",
-      "time": "2026-06-26 14:09:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela earthquake kills two Spaniards, 80 missing】Spain's foreign ministry said on the 26th that a strong earthquake in Venezuela killed two Spanish nationals and left 80 Spaniards missing."
-    },
-    {
-      "id": "4956564",
-      "time": "2026-06-26 14:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "西班牙外交部26日說，委內瑞拉強震已造成2名西班牙人死亡，80名西班牙人失蹤。（新華社）"
-    },
-    {
-      "id": "4956563",
-      "time": "2026-06-26 14:08:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【無視反對 美政府推進對土耳其戰機引擎軍售】美國政府日前被曝已正式通知國會，計劃向土耳其出售數十臺戰鬥機引擎，這筆軍售總額超過7億美元。此舉遭到部分國會民主黨籍議員反對。據路透社25日報道，美國國務院在24日晚些時候遞交國會的通知中說：“美國政府已準備好為這些戰機引擎的出口發放許可證，並已綜合考慮政治、軍事、經濟、人權及軍控等因素。”（新華社）"
-    },
-    {
-      "id": "te:economy:562107",
-      "time": "2026-06-26 14:08:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Swedish Producer Inflation Hits Highest Since 2023 — Producer prices in Sweden increased 6.6% year-on-year in May 2026, accelerating from a 4.7% rise in the previous month. It was the third consecutive month of increases and the sharpest rise since February 2023, largely driven by persistently higher energy costs (32.7% vs 27.0% in April). Excluding energy-related products, producer prices rose 2.7%, accelerating from a 1.4% increase in the previous month. On a monthly basis, producer prices increased 1.3% in May, following a 1.1% gain in April."
-    },
-    {
-      "id": "4956562",
-      "time": "2026-06-26 14:08:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大華繼顯：泰國住宅房地產行業面臨供應成本和需求逆風】大華繼顯的分析師在一份研究報告中表示，泰國住宅房地產行業可能正面臨供應端成本壓力和需求端逆風。大華繼顯的分析師表示，供應端成本壓力是由建築材料成本激增驅動的，預計從第二季度起，這將壓縮在建工程的毛利率。至於需求端逆風，房貸拒批率依然居高不下，迫使開發商提供激進的價格促銷以清空製成品庫存。該經紀機構維持對該板塊的中性評級。該機構看好AP (Thailand)，對其給予買入評級，目標價為8.50泰銖。該股上漲0.7%，報7.20泰銖。"
-    },
-    {
-      "id": "4956561",
-      "time": "2026-06-26 14:08:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "20號膠連續主力合約日內跌5%，現報14135.00元。"
-    },
-    {
-      "id": "mkt:019f028a-cdfd-7dd8-b12e-c491a6c3b19a",
-      "time": "2026-06-26 14:07:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "JP Morgan said that even if a peace agreement holds, the Iran conflict will continue to affect market conditions across EMEA (Europe, Middle East and Africa)."
     }
   ]
 }
