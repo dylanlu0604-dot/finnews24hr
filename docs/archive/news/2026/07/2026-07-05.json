@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 37,
+  "count": 38,
   "items": [
+    {
+      "id": "mkt:019f2e20-2ee6-7aab-8c9e-024ad44eaf69",
+      "time": "2026-07-05 01:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time."
+    },
     {
       "id": "mkt:019f2e1e-9440-7aab-8c9d-fa483bd17518",
       "time": "2026-07-05 01:13:03",

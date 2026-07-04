@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 01:13:55",
+  "updated": "2026-07-05 01:17:52",
   "count": 13236,
   "items": [
+    {
+      "id": "mkt:019f2e20-2ee6-7aab-8c9e-024ad44eaf69",
+      "time": "2026-07-05 01:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time."
+    },
     {
       "id": "mkt:019f2e1e-9440-7aab-8c9d-fa483bd17518",
       "time": "2026-07-05 01:13:03",
@@ -121811,19 +121819,6 @@
         "MKT News"
       ],
       "text": "【Pakistan security forces kill 5 militants】Pakistani security forces foiled an attack on a paramilitary headquarters in Karachi on the night of the 27th and killed five suspected militants at the scene, police said."
-    },
-    {
-      "id": "mkt:019f0a13-24a9-7dd8-b143-1bbf0967866d",
-      "time": "2026-06-28 01:14:14",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Israeli Broadcasting Corporation, citing sources, says Israel's military plans to withdraw tomorrow from two experimental areas in southern Lebanon."
     }
   ]
 }
