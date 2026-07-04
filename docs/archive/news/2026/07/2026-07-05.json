@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 61,
+  "count": 63,
   "items": [
+    {
+      "id": "mkt:019f2e52-a73c-7aab-8c9e-76438f8322db",
+      "time": "2026-07-05 02:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the \"security zone\" in southern Lebanon."
+    },
+    {
+      "id": "4970563",
+      "time": "2026-07-05 02:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）"
+    },
     {
       "id": "4970562",
       "time": "2026-07-05 02:04:32",

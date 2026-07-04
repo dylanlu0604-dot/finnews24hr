@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 02:09:11",
-  "count": 13234,
+  "updated": "2026-07-05 02:13:07",
+  "count": 13233,
   "items": [
+    {
+      "id": "mkt:019f2e52-a73c-7aab-8c9e-76438f8322db",
+      "time": "2026-07-05 02:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the \"security zone\" in southern Lebanon."
+    },
+    {
+      "id": "4970563",
+      "time": "2026-07-05 02:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）"
+    },
     {
       "id": "4970562",
       "time": "2026-07-05 02:04:32",
@@ -121789,30 +121805,6 @@
         "國際"
       ],
       "text": "【以軍稱打死哈馬斯精銳部隊“努赫巴”一指揮官】當地時間27日，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，以軍已於兩天前打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）精銳部隊“努赫巴”的一名指揮官瓦利德·哈尼亞。據以軍通報，瓦利德·哈尼亞是哈馬斯前政治局領導人伊斯梅爾·哈尼亞的侄子。哈馬斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4958566",
-      "time": "2026-06-28 02:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列擁有行動自由，意味著會針對一切威脅採取行動，近幾周已擊斃200名恐怖分子。"
-    },
-    {
-      "id": "4958565",
-      "time": "2026-06-28 02:11:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相在與沙特外交大臣通話時表示，必須避免該地區遭受無端襲擊帶來的連鎖負面影響。"
-    },
-    {
-      "id": "mkt:019f0a47-98f8-7dd8-b143-4d34f6d1991c",
-      "time": "2026-06-28 02:11:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Hezbollah has lost 90% of its rocket stockpile."
     }
   ]
 }
