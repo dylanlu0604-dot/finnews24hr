@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 05:54:44",
-  "count": 13240,
+  "updated": "2026-07-05 05:58:37",
+  "count": 13238,
   "items": [
+    {
+      "id": "mkt:019f2f21-fd4b-7aab-8c9f-fe295a54e9c1",
+      "time": "2026-07-05 05:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Paul Pelosi, husband of former US House Speaker Nancy Pelosi, struck a parked vehicle in Napa County, California, and is facing hit-and-run charges."
+    },
     {
       "id": "mkt:019f2f1c-4c43-7aab-8c9f-f0854de1d255",
       "time": "2026-07-05 05:50:11",
@@ -121838,30 +121846,6 @@
         "Impact mixed"
       ],
       "text": "Fox News reported US forces carried out a new round of strikes against Iran that were larger in scale than last night’s operation. US and Bahraini forces shot down nine Iranian drones headed toward US troops in Bahrain."
-    },
-    {
-      "id": "4958630",
-      "time": "2026-06-28 05:58:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "福克斯新聞：美軍當前對伊朗的打擊規模大於昨晚的行動。美軍與巴林部隊擊落了9架飛向駐巴林美軍的伊朗無人機。"
-    },
-    {
-      "id": "4958629",
-      "time": "2026-06-28 05:57:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗錫裡克縣再傳出兩聲爆炸巨響，爆炸起因目前尚不明確。"
-    },
-    {
-      "id": "4958628",
-      "time": "2026-06-28 05:57:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "航班追蹤平臺 Flightradar24 不久前監測到霍爾木茲海峽附近出現大量美國空軍軍機活動跡象：在美國對伊朗實施空襲後，至少有 4 架 KC-135 “同溫層加油機” 與 3 架 KC-46A “飛馬” 加油機處於執勤狀態。"
     }
   ]
 }

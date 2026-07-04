@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 162,
+  "count": 163,
   "items": [
+    {
+      "id": "mkt:019f2f21-fd4b-7aab-8c9f-fe295a54e9c1",
+      "time": "2026-07-05 05:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Paul Pelosi, husband of former US House Speaker Nancy Pelosi, struck a parked vehicle in Napa County, California, and is facing hit-and-run charges."
+    },
     {
       "id": "mkt:019f2f1c-4c43-7aab-8c9f-f0854de1d255",
       "time": "2026-07-05 05:50:11",
