@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 112,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:019f2eb2-1cbb-7aab-8c9f-2baff2448382",
+      "time": "2026-07-05 03:54:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon minister says some 400,000 war-displaced have returned to homes in the south】A Lebanese minister said some 400,000 people displaced by fighting have returned to homes in southern Lebanon. The minister said southern areas were previously affected by hostilities and many residents fled; as the security situation has eased, returns are under way and follow-up resettlement measures are being implemented."
+    },
+    {
+      "id": "mkt:019f2eb0-c004-7aab-8c9f-22728727d506",
+      "time": "2026-07-05 03:52:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanese envoy meets Iran foreign minister to discuss regional situation】On the 4th, Nabih Berri’s special envoy Khalil Hamdan met Iran Foreign Minister Araghchi in Tehran. Hamdan praised Iran’s principled stance on Lebanon’s territorial integrity and sovereignty and highlighted Iran’s role in pushing to halt Israeli aggression. Araghchi commended Lebanese resilience to Israeli military threats, credited Berri with keeping Lebanon’s political factions united against external interference, and reiterated Iran’s position that Israel’s aggression must end and Israeli forces must fully withdraw from Lebanese territory."
+    },
     {
       "id": "4970592",
       "time": "2026-07-05 03:49:35",
