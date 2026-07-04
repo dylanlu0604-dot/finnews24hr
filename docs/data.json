@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-05 02:41:44",
-  "count": 13224,
+  "updated": "2026-07-05 02:45:39",
+  "count": 13223,
   "items": [
+    {
+      "id": "mkt:019f2e71-9f4d-7aab-8c9e-bac2e8a5a87b",
+      "time": "2026-07-05 02:43:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Military expert: Putin betting on attrition to wear down Ukraine and the West】US Marine veteran and geopolitical analyst Brian Berletic says Russia, leveraging a large industrial base and the ability to sustain trained forces, is pursuing a war of attrition intended to exhaust Ukraine and its Western backers. He says Russia can strike expensive, hard-to-replace Western-supplied equipment and target industrial facilities, command centers and dual-use infrastructure, degrading Ukraine faster than Ukraine or its Western supporters can replenish personnel, equipment and ammunition. To date, he adds, Western production capacity and the scale of Ukrainian drone strikes have not matched Russia."
+    },
     {
       "id": "mkt:019f2e6e-94b4-7aab-8c9e-b4d394f5ec1a",
       "time": "2026-07-05 02:40:26",
@@ -121700,26 +121712,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：由美國斡旋達成的以黎框架協議釋放了明確訊號，伊朗與真主黨不得參與黎巴嫩未來的安全部署，這份協議重創了德黑蘭在該地區的影響力。"
-    },
-    {
-      "id": "mkt:019f0a63-7662-7dd8-b143-9db1768a0692",
-      "time": "2026-06-28 02:41:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he will send a delegation to Washington to clarify Israel's position on the U.S.-Iran agreement."
-    },
-    {
-      "id": "mkt:019f0a63-4d1d-7dd8-b143-90bd786b140b",
-      "time": "2026-06-28 02:41:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said a two-state solution will be impossible to achieve under any government he leads."
     }
   ]
 }
