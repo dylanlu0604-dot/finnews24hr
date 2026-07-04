@@ -1,7 +1,39 @@
 {
   "date": "2026-07-05",
-  "count": 39,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:019f2e33-5dee-7aab-8c9e-0ab5485ddbe2",
+      "time": "2026-07-05 01:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon."
+    },
+    {
+      "id": "4970556",
+      "time": "2026-07-05 01:35:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣重回63000美元關口。"
+    },
+    {
+      "id": "4970555",
+      "time": "2026-07-05 01:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。"
+    },
+    {
+      "id": "4970554",
+      "time": "2026-07-05 01:34:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。"
+    },
     {
       "id": "4970553",
       "time": "2026-07-05 01:17:36",
@@ -181,12 +213,28 @@
       "text": "特朗普與內塔尼亞胡或最早於下週舉行會晤。"
     },
     {
+      "id": "mkt:019f2e34-a957-7aab-8c9e-1aefdefd024f",
+      "time": "2026-07-05 00:39:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision."
+    },
+    {
       "id": "4970537",
       "time": "2026-07-05 00:30:50",
       "tags": [
         "其他"
       ],
       "text": "市場資訊：金融資料企業基本打消了市場對於人工智慧工具將取代自身的擔憂。如今投資者關心的是，當人工智慧智慧體消耗的資料量遠超人類分析師時，誰來承擔資料呼叫的計費成本。"
+    },
+    {
+      "id": "mkt:019f2e34-a91c-7aab-8c9e-16c45e7a2202",
+      "time": "2026-07-05 00:30:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【European Parliament proposes deregistering EU group affiliated with German far-right Choice party】The European Parliament is considering a proposal that could strip the EU parliamentary group led by Germany's far-right Choice party, \"Sovereign States of Europe,\" of its registration and EU funding for alleged breaches of EU core values."
     },
     {
       "id": "4970536",
