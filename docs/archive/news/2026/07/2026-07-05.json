@@ -1,7 +1,21 @@
 {
   "date": "2026-07-05",
-  "count": 101,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:019f2e93-7cc4-7aab-8c9f-0d2f49cf6fe2",
+      "time": "2026-07-05 03:20:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An Axios reporter said a Netanyahu visit to the White House would be his first meeting with Trump since a dramatic February Situation Room session in which he presented a plan to go to war with Iran."
+    },
     {
       "id": "4970583",
       "time": "2026-07-05 03:20:03",

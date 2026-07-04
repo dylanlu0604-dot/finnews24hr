@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-05 03:20:53",
-  "count": 13234,
+  "updated": "2026-07-05 03:24:44",
+  "count": 13233,
   "items": [
+    {
+      "id": "mkt:019f2e93-7cc4-7aab-8c9f-0d2f49cf6fe2",
+      "time": "2026-07-05 03:20:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An Axios reporter said a Netanyahu visit to the White House would be his first meeting with Trump since a dramatic February Situation Room session in which he presented a plan to go to war with Iran."
+    },
     {
       "id": "4970583",
       "time": "2026-07-05 03:20:03",
@@ -121786,22 +121800,6 @@
         "國際"
       ],
       "text": "歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。"
-    },
-    {
-      "id": "mkt:1bf2579b-b578-45cd-a438-9cbab0c82fc8",
-      "time": "2026-06-28 03:21:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli official says Israel will respond strongly if HEZBOLLAH attacks】On the 27th an Israeli security official said Israel is on high alert for a possible near-term HEZBOLLAH attack aimed at scuttling the newly signed Israel-Lebanon framework agreement and vowed a severe and forceful response to any strike. Earlier HEZBOLLAH deputy leader Naim Qassem denounced the US-Israel-Lebanon framework agreement as invalid."
-    },
-    {
-      "id": "4958590",
-      "time": "2026-06-28 03:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以官員：若黎真主黨發動攻擊 將進行強烈回應】當地時間27日，以色列安全官員稱，以方目前正嚴陣以待，以防備黎巴嫩真主黨近期可能對以色列發動攻擊，破壞以黎最新簽署的框架協議。以色列方面稱，將對黎真主黨的任何襲擊作出“嚴厲且強烈的回應”。當天稍早時，黎巴嫩真主黨領導人納伊姆·卡西姆曾譴責美國、以色列和黎巴嫩達成的框架協議，認為該協議無效。（央視新聞）"
     }
   ]
 }
