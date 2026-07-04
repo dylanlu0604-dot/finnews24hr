@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-05 00:11:40",
-  "count": 13235,
+  "updated": "2026-07-05 00:15:41",
+  "count": 13237,
   "items": [
+    {
+      "id": "4970533",
+      "time": "2026-07-05 00:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏大規模互襲 俄軍稱控制多個居民點】據俄羅斯和烏克蘭方面訊息，3日晚至4日凌晨，俄烏軍隊針對對方目標發動大規模襲擊。俄軍稱，在哈爾科夫州控制的居民點增加了4個。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。（新華社）"
+    },
+    {
+      "id": "mkt:019f2de6-c0f8-7aab-8c9d-bb46576ae1d6",
+      "time": "2026-07-05 00:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian drones continue destroying Ukrainian military fuel infrastructure】Operators of the \"Geranium-4\" drone destroyed a fuel storage facility in Ukraine's Kharkiv region, a depot previously used to supply Ukrainian forces."
+    },
+    {
+      "id": "4970532",
+      "time": "2026-07-05 00:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普賬戶（Trump Accounts）正式上線。"
+    },
+    {
+      "id": "mkt:019f2de5-da72-7aab-8c9d-b3df7a872420",
+      "time": "2026-07-05 00:11:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury announced it has activated full functionality for President Trump's account and app."
+    },
     {
       "id": "mkt:019f2de3-e070-7aab-8c9d-a93ded8bc59d",
       "time": "2026-07-05 00:08:56",
@@ -121817,26 +121849,6 @@
         "國際"
       ],
       "text": "【伊朗革命衛隊最高領袖代表：革命衛隊隨時準備在各領域執行最高領袖的任何命令】伊朗革命衛隊最高領袖代表阿卜杜拉·哈吉薩德吉於週六表示，革命衛隊所有分支隨時準備在各領域執行最高領袖哈梅內伊下達的任何命令。哈吉薩德吉稱：“革命衛隊全軍，包括空天軍、海軍、陸軍、聖城旅以及巴斯基民兵，全部嚴陣以待、隨時待命，準備執行穆傑塔巴在任何領域下達的一切指令。”他表示，抵抗與堅定立場始終是伊朗的首要選擇，談判並非其主要途徑。他補充道，即便伊朗開啟談判，陷入焦灼被動的也只會是敵方。"
-    },
-    {
-      "id": "mkt:019f09da-f7fe-7dd8-b142-cc602a7773b4",
-      "time": "2026-06-28 00:12:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's defense minister Katz said if Iran obstructs implementation of the agreement, Israel will retaliate; the Israel Defense Forces will prepare for a long-term deployment in the Lebanese security zone."
-    },
-    {
-      "id": "4958524",
-      "time": "2026-06-28 00:11:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列防長卡茨：以色列國防軍將做好長期駐守黎巴嫩安全區的準備。"
     }
   ]
 }

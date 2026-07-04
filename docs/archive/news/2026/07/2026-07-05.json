@@ -1,7 +1,39 @@
 {
   "date": "2026-07-05",
-  "count": 8,
+  "count": 12,
   "items": [
+    {
+      "id": "4970533",
+      "time": "2026-07-05 00:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏大規模互襲 俄軍稱控制多個居民點】據俄羅斯和烏克蘭方面訊息，3日晚至4日凌晨，俄烏軍隊針對對方目標發動大規模襲擊。俄軍稱，在哈爾科夫州控制的居民點增加了4個。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。（新華社）"
+    },
+    {
+      "id": "mkt:019f2de6-c0f8-7aab-8c9d-bb46576ae1d6",
+      "time": "2026-07-05 00:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian drones continue destroying Ukrainian military fuel infrastructure】Operators of the \"Geranium-4\" drone destroyed a fuel storage facility in Ukraine's Kharkiv region, a depot previously used to supply Ukrainian forces."
+    },
+    {
+      "id": "4970532",
+      "time": "2026-07-05 00:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普賬戶（Trump Accounts）正式上線。"
+    },
+    {
+      "id": "mkt:019f2de5-da72-7aab-8c9d-b3df7a872420",
+      "time": "2026-07-05 00:11:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury announced it has activated full functionality for President Trump's account and app."
+    },
     {
       "id": "mkt:019f2de3-e070-7aab-8c9d-a93ded8bc59d",
       "time": "2026-07-05 00:08:56",
