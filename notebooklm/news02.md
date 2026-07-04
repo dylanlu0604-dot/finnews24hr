@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-05 02:37:52_
-_本檔包含 2867 則快訊，約 505683 字_
+_更新時間：2026-07-05 03:49:13_
+_本檔包含 2866 則快訊，約 505904 字_
+
+---
+
+### 2026-07-03 11:11:18  #MKT News
+
+President Trump said it is absurd for the US to continue making one-sided contributions when the US–NATO relationship is fundamentally unequal and lacks reciprocity, and that NATO did not support the US then.
+
+---
+
+### 2026-07-03 11:09:47  #市場 #國際
+
+泰國SET指數一度上漲1%至1610.06點。
+
+---
+
+### 2026-07-03 11:09:11  #公司
+
+【華誼兄弟電影公司新增三則被執行人資訊，執行標的合計1406萬元】中國執行資訊公開網顯示，7月1日，華誼兄弟電影有限公司新增三則被執行人資訊，執行標的合計1406萬餘元，執行法院均為北京市朝陽區人民法院。該公司成立於2015年12月，法定代表人為王忠磊，註冊資本1億人民幣，經營範圍包括電影、網路劇製作、發行等，由華誼兄弟傳媒股份有限公司全資持股。
+
+---
+
+### 2026-07-03 11:08:47  #其他
+
+澳大利亞新南威爾士州確認首例H5型禽流感病例。
+
+---
+
+### 2026-07-03 11:07:46  #其他
+
+【教育部：不得以“夏令營”等名義變相組織考試】從教育部獲悉，《關於做好2026年中小學、幼兒園暑期安全工作的通知》於近日印發，要求各地各校嚴控暑期作業總量，堅決杜絕用手機佈置作業、要求學生利用手機完成作業或要求家長檢查批改作業等現象，嚴禁在暑期及假期前後組織面向學生的區域性、校際性統一考試或測驗，不得以“夏令營”“研學”等名義變相組織考試或測試。
+
+---
+
+### 2026-07-03 11:07:23  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
+
+STAR 50 Index recovered from intraday lows, rising over 2% on the day after earlier dropping nearly 2%.
+
+---
+
+### 2026-07-03 11:06:35  #市場 #焦點
+
+科創50日內漲幅達2％，成分股中，晶合整合漲7.8％，傳音控股漲7.6％，國博電子漲7.5％，源傑科技漲5.5％。
+
+---
+
+### 2026-07-03 11:05:50  #公司
+
+【博騰雙載荷ADC IND成功交付】據博騰股份訊息，近期，博騰一站式蛋白與偶聯藥物CDMO平臺成功完成雙載荷ADC工藝開發與GMP IND臨床樣品全流程交付，涵蓋Payload-Linker、抗體、ADC研發、生產等核心環節，完整落地從工藝研發到註冊樣品放行全流程服務。此次雙載荷ADC IND臨床樣品的成功交付，充分驗證了博騰平臺在複雜偶聯藥物領域的技術實力。
+
+---
+
+### 2026-07-03 11:05:41  #其他
+
+【AI催熱Micro LED光互連：2027年商用預期升溫】在慕尼黑上海電子展上，思特威新一代高速光互連方案首次亮相，其高速光互連BG聯席總經理王文軒透露：“Micro LED高速光互連方案有望在2027年商用落地。”隨著大模型對資料中心傳輸速率的需求激增，傳統銅纜在頻寬、功耗和傳輸距離上已顯疲態，“光進銅退”已成為必然趨勢。然而，在光互連從板級向晶片間深入的過程中，傳統的鐳射光源方案因不耐高溫等物理特性限制，難以在極短距離內直接整合。因此，在CPO光源中，除了主流的矽光整合方案和VCSEL（垂直腔面發射鐳射器）方案外，Micro LED作為一種新興的光互連光源正異軍突起。（21財經）
+
+---
+
+### 2026-07-03 11:03:30  #市場
+
+截止11:03，兩市100只個股漲停。
+
+---
+
+### 2026-07-03 11:02:33  #公司 #市場
+
+【銅箔/覆銅板概念震盪反彈，諾德股份漲停】銅箔/覆銅板概念震盪反彈，諾德股份漲停，德福科技、方邦股份、生益科技、宏和科技、寶鼎科技、海星股份等跟漲。
+
+---
+
+### 2026-07-03 11:02:27  #市場
+
+國華退盤中漲停，上演“地天板”，成交額超170萬元。
+
+---
+
+### 2026-07-03 10:59:33  #央行 #中國央行
+
+【央行6月公開市場國債買賣淨投放100億元】中國人民銀行日前公佈的2026年6月份各項工具流動性投放情況顯示，當月，公開市場國債買賣淨投放100億元。
+
+---
+
+### 2026-07-03 10:57:41  #央行 #市場
+
+【央行6月公開市場國債買賣淨投放100億元】中國人民銀行日前公佈的2026年6月份各項工具流動性投放情況顯示，當月，公開市場國債買賣淨投放100億元。據統計，今年前6個月，公開市場國債買賣淨投放累計3000億元。中國人民銀行釋出的2026年第一季度貨幣政策執行報告稱，今年以來，中國人民銀行常態化開展國債買賣操作，根據基礎貨幣投放需要和債券市場執行情況，靈活調整操作規模。6月投放情況還顯示，當月，中期借貸便利（MLF）淨投放2000億元，其他結構性貨幣政策工具淨回籠1372億元。此外，7天期逆回購淨投放5826億元，其他期限逆回購淨投放3000億元。（新華社）
+
+---
+
+### 2026-07-03 10:57:30  #國際
+
+特朗普在社交媒體帖子中重申北約“不會幫助我們”。
+
+---
+
+### 2026-07-03 10:57:25  #國際
+
+特朗普談與北約關係：美國繼續走單方面路線是荒謬的。
+
+---
+
+### 2026-07-03 10:56:46  #市場 #焦點
+
+國華退盤中漲停，上演“地天板”，現報0.45元，成交額178.38萬元。
+
+---
+
+### 2026-07-03 10:56:12  #公司
+
+【博威合金：Rubin微通道液冷材料已經驗證成功 等待放量】博威合金近日接受機構調研時表示，公司液冷材料在AI伺服器領域主要包含兩類產品，分別為液冷板材料與液冷電力銅材。Rubin微通道液冷材料已經驗證成功，等待放量，液冷板以公司供應的銅材為核心原材料，由下游廠商負責深加工成型；液冷電力銅材主要應用於高功率伺服器的供配電系統。
+
+---
+
+### 2026-07-03 10:56:04  #公司
+
+阿達尼企業將股份配售規模增至15.7億美元。
+
+---
+
+### 2026-07-03 10:54:58  #其他
+
+【上半年上海口岸出入境人員達2112.6萬人次】上海邊檢總站訊息，2026年上半年，上海邊檢機關累計查驗出入境人員達2112.6萬人次，出入境（港）交通工具14.6萬架（艘）次，其中，入境外籍旅客316.6萬人次，同比增長22%。隨著暑運大幕拉開，浦東國際機場口岸7月1日單日出境中國旅客3.3萬人次，創近兩個月峰值。
+
+---
+
+### 2026-07-03 10:54:33  #Trading Economics #Economy #Vietnam #Foreign Direct Investment #Importance 1
+
+FDI Into Vietnam Rises 11.2% in the First Half of 2026 — Foreign direct investment (FDI) disbursed in Vietnam increased 11.2% year-on-year to USD 13.03 billion in January–June 2026, marking the highest level of FDI implementation for the first six months of the year in at least 18 years. During the period, Vietnam recorded 94 newly licensed overseas investment projects, totaling USD 820.3 million, 2.3 times higher than in the previous year. Additionally, there were 15 projects with adjusted capital, which rose by USD 388.9 million, three times the level recorded a year earlier. Overall, total overseas investment, including both new and adjusted capital, reached USD 1.21 billion, 2.5 times higher than the same period last year. Meanwhile, total registered foreign investment in Vietnam, including newly registered capital, adjusted registered capital, and capital contributions and share purchases by foreign investors, amounted to USD 34.65 billion in June, up 61.0% from a year ago.
+
+---
+
+### 2026-07-03 10:54:32  #Trading Economics #Economy #Vietnam #Tourist Arrivals #Importance 1
+
+Vietnam Tourist Arrivals Hit 9-Month Low — International arrivals to Vietnam rose 14.7% year-on-year to a nine-month low of 1.68 million in June 2026, easing from 16.5% in the previous month. Even so, growth remained broad-based across key source markets. Visitors from Asia, Vietnam's largest tourism market, increased 8.2%, driven by growth from China (9.1%), Japan (15.6%), Malaysia (34.9%), Thailand (20.1%), and Singapore (32.3%). Arrivals from the Americas climbed 14.5%, supported by stronger visitor numbers from the United States (14.0%) and Canada (21.7%). Meanwhile, arrivals from Europe surged 67.4%, led by a sharp increase in visitors from Russia (151.1%), alongside gains from the United Kingdom (13.3%), France (18.5%), and Germany (23.4%). Visitor numbers from Australia rose 26.7%, while arrivals from Africa increased 28.4%. In the first six months of 2026, international arrivals to Vietnam totaled 12.25 million, up 14.9% from the same period a year earlier.
+
+---
+
+### 2026-07-03 10:54:25  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-07-03 10:53:31  #公司
+
+【歐克科技增資至約1.3億 增幅40%】天眼查 App 顯示，近日，歐克科技（001223）發生工商變更，註冊資本由9335.2萬人民幣增至約1.3億人民幣，增幅40%。該公司成立於2011年8月，法定代表人為胡甫晟，經營範圍包括機械裝置研發、專用裝置製造、製漿和造紙專用裝置製造、包裝專用裝置製造等。
+
+---
+
+### 2026-07-03 10:53:04  #市場 #焦點
+
+科創50日內漲幅達1.00%，成分股中，傳音控股漲7.91%，國博電子漲7.17%，晶合整合漲6.67%，源傑科技漲5.49%。
+
+---
+
+### 2026-07-03 10:52:29  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報8573.20點。
+
+---
+
+### 2026-07-03 10:50:29  #公司 #市場
+
+PCB概念探底回升，天山電子20CM漲停，深南電路、中國巨石漲停，景旺電子、滬電股份、大族鐳射、南亞新材跟漲。
+
+---
+
+### 2026-07-03 10:50:18  #市場 #國際
+
+【貝森特稱汽油價格下跌略顯遲滯，預計9月初降至每加侖3美元】美國財長貝森特當地時間週四晚間接受採訪時稱：“汽油價格在下跌時略顯遲滯。”“我們正試圖給汽油零售商們一點壓力。我們告訴他們，我們正在密切關注他們，”貝森特說。他說：“在為消費者做些什麼這一點上，我們從一些大型零售商那裡得到了積極響應。”貝森特表示，希望到勞工節（9月7日）時美國汽油均價能降至每加侖3美元。他預計石油和能源價格將繼續回落。
+
+---
+
+### 2026-07-03 10:49:47  #市場
+
+富時中國A50指數期貨漲幅擴大至2%。
+
+---
+
+### 2026-07-03 10:49:36  #公司
+
+【歐克科技增資至約1.3億，增幅40%】天眼查App顯示，7月1日，歐克科技（001223）發生工商變更，註冊資本由9335.2萬人民幣增至約1.3億人民幣，增幅40%。該公司成立於2011年8月，法定代表人為胡甫晟，經營範圍包括機械裝置研發、專用裝置製造、製漿和造紙專用裝置製造、包裝專用裝置製造等。
 
 ---
 
@@ -17093,191 +17273,5 @@ Germany's coalition government says implementation timelines for power grid proj
 ### 2026-07-02 15:06:36  #宏觀 #其他 #焦點
 
 【商務部：中歐於今秋舉行貿易投資磋商機制第二次例會】商務部新聞發言人何亞東在2日舉行的例行新聞釋出會上介紹中歐貿易投資磋商機制首次會議情況時說，中歐貿易投資磋商機制是中歐在經貿領域新建立的常態化交流機制，雙方商定每年舉行1至2次部長級會議。中方已邀請歐盟委員會貿易和經濟安全委員謝夫喬維奇於今年秋季訪華，舉行磋商機制的第二次例會。何亞東介紹，首次會議期間，雙方重點討論從三個領域著手，推動貿易向上平衡，而不是向下平衡：一是新興領域，雙方將努力擴大在AI和綠色轉型等領域合作；二是潛在領域，雙方將深入挖掘服務貿易等領域合作潛力；三是問題領域，雙方將透過市場準入磋商，推動彼此關切得到逐步解決。雙方就中歐經貿關係的新定位達成共識，即穩定、平衡的中歐關鍵貿易伙伴。這有助於改善廣大中歐企業的預期，為中歐乃至全球經濟發展注入更多確定性和正能量。（新華社）
-
----
-
-### 2026-07-02 15:06:32  #MKT News #Important
-
-MOFCOM said China and the EU will hold the second regular meeting of the China-EU Trade and Investment Dialogue this autumn.
-
----
-
-### 2026-07-02 15:06:08  #國際
-
-【韓國化妝品上半年出口額70億美元 創歷年同期新高】據韓國食品醫藥品安全處2日釋出的初步統計，今年上半年韓國化妝品出口額同比增加27.3%，為70億美元，創下歷年同期最高紀錄。以上半年為準，化妝品出口額2022年至2024年連續三年保持在40多億美元水平，去年增至55億美元，今年擴大至70億美元。今年第二季度化妝品出口額環比增加25.8%，為39億美元。
-
----
-
-### 2026-07-02 15:06:07  #MKT News
-
-EU High Representative Kallas says EU staff in Kyiv have been confirmed safe.
-
----
-
-### 2026-07-02 15:05:55  #其他
-
-【新石器與途虎養車深化戰略合作】7月2日訊息，新石器無人車與途虎養車在2025年5月首次戰略合作基礎上，於7月1日宣佈進一步在維修配件倉儲服務、常規輪保、動力電池、三電維修、底盤等深度維修專案上展開進一步合作。根據此次合作升級的核心內容，雙方將共同建設全國智慧電動車維保網路。
-
----
-
-### 2026-07-02 15:05:38  #公司
-
-【潤澤科技：公司REITs擴募事項進展順利，正處於相關部門稽核階段】潤澤科技7月2日在互動平臺表示，公司REITs擴募事項進展順利，正處於相關部門稽核階段。
-
----
-
-### 2026-07-02 15:05:25  #公司 #國際
-
-通用汽車有限責任公司將在美國召回14,540輛汽車。
-
----
-
-### 2026-07-02 15:05:22  #MKT News #Important #Commodities #Precious Metals #CSI300 #Impact bearish #SZSE Component #XAUUSD #Impact bullish
-
-【Close: STAR 50 Index plunges 7.7%; compute-hardware sector sells off】A-shares closed sharply lower as the STAR 50 Index plunged 7.7% and the compute-hardware sector led declines. The ChiNext Index fell 5.71% after sliding as much as 6% near the close; Shanghai Composite dropped 2.03% and Shenzhen Composite fell 3.85%. Turnover on Shanghai and Shenzhen topped 3.4 trillion yuan, with nearly 3,000 stocks down. Sector action: precious metals outperformed and Hainan-related shares rose; innovative-drug names spiked midday; rare-earth permanent magnets eased in the afternoon. Compute-hardware sub-sectors, including storage chips and CPO, remained under pressure.
-
----
-
-### 2026-07-02 15:05:00  #MKT News #DAX #Impact bullish #EURUSD
-
-Documents show funding for Germany's tax reform will come mainly from adjustments to the wealth tax.
-
----
-
-### 2026-07-02 15:04:59  #公司 #市場
-
-PureTech股價上漲5.2%，此前其子公司完成融資，用於推進特發性肺纖維化新藥的研發。
-
----
-
-### 2026-07-02 15:04:46  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European bourses opened mixed on Thursday July 2: Germany's DAX 30 opened down 63.90 pts (-0.25%) at 25,005.21; Britain's FTSE 100 opened down 21.04 pts (-0.20%) at 10,457.30; France's CAC 40 opened up 9.97 pts (+0.12%) at 8,347.26; Euro Stoxx 50 opened down 13.05 pts (-0.21%) at 6,269.45; Spain's IBEX 35 opened down 0.47 pts (0.00%) at 19,406.13; Italy's FTSE MIB opened down 4.06 pts (-0.01%) at 51,600.50.
-
----
-
-### 2026-07-02 15:04:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-Documents show Germany's coalition government plans to provide €10 billion a year in tax cuts.
-
----
-
-### 2026-07-02 15:04:27  #公司
-
-萊茵金屬公司：合同總範圍涵蓋交付四套完整的“天空網”（SKYNET）防空系統，總執行週期為39個月。
-
----
-
-### 2026-07-02 15:04:19  #國際
-
-德國將實施歐盟供應鏈指令。
-
----
-
-### 2026-07-02 15:04:08  #公司
-
-萊茵金屬股份公司：其先進的Skynex防空系統斬獲一份大額國際訂單。
-
----
-
-### 2026-07-02 15:03:45  #公司
-
-【杭臺高鐵溫玉段開始試執行】記者從中國鐵路上海局集團有限公司獲悉，2日，隨著首趟試執行列車G55301次從浙江溫嶺站開出，沿著新建杭臺高鐵溫嶺至玉環段（杭臺高鐵溫玉段）駛向玉環站方向，杭臺高鐵溫玉段建設進入試執行階段，預計7月底具備開通運營條件。（新華社）
-
----
-
-### 2026-07-02 15:03:17  #其他
-
-德國將裁減聯邦政府8%的人員。
-
----
-
-### 2026-07-02 15:02:50  #國際
-
-歐盟卡拉斯：身處基輔的歐盟工作人員均已確認行蹤安全。
-
----
-
-### 2026-07-02 15:02:38  #公司
-
-諾基亞：比利時Orange公司選擇諾基亞升級光網路，為其基礎設施築牢未來競爭力，確保滿足5G領先地位、抗量子安全與AI級算力需求。
-
----
-
-### 2026-07-02 15:02:37  #其他
-
-【中國移動聯合中天鋼鐵釋出首個“5G+AI+新型工業控制”工廠創新成果】據人民郵電報，6月30日，在2026工業網際網路大會期間，中國移動聯合中天鋼鐵釋出全國首個“5G+AI+新型工業控制”工廠創新實踐成果。5G-A應用穩定承載4000套生產裝置，融合雲化PLC（可程式設計邏輯控制器）部署，探索新型工業控制路線，推動資料、模型及AI的應用閉環，助力行業數智化轉型升級。
-
----
-
-### 2026-07-02 15:02:28  #公司
-
-沃爾沃汽車：第二季度電氣化車型佔總銷量的52%。
-
----
-
-### 2026-07-02 15:02:21  #其他
-
-一份檔案顯示，德國執政聯盟計劃每年推出規模達100億歐元的減稅措施。
-
----
-
-### 2026-07-02 15:02:11  #公司 #國際
-
-沃爾沃汽車表示，其最大市場歐洲的純電動汽車增長勢頭令其感到鼓舞。
-
----
-
-### 2026-07-02 15:02:01  #市場 #焦點 #A股
-
-【收評：創業板指低開低走跌5.71%，算力硬體、晶片股集體調整】市場全天震盪調整，三大指數集體下挫。貴金屬板塊逆勢大漲，招金黃金、赤峰黃金漲停。海南自貿區集體走強，海馬汽車、欣龍控股等漲停。創新藥概念反覆活躍，石藥景峰、京新藥業等漲停。下跌方面，算力硬體股大幅調整，劍橋科技、華工科技等跌停；半導體晶片股下挫，兆易創新、長電科技等跌停。個股跌多漲少，滬深京三市約3200股飄綠，今日成交3.47萬億。截止收盤滬指跌2.03%，深成指跌3.85%，創業板指跌5.71%。
-
----
-
-### 2026-07-02 15:01:51  #國際
-
-俄羅斯國防部訊息：俄軍打擊基輔，多處核心軍工企業遭命中。
-
----
-
-### 2026-07-02 15:01:16  #公司
-
-【郭明錤：亞馬遜消費電子產品轉向自研處理器最佳化成本結構】分析師郭明錤表示，亞馬遜為備戰持續的AI基建浪潮計劃自研消費電子產品處理器，以圖降低晶片成本，為AI投資留出足夠資金。亞馬遜的自由現金流在2026年Q1僅有12億美元上下。亞馬遜計劃從2027年起逐步採用類似AI伺服器晶片Trainium的COT（客戶自有工具）模式開發所需處理器，並由世芯負責後端設計與測試，預計完全轉換後年出貨量可達4000萬顆。
-
----
-
-### 2026-07-02 15:01:02  #市場
-
-【ETF收評：創新藥ETF領漲8.18%，科創半導體ETF領跌11.25%】ETF收盤漲跌不一，創新藥ETF（517120）領漲8.18%，黃金股ETF（517400）漲6.03%，黃金股ETF（159321）漲4.94%，科創半導體ETF（588170）領跌11.25%，科創半導體裝置ETF（588710）跌10.49%，科創半導體裝置ETF（589020）跌10.33%。
-
----
-
-### 2026-07-02 15:01:02  #市場 #焦點
-
-A股收盤，上證指數跌2.03%，深證成指跌3.85%，創業板指跌5.71%。
-
----
-
-### 2026-07-02 15:01:00  #公司 #國際
-
-【印度對華4-溴甲基-2’-氰基聯苯作出反傾銷肯定性終裁】6月24日，印度商工部發布公告稱，對原產於或進口自中國的4-溴甲基-2’-氰基聯苯作出反傾銷肯定性終裁，建議徵收為期5年的反傾銷稅，稅額為5089－6305美元/噸，其中鹽城市東港藥業發展有限公司為5089美元/噸，臨海市華南化工有限公司為5500美元/噸，浙江天宇藥業股份有限公司為5440美元/噸，中國其他生產商為6305美元/噸。
-
----
-
-### 2026-07-02 15:00:26  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Rebounds Amid Intervention Fears — The Japanese yen jumped nearly 1% toward 161 per dollar on Thursday before trimming its gains, rebounding from four-decade lows as traders stayed on high alert for possible currency intervention. The move followed a Reuters report that Japan may stop signaling its intervention plans in advance, unlike before the April 30 operation, with the new approach potentially proving more effective in catching traders off guard and unwinding speculative bets against the yen. The yen also found some support after Federal Reserve Chair Kevin Warsh said US inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. Meanwhile, investors remain skeptical that the Bank of Japan will accelerate policy tightening as it continues its gradual normalization path, with persistent carry trades and the still-wide interest rate differential between Japan and the US continuing to weigh on the currency.
-
----
-
-### 2026-07-02 15:00:03  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌1.82%， 滬深300指數期貨連續跌2.23%， 中證500指數期貨連續跌2.62%， 上證50指數期貨連續跌2.02%。
-
----
-
-### 2026-07-02 15:00:03  #市場
-
-歐股開盤漲跌不一，德國DAX指數漲0.18%，英國富時100指數跌0.18%，法國CAC40指數跌0.79%，歐洲斯托克50指數跌0.72%，義大利富時MIB指數跌0.15%。
 
 ---

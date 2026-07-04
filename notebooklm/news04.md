@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 02:37:52_
-_本檔包含 2476 則快訊，約 505699 字_
+_更新時間：2026-07-05 03:49:13_
+_本檔包含 2490 則快訊，約 505743 字_
+
+---
+
+### 2026-07-01 17:26:46  #公司 #市場
+
+【北汽藍谷：子公司6月汽車銷量同比增長152.54%】北汽藍谷(600733)7月1日公告，子公司北京新能源汽車股份有限公司6月份汽車銷量30282輛，同比增長152.54%。本年累計銷量98895輛，同比增長47.27%。
+
+---
+
+### 2026-07-01 17:26:34  #公司
+
+【ST東時：涉訴金額4115.86萬元 一審判決結果待上訴確定】ST東時公告稱，公司作為被告的一起金融借款合同糾紛一審已判決，需向盛京銀行北京分行償還本金3750.56萬元、截至2025年7月9日的罰息342.37萬元及後續罰息，東方時尚投資、徐雄承擔連帶保證責任。案件尚在上訴期，結果存在不確定性。截至公告披露日，公司及子公司連續十二個月內新增3起訴訟，涉本金286.18萬元。此外，公司預重整及股票是否被實施退市風險警示均存在不確定性。
+
+---
+
+### 2026-07-01 17:26:27  #公司
+
+【*ST大立：撤銷退市風險警示申請處於補充材料階段】*ST大立公告稱，公司於2026年3月26日向深交所提交撤銷退市風險警示的申請。截至公告披露日，該申請處於補充材料階段，公司正按要求推進後續工作。補充材料期間不計入深交所作出決定的期限。公司申請能否獲批尚不確定，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 17:26:18  #公司
+
+【東誠藥業：截至6月底已耗資1.00億元回購0.90%股份】東誠藥業公告稱，截至2026年6月30日，公司以集中競價方式回購股份7,399,499股，佔總股本的0.90%，最高成交價15.27元/股，最低成交價12.15元/股，支付資金總額1.00億元（不含交易費用）。公司於2025年12月31日透過回購股份方案，回購資金不低於1億元、不超2億元，回購期限不超12個月，回購股份用於股權激勵和/或員工持股計劃。
+
+---
+
+### 2026-07-01 17:25:52  #MKT News #Market Regions #Europe & UK
+
+【French drought threatens sugar beet crop; no near-term rain expected】Head of France's sugar beet growers' association (CGB) said France, the EU's largest beet producer, faces persistent drought that threatens beet yields. Météo‑France forecasts no rain for the Paris region and northern beet-growing plains at least until July 14. Concerns over European beet crops, combined with El Niño, have pushed sugar prices higher; white sugar hit a 9.5-month high on Wednesday. Earlier this year, ample supply drove sugar to a five-plus-year low, squeezing sugar producers' margins.
+
+---
+
+### 2026-07-01 17:25:48  #公司
+
+【東方鐵塔：2026年上半年淨利潤預增81.87%-106.19%】東方鐵塔公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為8.97億-10.17億元，同比增長81.87%-106.19%。扣除非經常性損益後的淨利潤為8.82億-10.02億元，同比增長83.83%-108.84%。業績提升主要因雙主業生產基地穩定生產，產銷量保持穩定，且產品氯化鉀、溴化鈉等市場銷售價格均價同比提升，盈利能力顯著增強。
+
+---
+
+### 2026-07-01 17:25:43  #市場 #國際
+
+【法國乾旱恐令甜菜作物恐受損 短期內或無降雨緩解災情】法國甜菜種植者協會（CGB）負責人表示，作為歐盟最大的甜菜生產國，法國正面臨長期乾旱對甜菜產量的威脅；法國氣象局預計，至少在7月14日之前，巴黎周邊及法國北部的甜菜種植平原地區都不會有降雨。對歐洲甜菜作物的擔憂，疊加厄爾尼諾天氣模式的影響，推動了糖市場的價格上漲，白糖價格週三觸及九個半月以來的高點。此前，由於供應充足，糖價曾在今年早些時候跌至五年多來的最低水平，從而擠壓了糖企的利潤。
+
+---
+
+### 2026-07-01 17:25:39  #公司
+
+【東鵬控股：公司及子公司取得3項發明專利證書】東鵬控股公告稱，公司及控股子公司近日取得國家智慧財產權局頒發的3項發明專利證書，分別為“一種耐水瓷磚膠”“一種粉料處理劑、環保瓷磚粘結材料及其製備方法”“坯用釉漿、製備方法、一種防火花陶瓷及其用途和瓷磚”。截至公告披露日，公司及控股子公司累計取得各型別專利2621項，現有各型別有效專利1291項。這些專利已在公司生產中應用或即將應用，有利於提升公司核心競爭力。
+
+---
+
+### 2026-07-01 17:25:32  #公司 #市場
+
+【通鼎互聯：股票連續三日跌幅偏離值累計超20% 提示多項風險】通鼎互聯公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於異常波動情形。經核實，公司前期資訊無需更正補充，未發現未公開重大資訊，經營正常。同時提示，光纖產品價格波動、復產擴產、市場供需、概念泛化、光棒擴產收益等存在不確定性和風險，公司控股股東及實控人未買賣公司股票，不存在應披露未披露事項。
+
+---
+
+### 2026-07-01 17:25:14  #公司
+
+【百聯股份：預計1-2億元回購股份 截至6月底尚未實施】百聯股份公告稱，公司於2026年6月17日透過以集中競價交易方式回購股份的議案，預計回購金額1-2億元，回購價格不超12.33元/股，回購股份用於減少公司註冊資本，回購期限為12個月。截至2026年6月30日，公司已完成回購專用證券賬戶的開立，尚未開始實施回購A股股份。
+
+---
+
+### 2026-07-01 17:24:58  #市場
+
+【Aegon投資經理Lynch：英國國債市場目前暫時對伯納姆“網開一面”】Aegon Asset Management的投資經理James Lynch表示，英國國債市場目前並未因安迪·伯納姆在經濟政策上缺乏明確性而感到擔憂。伯納姆被認為是最有可能接替基爾·斯塔默出任英國首相的人選。Lynch表示，“目前，英國國債市場對伯納姆算是網開一面。市場並沒有因為圍繞他的不確定性而作出明顯反應。我認為，這是因為他幾次提到將尊重財政規則。”Lynch認為，伯納姆週一在曼徹斯特發表的重要演講雖然展現出一種‘準首相’的姿態，但缺乏具體的政策細節。他說，目前自己超配短期限英國國債，並補充稱，與短期國債相比，長期英國國債的收益率仍有進一步上升的空間。投資者之所以情緒趨於穩定，是因為市場看到一些跡象表明，伯納姆可能會繼續遵守財政大臣裡夫斯所倡導的、由政府自行設定的借款和支出限制。對英國國債市場而言，下一次真正的考驗可能是在伯納姆任命新的財政大臣並公佈其上任後的首份財政預算案時。屆時，政府將詳細說明打算如何為其政策和支出計劃提供資金。巴克萊首席市場策略師Julien Lafargue表示，如果英國國債再次遭遇拋售，反而可能是一個買入機會。
+
+---
+
+### 2026-07-01 17:24:56  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+RIA reported the Russian Defence Ministry said Russian forces had taken control of two additional settlements in Ukraine.
+
+---
+
+### 2026-07-01 17:24:30  #國際
+
+俄羅斯國防部：俄軍在烏克蘭再控制兩處定居點。
+
+---
+
+### 2026-07-01 17:23:29  #公司
+
+【晨光生物：持股5%以上股東一致行動人李月齋質押185萬股】晨光生物公告稱，公司近日得知持股5%以上股東盧慶國股份權益變動一致行動人李月齋，將185萬股（佔其所持股份比例11.52%，佔公司總股本比例0.38%）質押給國泰海通證券，質押起始日為2026年6月26日，為前期融資補充質押。截至公告披露日，相關股東及其一致行動人累計質押股份5039萬股，佔總股本10.43%，質押業務正常履約，無平倉風險，對公司無影響。
+
+---
+
+### 2026-07-01 17:23:11  #其他
+
+【兒童正快速接受人工智慧】聯合國兒童基金會6月30日釋出宣告稱，兒童正在快速接受人工智慧。透過對10個國家最新資料的分析，兒基會估計，全球至少有2000萬兒童已經使用過人工智慧，許多兒童接受人工智慧的速度要比成年人快三倍以上。全球越來越多兒童開始使用人工智慧，但包括對兒童保護措施在內的人工智慧治理規則尚未跟上。兒童更容易接觸到人工智慧系統，但缺乏足夠能力迴避或質疑這些系統。在這10個國家當中，三分之一受訪兒童擔心人工智慧被用於詐騙或傳播虛假資訊，四分之一的兒童擔心自己的影象或影片被篡改成不雅內容。（CCTV國際時訊）
+
+---
+
+### 2026-07-01 17:22:40  #公司
+
+【鐵流股份：控股股東德薩集團擬減持不超過2%股份】鐵流股份公告，控股股東杭州德薩實業集團有限公司（簡稱德薩集團）持有公司股份8596.18萬股，佔公司總股本36.90%。德薩集團計劃自本公告披露日起15個交易日後的3個月內（即2026年7月23日至2026年10月22日），透過大宗交易方式減持不超過465.97萬股，佔其所持股份的5.42%，佔公司總股本的2.00%。若減持期間公司發生送股、資本公積金轉增股本等股份變動事項，減持數量將相應調整。減持原因為股東自身資金需求。
+
+---
+
+### 2026-07-01 17:22:30  #公司
+
+【中炬高新：累計回購1655.88萬股 金額達3.10億元】中炬高新公告稱，公司於2025年12月29日董事會、2026年1月19日股東會審議透過回購議案，計劃用3億-6億元自有資金及銀行專項貸款，以不超26元/股回購股份用於登出減資，實施期至2027年1月18日。截至2026年6月底，累計回購1655.88萬股，佔總股本2.14%，支付總金額30999.76萬元，回購價17.25-19.95元/股。
+
+---
+
+### 2026-07-01 17:21:58  #MKT News #Important #WTI #Impact mixed #Brent
+
+Refinitiv: A senior Iranian official said indirect talks with the U.S. that began Tuesday evening in Doha are ongoing. The negotiations are focused on the release of Tehran’s funds and issues related to the Strait of Hormuz.
+
+---
+
+### 2026-07-01 17:21:51  #公司 #市場
+
+【領先股份：股票交易異常波動 2025年淨虧損4659.98萬元】領先股份公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，不存在應披露未披露重大事項，未發現媒體報道、市場傳聞及熱點概念影響股價。2025年公司淨虧損4659.98萬元，連續3個交易日累計換手率32.24%，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 17:21:47  #公司 #市場
+
+【波長光電：股票交易連續兩日異常波動 不存在應披露未披露事項】波長光電公告稱，公司股票連續2個交易日（2026年6月30日、7月1日）收盤價格漲幅偏離值累計達31.12%，屬異常波動。經核實，公司前期披露資訊無需更正補充，近期經營及內外部環境無重大變化，公司及控股股東、實控人不存在應披露未披露事項及籌劃階段重大事項，異動期間控股股東、實控人無買賣公司股票行為。公司提醒投資者理性投資，注意風險。
 
 ---
 
@@ -14911,41 +15031,5 @@ Serbia Retail Sales Picks Up — Real retail sales in Serbia rose by 6.2% from t
 ### 2026-06-30 18:09:19  #Trading Economics #Economy #Macedonia #Retail Sales YoY #Importance 1
 
 North Macedonia Retail Sales Growth Quickens — North Macedonia's retail sales rose 7.3% year-on-year in May 2026, accelerating from 2.1% in April. The strongest growth came from automotive fuel sales, which surged 36.2% after a 14.7% increase in the previous month. Retail sales excluding fuel rose 6.0%, slightly easing from 6.2%. Sales of food, beverages and tobacco accelerated to 15.0% from 9.1%, while non-food sales excluding fuel fell 3.6%, reversing a 1.6% increase in April.
-
----
-
-### 2026-06-30 18:08:42  #Trading Economics #Economy #Sri Lanka #Inflation Rate #Importance 1
-
-Sri Lanka Inflation Rate Rises to 3-Year High — The inflation rate in Colombo, Sri Lanka’s capital, rose to 6.8% in June 2026 from 5.5% in the previous month, above market expectations of 5.8%. This marked the highest reading since June 2023, as food inflation accelerated to a one-year high of 3.6% from 0.9% in May. Additionally, non-food prices rose 8.4% from 7.8%, lifted by cost increases in furnishing and equipment (4.5% vs. 3.9%) and transport (18.7% vs. 13.9%). Meanwhile, inflation eased for alcoholic beverages and tobacco (1.7% vs. 3.0%), clothing and footwear (1.3% vs. 1.7%), housing and utilities (6.3% vs. 6.9%), and communication (0.3% vs. 1.0%). On a monthly basis, consumer prices increased 2.1% in June, accelerating from a 0.9% rise in the previous month.
-
----
-
-### 2026-06-30 18:07:47  #Trading Economics #Economy #Ireland #Harmonised Inflation Rate YoY #Importance 1
-
-Ireland Harmonized Inflation Softens — The EU-harmonised inflation rate in Ireland softened to 3.3% in June of 2026 from 3.5% in the previous month, according to a flash estimate. It was the softest inflation rate since February of this year, before the war in Iran drove militaries to blockade the Strait of Hormuz and trigger a global energy shock. Energy prices are expected to have rise 10% annually, slowing from the 11.9% surge in May's preliminary estimate. Also, food costs for households are expected to have gained 0.7%, slowing from 1.4% previously. Core inflation in the EU-harmonised aggregation was at 2.6%. From the previous month, the Irish HICP advanced 0.3%.
-
----
-
-### 2026-06-30 18:07:12  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Near Seven-Month Low as Political Uncertainty Weighs — The pound traded around $1.32, close to a seven-month low, as investors remained cautious while awaiting news on the new Treasury leader to replace Rachel Reeves. Andy Burnham, the frontrunner to succeed UK Prime Minister Keir Starmer, who announced his resignation last week, pledged fiscal discipline on Monday. He also vowed to devolve fiscal powers from Westminster to local authorities if elected but offered no further details or potential ministerial appointments, stating he would announce them only after the Labour leadership contest concludes. Sterling was on track for a monthly decline of over 1.5% against the USD, pressured by political uncertainty, a stronger dollar, and shifting rate expectations following the US-Iran ceasefire. With the Strait of Hormuz reopened, oil prices and inflation forecasts have fallen, reducing bets on Bank of England rate hikes, while the US Federal Reserve’s hawkish stance continues to support expectations of US rate increases.
-
----
-
-### 2026-06-30 18:01:41  #Trading Economics #Economy #Croatia #Current Account #Importance 1
-
-Croatia Current Account Deficit Widens in Q1 — The current account deficit of Croatia widened to EUR 3,411 million in the first quarter of 2026 from EUR 3,277 million in the corresponding period of the previous year. The goods account deficit increased to EUR 4,920 million from EUR 4,834 million in the first quarter of 2025. At the same time, the primary income account surplus narrowed to EUR 163 million from EUR 277 million. Conversely, the services account surplus edged up to EUR 836 million from EUR 834 million, while the secondary income account surplus also increased to EUR 509 million from EUR 446 million.
-
----
-
-### 2026-06-30 17:58:30  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Ease Amid Political Transition — UK 10-year gilt yields fell to 4.71%, near two-month lows, as bond markets remained calm while investors awaited news on the new Treasury leader to replace Rachel Reeves. Markets looked past immediate fiscal concerns tied to a likely Andy Burnham premiership, with the new Chancellor’s identity expected to signal the direction of fiscal and economic policies under the incoming government. Burnham, the sole candidate to succeed Keir Starmer, pledged on Monday to significantly devolve fiscal powers from Westminster to local authorities if elected, while upholding fiscal discipline. Gilt yields were on track for a 9bps monthly decline as investors assessed the impact of the interim US-Iran peace deal and shifting interest rate expectations in both the UK and US. The reopening of the Strait of Hormuz has reduced oil prices and inflation concerns, lowering bets on Bank of England rate hikes, while the US Federal Reserve’s hawkish stance continues to support expectations of US rate increases.
-
----
-
-### 2026-06-30 17:55:28  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-Stocks in United Kingdom Hit 10-week High — GB100 increased to 10576.00 Index Points, the highest since April 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 2.27%, and in the last 12 months, it increased 20.36%.
 
 ---

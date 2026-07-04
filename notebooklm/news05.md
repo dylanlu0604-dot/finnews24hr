@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 02:37:52_
-_本檔包含 2469 則快訊，約 505703 字_
+_更新時間：2026-07-05 03:49:13_
+_本檔包含 2450 則快訊，約 505309 字_
+
+---
+
+### 2026-06-30 18:08:42  #Trading Economics #Economy #Sri Lanka #Inflation Rate #Importance 1
+
+Sri Lanka Inflation Rate Rises to 3-Year High — The inflation rate in Colombo, Sri Lanka’s capital, rose to 6.8% in June 2026 from 5.5% in the previous month, above market expectations of 5.8%. This marked the highest reading since June 2023, as food inflation accelerated to a one-year high of 3.6% from 0.9% in May. Additionally, non-food prices rose 8.4% from 7.8%, lifted by cost increases in furnishing and equipment (4.5% vs. 3.9%) and transport (18.7% vs. 13.9%). Meanwhile, inflation eased for alcoholic beverages and tobacco (1.7% vs. 3.0%), clothing and footwear (1.3% vs. 1.7%), housing and utilities (6.3% vs. 6.9%), and communication (0.3% vs. 1.0%). On a monthly basis, consumer prices increased 2.1% in June, accelerating from a 0.9% rise in the previous month.
+
+---
+
+### 2026-06-30 18:07:47  #Trading Economics #Economy #Ireland #Harmonised Inflation Rate YoY #Importance 1
+
+Ireland Harmonized Inflation Softens — The EU-harmonised inflation rate in Ireland softened to 3.3% in June of 2026 from 3.5% in the previous month, according to a flash estimate. It was the softest inflation rate since February of this year, before the war in Iran drove militaries to blockade the Strait of Hormuz and trigger a global energy shock. Energy prices are expected to have rise 10% annually, slowing from the 11.9% surge in May's preliminary estimate. Also, food costs for households are expected to have gained 0.7%, slowing from 1.4% previously. Core inflation in the EU-harmonised aggregation was at 2.6%. From the previous month, the Irish HICP advanced 0.3%.
+
+---
+
+### 2026-06-30 18:07:12  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Pound Near Seven-Month Low as Political Uncertainty Weighs — The pound traded around $1.32, close to a seven-month low, as investors remained cautious while awaiting news on the new Treasury leader to replace Rachel Reeves. Andy Burnham, the frontrunner to succeed UK Prime Minister Keir Starmer, who announced his resignation last week, pledged fiscal discipline on Monday. He also vowed to devolve fiscal powers from Westminster to local authorities if elected but offered no further details or potential ministerial appointments, stating he would announce them only after the Labour leadership contest concludes. Sterling was on track for a monthly decline of over 1.5% against the USD, pressured by political uncertainty, a stronger dollar, and shifting rate expectations following the US-Iran ceasefire. With the Strait of Hormuz reopened, oil prices and inflation forecasts have fallen, reducing bets on Bank of England rate hikes, while the US Federal Reserve’s hawkish stance continues to support expectations of US rate increases.
+
+---
+
+### 2026-06-30 18:01:41  #Trading Economics #Economy #Croatia #Current Account #Importance 1
+
+Croatia Current Account Deficit Widens in Q1 — The current account deficit of Croatia widened to EUR 3,411 million in the first quarter of 2026 from EUR 3,277 million in the corresponding period of the previous year. The goods account deficit increased to EUR 4,920 million from EUR 4,834 million in the first quarter of 2025. At the same time, the primary income account surplus narrowed to EUR 163 million from EUR 277 million. Conversely, the services account surplus edged up to EUR 836 million from EUR 834 million, while the secondary income account surplus also increased to EUR 509 million from EUR 446 million.
+
+---
+
+### 2026-06-30 17:58:30  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Ease Amid Political Transition — UK 10-year gilt yields fell to 4.71%, near two-month lows, as bond markets remained calm while investors awaited news on the new Treasury leader to replace Rachel Reeves. Markets looked past immediate fiscal concerns tied to a likely Andy Burnham premiership, with the new Chancellor’s identity expected to signal the direction of fiscal and economic policies under the incoming government. Burnham, the sole candidate to succeed Keir Starmer, pledged on Monday to significantly devolve fiscal powers from Westminster to local authorities if elected, while upholding fiscal discipline. Gilt yields were on track for a 9bps monthly decline as investors assessed the impact of the interim US-Iran peace deal and shifting interest rate expectations in both the UK and US. The reopening of the Strait of Hormuz has reduced oil prices and inflation concerns, lowering bets on Bank of England rate hikes, while the US Federal Reserve’s hawkish stance continues to support expectations of US rate increases.
+
+---
+
+### 2026-06-30 17:55:28  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+Stocks in United Kingdom Hit 10-week High — GB100 increased to 10576.00 Index Points, the highest since April 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 2.27%, and in the last 12 months, it increased 20.36%.
 
 ---
 
@@ -14736,162 +14772,5 @@ Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 2
 ### 2026-06-28 03:51:37  #MKT News
 
 President Trump returned to the White House from his Virginia golf club, MSNow White House reporter said.
-
----
-
-### 2026-06-28 03:48:38  #其他
-
-卡達與沙烏地阿拉伯兩國部長商討地區局勢。
-
----
-
-### 2026-06-28 03:41:49  #國際
-
-伊朗專家會議週六敦促與美方談判的伊朗官員嚴格恪守最高領袖穆傑塔巴劃定的紅線，告誡談判方切勿重蹈此前談判的覆轍，並堅稱伊朗核計劃相關事宜不得納入談判範疇。
-
----
-
-### 2026-06-28 03:39:04  #其他
-
-委內瑞拉附近再次發生4.8級強震。
-
----
-
-### 2026-06-28 03:37:03  #MKT News
-
-Trump nominated Lance Shroyer to be the next director of U.S. Immigration and Customs Enforcement (ICE).
-
----
-
-### 2026-06-28 03:35:36  #國際
-
-特朗普：參議院必須立即確認蘭斯的任命，不要拖延。
-
----
-
-### 2026-06-28 03:35:11  #國際
-
-特朗普提名蘭斯·施羅耶出任美國移民與海關執法局（ICE）下一任局長。
-
----
-
-### 2026-06-28 03:30:00  #MKT News
-
-EMSC reports a magnitude 5.6 earthquake offshore Aragua state, Venezuela.
-
----
-
-### 2026-06-28 03:26:52  #國際
-
-歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。
-
----
-
-### 2026-06-28 03:21:57  #MKT News
-
-【Israeli official says Israel will respond strongly if HEZBOLLAH attacks】On the 27th an Israeli security official said Israel is on high alert for a possible near-term HEZBOLLAH attack aimed at scuttling the newly signed Israel-Lebanon framework agreement and vowed a severe and forceful response to any strike. Earlier HEZBOLLAH deputy leader Naim Qassem denounced the US-Israel-Lebanon framework agreement as invalid.
-
----
-
-### 2026-06-28 03:21:49  #國際
-
-【以官員：若黎真主黨發動攻擊 將進行強烈回應】當地時間27日，以色列安全官員稱，以方目前正嚴陣以待，以防備黎巴嫩真主黨近期可能對以色列發動攻擊，破壞以黎最新簽署的框架協議。以色列方面稱，將對黎真主黨的任何襲擊作出“嚴厲且強烈的回應”。當天稍早時，黎巴嫩真主黨領導人納伊姆·卡西姆曾譴責美國、以色列和黎巴嫩達成的框架協議，認為該協議無效。（央視新聞）
-
----
-
-### 2026-06-28 03:14:17  #MKT News
-
-【Israeli national security minister says Israel-Lebanon framework deal is "a major mistake"】On the 27th, Israeli national security minister Itamar Ben-Gvir said the US-mediated Israel-Lebanon framework agreement is "a major mistake" and demanded Prime Minister Benjamin Netanyahu formally submit the deal to cabinet for a vote. Ben-Gvir said the Lebanese government will not genuinely disarm Hezbollah and that only the Israel Defense Forces can do so.
-
----
-
-### 2026-06-28 03:13:52  #國際
-
-【以國家安全部長：黎以美框架協議是“重大錯誤”】當地時間27日，以色列國家安全部部長本-格維爾發表宣告稱，在美國斡旋下達成的以黎新框架協議是“一個重大錯誤”，要求總理內塔尼亞胡將該協議正式提交內閣進行表決。本-格維爾表示，黎巴嫩政府不會真正解除真主黨的武裝，這一點只有以色列國防軍才能做到。（央視新聞）
-
----
-
-### 2026-06-28 03:11:14  #MKT News
-
-【Czech Republic records highest temperature on record】Local time June 27, Doksany in the Usti nad Labem Region recorded 40.8°C, the highest temperature on record in the Czech Republic.
-
----
-
-### 2026-06-28 03:09:42  #MKT News
-
-Sources: Iranian foreign minister Araghchi will visit Iraq on Sunday.
-
----
-
-### 2026-06-28 03:08:12  #公司 #觀點
-
-摩根大通CEO戴蒙談人工智慧：科技推動人類取得巨大進步，但它也會被壞人濫用，就像飛機、各類藥品都曾被不法利用一樣。在座不少人都有孫輩或子女，待到他們長大，很有可能活到一百歲。而且，我們在座眾人如今所罹患的癌症，有一半到那時將不存在了。
-
----
-
-### 2026-06-28 03:04:45  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
-
-【NETANYAHU says US, Lebanon agree Israel may retain security zone in Lebanon until Hezbollah disarmed】NETANYAHU said at a March 27 press conference the framework agreement with Lebanon is a "historic achievement" that advances ending the bilateral conflict and could lead to a final peace. He said the deal is a major blow to Iran and Hezbollah. The agreement, he said, reflects US and Lebanese assent for Israel to retain a security zone inside Lebanon for a period "as needed" — until Hezbollah and other armed groups are disarmed and Lebanon no longer poses a threat to Israel. As a pilot to hand territory to the Lebanese army and remove Hezbollah control, Israel will withdraw from two small currently held areas: one entirely outside the security zone and one at its edge that Israeli forces no longer need. NETANYAHU said Israel effectively retains all security-zone depth required to defend its northern border.
-
----
-
-### 2026-06-28 03:03:56  #國際
-
-【以總理：以色列保留了北部邊境所需全部“安全區”】當地時間27日，以色列總理內塔尼亞胡召開新聞釋出會，表示以色列與黎巴嫩達成的框架協議是一項“歷史性成就”。該協議推動了結束雙邊衝突的程序，並開啟了“以色列與黎巴嫩最終達成和平協議”的前景。內塔尼亞胡稱，這項協議對伊朗和黎真主黨是“一次重大打擊”。該協議標誌著美國和黎巴嫩已經同意以色列在黎境內保留“安全區”，且保留期限將“視以色列的安全需要而定”，直至黎真主黨和其他武裝組織被解除武裝，黎巴嫩不再對以色列構成威脅。內塔尼亞胡表示，伊朗曾試圖施壓迫使以色列從黎南部撤軍，但他頂住了這一壓力。透過這項協議，以色列、黎巴嫩和美國實際上是在向伊朗明確表態：“這與你們無關。”針對協議中的撤軍條款，內塔尼亞胡稱，作為解除真主黨武裝並向黎巴嫩政府軍移交領土的“試點專案”，以色列將從目前控制的兩個小區域撤軍。其中一個區域完全位於“安全區”之外，另一個則處於安全區邊緣，且已是以軍不再需要控制的地帶。內塔尼亞胡表示，以色列實際上保留了保衛其北部邊境所需的全部“安全區”。（央視新聞）
-
----
-
-### 2026-06-28 02:56:42  #其他
-
-三菱重工將在日美兩國投資燃氣輪機專案，資金超6.18億美元。
-
----
-
-### 2026-06-28 02:56:09  #MKT News
-
-【US media: Trump-Netanyahu contacts have fallen sharply】Politico reports that after U.S. and Israeli strikes on Iran on Feb. 28, Israeli officials briefly viewed the alliance as entering a 'golden era' but four months later are preparing for greater isolation. U.S. Vice President Vance told Israel last week it 'has almost no friends' and warned it not to attack its only remaining powerful ally. Seven sources, including U.S. and Israeli officials, said Vance's remarks reflect a new normal in which Israel's status no longer receives priority treatment from Washington. Tensions are visible: one source said Prime Minister Netanyahu visited Washington five times in 2025 but has made only one trip this year, in February, and phone contact has fallen sharply.
-
----
-
-### 2026-06-28 02:55:31  #國際
-
-【中國裁判將首次參加世界盃淘汰賽執裁工作】新華社美國波士頓6月27日訊息，國際足聯27日宣佈，中國裁判馬寧將在美加墨世界盃32強賽德國隊與巴拉圭隊的比賽中擔任第四官員，周飛將擔任該場比賽候補助理裁判。這將是中國裁判員首次參與世界盃淘汰賽執裁工作。（新華社）
-
----
-
-### 2026-06-28 02:54:19  #國際
-
-以色列總理內塔尼亞胡：伊朗國內爆發了抗議活動，我相信其政權最終將會倒臺。
-
----
-
-### 2026-06-28 02:48:26  #焦點 #國際
-
-以色列總理內塔尼亞胡：由美國斡旋達成的以黎框架協議釋放了明確訊號，伊朗與真主黨不得參與黎巴嫩未來的安全部署，這份協議重創了德黑蘭在該地區的影響力。
-
----
-
-### 2026-06-28 02:41:58  #MKT News
-
-Israeli Prime Minister Netanyahu said he will send a delegation to Washington to clarify Israel's position on the U.S.-Iran agreement.
-
----
-
-### 2026-06-28 02:41:47  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Israeli Prime Minister Netanyahu said a two-state solution will be impossible to achieve under any government he leads.
-
----
-
-### 2026-06-28 02:39:23  #焦點 #國際
-
-以色列總理內塔尼亞胡談以黎框架協議：
-1、將與黎巴嫩達成其他協議；
-2、在我領導的任何政府中，兩國方案將不可能實現；
-3、將以武力應對真主黨試圖違反協議的努力；
-4、伊朗已不再是我們所知的那個伊朗，我們有機會進行新的考驗；
-5、不會接受加沙和黎巴嫩的“零和”局面；
-6、留在黎巴嫩是保障以色列安全的“好解決方案”；
-7、將派遣代表團前往華盛頓，闡明我們對美伊協議的立場。
 
 ---

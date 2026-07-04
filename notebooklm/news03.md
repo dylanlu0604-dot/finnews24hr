@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 02:37:52_
-_本檔包含 3025 則快訊，約 505850 字_
+_更新時間：2026-07-05 03:49:13_
+_本檔包含 3036 則快訊，約 505988 字_
+
+---
+
+### 2026-07-02 15:06:32  #MKT News #Important
+
+MOFCOM said China and the EU will hold the second regular meeting of the China-EU Trade and Investment Dialogue this autumn.
+
+---
+
+### 2026-07-02 15:06:08  #國際
+
+【韓國化妝品上半年出口額70億美元 創歷年同期新高】據韓國食品醫藥品安全處2日釋出的初步統計，今年上半年韓國化妝品出口額同比增加27.3%，為70億美元，創下歷年同期最高紀錄。以上半年為準，化妝品出口額2022年至2024年連續三年保持在40多億美元水平，去年增至55億美元，今年擴大至70億美元。今年第二季度化妝品出口額環比增加25.8%，為39億美元。
+
+---
+
+### 2026-07-02 15:06:07  #MKT News
+
+EU High Representative Kallas says EU staff in Kyiv have been confirmed safe.
+
+---
+
+### 2026-07-02 15:05:55  #其他
+
+【新石器與途虎養車深化戰略合作】7月2日訊息，新石器無人車與途虎養車在2025年5月首次戰略合作基礎上，於7月1日宣佈進一步在維修配件倉儲服務、常規輪保、動力電池、三電維修、底盤等深度維修專案上展開進一步合作。根據此次合作升級的核心內容，雙方將共同建設全國智慧電動車維保網路。
+
+---
+
+### 2026-07-02 15:05:38  #公司
+
+【潤澤科技：公司REITs擴募事項進展順利，正處於相關部門稽核階段】潤澤科技7月2日在互動平臺表示，公司REITs擴募事項進展順利，正處於相關部門稽核階段。
+
+---
+
+### 2026-07-02 15:05:25  #公司 #國際
+
+通用汽車有限責任公司將在美國召回14,540輛汽車。
+
+---
+
+### 2026-07-02 15:05:22  #MKT News #Important #Commodities #Precious Metals #CSI300 #Impact bearish #SZSE Component #XAUUSD #Impact bullish
+
+【Close: STAR 50 Index plunges 7.7%; compute-hardware sector sells off】A-shares closed sharply lower as the STAR 50 Index plunged 7.7% and the compute-hardware sector led declines. The ChiNext Index fell 5.71% after sliding as much as 6% near the close; Shanghai Composite dropped 2.03% and Shenzhen Composite fell 3.85%. Turnover on Shanghai and Shenzhen topped 3.4 trillion yuan, with nearly 3,000 stocks down. Sector action: precious metals outperformed and Hainan-related shares rose; innovative-drug names spiked midday; rare-earth permanent magnets eased in the afternoon. Compute-hardware sub-sectors, including storage chips and CPO, remained under pressure.
+
+---
+
+### 2026-07-02 15:05:00  #MKT News #DAX #Impact bullish #EURUSD
+
+Documents show funding for Germany's tax reform will come mainly from adjustments to the wealth tax.
+
+---
+
+### 2026-07-02 15:04:59  #公司 #市場
+
+PureTech股價上漲5.2%，此前其子公司完成融資，用於推進特發性肺纖維化新藥的研發。
+
+---
+
+### 2026-07-02 15:04:46  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European bourses opened mixed on Thursday July 2: Germany's DAX 30 opened down 63.90 pts (-0.25%) at 25,005.21; Britain's FTSE 100 opened down 21.04 pts (-0.20%) at 10,457.30; France's CAC 40 opened up 9.97 pts (+0.12%) at 8,347.26; Euro Stoxx 50 opened down 13.05 pts (-0.21%) at 6,269.45; Spain's IBEX 35 opened down 0.47 pts (0.00%) at 19,406.13; Italy's FTSE MIB opened down 4.06 pts (-0.01%) at 51,600.50.
+
+---
+
+### 2026-07-02 15:04:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Documents show Germany's coalition government plans to provide €10 billion a year in tax cuts.
+
+---
+
+### 2026-07-02 15:04:27  #公司
+
+萊茵金屬公司：合同總範圍涵蓋交付四套完整的“天空網”（SKYNET）防空系統，總執行週期為39個月。
+
+---
+
+### 2026-07-02 15:04:19  #國際
+
+德國將實施歐盟供應鏈指令。
+
+---
+
+### 2026-07-02 15:04:08  #公司
+
+萊茵金屬股份公司：其先進的Skynex防空系統斬獲一份大額國際訂單。
+
+---
+
+### 2026-07-02 15:03:45  #公司
+
+【杭臺高鐵溫玉段開始試執行】記者從中國鐵路上海局集團有限公司獲悉，2日，隨著首趟試執行列車G55301次從浙江溫嶺站開出，沿著新建杭臺高鐵溫嶺至玉環段（杭臺高鐵溫玉段）駛向玉環站方向，杭臺高鐵溫玉段建設進入試執行階段，預計7月底具備開通運營條件。（新華社）
+
+---
+
+### 2026-07-02 15:03:17  #其他
+
+德國將裁減聯邦政府8%的人員。
+
+---
+
+### 2026-07-02 15:02:50  #國際
+
+歐盟卡拉斯：身處基輔的歐盟工作人員均已確認行蹤安全。
+
+---
+
+### 2026-07-02 15:02:38  #公司
+
+諾基亞：比利時Orange公司選擇諾基亞升級光網路，為其基礎設施築牢未來競爭力，確保滿足5G領先地位、抗量子安全與AI級算力需求。
+
+---
+
+### 2026-07-02 15:02:37  #其他
+
+【中國移動聯合中天鋼鐵釋出首個“5G+AI+新型工業控制”工廠創新成果】據人民郵電報，6月30日，在2026工業網際網路大會期間，中國移動聯合中天鋼鐵釋出全國首個“5G+AI+新型工業控制”工廠創新實踐成果。5G-A應用穩定承載4000套生產裝置，融合雲化PLC（可程式設計邏輯控制器）部署，探索新型工業控制路線，推動資料、模型及AI的應用閉環，助力行業數智化轉型升級。
+
+---
+
+### 2026-07-02 15:02:28  #公司
+
+沃爾沃汽車：第二季度電氣化車型佔總銷量的52%。
+
+---
+
+### 2026-07-02 15:02:21  #其他
+
+一份檔案顯示，德國執政聯盟計劃每年推出規模達100億歐元的減稅措施。
+
+---
+
+### 2026-07-02 15:02:11  #公司 #國際
+
+沃爾沃汽車表示，其最大市場歐洲的純電動汽車增長勢頭令其感到鼓舞。
+
+---
+
+### 2026-07-02 15:02:01  #市場 #焦點 #A股
+
+【收評：創業板指低開低走跌5.71%，算力硬體、晶片股集體調整】市場全天震盪調整，三大指數集體下挫。貴金屬板塊逆勢大漲，招金黃金、赤峰黃金漲停。海南自貿區集體走強，海馬汽車、欣龍控股等漲停。創新藥概念反覆活躍，石藥景峰、京新藥業等漲停。下跌方面，算力硬體股大幅調整，劍橋科技、華工科技等跌停；半導體晶片股下挫，兆易創新、長電科技等跌停。個股跌多漲少，滬深京三市約3200股飄綠，今日成交3.47萬億。截止收盤滬指跌2.03%，深成指跌3.85%，創業板指跌5.71%。
+
+---
+
+### 2026-07-02 15:01:51  #國際
+
+俄羅斯國防部訊息：俄軍打擊基輔，多處核心軍工企業遭命中。
+
+---
+
+### 2026-07-02 15:01:16  #公司
+
+【郭明錤：亞馬遜消費電子產品轉向自研處理器最佳化成本結構】分析師郭明錤表示，亞馬遜為備戰持續的AI基建浪潮計劃自研消費電子產品處理器，以圖降低晶片成本，為AI投資留出足夠資金。亞馬遜的自由現金流在2026年Q1僅有12億美元上下。亞馬遜計劃從2027年起逐步採用類似AI伺服器晶片Trainium的COT（客戶自有工具）模式開發所需處理器，並由世芯負責後端設計與測試，預計完全轉換後年出貨量可達4000萬顆。
+
+---
+
+### 2026-07-02 15:01:02  #市場
+
+【ETF收評：創新藥ETF領漲8.18%，科創半導體ETF領跌11.25%】ETF收盤漲跌不一，創新藥ETF（517120）領漲8.18%，黃金股ETF（517400）漲6.03%，黃金股ETF（159321）漲4.94%，科創半導體ETF（588170）領跌11.25%，科創半導體裝置ETF（588710）跌10.49%，科創半導體裝置ETF（589020）跌10.33%。
+
+---
+
+### 2026-07-02 15:01:02  #市場 #焦點
+
+A股收盤，上證指數跌2.03%，深證成指跌3.85%，創業板指跌5.71%。
+
+---
+
+### 2026-07-02 15:01:00  #公司 #國際
+
+【印度對華4-溴甲基-2’-氰基聯苯作出反傾銷肯定性終裁】6月24日，印度商工部發布公告稱，對原產於或進口自中國的4-溴甲基-2’-氰基聯苯作出反傾銷肯定性終裁，建議徵收為期5年的反傾銷稅，稅額為5089－6305美元/噸，其中鹽城市東港藥業發展有限公司為5089美元/噸，臨海市華南化工有限公司為5500美元/噸，浙江天宇藥業股份有限公司為5440美元/噸，中國其他生產商為6305美元/噸。
+
+---
+
+### 2026-07-02 15:00:26  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Rebounds Amid Intervention Fears — The Japanese yen jumped nearly 1% toward 161 per dollar on Thursday before trimming its gains, rebounding from four-decade lows as traders stayed on high alert for possible currency intervention. The move followed a Reuters report that Japan may stop signaling its intervention plans in advance, unlike before the April 30 operation, with the new approach potentially proving more effective in catching traders off guard and unwinding speculative bets against the yen. The yen also found some support after Federal Reserve Chair Kevin Warsh said US inflation expectations had eased over the past month, signaling there was no urgency to raise interest rates. Meanwhile, investors remain skeptical that the Bank of Japan will accelerate policy tightening as it continues its gradual normalization path, with persistent carry trades and the still-wide interest rate differential between Japan and the US continuing to weigh on the currency.
+
+---
+
+### 2026-07-02 15:00:03  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌1.82%， 滬深300指數期貨連續跌2.23%， 中證500指數期貨連續跌2.62%， 上證50指數期貨連續跌2.02%。
+
+---
+
+### 2026-07-02 15:00:03  #市場
+
+歐股開盤漲跌不一，德國DAX指數漲0.18%，英國富時100指數跌0.18%，法國CAC40指數跌0.79%，歐洲斯托克50指數跌0.72%，義大利富時MIB指數跌0.15%。
 
 ---
 
@@ -18102,125 +18288,5 @@ United States | Challenger Job Cuts (Jun) | actual 45849K | previous 97006K
 ### 2026-07-01 17:26:50  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
 
 South Africa Factory Activity Contracts in June: Absa — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) dropped to 47.3 in June 2026 from 50.8 in May, signaling renewed contraction in factory activity after two consecutive months of growth. This mainly reflected weaker demand, which weighed on new orders. Nevertheless, confidence about future business conditions improved strongly amid lower oil prices. Absa said the survey was conducted after the US and Iran agreed an interim deal to end the conflict and reopen the Strait of Hormuz, which prompted a decline in global oil prices.
-
----
-
-### 2026-07-01 17:26:46  #公司 #市場
-
-【北汽藍谷：子公司6月汽車銷量同比增長152.54%】北汽藍谷(600733)7月1日公告，子公司北京新能源汽車股份有限公司6月份汽車銷量30282輛，同比增長152.54%。本年累計銷量98895輛，同比增長47.27%。
-
----
-
-### 2026-07-01 17:26:34  #公司
-
-【ST東時：涉訴金額4115.86萬元 一審判決結果待上訴確定】ST東時公告稱，公司作為被告的一起金融借款合同糾紛一審已判決，需向盛京銀行北京分行償還本金3750.56萬元、截至2025年7月9日的罰息342.37萬元及後續罰息，東方時尚投資、徐雄承擔連帶保證責任。案件尚在上訴期，結果存在不確定性。截至公告披露日，公司及子公司連續十二個月內新增3起訴訟，涉本金286.18萬元。此外，公司預重整及股票是否被實施退市風險警示均存在不確定性。
-
----
-
-### 2026-07-01 17:26:27  #公司
-
-【*ST大立：撤銷退市風險警示申請處於補充材料階段】*ST大立公告稱，公司於2026年3月26日向深交所提交撤銷退市風險警示的申請。截至公告披露日，該申請處於補充材料階段，公司正按要求推進後續工作。補充材料期間不計入深交所作出決定的期限。公司申請能否獲批尚不確定，提醒投資者注意風險。
-
----
-
-### 2026-07-01 17:26:18  #公司
-
-【東誠藥業：截至6月底已耗資1.00億元回購0.90%股份】東誠藥業公告稱，截至2026年6月30日，公司以集中競價方式回購股份7,399,499股，佔總股本的0.90%，最高成交價15.27元/股，最低成交價12.15元/股，支付資金總額1.00億元（不含交易費用）。公司於2025年12月31日透過回購股份方案，回購資金不低於1億元、不超2億元，回購期限不超12個月，回購股份用於股權激勵和/或員工持股計劃。
-
----
-
-### 2026-07-01 17:25:52  #MKT News #Market Regions #Europe & UK
-
-【French drought threatens sugar beet crop; no near-term rain expected】Head of France's sugar beet growers' association (CGB) said France, the EU's largest beet producer, faces persistent drought that threatens beet yields. Météo‑France forecasts no rain for the Paris region and northern beet-growing plains at least until July 14. Concerns over European beet crops, combined with El Niño, have pushed sugar prices higher; white sugar hit a 9.5-month high on Wednesday. Earlier this year, ample supply drove sugar to a five-plus-year low, squeezing sugar producers' margins.
-
----
-
-### 2026-07-01 17:25:48  #公司
-
-【東方鐵塔：2026年上半年淨利潤預增81.87%-106.19%】東方鐵塔公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為8.97億-10.17億元，同比增長81.87%-106.19%。扣除非經常性損益後的淨利潤為8.82億-10.02億元，同比增長83.83%-108.84%。業績提升主要因雙主業生產基地穩定生產，產銷量保持穩定，且產品氯化鉀、溴化鈉等市場銷售價格均價同比提升，盈利能力顯著增強。
-
----
-
-### 2026-07-01 17:25:43  #市場 #國際
-
-【法國乾旱恐令甜菜作物恐受損 短期內或無降雨緩解災情】法國甜菜種植者協會（CGB）負責人表示，作為歐盟最大的甜菜生產國，法國正面臨長期乾旱對甜菜產量的威脅；法國氣象局預計，至少在7月14日之前，巴黎周邊及法國北部的甜菜種植平原地區都不會有降雨。對歐洲甜菜作物的擔憂，疊加厄爾尼諾天氣模式的影響，推動了糖市場的價格上漲，白糖價格週三觸及九個半月以來的高點。此前，由於供應充足，糖價曾在今年早些時候跌至五年多來的最低水平，從而擠壓了糖企的利潤。
-
----
-
-### 2026-07-01 17:25:39  #公司
-
-【東鵬控股：公司及子公司取得3項發明專利證書】東鵬控股公告稱，公司及控股子公司近日取得國家智慧財產權局頒發的3項發明專利證書，分別為“一種耐水瓷磚膠”“一種粉料處理劑、環保瓷磚粘結材料及其製備方法”“坯用釉漿、製備方法、一種防火花陶瓷及其用途和瓷磚”。截至公告披露日，公司及控股子公司累計取得各型別專利2621項，現有各型別有效專利1291項。這些專利已在公司生產中應用或即將應用，有利於提升公司核心競爭力。
-
----
-
-### 2026-07-01 17:25:32  #公司 #市場
-
-【通鼎互聯：股票連續三日跌幅偏離值累計超20% 提示多項風險】通鼎互聯公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於異常波動情形。經核實，公司前期資訊無需更正補充，未發現未公開重大資訊，經營正常。同時提示，光纖產品價格波動、復產擴產、市場供需、概念泛化、光棒擴產收益等存在不確定性和風險，公司控股股東及實控人未買賣公司股票，不存在應披露未披露事項。
-
----
-
-### 2026-07-01 17:25:14  #公司
-
-【百聯股份：預計1-2億元回購股份 截至6月底尚未實施】百聯股份公告稱，公司於2026年6月17日透過以集中競價交易方式回購股份的議案，預計回購金額1-2億元，回購價格不超12.33元/股，回購股份用於減少公司註冊資本，回購期限為12個月。截至2026年6月30日，公司已完成回購專用證券賬戶的開立，尚未開始實施回購A股股份。
-
----
-
-### 2026-07-01 17:24:58  #市場
-
-【Aegon投資經理Lynch：英國國債市場目前暫時對伯納姆“網開一面”】Aegon Asset Management的投資經理James Lynch表示，英國國債市場目前並未因安迪·伯納姆在經濟政策上缺乏明確性而感到擔憂。伯納姆被認為是最有可能接替基爾·斯塔默出任英國首相的人選。Lynch表示，“目前，英國國債市場對伯納姆算是網開一面。市場並沒有因為圍繞他的不確定性而作出明顯反應。我認為，這是因為他幾次提到將尊重財政規則。”Lynch認為，伯納姆週一在曼徹斯特發表的重要演講雖然展現出一種‘準首相’的姿態，但缺乏具體的政策細節。他說，目前自己超配短期限英國國債，並補充稱，與短期國債相比，長期英國國債的收益率仍有進一步上升的空間。投資者之所以情緒趨於穩定，是因為市場看到一些跡象表明，伯納姆可能會繼續遵守財政大臣裡夫斯所倡導的、由政府自行設定的借款和支出限制。對英國國債市場而言，下一次真正的考驗可能是在伯納姆任命新的財政大臣並公佈其上任後的首份財政預算案時。屆時，政府將詳細說明打算如何為其政策和支出計劃提供資金。巴克萊首席市場策略師Julien Lafargue表示，如果英國國債再次遭遇拋售，反而可能是一個買入機會。
-
----
-
-### 2026-07-01 17:24:56  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-RIA reported the Russian Defence Ministry said Russian forces had taken control of two additional settlements in Ukraine.
-
----
-
-### 2026-07-01 17:24:30  #國際
-
-俄羅斯國防部：俄軍在烏克蘭再控制兩處定居點。
-
----
-
-### 2026-07-01 17:23:29  #公司
-
-【晨光生物：持股5%以上股東一致行動人李月齋質押185萬股】晨光生物公告稱，公司近日得知持股5%以上股東盧慶國股份權益變動一致行動人李月齋，將185萬股（佔其所持股份比例11.52%，佔公司總股本比例0.38%）質押給國泰海通證券，質押起始日為2026年6月26日，為前期融資補充質押。截至公告披露日，相關股東及其一致行動人累計質押股份5039萬股，佔總股本10.43%，質押業務正常履約，無平倉風險，對公司無影響。
-
----
-
-### 2026-07-01 17:23:11  #其他
-
-【兒童正快速接受人工智慧】聯合國兒童基金會6月30日釋出宣告稱，兒童正在快速接受人工智慧。透過對10個國家最新資料的分析，兒基會估計，全球至少有2000萬兒童已經使用過人工智慧，許多兒童接受人工智慧的速度要比成年人快三倍以上。全球越來越多兒童開始使用人工智慧，但包括對兒童保護措施在內的人工智慧治理規則尚未跟上。兒童更容易接觸到人工智慧系統，但缺乏足夠能力迴避或質疑這些系統。在這10個國家當中，三分之一受訪兒童擔心人工智慧被用於詐騙或傳播虛假資訊，四分之一的兒童擔心自己的影象或影片被篡改成不雅內容。（CCTV國際時訊）
-
----
-
-### 2026-07-01 17:22:40  #公司
-
-【鐵流股份：控股股東德薩集團擬減持不超過2%股份】鐵流股份公告，控股股東杭州德薩實業集團有限公司（簡稱德薩集團）持有公司股份8596.18萬股，佔公司總股本36.90%。德薩集團計劃自本公告披露日起15個交易日後的3個月內（即2026年7月23日至2026年10月22日），透過大宗交易方式減持不超過465.97萬股，佔其所持股份的5.42%，佔公司總股本的2.00%。若減持期間公司發生送股、資本公積金轉增股本等股份變動事項，減持數量將相應調整。減持原因為股東自身資金需求。
-
----
-
-### 2026-07-01 17:22:30  #公司
-
-【中炬高新：累計回購1655.88萬股 金額達3.10億元】中炬高新公告稱，公司於2025年12月29日董事會、2026年1月19日股東會審議透過回購議案，計劃用3億-6億元自有資金及銀行專項貸款，以不超26元/股回購股份用於登出減資，實施期至2027年1月18日。截至2026年6月底，累計回購1655.88萬股，佔總股本2.14%，支付總金額30999.76萬元，回購價17.25-19.95元/股。
-
----
-
-### 2026-07-01 17:21:58  #MKT News #Important #WTI #Impact mixed #Brent
-
-Refinitiv: A senior Iranian official said indirect talks with the U.S. that began Tuesday evening in Doha are ongoing. The negotiations are focused on the release of Tehran’s funds and issues related to the Strait of Hormuz.
-
----
-
-### 2026-07-01 17:21:51  #公司 #市場
-
-【領先股份：股票交易異常波動 2025年淨虧損4659.98萬元】領先股份公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，不存在應披露未披露重大事項，未發現媒體報道、市場傳聞及熱點概念影響股價。2025年公司淨虧損4659.98萬元，連續3個交易日累計換手率32.24%，提醒投資者注意風險。
-
----
-
-### 2026-07-01 17:21:47  #公司 #市場
-
-【波長光電：股票交易連續兩日異常波動 不存在應披露未披露事項】波長光電公告稱，公司股票連續2個交易日（2026年6月30日、7月1日）收盤價格漲幅偏離值累計達31.12%，屬異常波動。經核實，公司前期披露資訊無需更正補充，近期經營及內外部環境無重大變化，公司及控股股東、實控人不存在應披露未披露事項及籌劃階段重大事項，異動期間控股股東、實控人無買賣公司股票行為。公司提醒投資者理性投資，注意風險。
 
 ---

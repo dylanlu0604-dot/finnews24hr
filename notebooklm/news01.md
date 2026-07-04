@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 02:37:52_
-_本檔包含 2384 則快訊，約 505904 字_
+_更新時間：2026-07-05 03:49:13_
+_本檔包含 2391 則快訊，約 505941 字_
+
+---
+
+### 2026-07-05 03:41:02  #國際
+
+澤連斯基：將在北約峰會期間繼續與特朗普展開會談。
+
+---
+
+### 2026-07-05 03:40:55  #其他 #焦點 #國際
+
+澤連斯基：這場衝突確實有望終結。
+
+---
+
+### 2026-07-05 03:40:24  #國際
+
+特朗普就哈梅內伊葬禮一事向記者表示：他們（伊朗高層）都在那裡。只需一次打擊就能將他們全部清除，但我們不會這麼做，否則屆時我們將無人可談判。
+
+---
+
+### 2026-07-05 03:40:10  #MKT News
+
+【Zelenskiy says he discussed Ukrainian frontline with President Trump】Ukrainian President Zelenskiy said he spoke with President Trump, thanked the U.S. for aid — including Javelin anti-tank missiles and Patriot air-defence systems — and for political support. He said they discussed the frontline and diplomatic efforts, that an end to the war is a realistic prospect but U.S. resolve is crucial, and agreed to continue talks at the NATO summit in Ankara.
+
+---
+
+### 2026-07-05 03:34:25  #國際
+
+澤連斯基稱他與特朗普討論了烏克蘭前線局勢。
+
+---
+
+### 2026-07-05 03:33:33  #MKT News #Market Regions #Europe & UK
+
+European Commission President von der Leyen said no one has contributed more to Gaza than the EU.
+
+---
+
+### 2026-07-05 03:32:58  #其他
+
+微軟正整合旗下面向個人使用者與企業使用者的兩款Copilot人工智慧聊天機器人，將二者合併為一款統一應用，以此打造更具競爭力的產品，對標Claude與ChatGPT。
+
+---
+
+### 2026-07-05 03:32:33  #國際
+
+歐盟委員會主席馮德萊恩聲稱，沒有誰比歐盟為加沙付出更多。
+
+---
+
+### 2026-07-05 03:20:45  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+An Axios reporter said a Netanyahu visit to the White House would be his first meeting with Trump since a dramatic February Situation Room session in which he presented a plan to go to war with Iran.
+
+---
+
+### 2026-07-05 03:20:03  #國際
+
+以色列一名高階官員表示，特朗普與內塔尼亞胡雙方會面的最終日期尚未確定，由於特朗普要前往土耳其，下週進行訪問為時過早。此次訪問或將安排在再下一週。
+
+---
+
+### 2026-07-05 03:19:17  #MKT News
+
+Axios: an Israeli senior official said the meeting's final date is not yet set; because of Trump’s visit to Turkey, a visit next week would be premature. The official said, "The visit may take place the following week."
+
+---
+
+### 2026-07-05 03:18:30  #國際
+
+美國Axios記者稱，若內塔尼亞胡抵達白宮，這將是自二人二月在白宮局勢研究室那場備受關注的會面以來，雙方的首次會晤，上一次內塔尼亞胡提交了一份對伊朗開戰的方案。
+
+---
+
+### 2026-07-05 03:17:40  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli military said one person was killed inside a "security zone" in Lebanon.
+
+---
+
+### 2026-07-05 03:06:03  #國際
+
+特朗普： 歐洲正在明白，接納第三世界犯罪分子，自己就會淪為第三世界國家。 這種變化轉瞬之間就會發生。我當選得正是時候。
+
+---
+
+### 2026-07-05 03:04:38  #其他
+
+摩洛哥在世界盃十六強賽中以3-0擊敗共同東道主加拿大。
+
+---
+
+### 2026-07-05 03:04:09  #國際
+
+伊朗外交部長阿拉格齊：伊朗十分欣慰迎來七十餘國代表，他們專程前來悼念最高領袖哈梅內伊。這場悼念活動將成為伊朗與這些國家交往中一段永恆的記憶。
+
+---
+
+### 2026-07-05 03:03:50  #MKT News
+
+Egypt's foreign minister urged maintaining momentum and ensuring full implementation of all provisions of the U.S.-Iran memorandum of understanding.
+
+---
+
+### 2026-07-05 03:02:55  #MKT News
+
+Ukrainian President ZELENSKIY spoke with US President Trump on Saturday and congratulated him on the 250th anniversary of the United States' founding, sources said.
+
+---
+
+### 2026-07-05 03:01:37  #國際
+
+埃及外交部長呼籲保持推進勢頭，落實美伊諒解備忘錄各項條款。
+
+---
+
+### 2026-07-05 03:01:29  #MKT News #Market Regions #Europe & UK
+
+Trump said Europe is learning that admitting criminals from the Third World effectively turns it into a Third World country, that this shift can happen very quickly, and that his election was timely.
+
+---
+
+### 2026-07-05 03:01:04  #國際
+
+知情人士透露，烏克蘭總統澤連斯基於週六與特朗普通電話，祝賀美國迎來建國250週年。
+
+---
+
+### 2026-07-05 03:00:49  #MKT News
+
+Ali Ozmaei was officially appointed commander of the IRGC Navy.
+
+---
+
+### 2026-07-05 03:00:24  #國際
+
+阿里·奧茲馬伊正式被任命為伊朗革命衛隊海軍司令。
+
+---
+
+### 2026-07-05 02:58:20  #國際
+
+特朗普：將於晚間十點（北京時間10:00）左右在林肯紀念堂發表講話。
+
+---
+
+### 2026-07-05 02:56:44  #MKT News
+
+【Trump says Washington celebration drew unprecedented crowds, calls U.S. stronger than ever】President Trump posted that Washington’s Independence Day celebration drew unprecedented crowds despite the heat. He praised the air show and said he will speak at the Lincoln Memorial at about 10 p.m. He added that the reflecting pool, which was previously vandalized, will be drained and repaired after the weekend.
+
+---
+
+### 2026-07-05 02:56:00  #國際
+
+特朗普：週末過後將排空倒影池積水並修復損毀設施。
+
+---
+
+### 2026-07-05 02:55:54  #國際
+
+特朗普：華盛頓實際高溫不及此前預報的那般酷熱。
+
+---
+
+### 2026-07-05 02:55:26  #國際
+
+【美國官員：霍爾木茲海峽南線航道目前仍在通行】兩名美國官員稱，霍爾木茲海峽的南線航道目前仍在通行。其中一名美國官員稱，大多數船隻在透過時都關閉了電子識別系統，因此開源平臺無法監測到它們。該官員證實，伊朗方面試圖透過甚高頻無線電對船隻進行恐嚇。另一名美國官員表示，近幾天南線航道的通行頻率有所增加（約有50艘船隻透過），且該航道依然暢通。
+
+---
+
+### 2026-07-05 02:55:08  #MKT News #WTI #Impact bearish #Brent
+
+【U.S. officials say southern transit lane through Strait of Hormuz remains open】Axios reported two U.S. officials say the Strait of Hormuz southern transit lane remains open. One official said most vessels transit with AIS turned off, making them untrackable on open-source platforms, and confirmed Iran has used VHF radio to harass ships. A second official said roughly 50 vessels used the southern lane in recent days and it remains navigable.
+
+---
+
+### 2026-07-05 02:54:14  #其他
+
+美方官員：霍爾木茲海峽南線航道維持通航。
+
+---
+
+### 2026-07-05 02:52:00  #MKT News
+
+Iranian Foreign Minister Araghchi said Iran hosted delegations from more than 70 countries, including Arab delegations, at a mourning ceremony for its martyred Supreme Leader Khamenei, describing the event as a historic memorial that will endure in the development of bilateral ties.
+
+---
+
+### 2026-07-05 02:45:46  #國際
+
+美國財長貝森特：想要銘記國家與特朗普取得的歷史性成就，沒有比發行印有他簽名的美元紙幣更具分量的方式；恰逢建國250週年推出這款具有里程碑意義的貨幣，再合適不過。
+
+---
+
+### 2026-07-05 02:43:45  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+【Military expert: Putin betting on attrition to wear down Ukraine and the West】US Marine veteran and geopolitical analyst Brian Berletic says Russia, leveraging a large industrial base and the ability to sustain trained forces, is pursuing a war of attrition intended to exhaust Ukraine and its Western backers. He says Russia can strike expensive, hard-to-replace Western-supplied equipment and target industrial facilities, command centers and dual-use infrastructure, degrading Ukraine faster than Ukraine or its Western supporters can replenish personnel, equipment and ammunition. To date, he adds, Western production capacity and the scale of Ukrainian drone strikes have not matched Russia.
+
+---
+
+### 2026-07-05 02:40:26  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+U.S. Treasury Secretary Bessent said under President Trump the U.S. is moving toward unprecedented economic growth, durable dollar dominance and robust fiscal health.
+
+---
+
+### 2026-07-05 02:39:37  #MKT News
+
+German regulator warns proposed major amendments to the Freedom of Information law would effectively abolish government transparency mechanisms.
+
+---
+
+### 2026-07-05 02:38:27  #國際
+
+一名白宮官員透露，第一夫人今晚將陪同特朗普，一同出席在國家廣場舉辦的 “致敬美國” 慶典活動。
+
+---
+
+### 2026-07-05 02:37:52  #其他
+
+德國監管機構警示：擬議的資訊法重大修訂或將徹底廢除政務透明機制。
 
 ---
 
@@ -14192,185 +14414,5 @@ Xinyisheng's A-share trade value topped 20 billion yuan; shares up 6.48%.
 ### 2026-07-03 11:12:48  #國際
 
 【美拒絕承認國際刑事法院對美國人有司法管轄權】美國司法部2日發表宣告稱，美國代理司法部長託德·布蘭奇已致信國際刑事法院院長赤根智子，拒絕承認國際刑事法院對美國人有司法管轄權。 宣告說，美國不是《國際刑事法院羅馬規約》締約國，也從未認可過國際刑事法院的管轄權。今後，美國將不會配合國際刑事法院開展任何調查、詢問、傳喚或訴訟程式，不會將任何美國人員引渡或移交國際刑事法院。 布蘭奇在信中聲稱，國際刑事法院行事“越來越缺乏合法性和正當性”，並指稱國際刑事法院有“選擇性執法”的記錄，且有“可信說法”稱其內部有不當行為。 6月24日，國際刑事法院3名女法官在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。 近年來，美方以國際刑事法院調查美方人員和對以色列總理和前防長髮出逮捕令為由，多次宣佈制裁國際刑事法院法官和檢察官。(新華社)
-
----
-
-### 2026-07-03 11:11:18  #MKT News
-
-President Trump said it is absurd for the US to continue making one-sided contributions when the US–NATO relationship is fundamentally unequal and lacks reciprocity, and that NATO did not support the US then.
-
----
-
-### 2026-07-03 11:09:47  #市場 #國際
-
-泰國SET指數一度上漲1%至1610.06點。
-
----
-
-### 2026-07-03 11:09:11  #公司
-
-【華誼兄弟電影公司新增三則被執行人資訊，執行標的合計1406萬元】中國執行資訊公開網顯示，7月1日，華誼兄弟電影有限公司新增三則被執行人資訊，執行標的合計1406萬餘元，執行法院均為北京市朝陽區人民法院。該公司成立於2015年12月，法定代表人為王忠磊，註冊資本1億人民幣，經營範圍包括電影、網路劇製作、發行等，由華誼兄弟傳媒股份有限公司全資持股。
-
----
-
-### 2026-07-03 11:08:47  #其他
-
-澳大利亞新南威爾士州確認首例H5型禽流感病例。
-
----
-
-### 2026-07-03 11:07:46  #其他
-
-【教育部：不得以“夏令營”等名義變相組織考試】從教育部獲悉，《關於做好2026年中小學、幼兒園暑期安全工作的通知》於近日印發，要求各地各校嚴控暑期作業總量，堅決杜絕用手機佈置作業、要求學生利用手機完成作業或要求家長檢查批改作業等現象，嚴禁在暑期及假期前後組織面向學生的區域性、校際性統一考試或測驗，不得以“夏令營”“研學”等名義變相組織考試或測試。
-
----
-
-### 2026-07-03 11:07:23  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
-
-STAR 50 Index recovered from intraday lows, rising over 2% on the day after earlier dropping nearly 2%.
-
----
-
-### 2026-07-03 11:06:35  #市場 #焦點
-
-科創50日內漲幅達2％，成分股中，晶合整合漲7.8％，傳音控股漲7.6％，國博電子漲7.5％，源傑科技漲5.5％。
-
----
-
-### 2026-07-03 11:05:50  #公司
-
-【博騰雙載荷ADC IND成功交付】據博騰股份訊息，近期，博騰一站式蛋白與偶聯藥物CDMO平臺成功完成雙載荷ADC工藝開發與GMP IND臨床樣品全流程交付，涵蓋Payload-Linker、抗體、ADC研發、生產等核心環節，完整落地從工藝研發到註冊樣品放行全流程服務。此次雙載荷ADC IND臨床樣品的成功交付，充分驗證了博騰平臺在複雜偶聯藥物領域的技術實力。
-
----
-
-### 2026-07-03 11:05:41  #其他
-
-【AI催熱Micro LED光互連：2027年商用預期升溫】在慕尼黑上海電子展上，思特威新一代高速光互連方案首次亮相，其高速光互連BG聯席總經理王文軒透露：“Micro LED高速光互連方案有望在2027年商用落地。”隨著大模型對資料中心傳輸速率的需求激增，傳統銅纜在頻寬、功耗和傳輸距離上已顯疲態，“光進銅退”已成為必然趨勢。然而，在光互連從板級向晶片間深入的過程中，傳統的鐳射光源方案因不耐高溫等物理特性限制，難以在極短距離內直接整合。因此，在CPO光源中，除了主流的矽光整合方案和VCSEL（垂直腔面發射鐳射器）方案外，Micro LED作為一種新興的光互連光源正異軍突起。（21財經）
-
----
-
-### 2026-07-03 11:03:30  #市場
-
-截止11:03，兩市100只個股漲停。
-
----
-
-### 2026-07-03 11:02:33  #公司 #市場
-
-【銅箔/覆銅板概念震盪反彈，諾德股份漲停】銅箔/覆銅板概念震盪反彈，諾德股份漲停，德福科技、方邦股份、生益科技、宏和科技、寶鼎科技、海星股份等跟漲。
-
----
-
-### 2026-07-03 11:02:27  #市場
-
-國華退盤中漲停，上演“地天板”，成交額超170萬元。
-
----
-
-### 2026-07-03 10:59:33  #央行 #中國央行
-
-【央行6月公開市場國債買賣淨投放100億元】中國人民銀行日前公佈的2026年6月份各項工具流動性投放情況顯示，當月，公開市場國債買賣淨投放100億元。
-
----
-
-### 2026-07-03 10:57:41  #央行 #市場
-
-【央行6月公開市場國債買賣淨投放100億元】中國人民銀行日前公佈的2026年6月份各項工具流動性投放情況顯示，當月，公開市場國債買賣淨投放100億元。據統計，今年前6個月，公開市場國債買賣淨投放累計3000億元。中國人民銀行釋出的2026年第一季度貨幣政策執行報告稱，今年以來，中國人民銀行常態化開展國債買賣操作，根據基礎貨幣投放需要和債券市場執行情況，靈活調整操作規模。6月投放情況還顯示，當月，中期借貸便利（MLF）淨投放2000億元，其他結構性貨幣政策工具淨回籠1372億元。此外，7天期逆回購淨投放5826億元，其他期限逆回購淨投放3000億元。（新華社）
-
----
-
-### 2026-07-03 10:57:30  #國際
-
-特朗普在社交媒體帖子中重申北約“不會幫助我們”。
-
----
-
-### 2026-07-03 10:57:25  #國際
-
-特朗普談與北約關係：美國繼續走單方面路線是荒謬的。
-
----
-
-### 2026-07-03 10:56:46  #市場 #焦點
-
-國華退盤中漲停，上演“地天板”，現報0.45元，成交額178.38萬元。
-
----
-
-### 2026-07-03 10:56:12  #公司
-
-【博威合金：Rubin微通道液冷材料已經驗證成功 等待放量】博威合金近日接受機構調研時表示，公司液冷材料在AI伺服器領域主要包含兩類產品，分別為液冷板材料與液冷電力銅材。Rubin微通道液冷材料已經驗證成功，等待放量，液冷板以公司供應的銅材為核心原材料，由下游廠商負責深加工成型；液冷電力銅材主要應用於高功率伺服器的供配電系統。
-
----
-
-### 2026-07-03 10:56:04  #公司
-
-阿達尼企業將股份配售規模增至15.7億美元。
-
----
-
-### 2026-07-03 10:54:58  #其他
-
-【上半年上海口岸出入境人員達2112.6萬人次】上海邊檢總站訊息，2026年上半年，上海邊檢機關累計查驗出入境人員達2112.6萬人次，出入境（港）交通工具14.6萬架（艘）次，其中，入境外籍旅客316.6萬人次，同比增長22%。隨著暑運大幕拉開，浦東國際機場口岸7月1日單日出境中國旅客3.3萬人次，創近兩個月峰值。
-
----
-
-### 2026-07-03 10:54:33  #Trading Economics #Economy #Vietnam #Foreign Direct Investment #Importance 1
-
-FDI Into Vietnam Rises 11.2% in the First Half of 2026 — Foreign direct investment (FDI) disbursed in Vietnam increased 11.2% year-on-year to USD 13.03 billion in January–June 2026, marking the highest level of FDI implementation for the first six months of the year in at least 18 years. During the period, Vietnam recorded 94 newly licensed overseas investment projects, totaling USD 820.3 million, 2.3 times higher than in the previous year. Additionally, there were 15 projects with adjusted capital, which rose by USD 388.9 million, three times the level recorded a year earlier. Overall, total overseas investment, including both new and adjusted capital, reached USD 1.21 billion, 2.5 times higher than the same period last year. Meanwhile, total registered foreign investment in Vietnam, including newly registered capital, adjusted registered capital, and capital contributions and share purchases by foreign investors, amounted to USD 34.65 billion in June, up 61.0% from a year ago.
-
----
-
-### 2026-07-03 10:54:32  #Trading Economics #Economy #Vietnam #Tourist Arrivals #Importance 1
-
-Vietnam Tourist Arrivals Hit 9-Month Low — International arrivals to Vietnam rose 14.7% year-on-year to a nine-month low of 1.68 million in June 2026, easing from 16.5% in the previous month. Even so, growth remained broad-based across key source markets. Visitors from Asia, Vietnam's largest tourism market, increased 8.2%, driven by growth from China (9.1%), Japan (15.6%), Malaysia (34.9%), Thailand (20.1%), and Singapore (32.3%). Arrivals from the Americas climbed 14.5%, supported by stronger visitor numbers from the United States (14.0%) and Canada (21.7%). Meanwhile, arrivals from Europe surged 67.4%, led by a sharp increase in visitors from Russia (151.1%), alongside gains from the United Kingdom (13.3%), France (18.5%), and Germany (23.4%). Visitor numbers from Australia rose 26.7%, while arrivals from Africa increased 28.4%. In the first six months of 2026, international arrivals to Vietnam totaled 12.25 million, up 14.9% from the same period a year earlier.
-
----
-
-### 2026-07-03 10:54:25  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-07-03 10:53:31  #公司
-
-【歐克科技增資至約1.3億 增幅40%】天眼查 App 顯示，近日，歐克科技（001223）發生工商變更，註冊資本由9335.2萬人民幣增至約1.3億人民幣，增幅40%。該公司成立於2011年8月，法定代表人為胡甫晟，經營範圍包括機械裝置研發、專用裝置製造、製漿和造紙專用裝置製造、包裝專用裝置製造等。
-
----
-
-### 2026-07-03 10:53:04  #市場 #焦點
-
-科創50日內漲幅達1.00%，成分股中，傳音控股漲7.91%，國博電子漲7.17%，晶合整合漲6.67%，源傑科技漲5.49%。
-
----
-
-### 2026-07-03 10:52:29  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報8573.20點。
-
----
-
-### 2026-07-03 10:50:29  #公司 #市場
-
-PCB概念探底回升，天山電子20CM漲停，深南電路、中國巨石漲停，景旺電子、滬電股份、大族鐳射、南亞新材跟漲。
-
----
-
-### 2026-07-03 10:50:18  #市場 #國際
-
-【貝森特稱汽油價格下跌略顯遲滯，預計9月初降至每加侖3美元】美國財長貝森特當地時間週四晚間接受採訪時稱：“汽油價格在下跌時略顯遲滯。”“我們正試圖給汽油零售商們一點壓力。我們告訴他們，我們正在密切關注他們，”貝森特說。他說：“在為消費者做些什麼這一點上，我們從一些大型零售商那裡得到了積極響應。”貝森特表示，希望到勞工節（9月7日）時美國汽油均價能降至每加侖3美元。他預計石油和能源價格將繼續回落。
-
----
-
-### 2026-07-03 10:49:47  #市場
-
-富時中國A50指數期貨漲幅擴大至2%。
-
----
-
-### 2026-07-03 10:49:36  #公司
-
-【歐克科技增資至約1.3億，增幅40%】天眼查App顯示，7月1日，歐克科技（001223）發生工商變更，註冊資本由9335.2萬人民幣增至約1.3億人民幣，增幅40%。該公司成立於2011年8月，法定代表人為胡甫晟，經營範圍包括機械裝置研發、專用裝置製造、製漿和造紙專用裝置製造、包裝專用裝置製造等。
 
 ---
