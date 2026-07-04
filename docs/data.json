@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 00:27:50",
-  "count": 13236,
+  "updated": "2026-07-05 00:31:56",
+  "count": 13237,
   "items": [
+    {
+      "id": "4970537",
+      "time": "2026-07-05 00:30:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：金融資料企業基本打消了市場對於人工智慧工具將取代自身的擔憂。如今投資者關心的是，當人工智慧智慧體消耗的資料量遠超人類分析師時，誰來承擔資料呼叫的計費成本。"
+    },
+    {
+      "id": "4970536",
+      "time": "2026-07-05 00:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲議會擬取締德國極右翼政黨選擇黨所屬歐盟黨團】歐洲議會正審議一項舉措，因涉嫌違背歐盟核心價值觀，該方案可能撤銷由德國選擇黨領導的 “主權國家歐洲” 黨團註冊資格，並剝奪其歐盟撥款。"
+    },
     {
       "id": "mkt:019f2df4-6423-7aab-8c9d-cf6105973de3",
       "time": "2026-07-05 00:26:58",
@@ -121821,19 +121837,6 @@
         "XAUUSD"
       ],
       "text": "【After U.S. strikes, Iran launches drone attack on Bahrain; oil tanker hit】Iran on Saturday launched drone strikes on Bahrain and attacked a vessel in the Strait of Hormuz, an action described as likely retaliation for a U.S. overnight strike. U.S. Central Command said on June 26 it had struck Iranian targets in response to Iran’s attacks on merchant ships. The International Maritime Organization said Saturday it will expand a transit lane near Oman to allow two-way traffic; Tehran views the strait as a bargaining chip in ongoing talks with Washington, a dynamic that underscores risks of further escalation."
-    },
-    {
-      "id": "mkt:019f09e9-d41f-7dd8-b142-ed9af3d8eab4",
-      "time": "2026-06-28 00:29:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Tanker hit in Strait of Hormuz as US-Iran tensions escalate】CNBC reported Saturday that a tanker in the Strait of Hormuz was struck by shelling, marking a fresh escalation in US‑Iran tensions after a prior temporary pact to halt hostilities. The UK Maritime Trade Operations Center said a vessel in the strait was hit by an \"unidentified flying object\"; the hull was damaged and the crew were reported safe. Bahrain condemned an Iranian drone strike as a \"blatant violation\" of its sovereignty. The incidents occurred amid a 60‑day ceasefire framework and negotiations to end the war; both sides accuse the other of breaching the agreement."
     }
   ]
 }
