@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-04 16:10:52_
-_本檔包含 2469 則快訊，約 505833 字_
+_更新時間：2026-07-04 18:23:39_
+_本檔包含 2438 則快訊，約 504468 字_
+
+---
+
+### 2026-07-04 18:15:52  #國際
+
+烏克蘭農業綜合企業俱樂部(UCAB)表示，烏克蘭6月農產品出口下降7.5%，至480萬噸。
+
+---
+
+### 2026-07-04 18:14:07  #MKT News
+
+Von der Leyen said the European Commission proposed ten months ago to suspend preferential trade treatment under the EU‑Israel Association Agreement.
+
+---
+
+### 2026-07-04 18:13:46  #其他
+
+【颱風“美莎克”逼近廣西東興市 今晚將再次登陸】截至今天17點，今年第10號颱風“美莎克”的中心位於距離廣西東興市南偏東方向約75公里的海面上，中心附近最大風力有10級，強度為強熱帶風暴級。預計，“美莎克”將以每小時10~15公里的速度向北偏西移動，強度變化不大。預計颱風“美莎克”今晚將在廣西和越南北部交界附近沿海再次登陸，之後轉向偏北方向移動，強度逐漸減弱。將於6日在廣西北部減弱消散。受“美莎克”影響，今天，廣西中南部、廣東中部、海南島西部等地將有暴雨或大暴雨，廣西南部局地有特大暴雨。
+
+---
+
+### 2026-07-04 18:09:07  #其他
+
+中國地震臺網自動測定：07月04日18時07分在雲南大理州賓川縣附近（北緯25.97度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-04 18:06:46  #國際
+
+【超200架無人機來襲 俄稱莫斯科再遭大規模襲擊】當地時間7月4日，俄羅斯莫斯科市長索比亞寧通報稱，過去24小時，有超過200架烏軍無人機襲擊莫斯科地區，其中大部分在遠處被攔截，有62架在接近莫斯科市時被摧毀。俄羅斯方面稱，這是近兩年來針對莫斯科地區最大規模的無人機襲擊之一。烏克蘭方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-07-04 18:03:13  #其他
+
+【颱風“美莎克”對瓊州海峽影響減弱 客滾船將於21時復運】從湛江海事局獲悉，隨著颱風“美莎克”影響持續減弱，瓊州海峽客滾船將於7月4日21時起正式復運。（央視新聞）
+
+---
+
+### 2026-07-04 18:01:07  #公司
+
+【廣東太平嶺核電2號機組首次併網發電】從總部位於深圳的中國廣核集團有限公司獲悉，7月4日9時16分，中廣核廣東太平嶺核電專案2號機組首次併網成功，發出第一度電，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。太平嶺核電專案2號機組於2020年10月15日開工建設。併網後經現場確認，機組執行狀態良好，各項技術指標符合設計預期。後續將按計劃執行系列試驗，進一步驗證機組效能，預計將於2026年下半年正式投產發電。（新華社）
+
+---
+
+### 2026-07-04 17:57:35  #公司
+
+【我國首架綜合航測飛機首飛成功】從中國航空工業集團獲悉，我國首架大氣環境綜合探測固定翼飛機平臺“運12F大氣綜合航測飛機”近日在哈爾濱平房機場首飛成功。據悉，該型機以運12F飛機為載機，圍繞大氣顆粒物、氣態汙染物、溫室氣體及雲水物理化學等多汙染物高靈敏立體探測需求，完成了60餘項任務裝置的整機大規模整合加改裝工作，具備多汙染物、溫室氣體與雲水探測的整合航測能力。該機的成功研製，將為我國區域大氣汙染監測提供重要的垂直探測手段。（新華社）
+
+---
+
+### 2026-07-04 17:54:15  #MKT News
+
+【Ukraine denies Russian control of Konstantynivka】Ukraine's General Staff said on the 4th that reports Russian forces have taken control of Konstantynivka in Donetsk region are false. A General Staff spokesman said Russian forces are still attempting to seize the town; small Russian units have penetrated Ukrainian positions and Ukrainian troops are conducting clearing operations. The situation is severe but the town remains under Ukrainian control.
+
+---
+
+### 2026-07-04 17:53:19  #國際
+
+俄羅斯聯邦安全會議副主席梅德韋傑夫：霍爾木茲海峽已成為伊朗的一件武器，其威力不亞於核武器。
+
+---
+
+### 2026-07-04 17:49:07  #其他
+
+澳大利亞新南威爾士州確認一例H5禽流感病例。
+
+---
+
+### 2026-07-04 17:48:33  #國際
+
+澤連斯基：普京聲稱俄羅斯軍隊已佔領頓巴斯的康斯坦丁諾夫卡。這不是真的。
+
+---
+
+### 2026-07-04 17:48:23  #國際
+
+烏克蘭總統澤連斯基：我與德國總理默茨進行了交談。我非常感激他對我們人民和國家的支援與援助。現在的最優先事項是為愛國者系統提供導彈，以保護我們的人民免受俄羅斯彈道導彈襲擊。這也是我們談話的主要焦點：向我們的愛國者系統提供我們所需的導彈的可能性。
+
+---
+
+### 2026-07-04 17:47:56  #其他
+
+訊息人士稱，德國內閣將批准借款規模超2030億歐元的預算草案。
+
+---
+
+### 2026-07-04 17:38:56  #公司
+
+紐約聯合愛迪生公司（Con Edison）呼籲皇后區東南部的使用者節約能源。此前該公司表示，由於高溫導致裝置故障，2日至3日全市逾8萬使用者遭遇停電。
+
+---
+
+### 2026-07-04 17:35:33  #MKT News
+
+【US West wildfires intensify; about 40 large blazes uncontrolled】About 40 large wildfires are currently uncontrolled across the United States, concentrated in the US West. Colorado’s Aspen Acres fire is the most severe: as of July 3 it had burned about 297 sq km, destroyed more than 160 structures, forced thousands to evacuate and is reported fully out of control. The fire ignited southwest of Denver and, driven by persistent drought and strong winds, has spread into Pueblo and Custer counties. The NWS has issued red-flag warnings for large areas of the western US.
+
+---
+
+### 2026-07-04 17:35:19  #其他
+
+中國地震臺網自動測定：07月04日17時33分在雲南大理州賓川縣附近（北緯25.96度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-04 17:35:04  #其他
+
+【總投資15億元，常州三大專案正式簽約】據常州釋出，近日，常州三大用地專案成功簽約，分別為：高階新型裝飾材料智慧研發生產專案、精密機床核心元件生產基地專案、塑編產裝一體化智慧製造專案。專案總投資超15億元，用地約130畝，達產後預計年新增工業產值超17億元。
+
+---
+
+### 2026-07-04 17:34:23  #國際
+
+【火情嚴峻 全美約40處大規模山火失控】連日來，美國西部多州山火肆虐，其中科羅拉多州名為“阿斯彭英畝”的山火火情最為嚴峻。當地時間7月3日，該山火過火面積達到了297平方公里，超過160座建築被毀，數千居民被迫撤離。目前，火勢已完全失控。據悉，“阿斯彭英畝”山火從科羅拉多州丹佛市西南方向燃起，受持續乾旱、大風等天氣影響，火勢迅速蔓延至該州普韋布洛縣和卡斯特縣。“阿斯彭英畝”山火只是美國西部當前嚴峻火情的縮影。目前全美約有40處大規模山火處於失控狀態，主要分佈在西部地區。美國國家氣象局已對西部大片地區釋出紅色火災預警。（央視新聞）
+
+---
+
+### 2026-07-04 17:26:16  #央行 #國際
+
+歐洲央行管委、法國央行行長穆蘭：我們並未承諾歐洲央行將進行新一輪加息。
+
+---
+
+### 2026-07-04 17:25:37  #MKT News
+
+【Chinese naval flotilla to visit Vietnam】Early July, at the invitation of the Vietnamese navy, two PLA Navy ships, Qi Jiguang and Kunlunshan, will visit Ho Chi Minh City. China and Vietnam have stepped up naval exchanges and joint patrols in recent years, which officials say bolster mutual trust and regional stability.
+
+---
+
+### 2026-07-04 17:24:14  #市場
+
+【Trendforce：傳統 DRAM價格Q3預計上漲13%至18%】Trendforce 預計，在 2026 年第三季度，傳統 DRAM 產品的合同價格將環比上漲 13%至 18%。
+
+---
+
+### 2026-07-04 17:22:39  #其他
+
+【引導人形機器人產業健康發展 兩協會發布倡議】中國人形機器人百人會、中國機械工業聯合會機器人分會分別釋出倡議，呼籲共同打造安全可信、合規向善、可持續發展的人形機器人產業生態，推動機器人產業健康發展。中國人形機器人百人會提出，全行業要堅持科技向善，防範倫理和安全風險，把安全倫理規範要求融入產品設計、研發、廣告宣傳、應用全過程；保障產品使用安全，切實防範對使用者的人身傷害風險；加大基礎技術研發投入，立足實際應用場景推廣應用，協同搭建產業公共平臺。中國機械工業聯合會機器人分會表示，全行業應加強個人隱私保護，規範創新應用，自覺維護清朗健康的產業發展環境；全行業應團結協作，以開放姿態擁抱人工智慧等新技術，共同提升機器人產業核心競爭力。（新華社）
+
+---
+
+### 2026-07-04 17:20:48  #國際
+
+美國地質調查局：印尼託貝洛以西64公里處發生5.0級地震。
+
+---
+
+### 2026-07-04 17:17:46  #MKT News
+
+US Geological Survey said a magnitude-5.1 earthquake occurred about 264 km off Abepurasi, Indonesia.
+
+---
+
+### 2026-07-04 17:16:32  #國際
+
+美國地質調查局：印尼阿貝普拉西側 264 公里處發生5.1級地震。
+
+---
+
+### 2026-07-04 17:14:02  #國際
+
+【澤連斯基證實打擊俄聖彼得堡附近石油基礎設施】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文證實，烏方於當日凌晨發起遠端打擊行動，擊中俄羅斯聖彼得堡附近港口的石油基礎設施。與此同時，烏國防力量還打擊了聖彼得堡附近喀琅施塔得的重要軍事目標。當天，俄聖彼得堡市市長別格洛夫稱，該市遭到烏軍大規模無人機襲擊。據他介紹，有72架無人機被攔截。別格洛夫稱，該市基洛夫區的石油碼頭區域被擊中，襲擊造成的影響已被消除，沒有造成人員傷亡。
+
+---
+
+### 2026-07-04 17:04:44  #其他
+
+【西班牙東北部發生大規模森林火災】當地時間7月3日晚，西班牙東北部加泰羅尼亞自治區發生大規模森林火災，過火面積約2300公頃。目前，火勢尚未得到控制。近萬名居民被疏散或要求居家避險，多條公路臨時封閉。當地警方稱，已有一人因涉嫌縱火被拘留。初步調查顯示，火災可能是公路施工時使用裝置產生火花引發的，具體原因仍在調查中。（CCTV國際時訊）
+
+---
+
+### 2026-07-04 17:04:30  #公司
+
+德國大陸集團 ：將向孤星基金出售康迪泰克集團（Contitech Group）業務板塊。本次交易企業價值為40億歐元，此外最高可獲得基於業績表現的2.5億歐元額外對價。出售康迪泰克後，集團將專注於核心輪胎業務。該交易尚待監管部門批准，有望在2026年底前完成
+
+---
+
+### 2026-07-04 16:52:36  #國際
+
+【特朗普吹噓美國“戰績” 稱“我們很善良”】當地時間7月3日，即美國獨立日前夕，美國總統特朗普在南達科他州拉什莫爾山（俗稱“總統山”）發表演講，吹噓美國的“戰績”。特朗普還稱，伊朗“渴望解決爭端”，美國“很善良”，“給伊朗一週時間辦喪事”。（新華社）
+
+---
+
+### 2026-07-04 16:51:05  #其他
+
+【新疆卡拉蘇口岸上半年進出口貨物超30萬噸】從新疆卡拉蘇邊檢站瞭解到，卡拉蘇口岸截至6月30日，累計進出口貨物30.57萬噸、出入境人員2.8萬人次，與去年同期相比分別增長26.22%、增長35.85%，通關人數和貨運量雙創新高。（央視新聞）
+
+---
+
+### 2026-07-04 16:49:56  #其他
+
+【明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站正式投運】近期，明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站順利完成各項測試，正式併網投運。作為目前國內電壓等級最高、配套單體儲能規模最大的500千伏儲能彙集站和全國儲能領域的標杆性工程，該專案落地投用，將補齊蒙西地區高壓儲能電網配套短板，進一步完善包頭市源網荷儲一體化能源產業佈局，為區域能源結構最佳化、新型電力系統建設、綠色低碳發展注入強勁持久動能。
+
+---
+
+### 2026-07-04 16:49:41  #MKT News
+
+【Mingyang Baotou Weijun 1.5 GW standalone storage plant 500 kV collection substation commissioned】The 500 kV collection substation for Mingyang’s Baotou Weijun 1.5 GW standalone energy-storage plant has completed testing and been connected to the grid. The project, China’s highest-voltage and largest single-unit 500 kV storage collection station and a national benchmark, fills a high-voltage storage grid gap in western Inner Mongolia and advances Baotou’s source–grid–load–storage integration, supporting regional energy-structure optimization, new power-system construction and low-carbon development.
+
+---
+
+### 2026-07-04 16:42:36  #宏觀
+
+【國務委員兼國務院秘書長吳政隆在湖北湖南調研時指出持續增強內生動力推動經濟向新向優向好發展】國務委員兼國務院秘書長吳政隆2日至4日在湖北、湖南調研。他強調，要深入學習貫徹習近平總書記“七一”重要講話精神，牢固樹立和踐行正確政績觀，牢牢把握高質量發展這個首要任務，以更大力度和更實舉措抓好黨中央、國務院決策部署貫徹落實，奮力實現全年經濟社會發展目標任務，確保“十五五”開好局、起好步。 吳政隆先後到湖北武漢和湖南嶽陽、長沙等地，實地調研新能源汽車、工業母機、新材料、晶片、石化等企業，並與有關地方政府、企業負責人座談交流。他指出，今年以來我國經濟執行起步平穩、穩中有進，展現強大韌性和活力。要錨定全年目標任務，增強發展信心，用好宏觀政策，緊盯經濟執行和高質量發展中的重點和難題採取針對性舉措，鞏固拓展經濟穩中向好勢頭。要著力擴大內需、最佳化供給，加強“六張網”規劃建設，促進服務業擴能提質，縱深推進全國統一大市場建設，更大釋放超大規模市場潛力。要強化創新鏈產業鏈融合，因地制宜發展新質生產力，推動製造業高階化、智慧化、綠色化發展，培育壯大新興產業和未來產業，促進人工智慧賦能千行百業，充分激發經濟內生動力和活力。 吳政隆強調，要更好統籌發展和安全，樹牢底線思維、極限思維，紮實做好穩增長、惠民生、防風險等各項工作，不斷提高貫徹黨中央、國務院決策部署的執行力，把“時時放心不下”的責任感轉化為“事事心中有底”的行動力，切實增強人民群眾獲得感、幸福感、安全感。(新華社)
+
+---
+
+### 2026-07-04 16:40:56  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #Brent
+
+【UK, France to cooperate with Oman to secure its territorial waters】On July 3, the UK and France said in a joint statement that Oman has agreed to cooperate with them to secure navigation within its territorial waters. Both countries said they stand ready to deploy a larger multinational military operation to safeguard freedom of navigation in the Strait of Hormuz.
+
+---
+
+### 2026-07-04 16:40:48  #其他
+
+【北京市經信局：已構建全國領先的AIGC產業鏈條 未來將透過專項政策與資金持續深化場景賦能】2026全球數字經濟大會—"AIGC for Future論壇"今日在北京舉行，北京市經濟和資訊化局副局長王濱在論壇上表示，北京已構建起全國領先的AIGC產業鏈條，未來將透過專項政策與資金持續深化場景賦能，並以東城數字化試點為契機推廣產文融合的“北京模式”。
+
+---
+
+### 2026-07-04 16:40:19  #其他
+
+【工信部：支援北京在國家未來產業總體佈局中發揮引領示範作用】工業和資訊化部高新技術司副司長毛俊鋒在2026全球數字經濟大會未來產業大會上表示，未來產業正處於孕育突破、加速演進的重要視窗期，是搶佔科技和產業制高點、把握髮展主動權及發展新質生產力的關鍵。工信部已聯合七部門印發實施意見，系統佈局未來製造、未來資訊等六大方向，構建起產業發展的"四梁八柱"，並從頂層設計、區域佈局、技術攻關和生態營造四個維度持續發力，引導"耐心資本"投早、投小、投硬科技。工信部將一如既往支援北京，透過強化部市協同、加大前沿賽道技術攻關支援、推動創新要素集聚三大舉措，助力北京在國家未來產業佈局中發揮引領示範作用，共同推動未來產業高質量發展。
+
+---
+
+### 2026-07-04 16:38:43  #國際
+
+【英法將與阿曼合作 保障該國領海航行安全】當地時間7月3日，英國和法國發表聯合宣告說，阿曼已同意與英國、法國開展合作，保障該國領海範圍內的航行安全。英法兩國隨時準備部署規模更大的多國聯合軍事行動，維護霍爾木茲海峽的航行自由。法國總統馬克龍當天在社交媒體發文表示，法國在中東海域的排雷力量及其附屬護衛力量已就位，隨時準備與夥伴展開行動。此外，由於美國和伊朗簽訂諒解備忘錄為地區穩定帶來重要進展，法國在此新形勢下調整在中東海域的軍力部署。法國“戴高樂”號航母已離開中東，正駛回該國土倫港。
+
+---
+
+### 2026-07-04 16:35:56  #國際
+
+【普京：繼續猛打烏克蘭軍工設施】俄羅斯總統普京3日說，必須繼續對烏克蘭軍工綜合體及相關設施進行大規模打擊。據俄羅斯總統網站3日釋出的訊息，普京當天視察俄聯合部隊叢集某輔助指揮所，與俄軍總參謀部負責人及各部隊指揮員就特別軍事行動區域當前局勢和近期戰況召開了軍事會議。普京在會上宣佈俄軍已“完全解放”盧甘斯克，並在頓涅茨克取得重大進展。普京說，俄軍繼續在特別軍事行動區域內保持戰略主動權，“解放”康斯坦丁諾夫卡具有重要戰略意義，俄軍在頓涅茨克、扎波羅熱和赫爾松等地殲滅烏克蘭武裝部隊的行動仍在持續。他表示，應繼續大規模打擊烏克蘭軍工體系的基礎設施及相關裝置。（新華社）
+
+---
+
+### 2026-07-04 16:34:25  #其他
+
+【中國海軍艦艇編隊將訪問越南】7月初，應越南海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊將赴越南胡志明市訪問。近年來，中越海軍在艦艇互訪、聯合巡邏等領域深化合作，為增進兩國互信、維護地區穩定發揮積極作用。（央視新聞）
+
+---
+
+### 2026-07-04 16:29:46  #國際
+
+印度總理莫迪週六在拉賈斯坦邦一次活動上表示，將繼續建設新的煉油廠。
+
+---
+
+### 2026-07-04 16:27:41  #國際
+
+【中國空調在歐洲賣爆 多品牌正加急補貨】歐洲多國極端高溫持續，中國“避暑神器”在當地被賣爆。多家國內廠商向記者證實，近期以行動式分體空調為代表的製冷家電在歐洲出貨量成倍增長。格力電器和TCL方面均表示，區域渠道的移動空調已全面售罄，目前正加急補貨。海信相關負責人稱，“銷售額遠超預期，出現脫銷現象。現在歐洲這邊的訂單全都優先安排生產，車間兩班倒連軸轉，全天不停工。”受訪業內人士普遍認為，隨著厄爾尼諾現象增多，未來歐洲空調市場仍具增長潛力，而受高基數疊加氣候影響，國內空調市場全年銷量增長面臨一定壓力。 (財聯社)
+
+---
+
+### 2026-07-04 16:24:40  #MKT News
+
+Military says rebels launched attacks at five locations in Mali.
+
+---
+
+### 2026-07-04 16:23:04  #其他
+
+馬裡軍方稱，武裝叛亂分子在馬裡境內五處地點發動襲擊。
+
+---
+
+### 2026-07-04 16:19:57  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+TASNIM NEWS, citing Lebanese sources, said Israel carried out a drone strike near Sadikin.
+
+---
+
+### 2026-07-04 16:17:18  #國際
+
+【俄稱聖彼得堡市遭大規模無人機襲擊】當地時間7月4日，俄羅斯聖彼得堡市市長別格洛夫稱，該市遭到烏軍大規模無人機襲擊。據他介紹，有72架無人機被攔截。別格洛夫稱，該市基洛夫區的石油碼頭區域被擊中，襲擊造成的影響已被消除，沒有造成人員傷亡。烏克蘭方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-07-04 16:12:18  #MKT News
+
+Iraq's president told Saudi outlet Hadas that ensuring weapons are controlled by the state is the new government's most important issue.
 
 ---
 
@@ -14414,473 +14696,5 @@ Hong Kong-listed auto stocks opened higher; BYD Company (01211.HK) rose over 5%,
 ### 2026-07-03 09:31:32  #MKT News #Important #Market Themes #China Tech Giants #01024.HK #Impact bullish
 
 Hang Seng Tech Index rose over 1% in early trade, led by Kuaishou (01024.HK).
-
----
-
-### 2026-07-03 09:31:17  #公司
-
-【智元機器人在上海成立智慧裝置新公司】企查查APP顯示，近日，智元創新（上海）智慧裝置有限公司成立，經營範圍包含智慧機器人的研發；服務消費機器人銷售；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由智元創新（上海）科技股份有限公司（簡稱“智元機器人”）全資持股。
-
----
-
-### 2026-07-03 09:31:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Stock index futures open higher】CSI 300 index futures (IF) most-active contract rose 0.42%; SSE 50 index futures (IH) most-active contract rose 0.47%; CSI 500 index futures (IC) most-active contract rose 0.10%; CSI 1000 index futures (IM) most-active contract rose 0.05%.
-
----
-
-### 2026-07-03 09:31:10  #MKT News #Market Regions #Greater China
-
-【China government bond futures morning open】At the morning open, China government bond futures' most-active 2-year contract (TS) and 5-year contract (TF) were unchanged; the 10-year contract (T) fell 0.01% and the 30-year contract (TL) fell 0.07%.
-
----
-
-### 2026-07-03 09:31:08  #市場 #焦點
-
-恒生指數漲超1%，現報23316.031點；恒生科技指數現漲1.015%。
-
----
-
-### 2026-07-03 09:30:49  #其他
-
-【星河動力智神星一號可重複使用運載火箭將於近期首飛】7月3日，星河動力航天宣佈，其自主研製的蒼穹-50可重複使用液氧/煤油發動機於7月1日在牛頭山動力系統試驗中心完成第163次常態化熱試車。至此，星河動力已經累計完成57臺次蒼穹-50發動機熱試車，累計試車時長達到20088秒，其中單機最長累計試車2757秒。星河動力介紹，蒼穹-50設計重複使用次數不低於25次。截至目前，該型號已完成40餘臺發動機裝配交付。以蒼穹-50為主動力系統的智神星一號中大型可重複使用液體運載火箭，將於近期迎來首飛，並在後續逐步開啟回收驗證。
-
----
-
-### 2026-07-03 09:30:43  #公司 #國際
-
-日本最大電力公司JERA旗下新能源部門JERA NEX收購了住友商事所持比利時西北二號海上風電場的30%股權，獲得該專案的全部所有權。
-
----
-
-### 2026-07-03 09:30:12  #市場 #焦點
-
-恒生指數漲超1%，現報23300.818點；恒生科技指數現漲0.926%。
-
----
-
-### 2026-07-03 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.06%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。
-
----
-
-### 2026-07-03 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.17%， 滬深300指數期貨連續漲0.17%， 中證500指數期貨連續漲0.06%， 上證50指數期貨連續漲0.14%。
-
----
-
-### 2026-07-03 09:29:58  #公司 #市場
-
-【人形機器人概念盤初活躍 首開股份一字漲停】人形機器人概念盤初活躍，首開股份一字漲停，雷賽智慧2連板，景興紙業、中大力德、日盈電子、臥龍電驅跟漲。
-
----
-
-### 2026-07-03 09:29:49  #市場
-
-中證轉債指數開盤上漲0.12%。三江轉債、藍曉轉02、大中轉債、金25轉債、金誠轉債漲幅居前，分別漲30.00%、5.74%、5.37%、4.00%、3.43%。宏微轉債、微導轉債、華辰轉債、三房轉債、京源轉債跌幅居前，分別跌2.71%、2.07%、1.77%、1.59%、1.54%。
-
----
-
-### 2026-07-03 09:29:44  #公司 #市場
-
-【深交所：“三江轉債”盤中臨時停牌】深交所公告，“三江轉債”（123273）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-07-03 09:29:41  #其他
-
-【今年上半年機構間REITs發行規模達330億元，國金資管發行規模居首】資料顯示，2026年上半年，交易所市場累計發行24單產品（含1單擴募發行產品），規模合計約330億元，規模較去年同期增長25倍。其中，國金資管在今年上半年的機構間REITs累計發行規模達93.66億元，位列全市場計劃管理人第一，佔全市場總髮行規模近三成。
-
----
-
-### 2026-07-03 09:29:38  #MKT News #Important
-
-The China A-share precious metals sector opened sharply higher, with Chifeng Gold and Shanjin International up more than 6% at the open; Xiaocheng Technology, Zhaojin Gold and Shandong Gold also rose.
-
----
-
-### 2026-07-03 09:28:59  #市場
-
-【貴金屬板塊大幅高開 赤峰黃金、山金國際高開超6%】貴金屬板塊大幅高開，赤峰黃金、山金國際高開超6%，曉程科技、招金黃金、山東黃金跟漲。
-
----
-
-### 2026-07-03 09:28:31  #MKT News
-
-Japan's finance minister Katayama said there is nothing new at present regarding the Bank of Japan's economic blueprint.
-
----
-
-### 2026-07-03 09:28:08  #其他
-
-【新一輪國內成品油價格將迎來調整視窗】今天（3日）24點，新一輪國內成品油調價視窗將再次開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。
-
----
-
-### 2026-07-03 09:27:15  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #Impact bearish
-
-At the open on July 3 (Friday), China’s Shanghai Composite Index rose 2.43 points (+0.06%) to 4,031.34; Shenzhen Composite fell 18.69 points (-0.12%) to 15,480.12; CSI 300 Index fell 2.80 points (-0.06%) to 4,809.50; ChiNext Index fell 6.45 points (-0.16%) to 4,010.82; China STAR 50 Index fell 8.54 points (-0.43%) to 1,978.75.
-
----
-
-### 2026-07-03 09:27:12  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama expects the Bank of Japan to maintain close communication with the government.
-
----
-
-### 2026-07-03 09:26:59  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Japan's finance minister Katayama said he expects the Bank of Japan to adopt appropriate monetary policy to steadily achieve its price target.
-
----
-
-### 2026-07-03 09:26:54  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Shares Poised to Reverse Prior Week’s Dip — Australian stocks climbed 82 points or 0.9% to 8,806 on Friday morning deals, rebounding from a subdued session the day before amid stronger U.S. equity futures after Wall Street ended mixed overnight after weak U.S. jobs data. An upward revision in Australia's private sector activity for June boosted sentiment, highlighting renewed growth in services. Gains, however, were capped by rate concerns, as the Reserve Bank's June meeting minutes and recent remarks from Governor Bullock signaled policy tightening may still be needed despite calmer Middle East tensions. Sector strength included consumer durables, healthcare, retail, and process industries. Three of four major banks rose between 0.3% and 1%. Mining giant BHP Group edged up 0.3% while other notable performers were Northern Star Resources (7.0%), Evolution Mining (4.8%), and Greatland Resources (2.6%). For the week, markets are on track to edge higher, up around 0.2% so far, reversing from a modest drop in the prior period.
-
----
-
-### 2026-07-03 09:25:52  #MKT News
-
-【Retail cash yield snapshot】Tencent Licaitong (on-demand + 7-day) 7-day annualized yields ranged 0.7750–1.0700%. WeChat Lingqian Tong 7-day annualized yields ranged 0.9680–1.0040%. Alipay Yu'e Bao 7-day annualized yields ranged 1.0020–1.0240%.
-
----
-
-### 2026-07-03 09:25:30
-
-三大股指開盤漲跌不一，滬指漲0.06％，深成指跌0.12％，創業板跌0.16％。
-
----
-
-### 2026-07-03 09:25:24  #MKT News #Important #SSE Composite #Impact bullish #SZSE Component #Impact bearish
-
-At the A-share open, the Shanghai Composite Index rose 0.06%; the Shenzhen Composite Index fell 0.12% and the ChiNext Index fell 0.16%.
-
----
-
-### 2026-07-03 09:25:19  #市場
-
-【港股快手高開超6%】港股快手高開超6%，訊息面上，據新京報報道，快手旗下影片生成大模型可靈AI落地近30億美元融資，投後估值有望達到180億美元。
-
----
-
-### 2026-07-03 09:24:38  #市場 #焦點
-
-現貨黃金突破4190美元/盎司，日內漲1.62%。
-
----
-
-### 2026-07-03 09:24:25  #市場 #國際
-
-日本財務大臣片山皋月講話之際，日元兌美元匯率升破161。
-
----
-
-### 2026-07-03 09:24:16  #市場 #焦點
-
-紐約期金突破4200美元/盎司，日內漲1.80%。
-
----
-
-### 2026-07-03 09:23:54  #市場 #焦點 #國際
-
-韓國綜合股價指數（KOSPI）收復早盤失地，上漲1.2%。
-
----
-
-### 2026-07-03 09:23:21  #央行 #中國央行
-
-【央行今日開展630億元7天逆回購操作】央行今日開展630億元7天逆回購操作，投標量630億元，中標量630億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-07-03 09:23:17  #MKT News #Market Regions #Greater China #HSI #Impact bullish #Hang Seng Tech Index #HSCEI
-
-At the open in Hong Kong on July 3, the Hang Seng Index (HSI) rose 185.82 points, or 0.81%, to 23,240.85; the Hang Seng Tech Index gained 33.70 points, or 0.76%, to 4,487.98; the Hang Seng China Enterprises Index (HSCEI) added 62.07 points, or 0.82%, to 7,674.55; the Hang Seng Red Chip Index advanced 18.55 points, or 0.50%, to 3,754.15.
-
----
-
-### 2026-07-03 09:23:09  #MKT News
-
-Japan's finance minister Katayama said specific monetary policy decisions should be made by the Bank of Japan.
-
----
-
-### 2026-07-03 09:22:53  #央行 #國際
-
-日本財務大臣片山：經濟藍圖中關於日本央行的內容並無新意。
-
----
-
-### 2026-07-03 09:22:48  #國際
-
-韓國KOSPI指數日內漲約1%。
-
----
-
-### 2026-07-03 09:22:39  #MKT News #Important
-
-South Korea's KOSPI index is up about 1% intraday after earlier falling as much as 3%.
-
----
-
-### 2026-07-03 09:22:18  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver 2608 contract rallied intraday, gains widening to 3.94% as price rose to 15,202 yuan/kg; turnover exceeded 123.0 bln yuan. Open interest increased by nearly 2,300 contracts intraday, with volume and OI activity rising in tandem.
-
----
-
-### 2026-07-03 09:22:15  #央行 #國際
-
-日本財務大臣片山：期望日本央行在與政府協調的同時實施適當的貨幣政策。
-
----
-
-### 2026-07-03 09:22:05  #MKT News #Important
-
-Hong Kong-listed gold miners opened higher; Zhaojin Mining (01818.HK) rose over 7%, Lingbao Gold (03330.HK) rose over 6%, with Zijin Gold International (02259.HK) and Shandong Gold (01787.HK) also higher.
-
----
-
-### 2026-07-03 09:21:53  #央行 #其他
-
-央行公開市場今日淨回籠1,685.0億元人民幣。
-
----
-
-### 2026-07-03 09:21:41  #央行 #國際
-
-日本財政大臣片山：具體貨幣政策由日本央行決定。
-
----
-
-### 2026-07-03 09:21:21
-
-港股恒指高開漲0.81％，國企指數漲0.82％，科指開漲0.76%。
-
----
-
-### 2026-07-03 09:21:18  #市場
-
-標普500指數期貨微升0.3%，納斯達克指數期貨上漲0.4%。
-
----
-
-### 2026-07-03 09:21:15  #MKT News #Important #Macro & Rates #CNH
-
-PBOC conducted a CNY63 bln 7-day reverse repo today; tendered CNY63 bln and accepted CNY63 bln at a 1.40% rate, unchanged from the prior operation.
-
----
-
-### 2026-07-03 09:21:13  #市場 #焦點
-
-白銀連續主力合約日內漲4%，現報15212.00元。
-
----
-
-### 2026-07-03 09:21:13  #MKT News #Important #01024.HK #Impact bullish #Hang Seng Index #Hang Seng Tech
-
-Hong Kong open: Hang Seng +0.81%, Hang Seng Tech +0.76%. Kuaishou (01024.HK) +6.24% after the company said yesterday it will spin off Keling as a separately capitalized entity and investors agreed to inject $3 bln into Keling.
-
----
-
-### 2026-07-03 09:21:04  #央行 #其他
-
-央行開展630億元人民幣7天期逆回購操作，利率1.40%，前次為1.40%。
-
----
-
-### 2026-07-03 09:20:57  #市場
-
-現貨白銀日內漲2%，現報62.18美元/盎司。
-
----
-
-### 2026-07-03 09:20:52  #市場 #國際
-
-歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.5%，英國富時指數期貨上漲0.2%。
-
----
-
-### 2026-07-03 09:20:32  #MKT News
-
-Australia's S&P/ASX 200 rose more than 1% to 8,820.90 points.
-
----
-
-### 2026-07-03 09:20:07  #MKT News #DXY #Impact bullish
-
-【National Australia Bank: RBA expected to cut in 2027; AUD outlook weak】National Australia Bank expects the Reserve Bank of Australia to begin easing by Q2 2027, amounting to 75bps. NAB now forecasts AUD/USD at 0.6700 by end-2027 (previously 0.7000) and sees the pair probing at least 0.6500 at some point. NAB adds that if the RBA cuts next year while the Federal Reserve remains on hold, AUD downside would deepen.
-
----
-
-### 2026-07-03 09:20:04  #市場
-
-澳大利亞S&P/ASX 200指數上漲1.1%，至8,820.90點。
-
----
-
-### 2026-07-03 09:19:52  #市場 #國際
-
-韓國KOSPI指數轉漲，此前一度跌超3.5%。
-
----
-
-### 2026-07-03 09:18:55  #市場 #國際
-
-片山皋月：外匯走勢可能反映日本國債招標需求疲弱和美國勞動力市場資料。
-
----
-
-### 2026-07-03 09:18:26  #其他
-
-委內瑞拉代總統羅德里格斯表示，國際貨幣基金組織與世界銀行已為震後重建提供援助和信貸支援。
-
----
-
-### 2026-07-03 09:17:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
-
-KATAYAMA, Japan's finance minister, said on rising JGB yields he will strive to implement fiscal policy to win market confidence.
-
----
-
-### 2026-07-03 09:16:43  #市場 #國際
-
-日本財務大臣片山在被問及日本國債收益率上升時表示，將推行財政政策並努力贏得市場信任。
-
----
-
-### 2026-07-03 09:16:18  #其他
-
-【委內瑞拉震區幾乎所有官員遇難】當地時間7月2日晚，委內瑞拉代總統羅德里格斯召開新聞釋出會表示，委內瑞拉在地震發生後立即啟動應急系統，震後搜救工作目前仍在持續。據羅德里格斯透露，重災區拉瓜伊拉州幾乎所有官員都在地震遇難。
-
----
-
-### 2026-07-03 09:15:55  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures opened 0.62% higher at 23,178, trading 132 points above the spot index.
-
----
-
-### 2026-07-03 09:15:52  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y
-
-【Gold rises after weaker-than-expected US jobs report】U.S. Labor Department reported June payrolls rose 57,000, below economists' 115,000 forecast. Spot gold climbed more than 1.3% in Asian morning trade as investors pared odds of a Fed rate hike in July; ANZ research said the weak labor market could ease pressure on the Fed to tighten at its next meeting. Higher interest rates typically weigh on non‑yielding assets such as gold, despite its inflation-hedge role.
-
----
-
-### 2026-07-03 09:15:41  #市場 #焦點
-
-現貨黃金突破4180美元/盎司，日內漲1.40%。
-
----
-
-### 2026-07-03 09:15:32  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said Tokyo will continue close coordination with the United States on foreign-exchange matters during the U.S. holiday.
-
----
-
-### 2026-07-03 09:15:19  #市場
-
-人民幣兌美元中間價報6.8047元。
-
----
-
-### 2026-07-03 09:15:01  #市場
-
-恒指期貨日盤開盤漲0.31%，報23121.40點，高水66.37點。
-
----
-
-### 2026-07-03 09:14:37  #國際
-
-日本財務大臣片山：與美國就外匯問題保持密切協調，即便在美國假日期間也不例外。
-
----
-
-### 2026-07-03 09:14:25  #國際
-
-日本財務大臣片山皋月：日本和韓國財務部門之間的關係非常好。
-
----
-
-### 2026-07-03 09:13:41  #國際
-
-日本財務大臣片山皋月：盡最大努力進行經濟、財政管理。
-
----
-
-### 2026-07-03 09:13:25  #MKT News #Copper #Impact bullish
-
-【China NEA deputy meets EDF executive】On July 1 in Beijing, National Energy Administration deputy director He Yang met with EDF executive director Yu Yunsa. He said China’s 15th Five-Year Plan will prioritise rapid development of clean energy, expand investment in renewables and maintain an open, market-oriented, rule-of-law and international business environment, welcoming foreign firms including EDF to deepen cooperation across energy sectors. Yu said EDF views China as a core market and is prepared to partner with Chinese firms on nuclear, electrification, emerging technologies and third‑party market projects.
-
----
-
-### 2026-07-03 09:13:16  #市場
-
-澳大利亞S&P/ASX 200指數上漲1%，至8811.90。
-
----
-
-### 2026-07-03 09:12:58  #國際
-
-日本財務大臣片山：將制定恰當的經濟政策，監控形勢變化。
-
----
-
-### 2026-07-03 09:12:44  #市場 #焦點
-
-紐約期金突破4190美元/盎司，日內漲1.56%。
-
----
-
-### 2026-07-03 09:12:25  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan's finance minister Katayama said he is prepared to take appropriate measures to address currency volatility.
-
----
-
-### 2026-07-03 09:11:41  #公司
-
-【638股獲融資買入超億元，京東方A獲買入57.14億元居首】A股7月2日共有3784只個股獲融資資金買入，有638股買入金額超億元。其中，京東方A、中際旭創、新易盛融資買入金額排名前三，分別獲買入57.14億元、48.55億元、47.7億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中科匯股份、海馬汽車、中光學融資買入額佔成交額比重排名前三，分別為31.2%、30.07%、29.84%。從融資淨買入金額來看，有43只個股獲融資淨買入超億元。其中，新易盛、C華潤、多氟多融資淨買入金額排名前三，分別獲淨買入11.34億元、7.01億元、4.27億元。
-
----
-
-### 2026-07-03 09:11:24  #國際
-
-日本財務大臣片山：已準備好對匯率波動採取適當應對措施。
-
----
-
-### 2026-07-03 09:11:08  #MKT News #Important #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said she would not comment on specific exchange-rate levels.
-
----
-
-### 2026-07-03 09:10:30  #市場 #央行 #國際
-
-【澳大利亞國民銀行：澳大利亞央行料將於2027年降息，澳元前景黯淡】澳大利亞國民銀行對2027年的澳元前景持看跌態度，理由是預計澳大利亞央行將從2027年第二季度開始將官方隔夜拆款利率下調75個基點。澳大利亞國民銀行目前預計，澳元兌美元到2027年底將收於0.6700，低於此前預期的0.7000，但該機構認為澳元兌美元在某個時候至少會下探至0.6500。澳大利亞國民銀行補充稱，如果澳大利亞央行明年降息，而美聯儲按兵不動，澳元的前景將顯得愈發不妙。
-
----
-
-### 2026-07-03 09:10:13  #公司
-
-【南昌農商銀行獲批增加註冊資本1.37億元】7月3日，江西金融監管局網站釋出批覆，同意南昌農商銀行增加註冊資本1.37億元人民幣，由36.22億元人民幣變更為37.59億元人民幣。
-
----
-
-### 2026-07-03 09:09:50  #其他
-
-【委內瑞拉代總統：地震搜救仍在進行】當地時間2日，委內瑞拉代總統羅德里格斯召開震後一週新聞釋出會。羅德里格斯稱，委內瑞拉地震導致189座建築物完全倒塌，地震搜救仍在繼續。（央視新聞）
-
----
-
-### 2026-07-03 09:09:36  #公司 #國際
-
-【訊息人士：印度納亞拉煉油廠汽油經貿易商轉售至俄羅斯】兩名知情人士週四透露，交易商已將印度煉油企業納亞拉能源生產的汽油銷往俄羅斯。當前俄羅斯因烏克蘭襲擊本國能源基礎設施面臨燃油短缺困境。媒體週三曾報道，俄羅斯已開始透過海運從印度進口汽油，但當時並未披露供貨方名稱。俄羅斯石油巨頭俄羅斯石油公司持有納亞拉能源 49% 的股份。
 
 ---
