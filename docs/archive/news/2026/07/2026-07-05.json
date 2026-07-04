@@ -1,7 +1,40 @@
 {
   "date": "2026-07-05",
-  "count": 130,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:019f2ef7-4cac-7aab-8c9f-7d6377e09600",
+      "time": "2026-07-05 05:09:46",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Egyptian President Sisi called for immediate implementation of the Gaza ceasefire agreement and the US-Iran memorandum of understanding."
+    },
+    {
+      "id": "4970604",
+      "time": "2026-07-05 05:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西呼籲立即落實加沙停火協議與美伊諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019f2ef6-7656-7aab-8c9f-71edc470b6e3",
+      "time": "2026-07-05 05:08:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "An adviser to Ukraine's interior minister said Russia continued terrorist attacks on Zaporizhzhia, with the city struck at least five times."
+    },
     {
       "id": "4970603",
       "time": "2026-07-05 05:06:13",

@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-05 05:07:56",
-  "count": 13224,
+  "updated": "2026-07-05 05:11:55",
+  "count": 13226,
   "items": [
+    {
+      "id": "mkt:019f2ef7-4cac-7aab-8c9f-7d6377e09600",
+      "time": "2026-07-05 05:09:46",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Egyptian President Sisi called for immediate implementation of the Gaza ceasefire agreement and the US-Iran memorandum of understanding."
+    },
+    {
+      "id": "4970604",
+      "time": "2026-07-05 05:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西呼籲立即落實加沙停火協議與美伊諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019f2ef6-7656-7aab-8c9f-71edc470b6e3",
+      "time": "2026-07-05 05:08:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "An adviser to Ukraine's interior minister said Russia continued terrorist attacks on Zaporizhzhia, with the city struck at least five times."
+    },
     {
       "id": "4970603",
       "time": "2026-07-05 05:06:13",
@@ -121718,14 +121751,6 @@
         "市場"
       ],
       "text": "【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）"
-    },
-    {
-      "id": "4958617",
-      "time": "2026-06-28 05:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "外交部長阿拉格齊將率外交代表團於週日出訪伊拉克。此行議程包括磋商地區局勢、雙邊關係及國際議題。"
     }
   ]
 }
