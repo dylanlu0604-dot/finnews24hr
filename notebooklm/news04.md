@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 05:11:55_
-_本檔包含 2506 則快訊，約 506073 字_
+_更新時間：2026-07-05 06:06:43_
+_本檔包含 2520 則快訊，約 506227 字_
+
+---
+
+### 2026-07-01 17:35:03  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Rise Toward 4.8% — UK 10-year gilt yields climbed toward 4.8%, rebounding from two-month lows and tracking a surprise rise in US Treasury yields. This followed the latest JOLTS report, which showed job openings at a two-year high, while analysts expect another strong June non-farm payrolls report, reinforcing bets that the Federal Reserve will raise interest rates this year. In the UK, investors assessed the growing likelihood of Energy Secretary Ed Miliband becoming the next Chancellor over centrist Wes Streeting. Concerns about fiscal policy under Andy Burnham, the frontrunner to succeed as Prime Minister, eased after his fiscal discipline pledge. Meanwhile, attention remained on the ECB’s Sintra Forum for economic and policy insights. Bank of England Governor Andrew Bailey reiterated that the BoE is not rushing to respond to rising oil prices, with inflation still on track to return to the 2% target, albeit later than desired.
+
+---
+
+### 2026-07-01 17:35:02  #公司
+
+【中銀航空租賃與星宇航空就八架空客A321NEO飛機簽署租賃協議】7月1日，中銀航空租賃有限公司宣佈，已與星宇航空就公司訂單簿中的八架空客A321NEO飛機簽署租賃協議。所有飛機均將配備CFM LEAP-1A發動機，計劃自2028年起陸續交付。
+
+---
+
+### 2026-07-01 17:34:40  #公司
+
+【蘇州規劃：因評估資料更新 重組事項稽核被深交所中止】蘇州規劃公告稱，公司擬發行股份及支付現金購買北京東進航空科技股份有限公司100%股權並募集配套資金。因重組申請檔案中評估資料已過有效期，需補充提交，深交所於6月30日對本次重組中止稽核。本次中止對交易無實質性影響，公司將推進重組，協調落實加期評估及檔案更新工作，完成後儘快報送材料並申請恢復稽核。本次交易尚需多項審批，能否獲批及獲批時間不確定。
+
+---
+
+### 2026-07-01 17:34:40  #MKT News #Macro & Rates #US Economy
+
+Andy Challenger, chief revenue officer and labor-market specialist at US job-data firm Challenger, said the pace of planned layoffs eased markedly in June, roughly in line with planned levels in June last year and consistent with typical summer seasonality.
+
+---
+
+### 2026-07-01 17:34:39  #公司
+
+【君亭酒店：控股股東終止協議轉讓暨公司控制權變更事項】君亭酒店公告稱，2026年7月1日，公司控股股東吳啟元及相關股東從波、施晨寧與受讓方湖北文旅簽署《終止協議》，終止全部控制權變更相關交易檔案。此前，湖北文旅擬14.99億元受讓三人持有的29.99%股份，同時吳啟元放棄剩餘股份表決權，湖北文旅擬部分要約收購。因生效條件未全部成就，各方協商一致終止。本次終止不影響公司正常經營，控股股東仍為吳啟元，實際控制人仍為吳啟元、丁禾夫婦。
+
+---
+
+### 2026-07-01 17:34:19  #公司 #市場
+
+【激智科技：股票交易異常波動 新行業產品進展存不確定性】激智科技公告稱，公司股票交易價格在2026年6月29日、6月30日、7月1日連續三個交易日內日收盤價格漲幅偏離值累計超過30%，屬於異常波動。經核實，公司基本面未變，不存在應披露未披露重大事項，控股股東、實控人在此期間未買賣公司股票。目前公司新行業的UV膠及塗布產品處於研發或送樣早期，進展和產生收入時間不確定，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 17:33:49  #公司 #國際
+
+【6月美國僱主放緩裁員計劃，科技行業裁員規模居首】美國就業資料公司“挑戰者”的一份報告顯示，美國僱主在6月宣佈裁員45,849人，較5月的97,006人減少了53%。科技行業裁員規模居首，6月共裁減員工15,503人，這一數字較去年同期增長了83%。儘管如此，上個月的裁員總數仍比去年同期下降了4%，並創下了自2025年12月以來的最低月度總數。“挑戰者”公司首席營收官安迪·查倫傑表示：“6月的裁員步伐顯著放緩，這與去年6月的計劃情況相似，也符合夏季月份的典型特徵。”報告發現，人工智慧（AI）是導致裁員的主要原因，當月因此裁員的人數達14,029人。各大科技公司在投入數十億美元建設AI基礎設施的同時，也將AI因素納入了重組計劃之中。
+
+---
+
+### 2026-07-01 17:33:42  #其他
+
+【重慶：支援有條件的房地產開發企業開闢建築機器人、智慧家居等新賽道】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃》意見。其中提出，促進房地產開發企業轉型發展。支援房地產開發企業參與保障性住房、城市更新等專案的建設運營，發展委託代建、住房租賃、房產運營、物業服務、生活服務和城市運營服務等業務。鼓勵房地產開發企業結合避暑休閒、旅遊康養、教育文化、醫療物流等，打造高品質住宅。支援房地產開發企業應用數智技術、綠色技術，全面提升住宅設計、建造和維護水平。支援有條件的房地產開發企業開闢建築機器人、智慧家居等新賽道。
+
+---
+
+### 2026-07-01 17:33:39  #公司
+
+【美團在溫州成立科技公司 註冊資本500萬美元】天眼查App顯示，近日，溫州象騎科技有限公司成立，法定代表人為孫可青，註冊資本500萬美元，經營範圍包括軟體開發、資訊科技諮詢服務、共享腳踏車服務等，由 Xigua Limited 全資持股。
+
+---
+
+### 2026-07-01 17:33:21  #市場
+
+歐元/英鎊下跌0.2%至0.85926，觸及一年低點。
+
+---
+
+### 2026-07-01 17:33:11  #其他
+
+新加坡交易所將每日曆季度開展一次複核，以確定是否有額外工具符合縮減整手交易單位的資格。
+
+---
+
+### 2026-07-01 17:33:05  #公司
+
+【邱寶華任中國聯通副總經理】7月1日訊息，邱寶華任中國聯合網路通訊集團有限公司副總經理、黨組成員。
+
+---
+
+### 2026-07-01 17:33:01  #MKT News
+
+Singapore Exchange (SGX) said custody-structure optimization will take effect in July; reduced per-lot trading units will be implemented in October.
+
+---
+
+### 2026-07-01 17:32:22  #公司 #國際
+
+美國就業資料公司挑戰者：美國科技公司在六月宣佈裁員15,503人。人工智慧成為美國僱主裁員的主要原因，連續第四個月居首。
+
+---
+
+### 2026-07-01 17:32:11  #公司
+
+【曹立軍陳書平會見比亞迪公司董事長王傳福】據成都日報訊息，6月30日，四川省委常委、成都市委書記曹立軍，成都市委副書記、市長陳書平會見比亞迪股份有限公司董事長兼總裁王傳福一行。雙方圍繞搶抓“十五五”時期重大戰略機遇，進一步加大在蓉投資佈局力度，深化拓展積體電路、智慧終端等領域務實合作，加強新技術新場景深度應用推廣，更好助力企業高質量發展和成都建設全國先進製造業基地等交換了意見。
+
+---
+
+### 2026-07-01 17:32:01  #MKT News #Market Regions #Greater China #Market Themes #China EV Leaders #1211.HK #Impact bullish
+
+【Cao Lijun and Chengdu mayor Chen Shuping meet BYD chairman Wang Chuanfu】June 30 — Sichuan provincial Party standing committee member and Chengdu party secretary Cao Lijun and Chengdu deputy party secretary and mayor Chen Shuping met BYD chairman and president Wang Chuanfu. They discussed seizing strategic opportunities during the 15th Five-Year Plan period and expanding BYD’s investment footprint in Chengdu, deepening pragmatic cooperation in integrated circuits and smart terminals, and accelerating deployment of new technologies and application scenarios to support BYD’s high-quality development and Chengdu’s push to become a national advanced manufacturing base.
+
+---
+
+### 2026-07-01 17:31:46  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #Nasdaq100 #XAUUSD #Impact bullish
+
+Challenger, Gray & Christmas said U.S. tech companies announced 15,503 job cuts in June. Artificial intelligence was the top reason cited by U.S. employers for layoffs, the leading cause for a fourth consecutive month.
+
+---
+
+### 2026-07-01 17:31:28  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact mixed
+
+U.S. June Challenger job cuts MoM -53%; prior +16%.
+
+---
+
+### 2026-07-01 17:31:23  #國際
+
+市場訊息：烏克蘭總統澤連斯基表示，烏克蘭方面第二次襲擊了位於烏法市的俄羅斯煉油廠，該地點距離前線超 1300 公里（800 英里），基輔當局正加大對俄羅斯腹地目標的打擊力度。
 
 ---
 
@@ -15105,35 +15219,5 @@ Senegal Economy Continues to Strengthen — The economy of Senegal advanced by 5
 ### 2026-06-30 19:44:22  #Trading Economics #Markets #France #stocks #Importance 1
 
 Safran Stock Price Hits 17-week High — Safran shares increased to 345.70 EUR, the highest since February 2026. Over the past 4 weeks, Safran gained 16.26%, and in the last 12 months, it increased 30.35%.
-
----
-
-### 2026-06-30 19:42:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-S&P 500 Set for Best Quarter in 6 Years — US equity futures were slightly higher on Tuesday, extending their rebound on fresh stability for the technology sector and lower inflationary risks. Contracts for the S&P 500 and the Nasdaq 100 were slightly higher, while the Dow was due for another record at 52,250. AI companies mostly recovered from their selloffs last week to indicate the market retook its long position in the AI trade, spurred by strong guidance from chip producers, despite concerning levels of spending for hyperscalers. Nvidia, AMD, and Intel were up to 1% higher premarket. Meanwhile, oil prices consolidated near their pre-war levels to ease the likelihood that the Federal Reserve would be forced into a hiking cycle. The improved backdrop for the corporate sector supported traditional sectors of the economy that have more exposure in the Dow, driving the index to outperform others in June. Still, the S&P 500 was set to gain 14% in Q2, the strongest quarter in six years.
-
----
-
-### 2026-06-30 19:19:40  #Trading Economics #Economy #India #Government Budget Value #Importance 1
-
-India’s Fiscal Deficit Widens in April-May — India’s fiscal deficit widened sharply to INR 1.6 trillion in April-May 2026-27, up from INR 0.1 trillion a year earlier, reaching 9.6% of the full-year target compared to 0.8% in the same period last year. As a net energy importer, the country is grappling with rising fuel subsidy costs due to elevated oil prices linked to the ongoing Middle East conflict. Total expenditure surged 18.1% year-on-year to INR 8.8 trillion (16.5% of the target), while capital spending, primarily on infrastructure, rising to INR 2.5 trillion (20.5% of the annual plan, up from INR 2.2 trillion). Meanwhile, total receipts declined by 2% to INR 7.2 trillion (19.7% of the annual goal), including net tax revenues of INR 3.5 trillion, unchanged from a year ago. India has set its fiscal deficit target for 2026-27 at 4.3% of GDP, or INR 17.0 trillion.
-
----
-
-### 2026-06-30 19:17:14  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Closes Lower — India’s BSE Sensex closed about 0.3% down at 76,478.7 on Tuesday, the second day of losses, amid caution on US-Iran negotiations and as investors booked profits ahead of the June-quarter earnings season. IT stocks and financials led losses, while autos outperformed. Infosys, TCS, HCLTech and Tech Mahindra posted losses between 2.1% and 3.5%, amid concerns over potentially higher US interest rates. Other laggards included ITC (-1.3%), Hindustan Unilever (-1.3%), SBIN (-0.9%), Axis Bank (-0.9%), ICICI Bank (-0.8%) and Tata Steel (-0.8%). On the flip side, Maruti Suzuki emerged as the top gainer, climbing 5.1%, after global brokerage Jefferies upgraded the stock to “Buy” from “Hold” and raised its target price. Titan, Bajaj Finance, Eternal, Adani Ports also posted solid gains, rising between 1.9% and 2.9%. The benchmark index added 2.3% for the month and has gained 6.3% on a quarterly basis.
-
----
-
-### 2026-06-30 19:01:20  #Trading Economics #Economy #Luxembourg #Producer Prices Change #Importance 1
-
-Luxembourg Producer Prices Fall at Softer Pace — Producer prices in Luxembourg fell 4.5% year-on-year in May 2026, following a 5.4% drop in the previous month and marking the tenth consecutive month of declines. The slower pace of decline reflected easing deflation across key categories, including consumer goods (-12.5% vs -13.6% in April), energy goods (-8.2% vs -8.3%), and intermediate goods (-2.7% vs -3.8%). Meanwhile, inflation for capital goods was unchanged at 1.7%. On a monthly basis, producer prices rose 0.8% in April, following a 1.2% increase in the prior month.
-
----
-
-### 2026-06-30 18:35:02  #Trading Economics #Economy #Macau #Unemployment Rate #Importance 0
-
-Macau Unemployment Rate Holds at 1.8% — Macau's unemployment rate stood at 1.8% in May 2026, unchanged from the previous month. The number of unemployed increased by 6,000 to 7.1 thousand, while employment declined by 5,000 to 374.1 thousand. The labour force participation rate edged down to 66.3% from 66.4%, with the labour force decreasing by 6,000 to 380.8 thousand. Participation was lower among women (59.3%) than men (63.6%). By industry, gaming accounted for the largest share of employed residents (25.7%), followed by wholesale and retail trade (12.2%), accommodation and food services (11.2%), and public administration and social security (11.2%).
 
 ---

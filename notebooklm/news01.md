@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 05:11:55_
-_本檔包含 2401 則快訊，約 506584 字_
+_更新時間：2026-07-05 06:06:43_
+_本檔包含 2409 則快訊，約 506441 字_
+
+---
+
+### 2026-07-05 06:03:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+【China's express volume tops 100 billion items YTD, milestone hit nine days earlier than last year】State Post Bureau monitoring shows China's express delivery volume exceeded 100 billion items as of June 30, reaching the milestone nine days earlier than in 2025. Ongoing consumption-support measures have sustained retail growth and shifted spending patterns, expanding parcel demand. The bureau says the industry is refocusing from pure volume growth to quality improvement and sustainable scale; continued policy implementation and emerging new drivers should strengthen postal and courier services' role in logistics, supporting economic circulation and higher-quality growth.
+
+---
+
+### 2026-07-05 05:59:14  #其他 #焦點
+
+中央氣象臺7月5日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-07-05 05:58:38  #其他
+
+中央氣象臺7月5日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-07-05 05:56:24  #MKT News
+
+Politico reports Paul Pelosi, husband of former US House Speaker Nancy Pelosi, struck a parked vehicle in Napa County, California, and is facing hit-and-run charges.
+
+---
+
+### 2026-07-05 05:50:11  #MKT News #DXY #Impact mixed #S&P500 #XAUUSD
+
+【Putin briefs Trump on battlefield; Trump offers to continue mediation】Russian presidential aide Ushakov said Putin briefed Trump on the battlefield, asserting Russian forces are steadily advancing along the front and liberating settlements, including Konstantinovka, which Ushakov called a key stage in reclaiming Donetsk People’s Republic territory. Ushakov said Kyiv and its European backers are betting on prolonging and escalating the conflict and accused them of conducting terrorist attacks against civilians. Trump said he is willing to help secure a swift, peaceful end to the fighting and that envoys Witkoff and son‑in‑law Kushner stand ready to travel to Moscow when appropriate to continue mediation.
+
+---
+
+### 2026-07-05 05:39:12  #MKT News
+
+Kremlin says Putin invited Trump to visit Russia during a phone call.
+
+---
+
+### 2026-07-05 05:36:59  #國際
+
+【以方稱內塔尼亞胡近期將與特朗普會面】以色列總理辦公室4日晚發表宣告稱，以總理內塔尼亞胡此前一天與美國總統特朗普通電話，雙方同意於近期在美國會面。 宣告說，內塔尼亞胡向特朗普祝賀美國獨立250週年，並稱以色列“非常珍視兩國之間的緊密聯絡”。 據以色列第12頻道電視臺4日報道，特朗普當天證實內塔尼亞胡請求在白宮與他會面，會面時間最早可能是下週。特朗普還說，他與內塔尼亞胡“相處很好”，而內塔尼亞胡也知道“誰是老大”。 報道稱，如果內塔尼亞胡最終成行，將是他自今年2月到訪白宮與特朗普會面、向美方提出對伊朗開戰計劃以來兩人再次見面。（新華社）
+
+---
+
+### 2026-07-05 05:33:53  #MKT News
+
+Russian presidential aide USHAKOV said President Putin's talks with Trump were pragmatic and constructive.
+
+---
+
+### 2026-07-05 05:33:35  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Russian presidential aide Ushakov said US presidential envoy Witkoff and Trump son-in-law Kushner will continue to assist peace efforts and are prepared to visit Moscow.
+
+---
+
+### 2026-07-05 05:33:03  #MKT News
+
+【Russia responds to Zelenskiy proposal to meet Putin】On the 4th, Russia said Ukrainian President Zelenskiy earlier suggested that if the Donetsk city of Konstantinovka were under Russian control, President Putin could meet him there. Kremlin spokesman Dmitry Peskov said Konstantinovka is now fully under Russian control and that Moscow welcomes Zelenskiy’s stated willingness to come to Russia. Peskov added that if Zelenskiy is prepared to make a "major and responsible decision," he may travel to Moscow, noting Russia’s capital is Moscow rather than Konstantinovka. Putin has previously said on multiple occasions he is willing to meet Zelenskiy in Moscow.
+
+---
+
+### 2026-07-05 05:32:43  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+Russian presidential aide Ushakov said Trump offered to help reach a solution to the Ukraine conflict ahead of the NATO summit.
+
+---
+
+### 2026-07-05 05:32:37  #國際
+
+【俄方回應澤連斯基與普京會面提議】據俄羅斯方面4日訊息，烏克蘭總統澤連斯基當天稍早前稱，如果頓涅茨克重鎮康斯坦丁諾夫卡在俄方控制之下，俄羅斯總統普京可以在此與他見面。對此，俄總統新聞秘書佩斯科夫回應稱，康斯坦丁諾夫卡已完全轉由俄方控制，如果澤連斯基以這樣的方式表達來俄意願，俄方表示歡迎。佩斯科夫表示，一旦澤連斯基願意作出“重大且負責任的決定”，就可以前往莫斯科，因為俄羅斯首都是莫斯科，而不是康斯坦丁諾夫卡。普京此前已多次表示願在莫斯科與澤連斯基會面。（央視新聞）
+
+---
+
+### 2026-07-05 05:32:16  #國際
+
+俄羅斯總統普京致電特朗普，並邀請其訪問俄羅斯。
+
+---
+
+### 2026-07-05 05:31:50  #MKT News
+
+Russian presidential aide Ushakov said Putin provided Trump with an accurate assessment of the battlefield situation in the Ukraine conflict.
+
+---
+
+### 2026-07-05 05:31:07  #MKT News
+
+Ushakov said Putin and US President Trump spoke for 1 hour 25 minutes on Saturday.
+
+---
+
+### 2026-07-05 05:30:27  #國際
+
+克里姆林宮助理烏沙科夫：普京與特朗普的會談務實且富有建設性。
+
+---
+
+### 2026-07-05 05:30:18  #國際
+
+克里姆林宮助理烏沙科夫：普京就烏克蘭衝突中的戰場局勢向特朗普作出了準確評估。
+
+---
+
+### 2026-07-05 05:30:09  #國際
+
+克里姆林宮助理烏沙科夫：美國特使威特科夫與庫什納將繼續協助推進和平程序，二人已做好前往莫斯科的準備。
+
+---
+
+### 2026-07-05 05:30:00  #國際
+
+克里姆林宮助理烏沙科夫：特朗普在土耳其北約峰會召開前主動提出願幫助促成烏克蘭衝突的和解方案。
+
+---
+
+### 2026-07-05 05:29:49  #國際
+
+克里姆林宮助理烏沙科夫表示，普京與特朗普週六進行了時長1小時25分鐘的通話。
+
+---
+
+### 2026-07-05 05:27:17  #焦點 #國際
+
+前美國眾議院議長南希・佩洛西的丈夫保羅・佩洛西在加利福尼亞州納帕縣撞上停放車輛，面臨肇事逃逸指控。
+
+---
+
+### 2026-07-05 05:25:21  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+The Lebanese National News Agency reported Israeli strikes hit Mansouri and Talousa in southern Lebanon in the past few hours.
+
+---
+
+### 2026-07-05 05:22:33  #MKT News
+
+Kremlin says Putin and Trump discussed Ukraine during their call.
+
+---
+
+### 2026-07-05 05:22:18  #焦點 #國際
+
+黎巴嫩：以色列發動襲擊，打擊黎巴嫩南部的曼蘇里與塔盧薩兩地。
+
+---
+
+### 2026-07-05 05:21:44  #國際
+
+克里姆林宮：普京與特朗普通話，雙方談及烏克蘭問題。
+
+---
+
+### 2026-07-05 05:21:23  #MKT News
+
+Kremlin says Putin held a US-initiated phone call with President Trump lasting 1 hr 25 min; Putin congratulated Trump and the American people on the US Independence Day, marking the 250th anniversary.
+
+---
+
+### 2026-07-05 05:19:48  #國際
+
+克里姆林宮：普京與特朗普通電話。
+
+---
+
+### 2026-07-05 05:19:06  #MKT News
+
+【Iraq approves preliminary agreement to study strategic oil export pipeline project】Iraq's cabinet approved preliminary and confidentiality agreements for a feasibility study into a strategic oil export pipeline between Basra Oil Company and a consortium of US firm Capital TI, Chevron and Qatar's UCC Energy. The consortium will prepare technical and financial feasibility reports comparing proposed routes, including Basra–Haditha–Kirkuk–Ceyhan and Basra–Haditha–Baniyas. The cabinet said the agreements do not impose any final financial or contractual obligations on the Iraqi oil ministry and authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha pipeline.
+
+---
+
+### 2026-07-05 05:18:43  #國際
+
+以色列國防部長以色列·卡茨週六在慶祝美國獨立日之際，強調了美國與以色列在中東的合作。卡茨表示，兩國正共同努力建設一個“更安全、更美好的中東”，同時捍衛自由並擊敗“恐怖勢力”，他將以色列與美國之間的聯盟描述為“牢不可破”且“比以往任何時候都更強大”。
+
+---
+
+### 2026-07-05 05:18:11  #MKT News
+
+Russian Defence Ministry says about 13,000 aerial targets were shot down over Russian airspace in June.
+
+---
+
+### 2026-07-05 05:15:07  #國際
+
+【澤連斯基與特朗普通話 商定在北約峰會期間會談】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文表示，他於美國獨立日當天同美國總統特朗普通話。澤連斯基表示，通話期間，兩國總統圍繞俄烏衝突前線最新局勢、外交推進動態以及停戰的現實前景深入交換意見。雙方商定，將在安卡拉北約峰會期間舉行面對面會晤，繼續圍繞相關議題開展深入磋商。（央視新聞）
+
+---
+
+### 2026-07-05 05:15:01  #MKT News
+
+【Zelenskiy, Trump agree to meet at NATO summit in Ankara after July 4 call】On July 4 Ukrainian President Zelenskiy said he spoke by phone with US President Trump. They exchanged views on frontline developments in the Russia-Ukraine conflict, diplomatic progress and the realistic prospects for a ceasefire, and agreed to hold a face-to-face meeting during the NATO summit in Ankara to continue discussions.
+
+---
+
+### 2026-07-05 05:12:52  #MKT News
+
+RIA reported Norway's Defence Ministry said it has not committed to supplying missiles to Kyiv.
 
 ---
 
@@ -14324,155 +14522,5 @@ Japan's Nikkei 225 gained 1.00% intraday after earlier sliding more than 1%.
 ### 2026-07-03 11:31:11  #MKT News #Macro & Rates #Treasury Yields
 
 【China government bond futures morning close】2-year government bond futures (TS) most-active contract rose 0.01%; 5-year (TF) rose 0.01%; 10-year (T) fell 0.01%; 30-year (TL) fell 0.11% at the morning close.
-
----
-
-### 2026-07-03 11:31:03  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish
-
-At the morning session close, most domestic main futures contracts advanced. Palladium and Shanghai silver rose over 4%, platinum nearly 4%. Asia–Europe container freight and synthetic rubber gained more than 3%. Shanghai gold, LPG, asphalt, methanol and propylene were up over 2%. On the downside, alumina, iron ore, corn, starch and fiberboard fell more than 1%, while palm oil and plywood declined about 1%.
-
----
-
-### 2026-07-03 11:30:03  #市場
-
-【商品期貨早盤收盤】鈀連續漲4.10%，白銀連續漲4.05%，鉑連續漲3.81%，集運指數歐線期貨連續漲3.31%，丁二烯橡膠連續漲3.02%，黃金連續漲2.57%，液化石油氣連續漲2.55%，瀝青連續漲2.39%，低硫燃料油連續漲2.13%，甲醇連續漲2.10%。
-
----
-
-### 2026-07-03 11:30:02  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.11%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-07-03 11:30:02  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲0.16%， 滬深300指數期貨連續漲1.14%， 中證500指數期貨連續漲0.60%， 上證50指數期貨連續漲0.73%。
-
----
-
-### 2026-07-03 11:28:17  #公司
-
-【蘋果iOS 27 Beta版作業系統最新SDK包括Apple智慧功能】蘋果開發者微信公眾號發文宣佈，iOS 27 Beta版作業系統現可下載。最新SDK帶來新功能，包括平臺設計最佳化、Apple智慧功能，以及新的AI開發框架。
-
----
-
-### 2026-07-03 11:27:58  #公司 #國際
-
-【阿根廷企業7年來首次申請美國上市】阿根廷能源企業根內亞公司（Genneia S.A.）7月2日向紐交所提交IPO申請，有望成為2019年以來首家在美國上市的阿根廷企業。據阿根廷媒體《金融界報》報道，根內亞公司是一家阿根廷領先的可再生能源企業，其運營的發電廠裝機容量為2128兆瓦，其中大部分為風能和太陽能。提交的檔案顯示該公司第一季度營收為9640萬美元，淨利潤為790萬美元。（新華財經）
-
----
-
-### 2026-07-03 11:27:52  #其他
-
-【中國發布全球首個地層學AI大模型 給地球建“共享資料庫”】記者今天（7月3日）從正在蘇州舉行的第五屆國際地層學大會上獲悉，中國科學家面向全球釋出了首個地層學AI大模型及智慧全球地層剖面對比系統等新工具。這意味著，地球46億年的演化歷史將首次擁有一個全球共享的資料庫。地層學是解讀地球演化歷史的基礎學科，可以為人類認識生命起源、資源分佈、氣候演變提供核心科學依據。中國科學院院士、國際地層委員會副主席沈樹忠介紹，希望透過時間軸和全球大資料的方式，能夠把地球46億年曆史的所有地質記錄，按照統一的時間標準進行排序。（央視新聞）
-
----
-
-### 2026-07-03 11:27:29  #國際
-
-【中國乘用車歐洲市場份額首超日本】歐洲汽車製造商協會最新統計資料顯示，5月中國乘用車在歐洲市場份額首次超過日本。 資料顯示，5月，五家中國汽車製造商在31個歐洲國家共售出13.84萬輛汽車，同比增長65%；六家日本汽車製造商在歐洲31國的汽車銷量為13.04萬輛，同比下降3%。 《日本經濟新聞》報道稱，日本企業在混合動力汽車的燃油效率方面有較高口碑，但由於電動汽車產品線有限，難以享受到歐洲各國優惠政策紅利。報道引用德國汽車研究中心業務發展總監貝婭特麗克絲·凱姆的話說：“歐洲消費者在考慮購買電動汽車時，不會將日本車列為備選。” 報道還說，日本汽車存在感日益下降，而中國汽車在歐洲市場的影響力則與日俱增。(新華社)
-
----
-
-### 2026-07-03 11:26:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-share dyestuff sector extended losses; Xinkai Technology fell more than 9%, while Yida Co., Fulai Ente, Runhe Materials and Dinglong Technology also declined.
-
----
-
-### 2026-07-03 11:26:33  #MKT News
-
-【40 mln Guoxin Securities shares fail to sell at judicial auction for second time】On July 3 Alibaba judicial auction platform showed Shenzhen Keming Industrial Co.'s 40 mln shares in Huarong Securities (now Guoxin Securities) ended a 10:00 am auction unsold after receiving no bids. This was the second auction; the starting price was 69.216 mln yuan.
-
----
-
-### 2026-07-03 11:26:14  #其他
-
-【湖北孝感發布暴雨紅色預警】湖北孝感市氣象臺7月3日10時59分升級暴雨預警訊號為紅色。過去1小時，孝昌白沙已出現40毫米以上降雨，預計未來3小時，孝昌部分鄉鎮仍有40-60毫米降水，陣風7-9級並伴有雷電，山區山洪、地質災害、中小河流洪水、城鄉積澇風險極高，請特別加強防範。
-
----
-
-### 2026-07-03 11:25:59  #國際
-
-【美17州報告環孢子蟲病，正調查感染源】美國疾病控制和預防中心7月2日公佈的最新監測資料顯示，截至6月16日，美國今年已報告145例在境內感染的環孢子蟲病病例，涉及17個州。該感染通常會導致劇烈腹瀉。目前，公共衛生部門正在調查可能的感染源。據美疾控中心官網資訊，環孢子蟲病是由幾種微小的環孢子蟲寄生蟲引起的腸道感染疾病，可能透過食用或飲用受汙染的食物或水感染。（央視新聞）
-
----
-
-### 2026-07-03 11:25:53  #公司 #市場
-
-【工程機械概念持續走強，浙江鼎力漲停】工程機械概念持續走強，浙江鼎力漲停，萬達軸承、嘉晨智慧、新柴股份、大宏立、國茂股份、恆立液壓等跟漲。
-
----
-
-### 2026-07-03 11:25:05  #其他
-
-美、布兩油日內均漲1%，WTI原油現報69.11美元/桶，布倫特原油現報72.43美元/桶。
-
----
-
-### 2026-07-03 11:24:54  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-【WTI and Brent up 1% intraday】WTI crude $69.11/bbl, Brent crude $72.43/bbl; both up about 1% intraday.
-
----
-
-### 2026-07-03 11:24:10  #公司 #市場
-
-【數字營銷板塊走弱，天地線上觸及跌停】數字營銷板塊走弱，天地線上觸及跌停，福石控股、易點天下跌超10%，天娛數科、引力傳媒、因賽集團、藍色游標等跟跌。
-
----
-
-### 2026-07-03 11:22:51  #MKT News #Star Stocks #Alibaba
-
-【Alibaba DAMO Academy says AI agent finds four new superconductors, experimentally verified】July 3 — Alibaba DAMO Academy, with Renmin University of China and the University of Chinese Academy of Sciences, released its first superconducting-material discovery AI agent, Elements Claw. The system predicted about 68,000 candidate superconductors; four novel materials have been synthesized and experimentally confirmed to exhibit superconductivity, and all related data have been made publicly available.
-
----
-
-### 2026-07-03 11:22:11  #公司 #市場
-
-【染料板塊持續走弱，信凱科技跌停】染料板塊持續走弱，信凱科技跌停，怡達股份、福萊蒽特、潤禾材料、鼎龍科技跟跌。
-
----
-
-### 2026-07-03 11:22:07  #MKT News #300033.SZ
-
-【HITHINK ROYALFLUSH app outage resolved】On the morning of July 3 HITHINK ROYALFLUSH's mobile app experienced a service outage, with users reporting quote lag, community pages failing to load, stock search failures and slow or frozen minute and K-line charts. The outage trended on Weibo and some users said servers were unresponsive for about 30 minutes. HITHINK ROYALFLUSH said services have been restored and the cause is under investigation.
-
----
-
-### 2026-07-03 11:21:57  #公司 #焦點
-
-【同花順回應突然崩了：已修復】同花順恢復7月3日早間，在社交平臺不少使用者反饋同花順App出現功能異常，包括行情卡頓、社群無法載入、個股檢索失敗，分時圖、K線圖載入緩慢或直接卡死等情況。部分網友以為是手機網路出現問題。與此同時，同花順崩了也登上微博熱搜。在同花順官微評論區，也有不少網友反映早間伺服器卡死，“半小時都沒修復。”對此，同花順方面3日表示，目前已經恢復，具體原因正在排查中。（中新經緯）
-
----
-
-### 2026-07-03 11:21:42  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Equities Rally, Weekly Change Almost Flat — Indonesia's IDX Composite soared 149 points or 2.6% to 5,894 on Friday morning deals, extending gains for the third straight session amid widespread strength across all sectors. A solid rise in U.S. stock futures boosted sentiment as traders dialed back expectations of a Federal Reserve rate hike after a lukewarm U.S. jobs report. Locally, investors welcomed government measures to lower industrial costs, protect jobs, and support strategic sectors. In top trading partner China, services activity remained robust in June amid easing cost pressures and positive business sentiment. Among outperforming stocks were Amman Mineral (8.6%), Vale Indonesia (8.3%), Indosat (6.6%), and Astra International (3.9%). For the week, local markets are little changed after logging a steep decline in the prior period. Traders now look ahead to key domestic releases next week, including June foreign-exchange reserves, consumer confidence, and May retail sales.
-
----
-
-### 2026-07-03 11:21:27  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時縮量1878億元。
-
----
-
-### 2026-07-03 11:21:15  #公司
-
-【國新證券4000萬股股權因無人出價二次流拍】7月3日，阿里司法拍賣平臺顯示，深圳市科銘實業有限公司名下持有的華融證券（現名“國新證券”）4000萬股股份拍賣於上午十時結束，因無人出價流拍。這是該筆股權第二次拍賣，起拍價為6921.6萬元。
-
----
-
-### 2026-07-03 11:21:12  #其他
-
-新加坡金管局提出了金融服務領域人工智慧代理的框架。
-
----
-
-### 2026-07-03 11:20:51  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Reverse Early Losses — The Nikkei 225 Index rose 0.7% to above 69,000 on Friday, recovering from earlier losses as weaker-than-expected US jobs data led investors to scale back expectations for Federal Reserve interest rate hikes this year. The softer labor report helped offset persistent concerns over the AI sector, where investors continue to question whether aggressive investment and intensifying competition can justify lofty valuations and sustain long-term earnings growth. Meanwhile, the yen's nearly 1% surge on Thursday, fueled by speculation that Japanese authorities could intervene in the currency market at any time, remained a headwind for domestic equities. Among individual stocks, Kioxia Holdings jumped 7.3%, followed by Kokusai Electric (6.5%), Fast Retailing (4.3%), Sony Group (2.3%), and Toyota Motor (1.1%).
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 05:11:55_
-_本檔包含 2428 則快訊，約 505357 字_
+_更新時間：2026-07-05 06:06:43_
+_本檔包含 2412 則快訊，約 506226 字_
+
+---
+
+### 2026-06-30 19:42:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+S&P 500 Set for Best Quarter in 6 Years — US equity futures were slightly higher on Tuesday, extending their rebound on fresh stability for the technology sector and lower inflationary risks. Contracts for the S&P 500 and the Nasdaq 100 were slightly higher, while the Dow was due for another record at 52,250. AI companies mostly recovered from their selloffs last week to indicate the market retook its long position in the AI trade, spurred by strong guidance from chip producers, despite concerning levels of spending for hyperscalers. Nvidia, AMD, and Intel were up to 1% higher premarket. Meanwhile, oil prices consolidated near their pre-war levels to ease the likelihood that the Federal Reserve would be forced into a hiking cycle. The improved backdrop for the corporate sector supported traditional sectors of the economy that have more exposure in the Dow, driving the index to outperform others in June. Still, the S&P 500 was set to gain 14% in Q2, the strongest quarter in six years.
+
+---
+
+### 2026-06-30 19:19:40  #Trading Economics #Economy #India #Government Budget Value #Importance 1
+
+India’s Fiscal Deficit Widens in April-May — India’s fiscal deficit widened sharply to INR 1.6 trillion in April-May 2026-27, up from INR 0.1 trillion a year earlier, reaching 9.6% of the full-year target compared to 0.8% in the same period last year. As a net energy importer, the country is grappling with rising fuel subsidy costs due to elevated oil prices linked to the ongoing Middle East conflict. Total expenditure surged 18.1% year-on-year to INR 8.8 trillion (16.5% of the target), while capital spending, primarily on infrastructure, rising to INR 2.5 trillion (20.5% of the annual plan, up from INR 2.2 trillion). Meanwhile, total receipts declined by 2% to INR 7.2 trillion (19.7% of the annual goal), including net tax revenues of INR 3.5 trillion, unchanged from a year ago. India has set its fiscal deficit target for 2026-27 at 4.3% of GDP, or INR 17.0 trillion.
+
+---
+
+### 2026-06-30 19:17:14  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Closes Lower — India’s BSE Sensex closed about 0.3% down at 76,478.7 on Tuesday, the second day of losses, amid caution on US-Iran negotiations and as investors booked profits ahead of the June-quarter earnings season. IT stocks and financials led losses, while autos outperformed. Infosys, TCS, HCLTech and Tech Mahindra posted losses between 2.1% and 3.5%, amid concerns over potentially higher US interest rates. Other laggards included ITC (-1.3%), Hindustan Unilever (-1.3%), SBIN (-0.9%), Axis Bank (-0.9%), ICICI Bank (-0.8%) and Tata Steel (-0.8%). On the flip side, Maruti Suzuki emerged as the top gainer, climbing 5.1%, after global brokerage Jefferies upgraded the stock to “Buy” from “Hold” and raised its target price. Titan, Bajaj Finance, Eternal, Adani Ports also posted solid gains, rising between 1.9% and 2.9%. The benchmark index added 2.3% for the month and has gained 6.3% on a quarterly basis.
+
+---
+
+### 2026-06-30 19:01:20  #Trading Economics #Economy #Luxembourg #Producer Prices Change #Importance 1
+
+Luxembourg Producer Prices Fall at Softer Pace — Producer prices in Luxembourg fell 4.5% year-on-year in May 2026, following a 5.4% drop in the previous month and marking the tenth consecutive month of declines. The slower pace of decline reflected easing deflation across key categories, including consumer goods (-12.5% vs -13.6% in April), energy goods (-8.2% vs -8.3%), and intermediate goods (-2.7% vs -3.8%). Meanwhile, inflation for capital goods was unchanged at 1.7%. On a monthly basis, producer prices rose 0.8% in April, following a 1.2% increase in the prior month.
+
+---
+
+### 2026-06-30 18:35:02  #Trading Economics #Economy #Macau #Unemployment Rate #Importance 0
+
+Macau Unemployment Rate Holds at 1.8% — Macau's unemployment rate stood at 1.8% in May 2026, unchanged from the previous month. The number of unemployed increased by 6,000 to 7.1 thousand, while employment declined by 5,000 to 374.1 thousand. The labour force participation rate edged down to 66.3% from 66.4%, with the labour force decreasing by 6,000 to 380.8 thousand. Participation was lower among women (59.3%) than men (63.6%). By industry, gaming accounted for the largest share of employed residents (25.7%), followed by wholesale and retail trade (12.2%), accommodation and food services (11.2%), and public administration and social security (11.2%).
 
 ---
 
@@ -14514,131 +14544,5 @@ Bahrain authorities said alarms sounded, urging residents to "remain calm" and p
 ### 2026-06-28 06:06:57  #國際
 
 伊朗媒體報道伊朗南部傳出爆炸聲。
-
----
-
-### 2026-06-28 06:01:02  #國際
-
-【伊朗錫裡克地區傳出爆炸聲】據伊朗方面訊息，伊朗南部錫裡克的一個村莊傳出數次爆炸聲。一名軍方訊息人士稱，爆炸聲是由數枚彈體擊中一座通訊塔所致。另據一知情人士訊息，幾枚炮彈還擊中了伊朗南部格什姆島。
-
----
-
-### 2026-06-28 05:59:58  #國際
-
-伊朗軍方訊息人士稱，多枚彈藥擊中錫裡克附近塔魯伊村的一座通訊塔，由此引發爆炸。
-
----
-
-### 2026-06-28 05:59:29  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
-
-Fox News reported US forces carried out a new round of strikes against Iran that were larger in scale than last night’s operation. US and Bahraini forces shot down nine Iranian drones headed toward US troops in Bahrain.
-
----
-
-### 2026-06-28 05:58:15  #國際
-
-福克斯新聞：美軍當前對伊朗的打擊規模大於昨晚的行動。美軍與巴林部隊擊落了9架飛向駐巴林美軍的伊朗無人機。
-
----
-
-### 2026-06-28 05:57:37  #國際
-
-伊朗錫裡克縣再傳出兩聲爆炸巨響，爆炸起因目前尚不明確。
-
----
-
-### 2026-06-28 05:57:00  #國際
-
-航班追蹤平臺 Flightradar24 不久前監測到霍爾木茲海峽附近出現大量美國空軍軍機活動跡象：在美國對伊朗實施空襲後，至少有 4 架 KC-135 “同溫層加油機” 與 3 架 KC-46A “飛馬” 加油機處於執勤狀態。
-
----
-
-### 2026-06-28 05:54:32  #其他
-
-【委內瑞拉震後當地華僑華人已捐贈500噸救災物資】從中國駐委內瑞拉使館瞭解到，截至27日16時，據不完全統計，委內瑞拉華人華僑聯合總會等僑團已組織在委華僑華人捐贈約500噸救災物資，包括礦泉水、餅乾、紙尿褲、牛奶、大米、糖、魚肉等，近萬委內瑞拉受災家庭得到幫助。（新華社）
-
----
-
-### 2026-06-28 05:53:55  #國際
-
-【美軍在伊朗再度襲擊商船後實施新一輪打擊】美國中央司令部部隊表示，應美國總統指示，於6月27日對伊朗境內多處目標發動新一輪打擊。昨日美軍針對伊朗襲擊“長榮美好”號貨輪一事實施打擊後，伊朗本有機會遵守停火協議，但伊方並未選擇停火。今晨美國東部時間4時30分，伊朗軍方發射單向攻擊無人機，擊中“菊號”油輪。這艘懸掛巴拿馬國旗的油輪當時載有超200萬桶原油，正航行於霍爾木茲海峽附近海域。美軍中央司令部此次發動打擊，是對伊朗持續襲擾商業航執行為的直接回應。美軍戰機打擊了伊朗軍用監視設施、通訊系統、防空陣地、無人機儲存庫以及佈雷作戰裝備。霍爾木茲海峽商船航運仍正常通行。美軍保持高度戒備，具備實戰打擊能力，隨時待命應對各類突發情況。
-
----
-
-### 2026-06-28 05:52:07  #國際
-
-美國一名官員向福克斯新聞透露：伊朗並未停止敵對行動，並在霍爾木茲海峽襲擊了 “菊號” 油輪（MT Kiku）。
-
----
-
-### 2026-06-28 05:51:53  #MKT News
-
-IRIB reported several artillery shells struck a village on Qeshm Island.
-
----
-
-### 2026-06-28 05:51:43  #國際
-
-美國一名官員向福克斯新聞表示，美軍正在打擊伊朗防空系統、雷達及導彈設施，此次行動規模超過此前所有軍事行動。
-
----
-
-### 2026-06-28 05:50:46  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【CENTCOM confirms additional strikes on Iranian military targets after tanker hit near Strait of Hormuz】CENTCOM said on June 27 it carried out additional strikes on multiple Iranian targets after Iran this morning (04:30 ET) used a one-way attack drone to hit and destroy the Panama‑flagged tanker M/T Kiku near the Strait of Hormuz. The vessel was carrying more than 2 mln barrels of crude. CENTCOM said the action responds to sustained Iranian attacks on merchant shipping, following a U.S. strike yesterday that had been launched in retaliation for Iran’s attack on M/V EverLovely. U.S. aircraft struck Iranian military surveillance and communications sites, air‑defence positions, drone storage facilities and mine‑laying capability.
-
----
-
-### 2026-06-28 05:48:59  #國際
-
-伊朗軍方：多枚射彈襲擊了格什姆島的一座村莊。
-
----
-
-### 2026-06-28 05:46:38  #國際
-
-美國中央司令部：美軍在伊朗最新襲擊民用船隻後實施額外打擊。
-
----
-
-### 2026-06-28 05:44:53  #其他
-
-遭腐敗指控後，阿根廷總統辦公室最高負責人努埃爾·阿多爾尼宣佈辭職。
-
----
-
-### 2026-06-28 05:42:43  #焦點 #國際
-
-【美國再對伊朗實施軍事打擊】當地時間6月27日，美國已對伊朗實施軍事打擊。（央視新聞）
-
----
-
-### 2026-06-28 05:42:25  #其他
-
-【委內瑞拉地震中國公民遇難人數升至8人】記者從中國駐委內瑞拉使館瞭解到，截至當地時間27日17時，據不完全統計，已確認有8名中國公民在“6·24地震”中遇難。
-
----
-
-### 2026-06-28 05:41:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. conducts further military strikes on Iran】On June 27 local time, the U.S. carried out military strikes against Iran.
-
----
-
-### 2026-06-28 05:40:09  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-【U.S. strikes Iran again; explosions reported in Sirik】Iran's Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran after multiple shells struck a communications tower. US media Axios, citing US officials, said the U.S. military is striking Iranian targets in the Strait of Hormuz region in response to Iran's Saturday attack on a commercial tanker. Axios said this is the second round of U.S. airstrikes since the signing of a U.S.-Iran memorandum of understanding.
-
----
-
-### 2026-06-28 05:37:07  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran linked to multiple shells striking a communications tower. US media outlet Axios reported the United States carried out airstrikes against Iran.
-
----
-
-### 2026-06-28 05:18:11  #市場
-
-【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）
 
 ---

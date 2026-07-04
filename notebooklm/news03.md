@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 05:11:55_
-_本檔包含 3038 則快訊，約 505649 字_
+_更新時間：2026-07-05 06:06:43_
+_本檔包含 3029 則快訊，約 505944 字_
+
+---
+
+### 2026-07-02 15:16:36  #其他
+
+【商務部：中德經濟合作聯委會將重啟 力爭2027年初召開合作機制新一次會議】7月2日，商務部新聞發言人何亞東表示，中德經濟合作聯委會將重啟，未來中德雙方還將創新合作機制，設立貿易投資和產業合作兩個工作組，就經貿議題開展政策交流和政企對話。目前中德雙方團隊正加緊推進各項工作，力爭於2027年年初，由雙方部長主持召開合作機制的新一次會議，為下一階段中德高層交往積累經貿成果。
+
+---
+
+### 2026-07-02 15:16:23  #MKT News #Important #Market Regions #Greater China #S&P500 #Impact bullish #CNH #DXY #Impact bearish
+
+【MOFCOM says sides set target to expand two-way farm trade, in principle agree to include US farm products in reciprocal tariff-reduction framework】MOFCOM spokesman He Yadong said at a routine July 2 briefing that agricultural trade is an important part of China‑U.S. economic cooperation. After recent consultations both sides set a guiding target to expand two‑way agricultural trade and have in principle agreed to include relevant farm products in a reciprocal tariff‑reduction framework. He said firms will trade on market principles according to demand and market conditions, and China is willing to work with the U.S. to create favourable conditions for two‑way agricultural trade.
+
+---
+
+### 2026-07-02 15:16:19  #Trading Economics #Economy #Spain #Unemployment Change #Importance 2
+
+Spain Jobless Lowest Since Jan 2008 — Spain’s registered unemployment fell by 28.739 thousand from the previous month to 2.291 million in June 2026, marking the first time the total has dropped below the 2.3 million threshold since January 2008. Still, the decline was softer than the market expectations of a 40.8 thousand drop. Notably, female unemployment decreased by 15.801 thousand, pushing the total number of jobless women below 1.4 million for the first time since August 2008. Youth unemployment dropped 5,155 to a record low of 159,800. Unemployment decreased across services (-28,498), industry (-2,829), construction (-1,326), and agriculture (-384), while those without prior employment increased by 4,298. Separately, data from the Social Security Ministry showed Spain added 92,531 net jobs in June, bringing total employment to 22.21 million. Regionally, unemployment fell across 11 autonomous communities, with Andalusia (-11,597), Galicia (-3,587) and Castilla y León (-2,895) posting the largest declines.
+
+---
+
+### 2026-07-02 15:16:13  #公司
+
+【抖音成立深空引擎科技公司】企查查APP顯示，近日，東陽深空引擎科技有限公司成立，經營範圍包含農業科學研究和試驗發展；醫學研究和試驗發展；版權代理；雲端計算裝備技術服務等。企查查股權穿透顯示，該公司由抖音有限公司間接全資持股。
+
+---
+
+### 2026-07-02 15:16:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+【Bond futures midday close】2-year bond futures (TS) main contract up 0.02%; 5-year bond futures (TF) main contract up 0.05%; 10-year bond futures (T) main contract up 0.07%; 30-year bond futures (TL) main contract up 0.04%.
+
+---
+
+### 2026-07-02 15:16:08  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 2.02% Lower — The Shangai Composite Index dropped 83 points or 2.02 percent on Thursday to close at 4030 points. Losses were led by Datang Intl (-5.78%), China Merchants Securities (-5.10%) and Sanan Optoelectron (-3.48%).
+
+---
+
+### 2026-07-02 15:15:54  #公司 #國際
+
+【美國國家公路交通安全管理局：通用汽車將召回超1.4萬輛汽車】7月2日，根據美國國家公路交通安全管理局（NHTSA）線上釋出的召回通知，通用汽車公司正在召回14,540輛車。該汽車公司正在召回部分2026-2027款凱迪拉克VISTIQ車型。美國國家公路交通安全管理局表示，當電動摺疊功能啟動時，第三排電動座椅靠背在遇到人員時可能無法反向復位。人員（尤其是兒童）可能會被後排電動座椅靠背困住，從而增加受傷風險。
+
+---
+
+### 2026-07-02 15:15:48  #宏觀 #其他 #焦點
+
+【商務部回應對美農產品關稅問題】商務部新聞發言人何亞東在7月2日舉行的例行釋出會上回應有關降低或取消對美國農產品關稅的提問時說，農產品貿易是中美經貿合作的重要組成部分。經過近期經貿磋商，雙方設定了擴大農產品雙向貿易的指導性目標，並原則同意將相關農產品納入對等降稅框架安排。企業將遵循市場化原則，根據實際需求和市場條件自主開展貿易。中方願與美方相向而行，為雙向農產品貿易創造有利條件。（新華社）
+
+---
+
+### 2026-07-02 15:15:41  #MKT News #Star Stocks #JD.com
+
+【Prominent retail investors Zhao Jianping, Zhong Weiwei take 0.99% stake in Lisuan Technology】Shanghai Xianghong Wensheng Enterprise Management LLP bought a 0.99% direct stake in Lisuan Technology (Shanghai) Co. for 40 mln yuan, filings show; the LLP’s investors are known retail investors Zhao Jianping and Zhong Weiwei. Public records list Zhao Jianping and his daughter Zhao Ji among the top ten shareholders of Dongxin Co., with combined holdings valued at over 1.8 bln yuan; Dongxin is Lisuan’s largest shareholder with a 35.87% stake. Lisuan, a domestic GPU maker, launched its self‑developed consumer GPULX7G100 series on JD.com on May 20 and sold out on debut. The timing of these purchases underscores sustained investor confidence in domestic GPU commercialization and Lisuan’s longer‑term outlook.
+
+---
+
+### 2026-07-02 15:15:40  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
+
+US Hiring Expected to Cool in June — The US economy is expected to have added 110K jobs in June 2026, marking the smallest monthly increase in employment in four months, following three consecutive months of stronger-than-expected gains in nonfarm payrolls. In May, payrolls rose by 172K, although some analysts suggest that hiring related to the World Cup may have temporarily boosted employment. The unemployment rate is projected to remain at 4.3% for a fourth consecutive month. Meanwhile, average hourly earnings are expected to increase by 0.3% month-over-month, matching May's pace, while annual wage growth is forecast to edge up to 3.5% from 3.4%. Although payroll growth is expected to moderate, the June employment report is still likely to point to a resilient labour market.
 
 ---
 
@@ -18178,119 +18238,5 @@ Pakistan Inflation Rate Slows — Pakistan's annual inflation rate eased to 11.0
 ### 2026-07-01 17:35:20  #MKT News
 
 SGX will conduct quarterly reviews to determine whether additional financial instruments qualify for reduced minimum trading units.
-
----
-
-### 2026-07-01 17:35:03  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Rise Toward 4.8% — UK 10-year gilt yields climbed toward 4.8%, rebounding from two-month lows and tracking a surprise rise in US Treasury yields. This followed the latest JOLTS report, which showed job openings at a two-year high, while analysts expect another strong June non-farm payrolls report, reinforcing bets that the Federal Reserve will raise interest rates this year. In the UK, investors assessed the growing likelihood of Energy Secretary Ed Miliband becoming the next Chancellor over centrist Wes Streeting. Concerns about fiscal policy under Andy Burnham, the frontrunner to succeed as Prime Minister, eased after his fiscal discipline pledge. Meanwhile, attention remained on the ECB’s Sintra Forum for economic and policy insights. Bank of England Governor Andrew Bailey reiterated that the BoE is not rushing to respond to rising oil prices, with inflation still on track to return to the 2% target, albeit later than desired.
-
----
-
-### 2026-07-01 17:35:02  #公司
-
-【中銀航空租賃與星宇航空就八架空客A321NEO飛機簽署租賃協議】7月1日，中銀航空租賃有限公司宣佈，已與星宇航空就公司訂單簿中的八架空客A321NEO飛機簽署租賃協議。所有飛機均將配備CFM LEAP-1A發動機，計劃自2028年起陸續交付。
-
----
-
-### 2026-07-01 17:34:40  #公司
-
-【蘇州規劃：因評估資料更新 重組事項稽核被深交所中止】蘇州規劃公告稱，公司擬發行股份及支付現金購買北京東進航空科技股份有限公司100%股權並募集配套資金。因重組申請檔案中評估資料已過有效期，需補充提交，深交所於6月30日對本次重組中止稽核。本次中止對交易無實質性影響，公司將推進重組，協調落實加期評估及檔案更新工作，完成後儘快報送材料並申請恢復稽核。本次交易尚需多項審批，能否獲批及獲批時間不確定。
-
----
-
-### 2026-07-01 17:34:40  #MKT News #Macro & Rates #US Economy
-
-Andy Challenger, chief revenue officer and labor-market specialist at US job-data firm Challenger, said the pace of planned layoffs eased markedly in June, roughly in line with planned levels in June last year and consistent with typical summer seasonality.
-
----
-
-### 2026-07-01 17:34:39  #公司
-
-【君亭酒店：控股股東終止協議轉讓暨公司控制權變更事項】君亭酒店公告稱，2026年7月1日，公司控股股東吳啟元及相關股東從波、施晨寧與受讓方湖北文旅簽署《終止協議》，終止全部控制權變更相關交易檔案。此前，湖北文旅擬14.99億元受讓三人持有的29.99%股份，同時吳啟元放棄剩餘股份表決權，湖北文旅擬部分要約收購。因生效條件未全部成就，各方協商一致終止。本次終止不影響公司正常經營，控股股東仍為吳啟元，實際控制人仍為吳啟元、丁禾夫婦。
-
----
-
-### 2026-07-01 17:34:19  #公司 #市場
-
-【激智科技：股票交易異常波動 新行業產品進展存不確定性】激智科技公告稱，公司股票交易價格在2026年6月29日、6月30日、7月1日連續三個交易日內日收盤價格漲幅偏離值累計超過30%，屬於異常波動。經核實，公司基本面未變，不存在應披露未披露重大事項，控股股東、實控人在此期間未買賣公司股票。目前公司新行業的UV膠及塗布產品處於研發或送樣早期，進展和產生收入時間不確定，提醒投資者注意風險。
-
----
-
-### 2026-07-01 17:33:49  #公司 #國際
-
-【6月美國僱主放緩裁員計劃，科技行業裁員規模居首】美國就業資料公司“挑戰者”的一份報告顯示，美國僱主在6月宣佈裁員45,849人，較5月的97,006人減少了53%。科技行業裁員規模居首，6月共裁減員工15,503人，這一數字較去年同期增長了83%。儘管如此，上個月的裁員總數仍比去年同期下降了4%，並創下了自2025年12月以來的最低月度總數。“挑戰者”公司首席營收官安迪·查倫傑表示：“6月的裁員步伐顯著放緩，這與去年6月的計劃情況相似，也符合夏季月份的典型特徵。”報告發現，人工智慧（AI）是導致裁員的主要原因，當月因此裁員的人數達14,029人。各大科技公司在投入數十億美元建設AI基礎設施的同時，也將AI因素納入了重組計劃之中。
-
----
-
-### 2026-07-01 17:33:42  #其他
-
-【重慶：支援有條件的房地產開發企業開闢建築機器人、智慧家居等新賽道】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃》意見。其中提出，促進房地產開發企業轉型發展。支援房地產開發企業參與保障性住房、城市更新等專案的建設運營，發展委託代建、住房租賃、房產運營、物業服務、生活服務和城市運營服務等業務。鼓勵房地產開發企業結合避暑休閒、旅遊康養、教育文化、醫療物流等，打造高品質住宅。支援房地產開發企業應用數智技術、綠色技術，全面提升住宅設計、建造和維護水平。支援有條件的房地產開發企業開闢建築機器人、智慧家居等新賽道。
-
----
-
-### 2026-07-01 17:33:39  #公司
-
-【美團在溫州成立科技公司 註冊資本500萬美元】天眼查App顯示，近日，溫州象騎科技有限公司成立，法定代表人為孫可青，註冊資本500萬美元，經營範圍包括軟體開發、資訊科技諮詢服務、共享腳踏車服務等，由 Xigua Limited 全資持股。
-
----
-
-### 2026-07-01 17:33:21  #市場
-
-歐元/英鎊下跌0.2%至0.85926，觸及一年低點。
-
----
-
-### 2026-07-01 17:33:11  #其他
-
-新加坡交易所將每日曆季度開展一次複核，以確定是否有額外工具符合縮減整手交易單位的資格。
-
----
-
-### 2026-07-01 17:33:05  #公司
-
-【邱寶華任中國聯通副總經理】7月1日訊息，邱寶華任中國聯合網路通訊集團有限公司副總經理、黨組成員。
-
----
-
-### 2026-07-01 17:33:01  #MKT News
-
-Singapore Exchange (SGX) said custody-structure optimization will take effect in July; reduced per-lot trading units will be implemented in October.
-
----
-
-### 2026-07-01 17:32:22  #公司 #國際
-
-美國就業資料公司挑戰者：美國科技公司在六月宣佈裁員15,503人。人工智慧成為美國僱主裁員的主要原因，連續第四個月居首。
-
----
-
-### 2026-07-01 17:32:11  #公司
-
-【曹立軍陳書平會見比亞迪公司董事長王傳福】據成都日報訊息，6月30日，四川省委常委、成都市委書記曹立軍，成都市委副書記、市長陳書平會見比亞迪股份有限公司董事長兼總裁王傳福一行。雙方圍繞搶抓“十五五”時期重大戰略機遇，進一步加大在蓉投資佈局力度，深化拓展積體電路、智慧終端等領域務實合作，加強新技術新場景深度應用推廣，更好助力企業高質量發展和成都建設全國先進製造業基地等交換了意見。
-
----
-
-### 2026-07-01 17:32:01  #MKT News #Market Regions #Greater China #Market Themes #China EV Leaders #1211.HK #Impact bullish
-
-【Cao Lijun and Chengdu mayor Chen Shuping meet BYD chairman Wang Chuanfu】June 30 — Sichuan provincial Party standing committee member and Chengdu party secretary Cao Lijun and Chengdu deputy party secretary and mayor Chen Shuping met BYD chairman and president Wang Chuanfu. They discussed seizing strategic opportunities during the 15th Five-Year Plan period and expanding BYD’s investment footprint in Chengdu, deepening pragmatic cooperation in integrated circuits and smart terminals, and accelerating deployment of new technologies and application scenarios to support BYD’s high-quality development and Chengdu’s push to become a national advanced manufacturing base.
-
----
-
-### 2026-07-01 17:31:46  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #Nasdaq100 #XAUUSD #Impact bullish
-
-Challenger, Gray & Christmas said U.S. tech companies announced 15,503 job cuts in June. Artificial intelligence was the top reason cited by U.S. employers for layoffs, the leading cause for a fourth consecutive month.
-
----
-
-### 2026-07-01 17:31:28  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact mixed
-
-U.S. June Challenger job cuts MoM -53%; prior +16%.
-
----
-
-### 2026-07-01 17:31:23  #國際
-
-市場訊息：烏克蘭總統澤連斯基表示，烏克蘭方面第二次襲擊了位於烏法市的俄羅斯煉油廠，該地點距離前線超 1300 公里（800 英里），基輔當局正加大對俄羅斯腹地目標的打擊力度。
 
 ---
