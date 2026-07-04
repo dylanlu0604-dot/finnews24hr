@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-04 15:54:29",
+  "updated": "2026-07-04 15:58:33",
   "count": 13286,
   "items": [
+    {
+      "id": "mkt:019f2c20-3600-7aab-8c9c-4a9b84b442df",
+      "time": "2026-07-04 15:55:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukrainian forces struck oil and military facilities near St. Petersburg."
+    },
+    {
+      "id": "mkt:019f2c20-1aa5-7aab-8c9c-43418c70ad1d",
+      "time": "2026-07-04 15:55:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Naftogaz said a gas production facility in Ukraine's central Poltava region was hit by Russian drones, causing a fire."
+    },
+    {
+      "id": "4970328",
+      "time": "2026-07-04 15:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭軍方襲擊了聖彼得堡附近的石油設施與軍事設施。"
+    },
+    {
+      "id": "mkt:019f2c1f-b740-7aab-8c9c-3a249f9b195d",
+      "time": "2026-07-04 15:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign passengers exceed 40% of traffic at Guangzhou Baiyun airport, record high】Guangzhou Exit-Entry Frontier Inspection Station said as of the 3rd this year foreign entries and exits at Guangzhou Baiyun International Airport exceeded 3.9 mln, up 34% YoY and accounting for more than 41% of the checkpoint’s total traffic, both record highs. Overall entries and exits at the checkpoint topped 10 mln, up 19.6% YoY, reaching the 10 mln mark 34 days earlier than in 2025."
+    },
+    {
+      "id": "4970327",
+      "time": "2026-07-04 15:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州南沙港迎來今年第100艘榴蓮船 已連續六年居全國水果進口口岸首位】廣州南沙邊檢站4日釋出資訊稱，滿載新鮮榴蓮的中國籍“新武漢”輪日前靠泊廣州港南沙二期碼頭，順利完成入境通關，成為2026年抵達南沙口岸的第100艘進口榴蓮船舶。至此，南沙港已連續六年穩居全國水運生鮮水果進口口岸首位。（中新網）"
+    },
     {
       "id": "4970326",
       "time": "2026-07-04 15:53:42",
@@ -122247,52 +122295,6 @@
         "其他"
       ],
       "text": "【馬克·古爾曼：觸屏MacBook將搭載M5晶片釋出，蘋果計劃跳過M6 Pro及M6 Max】當地時間6月26日，科技記者馬克·古爾曼發文稱，蘋果傳聞中的觸屏MacBook Pro將在今年晚些時候或2027年初發布，首發搭載現役M5 Pro及M5 Max晶片。蘋果此後計劃推出配備M7晶片的升級版本，這與此前報道蘋果將跳過M6 Pro及M6 Max直接推出M7系列的計劃相吻合。蘋果跳過高階M6晶片的決策被認為與記憶體短缺導致的成本壓力密切相關，蘋果本週已因此宣佈上調Mac及iPad產品售價。"
-    },
-    {
-      "id": "4958308",
-      "time": "2026-06-27 15:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【崑崙資本投資總額突破百億元 躋身央企投資公司第一梯隊】記者6月26日在2026產投融協同發展研討活動上獲悉，崑崙資本已累計投資專案近50個，投資總額突破百億元，躋身央企投資公司第一梯隊。活動現場，崑崙工融電航基金等三隻產業基金完成集中籤約，還同步舉辦新能源、新材料、人工智慧與高階製造三組平行主題沙龍。（上證報）"
-    },
-    {
-      "id": "mkt:019f0815-c08e-7dd8-b141-1a05fc8c6669",
-      "time": "2026-06-27 15:57:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's state gas company said Russia struck its production facilities in Poltava and Kharkiv regions, causing damage."
-    },
-    {
-      "id": "mkt:019f0815-2ae5-7dd8-b141-146201597ba3",
-      "time": "2026-06-27 15:57:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude 5.6 earthquake south of East Java, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a magnitude 5.6 earthquake in the offshore southern area of East Java at 14:47 local time on June 27; no tsunami threat is expected."
-    },
-    {
-      "id": "4958307",
-      "time": "2026-06-27 15:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼東爪哇省南部海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間6月27日14時47分，印尼東爪哇省南部海域發生5.6級地震，預計不會有海嘯風險。"
-    },
-    {
-      "id": "4958306",
-      "time": "2026-06-27 15:55:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭石油天然氣公司（Naftogaz）表示，俄羅斯襲擊了該公司位於波爾塔瓦州與哈爾科夫州的生產設施，並造成了損毀。"
     }
   ]
 }

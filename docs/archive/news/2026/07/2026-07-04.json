@@ -1,7 +1,55 @@
 {
   "date": "2026-07-04",
-  "count": 438,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:019f2c20-3600-7aab-8c9c-4a9b84b442df",
+      "time": "2026-07-04 15:55:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukrainian forces struck oil and military facilities near St. Petersburg."
+    },
+    {
+      "id": "mkt:019f2c20-1aa5-7aab-8c9c-43418c70ad1d",
+      "time": "2026-07-04 15:55:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Naftogaz said a gas production facility in Ukraine's central Poltava region was hit by Russian drones, causing a fire."
+    },
+    {
+      "id": "4970328",
+      "time": "2026-07-04 15:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭軍方襲擊了聖彼得堡附近的石油設施與軍事設施。"
+    },
+    {
+      "id": "mkt:019f2c1f-b740-7aab-8c9c-3a249f9b195d",
+      "time": "2026-07-04 15:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign passengers exceed 40% of traffic at Guangzhou Baiyun airport, record high】Guangzhou Exit-Entry Frontier Inspection Station said as of the 3rd this year foreign entries and exits at Guangzhou Baiyun International Airport exceeded 3.9 mln, up 34% YoY and accounting for more than 41% of the checkpoint’s total traffic, both record highs. Overall entries and exits at the checkpoint topped 10 mln, up 19.6% YoY, reaching the 10 mln mark 34 days earlier than in 2025."
+    },
+    {
+      "id": "4970327",
+      "time": "2026-07-04 15:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州南沙港迎來今年第100艘榴蓮船 已連續六年居全國水果進口口岸首位】廣州南沙邊檢站4日釋出資訊稱，滿載新鮮榴蓮的中國籍“新武漢”輪日前靠泊廣州港南沙二期碼頭，順利完成入境通關，成為2026年抵達南沙口岸的第100艘進口榴蓮船舶。至此，南沙港已連續六年穩居全國水運生鮮水果進口口岸首位。（中新網）"
+    },
     {
       "id": "4970326",
       "time": "2026-07-04 15:53:42",
