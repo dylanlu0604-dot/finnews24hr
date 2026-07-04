@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 04:16:30",
+  "updated": "2026-07-05 04:20:21",
   "count": 13235,
   "items": [
+    {
+      "id": "mkt:019f2ec7-fec4-7aab-8c9f-4aae3769f2ae",
+      "time": "2026-07-05 04:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said UK leaders failed to fulfill their duties and he expects the next prime minister to deliver change."
+    },
+    {
+      "id": "4970595",
+      "time": "2026-07-05 04:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯稱，英國曆屆領導人辜負了國家，希望下一任首相能帶來變革。"
+    },
     {
       "id": "mkt:019f2ec3-3674-7aab-8c9f-4327d2228b58",
       "time": "2026-07-05 04:12:53",
@@ -121806,22 +121822,6 @@
         "Importance 0"
       ],
       "text": "Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 21.98 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 10.19%, and in the last 12 months, it increased 32.86%."
-    },
-    {
-      "id": "4958602",
-      "time": "2026-06-28 04:18:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達和埃及外長在通話中討論了地區局勢發展。"
-    },
-    {
-      "id": "mkt:88d8a1b4-6276-4d95-964b-e5608b71f562",
-      "time": "2026-06-28 04:17:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gavekal Research: scenario of Trump forcing Fed cuts that keep inflation above 2% is unlikely】Gavekal Research said markets feared in 2025 that Trump might undermine Fed independence by nominating a political ally as chair, forcing rate cuts and leaving inflation persistently above the Fed’s 2% target. Developments over the past seven months make that scenario unlikely: the appointment of Kevin Walsh to lead the Fed and the retention of 11 of 12 regional Fed bank presidents. At Walsh’s first meeting earlier this month the Fed emphasized its commitment to price stability, surprising some market participants who had expected a more dovish stance."
     }
   ]
 }

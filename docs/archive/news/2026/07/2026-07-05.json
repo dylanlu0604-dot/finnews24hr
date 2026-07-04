@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 119,
+  "count": 121,
   "items": [
+    {
+      "id": "mkt:019f2ec7-fec4-7aab-8c9f-4aae3769f2ae",
+      "time": "2026-07-05 04:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said UK leaders failed to fulfill their duties and he expects the next prime minister to deliver change."
+    },
+    {
+      "id": "4970595",
+      "time": "2026-07-05 04:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯稱，英國曆屆領導人辜負了國家，希望下一任首相能帶來變革。"
+    },
     {
       "id": "mkt:019f2ec3-3674-7aab-8c9f-4327d2228b58",
       "time": "2026-07-05 04:12:53",
