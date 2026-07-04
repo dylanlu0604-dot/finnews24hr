@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 16:42:49",
-  "count": 13294,
+  "updated": "2026-07-04 16:46:53",
+  "count": 13293,
   "items": [
+    {
+      "id": "4970352",
+      "time": "2026-07-04 16:42:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務委員兼國務院秘書長吳政隆在湖北湖南調研時指出持續增強內生動力推動經濟向新向優向好發展】國務委員兼國務院秘書長吳政隆2日至4日在湖北、湖南調研。他強調，要深入學習貫徹習近平總書記“七一”重要講話精神，牢固樹立和踐行正確政績觀，牢牢把握高質量發展這個首要任務，以更大力度和更實舉措抓好黨中央、國務院決策部署貫徹落實，奮力實現全年經濟社會發展目標任務，確保“十五五”開好局、起好步。 吳政隆先後到湖北武漢和湖南嶽陽、長沙等地，實地調研新能源汽車、工業母機、新材料、晶片、石化等企業，並與有關地方政府、企業負責人座談交流。他指出，今年以來我國經濟執行起步平穩、穩中有進，展現強大韌性和活力。要錨定全年目標任務，增強發展信心，用好宏觀政策，緊盯經濟執行和高質量發展中的重點和難題採取針對性舉措，鞏固拓展經濟穩中向好勢頭。要著力擴大內需、最佳化供給，加強“六張網”規劃建設，促進服務業擴能提質，縱深推進全國統一大市場建設，更大釋放超大規模市場潛力。要強化創新鏈產業鏈融合，因地制宜發展新質生產力，推動製造業高階化、智慧化、綠色化發展，培育壯大新興產業和未來產業，促進人工智慧賦能千行百業，充分激發經濟內生動力和活力。 吳政隆強調，要更好統籌發展和安全，樹牢底線思維、極限思維，紮實做好穩增長、惠民生、防風險等各項工作，不斷提高貫徹黨中央、國務院決策部署的執行力，把“時時放心不下”的責任感轉化為“事事心中有底”的行動力，切實增強人民群眾獲得感、幸福感、安全感。(新華社)"
+    },
     {
       "id": "mkt:019f2c49-b822-7aab-8c9c-7600609d1806",
       "time": "2026-07-04 16:40:56",
@@ -122333,24 +122341,6 @@
         "市場"
       ],
       "text": "【主力資金大調倉 超267億元撤出“易中天”】本週（6月22日—26日），A股市場震盪調整。截至6月26日收盤，上證指數、深證成指、創業板指本週分別累計下跌1.55%、1.55%、1.37%，科創50指數本週累計大漲6.32%。資金面上，本週滬深兩市主力資金合計淨流出2169.35億元。主力資金大幅流出科技股，本週“易中天”（新易盛、中際旭創、天孚通訊）合計被拋售超267億元，其中，光模組龍頭中際旭創本週主力資金淨流出超137億元。本週主力資金淨流出方面，中際旭創淨流出137.80億元，位居首位。勝宏科技淨流出81.61億元；東山精密、天孚通訊、光迅科技均淨流出超70億元；華工科技淨流出62.67億元；新易盛、銅冠銅箔均淨流出超50億元；中天科技、寧德時代均淨流出超35億元。 (中國證券報)"
-    },
-    {
-      "id": "mkt:019f0841-1d8d-7dd8-b141-40a625ff6f57",
-      "time": "2026-06-27 16:45:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Huisi Kaiwu dual models file with Beijing Cyberspace Administration; firm claims national firsts】June 26 — Beijing Humanoid Robot Innovation Center’s Huisi Kaiwu (HSKW) platform said its dual ‘brain’ models, Pelican‑VL and WoW, were included in the latest batch of generative AI service filings with the Beijing Cyberspace Administration. The center said the filings mark three industry firsts: the first nationally filed general‑purpose foundational model, the first nationally filed embodied world model, and the only pair of underlying core models filed simultaneously. Beijing Humanoid will launch token‑based services for the full HSKW model suite and roll out phased API access for industry clients, research institutes and developers to commercialize the models."
-    },
-    {
-      "id": "4958322",
-      "time": "2026-06-27 16:43:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首個 慧思開物雙模型合規備案落地】6月26日，北京人形機器人創新中心（下稱“北京人形”）慧思開物平臺的雙大腦模型天鶘（Pelican-VL）和我悟（WoW）同步完成北京市網信辦最新一批生成式人工智慧服務備案。一舉斬獲行業三大“全國首個”成果：全國首個完成備案的通用大腦基座模型、全國首個完成備案的具身世界模型、行業唯一雙底層核心模型同步一次性完成備案。北京人形將正式啟動慧思開物全系列模型Token服務，計劃分階段面向產業客戶、科研機構、開發者全面開放API呼叫能力，構建可持續商業化增長曲線。"
     }
   ]
 }
