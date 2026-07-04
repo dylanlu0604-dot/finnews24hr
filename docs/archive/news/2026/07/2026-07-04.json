@@ -1,7 +1,28 @@
 {
   "date": "2026-07-04",
-  "count": 278,
+  "count": 280,
   "items": [
+    {
+      "id": "4970202",
+      "time": "2026-07-04 09:17:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐巴塞羅那總領館提醒領區中國公民防範山火災害】7月3日，西班牙加泰羅尼亞自治區赫羅納省南部突發山火，受強風影響火勢尚未得到有效控制，已有4萬餘名居民居家避險，部分割槽域交通中斷。中國駐巴塞羅那總領館提醒領區中國公民注意防範應對山火災害。密切關注當地政府部門釋出的火情資訊，避免前往受山火影響的區域。積極配合當地政府防災避災措施，加強個人健康防護，確保人身財產安全。"
+    },
+    {
+      "id": "mkt:019f2ab3-4e1b-7aab-8c9b-219a7ba80b70",
+      "time": "2026-07-04 09:17:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Fujian aims for over 8% annual growth in core digital-economy value added over next five years】Fujian provincial government issued its 15th Five-Year Digital Fujian Plan, targeting a domestically leading level of digitalization by 2030 and positioning Digital Fujian as a benchmark for national digital development. The plan prioritizes market-based allocation of data, industrial digitalization, digital government and the digital development environment, and seeks to lift value added of core digital-economy industries by more than 8% annually over the next five years."
+    },
     {
       "id": "4970201",
       "time": "2026-07-04 09:14:09",
