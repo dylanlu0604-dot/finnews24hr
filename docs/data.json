@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-05 04:43:40",
-  "count": 13226,
+  "updated": "2026-07-05 04:47:34",
+  "count": 13229,
   "items": [
+    {
+      "id": "mkt:019f2ee0-ef0f-7aab-8c9f-5c503174a675",
+      "time": "2026-07-05 04:45:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "CVX.O",
+        "Impact bullish"
+      ],
+      "text": "Iraq's cabinet approved Basra Oil Company to sign a preliminary agreement with a consortium made up of Chevron, Capital Energy TI and Qatar's UCC Energy for a strategic oil pipeline project."
+    },
+    {
+      "id": "4970598",
+      "time": "2026-07-05 04:44:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊拉克內閣批准巴士拉石油公司與由雪佛龍、Capital Energy TI和卡達UCC能源組成的財團簽署戰略輸油管道專案初步協議。"
+    },
+    {
+      "id": "4970597",
+      "time": "2026-07-05 04:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名白宮高階官員透露：特朗普今晚將發表一篇具有歷史意義的演講，回顧美國建國二百五十年來的歷程，並透過美國英雄的事蹟娓娓道來。這篇演講風格獨特，和他以往所有講話都截然不同。"
+    },
     {
       "id": "mkt:019f2ed5-d704-7aab-8c9f-545048910ae4",
       "time": "2026-07-05 04:33:13",
