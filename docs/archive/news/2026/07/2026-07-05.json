@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "mkt:019f2df4-6423-7aab-8c9d-cf6105973de3",
+      "time": "2026-07-05 00:26:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India lifts gas supply restrictions as Middle East LNG flows resume】India's government said on Saturday it has revoked restrictions on natural gas suppliers after LNG supplies from the Middle East resumed. In March, following a disruption to LNG transport through the Strait of Hormuz, New Delhi ordered emergency measures to divert gas from non-priority users to critical consumers."
+    },
     {
       "id": "4970535",
       "time": "2026-07-05 00:20:49",
