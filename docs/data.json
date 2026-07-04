@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 08:03:46",
+  "updated": "2026-07-04 08:07:31",
   "count": 13311,
   "items": [
+    {
+      "id": "4970180",
+      "time": "2026-07-04 08:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將接受公眾股票的慈善捐款。"
+    },
+    {
+      "id": "4970179",
+      "time": "2026-07-04 08:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體上釋出了關於其賬戶慈善捐款的資訊。"
+    },
     {
       "id": "4970177",
       "time": "2026-07-04 08:02:21",
@@ -122513,30 +122529,6 @@
         "Impact bullish"
       ],
       "text": "Nasdaq Exchange said SpaceX (SPCX.O) will be added to the Nasdaq-100 index effective July 7, 2026."
-    },
-    {
-      "id": "mkt:019f0666-ed42-7dd8-b13f-d3ed8eb740bb",
-      "time": "2026-06-27 08:07:16",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【IRGC says it struck US military positions in retaliation for strikes on Iranian coast】The Islamic Revolutionary Guard Corps said in a statement in the early hours of June 27 that, after Israel violated a ceasefire in southern Lebanon and hours later the US, citing pretexts related to an unauthorized vessel transiting a non‑authorized route in the Strait of Hormuz, launched airstrikes on Iran’s coastal areas, IRGC naval forces struck US military positions in the region. The statement invoked Article 5 of the US‑Iran memorandum of understanding, saying Iran is responsible for passage management through the Strait of Hormuz and that US attempts to breach that commitment \"received the necessary response\" and \"will be met with larger reprisals if aggression recurs.\""
-    },
-    {
-      "id": "mkt:019f0666-8470-7dd8-b13f-cc666e0cc6b9",
-      "time": "2026-06-27 08:06:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC disputes social-media claims after CENTCOM says US struck Iran; ISNA deletes Sirik Island report】Local time June 27, the IRGC public relations chief said recent social-media posts purporting to be IRGC statements about clashes with US forces are fake. CENTCOM said on June 26 its forces struck Iran. Early June 27, Iranian Students News Agency (ISNA) reported the IRGC said its navy and air force had repelled a US attack on Sirik Island and forced attacking forces to withdraw; ISNA later deleted that report."
     }
   ]
 }
