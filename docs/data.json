@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-05 03:40:11",
-  "count": 13231,
+  "updated": "2026-07-05 03:44:06",
+  "count": 13234,
   "items": [
+    {
+      "id": "4970590",
+      "time": "2026-07-05 03:41:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：將在北約峰會期間繼續與特朗普展開會談。"
+    },
+    {
+      "id": "4970589",
+      "time": "2026-07-05 03:40:55",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基：這場衝突確實有望終結。"
+    },
+    {
+      "id": "4970588",
+      "time": "2026-07-05 03:40:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就哈梅內伊葬禮一事向記者表示：他們（伊朗高層）都在那裡。只需一次打擊就能將他們全部清除，但我們不會這麼做，否則屆時我們將無人可談判。"
+    },
+    {
+      "id": "mkt:019f2ea5-44bc-7aab-8c9f-1ecdbd14c953",
+      "time": "2026-07-05 03:40:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says he discussed Ukrainian frontline with President Trump】Ukrainian President Zelenskiy said he spoke with President Trump, thanked the U.S. for aid — including Javelin anti-tank missiles and Patriot air-defence systems — and for political support. He said they discussed the frontline and diplomatic efforts, that an end to the war is a realistic prospect but U.S. resolve is crucial, and agreed to continue talks at the NATO summit in Ankara."
+    },
     {
       "id": "4970586",
       "time": "2026-07-05 03:34:25",
@@ -121778,14 +121812,6 @@
         "其他"
       ],
       "text": "卡達與沙烏地阿拉伯兩國部長商討地區局勢。"
-    },
-    {
-      "id": "4958595",
-      "time": "2026-06-28 03:41:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗專家會議週六敦促與美方談判的伊朗官員嚴格恪守最高領袖穆傑塔巴劃定的紅線，告誡談判方切勿重蹈此前談判的覆轍，並堅稱伊朗核計劃相關事宜不得納入談判範疇。"
     }
   ]
 }
