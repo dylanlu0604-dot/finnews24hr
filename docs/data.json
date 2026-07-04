@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-04 19:07:36",
-  "count": 13261,
+  "updated": "2026-07-04 19:11:34",
+  "count": 13262,
   "items": [
+    {
+      "id": "4970395",
+      "time": "2026-07-04 19:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱俄羅斯在2026年損壞了超過200臺鐵路機車。"
+    },
+    {
+      "id": "mkt:019f2cd1-94fe-7aab-8c9c-cd18a071aba1",
+      "time": "2026-07-04 19:09:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank \"well placed.\" He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is \"very low\" versus other central banks, that June's hike was \"reasonable,\" and that ECB communication indicated the June increase did not mark the start of a new tightening cycle."
+    },
     {
       "id": "4970391",
       "time": "2026-07-04 19:00:19",
@@ -122028,19 +122051,6 @@
         "國際"
       ],
       "text": "阿聯酋外交部重申支援黎巴嫩政府限制武器和解散恐怖主義組織的努力。"
-    },
-    {
-      "id": "mkt:019f08c6-0294-7dd8-b142-05bc6511a4f0",
-      "time": "2026-06-27 19:10:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Rubio says US pushing for Trump visit to India early next year; expects trade deal in weeks–months】US Secretary of State Rubio said Washington is pushing for President Trump to visit India early next year and expects a bilateral trade deal to be finalised within weeks or months, describing negotiations as in their final stage. He plans a return visit to India later this year to prepare for the presidential trip. Rubio said the US seeks a larger role in meeting India’s rising energy demand and can help boost global crude supply, including by facilitating Venezuelan exports."
     }
   ]
 }

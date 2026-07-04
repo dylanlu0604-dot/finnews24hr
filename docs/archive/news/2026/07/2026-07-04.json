@@ -1,7 +1,30 @@
 {
   "date": "2026-07-04",
-  "count": 515,
+  "count": 517,
   "items": [
+    {
+      "id": "4970395",
+      "time": "2026-07-04 19:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱俄羅斯在2026年損壞了超過200臺鐵路機車。"
+    },
+    {
+      "id": "mkt:019f2cd1-94fe-7aab-8c9c-cd18a071aba1",
+      "time": "2026-07-04 19:09:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank \"well placed.\" He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is \"very low\" versus other central banks, that June's hike was \"reasonable,\" and that ECB communication indicated the June increase did not mark the start of a new tightening cycle."
+    },
     {
       "id": "4970391",
       "time": "2026-07-04 19:00:19",
