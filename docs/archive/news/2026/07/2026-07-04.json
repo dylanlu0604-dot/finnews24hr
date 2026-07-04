@@ -1,7 +1,37 @@
 {
   "date": "2026-07-04",
-  "count": 544,
+  "count": 547,
   "items": [
+    {
+      "id": "mkt:019f2d31-12da-7aab-8c9d-0d0c0e11ce8a",
+      "time": "2026-07-04 20:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DTEK said Russian forces struck a coal mine in eastern Ukraine, killing one miner and injuring five."
+    },
+    {
+      "id": "mkt:019f2d2f-3646-7aab-8c9d-05dddeeb5258",
+      "time": "2026-07-04 20:51:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Tesla caps employee AI-tool spending at $200/week; US tech firms tighten AI budgets】Tesla will cap employee spending on AI tools at $200 per week from July 6; any excess requires manager approval. Spending on Musk-owned XAI’s Grok is exempt from the cap. Grok has low uptake among Tesla staff; most continue to use ANTHROPIC’s Claude. Several other US tech firms have implemented similar AI spending controls."
+    },
+    {
+      "id": "4970455",
+      "time": "2026-07-04 20:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭能源企業DTEK稱，俄羅斯襲擊了烏克蘭東部一家煤炭企業，造成1名礦工死亡，5名礦工受傷。"
+    },
     {
       "id": "4970452",
       "time": "2026-07-04 20:47:27",

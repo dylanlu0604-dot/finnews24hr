@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-04 20:50:18",
-  "count": 13258,
+  "updated": "2026-07-04 20:55:22",
+  "count": 13260,
   "items": [
+    {
+      "id": "mkt:019f2d31-12da-7aab-8c9d-0d0c0e11ce8a",
+      "time": "2026-07-04 20:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DTEK said Russian forces struck a coal mine in eastern Ukraine, killing one miner and injuring five."
+    },
+    {
+      "id": "mkt:019f2d2f-3646-7aab-8c9d-05dddeeb5258",
+      "time": "2026-07-04 20:51:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Tesla caps employee AI-tool spending at $200/week; US tech firms tighten AI budgets】Tesla will cap employee spending on AI tools at $200 per week from July 6; any excess requires manager approval. Spending on Musk-owned XAI’s Grok is exempt from the cap. Grok has low uptake among Tesla staff; most continue to use ANTHROPIC’s Claude. Several other US tech firms have implemented similar AI spending controls."
+    },
+    {
+      "id": "4970455",
+      "time": "2026-07-04 20:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭能源企業DTEK稱，俄羅斯襲擊了烏克蘭東部一家煤炭企業，造成1名礦工死亡，5名礦工受傷。"
+    },
     {
       "id": "4970452",
       "time": "2026-07-04 20:47:27",
@@ -122001,14 +122031,6 @@
         "原創"
       ],
       "text": "【特朗普政府據悉最快下週批准Anthropic恢復Fable 5模型的訪問許可權】據一位知情人士透露，特朗普政府即將允許Anthropic恢復其強大的Fable 5模型的訪問許可權。該模型此前已因特朗普政府的安全擔憂而下線15天。知情人士表示，內部人士預計特朗普政府對Fable 5的限制最早可能在下週解除。另一位訊息人士稱，雙方預計將在週末繼續進行磋商，Anthropic預計很快就能恢復Fable 5的訪問許可權。"
-    },
-    {
-      "id": "4958416",
-      "time": "2026-06-27 20:50:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中非共和國暴發霍亂疫情 已致24人死亡】中非共和國衛生和人口部26日晚宣佈，該國西南部賓博和姆拜基地區暴發霍亂疫情。自本月中旬出現疑似病例以來，目前已累計報告197例病例，其中24人死亡。"
     }
   ]
 }
