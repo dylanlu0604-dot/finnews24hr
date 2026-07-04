@@ -1,7 +1,81 @@
 {
   "date": "2026-07-05",
-  "count": 151,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:019f2f0d-6106-7aab-8c9f-e623696c0324",
+      "time": "2026-07-05 05:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian presidential aide USHAKOV said President Putin's talks with Trump were pragmatic and constructive."
+    },
+    {
+      "id": "mkt:019f2f0d-1938-7aab-8c9f-dae80501f432",
+      "time": "2026-07-05 05:33:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Russian presidential aide Ushakov said US presidential envoy Witkoff and Trump son-in-law Kushner will continue to assist peace efforts and are prepared to visit Moscow."
+    },
+    {
+      "id": "mkt:019f2f0c-9baf-7aab-8c9f-d4f1b2692ef2",
+      "time": "2026-07-05 05:33:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia responds to Zelenskiy proposal to meet Putin】On the 4th, Russia said Ukrainian President Zelenskiy earlier suggested that if the Donetsk city of Konstantinovka were under Russian control, President Putin could meet him there. Kremlin spokesman Dmitry Peskov said Konstantinovka is now fully under Russian control and that Moscow welcomes Zelenskiy’s stated willingness to come to Russia. Peskov added that if Zelenskiy is prepared to make a \"major and responsible decision,\" he may travel to Moscow, noting Russia’s capital is Moscow rather than Konstantinovka. Putin has previously said on multiple occasions he is willing to meet Zelenskiy in Moscow."
+    },
+    {
+      "id": "mkt:019f2f0c-4dfb-7aab-8c9f-ca5e7e023de9",
+      "time": "2026-07-05 05:32:43",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Russian presidential aide Ushakov said Trump offered to help reach a solution to the Ukraine conflict ahead of the NATO summit."
+    },
+    {
+      "id": "4970621",
+      "time": "2026-07-05 05:32:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方回應澤連斯基與普京會面提議】據俄羅斯方面4日訊息，烏克蘭總統澤連斯基當天稍早前稱，如果頓涅茨克重鎮康斯坦丁諾夫卡在俄方控制之下，俄羅斯總統普京可以在此與他見面。對此，俄總統新聞秘書佩斯科夫回應稱，康斯坦丁諾夫卡已完全轉由俄方控制，如果澤連斯基以這樣的方式表達來俄意願，俄方表示歡迎。佩斯科夫表示，一旦澤連斯基願意作出“重大且負責任的決定”，就可以前往莫斯科，因為俄羅斯首都是莫斯科，而不是康斯坦丁諾夫卡。普京此前已多次表示願在莫斯科與澤連斯基會面。（央視新聞）"
+    },
+    {
+      "id": "4970620",
+      "time": "2026-07-05 05:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京致電特朗普，並邀請其訪問俄羅斯。"
+    },
+    {
+      "id": "mkt:019f2f0b-80e0-7aab-8c9f-c4d53c165cec",
+      "time": "2026-07-05 05:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian presidential aide Ushakov said Putin provided Trump with an accurate assessment of the battlefield situation in the Ukraine conflict."
+    },
+    {
+      "id": "mkt:019f2f0a-d882-7aab-8c9f-baed54f338a2",
+      "time": "2026-07-05 05:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ushakov said Putin and US President Trump spoke for 1 hour 25 minutes on Saturday."
+    },
     {
       "id": "4970615",
       "time": "2026-07-05 05:30:27",
