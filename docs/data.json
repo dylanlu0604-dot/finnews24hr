@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-04 22:09:42",
-  "count": 13236,
+  "updated": "2026-07-04 22:13:44",
+  "count": 13239,
   "items": [
+    {
+      "id": "mkt:019f2d78-e362-7aab-8c9d-58c6906348e6",
+      "time": "2026-07-04 22:12:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Egypt central bank: M2 money supply rose 19.6% YoY in May."
+    },
+    {
+      "id": "4970493",
+      "time": "2026-07-04 22:11:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：5月埃及廣義貨幣供應量（M2）同比增長19.6%。"
+    },
+    {
+      "id": "mkt:019f2d77-16fc-7aab-8c9d-551ea059045c",
+      "time": "2026-07-04 22:10:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Iran's foreign minister Araghchi met separately in Tehran with representatives of HEZBOLLAH and Hamas."
+    },
     {
       "id": "4970492",
       "time": "2026-07-04 22:08:14",
