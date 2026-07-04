@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 01:41:37_
-_本檔包含 2503 則快訊，約 505447 字_
+_更新時間：2026-07-05 02:37:52_
+_本檔包含 2469 則快訊，約 505703 字_
+
+---
+
+### 2026-06-30 17:49:12  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Posts Worst Quarter Since 2020 on Supply Surge — Brent crude oil traded near $74 per barrel on Tuesday, recording a roughly 30% drop in Q2, which represents its largest quarterly decline since 2020. This plunge follows a surge in supply as traffic accelerated through the Strait of Hormuz after progress toward a peace deal released oil previously trapped inside the Persian Gulf. Additionally, US sanction waivers granted to Iran have introduced extra volumes into a market already trying to absorb major supply workarounds. Diplomatic efforts continue as Washington and Tehran send delegations to Doha for negotiations to end the four-month war, though Iran has ruled out direct talks. Meanwhile, Iran maintains its stance on controlling maritime traffic through the waterway. Iranian officials expressed a desire to co-regulate the strategic channel with Oman, but affirmed that Tehran will advance its own regulatory plans independently if necessary to oversee the strait's picking up flows.
+
+---
+
+### 2026-06-30 17:48:12  #Trading Economics #Markets #Commodity #Importance 3
+
+Crude Suffers Worst Quarterly Fall Since 2020 — Crude oil traded near $70.2 per barrel on Tuesday, recording a roughly 30% drop in Q2, which represents its largest quarterly decline since 2020. This plunge follows a surge in supply as traffic accelerated through the Strait of Hormuz after progress toward a peace deal released oil previously trapped inside the Persian Gulf. Additionally, US sanction waivers granted to Iran have introduced extra volumes into a market already trying to absorb major supply workarounds. Diplomatic efforts continue as Washington and Tehran send delegations to Doha for negotiations to end the four-month war, though Iran has ruled out direct talks. Meanwhile, Iran maintains its stance on controlling maritime traffic through the waterway. Iranian officials expressed a desire to co-regulate the strategic channel with Oman, but affirmed that Tehran will advance its own regulatory plans independently if necessary to oversee the strait's picking up flows.
+
+---
+
+### 2026-06-30 17:44:57  #Trading Economics #Economy #Greece #Retail Sales YoY #Importance 1
+
+Greece Retail Sales Growth Falls in April — Retail sales in Greece fell 0.1% year-on-year in April 2026, reversing a 3% increase in the previous month and marking the first annual decline since September 2025. Sales in the automotive fuel sector dropped 7.4% after remaining unchanged in March, while the non-food sector excluding automotive fuel also declined 1.3%, reversing from a 5.1% increase. Meanwhile, sales growth in the food sector accelerated to 4.1% from 2.8%. Among specialized categories, retail activity declined in department stores (-4.5% vs -0.3%), clothing and footwear (-5.9% vs -3%), and books, stationery, and other goods (-6.7% vs 6.9%). In addition, sales growth eased for pharmaceutical products and cosmetics (2.7% vs 3.9%) and furniture, electrical equipment, and household goods (5.2% vs 12.5%). In contrast, sales accelerated in food, beverages, and tobacco stores (3.3% vs 0.6%). On a seasonally adjusted monthly basis, retail activity fell 1.4%, following a 0.5% decline in the previous period.
+
+---
+
+### 2026-06-30 17:44:47  #Trading Economics #Economy #Belgium #Producer Prices Change #Importance 1
+
+Belgium Producer Inflation Accelerates — Belgium's producer prices rose 9.7% year-on-year in May 2026, up from 8.7% in April and marking the strongest increase since January 2023. Price growth accelerated in both domestic and foreign markets, to 9.1% from 8.2% and 11.3% from 9.7%, respectively. By sector, manufacturing posted the largest increase, with prices up 10.3% after a 9.3% rise. Mining and quarrying accelerated to 1.9% from 0.6%, while inflation for electricity, gas, steam and air conditioning supply edged up to 4.3% from 4.2%. Meanwhile, inflation for water supply, sewerage, waste management and remediation activities remained steady at 4.2% for a third consecutive month. On a monthly basis, producer prices increased 1.1%, easing from April's 1.6% rise. Excluding energy, producer inflation accelerated to 1.9% from 1.7%.
+
+---
+
+### 2026-06-30 17:32:38  #Trading Economics #Economy #Croatia #Industrial Production #Importance 1
+
+Croatia Industrial Output Decline Slows — Croatia's industrial production fell 1.1% year-on-year in May 2026, easing from a 2.1% decline in April. Mining and quarrying contracted 5.0%, following a 0.7% drop a month earlier. Manufacturing output declined 2.4% after falling 1.5%, weighed down by sharper declines in clothing (-16.6% vs -14.2%), paper products (-9.9% vs -5.1%), computers, electronic and optical products (-21.1% vs -3.3%), furniture (-10.0% vs -9.5%), and other transport equipment (-33.1% vs -28.3%). In contrast, electricity, gas, steam and air conditioning supply rebounded 0.9%, following an 11.3% decline in April. On a seasonally adjusted monthly basis, industrial production fell 2.0% in May, extending April's 0.6% decline.
 
 ---
 
@@ -14863,239 +14893,5 @@ Israeli Prime Minister Netanyahu said a two-state solution will be impossible to
 5、不會接受加沙和黎巴嫩的“零和”局面；
 6、留在黎巴嫩是保障以色列安全的“好解決方案”；
 7、將派遣代表團前往華盛頓，闡明我們對美伊協議的立場。
-
----
-
-### 2026-06-28 02:32:01  #國際
-
-【轟-6K與俄圖-95在日本海上空同框】6月27日，中俄兩國空軍在日本海、東海、太平洋西部空域組織實施第11次聯合空中戰略巡航，展示共同維護地區和平穩定決心能力。戳影片，看轟-6K與俄圖-95在日本海上空同框現場畫面。（玉淵譚天）
-
----
-
-### 2026-06-28 02:29:35  #公司 #市場 #觀點 #國際
-
-摩根大通CEO戴蒙談美元儲備貨幣地位：倘若三四十年後，美國不再擁有全球頂尖的軍事實力與經濟實力，美元也就無法維持頭號儲備貨幣的地位。不妨做個簡單考量：如果你的全部資金只能投往一個國家，你會選哪裡？答案顯而易見，只有一個選擇。有人跟我說，他們正把存放在美國金庫的黃金運走,只因對美國心生不滿。我當時回應“這倒是無所謂，但眼下有三支軍隊隨時能奪走你這批黃金”。這就是真實的世界。很多人忘了，世道本就充滿博弈與殘酷。
-
----
-
-### 2026-06-28 02:26:49  #國際
-
-以色列總理內塔尼亞胡：（以色列）今後組建的任何一屆政府都不會接納兩國方案。
-
----
-
-### 2026-06-28 02:26:22  #其他
-
-【德國、捷克重新整理本國高溫紀錄】德國、捷克27日均重新整理本國有氣象記錄以來最高氣溫紀錄。據德新社援引德國氣象局訊息，德國東部默肯-德雷維茨地區當天測得的初步氣溫資料達41.5攝氏度，創下德國有氣象記錄以來最高氣溫紀錄。這是德國連續第二天重新整理最高氣溫紀錄。德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，打破此前紀錄。捷克當天也重新整理最高氣溫紀錄。捷克水文氣象研究所27日在社交媒體發文說，位於布拉格以北的多克薩尼氣象站當天測得40.6攝氏度，超過2012年測得的最高紀錄40.4攝氏度，這一數值可能還會被重新整理。（新華社）
-
----
-
-### 2026-06-28 02:26:22  #MKT News
-
-Prime Minister NETANYAHU said that, at the Israel Defense Forces' suggestion, Israel and Lebanon have agreed to begin disarming Hezbollah in two pilot areas beyond the security line.
-
----
-
-### 2026-06-28 02:26:08  #國際
-
-以色列總理內塔尼亞胡：這份黎巴嫩相關協議實際上是在告知伊朗和真主黨，“撤出黎巴嫩，不要插手該國內部事務”。
-
----
-
-### 2026-06-28 02:25:22  #MKT News
-
-NETANYAHU said that by signing an agreement with the US, the Lebanese government is effectively telling Iran and HEZBOLLAH to leave Lebanon and handing responsibility for the situation back to Beirut.
-
----
-
-### 2026-06-28 02:25:08  #國際
-
-以色列總理內塔尼亞胡：（黎以）這份協議壯大了以色列與黎巴嫩的實力，同時削弱了伊朗和真主黨的勢力。
-
----
-
-### 2026-06-28 02:24:38  #國際
-
-以色列總理內塔尼亞胡：我們並非伊美協議的參與方，我方有自身相關利益，將與美方展開磋商。
-
----
-
-### 2026-06-28 02:24:34  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-NETANYAHU said Israel is close to controlling about 70% of the Gaza Strip and has surrounded Hamas.
-
----
-
-### 2026-06-28 02:24:17  #國際
-
-以色列總理內塔尼亞胡：將派遣代表團前往華盛頓，就伊朗核問題闡明以色列的安全訴求。
-
----
-
-### 2026-06-28 02:24:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli Prime Minister Netanyahu said if necessary Israel will enter Lebanon and take strong action there.
-
----
-
-### 2026-06-28 02:23:58  #MKT News
-
-Israel's prime minister Netanyahu said Israel was not involved in the Iran‑US agreement and has interests to discuss with Washington.
-
----
-
-### 2026-06-28 02:23:12  #國際
-
-以色列總理內塔尼亞胡：（地區）周邊還有其他相關協議，我此前承諾要重塑地區格局，我們將在該框架內完成這些協議的推進。
-
----
-
-### 2026-06-28 02:20:31  #國際
-
-以色列總理內塔尼亞胡：強烈反對任何逼迫我方撤軍的企圖，如今美國與黎巴嫩都在告知伊朗，此事與伊朗無關。
-
----
-
-### 2026-06-28 02:19:59  #國際
-
-以色列總理內塔尼亞胡：我方已控制黎巴嫩南部舍加夫地區，並將駐守此地。
-
----
-
-### 2026-06-28 02:19:07  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Israeli Prime Minister Netanyahu said he has stressed to Israeli forces they have freedom of action to repel any threat in Lebanon.
-
----
-
-### 2026-06-28 02:14:28  #焦點 #國際
-
-以色列總理內塔尼亞胡：這項協議有可能變成和平協議，感謝黎巴嫩政府展現的勇氣。
-
----
-
-### 2026-06-28 02:14:08  #MKT News
-
-【Blast heard again in Karachi, Pakistan】On the evening of the 27th local time, a state media reporter heard a large explosion near the site of earlier blasts and shootings in Karachi. Earlier, blasts and heavy gunfire were reported around University Road. Local police dispatched substantial forces to the scene and said investigators are probing the incident.
-
----
-
-### 2026-06-28 02:13:58  #其他
-
-【巴基斯坦卡拉奇再次傳出爆炸聲】當地時間27日晚，總檯報道員在巴基斯坦卡拉奇爆炸及槍擊地點附近再次聽到巨大爆炸聲。稍早前，巴基斯坦卡拉奇大學路一帶傳出爆炸聲及密集槍聲。事件發生後，當地警方立即派遣大批警力趕赴現場處置。當地警方官員表示，有關部門正在展開調查。（央視新聞）
-
----
-
-### 2026-06-28 02:13:55  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel says it killed commander of Hamas's elite 'Nukhba' unit】On 27 June, the Israel Defense Forces and Shin Bet said they killed Walid Haniya, a commander in Hamas's elite 'Nukhba' unit, two days earlier. Walid Haniya is the nephew of former Hamas political bureau leader Ismail Haniya. Hamas did not immediately comment.
-
----
-
-### 2026-06-28 02:13:41  #宏觀 #國際
-
-【以軍稱打死哈馬斯精銳部隊“努赫巴”一指揮官】當地時間27日，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，以軍已於兩天前打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）精銳部隊“努赫巴”的一名指揮官瓦利德·哈尼亞。據以軍通報，瓦利德·哈尼亞是哈馬斯前政治局領導人伊斯梅爾·哈尼亞的侄子。哈馬斯方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-28 02:12:22  #國際
-
-以色列總理內塔尼亞胡：以色列擁有行動自由，意味著會針對一切威脅採取行動，近幾周已擊斃200名恐怖分子。
-
----
-
-### 2026-06-28 02:11:52  #國際
-
-卡達外交部：首相在與沙特外交大臣通話時表示，必須避免該地區遭受無端襲擊帶來的連鎖負面影響。
-
----
-
-### 2026-06-28 02:11:32  #MKT News
-
-Israeli Prime Minister Netanyahu said Hezbollah has lost 90% of its rocket stockpile.
-
----
-
-### 2026-06-28 02:06:15  #國際
-
-歐盟敦促伊朗全面遵守最近簽署的諒解備忘錄。
-
----
-
-### 2026-06-28 02:04:58  #國際
-
-歐盟呼籲伊朗停止對鄰國的襲擊。
-
----
-
-### 2026-06-28 02:04:51  #國際
-
-歐盟：襲擊行為構成違反國際法。
-
----
-
-### 2026-06-28 02:04:45  #國際
-
-歐盟譴責伊朗最新針對巴林的無人機襲擊。
-
----
-
-### 2026-06-28 02:03:51  #其他
-
-【委內瑞拉華人志願者和組織攜物資赴地震災區救援】當地時間6月27日，在中國駐委內瑞拉大使館的統一指揮下，委內瑞拉華人志願者和組織攜物資奔赴米蘭達省災區展開救援。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。截至當地時間6月27日13時17分，委內瑞拉地震致1430人死亡，另有3238人受傷。（央視新聞）
-
----
-
-### 2026-06-28 02:02:08  #國際
-
-卡達外交部：首相強調，必須保障霍爾木茲海峽的航行自由，堅持透過對話與外交途徑解決問題。
-
----
-
-### 2026-06-28 01:58:29  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel is breaking Iran’s diplomatic axis and has reached a framework agreement that would allow it to end the conflict with Lebanon.
-
----
-
-### 2026-06-28 01:58:28  #國際
-
-內塔尼亞胡談及黎巴嫩局勢：我們正在瓦解伊朗的外交軸心。我們之所以能達成這份諒解框架，原因很簡單，我方對真主黨實施了強力打擊。原本指望伊朗支援的真主黨，最終並未得到援助。
-
----
-
-### 2026-06-28 01:57:20  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-【Amazon Prime Day online sales slightly above expectations】Amazon’s four-day Prime Day ended Friday. Adobe estimates US online spending across all retailers during Prime Day promotions at $26.4 bln, slightly above its $26.3 bln projection and up 9.3% YoY from last July’s Prime Day. Discounts were similar to last year, with electronics and apparel deepest, average markdown about 24%. Consumer-research firm Numerator says average Amazon household spend over the four days through Friday 4pm local time was $143, down 8.3% YoY.
-
----
-
-### 2026-06-28 01:57:19  #國際
-
-以色列總理內塔尼亞胡：我們已瓦解伊朗軸心勢力。
-
----
-
-### 2026-06-28 01:55:08  #國際
-
-美國財長貝森特：伊朗人十分擅長輿論宣傳。伊朗談判代表均由本國政府指派，他們的表態意在迎合德黑蘭國內的強硬派群體。和我們體系記憶體在強硬勢力一樣，伊朗國內也有持強硬立場的人士。
-
----
-
-### 2026-06-28 01:49:47  #國際
-
-以色列廣播管理局援引訊息人士說法：以黎雙方達成的協議包含一份保密安全附件，其中條款尚未對外披露。
-
----
-
-### 2026-06-28 01:49:36  #國際
-
-義大利總理梅洛尼談及歐盟：顯而易見，僅充當大型貿易平臺或監管平臺已然遠遠不夠。我們需要實現戰略自主、夯實工業產能、掌握技術主權，並擁有金融實力。歐洲必須做好準備，充分運用自身地緣政治與地緣經濟影響力。
-
----
-
-### 2026-06-28 01:46:56  #其他
-
-黎巴嫩軍方指揮部呼籲民眾在抗議活動期間保持理性剋制、文明行事。
 
 ---

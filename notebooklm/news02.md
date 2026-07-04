@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-05 01:41:37_
-_本檔包含 2875 則快訊，約 505294 字_
+_更新時間：2026-07-05 02:37:52_
+_本檔包含 2867 則快訊，約 505683 字_
+
+---
+
+### 2026-07-03 10:49:11  #市場 #焦點
+
+創業板指漲2％，上證指數漲0.7％，深證成指漲1.5％，人形機器人、貴金屬板塊漲幅居前。
+
+---
+
+### 2026-07-03 10:45:58  #其他
+
+惠譽將瑞薩電子評級展望調整為穩定；維持“BBB”評級。
+
+---
+
+### 2026-07-03 10:45:27  #其他
+
+越南上半年外國遊客到訪量達1230萬人次，同比增長14.9%。
+
+---
+
+### 2026-07-03 10:45:26  #MKT News #Market Regions #Emerging Markets
+
+Indonesia's benchmark Jakarta Composite Index rose about 2.5% to 5,885.422 points.
+
+---
+
+### 2026-07-03 10:45:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+【DBS: Japan may be shifting to covert FX intervention】DBS Research senior FX strategist Philip Wee said market rumors suggest Japan’s Ministry of Finance may be moving toward undisclosed, covert FX intervention. Wee warned that with US bond and equity markets thin for the Independence Day holiday, such intervention could amplify market volatility. He said the tactic appears aimed at shifting market sentiment from skepticism to caution.
+
+---
+
+### 2026-07-03 10:45:08  #市場 #國際
+
+【賤金屬因美元走弱而上漲】亞洲早盤交易中，賤金屬上漲。澳新銀行研究部在一份報告中寫道，在美國就業報告引發美元拋售之後，該板塊獲得了支撐。澳新銀行補充說，美元走弱以及對美國貨幣緊縮擔憂的緩解提振了風險偏好。三個月期倫敦金屬交易所(LME)銅合約上漲0.7%，報每噸13,416.00美元，而鎳合約上漲1.7%，鋁合約上漲0.6%。
+
+---
+
+### 2026-07-03 10:44:53  #市場
+
+【建材板塊震盪拉昇 華新建材、先鋒新材漲停】建材板塊震盪拉昇，華新建材、先鋒新材漲停，中國巨石、國際復材等股漲幅居前。
+
+---
+
+### 2026-07-03 10:44:25  #市場
+
+【減速器概念股走強 夏廈精密等漲停】減速器概念股盤中走強，夏廈精密、杭齒前進等漲停，綠的諧波、雙環傳動等股上漲。
+
+---
+
+### 2026-07-03 10:44:14  #市場 #國際
+
+印尼基準股指一度上漲2.5%至5,885.422點。
+
+---
+
+### 2026-07-03 10:44:02  #國際
+
+【特斯拉Model Y L在美上市 售價61990美元】特斯拉週四宣佈在美國市場推出 Model Y L車型，目前可在官網訂購，首發售價 61990 美元，僅提供全輪驅動、長軸距一種版本。
+
+---
+
+### 2026-07-03 10:43:37  #市場 #國際
+
+印尼指標股指一度上漲2.5%至5,885.422點。
+
+---
+
+### 2026-07-03 10:42:32  #其他
+
+京東方A成交額超200億元，現跌超6%。
+
+---
+
+### 2026-07-03 10:42:18  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Hong Kong to launch long‑planned gold clearing and settlement system next week, sources say】Sources say the Hong Kong government will launch a long‑planned gold clearing and settlement system next week and plans to process the first gold settlement via the new system on Tuesday. Market participants report large physical flows out of London, the US and Europe, with large-format bars being air‑freighted to Asia ahead of the start. The move could trigger near‑term volatility in the London gold market as participants rebalance. If the system draws significant international and local bank participation, Hong Kong could shift from a price taker to a price setter in global gold pricing.
+
+---
+
+### 2026-07-03 10:41:50  #MKT News #002916.SZ #Impact bullish #002463.SZ #002938.SZ
+
+China A-share PCB sector firmed after choppy trading; Shennan Circuits hit limit-up, while Hudian, Shengyi Technology, Pengding Holdings and Guanghe Technology also advanced.
+
+---
+
+### 2026-07-03 10:41:49  #市場
+
+【三大指數震盪上行】三大指數震盪上行，深成指漲超1%，創業板指漲1.24%，滬指漲0.48%。全市場3400家個股上漲。
+
+---
+
+### 2026-07-03 10:41:17  #國際
+
+中國地震臺網自動測定：07月03日10時31分在印尼哈馬黑拉島附近（北緯1.45度，東經127.77度）發生6.3級左右地震（深源），最終結果以正式速報為準。
+
+---
+
+### 2026-07-03 10:40:55  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+AUS 10Y Yield Snaps 2-Session Gains — Australia’s 10-year government bond yield slipped to around 4.8% on Friday, ending a two-session advance as investors assessed major banks’ hawkish interpretations of the Reserve Bank of Australia’s June meeting minutes. Although markets continued to price only a 15% chance of an August rate hike and roughly even odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing repeated references to excess demand and capacity constraints as evidence that the RBA remains concerned about inflationary pressures. Likewise, ANZ said the minutes reinforced the risk of a further rate increase while maintaining its core rate forecast. On the economic front, Australia’s S&P Global Composite PMI was revised up to 50.4 in June from a preliminary reading of 49.8, supported by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7).
+
+---
+
+### 2026-07-03 10:40:42  #Trading Economics #Economy #Vietnam #Retail Sales YoY #Importance 1
+
+Vietnam Retail Sales Growth Strongest Since 2023 — Retail sales in Vietnam rose by 14.8% year-on-year in June 2026, accelerating from an 11.8% increase in the previous month and marking the strongest growth since January 2023. All major categories recorded stronger growth, with retail sales of goods, representing 75.6% of total activity, increasing 13.4% after rising 11.3% in May. Sales also strengthened further in accommodation, food, and beverage services (19.7% vs. 15.4%), travel and tourism (24.9% vs. 15.4%), and other services (17.9% vs. 10.8%). In the first half of 2026, total retail sales rose 12.9% compared with the same period a year earlier.
+
+---
+
+### 2026-07-03 10:40:05  #公司
+
+【如身機器人完成億元Pre-A輪融資】近日，上海如身機器人科技有限公司宣佈於四月底完成億元Pre-A輪融資，本輪融資由知名醫療基金清松資本、頭部算力上市公司潤澤科技及平湖澤新共同投資，將用於加速具身智慧在養老機構與居家場景的應用部署。
+
+---
+
+### 2026-07-03 10:39:49  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Set for Weekly Advance — The Australian dollar strengthened for a second straight session to around $0.690 and was on track for a weekly gain, supported by hawkish interpretations of the RBA's June meeting minutes from major banks. While markets priced in only a 15% chance of an August rate hike and roughly 50% odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing persistent references to excess demand and capacity constraints as signs the RBA remains alert to inflation risks. Likewise, ANZ said the minutes reinforced the risk of another rate hike while leaving its core rate call unchanged. The Aussie dollar also found support from a weaker US dollar after softer-than-expected employment data tempered expectations for further Fed rate hikes. Meanwhile, Australia's S&P Global Composite PMI was revised up to 50.4 in June from a preliminary estimate of 49.8, driven by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7).
+
+---
+
+### 2026-07-03 10:39:26  #市場
+
+滬深300指數上漲1%至4,860.50點。
+
+---
+
+### 2026-07-03 10:38:40  #MKT News
+
+German Research Centre for Geosciences (GFZ) reported a magnitude 6.3 earthquake struck Halmahera, Indonesia.
+
+---
+
+### 2026-07-03 10:38:09  #其他
+
+【非洲疾控中心說剛果（金）埃博拉疫情仍“非常嚴重”】非洲疾病預防控制中心主任卡塞亞2日在剛果（金）首都金沙薩說，該國本輪埃博拉疫情仍“非常嚴重”，確診病例和死亡病例增長較快。剛果（金）政府2日晚釋出的疫情資料顯示，截至1日，該國本輪埃博拉疫情累計報告確診病例1460例，其中死亡447例，595名患者正在隔離或接受治療，213人治癒。（新華社）
+
+---
+
+### 2026-07-03 10:37:39  #國際
+
+德國地球科學研究中心（GFZ）：印度尼西亞哈馬黑拉島發生6.3級地震。
+
+---
+
+### 2026-07-03 10:37:19  #其他
+
+【鄭州、濟南、青島社保卡將實現互通】從鄭州市人力資源和社會保障局獲悉，鄭州、濟南、青島三市人社部門日前共同簽署《濟青鄭三城聯動社保領域協同發展合作協議》，並聯合發布全國首個跨兩省三市《社會保障卡居民服務“一卡通”應用目錄》，落地20餘項社保便民服務清單，標誌著社保卡服務從“一卡通用”跨入“三城互通”新階段。在三市聯合釋出的社保卡居民服務“一卡通”應用目錄中，共涉及人社、醫保、交通、文旅、政務惠民、金融等六大領域26個應用場景。今後，三市居民持實體社保卡或電子社保卡，可實現暢通辦理就醫結算、公交地鐵、景區入園、圖書借閱、便民繳費等各類民生業務。
 
 ---
 
@@ -17129,203 +17279,5 @@ Yen Rebounds Amid Intervention Fears — The Japanese yen jumped nearly 1% towar
 ### 2026-07-02 15:00:03  #市場
 
 歐股開盤漲跌不一，德國DAX指數漲0.18%，英國富時100指數跌0.18%，法國CAC40指數跌0.79%，歐洲斯托克50指數跌0.72%，義大利富時MIB指數跌0.15%。
-
----
-
-### 2026-07-02 15:00:02  #市場
-
-【商品期貨收盤】上海原油連續跌5.67%，鉑連續漲5.48%，對二甲苯連續跌4.08%，PTA連續跌3.51%，燃料油連續跌3.31%。
-
----
-
-### 2026-07-02 14:59:58  #公司
-
-【易事特投資成立智充新能源科技公司】企查查APP顯示，近日，泰興易特智充新能源科技有限公司成立，經營範圍包含新興能源技術研發；電動汽車充電基礎設施運營；充電控制裝置租賃；集中式快速充電站等。企查查股權穿透顯示，該公司由易事特(300376)全資持股。
-
----
-
-### 2026-07-02 14:59:28  #公司 #國際
-
-【印度對原產於或進口自中國的4-溴甲基-2’-氰基聯苯作出反傾銷終裁】6月24日，印度商工部發布公告稱，對原產於或進口自中國的4-溴甲基-2’-氰基聯苯作出反傾銷肯定性終裁，建議徵收為期5年的反傾銷稅，稅額為5089－6305美元/噸，其中鹽城市東港藥業發展有限公司為5089美元/噸，臨海市華南化工有限公司為5500美元/噸，浙江天宇藥業股份有限公司為5440美元/噸，中國其他生產商為6305美元/噸。本案主要涉及印度海關編碼29269000、29339990、29332990、29420090、29152990項下的產品。
-
----
-
-### 2026-07-02 14:59:24  #其他
-
-【首屆全國航空航天類教師團隊建設發展論壇舉行】近日，由教育部高等學校航空航天類專業教學指導委員會與空軍工程大學聯合主辦的首屆全國航空航天類教師團隊建設發展論壇在西安舉行。來自清華大學、北京航空航天大學、西北工業大學、國防科技大學等全國知名高校的領導、學科帶頭人和全國高校黃大年式教師團隊代表齊聚一堂，共商師資隊伍提質賦能路徑。(新華社)
-
----
-
-### 2026-07-02 14:59:13  #國際
-
-【訊息人士：美試圖說服伊放棄徵收霍爾木茲海峽通行費】據美國方面7月1日援引美國官員的話稱，美國政府正試圖說服伊朗放棄徵收霍爾木茲海峽通行費。該官員稱，接受美方提出的協議能讓伊朗收穫更大。如果美國解除全部制裁，伊朗透過開發和銷售石油及其他資源所獲得的收入，將比透過收取霍爾木茲海峽通行費的方式高出100倍。訊息還稱，美伊雙方6月28日達成諒解，緩和霍爾木茲海峽局勢一週時間，以便推進落實諒解備忘錄。但分析認為，這意味著7月4日之後衝突可能再度爆發。比起達成最終協議，目前的初步協議破裂的可能性似乎更大。（央視新聞）
-
----
-
-### 2026-07-02 14:59:03  #公司
-
-【千尋智慧變更為股份公司】天眼查App顯示，近日，千尋智慧（北京）科技有限公司發生工商變更，企業名稱變更為千尋智慧（北京）科技股份有限公司。該公司成立於2024年1月，法定代表人為韓峰濤，註冊資本約284.7萬人民幣，經營範圍包括智慧機器人的研發、服務消費機器人制造、智慧機器人銷售等，由韓峰濤、杭州萬境管理諮詢合夥企業（有限合夥）、京東科技資訊科技有限公司等共同持股。
-
----
-
-### 2026-07-02 14:57:56  #其他
-
-【《2025胡潤U25中國創業先鋒》榜單出爐 最年輕19歲】7月2日，胡潤研究院釋出《2025胡潤U25中國創業先鋒》榜單，共有44位25歲及以下青年才俊上榜，較上一年增加19位。上榜者中，20人的最高學位是學士，15人為碩士，另有5人大學肄業或未讀過大學。30人畢業於國內高校，清華大學以5人位居榜首。一代創業者中，軟體與服務賽道人數最多（17人），涵蓋具身智慧、算力服務、AI搜尋等新興領域；生命健康賽道位列第二（8人）；工業裝置賽道位列第三（4人）。與去年榜單相比，生命健康賽道上榜人數顯著增長。
-
----
-
-### 2026-07-02 14:57:30  #Trading Economics #Economy #France #Government Budget Value #Importance 1
-
-France Budget Deficit Narrows in Jan-May — France's state budget deficit narrowed to EUR 93.3 billion in January–May 2026 from EUR 94.0 billion in the same period last year, as revenue growth outpaced spending. General budget revenues increased 6.0% year-on-year to EUR 149.5 billion, while expenditures rose 3.5% to EUR 222.1 billion. Excluding tax refunds and rebates, net general budget revenues climbed 6.9% to EUR 147.3 billion, driven by higher corporate tax, VAT, personal income tax, and non-tax receipts. Meanwhile, net general budget expenditures rose 2.9% to EUR 195.0 billion, reflecting higher debt servicing costs, increased military spending, and larger public energy service charges. Special Treasury accounts posted a EUR 20.7 billion deficit, slightly wider than the EUR 20.5 billion shortfall recorded a year earlier.
-
----
-
-### 2026-07-02 14:57:16  #其他
-
-7月2日，廣汽豐田第1000萬輛整車——鉑智7日前在廣州南沙工廠下線。
-
----
-
-### 2026-07-02 14:56:13  #公司
-
-【沁住文旅酒店COO回應“24小時退房制”：彈性佈局，淡旺季動態調整】7月1日，“酒店推出24小時退房制”登上熱搜，引發行業關於“能否全行業推廣”的激烈討論。記者聯絡到了推出“24小時退房制”的深圳市沁住文旅酒店集團，該集團營運長（COO）溫歆回應了“24小時退房制”在旗下門店落地的商業邏輯與考量。溫歆介紹，“24小時退房制”是彈性佈局，會根據淡旺季動態調整參與房型，核心是提升酒店收益。據瞭解，沁住文旅酒店集團自2025年9月起在貴陽、重慶、西安近40家門店推行“24小時退房制”，該制度一經推出便獲得不少消費者的支援，但亦有業內人士坦言，該制度難以在行業內推廣，人力成本上升、週轉率難控、入住退房高峰時段難管理等都是現實挑戰。（北京商報）
-
----
-
-### 2026-07-02 14:56:01  #市場 #焦點
-
-滬深兩市成交額超3.4萬億元，較上日此時縮量2303億元。
-
----
-
-### 2026-07-02 14:55:56  #經濟數據 #美國
-
-【巴克萊：國際足聯世界盃招聘可能扭曲美國就業資料】巴克萊私人銀行和財富管理公司的JulienLafargue在一份報告中表示，美國6月份就業資料可能會因與國際足聯世界盃相關的臨時招聘而失真。該首席市場策略師表示：“資料也可能失真，因為與國際足聯世界盃相關的招聘可能在調查期間暫時提振了休閒和酒店等行業的就業。”他表示，市場可能會更加看重7月14日釋出的6月份CPI報告，因為通脹資料將提供對該國經濟更清晰的解讀。
-
----
-
-### 2026-07-02 14:55:07  #公司 #國際
-
-國際石油開發帝石（INPEX）：已從道達爾能源馬來西亞公司手中收購馬來西亞砂拉越近海2E區塊85%的權益。
-
----
-
-### 2026-07-02 14:54:46  #公司 #國際
-
-【豐田反向進口美產“漢蘭達”8月在日本全國發售】豐田汽車公司7月1日宣佈，8月1日將在日本全國發售反向進口的美產SUV“漢蘭達”，該車型4月已在東京率先發售，此次將發售的是混合動力車（HV），售價860萬日元（約合人民幣36萬元）。據豐田透露，漢蘭達的全國月銷量目標是40輛。截至6月底，率先發售已接到約10輛訂單，主要由企業高管等訂購。
-
----
-
-### 2026-07-02 14:54:15  #其他
-
-【民政部：禁止社會團體設立四類分支機構】民政部日前釋出《社會團體分支機構、代表機構管理辦法》， 8月1日起施行。新規要求，社會團體禁止設立“地域性分支機構、姓氏宗親分支機構、會員明顯重合的分支機構以及名稱、業務範圍相同或者高度相似的分支機構”；不得在分支機構、代表機構下再設立或者變相設立分支機構、代表機構。（央視新聞）
-
----
-
-### 2026-07-02 14:53:34  #市場 #觀點
-
-【巴克萊：國際足聯世界盃招聘可能扭曲美國就業資料】巴克萊私人銀行和財富管理公司的Julien Lafargue在一份報告中表示，美國6月份就業資料可能會因與國際足聯世界盃相關的臨時招聘而失真。該首席市場策略師表示：“資料也可能失真，因為與國際足聯世界盃相關的招聘可能在調查期間暫時提振了休閒和酒店等行業的就業。“他表示，市場可能會更加看重7月14日釋出的6月份CPI報告，因為通脹資料將提供對該國經濟更清晰的解讀。分析師預計，6月份將新增11.5萬個就業崗位，較上個月的17.2萬個有所放緩。
-
----
-
-### 2026-07-02 14:53:12  #公司
-
-【智元機器人成立智慧裝置新公司 註冊資本450萬】天眼查App顯示，7月2日，智元創新（上海）智慧裝置有限公司成立，法定代表人為鄧泰華，註冊資本450萬人民幣，經營範圍包括智慧機器人的研發、人工智慧硬體銷售、人工智慧基礎軟體開發、人工智慧應用軟體開發、智慧機器人銷售等，由智元創新（上海）科技股份有限公司全資持股。
-
----
-
-### 2026-07-02 14:52:43  #其他
-
-【奈雪回應歐包從現烤變預製】股東謝海誠稱，兩位持股的年輕夫妻股東坦言，自己從學生時代起便是品牌忠實消費者，但近期去奈雪買歐包，發現麵包怎麼是（復烤）加熱的了。“之前你們不是說原材料降價不降質嗎？這是怎麼做到的？奈雪的麵包怎麼從現做變成預製了？”據謝海誠表述，彭心回應稱，在保證農殘等標準、不影響品質的前提下，採購的水果果徑降低，成本就會下來。疫情之後發現，使用者的點單方式轉變為以線上為主，“預製麵包”是為了保證口感，如果按原來的把現烤麵包放在展櫃中，冷了之後再加熱，味道還不如冷鏈配送來的。（每日經濟新聞）
-
----
-
-### 2026-07-02 14:51:36  #市場 #焦點
-
-美元/日元大幅下跌，跌幅0.9%至161.14。
-
----
-
-### 2026-07-02 14:51:34  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌2%，現報8346.40點。
-
----
-
-### 2026-07-02 14:51:10  #公司 #國際
-
-【印度對原產於或進口自中國的電動拖拉機啟動反傾銷調查】6月30日，印度商工部發布公告稱，應印度國內企業提交的申請，對原產於或進口自中國的6x4及4x2軸配置的各類電動拖拉機啟動反傾銷調查。本次調查的涉案產品範圍包括全組裝成品、全散件、半散件。單獨進口的涉案產品零部件不在本案調查範圍之內‌。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月1日至2025年12月31日。
-
----
-
-### 2026-07-02 14:50:45  #公司 #國際
-
-印度石油公司董事長：努馬利加爾煉油廠將主要生產柴油和汽油。
-
----
-
-### 2026-07-02 14:50:36  #市場 #焦點
-
-科創50日內跌幅達8％，成分股中，中科飛測跌16.4％，華海清科跌16.2％，瀾起科技跌14.5％，中微公司跌11.6％。
-
----
-
-### 2026-07-02 14:50:35  #國際
-
-【韓國大法院9日將對尹錫悅妨害逮捕案進行宣判】總檯記者7月2日獲悉，韓國大法院9日將對前總統尹錫悅妨害逮捕案進行宣判。（央視新聞）
-
----
-
-### 2026-07-02 14:50:26  #市場 #焦點
-
-創業板指跌6％，上證指數跌2.1％，深證成指跌4％。
-
----
-
-### 2026-07-02 14:50:17  #市場 #焦點
-
-滬深兩市成交額超3.3萬億元，較上日此時縮量2338億元。
-
----
-
-### 2026-07-02 14:49:50  #公司 #國際
-
-印度石油公司董事長：將為努馬利加爾煉油廠每年進口550萬至600萬噸原油。
-
----
-
-### 2026-07-02 14:49:47  #市場 #焦點
-
-美元/日元下跌0.5%至161.76。
-
----
-
-### 2026-07-02 14:49:37  #公司 #觀點
-
-【花旗：維持小米“買入”評級及目標價37港元，估值相當具吸引力】花旗發表研報指，小米集團公佈6月電動車交付量已超過3萬輛。目前，YU7車型的交付週期基本保持穩定，基礎版、長續航版、Pro、Max及GT車型均為6至9星期；而新SU7車型的交付週期則為4至7星期(相較於5月底基礎版的8至11星期及Max版的10至13星期有所縮短)。該行指，目前該股交易在2026及2027年預測市盈率的18.8倍和13.6倍，估值相當具吸引力。該行預期，在對2026年的預期以及即將推出YU9的推動下，股價有望在8月迎來反彈；同時，若全球中國儲存器廠商宣佈更多資本支出而令儲存器價格有見頂跡象，預料將在未來12個月內對小米股價帶來正面影響。該行維持小米“買入”評級，目標價維持37港元不變。
-
----
-
-### 2026-07-02 14:49:32  #市場 #焦點
-
-深證成指跌4.01%，現報15473.099點；上證指數跌2.13%，現報4024.890點；創業板指跌5.97%，現報4006.546點。
-
----
-
-### 2026-07-02 14:49:31  #其他
-
-Quantum Systems在新一輪融資中估值翻了一倍多，達到80億美元。
-
----
-
-### 2026-07-02 14:49:30  #其他
-
-【德明利與全志科技聯合實驗室正式揭牌】近日，德明利與全志科技聯合實驗室正式揭牌。德明利總經理杜鐵軍、全志科技總經理葉茂攜各自管理與技術團隊出席，圍繞智慧終端處理器平臺與嵌入式儲存方案開展深入交流，建立儲存方案從研發驗證到量產應用的全鏈條前置適配機制。目前，雙方搭建了儲存方案與終端處理器聯合測試、同步認證、前置量產適配的協同通道，圍繞不同終端的系統架構、資料負載及執行環境，已完成平板、商用互動顯示、智慧機器人等相關終端平臺認證適配。
-
----
-
-### 2026-07-02 14:48:56  #公司 #國際
-
-印度石油公司將於 2027 年初投產年產能 900 萬噸的努馬利加爾煉油廠。
 
 ---

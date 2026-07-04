@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 01:41:37_
-_本檔包含 2459 則快訊，約 505438 字_
+_更新時間：2026-07-05 02:37:52_
+_本檔包含 2476 則快訊，約 505699 字_
+
+---
+
+### 2026-07-01 17:21:18  #公司
+
+挪威鋁業和可再生能源公司Norsk Hydro：斯洛伐克鋁生產企業Slovalco與斯洛伐克政府就重啟生產達成的協議，包括與一家國有公用事業公司簽訂長期電力供應合同。Slovalco鋁業合資企業將重啟年產能7.5萬噸的鋁冶煉產能。預計Slovalco將於2026年第四季度開始生產鋁。
+
+---
+
+### 2026-07-01 17:21:05  #MKT News
+
+【Vessel reports small-boat approach 76 nm south of Balhaf, Yemen】On Wednesday UK Maritime Trade Operations said a vessel reported multiple small boats approached 76 nm south of Balhaf, Yemen, in the Gulf of Aden. The boats carried several men armed with light weapons; the vessel's crew were reported safe.
+
+---
+
+### 2026-07-01 17:20:55  #MKT News #Commodities #Industrial Metals #NHY.OL #Impact bullish
+
+Norsk Hydro expects Slovalco to start aluminium production in Q4 2026.
+
+---
+
+### 2026-07-01 17:20:53  #焦點 #國際
+
+伊朗高階官員：美國與伊朗在多哈進行的間接談判，核心議題為德黑蘭被凍結資金解凍以及霍爾木茲海峽問題。
+
+---
+
+### 2026-07-01 17:20:36  #MKT News #Commodities #Industrial Metals
+
+Norsk Hydro says Slovakia's Slovalco and the Slovak government have agreed to restart aluminium production, including a long-term power-supply contract with a state-owned utility. The Slovalco joint venture will restart 75,000 t/yr aluminium smelting capacity.
+
+---
+
+### 2026-07-01 17:20:13  #焦點 #國際
+
+伊朗高階官員：週二晚間在多哈啟動的與美國的間接談判仍在繼續。
+
+---
+
+### 2026-07-01 17:20:05  #MKT News #Important #Macro & Rates #US Economy
+
+US June Challenger job cuts due in 10 minutes.
+
+---
+
+### 2026-07-01 17:19:52  #公司 #市場
+
+【勝通能源：公司與七騰機器人有限公司及其關聯方不存在應披露的關聯交易】勝通能源釋出異動公告，公司股票連續3個交易日（6月29日、6月30日、7月1日）收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的有關規定，屬於股票異常波動的情況。公司主營業務仍為液化天然氣採購、運輸及銷售，未發生重大變化。根據《勝通能源股份有限公司要約收購報告書》，七騰機器人及其一致行動人暫無在未來12個月內改變上市公司主營業務或者對上市公司主營業務做出重大調整的明確計劃。截至目前，公司不涉及機器人業務，公司與控股股東七騰機器人有限公司及其關聯方的生產經營各自獨立，截至目前，公司與七騰機器人有限公司及其關聯方不存在應披露的關聯交易。
+
+---
+
+### 2026-07-01 17:19:06  #公司
+
+【協鑫能科：與專業投資機構共同設立的基金完成備案】協鑫能科公告稱，公司全資子公司協鑫智慧能源擬出資1.6667億元，與安元基金管理公司、安元基金、宣城產投基金共同設立宣城安元戰新股權投資基金合夥企業，募集規模10億元，主要投向戰略新興產業，協鑫智慧能源持有16.6670%合夥份額。截至公告披露日，合夥人實繳首期出資3億元，協鑫智慧能源實繳5000萬元。該基金於6月29日完成私募投資基金備案手續。
+
+---
+
+### 2026-07-01 17:19:00  #公司 #市場
+
+【勝通能源：股票異常波動 提醒投資者注意交易風險】勝通能源公告稱，公司股票6月29日-7月1日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。截至7月1日，收盤價62.02元/股，靜態市盈率1378.80，市淨率17.46，與同行業差異大。2026年一季度淨利潤虧損834.47萬元，同比減少128.22%，扣非後淨利潤虧損143.17萬元，同比減少124.36%。公司提醒投資者理性決策，審慎投資，注意二級市場交易風險。
+
+---
+
+### 2026-07-01 17:18:51  #公司
+
+【順豐控股：截至6月底累計回購58.80億元A股股份】順豐控股公告稱，2025年4月28日公司審議透過2025年第1期A股回購股份方案，後經調整，回購資金總額不低於30億元且不超過60億元，回購期限延長至2027年3月29日。截至2026年6月30日，公司已回購A股股份1.57億股，佔目前總股本2.97%，回購總金額約58.80億元，平均成交價37.54元/股。公司後續將繼續實施回購計劃。
+
+---
+
+### 2026-07-01 17:18:44  #公司 #市場
+
+【肯特催化：公司股價實際波動幅度較大，存在市場情緒過熱情形】肯特催化7月1日釋出公告，公司股票於2026年6月30日、2026年7月1日連續2個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核實，公司目前日常經營情況正常，主營業務未發生變化，市場環境、行業政策沒有發生重大調整，無影響股價的重大經營事項；公司未出現對股票價格可能產生重大影響的媒體報道或市場傳聞，不存在其他應披露而未披露的重大資訊。鑑於公司股價剔除大盤和板塊因素後的實際波動幅度較大，存在市場情緒過熱的情形，公司提醒廣大投資者充分了解二級市場交易風險，審慎決策，理性投資。
+
+---
+
+### 2026-07-01 17:18:35  #公司
+
+【普洛藥業：首次回購0.02%公司股份，成交總金額為444.86萬元】普洛藥業公告，公司於2026年7月1日首次透過回購專用證券賬戶以集中競價方式回購公司股份26萬股，佔公司目前總股本的0.02%，最高成交價為17.15元/股，最低成交價為17.05元/股，成交總金額為444.86萬元（不含交易費用）。
+
+---
+
+### 2026-07-01 17:18:31  #公司
+
+【深南電A、深南電B：擬出資2億元設立新能源控股子公司】深南電A、深南電B公告稱，6月30日公司與山東高速深圳公司簽署協議，共同出資2億元設立深南電山高智慧能源（深圳）有限公司，開展新能源及儲能業務。公司認繳1.02億元，持股51%。董事會設五名董事，公司提名三名；設董事長一名，由公司提名。該子公司將作為核心合作平臺，提升公司競爭力，推動轉型發展，且不影響公司日常資金週轉和生產經營，但存在多種潛在風險。
+
+---
+
+### 2026-07-01 17:18:23  #公司
+
+【孚日股份：預計上半年淨利潤同比增長50.02%～70.27%】孚日股份公告，預計2026年上半年淨利潤為3.69億元到4.18億元，同比增長50.02%～70.27%。預計扣除非經常性損益後的淨利潤為3.62億元到4.09億元，同比增長44.49%～63.54%。預計基本每股收益為0.39元/股到0.44元/股。本次業績增長主要由於公司家紡主業穩健運營，電解液新增劑VC行業供需格局變化，公司VC產品售價提升，帶動業務毛利率增加。
+
+---
+
+### 2026-07-01 17:17:20  #公司
+
+【納睿雷達：釋出超460公里探測範圍S波段全極化相控陣雷達及AI大模型】納睿雷達公告，2026年7月1日，公司首次正式公開發布自主研發的“WDSPT0152型”S波段全極化多功能有源相控陣雷達和“睿宸”超精細化短時臨近AI氣象大模型。該雷達可實時監測超460公里範圍的中小尺度強對流天氣系統，能有效監測預警龍捲風等災害性天氣；AI大模型可針對0-24小時致災強對流天氣精準預報。目前新產品處於發展初期，尚未取得客戶訂單。
+
+---
+
+### 2026-07-01 17:17:17  #其他
+
+6 月 30 日比特幣長期持有者 SOPR 指標跌至 0.615，創下 2023 年 7 月以來最低值。長期持有者 SOPR（LTH-SOPR）數值低於 1，代表長期持有者正在虧損拋售所持比特幣。
+
+---
+
+### 2026-07-01 17:16:58  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
+
+【Amazon Web Services to invest $1bn in new AI unit】Amazon Web Services (AWS) will invest $1 billion (about 6.8 billion yuan) to establish a new AI unit focused on helping customers build and deploy AI systems. AWS expects to field thousands of front‑line deployment engineers who will work closely with customers' business, R&D and security teams to deliver end‑to‑end AI solutions and help customers stand up self‑sustaining operational teams within weeks. International media note AWS is the world's largest cloud provider by revenue and the first hyperscaler to offer a dedicated on‑site deployment‑engineer service.
+
+---
+
+### 2026-07-01 17:16:22  #MKT News #Commodities #Energy
+
+【Vessel grounded in Strait of Hormuz; damage extent unclear】Al Jazeera reported a vessel grounded in the Strait of Hormuz after reportedly not following Iran’s 'approved' transit route; details are still emerging and the extent of damage is unclear. Iran’s Islamic Revolutionary Guard Corps (IRGC) navy has repeatedly warned masters, owners and shipping companies that deviating from designated routes in the Persian Gulf when entering or leaving could trigger irreversible incidents. The report did not link the grounding to recent Iranian attacks on two vessels that transited without Tehran’s permission, one of which was carrying Qatari crude.
+
+---
+
+### 2026-07-01 17:16:13  #公司 #國際
+
+【霍爾木茲海峽發生船隻擱淺事故，受損程度尚不明確】據半島電視臺，有報道稱，一艘船隻在未遵循伊朗針對這一戰略水道所規定的“獲批”航線的情況下，於霍爾木茲海峽發生擱淺；目前有關該事件的更多細節正陸續浮出水面。目前尚不清楚該船受損的具體程度。據媒體報道，伊朗革命衛隊海軍“已多次向全球船長、船東及航運公司負責人發出警告，若在波斯灣航行時不走‘指定航線’而擅自進出，可能會引發無法挽回的意外”。該報道未提及伊朗近期襲擊的兩艘船隻——這兩艘船因未經德黑蘭許可透過該海峽而遭襲，其中包括一艘載有卡達原油的油輪。
+
+---
+
+### 2026-07-01 17:15:37  #公司
+
+【中國人保：張道明擔任公司副總裁任職資格獲監管核准】中國人保公告稱，近日收到國家金融監督管理總局批覆，已核准張道明擔任公司副總裁的任職資格。張道明簡歷詳見公司4月29日在上海證券交易所網站釋出的相關會議決議公告。
+
+---
+
+### 2026-07-01 17:15:36  #MKT News
+
+Rising market concern over an Iran peace agreement weighed on Gulf debt: UAE sovereign bonds fell 1 US cent, Saudi sovereign bonds declined in tandem, and S&P Global Market Intelligence showed Bahrain's 5-year CDS up 5bps to 246bps versus Tuesday's close.
 
 ---
 
@@ -14815,35 +14947,5 @@ UK Gilt Yields Ease Amid Political Transition — UK 10-year gilt yields fell to
 ### 2026-06-30 17:55:28  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 Stocks in United Kingdom Hit 10-week High — GB100 increased to 10576.00 Index Points, the highest since April 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 2.27%, and in the last 12 months, it increased 20.36%.
-
----
-
-### 2026-06-30 17:49:12  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Posts Worst Quarter Since 2020 on Supply Surge — Brent crude oil traded near $74 per barrel on Tuesday, recording a roughly 30% drop in Q2, which represents its largest quarterly decline since 2020. This plunge follows a surge in supply as traffic accelerated through the Strait of Hormuz after progress toward a peace deal released oil previously trapped inside the Persian Gulf. Additionally, US sanction waivers granted to Iran have introduced extra volumes into a market already trying to absorb major supply workarounds. Diplomatic efforts continue as Washington and Tehran send delegations to Doha for negotiations to end the four-month war, though Iran has ruled out direct talks. Meanwhile, Iran maintains its stance on controlling maritime traffic through the waterway. Iranian officials expressed a desire to co-regulate the strategic channel with Oman, but affirmed that Tehran will advance its own regulatory plans independently if necessary to oversee the strait's picking up flows.
-
----
-
-### 2026-06-30 17:48:12  #Trading Economics #Markets #Commodity #Importance 3
-
-Crude Suffers Worst Quarterly Fall Since 2020 — Crude oil traded near $70.2 per barrel on Tuesday, recording a roughly 30% drop in Q2, which represents its largest quarterly decline since 2020. This plunge follows a surge in supply as traffic accelerated through the Strait of Hormuz after progress toward a peace deal released oil previously trapped inside the Persian Gulf. Additionally, US sanction waivers granted to Iran have introduced extra volumes into a market already trying to absorb major supply workarounds. Diplomatic efforts continue as Washington and Tehran send delegations to Doha for negotiations to end the four-month war, though Iran has ruled out direct talks. Meanwhile, Iran maintains its stance on controlling maritime traffic through the waterway. Iranian officials expressed a desire to co-regulate the strategic channel with Oman, but affirmed that Tehran will advance its own regulatory plans independently if necessary to oversee the strait's picking up flows.
-
----
-
-### 2026-06-30 17:44:57  #Trading Economics #Economy #Greece #Retail Sales YoY #Importance 1
-
-Greece Retail Sales Growth Falls in April — Retail sales in Greece fell 0.1% year-on-year in April 2026, reversing a 3% increase in the previous month and marking the first annual decline since September 2025. Sales in the automotive fuel sector dropped 7.4% after remaining unchanged in March, while the non-food sector excluding automotive fuel also declined 1.3%, reversing from a 5.1% increase. Meanwhile, sales growth in the food sector accelerated to 4.1% from 2.8%. Among specialized categories, retail activity declined in department stores (-4.5% vs -0.3%), clothing and footwear (-5.9% vs -3%), and books, stationery, and other goods (-6.7% vs 6.9%). In addition, sales growth eased for pharmaceutical products and cosmetics (2.7% vs 3.9%) and furniture, electrical equipment, and household goods (5.2% vs 12.5%). In contrast, sales accelerated in food, beverages, and tobacco stores (3.3% vs 0.6%). On a seasonally adjusted monthly basis, retail activity fell 1.4%, following a 0.5% decline in the previous period.
-
----
-
-### 2026-06-30 17:44:47  #Trading Economics #Economy #Belgium #Producer Prices Change #Importance 1
-
-Belgium Producer Inflation Accelerates — Belgium's producer prices rose 9.7% year-on-year in May 2026, up from 8.7% in April and marking the strongest increase since January 2023. Price growth accelerated in both domestic and foreign markets, to 9.1% from 8.2% and 11.3% from 9.7%, respectively. By sector, manufacturing posted the largest increase, with prices up 10.3% after a 9.3% rise. Mining and quarrying accelerated to 1.9% from 0.6%, while inflation for electricity, gas, steam and air conditioning supply edged up to 4.3% from 4.2%. Meanwhile, inflation for water supply, sewerage, waste management and remediation activities remained steady at 4.2% for a third consecutive month. On a monthly basis, producer prices increased 1.1%, easing from April's 1.6% rise. Excluding energy, producer inflation accelerated to 1.9% from 1.7%.
-
----
-
-### 2026-06-30 17:32:38  #Trading Economics #Economy #Croatia #Industrial Production #Importance 1
-
-Croatia Industrial Output Decline Slows — Croatia's industrial production fell 1.1% year-on-year in May 2026, easing from a 2.1% decline in April. Mining and quarrying contracted 5.0%, following a 0.7% drop a month earlier. Manufacturing output declined 2.4% after falling 1.5%, weighed down by sharper declines in clothing (-16.6% vs -14.2%), paper products (-9.9% vs -5.1%), computers, electronic and optical products (-21.1% vs -3.3%), furniture (-10.0% vs -9.5%), and other transport equipment (-33.1% vs -28.3%). In contrast, electricity, gas, steam and air conditioning supply rebounded 0.9%, following an 11.3% decline in April. On a seasonally adjusted monthly basis, industrial production fell 2.0% in May, extending April's 0.6% decline.
 
 ---

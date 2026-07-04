@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 01:41:37_
-_本檔包含 2386 則快訊，約 505792 字_
+_更新時間：2026-07-05 02:37:52_
+_本檔包含 2384 則快訊，約 505904 字_
+
+---
+
+### 2026-07-05 02:37:00  #MKT News #Macro & Rates
+
+【Brazil finance minister Durigan says government credit measures will not weaken monetary policy】Finance Minister Durigan said the Lula government's credit measures are targeted industry support and will not undermine monetary policy. He said the measures did not prevent the Brazil central bank from delivering a larger rate cut at the recent MPC meeting. The government also unveiled a new credit and debt-restructuring program aimed at informal workers.
+
+---
+
+### 2026-07-05 02:35:00  #MKT News
+
+【Netanyahu to visit U.S. to meet Trump】President Trump said in a phone interview that Israeli Prime Minister Netanyahu has requested a White House meeting, which could take place as early as next week after Trump returns from the NATO summit. The Israeli prime minister's office said on July 3 that Netanyahu and Trump agreed in a phone call to meet in the United States soon. Trump also said the U.S. and Iran have agreed to pause negotiations for one week until funeral‑related events for Iran's late Supreme Leader Ali Khamenei conclude, and that neither side would open fire during that period.
+
+---
+
+### 2026-07-05 02:34:56  #其他
+
+【委內瑞拉地震2954人遇難16592人傷】當地時間7月4日下午，據委內瑞拉政府通報，地震造成的遇難人數升至2954人，此外還有16592人受傷。
+
+---
+
+### 2026-07-05 02:34:41  #國際
+
+【內塔尼亞胡近期將訪美與特朗普會晤】當地時間7月4日，美國總統特朗普在接受電話採訪時表示，以色列總理內塔尼亞胡已請求在白宮與他會面，雙方會晤最早可能在下週特朗普結束北約峰會行程後舉行。據以色列總理辦公室7月3日發表的宣告稱，以色列總理內塔尼亞胡和美國總統特朗普通電話，同意在不久的將來雙方在美國會面。此外，特朗普稱，美伊雙方決定在伊朗已故最高領袖阿里·哈梅內伊葬禮相關活動結束前暫停談判一週，期間雙方都不會開火。（央視新聞）
+
+---
+
+### 2026-07-05 02:29:05  #國際
+
+美國副總統萬斯：我懇請大家，摒棄非黑即白、片面單薄的視角，既不要用這種眼光看待身邊同胞，也不要以此看待我們的國家。請摒棄零和博弈式的狹隘思維。不要只盯著國家過往的過錯，卻無視它的包容與輝煌。這個國家一路走來的所有成就，都是全體國民共同鑄就。我們從未彼此對立割裂，而是作為一個共同體，攜手奔赴共同的未來。
+
+---
+
+### 2026-07-05 02:26:29  #MKT News
+
+Syrian president says he looks forward to establishing a relationship with the United States based on respect and cooperation.
+
+---
+
+### 2026-07-05 02:26:28  #MKT News
+
+【China foreign minister Wang Yi meets Jacob Wallenberg, chairman of Sweden's Yinruida Group】On July 4 in Stockholm, China foreign minister Wang Yi met Jacob Wallenberg, chairman of the board of Sweden's Yinruida Group.
+
+---
+
+### 2026-07-05 02:24:30  #MKT News
+
+【White supremacist demonstrators protest on Capitol Hill】On the 250th anniversary of US Independence, demonstrators wearing insignia of the white supremacist group "Patriot Front" staged protests at Eastern Market and around Capitol Hill. Participants, some wearing white masks, sunglasses and khaki caps bearing the group's emblem, marched near the Capitol and Union Station carrying Confederate flags, "Patriot Front" flags and inverted US flags, and chanted slogans including "Life, Liberty, Victory!" and "Take back America!"
+
+---
+
+### 2026-07-05 02:17:18  #MKT News
+
+【Venezuela earthquake death toll rises to 2,954】Data released by Venezuelan authorities on the 4th show two recent strong earthquakes have killed 2,954 people.
+
+---
+
+### 2026-07-05 02:17:17  #其他
+
+【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）
+
+---
+
+### 2026-07-05 02:09:56  #MKT News
+
+【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the "security zone" in southern Lebanon.
+
+---
+
+### 2026-07-05 02:09:42  #國際
+
+【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）
+
+---
+
+### 2026-07-05 02:04:32  #國際
+
+伊朗最高領袖辦公室親信、強硬派阿里雷扎·帕納希安稱，德黑蘭應當不惜犧牲全部國家利益，為哈梅內伊復仇。
+
+---
+
+### 2026-07-05 02:02:07  #MKT News
+
+Russia's Security Council deputy chairman Medvedev says Russia is willing to continue developing a strategic partnership with Iran.
+
+---
+
+### 2026-07-05 02:01:28  #國際
+
+俄羅斯聯邦安全會議副主席梅德韋傑夫：俄羅斯願繼續同伊朗發展戰略伙伴關係。
+
+---
+
+### 2026-07-05 01:53:41  #MKT News
+
+【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action.
+
+---
+
+### 2026-07-05 01:51:58  #MKT News #Brent #Impact bearish #XAUUSD #DXY
+
+Israel's Channel 15, citing sources, reported that US President Trump has urged against escalation in Lebanon to avoid hindering his communications with Iran.
+
+---
+
+### 2026-07-05 01:51:18  #MKT News
+
+【Immersive 'Jinlv Shiguang' tourism train adds July service linking Beijing, Tianjin, Hebei】From July 4, the immersive cultural-tourism train Jinlv Shiguang will operate a new Beijing–Tianjin–Hebei route, adding Guangyang station (Langfang, Hebei) and Tanggu station (Tianjin Binhai New Area) to the existing Beijing–Tianjin service. The weekend-and-holiday service is jointly run by Tianjin Tourism (Holding) Group and China Railway Beijing Group and is presented as part of efforts to advance Jing-Jin-Ji coordinated development and deepen transport–tourism integration.
+
+---
+
+### 2026-07-05 01:51:12  #市場 #焦點
+
+以太坊升破1800美元，日內漲2.43%。
+
+---
+
+### 2026-07-05 01:50:12  #國際
+
+訊息人士：特朗普要求以色列不要激化黎巴嫩局勢，以免阻礙其與伊朗開展的溝通。
+
+---
+
+### 2026-07-05 01:49:39  #公司
+
+【“津旅時光號”7月線路上新串聯京津冀】為深度服務京津冀文旅協同發展，7月4日起，沉浸式文旅專列“津旅時光號”正式開行京津冀全新線路。 新線路在已開通京津線路的基礎上，增加廣陽站（位於河北省廊坊市）及塘沽站（位於天津市濱海新區），每週末及節假日開行，實現京津冀三地文旅資源互通互聯。 這條新線路由天津市旅遊（控股）集團有限公司與中國鐵路北京局集團有限公司聯合打造，是落實京津冀協同發展戰略、推動交通與文旅深度融合的創新實踐。（新華社）
+
+---
+
+### 2026-07-05 01:44:41  #MKT News
+
+【Russia offers to hand over bodies of fallen Ukrainian soldiers, asks Ukraine to halt shelling of Konstantinovka】On the 4th local time the Russian Defence Ministry said it was prepared to carry out a humanitarian operation to hand over bodies of Ukrainian soldiers killed in action and proposed Ukraine suspend shelling of Konstantinovka from 12:00 to 18:00 Moscow time on the 6th. Russia said Ukraine must decide on the handover by 12:00 Moscow time on the 5th; Ukraine had made no immediate response.
+
+---
+
+### 2026-07-05 01:42:59  #國際
+
+【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）
 
 ---
 
@@ -14234,155 +14372,5 @@ PCB概念探底回升，天山電子20CM漲停，深南電路、中國巨石漲�
 ### 2026-07-03 10:49:36  #公司
 
 【歐克科技增資至約1.3億，增幅40%】天眼查App顯示，7月1日，歐克科技（001223）發生工商變更，註冊資本由9335.2萬人民幣增至約1.3億人民幣，增幅40%。該公司成立於2011年8月，法定代表人為胡甫晟，經營範圍包括機械裝置研發、專用裝置製造、製漿和造紙專用裝置製造、包裝專用裝置製造等。
-
----
-
-### 2026-07-03 10:49:11  #市場 #焦點
-
-創業板指漲2％，上證指數漲0.7％，深證成指漲1.5％，人形機器人、貴金屬板塊漲幅居前。
-
----
-
-### 2026-07-03 10:45:58  #其他
-
-惠譽將瑞薩電子評級展望調整為穩定；維持“BBB”評級。
-
----
-
-### 2026-07-03 10:45:27  #其他
-
-越南上半年外國遊客到訪量達1230萬人次，同比增長14.9%。
-
----
-
-### 2026-07-03 10:45:26  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's benchmark Jakarta Composite Index rose about 2.5% to 5,885.422 points.
-
----
-
-### 2026-07-03 10:45:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-【DBS: Japan may be shifting to covert FX intervention】DBS Research senior FX strategist Philip Wee said market rumors suggest Japan’s Ministry of Finance may be moving toward undisclosed, covert FX intervention. Wee warned that with US bond and equity markets thin for the Independence Day holiday, such intervention could amplify market volatility. He said the tactic appears aimed at shifting market sentiment from skepticism to caution.
-
----
-
-### 2026-07-03 10:45:08  #市場 #國際
-
-【賤金屬因美元走弱而上漲】亞洲早盤交易中，賤金屬上漲。澳新銀行研究部在一份報告中寫道，在美國就業報告引發美元拋售之後，該板塊獲得了支撐。澳新銀行補充說，美元走弱以及對美國貨幣緊縮擔憂的緩解提振了風險偏好。三個月期倫敦金屬交易所(LME)銅合約上漲0.7%，報每噸13,416.00美元，而鎳合約上漲1.7%，鋁合約上漲0.6%。
-
----
-
-### 2026-07-03 10:44:53  #市場
-
-【建材板塊震盪拉昇 華新建材、先鋒新材漲停】建材板塊震盪拉昇，華新建材、先鋒新材漲停，中國巨石、國際復材等股漲幅居前。
-
----
-
-### 2026-07-03 10:44:25  #市場
-
-【減速器概念股走強 夏廈精密等漲停】減速器概念股盤中走強，夏廈精密、杭齒前進等漲停，綠的諧波、雙環傳動等股上漲。
-
----
-
-### 2026-07-03 10:44:14  #市場 #國際
-
-印尼基準股指一度上漲2.5%至5,885.422點。
-
----
-
-### 2026-07-03 10:44:02  #國際
-
-【特斯拉Model Y L在美上市 售價61990美元】特斯拉週四宣佈在美國市場推出 Model Y L車型，目前可在官網訂購，首發售價 61990 美元，僅提供全輪驅動、長軸距一種版本。
-
----
-
-### 2026-07-03 10:43:37  #市場 #國際
-
-印尼指標股指一度上漲2.5%至5,885.422點。
-
----
-
-### 2026-07-03 10:42:32  #其他
-
-京東方A成交額超200億元，現跌超6%。
-
----
-
-### 2026-07-03 10:42:18  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Hong Kong to launch long‑planned gold clearing and settlement system next week, sources say】Sources say the Hong Kong government will launch a long‑planned gold clearing and settlement system next week and plans to process the first gold settlement via the new system on Tuesday. Market participants report large physical flows out of London, the US and Europe, with large-format bars being air‑freighted to Asia ahead of the start. The move could trigger near‑term volatility in the London gold market as participants rebalance. If the system draws significant international and local bank participation, Hong Kong could shift from a price taker to a price setter in global gold pricing.
-
----
-
-### 2026-07-03 10:41:50  #MKT News #002916.SZ #Impact bullish #002463.SZ #002938.SZ
-
-China A-share PCB sector firmed after choppy trading; Shennan Circuits hit limit-up, while Hudian, Shengyi Technology, Pengding Holdings and Guanghe Technology also advanced.
-
----
-
-### 2026-07-03 10:41:49  #市場
-
-【三大指數震盪上行】三大指數震盪上行，深成指漲超1%，創業板指漲1.24%，滬指漲0.48%。全市場3400家個股上漲。
-
----
-
-### 2026-07-03 10:41:17  #國際
-
-中國地震臺網自動測定：07月03日10時31分在印尼哈馬黑拉島附近（北緯1.45度，東經127.77度）發生6.3級左右地震（深源），最終結果以正式速報為準。
-
----
-
-### 2026-07-03 10:40:55  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-AUS 10Y Yield Snaps 2-Session Gains — Australia’s 10-year government bond yield slipped to around 4.8% on Friday, ending a two-session advance as investors assessed major banks’ hawkish interpretations of the Reserve Bank of Australia’s June meeting minutes. Although markets continued to price only a 15% chance of an August rate hike and roughly even odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing repeated references to excess demand and capacity constraints as evidence that the RBA remains concerned about inflationary pressures. Likewise, ANZ said the minutes reinforced the risk of a further rate increase while maintaining its core rate forecast. On the economic front, Australia’s S&P Global Composite PMI was revised up to 50.4 in June from a preliminary reading of 49.8, supported by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7).
-
----
-
-### 2026-07-03 10:40:42  #Trading Economics #Economy #Vietnam #Retail Sales YoY #Importance 1
-
-Vietnam Retail Sales Growth Strongest Since 2023 — Retail sales in Vietnam rose by 14.8% year-on-year in June 2026, accelerating from an 11.8% increase in the previous month and marking the strongest growth since January 2023. All major categories recorded stronger growth, with retail sales of goods, representing 75.6% of total activity, increasing 13.4% after rising 11.3% in May. Sales also strengthened further in accommodation, food, and beverage services (19.7% vs. 15.4%), travel and tourism (24.9% vs. 15.4%), and other services (17.9% vs. 10.8%). In the first half of 2026, total retail sales rose 12.9% compared with the same period a year earlier.
-
----
-
-### 2026-07-03 10:40:05  #公司
-
-【如身機器人完成億元Pre-A輪融資】近日，上海如身機器人科技有限公司宣佈於四月底完成億元Pre-A輪融資，本輪融資由知名醫療基金清松資本、頭部算力上市公司潤澤科技及平湖澤新共同投資，將用於加速具身智慧在養老機構與居家場景的應用部署。
-
----
-
-### 2026-07-03 10:39:49  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Set for Weekly Advance — The Australian dollar strengthened for a second straight session to around $0.690 and was on track for a weekly gain, supported by hawkish interpretations of the RBA's June meeting minutes from major banks. While markets priced in only a 15% chance of an August rate hike and roughly 50% odds that the tightening cycle has ended, CBA said the minutes struck a hawkish tone, citing persistent references to excess demand and capacity constraints as signs the RBA remains alert to inflation risks. Likewise, ANZ said the minutes reinforced the risk of another rate hike while leaving its core rate call unchanged. The Aussie dollar also found support from a weaker US dollar after softer-than-expected employment data tempered expectations for further Fed rate hikes. Meanwhile, Australia's S&P Global Composite PMI was revised up to 50.4 in June from a preliminary estimate of 49.8, driven by a return to expansion in services activity (50.5 vs 48.7) and stronger manufacturing growth (51.5 vs 50.7).
-
----
-
-### 2026-07-03 10:39:26  #市場
-
-滬深300指數上漲1%至4,860.50點。
-
----
-
-### 2026-07-03 10:38:40  #MKT News
-
-German Research Centre for Geosciences (GFZ) reported a magnitude 6.3 earthquake struck Halmahera, Indonesia.
-
----
-
-### 2026-07-03 10:38:09  #其他
-
-【非洲疾控中心說剛果（金）埃博拉疫情仍“非常嚴重”】非洲疾病預防控制中心主任卡塞亞2日在剛果（金）首都金沙薩說，該國本輪埃博拉疫情仍“非常嚴重”，確診病例和死亡病例增長較快。剛果（金）政府2日晚釋出的疫情資料顯示，截至1日，該國本輪埃博拉疫情累計報告確診病例1460例，其中死亡447例，595名患者正在隔離或接受治療，213人治癒。（新華社）
-
----
-
-### 2026-07-03 10:37:39  #國際
-
-德國地球科學研究中心（GFZ）：印度尼西亞哈馬黑拉島發生6.3級地震。
-
----
-
-### 2026-07-03 10:37:19  #其他
-
-【鄭州、濟南、青島社保卡將實現互通】從鄭州市人力資源和社會保障局獲悉，鄭州、濟南、青島三市人社部門日前共同簽署《濟青鄭三城聯動社保領域協同發展合作協議》，並聯合發布全國首個跨兩省三市《社會保障卡居民服務“一卡通”應用目錄》，落地20餘項社保便民服務清單，標誌著社保卡服務從“一卡通用”跨入“三城互通”新階段。在三市聯合釋出的社保卡居民服務“一卡通”應用目錄中，共涉及人社、醫保、交通、文旅、政務惠民、金融等六大領域26個應用場景。今後，三市居民持實體社保卡或電子社保卡，可實現暢通辦理就醫結算、公交地鐵、景區入園、圖書借閱、便民繳費等各類民生業務。
 
 ---
