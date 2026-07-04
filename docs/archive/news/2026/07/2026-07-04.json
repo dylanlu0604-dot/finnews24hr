@@ -1,7 +1,35 @@
 {
   "date": "2026-07-04",
-  "count": 566,
+  "count": 569,
   "items": [
+    {
+      "id": "mkt:019f2d65-7abf-7aab-8c9d-466e6493cdc6",
+      "time": "2026-07-04 21:50:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports the Russian Defence Ministry says its forces are clearing Ukrainian troops from the town of Lyman."
+    },
+    {
+      "id": "mkt:019f2d65-5728-7aab-8c9d-3ca64b7aaf1e",
+      "time": "2026-07-04 21:50:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "TASS cited the Russian Defence Ministry saying Russian forces have captured five settlements in eastern Ukraine."
+    },
+    {
+      "id": "4970485",
+      "time": "2026-07-04 21:48:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部表示，其部隊正在清除利曼鎮的烏克蘭軍隊。"
+    },
     {
       "id": "4970483",
       "time": "2026-07-04 21:47:38",
