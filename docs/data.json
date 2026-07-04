@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 20:38:12",
+  "updated": "2026-07-04 20:42:17",
   "count": 13256,
   "items": [
+    {
+      "id": "4970444",
+      "time": "2026-07-04 20:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿里·阿茲馬伊被任命為伊朗伊斯蘭革命衛隊海軍司令】伊朗伊斯蘭革命衛隊原海軍副司令阿里·阿茲馬伊已被任命為伊朗伊斯蘭革命衛隊海軍司令。阿茲馬伊此前長期在伊朗伊斯蘭革命衛隊海軍任職。（央視新聞）"
+    },
+    {
+      "id": "4970443",
+      "time": "2026-07-04 20:39:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬裡軍方說擊退針對多地軍方陣地的襲擊】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天遭襲，所有襲擊均被擊退，遇襲陣地目前處於軍方“完全控制之下”。公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。在塞瓦雷，軍方擊斃20名恐怖分子；在加奧，軍方擊斃6名恐怖分子，軍方有1人喪生、4人受傷。軍方仍在開展清剿行動。"
+    },
     {
       "id": "4970438",
       "time": "2026-07-04 20:31:03",
@@ -121977,27 +121993,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普政府據悉接近允許Anthropic恢復對其強大Fable 5模型的訪問許可權 。"
-    },
-    {
-      "id": "mkt:019f0919-d53f-7dd8-b142-332d5502a7e8",
-      "time": "2026-06-27 20:41:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Israeli forces strike southern Lebanon again after Lebanon-Israel-US framework agreement】Following a tripartite framework agreement between Lebanon, Israel and the United States on June 26, Israeli forces struck southern Lebanon on June 27, Lebanese sources said. An Israeli drone hit an intersection in the nebetiyeh area and another dropped a blast munition near Taibnit village; Israeli troops advanced toward the outskirts of Shuba village, using medium and heavy machine-gun fire during the movement."
-    },
-    {
-      "id": "4958409",
-      "time": "2026-06-27 20:39:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《黑龍江省推進“人工智慧+教育”行動方案》出臺】近日，黑龍江省教育廳等八部門出臺《黑龍江省推進“人工智慧+教育”行動方案》，方案提出，到2027年，基本形成縱向貫通、橫向聯通的人工智慧通識教育體系，人工智慧在教育領域常態化應用，適配各類教學場景的數字教育資源持續豐富，師生人工智慧素養與創新能力顯著提升；到2030年，人工智慧領域人才培養規模和質量不斷提升，形成全民人工智慧素養培育長效機制，教育教學模式、科研正規化、治理模式實現系統性變革，基礎支撐環境更加集約高效，創新生態體系更加開放協同，智慧技術應用更加普惠、安全、高效，形成一批高價值、可推廣、易複製的應用場景，人工智慧與教育深度融合的“龍江正規化”基本形成。"
     }
   ]
 }
