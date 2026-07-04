@@ -1,7 +1,16 @@
 {
   "date": "2026-07-04",
-  "count": 554,
+  "count": 555,
   "items": [
+    {
+      "id": "mkt:019f2d4b-165f-7aab-8c9d-1b537127b9a1",
+      "time": "2026-07-04 21:22:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US and Iran will hold talks in Pakistan on July 11, Saudi outlets Hadas and Al Arabiya report."
+    },
     {
       "id": "4970467",
       "time": "2026-07-04 21:18:06",
