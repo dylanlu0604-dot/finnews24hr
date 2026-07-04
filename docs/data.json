@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-04 09:20:19",
-  "count": 13299,
+  "updated": "2026-07-04 09:24:15",
+  "count": 13301,
   "items": [
+    {
+      "id": "mkt:019f2ab9-3982-7aab-8c9b-287087961a54",
+      "time": "2026-07-04 09:23:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CGN Taipingling Unit 2, Greater Bay Area's first Hualong One, achieves first grid synchronization】CGN's Guangdong Taipingling nuclear power Unit 2 — the Greater Bay Area's first Hualong One project — synchronized to the grid today and dispatched its first kWh, marking the unit's capability to supply power. The unit will undergo further performance verification and is scheduled for commercial operation in H2 2026."
+    },
+    {
+      "id": "4970204",
+      "time": "2026-07-04 09:22:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【每噸暴漲超450元！焦炭第十輪提漲來了 鋼廠牴觸情緒濃厚】記者獲悉，山東區域主流鋼廠上調焦炭採購價，溼熄焦上調50元/噸，幹熄焦上調55元/噸，本次調價省內外執行統一價格，調整後準一級溼熄冶金焦含稅採購價1845元/噸，準一級幹熄冶金焦含稅採購價2135元/噸。 同期，天津及河北邢臺、石家莊、唐山多地鋼廠落地同幅度漲價，溼熄、幹熄焦炭採購價分別上調50元/噸、55元/噸。 卓創資訊煤炭分析師劉璐璐告訴記者，3月下旬以來，焦炭價格進入連續提漲通道，截至目前累計提漲十輪，落地九輪，累計漲價450-515元/噸。她表示，焦炭價格第十輪提漲已經開啟，預計落地難度較大。（華夏時報）"
+    },
+    {
+      "id": "4970203",
+      "time": "2026-07-04 09:22:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵港澳大灣區首個“華龍一號”專案太平嶺核電2號機組首次併網發電】今天，粵港澳大灣區首個“華龍一號”核電專案——中廣核廣東太平嶺核電2號機組首次併網成功，發出第一度電。此次併網，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。後續，2號機組將按計劃進一步驗證機組效能，預計將在2026年下半年正式投產發電。（央視新聞）"
+    },
     {
       "id": "4970202",
       "time": "2026-07-04 09:17:14",
@@ -122437,15 +122461,6 @@
         "DXY"
       ],
       "text": "【Iran senior official says Trump did not respect negotiation or ceasefire principles】Ibrahim Azizi, chairman of the Islamic Consultative Assembly’s National Security Committee, said on the 27th that the US struck Iran again during talks and that President Trump has not respected negotiation or ceasefire principles. In a social media post Azizi called the US breach of the ceasefire \"reckless\", warned Iran would \"force them to retreat and regret it\", and said attempts to shift blame \"will no longer work\"."
-    },
-    {
-      "id": "4958147",
-      "time": "2026-06-27 09:20:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗高階官員：特朗普不遵守談判和停火原則】伊朗伊斯蘭議會國家安全委員會主席易卜拉欣·阿齊茲27日表示，美國在與伊朗談判期間再次襲擊伊朗，美國總統特朗普既不遵守談判原則，也不遵守停火原則。阿齊茲在社交媒體上發文說，美國違反停火協議的行為“魯莽”，伊方“將一如既往地令其退縮與後悔”，“推卸責任的把戲已不再奏效”。據伊朗塔斯尼姆通訊社當天凌晨報道，美國違反與伊朗的停火協議和諒解備忘錄，襲擊錫裡克地區。（新華社）"
     }
   ]
 }
