@@ -1,7 +1,15 @@
 {
   "date": "2026-07-04",
-  "count": 535,
+  "count": 536,
   "items": [
+    {
+      "id": "mkt:019f2d09-54d8-7aab-8c9c-ef44b8ca4028",
+      "time": "2026-07-04 20:10:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Egyptian minister said Egypt expects to receive €1.5 bln under the EU aid package within days."
+    },
     {
       "id": "4970424",
       "time": "2026-07-04 20:08:39",
