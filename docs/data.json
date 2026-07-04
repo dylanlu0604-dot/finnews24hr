@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 04:08:41",
+  "updated": "2026-07-05 04:12:36",
   "count": 13234,
   "items": [
+    {
+      "id": "mkt:019f2ec1-4448-7aab-8c9f-3fa77384bcd2",
+      "time": "2026-07-05 04:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese Health Ministry said the death toll has risen to 4,303 and injuries total 12,202 since hostilities resumed."
+    },
     {
       "id": "4970594",
       "time": "2026-07-05 04:01:58",
@@ -121804,14 +121812,6 @@
         "MKT News"
       ],
       "text": "【Gavekal Research: scenario of Trump forcing Fed cuts that keep inflation above 2% is unlikely】Gavekal Research said markets feared in 2025 that Trump might undermine Fed independence by nominating a political ally as chair, forcing rate cuts and leaving inflation persistently above the Fed’s 2% target. Developments over the past seven months make that scenario unlikely: the appointment of Kevin Walsh to lead the Fed and the retention of 11 of 12 regional Fed bank presidents. At Walsh’s first meeting earlier this month the Fed emphasized its commitment to price stability, surprising some market participants who had expected a more dovish stance."
-    },
-    {
-      "id": "4958601",
-      "time": "2026-06-28 04:10:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟：啟動一項針對查德、總額6300萬歐元的安全合作計劃。"
     }
   ]
 }

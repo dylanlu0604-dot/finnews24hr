@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 117,
+  "count": 118,
   "items": [
+    {
+      "id": "mkt:019f2ec1-4448-7aab-8c9f-3fa77384bcd2",
+      "time": "2026-07-05 04:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese Health Ministry said the death toll has risen to 4,303 and injuries total 12,202 since hostilities resumed."
+    },
     {
       "id": "4970594",
       "time": "2026-07-05 04:01:58",
