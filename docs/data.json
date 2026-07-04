@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 00:19:44",
-  "count": 13237,
+  "updated": "2026-07-05 00:23:46",
+  "count": 13236,
   "items": [
+    {
+      "id": "4970535",
+      "time": "2026-07-05 00:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊代理防長：應地區友國請求籤署停火諒解 違約將果斷回擊】伊朗代理國防部長馬吉德·伊本·禮薩表示，儘管伊朗對美國心存戒備，但應地區友好國家的請求，德黑蘭方面簽署了停火諒解檔案。他稱，若該諒解檔案中的相關承諾遭到違背，伊朗將作出“必要且堅決的”回應。"
+    },
     {
       "id": "4970534",
       "time": "2026-07-05 00:16:33",
@@ -121830,26 +121838,6 @@
         "Brent"
       ],
       "text": "Market sources say Iran attacked a tanker in the Strait of Hormuz; the vessel was damaged but there were no casualties."
-    },
-    {
-      "id": "mkt:019f09e3-18ec-7dd8-b142-df292d7d35be",
-      "time": "2026-06-28 00:21:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's defense minister Katz said Israeli forces will not withdraw unless Hezbollah is disarmed in Lebanon."
-    },
-    {
-      "id": "4958526",
-      "time": "2026-06-28 00:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：伊朗在阿曼海岸附近的霍爾木茲海峽襲擊了一艘油輪。"
     }
   ]
 }
