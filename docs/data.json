@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 13:38:39",
-  "count": 13300,
+  "updated": "2026-07-04 13:42:34",
+  "count": 13301,
   "items": [
+    {
+      "id": "4970292",
+      "time": "2026-07-04 13:40:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國平安繼續增持農業銀行H股 所持股份佔該行H股總數突破26%】港交所披露易最新資訊顯示，6月30日，中國平安透過旗下平安人壽在場內增持17077.5萬股農業銀行H股股份。增持完成後，中國平安透過平安人壽、平安產險、平安健康險合計持有的農行H股數量增至81.14億股，佔該行H股總數突破26%。"
+    },
+    {
+      "id": "4970291",
+      "time": "2026-07-04 13:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：在高科技武器生產能力上，烏克蘭可以超越俄羅斯】當地時間7月3日，烏克蘭總統澤連斯基稱，烏克蘭的國防生產水平已經發展到一定程度，從長遠來看，烏克蘭可以製造比俄羅斯更多的高科技武器。 （觀察者網）"
+    },
     {
       "id": "4970290",
       "time": "2026-07-04 13:36:30",
@@ -122397,20 +122413,6 @@
         "MKT News"
       ],
       "text": "【WPS to add disk storage management and install-path selection in July after C: drive complaints】June 27 — WPS said it completed an investigation into concentrated user complaints about C: drive space usage and has started optimizations. A new version due in July will add an installer option to choose the installation path and will add a \"Storage Management\" module in settings that aggregates occupancy and releasable space for caches, file backups and cloud-document cache. WPS said caches and backups default to C: and opaque usage had frustrated some high-frequency users; the update’s stated aim is \"install with choice, use with control,\" letting users see local disk usage and free files themselves."
-    },
-    {
-      "id": "mkt:019f0798-44cf-7dd8-b140-b972ed680b67",
-      "time": "2026-06-27 13:40:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "【Compute-related products accelerate exports this year; Wuhan 800G+ optical module shipments surge over 100x YoY】China electromechanical exports hit 7.58 tln yuan in the first five months, accounting for 63.6% of total exports; monthly values have posted record highs for the comparable month for 15 consecutive months since March 2025. AI supply‑chain products contributed over 50% of this year’s incremental increase in electromechanical exports. Manufacturers report 24/7 production of key AI-server inputs, including electronic fabric. A Wuhan producer says exports of 800G+ optical modules have risen more than 100x YoY as global compute‑infrastructure buildout accelerates."
     }
   ]
 }
