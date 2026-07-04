@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 08:30:01",
-  "count": 13308,
+  "updated": "2026-07-04 08:33:47",
+  "count": 13305,
   "items": [
+    {
+      "id": "mkt:019f2a8a-ad61-7aab-8c9b-06a8469f4f3f",
+      "time": "2026-07-04 08:32:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude is investigating anomalous errors appearing in multiple models."
+    },
+    {
+      "id": "4970185",
+      "time": "2026-07-04 08:31:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“美莎克”攜強降雨持續影響華南 北方多地氣溫超40℃】受今年第10號颱風“美莎克”影響，7月4日至6日，華南沿海等地雨勢猛烈，局地或遭遇極端降雨，同時，長江中下游等地和華北、東北一帶將繼續維持多雨格局。受強盛的大陸高壓影響，北方高溫範圍廣泛，新疆、甘肅等地酷熱程度同期罕見。在南方，江西、浙江、福建一帶在副熱帶高壓掌控下，高溫悶熱天氣頻繁。（央視新聞）"
+    },
     {
       "id": "4970184",
       "time": "2026-07-04 08:27:28",
@@ -122466,46 +122482,6 @@
         "Important"
       ],
       "text": "【ANTHROPIC: Claude MYTHOS 5 cleared for limited redeployment to US institutions; FABLE 5 public return imminent】ANTHROPIC said it has worked with the US government since June 12 to restore access to Claude MYTHOS 5 and FABLE 5. Today the government notified ANTHROPIC that MYTHOS 5, the company’s most advanced cybersecurity model, may be redeployed to a group of US institutions. ANTHROPIC said it is continuing to work with authorities to expand access to MYTHOS 5 and to make FABLE 5 publicly available again."
-    },
-    {
-      "id": "4958122",
-      "time": "2026-06-27 08:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：我們正繼續與政府合作，以擴大對MYTHOS 5的訪問許可權，並讓FABLE 5再次面向公眾開放使用。"
-    },
-    {
-      "id": "4958121",
-      "time": "2026-06-27 08:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic：今日政府通知我方，我們最強大的網路安全模型MYTHOS 5可重新部署至一批美國機構。"
-    },
-    {
-      "id": "4958120",
-      "time": "2026-06-27 08:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic：自6月12日起，我們一直與美國政府密切合作，以恢復對Claude Mythos 5和Fable 5的訪問許可權。"
-    },
-    {
-      "id": "4958119",
-      "time": "2026-06-27 08:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局（USGS）：索羅門群島基拉基拉以東 100 公里處發生 5.1 級地震。"
-    },
-    {
-      "id": "4958118",
-      "time": "2026-06-27 08:30:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【SpaceX即將入選納斯達克100指數 為被動買入潮鋪平道路】斯達克交易所週五確認，SpaceX將於7月7日被納入科技股佔比較高的納斯達克100指數，這為埃隆·馬斯克旗下的這家火箭與人工智慧巨頭吸引被動投資鋪平了道路。摩根大通估計，SpaceX被納入納斯達克100指數可能帶來43億美元的被動資金流入。 “顯然，市場需求很大，這就是他們加快將其納入指數程序的原因，”晨星（Morningstar）首席股票市場策略師邁克爾·菲爾德（Michael Field）表示。“很多人會對此感到高興。但一些基金經理則不那麼樂意，其中包括持懷疑態度的那些人，我們也在其中。我們認為該股估值過高。”"
     }
   ]
 }
