@@ -1,7 +1,31 @@
 {
   "date": "2026-07-04",
-  "count": 443,
+  "count": 446,
   "items": [
+    {
+      "id": "mkt:019f2c26-1042-7aab-8c9c-573d2600ec66",
+      "time": "2026-07-04 16:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's express deliveries top 100 bln items year-to-date】State Post Bureau data released July 4 show that as of June 30 cumulative express deliveries in China this year exceeded 100 bln items, hitting the milestone 9 days earlier than in 2025. The postal and courier sector's resilience reflects steady consumer demand and continued moderate economic growth."
+    },
+    {
+      "id": "4970330",
+      "time": "2026-07-04 16:01:09",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【今年我國快遞業務量已超1000億件】國家郵政局7月4日釋出資料顯示，截至6月30日，今年我國快遞業務量已超1000億件，比2025年提前9天。郵政快遞業的發展韌性，折射出我國消費市場平穩增長、經濟發展穩中有進的良好態勢。"
+    },
+    {
+      "id": "4970329",
+      "time": "2026-07-04 16:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬裡軍方稱多座主要城鎮遭遇襲擊。"
+    },
     {
       "id": "mkt:019f2c20-3600-7aab-8c9c-4a9b84b442df",
       "time": "2026-07-04 15:55:36",
