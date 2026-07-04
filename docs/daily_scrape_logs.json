@@ -1,6 +1,154 @@
 {
-  "updated": "2026-07-03 12:35:48",
+  "updated": "2026-07-04 08:03:45",
   "items": [
+    {
+      "id": "2026070408",
+      "date": "2026-07-04",
+      "run_hour": 8,
+      "started_at": "2026-07-04 08:03:30",
+      "finished_at": "2026-07-04 08:03:45",
+      "status": "FAILED",
+      "total_sources": 12,
+      "success_count": 0,
+      "failure_count": 12,
+      "success_sources": [],
+      "failed_sources": [
+        "cnyes",
+        "taishin",
+        "cathay",
+        "edwardjones",
+        "nomura",
+        "factset",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cnyes 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "edwardjones",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "edwardjones 日期不符：頁面最新日期是 2026-07-02，預期日期是 2026-07-03",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-03",
+          "actual_date": "2026-07-02"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-07-02，預期日期是 2026-07-03",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-03",
+          "actual_date": "2026-07-02"
+        },
+        {
+          "source": "jin10",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "jin10 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "fx678",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "investrade",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "investrade 日期不符：頁面最新日期是 2026-07-02，預期日期是 2026-07-03",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-03",
+          "actual_date": "2026-07-02"
+        },
+        {
+          "source": "westpac",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "westpac 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260704.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-03，預期日期是 2026-07-04",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-04",
+          "actual_date": "2026-07-03"
+        }
+      ]
+    },
     {
       "id": "2026070312",
       "date": "2026-07-03",
