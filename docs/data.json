@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 18:15:35",
-  "count": 13278,
+  "updated": "2026-07-04 18:19:34",
+  "count": 13273,
   "items": [
+    {
+      "id": "4970379",
+      "time": "2026-07-04 18:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業綜合企業俱樂部(UCAB)表示，烏克蘭6月農產品出口下降7.5%，至480萬噸。"
+    },
     {
       "id": "mkt:019f2c9f-0791-7aab-8c9c-a7413d2aa6c1",
       "time": "2026-07-04 18:14:07",
@@ -122128,55 +122136,6 @@
         "MKT News"
       ],
       "text": "Iran Civil Aviation Organization says Tehran–Dubai flights will resume on July 1."
-    },
-    {
-      "id": "mkt:019f0896-68d6-7dd8-b141-c1a21baa76d3",
-      "time": "2026-06-27 18:18:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela acting president: 60% of power restored in worst-hit earthquake zone】Acting President Delcy Rodriguez said at a central command in La Guaira in the early hours of June 27 local time that electricity service in the earthquake's worst-hit state has been restored to 60% of total service. She said water service has been partially restored and food supplies for affected areas are secured, and that search-and-rescue for survivors remains the immediate priority."
-    },
-    {
-      "id": "4958361",
-      "time": "2026-06-27 18:18:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【淮安樞紐工程取得進展，曾因其改道一年多的京杭大運河恢復通航】當前，淮河流域已進入主汛期，各地重大水利工程建設正搶抓有利時機、全速推進。今天（6月27日），淮河入海水道二期工程迎來重要節點，淮安樞紐專案京杭大運河南北圍堰順利拆除，京杭大運河恢復原航道通航。隨著首艘滿載貨物的貨輪沿京杭大運河河道駛入主體擴建完工的淮安樞紐專案，標誌著改道一年多的京杭大運河恢復原航道通航。（央視新聞）"
-    },
-    {
-      "id": "4958360",
-      "time": "2026-06-27 18:17:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉代總統：地震重災區六成電力已恢復】當地時間6月27日凌晨，委內瑞拉代總統德爾西·羅德里格斯在地震重災區拉瓜伊拉州設立的中央指揮所表示，該州電力服務已恢復至總量的60%。羅德里格斯還表示，部分地區供水已恢復，災區食品物資需求得到保障。她強調，搜救倖存者仍是當前的首要任務。（央視新聞）"
-    },
-    {
-      "id": "4958359",
-      "time": "2026-06-27 18:17:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機器人“上崗” 廈金大橋（廈門段）環島路隧道左線盾構始發】27日上午，廈金大橋（廈門段）環島路隧道左線盾構正式始發。廈金大橋（廈門段）專案包括海上橋樑與地下工程兩大部分。其中環島路隧道全長3.29公里，設計標準為雙向六車道，通行時速80公里，包含盾構隧道與明挖隧道兩部分。盾構隧道包含左、右兩條線路，右線於去年6月始發，今年3月貫通。本次始發的左線長1.33公里。針對複雜地層多重施工風險，“廈金號”盾構機還專項配套搭載自主研發的全國首臺過載盾構換刀機器人，既能壓縮單次換刀工期、提升掘進施工效率，也徹底規避傳統人工換刀存在的各類安全隱患，為實現持續、安全、高效掘進提供關鍵技術保障。廈金大橋（廈門段）路線全長19.6公里，專案全線建成通車後將與廈門翔安國際機場、廈金航線共同構建起對臺海陸空立體交通新格局，對福建省探索海峽兩岸融合發展新路、建設兩岸融合發展示範區具有重要意義。（央視新聞）"
-    },
-    {
-      "id": "4958358",
-      "time": "2026-06-27 18:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "據黎巴嫩國家通訊社：以色列無人機襲擊黎巴嫩南部納巴提耶地區。"
-    },
-    {
-      "id": "mkt:019f0894-9558-7dd8-b141-ba72de17bdbc",
-      "time": "2026-06-27 18:16:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Lebanese National News Agency reports an Israeli drone strike in Nabatieh, southern Lebanon."
     }
   ]
 }
