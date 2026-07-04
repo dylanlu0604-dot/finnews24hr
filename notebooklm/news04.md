@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-04 21:53:21_
-_本檔包含 2427 則快訊，約 504414 字_
+_更新時間：2026-07-04 23:20:12_
+_本檔包含 2440 則快訊，約 505551 字_
+
+---
+
+### 2026-07-01 17:08:40  #公司
+
+【瑞晨環保：持股5%以上股東減持至5%以下】瑞晨環保公告稱，持股5%以上股東寧波虎鼎致新創業投資合夥企業（有限合夥），於2026年6月23日至6月30日，透過集中競價和大宗交易減持156.51萬股，佔總股本1.560442%。變動後，其持股降至501.49萬股，佔比4.999975%，不再是持股5%以上股東。本次減持計劃未實施完畢，不會對公司治理等產生重大影響，也不涉及控制權變更。
+
+---
+
+### 2026-07-01 17:08:38  #公司
+
+【甬金股份：實際控制人之一曹佩鳳因內幕交易罪被判刑】甬金股份(603995.SH)公告稱，公司實際控制人之一曹佩鳳收到浙江省金華市中級人民法院《刑事判決書》，因犯內幕交易、洩露內幕資訊罪，被判處有期徒刑三年，緩刑四年，並處罰金100萬元，其已退出的內幕交易違法所得54.92萬元予以沒收。該判決僅涉及曹佩鳳個人，與公司日常經營無關，不會對公司業務及財務狀況造成影響。
+
+---
+
+### 2026-07-01 17:08:26  #公司
+
+【瑞晨環保：股東寧波虎鼎致新減持股份 持股比例降至5%以下】瑞晨環保公告稱，股東寧波虎鼎致新創業投資合夥企業（有限合夥）於2026年6月23日至6月30日，透過集中競價和大宗交易方式減持公司156.51萬股，佔總股本1.560442%。本次權益變動後，其持股比例從6.560417%降至4.999975%。此前，公司以資本公積金向全體股東每10股轉增4股，該方案於6月10日實施完成。截至報告書籤署日，減持計劃尚未實施完畢，不排除未來12個月內繼續增減持股的可能。
+
+---
+
+### 2026-07-01 17:07:58  #公司
+
+【大唐電信：董事長劉欣因年齡原因辭職】 大唐電信公告，公司董事長劉欣因達到退出幹部崗位年齡，已於2026年7月1日辭去董事長、董事等職務，同時辭去法定代表人。公司董事會已推舉董事、總經理冉會娟代行董事長職責，直至新任董事長產生。法定代表人變更及董事會戰略與可持續發展委員會主任調整等相關事項亦已同步完成。
+
+---
+
+### 2026-07-01 17:07:56  #國際
+
+市場訊息：美國前副總統哈里斯上週私下致電紐約市市長馬姆達尼，並一直與其他知名進步派人士舉行長時間閉門會談，其中包括支援巴勒斯坦的活動人士。這是哈里斯正為可能於2028年角逐白宮鋪路的最新跡象，同時也顯示她正尋求加強或修復與民主黨左翼陣營之間的關係。
+
+---
+
+### 2026-07-01 17:07:25  #央行 #國際
+
+交易員在通脹資料公佈後小幅削減對歐洲央行加息的押注，目前市場定價顯示，截至今年年底收緊幅度將為23個基點。
+
+---
+
+### 2026-07-01 17:07:24  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+After the Eurozone inflation print, markets slightly trimmed bets on ECB rate hikes and now price in roughly 23 bps of tightening by year‑end.
+
+---
+
+### 2026-07-01 17:07:23  #Trading Economics #Economy #Croatia #Unemployment Rate #Importance 1
+
+Croatia Jobless Rate Hits Record Low — Croatia’s registered unemployment rate fell to 3.4% in May 2026 from 3.8% in April, reaching the lowest level since records began in December 1996. The number of unemployed persons declined 9.2% from the previous month to 61.3 thousand, while total employment rose 2.2% to 1.740 million. The labor force also increased 1.8% to 1.801 million. Paid employment in legal entities rose 1.9% to 1.494 million, while employment in crafts, trades, and freelance activities increased 4.1%. In contrast, the number of employed private farmers edged down 0.4%. Compared with May 2025, however, total employment fell 1.1%, paid employment in legal entities declined 1.5%, and the labor force contracted 1.7%, indicating that labor market conditions remained weaker than a year earlier.
+
+---
+
+### 2026-07-01 17:07:17  #其他
+
+【漢堡可持續發展大會主席：中國綠色轉型惠及全球】第三屆漢堡可持續發展大會6月29日至30日在德國漢堡舉行。大會主席阿希姆·施泰納在會議期間接受媒體採訪時表示，中國大力發展新能源和綠色產業，不僅推動了自身經濟轉型，也降低了全球綠色技術應用成本，為世界能源轉型作出了重要貢獻。“中國現代化、工業化和城市化的一項重要成就，是在發展過程中探索出一系列解決方案，許多國家也從中受益。”施泰納說。（新華社）
+
+---
+
+### 2026-07-01 17:06:43  #Trading Economics #Economy #Euro Area #Inflation Rate #Importance 3
+
+Eurozone Inflation Falls More Than Expected — Eurozone consumer price inflation dropped to 2.8% in June 2026, down from 3.2% in May and below market expectations of 3.0%, according to preliminary data. This marks the lowest rate since February, before the Iran war disrupted energy supplies and pushed oil prices higher, though it remains above the European Central Bank’s 2.0% target. Energy inflation eased significantly to 8.7% from 10.8%, while price growth also slowed for services (3.2% vs. 3.5%) and food, alcohol, and tobacco (1.6% vs. 1.9%). Non-energy industrial goods inflation held steady at 0.9%. The core rate, excluding energy and food, fell to 2.4% from 2.6% in May. Among major Eurozone economies, inflation slowed in Germany (2.4% vs. 2.7%), France (2.0% vs. 2.8%), and Italy (3.1% vs. 3.2%), but remained unchanged in Spain at 3.6%.
+
+---
+
+### 2026-07-01 17:06:28  #公司
+
+據上交所官網顯示，蘇州信諾維醫藥科技股份有限公司科創板IPO稽核狀態變更為“提交註冊”。
+
+---
+
+### 2026-07-01 17:06:28  #MKT News
+
+Shanghai Stock Exchange shows the STAR Market IPO review status of Suzhou Xinnuowei Pharmaceutical Technology Co., Ltd. has changed to "submitted for registration".
+
+---
+
+### 2026-07-01 17:06:15  #國際
+
+空客被列入美國銀行第三季度最佳投資標的名單。
+
+---
+
+### 2026-07-01 17:06:09  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+【Euro-area June inflation slows to 2.8%, easing pressure on ECB】Euro-area inflation eased to 2.8% in June, below a Refinitiv survey forecast of 3% and down from 3.2% in May. The decline eases price pressures linked to the Iran war and is a positive for the ECB as it seeks to curb inflation. The ECB raised rates 25bp to 2.25% last month — its first hike since 2023 — and June marked the fourth consecutive month above the ECB's 2% medium-term target. Prior to the data, swap markets had been pricing another 25bp ECB hike by year-end.
+
+---
+
+### 2026-07-01 17:06:08  #其他
+
+伊拉克石油部：伊拉克已與雪佛龍簽署保密協議，以評估西古爾納2號（West Qurna 2）油田。
+
+---
+
+### 2026-07-01 17:06:03  #公司 #市場 #央行 #國際
+
+【歐元區6月通脹率降至2.8% 對歐洲央行而言是一大利好】歐元區6月通脹率降至2.8%，降幅超出預期。這對歐洲央行而言是一大利好，因該行努力遏制伊朗戰爭引發的價格上漲壓力。歐盟統計局週三釋出的預估資料顯示，6月通脹率低於路透社調查中經濟學家預測的3%，也低於5月份3.2%的水平。為抑制通脹壓力，歐洲央行上月將利率上調了0.25個百分點至2.25%，這是自2023年以來該行首次加息。6月已是該21國集團通脹率連續第四個月超過歐洲央行2%的中期目標。在6月資料公佈前，根據掉期合約隱含的水平，交易員們預計歐洲央行將在今年年底前再次加息025個基點。
+
+---
+
+### 2026-07-01 17:05:58  #公司 #市場
+
+【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月1日，其二級市場收盤價為1.818元，收盤時基金份額參考淨值為1.7204元。若7月2日溢價幅度未有效回落，基金有權申請停牌警示。基金運作正常，無應披露未披露資訊。提醒投資者關注溢價風險，審慎投資。
+
+---
+
+### 2026-07-01 17:05:49  #國際
+
+【格陵蘭島美軍基地水樣檢出高濃度“永久性化學物”】當地時間7月1日獲悉，格陵蘭島西北部的美國皮圖菲克太空基地附近水樣中存在高濃度全氟和多氟烷基物質（PFAS），其中全氟辛基磺酸（PFOS）濃度達到每升1100納克。丹麥方面學者表示，這一水平約為歐盟限值的250倍。（央視新聞）
+
+---
+
+### 2026-07-01 17:05:32  #MKT News
+
+Axios reports former U.S. vice president Harris privately called New York City mayor Mamdani last week and has held extended closed-door meetings with other prominent progressives, including pro-Palestinian activists. The outreach is the latest sign Harris is laying groundwork for a possible 2028 White House bid and suggests she is seeking to shore up or repair ties with the Democratic Party’s left wing.
+
+---
+
+### 2026-07-01 17:05:17  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 7月2日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月1日收盤價為2.662元，收盤時基金份額參考淨值為2.2881元。為保護投資者利益，基金於7月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-07-01 17:05:10  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 7月2日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月1日收盤價為2.662元，收盤時基金份額參考淨值為2.2881元。為保護投資者利益，基金於7月2日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月2日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-07-01 17:05:06  #公司 #市場
+
+【納斯達克ETF華安：二級市場交易價格溢價 提醒投資者注意風險】納斯達克ETF華安公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月1日，收盤價為2.470元，收盤時基金份額參考淨值為2.3351元。若7月2日溢價幅度未有效回落，基金有權採取臨時停牌等措施。基金管理人提醒投資者關注溢價風險，審慎投資，同時表示基金運作正常，無應披露未披露資訊。
+
+---
+
+### 2026-07-01 17:05:04  #MKT News #QTEC.O
+
+Invesco Nasdaq Technology ETF will be suspended from market open on 2 July 2026 and will resume trading at 10:30 on 2 July 2026. Redemptions will be processed as normal during the suspension.
+
+---
+
+### 2026-07-01 17:05:01  #公司
+
+【工程機械ETF東財：7月7日起開放日常申購、贖回業務】工程機械ETF東財公告稱，該基金合同於2026年6月29日生效，自7月7日起開放日常申購、贖回業務。最小申購、贖回單位均為100萬份，申購贖回代理券商收取的佣金分別不超過0.30%、0.50%。投資者可在指定的27家申購贖回代理券商處辦理業務。基金管理人可根據情況變更或增減申購贖回代理機構，並在網站公示。
+
+---
+
+### 2026-07-01 17:04:53
+
+【PMI重回擴張區間！紅利低波ETF華泰柏瑞（512890）規模穩守312億 中金：下半年把握三條主線】7月1日，三大股指漲跌不一，創業板指、科創50指數震盪調整，滬指放量漲0.44％，大金融板塊全線爆發。受此帶動，紅利低波ETF華泰柏瑞（512890）漲1.12％，報1.079元，換手率2.73％，成交額8.60億元，居同類標的ETF首位。資金流向上，紅利低波ETF華泰柏瑞（512890）長期受資金青睞。近20個交易日資金淨流入17.1億元，近60個交易日資金淨流入37.5億元。截至2026年6月30日，該ETF流通規模312.90億元。訊息面上，國家統計局服務業調查中心和中國物流與採購聯合會聯合釋出6月中國採購經理指數（PMI），製造業PMI回升0.3個百分點至50.3％，重返擴張區間，非製造業商務活動指數、綜合PMI產出指數同步小幅上行，分別為50.2％、50.6％，環比均提升0.1個百分點，多項指標共同印證國內經濟景氣水平有所回升。銀河證券指出，下半年大小盤風格將趨於均衡，逐步向大盤及中盤龍頭傾斜。其中，成長風格大機率相對佔優，價值風格以防禦打底、階段性輪動為主。中金公司表示，目前市場整體估值合理，但面臨區域性高估，下半年更需防範部分領域的行情脆弱性與波動風險。配置上，把握業績準繩。A股中觀層面高景氣機會仍然較為豐富，建議關注三條主線：一是AI產業鏈已需“精挑細選”；二是能源瓶頸與轉型；三是週期反轉。此外，當前泛消費領域可能處於偏底部位置，靜待內需改善訊號；高股息或仍為階段性、結構性特徵。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。
 
 ---
 
@@ -14581,77 +14731,5 @@ Agricultural Commodities Updates: Oat Falls by 1.73% — Top commodity losers ar
 ### 2026-06-30 16:08:05  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Eyes Sixth Quarterly Gain as Miners Rally — The FTSE 100 advanced on Tuesday, steering toward its sixth consecutive quarterly gain with a 3.4% increase in Q2 following a 2.5% rise in Q1. This marks the index's best streak since 2022. Gains were driven by a robust mining sector fueled by geopolitical optimism and rising metal prices, lifting Anglo American, Glencore, and Antofagasta by over 2%, alongside Rio Tinto at 1.9% and Fresnillo at 0.7%. Other strong performers included AstraZeneca (+1%) and Lloyds Banking (+1.2%). J Sainsbury climbed 1.9% due to strong food sales and recent UK heatwaves. Barclays also gained after announcing a £750 million deal for its headquarters. However, these gains were capped by declining oil prices ahead of US and Iran talks, which dragged down BP and Shell. Meanwhile, data showed annual UK GDP growth was revised lower to 0.9%, while quarterly growth met expectations at 0.6% and shop price inflation held steady at 1.2%.
-
----
-
-### 2026-06-30 16:05:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Rises by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Copper (1.83%), Silver (1.39%) and Gold (0.47%). Biggest loser is Titanium (-2.06%).
-
----
-
-### 2026-06-30 16:00:11  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Rises by 0.87% — Top commodity gainer is Natural gas (0.87%). Biggest losers are Crude Oil WTI (-0.67%), Gasoline (-0.61%) and Brent Crude Oil (-0.59%).
-
----
-
-### 2026-06-30 15:59:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Set For Strong Q2 — The DAX 40 climbed 0.9% to surpass 24,800 on Tuesday, attempting a recovery after a two-day losing streak, led by gains in chipmakers. Infineon Technologies advanced 2.6%. Siemens Energy gained ground, surging 5.1%, after the German energy technology group struck an optimistic tone about orders during its third-quarter pre-closing conference call on Monday. Siemens (3%) and Hochtief (1.8%) also advanced firmly. Meanwhile, investors turned their attention to a batch of economic data, particularly German inflation data. The anticipated US-Iran talks in Doha and central bank speeches at the ECB Forum in Sintra were also in focus. For the quarter, the DAX gained around 9.5%, but has lost approximately 1.1% for the month.
-
----
-
-### 2026-06-30 15:59:03  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Near One-Year Low — The euro closed June at around $1.14, close to its one-year low, as investors turned their attention to the ECB’s Sintra Forum and inflation updates from Europe’s major economies. The highlight is Wednesday’s panel with ECB President Christine Lagarde as markets seek clues on economic assessments and policy directions. Inflation data indicated easing price pressures in Germany, France and Italy in June, while Spain’s rates stayed near two-year highs. The euro is on track for a monthly loss of over 2% against the US dollar and a 1.3% quarterly decline, with investors expecting the US Federal Reserve to raise interest rates this year to curb inflation amid a robust labor market. Meanwhile, the US-Iran ceasefire, which reopened the Strait of Hormuz, has lowered oil prices and inflation expectations, leading markets to scale back bets on rate hikes by the ECB and Bank of England.
-
----
-
-### 2026-06-30 15:57:24  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Head for Quarterly Gain — The CAC 40 rose 0.4% to 8,401 on Tuesday, putting the benchmark on track for a quarterly gain, as investors closely monitored the latest developments in US-Iran peace talks and the ECB's annual Sintra Forum. While US President Donald Trump said Iran had requested a meeting in Doha, Qatar, Iran denied any planned talks with the US, saying it would only send an expert delegation to discuss the release of frozen Iranian funds. At the Sintra Forum, ECB President Christine Lagarde remarked that the ECB was once again in a position to rely primarily on interest rates to steer inflation and maintain price stability. Domestically, preliminary estimates showed that annual consumer inflation slowed to 1.8% in June from 2.4% in May, reinforcing signs of easing price pressures. Among individual stocks, notable gainers included Schneider Electric (2.7%), Safran (1.3%), STMicroelectronics (2.6%), and Legrand (2.2%). For June, the CAC 40 is on track for a third consecutive monthly gain.
-
----
-
-### 2026-06-30 15:54:26  #央行 #歐洲央行
-
-【歐洲央行管委內格爾：通脹率仍將大幅高於2%】歐洲央行管理委員會成員約阿希姆·內格爾（Joachim Nagel）6月30日表示，伊朗戰爭帶來的衝擊尚未結束，歐元區CPI升幅預計將保持高位。
-
----
-
-### 2026-06-30 15:48:13  #Trading Economics #Markets #Thailand #Stock Market #Importance 0
-
-Stocks in Thailand Hit 6-1/2-year High — SET 50 increased to 1042.00 Index Points, the highest since January 2020. Over the past 4 weeks, Thailand SET 50 Index gained 1.51%, and in the last 12 months, it increased 43.87%.
-
----
-
-### 2026-06-30 15:36:41  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close Q2 on a Strong Foot — European stocks traded higher on Tuesday, with the STOXX 50 rising 0.6% and the STOXX 600 gaining 0.9%, led by technology shares amid renewed optimism surrounding AI following the recent sell-off and improving demand expectations. ASML Holding advanced 3.2%, Infineon Technologies gained 2.4%, and STMicroelectronics rose 2.7%. Other notable gainers included Siemens (+2.4%), ABB (+1.9%), and Schneider Electric (+2.6%). Siemens Energy surged nearly 5% after reiterating strong demand trends during its pre-close quarterly earnings call on Monday. In contrast, Kering (-2.6%) and Logitech (-4%9 were among the worst performers. Considering the June month, the STOXX 50 is up around 3% and has surged approximately 12% over the quarter. The STOXX 600 has advanced 1.6% in June and is up about 9% for the quarter, marking its strongest quarterly performance since October 2020, as oil prices moved back to pre-war levels and tensions in the Middle East eased.
-
----
-
-### 2026-06-30 15:32:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.16% Higher — The FTSE 100 Index is gaining 16 points or 0.16 percent on Tuesday. Leading the gains are Antofagasta (2.75%), Anglo American (2.62%) and J Sainsbury (2.23%). Top losers are Barratt Redrow (-2.88%), Entain (-2.67%) and B&M European Value (-2.60%).
-
----
-
-### 2026-06-30 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 1.01% Higher — The DAX Index is picking up 248 points or 1.01 percent on Tuesday. Gains are led by Siemens Energy (5.42%), Siemens (2.82%) and Infineon (2.45%).
-
----
-
-### 2026-06-30 15:30:03  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.41% Higher — The CAC 40 Index is up by 35 points or 0.41 percent on Tuesday. Top gainers are Schneider Electric (2.95%), Legrand (2.25%) and Bureau Veritas (1.56%). Biggest losses came from TP (-11.60%), Kering (-3.05%) and TotalEnergies SE (-1.51%).
-
----
-
-### 2026-06-30 15:24:22  #Trading Economics #Markets #Thailand #Stock Market #Importance 0
-
-Stocks in Thailand Hit 4-year High — SET 50 increased to 1038.00 Index Points, the highest since February 2022. Over the past 4 weeks, Thailand SET 50 Index gained 1.08%, and in the last 12 months, it increased 43.27%.
 
 ---

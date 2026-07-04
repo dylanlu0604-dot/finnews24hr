@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-04 21:53:21_
-_本檔包含 2383 則快訊，約 504725 字_
+_更新時間：2026-07-04 23:20:12_
+_本檔包含 2368 則快訊，約 505243 字_
+
+---
+
+### 2026-07-04 23:10:30  #市場 #焦點
+
+比特幣升破63000美元，日內漲0.68%。
+
+---
+
+### 2026-07-04 23:08:26  #國際
+
+特朗普：你們誰見過快樂的民主黨人？
+
+---
+
+### 2026-07-04 23:07:53  #國際
+
+黎巴嫩衛生部：自去年3月2日以來，以色列對黎巴嫩發動襲擊已造成4303人遇難、12202人受傷。
+
+---
+
+### 2026-07-04 23:07:32  #國際
+
+【土耳其總統：以色列不得阻撓美伊協議】土耳其總統埃爾多安週六表示，缺少地區國家支援，中東和平程序便無法取得成效，絕不能任由以色列“摧毀”美伊和平協議。埃爾多安在伊斯坦布林與巴基斯坦總理夏巴茲·謝里夫共同出席活動時稱：“任何脫離地區國家意願與助力的解決方案，都不可能長久維繫。”土耳其身為北約成員國，同時也是伊朗鄰國，多次指責以色列企圖破壞由巴基斯坦斡旋達成的美伊協議，並譴責以色列在加沙、黎巴嫩與敘利亞開展軍事行動。埃爾多安表示：“我們密切關注以色列當局破壞（美伊）協議的種種舉動，絕不能讓如今好戰的以色列政府再度讓我們這片地區充斥硝煙與血腥。”
+
+---
+
+### 2026-07-04 23:06:18  #國際
+
+土耳其總統埃爾多安稱，以色列不得阻撓美伊協議。
+
+---
+
+### 2026-07-04 23:04:41  #其他
+
+德國總理默茨談及自身改革舉措：民眾本身並不排斥改革。他們願意配合、接受這類改革。但但凡要求民眾做出改變的人——我們如今就在提出改革要求——都必須坦誠說明，哪些方面將要調整、為何非改不可、又會波及哪些群體。改革必須秉持公平原則，所有人都要承擔相應責任、付出應有代價。
+
+---
+
+### 2026-07-04 23:02:50  #MKT News #Market Regions #Greater China
+
+【China foreign minister meets Swedish foreign minister in Stockholm】July 4, 2026 — China foreign minister met Sweden’s foreign minister in Stockholm. Beijing said bilateral ties, which were strained in recent years, have warmed since the Swedish minister’s visit last year and signalled a push to improve mutual trust, expand pragmatic cooperation and focus on a positive agenda. China urged Sweden to continue upholding the One China principle to consolidate the political basis for the relationship.
+
+---
+
+### 2026-07-04 23:02:21  #其他
+
+【英偉達將抽取部分客戶雲業務營收分成】英偉達正依託自身雄厚的資產負債表，助力更多企業採購價格高昂的人工智慧晶片，同時自身也有望從中賺取額外收益。據參與該新專案的GPU雲服務商菲爾穆斯（Firmus）、莎倫人工智慧（Sharon AI），以及另外三家與英偉達有業務往來的企業高管透露：英偉達承諾為新興雲廠商提供資金兜底支援。作為交換，英偉達將分得這些廠商的部分雲業務營收。兜底機制具體形式為：若雲服務商無法招攬到AI開發者租用顯示卡，英偉達承諾回購其閒置圖形處理器。
+
+---
+
+### 2026-07-04 22:59:52  #國際
+
+烏克蘭總統澤連斯基：從收復蛇島開始，再到我們針對俄羅斯艦隊、俄方港口以及“盤踞”在烏克蘭克里米亞的佔領軍開展一系列行動，我們正在證明，黑海與亞速海這片海域，絕不會成為俄羅斯的安穩之地。
+
+---
+
+### 2026-07-04 22:54:25  #國際
+
+【中國－獅子山護理培訓中心正式啟用】中國－獅子山護理培訓中心啟動儀式3日在位於塞首都弗里敦的中塞友好醫院舉行。該中心由第27批中國（湖南）援獅子山醫療隊主要負責。出席儀式的獅子山衛生部第一副部長塞內西高度評價中方長期援塞成果，認為培訓中心的啟動將彌補當地護理人才培養短板，是兩國深度務實合作的體現。（新華社）
+
+---
+
+### 2026-07-04 22:54:06  #其他
+
+亞美尼亞最高法院駁回反對派要求撤銷選舉結果的申請。
+
+---
+
+### 2026-07-04 22:53:34  #其他
+
+德國總理默茨：德國最好的時代並未遠去。只要我們走對道路，光明美好的歲月就在前方。
+
+---
+
+### 2026-07-04 22:53:09  #國際
+
+【美副總統赴紐約出席獨立日海上慶典 不現身華盛頓國家廣場】搭載美國副總統萬斯的二號海軍陸戰隊直升機剛剛降落在紐約港的“奇爾沙治”號兩棲攻擊艦甲板上。副總統出席建國250週年“自由250”海空閱兵活動，以此慶祝7月4日獨立日。本次閱兵集結了來自55個國家的海軍艦艇、軍用飛機與仿古高桅帆船。萬斯將於上午11點15分在奇爾沙治號艦上發表講話。依據白宮旨在避免總統與副總統同場現身的安保規定，副總統不會前往國家廣場參與相關慶祝活動。
+
+---
+
+### 2026-07-04 22:51:16  #國際
+
+以色列軍隊持續違反停火協議，在加沙地帶汗尤尼斯市東部和東北部地區對住宅和住宅樓實施4次大規模爆破行動。
+
+---
+
+### 2026-07-04 22:50:57  #MKT News #Market Themes #China EV Leaders #AI Revolution #XPEV.O #Impact bullish
+
+【He Xiaopeng: China leads in intelligent driving; UN approval of L2 rules to speed overseas deployment】Xpeng chairman and CEO He Xiaopeng said China leads globally in both ADAS technology and related regulation, and the United Nations has approved intelligent-driving rules that fully clear L2-level functions. He said the approval means that from December this year L2 features such as NGP and NOA can be used and deployed worldwide, marking an important implementation milestone. He added only China and the U.S. have achieved large-scale L2 rollout to date, most regions including the EU have not, and Xpeng—now a member of the UN traffic-regulations drafting group—is actively aligning products to the new requirements.
+
+---
+
+### 2026-07-04 22:45:49  #國際
+
+【埃及法老圖坦卡蒙展在巴黎舉行】近日，沉浸式展覽“圖坦卡蒙——陵墓與寶藏”在法國巴黎舉行。展覽用科學復原的複製品，再現1922年發現埃及法老圖坦卡蒙陵墓時的場景。（新華社）
+
+---
+
+### 2026-07-04 22:45:00  #其他 #焦點
+
+【第二十三屆臺胞青年千人夏令營在武漢開營】營旗飄揚，歡歌笑語。4日晚，由中華全國臺灣同胞聯誼會主辦的第二十三屆臺胞青年千人夏令營在湖北武漢舉行開營儀式。300餘名臺灣大學生參與活動，與武漢大學、華中科技大學等大陸高校學子攜手開啟青春交流之旅。（新華社）
+
+---
+
+### 2026-07-04 22:41:47  #宏觀 #國際
+
+【王毅同瑞典外交大臣斯蒂納加德會談】中共中央政治局委員、外交部長王毅4日在斯德哥爾摩同瑞典外交大臣斯蒂納加德舉行會談。王毅說，中瑞交往歷史悠久。瑞典是第一個同新中國建交的西方國家，正值鐵幕落下、冷戰初啟，體現了瑞方堅持獨立自主、摒棄陣營對抗的戰略眼光。改革開放後，瑞典企業在西方國家中率先進入中國市場並取得很好發展，兩國長期互為在亞洲和北歐地區的最大貿易伙伴。雙邊多年交往的有益經驗就是，要秉持客觀理性的認知、相互尊重的態度、聚同化異的精神，堅持互利共贏的目標。過去幾年中瑞關係遭受了波折，在雙方共同努力下，我們將分歧放到適當位置，著力改善雙邊互信，聚焦積極議程，拓展務實合作。去年外交大臣女士訪華後，中瑞關係持續轉暖向好，這一勢頭值得珍惜。中方願同瑞方共同推動雙邊關係健康穩定發展。希望瑞方繼續恪守一箇中國原則，鞏固雙邊關係政治基礎。（新華社）
+
+---
+
+### 2026-07-04 22:40:15  #焦點 #國際
+
+特朗普：若《拯救美國法案》獲得透過，我們未來一百年都不會再輸掉選舉。
+
+---
+
+### 2026-07-04 22:37:52  #焦點 #國際
+
+訊息人士：在哈梅內伊為期數日的葬禮結束後，美國與伊朗定於7月11日在巴基斯坦重啟談判。
+
+---
+
+### 2026-07-04 22:36:22  #國際
+
+美國250週年慶典組委會正式封存“美國時光膠囊”，並於7月4日在費城舉辦下葬儀式前，對外公佈了膠囊內最終收納的全部物品。
+
+---
+
+### 2026-07-04 22:36:05  #國際
+
+市場資訊：特朗普賬戶正式面向2025年至2028年間出生的子女開放。
+
+---
+
+### 2026-07-04 22:34:35  #宏觀 #國際
+
+【瑞典首相克里斯特松會見王毅】瑞典首相克里斯特松4日在斯德哥爾摩會見中共中央政治局委員、外交部長王毅。 克里斯特松請王毅轉達對中國領導人的良好祝願，表示瑞中兩國和兩國人民的友好交往有著悠久歷史，瑞方欽佩中國文化和創新精神，讚賞中國取得的顯著發展成就。瑞政府堅持一箇中國政策，願同中方加強對話，擴大共識，推進各領域互利互惠、富有前景的合作。瑞方支援歐中加強對話，妥處分歧。（新華社）
+
+---
+
+### 2026-07-04 22:32:43  #MKT News #Market Regions #Greater China
+
+【Sweden prime minister Kristersson met China foreign minister Wang Yi】Sweden prime minister Kristersson met China foreign minister Wang Yi in Stockholm on July 4. Wang conveyed greetings from Chinese leaders, said bilateral ties have faced difficulties and urged stronger dialogue, rebuilt mutual trust and improved mutual understanding. Wang also held talks with Sweden’s foreign minister and met Jacob Wallenberg, chairman of the Wallenberg group.
+
+---
+
+### 2026-07-04 22:31:26  #宏觀 #公司 #國際
+
+【瑞典首相克里斯特松會見王毅】瑞典首相克里斯特松4日在斯德哥爾摩會見中共中央政治局委員、外交部長王毅。克里斯特松請王毅轉達對中國領導人的良好祝願，表示瑞中兩國和兩國人民的友好交往有著悠久歷史，瑞方欽佩中國文化和創新精神，讚賞中國取得的顯著發展成就。瑞政府堅持一箇中國政策，願同中方加強對話，擴大共識，推進各領域互利互惠、富有前景的合作。瑞方支援歐中加強對話，妥處分歧。王毅轉達中國領導人對克里斯特松首相的問候，表示中瑞交往史可以追溯到古絲綢之路時期。瑞典是第一個同新中國建交的西方國家，這展現了瑞方的獨立自主和戰略遠見，也在世界上發揮了示範作用。中瑞關係近年來遇到一些困難，加強對話、增進了解、重建互信對雙方尤顯重要，秉持正確的相互認知更是關鍵。王毅說，中國共產黨在長期執政中始終得到中國人民衷心擁護，保持內外政策的連續性穩定性，為世界注入寶貴的確定性。中國好，世界會更好，也將為包括瑞典在內的各國提供新機遇。中方願同瑞方加強各層級交往，發揮互補優勢，促進互利合作，推動中瑞關係走上健康、穩定、可持續發展之路。希望瑞方也能為促進中歐關係發揮建設性作用。訪問期間，王毅還同瑞典外交大臣斯蒂納加德會談，會見銀瑞達集團董事會主席雅各布·瓦倫堡。（新華社）
+
+---
+
+### 2026-07-04 22:28:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【Shenzhen accounts for 25.5% of China’s robot exports; Jan–Apr shipments RMB 4.03 bln】Shenzhen Customs data: Jan–Apr robot exports reached RMB 4.03 bln, 25.5% of national robot export value—roughly one yuan in every four. Backed by a complete Greater Bay Area ecosystem that compresses core components, finished machines, control systems and integration services into a shortened value chain, Shenzhen firms achieve faster product iteration and flexible delivery. Shenzhen-made robots are now exported to more than 100 countries and regions.
+
+---
+
+### 2026-07-04 22:16:49  #MKT News
+
+【Iran conservative bloc fractures; new supreme leader’s absolute authority reportedly diluted】The New York Times reports Iran’s traditional conservative–reformist divide has been upended after the assassination of former supreme leader Khamenei, with the conservative camp splitting into pragmatists who favor ending hostility with the U.S. and opening the economy, and hardliners who reject concessions (including on nuclear issues) and advocate prolonging the war. Four senior Iranian officials and two IRGC members told the paper that public disagreements mask deeper backstage ruptures as factions compete to win the allegiance of new supreme leader Mujtaba. Pragmatists — reportedly including senior IRGC generals, parliament speaker Qalibaf, President Pezeshkian and national security council secretary Gen. Zolghadr — have gained the upper hand and have pushed for accepting a ceasefire, direct talks with U.S. Vice President Vance and an agreement with Trump. IRGC commanders have consolidated de facto governing power since the war began, and Deputy Vice President for Administrative Affairs Mohammad-Jafar Ghaempanah said the new supreme leader does not have final decision authority, indicating a shift toward more collective decisionmaking.
+
+---
+
+### 2026-07-04 22:15:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【US-Iran peace deal releases large crude volumes, reviving global oversupply concerns】Oil prices fell across the board after a US-Iran peace deal freed substantial crude supplies that demand cannot absorb. Less than three months ago global physical crude benchmarks hit record highs, and until weeks ago industry executives warned inventories were at extremely low levels amid the Iran crisis. Analysts from Morgan Stanley to Goldman Sachs this week warned of a risk of supply overhang next year; Energy Aspects head of oil research Kit Haines said market sentiment is overwhelmingly bearish. Persian Gulf suppliers had begun ramping shipments before the June MOU reopening the Strait of Hormuz, and in the weeks after the deal more than 60 mln barrels of oil that had been trapped by the war flowed into the market.
+
+---
+
+### 2026-07-04 22:12:04  #MKT News #Market Regions #Emerging Markets
+
+Egypt central bank: M2 money supply rose 19.6% YoY in May.
+
+---
+
+### 2026-07-04 22:11:53  #央行 #國際
+
+埃及央行：5月埃及廣義貨幣供應量（M2）同比增長19.6%。
+
+---
+
+### 2026-07-04 22:10:07  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Iran's foreign minister Araghchi met separately in Tehran with representatives of HEZBOLLAH and Hamas.
+
+---
+
+### 2026-07-04 22:08:14  #國際
+
+【伊朗外長會晤黎真主黨及哈馬斯代表】今天（7月4日），伊朗外交部長阿拉格齊在伊朗首都德黑蘭分別會晤黎巴嫩真主黨及巴勒斯坦伊斯蘭抵抗運動（哈馬斯）代表。（CCTV國際時訊）
+
+---
+
+### 2026-07-04 22:07:19  #其他
+
+【內蒙古通遼市扎魯特旗山洪致2名村民死亡】從內蒙古自治區通遼市扎魯特旗相關部門獲悉，7月4日18時許，巴彥塔拉蘇木遭強降雨天氣引發山洪，致2名村民死亡。目前，應急救援和災情統計工作正在持續進行中。（新華社）
+
+---
+
+### 2026-07-04 22:03:17  #MKT News #Market Regions #Greater China
+
+【Kaohsiung–Ningbo direct flights resume】Spring Airlines resumed direct Kaohsiung–Ningbo services on the 4th using an Airbus A320, operating one roundtrip weekly on Tuesdays and Saturdays. Flight 9C8685 departs Ningbo Lishe Airport 15:30, arrives Kaohsiung 17:35; 9C8686 departs Kaohsiung 18:35, arrives Ningbo Lishe 20:35. Spring said previous travel between the cities required transfers and typically exceeded five hours; the direct service cuts one-way flight time to about two hours. Several mainland carriers have also been restoring cross-strait direct routes: China Eastern resumed Taichung–Chengdu from the 1st of this month, and Shandong Airlines expects to resume Taichung–Qingdao from the 23rd.
 
 ---
 
@@ -14072,299 +14276,5 @@ Hong Kong-listed Kuaishou (01024.HK) flipped into losses intraday after rising o
 ### 2026-07-03 10:16:44  #國際
 
 【外交部部長助理劉彬舉行中俄蒙三國副外長磋商】2026年7月2日，外交部部長助理劉彬同俄羅斯外交部副部長魯登科、蒙古外交部副部長阿瑪爾圖布辛在烏蘭巴托舉行中俄蒙三國副外長磋商。劉彬表示，在三國元首戰略引領下，中俄蒙三方合作展現積極穩健發展勢頭，經貿投資、互聯互通等重點領域合作持續推進。中方願同俄、蒙兩方一道，進一步鞏固政治互信，不斷拓展三方合作的深度和廣度，用更多合作成果惠及三國人民，助力各自發展振興。俄、蒙兩方高度評價三方合作取得的積極成果，表示願以三國元首共識為遵循，推動三方合作不斷邁向更高水平。
-
----
-
-### 2026-07-03 10:15:20  #市場 #國際
-
-美國財長貝森特稱汽油價格“下跌過程中更具粘性”。
-
----
-
-### 2026-07-03 10:14:32  #國際
-
-韓國法院裁定終止大型連鎖超市Homeplus的重整計劃。
-
----
-
-### 2026-07-03 10:12:50  #MKT News
-
-A-share liquid-cooled server sector surged intraday: Feilong Co. hit the daily limit, Shenling Environment rose over 10%, and Tenglong Co., Qiangrui Technology, Chuanhuan Technology, Nanfang Pump and Yingweike also advanced.
-
----
-
-### 2026-07-03 10:12:23  #公司
-
-【腦機介面公司格式塔宣佈完成4.2億元人民幣融資】7月3日，國內腦機介面公司格式塔科技（Gestala）宣佈完成4.2億元人民幣天使+輪融資。本輪融資由華映資本領投，C資本、紅杉中國、藍思科技、中電健康基金、創新工場、臨港科創投資、復旦復容資本、國泰創投等多家國內外頭部投資機構跟投。同日，公司位於上海市閔行區“腦智天地”的格式塔科技上海總部正式啟用。
-
----
-
-### 2026-07-03 10:10:19  #其他
-
-韓亞證券將LG電子目標價由230,000韓元上調至260,000韓元。
-
----
-
-### 2026-07-03 10:09:50  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Decline on Weak Jobs Data — The dollar index held below 101 on Friday after tumbling in the previous session, as weaker-than-expected US labor market data led traders to dial back expectations for Federal Reserve rate hikes this year. The US economy added just 57,000 jobs in June, the fewest in four months and well below forecasts of 110,000, while the unemployment rate stood at 4.2%. That followed a report on Wednesday showing private-sector job growth also fell short of expectations. Fed funds futures now imply roughly a 50% chance of a September rate hike, down from 67% before the latest employment report. Fed Chair Kevin Warsh also said this week that inflation expectations are moderating while reaffirming the central bank’s commitment to maintaining price stability. The dollar index is on track to end the week lower, snapping a two-week winning streak.
-
----
-
-### 2026-07-03 10:09:23  #市場 #焦點
-
-WTI原油突破69美元/桶，日內漲0.47%。
-
----
-
-### 2026-07-03 10:09:17  #MKT News #600875.SS #Impact bullish
-
-A-share gas-turbine concept stocks were active: Tunan and Longda rose more than 10%, while Wanze, Jereh, Changbao and Dongfang Electric also advanced.
-
----
-
-### 2026-07-03 10:08:36  #MKT News
-
-Vietnam June exports YoY +28.1% vs +18.0% prior.
-
----
-
-### 2026-07-03 10:08:29  #MKT News
-
-Vietnam June trade deficit narrowed to $2.644 billion, versus a $5.21 billion deficit previously.
-
----
-
-### 2026-07-03 10:08:22  #公司
-
-【熱景生物成立AI製藥公司 加速推進小核酸藥物研發】據熱景生物訊息，近日，熱景生物正式註冊成立北京熵景智藥科技有限公司，標誌著公司2023年啟動的AI藥物研發戰略完成階段性落地，公司將持續加大AI技術在創新藥業務領域的投入，特別是以AI技術重構小核酸藥物研發正規化，加速推進公司小核酸藥物管線的智慧化升級。
-
----
-
-### 2026-07-03 10:08:13  #MKT News
-
-Vietnam imports rose 45.2% YoY in June, up from 33.8% previously.
-
----
-
-### 2026-07-03 10:07:40  #焦點 #國際
-
-韓國KOSPI指數日內漲幅擴大至3%。
-
----
-
-### 2026-07-03 10:07:23  #國際
-
-美國財長貝森特表示：工資與通脹之間的差異是短期波動。
-
----
-
-### 2026-07-03 10:06:53  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals #SZSE Component #Impact bullish #XAUUSD
-
-China A-share ChiNext Index rose more than 1%; humanoid robotics, defense and gold sectors led gains.
-
----
-
-### 2026-07-03 10:06:34  #公司
-
-【燃氣輪機概念表現活躍 圖南股份、隆達股份均漲超10%】燃氣輪機概念表現活躍，圖南股份、隆達股份均漲超10%，萬澤股份、傑瑞股份、常寶股份、東方電氣跟漲。
-
----
-
-### 2026-07-03 10:06:29  #市場 #焦點
-
-創業板指漲1.04%，現報4059.162點；上證指數漲0.34%，現報4042.554點；深證成指漲0.81%，現報15624.880點。
-
----
-
-### 2026-07-03 10:06:28  #公司 #市場
-
-【機器人概念持續走高 臥龍電驅等十餘股漲停】機器人概念持續走高，臥龍電驅、埃斯頓封漲停，此前日發精機、雷賽智慧、晉拓股份、藍黛科技等漲停，新睿電子觸及30cm漲停，豐光精密、長盛軸承、綠的諧波等多股漲超10%。
-
----
-
-### 2026-07-03 10:06:10  #其他
-
-極氪汽車宣佈，極氪9X五座版車型將於7月8日開啟預售。
-
----
-
-### 2026-07-03 10:06:08  #MKT News #Important #Market Regions #Greater China #300287.SZ #Impact bullish
-
-China A-share humanoid-robot sector extended gains; Kailong Gaoke hit the 20% daily limit. Estun and Wolong Electric Drive also reached limit-up, while Tuosida, Lude Xiebo, Changsheng Bearing and Shangwei New Materials advanced.
-
----
-
-### 2026-07-03 10:05:58  #國際
-
-富士膠片就印度晶片材料工廠建設達成協議。
-
----
-
-### 2026-07-03 10:05:43  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Extend Gains for Second Day — The Hang Seng Index climbed 1.7%, or 383 points, to 23,445 on Friday, extending gains for a second straight session as technology, financial, and consumer stocks led broad-based gains. The market outperformed several Asian peers despite renewed weakness in technology and artificial intelligence-related shares, as investors elsewhere continued to rotate out of the sector on concerns that the AI-driven rally had become overextended. In Hong Kong, investors continued to favor internet companies amid attractive valuations, while improved global risk sentiment following the latest U.S. jobs data eased concerns over further Fed rate hikes. Lower oil prices, as shipping flows through the Strait of Hormuz gradually normalized, also eased fears of energy-driven inflation and supported risk appetite. Notable gainers included Tencent Holdings (2.7%), Xiaomi (5.7%), Knowledge Atlas (11.8%), Kuaishou Technology (6.2%), and AIA (1.5%).
-
----
-
-### 2026-07-03 10:05:31  #國際
-
-【日本宮城縣附近海域發生4.8級地震】據日本氣象廳訊息，當地時間3日10時44分左右，日本宮城縣附近海域發生4.8級地震，最大震感為震度2，震源深度30公里。本次地震沒有引發海嘯的風險。
-
----
-
-### 2026-07-03 10:05:08  #MKT News #Important #Copper #Impact bullish #CSI300 #CNH
-
-【200 bln yuan "Two-New" equipment upgrade funding fully allocated — NDRC】The National Development and Reform Commission said 200 bln yuan of ultra-long special government bond funding earmarked to support "Two-New" equipment upgrades has been fully allocated.
-
----
-
-### 2026-07-03 10:05:05  #Trading Economics #Economy #Vietnam #GDP Annual Growth Rate #Importance 1
-
-Vietnam Q2 GDP Growth Accelerates — Vietnam’s economy expanded 8.39% year-on-year in Q2 2026, quickening from a 7.83% increase in the previous quarter and bringing first-half growth to 8.18%.
-
----
-
-### 2026-07-03 10:04:55  #市場
-
-【今年2000億元“兩新”裝置更新資金已全部下達】從國家發展改革委瞭解到，今年2000億元超長期特別國債支援“兩新”裝置更新資金已全部下達。
-
----
-
-### 2026-07-03 10:04:43  #市場 #國際
-
-印尼股市基準指數上漲2%至5857.77點。
-
----
-
-### 2026-07-03 10:04:42  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component #SSE Composite
-
-A-share photoresist sector extended losses; Yawei hit the daily limit down, with Jianghua Micro, Jingrui Electronic Materials, Yida, Xilong Science, Nanda Optoelectronics and Tongcheng New Materials also trading lower.
-
----
-
-### 2026-07-03 10:04:39  #Trading Economics #Economy #Vietnam #Balance of Trade #Importance 1
-
-Vietnam Trade Balance Swings to Deficit — Vietnam recorded a trade deficit of USD 2.64 billion in June 2026, shifting from a surplus of USD 3.2 billion in the same month a year earlier. Exports grew 28.1% year-on-year to a record high of USD 50.79 billion, while imports rose at a faster pace of 45.2% to a record high of USD 53.43 billion.
-
----
-
-### 2026-07-03 10:04:10  #公司 #市場
-
-【光刻膠板塊持續走弱，亞威股份跌停】光刻膠板塊持續走弱，亞威股份跌停，江化微、晶瑞電材、怡達股份、西隴科學、南大光電、彤程新材等跟跌。
-
----
-
-### 2026-07-03 10:03:43  #市場 #國際
-
-美國財長貝森特：汽油價格下跌過程中可能會出現一些波動。
-
----
-
-### 2026-07-03 10:03:28  #其他
-
-越南1-6月實際吸引外國直接投資額為130.3億美元，同比增長11.2%。
-
----
-
-### 2026-07-03 10:03:14  #市場 #焦點
-
-玻璃連續主力合約日內漲1%，現報973.00元。
-
----
-
-### 2026-07-03 10:02:39  #國際
-
-美國財長貝森特：預計最早在6月份就能看到實際工資增長。
-
----
-
-### 2026-07-03 10:02:10  #MKT News #Market Regions #Emerging Markets
-
-Vietnam June industrial production YoY +12.7% (May: +8.8%).
-
----
-
-### 2026-07-03 10:02:02  #其他
-
-越南統計局：上半年咖啡出口量增長7.3%，至110萬噸。
-
----
-
-### 2026-07-03 10:01:47  #市場
-
-MSCI亞太指數上漲1%至272.83點。
-
----
-
-### 2026-07-03 10:01:26  #公司
-
-【深圳機場集團50億元小公募債申報獲深交所受理】深交所專案進度資訊顯示，深圳市機場（集團）有限公司50億元小公募債專案狀態更新為“已受理”，受理日期為2026年7月2日。募集說明書申報稿顯示，發行人擬將14.50億元用於償還有息債務，擬將35.50億元用於補充公司日常生產經營所需流動資金、專案建設及運營、股權投資、基金出資或其他合法合規用途。
-
----
-
-### 2026-07-03 10:01:18  #市場
-
-日經225指數上漲0.51%，報69,080.62點。
-
----
-
-### 2026-07-03 10:01:16  #MKT News
-
-【Namibia president Netumbo Nandi-Ndaitwa to visit CHINA July 5-11】Namibia President Netumbo Nandi-Ndaitwa will make a state visit to CHINA from July 5 to 11 at the invitation of CHINA, the foreign ministry said.
-
----
-
-### 2026-07-03 10:01:05  #MKT News #XAUUSD #Impact mixed #DXY #Impact bullish
-
-【OCBC: Gold remains an effective medium‑term diversifier】OCBC Group Research strategists say gold remains an effective medium‑term portfolio diversifier but prices may be pressured by a tougher macro backdrop. Central bank buying — several central banks have signalled plans to add to reserves over the next 12 months — should support demand. However, investors have largely priced Fed tightening; rising real yields and a stronger dollar are likely to exert short‑term headwinds that may not be fully offset. OCBC forecasts gold at $4,360/oz by end‑2026 and $4,680/oz by end‑Q2 2027.
-
----
-
-### 2026-07-03 10:00:53  #國際
-
-【奈米比亞總統恩代特瓦將訪華】外交部發言人宣佈：應國家主席習近平邀請，奈米比亞共和國總統內通博·南迪－恩代特瓦將於7月5日至11日對中國進行國事訪問。
-
----
-
-### 2026-07-03 10:00:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan's 10-year government bond yield fell 1.5 bps to 2.765%.
-
----
-
-### 2026-07-03 10:00:41  #市場 #國際
-
-10年期日本國債收益率下跌1.5個基點至2.765%。
-
----
-
-### 2026-07-03 10:00:41  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-HSBC Holdings Stock Price Hits 18-year High — HSBC Holdings shares increased to 150.50 HKD, the highest since November 2007. Over the past 4 weeks, HSBC Holdings gained 2.31%, and in the last 12 months, it increased 58.46%.
-
----
-
-### 2026-07-03 10:00:39  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Head for Mixed Weekly Finish — The Shanghai Composite edged up 0.1% to around 4,031 on Friday, while the Shenzhen Component gained 0.6% to 15,586, with the benchmarks headed for a mixed weekly performance as technology stocks remained a key drag on sentiment. While investors remain convinced of the long-term growth potential of artificial intelligence, concerns have grown that valuations may have outpaced fundamentals amid escalating investment costs and intensifying competition across the industry, keeping the sector under pressure. Chinese technology shares were among the biggest laggards, led by NAURA Technology (-6.2%), Huagong Tech (-1.8%), and Victory Giant Technology (-3.5%), as well as semiconductor names GigaDevice Semiconductor (-3.7%) and SMIC (-0.4%). In contrast, notable gainers included energy stocks such as PetroChina (1.5%) and CNOOC (1.2%), alongside BYD (2.9%), Midea Group (3.3%), and Luxshare Precision Industry (4.6%).
-
----
-
-### 2026-07-03 10:00:16  #市場
-
-北證50指數漲超1%。
-
----
-
-### 2026-07-03 09:59:58  #其他
-
-越南6月份大米出口量為76.9萬噸，橡膠出口量為11.6萬噸。
-
----
-
-### 2026-07-03 09:59:57  #MKT News #Important #02295.HK #Impact bullish
-
-Hong Kong-listed Fengcheng Holdings (02295.HK) resumed trading today, surging over 145% after receiving a mandatory unconditional cash offer from Lvsheng Global Energy for total consideration of HK$196 million.
 
 ---

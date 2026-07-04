@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-04 21:53:21_
-_本檔包含 2577 則快訊，約 504560 字_
+_更新時間：2026-07-04 23:20:12_
+_本檔包含 2551 則快訊，約 504739 字_
+
+---
+
+### 2026-06-30 16:05:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Rises by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Copper (1.83%), Silver (1.39%) and Gold (0.47%). Biggest loser is Titanium (-2.06%).
+
+---
+
+### 2026-06-30 16:00:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Rises by 0.87% — Top commodity gainer is Natural gas (0.87%). Biggest losers are Crude Oil WTI (-0.67%), Gasoline (-0.61%) and Brent Crude Oil (-0.59%).
+
+---
+
+### 2026-06-30 15:59:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Set For Strong Q2 — The DAX 40 climbed 0.9% to surpass 24,800 on Tuesday, attempting a recovery after a two-day losing streak, led by gains in chipmakers. Infineon Technologies advanced 2.6%. Siemens Energy gained ground, surging 5.1%, after the German energy technology group struck an optimistic tone about orders during its third-quarter pre-closing conference call on Monday. Siemens (3%) and Hochtief (1.8%) also advanced firmly. Meanwhile, investors turned their attention to a batch of economic data, particularly German inflation data. The anticipated US-Iran talks in Doha and central bank speeches at the ECB Forum in Sintra were also in focus. For the quarter, the DAX gained around 9.5%, but has lost approximately 1.1% for the month.
+
+---
+
+### 2026-06-30 15:59:03  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Near One-Year Low — The euro closed June at around $1.14, close to its one-year low, as investors turned their attention to the ECB’s Sintra Forum and inflation updates from Europe’s major economies. The highlight is Wednesday’s panel with ECB President Christine Lagarde as markets seek clues on economic assessments and policy directions. Inflation data indicated easing price pressures in Germany, France and Italy in June, while Spain’s rates stayed near two-year highs. The euro is on track for a monthly loss of over 2% against the US dollar and a 1.3% quarterly decline, with investors expecting the US Federal Reserve to raise interest rates this year to curb inflation amid a robust labor market. Meanwhile, the US-Iran ceasefire, which reopened the Strait of Hormuz, has lowered oil prices and inflation expectations, leading markets to scale back bets on rate hikes by the ECB and Bank of England.
+
+---
+
+### 2026-06-30 15:57:24  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Head for Quarterly Gain — The CAC 40 rose 0.4% to 8,401 on Tuesday, putting the benchmark on track for a quarterly gain, as investors closely monitored the latest developments in US-Iran peace talks and the ECB's annual Sintra Forum. While US President Donald Trump said Iran had requested a meeting in Doha, Qatar, Iran denied any planned talks with the US, saying it would only send an expert delegation to discuss the release of frozen Iranian funds. At the Sintra Forum, ECB President Christine Lagarde remarked that the ECB was once again in a position to rely primarily on interest rates to steer inflation and maintain price stability. Domestically, preliminary estimates showed that annual consumer inflation slowed to 1.8% in June from 2.4% in May, reinforcing signs of easing price pressures. Among individual stocks, notable gainers included Schneider Electric (2.7%), Safran (1.3%), STMicroelectronics (2.6%), and Legrand (2.2%). For June, the CAC 40 is on track for a third consecutive monthly gain.
+
+---
+
+### 2026-06-30 15:54:26  #央行 #歐洲央行
+
+【歐洲央行管委內格爾：通脹率仍將大幅高於2%】歐洲央行管理委員會成員約阿希姆·內格爾（Joachim Nagel）6月30日表示，伊朗戰爭帶來的衝擊尚未結束，歐元區CPI升幅預計將保持高位。
+
+---
+
+### 2026-06-30 15:48:13  #Trading Economics #Markets #Thailand #Stock Market #Importance 0
+
+Stocks in Thailand Hit 6-1/2-year High — SET 50 increased to 1042.00 Index Points, the highest since January 2020. Over the past 4 weeks, Thailand SET 50 Index gained 1.51%, and in the last 12 months, it increased 43.87%.
+
+---
+
+### 2026-06-30 15:36:41  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close Q2 on a Strong Foot — European stocks traded higher on Tuesday, with the STOXX 50 rising 0.6% and the STOXX 600 gaining 0.9%, led by technology shares amid renewed optimism surrounding AI following the recent sell-off and improving demand expectations. ASML Holding advanced 3.2%, Infineon Technologies gained 2.4%, and STMicroelectronics rose 2.7%. Other notable gainers included Siemens (+2.4%), ABB (+1.9%), and Schneider Electric (+2.6%). Siemens Energy surged nearly 5% after reiterating strong demand trends during its pre-close quarterly earnings call on Monday. In contrast, Kering (-2.6%) and Logitech (-4%9 were among the worst performers. Considering the June month, the STOXX 50 is up around 3% and has surged approximately 12% over the quarter. The STOXX 600 has advanced 1.6% in June and is up about 9% for the quarter, marking its strongest quarterly performance since October 2020, as oil prices moved back to pre-war levels and tensions in the Middle East eased.
+
+---
+
+### 2026-06-30 15:32:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.16% Higher — The FTSE 100 Index is gaining 16 points or 0.16 percent on Tuesday. Leading the gains are Antofagasta (2.75%), Anglo American (2.62%) and J Sainsbury (2.23%). Top losers are Barratt Redrow (-2.88%), Entain (-2.67%) and B&M European Value (-2.60%).
+
+---
+
+### 2026-06-30 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 1.01% Higher — The DAX Index is picking up 248 points or 1.01 percent on Tuesday. Gains are led by Siemens Energy (5.42%), Siemens (2.82%) and Infineon (2.45%).
+
+---
+
+### 2026-06-30 15:30:03  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.41% Higher — The CAC 40 Index is up by 35 points or 0.41 percent on Tuesday. Top gainers are Schneider Electric (2.95%), Legrand (2.25%) and Bureau Veritas (1.56%). Biggest losses came from TP (-11.60%), Kering (-3.05%) and TotalEnergies SE (-1.51%).
+
+---
+
+### 2026-06-30 15:24:22  #Trading Economics #Markets #Thailand #Stock Market #Importance 0
+
+Stocks in Thailand Hit 4-year High — SET 50 increased to 1038.00 Index Points, the highest since February 2022. Over the past 4 weeks, Thailand SET 50 Index gained 1.08%, and in the last 12 months, it increased 43.27%.
 
 ---
 
@@ -15313,233 +15385,5 @@ KATZ said the agreement signed with the US and Lebanon is a historic event and a
 ### 2026-06-27 23:20:41  #焦點 #國際
 
 伊朗：將與阿曼舉行會談，商定未來霍爾木茲海峽海事服務管理框架。
-
----
-
-### 2026-06-27 23:18:42  #其他
-
-【國際移民組織：委內瑞拉地震可能影響近680萬人】國際移民組織27日表示，委內瑞拉24日發生的強烈地震可能使多達676萬人的生存狀況受到影響，相關評估工作仍在繼續。國際移民組織稱，基於現有人口和損失分析的預測顯示，僅委內瑞拉首都加拉加斯就可能有多達200萬人受地震影響。（新華社）
-
----
-
-### 2026-06-27 23:17:11  #其他
-
-【委內瑞拉最大機場已部分恢復運營】當地時間27日，委內瑞拉邁克蒂亞西蒙·玻利瓦爾國際機場已部分恢復運營，並正在接收載有人道主義援助物資的貨運航班。位於拉瓜伊拉州、毗鄰加拉加斯的邁克蒂亞西蒙·玻利瓦爾國際機場是委內瑞拉國內最大、最重要的航空樞紐。當地時間24日，委內瑞拉接連發生兩次7級以上強烈地震，造成大量人員傷亡。地震發生後，機場關閉，所有航班都被取消，很多旅客被迫滯留。
-
----
-
-### 2026-06-27 23:10:55  #市場 #焦點
-
-以太坊升破1600美元，日內漲1.41%。
-
----
-
-### 2026-06-27 23:10:32  #市場 #觀點 #央行 #國際
-
-【韓國人均持有超2個股票賬戶 韓國股市外資賣散戶加槓桿接】韓國股市近期屢創新高，韓國綜合股價指數今年以來近乎翻倍。然而，就在昨天（26日），韓國綜合股指盤中一度大跌超8%，本週內第二次觸發熔斷機制。短短一週內，韓國股市經歷了兩次“過山車”行情，引發全球市場關注。資料顯示，韓國散戶交易佔比極高。截至6月24日，韓國本土股票交易賬戶總數為1.0877億，而韓國總人口僅為5000多萬人，人均持有兩個以上股票賬戶，且大量資金透過高槓杆ETF湧入。上週，美聯儲的貨幣政策轉向鷹派直接壓制了高估值科技板塊。摩根大通釋出的報告顯示，今年以來外資已從韓國股市淨流出約950億美元。與此同時，散戶投資者年內累計淨買入規模約800億美元，成為支撐市場的主要力量。這種“外資賣、散戶加槓桿接”的模式，在市場波動時極易引發強制平倉，導致定價機制部分失靈。 (央視財經)
-
----
-
-### 2026-06-27 23:04:13  #國際
-
-烏克蘭稱俄羅斯襲擊蘇梅造成包括兒童在內的多人受傷。
-
----
-
-### 2026-06-27 23:03:12  #國際
-
-美方官員：美國即將宣佈數億美元的對委內瑞拉援助計劃。
-
----
-
-### 2026-06-27 23:03:04  #焦點 #國際
-
-美方官員：美國海軍艦船已部署到位，用於救治委內瑞拉受傷人員。
-
----
-
-### 2026-06-27 23:02:28  #國際
-
-美國官員就委內瑞拉局勢召開電話記者會，稱委內瑞拉的邁克蒂亞機場一條跑道已恢復運營。
-
----
-
-### 2026-06-27 23:01:27  #國際
-
-【進博會推介會聚焦中法經貿合作提質升級】第九屆中國國際進口博覽會法國推介座談會24日和26日分別在法國巴黎、里昂舉行，來自中法兩國政府機構、商協會及企業代表參會，就進一步深化雙方經貿合作展開交流。中國駐法國大使館經商處參贊代俊鵬24日表示，中國消費結構持續升級，帶動高品質進口商品需求不斷增長。同時，中國製造業向高階化、智慧化、綠色化轉型，帶來新的技術裝置需求。在龐大市場規模和多元需求支撐下，中國將繼續為法國和歐洲企業提供廣闊發展空間。（新華社）
-
----
-
-### 2026-06-27 22:59:20  #其他
-
-匈牙利保克什核電站因下游冷卻水溫度過高，降低3號反應堆發電量。
-
----
-
-### 2026-06-27 22:57:17  #其他
-
-黎巴嫩總統奧恩與阿聯酋總統通電話，雙方就雙邊關係及地區局勢交換了意見。
-
----
-
-### 2026-06-27 22:54:40  #其他
-
-丹麥氣象部門：丹麥測得史上最高氣溫，達36.6攝氏度。
-
----
-
-### 2026-06-27 22:54:21  #國際
-
-美方官員稱，多架美國人道主義救援航班降落在部分恢復運營的委內瑞拉加拉加斯機場。
-
----
-
-### 2026-06-27 22:52:36  #國際
-
-【特朗普推出印有其肖像、紀念美國建國250週年的新版護照】美國總統特朗普公佈了一款他稱作“愛國者護照”的新版設計效果圖，護照印有他本人肖像，用以紀念美國建國250週年，該款護照將於7月6日起正式簽發。
-
----
-
-### 2026-06-27 22:50:42  #公司 #市場
-
-【多家港股公司發起回購 真金白銀彰顯底氣】近期，多家港股公司發起回購，真金白銀彰顯底氣。牧原股份日前公告，董事會審議透過H股回購方案，擬回購總金額不低於3億港元且不超過5億港元的H股股份，資金來源為自有資金或自籌資金。極兔速遞-W公告，董事會批准一項建議公開市場股份購回計劃，擬在公開市場購回B類股份，資金上限不超過20億港元，可購回股份總數不超過9.67億股B類股份（約佔股東周年大會當日已發行股份總數的10%）。回購資金來源為公司現有可用現金儲備及自由現金流量。董事會認為B類股份交易價格低估了集團業績及內在價值，回購計劃將為股東創造資本管理效益。一些港股公司近期積極實施了回購。太平洋航運6月25日在港交所公告稱，當日回購458.7萬股、耗資1305.6萬港元，為當月最大單日動作。中國生物製藥6月25日在港交所公告稱，當日斥資4911.18萬港元回購1155.3萬股。 一些港股公司回購金額較高。6月25日，根據港交所檔案，騰訊回購了120萬股股票，耗資約5.007億港元。一些港股上市公司高管表態，計劃進行股票回購。6月26日，在美團股東周年大會上，美團CFO陳少暉表示，當前公司價值被嚴重低估，美團計劃進行股票回購。
-
----
-
-### 2026-06-27 22:49:46  #國際
-
-【中俄教育交流與合作圖片展在莫斯科舉行】“中俄教育交流與合作：歷史與現狀”圖片展26日在中國駐俄羅斯大使館舉行。圖片展從40餘家單位提供的圖片資料中甄選展出60餘幅代表性照片，全面呈現中俄教育交流合作的發展歷程與豐碩成果。（新華社）
-
----
-
-### 2026-06-27 22:49:11  #國際
-
-歐盟委員會主席馮德萊恩對以黎達成協議表示歡迎。
-
----
-
-### 2026-06-27 22:49:01  #其他
-
-黎巴嫩軍方：軍隊總司令出訪英國，雙方就黎巴嫩軍方援助事宜及實現持久停火的相關途徑展開磋商。
-
----
-
-### 2026-06-27 22:48:10  #MKT News
-
-The president of Cyprus welcomed the US-brokered framework agreement between Israel and Lebanon and expressed appreciation for the US role in advancing the initiative.
-
----
-
-### 2026-06-27 22:44:49  #國際
-
-美國即將宣佈針對委內瑞拉的新一輪援助計劃。
-
----
-
-### 2026-06-27 22:44:18  #宏觀 #公司
-
-【保時捷計劃將卡宴SUV生產線從斯洛伐克遷至萊比錫】保時捷計劃將卡宴SUV的生產工作從斯洛伐克轉移至德國萊比錫工廠，以此提升工廠產能利用率。大眾汽車正考慮關閉四家德國本土工廠，並計劃將裁員規模擴大至10萬人。保時捷執行長米夏埃爾·萊特斯近期強調，公司將持續深耕萊比錫工廠，同時企業必須出臺果斷舉措，才能維持自身競爭力。
-
----
-
-### 2026-06-27 22:42:30  #其他
-
-保時捷計劃將卡宴SUV的生產從斯洛伐克轉移至萊比錫工廠。
-
----
-
-### 2026-06-27 22:40:11  #國際
-
-伊朗議會議主席團成員阿里雷扎·薩利米於週六表示，真主黨必須在黎巴嫩持續對抗以色列，以此避免戰火蔓延至伊朗本土。
-
----
-
-### 2026-06-27 22:34:41  #MKT News #EURUSD #Impact bullish #Brent #DXY #Impact bearish
-
-【ECB executive board member Schnabel warns price pressures may be stronger than expected, expects further rate hikes】Schnabel warned that even if a U.S.-Iran peace deal reopens the Strait of Hormuz, price pressures could be stronger than expected. She said food, goods and services inflation face upside risks and an energy-price shock could spill over more broadly. While welcoming recent energy-price declines tied to peace prospects, she cautioned against complacency, saying uncertainty remains high even as an announced deal reduces the probability of a worst-case scenario, and that oil is likely to stay elevated as the strait reopens only gradually. Seen as the Governing Council’s most hawkish member, Schnabel reiterated she expects the ECB to raise rates further to bring inflation back to 2% in the medium term; consumer inflation expectations have risen but there are not yet signs of wage pressures.
-
----
-
-### 2026-06-27 22:33:01  #國際
-
-【黎真主黨領導人譴責美以黎框架協議 稱其無效】當地時間27日，黎巴嫩真主黨領導人納伊姆·卡西姆譴責了美國、以色列和黎巴嫩達成的框架協議，稱這是黎巴嫩政府犯下的重大錯誤，真主黨方面認為該協議無效。卡西姆指責稱，黎巴嫩當局透過這一“嚴重錯誤”的協議使以色列的佔領“合法化”。（央視新聞）
-
----
-
-### 2026-06-27 22:22:52  #國際
-
-美國海軍通報稱，霍爾木茲海峽內靠近阿曼的一處航道完成拓寬，這將增加雙向船舶通行能力。
-
----
-
-### 2026-06-27 22:21:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Hezbollah deputy leader condemns US–Israel–Lebanon framework, calls it invalid】On the 27th, Hezbollah deputy leader Naim Qassem condemned the US–Israel–Lebanon framework agreement, calling it a "serious mistake" by the Lebanese government and saying Hezbollah considers the pact invalid. He accused Lebanese authorities of using the "serious mistake" to legalize Israeli occupation.
-
----
-
-### 2026-06-27 22:19:59  #觀點 #央行 #國際 #原創
-
-【歐洲央行執委：通脹仍存上行風險，歐洲央行料將進一步加息】歐洲央行執委伊莎貝爾·施納貝爾警告稱，即使美伊和平協議重新開放霍爾木茲海峽，價格壓力也可能比預期的更大。施納貝爾週六在德國一次活動上表示，“食品、商品和服務通脹面臨上行風險”，並補充說，“能源價格衝擊可能會加劇更廣泛的通脹動態”。施納貝爾對近期能源價格因美伊和平協議前景而下跌表示歡迎，但她也警告說，這並非 放鬆警惕的理由。她表示：“不確定性依然很高，但已宣佈的和平協議降低了出現負面情況的可能性。”不過，由於霍爾木茲海峽的開放仍需逐步進行，預計油價將持續走高。被視為管理委員會中最鷹派成員的施納貝爾重申，“預計歐洲央行將進一步加息，以在中期內將通脹率拉回到 2% 的水平。”她表示：“消費者通脹預期有所上升，不過，目前還沒有工資上漲的跡象。”
-
----
-
-### 2026-06-27 22:07:28  #其他
-
-【委內瑞拉或有676萬人受強震影響】26日，聯合國多個機構對委內瑞拉24日發生的強震評估表示，此次委內瑞拉受地震影響人口或高達676萬人，數百萬兒童面臨危險，人道需求十分緊迫。根據聯合國國際移民組織的最新評估，委內瑞拉受24日強震影響的人數可能高達676萬人，僅在首都加拉加斯就有多達200萬人受影響。該組織發言人表示，當務之急是為災民提供緊急住所、安全飲用水、衛生設施、醫療以及基本救濟物品。（央視新聞）
-
----
-
-### 2026-06-27 22:04:15  #其他
-
-聯合國：預計委內瑞拉地震可能影響約680萬人。
-
----
-
-### 2026-06-27 22:04:14  #MKT News
-
-UN estimates an earthquake in Venezuela could affect about 6.8 million people.
-
----
-
-### 2026-06-27 22:01:50  #其他
-
-中國地震臺網正式測定：06月27日21時34分在阿富汗（北緯36.40度，東經70.80度）發生6.0級地震，震源深度210千米。
-
----
-
-### 2026-06-27 22:00:51  #國際
-
-【阿富汗興都庫什地區發生5.9級地震】據歐洲地中海地震中心初步監測，阿富汗當地時間27日18時04分，阿富汗興都庫什地區發生5.9級地震，阿首都喀布林震感明顯。（央視新聞）
-
----
-
-### 2026-06-27 21:55:03  #國際
-
-【歐盟回應特朗普關稅威脅：堅決捍衛自身權利】美國總統特朗普26日威脅向對美企業徵收數字服務稅的歐洲國家施以報復性關稅後，歐盟委員會回應說，將“堅決捍衛自身權利”。歐盟委員會一名發言人表示，歐盟及其成員國有權管理歐盟範圍內的經濟活動，如果對歐盟“合法政策”採取“單方面措施”，歐盟“將迅速和堅決應對，以維護自身權利和監管自主權”。特朗普26日在社交媒體發文稱，任何向美國企業徵收數字服務稅的歐洲國家，將立即遭到美國對其所有輸美產品徵收100%報復性關稅。這一關稅將取代美國與相關國家之間的貿易協議，無論這些貿易協議是否已經簽署或實施。（新華社）
-
----
-
-### 2026-06-27 21:54:33  #其他
-
-施納貝爾：資產估值方面的金融穩定風險正在上升。
-
----
-
-### 2026-06-27 21:54:07  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Schnabel expects further rate hikes.
-
----
-
-### 2026-06-27 21:53:54  #其他
-
-施納貝爾：預測顯示通脹上升，經濟增長放緩。
-
----
-
-### 2026-06-27 21:53:53  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB executive board member Schnabel says there are currently no signs of wage pressures.
 
 ---
