@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-04 08:22:31",
-  "count": 13308,
+  "updated": "2026-07-04 08:26:17",
+  "count": 13309,
   "items": [
+    {
+      "id": "mkt:019f2a82-3ed4-7aab-8c9a-fac0f7cdba09",
+      "time": "2026-07-04 08:23:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Russian Defence Ministry says it struck Ukrainian defence-industrial sites; SBU reports strikes on Crimean military airfields】On July 3 the Russian Defence Ministry said in a weekly report covering June 27–July 3 that, in response to Ukrainian attacks on Russian civilian targets, Russian forces destroyed multiple Ukrainian military-industrial sites, energy and logistics facilities used by Ukrainian forces, and Ukrainian military airfields and ammunition depots. The SBU said its drones struck two Russian military airfields in Crimea on July 3, with preliminary reports indicating at least seven warplanes were damaged; Russia has not responded to the SBU claim."
+    },
     {
       "id": "mkt:019f2a7d-607f-7aab-8c9a-f2fd3d1876b9",
       "time": "2026-07-04 08:18:07",
