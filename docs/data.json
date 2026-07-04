@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 16:51:03",
-  "count": 13291,
+  "updated": "2026-07-04 16:54:55",
+  "count": 13289,
   "items": [
+    {
+      "id": "4970355",
+      "time": "2026-07-04 16:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普吹噓美國“戰績” 稱“我們很善良”】當地時間7月3日，即美國獨立日前夕，美國總統特朗普在南達科他州拉什莫爾山（俗稱“總統山”）發表演講，吹噓美國的“戰績”。特朗普還稱，伊朗“渴望解決爭端”，美國“很善良”，“給伊朗一週時間辦喪事”。（新華社）"
+    },
+    {
+      "id": "4970354",
+      "time": "2026-07-04 16:51:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆卡拉蘇口岸上半年進出口貨物超30萬噸】從新疆卡拉蘇邊檢站瞭解到，卡拉蘇口岸截至6月30日，累計進出口貨物30.57萬噸、出入境人員2.8萬人次，與去年同期相比分別增長26.22%、增長35.85%，通關人數和貨運量雙創新高。（央視新聞）"
+    },
     {
       "id": "4970353",
       "time": "2026-07-04 16:49:56",
@@ -122286,44 +122302,6 @@
         "XAUUSD"
       ],
       "text": "Bahrain's state news agency said the kingdom condemned an Iranian drone attack on its territory on Saturday, accusing Tehran of continuing strikes amid efforts to ease tensions and saying it should bear responsibility for undermining peace efforts."
-    },
-    {
-      "id": "4958329",
-      "time": "2026-06-27 16:54:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林稱，在各方推動局勢降級之際，伊朗持續發動襲擊，應對破壞和平努力的行為負責。"
-    },
-    {
-      "id": "mkt:019f0849-1f8f-7dd8-b141-49bac0c6fe9e",
-      "time": "2026-06-27 16:53:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Major funds reshuffle; >26.7bn yuan pulled from \"Yi Zhongtian\" trio】Week Jun 22–26 — A‑shares traded lower overall: Shanghai Composite -1.55%, Shenzhen Composite -1.55%, ChiNext -1.37%; Sci‑Tech Innovation 50 +6.32%. Major funds recorded a combined net outflow from Shanghai/Shenzhen of 216.9bn yuan. Heavy selling hit tech names: the so‑called \"Yi Zhongtian\" group (Xinyisheng, Zhongji Xuchuang, Tianfu Communication) saw combined disposals exceeding 26.7bn yuan. Largest single‑stock main‑fund net outflows: Zhongji Xuchuang 13.78bn yuan; Shenghong Technology 8.16bn; Dongshan Precision, Tianfu Communication and Guangxun Technology each >7.0bn; Huagong Technology 6.27bn; Xinyisheng and Tongguan Copper Foil each >5.0bn; Zhongtian Technology and CATL each >3.5bn."
-    },
-    {
-      "id": "4958328",
-      "time": "2026-06-27 16:53:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林稱伊朗無人機週六襲擊該國。"
-    },
-    {
-      "id": "4958327",
-      "time": "2026-06-27 16:53:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國黃淮海地區首個農業遙感大模型在山東釋出】中國黃淮海地區首個農業遙感大模型“舜耕·糧安”27日在山東濟南釋出。“舜耕·糧安”農業遙感大模型源於海量資料，包含覆蓋山東全域、全地貌、全物候期的近億張高質量衛星影像，疊加20年來2000萬份人工樣本。 該遙感大模型由山東省農業農村遙感應用中心與國家級科研機構和人工智慧頭部企業等優勢團隊協同攻關完成。（中新社）"
     }
   ]
 }
