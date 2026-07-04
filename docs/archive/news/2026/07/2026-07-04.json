@@ -1,7 +1,38 @@
 {
   "date": "2026-07-04",
-  "count": 287,
+  "count": 290,
   "items": [
+    {
+      "id": "4970208",
+      "time": "2026-07-04 09:38:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普：美國經濟正強勁騰飛！】美國總統特朗普：美國經濟正強勁騰飛！股市剛剛創下自我上一個總統任期以來最佳季度表現。標普500指數、納斯達克指數和道瓊斯指數全面大漲，美國民眾的401(k)退休賬戶資產也持續增值。我推出的工薪家庭減稅政策，讓美國家庭口袋裡有了更多錢。美國貿易逆差持續收窄，出口額連續數月創下歷史新高。美國正在以前所未有的速度建設、生產和銷售。在我政府推動下吸引來的數萬億美元新增投資，意味著更多工廠、更多就業機會，以及更多屬於美國人民的發展機遇。這就是勝利。美國的“黃金時代”已經開啟，而這僅僅只是開始！"
+    },
+    {
+      "id": "mkt:019f2ac6-7a5a-7aab-8c9b-3bc9db3f1478",
+      "time": "2026-07-04 09:37:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Trump: US economy surging】President Trump said the US economy is surging, citing the S&P 500, Nasdaq and Dow's best quarterly performance since the previous presidency, rising 401(k) balances, his administration's working-family tax cuts that boosted household disposable income, a narrowing trade deficit with exports hitting consecutive monthly records, and trillions of dollars of new investment attracted under his policies."
+    },
+    {
+      "id": "4970207",
+      "time": "2026-07-04 09:37:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7-11起訴耐克，指控其新鞋配色抄襲7-11標誌性顏色】據路透社7月2日報道，跨國連鎖零售公司7-11已在美國得克薩斯州聯邦法院起訴運動品牌耐克，指控該公司計劃於7月11日推出的運動鞋抄襲了7-11便利店標誌性的橙、綠、紅三色條紋設計。 據報道，7-11在2日向法院提交的訴狀中稱，耐克即將推出的Air Max 95運動鞋採用的顏色與7-11品牌商標極易混淆，消費者會將該設計與7-11品牌聯絡起來。此外，耐克將該運動鞋的發售日期定為7月11日，這一天恰逢該零售商一年一度的促銷活動。（環球網）"
+    },
     {
       "id": "4970206",
       "time": "2026-07-04 09:31:36",
