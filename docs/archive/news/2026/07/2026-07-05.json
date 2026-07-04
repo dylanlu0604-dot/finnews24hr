@@ -1,7 +1,19 @@
 {
   "date": "2026-07-05",
-  "count": 161,
+  "count": 162,
   "items": [
+    {
+      "id": "mkt:019f2f1c-4c43-7aab-8c9f-f0854de1d255",
+      "time": "2026-07-05 05:50:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "【Putin briefs Trump on battlefield; Trump offers to continue mediation】Russian presidential aide Ushakov said Putin briefed Trump on the battlefield, asserting Russian forces are steadily advancing along the front and liberating settlements, including Konstantinovka, which Ushakov called a key stage in reclaiming Donetsk People’s Republic territory. Ushakov said Kyiv and its European backers are betting on prolonging and escalating the conflict and accused them of conducting terrorist attacks against civilians. Trump said he is willing to help secure a swift, peaceful end to the fighting and that envoys Witkoff and son‑in‑law Kushner stand ready to travel to Moscow when appropriate to continue mediation."
+    },
     {
       "id": "mkt:019f2f12-3f95-7aab-8c9f-e9081214a35c",
       "time": "2026-07-05 05:39:12",

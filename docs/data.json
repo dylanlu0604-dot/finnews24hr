@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-05 05:47:00",
-  "count": 13246,
+  "updated": "2026-07-05 05:50:52",
+  "count": 13245,
   "items": [
+    {
+      "id": "mkt:019f2f1c-4c43-7aab-8c9f-f0854de1d255",
+      "time": "2026-07-05 05:50:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "【Putin briefs Trump on battlefield; Trump offers to continue mediation】Russian presidential aide Ushakov said Putin briefed Trump on the battlefield, asserting Russian forces are steadily advancing along the front and liberating settlements, including Konstantinovka, which Ushakov called a key stage in reclaiming Donetsk People’s Republic territory. Ushakov said Kyiv and its European backers are betting on prolonging and escalating the conflict and accused them of conducting terrorist attacks against civilians. Trump said he is willing to help secure a swift, peaceful end to the fighting and that envoys Witkoff and son‑in‑law Kushner stand ready to travel to Moscow when appropriate to continue mediation."
+    },
     {
       "id": "mkt:019f2f12-3f95-7aab-8c9f-e9081214a35c",
       "time": "2026-07-05 05:39:12",
@@ -121890,29 +121902,6 @@
         "國際"
       ],
       "text": "美國一名官員向福克斯新聞表示，美軍正在打擊伊朗防空系統、雷達及導彈設施，此次行動規模超過此前所有軍事行動。"
-    },
-    {
-      "id": "mkt:019f0b10-516f-7770-9d1b-bd963e36e19b",
-      "time": "2026-06-28 05:50:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM confirms additional strikes on Iranian military targets after tanker hit near Strait of Hormuz】CENTCOM said on June 27 it carried out additional strikes on multiple Iranian targets after Iran this morning (04:30 ET) used a one-way attack drone to hit and destroy the Panama‑flagged tanker M/T Kiku near the Strait of Hormuz. The vessel was carrying more than 2 mln barrels of crude. CENTCOM said the action responds to sustained Iranian attacks on merchant shipping, following a U.S. strike yesterday that had been launched in retaliation for Iran’s attack on M/V EverLovely. U.S. aircraft struck Iranian military surveillance and communications sites, air‑defence positions, drone storage facilities and mine‑laying capability."
-    },
-    {
-      "id": "4958623",
-      "time": "2026-06-28 05:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方：多枚射彈襲擊了格什姆島的一座村莊。"
     }
   ]
 }
