@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 05:35:15",
+  "updated": "2026-07-05 05:39:05",
   "count": 13251,
   "items": [
+    {
+      "id": "4970622",
+      "time": "2026-07-05 05:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以方稱內塔尼亞胡近期將與特朗普會面】以色列總理辦公室4日晚發表宣告稱，以總理內塔尼亞胡此前一天與美國總統特朗普通電話，雙方同意於近期在美國會面。 宣告說，內塔尼亞胡向特朗普祝賀美國獨立250週年，並稱以色列“非常珍視兩國之間的緊密聯絡”。 據以色列第12頻道電視臺4日報道，特朗普當天證實內塔尼亞胡請求在白宮與他會面，會面時間最早可能是下週。特朗普還說，他與內塔尼亞胡“相處很好”，而內塔尼亞胡也知道“誰是老大”。 報道稱，如果內塔尼亞胡最終成行，將是他自今年2月到訪白宮與特朗普會面、向美方提出對伊朗開戰計劃以來兩人再次見面。（新華社）"
+    },
     {
       "id": "mkt:019f2f0d-6106-7aab-8c9f-e623696c0324",
       "time": "2026-07-05 05:33:53",
@@ -121955,19 +121963,6 @@
         "DXY"
       ],
       "text": "【U.S. strikes Iran again; explosions reported in Sirik】Iran's Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran after multiple shells struck a communications tower. US media Axios, citing US officials, said the U.S. military is striking Iranian targets in the Strait of Hormuz region in response to Iran's Saturday attack on a commercial tanker. Axios said this is the second round of U.S. airstrikes since the signing of a U.S.-Iran memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f0b03-d148-7770-9d1b-a238b19b4da8",
-      "time": "2026-06-28 05:37:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran linked to multiple shells striking a communications tower. US media outlet Axios reported the United States carried out airstrikes against Iran."
     }
   ]
 }
