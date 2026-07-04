@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 02:17:04",
-  "count": 13228,
+  "updated": "2026-07-05 02:21:00",
+  "count": 13227,
   "items": [
+    {
+      "id": "mkt:019f2e59-659b-7aab-8c9e-7948cc501d6a",
+      "time": "2026-07-05 02:17:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela earthquake death toll rises to 2,954】Data released by Venezuelan authorities on the 4th show two recent strong earthquakes have killed 2,954 people."
+    },
+    {
+      "id": "4970564",
+      "time": "2026-07-05 02:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）"
+    },
     {
       "id": "mkt:019f2e52-a73c-7aab-8c9e-76438f8322db",
       "time": "2026-07-05 02:09:56",
@@ -121730,35 +121746,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：（地區）周邊還有其他相關協議，我此前承諾要重塑地區格局，我們將在該框架內完成這些協議的推進。"
-    },
-    {
-      "id": "4958571",
-      "time": "2026-06-28 02:20:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：強烈反對任何逼迫我方撤軍的企圖，如今美國與黎巴嫩都在告知伊朗，此事與伊朗無關。"
-    },
-    {
-      "id": "4958570",
-      "time": "2026-06-28 02:19:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我方已控制黎巴嫩南部舍加夫地區，並將駐守此地。"
-    },
-    {
-      "id": "mkt:019f0a4e-8b19-7dd8-b143-63fccaf57f96",
-      "time": "2026-06-28 02:19:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he has stressed to Israeli forces they have freedom of action to repel any threat in Lebanon."
     }
   ]
 }
