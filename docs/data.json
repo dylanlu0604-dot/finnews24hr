@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-04 22:01:29",
-  "count": 13237,
+  "updated": "2026-07-04 22:05:31",
+  "count": 13235,
   "items": [
+    {
+      "id": "mkt:019f2d70-d662-7aab-8c9d-4c1fcfa2c201",
+      "time": "2026-07-04 22:03:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kaohsiung–Ningbo direct flights resume】Spring Airlines resumed direct Kaohsiung–Ningbo services on the 4th using an Airbus A320, operating one roundtrip weekly on Tuesdays and Saturdays. Flight 9C8685 departs Ningbo Lishe Airport 15:30, arrives Kaohsiung 17:35; 9C8686 departs Kaohsiung 18:35, arrives Ningbo Lishe 20:35. Spring said previous travel between the cities required transfers and typically exceeded five hours; the direct service cuts one-way flight time to about two hours. Several mainland carriers have also been restoring cross-strait direct routes: China Eastern resumed Taichung–Chengdu from the 1st of this month, and Shandong Airlines expects to resume Taichung–Qingdao from the 23rd."
+    },
     {
       "id": "mkt:019f2d65-7abf-7aab-8c9d-466e6493cdc6",
       "time": "2026-07-04 21:50:52",
@@ -121802,30 +121812,6 @@
         "其他"
       ],
       "text": "【委內瑞拉或有676萬人受強震影響】26日，聯合國多個機構對委內瑞拉24日發生的強震評估表示，此次委內瑞拉受地震影響人口或高達676萬人，數百萬兒童面臨危險，人道需求十分緊迫。根據聯合國國際移民組織的最新評估，委內瑞拉受24日強震影響的人數可能高達676萬人，僅在首都加拉加斯就有多達200萬人受影響。該組織發言人表示，當務之急是為災民提供緊急住所、安全飲用水、衛生設施、醫療以及基本救濟物品。（央視新聞）"
-    },
-    {
-      "id": "4958477",
-      "time": "2026-06-27 22:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國：預計委內瑞拉地震可能影響約680萬人。"
-    },
-    {
-      "id": "mkt:019f0965-321f-7dd8-b142-947dbe5d3f00",
-      "time": "2026-06-27 22:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN estimates an earthquake in Venezuela could affect about 6.8 million people."
-    },
-    {
-      "id": "4958476",
-      "time": "2026-06-27 22:01:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月27日21時34分在阿富汗（北緯36.40度，東經70.80度）發生6.0級地震，震源深度210千米。"
     }
   ]
 }

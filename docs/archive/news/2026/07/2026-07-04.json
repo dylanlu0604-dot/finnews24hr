@@ -1,7 +1,17 @@
 {
   "date": "2026-07-04",
-  "count": 569,
+  "count": 570,
   "items": [
+    {
+      "id": "mkt:019f2d70-d662-7aab-8c9d-4c1fcfa2c201",
+      "time": "2026-07-04 22:03:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kaohsiung–Ningbo direct flights resume】Spring Airlines resumed direct Kaohsiung–Ningbo services on the 4th using an Airbus A320, operating one roundtrip weekly on Tuesdays and Saturdays. Flight 9C8685 departs Ningbo Lishe Airport 15:30, arrives Kaohsiung 17:35; 9C8686 departs Kaohsiung 18:35, arrives Ningbo Lishe 20:35. Spring said previous travel between the cities required transfers and typically exceeded five hours; the direct service cuts one-way flight time to about two hours. Several mainland carriers have also been restoring cross-strait direct routes: China Eastern resumed Taichung–Chengdu from the 1st of this month, and Shandong Airlines expects to resume Taichung–Qingdao from the 23rd."
+    },
     {
       "id": "mkt:019f2d65-7abf-7aab-8c9d-466e6493cdc6",
       "time": "2026-07-04 21:50:52",
