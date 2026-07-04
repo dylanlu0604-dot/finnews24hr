@@ -1,7 +1,37 @@
 {
   "date": "2026-07-05",
-  "count": 30,
+  "count": 33,
   "items": [
+    {
+      "id": "mkt:019f2e14-ae40-7aab-8c9d-e40cb4178eb2",
+      "time": "2026-07-05 01:02:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran envoy in Beijing says Tehran will charge Strait of Hormuz transit service fees under international norms】Abdolreza Rahmani Fazli told media in Beijing during the World Peace Forum that Iran plans to levy service fees for Strait of Hormuz transit in line with international practice. He said transit had been unimpeded prior to the outbreak of hostilities involving the US, Israel and Iran; Tehran has not announced tariffs but intends fees to cover navigation safety, pilotage and environmental protection costs, consistent with other international waterways. Fazli added the strait's traffic is gradually returning to normal and the Iran‑Oman jointly managed channel is restoring order."
+    },
+    {
+      "id": "4970551",
+      "time": "2026-07-05 01:01:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府為數百萬18歲以下美國兒童推出新型投資賬戶：符合條件的新生兒可一次性獲得1000美元聯邦撥款，同時家庭與企業僱主可後續持續追加存入資金。"
+    },
+    {
+      "id": "mkt:019f2e13-3f3d-7aab-8c9d-d9ed96420b47",
+      "time": "2026-07-05 01:00:41",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks."
+    },
     {
       "id": "4970550",
       "time": "2026-07-05 00:59:47",
