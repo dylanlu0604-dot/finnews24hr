@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05 04:12:36",
-  "count": 13234,
+  "updated": "2026-07-05 04:16:30",
+  "count": 13235,
   "items": [
+    {
+      "id": "mkt:019f2ec3-3674-7aab-8c9f-4327d2228b58",
+      "time": "2026-07-05 04:12:53",
+      "tags": [
+        "MKT News",
+        "6472.T",
+        "Impact bullish"
+      ],
+      "text": "【MinebeaMitsumi to expand bearing output for AI data centers】MinebeaMitsumi will invest JPY 58 bln (about $360m) to expand precision-bearing capacity for AI data-center cooling equipment and storage devices, raising total capacity roughly 30% to over 500 mln sets/month. The company plans investment at Southeast Asia production bases and to install advanced equipment expected to boost production efficiency by about 60%. Construction is expected to begin this year; earliest production is fiscal 2028, Nikkei reports."
+    },
     {
       "id": "mkt:019f2ec1-4448-7aab-8c9f-3fa77384bcd2",
       "time": "2026-07-05 04:10:45",
