@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-05 05:58:37",
-  "count": 13238,
+  "updated": "2026-07-05 06:02:52",
+  "count": 13237,
   "items": [
+    {
+      "id": "4970643",
+      "time": "2026-07-05 05:59:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中央氣象臺7月5日06時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "4970642",
+      "time": "2026-07-05 05:58:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月5日06時繼續釋出強對流天氣黃色預警。"
+    },
     {
       "id": "mkt:019f2f21-fd4b-7aab-8c9f-fe295a54e9c1",
       "time": "2026-07-05 05:56:24",
@@ -121817,35 +121834,6 @@
         "國際"
       ],
       "text": "伊朗媒體報道伊朗南部傳出爆炸聲。"
-    },
-    {
-      "id": "4958632",
-      "time": "2026-06-28 06:01:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗錫裡克地區傳出爆炸聲】據伊朗方面訊息，伊朗南部錫裡克的一個村莊傳出數次爆炸聲。一名軍方訊息人士稱，爆炸聲是由數枚彈體擊中一座通訊塔所致。另據一知情人士訊息，幾枚炮彈還擊中了伊朗南部格什姆島。"
-    },
-    {
-      "id": "4958631",
-      "time": "2026-06-28 05:59:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方訊息人士稱，多枚彈藥擊中錫裡克附近塔魯伊村的一座通訊塔，由此引發爆炸。"
-    },
-    {
-      "id": "mkt:019f0b18-4b51-7770-9d1b-c8364c99c95b",
-      "time": "2026-06-28 05:59:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Fox News reported US forces carried out a new round of strikes against Iran that were larger in scale than last night’s operation. US and Bahraini forces shot down nine Iranian drones headed toward US troops in Bahrain."
     }
   ]
 }
