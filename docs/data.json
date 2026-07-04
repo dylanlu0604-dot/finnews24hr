@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-04 21:40:53",
+  "updated": "2026-07-04 21:45:06",
   "count": 13255,
   "items": [
+    {
+      "id": "mkt:019f2d5c-434f-7aab-8c9d-32b5c53bbc2d",
+      "time": "2026-07-04 21:40:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Iran says it dismantled multiple 'terrorist and extremist' cells linked to US and Israeli intelligence】Iran's Intelligence Ministry said on the 4th that security forces, working with the IRGC and national police, dismantled four cells it says were linked to US and Israeli intelligence agencies in Sistan‑Baluchestan province, including Zahedan. Five principal members were arrested and two armed suspects killed. Authorities also said they uncovered and dismantled an additional five‑person cell suspected of plotting attacks on military units and judicial institutions; those suspects were detained. Security forces seized firearms, multiple hand grenades, four radio units, a Starlink satellite communications kit and large quantities of ammunition. Iran said the suspects received military and explosives training abroad and had planned sabotage, assassinations and terrorist attacks but were arrested before acting and the network has been dismantled."
+    },
+    {
+      "id": "4970478",
+      "time": "2026-07-04 21:40:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高雄往返寧波等兩岸直飛航線陸續復航】由春秋航空運營的高雄往返寧波直飛航線4日正式復航，由空客A320機型執飛，每週二、六各開行一班。 該航線9C8685航班於15時30分從寧波櫟社機場起飛，17時35分抵達高雄機場；9C8686航班於18時35分從高雄機場起飛，20時35分抵達寧波櫟社機場。 春秋航空表示，此前旅客在兩地間往返需要中轉，單程在途時間通常超過5個小時，直航恢復後單程飛行時間縮短至約2小時，出行效率大幅提升。 近期，多家大陸航空公司接連恢復兩岸直飛航線。東方航空本月1日起恢復臺中往返成都直飛航線，山東航空預計23日起恢復臺中往返青島直飛航線。（新華社）"
+    },
     {
       "id": "te:markets:564235",
       "time": "2026-07-04 21:30:16",
@@ -121975,22 +121995,6 @@
         "國際"
       ],
       "text": "歐洲央行管委施納貝爾：預計油價將持續高位。"
-    },
-    {
-      "id": "4958451",
-      "time": "2026-06-27 21:44:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地球科學研究中心（GFZ）訊息：阿富汗興都庫什地區發生5.94級地震。"
-    },
-    {
-      "id": "mkt:019f0950-bb33-7dd8-b142-5c3e60f6e29e",
-      "time": "2026-06-27 21:41:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reported a magnitude-6 earthquake in Afghanistan's Hindu Kush region."
     }
   ]
 }
