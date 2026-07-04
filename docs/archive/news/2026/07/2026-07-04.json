@@ -1,7 +1,23 @@
 {
   "date": "2026-07-04",
-  "count": 469,
+  "count": 471,
   "items": [
+    {
+      "id": "4970353",
+      "time": "2026-07-04 16:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站正式投運】近期，明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站順利完成各項測試，正式併網投運。作為目前國內電壓等級最高、配套單體儲能規模最大的500千伏儲能彙集站和全國儲能領域的標杆性工程，該專案落地投用，將補齊蒙西地區高壓儲能電網配套短板，進一步完善包頭市源網荷儲一體化能源產業佈局，為區域能源結構最佳化、新型電力系統建設、綠色低碳發展注入強勁持久動能。"
+    },
+    {
+      "id": "mkt:019f2c51-bc24-7aab-8c9c-78e388e275f6",
+      "time": "2026-07-04 16:49:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mingyang Baotou Weijun 1.5 GW standalone storage plant 500 kV collection substation commissioned】The 500 kV collection substation for Mingyang’s Baotou Weijun 1.5 GW standalone energy-storage plant has completed testing and been connected to the grid. The project, China’s highest-voltage and largest single-unit 500 kV storage collection station and a national benchmark, fills a high-voltage storage grid gap in western Inner Mongolia and advances Baotou’s source–grid–load–storage integration, supporting regional energy-structure optimization, new power-system construction and low-carbon development."
+    },
     {
       "id": "4970352",
       "time": "2026-07-04 16:42:36",
