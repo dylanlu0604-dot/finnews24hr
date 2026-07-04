@@ -1,7 +1,23 @@
 {
   "date": "2026-07-04",
-  "count": 458,
+  "count": 460,
   "items": [
+    {
+      "id": "mkt:019f2c3a-d4a1-7aab-8c9c-6e10c95399b9",
+      "time": "2026-07-04 16:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Military says rebels launched attacks at five locations in Mali."
+    },
+    {
+      "id": "4970343",
+      "time": "2026-07-04 16:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬裡軍方稱，武裝叛亂分子在馬裡境內五處地點發動襲擊。"
+    },
     {
       "id": "mkt:019f2c36-8218-7aab-8c9c-66c9ffb2f03a",
       "time": "2026-07-04 16:19:57",

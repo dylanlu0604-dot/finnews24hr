@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 16:22:49",
-  "count": 13289,
+  "updated": "2026-07-04 16:26:47",
+  "count": 13288,
   "items": [
+    {
+      "id": "mkt:019f2c3a-d4a1-7aab-8c9c-6e10c95399b9",
+      "time": "2026-07-04 16:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Military says rebels launched attacks at five locations in Mali."
+    },
+    {
+      "id": "4970343",
+      "time": "2026-07-04 16:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬裡軍方稱，武裝叛亂分子在馬裡境內五處地點發動襲擊。"
+    },
     {
       "id": "mkt:019f2c36-8218-7aab-8c9c-66c9ffb2f03a",
       "time": "2026-07-04 16:19:57",
@@ -122288,35 +122304,6 @@
         "Impact bullish"
       ],
       "text": "U.S. National Highway Traffic Safety Administration said it has ended its engineering analysis of about 376,241 Tesla (TSLA.O) Model 3 and Model Y vehicles over a steering loss-of-control issue."
-    },
-    {
-      "id": "mkt:019f082f-e020-7dd8-b141-30bc414f0e7e",
-      "time": "2026-06-27 16:26:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Security sources said an explosive drone struck a camp belonging to an Iranian Kurdish opposition group north of Erbil, Iraq."
-    },
-    {
-      "id": "4958320",
-      "time": "2026-06-27 16:24:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "安全訊息人士稱：爆炸性無人機襲擊了伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。"
-    },
-    {
-      "id": "4958319",
-      "time": "2026-06-27 16:23:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北大與DeepSeek聯合開源DSpark框架，高併發下生成速度提升超60%】DeepSeek聯合北京大學正式釋出DSpark推理加速框架，旨在解決大語言模型在高併發生產環境中的推理效率瓶頸。該框架已部署於DeepSeek-V4-Flash與DeepSeek-V4-Pro的預覽版服務引擎中，相比此前生產環境採用的單token推測解碼基線MTP-1，在同等吞吐量水平下可將單使用者生成速度提升60%至85%。相關論文、訓練程式碼及模型檢查點已在GitHub平臺DeepSpec專案中開源。"
     }
   ]
 }
