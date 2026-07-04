@@ -1,7 +1,56 @@
 {
   "date": "2026-07-05",
-  "count": 3,
+  "count": 8,
   "items": [
+    {
+      "id": "mkt:019f2de3-e070-7aab-8c9d-a93ded8bc59d",
+      "time": "2026-07-05 00:08:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Indian government lifts emergency controls on gas supply that were imposed after LNG supply disruptions triggered by the Middle East crisis."
+    },
+    {
+      "id": "4970531",
+      "time": "2026-07-05 00:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度解除中東危機引發液化天然氣供應中斷後實施的天然氣供應緊急管控。"
+    },
+    {
+      "id": "mkt:019f2de2-44a5-7aab-8c9d-a378b423cce7",
+      "time": "2026-07-05 00:07:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Turkey's Erdogan, Pakistan's Shehbaz hold talks on multi‑sector cooperation】On the 4th Turkish President Erdogan met Pakistan Prime Minister Shehbaz Sharif at the presidential palace and held a joint press conference. Erdogan said Turkey is closely monitoring developments in the Middle East. The leaders discussed expanding trade and investment ties, with Erdogan saying Turkey seeks deeper cooperation with Pakistan in energy, transport, critical minerals and information technology."
+    },
+    {
+      "id": "mkt:019f2de1-b577-7aab-8c9d-999bc3094e9b",
+      "time": "2026-07-05 00:06:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS"
+      ],
+      "text": "ANTHROPIC has begun early-stage R&D on a proprietary AI chip and is in talks with Samsung Electronics to consider Samsung as a potential chip foundry partner. The move, mirroring OpenAI, aims to boost control over the high-cost compute hardware that supports its large models."
+    },
+    {
+      "id": "4970530",
+      "time": "2026-07-05 00:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統釋出照片祝賀美國建國250週年。"
+    },
     {
       "id": "4970529",
       "time": "2026-07-05 00:03:26",

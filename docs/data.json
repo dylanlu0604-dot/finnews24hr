@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-05 00:07:01",
+  "updated": "2026-07-05 00:11:40",
   "count": 13235,
   "items": [
+    {
+      "id": "mkt:019f2de3-e070-7aab-8c9d-a93ded8bc59d",
+      "time": "2026-07-05 00:08:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Indian government lifts emergency controls on gas supply that were imposed after LNG supply disruptions triggered by the Middle East crisis."
+    },
+    {
+      "id": "4970531",
+      "time": "2026-07-05 00:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度解除中東危機引發液化天然氣供應中斷後實施的天然氣供應緊急管控。"
+    },
+    {
+      "id": "mkt:019f2de2-44a5-7aab-8c9d-a378b423cce7",
+      "time": "2026-07-05 00:07:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Turkey's Erdogan, Pakistan's Shehbaz hold talks on multi‑sector cooperation】On the 4th Turkish President Erdogan met Pakistan Prime Minister Shehbaz Sharif at the presidential palace and held a joint press conference. Erdogan said Turkey is closely monitoring developments in the Middle East. The leaders discussed expanding trade and investment ties, with Erdogan saying Turkey seeks deeper cooperation with Pakistan in energy, transport, critical minerals and information technology."
+    },
+    {
+      "id": "mkt:019f2de1-b577-7aab-8c9d-999bc3094e9b",
+      "time": "2026-07-05 00:06:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS"
+      ],
+      "text": "ANTHROPIC has begun early-stage R&D on a proprietary AI chip and is in talks with Samsung Electronics to consider Samsung as a potential chip foundry partner. The move, mirroring OpenAI, aims to boost control over the high-cost compute hardware that supports its large models."
+    },
+    {
+      "id": "4970530",
+      "time": "2026-07-05 00:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統釋出照片祝賀美國建國250週年。"
+    },
     {
       "id": "4970529",
       "time": "2026-07-05 00:03:26",
@@ -121788,49 +121837,6 @@
         "國際"
       ],
       "text": "以色列防長卡茨：以色列國防軍將做好長期駐守黎巴嫩安全區的準備。"
-    },
-    {
-      "id": "4958523",
-      "time": "2026-06-28 00:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列防長卡茨：若伊朗阻撓協議落實，以色列將予以反擊。"
-    },
-    {
-      "id": "4958522",
-      "time": "2026-06-28 00:10:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列防長卡茨：數十年來，美、以、黎三方簽署的這份協議首次為以黎北部邊境及黎巴嫩帶來全新、更安全的局面，同時保障以色列民眾的長期安全。"
-    },
-    {
-      "id": "4958521",
-      "time": "2026-06-28 00:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列防長卡茨：黎以這份協議的關鍵考驗在於落地執行，目前仍存在諸多挑戰。只要真主黨未被解除武裝，以色列就不會調整其在黎巴嫩南部的部署，也不會撤軍。"
-    },
-    {
-      "id": "mkt:019f09d7-0cc9-7dd8-b142-c0a4fba495ef",
-      "time": "2026-06-28 00:08:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Explosion and gunfire reported in Karachi's Gulistan-e-Johar】An explosion and reports of gunfire occurred in Karachi's Gulistan-e-Johar neighborhood on the evening of the 27th (local time). Large numbers of police and rescue personnel have responded to the scene."
-    },
-    {
-      "id": "4958520",
-      "time": "2026-06-28 00:08:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋重申支援國際四方調解小組為蘇丹實現持久和平所開展的各項工作。"
     }
   ]
 }
