@@ -1,7 +1,16 @@
 {
   "date": "2026-07-04",
-  "count": 537,
+  "count": 538,
   "items": [
+    {
+      "id": "mkt:019f2d17-a45a-7aab-8c9c-f6d569e961c2",
+      "time": "2026-07-04 20:25:51",
+      "tags": [
+        "MKT News",
+        "CPNG.O"
+      ],
+      "text": "【South Korea ruling party calls US report on Coupang 'inaccurate'】South Korea's ruling Democratic Party on the 4th said it 'strongly regrets' a recent US report on e-commerce firm Coupang, calling the findings 'seriously inaccurate' and accusing Coupang of trying to shift responsibility for a large-scale user data breach onto the US report. The US House Judiciary Committee earlier issued an interim report saying Coupang had long been a 'target' of the South Korean government and alleging South Korea has conducted 'compulsory investigations, excessive regulatory burdens and heavy fines and penalties' against US firms."
+    },
     {
       "id": "4970433",
       "time": "2026-07-04 20:22:44",
