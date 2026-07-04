@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 08:26:17",
-  "count": 13309,
+  "updated": "2026-07-04 08:30:01",
+  "count": 13308,
   "items": [
+    {
+      "id": "4970184",
+      "time": "2026-07-04 08:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude： 正在排查多款模型出現大量報錯的問題。"
+    },
     {
       "id": "mkt:019f2a82-3ed4-7aab-8c9a-fac0f7cdba09",
       "time": "2026-07-04 08:23:26",
@@ -122498,25 +122506,6 @@
         "觀點"
       ],
       "text": "【SpaceX即將入選納斯達克100指數 為被動買入潮鋪平道路】斯達克交易所週五確認，SpaceX將於7月7日被納入科技股佔比較高的納斯達克100指數，這為埃隆·馬斯克旗下的這家火箭與人工智慧巨頭吸引被動投資鋪平了道路。摩根大通估計，SpaceX被納入納斯達克100指數可能帶來43億美元的被動資金流入。 “顯然，市場需求很大，這就是他們加快將其納入指數程序的原因，”晨星（Morningstar）首席股票市場策略師邁克爾·菲爾德（Michael Field）表示。“很多人會對此感到高興。但一些基金經理則不那麼樂意，其中包括持懷疑態度的那些人，我們也在其中。我們認為該股估值過高。”"
-    },
-    {
-      "id": "mkt:019f067a-8699-7dd8-b13f-e8a27b27d667",
-      "time": "2026-06-27 08:28:40",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shanghai Exchange adds 'quantum' to STAR Market industry list; industry cites faster industrialization, clearer policy support】The Shanghai Stock Exchange published draft amendments to STAR Market IPO filing and recommendation rules, revising secondary industry classifications for strategic emerging industries and adding \"quantum\" under the new‑generation information technology sector. Industry participants told reporters quantum technology is entering a new phase—industrialization is accelerating, expectations for investable capital and exit pathways are improving, and policy support is becoming more detailed—while firms still face common structural problems and gaps with overseas peers, calling for patience and resolve."
-    },
-    {
-      "id": "4958117",
-      "time": "2026-06-27 08:27:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【黑龍江省出臺急需緊缺技能人才精準供給專項方案】據黑龍江省人力資源和社會保障廳，近日，黑龍江省印發《黑龍江省急需緊缺技能人才精準供給專項工作方案》，圍繞裝備製造、人工智慧、現代服務等重點產業，建立“需求即時感知、培訓快速有效、人崗高效匹配”的閉環機制，著力破解技能人才供給與需求結構性矛盾。其中提到，聚焦人工智慧、先進製造、低空經濟、冰雪經濟等8大領域開展專項培訓，對人工智慧訓練師等急需緊缺職業試點“短平快”培訓專案，著力提升培訓轉化效率。《方案》明確，2026年6月底前重點領域供給效率明顯提升，8月底前建成快速響應平臺，11月底前精準供給機制覆蓋全省，重點產業用人需求滿足率持續提升。"
     }
   ]
 }
