@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-05 00:15:41",
+  "updated": "2026-07-05 00:19:44",
   "count": 13237,
   "items": [
+    {
+      "id": "4970534",
+      "time": "2026-07-05 00:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部拒絕遵照聯邦法院的指令，移交經過刪節處理的傑弗裡·愛潑斯坦調查卷宗。"
+    },
+    {
+      "id": "mkt:019f2dea-4045-7aab-8c9d-c2513eacff26",
+      "time": "2026-07-05 00:15:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Russia, Ukraine exchange large-scale strikes; Russia says it seized four populated localities】Russia and Ukraine each launched large-scale strikes overnight from the evening of the 3rd to the early hours of the 4th, both sides said. Russia said its forces had taken control of four populated localities in Kharkiv region. The Russian Defence Ministry said on the 4th that in the past 24 hours Russian strikes targeted Ukrainian fuel, energy and transport infrastructure in 142 locations, plus facilities producing and storing long-range UAVs, and temporary deployments of Ukrainian forces and foreign mercenaries. The ministry added that Russian air defences destroyed 10 \"Flamingo\" cruise missiles, nine HIMARS rockets, 16 guided aerial bombs and 893 fixed-wing drones."
+    },
     {
       "id": "4970533",
       "time": "2026-07-05 00:14:18",
@@ -121830,25 +121850,6 @@
         "國際"
       ],
       "text": "市場資訊：伊朗在阿曼海岸附近的霍爾木茲海峽襲擊了一艘油輪。"
-    },
-    {
-      "id": "mkt:019f09de-0597-7dd8-b142-d480ceb4f4b8",
-      "time": "2026-06-28 00:16:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Russian Defence Ministry: Russian military drones struck refinery serving Ukrainian forces】The Russian Defence Ministry said Russian forces used Geranium UAVs to strike a refinery near Zaporizhzhia under Ukrainian control that supports Ukrainian forces, triggering a large fire."
-    },
-    {
-      "id": "4958525",
-      "time": "2026-06-28 00:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊最高領袖代表：革命衛隊隨時準備在各領域執行最高領袖的任何命令】伊朗革命衛隊最高領袖代表阿卜杜拉·哈吉薩德吉於週六表示，革命衛隊所有分支隨時準備在各領域執行最高領袖哈梅內伊下達的任何命令。哈吉薩德吉稱：“革命衛隊全軍，包括空天軍、海軍、陸軍、聖城旅以及巴斯基民兵，全部嚴陣以待、隨時待命，準備執行穆傑塔巴在任何領域下達的一切指令。”他表示，抵抗與堅定立場始終是伊朗的首要選擇，談判並非其主要途徑。他補充道，即便伊朗開啟談判，陷入焦灼被動的也只會是敵方。"
     }
   ]
 }
