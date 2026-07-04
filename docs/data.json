@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 10:07:53",
-  "count": 13284,
+  "updated": "2026-07-04 10:11:50",
+  "count": 13283,
   "items": [
+    {
+      "id": "4970220",
+      "time": "2026-07-04 10:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包：智慧體功能將下線 10月15日後無法檢視相關資料】豆包釋出《智慧體下線通知》，由於產品功能調整，智慧體功能將於2026年7月15日下線。功能下線後，使用者仍可在一段時間內透過豆包檢視並自行儲存智慧體資訊及歷史對話資料。2026年10月15日後，豆包將根據《隱私政策》對智慧體相關資料進行處理，後續將無法在豆包內檢視或恢復。如有重要內容，建議使用者透過截圖或分享匯出文字的方式提前完成備份。通知內容還提到，位元組跳動旗下的貓箱APP可建立新的智慧體、開啟對話服務，如有需要，後續可在貓箱App開啟智慧體新體驗。"
+    },
     {
       "id": "4970219",
       "time": "2026-07-04 10:06:01",
@@ -122270,25 +122278,6 @@
         "國際"
       ],
       "text": "【愛旭股份與多家合作伙伴簽署多項合作協議】6月23日，2026年歐洲國際太陽能展（Intersolar Europe 2026）在德國慕尼黑新國際博覽中心開幕。展會現場，愛旭股份與來自瑞士、荷蘭、法國、比利時以及波黑的多家安裝商與渠道商簽署了高效ABC元件供貨協議，簽約規模超過1GW，覆蓋集中式、分散式多場景，並將與各方就不同場景的應用探索展開深度合作。同時，愛旭股份與來自德語區、西歐區域及北歐區域市場的多家重要合作伙伴共同開展集體簽約，敲定了Z系列元件的合作協議。此外，愛旭第四代ABC元件產品——G4滿屏Ultra元件也在展會期間於歐洲區域同步推出。"
-    },
-    {
-      "id": "mkt:019f06d8-1b19-7dd8-b140-6a6cc10e0ae5",
-      "time": "2026-06-27 10:10:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China reports major breakthrough in superconducting magnets for fusion reactor】China's largest superconducting component for the national major-science facility Comprehensive Research Facility for Key Systems of the Fusion Reactor Host—the toroidal field magnet—has completed final fabrication and passed expert acceptance. A high-temperature superconducting central coil also completed full-operating-parameter testing with core performance at internationally leading levels. The toroidal magnet, the world's largest superconducting magnet for a fusion reactor, measures 21m by 12m by 3.3m and weighs 582 tonnes. Authorities say the full magnet chain is now domestically developed and controllable, with performance metrics ahead of international peers."
-    },
-    {
-      "id": "4958175",
-      "time": "2026-06-27 10:09:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【初步資料顯示德國氣溫創歷史最高紀錄】多家德國媒體26日援引德國氣象局的初步觀測資料說，德國當天測得41.3攝氏度高溫，創該國曆史最高氣溫紀錄。該數值於當地時間17時在德國西部薩爾州薩爾布呂肯-布林巴赫測得。德國此前有記錄的最高氣溫為41.2攝氏度，於2019年7月25日在北威州特尼斯福斯特和杜伊斯堡-巴爾兩地測得。（新華社）"
     }
   ]
 }
