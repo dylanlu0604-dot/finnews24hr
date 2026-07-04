@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-05 02:37:52",
-  "count": 13221,
+  "updated": "2026-07-05 02:41:44",
+  "count": 13224,
   "items": [
+    {
+      "id": "mkt:019f2e6e-94b4-7aab-8c9e-b4d394f5ec1a",
+      "time": "2026-07-05 02:40:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said under President Trump the U.S. is moving toward unprecedented economic growth, durable dollar dominance and robust fiscal health."
+    },
+    {
+      "id": "mkt:019f2e6d-d670-7aab-8c9e-af688436a545",
+      "time": "2026-07-05 02:39:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German regulator warns proposed major amendments to the Freedom of Information law would effectively abolish government transparency mechanisms."
+    },
+    {
+      "id": "4970569",
+      "time": "2026-07-05 02:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名白宮官員透露，第一夫人今晚將陪同特朗普，一同出席在國家廣場舉辦的 “致敬美國” 慶典活動。"
+    },
+    {
+      "id": "4970568",
+      "time": "2026-07-05 02:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國監管機構警示：擬議的資訊法重大修訂或將徹底廢除政務透明機制。"
+    },
     {
       "id": "mkt:019f2e6b-708e-7aab-8c9e-a01edb7f2e9f",
       "time": "2026-07-05 02:37:00",
@@ -121679,15 +121720,6 @@
         "DXY"
       ],
       "text": "Israeli Prime Minister Netanyahu said a two-state solution will be impossible to achieve under any government he leads."
-    },
-    {
-      "id": "4958581",
-      "time": "2026-06-28 02:39:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡談以黎框架協議：\n1、將與黎巴嫩達成其他協議；\n2、在我領導的任何政府中，兩國方案將不可能實現；\n3、將以武力應對真主黨試圖違反協議的努力；\n4、伊朗已不再是我們所知的那個伊朗，我們有機會進行新的考驗；\n5、不會接受加沙和黎巴嫩的“零和”局面；\n6、留在黎巴嫩是保障以色列安全的“好解決方案”；\n7、將派遣代表團前往華盛頓，闡明我們對美伊協議的立場。"
     }
   ]
 }

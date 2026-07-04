@@ -1,7 +1,48 @@
 {
   "date": "2026-07-05",
-  "count": 73,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:019f2e6e-94b4-7aab-8c9e-b4d394f5ec1a",
+      "time": "2026-07-05 02:40:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said under President Trump the U.S. is moving toward unprecedented economic growth, durable dollar dominance and robust fiscal health."
+    },
+    {
+      "id": "mkt:019f2e6d-d670-7aab-8c9e-af688436a545",
+      "time": "2026-07-05 02:39:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German regulator warns proposed major amendments to the Freedom of Information law would effectively abolish government transparency mechanisms."
+    },
+    {
+      "id": "4970569",
+      "time": "2026-07-05 02:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名白宮官員透露，第一夫人今晚將陪同特朗普，一同出席在國家廣場舉辦的 “致敬美國” 慶典活動。"
+    },
+    {
+      "id": "4970568",
+      "time": "2026-07-05 02:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國監管機構警示：擬議的資訊法重大修訂或將徹底廢除政務透明機制。"
+    },
     {
       "id": "mkt:019f2e6b-708e-7aab-8c9e-a01edb7f2e9f",
       "time": "2026-07-05 02:37:00",
