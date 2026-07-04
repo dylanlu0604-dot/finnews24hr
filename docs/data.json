@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 18:59:29",
-  "count": 13263,
+  "updated": "2026-07-04 19:03:33",
+  "count": 13261,
   "items": [
+    {
+      "id": "4970391",
+      "time": "2026-07-04 19:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南大理州賓川縣一小時3次四級以上地震：當地震感明顯，部分列車將晚點】中國地震臺網正式測定，2026年7月4日17時33分、18時07分、18時28分，雲南省大理州賓川縣先後發生4.4級、4.3級、4.3級地震。為確保旅客列車執行安全，中國鐵路昆明局集團有限公司第一時間啟動應急響應，對大理東至洱海、洱海至西邑區間實施封鎖，緊急叫停該區段內執行列車，並安排工務、電務、供電等部門上線對線路裝置進行全面檢查。受此影響，大理往返昆明、麗江、香格里拉方向的部分旅客列車將出現不同程度晚點。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點導致的退票不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。（人民日報）"
+    },
     {
       "id": "mkt:019f2cc6-7561-7aab-8c9c-c0a8e8256158",
       "time": "2026-07-04 18:57:11",
@@ -122033,34 +122041,6 @@
         "Brent"
       ],
       "text": "【Rubio says US pushing for Trump visit to India early next year; expects trade deal in weeks–months】US Secretary of State Rubio said Washington is pushing for President Trump to visit India early next year and expects a bilateral trade deal to be finalised within weeks or months, describing negotiations as in their final stage. He plans a return visit to India later this year to prepare for the presidential trip. Rubio said the US seeks a larger role in meeting India’s rising energy demand and can help boost global crude supply, including by facilitating Venezuelan exports."
-    },
-    {
-      "id": "mkt:019f08bf-7417-7dd8-b141-fca4fc354310",
-      "time": "2026-06-27 19:03:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian state TV said more vessels are seeking Iran's permission to transit the Strait of Hormuz after warning shots were fired at unauthorized ships."
-    },
-    {
-      "id": "4958379",
-      "time": "2026-06-27 19:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：06月27日18時37分在印尼班達海（南緯6.85度，東經125.65度）發生6.0級地震，震源深度530千米。"
-    },
-    {
-      "id": "4958378",
-      "time": "2026-06-27 19:00:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺表示，在未經許可的船隻遭到警告射擊後，目前有更多船舶正申請過境霍爾木茲海峽的伊朗許可。"
     }
   ]
 }
