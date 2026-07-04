@@ -1,7 +1,28 @@
 {
   "date": "2026-07-04",
-  "count": 575,
+  "count": 577,
   "items": [
+    {
+      "id": "mkt:019f2d7d-3c3f-7aab-8c9d-6d98d455735c",
+      "time": "2026-07-04 22:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran conservative bloc fractures; new supreme leader’s absolute authority reportedly diluted】The New York Times reports Iran’s traditional conservative–reformist divide has been upended after the assassination of former supreme leader Khamenei, with the conservative camp splitting into pragmatists who favor ending hostility with the U.S. and opening the economy, and hardliners who reject concessions (including on nuclear issues) and advocate prolonging the war. Four senior Iranian officials and two IRGC members told the paper that public disagreements mask deeper backstage ruptures as factions compete to win the allegiance of new supreme leader Mujtaba. Pragmatists — reportedly including senior IRGC generals, parliament speaker Qalibaf, President Pezeshkian and national security council secretary Gen. Zolghadr — have gained the upper hand and have pushed for accepting a ceasefire, direct talks with U.S. Vice President Vance and an agreement with Trump. IRGC commanders have consolidated de facto governing power since the war began, and Deputy Vice President for Administrative Affairs Mohammad-Jafar Ghaempanah said the new supreme leader does not have final decision authority, indicating a shift toward more collective decisionmaking."
+    },
+    {
+      "id": "mkt:019f2d7c-0dc9-7aab-8c9d-678bc90af148",
+      "time": "2026-07-04 22:15:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US-Iran peace deal releases large crude volumes, reviving global oversupply concerns】Oil prices fell across the board after a US-Iran peace deal freed substantial crude supplies that demand cannot absorb. Less than three months ago global physical crude benchmarks hit record highs, and until weeks ago industry executives warned inventories were at extremely low levels amid the Iran crisis. Analysts from Morgan Stanley to Goldman Sachs this week warned of a risk of supply overhang next year; Energy Aspects head of oil research Kit Haines said market sentiment is overwhelmingly bearish. Persian Gulf suppliers had begun ramping shipments before the June MOU reopening the Strait of Hormuz, and in the weeks after the deal more than 60 mln barrels of oil that had been trapped by the war flowed into the market."
+    },
     {
       "id": "mkt:019f2d78-e362-7aab-8c9d-58c6906348e6",
       "time": "2026-07-04 22:12:04",

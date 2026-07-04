@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-04 22:13:44",
-  "count": 13239,
+  "updated": "2026-07-04 22:24:25",
+  "count": 13238,
   "items": [
+    {
+      "id": "mkt:019f2d7d-3c3f-7aab-8c9d-6d98d455735c",
+      "time": "2026-07-04 22:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran conservative bloc fractures; new supreme leader’s absolute authority reportedly diluted】The New York Times reports Iran’s traditional conservative–reformist divide has been upended after the assassination of former supreme leader Khamenei, with the conservative camp splitting into pragmatists who favor ending hostility with the U.S. and opening the economy, and hardliners who reject concessions (including on nuclear issues) and advocate prolonging the war. Four senior Iranian officials and two IRGC members told the paper that public disagreements mask deeper backstage ruptures as factions compete to win the allegiance of new supreme leader Mujtaba. Pragmatists — reportedly including senior IRGC generals, parliament speaker Qalibaf, President Pezeshkian and national security council secretary Gen. Zolghadr — have gained the upper hand and have pushed for accepting a ceasefire, direct talks with U.S. Vice President Vance and an agreement with Trump. IRGC commanders have consolidated de facto governing power since the war began, and Deputy Vice President for Administrative Affairs Mohammad-Jafar Ghaempanah said the new supreme leader does not have final decision authority, indicating a shift toward more collective decisionmaking."
+    },
+    {
+      "id": "mkt:019f2d7c-0dc9-7aab-8c9d-678bc90af148",
+      "time": "2026-07-04 22:15:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US-Iran peace deal releases large crude volumes, reviving global oversupply concerns】Oil prices fell across the board after a US-Iran peace deal freed substantial crude supplies that demand cannot absorb. Less than three months ago global physical crude benchmarks hit record highs, and until weeks ago industry executives warned inventories were at extremely low levels amid the Iran crisis. Analysts from Morgan Stanley to Goldman Sachs this week warned of a risk of supply overhang next year; Energy Aspects head of oil research Kit Haines said market sentiment is overwhelmingly bearish. Persian Gulf suppliers had begun ramping shipments before the June MOU reopening the Strait of Hormuz, and in the weeks after the deal more than 60 mln barrels of oil that had been trapped by the war flowed into the market."
+    },
     {
       "id": "mkt:019f2d78-e362-7aab-8c9d-58c6906348e6",
       "time": "2026-07-04 22:12:04",
@@ -121820,37 +121841,6 @@
         "國際"
       ],
       "text": "【黎真主黨領導人譴責美以黎框架協議 稱其無效】當地時間27日，黎巴嫩真主黨領導人納伊姆·卡西姆譴責了美國、以色列和黎巴嫩達成的框架協議，稱這是黎巴嫩政府犯下的重大錯誤，真主黨方面認為該協議無效。卡西姆指責稱，黎巴嫩當局透過這一“嚴重錯誤”的協議使以色列的佔領“合法化”。（央視新聞）"
-    },
-    {
-      "id": "4958480",
-      "time": "2026-06-27 22:22:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海軍通報稱，霍爾木茲海峽內靠近阿曼的一處航道完成拓寬，這將增加雙向船舶通行能力。"
-    },
-    {
-      "id": "mkt:019f0974-ac93-7dd8-b142-9beff0d2a6c9",
-      "time": "2026-06-27 22:21:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Hezbollah deputy leader condemns US–Israel–Lebanon framework, calls it invalid】On the 27th, Hezbollah deputy leader Naim Qassem condemned the US–Israel–Lebanon framework agreement, calling it a \"serious mistake\" by the Lebanese government and saying Hezbollah considers the pact invalid. He accused Lebanese authorities of using the \"serious mistake\" to legalize Israeli occupation."
-    },
-    {
-      "id": "4958479",
-      "time": "2026-06-27 22:19:59",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【歐洲央行執委：通脹仍存上行風險，歐洲央行料將進一步加息】歐洲央行執委伊莎貝爾·施納貝爾警告稱，即使美伊和平協議重新開放霍爾木茲海峽，價格壓力也可能比預期的更大。施納貝爾週六在德國一次活動上表示，“食品、商品和服務通脹面臨上行風險”，並補充說，“能源價格衝擊可能會加劇更廣泛的通脹動態”。施納貝爾對近期能源價格因美伊和平協議前景而下跌表示歡迎，但她也警告說，這並非 放鬆警惕的理由。她表示：“不確定性依然很高，但已宣佈的和平協議降低了出現負面情況的可能性。”不過，由於霍爾木茲海峽的開放仍需逐步進行，預計油價將持續走高。被視為管理委員會中最鷹派成員的施納貝爾重申，“預計歐洲央行將進一步加息，以在中期內將通脹率拉回到 2% 的水平。”她表示：“消費者通脹預期有所上升，不過，目前還沒有工資上漲的跡象。”"
     }
   ]
 }
