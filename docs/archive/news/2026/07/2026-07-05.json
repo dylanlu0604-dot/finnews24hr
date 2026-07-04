@@ -1,7 +1,41 @@
 {
   "date": "2026-07-05",
-  "count": 102,
+  "count": 106,
   "items": [
+    {
+      "id": "4970586",
+      "time": "2026-07-05 03:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱他與特朗普討論了烏克蘭前線局勢。"
+    },
+    {
+      "id": "mkt:019f2e9f-33f2-7aab-8c9f-17ca680df832",
+      "time": "2026-07-05 03:33:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President von der Leyen said no one has contributed more to Gaza than the EU."
+    },
+    {
+      "id": "4970585",
+      "time": "2026-07-05 03:32:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟正整合旗下面向個人使用者與企業使用者的兩款Copilot人工智慧聊天機器人，將二者合併為一款統一應用，以此打造更具競爭力的產品，對標Claude與ChatGPT。"
+    },
+    {
+      "id": "4970584",
+      "time": "2026-07-05 03:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩聲稱，沒有誰比歐盟為加沙付出更多。"
+    },
     {
       "id": "mkt:019f2e93-7cc4-7aab-8c9f-0d2f49cf6fe2",
       "time": "2026-07-05 03:20:45",
