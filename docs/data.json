@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-05 00:01:46",
-  "count": 13236,
+  "updated": "2026-07-05 00:07:01",
+  "count": 13235,
   "items": [
+    {
+      "id": "4970529",
+      "time": "2026-07-05 00:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗民眾淚別哈梅內伊】4日清晨6時許，大批民眾從四面八方來到伊朗首都德黑蘭的伊瑪目霍梅尼清真寺門口排隊等候。當天，伊朗已故最高領袖阿里·哈梅內伊遺體公眾告別儀式在這裡開始舉行。當地媒體報道，數百萬來自社會各界、不同年齡段的伊朗民眾參與了悼念活動。新華社記者在現場看到，哈梅內伊的遺體以及其遇難家人的遺體，被安放在伊瑪目霍梅尼清真寺建築外廣場上。前來參加告別儀式的大批民眾流下眼淚，有人掩面哭泣。在伊瑪目霍梅尼清真寺中心廣場，人們揮舞著伊朗國旗，手持已故最高領袖哈梅內伊和現任最高領袖穆傑塔巴·哈梅內伊的照片，高呼反對美國和以色列的口號。（新華社）"
+    },
+    {
+      "id": "4970528",
+      "time": "2026-07-05 00:02:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Anthropic已啟動自研AI晶片的前期研發工作，並與三星電子洽談，計劃將其作為潛在晶片代工合作方。此舉效仿OpenAI，目的是加強對支撐自身大模型、成本高昂的算力硬體體系的自主掌控。"
+    },
+    {
+      "id": "4970527",
+      "time": "2026-07-05 00:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至7月5日0時0分，影片《小黃人與大怪獸》票房突破8000萬。"
+    },
     {
       "id": "mkt:019f2ddb-9c3a-7aab-8c9d-93b57d737ae3",
       "time": "2026-07-04 23:59:54",
@@ -121806,38 +121831,6 @@
         "其他"
       ],
       "text": "阿聯酋重申支援國際四方調解小組為蘇丹實現持久和平所開展的各項工作。"
-    },
-    {
-      "id": "4958519",
-      "time": "2026-06-28 00:04:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列防長卡茨：昨日與美國、黎巴嫩簽署的這項協議具有里程碑意義，是以色列在政治與安全領域取得的一項重大成果。"
-    },
-    {
-      "id": "mkt:019f09d3-47a6-7dd8-b142-bd13ea083ee1",
-      "time": "2026-06-28 00:04:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KATZ said the agreement signed with the US and Lebanon is a historic event and an important political and security achievement for Israel."
-    },
-    {
-      "id": "4958518",
-      "time": "2026-06-28 00:04:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名白宮官員表示，美國高階官員對委內瑞拉反對派領袖馬查多在該國地震後試圖返回委內瑞拉的舉動感到不滿。"
-    },
-    {
-      "id": "mkt:019f09d1-e9a4-7dd8-b142-b19d89c1057d",
-      "time": "2026-06-28 00:02:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela's largest airport partially resumes operations】On the 27th local time, Maiquetía Simón Bolívar International Airport, Venezuela's largest, partially resumed operations and is receiving cargo flights carrying humanitarian aid."
     }
   ]
 }
