@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-05 06:14:31",
-  "count": 13236,
+  "updated": "2026-07-05 06:18:27",
+  "count": 13238,
   "items": [
+    {
+      "id": "mkt:019f2f34-335e-7aab-8ca0-1220b4cfaa09",
+      "time": "2026-07-05 06:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli strikes in northern and central Gaza kill two Palestinians】State media reported two Palestinians were killed by Israeli drone strikes in Gaza City and the Jabalia refugee camp. Multiple strikes across northern and central Gaza wounded several others, some seriously."
+    },
+    {
+      "id": "mkt:019f2f32-f49b-7aab-8ca0-0e80f3c1bc15",
+      "time": "2026-07-05 06:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Jersey reports at least 19 suspected heat-related deaths since July 2, health commissioner says】New Jersey Health Commissioner Renard Washington said the state has reported at least 19 suspected heat-related deaths since July 2. Victims’ ages and locations varied; many were found in homes without air conditioning and several were discovered outdoors, on streets or in parked vehicles. Washington said the fatalities are not limited to the elderly and that heat-related emergency visits have risen this week. He urged residents to stay hydrated, seek cooling and avoid prolonged outdoor exposure."
+    },
+    {
+      "id": "4970646",
+      "time": "2026-07-05 06:14:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國新澤西州報告19起“疑似高溫相關”死亡病例】當地時間7月4日，美國新澤西州衛生廳廳長雷納德·華盛頓表示，自7月2日以來，該州已報告至少19起“疑似高溫相關”死亡病例。雷納德·華盛頓稱，死者年齡和所處環境各不相同，其中許多人被發現時身處沒有空調的家中，也有少數人在住所外、街頭或停放的車輛內被發現。他強調，死者並非只有老年人，也包括較年輕的成年人。雷納德·華盛頓還表示，本週以來，新澤西州因高溫相關疾病就醫的人數也出現上升。他呼籲居民保持補水、避暑，避免長時間待在戶外。（央視新聞）"
+    },
     {
       "id": "4970645",
       "time": "2026-07-05 06:10:17",
@@ -121822,14 +121847,6 @@
         "其他"
       ],
       "text": "【今年前五個月我國物流需求平穩增長 社會物流總額超146萬億元】中國物流與採購聯合會今天公佈今年1到5月物流執行資料。物流需求總體保持平穩增長，新舊動能加快轉換，結構升級態勢持續顯現。1—5月份，全國社會物流總額146.6萬億元，同比增長5.2%。其中，工業品物流總額同比增長5.4%。行業分化特徵持續顯現，採礦、非金屬礦物製品業等傳統資源類物流需求持續低位執行，而隨著新質生產力加快培育，高階製造領域物流需求保持較快增長。5月份，高技術製造業相關物流需求同比增長15.1%，裝備製造業相關物流需求同比增長9.5%，較上月均有所加快。（央視新聞）"
-    },
-    {
-      "id": "4958637",
-      "time": "2026-06-28 06:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉首都加拉加斯附近再次發生地震】根據歐洲地中海地震中心報告，當地時間27日15時20分，委內瑞拉首都加拉加斯以西70公里處發生4.8級地震，震源深度10公里。"
     }
   ]
 }

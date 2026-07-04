@@ -1,7 +1,32 @@
 {
   "date": "2026-07-05",
-  "count": 168,
+  "count": 171,
   "items": [
+    {
+      "id": "mkt:019f2f34-335e-7aab-8ca0-1220b4cfaa09",
+      "time": "2026-07-05 06:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli strikes in northern and central Gaza kill two Palestinians】State media reported two Palestinians were killed by Israeli drone strikes in Gaza City and the Jabalia refugee camp. Multiple strikes across northern and central Gaza wounded several others, some seriously."
+    },
+    {
+      "id": "mkt:019f2f32-f49b-7aab-8ca0-0e80f3c1bc15",
+      "time": "2026-07-05 06:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Jersey reports at least 19 suspected heat-related deaths since July 2, health commissioner says】New Jersey Health Commissioner Renard Washington said the state has reported at least 19 suspected heat-related deaths since July 2. Victims’ ages and locations varied; many were found in homes without air conditioning and several were discovered outdoors, on streets or in parked vehicles. Washington said the fatalities are not limited to the elderly and that heat-related emergency visits have risen this week. He urged residents to stay hydrated, seek cooling and avoid prolonged outdoor exposure."
+    },
+    {
+      "id": "4970646",
+      "time": "2026-07-05 06:14:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國新澤西州報告19起“疑似高溫相關”死亡病例】當地時間7月4日，美國新澤西州衛生廳廳長雷納德·華盛頓表示，自7月2日以來，該州已報告至少19起“疑似高溫相關”死亡病例。雷納德·華盛頓稱，死者年齡和所處環境各不相同，其中許多人被發現時身處沒有空調的家中，也有少數人在住所外、街頭或停放的車輛內被發現。他強調，死者並非只有老年人，也包括較年輕的成年人。雷納德·華盛頓還表示，本週以來，新澤西州因高溫相關疾病就醫的人數也出現上升。他呼籲居民保持補水、避暑，避免長時間待在戶外。（央視新聞）"
+    },
     {
       "id": "4970645",
       "time": "2026-07-05 06:10:17",
