@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 05:15:47",
-  "count": 13229,
+  "updated": "2026-07-05 05:19:42",
+  "count": 13231,
   "items": [
+    {
+      "id": "mkt:019f2eff-d73c-7aab-8c9f-9e4bf021a3bb",
+      "time": "2026-07-05 05:19:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq approves preliminary agreement to study strategic oil export pipeline project】Iraq's cabinet approved preliminary and confidentiality agreements for a feasibility study into a strategic oil export pipeline between Basra Oil Company and a consortium of US firm Capital TI, Chevron and Qatar's UCC Energy. The consortium will prepare technical and financial feasibility reports comparing proposed routes, including Basra–Haditha–Kirkuk–Ceyhan and Basra–Haditha–Baniyas. The cabinet said the agreements do not impose any final financial or contractual obligations on the Iraqi oil ministry and authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha pipeline."
+    },
+    {
+      "id": "4970606",
+      "time": "2026-07-05 05:18:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長以色列·卡茨週六在慶祝美國獨立日之際，強調了美國與以色列在中東的合作。卡茨表示，兩國正共同努力建設一個“更安全、更美好的中東”，同時捍衛自由並擊敗“恐怖勢力”，他將以色列與美國之間的聯盟描述為“牢不可破”且“比以往任何時候都更強大”。"
+    },
+    {
+      "id": "mkt:019f2eff-0085-7aab-8c9f-91878e34c1ea",
+      "time": "2026-07-05 05:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry says about 13,000 aerial targets were shot down over Russian airspace in June."
+    },
     {
       "id": "4970605",
       "time": "2026-07-05 05:15:07",
@@ -121767,14 +121791,6 @@
         "DXY"
       ],
       "text": "Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran linked to multiple shells striking a communications tower. US media outlet Axios reported the United States carried out airstrikes against Iran."
-    },
-    {
-      "id": "4958618",
-      "time": "2026-06-28 05:18:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）"
     }
   ]
 }
