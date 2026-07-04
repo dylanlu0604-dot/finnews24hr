@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-04 14:02:28",
-  "count": 13304,
+  "updated": "2026-07-04 14:06:25",
+  "count": 13305,
   "items": [
+    {
+      "id": "mkt:019f2bba-09b0-7aab-8c9b-ebfd4214938f",
+      "time": "2026-07-04 14:04:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia says air-defence systems intercepted 23 Ukrainian drones headed for Moscow】Moscow Mayor Sobyanin posted multiple updates on social media from the night of July 3 local time, saying Russian air-defence systems intercepted 23 Ukrainian drones headed for Moscow by the early hours of July 4 local time."
+    },
     {
       "id": "4970296",
       "time": "2026-07-04 14:01:12",
