@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 122,
+  "count": 123,
   "items": [
+    {
+      "id": "mkt:019f2ed5-d704-7aab-8c9f-545048910ae4",
+      "time": "2026-07-05 04:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Jerusalem Post, citing Israeli sources, reports Israeli Prime Minister Netanyahu and U.S. President Trump have no meeting scheduled."
+    },
     {
       "id": "4970596",
       "time": "2026-07-05 04:28:39",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 04:31:57",
+  "updated": "2026-07-05 04:35:50",
   "count": 13229,
   "items": [
+    {
+      "id": "mkt:019f2ed5-d704-7aab-8c9f-545048910ae4",
+      "time": "2026-07-05 04:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Jerusalem Post, citing Israeli sources, reports Israeli Prime Minister Netanyahu and U.S. President Trump have no meeting scheduled."
+    },
     {
       "id": "4970596",
       "time": "2026-07-05 04:28:39",
@@ -121760,15 +121768,6 @@
         "國際"
       ],
       "text": "美國高階官員和黎巴嫩官員表示，美國總統特朗普透過電話與黎巴嫩總統約瑟夫·奧恩通話，並祝賀他簽署了與以色列的框架協議。"
-    },
-    {
-      "id": "4958607",
-      "time": "2026-06-28 04:34:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法國電力集團（EDF）負責人發出警告：受電力供應短缺影響，美國或將面臨大面積停電風險。"
     }
   ]
 }
