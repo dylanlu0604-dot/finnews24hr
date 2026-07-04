@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-04 19:58:22",
-  "count": 13259,
+  "updated": "2026-07-04 20:02:25",
+  "count": 13258,
   "items": [
+    {
+      "id": "mkt:019f2d01-47be-7aab-8c9c-e36e80dd8381",
+      "time": "2026-07-04 20:01:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran warns extra‑regional states against creating crisis in Strait of Hormuz】UK Prime Minister Starmer and French President Macron said on 3 July they will work with Oman to safeguard sovereign territorial waters. Iran deputy foreign minister Gharibabadi on 4 July responded that the Strait of Hormuz is not a venue for extra‑regional military displays and Tehran opposes any military action that could affect the waterway’s security. He said Iran, as a guarantor of Strait security, will monitor related military moves closely, that security should be maintained by littoral states, and that any party creating a crisis will bear the consequences; the warning was described as “serious.”"
+    },
+    {
+      "id": "4970421",
+      "time": "2026-07-04 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1922.13億元，汽車零部件、化學制藥板塊淨流入居前，個股華潤新能源、三花智控淨流入最多。"
+    },
     {
       "id": "4970417",
       "time": "2026-07-04 19:54:55",
@@ -121994,32 +122013,6 @@
         "其他"
       ],
       "text": "約旦外交大臣希望框架協議符合黎巴嫩及其人民的利益，並有助於恢復穩定，鞏固黎巴嫩對其所有領土的主權。"
-    },
-    {
-      "id": "mkt:019f08f3-95bc-7dd8-b142-1c022bc441fe",
-      "time": "2026-06-27 20:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Europe's oldest operating nuclear plant Beznau taken offline after cooling river water warmed, Axpo says】Axpo said on the 26th local time the Beznau nuclear plant in northern Switzerland was taken offline after river water used to cool the reactor became too warm amid high temperatures."
-    },
-    {
-      "id": "4958397",
-      "time": "2026-06-27 20:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "本週大盤主力資金累計淨流入-3398.08億元，證券Ⅱ、醫療服務板塊淨流入居前，個股惠科股份淨流入最多。"
-    },
-    {
-      "id": "4958396",
-      "time": "2026-06-27 19:59:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司當地時間26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。（央視新聞）"
     }
   ]
 }
