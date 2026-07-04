@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 114,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:019f2eb7-605a-7aab-8c9f-323a0c9ba80b",
+      "time": "2026-07-05 03:59:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Portugal wildfire spreads; government requests EU aid】A wildfire driven by extreme heat continues to spread in Portugal, with more than 10,000 hectares burned as of the 4th. Authorities have deployed about 1,100 firefighters, 380 fire engines and eight aircraft and helicopters. Portugal has requested assistance from the EU; Brussels said on the 3rd it will join the response. Spain has sent 118 firefighters and 45 fire vehicles to assist."
+    },
+    {
+      "id": "4970593",
+      "time": "2026-07-05 03:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【山火持續蔓延 葡萄牙向歐盟請求支援】受極端高溫天氣影響，葡萄牙一處持續燃燒數日的山火火勢仍在蔓延。截至4日，過火面積已超一萬公頃。已有1100名消防員參與滅火工作，政府還派出380輛消防車以及8架飛機和直升機協同作業。由於火情嚴峻，葡方已向歐盟請求支援。歐盟3日表示，將與葡萄牙共同應對此次嚴重山火。目前，已有來自西班牙的118名消防員和45輛消防車輛抵達葡萄牙，參與滅火工作。（央視新聞）"
+    },
     {
       "id": "mkt:019f2eb2-1cbb-7aab-8c9f-2baff2448382",
       "time": "2026-07-05 03:54:12",
