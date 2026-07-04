@@ -1,7 +1,17 @@
 {
   "date": "2026-07-04",
-  "count": 384,
+  "count": 385,
   "items": [
+    {
+      "id": "mkt:019f2b88-4aa8-7aab-8c9b-d54232e4b9a0",
+      "time": "2026-07-04 13:09:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Goldman Sachs maintains Buy on MiniMax; PT HK$860】July 3 — Goldman Sachs maintains Buy on MiniMax Group, PT HK$860. GS says MiniMax’s M3 model is priced at parity with M2.7; training and inference architecture upgrades lift inference efficiency by more than 2x, sufficient to offset cost increases from a doubling of model parameters. DeepSeek plans a V4 launch in mid‑July and has rolled out time‑of‑day pricing, with peak‑period calls charged at 2x off‑peak; GS views DeepSeek’s price increase as indirect validation of M3’s value proposition. Larger M3 variants and an upcoming H3 video model are flagged as near‑term catalysts."
+    },
     {
       "id": "4970285",
       "time": "2026-07-04 13:01:44",
