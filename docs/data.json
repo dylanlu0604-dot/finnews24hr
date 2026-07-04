@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 18:31:30",
+  "updated": "2026-07-04 18:35:23",
   "count": 13264,
   "items": [
+    {
+      "id": "mkt:019f2cb0-914e-7aab-8c9c-b58195a5eb48",
+      "time": "2026-07-04 18:33:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple Malian military positions attacked】Malian armed forces said on the 4th multiple army positions were attacked in the early morning and that authorities are tracking developments. Positions hit were in the north at Aguelhok, Anefis and Gao, and in the central town of Sevare. The statement gave no details on the attackers, the sequence of events or casualties. Mali has faced persistent insecurity since 2012, with frequent terrorist attacks and armed clashes; the military has said it will continue operations against armed groups."
+    },
     {
       "id": "4970381",
       "time": "2026-07-04 18:29:48",
@@ -122060,14 +122068,6 @@
         "國際"
       ],
       "text": "【俄稱伏爾加格勒市一企業遭襲 已致1死11傷】俄羅斯伏爾加格勒州州長博恰羅夫27日通報稱，烏軍對伏爾加格勒市一企業的襲擊造成1人死亡、仍有1人失蹤。此外，受傷人數上升至11人，其中2人傷勢嚴重。"
-    },
-    {
-      "id": "4958370",
-      "time": "2026-06-27 18:34:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧稱特朗普可能於2027年年初訪問印度】據路透社27日援引印度媒體IANS報道，美國正尋求安排美國總統特朗普於2027年年初訪問印度，同時兩國正就雙邊貿易協議展開談判。美國國務卿魯比奧表示，他本人可能將在今年訪問印度，為特朗普的訪問做準備。在接受IANS採訪時，魯比奧說：“我們正在爭取在明年年初某個時間讓總統訪問印度。”魯比奧還提到，美國希望與印度達成貿易協議，目前“進展非常積極”。報道稱，數月來，印度一直敦促美國安排特朗普訪印。（中新網）"
     }
   ]
 }
