@@ -1,7 +1,18 @@
 {
   "date": "2026-07-04",
-  "count": 613,
+  "count": 614,
   "items": [
+    {
+      "id": "mkt:019f2ddb-9c3a-7aab-8c9d-93b57d737ae3",
+      "time": "2026-07-04 23:59:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry says Ukrainian forces lost as many as 1,350 personnel in one day."
+    },
     {
       "id": "4970526",
       "time": "2026-07-04 23:56:02",

@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-04 23:57:13",
+  "updated": "2026-07-05 00:01:46",
   "count": 13236,
   "items": [
+    {
+      "id": "mkt:019f2ddb-9c3a-7aab-8c9d-93b57d737ae3",
+      "time": "2026-07-04 23:59:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry says Ukrainian forces lost as many as 1,350 personnel in one day."
+    },
     {
       "id": "4970526",
       "time": "2026-07-04 23:56:02",
@@ -121827,14 +121838,6 @@
         "MKT News"
       ],
       "text": "【Venezuela's largest airport partially resumes operations】On the 27th local time, Maiquetía Simón Bolívar International Airport, Venezuela's largest, partially resumed operations and is receiving cargo flights carrying humanitarian aid."
-    },
-    {
-      "id": "4958517",
-      "time": "2026-06-27 23:58:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "據當地媒體27日報道，巴基斯坦卡拉奇一條主要街道當日發生爆炸並傳出槍聲，目前安全部隊已趕往現場。"
     }
   ]
 }
