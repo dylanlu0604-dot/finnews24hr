@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05 03:24:44",
-  "count": 13233,
+  "updated": "2026-07-05 03:28:35",
+  "count": 13232,
   "items": [
     {
       "id": "mkt:019f2e93-7cc4-7aab-8c9f-0d2f49cf6fe2",
@@ -121792,14 +121792,6 @@
         "MKT News"
       ],
       "text": "EMSC reports a magnitude 5.6 earthquake offshore Aragua state, Venezuela."
-    },
-    {
-      "id": "4958591",
-      "time": "2026-06-28 03:26:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心（EMSC）：委內瑞拉阿拉瓜州近海發生5.6級地震。"
     }
   ]
 }
