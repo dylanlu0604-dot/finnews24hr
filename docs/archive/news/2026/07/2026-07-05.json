@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 160,
+  "count": 161,
   "items": [
+    {
+      "id": "mkt:019f2f12-3f95-7aab-8c9f-e9081214a35c",
+      "time": "2026-07-05 05:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Putin invited Trump to visit Russia during a phone call."
+    },
     {
       "id": "4970622",
       "time": "2026-07-05 05:36:59",

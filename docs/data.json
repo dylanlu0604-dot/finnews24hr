@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 05:39:05",
-  "count": 13251,
+  "updated": "2026-07-05 05:43:04",
+  "count": 13248,
   "items": [
+    {
+      "id": "mkt:019f2f12-3f95-7aab-8c9f-e9081214a35c",
+      "time": "2026-07-05 05:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Putin invited Trump to visit Russia during a phone call."
+    },
     {
       "id": "4970622",
       "time": "2026-07-05 05:36:59",
@@ -121921,48 +121929,6 @@
         "其他"
       ],
       "text": "遭腐敗指控後，阿根廷總統辦公室最高負責人努埃爾·阿多爾尼宣佈辭職。"
-    },
-    {
-      "id": "4958620",
-      "time": "2026-06-28 05:42:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國再對伊朗實施軍事打擊】當地時間6月27日，美國已對伊朗實施軍事打擊。（央視新聞）"
-    },
-    {
-      "id": "4958619",
-      "time": "2026-06-28 05:42:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震中國公民遇難人數升至8人】記者從中國駐委內瑞拉使館瞭解到，截至當地時間27日17時，據不完全統計，已確認有8名中國公民在“6·24地震”中遇難。"
-    },
-    {
-      "id": "mkt:019f0b08-1b10-7770-9d1b-b739bcc4107e",
-      "time": "2026-06-28 05:41:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. conducts further military strikes on Iran】On June 27 local time, the U.S. carried out military strikes against Iran."
-    },
-    {
-      "id": "mkt:019f0b06-97fc-7770-9d1b-ad0574bba129",
-      "time": "2026-06-28 05:40:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【U.S. strikes Iran again; explosions reported in Sirik】Iran's Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik area of southwest Iran after multiple shells struck a communications tower. US media Axios, citing US officials, said the U.S. military is striking Iranian targets in the Strait of Hormuz region in response to Iran's Saturday attack on a commercial tanker. Axios said this is the second round of U.S. airstrikes since the signing of a U.S.-Iran memorandum of understanding."
     }
   ]
 }
