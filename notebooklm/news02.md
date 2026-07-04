@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-05 00:36:03_
-_本檔包含 2872 則快訊，約 505603 字_
+_更新時間：2026-07-05 01:41:37_
+_本檔包含 2875 則快訊，約 505294 字_
+
+---
+
+### 2026-07-03 10:37:13  #市場
+
+【多家品牌金飾價格大漲，周生生克價1266元】7月3日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1260元/克，較前一日1230元/克漲30元；周生生報價1266元/克，較前一日1236元/克漲30元；周大福報價1262元/克，較前一日1233元漲29元；老廟黃金報價1261元/克，較前一日1235元/克漲26元。
+
+---
+
+### 2026-07-03 10:36:51  #MKT News #Important #Market Regions #Greater China #02715.HK #Impact bullish #09880.HK #09660.HK
+
+Hong Kong robotics stocks continued to rally: Estun (02715.HK) up over 23%, UBTECH (09880.HK) up over 10%; Horizon Robotics (09660.HK) and Weichuang Robotics (02252.HK) also advanced.
+
+---
+
+### 2026-07-03 10:36:07  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
+
+Shenzhen Composite Index extends gains to 1%.
+
+---
+
+### 2026-07-03 10:35:14  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內漲1%，現報4767.00點。
+
+---
+
+### 2026-07-03 10:35:08  #市場 #焦點
+
+深證成指漲1.01%，現報15654.798點；上證指數漲0.42%，現報4045.770點；創業板指漲1.35%，現報4071.658點。
+
+---
+
+### 2026-07-03 10:34:26  #MKT News #IFX.DE #Impact bullish
+
+【Infineon opens €5bn Dresden Smart Power Fab, world's largest power-semiconductor plant, months early】On July 2 local time, German semiconductor maker Infineon said it has commissioned its Dresden Smart Power Fab, the world's largest power-semiconductor plant, several months ahead of schedule. The project is a €5bn investment, the largest single investment in Infineon's history and among Germany's biggest recent investments.
+
+---
+
+### 2026-07-03 10:34:20  #其他
+
+【投資50億歐元 英飛凌全球最大功率半導體工廠提前投產】當地時間7月2日，德國半導體製造商英飛凌宣佈，正式啟用其位於德國德累斯頓的全球最大功率半導體工廠——Smart Power Fab。，較原計劃提前數月投產。該專案總投資達50億歐元，是英飛凌史上規模最大的單筆投資，也是德國近年來最大的投資專案之一。
+
+---
+
+### 2026-07-03 10:33:21  #MKT News #Important #CSI300 #Impact bearish #SZSE Component
+
+A-share innovative-drug sector reversed after an early spike; Tonghua Jinma hit the daily limit-down, while Xin Ganjiang, Yinuosi, Shuanglu Pharmaceutical, Haisco, Zejing Pharmaceutical and Sansheng Guojian dropped.
+
+---
+
+### 2026-07-03 10:32:38  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Climbs Toward 30-Year High — Japan's 10-year government bond yield climbed toward 2.8% on Friday, approaching its highest level since October 1996 after a weak 10-year JGB auction this week reinforced concerns over rising fiscal spending and increased government borrowing. The bond market has faced sustained selling pressure since the government unveiled a sweeping long-term economic strategy that features significant spending commitments while urging the Bank of Japan to ensure monetary policy supports its growth objectives. Under the plan, Japan aims to mobilize more than ¥370 trillion ($2.29 trillion) in combined public and private investment through fiscal 2040 to bolster key strategic industries. Investors fear the plan could require greater debt issuance, while the Bank of Japan may remain cautious about raising interest rates despite mounting inflationary pressures.
+
+---
+
+### 2026-07-03 10:32:30  #市場 #焦點
+
+紐約期銀突破63美元/盎司，日內漲3.19%。
+
+---
+
+### 2026-07-03 10:32:21  #市場
+
+截至早盤收盤，日經225指數漲0.7%，東證指數漲0.9%。
+
+---
+
+### 2026-07-03 10:31:31  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量2081億元。
+
+---
+
+### 2026-07-03 10:31:25  #公司 #國際
+
+Paytm：Paytm歐洲公司獲授予支付機構牌照，自2026年7月2日起生效。
+
+---
+
+### 2026-07-03 10:29:32  #國際
+
+【國泰航空正計劃陸續恢復中東航線】記者今日從國泰航空處獲悉，國泰航空正在計劃陸續恢復中東航線。其中，旗下國泰貨運計劃8月1日起，恢復往來利雅得的貨機航班。 (財聯社)
+
+---
+
+### 2026-07-03 10:29:07  #Trading Economics #Economy #Vietnam #Inflation Rate #Importance 1
+
+Vietnam Inflation Rate Eases to 4-Month Low — Vietnam’s annual inflation rate eased to 4.69% in June 2026 from 5.60% in the previous month. This marked the lowest reading since February 2025, as price growth moderated in food (4.89% vs 5.03% in May), alcoholic beverages and tobacco (4.21% vs 4.29%), clothing and footwear (2.19% vs 2.37%), housing utilities (7.17% vs 8.19%), transportation (5.29% vs 12.48%), and miscellaneous goods and services (4.08% vs 4.22%). In contrast, costs increased in furnishing and household equipment (3.17% vs 3.12%), health (1.20% vs 1.19%), information and communication (0.13% vs 0.07%), and recreation and culture (3.32% vs 2.91%), while inflation remained steady in education (at 3.39%). On a monthly basis, consumer prices fell 0.39% in May, following a 0.29% gain. Meanwhile, the annual inflation rose by 4.50%, easing from 4.67% in the preceding period.
+
+---
+
+### 2026-07-03 10:28:44  #市場
+
+【創新藥概念震盪回落 通化金馬封跌停】創新藥概念日內震盪回落，通化金馬封跌停，新贛江、益諾思、雙鷺藥業、海思科、澤璟製藥、三生國健均跌超5%。
+
+---
+
+### 2026-07-03 10:28:16  #公司
+
+【華為技術有限公司增資至約411.4億元】天眼查App顯示，7月1日，華為技術有限公司發生工商變更，註冊資本由約410.4億人民幣增至約411.4億人民幣。該公司成立於1987年9月，法定代表人為趙明路，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。
+
+---
+
+### 2026-07-03 10:27:43  #公司 #市場 #國際
+
+【機構：日本可能正在採取新的外匯干預策略】星展集團研究部的Philip Wee在一份評論中表示，日本可能正在採取新的外匯干預策略。該高階外匯策略師指出，有傳言稱日本財務省可能會轉向不公開的隱秘貨幣干預。Wee表示，在今天美國債券和股票市場因獨立日假期而流動性稀薄的情況下，此類干預“可能會加劇波動“。“日本的新策略似乎旨在將市場心理從懷疑轉為謹慎。“
+
+---
+
+### 2026-07-03 10:27:25  #公司 #市場
+
+【帝奧微：原材料價格大幅上漲 公司已根據實際情況調整了產品價格】帝奧微近日接受機構調研時表示，由於晶圓及封裝產能緊張，原材料價格大幅上漲，公司生產成本無可避免亦大幅上升，按目前狀況預期短期內不會有改善空間。為了能繼續支援客戶需求，公司已根據實際情況調整了產品價格。
+
+---
+
+### 2026-07-03 10:27:11  #其他
+
+鎧俠股價漲幅擴大至8.9%。
+
+---
+
+### 2026-07-03 10:26:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share power grid equipment sector strengthened amid choppy trading; Huaming Equipment hit the daily limit-up. Jinzhi Technology, Jinguan Electric, Mingyang Electric, Shenma Power and Siyuan Electric also rose.
+
+---
+
+### 2026-07-03 10:25:01  #市場
+
+【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，金智科技、金冠電氣、明陽電氣、神馬電力、思源電氣跟漲。
+
+---
+
+### 2026-07-03 10:25:00  #Trading Economics #Economy #Vietnam #Industrial Production #Importance 1
+
+Vietnam Industrial Output Climbs to 5-Month High — Vietnam’s industrial production expanded 12.7% year-on-year in June 2026, accelerating from an upwardly revised 10.1% growth in May and marking its strongest increase in five months. The pickup was driven by faster growth across all major sectors, led by electricity and gas supply (16.6% vs. 10.3% in May), manufacturing and processing (12.6% vs. 10.7%), mining and quarrying (8.8% vs. 4.0%), and water supply, waste management, and wastewater treatment (8.7% vs. 6.2%). On a monthly basis, industrial output rose 3.5%, signaling continued strength in the sector. For the first half of 2026, industrial production increased 10.8% compared with the same period a year earlier, highlighting sustained momentum in Vietnam's industrial activity.
 
 ---
 
@@ -17189,125 +17327,5 @@ Quantum Systems在新一輪融資中估值翻了一倍多，達到80億美元。
 ### 2026-07-02 14:48:56  #公司 #國際
 
 印度石油公司將於 2027 年初投產年產能 900 萬噸的努馬利加爾煉油廠。
-
----
-
-### 2026-07-02 14:48:38  #公司 #國際
-
-【印度對涉華PET薄膜啟動反傾銷調查】6月30日，印度商工部發布公告稱，應印度國內企業提交的申請，對原產於或進口自中國、阿聯酋和泰國的厚度100微米以上的PET薄膜‌啟動反傾銷調查。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月1日至2025年12月31日。
-
----
-
-### 2026-07-02 14:48:35  #其他
-
-【天津海事局保障30萬噸級大型散貨船安全進港】7月1日，天津港迎來30萬噸級大型散貨船“中海榮華”輪。在天津海事局全程精準保障下，該輪滿載311070噸西芒杜鐵礦粉，安全靠泊天津南疆S27泊位。（新華社）
-
----
-
-### 2026-07-02 14:46:59  #公司
-
-【中合擔保在上海成立諮詢公司 註冊資本100萬】天眼查App顯示，近日，上海中合明智企業諮詢有限公司成立，法定代表人為王炯，註冊資本100萬人民幣，經營範圍包括企業管理諮詢、企業管理、資訊諮詢服務、企業形象策劃、市場營銷策劃、品牌管理、專案策劃與公關服務等，由中閤中小企業融資擔保股份有限公司全資持股。
-
----
-
-### 2026-07-02 14:46:54  #宏觀 #兩會
-
-【李鴻忠在北京調研縣鄉兩級人大換屆選舉工作】中共中央政治局委員、全國人大常委會副委員長李鴻忠7月2日在北京市調研縣鄉兩級人大換屆選舉工作。他強調，要堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平總書記關於堅持和完善人民代表大會制度的重要思想，全面貫徹落實黨中央決策部署和憲法法律規定，紮實做好縣鄉兩級人大換屆選舉工作，確保選舉工作風清氣正，選舉結果人民滿意，為堅持好、完善好、執行好人民代表大會制度打下堅實基礎。（新華社）
-
----
-
-### 2026-07-02 14:45:54  #公司
-
-【特朗普稱臺積電將擴大投資規模，臺積電不予置評】據臺灣“中央社”7月1日報道，美國總統特朗普1日表示，臺灣正將亞利桑那州興建中的晶圓廠規模擴大一倍，這將有助於在他任期結束前將美國晶片市佔率提高至50%。 據福克斯商業新聞網站報道，特朗普在前往安德魯斯聯合基地前指出：“我們正創造更多就業機會，現今我們的就業人口比我國歷史上任何時候都還要多。這是很棒的事，而且是在這些場所啟用前。” 特朗普稱，這些新晶圓廠將在未來一年內啟用，而且來自臺灣的晶片商，例如產業龍頭臺積電，正加碼投資美國。 他還說：“全球最大企業，實際上就是那家晶片商。而他們正前來，他們正在亞利桑那州建廠，而且他們才宣佈將把規模倍增。在我卸任的時候，我們可能會擁有50%的晶片市場。你知道我們現在擁有多少嗎？什麼都沒有。” 據報道，臺積電對此不予置評。（參考訊息）
-
----
-
-### 2026-07-02 14:45:43  #宏觀
-
-【國家發改委劉剛帶隊赴中國鋼鐵工業協會開展工作調研】為深入瞭解鋼鐵行業發展情況，6月29日，國家發改委價格監測中心副主任劉剛帶隊赴中國鋼鐵工業協會開展工作調研，與鋼鐵工業協會副秘書長、資訊統計部主任刁力，資訊統計部副主任李小川、李保軍等進行座談。雙方結合現階段鋼鐵行業發展新特點，圍繞產業鏈上下游價格走勢、價格指數編制、監測指標最佳化等方面進行了深入交流。
-
----
-
-### 2026-07-02 14:45:10  #其他
-
-法國5月政府預算 -933.1億歐元，前值-696億歐元。
-
----
-
-### 2026-07-02 14:45:08  #其他
-
-【京東方A漲超4% 成交額超450億元】京東方A成交額超450億元，漲超4%，此前一度跌超8%。
-
----
-
-### 2026-07-02 14:43:50  #國際
-
-歐盟外交與安全政策高階代表卡拉斯：將提議制裁更多俄羅斯實體。
-
----
-
-### 2026-07-02 14:43:33  #市場 #焦點
-
-滬深兩市成交額超3.2萬億元，較上日此時縮量2503億元。
-
----
-
-### 2026-07-02 14:43:22  #公司
-
-香港恒生人工智慧指數<.HSAIT>下跌7%，創下2025年4月以來最大單日跌幅。
-
----
-
-### 2026-07-02 14:43:15  #公司 #國際
-
-【受颱風及異常低溫天氣拖累，優衣庫日本6月同店銷售額同比下滑14.1%】迅銷集團7月2日披露的月度資料顯示，2026年6月份，優衣庫日本本土包含線上電商在內的同店銷售額同比下降14.1%，總銷售額同比減少13.7%。優衣庫方面表示，本月業績下滑主要受天氣因素拖累。6月整體氣溫偏低且遭遇颱風等異常天氣，嚴重抑制了消費者對夏季單品的需求，這一負面影響在6月下半月尤為明顯。
-
----
-
-### 2026-07-02 14:43:07  #市場
-
-【中老鐵路進出口貨值突破900億元】記者從昆明海關獲悉，中老鐵路開通運營以來（截至6月30日），進出口貨值達902.8億元，國際貨物列車累計開行超2.2萬列。今年上半年，經中老鐵路進出口貨值171.6億元，同比增長33.7%。“黃金大通道”作用持續凸顯，區域互聯互通水平穩步提升。（央視新聞）
-
----
-
-### 2026-07-02 14:42:42  #市場 #焦點
-
-上證指數跌2.00%，現報4030.193點；深證成指跌3.89%，現報15491.593點；創業板指跌5.85%，現報4011.664點。
-
----
-
-### 2026-07-02 14:42:38  #市場
-
-SK海力士股價下跌15%，收於218.7萬韓元。
-
----
-
-### 2026-07-02 14:42:33  #其他
-
-【擴大消費“十五五”規劃，將於近期釋出】記者獲悉，擴大消費“十五五”規劃將於近期釋出。蘇商銀行特約研究員付一夫在接受記者採訪時表示，過往歷次五年規劃中，消費相關部署均依附於總體規劃或擴大內需綱要，屬於配套性、階段性安排。將要推出的擴大消費“十五五”規劃，是我國首份專門針對擴大消費制定的國家級五年專項規劃，標誌著國內消費發展頂層設計實現突破性升級。付一夫說，此次推出擴大消費專項規劃，有望從短期穩增長、中期擴內需、長期暢迴圈三個維度，為國民經濟平穩健康發展提供關鍵性支撐。未來五年，國內消費市場將迎來全方位、結構性變革，為我國建設消費強國、夯實經濟內生動力築牢堅實根基。（中證報）
-
----
-
-### 2026-07-02 14:41:52  #國際
-
-【萬斯稱美對伊軍事行動成果相當可觀】美國副總統萬斯在6月30日播出的一檔播客節目中稱，從石油運輸的角度看，霍爾木茲海峽目前已開放，石油運輸量有所增加，“有幾天實際上比戰爭開始前還要多”。萬斯還說，美國在對伊朗的軍事行動中已取得相當可觀的軍事成果，美國可以選擇與伊朗達成長期協議，但前提是伊朗做出重大改變，此外，美國也可以選擇在鞏固現有的成果後再對伊朗採取進一步行動，但這取決於美國總統特朗普的想法。（CCTV國際時訊）
-
----
-
-### 2026-07-02 14:40:05  #Trading Economics #Economy #Romania #Producer Prices Change #Importance 1
-
-Romania Producer Inflation Hits Over 3-Year High — Romania’s annual producer inflation climbed 12.05% year-on-year in May 2026, following an upwardly revised 10.34% rise in the previous month, marking the highest reading since April 2023. Prices accelerated in the manufacturing sector (8.89% vs 8.29% in April), driven by faster inflation in beverages; tobacco; textiles; wearing apparel; chemicals and chemical products; basic pharmaceutical products and pharmaceutical preparations; rubber and plastic products; other non-metallic mineral products; basic metals; motor vehicles, trailers and semi-trailers; and furniture. Additionally, costs increased faster in mining and quarrying (7.79% vs 4.31%) and electricity, gas, steam, and air-conditioning supply (21.33% vs 16.35%), while prices edged up in water supply, sewerage, waste management, and remediation activities (13.74% vs 13.52%). On a monthly basis, producer prices rose 1.41% in May 2026, easing slightly from 1.70% in the previous month.
-
----
-
-### 2026-07-02 14:39:52  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Muted at Finish — The ASX 200 closed little changed at 8,724 on Thursday after trading lower in early deals, with gains in consumer services, healthcare, and financials countered by losses in retail trade, logistics, and energy minerals. Traders weighed Australia’s May trade data, which unexpectedly showed a deficit as exports fell while imports rose. Markets also pared back expectations for further rate hikes in Australia as easing inflation risks followed the de-escalation of Middle East tensions and the reopening of the Strait of Hormuz. Meanwhile, U.S. stock futures were mainly lower after a weak lead from Wall Street Wednesday, ahead of the key nonfarm payrolls release. Northern Star Resources jumped 5.3% after naming a new CEO and posting preliminary annual gold sales that met revised guidance. Meanwhile, the four big banks rose between 0.4% and 3.5%. On the downside, laggards included SGH Ltd. (-4.6%), Westfarmers Ltd. (-4.4%), Reece Ltd. (-3.3%), and Coles (-1.8%).
-
----
-
-### 2026-07-02 14:37:24  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Rebounds on China Supply Restrictions — Iron ore futures climbed above CNY 740 per ton, recovering from one-year lows after China’s state-backed buyer moved to restrict deliveries of certain Fortescue products to selected domestic steel mills, tightening supply in the world’s largest market for the steelmaking raw material. According to reports, the China Mineral Resources Group instructed mills and traders holding Fortescue’s Super Special Fines to take delivery before July 15, after which the blast furnace feedstock would be blacklisted. If enforced, the measure would mark a significant escalation in the dispute between the two sides, as negotiations over long-term supply contracts between the Australian miner and CMRG remain deadlocked. Meanwhile, iron ore prices had come under pressure in recent weeks due to ample global supply and weakening demand from the steel sector.
 
 ---

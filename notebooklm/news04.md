@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 00:36:03_
-_本檔包含 2447 則快訊，約 505311 字_
+_更新時間：2026-07-05 01:41:37_
+_本檔包含 2459 則快訊，約 505438 字_
+
+---
+
+### 2026-07-01 17:15:12  #公司 #市場
+
+【上期能源：對部分客戶採取限制開倉監管措施】7月1日，上海國際能源交易中心釋出關於對部分客戶採取限制開倉監管措施的公告。公告顯示，2026年7月1日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。
+
+---
+
+### 2026-07-01 17:15:03  #市場
+
+標普全球市場情報表示，巴林五年期信貸違約掉期較週二收盤上漲5個基點，報246個基點。
+
+---
+
+### 2026-07-01 17:15:00  #市場 #國際
+
+市場擔憂伊朗和平協議相關風險升溫，阿聯酋主權債券下跌 1 美分，沙特主權債券同步走弱。
+
+---
+
+### 2026-07-01 17:14:58  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 1
+
+Cyprus Retail Trade Growth Accelerates — Retail sales in Cyprus rose 7.5% year-on-year in May 2026, accelerating from 2.9% in April and marking the strongest growth in four months. Clothing and footwear recorded the largest increase, with sales surging 19.4% after a 3.8% rise in April. Growth also strengthened for food in specialised stores, which increased 1.2% after a 3.3% drop, supermarkets (7.4% vs. 2.4%), household equipment (13.3% vs. 11.7%), cultural and recreational goods (11.3% vs. 11.2%), and pharmaceuticals (4.0% vs. 1.8%). Meanwhile, sales growth eased slightly for information and communication equipment (17.6% vs. 17.7%), while sales of flowers, plants, watches, jewellery, and second-hand goods fell 2.1% after rising 8.2%. Automotive fuel sales remained in decline (-3.8% vs. -3.6%). In the first five months of 2026, retail sales increased 5.9% compared with the same period a year earlier.
+
+---
+
+### 2026-07-01 17:14:37  #公司
+
+【鴻特科技：實控人及部分董高擬6個月內增持不低於1200萬元股份】鴻特科技公告稱，公司實際控制人、董事兼總裁盧宇軒，董事、常務副總裁兼董事會秘書黃平，財務總監朱龍華擬自公告披露之日起6個月內，以集中競價交易方式增持公司股份，合計增持金額不低於1200萬元。其中，盧宇軒不低於1000萬元，黃平不低於160萬元，朱龍華不低於40萬元。本次增持不設價格區間，資金源於自有或自籌。增持計劃可能因市場或政策因素無法實施，公司將及時披露進展。
+
+---
+
+### 2026-07-01 17:14:31  #公司
+
+【萬集科技：原持股5%以上股東崔學軍減持計劃實施完畢】萬集科技公告稱，原持股5%以上股東、離任監事崔學軍於2026年4月1日至6月30日，以集中競價方式減持646,200股，佔總股本0.30%，減持均價23.02元/股。減持後，崔學軍持股降至10,030,914股，佔比4.71%，不再是持股5%以上股東。本次減持符合相關規定，不會導致公司控制權變化，不影響公司治理結構及持續經營。
+
+---
+
+### 2026-07-01 17:13:40  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #1211.HK #Impact bullish
+
+【Sichuan governor Shi Xiaolin meets BYD chairman Wang Chuanfu】Sichuan Governor Shi Xiaolin met BYD Chairman Wang Chuanfu in Chengdu on July 1. They discussed stepping up BYD’s investment in Sichuan under the province’s 15th Five-Year development plan, including expanding existing project production lines, scaling capacity and increasing openness. The parties agreed to promote pilot deployment of rapid-charging technologies, explore integrated new-energy storage and computing–power models, and cultivate automotive aftermarket value-added services, framing cooperation within national policy guidance and market-based logic to support high-quality regional industrial development.
+
+---
+
+### 2026-07-01 17:13:38  #公司
+
+【元力股份：擬透過發行股份及支付現金方式收購福建同晟新材料科技股份公司100%股權】元力股份公告，公司擬透過發行股份及支付現金方式收購福建同晟新材料科技股份公司100%股權。公司於2026年6月30日收到深交所通知，因本次交易申請檔案中記載的評估資料已過有效期，需要補充提交，深交所對公司本次交易中止稽核。根據北京中鋒資產評估有限責任公司出具的資產評估報告，公司本次交易申請檔案中資產評估報告的評估基準日為2025年6月30日，評估結論的使用有效期為一年。由於本次交易申請檔案中記載的評估資料已過有效期，需要補充提交，深交所按照《深圳證券交易所上市公司重大資產重組稽核規則》的相關規定對公司本次交易中止稽核。
+
+---
+
+### 2026-07-01 17:13:11  #公司
+
+【用友網路：擬0元轉讓2250.96萬元產業投資基金份額】用友網路公告稱，6月30日，公司與高成華松簽署協議，擬0元轉讓尚未實繳的2250.9557萬元高成基金份額。此前，公司已0元轉讓3500萬元高成基金份額。轉讓完成後，公司持有高成基金份額4249.0443萬元。此次交易無需董事會和股東會審議，不涉及關聯交易和重大資產重組，已獲高成普通合夥人同意，有利於公司最佳化投資結構，聚焦主業。
+
+---
+
+### 2026-07-01 17:12:39  #MKT News #NKE.N #Impact bearish
+
+Telsey Advisory cuts Nike (NKE.N) PT to $47 from $55.
+
+---
+
+### 2026-07-01 17:12:37  #MKT News
+
+【China domestic fuel surcharge sharply cut from July 5】9 Air said it will lower domestic fuel surcharges effective July 5 (ticketing date). For routes over 800 km the surcharge will be 100 yuan per passenger (down 50 yuan); for routes up to and including 800 km it will be 50 yuan (down 30 yuan). The airline noted the cuts follow consecutive increases in April and May and a smaller reduction on June 5 (down 20/10 yuan) and attributed the move to falling jet fuel prices.
+
+---
+
+### 2026-07-01 17:12:31  #其他
+
+【國內航線燃油附加費7月5日起大幅下調】九元航空今日釋出通知，自2026年7月5日（出票日期）起，下調國內航線燃油附加費。其中800公里以上航線每位旅客收取100元，800公里（含）以下航線每位旅客收取50元。相較於調整前分別降低50元/30元。今年四月和五月，國內燃油附加費連續大幅上調，6月5日開始下調20元/10元，隨著燃油價格的下滑，7月的燃油附加費下調幅度更大。（一財）
+
+---
+
+### 2026-07-01 17:12:28  #公司
+
+【四川省省長施小琳會見比亞迪公司董事長兼總裁王傳福】四川日報訊息，7月1日，四川省委副書記、省長施小琳在成都會見比亞迪股份有限公司董事長兼總裁王傳福一行，感謝比亞迪公司對四川發展的支援。雙方圍繞落實“十五五”發展部署，把握汽車產業智慧化綠色化轉型趨勢，持續加大在川投資力度，聯動促進已有合作專案拓展產線佈局、擴大產能規模、提升開放水平和發展能級，加強閃充等新技術新場景應用試點推廣，探索新型儲能與算電融合發展路徑模式，培育壯大汽車後市場增值服務消費，按照國家整體部署和市場化邏輯，在推動高質量發展中搶抓機遇交換了意見、商討了合作重點。
+
+---
+
+### 2026-07-01 17:12:26  #公司 #國際
+
+【亞馬遜豪擲68億元加碼A】當地時間6月30日，美國科技巨頭亞馬遜公司旗下的雲端計算服務平臺亞馬遜雲科技宣佈，將投入10億美元（約合68億元人民幣）設立全新的人工智慧部門，專門協助客戶搭建並落地人工智慧系統。亞馬遜雲科技方面表示，預計將配置數千名前線部署工程師，相關團隊將與客戶業務、研發、安全部門深度協作，僅需數週，就能幫助客戶搭建可自主運維的技術團隊，交付完整AI解決方案。外媒報道稱，亞馬遜雲科技是全球營收規模第一的雲服務商，也是首家推出該類駐場工程師專項業務的超大規模雲廠商。 （央視財經）
+
+---
+
+### 2026-07-01 17:12:02  #公司 #國際
+
+達索航空執行長表示，空客要求其退出歐洲無人機專案，達索不同意，相關討論正在進行中。
+
+---
+
+### 2026-07-01 17:11:55  #其他
+
+【深藍汽車6月全球銷量33625輛】7月1日，深藍汽車釋出最新銷量資料，6月全球銷量33625輛，同比增長12.5%，連續4個月超3萬輛。上半年，深藍汽車全球累計銷量164156輛，同比增長14.6%；其中海外累計銷量35795輛，同比增長141%。
+
+---
+
+### 2026-07-01 17:11:51  #公司
+
+【用友網路：擬將持有的2250.96萬元基金份額轉讓給高成華松，轉讓價格為0元】用友網路公告，計劃將持有的高成行至（北京）股權投資合夥企業（有限合夥）未實繳的2250.96萬元基金份額轉讓給三亞高成華松投資合夥企業（有限合夥），轉讓價格為0元。上述財產份額轉讓完成後，公司持有高成基金份額4249.04萬元基金份額。
+
+---
+
+### 2026-07-01 17:11:44  #其他
+
+英國海上貿易行動辦公室：一艘船舶正遭多艘小型船隻接近，這些船隻上有數名船員攜帶輕型武器。船員報告安全。
+
+---
+
+### 2026-07-01 17:11:30  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #Brent
+
+【Eurozone inflation cools more than expected as oil falls on Middle East peace efforts】Eurozone consumer inflation cooled more than expected in June as global energy prices eased amid Middle East peace efforts. Eurostat said June CPI rose 2.8% YoY, down from 3.2% in May and below a Bloomberg median of 3.0%. Core inflation, excluding food and energy, declined more than expected and services inflation eased to 3.2%. The ECB is assessing whether last month’s rate hike will be sufficient to counter inflationary pressure stemming from the US‑Iran conflict. June readings for the euro area’s three largest economies all missed forecasts; France’s inflation fell to the ECB’s 2.0% target.
 
 ---
 
@@ -14731,47 +14845,5 @@ Belgium Producer Inflation Accelerates — Belgium's producer prices rose 9.7% y
 ### 2026-06-30 17:32:38  #Trading Economics #Economy #Croatia #Industrial Production #Importance 1
 
 Croatia Industrial Output Decline Slows — Croatia's industrial production fell 1.1% year-on-year in May 2026, easing from a 2.1% decline in April. Mining and quarrying contracted 5.0%, following a 0.7% drop a month earlier. Manufacturing output declined 2.4% after falling 1.5%, weighed down by sharper declines in clothing (-16.6% vs -14.2%), paper products (-9.9% vs -5.1%), computers, electronic and optical products (-21.1% vs -3.3%), furniture (-10.0% vs -9.5%), and other transport equipment (-33.1% vs -28.3%). In contrast, electricity, gas, steam and air conditioning supply rebounded 0.9%, following an 11.3% decline in April. On a seasonally adjusted monthly basis, industrial production fell 2.0% in May, extending April's 0.6% decline.
-
----
-
-### 2026-06-30 17:32:11  #Trading Economics #Economy #Spain #Current Account #Importance 1
-
-Spain Current Account Surplus Narrows in April — Spain's current account surplus narrowed to EUR 1.88 billion in April 2026, from EUR 2.46 billion in the same month last year. The primary and secondary income deficit widened to EUR 5 billion from EUR 3.80 billion. On the other hand, the balance of goods and services recorded a EUR 6.89 billion surplus, rising 10.1% from EUR 6.25 billion a year earlier. Within this category, tourism revenues were EUR 9.27 million, an increase from EUR 8.52 million a year earlier.
-
----
-
-### 2026-06-30 17:21:14  #Trading Economics #Economy #Malta #Producer Prices Change #Importance 1
-
-Malta Producer Inflation Highest since Oct 2023 — Producer prices in Malta rose 1.4% year-on-year in May 2026, the highest since October 2023, following a 0.9% increase in April. Inflation accelerated for capital goods (5.1% vs 3.2% in April), and intermediate goods (2.9% vs 2%). On the other hand, a decline of 0.6% was registered in consumer goods. No price change occurred in the energy sector. Non-domestic prices increased by 1.9%. The prices of goods destined for the Euro Area went up by 3.5%, while those destined for the non-Euro Area increased by 0.6%. On a monthly basis, producer prices increased 0.2%.
-
----
-
-### 2026-06-30 17:19:36  #Trading Economics #Economy #Bosnia and Herzegovina #GDP Annual Growth Rate #Importance 1
-
-Bosnia and Herzegovina GDP Growth Edges Up in Q1 — Bosnia and Herzegovina's economy expanded by 2.2% year-on-year in the first quarter of 2026, slightly accelerating from a 2.1% increase in the previous quarter. Growth was driven by stronger activity in wholesale and retail trade, transportation, accommodation and food services (6.4% vs. 4.7% in Q4), construction (3.5% vs. 3.3%), and agriculture (0.4% vs. 0.3%). Meanwhile, mining and quarrying, manufacturing, and electricity, gas, steam and air conditioning supply contracted further (-4.4% vs. -4.2%). On the expenditure side, final consumption expenditure increased at a faster pace (2.9% vs. 2.4%), supported by steady household spending (3.2% vs. 3.2%). However, growth in government consumption (1.8% vs. 2.7%) and gross capital formation (1.5% vs. 8.5%) slowed. On a seasonally adjusted quarterly basis, the economy grew 0.7%, from a 0.6% growth in the previous quarter.
-
----
-
-### 2026-06-30 17:18:54  #Trading Economics #Economy #Croatia #Retail Sales YoY #Importance 1
-
-Croatia Retail Sales Growth Eases to Over 3-Year Low — Retail sales in Croatia rose by 0.5% year-on-year in May 2026, easing from a 2.0% increase in the previous month, marking the softest growth since March 2023. Sales growth moderated for food, beverages, and tobacco (1.9% vs 2.6% in April). Additionally, activity recorded a flat reading for non-food products excluding automotive fuels and lubricants (vs 2.8%). On the other hand, sales declined at a softer pace for automotive fuels and lubricants (-11.8% vs -15.1%), while retail sales via the internet or mail order recovered (3.6% vs -3.6%). On a monthly basis, retail trade declined by 2.0% in May, following a 0.2% drop in the preceding period. For the January–May period, retail activity increased by 2.3% compared with the same period a year earlier.
-
----
-
-### 2026-06-30 17:17:07  #Trading Economics #Economy #Greece #Producer Prices Change #Importance 1
-
-Greece Producer Inflation Holds at Over 3-Year High — Producer prices in Greece climbed 13.5% year-on-year in May 2026, following a 12.8% rise in the previous month and marking the highest reading since January 2023. Price growth accelerated across several categories, including intermediate goods (6.1% vs. 5.0% in April), capital goods (3.4% vs. 3.0%), durable consumer goods (2.1% vs. 1.5%), and energy (26.4% vs. 24.9%). Meanwhile, inflation for non-durable consumer goods eased slightly to 1.6% from 1.8%. On a monthly basis, producer prices declined 0.9% in May, reversing a 1.2% increase recorded in the previous period.
-
----
-
-### 2026-06-30 17:15:43  #Trading Economics #Economy #Montenegro #Tourist Arrivals #Importance 1
-
-Montenegro Tourist Arrivals Rise 0.3% in May — The number of tourist arrivals in Montenegro rose by 0.3% year-on-year to 169,877 in May 2026, rebounding from an 8.4% decline in the previous month. Foreign visitors remained the primary source of arrivals, accounting for 87.4% of the total, or 148,388 arrivals, while domestic arrivals represented 12.6%, or 21,489. Among foreign tourists, Europe continued to be the largest source region, contributing 78.8% of arrivals, led by Serbia, Germany, and France. Outside Europe, the highest numbers of arrivals came from Israel, the United States, and China (including Hong Kong). By type of accommodation, seaside resorts remained the most popular destination, accounting for 79.5% of arrivals, followed by the capital region (12.4%) and mountain resorts (4.8%). Meanwhile, overnight stays in collective accommodation totaled 506,256, with foreign visitors accounting for 86.3% of stays and domestic tourists making up the remaining 13.7%.
-
----
-
-### 2026-06-30 17:15:31  #Trading Economics #Economy #Cyprus #Current Account #Importance 1
-
-Cyprus Current Account Deficit Widens in Q1 2026 — Cyprus’ current account deficit widened to €1.27 billion in Q1 2026, up from €1.01 billion in the same period last year. The goods deficit was virtually unchanged at €1.58 billion, while the services surplus narrowed to €1.25 billion from €1.47 billion. The primary income gap slightly decreased to €0.78 billion from €0.83 billion, and the secondary income deficit rose to €0.17 billion from €0.07 billion.
 
 ---

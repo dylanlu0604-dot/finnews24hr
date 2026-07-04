@@ -1,13 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 00:36:03_
-_本檔包含 2377 則快訊，約 505684 字_
+_更新時間：2026-07-05 01:41:37_
+_本檔包含 2386 則快訊，約 505792 字_
+
+---
+
+### 2026-07-05 01:35:46  #MKT News
+
+Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon.
+
+---
+
+### 2026-07-05 01:35:43  #市場
+
+比特幣重回63000美元關口。
+
+---
+
+### 2026-07-05 01:34:59  #國際
+
+以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。
+
+---
+
+### 2026-07-05 01:34:42  #國際
+
+以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。
+
+---
+
+### 2026-07-05 01:17:36  #國際
+
+【數百名疑似白人至上組織愛國者陣線成員在華盛頓遊行】數百名身著統一制服、疑似白人至上主義組織 “愛國者陣線” 的成員在華盛頓特區遊行，朝著國會大廈行進。這群男子全都戴著白色面罩，手持各式旗幟 —— 部分旗幟倒置，還有邦聯旗幟，同時高喊口號：“奪回美國！”
+
+---
+
+### 2026-07-05 01:14:48  #MKT News
+
+【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time.
+
+---
+
+### 2026-07-05 01:13:03  #MKT News
+
+【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan.
+
+---
+
+### 2026-07-05 01:11:13  #MKT News
+
+A US official said several senior aides to Trump believe Netanyahu has misjudged every issue.
+
+---
+
+### 2026-07-05 01:10:15  #MKT News
+
+U.S. President Trump said he was surprised Iranians were crying at Khamenei's funeral because he had expected people to dislike him, and suggested the displays might be fake tears.
+
+---
+
+### 2026-07-05 01:05:47  #公司
+
+【若伯納姆出任英國首相 米利班德的去向或成定義其執政路線的關鍵】隨著安迪·伯納姆權衡，一旦出任英國首相將如何任命核心團隊，一項頗具爭議的決定可能會定義他的任期：埃德·米利班德將擔任怎樣的角色。米利班德曾任工黨領袖，工黨在他帶領下於2015年敗選，如今在基爾·斯塔默政府中擔任頗具影響力的能源大臣。他在推動伯納姆逼近權力頂峰的過程中發揮了關鍵作用，協助促成斯塔默出局，並就經濟政策向這位可能的繼任者提供建議。這使米利班德成為博彩公司眼中接替蕾切爾·裡夫斯出任英國財政大臣的頭號熱門，也引發投資者不安。他們擔心，米利班德會推動政府向左轉，並增加借貸規模。此外，許多工黨議員也擔心，把政府中權力第二大的職位交給一位曾帶領工黨敗選、且與淨零政策聯絡緊密的人，可能帶來政治後果，而這些淨零政策已在一定程度上促使部分選民轉向英國改革黨。埃克塞特大學政治經濟學教授Harry Pitts表示，任命米利班德將被視為爭取左翼選民、而非民粹右翼選民的一項戰略舉措。“這是一個關鍵決定，”他說，“最終可能會成為外界定義伯納姆整體路線的關鍵。”
+
+---
+
+### 2026-07-05 01:02:14  #MKT News #Important
+
+【Iran envoy in Beijing says Tehran will charge Strait of Hormuz transit service fees under international norms】Abdolreza Rahmani Fazli told media in Beijing during the World Peace Forum that Iran plans to levy service fees for Strait of Hormuz transit in line with international practice. He said transit had been unimpeded prior to the outbreak of hostilities involving the US, Israel and Iran; Tehran has not announced tariffs but intends fees to cover navigation safety, pilotage and environmental protection costs, consistent with other international waterways. Fazli added the strait's traffic is gradually returning to normal and the Iran‑Oman jointly managed channel is restoring order.
+
+---
+
+### 2026-07-05 01:01:35  #國際
+
+特朗普政府為數百萬18歲以下美國兒童推出新型投資賬戶：符合條件的新生兒可一次性獲得1000美元聯邦撥款，同時家庭與企業僱主可後續持續追加存入資金。
+
+---
+
+### 2026-07-05 01:00:41  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks.
+
+---
+
+### 2026-07-05 00:59:47  #國際
+
+在伊朗領袖哈梅內伊的葬禮現場，出現一塊手寫標語牌，上面寫著： “我們要殺死特朗普。”
+
+---
+
+### 2026-07-05 00:59:05  #國際
+
+美方一名官員透露： 特朗普身邊多位核心幕僚都認為，內塔尼亞胡在所有事務上都判斷失誤。
+
+---
+
+### 2026-07-05 00:58:31  #國際
+
+特朗普稱伊朗正“迫切想要達成協議”，但雙方商定暫停核談判一週，待哈梅內伊葬禮相關事宜全部結束後再重啟。 他補充表示，休談期間雙方不會互相發動襲擊。
+
+---
+
+### 2026-07-05 00:58:12  #MKT News
+
+Iran said it thanked national delegations for resisting external "pressure and intimidation" and attending the funeral of Supreme Leader Khamenei.
+
+---
+
+### 2026-07-05 00:57:39  #焦點 #國際
+
+【伊朗駐華大使：計劃按國際通行標準對霍爾木茲海峽通航收服務費】伊朗駐華大使阿卜杜勒雷扎·拉赫馬尼·法茲裡4日在北京出席第十四屆世界和平論壇期間接受媒體採訪時表示，伊朗計劃按照國際通行標準對霍爾木茲海峽通航收取服務費。法茲裡表示，在美以伊戰爭爆發前，霍爾木茲海峽通航一直暢通無阻。目前，伊朗也沒有說要收(通行)費或關稅，而是計劃按照國際通行標準收取服務費，用於保障通航安全、導航以及環境保護等常規開支，此舉與世界上其他水道的做法一致。關於霍爾木茲海峽當前狀況，法茲裡說，目前該海峽通航正逐步恢復正常，伊朗與阿曼共同管理的通道正在重建秩序。
+
+---
+
+### 2026-07-05 00:56:38  #國際
+
+伊朗感謝各國代表團不懼“施壓與恐嚇”，出席領袖哈梅內伊的葬禮。
+
+---
+
+### 2026-07-05 00:54:01  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
+
+Trump: US and Iran have agreed to pause talks for one week. Until matters related to Khamenei's funeral conclude, the US and Iran will not fire on each other.
+
+---
+
+### 2026-07-05 00:52:21  #焦點 #國際
+
+特朗普：哈梅內伊葬禮相關事宜結束前，美伊雙方互不交火。
+
+---
+
+### 2026-07-05 00:51:58  #國際
+
+特朗普：美國和伊朗決定暫停會談一週。
+
+---
+
+### 2026-07-05 00:51:25  #MKT News #Important
+
+【Netanyahu may visit White House after NATO summit, Trump says】Axios reports President Trump said Israeli Prime Minister Netanyahu has requested a White House meeting, possibly as soon as next week after Trump finishes the NATO summit. Trump said “we get along well” and that Netanyahu “knows who’s boss.”
+
+---
+
+### 2026-07-05 00:49:34  #國際
+
+市場資訊：特朗普對部分伊朗民眾在哈梅內伊葬禮上落淚一事感到意外。
+
+---
+
+### 2026-07-05 00:48:56  #MKT News #Market Regions #Europe & UK
+
+RUSSIAN DEFENCE MINISTRY said Russia proposed a six-hour ceasefire in Konstantinovka on Monday to facilitate transfer of bodies and expects Ukraine to respond by Sunday midday.
+
+---
+
+### 2026-07-05 00:48:40  #焦點 #國際
+
+【內塔尼亞胡擬造訪白宮，特朗普稱其“清楚誰才是主事之人”】特朗普週六接受採訪時透露，以色列總理內塔尼亞胡主動請求前往白宮與他會晤；特朗普出席北約峰會歸國後，雙方最早下週便可會面。特朗普表示：“我們相處得很不錯，內塔尼亞胡心裡清楚誰才是主事的人。”
+
+---
+
+### 2026-07-05 00:47:47  #國際
+
+特朗普：內塔尼亞胡“知道誰才是老大”。
+
+---
+
+### 2026-07-05 00:47:19  #MKT News #Important #Market Themes #The Trump Trade
+
+Trump and Netanyahu could meet as early as next week.
+
+---
+
+### 2026-07-05 00:46:20  #焦點 #國際
+
+特朗普與內塔尼亞胡或最早於下週舉行會晤。
+
+---
+
+### 2026-07-05 00:46:12  #MKT News
+
+Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action.
+
+---
+
+### 2026-07-05 00:39:48  #MKT News
+
+TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision.
 
 ---
 
 ### 2026-07-05 00:30:50  #其他
 
 市場資訊：金融資料企業基本打消了市場對於人工智慧工具將取代自身的擔憂。如今投資者關心的是，當人工智慧智慧體消耗的資料量遠超人類分析師時，誰來承擔資料呼叫的計費成本。
+
+---
+
+### 2026-07-05 00:30:16  #MKT News
+
+【European Parliament proposes deregistering EU group affiliated with German far-right Choice party】The European Parliament is considering a proposal that could strip the EU parliamentary group led by Germany's far-right Choice party, "Sovereign States of Europe," of its registration and EU funding for alleged breaches of EU core values.
 
 ---
 
@@ -14192,143 +14384,5 @@ German Research Centre for Geosciences (GFZ) reported a magnitude 6.3 earthquake
 ### 2026-07-03 10:37:19  #其他
 
 【鄭州、濟南、青島社保卡將實現互通】從鄭州市人力資源和社會保障局獲悉，鄭州、濟南、青島三市人社部門日前共同簽署《濟青鄭三城聯動社保領域協同發展合作協議》，並聯合發布全國首個跨兩省三市《社會保障卡居民服務“一卡通”應用目錄》，落地20餘項社保便民服務清單，標誌著社保卡服務從“一卡通用”跨入“三城互通”新階段。在三市聯合釋出的社保卡居民服務“一卡通”應用目錄中，共涉及人社、醫保、交通、文旅、政務惠民、金融等六大領域26個應用場景。今後，三市居民持實體社保卡或電子社保卡，可實現暢通辦理就醫結算、公交地鐵、景區入園、圖書借閱、便民繳費等各類民生業務。
-
----
-
-### 2026-07-03 10:37:13  #市場
-
-【多家品牌金飾價格大漲，周生生克價1266元】7月3日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1260元/克，較前一日1230元/克漲30元；周生生報價1266元/克，較前一日1236元/克漲30元；周大福報價1262元/克，較前一日1233元漲29元；老廟黃金報價1261元/克，較前一日1235元/克漲26元。
-
----
-
-### 2026-07-03 10:36:51  #MKT News #Important #Market Regions #Greater China #02715.HK #Impact bullish #09880.HK #09660.HK
-
-Hong Kong robotics stocks continued to rally: Estun (02715.HK) up over 23%, UBTECH (09880.HK) up over 10%; Horizon Robotics (09660.HK) and Weichuang Robotics (02252.HK) also advanced.
-
----
-
-### 2026-07-03 10:36:07  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
-
-Shenzhen Composite Index extends gains to 1%.
-
----
-
-### 2026-07-03 10:35:14  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內漲1%，現報4767.00點。
-
----
-
-### 2026-07-03 10:35:08  #市場 #焦點
-
-深證成指漲1.01%，現報15654.798點；上證指數漲0.42%，現報4045.770點；創業板指漲1.35%，現報4071.658點。
-
----
-
-### 2026-07-03 10:34:26  #MKT News #IFX.DE #Impact bullish
-
-【Infineon opens €5bn Dresden Smart Power Fab, world's largest power-semiconductor plant, months early】On July 2 local time, German semiconductor maker Infineon said it has commissioned its Dresden Smart Power Fab, the world's largest power-semiconductor plant, several months ahead of schedule. The project is a €5bn investment, the largest single investment in Infineon's history and among Germany's biggest recent investments.
-
----
-
-### 2026-07-03 10:34:20  #其他
-
-【投資50億歐元 英飛凌全球最大功率半導體工廠提前投產】當地時間7月2日，德國半導體製造商英飛凌宣佈，正式啟用其位於德國德累斯頓的全球最大功率半導體工廠——Smart Power Fab。，較原計劃提前數月投產。該專案總投資達50億歐元，是英飛凌史上規模最大的單筆投資，也是德國近年來最大的投資專案之一。
-
----
-
-### 2026-07-03 10:33:21  #MKT News #Important #CSI300 #Impact bearish #SZSE Component
-
-A-share innovative-drug sector reversed after an early spike; Tonghua Jinma hit the daily limit-down, while Xin Ganjiang, Yinuosi, Shuanglu Pharmaceutical, Haisco, Zejing Pharmaceutical and Sansheng Guojian dropped.
-
----
-
-### 2026-07-03 10:32:38  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Climbs Toward 30-Year High — Japan's 10-year government bond yield climbed toward 2.8% on Friday, approaching its highest level since October 1996 after a weak 10-year JGB auction this week reinforced concerns over rising fiscal spending and increased government borrowing. The bond market has faced sustained selling pressure since the government unveiled a sweeping long-term economic strategy that features significant spending commitments while urging the Bank of Japan to ensure monetary policy supports its growth objectives. Under the plan, Japan aims to mobilize more than ¥370 trillion ($2.29 trillion) in combined public and private investment through fiscal 2040 to bolster key strategic industries. Investors fear the plan could require greater debt issuance, while the Bank of Japan may remain cautious about raising interest rates despite mounting inflationary pressures.
-
----
-
-### 2026-07-03 10:32:30  #市場 #焦點
-
-紐約期銀突破63美元/盎司，日內漲3.19%。
-
----
-
-### 2026-07-03 10:32:21  #市場
-
-截至早盤收盤，日經225指數漲0.7%，東證指數漲0.9%。
-
----
-
-### 2026-07-03 10:31:31  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量2081億元。
-
----
-
-### 2026-07-03 10:31:25  #公司 #國際
-
-Paytm：Paytm歐洲公司獲授予支付機構牌照，自2026年7月2日起生效。
-
----
-
-### 2026-07-03 10:29:32  #國際
-
-【國泰航空正計劃陸續恢復中東航線】記者今日從國泰航空處獲悉，國泰航空正在計劃陸續恢復中東航線。其中，旗下國泰貨運計劃8月1日起，恢復往來利雅得的貨機航班。 (財聯社)
-
----
-
-### 2026-07-03 10:29:07  #Trading Economics #Economy #Vietnam #Inflation Rate #Importance 1
-
-Vietnam Inflation Rate Eases to 4-Month Low — Vietnam’s annual inflation rate eased to 4.69% in June 2026 from 5.60% in the previous month. This marked the lowest reading since February 2025, as price growth moderated in food (4.89% vs 5.03% in May), alcoholic beverages and tobacco (4.21% vs 4.29%), clothing and footwear (2.19% vs 2.37%), housing utilities (7.17% vs 8.19%), transportation (5.29% vs 12.48%), and miscellaneous goods and services (4.08% vs 4.22%). In contrast, costs increased in furnishing and household equipment (3.17% vs 3.12%), health (1.20% vs 1.19%), information and communication (0.13% vs 0.07%), and recreation and culture (3.32% vs 2.91%), while inflation remained steady in education (at 3.39%). On a monthly basis, consumer prices fell 0.39% in May, following a 0.29% gain. Meanwhile, the annual inflation rose by 4.50%, easing from 4.67% in the preceding period.
-
----
-
-### 2026-07-03 10:28:44  #市場
-
-【創新藥概念震盪回落 通化金馬封跌停】創新藥概念日內震盪回落，通化金馬封跌停，新贛江、益諾思、雙鷺藥業、海思科、澤璟製藥、三生國健均跌超5%。
-
----
-
-### 2026-07-03 10:28:16  #公司
-
-【華為技術有限公司增資至約411.4億元】天眼查App顯示，7月1日，華為技術有限公司發生工商變更，註冊資本由約410.4億人民幣增至約411.4億人民幣。該公司成立於1987年9月，法定代表人為趙明路，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。
-
----
-
-### 2026-07-03 10:27:43  #公司 #市場 #國際
-
-【機構：日本可能正在採取新的外匯干預策略】星展集團研究部的Philip Wee在一份評論中表示，日本可能正在採取新的外匯干預策略。該高階外匯策略師指出，有傳言稱日本財務省可能會轉向不公開的隱秘貨幣干預。Wee表示，在今天美國債券和股票市場因獨立日假期而流動性稀薄的情況下，此類干預“可能會加劇波動“。“日本的新策略似乎旨在將市場心理從懷疑轉為謹慎。“
-
----
-
-### 2026-07-03 10:27:25  #公司 #市場
-
-【帝奧微：原材料價格大幅上漲 公司已根據實際情況調整了產品價格】帝奧微近日接受機構調研時表示，由於晶圓及封裝產能緊張，原材料價格大幅上漲，公司生產成本無可避免亦大幅上升，按目前狀況預期短期內不會有改善空間。為了能繼續支援客戶需求，公司已根據實際情況調整了產品價格。
-
----
-
-### 2026-07-03 10:27:11  #其他
-
-鎧俠股價漲幅擴大至8.9%。
-
----
-
-### 2026-07-03 10:26:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share power grid equipment sector strengthened amid choppy trading; Huaming Equipment hit the daily limit-up. Jinzhi Technology, Jinguan Electric, Mingyang Electric, Shenma Power and Siyuan Electric also rose.
-
----
-
-### 2026-07-03 10:25:01  #市場
-
-【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，金智科技、金冠電氣、明陽電氣、神馬電力、思源電氣跟漲。
-
----
-
-### 2026-07-03 10:25:00  #Trading Economics #Economy #Vietnam #Industrial Production #Importance 1
-
-Vietnam Industrial Output Climbs to 5-Month High — Vietnam’s industrial production expanded 12.7% year-on-year in June 2026, accelerating from an upwardly revised 10.1% growth in May and marking its strongest increase in five months. The pickup was driven by faster growth across all major sectors, led by electricity and gas supply (16.6% vs. 10.3% in May), manufacturing and processing (12.6% vs. 10.7%), mining and quarrying (8.8% vs. 4.0%), and water supply, waste management, and wastewater treatment (8.7% vs. 6.2%). On a monthly basis, industrial output rose 3.5%, signaling continued strength in the sector. For the first half of 2026, industrial production increased 10.8% compared with the same period a year earlier, highlighting sustained momentum in Vietnam's industrial activity.
 
 ---

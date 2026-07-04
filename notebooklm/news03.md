@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 00:36:03_
-_本檔包含 3013 則快訊，約 505499 字_
+_更新時間：2026-07-05 01:41:37_
+_本檔包含 3014 則快訊，約 505655 字_
+
+---
+
+### 2026-07-02 14:48:38  #公司 #國際
+
+【印度對涉華PET薄膜啟動反傾銷調查】6月30日，印度商工部發布公告稱，應印度國內企業提交的申請，對原產於或進口自中國、阿聯酋和泰國的厚度100微米以上的PET薄膜‌啟動反傾銷調查。本案傾銷調查期為2025年1月1日至2025年12月31日（12個月），損害調查期為2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年1月1日至2025年12月31日。
+
+---
+
+### 2026-07-02 14:48:35  #其他
+
+【天津海事局保障30萬噸級大型散貨船安全進港】7月1日，天津港迎來30萬噸級大型散貨船“中海榮華”輪。在天津海事局全程精準保障下，該輪滿載311070噸西芒杜鐵礦粉，安全靠泊天津南疆S27泊位。（新華社）
+
+---
+
+### 2026-07-02 14:46:59  #公司
+
+【中合擔保在上海成立諮詢公司 註冊資本100萬】天眼查App顯示，近日，上海中合明智企業諮詢有限公司成立，法定代表人為王炯，註冊資本100萬人民幣，經營範圍包括企業管理諮詢、企業管理、資訊諮詢服務、企業形象策劃、市場營銷策劃、品牌管理、專案策劃與公關服務等，由中閤中小企業融資擔保股份有限公司全資持股。
+
+---
+
+### 2026-07-02 14:46:54  #宏觀 #兩會
+
+【李鴻忠在北京調研縣鄉兩級人大換屆選舉工作】中共中央政治局委員、全國人大常委會副委員長李鴻忠7月2日在北京市調研縣鄉兩級人大換屆選舉工作。他強調，要堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平總書記關於堅持和完善人民代表大會制度的重要思想，全面貫徹落實黨中央決策部署和憲法法律規定，紮實做好縣鄉兩級人大換屆選舉工作，確保選舉工作風清氣正，選舉結果人民滿意，為堅持好、完善好、執行好人民代表大會制度打下堅實基礎。（新華社）
+
+---
+
+### 2026-07-02 14:45:54  #公司
+
+【特朗普稱臺積電將擴大投資規模，臺積電不予置評】據臺灣“中央社”7月1日報道，美國總統特朗普1日表示，臺灣正將亞利桑那州興建中的晶圓廠規模擴大一倍，這將有助於在他任期結束前將美國晶片市佔率提高至50%。 據福克斯商業新聞網站報道，特朗普在前往安德魯斯聯合基地前指出：“我們正創造更多就業機會，現今我們的就業人口比我國歷史上任何時候都還要多。這是很棒的事，而且是在這些場所啟用前。” 特朗普稱，這些新晶圓廠將在未來一年內啟用，而且來自臺灣的晶片商，例如產業龍頭臺積電，正加碼投資美國。 他還說：“全球最大企業，實際上就是那家晶片商。而他們正前來，他們正在亞利桑那州建廠，而且他們才宣佈將把規模倍增。在我卸任的時候，我們可能會擁有50%的晶片市場。你知道我們現在擁有多少嗎？什麼都沒有。” 據報道，臺積電對此不予置評。（參考訊息）
+
+---
+
+### 2026-07-02 14:45:43  #宏觀
+
+【國家發改委劉剛帶隊赴中國鋼鐵工業協會開展工作調研】為深入瞭解鋼鐵行業發展情況，6月29日，國家發改委價格監測中心副主任劉剛帶隊赴中國鋼鐵工業協會開展工作調研，與鋼鐵工業協會副秘書長、資訊統計部主任刁力，資訊統計部副主任李小川、李保軍等進行座談。雙方結合現階段鋼鐵行業發展新特點，圍繞產業鏈上下游價格走勢、價格指數編制、監測指標最佳化等方面進行了深入交流。
+
+---
+
+### 2026-07-02 14:45:10  #其他
+
+法國5月政府預算 -933.1億歐元，前值-696億歐元。
+
+---
+
+### 2026-07-02 14:45:08  #其他
+
+【京東方A漲超4% 成交額超450億元】京東方A成交額超450億元，漲超4%，此前一度跌超8%。
+
+---
+
+### 2026-07-02 14:43:50  #國際
+
+歐盟外交與安全政策高階代表卡拉斯：將提議制裁更多俄羅斯實體。
+
+---
+
+### 2026-07-02 14:43:33  #市場 #焦點
+
+滬深兩市成交額超3.2萬億元，較上日此時縮量2503億元。
+
+---
+
+### 2026-07-02 14:43:22  #公司
+
+香港恒生人工智慧指數<.HSAIT>下跌7%，創下2025年4月以來最大單日跌幅。
+
+---
+
+### 2026-07-02 14:43:15  #公司 #國際
+
+【受颱風及異常低溫天氣拖累，優衣庫日本6月同店銷售額同比下滑14.1%】迅銷集團7月2日披露的月度資料顯示，2026年6月份，優衣庫日本本土包含線上電商在內的同店銷售額同比下降14.1%，總銷售額同比減少13.7%。優衣庫方面表示，本月業績下滑主要受天氣因素拖累。6月整體氣溫偏低且遭遇颱風等異常天氣，嚴重抑制了消費者對夏季單品的需求，這一負面影響在6月下半月尤為明顯。
+
+---
+
+### 2026-07-02 14:43:07  #市場
+
+【中老鐵路進出口貨值突破900億元】記者從昆明海關獲悉，中老鐵路開通運營以來（截至6月30日），進出口貨值達902.8億元，國際貨物列車累計開行超2.2萬列。今年上半年，經中老鐵路進出口貨值171.6億元，同比增長33.7%。“黃金大通道”作用持續凸顯，區域互聯互通水平穩步提升。（央視新聞）
+
+---
+
+### 2026-07-02 14:42:42  #市場 #焦點
+
+上證指數跌2.00%，現報4030.193點；深證成指跌3.89%，現報15491.593點；創業板指跌5.85%，現報4011.664點。
+
+---
+
+### 2026-07-02 14:42:38  #市場
+
+SK海力士股價下跌15%，收於218.7萬韓元。
+
+---
+
+### 2026-07-02 14:42:33  #其他
+
+【擴大消費“十五五”規劃，將於近期釋出】記者獲悉，擴大消費“十五五”規劃將於近期釋出。蘇商銀行特約研究員付一夫在接受記者採訪時表示，過往歷次五年規劃中，消費相關部署均依附於總體規劃或擴大內需綱要，屬於配套性、階段性安排。將要推出的擴大消費“十五五”規劃，是我國首份專門針對擴大消費制定的國家級五年專項規劃，標誌著國內消費發展頂層設計實現突破性升級。付一夫說，此次推出擴大消費專項規劃，有望從短期穩增長、中期擴內需、長期暢迴圈三個維度，為國民經濟平穩健康發展提供關鍵性支撐。未來五年，國內消費市場將迎來全方位、結構性變革，為我國建設消費強國、夯實經濟內生動力築牢堅實根基。（中證報）
+
+---
+
+### 2026-07-02 14:41:52  #國際
+
+【萬斯稱美對伊軍事行動成果相當可觀】美國副總統萬斯在6月30日播出的一檔播客節目中稱，從石油運輸的角度看，霍爾木茲海峽目前已開放，石油運輸量有所增加，“有幾天實際上比戰爭開始前還要多”。萬斯還說，美國在對伊朗的軍事行動中已取得相當可觀的軍事成果，美國可以選擇與伊朗達成長期協議，但前提是伊朗做出重大改變，此外，美國也可以選擇在鞏固現有的成果後再對伊朗採取進一步行動，但這取決於美國總統特朗普的想法。（CCTV國際時訊）
+
+---
+
+### 2026-07-02 14:40:05  #Trading Economics #Economy #Romania #Producer Prices Change #Importance 1
+
+Romania Producer Inflation Hits Over 3-Year High — Romania’s annual producer inflation climbed 12.05% year-on-year in May 2026, following an upwardly revised 10.34% rise in the previous month, marking the highest reading since April 2023. Prices accelerated in the manufacturing sector (8.89% vs 8.29% in April), driven by faster inflation in beverages; tobacco; textiles; wearing apparel; chemicals and chemical products; basic pharmaceutical products and pharmaceutical preparations; rubber and plastic products; other non-metallic mineral products; basic metals; motor vehicles, trailers and semi-trailers; and furniture. Additionally, costs increased faster in mining and quarrying (7.79% vs 4.31%) and electricity, gas, steam, and air-conditioning supply (21.33% vs 16.35%), while prices edged up in water supply, sewerage, waste management, and remediation activities (13.74% vs 13.52%). On a monthly basis, producer prices rose 1.41% in May 2026, easing slightly from 1.70% in the previous month.
+
+---
+
+### 2026-07-02 14:39:52  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Muted at Finish — The ASX 200 closed little changed at 8,724 on Thursday after trading lower in early deals, with gains in consumer services, healthcare, and financials countered by losses in retail trade, logistics, and energy minerals. Traders weighed Australia’s May trade data, which unexpectedly showed a deficit as exports fell while imports rose. Markets also pared back expectations for further rate hikes in Australia as easing inflation risks followed the de-escalation of Middle East tensions and the reopening of the Strait of Hormuz. Meanwhile, U.S. stock futures were mainly lower after a weak lead from Wall Street Wednesday, ahead of the key nonfarm payrolls release. Northern Star Resources jumped 5.3% after naming a new CEO and posting preliminary annual gold sales that met revised guidance. Meanwhile, the four big banks rose between 0.4% and 3.5%. On the downside, laggards included SGH Ltd. (-4.6%), Westfarmers Ltd. (-4.4%), Reece Ltd. (-3.3%), and Coles (-1.8%).
+
+---
+
+### 2026-07-02 14:37:24  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Rebounds on China Supply Restrictions — Iron ore futures climbed above CNY 740 per ton, recovering from one-year lows after China’s state-backed buyer moved to restrict deliveries of certain Fortescue products to selected domestic steel mills, tightening supply in the world’s largest market for the steelmaking raw material. According to reports, the China Mineral Resources Group instructed mills and traders holding Fortescue’s Super Special Fines to take delivery before July 15, after which the blast furnace feedstock would be blacklisted. If enforced, the measure would mark a significant escalation in the dispute between the two sides, as negotiations over long-term supply contracts between the Australian miner and CMRG remain deadlocked. Meanwhile, iron ore prices had come under pressure in recent weeks due to ample global supply and weakening demand from the steel sector.
 
 ---
 
@@ -18036,119 +18156,5 @@ US June Challenger job cuts due in 10 minutes.
 ### 2026-07-01 17:15:36  #MKT News
 
 Rising market concern over an Iran peace agreement weighed on Gulf debt: UAE sovereign bonds fell 1 US cent, Saudi sovereign bonds declined in tandem, and S&P Global Market Intelligence showed Bahrain's 5-year CDS up 5bps to 246bps versus Tuesday's close.
-
----
-
-### 2026-07-01 17:15:12  #公司 #市場
-
-【上期能源：對部分客戶採取限制開倉監管措施】7月1日，上海國際能源交易中心釋出關於對部分客戶採取限制開倉監管措施的公告。公告顯示，2026年7月1日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。
-
----
-
-### 2026-07-01 17:15:03  #市場
-
-標普全球市場情報表示，巴林五年期信貸違約掉期較週二收盤上漲5個基點，報246個基點。
-
----
-
-### 2026-07-01 17:15:00  #市場 #國際
-
-市場擔憂伊朗和平協議相關風險升溫，阿聯酋主權債券下跌 1 美分，沙特主權債券同步走弱。
-
----
-
-### 2026-07-01 17:14:58  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 1
-
-Cyprus Retail Trade Growth Accelerates — Retail sales in Cyprus rose 7.5% year-on-year in May 2026, accelerating from 2.9% in April and marking the strongest growth in four months. Clothing and footwear recorded the largest increase, with sales surging 19.4% after a 3.8% rise in April. Growth also strengthened for food in specialised stores, which increased 1.2% after a 3.3% drop, supermarkets (7.4% vs. 2.4%), household equipment (13.3% vs. 11.7%), cultural and recreational goods (11.3% vs. 11.2%), and pharmaceuticals (4.0% vs. 1.8%). Meanwhile, sales growth eased slightly for information and communication equipment (17.6% vs. 17.7%), while sales of flowers, plants, watches, jewellery, and second-hand goods fell 2.1% after rising 8.2%. Automotive fuel sales remained in decline (-3.8% vs. -3.6%). In the first five months of 2026, retail sales increased 5.9% compared with the same period a year earlier.
-
----
-
-### 2026-07-01 17:14:37  #公司
-
-【鴻特科技：實控人及部分董高擬6個月內增持不低於1200萬元股份】鴻特科技公告稱，公司實際控制人、董事兼總裁盧宇軒，董事、常務副總裁兼董事會秘書黃平，財務總監朱龍華擬自公告披露之日起6個月內，以集中競價交易方式增持公司股份，合計增持金額不低於1200萬元。其中，盧宇軒不低於1000萬元，黃平不低於160萬元，朱龍華不低於40萬元。本次增持不設價格區間，資金源於自有或自籌。增持計劃可能因市場或政策因素無法實施，公司將及時披露進展。
-
----
-
-### 2026-07-01 17:14:31  #公司
-
-【萬集科技：原持股5%以上股東崔學軍減持計劃實施完畢】萬集科技公告稱，原持股5%以上股東、離任監事崔學軍於2026年4月1日至6月30日，以集中競價方式減持646,200股，佔總股本0.30%，減持均價23.02元/股。減持後，崔學軍持股降至10,030,914股，佔比4.71%，不再是持股5%以上股東。本次減持符合相關規定，不會導致公司控制權變化，不影響公司治理結構及持續經營。
-
----
-
-### 2026-07-01 17:13:40  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China #1211.HK #Impact bullish
-
-【Sichuan governor Shi Xiaolin meets BYD chairman Wang Chuanfu】Sichuan Governor Shi Xiaolin met BYD Chairman Wang Chuanfu in Chengdu on July 1. They discussed stepping up BYD’s investment in Sichuan under the province’s 15th Five-Year development plan, including expanding existing project production lines, scaling capacity and increasing openness. The parties agreed to promote pilot deployment of rapid-charging technologies, explore integrated new-energy storage and computing–power models, and cultivate automotive aftermarket value-added services, framing cooperation within national policy guidance and market-based logic to support high-quality regional industrial development.
-
----
-
-### 2026-07-01 17:13:38  #公司
-
-【元力股份：擬透過發行股份及支付現金方式收購福建同晟新材料科技股份公司100%股權】元力股份公告，公司擬透過發行股份及支付現金方式收購福建同晟新材料科技股份公司100%股權。公司於2026年6月30日收到深交所通知，因本次交易申請檔案中記載的評估資料已過有效期，需要補充提交，深交所對公司本次交易中止稽核。根據北京中鋒資產評估有限責任公司出具的資產評估報告，公司本次交易申請檔案中資產評估報告的評估基準日為2025年6月30日，評估結論的使用有效期為一年。由於本次交易申請檔案中記載的評估資料已過有效期，需要補充提交，深交所按照《深圳證券交易所上市公司重大資產重組稽核規則》的相關規定對公司本次交易中止稽核。
-
----
-
-### 2026-07-01 17:13:11  #公司
-
-【用友網路：擬0元轉讓2250.96萬元產業投資基金份額】用友網路公告稱，6月30日，公司與高成華松簽署協議，擬0元轉讓尚未實繳的2250.9557萬元高成基金份額。此前，公司已0元轉讓3500萬元高成基金份額。轉讓完成後，公司持有高成基金份額4249.0443萬元。此次交易無需董事會和股東會審議，不涉及關聯交易和重大資產重組，已獲高成普通合夥人同意，有利於公司最佳化投資結構，聚焦主業。
-
----
-
-### 2026-07-01 17:12:39  #MKT News #NKE.N #Impact bearish
-
-Telsey Advisory cuts Nike (NKE.N) PT to $47 from $55.
-
----
-
-### 2026-07-01 17:12:37  #MKT News
-
-【China domestic fuel surcharge sharply cut from July 5】9 Air said it will lower domestic fuel surcharges effective July 5 (ticketing date). For routes over 800 km the surcharge will be 100 yuan per passenger (down 50 yuan); for routes up to and including 800 km it will be 50 yuan (down 30 yuan). The airline noted the cuts follow consecutive increases in April and May and a smaller reduction on June 5 (down 20/10 yuan) and attributed the move to falling jet fuel prices.
-
----
-
-### 2026-07-01 17:12:31  #其他
-
-【國內航線燃油附加費7月5日起大幅下調】九元航空今日釋出通知，自2026年7月5日（出票日期）起，下調國內航線燃油附加費。其中800公里以上航線每位旅客收取100元，800公里（含）以下航線每位旅客收取50元。相較於調整前分別降低50元/30元。今年四月和五月，國內燃油附加費連續大幅上調，6月5日開始下調20元/10元，隨著燃油價格的下滑，7月的燃油附加費下調幅度更大。（一財）
-
----
-
-### 2026-07-01 17:12:28  #公司
-
-【四川省省長施小琳會見比亞迪公司董事長兼總裁王傳福】四川日報訊息，7月1日，四川省委副書記、省長施小琳在成都會見比亞迪股份有限公司董事長兼總裁王傳福一行，感謝比亞迪公司對四川發展的支援。雙方圍繞落實“十五五”發展部署，把握汽車產業智慧化綠色化轉型趨勢，持續加大在川投資力度，聯動促進已有合作專案拓展產線佈局、擴大產能規模、提升開放水平和發展能級，加強閃充等新技術新場景應用試點推廣，探索新型儲能與算電融合發展路徑模式，培育壯大汽車後市場增值服務消費，按照國家整體部署和市場化邏輯，在推動高質量發展中搶抓機遇交換了意見、商討了合作重點。
-
----
-
-### 2026-07-01 17:12:26  #公司 #國際
-
-【亞馬遜豪擲68億元加碼A】當地時間6月30日，美國科技巨頭亞馬遜公司旗下的雲端計算服務平臺亞馬遜雲科技宣佈，將投入10億美元（約合68億元人民幣）設立全新的人工智慧部門，專門協助客戶搭建並落地人工智慧系統。亞馬遜雲科技方面表示，預計將配置數千名前線部署工程師，相關團隊將與客戶業務、研發、安全部門深度協作，僅需數週，就能幫助客戶搭建可自主運維的技術團隊，交付完整AI解決方案。外媒報道稱，亞馬遜雲科技是全球營收規模第一的雲服務商，也是首家推出該類駐場工程師專項業務的超大規模雲廠商。 （央視財經）
-
----
-
-### 2026-07-01 17:12:02  #公司 #國際
-
-達索航空執行長表示，空客要求其退出歐洲無人機專案，達索不同意，相關討論正在進行中。
-
----
-
-### 2026-07-01 17:11:55  #其他
-
-【深藍汽車6月全球銷量33625輛】7月1日，深藍汽車釋出最新銷量資料，6月全球銷量33625輛，同比增長12.5%，連續4個月超3萬輛。上半年，深藍汽車全球累計銷量164156輛，同比增長14.6%；其中海外累計銷量35795輛，同比增長141%。
-
----
-
-### 2026-07-01 17:11:51  #公司
-
-【用友網路：擬將持有的2250.96萬元基金份額轉讓給高成華松，轉讓價格為0元】用友網路公告，計劃將持有的高成行至（北京）股權投資合夥企業（有限合夥）未實繳的2250.96萬元基金份額轉讓給三亞高成華松投資合夥企業（有限合夥），轉讓價格為0元。上述財產份額轉讓完成後，公司持有高成基金份額4249.04萬元基金份額。
-
----
-
-### 2026-07-01 17:11:44  #其他
-
-英國海上貿易行動辦公室：一艘船舶正遭多艘小型船隻接近，這些船隻上有數名船員攜帶輕型武器。船員報告安全。
-
----
-
-### 2026-07-01 17:11:30  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #Brent
-
-【Eurozone inflation cools more than expected as oil falls on Middle East peace efforts】Eurozone consumer inflation cooled more than expected in June as global energy prices eased amid Middle East peace efforts. Eurostat said June CPI rose 2.8% YoY, down from 3.2% in May and below a Bloomberg median of 3.0%. Core inflation, excluding food and energy, declined more than expected and services inflation eased to 3.2%. The ECB is assessing whether last month’s rate hike will be sufficient to counter inflationary pressure stemming from the US‑Iran conflict. June readings for the euro area’s three largest economies all missed forecasts; France’s inflation fell to the ECB’s 2.0% target.
 
 ---

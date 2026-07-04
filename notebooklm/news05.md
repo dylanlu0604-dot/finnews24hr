@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 00:36:03_
-_本檔包含 2528 則快訊，約 505049 字_
+_更新時間：2026-07-05 01:41:37_
+_本檔包含 2503 則快訊，約 505447 字_
+
+---
+
+### 2026-06-30 17:32:11  #Trading Economics #Economy #Spain #Current Account #Importance 1
+
+Spain Current Account Surplus Narrows in April — Spain's current account surplus narrowed to EUR 1.88 billion in April 2026, from EUR 2.46 billion in the same month last year. The primary and secondary income deficit widened to EUR 5 billion from EUR 3.80 billion. On the other hand, the balance of goods and services recorded a EUR 6.89 billion surplus, rising 10.1% from EUR 6.25 billion a year earlier. Within this category, tourism revenues were EUR 9.27 million, an increase from EUR 8.52 million a year earlier.
+
+---
+
+### 2026-06-30 17:21:14  #Trading Economics #Economy #Malta #Producer Prices Change #Importance 1
+
+Malta Producer Inflation Highest since Oct 2023 — Producer prices in Malta rose 1.4% year-on-year in May 2026, the highest since October 2023, following a 0.9% increase in April. Inflation accelerated for capital goods (5.1% vs 3.2% in April), and intermediate goods (2.9% vs 2%). On the other hand, a decline of 0.6% was registered in consumer goods. No price change occurred in the energy sector. Non-domestic prices increased by 1.9%. The prices of goods destined for the Euro Area went up by 3.5%, while those destined for the non-Euro Area increased by 0.6%. On a monthly basis, producer prices increased 0.2%.
+
+---
+
+### 2026-06-30 17:19:36  #Trading Economics #Economy #Bosnia and Herzegovina #GDP Annual Growth Rate #Importance 1
+
+Bosnia and Herzegovina GDP Growth Edges Up in Q1 — Bosnia and Herzegovina's economy expanded by 2.2% year-on-year in the first quarter of 2026, slightly accelerating from a 2.1% increase in the previous quarter. Growth was driven by stronger activity in wholesale and retail trade, transportation, accommodation and food services (6.4% vs. 4.7% in Q4), construction (3.5% vs. 3.3%), and agriculture (0.4% vs. 0.3%). Meanwhile, mining and quarrying, manufacturing, and electricity, gas, steam and air conditioning supply contracted further (-4.4% vs. -4.2%). On the expenditure side, final consumption expenditure increased at a faster pace (2.9% vs. 2.4%), supported by steady household spending (3.2% vs. 3.2%). However, growth in government consumption (1.8% vs. 2.7%) and gross capital formation (1.5% vs. 8.5%) slowed. On a seasonally adjusted quarterly basis, the economy grew 0.7%, from a 0.6% growth in the previous quarter.
+
+---
+
+### 2026-06-30 17:18:54  #Trading Economics #Economy #Croatia #Retail Sales YoY #Importance 1
+
+Croatia Retail Sales Growth Eases to Over 3-Year Low — Retail sales in Croatia rose by 0.5% year-on-year in May 2026, easing from a 2.0% increase in the previous month, marking the softest growth since March 2023. Sales growth moderated for food, beverages, and tobacco (1.9% vs 2.6% in April). Additionally, activity recorded a flat reading for non-food products excluding automotive fuels and lubricants (vs 2.8%). On the other hand, sales declined at a softer pace for automotive fuels and lubricants (-11.8% vs -15.1%), while retail sales via the internet or mail order recovered (3.6% vs -3.6%). On a monthly basis, retail trade declined by 2.0% in May, following a 0.2% drop in the preceding period. For the January–May period, retail activity increased by 2.3% compared with the same period a year earlier.
+
+---
+
+### 2026-06-30 17:17:07  #Trading Economics #Economy #Greece #Producer Prices Change #Importance 1
+
+Greece Producer Inflation Holds at Over 3-Year High — Producer prices in Greece climbed 13.5% year-on-year in May 2026, following a 12.8% rise in the previous month and marking the highest reading since January 2023. Price growth accelerated across several categories, including intermediate goods (6.1% vs. 5.0% in April), capital goods (3.4% vs. 3.0%), durable consumer goods (2.1% vs. 1.5%), and energy (26.4% vs. 24.9%). Meanwhile, inflation for non-durable consumer goods eased slightly to 1.6% from 1.8%. On a monthly basis, producer prices declined 0.9% in May, reversing a 1.2% increase recorded in the previous period.
+
+---
+
+### 2026-06-30 17:15:43  #Trading Economics #Economy #Montenegro #Tourist Arrivals #Importance 1
+
+Montenegro Tourist Arrivals Rise 0.3% in May — The number of tourist arrivals in Montenegro rose by 0.3% year-on-year to 169,877 in May 2026, rebounding from an 8.4% decline in the previous month. Foreign visitors remained the primary source of arrivals, accounting for 87.4% of the total, or 148,388 arrivals, while domestic arrivals represented 12.6%, or 21,489. Among foreign tourists, Europe continued to be the largest source region, contributing 78.8% of arrivals, led by Serbia, Germany, and France. Outside Europe, the highest numbers of arrivals came from Israel, the United States, and China (including Hong Kong). By type of accommodation, seaside resorts remained the most popular destination, accounting for 79.5% of arrivals, followed by the capital region (12.4%) and mountain resorts (4.8%). Meanwhile, overnight stays in collective accommodation totaled 506,256, with foreign visitors accounting for 86.3% of stays and domestic tourists making up the remaining 13.7%.
+
+---
+
+### 2026-06-30 17:15:31  #Trading Economics #Economy #Cyprus #Current Account #Importance 1
+
+Cyprus Current Account Deficit Widens in Q1 2026 — Cyprus’ current account deficit widened to €1.27 billion in Q1 2026, up from €1.01 billion in the same period last year. The goods deficit was virtually unchanged at €1.58 billion, while the services surplus narrowed to €1.25 billion from €1.47 billion. The primary income gap slightly decreased to €0.78 billion from €0.83 billion, and the secondary income deficit rose to €0.17 billion from €0.07 billion.
 
 ---
 
@@ -15055,197 +15097,5 @@ Israeli Prime Minister Netanyahu said Israel is breaking Iran’s diplomatic axi
 ### 2026-06-28 01:46:56  #其他
 
 黎巴嫩軍方指揮部呼籲民眾在抗議活動期間保持理性剋制、文明行事。
-
----
-
-### 2026-06-28 01:35:37  #MKT News
-
-【Vucic says he will resign in several weeks】Serbia President Aleksandar Vucic told a large rally in central Belgrade on June 27 he will remain in office for several weeks and then resign. He said he will work to secure voter support for the ruling Progressive Party and for party chairman Vucevic in the forthcoming election. Vucic has previously said he plans to step down and that a presidential vote will be held within three to four months.
-
----
-
-### 2026-06-28 01:33:46  #其他
-
-【武契奇稱將在數週後辭職】當地時間6月27日，塞爾維亞執政黨前進黨在首都貝爾格萊德市中心舉行大型集會。塞爾維亞總統武契奇在現場發表演講時表示，他將繼續擔任總統一職數週，然後辭職。武契奇同時表示，他將為前進黨及前進黨主席武切維奇在即將到來的選舉中贏得民眾信任作出貢獻。#武契奇將辭職# 武契奇日前接受採訪時曾表示，他計劃辭去總統一職，總統選舉將在未來3至4個月進行。 武契奇2017年4月當選總統，2022年5月連任。（CCTV國際時訊）
-
----
-
-### 2026-06-28 01:33:18  #國際
-
-特朗普在社交媒體釋出他與奧巴馬各自的青年時期照片。
-
----
-
-### 2026-06-28 01:32:44  #國際
-
-以色列正在調整其在黎巴嫩南部設立的“安全區”部署，計劃撤出納巴提耶地區的兩處據點，即西部祖特爾與弗龍。
-
----
-
-### 2026-06-28 01:29:36  #MKT News
-
-CNN, citing US officials, said that when Iran claimed strikes on US military targets in the Middle East, US forces detected several drones that did not hit their targets.
-
----
-
-### 2026-06-28 01:26:34  #其他
-
-【委內瑞拉地震1430人遇難3238人傷】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間6月27日下午通報，地震已造成1430人遇難、3238人受傷。（CCTV國際時訊）
-
----
-
-### 2026-06-28 01:22:41  #其他
-
-委內瑞拉議長豪爾赫·羅德里格斯表示，（局勢已造成）3238人受傷，3142人無家可歸。
-
----
-
-### 2026-06-28 01:21:00  #其他
-
-委內瑞拉議長豪爾赫·羅德里格斯表示，委內瑞拉地震遇難人數已升至1430人。
-
----
-
-### 2026-06-28 01:19:48  #國際
-
-黎巴嫩國家通訊社報道，以黎兩國簽署協議、為和談鋪路次日，以色列軍方對黎巴嫩南部發動無人機及空襲。當地時間傍晚6時30分，以色列戰機空襲了上納巴提耶一處不明目標。當日下午早些時候，無人機已對城鎮廣場與曼扎拉社群實施四輪打擊。
-
----
-
-### 2026-06-28 01:18:45  #其他
-
-【巴基斯坦安全部隊擊斃5名恐怖分子】巴基斯坦警方訊息人士27日說，巴安全部隊當晚成功挫敗一起針對南部城市卡拉奇一處準軍事部隊總部的恐怖襲擊，並當場擊斃5名恐怖分子。此前，據當地媒體報道，卡拉奇一條主要街道發生爆炸並傳出槍聲，安全部隊趕往現場。（新華社）
-
----
-
-### 2026-06-28 01:18:35  #MKT News
-
-【Pakistan security forces kill 5 militants】Pakistani security forces foiled an attack on a paramilitary headquarters in Karachi on the night of the 27th and killed five suspected militants at the scene, police said.
-
----
-
-### 2026-06-28 01:14:14  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Israeli Broadcasting Corporation, citing sources, says Israel's military plans to withdraw tomorrow from two experimental areas in southern Lebanon.
-
----
-
-### 2026-06-28 01:11:17  #其他
-
-市場資訊：塞爾維亞總統亞歷山大·武契奇稱將在數週內辭職，預示將提前舉行大選。
-
----
-
-### 2026-06-28 01:11:13  #MKT News
-
-Serbian President Vucic said he will resign within weeks, indicating early elections.
-
----
-
-### 2026-06-28 01:07:22  #公司 #國際
-
-美國廣播公司：週六霍爾木茲海峽襲擊油輪的無人機來自伊朗。
-
----
-
-### 2026-06-28 01:04:55  #國際
-
-【美國猶他州因野火宣佈進入緊急狀態】全美12個州現有至少37處火情持續燃燒，其中包含猶他州史上破壞程度最嚴重的野火，該州宣佈進入緊急狀態。
-
----
-
-### 2026-06-28 01:02:12  #公司 #國際
-
-【亞馬遜會員日線上總消費額超Adobe預期】Adobe資料顯示，亞馬遜一年一度會員日活動期間，美國全品類零售商線上消費總額達264億美元。Adobe稱，本次活動總消費額較去年會員日增長9.3%，各大零售商折扣力度與去年基本持平。消費者調研機構Numerator的資料顯示，四天活動裡，每戶家庭在亞馬遜平臺平均消費143美元，較去年活動下降8.3%。
-
----
-
-### 2026-06-28 01:00:44  #公司 #其他
-
-【戀與深空致歉】6月28日，《戀與深空》深夜發文致歉，就新角色敖尹相關內容呈現不當、引發玩家擔憂致歉。官方承諾會保障所有男主劇情穩定更新，延續原有角色故事，穩步產出高質量內容。同時上線福利，玩家7月23日前可登入領取許願券，以優質內容回饋玩家。
-
----
-
-### 2026-06-28 00:57:24  #國際
-
-國際事務研究員沙布拉馬·亞辛：伊朗在霍爾木茲海峽的攻擊是試圖改善與華盛頓談判條件的嘗試，而美國迅速的回應挫敗了這一嘗試。
-
----
-
-### 2026-06-28 00:56:21  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israeli defense minister says IDF ordered to prepare for long-term deployment in southern Lebanon 'security zone'】Defense Minister Katz said a framework agreement with Lebanon could, for the first time in decades, create a new security reality on Israel’s northern border. He said Israel will maintain current deployments and continue to control the southern Lebanon “security zone,” including the Beaufort Heights. Katz said Israeli withdrawal is conditional on Hezbollah’s full disarmament across Lebanon and that he and Prime Minister Netanyahu have instructed the IDF to prepare for a long-term presence in the zone. He added Iran’s attempts to pressure the US to force an Israeli pullback have failed and warned Israel would respond forcefully if Iran attacks to block the deal’s implementation.
-
----
-
-### 2026-06-28 00:55:54  #國際
-
-【以防長：已指示以軍做好長期駐留黎南部“安全區”的準備】當地時間27日，以色列國防部長卡茨發表宣告稱，以色列與黎巴嫩達成的框架協議有望在幾十年來首次在以北部邊境和黎巴嫩塑造一個全新的、更安全的現實。卡茨表示，以色列將在黎巴嫩“維持現有部署”，將繼續控制由以方劃定的黎南部“安全區”，包括博福特高地。以色列從黎巴嫩撤軍的先決條件是，真主黨必須在黎巴嫩全境解除武裝。卡茨稱，他與以總理內塔尼亞胡已經“指示以色列國防軍做好在‘安全區’長期駐留的準備”。（央視新聞）
-
----
-
-### 2026-06-28 00:50:31  #焦點 #國際
-
-伊朗國家電視臺：多艘船舶此前未經許可通行海峽遭鳴槍警告，如今更多船隻主動向伊朗申請霍爾木茲海峽通行許可。
-
----
-
-### 2026-06-28 00:50:19  #焦點 #國際
-
-伊朗最高領袖顧問雷扎伊稱，美國在霍爾木茲海峽製造緊張局勢，違反停戰備忘錄。
-
----
-
-### 2026-06-28 00:48:24  #MKT News
-
-French Foreign Ministry says it is willing to contribute to implementation of a framework agreement between Lebanon and Israel.
-
----
-
-### 2026-06-28 00:47:50  #國際
-
-以色列國防部長卡茨表示，他已同內塔尼亞胡一同下令軍隊，做好長期駐守黎巴嫩南部的準備。
-
----
-
-### 2026-06-28 00:47:12  #國際
-
-法國外交部：願為落實黎以框架協議提供支援。
-
----
-
-### 2026-06-28 00:47:03  #其他
-
-法國通報：自6月18日以來，已有74人因熱浪溺水身亡。
-
----
-
-### 2026-06-28 00:46:41  #國際
-
-法國外交部表示：以色列與黎巴嫩的框架協議必須為黎巴嫩完整主權的恢復鋪平道路。
-
----
-
-### 2026-06-28 00:46:03  #國際
-
-法國外交部：對以色列與黎巴嫩達成協議表示歡迎，並承諾保障兩國安全。
-
----
-
-### 2026-06-28 00:43:27  #MKT News
-
-【Iran June inf YoY rises to 88.6%】Foreign media on June 27, citing Iranian official data, reported Iran's June inf rose to 88.6% YoY, saying the increase was affected by Middle East hostilities.
-
----
-
-### 2026-06-28 00:39:42  #國際
-
-沙特外交部長和卡達首相兼外交部長在一次通話中譴責伊朗對巴林的襲擊以及對海上航行的威脅。他們強調需要維護美伊協議、推進談判並達成全面解決方案，以加強地區安全與穩定。
-
----
-
-### 2026-06-28 00:38:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【After U.S. strikes, Iran launches drone attack on Bahrain; oil tanker hit】Iran on Saturday launched drone strikes on Bahrain and attacked a vessel in the Strait of Hormuz, an action described as likely retaliation for a U.S. overnight strike. U.S. Central Command said on June 26 it had struck Iranian targets in response to Iran’s attacks on merchant ships. The International Maritime Organization said Saturday it will expand a transit lane near Oman to allow two-way traffic; Tehran views the strait as a bargaining chip in ongoing talks with Washington, a dynamic that underscores risks of further escalation.
 
 ---
