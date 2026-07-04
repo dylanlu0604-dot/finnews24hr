@@ -1,7 +1,41 @@
 {
   "date": "2026-07-04",
-  "count": 313,
+  "count": 317,
   "items": [
+    {
+      "id": "4970230",
+      "time": "2026-07-04 10:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週*ST尼雅、優彩資源、永和股份等37只個股釋出業績預告，其中業績大幅預增26只，江波龍淨利潤預測同比增長74393.95%"
+    },
+    {
+      "id": "4970229",
+      "time": "2026-07-04 10:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗為已故最高領袖哈梅內伊舉行公眾告別與悼念儀式】當地時間7月4日，伊朗在首都德黑蘭為已故最高領袖阿里·哈梅內伊舉行公眾告別與悼念儀式。2月28日，美國和以色列對伊朗發動軍事打擊，哈梅內伊在空襲中遇害。（央視新聞）"
+    },
+    {
+      "id": "4970228",
+      "time": "2026-07-04 10:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問：擬人化互動類智慧體及使用者自建智慧體功能將於7月10日正式下線】據千問平臺訊息，因功能升級與維護，擬人化互動類智慧體及使用者自建智慧體功能將於2026年7月10日正式下線。屆時，使用者將無法繼續訪問相關智慧體的配置資訊及歷史對話記錄。"
+    },
+    {
+      "id": "mkt:019f2af5-7bd4-7aab-8c9b-5d4440d9e0c5",
+      "time": "2026-07-04 10:29:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Qianwen to disable personified interactive and user-created agents on July 10, 2026】Qianwen said it will disable personified interactive agents and user-created agents on July 10, 2026 for feature upgrades and maintenance. Users will lose access to affected agents' configuration data and historical conversation records."
+    },
     {
       "id": "mkt:019f2af2-bdc8-7aab-8c9b-50d96d7b8f36",
       "time": "2026-07-04 10:26:19",
