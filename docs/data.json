@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 18:07:40",
-  "count": 13280,
+  "updated": "2026-07-04 18:11:39",
+  "count": 13278,
   "items": [
+    {
+      "id": "4970377",
+      "time": "2026-07-04 18:09:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月04日18時07分在雲南大理州賓川縣附近（北緯25.97度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "4970376",
       "time": "2026-07-04 18:06:46",
@@ -122173,31 +122181,6 @@
         "XAUUSD"
       ],
       "text": "Iranian parliament's National Security and Foreign Policy Committee spokesman Rezaei said the US violated a memorandum to end hostilities by stoking tensions in the Strait of Hormuz and warned any such violations would be met with a swift, decisive response."
-    },
-    {
-      "id": "4958356",
-      "time": "2026-06-27 18:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪抵達塞席爾訪問。"
-    },
-    {
-      "id": "4958355",
-      "time": "2026-06-27 18:08:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德黑蘭至迪拜航線7月1日起恢復運營】伊朗民航組織發言人今天（6月27日）表示，自7月1日起，伊朗和阿聯酋民航部門已批准恢復德黑蘭—迪拜的航線運營。初期恢復的航班將由伊朗航空公司執飛，未來在經過必要評估後，還將陸續增加其他航空公司的航班。（CCTV國際時訊）"
-    },
-    {
-      "id": "4958354",
-      "time": "2026-06-27 18:08:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問表示，美國在霍爾木茲海峽製造緊張局勢，違反了結束戰爭的備忘錄。"
     }
   ]
 }
