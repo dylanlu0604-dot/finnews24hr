@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-04 18:23:39_
-_本檔包含 2988 則快訊，約 504420 字_
+_更新時間：2026-07-04 19:54:22_
+_本檔包含 2999 則快訊，約 504377 字_
+
+---
+
+### 2026-07-02 13:39:28  #國際
+
+【美國將厄瓜多一幫派列為“恐怖組織”】美國國務卿魯比奧7月1日宣佈，美國將厄瓜多幫派“喬內殺手”列為“外國恐怖組織”及“特別認定全球恐怖分子”。魯比奧在一份宣告中籠統地表示，“喬內殺手”組織“針對平民、執法人員和政府官員實施大量襲擊，其中包括針對公職人員的高調暗殺行動”。他還說，美國政府將與厄瓜多政府合作，防止毒品流入美國，並切斷“毒品恐怖分子”資金來源。有訊息稱，“喬內殺手”頭目及其關聯人員可能因此面臨美方制裁和刑事起訴。（央視新聞）
+
+---
+
+### 2026-07-02 13:38:46  #市場 #焦點
+
+創業板指跌5％，上證指數跌1.53％，深證成指跌3.1％。
+
+---
+
+### 2026-07-02 13:38:19  #公司 #國際
+
+韓國外交部：美國眾議院報告稱韓國將Coupang視為美國公司加以歧視的說法與事實嚴重不符。
+
+---
+
+### 2026-07-02 13:37:44  #市場 #焦點
+
+PTA連續主力合約日內跌4%，現報5300.00元。
+
+---
+
+### 2026-07-02 13:37:32  #公司
+
+【高雲半導體完成數億元Pre-IPO輪融資】7月2日，據高雲半導體訊息，廣東高雲半導體科技股份有限公司近日順利完成Pre-IPO輪融資交割落地，本次融資總規模達數億元。本次Pre-IPO輪融資由廣開基金、廣州工控資本、越秀產業基金、廣州金控基金、知識城創投、國創集團（大灣區國創中心資產管理平臺）、番禺產投等本地國資共同參與。
+
+---
+
+### 2026-07-02 13:37:31  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+China's CSI 300 index futures (IF) front-month contract fell more than 2.00% intraday to 4,730.4 points.
+
+---
+
+### 2026-07-02 13:37:23  #MKT News #Important #Market Regions #Greater China
+
+China A-share Xingye Technology hit the daily up-limit in the afternoon, completing a floor-to-ceiling reversal after trading nearly RMB900 mln. The stock had closed at limit-down for two consecutive sessions and briefly touched the down-limit earlier today.
+
+---
+
+### 2026-07-02 13:37:01  #市場
+
+滬深300指數期貨下跌2.0%至4,730.40點。
+
+---
+
+### 2026-07-02 13:36:46  #國際
+
+韓國外交部：將就Coupang調查事宜再次聯絡美國眾議院司法委員會。
+
+---
+
+### 2026-07-02 13:36:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Nikkei reports Apple has asked suppliers to produce 10 million foldable iPhones this year.
+
+---
+
+### 2026-07-02 13:36:12  #MKT News #Important #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component
+
+China's Sci‑Tech Innovation Board 50 (STAR 50) fell more than 6% in the afternoon session; Shenzhen ChiNext Index is down about 4.8%. Stocks in advanced packaging, compute hardware and memory/storage chips led the declines.
+
+---
+
+### 2026-07-02 13:36:11  #公司
+
+阿聯酋環球鋁業公司（EGA）已重啟約7%的鋁生產裝置；目標是在年底前將庫存降至正常水平。
+
+---
+
+### 2026-07-02 13:35:26  #公司 #國際
+
+阿聯酋IHC與阿達尼集團擬在印度奧里薩邦投資115億美元建設鋁業專案。
+
+---
+
+### 2026-07-02 13:35:12  #MKT News #Market Regions #Greater China #Nikkei 225 #Impact bearish #Hang Seng Index
+
+Taiwan Weighted Index fell 274.83 points (0.58%) to 46,744.16 at the close on Thursday, July 2.
+
+---
+
+### 2026-07-02 13:35:06  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Hamas calls on Arab League to convene emergency summit】An agency reported a Hamas spokesman called on the Arab League to convene an emergency leaders' summit to respond to Israeli plans to expel residents of the Gaza Strip.
+
+---
+
+### 2026-07-02 13:34:57  #市場 #焦點
+
+上證50指數期貨連續主力合約日內跌2%，現報2875.80點。
+
+---
+
+### 2026-07-02 13:34:56  #國際
+
+韓國外交部：對美國眾議院關於Coupang調查的報告僅反映Coupang單方面主張表示遺憾。
+
+---
+
+### 2026-07-02 13:34:51  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish
+
+FTSE China A50 index futures fell over 3% intraday.
+
+---
+
+### 2026-07-02 13:34:47  #MKT News
+
+【Fuqiao confirms 15–30% price hikes for E‑glass fabrics, effective July 1】Fuqiao Industrial’s core unit Fuqiao (Dongguan) Glassfiber Co. confirmed on July 2 that it has implemented price increases for electronic fabrics effective July 1. Citing higher manufacturing costs and tight supply, the company said standard E‑glass fabrics for traditional PCBs and consumer electronics are up 30%, while Low‑DK2 electronic fabrics for AI servers and high‑speed/high‑frequency boards are up 15%.
+
+---
+
+### 2026-07-02 13:34:29  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌2%，現報4734.40點。
+
+---
+
+### 2026-07-02 13:34:10  #市場 #焦點
+
+富時中國A50指數期貨跌幅擴大至3%。
+
+---
+
+### 2026-07-02 13:34:10  #MKT News #Market Themes #AI Revolution
+
+【Report: China embodied intelligence market to reach 1.09 tln yuan by 2026; 22–23% CAGR】A Shanghai industry report projects China’s embodied intelligence market will grow from about 213.3 bln yuan in 2018 to 1.09 tln yuan by 2026, a 22–23% CAGR, making it one of the fastest-growing global markets. The report highlights a complete domestic value chain — core sensors, servo motors, harmonic reducers, final assembly and algorithm integration — with concentrated component clusters in the Yangtze River and Pearl River deltas that speed prototype iteration versus US/EU peers and underpin a manufacturing cost advantage of roughly 30–50% versus overseas rivals.
+
+---
+
+### 2026-07-02 13:34:06  #市場
+
+【興業科技午後觸及漲停 上演“地天板”】高位人氣股興業科技午後觸及漲停，上演“地天板”，成交近9億元。該股此前連續2日報收跌停，今早一度觸及跌停。
+
+---
+
+### 2026-07-02 13:33:21  #其他
+
+【港股晶片板塊午後持續走低 壁仞科技跌近19%】港股晶片板塊午後持續走低，壁仞科技跌近19%，兆易創新跌超15%，中芯國際、英諾賽科、晶門半導體等跟跌。
+
+---
+
+### 2026-07-02 13:33:13  #公司
+
+【“遠山鮮河”系列特惠活動因配置失誤以0元上架，霸王茶姬致歉】7月2日，霸王茶姬湖北子公司釋出文稱，推出的“遠山鮮河”系列9.9元特惠活動因運營後臺配置失誤，產品意外以0元上架。將統一取消當天0時起因配置失誤生成的異常訂單，每位受影響使用者的賬戶將直接到賬3張 “遠山鮮河”系列無門檻0.01元兌換券。
+
+---
+
+### 2026-07-02 13:32:51  #其他
+
+【報告：中國具身智慧市場規模年均複合增長率22%至23%】《中國具身智慧產業發展報告(2026)》2日在上海釋出。該報告稱，中國已成為全球增長最快的具身智慧市場之一，據多家研究機構測算，中國具身智慧市場規模從2018年的約2133億元人民幣到2026年預計的1.09萬億元，年均複合增長率為22%至23%。
+
+---
+
+### 2026-07-02 13:31:50  #市場
+
+【科創50跌超6% 創業板指跌近4.6%】指數午後再度走低，科創50跌超6%，創業板指跌近4.6%，滬指跌超1%。算力硬體、儲存晶片、證券等方向跌幅居前，滬深京三市下跌個股近2400只。
+
+---
+
+### 2026-07-02 13:31:16  #國際
+
+據韓國金融監督院發言人稱，韓國金融監督院院長李燦鎮預計將於7月13日會見國內資產管理公司的管理人員，預計討論將集中在加強與單隻槓桿ETF相關的投資者保護措施上。
+
+---
+
+### 2026-07-02 13:31:02  #MKT News #Important #Market Themes #Chip Wars #06082.HK #Impact bearish #03986.HK #00981.HK
+
+Hong Kong chip stocks slid further in afternoon trade: 06082.HK down over 18%, 03986.HK down over 15%; 00981.HK, 02577.HK and 02878.HK also declined.
+
+---
+
+### 2026-07-02 13:30:08  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates by 1.35% — Top crypto gainers are Ether (1.35%) and Bitcoin (1.11%).
+
+---
+
+### 2026-07-02 13:28:18  #公司 #市場
+
+【電子布大廠富喬工業：本輪調價已正式落地 面向傳統PCB領域普通E-glass電子布漲價30%】據市場訊息，由於製造成本上漲及市場供不應求，電子布大廠富喬工業近日向客戶發出漲價通知，宣佈旗下電子布產品價格上調15%至30%，新價格自2026年7月1日起執行。7月2日上午，記者致電富喬工業的核心經營主體富喬（東莞）玻纖有限公司進行了求證。該公司回應稱，本輪調價已正式落地。其中，面向傳統PCB、消費電子領域的普通E-glass電子布統一漲價30%；面向AI伺服器、高速高頻板等應用的低介電常數（Low DK2）電子布漲價15%。 (上證報)
+
+---
+
+### 2026-07-02 13:27:41  #其他
+
+【港股AI硬體股持續下挫，長飛光纖光纜港股跌超19%】港股AI硬體股持續下挫，劍橋科技港股、廣合科技港股跌超20%，長飛光纖光纜港股跌超19%，ASAMT、天數智芯跌超17%。
+
+---
+
+### 2026-07-02 13:26:37  #宏觀 #焦點
+
+【多地證監局近期正推動轄區券商申報基金投顧業務資格】據記者瞭解，多地證監局近期正積極推動轄區內符合條件的券商積極申報基金投顧資格，此前中證協已發文明確鼓勵更多券商申請基金投顧業務資格。值得關注的是，監管層對基金投顧業務的支援訊號正持續強化，證監會將《證券基金投資顧問業務管理辦法》列入“需要抓緊研究、擇機出臺的專案” ，6月證監會主席吳清明確表示要加快推進買方投顧轉型，並在2026陸家嘴論壇上宣佈鼓勵外資持牌機構參與基金投顧業務擴大試點。業內人士指出，此次監管集中推動資格申報，是基金投顧試點轉常規之前的重要中間過渡環節。去年8月，基金投顧業務已被正式納入券商分類評價專項指標，隨著試點轉常規進入倒計時，資格申報擴容意在引導更多券商提前佈局基金投顧業務。 (財聯社)
+
+---
+
+### 2026-07-02 13:26:09  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時縮量2546億元。
+
+---
+
+### 2026-07-02 13:26:00  #市場
+
+【CPO板塊震盪走弱，光迅科技跌停】CPO板塊震盪走弱，光迅科技跌停，新易盛跌超10%，劍橋科技、長芯博創、天孚通訊、長電科技、華工科技等跟跌。
+
+---
+
+### 2026-07-02 13:25:57  #MKT News #Important
+
+China A-share storage chip sector slumped in the afternoon. NAURA Technology (Beifang Huachuang), Shen Keji, Saiteng and GigaDevice hit daily limit-downs; Jiangfeng Electronics, Jingce Electronics and Zhongke Feice fell more than 10%. Maiwei, Li'angwei, Montage Technology (Lanqi Keji) and Weidao Nano tracked lower.
+
+---
+
+### 2026-07-02 13:25:00  #宏觀
+
+【國臺辦：ECFA部分產品的關稅減讓不得不中止 相關責任完全在民進黨當局】國務院臺灣事務辦公室今天上午舉行例行新聞釋出會，國臺辦發言人朱鳳蓮主持本次新聞釋出會。臺灣東森新媒體ETtoday記者：目前ECFA貨品輸陸金額與佔比出現下降趨勢，外界關於ECFA剩餘早收清單專案未來會繼續或可能全面終止。請問對此有何評論？朱鳳蓮：2010年6月，兩岸在“九二共識”政治基礎上，簽署了《海峽兩岸經濟合作框架協議》（ECFA）。多年來，我們切實履行承諾，推動和保障了ECFA的生效和實施，為島內相關企業和民眾，特別是廣大中小企業和農漁民帶來了實實在在的利益。民進黨在上臺前攻擊ECFA，上臺後嚴重阻礙ECFA實施，不僅不採取切實措施解除對大陸歧視性貿易限制，還不斷變本加厲修改規則、設定障礙，惡意阻撓破壞兩岸經濟正常交流合作，導致大陸有關部門不得不中止ECFA部分產品的關稅減讓。相關責任完全在民進黨當局。（中國臺灣網）
+
+---
+
+### 2026-07-02 13:24:25  #MKT News #Market Regions #Greater China
+
+【China's Taiwan Affairs Office: tariff concessions on some ECFA products suspended; DPP held fully responsible】China's Taiwan Affairs Office spokesperson Zhu Fenglian said at a regular briefing that mainland authorities have had to suspend tariff concessions on certain products under the 2010 ECFA. Zhu blamed the Democratic Progressive Party for obstructing ECFA implementation—attacking the pact before taking office, then failing to remove discriminatory trade restrictions, repeatedly changing rules and erecting barriers that disrupted normal cross‑strait economic exchange—and placed full responsibility on the DPP. She said ECFA had previously delivered concrete benefits to Taiwanese firms, especially SMEs and agricultural and fisheries producers.
+
+---
+
+### 2026-07-02 13:22:09  #其他
+
+德國媒體2日援引警方訊息報道說，德國北部路德維希斯盧斯特一家醫院的屋頂結構起火，造成至少34人受傷。（新華社）
+
+---
+
+### 2026-07-02 13:21:56  #觀點
+
+摩根大通恢復對彪馬的追蹤評級，評級為“中性”，目標價為26歐元。
+
+---
+
+### 2026-07-02 13:21:23  #市場
+
+江化微盤中漲停，上演“地天板”，成交額超25億元。
+
+---
+
+### 2026-07-02 13:21:17  #MKT News
+
+Turkey auto sales rose 11.4% YoY in June; Jan–Jun auto sales fell 8.19% YoY.
+
+---
+
+### 2026-07-02 13:21:15  #其他
+
+【浙江2026年1-5月發用電情況一覽】2026年1-5月，浙江全口徑發電量2173.94億千瓦時，同比增長8.69%；全社會用電量2812.62億千瓦時，同比增長7.37%。（浙江釋出）
+
+---
+
+### 2026-07-02 13:20:40  #公司 #市場
+
+【儲存晶片板塊午後持續走弱 兆易創新觸及跌停】儲存晶片板塊午後持續走弱，北方華創、深科技、賽騰股份、兆易創新觸及跌停，江豐電子、精測電子、中科飛測、珂瑪科技、華海清科、芯源微、夏農芯創、利和興、神工股份跌超10%，邁為股份、立昂微、瀾起科技、微導奈米跟跌。
+
+---
+
+### 2026-07-02 13:20:33  #其他
+
+土耳其汽車工業協會公佈資料顯示，該國6月汽車銷量同比下降11.4%。
+
+---
+
+### 2026-07-02 13:20:20  #其他
+
+【上海6G信通智谷正式啟動】6G產業化驗證中試平臺在上海6G未來產業培育區核心承載區——上海6G信通智谷7月1日正式啟動。該平臺標誌著上海6G產業“樓下研發、樓上測試、園區中試、區域量產”創新閉環基本成型。
+
+---
+
+### 2026-07-02 13:20:16  #其他
+
+【海南公積金新政：購買自住住房夫妻雙方最高貸款基準額提至120萬元】海南省住房公積金管理局釋出《關於進一步最佳化調整住房公積金貸款政策的通知》，該通知自印發之日起施行。新政明確，提高購買自住住房最高貸款基準額度。繳存人家庭購買新建、二手自住住房申請住房公積金貸款，單方繳存住房公積金的，最高貸款基準額度分別由現行新房80萬元和二手房60萬元統一提高至100萬元；夫妻雙方均繳存住房公積金的，最高貸款基準額度分別由現行新房110萬元和二手房90萬元統一提高至120萬元。
+
+---
+
+### 2026-07-02 13:19:52  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield rose 6.0 bps to 2.760%.
 
 ---
 
@@ -17779,231 +18067,5 @@ Preliminary estimates from Spain's strategic oil products reserve company show a
 ### 2026-07-01 16:53:13  #公司
 
 【陝西華達：董事長範軍衛辭職 提名任永珊為非獨立董事候選人】陝西華達公告稱，因年齡原因，範軍衛於2026年6月30日申請辭去非獨立董事、董事長等職務，辭職報告自送達董事會之日起生效。其離任後將任公司諮詢員，持有公司28萬股，佔總股本0.1851%。公司於7月1日召開董事會，同意提名任永珊為非獨立董事候選人，任期自股東會審議透過至第五屆董事會屆滿。任永珊未持有公司股份，符合任職條件。
-
----
-
-### 2026-07-01 16:53:09  #公司
-
-【天邑股份：成為中國電信採購專案成交人 預計成交1.63億元】天邑股份公告稱，公司近日收到《成交通知書》，確定為中國電信天翼智屏產品（2026年）集中採購專案標包1、標包2成交人之一，預計成交總金額為1.63億元（含稅）。後續合同若正式簽訂並實施，將促進公司未來業績和市場開拓，且不影響經營獨立性。不過，公司尚未簽署正式合同，存在不確定性。
-
----
-
-### 2026-07-01 16:53:01  #其他
-
-西班牙能源委員會快速估算顯示，該國5月車用燃料消費量同比下降4.2%，較4月環比下降0.7%。
-
----
-
-### 2026-07-01 16:52:37  #央行 #歐洲央行
-
-【歐洲央行管委科赫爾：通脹威脅降低 但並未完全得到控制】歐洲央行管委科赫爾表示，下一步的決定要麼是加息，要麼是維持現狀。通脹威脅降低，但並未完全得到控制。
-
----
-
-### 2026-07-01 16:52:23  #公司 #國際
-
-【華潤雙鶴：控股子公司丙戊酸鈉原料藥獲CEP證書】華潤雙鶴公告稱，近日，其控股子公司雙鶴湘中收到歐洲藥品質量管理局簽發的丙戊酸鈉原料藥CEP證書。雙鶴湘中自2024年6月啟動註冊工作，於2026年6月26日獲得該證書，截至公告日，公司就該原料藥CEP註冊研發投入4.15萬元。中國大陸境內已獲批上市的丙戊酸鈉原料藥生產企業共14家，全球丙戊酸鈉CEP證書持有者共8家。該事項對當期業績無重大影響，國際化業務存不確定性。
-
----
-
-### 2026-07-01 16:51:49  #市場
-
-洲際交易所原糖期貨<SBc1>大漲近3%，報每磅15.24美分。
-
----
-
-### 2026-07-01 16:51:19  #公司
-
-【華潤雙鶴：複方聚乙二醇(3350)電解質散獲得藥品註冊證書】華潤雙鶴公告，近日，公司收到了國家藥品監督管理局頒發的複方聚乙二醇(3350)電解質散《藥品註冊證書》。複方聚乙二醇(3350)電解質散用於治療1歲至11歲兒童慢性便秘。用於治療5歲至11歲兒童糞便嵌塞，即頑固性便秘伴直腸和/或結腸糞塊堆積。公司於2023年1月啟動該藥品的仿製藥研發工作，於2024年7月22日向國家藥監局提交上市許可申請，於2024年7月29日獲得受理通知書，並於2026年6月17日獲得國家藥監局批准上市。根據國家相關政策規定，本次獲得《藥品註冊證書》視同透過一致性評價。
-
----
-
-### 2026-07-01 16:51:11  #公司
-
-【*ST華鵬：公司及子公司山東華鵬石島玻璃製品有限公司涉及1億元訴訟案】*ST華鵬公告，公司及子公司山東華鵬石島玻璃製品有限公司涉及一起融資租賃合同糾紛訴訟案，涉案金額為本金1億元及利息、違約金。原告山東發展綠色融資租賃有限公司已於2026年4月22日向濟南高新技術產業開發區人民法院提起訴訟，公司於2026年6月30日收到《民事起訴狀》等法律檔案，本案將於2026年8月12日開庭。公司目前無法預計該訴訟對公司本期利潤或期後利潤的影響，將根據訴訟進展情況及時履行資訊披露義務。
-
----
-
-### 2026-07-01 16:51:09  #公司
-
-【合合資訊：二審終審判決，公司核心訴訟請求獲得法院支援】合合資訊公告，公司及全資子公司上海臨冠資料科技有限公司與合肥抖屏科技有限公司、合肥莫寒科技有限公司的仿冒糾紛及反不正當競爭訴訟案件，安徽省高階人民法院已作出終審判決。判決內容為：維持一審判決第一項，即被告合肥抖屏科技有限公司、合肥莫寒科技有限公司需賠償原告經濟損失及維權合理支出合計110萬元；撤銷一審判決第三項；變更一審判決第二項為被告需在《中國消費者報》連續五日刊登宣告，澄清被訴侵權軟體與原告“掃描全能王”軟體不存在關聯性，並消除不良影響。同時，公司及上海臨冠資料科技有限公司需共同承擔部分案件受理費及財產保全費。
-
----
-
-### 2026-07-01 16:51:04  #公司
-
-【ST龍元：控股股東部分股份將被司法拍賣】ST龍元公告，公司控股股東家族成員賴振元先生持有的公司1.2億股無限售流通股將被司法拍賣，佔控股股東家族所持公司股份總數的32.96%，佔公司總股本的7.82%。該股份的評估價值為2.46億元，實際起拍價為1.72億元。
-
----
-
-### 2026-07-01 16:50:55  #公司 #市場 #國際
-
-【傑富瑞：耐克的體育攻勢顯現早期積極跡象】Jefferies的分析師寫道，耐克對其體育業務的重視正顯現出取得成效的早期跡象，儘管在中國的表現仍然拖累該公司。Jefferies的分析師表示，這家運動服飾集團第四財季的業績好於擔憂。Jefferies的分析師表示，在執行長艾略特·希爾的“體育攻勢“下，對體育用品的重新重視得到了耐克批發業務恢復增長的印證。然而，透過耐克門店和該公司應用程式的直銷疲軟，以及在中國的疲軟，是耐克面臨的主要挑戰。該股盤前下跌3.3%，同時歐洲體育零售商的股價也在該業績公佈後下跌。阿迪達斯股價下跌1.3%，而彪馬和JD Sports在倫敦上市的股票分別下跌1.5%和1.4%。
-
----
-
-### 2026-07-01 16:50:42  #其他
-
-【黑龍江省釋出暴雨紅色預警】黑龍江省氣象臺2026年7月1日16時15分發布暴雨紅色預警訊號：過去1小時林口縣部分鄉鎮降雨量已達90毫米，預計未來2小時林口縣還將有20～40毫米的降雨，部分鄉鎮3小時累計雨量將達100毫米以上，請注意防範。
-
----
-
-### 2026-07-01 16:50:39  #其他
-
-【加皇資本：英國增稅或削減開支料將為國防支出提供資金】加皇資本市場策略師在一份報告中表示，英國政府可能不得不增加稅收或削減某些部門的開支，以為國防支出提供資金。該政府週二釋出了國防投資計劃，概述了將透過“重新分配各政府部門預算“來籌集103億英鎊（136億美元）的資金。該計劃指出，另外47億英鎊將在秋季的預算宣告中予以確認。
-
----
-
-### 2026-07-01 16:50:26  #公司
-
-【利通電子：控股孫公司擬與關聯方籤軟體許可協議】利通電子公告稱，公司控股孫公司海納利通擬與關聯方Rafay簽訂軟體授權許可協議，海納利通作為經銷商，可將Rafay授權軟體與自身算力產品整合後售予終端客戶，並按軟體分許可收入一定比例支付許可費。許可期限1年，若首年實現至少600萬美元收入，合作將延長1年。該協議尚需股東會審議，公司技術團隊仍在搭建，若首年未達收入目標，可能失去獨家許可授權。
-
----
-
-### 2026-07-01 16:50:15  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-【VUJCIC: ECB likely to wait for more data before next rate action】ECB Vice President VUJCIC said the bank is likely to wait for additional data before deciding its next interest-rate move, adding policymakers will wait through the July meeting and expect updated macroeconomic projections at the September meeting to inform any decision. He warned the ECB will not precommit to a specific rate path. June inflation so far has been in line with expectations. The ECB last raised rates by 25bps at its June meeting.
-
----
-
-### 2026-07-01 16:50:05  #MKT News #Important #EURUSD #Impact mixed #DXY #XAUUSD
-
-Eurozone preliminary June CPI (YoY and MoM) due in 10 minutes.
-
----
-
-### 2026-07-01 16:49:51  #公司
-
-【聖元環保：終止轉讓全資子公司100%股權事項】聖元環保(300867)7月1日公告，此前公告，公司擬向福建中閩水務投資集團有限公司轉讓生活汙水業務資產即轉讓聖澤環境及龍海水務100%股權。鑑於前述交易事項至今仍未獲得政府或其指定主管部門同意和批准，且本次交易依據的審計報告、評估報告等相關資料已過有效期。各方一致同意終止本次股權轉讓事項。
-
----
-
-### 2026-07-01 16:49:48  #MKT News
-
-Iran and US negotiating teams reportedly did not meet face-to-face; they held indirect, mediator-led sessions in Qatar.
-
----
-
-### 2026-07-01 16:49:27  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
-
-ECB Governing Council member Kocher said inflationary pressures have eased but are not yet fully contained; the next policy decision will be either a rate hike or holding rates unchanged.
-
----
-
-### 2026-07-01 16:48:58  #MKT News
-
-【China Government-Enterprise Cooperation Investment Fund says online report of tie-up with National Data Administration is false】On the evening of June 30, China Government-Enterprise Cooperation Investment Fund Co., Ltd said an online report titled China Government-Enterprise Cooperation Fund teams with National Data Administration to promote the digital economy is false. The company said the report is entirely fabricated and inconsistent with its actual situation. Since its establishment the firm has complied with national laws, regulations and regulatory requirements and has not conducted or authorized any party to carry out the activities alleged in the report.
-
----
-
-### 2026-07-01 16:48:50  #公司
-
-【哈囉出行在合肥成立新公司，註冊資本1000萬】天眼查App顯示，6月30日，合肥哈囉科技有限公司成立，法定代表人為吳傳凡，註冊資本1000萬人民幣，經營範圍包括共享腳踏車服務、物聯網技術服務等，由哈囉出行旗下上海哈囉普惠科技有限公司全資持股。
-
----
-
-### 2026-07-01 16:48:37  #央行 #國際
-
-歐洲央行管委科赫爾：工資協議可能使通脹居高不下。
-
----
-
-### 2026-07-01 16:48:27  #央行 #國際
-
-歐洲央行管委科赫爾：通脹威脅降低，但並未完全得到控制。
-
----
-
-### 2026-07-01 16:48:17  #央行 #國際
-
-歐洲央行管委科赫爾：下一步的決定要麼是加息，要麼是維持現狀。
-
----
-
-### 2026-07-01 16:47:44  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-【Monex: EUR at risk if eurozone inflation print and LAGARDE curb rate‑hike expectations】Monex Europe analysts say EUR would likely fall further if Wednesday's eurozone inflation print undershoots estimates and ECB president LAGARDE tempers odds of more hikes. Recent weak data from Germany, France and Italy increase the probability of a softer CPI print, which would reinforce the view the ECB will pause after last month's rate increase. LAGARDE's remarks at the ECB forum in Portugal on Wednesday could cement that outlook.
-
----
-
-### 2026-07-01 16:47:43  #公司
-
-【國創高新：完成回購0.42%公司股份，成交總金額999.99萬元】國創高新公告，截至2026年6月30日，公司透過股票回購專用證券賬戶以集中競價交易方式累計回購公司股份380.97萬股，佔公司總股本的0.42%，最高成交價2.69元/股，最低成交價2.49元/股，成交總金額999.99萬元（含佣金等其它固定費用）。公司本次回購股份事項不會對公司的財務、經營、研發、債務履約能力和未來發展產生重大影響。
-
----
-
-### 2026-07-01 16:47:36  #國際
-
-印尼政府資料顯示，該國5月份蘇門答臘羅布斯塔咖啡豆出口量為18072.4噸。
-
----
-
-### 2026-07-01 16:47:24  #公司
-
-【鼎陽科技：推出SSG3000X Plus系列射頻訊號發生器】鼎陽科技(688112.SH)公告稱，公司推出SSG3000XPlus系列射頻訊號發生器，覆蓋9kHz至3.2GHz頻率範圍，最大輸出功率+20dBm，可廣泛適用於射頻元器件表徵、接收機測試等領域。該產品有助於豐富公司產品矩陣，提升綜合競爭力，但存在市場推廣不及預期的風險。
-
----
-
-### 2026-07-01 16:47:12  #公司
-
-【天宇股份：全資子公司美阿沙坦鉀片獲藥品註冊證書】天宇股份公告稱，其全資子公司諾得藥業近日收到國家藥監局核准簽發的美阿沙坦鉀片《藥品註冊證書》，規格為40mg和80mg，有效期至2031年6月29日，適應症為治療成人原發性高血壓。2025年該藥品在國內樣本醫院和城市實體藥店銷售額約1.6億元。截至2026年5月31日，公司及子公司對該品種累計研發投入約445.41萬元。該產品獲批有望增加公司製劑業務收入，但生產、銷售及盈利水平具有不確定性。
-
----
-
-### 2026-07-01 16:46:55  #公司
-
-【中國政企合作基金：網傳《中國政企合作基金攜手國家資料局 推動數字經濟建設》報道不實】6月30日晚，中國政企合作投資基金股份有限公司釋出宣告稱，公司關注到網路上流傳題為《中國政企合作基金攜手國家資料局 推動數字經濟建設》的不實報道。該報道全部內容均為虛假資訊，與公司實際情況嚴重不符。自成立之日起，公司的一切經營活動均嚴格遵守國家法律法規及監管要求，公司從未與國家資料局開展或授權任何主體開展上述不實報道中所稱的任何活動。針對任何主體偽造、變造公司印章、營業執照、授權文書，或冒用公司及公司員工名義釋出虛假資訊、從事詐騙及其他一切侵犯公司合法權益的非法行為，公司將保留追究有關主體法律責任的權利。
-
----
-
-### 2026-07-01 16:46:45  #其他
-
-【習近平致電祝賀德拉埃斯普列亞當選哥倫比亞總統】6月29日，國家主席習近平致電德拉埃斯普列亞，祝賀他當選哥倫比亞共和國總統。
-
-習近平指出，中國和哥倫比亞是戰略伙伴。建交46年來，中哥關係歷經國際風雲變幻考驗，始終保持良好發展勢頭。兩國政治互信持續鞏固，人民友好深入人心，高質量共建“一帶一路”合作不斷取得新進展。我高度重視中哥關係發展，願同德拉埃斯普列亞當選總統一道努力，進一步深化兩國各領域交流合作，引領中哥戰略伙伴關係邁上新臺階，更好造福兩國人民。
-
-同日，國家副主席韓正向哥倫比亞當選副總統雷斯特雷波致賀電。（央視新聞）
-
----
-
-### 2026-07-01 16:46:08  #市場 #央行 #國際
-
-【歐洲央行管委內格爾對接下來兩次議息會議持開放態度】歐洲央行管委Joachim Nagel表示，在中東局勢及其對通脹影響仍有不確定性的背景下，他對接下來兩次議息會議需要採取何種行動保持開放態度。同時也是德國央行行長的Nagel表示，油價跌幅“絕對出乎意料”，但他同時警告說，這種下跌的持續性以及美伊和平協議的最終結果，還有待觀察。“我不會猜測未來加息的事，”Nagel週三在葡萄牙Sintra表示。他說“對於7月和9月會議，我將保留各種選項”，並稱其為“一場開放的競爭”。歐洲央行正在當地召開年度會議。
-
----
-
-### 2026-07-01 16:45:36  #其他
-
-愛爾蘭外商投資局：今年上半年愛爾蘭跨國企業新增崗位10410個，去年同期新增崗位為10000個。
-
----
-
-### 2026-07-01 16:45:36  #MKT News
-
-Ireland's foreign direct investment agency said Ireland added 10,410 jobs at multinational companies in 1H, up from 10,000 in the same period a year earlier.
-
----
-
-### 2026-07-01 16:45:21  #公司
-
-【老鄉雞與珍寶餐飲集團將設合資公司，進入新加坡市場】新加坡珍寶餐飲集團6月30日釋出宣告稱，集團全資子公司Jumbo F&B Services同老鄉雞簽署合資及股東協議，雙方將在新加坡設立合資公司，經營老鄉雞品牌餐廳。合資公司中老鄉雞持股51%，珍寶集團持股49%。
-
----
-
-### 2026-07-01 16:45:03  #公司 #市場
-
-【2連板三美股份：溼電子化學品相關業務由聯營公司負責不在合併報表範圍內 且相關投資收益對公司整體淨利潤影響極小】三美股份(603379.SH)公告稱，公司股票於2026年6月29日、6月30日、7月1日連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。公司主營業務為氟製冷劑，溼電子化學品相關業務由聯營公司負責，不在合併報表範圍內，且相關投資收益對公司整體淨利潤的影響極小。公司特此鄭重提醒廣大投資者，短期市場熱點受多種複雜因素影響，務必保持理性投資。
-
----
-
-### 2026-07-01 16:44:56  #其他
-
-【昊鉑埃安6月銷量33,682輛，同比增21%】廣汽旗下昊鉑埃安於7月1日公佈最新銷量資料：昊鉑埃安雙品牌6月終端銷量達33,682輛，同比增長21%；2026年上半年累計銷量達174,938輛，同比增長15%。
-
----
-
-### 2026-07-01 16:44:56  #其他
-
-【今年我國首個颱風來了】據中央氣象臺，今天上午，南海擾動生成為南海熱帶低壓，預計在24小時內該低壓將發展為颱風，並將於3日和4日先後登陸我國海南和廣西，將是今年首個登陸我國的颱風。受其影響，南海及華南地區將有強烈風雨，廣西、海南島部分地區的降雨可能接近歷史同期極值，需提前做好防禦措施。
 
 ---

@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-04 18:23:39_
-_本檔包含 2438 則快訊，約 504468 字_
+_更新時間：2026-07-04 19:54:22_
+_本檔包含 2409 則快訊，約 504405 字_
+
+---
+
+### 2026-07-04 19:52:07  #國際
+
+【6月海灣地區原油出口激增】隨著中東局勢趨於緩和以及霍爾木茲海峽航運逐步恢復，中東海灣地區原油出口6月大幅回升，日均出口量突破1000萬桶，但仍明顯低於衝突前水平。路透社3日援引市場服務機構克普勒的資料包道，6月沙烏地阿拉伯、阿拉伯聯合大公國、科威特、伊拉克和伊朗五國原油及凝析油日均出口量增至1007萬桶，較5月增加逾350萬桶。另據能源研究機構沃泰克薩估算，6月上述地區日均出口約1020萬桶，高於5月的約700萬桶，但仍較去年同期約1650萬桶的水平低40%。多家機構資料顯示，阿聯酋成為原油出口恢復最快的國家，6月日均出口量升至370萬至380萬桶，創歷史新高，較5月增加逾100萬桶。克普勒分析師說，自美國和伊朗簽署諒解備忘錄、霍爾木茲海峽通航逐步恢復以來，前期滯留海灣水域的大量原油被迅速消化，目前約有2300萬桶原油仍在等待透過海峽，而4月底這一數字一度高達9600萬桶。（新華社）
+
+---
+
+### 2026-07-04 19:46:34  #公司 #國際
+
+【韓國執政黨批美涉酷澎報告“失實”】韓國執政黨共同民主黨4日對美國近日一份涉電商巨頭酷澎公司的報告表示“強烈遺憾”，稱報告內容“嚴重失實”，並批評酷澎試圖借美方報告轉嫁對大規模使用者資訊洩露事件的責任。美國眾議院司法委員會本週早些時候釋出一份中期報告，稱酷澎長期是韓國政府的“針對目標”，還稱韓國對美資企業實施了“強制調查、過於繁重的監管要求以及過重的罰款與處罰”。共同民主黨發言人張潤美（音譯）4日在書面簡報中說，美方報告“依據酷澎單方面說法和未經核實的資料，嚴重歪曲韓國政府立場”。她表示，韓國政府不會因企業的國籍而採取歧視性或不公平監管措施，酷澎應“停止為掩蓋自身過錯而向（韓國）政府轉嫁責任”。張潤美還說，酷澎在使用者個人資訊洩露事件上不應保持沉默，不應把自己塑造成受害者。韓國國會、總統府和外交部此前已分別表態，對美方報告內容表示遺憾，強調韓方圍繞酷澎資料洩露事件開展的調查和監管措施公平。（新華社）
+
+---
+
+### 2026-07-04 19:42:05  #其他
+
+【雲南大理州賓川縣發生地震 中國地震局啟動四級應急響應】據中國地震局網站訊息，據中國地震臺網正式測定，2026年7月4日18時28分，在雲南大理州賓川縣(北緯25.95度，東經100.58度)發生4.3級地震，震源深度10公里。 地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、雲南省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。（中新網）
+
+---
+
+### 2026-07-04 19:40:32  #MKT News
+
+Mali's military said the situation was 'fully under control' after insurgent attacks on five cities and towns.
+
+---
+
+### 2026-07-04 19:40:11  #其他
+
+【水利部對遼寧吉林啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，水利部4日對遼寧、吉林2省份啟動洪水防禦Ⅳ級應急響應，派出2個工作組赴防汛一線協助指導。 據預報，受東北冷渦影響，7月4日至6日，遼寧北部西部、吉林大部等地累計降水量將達40毫米至60毫米，區域性可能超過100毫米；遼寧渾河中游幹流、蘇子河，吉林輝發河、小孤山河、鰲龍河等河流可能發生超警洪水。 為應對可能發生的汛情，水利部要求地方水利部門和流域管理機構滾動開展雨情、水情、汛情預測預報，加強會商研判，及時釋出預警資訊；科學精細排程水工程，做好水庫、堤防等工程巡查防守，及時發現並處置險情；重點抓好中小河流洪水和山洪災害防禦，全力保障人民群眾生命財產安全。(新華社)
+
+---
+
+### 2026-07-04 19:40:00  #其他
+
+黎巴嫩軍方：陸軍司令接見聯合國駐黎巴嫩臨時部隊（聯黎部隊）特派團團長，討論如何在當前挑戰下加強合作。
+
+---
+
+### 2026-07-04 19:34:11  #其他
+
+【雲南消費品以舊換新、購新補貼品類擴容】據雲南省商務廳4日訊息，自2026年7月起雲南省在現有家電以舊換新、數碼和智慧產品購新補貼品類基礎上，新增9類補貼產品，並同步開放商戶增補報名通道。 新增產品分為兩個渠道實施：數碼和智慧產品購新補貼渠道新增智慧門鎖、智慧影音(含投影儀、音箱／音響)、智慧掃地機器人(含洗地機)、無人機、數碼相機(含運動相機)5類；家電以舊換新補貼渠道新增吸油煙機、家用燃氣灶(含整合灶)、洗碗機、淨水器4類。 補貼標準方面，按產品最終銷售價格(剔除所有折扣優惠後)的15%給予補貼，每位消費者每類產品可補貼1件，每件補貼不超過1500元。 商戶報名不設定行業、規模、區域限制性門檻，支援不同經營主體參與。有意願參與的經營主體可透過“雲南省家電數碼產品購新補貼商戶申報”平臺線上提交相關報名資訊。（中新網）
+
+---
+
+### 2026-07-04 19:27:10  #公司
+
+【德才股份與香港利達建築集團簽署戰略合作協議】7月3日，香港利達建築集團董事長張偉儒、煙臺東昌供熱與新能源集團董事長楊永業、香港利達建築集團總監康志鋼一行蒞臨德才股份參觀交流。雙方圍繞業務協同、市場拓展等議題深入座談，並簽署戰略合作框架協議。
+
+---
+
+### 2026-07-04 19:26:03  #國際
+
+【巴基斯坦一檢查站遭汽車炸彈襲擊 多人死傷】巴基斯坦官方訊息人士4日說，該國西南部俾路支省一個海岸警衛隊檢查站3日遭到汽車炸彈襲擊和武裝攻擊，造成4名安全人員死亡、16人受傷。有訊息人士披露，恐怖組織“俾路支解放武裝”宣稱制造了此次襲擊。（新華社）
+
+---
+
+### 2026-07-04 19:25:20  #其他
+
+【中越會商研判颱風“美莎克”風雨影響 雲端氣象早期預警業務平臺首次應用於跨境颱風會商】從中國氣象局瞭解到，7月3日19時，世界氣象中心（北京）聯合越南氣象和水文局，並組織中央氣象臺、廣西壯族自治區氣象局等單位，就今年第10號颱風“美莎克”開展會商，國家衛星氣象中心等單位提供技術支援。中越雙方依託全民早期預警中國方案“媽祖（MAZU）”的雲端氣象早期預警業務平臺（以下簡稱早期預警平臺），共同研判颱風路徑、風雨影響及防禦服務重點。這也是該平臺首次應用於中越颱風會商。早期預警平臺是中國氣象局面向全球推出的公共產品，也是全球首個響應並推動落實聯合國全民早期預警倡議的系統。
+
+---
+
+### 2026-07-04 19:23:48  #MKT News #Market Regions #Greater China
+
+【China successfully launches 13 Qianfan polar-orbit satellites】At 17:30 Beijing time on July 4, 2026, China launched 13 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center aboard a modified Long March-6 carrier rocket; all satellites reached their planned orbits and the mission was declared successful.
+
+---
+
+### 2026-07-04 19:22:49  #其他
+
+【我國成功發射千帆極軌13組衛星】北京時間2026年7月4日17時30分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌13組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第655次飛行。（央視）
+
+---
+
+### 2026-07-04 19:22:21  #其他
+
+馬裡軍方表示，在五座城鎮遭叛亂分子襲擊後，局勢“已完全得到控制”。
+
+---
+
+### 2026-07-04 19:09:53  #國際
+
+烏克蘭稱俄羅斯在2026年損壞了超過200臺鐵路機車。
+
+---
+
+### 2026-07-04 19:09:20  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank "well placed." He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is "very low" versus other central banks, that June's hike was "reasonable," and that ECB communication indicated the June increase did not mark the start of a new tightening cycle.
+
+---
+
+### 2026-07-04 19:00:19  #其他
+
+【雲南大理州賓川縣一小時3次四級以上地震：當地震感明顯，部分列車將晚點】中國地震臺網正式測定，2026年7月4日17時33分、18時07分、18時28分，雲南省大理州賓川縣先後發生4.4級、4.3級、4.3級地震。為確保旅客列車執行安全，中國鐵路昆明局集團有限公司第一時間啟動應急響應，對大理東至洱海、洱海至西邑區間實施封鎖，緊急叫停該區段內執行列車，並安排工務、電務、供電等部門上線對線路裝置進行全面檢查。受此影響，大理往返昆明、麗江、香格里拉方向的部分旅客列車將出現不同程度晚點。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點導致的退票不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。（人民日報）
+
+---
+
+### 2026-07-04 18:57:11  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine.
+
+---
+
+### 2026-07-04 18:56:14  #國際
+
+德國方面發表宣告稱，德國總理默茨與烏克蘭總統澤連斯基通電話，討論了俄羅斯對基輔和烏克蘭其他地區的空襲。
+
+---
+
+### 2026-07-04 18:48:00  #宏觀
+
+【國家資料局局長劉烈宏：將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準】7月3日，2026全球數字經濟大會資料要素髮展論壇在京舉辦。國家資料局局長劉烈宏在致辭中表示，下一步將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。劉烈宏表示，當前，行業資料價值釋放進入縱深推進的新階段，重點問題解決路徑更加明晰。“談到資料流通利用，大家經常提到資料資源分散、資料不出域、資料標準不統一等難點問題，在‘531’工作體系下，這些問題已在實踐中形成基本解決思路和路徑。”關於資料標準不統一的問題，劉烈宏提到：“我們提出以語義貫通破解格式壁壘，加快提升資料流通利用的效率，資料格式不統一是資訊化發展的產物，在數智化發展日新月異的今天，若要求所有的部門、行業、企業統一底層資料儲存的格式，代價是十分高昂的，效率也是不高的，在很多領域、很多場景下不具備現實的可行性。”他表示，解決這一問題，我們要逐步跳出原有的工作思路，要從重格式統一向語義貫通轉變，真正需要的是可互操作的規則層，而非底層儲存格式的大一統。在技術實現上要從靜態對齊向動態適配轉變，依託後設資料的掛載、語義對映等機制，實現資料自帶標準化語義，支撐機器自動識別上下文。“下一步我們將採取分類施策、分級推進的策略，在國家層面充分考慮資料與人工智慧發展雙向賦能需求，研究制定物件標準後設資料語義、介面協議等多方面的統一標準，加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。”劉烈宏說。（每經）
+
+---
+
+### 2026-07-04 18:47:41  #MKT News
+
+【15-20 mln expected at Tehran farewell for late Supreme Leader Khamenei, July 4-6】Iran is holding public farewell and mourning ceremonies for the late Supreme Leader Khamenei in Tehran from July 4 to July 6; attendance is expected at 15-20 million.
+
+---
+
+### 2026-07-04 18:47:35  #國際
+
+【上千萬伊朗人參與哈梅內伊告別儀式】今天（7月4日）開始到6日，伊朗已故最高領袖哈梅內伊的公眾告別與悼念儀式在伊朗首都德黑蘭舉行，預計將有1500萬至2000萬伊朗民眾前來為哈梅內伊送別。（CCTV國際時訊）
+
+---
+
+### 2026-07-04 18:45:54  #國際
+
+【烏克蘭南部兩車相撞 已致12死6傷】當地時間4日，烏克蘭總統澤連斯基通報稱，烏南部尼古拉耶夫州發生一起交通事故，目前死亡人數已升至12人，另有6人受傷。
+
+---
+
+### 2026-07-04 18:41:53  #宏觀
+
+【諶貽琴在陝西調研時強調 促進養老事業和養老產業發展 持續做強做大文旅產業】國務委員諶貽琴2日至4日在陝西調研民政、文旅等工作。她強調，要深入學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神，堅決落實黨中央、國務院決策部署，大力促進養老事業和養老產業發展，持續做強做大文旅產業。諶貽琴先後來到咸陽市、西安市，深入企業、產業園、民俗村等，詳細瞭解穩崗擴崗、銀髮經濟、鄉村旅遊等情況，並與地方政府、企業家和專家座談。她指出，銀髮經濟涉及面廣、產業鏈長、業態多元、潛力巨大，要聚焦老年人的多樣化需求，擴大產品供給，提升質量水平，壯大經營主體，提高群眾生活品質。要加快健全分級分類、普惠可及、覆蓋城鄉、持續發展的養老服務體系，充分發揮消費補貼等政策牽引作用，著力打造一批銀髮消費新場景新業態，不斷把人口老齡化挑戰轉化為經濟發展的新機遇新動能。諶貽琴強調，要用好地方文化和旅遊資源，深入挖掘傳統節慶民俗特色，加力推出更多優質文化產品、精品旅遊線路，促進文旅消費均衡發展。要積極推進“文旅+百業”、“百業+文旅”，加大對文旅體、農文旅、文商旅等融合發展的支援力度，因勢利導打造經濟新增長點，助力經濟社會高質量發展。（新華社）
+
+---
+
+### 2026-07-04 18:38:28  #其他
+
+中國地震臺網正式測定：07月04日18時28分在雲南大理州賓川縣（北緯25.95度，東經100.58度）發生4.3級地震，震源深度10千米。雲南省大理州賓川縣在一個小時內接連發生3次四級以上地震，造成當地震感明顯。
+
+---
+
+### 2026-07-04 18:33:16  #MKT News
+
+【Multiple Malian military positions attacked】Malian armed forces said on the 4th multiple army positions were attacked in the early morning and that authorities are tracking developments. Positions hit were in the north at Aguelhok, Anefis and Gao, and in the central town of Sevare. The statement gave no details on the attackers, the sequence of events or casualties. Mali has faced persistent insecurity since 2012, with frequent terrorist attacks and armed clashes; the military has said it will continue operations against armed groups.
+
+---
+
+### 2026-07-04 18:29:48  #其他
+
+【馬裡多地軍方陣地遭襲】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天清晨遭到襲擊，目前軍方正跟蹤局勢發展。 公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。公報未說明襲擊者身份、具體經過以及是否有人員傷亡。（新華社）
+
+---
+
+### 2026-07-04 18:28:38  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+【Over 200 Ukrainian drones attack Moscow region; 62 downed near city】Moscow mayor Sergei Sobyanin said on July 4 that more than 200 Ukrainian military drones attacked the Moscow region in the past 24 hours. Most were intercepted at range and 62 were destroyed as they approached Moscow city. Russia called it one of the largest drone attacks on the Moscow region in roughly two years. Ukraine had no immediate comment.
+
+---
+
+### 2026-07-04 18:26:41  #市場 #央行 #國際
+
+歐洲央行管委穆蘭週六表示，繼上月加息、且油價下跌帶動通脹回落的資料出爐後，歐洲央行目前處於 “有利地位”。
 
 ---
 
@@ -14354,347 +14522,5 @@ China's June RatingDog services PMI stood at 54.1, down from 54.4 previously.
 ### 2026-07-03 09:45:00  #MKT News #Economic Calendar #Important
 
 China | S&P Global/Ratingdog China General Services PMI (Jun) | actual 54.1 | previous 54.4
-
----
-
-### 2026-07-03 09:44:57  #其他
-
-【科創50探底回升翻紅】科創50探底回升翻紅，此前一度跌近2%。成分股中，國博電子、晶合整合漲超6%。
-
----
-
-### 2026-07-03 09:44:49  #公司 #市場
-
-【儲存晶片概念震盪回升 天山電子20cm漲停】早盤儲存晶片概念震盪回升，天山電子20cm漲停，杭州柯林、西測測試、北京君正、普冉股份、德明利等衝高。
-
----
-
-### 2026-07-03 09:44:19  #公司
-
-【諾納生物任命王鵬為營運長】7月3日，諾納生物宣佈任命王鵬為營運長（COO）。王鵬將常駐中國蘇州，直接向諾納生物執行長洪滌彙報。加入諾納生物之前，他曾擔任冠科生物（Crown Bioscience）生物藥及體外檢測亞太區負責人。在此之前，他曾擔任藥明康德（WuXi AppTec）抗體藥團隊負責人，並曾在羅氏（Roche）擔任資深科學家。
-
----
-
-### 2026-07-03 09:44:07  #其他
-
-【我國首艘數智化改造海事公務船艇投入試用】從交通運輸部海事局瞭解到，今天（7月3日），我國首艘數智化改造的海事公務船艇“海巡14102”在深圳投入試用。“海巡14102”是一艘12米級高速艇，最高航速36節，具備較強的抗傾覆能力，能夠快速接近水上目標，日常承擔複雜水域快速響應和應急救援等高強度任務。
-
----
-
-### 2026-07-03 09:42:53  #焦點
-
-恒生科技指數盤初漲勢擴大至2％，恒指現漲1.6％，智譜漲超8％領漲成分股。
-
----
-
-### 2026-07-03 09:42:24  #公司
-
-【永鼎股份等成立光通訊裝置公司】企查查APP顯示，近日，安徽鼎嶽光通訊裝置有限公司成立，經營範圍包含通訊裝置製造；光電子器件製造；通訊裝置銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由永鼎股份(600105)等共同持股。
-
----
-
-### 2026-07-03 09:42:20  #其他
-
-【港股人工智慧股走低 迅策跌近13%】截至發稿，迅策(03317.HK)跌12.76%，五一視界(06651.HK)跌6.92%，劍橋科技(06166.HK)跌3.58%。
-
----
-
-### 2026-07-03 09:42:01  #市場 #焦點
-
-【A股氟化工板塊短線走低】多氟多跌9.76%
-
----
-
-### 2026-07-03 09:42:01  #公司
-
-【氯鹼板塊短線走低】氯鹼板塊短線走低，濱化股份跌超7%，新金路、氯鹼化工、航錦科技、華塑股份等跟跌。
-
----
-
-### 2026-07-03 09:42:00  #市場 #焦點
-
-【A股航天裝備Ⅱ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。
-
----
-
-### 2026-07-03 09:42:00  #市場 #焦點
-
-【A股航天系板塊異動拉昇】航天發展觸及漲停，中國衛星、航天電器、航天電子、航天動力、航天智裝、中國衛通跟漲。
-
----
-
-### 2026-07-03 09:42:00  #市場 #焦點
-
-【A股航天裝備Ⅲ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。
-
----
-
-### 2026-07-03 09:41:52  #其他
-
-委內瑞拉代總統德爾西·羅德里格斯2日說，委內瑞拉強震遇難人數已升至2595人、受傷人數已超1.2萬人。（新華社）
-
----
-
-### 2026-07-03 09:41:44  #MKT News #Important #Hang Seng Index #Impact bullish #02513.HK
-
-Hang Seng Tech Index early gains widened to 2%; Zhipu (02513.HK) rose over 8%, leading constituents, while the Hang Seng Index was up 1.6%.
-
----
-
-### 2026-07-03 09:41:02  #市場 #焦點
-
-恒生科技指數漲超2%，現報4543.740點；恒生指數現漲1.622%。
-
----
-
-### 2026-07-03 09:40:57  #MKT News #CSI300 #Impact bullish #CNH
-
-China A-share military equipment sector extended gains; Hangfa Keji hit the daily up-limit. Aileda, Ligong Navigation, Longda, Hangtian Huanyu and Lihang Technology also rose.
-
----
-
-### 2026-07-03 09:40:39  #公司 #國際
-
-【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報7806.04點。個股方面，三星電子漲超5%，SK海力士漲超3%。
-
----
-
-### 2026-07-03 09:40:31  #MKT News #Important
-
-South Korea's KOSPI climbed to 7,800, extending intraday gains to 2%.
-
----
-
-### 2026-07-03 09:40:20  #公司 #市場
-
-【軍工裝備持續走強 航發科技漲停】軍工裝備持續走強，航發科技漲停，愛樂達、理工導航、隆達股份、航天環宇、立航科技跟漲。
-
----
-
-### 2026-07-03 09:39:35  #公司 #市場
-
-三星電子股價上漲4.6%，報29.9萬韓元。
-
----
-
-### 2026-07-03 09:39:33  #市場 #焦點
-
-北證50日內漲幅達2.09%，成分股中，萬達軸承漲8.61%，納科諾爾漲7.22%，駿創科技漲4.14%，富士達漲3.66%。
-
----
-
-### 2026-07-03 09:39:30  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Japan finance minister Katayama reiterates readiness to act on yen】Japan's finance minister Katayama said the government is prepared to take appropriate measures against yen volatility but would not comment on specific exchange-rate levels. She said Tokyo remains in close contact with US authorities on FX. On rising JGB yields, Katayama said the government will seek to implement fiscal measures to shore up market confidence. Monetary policy is for the Bank of Japan to decide; she expects the BoJ to maintain close communication with the government and take appropriate policy to stabilize progress toward its price target. There are no new details on the BoJ's economic blueprint.
-
----
-
-### 2026-07-03 09:39:21  #MKT News #Star Stocks #Xiaomi #Tencent #01810.HK #Impact bullish #09888.HK #00700.HK
-
-Hong Kong-listed tech stocks extended gains; Xiaomi Group (01810.HK) rose over 5%, JD Health (06618.HK) rose over 4%, and AliHealth (00241.HK), Baidu (09888.HK) and Tencent Holdings (00700.HK) also advanced.
-
----
-
-### 2026-07-03 09:39:15  #公司 #市場 #國際
-
-【美總統去年總收入至少22億美元】“美國總統特朗普個人財富增長速度在現代史上前所未有。”當地時間1日，美國《華盛頓郵報》網站頭條的標題這樣寫道。當天，美國各大主流媒體紛紛報道稱，根據有關強制披露財務資訊的法律，白宮公佈了特朗普的個人年度財務報告，他在重返白宮的第一年就賺了至少 22 億美元，其中僅在加密貨幣方面就賺了14億美元。《紐約時報》稱，數額如此巨大，表明他重返白宮後獲得了巨大利益，他在白宮採取的一些政策，不僅使自己和家人受益，也使其親密朋友、高官及其他關聯人士受益，這可能涉嫌利益衝突。對此，特朗普表示，自己“從不插手”財務管理，他的財富增長“與任何擁有退休基金的美國人並無二致，因為股市上漲，且基金公司很好地管理著我的資金”。 白宮還在一份宣告中稱：“所有這些（指責）都是民主黨人和媒體十年來一直在鼓吹的陳舊、虛假的敘事。” (環球時報)
-
----
-
-### 2026-07-03 09:39:01  #市場 #焦點
-
-【A股交換機板塊異動拉昇】星網銳捷觸及漲停，銳捷網路、紫光股份、菲菱科思、天邑股份、歐陸通、共進股份跟漲。
-
----
-
-### 2026-07-03 09:39:00  #市場 #焦點
-
-【A股F5G板塊異動拉昇】星網銳捷觸及漲停，菲菱科思、天邑股份、共進股份、瑞斯康達、特發資訊、通宇通訊跟漲。
-
----
-
-### 2026-07-03 09:39:00  #市場 #焦點
-
-【A股毫米波板塊異動拉昇】鋮昌科技觸及漲停，天銀機電、ST臻鐳、國博電子、共進股份、航天發展、和而泰跟漲。
-
----
-
-### 2026-07-03 09:38:58  #MKT News
-
-【Xinghe Power Aerospace’s Zhishenxing-1 reusable rocket set for near-term maiden flight】July 3 — Xinghe Power Aerospace said its domestically developed Cangqiong-50 reusable LOX/kerosene engine completed its 163rd routine hot-fire on July 1 at the Niutoushan power-system test center. The company said it has completed 57 engine hot-fire runs to date, with cumulative test time of 20,088s and a single-unit maximum cumulative run time of 2,757s. The Cangqiong-50 is designed for at least 25 reuses; more than 40 engines of this type have been assembled and delivered. The Zhishenxing-1 mid-to-large reusable liquid launch vehicle, powered by Cangqiong-50, is scheduled for a near-term maiden flight and will begin staged recovery validation thereafter.
-
----
-
-### 2026-07-03 09:38:47  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量1263億元。
-
----
-
-### 2026-07-03 09:38:33  #其他
-
-【委內瑞拉地震已造成2595人死亡】據委內瑞拉代總統羅德里格斯當地時間7月2日晚對媒體稱，委內瑞拉地震造成的遇難人數升至2595人。（央視新聞）
-
----
-
-### 2026-07-03 09:38:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share innovative drug sector firmed in early trade; Yuandong Bio jumped more than 10%, while Shenlian Bio, Rejing Bio, Yifang Bio, Wanze Co. and Weikang Pharma also advanced.
-
----
-
-### 2026-07-03 09:37:22  #市場
-
-【減速器概念持續走強，日發精機漲停】減速器概念持續走強，日發精機漲停，豐光精密、中大力德、夏廈精密、綠的諧波、德恩精工、昊志機電等跟漲。
-
----
-
-### 2026-07-03 09:37:12  #市場 #焦點
-
-聚丙烯連續主力合約日內漲2%，現報7279.00元。
-
----
-
-### 2026-07-03 09:37:11  #公司
-
-【東軟釋出13款光子計數CT全棧式AI產品】據東軟集團訊息，近日，東軟集團推出13款適配光子計數CT（PCCT）資料的醫學影像AI產品，包含飛標醫學影像標註平臺、探索多模態醫學人工智慧平臺、Vasis血管影像智慧評估三大產品線，是行業內率先完成技術攻關、推出成套PCCT專屬AI整體解決方案的企業。
-
----
-
-### 2026-07-03 09:36:51  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component #SSE Composite
-
-China A-share semiconductor sector opened weaker; Qipai Technology tumbled over 10%, while Zhenbao Technology, Li'ang Micro, Yongxi Electronics, Yitang and Yinhe Microelectronics also fell.
-
----
-
-### 2026-07-03 09:36:45  #其他
-
-【大疆對影石專利維權全面升級，國內訴訟新案即將開庭】記者從知情人士處獲悉，大疆早於數週前已在中國多地人民法院，就影石Luna系列產品涉嫌專利侵權正式提起訴訟，其中有法院即將開庭。目前，大疆依法在中國多地人民法院對影石提起的專利侵權訴訟，將於近期陸續開庭。在這些訴訟中，大疆指控影石涉嫌侵犯了其持有多年的多項發明專利，涵蓋手持雲臺及手持雲臺控制方法、基於手持雲臺的拍攝方法和儲存介質、可拆卸控制裝置、雲臺裝置及其控制方案等多項核心專利。”據知情人士稱，大疆維權決心十分堅決。針對此次國內維權的升級，大疆已請求法院判令影石立即一切停止侵權行為，包括但不限於停止製造、銷售、許諾銷售被控侵權產品，並要求影石賠償其因侵權遭受的經濟損失及相關的維權開支和費用。另外，隨著國內多地法院陸續正式開庭，大疆針對影石的專利維權行動，即將進入實質性司法審理階段。據公開訊息，其中由廣東省深圳市中級人民法院受理的案件，將於8月3日開庭。（藍鯨新聞）
-
----
-
-### 2026-07-03 09:36:26  #MKT News
-
-【DJI escalates patent litigation against Yingshi; domestic case set to open】DJI filed patent suits several weeks ago in multiple Chinese courts alleging Yingshi’s Luna-series gimbal cameras infringe DJI patents; one case is scheduled for hearing. Yingshi began selling the Luna gimbal camera in the US on June 9 and has since rolled it out in China and other markets. DJI is seeking injunctive relief to immediately halt alleged infringing acts — including manufacture, sale and offers to sell the accused products — and is pursuing damages for economic loss and enforcement costs. Sources said DJI is determined to enforce its rights.
-
----
-
-### 2026-07-03 09:36:02  #其他
-
-創新藥概念持續反彈，石藥景峰2連板，苑東生物、申聯生物漲超10%，維康藥業、石藥創新、益方生物漲超6%。
-
----
-
-### 2026-07-03 09:36:00  #市場 #焦點
-
-【A股機器人板塊異動拉昇】雷賽智慧觸及漲停，埃斯頓、拓斯達、巨能股份、三豐智慧、鼎智科技、邁赫股份跟漲。
-
----
-
-### 2026-07-03 09:36:00  #市場 #焦點
-
-【A股絲槓板塊異動拉昇】日發精機觸及漲停，長盛軸承、兆豐股份、貝斯特、震裕科技、瑞迪智驅、雙林股份跟漲。
-
----
-
-### 2026-07-03 09:36:00  #市場 #焦點
-
-【A股快手概念板塊短線走低】天地線上跌9.76%，青鳥智控、法本資訊、吳通控股、每日互動、湯姆貓、久其軟體跟跌。
-
----
-
-### 2026-07-03 09:35:56  #公司
-
-半導體板塊初盤走弱，氣派科技跌超10%，臻寶科技、立昂微、甬矽電子、屹唐股份、銀河微電跟跌。
-
----
-
-### 2026-07-03 09:35:49  #市場 #國際
-
-片山稱日本國債收益率可能反映招標和美國就業情況。
-
----
-
-### 2026-07-03 09:35:32  #市場 #焦點
-
-北證50日內漲幅達1.06%，成分股中，萬達軸承漲7.98%，諾思蘭德漲6.23%，駿創科技漲4.69%，三協電機漲4.17%。
-
----
-
-### 2026-07-03 09:35:04  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Hang Seng Index
-
-China's June RatingDog services PMI due in 10 minutes.
-
----
-
-### 2026-07-03 09:34:11  #市場
-
-【影視院線板塊盤初走強，奧飛娛樂漲停】影視院線板塊盤初走強，奧飛娛樂漲停，華策影視、慈文傳媒、中國電影、上海電影、中南文化、金逸影視等跟漲。
-
----
-
-### 2026-07-03 09:33:58  #公司
-
-【協鑫光電與現象創新簽署太空光伏聯合研發合作框架協議】近日，協鑫光電與現象創新（深圳）科技有限公司正式簽署太空光伏聯合研發合作框架協議。雙方將圍繞航天級鈣鈦礦光伏元件研發、樣品製備、空間環境驗證及市場推廣展開合作，推動鈣鈦礦光伏技術在低軌衛星、空間站等商業航天場景中的應用落地。此次合作將結合協鑫光電在鈣鈦礦光伏研發、GW級規模化製造及元件工藝方面的優勢，以及現象創新在PULSE閉環材料研發平臺的技術積累，共同打造輕量化、高適配、高可靠的航天級鈣鈦礦光伏產品。
-
----
-
-### 2026-07-03 09:32:46  #公司 #市場
-
-【交換機概念盤初走強 星網銳捷4天3板】早盤交換機概念走強，星網銳捷走出4天3板，銳捷網路20cm4天2板，盛科通訊、紫光股份、菲菱科思、共進股份跟漲。
-
----
-
-### 2026-07-03 09:32:30  #市場
-
-【摺疊屏概念表現活躍 福蓉科技直線漲停】摺疊屏概念表現活躍，福蓉科技直線漲停，宜安科技、安潔科技、精研科技、聯得裝備跟漲。
-
----
-
-### 2026-07-03 09:32:15  #市場
-
-富時中國A50指數期貨盤初漲逾1%。
-
----
-
-### 2026-07-03 09:32:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-FTSE China A50 index futures rose more than 1% in early trade.
-
----
-
-### 2026-07-03 09:32:09  #市場
-
-紐約期銀日內漲3%，現報62.90美元/盎司。
-
----
-
-### 2026-07-03 09:32:07  #其他
-
-羅德里格斯：委內瑞拉地震死亡人數已達2595人。
-
----
-
-### 2026-07-03 09:32:07  #MKT News #Important #Market Themes #China EV Leaders #Market Regions #Greater China #01211.HK #Impact bullish #09863.HK #02238.HK
-
-Hong Kong-listed auto stocks opened higher; BYD Company (01211.HK) rose over 5%, Leapmotor (09863.HK) gained nearly 3%, BAIC (01958.HK) and GAC Group (02238.HK) also advanced.
-
----
-
-### 2026-07-03 09:32:02  #市場 #焦點
-
-科創50日內跌幅達1.03%，成分股中，華海清科跌5.69%，中科飛測跌4.00%，盛美上海跌3.38%，佰維儲存跌2.91%。
-
----
-
-### 2026-07-03 09:31:47  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報2671.50點。
-
----
-
-### 2026-07-03 09:31:32  #MKT News #Important #Market Themes #China Tech Giants #01024.HK #Impact bullish
-
-Hang Seng Tech Index rose over 1% in early trade, led by Kuaishou (01024.HK).
 
 ---
