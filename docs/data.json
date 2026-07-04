@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-04 18:55:26",
-  "count": 13262,
+  "updated": "2026-07-04 18:59:29",
+  "count": 13263,
   "items": [
+    {
+      "id": "mkt:019f2cc6-7561-7aab-8c9c-c0a8e8256158",
+      "time": "2026-07-04 18:57:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine."
+    },
+    {
+      "id": "4970390",
+      "time": "2026-07-04 18:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國方面發表宣告稱，德國總理默茨與烏克蘭總統澤連斯基通電話，討論了俄羅斯對基輔和烏克蘭其他地區的空襲。"
+    },
     {
       "id": "4970386",
       "time": "2026-07-04 18:48:00",
@@ -122039,14 +122061,6 @@
         "國際"
       ],
       "text": "伊朗國家電視臺表示，在未經許可的船隻遭到警告射擊後，目前有更多船舶正申請過境霍爾木茲海峽的伊朗許可。"
-    },
-    {
-      "id": "mkt:019f08b8-e936-7dd8-b141-f5ab6f244d8a",
-      "time": "2026-06-27 18:56:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.6-magnitude earthquake offshore East Nusa Tenggara, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency reported a magnitude-5.6 earthquake at 17:37 local time on June 27, located about 202 km northeast offshore of East Nusa Tenggara province."
     }
   ]
 }
