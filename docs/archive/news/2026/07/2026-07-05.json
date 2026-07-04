@@ -1,7 +1,48 @@
 {
   "date": "2026-07-05",
-  "count": 139,
+  "count": 144,
   "items": [
+    {
+      "id": "mkt:019f2f03-0212-7aab-8c9f-aa49d11ba838",
+      "time": "2026-07-05 05:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Putin and Trump discussed Ukraine during their call."
+    },
+    {
+      "id": "4970609",
+      "time": "2026-07-05 05:22:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列發動襲擊，打擊黎巴嫩南部的曼蘇里與塔盧薩兩地。"
+    },
+    {
+      "id": "4970608",
+      "time": "2026-07-05 05:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京與特朗普通話，雙方談及烏克蘭問題。"
+    },
+    {
+      "id": "mkt:019f2f01-f080-7aab-8c9f-a3f608cf375d",
+      "time": "2026-07-05 05:21:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Putin held a US-initiated phone call with President Trump lasting 1 hr 25 min; Putin congratulated Trump and the American people on the US Independence Day, marking the 250th anniversary."
+    },
+    {
+      "id": "4970607",
+      "time": "2026-07-05 05:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京與特朗普通電話。"
+    },
     {
       "id": "mkt:019f2eff-d73c-7aab-8c9f-9e4bf021a3bb",
       "time": "2026-07-05 05:19:06",
