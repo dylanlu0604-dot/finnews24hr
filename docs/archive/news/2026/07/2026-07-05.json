@@ -1,7 +1,20 @@
 {
   "date": "2026-07-05",
-  "count": 144,
+  "count": 145,
   "items": [
+    {
+      "id": "mkt:019f2f05-9228-7aab-8c9f-b65e2faf57b5",
+      "time": "2026-07-05 05:25:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Lebanese National News Agency reported Israeli strikes hit Mansouri and Talousa in southern Lebanon in the past few hours."
+    },
     {
       "id": "mkt:019f2f03-0212-7aab-8c9f-aa49d11ba838",
       "time": "2026-07-05 05:22:33",
