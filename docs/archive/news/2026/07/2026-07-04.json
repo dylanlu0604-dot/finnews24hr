@@ -1,7 +1,35 @@
 {
   "date": "2026-07-04",
-  "count": 555,
+  "count": 558,
   "items": [
+    {
+      "id": "4970470",
+      "time": "2026-07-04 21:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樓劍鋒出任華友控股集團總裁】據華友控股集團，7月4日，華友控股集團召開新幹部見面會，聘任樓劍鋒為華友控股集團總裁，全面統籌集團日常經營管理各項工作。"
+    },
+    {
+      "id": "4970468",
+      "time": "2026-07-04 21:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特媒體：美伊下一輪談判將於11日進行，將討論被凍結資金與核問題】綜合沙特媒體哈達斯與阿拉伯衛星電視臺報道，美國與伊朗的談判將於7月11日在巴基斯坦進行，將討論制裁、被凍結的伊朗資金以及核問題。伊朗代表團的人員組成將在哈梅內伊的葬禮結束後確定。"
+    },
+    {
+      "id": "mkt:019f2d4c-f57c-7aab-8c9d-21dc4c353492",
+      "time": "2026-07-04 21:24:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Saudi media: US-Iran talks in Pakistan on July 11 to discuss frozen funds, nuclear issue】Saudi outlets Hadath and Al Arabiya report US and Iran will hold talks in Pakistan on July 11 to discuss sanctions, frozen Iranian funds and nuclear issues. Iran’s delegation composition will be decided after Khamenei’s funeral."
+    },
     {
       "id": "mkt:019f2d4b-165f-7aab-8c9d-1b537127b9a1",
       "time": "2026-07-04 21:22:03",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-04 21:24:23",
-  "count": 13254,
+  "updated": "2026-07-04 21:28:27",
+  "count": 13255,
   "items": [
+    {
+      "id": "4970470",
+      "time": "2026-07-04 21:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樓劍鋒出任華友控股集團總裁】據華友控股集團，7月4日，華友控股集團召開新幹部見面會，聘任樓劍鋒為華友控股集團總裁，全面統籌集團日常經營管理各項工作。"
+    },
+    {
+      "id": "4970468",
+      "time": "2026-07-04 21:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特媒體：美伊下一輪談判將於11日進行，將討論被凍結資金與核問題】綜合沙特媒體哈達斯與阿拉伯衛星電視臺報道，美國與伊朗的談判將於7月11日在巴基斯坦進行，將討論制裁、被凍結的伊朗資金以及核問題。伊朗代表團的人員組成將在哈梅內伊的葬禮結束後確定。"
+    },
+    {
+      "id": "mkt:019f2d4c-f57c-7aab-8c9d-21dc4c353492",
+      "time": "2026-07-04 21:24:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Saudi media: US-Iran talks in Pakistan on July 11 to discuss frozen funds, nuclear issue】Saudi outlets Hadath and Al Arabiya report US and Iran will hold talks in Pakistan on July 11 to discuss sanctions, frozen Iranian funds and nuclear issues. Iran’s delegation composition will be decided after Khamenei’s funeral."
+    },
     {
       "id": "mkt:019f2d4b-165f-7aab-8c9d-1b537127b9a1",
       "time": "2026-07-04 21:22:03",
@@ -121960,22 +121988,6 @@
         "公司"
       ],
       "text": "【張雪公佈原影片，闢謠“東鵬老闆不喝東鵬”】“張雪機車”創始人張雪在短影片平臺釋出影片，闢謠“東鵬老闆不喝東鵬”一事。 他表示，這個梗是出自於自己請東鵬飲料董事、聯席總裁蔣薇薇喝東鵬，並專門放出了當時的原影片。畫面裡，蔣薇薇到訪張雪公司，張雪掃碼買了幾瓶東鵬特飲，然後開玩笑說“她一定從來沒有喝過這種請東鵬的”。蔣薇薇笑著回應：“沒有，沒有這麼喝過，第一次有人請我喝東鵬。”完整的對話就是這樣，跟所謂的“董事長拒喝自家產品”半毛錢關係都沒有。張雪最後還補了一句：“吃瓜遲到我自己頭上了，好神奇。但是你說東鵬有競爭對手嗎？好像沒有競爭對手。要不是競爭對手作惡的話，難道又是純粹為了流量嗎？好神奇哦。”"
-    },
-    {
-      "id": "mkt:019f0942-7cdd-7dd8-b142-4d55adc9c4d9",
-      "time": "2026-06-27 21:26:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xiong'an New Area approved to build national IP protection center】China's National Intellectual Property Administration (CNIPA) has approved construction of a national-level intellectual property protection center in the Xiong'an New Area. The center, now in preparatory stages, will target next‑generation information technology and advanced materials. Once operational it will provide a one‑stop platform for rapid pre-examination, expedited confirmation of rights and accelerated enforcement, and aims to cut average patent grant times by about 70% to speed protection of corporate innovation in the covered sectors."
-    },
-    {
-      "id": "4958439",
-      "time": "2026-06-27 21:25:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雄安新區獲批建設國家級智慧財產權保護中心】據“雄安釋出”，近日，國家智慧財產權局批覆同意雄安新區開展國家級智慧財產權保護中心建設，未來面向新一代資訊科技、新材料兩大領域開展智慧財產權快速協同保護工作。目前雄安新區國家級智慧財產權保護中心正有序推進各項籌建工作，待中心建成驗收、正式運營後，將形成集快速預審、快速確權、快速維權於一體的智慧財產權“一站式”綜合服務平臺，相關產業的專利平均授權時間將縮短70％，從而高效保護企業創新成果，加速形成產業技術創新優勢。"
     }
   ]
 }
