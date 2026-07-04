@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 03:49:13_
-_本檔包含 2450 則快訊，約 505309 字_
+_更新時間：2026-07-05 05:11:55_
+_本檔包含 2428 則快訊，約 505357 字_
+
+---
+
+### 2026-06-30 18:30:11  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.33% Lower — The SENSEX Index decreased 250 points or 0.33 percent on Tuesday to close at 76479 points. The decline was led by Tata Consultancy (-3.09%), Infosys (-2.97%) and HCL Tech (-2.76%). On the upside, the strongest performers were Maruti Suzuki (5.50%), Titan Company (3.41%) and Bajaj Finance (2.54%).
+
+---
+
+### 2026-06-30 18:20:22  #Trading Economics #Economy #Austria #Current Account #Importance 1
+
+Austria Logs Widest Current Account Surplus in 2 Years — Austria recorded a current account surplus of €7.33 billion in Q1 2026, the largest in two years, up from €6.62 billion in the corresponding period of the previous year. The services surplus rose to €5.82 billion from €5.41 billion, and the goods surplus climbed to €1.81 billion from €1.12 billion, with exports rising more than imports. Notably, goods surpluses with the US and UK increased significantly, while the deficit with Germany narrowed, amid rising exports of machinery, vehicles, and chemicals. However, the primary income surplus fell to €0.65 billion from €0.93 billion, and the secondary income deficit grew to €0.94 billion from €0.84 billion.
+
+---
+
+### 2026-06-30 18:18:55  #Trading Economics #Economy #Macedonia #Industrial Production #Importance 1
+
+North Macedonia Industrial Output Pulls Back — North Macedonia's industrial production fell 2.0% year-on-year in May 2026, reversing a 7.6% increase in April. The decline was driven by mining and quarrying, which fell 3.6% after a 4.3% rise, and manufacturing, which contracted 2.6% following a 6.8% increase. Meanwhile, electricity, gas, steam and air conditioning supply remained resilient, rising 6.1%, though easing from 22.6%. By industrial grouping, output growth slowed for energy (6.5% vs 17.2%) and intermediate goods excluding energy (3.4% vs 14.1%). Capital goods (-3.3% vs 1.5%) and non-durable consumer goods (-8.4% vs -5.5%) moved deeper into contraction, while the decline in durable consumer goods eased to 1.1% from 4.9%.
+
+---
+
+### 2026-06-30 18:18:47  #Trading Economics #Economy #Portugal #Inflation Rate #Importance 1
+
+Portugal Inflation Eases to 3.2% in June — Portugal’s consumer price inflation rate dipped to 3.2% year-over-year in June 2026, down from the over two-year high of 3.3% recorded in April and May, according to a preliminary estimate. Energy inflation slowed to 9.2% from 13.1%, and food price growth also moderated, with unprocessed food inflation easing to 5.2% from 5.7%. However, core inflation, which excludes energy and unprocessed food, climbed to 2.5% from 2.2%, indicating broadening price pressures. The EU-harmonized inflation rate held steady at 3.1%, remaining near its highest level in two years and well above the ECB’s 2.0% target.
+
+---
+
+### 2026-06-30 18:18:20  #Trading Economics #Economy #Latvia #Retail Sales YoY #Importance 1
+
+Latvia Retail Sales Rise in May — Retail sales in Latvia rose by 3.3% year-on-year in May 2026 from a downwardly revised 2.5% growth in the previous month. Sales increased for food products (2.9% vs 1.8% in April), non-specialized stores (3.0% vs 1.6%), and non-food products, except for automotive fuel (5.5% vs 2.8%), lifted by higher sales in electrical household appliances (5.7% vs 3.1%), via mail order houses or via internet (12.3% vs 4.3%), hardware, paints, and glass (9.0% vs 5.3%), other household equipment (8.5% vs 3.7%), textiles, carpets, rugs, walls, and floor coverings (11.3% vs 0.4%), and not in stores, stalls, or markets (10.9% vs 3.6%). On the other hand, activity declined for automotive fuel (-2.1% vs 2.9%). On a monthly basis, retail sales fell by 0.1% in May, following a 0.4% drop in the preceding period.
+
+---
+
+### 2026-06-30 18:15:59  #Trading Economics #Markets #Italy #stocks #Importance 1
+
+Enel Stock Price Hits 17-week High — Enel shares increased to 10.16 EUR, the highest since February 2026. Over the past 4 weeks, Enel gained 6.17%, and in the last 12 months, it increased 23.15%.
+
+---
+
+### 2026-06-30 18:11:45  #Trading Economics #Economy #Serbia #Retail Sales YoY #Importance 1
+
+Serbia Retail Sales Picks Up — Real retail sales in Serbia rose by 6.2% from the previous year in May of 2026, picking up from the 5.6% increase in the previous month. Sales increased broadly throughout the Serbian economy, including retail trade of non-food products (5%), automotive fuel in specialized stores (6.6%), and food, beverages, and tobacco (7.1%). From the previous month, real retail sales expanded by 0.9%.
+
+---
+
+### 2026-06-30 18:09:19  #Trading Economics #Economy #Macedonia #Retail Sales YoY #Importance 1
+
+North Macedonia Retail Sales Growth Quickens — North Macedonia's retail sales rose 7.3% year-on-year in May 2026, accelerating from 2.1% in April. The strongest growth came from automotive fuel sales, which surged 36.2% after a 14.7% increase in the previous month. Retail sales excluding fuel rose 6.0%, slightly easing from 6.2%. Sales of food, beverages and tobacco accelerated to 15.0% from 9.1%, while non-food sales excluding fuel fell 3.6%, reversing a 1.6% increase in April.
 
 ---
 
@@ -14592,185 +14640,5 @@ Islamic Republic of Iran Broadcasting (IRIB) reported explosions in the Sirik ar
 ### 2026-06-28 05:18:11  #市場
 
 【委內瑞拉震後搜救工作持續 1名被困兒童獲救】當地時間27日，在委內瑞拉地震災區的最新搜救行動中，哥倫比亞救援隊在卡拉巴列達成功救出一名11歲男孩。這是距離72小時黃金救援視窗期最後數小時內最新救出的倖存者。委內瑞拉24日連續發生兩次7級以上強震，造成大量人員傷亡。委政府宣佈多項措施應對強震災情，國際社會已向委提供震後援助。（央視新聞）
-
----
-
-### 2026-06-28 05:08:37  #國際
-
-外交部長阿拉格齊將率外交代表團於週日出訪伊拉克。此行議程包括磋商地區局勢、雙邊關係及國際議題。
-
----
-
-### 2026-06-28 05:01:27  #國際
-
-市場資訊：美國總統特朗普與黎巴嫩總統約瑟夫·奧恩的通話氛圍“積極、充滿支援意味”，奧恩或將受邀前往華盛頓。
-
----
-
-### 2026-06-28 05:00:58  #MKT News #Market Themes #The Trump Trade
-
-Lebanon's presidential office said Trump told President Aoun the US will support Lebanon's economy and its legitimate security forces.
-
----
-
-### 2026-06-28 04:58:12  #焦點 #國際
-
-黎巴嫩總統府表示：特朗普向奧恩確認，美國政府將扶持黎巴嫩經濟，並支援黎巴嫩合法安全部隊。
-
----
-
-### 2026-06-28 04:53:35  #國際
-
-中國地震臺網正式測定：06月28日04時21分在日本本州東部附近海域（北緯40.25度，東經142.40度）發生5.9級地震，震源深度90千米。
-
----
-
-### 2026-06-28 04:53:29  #MKT News #XAUUSD #Impact bearish
-
-The Lebanese presidential palace said President Aoun told US President Trump on a phone call that Lebanon will assume responsibility for implementing the framework agreement with Israel. Aoun requested US help to prevent breaches of the agreement and to press Israel to withdraw from southern Lebanon.
-
----
-
-### 2026-06-28 04:52:35  #國際
-
-黎巴嫩總統府表示，奧恩已請求美國協助阻止違反協議的行為，並向以色列施壓，要求其撤出黎巴嫩南部區域。
-
----
-
-### 2026-06-28 04:52:31  #國際
-
-黎巴嫩總統府表示，奧恩在與特朗普的通話中稱，黎巴嫩將承擔起履行與以色列框架協議的責任。
-
----
-
-### 2026-06-28 04:52:18  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Neuberger: dollar likely to break six- to nine-month range】Neuberger portfolio manager Joseph Purtell said the dollar may strengthen in the near term as US real interest rates rise. He expects the currency to break out of its six- to nine-month trading range, but added that structural risks, including US fiscal sustainability, could weaken the dollar over the longer term.
-
----
-
-### 2026-06-28 04:51:56  #其他
-
-阿聯酋總統就地震遇難者向委內瑞拉代總統表達慰問。
-
----
-
-### 2026-06-28 04:42:17  #國際
-
-【日本巖手縣近海發生6.1級地震】據日本氣象廳公佈的資料，當地時間28日5時21分左右，日本巖手縣近海發生里氏6.1級地震，最大震感為震度5弱，震源深度40公里。本次地震暫無海嘯風險。（央視新聞）
-
----
-
-### 2026-06-28 04:41:27  #國際
-
-以色列對加沙地帶中部代爾拜萊赫東部發動猛烈空襲，現場升起滾滾濃煙。
-
----
-
-### 2026-06-28 04:41:10  #國際
-
-美國高階官員和黎巴嫩官員表示，美國總統特朗普透過電話與黎巴嫩總統約瑟夫·奧恩通話，並祝賀他簽署了與以色列的框架協議。
-
----
-
-### 2026-06-28 04:34:39  #公司 #國際
-
-法國電力集團（EDF）負責人發出警告：受電力供應短缺影響，美國或將面臨大面積停電風險。
-
----
-
-### 2026-06-28 04:31:24  #國際
-
-德國地學研究中心（GFZ）：日本本州東海岸附近發生6.07級地震。
-
----
-
-### 2026-06-28 04:30:50  #MKT News
-
-EMSC said a magnitude-6 earthquake struck near the east coast of Honshu, Japan.
-
----
-
-### 2026-06-28 04:29:51  #國際
-
-歐洲地中海地震中心（EMSC）：日本本州東海岸附近發生6級地震。
-
----
-
-### 2026-06-28 04:27:08  #MKT News
-
-【Tanzania national grid fault triggers widespread blackout】On the evening of the 27th local time, a technical fault on Tanzania’s national grid cut power to all areas connected to the national transmission network. The national power utility said the fault occurred at 19:00 and the outage affected households, businesses and public institutions across multiple regions. Technical teams are conducting repairs and will restore supply in phases.
-
----
-
-### 2026-06-28 04:26:30  #公司 #國際
-
-【英國橋點集團即將達成約10億美元收購地產部門交易】英國私募資本集團橋點集團（Bridgepoint）即將達成一項交易，以約10億美元收購美國投資公司凱恩·安德森（Kayne Anderson）旗下地產業務板塊。兩家投資機構的談判仍在推進，交易最快或於週一對外公佈。本次交易將採用現金加股權的支付形式，凱恩·安德森地產業務估值約10億美元。
-
----
-
-### 2026-06-28 04:25:06  #公司
-
-【坦尚尼亞國家電網故障致大面積停電】當地時間27日晚，由於坦尚尼亞國家電網發生技術故障，導致大面積停電，所有連線到國家輸電網路地區的電力供應中斷。坦尚尼亞電力供應公司當晚發表宣告稱，當天19時，國家電網發生故障。停電影響了坦尚尼亞全國多個地區的家庭、企業和公共機構。坦尚尼亞電力公司表示，其技術團隊正在進行搶修工作，分階段恢復電力供應。（央視新聞）
-
----
-
-### 2026-06-28 04:23:11  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Iberdrola Stock Price Hits Near 15-year High — Iberdrola shares increased to 21.98 EUR, the highest since August 2011. Over the past 4 weeks, Iberdrola gained 10.19%, and in the last 12 months, it increased 32.86%.
-
----
-
-### 2026-06-28 04:18:24  #國際
-
-卡達和埃及外長在通話中討論了地區局勢發展。
-
----
-
-### 2026-06-28 04:17:59  #MKT News
-
-【Gavekal Research: scenario of Trump forcing Fed cuts that keep inflation above 2% is unlikely】Gavekal Research said markets feared in 2025 that Trump might undermine Fed independence by nominating a political ally as chair, forcing rate cuts and leaving inflation persistently above the Fed’s 2% target. Developments over the past seven months make that scenario unlikely: the appointment of Kevin Walsh to lead the Fed and the retention of 11 of 12 regional Fed bank presidents. At Walsh’s first meeting earlier this month the Fed emphasized its commitment to price stability, surprising some market participants who had expected a more dovish stance.
-
----
-
-### 2026-06-28 04:10:57  #國際
-
-歐盟：啟動一項針對查德、總額6300萬歐元的安全合作計劃。
-
----
-
-### 2026-06-28 04:04:21  #其他
-
-【巴基斯坦準軍事部隊遭恐襲 三名安全人員死亡】巴基斯坦警方人員27日說，該國南部信德省首府卡拉奇一處準軍事部隊設施當晚遭遇恐怖襲擊，造成至少三名安全部隊人員死亡。信德省警察總監賈韋德·阿拉姆·奧多說，一夥恐怖分子駕駛一輛載滿炸藥的汽車撞向該部隊的建築大門。隨後，安全部隊與恐怖分子發生激烈交火，4名恐怖分子被擊斃。目前，大批安全部隊人員已趕赴現場展開清剿和全面排查行動。據警方訊息人士透露，極端武裝組織“自由人黨”宣稱制造此次襲擊。此前，巴警方訊息人士稱，巴安全部隊在現場擊斃5名恐怖分子。（新華社）
-
----
-
-### 2026-06-28 04:03:18  #國際
-
-以色列對加沙地帶代爾拜萊赫東部發動空襲。
-
----
-
-### 2026-06-28 03:59:39  #MKT News
-
-【Trump nominates Lance Shroyer as ICE director】President Trump has nominated Lance Shroyer to lead U.S. Immigration and Customs Enforcement (ICE). Trump said Shroyer, a former Oklahoma state trooper and U.S. Marine who has long worked alongside ICE, has extensive experience in combating illegal-immigration crime and carrying out deportations. Trump urged the Senate to move quickly to confirm the nomination.
-
----
-
-### 2026-06-28 03:55:29  #國際
-
-【特朗普提名俄克拉荷馬州執法官員出任移民與海關執法局局長】美國總統特朗普表示，他將提名蘭斯·施羅耶擔任美國移民與海關執法局（ICE）局長，並敦促參議院“立刻”批准這項任命。特朗普於週六在社交媒體發文稱，施羅耶曾任職俄克拉荷馬州州警，同時是美國海軍陸戰隊退伍軍人。特朗普寫道：“他是一名愛國者，擁有一線實戰經驗；數十年間專門抓捕窮兇極惡之徒，是一名實績出眾的領導者。”目前，戴維·文徹拉擔任該移民機構代理局長。移民與海關執法局前代理局長託德·萊昂斯已於4月宣佈卸任，其最後任職日為5月31日。特朗普第二屆任期內，該局至今尚未產生正式局長。
-
----
-
-### 2026-06-28 03:54:53  #國際
-
-美國食品藥品監督管理局（FDA）前任抗癌藥物部門主管理查德·帕茲德正被考慮重返該職位。
-
----
-
-### 2026-06-28 03:51:37  #MKT News
-
-President Trump returned to the White House from his Virginia golf club, MSNow White House reporter said.
 
 ---

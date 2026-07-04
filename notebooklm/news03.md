@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 03:49:13_
-_本檔包含 3036 則快訊，約 505988 字_
+_更新時間：2026-07-05 05:11:55_
+_本檔包含 3038 則快訊，約 505649 字_
+
+---
+
+### 2026-07-02 15:15:30  #國際
+
+【外交部：亞太地區需要的是穩定而不是動盪】7月2日，外交部發言人郭嘉昆主持例行記者會。有記者提問，今年以來，日本首相高市早苗頻繁提及所謂新版“自由開放印太”構想，日方各層級官員訪問菲律賓、越南、澳大利亞等國，就這一構想進行遊說。發言人對此有何評論？郭嘉昆表示，嘴上喊著自由開放，心裡想著對立對抗，這樣名不副實的理念與地區國家求和平謀發展促合作的共同心願背道而馳，也註定不會得到真心認同。亞太地區需要的是穩定而不是動盪，注重的是合作而不是分裂，維護戰後國際秩序、維護《聯合國憲章》宗旨和原則，是亞太實現繁榮穩定的根基，也是地區國家的共同責任。（央視新聞）
+
+---
+
+### 2026-07-02 15:15:05  #MKT News #Star Stocks #Amazon #Market Themes #Chip Wars #Magnificent 7 #AMZN.O #Impact bullish
+
+【Ming‑Chi Kuo: Amazon to shift consumer devices to in‑house processors to cut costs】Ming‑Chi Kuo says Amazon will develop in‑house processors for consumer electronics to lower chip costs and free capital for AI infrastructure. Amazon's free cash flow was about $1.2bn in 2026 Q1. From 2027 it will gradually adopt a COT (customer‑owned tooling) model similar to Trainium for these chips, with Shixin handling backend design and testing; full conversion could reach roughly 40m units shipped annually.
+
+---
+
+### 2026-07-02 15:15:02  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.07%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。
+
+---
+
+### 2026-07-02 15:15:01  #公司
+
+【同慶樓在安徽成立餐飲管理公司 註冊資本1000萬】天眼查App顯示，近日，安徽富禧餐飲管理有限公司成立，法定代表人為熊鷹，註冊資本1000萬人民幣，經營範圍包括餐飲管理、單位後勤管理服務、餐飲服務、食品銷售等，由同慶樓（605188）全資持股。
+
+---
+
+### 2026-07-02 15:14:44  #公司 #國際
+
+【李在明：半導體、顯示器、二次電池和生物醫藥四大尖端產業是決定韓國AI時代未來發展的核心戰略產業】韓國總統李在明2日表示，忠清地區蘊藏著巨大的發展潛力，只要企業戰略性投資與政府的堅定支援形成合力，不僅將成為韓國尖端產業中心，更將崛起為引領人工智慧（AI）時代的世界級創新中心。李在明7月2日在忠清南道牙山市主持召開“忠清地區尖端產業發展願景國民報告會”，他在聽取三星電子、SK海力士、賽爾群等企業的忠清地區投資計劃介紹後表示，半導體、顯示器、二次電池和生物醫藥四大尖端產業是決定韓國AI時代未來發展的核心戰略產業，而忠清地區正是四大尖端產業集聚、產業生態完善的核心區域。李在明表示，政府絕不會錯失推動區域均衡發展與尖端產業佈局深度融合的重大機遇，將動員一切可用資源，積極支援企業投資，讓企業的戰略決策充分釋放效益。
+
+---
+
+### 2026-07-02 15:14:34  #其他
+
+【預計傳送旅客近1978萬人次，深圳鐵路暑運啟動】7月1日，2026年鐵路暑期運輸全面啟動 將持續至8月31日 共計62天 深圳鐵路預計 傳送旅客1977.85萬人次 同比增幅3.2%。（深圳釋出）
+
+---
+
+### 2026-07-02 15:12:24  #市場
+
+【機構：高庫存壓力猶存，產業鏈價格重心仍未企穩】據集邦諮詢，當前矽料環節面臨高庫存與供給釋出的雙重壓力。行業整體庫存維持在52萬噸左右，去庫程序滯緩。7月隨著主流企業復產提產，預計單月矽料產出將接近11萬噸，增量釋放加劇了相對下游需求的過剩趨勢。目前拉晶廠原料儲備充裕，採買意願低迷，上下游價格博弈導致現貨成交冷清。儘管近期反內卷及能耗政策傳言刺激期貨價格抬升，但現貨基本面弱現實特徵穩固，短期價格重心仍有下行風險，難見反轉趨勢。
+
+---
+
+### 2026-07-02 15:11:16  #MKT News
+
+German Chancellor Merz said he will present proposals to simplify the tax code this autumn.
+
+---
+
+### 2026-07-02 15:10:59  #MKT News #Market Regions #Europe & UK #Copper #Impact bullish #EURUSD #DAX
+
+German government documents show Berlin will introduce a plan by end-2026 to accelerate power-grid expansion.
+
+---
+
+### 2026-07-02 15:10:34  #公司
+
+【美光CEO再次暗諷蘋果：低價採購是造成記憶體短缺的關鍵】美光科技執行長最新表示，過去幾年裡，一些客戶要求記憶體製造商降低價格，從而帶來了一些負面影響。2023年美光的價格降到了原來的1/3，導致無力投資新的產能。美光的這番暗諷被普遍認為是針對其大客戶蘋果發出的，儘管他並未直接提及蘋果的名字。美光與蘋果之間的對峙，代表著記憶體公司與消費電子製造商的市場平衡因人工智慧發展而改變。
+
+---
+
+### 2026-07-02 15:09:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Chancellor Merz said Germany's pension reform will be completed before year-end.
+
+---
+
+### 2026-07-02 15:09:36  #公司 #市場 #央行 #國際
+
+【比特幣在美聯儲沃什發表講話後回升，就業資料公佈在即】比特幣在美聯儲主席凱文·沃什週三於葡萄牙辛特拉舉行的歐洲央行論壇上表示通脹風險已經緩解後回升。德意志銀行分析師在一份報告中表示，沃什的言論促使投資者不再押注7月份加息的可能性。他們表示，週三弱於預期的美國資料（包括ADP私營部門就業人數和美國供應管理學會製造業報告）進一步支撐了這種重新定價。目前的注意力轉向即將公佈的美國非農就業報告。倫敦證券交易所集團的資料顯示，比特幣上漲0.8%，至60,530美元，週三曾觸及57,775美元的21個月低點。
+
+---
+
+### 2026-07-02 15:09:15  #公司
+
+【礪算科技獲知名牛散趙建平、鍾瑋瑋入股】最新工商變更顯示，上海享宏文勝企業管理有限合夥斥資4000萬元成為礪算科技（上海）有限公司直接股東，佔該公司0.99%的股份，該有限合夥的投資人正是知名牛散趙建平和鍾瑋瑋。公開資訊顯示，趙建平、趙吉父女為東芯股份前十大股東，當前合計持股市值超18億元；東芯股份系礪算科技第一大股東，持股比例達35.87%。礪算科技為國內知名GPU企業，其自研消費級GPU LX 7G100系列於5月20日登陸京東首發，發售當天即售罄。知名牛散此時佈局，彰顯對國產GPU商業化落地程序及公司長期發展前景的持續看好。
+
+---
+
+### 2026-07-02 15:09:10  #MKT News #Important #Market Regions #Greater China #06166.HK #Impact bearish #06869.HK #01347.HK
+
+Hong Kong-listed optical-communications stocks extended losses: Cambridge Technology (06166.HK) slid more than 23%, Yangtze Optical Fibre and Cable (06869.HK) fell over 21%, while Hua Hong Hongli (01347.HK) and Lens Technology (06613.HK) also declined.
+
+---
+
+### 2026-07-02 15:09:03  #其他
+
+港股光通訊板塊持續下探，劍橋科技(06166.HK)跌超23%，長飛光纖光纜(06869.HK)跌超21%，華虹宏力(01347.HK)、藍思科技(06613.HK)等跟跌。
+
+---
+
+### 2026-07-02 15:08:44  #其他
+
+【巴基斯坦暴雨強風致11死27傷】巴基斯坦官員2日說，隨著季風雨季到來，強降雨、雷暴和強風天氣1日席捲該國多個地區，引發多起事故，造成至少11人死亡、27人受傷。（新華社）
+
+---
+
+### 2026-07-02 15:08:15  #MKT News #Market Regions #Greater China
+
+【He Wei to attend funeral of Iran's late Supreme Leader Khamenei】Foreign Ministry spokesman said Vice‑Chairman of the NPC Standing Committee He Wei will represent China at the funeral of Iran's late Supreme Leader Khamenei in Tehran on July 3.
+
+---
+
+### 2026-07-02 15:08:02  #MKT News #EURUSD #Impact bullish #DAX
+
+Germany's coalition government pledged to conclude additional trade and investment agreements.
+
+---
+
+### 2026-07-02 15:07:50  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
+
+Brent crude down 1.00% intraday at $70.54/bbl.
+
+---
+
+### 2026-07-02 15:07:49  #市場 #焦點
+
+布倫特原油期貨<LCOc1>跌至70.47美元，創2月27日以來新低。
+
+---
+
+### 2026-07-02 15:07:37  #MKT News
+
+German chancellor MERZ said tax reform has eased the burden on low- and middle-income households, with average annual savings of up to €600.
+
+---
+
+### 2026-07-02 15:07:35  #國際
+
+【何維將出席伊朗已故最高領袖哈梅內伊葬禮】外交部發言人宣佈：全國人大常委會副委員長何維將代表中方出席7月3日在德黑蘭舉行的伊朗已故最高領袖哈梅內伊葬禮。（外交部）
+
+---
+
+### 2026-07-02 15:07:23  #MKT News #Market Regions #Europe & UK #Market Themes #Chip Wars #ASML.AS #Impact bearish #ASMI.AS #IFX.DE
+
+European equities opened lower as semiconductor stocks fell; ASML, ASMI, BESI, Infineon and AIXTRON down 2%-4%.
+
+---
+
+### 2026-07-02 15:06:59  #市場 #國際
+
+歐洲晶片股阿斯麥(ASML)、ASMI、貝施(BESEMER，程式碼BESI)、英飛凌(INFINEON)、艾邁斯歐司朗(AIXTRON)股價下跌2%至4%不等。
+
+---
+
+### 2026-07-02 15:06:59  #MKT News #DAX #Impact bullish #EOAN.DE #RWE.DE
+
+Germany's coalition government says implementation timelines for power grid projects will be halved.
+
+---
+
+### 2026-07-02 15:06:36  #宏觀 #其他 #焦點
+
+【商務部：中歐於今秋舉行貿易投資磋商機制第二次例會】商務部新聞發言人何亞東在2日舉行的例行新聞釋出會上介紹中歐貿易投資磋商機制首次會議情況時說，中歐貿易投資磋商機制是中歐在經貿領域新建立的常態化交流機制，雙方商定每年舉行1至2次部長級會議。中方已邀請歐盟委員會貿易和經濟安全委員謝夫喬維奇於今年秋季訪華，舉行磋商機制的第二次例會。何亞東介紹，首次會議期間，雙方重點討論從三個領域著手，推動貿易向上平衡，而不是向下平衡：一是新興領域，雙方將努力擴大在AI和綠色轉型等領域合作；二是潛在領域，雙方將深入挖掘服務貿易等領域合作潛力；三是問題領域，雙方將透過市場準入磋商，推動彼此關切得到逐步解決。雙方就中歐經貿關係的新定位達成共識，即穩定、平衡的中歐關鍵貿易伙伴。這有助於改善廣大中歐企業的預期，為中歐乃至全球經濟發展注入更多確定性和正能量。（新華社）
 
 ---
 
@@ -18136,157 +18292,5 @@ U.S. June Challenger job cuts MoM -53%; prior +16%.
 ### 2026-07-01 17:31:23  #國際
 
 市場訊息：烏克蘭總統澤連斯基表示，烏克蘭方面第二次襲擊了位於烏法市的俄羅斯煉油廠，該地點距離前線超 1300 公里（800 英里），基輔當局正加大對俄羅斯腹地目標的打擊力度。
-
----
-
-### 2026-07-01 17:31:20  #MKT News #Economic Calendar #Important
-
-United States | Challenger Job Cuts (MoM) (Jun) | actual -53% | previous 16%
-
----
-
-### 2026-07-01 17:31:08  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish
-
-U.S. job cuts announced in June totaled 45,849, the lowest monthly reading since December 2025, according to Challenger data.
-
----
-
-### 2026-07-01 17:30:50  #公司
-
-【立昂微：8英寸重摻雜外延片訂單旺盛，12英寸28nm邏輯晶片用矽片已批次供貨】 立昂微釋出投資者關係活動記錄表公告，公司整體出貨規模保持高位，訂單需求旺盛。其中，8英寸重摻雜外延片訂單旺盛，公司6英寸襯底及拋光片月產能達75萬片，絕大部分進一步深加工為6英寸外延片出貨，外延片生產所需襯底全部由自身配套供給，實現完全自主可控。在先進製程領域，嘉興基地定位28nm及以下先進製程12英寸輕摻拋光片，並配套佈局輕摻外延片，重點供應模擬晶片和邏輯晶片客戶，目前已實現28nm邏輯晶片用矽片批次供貨。
-
----
-
-### 2026-07-01 17:30:47  #公司
-
-【康恩貝：子公司己酮可可鹼緩釋片獲得藥品註冊證書】 康恩貝公告，全資子公司杭州康恩貝收到國家藥品監督管理局核准簽發的己酮可可鹼緩釋片《藥品註冊證書》。該藥品原研企業為Sanofi-aventis，適應症為周圍性血管疾病，包括間歇性跛行和靜息疼痛。杭州康恩貝於2024年12月遞交藥品註冊申請，目前已投入研發費用約1009萬元。根據國家藥監局藥品審評中心網站顯示，截至本公告日，己酮可可鹼緩釋片按化學藥品3類註冊申請獲得批准上市的企業包括杭州康恩貝在內有16家國內生產廠家。
-
----
-
-### 2026-07-01 17:30:37  #經濟數據 #美國
-
-【美國6月挑戰者企業裁員人數4.5849萬人】美國6月挑戰者企業裁員人數4.5849萬人，前值9.7006萬人。
-
----
-
-### 2026-07-01 17:30:27  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US Challenger job cuts YoY -4.5% in June, versus 3.40% previously.
-
----
-
-### 2026-07-01 17:30:25  #資料 #國際
-
-美國6月挑戰者企業裁員人數 4.5849萬人，前值9.7006萬人。
-美國6月挑戰者企業裁員年率 -4.5%，前值3.40%。
-
----
-
-### 2026-07-01 17:30:16  #MKT News #Economic Calendar #Important
-
-United States | Challenger Job Cuts (YoY) (Jun) | actual -4.5% | previous 3.40%
-
----
-
-### 2026-07-01 17:30:08  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-US June Challenger job-cut announcements 45,849, prior 97,006.
-
----
-
-### 2026-07-01 17:30:03  #公司 #國際
-
-【美媒：聯合國擬牽頭制定全球AI規則】一個由聯合國支援的新委員會將把各大科技公司的高管們與各國元首聚集在一起，共同制定關於人工智慧的全球性規則。據報道，聯合國及其國際電信聯盟正在組建“人工智慧促進公益全球委員會”。該委員會的首次會議將於7月8日在瑞士日內瓦舉行。
-
----
-
-### 2026-07-01 17:30:00  #MKT News #Economic Calendar #Important
-
-United States | Challenger Job Cuts (Jun) | actual 45849K | previous 97006K
-
----
-
-### 2026-07-01 17:29:55  #公司
-
-【遠東股份：6月子公司中標訂單合計17.34億元】遠東股份公告，2026年6月份，公司收到子公司中標/簽約千萬元以上合同訂單合計為人民幣17.34億元，涉及智慧纜網/電能（含智慧電網線纜、綠色建築線纜、智慧製造線纜、清潔能源線纜）、智慧電池儲能/算力AI（含資料中心線纜、AIDC用光纖、儲能系統、鋰電池、鋰電銅箔）及智慧機場等業務。
-
----
-
-### 2026-07-01 17:29:51  #MKT News #Market Themes #AI Revolution
-
-【Axios: UN to lead effort to set global AI rules】Axios reports a UN‑backed committee will convene tech CEOs and heads of state to draft global AI rules. The United Nations and the International Telecommunication Union are forming the Global Committee on AI for Good; its first meeting is scheduled for July 8 in Geneva, Switzerland.
-
----
-
-### 2026-07-01 17:29:31  #公司
-
-【安集科技：股東詢價轉讓初步定價297.36元/股】安集科技公告稱，根據2026年7月1日詢價申購情況，初步確定本次詢價轉讓價格為297.36元/股。參與報價的機構投資者有31家，有效認購股份423.9萬股，對應轉讓底價的有效認購倍數為1.46倍。擬轉讓股份已獲全額認購，初步確定21家機構投資者為受讓方，擬受讓股份290萬股。本次受讓方及股數為初步結果，存在擬轉讓股份被司法凍結、扣劃等風險，最終結果以中登上海分公司辦理結果為準。
-
----
-
-### 2026-07-01 17:29:13  #其他
-
-【西班牙6月高溫致超額死亡逾千例】西班牙衛生部監測系統今天（7月1日）公佈的資料顯示，受6月份持續5天、氣溫突破40攝氏度的熱浪影響，西班牙6月共有1029例“超額死亡”可歸因於高溫。而剛剛過去的這個6月僅次於2025年6月，為西班牙有記錄以來第二熱的6月。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。（CCTV國際時訊）
-
----
-
-### 2026-07-01 17:28:50  #公司 #市場
-
-【維峰電子：股票交易異常波動 人形機器人業務未批次生產】維峰電子公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無更正、補充，無應披露未披露重大事項，近期經營及環境無重大變化。公司關注到市場對機器人等熱點概念及子公司維訊光電討論多，目前人形機器人業務未批次生產，收入不確定，維訊光電未實際經營，對業績無重大影響。
-
----
-
-### 2026-07-01 17:28:25  #國際
-
-【美伊間接技術性會談在卡達舉行】半島電視臺今天（7月1日）援引訊息人士的話報道稱，伊朗和美國已在卡達首都多哈展開“技術層面”的談判。不過，雙方高階官員暫無舉行面對面會晤的計劃。訊息人士稱，至少有三個工作組正在多哈處理技術性討論：核問題、外交以及融資和凍結資金的返還。 另據路透社訊息，美國和伊朗正在透過卡達和巴基斯坦進行“間接技術性會談”。訊息人士稱，美國總統特使威特科夫和特朗普的女婿賈裡德·庫什納此前一天與卡達首相兼外交大臣穆罕默德舉行會晤，為今天的技術性會談奠定了基礎——但威特科夫和庫什納並沒有參加技術性會談。（CCTV國際時訊）
-
----
-
-### 2026-07-01 17:28:01  #公司
-
-【海爾智家等在北京成立製冷電器公司 註冊資本500萬】天眼查App顯示，近日，北京海爾製冷電器有限公司成立，法定代表人為王健，註冊資本500萬人民幣，經營範圍包括家用電器製造、製冷空調裝置製造、智慧家庭消費裝置製造等，由青島海爾製冷電器有限公司全資持股。
-
----
-
-### 2026-07-01 17:27:33  #MKT News #Important
-
-【Iran says it held indirect talks with US in Qatar on frozen assets and Strait of Hormuz】An Iranian senior official said indirect talks between Tehran and Washington began Tuesday evening in Doha and continued Wednesday. Iran met with Qatari and Pakistani officials who then engaged the US; discussions focused on unfreezing Iranian assets and security issues in the Strait of Hormuz.
-
----
-
-### 2026-07-01 17:27:28  #焦點 #國際
-
-【伊朗高官：伊美在卡達舉行間接會談，聚焦兩大問題】一位伊朗高階官員表示，德黑蘭與華盛頓之間的間接會談已於週二晚在多哈展開；會談重點討論了伊朗資金的解凍以及霍爾木茲海峽相關議題。該官員說道：“間接談判於週二晚開始。伊朗方面與卡達及巴基斯坦官員舉行了會晤，而這些官員隨後又與美方進行了接觸。間接會談在週三繼續進行，重點關注伊朗被凍結的資產以及霍爾木茲海峽問題。”
-
----
-
-### 2026-07-01 17:27:27  #宏觀 #國際
-
-【今日特朗普要聞】
-1、據熟悉相關磋商的美國官員透露，美國總統特朗普近期考量過重啟對伊朗全面戰爭的選項，連日來多次同國防部長皮特・赫格塞思、參謀長聯席會議主席丹・凱恩上將商討加大打擊力度的相關方案，但最終決定現階段仍以外交談判為主。
-2、為應對一場可能使電力基礎設施承壓的危險熱浪，特朗普政府已宣佈全美最大的能源電網進入電力緊急狀態。
-3、據知情人士透露，特朗普政府計劃編制一份外國情報目標總清單，名單涵蓋外國間諜嫌疑人、潛在策反物件。
-4、特朗普政府擬出臺新規，將利好超音速客機製造商。
-5、美國聯邦最高法院6月30日推翻總統特朗普限制“出生公民權”的行政令後，美國司法部官員要求聯邦檢察官把所謂“赴美產子游”作為優先調查事項。
-6、特朗普政府週二宣佈將停止向紐約州醫療補助計劃欺詐調查部門提供資金，理由是該部門表現不佳。
-7、美國政府道德辦公室於週二公佈的一份聯邦財務申報檔案顯示，特朗普去年透過旗下加密貨幣相關業務斬獲近12億美元收入。
-
----
-
-### 2026-07-01 17:26:53  #公司
-
-【*ST瑞茂：提示股票交易風險 多項風險因素待解】*ST瑞茂公告稱，公司股票股價剔除大盤整體因素後波動幅度較大，提醒投資者注意交易風險。公司控股股東及實控人股份100%被司法標記/凍結且多次輪候凍結，可能影響控制權穩定；存在多筆債務逾期及訴訟，後續或有相關風險；2025年度財報被出具無法表示意見，內控報告被出具否定意見，自2026年4月30日起被實施退市風險警示併疊加其他風險警示。此外，公司擬先行實施庭外重組，相關事項不確定性大，截至公告披露日尚未達成有效力協議。
-
----
-
-### 2026-07-01 17:26:52  #公司
-
-【金龍魚等在山東成立供應鏈公司 註冊資本1000萬】天眼查App顯示，近日，豐麥（山東）供應鏈有限公司成立，法定代表人為劉澤軒，註冊資本 1000 萬人民幣，經營範圍包括供應鏈管理服務、食品進出口、企業管理諮詢等，由海南曉麥易麥科技有限公司、金龍魚（300999）旗下樂益豐（上海）企業發展有限公司共同持股。
-
----
-
-### 2026-07-01 17:26:50  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
-
-South Africa Factory Activity Contracts in June: Absa — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) dropped to 47.3 in June 2026 from 50.8 in May, signaling renewed contraction in factory activity after two consecutive months of growth. This mainly reflected weaker demand, which weighed on new orders. Nevertheless, confidence about future business conditions improved strongly amid lower oil prices. Absa said the survey was conducted after the US and Iran agreed an interim deal to end the conflict and reopen the Strait of Hormuz, which prompted a decline in global oil prices.
 
 ---

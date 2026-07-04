@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-05 03:49:13_
-_本檔包含 2866 則快訊，約 505904 字_
+_更新時間：2026-07-05 05:11:55_
+_本檔包含 2853 則快訊，約 505084 字_
+
+---
+
+### 2026-07-03 11:20:35  #公司
+
+【風語築佈局物理AI模擬與合成資料業務】7月2日，風語築宣佈，公司控股合資公司上海風應科技有限公司正式成立併入駐上海模速空間。公開資訊顯示，風應科技將圍繞物理AI基礎設施方向開展業務佈局，聚焦生成式AI與模擬技術融合應用，包括物理模擬引擎、Sim2Real模擬訓練及空間合成資料等相關方向。據悉，風應科技的設立有助於完善公司在真實世界訓練與數字世界模擬方向的技術與業務協同體系，進一步拓展公司在物理AI及空間智慧領域的佈局。
+
+---
+
+### 2026-07-03 11:19:29  #MKT News
+
+Thailand's benchmark stock index rose as much as 1.4% to 1,615.60 points, its highest level since early March 2023.
+
+---
+
+### 2026-07-03 11:19:13  #公司
+
+【比依股份成立機器人科技公司 含多項AI業務】企查查APP顯示，近日，浙江致衡機器人科技有限公司成立，經營範圍包含智慧機器人的研發；人工智慧硬體銷售；人工智慧應用軟體開發；可穿戴智慧裝置製造；人工智慧行業應用系統整合服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由比依股份(603215)全資持股。
+
+---
+
+### 2026-07-03 11:19:06  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Heads for Weekly Gain — The New Zealand dollar rose toward $0.570, on track for its first weekly advance in three weeks after rebounding from a seven-month low, as the US dollar weakened. The greenback fell to a two-week low after a weaker-than-expected jobs report prompted investors to scale back bets on an imminent rate hike by the Federal Reserve. The kiwi also found support from expectations that the Reserve Bank of New Zealand will raise rates next week, with market pricing indicating about a 78% probability of a hike. However, economists remain divided, with some calling for a hold as the decline in oil prices reduced inflation risks. Domestic data this week added further support to the currency, with business sentiment improving, signaling the economy may not slow as much as initially feared. Consumer confidence also increased as inflation concerns linked to the earlier spike in oil prices quickly faded.
+
+---
+
+### 2026-07-03 11:18:55  #其他
+
+【達摩院：AI智慧體發現4種全新超導材料，已獲實驗驗證】7月3日，阿里達摩院聯合中國人民大學、中國科學院大學等釋出首個超導材料發現AI智慧體Elements Claw，預測出6.8萬個可能的超導材料，其中4種全新材料已合成並證實存在超導性。相關資料已全部開放。
+
+---
+
+### 2026-07-03 11:18:01  #MKT News #Commodities #Industrial Metals #Macro & Rates #Copper #Impact bullish #DXY #Impact bearish
+
+【Weaker rate‑hike expectations lift copper, industrial metals】Copper and other industrial metals rose on Friday as a softer dollar and lower market odds of Fed rate hikes pushed prices toward ending a two‑week decline. Softer US jobs data trimmed rate‑hike bets and eased some downside pressure on industrial demand. The dollar index fell for a second day, making metals cheaper in other currencies. Industrial metals had been pressured in recent weeks after US policymakers signalled greater willingness to tighten policy. Futures analysts said: "Oil's decline and weak US employment data have weakened the dollar, which is positive for copper, but persistent weakness in traditional industries will cap any rally."
+
+---
+
+### 2026-07-03 11:17:59  #宏觀
+
+【中國光伏行業協會人士：強制標準實施將打破光伏“內卷式”競爭】在今日舉行的第二屆晶矽光伏產業創新峰會上，中國光伏行業協會有關負責人表示，光伏元件強制性安全標準、能效標準有利於規範光伏行業競爭秩序，推動產業升級發展。下一步，協會將根據強制標準的要求，配合相關主管部門，進一步研究節能監察具體實施細則。光伏行業有了“一把尺子”，是很好的開端，央國企集採已經先行採用二級及以上標準（TOPcon2.0/BC1.0）。工信部近日聯合國家發改委、市場監管總局釋出的《矽單晶單位產品能源消耗限額》等三項強制效能效國家標準，將於2027年1月1日正式實施；由工信部組織制定的《光伏元件安全要求》等2項強制性安全國家標準5月25日正式釋出，將於2027年6月1日正式實施。
+
+---
+
+### 2026-07-03 11:17:46  #其他
+
+【教育部：做好2026年中小學、幼兒園暑期安全工作】近日，教育部辦公廳印發《關於做好2026年中小學、幼兒園暑期安全工作的通知》進行部署。通知要求，各地各校要嚴格落實基礎教育規範管理鞏固年行動和中小學陽光招生專項行動有關要求，嚴格作業考試管理，規範辦學行為，全面落實招生入學政策。要全面排查整治校園安全風險隱患，強化汛期應急防範，嚴格落實校園封閉管理。要推動有關部門落實水域管理責任、完善安全防護設施、加大動態巡查管控，嚴防學生溺水事件發生。要紮實開展校園餐、教輔、校服突出問題排查和整改，持續鞏固“三項整治”成果。要切實減輕教師非教育教學負擔，保障教師合法休息權益。
+
+---
+
+### 2026-07-03 11:16:46  #市場 #國際
+
+泰國基準股指上漲1.4%至1615.60點，創2023年3月初以來最高水平。
+
+---
+
+### 2026-07-03 11:16:21  #觀點
+
+摩根大通將Rivian目標股價從9美元上調至15美元。
+
+---
+
+### 2026-07-03 11:16:13  #MKT News #Important
+
+Xinyisheng's A-share trade value topped 20 billion yuan; shares up 6.48%.
+
+---
+
+### 2026-07-03 11:15:39  #公司
+
+【靈童機器人在上海成立具身智慧公司 註冊資本200萬】天眼查App顯示，近日，上海靈童具身智慧機器人有限公司成立，法定代表人為陸傑，註冊資本200萬人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、人工智慧硬體銷售、人工智慧應用軟體開發等，由靈童機器人（上海）有限公司全資持股。
+
+---
+
+### 2026-07-03 11:12:48  #國際
+
+【美拒絕承認國際刑事法院對美國人有司法管轄權】美國司法部2日發表宣告稱，美國代理司法部長託德·布蘭奇已致信國際刑事法院院長赤根智子，拒絕承認國際刑事法院對美國人有司法管轄權。 宣告說，美國不是《國際刑事法院羅馬規約》締約國，也從未認可過國際刑事法院的管轄權。今後，美國將不會配合國際刑事法院開展任何調查、詢問、傳喚或訴訟程式，不會將任何美國人員引渡或移交國際刑事法院。 布蘭奇在信中聲稱，國際刑事法院行事“越來越缺乏合法性和正當性”，並指稱國際刑事法院有“選擇性執法”的記錄，且有“可信說法”稱其內部有不當行為。 6月24日，國際刑事法院3名女法官在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。 近年來，美方以國際刑事法院調查美方人員和對以色列總理和前防長髮出逮捕令為由，多次宣佈制裁國際刑事法院法官和檢察官。(新華社)
 
 ---
 
@@ -17117,161 +17195,5 @@ The Shangai Composite Index Closes 2.02% Lower — The Shangai Composite Index d
 ### 2026-07-02 15:15:40  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
 
 US Hiring Expected to Cool in June — The US economy is expected to have added 110K jobs in June 2026, marking the smallest monthly increase in employment in four months, following three consecutive months of stronger-than-expected gains in nonfarm payrolls. In May, payrolls rose by 172K, although some analysts suggest that hiring related to the World Cup may have temporarily boosted employment. The unemployment rate is projected to remain at 4.3% for a fourth consecutive month. Meanwhile, average hourly earnings are expected to increase by 0.3% month-over-month, matching May's pace, while annual wage growth is forecast to edge up to 3.5% from 3.4%. Although payroll growth is expected to moderate, the June employment report is still likely to point to a resilient labour market.
-
----
-
-### 2026-07-02 15:15:30  #國際
-
-【外交部：亞太地區需要的是穩定而不是動盪】7月2日，外交部發言人郭嘉昆主持例行記者會。有記者提問，今年以來，日本首相高市早苗頻繁提及所謂新版“自由開放印太”構想，日方各層級官員訪問菲律賓、越南、澳大利亞等國，就這一構想進行遊說。發言人對此有何評論？郭嘉昆表示，嘴上喊著自由開放，心裡想著對立對抗，這樣名不副實的理念與地區國家求和平謀發展促合作的共同心願背道而馳，也註定不會得到真心認同。亞太地區需要的是穩定而不是動盪，注重的是合作而不是分裂，維護戰後國際秩序、維護《聯合國憲章》宗旨和原則，是亞太實現繁榮穩定的根基，也是地區國家的共同責任。（央視新聞）
-
----
-
-### 2026-07-02 15:15:05  #MKT News #Star Stocks #Amazon #Market Themes #Chip Wars #Magnificent 7 #AMZN.O #Impact bullish
-
-【Ming‑Chi Kuo: Amazon to shift consumer devices to in‑house processors to cut costs】Ming‑Chi Kuo says Amazon will develop in‑house processors for consumer electronics to lower chip costs and free capital for AI infrastructure. Amazon's free cash flow was about $1.2bn in 2026 Q1. From 2027 it will gradually adopt a COT (customer‑owned tooling) model similar to Trainium for these chips, with Shixin handling backend design and testing; full conversion could reach roughly 40m units shipped annually.
-
----
-
-### 2026-07-02 15:15:02  #市場
-
-【國債期貨收盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.07%， 5年期主力合約漲0.05%， 2年期主力合約漲0.02%。
-
----
-
-### 2026-07-02 15:15:01  #公司
-
-【同慶樓在安徽成立餐飲管理公司 註冊資本1000萬】天眼查App顯示，近日，安徽富禧餐飲管理有限公司成立，法定代表人為熊鷹，註冊資本1000萬人民幣，經營範圍包括餐飲管理、單位後勤管理服務、餐飲服務、食品銷售等，由同慶樓（605188）全資持股。
-
----
-
-### 2026-07-02 15:14:44  #公司 #國際
-
-【李在明：半導體、顯示器、二次電池和生物醫藥四大尖端產業是決定韓國AI時代未來發展的核心戰略產業】韓國總統李在明2日表示，忠清地區蘊藏著巨大的發展潛力，只要企業戰略性投資與政府的堅定支援形成合力，不僅將成為韓國尖端產業中心，更將崛起為引領人工智慧（AI）時代的世界級創新中心。李在明7月2日在忠清南道牙山市主持召開“忠清地區尖端產業發展願景國民報告會”，他在聽取三星電子、SK海力士、賽爾群等企業的忠清地區投資計劃介紹後表示，半導體、顯示器、二次電池和生物醫藥四大尖端產業是決定韓國AI時代未來發展的核心戰略產業，而忠清地區正是四大尖端產業集聚、產業生態完善的核心區域。李在明表示，政府絕不會錯失推動區域均衡發展與尖端產業佈局深度融合的重大機遇，將動員一切可用資源，積極支援企業投資，讓企業的戰略決策充分釋放效益。
-
----
-
-### 2026-07-02 15:14:34  #其他
-
-【預計傳送旅客近1978萬人次，深圳鐵路暑運啟動】7月1日，2026年鐵路暑期運輸全面啟動 將持續至8月31日 共計62天 深圳鐵路預計 傳送旅客1977.85萬人次 同比增幅3.2%。（深圳釋出）
-
----
-
-### 2026-07-02 15:12:24  #市場
-
-【機構：高庫存壓力猶存，產業鏈價格重心仍未企穩】據集邦諮詢，當前矽料環節面臨高庫存與供給釋出的雙重壓力。行業整體庫存維持在52萬噸左右，去庫程序滯緩。7月隨著主流企業復產提產，預計單月矽料產出將接近11萬噸，增量釋放加劇了相對下游需求的過剩趨勢。目前拉晶廠原料儲備充裕，採買意願低迷，上下游價格博弈導致現貨成交冷清。儘管近期反內卷及能耗政策傳言刺激期貨價格抬升，但現貨基本面弱現實特徵穩固，短期價格重心仍有下行風險，難見反轉趨勢。
-
----
-
-### 2026-07-02 15:11:16  #MKT News
-
-German Chancellor Merz said he will present proposals to simplify the tax code this autumn.
-
----
-
-### 2026-07-02 15:10:59  #MKT News #Market Regions #Europe & UK #Copper #Impact bullish #EURUSD #DAX
-
-German government documents show Berlin will introduce a plan by end-2026 to accelerate power-grid expansion.
-
----
-
-### 2026-07-02 15:10:34  #公司
-
-【美光CEO再次暗諷蘋果：低價採購是造成記憶體短缺的關鍵】美光科技執行長最新表示，過去幾年裡，一些客戶要求記憶體製造商降低價格，從而帶來了一些負面影響。2023年美光的價格降到了原來的1/3，導致無力投資新的產能。美光的這番暗諷被普遍認為是針對其大客戶蘋果發出的，儘管他並未直接提及蘋果的名字。美光與蘋果之間的對峙，代表著記憶體公司與消費電子製造商的市場平衡因人工智慧發展而改變。
-
----
-
-### 2026-07-02 15:09:45  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-Chancellor Merz said Germany's pension reform will be completed before year-end.
-
----
-
-### 2026-07-02 15:09:36  #公司 #市場 #央行 #國際
-
-【比特幣在美聯儲沃什發表講話後回升，就業資料公佈在即】比特幣在美聯儲主席凱文·沃什週三於葡萄牙辛特拉舉行的歐洲央行論壇上表示通脹風險已經緩解後回升。德意志銀行分析師在一份報告中表示，沃什的言論促使投資者不再押注7月份加息的可能性。他們表示，週三弱於預期的美國資料（包括ADP私營部門就業人數和美國供應管理學會製造業報告）進一步支撐了這種重新定價。目前的注意力轉向即將公佈的美國非農就業報告。倫敦證券交易所集團的資料顯示，比特幣上漲0.8%，至60,530美元，週三曾觸及57,775美元的21個月低點。
-
----
-
-### 2026-07-02 15:09:15  #公司
-
-【礪算科技獲知名牛散趙建平、鍾瑋瑋入股】最新工商變更顯示，上海享宏文勝企業管理有限合夥斥資4000萬元成為礪算科技（上海）有限公司直接股東，佔該公司0.99%的股份，該有限合夥的投資人正是知名牛散趙建平和鍾瑋瑋。公開資訊顯示，趙建平、趙吉父女為東芯股份前十大股東，當前合計持股市值超18億元；東芯股份系礪算科技第一大股東，持股比例達35.87%。礪算科技為國內知名GPU企業，其自研消費級GPU LX 7G100系列於5月20日登陸京東首發，發售當天即售罄。知名牛散此時佈局，彰顯對國產GPU商業化落地程序及公司長期發展前景的持續看好。
-
----
-
-### 2026-07-02 15:09:10  #MKT News #Important #Market Regions #Greater China #06166.HK #Impact bearish #06869.HK #01347.HK
-
-Hong Kong-listed optical-communications stocks extended losses: Cambridge Technology (06166.HK) slid more than 23%, Yangtze Optical Fibre and Cable (06869.HK) fell over 21%, while Hua Hong Hongli (01347.HK) and Lens Technology (06613.HK) also declined.
-
----
-
-### 2026-07-02 15:09:03  #其他
-
-港股光通訊板塊持續下探，劍橋科技(06166.HK)跌超23%，長飛光纖光纜(06869.HK)跌超21%，華虹宏力(01347.HK)、藍思科技(06613.HK)等跟跌。
-
----
-
-### 2026-07-02 15:08:44  #其他
-
-【巴基斯坦暴雨強風致11死27傷】巴基斯坦官員2日說，隨著季風雨季到來，強降雨、雷暴和強風天氣1日席捲該國多個地區，引發多起事故，造成至少11人死亡、27人受傷。（新華社）
-
----
-
-### 2026-07-02 15:08:15  #MKT News #Market Regions #Greater China
-
-【He Wei to attend funeral of Iran's late Supreme Leader Khamenei】Foreign Ministry spokesman said Vice‑Chairman of the NPC Standing Committee He Wei will represent China at the funeral of Iran's late Supreme Leader Khamenei in Tehran on July 3.
-
----
-
-### 2026-07-02 15:08:02  #MKT News #EURUSD #Impact bullish #DAX
-
-Germany's coalition government pledged to conclude additional trade and investment agreements.
-
----
-
-### 2026-07-02 15:07:50  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
-
-Brent crude down 1.00% intraday at $70.54/bbl.
-
----
-
-### 2026-07-02 15:07:49  #市場 #焦點
-
-布倫特原油期貨<LCOc1>跌至70.47美元，創2月27日以來新低。
-
----
-
-### 2026-07-02 15:07:37  #MKT News
-
-German chancellor MERZ said tax reform has eased the burden on low- and middle-income households, with average annual savings of up to €600.
-
----
-
-### 2026-07-02 15:07:35  #國際
-
-【何維將出席伊朗已故最高領袖哈梅內伊葬禮】外交部發言人宣佈：全國人大常委會副委員長何維將代表中方出席7月3日在德黑蘭舉行的伊朗已故最高領袖哈梅內伊葬禮。（外交部）
-
----
-
-### 2026-07-02 15:07:23  #MKT News #Market Regions #Europe & UK #Market Themes #Chip Wars #ASML.AS #Impact bearish #ASMI.AS #IFX.DE
-
-European equities opened lower as semiconductor stocks fell; ASML, ASMI, BESI, Infineon and AIXTRON down 2%-4%.
-
----
-
-### 2026-07-02 15:06:59  #市場 #國際
-
-歐洲晶片股阿斯麥(ASML)、ASMI、貝施(BESEMER，程式碼BESI)、英飛凌(INFINEON)、艾邁斯歐司朗(AIXTRON)股價下跌2%至4%不等。
-
----
-
-### 2026-07-02 15:06:59  #MKT News #DAX #Impact bullish #EOAN.DE #RWE.DE
-
-Germany's coalition government says implementation timelines for power grid projects will be halved.
-
----
-
-### 2026-07-02 15:06:36  #宏觀 #其他 #焦點
-
-【商務部：中歐於今秋舉行貿易投資磋商機制第二次例會】商務部新聞發言人何亞東在2日舉行的例行新聞釋出會上介紹中歐貿易投資磋商機制首次會議情況時說，中歐貿易投資磋商機制是中歐在經貿領域新建立的常態化交流機制，雙方商定每年舉行1至2次部長級會議。中方已邀請歐盟委員會貿易和經濟安全委員謝夫喬維奇於今年秋季訪華，舉行磋商機制的第二次例會。何亞東介紹，首次會議期間，雙方重點討論從三個領域著手，推動貿易向上平衡，而不是向下平衡：一是新興領域，雙方將努力擴大在AI和綠色轉型等領域合作；二是潛在領域，雙方將深入挖掘服務貿易等領域合作潛力；三是問題領域，雙方將透過市場準入磋商，推動彼此關切得到逐步解決。雙方就中歐經貿關係的新定位達成共識，即穩定、平衡的中歐關鍵貿易伙伴。這有助於改善廣大中歐企業的預期，為中歐乃至全球經濟發展注入更多確定性和正能量。（新華社）
 
 ---

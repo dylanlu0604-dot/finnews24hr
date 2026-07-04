@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 03:49:13_
-_本檔包含 2391 則快訊，約 505941 字_
+_更新時間：2026-07-05 05:11:55_
+_本檔包含 2401 則快訊，約 506584 字_
+
+---
+
+### 2026-07-05 05:09:46  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+Egyptian President Sisi called for immediate implementation of the Gaza ceasefire agreement and the US-Iran memorandum of understanding.
+
+---
+
+### 2026-07-05 05:09:27  #國際
+
+埃及總統塞西呼籲立即落實加沙停火協議與美伊諒解備忘錄。
+
+---
+
+### 2026-07-05 05:08:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+An adviser to Ukraine's interior minister said Russia continued terrorist attacks on Zaporizhzhia, with the city struck at least five times.
+
+---
+
+### 2026-07-05 05:06:13  #國際
+
+伊朗議會議長卡利巴夫：伊朗的抵抗力量在政治與軍事層面挫敗了美國和以色列。
+
+---
+
+### 2026-07-05 04:51:48  #MKT News #Commodities #Energy
+
+Iraq's cabinet authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha oil pipeline project.
+
+---
+
+### 2026-07-05 04:50:40  #公司
+
+伊拉克內閣授權巴士拉石油公司與KBR簽署巴士拉-哈迪塞石油管道專案諮詢服務合同。
+
+---
+
+### 2026-07-05 04:47:28  #MKT News
+
+A senior White House official said Trump will deliver a historic speech tonight reviewing 250 years of United States history through the deeds of American heroes and said the address would be unique and unlike any of his previous speeches.
+
+---
+
+### 2026-07-05 04:45:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CVX.O #Impact bullish
+
+Iraq's cabinet approved Basra Oil Company to sign a preliminary agreement with a consortium made up of Chevron, Capital Energy TI and Qatar's UCC Energy for a strategic oil pipeline project.
+
+---
+
+### 2026-07-05 04:44:46  #公司
+
+伊拉克內閣批准巴士拉石油公司與由雪佛龍、Capital Energy TI和卡達UCC能源組成的財團簽署戰略輸油管道專案初步協議。
+
+---
+
+### 2026-07-05 04:44:14  #國際
+
+一名白宮高階官員透露：特朗普今晚將發表一篇具有歷史意義的演講，回顧美國建國二百五十年來的歷程，並透過美國英雄的事蹟娓娓道來。這篇演講風格獨特，和他以往所有講話都截然不同。
+
+---
+
+### 2026-07-05 04:33:13  #MKT News
+
+The Jerusalem Post, citing Israeli sources, reports Israeli Prime Minister Netanyahu and U.S. President Trump have no meeting scheduled.
+
+---
+
+### 2026-07-05 04:28:39  #國際
+
+以色列訊息人士：內塔尼亞胡與特朗普的會面尚未敲定相關安排。
+
+---
+
+### 2026-07-05 04:18:06  #MKT News
+
+U.S. Vice President Vance said UK leaders failed to fulfill their duties and he expects the next prime minister to deliver change.
+
+---
+
+### 2026-07-05 04:17:42  #國際
+
+美國副總統萬斯稱，英國曆屆領導人辜負了國家，希望下一任首相能帶來變革。
+
+---
+
+### 2026-07-05 04:12:53  #MKT News #6472.T #Impact bullish
+
+【MinebeaMitsumi to expand bearing output for AI data centers】MinebeaMitsumi will invest JPY 58 bln (about $360m) to expand precision-bearing capacity for AI data-center cooling equipment and storage devices, raising total capacity roughly 30% to over 500 mln sets/month. The company plans investment at Southeast Asia production bases and to install advanced equipment expected to boost production efficiency by about 60%. Construction is expected to begin this year; earliest production is fiscal 2028, Nikkei reports.
+
+---
+
+### 2026-07-05 04:10:45  #MKT News
+
+Lebanese Health Ministry said the death toll has risen to 4,303 and injuries total 12,202 since hostilities resumed.
+
+---
+
+### 2026-07-05 04:01:58  #國際
+
+烏克蘭總統澤連斯基表示，他在美國7月4日獨立日假期與特朗普進行了通話，澤連斯基稱美國的“果斷行動”有助於結束俄烏衝突。
+
+---
+
+### 2026-07-05 03:59:57  #MKT News
+
+【Portugal wildfire spreads; government requests EU aid】A wildfire driven by extreme heat continues to spread in Portugal, with more than 10,000 hectares burned as of the 4th. Authorities have deployed about 1,100 firefighters, 380 fire engines and eight aircraft and helicopters. Portugal has requested assistance from the EU; Brussels said on the 3rd it will join the response. Spain has sent 118 firefighters and 45 fire vehicles to assist.
+
+---
+
+### 2026-07-05 03:59:35  #國際
+
+【山火持續蔓延 葡萄牙向歐盟請求支援】受極端高溫天氣影響，葡萄牙一處持續燃燒數日的山火火勢仍在蔓延。截至4日，過火面積已超一萬公頃。已有1100名消防員參與滅火工作，政府還派出380輛消防車以及8架飛機和直升機協同作業。由於火情嚴峻，葡方已向歐盟請求支援。歐盟3日表示，將與葡萄牙共同應對此次嚴重山火。目前，已有來自西班牙的118名消防員和45輛消防車輛抵達葡萄牙，參與滅火工作。（央視新聞）
+
+---
+
+### 2026-07-05 03:54:12  #MKT News
+
+【Lebanon minister says some 400,000 war-displaced have returned to homes in the south】A Lebanese minister said some 400,000 people displaced by fighting have returned to homes in southern Lebanon. The minister said southern areas were previously affected by hostilities and many residents fled; as the security situation has eased, returns are under way and follow-up resettlement measures are being implemented.
+
+---
+
+### 2026-07-05 03:52:43  #MKT News
+
+【Lebanese envoy meets Iran foreign minister to discuss regional situation】On the 4th, Nabih Berri’s special envoy Khalil Hamdan met Iran Foreign Minister Araghchi in Tehran. Hamdan praised Iran’s principled stance on Lebanon’s territorial integrity and sovereignty and highlighted Iran’s role in pushing to halt Israeli aggression. Araghchi commended Lebanese resilience to Israeli military threats, credited Berri with keeping Lebanon’s political factions united against external interference, and reiterated Iran’s position that Israel’s aggression must end and Israeli forces must fully withdraw from Lebanese territory.
+
+---
+
+### 2026-07-05 03:49:35  #其他
+
+黎巴嫩部長表示，四十萬因戰爭流離失所的黎巴嫩民眾已重返南部家園。
+
+---
+
+### 2026-07-05 03:49:05  #國際
+
+【黎巴嫩官員同伊朗外長舉行會晤 討論地區局勢】當地時間4日，黎巴嫩議會議長納比·貝里的特別代表哈利勒·哈姆丹率團訪問伊朗首都德黑蘭，並出席對伊朗已故最高領袖的悼念與致敬活動。當天下午，哈利勒·哈姆丹同伊朗外交部長阿拉格齊舉行會晤。哈利勒·哈姆丹向伊朗方面轉達了納比·貝里議長對伊朗最高領袖、總統、政府和人民的慰問，並致以哀悼。他表示，黎巴嫩方面高度讚賞伊朗在維護黎巴嫩領土完整和國家主權方面的原則立場，並強調伊朗對推動停止以色列對黎巴嫩侵略的重要作用。阿拉格齊讚揚黎巴嫩人民在應對以色列軍事威脅中展現出的堅韌與抗爭精神，並高度評價納比·貝里議長在維護黎巴嫩各政治派別團結、抵禦外部干涉方面發揮的重要作用。同時，他重申伊朗方面的原則立場，即必須徹底結束以色列的侵略行為，並要求以色列佔領者全面撤出黎巴嫩領土。（央視新聞）
 
 ---
 
@@ -14336,83 +14474,5 @@ Indonesia Equities Rally, Weekly Change Almost Flat — Indonesia's IDX Composit
 ### 2026-07-03 11:20:51  #Trading Economics #Markets #Japan #Stock Market #Importance 2
 
 Japanese Shares Reverse Early Losses — The Nikkei 225 Index rose 0.7% to above 69,000 on Friday, recovering from earlier losses as weaker-than-expected US jobs data led investors to scale back expectations for Federal Reserve interest rate hikes this year. The softer labor report helped offset persistent concerns over the AI sector, where investors continue to question whether aggressive investment and intensifying competition can justify lofty valuations and sustain long-term earnings growth. Meanwhile, the yen's nearly 1% surge on Thursday, fueled by speculation that Japanese authorities could intervene in the currency market at any time, remained a headwind for domestic equities. Among individual stocks, Kioxia Holdings jumped 7.3%, followed by Kokusai Electric (6.5%), Fast Retailing (4.3%), Sony Group (2.3%), and Toyota Motor (1.1%).
-
----
-
-### 2026-07-03 11:20:35  #公司
-
-【風語築佈局物理AI模擬與合成資料業務】7月2日，風語築宣佈，公司控股合資公司上海風應科技有限公司正式成立併入駐上海模速空間。公開資訊顯示，風應科技將圍繞物理AI基礎設施方向開展業務佈局，聚焦生成式AI與模擬技術融合應用，包括物理模擬引擎、Sim2Real模擬訓練及空間合成資料等相關方向。據悉，風應科技的設立有助於完善公司在真實世界訓練與數字世界模擬方向的技術與業務協同體系，進一步拓展公司在物理AI及空間智慧領域的佈局。
-
----
-
-### 2026-07-03 11:19:29  #MKT News
-
-Thailand's benchmark stock index rose as much as 1.4% to 1,615.60 points, its highest level since early March 2023.
-
----
-
-### 2026-07-03 11:19:13  #公司
-
-【比依股份成立機器人科技公司 含多項AI業務】企查查APP顯示，近日，浙江致衡機器人科技有限公司成立，經營範圍包含智慧機器人的研發；人工智慧硬體銷售；人工智慧應用軟體開發；可穿戴智慧裝置製造；人工智慧行業應用系統整合服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由比依股份(603215)全資持股。
-
----
-
-### 2026-07-03 11:19:06  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Heads for Weekly Gain — The New Zealand dollar rose toward $0.570, on track for its first weekly advance in three weeks after rebounding from a seven-month low, as the US dollar weakened. The greenback fell to a two-week low after a weaker-than-expected jobs report prompted investors to scale back bets on an imminent rate hike by the Federal Reserve. The kiwi also found support from expectations that the Reserve Bank of New Zealand will raise rates next week, with market pricing indicating about a 78% probability of a hike. However, economists remain divided, with some calling for a hold as the decline in oil prices reduced inflation risks. Domestic data this week added further support to the currency, with business sentiment improving, signaling the economy may not slow as much as initially feared. Consumer confidence also increased as inflation concerns linked to the earlier spike in oil prices quickly faded.
-
----
-
-### 2026-07-03 11:18:55  #其他
-
-【達摩院：AI智慧體發現4種全新超導材料，已獲實驗驗證】7月3日，阿里達摩院聯合中國人民大學、中國科學院大學等釋出首個超導材料發現AI智慧體Elements Claw，預測出6.8萬個可能的超導材料，其中4種全新材料已合成並證實存在超導性。相關資料已全部開放。
-
----
-
-### 2026-07-03 11:18:01  #MKT News #Commodities #Industrial Metals #Macro & Rates #Copper #Impact bullish #DXY #Impact bearish
-
-【Weaker rate‑hike expectations lift copper, industrial metals】Copper and other industrial metals rose on Friday as a softer dollar and lower market odds of Fed rate hikes pushed prices toward ending a two‑week decline. Softer US jobs data trimmed rate‑hike bets and eased some downside pressure on industrial demand. The dollar index fell for a second day, making metals cheaper in other currencies. Industrial metals had been pressured in recent weeks after US policymakers signalled greater willingness to tighten policy. Futures analysts said: "Oil's decline and weak US employment data have weakened the dollar, which is positive for copper, but persistent weakness in traditional industries will cap any rally."
-
----
-
-### 2026-07-03 11:17:59  #宏觀
-
-【中國光伏行業協會人士：強制標準實施將打破光伏“內卷式”競爭】在今日舉行的第二屆晶矽光伏產業創新峰會上，中國光伏行業協會有關負責人表示，光伏元件強制性安全標準、能效標準有利於規範光伏行業競爭秩序，推動產業升級發展。下一步，協會將根據強制標準的要求，配合相關主管部門，進一步研究節能監察具體實施細則。光伏行業有了“一把尺子”，是很好的開端，央國企集採已經先行採用二級及以上標準（TOPcon2.0/BC1.0）。工信部近日聯合國家發改委、市場監管總局釋出的《矽單晶單位產品能源消耗限額》等三項強制效能效國家標準，將於2027年1月1日正式實施；由工信部組織制定的《光伏元件安全要求》等2項強制性安全國家標準5月25日正式釋出，將於2027年6月1日正式實施。
-
----
-
-### 2026-07-03 11:17:46  #其他
-
-【教育部：做好2026年中小學、幼兒園暑期安全工作】近日，教育部辦公廳印發《關於做好2026年中小學、幼兒園暑期安全工作的通知》進行部署。通知要求，各地各校要嚴格落實基礎教育規範管理鞏固年行動和中小學陽光招生專項行動有關要求，嚴格作業考試管理，規範辦學行為，全面落實招生入學政策。要全面排查整治校園安全風險隱患，強化汛期應急防範，嚴格落實校園封閉管理。要推動有關部門落實水域管理責任、完善安全防護設施、加大動態巡查管控，嚴防學生溺水事件發生。要紮實開展校園餐、教輔、校服突出問題排查和整改，持續鞏固“三項整治”成果。要切實減輕教師非教育教學負擔，保障教師合法休息權益。
-
----
-
-### 2026-07-03 11:16:46  #市場 #國際
-
-泰國基準股指上漲1.4%至1615.60點，創2023年3月初以來最高水平。
-
----
-
-### 2026-07-03 11:16:21  #觀點
-
-摩根大通將Rivian目標股價從9美元上調至15美元。
-
----
-
-### 2026-07-03 11:16:13  #MKT News #Important
-
-Xinyisheng's A-share trade value topped 20 billion yuan; shares up 6.48%.
-
----
-
-### 2026-07-03 11:15:39  #公司
-
-【靈童機器人在上海成立具身智慧公司 註冊資本200萬】天眼查App顯示，近日，上海靈童具身智慧機器人有限公司成立，法定代表人為陸傑，註冊資本200萬人民幣，經營範圍包括智慧機器人的研發、智慧機器人銷售、人工智慧硬體銷售、人工智慧應用軟體開發等，由靈童機器人（上海）有限公司全資持股。
-
----
-
-### 2026-07-03 11:12:48  #國際
-
-【美拒絕承認國際刑事法院對美國人有司法管轄權】美國司法部2日發表宣告稱，美國代理司法部長託德·布蘭奇已致信國際刑事法院院長赤根智子，拒絕承認國際刑事法院對美國人有司法管轄權。 宣告說，美國不是《國際刑事法院羅馬規約》締約國，也從未認可過國際刑事法院的管轄權。今後，美國將不會配合國際刑事法院開展任何調查、詢問、傳喚或訴訟程式，不會將任何美國人員引渡或移交國際刑事法院。 布蘭奇在信中聲稱，國際刑事法院行事“越來越缺乏合法性和正當性”，並指稱國際刑事法院有“選擇性執法”的記錄，且有“可信說法”稱其內部有不當行為。 6月24日，國際刑事法院3名女法官在美國紐約聯邦法院起訴美國總統特朗普及其政府，指控此前對她們實施的制裁措施非法。 近年來，美方以國際刑事法院調查美方人員和對以色列總理和前防長髮出逮捕令為由，多次宣佈制裁國際刑事法院法官和檢察官。(新華社)
 
 ---

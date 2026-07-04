@@ -1,7 +1,159 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 03:49:13_
-_本檔包含 2490 則快訊，約 505743 字_
+_更新時間：2026-07-05 05:11:55_
+_本檔包含 2506 則快訊，約 506073 字_
+
+---
+
+### 2026-07-01 17:31:20  #MKT News #Economic Calendar #Important
+
+United States | Challenger Job Cuts (MoM) (Jun) | actual -53% | previous 16%
+
+---
+
+### 2026-07-01 17:31:08  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish
+
+U.S. job cuts announced in June totaled 45,849, the lowest monthly reading since December 2025, according to Challenger data.
+
+---
+
+### 2026-07-01 17:30:50  #公司
+
+【立昂微：8英寸重摻雜外延片訂單旺盛，12英寸28nm邏輯晶片用矽片已批次供貨】 立昂微釋出投資者關係活動記錄表公告，公司整體出貨規模保持高位，訂單需求旺盛。其中，8英寸重摻雜外延片訂單旺盛，公司6英寸襯底及拋光片月產能達75萬片，絕大部分進一步深加工為6英寸外延片出貨，外延片生產所需襯底全部由自身配套供給，實現完全自主可控。在先進製程領域，嘉興基地定位28nm及以下先進製程12英寸輕摻拋光片，並配套佈局輕摻外延片，重點供應模擬晶片和邏輯晶片客戶，目前已實現28nm邏輯晶片用矽片批次供貨。
+
+---
+
+### 2026-07-01 17:30:47  #公司
+
+【康恩貝：子公司己酮可可鹼緩釋片獲得藥品註冊證書】 康恩貝公告，全資子公司杭州康恩貝收到國家藥品監督管理局核准簽發的己酮可可鹼緩釋片《藥品註冊證書》。該藥品原研企業為Sanofi-aventis，適應症為周圍性血管疾病，包括間歇性跛行和靜息疼痛。杭州康恩貝於2024年12月遞交藥品註冊申請，目前已投入研發費用約1009萬元。根據國家藥監局藥品審評中心網站顯示，截至本公告日，己酮可可鹼緩釋片按化學藥品3類註冊申請獲得批准上市的企業包括杭州康恩貝在內有16家國內生產廠家。
+
+---
+
+### 2026-07-01 17:30:37  #經濟數據 #美國
+
+【美國6月挑戰者企業裁員人數4.5849萬人】美國6月挑戰者企業裁員人數4.5849萬人，前值9.7006萬人。
+
+---
+
+### 2026-07-01 17:30:27  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US Challenger job cuts YoY -4.5% in June, versus 3.40% previously.
+
+---
+
+### 2026-07-01 17:30:25  #資料 #國際
+
+美國6月挑戰者企業裁員人數 4.5849萬人，前值9.7006萬人。
+美國6月挑戰者企業裁員年率 -4.5%，前值3.40%。
+
+---
+
+### 2026-07-01 17:30:16  #MKT News #Economic Calendar #Important
+
+United States | Challenger Job Cuts (YoY) (Jun) | actual -4.5% | previous 3.40%
+
+---
+
+### 2026-07-01 17:30:08  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+US June Challenger job-cut announcements 45,849, prior 97,006.
+
+---
+
+### 2026-07-01 17:30:03  #公司 #國際
+
+【美媒：聯合國擬牽頭制定全球AI規則】一個由聯合國支援的新委員會將把各大科技公司的高管們與各國元首聚集在一起，共同制定關於人工智慧的全球性規則。據報道，聯合國及其國際電信聯盟正在組建“人工智慧促進公益全球委員會”。該委員會的首次會議將於7月8日在瑞士日內瓦舉行。
+
+---
+
+### 2026-07-01 17:30:00  #MKT News #Economic Calendar #Important
+
+United States | Challenger Job Cuts (Jun) | actual 45849K | previous 97006K
+
+---
+
+### 2026-07-01 17:29:55  #公司
+
+【遠東股份：6月子公司中標訂單合計17.34億元】遠東股份公告，2026年6月份，公司收到子公司中標/簽約千萬元以上合同訂單合計為人民幣17.34億元，涉及智慧纜網/電能（含智慧電網線纜、綠色建築線纜、智慧製造線纜、清潔能源線纜）、智慧電池儲能/算力AI（含資料中心線纜、AIDC用光纖、儲能系統、鋰電池、鋰電銅箔）及智慧機場等業務。
+
+---
+
+### 2026-07-01 17:29:51  #MKT News #Market Themes #AI Revolution
+
+【Axios: UN to lead effort to set global AI rules】Axios reports a UN‑backed committee will convene tech CEOs and heads of state to draft global AI rules. The United Nations and the International Telecommunication Union are forming the Global Committee on AI for Good; its first meeting is scheduled for July 8 in Geneva, Switzerland.
+
+---
+
+### 2026-07-01 17:29:31  #公司
+
+【安集科技：股東詢價轉讓初步定價297.36元/股】安集科技公告稱，根據2026年7月1日詢價申購情況，初步確定本次詢價轉讓價格為297.36元/股。參與報價的機構投資者有31家，有效認購股份423.9萬股，對應轉讓底價的有效認購倍數為1.46倍。擬轉讓股份已獲全額認購，初步確定21家機構投資者為受讓方，擬受讓股份290萬股。本次受讓方及股數為初步結果，存在擬轉讓股份被司法凍結、扣劃等風險，最終結果以中登上海分公司辦理結果為準。
+
+---
+
+### 2026-07-01 17:29:13  #其他
+
+【西班牙6月高溫致超額死亡逾千例】西班牙衛生部監測系統今天（7月1日）公佈的資料顯示，受6月份持續5天、氣溫突破40攝氏度的熱浪影響，西班牙6月共有1029例“超額死亡”可歸因於高溫。而剛剛過去的這個6月僅次於2025年6月，為西班牙有記錄以來第二熱的6月。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。（CCTV國際時訊）
+
+---
+
+### 2026-07-01 17:28:50  #公司 #市場
+
+【維峰電子：股票交易異常波動 人形機器人業務未批次生產】維峰電子公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無更正、補充，無應披露未披露重大事項，近期經營及環境無重大變化。公司關注到市場對機器人等熱點概念及子公司維訊光電討論多，目前人形機器人業務未批次生產，收入不確定，維訊光電未實際經營，對業績無重大影響。
+
+---
+
+### 2026-07-01 17:28:25  #國際
+
+【美伊間接技術性會談在卡達舉行】半島電視臺今天（7月1日）援引訊息人士的話報道稱，伊朗和美國已在卡達首都多哈展開“技術層面”的談判。不過，雙方高階官員暫無舉行面對面會晤的計劃。訊息人士稱，至少有三個工作組正在多哈處理技術性討論：核問題、外交以及融資和凍結資金的返還。 另據路透社訊息，美國和伊朗正在透過卡達和巴基斯坦進行“間接技術性會談”。訊息人士稱，美國總統特使威特科夫和特朗普的女婿賈裡德·庫什納此前一天與卡達首相兼外交大臣穆罕默德舉行會晤，為今天的技術性會談奠定了基礎——但威特科夫和庫什納並沒有參加技術性會談。（CCTV國際時訊）
+
+---
+
+### 2026-07-01 17:28:01  #公司
+
+【海爾智家等在北京成立製冷電器公司 註冊資本500萬】天眼查App顯示，近日，北京海爾製冷電器有限公司成立，法定代表人為王健，註冊資本500萬人民幣，經營範圍包括家用電器製造、製冷空調裝置製造、智慧家庭消費裝置製造等，由青島海爾製冷電器有限公司全資持股。
+
+---
+
+### 2026-07-01 17:27:33  #MKT News #Important
+
+【Iran says it held indirect talks with US in Qatar on frozen assets and Strait of Hormuz】An Iranian senior official said indirect talks between Tehran and Washington began Tuesday evening in Doha and continued Wednesday. Iran met with Qatari and Pakistani officials who then engaged the US; discussions focused on unfreezing Iranian assets and security issues in the Strait of Hormuz.
+
+---
+
+### 2026-07-01 17:27:28  #焦點 #國際
+
+【伊朗高官：伊美在卡達舉行間接會談，聚焦兩大問題】一位伊朗高階官員表示，德黑蘭與華盛頓之間的間接會談已於週二晚在多哈展開；會談重點討論了伊朗資金的解凍以及霍爾木茲海峽相關議題。該官員說道：“間接談判於週二晚開始。伊朗方面與卡達及巴基斯坦官員舉行了會晤，而這些官員隨後又與美方進行了接觸。間接會談在週三繼續進行，重點關注伊朗被凍結的資產以及霍爾木茲海峽問題。”
+
+---
+
+### 2026-07-01 17:27:27  #宏觀 #國際
+
+【今日特朗普要聞】
+1、據熟悉相關磋商的美國官員透露，美國總統特朗普近期考量過重啟對伊朗全面戰爭的選項，連日來多次同國防部長皮特・赫格塞思、參謀長聯席會議主席丹・凱恩上將商討加大打擊力度的相關方案，但最終決定現階段仍以外交談判為主。
+2、為應對一場可能使電力基礎設施承壓的危險熱浪，特朗普政府已宣佈全美最大的能源電網進入電力緊急狀態。
+3、據知情人士透露，特朗普政府計劃編制一份外國情報目標總清單，名單涵蓋外國間諜嫌疑人、潛在策反物件。
+4、特朗普政府擬出臺新規，將利好超音速客機製造商。
+5、美國聯邦最高法院6月30日推翻總統特朗普限制“出生公民權”的行政令後，美國司法部官員要求聯邦檢察官把所謂“赴美產子游”作為優先調查事項。
+6、特朗普政府週二宣佈將停止向紐約州醫療補助計劃欺詐調查部門提供資金，理由是該部門表現不佳。
+7、美國政府道德辦公室於週二公佈的一份聯邦財務申報檔案顯示，特朗普去年透過旗下加密貨幣相關業務斬獲近12億美元收入。
+
+---
+
+### 2026-07-01 17:26:53  #公司
+
+【*ST瑞茂：提示股票交易風險 多項風險因素待解】*ST瑞茂公告稱，公司股票股價剔除大盤整體因素後波動幅度較大，提醒投資者注意交易風險。公司控股股東及實控人股份100%被司法標記/凍結且多次輪候凍結，可能影響控制權穩定；存在多筆債務逾期及訴訟，後續或有相關風險；2025年度財報被出具無法表示意見，內控報告被出具否定意見，自2026年4月30日起被實施退市風險警示併疊加其他風險警示。此外，公司擬先行實施庭外重組，相關事項不確定性大，截至公告披露日尚未達成有效力協議。
+
+---
+
+### 2026-07-01 17:26:52  #公司
+
+【金龍魚等在山東成立供應鏈公司 註冊資本1000萬】天眼查App顯示，近日，豐麥（山東）供應鏈有限公司成立，法定代表人為劉澤軒，註冊資本 1000 萬人民幣，經營範圍包括供應鏈管理服務、食品進出口、企業管理諮詢等，由海南曉麥易麥科技有限公司、金龍魚（300999）旗下樂益豐（上海）企業發展有限公司共同持股。
+
+---
+
+### 2026-07-01 17:26:50  #Trading Economics #Economy #South Africa #Manufacturing PMI #Importance 1
+
+South Africa Factory Activity Contracts in June: Absa — South Africa’s seasonally adjusted Absa Purchasing Managers’ Index (PMI) dropped to 47.3 in June 2026 from 50.8 in May, signaling renewed contraction in factory activity after two consecutive months of growth. This mainly reflected weaker demand, which weighed on new orders. Nevertheless, confidence about future business conditions improved strongly amid lower oil prices. Absa said the survey was conducted after the US and Iran agreed an interim deal to end the conflict and reopen the Strait of Hormuz, which prompted a decline in global oil prices.
 
 ---
 
@@ -14983,53 +15135,5 @@ Luxembourg Producer Prices Fall at Softer Pace — Producer prices in Luxembourg
 ### 2026-06-30 18:35:02  #Trading Economics #Economy #Macau #Unemployment Rate #Importance 0
 
 Macau Unemployment Rate Holds at 1.8% — Macau's unemployment rate stood at 1.8% in May 2026, unchanged from the previous month. The number of unemployed increased by 6,000 to 7.1 thousand, while employment declined by 5,000 to 374.1 thousand. The labour force participation rate edged down to 66.3% from 66.4%, with the labour force decreasing by 6,000 to 380.8 thousand. Participation was lower among women (59.3%) than men (63.6%). By industry, gaming accounted for the largest share of employed residents (25.7%), followed by wholesale and retail trade (12.2%), accommodation and food services (11.2%), and public administration and social security (11.2%).
-
----
-
-### 2026-06-30 18:30:11  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.33% Lower — The SENSEX Index decreased 250 points or 0.33 percent on Tuesday to close at 76479 points. The decline was led by Tata Consultancy (-3.09%), Infosys (-2.97%) and HCL Tech (-2.76%). On the upside, the strongest performers were Maruti Suzuki (5.50%), Titan Company (3.41%) and Bajaj Finance (2.54%).
-
----
-
-### 2026-06-30 18:20:22  #Trading Economics #Economy #Austria #Current Account #Importance 1
-
-Austria Logs Widest Current Account Surplus in 2 Years — Austria recorded a current account surplus of €7.33 billion in Q1 2026, the largest in two years, up from €6.62 billion in the corresponding period of the previous year. The services surplus rose to €5.82 billion from €5.41 billion, and the goods surplus climbed to €1.81 billion from €1.12 billion, with exports rising more than imports. Notably, goods surpluses with the US and UK increased significantly, while the deficit with Germany narrowed, amid rising exports of machinery, vehicles, and chemicals. However, the primary income surplus fell to €0.65 billion from €0.93 billion, and the secondary income deficit grew to €0.94 billion from €0.84 billion.
-
----
-
-### 2026-06-30 18:18:55  #Trading Economics #Economy #Macedonia #Industrial Production #Importance 1
-
-North Macedonia Industrial Output Pulls Back — North Macedonia's industrial production fell 2.0% year-on-year in May 2026, reversing a 7.6% increase in April. The decline was driven by mining and quarrying, which fell 3.6% after a 4.3% rise, and manufacturing, which contracted 2.6% following a 6.8% increase. Meanwhile, electricity, gas, steam and air conditioning supply remained resilient, rising 6.1%, though easing from 22.6%. By industrial grouping, output growth slowed for energy (6.5% vs 17.2%) and intermediate goods excluding energy (3.4% vs 14.1%). Capital goods (-3.3% vs 1.5%) and non-durable consumer goods (-8.4% vs -5.5%) moved deeper into contraction, while the decline in durable consumer goods eased to 1.1% from 4.9%.
-
----
-
-### 2026-06-30 18:18:47  #Trading Economics #Economy #Portugal #Inflation Rate #Importance 1
-
-Portugal Inflation Eases to 3.2% in June — Portugal’s consumer price inflation rate dipped to 3.2% year-over-year in June 2026, down from the over two-year high of 3.3% recorded in April and May, according to a preliminary estimate. Energy inflation slowed to 9.2% from 13.1%, and food price growth also moderated, with unprocessed food inflation easing to 5.2% from 5.7%. However, core inflation, which excludes energy and unprocessed food, climbed to 2.5% from 2.2%, indicating broadening price pressures. The EU-harmonized inflation rate held steady at 3.1%, remaining near its highest level in two years and well above the ECB’s 2.0% target.
-
----
-
-### 2026-06-30 18:18:20  #Trading Economics #Economy #Latvia #Retail Sales YoY #Importance 1
-
-Latvia Retail Sales Rise in May — Retail sales in Latvia rose by 3.3% year-on-year in May 2026 from a downwardly revised 2.5% growth in the previous month. Sales increased for food products (2.9% vs 1.8% in April), non-specialized stores (3.0% vs 1.6%), and non-food products, except for automotive fuel (5.5% vs 2.8%), lifted by higher sales in electrical household appliances (5.7% vs 3.1%), via mail order houses or via internet (12.3% vs 4.3%), hardware, paints, and glass (9.0% vs 5.3%), other household equipment (8.5% vs 3.7%), textiles, carpets, rugs, walls, and floor coverings (11.3% vs 0.4%), and not in stores, stalls, or markets (10.9% vs 3.6%). On the other hand, activity declined for automotive fuel (-2.1% vs 2.9%). On a monthly basis, retail sales fell by 0.1% in May, following a 0.4% drop in the preceding period.
-
----
-
-### 2026-06-30 18:15:59  #Trading Economics #Markets #Italy #stocks #Importance 1
-
-Enel Stock Price Hits 17-week High — Enel shares increased to 10.16 EUR, the highest since February 2026. Over the past 4 weeks, Enel gained 6.17%, and in the last 12 months, it increased 23.15%.
-
----
-
-### 2026-06-30 18:11:45  #Trading Economics #Economy #Serbia #Retail Sales YoY #Importance 1
-
-Serbia Retail Sales Picks Up — Real retail sales in Serbia rose by 6.2% from the previous year in May of 2026, picking up from the 5.6% increase in the previous month. Sales increased broadly throughout the Serbian economy, including retail trade of non-food products (5%), automotive fuel in specialized stores (6.6%), and food, beverages, and tobacco (7.1%). From the previous month, real retail sales expanded by 0.9%.
-
----
-
-### 2026-06-30 18:09:19  #Trading Economics #Economy #Macedonia #Retail Sales YoY #Importance 1
-
-North Macedonia Retail Sales Growth Quickens — North Macedonia's retail sales rose 7.3% year-on-year in May 2026, accelerating from 2.1% in April. The strongest growth came from automotive fuel sales, which surged 36.2% after a 14.7% increase in the previous month. Retail sales excluding fuel rose 6.0%, slightly easing from 6.2%. Sales of food, beverages and tobacco accelerated to 15.0% from 9.1%, while non-food sales excluding fuel fell 3.6%, reversing a 1.6% increase in April.
 
 ---
