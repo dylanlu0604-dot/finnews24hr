@@ -1,7 +1,15 @@
 {
   "date": "2026-07-04",
-  "count": 285,
+  "count": 286,
   "items": [
+    {
+      "id": "mkt:019f2ac0-8764-7aab-8c9b-31582d8a8eaa",
+      "time": "2026-07-04 09:31:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "National Bureau of Statistics: In late June 2026 versus mid-June, prices for 13 products rose, 34 fell and 3 were unchanged."
+    },
     {
       "id": "4970205",
       "time": "2026-07-04 09:24:55",
