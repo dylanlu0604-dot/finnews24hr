@@ -1,7 +1,20 @@
 {
   "date": "2026-07-04",
-  "count": 387,
+  "count": 388,
   "items": [
+    {
+      "id": "mkt:019f2b98-9ae8-7aab-8c9b-dccff92f9fba",
+      "time": "2026-07-04 13:27:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China Coast Guard makes law enforcement east of Taiwan routine】On July 4 the China Coast Guard conducted law-enforcement patrols in waters east of Taiwan, using the term 'routine' in its report for the first time compared with last month. Marine expert Yang Xiao said 'routine' denotes continuous enforcement operations intended to assert sovereignty. The coast guard has implemented regular patrols of the Diaoyu Islands and affiliated islets and routine enforcement around Huangyan Island (Scarborough Shoal). The agency said it logged 357 days of patrols around the Diaoyu Islands in 2025, which China says demonstrates its undisputed sovereignty over the islands and their territorial waters."
+    },
     {
       "id": "4970287",
       "time": "2026-07-04 13:25:55",
