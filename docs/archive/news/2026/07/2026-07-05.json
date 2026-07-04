@@ -1,7 +1,58 @@
 {
   "date": "2026-07-05",
-  "count": 80,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:019f2e7d-819b-7aab-8c9e-d2c3c2f2618f",
+      "time": "2026-07-05 02:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Washington celebration drew unprecedented crowds, calls U.S. stronger than ever】President Trump posted that Washington’s Independence Day celebration drew unprecedented crowds despite the heat. He praised the air show and said he will speak at the Lincoln Memorial at about 10 p.m. He added that the reflecting pool, which was previously vandalized, will be drained and repaired after the weekend."
+    },
+    {
+      "id": "4970574",
+      "time": "2026-07-05 02:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：週末過後將排空倒影池積水並修復損毀設施。"
+    },
+    {
+      "id": "4970573",
+      "time": "2026-07-05 02:55:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：華盛頓實際高溫不及此前預報的那般酷熱。"
+    },
+    {
+      "id": "4970572",
+      "time": "2026-07-05 02:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國官員：霍爾木茲海峽南線航道目前仍在通行】兩名美國官員稱，霍爾木茲海峽的南線航道目前仍在通行。其中一名美國官員稱，大多數船隻在透過時都關閉了電子識別系統，因此開源平臺無法監測到它們。該官員證實，伊朗方面試圖透過甚高頻無線電對船隻進行恐嚇。另一名美國官員表示，近幾天南線航道的通行頻率有所增加（約有50艘船隻透過），且該航道依然暢通。"
+    },
+    {
+      "id": "mkt:019f2e7c-0951-7aab-8c9e-cd003054a140",
+      "time": "2026-07-05 02:55:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. officials say southern transit lane through Strait of Hormuz remains open】Axios reported two U.S. officials say the Strait of Hormuz southern transit lane remains open. One official said most vessels transit with AIS turned off, making them untrackable on open-source platforms, and confirmed Iran has used VHF radio to harass ships. A second official said roughly 50 vessels used the southern lane in recent days and it remains navigable."
+    },
+    {
+      "id": "4970571",
+      "time": "2026-07-05 02:54:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "美方官員：霍爾木茲海峽南線航道維持通航。"
+    },
     {
       "id": "mkt:019f2e79-2cde-7aab-8c9e-c55949728b5b",
       "time": "2026-07-05 02:52:00",

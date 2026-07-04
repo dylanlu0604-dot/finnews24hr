@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-05 02:53:22",
-  "count": 13224,
+  "updated": "2026-07-05 02:57:17",
+  "count": 13226,
   "items": [
+    {
+      "id": "mkt:019f2e7d-819b-7aab-8c9e-d2c3c2f2618f",
+      "time": "2026-07-05 02:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Washington celebration drew unprecedented crowds, calls U.S. stronger than ever】President Trump posted that Washington’s Independence Day celebration drew unprecedented crowds despite the heat. He praised the air show and said he will speak at the Lincoln Memorial at about 10 p.m. He added that the reflecting pool, which was previously vandalized, will be drained and repaired after the weekend."
+    },
+    {
+      "id": "4970574",
+      "time": "2026-07-05 02:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：週末過後將排空倒影池積水並修復損毀設施。"
+    },
+    {
+      "id": "4970573",
+      "time": "2026-07-05 02:55:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：華盛頓實際高溫不及此前預報的那般酷熱。"
+    },
+    {
+      "id": "4970572",
+      "time": "2026-07-05 02:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國官員：霍爾木茲海峽南線航道目前仍在通行】兩名美國官員稱，霍爾木茲海峽的南線航道目前仍在通行。其中一名美國官員稱，大多數船隻在透過時都關閉了電子識別系統，因此開源平臺無法監測到它們。該官員證實，伊朗方面試圖透過甚高頻無線電對船隻進行恐嚇。另一名美國官員表示，近幾天南線航道的通行頻率有所增加（約有50艘船隻透過），且該航道依然暢通。"
+    },
+    {
+      "id": "mkt:019f2e7c-0951-7aab-8c9e-cd003054a140",
+      "time": "2026-07-05 02:55:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. officials say southern transit lane through Strait of Hormuz remains open】Axios reported two U.S. officials say the Strait of Hormuz southern transit lane remains open. One official said most vessels transit with AIS turned off, making them untrackable on open-source platforms, and confirmed Iran has used VHF radio to harass ships. A second official said roughly 50 vessels used the southern lane in recent days and it remains navigable."
+    },
+    {
+      "id": "4970571",
+      "time": "2026-07-05 02:54:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "美方官員：霍爾木茲海峽南線航道維持通航。"
+    },
     {
       "id": "mkt:019f2e79-2cde-7aab-8c9e-c55949728b5b",
       "time": "2026-07-05 02:52:00",
@@ -121687,38 +121738,6 @@
         "國際"
       ],
       "text": "【以總理：以色列保留了北部邊境所需全部“安全區”】當地時間27日，以色列總理內塔尼亞胡召開新聞釋出會，表示以色列與黎巴嫩達成的框架協議是一項“歷史性成就”。該協議推動了結束雙邊衝突的程序，並開啟了“以色列與黎巴嫩最終達成和平協議”的前景。內塔尼亞胡稱，這項協議對伊朗和黎真主黨是“一次重大打擊”。該協議標誌著美國和黎巴嫩已經同意以色列在黎境內保留“安全區”，且保留期限將“視以色列的安全需要而定”，直至黎真主黨和其他武裝組織被解除武裝，黎巴嫩不再對以色列構成威脅。內塔尼亞胡表示，伊朗曾試圖施壓迫使以色列從黎南部撤軍，但他頂住了這一壓力。透過這項協議，以色列、黎巴嫩和美國實際上是在向伊朗明確表態：“這與你們無關。”針對協議中的撤軍條款，內塔尼亞胡稱，作為解除真主黨武裝並向黎巴嫩政府軍移交領土的“試點專案”，以色列將從目前控制的兩個小區域撤軍。其中一個區域完全位於“安全區”之外，另一個則處於安全區邊緣，且已是以軍不再需要控制的地帶。內塔尼亞胡表示，以色列實際上保留了保衛其北部邊境所需的全部“安全區”。（央視新聞）"
-    },
-    {
-      "id": "4958585",
-      "time": "2026-06-28 02:56:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱重工將在日美兩國投資燃氣輪機專案，資金超6.18億美元。"
-    },
-    {
-      "id": "mkt:019f0a70-7584-7dd8-b143-a18a59d40ca8",
-      "time": "2026-06-28 02:56:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Trump-Netanyahu contacts have fallen sharply】Politico reports that after U.S. and Israeli strikes on Iran on Feb. 28, Israeli officials briefly viewed the alliance as entering a 'golden era' but four months later are preparing for greater isolation. U.S. Vice President Vance told Israel last week it 'has almost no friends' and warned it not to attack its only remaining powerful ally. Seven sources, including U.S. and Israeli officials, said Vance's remarks reflect a new normal in which Israel's status no longer receives priority treatment from Washington. Tensions are visible: one source said Prime Minister Netanyahu visited Washington five times in 2025 but has made only one trip this year, in February, and phone contact has fallen sharply."
-    },
-    {
-      "id": "4958584",
-      "time": "2026-06-28 02:55:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國裁判將首次參加世界盃淘汰賽執裁工作】新華社美國波士頓6月27日訊息，國際足聯27日宣佈，中國裁判馬寧將在美加墨世界盃32強賽德國隊與巴拉圭隊的比賽中擔任第四官員，周飛將擔任該場比賽候補助理裁判。這將是中國裁判員首次參與世界盃淘汰賽執裁工作。（新華社）"
-    },
-    {
-      "id": "4958583",
-      "time": "2026-06-28 02:54:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：伊朗國內爆發了抗議活動，我相信其政權最終將會倒臺。"
     }
   ]
 }
