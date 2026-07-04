@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-04 19:54:22_
-_本檔包含 2592 則快訊，約 504311 字_
+_更新時間：2026-07-04 21:53:21_
+_本檔包含 2577 則快訊，約 504560 字_
+
+---
+
+### 2026-06-30 15:16:03  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.56% Higher — The Shangai Composite Index rose 23 points or 0.56 percent on Tuesday to close at 4097 points. Leading the gains are Avic Aviation Engine (2.68%), Avic Shenyang Aircraft (2.67%) and LONGi Green (2.42%). Top losers were Hengli Petrochemical (-6.35%), China Coal (-5.08%) and Aluminum Corporation of China (-4.10%).
+
+---
+
+### 2026-06-30 15:02:51  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Advance on Tech-Led Rebound — The Nikkei 225 Index climbed 0.86% to close at 70,062, while the broader Topix Index added 0.32% to 3,995 on Tuesday, extending the previous session’s gains as technology and artificial intelligence-related stocks rebounded. Japanese companies continued to benefit from optimism surrounding the global expansion of AI, supported by their strategic positioning and investments in the sector. Equities also drew support from the yen’s slide to a four-decade low, which improved earnings prospects for the country's export-driven firms. Meanwhile, investors monitored the resumption of US-Iran peace talks in Doha, Qatar, with lower oil prices helping to ease inflation concerns in Japan. Among the top performers were Taiyo Yuden (+8.3%), Tokyo Electron (+3.3%), and Fujikura (+6.0%). The Nikkei and Topix also posted gains for a third consecutive month, rising 5.3% and 1.0%, respectively, in June.
+
+---
+
+### 2026-06-30 14:48:48  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Rise Further — UK natural gas prices climbed to 104.6 pence a therm, the highest in over two weeks, as investors looked ahead to US–Iran talks in Qatar following weekend strikes from both sides that stoked supply fears. President Donald Trump said negotiations with Tehran are set to resume today after both sides agreed to halt a series of back-and-forth attacks over the Strait of Hormuz. Also supporting prices, hotter weather across Europe is ramping up gas-fired power generation to meet air conditioning demand, tightening supply conditions. The region continues to struggle to rebuild inventories to historical norms, with storage facilities currently around 48% full on average, raising concerns that the region could enter the winter season with the lowest gas reserves in 15 years. Despite the increase, UK gas prices are still set to end the month down by more than 5% and the second quarter with an 18% loss.
+
+---
+
+### 2026-06-30 14:46:49  #經濟數據 #歐元區
+
+法國6月CPI同比增長1.8%，預期2.1%，前值2.4%。
+
+---
+
+### 2026-06-30 14:42:18  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares End Higher on Chip Support — The benchmark KOSPI rose 0.97% to close at 8,476 on Tuesday, recovering from the previous session as semiconductor stocks led broad-based gains. Chipmakers were supported by continued optimism over large-scale investment across Korea's semiconductor ecosystem, alongside a new 454 billion won AI server capacitor supply contract won by Samsung Electro-Mechanics, reinforcing expectations for AI infrastructure demand. Notable gainers included Samsung Electronics (4.02%), SK Hynix (2.05%), SK Square (6.59%), and Samsung Electro-Mechanics (8.05%). At the same time, global sentiment remained supportive, with Asian equities tracking Wall Street's latest gains, firmer European futures, and easing geopolitical tensions helping stabilize oil markets. For June, the KOSPI was little changed, while posting a second-quarter gain of roughly 70%.
+
+---
+
+### 2026-06-30 14:41:09  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Slips Yet Logs Monthly, Quarterly Gains — The ASX 200 fell 45 points, or 0.5%, to close at 8,779 on Tuesday, snapping two sessions of gains as weakness in non-energy minerals, transport, and producer manufacturing weighed. Sentiment turned cautious after the Reserve Bank of Australia's June meeting minutes flagged inflation still well above the 2–3% target, with underlying pressures seen mounting in Q2. Policymakers signaled further tightening remains possible after three hikes this year, noting restrictive policy and elevated oil prices could temper demand and aid economic rebalancing. Two of the big four banks slipped between 0.3% and 0.7%, while BHP Group (-0.9%), Northern Star (-5.2%), and Evolution (-4.7%) lagged. In contrast, Euroz Hartleys jumped 7.6% after agreeing to sell its capital markets arm to Canada’s Bank of Montreal. Despite the pullback, the market logged a third straight monthly gain, up by 0.5% and around 3.5% for the quarter, underpinned by resilient spending, stronger jobs, and continued factory growth.
+
+---
+
+### 2026-06-30 14:30:03  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 1.48% Higher — The Nikkei 225 Index gained 1030 points or 1.48 percent on Tuesday to close at 70498 points. Gains were led by Taiyo Yuden (9.40%), Murata Manufacturing (6.98%) and Screen Holdings (6.68%).
+
+---
+
+### 2026-06-30 14:29:37  #央行 #歐洲央行
+
+歐洲央行首席經濟學家萊恩表示，歐洲具備落地應用人工智慧的良好條件，人工智慧將有利於生產效率的提高與投資。
+
+---
+
+### 2026-06-30 14:13:24  #央行 #美聯儲
+
+【美國最高法院釋出多項裁決 美聯儲理事庫克留任】美國最高法院6月29日釋出多項裁決，認定美國總統特朗普有權解除聯邦貿易委員會委員麗貝卡·斯洛特的職務，同時駁回聯邦政府請求，令美國聯邦儲備委員會理事莉薩·庫克得以留任。
+
+---
+
+### 2026-06-30 14:01:41  #經濟數據 #歐元區
+
+德國5月實際零售銷售同比增長1.8%，預期下降0.5%，前值下降0.3%。
+
+---
+
+### 2026-06-30 14:00:36  #經濟數據 #英國
+
+英國第一季度GDP同比增長0.9%，預期1.1%，前值1.1%。
+
+---
+
+### 2026-06-30 12:33:27  #經濟數據 #日本
+
+【日本5月汽油銷售同比下降0.9%】日本經濟產業省資料顯示，日本5月汽油銷售同比下降0.9%，石油產品銷售同比下降5.2%，煤油銷售同比增長10.6%；原油進口同比下降38.4%。
+
+---
+
+### 2026-06-30 12:03:21  #央行 #歐洲央行
+
+【歐洲央行訊息人士：儘管加息可能會推遲 但加息仍在議程之內】歐洲央行訊息人士：儘管加息可能會推遲，但加息仍在議程之內。油價迅速回落減輕了央行在7月加息的壓力；現在9月加息的可能性更大。若6月通脹資料意外大幅走高，7月加息可能重新成為討論焦點。
+
+---
+
+### 2026-06-30 09:35:34  #經濟數據 #中國
+
+【國家統計局：6月高技術製造業PMI為53.5% 明顯高於製造業總體】國家統計局表示，6月高技術製造業持續向好。高技術製造業PMI為53.5%，比上月上升0.6個百分點，明顯高於製造業總體，高階製造發展持續向好，引領作用進一步增強；裝備製造業和消費品行業PMI分別為52.5%和50.2%，比上月上升0.4個和0.5個百分點，行業景氣度有所增強；高耗能行業PMI為47.1%，與上月持平。
+
+---
+
+### 2026-06-30 09:35:34  #經濟數據 #中國
+
+【國家統計局：6月份製造業採購經理指數升至擴張區間 非製造業商務活動指數繼續擴張】6月30日國家統計局服務業調查中心和中國物流與採購聯合會釋出了中國採購經理指數。對此，國家統計局服務業調查中心首席統計師霍麗慧進行了解讀。6月份，製造業採購經理指數為50.3%，比上月上升0.3個百分點，重返擴張區間；非製造業商務活動指數和綜合PMI產出指數分別為50.2%和50.6%，均比上月上升0.1個百分點，我國經濟景氣水平有所回升。
+
+---
+
+### 2026-06-30 09:30:15  #經濟數據 #中國
+
+【國家統計局：6月官方製造業PMI為50.3% 重返擴張區間】6月份，製造業採購經理指數（PMI）為50.3%，比上月上升0.3個百分點，重返擴張區間。從企業規模看，大型企業PMI為50.7%，比上月下降0.4個百分點，仍高於臨界點；中型企業PMI為50.5%，比上月上升1.9個百分點，高於臨界點；小型企業PMI為48.2%，比上月下降0.3個百分點，低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數和新訂單指數高於臨界點，原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。
+
+---
+
+### 2026-06-30 09:23:22  #央行 #中國央行
+
+【央行今日開展6000億元隔夜逆回購操作】央行今日開展695億元7天期逆回購操作，操作利率為1.40%。同時，開展了6000億元隔夜逆回購操作。
+
+---
+
+### 2026-06-30 08:11:06  #央行 #日本央行
+
+【前日本央行理事稱下一次加息可能在12月之前到來】前日本央行理事KenzoYamamoto稱，隨著該行推進目前仍過於寬鬆的金融環境迴歸正常，其加息時間可能會早於大多數人的預期。“日本央行處於需要迅速採取行動的局面，”Yamamoto週一表示。當被問及日本央行是否會如大多數經濟學家預測的那樣在12月再次加息時，他表示“鑑於目前的貨幣寬鬆程度，下一次加息可能會在那之前就到來。”
+
+---
+
+### 2026-06-30 07:51:19  #經濟數據 #日本
+
+日本5月份工業產值同比下降1.7%，預估1.2%。
+
+---
+
+### 2026-06-30 07:30:43  #經濟數據 #日本
+
+日本5月失業率為2.5%，預期2.50%，前值2.50%。
+
+---
+
+### 2026-06-30 07:07:40  #央行 #歐洲央行
+
+【歐洲央行行長稱6月加息並非“預防性加息”】據報道，歐洲央行行長拉加德週一表示，該央行本月上調關鍵利率的決定是基於其預測，而不是為了管理通脹失控風險而採取的預防性行動。拉加德說：“這是一個基於我們眼前所見情況做出的決定。在充滿巨大不確定性的環境中，我們之所以能自信地做出這一決定，得益於多年來我們在資料、指標和預測方面的投入。”
+
+---
+
+### 2026-06-30 07:02:55  #經濟數據 #英國
+
+英國6月BRC商店物價指數同比上升1.2%，預期1.3%，前值1.20%。
+
+---
+
+### 2026-06-30 01:17:20  #央行 #美聯儲
+
+【美聯儲週一隔夜逆回購協議（RRP）使用規模為35.46億美元】美聯儲週一隔夜逆回購協議（RRP）使用規模為35.46億美元，上個交易日報64.26億美元。
+
+---
+
+### 2026-06-29 22:31:48  #央行 #美聯儲
+
+美國6月達拉斯聯儲商業活動指數為0，前值0.4。
+
+---
+
+### 2026-06-29 22:31:48  #經濟數據 #美國
+
+美國6月達拉斯聯儲商業活動指數為0，前值0.4。
+
+---
+
+### 2026-06-29 22:17:02  #央行 #美聯儲
+
+美國最高法院暫時允許美聯儲理事庫克繼續留任原職。
+
+---
+
+### 2026-06-29 17:37:07  #公司
+
+【大北農：副董事長張立忠擬不低於800萬元增持股份】大北農公告，公司副董事長張立忠計劃自2026年6月30日起1個月內，以集中競價交易方式增持本公司股份，增持金額不低於人民幣800萬元。本次增持計劃不設價格區間，將根據公司股票價格情況，依法依規擇機實施增持計劃。
+
+---
+
+### 2026-06-29 17:37:04  #公司
+
+【日久光電：部分董事、高管擬合計不低於610萬元增持公司股份】日久光電(003015)6月29日公告，公司董事彭磊擬不低於100萬元增持公司股份；董事、董事會秘書徐一佳擬不低於10萬元增持公司股份；高階管理人員陳鑫帥擬不低於500萬元增持公司股份。
+
+---
+
+### 2026-06-29 17:36:42  #公司
+
+【美銀：美光業績強化儲存超級週期預期 行業高景氣或延續至2027年】美銀在最新研報中表示，美光強勁的業績和指引進一步印證全球儲存晶片行業正處於超級週期，供需緊張和高階產品升級有望使高景氣至少延續至2027年。基於美光財報，美銀將2026年至2028年全球DRAM和NAND市場規模預測分別上調2%至4%。該行預計，2026年DRAM銷售額同比增長316%，NAND增長295%；2027年仍將分別增長43%和29%。美銀認為，隨著HBM等高階產品佔比持續提升，以及長期協議逐漸成為主流，儲存廠商未來有望在避免激烈價格競爭的同時，維持較高盈利能力，行業商業模式也將進一步向穩定、高利潤方向轉變。
+
+---
+
+### 2026-06-29 17:36:33  #其他
+
+第聶伯羅彼得羅夫斯克州軍政管理局訊息：俄軍發動襲擊，目前該地區已有 21 人受傷。
+
+---
+
+### 2026-06-29 17:36:13  #Trading Economics #Economy #Portugal #Business Confidence #Importance 1
+
+Portugal Business Climate Rises to 4-Month High in June — Business confidence in Portugal edged up to 2.8 in June 2026, the highest in four months, after being steady at 2.7 previously. Optimism increased among service providers (8.5 vs 8.3 in May), constructors (4.3 vs 3.8) and traders (4.2 vs 3.3), particularly retailers (6 vs 4.7). On the other hand, sentiment deteriorated further for manufacturers (-4.4 vs -3.5).
+
+---
+
+### 2026-06-29 17:35:59  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Fars News Agency says aggressive US measures have reduced shipping activity in the Strait of Hormuz; vessels are now transiting via Iranian waters.
+
+---
+
+### 2026-06-29 17:35:57  #其他
+
+英國Haleon：協議建立在現有Microsoft 365 Copilot使用基礎上。
+
+---
+
+### 2026-06-29 17:35:32  #公司
+
+【東方新能：重大資產購買部分股權完成過戶並納入合併報表】東方新能公告稱，公司及旗下新能企管中心以現金支付方式，向銳電投資購海城銳海100%股權、向百瑞信託購電投瑞享80%股權，構成重大資產重組。目前，海城銳海已完成工商變更登記，電投瑞享完成股權交割但工商變更未辦結。兩公司均已納入合併報表，對公司財務和經營有積極影響。後續，公司將繼續履行承諾、支付電投瑞享剩餘40%價款並持續披露資訊。
+
+---
+
+### 2026-06-29 17:35:19  #公司
+
+英國消費者健康公司Haleon：與微軟(MSFT.O)達成為期五年的合作協議。協議支援在業務中更廣泛地採用人工智慧驅動的工具。
+
+---
+
+### 2026-06-29 17:35:13  #國際
+
+法爾斯通訊社：受美國採取激進舉措影響，霍爾木茲海峽航運通行量出現下滑，船舶現經由伊朗航道開展過境作業。
+
+---
+
+### 2026-06-29 17:35:00  #MKT News #Market Themes #AI Revolution #HLN.L #Impact bullish
+
+Haleon, the UK consumer health company, said an agreement supports broader adoption of AI-driven tools across its business.
+
+---
+
+### 2026-06-29 17:34:50  #MKT News
+
+Haleon, the UK consumer-health company, said it has agreed a five-year partnership with Microsoft (MSFT.O).
+
+---
+
+### 2026-06-29 17:34:33  #MKT News #002385.SZ #Impact bullish
+
+Dabeinong said Vice Chairman Zhang Lizhong plans to increase his holdings by buying at least RMB 8 mln of company shares via open-market trades on the exchange within one month starting June 30, 2026.
+
+---
+
+### 2026-06-29 17:34:16  #MKT News #Market Regions #Europe & UK #AIR.PA #Impact bullish
+
+European Investment Bank (EIB) and Airbus signed a €1 bln loan, the first tranche of a €3 bln financing package.
+
+---
+
+### 2026-06-29 17:33:52  #國際
+
+【黎巴嫩議長警告三方框架協議威脅國家團結】據黎巴嫩《訊息報》29日報道，黎議會議長納比·貝里警告說，黎巴嫩、以色列和美國先前達成的三方框架協議可能引發國內紛爭，威脅黎巴嫩國家團結。(新華社)
 
 ---
 
@@ -15295,341 +15541,5 @@ ECB executive board member Schnabel expects further rate hikes.
 ### 2026-06-27 21:53:53  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
 
 ECB executive board member Schnabel says there are currently no signs of wage pressures.
-
----
-
-### 2026-06-27 21:53:04  #央行 #國際
-
-施納貝爾：預計歐洲央行將進一步加息。
-
----
-
-### 2026-06-27 21:52:52  #其他
-
-施納貝爾：目前尚未出現工資壓力跡象。
-
----
-
-### 2026-06-27 21:52:37  #其他
-
-施納貝爾：消費者通脹預期已上升。
-
----
-
-### 2026-06-27 21:51:57  #其他
-
-施納貝爾：食品、商品和服務通脹面臨上行風險。
-
----
-
-### 2026-06-27 21:51:17  #市場
-
-施納貝爾：能源價格上漲會產生連鎖反應。
-
----
-
-### 2026-06-27 21:51:00  #其他
-
-施納貝爾：能源衝擊可能引發更廣泛的通脹動態。
-
----
-
-### 2026-06-27 21:49:20  #其他
-
-施納貝爾：政府投資和全球人工智慧熱潮推動增長。
-
----
-
-### 2026-06-27 21:49:09  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-ECB executive board member Schnabel said a US-Iran peace agreement reduces the probability of downside scenarios.
-
----
-
-### 2026-06-27 21:49:08  #其他
-
-施納貝爾：能源成本上升影響信心和消費。
-
----
-
-### 2026-06-27 21:49:01  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish #Brent
-
-ECB executive board member Schnabel said the energy shock is hitting the euro area particularly hard.
-
----
-
-### 2026-06-27 21:48:57  #其他
-
-施納貝爾：此次能源衝擊烈度超過以往石油危機。
-
----
-
-### 2026-06-27 21:48:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-ECB executive board member Schnabel expects oil prices to remain elevated; uncertainty remains high.
-
----
-
-### 2026-06-27 21:47:44  #其他
-
-施納貝爾：能源衝擊對歐元區打擊尤為嚴重。
-
----
-
-### 2026-06-27 21:47:30  #其他
-
-施納貝爾：和平協議降低了負面情景發生的可能性。
-
----
-
-### 2026-06-27 21:47:17  #其他
-
-施納貝爾：不確定性依然很高。
-
----
-
-### 2026-06-27 21:47:02  #MKT News #Important
-
-Strong tremors were felt in Kabul, Afghanistan, and northern Pakistan.
-
----
-
-### 2026-06-27 21:47:01  #央行 #國際
-
-歐洲央行管委施納貝爾：預計油價將持續高位。
-
----
-
-### 2026-06-27 21:44:28  #其他
-
-德國地球科學研究中心（GFZ）訊息：阿富汗興都庫什地區發生5.94級地震。
-
----
-
-### 2026-06-27 21:41:53  #MKT News
-
-EMSC reported a magnitude-6 earthquake in Afghanistan's Hindu Kush region.
-
----
-
-### 2026-06-27 21:37:35  #其他
-
-【預報顯示委內瑞拉地震災區將迎來降雨】據委內瑞拉國家氣象水文局當地時間27日凌晨釋出的最新預報，未來幾小時內，委內瑞拉大部分地區將出現多雲天氣，並伴有強度不等的降水過程。預報顯示，進入27日下午和晚間，大氣不穩定性增強，雲量增多，在米蘭達州、拉瓜伊拉州及首都加拉加斯等震區的居民需注意防範山區及城市區域可能出現的短時強降雨。
-
----
-
-### 2026-06-27 21:36:17  #公司
-
-【王偉中包鋼會見鄒磊馮來法 共同見證簽約並出席揭牌儀式】據內蒙古日報，6月27日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見國家能源集團董事長鄒磊、總經理馮來法，共同見證簽約並出席國家能源集團煤炭產業研究院揭牌儀式。王偉中、鄒磊為國家能源集團煤炭產業研究院揭牌。自治區黨委常委、自治區人民政府常務副主席黃志強，國家能源集團副總經理楊鵬代表雙方簽署戰略合作協議。王偉中說，內蒙古是國家重要能源和戰略資源基地，與國家能源集團有著深厚的合作基礎。希望國家能源集團持續加大在內蒙古的投資力度，加快實施新能源就地消納、煤制油氣延鏈增值、科創基地建設等專案，統籌抓好能源開發與生態保護修復，以互利共贏的務實合作助力內蒙古高質量發展。安全生產是地企雙方共同的責任，希望企業繼續做好安全生產各項工作，與我們一道守好安全生產底線。
-
----
-
-### 2026-06-27 21:34:56  #MKT News
-
-Saudi foreign ministry condemned Iran's attack on Bahrain, calling it a violation of international law.
-
----
-
-### 2026-06-27 21:30:55  #公司
-
-【張雪公佈原影片，闢謠“東鵬老闆不喝東鵬”】“張雪機車”創始人張雪在短影片平臺釋出影片，闢謠“東鵬老闆不喝東鵬”一事。 他表示，這個梗是出自於自己請東鵬飲料董事、聯席總裁蔣薇薇喝東鵬，並專門放出了當時的原影片。畫面裡，蔣薇薇到訪張雪公司，張雪掃碼買了幾瓶東鵬特飲，然後開玩笑說“她一定從來沒有喝過這種請東鵬的”。蔣薇薇笑著回應：“沒有，沒有這麼喝過，第一次有人請我喝東鵬。”完整的對話就是這樣，跟所謂的“董事長拒喝自家產品”半毛錢關係都沒有。張雪最後還補了一句：“吃瓜遲到我自己頭上了，好神奇。但是你說東鵬有競爭對手嗎？好像沒有競爭對手。要不是競爭對手作惡的話，難道又是純粹為了流量嗎？好神奇哦。”
-
----
-
-### 2026-06-27 21:26:19  #MKT News
-
-【Xiong'an New Area approved to build national IP protection center】China's National Intellectual Property Administration (CNIPA) has approved construction of a national-level intellectual property protection center in the Xiong'an New Area. The center, now in preparatory stages, will target next‑generation information technology and advanced materials. Once operational it will provide a one‑stop platform for rapid pre-examination, expedited confirmation of rights and accelerated enforcement, and aims to cut average patent grant times by about 70% to speed protection of corporate innovation in the covered sectors.
-
----
-
-### 2026-06-27 21:25:18  #其他
-
-【雄安新區獲批建設國家級智慧財產權保護中心】據“雄安釋出”，近日，國家智慧財產權局批覆同意雄安新區開展國家級智慧財產權保護中心建設，未來面向新一代資訊科技、新材料兩大領域開展智慧財產權快速協同保護工作。目前雄安新區國家級智慧財產權保護中心正有序推進各項籌建工作，待中心建成驗收、正式運營後，將形成集快速預審、快速確權、快速維權於一體的智慧財產權“一站式”綜合服務平臺，相關產業的專利平均授權時間將縮短70％，從而高效保護企業創新成果，加速形成產業技術創新優勢。
-
----
-
-### 2026-06-27 21:18:50  #其他
-
-委內瑞拉迎來1600名外國救援人員參與緊急搜尋地震倖存者。
-
----
-
-### 2026-06-27 21:18:08  #國際
-
-卡達外交部：我們強調需要以有助於鞏固安全的方式，立足於諒解備忘錄中取得的成果。
-
----
-
-### 2026-06-27 21:16:25  #公司
-
-【博世中國回應集團換帥】6月27日，對於博世集團換帥一事，博世中國表示，此次集團董事會人事調整不會對博世中國各項業務運營產生任何影響。中國始終是博世全球最重要的戰略市場之一，也是集團重要的創新基地。6月26日，博世集團宣佈了一項重磅人事變動：應其本人要求並與股東密切協商一致，董事會主席史蒂凡·哈通（Stefan Hartung）將於6月30日卸任，董事會副主席克里斯蒂安·菲舍爾（Christian Fischer）於7月1日接棒。（第一財經）
-
----
-
-### 2026-06-27 21:13:52  #國際
-
-卡達外交部：我們強調，必須避免該地區遭受無端襲擊的後果，並繼續走對話與緩和局勢的道路。
-
----
-
-### 2026-06-27 21:13:35  #國際
-
-卡達外交部：我們譴責伊朗使用無人機對巴林的襲擊，認為這是對其主權的侵犯以及對國際法規則的違反。
-
----
-
-### 2026-06-27 21:10:40  #其他
-
-法國急救機構訊息：過去 24 小時內，僅巴黎市就已有 109 人因熱浪死亡。
-
----
-
-### 2026-06-27 21:03:17  #國際
-
-真主黨領導人稱，將以色列從黎巴嫩南部撤軍與該組織解除武裝掛鉤，越過了“紅線”。
-
----
-
-### 2026-06-27 21:02:17  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH leader said the Israel-Lebanon framework agreement is invalid, vowed to continue pressure until Israel withdraws from Lebanon, and urged the Lebanese government to abandon the framework.
-
----
-
-### 2026-06-27 21:01:20  #其他
-
-真主黨領導人敦促黎巴嫩政府放棄以黎框架協議。
-
----
-
-### 2026-06-27 21:01:00  #國際
-
-真主黨領導人表示，該組織將繼續施壓，直到以色列從黎巴嫩撤軍。
-
----
-
-### 2026-06-27 21:00:35  #國際
-
-真主黨領導人稱以色列-黎巴嫩框架協議“無效”，須由伊朗-美國備忘錄取代。
-
----
-
-### 2026-06-27 20:59:15  #國際
-
-歐盟委員會主席馮德萊恩：我歡迎以色列和黎巴嫩達成的協議。這是避免局勢升級的關鍵一步。因為如果黎巴嫩仍深陷戰火，中東就不可能實現和平。感謝美國斡旋。下一步的關鍵步驟是解除非國家武裝團體的武裝，並維護黎巴嫩的主權和領土完整。歐盟隨時準備支援這一通往持久區域穩定的道路，並將繼續提供急需的人道主義援助，目前已調動1億歐元用於援助流離失所者。
-
----
-
-### 2026-06-27 20:58:05  #MKT News #Market Themes #AI Revolution
-
-【US may lift restrictions on Anthropic's Fable 5 as soon as next week】Sources told Axios the Trump administration is close to allowing Anthropic to restore access to its Fable 5 model, which has been offline for 15 days amid government security concerns; insiders say restrictions could be lifted as soon as next week and communications are expected to continue over the weekend, with Anthropic expecting access to be restored shortly. On Friday the Commerce Department permitted Anthropic to restore limited access to Mythos 5 for a small number of trusted users. Semafor reported Commerce Secretary Lutnick wrote that Anthropic has cooperated with the US government to address risks related to Mythos 5 and Fable 5, that substantial progress has been made, and that the company has committed to work with the government on agreements, standards and releases.
-
----
-
-### 2026-06-27 20:55:45  #公司 #國際 #原創
-
-【特朗普政府據悉最快下週批准Anthropic恢復Fable 5模型的訪問許可權】據一位知情人士透露，特朗普政府即將允許Anthropic恢復其強大的Fable 5模型的訪問許可權。該模型此前已因特朗普政府的安全擔憂而下線15天。知情人士表示，內部人士預計特朗普政府對Fable 5的限制最早可能在下週解除。另一位訊息人士稱，雙方預計將在週末繼續進行磋商，Anthropic預計很快就能恢復Fable 5的訪問許可權。
-
----
-
-### 2026-06-27 20:50:55  #其他
-
-【中非共和國暴發霍亂疫情 已致24人死亡】中非共和國衛生和人口部26日晚宣佈，該國西南部賓博和姆拜基地區暴發霍亂疫情。自本月中旬出現疑似病例以來，目前已累計報告197例病例，其中24人死亡。
-
----
-
-### 2026-06-27 20:49:23  #國際
-
-市場訊息：特朗普政府據悉接近允許Anthropic恢復對其強大Fable 5模型的訪問許可權 。
-
----
-
-### 2026-06-27 20:41:55  #MKT News #Brent #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-【Israeli forces strike southern Lebanon again after Lebanon-Israel-US framework agreement】Following a tripartite framework agreement between Lebanon, Israel and the United States on June 26, Israeli forces struck southern Lebanon on June 27, Lebanese sources said. An Israeli drone hit an intersection in the nebetiyeh area and another dropped a blast munition near Taibnit village; Israeli troops advanced toward the outskirts of Shuba village, using medium and heavy machine-gun fire during the movement.
-
----
-
-### 2026-06-27 20:39:28  #宏觀
-
-【《黑龍江省推進“人工智慧+教育”行動方案》出臺】近日，黑龍江省教育廳等八部門出臺《黑龍江省推進“人工智慧+教育”行動方案》，方案提出，到2027年，基本形成縱向貫通、橫向聯通的人工智慧通識教育體系，人工智慧在教育領域常態化應用，適配各類教學場景的數字教育資源持續豐富，師生人工智慧素養與創新能力顯著提升；到2030年，人工智慧領域人才培養規模和質量不斷提升，形成全民人工智慧素養培育長效機制，教育教學模式、科研正規化、治理模式實現系統性變革，基礎支撐環境更加集約高效，創新生態體系更加開放協同，智慧技術應用更加普惠、安全、高效，形成一批高價值、可推廣、易複製的應用場景，人工智慧與教育深度融合的“龍江正規化”基本形成。
-
----
-
-### 2026-06-27 20:34:26  #MKT News
-
-【Australia to tighten enforcement of children's social media ban】Australia will tighten enforcement of its children's social media ban, doubling the maximum fine for technology companies that systemically violate the rule to AUD99 million (about USD68 million) and directing the government to strengthen the internet regulator's information‑gathering powers.
-
----
-
-### 2026-06-27 20:34:18  #公司
-
-【立昂技術：公司為中科聞歌提供AIDC算力基礎設施配套】立昂技術(300603)在最新披露的投資者關係活動記錄表中透露，公司為中科聞歌提供AIDC算力基礎設施配套，是其算力供應合作方，雙方同步協同開展大模型相關業務落地與行業應用拓展。
-
----
-
-### 2026-06-27 20:33:51  #國際
-
-【澳大利亞加強兒童社交媒體禁令，將對科技公司的罰款上限提高一倍】澳大利亞週六宣佈，將把對未能遵守兒童社交媒體禁令的科技公司最高罰款額提高一倍。因為越來越多的證據表明，這項禁令對青少年使用社交媒體的影響微乎其微。政府還將加強其網際網路監管機構——網路安全專員（eSafety Commissioner）的資訊收集權力，使其能夠強制社交媒體公司提供證據，證明其為阻止16歲以下未成年人註冊賬戶所採取了哪些措施。根據新規，系統性違反禁令的最高罰款額將從4950萬澳元躍升至9900萬澳元（約合6800萬美元）。宣告稱，自禁令實施以來，已有超過 500 萬個 16 歲以下社交媒體賬戶被停用或受到限制。但大量研究也表明，科技公司設立的年齡保證機制，例如自拍，很容易被兒童規避，而且在許多情況下，兒童從未被要求證明自己的年齡。
-
----
-
-### 2026-06-27 20:23:14  #其他
-
-【APEC第十三屆旅遊部長會議在澳門舉行 共商亞太旅遊合作新路徑】亞太經合組織(APEC)第十三屆旅遊部長會議27日在澳門舉行，21個經濟體旅遊主管部門負責人圍繞“數智創新，合作賦能——以旅遊助力亞太共同體建設”的主題，共商亞太旅遊合作新路徑。（中新網）
-
----
-
-### 2026-06-27 20:19:47  #國際
-
-【黎以美達成框架協議後以軍再襲黎南部】在黎巴嫩、以色列和美國26日宣佈達成三方框架協議後，以軍再度對黎南部發動襲擊。據黎通社27日報道，一架以色列無人機27日襲擊了黎南部奈拜提耶地區的一個路口，另有一架以軍無人機在該地區泰卜尼特村附近投擲了一枚震爆彈。此外，以軍正在向黎南部舒巴村郊區推進，行進途中使用中、重型機槍進行掃射。（新華社）
-
----
-
-### 2026-06-27 20:18:04  #國際
-
-約旦譴責伊朗使用無人機對巴林發動襲擊。
-
----
-
-### 2026-06-27 20:17:44  #MKT News
-
-【UK media: Andy Burnham to unveil devolution plans in major speech next week】The Times reports Andy Burnham will set out plans next week to devolve powers and funding from central government to English regions, including greater control for mayors and targeted funding for social housing, welfare and post-16 education. Whitehall departments will be asked to identify functions that could transfer to local government, and Burnham may propose devolving a share of tax revenues; if he remains the sole Labour leadership candidate he is expected to be formally confirmed late next month (nominations close July 16).
-
----
-
-### 2026-06-27 20:17:39  #其他
-
-約旦外交大臣希望框架協議符合黎巴嫩及其人民的利益，並有助於恢復穩定，鞏固黎巴嫩對其所有領土的主權。
-
----
-
-### 2026-06-27 20:00:08  #MKT News
-
-【Europe's oldest operating nuclear plant Beznau taken offline after cooling river water warmed, Axpo says】Axpo said on the 26th local time the Beznau nuclear plant in northern Switzerland was taken offline after river water used to cool the reactor became too warm amid high temperatures.
-
----
-
-### 2026-06-27 20:00:02  #市場 #焦點
-
-本週大盤主力資金累計淨流入-3398.08億元，證券Ⅱ、醫療服務板塊淨流入居前，個股惠科股份淨流入最多。
-
----
-
-### 2026-06-27 19:59:38  #公司 #國際
-
-【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司當地時間26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。（央視新聞）
-
----
-
-### 2026-06-27 19:56:00  #公司 #其他
-
-【九方智投AI股票機與宇樹、智元機器人同臺亮相 2026AI智慧體驗嘉年華】6月27日，由新華網與陸家嘴中心聯合主辦的2026AI智慧體驗嘉年華在上海陸家嘴中心L+MALL啟幕。展區覆蓋三、五兩層，九方智投AI股票機以首家線下快閃店形式亮相五層，與宇樹科技U2、智元靈犀X2、遠征A2、松延動力等機器人品牌同臺展示。本次嘉年華是響應國家"打造智慧經濟新形態"戰略、落實上海"人工智慧高地"建設的落地實踐，既是一場前沿科技的集中展示，更是一次面向公眾的AI科普體驗。九方智投AI股票機快閃店設產品體驗、電商直播、使用者互動三大板塊，現場配扭蛋機抽獎，活動橫跨整個暑期，觀眾均可到場親身體驗"新一代股票投資助手"。
-
----
-
-### 2026-06-27 19:54:32  #其他
-
-【翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證】據翔宇醫療訊息，翔宇醫療多角度頸腰椎牽引治療機獲國家醫療器械註冊證。
 
 ---
