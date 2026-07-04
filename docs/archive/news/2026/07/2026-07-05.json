@@ -1,7 +1,20 @@
 {
   "date": "2026-07-05",
-  "count": 165,
+  "count": 166,
   "items": [
+    {
+      "id": "mkt:019f2f28-5f52-7aab-8ca0-0768579580db",
+      "time": "2026-07-05 06:03:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China's express volume tops 100 billion items YTD, milestone hit nine days earlier than last year】State Post Bureau monitoring shows China's express delivery volume exceeded 100 billion items as of June 30, reaching the milestone nine days earlier than in 2025. Ongoing consumption-support measures have sustained retail growth and shifted spending patterns, expanding parcel demand. The bureau says the industry is refocusing from pure volume growth to quality improvement and sustainable scale; continued policy implementation and emerging new drivers should strengthen postal and courier services' role in logistics, supporting economic circulation and higher-quality growth."
+    },
     {
       "id": "4970643",
       "time": "2026-07-05 05:59:14",
