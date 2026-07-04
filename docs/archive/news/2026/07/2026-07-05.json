@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 57,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:019f2e43-c716-7aab-8c9e-634842c14eb4",
+      "time": "2026-07-05 01:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action."
+    },
     {
       "id": "mkt:019f2e42-336c-7aab-8c9e-5c7a49d17d90",
       "time": "2026-07-05 01:51:58",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 01:53:21",
+  "updated": "2026-07-05 01:57:14",
   "count": 13241,
   "items": [
+    {
+      "id": "mkt:019f2e43-c716-7aab-8c9e-634842c14eb4",
+      "time": "2026-07-05 01:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action."
+    },
     {
       "id": "mkt:019f2e42-336c-7aab-8c9e-5c7a49d17d90",
       "time": "2026-07-05 01:51:58",
@@ -121867,14 +121875,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：我們已瓦解伊朗軸心勢力。"
-    },
-    {
-      "id": "4958555",
-      "time": "2026-06-28 01:55:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗人十分擅長輿論宣傳。伊朗談判代表均由本國政府指派，他們的表態意在迎合德黑蘭國內的強硬派群體。和我們體系記憶體在強硬勢力一樣，伊朗國內也有持強硬立場的人士。"
     }
   ]
 }
