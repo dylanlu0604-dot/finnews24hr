@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 50,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:019f2e3b-89de-7aab-8c9e-4dda9df4205c",
+      "time": "2026-07-05 01:44:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia offers to hand over bodies of fallen Ukrainian soldiers, asks Ukraine to halt shelling of Konstantinovka】On the 4th local time the Russian Defence Ministry said it was prepared to carry out a humanitarian operation to hand over bodies of Ukrainian soldiers killed in action and proposed Ukraine suspend shelling of Konstantinovka from 12:00 to 18:00 Moscow time on the 6th. Russia said Ukraine must decide on the handover by 12:00 Moscow time on the 5th; Ukraine had made no immediate response."
+    },
+    {
+      "id": "4970557",
+      "time": "2026-07-05 01:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）"
+    },
     {
       "id": "mkt:019f2e33-5dee-7aab-8c9e-0ab5485ddbe2",
       "time": "2026-07-05 01:35:46",
