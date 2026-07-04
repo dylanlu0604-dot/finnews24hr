@@ -1,7 +1,19 @@
 {
   "date": "2026-07-04",
-  "count": 457,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:019f2c36-8218-7aab-8c9c-66c9ffb2f03a",
+      "time": "2026-07-04 16:19:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS, citing Lebanese sources, said Israel carried out a drone strike near Sadikin."
+    },
     {
       "id": "4970340",
       "time": "2026-07-04 16:17:18",

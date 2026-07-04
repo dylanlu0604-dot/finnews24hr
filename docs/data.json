@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-04 16:18:52",
-  "count": 13290,
+  "updated": "2026-07-04 16:22:49",
+  "count": 13289,
   "items": [
+    {
+      "id": "mkt:019f2c36-8218-7aab-8c9c-66c9ffb2f03a",
+      "time": "2026-07-04 16:19:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS, citing Lebanese sources, said Israel carried out a drone strike near Sadikin."
+    },
     {
       "id": "4970340",
       "time": "2026-07-04 16:17:18",
@@ -122305,25 +122317,6 @@
         "其他"
       ],
       "text": "【北大與DeepSeek聯合開源DSpark框架，高併發下生成速度提升超60%】DeepSeek聯合北京大學正式釋出DSpark推理加速框架，旨在解決大語言模型在高併發生產環境中的推理效率瓶頸。該框架已部署於DeepSeek-V4-Flash與DeepSeek-V4-Pro的預覽版服務引擎中，相比此前生產環境採用的單token推測解碼基線MTP-1，在同等吞吐量水平下可將單使用者生成速度提升60%至85%。相關論文、訓練程式碼及模型檢查點已在GitHub平臺DeepSpec專案中開源。"
-    },
-    {
-      "id": "mkt:019f082c-2dd3-7dd8-b141-29407694ba15",
-      "time": "2026-06-27 16:22:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Chairman of Iran's parliamentary National Security Commission said any action violating Iran's shipping directives in the Strait of Hormuz will be met with a decisive response."
-    },
-    {
-      "id": "4958318",
-      "time": "2026-06-27 16:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席表示，任何違反伊朗霍爾木茲海峽航行指令的行為都將受到果斷回應。"
     }
   ]
 }
