@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 01:09:55",
-  "count": 13235,
+  "updated": "2026-07-05 01:13:55",
+  "count": 13236,
   "items": [
+    {
+      "id": "mkt:019f2e1e-9440-7aab-8c9d-fa483bd17518",
+      "time": "2026-07-05 01:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan."
+    },
+    {
+      "id": "mkt:019f2e1c-e6bc-7aab-8c9d-f5b553fc60da",
+      "time": "2026-07-05 01:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US official said several senior aides to Trump believe Netanyahu has misjudged every issue."
+    },
+    {
+      "id": "mkt:019f2e1c-01ca-7aab-8c9d-ec76bbd686f3",
+      "time": "2026-07-05 01:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he was surprised Iranians were crying at Khamenei's funeral because he had expected people to dislike him, and suggested the displays might be fake tears."
+    },
     {
       "id": "4970552",
       "time": "2026-07-05 01:05:47",
@@ -121800,22 +121824,6 @@
         "WTI"
       ],
       "text": "Israeli Broadcasting Corporation, citing sources, says Israel's military plans to withdraw tomorrow from two experimental areas in southern Lebanon."
-    },
-    {
-      "id": "4958543",
-      "time": "2026-06-28 01:11:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：塞爾維亞總統亞歷山大·武契奇稱將在數週內辭職，預示將提前舉行大選。"
-    },
-    {
-      "id": "mkt:019f0a10-612c-7dd8-b143-113f0bc8509e",
-      "time": "2026-06-28 01:11:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Serbian President Vucic said he will resign within weeks, indicating early elections."
     }
   ]
 }
