@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-04 18:11:39",
+  "updated": "2026-07-04 18:15:35",
   "count": 13278,
   "items": [
+    {
+      "id": "mkt:019f2c9f-0791-7aab-8c9c-a7413d2aa6c1",
+      "time": "2026-07-04 18:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Von der Leyen said the European Commission proposed ten months ago to suspend preferential trade treatment under the EU‑Israel Association Agreement."
+    },
+    {
+      "id": "4970378",
+      "time": "2026-07-04 18:13:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“美莎克”逼近廣西東興市 今晚將再次登陸】截至今天17點，今年第10號颱風“美莎克”的中心位於距離廣西東興市南偏東方向約75公里的海面上，中心附近最大風力有10級，強度為強熱帶風暴級。預計，“美莎克”將以每小時10~15公里的速度向北偏西移動，強度變化不大。預計颱風“美莎克”今晚將在廣西和越南北部交界附近沿海再次登陸，之後轉向偏北方向移動，強度逐漸減弱。將於6日在廣西北部減弱消散。受“美莎克”影響，今天，廣西中南部、廣東中部、海南島西部等地將有暴雨或大暴雨，廣西南部局地有特大暴雨。"
+    },
     {
       "id": "4970377",
       "time": "2026-07-04 18:09:07",
@@ -122161,26 +122177,6 @@
         "Important"
       ],
       "text": "Lebanese National News Agency reports an Israeli drone strike in Nabatieh, southern Lebanon."
-    },
-    {
-      "id": "4958357",
-      "time": "2026-06-27 18:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國兩款核聚變堆使用的超導磁鐵取得新突破】今天，中國科學院合肥物質科學研究院等離子體物理研究所“人造太陽”專案取得最新進展，我國兩款自主研製的核聚變堆使用的超導磁鐵分別完成技術驗收和滿工況引數測試。其中，國家重大科技基礎設施“聚變堆主機關鍵系統綜合研究設施”最大的超導部件——環向場磁體完成最後製備工藝，並透過專家技術驗收。在合肥未來大科學城，緊鄰聚變堆主機關鍵系統綜合研究設施，還有另外一個核聚變大科學裝置——緊湊型聚變能實驗裝置的關鍵部件也取得了重要進展。該裝置的高溫超導中心螺管線圈磁體今天完成了滿工況引數測試，核心效能達到國際領先水準。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0890-6488-7dd8-b141-b36b2d33e647",
-      "time": "2026-06-27 18:11:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian parliament's National Security and Foreign Policy Committee spokesman Rezaei said the US violated a memorandum to end hostilities by stoking tensions in the Strait of Hormuz and warned any such violations would be met with a swift, decisive response."
     }
   ]
 }
