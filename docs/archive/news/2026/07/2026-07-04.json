@@ -1,7 +1,25 @@
 {
   "date": "2026-07-04",
-  "count": 304,
+  "count": 306,
   "items": [
+    {
+      "id": "4970221",
+      "time": "2026-07-04 10:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【暑期郵輪季開啟 近50艘次郵輪將從天津啟航】7月2日上午8時許，“愛達·地中海”號郵輪搭載著1600餘名旅客靠泊天津國際郵輪母港，當日15時許又搭載著1200餘名旅客前往韓國，開啟6天5晚的旅程。（新華社）"
+    },
+    {
+      "id": "mkt:019f2ae5-e69e-7aab-8c9b-485162cd08c7",
+      "time": "2026-07-04 10:12:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Doubao to take AI agent feature offline on July 15, 2026】Doubao said in a notice the AI agent feature will be taken offline on July 15, 2026. After that date users will be unable to create new agents; existing saved agents will be inaccessible and cannot be called or run. Doubao will process agent-related data after July 15 and the data will no longer be viewable or recoverable within Doubao."
+    },
     {
       "id": "4970220",
       "time": "2026-07-04 10:09:41",

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-04 10:11:50",
-  "count": 13283,
+  "updated": "2026-07-04 10:15:43",
+  "count": 13284,
   "items": [
+    {
+      "id": "4970221",
+      "time": "2026-07-04 10:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【暑期郵輪季開啟 近50艘次郵輪將從天津啟航】7月2日上午8時許，“愛達·地中海”號郵輪搭載著1600餘名旅客靠泊天津國際郵輪母港，當日15時許又搭載著1200餘名旅客前往韓國，開啟6天5晚的旅程。（新華社）"
+    },
+    {
+      "id": "mkt:019f2ae5-e69e-7aab-8c9b-485162cd08c7",
+      "time": "2026-07-04 10:12:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Doubao to take AI agent feature offline on July 15, 2026】Doubao said in a notice the AI agent feature will be taken offline on July 15, 2026. After that date users will be unable to create new agents; existing saved agents will be inaccessible and cannot be called or run. Doubao will process agent-related data after July 15 and the data will no longer be viewable or recoverable within Doubao."
+    },
     {
       "id": "4970220",
       "time": "2026-07-04 10:09:41",
@@ -122269,15 +122287,6 @@
         "MKT News"
       ],
       "text": "【Preliminary data show Germany records all-time high temperature】Preliminary observations from the German Weather Service (DWD) on the 26th show Germany hit 41.3°C at 17:00 local time in Saarbrücken‑Burbach, Saarland, a national record, surpassing the previous 41.2°C recorded on 25 July 2019 in Tönisvorst and Duisburg‑Baerl, North Rhine‑Westphalia."
-    },
-    {
-      "id": "4958176",
-      "time": "2026-06-27 10:13:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【愛旭股份與多家合作伙伴簽署多項合作協議】6月23日，2026年歐洲國際太陽能展（Intersolar Europe 2026）在德國慕尼黑新國際博覽中心開幕。展會現場，愛旭股份與來自瑞士、荷蘭、法國、比利時以及波黑的多家安裝商與渠道商簽署了高效ABC元件供貨協議，簽約規模超過1GW，覆蓋集中式、分散式多場景，並將與各方就不同場景的應用探索展開深度合作。同時，愛旭股份與來自德語區、西歐區域及北歐區域市場的多家重要合作伙伴共同開展集體簽約，敲定了Z系列元件的合作協議。此外，愛旭第四代ABC元件產品——G4滿屏Ultra元件也在展會期間於歐洲區域同步推出。"
     }
   ]
 }
