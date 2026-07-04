@@ -1,7 +1,17 @@
 {
   "date": "2026-07-05",
-  "count": 128,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:019f2ee6-d80f-7aab-8c9f-6d78784c79ac",
+      "time": "2026-07-05 04:51:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's cabinet authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha oil pipeline project."
+    },
     {
       "id": "4970599",
       "time": "2026-07-05 04:50:40",

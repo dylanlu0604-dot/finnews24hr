@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05 04:51:24",
-  "count": 13231,
+  "updated": "2026-07-05 04:55:16",
+  "count": 13226,
   "items": [
+    {
+      "id": "mkt:019f2ee6-d80f-7aab-8c9f-6d78784c79ac",
+      "time": "2026-07-05 04:51:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's cabinet authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha oil pipeline project."
+    },
     {
       "id": "4970599",
       "time": "2026-07-05 04:50:40",
@@ -121735,62 +121745,6 @@
         "國際"
       ],
       "text": "黎巴嫩總統府表示：特朗普向奧恩確認，美國政府將扶持黎巴嫩經濟，並支援黎巴嫩合法安全部隊。"
-    },
-    {
-      "id": "4958614",
-      "time": "2026-06-28 04:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：06月28日04時21分在日本本州東部附近海域（北緯40.25度，東經142.40度）發生5.9級地震，震源深度90千米。"
-    },
-    {
-      "id": "mkt:019f0adb-ddf9-7770-9d1b-94ad1bd99618",
-      "time": "2026-06-28 04:53:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "The Lebanese presidential palace said President Aoun told US President Trump on a phone call that Lebanon will assume responsibility for implementing the framework agreement with Israel. Aoun requested US help to prevent breaches of the agreement and to press Israel to withdraw from southern Lebanon."
-    },
-    {
-      "id": "4958613",
-      "time": "2026-06-28 04:52:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統府表示，奧恩已請求美國協助阻止違反協議的行為，並向以色列施壓，要求其撤出黎巴嫩南部區域。"
-    },
-    {
-      "id": "4958612",
-      "time": "2026-06-28 04:52:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統府表示，奧恩在與特朗普的通話中稱，黎巴嫩將承擔起履行與以色列框架協議的責任。"
-    },
-    {
-      "id": "mkt:019f0ada-c88e-7770-9d1b-8fddbc90fd73",
-      "time": "2026-06-28 04:52:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Neuberger: dollar likely to break six- to nine-month range】Neuberger portfolio manager Joseph Purtell said the dollar may strengthen in the near term as US real interest rates rise. He expects the currency to break out of its six- to nine-month trading range, but added that structural risks, including US fiscal sustainability, could weaken the dollar over the longer term."
-    },
-    {
-      "id": "4958611",
-      "time": "2026-06-28 04:51:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋總統就地震遇難者向委內瑞拉代總統表達慰問。"
     }
   ]
 }
