@@ -1,7 +1,28 @@
 {
   "date": "2026-07-04",
-  "count": 588,
+  "count": 590,
   "items": [
+    {
+      "id": "4970504",
+      "time": "2026-07-04 22:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊持續違反停火協議，在加沙地帶汗尤尼斯市東部和東北部地區對住宅和住宅樓實施4次大規模爆破行動。"
+    },
+    {
+      "id": "mkt:019f2d9c-7b8b-7aab-8c9d-83f6e1324db8",
+      "time": "2026-07-04 22:50:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "【He Xiaopeng: China leads in intelligent driving; UN approval of L2 rules to speed overseas deployment】Xpeng chairman and CEO He Xiaopeng said China leads globally in both ADAS technology and related regulation, and the United Nations has approved intelligent-driving rules that fully clear L2-level functions. He said the approval means that from December this year L2 features such as NGP and NOA can be used and deployed worldwide, marking an important implementation milestone. He added only China and the U.S. have achieved large-scale L2 rollout to date, most regions including the EU have not, and Xpeng—now a member of the UN traffic-regulations drafting group—is actively aligning products to the new requirements."
+    },
     {
       "id": "4970503",
       "time": "2026-07-04 22:45:49",
