@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-04 23:20:12_
-_本檔包含 2440 則快訊，約 505551 字_
+_更新時間：2026-07-05 00:36:03_
+_本檔包含 2447 則快訊，約 505311 字_
+
+---
+
+### 2026-07-01 17:11:26  #Trading Economics #Economy #Croatia #Inflation Rate #Importance 1
+
+Croatia Inflation Rate at 4-Month Low — The inflation rate in Croatia rose 4.5% year-on-year in June 2026, easing from 5.2% in the previous month and marking the lowest reading since February, according to a preliminary estimate. Prices for non-food industrial goods excluding energy fell 0.6%. Meanwhile, energy costs climbed 13.2%, continued to be linked to the Middle East conflict. Services prices also rose 8.1%, while food, beverages, and tobacco prices increased 1.8%. On a monthly basis, consumer prices fell 0.4% in June, following a 0.3% decline in May, marking the second consecutive monthly decline after four straight months of increases.
+
+---
+
+### 2026-07-01 17:11:19  #公司
+
+【三安光電：增持計劃時間過半，董事長已增持1498萬元，總經理因留置未實施】三安光電公告，公司董事長林志強和副董事長、總經理林科闖此前計劃自2026年3月31日起6個月內增持公司股份，林志強擬增持金額2000萬元至4000萬元，林科闖擬增持500萬元至1000萬元。截至2026年7月2日（本次進展公告日），增持計劃實施時間過半，林志強透過集中競價方式已增持公司股份100萬股（約佔總股本0.02%），增持金額1498.26萬元；林科闖因被採取留置措施，尚未實施增持。本次增持計劃尚未實施完畢。
+
+---
+
+### 2026-07-01 17:11:09  #公司
+
+特爾西諮詢集團將耐克目標價從55美元下調至47美元。
+
+---
+
+### 2026-07-01 17:11:09  #MKT News
+
+UK Maritime Trade Operations (UKMTO) said the crew reported they were safe.
+
+---
+
+### 2026-07-01 17:11:01  #MKT News #Important #Market Regions #Europe & UK
+
+UK Maritime Trade Operations reports a vessel is being approached by multiple small craft; several people aboard those craft are carrying light weapons.
+
+---
+
+### 2026-07-01 17:10:50  #公司
+
+【凱爾達：控股子公司獲3項感測器發明專利】凱爾達公告稱，公司控股子公司杭州凱維力感測科技有限公司近期獲3項國家智慧財產權局頒發的發明專利證書，分別為“一種抗環境干擾的多整合MEMS觸覺感測器及其製作方法”“一種具有針狀結構的高靈敏度陣列式觸覺感測器”“一種帶自校準功能的三軸MEMS力感測器”，專利期限均為20年。此次專利獲得不會對公司近期經營產生重大影響，但利於完善智慧財產權保護體系，提升核心競爭力。
+
+---
+
+### 2026-07-01 17:10:42  #公司 #市場
+
+【機構：英鎊對財政風險的韌性不太可能持久】Monex Europe的分析師在一份報告中表示，英鎊正表現出對政治逆風的韌性，但這可能不會持久。他們表示：“值得注意的是，政府拖延已久的國防投資計劃幾乎沒有說明政府將如何支付增加的支出，儘管承諾的金額已經低於本已很低的預期。“這些分析師表示，在財政風險和政治不確定性依然高企的背景下，Monex繼續認為英鎊存在下跌風險。倫敦證券交易所集團的資料顯示，英鎊兌走強的美元下跌0.1%，至1.3247美元，但兌歐元升至10個月高點，報每歐元0.8598英鎊。首相基爾·斯塔默上週宣佈辭職。
+
+---
+
+### 2026-07-01 17:10:36  #公司
+
+【上海醫藥：控股股東上實集團增持計劃實施完畢，增持H股7400萬股】上海醫藥公告，控股股東上實集團基於對公司未來發展的信心，自2025年9月15日起12個月內透過下屬全資子公司上實國際以集中競價方式增持公司H股股份。截至2026年6月29日，本次增持計劃已實施完畢。增持期間，上實集團透過上實國際累計增持公司H股股份7400萬股，約佔公司已發行H股股份總數的8.052%，佔已發行股份總數（37.08億股）的1.995%。本次增持計劃完成後，上實集團及其一致行動人合計持有及控制公司股份15億股，佔公司已發行股份總數的40.456%。增持期間上實集團未減持其所持公司股份。
+
+---
+
+### 2026-07-01 17:10:27  #MKT News #Important
+
+UK Maritime Trade Operations (UKMTO) said it received an incident report for an event 76 nm south of Balhaf, Yemen.
+
+---
+
+### 2026-07-01 17:10:00  #市場 #央行 #國際
+
+【歐元區通脹降幅超預期，增強了歐洲央行保持耐心的理由】歐元區6月通脹率的降幅遠超預期，這進一步減輕了歐洲央行在本月再次加息以遏制物價快速上漲的壓力。歐元區6月份整體通脹率從5月份的3.2%降至2.8%，低於3.0%的預期值；食品、能源和服務價格的通脹均有所放緩。與此同時，剔除了波動較大的食品和燃料價格的通脹率從2.6%降至2.4%，其中服務價格通脹率從3.5%降至3.2%。儘管6月份的資料仍遠高於歐洲央行2%的目標，但近期因市場押注美伊和平協議達成而出現的油價下跌，引發了人們的樂觀預期，即物價壓力可能從此開始緩解，能源價格飆升造成的廣泛負面影響也將保持在有限範圍內。事實上，歐洲央行多位決策者均表示，歐洲央行無需急於在本月採取行動，決策者有時間觀察物價壓力的演變情況。
+
+---
+
+### 2026-07-01 17:09:39  #其他
+
+藍冠資本稱：英國已不再是值得重點開展業務的優選地區。
+
+---
+
+### 2026-07-01 17:09:33  #其他
+
+【國內首個機器人學校來了】浙江杭州舉行了一場特殊的開學典禮，剛入學的“新生”是一群形態各異的機器人。它們來自工業、服務、安保、文娛等不同領域，將在學校接受系統化的培訓。目前市面上的人形機器人一般都有靈活的“身體”，會跑會跳，但它們大多還不具備理解環境、適應變化、自主決策的“大腦”。來到機器人學校，就是讓這些機器人不僅要能跑能跳，關鍵還要“頭腦靈光”，勝任複雜場景中的工作。為此，去年年底，浙江大學機器人研究院聯合浙江省質量科學研究院和行業頭部企業，共同啟動了杭州機器人學校的建設。（央視財經）
+
+---
+
+### 2026-07-01 17:09:11  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，其收到報告稱葉門巴爾哈夫以南76海里處發生一起事故。
+
+---
+
+### 2026-07-01 17:09:06  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #WTI
+
+【Eurozone inflation falls more than expected, bolstering case for ECB patience】Eurozone inflation eased to 2.8% in June from 3.2% in May, below the 3.0% consensus. Inflation excluding volatile food and fuel slowed to 2.4% from 2.6%; services inflation fell to 3.2% from 3.5%. All readings remain above the ECB’s 2% target. Oil prices have fallen on market bets of a US‑Iran peace deal, reinforcing expectations that energy-driven price pressures may ease. Several ECB policymakers said there is no need to act this month and they have time to monitor how price pressures evolve.
+
+---
+
+### 2026-07-01 17:08:50  #公司
+
+【福元醫藥：左甲狀腺素鈉片獲得藥品補充申請批准通知書】福元醫藥(601089)7月1日公告，公司近日收到了國家藥監局頒發的左甲狀腺素鈉片[規格：50μg（以左甲狀腺素鈉計）]《藥品補充申請批准通知書》，批准該藥品增加規格補充申請。該藥品適用於治療非毒性的甲狀腺腫（甲狀腺功能正常）；甲狀腺腫切除術後，預防甲狀腺腫復發；甲狀腺功能減退的替代治療；抗甲狀腺藥物治療甲狀腺功能亢進症的輔助治療；甲狀腺癌術後的抑制治療；甲狀腺抑制試驗。
 
 ---
 
@@ -14683,53 +14773,5 @@ Montenegro Tourist Arrivals Rise 0.3% in May — The number of tourist arrivals 
 ### 2026-06-30 17:15:31  #Trading Economics #Economy #Cyprus #Current Account #Importance 1
 
 Cyprus Current Account Deficit Widens in Q1 2026 — Cyprus’ current account deficit widened to €1.27 billion in Q1 2026, up from €1.01 billion in the same period last year. The goods deficit was virtually unchanged at €1.58 billion, while the services surplus narrowed to €1.25 billion from €1.47 billion. The primary income gap slightly decreased to €0.78 billion from €0.83 billion, and the secondary income deficit rose to €0.17 billion from €0.07 billion.
-
----
-
-### 2026-06-30 17:13:39  #Trading Economics #Economy #Italy #Inflation Rate #Importance 1
-
-Italy Inflation Eases More Than Expected — The headline national inflation rate in Italy softened to 3.0% in June of 2026 from 3.2% in the previous month, according to a preliminary read. It was below market expectations of a 3.1% rate and marked the first deceleration in consumer prices since January, potentially pointing to the top of the inflationary surge from the war in the Middle East as wholesale energy prices pulled back in the period. Price growth eased for non-processed food (4.5% vs 5.5% in May), cultural and recreational services (2.7% vs 3.0%), and transportation services (1.1% vs 1.7%). Still, higher energy prices in commodity markets from supply pressures in the Middle East were still being transmitted to Italian consumers, with faster inflation for regulated energy (9.3% vs 5.6%) and non-regulated energy (12.9% vs 12.5%). Since the pickup in inflation was concentrated in energy, the core inflation rate softened to 1.6% from 1.7%. From the previous month, Italian consumer prices were unchanged.
-
----
-
-### 2026-06-30 17:00:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Depreciates by 0.70% — Top currency losers are South Korean Won (-0.70%), Polish Zloty (-0.43%), Euro (-0.26%), Japanese Yen (-0.23%) and British Pound (-0.21%). Gains are led by Brazilian Real (0.31%) and Dollar Index (0.26%).
-
----
-
-### 2026-06-30 16:36:13  #經濟數據 #中國
-
-【財政部：1至5月國有企業營業總收入同比下降0.7% 利潤總額增長3.5%】1-5月，國有企業營業總收入328221.6億元，同比下降0.7%。1-5月，國有企業應交稅費26274.5億元，同比增長5.7%。1-5月，國有企業應交稅費26274.5億元，同比增長5.7%。
-
----
-
-### 2026-06-30 16:30:13  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 1.43% — Top crypto losers are Ether (-1.43%), Bitcoin (-1.41%) and Binance (-1.41%).
-
----
-
-### 2026-06-30 16:15:53  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Eyes Best Quarter Since 2020 — The FTSE MIB rose to around 51,300 on Tuesday, following a two-day decline, and attempting to rebound from an over two-week low. The benchmark index was also on track to post a gain of more than 15% for the second quarter, its best quarterly performance in nearly six years. The advance was supported by renewed optimism surrounding AI and improving demand expectations. Meanwhile, oil prices returned to pre-war levels, while easing tensions in the Middle East further boosted risk sentiment. Across the bourse, technology-related stocks led the gains, with STMicroelectronics and Saipem rising more than 2% each. Other notable gainers included Prysmian (+3.1%) and Unipol Gruppo (+1.7%). Meanwhile, Eni was little changed after launching Libya's offshore Sabratha Compression project to boost gas output and agreed to acquire a 32% stake in three Vaca Muerta blocks to support Argentina's LNG project, subject to regulatory approval.
-
----
-
-### 2026-06-30 16:13:57  #央行 #歐洲央行
-
-歐洲央行官員Wunsch稱，再次加息的理由已不如之前充分。
-
----
-
-### 2026-06-30 16:10:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Falls by 1.73% — Top commodity losers are Oat (-1.73%), Palm Oil (-1.02%) and Rapeseed (-0.54%). Gains are led by Rubber (1.58%), Wheat (1.12%) and Cotton (1%).
-
----
-
-### 2026-06-30 16:08:05  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Eyes Sixth Quarterly Gain as Miners Rally — The FTSE 100 advanced on Tuesday, steering toward its sixth consecutive quarterly gain with a 3.4% increase in Q2 following a 2.5% rise in Q1. This marks the index's best streak since 2022. Gains were driven by a robust mining sector fueled by geopolitical optimism and rising metal prices, lifting Anglo American, Glencore, and Antofagasta by over 2%, alongside Rio Tinto at 1.9% and Fresnillo at 0.7%. Other strong performers included AstraZeneca (+1%) and Lloyds Banking (+1.2%). J Sainsbury climbed 1.9% due to strong food sales and recent UK heatwaves. Barclays also gained after announcing a £750 million deal for its headquarters. However, these gains were capped by declining oil prices ahead of US and Iran talks, which dragged down BP and Shell. Meanwhile, data showed annual UK GDP growth was revised lower to 0.9%, while quarterly growth met expectations at 0.6% and shop price inflation held steady at 1.2%.
 
 ---

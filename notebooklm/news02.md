@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-04 23:20:12_
-_本檔包含 2871 則快訊，約 505354 字_
+_更新時間：2026-07-05 00:36:03_
+_本檔包含 2872 則快訊，約 505603 字_
+
+---
+
+### 2026-07-03 10:23:50  #Trading Economics #Markets #Japan #Currency #Importance 2
+
+Yen Holds Gains Amid Katayama Remarks — The Japanese yen traded near 161 per dollar on Friday after jumping nearly 1% in the previous session, as Finance Minister Satsuki Katayama reiterated that authorities stand ready to intervene at any time to support the currency. Her comments came amid growing speculation over another round of intervention, with thin liquidity during the US holiday weekend seen as creating favorable conditions for official action. Katayama also said Japan and the US remain in close communication on foreign exchange policy. On Thursday, the yen rebounded sharply from 40-year lows after reports suggested Japan may stop signaling intervention plans in advance, catching traders off guard and helping unwind speculative positions against the currency. The yen also drew support from a weaker dollar after softer-than-expected US jobs data prompted traders to reduce expectations for Federal Reserve rate hikes this year.
+
+---
+
+### 2026-07-03 10:23:40  #市場 #國際
+
+【美股今日休市 金銀油交易提前結束】受美國獨立日假期影響，美國股市今日休市一日。芝商所（CME）旗下貴金屬、能源、外匯、美債、股指期貨合約交易提前於北京時間7月4日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間7月4日01:30結束。
+
+---
+
+### 2026-07-03 10:23:33  #MKT News #Commodities #Industrial Metals
+
+China A-share small-metals sector weakened; Xianglu Tungsten hit the daily limit down, while China Tungsten High-Tech, Xiamen Tungsten, Dongfang Tantalum, Zhangyuan Tungsten, Jinduicheng Molybdenum and Guiyan Platinum also fell.
+
+---
+
+### 2026-07-03 10:23:04  #公司
+
+【隱功科技完成億元級Pre-A+輪融資】7月3日，據復旦科創訊息，近日，江蘇隱功科技有限公司宣佈完成億元級Pre-A+輪融資，本輪融資由復旦科創與啟賦資本聯合領投，蘇科創、襄禾資本及產業戰略投資方跟投。融資將主要用於新增產線建設及多技術路線鈉電的產品迭代與研發。
+
+---
+
+### 2026-07-03 10:22:16  #市場
+
+港股快手轉跌，此前一度漲逾6%。
+
+---
+
+### 2026-07-03 10:21:43  #公司 #市場
+
+【半導體材料板塊走弱，立昂微等多股跌停】半導體材料板塊走弱，立昂微、濱化股份、三美股份、多氟多、巨化股份跌停，金宏氣體、有研矽、正帆科技、晶瑞電材、中巨芯-U、南大光電等跌超10%。
+
+---
+
+### 2026-07-03 10:21:33  #公司
+
+三星電子股價漲幅擴大，最新報30.35萬韓元，漲幅6.1%。
+
+---
+
+### 2026-07-03 10:21:17  #MKT News #066570.KS #Impact bullish #011070.KS
+
+【Hana Securities: LG Electronics Q2 earnings likely to beat expectations】Hana Securities analyst Minkyung Kim says LG Electronics’ Q2 (Apr–Jun) consolidated operating profit could more than double YoY to KRW 1.441 tln, above a KRW 1.040 tln consensus, aided by U.S. tariff refunds and related factors. Kim expects LG to offset higher raw-material and logistics costs via price increases and efficiency measures. Strong results at Apple supplier LG Innotek may further lift the parent’s profit.
+
+---
+
+### 2026-07-03 10:21:11  #MKT News
+
+【Hainan raises flood and typhoon emergency response to level 3】Typhoon Maysak, the 10th storm of the year, formed early on July 3 and is forecast to move north‑northwest at 10–15 km/h, intensify, and make landfall between Wanning and Sanya in the afternoon to evening of July 3 as a tropical storm or severe tropical storm. Hainan Meteorological Bureau upgraded the typhoon warning from level 4 to level 3 at 06:30 on July 3. Hainan’s provincial disaster‑reduction committee raised the flood/typhoon/drought emergency response from level 4 to level 3 at 07:00 on July 3.
+
+---
+
+### 2026-07-03 10:21:00  #公司
+
+【國家菸草專賣局修訂釋出7份電子煙監管政策檔案】國家菸草專賣局公告，為貫徹落實《國家菸草專賣局關於落實電子煙產業政策 進一步推動供需動態平衡的通知》（國煙法〔2026〕21號），保證電子煙監管政策體系的統一協調性，國家菸草專賣局對《關於促進電子煙產業法治化規範化的若干政策措施（試行）》（國煙辦〔2022〕43號）、《電子煙固定資產投資管理細則》（國煙法〔2024〕104號）、《電子煙產品技術審評實施細則》（國煙法〔2024〕120號）、《電子煙產品追溯管理細則》（國煙辦〔2022〕43號）、《電子煙進出口貿易和對外經濟技術合作管理細則》（國煙法〔2022〕125號）、《電子煙相關生產企業設立、分立、合併、撤銷管理細則》（國煙辦〔2022〕104號）、《一體化政務服務平臺 電子證照 菸草專賣生產企業許可證第2部分：電子煙》（國煙辦綜〔2024〕25號）等7份電子煙監管政策檔案進行了修訂。本公告自發布之日起施行。
+
+---
+
+### 2026-07-03 10:20:45  #公司 #市場
+
+【面板板塊震盪走弱，萊寶高科、惠科股份跌停】面板板塊震盪走弱，萊寶高科、惠科股份跌停，矽烷科技、彩虹股份、廣鋼氣體、濮陽惠成、瑞聯新材、深天馬Ａ等跟跌。
+
+---
+
+### 2026-07-03 10:20:36  #其他
+
+越南上半年對美貿易順差增長21.3%，至753億美元。
+
+---
+
+### 2026-07-03 10:20:19  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-07-03 10:19:25  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
+
+Hong Kong-listed Kuaishou (01024.HK) flipped into losses intraday after rising over 6% earlier in the session.
+
+---
+
+### 2026-07-03 10:18:31  #公司 #市場
+
+【環保板塊持續走強，惠城環保漲停】環保板塊持續走強，惠城環保漲停，清研環境、勁旅環境、僑銀股份、ST京藍、華騏環保、玉禾田等跟漲。
+
+---
+
+### 2026-07-03 10:18:28  #公司
+
+【量子計算公司玻色量子宣佈完成數億元Pre-IPO輪融資】量子計算公司玻色量子已於近日完成數億元Pre-IPO輪融資，加速上市程序。本輪融資由杭州產投、九智資本、元禾璞華、全新世、洪泰基金、君禮資本、招銀國際、中銀資本投控、元和資本、福州國資集團榕投資本聯合投資。
+
+---
+
+### 2026-07-03 10:17:00  #其他
+
+【國家菸草專賣局：引導電子煙產業向具有產業基礎和條件的地區適度集中】國家菸草專賣局釋出關於促進電子煙產業法治化規範化的若干政策措施（試行），檔案指出，立足電子煙產業現狀，對接國家區域發展戰略，引導電子煙產業向具有產業基礎和條件的地區適度集中，加強原料渠道管控，合理保障電子煙生產原料供給。調整最佳化產業結構，嚴控新增產能，合理控制產能規模，防止產能過剩。以最佳化資源配置和滿足市場需求為導向，保持產業集中度處於合理水平，引導不適應市場競爭的企業有序退出。
+
+---
+
+### 2026-07-03 10:16:56  #其他
+
+北京本月將進入主汛期，預計平均降水量比常年同期偏多二到五成。（北京日報）
+
+---
+
+### 2026-07-03 10:16:48  #公司
+
+【機器人一體化關節模組解決方案提供商泉智博完成A+++輪融資，高瓴創投領投】7月3日，機器人一體化關節模組解決方案提供商無錫泉智博科技有限公司（以下簡稱“泉智博”）宣佈完成A+++輪融資。高瓴創投（GL Ventures）領投，智元、靈心巧手以戰略產業方身份同步加入股東陣營。據泉智博介紹，這是其繼2025年連續完成A2輪至A6輪共5輪融資、2026年4月完成A++輪融資後，一年半內的第7輪融資。
+
+---
+
+### 2026-07-03 10:16:44  #國際
+
+【外交部部長助理劉彬舉行中俄蒙三國副外長磋商】2026年7月2日，外交部部長助理劉彬同俄羅斯外交部副部長魯登科、蒙古外交部副部長阿瑪爾圖布辛在烏蘭巴托舉行中俄蒙三國副外長磋商。劉彬表示，在三國元首戰略引領下，中俄蒙三方合作展現積極穩健發展勢頭，經貿投資、互聯互通等重點領域合作持續推進。中方願同俄、蒙兩方一道，進一步鞏固政治互信，不斷拓展三方合作的深度和廣度，用更多合作成果惠及三國人民，助力各自發展振興。俄、蒙兩方高度評價三方合作取得的積極成果，表示願以三國元首共識為遵循，推動三方合作不斷邁向更高水平。
 
 ---
 
@@ -17189,119 +17309,5 @@ ASX 200 Muted at Finish — The ASX 200 closed little changed at 8,724 on Thursd
 ### 2026-07-02 14:37:24  #Trading Economics #Markets #Commodity #Importance 1
 
 Iron Ore Rebounds on China Supply Restrictions — Iron ore futures climbed above CNY 740 per ton, recovering from one-year lows after China’s state-backed buyer moved to restrict deliveries of certain Fortescue products to selected domestic steel mills, tightening supply in the world’s largest market for the steelmaking raw material. According to reports, the China Mineral Resources Group instructed mills and traders holding Fortescue’s Super Special Fines to take delivery before July 15, after which the blast furnace feedstock would be blacklisted. If enforced, the measure would mark a significant escalation in the dispute between the two sides, as negotiations over long-term supply contracts between the Australian miner and CMRG remain deadlocked. Meanwhile, iron ore prices had come under pressure in recent weeks due to ample global supply and weakening demand from the steel sector.
-
----
-
-### 2026-07-02 14:36:37  #市場 #焦點
-
-滬深兩市成交額超3.1萬億元，較上日此時縮量2616億元。
-
----
-
-### 2026-07-02 14:36:11  #Trading Economics #Economy #Switzerland #Inflation Rate #Importance 2
-
-Switzerland Inflation Rate Hits 3-Month Low — Consumer prices in Switzerland rose by 0.5% year-on-year in June 2026, matching market expectations but slowing slightly from 0.6% in the previous month. It marked the lowest reading since March, as price pressures eased across major categories, particularly housing and energy (1.2% vs 1.5% in May) and transport (1.8% vs 2%), while prices for food and non-alcoholic beverages continued to decline by 1.2%. Inflation also moderated for restaurants and hotels (0.7% vs 1%), while costs were flat for recreation, sport, and culture after rising 1.2%. In contrast, prices rebounded for clothing and footwear (0.1% vs -1.2%) and rose at a faster pace for insurance and financial services (2.3% vs 2.1%). On a monthly basis, consumer prices were flat, compared with market expectations of a 0.1% increase and the prior month's 0.2% rise. Meanwhile, annual core inflation, which strips out volatile items such as unprocessed food and energy, remained unchanged at 0.3% in June.
-
----
-
-### 2026-07-02 14:35:59  #公司 #國際
-
-【道達爾能源以3.5億美元出售馬來西亞Marjoram氣田權益給INPEX】道達爾能源7月2日宣佈，已同意將其持有的馬來西亞海上2E區塊85%權益出售給日本國際石油開發帝石公司（INPEX），交易對價為3.5億美元。該交易對應道達爾能源在Marjoram天然氣田8.5%的淨權益。道達爾能源表示，此次出售實現了該非運營天然氣專案少數股權價值的釋放，公司將進一步聚焦由自身運營的資產組合及馬來西亞戰略增長機會。
-
----
-
-### 2026-07-02 14:35:52  #其他
-
-澳交所表示，影響澳交所線上訪問的問題已解決。
-
----
-
-### 2026-07-02 14:33:31  #公司
-
-【網際網路企業集中釋放超20萬崗位】記者7月2日從人力資源社會保障部獲悉，為期一個月的網際網路企業雲端招聘月活動已於近日開展，超5000家網際網路企業集中釋放超20萬個就業崗位。 各地深入走訪網際網路企業，摸清崗位空缺情況，動態更新招聘資訊。例如，浙江瞄準具身智慧、智慧物聯等新興領域，歸集千餘個高質量就業崗位；江西九江市深耕短影片傳媒、電商運營等賽道，釋出資料標註、設計剪輯等熱門崗位。 不少網際網路企業集中釋出招聘資訊和崗位資訊。例如，京東集團釋放就業機會2.5萬個，覆蓋技術服務、銷售顧問等多類崗位；騰訊釋出招聘需求8000餘人，涵蓋AI演算法、高效能運算等技術研究崗位；位元組跳動提供約7000個崗位，涵蓋大模型應用、AI搜尋等前沿技術領域以及綜合運營管理等多方面；美團招聘6000人，涵蓋技術、產品等百餘種崗位。 活動中，各地運用AI、大資料等新技術，開展“沉浸式走播”、會場巡播等直播帶崗活動，助力青年人才與企業精準對接。同時，將政策宣講、職業指導等服務融入招聘活動，將就業服務鏈條延伸至社群、高校。(新華社)
-
----
-
-### 2026-07-02 14:32:52  #市場 #央行 #國際
-
-【美元在美國關鍵就業資料公佈前下跌】美元在美國非農就業報告公佈前小幅走低，投資者正尋找證據，以判斷美聯儲是否應如市場預期般加息。德國商業銀行的Volkmar Baur在一份報告中表示，在美國和伊朗於6月簽署結束戰爭的諒解備忘錄的背景下，美國勞動力市場成為外匯市場關注的焦點。他表示，然而，該資料的重要性將不如過去，因為新任美聯儲主席凱文·沃什沒有過多談論勞動力市場，且近期的就業人數資料似乎比以前更具波動性。DXY美元指數下跌0.1%，至101.304。
-
----
-
-### 2026-07-02 14:32:25  #國際
-
-日本稅收收入連續第六年創下新紀錄。截至3月31日的財年，日本稅收收入增至84.2萬億日元。
-
----
-
-### 2026-07-02 14:31:11  #市場 #焦點 #國際
-
-【日韓股市集體收跌】日經225指數收跌2.47%，報68733.15點。韓國綜指收跌7.36%，報7692.43點。
-
----
-
-### 2026-07-02 14:30:33  #經濟數據 #歐元區
-
-瑞士6月CPI同比增長0.5%，預期0.5%，前值0.6%。
-
----
-
-### 2026-07-02 14:30:07  #資料
-
-瑞士6月CPI月率 0%，預期0.1%，前值0.20%。瑞士6月CPI年率 0.5%，預期0.5%，前值0.60%。
-
----
-
-### 2026-07-02 14:30:06  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 1.85% Lower — The Nikkei 225 Index decreased 1307 points or 1.85 percent on Thursday to close at 69168 points. The decline was led by Mitsui Mining & Smelting (-10.91%), Taiyo Yuden (-10.40%) and Takara (-9.57%).
-
----
-
-### 2026-07-02 14:29:40  #其他
-
-【2025年全國新開國際航線214條 國際化拓展態勢強勁】記者今天從中國物流與採購聯合會瞭解到，《2025年全國新開貨運航線分析報告》已正式公佈。根據報告，2025年航空貨運量質齊升，首破千萬噸大關，新開國際貨運航線超過200條，展現出強勁的國際化拓展態勢。（央視新聞）
-
----
-
-### 2026-07-02 14:28:53  #其他
-
-【秒悟Meoo上線Night Plan：夜間用Qwen3.7-Max最低2折】據阿里雲訊息，秒悟Meoo上線Night Plan：每晚 22:00 至次日 08:00（北京時間），使用者在meoo.com網頁端選用指定模型發起對話，系統將自動按錯峰價計費。Qwen 3.7-Max夜間折扣最低2折，Qwen 3.7-Plus夜間折扣最低4折。使用者無需切換設定，在錯峰時段登入meoo.com構建應用即可自動享受折扣。折扣僅影響價格，模型服務質量與響應速度不受影響。（阿里雲）
-
----
-
-### 2026-07-02 14:28:27  #國際
-
-印度貿易部長表示：印度現有大米和小麥糧食儲備充足，足以供應至明年。
-
----
-
-### 2026-07-02 14:28:12  #公司
-
-【時空科技成立智算科技公司】企查查APP顯示，近日，時空芯（北京）智算科技有限公司成立，法定代表人為魏鵬偉，註冊資本為1000萬元，經營範圍包含積體電路設計；電子產品銷售；積體電路晶片設計及服務；積體電路製造；積體電路銷售等。企查查股權穿透顯示，該公司由時空科技(605178)間接全資持股。
-
----
-
-### 2026-07-02 14:26:45  #國際
-
-印度貿易部長表示：政府已意識到厄爾尼諾天氣系統潛在影響將帶來未來的困難時期。
-
----
-
-### 2026-07-02 14:25:17  #其他
-
-【7月2日：“農產品批發價格200指數”比昨天下降0.31個點】據農業農村部監測，7月2日“農產品批發價格200指數”為110.23，比昨天下降0.31個點，“菜籃子”產品批發價格指數為109.76，比昨天下降0.39個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.57元/公斤，比昨天上升0.4%；牛肉66.31元/公斤，與昨天持平；羊肉64.43元/公斤，比昨天下降0.1%；雞蛋9.42元/公斤，比昨天下降0.3%；白條雞17.16元/公斤，比昨天下降2.0%。重點監測的28種蔬菜平均價格為4.20元/公斤，與昨天持平；重點監測的6種水果平均價格為7.32元/公斤，比昨天下降0.4%。鯽魚20.56元/公斤，比昨天下降0.4%；鯉魚14.79元/公斤，比昨天下降0.8%；白鰱魚10.01元/公斤，比昨天下降4.8%；大帶魚42.70元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是洋白菜、蔥頭、大帶魚、西紅柿和蒜薹，幅度分別為2.2%、2.2%、1.6%、1.6%和1.5%；價格降幅前五名的是白鰱魚、青椒、冬瓜、花鰱魚和白條雞，幅度分別為4.8%、3.0%、2.2%、2.0%和2.0%。
-
----
-
-### 2026-07-02 14:25:04  #市場 #焦點
-
-科創50日內跌幅達7％，成分股中，中科飛測跌15.7％，華海清科跌15.4％，瀾起科技跌13.2％，中微公司跌11.2％。
-
----
-
-### 2026-07-02 14:24:40  #公司
-
-【群益證券(香港)：維持圓通速遞“買進”建議，利潤表現有望繼續超預期】群益證券(香港)研報指出，圓通速遞26H1淨利潤超預期，維持“買進”的投資建議。預計2026H1實現歸母淨利潤31.0億元-34.0億元，同比增長69.3%-85.7%；扣非後歸母淨利潤30.4-33.4億元，同比增長72.2%-89.2%，公司利潤超預期。公司持續推進人工智慧轉型，幹線運輸、中轉操作及末端履約等環節的綜合成本得到下降，疊加單票收入好轉，公司利潤同比大幅增長。隨著行業價格競爭趨緩，公司單票收入有望繼續回升，價格端對利潤的拖累將明顯減弱。與此同時，公司前期在自動化分揀、幹線運輸、轉運中心建設及數字化管理等方面的降本投入已逐步進入收穫期，在業務量保持增長的背景下，規模效應與成本最佳化將進一步釋放，利潤表現有望繼續超預期。
 
 ---

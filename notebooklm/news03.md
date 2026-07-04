@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-04 23:20:12_
-_本檔包含 3009 則快訊，約 505026 字_
+_更新時間：2026-07-05 00:36:03_
+_本檔包含 3013 則快訊，約 505499 字_
+
+---
+
+### 2026-07-02 14:36:37  #市場 #焦點
+
+滬深兩市成交額超3.1萬億元，較上日此時縮量2616億元。
+
+---
+
+### 2026-07-02 14:36:11  #Trading Economics #Economy #Switzerland #Inflation Rate #Importance 2
+
+Switzerland Inflation Rate Hits 3-Month Low — Consumer prices in Switzerland rose by 0.5% year-on-year in June 2026, matching market expectations but slowing slightly from 0.6% in the previous month. It marked the lowest reading since March, as price pressures eased across major categories, particularly housing and energy (1.2% vs 1.5% in May) and transport (1.8% vs 2%), while prices for food and non-alcoholic beverages continued to decline by 1.2%. Inflation also moderated for restaurants and hotels (0.7% vs 1%), while costs were flat for recreation, sport, and culture after rising 1.2%. In contrast, prices rebounded for clothing and footwear (0.1% vs -1.2%) and rose at a faster pace for insurance and financial services (2.3% vs 2.1%). On a monthly basis, consumer prices were flat, compared with market expectations of a 0.1% increase and the prior month's 0.2% rise. Meanwhile, annual core inflation, which strips out volatile items such as unprocessed food and energy, remained unchanged at 0.3% in June.
+
+---
+
+### 2026-07-02 14:35:59  #公司 #國際
+
+【道達爾能源以3.5億美元出售馬來西亞Marjoram氣田權益給INPEX】道達爾能源7月2日宣佈，已同意將其持有的馬來西亞海上2E區塊85%權益出售給日本國際石油開發帝石公司（INPEX），交易對價為3.5億美元。該交易對應道達爾能源在Marjoram天然氣田8.5%的淨權益。道達爾能源表示，此次出售實現了該非運營天然氣專案少數股權價值的釋放，公司將進一步聚焦由自身運營的資產組合及馬來西亞戰略增長機會。
+
+---
+
+### 2026-07-02 14:35:52  #其他
+
+澳交所表示，影響澳交所線上訪問的問題已解決。
+
+---
+
+### 2026-07-02 14:33:31  #公司
+
+【網際網路企業集中釋放超20萬崗位】記者7月2日從人力資源社會保障部獲悉，為期一個月的網際網路企業雲端招聘月活動已於近日開展，超5000家網際網路企業集中釋放超20萬個就業崗位。 各地深入走訪網際網路企業，摸清崗位空缺情況，動態更新招聘資訊。例如，浙江瞄準具身智慧、智慧物聯等新興領域，歸集千餘個高質量就業崗位；江西九江市深耕短影片傳媒、電商運營等賽道，釋出資料標註、設計剪輯等熱門崗位。 不少網際網路企業集中釋出招聘資訊和崗位資訊。例如，京東集團釋放就業機會2.5萬個，覆蓋技術服務、銷售顧問等多類崗位；騰訊釋出招聘需求8000餘人，涵蓋AI演算法、高效能運算等技術研究崗位；位元組跳動提供約7000個崗位，涵蓋大模型應用、AI搜尋等前沿技術領域以及綜合運營管理等多方面；美團招聘6000人，涵蓋技術、產品等百餘種崗位。 活動中，各地運用AI、大資料等新技術，開展“沉浸式走播”、會場巡播等直播帶崗活動，助力青年人才與企業精準對接。同時，將政策宣講、職業指導等服務融入招聘活動，將就業服務鏈條延伸至社群、高校。(新華社)
+
+---
+
+### 2026-07-02 14:32:52  #市場 #央行 #國際
+
+【美元在美國關鍵就業資料公佈前下跌】美元在美國非農就業報告公佈前小幅走低，投資者正尋找證據，以判斷美聯儲是否應如市場預期般加息。德國商業銀行的Volkmar Baur在一份報告中表示，在美國和伊朗於6月簽署結束戰爭的諒解備忘錄的背景下，美國勞動力市場成為外匯市場關注的焦點。他表示，然而，該資料的重要性將不如過去，因為新任美聯儲主席凱文·沃什沒有過多談論勞動力市場，且近期的就業人數資料似乎比以前更具波動性。DXY美元指數下跌0.1%，至101.304。
+
+---
+
+### 2026-07-02 14:32:25  #國際
+
+日本稅收收入連續第六年創下新紀錄。截至3月31日的財年，日本稅收收入增至84.2萬億日元。
+
+---
+
+### 2026-07-02 14:31:11  #市場 #焦點 #國際
+
+【日韓股市集體收跌】日經225指數收跌2.47%，報68733.15點。韓國綜指收跌7.36%，報7692.43點。
+
+---
+
+### 2026-07-02 14:30:33  #經濟數據 #歐元區
+
+瑞士6月CPI同比增長0.5%，預期0.5%，前值0.6%。
+
+---
+
+### 2026-07-02 14:30:07  #資料
+
+瑞士6月CPI月率 0%，預期0.1%，前值0.20%。瑞士6月CPI年率 0.5%，預期0.5%，前值0.60%。
+
+---
+
+### 2026-07-02 14:30:06  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 1.85% Lower — The Nikkei 225 Index decreased 1307 points or 1.85 percent on Thursday to close at 69168 points. The decline was led by Mitsui Mining & Smelting (-10.91%), Taiyo Yuden (-10.40%) and Takara (-9.57%).
+
+---
+
+### 2026-07-02 14:29:40  #其他
+
+【2025年全國新開國際航線214條 國際化拓展態勢強勁】記者今天從中國物流與採購聯合會瞭解到，《2025年全國新開貨運航線分析報告》已正式公佈。根據報告，2025年航空貨運量質齊升，首破千萬噸大關，新開國際貨運航線超過200條，展現出強勁的國際化拓展態勢。（央視新聞）
+
+---
+
+### 2026-07-02 14:28:53  #其他
+
+【秒悟Meoo上線Night Plan：夜間用Qwen3.7-Max最低2折】據阿里雲訊息，秒悟Meoo上線Night Plan：每晚 22:00 至次日 08:00（北京時間），使用者在meoo.com網頁端選用指定模型發起對話，系統將自動按錯峰價計費。Qwen 3.7-Max夜間折扣最低2折，Qwen 3.7-Plus夜間折扣最低4折。使用者無需切換設定，在錯峰時段登入meoo.com構建應用即可自動享受折扣。折扣僅影響價格，模型服務質量與響應速度不受影響。（阿里雲）
+
+---
+
+### 2026-07-02 14:28:27  #國際
+
+印度貿易部長表示：印度現有大米和小麥糧食儲備充足，足以供應至明年。
+
+---
+
+### 2026-07-02 14:28:12  #公司
+
+【時空科技成立智算科技公司】企查查APP顯示，近日，時空芯（北京）智算科技有限公司成立，法定代表人為魏鵬偉，註冊資本為1000萬元，經營範圍包含積體電路設計；電子產品銷售；積體電路晶片設計及服務；積體電路製造；積體電路銷售等。企查查股權穿透顯示，該公司由時空科技(605178)間接全資持股。
+
+---
+
+### 2026-07-02 14:26:45  #國際
+
+印度貿易部長表示：政府已意識到厄爾尼諾天氣系統潛在影響將帶來未來的困難時期。
+
+---
+
+### 2026-07-02 14:25:17  #其他
+
+【7月2日：“農產品批發價格200指數”比昨天下降0.31個點】據農業農村部監測，7月2日“農產品批發價格200指數”為110.23，比昨天下降0.31個點，“菜籃子”產品批發價格指數為109.76，比昨天下降0.39個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.57元/公斤，比昨天上升0.4%；牛肉66.31元/公斤，與昨天持平；羊肉64.43元/公斤，比昨天下降0.1%；雞蛋9.42元/公斤，比昨天下降0.3%；白條雞17.16元/公斤，比昨天下降2.0%。重點監測的28種蔬菜平均價格為4.20元/公斤，與昨天持平；重點監測的6種水果平均價格為7.32元/公斤，比昨天下降0.4%。鯽魚20.56元/公斤，比昨天下降0.4%；鯉魚14.79元/公斤，比昨天下降0.8%；白鰱魚10.01元/公斤，比昨天下降4.8%；大帶魚42.70元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是洋白菜、蔥頭、大帶魚、西紅柿和蒜薹，幅度分別為2.2%、2.2%、1.6%、1.6%和1.5%；價格降幅前五名的是白鰱魚、青椒、冬瓜、花鰱魚和白條雞，幅度分別為4.8%、3.0%、2.2%、2.0%和2.0%。
+
+---
+
+### 2026-07-02 14:25:04  #市場 #焦點
+
+科創50日內跌幅達7％，成分股中，中科飛測跌15.7％，華海清科跌15.4％，瀾起科技跌13.2％，中微公司跌11.2％。
+
+---
+
+### 2026-07-02 14:24:40  #公司
+
+【群益證券(香港)：維持圓通速遞“買進”建議，利潤表現有望繼續超預期】群益證券(香港)研報指出，圓通速遞26H1淨利潤超預期，維持“買進”的投資建議。預計2026H1實現歸母淨利潤31.0億元-34.0億元，同比增長69.3%-85.7%；扣非後歸母淨利潤30.4-33.4億元，同比增長72.2%-89.2%，公司利潤超預期。公司持續推進人工智慧轉型，幹線運輸、中轉操作及末端履約等環節的綜合成本得到下降，疊加單票收入好轉，公司利潤同比大幅增長。隨著行業價格競爭趨緩，公司單票收入有望繼續回升，價格端對利潤的拖累將明顯減弱。與此同時，公司前期在自動化分揀、幹線運輸、轉運中心建設及數字化管理等方面的降本投入已逐步進入收穫期，在業務量保持增長的背景下，規模效應與成本最佳化將進一步釋放，利潤表現有望繼續超預期。
 
 ---
 
@@ -18036,95 +18150,5 @@ Telsey Advisory cuts Nike (NKE.N) PT to $47 from $55.
 ### 2026-07-01 17:11:30  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #Brent
 
 【Eurozone inflation cools more than expected as oil falls on Middle East peace efforts】Eurozone consumer inflation cooled more than expected in June as global energy prices eased amid Middle East peace efforts. Eurostat said June CPI rose 2.8% YoY, down from 3.2% in May and below a Bloomberg median of 3.0%. Core inflation, excluding food and energy, declined more than expected and services inflation eased to 3.2%. The ECB is assessing whether last month’s rate hike will be sufficient to counter inflationary pressure stemming from the US‑Iran conflict. June readings for the euro area’s three largest economies all missed forecasts; France’s inflation fell to the ECB’s 2.0% target.
-
----
-
-### 2026-07-01 17:11:26  #Trading Economics #Economy #Croatia #Inflation Rate #Importance 1
-
-Croatia Inflation Rate at 4-Month Low — The inflation rate in Croatia rose 4.5% year-on-year in June 2026, easing from 5.2% in the previous month and marking the lowest reading since February, according to a preliminary estimate. Prices for non-food industrial goods excluding energy fell 0.6%. Meanwhile, energy costs climbed 13.2%, continued to be linked to the Middle East conflict. Services prices also rose 8.1%, while food, beverages, and tobacco prices increased 1.8%. On a monthly basis, consumer prices fell 0.4% in June, following a 0.3% decline in May, marking the second consecutive monthly decline after four straight months of increases.
-
----
-
-### 2026-07-01 17:11:19  #公司
-
-【三安光電：增持計劃時間過半，董事長已增持1498萬元，總經理因留置未實施】三安光電公告，公司董事長林志強和副董事長、總經理林科闖此前計劃自2026年3月31日起6個月內增持公司股份，林志強擬增持金額2000萬元至4000萬元，林科闖擬增持500萬元至1000萬元。截至2026年7月2日（本次進展公告日），增持計劃實施時間過半，林志強透過集中競價方式已增持公司股份100萬股（約佔總股本0.02%），增持金額1498.26萬元；林科闖因被採取留置措施，尚未實施增持。本次增持計劃尚未實施完畢。
-
----
-
-### 2026-07-01 17:11:09  #公司
-
-特爾西諮詢集團將耐克目標價從55美元下調至47美元。
-
----
-
-### 2026-07-01 17:11:09  #MKT News
-
-UK Maritime Trade Operations (UKMTO) said the crew reported they were safe.
-
----
-
-### 2026-07-01 17:11:01  #MKT News #Important #Market Regions #Europe & UK
-
-UK Maritime Trade Operations reports a vessel is being approached by multiple small craft; several people aboard those craft are carrying light weapons.
-
----
-
-### 2026-07-01 17:10:50  #公司
-
-【凱爾達：控股子公司獲3項感測器發明專利】凱爾達公告稱，公司控股子公司杭州凱維力感測科技有限公司近期獲3項國家智慧財產權局頒發的發明專利證書，分別為“一種抗環境干擾的多整合MEMS觸覺感測器及其製作方法”“一種具有針狀結構的高靈敏度陣列式觸覺感測器”“一種帶自校準功能的三軸MEMS力感測器”，專利期限均為20年。此次專利獲得不會對公司近期經營產生重大影響，但利於完善智慧財產權保護體系，提升核心競爭力。
-
----
-
-### 2026-07-01 17:10:42  #公司 #市場
-
-【機構：英鎊對財政風險的韌性不太可能持久】Monex Europe的分析師在一份報告中表示，英鎊正表現出對政治逆風的韌性，但這可能不會持久。他們表示：“值得注意的是，政府拖延已久的國防投資計劃幾乎沒有說明政府將如何支付增加的支出，儘管承諾的金額已經低於本已很低的預期。“這些分析師表示，在財政風險和政治不確定性依然高企的背景下，Monex繼續認為英鎊存在下跌風險。倫敦證券交易所集團的資料顯示，英鎊兌走強的美元下跌0.1%，至1.3247美元，但兌歐元升至10個月高點，報每歐元0.8598英鎊。首相基爾·斯塔默上週宣佈辭職。
-
----
-
-### 2026-07-01 17:10:36  #公司
-
-【上海醫藥：控股股東上實集團增持計劃實施完畢，增持H股7400萬股】上海醫藥公告，控股股東上實集團基於對公司未來發展的信心，自2025年9月15日起12個月內透過下屬全資子公司上實國際以集中競價方式增持公司H股股份。截至2026年6月29日，本次增持計劃已實施完畢。增持期間，上實集團透過上實國際累計增持公司H股股份7400萬股，約佔公司已發行H股股份總數的8.052%，佔已發行股份總數（37.08億股）的1.995%。本次增持計劃完成後，上實集團及其一致行動人合計持有及控制公司股份15億股，佔公司已發行股份總數的40.456%。增持期間上實集團未減持其所持公司股份。
-
----
-
-### 2026-07-01 17:10:27  #MKT News #Important
-
-UK Maritime Trade Operations (UKMTO) said it received an incident report for an event 76 nm south of Balhaf, Yemen.
-
----
-
-### 2026-07-01 17:10:00  #市場 #央行 #國際
-
-【歐元區通脹降幅超預期，增強了歐洲央行保持耐心的理由】歐元區6月通脹率的降幅遠超預期，這進一步減輕了歐洲央行在本月再次加息以遏制物價快速上漲的壓力。歐元區6月份整體通脹率從5月份的3.2%降至2.8%，低於3.0%的預期值；食品、能源和服務價格的通脹均有所放緩。與此同時，剔除了波動較大的食品和燃料價格的通脹率從2.6%降至2.4%，其中服務價格通脹率從3.5%降至3.2%。儘管6月份的資料仍遠高於歐洲央行2%的目標，但近期因市場押注美伊和平協議達成而出現的油價下跌，引發了人們的樂觀預期，即物價壓力可能從此開始緩解，能源價格飆升造成的廣泛負面影響也將保持在有限範圍內。事實上，歐洲央行多位決策者均表示，歐洲央行無需急於在本月採取行動，決策者有時間觀察物價壓力的演變情況。
-
----
-
-### 2026-07-01 17:09:39  #其他
-
-藍冠資本稱：英國已不再是值得重點開展業務的優選地區。
-
----
-
-### 2026-07-01 17:09:33  #其他
-
-【國內首個機器人學校來了】浙江杭州舉行了一場特殊的開學典禮，剛入學的“新生”是一群形態各異的機器人。它們來自工業、服務、安保、文娛等不同領域，將在學校接受系統化的培訓。目前市面上的人形機器人一般都有靈活的“身體”，會跑會跳，但它們大多還不具備理解環境、適應變化、自主決策的“大腦”。來到機器人學校，就是讓這些機器人不僅要能跑能跳，關鍵還要“頭腦靈光”，勝任複雜場景中的工作。為此，去年年底，浙江大學機器人研究院聯合浙江省質量科學研究院和行業頭部企業，共同啟動了杭州機器人學校的建設。（央視財經）
-
----
-
-### 2026-07-01 17:09:11  #其他
-
-英國海上貿易行動辦公室（UKMTO）表示，其收到報告稱葉門巴爾哈夫以南76海里處發生一起事故。
-
----
-
-### 2026-07-01 17:09:06  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #WTI
-
-【Eurozone inflation falls more than expected, bolstering case for ECB patience】Eurozone inflation eased to 2.8% in June from 3.2% in May, below the 3.0% consensus. Inflation excluding volatile food and fuel slowed to 2.4% from 2.6%; services inflation fell to 3.2% from 3.5%. All readings remain above the ECB’s 2% target. Oil prices have fallen on market bets of a US‑Iran peace deal, reinforcing expectations that energy-driven price pressures may ease. Several ECB policymakers said there is no need to act this month and they have time to monitor how price pressures evolve.
-
----
-
-### 2026-07-01 17:08:50  #公司
-
-【福元醫藥：左甲狀腺素鈉片獲得藥品補充申請批准通知書】福元醫藥(601089)7月1日公告，公司近日收到了國家藥監局頒發的左甲狀腺素鈉片[規格：50μg（以左甲狀腺素鈉計）]《藥品補充申請批准通知書》，批准該藥品增加規格補充申請。該藥品適用於治療非毒性的甲狀腺腫（甲狀腺功能正常）；甲狀腺腫切除術後，預防甲狀腺腫復發；甲狀腺功能減退的替代治療；抗甲狀腺藥物治療甲狀腺功能亢進症的輔助治療；甲狀腺癌術後的抑制治療；甲狀腺抑制試驗。
 
 ---

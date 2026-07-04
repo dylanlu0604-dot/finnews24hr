@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-04 23:20:12_
-_本檔包含 2368 則快訊，約 505243 字_
+_更新時間：2026-07-05 00:36:03_
+_本檔包含 2377 則快訊，約 505684 字_
+
+---
+
+### 2026-07-05 00:30:50  #其他
+
+市場資訊：金融資料企業基本打消了市場對於人工智慧工具將取代自身的擔憂。如今投資者關心的是，當人工智慧智慧體消耗的資料量遠超人類分析師時，誰來承擔資料呼叫的計費成本。
+
+---
+
+### 2026-07-05 00:28:36  #國際
+
+【歐洲議會擬取締德國極右翼政黨選擇黨所屬歐盟黨團】歐洲議會正審議一項舉措，因涉嫌違背歐盟核心價值觀，該方案可能撤銷由德國選擇黨領導的 “主權國家歐洲” 黨團註冊資格，並剝奪其歐盟撥款。
+
+---
+
+### 2026-07-05 00:26:58  #MKT News
+
+【India lifts gas supply restrictions as Middle East LNG flows resume】India's government said on Saturday it has revoked restrictions on natural gas suppliers after LNG supplies from the Middle East resumed. In March, following a disruption to LNG transport through the Strait of Hormuz, New Delhi ordered emergency measures to divert gas from non-priority users to critical consumers.
+
+---
+
+### 2026-07-05 00:20:49  #國際
+
+【伊代理防長：應地區友國請求籤署停火諒解 違約將果斷回擊】伊朗代理國防部長馬吉德·伊本·禮薩表示，儘管伊朗對美國心存戒備，但應地區友好國家的請求，德黑蘭方面簽署了停火諒解檔案。他稱，若該諒解檔案中的相關承諾遭到違背，伊朗將作出“必要且堅決的”回應。
+
+---
+
+### 2026-07-05 00:16:33  #國際
+
+美國司法部拒絕遵照聯邦法院的指令，移交經過刪節處理的傑弗裡·愛潑斯坦調查卷宗。
+
+---
+
+### 2026-07-05 00:15:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Russia, Ukraine exchange large-scale strikes; Russia says it seized four populated localities】Russia and Ukraine each launched large-scale strikes overnight from the evening of the 3rd to the early hours of the 4th, both sides said. Russia said its forces had taken control of four populated localities in Kharkiv region. The Russian Defence Ministry said on the 4th that in the past 24 hours Russian strikes targeted Ukrainian fuel, energy and transport infrastructure in 142 locations, plus facilities producing and storing long-range UAVs, and temporary deployments of Ukrainian forces and foreign mercenaries. The ministry added that Russian air defences destroyed 10 "Flamingo" cruise missiles, nine HIMARS rockets, 16 guided aerial bombs and 893 fixed-wing drones.
+
+---
+
+### 2026-07-05 00:14:18  #國際
+
+【俄烏大規模互襲 俄軍稱控制多個居民點】據俄羅斯和烏克蘭方面訊息，3日晚至4日凌晨，俄烏軍隊針對對方目標發動大規模襲擊。俄軍稱，在哈爾科夫州控制的居民點增加了4個。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。（新華社）
+
+---
+
+### 2026-07-05 00:12:05  #MKT News
+
+【Russian drones continue destroying Ukrainian military fuel infrastructure】Operators of the "Geranium-4" drone destroyed a fuel storage facility in Ukraine's Kharkiv region, a depot previously used to supply Ukrainian forces.
+
+---
+
+### 2026-07-05 00:11:54  #國際
+
+特朗普賬戶（Trump Accounts）正式上線。
+
+---
+
+### 2026-07-05 00:11:06  #MKT News
+
+The U.S. Treasury announced it has activated full functionality for President Trump's account and app.
+
+---
+
+### 2026-07-05 00:08:56  #MKT News #WTI #Impact bearish #Brent
+
+Indian government lifts emergency controls on gas supply that were imposed after LNG supply disruptions triggered by the Middle East crisis.
+
+---
+
+### 2026-07-05 00:07:39  #國際
+
+印度解除中東危機引發液化天然氣供應中斷後實施的天然氣供應緊急管控。
+
+---
+
+### 2026-07-05 00:07:11  #MKT News #Commodities #Energy
+
+【Turkey's Erdogan, Pakistan's Shehbaz hold talks on multi‑sector cooperation】On the 4th Turkish President Erdogan met Pakistan Prime Minister Shehbaz Sharif at the presidential palace and held a joint press conference. Erdogan said Turkey is closely monitoring developments in the Middle East. The leaders discussed expanding trade and investment ties, with Erdogan saying Turkey seeks deeper cooperation with Pakistan in energy, transport, critical minerals and information technology.
+
+---
+
+### 2026-07-05 00:06:34  #MKT News #Important #Market Themes #Chip Wars #005930.KS
+
+ANTHROPIC has begun early-stage R&D on a proprietary AI chip and is in talks with Samsung Electronics to consider Samsung as a potential chip foundry partner. The move, mirroring OpenAI, aims to boost control over the high-cost compute hardware that supports its large models.
+
+---
+
+### 2026-07-05 00:06:15  #國際
+
+法國總統釋出照片祝賀美國建國250週年。
+
+---
+
+### 2026-07-05 00:03:26  #國際
+
+【伊朗民眾淚別哈梅內伊】4日清晨6時許，大批民眾從四面八方來到伊朗首都德黑蘭的伊瑪目霍梅尼清真寺門口排隊等候。當天，伊朗已故最高領袖阿里·哈梅內伊遺體公眾告別儀式在這裡開始舉行。當地媒體報道，數百萬來自社會各界、不同年齡段的伊朗民眾參與了悼念活動。新華社記者在現場看到，哈梅內伊的遺體以及其遇難家人的遺體，被安放在伊瑪目霍梅尼清真寺建築外廣場上。前來參加告別儀式的大批民眾流下眼淚，有人掩面哭泣。在伊瑪目霍梅尼清真寺中心廣場，人們揮舞著伊朗國旗，手持已故最高領袖哈梅內伊和現任最高領袖穆傑塔巴·哈梅內伊的照片，高呼反對美國和以色列的口號。（新華社）
+
+---
+
+### 2026-07-05 00:02:14  #公司 #焦點
+
+Anthropic已啟動自研AI晶片的前期研發工作，並與三星電子洽談，計劃將其作為潛在晶片代工合作方。此舉效仿OpenAI，目的是加強對支撐自身大模型、成本高昂的算力硬體體系的自主掌控。
+
+---
+
+### 2026-07-05 00:00:51  #其他
+
+據燈塔專業版實時資料，截至7月5日0時0分，影片《小黃人與大怪獸》票房突破8000萬。
+
+---
+
+### 2026-07-04 23:59:54  #MKT News #XAUUSD #Impact bullish #DXY
+
+Russian Defence Ministry says Ukrainian forces lost as many as 1,350 personnel in one day.
+
+---
+
+### 2026-07-04 23:56:02  #焦點 #國際
+
+克里姆林宮：澤連斯基若已做好做出重大決斷的準備，便可前往莫斯科。
+
+---
+
+### 2026-07-04 23:53:29  #市場
+
+【加密貨幣多數上漲，比特幣4天反彈超8%】7月4日，加密貨幣全線上漲，比特幣一度逼近63000美元，截至發稿，比特幣漲1.39%，報62640.8美元；以太坊漲2.13%，狗狗幣、BNB漲超1%，HYPE漲近2%，XRP漲超4%。
+
+---
+
+### 2026-07-04 23:45:35  #國際
+
+【土耳其總統與巴基斯坦總理舉行會談 討論多領域合作】當地時間4日，土耳其總統埃爾多安在總統府與巴基斯坦總理夏巴茲舉行會談，兩人隨後舉行新聞釋出會。釋出會上，埃爾多安表示，土耳其正在密切關注中東地區局勢。埃爾多安還表示，雙方討論了進一步發展貿易和投資關係，以及土方希望深化與巴基斯坦在能源、交通運輸、關鍵礦產和資訊科技領域的合作。（央視新聞）
+
+---
+
+### 2026-07-04 23:44:41  #宏觀 #焦點 #國際
+
+【普京簽署稅法修正案，意在提振國內燃油供應】俄羅斯總統普京簽署法案，出臺相關舉措保障國內汽油供應。俄羅斯商業諮詢電視臺（RBC）週六訊息，此次出臺的《稅法典》修訂法案允許企業將直餾汽油與其他調和組分混合，生產高辛烷值車用燃油。修正案還計劃透過為燃油進口商提供補貼，刺激汽油進口流入俄羅斯。烏克蘭接連襲擊俄境內多處煉油廠（不少煉油廠地處俄羅斯腹地）後，俄羅斯約九成地區出現汽油供應緊張，多地推行燃油配給制度。俄政府正採取特殊舉措化解此次燃油危機。俄羅斯已全面禁止汽油、航空煤油出口，同時正在考慮出臺柴油出口限制措施。克里姆林宮6月30日表示，俄方正洽談以合理價格進口燃油。另據媒體訊息，俄政府放寬部分油品技術標準，允許部分煉油廠在2026年底前生產歐Ⅲ標準汽油與柴油。
+
+---
+
+### 2026-07-04 23:37:46  #國際
+
+美國總統特朗普釋出一張照片：全新空軍一號飛越南達科他州地標性總統山國家紀念公園，以此慶祝美國建國250週年獨立日。
+
+---
+
+### 2026-07-04 23:35:17  #其他
+
+【遼寧撫順特大暴雨致3人死亡】遼寧撫順防汛抗旱指揮部發布通報：7月4日凌晨1時至7時許，撫順市區出現特大暴雨，全市平均降水量106毫米，最大降水量329.2毫米，1小時、3小時、6小時降雨強度均超歷史極值。撫順全市轉移人口3596人。暴雨導致3人死亡。（央視新聞）
+
+---
+
+### 2026-07-04 23:34:43  #國際
+
+市場資訊：特朗普於週五簽署了11份特赦令。
+
+---
+
+### 2026-07-04 23:32:32  #國際
+
+【姚妙奪阿蘭谷超級越野賽100公里組女子冠軍】在4日進行的2026UTMB阿蘭谷超級越野賽CDH組（官方分類為100公里組，實際賽道全長110公里）比賽中，中國選手姚妙以13小時04分34秒奪得女子冠軍，打破了美國選手凱蒂·沙伊德在2022年創造的13小時06分34秒的賽會紀錄。
+
+---
+
+### 2026-07-04 23:31:18  #國際
+
+由KKR投資支援的Helix正尋求收購美國資料中心資產，以此加速佈局人工智慧基礎設施業務。該企業手握超百億美元資金，力求在大型科技雲廠商算力需求回落前打通行業發展瓶頸。
+
+---
+
+### 2026-07-04 23:30:41  #其他
+
+巴基斯坦總理謝里夫於伊斯坦布林會見土耳其總統埃爾多安，洽談多領域合作，商定發力實現50億美元雙邊貿易目標，認為外交對話是化解爭端的唯一出路。
 
 ---
 
@@ -14156,125 +14330,5 @@ China A-share power grid equipment sector strengthened amid choppy trading; Huam
 ### 2026-07-03 10:25:00  #Trading Economics #Economy #Vietnam #Industrial Production #Importance 1
 
 Vietnam Industrial Output Climbs to 5-Month High — Vietnam’s industrial production expanded 12.7% year-on-year in June 2026, accelerating from an upwardly revised 10.1% growth in May and marking its strongest increase in five months. The pickup was driven by faster growth across all major sectors, led by electricity and gas supply (16.6% vs. 10.3% in May), manufacturing and processing (12.6% vs. 10.7%), mining and quarrying (8.8% vs. 4.0%), and water supply, waste management, and wastewater treatment (8.7% vs. 6.2%). On a monthly basis, industrial output rose 3.5%, signaling continued strength in the sector. For the first half of 2026, industrial production increased 10.8% compared with the same period a year earlier, highlighting sustained momentum in Vietnam's industrial activity.
-
----
-
-### 2026-07-03 10:23:50  #Trading Economics #Markets #Japan #Currency #Importance 2
-
-Yen Holds Gains Amid Katayama Remarks — The Japanese yen traded near 161 per dollar on Friday after jumping nearly 1% in the previous session, as Finance Minister Satsuki Katayama reiterated that authorities stand ready to intervene at any time to support the currency. Her comments came amid growing speculation over another round of intervention, with thin liquidity during the US holiday weekend seen as creating favorable conditions for official action. Katayama also said Japan and the US remain in close communication on foreign exchange policy. On Thursday, the yen rebounded sharply from 40-year lows after reports suggested Japan may stop signaling intervention plans in advance, catching traders off guard and helping unwind speculative positions against the currency. The yen also drew support from a weaker dollar after softer-than-expected US jobs data prompted traders to reduce expectations for Federal Reserve rate hikes this year.
-
----
-
-### 2026-07-03 10:23:40  #市場 #國際
-
-【美股今日休市 金銀油交易提前結束】受美國獨立日假期影響，美國股市今日休市一日。芝商所（CME）旗下貴金屬、能源、外匯、美債、股指期貨合約交易提前於北京時間7月4日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間7月4日01:30結束。
-
----
-
-### 2026-07-03 10:23:33  #MKT News #Commodities #Industrial Metals
-
-China A-share small-metals sector weakened; Xianglu Tungsten hit the daily limit down, while China Tungsten High-Tech, Xiamen Tungsten, Dongfang Tantalum, Zhangyuan Tungsten, Jinduicheng Molybdenum and Guiyan Platinum also fell.
-
----
-
-### 2026-07-03 10:23:04  #公司
-
-【隱功科技完成億元級Pre-A+輪融資】7月3日，據復旦科創訊息，近日，江蘇隱功科技有限公司宣佈完成億元級Pre-A+輪融資，本輪融資由復旦科創與啟賦資本聯合領投，蘇科創、襄禾資本及產業戰略投資方跟投。融資將主要用於新增產線建設及多技術路線鈉電的產品迭代與研發。
-
----
-
-### 2026-07-03 10:22:16  #市場
-
-港股快手轉跌，此前一度漲逾6%。
-
----
-
-### 2026-07-03 10:21:43  #公司 #市場
-
-【半導體材料板塊走弱，立昂微等多股跌停】半導體材料板塊走弱，立昂微、濱化股份、三美股份、多氟多、巨化股份跌停，金宏氣體、有研矽、正帆科技、晶瑞電材、中巨芯-U、南大光電等跌超10%。
-
----
-
-### 2026-07-03 10:21:33  #公司
-
-三星電子股價漲幅擴大，最新報30.35萬韓元，漲幅6.1%。
-
----
-
-### 2026-07-03 10:21:17  #MKT News #066570.KS #Impact bullish #011070.KS
-
-【Hana Securities: LG Electronics Q2 earnings likely to beat expectations】Hana Securities analyst Minkyung Kim says LG Electronics’ Q2 (Apr–Jun) consolidated operating profit could more than double YoY to KRW 1.441 tln, above a KRW 1.040 tln consensus, aided by U.S. tariff refunds and related factors. Kim expects LG to offset higher raw-material and logistics costs via price increases and efficiency measures. Strong results at Apple supplier LG Innotek may further lift the parent’s profit.
-
----
-
-### 2026-07-03 10:21:11  #MKT News
-
-【Hainan raises flood and typhoon emergency response to level 3】Typhoon Maysak, the 10th storm of the year, formed early on July 3 and is forecast to move north‑northwest at 10–15 km/h, intensify, and make landfall between Wanning and Sanya in the afternoon to evening of July 3 as a tropical storm or severe tropical storm. Hainan Meteorological Bureau upgraded the typhoon warning from level 4 to level 3 at 06:30 on July 3. Hainan’s provincial disaster‑reduction committee raised the flood/typhoon/drought emergency response from level 4 to level 3 at 07:00 on July 3.
-
----
-
-### 2026-07-03 10:21:00  #公司
-
-【國家菸草專賣局修訂釋出7份電子煙監管政策檔案】國家菸草專賣局公告，為貫徹落實《國家菸草專賣局關於落實電子煙產業政策 進一步推動供需動態平衡的通知》（國煙法〔2026〕21號），保證電子煙監管政策體系的統一協調性，國家菸草專賣局對《關於促進電子煙產業法治化規範化的若干政策措施（試行）》（國煙辦〔2022〕43號）、《電子煙固定資產投資管理細則》（國煙法〔2024〕104號）、《電子煙產品技術審評實施細則》（國煙法〔2024〕120號）、《電子煙產品追溯管理細則》（國煙辦〔2022〕43號）、《電子煙進出口貿易和對外經濟技術合作管理細則》（國煙法〔2022〕125號）、《電子煙相關生產企業設立、分立、合併、撤銷管理細則》（國煙辦〔2022〕104號）、《一體化政務服務平臺 電子證照 菸草專賣生產企業許可證第2部分：電子煙》（國煙辦綜〔2024〕25號）等7份電子煙監管政策檔案進行了修訂。本公告自發布之日起施行。
-
----
-
-### 2026-07-03 10:20:45  #公司 #市場
-
-【面板板塊震盪走弱，萊寶高科、惠科股份跌停】面板板塊震盪走弱，萊寶高科、惠科股份跌停，矽烷科技、彩虹股份、廣鋼氣體、濮陽惠成、瑞聯新材、深天馬Ａ等跟跌。
-
----
-
-### 2026-07-03 10:20:36  #其他
-
-越南上半年對美貿易順差增長21.3%，至753億美元。
-
----
-
-### 2026-07-03 10:20:19  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-07-03 10:19:25  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
-
-Hong Kong-listed Kuaishou (01024.HK) flipped into losses intraday after rising over 6% earlier in the session.
-
----
-
-### 2026-07-03 10:18:31  #公司 #市場
-
-【環保板塊持續走強，惠城環保漲停】環保板塊持續走強，惠城環保漲停，清研環境、勁旅環境、僑銀股份、ST京藍、華騏環保、玉禾田等跟漲。
-
----
-
-### 2026-07-03 10:18:28  #公司
-
-【量子計算公司玻色量子宣佈完成數億元Pre-IPO輪融資】量子計算公司玻色量子已於近日完成數億元Pre-IPO輪融資，加速上市程序。本輪融資由杭州產投、九智資本、元禾璞華、全新世、洪泰基金、君禮資本、招銀國際、中銀資本投控、元和資本、福州國資集團榕投資本聯合投資。
-
----
-
-### 2026-07-03 10:17:00  #其他
-
-【國家菸草專賣局：引導電子煙產業向具有產業基礎和條件的地區適度集中】國家菸草專賣局釋出關於促進電子煙產業法治化規範化的若干政策措施（試行），檔案指出，立足電子煙產業現狀，對接國家區域發展戰略，引導電子煙產業向具有產業基礎和條件的地區適度集中，加強原料渠道管控，合理保障電子煙生產原料供給。調整最佳化產業結構，嚴控新增產能，合理控制產能規模，防止產能過剩。以最佳化資源配置和滿足市場需求為導向，保持產業集中度處於合理水平，引導不適應市場競爭的企業有序退出。
-
----
-
-### 2026-07-03 10:16:56  #其他
-
-北京本月將進入主汛期，預計平均降水量比常年同期偏多二到五成。（北京日報）
-
----
-
-### 2026-07-03 10:16:48  #公司
-
-【機器人一體化關節模組解決方案提供商泉智博完成A+++輪融資，高瓴創投領投】7月3日，機器人一體化關節模組解決方案提供商無錫泉智博科技有限公司（以下簡稱“泉智博”）宣佈完成A+++輪融資。高瓴創投（GL Ventures）領投，智元、靈心巧手以戰略產業方身份同步加入股東陣營。據泉智博介紹，這是其繼2025年連續完成A2輪至A6輪共5輪融資、2026年4月完成A++輪融資後，一年半內的第7輪融資。
-
----
-
-### 2026-07-03 10:16:44  #國際
-
-【外交部部長助理劉彬舉行中俄蒙三國副外長磋商】2026年7月2日，外交部部長助理劉彬同俄羅斯外交部副部長魯登科、蒙古外交部副部長阿瑪爾圖布辛在烏蘭巴托舉行中俄蒙三國副外長磋商。劉彬表示，在三國元首戰略引領下，中俄蒙三方合作展現積極穩健發展勢頭，經貿投資、互聯互通等重點領域合作持續推進。中方願同俄、蒙兩方一道，進一步鞏固政治互信，不斷拓展三方合作的深度和廣度，用更多合作成果惠及三國人民，助力各自發展振興。俄、蒙兩方高度評價三方合作取得的積極成果，表示願以三國元首共識為遵循，推動三方合作不斷邁向更高水平。
 
 ---

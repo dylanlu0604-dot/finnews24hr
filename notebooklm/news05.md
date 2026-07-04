@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-04 23:20:12_
-_本檔包含 2551 則快訊，約 504739 字_
+_更新時間：2026-07-05 00:36:03_
+_本檔包含 2528 則快訊，約 505049 字_
+
+---
+
+### 2026-06-30 17:13:39  #Trading Economics #Economy #Italy #Inflation Rate #Importance 1
+
+Italy Inflation Eases More Than Expected — The headline national inflation rate in Italy softened to 3.0% in June of 2026 from 3.2% in the previous month, according to a preliminary read. It was below market expectations of a 3.1% rate and marked the first deceleration in consumer prices since January, potentially pointing to the top of the inflationary surge from the war in the Middle East as wholesale energy prices pulled back in the period. Price growth eased for non-processed food (4.5% vs 5.5% in May), cultural and recreational services (2.7% vs 3.0%), and transportation services (1.1% vs 1.7%). Still, higher energy prices in commodity markets from supply pressures in the Middle East were still being transmitted to Italian consumers, with faster inflation for regulated energy (9.3% vs 5.6%) and non-regulated energy (12.9% vs 12.5%). Since the pickup in inflation was concentrated in energy, the core inflation rate softened to 1.6% from 1.7%. From the previous month, Italian consumer prices were unchanged.
+
+---
+
+### 2026-06-30 17:00:15  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Depreciates by 0.70% — Top currency losers are South Korean Won (-0.70%), Polish Zloty (-0.43%), Euro (-0.26%), Japanese Yen (-0.23%) and British Pound (-0.21%). Gains are led by Brazilian Real (0.31%) and Dollar Index (0.26%).
+
+---
+
+### 2026-06-30 16:36:13  #經濟數據 #中國
+
+【財政部：1至5月國有企業營業總收入同比下降0.7% 利潤總額增長3.5%】1-5月，國有企業營業總收入328221.6億元，同比下降0.7%。1-5月，國有企業應交稅費26274.5億元，同比增長5.7%。1-5月，國有企業應交稅費26274.5億元，同比增長5.7%。
+
+---
+
+### 2026-06-30 16:30:13  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Drops by 1.43% — Top crypto losers are Ether (-1.43%), Bitcoin (-1.41%) and Binance (-1.41%).
+
+---
+
+### 2026-06-30 16:15:53  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Eyes Best Quarter Since 2020 — The FTSE MIB rose to around 51,300 on Tuesday, following a two-day decline, and attempting to rebound from an over two-week low. The benchmark index was also on track to post a gain of more than 15% for the second quarter, its best quarterly performance in nearly six years. The advance was supported by renewed optimism surrounding AI and improving demand expectations. Meanwhile, oil prices returned to pre-war levels, while easing tensions in the Middle East further boosted risk sentiment. Across the bourse, technology-related stocks led the gains, with STMicroelectronics and Saipem rising more than 2% each. Other notable gainers included Prysmian (+3.1%) and Unipol Gruppo (+1.7%). Meanwhile, Eni was little changed after launching Libya's offshore Sabratha Compression project to boost gas output and agreed to acquire a 32% stake in three Vaca Muerta blocks to support Argentina's LNG project, subject to regulatory approval.
+
+---
+
+### 2026-06-30 16:13:57  #央行 #歐洲央行
+
+歐洲央行官員Wunsch稱，再次加息的理由已不如之前充分。
+
+---
+
+### 2026-06-30 16:10:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Falls by 1.73% — Top commodity losers are Oat (-1.73%), Palm Oil (-1.02%) and Rapeseed (-0.54%). Gains are led by Rubber (1.58%), Wheat (1.12%) and Cotton (1%).
+
+---
+
+### 2026-06-30 16:08:05  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Eyes Sixth Quarterly Gain as Miners Rally — The FTSE 100 advanced on Tuesday, steering toward its sixth consecutive quarterly gain with a 3.4% increase in Q2 following a 2.5% rise in Q1. This marks the index's best streak since 2022. Gains were driven by a robust mining sector fueled by geopolitical optimism and rising metal prices, lifting Anglo American, Glencore, and Antofagasta by over 2%, alongside Rio Tinto at 1.9% and Fresnillo at 0.7%. Other strong performers included AstraZeneca (+1%) and Lloyds Banking (+1.2%). J Sainsbury climbed 1.9% due to strong food sales and recent UK heatwaves. Barclays also gained after announcing a £750 million deal for its headquarters. However, these gains were capped by declining oil prices ahead of US and Iran talks, which dragged down BP and Shell. Meanwhile, data showed annual UK GDP growth was revised lower to 0.9%, while quarterly growth met expectations at 0.6% and shop price inflation held steady at 1.2%.
 
 ---
 
@@ -15199,191 +15247,5 @@ French Foreign Ministry says it is willing to contribute to implementation of a 
 ### 2026-06-28 00:38:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
 
 【After U.S. strikes, Iran launches drone attack on Bahrain; oil tanker hit】Iran on Saturday launched drone strikes on Bahrain and attacked a vessel in the Strait of Hormuz, an action described as likely retaliation for a U.S. overnight strike. U.S. Central Command said on June 26 it had struck Iranian targets in response to Iran’s attacks on merchant ships. The International Maritime Organization said Saturday it will expand a transit lane near Oman to allow two-way traffic; Tehran views the strait as a bargaining chip in ongoing talks with Washington, a dynamic that underscores risks of further escalation.
-
----
-
-### 2026-06-28 00:29:06  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Tanker hit in Strait of Hormuz as US-Iran tensions escalate】CNBC reported Saturday that a tanker in the Strait of Hormuz was struck by shelling, marking a fresh escalation in US‑Iran tensions after a prior temporary pact to halt hostilities. The UK Maritime Trade Operations Center said a vessel in the strait was hit by an "unidentified flying object"; the hull was damaged and the crew were reported safe. Bahrain condemned an Iranian drone strike as a "blatant violation" of its sovereignty. The incidents occurred amid a 60‑day ceasefire framework and negotiations to end the war; both sides accuse the other of breaching the agreement.
-
----
-
-### 2026-06-28 00:23:56  #MKT News #Important #WTI #Impact bullish #Brent
-
-Market sources say Iran attacked a tanker in the Strait of Hormuz; the vessel was damaged but there were no casualties.
-
----
-
-### 2026-06-28 00:21:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's defense minister Katz said Israeli forces will not withdraw unless Hezbollah is disarmed in Lebanon.
-
----
-
-### 2026-06-28 00:20:25  #國際
-
-市場資訊：伊朗在阿曼海岸附近的霍爾木茲海峽襲擊了一艘油輪。
-
----
-
-### 2026-06-28 00:16:13  #MKT News #WTI #Impact bullish #Brent
-
-【Russian Defence Ministry: Russian military drones struck refinery serving Ukrainian forces】The Russian Defence Ministry said Russian forces used Geranium UAVs to strike a refinery near Zaporizhzhia under Ukrainian control that supports Ukrainian forces, triggering a large fire.
-
----
-
-### 2026-06-28 00:16:06  #國際
-
-【伊朗革命衛隊最高領袖代表：革命衛隊隨時準備在各領域執行最高領袖的任何命令】伊朗革命衛隊最高領袖代表阿卜杜拉·哈吉薩德吉於週六表示，革命衛隊所有分支隨時準備在各領域執行最高領袖哈梅內伊下達的任何命令。哈吉薩德吉稱：“革命衛隊全軍，包括空天軍、海軍、陸軍、聖城旅以及巴斯基民兵，全部嚴陣以待、隨時待命，準備執行穆傑塔巴在任何領域下達的一切指令。”他表示，抵抗與堅定立場始終是伊朗的首要選擇，談判並非其主要途徑。他補充道，即便伊朗開啟談判，陷入焦灼被動的也只會是敵方。
-
----
-
-### 2026-06-28 00:12:52  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Israel's defense minister Katz said if Iran obstructs implementation of the agreement, Israel will retaliate; the Israel Defense Forces will prepare for a long-term deployment in the Lebanese security zone.
-
----
-
-### 2026-06-28 00:11:42  #國際
-
-以色列防長卡茨：以色列國防軍將做好長期駐守黎巴嫩安全區的準備。
-
----
-
-### 2026-06-28 00:11:29  #國際
-
-以色列防長卡茨：若伊朗阻撓協議落實，以色列將予以反擊。
-
----
-
-### 2026-06-28 00:10:58  #國際
-
-以色列防長卡茨：數十年來，美、以、黎三方簽署的這份協議首次為以黎北部邊境及黎巴嫩帶來全新、更安全的局面，同時保障以色列民眾的長期安全。
-
----
-
-### 2026-06-28 00:10:07  #國際
-
-以色列防長卡茨：黎以這份協議的關鍵考驗在於落地執行，目前仍存在諸多挑戰。只要真主黨未被解除武裝，以色列就不會調整其在黎巴嫩南部的部署，也不會撤軍。
-
----
-
-### 2026-06-28 00:08:36  #MKT News #XAUUSD #Impact bullish #DXY
-
-【Explosion and gunfire reported in Karachi's Gulistan-e-Johar】An explosion and reports of gunfire occurred in Karachi's Gulistan-e-Johar neighborhood on the evening of the 27th (local time). Large numbers of police and rescue personnel have responded to the scene.
-
----
-
-### 2026-06-28 00:08:24  #其他
-
-阿聯酋重申支援國際四方調解小組為蘇丹實現持久和平所開展的各項工作。
-
----
-
-### 2026-06-28 00:04:43  #國際
-
-以色列防長卡茨：昨日與美國、黎巴嫩簽署的這項協議具有里程碑意義，是以色列在政治與安全領域取得的一項重大成果。
-
----
-
-### 2026-06-28 00:04:29  #MKT News
-
-KATZ said the agreement signed with the US and Lebanon is a historic event and an important political and security achievement for Israel.
-
----
-
-### 2026-06-28 00:04:11  #國際
-
-一名白宮官員表示，美國高階官員對委內瑞拉反對派領袖馬查多在該國地震後試圖返回委內瑞拉的舉動感到不滿。
-
----
-
-### 2026-06-28 00:02:59  #MKT News
-
-【Venezuela's largest airport partially resumes operations】On the 27th local time, Maiquetía Simón Bolívar International Airport, Venezuela's largest, partially resumed operations and is receiving cargo flights carrying humanitarian aid.
-
----
-
-### 2026-06-27 23:58:56  #其他
-
-據當地媒體27日報道，巴基斯坦卡拉奇一條主要街道當日發生爆炸並傳出槍聲，目前安全部隊已趕往現場。
-
----
-
-### 2026-06-27 23:52:51  #國際
-
-烏茲別克同意對美國商品下調關稅，以此深化與美國的經濟合作。穆迪上調該國主權信用評級，進一步體現投資者對該國信心持續提升。
-
----
-
-### 2026-06-27 23:52:19  #其他
-
-黎巴嫩軍方總司令會見英國官員。
-
----
-
-### 2026-06-27 23:52:01  #其他
-
-伊拉克貿易部：本季迄今為止，已從本國農戶手中收購410萬噸小麥。
-
----
-
-### 2026-06-27 23:50:42  #市場
-
-【委內瑞拉震區救援持續 一名嬰兒從廢墟中獲救】委內瑞拉24日發生強震後，黃金72小時救援視窗期持續收緊，災區的搜救工作正爭分奪秒進行。拉瓜伊拉州是此次委內瑞拉強震的重災區。隨著救援工作持續進行，越來越多的被困人員成功獲救。當地時間26日晚，救援人員成功將一名嬰兒從廢墟中救出。隨後，孩子媽媽也被救出，被救援人員安置在轉運車內。（央視新聞）
-
----
-
-### 2026-06-27 23:47:02  #其他
-
-巴基斯坦卡拉奇東部主要道路傳出爆炸聲和槍擊聲。
-
----
-
-### 2026-06-27 23:45:36  #國際
-
-【美聯邦航空局調查一架紐瓦克進近航班上報的無人機目擊事件】美國聯邦航空管理局釋出宣告稱，美聯航1513號航班機組週五在降落進近途中發現無人機，該航班最終安全降落在紐瓦克自由國際機場。美國聯邦航空局正調查這起發生於當地週五下午5點20分左右的事件。
-
----
-
-### 2026-06-27 23:39:36  #國際
-
-以色列無人機襲擊黎巴嫩南部城鎮上納巴提耶。
-
----
-
-### 2026-06-27 23:39:13  #國際
-
-歐盟：敦促各方履行承諾。
-
----
-
-### 2026-06-27 23:38:35  #國際
-
-歐盟就黎以框架協議發表宣告：該框架是緩和局勢、走向和平的積極訊號。
-
----
-
-### 2026-06-27 23:34:39  #國際
-
-美國官員：伊朗最近對巴林的襲擊包括兩架無人機，其中一架無人機被防空系統攔截，另一架降落在機場區域的一個偏僻地帶，未造成任何損害。
-
----
-
-### 2026-06-27 23:34:16  #焦點 #國際
-
-據外媒27日援引伊朗官方資料包道，受中東戰事影響，伊朗6月通脹率同比大幅升至88.6%。
-
----
-
-### 2026-06-27 23:26:10  #國際
-
-【伊朗政府發言人：伊朗與阿曼將啟動談判】伊朗政府發言人法特梅·穆哈傑拉尼於週六表示，伊朗與阿曼將啟動談判，商討霍爾木茲海峽未來管理及航道服務供給的框架方案。穆哈傑拉尼稱，伊朗正與周邊國家協調相關事宜。美國官員此前曾表態，德黑蘭無權向途經這條戰略水道的船隻徵收通行費。
-
----
-
-### 2026-06-27 23:20:41  #焦點 #國際
-
-伊朗：將與阿曼舉行會談，商定未來霍爾木茲海峽海事服務管理框架。
 
 ---
