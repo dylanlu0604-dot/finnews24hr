@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-04 13:50:33",
-  "count": 13302,
+  "updated": "2026-07-04 13:54:27",
+  "count": 13303,
   "items": [
+    {
+      "id": "4970294",
+      "time": "2026-07-04 13:53:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【新華時評：以嚴法明規促進平臺經濟健康發展】新華社刊發評論文章指出，7月4日，市場監管總局、商務部研究起草的《中華人民共和國電子商務法（修正草案徵求意見稿）》面向社會公開徵求意見，釋放出規範與發展並重的鮮明訊號。嚴法明規不僅將更好為消費者撐起法治“保護傘”，也為平臺經濟的規範健康發展注入更多法治動力。"
+    },
+    {
+      "id": "mkt:019f2bae-b286-7aab-8c9b-e04814a1a243",
+      "time": "2026-07-04 13:51:36",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Economy, Trade and Industry Minister Akazawa said he is prepared to assist overseas semiconductor manufacturers investing in Japan."
+    },
     {
       "id": "4970293",
       "time": "2026-07-04 13:44:00",
@@ -122413,14 +122431,6 @@
         "其他"
       ],
       "text": "【中國大唐與四川省政府簽署全面深化戰略合作協議】6月26日，中國大唐與四川省人民政府簽署全面深化戰略合作協議。根據協議，雙方將圍繞清潔能源開發利用、能源基礎設施建設、能源產業建圈強鏈、能源科技創新與成果轉化等方面開展深入合作，共同培育發展能源新質生產力，更好服務國家發展大局和四川現代化建設。"
-    },
-    {
-      "id": "mkt:019f07a2-f8ca-7dd8-b140-c63c4724f56a",
-      "time": "2026-06-27 13:52:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WPS to add disk storage management and install-path selection in July after C: drive complaints】June 27 — WPS said it completed an investigation into concentrated user complaints about C: drive space usage and has started optimizations. A new version due in July will add an installer option to choose the installation path and will add a \"Storage Management\" module in settings that aggregates occupancy and releasable space for caches, file backups and cloud-document cache. WPS said caches and backups default to C: and opaque usage had frustrated some high-frequency users; the update’s stated aim is \"install with choice, use with control,\" letting users see local disk usage and free files themselves."
     }
   ]
 }
