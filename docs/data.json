@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 21:12:02",
-  "count": 13254,
+  "updated": "2026-07-04 21:16:21",
+  "count": 13253,
   "items": [
+    {
+      "id": "mkt:019f2d43-fd81-7aab-8c9d-17363d49586e",
+      "time": "2026-07-04 21:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ali Azmaei appointed commander of IRGC Navy】Ali Azmaei has been appointed commander of the Islamic Revolutionary Guard Corps Navy. He previously served as deputy commander and has long held posts within the IRGC Navy."
+    },
     {
       "id": "4970462",
       "time": "2026-07-04 21:04:05",
@@ -121959,22 +121967,6 @@
         "公司"
       ],
       "text": "【博世中國回應集團換帥】6月27日，對於博世集團換帥一事，博世中國表示，此次集團董事會人事調整不會對博世中國各項業務運營產生任何影響。中國始終是博世全球最重要的戰略市場之一，也是集團重要的創新基地。6月26日，博世集團宣佈了一項重磅人事變動：應其本人要求並與股東密切協商一致，董事會主席史蒂凡·哈通（Stefan Hartung）將於6月30日卸任，董事會副主席克里斯蒂安·菲舍爾（Christian Fischer）於7月1日接棒。（第一財經）"
-    },
-    {
-      "id": "4958428",
-      "time": "2026-06-27 21:13:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：我們強調，必須避免該地區遭受無端襲擊的後果，並繼續走對話與緩和局勢的道路。"
-    },
-    {
-      "id": "4958427",
-      "time": "2026-06-27 21:13:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：我們譴責伊朗使用無人機對巴林的襲擊，認為這是對其主權的侵犯以及對國際法規則的違反。"
     }
   ]
 }

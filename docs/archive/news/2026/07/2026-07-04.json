@@ -1,7 +1,15 @@
 {
   "date": "2026-07-04",
-  "count": 550,
+  "count": 551,
   "items": [
+    {
+      "id": "mkt:019f2d43-fd81-7aab-8c9d-17363d49586e",
+      "time": "2026-07-04 21:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ali Azmaei appointed commander of IRGC Navy】Ali Azmaei has been appointed commander of the Islamic Revolutionary Guard Corps Navy. He previously served as deputy commander and has long held posts within the IRGC Navy."
+    },
     {
       "id": "4970462",
       "time": "2026-07-04 21:04:05",
