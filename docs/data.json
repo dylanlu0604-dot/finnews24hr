@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-04 09:24:15",
-  "count": 13301,
+  "updated": "2026-07-04 09:28:10",
+  "count": 13302,
   "items": [
+    {
+      "id": "4970205",
+      "time": "2026-07-04 09:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“美莎克”或將在廣西二次登陸 國家海洋預報臺升級風暴潮警報為黃色】記者從自然資源部獲悉，受颱風“美莎克”的影響，廣西沿海將出現70到120釐米的風暴增水，國家海洋預報臺根據《海洋災害應急預案》釋出海浪藍色警報，並將風暴潮警報升級為黃色。（央視新聞）"
+    },
     {
       "id": "mkt:019f2ab9-3982-7aab-8c9b-287087961a54",
       "time": "2026-07-04 09:23:29",
@@ -310,6 +318,14 @@
         "國際"
       ],
       "text": "特朗普在社交媒體上釋出了關於其賬戶慈善捐款的資訊。"
+    },
+    {
+      "id": "4970178",
+      "time": "2026-07-04 08:05:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國建材總院與北方華創簽署戰略合作協議】中國建材總院與北方華創科技集團股份有限公司（簡稱“北方華創”）戰略合作協議簽約儀式近日在北京舉行。雙方一致認為，此次戰略合作協議的簽署，是未來持續深化協同創新，拓寬合作領域，合力打造裝備與材料協同發展新格局的里程碑，必將為我國半導體產業鏈自主可控和核心競爭力提升貢獻力量。"
     },
     {
       "id": "4970177",
@@ -122449,18 +122465,6 @@
         "Important"
       ],
       "text": "China | Industrial Profit Growth YTD (May) | actual 18.8% | previous 18.20%"
-    },
-    {
-      "id": "mkt:019f06ae-b504-7dd8-b140-185f036acb3a",
-      "time": "2026-06-27 09:25:40",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran senior official says Trump did not respect negotiation or ceasefire principles】Ibrahim Azizi, chairman of the Islamic Consultative Assembly’s National Security Committee, said on the 27th that the US struck Iran again during talks and that President Trump has not respected negotiation or ceasefire principles. In a social media post Azizi called the US breach of the ceasefire \"reckless\", warned Iran would \"force them to retreat and regret it\", and said attempts to shift blame \"will no longer work\"."
     }
   ]
 }
