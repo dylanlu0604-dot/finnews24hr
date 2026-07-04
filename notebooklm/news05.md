@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 06:06:43_
-_本檔包含 2412 則快訊，約 506226 字_
+_更新時間：2026-07-05 07:10:33_
+_本檔包含 2398 則快訊，約 506053 字_
+
+---
+
+### 2026-06-30 20:06:02  #Trading Economics #Economy #Germany #Inflation Rate #Importance 2
+
+German Inflation Unexpectedly Slows in June — Germany’s consumer price inflation eased to 2.3% year-over-year in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%, according to preliminary data. This is the lowest rate since February, prior to the Iran war disrupting energy supplies and driving oil prices higher. Goods inflation fell to 1.7% from 2.2%, driven by easing energy price pressures (3.4% vs. 6.6%). Food inflation and services inflation remained steady at 0.4% and 3.1%, respectively, while core inflation, excluding food and energy, held at 2.5%. The EU-harmonized annual inflation rate also slowed to 2.4% from 2.7%, below expectations of 2.6% but still slightly above the ECB’s 2% target.
+
+---
+
+### 2026-06-30 19:47:50  #Trading Economics #Economy #Morocco #GDP Annual Growth Rate #Importance 0
+
+Morocco GDP Grows 4.6% YoY in Q1 — Morocco’s economy expanded by 4.6% year-on-year in Q1 2026, up from 4.1% in the previous quarter. The primary sector posted strong growth of 17.3%, driven by an 18.4% increase in agriculture, while fishing declined by 1.9%. The services sector also expanded (4.3%), supported mainly by financial and insurance activities (7.6%) and transportation and storage (4.8%). By contrast, the secondary sector contracted by 1.0%, weighed down by declines in electricity and water (-3.4%), mining (-3.2%), and manufacturing (-1.3%). On the expenditure side, domestic demand rose by 6.5%, driven by household consumption (4.6%), government spending (4.9%), and investment (10.8%). Imports increased by 12.7%, while exports rose at a slower pace of 9.2%.
+
+---
+
+### 2026-06-30 19:47:45  #Trading Economics #Economy #Senegal #GDP Annual Growth Rate #Importance 1
+
+Senegal Economy Continues to Strengthen — The economy of Senegal advanced by 5.8% year-on-year in Q1 2026, the most since Q2 2025, following a 4.2% growth in the previous period. The expansion was mainly driven by strong performance in the secondary sector (+8.6%), followed by the primary sector (+5.7%), the tertiary sector (+5.2%), and, to a lesser extent, net taxes on goods and services (+1.6%). Excluding hydrocarbons, GDP rose by 4.7%. From a demand perspective, growth was mainly supported by higher exports (+8.2%) and final consumption (+4.9%). However, gross fixed capital formation declined by 7.5%. On a seasonally adjusted quarterly basis, the GDP rose by 1.2%.
+
+---
+
+### 2026-06-30 19:44:22  #Trading Economics #Markets #France #stocks #Importance 1
+
+Safran Stock Price Hits 17-week High — Safran shares increased to 345.70 EUR, the highest since February 2026. Over the past 4 weeks, Safran gained 16.26%, and in the last 12 months, it increased 30.35%.
 
 ---
 
@@ -14424,125 +14448,5 @@ Bahrain authorities said alarms sounded, urging residents to "remain calm" and p
 ### 2026-06-28 07:14:04  #國際
 
 特朗普：美國戰機剛剛襲擊了伊朗無人機儲存地點。
-
----
-
-### 2026-06-28 07:10:06  #宏觀 #其他
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、張國清在浙江調研時強調 強化科技創新和產業創新深度融合 全面加強質量管理增加高質量供給；
-2、王小洪在吉林調研時強調 強化創新驅動 豐富政策供給 助力推動新時代東北全面振興；
-3、今年第三批625億元支援消費品以舊換新資金已下達；
-4、亞太經合組織第十三屆旅遊部長會議在澳門舉行；
-5、前5月我國金融市場執行平穩；
-6、“共享大市場·出口中國”歐盟首場活動在德舉行——“積極拓展對華合作新機遇、探尋新路徑”。
-
----
-
-### 2026-06-28 07:07:36  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“把中國式現代化宏偉事業不斷推向前進”；
-2、各地區各部門各單位落實深學真查實改要求——持續用力，推動學習教育走深走實（樹立和踐行正確政績觀）；
-3、山東臨沂市持續完善紅色文化宣講體系——發揚光大沂蒙精神 辦好實事服務群眾（牢記初心使命 奮進復興征程）；
-4、“鯤鵬”振翅向未來——來自空軍航空兵某團的觀察報告；
-5、天津以科技創新引領新質生產力發展（活力中國調研行）；
-6、首條民營控股高鐵累計客流超1億人次。
-
----
-
-### 2026-06-28 07:02:09  #其他
-
-【阿根廷內閣首席部長因貪腐醜聞宣佈辭職】深陷貪腐醜聞的阿根廷內閣首席部長曼努埃爾·阿多爾尼27日經由社交媒體宣佈辭職。阿多爾尼近期被曝搭乘私人飛機度假、擁有未申報的豪華房產和豪華汽車等。阿根廷一些國會議員指出，阿多爾尼的支出與申報收入不符，涉嫌非法斂財等腐敗行為。本月11日，他承認向稅務機關隱瞞了超過50萬美元的收入。（新華社）
-
----
-
-### 2026-06-28 07:01:18  #市場 #焦點
-
-【C909商運十週年累計交付186架 佔國內支線機隊70%】今天（6月28日），中國商飛釋出訊息，國產商用飛機C909已商運10年，累計交付186架，佔國內支線機隊70%。經過十年運營，C909已成長為中國支線航空運輸市場的主力機型。（央視新聞）
-
----
-
-### 2026-06-28 06:57:23  #其他
-
-【英格蘭2-0巴拿馬小組第一齣線，凱恩破門，貝林厄姆建功】北京時間6月28日世界盃 小組賽 第3輪，巴拿馬對陣英格蘭。英格蘭貝林厄姆破門，哈里-凱恩破門。最終比分巴拿馬 0-2 英格蘭。
-
----
-
-### 2026-06-28 06:47:23  #國際
-
-【強對流天氣藍色預警釋出 這些地區將有10級以上雷暴大風】中央氣象臺6月28日6時繼續釋出強對流天氣藍色預警：預計6月28日8時至29日8時，華北、西北地區東部、內蒙古中東部、黃淮西部、華南南部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，山西東南部、河北東部和中部等地的部分地區將有10級以上雷暴大風，最大風力可達11級以上；華北東部、內蒙古東部、黃淮西部、江南東南部、華南、西南地區南部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，河北中部和東部、江西南部等地的部分地區小時雨量大於50毫米。
-
----
-
-### 2026-06-28 06:47:04  #國際
-
-【內塔尼亞胡稱以軍已打死九千黎真主黨武裝人員】以色列總理內塔尼亞胡27日發表影片講話稱，自“戰爭開始以來”，以軍已打死9000多名黎巴嫩真主黨武裝人員，僅過去兩週就打死200多名武裝人員，並且正在整個“安全區”內清除黎真主黨武裝基礎設施。（新華社）
-
----
-
-### 2026-06-28 06:45:46  #國際
-
-【協議達成次日以軍再襲黎巴嫩 停火撤軍面臨“落地難”】當地時間27日，黎以美達成框架協議後以軍再襲黎南部。以色列當天重申，以軍短期內不會從黎南部撤軍，內塔尼亞胡還強調以色列實際上保留了保衛其北部邊境所需的全部“安全區”。黎巴嫩真主黨領導人納伊姆·卡西姆當天則譴責了美以黎框架協議，稱其無效。以色列內部也有聲音稱，框架協議是“重大錯誤”。專家表示，協議執行面臨重重障礙。（央視新聞）
-
----
-
-### 2026-06-28 06:42:56  #國際
-
-一名伊朗強硬派評論員瓦希德·霍扎布週六表示，儘管雙方存在相關協議，但美軍近期的空襲行動屬於持續“侵略行為”。他稱，美方將伊朗視作行事“可預判”的一方。他認為如果伊朗僅採取有限、重複的反擊手段，會讓對手掌握衝突博弈的主動權。他補充道，想要扭轉這一局面，伊朗必須做出一次“不可預判”的回擊。
-
----
-
-### 2026-06-28 06:41:32  #國際
-
-美國肯塔基州長：肯塔基州遭遇強降雨引發洪水，已造成四人遇難。
-
----
-
-### 2026-06-28 06:38:06  #公司
-
-【索馬利亞國防部稱打死30名極端武裝分子】索馬利亞國防部27日釋出公告，索馬利亞武裝部隊與國際夥伴協調，最近幾天在中謝貝利地區對藏匿的極端組織“青年黨”武裝分子實施了一系列空襲，共打死該組織30名成員。“青年黨”是與“基地”恐怖組織關聯的極端組織，2007年發動叛亂，2011年被索馬利亞政府軍逐出首都摩加迪沙。近年來，這一極端組織仍在部分農村地區活動，頻繁發動襲擊和埋設地雷，威脅當地安全。（央視新聞）
-
----
-
-### 2026-06-28 06:35:33  #其他
-
-英國航空往返希思羅機場、易捷航空往返蓋特威克機場今日合計取消200餘架次航班 3.5萬名旅客滯留。 依據航空旅客權益相關法規，旅客有權搭乘任意航司航班儘快前往目的地，同時可按需獲得餐食與酒店住宿安排。
-
----
-
-### 2026-06-28 06:27:29  #其他
-
-【今年前五個月我國物流需求平穩增長 社會物流總額超146萬億元】中國物流與採購聯合會今天公佈今年1到5月物流執行資料。物流需求總體保持平穩增長，新舊動能加快轉換，結構升級態勢持續顯現。1—5月份，全國社會物流總額146.6萬億元，同比增長5.2%。其中，工業品物流總額同比增長5.4%。行業分化特徵持續顯現，採礦、非金屬礦物製品業等傳統資源類物流需求持續低位執行，而隨著新質生產力加快培育，高階製造領域物流需求保持較快增長。5月份，高技術製造業相關物流需求同比增長15.1%，裝備製造業相關物流需求同比增長9.5%，較上月均有所加快。（央視新聞）
-
----
-
-### 2026-06-28 06:17:59  #國際
-
-【委內瑞拉首都加拉加斯附近再次發生地震】根據歐洲地中海地震中心報告，當地時間27日15時20分，委內瑞拉首都加拉加斯以西70公里處發生4.8級地震，震源深度10公里。
-
----
-
-### 2026-06-28 06:11:52  #其他
-
-【亮相淘汰賽！馬寧將擔任德國vs巴拉圭1/16決賽第四官員】北京時間6月28日，FIFA官方確認了德國vs巴拉圭1/16決賽的裁判組。馬寧將擔任德國vs巴拉圭比賽第四官員，周飛擔任候補助理裁判。北京時間6月30日凌晨4點30分，德國將在世界盃1/16決賽對陣巴拉圭，這將是馬寧本屆世界盃的第四次執裁。
-
----
-
-### 2026-06-28 06:08:09  #焦點 #國際
-
-福克斯新聞援引美國防務官員訊息稱，美國對伊朗的打擊“已完成”。
-
----
-
-### 2026-06-28 06:07:29  #國際
-
-【美軍連續第二天空襲伊朗南部】伊朗國家電視臺當地時間今天（6月28日）凌晨報道，伊朗南部錫裡克地區傳出數次爆炸聲。訊息人士稱，爆炸聲是由“數枚彈體擊中一座通訊塔”所致。此外，還有“幾枚彈體”擊中了伊朗最大島嶼格什姆島。（CCTV國際時訊）
-
----
-
-### 2026-06-28 06:06:57  #國際
-
-伊朗媒體報道伊朗南部傳出爆炸聲。
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 06:06:43_
-_本檔包含 2520 則快訊，約 506227 字_
+_更新時間：2026-07-05 07:10:33_
+_本檔包含 2525 則快訊，約 506049 字_
+
+---
+
+### 2026-07-01 17:37:47  #公司
+
+【立霸股份：持股5%以上股東確定上海君和為受讓方，擬轉讓14%股份】立霸股份公告，公司持股5%以上股東鹽城東方投資開發集團有限公司經公開徵集、專家評審及內部決策，確定上海君和致晟私募基金合夥企業（有限合夥）為本次公開徵集轉讓的受讓方。鹽城東方集團於2026年07月01日與上海君和簽署附條件生效的《股份轉讓協議》，擬協議轉讓所持立霸股份3728.59萬股無限售條件流通股份（佔公司總股本的14.00%），轉讓價格為13.1元/股，股份轉讓價款總額為4.88億元。本次股份轉讓協議尚需鹽城東方集團的國資主管部門批准方可生效，且後續尚需上海證券交易所進行合規性確認及辦理過戶登記手續，存在不確定性。
+
+---
+
+### 2026-07-01 17:37:24  #其他
+
+【重慶：整合打造以“住房消費”為核心的消費場景 推動與家居家電家裝消費聯動】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，穩定商品住房消費，深化一區（縣）一策，因地制宜最佳化住房消費支援政策，發揮增貸、減稅、公積金、購房優惠等政策整合效應，充分釋放剛性和改善性住房需求。搭建平臺，加強供需對接，組織房交會、返鄉置業等系列促銷服務活動，整合打造以“住房消費”為核心的消費場景，推動與家居家電家裝消費聯動。強化正面宣傳引導，營造良好的市場氛圍。
+
+---
+
+### 2026-07-01 17:37:21  #公司 #資料 #國際
+
+【戰鬥機專案破裂後，法國達索公司稱仍對合作持開放態度】法國飛機製造商達索航空執行長Eric Trappier週三表示，在法、德、西三國聯合戰鬥機專案破裂後，公司對開展合作持開放態度，同時也未排除與非歐洲夥伴合作的可能性。Trappier是自上月德國和法國取消研發新一代戰鬥機的專案以來首次發表正式證詞。此前，達索航空與其主要合作伙伴空中客車公司之間爆發了產業分歧，導致專案擱淺。他在法國參議院的一個委員會上表示：“我們有能力合作，過去也曾證明過這一點，但我們希望在各方從一開始就認可的規則下進行合作。”
+
+---
+
+### 2026-07-01 17:37:13  #MKT News #Market Regions #Europe & UK
+
+【Dassault Aviation open to partnerships after trilateral fighter program collapses】Dassault Aviation CEO Eric Trappier told a French Senate committee on Wednesday the company remains open to cooperation after the collapse of the France-Germany-Spain next‑generation fighter project. Trappier, speaking in his first formal remarks since France and Germany cancelled development last month, said he would not rule out working with non‑European partners. He said an industrial dispute with main partner Airbus stalled the programme and added: “We have the ability to cooperate, as proven in the past, but we want cooperation under rules agreed from the outset.”
+
+---
+
+### 2026-07-01 17:36:48  #央行 #國際
+
+【瑞銀：沃什時代首秀偏鷹 但年內加息預期或過度】瑞銀在最新報告中指出，美聯儲主席凱文·沃什上任後的首次議息會議釋放出明顯鷹派訊號，但市場對年內加息的押注可能偏激進。瑞銀預計，美聯儲更可能在今年餘下時間維持聯邦基金利率在3.50%-3.75%不變，並建議投資者增配短久期和中久期優質債券，以鎖定當前較高收益率。
+
+---
+
+### 2026-07-01 17:36:35  #公司
+
+【香飄飄在杭州成立食品銷售公司 註冊資本500萬】天眼查App顯示，近日，杭州蘭芳園食品銷售有限公司成立，法定代表人為蔣建琪，註冊資本500萬人民幣，經營範圍包括自動售貨機銷售、食品銷售等，由香飄飄（603711）旗下蘭芳園食品有限公司全資持股。
+
+---
+
+### 2026-07-01 17:36:31  #央行 #美聯儲
+
+【瑞銀：沃什時代首秀偏鷹 但年內加息預期或過度】瑞銀在最新報告中指出，美聯儲主席凱文·沃什上任後的首次議息會議釋放出明顯鷹派訊號，但市場對年內加息的押注可能偏激進。
+
+---
+
+### 2026-07-01 17:36:09  #其他
+
+【重慶：合理調控住宅用地供應總量、結構和時序 有序推進專案開工、建設和上市】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，最佳化商品住房供給。合理調控住宅用地供應總量、結構和時序，有序推進專案開工、建設和上市。最佳化支援政策，鼓勵房地產開發企業透過新建、改建等方式，增加配套更優、品質更高、空間更大的多樣化住房供給，以高品質供給引導和滿足差異化住房需求。面向老年群體、多代同住家庭、多子女家庭、小型家庭等，統籌推進適老化、適小化、個性化住宅研發，全面提升住房的適配性。鼓勵因地制宜發展避暑休閒地產。
+
+---
+
+### 2026-07-01 17:35:20  #MKT News
+
+SGX will conduct quarterly reviews to determine whether additional financial instruments qualify for reduced minimum trading units.
 
 ---
 
@@ -15195,29 +15249,5 @@ South Africa Posts First Trade Gap in 16 Months — South Africa posted a trade 
 ### 2026-06-30 20:16:46  #Trading Economics #Economy #Brazil #Government Budget Value #Importance 1
 
 Brazil Public Deficit Widens to May Record — The Brazilian government posted a nominal budget deficit of BRL 163.7 billion in May of 2026, widening from the BRL 125.9 billion in the corresponding period of the previous year. The result was higher than expectations of a BRL 148.3 billion, the sharpest on record for the month. The deficit of the federal government rose to BRL 55.2 billion in the year. Despite the wider budget shortfall, the deficit remained relatively stable as a shar of the Brazilian GDP at 9.6%. The higher level of public spending was aligned with common patterns in election years in the country. The Brazilian central bank has hinted that elevated deficit spending by the central government, especially direct cash welfare transfers, is among the main culprits of stubborn inflationary pressures. Brazil has among the highest real interest rates in the world.
-
----
-
-### 2026-06-30 20:06:02  #Trading Economics #Economy #Germany #Inflation Rate #Importance 2
-
-German Inflation Unexpectedly Slows in June — Germany’s consumer price inflation eased to 2.3% year-over-year in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%, according to preliminary data. This is the lowest rate since February, prior to the Iran war disrupting energy supplies and driving oil prices higher. Goods inflation fell to 1.7% from 2.2%, driven by easing energy price pressures (3.4% vs. 6.6%). Food inflation and services inflation remained steady at 0.4% and 3.1%, respectively, while core inflation, excluding food and energy, held at 2.5%. The EU-harmonized annual inflation rate also slowed to 2.4% from 2.7%, below expectations of 2.6% but still slightly above the ECB’s 2% target.
-
----
-
-### 2026-06-30 19:47:50  #Trading Economics #Economy #Morocco #GDP Annual Growth Rate #Importance 0
-
-Morocco GDP Grows 4.6% YoY in Q1 — Morocco’s economy expanded by 4.6% year-on-year in Q1 2026, up from 4.1% in the previous quarter. The primary sector posted strong growth of 17.3%, driven by an 18.4% increase in agriculture, while fishing declined by 1.9%. The services sector also expanded (4.3%), supported mainly by financial and insurance activities (7.6%) and transportation and storage (4.8%). By contrast, the secondary sector contracted by 1.0%, weighed down by declines in electricity and water (-3.4%), mining (-3.2%), and manufacturing (-1.3%). On the expenditure side, domestic demand rose by 6.5%, driven by household consumption (4.6%), government spending (4.9%), and investment (10.8%). Imports increased by 12.7%, while exports rose at a slower pace of 9.2%.
-
----
-
-### 2026-06-30 19:47:45  #Trading Economics #Economy #Senegal #GDP Annual Growth Rate #Importance 1
-
-Senegal Economy Continues to Strengthen — The economy of Senegal advanced by 5.8% year-on-year in Q1 2026, the most since Q2 2025, following a 4.2% growth in the previous period. The expansion was mainly driven by strong performance in the secondary sector (+8.6%), followed by the primary sector (+5.7%), the tertiary sector (+5.2%), and, to a lesser extent, net taxes on goods and services (+1.6%). Excluding hydrocarbons, GDP rose by 4.7%. From a demand perspective, growth was mainly supported by higher exports (+8.2%) and final consumption (+4.9%). However, gross fixed capital formation declined by 7.5%. On a seasonally adjusted quarterly basis, the GDP rose by 1.2%.
-
----
-
-### 2026-06-30 19:44:22  #Trading Economics #Markets #France #stocks #Importance 1
-
-Safran Stock Price Hits 17-week High — Safran shares increased to 345.70 EUR, the highest since February 2026. Over the past 4 weeks, Safran gained 16.26%, and in the last 12 months, it increased 30.35%.
 
 ---

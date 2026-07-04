@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 06:06:43_
-_本檔包含 3029 則快訊，約 505944 字_
+_更新時間：2026-07-05 07:10:33_
+_本檔包含 3024 則快訊，約 506163 字_
+
+---
+
+### 2026-07-02 15:17:50  #市場 #國際
+
+【荷蘭合作銀行：日元突然拉昇令市場情緒更加緊張】荷蘭合作銀行稱，在週五美國假期之前，投資者對日元走勢忐忑不安。針對日元突然拉昇，駐倫敦外匯策略主管Jane Foley表示“目前尚不清楚這是否是財務省的價格檢查”“不過，市場將會非常緊張，因為大家都在談論明天假日期間可能會出現的‘突擊’干預”。“不管怎樣，考慮到財務省若在美元兌日元回落過程中出手干預，能夠以更少的成本撬動更大的匯率影響，因此當前這波走勢很可能會讓市場更加警惕日本當局的干預匯市風險”。
+
+---
+
+### 2026-07-02 15:17:31  #Trading Economics #Economy #Spain #Tourist Arrivals #Importance 1
+
+Spain Tourist Arrivals Hit Peak For May — Spain received about 10.3 million international visitors during May 2026, 9.5% more than in May 2025 and setting a new record for the month. The United Kingdom retained its position as the leading country of residence, with almost 2.2 million tourists (+6.1%). France (+11.1%) and Germany (+9.0%) each contributed around 1.3 million tourists. Nearly 5.4 million tourists stayed for four to seven nights, making it the most common length of stay and representing a 14.1% increase compared with the same month of the previous year. The number of day-trippers rose by 2.7%, while that of tourists staying for more than 15 nights decreased by 3.7%. Catalonia was the top tourist destination, receiving 21.1% of all tourists, a 13.1% increase compared with May 2025. It was followed by the Balearic Islands, with a 20.6% share of total arrivals, up 5.2%, and Andalusia, accounting for 15.9% of tourists, up 12.7%. Year-to-date, the number of tourists increased by 5.0% and exceeded 36.8 million.
+
+---
+
+### 2026-07-02 15:17:04  #MKT News
+
+【China calls TAKAICHI's 'free and open Indo‑Pacific' rhetoric hollow】China's Foreign Ministry on July 2 said Japanese premier TAKAICHI's repeated promotion of a 'free and open Indo‑Pacific' is name‑only, accusing the rhetoric of masking intentions of confrontation. Spokesman Guo Jiakun noted Japanese officials have been lobbying in the Philippines, Vietnam, Australia and India and said the concept runs counter to regional states' pursuit of peace, development and cooperation and will not gain genuine support.
+
+---
+
+### 2026-07-02 15:16:58  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY
+
+【Gold rebounds as dollar softens; next move awaits US nonfarm payrolls】Gold hit a daily high in European trade and extended a steady rebound after a modest dollar pullback, but remains capped inside the prior session's range as elevated Fed rate-hike expectations and geopolitical risk support the dollar. Traders are sidelined ahead of US nonfarm payrolls. CME FedWatch prices about a 64% chance of a September Fed hike and roughly an 85% chance of at least one hike by year-end. Fed chair Kevin Warsh reinforced the 2% inflation target in remarks Wednesday. Technically, gold trades below the 100-period moving average, reinforcing a near-term bearish bias.
 
 ---
 
@@ -18184,59 +18208,5 @@ Challenger, a U.S. job-data firm, said employers announced 443,604 layoffs throu
 ### 2026-07-01 17:38:01  #Trading Economics #Economy #Pakistan #Inflation Rate #Importance 1
 
 Pakistan Inflation Rate Slows — Pakistan's annual inflation rate eased to 11.0% in June 2026 from 11.7% in May, remaining well above the State Bank of Pakistan's 5%-7% target range. Food inflation accelerated to 9.4% from 6.8%, reaching its highest level since April 2024. Meanwhile, inflation eased for housing and utilities (15.5% vs. 16.1%) and slowed sharply for transport (25.7% vs. 39.5%). Although geopolitical tensions have eased, Pakistan remains highly dependent on imported energy, with policymakers expecting energy prices to stay elevated in the near term. On a monthly basis, consumer prices fell 0.3% in June, reversing a 0.5% increase in the previous month.
-
----
-
-### 2026-07-01 17:37:47  #公司
-
-【立霸股份：持股5%以上股東確定上海君和為受讓方，擬轉讓14%股份】立霸股份公告，公司持股5%以上股東鹽城東方投資開發集團有限公司經公開徵集、專家評審及內部決策，確定上海君和致晟私募基金合夥企業（有限合夥）為本次公開徵集轉讓的受讓方。鹽城東方集團於2026年07月01日與上海君和簽署附條件生效的《股份轉讓協議》，擬協議轉讓所持立霸股份3728.59萬股無限售條件流通股份（佔公司總股本的14.00%），轉讓價格為13.1元/股，股份轉讓價款總額為4.88億元。本次股份轉讓協議尚需鹽城東方集團的國資主管部門批准方可生效，且後續尚需上海證券交易所進行合規性確認及辦理過戶登記手續，存在不確定性。
-
----
-
-### 2026-07-01 17:37:24  #其他
-
-【重慶：整合打造以“住房消費”為核心的消費場景 推動與家居家電家裝消費聯動】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，穩定商品住房消費，深化一區（縣）一策，因地制宜最佳化住房消費支援政策，發揮增貸、減稅、公積金、購房優惠等政策整合效應，充分釋放剛性和改善性住房需求。搭建平臺，加強供需對接，組織房交會、返鄉置業等系列促銷服務活動，整合打造以“住房消費”為核心的消費場景，推動與家居家電家裝消費聯動。強化正面宣傳引導，營造良好的市場氛圍。
-
----
-
-### 2026-07-01 17:37:21  #公司 #資料 #國際
-
-【戰鬥機專案破裂後，法國達索公司稱仍對合作持開放態度】法國飛機製造商達索航空執行長Eric Trappier週三表示，在法、德、西三國聯合戰鬥機專案破裂後，公司對開展合作持開放態度，同時也未排除與非歐洲夥伴合作的可能性。Trappier是自上月德國和法國取消研發新一代戰鬥機的專案以來首次發表正式證詞。此前，達索航空與其主要合作伙伴空中客車公司之間爆發了產業分歧，導致專案擱淺。他在法國參議院的一個委員會上表示：“我們有能力合作，過去也曾證明過這一點，但我們希望在各方從一開始就認可的規則下進行合作。”
-
----
-
-### 2026-07-01 17:37:13  #MKT News #Market Regions #Europe & UK
-
-【Dassault Aviation open to partnerships after trilateral fighter program collapses】Dassault Aviation CEO Eric Trappier told a French Senate committee on Wednesday the company remains open to cooperation after the collapse of the France-Germany-Spain next‑generation fighter project. Trappier, speaking in his first formal remarks since France and Germany cancelled development last month, said he would not rule out working with non‑European partners. He said an industrial dispute with main partner Airbus stalled the programme and added: “We have the ability to cooperate, as proven in the past, but we want cooperation under rules agreed from the outset.”
-
----
-
-### 2026-07-01 17:36:48  #央行 #國際
-
-【瑞銀：沃什時代首秀偏鷹 但年內加息預期或過度】瑞銀在最新報告中指出，美聯儲主席凱文·沃什上任後的首次議息會議釋放出明顯鷹派訊號，但市場對年內加息的押注可能偏激進。瑞銀預計，美聯儲更可能在今年餘下時間維持聯邦基金利率在3.50%-3.75%不變，並建議投資者增配短久期和中久期優質債券，以鎖定當前較高收益率。
-
----
-
-### 2026-07-01 17:36:35  #公司
-
-【香飄飄在杭州成立食品銷售公司 註冊資本500萬】天眼查App顯示，近日，杭州蘭芳園食品銷售有限公司成立，法定代表人為蔣建琪，註冊資本500萬人民幣，經營範圍包括自動售貨機銷售、食品銷售等，由香飄飄（603711）旗下蘭芳園食品有限公司全資持股。
-
----
-
-### 2026-07-01 17:36:31  #央行 #美聯儲
-
-【瑞銀：沃什時代首秀偏鷹 但年內加息預期或過度】瑞銀在最新報告中指出，美聯儲主席凱文·沃什上任後的首次議息會議釋放出明顯鷹派訊號，但市場對年內加息的押注可能偏激進。
-
----
-
-### 2026-07-01 17:36:09  #其他
-
-【重慶：合理調控住宅用地供應總量、結構和時序 有序推進專案開工、建設和上市】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，最佳化商品住房供給。合理調控住宅用地供應總量、結構和時序，有序推進專案開工、建設和上市。最佳化支援政策，鼓勵房地產開發企業透過新建、改建等方式，增加配套更優、品質更高、空間更大的多樣化住房供給，以高品質供給引導和滿足差異化住房需求。面向老年群體、多代同住家庭、多子女家庭、小型家庭等，統籌推進適老化、適小化、個性化住宅研發，全面提升住房的適配性。鼓勵因地制宜發展避暑休閒地產。
-
----
-
-### 2026-07-01 17:35:20  #MKT News
-
-SGX will conduct quarterly reviews to determine whether additional financial instruments qualify for reduced minimum trading units.
 
 ---

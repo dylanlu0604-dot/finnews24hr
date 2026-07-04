@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 06:06:43_
-_本檔包含 2409 則快訊，約 506441 字_
+_更新時間：2026-07-05 07:10:33_
+_本檔包含 2409 則快訊，約 506210 字_
+
+---
+
+### 2026-07-05 07:08:31  #其他
+
+【姆巴佩點球破門，法國戰勝巴拉圭晉級八強】北京時間7月5日，2026美加墨世界盃1/8決賽，法國1-0戰勝巴拉圭，成功晉級八強。上半場比賽結束，雙方均無進球，比分0-0。下半場比賽，姆巴佩點球破門，法國1-0領先巴拉圭。最終，法國將優勢保持到最後，1-0戰勝巴拉圭，晉級八強。
+
+---
+
+### 2026-07-05 07:06:37  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、今年投資預計將超七萬億元 “六張網”構建現代化基礎設施體系
+2、堅定信心、接續奮鬥，不斷創造無愧於時代和人民的新業績——論學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上重要講話
+3、北京加強紅色資源保護和利用——傳播紅色文化 厚植家國情懷（牢記初心使命 奮進復興征程）
+4、中國共產黨成立105週年之際，全國大中小學生同上一堂“思政大課”知黨愛黨跟黨走
+5、圖書館裡品味書香
+6、今年我國快遞業務量已超千億件 比去年提前九天
+
+---
+
+### 2026-07-05 06:47:01  #國際
+
+【加速走向全球 今年前5個月我國機器人出口近200億元】今年以來，我國機器人出口規模持續擴大，品類結構不斷最佳化，為高階製造出海注入新動能。據海關統計，今年前5個月，國產機器人加速走向全球。各類單獨列名的機器人合計出口1037.7萬臺，出口總值達199.9億元，產品遠銷全球150多個國家和地區。其中，歐盟和東盟為主要出口目的地。
+
+---
+
+### 2026-07-05 06:37:47  #其他
+
+【金正恩觀摩“姜健”號驅逐艦戰鬥系統效能評估試驗】據朝中社5日報道，朝鮮3日進行了“姜健”號驅逐艦戰鬥系統效能評估試驗，朝鮮勞動黨總書記、國務委員長金正恩觀摩了相關試驗。據報道，按照武器系統效能評估試驗計劃，“姜健”號驅逐艦進行了戰略巡航導彈試射和艦炮及自動機關炮（槍）、電子戰手段等主要武器系統試驗。金正恩表示，朝鮮要持續大力推進維持並不斷升級戰爭遏制力和戰爭執行能力。他要求，完成“姜健”號驅逐艦的試驗程式後，兩個月之內移交海軍服役。（新華社）
+
+---
+
+### 2026-07-05 06:37:15  #國際
+
+伊朗代理國防部長：伊朗不信任美國，一旦美方違反任何諒解備忘錄，伊朗將作出決定性回應。
+
+---
+
+### 2026-07-05 06:34:52  #國際
+
+伊朗革命衛隊成員：穆傑塔巴要求參加其父在馬什哈德的葬禮，但其安保團隊出於擔心其行蹤被追蹤以及藏身之處暴露而拒絕了這一想法。
+
+---
+
+### 2026-07-05 06:23:06  #其他 #焦點
+
+【今年前5個月“新三樣”出口同比增長27.7%】據青島海關統計，作為全國綠色低碳高質量發展先行區，今年前5個月，山東綠色低碳高質量發展先行區“新三樣”出口61.1億元，同比增長27.7%。其中，電動汽車、鋰離子蓄電池、光伏產品分別出口37億元、13億元、11.1億元，同比分別增長16%、28.8%、89.3%。
+
+---
+
+### 2026-07-05 06:16:17  #MKT News
+
+【Israeli strikes in northern and central Gaza kill two Palestinians】State media reported two Palestinians were killed by Israeli drone strikes in Gaza City and the Jabalia refugee camp. Multiple strikes across northern and central Gaza wounded several others, some seriously.
+
+---
+
+### 2026-07-05 06:14:56  #MKT News
+
+【New Jersey reports at least 19 suspected heat-related deaths since July 2, health commissioner says】New Jersey Health Commissioner Renard Washington said the state has reported at least 19 suspected heat-related deaths since July 2. Victims’ ages and locations varied; many were found in homes without air conditioning and several were discovered outdoors, on streets or in parked vehicles. Washington said the fatalities are not limited to the elderly and that heat-related emergency visits have risen this week. He urged residents to stay hydrated, seek cooling and avoid prolonged outdoor exposure.
+
+---
+
+### 2026-07-05 06:14:38  #焦點 #國際
+
+【美國新澤西州報告19起“疑似高溫相關”死亡病例】當地時間7月4日，美國新澤西州衛生廳廳長雷納德·華盛頓表示，自7月2日以來，該州已報告至少19起“疑似高溫相關”死亡病例。雷納德·華盛頓稱，死者年齡和所處環境各不相同，其中許多人被發現時身處沒有空調的家中，也有少數人在住所外、街頭或停放的車輛內被發現。他強調，死者並非只有老年人，也包括較年輕的成年人。雷納德·華盛頓還表示，本週以來，新澤西州因高溫相關疾病就醫的人數也出現上升。他呼籲居民保持補水、避暑，避免長時間待在戶外。（央視新聞）
+
+---
+
+### 2026-07-05 06:10:17  #國際
+
+以色列襲擊加沙北部和中部造成兩人死亡。
+
+---
+
+### 2026-07-05 06:06:48  #公司
+
+英國考慮強制海外公司披露遊說活動。
 
 ---
 
@@ -14450,77 +14528,5 @@ Copper Rises as Rate-Hike Expectations Ease — Copper futures climbed toward $6
 ### 2026-07-03 11:36:50  #公司
 
 【湖南省金芙蓉智慧衡器計量及智慧製造產業基金成立】企查查APP顯示，近日，湖南省金芙蓉智慧衡器計量及智慧製造產業基金合夥企業（有限合夥）成立，出資額約7.89億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由湖南省金芙蓉產業引導基金合夥企業（有限合夥）、浙江天澄新能源開發有限公司、曼恩斯特(301325)全資子公司深圳市曼恩斯特創投管理有限公司等共同持股。
-
----
-
-### 2026-07-03 11:36:29  #其他
-
-澳大利亞證券投資委員會還責令澳交所支付300萬澳元，以承擔ASIC的部分費用。
-
----
-
-### 2026-07-03 11:35:58  #其他
-
-澳大利亞證券投資委員會(ASIC) ：澳交所因CHESS替代專案相關誤導行為被責令支付2050萬澳元罰款。
-
----
-
-### 2026-07-03 11:35:24  #公司
-
-【快手：6月共處置“AI魔改”違規內容1908條】7月3日，快手安全中心釋出最新一期關於“AI魔改”影片專項治理公告：6月，平臺共處置“AI魔改”違規內容1908條，主要治理違規型別為：對經典動畫片《葫蘆兄弟》《熊出沒》進行歪曲人物形象或篡改故事情節的不當改編，平臺已下線相關違規內容；對經典作品《西遊記》中經典角色進行違背原著人物形象、傳遞不良價值觀的不當改編，平臺已下線相關違規內容。
-
----
-
-### 2026-07-03 11:34:21  #公司
-
-【藍思科技：玻璃基板相關業務還未產生收入，未來存在不確定性】藍思科技7月3日在互動平臺表示，公司在玻璃基板相關業務還未產生收入，未來存在不確定性，請投資者注意風險。
-
----
-
-### 2026-07-03 11:32:24  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 gained 1.00% intraday after earlier sliding more than 1%.
-
----
-
-### 2026-07-03 11:32:18  #其他
-
-日經225指數日內漲幅達1.00%，此前一度跌超1%。
-
----
-
-### 2026-07-03 11:32:07  #公司 #市場 #焦點
-
-【午評：創業板指半日漲1.58%，機器人概念股集體爆發】市場早間震盪走強，三大指數集體上揚。機器人概念股全線爆發，中大力德、北緯科技、晉拓股份等近20股封漲停板。貴金屬板塊延續漲勢，赤峰黃金、招金黃金均2連板。軍工板塊拉昇，甘化科工、鋮昌科技等漲停。算力硬體股反彈，深南電路、景旺電子、中國巨石等漲停。下跌方面，半導體板塊調整，氣派科技跌超18%。個股漲多跌少，滬深京三市超3400股飄紅，上午半天成交2.07萬億。午間收盤滬指漲0.69%，深成指漲1.39%，創業板漲1.58%。
-
----
-
-### 2026-07-03 11:31:33  #其他
-
-【中國氣象局升級調整重大氣象災害應急響應為三級】7月3日11時，中國氣象局升級調整重大氣象災害（颱風、暴雨、強對流）四級應急響應為（颱風、暴雨、強對流）三級應急響應。中央氣象臺7月3日10時釋出颱風黃色預警：今年第10號颱風“美莎克”（熱帶風暴級）的中心今天上午10點鐘位於海南省陵水縣偏南約145公里的南海中西部海面，中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑90至110公里。預計，“美莎克”將以每小時10公里至15公里的速度向西北方向移動，強度還將有所加強，即將於3日下午在海南陵水到樂東一帶沿海登陸（23至25米/秒，9至10級，熱帶風暴級或強熱帶風暴級），穿過海南島後移入北部灣，並將於4日晚上在廣西和越南北部交界附近沿海再次登陸（20至23米/秒，8至9級，熱帶風暴級），以後強度逐漸減弱。
-
----
-
-### 2026-07-03 11:31:33  #MKT News #Brent #Impact bullish #WTI
-
-【Russia moves to stabilize domestic fuel supply】Deputy Prime Minister Novak has ordered agencies and energy firms to draft measures to stabilize supply in Russia’s hardest-hit regions, TASS reported on the 2nd. Novak said Russia has ample fuel stocks to meet domestic demand but panic buying has lifted demand by about 20–30%. Local shortages at some filling stations reflect refiners redirecting deliveries to specific depots and stations; re-routing logistics will take time. To secure domestic supply, Novak said Moscow could introduce a short-term diesel export ban.
-
----
-
-### 2026-07-03 11:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Equity index futures morning session close】CSI 300 index futures (IF) front contract rose 1.14% at the morning close; SSE 50 futures (IH) up 0.73%; CSI 500 futures (IC) up 0.60%; CSI 1000 futures (IM) up 0.16%.
-
----
-
-### 2026-07-03 11:31:14  #宏觀 #國際
-
-【俄羅斯採取措施穩定國內燃料供應】俄羅斯副總理諾瓦克日前指示俄相關部門和企業制定具體措施，以穩定燃料供應形勢最嚴峻地區的供應。塔斯社2日報道，諾瓦克表示，俄擁有充足的燃料儲備，可滿足國內市場需求，但搶購潮導致需求增加20%至30%。個別加油站油品短缺，是煉油廠向特定油庫和加油站配送物流調整所致，重新調整物流系統需要時間。他還表示，為保障國內供應，俄或將出臺短期柴油出口禁令。俄總統普京日前在一場有關俄國內燃料供應情況的會議上說，必須最大限度減少烏克蘭襲擊對俄民用設施和基礎設施造成的後果。普京說，當前俄大型煉油廠已滿負荷運轉，同時充分挖掘了中小企業的潛力。預計7月份的初級燃料產量將超過6月份。為保護國內消費者利益，俄已暫時禁止出口汽油和部分燃料，正考慮全面禁止出口柴油。（新華社）
-
----
-
-### 2026-07-03 11:31:11  #MKT News #Macro & Rates #Treasury Yields
-
-【China government bond futures morning close】2-year government bond futures (TS) most-active contract rose 0.01%; 5-year (TF) rose 0.01%; 10-year (T) fell 0.01%; 30-year (TL) fell 0.11% at the morning close.
 
 ---
