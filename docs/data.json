@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-06 06:34:06",
-  "count": 13094,
+  "updated": "2026-07-06 06:37:58",
+  "count": 13095,
   "items": [
+    {
+      "id": "mkt:019f346a-c7d8-7aab-8ca5-944179741612",
+      "time": "2026-07-06 06:34:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Republican Rep. Nancy Mace said she will introduce a bill to bar immigration from Somalia, South Sudan and Sudan."
+    },
     {
       "id": "mkt:019f346a-63d0-7aab-8ca5-8d79c528b419",
       "time": "2026-07-06 06:33:35",
