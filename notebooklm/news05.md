@@ -1,7 +1,391 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 22:05:11_
-_本檔包含 2472 則快訊，約 504525 字_
+_更新時間：2026-07-05 23:33:51_
+_本檔包含 2504 則快訊，約 505974 字_
+
+---
+
+### 2026-07-01 03:01:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.63% at 22,990, a 109-point premium to the spot index.
+
+---
+
+### 2026-07-01 03:00:56  #央行 #其他
+
+巴西央行官員莫雷蒂：我們正在討論逐步退出（刺激措施），將在適當時機採取這些步驟。
+
+---
+
+### 2026-07-01 03:00:46  #其他
+
+內塔尼亞胡：多項和平協議已提上議事日程。
+
+---
+
+### 2026-07-01 03:00:17  #MKT News
+
+Israeli Prime Minister NETANYAHU said additional peace agreements are on the agenda and are progressing.
+
+---
+
+### 2026-07-01 03:00:05  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Ghalibaf said Iran, the US and Lebanon will form a joint committee to advance Lebanese sovereignty and implement a ceasefire; Iran's foreign envoys will participate in the mechanism.
+
+---
+
+### 2026-07-01 03:00:01  #市場
+
+恒指期貨夜盤收漲0.65%，報22994.73點，高水113.71點。
+
+---
+
+### 2026-07-01 02:59:39  #國際
+
+【伊朗議會議長：伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾】伊朗議會議長卡利巴夫表示，伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾，其中包括磋商落實備忘錄第13條相關事宜。卡利巴夫稱：“巴基斯坦總理宣佈停戰、特朗普發文稱美方解除海上封鎖，均是這份諒解備忘錄取得的重大成果。”他表示：“我方正跟進磋商程序，推動諒解備忘錄第13條落地執行。”卡利巴夫補充道：“在落實停戰相關安排的過程中，雙方必然會出現分歧。”備忘錄第13條規定：本諒解備忘錄簽署後，在備忘錄第1、4、5、10、11款相關舉措啟動並持續推進的前提下，美伊兩國方可啟動僅圍繞剩餘條款展開的最終協議談判。
+
+---
+
+### 2026-07-01 02:59:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Ghalibaf said television media stresses that attacks on Lebanon are not a problem, but should also recount previous wars and note that Iran has paid more than 4,000 martyrs.
+
+---
+
+### 2026-07-01 02:58:43  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brazil's finance minister said Brent crude has eased from the most intense phase of the war but remains above pre-war levels. From July, Brazil will remove a diesel subsidy of 0.35 reais per liter.
+
+---
+
+### 2026-07-01 02:57:52  #宏觀
+
+巴西財政部長：自7月起，我們將取消每升柴油0.35雷亞爾分的補貼。
+
+---
+
+### 2026-07-01 02:57:20  #宏觀 #市場
+
+巴西財政部長：布倫特原油價格尚未回落至戰前水平，但已從衝突最劇烈時期大幅下跌。
+
+---
+
+### 2026-07-01 02:56:35  #MKT News
+
+Brazil's finance minister said the government is evaluating whether to remove additional subsidies for diesel and gasoline.
+
+---
+
+### 2026-07-01 02:56:31  #宏觀
+
+巴西財政部長：我們目前正在評估終止其他柴油和汽油補貼的可能性。
+
+---
+
+### 2026-07-01 02:56:01  #MKT News
+
+Brazil's finance minister said the government is committed not to sustain artificially maintained price levels.
+
+---
+
+### 2026-07-01 02:55:09  #MKT News
+
+Iranian parliament speaker Ghalibaf called the agreement "a document of failure for the US and Israel".
+
+---
+
+### 2026-07-01 02:54:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian parliament speaker Ghalibaf said Israel strongly opposes the agreement and has been trying to sabotage it wherever possible.
+
+---
+
+### 2026-07-01 02:54:18  #宏觀
+
+巴西財政部長：我們承諾不再維持（柴油）人為定價。
+
+---
+
+### 2026-07-01 02:53:56  #國際
+
+伊朗首席談判代表卡利巴夫：倘若美方拒絕履行此前磋商達成的內容，我方也已做好應對戰爭的準備。
+
+---
+
+### 2026-07-01 02:53:35  #MKT News
+
+Brazil's finance minister said the government will announce the removal of diesel subsidies.
+
+---
+
+### 2026-07-01 02:53:20  #國際
+
+【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及媒體報道，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據報道，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（新華社）
+
+---
+
+### 2026-07-01 02:53:19  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish
+
+【Russia orders temporary closure of northwest border crossings with Latvia, Finland, Estonia】Prime Minister Mikhail Mishustin signed a government order on June 30 to temporarily suspend, from July 1, passage of people, vehicles, goods and cargo at a series of border crossings with Latvia, Finland and Estonia. The foreign ministry will notify the three governments on July 1. The order did not state a reason for the closures.
+
+---
+
+### 2026-07-01 02:52:07  #國際
+
+【俄下令臨時關閉連通拉脫維亞等三國的多個鐵路口岸】俄羅斯政府30日下令，從7月1日起臨時關閉俄羅斯與拉脫維亞、芬蘭和愛沙尼亞三國接壤的多個鐵路口岸。
+
+---
+
+### 2026-07-01 02:52:01  #MKT News
+
+Iran's parliament speaker Ghalibaf said negotiations are ongoing, but if the other side fails to honour the agreement, Iran is prepared to respond and to confront war.
+
+---
+
+### 2026-07-01 02:51:51  #國際
+
+伊朗首席談判代表卡利巴夫表示，伊朗致力於保障霍爾木茲海峽航運通行依照伊朗方面的相關安排開展。
+
+---
+
+### 2026-07-01 02:50:51  #MKT News #WTI #Impact mixed #Brent
+
+Iran parliament speaker Ghalibaf said current negotiations aim to secure five conditions that must be implemented immediately or have their implementation processes initiated.
+
+---
+
+### 2026-07-01 02:50:34  #宏觀
+
+巴西財政部長：我們將宣佈取消柴油補貼。
+
+---
+
+### 2026-07-01 02:50:16  #MKT News #WTI #Impact bullish #Brent
+
+Iranian parliament speaker Ghalibaf said Iran is committed to ensuring passage through the Strait of Hormuz occurs under arrangements set by Iran.
+
+---
+
+### 2026-07-01 02:48:15  #市場 #國際
+
+【瑞穗銀行：若當局不出手干預 日元兌美元料跌至170區間】瑞穗銀行策略師表示，除非當局出手支撐日元，否則日元兌美元的匯率可能會跌向170區間。“我們必須回顧1986年，尋找需要考慮的潛在障礙，”瑞穗的Jordan Rochester和Masayuki Nakajima週二在一份研究報告中寫道，並提及1986年11月5日164.50的水平。“在觸及這一水平之前，幾乎沒有重要阻力。若超出這一水平，如果當局不出手干預，之後匯率可能進一步跌向170區間”。日元週一跌至40年低點，促使交易員揣測日本出手干預的下一道紅線在哪裡。
+
+---
+
+### 2026-07-01 02:47:17  #市場
+
+布倫特原油期貨收於每桶72.92美元，下跌23美分，跌幅0.31%。
+
+---
+
+### 2026-07-01 02:47:14  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude futures settled at $72.92/bbl, down $0.23 or 0.31%.
+
+---
+
+### 2026-07-01 02:47:11  #焦點 #國際
+
+伊朗首席談判代表卡利巴夫表示，除非備忘錄規定的條件得到滿足，否則伊朗不會開啟進一步談判。
+
+---
+
+### 2026-07-01 02:46:38  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+US crude oil futures settled at $69.50 per barrel, down $1.25 or 1.77%.
+
+---
+
+### 2026-07-01 02:46:20  #國際
+
+【埃及南部翻車事故致至少9名兒童死亡】埃及南部艾斯尤特省一輛機動三輪車30日墜入水渠，造成車上至少9名兒童死亡，另有2人受傷。 據艾斯尤特省政府當日釋出的宣告，事故發生後，相關部門赴現場處置。該省省長穆罕默德·阿勒萬在現場督導搜救工作，責令在水渠兩側加裝混凝土護欄及增設其他防護設施，以防範類似事故再次發生。（新華社）
+
+---
+
+### 2026-07-01 02:46:11  #公司 #國際
+
+美國國家航空航天局局長賈裡德·艾薩克曼宣佈：NASA已根據月球基地計劃，向天體機器人公司、螢火蟲航空航天公司與直覺機器公司授予無人月球著陸器合同。
+
+---
+
+### 2026-07-01 02:45:17  #焦點 #國際
+
+伊朗首席談判代表卡里巴夫表示，伊朗目前舉行的會談旨在履行備忘錄承諾。
+
+---
+
+### 2026-07-01 02:45:00  #MKT News #Macro & Rates
+
+The Central Bank of the Dominican Republic left its benchmark policy rate unchanged at 5.25%.
+
+---
+
+### 2026-07-01 02:44:40  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Amazon #AMZN.O #Impact bullish
+
+Amazon Web Services (AWS) said ANTHROPIC's newly launched Claude Sonnet 5 model is now available on Amazon Bedrock and the Claude platform on AWS.
+
+---
+
+### 2026-07-01 02:44:19  #公司
+
+亞馬遜雲科技（AWS）：Anthropic的Claude Sonnet 5現已在Amazon Bedrock與AWS的Claude平臺上線可用。
+
+---
+
+### 2026-07-01 02:43:43  #其他
+
+多明尼加共和國維持基準利率5.25%。
+
+---
+
+### 2026-07-01 02:42:55  #其他
+
+千禧管理最新一輪募資目標至少100億美元。
+
+---
+
+### 2026-07-01 02:42:33  #國際
+
+美國法官駁回愛彼迎要求撤銷洛杉磯訴訟的申請，該訴訟指控愛彼迎在2025年山火後哄抬物價。
+
+---
+
+### 2026-07-01 02:42:23  #國際
+
+伊朗塔斯尼姆通訊社：以色列軍方在黎巴嫩南部實施爆破行動。
+
+---
+
+### 2026-07-01 02:42:01  #MKT News
+
+TASNIM News cites sources saying Israeli forces carried out an explosive attack in southern Lebanon.
+
+---
+
+### 2026-07-01 02:39:59  #MKT News
+
+Iraq's prime minister: We will not accept directives from abroad, whether from the East or the West.
+
+---
+
+### 2026-07-01 02:39:45  #MKT News #Brent
+
+Iraq's prime minister said there is no evidence that recent attacks on Gulf states originated in Iraq.
+
+---
+
+### 2026-07-01 02:34:47  #MKT News
+
+Colombia's central bank governor said the technical team's forecast shows inflation may reach about 4% by end-2027, with a return to the 3% target expected in 2028.
+
+---
+
+### 2026-07-01 02:34:21  #國際
+
+以色列中部傳來巨大爆炸聲。
+
+---
+
+### 2026-07-01 02:34:06  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Market sources report a large explosion heard in central Israel.
+
+---
+
+### 2026-07-01 02:33:28  #央行 #其他
+
+哥倫比亞央行行長比利亞爾表示，通脹率將在2028年回落至3%的目標水平。
+
+---
+
+### 2026-07-01 02:33:26  #央行 #其他
+
+哥倫比亞央行行長比利亞爾表示，技術團隊的預測顯示，到2027年底通脹率有望達到約4%。
+
+---
+
+### 2026-07-01 02:32:03  #MKT News #WTI #Impact bearish
+
+U.S. crude futures settled at $69.50/bbl, down $1.25 or 1.77%.
+
+---
+
+### 2026-07-01 02:31:36  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish
+
+【Night-session main contracts close】At the 02:30 China night-session close, Shanghai gold most-active contract rose 0.80% to 882 yuan/gram; Shanghai silver most-active contract rose 3.43% to 14,578 yuan/kg; Shanghai crude (SC) most-active contract fell 1.17% to 457 yuan/barrel.
+
+---
+
+### 2026-07-01 02:31:02  #市場 #國際
+
+美國原油期貨收於每桶69.50美元，下跌1.25美元，跌幅1.77%。
+
+---
+
+### 2026-07-01 02:30:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 1.1% at 880.4 yuan/gram in the evening session on June 30. Silver T+D closed up 3.72% at 14,545 yuan/kg.
+
+---
+
+### 2026-07-01 02:30:02  #市場
+
+上期所原油期貨夜盤收跌1.17%，報456.70元人民幣/桶。滬金夜盤收漲0.80%，滬銀收漲3.43%。
+
+---
+
+### 2026-07-01 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Drops by 2.87% — Top crypto losers are Bitcoin (-2.87%), Binance (-2.39%) and Ether (-2.23%).
+
+---
+
+### 2026-07-01 02:25:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Soars by 8.77% — Top commodity gainers are Coffee (8.77%) and Corn (2.58%). Biggest losers are Rice (-2.89%), Rapeseed (-1.42%) and Canola (-1.17%).
+
+---
+
+### 2026-07-01 02:24:51  #國際
+
+在美國態度猶豫且北約成員國防務開支普遍不足的情況下，北約下屆峰會能否在阿爾巴尼亞舉行存疑。
+
+---
+
+### 2026-07-01 02:24:07  #MKT News
+
+Qatar's Foreign Ministry said technical-level contacts between the US and Iran continue, but high-level talks have not resumed.
+
+---
+
+### 2026-07-01 02:24:04  #國際
+
+美國副總統萬斯談及伊朗談判：後續還有諸多博弈。值得慶幸的是，本屆政府、總統始終在想方設法為美國民眾爭取優勢。
+
+---
+
+### 2026-07-01 02:21:43  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude futures fell 2.0% intraday to $69.33/bbl.
+
+---
+
+### 2026-07-01 02:21:32  #市場
+
+WTI原油日內跌2%，現報69.33美元/桶。
+
+---
+
+### 2026-07-01 02:20:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Silver (2.38%), Copper (1.59%) and Gold (0.39%). Biggest losers are Titanium (-2.06%) and Platinum (-1.70%).
+
+---
+
+### 2026-07-01 02:19:29  #MKT News #Market Regions #Europe & UK #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish
+
+【ECB policymaker Dolenc: no rush to hike if energy markets stay calm】ECB policymaker Dolenc said if Middle East tensions do not escalate before the next policy decision and energy prices remain stable, the ECB could keep rates unchanged at the next meeting. Speaking at the Sintra Forum, he said a pause in tightening is reasonable if energy prices hold, commodity volatility does not spread and second‑round inflation effects do not materialize. Oil and gas remaining subdued would remove the need to rush further tightening, he added, and based on current data it may be appropriate to wait until before September. He cautioned there are still weeks to the next decision and geopolitical risk remains elevated after a recent uptick in hostilities.
 
 ---
 
@@ -14672,197 +15056,5 @@ Lebanon's parliament speaker reiterated the need to avoid conflict and said he w
 ### 2026-06-28 23:38:46  #其他
 
 【體操亞錦賽中國隊單日斬獲兩金】第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽女子單項決賽28日在貴州省遵義市奧體中心收官。中國隊張清穎奪得成年組平衡木冠軍，張怡涵榮獲成年組自由體操冠軍，陳紫嫣勇奪青年組平衡木冠軍。
-
----
-
-### 2026-06-28 23:33:09  #公司
-
-【物理AI第一股Momenta明日啟動招股，賓士、比亞迪等現身基石名單】6月28日晚間訊息，全球領先的物理AI公司Momenta將於6月29日披露全球發售檔案，正式啟動招股，成為“物理AI第一股”。新浪科技獲得的資訊顯示，Momenta基石席位空前火爆，陣容豪華，包括國際頂級長線基金及主權基金、頂級戰略投資人和中資頂級資本。新加坡政府投資公司、富達國際、貝萊德、橡樹資本、梅賽德斯-賓士、比亞迪、高毅等現身基石名單。訊息人士透露，本次新加坡政府投資公司（GIC）和富達國際兩家基金強勢領投，GIC近年重倉Anthropic與臺積電，富達國際此前重倉中際旭創、寒武紀等AI龍頭，意味著Momenta正成為物理AI規模化落地的“資本錨點”。梅賽德斯-賓士和比亞迪既是Momenta的老股東，也是深度合作伙伴，此次作為基石繼續加碼投資，帶來產業端的資本與訂單雙重護航，意味著雙方的合作護城河進一步加深。此前，Momenta於6月23日在港交所刊發聆訊後資料集（PHIP），透過港交所聆訊，正式進入IPO衝刺階段。招股書顯示，Momenta近三年營收規模實現跨越式增長：2023年至2025年，Momenta營業收入從7.43億元增長至24.13億元，三年翻三倍，年均複合增長率超80%。截至2025年底，公司現金儲備超100億元。（新浪科技）
-
----
-
-### 2026-06-28 23:24:14  #其他
-
-【德國連續三天重新整理本國最高氣溫紀錄】根據德國氣象局當地時間6月28日釋出的初步資料，當天下午4時左右，德國勃蘭登堡州的科申氣象站測得41.7攝氏度高溫。這是德國連續第三天重新整理最高氣溫紀錄。此前，德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，27日在東部默肯-德雷維茨地區測得41.5攝氏度高溫。（央視新聞）
-
----
-
-### 2026-06-28 23:24:11  #MKT News
-
-【Germany registers highest temperatures for third consecutive day】Preliminary data from the German Weather Service (DWD) show a Brandenburg weather station recorded 41.7°C at about 16:00 local time on June 28, marking the third straight day of national high-temperature records. DWD recorded 41.3°C in Saarbrücken on June 26 and 41.5°C in Merken-Drewitz on June 27.
-
----
-
-### 2026-06-28 23:23:17  #MKT News
-
-【Croatia issues nationwide heat warnings】On the 28th, the Croatian National Hydrometeorological Service issued red heat warnings for four regions and orange warnings for other parts of the country. Forecasts show daytime highs reaching up to 39°C in some areas.
-
----
-
-### 2026-06-28 23:22:13  #國際
-
-美國獨立議員伯尼·桑德斯：如今美國民眾承受著巨大的生活壓力。大家知道壓力會帶來什麼後果嗎？壓力足以奪走人的生命。如果每天都要拼盡全力才能勉強維持一家生計，身心都會遭受嚴重損耗。現實情況是，工薪家庭、低收入人群的預期壽命遠達不到應有水平——足足少了六年。他們的平均壽命比富人短六年。大家明白我這話的分量嗎？換句話說，在美國，身為工薪階層等同於被判了縮短壽命的重刑。人們拼盡全力只為活下去，身心卻都在不斷被透支、摧垮。
-
----
-
-### 2026-06-28 23:19:41  #其他
-
-【克羅埃西亞全國高溫預警】克羅埃西亞國家水文氣象局28日釋出了針對4個地區的紅色高溫預警，並針對該國其他地區釋出了橙色高溫預警。根據氣象預報，一些地區的日間最高氣溫將達到39攝氏度。克羅埃西亞國家水文氣象局網站上釋出的資訊顯示，沿海的裡耶卡、斯普利特和杜布羅夫尼克等3個地區以及內陸的首都薩格勒布處於紅色高溫預警狀態，該國其他地區則處於橙色高溫預警狀態。
-
----
-
-### 2026-06-28 23:19:27  #國際
-
-【日本媒體人：警惕日本再次成為戰爭加害國】長期追蹤和批評日本軍事擴張、日美軍事一體化等問題的日本媒體人吉田敏浩28日表示，日美軍事同盟長期以來將和平憲法掏空，而日本政府不僅未能糾正這一趨勢，反而持續推進軍事擴張，這最終或導致日本再次成為戰爭加害國。（新華社）
-
----
-
-### 2026-06-28 23:14:00  #其他
-
-委內瑞拉地震已救出33人，仍有數千人下落不明。
-
----
-
-### 2026-06-28 23:10:58  #央行 #國際
-
-美國總統特朗普即將迎來美國最高法院的裁決結果，法院將判定他兩項最大膽的政策博弈舉措是否合法：一是罷免一名美聯儲理事，二是廢除自動落地公民權制度。
-
----
-
-### 2026-06-28 23:09:25  #國際
-
-以色列總理內塔尼亞胡談及土耳其：埃爾多安幾乎每天都在叫囂要摧毀以色列。我們十分嚴肅地看待這類言論，因為從本民族的歷史中我們學到一個道理，倘若有人揚言要消滅你，就必須認真對待。我們重視這些表態，同時也會將相關情況告知美方盟友，絕不會置之不理。
-
----
-
-### 2026-06-28 23:08:43  #MKT News
-
-The office of Lebanon's parliament speaker said Iran's parliament speaker Ghalibaf assured that Tehran will, under a memorandum of understanding, press Israel to stop launching military operations against Lebanon.
-
----
-
-### 2026-06-28 23:08:30  #國際
-
-黎巴嫩議長辦公室：黎巴嫩國民議會議長貝里與伊朗議會議長卡利巴夫就以色列襲擊黎巴嫩南部、違反伊美諒解備忘錄相關事宜展開磋商。
-
----
-
-### 2026-06-28 23:07:44  #國際
-
-黎巴嫩議長辦公室：伊朗議會議長卡利巴夫保證，德黑蘭方面將依據諒解備忘錄，推動以色列停止對黎巴嫩發動戰事。
-
----
-
-### 2026-06-28 23:02:37  #其他
-
-法國南錫附近發生致命飛機事故，巴黎檢察院事故調查部門已接手該案調查。
-
----
-
-### 2026-06-28 23:01:46  #宏觀 #國際
-
-以色列財政部長：在美國、總理以及內閣決議的許可下，我將透過強化我方定居存在，徹底打消建立巴勒斯坦國的設想。我們已新建103個定居點、160處農場，完成約一百萬德南土地的合法化手續，全部具備合法依據。這才是令各方難以接受的核心癥結，而非其他事由。我正投入數十億資金，修建道路、推進土地確權，從根本上改變當地實地現狀。
-
----
-
-### 2026-06-28 22:56:41  #其他
-
-【法國過去5日死亡人數飆升，醫院緊急下單3萬臺空調】6月28日，法國國家公共衛生署釋出報告稱，過去五天每日死亡人數有所增加。自6月24日以來，該機構記錄的死亡人數比前幾個月同期增加了約1000人。6月24日，法國記錄的死亡人數（包括所有死因）超過1200人，6月25日和26日的單日死亡人數超過1400人，較4月和5月同期每天的死亡人數高出約40%。與此同時，法國衛生部長斯特凡妮·里斯特（Stéphanie Rist）在6月28日接受電視採訪時表示，有大量的法國醫院因各種原因沒有安裝空調，目前3萬臺空調訂單已經緊急下達，她預計這些空調將在“未來幾天內”到位。她還稱，熱浪尚未結束。（第一財經）
-
----
-
-### 2026-06-28 22:43:53  #其他
-
-【蘋果漲價經銷商趁火打劫】近日，蘋果因儲存短缺上調MacBook Pro售價後，經銷商開始對漲價前已全款下單的訂單追要差價。sw1000稱他6月5日全款下單一臺128GB統一記憶體的M5 Max MacBook Pro，英國經銷商KRCS隨後拒絕按原價發貨，要求補齊差價或退款，差價接近20000元。
-
----
-
-### 2026-06-28 22:38:51  #國際
-
-伊朗伊斯蘭共和國通訊社（IRNA）報道，伊朗將於週一起恢復飛往迪拜的航班。
-
----
-
-### 2026-06-28 22:36:23  #MKT News
-
-【IDF says it will continue operations in south Lebanon "security zone" under ceasefire agreement】On June 28 the Israel Defense Forces said Chief of Staff Zamir approved plans to continue military operations inside the ceasefire "security zone" in south Lebanon. He said the 36th Division and an assault brigade maintain combat control of the Beaufort Heights area and possess the tools and capabilities to degrade adversaries. Zamir called Northern Command the IDF's "main operational focus" and said forces are prepared to rapidly restart offensive operations in Lebanon and Iran if required. He described the agreement with the Lebanese government as historic and said the IDF will adhere to it, but cautioned the coming period will be a test shaped by both sides' actions.
-
----
-
-### 2026-06-28 22:35:03  #國際
-
-【以軍稱將依據停火協議繼續在黎南部“安全區”內行動】當地時間28日，以色列國防軍發表宣告稱，以軍總參謀長扎米爾當天在視察以軍北方司令部時，正式批准了根據停火協議在黎巴嫩南部“安全區”內繼續採取軍事行動的計劃。扎米爾表示，目前以軍第36師和突擊旅的部隊正維持著對博福特高地區域的作戰控制，並配備了削弱敵方所需的所有工具和能力。扎米爾稱，北方司令部轄區現在是以軍的“主要作戰重心”。以軍已做好充分準備，一旦需要，將“迅速重啟在黎巴嫩和伊朗的進攻行動”。扎米爾表示，與黎巴嫩政府簽署的協議具有歷史性和重大意義。他重申以軍將遵守協議，但強調“現在的考驗在於雙方的行動，接下來的這段時期將塑造未來”。扎米爾還表示，黎巴嫩真主黨已被嚴重削弱，其武裝人員被困在地下。以軍目前保持著對該地區的作戰控制，並處於高度戒備狀態，一旦停火協議遭到破壞，將立刻實施迅速且決定性的打擊。（央視新聞）
-
----
-
-### 2026-06-28 22:27:21  #公司
-
-【太龍藥業與江藥集團簽署合資成立營銷公司框架協議】6月28日上午，江藥集團有限公司（簡稱“江藥集團”）與河南太龍藥業股份有限公司（簡稱“太龍藥業”）在江西省南昌市舉行合資成立營銷公司框架協議簽約儀式，雙方擬透過合資成立營銷公司實現營銷體系整合、院外市場共建以及商業渠道拓展等領域進行深度合作，透過此次合作，太龍藥業的產品將更高效地接入江藥集團覆蓋全國的院外終端網路，為公司戰略落地提供強有力的渠道支撐。
-
----
-
-### 2026-06-28 22:23:34  #其他
-
-星鏈就委內瑞拉業務表態：正努力盡快為DIGITEL和MOVILNET使用者提供免費服務。
-
----
-
-### 2026-06-28 22:21:38  #其他
-
-星鏈：星鏈移動服務正為拉瓜伊拉地區的委內瑞拉Movistar使用者提供免費網路連線。
-
----
-
-### 2026-06-28 22:20:46  #國際
-
-伊朗議長卡利巴夫與黎巴嫩議長貝里一致認為，衝突監督委員會應儘快召開統一會議，推進黎巴嫩戰事收尾相關工作。
-
----
-
-### 2026-06-28 22:20:30  #國際
-
-伊朗議長卡利巴夫與黎巴嫩議長貝里通話時稱，瑞士會談已商定設立衝突監督機構，由伊朗、美國及黎巴嫩三方共同參與。
-
----
-
-### 2026-06-28 22:20:10  #國際
-
-伊朗議長卡利巴夫與黎巴嫩議長貝里通電話時表示，伊朗目標是結束黎巴嫩境內戰事、讓流離失所民眾返鄉，同時促使猶太復國主義政權撤軍，正為此付出切實努力。
-
----
-
-### 2026-06-28 22:14:39  #國際
-
-伊朗南部法爾斯省軍方公關辦公室表示，針對設拉子機場周邊未爆彈藥的清除與可控引爆作業已於週日啟動，預計持續一週。
-
----
-
-### 2026-06-28 22:12:46  #國際
-
-【美西部山火肆虐 3名消防員遇難】美國野地消防局28日證實，3名消防員27日在美國科羅拉多州與猶他州交界處撲救山火過程中遇難，另有2名消防員受傷。（新華社）
-
----
-
-### 2026-06-28 22:10:05  #國際
-
-美國眾議院議長約翰遜稱將於週一將住房法案提交給特朗普。
-
----
-
-### 2026-06-28 22:09:45  #MKT News
-
-U.S. House Speaker Johnson said he will submit a housing bill to President Trump on Monday.
-
----
-
-### 2026-06-28 22:08:14  #其他
-
-【山西沁源開展“五糾五強”紀律作風整頓，重塑良好政治生態】據“沁源融媒”訊息，6月26日，沁源縣召開“五糾五強”紀律作風整頓動員大會，深刻反思“5·22”事故慘痛教訓，直面問題、深挖根源、舉一反三，以刮骨療毒、壯士斷腕的勇氣自我革命，全面開展紀律作風大排查、大整治、大提升，徹底扭轉當前被動局面，重塑沁源良好政治生態。市委常委、縣委書記崔崢嶺出席會議並講話。縣委副書記、代縣長郭立東主持。（澎湃）
-
----
-
-### 2026-06-28 22:07:27  #市場
-
-【今年前5個月，電子專用材料製造規模以上企業利潤同比增長665.4% 專家：AI伺服器所消耗的電子材料約為普通伺服器的3至10倍】北京師範大學教授、經濟學家萬喆在接受記者電話採訪時表示，電子專用材料廠商數量有限，技術壁壘高，且認證週期較長，導致產能難以在短期內快速擴張。這使得電子專用材料廠商在產業鏈中擁有較強定價權，能夠將成本有效傳導至下游，從而實現利潤的超額增長。相比之下，終端應用端（如智慧手機等）由於成本壓力較大，利潤反而受到一定壓制。記者注意到，計算機、通訊和其他電子裝置製造業規模以上企業前5個月累計利潤同比增速103.9%，較前4個月的107.7%、前3個月的124.5%有所下降，半導體產業鏈向好趨勢能否延續？對此，萬喆表示，從支撐邏輯來看，當前AI伺服器、HBM儲存及先進製程訂單已排至今年年底，部分高階產能交付週期有所拉長。晶圓代工價格及自主晶片價格上漲趨勢預計貫穿全年，新增產能最早需到2027年下半年才能集中釋放。行業增長引擎正從消費電子轉向AI算力、汽車電子化及人形機器人等多元應用場景，產業穿越週期的韌性顯著增強。全球主要晶圓廠持續加碼資本開支，需求正向上游裝置與材料環節持續傳導。（每經）
 
 ---

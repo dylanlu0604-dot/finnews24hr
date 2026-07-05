@@ -1,7 +1,349 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 22:05:11_
-_本檔包含 2360 則快訊，約 505193 字_
+_更新時間：2026-07-05 23:33:51_
+_本檔包含 2379 則快訊，約 506056 字_
+
+---
+
+### 2026-07-05 23:32:01  #其他
+
+世界盃歷史射手榜更新，姆巴佩19場19球。
+
+---
+
+### 2026-07-05 23:30:30  #國際
+
+以色列總理內塔尼亞胡：我們並不處於永久的戰爭狀態。我本人與特朗普總統一起，推動了四項和平協議。
+
+---
+
+### 2026-07-05 23:29:59  #其他
+
+煙花燃放疊加熱浪，華盛頓特區空氣質量達到“紫色預警”級別。
+
+---
+
+### 2026-07-05 23:28:26  #MKT News #Market Themes #The Trump Trade
+
+NETANYAHU said Israel is not in a permanent state of war and that, together with US President TRUMP, he helped secure four peace agreements. He said those seeking Israel’s protection include Lebanese Christians, Druze, Sunni Muslims and a significant number of Shi'ite Muslims.
+
+---
+
+### 2026-07-05 23:27:54  #MKT News
+
+【Netanyahu defends settlement construction around occupied Jerusalem】Israeli Prime Minister Netanyahu defended building settlements around occupied Jerusalem, saying the measures aim "to safeguard Jerusalem's territorial unity." The United Nations has long held that settlement construction on occupied Palestinian territory, including East Jerusalem, violates international law; such unilateral steps undermine the two-state framework, impede the peace process and lack legal force or broad international recognition. The final status of Jerusalem must be resolved through equal negotiations under international law, the statement said, and unilateral changes to its status have no legal effect.
+
+---
+
+### 2026-07-05 23:27:42  #MKT News
+
+【M4.0 earthquake strikes Mianzhu, Sichuan; depth 15 km】CENC recorded a magnitude-4.0 earthquake at 23:20 local time near Mianzhu, Deyang, Sichuan (31.55N, 103.98E). Focal depth 15 km.
+
+---
+
+### 2026-07-05 23:26:45  #焦點 #國際
+
+以色列總理內塔尼亞胡：我們還有其他一些友邦，比如印度這個小國（small country）。印度有14億人口，說實話，我們在當地收穫了極大的支援。臉書上全是來自那裡一邊倒的聲援，除此之外我們還有不少其他支援我們的國家。不少國家領導人主動致電我說，雖然本國輿論層面存在壓力，但希望我知曉他們是支援我方的。他們會問能否和我們開展合作、希望我方分享軍方相關作戰經驗，同時還希望引進我們的人工智慧與網路安全領域專業技術。
+
+---
+
+### 2026-07-05 23:25:59  #MKT News #SAAB-B.ST #Impact bearish
+
+German defense minister PISTORIUS said Ukraine no longer needs "Taurus" cruise missiles because Ukrainian drones have successfully struck Russian refineries and military logistics facilities.
+
+---
+
+### 2026-07-05 23:24:39  #其他
+
+中國地震臺網正式測定：07月05日23時20分在四川德陽市綿竹市（北緯31.55度，東經103.98度）發生4.0級地震，震源深度15千米。
+
+---
+
+### 2026-07-05 23:23:48  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israel's Channel 12 reports the military struck the Ali Tahir Heights in southern Lebanon. The Upper Galilee Regional Council warned residents they may hear explosions due to attacks from southern Lebanon.
+
+---
+
+### 2026-07-05 23:23:41  #國際
+
+以色列總理內塔尼亞胡為在被佔領的耶路撒冷周邊修建定居點的行為辯護，稱採取相關舉措是 “為保障耶路撒冷的完整統一”。
+
+---
+
+### 2026-07-05 23:22:41  #MKT News
+
+Israeli Prime Minister Netanyahu said he and Trump are aligned on vision; although disagreements may arise, they discuss them candidly and publicly and typically reach solutions.
+
+---
+
+### 2026-07-05 23:22:35  #其他
+
+中國地震臺網自動測定：07月05日23時20分在四川德陽市綿竹市附近（北緯31.56度，東經103.99度）發生4.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-05 23:22:25  #國際
+
+以色列軍隊在黎巴嫩南部的阿里·塔希爾高地地區發動了攻擊。
+
+---
+
+### 2026-07-05 23:21:43  #國際
+
+以色列上加利利地區委員會告知當地居民，黎巴嫩南部的軍事襲擊會帶來爆炸聲。
+
+---
+
+### 2026-07-05 23:21:20  #國際
+
+以色列總理內塔尼亞胡：我和特朗普在願景上意見一致，可能會出現分歧，我們坦率而公開地討論它們，並且通常能達成解決方案。
+
+---
+
+### 2026-07-05 23:21:10  #MKT News
+
+【Russia says Ukraine rejected proposal to receive bodies of fallen soldiers from Konstantinovka】The Russian Defence Ministry said on June 5 that Russian and Ukrainian intelligence services discussed transferring the bodies of Ukrainian soldiers killed in Konstantinovka, and that Kyiv rejected Moscow’s proposal. Moscow had on June 4 offered a humanitarian operation to hand over the remains and requested Ukrainian forces to halt shelling of Konstantinovka on June 6 between 12:00 and 18:00 Moscow time; Kyiv was asked to decide by 12:00 Moscow time on June 5. Ukraine has not responded.
+
+---
+
+### 2026-07-05 23:20:55  #國際
+
+【俄稱烏方拒絕接收康斯坦丁諾夫卡烏軍陣亡人員遺體提議】俄羅斯國防部當地時間5日釋出訊息稱，俄烏雙方情報部門就移交康斯坦丁諾夫卡烏軍陣亡人員遺體問題進行了溝通，烏方拒絕了俄方的提議。目前，烏克蘭方面對此暫無回應。當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。（央視新聞）
+
+---
+
+### 2026-07-05 23:20:39  #國際
+
+以色列總理內塔尼亞胡：不認為與特朗普的關係存在裂痕。
+
+---
+
+### 2026-07-05 23:20:21  #國際
+
+以色列總理內塔尼亞胡：特朗普總統是美國的領袖，做對美國利益有利的事，而我是以色列的領袖，做對以色列利益有利的事。
+
+---
+
+### 2026-07-05 23:14:26  #MKT News
+
+【Magnitude-4.5 quake hits Mianzhu, Sichuan; depth 20 km】CENC said a magnitude-4.5 earthquake struck Mianzhu, Deyang, Sichuan at 23:03 Beijing time (31.58N, 103.98E); hypocenter depth 20 km.
+
+---
+
+### 2026-07-05 23:13:50  #國際
+
+以色列內塔尼亞胡談及與特朗普的關係：我不認為我們之間有裂痕。與其他盟友不同，我們與美國肩並肩作戰，在99%的情況下，我和特朗普看法一致。
+
+---
+
+### 2026-07-05 23:12:45  #其他 #焦點
+
+中國地震臺網正式測定：07月05日23時03分在四川德陽市綿竹市（北緯31.58度，東經103.98度）發生4.5級地震，震源深度20千米。
+
+---
+
+### 2026-07-05 23:11:41  #MKT News
+
+Israeli Prime Minister Netanyahu, on his relationship with President Trump: I do not believe there is a rift between us. Unlike other allies, we stand with the US 99% of the time, and the president and I are aligned.
+
+---
+
+### 2026-07-05 23:11:33  #其他
+
+【四川德陽地震多地網友收到預警】7月5日23點左右，四川多地網友收到地震預警資訊，成都、樂山、瀘州、自貢等多地網友表示震感強烈。（四川觀察）
+
+---
+
+### 2026-07-05 23:10:32  #MKT News #Market Regions #Europe & UK
+
+Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026.
+
+---
+
+### 2026-07-05 23:09:25  #MKT News
+
+【Approx M4.7 earthquake near Mianzhu, Sichuan】CENC automatic determination: at 23:03 today a magnitude-4.7 earthquake occurred near Mianzhu, Deyang, Sichuan (31.59°N, 104.00°E). Final parameters to be confirmed in the official rapid bulletin.
+
+---
+
+### 2026-07-05 23:08:03  #國際
+
+以色列總理內塔尼亞胡：我和特朗普交換看法時都直言不諱，他是什麼風格，我便是什麼風格。
+
+---
+
+### 2026-07-05 23:07:37  #MKT News
+
+【Israeli cabinet unanimously votes to defy Supreme Court ruling】Prime Minister NETANYAHU’s cabinet voted unanimously to refuse recognition of any decisions by the Second Authority for Television and Radio, the regulator for commercial broadcasting, directly contravening a Supreme Court order that the authority continue operating despite falling below its statutory quorum after a wave of resignations. The court said the resignations may have been orchestrated by the communications minister’s office. This is the first time the Israeli government has formally announced it will not comply with a Supreme Court ruling.
+
+---
+
+### 2026-07-05 23:06:54  #其他
+
+中國地震臺網自動測定：07月05日23時03分在四川德陽市綿竹市附近（北緯31.59度，東經104.00度）發生4.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-05 23:06:11  #焦點 #國際
+
+以色列總理內塔尼亞胡：只要我還是總理，伊朗就不會擁有核武器，無論是否達成協議。
+
+---
+
+### 2026-07-05 23:04:14  #國際
+
+【以色列內閣全票拒服最高法院裁決】內塔尼亞胡內閣全票表決拒絕服從最高法院裁決，此舉在以色列史上尚屬首次。內塔尼亞胡政府經全體投票一致決定，拒不承認以色列第二廣播電視管理局作出的任何決議——該機構是以色列商業廣播電視臺的監管主管部門。此前最高法院已下達裁定，要求該監管委員會繼續履職。此前多名委員集中辭職，致使委員會參會法定人數不足，法院認定這一波辭職風波大機率是通訊部長辦公室暗中策劃，因此作出上述維持機構運轉的判決。
+
+---
+
+### 2026-07-05 23:02:19  #MKT News
+
+【5.8-magnitude quake 336 km ESE of Suva, Fiji — EMSC】The European-Mediterranean Seismological Centre reported a 5.8-magnitude earthquake in the sea 336 km east-southeast of Suva, Fiji at 02:22 local time on July 6. Hypocentre depth 685.7 km; epicentre at 19.9807°S, 179.03°W.
+
+---
+
+### 2026-07-05 23:01:27  #國際
+
+波蘭國防部長宣佈，經與總理圖斯克磋商後，已下令解密2022至2026年間波蘭向烏克蘭提供的全部軍事援助物資相關檔案。
+
+---
+
+### 2026-07-05 23:01:07  #國際
+
+【斐濟首都蘇瓦附近海域發生5.8級地震】據歐洲與地中海地震中心測定，當地時間7月6日2時22分，斐濟首都蘇瓦東南偏東336公里處海域發生5.8級地震，震源深度685.7公里，震中位於南緯19.9807度，西經179.03度。
+
+---
+
+### 2026-07-05 22:57:52  #國際
+
+市場訊息：以色列對黎巴嫩南部的納布提亞發起空襲。
+
+---
+
+### 2026-07-05 22:57:24  #MKT News #Brent #Impact bullish #XAUUSD
+
+Al Arabiya reports Israel carried out an airstrike on Nabatieh in southern Lebanon.
+
+---
+
+### 2026-07-05 22:47:31  #MKT News #Commodities #Energy #Brent #WTI
+
+Kuwait's oil minister stressed the importance of coordination and consultation among oil-producing countries to address shifts in the energy market, Kuwait News Agency reported.
+
+---
+
+### 2026-07-05 22:47:17  #其他
+
+科威特方面訊息：科威特石油部長強調石油生產國之間開展協調磋商，以應對能源市場變化至關重要。
+
+---
+
+### 2026-07-05 22:42:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Guotai Haitong: Oil price drop, summer travel starts; family travel demand remains inelastic】Guotai Haitong said international oil prices have fallen and domestic fuel prices are set to be reduced month-by-month. The broker notes school summer breaks are slightly later in 2026, presales have accelerated since late June, hotel and rail bookings are up YoY while air ticket presales lag 2025 amid higher fares, and parent-child travel has remained strong over the past three years and is viewed as inelastic. It expects student-driven passenger traffic to rise from early July, pushing air fares back into positive territory; higher flight completion rates versus Q2, together with peak-season supply-demand support and reduced destructive price competition, should materially improve airline operating performance.
+
+---
+
+### 2026-07-05 22:37:49  #公司
+
+【杭可儀器曹佶：MLCC等國產元器件向高可靠性場景放量 驅動裝置需求快速增長】杭可儀器總經理曹佶近期在接受財聯社、《科創板日報》記者專訪時表示，公司自1984年起專注於電子元器件可靠性測試，目前業務主要聚焦三條產品線：一是功率半導體，覆蓋矽基、碳化矽、氮化鎵等；二是MLCC（多層片式陶瓷電容器），可廣泛應用於車載、資料中心、變壓器等領域；三是SoC的可靠性測試。“隨著MLCC等國產元器件向車規級、伺服器等高可靠性場景放量，驅動裝置需求快速增長。”
+
+---
+
+### 2026-07-05 22:37:30  #MKT News
+
+【Netanyahu says Gaza reconstruction barred until Hamas fully disarmed and Gaza demilitarized】On the 5th local time, Israeli Prime Minister Benjamin Netanyahu said at a weekly cabinet meeting he will not permit Gaza reconstruction to begin unless the Palestinian Islamic Resistance Movement (Hamas) is fully disarmed and the Gaza Strip is demilitarized.
+
+---
+
+### 2026-07-05 22:36:50  #國際
+
+【內塔尼亞胡稱解除哈馬斯武裝前絕不允許重建加沙】當地時間5日，以色列總理內塔尼亞胡在每週內閣會議上表示，除非徹底解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武裝並實現加沙地帶的去軍事化，否則絕不會允許啟動加沙重建工作。此前有訊息稱，美國政府已決定不再將“哈馬斯解除武裝”作為加沙重建的前提條件，內塔尼亞胡當天對此未予以直接否認，但明確強調在加沙沒有實現非軍事化的情況下，以方絕不接受重建加沙。他表示，以色列正在加沙內部打造一個新的所謂“環加沙地帶”，以方傾向於將這些由其控制的加沙內部區域作為“緩衝區”。（央視新聞）
+
+---
+
+### 2026-07-05 22:33:35  #國際
+
+伊朗議會議長：我們向華盛頓確認了這樣一個必要性，即維護該地區各國領土的統一以及結束與我們盟友的戰爭必須成為諒解的一部分。
+
+---
+
+### 2026-07-05 22:32:42  #公司
+
+【日聯科技：擬7328.85萬元認購境外公司10%股份 提示多項風險】日聯科技公告稱，公司全資子公司擬使用7328.85萬元認購QES Group Berhad定向增發的10%股份。本次交易尚不確定，需完成境內外相關審批、備案及登記，完成後對目標公司持股9.1%，不構成控制，對經營業績無重大影響。此外，目標公司業績等因素或影響投資收益；交易實施可能延期、變更或終止；公司股價近60日漲182.13%，市盈率顯著高於行業，提示投資風險。
+
+---
+
+### 2026-07-05 22:32:06  #MKT News
+
+Saudi media Hadas reports Iranian parliament speaker Ghalibaf said Iran believes an agreement with the US is possible despite difficulties.
+
+---
+
+### 2026-07-05 22:31:19  #國際
+
+伊朗議會議長：與美國實施協議是困難但可能的。
+
+---
+
+### 2026-07-05 22:24:49  #其他
+
+【國泰海通：看好漲價確定性較強的CCL/高階MLCC/磷化銦等】國泰海通研報認為，主題投資再次興起。1、機器人：物理AI模型加速迭代，場景落地與成本下降推動規模化量產，看好新技術應用與核心整機廠商及供應鏈。2、商業航天：長征十號乙有望7月初發射，千帆星座組網加快，新技術突破與發射場站補短板，看好航天基礎設施建設與新技術。3、AI新材料：供需矛盾推動上游瓶頸資產重估，看好漲價確定性較強的CCL/高階MLCC/磷化銦等。4、新疆振興：構建具有新疆特色優勢的現代化產業體系，看好清潔能源開發、口岸物流等。
+
+---
+
+### 2026-07-05 22:24:33  #MKT News #Important
+
+【China launches 15 Qianfan polar-orbit satellites】At 21:43 on the 5th a Long March 8A rocket launched from the Hainan commercial space launch site and successfully placed 15 Qianfan polar-orbit satellites into their planned orbit; the mission was declared a complete success.
+
+---
+
+### 2026-07-05 22:22:51  #其他 #焦點
+
+【我國成功發射千帆極軌15組衛星】5日21時43分，在海南商業航天發射場，長征八號甲運載火箭將千帆極軌15組衛星準確送入預定軌道，發射任務獲得圓滿成功。（新華社）
+
+---
+
+### 2026-07-05 22:18:11  #公司
+
+卡達能源公司：商業與工業部將主導投資者接洽、機會發掘及生態系統協調工作。卡達能源公司將就資源配置與利用提供技術及商業評估專業服務。
+
+---
+
+### 2026-07-05 22:17:46  #MKT News #Commodities #Energy
+
+QatarEnergy will provide technical and commercial assessment expertise on resource allocation and utilization.
+
+---
+
+### 2026-07-05 22:17:40  #MKT News #Commodities #Energy
+
+QatarEnergy said Qatar’s Ministry of Commerce and Industry will lead investor engagement, opportunity identification and ecosystem coordination.
+
+---
+
+### 2026-07-05 22:15:41  #MKT News #Commodities #Energy
+
+QatarEnergy said it has reached an agreement setting terms for valuation and allocation of hydrocarbons, natural gas, power and related resources to support downstream industrial investment.
+
+---
+
+### 2026-07-05 22:15:39  #MKT News #Commodities #Energy
+
+QatarEnergy will develop a new mid-scale industrial zone in Mesaieed Industrial City and will work with Qatar's Ministry of Industry to assess and allocate hydrocarbon-derived feedstock to support eligible industrial investments.
+
+---
+
+### 2026-07-05 22:14:00  #公司
+
+卡達能源公司：擬在梅賽義德工業城開發一座新的中型工業區。
+
+---
+
+### 2026-07-05 22:09:12  #公司 #市場 #國際
+
+【近三日美方護航透過霍爾木茲海峽的船舶僅70艘】由美國主導的聯合海上資訊中心5日公佈的資料顯示，7月2日至4日的72小時內，由美方護航透過霍爾木茲海峽的商船合計70艘，通航規模遠低於衝突前日均138艘的平均水平。這份資料由英國海上貿易行動辦公室當日對外發布。公告顯示，美方協調護航船舶單日通行量持續走低：7月2日33艘、7月3日29艘、7月4日僅18艘。霍爾木茲海峽現有兩條通行航道，分別為靠近阿曼一側的南部航道和伊朗管控的北部航道。由美方護航的南部航道通航量未出現持續上漲，而北部航道實際通航總量難以精準統計。公告將霍爾木茲海峽全域威脅等級評定為“較高”。伊朗伊斯蘭革命衛隊持續對過境商船開展甚高頻無線電喊話、無人機抵近偵察與跟蹤監視，對海峽航道實施常態化管控；持續開啟船舶自動識別系統訊號的船舶，可能收到要求改道至伊朗管控航道的喊話警示。公告還說，海峽水域仍存在水雷風險，相關掃雷勘測作業正在全域開展；全域對全球導航衛星系統的干擾常態化，將持續對船舶航行安全構成隱患。（新華社）
 
 ---
 
@@ -14038,233 +14380,5 @@ Spain Private Sector Gains Momentum — The HCOB Spain Composite PMI rose to 53.
 ### 2026-07-03 15:41:14  #公司
 
 【浙商中拓、建邦集團成立產業運營服務公司 註冊資本1000萬】天眼查App顯示，近日，建邦中拓（浙江）產業運營服務有限公司成立，法定代表人為張闖，註冊資本1000萬人民幣，經營範圍包括企業管理、金屬材料銷售、金屬製品銷售、供應鏈管理服務等。股東資訊顯示，該公司由浙商中拓集團股份有限公司、山西建邦集團有限公司共同持股。
-
----
-
-### 2026-07-03 15:41:00  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Rises for 2nd Session — The FTSE 100 advanced for a second consecutive session on Friday, reaching its highest level since early March and moving closer to the record high of 10911 established on February 27. Utility companies anchored the day's gains, with SSE climbing around 2.5%, National Grid adding 1.5%, Centrica expanding 1.1%, and Severn Trent rising over 0.5%. Mining stocks similarly supported the upward trajectory as precious metals miner Fresnillo surged more than 2%, while copper producers Antofagasta and Anglo American both advanced by over 1%. This positive market momentum mirrored bullish sentiment across Asian markets following stronger-than-expected Chinese services sector data. Furthermore, global investor sentiment was bolstered by a softer-than-anticipated US employment report, which successfully alleviated concerns regarding imminent Fed interest rate hikes. Meanwhile, overall market trading volumes were projected to remain thin due to the US Independence Day public holiday closure.
-
----
-
-### 2026-07-03 15:40:30  #市場
-
-現貨白銀日內漲3%，現報62.78美元/盎司。
-
----
-
-### 2026-07-03 15:40:20  #國際
-
-【加拿大推進西海岸原油管道專案以減少對美市場依賴】加拿大總理馬克·卡尼宣佈，加聯邦政府已將一項推進西海岸原油管道專案建設的提議正式提交國家重點專案辦公室審議。根據加總理辦公室釋出的新聞稿，該專案將沿用現有的跨山輸油管道線路，將原油從艾伯塔省輸送至不列顛哥倫比亞省沿海。該專案設計輸油能力約為每日100萬桶，旨在將加拿大石油輸送至全球市場，減少對美國市場的依賴。（新華社）
-
----
-
-### 2026-07-03 15:39:47  #其他
-
-受出口量下降與全球價格走低影響，烏干達5月份咖啡出口收入下降38%。
-
----
-
-### 2026-07-03 15:39:38  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）：伊拉克總統抵達德黑蘭。
-
----
-
-### 2026-07-03 15:38:00  #公司
-
-【國投電力在天津成立新公司 含儲能技術服務業務】企查查APP顯示，近日，國投電力（天津）有限公司成立，經營範圍包含：風力發電技術服務；太陽能發電技術服務；電氣裝置修理；儲能技術服務；新興能源技術研發等。企查查股權穿透顯示，該公司由國投電力全資持股。
-
----
-
-### 2026-07-03 15:37:49  #國際
-
-訊息人士稱，印度保險監管機構正籌備推出全面改革，以遏制保險誤售行為並削減分銷成本。
-
----
-
-### 2026-07-03 15:37:44  #國際
-
-訊息人士稱，印度保險監管機構計劃提議，佣金應在保單存續期內分期支付，而非大部分提前預付。
-
----
-
-### 2026-07-03 15:37:14  #公司
-
-【萬泰生物：董事兼總經理辭職 董事長代行總經理職責】萬泰生物公告稱，公司董事、總經理JIANG ZHIMING女士因個人原因，於2026年7月2日辭去相關職務，辭職後不再擔任公司任何職務。截至公告披露日，其未持有公司股份，無未履行承諾事項。為保證公司正常運營，7月3日公司董事會同意由董事長邱子欣先生在總經理空缺期間代行職責，公司將盡快完成董事、總經理選任工作。
-
----
-
-### 2026-07-03 15:36:44  #市場 #國際
-
-【隨著近期供應充足，油價企穩】隨著市場走向短期供應過剩，油價大體穩定。布倫特原油上漲0.3%，至每桶72.02美元，而8月交割的西得州中質油合約持平於每桶68.73美元。三菱日聯(MUFG)的Soojin Kim寫道，原油近月合約價差處於期貨溢價狀態——即原油期貨價格高於現貨價格——表明近期供應充足。“海灣地區出口的復甦，此外還有伊朗海上儲油量不斷增加，繼續增加短期供應。“該分析師補充道，然而，供應風險依然存在，因為美國和伊朗之間的關鍵問題仍未解決，包括霍爾木茲海峽的未來管轄權。
-
----
-
-### 2026-07-03 15:36:26  #公司 #市場 #央行 #國際
-
-【倫敦礦業股上漲，因美國就業報告疲軟降溫加息預期】倫敦礦業股上漲，此前弱於預期的美國就業報告緩解了對美聯儲將加息的預期，從而推動金價上漲。較高的利率通常會拖累黃金和白銀等無收益資產。三菱日聯(MUFG)的Soojin Kim寫道，隨著美國總統特朗普繼續批評該央行，對其獨立性再度引發擔憂，這也令該金屬繼續受益。在紐約市場，黃金期貨上漲1.4%，至每盎司4,185.30美元；白銀上漲近3%，至每盎司62.85美元。貴金屬礦商Fresnillo和Hochschild Mining均上漲約2.2%。英美資源集團上漲1.4%，大宗商品巨頭嘉能可上漲1%。
-
----
-
-### 2026-07-03 15:36:12  #國際
-
-【中方讚賞宏都拉斯積極涉華表態】中國外交部發言人郭嘉昆3日主持例行記者會。 有記者提問：據報道，近日臺當局外事部門負責人宣稱，臺正同宏都拉斯接觸，推進“復交”。巴拉圭總統培尼亞竄訪臺灣時聲稱鼓勵宏都拉斯關注巴拉圭同臺灣的“夥伴關係”。近日，宏都拉斯外長阿圭羅表示，洪方已就所謂臺洪接觸作出闢謠，重申雙方沒有接觸。在國際政治影響力層面，臺灣無法與中國大陸相提並論。基於國家政策連貫性原則，我們必須尊重在2023年作出的外交關係轉向。對於中國而言一箇中國原則是不容談判的。中方對此有何評論？ 郭嘉昆：我們對阿圭羅外長的積極涉華表態表示讚賞。一箇中國原則是國際社會普遍共識、國際關係基本準則，是國際大義、人心所向、大勢所趨。臺當局逆勢而動，一切“臺獨”分裂行徑註定將是徒勞的，只會自取其辱。 2023年中洪建交以來，雙邊關係在一箇中國原則基礎上快速發展，務實合作取得豐碩成果。事實充分證明，中洪建交符合兩國和兩國人民根本和長遠利益。中方願在一箇中國原則基礎上，推動中洪關係不斷向前發展，更好惠及兩國人民。（中新網）
-
----
-
-### 2026-07-03 15:35:57  #公司
-
-【威勝控股：獲最高6.95億元墨西哥CFE年度智慧電錶訂單】威勝控股（03393.HK）7月3日公告，公司旗下墨西哥子公司中標墨西哥聯邦電力委員會（CFE）年度智慧電錶招標，年內可獲最高訂單總值逾6.95億元（人民幣，下同），包括單相居民表約5.39億元及三相工商表約1.56億元。
-
----
-
-### 2026-07-03 15:35:14  #市場
-
-土耳其銀行業主要指數<.XBANK>下跌3%。
-
----
-
-### 2026-07-03 15:35:11  #公司
-
-【司太立：控股股東部分股份解除質押】司太立公告稱，近日控股股東胡健、胡錦生質押給國泰海通證券的股份完成解除質押手續。胡健持有公司4630.5萬股，佔總股本10.56%，本次解除質押312.32萬股，佔其所持股份6.74%，佔總股本0.71%，解除後累計質押0股；胡錦生持有4467.21萬股，佔總股本10.19%，本次解除質押2037萬股，佔其所持股份45.60%，佔總股本4.65%，解除後累計質押1800萬股，佔其持股40.29%，佔總股本4.11%。
-
----
-
-### 2026-07-03 15:34:56  #公司
-
-【寶地礦業：全資子公司臨時停產 預計不影響全年業績】寶地礦業公告稱，為保障新老選礦廠順利接替，公司全資子公司蔥嶺能源臨時停產，將根據新選廠建設情況復產。蔥嶺能源2025年度營收31336.02萬元，利潤總額5711.93萬元，淨利潤4435.11萬元。本次臨時停產預計不會對公司全年生產及業績產生重大不利影響，公司將加快新選廠建設除錯，降低影響。
-
----
-
-### 2026-07-03 15:34:51  #公司
-
-【江蘇華辰：簽訂2.21億元日常經營合同】江蘇華辰公告稱，公司與寧夏天普芯科技有限公司簽訂《儲能變流升壓一體機裝置買賣合同》，合同總金額2.21億元。該合同為日常經營銷售合同，不構成關聯交易，無需提交董事會及股東會審議，經雙方蓋章後生效。若順利履行，將對公司本年度及未來業績產生一定積極影響，但存在因外部環境等因素無法如期或全部履行的風險。
-
----
-
-### 2026-07-03 15:34:48  #公司
-
-【金煤科技：副總經理兼財務總監蔣勇飛離任 聘任葉子玉為財務總監】金煤科技公告稱，公司董事會近日收到蔣勇飛的書面辭職報告，其因個人原因辭去副總經理兼財務總監職務，7月2日生效。蔣勇飛已做好交接，辭職不影響公司正常工作。7月3日，公司召開董事會會議，同意聘任葉子玉為財務總監，任期至本屆董事會屆滿。審計委員會認為葉子玉任職資格符合要求，具備履職能力。
-
----
-
-### 2026-07-03 15:34:47  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Pauses Decline — The yield on India’s 10-year G-Sec rose to 6.74%, pausing recent losses after slipping to a fifteen-week low, as investors continued to assess the outlook for monetary policy. Over the past three months, Indian government bond yields have risen amid expectations that the Reserve Bank of India is nearing a shift toward tighter policy, with inflation concerns fueled by the Iran war-related energy shock. The benchmark 10-year yield climbed 34 basis points between March and May. The sharper rise in shorter-dated yields has prompted foreign investors to rotate into bonds with maturities of less than five years, which accounted for more than two-thirds of the ten most-purchased securities during March-May, as they offered more attractive risk-adjusted carry with lower duration risk. Meanwhile, overseas investors bought INR 221 billion of government bonds in January-February, turned record net sellers of INR 177 billion in March, before returning as net buyers in April and May.
-
----
-
-### 2026-07-03 15:34:42  #宏觀 #公司 #國際
-
-【韓國聯合三星、SK等企業推出312萬億韓元投資計劃，重點佈局半導體與航天產業】7月3日，韓國副總理兼企劃財政部長官具潤哲宣佈，將推動各大企業在東南部（嶺南地區）投資超312萬億韓元（約2040億美元），以發展先進製造和AI產業。具體規劃中，SK集團、三星、韓華及現代汽車將分別注入約140萬億、60萬億、55萬億和42萬億韓元，重點佈局半導體、AI和航天等領域；LG與斗山也將跟進投資。此外，韓國還公佈了以泗川為核心的國家航天戰略，旨在打造南部沿海航天產業帶。
-
----
-
-### 2026-07-03 15:34:40  #公司
-
-【安泰科技：目前不涉及MLCC多層陶瓷電容器專用粉體材料相關產品】安泰科技7月3日在互動平臺表示，公司目前不涉及MLCC多層陶瓷電容器專用粉體材料相關產品。
-
----
-
-### 2026-07-03 15:34:37  #公司
-
-【新疆火炬：董事長辭職 選舉新董事長並補選董事】新疆火炬公告稱，近日董事長康青山因工作需要，申請辭去相關職務，辭職報告已生效，其將繼續擔任控股子公司董事。7月3日公司召開第四屆董事會第十三次會議，同意選舉張宏興為公司董事長、董事會戰略委員會主任委員；同意增補劉鋒為第四屆董事會非獨立董事，該事項需提交股東會審議透過。任期均至第四屆董事會任期屆滿之日止。
-
----
-
-### 2026-07-03 15:34:31  #公司
-
-【貴繩股份：聘任穆峻青為公司副總經理】貴繩股份公告稱，公司於2026年7月3日召開第九屆董事會第十二次會議，審議透過聘任穆峻青為公司副總經理的議案，任期至第九屆董事會屆滿。穆峻青歷任貴州鋼繩（集團）及貴州鋼繩股份多個職務，截至目前未持有公司股票，無違規受罰情況，任職資格符合相關規定。
-
----
-
-### 2026-07-03 15:34:31  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Hit New Highs — European stocks were in the green on Friday, with both the STOXX 50 and the STOXX 600 gaining 0.5% to reach fresh record levels. The advance tracked the upbeat sentiment across Asian markets after China's services PMI data came in above expectations, while a softer-than-expected US jobs report yesterday helped to ease concerns of an imminent rate hike by the Fed. In Europe, Spain's services PMI also surprised to the upside, pointing to solid expansion in the sector but in Italy growth in services rebounded slightly less than anticipated. Technology, industrials, automakers, and utilities led the gains. Shares of Siemens jumped 1.8% after Kepler Cheuvreux upgraded the stock to 'hold' from 'reduce'. ASML Holding (+1.9%), ABB (+1.8%), Airbus (+1.9%), and Iberdrola (+1.3%) also booked strong gains. In contrast, L'Oreal (-2%) and Kering (-1.9%) were among the worst performers. On the week, the STOXX 50 rose 2.3% and the STOXX 600 added 1.9%, the strongest weekly gain in about a month.
-
----
-
-### 2026-07-03 15:34:15  #市場
-
-【晶片漲價潮蔓延，功率器件廠商成為“賣水人”】功率半導體企業的漲價潮還在持續擴容。 7月1日，國內功率半導體華潤微釋出漲價函，宣佈微電子全品類業務價格上漲15%，並於當天正式生效。芯聯整合則在近日宣佈將在今年三季度上調產品價格。 今年年初以來，英飛凌、德州儀器、安森美、意法半導體等龍頭企業密集宣佈漲價。 進入5月底，功率半導體行業迎來第二輪漲價。英飛凌再次發出漲價函，宣佈自7月1日起進行二次提價，幅度10%~20%，覆蓋AI電源晶片、車規IGBT/MOSFET；德州儀器也再次發出漲價函，新價格將適用於自2026年7月1日起生效的所有訂單及出貨。 國內龍頭廠商如揚傑科技、士蘭微、新潔能、捷捷微電等紛紛跟進，漲價幅度普遍在10%～25%。截至目前，國內外已有二十餘家功率半導體企業宣佈漲價。（第一財經）
-
----
-
-### 2026-07-03 15:32:31  #央行 #國際
-
-【歐洲央行行長拉加德暗示或將提前卸任 以介入法國總統選舉辯論】歐洲央行行長克里斯蒂娜·拉加德日前在接受媒體採訪時表示，她不排除在2027年後期任期屆滿前提前卸任的可能性，以便在2027年法國總統選舉前介入本國政治辯論。在被問及是否完全排除提前離職以參與法國政治辯論的可能性時，拉加德坦言“這有可能”，並強調在法國總統選舉的辯論中，需要聽到來自歐洲的聲音。儘管拉加德釋放了可能提前密謀離職的訊號，但她似乎排除了親自競選下屆法國總統的前景。她明確表示，親自參選“不在議程之上”。在談及未來可能在選舉中扮演的角色時，拉加德指出，她將同時代表“法國與歐洲的聲音”，並警告稱，法國必須在歐洲大陸的經濟未來中發揮決定性作用；若失去歐洲這一環境與依託，法國的經濟前景至少將變得不明朗。
-
----
-
-### 2026-07-03 15:32:10  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.33% Higher — The FTSE 100 Index is gaining 35 points or 0.33 percent on Friday. Leading the gains are Fresnillo (2.50%), SSE (2.50%) and Barratt Redrow (1.95%). Top losers are B&M European Value (-1.04%), Tesco (-1.02%) and Intercontinental Hotels (-0.94%).
-
----
-
-### 2026-07-03 15:31:10  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.74% Higher — The DAX Index is picking up 188 points or 0.74 percent on Friday. Gains are led by E.ON (2.59%), HeidelbergCement (2.00%) and Airbus (1.86%). Biggest losers are Rheinmetall (-2.04%), SAP (-1.23%) and Qiagen NV (-0.94%).
-
----
-
-### 2026-07-03 15:30:45  #公司
-
-【寧波經濟技術開發區產業發展投資公司增資至30億 增幅約1003%】天眼查App顯示，近日，寧波經濟技術開發區產業發展投資有限公司發生工商變更，新增寧波市北侖區農業投資集團有限公司、寧波市北侖區商貿物流投資集團有限公司等為股東，同時，註冊資本由2.72億人民幣增至30億人民幣，增幅約1003%。該公司成立於2017年6月，法定代表人為何冬，經營範圍為實業投資，投資管理，投資諮詢，由寧波市北侖區國有資本運營有限公司及上述新增股東共同持股。
-
----
-
-### 2026-07-03 15:30:38  #其他
-
-【新疆維吾爾自治區塔城地委委員、塔城市委書記王東昇被查】據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區塔城地委委員、塔城市委書記王東昇涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-07-03 15:30:19  #國際
-
-泰國外匯儲備降至2793億美元。
-
----
-
-### 2026-07-03 15:30:10  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.25% Higher — The CAC 40 Index is up by 21 points or 0.25 percent on Friday. Top gainers are ArcelorMittal (2.39%), Edenred (2.34%) and ENGIE (2.10%). Biggest losses came from L'Oréal (-2.22%), Kering (-1.78%) and Hermes International (-1.31%).
-
----
-
-### 2026-07-03 15:29:52  #國際
-
-日本最大工會組織連合（Rengo）援引最終調查結果稱，日本企業今年給出的平均加薪幅度為5.01%，去年該增幅為5.25%，此次漲幅仍為歷年最高。
-
----
-
-### 2026-07-03 15:29:44  #國際
-
-澤連斯基：基輔的緊急救援行動仍在昨晚俄羅斯襲擊的三個地點進行中。救援人員已經清理了大部分瓦礫，但仍有10人失蹤。
-
----
-
-### 2026-07-03 15:27:42  #國際
-
-【外交部：當前埃博拉疫情仍在蔓延 中方願持續向非洲國家提供力所能及的支援】7月3日，外交部發言人郭嘉昆主持例行記者會。有記者問：據報道，中國政府第二批援剛果（金）抗疫醫療專家組已於近日出發，發言人能否介紹相關情況？郭嘉昆表示，非洲新一輪埃博拉疫情暴發以來，中方高度重視，緊急派遣首批5人醫療專家組赴剛果（金），為當地疫情防控提供服務和指導，受到各方高度評價。7月3日凌晨，中國政府向剛果（金）派遣的第二批抗疫醫療專家組已從北京出發。當前埃博拉疫情仍在蔓延，中方願持續向非洲國家提供力所能及的支援，幫助非洲早日渡過難關。（央視新聞）
-
----
-
-### 2026-07-03 15:27:41  #其他
-
-【唐洪武任中山大學校長】教育部訊息，日前，中央批准：唐洪武同志任中山大學校長（副部長級）、黨委副書記。唐洪武，1966年9月出生，在職研究生，工學博士，中共黨員，教授、中國工程院院士。曾任河海大學黨委書記，華南理工大學黨委副書記、校長，黨委書記。
-
----
-
-### 2026-07-03 15:27:26  #公司
-
-【三星4nm產能基本售罄 部分8nm產能滿負荷運轉 已開始選擇性接單】據業內人士透露，三星電子晶圓代工部門近期調整了供貨策略，優先處理現有客戶的訂單，並有選擇地接受新客戶的訂單。行業分析師指出，人工智慧市場的爆炸式增長正在從根本上改變晶圓代工的需求結構。此前主要集中在智慧手機應用處理器（AP）上的先進製造工藝需求，近期已轉向人工智慧加速器晶片、專用積體電路（ASIC）晶片和高效能運算（HPC）晶片。三星晶圓代工的4nm工藝產能已基本售罄，甚至明年的產能也已售罄，部分8nm工藝產能也幾乎達到滿負荷運轉。 (ChosunBiz)
-
----
-
-### 2026-07-03 15:25:34  #國際
-
-【外交部：堅決反對有關國家惡意詆譭中國民族政策】針對美國和歐盟對7月1日起施行的《中華人民共和國民族團結進步促進法》表達所謂關切，外交部發言人郭嘉昆7月3日在例行記者會上答問時說，有關國家抱守意識形態偏見，出於政治操弄，對中國經濟社會發展和人權治理成就視而不見，以偏概全，惡意詆譭中國民族政策，炮製散播虛假資訊，粗暴干涉中國內政，破壞中國民族團結，中方對此堅決反對。郭嘉昆說，中方敦促有關國家尊重基本事實，停止散佈謊言，停止炒作所謂民族問題、干涉中國內政。（新華社）
 
 ---

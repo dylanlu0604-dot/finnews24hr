@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 22:05:11_
-_本檔包含 2439 則快訊，約 505435 字_
+_更新時間：2026-07-05 23:33:51_
+_本檔包含 2406 則快訊，約 505865 字_
+
+---
+
+### 2026-07-01 19:55:40  #市場 #央行 #國際
+
+【儘管多數外匯策略師仍預期美元走軟，但美元多頭勢力正在增強】據路透調查，多數外匯策略師認為，隨著油價回落緩解了通脹擔憂及對美聯儲加息的預期，美元近期的反彈勢頭將在未來幾個月消退；不過，也有相當一部分策略師認為美元的強勢將會持續。美國商品期貨交易委員會的資料顯示，隨著美以與伊朗之間的衝突暫時緩和，美元從5月份的低點反彈了約4%，原油價格也回落至衝突前水平，同時做多美元的押注升至2025年1月以來的最高水平。美元還受到以下因素的支撐：美國通脹率遠高於目標水平、經濟表現強勁、國債收益率維持高位，以及6月份傳出的訊息顯示近半數美聯儲決策者預計今年將加息。利率期貨市場目前已消化了年底前近兩次加息的預期。然而，在6月26日至7月1日進行的這項調查中，外匯分析師並未認同市場的這種定價，而是堅持其長期持有的觀點，即美元將會走軟。調查預估中值顯示，歐元兌美元匯率將上漲2%，在9月底達到1.16，年底達到1.17，一年後達到1.18。
+
+---
+
+### 2026-07-01 19:55:37  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+【Dollar bulls strengthening even as most FX strategists still expect dollar to weaken】A REUTERS survey found most FX strategists expect the dollar’s recent rebound to fade over coming months as falling oil eases inflation and Fed-hike expectations, though a sizable minority sees the dollar remaining strong. CFTC data show the dollar has rallied about 4% from May lows as US/Israel–Iran tensions eased and oil returned to pre-conflict levels; long-dollar positions are the largest since Jan 2025. The currency is supported by inflation well above target, a resilient US economy, elevated Treasury yields and June reports that nearly half of Fed policymakers expected further hikes this year. Interest-rate futures price in almost two hikes by year-end. In the June 26–July 1 survey, strategists largely rejected that market pricing and kept a dollar-weak median view, projecting EUR/USD about 2% higher at 1.16 by end-September, 1.17 at year-end and 1.18 in 12 months.
+
+---
+
+### 2026-07-01 19:55:08  #國際
+
+義大利總理梅洛尼談及特朗普與美國：我如今並非反美，也從未對特朗普卑躬屈膝。 我不容任何人輕視我，一如我從不怠慢任何人。
+
+---
+
+### 2026-07-01 19:54:21  #公司 #市場
+
+【聯建光電：股票連續2日漲幅偏離值累計超30% 提示交易風險】聯建光電公告稱，公司股票於2026年6月30日、7月1日連續2個交易日收盤價格漲幅偏離值累計超過30%，屬於異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共傳媒報道重大未公開資訊，經營情況及內外部環境未變，控股股東及實控人無應披露未披露事項，異常波動期間無買賣公司股票情形，也不存在違反公平資訊披露情況。公司提醒投資者理性投資，注意風險。
+
+---
+
+### 2026-07-01 19:54:13  #其他
+
+【超 2.1 萬人次參與 小鵬舉辦首屆 AI 公開賽，以 AI 驅動組織持續創新】6月30日，小鵬首屆 AI 公開賽（XPENG AI Open）總決賽在廣州舉行。本屆大賽以“AI for ALL”為主題，歷時數月，面向員工、高校學生及員工家屬開放，吸引超 2.1 萬人次參與，累計提交近 7,000 份作品。何小鵬現場為獲獎團隊頒獎，並圍繞 AI 驅動組織、物理 AI、人才成長等主題分享思考。本屆公開賽設物理 AI、未來出行、AI 提效三大賽道，鼓勵參賽者立足真實業務與生活場景開展創新實踐。（小鵬汽車）
+
+---
+
+### 2026-07-01 19:52:31  #公司
+
+【常熟銀行：江南商貿集團6月增持1712.86萬股 持股比例升至3.84%】常熟銀行公告稱，為提升持股比例，支援地方法人金融機構做強做大，江南商貿集團於2026年6月9日至6月30日，透過集中競價交易方式增持公司1712.86萬股，佔總股本比例0.47%。截至6月30日，江南商貿集團持有公司1.40億股，持股比例3.84%，較2026年3月末提升0.47個百分點。本次增持不觸及權益變動，未導致股東身份變化，資金來源為自有資金，不存在違規情形。
+
+---
+
+### 2026-07-01 19:52:23  #市場 #國際
+
+【世界黃金協會：亞洲投資者（及消費者）在價格發現和金價走向中日益重要】7月1日，世界黃金協會發布《2026年全球黃金市場年中展望》報告。報告指出，日內分析表明，金價的大部分走勢變化與亞洲和美國交易時段內的市場活動有關。其中，多數金價回撥發生在美國交易時段，而金價反彈則普遍出現在亞洲交易時段。這進一步凸顯了亞洲投資者（及消費者）在價格發現和金價走向中日益重要的作用。
+
+---
+
+### 2026-07-01 19:52:04  #公司
+
+【洋河股份：董事長顧宇不再兼任總裁，陳軍當選副董事長並接任總裁】洋河股份公告，公司近日召開第八屆董事會第二十一次會議，選舉陳軍為公司副董事長。同時因工作需要，董事長顧宇不再兼任公司總裁職務，將繼續擔任黨委書記和董事長等職務。陳軍被聘任為公司總裁，並卸任副總裁職務。
+
+---
+
+### 2026-07-01 19:51:19  #其他
+
+7月1日，中國證券業協會公佈2026年第四批首發企業現場檢查抽查名單，共有21家擬上市企業被隨機抽中。
+
+---
+
+### 2026-07-01 19:50:14  #MKT News #Commodities #Energy
+
+【Aramco, Sonatrach cut July LPG prices】Traders said on Wednesday that rising global supply prompted Aramco to cut July liquefied petroleum gas (LPG) official selling prices (OSPs) by about 24–27%. Aramco lowered propane OSP by $180/ton to $580/ton and butane OSP by $220/ton to $600/ton. Algeria’s Sonatrach trimmed July LPG OSPs about 2–10%, with propane down $57/ton to $518/ton and butane down $10/ton to $600/ton.
+
+---
+
+### 2026-07-01 19:50:01  #公司 #市場
+
+克羅格股價盤前下跌2.4%，此前該公司將以16.5億美元收購零售商巨鷹。
+
+---
+
+### 2026-07-01 19:49:51  #國際
+
+【中方代表團出席國際熱核聚變實驗堆(ITER)計劃理事會第三十八屆會議】中國國際核聚變能源計劃執行中心訊息，2026年6月24—26日，國際熱核聚變實驗堆(以下簡稱ITER)計劃理事會第三十八屆會議在ITER組織總部召開，科技部國際合作司副司長王曉率中方代表團出席會議。會上，理事會各方代表重點就ITER計劃總體進展、現金流、裝配與安裝情況、治理效率、總幹事繼任計劃等核心議題展開深入討論。會議期間，ITER組織總幹事彼得羅·巴拉巴斯基及其管理團隊向理事會報告了ITER計劃的最新情況，五個真空室扇段已吊裝就位。會議認為，自實施2024年基準更新以來，ITER計劃進度與成本績效指標顯著提升，關鍵路徑上各項工作取得顯著進展。各成員方對ITER組織與各方國內執行機構緊密合作，推動工程取得顯著進展表示高度讚賞，表示要繼續攜手推動ITER計劃順利執行。
+
+---
+
+### 2026-07-01 19:49:42  #公司 #市場
+
+【新迅達：股票交易異常波動 增資專案短期影響小】新迅達公告稱，公司股票在2026年6月30日、7月1日連續2個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期資訊無需更正補充，經營及環境未變。6月30日，公司完成對鑫興光電增資並取得51%股權，其華東專案剛開工，預計對本年度營收和淨利潤影響極小，且投產後面臨市場開拓等風險。實控人無應披露未披露事項，異常波動期間未買賣公司股票。
+
+---
+
+### 2026-07-01 19:49:38  #公司
+
+【共達電聲：副總經理楊志勇、侯傑擬減持不超13.52萬股】共達電聲公告稱，副總經理楊志勇、侯傑因個人資金需求，計劃自公告披露之日起15個交易日後的3個月內（2026年7月24日至10月23日），以集中競價方式分別減持不超7.15萬股、6.37萬股，分別佔公司總股本的0.0196%、0.0175%，合計0.0371%。截至2026年6月30日，公司總股本3.65億股。本次減持計劃實施存在不確定性。
+
+---
+
+### 2026-07-01 19:49:23  #央行 #美聯儲
+
+【哈塞特：部分美聯儲官員可能出於針對特朗普的目的作出政策投票】美國國家經濟委員會主任凱文·哈塞特表示，“我擔心，只要鮑威爾還在美聯儲任職，美聯儲內部大多數官員投票時，並非一定是出於美國國家利益的考量，而是為了針對特朗普。”
+
+---
+
+### 2026-07-01 19:49:13  #公司
+
+【沙特阿美與阿爾及利亞國家石油公司下調 7 月油價】交易商周三透露，受全球市場供應充足影響，沙特國有石油企業沙特阿美 7 月液化石油氣官方售價下調 24% 至 27%，阿爾及利亞國家石油公司也將售價下調 2% 至 10%。沙特阿美 7 月丙烷官方售價每噸下調 180 美元，至 580 美元 / 噸；丁烷每噸下調 220 美元，至 600 美元 / 噸。阿爾及利亞國家石油公司 7 月丙烷官方售價每噸下調 57 美元，至 518 美元 / 噸；丁烷每噸下調 10 美元，報價 600 美元 / 噸。
+
+---
+
+### 2026-07-01 19:48:51  #公司
+
+【中集集團：中信保誠人壽減持2301.71萬股A股股份】中集集團公告稱，6月24日至29日，中信保誠人壽出於自身資金需求，透過集中競價方式減持公司2301.71萬股A股股份，佔總股本的0.43%。減持後，中信保誠人壽持有公司2.70億股股份，佔總股本的4.9999987%，不再是持股5%以上的股東。此外，6月15 - 16日，中信保誠人壽還透過集中競價減持294.77萬股H股股份。未來12個月內，中信保誠人壽不排除繼續增持或減持的可能。
+
+---
+
+### 2026-07-01 19:48:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Russian forces reportedly destroyed five Ukrainian naval unmanned surface vessels in the northeastern Black Sea.
+
+---
+
+### 2026-07-01 19:48:10  #公司
+
+【高德充電釋出"神算Agent"，用AI重構充電站選址與定價邏輯】近日，阿里巴巴集團旗下高德正式釋出充電行業AI智慧體"神算Agent"，面向充電運營商、車企和能源企業，將選址、定價、運能等較多依賴經驗判斷的運營決策，轉化為資料驅動、邏輯可追溯的AI決策能力，幫運營商選對址、定好價。據瞭解，神算Agent以高德空間智慧為底座，整合出行資料、充電站點分佈及商業經營演算法，形成流量洞察、智慧選址、智慧定價、市場洞察等四類核心 Skills，覆蓋充電運營商從選址開店到日常經營的核心場景。運營商以自然語言發起詢問，系統即可輸出涵蓋車流趨勢、分佈密度、需求預測和投資評分的分析報告。（新浪科技）
+
+---
+
+### 2026-07-01 19:47:56  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+REUTERS SURVEY: Of 41 FX strategists, 29 expect dollar positions to be stable or to rise net by end-July, 12 expect them to fall. EUR/USD is forecast at 1.16 in three months, 1.17 in six months and 1.18 in one year, versus June survey projections of 1.18, 1.19 and 1.20.
+
+---
+
+### 2026-07-01 19:47:47  #央行 #國際
+
+【哈塞特：部分美聯儲官員可能出於針對特朗普的目的作出政策投票】美國國家經濟委員會主任凱文·哈塞特在福克斯商業頻道表示，“我擔心，只要鮑威爾還在美聯儲任職，美聯儲內部大多數官員投票時，並非一定是出於愛國或國家利益的考量，而是為了針對特朗普。”他表示，“我們必須密切關注這一情況。”哈塞特說，“可以肯定的是，如果出現問題，那不會是凱文·沃什的責任。他需要協調美聯儲內部各種不同意見，而這是一項極其困難的工作。”哈塞特表示，當前加息將是一個“宏觀經濟政策錯誤”。他說，“我們相信，美聯儲會依據經濟資料作出決策。”
+
+---
+
+### 2026-07-01 19:47:22  #公司 #市場
+
+【敏芯股份：股價異常波動 一季度營收下滑利潤虧損】敏芯股份公告稱，公司股票於2026年6月29日至7月1日連續3個交易日內日收盤價格漲幅偏離值累計超30%，屬異常波動。6月12日至7月1日，股價累計漲幅達111.94%。截至6月30日，公司滾動和靜態市盈率均顯著高於行業平均。2026年一季度，公司營收10702.26萬元，同比下滑20.70%，淨利潤虧損1036.10萬元，同比下滑463.72%。此外，公司新成立的合資公司暫無產品產出和收入，研發、量產及推廣均存不確定性。
+
+---
+
+### 2026-07-01 19:47:11  #公司 #觀點 #國際
+
+【花旗：外資流出韓國股市的勢頭恐將持續】花旗集團指出，儘管韓國經常賬戶順差的前景有所改善，但外國投資者主導的韓國股市資金外流勢頭可能仍將持續。花旗經濟學家Jin-Wook Kim在一份報告中寫道，受投資組合再平衡和獲利了結推動，外國股票投資者的資金外流在6月加速至305億美元，而上一個月為279億美元。截至6月底，外國投資者在韓國股市的持股比例已從去年12月的32.9%升至38.9%。在半導體出口強勁增長的推動下，該行上調了對2026年經常賬戶順差的預測，預計將達到GDP的16.4%，高於此前預測的13.2%。
+
+---
+
+### 2026-07-01 19:46:33  #MKT News #Important #Commodities #Energy
+
+【Russia imports gasoline from India to ease shortages; at least 60,000 tonnes shipped】Russia has begun sea imports of gasoline from India to alleviate fuel shortages caused by Ukrainian strikes on its energy infrastructure, two industry sources said. At least 60,000 tonnes have been shipped, and two tankers carrying about 30,000–40,000 tonnes each have departed, the sources added. Shortages have prompted rationing, long queues at pumps and record gasoline price increases across Russia. The Kremlin said on Tuesday it is in talks with other countries to import fuel at reasonable prices.
+
+---
+
+### 2026-07-01 19:46:00  #其他
+
+路透調查：41名外匯策略師中有29名錶示，截至7月末美元倉位將保持穩定，或淨多頭倉位將增加；12名策略師預計淨多頭倉位將減少。
+
+---
+
+### 2026-07-01 19:45:58  #MKT News #Brent #Impact bearish #WTI
+
+Brazilian oil company CEO said diesel price cuts reflect lower Brent crude; the oil market has not yet returned to normal, but prices appear to have stabilized around $72-75/bbl.
+
+---
+
+### 2026-07-01 19:45:55  #其他
+
+路透調查：預計歐元三個月後匯率將報1.16美元，六個月後報1.17美元，一年後報1.18美元；6月調查的對應預期分別為1.18美元、1.19美元、1.20美元。
+
+---
+
+### 2026-07-01 19:45:37  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google spokesperson on a Swedish court antitrust ruling said the company disagrees with the decision and will consider its legal options.
+
+---
+
+### 2026-07-01 19:45:22  #公司 #市場
+
+巴西國家石油公司執行長表示，此次柴油降價反映了布倫特原油價格的下跌。
+
+---
+
+### 2026-07-01 19:45:20  #公司
+
+巴西石油公司執行長：石油市場尚未恢復正常，但油價似乎已穩定在每桶72至75美元區間。
+
+---
+
+### 2026-07-01 19:45:17  #MKT News
+
+【Iran forms working group to negotiate US-Iran final deal; says talks will start if conditions met】Iran deputy foreign minister Gharibabadi led a delegation to Doha and met Qatari prime minister and foreign minister Mohammed to discuss implementation of the US‑Iran memorandum, including removing obstacles to a ceasefire in Lebanon. Iran, Qatar and Pakistan held tripartite talks to review execution of the memorandum. Gharibabadi said Tehran has set up a working group to follow up on implementation and to negotiate a final agreement, but formal talks have not yet started; Iran is consulting via mediators on timing and location and the group will begin negotiations only if necessary conditions are met.
 
 ---
 
@@ -14350,389 +14536,5 @@ Iranian parliament speaker Ghalibaf said even when negotiating with the U.S. Ira
 ### 2026-07-01 03:01:46  #MKT News #Market Regions #Emerging Markets
 
 Brazil's finance minister said the government will adhere to fiscal targets and is discussing a gradual withdrawal of related policies, with measures to be implemented at an appropriate time. Talks on gasoline subsidies are nearly complete; subsidies will be phased out once price pressures ease.
-
----
-
-### 2026-07-01 03:01:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.63% at 22,990, a 109-point premium to the spot index.
-
----
-
-### 2026-07-01 03:00:56  #央行 #其他
-
-巴西央行官員莫雷蒂：我們正在討論逐步退出（刺激措施），將在適當時機採取這些步驟。
-
----
-
-### 2026-07-01 03:00:46  #其他
-
-內塔尼亞胡：多項和平協議已提上議事日程。
-
----
-
-### 2026-07-01 03:00:17  #MKT News
-
-Israeli Prime Minister NETANYAHU said additional peace agreements are on the agenda and are progressing.
-
----
-
-### 2026-07-01 03:00:05  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Ghalibaf said Iran, the US and Lebanon will form a joint committee to advance Lebanese sovereignty and implement a ceasefire; Iran's foreign envoys will participate in the mechanism.
-
----
-
-### 2026-07-01 03:00:01  #市場
-
-恒指期貨夜盤收漲0.65%，報22994.73點，高水113.71點。
-
----
-
-### 2026-07-01 02:59:39  #國際
-
-【伊朗議會議長：伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾】伊朗議會議長卡利巴夫表示，伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾，其中包括磋商落實備忘錄第13條相關事宜。卡利巴夫稱：“巴基斯坦總理宣佈停戰、特朗普發文稱美方解除海上封鎖，均是這份諒解備忘錄取得的重大成果。”他表示：“我方正跟進磋商程序，推動諒解備忘錄第13條落地執行。”卡利巴夫補充道：“在落實停戰相關安排的過程中，雙方必然會出現分歧。”備忘錄第13條規定：本諒解備忘錄簽署後，在備忘錄第1、4、5、10、11款相關舉措啟動並持續推進的前提下，美伊兩國方可啟動僅圍繞剩餘條款展開的最終協議談判。
-
----
-
-### 2026-07-01 02:59:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Ghalibaf said television media stresses that attacks on Lebanon are not a problem, but should also recount previous wars and note that Iran has paid more than 4,000 martyrs.
-
----
-
-### 2026-07-01 02:58:43  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brazil's finance minister said Brent crude has eased from the most intense phase of the war but remains above pre-war levels. From July, Brazil will remove a diesel subsidy of 0.35 reais per liter.
-
----
-
-### 2026-07-01 02:57:52  #宏觀
-
-巴西財政部長：自7月起，我們將取消每升柴油0.35雷亞爾分的補貼。
-
----
-
-### 2026-07-01 02:57:20  #宏觀 #市場
-
-巴西財政部長：布倫特原油價格尚未回落至戰前水平，但已從衝突最劇烈時期大幅下跌。
-
----
-
-### 2026-07-01 02:56:35  #MKT News
-
-Brazil's finance minister said the government is evaluating whether to remove additional subsidies for diesel and gasoline.
-
----
-
-### 2026-07-01 02:56:31  #宏觀
-
-巴西財政部長：我們目前正在評估終止其他柴油和汽油補貼的可能性。
-
----
-
-### 2026-07-01 02:56:01  #MKT News
-
-Brazil's finance minister said the government is committed not to sustain artificially maintained price levels.
-
----
-
-### 2026-07-01 02:55:09  #MKT News
-
-Iranian parliament speaker Ghalibaf called the agreement "a document of failure for the US and Israel".
-
----
-
-### 2026-07-01 02:54:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian parliament speaker Ghalibaf said Israel strongly opposes the agreement and has been trying to sabotage it wherever possible.
-
----
-
-### 2026-07-01 02:54:18  #宏觀
-
-巴西財政部長：我們承諾不再維持（柴油）人為定價。
-
----
-
-### 2026-07-01 02:53:56  #國際
-
-伊朗首席談判代表卡利巴夫：倘若美方拒絕履行此前磋商達成的內容，我方也已做好應對戰爭的準備。
-
----
-
-### 2026-07-01 02:53:35  #MKT News
-
-Brazil's finance minister said the government will announce the removal of diesel subsidies.
-
----
-
-### 2026-07-01 02:53:20  #國際
-
-【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及媒體報道，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據報道，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（新華社）
-
----
-
-### 2026-07-01 02:53:19  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish
-
-【Russia orders temporary closure of northwest border crossings with Latvia, Finland, Estonia】Prime Minister Mikhail Mishustin signed a government order on June 30 to temporarily suspend, from July 1, passage of people, vehicles, goods and cargo at a series of border crossings with Latvia, Finland and Estonia. The foreign ministry will notify the three governments on July 1. The order did not state a reason for the closures.
-
----
-
-### 2026-07-01 02:52:07  #國際
-
-【俄下令臨時關閉連通拉脫維亞等三國的多個鐵路口岸】俄羅斯政府30日下令，從7月1日起臨時關閉俄羅斯與拉脫維亞、芬蘭和愛沙尼亞三國接壤的多個鐵路口岸。
-
----
-
-### 2026-07-01 02:52:01  #MKT News
-
-Iran's parliament speaker Ghalibaf said negotiations are ongoing, but if the other side fails to honour the agreement, Iran is prepared to respond and to confront war.
-
----
-
-### 2026-07-01 02:51:51  #國際
-
-伊朗首席談判代表卡利巴夫表示，伊朗致力於保障霍爾木茲海峽航運通行依照伊朗方面的相關安排開展。
-
----
-
-### 2026-07-01 02:50:51  #MKT News #WTI #Impact mixed #Brent
-
-Iran parliament speaker Ghalibaf said current negotiations aim to secure five conditions that must be implemented immediately or have their implementation processes initiated.
-
----
-
-### 2026-07-01 02:50:34  #宏觀
-
-巴西財政部長：我們將宣佈取消柴油補貼。
-
----
-
-### 2026-07-01 02:50:16  #MKT News #WTI #Impact bullish #Brent
-
-Iranian parliament speaker Ghalibaf said Iran is committed to ensuring passage through the Strait of Hormuz occurs under arrangements set by Iran.
-
----
-
-### 2026-07-01 02:48:15  #市場 #國際
-
-【瑞穗銀行：若當局不出手干預 日元兌美元料跌至170區間】瑞穗銀行策略師表示，除非當局出手支撐日元，否則日元兌美元的匯率可能會跌向170區間。“我們必須回顧1986年，尋找需要考慮的潛在障礙，”瑞穗的Jordan Rochester和Masayuki Nakajima週二在一份研究報告中寫道，並提及1986年11月5日164.50的水平。“在觸及這一水平之前，幾乎沒有重要阻力。若超出這一水平，如果當局不出手干預，之後匯率可能進一步跌向170區間”。日元週一跌至40年低點，促使交易員揣測日本出手干預的下一道紅線在哪裡。
-
----
-
-### 2026-07-01 02:47:17  #市場
-
-布倫特原油期貨收於每桶72.92美元，下跌23美分，跌幅0.31%。
-
----
-
-### 2026-07-01 02:47:14  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude futures settled at $72.92/bbl, down $0.23 or 0.31%.
-
----
-
-### 2026-07-01 02:47:11  #焦點 #國際
-
-伊朗首席談判代表卡利巴夫表示，除非備忘錄規定的條件得到滿足，否則伊朗不會開啟進一步談判。
-
----
-
-### 2026-07-01 02:46:38  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-US crude oil futures settled at $69.50 per barrel, down $1.25 or 1.77%.
-
----
-
-### 2026-07-01 02:46:20  #國際
-
-【埃及南部翻車事故致至少9名兒童死亡】埃及南部艾斯尤特省一輛機動三輪車30日墜入水渠，造成車上至少9名兒童死亡，另有2人受傷。 據艾斯尤特省政府當日釋出的宣告，事故發生後，相關部門赴現場處置。該省省長穆罕默德·阿勒萬在現場督導搜救工作，責令在水渠兩側加裝混凝土護欄及增設其他防護設施，以防範類似事故再次發生。（新華社）
-
----
-
-### 2026-07-01 02:46:11  #公司 #國際
-
-美國國家航空航天局局長賈裡德·艾薩克曼宣佈：NASA已根據月球基地計劃，向天體機器人公司、螢火蟲航空航天公司與直覺機器公司授予無人月球著陸器合同。
-
----
-
-### 2026-07-01 02:45:17  #焦點 #國際
-
-伊朗首席談判代表卡里巴夫表示，伊朗目前舉行的會談旨在履行備忘錄承諾。
-
----
-
-### 2026-07-01 02:45:00  #MKT News #Macro & Rates
-
-The Central Bank of the Dominican Republic left its benchmark policy rate unchanged at 5.25%.
-
----
-
-### 2026-07-01 02:44:40  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Amazon #AMZN.O #Impact bullish
-
-Amazon Web Services (AWS) said ANTHROPIC's newly launched Claude Sonnet 5 model is now available on Amazon Bedrock and the Claude platform on AWS.
-
----
-
-### 2026-07-01 02:44:19  #公司
-
-亞馬遜雲科技（AWS）：Anthropic的Claude Sonnet 5現已在Amazon Bedrock與AWS的Claude平臺上線可用。
-
----
-
-### 2026-07-01 02:43:43  #其他
-
-多明尼加共和國維持基準利率5.25%。
-
----
-
-### 2026-07-01 02:42:55  #其他
-
-千禧管理最新一輪募資目標至少100億美元。
-
----
-
-### 2026-07-01 02:42:33  #國際
-
-美國法官駁回愛彼迎要求撤銷洛杉磯訴訟的申請，該訴訟指控愛彼迎在2025年山火後哄抬物價。
-
----
-
-### 2026-07-01 02:42:23  #國際
-
-伊朗塔斯尼姆通訊社：以色列軍方在黎巴嫩南部實施爆破行動。
-
----
-
-### 2026-07-01 02:42:01  #MKT News
-
-TASNIM News cites sources saying Israeli forces carried out an explosive attack in southern Lebanon.
-
----
-
-### 2026-07-01 02:39:59  #MKT News
-
-Iraq's prime minister: We will not accept directives from abroad, whether from the East or the West.
-
----
-
-### 2026-07-01 02:39:45  #MKT News #Brent
-
-Iraq's prime minister said there is no evidence that recent attacks on Gulf states originated in Iraq.
-
----
-
-### 2026-07-01 02:34:47  #MKT News
-
-Colombia's central bank governor said the technical team's forecast shows inflation may reach about 4% by end-2027, with a return to the 3% target expected in 2028.
-
----
-
-### 2026-07-01 02:34:21  #國際
-
-以色列中部傳來巨大爆炸聲。
-
----
-
-### 2026-07-01 02:34:06  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Market sources report a large explosion heard in central Israel.
-
----
-
-### 2026-07-01 02:33:28  #央行 #其他
-
-哥倫比亞央行行長比利亞爾表示，通脹率將在2028年回落至3%的目標水平。
-
----
-
-### 2026-07-01 02:33:26  #央行 #其他
-
-哥倫比亞央行行長比利亞爾表示，技術團隊的預測顯示，到2027年底通脹率有望達到約4%。
-
----
-
-### 2026-07-01 02:32:03  #MKT News #WTI #Impact bearish
-
-U.S. crude futures settled at $69.50/bbl, down $1.25 or 1.77%.
-
----
-
-### 2026-07-01 02:31:36  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish
-
-【Night-session main contracts close】At the 02:30 China night-session close, Shanghai gold most-active contract rose 0.80% to 882 yuan/gram; Shanghai silver most-active contract rose 3.43% to 14,578 yuan/kg; Shanghai crude (SC) most-active contract fell 1.17% to 457 yuan/barrel.
-
----
-
-### 2026-07-01 02:31:02  #市場 #國際
-
-美國原油期貨收於每桶69.50美元，下跌1.25美元，跌幅1.77%。
-
----
-
-### 2026-07-01 02:30:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 1.1% at 880.4 yuan/gram in the evening session on June 30. Silver T+D closed up 3.72% at 14,545 yuan/kg.
-
----
-
-### 2026-07-01 02:30:02  #市場
-
-上期所原油期貨夜盤收跌1.17%，報456.70元人民幣/桶。滬金夜盤收漲0.80%，滬銀收漲3.43%。
-
----
-
-### 2026-07-01 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Drops by 2.87% — Top crypto losers are Bitcoin (-2.87%), Binance (-2.39%) and Ether (-2.23%).
-
----
-
-### 2026-07-01 02:25:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Soars by 8.77% — Top commodity gainers are Coffee (8.77%) and Corn (2.58%). Biggest losers are Rice (-2.89%), Rapeseed (-1.42%) and Canola (-1.17%).
-
----
-
-### 2026-07-01 02:24:51  #國際
-
-在美國態度猶豫且北約成員國防務開支普遍不足的情況下，北約下屆峰會能否在阿爾巴尼亞舉行存疑。
-
----
-
-### 2026-07-01 02:24:07  #MKT News
-
-Qatar's Foreign Ministry said technical-level contacts between the US and Iran continue, but high-level talks have not resumed.
-
----
-
-### 2026-07-01 02:24:04  #國際
-
-美國副總統萬斯談及伊朗談判：後續還有諸多博弈。值得慶幸的是，本屆政府、總統始終在想方設法為美國民眾爭取優勢。
-
----
-
-### 2026-07-01 02:21:43  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude futures fell 2.0% intraday to $69.33/bbl.
-
----
-
-### 2026-07-01 02:21:32  #市場
-
-WTI原油日內跌2%，現報69.33美元/桶。
-
----
-
-### 2026-07-01 02:20:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Silver (2.38%), Copper (1.59%) and Gold (0.39%). Biggest losers are Titanium (-2.06%) and Platinum (-1.70%).
-
----
-
-### 2026-07-01 02:19:29  #MKT News #Market Regions #Europe & UK #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish
-
-【ECB policymaker Dolenc: no rush to hike if energy markets stay calm】ECB policymaker Dolenc said if Middle East tensions do not escalate before the next policy decision and energy prices remain stable, the ECB could keep rates unchanged at the next meeting. Speaking at the Sintra Forum, he said a pause in tightening is reasonable if energy prices hold, commodity volatility does not spread and second‑round inflation effects do not materialize. Oil and gas remaining subdued would remove the need to rush further tightening, he added, and based on current data it may be appropriate to wait until before September. He cautioned there are still weeks to the next decision and geopolitical risk remains elevated after a recent uptick in hostilities.
 
 ---
