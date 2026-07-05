@@ -1,7 +1,25 @@
 {
   "date": "2026-07-06",
-  "count": 141,
+  "count": 143,
   "items": [
+    {
+      "id": "mkt:019f346a-63d0-7aab-8ca5-8d79c528b419",
+      "time": "2026-07-06 06:33:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures rose to $4,200/oz, up 1.80% intraday."
+    },
+    {
+      "id": "4971143",
+      "time": "2026-07-06 06:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報63.54美元/盎司。"
+    },
     {
       "id": "mkt:019f3466-e05c-7aab-8ca5-865c15214b0f",
       "time": "2026-07-06 06:29:45",
