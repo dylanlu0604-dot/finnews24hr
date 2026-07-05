@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-05 18:35:58",
-  "count": 13161,
+  "updated": "2026-07-05 18:39:54",
+  "count": 13163,
   "items": [
+    {
+      "id": "4970958",
+      "time": "2026-07-05 18:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘貨船在葉門附近海域遭襲】英國海上貿易行動辦公室5日釋出通報說，一艘貨船當天在葉門附近海域遭不明身份武裝人員襲擊。根據通報，這艘貨船在協調世界時5日7時19分（北京時間5日15時19分）發出遇險警報，事發地點位於葉門荷臺達西南約30海里處。近期，葉門附近海域海上安全形勢持續緊張，國際航運安全風險持續受到關注。（新華社）"
+    },
+    {
+      "id": "4970957",
+      "time": "2026-07-05 18:37:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國計劃將2027年淨新增借款規模提高至1180億歐元，較4月預期增加約7%。"
+    },
+    {
+      "id": "mkt:019f31da-9192-7aab-8ca2-7483988d073a",
+      "time": "2026-07-05 18:37:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany plans to raise 2027 net new borrowing to €118 billion, about 7% higher than the April projection."
+    },
+    {
+      "id": "4970956",
+      "time": "2026-07-05 18:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長:協議將使賓烏馬爾油田原油產量提升至每日15萬桶，伴生氣產量增至每日3億標準立方英尺。"
+    },
     {
       "id": "mkt:019f31d8-c397-7aab-8ca2-6d2b10670d9f",
       "time": "2026-07-05 18:35:17",
@@ -121261,23 +121298,6 @@
         "MKT News"
       ],
       "text": "Pakistan's foreign minister stressed all parties must adhere to the ceasefire agreement."
-    },
-    {
-      "id": "mkt:019f0dcd-94bd-7aab-8c00-7f63820918a5",
-      "time": "2026-06-28 18:36:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jiangsu expands property-policy toolbox to boost urban renewal and stabilize housing market】Jiangsu provincial government account said the province has rolled out a targeted package to stabilize the real estate market and accelerate urban renewal, expanding its policy “toolbox” along three dimensions: land supply, development/construction and property sales, within a “four ones” framework. At a June 26 investment briefing attended by more than 110 developer representatives, provincial departments and 13 prefectural cities released batches of small, fast-to-develop high-quality land parcels, quality stock land held by local state-owned firms, and priority urban-renewal projects."
-    },
-    {
-      "id": "4958941",
-      "time": "2026-06-28 18:36:41",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【“光谷板塊”加速度擴容，力爭上市公司突破百家】“光谷板塊”加速度擴容，力爭上市公司突破百家。近一年來，“光谷板塊”在資本市場上全線飄紅。目前，武漢東湖高新區（簡稱“武漢光谷”）有72家境內外上市公司，總市值突破1.8萬億元，千億市值公司達到4家。6月27日，世界光谷·科技金融生態共建大會在武漢舉行。會上，武漢東湖高新區釋出科技金融生態構建系列舉措，圍繞信貸供給、資本市場、產業基金、科創培育、載體平臺五大維度推出一攬子新政，明確到2030年新增不少於1000億元基金群，帶動投資總額超3000億元，上市企業總數突破100家，千億市值企業實現翻番。（證券時報）"
     }
   ]
 }
