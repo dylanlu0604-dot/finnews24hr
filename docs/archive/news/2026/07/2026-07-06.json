@@ -1,7 +1,28 @@
 {
   "date": "2026-07-06",
-  "count": 144,
+  "count": 146,
   "items": [
+    {
+      "id": "4971144",
+      "time": "2026-07-06 06:37:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲0.38%。"
+    },
+    {
+      "id": "mkt:019f346e-23d1-7aab-8ca5-9dab97e05be1",
+      "time": "2026-07-06 06:37:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,190/oz, up 0.37% on the day."
+    },
     {
       "id": "mkt:019f346a-c7d8-7aab-8ca5-944179741612",
       "time": "2026-07-06 06:34:00",
