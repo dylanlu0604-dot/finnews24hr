@@ -1,7 +1,38 @@
 {
   "date": "2026-07-06",
-  "count": 211,
+  "count": 214,
   "items": [
+    {
+      "id": "mkt:019f34a9-fda6-7aab-8ca5-ed2266414194",
+      "time": "2026-07-06 07:43:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "WTI"
+      ],
+      "text": "【ANZ: RBNZ may still hike despite easing inflation risks】Market pricing of a Wednesday RBNZ hike has eased after a sharp mid‑June drop in oil prices. ANZ chief economist Sharon Zollner said the urgency for a near‑term move has fallen, but she still expects the RBNZ to raise rates — chiefly to lift the official cash rate off its cyclical low as a risk‑management step. Zollner noted the NZD has weakened and monetary conditions have loosened and added it is the second time in six weeks she has said “a hike is imminent but not today,” leaving the credibility of that signal unclear."
+    },
+    {
+      "id": "mkt:019f34a9-77bc-7aab-8ca5-e40a3c67a4ba",
+      "time": "2026-07-06 07:42:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CSC Financial: Supply tightening to lift aluminum-foil margins; sodium‑ion scaling to boost demand】CSC Financial says aluminum foil, a small high‑quality segment of lithium‑battery materials, is seeing concentrated market structure—leaders hold ~38% share—and broad price pass‑through to customers. Cumulative processing fees have risen about 1,000–1,500 yuan/ton. The firm expects supply‑demand to continue improving in H2 2026–2027, supporting further price upside. Sodium‑ion battery commercialization is progressing from a 1→10 scale phase; with the aluminum‑foil technical route confirmed and per‑unit foil usage set to double, demand for aluminum foil should increase materially."
+    },
+    {
+      "id": "4971201",
+      "time": "2026-07-06 07:42:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：算力硬體高波動期 等待財報指引落地】中信建投研報表示，Meta宣佈出售部分過剩算力資源，市場初期反應偏向負面，擔憂此舉是否預示著AI算力需求見頂或行業景氣度下行。但從行業供需格局來看，AI算力需求的中長期驅動邏輯並未因Meta的單一行為而受損，關鍵環節也仍然制約著有效供給的釋放。Meta的個案不應被過度解讀為行業拐點訊號，隨著財報季臨近，投資者更應關注英偉達等核心供應商的訂單指引、雲廠商的資本開支計劃以及下游應用商業化進展等更具代表性的行業指標。"
+    },
     {
       "id": "mkt:019f34a5-fcc7-7aab-8ca5-dca2fa813fdb",
       "time": "2026-07-06 07:38:41",

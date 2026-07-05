@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-06 07:40:12",
-  "count": 13094,
+  "updated": "2026-07-06 07:43:56",
+  "count": 13091,
   "items": [
+    {
+      "id": "mkt:019f34a9-fda6-7aab-8ca5-ed2266414194",
+      "time": "2026-07-06 07:43:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "WTI"
+      ],
+      "text": "【ANZ: RBNZ may still hike despite easing inflation risks】Market pricing of a Wednesday RBNZ hike has eased after a sharp mid‑June drop in oil prices. ANZ chief economist Sharon Zollner said the urgency for a near‑term move has fallen, but she still expects the RBNZ to raise rates — chiefly to lift the official cash rate off its cyclical low as a risk‑management step. Zollner noted the NZD has weakened and monetary conditions have loosened and added it is the second time in six weeks she has said “a hike is imminent but not today,” leaving the credibility of that signal unclear."
+    },
+    {
+      "id": "mkt:019f34a9-77bc-7aab-8ca5-e40a3c67a4ba",
+      "time": "2026-07-06 07:42:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CSC Financial: Supply tightening to lift aluminum-foil margins; sodium‑ion scaling to boost demand】CSC Financial says aluminum foil, a small high‑quality segment of lithium‑battery materials, is seeing concentrated market structure—leaders hold ~38% share—and broad price pass‑through to customers. Cumulative processing fees have risen about 1,000–1,500 yuan/ton. The firm expects supply‑demand to continue improving in H2 2026–2027, supporting further price upside. Sodium‑ion battery commercialization is progressing from a 1→10 scale phase; with the aluminum‑foil technical route confirmed and per‑unit foil usage set to double, demand for aluminum foil should increase materially."
+    },
+    {
+      "id": "4971201",
+      "time": "2026-07-06 07:42:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：算力硬體高波動期 等待財報指引落地】中信建投研報表示，Meta宣佈出售部分過剩算力資源，市場初期反應偏向負面，擔憂此舉是否預示著AI算力需求見頂或行業景氣度下行。但從行業供需格局來看，AI算力需求的中長期驅動邏輯並未因Meta的單一行為而受損，關鍵環節也仍然制約著有效供給的釋放。Meta的個案不應被過度解讀為行業拐點訊號，隨著財報季臨近，投資者更應關注英偉達等核心供應商的訂單指引、雲廠商的資本開支計劃以及下游應用商業化進展等更具代表性的行業指標。"
+    },
     {
       "id": "mkt:019f34a5-fcc7-7aab-8ca5-dca2fa813fdb",
       "time": "2026-07-06 07:38:41",
@@ -120662,64 +120693,6 @@
         "其他"
       ],
       "text": "【約三分之一主權財富基金擬增加對私募資產的配置 傳統股債風險升高】一項行業調查顯示，在傳統債股投資組合面臨的風險不斷上升之際，全球規模最大的公共投資機構計劃提高對私募和流動性較低資產的配置。接受景順調查的機構中，約三分之一的主權財富基金計劃在2026年增加對私募信貸、私募股權和基礎設施資產的配置，近五分之一打算降低對股票的敞口。"
-    },
-    {
-      "id": "4959277",
-      "time": "2026-06-29 07:43:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：澳大利亞儲備銀行將更好地應對下一次危機。"
-    },
-    {
-      "id": "4959276",
-      "time": "2026-06-29 07:42:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數可能因潛在的逢低吸納買盤而上漲】在基準指數上週五大幅下跌之後，日本股市可能因潛在的逢低吸納買盤而上漲。然而，在週末美國和伊朗之間發生拉鋸式攻擊的情況下，漲幅可能會受到限制，這給兩國之間脆弱的和平協議帶來了壓力。在新加坡交易所，日經指數期貨上漲355點，報70130點。日經指數上週五收盤下跌4.15%，報69360.88點。"
-    },
-    {
-      "id": "4959275",
-      "time": "2026-06-29 07:41:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：負利率原則上可以提供額外的刺激。長期負利率會損害市場功能。"
-    },
-    {
-      "id": "4959274",
-      "time": "2026-06-29 07:40:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本京都站發生列車脫軌事故 暫無人員傷亡】據日本廣播協會報道，當地時間29日5時13分左右，近畿日本鐵道公司一列4節編組列車在京都站發生脫軌事故。 該列車為從京都站開往橿原神宮前站的始發列車，車上約有10名乘客。目前尚未收到人員傷亡報告。 現場畫面顯示，該列車駛離站臺不久後在一處左轉彎處發生脫軌，脫軌的列車部位是第2節和第3節車廂的連線處。近畿日本鐵道公司說，車上乘客已被引導下車。"
-    },
-    {
-      "id": "mkt:019f109b-50f8-7aab-8c03-d474cfe485fa",
-      "time": "2026-06-29 07:40:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "WTI",
-        "Impact bearish",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "【Huatai Securities: Bulk-chemical cyclical recovery likely; electronic chemicals to benefit from AI, domestic substitution】Huatai Securities research note: Escalating Middle East tensions are disrupting global oil and gas supply-demand, temporarily lifting oil prices and driving inventory draws; but high prices are already causing demand destruction, and as supply constraints ease marginally the oil-price midpoint could gradually return toward equilibrium. In bulk chemicals, capex growth has clearly turned since H2 2025; measures to curb redundant competition, dual-carbon control and the exit of backward overseas capacity are promoting optimization of existing capacity and point to a capacity-cycle inflection. In electronic chemicals, AI compute growth, advanced process nodes, advanced packaging and domestic substitution are lifting semiconductor-material demand, and overseas supply disruptions could boost spot conditions for electronic specialty gases and other critical materials."
-    },
-    {
-      "id": "4959273",
-      "time": "2026-06-29 07:40:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【磷化銦板塊自二季度以來持續走強 基金經理表示中長期配置價值突出】作為AI算力光互連最底層且不可替代的半導體基石，磷化銦（InP）板塊自二季度以來持續走強，成為機構與遊資同步加碼的核心賽道，呈現出量價齊升的趨勢性行情。6月22日，興業科技公告以5500萬元收購磷化銦相關業務資產後，連續斬獲五個一字板；宿遷聯盛6月初宣佈設立合資公司，佈局磷化銦襯底的研發、生產與銷售，股價隨之走出17連陽的強勢行情。二級市場整體熱度同步攀升，Wind磷化銦指數6月以來累計大漲25.31%，6月25日站上4211.71點，創下階段新高。板塊成交活躍度顯著提升，近一個月日均成交額突破320億元。“本輪行情並非短期題材炒作，其背後是全球AI算力建設浪潮持續向上遊傳導的產業邏輯。”多位公募基金經理在接受證券時報記者採訪時指出，磷化銦產業鏈具有極高的進入壁壘，且面臨嚴重的供需錯配，疊加國產替代加速等因素共振，行業具備持續多年的業績兌現基礎，中長期配置價值突出。"
     }
   ]
 }
