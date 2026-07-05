@@ -1,7 +1,32 @@
 {
   "date": "2026-07-05",
-  "count": 224,
+  "count": 226,
   "items": [
+    {
+      "id": "mkt:019f2fe2-4fc7-7aab-8ca0-5890590db9d8",
+      "time": "2026-07-05 09:26:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Trump administration plans to rescind 702 federal rules, steps up deregulation】The Trump administration released a regulatory-reform plan on Friday proposing the rescission of 702 federal rules, a record for the White House semiannual regulatory agenda and about double the scale of reforms pursued during his first term. It says it has finalized or implemented 752 deregulatory actions since the start of the federal fiscal year on Oct. 1, 2025. Measures slated for removal by fiscal year-end Sept. 30 include environmental review requirements for energy projects, energy-efficiency standards and rules tied to diversity, equity and inclusion. The administration projects $1.5 trillion in cost savings to the U.S. economy if all planned rollbacks are completed by Sept. 30."
+    },
+    {
+      "id": "4970773",
+      "time": "2026-07-05 09:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府擬再廢除702項聯邦法規 加碼放鬆監管】特朗普政府正加大力度削減聯邦政府監管負擔，公佈了一項監管改革計劃，擬廢除702項現行行政法規。這份於週五釋出的改革方案，創下白宮半年度監管議程中擬推進放鬆監管措施數量的新紀錄。這一數字約為特朗普首個總統任期內任何時期相關改革規模的兩倍。此外，自聯邦政府本財年（始於2025年10月1日）開始以來，政府已最終完成或落實752項放鬆監管措施。根據計劃，政府擬在9月底本財年結束前廢除的措施包括：針對能源專案的環境審查要求、能源效率標準，以及推動多元化、公平與包容（DEI）的相關規定。特朗普政府預計，到9月底完成所有計劃中的監管廢除措施後，將為美國經濟節省1.5萬億美元成本。"
+    },
     {
       "id": "4970772",
       "time": "2026-07-05 09:23:22",
