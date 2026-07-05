@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-06 07:43:56",
-  "count": 13091,
+  "updated": "2026-07-06 07:47:43",
+  "count": 13088,
   "items": [
+    {
+      "id": "4971205",
+      "time": "2026-07-06 07:45:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.11點。"
+    },
+    {
+      "id": "4971204",
+      "time": "2026-07-06 07:45:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌0.2%。"
+    },
+    {
+      "id": "4971203",
+      "time": "2026-07-06 07:45:37",
+      "tags": [
+        "央行"
+      ],
+      "text": "【中國央行公開市場本週有6785億元逆回購到期】其中，週一至週五分別到期1575億元、695億元、1000億元、2885億元、630億元。此外，週一有8000億元89天期買斷式逆回購到期，中國央行週一將開展1萬億元買斷式逆回購操作，期限為3個月（91天）。"
+    },
+    {
+      "id": "4971202",
+      "time": "2026-07-06 07:45:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "本週公開市場7天期逆回購到期量6785億元，約為上週的三成。週一將有8000億元3個月期買斷式逆回購到期，央行續作1萬億元，淨投放2000億元，為2月以來首次淨投放。"
+    },
     {
       "id": "mkt:019f34a9-fda6-7aab-8ca5-ed2266414194",
       "time": "2026-07-06 07:43:03",
@@ -120631,68 +120666,6 @@
         "000660.KS"
       ],
       "text": "【Samsung, SK Group expected to announce up to 2,000 trillion won investment plan】As part of South Korea's President Lee flagship industrial strategy, Samsung Group and SK Group are preparing to announce an investment programme of up to 2,000 trillion won (about $1.3tn) over the next decade. Reports say Samsung and SK Hynix would each build four to five semiconductor fabs in Gwangju. Samsung also plans a chip packaging plant in Chungcheongnam-do; SK Hynix is set to expand a NAND plant in Chungcheongbuk-do."
-    },
-    {
-      "id": "te:markets:562354",
-      "time": "2026-06-29 07:47:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Climb Ahead of Peace Talks — US stock futures rose on Monday following reports that Washington and Tehran have agreed to halt attacks against each other before peace talks resume in Doha this week. The conflict had escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, triggering multiple retaliatory US strikes. Meanwhile, Wall Street is coming off a mixed week as investors rotated out of technology stocks and into other sectors. The S&P 500 and Nasdaq Composite fell 1.95% and 4.6%, respectively, last week, while the Dow gained 0.6%. Megacap technology stocks led the declines, with Nvidia and Alphabet each dropping more than 8%, while Apple, Amazon, and Meta lost over 4% apiece. SpaceX also plunged 17%, erasing nearly all of its gains since its market debut on June 12."
-    },
-    {
-      "id": "4959283",
-      "time": "2026-06-29 07:46:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "本週公開市場7天期逆回購到期量22655億元，較上週進一步增逾17%。"
-    },
-    {
-      "id": "4959282",
-      "time": "2026-06-29 07:46:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.24點。"
-    },
-    {
-      "id": "4959281",
-      "time": "2026-06-29 07:46:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際清算銀行：全球經濟面臨多重壓力，包括債務高企和AI熱潮等】國際清算銀行(BIS)稱，從公共債務上升到金融脆弱性，再到人工智慧(AI)熱潮的可持續性，這些全球性壓力正在加劇風險，凸顯出審慎制定政策的必要性。國際清算銀行週日釋出的《年度經濟報告》警告稱，當前存在一系列複雜的脆弱性因素，包括財政狀況緊張、供應衝擊持續以及通脹再次居高不下的風險。該銀行表示，儘管近幾個月來經濟活動保持韌性，但決策者必須果斷採取行動，以維護穩定。“政策舉措必須相互配合，以避免對全球經濟形成掣肘。歸根結底，成功取決於穩健的財政和金融基礎，”國際清算銀行(BIS)總經理德科斯(Pablo Hernandez de Cos)表示。"
-    },
-    {
-      "id": "4959280",
-      "time": "2026-06-29 07:45:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤上漲0.63%。"
-    },
-    {
-      "id": "4959279",
-      "time": "2026-06-29 07:44:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：為靈活就業者消除後顧之憂】近日，國務院印發《實施就業優先戰略“十五五”規劃》，明確提出“拓寬靈活就業、新就業形態發展渠道”，強調“維護靈活就業、新就業形態勞動者合法權益”，以消除從業者後顧之憂，為靈活就業、新就業形態注入更多確定性，進一步推動靈活就業、新就業形態健康發展。靈活就業、新就業形態進出門檻低、活力強，已成為吸納就業的重要“蓄水池”。中華全國總工會資料顯示，新就業形態勞動者約8400萬人；根據人社部資料，去年中國靈活就業人員規模已超過2億人。平臺企業要真正壓實責任、強化治理，這是靈活就業、新就業形態健康發展的重要前提。平臺要把派單邏輯、收入計算、配送路線納入協商議題，更好保障勞動者的知情權、參與權和選擇權；不得透過加盟、代理承攬等方式刻意拉長用工鏈條，或讓勞動者註冊為個體工商戶成為商事主體來規避勞動關係、轉嫁用工風險。"
-    },
-    {
-      "id": "4959278",
-      "time": "2026-06-29 07:44:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【約三分之一主權財富基金擬增加對私募資產的配置 傳統股債風險升高】一項行業調查顯示，在傳統債股投資組合面臨的風險不斷上升之際，全球規模最大的公共投資機構計劃提高對私募和流動性較低資產的配置。接受景順調查的機構中，約三分之一的主權財富基金計劃在2026年增加對私募信貸、私募股權和基礎設施資產的配置，近五分之一打算降低對股票的敞口。"
     }
   ]
 }
