@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-05 23:21:50",
-  "count": 13125,
+  "updated": "2026-07-05 23:25:50",
+  "count": 13129,
   "items": [
+    {
+      "id": "4971030",
+      "time": "2026-07-05 23:24:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月05日23時20分在四川德陽市綿竹市（北緯31.55度，東經103.98度）發生4.0級地震，震源深度15千米。"
+    },
+    {
+      "id": "mkt:019f32e0-e964-7aab-8ca3-9d419b664dc3",
+      "time": "2026-07-05 23:23:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's Channel 12 reports the military struck the Ali Tahir Heights in southern Lebanon. The Upper Galilee Regional Council warned residents they may hear explosions due to attacks from southern Lebanon."
+    },
+    {
+      "id": "4971029",
+      "time": "2026-07-05 23:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡為在被佔領的耶路撒冷周邊修建定居點的行為辯護，稱採取相關舉措是 “為保障耶路撒冷的完整統一”。"
+    },
+    {
+      "id": "mkt:019f32df-e5fd-7aab-8ca3-94476af7d6f1",
+      "time": "2026-07-05 23:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he and Trump are aligned on vision; although disagreements may arise, they discuss them candidly and publicly and typically reach solutions."
+    },
+    {
+      "id": "4971028",
+      "time": "2026-07-05 23:22:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月05日23時20分在四川德陽市綿竹市附近（北緯31.56度，東經103.99度）發生4.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4971027",
+      "time": "2026-07-05 23:22:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊在黎巴嫩南部的阿里·塔希爾高地地區發動了攻擊。"
+    },
+    {
+      "id": "4971026",
+      "time": "2026-07-05 23:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列上加利利地區委員會告知當地居民，黎巴嫩南部的軍事襲擊會帶來爆炸聲。"
+    },
+    {
+      "id": "4971025",
+      "time": "2026-07-05 23:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我和特朗普在願景上意見一致，可能會出現分歧，我們坦率而公開地討論它們，並且通常能達成解決方案。"
+    },
     {
       "id": "mkt:019f32de-8285-7aab-8ca3-8b060a74b933",
       "time": "2026-07-05 23:21:10",
@@ -120975,38 +121043,6 @@
         "公司"
       ],
       "text": "【物理AI第一股Momenta明日啟動招股，賓士、比亞迪等現身基石名單】6月28日晚間訊息，全球領先的物理AI公司Momenta將於6月29日披露全球發售檔案，正式啟動招股，成為“物理AI第一股”。新浪科技獲得的資訊顯示，Momenta基石席位空前火爆，陣容豪華，包括國際頂級長線基金及主權基金、頂級戰略投資人和中資頂級資本。新加坡政府投資公司、富達國際、貝萊德、橡樹資本、梅賽德斯-賓士、比亞迪、高毅等現身基石名單。訊息人士透露，本次新加坡政府投資公司（GIC）和富達國際兩家基金強勢領投，GIC近年重倉Anthropic與臺積電，富達國際此前重倉中際旭創、寒武紀等AI龍頭，意味著Momenta正成為物理AI規模化落地的“資本錨點”。梅賽德斯-賓士和比亞迪既是Momenta的老股東，也是深度合作伙伴，此次作為基石繼續加碼投資，帶來產業端的資本與訂單雙重護航，意味著雙方的合作護城河進一步加深。此前，Momenta於6月23日在港交所刊發聆訊後資料集（PHIP），透過港交所聆訊，正式進入IPO衝刺階段。招股書顯示，Momenta近三年營收規模實現跨越式增長：2023年至2025年，Momenta營業收入從7.43億元增長至24.13億元，三年翻三倍，年均複合增長率超80%。截至2025年底，公司現金儲備超100億元。（新浪科技）"
-    },
-    {
-      "id": "4959051",
-      "time": "2026-06-28 23:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國連續三天重新整理本國最高氣溫紀錄】根據德國氣象局當地時間6月28日釋出的初步資料，當天下午4時左右，德國勃蘭登堡州的科申氣象站測得41.7攝氏度高溫。這是德國連續第三天重新整理最高氣溫紀錄。此前，德國氣象局26日在西部城市薩爾布呂肯測得41.3攝氏度高溫，27日在東部默肯-德雷維茨地區測得41.5攝氏度高溫。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0ed4-be7e-7aab-8c01-79dd9f449eb1",
-      "time": "2026-06-28 23:24:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Germany registers highest temperatures for third consecutive day】Preliminary data from the German Weather Service (DWD) show a Brandenburg weather station recorded 41.7°C at about 16:00 local time on June 28, marking the third straight day of national high-temperature records. DWD recorded 41.3°C in Saarbrücken on June 26 and 41.5°C in Merken-Drewitz on June 27."
-    },
-    {
-      "id": "mkt:019f0ed3-eb90-7aab-8c01-77663eba1d09",
-      "time": "2026-06-28 23:23:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Croatia issues nationwide heat warnings】On the 28th, the Croatian National Hydrometeorological Service issued red heat warnings for four regions and orange warnings for other parts of the country. Forecasts show daytime highs reaching up to 39°C in some areas."
-    },
-    {
-      "id": "4959050",
-      "time": "2026-06-28 23:22:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國獨立議員伯尼·桑德斯：如今美國民眾承受著巨大的生活壓力。大家知道壓力會帶來什麼後果嗎？壓力足以奪走人的生命。如果每天都要拼盡全力才能勉強維持一家生計，身心都會遭受嚴重損耗。現實情況是，工薪家庭、低收入人群的預期壽命遠達不到應有水平——足足少了六年。他們的平均壽命比富人短六年。大家明白我這話的分量嗎？換句話說，在美國，身為工薪階層等同於被判了縮短壽命的重刑。人們拼盡全力只為活下去，身心卻都在不斷被透支、摧垮。"
     }
   ]
 }

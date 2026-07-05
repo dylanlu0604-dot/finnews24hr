@@ -1,7 +1,75 @@
 {
   "date": "2026-07-05",
-  "count": 575,
+  "count": 583,
   "items": [
+    {
+      "id": "4971030",
+      "time": "2026-07-05 23:24:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月05日23時20分在四川德陽市綿竹市（北緯31.55度，東經103.98度）發生4.0級地震，震源深度15千米。"
+    },
+    {
+      "id": "mkt:019f32e0-e964-7aab-8ca3-9d419b664dc3",
+      "time": "2026-07-05 23:23:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's Channel 12 reports the military struck the Ali Tahir Heights in southern Lebanon. The Upper Galilee Regional Council warned residents they may hear explosions due to attacks from southern Lebanon."
+    },
+    {
+      "id": "4971029",
+      "time": "2026-07-05 23:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡為在被佔領的耶路撒冷周邊修建定居點的行為辯護，稱採取相關舉措是 “為保障耶路撒冷的完整統一”。"
+    },
+    {
+      "id": "mkt:019f32df-e5fd-7aab-8ca3-94476af7d6f1",
+      "time": "2026-07-05 23:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he and Trump are aligned on vision; although disagreements may arise, they discuss them candidly and publicly and typically reach solutions."
+    },
+    {
+      "id": "4971028",
+      "time": "2026-07-05 23:22:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月05日23時20分在四川德陽市綿竹市附近（北緯31.56度，東經103.99度）發生4.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4971027",
+      "time": "2026-07-05 23:22:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊在黎巴嫩南部的阿里·塔希爾高地地區發動了攻擊。"
+    },
+    {
+      "id": "4971026",
+      "time": "2026-07-05 23:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列上加利利地區委員會告知當地居民，黎巴嫩南部的軍事襲擊會帶來爆炸聲。"
+    },
+    {
+      "id": "4971025",
+      "time": "2026-07-05 23:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我和特朗普在願景上意見一致，可能會出現分歧，我們坦率而公開地討論它們，並且通常能達成解決方案。"
+    },
     {
       "id": "mkt:019f32de-8285-7aab-8ca3-8b060a74b933",
       "time": "2026-07-05 23:21:10",
