@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 487,
+  "count": 489,
   "items": [
+    {
+      "id": "mkt:019f31fe-4045-7aab-8ca2-96bdfa0ef919",
+      "time": "2026-07-05 19:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited a maritime intelligence firm saying Iranian Revolutionary Guard Corps vessels diverted six vessels from the Oman route."
+    },
+    {
+      "id": "4970968",
+      "time": "2026-07-05 19:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：來自加沙的威脅已被消除，除非解除武裝，否則加沙將無重建。加沙居民必須被允許享有選擇留在該地區還是離開的自由。"
+    },
     {
       "id": "4970967",
       "time": "2026-07-05 19:10:42",
