@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-06 00:35:10",
-  "count": 13141,
+  "updated": "2026-07-06 00:38:56",
+  "count": 13134,
   "items": [
+    {
+      "id": "mkt:019f3324-e4a6-7aab-8ca4-26dcfbe4410b",
+      "time": "2026-07-06 00:38:03",
+      "tags": [
+        "MKT News",
+        "BP.L",
+        "Impact bearish",
+        "8002.T",
+        "Impact mixed"
+      ],
+      "text": "【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry."
+    },
     {
       "id": "4971053",
       "time": "2026-07-06 00:33:44",
@@ -121088,79 +121100,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：保障燃油供應增量、制定符合經濟規律的合理價格，是穩定燃油市場的系統性舉措。"
-    },
-    {
-      "id": "mkt:019f0f18-c2b2-7aab-8c01-e6e13f20bcf6",
-      "time": "2026-06-29 00:38:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's President Putin said gas stations nationwide have seen long queues and public demand for gasoline is at times exceeding supply."
-    },
-    {
-      "id": "4959074",
-      "time": "2026-06-29 00:37:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：各地加油站前排起長隊，市面上時常供應不上民眾所需標號的汽油。"
-    },
-    {
-      "id": "mkt:019f0f17-9e4c-7aab-8c01-d9f7d4cdaad5",
-      "time": "2026-06-29 00:37:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Putin said Russia has begun drawing on its fuel reserves, but gasoline inventories remain flat YoY."
-    },
-    {
-      "id": "mkt:019f0f17-639a-7aab-8c01-d3abd5fdd36f",
-      "time": "2026-06-29 00:36:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Russian President Putin said Russia is considering a comprehensive ban on diesel exports."
-    },
-    {
-      "id": "mkt:019f0f16-618d-7aab-8c01-ce035f849d8b",
-      "time": "2026-06-29 00:35:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia’s largest refineries are operating at full capacity."
-    },
-    {
-      "id": "4959073",
-      "time": "2026-06-29 00:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：當前汽油庫存170萬噸，同比下降4%。"
-    },
-    {
-      "id": "mkt:019f0f16-342c-7aab-8c01-c3fea0ad0aee",
-      "time": "2026-06-29 00:35:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said previously stockpiled fuel has been supplied to Russia's domestic market."
-    },
-    {
-      "id": "mkt:019f0f15-ffde-7aab-8c01-bf62624e3a2f",
-      "time": "2026-06-29 00:35:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia's gasoline stocks reached 1.7 mln tonnes."
     }
   ]
 }

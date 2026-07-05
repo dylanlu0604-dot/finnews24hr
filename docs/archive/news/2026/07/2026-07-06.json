@@ -1,7 +1,19 @@
 {
   "date": "2026-07-06",
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "id": "mkt:019f3324-e4a6-7aab-8ca4-26dcfbe4410b",
+      "time": "2026-07-06 00:38:03",
+      "tags": [
+        "MKT News",
+        "BP.L",
+        "Impact bearish",
+        "8002.T",
+        "Impact mixed"
+      ],
+      "text": "【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry."
+    },
     {
       "id": "4971053",
       "time": "2026-07-06 00:33:44",
