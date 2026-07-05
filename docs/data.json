@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-05 09:09:48",
-  "count": 13226,
+  "updated": "2026-07-05 09:13:36",
+  "count": 13229,
   "items": [
+    {
+      "id": "4970769",
+      "time": "2026-07-05 09:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於晚間 11 點在美國250週年紀念活動上發表講話。"
+    },
+    {
+      "id": "mkt:019f2fd4-ebf2-7aab-8ca0-49900917fa3b",
+      "time": "2026-07-05 09:11:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【China, UK hold technical talks in London on services-trade pact feasibility study】June 30–July 1 in London, China and the UK held technical consultations on a joint feasibility study for a services trade agreement and reported substantial progress. Both sides agreed to accelerate follow-up work and aim to complete the joint feasibility study as soon as possible. The study was launched by an MoU in January; the parties previously held two online technical consultations."
+    },
+    {
+      "id": "4970768",
+      "time": "2026-07-05 09:10:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：基地組織西非分支宣稱對馬裡境內多處軍方據點襲擊事件負責。"
+    },
+    {
+      "id": "4970767",
+      "time": "2026-07-05 09:10:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中英服務貿易協定聯合可行性研究技術磋商在倫敦舉行】6月30日-7月1日，中英服務貿易協定聯合可行性研究技術磋商在英國倫敦舉行，取得實質性進展。雙方同意加快推進後續工作，爭取早日完成聯合可研。今年1月，雙方簽署諒解備忘錄，正式啟動中英服務貿易協定聯合可行性研究。此前，雙方已舉行2次線上技術磋商，就聯合可研有關事項深入交換意見。（商務部）"
+    },
     {
       "id": "4970766",
       "time": "2026-07-05 09:08:05",
@@ -121719,14 +121753,6 @@
         "國際"
       ],
       "text": "【乘聯分會崔東樹：5月中國汽車進口3.8萬輛，同比降19%】6月28日，乘聯分會秘書長崔東樹發文表示，2026年5月進口車進口3.8萬輛，下滑19%，但由於2025年1月基數低，雖然美國與伊朗戰爭導致運輸受阻，進口車總體下降較小，2026年1-5月進口汽車16萬輛，同比下降11%。隨著國產車的崛起和國際品牌本土化加速，近幾年汽車進口持續低迷，進口車持續3年負增長，如果熨平波動，則是連續8年的負增長。"
-    },
-    {
-      "id": "4958685",
-      "time": "2026-06-28 09:11:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭明錤：iOS 27將進一步深化與Apple Intelligence的系統級整合】6月27日，天風國際證券分析師郭明錤釋出報告指出，iOS 27將進一步深化與Apple Intelligence的系統級整合。其最新產業調查顯示，為確保在AI負載下系統仍能順暢運作，1H27新款配備A20處理器的較低階iPhone之DRAM規格將升級至9GB（1.5GB×6-die），高於目前A19機型的8GB（2GB×4-die）。2H26配備A20Pro處理器的三款高階機型（摺疊機與兩款18Pro機型）則維持12GB（1.5GBx8-die）。"
     }
   ]
 }

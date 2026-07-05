@@ -1,7 +1,41 @@
 {
   "date": "2026-07-05",
-  "count": 217,
+  "count": 221,
   "items": [
+    {
+      "id": "4970769",
+      "time": "2026-07-05 09:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於晚間 11 點在美國250週年紀念活動上發表講話。"
+    },
+    {
+      "id": "mkt:019f2fd4-ebf2-7aab-8ca0-49900917fa3b",
+      "time": "2026-07-05 09:11:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【China, UK hold technical talks in London on services-trade pact feasibility study】June 30–July 1 in London, China and the UK held technical consultations on a joint feasibility study for a services trade agreement and reported substantial progress. Both sides agreed to accelerate follow-up work and aim to complete the joint feasibility study as soon as possible. The study was launched by an MoU in January; the parties previously held two online technical consultations."
+    },
+    {
+      "id": "4970768",
+      "time": "2026-07-05 09:10:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：基地組織西非分支宣稱對馬裡境內多處軍方據點襲擊事件負責。"
+    },
+    {
+      "id": "4970767",
+      "time": "2026-07-05 09:10:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中英服務貿易協定聯合可行性研究技術磋商在倫敦舉行】6月30日-7月1日，中英服務貿易協定聯合可行性研究技術磋商在英國倫敦舉行，取得實質性進展。雙方同意加快推進後續工作，爭取早日完成聯合可研。今年1月，雙方簽署諒解備忘錄，正式啟動中英服務貿易協定聯合可行性研究。此前，雙方已舉行2次線上技術磋商，就聯合可研有關事項深入交換意見。（商務部）"
+    },
     {
       "id": "4970766",
       "time": "2026-07-05 09:08:05",
