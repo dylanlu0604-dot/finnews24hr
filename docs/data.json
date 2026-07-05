@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06 06:11:00",
+  "updated": "2026-07-06 06:14:52",
   "count": 13105,
   "items": [
+    {
+      "id": "4971140",
+      "time": "2026-07-06 06:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約州州長霍楚爾：今晚開始下雨，夜間雨勢將加大。"
+    },
+    {
+      "id": "4971139",
+      "time": "2026-07-06 06:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約州州長霍楚爾：洪水風險可能在早高峰時段達到峰值。"
+    },
     {
       "id": "4971138",
       "time": "2026-07-06 06:09:49",
@@ -120793,25 +120809,6 @@
         "公司"
       ],
       "text": "Momenta每股發售股份發售價為295.60港元。"
-    },
-    {
-      "id": "4959202",
-      "time": "2026-06-29 06:13:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Momenta全球發售擬定發售股份 1990 萬股。"
-    },
-    {
-      "id": "mkt:019f104b-a47d-7aab-8c03-53cd3c273273",
-      "time": "2026-06-29 06:13:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Momenta plans a Hong Kong listing with an offering of 19.93 million shares, subject to exercise of the overallotment option, priced at HK$295.6 per share; trading expected to begin July 8."
     }
   ]
 }
