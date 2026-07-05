@@ -1,7 +1,47 @@
 {
   "date": "2026-07-06",
-  "count": 126,
+  "count": 130,
   "items": [
+    {
+      "id": "mkt:019f344d-26b1-7aab-8ca5-64c7da6945ae",
+      "time": "2026-07-06 06:01:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold opened nearly $10 higher on Monday before retreating to $4,178.75/oz."
+    },
+    {
+      "id": "4971135",
+      "time": "2026-07-06 06:01:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.11%。"
+    },
+    {
+      "id": "mkt:019f344c-7a3f-7aab-8ca5-5871f2ba5707",
+      "time": "2026-07-06 06:00:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl."
+    },
+    {
+      "id": "4971134",
+      "time": "2026-07-06 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報63.06美元/盎司。"
+    },
     {
       "id": "4971133",
       "time": "2026-07-06 05:57:18",

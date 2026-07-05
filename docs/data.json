@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-06 05:59:06",
-  "count": 13111,
+  "updated": "2026-07-06 06:03:18",
+  "count": 13105,
   "items": [
+    {
+      "id": "mkt:019f344d-26b1-7aab-8ca5-64c7da6945ae",
+      "time": "2026-07-06 06:01:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold opened nearly $10 higher on Monday before retreating to $4,178.75/oz."
+    },
+    {
+      "id": "4971135",
+      "time": "2026-07-06 06:01:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.11%。"
+    },
+    {
+      "id": "mkt:019f344c-7a3f-7aab-8ca5-5871f2ba5707",
+      "time": "2026-07-06 06:00:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl."
+    },
+    {
+      "id": "4971134",
+      "time": "2026-07-06 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報63.06美元/盎司。"
+    },
     {
       "id": "4971133",
       "time": "2026-07-06 05:57:18",
@@ -120777,100 +120817,6 @@
         "Important"
       ],
       "text": "Spot silver advanced just over 1.00% in early trade to $59.39/oz."
-    },
-    {
-      "id": "4959199",
-      "time": "2026-06-29 06:03:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報59.38美元/盎司。"
-    },
-    {
-      "id": "4959198",
-      "time": "2026-06-29 06:01:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨下跌0.1%，布倫特原油價格上漲1.4%。"
-    },
-    {
-      "id": "mkt:019f1040-7615-7aab-8c03-3f2744537dee",
-      "time": "2026-06-29 06:01:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Spot gold opened flat on Monday at $4,078.61/oz."
-    },
-    {
-      "id": "mkt:019f1040-0af5-7aab-8c03-35b1b5a56db8",
-      "time": "2026-06-29 06:01:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened slightly higher on Monday, trading at $70.27 per barrel."
-    },
-    {
-      "id": "4959197",
-      "time": "2026-06-29 06:00:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內跌0.01%。"
-    },
-    {
-      "id": "mkt:019f103f-8494-7aab-8c03-2867e85b1f27",
-      "time": "2026-06-29 06:00:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "U.S. equity index futures opened modestly lower on Monday; Nasdaq futures down 0.2%."
-    },
-    {
-      "id": "4959196",
-      "time": "2026-06-29 06:00:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4100美元/盎司，日內漲0.10%。"
-    },
-    {
-      "id": "4959195",
-      "time": "2026-06-29 06:00:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普宣佈對伊朗發動新一輪大規模打擊。他警告，伊朗教士政權或將難以為繼。"
-    },
-    {
-      "id": "4959194",
-      "time": "2026-06-29 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報70.77美元/桶。"
-    },
-    {
-      "id": "4959193",
-      "time": "2026-06-29 06:00:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報73.89美元/桶。"
     }
   ]
 }
