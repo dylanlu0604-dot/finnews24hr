@@ -1,7 +1,26 @@
 {
   "date": "2026-07-06",
-  "count": 112,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:019f3423-5293-7aab-8ca5-43292a6c59d2",
+      "time": "2026-07-06 05:15:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Finland's Stubb meets China's foreign minister Wang Yi in Turku】On July 5 local time in Turku, Finland's president Stubb met Politburo member and China's foreign minister Wang Yi."
+    },
+    {
+      "id": "4971123",
+      "time": "2026-07-06 05:15:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【芬蘭總統斯圖佈會見王毅】當地時間7月5日，芬蘭總統斯圖布在圖爾庫會見中共中央政治局委員、外交部長王毅。（新華社）"
+    },
     {
       "id": "4971122",
       "time": "2026-07-06 05:10:23",
