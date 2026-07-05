@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-06 00:38:56_
-_本檔包含 2408 則快訊，約 506695 字_
+_更新時間：2026-07-06 01:43:39_
+_本檔包含 2404 則快訊，約 507365 字_
+
+---
+
+### 2026-07-01 20:13:59  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+Shell Stock Price Hits 19-week Low — Shell shares decreased to 2884.00 GBp, the lowest since February 2026. Over the past 4 weeks, Shell plc lost 10.27%, and in the last 12 months, it increased 10.29%.
+
+---
+
+### 2026-07-01 20:13:53  #其他
+
+【比利時一公寓樓起火 已致6人死亡】比利時警方當地時間7月1日稱，位於安特衛普的一棟公寓樓當天上午發生火災，造成多人死亡和受傷。消防人員仍在現場搜尋受害者。（央視新聞）
+
+---
+
+### 2026-07-01 20:13:05  #公司 #市場 #央行 #國際
+
+【比特幣下跌，受美國加息押注及Strategy新計劃影響】比特幣在隔夜觸及21個月低點後依然承壓。對美聯儲可能加息的預期是導致該加密貨幣走弱的原因之一。Trade Nation的David Morrison在一份報告中表示，囤積加密貨幣的公司Strategy可能出售比特幣以籌集更多現金的訊息，也無助於提振市場情緒。“這是該公司創始人Michael Saylor曾說過永遠不會發生的事情。”他表示，投資者似乎正在撤出加密貨幣，並湧入半導體股票以及任何與AI相關的領域。
+
+---
+
+### 2026-07-01 20:12:57  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish
+
+【Nomura: Too early to call peak in chip stocks】Nomura analysts say it is too early to declare chip stocks have peaked and expect the sector’s upward momentum to continue. They cite two drivers: hyperscale data‑center operators that must scale or exit are unlikely to stop investing through 2027, in part because rising storage‑chip costs are sustaining spend; and data‑center buildouts are accelerating. The team calls the recent chip‑price pullback “healthy” but warns markets have not yet priced some potential future risks and supply shortages.
+
+---
+
+### 2026-07-01 20:12:52  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources say OPEC+ is likely to raise August oil production quotas by 188,000 b/d at its Sunday meeting.
+
+---
+
+### 2026-07-01 20:12:26  #公司
+
+【江波龍：邁仕渡積體電路（中山）有限公司不會進行主控晶片的生產研發】江波龍(301308)7月1日在互動平臺表示，邁仕渡積體電路（中山）有限公司不會進行主控晶片的生產研發，公司自研主控晶片及儲存晶片採用Fabless模式（無晶圓廠製造模式）。子公司設立，是公司動態最佳化經營策略的體現，該等變化短期不實質影響公司合併報表層面，不宜過度解讀。
+
+---
+
+### 2026-07-01 20:12:12  #市場 #焦點
+
+三名訊息人士透露，石油輸出國組織與夥伴國（OPEC+）週日會議上大機率會將8月石油產量配額每日上調18.8萬桶。
+
+---
+
+### 2026-07-01 20:12:00  #Trading Economics #Economy #Brazil #Loan Growth #Importance 1
+
+Brazil Loan Growth Picks Up — The value of outstanding loans from the Brazilian financial sector rose by 0.6% from the previous month to R$7.3 trillion in May of 2026. Despite the acceleration, the growth rate remained slightly below averages since recovery of the Brazilian economic crisis in 2017, as the Brazilian central bank maintained its policy rate as one of the highest real rates globally to combat inflationary risks. Loans extended to households rose by 0.5% in the period to R$4.6 trillion. In the meantime, loans extended to companies rose 0.7% to 2.7 trillion.
+
+---
+
+### 2026-07-01 20:11:23  #其他
+
+【深圳闢謠“全域開放無人駕駛計程車”：將嚴格控制投放規模】《深圳經濟特區智慧網聯汽車管理條例》修改決定於7月1日起施行。此前有訊息解讀稱“深圳將全域開放無人駕駛計程車”，對此，7月1日，深圳市有關職能部門回應稱，該訊息不實，深圳市交通運輸局正推動智慧網聯汽車產業叢集發展，嚴格控制投放規模。
+
+---
+
+### 2026-07-01 20:11:19  #MKT News #Market Regions #Greater China
+
+【Shenzhen denies plan to open entire city to driverless taxis; will strictly limit deployments】An amendment to the Shenzhen Special Economic Zone Intelligent Connected Vehicle Management Regulation took effect July 1. Reports that Shenzhen would open the entire city to driverless taxis are false, city authorities said July 1. The Shenzhen Transport Bureau said it is promoting an intelligent connected vehicle industry cluster while strictly controlling the scale of robotaxi deployments.
+
+---
+
+### 2026-07-01 20:10:34  #其他
+
+阿維塔 6 月交付 7459 輛。
+
+---
+
+### 2026-07-01 20:09:53  #國際
+
+市場訊息：TIKTOK證實在印尼裁員。
+
+---
+
+### 2026-07-01 20:09:27  #公司
+
+【紫光國微：收到深交所發行股份購買資產申請稽核問詢函】紫光國微公告稱，公司於2026年6月30日收到深交所出具的《稽核問詢函》，深交所對公司發行股份及支付現金購買資產並募集配套資金申請檔案進行稽核並形成問詢問題。公司將會同中介機構落實並提交回復，透過臨時公告披露。本次交易尚需多項審批，能否獲批及時間存在不確定性，公司將推進工作並及時披露資訊。
+
+---
+
+### 2026-07-01 20:08:52  #MKT News
+
+Operator said Hungary's energy minister extended a temporary exemption from downstream cooling-water temperature limits for the Paks nuclear power plant.
+
+---
+
+### 2026-07-01 20:08:49  #其他
+
+【工業和資訊化部辦公廳、農業農村部辦公廳開展農業領域機器人典型應用場景遴選工作】工業和資訊化部、農業農村部聯合開展2026年度農業領域機器人典型應用場景遴選工作。面向種植、養殖、農產品初加工3個重點領域，聚焦育苗繁育、耕整、播栽、田間管理、收穫，飼養、繁育、畜禽產品採集、廢棄物資源化利用與無害化處理，農產品初制加工、儲運等關鍵環節，徵集遴選一批技術先進、成熟度高、成效明顯、應用前景廣闊、可複製推廣的機器人典型應用場景，並加強推廣應用。(工信部)
+
+---
+
+### 2026-07-01 20:08:47  #其他
+
+匈牙利能源部長延長保克什核電站下游冷卻水溫度法規臨時豁免期限。
+
+---
+
+### 2026-07-01 20:07:53  #公司 #國際
+
+【翰宇藥業：利拉魯肽(H)注射液獲批上市】翰宇藥業公告稱，公司近日收到國家藥監局下發的利拉魯肽(H)注射液《藥品註冊證書》，批准文號為國藥準字H20260049，為境內生產的化學藥品2.2類。該藥品適用於成人2型糖尿病患者控制血糖等。它是國內首家全化學合成的利拉魯肽製劑，2024年12月已在美國首仿上市並商業化。不過，藥品上市後存在銷售不達預期風險。
+
+---
+
+### 2026-07-01 20:07:44  #公司 #觀點
+
+高盛私人信貸公司：我們正進入私人信貸管理人之間出現“顯著分化”的階段。
+
+---
+
+### 2026-07-01 20:07:34  #MKT News #Market Regions #Europe & UK
+
+【CAAC director Song Zhiyong meets UK transport minister Heidi Alexander】July 1, Beijing — CAAC Director Song Zhiyong met UK Transport Minister Heidi Alexander; they agreed to deepen China‑UK cooperation on air connectivity, the civil aviation green transition, airport operations management and low‑altitude economy development.
 
 ---
 
@@ -14410,143 +14524,5 @@ Iranian parliament speaker Ghalibaf said a third war imposed on Iran, if it occu
 ### 2026-07-01 03:27:47  #國際
 
 伊朗議會議長卡利巴夫：斷然否認相關資金僅被限定用於向美國農戶採購糧食。
-
----
-
-### 2026-07-01 03:27:33  #MKT News
-
-Iran's parliament speaker Ghalibaf, asked whether the funds are restricted to buying grain from US farmers, said absolutely not.
-
----
-
-### 2026-07-01 03:26:42  #國際
-
-據Politico ：美國聯邦航空管理局（FAA）規定其員工不得購入SpaceX股票 。
-
----
-
-### 2026-07-01 03:26:12  #國際
-
-美國副總統萬斯談及伊朗： 伊朗方面有一點讓我既費解又無奈，他們嘴上總說 “沒有正在進行的和平談判”，但美伊之間明明一直在圍繞和平協議開展技術性磋商。 這是一套波斯人的談判話術與修辭手段，我實在無法理解。
-
----
-
-### 2026-07-01 03:25:06  #MKT News
-
-Israel's prime minister NETANYAHU acknowledged occasional differences with Trump.
-
----
-
-### 2026-07-01 03:24:46  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-U.S. Vice President Vance said President Trump is willing to use military strikes, but only if they serve a clear strategic objective.
-
----
-
-### 2026-07-01 03:23:49  #國際
-
-熱浪將至，美國對 PJM 電網釋出應急狀態指令。
-
----
-
-### 2026-07-01 03:23:43  #MKT News #WTI #Impact bullish #Brent
-
-Iranian parliament speaker Ghalibaf said if the U.S. attempts to deprive Iran of the right to sell oil, 'no one will benefit from oil'.
-
----
-
-### 2026-07-01 03:23:22  #MKT News #WTI #Impact bearish #Brent
-
-Iranian parliament speaker Ghalibaf said the Strait of Hormuz's value lies in rising transit volumes, not declines, and it must not be "used in reverse" or become a tool that harms Iran.
-
----
-
-### 2026-07-01 03:22:39  #國際
-
-伊朗議會議長卡利巴夫： 倘若美國企圖剝奪伊朗的石油出口權，各方都無法從石油貿易中獲益。
-
----
-
-### 2026-07-01 03:22:30  #MKT News #WTI #Impact bearish #Brent
-
-Iranian parliament speaker Ghalibaf said oil sanctions on Iran have been lifted and that Iran is currently selling crude at roughly a 20% premium.
-
----
-
-### 2026-07-01 03:22:03  #市場 #國際
-
-伊朗議會議長卡利巴夫： 石油制裁已解除，我們的石油售價上漲了兩成。
-
----
-
-### 2026-07-01 03:21:40  #其他
-
-NASA ：Astrobotic 獲 2.979 億美元合同，螢火蟲航天（Firefly Aerospace）獲 1.442 億美元合同 ，Intuitive Machines 獲 1.483 億美元合同。
-
----
-
-### 2026-07-01 03:21:01  #MKT News
-
-Brazil's finance minister said the government is reassessing liquefied natural gas (LNG) subsidy policy and that any adjustment would have relatively limited impact.
-
----
-
-### 2026-07-01 03:20:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's parliament speaker Ghalibaf said Iran must gradually expand commercial activity and transit capacity in the Strait of Hormuz. He said Iran should impose restrictions on the United States and Israel, while overall transit volumes through the strait still need to increase.
-
----
-
-### 2026-07-01 03:20:06  #MKT News
-
-Brazil's finance minister said the government is willing to renegotiate agricultural debt but will not accept a blanket, one-size-fits-all restructuring that covers all groups, particularly programs that include recipients without genuine need. He stressed agricultural debt restructuring is not linked to oil export taxes.
-
----
-
-### 2026-07-01 03:19:55  #其他
-
-Meta：Discord 今日登陸 Meta Quest。
-
----
-
-### 2026-07-01 03:19:30  #其他
-
-NASA 公佈入選企業：Astrobotic、螢火蟲航天（Firefly Aerospace）、Intuitive Machines。
-
----
-
-### 2026-07-01 03:18:45  #國際
-
-美國國家航空航天局選定三家企業，承接四項全新航天任務。
-
----
-
-### 2026-07-01 03:18:30  #MKT News #WTI #Impact bullish #Brent
-
-Brazil's finance minister said the government is carefully assessing a tax on oil exports.
-
----
-
-### 2026-07-01 03:18:28  #國際
-
-美國副總統萬斯談及伊朗： 我們要求伊朗作出可核查、有核查機制支撐的持久承諾，徹底實現全境無核化。
-
----
-
-### 2026-07-01 03:18:17  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-【Investors shrug off Middle East fighting; U.S. stocks poised for largest Q2 gain in years】U.S. major indices rose Tuesday, with the S&P 500 and Nasdaq poised for their largest quarterly gains since 2020 and the Dow for its best quarter since 2022. Investors remain upbeat on U.S. growth and corporate earnings despite ongoing Middle East hostilities. Signs of progress in Iran ceasefire talks briefly lifted risk appetite, though renewed weekend fighting left the deal outlook uncertain. After a strong Q1 earnings season, market attention shifts to Q2 results due over the coming weeks.
-
----
-
-### 2026-07-01 03:17:36  #國際
-
-美國副總統萬斯談及黎巴嫩局勢 ：如今黎巴嫩與以色列已開啟直接對話，這與數月前的局面截然不同，雙方大方向立場趨於一致。甚至可以這樣理解：若將黎以和平協議與美伊簽署的諒解備忘錄統籌對照，兩份檔案的核心要義均是承諾尊重黎巴嫩領土完整。局勢確實發生了顯著轉變，但關鍵在於這一轉變能否長久維持。
-
----
-
-### 2026-07-01 03:17:21  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-U.S. Vice President Vance said coordinating a Lebanon-Israel peace arrangement with a U.S.-Iran agreement would see both center on respect for Lebanon's territorial integrity.
 
 ---

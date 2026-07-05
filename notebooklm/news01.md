@@ -1,7 +1,288 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-06 00:38:56_
-_本檔包含 2381 則快訊，約 506792 字_
+_更新時間：2026-07-06 01:43:39_
+_本檔包含 2414 則快訊，約 507608 字_
+
+---
+
+### 2026-07-06 01:42:49  #國際
+
+特朗普分別致電普京與澤連斯基，意在重啟陷入停滯的和平談判；在土耳其北約峰會召開前夕，美方主動提出牽頭斡旋俄烏衝突的和平解決方案。
+
+---
+
+### 2026-07-06 01:39:30  #MKT News
+
+【Iran supreme leader reappoints Mohseni Ejei as judiciary chief】Iran's supreme leader Mujtaba Khamenei issued a decree on the 5th reappointing Mohseni Ejei as head of the judiciary, the Supreme Leader's Office said.
+
+---
+
+### 2026-07-06 01:39:24  #國際
+
+【伊朗最高領袖任命埃傑伊繼續擔任司法總監】據伊朗最高領袖辦公室5日訊息，伊朗最高領袖穆傑塔巴·哈梅內伊釋出任免令，再次任命穆赫辛尼·埃傑伊為伊朗司法總監。（新華社）
+
+---
+
+### 2026-07-06 01:36:35  #國際
+
+德國國防部長：烏克蘭已不再需要 “金牛座” 巡航導彈，烏軍自研無人機已能成功打擊俄羅斯境內深處的煉油廠與軍用後勤設施。
+
+---
+
+### 2026-07-06 01:36:10  #MKT News
+
+Sources say French President Macron will visit Damascus soon, becoming the first Western head of state to visit Syria since the fall of the Assad regime; he will be accompanied by a delegation of investors and firms.
+
+---
+
+### 2026-07-06 01:35:55  #國際
+
+馬克龍大馬士革之行將率領投資者與企業代表團出訪，法國意在敘利亞重建專案中攫取大量核心投資份額。
+
+---
+
+### 2026-07-06 01:35:11  #國際
+
+法國總統馬克龍將於近期訪問敘利亞首都大馬士革。
+
+---
+
+### 2026-07-06 01:34:42  #MKT News #Market Regions #Greater China
+
+【Sichuan quake prompts immediate full closure of G545 Mian‑Mao Highway (Mianzhu–Maoxian)】Sichuan authorities have ordered immediate, temporary full traffic control on the G545 Mian‑Mao Highway between Mianzhu and Maoxian after the Mianzhu earthquake, citing landslide and rockfall risks. The closure is effective on release and will remain until road‑hazard inspections, emergency response and road‑safety assessments are completed; reopening will be announced separately. Both directions are closed to all civilian motor vehicles, non‑motorized vehicles and pedestrians. Only credentialed emergency rescue, fire, medical, engineering clearance and official command/assurance vehicles may transit. Road users should plan alternative routes and follow on‑site personnel instructions.
+
+---
+
+### 2026-07-06 01:34:11  #其他
+
+【受四川綿竹地震影響 G545綿茂公路實施全線交通管制】記者從綿竹市相關部門瞭解到，受綿竹地震影響，G545綿茂公路沿線存在山體滑坡、落石等安全風險。當地相關部門決定對綿茂公路全線（綿竹段至茂縣段）實施臨時性全域交通管制，自通告發布即時起實施，解除時間將根據道路隱患排查、應急處置及路況安全評估結果另行通告。
+
+管制期間，綿茂公路全線雙向封閉，禁止所有社會機動車、非機動車及行人通行。僅允許應急救援車輛、消防搶險車輛、醫療急救車輛、工程排險作業車輛、公務指揮保障車輛等專用車輛憑證通行。
+
+途經該路段的社會車輛請提前規劃繞行路線，自覺服從現場執勤人員指揮。（央視新聞）
+
+---
+
+### 2026-07-06 01:29:04  #MKT News #WTI #Impact bullish #Brent
+
+【US official: Trump to raise Strait of Hormuz navigation at NATO summit】A senior US official said Trump will discuss navigation in the Strait of Hormuz at the NATO summit; allies are prepared to participate in protecting shipping security in the strait.
+
+---
+
+### 2026-07-06 01:28:01  #焦點 #國際
+
+白宮：特朗普將出席週三北約領導人晚宴。
+
+---
+
+### 2026-07-06 01:27:51  #國際
+
+訊息人士：特朗普透過模因幣相關專案獲利6.36億美元，而近100萬名散戶投資者合計虧損38.1億美元。
+
+---
+
+### 2026-07-06 01:27:34  #國際
+
+美國高階官員：今年暫無重新審議《華盛頓條約》的計劃。
+
+---
+
+### 2026-07-06 01:26:47  #國際
+
+市場資訊：特朗普要求所有北約盟友增加國防預算。
+
+---
+
+### 2026-07-06 01:26:27  #MKT News
+
+A senior U.S. official said the Washington Treaty is not expected to be reopened this year.
+
+---
+
+### 2026-07-06 01:24:52  #國際
+
+白宮官員談及歐洲駐軍規模：防長赫格塞思受命開展相關評估審查。
+
+---
+
+### 2026-07-06 01:22:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+A US senior official said Trump believes the Russia-Ukraine conflict must end quickly and that front lines have been stalemated for months. The official added the US is likely to make progress toward ending the war in Ukraine.
+
+---
+
+### 2026-07-06 01:20:52  #國際
+
+特朗普：感謝國際足聯做出公正之舉，糾正了這一巨大不公。
+注：FIFA宣佈，Folarin Balogun將可參加美國隊週一對陣比利時的16強比賽。國際足聯紀律委員會已暫停對美國前鋒在32強賽擊敗波斯尼亞和黑塞哥維那比賽中出示的紅牌。
+
+---
+
+### 2026-07-06 01:20:37  #MKT News
+
+A senior U.S. official said they expect Trump to hold further communications with Russian President Vladimir Putin.
+
+---
+
+### 2026-07-06 01:19:35  #國際
+
+白宮官員：美方有望在結束烏克蘭戰事方面取得進展。
+
+---
+
+### 2026-07-06 01:19:13  #國際
+
+白宮官員：特朗普認為必須儘快結束俄烏衝突，俄烏前線戰局已僵持數月。
+
+---
+
+### 2026-07-06 01:18:23  #國際
+
+【達美航空客機在芝加哥降落時遭煙花擊中】當地時間週六晚間，達美航空一架載有52名乘客、6名機組人員的航班，在即將降落芝加哥某機場時被煙花擊中。達美航空發言人表示，這架從亞特蘭大哈茨菲爾德-傑克遜國際機場飛往芝加哥中途國際機場的航班，“據稱在下降階段撞上了煙花”。發言人補充道：“航班已安全落地並滑行至登機口。本次事件無人受傷，相關情況已上報航空管理部門。”事發時，全美數百萬人燃放煙花慶祝美國建國250週年。
+
+---
+
+### 2026-07-06 01:17:42  #MKT News
+
+A senior U.S. official said Trump will discuss with Ukrainian President Zelenskiy how to end the war.
+
+---
+
+### 2026-07-06 01:17:38  #國際
+
+白宮官員：特朗普在與澤連斯基會晤後，或將與普京展開後續溝通。
+
+---
+
+### 2026-07-06 01:16:58  #其他
+
+達美航空一架客機在芝加哥降落時被煙花擊中。
+
+---
+
+### 2026-07-06 01:16:19  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+A U.S. senior official said Trump will announce a plan involving tens of billions of dollars at the NATO summit.
+
+---
+
+### 2026-07-06 01:15:13  #MKT News
+
+【H1 bond underwriting ranking: top five brokers hold over 50%】H1 bond underwriting rankings released. Wind data show CITIC Securities retained the top spot by total underwriting; Guotai Haitong and CSC Financial ranked second and third. The top five brokers accounted for more than half of total underwriting, underscoring rising market concentration. Brokers are targeting expansion in Sci‑tech innovation bonds and industrial bonds to channel financial liquidity into the real economy.
+
+---
+
+### 2026-07-06 01:14:49  #國際
+
+白宮官員：（特朗普北約之行）場外或將達成數十億美元軍售協議。
+
+---
+
+### 2026-07-06 01:14:19  #MKT News
+
+White House official said Trump will meet Turkish President ERDOGAN during his NATO trip.
+
+---
+
+### 2026-07-06 01:14:07  #觀點
+
+【上半年券商債券承銷榜出爐 前五名包攬五成份額】上半年券商債券承銷排行榜正式揭曉。Wind資料顯示，從總承銷金額來看，中信證券蟬聯榜首，國泰海通、中信建投分列第二、三位。市場格局方面，前五名券商合計佔據券商承銷金額的五成以上，行業馬太效應持續深化。在業務發力方向上，券商正積極把握科創債、產業債擴容機遇，引導金融活水精準澆灌實體經濟。
+
+---
+
+### 2026-07-06 01:13:45  #其他
+
+兩名石油行業官員透露：伊拉克6月石油出口總量約2450萬桶。
+
+---
+
+### 2026-07-06 01:13:25  #國際
+
+白宮官員：特朗普將在北約之行期間與埃爾多安舉行會晤。
+
+---
+
+### 2026-07-06 01:09:42  #MKT News
+
+Trump will hold bilateral meetings with the leaders of Ukraine and Syria during the NATO summit.
+
+---
+
+### 2026-07-06 01:08:58  #國際
+
+特朗普將在北約峰會期間與烏克蘭、敘利亞領導人舉行雙邊會晤。
+
+---
+
+### 2026-07-06 01:08:16  #MKT News
+
+White House says Trump will meet Zelenskiy during the NATO summit.
+
+---
+
+### 2026-07-06 01:07:46  #國際
+
+白宮：特朗普將在北約峰會期間會見澤連斯基。
+
+---
+
+### 2026-07-06 01:05:16  #MKT News #DXY #Impact bullish #XAUUSD #Impact mixed
+
+【Israel says it has full control of Beaufort Ridge in southern Lebanon】On the 5th, IDF chief of staff Zamir visited Beaufort Ridge in southern Lebanon and said that after its capture the IDF now fully controls the position’s surface area and its underground tunnel network. He said the military will continue operations to eliminate threats from Lebanon. The Beaufort position overlooks large parts of southern Lebanon. On May 31, Prime Minister Netanyahu said the IDF had seized the site.
+
+---
+
+### 2026-07-06 00:59:07  #國際
+
+【以軍稱已全面控制黎巴嫩南部博福特嶺】5日，以色列國防軍總參謀長扎米爾前往黎巴嫩南部的博福特嶺。扎米爾說，在攻佔博福特嶺後，目前以軍已全面控制了這一地區的地面部分及地下隧道網路。他還表示，以軍將繼續採取行動消除來自黎巴嫩的威脅。博福特嶺據點是黎南部的一處戰略要地，在此可俯瞰黎南部大片地區。5月31日，以色列總理內塔尼亞胡稱，以軍已攻佔博福特嶺據點。
+
+---
+
+### 2026-07-06 00:56:46  #國際
+
+伊朗議會議長：美國是不可靠的談判方，因此我們在談判中劃定了清晰底線並始終堅守。抵抗陣線與黎巴嫩相關問題，是我們劃定的紅線之一。
+
+---
+
+### 2026-07-06 00:56:27  #MKT News
+
+Iranian parliament speaker Ghalibaf said the resistance front and Lebanon-related issues are among Iran's red lines.
+
+---
+
+### 2026-07-06 00:56:13  #MKT News
+
+Iranian parliament speaker Ghalibaf said the United States is an unreliable negotiating partner, so we have set clear limits in negotiations and have consistently upheld them.
+
+---
+
+### 2026-07-06 00:45:01  #MKT News
+
+Israel's president, responding to the government's decision not to comply with the Supreme Court's ruling, said disrespecting judicial rulings is an absolute red line.
+
+---
+
+### 2026-07-06 00:42:40  #國際
+
+以色列總統就政府拒不執行最高法院裁決的表態作出回應：“不尊重司法裁決是絕對不可逾越的紅線。”
+
+---
+
+### 2026-07-06 00:41:30  #國際
+
+美國紐約市東河發生飛機墜機事故，至少10人已獲救。
+
+---
+
+### 2026-07-06 00:39:53  #國際
+
+知情人士：以色列多名高階官員將於未來數日至數週內前往華盛頓參加高層會談，針對伊朗採取軍事行動的選項仍擺在檯面上。
+
+---
+
+### 2026-07-06 00:39:19  #公司 #國際
+
+英國石油公司考慮退出其與日本合作伙伴共同開發的日本北部近海風電專案。
 
 ---
 
@@ -14316,83 +14597,5 @@ South Africa Private Sector Returns to Growth — The S&P Global South Africa PM
 ### 2026-07-03 15:54:16  #公司
 
 【東風股份：2026年6月汽車及發動機產銷資料公佈】東風股份公告稱，2026年6月，公司汽車合計產量12,515輛，同比增長84.84%，本年累計產量68,905輛，同比增長9.00%；銷量11,016輛，同比增長22.13%，本年累計銷量69,185輛，同比增長0.44%。其中，新能源汽車產量5,163輛，同比增長424.16%，本年累計產量18,969輛，同比增長67.72%；銷量3,709輛，同比增長357.34%，本年累計銷量18,602輛，同比增長100.30%。東風康明斯發動機產量24,213臺，同比增長29.05%，本年累計產量135,234臺，同比增長23.75%；銷量23,330臺，同比增長19.39%，本年累計銷量133,953臺，同比增長18.39%。
-
----
-
-### 2026-07-03 15:54:14  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【PMI: French services contracted more than expected in June】S&P Global's France services PMI rose to 46.8 in June from 44.3 in May but missed the preliminary 47.4, indicating a larger-than-expected contraction amid weak demand and inf pressure. The June composite PMI final rose to 47.2 from 44.9 in May, also below the 47.6 preliminary reading. S&P Global Markets Intelligence senior economist Joe Hayes said the June PMIs could have been worse given May's recession warning and a downward revision to Q1 GDP, and that the French economy remains mired in weak demand, low business confidence and strong inf pressure.
-
----
-
-### 2026-07-03 15:54:06  #MKT News #Market Regions #USDJPY #Impact bearish #DXY
-
-【Japanese officials muted on yen; silent mode raises risk of surprise intervention】Japan finance minister Katayama declined to comment on specific FX levels and said the government is prepared to take appropriate measures against currency volatility, remains in close contact with US authorities, and views monetary policy as the Bank of Japan’s remit while expecting close BOJ-government communication. A government spokesman echoed no comment on FX levels, reiterated authorities stand ready to act in FX markets, said monetary policy is under the BOJ and rates are market-determined, and said markets are being watched with high urgency. The BOJ’s relative silence this week is linked to market expectations of a end‑July rate hike. Market participants say Tokyo’s tactics may have shifted toward “raid‑style” intervention: Katayama’s recent language is more restrained than April’s bold warnings, and the Ministry of Finance could opt for surprise USD selling/JPY buying in low‑liquidity windows (for example around the US July 4 holiday).
-
----
-
-### 2026-07-03 15:54:05  #MKT News #Commodities #Industrial Metals
-
-Market sources said some Japanese aluminium buyers have agreed with global producers to pay a premium of US$395/tonne for July–September shipments.
-
----
-
-### 2026-07-03 15:53:48  #國際
-
-【國際原子能機構：尚未獲準進入伊朗核設施】國際原子能機構總幹事格羅西3日在維也納接受今日俄羅斯通訊社採訪時說，截至目前，該機構核查人員尚未獲準進入伊朗核設施，而伊朗持有的濃縮鈾仍在其核設施內。格羅西說，國際原子能機構已向伊方提出重返核設施進行核查的要求，但迄今尚未獲得伊方許可。他表示，按照其“總體印象”，伊朗現有的核材料仍在其核設施內，國際原子能機構已掌握這些核材料的存放位置及其存量。格羅西還說，國際原子能機構透過衛星影象等手段觀察發現，伊朗核設施已遭嚴重破壞，部分設施的進出道路已中斷。伊朗外交部副部長加里巴巴迪6月24日表示，有關伊朗遭襲核設施及核材料核查的議題，只有在伊朗與美國的最終協議框架內且對方切實終止所有制裁的前提下，方可進行討論和定奪。伊朗目前沒有允許國際原子能機構進入遭襲核設施和核材料區域的計劃。（新華社）
-
----
-
-### 2026-07-03 15:53:46  #公司
-
-【東華軟體：暫未佈局儲存晶片自研生產】東華軟體(002065)7月3日在互動平臺表示，公司暫未佈局儲存晶片自研生產，主要透過產業鏈深度合作、批次鎖採元器件對沖上游漲價壓力。東華閩都作為國產算力伺服器核心基地，一期產線已投產批次交付，產品搭載國產海光CPU，專供定向政企客戶測試部署。公司與摩爾執行緒簽訂長期GPU採購協議鎖定核心晶片供給，光模組等配套同步聯合頭部廠商定製適配。公司採用全鏈路模式提升綜合盈利，緩解上游成本波動帶來的壓力，同時聯動上下游共建算力產業生態穩定供應鏈。
-
----
-
-### 2026-07-03 15:53:11  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
-
-Shanghai Futures Exchange weekly inventories: copper down 13,055 tonnes, aluminium down 6,972 tonnes, zinc down 3,451 tonnes, lead up 1,237 tonnes, nickel up 1,573 tonnes, tin down 1,336 tonnes, natural rubber up 9,658 tonnes.
-
----
-
-### 2026-07-03 15:53:08  #其他
-
-上期所：本週銅庫存減少13055噸，鋁庫存減少6972噸，鋅庫存減少3451噸，鉛庫存增加1237噸，鎳庫存增加1573噸，錫庫存減少1336噸，天然橡膠庫存增加9658噸。
-
----
-
-### 2026-07-03 15:52:35  #國際
-
-訊息人士稱，部分日本鋁採購商已與全球生產商達成協議，同意為7-9月裝運的鋁支付每噸395美元的溢價。
-
----
-
-### 2026-07-03 15:52:29  #央行 #歐洲央行
-
-【歐洲央行行長拉加德：可能會提前離職 但暫無計劃參加2027年法國總統大選】歐洲中央銀行行長拉加德表示，她可能在2027年末任期結束前離職，但目前暫無計劃參加明年春季的法國總統大選。
-
----
-
-### 2026-07-03 15:51:51  #宏觀
-
-【國務院國資委舉辦“國資安瀾·2026”中央企業應對重大洪澇災害桌面演練】為深入貫徹落實習近平總書記關於防災減災救災工作重要指示批示精神，6月30日，國務院國資委依託中央企業應急救援綜合平臺舉辦“國資安瀾·2026”中央企業應對重大洪澇災害桌面演練。國務院國資委黨委委員、副主任龐驍剛擔任演練總指揮。演練全程透過中央企業應急救援綜合平臺進行排程，設定跨區域隊伍支援、多板塊聯合搶險、政企協同處置等實戰場景，完整推演險情上報、數字化戰場構建、力量投送、聯合現場處置等流程，集中展示中央企業專業化力量、科技化賦能、先進化裝備、數字化指揮、標準化處置等成果。
-
----
-
-### 2026-07-03 15:51:26  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【Canada advances West Coast oil pipeline to reduce reliance on U.S. market】Prime Minister Mark Carney said the federal government has formally submitted a proposal to the Major Projects Office to advance a West Coast oil pipeline routing Alberta crude to the British Columbia coast. The project, to be developed by Trans Mountain with Pembina Pipeline as a private investor, is designed for about 1.0 mln bpd and aims to deliver Canadian crude to global markets; Ottawa and Alberta signed an MOU in Nov 2025 and a project implementation agreement in May 2026.
-
----
-
-### 2026-07-03 15:50:46  #MKT News #Market Regions #Greater China
-
-【Beijing Stock Exchange terminates Tangxing Technology IPO review】July 3 — The Beijing Stock Exchange said it has terminated the IPO review of Anhui Tangxing Equipment Technology Co. after the company submitted an application to withdraw its public offering and BSE listing documents.
-
----
-
-### 2026-07-03 15:50:39  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-FTSE MIB Set for Weekly Gain — The FTSE MIB rose 0.5% to around 52,700 in early trading on Friday, heading for a weekly advance and tracking gains across Asian peers amid signs of expanding regional activity. This followed Thursday’s weak US jobs report, which led investors to scale back expectations of a near-term Federal Reserve rate hike. On the data front, Italy’s services activity returned to growth in June, while retail sales edged up 0.2% month-on-month in May, slightly above the expected 0.1% rise. Shares of Prysmian advanced 2.7% after JPMorgan raised its price target on the stock to €190 from €170 while maintaining an “overweight” rating. Other key gainers included Enel (0.9%), Tenaris (0.9%), Unipol Gruppo (1.1%), Saipem (1.8%), Nexi (1.6%), and Amplifon (1.8%). The index has risen more than 2% so far this week.
 
 ---

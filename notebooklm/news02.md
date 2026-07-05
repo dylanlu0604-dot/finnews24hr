@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-06 00:38:56_
-_本檔包含 2818 則快訊，約 506649 字_
+_更新時間：2026-07-06 01:43:39_
+_本檔包含 2799 則快訊，約 507181 字_
+
+---
+
+### 2026-07-03 15:54:14  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【PMI: French services contracted more than expected in June】S&P Global's France services PMI rose to 46.8 in June from 44.3 in May but missed the preliminary 47.4, indicating a larger-than-expected contraction amid weak demand and inf pressure. The June composite PMI final rose to 47.2 from 44.9 in May, also below the 47.6 preliminary reading. S&P Global Markets Intelligence senior economist Joe Hayes said the June PMIs could have been worse given May's recession warning and a downward revision to Q1 GDP, and that the French economy remains mired in weak demand, low business confidence and strong inf pressure.
+
+---
+
+### 2026-07-03 15:54:06  #MKT News #Market Regions #USDJPY #Impact bearish #DXY
+
+【Japanese officials muted on yen; silent mode raises risk of surprise intervention】Japan finance minister Katayama declined to comment on specific FX levels and said the government is prepared to take appropriate measures against currency volatility, remains in close contact with US authorities, and views monetary policy as the Bank of Japan’s remit while expecting close BOJ-government communication. A government spokesman echoed no comment on FX levels, reiterated authorities stand ready to act in FX markets, said monetary policy is under the BOJ and rates are market-determined, and said markets are being watched with high urgency. The BOJ’s relative silence this week is linked to market expectations of a end‑July rate hike. Market participants say Tokyo’s tactics may have shifted toward “raid‑style” intervention: Katayama’s recent language is more restrained than April’s bold warnings, and the Ministry of Finance could opt for surprise USD selling/JPY buying in low‑liquidity windows (for example around the US July 4 holiday).
+
+---
+
+### 2026-07-03 15:54:05  #MKT News #Commodities #Industrial Metals
+
+Market sources said some Japanese aluminium buyers have agreed with global producers to pay a premium of US$395/tonne for July–September shipments.
+
+---
+
+### 2026-07-03 15:53:48  #國際
+
+【國際原子能機構：尚未獲準進入伊朗核設施】國際原子能機構總幹事格羅西3日在維也納接受今日俄羅斯通訊社採訪時說，截至目前，該機構核查人員尚未獲準進入伊朗核設施，而伊朗持有的濃縮鈾仍在其核設施內。格羅西說，國際原子能機構已向伊方提出重返核設施進行核查的要求，但迄今尚未獲得伊方許可。他表示，按照其“總體印象”，伊朗現有的核材料仍在其核設施內，國際原子能機構已掌握這些核材料的存放位置及其存量。格羅西還說，國際原子能機構透過衛星影象等手段觀察發現，伊朗核設施已遭嚴重破壞，部分設施的進出道路已中斷。伊朗外交部副部長加里巴巴迪6月24日表示，有關伊朗遭襲核設施及核材料核查的議題，只有在伊朗與美國的最終協議框架內且對方切實終止所有制裁的前提下，方可進行討論和定奪。伊朗目前沒有允許國際原子能機構進入遭襲核設施和核材料區域的計劃。（新華社）
+
+---
+
+### 2026-07-03 15:53:46  #公司
+
+【東華軟體：暫未佈局儲存晶片自研生產】東華軟體(002065)7月3日在互動平臺表示，公司暫未佈局儲存晶片自研生產，主要透過產業鏈深度合作、批次鎖採元器件對沖上游漲價壓力。東華閩都作為國產算力伺服器核心基地，一期產線已投產批次交付，產品搭載國產海光CPU，專供定向政企客戶測試部署。公司與摩爾執行緒簽訂長期GPU採購協議鎖定核心晶片供給，光模組等配套同步聯合頭部廠商定製適配。公司採用全鏈路模式提升綜合盈利，緩解上游成本波動帶來的壓力，同時聯動上下游共建算力產業生態穩定供應鏈。
+
+---
+
+### 2026-07-03 15:53:11  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
+
+Shanghai Futures Exchange weekly inventories: copper down 13,055 tonnes, aluminium down 6,972 tonnes, zinc down 3,451 tonnes, lead up 1,237 tonnes, nickel up 1,573 tonnes, tin down 1,336 tonnes, natural rubber up 9,658 tonnes.
+
+---
+
+### 2026-07-03 15:53:08  #其他
+
+上期所：本週銅庫存減少13055噸，鋁庫存減少6972噸，鋅庫存減少3451噸，鉛庫存增加1237噸，鎳庫存增加1573噸，錫庫存減少1336噸，天然橡膠庫存增加9658噸。
+
+---
+
+### 2026-07-03 15:52:35  #國際
+
+訊息人士稱，部分日本鋁採購商已與全球生產商達成協議，同意為7-9月裝運的鋁支付每噸395美元的溢價。
+
+---
+
+### 2026-07-03 15:52:29  #央行 #歐洲央行
+
+【歐洲央行行長拉加德：可能會提前離職 但暫無計劃參加2027年法國總統大選】歐洲中央銀行行長拉加德表示，她可能在2027年末任期結束前離職，但目前暫無計劃參加明年春季的法國總統大選。
+
+---
+
+### 2026-07-03 15:51:51  #宏觀
+
+【國務院國資委舉辦“國資安瀾·2026”中央企業應對重大洪澇災害桌面演練】為深入貫徹落實習近平總書記關於防災減災救災工作重要指示批示精神，6月30日，國務院國資委依託中央企業應急救援綜合平臺舉辦“國資安瀾·2026”中央企業應對重大洪澇災害桌面演練。國務院國資委黨委委員、副主任龐驍剛擔任演練總指揮。演練全程透過中央企業應急救援綜合平臺進行排程，設定跨區域隊伍支援、多板塊聯合搶險、政企協同處置等實戰場景，完整推演險情上報、數字化戰場構建、力量投送、聯合現場處置等流程，集中展示中央企業專業化力量、科技化賦能、先進化裝備、數字化指揮、標準化處置等成果。
+
+---
+
+### 2026-07-03 15:51:26  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+【Canada advances West Coast oil pipeline to reduce reliance on U.S. market】Prime Minister Mark Carney said the federal government has formally submitted a proposal to the Major Projects Office to advance a West Coast oil pipeline routing Alberta crude to the British Columbia coast. The project, to be developed by Trans Mountain with Pembina Pipeline as a private investor, is designed for about 1.0 mln bpd and aims to deliver Canadian crude to global markets; Ottawa and Alberta signed an MOU in Nov 2025 and a project implementation agreement in May 2026.
+
+---
+
+### 2026-07-03 15:50:46  #MKT News #Market Regions #Greater China
+
+【Beijing Stock Exchange terminates Tangxing Technology IPO review】July 3 — The Beijing Stock Exchange said it has terminated the IPO review of Anhui Tangxing Equipment Technology Co. after the company submitted an application to withdraw its public offering and BSE listing documents.
+
+---
+
+### 2026-07-03 15:50:39  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+FTSE MIB Set for Weekly Gain — The FTSE MIB rose 0.5% to around 52,700 in early trading on Friday, heading for a weekly advance and tracking gains across Asian peers amid signs of expanding regional activity. This followed Thursday’s weak US jobs report, which led investors to scale back expectations of a near-term Federal Reserve rate hike. On the data front, Italy’s services activity returned to growth in June, while retail sales edged up 0.2% month-on-month in May, slightly above the expected 0.1% rise. Shares of Prysmian advanced 2.7% after JPMorgan raised its price target on the stock to €190 from €170 while maintaining an “overweight” rating. Other key gainers included Enel (0.9%), Tenaris (0.9%), Unipol Gruppo (1.1%), Saipem (1.8%), Nexi (1.6%), and Amplifon (1.8%). The index has risen more than 2% so far this week.
 
 ---
 
@@ -16781,197 +16859,5 @@ Spain's IBEX 35 rose 1.00% intraday.
 ### 2026-07-02 17:55:25  #MKT News #01772.HK #Impact bullish
 
 HKEX filing shows BlackRock's long position in Ganfeng Lithium (01772.HK) H‑shares rose to 8.78% from 7.59% on June 25.
-
----
-
-### 2026-07-02 17:55:24  #公司
-
-倍耐力收購義大利初創企業 RideSense 24.99% 股份。
-
----
-
-### 2026-07-02 17:55:20  #公司 #市場
-
-【亞威股份：向特定物件發行股票已獲註冊批覆，發行承銷總結已備案透過】亞威股份公告，公司股票交易價格連續2個交易日（2026年7月1日、2日）收盤價格漲幅偏離值累計超過20%，屬於異常波動。經公司自查及向相關方核實，公司前期披露資訊無需更正補充，近期公共傳媒無未公開重大資訊，經營情況無重大變化。公司前期披露的向特定物件發行股票申請已透過深交所稽核並獲證監會註冊批覆，當前發行承銷總結及相關檔案已在深交所備案透過，公司將盡快辦理新增股份登記事宜。除上述事項外，公司不存在應披露而未披露的重大事項。
-
----
-
-### 2026-07-02 17:55:16  #公司 #市場
-
-【雷賽智慧：股票交易異常波動，公司對2026年半年度業績預告進行補充說明】雷賽智慧公告，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經公司自查及向控股股東、實際控制人核實，公司2026年7月2日披露的《2026年半年度業績預告》存在補充之處，公司已於7月3日披露了補充說明公告；近期公司經營情況及內外部經營環境未發生重大變化，不存在應披露而未披露的重大事項。
-
----
-
-### 2026-07-02 17:55:06  #其他
-
-【遼寧：拓展“人工智慧+海洋”應用場景 探索量子技術在海洋科技領域應用】遼寧省人民政府近日印發《遼寧省“十五五”海洋經濟發展規劃》。其中提出，加快數字化智慧化轉型。加強“數字海洋”建設，系統佈局海洋數字基礎設施，強化海洋觀測監測、衛星遙感、無人機航拍等資料資源匯聚整合與標準化處理，構建空天地海一體化海洋資訊採集傳輸網路。推進北方海洋資料應用工程中心建設，建立黃渤海海洋垂直領域大模型與海洋大資料綜合應用服務平臺，強化海洋資料要素安全利用。深化人工智慧、數字孿生、物聯網等新一代資訊科技在海洋領域的融合應用，拓展“人工智慧+海洋”應用場景，探索量子技術在海洋科技領域應用。
-
----
-
-### 2026-07-02 17:55:03  #MKT News
-
-TSMC said Gina Proctor, finance head of its Arizona unit, has left her post due to a job transfer.
-
----
-
-### 2026-07-02 17:54:55  #公司
-
-臺積電：旗下臺積電亞利桑那公司財務長吉娜·普羅克特因崗位調整離任。
-
----
-
-### 2026-07-02 17:54:48  #其他
-
-【德國北部一醫院火災致2死1傷】據德國媒體報道，德國北部城市路德維希斯盧斯特一家醫院2日凌晨發生火災，造成2人死亡、1人受傷。報道說，當天凌晨，這家醫院五層建築的屋頂冒出火焰和濃煙。初步調查顯示，火情始於一間病房。事發後，醫院患者和工作人員被緊急疏散。當地消防隊出動大量人員滅火，目前明火已被撲滅。（新華社）
-
----
-
-### 2026-07-02 17:54:23  #其他
-
-【遼寧：加快培育發展海洋科技領軍企業和涉海專精特新中小企業】遼寧省人民政府近日印發《遼寧省“十五五”海洋經濟發展規劃》。其中提出，加強海洋關鍵核心技術攻關。實施核心技術攻堅工程，積極參與海洋科學、深海極地、海洋資源開發利用、海洋生態環境等國家重大科研任務，加快形成一批海洋重大技術成果。強化海洋核心裝備和關鍵技術自主研發，運用“揭榜掛帥”、“賽馬制”等機制，突破一批制約海洋產業發展的“卡脖子”技術。建設海洋裝備中試基地，加強海洋科技企業孵化器建設，引進培育一批科技成果轉化全鏈條服務機構，支援企業吸納高校科研院所科技成果在遼轉化。加快培育發展海洋科技領軍企業和涉海專精特新中小企業，支援企業牽頭組建創新聯合體。
-
----
-
-### 2026-07-02 17:54:17  #其他
-
-義大利富時MIB指數日內漲幅達1.00%。
-
----
-
-### 2026-07-02 17:54:16  #MKT News #Market Regions #Europe & UK #FTSEMIB.MI #Impact bullish
-
-Italy's FTSE MIB index was up 1.00% intraday.
-
----
-
-### 2026-07-02 17:54:14  #公司
-
-【*ST利源：籌劃重大資產重組 擬購金利股份36.19%股份】*ST利源公告稱，2026年6月2日，公司擬現金購買解協威等交易對方持有的江西金利城市礦產股份有限公司3539.49萬股股份，佔總股本36.19%，同時該公司主要股東將29.53%股份表決權委託給公司並質押。交易完成後，公司將控制金利股份65.72%表決權，使其成為控股子公司。截至公告披露日，相關機構已進場工作，交易各方仍在協商，尚未簽署正式協議，本次收購存在不確定性。
-
----
-
-### 2026-07-02 17:54:12  #MKT News #Commodities #Industrial Metals
-
-India's foreign ministry said India and Japan signed a geological and mineral-exploration cooperation agreement covering critical minerals.
-
----
-
-### 2026-07-02 17:53:52  #國際
-
-印度外交部：印度與日本簽署涵蓋關鍵礦產在內的地質與礦產勘探協議。
-
----
-
-### 2026-07-02 17:53:42  #MKT News #Star Stocks #GOOGL.O #Impact bearish
-
-Alphabet (GOOGL.O) shares fell 1.3% in premarket trading after the company lost a legal challenge to an EU antitrust fine.
-
----
-
-### 2026-07-02 17:53:40  #國際
-
-【美監管機構結束對特斯拉“意外減速”問題的調查】7月2日，據報道，美國國家公路交通安全管理局（NHTSA）表示，已結束對約69.5萬輛特斯拉車輛“意外減速”問題的初步評估，理由是對駕駛者的實際危害較低，且相關事件報告已大幅減少。
-
----
-
-### 2026-07-02 17:53:27  #國際
-
-印度外交部：印度與日本已同意簽署電池領域合作協議。
-
----
-
-### 2026-07-02 17:53:22  #公司
-
-香港交易所公告：中石化7月2日以1290萬元人民幣回購280萬股其他交易所流通的A股。
-
----
-
-### 2026-07-02 17:53:21  #MKT News #Market Regions #Japan & APAC #Copper #Impact bullish
-
-India's foreign ministry said India and Japan have agreed to sign a cooperation agreement in the battery sector.
-
----
-
-### 2026-07-02 17:52:46  #公司 #市場 #國際
-
-Alphabet股價盤前下跌1.3%；該公司在抗辯歐盟反壟斷罰款一案中敗訴。
-
----
-
-### 2026-07-02 17:52:44  #其他
-
-【遼寧：到2030年海洋生產總值達到8000億元】遼寧省人民政府近日印發《遼寧省“十五五”海洋經濟發展規劃》。其中提出，到2030年，海洋科技創新能力顯著提升，現代化海洋產業體系加快構建，海洋生態環境質量全面改善，開放合作持續深化，將我省打造成為海洋強國戰略東北支點、環渤海海洋科技創新高地、世界級高階船舶與海工裝備製造基地、高品質“藍色糧倉”及東北亞陸海核心樞紐。海洋生產總值達到8000億元，力爭實現更大突破。展望2035年，基本建成具有遼寧特色優勢的海洋經濟強省。
-
----
-
-### 2026-07-02 17:52:35  #公司
-
-【天和防務：向特定物件發行股票申請獲得稽核透過】天和防務公告，公司於2026年7月2日收到深圳證券交易所上市稽核中心出具的稽核中心意見告知函，對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。後續深交所將按規定報中國證券監督管理委員會履行相關注冊程式。公司本次向特定物件發行股票事項尚需獲得中國證監會同意註冊後方可實施，最終能否獲得中國證監會同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-07-02 17:52:24  #公司
-
-【璞泰來：控股子公司嘉拓智慧北交所上市申請獲受理後申請中止稽核】璞泰來公告，公司此前審議透過控股子公司嘉拓智慧申請向不特定合格投資者公開發行股票並在北交所上市的議案。嘉拓智慧於2026年6月26日向北交所報送申報材料，2026年6月30日北交所正式受理其申請。同日，嘉拓智慧向北交所提交中止稽核申請，北交所於2026年6月30日同意該申請。
-
----
-
-### 2026-07-02 17:52:20  #公司
-
-【博世中國等在上海成立新公司，註冊資本2億】天眼查App顯示，近日，樂歐博華技術（上海）有限公司成立，法定代表人為Zhu Tao，註冊資本2億人民幣，經營範圍包括電力電子元器件製造、電力電子元器件銷售、電動機制造等，由Robert Bosch Internationale Beteiligungen AG、西安億孚智慧裝備有限責任公司、博世（中國）投資有限公司共同持股。
-
----
-
-### 2026-07-02 17:52:10  #其他
-
-【水利部對三省份啟動洪水防禦Ⅳ級應急響應】記者從水利部獲悉，水利部2日對廣東、廣西、海南三省份啟動洪水防禦Ⅳ級應急響應，並派出工作組赴海南省防禦一線協助指導。記者瞭解到，受南海熱帶低壓（可能發展成為颱風）影響，7月3日至6日，華南大部及湖南、貴州南部、雲南東部等地將有一次強降雨過程，以大到暴雨為主，其中海南、廣東、廣西等地部分地區將有大暴雨。受降雨影響，珠江流域片海南昌化江南渡江、西江上中游幹流及支流鬱江柳江桂江、粵西桂南沿海諸河，長江流域洞庭湖水系沅江、資水等河流將出現明顯漲水過程；海南昌化江支流通什水、廣東西江支流羅定江、廣西紅水河支流都樂河、貴州柳江支流龍江、湖南沅江支流酉水、雲南南盤江支流巴江等中小河流可能發生超警以上洪水。（新華社）
-
----
-
-### 2026-07-02 17:51:42  #市場 #國際
-
-英國國債價格走低；美國就業資料公佈前，英國 10 年期國債收益率上行 5 個基點至 4.81%。
-
----
-
-### 2026-07-02 17:51:29  #公司
-
-【西貝餐飲集團退出小女當家】天眼查App顯示，近日，深圳小女當家企業管理有限公司發生工商變更，原股東內蒙古西貝餐飲集團有限公司退出，新增廣州品芯悅谷企業管理有限公司為股東。該公司成立於2020年4月，法定代表人為羅紅勇，註冊資本771.6萬人民幣，經營範圍包括餐飲管理、餐飲諮詢服務等，現由深圳市大羅企業管理有限公司、寧波普師企業管理諮詢有限公司及上述新增股東共同持股。
-
----
-
-### 2026-07-02 17:51:20  #公司
-
-【科拓生物：持股5%以上股東減持股份致持股比例降至6%】科拓生物公告稱，持股5%以上股東寧波順懿創業投資合夥企業（有限合夥）於2026年7月1日透過集中競價交易方式減持公司股份212,300股，佔公司總股本的0.08%，其持股比例由6.08%降至6.00%，權益變動比例觸及1%的整數倍。本次減持與已披露的減持計劃一致，未違反相關承諾，減持計劃尚未實施完畢。本次權益變動不會導致公司控股股東及實際控制人發生變化。
-
----
-
-### 2026-07-02 17:51:07  #MKT News #ED.O
-
-Consolidated Edison says equipment issues in two regions do not affect other parts of the company.
-
----
-
-### 2026-07-02 17:50:53  #公司
-
-【天沃科技：選舉姚丹花為董事長，聘任辛煒為副總經理】天沃科技公告，公司第四屆董事會第八十三次會議審議透過選舉姚丹花女士為董事長，任期自本次董事會審議透過之日起至本屆董事會屆滿之日止。同時，董事會同意聘任辛煒先生擔任公司副總經理，任期自本次董事會審議透過之日起至本屆董事會期滿換屆為止。會議還調整了董事會專門委員會委員組成。
-
----
-
-### 2026-07-02 17:50:50  #其他
-
-黎巴嫩總理：黎敘最高聯合委員會已成立，雙方簽署成立檔案，旨在深化兩國合作。
-
----
-
-### 2026-07-02 17:50:23  #其他
-
-愛迪生聯合電氣：兩個區域的裝置故障未對愛迪生聯合電氣其餘電網系統造成影響。
-
----
-
-### 2026-07-02 17:50:19  #公司
-
-【華蘭生物：參股公司華蘭安康撤回藥品註冊申請】華蘭生物公告，近日，公司參股公司華蘭安康生物股份有限公司收到國家藥品監督管理局簽發的《藥品註冊申請終止通知書》，同意利妥昔單抗注射液（HL03）註冊申請的撤回。
 
 ---

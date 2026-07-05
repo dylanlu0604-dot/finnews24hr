@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-06 00:38:56_
-_本檔包含 2504 則快訊，約 506689 字_
+_更新時間：2026-07-06 01:43:39_
+_本檔包含 2509 則快訊，約 507317 字_
+
+---
+
+### 2026-07-01 03:27:33  #MKT News
+
+Iran's parliament speaker Ghalibaf, asked whether the funds are restricted to buying grain from US farmers, said absolutely not.
+
+---
+
+### 2026-07-01 03:26:42  #國際
+
+據Politico ：美國聯邦航空管理局（FAA）規定其員工不得購入SpaceX股票 。
+
+---
+
+### 2026-07-01 03:26:12  #國際
+
+美國副總統萬斯談及伊朗： 伊朗方面有一點讓我既費解又無奈，他們嘴上總說 “沒有正在進行的和平談判”，但美伊之間明明一直在圍繞和平協議開展技術性磋商。 這是一套波斯人的談判話術與修辭手段，我實在無法理解。
+
+---
+
+### 2026-07-01 03:25:06  #MKT News
+
+Israel's prime minister NETANYAHU acknowledged occasional differences with Trump.
+
+---
+
+### 2026-07-01 03:24:46  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+U.S. Vice President Vance said President Trump is willing to use military strikes, but only if they serve a clear strategic objective.
+
+---
+
+### 2026-07-01 03:23:49  #國際
+
+熱浪將至，美國對 PJM 電網釋出應急狀態指令。
+
+---
+
+### 2026-07-01 03:23:43  #MKT News #WTI #Impact bullish #Brent
+
+Iranian parliament speaker Ghalibaf said if the U.S. attempts to deprive Iran of the right to sell oil, 'no one will benefit from oil'.
+
+---
+
+### 2026-07-01 03:23:22  #MKT News #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said the Strait of Hormuz's value lies in rising transit volumes, not declines, and it must not be "used in reverse" or become a tool that harms Iran.
+
+---
+
+### 2026-07-01 03:22:39  #國際
+
+伊朗議會議長卡利巴夫： 倘若美國企圖剝奪伊朗的石油出口權，各方都無法從石油貿易中獲益。
+
+---
+
+### 2026-07-01 03:22:30  #MKT News #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said oil sanctions on Iran have been lifted and that Iran is currently selling crude at roughly a 20% premium.
+
+---
+
+### 2026-07-01 03:22:03  #市場 #國際
+
+伊朗議會議長卡利巴夫： 石油制裁已解除，我們的石油售價上漲了兩成。
+
+---
+
+### 2026-07-01 03:21:40  #其他
+
+NASA ：Astrobotic 獲 2.979 億美元合同，螢火蟲航天（Firefly Aerospace）獲 1.442 億美元合同 ，Intuitive Machines 獲 1.483 億美元合同。
+
+---
+
+### 2026-07-01 03:21:01  #MKT News
+
+Brazil's finance minister said the government is reassessing liquefied natural gas (LNG) subsidy policy and that any adjustment would have relatively limited impact.
+
+---
+
+### 2026-07-01 03:20:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's parliament speaker Ghalibaf said Iran must gradually expand commercial activity and transit capacity in the Strait of Hormuz. He said Iran should impose restrictions on the United States and Israel, while overall transit volumes through the strait still need to increase.
+
+---
+
+### 2026-07-01 03:20:06  #MKT News
+
+Brazil's finance minister said the government is willing to renegotiate agricultural debt but will not accept a blanket, one-size-fits-all restructuring that covers all groups, particularly programs that include recipients without genuine need. He stressed agricultural debt restructuring is not linked to oil export taxes.
+
+---
+
+### 2026-07-01 03:19:55  #其他
+
+Meta：Discord 今日登陸 Meta Quest。
+
+---
+
+### 2026-07-01 03:19:30  #其他
+
+NASA 公佈入選企業：Astrobotic、螢火蟲航天（Firefly Aerospace）、Intuitive Machines。
+
+---
+
+### 2026-07-01 03:18:45  #國際
+
+美國國家航空航天局選定三家企業，承接四項全新航天任務。
+
+---
+
+### 2026-07-01 03:18:30  #MKT News #WTI #Impact bullish #Brent
+
+Brazil's finance minister said the government is carefully assessing a tax on oil exports.
+
+---
+
+### 2026-07-01 03:18:28  #國際
+
+美國副總統萬斯談及伊朗： 我們要求伊朗作出可核查、有核查機制支撐的持久承諾，徹底實現全境無核化。
+
+---
+
+### 2026-07-01 03:18:17  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+【Investors shrug off Middle East fighting; U.S. stocks poised for largest Q2 gain in years】U.S. major indices rose Tuesday, with the S&P 500 and Nasdaq poised for their largest quarterly gains since 2020 and the Dow for its best quarter since 2022. Investors remain upbeat on U.S. growth and corporate earnings despite ongoing Middle East hostilities. Signs of progress in Iran ceasefire talks briefly lifted risk appetite, though renewed weekend fighting left the deal outlook uncertain. After a strong Q1 earnings season, market attention shifts to Q2 results due over the coming weeks.
+
+---
+
+### 2026-07-01 03:17:36  #國際
+
+美國副總統萬斯談及黎巴嫩局勢 ：如今黎巴嫩與以色列已開啟直接對話，這與數月前的局面截然不同，雙方大方向立場趨於一致。甚至可以這樣理解：若將黎以和平協議與美伊簽署的諒解備忘錄統籌對照，兩份檔案的核心要義均是承諾尊重黎巴嫩領土完整。局勢確實發生了顯著轉變，但關鍵在於這一轉變能否長久維持。
+
+---
+
+### 2026-07-01 03:17:21  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+U.S. Vice President Vance said coordinating a Lebanon-Israel peace arrangement with a U.S.-Iran agreement would see both center on respect for Lebanon's territorial integrity.
 
 ---
 
@@ -14948,113 +15086,5 @@ A magnitude-5.5 earthquake struck Gao County, Yibin, Sichuan; no casualties repo
 ### 2026-06-29 01:43:47  #MKT News
 
 【Iran foreign minister holds talks with Iraq prime minister】Iran's foreign ministry said Iran's foreign minister met Iraq's prime minister in Iraq on Sunday at midday. Tehran said the minister stressed Iran's determination to deepen political, economic, security, commercial, cultural and people-to-people ties with Iraq, saying closer bilateral cooperation supports regional stability. He outlined recent diplomatic steps aimed at ending what Iran describes as US–Israeli hostilities against Iran, and urged regional states to help maintain security and prevent third parties from using their territory or facilities to carry out illegal attacks on Iran.
-
----
-
-### 2026-06-29 01:34:21  #國際
-
-【伊朗外交部：伊朗外長與伊拉克外長舉行會晤】伊朗外交部長阿拉格齊率外交代表團到訪巴格達，同伊拉克高層磋商，並於本週日上午與伊拉克外長福阿德·侯賽因舉行會談。
-
----
-
-### 2026-06-29 01:25:07  #市場
-
-【渠道漲價、終端穩價 娃哈哈、怡寶上調供貨價 瓶裝水價格戰壓力給到經銷商】6月以來，多位經銷商陸續在社交媒體平臺發文，稱自7月1日起，娃哈哈純淨水(596ml×24瓶)每箱供應價上調0.5-1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。若以上述漲價幅度計算，對經銷商而言，娃哈哈純淨水596ml/瓶的漲價約0.02元至0.04元。中國食品產業分析師朱丹蓬向紅星資本局分析稱，飲用水企業此次調價主要指向PET塑膠包材等原材料成本的大幅上漲。
-
----
-
-### 2026-06-29 01:22:13  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Putin says Russia facing domestic fuel shortages, considers full diesel export ban】President Putin said motorists and businesses are facing fuel shortages and long queues at filling stations. He confirmed a full ban on diesel exports is among options under consideration after several refineries halted production. Following a Friday meeting with producers and government departments, Russia's Energy Ministry advised against an immediate diesel export ban, citing risks of diesel inventory build-up and other knock-on issues; the government will reassess market conditions on Monday.
-
----
-
-### 2026-06-29 01:19:14  #宏觀 #國際
-
-【普京承認俄羅斯國內燃油供應出現短缺】俄羅斯總統普京表示，車主與各類企業仍面臨燃油供應難題，各地加油站普遍出現排隊現象。受多家煉油廠停產影響，俄羅斯正出臺舉措穩定國內市場，普京證實，全面禁止柴油出口是當前研討的備選方案之一。俄羅斯能源部週五與石油生產商、政府部門召開會議後，暫不建議實施柴油出口禁令，理由是此舉可能造成柴油庫存積壓等衍生問題；政府將於週一重新評估市場形勢。
-
----
-
-### 2026-06-29 01:08:59  #MKT News
-
-Qatar's Interior Ministry said a Qatari citizen died from shrapnel injuries sustained in recent regional military operations.
-
----
-
-### 2026-06-29 01:08:32  #其他
-
-【一卡達公民因近期地區內發生的軍事行動受傷身亡】當地時間28日晚，卡達內政部發表宣告說，一名卡達公民因近期該地區軍事行動產生的彈片受傷身亡，另有一名居民受傷，已被送醫治療，目前情況穩定。宣告說，卡達方面此前發現一海上交通工具未按時返回，隨即展開搜救。28日凌晨，搜救人員找到該船，並確認上述人員傷亡情況。 （央視新聞）
-
----
-
-### 2026-06-29 01:08:17  #國際
-
-歐盟委員會委員卡拉斯將於6月29日至30日訪問土耳其，並將與土耳其外交部長菲丹會面。
-
----
-
-### 2026-06-29 01:03:44  #國際
-
-俄羅斯總統普京：必須保障農業領域的燃油供應。
-
----
-
-### 2026-06-29 01:01:36  #MKT News
-
-【China Earthquake Administration activates third-level response after M5.5 quake in Gaoxian, Yibin (Sichuan)】The China Earthquake Networks Center (CENC) recorded a magnitude-5.5 earthquake at 00:12 local time on June 29, 2026, centered on Gaoxian County, Yibin, Sichuan (28.50°N, 104.69°E) at a depth of 6 km. The China Earthquake Administration has activated a third-level emergency response. (Xinhua)
-
----
-
-### 2026-06-29 01:00:24  #其他
-
-【中國地震局對四川宜賓市高縣地震啟動三級應急響應】據中國地震臺網正式測定，2026年6月29日0時12分，在四川宜賓市高縣（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6公里。中國地震局啟動三級應急響應。
-
----
-
-### 2026-06-29 00:48:39  #其他
-
-卡達內政部表示，一名卡達公民因“該地區軍事行動”產生的彈片受傷後身亡。
-
----
-
-### 2026-06-29 00:47:58  #MKT News
-
-Al Jazeera reports Tehran–Dubai flights will resume next week.
-
----
-
-### 2026-06-29 00:46:55  #其他
-
-市場資訊：德黑蘭-迪拜航班將於下週恢復。
-
----
-
-### 2026-06-29 00:42:39  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli broadcaster i24NEWS reported that planned U.S.-Iran talks have been cancelled.
-
----
-
-### 2026-06-29 00:42:25  #其他
-
-【四川高縣發生5.5級地震】據中國地震臺網正式測定，6月29日0時12分在四川宜賓市高縣發生5.5級地震，震源深度6公里，震中位於北緯28.50度，東經104.69度。 據悉，本次震中距珙縣7公里、距高縣18公里、距長寧縣24公里、距宜賓敘州區26公里、距水富市30公里，距宜賓市28公里，距重慶市216公里。
-
----
-
-### 2026-06-29 00:40:39  #焦點 #國際
-
-以色列24新聞臺記者：原定本週舉行的美伊新一輪談判已取消。
-
----
-
-### 2026-06-29 00:40:28  #國際
-
-美國要求以色列對協議文字作出兩處修改以促成協議達成，一是以色列撤出其目前佔領的黎巴嫩南部一處村莊，二是加入明確表述，說明此次撤軍將是以色列更大規模撤出黎巴嫩部署行動的開端。
-
----
-
-### 2026-06-29 00:39:57  #國際
-
-俄羅斯總統普京：保障燃油供應增量、制定符合經濟規律的合理價格，是穩定燃油市場的系統性舉措。
 
 ---
