@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-05 15:52:47",
-  "count": 13211,
+  "updated": "2026-07-05 15:56:46",
+  "count": 13213,
   "items": [
+    {
+      "id": "mkt:019f3145-628e-7aab-8ca1-ce8ccbb69ff6",
+      "time": "2026-07-05 15:54:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Public farewell for late Supreme Leader Khamenei's remains enters second day; officials attend】On the 5th (local time) the public farewell and mourning for the late Supreme Leader Khamenei entered its second day in Tehran. Around 0800 local time thousands gathered at the Imam Khomeini Mosque for funeral prayers for Khamenei and four of his slain relatives. Government and military officials and some foreign delegations attended; IRGC commander Vahidi was present."
+    },
+    {
+      "id": "4970898",
+      "time": "2026-07-05 15:54:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈梅內伊遺體公眾告別儀式進入第二天 多名官員出席】當地時間5日，在伊朗首都德黑蘭舉行的已故最高領袖哈梅內伊遺體公眾告別與悼念儀式進入第二天。5日8時許，數千民眾聚集在德黑蘭的伊瑪目霍梅尼清真寺，為哈梅內伊及其遇害的四名親屬舉行葬禮禮拜。伊朗政府、軍方官員以及部分外國代表團出席該儀式。伊朗革命衛隊總司令瓦希迪也出現在禮拜現場。（央視新聞）"
+    },
+    {
+      "id": "4970897",
+      "time": "2026-07-05 15:53:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST發展：股票交易異常波動 多項風險需關注】*ST發展公告稱，公司股票於2026年7月2日、3日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。2025年度經審計的期末歸母淨資產為 -2.00億元，扣非後淨利潤為 -6.35億元，扣除後營收為28215.56萬元，已被實施退市和其他風險警示。控股股東及間接控股股東進入破產重整，重整投資協議已解除。公司目前無應披露未披露事項，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019f3143-952d-7aab-8ca1-c316f6e8833d",
+      "time": "2026-07-05 15:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Energy Shipping forecasts 1H net profit 6.6–7.3 bln yuan; up 214%–248% YoY】China Merchants Energy Shipping said on July 5 it expects 2026 1H net profit attributable to parent of 6.6–7.3 bln yuan, a rise of 214%–248% YoY. The company cited a super‑cyclical international tanker market driven by supply‑demand shifts and geopolitical factors, with spot rates on some routes reaching record highs. International dry bulk benefited from continued supply‑demand improvement and a steady recovery in the BDI. Tanker operations extended strong Q1 performance and, after overcoming a post‑strait‑closure oversupply phase in Q2, are estimated to have increased profit contribution by about 50% q/q. Dry‑bulk profit contribution rose roughly 170% q/q in Q2. Container and ro‑ro fleets are showing steady recovery trends."
+    },
+    {
+      "id": "4970896",
+      "time": "2026-07-05 15:51:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：義大利或將兩年內增加 170 億歐元國防開支。"
+    },
     {
       "id": "4970895",
       "time": "2026-07-05 15:49:12",
@@ -121616,30 +121657,6 @@
         "行業"
       ],
       "text": "【最高2000萬元！四川加碼支援人工智慧產業鏈】記者從省科技廳獲悉，《四川省進一步促進人工智慧產業鏈發展若干政策》（以下簡稱“新政”）於日前正式印發實施，圍繞堅持場景牽引以用促產、加大企業培育力度、一體推進科技攻關和成果轉化、強化優質算力資料供給、持續最佳化發展生態五大維度推出一攬子硬核扶持舉措，以全鏈條政策供給助推全省人工智慧產業高質量發展，全力打造國內領先的人工智慧產業發展高地。\n\n記者發現，新政堅持“以用促產”核心思路，分層分類佈局人工智慧應用場景建設，設立梯度化資金支援標準。在重大標杆場景打造上，聚焦智慧製造、科學智慧、智慧醫療、智慧政務、智慧農業、智慧應急、智慧服務業、低空智慧八大領域佈局省級標誌性應用場景，符合條件專案最高可獲2000萬元資金支援；針對區域示範載體，省級人工智慧應用場景典型基地（區域）擇優給予最高200萬元扶持。\n\n同時強化國家級示範培育與大模型創新激勵，對成功入選國家人工智慧應用場景試點、典型案例的主體一次性給予最高100萬元獎勵；落地四川且完成國家生成式AI備案的首發大模型開發單位，同步給予最高100萬元定向科研經費。此外，四川還將佈局省級人工智慧應用中試基地、具身智慧實訓場，持續開展“人工智慧+”行業攻關，打通技術落地轉化通道。（四川釋出）"
-    },
-    {
-      "id": "4958839",
-      "time": "2026-06-28 15:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國開源模型為何在全球大受歡迎】“中國人工智慧開源大模型全球累計下載量已突破100億次”，國務院總理李強日前在大連出席2026年夏季達沃斯論壇開幕式並致辭時表示，“中國的新興領域技術和產品，帶給世界的不是衝擊而是機遇，不是威脅而是賦能。”\n\n海量需求背後，是真實的產業落地圖景：從矽谷網際網路平臺，到歐洲傳統制造工廠，越來越多海外企業主動選用阿里千問、DeepSeek等國產開源大模型作為技術底座，嵌入自身業務升級和數字化轉型流程。\n\n英國《金融時報》實地走訪矽谷科創圈發現，Pinterest、愛彼迎等一眾知名平臺，早已常態化使用中國開源模型最佳化產品、迭代服務。不同於歐美商業模型高昂的授權費用，中國開源模型零門檻、可商用、高適配的特點，幫無數海外初創企業省下鉅額研發成本。這些模型也正在眾多《財富》500強企業中獲得認可。（中新經緯）"
-    },
-    {
-      "id": "4958838",
-      "time": "2026-06-28 15:53:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【派能科技：融科創投擬減持公司不超3%股份】派能科技(688063)6月28日公告，持股5.0221%的股東派鋰（寧波）創業投資合夥企業（有限合夥）（簡稱“融科創投”）計劃15個交易日後的3個月內，透過集中競價及大宗交易方式減持公司股份合計不超過736.08股，減持比例不超過公司總股本的3%。"
-    },
-    {
-      "id": "4958837",
-      "time": "2026-06-28 15:53:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前5月海南特色農產品出口同比增長50％】從海口海關獲悉，今年以來，海南農產品搶抓封關運作後的跨境出口便利和機遇，加快拓展國際市場。據統計，今年前5個月，全省農產品出口31.8億元，同比增長50%。"
     }
   ]
 }
