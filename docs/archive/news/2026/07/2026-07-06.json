@@ -1,7 +1,25 @@
 {
   "date": "2026-07-06",
-  "count": 154,
+  "count": 156,
   "items": [
+    {
+      "id": "mkt:019f347b-20e0-7aab-8ca5-aaf14a79c56f",
+      "time": "2026-07-06 06:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says he will continue opposing Iran's nuclear program】Netanyahu said on the 5th (local time) he will continue to oppose Iran's nuclear program regardless of whether the US and Iran reach an agreement. He said the Israeli government will never allow Iran to obtain nuclear weapons to defend Israel's core interests."
+    },
+    {
+      "id": "4971152",
+      "time": "2026-07-06 06:50:50",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 15:00 瑞士6月失業率；\n② 16:30 歐元區7月Sentix投資者信心指數；\n③ 17:00 歐元區5月PPI，歐元區5月零售銷售；\n④ 21:45 美國6月標普全球服務業PMI終值；\n⑤ 22:00 美國6月ISM非製造業指數；\n⑥ 23:00 美聯儲理事沃勒等發表講話。"
+    },
     {
       "id": "4971151",
       "time": "2026-07-06 06:50:12",
