@@ -1,7 +1,31 @@
 {
   "date": "2026-07-06",
-  "count": 130,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:019f3451-2010-7aab-8ca5-6d29a1c87d65",
+      "time": "2026-07-06 06:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KRW edges higher on first day of 24-hour trading】The South Korean won (KRW) edged higher against the dollar on the first day of 24-hour trading. The around-the-clock mechanism was introduced to improve foreign investor access to South Korea’s markets and support a push for MSCI developed-market inclusion, reflecting a shift toward greater offshore investment. Deputy Finance Minister Moon Ji-chung said on Friday regulators will step up monitoring of night-session trading ahead of formal implementation on Monday. The won has been one of Asia’s weakest currencies this year, briefly hitting its weakest level since 2009 last week, pressured by higher energy prices from the Iran war and foreign investors selling Korean equities to rebalance after a sharp rally."
+    },
+    {
+      "id": "4971137",
+      "time": "2026-07-06 06:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【挪威晉級世界盃8強】北京時間7月6日，2026美加墨世界盃1/8決賽，挪威隊2比1戰勝巴西隊，晉級世界盃8強。"
+    },
+    {
+      "id": "4971136",
+      "time": "2026-07-06 06:05:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。"
+    },
     {
       "id": "mkt:019f344d-26b1-7aab-8ca5-64c7da6945ae",
       "time": "2026-07-06 06:01:39",

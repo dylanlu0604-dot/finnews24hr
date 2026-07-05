@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-06 06:03:18",
-  "count": 13105,
+  "updated": "2026-07-06 06:07:08",
+  "count": 13104,
   "items": [
+    {
+      "id": "mkt:019f3451-2010-7aab-8ca5-6d29a1c87d65",
+      "time": "2026-07-06 06:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KRW edges higher on first day of 24-hour trading】The South Korean won (KRW) edged higher against the dollar on the first day of 24-hour trading. The around-the-clock mechanism was introduced to improve foreign investor access to South Korea’s markets and support a push for MSCI developed-market inclusion, reflecting a shift toward greater offshore investment. Deputy Finance Minister Moon Ji-chung said on Friday regulators will step up monitoring of night-session trading ahead of formal implementation on Monday. The won has been one of Asia’s weakest currencies this year, briefly hitting its weakest level since 2009 last week, pressured by higher energy prices from the Iran war and foreign investors selling Korean equities to rebalance after a sharp rally."
+    },
+    {
+      "id": "4971137",
+      "time": "2026-07-06 06:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【挪威晉級世界盃8強】北京時間7月6日，2026美加墨世界盃1/8決賽，挪威隊2比1戰勝巴西隊，晉級世界盃8強。"
+    },
+    {
+      "id": "4971136",
+      "time": "2026-07-06 06:05:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。"
+    },
     {
       "id": "mkt:019f344d-26b1-7aab-8ca5-64c7da6945ae",
       "time": "2026-07-06 06:01:39",
@@ -120780,43 +120804,6 @@
         "Greater China"
       ],
       "text": "Momenta plans a Hong Kong listing with an offering of 19.93 million shares, subject to exercise of the overallotment option, priced at HK$295.6 per share; trading expected to begin July 8."
-    },
-    {
-      "id": "4959201",
-      "time": "2026-06-29 06:05:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "標準普爾500指數期貨上漲0.4%，納斯達克指數期貨在震盪交投中上漲0.4%。"
-    },
-    {
-      "id": "4959200",
-      "time": "2026-06-29 06:04:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月29日05時44分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.1級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019f1042-be6c-7aab-8c03-49e9fbaba447",
-      "time": "2026-06-29 06:03:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "U.S. stock index futures edged higher in early trade; Nasdaq futures up 0.4%."
-    },
-    {
-      "id": "mkt:019f1042-3644-7aab-8c03-47598935ed23",
-      "time": "2026-06-29 06:03:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot silver advanced just over 1.00% in early trade to $59.39/oz."
     }
   ]
 }
