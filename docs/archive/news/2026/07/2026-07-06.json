@@ -1,7 +1,16 @@
 {
   "date": "2026-07-06",
-  "count": 97,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:019f33f1-ef2c-7aab-8ca5-314deca5a2d5",
+      "time": "2026-07-06 04:22:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【NYT: Trump phoned FIFA over U.S. forward’s red-card suspension; ban deferred】The New York Times, citing three people familiar with the matter, reports President Trump called FIFA president Gianni Infantino on July 1 asking a review of the red-card suspension of U.S. leading scorer Balogun after he was sent off for stamping in the U.S. 2-0 win over Bosnia in the round of 32. On July 5 FIFA said its disciplinary committee found Balogun in breach of Articles 14 and 66 and imposed a one-match ban but invoked Article 27 to suspend that ban for one year, making him eligible for Monday’s match against Belgium — the first time since 1962 FIFA has allowed a player originally due to be suspended to play. Trump welcomed the decision on social media but did not disclose the call or claim credit."
+    },
     {
       "id": "4971109",
       "time": "2026-07-06 04:18:23",
