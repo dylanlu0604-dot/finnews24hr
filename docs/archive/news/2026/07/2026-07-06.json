@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "id": "mkt:019f3311-9a68-7aab-8ca4-1e5e557ef50a",
+      "time": "2026-07-06 00:16:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Majority of US voters say Trump's conflict with Iran not worth economic, strategic cost】An FT nationwide poll shows 58% of US voters say the Trump administration's military confrontation with Iran is not worth the economic and strategic cost. With inflation high and war spending mounting, Republicans' midterm prospects have dimmed. The White House has asked Congress for an additional $670 billion in federal appropriations to cover accumulated war costs. Only 31% of respondents said recent skirmishes strengthened US negotiating position, while 44% said they weakened US leverage. Voters also cited the conflict as a material factor pushing up consumer goods and gasoline prices year-to-date."
+    },
+    {
+      "id": "4971051",
+      "time": "2026-07-06 00:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多數美國選民認為特朗普對伊朗開戰得不償失】英國《金融時報》最新一項全國民意調查顯示，58%的美國選民認為，特朗普政府與伊朗爆發的軍事衝突，所付出的經濟與戰略代價完全不值。伴隨通脹高企、戰爭開支援續增加，共和黨在即將到來的國會中期選舉前景堪憂。絕大多數美國選民認為，當前與伊朗的軍事衝突在戰略、財政層面均得不償失，這也給本屆政府留下嚴重政治軟肋。這份民調結果出爐之際，白宮正向國會申請新增6700億美元聯邦撥款，用以支付累積的戰爭開銷。民眾情緒充分體現出公眾對政府危機處置方式的深度質疑。僅31%受訪者認為，一系列交火行動讓美國的談判地位變得更強。與之相反，44%民眾表示，這場衝突實實在在削弱了美國對伊朗的施壓籌碼。全年以來，這場軍事行動大幅推高了國內消費品與汽油價格。"
+    },
     {
       "id": "mkt:019f330d-1ec7-7aab-8ca4-127185aa5d07",
       "time": "2026-07-06 00:12:05",
