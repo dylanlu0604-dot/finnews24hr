@@ -1,7 +1,52 @@
 {
   "date": "2026-07-06",
-  "count": 33,
+  "count": 38,
   "items": [
+    {
+      "id": "mkt:019f334d-6f29-7aab-8ca4-86fcec0d67e6",
+      "time": "2026-07-06 01:22:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A US senior official said Trump believes the Russia-Ukraine conflict must end quickly and that front lines have been stalemated for months. The official added the US is likely to make progress toward ending the war in Ukraine."
+    },
+    {
+      "id": "4971071",
+      "time": "2026-07-06 01:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：感謝國際足聯做出公正之舉，糾正了這一巨大不公。\n注：FIFA宣佈，Folarin Balogun將可參加美國隊週一對陣比利時的16強比賽。國際足聯紀律委員會已暫停對美國前鋒在32強賽擊敗波斯尼亞和黑塞哥維那比賽中出示的紅牌。"
+    },
+    {
+      "id": "mkt:019f334b-db53-7aab-8ca4-7d29e96b6f29",
+      "time": "2026-07-06 01:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said they expect Trump to hold further communications with Russian President Vladimir Putin."
+    },
+    {
+      "id": "4971070",
+      "time": "2026-07-06 01:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：美方有望在結束烏克蘭戰事方面取得進展。"
+    },
+    {
+      "id": "4971069",
+      "time": "2026-07-06 01:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普認為必須儘快結束俄烏衝突，俄烏前線戰局已僵持數月。"
+    },
     {
       "id": "4971068",
       "time": "2026-07-06 01:18:23",

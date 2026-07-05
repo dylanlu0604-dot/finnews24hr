@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-06 01:19:37",
-  "count": 13144,
+  "updated": "2026-07-06 01:23:21",
+  "count": 13148,
   "items": [
+    {
+      "id": "mkt:019f334d-6f29-7aab-8ca4-86fcec0d67e6",
+      "time": "2026-07-06 01:22:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A US senior official said Trump believes the Russia-Ukraine conflict must end quickly and that front lines have been stalemated for months. The official added the US is likely to make progress toward ending the war in Ukraine."
+    },
+    {
+      "id": "4971071",
+      "time": "2026-07-06 01:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：感謝國際足聯做出公正之舉，糾正了這一巨大不公。\n注：FIFA宣佈，Folarin Balogun將可參加美國隊週一對陣比利時的16強比賽。國際足聯紀律委員會已暫停對美國前鋒在32強賽擊敗波斯尼亞和黑塞哥維那比賽中出示的紅牌。"
+    },
+    {
+      "id": "mkt:019f334b-db53-7aab-8ca4-7d29e96b6f29",
+      "time": "2026-07-06 01:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said they expect Trump to hold further communications with Russian President Vladimir Putin."
+    },
+    {
+      "id": "4971070",
+      "time": "2026-07-06 01:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：美方有望在結束烏克蘭戰事方面取得進展。"
+    },
+    {
+      "id": "4971069",
+      "time": "2026-07-06 01:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普認為必須儘快結束俄烏衝突，俄烏前線戰局已僵持數月。"
+    },
     {
       "id": "4971068",
       "time": "2026-07-06 01:18:23",
@@ -121170,18 +121215,6 @@
         "市場"
       ],
       "text": "【渠道漲價、終端穩價 娃哈哈、怡寶上調供貨價 瓶裝水價格戰壓力給到經銷商】6月以來，多位經銷商陸續在社交媒體平臺發文，稱自7月1日起，娃哈哈純淨水(596ml×24瓶)每箱供應價上調0.5-1元；同樣是自7月1日起，華潤怡寶桶裝水（18.9L）每桶供應價上調1元。若以上述漲價幅度計算，對經銷商而言，娃哈哈純淨水596ml/瓶的漲價約0.02元至0.04元。中國食品產業分析師朱丹蓬向紅星資本局分析稱，飲用水企業此次調價主要指向PET塑膠包材等原材料成本的大幅上漲。"
-    },
-    {
-      "id": "mkt:019f0f40-cef3-7aab-8c02-0bf1ba0bad73",
-      "time": "2026-06-29 01:22:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Putin says Russia facing domestic fuel shortages, considers full diesel export ban】President Putin said motorists and businesses are facing fuel shortages and long queues at filling stations. He confirmed a full ban on diesel exports is among options under consideration after several refineries halted production. Following a Friday meeting with producers and government departments, Russia's Energy Ministry advised against an immediate diesel export ban, citing risks of diesel inventory build-up and other knock-on issues; the government will reassess market conditions on Monday."
     }
   ]
 }
