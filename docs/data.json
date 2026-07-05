@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-06 06:54:38",
-  "count": 13098,
+  "updated": "2026-07-06 06:58:25",
+  "count": 13101,
   "items": [
+    {
+      "id": "mkt:019f347f-ce82-7aab-8ca5-b7d707769ff6",
+      "time": "2026-07-06 06:56:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "An adviser to Ukraine’s interior minister said roughly 15 explosions occurred in Kyiv within 10 minutes; air-raid sirens remain active and further cruise missile and additional ballistic missile strikes are possible."
+    },
+    {
+      "id": "te:markets:564243",
+      "time": "2026-07-06 06:56:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Gains to Start the Week — The NZX 50 climbed 23 points, or 0.2%, to 13,642 in Monday morning deals, extending gains from the previous session, hitting its highest level since February 27 and tracking a rise in US futures as Wall Street looks to extend its rally after the Dow Jones posted a record high. Easing oil prices also fueled sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed meeting minutes due this week. However, traders remained cautious ahead of the RBNZ's monetary policy decision on Wednesday, with the market expecting the RBNZ to raise its policy rate by 25 bps to 2.5%. Financials, energy, materials, and consumer staples mainly drove the index, with notable gains from Infratil (3.0%), Vulcan Steel (1.9%), Delegat Group (1.5%), Chorus (1.0%), and A2 Milk (0.9%)."
+    },
+    {
+      "id": "4971154",
+      "time": "2026-07-06 06:55:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“殭屍國會”正阻礙特朗普施政議程】隨著中期選舉逐步臨近，越來越多共和黨籍眾議員無心履職、不願恪守黨內統一投票立場，多項關鍵立法前景岌岌可危。已有議員私下將本屆國會稱作殭屍國會。多名議員及國會幕僚透露，共和黨高層愈發擔憂：議員參會意願持續低迷；即便到場參會，也可能當眾倒戈反對黨內提案，大量法案或將陷入擱置、徹底夭折。此前黨內分歧主要集中在參議院，如今眾議院也將迎來動盪的夏秋兩季：大量即將卸任、初選落敗或心懷不滿的議員行事愈發不受黨內約束，出勤率持續下滑，這一系列問題足以顛覆共和黨整套施政議程。"
+    },
+    {
+      "id": "4971153",
+      "time": "2026-07-06 06:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川綿竹地震目前未造成人員傷亡和房屋倒損】據中國地震臺網正式測定，5日23時03分、23時20分、23時30分，德陽綿竹市先後發生4.5級地震（北緯31.58度，東經103.98度）、4.0級地震（北緯31.55度，東經103.98度）、4.5級地震（北緯31.58度，東經104.00度），震源深度分別為20公里、15公里、18公里。地震發生後，德陽市和綿竹市兩級抗震救災指揮部啟動應急響應，組織開展災情排查等相關工作。經多輪排查，截至6日5時，地震未造成人員傷亡和房屋倒損，未發現交通、電力、通訊等設施受損情況。目前，排查工作仍在持續開展。（央視新聞）"
+    },
     {
       "id": "mkt:019f347b-20e0-7aab-8ca5-aaf14a79c56f",
       "time": "2026-07-06 06:51:52",
@@ -120740,18 +120780,6 @@
         "MKT News"
       ],
       "text": "INVESCO survey: some institutions are reassessing reliance on U.S. custodians, counterparties and clearing infrastructure."
-    },
-    {
-      "id": "te:markets:562346",
-      "time": "2026-06-29 06:56:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Shares Lower to Start the Week — The NZX 50 dropped 50 points, or 0.4%, to 13,445 in Monday morning trade, after being muted in the previous session, tracking a decline on Wall Street on Friday, with chipmakers leading the sell-off. Traders remained cautious ahead of the release of New Zealand's consumer and business confidence data for June, as both indicators remained subdued in May despite improving. Investors also anticipated the release of China's PMI data and US jobs data for June to help gauge the economic outlook in the world's largest and second-largest economies. However, easing oil prices capped the decline as inflation concerns moderated, reducing expectations of an interest rate hike. Materials, utilities, consumer discretionary, and healthcare stocks mainly weighed on the index, with notable losses from Delegat Group (-2.8%), Turners Automotive (-2.3%), Westpac Banking Corp. (-1.9%), Contact Energy (-1.6%), Hallenstein Glasson (-1.2%), Meridian Energy (-1.2%), and Fisher & Paykel (-0.6%)."
     }
   ]
 }
