@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 08:37:17",
-  "count": 13228,
+  "updated": "2026-07-05 08:41:09",
+  "count": 13223,
   "items": [
+    {
+      "id": "4970752",
+      "time": "2026-07-05 08:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非副總統：與中國合作 非洲收穫的是技術和尊嚴】南非副總統保羅·馬沙蒂萊日前接受總檯《高階訪談》欄目專訪。採訪中，馬沙蒂萊力挺中非合作，駁斥外界對中非合作的歪曲和抹黑。他強調：“我們看到的是積極的成果，並沒有看到他們所說的負面後果。”他直言西方批評從未間斷，但非洲收穫的是技術和尊嚴。（央視新聞）"
+    },
     {
       "id": "4970751",
       "time": "2026-07-05 08:32:10",
@@ -121703,62 +121711,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps said any breach of the ceasefire would violate the Islamabad agreement and completely halt all ongoing processes."
-    },
-    {
-      "id": "4958673",
-      "time": "2026-06-28 08:40:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊（IRGC）稱，美國以伊朗伊斯蘭革命衛隊海軍扣押違規船隻作為藉口，襲擊了五處伊朗沿海據點。"
-    },
-    {
-      "id": "4958672",
-      "time": "2026-06-28 08:40:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊表示，任何停火違約行為都違背伊斯蘭堡協議，還將導致所有當前程序完全停滯。"
-    },
-    {
-      "id": "mkt:019f0baa-a64b-7770-9d1c-0280d9973e1f",
-      "time": "2026-06-28 08:39:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps alleged the US used IRGC Navy confrontations with intruding vessels as a pretext to attack five Iranian coastal posts."
-    },
-    {
-      "id": "mkt:019f0ba9-e991-7770-9d1b-ff609324fc65",
-      "time": "2026-06-28 08:38:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it will treat future violators of the agreement more harshly and that any \"hostile aggression\" will be met with a \"destructive response\"."
-    },
-    {
-      "id": "4958671",
-      "time": "2026-06-28 08:37:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊（IRGC）表示，今後將以更強硬手段應對違規船隻，任何“敵方侵略”都將得到“毀滅性回擊”。"
-    },
-    {
-      "id": "4958670",
-      "time": "2026-06-28 08:37:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國海軍與空軍戰鬥機對霍爾木茲海峽及其周邊多處10處伊朗軍事目標實施打擊，報復伊朗針對美國油輪發動的無人機襲擊。"
     }
   ]
 }
