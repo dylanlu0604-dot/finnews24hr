@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-06 05:26:45",
-  "count": 13126,
+  "updated": "2026-07-06 05:31:55",
+  "count": 13124,
   "items": [
+    {
+      "id": "4971129",
+      "time": "2026-07-06 05:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞航空：7月5日，從內羅畢飛往紐約的KQ 002D航班在飛經查德上空時發生飛行控制擾流板故障。"
+    },
     {
       "id": "4971128",
       "time": "2026-07-06 05:24:22",
@@ -120970,32 +120978,6 @@
         "其他"
       ],
       "text": "【四川高縣5.5級地震致13人受傷 均為輕微傷已送醫診療】“宜賓釋出”微信公眾號訊息，據中國地震臺網正式測定：2026年6月29日0時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）迅速行動，及時開展災情排查和救災工作。截至2026年6月29日3時30分，此次地震未造成重大人員傷亡，因災受傷13人均為輕微傷，已及時送醫診療，緊急避險轉移和安置196人。目前，抗震救災各項工作正在緊張有序進行，當地社會秩序穩定。"
-    },
-    {
-      "id": "4959177",
-      "time": "2026-06-29 05:31:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海軍取消護衛艦建造計劃，重心轉向無人作戰裝備研發。"
-    },
-    {
-      "id": "mkt:019f1024-762b-7aab-8c03-0e44db6474b9",
-      "time": "2026-06-29 05:30:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【China-made cooling appliances see surge in European orders amid rare heatwave】A rare European heatwave—record highs in Germany and the Czech Republic and national high-temperature warnings in Hungary and Poland—has lifted demand for air conditioners, fans and other cooling products, boosting China-origin orders via cross-border e-commerce. The international trade director of a Ningbo-based joint-stock firm, Zheng Li, said ice machine shipments to Europe from January–May rose more than 70% YoY and now account for about 15% of the company's sales."
-    },
-    {
-      "id": "4959176",
-      "time": "2026-06-29 05:30:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威加斯科公司：阿斯加德油田6月29日至30日發生非計劃停機，日輸氣量減少600萬立方米。"
     }
   ]
 }
