@@ -1,7 +1,499 @@
 {
-  "updated": "2026-07-05 10:18:57",
-  "count": 13230,
+  "updated": "2026-07-05 12:41:31",
+  "count": 13234,
   "items": [
+    {
+      "id": "mkt:019f3083-5b4f-7aab-8ca0-f6cc27f5f008",
+      "time": "2026-07-05 12:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia develops 'Red Button' drone ID system that can force civilian drones to land】Russian media say firms have developed a drone-identification system called Red Button that can compel civilian drones to land in emergencies. Jointly built by a GLONASS company and Element, the module can be embedded in civilian drones and uses Russia’s GLONASS positioning to track and identify aircraft even without cellular service. Regulators can send encrypted commands to force a landing; developers say the command link is encrypted to prevent unauthorized tampering. The system completed an initial test and is planned for rollout to unmanned vehicles, notably autonomous trucks."
+    },
+    {
+      "id": "te:economy:564236",
+      "time": "2026-07-05 12:21:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Saudi Non-Oil Private Sector Growth Hits 4-Month High — Riyad Bank Saudi Arabia's PMI increased to 52.8 in June 2026 from 53.3 in May, marking the third consecutive month of expansion in the non-oil private sector. It also recorded the strongest growth since February, supported by a sharp rise in output amid stronger new business growth. New business growth accelerated to its strongest pace since February, driven by domestic demand. However, foreign sales contracted steeply for the fourth consecutive month, with ongoing regional logistics challenges and intensified foreign competition cited as the primary constraints on international sales."
+    },
+    {
+      "id": "4970828",
+      "time": "2026-07-05 12:21:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【優步暫停歐洲多數外賣擴張計劃】Uber就暫停了在歐食品配送擴張計劃的大部分內容，因為該公司仍在努力收購其在歐洲最大的競爭對手。據兩位知情人士透露，該公司已不再計劃在今年計劃擴張的七個國家中包括奧地利、挪威和希臘在內的五個國家推出相關服務。這一調整距離優步宣佈歐洲外賣擴張計劃僅過去5個月。當時，公司計劃進入捷克和羅馬尼亞等市場，並希望未來三年新增10億美元的總預訂額。不過，優步仍在尋求收購德國柏林外賣平臺Delivery Hero。此前，其提出的100億歐元收購要約已於5月遭到Delivery Hero拒絕。"
+    },
+    {
+      "id": "mkt:019f3082-614b-7aab-8ca0-ee06577e0e3e",
+      "time": "2026-07-05 12:21:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBER.O",
+        "Impact bearish",
+        "DHER.DE"
+      ],
+      "text": "【Uber pauses most European food-delivery expansion】Uber has paused most of its planned food-delivery expansion across Europe, dropping launches in five of seven target countries including Austria, Norway and Greece, as it continues to pursue an acquisition of Berlin-based Delivery Hero. The adjustment comes five months after Uber announced the push — at the time targeting entry into markets such as the Czech Republic and Romania and about US$1bn in added gross bookings over three years. Delivery Hero rejected Uber’s €10bn takeover offer in May."
+    },
+    {
+      "id": "4970827",
+      "time": "2026-07-05 12:18:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合愛迪生電力公司正為受風暴影響的使用者恢復供電。"
+    },
+    {
+      "id": "4970826",
+      "time": "2026-07-05 12:18:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯新識別系統可強制民用無人機降落】據俄羅斯媒體近日報道，該國企業開發出一款名為“紅色按鈕”的無人機識別系統，可在緊急情況下強制降落民用無人機。據報道，該系統由“格洛納斯”公司和“元素”公司聯合開發，可嵌入任何民用無人機中，利用俄羅斯“格洛納斯”全球定位系統追蹤無人機，在無蜂窩網路訊號的情況下依然能夠完成識別。當出現緊急情況或違規飛行時，監管部門可向無人機傳送指令，強制其著陸。俄羅斯媒體援引“紅色按鈕”開發企業管理人員的話介紹，該系統在指令傳輸環節採用加密技術，防止未經授權人員擅自篡改資料。目前系統已進行了首次測試，計劃將其推廣到無人駕駛車輛尤其是無人駕駛卡車中。（新華社）"
+    },
+    {
+      "id": "4970825",
+      "time": "2026-07-05 12:16:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受高溫影響 美國華盛頓附近一地鐵列車脫軌】當地時間4日，一輛地鐵列車在與華盛頓特區交界的馬里蘭州喬治王子縣發生脫軌事故，車上人員緊急疏散，沒有造成人員受傷。地鐵調查人員認為，過熱導致軌道彎曲，進而使這列地鐵列車發生脫軌。據悉，這一事件發生在大量美國民眾使用公共交通系統前往首都華盛頓特區參加“獨立日”節慶活動之際。（央視新聞）"
+    },
+    {
+      "id": "4970824",
+      "time": "2026-07-05 12:15:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週新增10家企業完成境內IPO輔導備案，半導體賽道佔三席】證監會網站披露資訊顯示，本週（6月29日至7月5日）共新增10家企業獲境內發行上市輔導備案，分別為浙江德斯泰新材料、青島海森林發製品、江蘇京盈新材料、無錫柯諾威新能源、江蘇應能微電子、浙江億太諾科技、勝達克半導體科技（上海）、南京聯成科技、四川艾棣維欣生物製藥、喆塔資訊集團。其中三家企業屬半導體領域。勝達克半導體為半導體測試裝置廠商，獲高瓴資本、中芯聚源押注，曾於2022年簽署輔導協議但未遞交申報材料，本次重啟；喆塔資訊瞄準半導體CIM系統國產替代，應能微電子主攻功率和模擬IC，兩家均為首次申報。"
+    },
+    {
+      "id": "4970823",
+      "time": "2026-07-05 12:15:24",
+      "tags": [
+        "資料"
+      ],
+      "text": "沙烏地阿拉伯標普全球6月綜合採購經理人指數(PMI)為53.3，5月該數值為52.8。"
+    },
+    {
+      "id": "mkt:019f3079-557e-7aab-8ca0-e48660f9a14a",
+      "time": "2026-07-05 12:11:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBER.O",
+        "Impact bearish"
+      ],
+      "text": "Uber has dropped plans to launch services this year in five of seven countries it had targeted for expansion, including Austria, Norway and Greece."
+    },
+    {
+      "id": "4970822",
+      "time": "2026-07-05 12:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Uber原本計劃今年擴張進入七個國家，如今不再計劃推進其中五個國家的入市計劃，這五個國家包括奧地利、挪威和希臘。"
+    },
+    {
+      "id": "4970821",
+      "time": "2026-07-05 12:09:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【法國阻撓英國參與歐盟防務基金 反致自身貸款縮水】法國試圖阻止英國加入歐盟防務基金的努力適得其反，導致法國失去了原本計劃用於法英武器專案的低息貸款。法國政府向歐盟1500億歐元的軍備重建基金“安全基金”（Safe）申請了162億歐元的資金。但據三位知情人士透露，歐盟委員會最終只批准了151億歐元，部分原因是某些與英國相關的專案未能透過法國力推的嚴格資格審查規則。知情人士透露，被取消資格的專案涉及導彈製造商歐洲導彈集團（MBDA）。MBDA的英國和法國子公司共同生產烏克蘭使用的遠端“風暴之影”導彈。"
+    },
+    {
+      "id": "mkt:019f3077-2b7d-7aab-8ca0-ddc1fe22bca8",
+      "time": "2026-07-05 12:09:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【France's bid to block UK from EU defence fund backfires, costs €1.1bn in low-interest loans】Financial Times reports France’s push to exclude the UK from the EU’s €150bn arms-reconstruction fund Safe has backfired, leaving France with €15.1bn of the €16.2bn it applied for, three people familiar told the paper. The roughly €1.1bn shortfall reflected projects linked to the UK failing to meet strict eligibility rules France had promoted, the sources said. The disqualified work included projects involving missile-maker MBDA; MBDA’s UK and French units jointly produce the long‑range Storm Shadow missile used by Ukraine."
+    },
+    {
+      "id": "4970820",
+      "time": "2026-07-05 12:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法國推動將英國排除在歐盟防務支出計劃之外的行動適得其反。"
+    },
+    {
+      "id": "mkt:019f3075-05e8-7aab-8ca0-d076f04231f7",
+      "time": "2026-07-05 12:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Financial Times, France's effort to exclude the UK from EU defense spending will be counterproductive."
+    },
+    {
+      "id": "4970819",
+      "time": "2026-07-05 12:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "獨立投資研究平臺HFI Research：過去24小時，許多原本計劃經阿曼航道通行的船隻，轉而選擇了伊朗一側航道。"
+    },
+    {
+      "id": "4970818",
+      "time": "2026-07-05 12:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：受中東戰事原油供應短缺影響，印度計劃擴大石油勘探規模。"
+    },
+    {
+      "id": "mkt:019f3072-13b2-7aab-8ca0-ce8850ed9c1d",
+      "time": "2026-07-05 12:03:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Independent research platform HFI Research said over the past 24 hours many vessels that had planned to transit via the Omani route instead chose the Iranian-side route."
+    },
+    {
+      "id": "4970817",
+      "time": "2026-07-05 12:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張雪稱負債接近1億元，本月將還清全部債務】7月4日，張雪釋出影片稱，這個月就不是億萬“負”翁了。張雪透露自己目前負債接近1億元，這次賣了一點股份，賣完後就會把債務全部還清，“再也不欠錢了”。"
+    },
+    {
+      "id": "4970816",
+      "time": "2026-07-05 12:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "Uber暫緩推進歐洲外賣業務擴張。"
+    },
+    {
+      "id": "mkt:019f3069-0b67-7aab-8ca0-c52706f4a37f",
+      "time": "2026-07-05 11:53:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Medvedev warns Iran could weaponize Strait of Hormuz and Bab al‑Mandeb, threatening oil shipments】Russian Security Council deputy chairman Dmitry Medvedev said on July 4, after attending a public farewell for Iran’s late Supreme Leader Khamenei, that although Iran does not possess nuclear weapons it has found a weapon comparable to them in the Strait of Hormuz and another, which he called a \"thermonuclear\" card, in the Bab al‑Mandeb. He warned that in a military conflict those straits could be closed, disrupting oil and other shipping, and said he hoped the situation would not escalate but urged countries seeking to provoke conflict in the region to take note."
+    },
+    {
+      "id": "4970815",
+      "time": "2026-07-05 11:45:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【厄瓜多亞馬孫地區泥石流造成至少5人死亡】厄瓜多國家風險管理秘書處4日釋出公告說，該國亞馬孫地區薩莫拉－欽奇佩省3日晚發生山洪泥石流災害，造成至少5人死亡、10人失蹤。該機構說，受持續強降雨影響，薩莫拉河水位暴漲併發生漫堤，引發山洪和泥石流。據初步統計，此次災害還造成38人受傷，其中包括10名參與救援的消防員。該機構表示，洪澇災害仍在持續，受漫堤影響，部分路段已封閉。目前已成立統一應急指揮所，統籌協調救援行動，調撥人道主義救援物資，派遣技術人員。目前人員搜救和災情評估工作正在進行。（新華社）"
+    },
+    {
+      "id": "4970814",
+      "time": "2026-07-05 11:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將登陸月球，隨後奔赴火星。"
+    },
+    {
+      "id": "4970813",
+      "time": "2026-07-05 11:44:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬裡軍方說再次擊退武裝分子襲擊】巴馬科訊息：馬裡武裝部隊4日說，繼當天早些時候在多地擊退武裝分子後，馬裡軍方又在該國中部地區擊退兩起襲擊。馬裡武裝部隊釋出公報說，當天上午在多地製造襲擊後，恐怖武裝團伙又在孔納集結並發動襲擊，被馬裡軍方及夥伴“非洲軍團”協同擊退。與此同時，另一夥恐怖武裝團伙在索馬杜古集結，目標是襲擊蘇富魯萊，隨後被馬裡軍方透過空地聯合行動擊退。公報說，這兩次打擊重創恐怖武裝團伙，但未公佈具體傷亡情況。（新華社）"
+    },
+    {
+      "id": "4970812",
+      "time": "2026-07-05 11:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "大立光：6月銷售額37億元臺幣。 6月營收變動-10.5％。"
+    },
+    {
+      "id": "4970811",
+      "time": "2026-07-05 11:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻準：6 月營收新臺幣 150.6 億元。6月營收變動+10.7％。"
+    },
+    {
+      "id": "mkt:019f305b-7942-7aab-8ca0-ba680eb599f0",
+      "time": "2026-07-05 11:38:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Nomura: Global storage sector still severely supply-constrained; AI-driven structural demand not yet peaked】Nomura says the global storage industry’s core imbalance is a severe supply shortage and AI-driven structural demand growth has not yet peaked. Investor fears of an imminent supply glut are materially overblown, and recent market weakness could offer a window to reassess storage valuations. Nomura notes semiconductor capex-to-capacity conversion is very slow; a Korean investment plan of about 4,800 trillion won will take at least 5–10 years to translate into actual capacity. High-margin HBM (high-bandwidth memory) is crowding out general-purpose memory capacity, further tightening supply. Nomura adds Meta’s recent decision is not an inflection point for weaker AI hardware demand; Meta bringing compute to market may help stabilise and push down per-token prices that have risen amid current compute shortages."
+    },
+    {
+      "id": "4970810",
+      "time": "2026-07-05 11:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【梅德韋傑夫稱曼德海峽是伊另一底牌】當地時間7月4日，俄羅斯聯邦安全會議副主席梅德韋傑夫在參加伊朗已故最高領袖哈梅內伊的公眾告別和悼念儀式後表示，伊朗雖然沒有真正擁有核武器，卻發現了另一種不亞於核武器的武器——霍爾木茲海峽。他同時警告稱，伊朗手中還有一件“熱核武器”——曼德海峽。梅德韋傑夫表示，一旦發生軍事衝突，該海峽可能被封鎖，導致所有石油及其他運輸渠道中斷，“我希望事態不會發展到這一步，但所有企圖在該地區挑起衝突的國家都應牢記這一點”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f3055-9ae5-7aab-8ca0-b5b485d3b4f5",
+      "time": "2026-07-05 11:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he will never allow the United States to fall into decline."
+    },
+    {
+      "id": "4970808",
+      "time": "2026-07-05 11:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表態，絕不會讓美國走向衰敗。"
+    },
+    {
+      "id": "4970807",
+      "time": "2026-07-05 11:27:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“災難世界盃”，伊朗足協再發宣告譴責美方不公】伊朗國家足球隊在美加墨世界盃小組賽出局後已返回伊朗，其參賽期間受到美方嚴苛入境限制，引發伊朗方面屢屢控訴。伊朗足協7月4日再次發宣告譴責美方對伊朗隊種種不公待遇，稱本屆世界盃為“史上最具爭議、最災難性的世界盃賽事之一”。（新華社）"
+    },
+    {
+      "id": "mkt:019f304e-604a-7aab-8ca0-ae4318413bb2",
+      "time": "2026-07-05 11:24:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bearish",
+        "XPEV.O",
+        "Impact mixed"
+      ],
+      "text": "【Malaysia imposes new EV import rules; several best-selling models ineligible】Malaysia requires imported complete EVs to have a CIF of at least 200,000 Ringgit and motor output of no less than 180 kW, disqualifying many entry‑ and mid‑range models from BYD, Chery, Zeekr and other Chinese brands and forcing strategic adjustments in the market. Malaysia’s Road Transport Department (JPJ) data show Chinese‑made NEVs (excluding Geely‑owned Proton) are projected to account for about 60% of the country’s NEV market by 2025, with BYD the leading foreign brand. Local assembly is the main workaround, but new investment conditions — notably a requirement that 80% of production be exported — have raised barriers and stalled BYD’s factory plans; Leapmotor and Xpeng are pursuing local assembly via partnerships with existing Malaysian manufacturers to sidestep the export rule."
+    },
+    {
+      "id": "4970806",
+      "time": "2026-07-05 11:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東局勢緩和，市場預計 OPEC + 將再度上調原油生產配額】分析師透露，受中東戰事衝擊，海灣國家處境承壓，七名 OPEC + 成員國或於週日上調原油生產配額。沙特、俄羅斯以及擴大後的石油輸出國組織（OPEC+）另外五個成員國將於週日召開線上會議，商討 8 月份原油生產配額事宜。瑞士瑞銀大宗商品分析師喬瓦尼・斯塔諾沃表示，OPEC + 或將延續前幾個月的節奏，逐步解除減產措施，他預計每日原油配額將上調 18.8 萬桶。斯塔諾沃表示：“但就目前而言，各成員國的原油產量大機率仍未達到該組織設定的目標。”"
+    },
+    {
+      "id": "4970805",
+      "time": "2026-07-05 11:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據年度軍事合作計劃，中國和俄羅斯兩國軍隊將在中國青島及附近海空域舉行“海上聯合-2026”聯合演習。俄方參演艦艇編隊5日抵達青島某軍港，雙方參演兵力集結完畢。（新華社）"
+    },
+    {
+      "id": "4970804",
+      "time": "2026-07-05 11:20:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超520億元資金，撤離9只科技股】最近一週（6月29日—7月3日），A股市場表現分化，低位板塊崛起，高位科技板塊調整，5個交易日成交額合計超17萬億元。行業板塊中，醫藥生物、美容護理、汽車行業領漲。資金層面，當週主力資金大幅流出高位科技股，天孚通訊、兆易創新、京東方A、中際旭創、東山精密、深科技、夏農芯創、德明利、江波龍主力資金合計淨流出超520億元。（中國證券報）"
+    },
+    {
+      "id": "mkt:019f304a-87a9-7aab-8ca0-a631a0b2d494",
+      "time": "2026-07-05 11:20:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Under their annual military cooperation plan, China and Russia will hold the \"Maritime Joint-2026\" exercise in Qingdao and adjacent sea and airspace. A Russian task force arrived at a Qingdao naval port on the 5th; participating forces on both sides have completed assembly."
+    },
+    {
+      "id": "4970803",
+      "time": "2026-07-05 11:16:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普開啟美國建國 250 週年慶典演講。"
+    },
+    {
+      "id": "4970802",
+      "time": "2026-07-05 11:15:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英媒：宣佈辭職後，斯塔默首次接受採訪】據英國廣播公司（BBC）4日報道，英國首相斯塔默在宣佈辭職後首次接受採訪時表示，接受自己的政治生涯已“結束”，是他與家人共同作出的“極其私人”且“非常艱難”的決定。他還警告被視作英國下任首相最熱門人選的工黨政治人物安迪·伯納姆，稱伯納姆將不得不像他在任期間一樣，花費同樣多的時間應對全球動盪。被問及是否下任首相可以花費更少時間在外交事務上，斯塔默說，“不，我認為這是不可能的。”他認為，處理國際事務與處理國內事務本是一回事。“無論誰成為我的繼任者，都將面臨同樣的全球性衝突。”斯塔默補充說，“這種情況不會改變。國內面臨的挑戰也不會改變。”(環球網）"
+    },
+    {
+      "id": "4970801",
+      "time": "2026-07-05 11:12:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場訊息：越南政府出臺專項航班管理新規。"
+    },
+    {
+      "id": "4970800",
+      "time": "2026-07-05 10:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中歐貿易磋商機制啟動之際 歐洲外交官呼籲貿易再平衡】7月3日，在第十四屆世界和平論壇“探索中歐合作新模式”的小組討論中，比利時駐華大使安博寧（Bruno Angelet）直言，歐洲在經濟問題上經歷了“痛苦的覺醒”。他表示，“現在，我們歐洲人也必須將地緣政治和地緣經濟結合起來，並制定一套關於經濟安全的新理論，因為我們從未考慮過這一點。”希臘駐華大使埃夫耶尼奧斯·卡爾佩里斯（Evgenios Kalpyris）在同場討論中強調，歐盟內部存在著一個廣泛的共識，即歐盟應繼續致力於與中國發展建設性的、穩定的關係。 他也表示，歐中之間的貿易不平衡對中方更為有利。“顯而易見的是，任何關係要想保持健康和可持續，都需要促進收益的平等分配，並帶來互利的結果。” 對於歐中之間的經貿關係，卡爾佩里斯表示，“我們必須認識到，一段時間以來，我們已經進入了一個需要透過充分利用現有制度框架來管理競爭的階段，並在必要時對其進行升級。”（財新網）"
+    },
+    {
+      "id": "4970799",
+      "time": "2026-07-05 10:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【華強北提前拿到iPhone18Pro圖紙 ：開始研究實體卡槽改裝方案了】近期蘋果在印度的核心代工廠塔塔電子遭遇了一起嚴重的資料洩露事件，洩露檔案包含大量尚未釋出的iPhone 18 Pro與Pro Max的敏感資訊，引發了全球科技圈的廣泛關注。 就在業界還在討論洩密影響時，華強北的商家已經率先行動。相關博主在社交平臺上釋出影片稱，他們已經提前拿到了iPhone 18 Pro的內部資料，工程師已經開始著手研究如何給美版手機加裝實體卡槽，進度比往年快了很多。 據悉，今年的iPhone 18 Pro系列依然沿用了分割槽域供應的策略，分為eSIM版和實體卡槽版兩種版本。其中美版iPhone僅支援eSIM，無法在國內直接插卡使用，這也導致其二手平臺價格長期低於國行版本。 以iPhone Air為例，美版與國行之間的差價超過1000元，巨大的價差催生了華強北的“魔改”生意——商家透過精密開模，在主機板底部開闢區域安裝SIM卡槽，並在機身邊框上鑽孔。改裝後的機型可正常插入實體SIM卡，能夠相容國內三大運營商的網路。"
+    },
+    {
+      "id": "4970798",
+      "time": "2026-07-05 10:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海軍艦艇編隊抵達越南進行訪問】當地時間5日上午，應越南海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊抵達越南胡志明市訪問。近年來，中越海軍在艦艇互訪、聯合巡邏等領域深化合作，為增進兩國互信、維護地區穩定發揮積極作用。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f3032-bf21-7aab-8ca0-99734f3332d9",
+      "time": "2026-07-05 10:54:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PLA Navy task force arrives in Vietnam for visit】On the morning of the 5th local time, at the invitation of the Vietnam Navy, a People's Liberation Army Navy task force including the frigate Qi Jiguang and the amphibious ship Kunlunshan arrived in Ho Chi Minh City for a port visit. In recent years the two navies have expanded ship exchanges and joint patrols."
+    },
+    {
+      "id": "mkt:019f302c-2bc0-7aab-8ca0-94cd69585f81",
+      "time": "2026-07-05 10:47:08",
+      "tags": [
+        "MKT News",
+        "CPNG.O"
+      ],
+      "text": "【South Korea's ruling party rejects U.S. report as inaccurate, accuses Coupang of blame-shifting】South Korea's ruling Democratic Party on the 4th strongly rejected a recent U.S. House Judiciary Committee midterm report on e‑commerce firm Coupang, calling its findings seriously inaccurate and saying Coupang is attempting to shift blame for a large-scale user data leak. The U.S. report said Coupang had long been a target of the South Korean government and accused Seoul of carrying out forced investigations, imposing overly burdensome regulatory requirements and excessive fines. Party spokesperson Jang Yun‑mi said the U.S. report relied on Coupang's unilateral claims and unverified data and seriously distorted the government's position, adding South Korea will not apply discriminatory or unfair regulation based on a company's nationality and that Coupang should stop shifting responsibility onto the government."
+    },
+    {
+      "id": "4970797",
+      "time": "2026-07-05 10:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普總統宣佈已抵達國家廣場，出席致敬美國慶典活動。"
+    },
+    {
+      "id": "mkt:019f302b-1e7c-7aab-8ca0-8ca97647c949",
+      "time": "2026-07-05 10:45:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he had arrived at the National Mall in Washington to attend a celebration honoring the United States."
+    },
+    {
+      "id": "mkt:019f3024-a9e3-7aab-8ca0-87e4564fcf6e",
+      "time": "2026-07-05 10:38:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI+ OPC supply-demand ecosystem matchmaking held in Zhuhai】On July 2 the Bay Area Industry Accelerator launched and an AI+ OPC supply-demand ecosystem matchmaking event was held at Zhuhai Huafa International Industrial Park. Over 130 industry experts and representatives from government, investors and AI firms attended as the accelerator was formally announced. The program targets AI, integrated circuits, biopharma and new materials via four modules—qualification cultivation, technology matching, scenario commercialization and Guangdong–Hong Kong–Macao linkage—and will run year-round activities including high-tech enterprise incubation, sector-specific matchings, scenario releases and a Guangdong–Hong Kong–Macao entrepreneurship tour to provide full-cycle support. In an order-capability showcase five smart-health firms including Huazhishu Group and Xiaosuan Intelligence, and seven OPC AI firms including Shuying Zhike and Qiji Technology, presented mature products and order-taking capabilities across AI vision, digital humans and intelligent systems, highlighting diversified activity in the Bay Area AI sector."
+    },
+    {
+      "id": "4970796",
+      "time": "2026-07-05 10:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門副總理在德黑蘭會見伊朗外長】伊朗外交部發文稱，葉門副總理訪問德黑蘭，參加向伊朗前最高領袖哈梅內伊葬禮，並於週六下午會見了伊朗外交部長阿拉格齊。伊朗外長阿拉格齊對葉門政府和人民堅定譴責美以對伊軍事侵略、並向伊朗人民表達聲援所展現出的勇敢和堅定立場表示感謝。阿拉格齊還強調，伊朗已準備好利用一切外交渠道，推動解除對葉門的封鎖，並全面落實葉門和平路線圖。"
+    },
+    {
+      "id": "mkt:019f3023-4718-7aab-8ca0-7bbab8d7e49f",
+      "time": "2026-07-05 10:37:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen deputy prime minister meets Iranian foreign minister in Tehran】Yemen’s deputy prime minister visited Tehran to attend the funeral of Iran’s former supreme leader Khamenei and met Iranian foreign minister Araghchi on Saturday afternoon. Araghchi thanked Yemen for condemning US–Israeli military action and said Iran is prepared to use all diplomatic channels to push for lifting the blockade on Yemen and to fully implement the Yemen peace roadmap."
+    },
+    {
+      "id": "4970795",
+      "time": "2026-07-05 10:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 特朗普財務申報檔案顯示，自去年年末以來其累計進行 18 筆Coupang股票交易。"
+    },
+    {
+      "id": "4970794",
+      "time": "2026-07-05 10:34:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“AI+”OPC供需生態對接會在珠海舉行】灣區產業加速營啟幕儀式暨“AI+”OPC供需生態對接會7月2日下午在珠海華髮國際產業園舉行。在130餘位行業專家以及來自政府部門、投資機構和AI企業的代表見證下，灣區產業加速營宣佈正式啟動。該計劃圍繞人工智慧、積體電路、生物醫藥、新材料等領域，透過資質培育、技術對接、場景轉化、港澳聯動四大模組，全年常態化舉辦高企培育、專場對接、場景釋出及“粵港澳創業行”等活動，提供全週期陪伴式賦能。在企業訂單能力釋出環節，華之術集團、小蒜智慧等5家智慧健康企業，以及數盈智科、其際科技等7家OPC人工智慧企業依次登臺，展示AI視覺、數字人、智慧系統等細分賽道的成熟產品與可承接訂單能力，充分展現灣區AI產業的多元活力。"
+    },
+    {
+      "id": "4970793",
+      "time": "2026-07-05 10:32:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今年我國電影全產業鏈產值超2000億元】2026年暑期消費市場活力湧動，“光影經濟”亮眼出圈。在這個“電影的夏天”，超90部型別豐富的影片集中上映，持續點燃大眾觀影熱情。一張小票根連線文旅、商圈、餐飲等多元業態，影院商圈 “雙向引流”，觀影流量拉動消費增量。今年我國電影全產業鏈產值已超2000億元。為持續釋放行業動能，國家電影局、市場監管總局出臺新規，支援影院業態融合、特色化經營與視聽技術升級，推動傳統放映廳向沉浸式綜合文化空間迭代。內容供給、產業聯動、政策賦能多重紅利疊加，持續為暑期消費市場注入強勁新活力。（央視財經）"
+    },
+    {
+      "id": "4970792",
+      "time": "2026-07-05 10:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新任中國駐伊拉克大使向波抵伊履新】據中國駐伊拉克共和國大使館網站訊息，2026年7月4日，新任中國駐伊拉克大使向波抵伊履新。伊外交部禮賓司代表、駐伊使館主要外交官到機場迎接。"
+    },
+    {
+      "id": "4970791",
+      "time": "2026-07-05 10:26:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐西蘭承諾五年內與巴西、歐盟啟動貿易談判】紐西蘭貿易部長託德・麥克萊表示，執政黨國家黨若在 11 月大選中勝出，將在五年內啟動七項全新貿易協定的談判。麥克萊在週日釋出的郵件宣告中稱，五年內將優先推進與巴西、瑞士、阿根廷、孟加拉國、奈及利亞、烏拉圭以及歐洲自由貿易聯盟的貿易磋商。他表示，目前紐西蘭對這七大市場的出口額僅 18 億紐西蘭元（摺合 10 億美元），蘊藏著巨大的待開發商機。他還提到，在此之後的十年裡，政府將把談判重心轉向南非、土耳其、斯里蘭卡等國家。此番拓展貿易佈局的舉措，建立在本屆政府任期內陸續簽署多項貿易協議的基礎之上。其中此次最新宣告釋出於 11 月 7 日全國大選前夕。上月一項關鍵民調顯示，作為聯合執政方的國家黨支援率跌至 2021 年以來最低水平。"
+    },
+    {
+      "id": "4970790",
+      "time": "2026-07-05 10:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【遭特朗普政府解職的美軍高階將領批評軍方被用於政治任務】去年遭美國國防部長皮特・赫格塞思解職的美軍前最高將領，於週五刊發專欄文章，批評當局將軍隊用於帶有政治色彩的任務，並直指特朗普政府曾調派部隊前往各大城市打擊犯罪一事。前參謀長聯席會議主席查爾斯・Q・布朗，與另外兩位作者 —— 杜克大學政治學教授彼得・費弗、北卡羅來納州律師安德魯・克拉吉，共同撰文寫道：“一旦總統動用武裝力量執行極具政治爭議性的任務，比如處置城市國內犯罪問題，軍隊開展相關工作就會深陷重重風險。”幾位作者接著指出：“倘若不解決民政機構自身能力不足、運轉失靈的根源問題，反而訴諸軍事手段，會讓軍隊偏離核心作戰使命。況且，化解政治僵局本就不是軍隊的職責。事實上，對軍隊提出過多超出本分的要求，會危及整個國防體系。”"
+    },
+    {
+      "id": "4970788",
+      "time": "2026-07-05 10:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：塞爾維亞代表團訪問德黑蘭，參加向伊朗前最高領袖哈梅內伊葬禮，並於週六下午會見了伊朗外交部長阿拉格齊。"
+    },
     {
       "id": "mkt:019f300b-496e-7aab-8ca0-700b79b71f96",
       "time": "2026-07-05 10:11:13",
@@ -121299,461 +121791,6 @@
         "其他"
       ],
       "text": "【委內瑞拉強震重災區物資嚴重短缺】當地時間6月27日，總檯記者乘坐摩托車抵達此次委內瑞拉強震重災區拉瓜伊拉州。記者觀察到，目前當地仍在進行大量搜救，營救倖存者仍是當前救援工作重點。此外，有約1500名受災民眾居住在當地臨時安置點，儘管當地政府和志願者為受災群眾提供了飲用水、食品和基本生活用品，但目前仍存在較大物資短缺。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f0c84-3309-7770-9d1c-d57a15107729",
-      "time": "2026-06-28 12:36:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli military said on Saturday it killed several militants in a security zone in southern Syria."
-    },
-    {
-      "id": "mkt:019f0c84-21cd-7770-9d1c-ccbc716c9ff5",
-      "time": "2026-06-28 12:36:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry condemned U.S. airstrikes in southern Iran, saying they violated the temporary ceasefire agreement."
-    },
-    {
-      "id": "4958739",
-      "time": "2026-06-28 12:34:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列稱襲擊了敘利亞安全區的武裝人員。"
-    },
-    {
-      "id": "4958738",
-      "time": "2026-06-28 12:33:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發表宣告，譴責美國打擊伊朗南部地區的行動違反臨時協議。"
-    },
-    {
-      "id": "4958737",
-      "time": "2026-06-28 12:33:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長訪問伊拉克】據報道，伊朗外長阿拉格齊於週日早晨啟程前往伊拉克進行正式訪問，目的地為該國首都巴格達。在此次訪問中，伊朗外交部長將與伊拉克高階官員就雙邊關係及地區和國際局勢進行磋商和交流。"
-    },
-    {
-      "id": "mkt:019f0c7f-af91-7770-9d1c-c6a6b9870a65",
-      "time": "2026-06-28 12:32:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iranian foreign minister visits Iraq】IRNA said Iranian foreign minister Araghchi departed Sunday morning for an official visit to Baghdad to consult with senior Iraqi officials on bilateral relations and regional and international issues."
-    },
-    {
-      "id": "4958736",
-      "time": "2026-06-28 12:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國移動03星近期將擇機發射 搭載星載基站驗證衛星物聯網業務】《科創板日報》記者獲悉，中國移動下一顆手機直連衛星試驗星03星近期將擇機發射。與今年6月9日發射的“中國移動02星”不同，03星將搭載星載基站，實現“星上再生”模式。此外，03星還將同步驗證衛星物聯網業務，實現寬頻與窄帶物聯的融合。 (科創板日報)"
-    },
-    {
-      "id": "4958735",
-      "time": "2026-06-28 12:26:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普駁斥哈格曼新書為“假新聞”，重申選舉勝利敘事】美國總統特朗普：關於瑪戈特·哈格曼那本寫我的書，根據一個非常簡短且枯燥的情況通報，這本書基本上全是編造的、假新聞，大部分是虛構的，就像她這麼多年來寫我的大多數東西一樣。她是個三流作家，擁有三流智力，卻因為你們最愛的總統——也就是我——賺了一流的收入。她在選舉問題上對我錯得離譜，儘管她知道我會大勝；她在俄羅斯、俄羅斯、俄羅斯騙局上對我錯得離譜；她在幾乎所有事情上都對我錯得離譜。但她還是繼續往外噴垃圾，而人們還在繼續買賬。記住，我贏得了選舉，大勝。還有，伊朗永遠不會擁有核武器！！！"
-    },
-    {
-      "id": "mkt:019f0c79-c212-7770-9d1c-bafb13449ad7",
-      "time": "2026-06-28 12:25:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump calls Margot Hagman book fabricated, reiterates election-victory claim and vows Iran will not get nukes】Trump dismissed a new book by Margot Hagman as fabricated “fake news,” reiterated he decisively won the election, and said Iran will never be allowed to acquire nuclear weapons."
-    },
-    {
-      "id": "4958734",
-      "time": "2026-06-28 12:23:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歡樂谷集團聯手東方演藝集團、宇樹科技等構建“歡樂互聯”文旅融合平臺】6月28日訊息，在北京歡樂谷20週年慶典暨歡樂谷集團“城市IP娛樂主場”戰略釋出會上，99米高的“大眼京”摩天輪正式執行，全新銀河廣場開放迎客，北京歡樂谷20週年嘉年華及暑期夏浪狂歡節也同步開啟。同日，歡樂谷集團聯合多方發起“歡樂互聯”文旅融合創新發展平臺正式啟航。"
-    },
-    {
-      "id": "4958733",
-      "time": "2026-06-28 12:20:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：品浩（PIMCO）瞄準公開市場私募交易】英國媒體援引對品浩首席投資官的採訪報道，品浩正藉助部分大型融資方的資金需求，在公開市場開展私募交易以把握投資機遇。近幾個月，品浩牽頭完成多筆私募配售業務，包括為中東各國政府提供戰時債務融資、以及參與Meta、甲骨文的資料中心專案投資。品浩首席投資官表示：“在該領域，我們可依託自身龐大資金體量爭取有利交易條款。當下市場迎來視窗期，能挖掘許久未見的優質投資價值。”"
-    },
-    {
-      "id": "4958732",
-      "time": "2026-06-28 12:18:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海交通大學量子科技學院正式啟動建設】6月27日下午，2026張江量子灣釋出會在香港大學張江基地舉行。現場，上海交大量子科技學院、鐵馬量子實驗室公司、張江量子孵化器三大核心平臺正式成立。據介紹，上海交通大學量子科技學院正式啟動建設，由丁洪院士任創始院長，陸朝陽教授和嚮導教授出任副院長。鐵馬量子實驗室公司揭牌成立，由上海未來產業基金、海桐國際創新中心、張江高科等共建。張江量子孵化器啟動運營，由海桐孵化器x張江浩芯聯合運營。"
-    },
-    {
-      "id": "mkt:019f0c70-f75a-7770-9d1c-b12dcba111e4",
-      "time": "2026-06-28 12:15:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【World's first 16 MW tension-leg floating wind platform \"Haiyou Anlan\" departs port】The world's first and largest single-turbine tension-leg floating wind platform, \"Haiyou Anlan\" (16 MW), completed integrated assembly at Zhuhai Gaolan Port and departed yesterday under escort by Zhuhai maritime authorities for the Lufeng oilfield cluster waters off eastern Guangdong. The platform is over 307 m tall and weighs nearly 8,000 tonnes; its departure marks China’s deepwater floating-wind technology moving from demonstration toward scale and commercial deployment."
-    },
-    {
-      "id": "4958731",
-      "time": "2026-06-28 12:14:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首座16兆瓦張力腿浮式風電平臺“海油安瀾號”順利出港】昨日，全球首座單機容量最大的張力腿浮式風電平臺——“海油安瀾號”，在珠海高欄港完成一體化整合後，由珠海海事部門護送，順利出港，正式向粵東陸豐油田群海域進發。這座總高逾307米、總重近8000噸的“海上大風車”從珠海高欄港啟程出海，標誌著我國深遠海浮式風電技術正從示範應用加速向規模化、商業化邁進。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019f0c6b-7086-7770-9d1c-a8cd52af3ce8",
-      "time": "2026-06-28 12:09:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Bahrain's foreign ministry said it condemns Iran's renewed attack."
-    },
-    {
-      "id": "4958730",
-      "time": "2026-06-28 12:09:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "巴林外交部譴責伊朗再次發動襲擊。"
-    },
-    {
-      "id": "mkt:019f0c69-6149-7770-9d1c-a555fda85a10",
-      "time": "2026-06-28 12:07:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "Meta Platforms",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Financial Times reports Google has limited Meta's access to Gemini, citing AI-driven pressure on compute capacity."
-    },
-    {
-      "id": "4958729",
-      "time": "2026-06-28 12:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特斯拉Model S簽名典藏版限量投放歐洲市場】據報道，特斯拉Model S Signature Edition（簽名典藏版）於近日正式登陸歐洲市場，該車型僅限量20臺投放歐洲地區，採用定向受邀客戶專屬購買模式，不面向公眾開放選購。據瞭解，特斯拉數月前已關停Model S、Model X全球線上訂單通道。美國市場共推出250臺Model S、100臺Model X簽名典藏版，目前本土庫存已全部售罄。"
-    },
-    {
-      "id": "4958728",
-      "time": "2026-06-28 12:07:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林國家通訊社訊息：巴林稱伊朗於週日向其發射導彈、無人機實施襲擊。"
-    },
-    {
-      "id": "mkt:019f0c68-bc04-7770-9d1c-9b8efed09eeb",
-      "time": "2026-06-28 12:06:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "ISRAELI MILITARY said it killed an armed HEZBOLLAH militant and struck a launcher in the Nabatieh area."
-    },
-    {
-      "id": "4958727",
-      "time": "2026-06-28 12:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱其已擊斃真主黨武裝分子，並襲擊了納巴提亞地區的一個發射裝置。"
-    },
-    {
-      "id": "4958726",
-      "time": "2026-06-28 12:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "英媒援引日本郵船訊息：水雷或將阻礙霍爾木茲海峽航運長達數月。"
-    },
-    {
-      "id": "4958725",
-      "time": "2026-06-28 12:04:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌對Meta Gemini模型的使用設限，因人工智慧需求緊張導致算力吃緊。"
-    },
-    {
-      "id": "4958724",
-      "time": "2026-06-28 12:04:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊小範圍內測TenPay Go，面向境外人士來華支付】記者瞭解到，騰訊正在內測一款面向境外人士的“來華生活便利助手”，旨在提供包括移動支付服務的一站式數字生活服務。該App將支援在全國數千萬家微信支付合作商戶中直接消費，目前仍在小範圍測試中，暫未全量開放體驗。記者留意到，該款APP已在App Store上架，名為TenPayGo。（介面新聞）"
-    },
-    {
-      "id": "4958723",
-      "time": "2026-06-28 12:02:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃32強全部產生】北京時間6月28日，2026年美加墨世界盃小組賽收官。在J組的最後兩場小組賽中，約旦1-3不敵阿根廷，阿爾及利亞3-3戰平奧地利。至此，32強席位已全部落定。（央視新聞）"
-    },
-    {
-      "id": "4958722",
-      "time": "2026-06-28 11:51:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "麥納麥訊息：巴林內政部28日在社交媒體上說，警報已拉響，請民眾保持冷靜並前往最近的安全地點。 當天早些時候，巴林內政部已釋出了一次警報拉響提示。伊朗伊斯蘭革命衛隊當天宣佈對位於巴林的美軍第五艦隊等重要基礎設施發動打擊。（新華社）"
-    },
-    {
-      "id": "mkt:019f0c56-e5bd-7770-9d1c-973eee07f71e",
-      "time": "2026-06-28 11:47:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC automatic detection: at 11:39 on June 28 a magnitude ~4.0 earthquake was recorded near Haixi prefecture, Qinghai (37.86°N, 95.42°E). Final magnitude pending official quick report."
-    },
-    {
-      "id": "4958721",
-      "time": "2026-06-28 11:42:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【加拿大商界代表說期待進博會為加中合作創造機遇】加拿大最大商會之一、薩里與懷特羅克貿易委員會執行長喬斯琳·揚近日接受記者採訪時說，中國市場擁有巨大的發展潛力和豐富的合作機遇，期待今年的中國國際進口博覽會（進博會）為加中未來合作創造機遇。今年，加拿大將擔任進博會主賓國。談及進博會這一平臺，喬斯琳·揚說，任何能夠將全球進出口商和商界人士匯聚一堂的平臺，尤其是促進加中交流的平臺，都是建立商業聯絡、拓展合作網路的寶貴機會。喬斯琳·揚說，加中雙方企業互補性強，未來擁有巨大的合作空間，有望共同推動創新與經濟發展。她說，加拿大擁有許多能夠面向中國市場的優勢領域，例如清潔技術、先進製造業、食品產業以及農業科技等。“中國在科技創新領域處於世界領先地位，我非常期待看到此次進博會能夠促成有價值的交流與對話，併為雙方未來合作創造新機遇。”（新華社）"
-    },
-    {
-      "id": "4958720",
-      "time": "2026-06-28 11:41:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月28日11時39分在青海海西州直轄區附近（北緯37.86度，東經95.42度）發生4.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4958719",
-      "time": "2026-06-28 11:38:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部：拉響防空警報。"
-    },
-    {
-      "id": "mkt:019f0c4e-a880-7770-9d1c-8de445b514dc",
-      "time": "2026-06-28 11:38:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain Interior Ministry said alarms are sounding and urged citizens and residents to remain calm and proceed to the nearest safe location."
-    },
-    {
-      "id": "mkt:019f0c47-6e5d-7770-9d1c-8094810d20df",
-      "time": "2026-06-28 11:30:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【CPCA's Cui Dongshu: China auto imports 38,000 units in May, down 19% YoY】June 28 — Cui Dongshu, secretary-general of the CPCA, said China auto imports in May 2026 totaled 38,000 units, down 19% YoY; January–May imports were 160,000 units, down 11% YoY. He cited the rise of domestic brands and accelerated localization by international manufacturers as drivers of sustained weakness in imports. Imported cars have recorded three consecutive years of negative growth; smoothing out volatility would imply eight straight years of decline."
-    },
-    {
-      "id": "mkt:019f0c3f-a1dd-7770-9d1c-7d01559a70e9",
-      "time": "2026-06-28 11:22:04",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "【Australian treasurer: inflation expected to peak at about 4.25% mid-year】Treasurer Jim Chalmers said Australia’s headline inflation is expected to peak near 4.25% mid-year, below prior forecasts, as lower oil prices and progress in Middle East talks support disinflation. He said he hopes a ceasefire will hold and warned Middle East uncertainty—particularly risks around the Strait of Hormuz—keeps inflation higher than expected, although recent progress has been more pronounced than anticipated. Chalmers declined to give a core inflation forecast—the RBA’s key policy metric—but said core inflation is also \"moving forward\" and that Treasury will update its forecasts mid-year."
-    },
-    {
-      "id": "4958718",
-      "time": "2026-06-28 11:11:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "4958717",
-      "time": "2026-06-28 11:09:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【通用技術生物藥物研究院正式揭牌】6月27日，通用技術生物藥物研究院在北京中關村生命科學園正式揭牌成立，同步揭牌的還有細胞治療與修復再生北京市重點實驗室、創新藥物人才共育培養基地、細胞與基因治療藥物研發博士後工作站等創新平臺。"
-    },
-    {
-      "id": "mkt:019f0c33-57f3-7770-9d1c-7476f4e78f97",
-      "time": "2026-06-28 11:08:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fuxin Technology says online full text of sales executive Zhou Zhiqi speech fabricated】Fuxin Technology said on June 28 that an online article purporting to be the full text of sales executive Zhou Zhiqi’s speech is fabricated and does not represent the company. Zhou’s presentation at the CFCF2026 Optical Connectivity Conference on June 27 in Suzhou, titled Breaking the Deadlock and Reshaping: Micro-TEC Domesticization Wave, only described company products and technology. The company said its Micro-TEC products use bismuth telluride materials that do not require 6N-grade or higher tellurium or bismuth raw materials, it has not recently added major telecommunications customers nor secured any large new orders, and industry peers likewise do not require 6N-grade raw materials for bismuth telluride."
-    },
-    {
-      "id": "4958716",
-      "time": "2026-06-28 11:06:49",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【富信科技：網傳公司銷售周志奇演講完整原文為杜撰文章】富信科技6月28日釋出宣告，針對部分網路媒體、自媒體和社交媒體平臺傳播的題為《周志奇演講完整原文》的文章及相關內容，公司經核查後鄭重宣告如下：一、《破局與重塑：Micro-TEC國產化浪潮》是公司銷售周志奇在CFCF2026光連線大會（6.27蘇州）的演講主題，其在該演講中僅對公司產品和技術進行了介紹；網傳《周志奇演講完整原文》為杜撰文章，此文與公司無關並完全不代表公司立場。二、公司生產的Micro TEC產品所使用的碲化鉍材料無需使用純度達6N級及以上的碲、鉍等單質原料；公司近期未新增通訊領域重大客戶，亦未獲取新增大額訂單。據瞭解，行業內生產Micro TEC產品所使用的碲化鉍材料亦無需使用純度達6N級及以上的碲、鉍等單質原料。"
-    },
-    {
-      "id": "4958715",
-      "time": "2026-06-28 11:05:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【追覓業務調整 同步啟動人員最佳化】近日，追覓系各大業務單元（BU）正在收縮和調整，將旗下超過200個業務單元（BU）大幅收縮整合為四大主營業務板塊，並同步啟動人員最佳化。追覓相關業務負責人接受採訪時表示，近期，追覓科技完成新一輪核心戰略調整，正式鎖定智慧家庭、戶外庭院、智慧出行、具身智慧四大核心賽道，對旗下業務體系進行系統性梳理與最佳化。此次戰略迭代是企業發展邏輯的深度重塑，全面迴歸硬核科技研發與技術落地的核心賽道。與業務調整同步進行的是人員最佳化，這也是追覓成立以來最大規模的組織人事精簡。據悉，此次公司總體裁撤比例約為12%。據估算，目前追覓體系（不含一線工廠員工）總人數約2萬人，此次最佳化涉及人數約2400人。這一比例略高於追覓科技每年年中考核約10%的常態化淘汰比例。"
-    },
-    {
-      "id": "mkt:019f0c2e-173e-7770-9d1c-6e81410170d5",
-      "time": "2026-06-28 11:02:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US official says US military facilities in Middle East not significantly affected】Refinitiv on the 27th quoted a US official saying Iran launched missile and drone strikes against neighboring states including Bahrain and Kuwait; there have been no reported US casualties and US facilities in the Middle East sustained no significant damage."
-    },
-    {
-      "id": "4958714",
-      "time": "2026-06-28 11:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘭州大學回應教師楊某某相關論文問題：成立專項調查組】蘭州大學6月27日釋出情況說明：學校高度重視網上對我校教師楊某某相關論文問題的反映，已第一時間成立專項調查組啟動調查。學校一貫對科研失信行為秉持“零容忍”態度，將根據調查情況嚴肅認真處理。"
-    },
-    {
-      "id": "4958713",
-      "time": "2026-06-28 10:51:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英媒：蘇格蘭隊從美加墨世界盃出局後，主帥克拉克決定辭職】據英國廣播公司（BBC）、《衛報》等媒體28日報道，蘇格蘭隊從美加墨世界盃出局後，蘇格蘭隊主帥史蒂夫·克拉克決定辭職。（環球網）"
-    },
-    {
-      "id": "4958712",
-      "time": "2026-06-28 10:47:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蔚來ES8大五座版將於7月9日上市】6月27日，蔚來宣佈ES8大五座版開啟預訂，將於7月9日正式上市。"
-    },
-    {
-      "id": "4958711",
-      "time": "2026-06-28 10:45:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本山梨縣地震已致20人受傷】據日本總務省消防廳訊息，截至當地時間28日9時，26日晚發生在山梨縣的地震已造成20人受傷。當地時間26日22時29分左右，日本山梨縣東部發生5.6級地震，最大震度達6弱，多地震感強烈。日本氣象廳設定的地震震度由弱到強分別為0至4級、5弱、5強、6弱、6強和7級，共10個等級。日本氣象廳稱，震度6弱意味著人員難以站立，室內未固定傢俱可能發生移動甚至傾倒。據日本廣播協會統計，這是當地自1924年以來再次發生震度達到6弱的地震。此次地震震中靠近富士山。日本氣象廳表示，目前富士山各項觀測資料未見明顯變化，暫未發現與火山活動有關的異常情況。(新華社)"
-    },
-    {
-      "id": "mkt:019f0c1e-5c71-7770-9d1c-619654cf70a1",
-      "time": "2026-06-28 10:45:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Earthquake in Yamanashi prefecture injures 20】Japan's Fire and Disaster Management Agency said an earthquake that occurred in Yamanashi prefecture on the night of the 26th has injured 20 people as of 0900 JST on the 28th."
-    },
-    {
-      "id": "4958710",
-      "time": "2026-06-28 10:37:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中越邊境天麻高速馬鹿塘特大橋順利合龍 實現全線貫通】6月28日，位於雲南省文山州麻栗坡縣的天麻高速馬鹿塘特大橋順利合龍，標誌著天麻高速實現全線貫通，為中越邊境再添一條互聯互通的國門大動脈。馬鹿塘特大橋橫跨馬鹿塘水庫，全長1005.5米，主跨480米，為雙塔雙索麵半漂浮體系的鋼混組合梁斜拉橋。南北兩岸各一個主墩，最高塔高254米，相當於80多層高樓，矗立在近75度陡峭峽谷之間，由於區域地質條件錯綜複雜，斷層裂隙、岩土破碎帶及古滑坡體大範圍分佈，給施工建設帶來了極大挑戰。一線建設人員攻克各種難關，歷時910余天，橋面實現了毫米級精確對接，全線取得重大進展。（央視新聞）"
-    },
-    {
-      "id": "4958709",
-      "time": "2026-06-28 10:32:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【部分加密貨幣跳水！美軍發動空襲 特朗普重大警告】北京時間28日，部分加密貨幣出現跳水行情。截至發稿，24小時內，ZEC跌近6%，HYPE跌3.50%，BNB、Solana跌近2%，XLM、XMR跌超2%，以太坊跌0.32%，比特幣微漲0.12%。CoinGlass資料顯示，過去12個小時內，加密貨幣全網爆倉了1億美元。訊息面上，美軍對伊朗境內目標實施新一輪打擊。特朗普警告伊朗若再違約將面臨毀滅性後果。同日，以軍再度襲擊黎巴嫩南部，儘管美以黎剛達成框架協議，黎真主黨領導人則譴責美以黎框架協議，稱其無效。"
-    },
-    {
-      "id": "mkt:019f0c12-2b3e-7770-9d1c-58e60783fdc7",
-      "time": "2026-06-28 10:32:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【NETANYAHU says no territorial space for two-state solution】On June 27, Israeli Prime Minister NETANYAHU said at a press conference that between the Mediterranean and the Jordan River there is no territorial space for a two-state solution. He added Israeli public opinion, previously divided on the two-state framework, has shifted over the past three years following the October 2023 escalation in the Israel-Palestine conflict. Analysts said the remarks are a fresh blow to prospects for a Palestinian state on territory Israel occupied in 1967, noting 157 of the UN's 193 members have recognized Palestinian statehood."
-    },
-    {
-      "id": "4958708",
-      "time": "2026-06-28 10:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亨通電力產業集團原總裁李自為去世，終年53歲】6月27日晚，亨通集團釋出訃告，亨通電力產業集團原總裁、亨通研究院副院長李自為，因病醫治無效，於2026年6月26日10時30分在蘇州逝世，享年53歲。"
-    },
-    {
-      "id": "4958707",
-      "time": "2026-06-28 10:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理稱不存在兩國空間】當地時間6月27日，以色列總理內塔尼亞胡舉行新聞釋出會稱，從海洋到約旦河之間，已不存在“兩國”的空間。內塔尼亞胡還稱，以色列公眾此前在“兩國方案”問題上意見分裂，但在過去三年間（2023年10月新一輪巴以衝突爆發後）這一態度已經改變。輿論分析認為，內塔尼亞胡的這一最新言論意味著，在以色列於1967年中東戰爭中佔領的領土上建立一個與以色列和平共存的巴勒斯坦國這一構想，遭遇了最新的打擊——儘管聯合國193個會員國中有157個已承認巴勒斯坦的國家地位。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f0c0d-ce88-7770-9d1c-534642fcc314",
-      "time": "2026-06-28 10:27:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's 2026 summer movie season box office tops 1.5 bln yuan】Online platform data show China's 2026 summer movie season total box office, including presales, has exceeded 1.5 bln yuan."
-    },
-    {
-      "id": "4958706",
-      "time": "2026-06-28 10:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳新投放1.5萬個燃油車指標】央視財經訊息，商務部等多部門在本週同一天釋出了《關於培育壯大汽車後市場消費若干措施的通知》和《關於公佈汽車流通消費改革試點城市名單的通知》兩份檔案。在40個汽車流通消費改革試點城市中，深圳是最佳化汽車限購的城市之一，現在，改變已開始出現。深圳7月30日將開展2026年專項普通小汽車增量指標搖號，一次性投放1.5萬個燃油車增量指標，透過階梯搖號的方式面向個人進行配置，目前已經進入報名期。這些新購買的汽車將在未來6個月內陸續上牌，將直接帶動汽車保險、金融貸款、汽車裝飾、保養維修等業務的增長。（央視財經）"
-    },
-    {
-      "id": "4958705",
-      "time": "2026-06-28 10:20:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。 阿克斯波公司在其網站上說，阿勒河的水溫25日和26日再次達到25攝氏度，無法用於冷卻，因此貝茲瑙核電站“已暫時關閉兩座反應堆”。公司正持續監測阿勒河水溫，“一旦河水溫度下降或預測將有足夠的冷卻條件，即可計劃重啟反應堆”。重啟工作將在相關主管部門批准後進行。（新華社）"
     }
   ]
 }
