@@ -1,7 +1,53 @@
 {
   "date": "2026-07-06",
-  "count": 136,
+  "count": 141,
   "items": [
+    {
+      "id": "mkt:019f3466-e05c-7aab-8ca5-865c15214b0f",
+      "time": "2026-07-06 06:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver climbed above $63/oz, up 1.03% on the day."
+    },
+    {
+      "id": "4971142",
+      "time": "2026-07-06 06:29:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破63美元/盎司，日內漲1.03%。"
+    },
+    {
+      "id": "4971141",
+      "time": "2026-07-06 06:28:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報62.99美元/盎司。"
+    },
+    {
+      "id": "mkt:019f3465-6d89-7aab-8ca5-7c058896160e",
+      "time": "2026-07-06 06:28:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "Greatland Resource reported Q4 gold production of 79,099 oz and copper production of 3,573 t. For FY2026, gold output was 328,986 oz and copper 14,594 t; gold exceeded the company's guidance range of 260,000–310,000 oz."
+    },
+    {
+      "id": "mkt:019f3463-9237-7aab-8ca5-71063a02b21f",
+      "time": "2026-07-06 06:26:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Australian gold producer Regis Resources reported FY2026 gold production of 379,000 oz, at the top end of its guidance. Fourth-quarter production was 79,099 oz."
+    },
     {
       "id": "4971140",
       "time": "2026-07-06 06:12:29",

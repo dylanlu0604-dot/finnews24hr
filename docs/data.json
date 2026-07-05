@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-06 06:26:25",
-  "count": 13093,
+  "updated": "2026-07-06 06:30:16",
+  "count": 13096,
   "items": [
+    {
+      "id": "mkt:019f3466-e05c-7aab-8ca5-865c15214b0f",
+      "time": "2026-07-06 06:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver climbed above $63/oz, up 1.03% on the day."
+    },
+    {
+      "id": "4971142",
+      "time": "2026-07-06 06:29:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破63美元/盎司，日內漲1.03%。"
+    },
+    {
+      "id": "4971141",
+      "time": "2026-07-06 06:28:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報62.99美元/盎司。"
+    },
+    {
+      "id": "mkt:019f3465-6d89-7aab-8ca5-7c058896160e",
+      "time": "2026-07-06 06:28:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "Greatland Resource reported Q4 gold production of 79,099 oz and copper production of 3,573 t. For FY2026, gold output was 328,986 oz and copper 14,594 t; gold exceeded the company's guidance range of 260,000–310,000 oz."
+    },
+    {
+      "id": "mkt:019f3463-9237-7aab-8ca5-71063a02b21f",
+      "time": "2026-07-06 06:26:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Australian gold producer Regis Resources reported FY2026 gold production of 379,000 oz, at the top end of its guidance. Fourth-quarter production was 79,099 oz."
+    },
     {
       "id": "4971140",
       "time": "2026-07-06 06:12:29",
@@ -120683,23 +120729,6 @@
         "000660.KS"
       ],
       "text": "Korean Maeil Business Newspaper reports Samsung and SK Group's combined investment plans over the next 10 years may total 2,000 trillion won (about $1.3 trillion)."
-    },
-    {
-      "id": "4959213",
-      "time": "2026-06-29 06:30:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京表示，烏克蘭無人機襲擊煉油廠致使俄羅斯面臨燃料短缺問題。"
-    },
-    {
-      "id": "4959212",
-      "time": "2026-06-29 06:29:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美伊衝突再起令談判又生變數 伊方稱 “未參加” 美官員稱改期】美伊原計劃本月末舉行技術性談判，但在談判前夕兩國再起衝突。28日晚間，有伊朗官員稱，由於此次襲擊及伊方相關條件未獲滿足，伊朗未參加原定於28日舉行的技術磋商。與此同時，美國方面也傳出訊息稱，美伊將於30日在卡達首都多哈舉行會談。有分析指出，本次美伊之間爆發的衝突暴露出雙方在霍爾木茲海峽主導權上的深層矛盾。而這無疑也給雙方未來的談判，增添了不確定性。"
     }
   ]
 }
