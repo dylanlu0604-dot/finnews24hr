@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-05 23:09:37",
-  "count": 13118,
+  "updated": "2026-07-05 23:13:47",
+  "count": 13122,
   "items": [
+    {
+      "id": "4971020",
+      "time": "2026-07-05 23:12:45",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國地震臺網正式測定：07月05日23時03分在四川德陽市綿竹市（北緯31.58度，東經103.98度）發生4.5級地震，震源深度20千米。"
+    },
+    {
+      "id": "mkt:019f32d5-d1d5-7aab-8ca3-7e1e97139987",
+      "time": "2026-07-05 23:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu, on his relationship with President Trump: I do not believe there is a rift between us. Unlike other allies, we stand with the US 99% of the time, and the president and I are aligned."
+    },
+    {
+      "id": "4971019",
+      "time": "2026-07-05 23:11:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川德陽地震多地網友收到預警】7月5日23點左右，四川多地網友收到地震預警資訊，成都、樂山、瀘州、自貢等多地網友表示震感強烈。（四川觀察）"
+    },
+    {
+      "id": "mkt:019f32d4-c638-7aab-8ca3-768091443ced",
+      "time": "2026-07-05 23:10:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026."
+    },
+    {
+      "id": "mkt:019f32d3-be28-7aab-8ca3-6dc26051d573",
+      "time": "2026-07-05 23:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Approx M4.7 earthquake near Mianzhu, Sichuan】CENC automatic determination: at 23:03 today a magnitude-4.7 earthquake occurred near Mianzhu, Deyang, Sichuan (31.59°N, 104.00°E). Final parameters to be confirmed in the official rapid bulletin."
+    },
     {
       "id": "4971018",
       "time": "2026-07-05 23:08:03",
@@ -120940,15 +120983,6 @@
         "其他"
       ],
       "text": "委內瑞拉地震已救出33人，仍有數千人下落不明。"
-    },
-    {
-      "id": "4959046",
-      "time": "2026-06-28 23:10:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國總統特朗普即將迎來美國最高法院的裁決結果，法院將判定他兩項最大膽的政策博弈舉措是否合法：一是罷免一名美聯儲理事，二是廢除自動落地公民權制度。"
     }
   ]
 }
