@@ -1,7 +1,15 @@
 {
   "date": "2026-07-06",
-  "count": 54,
+  "count": 55,
   "items": [
+    {
+      "id": "mkt:019f3364-231e-7aab-8ca4-b5c07d93d963",
+      "time": "2026-07-06 01:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Trump called Putin and Zelensky seeking to restart stalled peace talks and offered to help mediate a Russia-Ukraine settlement ahead of the NATO summit in Turkey."
+    },
     {
       "id": "4971082",
       "time": "2026-07-06 01:42:49",
