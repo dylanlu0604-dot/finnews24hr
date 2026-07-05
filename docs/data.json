@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06 03:41:18",
-  "count": 13141,
+  "updated": "2026-07-06 03:45:10",
+  "count": 13136,
   "items": [
+    {
+      "id": "mkt:019f33ce-fba0-7aab-8ca5-26c09f4b2e38",
+      "time": "2026-07-06 03:43:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran judiciary chief says US, Israel seek talks from defeat; will hold assassination suspects to account】Iran judiciary chief Mohseni-Eje'i said the US and Israel have committed unforgivable crimes in their campaign against Iran. He accused Washington of taking the initiative to seek talks with Tehran and said Israel, driven into a corner, proposed a ceasefire. Mohseni-Eje'i added Iran will hold the US and those responsible for the assassination of former Supreme Leader Khamenei to account and will not relent."
+    },
+    {
+      "id": "mkt:019f33cd-e768-7aab-8ca5-1f39f259bf2a",
+      "time": "2026-07-06 03:42:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians."
+    },
     {
       "id": "4971100",
       "time": "2026-07-06 03:37:25",
@@ -121092,75 +121108,6 @@
         "其他"
       ],
       "text": "【委內瑞拉強震致中國公民8人遇難 1人失聯】中國駐委內瑞拉大使館通報，截至委內瑞拉當地時間28日15時，據不完全統計，已確認有8名中國公民在委內瑞拉6月24日發生的地震中遇難，1名中國公民失聯，其他人員身份尚在核實。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0fc2-348e-7aab-8c02-ad2f49791006",
-      "time": "2026-06-29 03:43:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Putin said Ukraine has proposed halting mutual attacks on each other's territory."
-    },
-    {
-      "id": "mkt:019f0fc2-2373-7aab-8c02-a74c4a36d2b9",
-      "time": "2026-06-29 03:43:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Putin said on a Ukrainian proposal that Russia has no plans to save the Kyiv regime."
-    },
-    {
-      "id": "mkt:019f0fc2-0fe2-7aab-8c02-9f8aeb0fc7d7",
-      "time": "2026-06-29 03:43:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Putin said Russia's primary objective is to liberate the Donbass and \"Novorossiya\", including the Kherson and Zaporizhzhia regions."
-    },
-    {
-      "id": "4959131",
-      "time": "2026-06-29 03:43:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：烏克蘭提議雙方停火、互不襲擊對方領土。"
-    },
-    {
-      "id": "4959130",
-      "time": "2026-06-29 03:42:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：我們的核心任務是解放頓巴斯與“新俄羅斯”，這其中包括赫爾松州和扎波羅熱州。"
-    },
-    {
-      "id": "4959129",
-      "time": "2026-06-29 03:42:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：烏克蘭已提出將戰事限制在頓涅茨克、盧甘斯克、赫爾松與扎波羅熱四個地區。"
-    },
-    {
-      "id": "4959128",
-      "time": "2026-06-29 03:42:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京就烏克蘭相關提議表態：我們無意挽救基輔政權。"
     }
   ]
 }

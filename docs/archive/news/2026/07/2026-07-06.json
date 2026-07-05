@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 85,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:019f33ce-fba0-7aab-8ca5-26c09f4b2e38",
+      "time": "2026-07-06 03:43:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran judiciary chief says US, Israel seek talks from defeat; will hold assassination suspects to account】Iran judiciary chief Mohseni-Eje'i said the US and Israel have committed unforgivable crimes in their campaign against Iran. He accused Washington of taking the initiative to seek talks with Tehran and said Israel, driven into a corner, proposed a ceasefire. Mohseni-Eje'i added Iran will hold the US and those responsible for the assassination of former Supreme Leader Khamenei to account and will not relent."
+    },
+    {
+      "id": "mkt:019f33cd-e768-7aab-8ca5-1f39f259bf2a",
+      "time": "2026-07-06 03:42:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians."
+    },
     {
       "id": "4971100",
       "time": "2026-07-06 03:37:25",
