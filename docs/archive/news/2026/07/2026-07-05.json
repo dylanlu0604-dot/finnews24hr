@@ -1,7 +1,29 @@
 {
   "date": "2026-07-05",
-  "count": 501,
+  "count": 503,
   "items": [
+    {
+      "id": "4970978",
+      "time": "2026-07-05 19:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：與瑞典首相進行了交談。感謝烏爾夫的支援以及他對俄羅斯對烏克蘭、對我們人民的戰爭的明確立場。"
+    },
+    {
+      "id": "mkt:019f321f-cdb0-7aab-8ca2-bed499c3b5dd",
+      "time": "2026-07-05 19:52:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Mitsubishi UFJ: Wosh's terse style makes Fed June minutes more important】George Goncalves, head of U.S. macro strategy at Mitsubishi UFJ Securities America, said Wosh’s sparing use of words raises the market significance of the Fed’s June minutes as a rare window into officials’ divergent views. He added some investors have questioned Wosh’s hands-off approach and are pushing for greater transparency; many market participants are unused to reduced communication and doubt how long the Fed can sustain it, leaving traders to read between the lines."
+    },
     {
       "id": "4970977",
       "time": "2026-07-05 19:52:09",
