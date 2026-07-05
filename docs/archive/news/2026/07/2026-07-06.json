@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 38,
+  "count": 40,
   "items": [
+    {
+      "id": "mkt:019f3351-32e0-7aab-8ca4-8f839b698446",
+      "time": "2026-07-06 01:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said the Washington Treaty is not expected to be reopened this year."
+    },
+    {
+      "id": "4971072",
+      "time": "2026-07-06 01:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員談及歐洲駐軍規模：防長赫格塞思受命開展相關評估審查。"
+    },
     {
       "id": "mkt:019f334d-6f29-7aab-8ca4-86fcec0d67e6",
       "time": "2026-07-06 01:22:20",
