@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-05 20:54:17",
-  "count": 13132,
+  "updated": "2026-07-05 20:58:07",
+  "count": 13131,
   "items": [
+    {
+      "id": "mkt:019f3259-39bc-7aab-8ca2-dd1ce7fc1b12",
+      "time": "2026-07-05 20:55:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Germany to raise 2027 net borrowing to EUR118bn as tax receipts fall and rates lift debt costs】Germany plans to increase 2027 net new borrowing to EUR118.0bn (about $135bn), roughly 7% above April projections, a finance ministry official said. The rise reflects weaker-than-expected tax receipts, higher interest rates raising debt-servicing costs, and additional funding needs at the Federal Employment Agency for unemployment benefits. Chancellor Friedrich Merz and Finance Minister Lars Klingbeil have proposed a reform package covering pensions, healthcare and taxes; the cabinet is expected to approve the package and the 2027 budget on Monday."
+    },
     {
       "id": "4970988",
       "time": "2026-07-05 20:49:15",
@@ -121009,22 +121024,6 @@
         "國際"
       ],
       "text": "普京稱當下是俄羅斯命運攸關的時刻。他補充表示，俄羅斯在戰場上不可能被擊敗。"
-    },
-    {
-      "id": "mkt:019f0e4e-2f64-7aab-8c00-f3fa3c55c396",
-      "time": "2026-06-28 20:57:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's first high‑altitude integrated solar–hydrogen–storage project exceeds 4 bln kWh generation】China Huadian's Qinghai branch said its Delingha integrated high‑altitude solar–hydrogen–storage project — a 1 GW solar array with a 3 MW PV‑to‑hydrogen unit — has generated more than 4 bln kWh. The Delingha facility in Haixi, Qinghai includes a 3 MW hydrogen plant, a 330 kV step‑up substation and a 270 MW/1,080 MWh battery storage station. The project is among China's first large wind‑solar bases on arid/Gobi land and marks the country's first trial of green power‑to‑hydrogen at high altitude."
-    },
-    {
-      "id": "4959000",
-      "time": "2026-06-28 20:54:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國首個高海拔光氫儲一體化專案累計發電量超40億千瓦時】記者28日從中國華電集團有限公司青海分公司獲悉，中國首個高海拔光氫儲一體化專案——華電德令哈100萬千瓦光儲及3兆瓦光伏制氫專案累計發電超40億千瓦時。該專案位於青海省海西蒙古族藏族自治州德令哈市，配套建設3兆瓦制氫站、330千伏升壓站及270兆瓦/1080兆瓦時儲能電站，是中國第一批沙戈荒大型風光基地專案，也是中國在高海拔地區綠電制氫的首次嘗試。（中國新聞網）"
     }
   ]
 }

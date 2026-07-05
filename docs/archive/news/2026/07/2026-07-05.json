@@ -1,7 +1,22 @@
 {
   "date": "2026-07-05",
-  "count": 516,
+  "count": 517,
   "items": [
+    {
+      "id": "mkt:019f3259-39bc-7aab-8ca2-dd1ce7fc1b12",
+      "time": "2026-07-05 20:55:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Germany to raise 2027 net borrowing to EUR118bn as tax receipts fall and rates lift debt costs】Germany plans to increase 2027 net new borrowing to EUR118.0bn (about $135bn), roughly 7% above April projections, a finance ministry official said. The rise reflects weaker-than-expected tax receipts, higher interest rates raising debt-servicing costs, and additional funding needs at the Federal Employment Agency for unemployment benefits. Chancellor Friedrich Merz and Finance Minister Lars Klingbeil have proposed a reform package covering pensions, healthcare and taxes; the cabinet is expected to approve the package and the 2027 budget on Monday."
+    },
     {
       "id": "4970988",
       "time": "2026-07-05 20:49:15",
