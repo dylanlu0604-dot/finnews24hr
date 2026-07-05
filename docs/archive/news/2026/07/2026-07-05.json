@@ -1,7 +1,70 @@
 {
   "date": "2026-07-05",
-  "count": 609,
+  "count": 615,
   "items": [
+    {
+      "id": "mkt:019f32fe-ed53-7aab-8ca4-0c5c58884d45",
+      "time": "2026-07-05 23:56:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu says Iran will not obtain nuclear weapons while he remains in office."
+    },
+    {
+      "id": "4971048",
+      "time": "2026-07-05 23:56:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【廣西柳州各城區暴雨預警訊號提升為紅色】受今年第10號颱風“美莎克”影響，廣西柳州市出現強降雨天氣。柳州市氣象臺於今日22時44分將各城區暴雨橙色預警訊號提升為紅色。20時以來，柳北石碑坪已出現91毫米的強降雨，目前強降雨雲團正向偏北方向移動，強度維持，預計3小時內柳州市各城區還將有40~70毫米、局地90毫米以上的降雨，並伴有雷電、短時大風等，城區積澇氣象風險很大，請防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f32fe-3078-7aab-8ca4-02e32bcedf4e",
+      "time": "2026-07-05 23:55:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000895.SZ"
+      ],
+      "text": "Macquarie downgraded Shuanghui Development to Neutral, PT 23 yuan."
+    },
+    {
+      "id": "mkt:019f32fd-d171-7aab-8ca3-ff107937e83a",
+      "time": "2026-07-05 23:55:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israeli forces will continue to remain in Lebanon."
+    },
+    {
+      "id": "4971047",
+      "time": "2026-07-05 23:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理將雙匯發展評級下調至中性，目標價23元人民幣。"
+    },
+    {
+      "id": "4971046",
+      "time": "2026-07-05 23:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雕塑《英勇》的重新貼金工程已全部完工，雕塑《犧牲》的貼金修繕工作也正在緊鑼密鼓推進。完成《犧牲》的貼金作業後，團隊將啟動兩座《和平之藝》雕塑的翻新貼金工程。這兩座雕塑均高19英尺，矗立在12.5英尺高的整塊花崗岩基座之上。這四尊雕塑已有逾半個世紀未曾重新貼金，本次修繕總共將使用55磅金箔。下方第一組照片是完工後的《英勇》貼金成品，第二組照片則是尚在施工中的《犧牲》雕塑。"
+    },
     {
       "id": "mkt:019f32fb-8746-7aab-8ca3-f40361f1ed52",
       "time": "2026-07-05 23:52:52",
