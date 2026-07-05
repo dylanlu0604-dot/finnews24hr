@@ -1,7 +1,39 @@
 {
   "date": "2026-07-06",
-  "count": 18,
+  "count": 22,
   "items": [
+    {
+      "id": "mkt:019f3341-ddbd-7aab-8ca4-523a327c6c01",
+      "time": "2026-07-06 01:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump will hold bilateral meetings with the leaders of Ukraine and Syria during the NATO summit."
+    },
+    {
+      "id": "4971061",
+      "time": "2026-07-06 01:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將在北約峰會期間與烏克蘭、敘利亞領導人舉行雙邊會晤。"
+    },
+    {
+      "id": "mkt:019f3340-8e15-7aab-8ca4-4ca90aa23519",
+      "time": "2026-07-06 01:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says Trump will meet Zelenskiy during the NATO summit."
+    },
+    {
+      "id": "4971060",
+      "time": "2026-07-06 01:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普將在北約峰會期間會見澤連斯基。"
+    },
     {
       "id": "mkt:019f333d-cd78-7aab-8ca4-45d86a8844b5",
       "time": "2026-07-06 01:05:16",
