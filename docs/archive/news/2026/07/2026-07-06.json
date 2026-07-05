@@ -1,7 +1,47 @@
 {
   "date": "2026-07-06",
-  "count": 202,
+  "count": 206,
   "items": [
+    {
+      "id": "te:markets:564246",
+      "time": "2026-07-06 07:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline on Supply Glut Worries — Crude oil traded near $68 per barrel on Monday, hovering at its lowest levels since late February as recovering energy flows through the Strait of Hormuz and expectations of higher OPEC+ output fueled concerns over a potential supply glut. OPEC+ members approved another modest increase in collective production quotas for next month, with seven countries led by Saudi Arabia and Russia agreeing to raise output by 188,000 barrels per day. The decision reflects the group’s confidence in boosting production as conditions across the Middle East continue to stabilize. Major Persian Gulf producers have also been increasing supply, with Saudi Arabia’s exports climbing close to pre-war levels, while the UAE, which left OPEC during the conflict, has likewise restored shipments. Meanwhile, oil and gas tanker traffic through the Strait of Hormuz showed signs of normalizing on Sunday, a day after several vessels made unexplained U-turns and detours along the critical energy route."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607063794340774",
+      "time": "2026-07-06 07:34:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【6月份新增信貸、社融或同比少增】隨著6月份金融資料釋出視窗臨近，記者採訪業內專家對當月新增信貸及社會融資規模資料等進行前瞻分析。綜合來看，業界普遍判斷：2026年6月份新增信貸、社融規模較2025年同期或少增。資料顯示，2025年6月份新增信貸規模為2.24萬億元，社融增量為4.2萬億元。"
+    },
+    {
+      "id": "4971197",
+      "time": "2026-07-06 07:33:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛上調日元匯率預期，目標從155調至165，看好日元利差交易】高盛表示，除非美國經濟突發超預期下行衝擊，或是日本央行轉向激進收緊貨幣政策，否則美元兌日元將持續承受上行壓力。卡馬克希亞・特里維迪（KamakshyaTrivedi ）等策略分析師在研報中寫道：“美國收益率長期維持高位、經濟衰退風險較低、財政隱憂持續存在，疊加日本央行加息節奏平緩，整體宏觀環境預示日元將持續面臨貶值壓力。”該行將一年期美元兌日元匯率預測值從155上調至165；三個月、六個月美元兌日元目標價分別看至162、163，此前預測值分別為160、158。“我們仍建議將日元作為融資貨幣，搭配其他低息G10貨幣，佈局新興市場高利差資產。”高盛同時下調歐元兌美元匯率預期：12個月目標價從此前1.20下調至1.12，六個月目標價由1.18下調至1.12。"
+    },
+    {
+      "id": "4971196",
+      "time": "2026-07-06 07:32:20",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【西太平洋銀行：紐西蘭央行有時間等待更多資料】西太平洋銀行預計，紐西蘭央行將在週三的政策會議上將其官方隔夜拆款利率維持在2.25%不變。該行在給客戶的一份報告中表示，過去六週發生了很多變化，最值得注意的是油價下跌速度遠快於預期。該行補充說，相關的通貨膨脹壓力緩解使紐西蘭央行有更多時間觀望該國經濟的執行情況，特別是在7月評估之後將有大量重要經濟資料釋出的背景下。該行還稱，不過，前瞻性政策指引應會繼續與今年上調官方隔夜拆款利率的預期保持一致。"
+    },
     {
       "id": "4971195",
       "time": "2026-07-06 07:32:01",
