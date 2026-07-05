@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 23:49:57",
-  "count": 13148,
+  "updated": "2026-07-05 23:54:08",
+  "count": 13149,
   "items": [
+    {
+      "id": "mkt:019f32fb-8746-7aab-8ca3-f40361f1ed52",
+      "time": "2026-07-05 23:52:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. halts active search for sailor missing after MH-60S ditching in Arabian Sea】U.S. Naval Forces Central Command said on social media that the U.S. Navy suspended active search at 1500 local time on July 5 for a sailor assigned to Sea Combat Helicopter Squadron 5 who was embarked on the USS George H. W. Bush. The sailor went missing after an MH-60S Seahawk made an emergency water landing in the Arabian Sea on July 1. U.S. Navy and Air Force units conducted a large-scale joint search-and-rescue within CENTCOM’s area of responsibility for more than 102 hours, covering over 14,000 square miles, before ending active search efforts."
+    },
+    {
+      "id": "4971045",
+      "time": "2026-07-05 23:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍暫停搜尋在阿拉伯海因直升機事故失蹤計程車兵】當地時間5日，美國海軍中央司令部在社交平臺上釋出訊息稱，美國海軍已於當地時間5日15時暫停對一名失蹤海軍士兵的主動搜尋行動。訊息稱，這名失蹤人員隸屬於海上戰鬥直升機第5中隊，事發時部署在“喬治·H·W·布什”號航空母艦上。當地時間7月1日，一架MH-60S“海鷹”直升機在阿拉伯海實施緊急水上迫降後，該士兵失蹤。"
+    },
     {
       "id": "mkt:019f32f7-b228-7aab-8ca3-ee335790b2c3",
       "time": "2026-07-05 23:48:41",
@@ -121196,14 +121212,6 @@
         "其他"
       ],
       "text": "沙特王儲同法國總統談及美伊諒解備忘錄最新動態。"
-    },
-    {
-      "id": "4959057",
-      "time": "2026-06-28 23:50:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特王儲同法國總統會晤，共同探討為實現地區安全尋求全面解決方案的相關舉措。"
     }
   ]
 }
