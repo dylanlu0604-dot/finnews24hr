@@ -1,7 +1,64 @@
 {
   "date": "2026-07-06",
-  "count": 63,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:019f3390-ada1-7aab-8ca4-d8b4c0c30614",
+      "time": "2026-07-06 02:35:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said he is first a warrior and only then a diplomat, and that Tehran must conduct negotiations while maintaining \"combat readiness\"."
+    },
+    {
+      "id": "mkt:019f3390-1fa2-7aab-8ca4-d52cc72b5c36",
+      "time": "2026-07-06 02:35:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf said hostile forces now recognize that Iran's participation is indispensable for achieving peace and stability in Lebanon and the broader Middle East."
+    },
+    {
+      "id": "mkt:019f338f-fc49-7aab-8ca4-c931ca40f818",
+      "time": "2026-07-06 02:35:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "XAUUSD",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【ETF margin balances continue to rise; leveraged funds balance offense and defense】ETF margin financing accelerated in June as A-share turnover picked up. Wind data show ETF margin balances on the Shanghai and Shenzhen markets reached 116.09 bln yuan as of June 30, up 5.26 bln yuan from end‑May. Semiconductor and telecom thematic ETFs were the main recipients of new leverage, while gold ETF financing remains the largest single exposure, suggesting leveraged investors are adding growth bets while keeping hedge positions."
+    },
+    {
+      "id": "4971091",
+      "time": "2026-07-06 02:33:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF兩融餘額持續增長 槓桿資金“攻防兼備”】6月以來，A股成交活躍度持續提升，融資資金加速借道ETF參與市場。Wind資料顯示，截至6月30日，滬深兩市ETF兩融餘額達到1160.88億元，較5月末增加52.58億元。其中，半導體、通訊等主題ETF成為融資資金加倉重點。不過，黃金ETF融資餘額仍居首位，表明槓桿資金在積極佈局成長機會的同時，仍保留一定的避險倉位。"
+    },
+    {
+      "id": "4971090",
+      "time": "2026-07-06 02:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：敵人已然認清，想要實現黎巴嫩乃至整個中東地區的和平，離不開伊朗的參與。"
+    },
+    {
+      "id": "4971089",
+      "time": "2026-07-06 02:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫在會見黎巴嫩真主黨高層官員時表示：自己首先是一名戰士，其次才是外交官，德黑蘭必須在保持“戰備狀態”的前提下開展談判。"
+    },
     {
       "id": "4971088",
       "time": "2026-07-06 02:30:00",
