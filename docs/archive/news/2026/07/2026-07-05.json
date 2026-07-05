@@ -1,7 +1,29 @@
 {
   "date": "2026-07-05",
-  "count": 529,
+  "count": 531,
   "items": [
+    {
+      "id": "mkt:019f328f-e47d-7aab-8ca3-01c8b759d026",
+      "time": "2026-07-05 21:55:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact mixed",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【China Merchants Securities: After short-term shock, focus on tech recovery and mid-year earnings】China Merchants Securities says the recent sharp market adjustment following Meta's compute sale is a tactical move to lift ROIC in a high‑CapEx phase, not evidence of broad compute overcapacity. The firm views the industry as shifting from pure CapEx expansion into a ROIC‑verification stage; the pullback was amplified by prior outsized gains in generalized compute names and leveraged flows, creating a short‑term liquidity‑driven negative feedback loop. After the liquidity shock, the bank judges the AI structural trend intact: storage chip supply‑demand gaps remain, MLCC price increases persist, and indium phosphide shortages continue, supporting scope for a tech recovery. It also recommends selectively targeting mispricings between mid‑year earnings and share prices."
+    },
+    {
+      "id": "4970997",
+      "time": "2026-07-05 21:54:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商證券：短期衝擊後關注科技修復與中報業績雙主線】招商證券釋出研報稱，短期衝擊後關注科技修復與中報業績雙主線。Meta出售算力導致的市場大幅調整，但這並非算力過剩的訊號，而是高資本開支階段提升資產回報率的必然選擇。行業當前從單純的Capex擴張進入ROIC驗證階段，而非進入算力過剩階段。而市場目前的調整，主要由於短期泛算力板塊漲幅較大，疊加槓桿資金放大波動，悲觀敘事容易引起市場短期的資金負反饋，此前多次的AI泡沫論與蘋果漲價，都是相同的劇情。但在流動性衝擊後，該行認為AI的產業趨勢仍然沒有證偽，儲存晶片的供需缺口沒有變、MLCC的漲價沒有變、磷化銦的缺口沒有變，科技方向有望修復。除了科技方向之外，也可適度關注中報業績與股價錯配的方向。"
+    },
     {
       "id": "4970996",
       "time": "2026-07-05 21:45:24",
