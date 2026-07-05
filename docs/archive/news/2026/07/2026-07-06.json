@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:019f332b-4411-7aab-8ca4-28a436aac2de",
+      "time": "2026-07-06 00:45:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's president, responding to the government's decision not to comply with the Supreme Court's ruling, said disrespecting judicial rulings is an absolute red line."
+    },
+    {
+      "id": "4971057",
+      "time": "2026-07-06 00:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總統就政府拒不執行最高法院裁決的表態作出回應：“不尊重司法裁決是絕對不可逾越的紅線。”"
+    },
     {
       "id": "4971056",
       "time": "2026-07-06 00:41:30",
