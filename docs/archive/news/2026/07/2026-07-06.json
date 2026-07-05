@@ -1,7 +1,40 @@
 {
   "date": "2026-07-06",
-  "count": 73,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:019f33a7-bd33-7aab-8ca4-fe4e64caba0e",
+      "time": "2026-07-06 03:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wildfire in southern France spreads; about 10,000 ordered to evacuate】Authorities in France's Pyrénées-Orientales said a wildfire continued to spread, prompting evacuation orders affecting about 10,000 people. Officials said the blaze in the Trévillach area has burned roughly 1,650 hectares and is threatening the town of Bouleternère. Organizers said Stage 3 of the Tour de France on the 6th will go ahead with a modified route and no spectators allowed."
+    },
+    {
+      "id": "4971095",
+      "time": "2026-07-06 03:00:47",
+      "tags": [
+        "央行"
+      ],
+      "text": "路透調查：七月貨幣政策會議後，26位經濟學家中有14位預計紐西蘭聯儲將在九月底前再加息25個基點，最終利率達到2.75%。"
+    },
+    {
+      "id": "4971094",
+      "time": "2026-07-06 03:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國南部山火持續蔓延 約1萬人被要求撤離】當地時間7月5日，法國東比利牛斯省政府表示，隨著當地山火繼續蔓延，臨近市鎮開始疏散居民。目前，受撤離措施影響的人數約1萬人。當天東比利牛斯省省長德拉莫特表示，該省特雷維拉克地區山火過火面積已擴大至約1650公頃，並正威脅布勒泰內爾市鎮。受山火持續蔓延影響，6日即將舉行的環法腳踏車賽第三賽段將按計劃進行，但賽段將作出調整，並禁止公眾現場觀賽。（央視新聞）"
+    },
+    {
+      "id": "4971093",
+      "time": "2026-07-06 03:00:30",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "路透調查：28位經濟學家中有22位認為，紐西蘭聯儲將於7月8日將現金利率上調25個基點至2.50%。"
+    },
     {
       "id": "mkt:019f339b-eedd-7aab-8ca4-f5d1ef87c2ab",
       "time": "2026-07-06 02:48:04",
