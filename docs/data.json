@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-06 05:51:23",
-  "count": 13114,
+  "updated": "2026-07-06 05:55:13",
+  "count": 13110,
   "items": [
+    {
+      "id": "4971132",
+      "time": "2026-07-06 05:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防衛省將新設海外統籌局。"
+    },
     {
       "id": "4971131",
       "time": "2026-07-06 05:36:09",
@@ -120854,51 +120862,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲1%，現報73.89美元/桶。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606293785648430",
-      "time": "2026-06-29 05:54:11",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。"
-    },
-    {
-      "id": "4959192",
-      "time": "2026-06-29 05:53:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。 美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。"
-    },
-    {
-      "id": "mkt:019f1038-75e3-7aab-8c03-223e2a0363b0",
-      "time": "2026-06-29 05:52:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【FT: UK to replace Type 45 destroyers with unmanned-capable warships】The Financial Times reports the Royal Navy will order at least six general-purpose combat vessels able to deploy unmanned air and undersea systems, a plan due to be announced this week. The ships, intended as part of the Type 45 destroyer replacement, will be the navy's first hybrid-powered warships and are expected to enter service in the early 2030s. The Labour government is set to abandon a long‑planned eight-ship Type 83 destroyer programme and cancel the five-ship Type 32 frigate programme first announced in 2020 in favour of the new general-purpose vessels. The defence secretary’s final plan is expected to add at least £1bn to defence spending, raising new defence investment by more than £14.5bn versus earlier plans. Government says the vessels will act as unmanned-systems control hubs, extending operational reach and firepower without a proportionate increase in crew or cost."
-    },
-    {
-      "id": "4959191",
-      "time": "2026-06-29 05:52:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "《日經新聞》民調：日本高市內閣支援率上升2個百分點，達到68%。"
-    },
-    {
-      "id": "4959190",
-      "time": "2026-06-29 05:51:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲天然氣價格上漲3%。"
     }
   ]
 }
