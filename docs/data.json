@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05 08:21:43",
-  "count": 13230,
+  "updated": "2026-07-05 08:25:36",
+  "count": 13231,
   "items": [
+    {
+      "id": "mkt:019f2fa7-90de-7aab-8ca0-23f492f3516e",
+      "time": "2026-07-05 08:22:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Everbright Securities: Semiconductor and AI waves push fluorinated new materials into rapid growth】Everbright Securities says leading Chinese fluorochemical firms are accelerating deployment of fluorinated new materials to build a second growth curve. In semiconductors, domestic high‑purity (G5) electronic‑grade hydrofluoric acid — long dominated by Japanese and US suppliers — has cleared certification at leading domestic and international wafer foundries and moved into volume production. Rapidly rising compute from AI, HPC and hyperscale data centers is increasing heat density, weakening air‑cooling effectiveness and boosting liquid‑cooling adoption, supporting demand for perfluoropolyether (PFPE) and other high‑performance fluorinated coolants. PFPE’s insulating, non‑flammable and superior thermal properties make it essential for immersion and other high‑safety, high‑power cooling applications. These trends are driving fluorochemical companies toward higher‑tech, higher‑margin product mixes."
+    },
     {
       "id": "4970748",
       "time": "2026-07-05 08:20:51",
