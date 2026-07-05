@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06 06:58:25",
-  "count": 13101,
+  "updated": "2026-07-06 07:02:33",
+  "count": 13100,
   "items": [
     {
       "id": "mkt:019f347f-ce82-7aab-8ca5-b7d707769ff6",
@@ -120772,14 +120772,6 @@
         "XAUUSD"
       ],
       "text": "INVESCO survey: 61% of central banks surveyed say US debt levels have a negative impact on the dollar's long-term role as a reserve asset."
-    },
-    {
-      "id": "mkt:019f1078-4577-7aab-8c03-90bffe86b8b8",
-      "time": "2026-06-29 07:02:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INVESCO survey: some institutions are reassessing reliance on U.S. custodians, counterparties and clearing infrastructure."
     }
   ]
 }
