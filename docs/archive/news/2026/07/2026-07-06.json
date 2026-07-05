@@ -1,7 +1,24 @@
 {
   "date": "2026-07-06",
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "id": "mkt:019f330d-1ec7-7aab-8ca4-127185aa5d07",
+      "time": "2026-07-06 00:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China foreign minister Wang Yi holds talks with Finland's Valtonen】China's foreign minister Wang Yi met Finland's foreign minister Valtonen in Helsinki on the 5th. Wang said Finland was among the first Western states to establish diplomatic ties with China and the first to sign an intergovernmental trade agreement. He highlighted 76 years of close China–Finland ties and the 2017 establishment of a future-oriented cooperation partnership, and said China is willing to continue mutual respect and equal treatment and remain a trusted partner despite shifting international conditions."
+    },
+    {
+      "id": "4971050",
+      "time": "2026-07-06 00:11:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同芬蘭外長瓦爾託寧會談】中共中央政治局委員、外交部長王毅5日在赫爾辛基同芬蘭外長瓦爾託寧舉行會談。王毅說，芬蘭是最早同新中國建交的西方國家之一，也是第一個同中國簽訂政府間貿易協定的西方國家。建交76年來，中芬關係一直走在中國同北歐國家關係的前列，樹立了國與國之間超越制度和文化差異、開展平等交往的典範。2017年中芬建立面向未來的新型合作伙伴關係，充分體現兩國關係的前瞻性、創新性。無論國際風雲如何變幻，中方願同芬方相互尊重、平等相待，繼續做彼此信任的合作伙伴。（新華社）"
+    },
     {
       "id": "4971049",
       "time": "2026-07-06 00:02:57",
