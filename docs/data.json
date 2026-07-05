@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-05 22:13:00",
-  "count": 13107,
+  "updated": "2026-07-05 22:16:49",
+  "count": 13109,
   "items": [
+    {
+      "id": "mkt:019f32a2-8e5d-7aab-8ca3-12d53b188835",
+      "time": "2026-07-05 22:15:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy said it has reached an agreement setting terms for valuation and allocation of hydrocarbons, natural gas, power and related resources to support downstream industrial investment."
+    },
+    {
+      "id": "mkt:019f32a2-8684-7aab-8ca3-0a92684e65e8",
+      "time": "2026-07-05 22:15:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy will develop a new mid-scale industrial zone in Mesaieed Industrial City and will work with Qatar's Ministry of Industry to assess and allocate hydrocarbon-derived feedstock to support eligible industrial investments."
+    },
+    {
+      "id": "4971002",
+      "time": "2026-07-05 22:14:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司：擬在梅賽義德工業城開發一座新的中型工業區。"
+    },
     {
       "id": "4971001",
       "time": "2026-07-05 22:09:12",
@@ -120831,14 +120859,6 @@
         "國際"
       ],
       "text": "伊朗議長卡利巴夫與黎巴嫩議長貝里通電話時表示，伊朗目標是結束黎巴嫩境內戰事、讓流離失所民眾返鄉，同時促使猶太復國主義政權撤軍，正為此付出切實努力。"
-    },
-    {
-      "id": "4959030",
-      "time": "2026-06-28 22:14:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗南部法爾斯省軍方公關辦公室表示，針對設拉子機場周邊未爆彈藥的清除與可控引爆作業已於週日啟動，預計持續一週。"
     }
   ]
 }
