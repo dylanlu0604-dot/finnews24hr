@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 82,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019f33c7-48c9-7aab-8ca5-12ffbd4ae035",
+      "time": "2026-07-06 03:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing."
+    },
+    {
+      "id": "4971099",
+      "time": "2026-07-06 03:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月06日03時23分在新疆喀什地區伽師縣（北緯39.45度，東經77.49度）發生3.0級地震，震源深度26千米。"
+    },
     {
       "id": "4971098",
       "time": "2026-07-06 03:29:56",

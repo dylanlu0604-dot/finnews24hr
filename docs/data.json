@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06 03:33:34",
+  "updated": "2026-07-06 03:37:26",
   "count": 13142,
   "items": [
+    {
+      "id": "mkt:019f33c7-48c9-7aab-8ca5-12ffbd4ae035",
+      "time": "2026-07-06 03:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing."
+    },
+    {
+      "id": "4971099",
+      "time": "2026-07-06 03:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月06日03時23分在新疆喀什地區伽師縣（北緯39.45度，東經77.49度）發生3.0級地震，震源深度26千米。"
+    },
     {
       "id": "4971098",
       "time": "2026-07-06 03:29:56",
@@ -121158,22 +121174,6 @@
         "國際"
       ],
       "text": "伊朗官員：因近期遭遇襲擊且相關條件未得到滿足，伊朗未參加原定於週日舉行的技術性會談。"
-    },
-    {
-      "id": "4959126",
-      "time": "2026-06-29 03:37:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "悉尼早盤交易中，美元兌G10主要貨幣匯率呈現區間震盪。"
-    },
-    {
-      "id": "4959124",
-      "time": "2026-06-29 03:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱將與民主黨熱門華盛頓特區市長候選人會面】美國總統特朗普表示，他計劃會見珍妮絲·劉易斯·喬治，後者在華盛頓特區市長民主黨初選中勝出。特朗普在社交平臺發文稱：“我將會見珍妮絲·劉易斯·喬治，但我必須提醒所有人，華盛頓特區要重新變回安全、體面的城區。”特朗普並未透露會面具體時間。"
     }
   ]
 }
