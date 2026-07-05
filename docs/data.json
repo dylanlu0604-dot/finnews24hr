@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-05 18:08:27",
-  "count": 13161,
+  "updated": "2026-07-05 18:12:26",
+  "count": 13160,
   "items": [
+    {
+      "id": "mkt:019f31c1-c193-7aab-8ca2-3cfd82973cc0",
+      "time": "2026-07-05 18:10:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Industrial Securities: Relative sector momentum and relative earnings revisions remain core allocation cues】Industrial Securities says as July ushers in the U.S.-China earnings season, relative sector momentum and relative earnings revisions remain the primary allocation signals. Sectors with strong consensus on AI compute and upstream materials — notably non-ferrous metals, chemicals and fiberglass tied to AI demand — could re-enter reallocation after earlier overseas-driven volatility as Chinese 1H earnings previews arrive. Several companies in memory/storage, fiber-optic cable, liquid cooling and specialty electronic gases have issued strong 1H previews, confirming high Q2 AI-chain momentum; further previews from leading firms could be stronger catalysts. For the North American compute chain (represented by optical comms and PCB), the prior compute rally narrowed into storage and has fallen more sharply recently under overseas pressure; the A-share valuation gap between North America-linked compute leaders and domestic compute leaders has retraced to June last-year levels, a configuration signal to watch. Ahead of the U.S. earnings wave in mid-late July, the market may seek domestic low-base, quality sectors for catch-up, notably the lithium battery supply chain, innovative drugs, brokerages, agrochemicals, refining & petrochemicals, and poultry (broilers)."
+    },
     {
       "id": "4970946",
       "time": "2026-07-05 18:06:46",
@@ -121238,25 +121250,6 @@
         "公司"
       ],
       "text": "【藥捷安康：擬最高回購1億人民幣H股】藥捷安康公告，公司董事會宣佈，根據股東大會批准的購回H股的一般授權，公司有意不時於公開市場購回公司H股，總金額最高為人民幣1億元或其等值港元。回購期限自股東大會透過之日起，至下屆股東周年大會結束時或相關法律規定須召開下屆股東周年大會的期限屆滿時，或股東特別決議案撤銷或修訂授權之日止。回購資金將由適用法律及法規所准許的資金撥付。"
-    },
-    {
-      "id": "mkt:019f0db5-e19e-7aab-8c00-6d8a2e60c5df",
-      "time": "2026-06-28 18:10:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Saudi foreign ministry strongly condemned Iran's attacks on Kuwait and Bahrain and its threats to the freedom and safety of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4958927",
-      "time": "2026-06-28 18:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部：我們強烈譴責伊朗針對科威特、巴林，以及霍爾木茲海峽航道安全與航行自由發動的襲擊。"
     }
   ]
 }
