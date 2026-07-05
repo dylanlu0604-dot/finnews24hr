@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 20:00:34_
-_本檔包含 2358 則快訊，約 505835 字_
+_更新時間：2026-07-05 22:05:11_
+_本檔包含 2360 則快訊，約 505193 字_
+
+---
+
+### 2026-07-05 22:04:26  #國際
+
+美國：一架直升機墜毀後，一名水兵於7月1日失蹤。
+
+---
+
+### 2026-07-05 22:02:26  #國際
+
+美國：暫停對阿拉伯海失蹤水手的搜尋。
+
+---
+
+### 2026-07-05 21:59:12  #市場
+
+市場訊息：突尼西亞6月消費者價格指數同比上漲5.3%。
+
+---
+
+### 2026-07-05 21:55:18  #MKT News #Market Themes #AI Revolution #META.O #Impact mixed #Nasdaq100 #Impact bullish
+
+【China Merchants Securities: After short-term shock, focus on tech recovery and mid-year earnings】China Merchants Securities says the recent sharp market adjustment following Meta's compute sale is a tactical move to lift ROIC in a high‑CapEx phase, not evidence of broad compute overcapacity. The firm views the industry as shifting from pure CapEx expansion into a ROIC‑verification stage; the pullback was amplified by prior outsized gains in generalized compute names and leveraged flows, creating a short‑term liquidity‑driven negative feedback loop. After the liquidity shock, the bank judges the AI structural trend intact: storage chip supply‑demand gaps remain, MLCC price increases persist, and indium phosphide shortages continue, supporting scope for a tech recovery. It also recommends selectively targeting mispricings between mid‑year earnings and share prices.
+
+---
+
+### 2026-07-05 21:54:43  #其他
+
+【招商證券：短期衝擊後關注科技修復與中報業績雙主線】招商證券釋出研報稱，短期衝擊後關注科技修復與中報業績雙主線。Meta出售算力導致的市場大幅調整，但這並非算力過剩的訊號，而是高資本開支階段提升資產回報率的必然選擇。行業當前從單純的Capex擴張進入ROIC驗證階段，而非進入算力過剩階段。而市場目前的調整，主要由於短期泛算力板塊漲幅較大，疊加槓桿資金放大波動，悲觀敘事容易引起市場短期的資金負反饋，此前多次的AI泡沫論與蘋果漲價，都是相同的劇情。但在流動性衝擊後，該行認為AI的產業趨勢仍然沒有證偽，儲存晶片的供需缺口沒有變、MLCC的漲價沒有變、磷化銦的缺口沒有變，科技方向有望修復。除了科技方向之外，也可適度關注中報業績與股價錯配的方向。
+
+---
+
+### 2026-07-05 21:45:24  #國際
+
+市場訊息：阿達尼防務將在希夫普里投資250億印度盧比用於導彈專案。
+
+---
+
+### 2026-07-05 21:40:29  #其他
+
+【清華火神隊衛冕RoboCup人形組冠軍 加速進化機器人包攬雙足人形組別金牌】7月5日，在RoboCup機器人世界盃上，中國戰隊清華火神隊搭載加速進化Booster T1，衛冕人形組世界冠軍。
+
+---
+
+### 2026-07-05 21:36:23  #其他
+
+【2026 中國（南京）具身智慧機器人產業展將於7月10-12日舉行】2026年7月10日-12日，中國（南京）具身智慧機器人產業展將在南京舉行。本次展會預計吸引450+海內外參展企業、35000+專業觀眾。從核心零部件（感測器、執行器、AI晶片）到整機系統（人形機器人、服務機器人、特種機器人），再到行業解決方案，構建了“技術-產品-應用”的完整生態鏈。
+
+---
+
+### 2026-07-05 21:36:16  #MKT News #Market Themes #AI Revolution
+
+【2026 China (Nanjing) Embodied Intelligence Robotics Industry Expo to run July 10-12】The 2026 China (Nanjing) Embodied Intelligence Robotics Industry Expo will run July 10-12 in Nanjing. Organizers expect 450+ domestic and international exhibitors and 35,000+ professional visitors; the show spans core components (sensors, actuators, AI chips), full systems (humanoid, service and special-purpose robots) and industry solutions, forming a complete technology–product–application ecosystem.
+
+---
+
+### 2026-07-05 21:36:03  #其他
+
+【中國政府援助委內瑞拉首批緊急人道主義救災物資啟運】7月5日晚間，中國政府向委內瑞拉提供的首批緊急人道主義地震救災援助物資從北京首都國際機場啟運。據瞭解，首批物資重80餘噸，主要包括20臺發電機、8套淨水車、200個消毒機、200套太陽能照明裝置、1700餘件帳篷和6700餘條毛毯等，由1架民航包機運往委內瑞拉首都加拉加斯。其餘批次物資將陸續發運。委內瑞拉6月24日發生強烈地震，造成嚴重人員傷亡和財產損失。地震發生後，中國政府已第一時間向委方提供緊急人道主義地震救災現匯援助。（新華社）
+
+---
+
+### 2026-07-05 21:26:16  #MKT News
+
+Axios reports Israeli Prime Minister Netanyahu today refused to comply with a Supreme Court ruling. The move is the first such occurrence in Israeli history and sharply escalates the constitutional crisis ahead of October's election.
+
+---
+
+### 2026-07-05 21:13:40  #國際
+
+【上合示範區開通青島至寮國永珍GMS專線 織密國際物流大通道網路】中國—上海合作組織地方經貿合作示範區(簡稱“上合示範區”)管委會5日釋出訊息稱，一輛滿載冷凍畜禽產品的GMS(大湄公河次區域)國際冷鏈運輸車輛4日晚從該示範區啟程，預計7天后抵達寮國永珍，標誌著青島至寮國永珍GMS國際道路運輸線路正式開通。據介紹，持有GMS證書的車輛可在中國、寮國、越南、泰國、柬埔寨、緬甸六國順暢通行，一年有效期內免多次換裝、倒櫃，實現“一次委託、一單到底、一箱直達”。（中國新聞網）
+
+---
+
+### 2026-07-05 21:13:06  #其他
+
+【法國南部山火持續蔓延 過火面積已達約1500公頃】當地時間5日，法國南部東比利牛斯省特雷維拉克山火持續蔓延，目前過火面積已擴大至約1500公頃。當地政府表示，滅火工作難度較大，已調集大量地面和空中力量參與滅火。目前，共有700名消防員、200輛消防車以及9架消防飛行器參與滅火行動。當地政府還表示，已緊急疏散受火災影響區域約80名居民，並要求多個村莊居民留在室內避險。（央視新聞）
+
+---
+
+### 2026-07-05 21:13:02  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #Commodities #Energy #US10Y #Impact mixed #DXY #WTI
+
+【Next week: Fed minutes due; China June CPI; SK Hynix ADR tentatively set to list on Nasdaq Friday】Market-focus items: Fed minutes from the June FOMC (Thursday); China June CPI YoY (Thursday); SK Hynix ADR tentatively slated to list on Nasdaq Friday (July 10); RBNZ rate decision and governor’s press conference (Wednesday); US 10‑year Treasury auction stop‑out yield and bid‑cover (Thursday); ECB June meeting minutes (Thursday); monthly EIA and IEA oil reports (EIA short‑term outlook Wednesday; IEA monthly Friday). Key scheduled data and events by day — Monday: euro‑area PPI and retail sales, final US S&P Global services PMI and ISM non‑manufacturing PMI, Fed and ECB officials speaking. Tuesday: Germany industrial output, UK Halifax house prices, US ADP payrolls, China FX reserves. Wednesday: NZ RBNZ decision and press conference, API weekly oil stocks, EIA weekly crude and SPR releases. Thursday: Fed and ECB minutes, US initial jobless claims, US existing home sales, US 10‑yr auction results, China CPI YoY. Friday: Germany and France June CPI final, Canada June jobs, China June M2 YoY, SK Hynix ADR listing (tentative), IEA oil report; New Zealand exchange closed for the holiday. Ongoing weekly flows: US weekly EIA petroleum and natural gas inventories, Baker Hughes rig count (week to July 10).
+
+---
+
+### 2026-07-05 21:07:11  #MKT News
+
+【Wildfire in Pyrénées-Orientales expands to about 1,500 hectares】A wildfire in Trévillach, Pyrénées-Orientales continued to spread on July 5, with burned area reaching about 1,500 hectares. Authorities said firefighting is difficult and have deployed roughly 700 firefighters, 200 fire engines and nine firefighting aircraft. About 80 residents were evacuated and residents in several villages were ordered to shelter indoors.
+
+---
+
+### 2026-07-05 21:01:21  #國際
+
+【長征十號乙首飛鎖定7月10日至7月13日期間 驗證首創的“海上網系回收”技術】長征十號乙首飛視窗鎖定7月10日至13日，將在文昌商業航天發射場驗證全球首創的“海上網系回收”技術。機構研報指出，全球看，商業航天競爭正從單一火箭技術升級為空天基礎設施競爭。美國側，以6月12日SpaceX上市為標誌，打通“低成本發射—星鏈組網—終端運營—政府安全應用—太空AI”資本閉環；政策端透過簡化商業發射審批、提高發射頻次，將商業空間能力納入國防體系。中國側，處在“政策體系化—星箭批產—可回收驗證—補運力短板”的追趕階段。
+
+---
+
+### 2026-07-05 21:00:08  #其他
+
+【幾內亞比索確認首例猴痘病例】比紹訊息：幾內亞比索公共衛生部部長吉寧·南托特4日晚宣佈，該國確認首例猴痘病例，衛生部門已啟動國家應對機制，民眾應提高警惕。（新華社）
+
+---
+
+### 2026-07-05 20:55:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #DXY #Impact bullish
+
+【Germany to raise 2027 net borrowing to EUR118bn as tax receipts fall and rates lift debt costs】Germany plans to increase 2027 net new borrowing to EUR118.0bn (about $135bn), roughly 7% above April projections, a finance ministry official said. The rise reflects weaker-than-expected tax receipts, higher interest rates raising debt-servicing costs, and additional funding needs at the Federal Employment Agency for unemployment benefits. Chancellor Friedrich Merz and Finance Minister Lars Klingbeil have proposed a reform package covering pensions, healthcare and taxes; the cabinet is expected to approve the package and the 2027 budget on Monday.
+
+---
+
+### 2026-07-05 20:49:15  #公司
+
+英國晶片公司Pragmatic就約1.5億英鎊融資進行談判。
+
+---
+
+### 2026-07-05 20:45:47  #其他
+
+【2026中國網際網路大會將舉辦 聚焦AI產業化落地、算力互聯互通、資料要素市場化等核心議題】第25屆中國網際網路大會7月8日至10日舉辦。今年大會大機率聚焦AI產業化落地、算力互聯互通、資料要素市場化等核心議題。工信部此前釋出《算力互聯互通行動計劃》目標2026年建立算力互聯互通標準體系，城域「毫秒用算」專項行動同步推進。
+
+---
+
+### 2026-07-05 20:30:10  #MKT News #Commodities #Energy
+
+Iraq's June oil exports totaled about 24.5 mln barrels, two Iraqi oil officials said.
+
+---
+
+### 2026-07-05 20:28:49  #其他
+
+兩位石油官員稱，伊拉克6月石油出口總量約為2450萬桶。
+
+---
+
+### 2026-07-05 20:27:18  #MKT News
+
+【Egypt opens national strategic command center in new administrative capital】President Sisi inaugurated Egypt’s national strategic command center in the new administrative capital on the 4th. The facility is equipped with advanced technical infrastructure, secure communications and enhanced intelligence collection and analysis capabilities, and is intended to integrate leadership and operational levels into a unified command-and-control system for faster, more precise response.
+
+---
+
+### 2026-07-05 20:20:02  #市場
+
+本週兩融餘額增幅最大：銀河微電兩融餘額：4.19億元，餘額增幅：172.61%；明志科技兩融餘額：0.73億元，餘額增幅：123.31%
+
+---
+
+### 2026-07-05 20:19:24  #國際
+
+【埃及國家戰略指揮中心在新行政首都啟用】埃及總統塞西4日在該國新行政首都為國家戰略指揮中心揭幕，宣佈該中心正式啟用。根據埃及總統府4日發表的宣告，塞西在啟用儀式上發表講話時說，國家戰略指揮中心的落成，標誌著埃及在指揮、控制和作戰管理領域實現重大飛躍。該中心配備先進的技術基礎設施、安全通訊系統，具有卓越的情報收集與分析能力，將領導層與執行層納入統一框架，實現指揮體系的高度一體化和精準快速響應。（央視新聞）
+
+---
+
+### 2026-07-05 20:13:39  #國際
+
+以色列國防軍總參謀長：一旦停火協議遭破壞，以色列國防軍隨時準備在黎巴嫩發起攻勢。
+
+---
+
+### 2026-07-05 20:11:34  #其他
+
+【水利部針對廣西啟動洪水防禦Ⅲ級應急響應】記者從水利部瞭解到，受颱風“美莎克”影響，7月5日至7日，西江、柳江、桂江、鬱江、桂南沿海諸河等主要河流將出現明顯漲水過程，其中西江干流及支流柳江桂江可能發生超警洪水，暴雨區內部分中小河流可能發生較大洪水；貴港市桂平市、平南縣，桂林市灌陽縣、荔浦市等23個縣發生山洪災害可能性很大。水利部於5日針對廣西壯族自治區啟動洪水防禦Ⅲ級應急響應，水利部工作組正在廣西暴雨洪水防禦一線協助指導。（央視新聞）
+
+---
+
+### 2026-07-05 20:10:56  #國際
+
+以色列國防軍總參謀長：我方已掌控舍巴阿農場高地內所有核心戰略據點。
+
+---
+
+### 2026-07-05 20:07:01  #國際
+
+澤連斯基：我與法國總統通了話。他顯然清楚當前外交前景的所有細節。而且重要的是，我們在談判中、在對俄羅斯施壓、在推動和平程序的每一步，都要儘可能充分準備，並與我們的關鍵夥伴密切協調。
 
 ---
 
@@ -14092,167 +14266,5 @@ The CAC 40 Index Opens 0.25% Higher — The CAC 40 Index is up by 21 points or 0
 ### 2026-07-03 15:25:34  #國際
 
 【外交部：堅決反對有關國家惡意詆譭中國民族政策】針對美國和歐盟對7月1日起施行的《中華人民共和國民族團結進步促進法》表達所謂關切，外交部發言人郭嘉昆7月3日在例行記者會上答問時說，有關國家抱守意識形態偏見，出於政治操弄，對中國經濟社會發展和人權治理成就視而不見，以偏概全，惡意詆譭中國民族政策，炮製散播虛假資訊，粗暴干涉中國內政，破壞中國民族團結，中方對此堅決反對。郭嘉昆說，中方敦促有關國家尊重基本事實，停止散佈謊言，停止炒作所謂民族問題、干涉中國內政。（新華社）
-
----
-
-### 2026-07-03 15:25:34  #Trading Economics #Economy #Turkey #Inflation Rate #Importance 1
-
-Turkey Inflation Rate at 3-Month Low — The annual inflation rate eased to 32.11% in June 2026 from 32.61% in the previous month, in line with market expectations. This marked the lowest level since March, driven by slower price increases in housing (45.14% vs. 45.59% in May) and transportation (31.15% vs. 34.29%). Cost increases also moderated across several categories, including furniture and household goods (22.32% vs. 22.36%), health (33.62% vs. 32.94%), education (46.10% vs. 50.06%), and information and communication (25.57% vs. 25.58%). In contrast, inflation continued to rise for food and non-alcoholic beverages (35.45% vs. 34.86%), and restaurants and accommodation services (31.61% vs. 31.59%). The softer inflation reading reinforces expectations that the central bank could resume its easing cycle after keeping monetary conditions tight since March. On a monthly basis, consumer prices eased by 0.99% in June from a 1.71% increase in May and marking the smallest gain in six months.
-
----
-
-### 2026-07-03 15:25:20  #焦點 #國際
-
-【外交部：霍爾木茲海峽通航問題應該得到妥善處理】7月3日，外交部發言人郭嘉昆主持例行記者會。在回答有關霍爾木茲海峽通航的問題時，郭嘉昆表示，霍爾木茲海峽是用於國際航行的海峽，儘早恢復海峽安全、自由通行，符合各方利益。海峽通航問題應該得到妥善處理，穩妥回應國際社會的普遍關切。中方願同有關國家和國際社會就此保持溝通。（央視新聞）
-
----
-
-### 2026-07-03 15:25:08  #國際
-
-【莫迪稱日本和印度將在關鍵礦產方面加強合作，外交部表態】7月3日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，週四，印度總理莫迪與日本首相高市早苗舉行了會談，此後莫迪表示，日本和印度將在關鍵礦產方面加強合作。請問中方對此有何評論？郭嘉昆表示，國家間開展合作，應該有利於增進地區國家間的理解和信任，有利於維護地區和平與穩定，不應該針對第三方或損害第三方的利益，更不能打著合作的幌子，搞排他性“小圈子”，挑動對立對抗。郭嘉昆說，維護全球產供鏈穩定與安全是各國共同責任。各方應秉持開放合作形態，為此發揮建設性作用。（北京日報）
-
----
-
-### 2026-07-03 15:24:37  #Trading Economics #Economy #Spain #Services PMI #Importance 2
-
-Spain Services Sector Growth Picks Up to 6-Month High — The S&P Global Spain Services PMI accelerated to 54.2 in June 2026, well above expectations of 50.9 and rebounding from May's 50.1 to post its strongest growth rate of the year. This expansion was driven by a robust influx of domestic new orders, which outstripped corporate capacities and caused a marked accumulation of backlogs. Though export demand remained flat, it marked the first time in 2026 that international sales avoided a decline. Buoyed by potential resolutions to the Middle East conflict, business sentiment surged to a four-month high, prompting firms to expand recruitment at the fastest pace in three months to extend a 45 month streak of job creation. Rising headcounts elevated wage bills, which alongside high fuel costs, kept operational expenses substantial. However, input price inflation slowed to a four-month low, allowing service providers to moderate their own rate hikes and cool output price inflation to its lowest level since January.
-
----
-
-### 2026-07-03 15:24:01  #焦點 #國際
-
-【外交部：美方釋出所謂報告是赤裸裸的政治操弄】7月3日，外交部發言人郭嘉昆主持例行記者會。有記者就美國國家海洋和大氣管理局釋出的2026國際漁業管理改善報告提問。郭嘉昆表示，美國根據其國內法做出所謂“認定”，既不符合客觀事實，也沒有國際法依據，其目的是惡意打壓中國遠洋漁業的發展，是赤裸裸的政治操弄。中方對此強烈不滿，堅決反對。美國最該做的是反躬自省，而不是汙衊抹黑。（央視新聞）
-
----
-
-### 2026-07-03 15:23:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Aluminum Rebounds — Aluminum futures in the UK rose above $3,100 per tonne, rebounding from a more than four-month low as the US dollar retreated, improving the appeal of dollar-denominated commodities. Softer US jobs data reduced expectations of a near-term rate hike, pushing the greenback to a two-week low. In addition, factory activity in China, one of the largest consumers of the metal, returned to expansion in June, supporting the demand outlook. However, price gains remained limited by improving supply prospects. The resumption of trade through the Strait of Hormuz following a US–Iran deal has increased the likelihood of additional supplies from the Persian Gulf, a region that accounts for nearly a tenth of global aluminum output. At the same time, production continued to rise in China, the world’s largest producer, while output from Indonesian smelters also expanded.
-
----
-
-### 2026-07-03 15:23:51  #國際
-
-【外媒：印尼分離主義武裝宣佈槍殺美國飛行員】據路透社7月2日報道，在印尼動盪不安的東部巴布亞地區，分離主義武裝人員2日槍殺了一名美國飛行員，並縱火焚燒了一架民用飛機。該武裝組織發言人稱，此舉是向美國和印尼政府發出的“資訊”。 （環球網）
-
----
-
-### 2026-07-03 15:23:40  #國際
-
-【奈米比亞總統恩代特瓦將訪華 外交部介紹有關情況】7月3日，外交部發言人郭嘉昆主持例行記者會。奈米比亞共和國總統內通博·南迪－恩代特瓦將於7月5日至11日對中國進行國事訪問。郭嘉昆介紹，此次訪問是恩代特瓦總統就任以來首次訪華。除北京外，恩代特瓦總統還將赴廣東省、四川省參訪。中國和奈米比亞是傳統友好的全面戰略合作伙伴，建交36年來，兩國關係歷經國際風雲變幻考驗，歷久彌堅。（央視新聞）
-
----
-
-### 2026-07-03 15:23:24  #公司
-
-【科達利等成立啟雲星辰科技公司 含多項AI業務】企查查APP顯示，近日，深圳市啟雲星辰科技有限公司成立，經營範圍包含人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧行業應用系統整合服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由科達利(002850)等共同持股。
-
----
-
-### 2026-07-03 15:22:04  #其他
-
-【短暫停運後，卡達液化天然氣船舶恢復經霍爾木茲海峽通航】卡達似乎已有一艘液化天然氣運輸船駛入霍爾木茲海峽通航，這是近一週以來首艘可見通行船隻，該國這家全球主要液化天然氣出口國正力求快速恢復出口產能。船舶追蹤資料顯示，一艘本週早些時候在卡達拉斯拉凡液化天然氣出口基地完成裝貨的油輪，已被監測到駛向霍爾木茲海峽。不過該船舶此後關閉了定位訊號，目前尚無法確認其是否會繼續駛入這條航道。船舶追蹤資訊顯示，另有數艘空載液化天然氣運輸船正沿阿曼南部航線駛向霍爾木茲海峽東入口。其中一艘現已穿越海峽，另一艘航行至阿曼東北沿岸海域。
-
----
-
-### 2026-07-03 15:20:04  #公司
-
-【飛凱材料：公司產品可用於HBM製造工藝，但尚未形成規模化營收】飛凱材料7月3日在互動平臺表示，公司產品可用於HBM製造工藝，但尚未形成規模化營收，對公司業績影響較小。
-
----
-
-### 2026-07-03 15:19:13  #其他
-
-【北京釋出冰雹黃色預警】剛剛，北京市釋出冰雹黃色預警：預計，7月3日18時至21時，我市自西北向東南將先後出現分散的冰雹，影響城區的主要時段為19時前後至20時，可能造成一定損失，請注意防範。
-
----
-
-### 2026-07-03 15:19:08  #其他
-
-【摩爾多瓦總理蒙泰亞努宣佈辭職】當地時間7月3日，摩爾多瓦總理亞歷山德魯·蒙泰亞努宣佈辭職。他認為已無法繼續堅持自己的原則和信念。（央視新聞）
-
----
-
-### 2026-07-03 15:18:57  #國際
-
-訊息人士稱，印度工業信貸投資銀行（ICICI Bank）將效仿同行，透過印度儲備銀行掉期視窗獲得美元債務融資。
-
----
-
-### 2026-07-03 15:18:49  #市場
-
-英國兩年期國債收益率早盤下跌5個基點，至4.091%，創6月26日以來最低水平。
-
----
-
-### 2026-07-03 15:18:19  #其他
-
-市場訊息：道達爾能源向亞洲買家提供伊拉克石油。
-
----
-
-### 2026-07-03 15:18:05  #市場
-
-【7月3日滬深兩市漲停分析】創業板指衝高回落微漲0.07%，人形機器人、商業航天板塊集體爆發。國華退5連板，恆尚節能4連板，一圖看懂>>
-
----
-
-### 2026-07-03 15:18:01  #其他
-
-【中國（內蒙古）自由貿易試驗區資料交易仲裁服務中心投入運營】內蒙古日報訊息，記者從自治區司法廳瞭解到，近日，我區首家專門處理資料交易糾紛的專業仲裁平臺——中國（內蒙古）自由貿易試驗區資料交易仲裁服務中心，在自貿試驗區呼和浩特片區投入運營，填補了該片區資料交易爭議解決機制的空白。據介紹，該仲裁服務中心的落地，將進一步規範資料交易市場秩序，統一資料交易爭議解決標準，有效降低市場主體交易的制度性成本與合規風險，持續提振市場主體參與資料交易信心，為自貿試驗區呼和浩特片區打造聯通內外的資料要素流通樞紐注入強勁法治動能。
-
----
-
-### 2026-07-03 15:16:39  #公司 #國際
-
-【天賜材料：目前已穩定供應電解液給LG新能源及三星SDI等韓國客戶】天賜材料7月3日在互動平臺表示，目前公司已穩定供應電解液給LG新能源及三星SDI等韓國客戶。
-
----
-
-### 2026-07-03 15:16:16  #公司
-
-【監管啟動上海轄區新三板公司資金佔用治理專項行動 資金佔用主體限期整改】為切實增強上海轄區掛牌公司控股股東、實際控制人公眾公司意識，提升掛牌公司規範運作水平，防範資金佔用等重大違法違規行為，維護投資者合法權益，監管啟動上海轄區掛牌公司資金佔用治理專項行動：一是高度重視，紮實推進。掛牌公司要深刻認識資金佔用潛藏的各類風險，規範關聯交易事項審議程式，切實履行資訊披露主體責任，全面披露資金佔用詳情、整改及清償情況；二是摸清底數，清理存量。結合掛牌公司2025年年報披露和日常督導掌握的情況，掛牌公司和主辦券商應深入開展自查和核查，督促資金佔用主體限期整改，及時歸還。獨立董事、監事、審計委員會等應充分發揮監督制衡作用，推動及時發現並報告資金佔用事項。監管將對佔用金額大、影響惡劣且限期未整改的快查嚴處；三是主辦券商應督促掛牌公司完善內部控制機制，對控股股東、實際控制人等“關鍵少數”加強培訓教育，從源頭築牢合規經營底線。
-
----
-
-### 2026-07-03 15:16:10  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.38% Higher — The Shangai Composite Index rose 15 points or 0.38 percent on Friday to close at 4044 points. Leading the gains are Avic Aviation Engine (6.21%), Zijin Mining (6.01%) and Sany Heavy Industry (4.90%). Top losers were Huaneng (-6.83%), Sanan Optoelectron (-3.52%) and Agricultural Bank of China (-1.67%).
-
----
-
-### 2026-07-03 15:16:08  #市場
-
-【法興銀行：法國債券收益率之差引領歐元區收益率之差全面走闊】法國興業銀行利率策略師表示，受法國國債與德國國債收益率之差以及供應壓力的推動，本週歐元區政府債券收益率之差繼續走闊。供應壓力源於法國週四拍賣140億歐元的長期法國國債。不過他們表示，隨著供應料將在進入夏季時減少，短期內收益率之差有收窄的空間。“如果夏季季節性因素發揮作用，未來幾周我們應該會看到一些收緊。“策略師們表示，除此之外，市場可能會重新關注財政動態、外國資金流向以及法國的政治風險。“在政治壓力重現的情況下，我們預計法國國債的表現將不及義大利國債和西班牙政府債券。“根據Tradeweb的資料，10年期法國國債與德國國債收益率之差為77個基點。
-
----
-
-### 2026-07-03 15:15:21  #市場 #國際
-
-【德商銀行：歐元區國債收益率上升，該趨勢或持續到週末】德國商業銀行的Hauke Siemssen在一份報告中表示，歐元區國債收益率在早盤交易中上升，這一趨勢可能會持續一整天。這位利率策略師表示：“在看不到阻斷因素且美國休假的情況下，看跌態勢可能會在週末前持續。“他說：“長端歐元區國債仍面臨壓力，收益率曲線從兩端變陡。“該利率策略師指出了看跌態勢，長端日本國債本週再次面臨壓力。Tradeweb的資料顯示，歐元區10年期國債收益率上升1.6個基點至2.6個基點，10年期德國國債收益率上升2.1個基點，至2.919%。
-
----
-
-### 2026-07-03 15:15:07  #行業 #其他
-
-【中汽協：5月汽車商品進出口總額為294.6億美元，同比增長17.6%】據中國汽車工業協會整理的海關總署資料顯示，2026年5月，汽車商品進出口總額為294.6億美元，環比增長4.9%，同比增長17.6%。其中進口金額36.1億美元，環比增長21.1%，同比下降17.7%；出口金額258.5億美元，環比增長2.9%，同比增長25.0%。2026年1-5月，全國汽車商品累計進出口總額為1329.2億美元，同比增長23.4%。其中進口金額158.6億美元，同比下降10.2%；出口金額1170.6億美元，同比增長30.0%。
-
----
-
-### 2026-07-03 15:15:04  #公司
-
-【FF洛杉磯總部人去樓空？公司回應】法拉第未來發布宣告稱， 公司日前關注到部分網路平臺流傳所謂“FF洛杉磯總部人去樓空”等不實資訊。FF位於漢福德的工廠並未關閉，此次系全球總部正常搬遷至洛杉磯矽灘（El Segundo）。網傳影片所拍攝地點為FF曾經位於Gardena市的舊總部，今年3月底開始不再由FF使用。所謂“FF洛杉磯總部人去樓空”的說法具有嚴重誤導性，屬於對公司正常辦公地點搬遷事實的惡意歪曲。
-
----
-
-### 2026-07-03 15:15:03  #市場
-
-【國債期貨收盤】 30年期主力合約跌0.22%， 10年期主力合約跌0.04%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。
-
----
-
-### 2026-07-03 15:15:02  #Trading Economics #Economy #Spain #Industrial Production #Importance 1
-
-Spain Industrial Output Growth at 6-Month High — Spain’s industrial production increased by 3.4% year-over-year in May 2026, following an upwardly revised 2.3% rise in the prior month. This marked the third consecutive monthly increase in the country's industrial activity and the strongest since November 2025, supported by the production of intermediate goods (5.4% vs 2.2% in April), energy (5.1% vs 2.5%) and capital goods (3.9% vs 4.1%). Conversely, output declined for consumer goods (-1% vs -0.4%), of which durable (-4.2% vs -6.4%) and non-durable goods (-0.7% vs 0.3%). On a seasonally adjusted monthly basis, industrial activity rose by 1.2% in May, rebounding from a downwardly revised 0.3% decline in the prior month. The turnaround was driven by a recovery in energy (3.8% vs -0.8%) and intermediate goods (2% vs -0.3%) output, while capital goods production posted a modest increase (0.3% vs 0%).
 
 ---

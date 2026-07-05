@@ -1,7 +1,421 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 20:00:34_
-_本檔包含 2466 則快訊，約 505803 字_
+_更新時間：2026-07-05 22:05:11_
+_本檔包含 2472 則快訊，約 504525 字_
+
+---
+
+### 2026-07-01 02:19:10  #央行 #其他
+
+哥倫比亞央行利率決議獲七名董事會成員中多數成員支援。
+
+---
+
+### 2026-07-01 02:19:05  #MKT News
+
+Colombia's central bank rate decision was supported by a majority of its seven board members.
+
+---
+
+### 2026-07-01 02:19:00  #央行 #其他
+
+哥倫比亞央行將利率上調75個基點至12%。
+
+---
+
+### 2026-07-01 02:19:00  #MKT News #Macro & Rates
+
+Colombia's central bank raised its policy rate by 75 bps to 12%.
+
+---
+
+### 2026-07-01 02:18:50  #央行 #其他
+
+哥倫比亞央行將貸款利率上調至12.00%，此前為11.25%。
+
+---
+
+### 2026-07-01 02:18:43  #MKT News
+
+Hardline Republicans in the U.S. House are blocking advancement of the defense policy bill to protest Trump's voter ID proposals.
+
+---
+
+### 2026-07-01 02:18:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran says no timetable to restart nuclear talks; contingent on Israeli withdrawal from Lebanon】Iran foreign ministry spokesman Baghaei told state TV Tehran will not set a timetable to restart nuclear talks with the US until Israel’s withdrawal from Lebanon is scheduled. Iran said it needs assurance Israeli forces will withdraw and that the Lebanon fighting will not escalate, and will decide next steps based on developments over the coming days.
+
+---
+
+### 2026-07-01 02:17:38  #國際
+
+共和黨強硬派阻止美國眾議院推進國防政策法案的程式性投票，以抗議特朗普提出的選民身份認證立法。
+
+---
+
+### 2026-07-01 02:16:44  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
+
+Brent crude down 1.00% intraday at $72.92/bbl.
+
+---
+
+### 2026-07-01 02:15:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Gains by 3.15% — Top commodity gainers are Natural gas (3.15%), Natural Gas EU (2.44%) and Natural Gas UK (2.26%). Biggest losers are Methanol (-2.79%), Crude Oil WTI (-1.82%) and Brent Crude Oil (-1.27%).
+
+---
+
+### 2026-07-01 02:13:38  #國際
+
+【Anthropic釋出Claude Sonnet 5 平價高效能適配日常辦公】Anthropic正式推出Claude Sonnet 5，主打日常辦公場景，效能接近旗艦Opus 4.8，定價更低，即日起設為Claude免費、Pro版預設模型，同步開放給Max、團隊及企業客戶。該模型未專項訓練網路安全相關任務，高危網路操作能力遠弱於Opus系列，自主處理瀏覽、規劃、程式碼等任務的同時網路風險可控。Anthropic正與特朗普政府持續磋商旗下各款模型，Sonnet 5上線相關事宜亦納入溝通範疇。
+
+---
+
+### 2026-07-01 02:12:28  #MKT News
+
+The US Federal Communications Commission plans to vote next month to close a loophole and ban sales in the US of devices containing components from companies on its sanctions blacklist.
+
+---
+
+### 2026-07-01 02:11:26  #國際
+
+美國電信監管機構聯邦通訊委員會（FCC）計劃下月就一項法案進行投票，該法案旨在封堵一項漏洞，此前該漏洞允許含有被列入黑名單企業所生產元件的裝置在美國銷售。
+
+---
+
+### 2026-07-01 02:11:14  #MKT News #Market Themes #AI Revolution
+
+【ANTHROPIC launches Claude Sonnet 5; agent capability substantially improved】ANTHROPIC launched the Claude Sonnet 5 model, calling it the most capable Sonnet for agent tasks to date. The firm says Sonnet 5 can plan and invoke tools such as browsers and terminals with autonomous performance that previously required larger, costlier models. Performance approaches Opus 4.8 while offering a lower price; Sonnet 5 is materially stronger than Sonnet 4.6 on inference, tool use, programming and knowledge-work tasks. Internal safety tests show a lower incidence of undesirable behavior versus Sonnet 4.6, and Sonnet 5 is significantly weaker than current Opus models on cybersecurity tasks. The model is live across all plans — default on Free and Pro, opt-in for Max, Team and Enterprise — and is available on Claude Code and the Claude platform. Launch pricing is $2 per MLN input tokens and $10 per MLN output tokens through Aug. 31, 2026, rising to $3/$15 thereafter.
+
+---
+
+### 2026-07-01 02:10:36  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #Brent #S&P500 #Impact bearish
+
+The Russian government has, by decree, closed multiple border crossings with Latvia, Finland and Estonia.
+
+---
+
+### 2026-07-01 02:09:26  #央行 #國際
+
+【歐洲央行管委多倫茨：若能源市場保持平穩，暫無加息必要】歐洲央行管理委員會委員普里莫茲·多倫茨表示，若在此期間中東衝突不進一步惡化，歐洲央行或將在下一輪會議維持基準利率不變。多倫茨週二在葡萄牙辛特拉舉辦的歐洲央行年度論壇上稱，若能源成本維持現有水平、大宗商品市場波動不再擴散、且未產生通脹二次傳導效應，7月暫停加息是合理的。“如果油氣價格持續走低，我認為沒有任何進一步收緊貨幣政策的迫切性，”他表示，“結合當前現有資料，觀望至9月再採取行動或許更為妥當。”
+
+---
+
+### 2026-07-01 02:08:35  #Trading Economics #Markets #commodity #Importance 0
+
+Oat Hits 6-year Low — Oat decreased to 256.50 USd/Bu, the lowest since March 2020. Over the past 4 weeks, Oat lost 24.69%, and in the last 12 months, it decreased 32.6%.
+
+---
+
+### 2026-07-01 02:07:45  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB governing council member Dolenc said that based on current data, an ECB pause in rate hikes in July could be appropriate.
+
+---
+
+### 2026-07-01 02:07:31  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+ECB executive board member dolenc said if energy prices remain subdued there is no urgency to raise interest rates.
+
+---
+
+### 2026-07-01 02:07:13  #MKT News
+
+ECB Governing Council member Dolenc said uncertainty in the Middle East remains elevated.
+
+---
+
+### 2026-07-01 02:07:04  #MKT News #Market Regions #Europe & UK
+
+ECB Governing Council member Dolenc said the situation could change rapidly before the next meeting.
+
+---
+
+### 2026-07-01 02:06:59  #央行 #國際
+
+歐洲央行管委多倫茨：從當前資料來看，歐洲央行7月暫停加息或許是合適之舉。
+
+---
+
+### 2026-07-01 02:06:52  #央行 #國際
+
+歐洲央行管委多倫茨：下次會議前形勢可能快速發生變化。
+
+---
+
+### 2026-07-01 02:06:45  #央行 #國際
+
+歐洲央行管委多倫茨：中東局勢相關不確定性仍處於高位。
+
+---
+
+### 2026-07-01 02:06:37  #央行 #國際
+
+歐洲央行管委多倫茨：若能源價格維持低位，不存在加息緊迫性。
+
+---
+
+### 2026-07-01 02:06:20  #MKT News #Market Themes #AI Revolution
+
+Anthropic said the model's promotional pricing through Aug 31 is dlr2 per mln input tokens and dlr10 per mln output tokens; thereafter prices will rise to dlr3 per mln input tokens and dlr15 per mln output tokens.
+
+---
+
+### 2026-07-01 02:05:55  #國際
+
+美國貨幣監理署：美國銀行業一季度交易收入增長5.6%。
+
+---
+
+### 2026-07-01 02:05:38  #MKT News
+
+ANTHROPIC: safety tests show Claude Sonnet 5 improves on Sonnet 4.6. The model is now live across all Claude tiers and accessible via Claude Code and the Claude platform.
+
+---
+
+### 2026-07-01 02:03:43  #MKT News #Important #Market Themes #AI Revolution
+
+ANTHROPIC launches Claude Sonnet 5.
+
+---
+
+### 2026-07-01 02:02:17  #其他
+
+Anthropic：8月31日之後，Claude Sonnet 5大模型定價將調整為每百萬輸入token 3美元，每百萬輸出token 15美元。
+
+---
+
+### 2026-07-01 02:01:16  #公司
+
+義大利鐵路公司執行長多納魯馬宣佈辭職。
+
+---
+
+### 2026-07-01 02:01:10  #國際
+
+薩博：簽署向烏克蘭交付16架“鷹獅”E戰鬥機的合同。
+
+---
+
+### 2026-07-01 02:01:00  #國際
+
+薩博已簽署為烏克蘭供應鷹獅E戰鬥機的合同。
+
+---
+
+### 2026-07-01 02:00:38  #其他
+
+Anthropic：模型現已上線Claude程式碼工具與Claude平臺；優惠定價持續至8月31日，輸入token每百萬2美元，輸出token每百萬10美元。
+
+---
+
+### 2026-07-01 02:00:29  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
+
+【SemiAnalysis raises forecast: NVIDIA FY2027 H2 data-center revenue may be ~20% above Street】NVIDIA shares rose about 1.8% on the quarter’s final trading day after an >11% monthly pullback, driven by an upbeat forecast from independent semiconductor researcher SemiAnalysis. SemiAnalysis expects NVIDIA’s FY2027 H2 data‑center compute revenue to be roughly 20% above Wall Street consensus, citing easing supply bottlenecks and an accelerated Vera Rubin ramp. The report says HBM4 memory supply constraints are largely resolved and front‑end wafer capacity was pre‑allocated, supporting stronger H2 shipments; supply‑chain checks signal the Blackwell→Rubin transition should complete in Q2 2026 and accelerate demand from Q3. Vera Rubin entered volume production in June and is slated for autumn deliveries to cloud customers including AWS, Microsoft Azure, Google Cloud and Oracle; higher HBM4 bandwidth should bolster AI compute performance. SemiAnalysis notes Rubin Ultra was scaled back from original specs—reducing expected scale and performance—and says longer‑term revenue impact remains uncertain, while the AI compute cycle continues to be the market focus.
+
+---
+
+### 2026-07-01 01:59:53  #其他
+
+Anthropic：並未針對網路安全相關任務專門訓練Sonnet 5模型。
+
+---
+
+### 2026-07-01 01:59:43  #其他
+
+Anthropic：部署前安全評估顯示，Sonnet 5整體效能相較Sonnet 4.6有所提升。
+
+---
+
+### 2026-07-01 01:59:11  #其他
+
+馬斯克：孟菲斯地區居民可享星鏈半價優惠。
+
+---
+
+### 2026-07-01 01:59:07  #MKT News
+
+Venezuela National Assembly President Jorge Rodríguez said on the 30th that two recent strong earthquakes in the country have killed 1,943 people.
+
+---
+
+### 2026-07-01 01:58:47  #其他
+
+Anthropic：Claude Sonnet 5自今日起面向所有套餐開放使用。
+
+---
+
+### 2026-07-01 01:58:28  #其他
+
+Anthropic：推出Claude Sonnet 5。
+
+---
+
+### 2026-07-01 01:56:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Tanker-tracking agency data show Iran's June exports at about 1.66 mln b/d; cumulative exports since sanctions easing total roughly 50 mln barrels. The agency says most regional exporters' shipments remain below pre-war levels.
+
+---
+
+### 2026-07-01 01:55:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Tanker-tracking firms say Iran has exported about 50 mln barrels of oil since U.S. sanctions were eased.
+
+---
+
+### 2026-07-01 01:54:25  #國際
+
+油輪追蹤機構資料：折算下來，伊朗2026年6月日均原油出口量達166萬桶。該地區其他多數國家的出口量仍遠未恢復至戰前水平。
+
+---
+
+### 2026-07-01 01:53:57  #國際
+
+油輪追蹤機構資料顯示：自兩週前美國實施的封鎖解除以來，伊朗已出口5000萬桶原油。
+
+---
+
+### 2026-07-01 01:52:02  #其他
+
+委內瑞拉國民議會議長：委內瑞拉地震遇難人數升至1943人。
+
+---
+
+### 2026-07-01 01:51:21  #MKT News
+
+US State Department estimates total cost of a foreign military sale at $22.3 mln.
+
+---
+
+### 2026-07-01 01:50:41  #宏觀 #國際
+
+美國國務院：預計總費用為2230萬美元。
+
+---
+
+### 2026-07-01 01:49:39  #MKT News
+
+ANEC forecasts Brazil's June soybean meal exports at 2.4 mln t, down from last week's estimate of 2.5 mln t.
+
+---
+
+### 2026-07-01 01:49:17  #MKT News #LMT.O #Impact bullish
+
+US State Department approved a potential foreign military sale of AGM-114R Hellfire missiles to the Government of Singapore.
+
+---
+
+### 2026-07-01 01:48:59  #宏觀 #國際
+
+美國國務院批准擬向新加坡政府對外軍售AGM-114R型地獄火導彈。
+
+---
+
+### 2026-07-01 01:48:47  #其他
+
+巴西全國穀物出口商協會（ANEC）預測，6月巴西豆粕出口量將達到240萬噸，低於上週預估的250萬噸。
+
+---
+
+### 2026-07-01 01:48:27  #其他
+
+巴西全國穀物出口商協會（ANEC）預測，巴西6月大豆出口量將達1405萬噸，低於上週預估的1521萬噸。
+
+---
+
+### 2026-07-01 01:48:10  #MKT News
+
+ANEC projects Brazil's June soybean exports at 14.05 mln t, down from last week's 15.21 mln t estimate.
+
+---
+
+### 2026-07-01 01:45:38  #其他
+
+國際專業航空電子工程師協會：談判代表將於7月1日與波音開啟正式合同磋商，計劃敲定兩份集體談判協議，覆蓋約1.3萬名工程師及約4000名技術工人。
+
+---
+
+### 2026-07-01 01:42:04  #公司
+
+谷歌：雲端硬碟現已支援移動端呼叫Gemini智慧助手。
+
+---
+
+### 2026-07-01 01:36:57  #宏觀 #國際
+
+美國南方司令部：遵照南方司令部指令，美軍持續配合由美國國務院牽頭的美國政府委內瑞拉地震救災行動。
+
+---
+
+### 2026-07-01 01:36:47  #國際
+
+德國聯邦憲法保衛局於週二釋出一份安全報告稱，伊朗是2025年在德國境內開展情報活動的主要外國勢力之一，其監控目標包括伊朗反對派團體、親以色列和親猶太相關人員，以及旅居海外的伊朗僑民群體。
+
+---
+
+### 2026-07-01 01:36:05  #其他
+
+惠譽維持愛立信“BBB-”評級，展望穩定。
+
+---
+
+### 2026-07-01 01:36:01  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+【ECB mulls doubling banks' minimum reserve ratio to 2% to cut its interest bill】Six people said the European Central Bank is considering raising the minimum reserve banks must hold in non-interest-bearing accounts from 1% to 2% of customer deposits and other funding sources. The move is aimed at cutting the ECB’s interest expenses from paying interest on excess deposits, absorbing surplus liquidity and easing side-effects of its anti-inflation policy. Officials said it would help cash-rich national central banks such as Germany’s Bundesbank reduce losses tied to interest paid on deposits that exceed legal requirements. Excess deposits have swelled to trillions of euros since the ECB’s bond-buying programmes. The proposal is under early internal discussion and will be revisited in this year’s framework review; a decision is expected before autumn and the Governing Council has not formally debated it.
+
+---
+
+### 2026-07-01 01:33:46  #國際
+
+烏克蘭地方州長稱，俄羅斯滑翔炸彈襲擊造成兩人死亡。
+
+---
+
+### 2026-07-01 01:32:09  #公司
+
+諾基亞：FMR LLC在諾基亞公司的投票權已降至5%以下。
+
+---
+
+### 2026-07-01 01:31:57  #MKT News #BA.O #Impact mixed
+
+SPEEA said it plans to negotiate with Boeing on two collective bargaining agreements: one covering about 13,000 engineers and another covering about 4,000 technical workers.
+
+---
+
+### 2026-07-01 01:31:00  #MKT News #PBR.N #Impact mixed
+
+Brazilian government to gradually reduce emergency fuel subsidies.
+
+---
+
+### 2026-07-01 01:30:33  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #EURUSD #CNH
+
+【OMFIF survey: central banks plan net dollar cuts for first time, pivot to gold】An OMFIF survey of 74 central banks shows for the first time more institutions plan to reduce dollar allocations than increase them over the next decade, reflecting diminished dollar appeal amid rising U.S. political and geopolitical risk and greater U.S. trade-policy uncertainty. The dollar still represents about 58% of global foreign-exchange reserves and remains dominant in the near term. A record share of respondents intend to increase gold holdings to hedge geopolitical and financial-system risk. The euro and the renminbi are gaining traction for international trade and reserve diversification, and some emerging-market currencies are drawing interest, signaling gradual reserve diversification while the dollar’s marginal advantage declines.
+
+---
+
+### 2026-07-01 01:28:56  #其他
+
+巴西政府將開始削減緊急燃油補貼。
+
+---
+
+### 2026-07-01 01:26:32  #其他
+
+英國投資者在倫敦起訴幣安，索賠1.5億英鎊。
+
+---
+
+### 2026-07-01 01:24:07  #公司 #市場
+
+據交易商透露，中糧集團是洲際交易所（ICE）7月原糖期貨合約的唯一交割方；而蘇克敦（Sucden）被認為是最大的接受交割方。
+
+---
+
+### 2026-07-01 01:22:09  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude trades at $69.55/bbl, down more than 1.00% intraday.
 
 ---
 
@@ -14450,383 +14864,5 @@ U.S. House Speaker Johnson said he will submit a housing bill to President Trump
 ### 2026-06-28 22:07:27  #市場
 
 【今年前5個月，電子專用材料製造規模以上企業利潤同比增長665.4% 專家：AI伺服器所消耗的電子材料約為普通伺服器的3至10倍】北京師範大學教授、經濟學家萬喆在接受記者電話採訪時表示，電子專用材料廠商數量有限，技術壁壘高，且認證週期較長，導致產能難以在短期內快速擴張。這使得電子專用材料廠商在產業鏈中擁有較強定價權，能夠將成本有效傳導至下游，從而實現利潤的超額增長。相比之下，終端應用端（如智慧手機等）由於成本壓力較大，利潤反而受到一定壓制。記者注意到，計算機、通訊和其他電子裝置製造業規模以上企業前5個月累計利潤同比增速103.9%，較前4個月的107.7%、前3個月的124.5%有所下降，半導體產業鏈向好趨勢能否延續？對此，萬喆表示，從支撐邏輯來看，當前AI伺服器、HBM儲存及先進製程訂單已排至今年年底，部分高階產能交付週期有所拉長。晶圓代工價格及自主晶片價格上漲趨勢預計貫穿全年，新增產能最早需到2027年下半年才能集中釋放。行業增長引擎正從消費電子轉向AI算力、汽車電子化及人形機器人等多元應用場景，產業穿越週期的韌性顯著增強。全球主要晶圓廠持續加碼資本開支，需求正向上游裝置與材料環節持續傳導。（每經）
-
----
-
-### 2026-06-28 22:04:47  #公司
-
-【天孚通訊：目前公司面向CPO領域配套的FAU、ELS外接光源等相關產品處於穩定交付狀態】天孚通訊6月27日在機構現場參觀時表示，目前公司面向CPO領域配套的FAU、ELS外接光源等相關產品處於穩定交付狀態，公司會配合客戶進行產能儲備和擴產，最大化保質保量滿足客戶需求。為進一步擴充產能，以滿足全球光互連建設對公司光器件的交付增長需求，公司預計未來幾年會持續增加資本性開支。
-
----
-
-### 2026-06-28 22:03:17  #國際
-
-【美國史上最大風電場投產，行業卻步入低谷】美國歷史上最大的風電場 SunZia 已在新墨西哥州投入運營，將為美國西南部超過100萬戶家庭提供電力。由於總統特朗普對可再生能源的打壓、通貨膨脹以及地方反對等多重因素，陸上風電的年度新增裝機量預計將持續下滑至2030年。分析師指出，風電行業正面臨諸多不確定性，且正逐漸輸給太陽能等其他可再生能源，因為太陽能不僅成本更低，安裝速度也更快。
-
----
-
-### 2026-06-28 22:02:49  #公司 #國際
-
-【澳大利亞Firmus Technologies與英偉達達成人工智慧合作協議】澳大利亞人工智慧基礎設施公司Firmus Technologies週一表示，已與英偉達公司簽署戰略合作伙伴協議，旨在幫助新興人工智慧企業以更具成本效益的方式獲取計算能力。Firmus表示，根據該協議，該公司將採購英偉達的基礎設施，並向“AI Native”等客戶銷售基於英偉達技術的雲服務；作為回報，這家在美國上市的晶片巨頭將獲得產品收入以及部分雲服務收入。根據協議，從2027年第一季度至2028年初，將向位於印尼巴淡島的設施交付17萬個圖形處理單元（GPU）。
-
----
-
-### 2026-06-28 21:52:57  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Russia says Ukrainian forces launched more than 60 drone strikes on Zaporizhzhia plant in 24 hours】On the 28th Rosatom CEO Likhachov said Ukrainian forces carried out more than 60 drone attacks in the past 24 hours on the Zaporizhzhia nuclear plant and the plant’s host city, Energodar. He said Kyiv appeared to be aiming to sap morale among Energodar residents and plant staff through increasingly frequent strikes, and that plant personnel have shown high professionalism and courage.
-
----
-
-### 2026-06-28 21:47:28  #公司 #國際
-
-【俄稱烏軍24小時內多次襲擊扎波羅熱核電站】俄羅斯媒體28日援引俄國家原子能公司執行長利哈喬夫的話報道說，烏克蘭武裝部隊在過去24小時內對扎波羅熱核電站以及電站所在的埃涅爾戈達爾市發動了60多次無人機襲擊。（新華社）
-
----
-
-### 2026-06-28 21:47:10  #公司
-
-【寧德時代新增2026年度商品套期保值業務，保證金上限增至640億元】6月26日，寧德時代釋出公告，擬在現有商品套期保值業務體系下新增航運類對沖工具，以管控航運價格波動引發的運輸成本敞口風險。寧德時代表示，隨著全球業務佈局深化，國際航運成本對寧德時代經營成本的影響持續提升。此次新增旨在鎖定遠期部分運輸成本，平抑成本波動，增強經營與財務層面的抗風險能力。
-
----
-
-### 2026-06-28 21:40:12  #國際
-
-美國農業部長羅林斯：紐約州長霍楚需在三十日內就農田太陽能專案作出說明。
-
----
-
-### 2026-06-28 21:38:14  #國際
-
-美國農業部長羅林斯致函霍楚，就工業太陽能專案相關事宜進行溝通。
-
----
-
-### 2026-06-28 21:37:04  #國際
-
-以軍參謀長表示，一旦停火協議遭破壞，以色列國防軍將高度戒備並隨時發起打擊。
-
----
-
-### 2026-06-28 21:34:54  #其他
-
-【富達國際資深股票分析師：具身智慧投資從追本體轉向掘金細分產業鏈】近期，重點研究機器人和高階製造板塊的富達國際資深股票分析師潘越表示，具身智慧產業終將發展為規模比肩汽車行業的核心大賽道。預計未來三到五年，整體市場規模將迎來快速擴張。但從實驗室產品到量產應用，從娛樂表演到“打工”等商用場景，中間需要完成硬體、資料、場景應用等關鍵躍升。
-
----
-
-### 2026-06-28 21:33:25  #國際
-
-【以軍參謀長：與黎巴嫩達成的協議具有歷史性重大意義】以色列媒體報道，以軍參謀長批准北方司令部後續行動規劃，他表示，與黎巴嫩政府達成的協議具備歷史性重要意義，近幾個月以色列國防軍取得的作戰實力與軍事成果促成了協議達成，以方會遵守協議並推動協議落地，當前雙方都需要用實際行動接受考驗，後續階段的發展將決定未來局勢走向。
-
----
-
-### 2026-06-28 21:32:48  #國際
-
-美國駐聯合國大使：伊朗要麼選擇成為一個負責任的國家，要麼繼續走上一條通往毀滅的道路。
-
----
-
-### 2026-06-28 21:32:43  #MKT News #Important
-
-【U.S. UN envoy says Washington will destroy Iranian infrastructure controlling Strait of Hormuz if needed】The U.S. permanent representative to the United Nations said Washington will continue to act as needed to destroy Iranian infrastructure used to control the Strait of Hormuz. He warned Tehran it is mistaken if it believes President Trump will stand aside while Iran attacks shipping and U.S. bases, and said Iran must choose to be a responsible state or risk destruction.
-
----
-
-### 2026-06-28 21:31:39  #其他
-
-【超3200種農產品亮相鄉村特色優勢產業發展大會】新疆的核桃紅棗、寧夏的葡萄酒……6月27日，在第四屆鄉村特色優勢產業發展大會上，超3200種農產品登臺亮相，展現各地鄉村產業振興新發展。在農業農村部等部委指導下，中國鄉村發展志願服務促進會啟動實施鄉村振興特色優勢產業培育工程，支援培育油茶、核桃、油橄欖等9個產業發展。經過四年的不懈努力，鄉村振興特色優勢產業培育工程取得明顯成效。（新華社）
-
----
-
-### 2026-06-28 21:31:15  #其他
-
-【航行警告 渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，6月29日0時至6月30日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-06-28 21:31:07  #國際
-
-美國駐聯合國大使：如果伊朗認為特朗普會在它攻擊航運和我們基地時袖手旁觀，那它就錯了。
-
----
-
-### 2026-06-28 21:20:16  #MKT News
-
-【Putin says Russia will firmly defend its core interests】On the 28th Russian President Putin told the United Russia party congress Russia is at a pivotal moment and the West cannot defeat it on the battlefield; attempts to destabilize domestic politics will fail. He said Russia will firmly defend its core interests, has adjusted some development targets to reflect realities but will fully deliver its strategic plans, and will guarantee state and citizen security and the inviolability of its borders. He said the State Duma election will be held on schedule in accordance with the law and has ordered agencies to secure the vote and guard against external manipulation.
-
----
-
-### 2026-06-28 21:20:11  #國際
-
-伊朗最高領袖國際事務顧問：真主黨是黎巴嫩生存與獨立真正的守護者。
-
----
-
-### 2026-06-28 21:18:00  #國際
-
-【普京：俄羅斯將堅定捍衛自身根本利益】當地時間28日，俄羅斯總統普京在統一俄羅斯黨大會上表示，目前俄羅斯正處於命運攸關之際，西方不可能在戰場上戰勝俄羅斯，因此企圖動搖俄國內政局，但這依然無法得逞。俄羅斯將堅定捍衛自己的根本利益。普京表示，俄羅斯根據實際形勢調整了某些發展目標，但全部戰略計劃將完全實現。國家及其公民的安全以及俄羅斯邊境的不可侵犯性將得到保障。普京表示，國家杜馬（議會下院）選舉將在既定期限內嚴格按照法律規定舉行。他將責成相關部門採取措施，保障選舉的安全舉行並防範外部操縱企圖。（央視新聞）
-
----
-
-### 2026-06-28 21:16:30  #MKT News
-
-Iraq government spokesman said targeted anti‑corruption measures are ongoing, describing them as a core pillar of national sovereignty; the campaign has been praised for its transparency and is aimed at protecting public funds.
-
----
-
-### 2026-06-28 21:11:48  #MKT News
-
-Putin said Russia is responding to all challenges, including terrorist attacks targeting infrastructure, and will tackle population issues while defending traditional values.
-
----
-
-### 2026-06-28 21:08:48  #MKT News
-
-U.S. Homeland Security Secretary Mulin said immigrants holding Temporary Protected Status (TPS) should seek lawful permanent residency or return to their countries of origin.
-
----
-
-### 2026-06-28 21:08:09  #MKT News
-
-Putin says State Duma elections will be held on schedule and strictly in accordance with the law.
-
----
-
-### 2026-06-28 21:07:49  #國際
-
-美國國土安全部長馬克韋恩·馬林表示，持有臨時保護身份的移民應當申請永久居留身份，或者返回原籍國。
-
----
-
-### 2026-06-28 21:07:47  #MKT News
-
-Putin said special operations forces personnel are Russia's true elite.
-
----
-
-### 2026-06-28 21:06:47  #國際
-
-普京表示，國家與民眾的安全、俄羅斯國界的不可侵犯性都將得到保障。
-
----
-
-### 2026-06-28 21:06:40  #國際
-
-普京稱，特種作戰部隊官兵是俄羅斯真正的精銳力量。
-
----
-
-### 2026-06-28 21:05:51  #公司
-
-【康寧推出下一代玻璃光互連元件】近日，Corning（康寧）在首爾POSCO Tower Yeoksam舉辦的AI資料中心光通訊與互連技術大會上，正式推出下一代玻璃光互連元件Glass Bridge（玻璃橋）。該產品基於玻璃波導技術，用於實現光纖與光子積體電路（PIC）之間的直接光學連線，主要面向共封裝光學（CPO）及玻璃基板半導體封裝應用場景。公司方面表示，該方案透過在玻璃內部構建光傳播路徑，以減少傳統光互連中的多級器件與對準環節，從而提升光互連密度與系統整合度。業內人士告訴記者，康寧此次推出的Glass Bridge光互連元件，並非傳統意義上的可插拔光模組產品，而是切入CPO封裝裡非常底層、但未來可能越來越關鍵的環節：光纖如何低損耗、高密度、可量產地接入光子晶片。這或意味著AI光通訊的下一輪競爭，開始向玻璃基板、光耦合、fiber-to-PIC連線和CPO封裝介面下沉。（上海證券報）
-
----
-
-### 2026-06-28 21:03:42  #MKT News
-
-Putin said the security of the state and citizens and the inviolability of Russia's borders will be guaranteed.
-
----
-
-### 2026-06-28 21:03:19  #MKT News
-
-Russian President Putin said Russia is experiencing a difficult period that has taught it many lessons.
-
----
-
-### 2026-06-28 21:03:16  #MKT News #Market Regions #Europe & UK
-
-【Europe records over 1,300 heat-related excess deaths】WHO Director-General Tedros said on social media on June 28 that since June 21 Europe has recorded more than 1,300 excess deaths linked to high temperatures. Excess deaths are the difference between estimated total deaths for a place and period and expected deaths absent a health crisis.
-
----
-
-### 2026-06-28 21:02:59  #國際
-
-海灣合作委員會秘書長針對傳聞中 3000 億美元伊朗重建一攬子計劃表態：“關於這 3000 億相關方案，我並未見過任何相關檔案。該方案既未向我通報，也未告知海灣合作委員會其他成員國。”
-
----
-
-### 2026-06-28 21:02:49  #國際
-
-普京：俄羅斯正經歷艱難時期，但這一時期教會了我們許多。
-
----
-
-### 2026-06-28 21:02:32  #國際
-
-普京表示，西方國家無法在戰場上擊敗俄羅斯，於是轉而企圖破壞俄羅斯政局穩定，但即便這一圖謀也未能得逞。
-
----
-
-### 2026-06-28 21:01:46  #國際
-
-【歐洲已記錄到與高溫相關的1300多例超額死亡】世界衛生組織總幹事譚德塞28日在社交媒體發文稱，自6月21日以來，歐洲已有超過1300例超額死亡記錄與高溫天氣有關。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的預計死亡人數之間的差額。（新華社）
-
----
-
-### 2026-06-28 21:00:23  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said the current period is decisive for Russia and that Russia cannot be defeated on the battlefield.
-
----
-
-### 2026-06-28 21:00:07  #國際
-
-普京稱當下是俄羅斯命運攸關的時刻。他補充表示，俄羅斯在戰場上不可能被擊敗。
-
----
-
-### 2026-06-28 20:57:12  #MKT News
-
-【China's first high‑altitude integrated solar–hydrogen–storage project exceeds 4 bln kWh generation】China Huadian's Qinghai branch said its Delingha integrated high‑altitude solar–hydrogen–storage project — a 1 GW solar array with a 3 MW PV‑to‑hydrogen unit — has generated more than 4 bln kWh. The Delingha facility in Haixi, Qinghai includes a 3 MW hydrogen plant, a 330 kV step‑up substation and a 270 MW/1,080 MWh battery storage station. The project is among China's first large wind‑solar bases on arid/Gobi land and marks the country's first trial of green power‑to‑hydrogen at high altitude.
-
----
-
-### 2026-06-28 20:54:43  #公司
-
-【中國首個高海拔光氫儲一體化專案累計發電量超40億千瓦時】記者28日從中國華電集團有限公司青海分公司獲悉，中國首個高海拔光氫儲一體化專案——華電德令哈100萬千瓦光儲及3兆瓦光伏制氫專案累計發電超40億千瓦時。該專案位於青海省海西蒙古族藏族自治州德令哈市，配套建設3兆瓦制氫站、330千伏升壓站及270兆瓦/1080兆瓦時儲能電站，是中國第一批沙戈荒大型風光基地專案，也是中國在高海拔地區綠電制氫的首次嘗試。（中國新聞網）
-
----
-
-### 2026-06-28 20:46:27  #國際
-
-【為應對美國高階 AI 使用限制，奧地利推動歐盟引入 Anthropic 落地運營】奧地利正推動歐盟研究讓 Anthropic 公益企業落戶歐盟境內，以此抗衡美國限制境外主體使用其頂級人工智慧大模型的舉措。奧地利數字化國務秘書亞歷山大・普羅爾致函歐盟委員會執行副主席亨娜・維爾庫寧，信中提出，各成員國應探討 “推動 Anthropic 在歐盟完成戰略性佈局、參與歐盟市場發展”。 普羅爾主張雙方磋商需聚焦為企業提供 “穩定法律環境、市場準入渠道、配套資金支援以及適配該企業的價值規範體系”；信件並未詳述 Anthropic 在歐洲的具體運營模式。
-
----
-
-### 2026-06-28 20:44:51  #國際
-
-受美國出臺訪問限制政策影響，奧地利正向歐盟積極遊說，爭取吸引 AI 企業 Anthropic 落戶歐盟。
-
----
-
-### 2026-06-28 20:44:33  #其他
-
-【農行董事長谷澍：近三年招聘規模最大 基層員工是農行信貸管理的獨特優勢】6月26日，農業銀行在北京召開2025年度股東大會。在回應股東代表關於農業銀行資產質量的提問時，農業銀行董事長谷澍表示，充足的基層一線員工隊伍，已經成為農業銀行信貸管理的獨特優勢。“我們不斷強化科技賦能風險防控，並不是說AI可以替代人的工作崗位，而是AI能減輕我們的工作負擔。”谷澍在股東大會上強調，近年來，農業銀行堅持把人力資源作為推動高質量發展的重要戰略資源，持續加強員工隊伍建設。（《金融時報》）
-
----
-
-### 2026-06-28 20:44:21  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Russian Deputy Prime Minister Novak said Russia does not need to ban diesel exports.
-
----
-
-### 2026-06-28 20:43:47  #MKT News #Important #Commodities #Energy
-
-Deputy Prime Minister Novak said Russia has decided to cut the mandatory share of gasoline sales required to be traded on exchanges from 15% to 10% and to cap allowable price volatility.
-
----
-
-### 2026-06-28 20:42:41  #焦點 #國際
-
-俄羅斯已決定將汽油強制交易所銷售配額從15%下調至10%，並限制價格波動增幅。
-
----
-
-### 2026-06-28 20:42:14  #公司
-
-【理想汽車正式進入澳門市場，全球化佈局再添重要版圖】6月26日，理想汽車宣佈正式進入澳門市場，並攜手鴻粵集團於澳門金銀島開設澳門首家零售中心。同時，針對當地法規與港澳使用者跨境出行需求，理想汽車已完成涵蓋車窗玻璃、通訊網路及智慧座艙等在內的多項產品本地化適配。這是理想汽車持續深耕中國內地市場後，在港澳地區的首次拓展，標誌著理想汽車的全球化戰略佈局邁出重要一步。
-
----
-
-### 2026-06-28 20:39:15  #國際
-
-俄羅斯能源部建議暫不實施柴油出口禁令。
-
----
-
-### 2026-06-28 20:38:09  #其他
-
-【支撐“AI+製造” 中天科技開建南通首座“光電協同智算中心”】6月26日，南通首座“光電協同智算中心”在中天科技正式破土動工，建成後將為 “AI+製造”築牢自主可控的算力底座。智算中心聚焦“光、電、算”三位一體，深度融合中天科技自研光電技術，兼具智慧、綠色、安全核心優勢。專案規模化搭載400G/800G/1.6T 高速光模組、MPO光纖聯結器、空芯光纖光纜等超低時延互聯產品，破解高密度叢集資料傳輸瓶頸；供配電採用自研電力模組與聚丙烯絕緣電纜，製冷採用風液同源一體化方案彈性適配多元冷卻場景，設計PUE優於行業平均水平，同步構建“光儲聯動”清潔供能體系；統一算力排程平臺相容主流異構GPU硬體，讓業務用算力與用電同等便捷。專案計劃於2026年底完成基建施工，2027年年中實現首期工程正式投運。
-
----
-
-### 2026-06-28 20:35:24  #MKT News
-
-Iraqi news agency, citing sources, says 47 deputies and officials were arrested on corruption charges.
-
----
-
-### 2026-06-28 20:33:25  #國際
-
-俄羅斯擬於 6 月 29 日審議全面禁止柴油出口相關方案。
-
----
-
-### 2026-06-28 20:31:08  #其他
-
-伊拉克：反腐專項行動抓獲 47 名官員。
-
----
-
-### 2026-06-28 20:24:53  #其他
-
-【專家談AI熱潮中的高考志願填報：AI越強大基礎學科越重要】當前，各地2026年高考分數陸續公佈，考生進入高考志願填報時間。在人工智慧（AI）的熱潮之下，利用AI輔助志願填報應該注意哪些問題？AI推動高校專業調整，考生要不要優先填報帶“智慧”字眼的新增專業？AI等產業迅猛發展的背景下，基礎學科是否還值得讀？ 近日，多名專家學者圍繞社會關心的這些熱點話題分享了自己的觀點。 談及利用AI輔助志願填報，北京航空航天大學教授、中國教育學會學術委員會委員熊璋指出，AI是輔助工具，科學的填報方式應當是AI篩選打底，由考生本人和家長終審把關。 對於是否要優先填報帶有“智慧”字眼的新增專業，湖南大學教育科學研究院副教授韋驊峰認為，新增專業是否值得報考，不能只看名稱中是否包含“智慧”“數字”“人工智慧”等字眼，還要結合高校是否具備相應的學科基礎、師資隊伍、課程體系等辦學“硬通貨”。同時，考生應結合自身興趣特長和職業發展規劃，合理選擇專業。 此外，多名專家都強調，AI時代基礎學科依然重要。北京理工大學教育學院院長、中國高等教育學會智慧教育研究分會秘書長嵩天認為，基礎學科是AI無法自主生成的“源頭活水”，基礎學科能鍛造AI難以替代的“人才高地”，AI越強大，基礎學科越重要。（澎湃）
-
----
-
-### 2026-06-28 20:20:22  #宏觀 #焦點
-
-【6月28日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【偉大征程】以習近平黨建思想為引領 奮力走好新時代“趕考”路； 2.各地開展主題黨日活動迎“七一”； 3.新一批支援消費品以舊換新資金下達； 4.前五個月我國物流執行結構最佳化 質效提升； 5.空軍航空兵某團：鍛造制勝空天的鐵翼鯤鵬； 6.中央層面樹立和踐行正確政績觀學習教育工作專班 中央紀委辦公廳公開通報廣西壯族自治區南寧市、甘肅省酒泉市新城區、浙江省杭州市蕭山區3起政績觀偏差問題； 7.神舟二十三號乘組在軌滿月 各項任務進展順利； 8.中國音樂家協會 中國舞蹈家協會 中國雜技家協會選舉產生新一屆領導機構； 9.國內聯播快訊： （1）1—5月全國農業保險已賠付370億元； （2）2026年黃河三角洲自然保護區生態補水啟動； （3）香港迴歸29年來 內地與香港貿易值年均增長6.7%； （4）2026暑期檔電影票房超15億元 年度票房超172億元； 10.國際人士：中國共產黨領導中國取得矚目成就 對世界和平與發展意義重大； 11.委內瑞拉強震遇難人數升至1430人； 12.美國和伊朗分別打擊對方目標 互指對方違反停火承諾； 13.國際聯播快訊： （1）黎真主黨領導人拒絕承認三方框架協議； （2）美國肯塔基州發生洪災進入緊急狀態； （3）義大利埃特納火山噴發 警戒級別提升。
-
----
-
-### 2026-06-28 20:19:39  #市場
-
-【創紀錄！百億級私募突破140家】私募排排網最新資料顯示，截至6月26日，百億級私募數量再度重新整理歷史紀錄，增至141家，6月新進百億梯隊的安賢投資與海南盛豐私募均為量化私募。。分策略而言，量化私募成為百億梯隊的“主力軍”。在當前的141家百億級私募中，量化私募佔比超過50%。在業內人士看來，伴隨著百億級量化私募不斷湧現，行業競爭將從業績比拼轉為綜合實力的較量。（21世紀經濟報道）
-
----
-
-### 2026-06-28 20:16:24  #其他
-
-【軌道被“曬傷” 德國萊比錫有軌電車停運】德國東部城市萊比錫28日宣佈該市有軌電車暫停執行，原因是軌道在高溫下受到損壞。萊比錫交通局釋出宣告說，高溫天氣導致軌道道床上多處瀝青、混凝土之間的接縫密封劑結塊膨脹，有軌電車無法安全通行，該市所有有軌電車線路都將停運至29日凌晨3時30分。交通部門將盡量確保公共汽車正常執行。（新華社）
-
----
-
-### 2026-06-28 20:15:00  #公司
-
-蘇州瑞高新材料股份有限公司創業板IPO獲受理，預計融資金額15.3775億元；江蘇點奪技術股份有限公司創業板IPO獲受理，預計融資金額9.871億元。
-
----
-
-### 2026-06-28 20:11:10  #國際
-
-伊朗外交部長表示，他於週日在巴格達會見了伊拉克外交部長；還在巴格達會見了伊拉克總統。
-
----
-
-### 2026-06-28 20:08:52  #市場 #國際
-
-中東股市收盤播報｜週日（6月28日），阿曼MSM 30指數收漲0.97%，報7387.48點。卡達證交所指數收漲0.12%，結束此前連續六個交易日下跌的趨勢，報10293.72點。科威特證交所超級市場價格回報指數收跌0.12%，連續九天下跌（6月14日結束交易以來累計下跌2.25%），報9115.14點。
-
----
-
-### 2026-06-28 20:05:46  #國際
-
-黎巴嫩軍方訊息人士：黎巴嫩軍隊是國家機構，不接受任何一方對其作出評價，僅遵守黎巴嫩法律。以色列關於黎巴嫩軍隊內部存在不忠於國家的人員的指控，我們予以拒絕和譴責。
-
----
-
-### 2026-06-28 20:05:31  #國際
-
-伊拉克外交部長侯賽因表示，他與阿拉格齊討論了一系列共同關心的問題，包括伊拉克在近期戰事中遭受的襲擊，以及霍爾木茲海峽通航受阻對伊拉克財政和經濟的影響。侯賽因表示，伊拉克的政策是反對戰爭，透過對話和談判解決問題。（新華社）
-
----
-
-### 2026-06-28 20:05:11  #公司 #國際
-
-【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司6月26日表示，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。核電約佔瑞士發電量的三分之一。這個山地國家有4座核電站反應堆，其中兩個在貝茲瑙核電站，分別於1969年和1971年投入執行。 （CCTV國際時訊）
-
----
-
-### 2026-06-28 20:05:05  #MKT News #Important
-
-Reserve Bank of Australia Governor Bullock's speech due in 10 minutes.
-
----
-
-### 2026-06-28 20:04:25  #國際
-
-【伊朗外長：管理和恢復霍爾木茲海峽交通僅由伊朗負責】正在伊拉克訪問的伊朗外交部長阿拉格齊28日表示，管理和全面恢復霍爾木茲海峽的交通是伊朗的責任，任何其他國家或機構均不承擔此責任。阿拉格齊當天在與伊拉克外交部長侯賽因舉行的聯合新聞釋出會上表示，任何干涉霍爾木茲海峽管理的做法都違反了伊朗和美國的諒解備忘錄。（新華社）
 
 ---
