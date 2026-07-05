@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-05 23:45:58",
-  "count": 13146,
+  "updated": "2026-07-05 23:49:57",
+  "count": 13148,
   "items": [
+    {
+      "id": "mkt:019f32f7-b228-7aab-8ca3-ee335790b2c3",
+      "time": "2026-07-05 23:48:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Three earthquakes hit Mianzhu, Sichuan】CENC reported a magnitude 4.5 quake at 23:30 on July 5 in Mianzhu, Deyang, Sichuan (31.58°N, 104.00°E); focal depth 18 km. Two earlier shocks were recorded in the same area, magnitude 4.5 and 4.0."
+    },
+    {
+      "id": "mkt:019f32f5-d917-7aab-8ca3-e5bcd13029d0",
+      "time": "2026-07-05 23:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE press secretary LEAVITT said the Treasury has formally launched the Trump Accounts program, which the administration hopes will raise financial literacy among the next generation and help them understand the value of investing."
+    },
+    {
+      "id": "4971044",
+      "time": "2026-07-05 23:45:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：財政部已正式推出特朗普賬戶專案，本屆政府希望藉助該專案提升下一代民眾的金融素養，幫助他們理解投資的價值。"
+    },
     {
       "id": "4971043",
       "time": "2026-07-05 23:44:20",
@@ -121178,18 +121204,6 @@
         "其他"
       ],
       "text": "沙特王儲同法國總統會晤，共同探討為實現地區安全尋求全面解決方案的相關舉措。"
-    },
-    {
-      "id": "mkt:019f0eeb-642c-7aab-8c01-86142453712e",
-      "time": "2026-06-28 23:48:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran urges US to set timetable for Israel's unconditional withdrawal from occupied Lebanese territory】Iran on Sunday urged the United States to set a timetable to push Israel to unconditionally withdraw from occupied Lebanese territory under a memorandum-of-understanding framework to end the conflict, Iranian Foreign Ministry spokesman Baghaei said. He said ending Israel’s military actions and withdrawal from all occupied Lebanese territory is a necessary condition for a final, sustainable agreement and regional stability, and Tehran is calling for a prompt determination of such a withdrawal timetable."
     }
   ]
 }
