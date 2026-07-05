@@ -1,7 +1,55 @@
 {
   "date": "2026-07-06",
-  "count": 22,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:019f3346-ecf6-7aab-8ca4-6647f1e3daf5",
+      "time": "2026-07-06 01:15:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【H1 bond underwriting ranking: top five brokers hold over 50%】H1 bond underwriting rankings released. Wind data show CITIC Securities retained the top spot by total underwriting; Guotai Haitong and CSC Financial ranked second and third. The top five brokers accounted for more than half of total underwriting, underscoring rising market concentration. Brokers are targeting expansion in Sci‑tech innovation bonds and industrial bonds to channel financial liquidity into the real economy."
+    },
+    {
+      "id": "4971065",
+      "time": "2026-07-06 01:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：（特朗普北約之行）場外或將達成數十億美元軍售協議。"
+    },
+    {
+      "id": "mkt:019f3346-1939-7aab-8ca4-5bc87c86a8e7",
+      "time": "2026-07-06 01:14:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official said Trump will meet Turkish President ERDOGAN during his NATO trip."
+    },
+    {
+      "id": "4971064",
+      "time": "2026-07-06 01:14:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【上半年券商債券承銷榜出爐 前五名包攬五成份額】上半年券商債券承銷排行榜正式揭曉。Wind資料顯示，從總承銷金額來看，中信證券蟬聯榜首，國泰海通、中信建投分列第二、三位。市場格局方面，前五名券商合計佔據券商承銷金額的五成以上，行業馬太效應持續深化。在業務發力方向上，券商正積極把握科創債、產業債擴容機遇，引導金融活水精準澆灌實體經濟。"
+    },
+    {
+      "id": "4971063",
+      "time": "2026-07-06 01:13:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名石油行業官員透露：伊拉克6月石油出口總量約2450萬桶。"
+    },
+    {
+      "id": "4971062",
+      "time": "2026-07-06 01:13:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普將在北約之行期間與埃爾多安舉行會晤。"
+    },
     {
       "id": "mkt:019f3341-ddbd-7aab-8ca4-523a327c6c01",
       "time": "2026-07-06 01:09:42",
