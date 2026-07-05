@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06 06:14:52",
-  "count": 13105,
+  "updated": "2026-07-06 06:18:44",
+  "count": 13098,
   "items": [
     {
       "id": "4971140",
@@ -120748,67 +120748,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold slid intraday, extending losses to 0.6% at $4,055/oz; spot silver fell 0.5%."
-    },
-    {
-      "id": "4959208",
-      "time": "2026-06-29 06:18:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4060美元/盎司，日內跌0.55%。"
-    },
-    {
-      "id": "4959207",
-      "time": "2026-06-29 06:18:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4070美元/盎司，日內跌0.67%。"
-    },
-    {
-      "id": "4959206",
-      "time": "2026-06-29 06:18:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1208.18美元/盎司。"
-    },
-    {
-      "id": "4959205",
-      "time": "2026-06-29 06:17:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報59.06美元/盎司。"
-    },
-    {
-      "id": "mkt:019f104e-29b0-7aab-8c03-5f7e49396c3d",
-      "time": "2026-06-29 06:16:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Yikong Zhijia to list in Hong Kong, offering 26.13 mln H shares, subject to exercise of the overallotment option, at HK$81.16-87.92 per share; trading expected to begin July 8."
-    },
-    {
-      "id": "4959204",
-      "time": "2026-06-29 06:15:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4080美元/盎司，日內跌0.42%。"
-    },
-    {
-      "id": "4959203",
-      "time": "2026-06-29 06:14:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Momenta每股發售股份發售價為295.60港元。"
     }
   ]
 }
