@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 21:02:32",
-  "count": 13130,
+  "updated": "2026-07-05 21:07:42",
+  "count": 13122,
   "items": [
+    {
+      "id": "mkt:019f3263-d70f-7aab-8ca2-e77ed949e598",
+      "time": "2026-07-05 21:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wildfire in Pyrénées-Orientales expands to about 1,500 hectares】A wildfire in Trévillach, Pyrénées-Orientales continued to spread on July 5, with burned area reaching about 1,500 hectares. Authorities said firefighting is difficult and have deployed roughly 700 firefighters, 200 fire engines and nine firefighting aircraft. About 80 residents were evacuated and residents in several villages were ordered to shelter indoors."
+    },
     {
       "id": "4970990",
       "time": "2026-07-05 21:01:21",
@@ -120938,80 +120946,6 @@
         "MKT News"
       ],
       "text": "Putin said special operations forces personnel are Russia's true elite."
-    },
-    {
-      "id": "4959008",
-      "time": "2026-06-28 21:06:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京表示，國家與民眾的安全、俄羅斯國界的不可侵犯性都將得到保障。"
-    },
-    {
-      "id": "4959007",
-      "time": "2026-06-28 21:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京稱，特種作戰部隊官兵是俄羅斯真正的精銳力量。"
-    },
-    {
-      "id": "4959006",
-      "time": "2026-06-28 21:05:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康寧推出下一代玻璃光互連元件】近日，Corning（康寧）在首爾POSCO Tower Yeoksam舉辦的AI資料中心光通訊與互連技術大會上，正式推出下一代玻璃光互連元件Glass Bridge（玻璃橋）。該產品基於玻璃波導技術，用於實現光纖與光子積體電路（PIC）之間的直接光學連線，主要面向共封裝光學（CPO）及玻璃基板半導體封裝應用場景。公司方面表示，該方案透過在玻璃內部構建光傳播路徑，以減少傳統光互連中的多級器件與對準環節，從而提升光互連密度與系統整合度。業內人士告訴記者，康寧此次推出的Glass Bridge光互連元件，並非傳統意義上的可插拔光模組產品，而是切入CPO封裝裡非常底層、但未來可能越來越關鍵的環節：光纖如何低損耗、高密度、可量產地接入光子晶片。這或意味著AI光通訊的下一輪競爭，開始向玻璃基板、光耦合、fiber-to-PIC連線和CPO封裝介面下沉。（上海證券報）"
-    },
-    {
-      "id": "mkt:019f0e54-2293-7aab-8c01-178c4c6820a9",
-      "time": "2026-06-28 21:03:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said the security of the state and citizens and the inviolability of Russia's borders will be guaranteed."
-    },
-    {
-      "id": "mkt:019f0e53-c9a3-7aab-8c01-0d43711bb231",
-      "time": "2026-06-28 21:03:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said Russia is experiencing a difficult period that has taught it many lessons."
-    },
-    {
-      "id": "mkt:019f0e53-be88-7aab-8c01-0056ef8f1ca6",
-      "time": "2026-06-28 21:03:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Europe records over 1,300 heat-related excess deaths】WHO Director-General Tedros said on social media on June 28 that since June 21 Europe has recorded more than 1,300 excess deaths linked to high temperatures. Excess deaths are the difference between estimated total deaths for a place and period and expected deaths absent a health crisis."
-    },
-    {
-      "id": "4959005",
-      "time": "2026-06-28 21:02:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "海灣合作委員會秘書長針對傳聞中 3000 億美元伊朗重建一攬子計劃表態：“關於這 3000 億相關方案，我並未見過任何相關檔案。該方案既未向我通報，也未告知海灣合作委員會其他成員國。”"
-    },
-    {
-      "id": "4959004",
-      "time": "2026-06-28 21:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯正經歷艱難時期，但這一時期教會了我們許多。"
-    },
-    {
-      "id": "4959003",
-      "time": "2026-06-28 21:02:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京表示，西方國家無法在戰場上擊敗俄羅斯，於是轉而企圖破壞俄羅斯政局穩定，但即便這一圖謀也未能得逞。"
     }
   ]
 }

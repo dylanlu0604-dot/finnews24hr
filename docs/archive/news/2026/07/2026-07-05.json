@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 519,
+  "count": 520,
   "items": [
+    {
+      "id": "mkt:019f3263-d70f-7aab-8ca2-e77ed949e598",
+      "time": "2026-07-05 21:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wildfire in Pyrénées-Orientales expands to about 1,500 hectares】A wildfire in Trévillach, Pyrénées-Orientales continued to spread on July 5, with burned area reaching about 1,500 hectares. Authorities said firefighting is difficult and have deployed roughly 700 firefighters, 200 fire engines and nine firefighting aircraft. About 80 residents were evacuated and residents in several villages were ordered to shelter indoors."
+    },
     {
       "id": "4970990",
       "time": "2026-07-05 21:01:21",
