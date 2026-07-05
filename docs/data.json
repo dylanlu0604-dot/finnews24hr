@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 08:06:11",
-  "count": 13234,
+  "updated": "2026-07-05 08:10:06",
+  "count": 13232,
   "items": [
+    {
+      "id": "mkt:019f2f99-97a5-7aab-8ca0-1d3707fab81c",
+      "time": "2026-07-05 08:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring."
+    },
     {
       "id": "4970746",
       "time": "2026-07-05 08:05:24",
@@ -121790,35 +121798,6 @@
         "XAUUSD"
       ],
       "text": "Air-raid sirens sounded in Kuwait; the Kuwaiti military said it is responding to an incoming aerial threat."
-    },
-    {
-      "id": "mkt:019f0b8e-2d23-7770-9d1b-d8616aad2fa0",
-      "time": "2026-06-28 08:08:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain authorities said alarms sounded, urging residents to \"remain calm\" and proceed to the nearest safe location."
-    },
-    {
-      "id": "mkt:019f0b8d-b7a6-7770-9d1b-d00983ee8a30",
-      "time": "2026-06-28 08:07:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Trump says US struck Iranian missile and drone storage sites】President Trump said on the 27th US forces struck Iranian missile and drone storage sites and coastal radar stations after Iran again violated a ceasefire, warning that “the Islamic Republic of Iran will no longer exist” if escalation continues. CENTCOM said the same day it carried out a new round of strikes inside Iran as a direct response to Iran’s continued targeting of merchant shipping, saying US aircraft hit military surveillance facilities, communications nodes, air-defence positions, drone storage sites and minelaying equipment."
-    },
-    {
-      "id": "4958662",
-      "time": "2026-06-28 08:07:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【央視曝手機測評作弊亂象】記者調查發現，數碼產品測評這個領域的高度技術化，長期以來處於“無人能實錘作弊亂象”的灰色地帶。網路安全專家介紹，整套作弊體系分為三層，層層美化測評資料：第一層廠商專供測評博主的特供媒體機，硬體經過篩選最佳化；第二層韌體內建識別程式，檢測到博主身份並自動開啟高效能模式；第三層雲端遠端控制，可實時下發測評作弊配置。當這套系統識別到某博主啟動測評時，就會進入“作弊模式”，自動拉高CPU效能、調高螢幕亮度、最佳化後臺載入邏輯，切換軟體時僅載入介面而非完整應用，營造全程流暢的假象。邊亮介紹，為了規避被發現的風險，這套測評作弊機制也經歷了多輪迭代，隱蔽性越來越強。記者調查發現，由於特供樣機、韌體作弊、雲端調控三重手段疊加，普通消費者很難分辨測評真假，這也導致數碼測評公信力持續受損，而且技術造假取證難度極大，給監管帶來很大難度。（央視新聞）"
     }
   ]
 }

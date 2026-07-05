@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 191,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:019f2f99-97a5-7aab-8ca0-1d3707fab81c",
+      "time": "2026-07-05 08:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring."
+    },
     {
       "id": "4970746",
       "time": "2026-07-05 08:05:24",
