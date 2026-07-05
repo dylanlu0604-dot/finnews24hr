@@ -1,7 +1,201 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 23:33:51_
-_本檔包含 2379 則快訊，約 506056 字_
+_更新時間：2026-07-06 00:38:56_
+_本檔包含 2381 則快訊，約 506792 字_
+
+---
+
+### 2026-07-06 00:38:03  #MKT News #BP.L #Impact bearish #8002.T #Impact mixed
+
+【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry.
+
+---
+
+### 2026-07-06 00:33:44  #國際
+
+黎巴嫩官方部門：自3月以來，以色列對黎巴嫩發動的襲擊已造成4304人遇難。
+
+---
+
+### 2026-07-06 00:25:31  #公司
+
+【易捷航空同意卡斯爾萊克52億英鎊收購要約】易捷航空已原則上接受卡斯爾萊克的第五輪現金收購要約，收購價每股6.9英鎊。此前易捷航空已四次拒絕對方收購提議，本次新報價估值52億英鎊（摺合69億美元），高於此前每股6.5英鎊的出價。過去一個月雙方就收購事宜分歧不斷。這家低成本航司曾指責前幾輪收購提議“投機性極強”，稱卡斯爾萊克想低價收購公司；而這家投資機構則表示，易捷航空董事會不願開展實質性談判，因此直接向全體股東丟擲收購方案。
+
+---
+
+### 2026-07-06 00:16:59  #MKT News
+
+【Majority of US voters say Trump's conflict with Iran not worth economic, strategic cost】An FT nationwide poll shows 58% of US voters say the Trump administration's military confrontation with Iran is not worth the economic and strategic cost. With inflation high and war spending mounting, Republicans' midterm prospects have dimmed. The White House has asked Congress for an additional $670 billion in federal appropriations to cover accumulated war costs. Only 31% of respondents said recent skirmishes strengthened US negotiating position, while 44% said they weakened US leverage. Voters also cited the conflict as a material factor pushing up consumer goods and gasoline prices year-to-date.
+
+---
+
+### 2026-07-06 00:16:20  #國際
+
+【多數美國選民認為特朗普對伊朗開戰得不償失】英國《金融時報》最新一項全國民意調查顯示，58%的美國選民認為，特朗普政府與伊朗爆發的軍事衝突，所付出的經濟與戰略代價完全不值。伴隨通脹高企、戰爭開支援續增加，共和黨在即將到來的國會中期選舉前景堪憂。絕大多數美國選民認為，當前與伊朗的軍事衝突在戰略、財政層面均得不償失，這也給本屆政府留下嚴重政治軟肋。這份民調結果出爐之際，白宮正向國會申請新增6700億美元聯邦撥款，用以支付累積的戰爭開銷。民眾情緒充分體現出公眾對政府危機處置方式的深度質疑。僅31%受訪者認為，一系列交火行動讓美國的談判地位變得更強。與之相反，44%民眾表示，這場衝突實實在在削弱了美國對伊朗的施壓籌碼。全年以來，這場軍事行動大幅推高了國內消費品與汽油價格。
+
+---
+
+### 2026-07-06 00:12:05  #MKT News
+
+【China foreign minister Wang Yi holds talks with Finland's Valtonen】China's foreign minister Wang Yi met Finland's foreign minister Valtonen in Helsinki on the 5th. Wang said Finland was among the first Western states to establish diplomatic ties with China and the first to sign an intergovernmental trade agreement. He highlighted 76 years of close China–Finland ties and the 2017 establishment of a future-oriented cooperation partnership, and said China is willing to continue mutual respect and equal treatment and remain a trusted partner despite shifting international conditions.
+
+---
+
+### 2026-07-06 00:11:49  #宏觀 #國際
+
+【王毅同芬蘭外長瓦爾託寧會談】中共中央政治局委員、外交部長王毅5日在赫爾辛基同芬蘭外長瓦爾託寧舉行會談。王毅說，芬蘭是最早同新中國建交的西方國家之一，也是第一個同中國簽訂政府間貿易協定的西方國家。建交76年來，中芬關係一直走在中國同北歐國家關係的前列，樹立了國與國之間超越制度和文化差異、開展平等交往的典範。2017年中芬建立面向未來的新型合作伙伴關係，充分體現兩國關係的前瞻性、創新性。無論國際風雲如何變幻，中方願同芬方相互尊重、平等相待，繼續做彼此信任的合作伙伴。（新華社）
+
+---
+
+### 2026-07-06 00:02:57  #其他 #焦點
+
+【國家防總辦公室向廣西調撥物資 支援做好防汛搶險工作】5日，應廣西壯族自治區防汛抗旱指揮部請求，國家防總辦公室會同國家糧食和物資儲備局調撥衝鋒舟、橡皮舟、排澇裝置、照明裝置等500餘件中央防汛抗旱物資，支援廣西做好防汛搶險工作。
+
+---
+
+### 2026-07-05 23:56:35  #MKT News #Important #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
+
+Israeli Prime Minister Netanyahu says Iran will not obtain nuclear weapons while he remains in office.
+
+---
+
+### 2026-07-05 23:56:34  #其他 #焦點
+
+【廣西柳州各城區暴雨預警訊號提升為紅色】受今年第10號颱風“美莎克”影響，廣西柳州市出現強降雨天氣。柳州市氣象臺於今日22時44分將各城區暴雨橙色預警訊號提升為紅色。20時以來，柳北石碑坪已出現91毫米的強降雨，目前強降雨雲團正向偏北方向移動，強度維持，預計3小時內柳州市各城區還將有40~70毫米、局地90毫米以上的降雨，並伴有雷電、短時大風等，城區積澇氣象風險很大，請防範。（央視新聞）
+
+---
+
+### 2026-07-05 23:55:47  #MKT News #Market Regions #Greater China #000895.SZ
+
+Macquarie downgraded Shuanghui Development to Neutral, PT 23 yuan.
+
+---
+
+### 2026-07-05 23:55:22  #MKT News #XAUUSD #Impact mixed #DXY #Impact bullish #Brent
+
+Israeli Prime Minister NETANYAHU said Israeli forces will continue to remain in Lebanon.
+
+---
+
+### 2026-07-05 23:54:45  #其他
+
+麥格理將雙匯發展評級下調至中性，目標價23元人民幣。
+
+---
+
+### 2026-07-05 23:53:27  #國際
+
+特朗普：雕塑《英勇》的重新貼金工程已全部完工，雕塑《犧牲》的貼金修繕工作也正在緊鑼密鼓推進。完成《犧牲》的貼金作業後，團隊將啟動兩座《和平之藝》雕塑的翻新貼金工程。這兩座雕塑均高19英尺，矗立在12.5英尺高的整塊花崗岩基座之上。這四尊雕塑已有逾半個世紀未曾重新貼金，本次修繕總共將使用55磅金箔。下方第一組照片是完工後的《英勇》貼金成品，第二組照片則是尚在施工中的《犧牲》雕塑。
+
+---
+
+### 2026-07-05 23:52:52  #MKT News
+
+【U.S. halts active search for sailor missing after MH-60S ditching in Arabian Sea】U.S. Naval Forces Central Command said on social media that the U.S. Navy suspended active search at 1500 local time on July 5 for a sailor assigned to Sea Combat Helicopter Squadron 5 who was embarked on the USS George H. W. Bush. The sailor went missing after an MH-60S Seahawk made an emergency water landing in the Arabian Sea on July 1. U.S. Navy and Air Force units conducted a large-scale joint search-and-rescue within CENTCOM’s area of responsibility for more than 102 hours, covering over 14,000 square miles, before ending active search efforts.
+
+---
+
+### 2026-07-05 23:52:22  #國際
+
+【美軍暫停搜尋在阿拉伯海因直升機事故失蹤計程車兵】當地時間5日，美國海軍中央司令部在社交平臺上釋出訊息稱，美國海軍已於當地時間5日15時暫停對一名失蹤海軍士兵的主動搜尋行動。訊息稱，這名失蹤人員隸屬於海上戰鬥直升機第5中隊，事發時部署在“喬治·H·W·布什”號航空母艦上。當地時間7月1日，一架MH-60S“海鷹”直升機在阿拉伯海實施緊急水上迫降後，該士兵失蹤。
+
+---
+
+### 2026-07-05 23:48:41  #MKT News #Important
+
+【Three earthquakes hit Mianzhu, Sichuan】CENC reported a magnitude 4.5 quake at 23:30 on July 5 in Mianzhu, Deyang, Sichuan (31.58°N, 104.00°E); focal depth 18 km. Two earlier shocks were recorded in the same area, magnitude 4.5 and 4.0.
+
+---
+
+### 2026-07-05 23:46:40  #MKT News
+
+WHITE HOUSE press secretary LEAVITT said the Treasury has formally launched the Trump Accounts program, which the administration hopes will raise financial literacy among the next generation and help them understand the value of investing.
+
+---
+
+### 2026-07-05 23:45:41  #宏觀 #國際
+
+白宮新聞秘書萊維特：財政部已正式推出特朗普賬戶專案，本屆政府希望藉助該專案提升下一代民眾的金融素養，幫助他們理解投資的價值。
+
+---
+
+### 2026-07-05 23:44:20  #市場
+
+【颱風持續影響 廣西仍有29條河流36個站超警】記者從廣西壯族自治區水文中心瞭解到，受今年第10號颱風“美莎克”影響，7月5日8時至20時，南寧、欽州、北海、貴港、來賓及防城港等市部分地區遭遇大到暴雨，局地大暴雨至特大暴雨。5日11時，防城河防城水文站出現9.89米的洪峰水位（警戒水位5.5米），超警4.39米，為1982年建站以來最大洪水。截至5日20時，廣西仍有大風江、防城河、明江、江平江、北侖河等29條河流36個站超警0.11米至4.10米。
+鑑於當前的颱風暴雨洪水防禦形勢，7月5日9時，自治區水利廳將洪水防禦四級應急響應提升為三級應急響應。15時，自治區水文中心繼續釋出洪水黃色預警。
+據自治區水文中心預測，未來12小時，鬱江、左江及支流明江，茅嶺江、大風江、平陸運河等江河將繼續上漲0.5米至6米。南寧、玉林、貴港、北海、欽州、防城港、柳州、河池、來賓及桂林等市部分中小河流可能出現較大洪水。（新華社）
+
+---
+
+### 2026-07-05 23:43:58  #MKT News
+
+【CENC: M4.5 quake in Mianzhu, Sichuan; depth 18 km】CENC reported a magnitude 4.5 earthquake at 23:30 in Mianzhu, Deyang, Sichuan (31.58°N, 104.00°E). Focal depth 18 km.
+
+---
+
+### 2026-07-05 23:43:09  #宏觀 #公司 #焦點
+
+【河南鎮平縣通報兩家企業涉“健字號”滴眼液調查情況】7月5日晚，河南省南陽市鎮平縣聯合調查組釋出通報，7月5日，媒體報道網售“健字號”滴眼液市場亂象，涉及鎮平縣創璽實業有限公司、澳福來實業有限責任公司兩家企業。該縣第一時間成立由市場監管、公安、紀檢監察等部門組成的聯合調查組，迅速開展調查處置。關於“諧醫堂七葉洋地黃雙咁滴眼液”產品，經初步核查，該商標“諧醫堂”為外省徐某註冊持有，創璽實業有限公司接受徐某委託提供“諧醫堂七葉洋地黃雙咁滴眼液”產品的包裝盒，包裝盒上顯示的生產廠家為創璽實業有限公司，涉案金額0.8萬元，截至目前暫未發現該企業有生產行為。關於“藍莓葉黃素滴眼液”及“飛蚊靈護眼液”產品，經初步核查，系澳福來實業有限責任公司受外省某企業委託，分別於2025年6月、9月分兩批違規生產，涉案金額6萬元。目前，已依法控制兩家涉事企業的法定代表人和實際控制人袁某某、王某、李某某，對企業涉嫌違法違規行為立案調查；依法查封相關生產裝置、材料和臺賬資料等；向涉事外省企業所在地市場監管部門發函協查；協調網路銷售平臺下架相關產品。下一步，鎮平縣將依據調查結果，對相關涉事責任主體依法依規嚴肅處理，對有關部門和個人在監管過程中的失職失責行為嚴肅追責問責。
+
+---
+
+### 2026-07-05 23:41:25  #MKT News
+
+Israeli Channel 14, citing sources, reported the Israeli military carried out two operations that struck two Hezbollah members it said posed a threat to its forces in southern Lebanon.
+
+---
+
+### 2026-07-05 23:40:42  #其他 #焦點
+
+【綿竹半小時三震】中國地震臺網正式測定：07月05日23時30分在四川德陽市綿竹市（北緯31.58度，東經104.00度）發生4.5級地震，震源深度18千米。（人民日報）
+
+---
+
+### 2026-07-05 23:40:19  #國際
+
+美國衛生部長小羅伯特·F·肯尼迪大力提倡用牛脂替代植物油，但部分心臟病專家表示，這種動物脂肪未必更有益健康。
+
+---
+
+### 2026-07-05 23:40:02  #其他
+
+中國地震臺網正式測定：07月05日23時30分在四川德陽市綿竹市（北緯31.58度，東經104.00度）發生4.5級地震，震源深度18千米。
+
+---
+
+### 2026-07-05 23:38:40  #MKT News #Market Regions #Europe & UK
+
+【Mount Etna continues erupting; Catania airport flights disrupted】On the 5th local time, Mount Etna on Sicily continued erupting, sending volcanic ash that disrupted operations at Catania-Fontanarossa airport. The airport briefly suspended inbound flights and limited arrivals to five per hour; departures were routed and scheduled based on on-site conditions. Mount Etna, one of Europe’s most active volcanoes, is being monitored for changes in activity and ash dispersion; further operational adjustments will follow airspace safety assessments.
+
+---
+
+### 2026-07-05 23:38:28  #國際
+
+【義大利埃特納火山持續噴發 卡塔尼亞機場航班受影響】當地時間5日，位於義大利西西里島的埃特納火山持續噴發，伴隨噴出的火山灰飄散，卡塔尼亞機場部分航班執行受到影響。當天，卡塔尼亞機場一度暫停進港航班，機場管理方將進港航班限制為每小時5架次，離港航班則根據現場情況安排執行。埃特納火山是歐洲最活躍的火山之一。當地監測機構正持續關注火山活動變化及火山灰擴散情況。機場後續執行安排將根據火山活動和空域安全評估進行調整。
+
+---
+
+### 2026-07-05 23:38:28  #MKT News
+
+NETANYAHU said he is concerned about an anti-Israel current within the US Democratic Party and will do whatever he can to counter it. He added that those who hate Israel will ultimately hate the United States.
+
+---
+
+### 2026-07-05 23:37:56  #國際
+
+以色列總理內塔尼亞胡：民主黨內部存在一股反以色列勢力，這一點令我十分擔憂。對此我深感憂慮，只要有辦法修復雙方關係，我顯然會付諸行動。那些仇視以色列的人，到頭來也會仇視美國。
+
+---
+
+### 2026-07-05 23:37:25  #國際
+
+伊朗最高領袖穆傑塔巴再次任命侯賽因·穆赫辛尼·埃傑伊為司法機構主席。
+
+---
+
+### 2026-07-05 23:33:37  #其他 #焦點
+
+中國地震臺網自動測定：07月05日23時30分在四川德陽市綿竹市附近（北緯31.58度，東經104.02度）發生4.7級左右地震，最終結果以正式速報為準。
 
 ---
 
@@ -14200,185 +14394,5 @@ Shanghai Futures Exchange weekly inventories: copper down 13,055 tonnes, alumini
 ### 2026-07-03 15:50:39  #Trading Economics #Markets #Italy #Stock Market #Importance 1
 
 FTSE MIB Set for Weekly Gain — The FTSE MIB rose 0.5% to around 52,700 in early trading on Friday, heading for a weekly advance and tracking gains across Asian peers amid signs of expanding regional activity. This followed Thursday’s weak US jobs report, which led investors to scale back expectations of a near-term Federal Reserve rate hike. On the data front, Italy’s services activity returned to growth in June, while retail sales edged up 0.2% month-on-month in May, slightly above the expected 0.1% rise. Shares of Prysmian advanced 2.7% after JPMorgan raised its price target on the stock to €190 from €170 while maintaining an “overweight” rating. Other key gainers included Enel (0.9%), Tenaris (0.9%), Unipol Gruppo (1.1%), Saipem (1.8%), Nexi (1.6%), and Amplifon (1.8%). The index has risen more than 2% so far this week.
-
----
-
-### 2026-07-03 15:50:19  #行業 #觀點 #其他
-
-群智諮詢王旭東表示，千元機儲存成本增量已吞掉整機全部利潤，預計手機廠將削減1500元以下機型出貨量，2027年市面或難見1500元以內智慧機。
-
----
-
-### 2026-07-03 15:50:09  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-France June composite PMI (final) 47.2, below 50 signaling contraction; consensus 47.6, prior 47.6.
-
----
-
-### 2026-07-03 15:50:06  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-France June services PMI (final) 46.8, below 47.4 expected and 47.4 previous.
-
----
-
-### 2026-07-03 15:50:05  #資料
-
-法國6月服務業PMI終值 46.8，預期47.4，前值47.4。法國6月綜合PMI終值 47.2，預期47.6，前值47.6。
-
----
-
-### 2026-07-03 15:50:00  #MKT News #Economic Calendar #Important
-
-France | Services PMI Final (Jun) | actual 46.8 | consensus 47.4 | previous 47.4
-
----
-
-### 2026-07-03 15:50:00  #MKT News #Economic Calendar #Important
-
-France | Composite PMI Final (Jun) | actual 47.2 | consensus 47.6 | previous 47.6
-
----
-
-### 2026-07-03 15:49:36  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-【Italy services PMI returns to expansion; input-cost pressures ease】S&P Global Italy services PMI rose to 50.2 in June from 49.4 in May, breaching the 50 expansion threshold for the first time since late-February’s US-Israel strike on Iran and signaling a slight rebound after three months of contraction. Middle East tensions showed signs of easing and the input-cost inflation gauge fell to 62.1 from 66.7 in May — still elevated but the first decline since January — while the prices-charged index eased to 52.8 from 54.1. S&P Global economist Eleanor Dennison said signs of cooling inflation should give service providers and consumers some breathing room.
-
----
-
-### 2026-07-03 15:49:27  #公司
-
-【金煤科技：蔣勇飛辭任公司財務總監職務，葉子玉接任】金煤科技7月3日公告，公司董事會近日收到蔣勇飛的書面辭職報告，蔣勇飛因個人原因申請辭去公司副總經理兼財務總監等職務，且不再擔任公司任何職務，辭職報告自送達董事會之日起生效。公司於2026年7月3日召開第十一屆董事會第二十四次會議，審議透過《關於聘任財務總監的議案》，董事會同意聘任葉子玉為公司財務總監，任期至本屆董事會屆滿日止。
-
----
-
-### 2026-07-03 15:49:19  #公司
-
-【奧浦邁：持股5%以上股東減持股份，持股比例降至4.99%】奧浦邁公告稱，2026年6月2日至7月2日，持股5%以上股東國壽成達透過集中競價交易減持823,296股，佔公司總股本的0.58%。本次權益變動後，國壽成達持股比例從5.70%降至4.99%。此次減持系實施已披露計劃，不觸及要約收購，不會導致控股股東及實控人變化。截至公告披露日，減持計劃尚未實施完畢。
-
----
-
-### 2026-07-03 15:48:48  #國際
-
-市場訊息：日本外相茂木敏充將於8月初訪問拉丁美洲。
-
----
-
-### 2026-07-03 15:48:34  #公司
-
-【北交所終止唐興科技IPO稽核】7月3日，據北交所網站披露，因安徽唐興裝備科技股份有限公司向北交所提交了《安徽唐興裝備科技股份有限公司關於撤回公開發行股票並在北交所上市申請檔案的申請》，申請撤回申請檔案。根據有關規定，北交所決定終止其首次公開發行股票並在北交所上市的稽核。
-
----
-
-### 2026-07-03 15:47:58  #國際
-
-印度駐雅加達大使館：莫迪和普拉博沃將於 7 月 7 日會面。
-
----
-
-### 2026-07-03 15:47:25  #國際
-
-【諾獎得主朱棣文：人類仍有機會逆轉氣候危機但需做更多】眼下，歐洲多國正受到極端熱浪侵襲，氣候變化議題持續受到關注。1997年諾貝爾物理學獎得主、美國前能源部長朱棣文日前在第75屆林道諾貝爾獎得主大會期間接受記者專訪時說，應對氣候危機如同讓已發現冰山的“泰坦尼克”號轉向。目前，人類仍有機會避免氣候危機帶來的最嚴重後果，但這一機會視窗不會無限期存在。（新華社）
-
----
-
-### 2026-07-03 15:46:50  #公司 #國際
-
-【美國一郵輪暴發諾如病毒疫情 125人感染】美國疾病控制和預防中心通報稱，2日停靠在美國舊金山的公主郵輪公司“紅寶石公主號”近日暴發諾如病毒疫情。該船6月12日從舊金山出發，進行為期20天的往返航程，途中102名乘客和23名船員感染諾如病毒，出現嘔吐、腹瀉、腹痛等症狀。船上共有3000多名乘客和1100多名船員。郵輪公司已啟動強化消毒措施，並在靠港後進行全面清潔。諾如病毒是引發急性胃腸炎的常見病原體，感染後通常會出現嘔吐、腹瀉等症狀。該病毒傳染性較強，可透過直接接觸感染者、接觸被汙染的物體表面或攝入被汙染的食物和水傳播。 (央視新聞)
-
----
-
-### 2026-07-03 15:46:43  #公司
-
-【華燦光電旗下蘇州公司增資至25億 增幅約67%】天眼查App顯示，近日，京東方華燦光電（蘇州）有限公司發生工商變更，註冊資本由15億人民幣增至25億人民幣，增幅約67%。該公司成立於2012年9月，法定代表人為張毓，經營範圍包括半導體分立器件製造、半導體照明器件製造、顯示器件製造、光電子器件製造等，由華燦光電（300323）全資持股。
-
----
-
-### 2026-07-03 15:46:25  #公司
-
-【甬金股份：實控人因內幕交易獲刑 不影響公司經營償債】甬金股份公告稱，公司實際控制人曹佩鳳因涉嫌內幕交易、洩露內幕資訊罪，於2025年7月9日被取保候審，2026年7月2日，浙江省金華市中級人民法院對該案判決，曹佩鳳被判處有期徒刑三年，緩刑四年，並處罰金100萬元，已退出的違法所得54.92萬元予以沒收。截至報告披露日，曹佩鳳未擔任公司董事或高管職務，判決不影響其股東權利行使及公司管理層運作，未對公司生產經營及償債能力產生重大不利影響。
-
----
-
-### 2026-07-03 15:45:40  #宏觀 #公司
-
-【市場監管總局釋出2026年6月22日—6月28日無條件批准經營者集中案件列表】市場監管總局釋出2026年6月22日—6月28日無條件批准經營者集中案件列表，其中包括摩科瑞能源集團有限公司與塔塔國際新加坡有限公司新設合營企業案、大家投資控股有限責任公司收購北京鼎固鼎好實業有限公司股權案、伊藤忠科技決策株式會社與精誠資訊股份有限公司新設合營企業案、洛陽數智科技發展有限公司與北京啟明星辰資訊保安技術有限公司新設合營企業案、中集安瑞科投資有限公司與浙江青展控股集團有限公司新設合營企業案、蘇伊士投資有限公司收購巡鷹新能源（江蘇）有限公司股權案、霍尼韋爾國際公司收購Johnson Matthey Davy Technologies Limited等三家公司股權案。
-
----
-
-### 2026-07-03 15:45:35  #MKT News #USDJPY #Impact bullish #DXY
-
-【Root cause of four failed yen intervention measures lies outside Japan】The yen briefly hit its weakest level since 1986. More market-relevant than the level is that Japan has exhausted conventional policy levers yet the currency kept weakening: 1) rate hikes failed to stop the decline; 2) record defence spending did not support the yen; 3) repeated official warnings and calls for decisive action had no effect; 4) stabilising oil prices did not arrest depreciation. The common failure points to constraints in the global dollar funding system. When that system functions normally trade and credit expand, allowing currencies like the yen to appreciate; when it is strained, dollar scarcity hits economies exposed to global trade and dollar-priced imports regardless of domestic central bank policy.
-
----
-
-### 2026-07-03 15:45:09  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Italy June services PMI 50.2, below expected 50.5 and up from May's 49.4.
-
----
-
-### 2026-07-03 15:45:06  #資料
-
-義大利6月綜合PMI 50.8，預期50.9，前值50.4。義大利6月服務業PMI 50.2，預期50.5，前值49.4。
-
----
-
-### 2026-07-03 15:45:06  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-Italy June composite PMI 50.8, below 50.9 expected and up from May's 50.4.
-
----
-
-### 2026-07-03 15:45:00  #MKT News #Economic Calendar #Important
-
-Italy | Services PMI (Jun) | actual 50.2 | consensus 50.5 | previous 49.4
-
----
-
-### 2026-07-03 15:44:00  #市場
-
-港股機器人概念股尾盤延續強勢，來福諧波(03952.HK)漲超50%，埃斯頓(02715.HK)漲超30%，優必選(09880.HK)、兆威機電(02692.HK)等跟漲。
-
----
-
-### 2026-07-03 15:43:59  #公司
-
-【中國商火全資收購龍行火箭 上海航天技術研究院等退出】企查查工商資訊顯示，中國航天科技集團商業火箭有限公司近日已完成對龍行火箭技術（上海）有限公司的100%全資收購，認繳出資額2000萬元。龍行火箭成立於2025年9月，其歷史股東包括上海航天技術研究院、上海宇航系統工程研究所、上海航天控制技術研究所，現均已退出股東行列。此次全資控股標誌著航天科技集團商業火箭公司正式將龍行火箭納入運營體系，實現了對這家上海本地商業火箭技術企業的整合。
-
----
-
-### 2026-07-03 15:43:41  #公司
-
-【陝鼓動力：籌劃發行股份購買秦風氣體36.06%股權 股票繼續停牌】陝鼓動力公告稱，公司正籌劃透過發行股份購買陝西秦風氣體股份有限公司少數股東持有的36.06%股權，本次交易構成關聯交易，預計不構成重大資產重組且不會導致實控人變更。公司股票自6月29日起停牌，截至公告披露日，相關工作正推進，因事項存在不確定性，股票將繼續停牌，公司將及時披露進展並儘快申請復牌。
-
----
-
-### 2026-07-03 15:43:38  #公司 #國際
-
-【娃哈哈一款茶飲遭美國FDA“進口警報” 知情人士回應：系經銷商私自出口行為】近日，美國FDA（美國食品藥品監督管理局）披露的一份“進口警報”檔案顯示，娃哈哈集團2026年4月6日生產的一款“紅茶及檸檬調味茶”飲料中檢測出甜蜜素。7月3日，接近娃哈哈的知情人士向記者透露，這款產品完全符合中國食品安全國家標準，這次事件是經銷商未經授權私自出口的個人行為，不是企業官方行為，娃哈哈內部還在核查中。（每經）
-
----
-
-### 2026-07-03 15:42:38  #Trading Economics #Economy #Georgia #Inflation Rate #Importance 1
-
-Georgia Inflation Rate Ticks Higher — Georgia's annual inflation rate edged up to 5.8% in June 2026 from 5.7% in the previous month. Price growth accelerated across major categories, including food and non-alcoholic beverages (5.6% vs 5.2% in May), housing and utilities (7.2% vs 7.0%), and transport (16.5% vs 15.1%). Overall inflation was also influenced by a rebound in recreation and culture (0.9% vs -0.1%) and stronger increases in restaurant and hotel costs (8.4% vs 7.6%), while costs for education remained unchanged at 2.4%. Meanwhile, price pressures eased for alcoholic beverages and tobacco (5.4% vs 7.2%), clothing and footwear (2.1% vs 3.0%), health (4.7% vs 5.1%), and miscellaneous goods and services (7.3% vs 8.0%). In addition, deflation deepened for furnishings, household equipment, and routine household maintenance (-2.2% vs -1.3%). On a monthly basis, consumer prices rose 0.1% in June, slowing from 0.3% in May and marking the weakest monthly increase since December 2025.
-
----
-
-### 2026-07-03 15:42:22  #公司
-
-【上海建工：獲政府補助3.48億元 佔近一期歸母淨利潤28.1%】上海建工公告稱，2026年7月3日，公司及下屬子公司收到與收益相關的政府補助合計3.48億元，佔公司最近一期經審計歸母淨利潤的28.1%。根據相關規定，公司將上述補助確定為“其他收益”並計入當期損益，具體會計處理和對當期損益的影響以審計報告為準。
-
----
-
-### 2026-07-03 15:41:20  #Trading Economics #Economy #Spain #Composite PMI #Importance 1
-
-Spain Private Sector Gains Momentum — The HCOB Spain Composite PMI rose to 53.3 in June 2026 from 50.2 in May, signaling a second straight month of expansion and the strongest growth since December 2025. The services sector carried overall growth, as manufacturing output returned to contraction for the first time in three years. New orders increased overall, as a marked rise in demand for services more than offset a sharp decline in new business received by manufacturers. Meanwhile, inflationary pressures eased during the month, as rates of inflation softened. Looking forward, business confidence improved to its highest level since February.
-
----
-
-### 2026-07-03 15:41:14  #公司
-
-【浙商中拓、建邦集團成立產業運營服務公司 註冊資本1000萬】天眼查App顯示，近日，建邦中拓（浙江）產業運營服務有限公司成立，法定代表人為張闖，註冊資本1000萬人民幣，經營範圍包括企業管理、金屬材料銷售、金屬製品銷售、供應鏈管理服務等。股東資訊顯示，該公司由浙商中拓集團股份有限公司、山西建邦集團有限公司共同持股。
 
 ---

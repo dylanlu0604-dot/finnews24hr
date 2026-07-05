@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 23:33:51_
-_本檔包含 2504 則快訊，約 505974 字_
+_更新時間：2026-07-06 00:38:56_
+_本檔包含 2504 則快訊，約 506689 字_
+
+---
+
+### 2026-07-01 03:17:17  #MKT News
+
+U.S. Vice President Vance said Lebanon and Israel are holding direct talks in ways that did not exist months ago and have reached some degree of alignment.
+
+---
+
+### 2026-07-01 03:17:17  #MKT News
+
+U.S. Vice President Vance said the current situation has "indeed changed", but the key question is whether the change can be sustained.
+
+---
+
+### 2026-07-01 03:16:30  #MKT News
+
+U.S. Vice President Vance said the United States seeks sustainable, verifiable commitments, secured by on-site inspections, aimed at ensuring Iran's complete denuclearization.
+
+---
+
+### 2026-07-01 03:16:00  #國際
+
+伊朗議會議長卡利巴夫： 鈾濃縮是我們的合法權利，同時我們遵守《不擴散核武器條約》相關規定。
+
+---
+
+### 2026-07-01 03:15:20  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
+
+ECB Governing Council member Kazaks said there is currently no need to take forceful measures to address inflation and it is difficult to predict developments in July and September.
+
+---
+
+### 2026-07-01 03:15:12  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
+
+ECB governing council member KAZAKS said if conditions improve the bank may not raise rates further, and the urgency for consecutive rate hikes has eased significantly.
+
+---
+
+### 2026-07-01 03:14:35  #央行 #國際
+
+歐洲央行卡扎克斯： 很難預判 7 月、9 月政策走向。
+
+---
+
+### 2026-07-01 03:14:18  #宏觀 #央行 #焦點 #國際
+
+歐洲央行卡扎克斯：若形勢好轉，或將不再進一步加息。 當前無需出臺強力抗通脹舉措。
+
+---
+
+### 2026-07-01 03:14:06  #MKT News
+
+Ghalibaf, speaker of Iran's parliament, said uranium enrichment is Iran's right and that Iran is complying with relevant provisions of the Nuclear Non‑Proliferation Treaty.
+
+---
+
+### 2026-07-01 03:13:47  #央行 #國際
+
+歐洲央行卡扎克斯： 連續加息的緊迫性已大幅下降。
+
+---
+
+### 2026-07-01 03:12:45  #國際
+
+伊朗議會議長卡利巴夫： 我方正與海灣沿岸各國交換意見。
+
+---
+
+### 2026-07-01 03:12:25  #MKT News #WTI #Impact bullish #Brent #DXY #Impact mixed
+
+Ghalibaf, speaker of Iran's parliament, said sovereignty over the Strait of Hormuz belongs to Iran and Oman, that Iran will determine arrangements for passage, and that Tehran will consult Persian Gulf littoral states on transit procedures.
+
+---
+
+### 2026-07-01 03:12:03  #國際
+
+【戰爭擾亂中東供應 美國4月石油產量和出口量創歷史新高】美國4月石油產量和出口量雙雙創下歷史新高。由於伊朗戰爭干擾了波斯灣的運輸，全球買家轉向美國石油尋找替代供應。自伊朗戰爭爆發以來，已有數億桶美國原油和燃料從德州和路易斯安那州的港口運出，史上最嚴重的能源供應中斷迫使歐洲和亞洲買家爭相採購。美國能源部週二公佈的資料反映出美國石油行業由此迎來的繁榮。根據美國能源資訊管理局的資料，4月美國陸上抽油機和海上鑽井平臺日產石油1393萬桶，創美國曆史最高月度產量紀錄。4月美國石油出口達到創紀錄的每日1360萬桶，較戰爭爆發前的2月增加230萬桶。
+
+---
+
+### 2026-07-01 03:12:02  #MKT News
+
+Israeli Prime Minister NETANYAHU said the war has never truly ended and that survival in the Middle East and globally requires remaining strong, adding that Israel is now stronger than ever.
+
+---
+
+### 2026-07-01 03:11:37  #國際
+
+伊朗議會議長卡利巴夫： 霍爾木茲海峽主權歸屬於伊朗與阿曼，海峽航運通行須遵循伊朗制定的相關安排。
+
+---
+
+### 2026-07-01 03:10:48  #MKT News
+
+Iranian parliament speaker Ghalibaf said under the memorandum of understanding 'cost-free transit' through the Strait of Hormuz is limited to 60 days.
+
+---
+
+### 2026-07-01 03:10:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's chief negotiator Ghalibaf said Iran will never compromise on its rights in the Strait of Hormuz.
+
+---
+
+### 2026-07-01 03:10:07  #國際
+
+伊朗議會議長卡利巴夫： 根據諒解備忘錄約定，霍爾木茲海峽免費通航政策僅維持 60 天。
+
+---
+
+### 2026-07-01 03:09:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said that after the blockade was lifted the other side withdrew, and commercial shipping and oil tanker transit through the Gulf of Oman and the Strait of Hormuz have returned to normal.
+
+---
+
+### 2026-07-01 03:09:19  #國際
+
+伊朗議會議長卡利巴夫： 伊朗絕不會在霍爾木茲海峽的自身權益問題上妥協。
+
+---
+
+### 2026-07-01 03:08:30  #MKT News #XAUUSD #Impact bullish #WTI
+
+Iranian parliament speaker Ghalibaf said Iran's missile capabilities and ties with regional "resistance organizations" are non-negotiable and not open to talks.
+
+---
+
+### 2026-07-01 03:08:17  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said Iran has exported more than 40 million barrels of oil since sanctions were lifted.
+
+---
+
+### 2026-07-01 03:07:50  #國際
+
+伊朗議會議長卡利巴夫： 自我方解除封鎖之日至今，伊朗原油出口量已超 4000 萬桶。
+
+---
+
+### 2026-07-01 03:07:29  #國際
+
+伊朗議會議長卡利巴夫：將成立由伊朗、美國及黎巴嫩參與的聯合委員會，推動黎巴嫩主權與停火落實，伊朗駐外代表將參與該機制。自瑞士之行後，黎巴嫩的火力衝突與傷亡規模呈下降趨勢，但仍存在問題。前往瑞士的訪問也是圍繞五項條款執行情況進行溝通。對話的目的只是推動既有談判成果落地。
+
+---
+
+### 2026-07-01 03:06:44  #MKT News
+
+Iranian parliament speaker Ghalibaf said his visit to Switzerland also focused on discussions over implementation of five terms, and that the talks' sole purpose was to press for implementation of existing negotiation outcomes.
+
+---
+
+### 2026-07-01 03:05:48  #MKT News
+
+Iran's parliament speaker Ghalibaf said that since his trip to Switzerland the intensity of armed exchanges and the scale of casualties in Lebanon have trended down, but problems remain.
+
+---
+
+### 2026-07-01 03:05:16  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7880元，較週一夜盤收盤漲80點。成交量551.49億美元。
+
+---
+
+### 2026-07-01 03:04:47  #MKT News #PBR.O #Impact bearish
+
+Brazil's finance minister said fuel prices remain slightly above pre-war levels, which partly supports retaining some subsidy measures.
+
+---
+
+### 2026-07-01 03:03:23  #MKT News
+
+Ghalibaf said uranium enrichment rights are a core, non-negotiable component of Iran's national strength.
+
+---
+
+### 2026-07-01 03:03:13  #MKT News
+
+Iran's parliament speaker Ghalibaf said the Islamabad memorandum of understanding explicitly reaffirms Lebanon's independence and territorial integrity.
+
+---
+
+### 2026-07-01 03:03:02  #MKT News
+
+Iranian parliament speaker Ghalibaf said even when negotiating with the U.S. Iran is not negotiating with a "friend" but with an "untrustworthy opponent" that will act against Iran at the first opportunity.
+
+---
+
+### 2026-07-01 03:02:58  #焦點 #國際
+
+伊朗議會議長卡利巴夫：各方已商定由伊朗、美國、黎巴嫩成立委員會，監督黎巴嫩戰事收尾工作。
+
+---
+
+### 2026-07-01 03:02:07  #宏觀
+
+巴西財政部長：巴西將遵守財政目標。政府正在討論逐步退出相關政策，並將在適當時機採取相應措施。關於汽油補貼的討論已接近結束，未來將在價格壓力緩解後逐步取消補貼。
+
+---
+
+### 2026-07-01 03:01:46  #MKT News #Market Regions #Emerging Markets
+
+Brazil's finance minister said the government will adhere to fiscal targets and is discussing a gradual withdrawal of related policies, with measures to be implemented at an appropriate time. Talks on gasoline subsidies are nearly complete; subsidies will be phased out once price pressures ease.
 
 ---
 
@@ -14852,209 +15056,5 @@ Israeli broadcaster i24NEWS reported that planned U.S.-Iran talks have been canc
 ### 2026-06-29 00:39:57  #國際
 
 俄羅斯總統普京：保障燃油供應增量、制定符合經濟規律的合理價格，是穩定燃油市場的系統性舉措。
-
----
-
-### 2026-06-29 00:38:28  #MKT News
-
-Russia's President Putin said gas stations nationwide have seen long queues and public demand for gasoline is at times exceeding supply.
-
----
-
-### 2026-06-29 00:37:45  #國際
-
-俄羅斯總統普京：各地加油站前排起長隊，市面上時常供應不上民眾所需標號的汽油。
-
----
-
-### 2026-06-29 00:37:13  #MKT News #WTI #Impact bullish #Brent
-
-Putin said Russia has begun drawing on its fuel reserves, but gasoline inventories remain flat YoY.
-
----
-
-### 2026-06-29 00:36:58  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
-
-Russian President Putin said Russia is considering a comprehensive ban on diesel exports.
-
----
-
-### 2026-06-29 00:35:52  #MKT News
-
-Putin said Russia’s largest refineries are operating at full capacity.
-
----
-
-### 2026-06-29 00:35:52  #國際
-
-俄羅斯總統普京：當前汽油庫存170萬噸，同比下降4%。
-
----
-
-### 2026-06-29 00:35:41  #MKT News
-
-Putin said previously stockpiled fuel has been supplied to Russia's domestic market.
-
----
-
-### 2026-06-29 00:35:27  #MKT News
-
-Putin said Russia's gasoline stocks reached 1.7 mln tonnes.
-
----
-
-### 2026-06-29 00:34:44  #國際
-
-俄羅斯總統普京：正考慮全面實施柴油出口禁令，相關事宜將展開研討。
-
----
-
-### 2026-06-29 00:34:23  #國際
-
-俄羅斯總統普京：當前汽油庫存基本與去年同期持平。
-
----
-
-### 2026-06-29 00:34:15  #國際
-
-俄羅斯總統普京：國內煉油廠已滿負荷運轉。
-
----
-
-### 2026-06-29 00:34:05  #國際
-
-俄羅斯總統普京：俄羅斯7月燃油計劃產量將高於6月。
-
----
-
-### 2026-06-29 00:33:53  #MKT News
-
-【5.5 magnitude quake in Gao County, Yibin, Sichuan; depth 6 km】cenc measured a magnitude-5.5 earthquake at 00:12 on June 29 in Gao County, Yibin, Sichuan; focal depth 6 km.
-
----
-
-### 2026-06-29 00:29:44  #其他 #焦點
-
-中國地震臺網正式測定：06月29日00時12分，在四川宜賓市高縣(北緯28.50度，東經104.69度)發生5.5級地震，震源深度6公里。
-
----
-
-### 2026-06-29 00:29:39  #其他
-
-訊息人士：受戰事再度爆發影響，原定於本週在瑞士舉行的美伊談判已暫停。
-
----
-
-### 2026-06-29 00:25:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Richmond Fed President Barkin, a 2027 FOMC voting member, is scheduled to speak in ten minutes.
-
----
-
-### 2026-06-29 00:21:00  #MKT News
-
-【Approx. magnitude-5.5 quake near Gao County, Yibin, Sichuan】cenc automatic determination: 2026-06-29 00:12 — an approximately magnitude-5.5 earthquake occurred in Gao County, Yibin, Sichuan. Final parameters subject to the formal rapid report.
-
----
-
-### 2026-06-29 00:20:28  #其他
-
-【四川宜賓市高縣附近發生5.5級左右地震】據中國地震臺網自動測定：2026年6月29日0時12分在四川宜賓市高縣（北緯28.50度，東經104.70度）發生5.5級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-29 00:17:04  #國際
-
-沙特王儲穆罕默德·本·薩勒曼與法國總統馬克龍於週日通電話，雙方討論了美伊諒解備忘錄的最新進展，以及為實現地區安全與穩定尋求全面解決方案的相關努力。二人還著重強調保障航行自由的重要性，並表態支援旨在緩和緊張局勢的外交行動。
-
----
-
-### 2026-06-29 00:16:33  #MKT News
-
-According to AXIOS, the US has asked Israel to make two edits to an agreement text to secure a deal: withdraw Israeli forces from a village in southern Lebanon currently under Israeli occupation, and add explicit language that the move would mark the start of a broader withdrawal from Lebanon.
-
----
-
-### 2026-06-29 00:12:48  #國際
-
-【中國代表在聯合國揭批日本人權劣跡】近日，中國代表團副團長李笑梅在聯合國人權理事會第62屆會議婦女權利問題研討會上發言，揭批日本人權劣跡。李笑梅指出，今年是東京審判開庭80週年，強徵“慰安婦”是日本軍國主義犯下的針對婦女的嚴重反人類罪行。中方敦促日本深刻反省侵略歷史，以誠實態度妥善處理歷史遺留問題。（CCTV國際時訊）
-
----
-
-### 2026-06-29 00:09:35  #其他
-
-黎巴嫩議會議長：必須避免衝突，盡一切努力維護、守護地區穩定與民間和平。
-
----
-
-### 2026-06-29 00:08:44  #MKT News
-
-Lebanon's parliament speaker reiterated the need to avoid conflict and said he would do everything possible to preserve stability and social peace.
-
----
-
-### 2026-06-29 00:06:50  #MKT News
-
-【Australia's Firmus to partner with NVIDIA on Indonesian data center】Australia AI infrastructure firm Firmus Technologies Pty Ltd will partner with NVIDIA to build its first data center in Indonesia. A revenue-share and credit-support agreement allows Firmus to procure NVIDIA infrastructure for customers and covers up to 170,000 NVIDIA AI accelerator chips in 2027-28; the deal could generate up to $30bn of offtake (committed purchase) revenue over the project's first six years.
-
----
-
-### 2026-06-29 00:05:40  #其他
-
-伊拉克在反腐行動中拘留的官員包括負責分銷事務的副石油部長。
-
----
-
-### 2026-06-28 23:58:32  #其他
-
-沙特王儲與法國總統表態支援旨在緩和緊張局勢的外交行動。
-
----
-
-### 2026-06-28 23:58:26  #其他
-
-沙特王儲與法國總統強調保障航行自由的重要性。
-
----
-
-### 2026-06-28 23:58:16  #其他
-
-沙特王儲與法國總統探討推動實現地區安全的綜合性解決途徑。
-
----
-
-### 2026-06-28 23:58:08  #其他
-
-沙特王儲同法國總統談及美伊諒解備忘錄最新動態。
-
----
-
-### 2026-06-28 23:50:59  #其他
-
-沙特王儲同法國總統會晤，共同探討為實現地區安全尋求全面解決方案的相關舉措。
-
----
-
-### 2026-06-28 23:48:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran urges US to set timetable for Israel's unconditional withdrawal from occupied Lebanese territory】Iran on Sunday urged the United States to set a timetable to push Israel to unconditionally withdraw from occupied Lebanese territory under a memorandum-of-understanding framework to end the conflict, Iranian Foreign Ministry spokesman Baghaei said. He said ending Israel’s military actions and withdrawal from all occupied Lebanese territory is a necessary condition for a final, sustainable agreement and regional stability, and Tehran is calling for a prompt determination of such a withdrawal timetable.
-
----
-
-### 2026-06-28 23:44:02  #國際
-
-科技記者馬克·古爾曼：結合往年規律來看，蘋果iPhone 18 Pro以及iPhone Ultra最有可能的釋出日期為9月8日週二或9月9日週三。但9月7日是美國勞工節，考慮到需要留出一天緩衝出行，蘋果或許會傾向選擇9月9日召開釋出會。
-
----
-
-### 2026-06-28 23:41:37  #國際
-
-巴基斯坦外交部：巴外長與沙特外長通電話，雙方對地區局勢發展深表關切。
-
----
-
-### 2026-06-28 23:38:46  #其他
-
-【體操亞錦賽中國隊單日斬獲兩金】第13屆亞洲體操錦標賽、第19屆亞洲青年體操錦標賽女子單項決賽28日在貴州省遵義市奧體中心收官。中國隊張清穎奪得成年組平衡木冠軍，張怡涵榮獲成年組自由體操冠軍，陳紫嫣勇奪青年組平衡木冠軍。
 
 ---

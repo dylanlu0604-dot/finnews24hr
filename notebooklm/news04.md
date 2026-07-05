@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 23:33:51_
-_本檔包含 2406 則快訊，約 505865 字_
+_更新時間：2026-07-06 00:38:56_
+_本檔包含 2408 則快訊，約 506695 字_
+
+---
+
+### 2026-07-01 20:07:27  #公司
+
+【行雲科技：控股子公司海南行雲簽訂5年總金額55.08億元算力服務合同】行雲科技公告，控股子公司海南行雲智算科技有限公司與VC客戶簽署了《計算平臺服務協議》及《補充協議》，海南行雲向VC客戶提供算力服務，協議服務期限為5年，含稅總金額為55.08億元。
+
+---
+
+### 2026-07-01 20:07:12  #公司 #觀點
+
+高盛私人信貸公司：加上第二季度的資金流入，該基金上半年總認購毛額超過13億美元。
+
+---
+
+### 2026-07-01 20:07:06  #MKT News
+
+Goldman Sachs private credit unit said Q2 inflows totaled $275 million; net asset value was $9.2 billion as of March 31.
+
+---
+
+### 2026-07-01 20:06:43  #公司 #觀點
+
+【泰禾股份：股東擬合計減持不超過1%公司股份】泰禾股份(301665)7月1日公告，股東光大證券資管－招商銀行－光證資管泰禾股份員工參與創業板戰略配售1號集合資產管理計劃擬以集中競價交易或大宗交易方式減持公司股份累計不超過79.45萬股（佔公司總股本比例為0.18%）；光大證券資管－招商銀行－光證資管泰禾股份員工參與創業板戰略配售2號集合資產管理計劃擬以集中競價交易或大宗交易方式減持公司股份累計不超過370.55萬股（佔公司總股本比例為0.82%）。
+
+---
+
+### 2026-07-01 20:06:34  #公司
+
+【盈方微：控股子公司聯合無線香港擬以自有資金1000萬美元投資設立全資子公司】盈方微公告，控股子公司聯合無線香港擬以自有資金1000萬美元投資設立全資子公司聯合無線（武漢）有限公司。2026年7月1日，公司召開董事會並審議透過了該議案。本次投資尚需提交股東會審議，不涉及關聯交易，不構成重大資產重組。
+
+---
+
+### 2026-07-01 20:06:30  #其他
+
+【思特威新一代高速光互連方案亮相慕尼黑上海電子展，有望2027年商用落地】在今日舉行的慕尼黑上海電子展上，思特威新一代高速光互連方案首次亮相。該方案利用MicroLED作為光源替代傳統鐳射器，可將光電轉換效率提升30%。現場展示的資料顯示，MicroLED單通道傳輸速率已突破3Gbps，典型功耗低至0.8pJ/bit。思特威高速光互聯BG聯席總經理王文軒表示，MicroLED高速光互連方案有望在2027年商用落地。
+
+---
+
+### 2026-07-01 20:06:08  #國際
+
+喬治亞總統將出席伊朗最高領袖的葬禮。
+
+---
+
+### 2026-07-01 20:05:54  #其他
+
+【民航局局長宋志勇會見英國交通大臣】7月1日，中國民用航空局局長宋志勇在京會見英國交通大臣海蒂·亞歷山大，雙方圍繞加強互聯互通、民航綠色轉型、機場運營管理、低空經濟發展等議題深入交換意見，表示將進一步深化中英兩國民航各領域合作，實現互利共贏。
+
+---
+
+### 2026-07-01 20:05:48  #MKT News
+
+France's CAC 40 fell 1.00% intraday.
+
+---
+
+### 2026-07-01 20:05:44  #MKT News
+
+Baltic Dry Index rises 2.44% to 2,562.
+
+---
+
+### 2026-07-01 20:05:42  #其他
+
+波羅的海乾散貨指數漲2.44%，至2562點。
+
+---
+
+### 2026-07-01 20:05:40  #公司
+
+【西麥食品：實際控制人及其一致行動人擬減持不超過0.8927%股份】西麥食品公告，公司股東賀州銅麥企業管理諮詢中心（有限合夥）（持股1.94%）、實際控制人XIE LILING（持股1.88%）及其一致行動人謝世誼（持股1.80%）、謝玉菱（持股1.81%）計劃自2026年7月23日至2026年10月22日，以集中競價交易方式合計減持不超過279萬股，佔公司總股本比例0.8927%。其中賀州銅麥擬減持不超過165萬股（佔比0.5279%），XIE LILING擬減持不超過30萬股（佔比0.096%），謝世誼、謝玉菱各擬減持不超過42萬股（各佔比0.1344%）。
+
+---
+
+### 2026-07-01 20:05:38  #其他
+
+【中國—越南跨境經濟合作區建設磋商推進工作組第一次會議在廣西南寧召開】6月29日，商務部副部長兼國際貿易談判副代表凌激與越南工貿部副部長潘氏勝在廣西南寧共同召開中國—越南跨境經濟合作區建設磋商推進工作組第一次會議。凌激表示，建設中越跨境經濟合作區是兩黨兩國最高領導人達成的重要共識，也是構建更高水平具有戰略意義的中越命運共同體的務實舉措。中越兩國產供鏈深度融合，貿易投資合作日益緊密，為加快推進跨境經濟合作區建設創造良好基礎。雙方工作組開展了專業深入、卓有成效的討論，就建設跨境經濟合作區政府間協議框架要素、建立三級聯動工作機制等事項達成基本共識。雙方要充分發揮磋商推進工作組機制統籌協調作用，從中央和地方層面抓緊開展後續工作，加強規劃協同、政策協同、建設協同、招商協同，以高質量建設跨境經濟合作區不斷深化中越經貿合作，實現優勢互補、互利共贏。
+
+---
+
+### 2026-07-01 20:05:29  #MKT News
+
+Goldman Sachs private credit unit intends to accept share repurchase requests equivalent to 3.24% of its total issued shares as of March 31.
+
+---
+
+### 2026-07-01 20:05:26  #公司 #國際
+
+【伊朗稱一艘外國船隻擱淺 重申必須與該國協調方可透過霍爾木茲海峽】伊朗表示，一艘外國集裝箱船在經由一條“未經授權”的航線透過霍爾木茲海峽時擱淺，並重申警告稱，船隻只有在與伊朗協調後才應透過這條水道。伊朗國有電視臺的報道沒有披露該船名稱，也沒有說明事件發生地點。報道稱：“伊斯蘭革命衛隊海軍已多次警告船長、船東和全球航運公司的官員，在波斯灣經由授權航線以外的任何航線進出，都可能導致不可挽回的後果。”截至英國時間週三上午10:30，負責監測該地區安全形勢的英國海上貿易行動辦公室尚未報告海峽周邊發生任何事件。
+
+---
+
+### 2026-07-01 20:05:16  #公司
+
+【三瑞智慧：預計2026年上半年淨利潤同比增長51.63%～89.07%】三瑞智慧公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為2.43億元～3.03億元，比上年同期增長51.63%～89.07%。扣除非經常性損益後的淨利潤為2.33億元～2.93億元，比上年同期增長52.26%～91.46%。報告期內，公司所處的無人機動力系統和機器人動力系統行業保持向好態勢，下游市場的持續拓展及行業整體規模的不斷擴張，極大有效地釋放動力系統的需求。
+
+---
+
+### 2026-07-01 20:05:05  #MKT News #Important #Macro & Rates #DXY #Impact mixed #EURUSD #US10Y
+
+U.S. June ADP private payrolls due in 10 minutes.
+
+---
+
+### 2026-07-01 20:04:46  #公司
+
+【桂林旅遊：獲得政府補助470萬元 預計增利450萬元】桂林旅遊公告稱，公司及全資子公司漓勝公司於2026年6月30日收到政府補助合計470萬元，其中公司獲390萬元，佔2025年度歸母淨利潤的35.35%；漓勝公司獲80萬元，佔比7.25%。該補助均屬與收益相關且與日常經營活動相關，擬計入其他收益，預計增加2026年度歸母淨利潤約450萬元，具體以審計結果為準。
+
+---
+
+### 2026-07-01 20:04:29  #國際
+
+烏克蘭向歐盟和平基金申請66億歐元軍事援助。
+
+---
+
+### 2026-07-01 20:03:14  #觀點
+
+高盛私人信貸計劃按3.24%比例受理贖回申請。
+
+---
+
+### 2026-07-01 20:03:07  #MKT News #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
+
+In 1H 2026, companies newly listed on Nasdaq raised $129.3 bln.
+
+---
+
+### 2026-07-01 20:02:43  #宏觀 #焦點
+
+【7月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.慶祝中國共產黨成立105週年大會在京隆重舉行； 2.《求是》雜誌發表習近平總書記重要文章《做焦裕祿式的縣委書記》； 3.習近平致電祝賀德拉埃斯普列亞當選哥倫比亞總統； 4.踐行初心使命 不斷創造無愧於時代和人民的新業績——習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話引發熱烈反響； 5.央視快評：牢記三個“務必” 奮力創造新的歷史輝煌； 6.慶祝中國共產黨成立105週年音樂會今晚播出； 7.世界政黨政要熱烈祝賀中國共產黨成立105週年； 8.香港舉行升旗儀式慶祝迴歸祖國29週年； 9.聯播快訊： （1）中央檔案館向社會集中開放一批館藏檔案； （2）全國鐵路暑運啟動 預計傳送旅客10.1億人次； （3）我國今天全面進入主汛期； （4）北京市郊鐵路城市副中心線西段開通運營； （5）中企參建的阿聯酋首條客運鐵路試運營； （6）委內瑞拉一3歲兒童在強震6天后獲救； （7）聯合國報告稱極端天氣將衝擊交通系統。
+
+---
+
+### 2026-07-01 20:02:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D rose 1.13% to 881.0 yuan/gram in early trade of the July 1 (Wednesday) evening session. Silver T+D rose 1.45% to 14,339.0 yuan/kg.
+
+---
+
+### 2026-07-01 20:02:04  #其他
+
+納斯達克2026年上半年新股募資總額達1293億美元。
+
+---
+
+### 2026-07-01 20:01:16  #市場
+
+COTALITY：紐西蘭6月房價指數環比下跌0.2%。
+
+---
+
+### 2026-07-01 20:00:09  #國際
+
+【檔案顯示：特朗普 2025 年從嘉信理財獲得超 5000 萬美元貸款】根據特朗普向美國政府道德辦公室提交的 2025 年度財產披露檔案，美國總統唐納德・特朗普去年從嘉信理財銀行獲得一筆超過 5000 萬美元的貸款。特朗普在該行持有資產質押信貸額度，這類信貸產品允許借款人以名下投資資產作質押提取現金；但他 2024 年的道德申報檔案中並未披露該筆授信。週二公佈的 2025 年披露檔案顯示，該信貸額度利率為 3.9%，檔案未寫明具體貸款金額與資金用途。
+
+---
+
+### 2026-07-01 19:59:08  #市場
+
+小鵬汽車美股盤前漲超3%。
+
+---
+
+### 2026-07-01 19:59:02  #其他
+
+【國家防總辦公室專題排程養老機構防汛安全工作】7月1日，國家防總辦公室、應急管理部會同民政部、自然資源部、住房城鄉建設部、水利部、中國氣象局組織開展養老機構防汛安全專題影片排程，分析盛夏期間防汛安全形勢，進一步強化養老機構防汛安全管理。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持排程會。會議指出，養老機構服務物件特殊，自救互救能力偏弱，疏散轉移困難，一些養老機構存在極端風險考慮不足、應急預案可操作性不強、人員轉移不落實等問題。當前已進入盛夏，極端暴雨、江河洪水、山洪和地質災害、城鎮內澇等風險增加，養老機構安全度汛形勢不容樂觀。
+
+---
+
+### 2026-07-01 19:59:01  #MKT News #Market Themes #China EV Leaders #XPEV.N #Impact bullish
+
+Xpeng (XPEV.N) rose more than 3% in U.S. premarket; June deliveries were 40,126 vehicles, bringing second-quarter deliveries to 103,295.
+
+---
+
+### 2026-07-01 19:57:57  #其他
+
+慕尼黑機場取消 100 架次航班。
+
+---
+
+### 2026-07-01 19:57:57  #MKT News #Market Themes #China Tech Giants #AI Revolution #BIDU.O #Impact bullish
+
+【Sun Tianxiang joins Baidu as head of Basic Model R&D Unit】Large-model specialist Sun Tianxiang has joined Baidu as head of the Basic Model R&D Unit (BMU) and joined the Baidu Model Committee (BMC). His track record—from developing MOSS and proposing MaaS to subsequent entrepreneurship—is highly aligned with Baidu’s strategic investment in foundation models.
+
+---
+
+### 2026-07-01 19:57:08  #MKT News
+
+Munich Airport in Germany canceled 100 flights due to adverse weather.
+
+---
+
+### 2026-07-01 19:57:06  #公司
+
+【常熟銀行：江南商貿集團增持公司0.47%股份】常熟銀行公告，股東江蘇江南商貿集團有限責任公司於2026年6月9日至2026年6月30日期間，透過集中競價交易方式合計增持本行股份1712.86萬股，佔本行總股本比例為0.47%。增持前，江南商貿集團持有本行股份1.23億股，持股比例3.37%；增持完成後，其持股數量增至1.4億股，持股比例升至3.84%。本次增持資金來源為自有資金，不觸及要約收購。
+
+---
+
+### 2026-07-01 19:57:03  #公司 #國際
+
+美國平等就業機會委員會起訴Paycom公司，指控其存在殘疾歧視行為。
+
+---
+
+### 2026-07-01 19:56:54  #其他
+
+【97 年的孫天祥加入百度，任基礎模型研發部負責人】近日，大模型領域技術專家孫天祥正式加入百度，就任基礎模型研發部（BMU）負責人。 孫天祥此次同時進入百度模型委員會（BMC），從研發 MOSS 到提出 MaaS 再到其後續創業方向，他的學術與產業路徑與百度基礎模型的戰略投入方向高度契合。 孫天祥此前創業專案日行跡的首輪投資人韓銳評價他，“他絕對是心中有火的人。”（晚點）
+
+---
+
+### 2026-07-01 19:56:30  #市場 #觀點 #央行 #國際
+
+【高盛看多金價至5000美元】7月1日晚，黃金、白銀直線拉昇。現貨黃金重回4000美元/盎司上方。截至19:35，報4023.53美元/盎司。現貨白銀報58.84美元/盎司，日內漲0.48%。值得注意的是，暗盤金價同步上漲0.48%，但暗盤白銀快速跳水，漲幅從4%迅速收窄至0.2%。 受美伊談判不確定性增加、美元走強、美聯儲加息預期等因素影響，國際黃金價格6月下跌超過11%。今年第二季度黃金價格下跌約14%，創下2013年來最大季度跌幅。 據中國黃金網報道，高盛全球大宗商品研究聯合主管薩曼莎·達特表示，過去4個月國際金價的下跌並不意味著全年上漲行情已經結束，全球央行需求將繼續推動貴金屬價格回升至接近5000美元/盎司。（21財經）
 
 ---
 
@@ -14332,209 +14548,5 @@ Brazil's finance minister said the government is carefully assessing a tax on oi
 ### 2026-07-01 03:17:21  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
 
 U.S. Vice President Vance said coordinating a Lebanon-Israel peace arrangement with a U.S.-Iran agreement would see both center on respect for Lebanon's territorial integrity.
-
----
-
-### 2026-07-01 03:17:17  #MKT News
-
-U.S. Vice President Vance said Lebanon and Israel are holding direct talks in ways that did not exist months ago and have reached some degree of alignment.
-
----
-
-### 2026-07-01 03:17:17  #MKT News
-
-U.S. Vice President Vance said the current situation has "indeed changed", but the key question is whether the change can be sustained.
-
----
-
-### 2026-07-01 03:16:30  #MKT News
-
-U.S. Vice President Vance said the United States seeks sustainable, verifiable commitments, secured by on-site inspections, aimed at ensuring Iran's complete denuclearization.
-
----
-
-### 2026-07-01 03:16:00  #國際
-
-伊朗議會議長卡利巴夫： 鈾濃縮是我們的合法權利，同時我們遵守《不擴散核武器條約》相關規定。
-
----
-
-### 2026-07-01 03:15:20  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-ECB Governing Council member Kazaks said there is currently no need to take forceful measures to address inflation and it is difficult to predict developments in July and September.
-
----
-
-### 2026-07-01 03:15:12  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB governing council member KAZAKS said if conditions improve the bank may not raise rates further, and the urgency for consecutive rate hikes has eased significantly.
-
----
-
-### 2026-07-01 03:14:35  #央行 #國際
-
-歐洲央行卡扎克斯： 很難預判 7 月、9 月政策走向。
-
----
-
-### 2026-07-01 03:14:18  #宏觀 #央行 #焦點 #國際
-
-歐洲央行卡扎克斯：若形勢好轉，或將不再進一步加息。 當前無需出臺強力抗通脹舉措。
-
----
-
-### 2026-07-01 03:14:06  #MKT News
-
-Ghalibaf, speaker of Iran's parliament, said uranium enrichment is Iran's right and that Iran is complying with relevant provisions of the Nuclear Non‑Proliferation Treaty.
-
----
-
-### 2026-07-01 03:13:47  #央行 #國際
-
-歐洲央行卡扎克斯： 連續加息的緊迫性已大幅下降。
-
----
-
-### 2026-07-01 03:12:45  #國際
-
-伊朗議會議長卡利巴夫： 我方正與海灣沿岸各國交換意見。
-
----
-
-### 2026-07-01 03:12:25  #MKT News #WTI #Impact bullish #Brent #DXY #Impact mixed
-
-Ghalibaf, speaker of Iran's parliament, said sovereignty over the Strait of Hormuz belongs to Iran and Oman, that Iran will determine arrangements for passage, and that Tehran will consult Persian Gulf littoral states on transit procedures.
-
----
-
-### 2026-07-01 03:12:03  #國際
-
-【戰爭擾亂中東供應 美國4月石油產量和出口量創歷史新高】美國4月石油產量和出口量雙雙創下歷史新高。由於伊朗戰爭干擾了波斯灣的運輸，全球買家轉向美國石油尋找替代供應。自伊朗戰爭爆發以來，已有數億桶美國原油和燃料從德州和路易斯安那州的港口運出，史上最嚴重的能源供應中斷迫使歐洲和亞洲買家爭相採購。美國能源部週二公佈的資料反映出美國石油行業由此迎來的繁榮。根據美國能源資訊管理局的資料，4月美國陸上抽油機和海上鑽井平臺日產石油1393萬桶，創美國曆史最高月度產量紀錄。4月美國石油出口達到創紀錄的每日1360萬桶，較戰爭爆發前的2月增加230萬桶。
-
----
-
-### 2026-07-01 03:12:02  #MKT News
-
-Israeli Prime Minister NETANYAHU said the war has never truly ended and that survival in the Middle East and globally requires remaining strong, adding that Israel is now stronger than ever.
-
----
-
-### 2026-07-01 03:11:37  #國際
-
-伊朗議會議長卡利巴夫： 霍爾木茲海峽主權歸屬於伊朗與阿曼，海峽航運通行須遵循伊朗制定的相關安排。
-
----
-
-### 2026-07-01 03:10:48  #MKT News
-
-Iranian parliament speaker Ghalibaf said under the memorandum of understanding 'cost-free transit' through the Strait of Hormuz is limited to 60 days.
-
----
-
-### 2026-07-01 03:10:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's chief negotiator Ghalibaf said Iran will never compromise on its rights in the Strait of Hormuz.
-
----
-
-### 2026-07-01 03:10:07  #國際
-
-伊朗議會議長卡利巴夫： 根據諒解備忘錄約定，霍爾木茲海峽免費通航政策僅維持 60 天。
-
----
-
-### 2026-07-01 03:09:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian parliament speaker Ghalibaf said that after the blockade was lifted the other side withdrew, and commercial shipping and oil tanker transit through the Gulf of Oman and the Strait of Hormuz have returned to normal.
-
----
-
-### 2026-07-01 03:09:19  #國際
-
-伊朗議會議長卡利巴夫： 伊朗絕不會在霍爾木茲海峽的自身權益問題上妥協。
-
----
-
-### 2026-07-01 03:08:30  #MKT News #XAUUSD #Impact bullish #WTI
-
-Iranian parliament speaker Ghalibaf said Iran's missile capabilities and ties with regional "resistance organizations" are non-negotiable and not open to talks.
-
----
-
-### 2026-07-01 03:08:17  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian parliament speaker Ghalibaf said Iran has exported more than 40 million barrels of oil since sanctions were lifted.
-
----
-
-### 2026-07-01 03:07:50  #國際
-
-伊朗議會議長卡利巴夫： 自我方解除封鎖之日至今，伊朗原油出口量已超 4000 萬桶。
-
----
-
-### 2026-07-01 03:07:29  #國際
-
-伊朗議會議長卡利巴夫：將成立由伊朗、美國及黎巴嫩參與的聯合委員會，推動黎巴嫩主權與停火落實，伊朗駐外代表將參與該機制。自瑞士之行後，黎巴嫩的火力衝突與傷亡規模呈下降趨勢，但仍存在問題。前往瑞士的訪問也是圍繞五項條款執行情況進行溝通。對話的目的只是推動既有談判成果落地。
-
----
-
-### 2026-07-01 03:06:44  #MKT News
-
-Iranian parliament speaker Ghalibaf said his visit to Switzerland also focused on discussions over implementation of five terms, and that the talks' sole purpose was to press for implementation of existing negotiation outcomes.
-
----
-
-### 2026-07-01 03:05:48  #MKT News
-
-Iran's parliament speaker Ghalibaf said that since his trip to Switzerland the intensity of armed exchanges and the scale of casualties in Lebanon have trended down, but problems remain.
-
----
-
-### 2026-07-01 03:05:16  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7880元，較週一夜盤收盤漲80點。成交量551.49億美元。
-
----
-
-### 2026-07-01 03:04:47  #MKT News #PBR.O #Impact bearish
-
-Brazil's finance minister said fuel prices remain slightly above pre-war levels, which partly supports retaining some subsidy measures.
-
----
-
-### 2026-07-01 03:03:23  #MKT News
-
-Ghalibaf said uranium enrichment rights are a core, non-negotiable component of Iran's national strength.
-
----
-
-### 2026-07-01 03:03:13  #MKT News
-
-Iran's parliament speaker Ghalibaf said the Islamabad memorandum of understanding explicitly reaffirms Lebanon's independence and territorial integrity.
-
----
-
-### 2026-07-01 03:03:02  #MKT News
-
-Iranian parliament speaker Ghalibaf said even when negotiating with the U.S. Iran is not negotiating with a "friend" but with an "untrustworthy opponent" that will act against Iran at the first opportunity.
-
----
-
-### 2026-07-01 03:02:58  #焦點 #國際
-
-伊朗議會議長卡利巴夫：各方已商定由伊朗、美國、黎巴嫩成立委員會，監督黎巴嫩戰事收尾工作。
-
----
-
-### 2026-07-01 03:02:07  #宏觀
-
-巴西財政部長：巴西將遵守財政目標。政府正在討論逐步退出相關政策，並將在適當時機採取相應措施。關於汽油補貼的討論已接近結束，未來將在價格壓力緩解後逐步取消補貼。
-
----
-
-### 2026-07-01 03:01:46  #MKT News #Market Regions #Emerging Markets
-
-Brazil's finance minister said the government will adhere to fiscal targets and is discussing a gradual withdrawal of related policies, with measures to be implemented at an appropriate time. Talks on gasoline subsidies are nearly complete; subsidies will be phased out once price pressures ease.
 
 ---
