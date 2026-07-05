@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 09:40:17",
+  "updated": "2026-07-05 09:44:05",
   "count": 13225,
   "items": [
+    {
+      "id": "4970777",
+      "time": "2026-07-05 09:41:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦批准總長 1600 公里全國輸油管道的最後一段 —— 拉合爾至白沙瓦管線專案，該工程旨在降低燃油運輸成本，但油罐車司機擔憂自身工作受到衝擊。"
+    },
     {
       "id": "4970776",
       "time": "2026-07-05 09:31:46",
@@ -121706,19 +121714,6 @@
         "國際"
       ],
       "text": "【美國肯塔基州洪災致4人死亡】美國肯塔基州因強降雨引發的洪災已造成4人死亡。肯塔基州州長安迪·貝希爾當天宣佈該州進入緊急狀態。據美國國家氣象局釋出的天氣預報，肯塔基州大部分地區的強降雨將持續至當地時間27日23時，部分地區的降雨量將高達7英寸（約合177.8毫米）。貝希爾敦促肯塔基州居民密切關注當地天氣預警，避免不必要的出行，並做好洪水威脅來臨時轉移到地勢較高處的準備。美國國家氣象局針對肯塔基州和印第安納州部分地區釋出了山洪暴發預警。（新華社）"
-    },
-    {
-      "id": "mkt:019f0be4-91d8-7770-9d1c-3d0e78028c23",
-      "time": "2026-06-28 09:42:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Ming-Chi Kuo: iOS 27 to deepen system-level integration with Apple Intelligence】June 27 — TF International Securities analyst Ming-Chi Kuo said in a report that iOS 27 will deepen system-level integration with Apple Intelligence. His supply-chain survey shows lower-tier iPhones with the A20 in 1H27 will increase DRAM to 9GB (1.5GB×6-die) to preserve responsiveness under AI workloads, up from 8GB (2GB×4-die) on current A19 models. Three high-end A20 Pro models due 2H26 (a foldable and two 18 Pro variants) will remain at 12GB (1.5GB×8-die)."
     }
   ]
 }
