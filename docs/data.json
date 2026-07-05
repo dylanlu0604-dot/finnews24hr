@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-05 09:05:56",
-  "count": 13222,
+  "updated": "2026-07-05 09:09:48",
+  "count": 13226,
   "items": [
+    {
+      "id": "4970766",
+      "time": "2026-07-05 09:08:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】7月5日9時，北京市釋出雷電黃色預警：預計，7月5日14時至23時，我市自西北向東南將先後出現雷陣雨天氣，影響城區的主要時段為17時至20時。延慶、昌平、懷柔、密雲、平谷、順義、門頭溝、房山等區短時雨強較大，並伴有7級以上陣風和冰雹，請注意防範。"
+    },
+    {
+      "id": "mkt:019f2fd0-f723-7aab-8ca0-4627060be870",
+      "time": "2026-07-05 09:07:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump says he will speak regardless."
+    },
+    {
+      "id": "mkt:019f2fd0-b85a-7aab-8ca0-3b7cc7df6b59",
+      "time": "2026-07-05 09:07:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he would wait out the storm and would not allow rain to interrupt the 250th anniversary events."
+    },
+    {
+      "id": "4970765",
+      "time": "2026-07-05 09:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我很快就要離開白宮了（啟程去250週年紀念活動）。"
+    },
+    {
+      "id": "4970764",
+      "time": "2026-07-05 09:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不會讓一場雨打斷 250 週年紀念活動。"
+    },
+    {
+      "id": "4970763",
+      "time": "2026-07-05 09:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會靜待這場風暴過去。"
+    },
     {
       "id": "4970762",
       "time": "2026-07-05 09:04:07",
@@ -121679,29 +121727,6 @@
         "其他"
       ],
       "text": "【郭明錤：iOS 27將進一步深化與Apple Intelligence的系統級整合】6月27日，天風國際證券分析師郭明錤釋出報告指出，iOS 27將進一步深化與Apple Intelligence的系統級整合。其最新產業調查顯示，為確保在AI負載下系統仍能順暢運作，1H27新款配備A20處理器的較低階iPhone之DRAM規格將升級至9GB（1.5GB×6-die），高於目前A19機型的8GB（2GB×4-die）。2H26配備A20Pro處理器的三款高階機型（摺疊機與兩款18Pro機型）則維持12GB（1.5GBx8-die）。"
-    },
-    {
-      "id": "mkt:019f0bc5-1b85-7770-9d1c-26640afdc2e5",
-      "time": "2026-06-28 09:08:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Islamic Revolutionary Guard Corps naval command said US bases in the Middle East will face \"hellish days\" in the coming days."
-    },
-    {
-      "id": "mkt:019f0bc5-0371-7770-9d1c-1f0b51d49a24",
-      "time": "2026-06-28 09:08:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRGC naval command said a US blind attack on Sirik does not resolve the question of its control over the Strait of Hormuz, and that its strikes on violators are meant to remind other vessels of the clear passage."
     }
   ]
 }
