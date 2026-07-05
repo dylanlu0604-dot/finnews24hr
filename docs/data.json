@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06 04:13:32",
-  "count": 13131,
+  "updated": "2026-07-06 04:17:29",
+  "count": 13129,
   "items": [
+    {
+      "id": "4971107",
+      "time": "2026-07-06 04:16:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南蘇丹人民國防軍基地遭襲 5名士兵死亡】當地時間5日，位於上尼羅州的南蘇丹人民國防軍基地遭襲，造成5名士兵死亡。據悉，襲擊者已被擊退，其身份尚不明。南蘇丹政府對此予以譴責，稱襲擊是“為了破壞即將到來的大選”。此前南蘇丹全國選舉委員會宣佈將於今年12月22日舉行全國大選。（央視新聞）"
+    },
+    {
+      "id": "4971106",
+      "time": "2026-07-06 04:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "石油輸出國組織（OPEC）：沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞、阿曼共七個參與國將執行每日18.8萬桶的產量調整；各方重申維護市場穩定的承諾，下一次會議定於8月2日召開。"
+    },
     {
       "id": "4971105",
       "time": "2026-07-06 04:11:50",
@@ -121019,43 +121035,6 @@
         "國際"
       ],
       "text": "【美聯儲巴爾金警示通脹仍處高位，但已觀察到通脹緩和跡象】里士滿聯邦儲備銀行行長湯姆·巴爾金表示，當前通脹水平過高，不過他已看到物價壓力或將很快緩和的初步訊號。巴爾金稱，截至5月的個人消費支出物價指數同比上行；若聯邦基金利率、勞動力市場無法進一步發揮抑制作用，很難有把握讓通脹回落至2%目標水平。巴爾金對企業在當前高通脹環境下的定價行為表示擔憂。他指出，企業定價時會將當下通脹水平納入考量，這可能造成通脹黏性、居高不下。"
-    },
-    {
-      "id": "mkt:019f0fde-abc7-7aab-8c02-dc3678c1212b",
-      "time": "2026-06-29 04:14:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister's office said a destroyed underground tunnel contained hundreds of weapons and several rocket-launch platforms."
-    },
-    {
-      "id": "mkt:019f0fde-a015-7aab-8c02-d7529ea8d6b2",
-      "time": "2026-06-29 04:14:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister's office said Israeli forces will remain stationed in the security zone in southern Lebanon."
-    },
-    {
-      "id": "mkt:019f0fde-91ab-7aab-8c02-ca97e2b07885",
-      "time": "2026-06-29 04:14:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israeli Prime Minister's Office said the military will continue to destroy Hezbollah infrastructure and eliminate threats to northern Israeli towns."
-    },
-    {
-      "id": "4959145",
-      "time": "2026-06-29 04:13:40",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美聯社：巴基斯坦稱對阿富汗邊境地區發動了襲擊。"
     }
   ]
 }
