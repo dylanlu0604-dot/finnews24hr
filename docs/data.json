@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-05 20:27:31",
-  "count": 13139,
+  "updated": "2026-07-05 20:31:20",
+  "count": 13141,
   "items": [
+    {
+      "id": "mkt:019f3241-f2d4-7aab-8ca2-d68dc569adf0",
+      "time": "2026-07-05 20:30:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's June oil exports totaled about 24.5 mln barrels, two Iraqi oil officials said."
+    },
+    {
+      "id": "4970986",
+      "time": "2026-07-05 20:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩位石油官員稱，伊拉克6月石油出口總量約為2450萬桶。"
+    },
+    {
+      "id": "mkt:019f323f-546f-7aab-8ca2-c83674d32fd0",
+      "time": "2026-07-05 20:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt opens national strategic command center in new administrative capital】President Sisi inaugurated Egypt’s national strategic command center in the new administrative capital on the 4th. The facility is equipped with advanced technical infrastructure, secure communications and enhanced intelligence collection and analysis capabilities, and is intended to integrate leadership and operational levels into a unified command-and-control system for faster, more precise response."
+    },
     {
       "id": "4970985",
       "time": "2026-07-05 20:20:02",
@@ -121081,14 +121107,6 @@
         "國際"
       ],
       "text": "俄羅斯擬於 6 月 29 日審議全面禁止柴油出口相關方案。"
-    },
-    {
-      "id": "4958991",
-      "time": "2026-06-28 20:31:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克：反腐專項行動抓獲 47 名官員。"
     }
   ]
 }
