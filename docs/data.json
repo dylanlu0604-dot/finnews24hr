@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 08:56:41",
-  "count": 13222,
+  "updated": "2026-07-05 09:00:52",
+  "count": 13220,
   "items": [
+    {
+      "id": "4970759",
+      "time": "2026-07-05 08:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏繼續互相發動大規模襲擊】據俄羅斯和烏克蘭方面訊息，當地時間3日晚至4日凌晨，俄烏雙方針對對方目標發動大規模襲擊。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。此外，俄軍還在哈爾科夫地區又控制了4個居民點。烏克蘭武裝部隊總參謀部4日通報稱，3日至4日夜間，共記錄268次交火。過去24小時內，烏軍打擊了俄軍3個指揮所、5個無人機指揮所等。俄方兩枚導彈和17架無人機擊中了16個目標。（央視新聞）"
+    },
+    {
+      "id": "4970758",
+      "time": "2026-07-05 08:58:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府公佈方案，擬廢除現行 702 項 聯邦法規  。"
+    },
+    {
+      "id": "4970757",
+      "time": "2026-07-05 08:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI資料中心耗水量遠超企業披露 發電間接用水成巨大隱形消耗】微軟、谷歌、亞馬遜等科技巨頭，今明兩年預計合計投入 1 萬億美元（現匯率約合 6.79 萬億元人民幣）用於人工智慧基礎設施建設。受資料中心供電方式影響，部分地區企業實際耗水量遠高於其對外披露數值，且未來數年，這類企業的用水需求還將快速攀升。 這些企業每年都會發布可持續發展報告，其中會披露旗下資料中心的現場用水量。但在一眾行業巨頭裡，只有 Meta 除統計廠區直接用水外，還核算為其供電的發電站產生的間接耗水量。"
+    },
     {
       "id": "mkt:019f2fc4-f373-7aab-8ca0-2b5aadf075e6",
       "time": "2026-07-05 08:54:24",
@@ -121658,52 +121682,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊海軍指揮部：美國在中東地區的基地將在未來幾天內經歷“地獄般的日子”。"
-    },
-    {
-      "id": "4958682",
-      "time": "2026-06-28 08:59:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊海軍司令部表示，美國對錫裡克的盲目襲擊無法破解我方掌控霍爾木茲海峽的既定態勢，而我方針對違規者的行動則是在提醒所有其他船隻，要遵循明確的通行航道。"
-    },
-    {
-      "id": "4958681",
-      "time": "2026-06-28 08:59:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月28日價格釋出：僅國窖1573洋河夢之藍M6+上漲 總價創近72天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月28日整體自低位繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9854元，較昨日大幅下跌17元，結束昨日小幅反彈走勢，創下今年4月17日以來最低。今日僅國窖1573與洋河夢之藍M6+上漲，其餘品種均下跌或平盤，其中四款單品均處於近一月最低位，低位震盪格局進一步加深，終端交投情緒再度轉冷。\n\n今日11大白酒單品二漲七跌二平，輸家數量佔據明顯優勢。上漲方面，國窖1573漲幅居前，上漲5元/瓶，收復昨日全部跌幅；洋河夢之藍M6+小幅上漲1元/瓶。下跌方面，精品茅臺與五糧液1618跌幅居前，均下跌5元/瓶，其中前者跌破2400元大關，平近一月最大單日跌幅，並創近一月最低價，後者亦續創近一月最低價；古井貢古20下跌4元/瓶；青花郎下跌3元/瓶；飛天茅臺、五糧液普五八代與水晶劍南春均下跌2元/瓶，其中五糧液普五八代將將守住800元關口，水晶劍南春續創近一月最低價。青花汾20與習酒君品價格環比保持不變。"
-    },
-    {
-      "id": "mkt:019f0bbc-eebb-7770-9d1c-10cb499c1ddc",
-      "time": "2026-06-28 08:59:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Huatai Securities: May industrial profits improved; sector divergence intensifies】Huatai Securities reports May industrial profits rose 21.1% YoY, easing from April’s 24.7% but above Q1’s 15.5%; revenue growth continued to recover, indicating broad improvement. Energy and AI-related chains were the primary profit supports. A blockade of the Strait of Hormuz now exceeding three months has intensified supply shocks, eroding capacity utilization at some mid‑ and downstream firms and widening industry divergence. Oil prices edged down in May, but upstream petrochemical profit growth remained elevated. Electronics/computers, driven by strong global AI investment, led profit and revenue gains; its contribution to aggregate industrial profits rose from 6.7ppt to 9.6ppt. Nonferrous smelting and chemical products contributed 6.4ppt and 4.2ppt respectively; the three sectors together added about 20.2ppt. Domestic-demand downstream manufacturing profit growth remained weak, with autos and furniture seeing larger declines."
-    },
-    {
-      "id": "4958680",
-      "time": "2026-06-28 08:58:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍中央司令部27日在社交媒體上發文稱，美軍戰鬥機剛剛對伊朗在霍爾木茲海峽及其附近多地的10個軍事目標實施打擊，以回應伊朗對商船發動的無人機襲擊。（新華社）"
-    },
-    {
-      "id": "4958679",
-      "time": "2026-06-28 08:57:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中建西部建設雲南廠成功簽約分散式光伏運維業務】近日，中建西部建設一公司雲南廠成功簽約雲南區域150MW/年的分散式光伏運維業務，合作期限25年，合同額1.12億元。該業務覆蓋分散式光伏電站全生命週期運維服務，包含裝置巡檢、清潔處理、預防性檢修、故障快速響應、智慧監控、安全管理、能效提升等一體化解決方案。"
     }
   ]
 }
