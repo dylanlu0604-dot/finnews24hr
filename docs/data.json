@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-05 22:16:49",
-  "count": 13109,
+  "updated": "2026-07-05 22:20:38",
+  "count": 13110,
   "items": [
+    {
+      "id": "4971003",
+      "time": "2026-07-05 22:18:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司：商業與工業部將主導投資者接洽、機會發掘及生態系統協調工作。卡達能源公司將就資源配置與利用提供技術及商業評估專業服務。"
+    },
+    {
+      "id": "mkt:019f32a4-76cd-7aab-8ca3-25cd2c2af399",
+      "time": "2026-07-05 22:17:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy will provide technical and commercial assessment expertise on resource allocation and utilization."
+    },
+    {
+      "id": "mkt:019f32a4-5da8-7aab-8ca3-1a30dd2c9978",
+      "time": "2026-07-05 22:17:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "QatarEnergy said Qatar’s Ministry of Commerce and Industry will lead investor engagement, opportunity identification and ecosystem coordination."
+    },
     {
       "id": "mkt:019f32a2-8e5d-7aab-8ca3-12d53b188835",
       "time": "2026-07-05 22:15:41",
@@ -120843,22 +120871,6 @@
         "國際"
       ],
       "text": "伊朗議長卡利巴夫與黎巴嫩議長貝里一致認為，衝突監督委員會應儘快召開統一會議，推進黎巴嫩戰事收尾相關工作。"
-    },
-    {
-      "id": "4959032",
-      "time": "2026-06-28 22:20:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫與黎巴嫩議長貝里通話時稱，瑞士會談已商定設立衝突監督機構，由伊朗、美國及黎巴嫩三方共同參與。"
-    },
-    {
-      "id": "4959031",
-      "time": "2026-06-28 22:20:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫與黎巴嫩議長貝里通電話時表示，伊朗目標是結束黎巴嫩境內戰事、讓流離失所民眾返鄉，同時促使猶太復國主義政權撤軍，正為此付出切實努力。"
     }
   ]
 }
