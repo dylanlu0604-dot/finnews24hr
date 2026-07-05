@@ -1,7 +1,31 @@
 {
   "date": "2026-07-05",
-  "count": 423,
+  "count": 425,
   "items": [
+    {
+      "id": "mkt:019f3175-bc2e-7aab-8ca1-f7941669647e",
+      "time": "2026-07-05 16:47:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【China Galaxy Securities: oil prices easing; Q3 travel chain likely to recover】China Galaxy Securities said in a research note that oil prices have retreated since mid‑June and civil aviation passenger declines in weeks 24–25 of 2026 have narrowed to single digits. With July domestic aviation fuel surcharges and gasoline prices expected to fall back toward pre‑war levels and autumn holidays imminent, Q3 travel passenger growth is likely to turn positive, supporting marginal earnings improvement across the travel sector."
+    },
+    {
+      "id": "4970924",
+      "time": "2026-07-05 16:46:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國銀河證券：油價逐步回落 Q3出行鏈有望迎來修復】中國銀河證券釋出研報稱，隨著6月中旬油價逐步回落，26W24-25民航客運人次降幅已收窄至個位數區間。考慮7月國內民航燃油附加費、汽油價格將進一步回落至美以伊戰爭前水平，以及秋假實施在即，Q3出行人次增速有望轉正，出行鏈整體將迎來業績邊際改善。"
+    },
     {
       "id": "4970923",
       "time": "2026-07-05 16:41:52",

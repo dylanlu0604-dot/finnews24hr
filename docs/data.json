@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 16:44:26",
-  "count": 13200,
+  "updated": "2026-07-05 16:48:23",
+  "count": 13201,
   "items": [
+    {
+      "id": "mkt:019f3175-bc2e-7aab-8ca1-f7941669647e",
+      "time": "2026-07-05 16:47:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【China Galaxy Securities: oil prices easing; Q3 travel chain likely to recover】China Galaxy Securities said in a research note that oil prices have retreated since mid‑June and civil aviation passenger declines in weeks 24–25 of 2026 have narrowed to single digits. With July domestic aviation fuel surcharges and gasoline prices expected to fall back toward pre‑war levels and autumn holidays imminent, Q3 travel passenger growth is likely to turn positive, supporting marginal earnings improvement across the travel sector."
+    },
+    {
+      "id": "4970924",
+      "time": "2026-07-05 16:46:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國銀河證券：油價逐步回落 Q3出行鏈有望迎來修復】中國銀河證券釋出研報稱，隨著6月中旬油價逐步回落，26W24-25民航客運人次降幅已收窄至個位數區間。考慮7月國內民航燃油附加費、汽油價格將進一步回落至美以伊戰爭前水平，以及秋假實施在即，Q3出行人次增速有望轉正，出行鏈整體將迎來業績邊際改善。"
+    },
     {
       "id": "4970923",
       "time": "2026-07-05 16:41:52",
@@ -121543,14 +121567,6 @@
         "國際"
       ],
       "text": "伊拉克外交部長提議在巴格達召開伊朗與海灣國家會議。"
-    },
-    {
-      "id": "4958872",
-      "time": "2026-06-28 16:48:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓總統就韓國隊無緣世界盃32強致歉：將迅速推進體育管理改革】北京時間6月28日，2026年美加墨世界盃小組賽收官。韓國隊在12個組的第三排名中跌出前八，無緣32強。韓國總統李在明當日在社交媒體平臺X發文稱，此次韓國隊未能晉級世界盃淘汰賽階段，令公眾感到極為失望，對此深感歉意，“我們將迅速推進體育管理改革，確保此類事件不再發生”。李在明提到，這一結果“顯然是組織和人員方面的失誤”，要求文化體育觀光部認真調查此次事件的具體情況，分析其原因並制定完善措施。"
     }
   ]
 }
