@@ -1,7 +1,23 @@
 {
   "date": "2026-07-06",
-  "count": 89,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019f33d9-556e-7aab-8ca5-2b9eb5a517db",
+      "time": "2026-07-06 03:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses."
+    },
+    {
+      "id": "4971103",
+      "time": "2026-07-06 03:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉震後心理諮詢師工作繁重 民眾心理創傷需長期修復】委內瑞拉6月24日發生強震後，一家餐廳被改造成臨時醫療中心，來自委內瑞拉多地的醫生、護士、心理諮詢師等志願者輪班值守，為受災民眾提供免費醫療服務。相比其他疾病，民眾的心理創傷修復需要長期、持續的專業治療。（央視新聞）"
+    },
     {
       "id": "4971102",
       "time": "2026-07-06 03:51:13",

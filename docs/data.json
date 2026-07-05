@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-06 03:52:58",
-  "count": 13138,
+  "updated": "2026-07-06 03:56:50",
+  "count": 13139,
   "items": [
+    {
+      "id": "mkt:019f33d9-556e-7aab-8ca5-2b9eb5a517db",
+      "time": "2026-07-06 03:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses."
+    },
+    {
+      "id": "4971103",
+      "time": "2026-07-06 03:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉震後心理諮詢師工作繁重 民眾心理創傷需長期修復】委內瑞拉6月24日發生強震後，一家餐廳被改造成臨時醫療中心，來自委內瑞拉多地的醫生、護士、心理諮詢師等志願者輪班值守，為受災民眾提供免費醫療服務。相比其他疾病，民眾的心理創傷修復需要長期、持續的專業治療。（央視新聞）"
+    },
     {
       "id": "4971102",
       "time": "2026-07-06 03:51:13",
@@ -121116,14 +121132,6 @@
         "國際"
       ],
       "text": "普京：所謂“安克雷奇會晤”從未形成任何正式官方檔案。雙方沒有簽署任何書面文書，但當時我們探討了結束烏克蘭衝突的若干可行方案，以及各方正在考量的妥協條款。這些妥協方案正是美方提交給我們的內容。美方談判人員擬定了一系列讓步條件，要求我們接受。而我們當時同意作出這些讓步。"
-    },
-    {
-      "id": "4959134",
-      "time": "2026-06-29 03:55:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉強震致中國公民8人遇難 1人失聯】中國駐委內瑞拉大使館通報，截至委內瑞拉當地時間28日15時，據不完全統計，已確認有8名中國公民在委內瑞拉6月24日發生的地震中遇難，1名中國公民失聯，其他人員身份尚在核實。（央視新聞）"
     }
   ]
 }
