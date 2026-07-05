@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-06 05:35:50_
-_本檔包含 2425 則快訊，約 507748 字_
+_更新時間：2026-07-06 06:34:06_
+_本檔包含 2432 則快訊，約 506590 字_
+
+---
+
+### 2026-07-06 06:33:35  #MKT News #XAUUSD #Impact bullish
+
+New York gold futures rose to $4,200/oz, up 1.80% intraday.
+
+---
+
+### 2026-07-06 06:31:55  #市場
+
+紐約期銀日內漲4%，現報63.54美元/盎司。
+
+---
+
+### 2026-07-06 06:29:45  #MKT News
+
+Spot silver climbed above $63/oz, up 1.03% on the day.
+
+---
+
+### 2026-07-06 06:29:27  #市場 #焦點
+
+現貨白銀突破63美元/盎司，日內漲1.03%。
+
+---
+
+### 2026-07-06 06:28:52  #市場
+
+現貨白銀日內漲1%，現報62.99美元/盎司。
+
+---
+
+### 2026-07-06 06:28:10  #MKT News #Commodities #Precious Metals #Industrial Metals
+
+Greatland Resource reported Q4 gold production of 79,099 oz and copper production of 3,573 t. For FY2026, gold output was 328,986 oz and copper 14,594 t; gold exceeded the company's guidance range of 260,000–310,000 oz.
+
+---
+
+### 2026-07-06 06:26:08  #MKT News #Commodities #Precious Metals
+
+Australian gold producer Regis Resources reported FY2026 gold production of 379,000 oz, at the top end of its guidance. Fourth-quarter production was 79,099 oz.
+
+---
+
+### 2026-07-06 06:12:29  #國際
+
+美國紐約州州長霍楚爾：今晚開始下雨，夜間雨勢將加大。
+
+---
+
+### 2026-07-06 06:12:12  #國際
+
+美國紐約州州長霍楚爾：洪水風險可能在早高峰時段達到峰值。
+
+---
+
+### 2026-07-06 06:09:49  #國際
+
+特朗普發圖調侃義大利總理梅洛尼，“需要下達限制令”。
+
+---
+
+### 2026-07-06 06:05:59  #MKT News
+
+【KRW edges higher on first day of 24-hour trading】The South Korean won (KRW) edged higher against the dollar on the first day of 24-hour trading. The around-the-clock mechanism was introduced to improve foreign investor access to South Korea’s markets and support a push for MSCI developed-market inclusion, reflecting a shift toward greater offshore investment. Deputy Finance Minister Moon Ji-chung said on Friday regulators will step up monitoring of night-session trading ahead of formal implementation on Monday. The won has been one of Asia’s weakest currencies this year, briefly hitting its weakest level since 2009 last week, pressured by higher energy prices from the Iran war and foreign investors selling Korean equities to rebalance after a sharp rally.
+
+---
+
+### 2026-07-06 06:05:44  #其他
+
+【挪威晉級世界盃8強】北京時間7月6日，2026美加墨世界盃1/8決賽，挪威隊2比1戰勝巴西隊，晉級世界盃8強。
+
+---
+
+### 2026-07-06 06:05:14  #市場
+
+美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。
+
+---
+
+### 2026-07-06 06:01:39  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold opened nearly $10 higher on Monday before retreating to $4,178.75/oz.
+
+---
+
+### 2026-07-06 06:01:09  #市場 #焦點
+
+現貨黃金突破4180美元/盎司，日內漲0.11%。
+
+---
+
+### 2026-07-06 06:00:54  #MKT News #Commodities #Energy #WTI
+
+WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl.
+
+---
+
+### 2026-07-06 06:00:03  #市場
+
+紐約期銀日內漲3%，現報63.06美元/盎司。
+
+---
+
+### 2026-07-06 05:57:18  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為77%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為77%，累計加息25個基點的機率為23%。 美聯儲到9月維持利率不變的機率為41.9%，累計加息25個基點的機率為47.6%，累計加息50個基點的機率為10.5%。
+
+---
+
+### 2026-07-06 05:52:52  #國際
+
+日本防衛省將新設海外統籌局。
+
+---
+
+### 2026-07-06 05:36:09  #宏觀 #國際
+
+【烏無人機持續打擊俄煉油設施，單月最高16次】自2026年初以來，烏克蘭已對俄羅斯煉油廠發動至少194次襲擊，襲擊數量較2025年同期翻了11倍。美國情報部門持續為烏方提供協助，包括繪製俄羅斯防空系統詳細分佈圖、規劃無人機飛行路線、開展戰損評估，以此幫助烏克蘭無人機規避防空攔截，並對修復完畢的煉油設施實施二次打擊。2026年5月，烏克蘭單月成功襲擊煉油廠次數創下紀錄，達16次。這一系列打擊行動一度造成俄羅斯20%至40%的煉油產能停運，引發國內燃油短缺、俄方出臺燃油出口禁令，同時迫使俄羅斯將大量防空兵力調離其他戰線。
 
 ---
 
@@ -14585,83 +14705,5 @@ Hong Kong equities closed higher: Hang Seng Index up 1.28%, Hang Seng Tech Index
 ### 2026-07-03 16:08:36  #MKT News #Market Regions #Europe & UK
 
 【UK lease and planning rules prevent flats adding air conditioning, solar and heat pumps】Bloomberg reports millions of UK flat owners cannot install solar panels, heat pumps or air conditioning because leasehold clauses and strict local council planning guidelines restrict alterations to external walls and roofs. Local planning guidance prioritizes passive cooling over mechanical air conditioning, limiting retrofit options that could be cost-saving. Amid a record European heatwave, air conditioning has become a policy flashpoint; some net-zero guidance requires passive cooling be fully used before mechanical systems are permitted.
-
----
-
-### 2026-07-03 16:08:29  #公司
-
-【廣東駿亞：擬15.57億元投資建設線路板專案】廣東駿亞公告稱，公司擬由全資子公司龍南駿亞投資15.57億元建設年產60萬平米高多層、HDI線路板專案，分兩期實施。一期投資6.28億元，形成年產34萬平方米高多層電路板產能；二期投資9.29億元，新增年產26萬平方米產能。專案預計2026年第三季度啟動，尚需履行政府部門立項、環評等備案或審批手續。該投資或提升公司盈利能力，但面臨市場、建設、資金等風險。
-
----
-
-### 2026-07-03 16:08:21  #其他
-
-聯合國人權事務高階專員：來自奧貝德的跡象清晰明確：蘇丹北科爾多凡州正爆發又一場人權災難。
-
----
-
-### 2026-07-03 16:08:18  #公司
-
-【華海清科：向特定物件發行A股股票申請獲上交所稽核透過】華海清科公告稱，公司於2026年7月2日收到上交所出具的稽核意見，公司向特定物件發行股票申請符合發行、上市條件和資訊披露要求，上交所將在收到申請檔案後提交中國證監會註冊。本次發行尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性。
-
----
-
-### 2026-07-03 16:07:47  #公司
-
-【電工合金：向不特定物件發行可轉債申請獲證監會同意註冊批覆】電工合金公告稱，公司近日收到中國證監會出具的批覆，同意公司向不特定物件發行可轉換公司債券的註冊申請。本次發行應按報送深交所的申報檔案和發行方案實施，批覆自同意註冊之日起12個月內有效。公司董事會將在規定期限內，辦理本次發行相關事宜並及時履行資訊披露義務，提醒投資者注意投資風險。
-
----
-
-### 2026-07-03 16:07:44  #公司
-
-【建龍微納：擬變更4.40億元可轉債募投專案用途】建龍微納公告稱，公司擬將“吸附材料產業園改擴建專案（二期）”剩餘44,040.19萬元募集資金（佔可轉債募資淨額63.82%），投入4.2萬噸分子篩原粉生產線及配套設施建設。原專案規劃產能與市場需求錯配，且現有產能超負荷、裝置老化。新專案預計2027年底建成，達產後稅後內部收益率21.99%。該事項已透過董事會審議，尚需股東會和債券持有人會議審議。同時，專案存在市場開拓、競爭加劇等風險。
-
----
-
-### 2026-07-03 16:07:11  #公司 #觀點
-
-【英科醫療：控股股東125萬股股份解除質押】英科醫療公告稱，近日，公司控股股東劉方毅將其所持125萬股股份辦理質押解除手續，佔其所持股份比例0.54%，佔公司總股本比例0.19%，起始日為2026年5月25日，解除日期為2026年7月2日，質權人為華泰證券。截至公告披露日，劉方毅累計質押2675萬股，佔其所持股份比例11.54%，佔公司總股本比例4.09%。本次解質後，其剩餘質押股份無實質性資金償還風險，質押風險可控。
-
----
-
-### 2026-07-03 16:06:45  #其他
-
-【四川省自貢市政府原黨組成員、副市長黃雪智一審獲刑十二年】7月3日，四川省成都市中級人民法院一審公開宣判四川省自貢市政府原黨組成員、副市長黃雪智受賄案，對被告人黃雪智以受賄罪判處有期徒刑十二年，並處罰金人民幣三百萬元；對扣押在案的黃雪智受賄所得財物予以追繳，上繳國庫，不足部分繼續追繳。經審理查明：2011年至2025年，被告人黃雪智利用擔任自貢市自流井區副區長、自貢市政府副秘書長、自貢市沿灘區區長、自貢市政府秘書長、自貢市沿灘區委書記、自流井區委書記、自貢市政府副市長等職務上的便利，為他人在工程專案承攬、工程款撥付、獲得補助資金、職務提拔等事項上提供幫助，非法收受財物共計人民幣3002萬元。
-
----
-
-### 2026-07-03 16:06:29  #央行 #公司 #市場 #國際
-
-【就業資料提振無收益資產，金價走高】在不及預期的美國就業資料緩解了投資者的加息預期後，金價料將以強勢結束動盪的一週。在歐洲市場早盤，紐約金價上漲1.5%，報每盎司4,188.10美元。週四的非農就業資料公佈後，美元和美國國債收益率下跌，進而增加了無收益黃金的吸引力。荷蘭國際集團分析師Warren Patterson和Ewa Manthey寫道，央行在5月份作為買家重返市場，這也對金價構成了支撐。
-
----
-
-### 2026-07-03 16:06:11  #公司
-
-【東芯股份：Q2利基儲存產品漲價態勢延續 預計下半年價格仍將上行】東芯股份(688110.SH)釋出投資者關係活動記錄表公告，Q2受益於海外三星、美光、鎧俠、海力士等原廠逐步退出利基型儲存市場，供給端呈現明顯收縮態勢；與此同時，下游網路通訊、安防監控、消費電子、工業控制、汽車電子應用領域需求持續復甦，市場供需格局失衡的狀態短期仍將延續，利基型儲存產品價格呈現上漲態勢。展望全年，隨著海外原廠產能調整效應進一步釋放，預計下半年利基型儲存晶片市場價格仍將保持上行趨勢。
-
----
-
-### 2026-07-03 16:05:44  #公司 #市場 #央行 #國際
-
-【荷蘭國際：歐元回升可能需要時間】荷蘭國際集團的Francesco Pesole表示，在週四疲軟的美國非農就業資料公佈後，歐元兌美元的溫和上漲凸顯出這種單一貨幣缺乏令人信服的積極敘事。他在一份報告中表示，這種溫和漲幅在很大程度上反映出市場對歐洲央行將再次加息的懷疑。他說，存在一種風險，即市場在不再押注美聯儲緊縮政策之前，就不再押注歐洲央行的所有加息。他表示，削減對美聯儲加息的押注仍可能支撐歐元兌美元匯率，而該匯率對美國利率的反應更大，但其回升可能會很慢。歐元上漲0.2%，至1.1453美元，荷蘭國際集團預計，直到夏末它才會回到1.16美元上方。
-
----
-
-### 2026-07-03 16:04:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 3.08% — Top commodity gainers are Silver (3.08%), Platinum (2.51%), Lithium Carbonate (1.69%) and Gold (1.46%). Biggest loser is Iron Ore CNY (-0.81%).
-
----
-
-### 2026-07-03 16:04:55  #公司
-
-紐西蘭航空有限公司：紐西蘭航空最後一架波音787-9夢想客機結束長期停場，現已歸隊。
-
----
-
-### 2026-07-03 16:04:41  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Sets Fresh Record — The DAX 40 rose 0.6% on Friday, breaking above the 25,700 mark to set another record high and extend gains for a fourth straight session. Market sentiment remained positive, supported by fading expectations of further monetary tightening, optimism about the German reform package and hopes that the conflict in the Middle East could be resolved. Utilities, techs, autos, banks and industrials were the top performing sectors. Among the biggest gainers were E.ON (+2.6%) and RWE (+1.6%). Siemens advanced 1.8% after Kepler Cheuvreux upgraded the stock to "Hold" from "Reduce," while GEA rose 1.6% after RBC upgraded the stock to "Outperform" from "Sector Perform." On the downside, Rheinmetall fell 1.5%, as the defense group assessed the impact of the German government's decision to cancel the F126 frigate project. The company warned that the revenue hit could reach up to €300 million this year unless mitigating measures are implemented. The index was set to book a weekly gain of over 4%.
 
 ---

@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-06 05:35:50_
-_本檔包含 2487 則快訊，約 506694 字_
+_更新時間：2026-07-06 06:34:06_
+_本檔包含 2469 則快訊，約 506181 字_
+
+---
+
+### 2026-07-01 05:07:17  #公司
+
+耐克執行長：終端動銷疲軟，影響當下折扣策略與未來訂單儲備。
+
+---
+
+### 2026-07-01 05:07:00  #公司
+
+谷歌：推出適用於 macOS 系統的 Gemini Spark，拓展多款應用互聯能力。
+
+---
+
+### 2026-07-01 05:06:42  #MKT News #Star Stocks #NVIDIA #Tesla #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bearish #AMAT.O #SMH.O
+
+【Michael Burry shorts AI and semiconductors】Michael Burry, the "Big Short" investor, disclosed new short bets against AI and semiconductor sectors, saying he has shorted Tesla at about $416.22 and holds short positions in NVIDIA (NVDA.O), Caterpillar, Applied Materials and a semiconductor ETF. He said the trades form part of an overall hedge against overheating valuations in AI and semiconductors, but did not disclose position sizes and said he entered the Tesla short after a rebound. Related technology stocks largely traded higher intraday.
+
+---
+
+### 2026-07-01 05:01:50  #市場
+
+週二（6月30日）紐約尾盤，現貨黃金跌0.18%，報4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年衝高回落，1月29日漲至5595.47美元創歷史最高，隨後逐步回撤，6月30日一度跌至3943.29美元。現貨白銀漲0.62%，報58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日達到121.6540美元，之後逐步回撤，6月24日曾跌至55.6125美元。
+
+---
+
+### 2026-07-01 05:01:34  #市場
+
+【離岸人民幣兌美元升破6.8】離岸人民幣兌美元升破6.8，日內漲0.1384%。
+
+---
+
+### 2026-07-01 05:01:25  #MKT News
+
+Qatar's foreign ministry said the prime minister also discussed the latest developments in ongoing US-Iran talks with two individuals.
+
+---
+
+### 2026-07-01 05:01:01  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Closes Lower on Fiscal Concerns — The Ibovespa fell 0.7% to close at 172,024 on Tuesday as investors reduced risk at the end of the first half and assessed weaker fiscal and labor market data. Gross public debt rose above forecasts in May, while primary deficit was wider-than-expected. Gross debt reached 81.1% of GDP, above market expectations of 80.7%, the primary deficit totaled R$56.1 billion, exceeding forecasts of a R$53.5 billion shortfall. The deterioration in fiscal accounts reinforced concerns over higher borrowing costs and persistent pressure on interest rates. Meanwhile, formal job creation also missed expectations, with around 73,000 new positions created in May, below forecasts of 115,000. Losses were broad-based across the index. In the banking sector, Banco do Brasil fell 1.7% and Itaú lost 0.5%. Utilities also traded mostly lower, with Axia down 1.3%. Petrobras dropped 0.9% as oil prices tumbled to their lowest levels since 2020, while Braskem shed 4.3% after being downgraded by JPMorgan and Citi.
+
+---
+
+### 2026-07-01 05:00:54  #MKT News
+
+Qatar's foreign ministry said the Qatari PM told US envoys Witkoff and Kushner he will continue to advance mediation efforts and support all negotiation tracks under the memorandum of understanding.
+
+---
+
+### 2026-07-01 05:00:10  #國際
+
+卡達外交部：卡達首相在會晤維特科夫、庫什納期間，商討了美伊正在進行的談判最新進展。
+
+---
+
+### 2026-07-01 05:00:10  #MKT News #Star Stocks #Palantir #Market Themes #The Trump Trade #PLTR.N
+
+U.S. President Trump’s 2025 financial disclosure shows he bought at least $100,001 of Palantir (PLTR.N) shares.
+
+---
+
+### 2026-07-01 04:59:46  #國際
+
+美國總統特朗普2025年度的財務報告稱，特朗普持有至少500萬美元英偉達股票，持有至少100萬美元PALANTIR股票。
+
+---
+
+### 2026-07-01 04:59:16  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+U.S. President Trump’s 2025 financial disclosure shows he holds at least $5 mln in Apple (AAPL.O) stock.
+
+---
+
+### 2026-07-01 04:59:14  #國際
+
+卡達外交部：卡達首相會見維特科夫與庫什納，重申卡達將持續開展調解工作，並支援基於諒解備忘錄推進的全部談判路線。
+
+---
+
+### 2026-07-01 04:58:01  #MKT News
+
+Trump's 2025 financial disclosure shows he received more than $80 million from settlement agreements with multiple media companies.
+
+---
+
+### 2026-07-01 04:57:31  #公司 #國際
+
+披露資訊顯示， 特朗普從與多家媒體公司達成的和解協議中獲得逾 8000 萬美元收入。
+
+---
+
+### 2026-07-01 04:56:45  #MKT News
+
+【U.S. unveils near-$600m lunar plan to advance moon base construction】NASA announced contracts totaling nearly $600m with three U.S. firms to execute four lunar lander missions by end-2028 as part of efforts to advance moon base construction.
+
+---
+
+### 2026-07-01 04:56:34  #國際
+
+披露資訊顯示，特朗普至少持有價值500萬美元的蘋果股票。
+
+---
+
+### 2026-07-01 04:55:43  #國際
+
+披露檔案顯示：勞力士向特朗普贈送價值 2.5 萬美元的美國網球公開賽門票，特朗普購入至少價值 100,001 美元的 Palantir（PLTR）股票。
+
+---
+
+### 2026-07-01 04:52:46  #國際
+
+【美公佈6億美元月球任務計劃 推進月球基地建設】美國航空航天局30日公佈月球基地建設專案最新安排，表示已與三家美國企業簽訂總額近6億美元合同，將於2028年底執行4項新的月球登陸任務。（新華社）
+
+---
+
+### 2026-07-01 04:52:10  #MKT News #Important #Market Themes #Crypto Concepts #Bitcoin #Ethereum
+
+Trump's 2025 financial disclosure shows $635 million in income from licensing or revenue-sharing related to "meme coins".
+
+---
+
+### 2026-07-01 04:49:23  #MKT News
+
+US Secretary of State Rubio congratulated Peru president-elect Keiko Fujimori on her election victory.
+
+---
+
+### 2026-07-01 04:48:55  #MKT News #Important #Market Themes #Crypto Concepts #Bitcoin #Impact bullish #Ethereum
+
+President Trump filed his 2025 financial disclosure, reporting he received several hundred million dollars in income from cryptocurrency.
+
+---
+
+### 2026-07-01 04:48:14  #公司 #資料 #市場 #觀點
+
+【7月1日美股成交額前20：閃迪上半年上漲逾850%】週二美股成交額第3名閃迪收高10.89%，成交248.1億美元。今年上半年，閃迪股價累計上漲逾850%。有分析認為，閃迪股價上漲並非源於人工智慧需求，根本原因是該行業無法破解的NAND快閃記憶體短缺問題。分析師稱，市場普遍將閃迪2026年上半年股價大漲歸因於AI資料中心帶動企業級SSD需求激增，實際該行情本質是NAND快閃記憶體行業供應端收縮驅動的結構性行情，並非需求拉動。NAND快閃記憶體當前的漲價由行業主動供應自律驅動，並非需求過熱，該結構性產能缺口需數年時間才能透過新建晶圓廠填補。閃迪的核心優勢是在頭部同行同步減產的背景下仍能穩定供貨，當前股價已計入長期維持高利潤率的預期。
+
+---
+
+### 2026-07-01 04:47:54  #MKT News
+
+CME Group will launch single-stock futures covering more than 50 U.S. equities on July 27.
+
+---
+
+### 2026-07-01 04:46:58  #MKT News #BA.N #Impact bearish #Dow
+
+Market sources: Boeing (BA.N) commercial aircraft deliveries and production disrupted by a widespread IT systems outage.
+
+---
+
+### 2026-07-01 04:44:57  #MKT News
+
+Netanyahu said he wants to end U.S. aid, calling it "welfare" and saying Israel's economy is no longer small. He said Israel can fully fund the relatively small share of GDP currently covered by U.S. assistance and hopes the process will begin this year.
+
+---
+
+### 2026-07-01 04:44:09  #其他
+
+市場訊息：大面積資訊科技系統故障，導致波音民用飛機交付與生產工作陷入停滯。
+
+---
+
+### 2026-07-01 04:43:11  #國際
+
+以色列總理內塔尼亞胡： 我希望停止接受美國援助。這筆援助形同救濟金，我不想要。我國經濟早已不再是小型經濟體…… 從美國獲得的援助僅佔國內生產總值的極小比例，這筆錢我們完全有能力自行承擔。我希望今年就啟動停止接收美援的相關流程。
+
+---
+
+### 2026-07-01 04:40:15  #MKT News
+
+The U.S. Department of Justice in a memorandum instructed prosecutors to prioritize investigations into "birth tourism" cases following the U.S. Supreme Court's ruling on birthright citizenship.
+
+---
+
+### 2026-07-01 04:40:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Near Flat as Canada's GDP Rebounds — The S&P/TSX Composite Index inched up 0.1% to close at 34,857 on Tuesday as investors assessed GDP data and developments in the Middle East. Canada’s economy rebounded more than expected in April after a mild contraction in March, while an advance estimate pointed to a further 0.1% monthly expansion in May, signaling that growth may be stabilizing. The data improved the outlook for corporate earnings and eased concerns over a deeper tariff-driven slowdown. Meanwhile, US envoys in Doha said they would not meet with Iran, raising doubts over efforts to resolve the conflict and reopen the Strait of Hormuz, though technical talks on regional security are expected this week. Oil prices remained below recent highs, helping ease inflation concerns. Financial stocks advanced, with RBC up 1% and TD Bank gaining 0.8%. Mining stocks were mixed as gold prices fluctuated, with Agnico Eagle Mines rising 0.9% and Barrick slipping 0.6%. In tech, Celestica jumped 6.1%, tracking Wall Street’s rally.
 
 ---
 
@@ -14669,293 +14849,5 @@ New Zealand Shares Lower to Start the Week — The NZX 50 dropped 50 points, or 
 ### 2026-06-29 06:37:59  #其他
 
 英國將取消83型驅逐艦與32型護衛艦建造計劃，轉而採購至少六艘通用混合型作戰艦艇；該型艦艇設計可投放空中及水下無人載具。此舉標誌英國作戰思路轉向自主無人作戰，新艦預計21世紀30年代初列裝服役。
-
----
-
-### 2026-06-29 06:34:02  #國際
-
-黎巴嫩議會議長貝里表示，這份由美國支援的黎以協議，現有版本不會被接受。
-
----
-
-### 2026-06-29 06:32:53  #MKT News
-
-【Kintetsu train derails at Kyoto Station; Kyoto Line services suspended】Kintetsu Railway said a train derailed inside Kyoto Station at about 05:13 local time on June 29. Operators have suspended services in both directions on the Kintetsu Kyoto Line between Kyoto Station and Kami-Tobaguchi while tracks are inspected. No injuries have been reported so far.
-
----
-
-### 2026-06-29 06:32:49  #公司 #國際
-
-【日本鐵路京都站站內發生列車脫軌事故】據近畿日本鐵道公司稱，當地時間6月29日5時13分左右，京都站站內發生列車脫軌事故，鐵路方面正在對線路進行檢查，因此近鐵京都線京都站至上鳥羽口站區間上下行線路暫停執行。目前尚未收到此次脫軌事故造成人員受傷的訊息。（央視新聞）
-
----
-
-### 2026-06-29 06:31:33  #MKT News #005930.KS #Impact bullish #000660.KS
-
-Korean Maeil Business Newspaper reports Samsung and SK Group's combined investment plans over the next 10 years may total 2,000 trillion won (about $1.3 trillion).
-
----
-
-### 2026-06-29 06:30:00  #國際
-
-普京表示，烏克蘭無人機襲擊煉油廠致使俄羅斯面臨燃料短缺問題。
-
----
-
-### 2026-06-29 06:29:01  #焦點 #國際
-
-【美伊衝突再起令談判又生變數 伊方稱 “未參加” 美官員稱改期】美伊原計劃本月末舉行技術性談判，但在談判前夕兩國再起衝突。28日晚間，有伊朗官員稱，由於此次襲擊及伊方相關條件未獲滿足，伊朗未參加原定於28日舉行的技術磋商。與此同時，美國方面也傳出訊息稱，美伊將於30日在卡達首都多哈舉行會談。有分析指出，本次美伊之間爆發的衝突暴露出雙方在霍爾木茲海峽主導權上的深層矛盾。而這無疑也給雙方未來的談判，增添了不確定性。
-
----
-
-### 2026-06-29 06:25:28  #其他
-
-黎巴嫩議會議長（真主黨盟友）表示，黎以之間的這份協議 “不會獲得透過”。
-
----
-
-### 2026-06-29 06:24:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Trade thesis 'buy brokers = buy a basket of discounted tech stocks' gains traction; broker stocks re-rate】A-share broker sector has exited a prior lull, with rising activity and inflows. Market participants say the key shift is a breakdown of the old seesaw—broker rallies paired with tech pullbacks—after securities firms and hard-tech began rallying together. Investors are treating brokers as cheap proxies for hard‑tech exposure because many firms now hold stakes in hard‑tech via underwriting follow‑ons and direct equity investments, and the broker sector is trading at historically low valuations. That dynamic is driving a fresh value re‑rating in broker stocks.
-
----
-
-### 2026-06-29 06:22:40  #國際
-
-俄羅斯總統普京表示，一旦華盛頓方面與伊朗就中東衝突達成協議，美方談判代表預計將前往莫斯科。他同時補充，俄羅斯已準備好就全部相關細節持續開展磋商。
-
----
-
-### 2026-06-29 06:22:24  #公司
-
-市場資訊：三星與SK集團十年內投資總額或達2萬億韓元。
-
----
-
-### 2026-06-29 06:19:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid intraday, extending losses to 0.6% at $4,055/oz; spot silver fell 0.5%.
-
----
-
-### 2026-06-29 06:18:35  #市場 #焦點
-
-現貨黃金失守4060美元/盎司，日內跌0.55%。
-
----
-
-### 2026-06-29 06:18:34  #市場 #焦點
-
-紐約期金失守4070美元/盎司，日內跌0.67%。
-
----
-
-### 2026-06-29 06:18:34  #市場
-
-鈀金期貨日內跌1%，現報1208.18美元/盎司。
-
----
-
-### 2026-06-29 06:17:46  #市場
-
-紐約期銀日內跌1%，現報59.06美元/盎司。
-
----
-
-### 2026-06-29 06:16:25  #MKT News #Market Regions #Greater China
-
-Yikong Zhijia to list in Hong Kong, offering 26.13 mln H shares, subject to exercise of the overallotment option, at HK$81.16-87.92 per share; trading expected to begin July 8.
-
----
-
-### 2026-06-29 06:15:52  #市場 #焦點
-
-紐約期金失守4080美元/盎司，日內跌0.42%。
-
----
-
-### 2026-06-29 06:14:53  #公司
-
-Momenta每股發售股份發售價為295.60港元。
-
----
-
-### 2026-06-29 06:13:53  #公司
-
-Momenta全球發售擬定發售股份 1990 萬股。
-
----
-
-### 2026-06-29 06:13:40  #MKT News #Important #Market Regions #Greater China
-
-Momenta plans a Hong Kong listing with an offering of 19.93 million shares, subject to exercise of the overallotment option, priced at HK$295.6 per share; trading expected to begin July 8.
-
----
-
-### 2026-06-29 06:05:33  #市場
-
-標準普爾500指數期貨上漲0.4%，納斯達克指數期貨在震盪交投中上漲0.4%。
-
----
-
-### 2026-06-29 06:04:42  #其他
-
-中國地震臺網正式測定：06月29日05時44分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.1級地震，震源深度10千米。
-
----
-
-### 2026-06-29 06:03:57  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-U.S. stock index futures edged higher in early trade; Nasdaq futures up 0.4%.
-
----
-
-### 2026-06-29 06:03:22  #MKT News #Important
-
-Spot silver advanced just over 1.00% in early trade to $59.39/oz.
-
----
-
-### 2026-06-29 06:03:15  #市場
-
-現貨白銀日內漲1%，現報59.38美元/盎司。
-
----
-
-### 2026-06-29 06:01:36  #市場
-
-標普500指數期貨上漲0.1%，納斯達克指數期貨下跌0.1%，布倫特原油價格上漲1.4%。
-
----
-
-### 2026-06-29 06:01:27  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Spot gold opened flat on Monday at $4,078.61/oz.
-
----
-
-### 2026-06-29 06:01:00  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude opened slightly higher on Monday, trading at $70.27 per barrel.
-
----
-
-### 2026-06-29 06:00:33  #市場 #焦點
-
-現貨黃金突破4080美元/盎司，日內跌0.01%。
-
----
-
-### 2026-06-29 06:00:25  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
-
-U.S. equity index futures opened modestly lower on Monday; Nasdaq futures down 0.2%.
-
----
-
-### 2026-06-29 06:00:11  #市場 #焦點
-
-紐約期金突破4100美元/盎司，日內漲0.10%。
-
----
-
-### 2026-06-29 06:00:10  #焦點 #國際
-
-特朗普宣佈對伊朗發動新一輪大規模打擊。他警告，伊朗教士政權或將難以為繼。
-
----
-
-### 2026-06-29 06:00:02  #市場
-
-WTI原油日內漲2%，現報70.77美元/桶。
-
----
-
-### 2026-06-29 06:00:00  #市場
-
-布倫特原油日內漲1%，現報73.89美元/桶。
-
----
-
-### 2026-06-29 05:54:11  #央行 #美聯儲
-
-【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。
-
----
-
-### 2026-06-29 05:53:53  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。 美聯儲到9月維持利率不變的機率為40.4%，累計加息25個基點的機率為46.9%，累計加息50個基點的機率為12.8%。
-
----
-
-### 2026-06-29 05:52:43  #MKT News #Market Regions #Europe & UK
-
-【FT: UK to replace Type 45 destroyers with unmanned-capable warships】The Financial Times reports the Royal Navy will order at least six general-purpose combat vessels able to deploy unmanned air and undersea systems, a plan due to be announced this week. The ships, intended as part of the Type 45 destroyer replacement, will be the navy's first hybrid-powered warships and are expected to enter service in the early 2030s. The Labour government is set to abandon a long‑planned eight-ship Type 83 destroyer programme and cancel the five-ship Type 32 frigate programme first announced in 2020 in favour of the new general-purpose vessels. The defence secretary’s final plan is expected to add at least £1bn to defence spending, raising new defence investment by more than £14.5bn versus earlier plans. Government says the vessels will act as unmanned-systems control hubs, extending operational reach and firepower without a proportionate increase in crew or cost.
-
----
-
-### 2026-06-29 05:52:16  #國際
-
-《日經新聞》民調：日本高市內閣支援率上升2個百分點，達到68%。
-
----
-
-### 2026-06-29 05:51:34  #市場 #國際
-
-歐洲天然氣價格上漲3%。
-
----
-
-### 2026-06-29 05:49:10  #國際
-
-【以軍摧毀黎巴嫩南部真主黨地道 稱已事先通知美方】以色列總理內塔尼亞胡和以國防部長卡茨28日晚發表聯合宣告稱，以色列國防軍當天摧毀黎巴嫩南部一處黎真主黨地道，並在實施行動前通知美國。宣告說，以軍當天摧毀了黎巴嫩南部邁季代勒尊附近的黎真主黨地下軍事設施，該設施是一條長度超200米、深度超25米“內藏有數百件武器和多個發射井”的地道。以方稱，這些武器和發射井“用於襲擊以色列領和公民”。宣告還說，以方事先向美國及美駐黎巴嫩代表通報了這一行動計劃。宣告稱，以軍將繼續駐留在黎巴嫩南部“安全區”並摧毀軍事設施，消除“安全威脅”。（新華社）
-
----
-
-### 2026-06-29 05:48:37  #國際
-
-【馬杜羅社交媒體賬號再發文：感謝國際社會震後援助】當地時間6月28日，委內瑞拉總統馬杜羅的社交媒體賬號再次發文，對地震遇難者和家屬表達慰問，並對各國政府和人民的援助表示感謝。帖文說，“我們向遇難者、傷者、失蹤者及其家屬表示深切慰問，也向所有奮戰在救援一線、全力挽救生命的人致以敬意。”他還感謝世界各國政府和人民第一時間向委內瑞拉提供支援與援助，並呼籲社會各界繼續保持團結與互助，共同推動災區恢復重建。該帖文落款為6月28日於紐約，24日地震發生之後，馬杜羅曾於24日和25日透過該賬號發文，目前暫不清楚這一賬號由誰運營。馬杜羅與夫人塞西莉亞自1月3日起被美國強行控制，1月4日起馬杜羅的個人社交賬號每天釋出圖片記錄馬杜羅夫婦被美方控制的天數並呼籲美國放人。
-
----
-
-### 2026-06-29 05:42:42  #公司
-
-【國家能源集團釋出116項 新一代煤電產業鏈供需對接清單】6月27日，國家能源集團舉辦首屆新一代煤電現代產業鏈融通發展共鏈行動大會，集中釋出新一代煤電產業鏈116項供需對接清單，打通上中下游資訊壁壘，破解供需錯配難題。20家產業鏈上下游企業現場簽署商務合同、合作協議與共建協議，將“紙面資源”轉化為“落地專案”。依託此次簽約契機，新一代煤電領域5家全國重點實驗室共建協議落地簽署，以國家級創新平臺為載體，集中力量攻堅煤電前沿關鍵技術。
-
----
-
-### 2026-06-29 05:40:26  #市場
-
-【上漲支撐因素鬆動 黃金下半年面臨“壓力測試”】站在2026年年中，國際、國內金價較1月曆史高點已累計回撤近30%，呈現極罕見的高位劇烈調整。展望後市，業內人士表示，黃金的價格走勢是該資產與股市、利率、油價之間多重關係博弈的結果，金價的短期預測變得愈發困難。（上證報）
-
----
-
-### 2026-06-29 05:40:11  #其他
-
-【告別“重首發，輕持營” 公募基金加碼“二次首發”】今年以來，多家公募加碼優勢產品的“二次首發”，部分產品管理規模近乎翻倍。在政策導向與費率改革的推動下，行業過往“重首發，輕持營”的利益邏輯正在改變，深耕存量的良性行業生態加速形成。（上證報）
-
----
-
-### 2026-06-29 05:39:51  #市場
-
-【“買券商等於買一籃子打折科技股”交易邏輯發酵 券商股上演價值重估行情】近期，A股券商板塊告別前期沉寂，盤面異動頻發，資金關注度持續攀升。6月22日券商板塊迎來異動，行業指數單日大漲超過7%，場內掀起個股漲停潮。隨後多個交易日資金持續加碼，長江證券、華安證券等標的更是走出連板行情。盤面最關鍵的變化在於，打破了過往“券商拉昇，科技回撥”的存量資金蹺蹺板效應，證券與硬科技雙線共振走強。“買券商等於買一籃子打折科技股”的交易邏輯在市場上快速發酵。長久以來，券商僅以“牛市旗手”的行情彈性被資金關注，如今卻憑藉投行跟投、股權直投手握大量硬科技企業股權，疊加自身板塊估值處於歷史低位，科創底色逐步被資金挖掘，一場全新的價值重估行情正在上演。（上證報）
-
----
-
-### 2026-06-29 05:39:24  #央行 #國際
-
-【全球科技股同步回撥 AI主線地位不改但再平衡需求上升】上週全球市場科技產業鏈同步震盪，海外相關賽道估值下行對A股構成傳導壓力，A股呈現“衝高回落，極致分化”格局。綜合本週券商策略研報來看，美聯儲加息預期反覆、科技板塊交易擁擠度抬升，以及AI產業面訊息擾動共同壓制了科技板塊風險偏好。在中期維度上，AI產業上行趨勢尚未出現實質性拐點，各細分賽道景氣度持續兌現，行情延續的基礎仍存。（上證報）
-
----
-
-### 2026-06-29 05:38:00  #公司
-
-【專屬APP退場+髮卡放緩 銀行信用卡重構增長邏輯】6月30日，中國銀行信用卡APP“繽紛生活”將全面停止服務，相關功能遷移至“中國銀行”APP。 過去幾年間，在最佳化成本的考量下，中小銀行紛紛放棄開發信用卡獨立APP，將其功能合併至手機銀行APP中，國有大行、股份行、中小銀行亦陸續關停線下異地分中心。 線上整合、線下關停，國內信用卡行業正告別粗放擴張週期，迎來經營模式重構。（證券時報）
-
----
-
-### 2026-06-29 05:36:34  #其他
-
-【香港特區政府財政司司長陳茂波：香港擔綱內地企業出海“超級轉換器”】香港特區政府財政司司長陳茂波昨日（6月28日）發表網誌表示，近期參與2026年夏季達沃斯論壇、首屆西部商業航天大會，此行實地見證東北重工業、西部硬科技雄厚產業實力，而依託“一國兩制”獨特優勢，香港正以超級聯絡人、超級增值人、超級轉換器三重功能，打通內地科創成果通往全球市場的完整通道，助力內地企業穩健出海、規模化佈局全球。（證券時報）
 
 ---

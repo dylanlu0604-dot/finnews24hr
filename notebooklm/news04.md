@@ -1,7 +1,182 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-06 05:35:50_
-_本檔包含 2430 則快訊，約 507304 字_
+_更新時間：2026-07-06 06:34:06_
+_本檔包含 2428 則快訊，約 505756 字_
+
+---
+
+### 2026-07-01 20:40:59  #MKT News
+
+US President Trump said Pruitt is talented and is only temporarily serving as Director of National Intelligence.
+
+---
+
+### 2026-07-01 20:40:37  #MKT News
+
+President Trump said Puerte will serve as Director of National Intelligence for one or two months.
+
+---
+
+### 2026-07-01 20:40:21  #市場
+
+Metac盤前漲超6%。
+
+---
+
+### 2026-07-01 20:40:21  #MKT News #Macro & Rates #US Economy #The Fed (FOMC) #DXY #Impact bullish #USDJPY #S&P500 #Impact bearish
+
+【ADP data indicate U.S. labor market has strengthened】ADP reported U.S. private-sector payrolls rose 98,000 in June, following a 122,000 gain in May; Bloomberg economists had expected a 120,000 increase. The print supports a view that, after months of uneven hiring, the labor market is firming — job openings are rising and layoffs remain low. If official government payrolls confirm the trend, it could lift market expectations for additional Fed rate hikes this year to curb inflation. Education and health services accounted for roughly half of the June gain, with trade, transportation and utilities and financial activities comprising much of the remainder; nearly all industries added staff and gains were broad across company sizes and regions.
+
+---
+
+### 2026-07-01 20:40:13  #MKT News
+
+US President Trump said he told Federal Housing Finance Agency Director Pulte he can declassify any material he wishes.
+
+---
+
+### 2026-07-01 20:40:01  #國際
+
+特朗普：普爾特將擔任國家情報總監一兩個月。
+
+---
+
+### 2026-07-01 20:39:56  #公司
+
+大眾汽車考慮出售所持德國足球俱樂部股份。
+
+---
+
+### 2026-07-01 20:39:42  #國際
+
+特朗普：普爾特會在那裡待一個月，也許兩個月。
+
+---
+
+### 2026-07-01 20:39:33  #MKT News #7201.T #Impact bullish
+
+Nissan CEO says vehicle development cycle shortened by 40% to 30 months.
+
+---
+
+### 2026-07-01 20:39:25  #公司
+
+日產CEO埃斯皮諾薩：新車研發週期縮短40%至30個月。
+
+---
+
+### 2026-07-01 20:39:21  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #Impact bearish #MSFT.O #Impact bullish
+
+Amazon (AMZN.O) erased earlier gains and slipped into negative territory in premarket trade; Microsoft (MSFT.O) pulled back, its premarket gain narrowed to 1.3%.
+
+---
+
+### 2026-07-01 20:39:12  #國際
+
+特朗普：普爾特很有才華，他只是暫時擔任國家情報總監。
+
+---
+
+### 2026-07-01 20:39:04  #其他
+
+【北京“專精特新”專板企業達1519家 提前完成階段目標且融資超700億元】7月1日，北京“專精特新”專板企業數量突破1500家，累計股權融資金額超700億元，企業融資規模及政策支援方面持續領跑全國。具體來看，截至6月30日，北京“專精特新”專板企業數量已達1519家，提前完成《北京“專精特新”專板建設方案》中專板培育企業1500家的階段目標。其中，創新型中小企業418家，專精特新中小企業727家，專精特新“小巨人”企業218家。據悉，專板企業持續向高精尖產業集聚，近九成屬於新一代資訊科技、軟體和資訊服務、人工智慧、生物醫藥、智慧製造、新能源、材料等前沿領域；在板企業累計股權融資超700億元。（新京報）
+
+---
+
+### 2026-07-01 20:38:55  #其他
+
+【美光與通用汽車簽署長期車載儲存戰略供貨協議】美光科技與通用汽車達成客戶戰略合作協議，為通用汽車整車生產提供記憶體及儲存平臺長期穩定供貨保障。通用汽車將採購低功耗記憶體（LPDRAM）、NOR 快閃記憶體以及 UFS NAND 快閃記憶體產品。美光斥資 20 億美元升級改造弗吉尼亞州馬納薩斯晶圓廠。馬納薩斯工廠已於 2026 年上半年投產。美光將與通用汽車聯合研發適配未來車型需求的新一代記憶體、儲存技術。
+
+---
+
+### 2026-07-01 20:38:37  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
+
+US President Trump said the US may hold about 50% of the semiconductor market by the time he leaves office.
+
+---
+
+### 2026-07-01 20:38:24  #公司 #市場
+
+亞馬遜股價回吐此前漲幅轉跌，微軟漲幅收窄。
+
+---
+
+### 2026-07-01 20:38:13  #焦點 #國際
+
+特朗普：到我卸任時，我們可能佔據晶片市場50%的份額。
+
+---
+
+### 2026-07-01 20:38:08  #MKT News #Market Themes #AI Revolution
+
+President Trump said the US is building numerous automotive plants and AI projects.
+
+---
+
+### 2026-07-01 20:38:00  #央行 #國際
+
+【海上通行和黎巴嫩停火是美伊談判的關鍵議題】據半島電視臺，海上通行和黎巴嫩停火是美伊談判的關鍵議題。一位直接瞭解多哈會談情況的訊息人士概述了伊朗目前在與美國的談判中的立場：
+①卡達和巴基斯坦的調解員正在提供技術支援，以達成初步協議，這些協議隨後可提交給兩國決策者。
+②伊朗堅持認為，在願意就其他關鍵問題進行談判之前，諒解備忘錄中的五項關鍵條款必須得到落實。
+③這項臨時協議包括與結束以色列對黎巴嫩的戰爭、促進流離失所者返回家園以及恢復黎巴嫩全境主權相關的承諾。
+④訊息人士稱，伊朗認為以色列透過持續襲擊和試圖佔領黎巴嫩南部戰略要地來破壞該協議。
+⑤德黑蘭正在爭取解凍其被凍結的資產，並表示這些資產必須提供給伊朗央行，以便其進行國際採購。
+⑥在海上問題上，伊朗承諾確保霍爾木茲海峽船隻安全通行，但堅持該海峽仍處於伊朗和阿曼的主權之下。
+⑦德黑蘭方面仍然致力於遵守《不擴散核武器條約》，並繼續與國際原子能機構開展合作。
+
+---
+
+### 2026-07-01 20:37:48  #公司
+
+【Meta 自研雲業務落地，對外售賣閒置 AI 算力與自研大模型】Meta Platforms正推進雲基礎設施業務規劃，計劃對外出售 AI 算力使用權與自研大模型服務，由此開闢全新競爭賽道，與亞馬遜雲科技（AWS）、微軟 Azure、谷歌雲等行業龍頭展開正面競爭。多位不願具名的知情人士透露，Meta 為支撐自身人工智慧戰略，正斥資大量資金擴建資料中心與配套基礎設施；如今公司計劃成立獨立業務板塊，將富餘算力對外出售、創造新增營收，相關細節尚未對外公開。知情人士稱，其中一項落地方案是開放多款搭載於 Meta 自有 AI 基礎設施的大模型，模式對標亞馬遜雲的 Bedrock 模型託管服務。Meta 將自主運營支撐模型執行的資料中心與算力晶片，其中包含自研 Muse Spark 多模態大模型，並向開發者收取呼叫使用費。
+
+---
+
+### 2026-07-01 20:37:33  #公司 #國際
+
+【阿曼被曝推出霍爾木茲海峽收費政策，仿效馬六甲海峽自願模式】多名知情外交官透露，阿曼最近向美國和其他西方盟友提交了一份正式提案。根據該提案，航運公司將需要支付服務費才能使用該海峽。服務費屬“自願付費”，而非“強制性通行費”。（澎湃）
+
+---
+
+### 2026-07-01 20:37:14  #國際
+
+特朗普：我們正在美國建設很多汽車工廠和人工智慧基地。
+
+---
+
+### 2026-07-01 20:37:13  #MKT News
+
+【BYD Energy Storage to build Poland's largest battery project — 600MW/2.4GWh】BYD Energy Storage signed an agreement with Greenvolt Power to develop the Siedlce battery storage project in Poland totaling 600MW/2.4GWh, which would be the country's largest. The partners have already delivered 1.6GWh across two local projects. Construction is scheduled to begin in Q3 2026, with commercial operation expected before end-2027.
+
+---
+
+### 2026-07-01 20:37:11  #國際
+
+【霍爾木茲海峽一艘集裝箱船擱淺】據伊朗伊斯蘭共和國廣播電視臺7月1日報道，一艘集裝箱船近日未按伊方指定航線航行，在霍爾木茲海峽擱淺。 報道稱，該船選擇其他航線通行，因相關海域水深較淺而擱淺，無法繼續航行。報道未公佈該船的名稱、船籍、具體位置以及人員和貨物受損情況。 報道還稱，伊朗已將船隻進出霍爾木茲海峽的指定路線限定為拉臘克島以南航線。船隻如與伊朗伊斯蘭革命衛隊海軍協調並獲得通行時間安排，伊方將從其進入波斯灣至駛出波斯灣期間提供安全保障。船隻如選擇指定航線以外路線進出波斯灣，可能“導致不可挽回的事件發生”。(新華社)
+
+---
+
+### 2026-07-01 20:36:56  #MKT News #Important #Market Themes #The Trump Trade
+
+US President Trump said the stock market is rising and everyone is profiting, and that he is profiting as well.
+
+---
+
+### 2026-07-01 20:36:50  #MKT News #Market Themes #The Trump Trade
+
+Trump, on financial disclosure: My funds are managed by a fund; do not speak with the people who manage my funds.
+
+---
+
+### 2026-07-01 20:36:28  #國際
+
+特朗普：伊朗已經取得了長足的進步。
+
+---
+
+### 2026-07-01 20:36:24  #國際
+
+【比亞迪儲能簽約波蘭規模最大儲能專案】近日，比亞迪儲能與Greenvolt Power簽署合作協議，共同在波蘭開發Siedlce儲能專案。該專案總容量達600MW/2.4GWh，建成後將成為波蘭規模最大的電池儲能專案。此前，雙方在當地的兩個專案累計合作容量已達1.6GWh。Siedlce專案計劃於2026年第三季度開工建設，預計在2027年底前投入商業運營。
 
 ---
 
@@ -14516,185 +14691,5 @@ Central Bank of the Republic of Turkey cancels the additional lira reserve requi
 ### 2026-07-01 05:07:21  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
 
 Google (GOOG.O) launched GEMINI Spark for macOS and expanded app integrations.
-
----
-
-### 2026-07-01 05:07:17  #公司
-
-耐克執行長：終端動銷疲軟，影響當下折扣策略與未來訂單儲備。
-
----
-
-### 2026-07-01 05:07:00  #公司
-
-谷歌：推出適用於 macOS 系統的 Gemini Spark，拓展多款應用互聯能力。
-
----
-
-### 2026-07-01 05:06:42  #MKT News #Star Stocks #NVIDIA #Tesla #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bearish #AMAT.O #SMH.O
-
-【Michael Burry shorts AI and semiconductors】Michael Burry, the "Big Short" investor, disclosed new short bets against AI and semiconductor sectors, saying he has shorted Tesla at about $416.22 and holds short positions in NVIDIA (NVDA.O), Caterpillar, Applied Materials and a semiconductor ETF. He said the trades form part of an overall hedge against overheating valuations in AI and semiconductors, but did not disclose position sizes and said he entered the Tesla short after a rebound. Related technology stocks largely traded higher intraday.
-
----
-
-### 2026-07-01 05:01:50  #市場
-
-週二（6月30日）紐約尾盤，現貨黃金跌0.18%，報4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年衝高回落，1月29日漲至5595.47美元創歷史最高，隨後逐步回撤，6月30日一度跌至3943.29美元。現貨白銀漲0.62%，報58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日達到121.6540美元，之後逐步回撤，6月24日曾跌至55.6125美元。
-
----
-
-### 2026-07-01 05:01:34  #市場
-
-【離岸人民幣兌美元升破6.8】離岸人民幣兌美元升破6.8，日內漲0.1384%。
-
----
-
-### 2026-07-01 05:01:25  #MKT News
-
-Qatar's foreign ministry said the prime minister also discussed the latest developments in ongoing US-Iran talks with two individuals.
-
----
-
-### 2026-07-01 05:01:01  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Closes Lower on Fiscal Concerns — The Ibovespa fell 0.7% to close at 172,024 on Tuesday as investors reduced risk at the end of the first half and assessed weaker fiscal and labor market data. Gross public debt rose above forecasts in May, while primary deficit was wider-than-expected. Gross debt reached 81.1% of GDP, above market expectations of 80.7%, the primary deficit totaled R$56.1 billion, exceeding forecasts of a R$53.5 billion shortfall. The deterioration in fiscal accounts reinforced concerns over higher borrowing costs and persistent pressure on interest rates. Meanwhile, formal job creation also missed expectations, with around 73,000 new positions created in May, below forecasts of 115,000. Losses were broad-based across the index. In the banking sector, Banco do Brasil fell 1.7% and Itaú lost 0.5%. Utilities also traded mostly lower, with Axia down 1.3%. Petrobras dropped 0.9% as oil prices tumbled to their lowest levels since 2020, while Braskem shed 4.3% after being downgraded by JPMorgan and Citi.
-
----
-
-### 2026-07-01 05:00:54  #MKT News
-
-Qatar's foreign ministry said the Qatari PM told US envoys Witkoff and Kushner he will continue to advance mediation efforts and support all negotiation tracks under the memorandum of understanding.
-
----
-
-### 2026-07-01 05:00:10  #國際
-
-卡達外交部：卡達首相在會晤維特科夫、庫什納期間，商討了美伊正在進行的談判最新進展。
-
----
-
-### 2026-07-01 05:00:10  #MKT News #Star Stocks #Palantir #Market Themes #The Trump Trade #PLTR.N
-
-U.S. President Trump’s 2025 financial disclosure shows he bought at least $100,001 of Palantir (PLTR.N) shares.
-
----
-
-### 2026-07-01 04:59:46  #國際
-
-美國總統特朗普2025年度的財務報告稱，特朗普持有至少500萬美元英偉達股票，持有至少100萬美元PALANTIR股票。
-
----
-
-### 2026-07-01 04:59:16  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-U.S. President Trump’s 2025 financial disclosure shows he holds at least $5 mln in Apple (AAPL.O) stock.
-
----
-
-### 2026-07-01 04:59:14  #國際
-
-卡達外交部：卡達首相會見維特科夫與庫什納，重申卡達將持續開展調解工作，並支援基於諒解備忘錄推進的全部談判路線。
-
----
-
-### 2026-07-01 04:58:01  #MKT News
-
-Trump's 2025 financial disclosure shows he received more than $80 million from settlement agreements with multiple media companies.
-
----
-
-### 2026-07-01 04:57:31  #公司 #國際
-
-披露資訊顯示， 特朗普從與多家媒體公司達成的和解協議中獲得逾 8000 萬美元收入。
-
----
-
-### 2026-07-01 04:56:45  #MKT News
-
-【U.S. unveils near-$600m lunar plan to advance moon base construction】NASA announced contracts totaling nearly $600m with three U.S. firms to execute four lunar lander missions by end-2028 as part of efforts to advance moon base construction.
-
----
-
-### 2026-07-01 04:56:34  #國際
-
-披露資訊顯示，特朗普至少持有價值500萬美元的蘋果股票。
-
----
-
-### 2026-07-01 04:55:43  #國際
-
-披露檔案顯示：勞力士向特朗普贈送價值 2.5 萬美元的美國網球公開賽門票，特朗普購入至少價值 100,001 美元的 Palantir（PLTR）股票。
-
----
-
-### 2026-07-01 04:52:46  #國際
-
-【美公佈6億美元月球任務計劃 推進月球基地建設】美國航空航天局30日公佈月球基地建設專案最新安排，表示已與三家美國企業簽訂總額近6億美元合同，將於2028年底執行4項新的月球登陸任務。（新華社）
-
----
-
-### 2026-07-01 04:52:10  #MKT News #Important #Market Themes #Crypto Concepts #Bitcoin #Ethereum
-
-Trump's 2025 financial disclosure shows $635 million in income from licensing or revenue-sharing related to "meme coins".
-
----
-
-### 2026-07-01 04:49:23  #MKT News
-
-US Secretary of State Rubio congratulated Peru president-elect Keiko Fujimori on her election victory.
-
----
-
-### 2026-07-01 04:48:55  #MKT News #Important #Market Themes #Crypto Concepts #Bitcoin #Impact bullish #Ethereum
-
-President Trump filed his 2025 financial disclosure, reporting he received several hundred million dollars in income from cryptocurrency.
-
----
-
-### 2026-07-01 04:48:14  #公司 #資料 #市場 #觀點
-
-【7月1日美股成交額前20：閃迪上半年上漲逾850%】週二美股成交額第3名閃迪收高10.89%，成交248.1億美元。今年上半年，閃迪股價累計上漲逾850%。有分析認為，閃迪股價上漲並非源於人工智慧需求，根本原因是該行業無法破解的NAND快閃記憶體短缺問題。分析師稱，市場普遍將閃迪2026年上半年股價大漲歸因於AI資料中心帶動企業級SSD需求激增，實際該行情本質是NAND快閃記憶體行業供應端收縮驅動的結構性行情，並非需求拉動。NAND快閃記憶體當前的漲價由行業主動供應自律驅動，並非需求過熱，該結構性產能缺口需數年時間才能透過新建晶圓廠填補。閃迪的核心優勢是在頭部同行同步減產的背景下仍能穩定供貨，當前股價已計入長期維持高利潤率的預期。
-
----
-
-### 2026-07-01 04:47:54  #MKT News
-
-CME Group will launch single-stock futures covering more than 50 U.S. equities on July 27.
-
----
-
-### 2026-07-01 04:46:58  #MKT News #BA.N #Impact bearish #Dow
-
-Market sources: Boeing (BA.N) commercial aircraft deliveries and production disrupted by a widespread IT systems outage.
-
----
-
-### 2026-07-01 04:44:57  #MKT News
-
-Netanyahu said he wants to end U.S. aid, calling it "welfare" and saying Israel's economy is no longer small. He said Israel can fully fund the relatively small share of GDP currently covered by U.S. assistance and hopes the process will begin this year.
-
----
-
-### 2026-07-01 04:44:09  #其他
-
-市場訊息：大面積資訊科技系統故障，導致波音民用飛機交付與生產工作陷入停滯。
-
----
-
-### 2026-07-01 04:43:11  #國際
-
-以色列總理內塔尼亞胡： 我希望停止接受美國援助。這筆援助形同救濟金，我不想要。我國經濟早已不再是小型經濟體…… 從美國獲得的援助僅佔國內生產總值的極小比例，這筆錢我們完全有能力自行承擔。我希望今年就啟動停止接收美援的相關流程。
-
----
-
-### 2026-07-01 04:40:15  #MKT News
-
-The U.S. Department of Justice in a memorandum instructed prosecutors to prioritize investigations into "birth tourism" cases following the U.S. Supreme Court's ruling on birthright citizenship.
-
----
-
-### 2026-07-01 04:40:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Near Flat as Canada's GDP Rebounds — The S&P/TSX Composite Index inched up 0.1% to close at 34,857 on Tuesday as investors assessed GDP data and developments in the Middle East. Canada’s economy rebounded more than expected in April after a mild contraction in March, while an advance estimate pointed to a further 0.1% monthly expansion in May, signaling that growth may be stabilizing. The data improved the outlook for corporate earnings and eased concerns over a deeper tariff-driven slowdown. Meanwhile, US envoys in Doha said they would not meet with Iran, raising doubts over efforts to resolve the conflict and reopen the Strait of Hormuz, though technical talks on regional security are expected this week. Oil prices remained below recent highs, helping ease inflation concerns. Financial stocks advanced, with RBC up 1% and TD Bank gaining 0.8%. Mining stocks were mixed as gold prices fluctuated, with Agnico Eagle Mines rising 0.9% and Barrick slipping 0.6%. In tech, Celestica jumped 6.1%, tracking Wall Street’s rally.
 
 ---

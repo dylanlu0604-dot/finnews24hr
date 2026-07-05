@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-06 05:35:50_
-_本檔包含 2995 則快訊，約 507195 字_
+_更新時間：2026-07-06 06:34:06_
+_本檔包含 2984 則快訊，約 506625 字_
+
+---
+
+### 2026-07-02 18:22:08  #MKT News #Market Regions #Europe & UK
+
+【EU pledges additional €18m aid to bolster Armenia amid Russian trade pressure】The EU pledged an extra €18m in economic aid to Armenia and eased export restrictions on certain Armenian goods as Moscow imposes broad trade curbs ahead of June parliamentary elections. Russian measures have targeted key Armenian exports — fresh produce, flowers, fish and alcoholic beverages — lifting geopolitical and trade risk, weighing on export receipts and sector sentiment as Yerevan pursues closer ties with the West. The ruling Civil Contract party received 49.8% in the June vote; Russia has accused Western interference and joined opposition claims of irregularities, heightening bilateral tensions.
+
+---
+
+### 2026-07-02 18:22:04  #市場 #國際
+
+【歐盟追加1800萬歐元援助拉攏亞美尼亞】週四，歐盟承諾向亞美尼亞追加1800萬歐元的經濟援助，並放寬了部分亞美尼亞商品的出口限制。布魯塞爾此舉旨在俄羅斯施加貿易壓力之際，鞏固對這個南高加索國家的支援。在6月亞美尼亞議會選舉前夕，莫斯科對亞美尼亞實施了廣泛的貿易限制。此次選舉中，執政的公民契約黨贏得了49.8%的選票。俄羅斯指責西方干預選舉，並與亞美尼亞反對派一道指控選舉存在違規行為。莫斯科實施的這些限制措施正值亞美尼亞尋求與西方建立更緊密的聯絡並加入歐盟之際，這些措施打擊了亞美尼亞的許多關鍵出口產品，包括新鮮農產品、鮮花、魚類和酒類產品。歐盟委員會主席馮德萊恩表示：“我知道亞美尼亞仍然面臨來自俄羅斯的巨大經濟壓力。但請放心：當我們的夥伴面臨壓力時，歐盟會挺身而出……你們可以信賴我們。”
+
+---
+
+### 2026-07-02 18:21:58  #觀點
+
+高盛維持達美航空“買入”評級。
+
+---
+
+### 2026-07-02 18:20:53  #焦點 #國際
+
+【伊朗武裝部隊：美干涉霍爾木茲海峽將遭回擊】據伊朗伊斯蘭共和國廣播電視臺2日報道，伊朗武裝部隊哈塔姆安比亞中央總部當天發表宣告說，伊朗武裝力量將“堅決且迅速”回應美國在霍爾木茲海峽的任何干涉行為。(新華社)
+
+---
+
+### 2026-07-02 18:20:35  #公司
+
+【財富趨勢：登出“通達信視覺化金融研究終端專案”募集資金專戶】財富趨勢公告稱，經公司第六屆董事會第四次會議與2026年第一次臨時股東會審議透過相關議案，同意“通達信視覺化金融研究終端專案”結項並將節餘募集資金用於永久補充流動資金。截至公告披露日，該專案募集資金已按規定使用，對應專案已結項，未到期節餘資金已到期劃轉，專戶不再使用。公司對該專案募集資金專用賬戶（開戶行：中國工商銀行股份有限公司武漢洪山支行，賬號：3202006719200822786）辦理了銷戶手續，相關監管協議相應終止。
+
+---
+
+### 2026-07-02 18:19:25  #公司 #市場
+
+【*ST華鵬：股票交易異常波動 提示業績及退市風險】*ST華鵬公告稱，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日內收盤價格漲幅偏離值超過12%，屬異常波動。經自查，公司生產經營正常，控股股東等不存在應披露未披露重大事項。2025年公司淨虧損2.22億元，期末淨資產為-1.67億元，已被實施退市風險警示。提醒投資者注意交易、業績、退市等風險。
+
+---
+
+### 2026-07-02 18:19:06  #公司
+
+【深高速：董事長徐恩利因工作變動離任】深高速公告稱，公司董事會於2026年7月2日收到徐恩利書面辭職報告，其因工作變動，辭任公司董事、董事長等職務，辭職即時生效。徐恩利不再繼續在上市公司及其控股子公司任職，不存在未履行完畢的公開承諾。其離任不會使董事會成員低於法定人數，公司將合理安排法定代表人推選、董事選舉等工作。
+
+---
+
+### 2026-07-02 18:19:01  #公司 #市場
+
+【前沿生物：股票交易異常波動 不存在應披露未披露重大資訊】前沿生物公告稱，公司股票在2026年6月30日、7月1日、7月2日連續三個交易日內收盤價格漲幅偏離值累計達30%，屬於異常波動。經自查及問詢實控人，公司日常經營正常，無應披露而未披露的重大資訊，未發現需澄清的媒體報道或市場傳聞，實控人等在異常波動期間未買賣公司股票。公司提醒投資者注意股價波動風險。
+
+---
+
+### 2026-07-02 18:18:48  #公司 #市場
+
+【康欣新材：股票異常波動 提示多項經營及財務風險】康欣新材公告稱，公司股票於2026年6月30日至7月2日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司業績已連續四年虧損，2025年淨虧損3.85億元，未來或持續虧損。收購無錫宇邦半導體55%股權，面臨整合、核心人員流失等風險。此外，公司2016 - 2021年存在虛增營收和利潤情況，部分事項暫未追溯重述。提醒投資者注意風險。
+
+---
+
+### 2026-07-02 18:18:30  #公司
+
+【驕成超聲：擬2076.38萬元收購控股子公司少數股東40%股權】驕成超聲公告稱，公司擬以2076.38萬元自有資金收購控股子公司驕成半導體股東驕璞企管和周宏建先生合計40%的股權，其中驕璞企管、周宏建先生分別持有25%、15%。交易完成後，公司將持有驕成半導體100%股權。因驕璞企管執行事務合夥人為公司職工代表董事段忠福，周宏建為公司實控人，本次交易構成關聯交易，但不構成重大資產重組。該議案已提請2026年7月14日的臨時股東會審議。
+
+---
+
+### 2026-07-02 18:18:23  #公司
+
+【ST金鴻順：基本戶271.25萬元資金被凍結 涉兩起糾紛】ST金鴻順公告稱，公司在中國農業銀行開立的基本戶部分資金被凍結，凍結金額271.25萬元。凍結原因一是光大銀行與公司保理合同糾紛，光大銀行請求公司支付應收賬款及利息等；二是上海瑞呈祥與公司買賣合同糾紛。截至公告披露日，兩案分別未開庭審理和未出最終判決。被凍結金額佔2025年末淨資產的0.30%、2026年3月末貨幣資金餘額的1.03%，不會對日常經營造成重大不利影響。
+
+---
+
+### 2026-07-02 18:18:12  #Trading Economics #Markets #Lithuania #Stock Market #Importance 0
+
+Stocks in Lithuania Hit All-time High — Vilnius increased to an all-time high of 1467.00 Index Points. Over the past 4 weeks, Lithuania Stock Market Index (Vilnius) gained 0.94%, and in the last 12 months, it increased 21.19%.
+
+---
+
+### 2026-07-02 18:17:45  #公司
+
+【中國神華：定州三期5號機組、滄東三期5號機組透過168小時試執行】中國神華公告，公司定州電廠三期2臺66萬千瓦機組擴建工程專案5號機組、滄東電廠三期2臺66萬千瓦機組擴建工程專案5號機組均順利透過168小時試執行，正式投入商業運營。定州三期、滄東三期是河北省“十四五”規劃能源保障重點工程，均規劃建設2臺66萬千瓦超超臨界一次再熱燃煤發電機組，設計供電煤耗分別為269.98克/千瓦時和268.463克/千瓦時。定州三期、滄東三期分別由本公司持股51%的控股子公司國能河北定鑫發電有限責任公司和本公司持股51%的控股子公司國能河北滄東發電有限責任公司負責運營。
+
+---
+
+### 2026-07-02 18:17:38  #其他
+
+【吉利汽車上半年銷量超142萬輛，單月出口量破10萬輛】吉利汽車公佈最新銷量資料：1~6月累計銷量1422958輛，創同期新高。其中，6月銷量240799輛，連續4個月同環比雙增。新能源方面，6月銷量（含吉利、領克、極氪）161449輛，同比增長32%，環比增長21%，新能源銷量佔比67%。上半年，新能源總銷量799454輛，同比增長10%。（新浪科技）
+
+---
+
+### 2026-07-02 18:16:38  #其他
+
+美銀全球研究將通用磨坊目標股價從36美元上調至39美元。
+
+---
+
+### 2026-07-02 18:16:10  #公司 #市場
+
+【ST海龍：股票交易異常波動 多項風險待解】ST海龍公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日收盤價格漲幅偏離值累計超過12%，屬異常波動。2026年一季度，公司實現營收27663萬元，淨利潤502萬元。目前公司收購西安市群健航空精密製造有限公司不少於40%股權處於盡職調查階段，存在交易推進等風險；起訴公司利益責任糾紛案件已進入執行階段，若無法還款，公司可能失去子公司控制權；若2026年度內部控制審計被出具否定意見，公司股票交易將被實施退市風險警示。
+
+---
+
+### 2026-07-02 18:15:58  #公司
+
+【貝因美：控股股東解除司法凍結】貝因美公告，控股股東小貝大美控股前期被浙江省杭州市中級人民法院司法凍結的4201.39萬股已於2026年7月1日解除司法凍結，佔其持有公司股份總數的31.68%。截至本公告披露日，小貝大美控股前期被司法凍結的股份已全部被解除司法凍結。
 
 ---
 
@@ -17855,180 +17957,5 @@ German outlet Correctiv reports Volkswagen is considering selling its equity sta
 ### 2026-07-01 20:41:17  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
 
 Chile Economic Activity Contracts Again — Chile's IMACEC economic activity index fell 0.9% year-on-year in May 2026, marking the fifth consecutive month of contraction, though less sharply than the 1.2% decline recorded in April. Goods production contracted 4.7%, reflecting a sharp drop in mining output (-11.6%), particularly copper, alongside a 1.7% decline in manufacturing, while production of other goods was unchanged. Meanwhile, services activity grew 1.0%, supported by stronger personal services, especially health and education, which partly offset weaker business and transport services. Trade increased 0.8%, driven mainly by retail and automotive sales. On a seasonally adjusted monthly basis, economic activity edged down 0.2% in May, reserving a 0.1% increase in the previous month.
-
----
-
-### 2026-07-01 20:40:59  #MKT News
-
-US President Trump said Pruitt is talented and is only temporarily serving as Director of National Intelligence.
-
----
-
-### 2026-07-01 20:40:37  #MKT News
-
-President Trump said Puerte will serve as Director of National Intelligence for one or two months.
-
----
-
-### 2026-07-01 20:40:21  #市場
-
-Metac盤前漲超6%。
-
----
-
-### 2026-07-01 20:40:21  #MKT News #Macro & Rates #US Economy #The Fed (FOMC) #DXY #Impact bullish #USDJPY #S&P500 #Impact bearish
-
-【ADP data indicate U.S. labor market has strengthened】ADP reported U.S. private-sector payrolls rose 98,000 in June, following a 122,000 gain in May; Bloomberg economists had expected a 120,000 increase. The print supports a view that, after months of uneven hiring, the labor market is firming — job openings are rising and layoffs remain low. If official government payrolls confirm the trend, it could lift market expectations for additional Fed rate hikes this year to curb inflation. Education and health services accounted for roughly half of the June gain, with trade, transportation and utilities and financial activities comprising much of the remainder; nearly all industries added staff and gains were broad across company sizes and regions.
-
----
-
-### 2026-07-01 20:40:13  #MKT News
-
-US President Trump said he told Federal Housing Finance Agency Director Pulte he can declassify any material he wishes.
-
----
-
-### 2026-07-01 20:40:01  #國際
-
-特朗普：普爾特將擔任國家情報總監一兩個月。
-
----
-
-### 2026-07-01 20:39:56  #公司
-
-大眾汽車考慮出售所持德國足球俱樂部股份。
-
----
-
-### 2026-07-01 20:39:42  #國際
-
-特朗普：普爾特會在那裡待一個月，也許兩個月。
-
----
-
-### 2026-07-01 20:39:33  #MKT News #7201.T #Impact bullish
-
-Nissan CEO says vehicle development cycle shortened by 40% to 30 months.
-
----
-
-### 2026-07-01 20:39:25  #公司
-
-日產CEO埃斯皮諾薩：新車研發週期縮短40%至30個月。
-
----
-
-### 2026-07-01 20:39:21  #MKT News #Star Stocks #Amazon #Microsoft #Market Themes #Magnificent 7 #AMZN.O #Impact bearish #MSFT.O #Impact bullish
-
-Amazon (AMZN.O) erased earlier gains and slipped into negative territory in premarket trade; Microsoft (MSFT.O) pulled back, its premarket gain narrowed to 1.3%.
-
----
-
-### 2026-07-01 20:39:12  #國際
-
-特朗普：普爾特很有才華，他只是暫時擔任國家情報總監。
-
----
-
-### 2026-07-01 20:39:04  #其他
-
-【北京“專精特新”專板企業達1519家 提前完成階段目標且融資超700億元】7月1日，北京“專精特新”專板企業數量突破1500家，累計股權融資金額超700億元，企業融資規模及政策支援方面持續領跑全國。具體來看，截至6月30日，北京“專精特新”專板企業數量已達1519家，提前完成《北京“專精特新”專板建設方案》中專板培育企業1500家的階段目標。其中，創新型中小企業418家，專精特新中小企業727家，專精特新“小巨人”企業218家。據悉，專板企業持續向高精尖產業集聚，近九成屬於新一代資訊科技、軟體和資訊服務、人工智慧、生物醫藥、智慧製造、新能源、材料等前沿領域；在板企業累計股權融資超700億元。（新京報）
-
----
-
-### 2026-07-01 20:38:55  #其他
-
-【美光與通用汽車簽署長期車載儲存戰略供貨協議】美光科技與通用汽車達成客戶戰略合作協議，為通用汽車整車生產提供記憶體及儲存平臺長期穩定供貨保障。通用汽車將採購低功耗記憶體（LPDRAM）、NOR 快閃記憶體以及 UFS NAND 快閃記憶體產品。美光斥資 20 億美元升級改造弗吉尼亞州馬納薩斯晶圓廠。馬納薩斯工廠已於 2026 年上半年投產。美光將與通用汽車聯合研發適配未來車型需求的新一代記憶體、儲存技術。
-
----
-
-### 2026-07-01 20:38:37  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
-
-US President Trump said the US may hold about 50% of the semiconductor market by the time he leaves office.
-
----
-
-### 2026-07-01 20:38:24  #公司 #市場
-
-亞馬遜股價回吐此前漲幅轉跌，微軟漲幅收窄。
-
----
-
-### 2026-07-01 20:38:13  #焦點 #國際
-
-特朗普：到我卸任時，我們可能佔據晶片市場50%的份額。
-
----
-
-### 2026-07-01 20:38:08  #MKT News #Market Themes #AI Revolution
-
-President Trump said the US is building numerous automotive plants and AI projects.
-
----
-
-### 2026-07-01 20:38:00  #央行 #國際
-
-【海上通行和黎巴嫩停火是美伊談判的關鍵議題】據半島電視臺，海上通行和黎巴嫩停火是美伊談判的關鍵議題。一位直接瞭解多哈會談情況的訊息人士概述了伊朗目前在與美國的談判中的立場：
-①卡達和巴基斯坦的調解員正在提供技術支援，以達成初步協議，這些協議隨後可提交給兩國決策者。
-②伊朗堅持認為，在願意就其他關鍵問題進行談判之前，諒解備忘錄中的五項關鍵條款必須得到落實。
-③這項臨時協議包括與結束以色列對黎巴嫩的戰爭、促進流離失所者返回家園以及恢復黎巴嫩全境主權相關的承諾。
-④訊息人士稱，伊朗認為以色列透過持續襲擊和試圖佔領黎巴嫩南部戰略要地來破壞該協議。
-⑤德黑蘭正在爭取解凍其被凍結的資產，並表示這些資產必須提供給伊朗央行，以便其進行國際採購。
-⑥在海上問題上，伊朗承諾確保霍爾木茲海峽船隻安全通行，但堅持該海峽仍處於伊朗和阿曼的主權之下。
-⑦德黑蘭方面仍然致力於遵守《不擴散核武器條約》，並繼續與國際原子能機構開展合作。
-
----
-
-### 2026-07-01 20:37:48  #公司
-
-【Meta 自研雲業務落地，對外售賣閒置 AI 算力與自研大模型】Meta Platforms正推進雲基礎設施業務規劃，計劃對外出售 AI 算力使用權與自研大模型服務，由此開闢全新競爭賽道，與亞馬遜雲科技（AWS）、微軟 Azure、谷歌雲等行業龍頭展開正面競爭。多位不願具名的知情人士透露，Meta 為支撐自身人工智慧戰略，正斥資大量資金擴建資料中心與配套基礎設施；如今公司計劃成立獨立業務板塊，將富餘算力對外出售、創造新增營收，相關細節尚未對外公開。知情人士稱，其中一項落地方案是開放多款搭載於 Meta 自有 AI 基礎設施的大模型，模式對標亞馬遜雲的 Bedrock 模型託管服務。Meta 將自主運營支撐模型執行的資料中心與算力晶片，其中包含自研 Muse Spark 多模態大模型，並向開發者收取呼叫使用費。
-
----
-
-### 2026-07-01 20:37:33  #公司 #國際
-
-【阿曼被曝推出霍爾木茲海峽收費政策，仿效馬六甲海峽自願模式】多名知情外交官透露，阿曼最近向美國和其他西方盟友提交了一份正式提案。根據該提案，航運公司將需要支付服務費才能使用該海峽。服務費屬“自願付費”，而非“強制性通行費”。（澎湃）
-
----
-
-### 2026-07-01 20:37:14  #國際
-
-特朗普：我們正在美國建設很多汽車工廠和人工智慧基地。
-
----
-
-### 2026-07-01 20:37:13  #MKT News
-
-【BYD Energy Storage to build Poland's largest battery project — 600MW/2.4GWh】BYD Energy Storage signed an agreement with Greenvolt Power to develop the Siedlce battery storage project in Poland totaling 600MW/2.4GWh, which would be the country's largest. The partners have already delivered 1.6GWh across two local projects. Construction is scheduled to begin in Q3 2026, with commercial operation expected before end-2027.
-
----
-
-### 2026-07-01 20:37:11  #國際
-
-【霍爾木茲海峽一艘集裝箱船擱淺】據伊朗伊斯蘭共和國廣播電視臺7月1日報道，一艘集裝箱船近日未按伊方指定航線航行，在霍爾木茲海峽擱淺。 報道稱，該船選擇其他航線通行，因相關海域水深較淺而擱淺，無法繼續航行。報道未公佈該船的名稱、船籍、具體位置以及人員和貨物受損情況。 報道還稱，伊朗已將船隻進出霍爾木茲海峽的指定路線限定為拉臘克島以南航線。船隻如與伊朗伊斯蘭革命衛隊海軍協調並獲得通行時間安排，伊方將從其進入波斯灣至駛出波斯灣期間提供安全保障。船隻如選擇指定航線以外路線進出波斯灣，可能“導致不可挽回的事件發生”。(新華社)
-
----
-
-### 2026-07-01 20:36:56  #MKT News #Important #Market Themes #The Trump Trade
-
-US President Trump said the stock market is rising and everyone is profiting, and that he is profiting as well.
-
----
-
-### 2026-07-01 20:36:50  #MKT News #Market Themes #The Trump Trade
-
-Trump, on financial disclosure: My funds are managed by a fund; do not speak with the people who manage my funds.
-
----
-
-### 2026-07-01 20:36:28  #國際
-
-特朗普：伊朗已經取得了長足的進步。
-
----
-
-### 2026-07-01 20:36:24  #國際
-
-【比亞迪儲能簽約波蘭規模最大儲能專案】近日，比亞迪儲能與Greenvolt Power簽署合作協議，共同在波蘭開發Siedlce儲能專案。該專案總容量達600MW/2.4GWh，建成後將成為波蘭規模最大的電池儲能專案。此前，雙方在當地的兩個專案累計合作容量已達1.6GWh。Siedlce專案計劃於2026年第三季度開工建設，預計在2027年底前投入商業運營。
 
 ---
