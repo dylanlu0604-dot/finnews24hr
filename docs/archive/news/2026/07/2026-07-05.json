@@ -1,7 +1,15 @@
 {
   "date": "2026-07-05",
-  "count": 309,
+  "count": 310,
   "items": [
+    {
+      "id": "mkt:019f30b0-9df8-7aab-8ca0-fc71c050209d",
+      "time": "2026-07-05 13:11:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's 2026 summer movie box office tops 2 bln yuan】Online platform data show China's 2026 summer movie season total box office, including presales, has exceeded 2 bln yuan to date."
+    },
     {
       "id": "4970836",
       "time": "2026-07-05 13:07:48",
