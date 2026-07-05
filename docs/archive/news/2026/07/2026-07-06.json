@@ -1,7 +1,27 @@
 {
   "date": "2026-07-06",
-  "count": 71,
+  "count": 73,
   "items": [
+    {
+      "id": "mkt:019f339b-eedd-7aab-8ca4-f5d1ef87c2ab",
+      "time": "2026-07-06 02:48:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine President Zelenskiy said intelligence again indicates Russia is preparing a new large-scale strike and urged people to stay safe and heed air-raid alerts."
+    },
+    {
+      "id": "mkt:019f3399-3b19-7aab-8ca4-ebd786f1b071",
+      "time": "2026-07-06 02:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to meet Ukrainian and Syrian leaders at NATO summit】A senior U.S. official said Trump will arrive Tuesday for the NATO summit. His first meeting will be with summit host Turkish president Erdogan. The White House said he will also meet Syrian president Shala and hold a press conference. Trump will meet Ukrainian president Zelenskiy on Wednesday to discuss ending the Russia-Ukraine war; the official said the battlefield has largely reached a stalemate and the president intends to push for a ceasefire as soon as possible. The official added Trump will urge NATO allies to increase defence spending."
+    },
     {
       "id": "mkt:019f3398-1edc-7aab-8ca4-e5031d444b60",
       "time": "2026-07-06 02:43:55",
