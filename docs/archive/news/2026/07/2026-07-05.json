@@ -1,7 +1,27 @@
 {
   "date": "2026-07-05",
-  "count": 430,
+  "count": 432,
   "items": [
+    {
+      "id": "4970929",
+      "time": "2026-07-05 17:02:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "據我的鋼鐵網統計，今日13家鋼廠下調廢鋼採購價10-30元。"
+    },
+    {
+      "id": "mkt:019f3181-c0dd-7aab-8ca2-01517b2505f2",
+      "time": "2026-07-05 17:00:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report of an incident 30 nm southwest of Hodeidah, Yemen. A merchant vessel activated a distress alert reporting it was under attack by unknown armed assailants."
+    },
     {
       "id": "4970928",
       "time": "2026-07-05 16:55:49",
