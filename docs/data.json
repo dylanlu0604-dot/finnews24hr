@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-06 03:02:45",
+  "updated": "2026-07-06 03:06:37",
   "count": 13163,
   "items": [
+    {
+      "id": "4971096",
+      "time": "2026-07-06 03:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：情報再次顯示俄羅斯正準備發起新一輪大規模打擊。"
+    },
+    {
+      "id": "mkt:019f33aa-1d99-7aab-8ca5-0c9842ca0a2f",
+      "time": "2026-07-06 03:03:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "Reuters survey: 22 of 28 economists expect the RBNZ to raise the policy rate 25bps to 2.50% on July 8."
+    },
+    {
+      "id": "mkt:019f33a8-ae70-7aab-8ca5-060bd8cfbba9",
+      "time": "2026-07-06 03:02:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey: After the July monetary policy meeting, 14 of 26 economists expect the RBNZ to raise rates by a further 25bps before end-September, taking the terminal policy rate to 2.75%."
+    },
     {
       "id": "mkt:019f33a7-bd33-7aab-8ca4-fe4e64caba0e",
       "time": "2026-07-06 03:00:58",
@@ -121327,30 +121358,6 @@
         "Brent"
       ],
       "text": "Russian President Putin said all damaged energy facilities are being restored rapidly and that operations retain a substantial safety margin."
-    },
-    {
-      "id": "4959107",
-      "time": "2026-06-29 03:06:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京表示，俄羅斯的燃油短缺問題並不嚴峻。"
-    },
-    {
-      "id": "mkt:019f0fa0-4fff-7aab-8c02-4ee3738d0c13",
-      "time": "2026-06-29 03:06:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia's fuel shortage is not serious."
-    },
-    {
-      "id": "4959106",
-      "time": "2026-06-29 03:05:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將會見珍妮絲·劉易斯·喬治。\n注：後者為美國華盛頓特區4區市議員，正在參選華盛頓特區市長，民調大幅領先民主黨初選對手，主打平價住房、育兒普惠、控租金，政策立場與特朗普完全對立。"
     }
   ]
 }

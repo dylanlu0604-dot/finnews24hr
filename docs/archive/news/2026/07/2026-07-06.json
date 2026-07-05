@@ -1,7 +1,38 @@
 {
   "date": "2026-07-06",
-  "count": 77,
+  "count": 80,
   "items": [
+    {
+      "id": "4971096",
+      "time": "2026-07-06 03:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：情報再次顯示俄羅斯正準備發起新一輪大規模打擊。"
+    },
+    {
+      "id": "mkt:019f33aa-1d99-7aab-8ca5-0c9842ca0a2f",
+      "time": "2026-07-06 03:03:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "Reuters survey: 22 of 28 economists expect the RBNZ to raise the policy rate 25bps to 2.50% on July 8."
+    },
+    {
+      "id": "mkt:019f33a8-ae70-7aab-8ca5-060bd8cfbba9",
+      "time": "2026-07-06 03:02:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey: After the July monetary policy meeting, 14 of 26 economists expect the RBNZ to raise rates by a further 25bps before end-September, taking the terminal policy rate to 2.75%."
+    },
     {
       "id": "mkt:019f33a7-bd33-7aab-8ca4-fe4e64caba0e",
       "time": "2026-07-06 03:00:58",
