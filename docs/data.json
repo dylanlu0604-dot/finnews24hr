@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 16:40:29",
-  "count": 13201,
+  "updated": "2026-07-05 16:44:26",
+  "count": 13200,
   "items": [
+    {
+      "id": "4970923",
+      "time": "2026-07-05 16:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱瑞德：8000萬元認購艾可薩11.7647%股權】凱瑞德公告稱，公司以自有資金8000萬元認購艾可薩科技（成都）有限公司新增註冊資本，對應增資後11.7647%股權。其中152.1789萬元認購新增註冊資本，7847.8211萬元計入資本公積。本次投資不構成控制，不納入合併報表。標的公司目前未盈利，預期2026年仍虧損，投資回報和經濟效益存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019f3170-7452-7aab-8ca1-ed6481c294dc",
+      "time": "2026-07-05 16:41:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran begins national mourning for Khamenei; new supreme leader Mujtaba Khamenei has not appeared publicly】The Hill reports Iran has declared national mourning ahead of the burial of the late supreme leader Khamenei on July 9. The new supreme leader, Mujtaba Khamenei, has not attended his father’s funeral and has not appeared publicly since taking power in March; he was reportedly wounded in the first round of strikes and has issued few public statements. The New York Times says it is unclear whether he plans to attend any memorial events."
+    },
+    {
+      "id": "4970922",
+      "time": "2026-07-05 16:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國石油（BP）正考慮撤出位於日本北部的海上風電專案。"
+    },
     {
       "id": "4970921",
       "time": "2026-07-05 16:38:56",
@@ -121527,41 +121551,6 @@
         "國際"
       ],
       "text": "【韓總統就韓國隊無緣世界盃32強致歉：將迅速推進體育管理改革】北京時間6月28日，2026年美加墨世界盃小組賽收官。韓國隊在12個組的第三排名中跌出前八，無緣32強。韓國總統李在明當日在社交媒體平臺X發文稱，此次韓國隊未能晉級世界盃淘汰賽階段，令公眾感到極為失望，對此深感歉意，“我們將迅速推進體育管理改革，確保此類事件不再發生”。李在明提到，這一結果“顯然是組織和人員方面的失誤”，要求文化體育觀光部認真調查此次事件的具體情況，分析其原因並制定完善措施。"
-    },
-    {
-      "id": "mkt:019f0d66-8b04-7aab-8bff-e6912963be32",
-      "time": "2026-06-28 16:44:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Ukraine says its forces struck two Russian refineries】President Zelenskiy said on the 28th Ukrainian forces conducted long-range strikes in the early hours against two refineries inside Russia. He said the Slavyansky refinery in Krasnodar Krai, about 300 km from the front, was hit, and a refinery in Yaroslavl Oblast that was previously attacked in May was also struck. Zelenskiy said operations will continue to “degrade Russia’s ability to wage war” and reposted footage showing large fires and heavy smoke at both sites."
-    },
-    {
-      "id": "4958871",
-      "time": "2026-06-28 16:43:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【第二批公募基金“換尺”大幕拉開 千餘隻產品調整業績比較基準】第二批存量基金產品業績比較基準調整工作已開啟。6月26日，多家基金公司釋出旗下部分存量產品業績比較基準調整公告，涉及90多家基金管理人旗下千餘隻產品。與首批相比，第二批調整覆蓋範圍更廣、產品數量更多、參與主體更加多元。業內專家表示，業績比較基準調整不是基金經理的“調倉指令槍”，更不是市場短期波動的觸發因素。第二批調整是按照“依法合規、貼合實際運作、優先調整基準而非調倉”的原則，對合同約定的基準進行變更，基金管理人調整基準不需要調倉。（21財經）"
-    },
-    {
-      "id": "mkt:019f0d64-d0a5-7aab-8bff-deeeb28af1bd",
-      "time": "2026-06-28 16:42:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said Tehran welcomes a framework for talks with Iraq and other Gulf Arab states on Gulf security."
-    },
-    {
-      "id": "4958870",
-      "time": "2026-06-28 16:41:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長表示，德黑蘭對與包括伊拉克在內的海灣阿拉伯國家開展海灣安全對話的框架表示歡迎。"
     }
   ]
 }

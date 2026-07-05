@@ -1,7 +1,31 @@
 {
   "date": "2026-07-05",
-  "count": 420,
+  "count": 423,
   "items": [
+    {
+      "id": "4970923",
+      "time": "2026-07-05 16:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱瑞德：8000萬元認購艾可薩11.7647%股權】凱瑞德公告稱，公司以自有資金8000萬元認購艾可薩科技（成都）有限公司新增註冊資本，對應增資後11.7647%股權。其中152.1789萬元認購新增註冊資本，7847.8211萬元計入資本公積。本次投資不構成控制，不納入合併報表。標的公司目前未盈利，預期2026年仍虧損，投資回報和經濟效益存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019f3170-7452-7aab-8ca1-ed6481c294dc",
+      "time": "2026-07-05 16:41:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran begins national mourning for Khamenei; new supreme leader Mujtaba Khamenei has not appeared publicly】The Hill reports Iran has declared national mourning ahead of the burial of the late supreme leader Khamenei on July 9. The new supreme leader, Mujtaba Khamenei, has not attended his father’s funeral and has not appeared publicly since taking power in March; he was reportedly wounded in the first round of strikes and has issued few public statements. The New York Times says it is unclear whether he plans to attend any memorial events."
+    },
+    {
+      "id": "4970922",
+      "time": "2026-07-05 16:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英國石油（BP）正考慮撤出位於日本北部的海上風電專案。"
+    },
     {
       "id": "4970921",
       "time": "2026-07-05 16:38:56",
