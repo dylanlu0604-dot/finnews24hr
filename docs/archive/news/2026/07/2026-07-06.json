@@ -1,7 +1,15 @@
 {
   "date": "2026-07-06",
-  "count": 56,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:019f336c-734d-7aab-8ca4-bfcd58c1cdfe",
+      "time": "2026-07-06 01:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Defense Ministry said its air defenses intercepted and destroyed 116 Ukrainian drones that flew over multiple Russian regions within a single day."
+    },
     {
       "id": "4971083",
       "time": "2026-07-06 01:52:55",
