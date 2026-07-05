@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 18:24:14_
-_本檔包含 2362 則快訊，約 507294 字_
+_更新時間：2026-07-05 20:00:34_
+_本檔包含 2358 則快訊，約 505835 字_
+
+---
+
+### 2026-07-05 19:59:15  #MKT News
+
+【Iran says maritime trade with Qatar resumes】Iran's commercial attaché at its embassy in Qatar said on the 5th that maritime shipments between Iran's Deyr port and Qatar's Al Ruwais port, suspended for about five months, have resumed after coordination with Qatari authorities and Al Ruwais has begun accepting Iranian cargo.
+
+---
+
+### 2026-07-05 19:58:38  #國際
+
+【伊朗官員稱該國已恢復與卡達的海上貿易】總檯記者當地時間5日獲悉，伊朗駐卡達使館商務參贊表示，在伊朗迪爾港與卡達阿爾魯韋斯港之間的海上運輸中斷約五個月後，經與卡達有關部門協調，阿爾魯韋斯港已重新開始接收伊朗貨物，兩國海上貿易現已恢復。（央視新聞）
+
+---
+
+### 2026-07-05 19:55:16  #國際
+
+澤連斯基：與瑞典首相進行了交談。感謝烏爾夫的支援以及他對俄羅斯對烏克蘭、對我們人民的戰爭的明確立場。
+
+---
+
+### 2026-07-05 19:52:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+【Mitsubishi UFJ: Wosh's terse style makes Fed June minutes more important】George Goncalves, head of U.S. macro strategy at Mitsubishi UFJ Securities America, said Wosh’s sparing use of words raises the market significance of the Fed’s June minutes as a rare window into officials’ divergent views. He added some investors have questioned Wosh’s hands-off approach and are pushing for greater transparency; many market participants are unused to reduced communication and doubt how long the Fed can sustain it, leaving traders to read between the lines.
+
+---
+
+### 2026-07-05 19:52:09  #其他
+
+【地球磁場連續24小時發生磁暴】中國氣象局國家空間天氣監測預警中心7月5日發文稱，從北京時間7月4日早8點開始，地球磁場連續24小時發生磁暴，這是自今年1月20日，再一次出現的較強地磁活動。
+
+---
+
+### 2026-07-05 19:47:03  #國際
+
+敘利亞方面訊息：法國總統馬克龍將訪問敘利亞。
+
+---
+
+### 2026-07-05 19:46:15  #焦點 #國際
+
+【7月5日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.《習近平關於基層工作方法論述摘編》出版發行； 2.【偉大征程】踐行綠色發展理念 繪就生態中國壯美畫卷； 3.鑄牢聽黨指揮的強軍之魂 攻堅建軍百年奮鬥目標——習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話在全軍引發熱烈反響； 4.人民日報評論員文章：堅定信心、接續奮鬥，不斷創造無愧於時代和人民的新業績——論學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上重要講話； 5.“七一勳章”獲得者吳亞琴：溫暖一方鄰里 守住萬家燈火； 6.各地採取有效措施 積極應對強降雨天氣； 7.香港首個空間站科學載荷“天韻相機”完成部署； 8.國內聯播快訊： （1）今年以來我國快遞業務量突破千億件； （2）1—5月規模以上電子資訊製造業增加值實現兩位數增長； （3）上半年全國共新開國際航空貨運航線92條； （4）太平嶺核電2號機組成功併網； （5）2026年暑期檔電影票房破20億元； 9.國際人士高度評價習近平在慶祝中國共產黨成立105週年大會上的重要講話； 10.國際聯播快訊： （1）伊朗警告域外國家勿干涉霍爾木茲海峽； （2）以官員首次承認曾在阿聯酋部署“鐵穹”； （3）極端高溫或致環法賽部分賽段取消。
+
+---
+
+### 2026-07-05 19:45:38  #公司
+
+【國旅聯合：發行股份及支付現金購買資產並募資獲證監會同意註冊批覆】國旅聯合公告稱，公司擬向江西邁通健康飲品開發有限公司等發行股份及支付現金購買潤田實業100%股份並募集配套資金。2026年7月3日，公司收到中國證監會批覆，同意向相關方發行股份購買資產，發行股份募集配套資金不超9.30億元。批覆自下發之日起12個月內有效，公司董事會將在規定期限內辦理相關事宜並及時披露資訊。
+
+---
+
+### 2026-07-05 19:44:37  #資料
+
+健合國際控股（HEALTH & HAPPINESS）：預計上半年調整後淨利潤同比增幅超 100%。
+
+---
+
+### 2026-07-05 19:42:19  #MKT News
+
+Syrian presidency said a delegation of French investors will accompany French President Macron on his visit to Syria.
+
+---
+
+### 2026-07-05 19:38:02  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish
+
+【Peskov: Russia open to peace talks, expects U.S. mediation】Kremlin spokesman Peskov said Russia remains open to peace talks and expects the United States to play a mediating role; Moscow has welcomed visits by U.S. presidential envoys Witkov and Jared Kushner and, despite their prolonged absence, continues U.S. contact via existing channels. He said Ukrainian forces, citing front-line deterioration, have stepped up attacks on Russian infrastructure; Russian forces are creating a border security buffer with visible effects and are advancing steadily in the special military operation area. Peskov added that the EU’s shift into a military-political bloc has worsened the Ukraine situation and Russia hopes the EU will not undermine prospects for negotiations.
+
+---
+
+### 2026-07-05 19:30:59  #公司 #國際
+
+【佩斯科夫：俄對和平談判持開放態度 期待美國進行調解】當地時間5日，俄羅斯總統新聞秘書佩斯科夫在當日播出的一檔節目中表示，烏克蘭武裝力量因前線局勢惡化，加大了對俄羅斯基礎設施的攻擊力度。俄軍正在邊境建立安全緩衝地帶，已可見具體成效。他還稱，俄軍在特別軍事行動區域按計劃穩步推進。佩斯科夫表示，歐盟轉變為軍事政治集團，使烏克蘭問題進一步惡化。俄方希望歐盟不要破壞和平談判的前景。佩斯科夫還表示，俄羅斯對和平談判仍持開放態度，並期待美國發揮調解作用。俄始終歡迎美總統特使威特科夫和特朗普的女婿庫什納到訪。在二人較長時間未到訪的情況下，俄羅斯仍透過現有渠道與美國保持接觸。（央視新聞）
+
+---
+
+### 2026-07-05 19:25:07  #宏觀
+
+【張國清在新疆調研時強調 強化產業賦能 突出就業導向 提升中央企業援疆綜合效益】中共中央政治局委員、國務院副總理張國清2日至5日在新疆調研中央企業支援新疆產業發展和促進就業有關工作。他強調，要深入貫徹落實習近平總書記關於新疆工作的重要講話精神，完整準確全面貫徹新時代黨的治疆方略，強化產業賦能，突出就業導向，提升中央企業援疆綜合效益，為建設社會主義現代化新疆作出新的更大貢獻。（新華社）
+
+---
+
+### 2026-07-05 19:23:31  #MKT News
+
+Israeli Prime Minister Netanyahu said US President Trump did not ask Israel to halt operations targeting Hezbollah tunnels.
+
+---
+
+### 2026-07-05 19:23:23  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Israeli Prime Minister Netanyahu said reconstruction of Gaza must proceed only after armed groups are disarmed, and Gaza residents must be allowed to choose whether to remain in the Gaza Strip or leave.
+
+---
+
+### 2026-07-05 19:20:33  #國際
+
+內塔尼亞胡：我方已獲得在黎巴嫩南部整條所謂 “黃線” 沿線駐軍的法理依據，特朗普並沒有要求我們不要對真主黨地下隧道採取行動。
+
+---
+
+### 2026-07-05 19:16:13  #MKT News
+
+Al Jazeera cited a maritime intelligence firm saying Iranian Revolutionary Guard Corps vessels diverted six vessels from the Oman route.
+
+---
+
+### 2026-07-05 19:15:30  #國際
+
+內塔尼亞胡：來自加沙的威脅已被消除，除非解除武裝，否則加沙將無重建。加沙居民必須被允許享有選擇留在該地區還是離開的自由。
+
+---
+
+### 2026-07-05 19:10:42  #其他
+
+【黑龍江釋出暴雨紅色預警訊號】黑龍江省氣象臺7月5日18時30分發布暴雨紅色預警訊號:過去1小時齊齊哈爾市富拉爾基區部分鄉鎮降雨量已達50～80毫米，預計未來2小時還將有30～50毫米的降水，累計雨量將達100毫米以上。請注意防範。
+
+---
+
+### 2026-07-05 19:05:34  #其他
+
+【受颱風“美莎克”影響 滬昆鐵路、京廣鐵路等線路部分列車停運】來自國鐵廣州局的訊息，受“美莎克”和季風共同影響，南海西部、瓊州海峽、北部灣、廣東沿海、海南島沿海等地，今天（5日）晚上到明天早晨將有大風天氣，廣西、湖南部分地區有大暴雨至特大暴雨。為確保旅客列車執行安全，國鐵廣州局根據颱風影響範圍，持續調整列車執行方案，7月5日至7日，廣湛高鐵、深湛鐵路、懷衡鐵路、滬昆鐵路、京廣鐵路等線路部分列車停運，具體停運車次可在12306網站（App）查詢。（央視新聞）
+
+---
+
+### 2026-07-05 19:03:51  #其他
+
+【電影《特立獨行》總票房破7000萬元】據貓眼專業版資料，電影《特立獨行》上映3天 ，總票房破7000萬元。
+
+---
+
+### 2026-07-05 19:02:31  #MKT News
+
+【Houthis attack government troops in Hodeidah province, kill 14】Yemeni military and medical sources said on April 5 local time that a Houthi attack in Hodeidah province on the Red Sea coast on April 4 killed at least 14 government soldiers and wounded several others.
+
+---
+
+### 2026-07-05 19:01:50  #國際
+
+【山火致切爾諾貝利核禁區出現火龍捲】近日，烏克蘭國家緊急情況局公佈的一段影片顯示，受持續山火影響，在切爾諾貝利的核禁區內，山火和強風相互作用形成“火龍捲”。據報道，烏克蘭消防人員自6月底就開始在切爾諾貝利核電站周邊進行滅火作業，但由於周邊水源匱乏，滅火作業難度大幅增加，目前火情尚未得到完全控制。烏克蘭國家緊急情況局稱，目前輻射值處於正常水平。“火龍捲”是一種在極端高溫和大風情況下由火焰和煙霧共同形成的氣旋，形似高速旋轉的火焰。（CCTV國際時訊）
+
+---
+
+### 2026-07-05 18:58:05  #國際
+
+【“歐佩克+”同意八月起上調石油生產配額】當地時間5日，歐佩克釋出宣告稱，“歐佩克+”七個成員國（沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼）舉行了線上會議，審查全球市場狀況和前景。各成員國同意從八月起將石油產量目標提高18.8萬桶/日，此外將每月舉行一次會議，審查市場狀況、合規情況和補償機制。（央視新聞）
+
+---
+
+### 2026-07-05 18:55:47  #公司
+
+【中際旭創：“公司上游物料炫光片被封鎖”的市場傳言不符合事實】中際旭創7月5日在互動平臺表示，“公司上游物料炫光片被封鎖”的市場傳言不符合事實。公司在核心物料方面都有正常的採購渠道，供應商也在積極支援，沒有被封鎖的情形。光模組雖有組裝工序（幾十道工序之一），但不能簡單等同於組裝行業。高階光模組涵蓋了矽光、相干等核心技術，而且還需要長期可靠性測試與大客戶嚴苛的准入認證。總結來說，光模組的系統設計與整合最佳化以及製造工藝都是核心技術，絕非簡單拼裝或組裝。
+
+---
+
+### 2026-07-05 18:48:05  #其他
+
+市場訊息：壁仞科技以每股46.20港元的價格發行新的H股。
+
+---
+
+### 2026-07-05 18:41:37  #公司
+
+市場訊息：FS.COM 將收購上海博達資料通訊有限公司。
+
+---
+
+### 2026-07-05 18:41:10  #MKT News
+
+Iran's maritime authority said maritime trade between Qatar's Ruwais port and Iranian ports has resumed.
+
+---
+
+### 2026-07-05 18:40:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq's oil minister said crude output at the Sinbad oilfield will reach 80,000–100,000 bpd and associated gas production will rise by about 260 million standard cubic feet per day.
+
+---
+
+### 2026-07-05 18:40:13  #國際
+
+伊朗伊斯蘭共和國通訊社(IRNA)：卡達魯韋斯港與伊朗各港口之間的海上貿易已恢復。
+
+---
+
+### 2026-07-05 18:38:35  #其他
+
+【一艘貨船在葉門附近海域遭襲】英國海上貿易行動辦公室5日釋出通報說，一艘貨船當天在葉門附近海域遭不明身份武裝人員襲擊。根據通報，這艘貨船在協調世界時5日7時19分（北京時間5日15時19分）發出遇險警報，事發地點位於葉門荷臺達西南約30海里處。近期，葉門附近海域海上安全形勢持續緊張，國際航運安全風險持續受到關注。（新華社）
+
+---
+
+### 2026-07-05 18:37:37  #其他
+
+市場訊息：德國計劃將2027年淨新增借款規模提高至1180億歐元，較4月預期增加約7%。
+
+---
+
+### 2026-07-05 18:37:15  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
+
+Germany plans to raise 2027 net new borrowing to €118 billion, about 7% higher than the April projection.
+
+---
+
+### 2026-07-05 18:37:11  #其他
+
+伊拉克石油部長:協議將使賓烏馬爾油田原油產量提升至每日15萬桶，伴生氣產量增至每日3億標準立方英尺。
+
+---
+
+### 2026-07-05 18:35:17  #MKT News #WTI #Impact bearish #Brent
+
+Iraq's oil minister said a five-year deal with Halliburton will raise Bin Umar oilfield crude output to 150,000 barrels per day and associated gas to 300 million standard cubic feet per day.
+
+---
+
+### 2026-07-05 18:34:57  #公司
+
+伊拉克石油部長表示，與哈里伯頓公司達成的協議期限為五年。
+
+---
+
+### 2026-07-05 18:33:58  #其他
+
+【葉門胡塞武裝襲擊政府軍致14人死亡】亞丁訊息：葉門軍方和醫療部門訊息人士5日說，胡塞武裝4日在紅海沿岸的荷臺達省發動襲擊，造成至少14名葉門政府軍士兵死亡，另有多人受傷。一名不願透露姓名的葉門政府軍官員表示，胡塞武裝的襲擊目標是政府軍位於荷臺達省的兩座營房，雙方隨即爆發激烈交火。襲擊發生後，政府軍將多個戰線的戰備等級提升至最高階別。當地醫院的醫療人員向新華社記者證實，此次襲擊造成至少14名葉門政府軍士兵死亡，另有多人仍在醫院接受治療，部分傷者傷勢嚴重。胡塞武裝尚未對此發表任何宣告或表態。（新華社）
+
+---
+
+### 2026-07-05 18:31:51  #其他
+
+【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】預計，7月5日20時至6日20時，湖南西南部、廣西東部等地部分地區發生山洪災害可能性大（橙色預警），其中，廣西東部部分地區發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-07-05 18:30:43  #MKT News #Commodities #Energy
+
+Iraq signed an agreement and a statement with Halliburton to manage two oilfields, market sources said.
+
+---
+
+### 2026-07-05 18:29:07  #其他
+
+市場訊息:伊拉克與哈里伯頓簽署協議，委託其管理兩處油田。
+
+---
+
+### 2026-07-05 18:28:17  #其他
+
+【第一屆數字經濟機遇年會在京舉辦】7月3日，2026全球數字經濟大會第一屆數字經濟機遇年會（以下簡稱“年會”）在北京舉行。年會以“聚智尋機·賦能未來”為主題。年會期間，全球數字經濟大會組委會發布“機遇手冊”系列成果——《賽道·全球機遇（2026）》《企業·中國機遇（2026）》《機構·中國機遇（2026）》。三項成果構建起數字經濟“產業賽道研判—企業主體發掘—機構資金配置”的全鏈條研究閉環，為政府產業培育、金融機構投資決策、產業鏈上下游合作提供參考。
+
+---
+
+### 2026-07-05 18:25:47  #其他
+
+【遼寧大連啟動防汛四級應急響應】7月5日16時30分，大連市氣象臺釋出暴雨藍色預警，根據《大連市防汛抗旱應急預案》有關規定並結合氣象預報，經會商研判，大連市防汛抗旱指揮部決定自7月5日16時50分起，釋出防汛藍色預警，啟動全市防汛四級應急響應。（央視新聞）
 
 ---
 
@@ -14002,281 +14254,5 @@ The Shangai Composite Index Closes 0.38% Higher — The Shangai Composite Index 
 ### 2026-07-03 15:15:02  #Trading Economics #Economy #Spain #Industrial Production #Importance 1
 
 Spain Industrial Output Growth at 6-Month High — Spain’s industrial production increased by 3.4% year-over-year in May 2026, following an upwardly revised 2.3% rise in the prior month. This marked the third consecutive monthly increase in the country's industrial activity and the strongest since November 2025, supported by the production of intermediate goods (5.4% vs 2.2% in April), energy (5.1% vs 2.5%) and capital goods (3.9% vs 4.1%). Conversely, output declined for consumer goods (-1% vs -0.4%), of which durable (-4.2% vs -6.4%) and non-durable goods (-0.7% vs 0.3%). On a seasonally adjusted monthly basis, industrial activity rose by 1.2% in May, rebounding from a downwardly revised 0.3% decline in the prior month. The turnaround was driven by a recovery in energy (3.8% vs -0.8%) and intermediate goods (2% vs -0.3%) output, while capital goods production posted a modest increase (0.3% vs 0%).
-
----
-
-### 2026-07-03 15:14:53  #Trading Economics #Economy #Turkey #Producer Prices Change #Importance 1
-
-Turkey Producer Inflation Eases Slightly in June — The annual producer inflation rate in Turkey edged down to 28.09% in June 2026 from 28.93% in the previous month. Producer price growth slowed slightly in manufacturing (29.65% vs. 30.72% in May), while easing more notably in electricity, gas, steam and air conditioning (4.12% vs. 6.88%) and water supply (29.26% vs. 35.00%). In contrast, price growth accelerated in mining and quarrying (53.50% vs. 42.74%).By industrial groupings, producer price growth slowed in durable consumer goods (28.97% vs. 31.39% in May), energy (24.93% vs. 31.45%), and capital goods (23.01% vs. 23.73%). Meanwhile, inflation accelerated slightly in intermediate goods (27.89% vs. 27.76%) and non-durable consumer goods (31.42% vs. 31.05%). On a monthly basis, Turkey's producer prices edged down to 1.80% in June 2026, following a 2.75% rise in May, marking the weakest monthly increase in six months.
-
----
-
-### 2026-07-03 15:14:49  #國際
-
-伊朗議會議長卡利巴夫：在幾天前的阿曼之行中，根據諒解備忘錄第五條，我們達成了關於海峽通行安排的協議。
-
----
-
-### 2026-07-03 15:14:27  #國際
-
-檔案顯示，GoDaddy稱印度法院去年12月的裁決會損害使用者隱私，並對其全球業務系統造成影響。
-
----
-
-### 2026-07-03 15:14:22  #國際
-
-檔案顯示，Domain網站服務商GoDaddy在上訴程式中告知印度法院，若嚴格管控指令繼續實施，域名企業可能會“撤出印度”。
-
----
-
-### 2026-07-03 15:14:20  #Trading Economics #Markets #France #stocks #Importance 1
-
-BNP Paribas Stock Price Hits 24-year High — BNP Paribas shares increased to 103.02 EUR, the highest since February 2002. Over the past 4 weeks, BNP Paribas gained 9.54%, and in the last 12 months, it increased 37.46%.
-
----
-
-### 2026-07-03 15:12:32  #其他
-
-【燃油價格衝擊後，澳大利亞人紛紛購買電動汽車】燃油成本飆升推動了澳大利亞電動汽車銷量的增長。行業機構Electric Vehicle Council表示，6月份電動汽車銷量佔新乘用車總銷量的35.8%，其中特斯拉Model Y成為該國最受歡迎的汽車。當月純電動汽車佔汽車銷量的四分之一。該機構表示，特斯拉Model Y 6月份的銷量達到創紀錄的8,072輛，超過了福特Ranger和豐田HiLux。
-
----
-
-### 2026-07-03 15:12:21  #公司 #市場 #國際
-
-【德商銀行：日本或避免干預以提振日元】德國商業銀行的Volkmar Baur在一份報告中表示，正如一些人預期的那樣，日本當局週五可能會避免干預以支撐日元。他表示，週五是美國公眾假期，流動性將會變差。“雖然這將是再次干預的好時機——當然，也不能排除這種可能性——但只要美元今天能企穩在161日元，真正干預的壓力可能就很小。“倫敦證券交易所集團的資料顯示，美元最新下跌0.2%，報160.88日元，早些時候曾觸及160.51日元的兩週低點。日本財務大臣片山皋月發出的又一次干預警告以及週四疲軟的美國非農就業人數資料為日元提供了支撐。
-
----
-
-### 2026-07-03 15:12:00  #市場
-
-【SCFI綜合指數報3326.87點，CCFI綜合指數報1811.15點】上海航運交易所資料顯示，截至7月3日，上海出口集裝箱運價指數（綜合指數）SCFI報3326.87點，與上期相比上漲87.23點。中國出口集裝箱運價綜合指數CCFI報1811.15點，與上期相比漲5.9%。
-
----
-
-### 2026-07-03 15:11:58  #公司 #國際
-
-【福特在美召回66383輛汽車，因行人警告音缺失】7月3日，據美國國家公路交通安全管理局（NHTSA）披露，福特汽車公司正在召回部分2024-2027款林肯Nautilus混合動力車和2025-2027款Explorer混合動力車，共計66383輛，軟體故障可能導致車輛在特定速度下無法發出行人警告音。
-
----
-
-### 2026-07-03 15:11:48  #公司
-
-【TCL中環入圍廣州能源集團2026年光伏元件集中招標採購】據TCL中環訊息，6月26日，廣東能源集團2026年度光伏元件集中招標採購候選人公示正式落地。本次集採總規模679.87MW，覆蓋農光互補、複合型地面電站等多類核心場景。TCL中環為標段一、三、四第一中標候選人。
-
----
-
-### 2026-07-03 15:11:45  #市場
-
-【中國駐巴布亞紐幾內亞使館鄭重提醒：切勿參與非法採金、黃金走私違法活動】7月3日，中國駐巴布亞紐幾內亞使館鄭重提醒，在巴新的中國公民和機構務必遵守當地法律法規，切勿參與非法採金、黃金走私違法活動，避免違法行為給自身帶來安全風險。如遇緊急情況第一時間報警並與中國駐巴新使館聯絡尋求協助。
-
----
-
-### 2026-07-03 15:11:03  #國際
-
-韓國計劃到2035年建成低軌道衛星網路提供網際網路服務。
-
----
-
-### 2026-07-03 15:10:36  #其他
-
-【清理違規影片近7600條 6月“AI魔改”影片治理成果公佈】記者今天從國家廣播電視總局獲悉，按照國家廣播電視總局工作部署，2026年1月開展的“AI魔改”影片專項治理工作已取得實效，部分重點網路視聽平臺今天公佈了6月的處置情況，共清理違規影片近7600條、處置違規賬號20餘個。據介紹，為進一步鞏固治理成果，自2月1日起，“AI魔改”影片治理工作透過常態化、制度化長效機制持續開展。國家廣播電視總局督導各主要網路視聽平臺進一步深化落實主體責任，加強日常排查，重點清理基於四大名著、歷史題材、革命題材、英模人物等經典影視作品進行“AI魔改”的違規影片，並同步清理各類邪典動畫，持續營造健康的網路視聽生態環境。（央視新聞）
-
----
-
-### 2026-07-03 15:09:02  #Trading Economics #Economy #Turkey #Balance of Trade #Importance 1
-
-Turkey Posts Largest Trade Deficit in 3 Months — Turkey’s trade deficit widened to USD 10.4 billion in June 2026 from USD 8.2 billion in the same month a year earlier, according to preliminary data from the Trade Ministry. The shortfall was the largest since March, as imports climbed 23% year-on-year to a six-month high of USD 35.3 billion, outpacing a 21.7% increase in exports to USD 24.9 billion. For the first half of 2026, Turkey recorded a cumulative trade deficit of USD 53.1 billion. During the period, imports rose 4.6% compared with the same period a year earlier to USD 189.2 billion, while exports increased at a slower pace of 3.6% to USD 136.1 billion, highlighting a persistent deficit in the country’s external trade position.
-
----
-
-### 2026-07-03 15:08:12  #國際
-
-日本內閣官房長官木原稔：不會推行會損害市場信心的財政政策；將始終按需對外匯採取適當措施。
-
----
-
-### 2026-07-03 15:07:16  #市場
-
-土耳其主要銀行指數<.XBANK>在通脹資料公佈後下跌2%。
-
----
-
-### 2026-07-03 15:06:20  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-Stocks in France Hit 18-week High — FR40 increased to 8507.00 Index Points, the highest since February 2026. Over the past 4 weeks, France Stock Market Index (FR40) gained 3.12%, and in the last 12 months, it increased 10.47%.
-
----
-
-### 2026-07-03 15:06:15  #Trading Economics #Economy #France #Industrial Production Mom #Importance 2
-
-France Industrial Output Falls Less Than Expected — Industrial production in France fell by 0.1% month-on-month in May 2026, beating market expectations of a 0.4% decline, following a 0.3% increase in the previous month. Production contracted more sharply in manufacturing (-1.0% vs. -0.4% in April), weighed down by declines in the manufacture of transport equipment (-2.8% vs. 3.3%) and coke and refined petroleum products (-9.0% vs. 0.6%), while the contraction in machinery and equipment production deepened (-2.3% vs. -0.4%). Additionally, activity declined in mining and quarrying (-0.6% vs. 2.2%), while growth in water supply, sewerage, waste management, and remediation services eased (0.9% vs. 1.0%). In contrast, output rebounded sharply in electricity, gas, steam, and air-conditioning supply (3.4% vs. -1.1%). On an annual basis, industrial production rose 3.2% in May, following an upwardly revised 2.9% increase in the previous month.
-
----
-
-### 2026-07-03 15:06:11  #央行 #國際
-
-日本內閣官房長官：政府將繼續與日本央行密切合作。
-
----
-
-### 2026-07-03 15:04:32  #國際
-
-日本內閣官房長官木原稔：利率走勢由市場決定。
-
----
-
-### 2026-07-03 15:04:13  #央行 #國際
-
-日本內閣官房長官：貨幣政策屬日本央行管轄範疇。
-
----
-
-### 2026-07-03 15:03:55  #市場
-
-【ETF收評：機器人ETF領漲10.01%，創新藥ETF領跌8.21%】ETF收盤漲跌不一，機器人ETF（159050）領漲10.01%，機器人ETF（159039）漲9.55%，機器人ETF（159278）漲9.37%，創新藥ETF（517120）領跌8.21%，科創新材料ETF（589180）跌4.78%，科創半導體裝置ETF（589020）跌4.15%。
-
----
-
-### 2026-07-03 15:03:51  #其他
-
-阿斯麥（ASML）、ASMI、貝斯科技（BESI）股價跌幅/漲幅在2%至2.5%區間。
-
----
-
-### 2026-07-03 15:03:44  #其他
-
-豐田和戴姆勒將出售價值2000億至3000億日元的股票。
-
----
-
-### 2026-07-03 15:03:38  #市場
-
-歐洲斯托克600指數、德國DAX30指數創下盤中歷史新高，現分別漲0.35%和0.72%。
-
----
-
-### 2026-07-03 15:03:27  #其他
-
-【第三屆嶽麓軍控論壇在國防科技大學舉行】7月7日至8日，第三屆嶽麓軍控論壇將在國防科技大學舉行。論壇設定全體會議、圓桌對話、戰略穩定對話、國際分論壇、場景討論等，約140名中外代表將聚焦“推動軍控合作，促進全球治理”主題，共同研究國際安全形勢，探討以軍控促進戰略穩定的方法路徑，啟用各方加強全球治理合作的內在動力。（國防部發布）
-
----
-
-### 2026-07-03 15:02:57  #市場 #A股
-
-【收評：創業板指衝高回落微漲，機器人概念股掀漲停潮】市場全天衝高回落，三大指數小幅上漲。機器人概念股掀漲停潮，長盛軸承、金髮科技、北緯科技、中大力德等超40股封漲停板。貴金屬板塊延續漲勢，赤峰黃金、招金黃金2連板，西部黃金、四川黃金漲停。創新藥概念反覆活躍，石藥景峰2連板，信立泰漲停。下跌方面，半導體產業鏈下挫，氣派科技、立昂微跌停。個股漲多跌少，滬深京三市超3800股飄紅，今日成交3.21萬億。截止收盤滬指漲0.37%，深成指漲0.64%，創業板指漲0.07%。
-
----
-
-### 2026-07-03 15:01:49  #其他
-
-【韓正出席第十四屆世界和平論壇開幕式並致辭】7月3日，國家副主席韓正在清華大學出席第十四屆世界和平論壇開幕式並致辭。韓正表示，當前世界百年變局加速演進，國際形勢變亂交織，地緣衝突此起彼伏，各種風險挑戰和治理赤字更加突出。習近平主席提出全球治理倡議，推動構建更加公正合理的全球治理體系，為世界注入了寶貴的穩定性和正能量。（新華社）
-
----
-
-### 2026-07-03 15:01:20  #宏觀
-
-【油價創下年內最大單次降幅】油價迎來“三連跌”。據國家發改委訊息，自7月3日24時起，國內汽、柴油(標準品)價格每噸分別下調950元、915元。此次調價創下年內最大單次降幅，根據機構測算，調價過後，摺合92號汽油每升下調0.73元，95號汽油每升下調0.77元，0號柴油每升下調0.78元。以油箱容量50L的普通私家車計算，車主加滿一箱92號汽油將省36.5元左右。（中新網）
-
----
-
-### 2026-07-03 15:01:02  #市場 #焦點
-
-A股收盤，上證指數漲0.37%，深證成指漲0.64%，創業板指漲0.07%。
-
----
-
-### 2026-07-03 15:00:29  #市場
-
-土耳其6月消費者價格指數同比上漲32.11%；此前預期上漲32.10%。
-
----
-
-### 2026-07-03 15:00:03  #市場
-
-【商品期貨收盤】白銀連續漲4.31%，鈀連續漲3.98%，集運指數歐線期貨連續漲3.72%，鉑連續漲3.27%，丁二烯橡膠連續漲3.24%，液化石油氣連續漲2.64%，碳酸鋰連續漲2.40%，黃金連續漲2.36%，純苯連續漲2.31%，瀝青連續漲2.07%。
-
----
-
-### 2026-07-03 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌0.23%， 滬深300指數期貨連續漲0.58%， 中證500指數期貨連續漲0.27%， 上證50指數期貨連續漲0.42%。
-
----
-
-### 2026-07-03 15:00:01  #市場
-
-歐股開盤普漲，德國DAX指數漲2.16%，英國富時100指數漲1.67%，法國CAC40指數漲1.65%，歐洲斯托克50指數漲1.16%，義大利富時MIB指數漲1.6%。
-
----
-
-### 2026-07-03 14:59:21  #國際
-
-【哈梅內伊葬禮前夕 革命衛隊總司令現身】伊朗為已故最高領袖阿里·哈梅內伊舉行葬禮前夕，一度被傳遇襲身亡的伊朗伊斯蘭革命衛隊總司令艾哈邁德·瓦希迪2日晚在首都德黑蘭現身。伊朗最高領袖辦公室釋出的照片顯示，在德黑蘭市中心哈梅內伊故居旁一座悼念廳舉行的一場小規模宗教活動上，瓦希迪坐在哈梅內伊的靈柩旁。靈柩前擺著紅色鬱金香，上方掛著紙蝴蝶。（新華社）
-
----
-
-### 2026-07-03 14:59:00  #宏觀 #其他 #焦點
-
-【2026年7月3日國內成品油價格調整】6月18日國內成品油價格調整以來，國際市場原油價格快速回落後小幅波動執行，本次調價的前10個工作日平均價格低於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自7月3日24時起，國內汽、柴油（標準品）價格每噸分別下調950元、915元。 中石油、中石化、中海油公司及其他原油加工企業要組織好成品油生產和調運，確保市場穩定供應，嚴格執行國家價格政策。各地相關部門要加大市場監督檢查力度，嚴厲查處不執行國家價格政策的行為，維護正常市場秩序。消費者可透過12315平臺舉報價格違法行為。（新華社）
-
----
-
-### 2026-07-03 14:58:29  #其他
-
-【已有多省份公佈2025年城鎮單位就業人員平均工資資料】目前，已有多省份公佈2025年城鎮單位就業人員平均工資資料。 資料顯示，19個省份中，天津、廣東、浙江、江蘇、寧夏、重慶、海南7個省份城鎮非私營單位就業人員平均工資超過了12萬元。其中，天津市統計局公佈的資料顯示，2025年，天津市城鎮非私營單位就業人員年平均工資為149507元，比上年增加7070元，同比增長5.0%。 廣東和浙江的城鎮非私營單位就業人員平均工資也超過了14萬元，分別達到了143284元和141902元。江蘇省城鎮非私營單位就業人員年平均工資為134969元。（第一財經）
-
----
-
-### 2026-07-03 14:57:35  #其他
-
-【中國銀行：與亞投行落地烏茲別克電信五年期跨境人民幣貸款專案】7月3日，據中國銀行訊息，中國銀行與亞洲基礎設施投資銀行於近期落地烏茲別克電信五年期跨境人民幣貸款專案，融資總額超7億元人民幣。專案全程採用人民幣作為結算幣種。該專案聚焦烏茲別克通訊網路基建領域。
-
----
-
-### 2026-07-03 14:57:28  #國際
-
-伊朗議會議長卡利巴夫：我們不會允許美國干涉霍爾木茲海峽。
-
----
-
-### 2026-07-03 14:57:18  #國際
-
-韓國航天局局長稱，韓國計劃在2030年前發射月球著陸器。
-
----
-
-### 2026-07-03 14:55:53  #其他
-
-歐元/美元一年期波動率觸及5.97%，為2022年1月以來最低水平。
-
----
-
-### 2026-07-03 14:54:45  #市場 #焦點
-
-滬深兩市成交額超3.1萬億元，較上日此時縮量2768億元。
-
----
-
-### 2026-07-03 14:53:20  #市場 #其他
-
-港股半導體板塊午後回落，兆易創新(03986.HK)、華虹宏力(01347.HK)跌超5%，中芯國際(00981.HK)跌超3%，瀾起科技(06809.HK)、晶門半導體(02878.HK)等跟跌。
-
----
-
-### 2026-07-03 14:52:31  #國際
-
-【韓國AI“復活”逝者引爭議】為父親挑選禮物時，28歲的韓國上班族李建熙（音譯）有一個不同尋常的想法：用人工智慧（AI）技術生成一段已去世爺爺的影片。於是他找到首爾技術企業Vaice，讓工作人員根據爺爺生前照片製作一段影片，並讓“AI爺爺”按照他編寫的臺詞告訴“親愛的兒子”，自己為讓他小時候幫忙幹農活以及反對他成為一名髮型師的決定而道歉。美聯社2日引述李建熙的話報道：“父親說他不會看那個影片，但後來還是看了，並且流下眼淚。所以我感到很值得。”當前，越來越多韓國人希望利用AI生成逝者影片，一些技術企業抓住這個商機推出相關服務。（新華社）
-
----
-
-### 2026-07-03 14:52:09  #市場 #其他 #國際
-
-市場訊息：土耳其將逐步取消燃油價格階梯式收費制度。
-
----
-
-### 2026-07-03 14:51:32  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Slips on Record-High Inventories in China — Iron ore futures fell below CNY 740 per ton, drifting back toward one-year lows after an industry report showed inventories at Chinese ports had climbed to a record 160 million tons. The ample stockpiles have eased supply concerns for steel mills, reducing their need to purchase additional seaborne cargoes. The bearish inventory data outweighed China's move earlier this week to limit deliveries of certain Fortescue products to selected domestic steelmakers, a step that could tighten local supply. According to reports, the China Mineral Resources Group ordered mills and traders holding Fortescue’s Super Special Fines to take delivery before July 15, after which the blast furnace feedstock would be placed on a blacklist. If implemented, the measure would mark a major escalation in the standoff, with negotiations over long-term supply agreements between the Australian miner and CMRG still at an impasse.
 
 ---
