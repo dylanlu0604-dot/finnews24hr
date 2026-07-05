@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 503,
+  "count": 505,
   "items": [
+    {
+      "id": "mkt:019f3225-a571-7aab-8ca2-c2dc65426aea",
+      "time": "2026-07-05 19:59:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says maritime trade with Qatar resumes】Iran's commercial attaché at its embassy in Qatar said on the 5th that maritime shipments between Iran's Deyr port and Qatar's Al Ruwais port, suspended for about five months, have resumed after coordination with Qatari authorities and Al Ruwais has begun accepting Iranian cargo."
+    },
+    {
+      "id": "4970979",
+      "time": "2026-07-05 19:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員稱該國已恢復與卡達的海上貿易】總檯記者當地時間5日獲悉，伊朗駐卡達使館商務參贊表示，在伊朗迪爾港與卡達阿爾魯韋斯港之間的海上運輸中斷約五個月後，經與卡達有關部門協調，阿爾魯韋斯港已重新開始接收伊朗貨物，兩國海上貿易現已恢復。（央視新聞）"
+    },
     {
       "id": "4970978",
       "time": "2026-07-05 19:55:16",
