@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 569,
+  "count": 571,
   "items": [
+    {
+      "id": "mkt:019f32d8-5578-7aab-8ca3-8356c4cac592",
+      "time": "2026-07-05 23:14:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.5 quake hits Mianzhu, Sichuan; depth 20 km】CENC said a magnitude-4.5 earthquake struck Mianzhu, Deyang, Sichuan at 23:03 Beijing time (31.58N, 103.98E); hypocenter depth 20 km."
+    },
+    {
+      "id": "4971021",
+      "time": "2026-07-05 23:13:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列內塔尼亞胡談及與特朗普的關係：我不認為我們之間有裂痕。與其他盟友不同，我們與美國肩並肩作戰，在99%的情況下，我和特朗普看法一致。"
+    },
     {
       "id": "4971020",
       "time": "2026-07-05 23:12:45",
