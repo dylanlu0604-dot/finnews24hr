@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05 13:34:43",
-  "count": 13241,
+  "updated": "2026-07-05 13:38:35",
+  "count": 13240,
   "items": [
     {
       "id": "4970843",
@@ -121835,16 +121835,6 @@
         "其他"
       ],
       "text": "【山西釋出地質災害氣象風險黃色預警】山西省自然資源廳和山西省氣象局日前聯合釋出地質災害氣象風險預警，預計至6月28日20時，呂梁市孝義市、汾陽市部分割槽域地質災害氣象風險預警級別為三級(黃色預警)，發生地質災害的風險較高。專家提示，政府相關部門和群眾根據預警等級，做好隱患點和風險區的排查、巡查和監測工作，每天巡查監測不少於2次，特別是房前屋後邊坡要進行重點巡查。此外，太原市氣象臺6月28日7時17分變更雷暴大風藍色預警訊號。預計未來6小時全市將出現雷暴大風天氣，陣風風力達7級以上或有較強雷電，局地伴有短時強降水、冰雹。（新華社）"
-    },
-    {
-      "id": "mkt:019f0cbb-40be-7770-9d1c-e83ba05eb220",
-      "time": "2026-06-28 13:37:05",
-      "tags": [
-        "MKT News",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "【Google restricts Meta's access to Gemini compute after demand outstrips supply】The Financial Times reports Google has limited Meta's ability to purchase compute for its Gemini AI model after Meta's demand exceeded Google's available capacity. Google told Meta in March it could not fill all requested Gemini compute purchases; the shortfall has disrupted and delayed some of Meta's internal AI projects. Several other Google customers were also affected to a lesser degree, FT said, with Meta particularly hard hit owing to unusually high demand for Google models."
     }
   ]
 }
