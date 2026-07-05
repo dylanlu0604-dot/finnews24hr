@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-05 16:00:46",
+  "updated": "2026-07-05 16:04:45",
   "count": 13213,
   "items": [
+    {
+      "id": "4970902",
+      "time": "2026-07-05 16:01:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永鼎股份：預計上半年淨利潤同比增長57%-120% 光纖市場量價齊升板塊利潤大幅增長】永鼎股份(600105.SH)公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為5.00億元-7.00億元，同比增長57%-120%。業績變動主要系光通訊板塊受益於數字經濟推進和AI算力需求爆發，光纖市場量價齊升，板塊利潤大幅增長。公司Q2淨利潤預計3.41億-5.41億，Q1淨利潤1.59億，據此計算，Q2淨利潤預計環比變動114%-240%。"
+    },
+    {
+      "id": "4970901",
+      "time": "2026-07-05 16:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "好利來中國電子(002729.SZ)：控股股東計劃以5.971億元人民幣轉讓18%股份，公司控制權將發生變更。"
+    },
     {
       "id": "4970900",
       "time": "2026-07-05 15:57:04",
@@ -121643,22 +121659,6 @@
         "XAUUSD"
       ],
       "text": "【Bahrain says it intercepted and destroyed missiles and drones from Iran】Bahrain’s Defence Force General Command said on the 28th its air-defence systems intercepted and destroyed missiles and drones launched from Iran. The command said Iran continued hostile actions, including missile and drone strikes targeting Bahraini civilians, and that defence units are at highest alert and fully prepared. The Interior Ministry said the incident damaged a residential building in Muharraq governorate with no fatalities; authorities are responding on site."
-    },
-    {
-      "id": "4958843",
-      "time": "2026-06-28 16:04:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴林稱攔截並摧毀伊朗導彈和無人機】據巴林麥納麥方面訊息，巴林國防軍總司令部28日發表宣告說，巴林防空系統成功攔截並摧毀來自伊朗的導彈和無人機。（央視新聞）"
-    },
-    {
-      "id": "4958842",
-      "time": "2026-06-28 16:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【趙一德會見香港特區政府財政司司長陳茂波一行 徐新榮邢善萍參加】6月26日，陝西省委書記趙一德在西安會見了香港特區政府財政司司長陳茂波一行。省政協主席徐新榮，省委副書記邢善萍參加。趙一德代表省委和省政府對陳茂波一行來陝訪問表示歡迎，對香港長期以來給予陝西發展的支援表示感謝。趙一德說，當前，陝西正深入貫徹落實習近平總書記歷次來陝考察重要講話重要指示精神，持續加強同粵港澳大灣區建設等國家重大戰略的對接，加快打造內陸改革開放高地，著力構建特色鮮明的創新體系和現代化產業體系，奮力譜寫中國式現代化建設的陝西新篇章。陝西和香港資源稟賦各異、產業互補性強、合作前景廣闊。希望雙方立足國家所需、各自所長，進一步推動經貿產業融通、科技創新共興、人文交流互動，以更高質量的陝港合作服務國家發展大局。（陝西釋出）"
     }
   ]
 }
