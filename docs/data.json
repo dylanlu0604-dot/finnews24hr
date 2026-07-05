@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-06 00:02:37",
+  "updated": "2026-07-06 00:06:35",
   "count": 13151,
   "items": [
+    {
+      "id": "4971049",
+      "time": "2026-07-06 00:02:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家防總辦公室向廣西調撥物資 支援做好防汛搶險工作】5日，應廣西壯族自治區防汛抗旱指揮部請求，國家防總辦公室會同國家糧食和物資儲備局調撥衝鋒舟、橡皮舟、排澇裝置、照明裝置等500餘件中央防汛抗旱物資，支援廣西做好防汛搶險工作。"
+    },
     {
       "id": "mkt:019f32fe-ed53-7aab-8ca4-0c5c58884d45",
       "time": "2026-07-05 23:56:35",
@@ -121235,14 +121244,6 @@
         "MKT News"
       ],
       "text": "【Australia's Firmus to partner with NVIDIA on Indonesian data center】Australia AI infrastructure firm Firmus Technologies Pty Ltd will partner with NVIDIA to build its first data center in Indonesia. A revenue-share and credit-support agreement allows Firmus to procure NVIDIA infrastructure for customers and covers up to 170,000 NVIDIA AI accelerator chips in 2027-28; the deal could generate up to $30bn of offtake (committed purchase) revenue over the project's first six years."
-    },
-    {
-      "id": "4959062",
-      "time": "2026-06-29 00:05:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克在反腐行動中拘留的官員包括負責分銷事務的副石油部長。"
     }
   ]
 }
