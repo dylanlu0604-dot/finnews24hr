@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-06 07:47:43",
-  "count": 13088,
+  "updated": "2026-07-06 07:51:28",
+  "count": 13083,
   "items": [
+    {
+      "id": "4971208",
+      "time": "2026-07-06 07:48:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或維持區間震盪；市場關注中東衝突】在中東衝突持續存在不確定性之際，且近期受人工智慧(AI)熱潮推動大幅上漲之後，日本股市可能維持區間震盪。新加坡交易所的日經指數期貨上漲0.2%，報70,000點。投資者正關注伊朗衝突的進展和原油價格。日經指數週五上漲1.5%，至69,744.07點。"
+    },
+    {
+      "id": "4971207",
+      "time": "2026-07-06 07:48:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電子商務法修正草案公開徵求意見】4日，國家市場監督管理總局、商務部就研究起草的《中華人民共和國電子商務法（修正草案徵求意見稿）》，開始向社會公開徵求意見。修正草案徵求意見稿共二十條，主要內容包括五個方面：一是擴大法律調整範圍。在當前平臺和平臺內經營者基礎上，進一步明確平臺經濟其他參與主體的權利義務。二是健全平臺責任制度。在當前的定額罰、責令停業整頓的基礎上，豐富規制手段，支撐常態化監管。三是明確監管合力工作機制。針對平臺經濟跨界混業經營，增加線下線上業務歸口管理一致原則，強化部門聯動、央地協同的一體化監管。四是規範電子商務突出違法行為。聚焦實踐中群眾反映強烈的問題，對相應條款進行修改完善，切實回應社會關切。五是深化電子商務開放合作。推動電子商務領域規則、規制、管理、標準同國際相通相容，加強行業自律，引導有序出海，增加對外反制措施，維護企業合法權益。（新華社）"
+    },
+    {
+      "id": "mkt:019f34af-1a05-7aab-8ca5-f39b2c69172d",
+      "time": "2026-07-06 07:48:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【ANZ: Strait of Hormuz risks persist; OPEC+ members may struggle to use added output】Oil prices fell after OPEC+ decided to raise supply. After an online meeting on Sunday the group said it would add about 188,000 bpd in August, the fifth consecutive monthly increase. ANZ research said even if the Strait of Hormuz reopens, member states may struggle to utilise the additional capacity because vessels still face risks. Analysts noted several ships attempting the Oman route through the strait over the weekend were observed turning back."
+    },
+    {
+      "id": "te:markets:564248",
+      "time": "2026-07-06 07:48:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise to Start the Week — US stock futures advanced on Monday as investors returned from a holiday-extended weekend, with Wall Street building on a strong week that lifted the Dow Jones to fresh record highs. Last week, the Dow rallied nearly 2%, bringing it within reach of the 53,000 mark, while the S&P 500 and Nasdaq Composite climbed 1.8% and 2.1%, respectively. The gains came despite weakness in semiconductor stocks, which had fueled much of this year’s market rally, as investors rotated into other sectors. Healthcare, financials and industrials were among the biggest beneficiaries, with all three ending the week at fresh record highs. Investors now await the minutes from the Federal Reserve’s June policy meeting for further insight into the outlook for interest rates. Markets continue to price in multiple Fed rate hikes this year, even as easing inflation concerns are supported by the normalization of oil flows through the Strait of Hormuz."
+    },
+    {
+      "id": "4971206",
+      "time": "2026-07-06 07:48:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析人士：霍爾木茲海峽通航正常仍面臨多重挑戰】英國海上貿易行動辦公室5日釋出的公告顯示，7月2日至4日的72小時內，由美方護航透過霍爾木茲海峽的商船合計70艘，通航規模遠低於衝突前日均138艘的平均水平。根據多家海運監測機構的資料綜合判斷，當前霍爾木茲海峽的商業航運正在逐步恢復，但運輸能力、航運效率和市場信心仍未恢復至衝突前水平。觀察人士分析，航運高風險、保險成本上升以及各方在通航規則上的分歧，使得海峽通行正常化仍面臨多重挑戰。（央視）"
+    },
     {
       "id": "4971205",
       "time": "2026-07-06 07:45:55",
@@ -120562,110 +120612,6 @@
         "MKT News"
       ],
       "text": "Japan May retail sales ¥13.447 tln vs ¥13.217 tln in the prior month."
-    },
-    {
-      "id": "mkt:019f10a5-12d6-7aab-8c04-0a346f514815",
-      "time": "2026-06-29 07:51:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail Sales (May) | actual 13447000000000T | previous 13217000000000T"
-    },
-    {
-      "id": "mkt:019f10a4-79e4-7aab-8c04-013964471e26",
-      "time": "2026-06-29 07:50:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan May seasonally adjusted retail sales MoM +1.9% vs -0.6% expected; April revised up to +2.1% from +1.3%."
-    },
-    {
-      "id": "mkt:019f10a4-5fba-7aab-8c03-f92ddd9988a2",
-      "time": "2026-06-29 07:50:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail Sales SA (MoM) (May) | actual 1.9% | consensus -0.60% | previous 1.30%"
-    },
-    {
-      "id": "4959286",
-      "time": "2026-06-29 07:50:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月份零售額環比增長1.9%，預估為-0.5%。日本5月份零售額同比增長5.3%，預估為3.0%."
-    },
-    {
-      "id": "mkt:019f10a4-29dd-7aab-8c03-f2f0369b556d",
-      "time": "2026-06-29 07:50:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan May retail sales YoY 5.3% (est. 3.2%); April revised up to 2.8% from 2.1%."
-    },
-    {
-      "id": "mkt:019f10a4-27d8-7aab-8c03-ee05390f119f",
-      "time": "2026-06-29 07:50:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran, Lebanon agree to set up conflict-management working group】Iran and Lebanon have agreed to establish a conflict-management working group, with US participation to oversee implementation of Lebanon-related clauses in the recently signed US‑Iran peace memorandum, Iran’s parliament speaker said after a call with Lebanon’s parliament speaker Berri. The speaker said Iran’s negotiating team in Switzerland repeatedly flagged breaches by other parties during US‑Iran talks. Foreign ministry spokesman Baghaei urged a prompt timetable for an unconditional Israeli withdrawal from occupied Lebanese territory and said full implementation of the memorandum’s Article 1 is a necessary precondition for a final settlement and regional stability."
-    },
-    {
-      "id": "mkt:019f10a3-e767-7aab-8c03-e2c58d81d123",
-      "time": "2026-06-29 07:50:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Retail sales (YoY) (May) | actual 5.3% | consensus 3.2% | previous 2.10%"
-    },
-    {
-      "id": "4959285",
-      "time": "2026-06-29 07:50:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗與黎巴嫩商定設立衝突管控工作組】伊朗伊斯蘭議會議長卡利巴夫28日與黎巴嫩議會議長貝里通電話後表示，伊朗與黎巴嫩商定設立一個“衝突管控工作組”，美方也將參與其中，監督近期簽署的伊美和平諒解備忘錄中涉黎條款的落實情況。他說，伊朗談判代表團在瑞士舉行的美伊談判中多次指出其他各方存在違約行為，在此背景下伊朗和黎巴嫩雙方敲定成立該工作組。同一天，伊朗外交部發言人巴加埃敦促儘快制定時間表，推動以色列無條件撤出黎巴嫩被佔領土。伊朗外交部發布宣告稱，完整落實備忘錄第一條，是達成永久性終局協議、實現地區穩定的必要前提。（央視新聞）"
-    },
-    {
-      "id": "4959284",
-      "time": "2026-06-29 07:49:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多隻“老登”新基延長募集期 搶佔潛在風格切換先機卻響應冷淡】近日，多隻聚焦食品消費、金融等傳統“核心資產”（業內稱之“老登”）的新發基金頻頻延長募集期，部分產品甚至半個月內兩次延長募集期，最終僅勉強跨過2億元成立門檻。在AI科技行情高位震盪的背景下，基金公司逆勢佈局“老登”資產，背後折射出複雜的矛盾心態：一方面，全品類大型公募為搶佔潛在風格切換先機，不得不提前卡位；另一方面，市場低迷導致資金響應冷淡，新基金即便勉強成立，後續能否做大仍存懸念。有業內人士指出，與存量基金相比，新發基金更易“講故事”，但行情何時到來尚不確定，“老登”資產的復甦之路依然漫長。"
-    },
-    {
-      "id": "mkt:019f10a2-14c0-7aab-8c03-df2ebccee7ee",
-      "time": "2026-06-29 07:48:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【Samsung, SK Group expected to announce up to 2,000 trillion won investment plan】As part of South Korea's President Lee flagship industrial strategy, Samsung Group and SK Group are preparing to announce an investment programme of up to 2,000 trillion won (about $1.3tn) over the next decade. Reports say Samsung and SK Hynix would each build four to five semiconductor fabs in Gwangju. Samsung also plans a chip packaging plant in Chungcheongnam-do; SK Hynix is set to expand a NAND plant in Chungcheongbuk-do."
     }
   ]
 }
