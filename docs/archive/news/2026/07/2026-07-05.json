@@ -1,7 +1,39 @@
 {
   "date": "2026-07-05",
-  "count": 403,
+  "count": 407,
   "items": [
+    {
+      "id": "mkt:019f315c-1c18-7aab-8ca1-e22315e7903d",
+      "time": "2026-07-05 16:19:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yongding Co.: 1H 2026 net profit attributable to parent expected up 57%–120% YoY】Yongding Co. expects 1H 2026 net profit attributable to parent of 500–700 mln yuan, up 57%–120% YoY. Prior-year period included an investment gain from an associate’s disposal of a subsidiary; no comparable item occurred in the current period. Profits at the automotive wiring-harness and overseas engineering segments declined YoY. The profit increase is chiefly driven by the optical communications unit, which benefited from accelerated digital-economy rollout and a surge in AI compute demand that lifted fiber volumes and prices, producing sizable margin gains."
+    },
+    {
+      "id": "4970908",
+      "time": "2026-07-05 16:18:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油集團董事長戴厚良會見殼牌公司執行長】當地時間7月4日，中國石油集團董事長戴厚良在倫敦會見了殼牌公司執行長魏斯旺。戴厚良表示，殼牌是中國石油合作歷史最久、合作領域最廣的戰略伙伴之一，雙方在海外6個國家7個專案上開展合作，整體合作良好，體現了雙方著眼長遠、互利共贏的理念。希望雙方充分發揮各自優勢，攜手執行好現有合作專案，進一步拓寬合作領域，實現互利共贏。"
+    },
+    {
+      "id": "4970907",
+      "time": "2026-07-05 16:18:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列襲擊黎巴嫩南部多地】據黎巴嫩國家通訊社4日報道，以色列當天空襲了黎巴嫩南部多個城鎮，造成一人受傷。以色列國防軍當天晚間發表宣告說，以軍當天早些時候在黎巴嫩南部“安全區”內打死一名武裝人員。（新華社）"
+    },
+    {
+      "id": "4970906",
+      "time": "2026-07-05 16:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國紐約康尼島發生槍擊案，共計 8 人中槍，其中包含 4 名兒童。"
+    },
     {
       "id": "4970905",
       "time": "2026-07-05 16:10:13",
