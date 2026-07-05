@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 07:10:33_
-_本檔包含 2525 則快訊，約 506049 字_
+_更新時間：2026-07-05 08:10:06_
+_本檔包含 2533 則快訊，約 506856 字_
+
+---
+
+### 2026-07-01 17:39:36  #Trading Economics #Economy #United States #Challenger Job Cuts #Importance 2
+
+US Job Cuts Fall to 6-Month Low — US-based employers announced 45,849 job cuts in June 2026, the lowest since December 2025, down 53% from May and 4% lower than in the same month last year. "The pace of layoffs cooled considerably in June, similar to plans last June, ans is typical for summer months. That said, the cuts we are seeing remain concentrated in technology, and AI continues to reshape how companies think about headcount", according to Andy Challenger from Challenger, Gray & Christmas.
+
+---
+
+### 2026-07-01 17:39:30  #公司 #市場 #國際
+
+【倫敦證券交易所：韓元逼近2009年以來最低水平】韓元兌美元正逼近17年來的最低水平。倫敦證券交易所集團資料顯示，美元在7月的首個交易日早些時候升至約1,559韓元的盤中高點，此前在6月曾攀升至約1,562韓元，為2009年以來的最高水平。資料顯示，2009年3月6日，美元兌韓元報1,596.90韓元。KB Kookmin Bank外匯經濟學家Lee Min-hyeok在一份報告中表示：“強勁的美國就業資料和較高的利率繼續對美元構成支撐。”Lee補充道：“在供需方面，外國投資者的股票拋售與出口商將美元收入兌換成韓元之間仍在進行拉鋸戰。”
+
+---
+
+### 2026-07-01 17:39:12  #公司
+
+【有研粉材：新型散熱銅粉獨家供應並穩定用於昇騰系列910晶片】有研粉材在互動平臺表示，公司的新型散熱銅粉是與華為公司共同研發的，目前已穩定用於昇騰系列910晶片，並且是公司的獨家供應產品。
+
+---
+
+### 2026-07-01 17:39:07  #其他
+
+【李成鋼國際貿易談判代表兼副部長會見聯合國副秘書長、開發計劃署副署長徐浩良】7月1日下午，李成鋼國際貿易談判代表兼副部長會見聯合國副秘書長、開發計劃署副署長徐浩良，雙方圍繞建設開發計劃署上海全球可持續發展中心、雙方務實合作和人才交流等議題進行了深入交流。
+
+---
+
+### 2026-07-01 17:39:05  #MKT News
+
+【China international trade representative and vice minister Li Chenggang meets UN deputy secretary-general Xu Haoliang】On July 1 Li Chenggang, China’s international trade representative and vice minister, met UN Deputy Secretary‑General and UNDP Deputy Administrator Xu Haoliang to discuss establishing a UNDP Shanghai Global Centre for Sustainable Development and advancing practical cooperation and talent exchanges.
+
+---
+
+### 2026-07-01 17:38:39  #公司
+
+【海天股份：“海天轉債”轉股價格調整為12.41元/股】海天股份公告稱，公司2026年2月5日發行8.10億元“海天轉債”，初始轉股價格為12.52元/股。因2025年年度利潤分配方案為每股派發現金紅利0.115元（含稅），根據相關規定，“海天轉債”轉股價格由12.52元/股調整為12.41元/股，調整後的轉股價格於2026年7月2日生效。“海天轉債”轉股期為2026年8月11日至2032年2月4日，目前尚未進入轉股期。本次調整未對公司日常經營及償債能力構成影響。
+
+---
+
+### 2026-07-01 17:38:28  #公司 #國際
+
+美國就業資料公司挑戰者：今年截至6月，僱主已宣佈裁員443,604人，較2025年上半年宣佈的744,308人下降40%。這是自2020年以來第二高的1月至6月裁員總數，僅次於去年由政府推動的裁員激增。這是今年第四次出現當月裁員規模低於去年同期的情況。
+
+---
+
+### 2026-07-01 17:38:28  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+Challenger, a U.S. job-data firm, said employers announced 443,604 layoffs through June, down 40% from 744,308 in 1H 2025. It was the second-highest Jan–Jun total since 2020, trailing only last year’s government-driven surge. This was the fourth month this year in which monthly announced layoffs were below the year-ago level.
+
+---
+
+### 2026-07-01 17:38:23  #公司
+
+【必易微：持股5%以上股東張波減持20.9萬股 權益變動觸及1%】必易微公告稱，2026年4月8日至6月30日，因公司總股本增加致股東張東持股比例被動稀釋，股東張波透過集中競價交易方式減持公司股票209,000股，其持股比例從6.14%降至5.78%，權益變動觸及1%刻度。本次權益變動不會使公司控股股東及實控人變化，張波仍處減持計劃實施期，公司將督促其依規披露資訊。
+
+---
+
+### 2026-07-01 17:38:16  #公司 #市場
+
+【多浦樂：股價異常波動 一季度營收降26.25%、淨虧損37萬元】多浦樂公告稱，公司股票於2026年6月29日至7月1日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期資訊無更正補充，未發現影響股價的未公開重大資訊，經營及內外部環境未變，不存在應披露未披露事項，異常波動期間控股股東、實控人無買賣公司股票行為。2026年一季度，公司營收2838.36萬元，同比降26.25%；淨虧損37.13萬元，同比降106.18%。
+
+---
+
+### 2026-07-01 17:38:09  #其他
+
+【重慶：推進住房“以舊換新” 最佳化“賣小買大”“帶押過戶”等支援政策】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，促進一二手住房市場良性迴圈，推進住房“以舊換新”，最佳化“賣小買大”“帶押過戶”等支援政策，降低交易成本，促進一二手住房市場聯動。依託“渝悅安居”系統，全面推行存量房合同網籤服務，建立健全存量房交易資金監管、房源掛牌釋出和價格監測機制；簡化交易流程，加強不動產登記資訊共享、自動核驗房源資訊，推進交易服務事項“一站受理”和全程網辦。
+
+---
+
+### 2026-07-01 17:38:01  #Trading Economics #Economy #Pakistan #Inflation Rate #Importance 1
+
+Pakistan Inflation Rate Slows — Pakistan's annual inflation rate eased to 11.0% in June 2026 from 11.7% in May, remaining well above the State Bank of Pakistan's 5%-7% target range. Food inflation accelerated to 9.4% from 6.8%, reaching its highest level since April 2024. Meanwhile, inflation eased for housing and utilities (15.5% vs. 16.1%) and slowed sharply for transport (25.7% vs. 39.5%). Although geopolitical tensions have eased, Pakistan remains highly dependent on imported energy, with policymakers expecting energy prices to stay elevated in the near term. On a monthly basis, consumer prices fell 0.3% in June, reversing a 0.5% increase in the previous month.
 
 ---
 
@@ -15225,29 +15297,5 @@ Gold Near 7-Month Low on Rate Hike Expectations — Gold held at $4,020 an ounce
 ### 2026-06-30 20:31:58  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Extends Gains — The DAX 40 extended initial gains on Tuesday, rising 1.4% toward 24,965, after a two-day losing streak, supported by strength in technology stocks and encouraging domestic economic data. Preliminary data showed Germany’s inflation eased to 2.3% in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%. Separately, retail sales unexpectedly rebounded in May. Meanwhile, the anticipated US-Iran talks in Doha and central bank speeches at the ECB Forum in Sintra were also in focus. Siemens Energy emerged as the top gainer, up 5.3%, after the energy technology group struck an optimistic tone about orders during its third-quarter pre-closing conference call on Monday. Siemens followed with a 4.3% advance. Chipmaker Infineon Technologies also added 3.6%. For the quarter, the DAX gained around 10%, but has lost approximately 0.6% for the month.
-
----
-
-### 2026-06-30 20:30:33  #經濟數據 #加拿大
-
-【加拿大4月GDP環比增長0.5%】加拿大4月GDP環比增長0.5%，預期增長0.4%，前值下降0.1%。
-
----
-
-### 2026-06-30 20:24:03  #Trading Economics #Economy #Brazil #Producer Price Inflation MoM #Importance 1
-
-Brazil Producer Prices Fall in May — Brazil’s producer prices fell 0.3% month-over-month in May 2026, reversing from a 2.62% increase in April and marking the sharpest monthly decline since November 2025. Seven of the 24 industrial sectors surveyed recorded price drops. The steepest decline came from extractive industries, which fell 5.9%, while rubber and plastics rose 4.8%, wood products advanced 3.1%, and chemicals increased 2.1%. Food products exerted the largest downward pressure on the headline index, declining 2.1%, as lower prices for sugar, UHT milk, and roasted coffee reflected seasonal harvest effects and the appreciation of the Brazilian real. Prices in oil refining and biofuels fell 1.3%, pressured by declines in diesel and ethanol, with the advance of the sugarcane harvest contributing to lower alcohol prices. Chemical prices rose on higher international petrochemical costs linked to tensions in the Middle East, while rubber and plastics continued to reflect pass-through from higher feedstock costs.
-
----
-
-### 2026-06-30 20:16:57  #Trading Economics #Economy #South Africa #Balance of Trade #Importance 1
-
-South Africa Posts First Trade Gap in 16 Months — South Africa posted a trade deficit of ZAR 1.8 billion in May 2026, the first since January 2025, compared to a downwardly revised surplus of ZAR 14.4 billion in the prior month. Exports declined by 5.7% to ZAR 178.8 billion, mainly reflecting reduced shipments of precious metals & stones (-21%); vehicles & transport equipment (-7%) and mineral products (-5%). On the other hand, imports rose by 3.1% to an over 2-1/2-year high of ZAR 180.6 billion, on higher purchases of vehicles & transport equipment (+17%); original equipment components (+12%); mineral products (+7%) and chemical products (+6%).
-
----
-
-### 2026-06-30 20:16:46  #Trading Economics #Economy #Brazil #Government Budget Value #Importance 1
-
-Brazil Public Deficit Widens to May Record — The Brazilian government posted a nominal budget deficit of BRL 163.7 billion in May of 2026, widening from the BRL 125.9 billion in the corresponding period of the previous year. The result was higher than expectations of a BRL 148.3 billion, the sharpest on record for the month. The deficit of the federal government rose to BRL 55.2 billion in the year. Despite the wider budget shortfall, the deficit remained relatively stable as a shar of the Brazilian GDP at 9.6%. The higher level of public spending was aligned with common patterns in election years in the country. The Brazilian central bank has hinted that elevated deficit spending by the central government, especially direct cash welfare transfers, is among the main culprits of stubborn inflationary pressures. Brazil has among the highest real interest rates in the world.
 
 ---

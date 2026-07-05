@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-05 07:10:33_
-_本檔包含 3024 則快訊，約 506163 字_
+_更新時間：2026-07-05 08:10:06_
+_本檔包含 3029 則快訊，約 506688 字_
+
+---
+
+### 2026-07-02 15:25:19  #其他
+
+【理想開展新一輪組織架構調整】7月2日，“迴歸創業狀態”，去年李想說出這個目標後，理想汽車還在進行組織和流程精簡。 從多位知情人士處獲悉，理想即將圍繞產品決策流程進行新一輪組織架構調整，計劃將產品部的部分關鍵職能拆分，併入研發部門。 接近理想高層的人士分析，整車產品定義決策流程繁瑣，在理想內部遭詬病已久，核心原因就是產品決策有三個核心部門參與，前端是劉傑的產品線部門，中間有範皓宇的平臺產品定義部門，此外還有研發團隊。（36氪）
+
+---
+
+### 2026-07-02 15:24:33  #焦點 #國際
+
+【中國公民因涉嫌違反稀土出口管理規定被採取措施？外交部回應】7月2日，外交部發言人郭嘉昆主持例行記者會。日本時事通訊社記者提問，關於在大連的日本人被拘留的事件，據一些報道和訊息稱，在相關調查過程中，還有許多名中國公民因涉嫌違反稀土出口管理規定被採取相關措施，請問中方能否證實這一情況？郭嘉昆表示：“昨天我們已經就相關問題做了回應。中方是依法依規辦案，具體的案件情況請向中方的主管部門詢問。”（澎湃新聞）
+
+---
+
+### 2026-07-02 15:24:00  #MKT News #Market Regions #Greater China #HSBA.L
+
+【Vice Finance Minister Liao Min meets HSBC Group CEO in Beijing】On July 1, 2026, Vice Finance Minister Liao Min met HSBC Group CEO in Beijing and exchanged views on the macroeconomic outlook, policy and China–UK economic cooperation.
+
+---
+
+### 2026-07-02 15:23:55  #宏觀 #公司
+
+【廖岷會見滙豐集團行政總裁艾橋智】2026年7月1日，財政部副部長廖岷在北京會見滙豐集團行政總裁艾橋智，就宏觀經濟形勢和政策、中英經濟合作等議題交換了意見。（財政部）
+
+---
+
+### 2026-07-02 15:23:29  #國際
+
+【日本最新財年稅收收入連續第六年創歷史新高】日本截至今年3月財政年度的國家稅收收入創下歷史新高，工資增長、就業改善以及金融資產收益增加推動個人所得稅收入顯著上升。檔案顯示，日本當財年稅收收入達到84.2萬億日元（5,190億美元）。其中，個人所得稅收入增至25.3萬億日元，法人稅收入增至21.7萬億日元，消費稅收入也小幅增長。這使日本稅收連續第六個財年創下歷史新高。
+
+---
+
+### 2026-07-02 15:23:05  #市場
+
+【訊息人士：沙特阿美增產拉斯坦努拉港原油出口，改為現貨銷售模式】據貿易訊息人士與航運資料顯示，至少五艘超大型油輪滿載總計1000萬桶沙特原油從拉斯坦努拉港駛出霍爾木茲海峽；為加快對亞洲市場原油外銷，沙特阿美已改用現貨定價模式。沙特阿美在停產近四個月後，於週五重啟全球最大石油港拉斯坦努拉港的原油裝船作業。這家沙特國有石油企業正加大發往亞洲的原油裝載與運輸量，進一步加劇原油短期供應過剩局面。自美伊臨時和平協議達成後，布倫特原油期貨價格從3月近120美元/桶跌至約70美元/桶。多位貿易訊息人士透露：除動用自有巴哈里油輪船隊運輸原油外，這家全球頭號原油出口商向亞洲客戶推出現貨定價原油，以此爭奪市場需求，當前各原油供應方競爭持續加劇。
+
+---
+
+### 2026-07-02 15:21:30  #MKT News #Brent #Impact bullish #WTI
+
+Trade sources and shipping data show at least five VLCCs loaded a total of 10 mln barrels of Saudi crude at Ras Tanura and have exited the Strait of Hormuz.
+
+---
+
+### 2026-07-02 15:21:29  #市場 #央行 #國際
+
+【歐元區債券收益率追隨美國國債收益率走高】歐元區政府債券收益率上升，追隨美國國債收益率走高。當天的焦點將是晚些時候公佈的美國就業資料，以及西班牙和法國的債券供應。比利時聯合銀行分析師在一份報告中表示，週三在辛特拉舉行的歐洲央行論壇上，美聯儲主席凱文·沃什、歐洲央行行長克里斯蒂娜·拉加德、英國央行行長安德魯·貝利和加拿大央行行長蒂夫·麥克勒姆之間備受期待的小組辯論“並沒有對與會央行貨幣政策的短期動態產生太多真正的新見解“。根據Tradeweb的資料，10年期德國國債收益率上升2.2個基點，至2.898%。
+
+---
+
+### 2026-07-02 15:21:14  #市場
+
+【報告：紐商所黃金期貨或在每盎司4,000美元處獲得支撐】RHB Retail Research的Joseph Chai在一份研究報告中表示，紐商所(Comex)黃金期貨可能已在每盎司4,000美元處找到支撐。該分析師表示，日線圖上最新向好的價格走勢表明，第一支撐位已在該水平形成。Chai表示，鑑於這種貴金屬似乎正在經歷盤整，它可能會沿這一水平橫盤整理。不過該分析師表示，20日和50日簡單移動平均線均穩步走低，這可能會對該大宗商品造成下行壓力。Chai補充說，上行方面，初步阻力位在每盎司4,400美元。現貨黃金上漲0.9%，報每盎司4,068.34美元。
+
+---
+
+### 2026-07-02 15:20:38  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Weak inflation cements SNB hold through year; franc rebound stalled】USD/CHF eased off intraday highs after Swiss CPI missed forecasts but stayed within the weekly range and near a one-year high around 0.8140. June m/m CPI slowed to 0.0% from 0.2% in May (market est. 0.1%); YoY inflation fell to 0.5% from 0.6%. The softer prints reinforce expectations the SNB will keep its policy rate at 0% for the remainder of the year and possibly into 2027. With investors upping bets on further Fed hikes, the SNB’s low-rate stance may cap further franc gains. Market attention turns to US nonfarm payrolls later today, forecast +110k for June after stronger prior-month gains; traders will look for signs that support a September Fed hike. Dollar upside risk is elevated.
+
+---
+
+### 2026-07-02 15:20:34  #公司 #市場
+
+倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前基荷電力價格下跌14.9%，至每兆瓦時62.80歐元。
+
+---
+
+### 2026-07-02 15:20:10  #公司
+
+【LV訴茉莉奶白商標侵權案一審獲賠1000萬，茉莉奶白創始人：將上訴】7月2日，記者瞭解到，蘇州市中院就路易威登馬利蒂（Louis Vuitton Malletier，簡稱“LV”）訴茉莉奶白商標侵權案作出一審判決。法院認定，深圳市茉莉奶白餐飲管理有限公司及吳中經濟開發區東俠飲品店侵害LV 7件四葉花卉圖形註冊商標專用權。茉莉奶白主體公司應在判決生效之日起10日內賠償LV經濟損失1000萬元、維權合理開支30萬元，合計1030萬元。記者致電茉莉奶白創始人張伯丞，其在電話中回覆稱，將上訴。記者在國家智慧財產權局商標檢索發現，茉莉奶白申請的相關四葉花卉圖形商標處於“駁回複審”或“無效”狀態。（新黃河）
+
+---
+
+### 2026-07-02 15:19:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources said ARAMCO has increased exports from the Ras Tanura port and shifted to spot sales.
+
+---
+
+### 2026-07-02 15:19:26  #公司 #市場 #國際
+
+拜耳<BAYGn.DE>股價上漲3.6%，此前該公司決定將美國草甘膦業務整合至旗下Ruveon部門。
+
+---
+
+### 2026-07-02 15:18:40  #其他
+
+訊息人士稱，沙特阿美已提高拉斯坦努拉港的出口量，並轉而開展現貨銷售。
+
+---
+
+### 2026-07-02 15:18:26  #公司
+
+【訊息稱淘寶閃購上線新業務“家宴” 定位高階外賣】據媒體報道，淘寶閃購近日在成都、深圳兩地啟動名為“家宴”的高階外賣專案，目前正在灰測階段，首批參與品牌為潮上潮（米其林三星）、許家菜（米其林一星）、柴門薈（米其林一星）、梓楠、王捌院子，共9家門店。（新浪科技）
+
+---
+
+### 2026-07-02 15:18:25  #MKT News
+
+【MOFCOM: China-Germany economic cooperation joint committee to restart, aims for ministerial meeting in early 2027】On July 2, MOFCOM spokesman He Yadong said the China-Germany economic cooperation joint committee will be restarted. Beijing and Berlin plan two new working groups—trade & investment and industrial cooperation—to carry out policy exchanges and government‑business dialogue. Both sides are expediting preparations and aim to convene a minister‑led meeting of the cooperation mechanism in early 2027 to produce trade and economic outcomes ahead of the next phase of high‑level engagement.
 
 ---
 
@@ -18136,77 +18238,5 @@ Flexjet：人工智慧與加密貨幣催生的新富豪群體，推動私人飛�
 ### 2026-07-01 17:39:45  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran insists on retaining control of Strait of Hormuz, sources say】Two senior Iranian sources said Tehran is determined to secure international recognition of its control over the Strait of Hormuz and the right to levy fees on ships transiting the waterway, and is prepared to use force if necessary. Under a temporary agreement with the US this month to halt a three-month conflict, Iran agreed to allow ships free passage for 60 days; Tehran says the wording permits it to control which vessels may transit and to dictate routes within the narrow strait. The sources said Iran will press for long-term formal recognition of that control after the temporary period and will not shift to other issues in talks with Washington until consensus is reached.
-
----
-
-### 2026-07-01 17:39:36  #Trading Economics #Economy #United States #Challenger Job Cuts #Importance 2
-
-US Job Cuts Fall to 6-Month Low — US-based employers announced 45,849 job cuts in June 2026, the lowest since December 2025, down 53% from May and 4% lower than in the same month last year. "The pace of layoffs cooled considerably in June, similar to plans last June, ans is typical for summer months. That said, the cuts we are seeing remain concentrated in technology, and AI continues to reshape how companies think about headcount", according to Andy Challenger from Challenger, Gray & Christmas.
-
----
-
-### 2026-07-01 17:39:30  #公司 #市場 #國際
-
-【倫敦證券交易所：韓元逼近2009年以來最低水平】韓元兌美元正逼近17年來的最低水平。倫敦證券交易所集團資料顯示，美元在7月的首個交易日早些時候升至約1,559韓元的盤中高點，此前在6月曾攀升至約1,562韓元，為2009年以來的最高水平。資料顯示，2009年3月6日，美元兌韓元報1,596.90韓元。KB Kookmin Bank外匯經濟學家Lee Min-hyeok在一份報告中表示：“強勁的美國就業資料和較高的利率繼續對美元構成支撐。”Lee補充道：“在供需方面，外國投資者的股票拋售與出口商將美元收入兌換成韓元之間仍在進行拉鋸戰。”
-
----
-
-### 2026-07-01 17:39:12  #公司
-
-【有研粉材：新型散熱銅粉獨家供應並穩定用於昇騰系列910晶片】有研粉材在互動平臺表示，公司的新型散熱銅粉是與華為公司共同研發的，目前已穩定用於昇騰系列910晶片，並且是公司的獨家供應產品。
-
----
-
-### 2026-07-01 17:39:07  #其他
-
-【李成鋼國際貿易談判代表兼副部長會見聯合國副秘書長、開發計劃署副署長徐浩良】7月1日下午，李成鋼國際貿易談判代表兼副部長會見聯合國副秘書長、開發計劃署副署長徐浩良，雙方圍繞建設開發計劃署上海全球可持續發展中心、雙方務實合作和人才交流等議題進行了深入交流。
-
----
-
-### 2026-07-01 17:39:05  #MKT News
-
-【China international trade representative and vice minister Li Chenggang meets UN deputy secretary-general Xu Haoliang】On July 1 Li Chenggang, China’s international trade representative and vice minister, met UN Deputy Secretary‑General and UNDP Deputy Administrator Xu Haoliang to discuss establishing a UNDP Shanghai Global Centre for Sustainable Development and advancing practical cooperation and talent exchanges.
-
----
-
-### 2026-07-01 17:38:39  #公司
-
-【海天股份：“海天轉債”轉股價格調整為12.41元/股】海天股份公告稱，公司2026年2月5日發行8.10億元“海天轉債”，初始轉股價格為12.52元/股。因2025年年度利潤分配方案為每股派發現金紅利0.115元（含稅），根據相關規定，“海天轉債”轉股價格由12.52元/股調整為12.41元/股，調整後的轉股價格於2026年7月2日生效。“海天轉債”轉股期為2026年8月11日至2032年2月4日，目前尚未進入轉股期。本次調整未對公司日常經營及償債能力構成影響。
-
----
-
-### 2026-07-01 17:38:28  #公司 #國際
-
-美國就業資料公司挑戰者：今年截至6月，僱主已宣佈裁員443,604人，較2025年上半年宣佈的744,308人下降40%。這是自2020年以來第二高的1月至6月裁員總數，僅次於去年由政府推動的裁員激增。這是今年第四次出現當月裁員規模低於去年同期的情況。
-
----
-
-### 2026-07-01 17:38:28  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
-
-Challenger, a U.S. job-data firm, said employers announced 443,604 layoffs through June, down 40% from 744,308 in 1H 2025. It was the second-highest Jan–Jun total since 2020, trailing only last year’s government-driven surge. This was the fourth month this year in which monthly announced layoffs were below the year-ago level.
-
----
-
-### 2026-07-01 17:38:23  #公司
-
-【必易微：持股5%以上股東張波減持20.9萬股 權益變動觸及1%】必易微公告稱，2026年4月8日至6月30日，因公司總股本增加致股東張東持股比例被動稀釋，股東張波透過集中競價交易方式減持公司股票209,000股，其持股比例從6.14%降至5.78%，權益變動觸及1%刻度。本次權益變動不會使公司控股股東及實控人變化，張波仍處減持計劃實施期，公司將督促其依規披露資訊。
-
----
-
-### 2026-07-01 17:38:16  #公司 #市場
-
-【多浦樂：股價異常波動 一季度營收降26.25%、淨虧損37萬元】多浦樂公告稱，公司股票於2026年6月29日至7月1日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司前期資訊無更正補充，未發現影響股價的未公開重大資訊，經營及內外部環境未變，不存在應披露未披露事項，異常波動期間控股股東、實控人無買賣公司股票行為。2026年一季度，公司營收2838.36萬元，同比降26.25%；淨虧損37.13萬元，同比降106.18%。
-
----
-
-### 2026-07-01 17:38:09  #其他
-
-【重慶：推進住房“以舊換新” 最佳化“賣小買大”“帶押過戶”等支援政策】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，促進一二手住房市場良性迴圈，推進住房“以舊換新”，最佳化“賣小買大”“帶押過戶”等支援政策，降低交易成本，促進一二手住房市場聯動。依託“渝悅安居”系統，全面推行存量房合同網籤服務，建立健全存量房交易資金監管、房源掛牌釋出和價格監測機制；簡化交易流程，加強不動產登記資訊共享、自動核驗房源資訊，推進交易服務事項“一站受理”和全程網辦。
-
----
-
-### 2026-07-01 17:38:01  #Trading Economics #Economy #Pakistan #Inflation Rate #Importance 1
-
-Pakistan Inflation Rate Slows — Pakistan's annual inflation rate eased to 11.0% in June 2026 from 11.7% in May, remaining well above the State Bank of Pakistan's 5%-7% target range. Food inflation accelerated to 9.4% from 6.8%, reaching its highest level since April 2024. Meanwhile, inflation eased for housing and utilities (15.5% vs. 16.1%) and slowed sharply for transport (25.7% vs. 39.5%). Although geopolitical tensions have eased, Pakistan remains highly dependent on imported energy, with policymakers expecting energy prices to stay elevated in the near term. On a monthly basis, consumer prices fell 0.3% in June, reversing a 0.5% increase in the previous month.
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 07:10:33_
-_本檔包含 2398 則快訊，約 506053 字_
+_更新時間：2026-07-05 08:10:06_
+_本檔包含 2388 則快訊，約 506673 字_
+
+---
+
+### 2026-06-30 20:30:33  #經濟數據 #加拿大
+
+【加拿大4月GDP環比增長0.5%】加拿大4月GDP環比增長0.5%，預期增長0.4%，前值下降0.1%。
+
+---
+
+### 2026-06-30 20:24:03  #Trading Economics #Economy #Brazil #Producer Price Inflation MoM #Importance 1
+
+Brazil Producer Prices Fall in May — Brazil’s producer prices fell 0.3% month-over-month in May 2026, reversing from a 2.62% increase in April and marking the sharpest monthly decline since November 2025. Seven of the 24 industrial sectors surveyed recorded price drops. The steepest decline came from extractive industries, which fell 5.9%, while rubber and plastics rose 4.8%, wood products advanced 3.1%, and chemicals increased 2.1%. Food products exerted the largest downward pressure on the headline index, declining 2.1%, as lower prices for sugar, UHT milk, and roasted coffee reflected seasonal harvest effects and the appreciation of the Brazilian real. Prices in oil refining and biofuels fell 1.3%, pressured by declines in diesel and ethanol, with the advance of the sugarcane harvest contributing to lower alcohol prices. Chemical prices rose on higher international petrochemical costs linked to tensions in the Middle East, while rubber and plastics continued to reflect pass-through from higher feedstock costs.
+
+---
+
+### 2026-06-30 20:16:57  #Trading Economics #Economy #South Africa #Balance of Trade #Importance 1
+
+South Africa Posts First Trade Gap in 16 Months — South Africa posted a trade deficit of ZAR 1.8 billion in May 2026, the first since January 2025, compared to a downwardly revised surplus of ZAR 14.4 billion in the prior month. Exports declined by 5.7% to ZAR 178.8 billion, mainly reflecting reduced shipments of precious metals & stones (-21%); vehicles & transport equipment (-7%) and mineral products (-5%). On the other hand, imports rose by 3.1% to an over 2-1/2-year high of ZAR 180.6 billion, on higher purchases of vehicles & transport equipment (+17%); original equipment components (+12%); mineral products (+7%) and chemical products (+6%).
+
+---
+
+### 2026-06-30 20:16:46  #Trading Economics #Economy #Brazil #Government Budget Value #Importance 1
+
+Brazil Public Deficit Widens to May Record — The Brazilian government posted a nominal budget deficit of BRL 163.7 billion in May of 2026, widening from the BRL 125.9 billion in the corresponding period of the previous year. The result was higher than expectations of a BRL 148.3 billion, the sharpest on record for the month. The deficit of the federal government rose to BRL 55.2 billion in the year. Despite the wider budget shortfall, the deficit remained relatively stable as a shar of the Brazilian GDP at 9.6%. The higher level of public spending was aligned with common patterns in election years in the country. The Brazilian central bank has hinted that elevated deficit spending by the central government, especially direct cash welfare transfers, is among the main culprits of stubborn inflationary pressures. Brazil has among the highest real interest rates in the world.
 
 ---
 
@@ -14364,89 +14388,5 @@ Bahrain's Interior Ministry said the danger had passed after it received an enem
 ### 2026-06-28 08:11:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 Air-raid sirens sounded in Kuwait; the Kuwaiti military said it is responding to an incoming aerial threat.
-
----
-
-### 2026-06-28 08:08:14  #MKT News
-
-Bahrain authorities said alarms sounded, urging residents to "remain calm" and proceed to the nearest safe location.
-
----
-
-### 2026-06-28 08:07:44  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump says US struck Iranian missile and drone storage sites】President Trump said on the 27th US forces struck Iranian missile and drone storage sites and coastal radar stations after Iran again violated a ceasefire, warning that “the Islamic Republic of Iran will no longer exist” if escalation continues. CENTCOM said the same day it carried out a new round of strikes inside Iran as a direct response to Iran’s continued targeting of merchant shipping, saying US aircraft hit military surveillance facilities, communications nodes, air-defence positions, drone storage sites and minelaying equipment.
-
----
-
-### 2026-06-28 08:07:36  #其他
-
-【央視曝手機測評作弊亂象】記者調查發現，數碼產品測評這個領域的高度技術化，長期以來處於“無人能實錘作弊亂象”的灰色地帶。網路安全專家介紹，整套作弊體系分為三層，層層美化測評資料：第一層廠商專供測評博主的特供媒體機，硬體經過篩選最佳化；第二層韌體內建識別程式，檢測到博主身份並自動開啟高效能模式；第三層雲端遠端控制，可實時下發測評作弊配置。當這套系統識別到某博主啟動測評時，就會進入“作弊模式”，自動拉高CPU效能、調高螢幕亮度、最佳化後臺載入邏輯，切換軟體時僅載入介面而非完整應用，營造全程流暢的假象。邊亮介紹，為了規避被發現的風險，這套測評作弊機制也經歷了多輪迭代，隱蔽性越來越強。記者調查發現，由於特供樣機、韌體作弊、雲端調控三重手段疊加，普通消費者很難分辨測評真假，這也導致數碼測評公信力持續受損，而且技術造假取證難度極大，給監管帶來很大難度。（央視新聞）
-
----
-
-### 2026-06-28 08:02:48  #其他
-
-【跨廈深鐵路特大橋門式墩鋼蓋梁吊裝完成】近日，深汕鐵路跨廈深鐵路特大橋門式墩鋼蓋梁跨營業線吊裝作業圓滿收官。本次門式墩鋼蓋梁吊裝作業，單榀構件自重高達219.5噸至269.2噸，尺寸規格大，且所有吊裝作業僅能利用夜間短暫天窗期開展，高密度連續吊裝統籌難度極高，屬於高風險臨近營業線施工。(央視新聞)
-
----
-
-### 2026-06-28 08:02:43  #其他
-
-【暑期檔電影票房破15億 80部影片集結暑期檔】據網路平臺資料，截至目前，2026年暑期檔電影總票房（含預售）突破15億元。近日，2026暑期檔電影片單釋出，近80部中外影片在暑期檔上映，包含革命歷史、科幻、喜劇、動畫等多元型別。（央視財經）
-
----
-
-### 2026-06-28 07:49:24  #其他
-
-巴林內政部：巴林響起警報。
-
----
-
-### 2026-06-28 07:39:11  #公司
-
-【國內首個第四代半導體材料全產業鏈專案落戶鄭州】6月26日，鄭州高新區與中科粉研（河南）超硬材料有限公司簽署協議，中科粉研第四代半導體材料生產基地正式落戶該區。該基地是國內首個第四代半導體材料全產業鏈專案，將為河南在全球獨具優勢的超硬材料產業鏈補上關鍵的一環。(河南政府網)
-
----
-
-### 2026-06-28 07:24:51  #國際
-
-市場訊息：基輔遭導彈襲擊，市內出現多處爆炸。
-
----
-
-### 2026-06-28 07:20:50  #焦點 #國際
-
-【特朗普威脅伊朗或將不復存在】當地時間6月27日，美國總統特朗普在社交媒體平臺發帖稱，“"美國戰機剛剛打擊了伊朗導彈與無人機儲存設施以及沿海雷達站點，原因是他們再次違反停火協議。他們很可能永遠學不會！終有一刻，我們將不再保持克制，被迫以軍事手段完成我們業已成功開啟的行動。若真走到那一步，伊朗伊斯蘭共和國將不復存在！”（CCTV國際時訊）
-
----
-
-### 2026-06-28 07:20:22  #其他
-
-【倫敦發生疑似蓄意駕車撞人事件 致5人受傷】英國倫敦警方27日說，倫敦西部當天發生一起疑似蓄意駕車撞人事件，造成5人受傷，一名男子因涉嫌謀殺未遂、危險駕駛被捕。
-
----
-
-### 2026-06-28 07:19:48  #市場
-
-【C909商運十週年累計交付186架 佔國內支線機隊70%】今天（6月28日），中國商飛釋出訊息，國產商用飛機C909已商運10年，累計交付186架，佔國內支線機隊70%。經過十年運營，C909已成長為中國支線航空運輸市場的主力機型。
-
----
-
-### 2026-06-28 07:14:51  #國際
-
-特朗普：美國或許將 “被迫” 動用軍事手段徹底解決問題。
-
----
-
-### 2026-06-28 07:14:27  #國際
-
-特朗普：美國戰機剛剛還空襲了沿海雷達設施，這是對伊朗再次違反停火協議的打擊。
-
----
-
-### 2026-06-28 07:14:04  #國際
-
-特朗普：美國戰機剛剛襲擊了伊朗無人機儲存地點。
 
 ---

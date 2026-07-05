@@ -1,7 +1,104 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-05 07:10:33_
-_本檔包含 2409 則快訊，約 506210 字_
+_更新時間：2026-07-05 08:10:06_
+_本檔包含 2408 則快訊，約 506891 字_
+
+---
+
+### 2026-07-05 08:07:02  #MKT News
+
+【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring.
+
+---
+
+### 2026-07-05 08:05:24  #國際
+
+市場訊息：特朗普計劃在國家廣場舉辦集會，紀念美國獨立 250 週年，但強風暴天氣令該計劃受阻。
+
+---
+
+### 2026-07-05 08:01:04  #公司 #國際
+
+【“30+非洲國家以北斗為主，部分棄用GPS”】據香港《南華早報》7月4日報道，美國國防部下屬智庫“非洲戰略研究中心”（ACSS）近日釋出研究報告稱，透過“一帶一路”倡議，中國在非洲建立起一套“深度整合”且“難以替代”的海洋網路體系。 報告稱，中資企業不僅運營、融資或持有非洲約三分之一港口的股份，如今還在這些基礎設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。 而且，這種影響力遠不止於碼頭。中方同時融資並運營著連線這些港口及非洲大陸其他涉海專案的公路、鐵路和倉儲網路，使非洲貿易與中國自身的貿易體系緊密交織。 （觀察者網）
+
+---
+
+### 2026-07-05 07:55:43  #其他
+
+【廣西東興市將防禦颱風三級應急響應提升為二級應急響應】根據東興市氣象資訊，受今年第10號颱風“美莎克”影響，2026年7月4日20時至7月5日03時，東興鎮出現大暴雨，江平鎮、馬路鎮出現特大暴雨，最大降雨出現在江平鎮城區（363.8毫米）。預計7月5日，全市大部仍有暴雨，區域性大暴雨。7月6日，全市大部有暴雨，區域性大暴雨。本次降雨持續時間長，降雨範圍廣，累計雨量大，致災風險高。東興市氣象局已於7月5日3時40分提升重大氣象災害（颱風）Ⅳ級應急響應為Ⅱ級應急響應。按照《東興市防禦颱風應急預案》的規定，經防汛抗旱指揮部領導批准，決定於7月5日4時將東興市防禦颱風三級應急響應提升為二級應急響應。請各成員單位按照職責分工落實好各項防禦措施，確保防汛防颱安全。（央視新聞）
+
+---
+
+### 2026-07-05 07:51:50  #其他
+
+【多家券商成出資人，新業務視窗開啟】近日，交易所公示了債券質押式協議回購業務出資人資訊。其中，首批有5家券商資管，包括東方財富證券資管、華福證券資管、首創證券資管、申萬宏源資管以及中郵證券資管。它們將作為出資人，以各類債券為抵押將資金融出給資金需求方。“交易所的做法，破解了傳統協議回購交易中融資方尋找資金對手渠道有限、多方反覆詢價溝通成本高、交易對接效率偏低等行業痛點，依託平臺集中展示實現供需匹配，進一步啟用優質債券擔保品融資功能。”
+
+---
+
+### 2026-07-05 07:49:00  #公司 #國際
+
+【美國國防部啟動碳酸鋰戰略收儲，五年擬採購1.62萬噸補充國防儲備】當地時間7月2日，美國國防部後勤局（DLA）釋出招標公告，計劃透過一項為期五年的固定價格合同採購電池級碳酸鋰，用於補充美國國家國防儲備。這是美國首次將鋰納入國家國防儲備的大規模採購行動。根據招標檔案，本次採購總量上限為1.6167萬噸電池級碳酸鋰，合同最高金額達3億美元。DLA將於7月17日前接受投標，計劃向技術方案符合要求且報價最低的供應商授予合同，最低保證採購金額為100萬美元。（澎湃）
+
+---
+
+### 2026-07-05 07:47:35  #公司
+
+【近一週京東方A、水晶光電獲超200家機構調研】近一週機構調研個股有170多隻，京東方A獲調研機構數最多。京東方A(000725)有238家機構調研。對於投資者廣泛關注的玻璃基板業務，京東方A表示，玻璃基封裝載板的商業化離不開整個行業的協同推進，一方面是產業上游的裝置和材料，另一方面是需要和客戶一起深度協同，推進玻璃基封裝載板在封裝級和系統級的突破。其次，圍繞著客戶對產品的技術需求，公司將不斷進行技術探索和突破，同時深挖不良機理，固化改善措施，不斷提升產品良率水平。玻璃基板概念近期火熱，也是機構調研的重點方向，水晶光電近一週也獲得超200家機構調研。
+
+---
+
+### 2026-07-05 07:40:55  #市場
+
+【PC及記憶體硬碟價格持續高位：硬碟一天三個價 經銷商喊出“非剛需別買”】數碼終端市場正在經歷一場看不到盡頭的結構性震盪。記者走訪上海多個數碼城，多位PC（個人電腦）經銷商表示，目前零部件和整機的價格已經處於極端高位，但未來還要漲價，且至少在一年內看不到（漲價）盡頭。這輪價格持續上漲已經持續相當長一段時間，最近的導火索就是蘋果高調官宣漲價。一位PC經銷商則更加坦誠，建議記者“不是剛需就先別買”，儘管不知道什麼時候才能降價：“（整機）這個月還要漲，特別是遊戲本，漲得最厲害。我覺得至少在一年之內都不會降，會漲到明年這個時候。不急的話建議不要買，不是剛需就先別買。”在這種一眼望不到頭的看漲行情下，不僅品牌整機價格居高不下，DIY裝機市場和配件價格更是每天都在經歷劇烈的波動。一位組裝機商家介紹，自己在5天前為客戶裝了一臺電腦，安裝同配置電腦的價格在這5天內就要漲300元。不僅是電腦，硬碟更是“早上一個價，下午、晚上一個價”。一款閃迪1TB的SSD硬碟，可能早上標價820元，當晚就漲到860元。 (澎湃新聞)
+
+---
+
+### 2026-07-05 07:39:28  #市場 #國際
+
+【今年上半年全國共新開國際航空貨運航線92條】從中國物流與採購聯合會瞭解到，我國國際航空貨運網路建設持續提速，截至6月30日，今年全國新開國際航空貨運航線超過90條。據中國物流與採購聯合會航空物流分會統計，6月份全國共新開12條國際航空貨運航線。今年上半年，全國共新開92條國際航空貨運航線，每週增加往返航班超過217個。航向結構仍以亞歐為主，其中，亞洲航線41條，歐洲航線38條，北美洲航線11條，南美洲航線1條，非洲航線1條。貨物結構方面，以跨境電商貨物、高階製造業貨物、高附加值貨物、電子產品、汽車配件為主。今年以來，我國國際航空貨運網路建設持續提速。航線佈局深耕歐亞核心通道，穩步拓展跨洋及遠域航線，全球物流通達版圖不斷延展。國內航空企業成為開闢空中貨運通道的主力軍，自主航空運力保障能力穩步夯實。貨運貨源持續向高時效、高附加值品類集中，跨境電商、高階製造相關貨品成為運輸主力，航空物流精準匹配外貿高質量發展需求，聯通全球的空中貨運樞紐體系日趨完善。（央視新聞）
+
+---
+
+### 2026-07-05 07:39:20  #其他
+
+【國家級海水淡化公共測試平臺正式投用】7月2日，由自然資源部天津海水淡化與綜合利用研究所打造的國家級海水淡化公共測試平臺，在天津港保稅區臨港片區正式投入執行。
+
+---
+
+### 2026-07-05 07:35:01  #公司 #國際
+
+【德勤戴耀華：AI是長期紅利，企業數字化進入“智慧體協同”階段】美國東部時間6月24日，美光科技釋出2026財年Q3財報，營收、毛利率、前瞻指引全面超出市場預期，為“AI驅動全球擴產”提供了產業端驗證。同日，英偉達年度股東大會上，黃仁勳宣告智慧體時代正式到來。標普全球也曾提出，全球科技巨頭2026年計劃向資料中心和AI基礎設施投入約6350億美元，圍繞算力和能源的戰略博弈進入白熱化階段。“這一現象反映出當前AI商業化程序中典型的供需錯配，也是技術爆發初期常見的階段性困境。”德勤亞太管理委員會主席、德勤亞太首席戰略與創新官戴耀華在夏季達沃斯論壇期間接受採訪時指出，AI對經濟增長的賦能是深刻且長期的，我們正處於“數字化之後的智慧化初期”，生產力層面的全面躍升將在未來五至十年逐步顯現。而算力基礎設施建設與智慧服務發展實際處於同步推進之中，智慧服務的規模化落地預計在2028年後步入爆發期。在AI重塑全球經濟版圖的背景下，戴耀華留意到，中國企業的出海模式也出現了變化，從以往以營銷渠道構建為主的產品輸出型出海，轉變為真正意義上的“國際化”發展戰略。戴耀華表示，“中國企業不僅力求在海外目標市場紮根，實現供應鏈與運營機制的本土化自成體系，更在各國間統籌佈局研發、生產製造乃至智慧財產權等多重功能。在滿足各國產業保護與技術主權要求的前提下，它們以全球化視野為指引，致力於構建適應國際化發展目標的全球生態。”（21財經）
+
+---
+
+### 2026-07-05 07:30:10  #宏觀 #公司 #國際
+
+【王毅會見瑞典銀瑞達集團董事會主席雅各布·瓦倫堡】當地時間2026年7月4日，中共中央政治局委員、外交部長王毅在斯德哥爾摩會見瑞典銀瑞達集團董事會主席雅各布·瓦倫堡。王毅說，瓦倫堡家族同中國淵源深厚，是中國改革開放後首批進入中國市場的歐洲財團，發揮了先鋒示範作用，也為中國同瑞典關係作出獨特貢獻。在習近平主席和中國共產黨領導下，中國正走在符合自身國情、受到人民擁護的發展道路上，大踏步邁向中國式現代化。中國的發展有著強大內生動力和清晰歷史邏輯，我們將繼續以新發展理念引領高質量發展，持續拉動內需，擴大高水平開放，維護自由貿易和市場經濟原則，同世界分享發展機遇，推動構建人類命運共同體。擁抱中國就是擁抱機遇，投資中國就是投資未來。歡迎包括瓦倫堡家族在內的瑞典及歐洲工商界進一步加強對華合作，實現互利共贏。王毅表示，目前中瑞雙方正著力改善互信、聚焦合作，推動雙邊關係重回健康發展軌道。這需要兩國各界共同努力。希望瓦倫堡家族及瑞典工商界繼續發揮積極作用，推動瑞典政府奉行理性務實對華政策，向瑞典民眾介紹真實的中國，為雙邊關係改善創造更好民意基礎。雅各布·瓦倫堡表示，瓦倫堡家族自上世紀70、80年代以來就進入中國市場，親身經歷中國改革開放發展程序，深度參與瑞中各領域交流合作，並從中獲益良多。中國取得舉世矚目發展成就，經濟競爭力和國際影響力持續提升。深化對華合作對歐洲及瑞典至關重要，瓦倫堡家族看好中國發展前景，願繼續投資中國、深耕中國、融入中國，併為促進瑞中、歐中經貿關係健康穩定發展作出不懈努力。（外交部）
+
+---
+
+### 2026-07-05 07:17:39  #國際
+
+【普京與特朗普通話 重申仍傾向政治解決烏克蘭問題】俄羅斯總統助理烏沙科夫5日通報，俄總統普京4日與美國總統特朗普通話時重申傾向於透過政治外交手段解決烏克蘭問題，同時他強調必須考慮到俄方的原則立場。烏沙科夫在莫斯科時間5日零時召開的新聞釋出會上介紹，應美方要求，普京與特朗普進行了電話交談，通話時間約為1小時25分鐘。普京在通話中向特朗普通報俄烏衝突的戰場情況。普京說，俄軍正在全線發起進攻。烏沙科夫告訴媒體，俄武裝力量總參謀長格拉西莫夫3日向普京報告，俄軍已完全控制康斯坦丁諾夫卡。他表示，但基輔及其歐洲支持者仍押注於烏克蘭衝突的延續甚至升級。烏沙科夫說，特朗普在電話交談中重申將促成儘快停止軍事行動，尋求俄烏危機的和平解決之道。特朗普的特使威特科夫和女婿庫什納將繼續開展調解並在合適時候到訪莫斯科。據烏沙科夫介紹，關於伊朗局勢，普京在通話中表示，希望美伊在雙方諒解備忘錄基礎上進行的談判程序，能夠在關鍵問題上找到彼此都能接受的長期解決方案，並表示願為實現地區局勢緩和穩定提供切實幫助。特朗普對俄方立場和建設性建議表示感謝。（新華社）
+
+---
+
+### 2026-07-05 07:11:25  #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、開拓創新勇爭先 踔厲奮發建新功——習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話凝聚中管企業、中管金融企業和中管高校幹部職工實幹篤行力量
+2、推進由治及興 共築復興偉業——習近平總書記在慶祝中國共產黨成立一百零五週年大會上的重要講話為香港各界奮進新徵程指明方向
+3、天津推進科技創新和產業創新深度融合（活力中國調研行）
+4、3部門發文規範國際科技組織成立登記
+5、從“中國製造”到“中國創造”，中國品牌何以圈粉世界（國際論壇·讀懂中國·讀懂中國式現代化）
+6、瑞典首相克里斯特松會見王毅
+7、奈米比亞共和國總統恩代特瓦今起對我國進行國事訪問
+8、今年投資預計將超七萬億元“六張網”構建現代化基礎設施體系
+9、全面建成小康社會（偉大征程）
+10、吳政隆在湖北湖南調研時指出 持續增強內生動力 推動經濟向新向優向好發展
+11、諶貽琴在陝西調研時強調 促進養老事業和養老產業發展 持續做強做大文旅產業
+12、電子商務法修正草案公開徵求意見
+13、兩部門就電子商務法修正草案徵求意見稿答記者問
 
 ---
 
@@ -14438,95 +14535,5 @@ Thai National Shippers' Council forecasts Thailand's exports to rise 8-10% in 20
 ### 2026-07-03 11:48:09  #公司
 
 【山東移動與矽基流動達成戰略合作】近日，中國行動通訊集團山東有限公司（簡稱“山東移動”）與矽基流動達成戰略合作。雙方將圍繞算力服務、業務協同、生態共建三大方向展開深度合作。
-
----
-
-### 2026-07-03 11:47:43  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Yield Rebounds on PBOC Cutback — China's 10-year government bond yield moved higher toward 1.74% on Friday, rebounding from the previous session as investors interpreted the People's Bank of China's latest actions as signaling increased caution. The central bank purchased a net 10 billion yuan ($1.47 billion) of government bonds in June, down sharply from 50 billion yuan in the previous month and marking the lowest monthly total since October 2025. The pullback in purchases suggests policymakers are seeking to limit further declines in yields and discourage excessive speculation in the bond market. The move also reflects the PBOC's introduction of a new overnight open-market operation last month. On the economic front, a private survey showed that China's services PMI eased to 54.1 in June from 54.4 in May but remained above market expectations of 53.0. Earlier in the week, official data showed that the non-manufacturing PMI edged up to 50.2 from 50.1, defying expectations for a slight contraction of 49.9.
-
----
-
-### 2026-07-03 11:47:21  #市場 #焦點
-
-南向資金淨買入額達40億港元。
-
----
-
-### 2026-07-03 11:45:58  #公司
-
-海達股份7月3日在互動平臺表示，公司目前沒有產品應用於半導體領域。
-
----
-
-### 2026-07-03 11:43:01  #其他
-
-【搭配優質分紅賬戶和生態服務 新華保險推出30週年新產品】新華保險7月2日召開“優資產·優產品·優服務”30週年司慶季新產品釋出會，推出“金悅、盛世”兩大系列年金與壽險產品（金悅優選慶典版養老年金保險（分紅型）、尊佑金悅慶典版養老年金保險（分紅型）、盛世榮耀盈家版終身壽險（分紅型）、盛世穩盈年金保險（分紅型）），搭配高效分紅賬戶和貼心生態服務，共同組成契合大財富時代居民資產配置需求的上佳之選。
-
----
-
-### 2026-07-03 11:41:37  #公司
-
-【睿智醫藥簽約模式動物CRO專案】近日，贛南創新與轉化醫學研究院、睿智醫藥科技股份有限公司簽約“模式動物科學服務CRO服務”專案。專案重點落在創新藥早期研發與臨床前驗證環節，專案將探索模式動物資源、藥效評價體系、實驗驗證體系與CRO服務能力之間的協同。
-
----
-
-### 2026-07-03 11:40:54  #公司 #國際
-
-【美國ITC釋出對抗體偶聯藥物及其組成成分和下游產品的337部分終裁】7月2日，美國國際貿易委員會（ITC）釋出公告稱，對特定抗體偶聯藥物及其組成成分和下游產品作出337部分終裁：對本案行政法官於2026年6月16日作出的初裁（No.17）不予複審，即基於申請方撤回，本案調查終止。
-
----
-
-### 2026-07-03 11:40:50  #國際
-
-【《2026中國具身智慧產業發展報告》釋出】作為國內首個全域聚焦具身智慧的專業行業展，2026上海國際具身智慧產業博覽會（CIEI 2026）正在國家會展中心（上海）舉辦。《2026中國具身智慧產業發展報告》在展會期間釋出。 《報告》顯示，當前全球具身智慧產業格局呈現“中美雙核驅動、歐日韓追趕”的競爭態勢。其中，美國憑藉在AI基礎研究、大模型訓練和風險投資方面的絕對優勢，在具身智慧的“大腦”層面保持領先。中國在全球具身智慧產業中展現出獨特的競爭優勢，一方面，中國擁有全球最完整的機器人硬體供應鏈，涵蓋電機、減速器、絲槓、感測器、控制器等全產業鏈環節，成本僅為歐美的40-60%；另一方面，中國豐富的製造業和服務業應用場景為具身智慧提供了海量訓練資料和落地機會。同時，國家政策持續加碼，從中央到地方形成了系統化的產業支援體系。 (上觀新聞)
-
----
-
-### 2026-07-03 11:40:33  #Trading Economics #Markets #Commodity #Importance 1
-
-Copper Rises as Rate-Hike Expectations Ease — Copper futures climbed toward $6.2 per pound on Friday and were on track for a weekly gain as traders scaled back bets for Federal Reserve interest rate hikes following softer-than-expected US employment data. The US economy added far fewer jobs in June than forecast, leading markets to price in only about a 50% chance of a Fed rate increase in September, down from roughly 67% before the report. Industrial metals had faced pressure in recent weeks as Federal Reserve officials signaled a greater willingness to tighten monetary policy, weighing on the outlook for metals demand. Easing supply risks as commercial traffic though the crucial Strait of Hormuz improved also weighed on prices.
-
----
-
-### 2026-07-03 11:39:29  #公司
-
-【矽基流動與山東移動達成戰略合作】7月3日，據矽基流動訊息，中國行動通訊集團山東有限公司與矽基流動戰略合作協議簽約。雙方將圍繞算力服務、業務協同、生態共建三大方向展開深度合作。
-
----
-
-### 2026-07-03 11:39:23  #其他
-
-【廣東湛江啟動防熱帶氣旋Ⅱ級應急響應】從廣東湛江海事局瞭解到，受颱風“美莎克”影響，湛江港、雷州半島東部及西部沿海、瓊州海峽北岸各颱風警報站已同步升掛三號風球。為有效防範颱風風險，湛江海事局於7月3日7時啟動防熱帶氣旋Ⅱ級應急響應，部署各項海上防颱防禦工作。為防範海上風險，湛江海事局對海上施工船、採運砂船、風電運維船、危險品船等重點船舶開展排查複核，核實船舶停泊位置、裝載狀態及人員撤離情況。
-
----
-
-### 2026-07-03 11:39:09  #國際
-
-紐西蘭總理拉克森宣佈，印度總理莫迪將於下週對紐西蘭進行首次正式訪問。
-
----
-
-### 2026-07-03 11:38:44  #MKT News
-
-【U.S. rejects ICC jurisdiction over U.S. persons】The U.S. Department of Justice said Acting Attorney General Todd Blanche wrote to International Criminal Court President Tomoko Akane rejecting ICC jurisdiction over U.S. persons. The DOJ reiterated the U.S. is not a party to the Rome Statute and has never recognized ICC jurisdiction, and said it will not cooperate with ICC investigations, inquiries, summonses or prosecutions nor extradite or surrender any U.S. personnel to the court.
-
----
-
-### 2026-07-03 11:37:51  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300 #SZSE Component
-
-【China A-shares midday: ChiNext up 1.58% at half-day; precious metals, humanoid robots lead gains】China A-shares traded higher at midday: ChiNext Index was up 1.58% at the half-day mark after an intraday high above 2%, while the Sci‑Tech Innovation 50 Index initially fell nearly 2% before rallying to more than 2% intraday. Shanghai Composite rose 0.69% and the Shenzhen Composite Index rose 1.39%; turnover across the two exchanges exceeded 2 trillion yuan. The precious metals sector outperformed, with Zhaojin Gold and Chifeng Gold posting second-straight limit-ups. Humanoid robotics and defense equipment stocks also surged, with multiple names hitting daily limits. Fluorochemicals plunged; gaming pulled back, and glass substrates and organosilicon stocks were among the largest decliners.
-
----
-
-### 2026-07-03 11:37:31  #公司
-
-【恆工精密在上海成立具身智慧科技公司】天眼查App顯示，7月1日，恆工創元具身智慧科技（上海）有限公司成立，法定代表人為魏劍秋，註冊資本500萬人民幣，經營範圍包括智慧機器人的研發，工業機器人制造，智慧基礎製造裝備製造，機械零件、零部件加工等，由恆工精密（301261）全資持股。
-
----
-
-### 2026-07-03 11:36:50  #公司
-
-【湖南省金芙蓉智慧衡器計量及智慧製造產業基金成立】企查查APP顯示，近日，湖南省金芙蓉智慧衡器計量及智慧製造產業基金合夥企業（有限合夥）成立，出資額約7.89億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由湖南省金芙蓉產業引導基金合夥企業（有限合夥）、浙江天澄新能源開發有限公司、曼恩斯特(301325)全資子公司深圳市曼恩斯特創投管理有限公司等共同持股。
 
 ---
