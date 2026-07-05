@@ -1,7 +1,31 @@
 {
   "date": "2026-07-05",
-  "count": 398,
+  "count": 400,
   "items": [
+    {
+      "id": "4970903",
+      "time": "2026-07-05 16:06:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石藥景峰：連續2個交易日收盤價漲幅偏離值累超23.21%】石藥景峰釋出股票交易異常波動公告，公司股票於2026年7月2日、3日連續2個交易日收盤價格漲幅偏離值累計達23.21%，根據《深圳證券交易所交易規則》的有關規定，屬於股票交易異常波動情況。"
+    },
+    {
+      "id": "mkt:019f314f-696f-7aab-8ca1-d4baaf048418",
+      "time": "2026-07-05 16:05:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Citic Securities: Two factors could catalyze recovery in some non‑AI sectors with earnings support】Citic Securities says two recent narrative shifts could catalyze a recovery in some non‑AI sectors with earnings support. First, markets are re‑examining Fed policy assumptions and are no longer uniformly pricing a pre‑set hawkish tightening path; a reversal of the tightening/strong‑dollar narrative has eased negative sentiment in non‑AI names. Second, controversy around Meta underscores low market tolerance for negative AI news and suggests downstream players need richer monetization models to justify aggressive upstream investment. Citic also expects outflows from broad A‑share ETFs to ease materially — a key liquidity margin change. The combination of a softer rate‑hike narrative and improved liquidity could spur selective recovery in fundamentally supported non‑AI sectors."
+    },
     {
       "id": "4970902",
       "time": "2026-07-05 16:01:47",

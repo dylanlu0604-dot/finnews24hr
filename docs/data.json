@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-05 16:04:45",
+  "updated": "2026-07-05 16:08:42",
   "count": 13213,
   "items": [
+    {
+      "id": "4970903",
+      "time": "2026-07-05 16:06:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石藥景峰：連續2個交易日收盤價漲幅偏離值累超23.21%】石藥景峰釋出股票交易異常波動公告，公司股票於2026年7月2日、3日連續2個交易日收盤價格漲幅偏離值累計達23.21%，根據《深圳證券交易所交易規則》的有關規定，屬於股票交易異常波動情況。"
+    },
+    {
+      "id": "mkt:019f314f-696f-7aab-8ca1-d4baaf048418",
+      "time": "2026-07-05 16:05:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Citic Securities: Two factors could catalyze recovery in some non‑AI sectors with earnings support】Citic Securities says two recent narrative shifts could catalyze a recovery in some non‑AI sectors with earnings support. First, markets are re‑examining Fed policy assumptions and are no longer uniformly pricing a pre‑set hawkish tightening path; a reversal of the tightening/strong‑dollar narrative has eased negative sentiment in non‑AI names. Second, controversy around Meta underscores low market tolerance for negative AI news and suggests downstream players need richer monetization models to justify aggressive upstream investment. Citic also expects outflows from broad A‑share ETFs to ease materially — a key liquidity margin change. The combination of a softer rate‑hike narrative and improved liquidity could spur selective recovery in fundamentally supported non‑AI sectors."
+    },
     {
       "id": "4970902",
       "time": "2026-07-05 16:01:47",
@@ -121639,26 +121663,6 @@
         "其他"
       ],
       "text": "【中國今年前5個月向歐洲出口電風扇猛增，有廠商訂單增兩成】隨著歐洲夏天高溫天氣增多，中國向歐洲出口電風扇增長勢頭良好。海關資料顯示，2026年1月-5月，中國向歐洲主要國家出口電風扇的金額同比大幅增長。有企業今年向歐洲出口電風扇的訂單同比增長兩成。據海關資料，今年前5個月，中國向英國、西班牙、德國、荷蘭、法國、比利時、葡萄牙的電風扇出口額同比增幅均達到或超過20%，其中對葡萄牙的電風扇出口額同比增幅最高、達到96.5%；此外，對義大利的電風扇出口額增幅為4.3%。中山樂途電器總經理黎明陽告訴記者，今年2月-3月，他們向歐洲出口電風扇的訂單已經出了不少貨。今年他們對歐洲電風扇的出口金額同比增長兩成。因為銅、塑膠等原材料價格升幅比較大，匯率的成本也在增長，電風扇出口單價提高了約7%-8%。“目前歐洲天氣這麼炎熱，之前沒有預料到，預計明年的訂單會增加。”黎明陽說。（第一財經）"
-    },
-    {
-      "id": "4958844",
-      "time": "2026-06-28 16:07:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【斯洛伐克總理：不會參與北約700億歐元援烏計劃】據俄羅斯方面27日訊息，在播出的一檔節目中，斯洛伐克總理菲佐表示，斯洛伐克不會參與向烏克蘭提供新一輪軍事支援的計劃。據多家媒體此前報道，在7月舉行的北約峰會上，各方預計將承諾今年向烏克蘭提供700億歐元、約合5400億元人民幣的軍事支援。對此，菲佐表示，他已指示斯洛伐克代表團，絕不參與任何向烏克蘭提供軍事支援的計劃。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f0d42-9daf-7aab-8bff-998352a33361",
-      "time": "2026-06-28 16:04:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Bahrain says it intercepted and destroyed missiles and drones from Iran】Bahrain’s Defence Force General Command said on the 28th its air-defence systems intercepted and destroyed missiles and drones launched from Iran. The command said Iran continued hostile actions, including missile and drone strikes targeting Bahraini civilians, and that defence units are at highest alert and fully prepared. The Interior Ministry said the incident damaged a residential building in Muharraq governorate with no fatalities; authorities are responding on site."
     }
   ]
 }
