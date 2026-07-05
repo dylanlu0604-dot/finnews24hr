@@ -1,7 +1,50 @@
 {
   "date": "2026-07-05",
-  "count": 458,
+  "count": 462,
   "items": [
+    {
+      "id": "mkt:019f31c8-4485-7aab-8ca2-589c199a817c",
+      "time": "2026-07-05 18:17:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC+: seven member countries decided to implement a production adjustment of 188,000 bpd."
+    },
+    {
+      "id": "mkt:019f31c8-0908-7aab-8ca2-577ef12cb480",
+      "time": "2026-07-05 18:17:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "OPEC+ schedules its next meeting for Aug. 2, 2026."
+    },
+    {
+      "id": "mkt:019f31c7-d094-7aab-8ca2-488ee6a6db23",
+      "time": "2026-07-05 18:16:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "OPEC+: Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman adjusted production and reiterated commitment to market stability."
+    },
+    {
+      "id": "4970948",
+      "time": "2026-07-05 18:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克：沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞及阿曼調整產量，重申維護市場穩定承諾。"
+    },
     {
       "id": "mkt:019f31c6-1511-7aab-8ca2-41b795a996cd",
       "time": "2026-07-05 18:14:52",
