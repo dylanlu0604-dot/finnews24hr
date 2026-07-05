@@ -1,7 +1,154 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-06 01:43:39_
-_本檔包含 2404 則快訊，約 507365 字_
+_更新時間：2026-07-06 02:45:20_
+_本檔包含 2412 則快訊，約 507580 字_
+
+---
+
+### 2026-07-01 20:18:36  #公司
+
+【昂利康：向特定物件發行股票申請獲深交所稽核透過】昂利康公告稱，公司於2026年7月1日收到深交所上市稽核中心出具的告知函，其向特定物件發行股票申請獲稽核透過，認為公司符合發行、上市條件和資訊披露要求，後續深交所將報中國證監會履行相關注冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性，公司將及時披露進展。
+
+---
+
+### 2026-07-01 20:18:23  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. Treasury yields slightly pulled back after the ADP employment report; the 10-year Treasury yield was last up 6.31 bps at 4.485%.
+
+---
+
+### 2026-07-01 20:18:17  #其他
+
+ADP報告：5月新增就業總數持平於12.2萬。
+
+---
+
+### 2026-07-01 20:18:04  #國際
+
+【Challenger報告：美國僱主6月宣佈的裁員人數同比下降4.5%】Challenger, Gray & Christmas報告稱，美國僱主6月宣佈的裁員人數為45,849人，今年迄今累計443,604人。這是12月以來最低的月度數字。美國東部地區宣佈的裁員人數為18831人；中西部地區7520人；西部地區11678人；南部地區7820人。
+
+---
+
+### 2026-07-01 20:17:53  #市場
+
+現貨黃金在ADP資料公佈後小幅擴大漲幅，最新上漲0.5%，報每盎司4025美元。
+
+---
+
+### 2026-07-01 20:17:43  #MKT News #Important #Macro & Rates #US Economy
+
+ADP report: U.S. private employers added 98k jobs in June. Gains were uneven—financials and information led hiring, while leisure and hospitality recorded weak hiring for a sixth consecutive month.
+
+---
+
+### 2026-07-01 20:16:47  #市場 #國際
+
+美元指數在美國ADP就業資料公佈後小幅回吐漲幅，當前上漲0.18%，報101.41點。
+
+---
+
+### 2026-07-01 20:16:43  #市場 #國際
+
+美國國債收益率在ADP就業資料公佈後小幅回落漲幅；10年期美國國債收益率目前上漲6.31個基點，報4.485%。
+
+---
+
+### 2026-07-01 20:16:41  #市場
+
+美元/日元上漲0.08%，報162.67。
+
+---
+
+### 2026-07-01 20:16:31  #市場
+
+英鎊兌美元下跌0.16%，報1.3243美元。
+
+---
+
+### 2026-07-01 20:16:28  #市場
+
+歐元兌美元下跌0.32%，報1.1385美元。
+
+---
+
+### 2026-07-01 20:16:24  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+ADP chief economist Nela Richardson said the hiring picture shows a dual supply-demand narrative: time to find a job is lengthening while some sectors are facing labor-supply constraints. The net effect is a slowdown in job creation.
+
+---
+
+### 2026-07-01 20:16:08  #MKT News #Commodities #Precious Metals #DXY #Impact bearish #XAUUSD
+
+After ADP data, the dollar index (DXY) slipped briefly to 101.42; spot gold was little changed at $4,024.8/oz.
+
+---
+
+### 2026-07-01 20:15:55  #其他
+
+PLAYSTATION：現有PLAYSTATION光碟遊戲不受2028年1月過渡影響。
+
+---
+
+### 2026-07-01 20:15:32  #國際
+
+美國ADP 6月商品生產就業人數增加2000人。
+
+---
+
+### 2026-07-01 20:15:26  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【US ADP private payrolls below expectations】US ADP private payrolls rose 98,000 in June, the smallest monthly gain since March and below the consensus of 118,000.
+
+---
+
+### 2026-07-01 20:15:26  #經濟數據 #美國
+
+美國6月ADP就業人數增加9.8萬人，預期11.8萬人，前值12.2萬人。
+
+---
+
+### 2026-07-01 20:15:16  #其他
+
+PlayStation（索尼遊戲主機）：自2028年1月起停止新遊戲實體光碟的生產。
+
+---
+
+### 2026-07-01 20:15:08  #焦點 #國際
+
+【“小非農”人數低於預期】美國6月ADP就業人數 9.8萬人，預期11.8萬人，前值12.2萬人。
+
+---
+
+### 2026-07-01 20:15:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
+
+US ADP private payrolls +98k in June, below consensus +118k; prior +122k.
+
+---
+
+### 2026-07-01 20:15:00  #MKT News #Economic Calendar #Important
+
+United States | ADP Employment Change (Jun) | actual 98000K | consensus 118000K | previous 122000K
+
+---
+
+### 2026-07-01 20:14:22  #公司 #市場 #觀點 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨齊跌，道指期貨跌0.39%，標普500指數期貨跌0.37%，納指期貨漲跌0.66%。
+②德國DAX指數跌0.01%，英國富時100指數跌0.61%，法國CAC40指數跌1.00%，歐洲斯托克50指數跌0.61%。
+③WTI原油跌0.71%，報69.01美元/桶。布倫特原油跌1.06%，報72.18美元/桶。
+④傳伊朗決意對霍爾木茲海峽收“過路費” 或於8月中旬開徵。
+⑤伊朗稱將適時啟動伊美最終協議談判。
+⑥日本負責貨幣事務的最高官員暗示，外匯干預是一項有效策略，並指出東京與華盛頓方面就匯率問題保持著密切溝通。
+⑦微軟盤前漲1.5%，據報將進行新一輪裁員。
+⑧Oklo盤前漲4.3%，此前美國能源部批准了該公司Groves同位素測試反應堆的最終安全分析。
+⑨洛克希德馬丁盤前漲1.8%。此前花旗將其評級從中性提升至買入。
+
+---
+
+### 2026-07-01 20:14:15  #其他
+
+【最新文獻揭露AI時代華爾街同質化風險 同類模型氾濫令阿爾法加速衰減】從對沖基金到財富管理機構，華爾街正在擁抱人工智慧(AI)，期望藉此取得投資優勢。如今，研究人員開始追問，當越來越多投資者轉向類似的AI模型來尋找這種優勢時，會發生什麼：他們會買入相同的股票，對相同的頭條訊息作出反應，有時還會犯下相同的錯誤。新近研究顯示，這種情形可能對整個市場產生影響。人工智慧或許會讓投資者行動更快、掌握更多資訊，但也可能讓他們的交易更趨擁擠、系統更容易被欺騙，風險承擔也更難控制。近期多項研究表明，隨著投資者趨同於相同機會，人工智慧的廣泛採用可能會縮短盈利性交易訊號的壽命。還有研究發現，AI模型系統性地承擔了超出預期的風險，或者會因其攝取的資訊而受到操縱。
 
 ---
 
@@ -14432,97 +14579,5 @@ According to Axios, Iran's parliament speaker Ghalibaf said the US is internally
 ### 2026-07-01 03:44:24  #Trading Economics #Economy #Brazil #Non Farm Payrolls #Importance 1
 
 Brazil Job Creation Slows in May — Brazil created 72,960 formal jobs in May 2026, below April’s 85,888, marking the lowest level of job creation in 2026 so far. The result reflected 2.21 million hires and 2.13 million layoffs during the month. In the first five months of the year, Brazil generated 767,326 formal jobs, lifting the total stock of formal employment to 47.88 million. Services led job creation with 45,655 new positions, followed by construction (+12,096), agriculture (+10,205), and industry (+4,974), while commerce was broadly flat with just 40 net jobs. Regionally, 22 of Brazil’s 27 states posted positive job balances, led by São Paulo (+18,224), Espírito Santo (+9,532), and Rio de Janeiro (+9,195). Meanwhile, the average starting salary fell to R$2,384.10 in May from R$2,402.07 in April.
-
----
-
-### 2026-07-01 03:42:46  #MKT News #WTI #Impact mixed #Brent
-
-wright said Iran has shown no sign of cooperation to date. He said continued oil transit through the Strait of Hormuz is enabled by protection from the U.S. MILITARY.
-
----
-
-### 2026-07-01 03:42:20  #國際
-
-據Kann News：以色列安全官員表示，目前沒有明確的時間表。撤軍將會發生，但必須以“適當方式”進行。以軍撤軍只有在明確標準確立後才會進行。這些標準包括黎巴嫩軍隊承諾立即對真主黨武裝人員及其基礎設施採取行動。
-
----
-
-### 2026-07-01 03:41:57  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-Kann News: Israeli security officials said the IDF will withdraw only after clear criteria are established; those criteria include a Lebanese army commitment to immediately act against Hezbollah fighters and their infrastructure.
-
----
-
-### 2026-07-01 03:41:44  #宏觀
-
-巴西財政部預測， 債務佔比將自 2030 年起逐步回落，至 2036 年降至國內生產總值的 83.1%
-
----
-
-### 2026-07-01 03:41:26  #MKT News
-
-Kann News reported Israeli security officials said there is currently no firm timetable for a troop withdrawal; the withdrawal will occur but must be carried out in an 'appropriate manner'.
-
----
-
-### 2026-07-01 03:39:44  #宏觀
-
-巴西財政部預測，該國政府總債務佔國內生產總值比重 2026 年將達 83.5%，2029 年升至 87.9%。
-
----
-
-### 2026-07-01 03:37:42  #MKT News
-
-Former Israeli prime minister Bennett said Turkey itself is important, but President Erdogan "is a disaster".
-
----
-
-### 2026-07-01 03:33:49  #國際
-
-伊朗外交部發言人週二表示，針對旨在結束中東戰事的諒解備忘錄，若美國有任何違約行為，伊朗都將予以回應；美伊雙方代表團預計將赴卡達，圍繞該協議舉行間接會談。
-伊斯梅爾・巴蓋伊在每週例行記者會上向記者表示：“我們不會對任何挑釁行為置之不理。伊朗強大的武裝力量已然證明，任何針對伊朗伊斯蘭共和國利益目標的侵略行徑，都將迎來我方即刻且堅決的反擊。”
-“此類行為將構成對諒解備忘錄第一條的違反。倘若美方持續、反覆做出違約舉動，相關磋商程序自然會陷入阻滯。”
-
----
-
-### 2026-07-01 03:32:51  #MKT News
-
-Former Israeli prime minister Naftali Bennett said Syria's leader Sharaa is currently acting restrained and peaceful because of weakened military capabilities, but could rearm, rebuild strength and take action again. Bennett called Sharaa’s ideology and conduct "very bad."
-
----
-
-### 2026-07-01 03:31:43  #MKT News
-
-Canada's Southbow Company said Bridger Pipeline plans to develop a new pipeline from Guernsey, Wyoming to Cushing, Oklahoma.
-
----
-
-### 2026-07-01 03:29:22  #MKT News
-
-U.S. Vice President Vance said Iran publicly denies peace talks are underway, but technical discussions between the U.S. and Iran on an agreement continue. He described the approach as a "strategic tactic" in Iran's negotiation and rhetoric.
-
----
-
-### 2026-07-01 03:28:53  #MKT News
-
-Iran parliament speaker Ghalibaf said he will provide $12 bln to Iran's central bank to fund its global procurement of required goods at any price and in any currency. He called the arrangement feasible and said related procedures are underway.
-
----
-
-### 2026-07-01 03:28:45  #MKT News
-
-Iranian parliament speaker Ghalibaf said a third war imposed on Iran, if it occurs, would be regarded as a full-scale aggression against the country.
-
----
-
-### 2026-07-01 03:28:37  #央行 #國際
-
-伊朗議會議長卡利巴夫： 120 億美元資金將劃轉至伊朗央行，可用於在全球範圍內、以任意貨幣、按任意價格採購各類商品，相關流程目前正在推進中。
-
----
-
-### 2026-07-01 03:27:47  #國際
-
-伊朗議會議長卡利巴夫：斷然否認相關資金僅被限定用於向美國農戶採購糧食。
 
 ---

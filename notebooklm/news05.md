@@ -1,7 +1,99 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-06 01:43:39_
-_本檔包含 2509 則快訊，約 507317 字_
+_更新時間：2026-07-06 02:45:20_
+_本檔包含 2507 則快訊，約 506917 字_
+
+---
+
+### 2026-07-01 03:42:46  #MKT News #WTI #Impact mixed #Brent
+
+wright said Iran has shown no sign of cooperation to date. He said continued oil transit through the Strait of Hormuz is enabled by protection from the U.S. MILITARY.
+
+---
+
+### 2026-07-01 03:42:20  #國際
+
+據Kann News：以色列安全官員表示，目前沒有明確的時間表。撤軍將會發生，但必須以“適當方式”進行。以軍撤軍只有在明確標準確立後才會進行。這些標準包括黎巴嫩軍隊承諾立即對真主黨武裝人員及其基礎設施採取行動。
+
+---
+
+### 2026-07-01 03:41:57  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Kann News: Israeli security officials said the IDF will withdraw only after clear criteria are established; those criteria include a Lebanese army commitment to immediately act against Hezbollah fighters and their infrastructure.
+
+---
+
+### 2026-07-01 03:41:44  #宏觀
+
+巴西財政部預測， 債務佔比將自 2030 年起逐步回落，至 2036 年降至國內生產總值的 83.1%
+
+---
+
+### 2026-07-01 03:41:26  #MKT News
+
+Kann News reported Israeli security officials said there is currently no firm timetable for a troop withdrawal; the withdrawal will occur but must be carried out in an 'appropriate manner'.
+
+---
+
+### 2026-07-01 03:39:44  #宏觀
+
+巴西財政部預測，該國政府總債務佔國內生產總值比重 2026 年將達 83.5%，2029 年升至 87.9%。
+
+---
+
+### 2026-07-01 03:37:42  #MKT News
+
+Former Israeli prime minister Bennett said Turkey itself is important, but President Erdogan "is a disaster".
+
+---
+
+### 2026-07-01 03:33:49  #國際
+
+伊朗外交部發言人週二表示，針對旨在結束中東戰事的諒解備忘錄，若美國有任何違約行為，伊朗都將予以回應；美伊雙方代表團預計將赴卡達，圍繞該協議舉行間接會談。
+伊斯梅爾・巴蓋伊在每週例行記者會上向記者表示：“我們不會對任何挑釁行為置之不理。伊朗強大的武裝力量已然證明，任何針對伊朗伊斯蘭共和國利益目標的侵略行徑，都將迎來我方即刻且堅決的反擊。”
+“此類行為將構成對諒解備忘錄第一條的違反。倘若美方持續、反覆做出違約舉動，相關磋商程序自然會陷入阻滯。”
+
+---
+
+### 2026-07-01 03:32:51  #MKT News
+
+Former Israeli prime minister Naftali Bennett said Syria's leader Sharaa is currently acting restrained and peaceful because of weakened military capabilities, but could rearm, rebuild strength and take action again. Bennett called Sharaa’s ideology and conduct "very bad."
+
+---
+
+### 2026-07-01 03:31:43  #MKT News
+
+Canada's Southbow Company said Bridger Pipeline plans to develop a new pipeline from Guernsey, Wyoming to Cushing, Oklahoma.
+
+---
+
+### 2026-07-01 03:29:22  #MKT News
+
+U.S. Vice President Vance said Iran publicly denies peace talks are underway, but technical discussions between the U.S. and Iran on an agreement continue. He described the approach as a "strategic tactic" in Iran's negotiation and rhetoric.
+
+---
+
+### 2026-07-01 03:28:53  #MKT News
+
+Iran parliament speaker Ghalibaf said he will provide $12 bln to Iran's central bank to fund its global procurement of required goods at any price and in any currency. He called the arrangement feasible and said related procedures are underway.
+
+---
+
+### 2026-07-01 03:28:45  #MKT News
+
+Iranian parliament speaker Ghalibaf said a third war imposed on Iran, if it occurs, would be regarded as a full-scale aggression against the country.
+
+---
+
+### 2026-07-01 03:28:37  #央行 #國際
+
+伊朗議會議長卡利巴夫： 120 億美元資金將劃轉至伊朗央行，可用於在全球範圍內、以任意貨幣、按任意價格採購各類商品，相關流程目前正在推進中。
+
+---
+
+### 2026-07-01 03:27:47  #國際
+
+伊朗議會議長卡利巴夫：斷然否認相關資金僅被限定用於向美國農戶採購糧食。
 
 ---
 
@@ -14984,107 +15076,5 @@ Trump said he was determined to build one of the world’s greatest golf courses
 ### 2026-06-29 02:45:27  #MKT News
 
 President Trump said the Lincoln Memorial Reflecting Pool is fully back in service after sustaining significant damage.
-
----
-
-### 2026-06-29 02:43:59  #國際
-
-特朗普：此前受損嚴重的倒影池現已全面投入使用。
-
----
-
-### 2026-06-29 02:29:08  #國際
-
-伊朗外長阿拉格齊週日會見伊拉克總理，阿拉格齊敦促地區各國，切勿允許本國領土或設施被用於針對伊朗的襲擊行動。他表示，地區國家應阻止“侵略方”利用其領土與設施對伊朗實施“非法襲擊”，以此共同維護地區安全與和平。
-
----
-
-### 2026-06-29 02:27:15  #MKT News #Market Themes #Chip Wars #BIDU.O #Impact bullish
-
-According to The Information, Baidu’s Kunlun chip unit plans a Hong Kong IPO valuing the business at about $50 billion. IPO investors would be required to commit to purchasing chips equal to roughly 3–7 times their subscription amount.
-
----
-
-### 2026-06-29 02:26:19  #MKT News
-
-Israeli media reported a security alert around Tel Aviv train station after a suspected car bomb.
-
----
-
-### 2026-06-29 02:23:56  #市場
-
-奈及利亞反壟斷委員會表示，國際原油價格大幅下跌，但國內燃油零售價下調速度滯後，並警告將對燃油市場採取整治措施。
-
----
-
-### 2026-06-29 02:12:34  #國際
-
-【普京稱考慮全面禁止柴油出口】當地時間6月28日，俄羅斯總統普京在主持召開國內燃油市場保障會議時表示，需要採取系統性措施以增加燃油供應量並維持經濟上合理的價格。普京表示，大型煉油廠產能已滿負荷利用，中小型企業的潛力也已調動，此前儲備的燃油已投放國內市場。普京說，根據俄能源部提交的報告，目前俄羅斯汽油儲備為170萬噸，幾乎與去年同期持平。他表示，正在考慮全面禁止柴油出口的必要性。普京還要求，要將俄羅斯基礎設施遭襲的後果降至最低。（央視新聞）
-
----
-
-### 2026-06-29 02:09:01  #其他
-
-市場資訊：參與崑崙芯認購的投資者需承諾採購價值為認購金額3至7倍的崑崙芯晶片。
-
----
-
-### 2026-06-29 02:08:38  #其他
-
-百度AI晶片業務崑崙芯衝擊港股IPO，目標估值500億美元。
-
----
-
-### 2026-06-29 02:06:44  #MKT News
-
-【Iraq says willing to mediate between US and Iran】Iraq’s foreign minister told a joint press conference in Baghdad with Iran’s foreign minister that Baghdad is willing to mediate between the US and Iran to help end the conflict, saying Iraq maintains good relations with both and is prepared to work with both sides. He said Iraq has previously facilitated US–Iran cooperation. Despite a memorandum of understanding between Iran and the US, he added that clashes in the Strait of Hormuz continue and warned the war must end to avoid regional destruction.
-
----
-
-### 2026-06-29 02:00:24  #國際
-
-【烏干達宣佈從南非撤僑】烏干達外交部28日釋出宣告說，鑑於南非民間近幾月反移民暴力和排外抗議活動持續升級，烏總統穆塞韋尼已指示政府安排撤離在南非的烏干達公民。（新華社）
-
----
-
-### 2026-06-29 01:53:13  #其他
-
-【委內瑞拉地震1450人遇難人3150傷】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間6月28日下午通報，地震已造成1450人遇難、3150人受傷。774棟建築物受損或完全倒塌，12721人受災。（CCTV國際時訊）
-
----
-
-### 2026-06-29 01:49:22  #其他 #焦點
-
-【四川高縣發生5.5級地震 消防救援力量已趕赴震中】6月29日0時12分，四川省宜賓市高縣發生5.5級地震，震源深度6公里。總檯記者從四川省消防救援總隊瞭解到，地震發生後，四川省消防救援總隊已啟動應急響應，調派宜賓支隊赴震中偵察災情。截至29日1時，首批救援力量已抵達震中沙河鎮，暫無房屋倒塌、人員被困情況報告。（央視新聞）
-
----
-
-### 2026-06-29 01:45:23  #國際
-
-俄羅斯國防部通報：防空系統單日在俄境內多地及亞速海上空擊落72架烏克蘭無人機。
-
----
-
-### 2026-06-29 01:45:18  #其他
-
-【委內瑞拉強震遇難人數升至1450人】當地時間28日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯宣佈，委內瑞拉24日發生的強震造成的死亡人數上升至1450人。
-
----
-
-### 2026-06-29 01:45:06  #其他
-
-【宜賓公安啟動應急響應巡查排險#】6月29日0時12分在四川宜賓市高縣發生5.5級地震，地震發生後宜賓消防迅速集結力量，趕赴震中開展災情排查、人員搜救與應急處置工作。
-
----
-
-### 2026-06-29 01:44:49  #MKT News
-
-A magnitude-5.5 earthquake struck Gao County, Yibin, Sichuan; no casualties reported so far.
-
----
-
-### 2026-06-29 01:43:47  #MKT News
-
-【Iran foreign minister holds talks with Iraq prime minister】Iran's foreign ministry said Iran's foreign minister met Iraq's prime minister in Iraq on Sunday at midday. Tehran said the minister stressed Iran's determination to deepen political, economic, security, commercial, cultural and people-to-people ties with Iraq, saying closer bilateral cooperation supports regional stability. He outlined recent diplomatic steps aimed at ending what Iran describes as US–Israeli hostilities against Iran, and urged regional states to help maintain security and prevent third parties from using their territory or facilities to carry out illegal attacks on Iran.
 
 ---

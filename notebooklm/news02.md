@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-06 01:43:39_
-_本檔包含 2799 則快訊，約 507181 字_
+_更新時間：2026-07-06 02:45:20_
+_本檔包含 2795 則快訊，約 507825 字_
+
+---
+
+### 2026-07-03 15:56:15  #Trading Economics #Economy #France #Composite PMI #Importance 1
+
+France Private Sector Downturn Softens — The S&P Global France Composite PMI rose to 47.2 in June 2026 from 44.9 in May, signaling the weakest contraction in private sector activity in three months, although it remained below the 50.0 threshold for a sixth consecutive month. Business activity continued to decline across both the manufacturing and services sectors, but the pace of contraction eased from May's 28-month low. New orders also fell for a sixth straight month, though the decline softened to its slowest rate in three months. Meanwhile, employment edged lower only slightly as manufacturing firms resumed hiring, helping to offset continued job cuts elsewhere. On the price front, cost pressures eased further but remained historically elevated, suggesting that inflationary pressures continued to weigh on businesses even as they moderated from recent peaks. Looking ahead, business confidence rebounded from a one-and-a-half-year low, reflecting improved expectations for future activity despite the ongoing downturn.
+
+---
+
+### 2026-07-03 15:56:11  #公司
+
+【泰和科技：公司正在集中精力做光刻膠樹脂和高純溶劑等電子化學品】泰和科技7月3日在互動平臺表示，公司現在正在集中精力做磷酸焦磷酸鐵鈉NFPP鈉電正極材料、光刻膠樹脂和高純溶劑等電子化學品，待以上產品生產穩定以後，集中精力做碳酸亞乙烯酯VC、氟代碳酸乙烯酯FEC等電解液新增劑專案。新專案的試生產結果、產品市場開拓和產品市場行情存在一定的不確定性，請注意投資風險。
+
+---
+
+### 2026-07-03 15:55:09  #公司
+
+【捷昌驅動：首次回購0.0244%公司股份，已支付的總金額為人民幣227.59萬元】捷昌驅動公告，公司於2026年7月3日透過集中競價交易方式首次回購股份94100股，佔公司總股本的0.0244%。此次回購的最高價為25.54元/股，最低價為23.96元/股，已支付的總金額為227.59萬元（不含交易費用）。此次回購符合相關法律法規及公司回購股份方案。
+
+---
+
+### 2026-07-03 15:55:08  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Germany June final composite PMI 49.5; consensus 48, prior 48.
+
+---
+
+### 2026-07-03 15:55:07  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX #DXY #Impact bearish
+
+Germany June final services PMI 48.6, vs 46.8 expected and 46.8 prior.
+
+---
+
+### 2026-07-03 15:55:00  #MKT News #Economic Calendar #Important
+
+Germany | Services PMI Final (Jun) | actual 48.6 | consensus 46.8 | previous 46.8
+
+---
+
+### 2026-07-03 15:55:00  #MKT News #Economic Calendar #Important
+
+Germany | Composite PMI Final (Jun) | actual 49.5 | consensus 48 | previous 48
+
+---
+
+### 2026-07-03 15:54:57  #Trading Economics #Economy #South Africa #Composite PMI #Importance 1
+
+South Africa Private Sector Returns to Growth — The S&P Global South Africa PMI rose to 50.5 in June 2026 from 49.6 in May, returning the private sector to marginal growth. Despite the improvement, output and new orders contracted for a second consecutive month, reflecting subdued domestic demand as firms continued to cite constrained client spending, economic uncertainty, and elevated price pressures, although the services sector remained the only category to record growth in new business. Business confidence also deteriorated, falling to its lowest level since July 2021 amid domestic political uncertainty and concerns over the Middle East conflict. Meanwhile, input cost inflation eased sharply from May's 46-month high, while output price inflation also moderated but remained elevated due to higher fuel and shipping costs. Employment continued to expand as firms hired both permanent and temporary staff to increase capacity, while supplier delivery times lengthened further as disruptions to imported shipments persisted.
+
+---
+
+### 2026-07-03 15:54:16  #公司
+
+【東風股份：2026年6月汽車及發動機產銷資料公佈】東風股份公告稱，2026年6月，公司汽車合計產量12,515輛，同比增長84.84%，本年累計產量68,905輛，同比增長9.00%；銷量11,016輛，同比增長22.13%，本年累計銷量69,185輛，同比增長0.44%。其中，新能源汽車產量5,163輛，同比增長424.16%，本年累計產量18,969輛，同比增長67.72%；銷量3,709輛，同比增長357.34%，本年累計銷量18,602輛，同比增長100.30%。東風康明斯發動機產量24,213臺，同比增長29.05%，本年累計產量135,234臺，同比增長23.75%；銷量23,330臺，同比增長19.39%，本年累計銷量133,953臺，同比增長18.39%。
 
 ---
 
@@ -16781,83 +16835,5 @@ EFTA member states said they have completed negotiations on a comprehensive free
 ### 2026-07-02 17:59:05  #MKT News #Macro & Rates #US Economy #S&P500 #Impact mixed #DXY #US10Y
 
 【S&P 500 poised as market awaits US nonfarm payrolls】S&P 500 is consolidating ahead of Thursday's US nonfarm payrolls, with traders eyeing dip-buying, a triangle-pattern risk and a possible move toward 7,600. Wednesday's session was volatile after some front-running ahead of the print. Consensus expects +114k jobs and a 4.3% unemployment rate. Analysts say any sell-off during Thursday trading—unless payrolls show an unusually strong beat—would be a buy-on-dip opportunity. Market focus will be on how actual data compare with expectations; an in-line print could be uneventful, confirming continued US economic activity and leaving short-term pullbacks as potential buying opportunities.
-
----
-
-### 2026-07-02 17:59:01  #國際
-
-【北約峰會將討論防務承諾落實情況，美稱峰會將“非常成功”】北約峰會定於7月7日至8日在土耳其首都安卡拉舉行。美方官員單方定調稱峰會將會“非常成功”，但事實上美歐在北約防務問題上面臨諸多分歧。美方近期一直要求歐洲盟友補齊北約防務計劃中美國留下的空檔，但分析稱歐洲國家填補這一空檔面臨不小挑戰。與此同時，美國總統特朗普繼續敲打歐洲盟友，要求後者增加防務開支，並點名批評西班牙“表現不好”。峰會未開已“成功”，美國常駐北約代表馬修·惠特克7月1日線上上記者會上告訴媒體記者：“我們今年準備舉行一次非常成功的峰會，因為去年（峰會成果）是前所未有的，而且意義重大。”北約去年6月在荷蘭海牙舉行峰會，北約秘書長呂特為特朗普“量身定做”峰會議程，成功讓特朗普繼續維持對這一軍事聯盟所作承諾。北約32個成員國最終承諾到2035年把各自防務開支佔國內生產總值(GDP)的比重提升至5%。（新華社）
-
----
-
-### 2026-07-02 17:58:30  #MKT News #Market Regions #Europe & UK
-
-Spain's IBEX 35 rose 1.00% intraday.
-
----
-
-### 2026-07-02 17:58:26  #其他
-
-【湖南省人民政府參事李大劍接受紀律審查和監察調查】中央紀委國家監委網站通報，湖南省人民政府參事，省應急管理廳原黨委書記、廳長李大劍涉嫌嚴重違紀違法，主動投案，目前正接受湖南省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-07-02 17:57:00  #公司 #市場
-
-【ST興化：股價連續兩天下跌 公司提示多項風險】ST興化公告稱，公司股票交易價格連續2個交易日（2026年7月1日、7月2日）收盤價格跌幅偏離值累計超過12%，屬於異常波動。公司2025年度內控審計報告被出具否定意見，股票於2026年5月6日起被實施其他風險警示；2026年4月因涉嫌信披違法違規被立案，尚未收到最終調查結論；2026年一季度歸母淨利潤虧損690.40萬元。公司提醒投資者注意投資風險。
-
----
-
-### 2026-07-02 17:56:53  #公司 #市場
-
-【ST八菱：股票連續兩日漲幅偏離值累計超12% 不存在應披露未披露事項】ST八菱公告稱，公司股票於2026年7月1日、7月2日連續兩個交易日內，日收盤價格漲幅偏離值累計超過12%，構成股票交易異常波動。經核查，公司前期披露資訊無需更正補充，近期經營正常，內外部環境無重大變化，公司及控股股東、實控人均無應披露而未披露的重大事項，異常波動期間控股股東及實控人未買賣公司股票。截至公告披露日，公司股票暫未滿足撤銷其他風險警示條件。
-
----
-
-### 2026-07-02 17:56:48  #公司 #市場
-
-【科源製藥：股票連續三日漲幅偏離值超30% 提示交易風險】科源製藥公告稱，公司股票連續3個交易日（2026年6月30日、7月1日、7月2日）收盤價格漲幅偏離值累計超過30%，屬於異常波動。經核實，公司未發現前期資訊需更正補充，經營正常，不存在應披露未披露重大事項，異常波動期間相關人員無買賣公司股票情形。2026年7月2日公司市盈率（TTM）為267.03倍，較高，提醒投資者審慎決策、理性投資。公司擬於8月27日披露半年度報告。
-
----
-
-### 2026-07-02 17:56:44  #公司 #市場
-
-【牧原股份：80億元債務融資工具獲准註冊】牧原股份公告，公司於近日收到中國銀行間市場交易商協會下發的《接受註冊通知書》，同意接受公司債務融資工具註冊。本次債務融資工具註冊金額為80億元，註冊額度自通知書落款之日起2年內有效，由中信銀行、招商銀行、興業銀行、交通銀行和中國民生銀行聯席主承銷。在註冊有效期內，公司可分期發行超短期融資券、短期融資券、中期票據、永續票據。公司此前於2026年3月27日及5月13日分別召開董事會及股東會審議透過了相關授權議案。
-
----
-
-### 2026-07-02 17:56:42  #公司
-
-【順豐控股：6月H股法定股本增加2.26億元 A股回購1.57億股】順豐控股公告稱，截至2026年6月30日，H股法定股本由2.40億元增至4.66億元，增加2.26億元；已發行股份增加2.25億股至4.65億股，庫存股份增加128.48萬股至128.48萬股。A股法定股本無變動，仍為47.99億元；已發行股份無變動，仍為47.99億股，本月回購1.57億股用於登出。
-
----
-
-### 2026-07-02 17:56:13  #其他
-
-【全球首份大語言模型安全防範能力測評報告發布】7月2日，在2026全球數字經濟大會雲智算安全論壇上，《全球大語言模型安全防範能力測評報告（2026）》正式釋出，據介紹，該報告是全球首份大語言模型科技安全專項測評報告，以313條科技類高風險問題為測試集，報告顯示，多數模型具備基礎拒答能力，直接攻擊總體成功率為7.6%，但在字首注入、場景偽裝、情感偽裝，以及偽裝與示例誘導結合的複合攻擊下，部分模型的安全邊界明顯承壓。（科創板日報）
-
----
-
-### 2026-07-02 17:55:54  #其他
-
-【遼寧：加快海洋與低空產業融合發展】遼寧省人民政府近日印發《遼寧省“十五五”海洋經濟發展規劃》。其中提出，加快海洋與低空產業融合發展。最佳化佈局低空起降點、無人機機庫、水上起降場等基礎設施，構建陸島銜接、海域覆蓋、安全高效的低空飛行服務與保障網路。拓展海島生鮮冷鏈物流、海洋牧場智慧巡檢、海上風電運維、島際低空文旅、海上應急救援、海洋生態與漁政執法等特色應用場景，打造長海縣等海洋低空經濟特色節點。發展適海型無人機、海上低空作業裝備，完善低空智慧監管與氣象服務體系，培育形成“海洋+低空經濟”新增長點。
-
----
-
-### 2026-07-02 17:55:53  #公司 #市場
-
-【愛仕達：2025年公司的工業機器人板塊營業收入為3.09億元，整體佔比較小】愛仕達釋出異動公告，公司股票於2026年6月30日、2026年7月1日、2026年7月2日連續3個交易日收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的有關規定，屬於股票交易異常波動的情況。公司當前的主營業務為炊具、家居、小家電及工業機器人。其中，2025年，公司的工業機器人板塊營業收入為3.09億元，整體佔比較小，且尚處於虧損狀態。
-
----
-
-### 2026-07-02 17:55:35  #國際
-
-波里貝利簽署非約束性諒解備忘錄，擬在泰國評估建設一座100兆瓦人工智慧算力中心專案的可行性。
-
----
-
-### 2026-07-02 17:55:25  #MKT News #01772.HK #Impact bullish
-
-HKEX filing shows BlackRock's long position in Ganfeng Lithium (01772.HK) H‑shares rose to 8.78% from 7.59% on June 25.
 
 ---

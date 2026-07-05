@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-06 01:43:39_
-_本檔包含 2414 則快訊，約 507608 字_
+_更新時間：2026-07-06 02:45:20_
+_本檔包含 2422 則快訊，約 507450 字_
+
+---
+
+### 2026-07-06 02:43:55  #MKT News
+
+【About 20 jewels stolen from French museum; losses could reach several million euros】On July 5 local time the Lalique Museum in Bas-Rhin, eastern France, was robbed; about 20 jewellery pieces were taken and preliminary losses are estimated at several million euros. Investigators said the theft occurred around 0600. The museum alarm was triggered and a cleaner who arrived first called police. Officers found at least six display cases smashed and suspects had fled. Police are reviewing CCTV footage. The museum has been closed temporarily. The Lalique Museum, opened in 2011, houses glass art and jewellery by René Lalique.
+
+---
+
+### 2026-07-06 02:43:35  #其他 #焦點
+
+【法國一博物館約20件珠寶被盜 損失或達數百萬歐元】當地時間7月5日，法國東部下萊茵省萊儷博物館遭遇盜竊，約20件館藏珠寶被盜，初步估計損失達數百萬歐元。調查人員表示，案件發生於當天6時左右。博物館警報系統曾被觸發，一名最先抵達現場的保潔人員隨後報警。警方到場後發現至少6個展櫃被砸毀，嫌疑人已逃離現場。目前，警方正調取監控錄影展開調查。博物館已宣佈臨時閉館。萊儷博物館於2011年開放，收藏法國著名玻璃藝術家、珠寶設計師勒內·萊儷創作的玻璃藝術及珠寶作品。
+
+---
+
+### 2026-07-06 02:35:47  #MKT News #WTI #Impact bullish #XAUUSD
+
+Iranian parliament speaker Ghalibaf said he is first a warrior and only then a diplomat, and that Tehran must conduct negotiations while maintaining "combat readiness".
+
+---
+
+### 2026-07-06 02:35:11  #MKT News
+
+Ghalibaf said hostile forces now recognize that Iran's participation is indispensable for achieving peace and stability in Lebanon and the broader Middle East.
+
+---
+
+### 2026-07-06 02:35:01  #MKT News #Market Themes #Chip Wars #XAUUSD #Impact bullish #Nasdaq100 #S&P500
+
+【ETF margin balances continue to rise; leveraged funds balance offense and defense】ETF margin financing accelerated in June as A-share turnover picked up. Wind data show ETF margin balances on the Shanghai and Shenzhen markets reached 116.09 bln yuan as of June 30, up 5.26 bln yuan from end‑May. Semiconductor and telecom thematic ETFs were the main recipients of new leverage, while gold ETF financing remains the largest single exposure, suggesting leveraged investors are adding growth bets while keeping hedge positions.
+
+---
+
+### 2026-07-06 02:33:58  #市場
+
+【ETF兩融餘額持續增長 槓桿資金“攻防兼備”】6月以來，A股成交活躍度持續提升，融資資金加速借道ETF參與市場。Wind資料顯示，截至6月30日，滬深兩市ETF兩融餘額達到1160.88億元，較5月末增加52.58億元。其中，半導體、通訊等主題ETF成為融資資金加倉重點。不過，黃金ETF融資餘額仍居首位，表明槓桿資金在積極佈局成長機會的同時，仍保留一定的避險倉位。
+
+---
+
+### 2026-07-06 02:33:42  #國際
+
+伊朗議會議長卡利巴夫：敵人已然認清，想要實現黎巴嫩乃至整個中東地區的和平，離不開伊朗的參與。
+
+---
+
+### 2026-07-06 02:33:22  #國際
+
+伊朗議會議長卡利巴夫在會見黎巴嫩真主黨高層官員時表示：自己首先是一名戰士，其次才是外交官，德黑蘭必須在保持“戰備狀態”的前提下開展談判。
+
+---
+
+### 2026-07-06 02:30:00  #國際
+
+【特朗普敦促共和黨推進選民身份核驗、廢除冗長議事規則】美國總統特朗普發文稱：“美國人幾乎無所不能，卻偏偏辦不到這幾件事：落實選民身份核驗、出具公民身份證明；而其中最關鍵的一件事，就是廢除冗長髮言阻撓議事規則（冗長辯論制）。”他表示：“一旦民主黨掌權，他們會立刻廢掉這項規則，還會新增2個州、多出 4 名參議員、8名眾議員，至少新增20張選舉人票。到那時，共和黨人將再也沒有機會當選美國總統。我可不想成為最後一位共和黨總統！共和黨人清醒一點！再不行動，你們的執政席位很快就保不住了！”
+
+---
+
+### 2026-07-06 02:26:55  #國際
+
+美國聯邦航空管理局：週日發生硬著陸事故的水上飛機機上共載有8人。
+
+---
+
+### 2026-07-06 02:19:16  #MKT News
+
+【Mumbai building collapse kills at least six】A building collapsed in Mumbai, India, on the 5th (local time), killing at least six people.
+
+---
+
+### 2026-07-06 02:19:10  #國際
+
+【印度孟買一建築物倒塌 致至少6人死亡】總檯記者獲悉，當地時間5日，印度孟買一建築物倒塌，已造成至少6人死亡。（央視新聞）
+
+---
+
+### 2026-07-06 02:16:04  #國際
+
+美國聯邦航空管理局：水上飛機硬著陸時機翼支柱斷裂。
+
+---
+
+### 2026-07-06 02:14:28  #國際
+
+美國聯邦航空管理局將調查紐約東河水上飛機硬著陸事故。
+
+---
+
+### 2026-07-06 01:56:13  #MKT News
+
+Russia's Defense Ministry said its air defenses intercepted and destroyed 116 Ukrainian drones that flew over multiple Russian regions within a single day.
+
+---
+
+### 2026-07-06 01:52:55  #其他
+
+市場資訊：隨著英國唐寧街10號權力交接談判升級，安迪·伯納姆因內閣席位空缺問題遭到警示。
+
+---
+
+### 2026-07-06 01:47:08  #MKT News
+
+Sources say Trump called Putin and Zelensky seeking to restart stalled peace talks and offered to help mediate a Russia-Ukraine settlement ahead of the NATO summit in Turkey.
 
 ---
 
@@ -14543,59 +14645,5 @@ Italy Private Sector Activity Rises to 4-Month High — The S&P Global Italy Com
 ### 2026-07-03 15:56:24  #市場
 
 【廣期所碳酸鋰期貨及期權今日正式引入境外交易者】7月3日，廣州期貨交易所碳酸鋰期貨及期權正式開展特定品種業務，境外交易者能夠更直接的參與碳酸鋰期貨及期權交易。境外交易者可以使用外匯資金作為保證金。以外匯資金作為保證金的，以中國外匯交易中心公佈的當日人民幣匯率中間價作為其市值核定的基準價，目前廣期所規定可用於作為保證金的外匯幣種為美元，折扣率為0.95。當日閉市前外匯資金的市值先按照前一交易日中國外匯交易中心公佈的當日人民幣匯率中間價核算。每日結算時按上述規定的方法重新確定外匯資金作為保證金使用的基準價並調整折後金額。
-
----
-
-### 2026-07-03 15:56:15  #Trading Economics #Economy #France #Composite PMI #Importance 1
-
-France Private Sector Downturn Softens — The S&P Global France Composite PMI rose to 47.2 in June 2026 from 44.9 in May, signaling the weakest contraction in private sector activity in three months, although it remained below the 50.0 threshold for a sixth consecutive month. Business activity continued to decline across both the manufacturing and services sectors, but the pace of contraction eased from May's 28-month low. New orders also fell for a sixth straight month, though the decline softened to its slowest rate in three months. Meanwhile, employment edged lower only slightly as manufacturing firms resumed hiring, helping to offset continued job cuts elsewhere. On the price front, cost pressures eased further but remained historically elevated, suggesting that inflationary pressures continued to weigh on businesses even as they moderated from recent peaks. Looking ahead, business confidence rebounded from a one-and-a-half-year low, reflecting improved expectations for future activity despite the ongoing downturn.
-
----
-
-### 2026-07-03 15:56:11  #公司
-
-【泰和科技：公司正在集中精力做光刻膠樹脂和高純溶劑等電子化學品】泰和科技7月3日在互動平臺表示，公司現在正在集中精力做磷酸焦磷酸鐵鈉NFPP鈉電正極材料、光刻膠樹脂和高純溶劑等電子化學品，待以上產品生產穩定以後，集中精力做碳酸亞乙烯酯VC、氟代碳酸乙烯酯FEC等電解液新增劑專案。新專案的試生產結果、產品市場開拓和產品市場行情存在一定的不確定性，請注意投資風險。
-
----
-
-### 2026-07-03 15:55:09  #公司
-
-【捷昌驅動：首次回購0.0244%公司股份，已支付的總金額為人民幣227.59萬元】捷昌驅動公告，公司於2026年7月3日透過集中競價交易方式首次回購股份94100股，佔公司總股本的0.0244%。此次回購的最高價為25.54元/股，最低價為23.96元/股，已支付的總金額為227.59萬元（不含交易費用）。此次回購符合相關法律法規及公司回購股份方案。
-
----
-
-### 2026-07-03 15:55:08  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-Germany June final composite PMI 49.5; consensus 48, prior 48.
-
----
-
-### 2026-07-03 15:55:07  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX #DXY #Impact bearish
-
-Germany June final services PMI 48.6, vs 46.8 expected and 46.8 prior.
-
----
-
-### 2026-07-03 15:55:00  #MKT News #Economic Calendar #Important
-
-Germany | Services PMI Final (Jun) | actual 48.6 | consensus 46.8 | previous 46.8
-
----
-
-### 2026-07-03 15:55:00  #MKT News #Economic Calendar #Important
-
-Germany | Composite PMI Final (Jun) | actual 49.5 | consensus 48 | previous 48
-
----
-
-### 2026-07-03 15:54:57  #Trading Economics #Economy #South Africa #Composite PMI #Importance 1
-
-South Africa Private Sector Returns to Growth — The S&P Global South Africa PMI rose to 50.5 in June 2026 from 49.6 in May, returning the private sector to marginal growth. Despite the improvement, output and new orders contracted for a second consecutive month, reflecting subdued domestic demand as firms continued to cite constrained client spending, economic uncertainty, and elevated price pressures, although the services sector remained the only category to record growth in new business. Business confidence also deteriorated, falling to its lowest level since July 2021 amid domestic political uncertainty and concerns over the Middle East conflict. Meanwhile, input cost inflation eased sharply from May's 46-month high, while output price inflation also moderated but remained elevated due to higher fuel and shipping costs. Employment continued to expand as firms hired both permanent and temporary staff to increase capacity, while supplier delivery times lengthened further as disruptions to imported shipments persisted.
-
----
-
-### 2026-07-03 15:54:16  #公司
-
-【東風股份：2026年6月汽車及發動機產銷資料公佈】東風股份公告稱，2026年6月，公司汽車合計產量12,515輛，同比增長84.84%，本年累計產量68,905輛，同比增長9.00%；銷量11,016輛，同比增長22.13%，本年累計銷量69,185輛，同比增長0.44%。其中，新能源汽車產量5,163輛，同比增長424.16%，本年累計產量18,969輛，同比增長67.72%；銷量3,709輛，同比增長357.34%，本年累計銷量18,602輛，同比增長100.30%。東風康明斯發動機產量24,213臺，同比增長29.05%，本年累計產量135,234臺，同比增長23.75%；銷量23,330臺，同比增長19.39%，本年累計銷量133,953臺，同比增長18.39%。
 
 ---
