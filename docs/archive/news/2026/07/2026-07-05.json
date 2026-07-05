@@ -1,7 +1,23 @@
 {
   "date": "2026-07-05",
-  "count": 482,
+  "count": 484,
   "items": [
+    {
+      "id": "mkt:019f31f1-b4e9-7aab-8ca2-8cc34e01aca5",
+      "time": "2026-07-05 19:02:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthis attack government troops in Hodeidah province, kill 14】Yemeni military and medical sources said on April 5 local time that a Houthi attack in Hodeidah province on the Red Sea coast on April 4 killed at least 14 government soldiers and wounded several others."
+    },
+    {
+      "id": "4970964",
+      "time": "2026-07-05 19:01:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【山火致切爾諾貝利核禁區出現火龍捲】近日，烏克蘭國家緊急情況局公佈的一段影片顯示，受持續山火影響，在切爾諾貝利的核禁區內，山火和強風相互作用形成“火龍捲”。據報道，烏克蘭消防人員自6月底就開始在切爾諾貝利核電站周邊進行滅火作業，但由於周邊水源匱乏，滅火作業難度大幅增加，目前火情尚未得到完全控制。烏克蘭國家緊急情況局稱，目前輻射值處於正常水平。“火龍捲”是一種在極端高溫和大風情況下由火焰和煙霧共同形成的氣旋，形似高速旋轉的火焰。（CCTV國際時訊）"
+    },
     {
       "id": "4970963",
       "time": "2026-07-05 18:58:05",
