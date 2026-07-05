@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-06 04:17:29_
-_本檔包含 2421 則快訊，約 508028 字_
+_更新時間：2026-07-06 05:35:50_
+_本檔包含 2425 則快訊，約 507748 字_
+
+---
+
+### 2026-07-06 05:35:02  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+【Kuo: Foldable iPhone assembly ~7–8 mln in H2 2026; Q3 ~0.5–1.0 mln; likely simultaneous launch but later sales; supply tightness into year‑end】TF International Securities analyst Ming‑Chi Kuo says his supply‑chain survey shows foldable iPhone assembly shipments of about 7–8 million in H2 2026, with Q3 shipments of 0.5–1.0 million (around 10% of H2). By contrast, iPhone 18 Pro/Pro Max are estimated at about 20–22 million in Q3 and are already stocked for a September retail launch. Kuo says, based on Q3 stocking, the foldable model is likely to mirror the 2017 iPhone X pattern — announced with other models but opening pre‑orders and official sales later — and expects supply tightness to persist through year‑end.
+
+---
+
+### 2026-07-06 05:34:57  #其他
+
+【郭明錤稱蘋果摺疊手機或與其他機型同場釋出、較晚開賣，供應緊張延續至年底】天風國際證券分析師郭明錤發文，據其最新產業調查，摺疊 iPhone 在 2H26（2026 年下半年）的組裝出貨量約 700‒800 萬部，其中 3Q26（2026 年第三季度）出貨量為 50‒100 萬部（佔比約 10%）。相較之下，iPhone 18 Pro / Pro Max 在 3Q26 的預估總出貨量約 2000‒2200 萬部，顯著高於摺疊 iPhone 並已達 9 月正式發售的備貨要求。郭明錤表示，從 3Q26 備貨量的角度，摺疊 iPhone 很有可能會重演 2017 年 iPhone X 當時的狀況：與其他機種一起釋出，但開放預購與正式發售的時間均更晚。
+
+---
+
+### 2026-07-06 05:32:57  #MKT News #Market Themes #AI Revolution
+
+【UK regulator says AI in finance is an "arms race", urges broader powers and LLM oversight】FCA executive director Sheldon Mills said regulators are in an "arms race" to keep pace with AI adoption in financial services and need broader powers, the FT reported. He urged UK regulators to assess whether large language models such as ChatGPT, Claude and Gemini should be brought within regulatory rules. Mills said regulators must themselves adopt AI to match the technology’s "speed, tempo and scale" and to "monitor, detect and respond to risks." A report by Mills warned that heavy personalization can improve product fit but may also produce algorithmic bias, opaque pricing and targeted manipulation. It recommends the FCA conduct a review within three to six months of risks from firms providing financial services outside the regulatory perimeter and potential consumer harm from rising use of AI in personal finance.
+
+---
+
+### 2026-07-06 05:28:35  #其他
+
+肯亞航空：7月5日，從內羅畢飛往紐約的KQ 002D航班在飛經查德上空時發生飛行控制擾流板故障。
+
+---
+
+### 2026-07-06 05:24:22  #其他
+
+英國金融行為監管局（FCA）稱，全球各國監管機構需協同合作，共同應對人工智慧帶來的各類風險。
+
+---
+
+### 2026-07-06 05:20:46  #其他
+
+英國金融行為監管局（FCA）表示，自身需要更大監管許可權，才能有效管控人工智慧相關風險。
+
+---
+
+### 2026-07-06 05:20:10  #行業
+
+【三季度公募基金調查顯示：科技成長仍是“心頭好” 極致分化後打法生變】今年上半年，A股走出了一波極致分化的行情，大量資金湧向科技賽道。如今，公募基金的偏好已有所變化。調查顯示，高景氣、科技成長賽道仍是三季度公募基金最為看好的方向，獲票數超過七成，遠超其他板塊。排名第二的為低估值藍籌、高股息類價值資產，關注度較上次調查顯著提升，佔比近三成。科技賽道內部的“打法”亟待變化。光大保德信基金有關人士對記者直言：從戰略上看，產業趨勢不結束、增量資金不逆轉、流動性條件不改變，就不能輕言主線結束；但從戰術上，短期快速累積的漲幅會帶來技術面調整，季度末也提供了配置再平衡的契機；與此同時，在趨勢不改的前提下，市場回撥或仍蘊含細分投資機會。（上證報）
+
+---
+
+### 2026-07-06 05:19:01  #公司
+
+【上週逾百億資金迴流股票ETF 硬科技板塊熱度居高不下】在A股近期的震盪調整行情中，資金借道ETF逆勢佈局。上週股票型ETF獲得資金淨流入超過110億元。從資金流向看，資金大舉加倉以半導體為代表的硬科技板塊，同時部分資金減持了消費電子等賽道。在業內人士看來，近期科技板塊成交熱度持續攀升，交易擁擠度較高，資金正在從“泛科技”向“AI業績兌現”集中。（上證報）
+
+---
+
+### 2026-07-06 05:18:33  #其他
+
+【上半年基金新開戶數超過180萬 為6年來同期新高】公募基金正在成為資金入市的重要渠道，越來越多的投資者選擇透過場內公募基金把握投資機會。上交所官網資料顯示，2026年6月全市場基金新開戶數為23.36萬戶，而2025年6月開戶數為20.04萬戶。2026年上半年基金新開戶數合計達183.15萬戶，為6年來新高，較2025年上半年的150.45萬戶，同比增長21.73%。（上證報）
+
+---
+
+### 2026-07-06 05:15:57  #MKT News #Market Regions #Greater China
+
+【Finland's Stubb meets China's foreign minister Wang Yi in Turku】On July 5 local time in Turku, Finland's president Stubb met Politburo member and China's foreign minister Wang Yi.
+
+---
+
+### 2026-07-06 05:15:53  #宏觀 #國際
+
+【芬蘭總統斯圖佈會見王毅】當地時間7月5日，芬蘭總統斯圖布在圖爾庫會見中共中央政治局委員、外交部長王毅。（新華社）
+
+---
+
+### 2026-07-06 05:10:23  #國際
+
+【特朗普據悉計劃在土耳其會見澤連斯基後與普京通話】一名美國高階官員表示，美國總統特朗普計劃於7月8日在北約峰會期間與烏克蘭總統澤連斯基會晤，討論烏克蘭衝突的解決方案，並將在會後與俄羅斯總統普京通話。特朗普迫切希望推動這場衝突儘快結束。
+
+---
+
+### 2026-07-06 05:08:45  #MKT News
+
+【Trump plans to meet Zelenskiy in Turkey, likely to call Putin afterward】Refinitiv, citing a US senior official, said President Trump plans to meet Ukrainian President Zelenskiy on July 8 at the NATO summit in Turkey to discuss ending the war and is likely to call Russian President Putin after the meeting; the official said Trump is eager to press for a quick resolution. Russian presidential aide Ushakov said earlier that Putin told Trump Russia is prepared to pursue a diplomatic settlement based on a Russian proposal, and that the two discussed the resolution process and Trump’s upcoming trip to the summit.
+
+---
+
+### 2026-07-06 05:02:45  #市場 #焦點
+
+24小時交易時段開啟，韓元小幅上漲0.2%。
+
+---
+
+### 2026-07-06 05:00:29  #其他
+
+【委內瑞拉地震3342人遇難16740人傷】當地時間7月5日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報稱，委內瑞拉地震遇難人數升至3342人，受傷16740人。
+
+---
+
+### 2026-07-06 05:00:01  #市場
+
+紐約期銀日內漲2%，現報62.87美元/盎司。
+
+---
+
+### 2026-07-06 04:53:39  #國際
+
+美國紐約州州長霍楚爾：部分地區小時降雨量最高可達3英寸（76.2毫米）。
+
+---
+
+### 2026-07-06 04:51:49  #市場 #觀點
+
+【電子布價格連漲 產業鏈上游高階織機緊缺】如果說PCB（印製電路板）是AI晶片等電子元件的“神經系統”，那麼電子布就是為PCB提供強度的“骨架”。東吳證券研究所研報稱，銅箔、電子布和樹脂三種材料共同構成PCB的物理基礎。其中，電子布由極細的玻璃纖維編織而成，主要為電路板提供機械強度和剛性，防止PCB出現彎曲與形變。近期，隨著下游AI需求爆發，國內電子紗市場主流產品G75及7628型號電子布的價格再次上行，漲幅明顯。卓創資訊資料顯示，月初電子紗平均漲幅為2500元/噸，電子布價格上漲1.2元/米左右，細紗、超細紗價格亦有明顯提漲。現階段供需錯配格局暫難緩解，電子布貨源緊俏仍將持續。
+
+---
+
+### 2026-07-06 04:51:35  #國際
+
+美國紐約州州長霍楚爾下令州屬各機構做好強降雨應對準備。
+
+---
+
+### 2026-07-06 04:47:41  #國際
+
+加拿大總理加拿大總理卡尼將於週一公佈潛艇建造合同中標方，中標方將承建12艘新型潛艇，預計在德國、韓國兩家競標方中二選一。
+
+---
+
+### 2026-07-06 04:44:00  #其他
+
+【人形機器人產業迎來催化 資金借道ETF入場】7月2日，證監會正式同意宇樹科技首次公開發行股票並在科創板上市的註冊申請，人形機器人產業再迎重要催化。受訊息提振，市場資金持續借道ETF佈局機器人賽道。最近一週，十餘隻機器人ETF全部實現資金淨流入，相關產品整體取得正收益，機器人主題投資熱度開始升溫。 展望後市，多家機構認為，未來機器人行業催化有望持續釋放，人形機器人商業化程序不斷推進，板塊有望迎來估值修復與產業成長共振，中長期配置價值值得關注。（央視新聞）
+
+---
+
+### 2026-07-06 04:38:59  #其他
+
+【德國上調2027年舉債規模至1180億歐元】德國計劃將2027年新增淨髮債規模提升至1180億歐元，理由是稅收收入下滑、債務付息成本走高，同時勞動力市場配套資金需求增加。德國政府稱將透過嚴控開支、削減補貼、上調菸酒及塑膠製品相關稅費來緩解財政壓力；國防與基建支出不受舉債上限約束。
+
+---
+
+### 2026-07-06 04:31:44  #國際
+
+美國副總統萬斯：在英國經歷多年“失敗的領導層治理”後，希望安迪·伯納姆能夠扭轉英國當下的局面。英國政壇已經出現嚴重問題，民眾迫切期待大刀闊斧的結構性改革。
+
+---
+
+### 2026-07-06 04:26:28  #其他
+
+【科技行情“縮圈”與切換並行 基金靜候半年報檢驗成色】7月份伊始，A股科技板塊正經歷一場劇烈的結構性切換，前期領漲的熱門AI賽道在基金“中考”後遭遇顯著回撥，而沉寂多時的機器人板塊則借多重利好逆勢爆發，帶動相關主題基金淨值大幅反彈。 除了行情切換以外，近期科技投資也已告別“凡AI必漲”的普漲時代，並呈現出明顯的“縮圈”特徵與資金的高低位博弈現象。多家公募指出，隨著半年報披露視窗開啟，市場定價邏輯正加速從前期的主題催化轉向真實的訂單與盈利兌現能力，業績成色已成為甄別科技“真假龍頭”的唯一試金石。（央視新聞）
+
+---
+
+### 2026-07-06 04:25:48  #公司
+
+【9只ETF上市在即 個人投資者包攬近八成份額】個人投資者在ETF中的“戲碼”仍在持續增加。 根據證券時報記者統計，本週（7月6日至7月10日）上市的9只ETF，個人投資者持有份額比例接近八成，在個別產品上的持有比例甚至達到了98%。這樣的情況並非偶然，從記者統計的今年6月和今年上半年資料看，這種情況作為一種趨勢在持續加強。資料還顯示，個人投資者偏好熱門主題ETF，但操作也較為頻繁。 基金業內人士認為，個人投資者在ETF中的參與度仍會持續提升，但只有對ETF認知不斷提高，才能帶來更好的持有體驗，這將對基金公司投教提出更高要求。（證券時報）
+
+---
+
+### 2026-07-06 04:22:01  #MKT News #Important
+
+【NYT: Trump phoned FIFA over U.S. forward’s red-card suspension; ban deferred】The New York Times, citing three people familiar with the matter, reports President Trump called FIFA president Gianni Infantino on July 1 asking a review of the red-card suspension of U.S. leading scorer Balogun after he was sent off for stamping in the U.S. 2-0 win over Bosnia in the round of 32. On July 5 FIFA said its disciplinary committee found Balogun in breach of Articles 14 and 66 and imposed a one-match ban but invoked Article 27 to suspend that ban for one year, making him eligible for Monday’s match against Belgium — the first time since 1962 FIFA has allowed a player originally due to be suspended to play. Trump welcomed the decision on social media but did not disclose the call or claim credit.
+
+---
+
+### 2026-07-06 04:18:23  #央行 #公司 #焦點
+
+【央行今日開展1萬億元買斷式逆回購操作】中國人民銀行近日釋出公告稱，將在7月6日以固定數量、利率招標、多重價位中標方式開展1萬億元買斷式逆回購操作，期限為3個月（91天）。鑑於該期限品種當月有8000億元到期量，此次3個月期買斷式逆回購操作將實現加量續作，結束了該期限品種連續3個月的縮量程序。（證券時報）
+
+---
+
+### 2026-07-06 04:17:48  #公司
+
+【公募調研緊盯業績兌現 醫藥板塊關注程度提升】近期，公募基金圍繞景氣度較高、產業邏輯清晰的領域展開深度調研。從行業分佈來看，電子板塊仍穩居調研熱度榜首位，醫藥生物板塊關注度則明顯提升，創新藥、CXO等細分方向獲得機構重點關注。業內人士認為，隨著上市公司半年報的披露，公募機構調研思路聚焦於產業趨勢明確、業績兌現能力較強的細分賽道。
 
 ---
 
@@ -14495,149 +14663,5 @@ Metals Commodities Updates: Silver Gains by 3.08% — Top commodity gainers are 
 ### 2026-07-03 16:04:41  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Sets Fresh Record — The DAX 40 rose 0.6% on Friday, breaking above the 25,700 mark to set another record high and extend gains for a fourth straight session. Market sentiment remained positive, supported by fading expectations of further monetary tightening, optimism about the German reform package and hopes that the conflict in the Middle East could be resolved. Utilities, techs, autos, banks and industrials were the top performing sectors. Among the biggest gainers were E.ON (+2.6%) and RWE (+1.6%). Siemens advanced 1.8% after Kepler Cheuvreux upgraded the stock to "Hold" from "Reduce," while GEA rose 1.6% after RBC upgraded the stock to "Outperform" from "Sector Perform." On the downside, Rheinmetall fell 1.5%, as the defense group assessed the impact of the German government's decision to cancel the F126 frigate project. The company warned that the revenue hit could reach up to €300 million this year unless mitigating measures are implemented. The index was set to book a weekly gain of over 4%.
-
----
-
-### 2026-07-03 16:03:49  #公司
-
-【啟迪設計：完成轉讓全資子公司100%股權交易】啟迪設計公告稱，公司此前審議透過轉讓全資子公司深圳嘉力達節能科技有限公司100%股權的議案，以1元價格轉讓給軒世奇（北京）機電工程有限公司。近日，公司收到轉讓價款，嘉力達已完成工商變更登記，本次股權轉讓交易完成，公司不再持有嘉力達股權，其不再納入合併報表範圍。本次轉讓對淨利潤具體影響以審計結果為準。
-
----
-
-### 2026-07-03 16:03:46  #公司
-
-【煌上煌：擬出資510萬元設立控股子公司】煌上煌公告稱，公司第六屆董事會第二十次會議審議透過對外投資設立控股子公司的議案。公司將與杭州音聲控股有限公司在杭州設合資科技公司，註冊資金1000萬元。公司以自有資金現金出資510萬元，佔比51%；杭州音聲控股以現金出資490萬元，佔比49%。投資完成後，合資公司將成公司控股子公司並納入合併報表範圍。
-
----
-
-### 2026-07-03 16:03:39  #公司
-
-【科華生物：補體C1q測定試劑盒獲醫療器械註冊證】科華生物公告稱，近日收到上海市藥品監督管理局頒發的補體C1q測定試劑盒（膠乳免疫比濁法）醫療器械註冊證，註冊證編號為滬械注準20262400242，有效期從2026年6月30日至2031年6月29日，供醫療機構體外定量測定人體血清、血漿中補體C1q的含量。該註冊證豐富了公司產品線，對業務發展有正面影響，但暫無法預測對未來營收的影響。
-
----
-
-### 2026-07-03 16:03:35  #公司
-
-【爾康製藥：獲得氫氧化鈉原料藥上市申請批准通知書】爾康製藥公告稱，公司近日收到國家藥監局簽發的氫氧化鈉原料藥《化學原料藥上市申請批准通知書》，有效期24個月，包裝規格4kg，通知書有效期至2031年5月11日。截至公告披露日，國內氫氧化鈉原料藥項下有效登記號僅1個，登記企業是公司。該批准豐富公司原料藥品種，提升市場競爭力，但因行業政策等因素，產品未來銷售及業績影響存在不確定性。
-
----
-
-### 2026-07-03 16:03:26  #宏觀 #國際
-
-巴基斯坦財政部長表示，可能很快訪問美國，討論關稅問題。
-
----
-
-### 2026-07-03 16:03:23  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IAEA: inspectors not granted access to Iranian nuclear sites; enriched uranium remains onsite】IAEA Director General Grossi said on the 3rd in an interview with Russia Today that IAEA inspectors have not been permitted to enter Iranian nuclear facilities and that Iran’s enriched uranium remains at its sites. The IAEA has requested to resume on‑site verification but has not received Iranian permission; Grossi said the agency’s “overall impression” is that existing nuclear material remains in those facilities and that the IAEA has identified their locations and inventories. Satellite imagery and other remote monitoring show severe damage to some facilities and disruption of access roads.
-
----
-
-### 2026-07-03 16:03:06  #Trading Economics #Economy #Germany #Composite PMI #Importance 1
-
-Germany's Private Sector Activity Nearly Stalls — The S&P Global Germany Composite PMI was revised higher to 49.5 in June 2026 from the preliminary estimate of 48, pointing to near-stagnation in private sector activity following two consecutive months of contraction. There was a drop in new business and output, reflecting weakness in the service sector while manufacturing posted a rise in production. Meanwhile, employment fell across the board, as did rates of both input cost and output price inflation. Employment meanwhile fell across the board, as did rates of both input cost and output price inflation. Future expectations ticked down, again owing to the services sector.
-
----
-
-### 2026-07-03 16:03:03  #MKT News #000660.KS #Impact bearish #DXY #Impact bullish #WTI
-
-【Hong Kong 2x SK Hynix ETF's $13bln AUM amplifies KOSPI volatility】A Hong Kong-listed 2x daily SK Hynix leveraged ETF has grown to about $13.0 bln AUM in nine months, now the largest single-stock leveraged ETF globally. Its size is roughly twice SK Hynix’s average daily turnover this year and exceeds the combined AUM of leveraged ETFs tracking Micron, NVIDIA, SanDisk and Tesla. On volatile days the ETF and smaller peers can account for roughly 66% of SK Hynix trading volume. SK Hynix and Samsung together represent 57% of the KOSPI weight, with SK Hynix alone at 28%, so swings in this single ETF can move the benchmark. The ETF fell about 25% on Thursday, triggering forced selling and accelerating market-wide volatility.
-
----
-
-### 2026-07-03 16:02:45  #央行 #國際
-
-【拉加德不排除提前離開歐洲央行以投身法國政壇的可能性】歐洲央行行長克里斯蒂娜·拉加德表示，她不排除提前離開目前的職位，投身法國政壇的可能性。“有這個可能，”她在接受《回聲報》採訪被問及如果不確定性消退，這是否也是一種選擇時說道，“我認為，在法國總統候選人辯論中，需要聽到歐洲的聲音。”在採訪中拉加德重申了她之前的評論：“鑑於我們再次處於動盪時期，我認為歐洲央行這艘船的船長應該留在船上。”拉加德一再被與國家政治聯絡在一起，儘管她之前曾將法國總統職位描述為“可怕的工作”。她的行長任期將於2027年10月結束。她告訴回聲報，未來幾個月她“當然有可能”與一些法國候選人進行坦誠的討論。
-
----
-
-### 2026-07-03 16:02:31  #公司
-
-【五洲特紙：控股股東及其一致行動人權益變動觸及1%刻度】五洲特紙公告稱，公司控股股東、實際控制人及其一致行動人權益變動觸及1%刻度。2025年11月19日至2026年7月2日期間，林萬明、趙磊、嘉興雲藍分別減持50.2318萬股、435.4萬股、110.13萬股，趙卉增持88萬股。本次權益變動後，其合計持股比例由82.00%降至80.93%。本次變動與減持計劃和承諾一致，不觸及要約收購，不會導致控股股東和實控人變化，也不涉及披露權益變動報告書。
-
----
-
-### 2026-07-03 16:02:30  #經濟數據 #歐元區
-
-【歐元區6月服務業經營活動指數報49.4】標普全球7月3日釋出資料顯示，歐元區6月服務業經營活動指數報49.4，歐元區6月綜合產出指數報50。
-
----
-
-### 2026-07-03 16:02:18  #國際
-
-市場訊息：巴基斯坦尋求降低對美國的關稅。
-
----
-
-### 2026-07-03 16:02:11  #公司
-
-【芯聯整合旗下紹興製造公司增資至26.8億 增幅約26654%】天眼查App顯示，近日，芯聯先進積體電路製造（紹興）有限公司發生工商變更，新增紹興柯橋芯合先進整合創業投資基金合夥企業（有限合夥）為股東，同時，註冊資本由1000萬人民幣增至約26.8億人民幣，增幅約26654%。該公司成立於2023年9月，法定代表人為陳志剛，經營範圍包括積體電路製造、積體電路設計、積體電路晶片及產品製造、電力電子元器件製造等，現由芯聯整合（688469）及上述新增股東共同持股。
-
----
-
-### 2026-07-03 16:01:29  #公司
-
-【神通科技：股東必恆投資已減持2.00%】神通科技公告，股東必恆投資因自身資金需求，原計劃2026年4月7日至2026年7月6日減持不超過1437.46萬股。2026年6月25日至2026年7月2日，必恆投資透過大宗交易減持958萬股，減持比例2.00%，減持總金額1.17億元，當前持股4416.6萬股，決定提前終止本次減持計劃。
-
----
-
-### 2026-07-03 16:01:25  #公司
-
-【朝陽科技：完成回購登出92.74萬股限制性股票】朝陽科技公告，完成回購登出92.74萬股限制性股票，佔回購登出前公司總股本的0.6745%。本次回購價格為15.04元/股，並按同期銀行存款利率支付利息。回購登出完成後，公司總股本由1.37億股變更為1.37億股。
-
----
-
-### 2026-07-03 16:01:19  #公司
-
-【常山藥業：證券事務代表白榮國因個人原因辭職】常山藥業公告稱，公司近日收到證券事務代表白榮國的書面辭職報告，其因個人原因申請辭職，報告自送達董事會之日起生效，辭職後不再擔任公司任何職務，相關工作已交接。截至公告披露日，白榮國未持有公司股票，無應履行而未履行的承諾事項。公司董事會將盡快聘任符合任職資格的人員擔任證券事務代表。
-
----
-
-### 2026-07-03 16:01:12  #公司
-
-【華峰化學：籌劃發行股份及支付現金購買資產交易正推進】華峰化學公告稱，公司擬向華峰集團、尤小平、尤金煥、尤小華髮行股份及支付現金購買華峰合成樹脂100%股權，向華峰集團購買華峰熱塑100%股權。2026年6月5日，公司董事會已審議透過相關議案。截至公告日，盡職調查等工作正常進行。本次交易尚需董事會再次審議、股東會批准及監管機構同意，能否獲批及時間均不確定。
-
----
-
-### 2026-07-03 16:01:02  #公司
-
-【凌雲光：代理國外TGV玻璃通孔裝置】凌雲光在互動平臺表示，公司視覺檢測業務覆蓋新型顯示領域，為京東方等顯示面板客戶提供視覺檢測解決方案。同時，公司代理國外TGV玻璃通孔裝置，應用於玻璃基板高速、高精度微米級打孔，滿足先進封裝對高密度互連的需求，此產品當前處於早期市場推廣階段，對公司業績不構成重大影響。
-
----
-
-### 2026-07-03 16:01:01  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-LME inventories: aluminium down 1,500 tonnes; nickel unchanged; lead down 1,300 tonnes; copper down 3,450 tonnes; tin down 70 tonnes; zinc down 275 tonnes.
-
----
-
-### 2026-07-03 16:00:58  #其他
-
-倫敦金屬交易所（LME）：鋁庫存減少1500噸，鎳庫存持平，鉛庫存減少1300噸，銅庫存減少3450噸，錫庫存減少70噸，鋅庫存減少275噸。
-
----
-
-### 2026-07-03 16:00:46  #其他
-
-小牛電動：2026年第二季度總銷量為434,687臺。
-
----
-
-### 2026-07-03 16:00:42  #公司 #國際
-
-【豪森簽約駱駝集團匈牙利工廠電池測試線訂單】豪森智慧訊息，豪森與全球低壓電池龍頭駱駝集團首次簽約合作，將為其匈牙利布達佩斯工廠提供一條低壓鋰電池測試線。本次產線建設是駱駝集團完善歐洲產能佈局的關鍵舉措。
-
----
-
-### 2026-07-03 16:00:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #XAUUSD #Impact mixed
-
-【S&P Global Germany services PMI final 48.6 in June; contraction eases vs flash】S&P Global final Germany services PMI rose to 48.6 in June, up from the flash 46.8, but still below 50 and marking a third consecutive month of contraction. Prices rises and falling market confidence weighed on demand. New business declined for a fourth month and fell faster than in May, with firms citing a weak domestic economy, tighter financing and low domestic confidence; overseas new orders also dropped markedly. Backlogs fell at the fastest pace since August last year, signalling low capacity pressure and dampening near-term hiring prospects. Employment fell for a sixth month in June, but the decline was small and the mildest in the current downcycle. S&P Global said the sector has been under pressure since the outbreak of the Middle East war.
-
----
-
-### 2026-07-03 16:00:30  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Hit Over 4-Month High — The CAC 40 rose 0.3% to 8,507 on Friday, extending gains from the previous session and reaching its highest level since late February, as softer-than-expected data led traders to scale back expectations for further Federal Reserve rate hikes. Recent data revealed US employment growth eased sharply in June, with revisions to the prior two months’ figures also pointing to a weaker labor market, prompting expectations that the Fed will keep rates unchanged this month and potentially through September. Meanwhile, eurozone inflation continues to move closer to price stability after easing in June, alleviating the need for immediate policy measure. Domestically, industrial production dropped 0.1% month-on-month in May 2026, better than market expectations for a 0.4% decline, but reversing a 0.3% gain in April. Notable performers included ArcelorMittal (2.4%), Edenred (2.3%), and Engie (2.1%). Over the week, the index remains on track for a weekly gain.
 
 ---

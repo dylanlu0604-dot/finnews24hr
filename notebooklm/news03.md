@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-06 04:17:29_
-_本檔包含 3033 則快訊，約 507348 字_
+_更新時間：2026-07-06 05:35:50_
+_本檔包含 2995 則快訊，約 507195 字_
+
+---
+
+### 2026-07-02 18:15:51  #公司 #市場
+
+【*ST嶺南：股價連續三日漲幅偏離值超12% 提示多項風險】*ST嶺南公告稱，公司股票於2026年6月30日至7月2日連續三個交易日收盤價格漲幅偏離值累計超過12%，屬異常波動。經核查，公司、控股股東及實控人不存在應披露未披露重大事項，相關人員在異動期間未買賣公司股票。同時提示多項風險，包括公司被實施退市及其他風險警示，擬受行政處罰，原實控人尚有1.49億元佔用資金未歸還，多筆債務逾期等。
+
+---
+
+### 2026-07-02 18:15:43  #公司
+
+【工大高科：回覆募投專案及在建工程相關問詢】工大高科公告稱，公司對上海證券交易所關於2026年年度報告的資訊披露監管問詢函進行回覆。IPO募投專案均已完成，累計投入9698.12萬元，投入進度52%。2025年末在建工程餘額6422.27萬元，同比增長129.65%，主要為產業園專案。募投專案轉固涉及裝置和在建工程，會計處理合規。因下游行業調整及產能爬坡，專案未達預期效益，產能正逐步釋放。剩餘募集資金已轉至自有賬戶，將進行現金管理併合理規劃使用。產業園專案預計成綜合性產業基地，市場前景良好，對營收和利潤的貢獻存在不確定性。
+
+---
+
+### 2026-07-02 18:15:17  #MKT News #Commodities #Energy
+
+【National Energy Administration to ramp up deep coalbed methane exploration and development】On July 1 in Beijing the National Energy Administration held a meeting on deep coalbed methane exploration and development, directing that safeguarding national energy security is the core task and instructing an acceleration of deep CBM (coal-mine gas) exploration and development to shore up energy supply. The NEA has issued for implementation a 15th Five-Year coalbed methane (coal-mine gas) development and utilization plan and an action plan to boost reserves and output in key regions, assigning tasks to specific companies and CBM blocks, calling for stepped-up exploration and development investment and faster construction of priority projects.
+
+---
+
+### 2026-07-02 18:14:30  #公司
+
+【盛美上海：調整2025年度利潤分配方案 每股派發現金紅利調整為0.62016元（含稅）】盛美上海公告，調整2025年度利潤分配方案，每股派發現金紅利由0.6233元（含稅）調整為0.62016元（含稅）。因公司2023年限制性股票激勵計劃首次授予部分第二個歸屬期、預留授予部分第一個歸屬期第二批次的股份登記手續已辦理完成，歸屬股票數量為243.19萬股，歸屬完成後公司總股本由4.8億股增加至4.83億股。公司回購專用證券賬戶中現存股份數量為44.34萬股。根據《上市公司股份回購規則》等有關規定，上市公司回購專用證券賬戶中的股份，不享有利潤分配的權利。截至本公告披露日，公司總股本為4.83億股，扣除公司回購專用證券賬戶中股份數量44.34萬股，公司實際參與分配的股份數為4.82億股。公司按照分配總額不變的原則，相應調整每股分配比例。
+
+---
+
+### 2026-07-02 18:14:06  #其他
+
+【國家能源局召開深層煤層氣勘探開發專題會議】 7月1日，國家能源局在北京召開深層煤層氣勘探開發專題會議。會議強調，要匯聚各方合力，推動煤層氣增儲上產取得更大成效。一是統一思想認識。各地區、有關單位和能源企業要聚焦天然氣勘探開發中突出問題，搶抓產業發展機遇，規範使用相關概念，將“煤巖氣”等非標準表述統一規範為“深層煤層氣”，集中精力投入勘探開發各項工作。二是抓好相關方案實施。印發實施“十五五”煤層氣（煤礦瓦斯）開發利用方案和重點區域增儲上產行動方案，將工作任務細化到各企業、各煤層氣區塊，加大勘探開發投入力度，加快重點專案建設。三是加強行業管理和服務。修訂《煤層氣統計調查制度》，完善深層煤層氣相關統計指標。最佳化審批流程，支援企業依法依規辦理採礦權、用地、用水等手續。健全行業標準體系，形成適應不同區域條件的勘探開發技術路線。四是強化統籌協調。合理安排煤炭與煤層氣開發時序，更好發揮資源開發綜合效益。建立央地協同機制，鼓勵中央企業和地方探索合作共贏的有效模式，及時研究解決煤層氣產業發展中的矛盾和問題。(國家能源局)
+
+---
+
+### 2026-07-02 18:13:49  #國際
+
+馬來西亞批准 2026 年第一季度撥款 54.9 億馬幣用於柔佛 - 新加坡經濟特區專案。
+
+---
+
+### 2026-07-02 18:13:33  #焦點 #國際
+
+訊息人士稱，美國與伊朗下一輪談判將於7月18日舉行。
+
+---
+
+### 2026-07-02 18:13:21  #MKT News #Important
+
+Saudi broadcaster Al Arabiya reports sources say the next round of US-Iran talks is scheduled for July 18.
+
+---
+
+### 2026-07-02 18:12:49  #公司
+
+【華亞智慧：實控人持股比例被動稀釋0.99%至46.85%】 華亞智慧公告，因公司可轉債轉股使總股本增加，實際控制人及一致行動人持股數量未變情況下持股比例被動稀釋。2026年6月26日至2026年7月1日期間，“華亞轉債”累計有89.31萬張轉股，轉股數量292.99萬股，公司總股本由1.38億股增至1.41億股。實際控制人及一致行動人持股比例由47.84%變更為46.85%，被動稀釋0.99%，觸及1%整數倍。本次變動不涉及持股數量變化，不影響公司控制權。
+
+---
+
+### 2026-07-02 18:12:46  #國際
+
+市場訊息：瑞穗儲蓄金融獲批透過債券融資 50 億印度盧比。
+
+---
+
+### 2026-07-02 18:12:09  #公司 #市場
+
+【祥源新材：公司壓阻/壓電發泡材料尚處送樣驗證階段，未形成實質性銷售】 祥源新材公告，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日收盤價格漲幅累計偏離超過30%，屬於股票交易異常波動。經公司自查，公司目前經營正常，內外部環境未發生重大變化，不存在應披露而未披露的重大事項。公司特別提示，其生產的用於機器人壓阻感測器和壓電感測器的壓阻發泡材料（PU）、壓電發泡材料（IXPP）目前僅處於送樣驗證階段，暫未形成實質性銷售，未來是否形成收入存在重大不確定性。
+
+---
+
+### 2026-07-02 18:11:59  #公司 #國際
+
+阿根廷可再生能源公司Genneia S.A.已正式向美國SEC提交了B類普通股的上市申請檔案。
+
+---
+
+### 2026-07-02 18:11:43  #公司 #市場
+
+【氣派科技：股票交易異常波動 2026 年一季度仍處虧損】氣派科技公告稱，公司股票 2026 年 6 月 30 日 - 7 月 2 日連續 3 個交易日收盤價格漲幅偏離值累計超 30%，屬異常波動。經自查，公司日常經營正常，無應披露未披露重大資訊。公司正推進以簡易程式向特定物件發行 A 股股票，尚需透過上交所稽核及證監會同意註冊。2025 年營收 7.69 億元，淨虧損 7538.40 萬元；2026 年一季度營收 2.23 億元，淨虧損 372.46 萬元，整體規模小且仍處虧損。此外，公司封裝業務傳統封裝佔比高，面臨技術升級及市場迭代風險。
+
+---
+
+### 2026-07-02 18:09:48  #公司 #市場 #國際
+
+【瑞銀：歐洲能源巨頭料將維持股東派息】瑞銀分析師Joshua Stone寫道，歐洲能源公司將基本保持其季度派息不變。他寫道，與上一季度相比，英國的英國石油公司應會將其股息提高4%。他表示，預計英國同行殼牌將維持其30億美元的季度回購規模，而法國的道達爾能源應會維持其15億美元的股票回購計劃。他補充說，西班牙的睿爍能源在2月份曾表示將在2026年上半年回購3.5億歐元的股票，預計該公司也將保持其回購步伐。英國石油公司股價上漲0.6%，至458.45便士。殼牌上漲0.2%，至2,879.50便士。道達爾能源上漲0.15%，至66.02歐元。睿爍能源上漲1.2%，至22.39歐元。
+
+---
+
+### 2026-07-02 18:08:58  #公司
+
+【海航科技：截至2026年6月30日已累計回購479.54萬元股份】 海航科技公告，公司此前披露擬以9000萬元至1.8億元回購股份，用於員工持股計劃或股權激勵，回購價格上限不超過5.27元/股。截至2026年6月30日，公司已累計回購股份161.91萬股，佔總股本0.06%，成交最高價3.06元/股，最低價2.82元/股，已支付資金總額479.54萬元（不含交易費用）。
+
+---
+
+### 2026-07-02 18:08:51  #公司 #市場 #焦點
+
+【北京君正：由於公司儲存晶片持續在漲價 預計各季度毛利率會環比有所增長】北京君正(300223.SZ)釋出投資者關係活動記錄表公告，DRAM漲價比較多，一季度國內客戶開始調價，二季度國內客戶仍在繼續漲價，同時海外客戶也陸續開始調整價格，預計二季度收入和毛利率會繼續增長；三季度價格會繼續上調，四季度的價格政策要到三季度才能確定，不過目前看四季度供應仍然較為緊張，存在繼續調價的可能性。隨著客戶用部分SRAM產品來代替DRAM方案，部分SRAM晶片二季度價格也有所上漲。NORFlash一、二季度都有漲價，漲價幅度總體來說比DRAM要小，NORFlash雖然產能也在趨緊，但比DRAM要好很多，一季度公司Flash產品線實現了很好的收入增長，其中銷量的增長佔比較大。三季度的價格是根據具體產品和具體客戶情況確定的，不一定都會調價。由於公司儲存晶片持續在漲價，預計各季度毛利率會環比有所增長。
+
+---
+
+### 2026-07-02 18:07:58  #MKT News
+
+【Nanchip Technology launches high-efficiency AC-DC power platform】Nanchip Technology launched a high-efficiency AC-DC power platform built around a multi-mode PFC plus current-mode LLC digital combo controller SC3270 and high-power LLCSR controllers SC3530/SC3531. The platform targets AI compute endpoints, industrial power supplies and telecom power, enabling customers to deploy PFC+LLC+SR efficient power architectures.
+
+---
+
+### 2026-07-02 18:07:26  #MKT News
+
+ENI said RH3OVA provides one-stop services covering the full lifecycle of fusion fuel, from initial feasibility studies through project deployment and operational support.
+
+---
+
+### 2026-07-02 18:07:20  #MKT News #ENI.MI
+
+ENI and the UK Atomic Energy Authority (UKAEA) have formed joint venture RH3OVA to provide specialist advisory and operations services to the growing global fusion energy industry.
+
+---
+
+### 2026-07-02 18:07:15  #其他
+
+【南芯科技宣佈推出高效AC-DC電源平臺方案】 今日，南芯科技宣佈推出高效AC-DC電源平臺方案，該方案由多模式PFC與電流模式LLC數字組合控制器SC3270，以及大功率LLCSR控制器SC3530/SC3531組成，面向AI算力終端、工業電源、通訊電源等應用場景，助力客戶構建PFC+LLC+SR的高效電源系統。
+
+---
+
+### 2026-07-02 18:07:12  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Warren urges Fed governor Waller to halt plan to reform regional Reserve Banks】Sen. Elizabeth Warren asked Federal Reserve Governor Christopher Waller to stop efforts to overhaul operations at the Fed’s 12 regional Reserve Banks, saying Waller’s proposal appears inconsistent with federal law and could undermine the Fed’s independence. Warren noted Waller chairs the Board’s Committee on Reserve Bank Affairs and has oversight powers, but the regional Reserve Banks are established as highly autonomous entities that control their own daily operations. Warren said: “This does not look like a serious Federal Reserve reform; it looks more like a plan crafted to please President Trump, who wants more power over regional bank presidents. I ask you to stop advancing this plan immediately and provide more information to Congress.”
+
+---
+
+### 2026-07-02 18:07:11  #MKT News #CNH #Impact bullish #CSI300
+
+【Four departments extend unemployment-insurance measures to stabilise and expand jobs】Four departments issued a joint notice to continue unemployment-insurance support for firms that maintain or only minimally reduce headcount, and to encourage youth hiring and skills training. Through end-2026, localities will keep implementing a job-stabilisation refund: SMEs and micro firms may receive refunds of up to 60% of the unemployment insurance contributions actually paid last year by the enterprise and its employees; large enterprises may receive refunds of up to 30%. Social organisations, law firms, accounting firms and sole proprietors insured as units are eligible under the same arrangements.
+
+---
+
+### 2026-07-02 18:07:10  #央行 #國際
+
+【沃倫敦促美聯儲理事沃勒停止推進聯邦儲備銀行改革方案】美國民主黨參議員沃倫要求美聯儲理事沃勒停止其對美聯儲12家地區分行運營進行全面改革的努力。沃倫表示，沃勒提出的聯邦儲備銀行改革方案似乎與聯邦法律不符，並暗示該方案可能會削弱美聯儲的獨立性。雖然沃勒作為美聯儲理事會儲備銀行事務委員會主席擁有一定的監督權，但各地區分行被設立為高度自治的實體，可以自主控制其日常運營。沃倫稱：“與其說這是一項嚴肅的美聯儲改革方案，不如說它更像是為了取悅特朗普總統而精心策劃的，特朗普總統希望獲得更多對地區分行行長的權力。我要求您立即停止推進這項方案，並向國會提供更多資訊。”
+
+---
+
+### 2026-07-02 18:06:52  #MKT News #NKE.O #Impact bearish
+
+Barclays lowers Nike (NKE.N) PT to $52 from $67.
+
+---
+
+### 2026-07-02 18:06:42  #公司
+
+【中源家居：簽訂1.22億元廠房資產買賣合同】中源家居公告稱，公司於2026年7月1日分別與優格傢俱、振霄椅業、晶曜傢俱正式簽訂《資產買賣合同》，出售位於安吉縣遞鋪街道雙橋路533號的廠房資產，交易總價1.22億元。本次交易涉及不動產分割轉讓，尚需經相關政府主管部門審批，存在不確定性。交易預計將對公司財務狀況和經營成果產生積極影響，具體以年度審計結果為準。
 
 ---
 
@@ -17880,383 +18030,5 @@ Trump, on financial disclosure: My funds are managed by a fund; do not speak wit
 ### 2026-07-01 20:36:24  #國際
 
 【比亞迪儲能簽約波蘭規模最大儲能專案】近日，比亞迪儲能與Greenvolt Power簽署合作協議，共同在波蘭開發Siedlce儲能專案。該專案總容量達600MW/2.4GWh，建成後將成為波蘭規模最大的電池儲能專案。此前，雙方在當地的兩個專案累計合作容量已達1.6GWh。Siedlce專案計劃於2026年第三季度開工建設，預計在2027年底前投入商業運營。
-
----
-
-### 2026-07-01 20:36:10  #MKT News #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
-
-【Iran's Pezeshkian says partial financial restrictions eased as talks continue】Iranian president Pezeshkian told Fars News that some financial and foreign-exchange restrictions on Iran have been relaxed. He said sustained oil exports, the partial easing of financial and FX controls, and new economic cooperation opportunities are outcomes of recent agreements reached during ongoing negotiations.
-
----
-
-### 2026-07-01 20:36:09  #市場 #國際
-
-特朗普：股市上漲，所以我獲利了。我也從中獲利了。
-
----
-
-### 2026-07-01 20:36:00  #其他
-
-Meta漲超5%。
-
----
-
-### 2026-07-01 20:35:59  #MKT News #Market Themes #The Trump Trade
-
-US President Trump praised the stock market.
-
----
-
-### 2026-07-01 20:35:37  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) rose sharply in pre-market trade, up more than 5% after reports the company is selling surplus AI compute capacity.
-
----
-
-### 2026-07-01 20:35:33  #國際
-
-特朗普：我不與管理我資產的人員溝通。
-
----
-
-### 2026-07-01 20:35:19  #國際
-
-特朗普談及財務申報檔案：由信託基金管理我的資產。
-
----
-
-### 2026-07-01 20:34:45  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-【Maritime transit, Lebanon ceasefire are key issues in US-Iran talks】A source familiar with the Doha talks said maritime transit and a Lebanon ceasefire are central to US-Iran negotiations. Qatar and Pakistan mediators are providing technical support to draft preliminary agreements for approval by both sides' decision-makers. Iran insists five key MOU terms must be implemented before it will negotiate other issues. The interim package reportedly includes commitments to end Israel’s campaign in Lebanon, enable return of displaced persons and restore Lebanese sovereignty; Iran says Israeli strikes and attempts to seize strategic sites in southern Lebanon are undermining the deal. Tehran is seeking release of its frozen assets and says funds must be transferred to Iran’s central bank for international purchases. On maritime issues Iran pledges safe passage through the Strait of Hormuz while reiterating that the waterway remains under Iranian and Omani sovereignty. Tehran also reaffirmed continued adherence to the NPT and cooperation with the IAEA.
-
----
-
-### 2026-07-01 20:34:44  #國際
-
-根據資料及路透社計算，俄羅斯6月海運柴油和瓦斯油出口環比下降39%。
-
----
-
-### 2026-07-01 20:34:36  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Beijing's 'Specialized, Refined, Distinctive and Innovative' board hits 1,519 firms; equity financing tops 70 billion yuan】As of June 30, Beijing's 'Specialized, Refined, Distinctive and Innovative' board counted 1,519 firms, surpassing the plan's phase target of 1,500. Cumulative equity financing for these board companies has exceeded 70 billion yuan, with Beijing leading the country in enterprise financing scale and policy support. The cohort comprises 418 innovation-oriented SMEs, 727 specialized-and-new SMEs and 218 'Little Giant' firms. Roughly 90% of firms are clustered in frontier sectors: new-generation IT, software and IT services, artificial intelligence, biopharma, smart manufacturing, new energy and advanced materials.
-
----
-
-### 2026-07-01 20:34:30  #國際
-
-特朗普稱讚股市。
-
----
-
-### 2026-07-01 20:34:23  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-Market sources say Meta Platforms (META.O) is building a cloud business to sell surplus AI compute capacity.
-
----
-
-### 2026-07-01 20:34:11  #其他
-
-Meta正在佈局雲業務，對外出售閒置AI算力資源。
-
----
-
-### 2026-07-01 20:34:06  #MKT News #Important
-
-US President Trump said he is getting along very well with Iran.
-
----
-
-### 2026-07-01 20:34:04  #國際
-
-特朗普讚揚卡達贈送新空軍一號。
-
----
-
-### 2026-07-01 20:33:51  #國際
-
-交易商稱，俄羅斯7月超低硫柴油出口預計將降至接近零的水平。
-
----
-
-### 2026-07-01 20:33:43  #國際
-
-資料顯示，6月份俄羅斯波羅的海Primorsk港柴油出貨量較5月下降53%。
-
----
-
-### 2026-07-01 20:33:42  #MKT News
-
-U.S. President Trump praised the drop in oil prices.
-
----
-
-### 2026-07-01 20:33:39  #MKT News #Important
-
-US President Trump said talks with Iran are progressing smoothly and that Iran's denuclearization is proceeding well.
-
----
-
-### 2026-07-01 20:33:38  #國際
-
-特朗普談伊朗：目前雙方關係相處得非常好。
-
----
-
-### 2026-07-01 20:33:17  #市場 #國際
-
-特朗普稱讚油價下跌。
-
----
-
-### 2026-07-01 20:33:14  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish #GM.N
-
-Micron Technology and General Motors signed a strategic customer agreement to secure long-term memory and storage supply for GM vehicle production. The pact is intended to ensure a long-term, reliable memory and storage platform and to support GM’s scaled deliveries.
-
----
-
-### 2026-07-01 20:33:13  #國際
-
-特朗普：伊朗談判進展順利。
-
----
-
-### 2026-07-01 20:33:08  #國際
-
-特朗普：與伊朗會晤良好。
-
----
-
-### 2026-07-01 20:33:04  #國際
-
-特朗普：伊朗無核化程序進展順利。
-
----
-
-### 2026-07-01 20:33:00  #市場
-
-洲際交易所：新增GPU計算期貨合約將以美元計價、現金交割。
-
----
-
-### 2026-07-01 20:32:55  #國際
-
-中國地震臺網正式測定：07月01日20時08分在日本本州東部附近海域（北緯40.15度，東經142.55度）發生5.8級地震，震源深度50千米。
-
----
-
-### 2026-07-01 20:32:50  #市場
-
-洲際交易所：預計今年晚些時候推出GPU計算期貨合約，有待監管部門批准。
-
----
-
-### 2026-07-01 20:32:49  #MKT News #Commodities #Energy
-
-Sources say Kazakhstan has agreed to supply Russia with 50,000 tonnes of gasoline in July and August.
-
----
-
-### 2026-07-01 20:32:36  #國際
-
-四名訊息人士透露，哈薩克已同意在7月至8月期間向俄羅斯供應5萬噸汽油。
-
----
-
-### 2026-07-01 20:32:30  #MKT News #Market Themes #The Trump Trade #BA.O #Impact bullish
-
-U.S. President Trump praised Boeing's next-generation Air Force One.
-
----
-
-### 2026-07-01 20:32:26  #公司
-
-美光科技：SCA為2026財年第三季度財報電話會議研討的16項議題之一。
-
----
-
-### 2026-07-01 20:32:10  #市場
-
-美光與通用汽車達成協議，供應記憶體及儲存平臺產品。通用汽車盤前漲1.9%。
-
----
-
-### 2026-07-01 20:31:56  #MKT News #Commodities #Energy
-
-IMF says Israel's inflation will temporarily rise due to higher energy prices.
-
----
-
-### 2026-07-01 20:31:44  #國際
-
-國際貨幣基金組織：受能源價格影響，以色列通脹將短暫上行。
-
----
-
-### 2026-07-01 20:31:40  #市場
-
-ICE與NATIVX將推出能源標準化計算期貨合約。
-
----
-
-### 2026-07-01 20:31:38  #MKT News #GM.N #Impact bullish #MU.O
-
-GM rose 1.9% in pre-market trading after signing a strategic agreement with Micron Technology .
-
----
-
-### 2026-07-01 20:31:29  #公司 #國際
-
-特朗普盛讚波音公司新空軍一號。
-
----
-
-### 2026-07-01 20:31:18  #公司
-
-【德冠新材：目前已具備批次生產電子轉移膜的技術能力】德冠新材(001378)在分析師會議中表示，目前公司已具備批次生產電子轉移膜的技術能力，鋰電池絕緣膜已形成交付。因公司產品屬於上游基礎材料，下游產業鏈較長，產品最終應用情況仍需要經過一定時間的技術驗證，目前這部分業務佔營業收入比例不足1%。
-
----
-
-### 2026-07-01 20:31:07  #其他
-
-美光科技與通用汽車簽署戰略協議以確保供應並加速創新。
-
----
-
-### 2026-07-01 20:30:54  #市場
-
-洲際交易所（ICE）與Nativx將推出能源歸一化計算期貨合約。
-
----
-
-### 2026-07-01 20:30:47  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【BofA says Fed communication showing early shift toward quieter stance after June FOMC】BofA says Fed officials cut public appearances to 12 speeches/interviews in the two weeks after the June FOMC, versus an average of about 23 in the same post-meeting window since 2022. The bank flags this could be an early sign the Fed chair is favoring a lower-profile communications strategy, but notes the drop may also reflect the July 4 holiday and a lack of additional commentary following June guidance. Time will tell if this is a durable trend or noise.
-
----
-
-### 2026-07-01 20:30:46  #MKT News #MU.O #Impact bullish #GM.N
-
-Micron Technology (MU.O) and GM (GM.N) signed a strategic agreement to secure supply and accelerate innovation.
-
----
-
-### 2026-07-01 20:30:30  #公司 #市場
-
-【先導基電：股票交易異常波動 籌劃增資收購股權存不確定性】先導基電公告稱，公司股票2026年6月30日、7月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。目前公司生產經營正常，2025年淨虧損1.27億元，2026年一季度淨虧損1690.21萬元。公司正籌劃透過增資收購先導微電子股權，相關工作未完成，能否交易不確定。截至7月1日，公司市淨率5.11倍，高於行業平均的0.83倍，提醒投資者注意風險。
-
----
-
-### 2026-07-01 20:30:24  #公司
-
-【先導基電：籌劃增資收購先導微電子股權 預計不構成重大重組】先導基電公告稱，公司正籌劃對先導微電子增資以實現控股，擬取得其50%以上股權。本次增資尚處籌劃階段，具體金額及比例待確定。因雙方實控人均為朱世會，交易構成關聯交易，但預計不構成重大資產重組。先導微電子2026年1 - 4月營收3.52億元、淨利潤3998.45萬元，初步評估值約20億元。交易尚需履行決策程式，存在不確定性。
-
----
-
-### 2026-07-01 20:29:55  #公司 #市場
-
-【ST中裝：股票交易異常波動 申請撤銷警示尚待稽核】ST中裝公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲跌幅偏離值累計超12%，屬異常波動。公司已向深交所申請撤銷其他風險警示，尚需稽核，結果不確定。目前公司經營及內外部環境未變，未發現重大影響的報道及傳聞，無應披露未披露事項，異常波動期間控股股東及實控人無買賣公司股票行為。公司計劃8月28日披露半年報。
-
----
-
-### 2026-07-01 20:29:44  #市場 #央行 #國際
-
-【美國股指期貨交投氣氛謹慎 交易員等待沃什講話指引】7月伊始，股市交投氣氛謹慎，交易員等待美聯儲主席凱文·沃什的講話。眼下，市場對美國加息的押注正在升溫。美元和債券收益率走高。紐約時間8:03，標普500指數期貨和道指期貨下跌0.3%，納斯達克100指數期貨跌0.6%。貨幣市場目前計入美聯儲下次政策會議加息的機率約為三分之一。ING Bank NV外匯策略師Chris Turner寫道：“鑑於美聯儲當前沒有提供前瞻指引，市場將高度關注沃什的表態。如果聚焦價格穩定，就可能繼續支撐美元。”
-
----
-
-### 2026-07-01 20:29:32  #國際
-
-檔案顯示，美國石油協會（API）公佈上週美國原油庫存減少 610 萬桶。
-
----
-
-### 2026-07-01 20:29:16  #MKT News
-
-IMF says regional tensions weigh on Israel's economy.
-
----
-
-### 2026-07-01 20:29:06  #國際
-
-國際貨幣基金組織：地區緊張局勢“給以色列經濟蒙上陰影”。
-
----
-
-### 2026-07-01 20:29:06  #MKT News
-
-NOVAK, Russia's deputy prime minister, said he expects fuel prices to have a negligible impact on inflation.
-
----
-
-### 2026-07-01 20:28:58  #MKT News #Macro & Rates
-
-International Monetary Fund lowers Israel's 2026 GDP growth forecast to 3.5%.
-
----
-
-### 2026-07-01 20:28:54  #公司
-
-【中創環保：選舉孫成宇為董事長 原董事長因刑案辭職】中創環保公告稱，董事長張紅亮因涉嫌刑事犯罪被刑拘，申請辭去相關職務。6月29日，公司召開第六屆董事會第二十次會議，選舉孫成宇為董事長、第六屆董事會各專門委員會委員，戰略委員會由其擔任主任委員，任期至第六屆董事會屆滿。公司將盡快完成工商變更登記及6個月內完成董事會秘書聘任工作。孫成宇曾任公司審計部門等負責人，目前未持股，無關聯關係及違規情形。
-
----
-
-### 2026-07-01 20:28:53  #MKT News
-
-Russian Deputy Prime Minister Novak said oil majors are controlling fuel prices and that he expects prices to stabilise.
-
----
-
-### 2026-07-01 20:28:45  #公司 #市場
-
-【多家MLCC廠商稱“正醞釀漲價”，業內看漲至2027年年底】有媒體報道，市場傳出，被動元件公司國巨通知客戶，今日起上調全系列電容產品報價，涵蓋積層陶瓷電容（MLCC）、鋁電解電容、鉭質電容、高分子鋁電容、薄膜電容及超級電容等，是國巨近年來調漲範圍最大的一波。此前，村田、三星電機、太陽誘電等海外MLCC大廠釋出調價通知，AI伺服器用的高容MLCC漲價幅度區間普遍達到15%～35%，部分稀缺型號現貨市場報價實現翻倍上漲。同日，記者在慕尼黑上海電子展上瞭解到，多家MLCC廠商已在醞釀下半年漲價。
-
----
-
-### 2026-07-01 20:28:43  #MKT News
-
-Russian Deputy Prime Minister Novak said overall domestic gasoline and diesel supplies are sufficient.
-
----
-
-### 2026-07-01 20:28:33  #MKT News #Market Regions #Europe & UK #Brent #Impact bearish #WTI
-
-UK Maritime Trade Operations said vessels that were illegally boarded near Yemen have resumed sailing.
-
----
-
-### 2026-07-01 20:28:30  #國際
-
-俄羅斯諾瓦克：我們預計油價將趨於平穩。
-
----
-
-### 2026-07-01 20:28:25  #國際
-
-國際貨幣基金組織（IMF）下調以色列 2026 年 GDP 增速預期至 3.5%。
-
----
-
-### 2026-07-01 20:28:17  #其他
-
-英國海事貿易運營中心：葉門附近遭非法登船船隻現已繼續航行。
-
----
-
-### 2026-07-01 20:28:01  #國際
-
-俄羅斯副總理諾瓦克：我們看到石油巨頭們正在控制燃料價格。
-
----
-
-### 2026-07-01 20:27:34  #國際
-
-俄羅斯副總理諾瓦克：整體而言，俄羅斯國內市場的汽油與柴油供應充足。
-
----
-
-### 2026-07-01 20:27:22  #MKT News #WTI #Brent
-
-Novak, Russia's deputy prime minister, said logistics disruptions at oil refineries have disrupted fuel supplies and that the issue is being resolved rapidly.
 
 ---

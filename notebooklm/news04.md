@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-06 04:17:29_
-_本檔包含 2414 則快訊，約 507279 字_
+_更新時間：2026-07-06 05:35:50_
+_本檔包含 2430 則快訊，約 507304 字_
+
+---
+
+### 2026-07-01 20:36:10  #MKT News #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
+
+【Iran's Pezeshkian says partial financial restrictions eased as talks continue】Iranian president Pezeshkian told Fars News that some financial and foreign-exchange restrictions on Iran have been relaxed. He said sustained oil exports, the partial easing of financial and FX controls, and new economic cooperation opportunities are outcomes of recent agreements reached during ongoing negotiations.
+
+---
+
+### 2026-07-01 20:36:09  #市場 #國際
+
+特朗普：股市上漲，所以我獲利了。我也從中獲利了。
+
+---
+
+### 2026-07-01 20:36:00  #其他
+
+Meta漲超5%。
+
+---
+
+### 2026-07-01 20:35:59  #MKT News #Market Themes #The Trump Trade
+
+US President Trump praised the stock market.
+
+---
+
+### 2026-07-01 20:35:37  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) rose sharply in pre-market trade, up more than 5% after reports the company is selling surplus AI compute capacity.
+
+---
+
+### 2026-07-01 20:35:33  #國際
+
+特朗普：我不與管理我資產的人員溝通。
+
+---
+
+### 2026-07-01 20:35:19  #國際
+
+特朗普談及財務申報檔案：由信託基金管理我的資產。
+
+---
+
+### 2026-07-01 20:34:45  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【Maritime transit, Lebanon ceasefire are key issues in US-Iran talks】A source familiar with the Doha talks said maritime transit and a Lebanon ceasefire are central to US-Iran negotiations. Qatar and Pakistan mediators are providing technical support to draft preliminary agreements for approval by both sides' decision-makers. Iran insists five key MOU terms must be implemented before it will negotiate other issues. The interim package reportedly includes commitments to end Israel’s campaign in Lebanon, enable return of displaced persons and restore Lebanese sovereignty; Iran says Israeli strikes and attempts to seize strategic sites in southern Lebanon are undermining the deal. Tehran is seeking release of its frozen assets and says funds must be transferred to Iran’s central bank for international purchases. On maritime issues Iran pledges safe passage through the Strait of Hormuz while reiterating that the waterway remains under Iranian and Omani sovereignty. Tehran also reaffirmed continued adherence to the NPT and cooperation with the IAEA.
+
+---
+
+### 2026-07-01 20:34:44  #國際
+
+根據資料及路透社計算，俄羅斯6月海運柴油和瓦斯油出口環比下降39%。
+
+---
+
+### 2026-07-01 20:34:36  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Beijing's 'Specialized, Refined, Distinctive and Innovative' board hits 1,519 firms; equity financing tops 70 billion yuan】As of June 30, Beijing's 'Specialized, Refined, Distinctive and Innovative' board counted 1,519 firms, surpassing the plan's phase target of 1,500. Cumulative equity financing for these board companies has exceeded 70 billion yuan, with Beijing leading the country in enterprise financing scale and policy support. The cohort comprises 418 innovation-oriented SMEs, 727 specialized-and-new SMEs and 218 'Little Giant' firms. Roughly 90% of firms are clustered in frontier sectors: new-generation IT, software and IT services, artificial intelligence, biopharma, smart manufacturing, new energy and advanced materials.
+
+---
+
+### 2026-07-01 20:34:30  #國際
+
+特朗普稱讚股市。
+
+---
+
+### 2026-07-01 20:34:23  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Market sources say Meta Platforms (META.O) is building a cloud business to sell surplus AI compute capacity.
+
+---
+
+### 2026-07-01 20:34:11  #其他
+
+Meta正在佈局雲業務，對外出售閒置AI算力資源。
+
+---
+
+### 2026-07-01 20:34:06  #MKT News #Important
+
+US President Trump said he is getting along very well with Iran.
+
+---
+
+### 2026-07-01 20:34:04  #國際
+
+特朗普讚揚卡達贈送新空軍一號。
+
+---
+
+### 2026-07-01 20:33:51  #國際
+
+交易商稱，俄羅斯7月超低硫柴油出口預計將降至接近零的水平。
+
+---
+
+### 2026-07-01 20:33:43  #國際
+
+資料顯示，6月份俄羅斯波羅的海Primorsk港柴油出貨量較5月下降53%。
+
+---
+
+### 2026-07-01 20:33:42  #MKT News
+
+U.S. President Trump praised the drop in oil prices.
+
+---
+
+### 2026-07-01 20:33:39  #MKT News #Important
+
+US President Trump said talks with Iran are progressing smoothly and that Iran's denuclearization is proceeding well.
+
+---
+
+### 2026-07-01 20:33:38  #國際
+
+特朗普談伊朗：目前雙方關係相處得非常好。
+
+---
+
+### 2026-07-01 20:33:17  #市場 #國際
+
+特朗普稱讚油價下跌。
+
+---
+
+### 2026-07-01 20:33:14  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish #GM.N
+
+Micron Technology and General Motors signed a strategic customer agreement to secure long-term memory and storage supply for GM vehicle production. The pact is intended to ensure a long-term, reliable memory and storage platform and to support GM’s scaled deliveries.
+
+---
+
+### 2026-07-01 20:33:13  #國際
+
+特朗普：伊朗談判進展順利。
+
+---
+
+### 2026-07-01 20:33:08  #國際
+
+特朗普：與伊朗會晤良好。
+
+---
+
+### 2026-07-01 20:33:04  #國際
+
+特朗普：伊朗無核化程序進展順利。
+
+---
+
+### 2026-07-01 20:33:00  #市場
+
+洲際交易所：新增GPU計算期貨合約將以美元計價、現金交割。
+
+---
+
+### 2026-07-01 20:32:55  #國際
+
+中國地震臺網正式測定：07月01日20時08分在日本本州東部附近海域（北緯40.15度，東經142.55度）發生5.8級地震，震源深度50千米。
+
+---
+
+### 2026-07-01 20:32:50  #市場
+
+洲際交易所：預計今年晚些時候推出GPU計算期貨合約，有待監管部門批准。
+
+---
+
+### 2026-07-01 20:32:49  #MKT News #Commodities #Energy
+
+Sources say Kazakhstan has agreed to supply Russia with 50,000 tonnes of gasoline in July and August.
+
+---
+
+### 2026-07-01 20:32:36  #國際
+
+四名訊息人士透露，哈薩克已同意在7月至8月期間向俄羅斯供應5萬噸汽油。
+
+---
+
+### 2026-07-01 20:32:30  #MKT News #Market Themes #The Trump Trade #BA.O #Impact bullish
+
+U.S. President Trump praised Boeing's next-generation Air Force One.
+
+---
+
+### 2026-07-01 20:32:26  #公司
+
+美光科技：SCA為2026財年第三季度財報電話會議研討的16項議題之一。
+
+---
+
+### 2026-07-01 20:32:10  #市場
+
+美光與通用汽車達成協議，供應記憶體及儲存平臺產品。通用汽車盤前漲1.9%。
+
+---
+
+### 2026-07-01 20:31:56  #MKT News #Commodities #Energy
+
+IMF says Israel's inflation will temporarily rise due to higher energy prices.
+
+---
+
+### 2026-07-01 20:31:44  #國際
+
+國際貨幣基金組織：受能源價格影響，以色列通脹將短暫上行。
+
+---
+
+### 2026-07-01 20:31:40  #市場
+
+ICE與NATIVX將推出能源標準化計算期貨合約。
+
+---
+
+### 2026-07-01 20:31:38  #MKT News #GM.N #Impact bullish #MU.O
+
+GM rose 1.9% in pre-market trading after signing a strategic agreement with Micron Technology .
+
+---
+
+### 2026-07-01 20:31:29  #公司 #國際
+
+特朗普盛讚波音公司新空軍一號。
+
+---
+
+### 2026-07-01 20:31:18  #公司
+
+【德冠新材：目前已具備批次生產電子轉移膜的技術能力】德冠新材(001378)在分析師會議中表示，目前公司已具備批次生產電子轉移膜的技術能力，鋰電池絕緣膜已形成交付。因公司產品屬於上游基礎材料，下游產業鏈較長，產品最終應用情況仍需要經過一定時間的技術驗證，目前這部分業務佔營業收入比例不足1%。
+
+---
+
+### 2026-07-01 20:31:07  #其他
+
+美光科技與通用汽車簽署戰略協議以確保供應並加速創新。
+
+---
+
+### 2026-07-01 20:30:54  #市場
+
+洲際交易所（ICE）與Nativx將推出能源歸一化計算期貨合約。
+
+---
+
+### 2026-07-01 20:30:47  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【BofA says Fed communication showing early shift toward quieter stance after June FOMC】BofA says Fed officials cut public appearances to 12 speeches/interviews in the two weeks after the June FOMC, versus an average of about 23 in the same post-meeting window since 2022. The bank flags this could be an early sign the Fed chair is favoring a lower-profile communications strategy, but notes the drop may also reflect the July 4 holiday and a lack of additional commentary following June guidance. Time will tell if this is a durable trend or noise.
+
+---
+
+### 2026-07-01 20:30:46  #MKT News #MU.O #Impact bullish #GM.N
+
+Micron Technology (MU.O) and GM (GM.N) signed a strategic agreement to secure supply and accelerate innovation.
+
+---
+
+### 2026-07-01 20:30:30  #公司 #市場
+
+【先導基電：股票交易異常波動 籌劃增資收購股權存不確定性】先導基電公告稱，公司股票2026年6月30日、7月1日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。目前公司生產經營正常，2025年淨虧損1.27億元，2026年一季度淨虧損1690.21萬元。公司正籌劃透過增資收購先導微電子股權，相關工作未完成，能否交易不確定。截至7月1日，公司市淨率5.11倍，高於行業平均的0.83倍，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 20:30:24  #公司
+
+【先導基電：籌劃增資收購先導微電子股權 預計不構成重大重組】先導基電公告稱，公司正籌劃對先導微電子增資以實現控股，擬取得其50%以上股權。本次增資尚處籌劃階段，具體金額及比例待確定。因雙方實控人均為朱世會，交易構成關聯交易，但預計不構成重大資產重組。先導微電子2026年1 - 4月營收3.52億元、淨利潤3998.45萬元，初步評估值約20億元。交易尚需履行決策程式，存在不確定性。
+
+---
+
+### 2026-07-01 20:29:55  #公司 #市場
+
+【ST中裝：股票交易異常波動 申請撤銷警示尚待稽核】ST中裝公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲跌幅偏離值累計超12%，屬異常波動。公司已向深交所申請撤銷其他風險警示，尚需稽核，結果不確定。目前公司經營及內外部環境未變，未發現重大影響的報道及傳聞，無應披露未披露事項，異常波動期間控股股東及實控人無買賣公司股票行為。公司計劃8月28日披露半年報。
+
+---
+
+### 2026-07-01 20:29:44  #市場 #央行 #國際
+
+【美國股指期貨交投氣氛謹慎 交易員等待沃什講話指引】7月伊始，股市交投氣氛謹慎，交易員等待美聯儲主席凱文·沃什的講話。眼下，市場對美國加息的押注正在升溫。美元和債券收益率走高。紐約時間8:03，標普500指數期貨和道指期貨下跌0.3%，納斯達克100指數期貨跌0.6%。貨幣市場目前計入美聯儲下次政策會議加息的機率約為三分之一。ING Bank NV外匯策略師Chris Turner寫道：“鑑於美聯儲當前沒有提供前瞻指引，市場將高度關注沃什的表態。如果聚焦價格穩定，就可能繼續支撐美元。”
+
+---
+
+### 2026-07-01 20:29:32  #國際
+
+檔案顯示，美國石油協會（API）公佈上週美國原油庫存減少 610 萬桶。
+
+---
+
+### 2026-07-01 20:29:16  #MKT News
+
+IMF says regional tensions weigh on Israel's economy.
+
+---
+
+### 2026-07-01 20:29:06  #國際
+
+國際貨幣基金組織：地區緊張局勢“給以色列經濟蒙上陰影”。
+
+---
+
+### 2026-07-01 20:29:06  #MKT News
+
+NOVAK, Russia's deputy prime minister, said he expects fuel prices to have a negligible impact on inflation.
+
+---
+
+### 2026-07-01 20:28:58  #MKT News #Macro & Rates
+
+International Monetary Fund lowers Israel's 2026 GDP growth forecast to 3.5%.
+
+---
+
+### 2026-07-01 20:28:54  #公司
+
+【中創環保：選舉孫成宇為董事長 原董事長因刑案辭職】中創環保公告稱，董事長張紅亮因涉嫌刑事犯罪被刑拘，申請辭去相關職務。6月29日，公司召開第六屆董事會第二十次會議，選舉孫成宇為董事長、第六屆董事會各專門委員會委員，戰略委員會由其擔任主任委員，任期至第六屆董事會屆滿。公司將盡快完成工商變更登記及6個月內完成董事會秘書聘任工作。孫成宇曾任公司審計部門等負責人，目前未持股，無關聯關係及違規情形。
+
+---
+
+### 2026-07-01 20:28:53  #MKT News
+
+Russian Deputy Prime Minister Novak said oil majors are controlling fuel prices and that he expects prices to stabilise.
+
+---
+
+### 2026-07-01 20:28:45  #公司 #市場
+
+【多家MLCC廠商稱“正醞釀漲價”，業內看漲至2027年年底】有媒體報道，市場傳出，被動元件公司國巨通知客戶，今日起上調全系列電容產品報價，涵蓋積層陶瓷電容（MLCC）、鋁電解電容、鉭質電容、高分子鋁電容、薄膜電容及超級電容等，是國巨近年來調漲範圍最大的一波。此前，村田、三星電機、太陽誘電等海外MLCC大廠釋出調價通知，AI伺服器用的高容MLCC漲價幅度區間普遍達到15%～35%，部分稀缺型號現貨市場報價實現翻倍上漲。同日，記者在慕尼黑上海電子展上瞭解到，多家MLCC廠商已在醞釀下半年漲價。
+
+---
+
+### 2026-07-01 20:28:43  #MKT News
+
+Russian Deputy Prime Minister Novak said overall domestic gasoline and diesel supplies are sufficient.
+
+---
+
+### 2026-07-01 20:28:33  #MKT News #Market Regions #Europe & UK #Brent #Impact bearish #WTI
+
+UK Maritime Trade Operations said vessels that were illegally boarded near Yemen have resumed sailing.
+
+---
+
+### 2026-07-01 20:28:30  #國際
+
+俄羅斯諾瓦克：我們預計油價將趨於平穩。
+
+---
+
+### 2026-07-01 20:28:25  #國際
+
+國際貨幣基金組織（IMF）下調以色列 2026 年 GDP 增速預期至 3.5%。
+
+---
+
+### 2026-07-01 20:28:17  #其他
+
+英國海事貿易運營中心：葉門附近遭非法登船船隻現已繼續航行。
+
+---
+
+### 2026-07-01 20:28:01  #國際
+
+俄羅斯副總理諾瓦克：我們看到石油巨頭們正在控制燃料價格。
+
+---
+
+### 2026-07-01 20:27:34  #國際
+
+俄羅斯副總理諾瓦克：整體而言，俄羅斯國內市場的汽油與柴油供應充足。
+
+---
+
+### 2026-07-01 20:27:22  #MKT News #WTI #Brent
+
+Novak, Russia's deputy prime minister, said logistics disruptions at oil refineries have disrupted fuel supplies and that the issue is being resolved rapidly.
 
 ---
 
@@ -14318,287 +14696,5 @@ The U.S. Department of Justice in a memorandum instructed prosecutors to priorit
 ### 2026-07-01 04:40:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Near Flat as Canada's GDP Rebounds — The S&P/TSX Composite Index inched up 0.1% to close at 34,857 on Tuesday as investors assessed GDP data and developments in the Middle East. Canada’s economy rebounded more than expected in April after a mild contraction in March, while an advance estimate pointed to a further 0.1% monthly expansion in May, signaling that growth may be stabilizing. The data improved the outlook for corporate earnings and eased concerns over a deeper tariff-driven slowdown. Meanwhile, US envoys in Doha said they would not meet with Iran, raising doubts over efforts to resolve the conflict and reopen the Strait of Hormuz, though technical talks on regional security are expected this week. Oil prices remained below recent highs, helping ease inflation concerns. Financial stocks advanced, with RBC up 1% and TD Bank gaining 0.8%. Mining stocks were mixed as gold prices fluctuated, with Agnico Eagle Mines rising 0.9% and Barrick slipping 0.6%. In tech, Celestica jumped 6.1%, tracking Wall Street’s rally.
-
----
-
-### 2026-07-01 04:38:17  #公司
-
-銀湖集團披露，於 6 月 26 日出售戴爾科技 16679 股 C 類普通股，成交單價區間為 392.3 美元至 401 美元。
-
----
-
-### 2026-07-01 04:37:58  #MKT News
-
-U.S. Office of Government Ethics released the certified annual financial disclosure report for Trump.
-
----
-
-### 2026-07-01 04:36:38  #國際
-
-美國政府道德辦公室釋出特朗普經認證的年度財務披露報告。
-
----
-
-### 2026-07-01 04:36:06  #國際
-
-以色列總理內塔尼亞胡談及埃及：我已同埃及方面展開會談，並向其闡明瞭我方的訴求。其中部分舉措現已落地，這些都是雙方協議中明確規定必須落實的事項。我認為我們必須守護好本國邊境。力量格局向來此消彼長，一方實力衰退，便會有另一方崛起。而你們清楚，有一股力量必須保持領先他國的增長勢頭，那就是以色列。
-
----
-
-### 2026-07-01 04:36:04  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-API: U.S. crude oil production change for week to June 26 +76,000 b/d; prior -205,000 b/d.
-
----
-
-### 2026-07-01 04:35:54  #MKT News
-
-US refined product imports (API) for week to June 26: +213,000 b/d, prior -152,000 b/d.
-
----
-
-### 2026-07-01 04:35:52  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Jun.26) | actual 76000M | previous -205000M
-
----
-
-### 2026-07-01 04:35:40  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.26) | actual 213000M | previous -152000M
-
----
-
-### 2026-07-01 04:35:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API crude oil imports -180,000 barrels in week to June 26; prior +226,000 barrels.
-
----
-
-### 2026-07-01 04:35:32  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.26) | actual -180000M | previous 226000M
-
----
-
-### 2026-07-01 04:35:24  #MKT News #Commodities #Energy
-
-U.S. API heating oil stocks rose 205,000 barrels in the week to June 26, versus a 405,000-barrel increase in the prior week.
-
----
-
-### 2026-07-01 04:35:20  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.23% Higher — The Dow Jones Index gained 119 points or 0.23 percent on Tuesday to close at 52301 points. Gains were led by Caterpillar (2.95%), Apple (2.70%) and Nvidia (2.66%). Biggest losers were Honeywell International (-3.02%), Walt Disney (-2.33%) and J&J (-1.74%).
-
----
-
-### 2026-07-01 04:35:17  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.26) | actual 205000M | previous 405000M
-
----
-
-### 2026-07-01 04:35:17  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API Cushing crude stocks +503,000 barrels in week to June 26; prior -982,000 barrels.
-
----
-
-### 2026-07-01 04:35:06  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.26) | actual 503000M | previous -982000M
-
----
-
-### 2026-07-01 04:35:05  #MKT News #WTI #Impact bearish #Brent
-
-API: U.S. refined product inventories +2.922 mln bbl in week to June 26 vs -0.852 mln expected; prior +1.447 mln.
-
----
-
-### 2026-07-01 04:34:59  #國際
-
-備忘錄顯示：在美國最高法院就出生公民權作出裁決後，美國司法部指示檢察官優先調查 “生育旅遊” 相關不法活動。
-
----
-
-### 2026-07-01 04:34:56  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.26) | actual 2922000M | consensus -852000M | previous 1447000M
-
----
-
-### 2026-07-01 04:34:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API weekly U.S. gasoline inventories for week to June 26: -2.106 mln bbl; expected -0.906 mln; prior +1.238 mln.
-
----
-
-### 2026-07-01 04:34:42  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.26) | actual -2106000M | consensus -906000M | previous 1238000M
-
----
-
-### 2026-07-01 04:34:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-API: US crude inventories fell 6.072 mln barrels in the week to June 26, versus an expected draw of 4.05 mln barrels and a prior draw of 0.765 mln barrels.
-
----
-
-### 2026-07-01 04:34:35  #焦點 #國際
-
-美國至6月26日當週API原油庫存 -607.2萬桶，預期-405萬桶，前值-76.5萬桶。
-
----
-
-### 2026-07-01 04:34:28  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.26) | actual -6072000M | consensus -4050000M | previous -765000M
-
----
-
-### 2026-07-01 04:34:15  #其他
-
-新興市場二季度漲23%，創2009年以來最佳單季表現。
-
----
-
-### 2026-07-01 04:33:52  #國際
-
-以色列總理內塔尼亞胡談及加沙問題：至於在加沙重建定居點一事，必須先採取行動，再進行談判。有些時候，行動與談判應當分開推進，這也是我不再就此話題多做闡述的原因。大家要明白，治國之道不只是處理國內政治事務。我無需每時每刻向全世界公開所有計劃。
-
----
-
-### 2026-07-01 04:31:16  #公司 #國際
-
-根據美國證交會（SEC）檔案，英偉達公司股東批准一項提案，將“超級多數投票規則”改為“簡單多數投票標準”。英偉達公司股東批准關於高管薪酬的“諮詢性投票”議案。公司股東批准選舉全部10名董事候選人，任期延續至2027年年度股東大會。
-
----
-
-### 2026-07-01 04:30:53  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-SEC filing shows NVIDIA (NVDA.O) shareholders approved the election of all 10 director nominees; terms run through the company’s 2027 annual meeting.
-
----
-
-### 2026-07-01 04:30:44  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) shareholders approved an advisory vote on executive compensation, according to an SEC filing.
-
----
-
-### 2026-07-01 04:30:38  #公司 #國際
-
-塞爾維亞能源部長表示，塞爾維亞境內由俄羅斯控股的尼什石油公司（NIS）獲得美國製裁豁免，豁免有效期至 7 月 31 日。
-
----
-
-### 2026-07-01 04:30:35  #MKT News #Important
-
-Per a U.S. SEC filing, NVIDIA (NVDA.O) shareholders approved a proposal to replace the company's supermajority voting requirement with a simple majority voting standard.
-
----
-
-### 2026-07-01 04:30:17  #MKT News
-
-【US official: Iran has not received $6 bln in frozen assets; release conditional on MOU compliance】A US government official said on Tuesday that Iran has not received any of about $6 billion in frozen US assets that Washington pledged to unlock under a memorandum of understanding aimed at bringing Tehran back to talks in Qatar. The official said no funds have been unfrozen and none will be released unless Iran meets the specific benchmarks in the MOU. While Iran seeks a lump-sum payment, the US plans small, phased direct payments to vendors as Tehran advances key negotiation areas.
-
----
-
-### 2026-07-01 04:29:07  #MKT News
-
-Israeli Prime Minister Netanyahu said he will do everything possible to win the upcoming election.
-
----
-
-### 2026-07-01 04:28:32  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-A US judge ruled to block a Trump administration rule that would have restricted federal student-loan forgiveness from taking effect.
-
----
-
-### 2026-07-01 04:24:31  #MKT News
-
-【6.1-magnitude earthquake hits northern Mexico】Mexico's National Seismological Service said a magnitude-6.1 earthquake struck about 116 km southwest of Guasave in Sinaloa, northern Mexico, at 13:45 local time on June 30, with an estimated depth of roughly 5 km. No casualties have been reported.
-
----
-
-### 2026-07-01 04:22:39  #其他
-
-【墨西哥北部發生6.1級地震】據墨西哥國家地震監測局釋出的訊息，當地時間6月30日13時45分，墨西哥北部錫那羅亞州瓜薩沃市西南方向約116公里處發生6.1級地震，震源深度約5公里。目前沒有人員傷亡的報告。（央視新聞）
-
----
-
-### 2026-07-01 04:20:04  #MKT News #Important #Commodities #Energy #WTI #Brent
-
-API U.S. weekly crude inventories for the week to June 26 due in 10 minutes.
-
----
-
-### 2026-07-01 04:18:38  #MKT News #NKE.O #Impact bullish
-
-Nike (NKE.N) reported Q4 revenue $10.972 bln, above market consensus $10.859 bln.
-
----
-
-### 2026-07-01 04:17:32  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Nike earnings below expectations at 0.20 USD — Nike (NKE) released earnings per share at 0.20 USD, compared to market expectations of 0.22 USD.
-
----
-
-### 2026-07-01 04:17:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rise on Tech Rally — US stock indexes closed higher on Tuesday, supported by strength in the technology sector and easing inflation risks. The S&P 500 gained 0.8%, while the Nasdaq-100 rose 1.7%, and the Dow Jones added 137 points to close at a record high of 52,319. Chipmakers extended their rebound from last week as investors looked past recent concerns over stretched AI-related valuations, encouraged by strong guidance from semiconductor producers despite elevated hyperscaler spending. Nvidia gained 2.6%, AMD rose 7.7%, and Intel advanced 6%. Meanwhile, oil prices remained near pre-conflict levels, easing concerns that the Federal Reserve could be forced to tighten policy further. The softer inflation backdrop also supported traditional sectors, helping the Dow outperform broader benchmarks in June.
-
----
-
-### 2026-07-01 04:16:49  #MKT News #DISH.O #Impact bearish
-
-Market sources: DISH DBS has filed for Chapter 11 bankruptcy protection and entered debt-restructuring proceedings.
-
----
-
-### 2026-07-01 04:16:23  #其他
-
-“大空頭”Michael Burry： 做空特斯拉、英偉達和應用材料。
-
----
-
-### 2026-07-01 04:15:23  #其他
-
-耐克第四季度營收 109.7 億美元，去年同期為 111 億美元。
-
----
-
-### 2026-07-01 04:12:24  #公司
-
-“大空頭”Michael Burry： 首次做空卡特彼勒公司股票。
-
----
-
-### 2026-07-01 04:11:12  #國際
-
-【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及方面訊息，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據悉，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（央視新聞）
-
----
-
-### 2026-07-01 04:10:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Netanyahu: Israel's war 'never-ending', confrontation with Iran 'far from over'】On June 30, Israeli Prime Minister Netanyahu told Channel 14 TV that Israel has achieved "significant military successes" in recent years and is "stronger than ever," but that its fighting is "never-ending" and confronting Iran and its allies remains "a long way off." He said Israel has "successfully repelled and greatly weakened" related security threats but still must carry out follow-up military operations. Asked about possible future peace agreements, he declined to name countries, saying Israel is in contact with multiple states and that only by remaining strong will others ally and make peace.
-
----
-
-### 2026-07-01 04:10:50  #MKT News #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #S&P500
-
-The US Magnificent Seven index fell 8.9% in June, its worst monthly performance since March 2025.
-
----
-
-### 2026-07-01 04:09:18  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
-
-Dow Jones Industrial Average closed up 135.07 points (+0.26%) at 52,317.81 on Tuesday, June 30; S&P 500 closed up 58.57 points (+0.79%) at 7,499.00; Nasdaq Composite closed up 393.58 points (+1.52%) at 26,213.72.
 
 ---

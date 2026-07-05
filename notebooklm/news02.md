@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-06 04:17:29_
-_本檔包含 2786 則快訊，約 506580 字_
+_更新時間：2026-07-06 05:35:50_
+_本檔包含 2785 則快訊，約 506387 字_
+
+---
+
+### 2026-07-03 16:03:49  #公司
+
+【啟迪設計：完成轉讓全資子公司100%股權交易】啟迪設計公告稱，公司此前審議透過轉讓全資子公司深圳嘉力達節能科技有限公司100%股權的議案，以1元價格轉讓給軒世奇（北京）機電工程有限公司。近日，公司收到轉讓價款，嘉力達已完成工商變更登記，本次股權轉讓交易完成，公司不再持有嘉力達股權，其不再納入合併報表範圍。本次轉讓對淨利潤具體影響以審計結果為準。
+
+---
+
+### 2026-07-03 16:03:46  #公司
+
+【煌上煌：擬出資510萬元設立控股子公司】煌上煌公告稱，公司第六屆董事會第二十次會議審議透過對外投資設立控股子公司的議案。公司將與杭州音聲控股有限公司在杭州設合資科技公司，註冊資金1000萬元。公司以自有資金現金出資510萬元，佔比51%；杭州音聲控股以現金出資490萬元，佔比49%。投資完成後，合資公司將成公司控股子公司並納入合併報表範圍。
+
+---
+
+### 2026-07-03 16:03:39  #公司
+
+【科華生物：補體C1q測定試劑盒獲醫療器械註冊證】科華生物公告稱，近日收到上海市藥品監督管理局頒發的補體C1q測定試劑盒（膠乳免疫比濁法）醫療器械註冊證，註冊證編號為滬械注準20262400242，有效期從2026年6月30日至2031年6月29日，供醫療機構體外定量測定人體血清、血漿中補體C1q的含量。該註冊證豐富了公司產品線，對業務發展有正面影響，但暫無法預測對未來營收的影響。
+
+---
+
+### 2026-07-03 16:03:35  #公司
+
+【爾康製藥：獲得氫氧化鈉原料藥上市申請批准通知書】爾康製藥公告稱，公司近日收到國家藥監局簽發的氫氧化鈉原料藥《化學原料藥上市申請批准通知書》，有效期24個月，包裝規格4kg，通知書有效期至2031年5月11日。截至公告披露日，國內氫氧化鈉原料藥項下有效登記號僅1個，登記企業是公司。該批准豐富公司原料藥品種，提升市場競爭力，但因行業政策等因素，產品未來銷售及業績影響存在不確定性。
+
+---
+
+### 2026-07-03 16:03:26  #宏觀 #國際
+
+巴基斯坦財政部長表示，可能很快訪問美國，討論關稅問題。
+
+---
+
+### 2026-07-03 16:03:23  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IAEA: inspectors not granted access to Iranian nuclear sites; enriched uranium remains onsite】IAEA Director General Grossi said on the 3rd in an interview with Russia Today that IAEA inspectors have not been permitted to enter Iranian nuclear facilities and that Iran’s enriched uranium remains at its sites. The IAEA has requested to resume on‑site verification but has not received Iranian permission; Grossi said the agency’s “overall impression” is that existing nuclear material remains in those facilities and that the IAEA has identified their locations and inventories. Satellite imagery and other remote monitoring show severe damage to some facilities and disruption of access roads.
+
+---
+
+### 2026-07-03 16:03:06  #Trading Economics #Economy #Germany #Composite PMI #Importance 1
+
+Germany's Private Sector Activity Nearly Stalls — The S&P Global Germany Composite PMI was revised higher to 49.5 in June 2026 from the preliminary estimate of 48, pointing to near-stagnation in private sector activity following two consecutive months of contraction. There was a drop in new business and output, reflecting weakness in the service sector while manufacturing posted a rise in production. Meanwhile, employment fell across the board, as did rates of both input cost and output price inflation. Employment meanwhile fell across the board, as did rates of both input cost and output price inflation. Future expectations ticked down, again owing to the services sector.
+
+---
+
+### 2026-07-03 16:03:03  #MKT News #000660.KS #Impact bearish #DXY #Impact bullish #WTI
+
+【Hong Kong 2x SK Hynix ETF's $13bln AUM amplifies KOSPI volatility】A Hong Kong-listed 2x daily SK Hynix leveraged ETF has grown to about $13.0 bln AUM in nine months, now the largest single-stock leveraged ETF globally. Its size is roughly twice SK Hynix’s average daily turnover this year and exceeds the combined AUM of leveraged ETFs tracking Micron, NVIDIA, SanDisk and Tesla. On volatile days the ETF and smaller peers can account for roughly 66% of SK Hynix trading volume. SK Hynix and Samsung together represent 57% of the KOSPI weight, with SK Hynix alone at 28%, so swings in this single ETF can move the benchmark. The ETF fell about 25% on Thursday, triggering forced selling and accelerating market-wide volatility.
+
+---
+
+### 2026-07-03 16:02:45  #央行 #國際
+
+【拉加德不排除提前離開歐洲央行以投身法國政壇的可能性】歐洲央行行長克里斯蒂娜·拉加德表示，她不排除提前離開目前的職位，投身法國政壇的可能性。“有這個可能，”她在接受《回聲報》採訪被問及如果不確定性消退，這是否也是一種選擇時說道，“我認為，在法國總統候選人辯論中，需要聽到歐洲的聲音。”在採訪中拉加德重申了她之前的評論：“鑑於我們再次處於動盪時期，我認為歐洲央行這艘船的船長應該留在船上。”拉加德一再被與國家政治聯絡在一起，儘管她之前曾將法國總統職位描述為“可怕的工作”。她的行長任期將於2027年10月結束。她告訴回聲報，未來幾個月她“當然有可能”與一些法國候選人進行坦誠的討論。
+
+---
+
+### 2026-07-03 16:02:31  #公司
+
+【五洲特紙：控股股東及其一致行動人權益變動觸及1%刻度】五洲特紙公告稱，公司控股股東、實際控制人及其一致行動人權益變動觸及1%刻度。2025年11月19日至2026年7月2日期間，林萬明、趙磊、嘉興雲藍分別減持50.2318萬股、435.4萬股、110.13萬股，趙卉增持88萬股。本次權益變動後，其合計持股比例由82.00%降至80.93%。本次變動與減持計劃和承諾一致，不觸及要約收購，不會導致控股股東和實控人變化，也不涉及披露權益變動報告書。
+
+---
+
+### 2026-07-03 16:02:30  #經濟數據 #歐元區
+
+【歐元區6月服務業經營活動指數報49.4】標普全球7月3日釋出資料顯示，歐元區6月服務業經營活動指數報49.4，歐元區6月綜合產出指數報50。
+
+---
+
+### 2026-07-03 16:02:18  #國際
+
+市場訊息：巴基斯坦尋求降低對美國的關稅。
+
+---
+
+### 2026-07-03 16:02:11  #公司
+
+【芯聯整合旗下紹興製造公司增資至26.8億 增幅約26654%】天眼查App顯示，近日，芯聯先進積體電路製造（紹興）有限公司發生工商變更，新增紹興柯橋芯合先進整合創業投資基金合夥企業（有限合夥）為股東，同時，註冊資本由1000萬人民幣增至約26.8億人民幣，增幅約26654%。該公司成立於2023年9月，法定代表人為陳志剛，經營範圍包括積體電路製造、積體電路設計、積體電路晶片及產品製造、電力電子元器件製造等，現由芯聯整合（688469）及上述新增股東共同持股。
+
+---
+
+### 2026-07-03 16:01:29  #公司
+
+【神通科技：股東必恆投資已減持2.00%】神通科技公告，股東必恆投資因自身資金需求，原計劃2026年4月7日至2026年7月6日減持不超過1437.46萬股。2026年6月25日至2026年7月2日，必恆投資透過大宗交易減持958萬股，減持比例2.00%，減持總金額1.17億元，當前持股4416.6萬股，決定提前終止本次減持計劃。
+
+---
+
+### 2026-07-03 16:01:25  #公司
+
+【朝陽科技：完成回購登出92.74萬股限制性股票】朝陽科技公告，完成回購登出92.74萬股限制性股票，佔回購登出前公司總股本的0.6745%。本次回購價格為15.04元/股，並按同期銀行存款利率支付利息。回購登出完成後，公司總股本由1.37億股變更為1.37億股。
+
+---
+
+### 2026-07-03 16:01:19  #公司
+
+【常山藥業：證券事務代表白榮國因個人原因辭職】常山藥業公告稱，公司近日收到證券事務代表白榮國的書面辭職報告，其因個人原因申請辭職，報告自送達董事會之日起生效，辭職後不再擔任公司任何職務，相關工作已交接。截至公告披露日，白榮國未持有公司股票，無應履行而未履行的承諾事項。公司董事會將盡快聘任符合任職資格的人員擔任證券事務代表。
+
+---
+
+### 2026-07-03 16:01:12  #公司
+
+【華峰化學：籌劃發行股份及支付現金購買資產交易正推進】華峰化學公告稱，公司擬向華峰集團、尤小平、尤金煥、尤小華髮行股份及支付現金購買華峰合成樹脂100%股權，向華峰集團購買華峰熱塑100%股權。2026年6月5日，公司董事會已審議透過相關議案。截至公告日，盡職調查等工作正常進行。本次交易尚需董事會再次審議、股東會批准及監管機構同意，能否獲批及時間均不確定。
+
+---
+
+### 2026-07-03 16:01:02  #公司
+
+【凌雲光：代理國外TGV玻璃通孔裝置】凌雲光在互動平臺表示，公司視覺檢測業務覆蓋新型顯示領域，為京東方等顯示面板客戶提供視覺檢測解決方案。同時，公司代理國外TGV玻璃通孔裝置，應用於玻璃基板高速、高精度微米級打孔，滿足先進封裝對高密度互連的需求，此產品當前處於早期市場推廣階段，對公司業績不構成重大影響。
+
+---
+
+### 2026-07-03 16:01:01  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+LME inventories: aluminium down 1,500 tonnes; nickel unchanged; lead down 1,300 tonnes; copper down 3,450 tonnes; tin down 70 tonnes; zinc down 275 tonnes.
+
+---
+
+### 2026-07-03 16:00:58  #其他
+
+倫敦金屬交易所（LME）：鋁庫存減少1500噸，鎳庫存持平，鉛庫存減少1300噸，銅庫存減少3450噸，錫庫存減少70噸，鋅庫存減少275噸。
+
+---
+
+### 2026-07-03 16:00:46  #其他
+
+小牛電動：2026年第二季度總銷量為434,687臺。
+
+---
+
+### 2026-07-03 16:00:42  #公司 #國際
+
+【豪森簽約駱駝集團匈牙利工廠電池測試線訂單】豪森智慧訊息，豪森與全球低壓電池龍頭駱駝集團首次簽約合作，將為其匈牙利布達佩斯工廠提供一條低壓鋰電池測試線。本次產線建設是駱駝集團完善歐洲產能佈局的關鍵舉措。
+
+---
+
+### 2026-07-03 16:00:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #XAUUSD #Impact mixed
+
+【S&P Global Germany services PMI final 48.6 in June; contraction eases vs flash】S&P Global final Germany services PMI rose to 48.6 in June, up from the flash 46.8, but still below 50 and marking a third consecutive month of contraction. Prices rises and falling market confidence weighed on demand. New business declined for a fourth month and fell faster than in May, with firms citing a weak domestic economy, tighter financing and low domestic confidence; overseas new orders also dropped markedly. Backlogs fell at the fastest pace since August last year, signalling low capacity pressure and dampening near-term hiring prospects. Employment fell for a sixth month in June, but the decline was small and the mildest in the current downcycle. S&P Global said the sector has been under pressure since the outbreak of the Middle East war.
+
+---
+
+### 2026-07-03 16:00:30  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Hit Over 4-Month High — The CAC 40 rose 0.3% to 8,507 on Friday, extending gains from the previous session and reaching its highest level since late February, as softer-than-expected data led traders to scale back expectations for further Federal Reserve rate hikes. Recent data revealed US employment growth eased sharply in June, with revisions to the prior two months’ figures also pointing to a weaker labor market, prompting expectations that the Fed will keep rates unchanged this month and potentially through September. Meanwhile, eurozone inflation continues to move closer to price stability after easing in June, alleviating the need for immediate policy measure. Domestically, industrial production dropped 0.1% month-on-month in May 2026, better than market expectations for a 0.4% decline, but reversing a 0.3% gain in April. Notable performers included ArcelorMittal (2.4%), Edenred (2.3%), and Engie (2.1%). Over the week, the index remains on track for a weekly gain.
 
 ---
 
@@ -16624,155 +16768,5 @@ Stocks in Lithuania Hit All-time High — Vilnius increased to an all-time high 
 ### 2026-07-02 18:15:58  #公司
 
 【貝因美：控股股東解除司法凍結】貝因美公告，控股股東小貝大美控股前期被浙江省杭州市中級人民法院司法凍結的4201.39萬股已於2026年7月1日解除司法凍結，佔其持有公司股份總數的31.68%。截至本公告披露日，小貝大美控股前期被司法凍結的股份已全部被解除司法凍結。
-
----
-
-### 2026-07-02 18:15:51  #公司 #市場
-
-【*ST嶺南：股價連續三日漲幅偏離值超12% 提示多項風險】*ST嶺南公告稱，公司股票於2026年6月30日至7月2日連續三個交易日收盤價格漲幅偏離值累計超過12%，屬異常波動。經核查，公司、控股股東及實控人不存在應披露未披露重大事項，相關人員在異動期間未買賣公司股票。同時提示多項風險，包括公司被實施退市及其他風險警示，擬受行政處罰，原實控人尚有1.49億元佔用資金未歸還，多筆債務逾期等。
-
----
-
-### 2026-07-02 18:15:43  #公司
-
-【工大高科：回覆募投專案及在建工程相關問詢】工大高科公告稱，公司對上海證券交易所關於2026年年度報告的資訊披露監管問詢函進行回覆。IPO募投專案均已完成，累計投入9698.12萬元，投入進度52%。2025年末在建工程餘額6422.27萬元，同比增長129.65%，主要為產業園專案。募投專案轉固涉及裝置和在建工程，會計處理合規。因下游行業調整及產能爬坡，專案未達預期效益，產能正逐步釋放。剩餘募集資金已轉至自有賬戶，將進行現金管理併合理規劃使用。產業園專案預計成綜合性產業基地，市場前景良好，對營收和利潤的貢獻存在不確定性。
-
----
-
-### 2026-07-02 18:15:17  #MKT News #Commodities #Energy
-
-【National Energy Administration to ramp up deep coalbed methane exploration and development】On July 1 in Beijing the National Energy Administration held a meeting on deep coalbed methane exploration and development, directing that safeguarding national energy security is the core task and instructing an acceleration of deep CBM (coal-mine gas) exploration and development to shore up energy supply. The NEA has issued for implementation a 15th Five-Year coalbed methane (coal-mine gas) development and utilization plan and an action plan to boost reserves and output in key regions, assigning tasks to specific companies and CBM blocks, calling for stepped-up exploration and development investment and faster construction of priority projects.
-
----
-
-### 2026-07-02 18:14:30  #公司
-
-【盛美上海：調整2025年度利潤分配方案 每股派發現金紅利調整為0.62016元（含稅）】盛美上海公告，調整2025年度利潤分配方案，每股派發現金紅利由0.6233元（含稅）調整為0.62016元（含稅）。因公司2023年限制性股票激勵計劃首次授予部分第二個歸屬期、預留授予部分第一個歸屬期第二批次的股份登記手續已辦理完成，歸屬股票數量為243.19萬股，歸屬完成後公司總股本由4.8億股增加至4.83億股。公司回購專用證券賬戶中現存股份數量為44.34萬股。根據《上市公司股份回購規則》等有關規定，上市公司回購專用證券賬戶中的股份，不享有利潤分配的權利。截至本公告披露日，公司總股本為4.83億股，扣除公司回購專用證券賬戶中股份數量44.34萬股，公司實際參與分配的股份數為4.82億股。公司按照分配總額不變的原則，相應調整每股分配比例。
-
----
-
-### 2026-07-02 18:14:06  #其他
-
-【國家能源局召開深層煤層氣勘探開發專題會議】 7月1日，國家能源局在北京召開深層煤層氣勘探開發專題會議。會議強調，要匯聚各方合力，推動煤層氣增儲上產取得更大成效。一是統一思想認識。各地區、有關單位和能源企業要聚焦天然氣勘探開發中突出問題，搶抓產業發展機遇，規範使用相關概念，將“煤巖氣”等非標準表述統一規範為“深層煤層氣”，集中精力投入勘探開發各項工作。二是抓好相關方案實施。印發實施“十五五”煤層氣（煤礦瓦斯）開發利用方案和重點區域增儲上產行動方案，將工作任務細化到各企業、各煤層氣區塊，加大勘探開發投入力度，加快重點專案建設。三是加強行業管理和服務。修訂《煤層氣統計調查制度》，完善深層煤層氣相關統計指標。最佳化審批流程，支援企業依法依規辦理採礦權、用地、用水等手續。健全行業標準體系，形成適應不同區域條件的勘探開發技術路線。四是強化統籌協調。合理安排煤炭與煤層氣開發時序，更好發揮資源開發綜合效益。建立央地協同機制，鼓勵中央企業和地方探索合作共贏的有效模式，及時研究解決煤層氣產業發展中的矛盾和問題。(國家能源局)
-
----
-
-### 2026-07-02 18:13:49  #國際
-
-馬來西亞批准 2026 年第一季度撥款 54.9 億馬幣用於柔佛 - 新加坡經濟特區專案。
-
----
-
-### 2026-07-02 18:13:33  #焦點 #國際
-
-訊息人士稱，美國與伊朗下一輪談判將於7月18日舉行。
-
----
-
-### 2026-07-02 18:13:21  #MKT News #Important
-
-Saudi broadcaster Al Arabiya reports sources say the next round of US-Iran talks is scheduled for July 18.
-
----
-
-### 2026-07-02 18:12:49  #公司
-
-【華亞智慧：實控人持股比例被動稀釋0.99%至46.85%】 華亞智慧公告，因公司可轉債轉股使總股本增加，實際控制人及一致行動人持股數量未變情況下持股比例被動稀釋。2026年6月26日至2026年7月1日期間，“華亞轉債”累計有89.31萬張轉股，轉股數量292.99萬股，公司總股本由1.38億股增至1.41億股。實際控制人及一致行動人持股比例由47.84%變更為46.85%，被動稀釋0.99%，觸及1%整數倍。本次變動不涉及持股數量變化，不影響公司控制權。
-
----
-
-### 2026-07-02 18:12:46  #國際
-
-市場訊息：瑞穗儲蓄金融獲批透過債券融資 50 億印度盧比。
-
----
-
-### 2026-07-02 18:12:09  #公司 #市場
-
-【祥源新材：公司壓阻/壓電發泡材料尚處送樣驗證階段，未形成實質性銷售】 祥源新材公告，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日收盤價格漲幅累計偏離超過30%，屬於股票交易異常波動。經公司自查，公司目前經營正常，內外部環境未發生重大變化，不存在應披露而未披露的重大事項。公司特別提示，其生產的用於機器人壓阻感測器和壓電感測器的壓阻發泡材料（PU）、壓電發泡材料（IXPP）目前僅處於送樣驗證階段，暫未形成實質性銷售，未來是否形成收入存在重大不確定性。
-
----
-
-### 2026-07-02 18:11:59  #公司 #國際
-
-阿根廷可再生能源公司Genneia S.A.已正式向美國SEC提交了B類普通股的上市申請檔案。
-
----
-
-### 2026-07-02 18:11:43  #公司 #市場
-
-【氣派科技：股票交易異常波動 2026 年一季度仍處虧損】氣派科技公告稱，公司股票 2026 年 6 月 30 日 - 7 月 2 日連續 3 個交易日收盤價格漲幅偏離值累計超 30%，屬異常波動。經自查，公司日常經營正常，無應披露未披露重大資訊。公司正推進以簡易程式向特定物件發行 A 股股票，尚需透過上交所稽核及證監會同意註冊。2025 年營收 7.69 億元，淨虧損 7538.40 萬元；2026 年一季度營收 2.23 億元，淨虧損 372.46 萬元，整體規模小且仍處虧損。此外，公司封裝業務傳統封裝佔比高，面臨技術升級及市場迭代風險。
-
----
-
-### 2026-07-02 18:09:48  #公司 #市場 #國際
-
-【瑞銀：歐洲能源巨頭料將維持股東派息】瑞銀分析師Joshua Stone寫道，歐洲能源公司將基本保持其季度派息不變。他寫道，與上一季度相比，英國的英國石油公司應會將其股息提高4%。他表示，預計英國同行殼牌將維持其30億美元的季度回購規模，而法國的道達爾能源應會維持其15億美元的股票回購計劃。他補充說，西班牙的睿爍能源在2月份曾表示將在2026年上半年回購3.5億歐元的股票，預計該公司也將保持其回購步伐。英國石油公司股價上漲0.6%，至458.45便士。殼牌上漲0.2%，至2,879.50便士。道達爾能源上漲0.15%，至66.02歐元。睿爍能源上漲1.2%，至22.39歐元。
-
----
-
-### 2026-07-02 18:08:58  #公司
-
-【海航科技：截至2026年6月30日已累計回購479.54萬元股份】 海航科技公告，公司此前披露擬以9000萬元至1.8億元回購股份，用於員工持股計劃或股權激勵，回購價格上限不超過5.27元/股。截至2026年6月30日，公司已累計回購股份161.91萬股，佔總股本0.06%，成交最高價3.06元/股，最低價2.82元/股，已支付資金總額479.54萬元（不含交易費用）。
-
----
-
-### 2026-07-02 18:08:51  #公司 #市場 #焦點
-
-【北京君正：由於公司儲存晶片持續在漲價 預計各季度毛利率會環比有所增長】北京君正(300223.SZ)釋出投資者關係活動記錄表公告，DRAM漲價比較多，一季度國內客戶開始調價，二季度國內客戶仍在繼續漲價，同時海外客戶也陸續開始調整價格，預計二季度收入和毛利率會繼續增長；三季度價格會繼續上調，四季度的價格政策要到三季度才能確定，不過目前看四季度供應仍然較為緊張，存在繼續調價的可能性。隨著客戶用部分SRAM產品來代替DRAM方案，部分SRAM晶片二季度價格也有所上漲。NORFlash一、二季度都有漲價，漲價幅度總體來說比DRAM要小，NORFlash雖然產能也在趨緊，但比DRAM要好很多，一季度公司Flash產品線實現了很好的收入增長，其中銷量的增長佔比較大。三季度的價格是根據具體產品和具體客戶情況確定的，不一定都會調價。由於公司儲存晶片持續在漲價，預計各季度毛利率會環比有所增長。
-
----
-
-### 2026-07-02 18:07:58  #MKT News
-
-【Nanchip Technology launches high-efficiency AC-DC power platform】Nanchip Technology launched a high-efficiency AC-DC power platform built around a multi-mode PFC plus current-mode LLC digital combo controller SC3270 and high-power LLCSR controllers SC3530/SC3531. The platform targets AI compute endpoints, industrial power supplies and telecom power, enabling customers to deploy PFC+LLC+SR efficient power architectures.
-
----
-
-### 2026-07-02 18:07:26  #MKT News
-
-ENI said RH3OVA provides one-stop services covering the full lifecycle of fusion fuel, from initial feasibility studies through project deployment and operational support.
-
----
-
-### 2026-07-02 18:07:20  #MKT News #ENI.MI
-
-ENI and the UK Atomic Energy Authority (UKAEA) have formed joint venture RH3OVA to provide specialist advisory and operations services to the growing global fusion energy industry.
-
----
-
-### 2026-07-02 18:07:15  #其他
-
-【南芯科技宣佈推出高效AC-DC電源平臺方案】 今日，南芯科技宣佈推出高效AC-DC電源平臺方案，該方案由多模式PFC與電流模式LLC數字組合控制器SC3270，以及大功率LLCSR控制器SC3530/SC3531組成，面向AI算力終端、工業電源、通訊電源等應用場景，助力客戶構建PFC+LLC+SR的高效電源系統。
-
----
-
-### 2026-07-02 18:07:12  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Warren urges Fed governor Waller to halt plan to reform regional Reserve Banks】Sen. Elizabeth Warren asked Federal Reserve Governor Christopher Waller to stop efforts to overhaul operations at the Fed’s 12 regional Reserve Banks, saying Waller’s proposal appears inconsistent with federal law and could undermine the Fed’s independence. Warren noted Waller chairs the Board’s Committee on Reserve Bank Affairs and has oversight powers, but the regional Reserve Banks are established as highly autonomous entities that control their own daily operations. Warren said: “This does not look like a serious Federal Reserve reform; it looks more like a plan crafted to please President Trump, who wants more power over regional bank presidents. I ask you to stop advancing this plan immediately and provide more information to Congress.”
-
----
-
-### 2026-07-02 18:07:11  #MKT News #CNH #Impact bullish #CSI300
-
-【Four departments extend unemployment-insurance measures to stabilise and expand jobs】Four departments issued a joint notice to continue unemployment-insurance support for firms that maintain or only minimally reduce headcount, and to encourage youth hiring and skills training. Through end-2026, localities will keep implementing a job-stabilisation refund: SMEs and micro firms may receive refunds of up to 60% of the unemployment insurance contributions actually paid last year by the enterprise and its employees; large enterprises may receive refunds of up to 30%. Social organisations, law firms, accounting firms and sole proprietors insured as units are eligible under the same arrangements.
-
----
-
-### 2026-07-02 18:07:10  #央行 #國際
-
-【沃倫敦促美聯儲理事沃勒停止推進聯邦儲備銀行改革方案】美國民主黨參議員沃倫要求美聯儲理事沃勒停止其對美聯儲12家地區分行運營進行全面改革的努力。沃倫表示，沃勒提出的聯邦儲備銀行改革方案似乎與聯邦法律不符，並暗示該方案可能會削弱美聯儲的獨立性。雖然沃勒作為美聯儲理事會儲備銀行事務委員會主席擁有一定的監督權，但各地區分行被設立為高度自治的實體，可以自主控制其日常運營。沃倫稱：“與其說這是一項嚴肅的美聯儲改革方案，不如說它更像是為了取悅特朗普總統而精心策劃的，特朗普總統希望獲得更多對地區分行行長的權力。我要求您立即停止推進這項方案，並向國會提供更多資訊。”
-
----
-
-### 2026-07-02 18:06:52  #MKT News #NKE.O #Impact bearish
-
-Barclays lowers Nike (NKE.N) PT to $52 from $67.
-
----
-
-### 2026-07-02 18:06:42  #公司
-
-【中源家居：簽訂1.22億元廠房資產買賣合同】中源家居公告稱，公司於2026年7月1日分別與優格傢俱、振霄椅業、晶曜傢俱正式簽訂《資產買賣合同》，出售位於安吉縣遞鋪街道雙橋路533號的廠房資產，交易總價1.22億元。本次交易涉及不動產分割轉讓，尚需經相關政府主管部門審批，存在不確定性。交易預計將對公司財務狀況和經營成果產生積極影響，具體以年度審計結果為準。
 
 ---

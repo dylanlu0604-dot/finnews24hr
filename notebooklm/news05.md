@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-06 04:17:29_
-_本檔包含 2475 則快訊，約 507246 字_
+_更新時間：2026-07-06 05:35:50_
+_本檔包含 2487 則快訊，約 506694 字_
+
+---
+
+### 2026-07-01 04:38:17  #公司
+
+銀湖集團披露，於 6 月 26 日出售戴爾科技 16679 股 C 類普通股，成交單價區間為 392.3 美元至 401 美元。
+
+---
+
+### 2026-07-01 04:37:58  #MKT News
+
+U.S. Office of Government Ethics released the certified annual financial disclosure report for Trump.
+
+---
+
+### 2026-07-01 04:36:38  #國際
+
+美國政府道德辦公室釋出特朗普經認證的年度財務披露報告。
+
+---
+
+### 2026-07-01 04:36:06  #國際
+
+以色列總理內塔尼亞胡談及埃及：我已同埃及方面展開會談，並向其闡明瞭我方的訴求。其中部分舉措現已落地，這些都是雙方協議中明確規定必須落實的事項。我認為我們必須守護好本國邊境。力量格局向來此消彼長，一方實力衰退，便會有另一方崛起。而你們清楚，有一股力量必須保持領先他國的增長勢頭，那就是以色列。
+
+---
+
+### 2026-07-01 04:36:04  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+API: U.S. crude oil production change for week to June 26 +76,000 b/d; prior -205,000 b/d.
+
+---
+
+### 2026-07-01 04:35:54  #MKT News
+
+US refined product imports (API) for week to June 26: +213,000 b/d, prior -152,000 b/d.
+
+---
+
+### 2026-07-01 04:35:52  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Jun.26) | actual 76000M | previous -205000M
+
+---
+
+### 2026-07-01 04:35:40  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Jun.26) | actual 213000M | previous -152000M
+
+---
+
+### 2026-07-01 04:35:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API crude oil imports -180,000 barrels in week to June 26; prior +226,000 barrels.
+
+---
+
+### 2026-07-01 04:35:32  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Jun.26) | actual -180000M | previous 226000M
+
+---
+
+### 2026-07-01 04:35:24  #MKT News #Commodities #Energy
+
+U.S. API heating oil stocks rose 205,000 barrels in the week to June 26, versus a 405,000-barrel increase in the prior week.
+
+---
+
+### 2026-07-01 04:35:20  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.23% Higher — The Dow Jones Index gained 119 points or 0.23 percent on Tuesday to close at 52301 points. Gains were led by Caterpillar (2.95%), Apple (2.70%) and Nvidia (2.66%). Biggest losers were Honeywell International (-3.02%), Walt Disney (-2.33%) and J&J (-1.74%).
+
+---
+
+### 2026-07-01 04:35:17  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Jun.26) | actual 205000M | previous 405000M
+
+---
+
+### 2026-07-01 04:35:17  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API Cushing crude stocks +503,000 barrels in week to June 26; prior -982,000 barrels.
+
+---
+
+### 2026-07-01 04:35:06  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Jun.26) | actual 503000M | previous -982000M
+
+---
+
+### 2026-07-01 04:35:05  #MKT News #WTI #Impact bearish #Brent
+
+API: U.S. refined product inventories +2.922 mln bbl in week to June 26 vs -0.852 mln expected; prior +1.447 mln.
+
+---
+
+### 2026-07-01 04:34:59  #國際
+
+備忘錄顯示：在美國最高法院就出生公民權作出裁決後，美國司法部指示檢察官優先調查 “生育旅遊” 相關不法活動。
+
+---
+
+### 2026-07-01 04:34:56  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Jun.26) | actual 2922000M | consensus -852000M | previous 1447000M
+
+---
+
+### 2026-07-01 04:34:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly U.S. gasoline inventories for week to June 26: -2.106 mln bbl; expected -0.906 mln; prior +1.238 mln.
+
+---
+
+### 2026-07-01 04:34:42  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Jun.26) | actual -2106000M | consensus -906000M | previous 1238000M
+
+---
+
+### 2026-07-01 04:34:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+API: US crude inventories fell 6.072 mln barrels in the week to June 26, versus an expected draw of 4.05 mln barrels and a prior draw of 0.765 mln barrels.
+
+---
+
+### 2026-07-01 04:34:35  #焦點 #國際
+
+美國至6月26日當週API原油庫存 -607.2萬桶，預期-405萬桶，前值-76.5萬桶。
+
+---
+
+### 2026-07-01 04:34:28  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Jun.26) | actual -6072000M | consensus -4050000M | previous -765000M
+
+---
+
+### 2026-07-01 04:34:15  #其他
+
+新興市場二季度漲23%，創2009年以來最佳單季表現。
+
+---
+
+### 2026-07-01 04:33:52  #國際
+
+以色列總理內塔尼亞胡談及加沙問題：至於在加沙重建定居點一事，必須先採取行動，再進行談判。有些時候，行動與談判應當分開推進，這也是我不再就此話題多做闡述的原因。大家要明白，治國之道不只是處理國內政治事務。我無需每時每刻向全世界公開所有計劃。
+
+---
+
+### 2026-07-01 04:31:16  #公司 #國際
+
+根據美國證交會（SEC）檔案，英偉達公司股東批准一項提案，將“超級多數投票規則”改為“簡單多數投票標準”。英偉達公司股東批准關於高管薪酬的“諮詢性投票”議案。公司股東批准選舉全部10名董事候選人，任期延續至2027年年度股東大會。
+
+---
+
+### 2026-07-01 04:30:53  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+SEC filing shows NVIDIA (NVDA.O) shareholders approved the election of all 10 director nominees; terms run through the company’s 2027 annual meeting.
+
+---
+
+### 2026-07-01 04:30:44  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) shareholders approved an advisory vote on executive compensation, according to an SEC filing.
+
+---
+
+### 2026-07-01 04:30:38  #公司 #國際
+
+塞爾維亞能源部長表示，塞爾維亞境內由俄羅斯控股的尼什石油公司（NIS）獲得美國製裁豁免，豁免有效期至 7 月 31 日。
+
+---
+
+### 2026-07-01 04:30:35  #MKT News #Important
+
+Per a U.S. SEC filing, NVIDIA (NVDA.O) shareholders approved a proposal to replace the company's supermajority voting requirement with a simple majority voting standard.
+
+---
+
+### 2026-07-01 04:30:17  #MKT News
+
+【US official: Iran has not received $6 bln in frozen assets; release conditional on MOU compliance】A US government official said on Tuesday that Iran has not received any of about $6 billion in frozen US assets that Washington pledged to unlock under a memorandum of understanding aimed at bringing Tehran back to talks in Qatar. The official said no funds have been unfrozen and none will be released unless Iran meets the specific benchmarks in the MOU. While Iran seeks a lump-sum payment, the US plans small, phased direct payments to vendors as Tehran advances key negotiation areas.
+
+---
+
+### 2026-07-01 04:29:07  #MKT News
+
+Israeli Prime Minister Netanyahu said he will do everything possible to win the upcoming election.
+
+---
+
+### 2026-07-01 04:28:32  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+A US judge ruled to block a Trump administration rule that would have restricted federal student-loan forgiveness from taking effect.
+
+---
+
+### 2026-07-01 04:24:31  #MKT News
+
+【6.1-magnitude earthquake hits northern Mexico】Mexico's National Seismological Service said a magnitude-6.1 earthquake struck about 116 km southwest of Guasave in Sinaloa, northern Mexico, at 13:45 local time on June 30, with an estimated depth of roughly 5 km. No casualties have been reported.
+
+---
+
+### 2026-07-01 04:22:39  #其他
+
+【墨西哥北部發生6.1級地震】據墨西哥國家地震監測局釋出的訊息，當地時間6月30日13時45分，墨西哥北部錫那羅亞州瓜薩沃市西南方向約116公里處發生6.1級地震，震源深度約5公里。目前沒有人員傷亡的報告。（央視新聞）
+
+---
+
+### 2026-07-01 04:20:04  #MKT News #Important #Commodities #Energy #WTI #Brent
+
+API U.S. weekly crude inventories for the week to June 26 due in 10 minutes.
+
+---
+
+### 2026-07-01 04:18:38  #MKT News #NKE.O #Impact bullish
+
+Nike (NKE.N) reported Q4 revenue $10.972 bln, above market consensus $10.859 bln.
+
+---
+
+### 2026-07-01 04:17:32  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Nike earnings below expectations at 0.20 USD — Nike (NKE) released earnings per share at 0.20 USD, compared to market expectations of 0.22 USD.
+
+---
+
+### 2026-07-01 04:17:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise on Tech Rally — US stock indexes closed higher on Tuesday, supported by strength in the technology sector and easing inflation risks. The S&P 500 gained 0.8%, while the Nasdaq-100 rose 1.7%, and the Dow Jones added 137 points to close at a record high of 52,319. Chipmakers extended their rebound from last week as investors looked past recent concerns over stretched AI-related valuations, encouraged by strong guidance from semiconductor producers despite elevated hyperscaler spending. Nvidia gained 2.6%, AMD rose 7.7%, and Intel advanced 6%. Meanwhile, oil prices remained near pre-conflict levels, easing concerns that the Federal Reserve could be forced to tighten policy further. The softer inflation backdrop also supported traditional sectors, helping the Dow outperform broader benchmarks in June.
+
+---
+
+### 2026-07-01 04:16:49  #MKT News #DISH.O #Impact bearish
+
+Market sources: DISH DBS has filed for Chapter 11 bankruptcy protection and entered debt-restructuring proceedings.
+
+---
+
+### 2026-07-01 04:16:23  #其他
+
+“大空頭”Michael Burry： 做空特斯拉、英偉達和應用材料。
+
+---
+
+### 2026-07-01 04:15:23  #其他
+
+耐克第四季度營收 109.7 億美元，去年同期為 111 億美元。
+
+---
+
+### 2026-07-01 04:12:24  #公司
+
+“大空頭”Michael Burry： 首次做空卡特彼勒公司股票。
+
+---
+
+### 2026-07-01 04:11:12  #國際
+
+【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及方面訊息，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據悉，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（央視新聞）
+
+---
+
+### 2026-07-01 04:10:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Netanyahu: Israel's war 'never-ending', confrontation with Iran 'far from over'】On June 30, Israeli Prime Minister Netanyahu told Channel 14 TV that Israel has achieved "significant military successes" in recent years and is "stronger than ever," but that its fighting is "never-ending" and confronting Iran and its allies remains "a long way off." He said Israel has "successfully repelled and greatly weakened" related security threats but still must carry out follow-up military operations. Asked about possible future peace agreements, he declined to name countries, saying Israel is in contact with multiple states and that only by remaining strong will others ally and make peace.
+
+---
+
+### 2026-07-01 04:10:50  #MKT News #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #S&P500
+
+The US Magnificent Seven index fell 8.9% in June, its worst monthly performance since March 2025.
+
+---
+
+### 2026-07-01 04:09:18  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average closed up 135.07 points (+0.26%) at 52,317.81 on Tuesday, June 30; S&P 500 closed up 58.57 points (+0.79%) at 7,499.00; Nasdaq Composite closed up 393.58 points (+1.52%) at 26,213.72.
 
 ---
 
@@ -14675,215 +14957,5 @@ WTI原油日內漲2%，現報70.77美元/桶。
 ### 2026-06-29 05:36:34  #其他
 
 【香港特區政府財政司司長陳茂波：香港擔綱內地企業出海“超級轉換器”】香港特區政府財政司司長陳茂波昨日（6月28日）發表網誌表示，近期參與2026年夏季達沃斯論壇、首屆西部商業航天大會，此行實地見證東北重工業、西部硬科技雄厚產業實力，而依託“一國兩制”獨特優勢，香港正以超級聯絡人、超級增值人、超級轉換器三重功能，打通內地科創成果通往全球市場的完整通道，助力內地企業穩健出海、規模化佈局全球。（證券時報）
-
----
-
-### 2026-06-29 05:35:46  #公司 #市場
-
-【每天1300部AI短劇上線 投流成本持續攀升“堆量”難以為繼】依託飛速進步的影片生成模型和高效的智慧製作工具，國內短劇產業正迅速“AI化”。一個顯著標志是，AI短劇如今已成為行業絕對主流。 行業權威研究機構DataEye劇查查向證券時報記者提供的資料顯示，今年一季度國內全行業上線短劇約12.8萬部，其中AI短劇佔比超95%。 AI短劇產能大爆發的另一面是行業流量競爭日益加劇，流量成本持續走高。“AI短劇製作端成本大概下降了90%，但流量成本同比上漲了超過100%，與此同時，收益端下滑了50%以上。”DataEye劇查查副總裁林啟文向證券時報記者表示。 “按照一季度資料換算下來，平均每天上線超過1300部新劇。目前市場上每10部新短劇中，就有超過9部由AI參與或主導製作，行業供給結構已發生深刻轉變。”林啟文說。（證券時報）
-
----
-
-### 2026-06-29 05:34:02  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Germany's foreign minister said they held constructive talks with Israel's foreign minister on a framework agreement between Israel and Lebanon. The minister called the agreement a key step toward stability, said it must now be fully implemented, and described it as a genuine opportunity for durable de-escalation in the decades-long conflict.
-
----
-
-### 2026-06-29 05:33:05  #市場
-
-【下游需求大增 儲能企業密集簽單】儲能市場景氣度持續走高。高工產研鋰電研究所釋出的資料顯示，截至6月28日，今年上半年已有35家儲能企業對外披露訂單簽約資料，累計簽約規模約550GWh（吉瓦時）。從月度走勢看，1月份至3月份簽約體量相對平穩，4月份至6月份訂單規模直線拉昇，行業呈現供不應求的狀態。
-
----
-
-### 2026-06-29 05:32:49  #MKT News
-
-Germany's foreign minister held productive talks with the UAE deputy prime minister on Gulf security arrangements and risks posed by neighboring Iran. They said freedom of navigation in the Strait of Hormuz must not be impaired and described recent attacks on Bahrain and Kuwait as unacceptable.
-
----
-
-### 2026-06-29 05:31:58  #其他
-
-【四川高縣5.5級地震致13人受傷 均為輕微傷已送醫診療】“宜賓釋出”微信公眾號訊息，據中國地震臺網正式測定：2026年6月29日0時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。地震發生後，宜賓市抗震救災指揮部啟動地震三級應急響應。市級相關部門、縣（區）迅速行動，及時開展災情排查和救災工作。截至2026年6月29日3時30分，此次地震未造成重大人員傷亡，因災受傷13人均為輕微傷，已及時送醫診療，緊急避險轉移和安置196人。目前，抗震救災各項工作正在緊張有序進行，當地社會秩序穩定。
-
----
-
-### 2026-06-29 05:31:53  #其他
-
-英國海軍取消護衛艦建造計劃，重心轉向無人作戰裝備研發。
-
----
-
-### 2026-06-29 05:30:52  #MKT News #Market Regions #Europe & UK
-
-【China-made cooling appliances see surge in European orders amid rare heatwave】A rare European heatwave—record highs in Germany and the Czech Republic and national high-temperature warnings in Hungary and Poland—has lifted demand for air conditioners, fans and other cooling products, boosting China-origin orders via cross-border e-commerce. The international trade director of a Ningbo-based joint-stock firm, Zheng Li, said ice machine shipments to Europe from January–May rose more than 70% YoY and now account for about 15% of the company's sales.
-
----
-
-### 2026-06-29 05:30:35  #公司
-
-挪威加斯科公司：阿斯加德油田6月29日至30日發生非計劃停機，日輸氣量減少600萬立方米。
-
----
-
-### 2026-06-29 05:22:40  #其他
-
-【巴基斯坦軍方在邊境展開反恐行動 打死29名武裝分子】當地時間29日凌晨，巴基斯坦新聞與廣播部長阿陶拉·塔拉爾在社交媒體發文稱，針對近期在巴境內連續發生的多起恐怖襲擊事件，巴基斯坦安全部隊28日在巴基斯坦與阿富汗邊境地區展開了一系列針對極端武裝組織“自由人黨”的精準軍事打擊行動，共打死29名武裝分子，同時銷燬了大量武器和彈藥。據巴軍方釋出的訊息，“自由人黨”在27日晚對位於卡拉奇的巴基斯坦遊騎兵部隊營地進行了汽車炸彈襲擊，並與巴安全部隊交火，造成3名巴軍人死亡。
-
----
-
-### 2026-06-29 05:16:48  #其他
-
-【三條全球最大碳纖維產線同日投產 補齊高階材料短板】我國碳纖維產業創新發展再添里程碑。6月28日，中國建材三條世界級高效能碳纖維生產線在中復神鷹連雲港基地集中投產，覆蓋通用、高強、高模三大主流碳纖維品類。此次三條全球頂級產線集中投產，補齊國內高階碳纖維規模化產能短板，推動行業擺脫同質化規模競爭，向高階化、技術化轉型。
-
----
-
-### 2026-06-29 05:13:57  #市場 #國際
-
-【熱門賽道遭拋售！華爾街重大警告】美股“AI交易”出現裂痕。據美銀證券的最新報告，截至6月24日當週，美國股票基金流出85億美元（約合人民幣574億元），這是投資者三個月來首次從美國股市撤資。其中，科技基金錄得93億美元（約合人民幣629億元）創紀錄流出，顯示美股“AI交易”正在降溫。美銀證券警告稱，近期超大規模雲端計算商與晶片股走勢嚴重分化，若科技巨頭破位下跌將加速資金洗牌，今夏美股市場或將全面轉入避險模式。
-
----
-
-### 2026-06-29 05:13:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Netanyahu, Katz say IDF to remain in southern Lebanon "security zone" after destroying Hezbollah underground facility】On the evening of the 28th, Prime Minister Netanyahu and Defense Minister Katz said the IDF destroyed Hezbollah underground military infrastructure in Majdal Zun village in southern Lebanon. The tunnel system exceeded 200m in length and 25m in depth and contained hundreds of weapons and several launch shafts the statement said, citing intent to strike Israeli territory and civilians. Israel notified the United States in advance. The statement said IDF commanders and troops will remain in the southern Lebanon "security zone" and continue to destroy armed infrastructure and neutralize threats to northern Israeli communities.
-
----
-
-### 2026-06-29 05:13:41  #國際
-
-【以總理與防長髮表聯合宣告：以軍將繼續駐留在黎南部“安全區”】當地時間28日晚，以色列總理內塔尼亞胡與國防部長卡茨發表聯合宣告稱，以色列國防軍剛剛摧毀了位於黎巴嫩南部馬吉達勒宗村區域的黎巴嫩真主黨地下武裝基礎設施。根據宣告披露的細節，被摧毀的地下隧道長度超過200米，深度超過25米。隧道內藏有數百件武器以及數個發射井，這些設施此前意圖用於打擊以色列領土及其公民。宣告稱，在摧毀該基礎設施之前，以色列已向美國進行了提前通報。宣告表示，以軍指揮官和士兵將繼續駐留在黎巴嫩南部的“安全區”內，並將繼續摧毀武裝基礎設施、消除對以色列北部社群的威脅。（央視新聞）
-
----
-
-### 2026-06-29 05:11:32  #公司
-
-【19家A股上市公司釋出上半年業績預告 多家公司預計淨利同比增長超100%】隨著6月接近尾聲，A股2026年半年報業績預告大幕已拉開。資料顯示，截至6月28日《證券日報》記者發稿時，已有19家A股上市公司預告上半年業績，其中，恆逸石化股份有限公司（以下簡稱“恆逸石化”）、衛星化學股份有限公司（以下簡稱“衛星化學”）、杭州長川科技股份有限公司（以下簡稱“長川科技”）、惠州億緯鋰能股份有限公司（以下簡稱“億緯鋰能”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超100%，廣東銀禧科技股份有限公司（以下簡稱“銀禧科技”）、聖元環保股份有限公司（以下簡稱“聖元環保”）等上市公司預計上半年歸屬於上市公司股東的淨利潤同比增長上限超50%。
-
----
-
-### 2026-06-29 05:01:52  #其他
-
-【英國下任首相熱門人選伯納姆公佈權力下放方案，削弱倫敦集權】有望接替斯塔默出任英國首相的工黨議員伯納姆，將於週一完整闡述其治國藍圖，承諾改革英國治理模式，將權力從倫敦下放至各地方區域。伯納姆本月剛贏得議會席位、重返威斯敏斯特宮，也是目前唯一正式宣佈參選、接替斯塔默的候選人，有望在數週內入主唐寧街首相府。伯納姆因擔任大曼徹斯特市長聲名鵲起。他將在週一的演講中，把向地方社群下放權力作為核心綱領。其辦公室表示，他還將推出一項為期十年的發展規劃，透過重振工業、興建住房、完善基建、改革公用事業提升民眾生活水平；整套方案的核心不只是更換執政者，而是徹底改變英國的治理方式。他將在演講中說明如何“讓英國重回應有地位”，為國家經濟按下“止跌開關”，同時承諾改革公共採購體系，更好扶持本土就業與產業。一旦就任，伯納姆將成為十年內英國第七任首相。黨內多數人士認為，唯有他兼具個人號召力與長遠規劃，既能爭取選民認同，也能遏制奈傑爾·法拉奇主打反移民政策的英國改革黨不斷壯大。
-
----
-
-### 2026-06-29 04:58:55  #其他
-
-加拿大1比0戰勝南非。
-
----
-
-### 2026-06-29 04:52:47  #其他
-
-英國首相熱門人選伯納姆將推出一份經濟轉型十年規劃。
-
----
-
-### 2026-06-29 04:49:15  #國際
-
-伊朗國家電視臺：船舶通行霍爾木茲海峽仍需與革命衛隊協調；駛入波斯灣船隻的最安全航道位於伊朗霍爾木茲島南側；駛出波斯灣船隻的最安全航道位於伊朗拉臘克島南側。
-
----
-
-### 2026-06-29 04:49:05  #國際
-
-【美官員：美伊計劃於30日在卡達首都舉行會談】一位美國高階官員透露，美伊雙方已同意停止相互攻擊，並計劃於6月30日在卡達首都舉行會晤，以解決關於霍爾木茲海峽的爭端。另一位美國官員表示，美伊雙方將“暫時”停止敵對行動，在技術性會談繼續進行的同時，霍爾木茲海峽“船只可以自由通行”。美國官員和另外的知情人士均證實了美伊計劃於30日舉行會晤。但截至目前，美伊雙方以及當前美伊談判的調解方巴基斯坦和卡達均未作出正式說明。（央視新聞）
-
----
-
-### 2026-06-29 04:48:53  #國際
-
-伊朗外交部長：以色列從黎巴嫩撤軍並停止襲擊，這是與美國臨時協議所規定的；德黑蘭歡迎與包括伊拉克在內的阿拉伯國家就海灣安全磋商框架，並承諾擴大與巴格達新政府的雙邊關係。
-
----
-
-### 2026-06-29 04:43:55  #國際
-
-斯洛維尼亞總統娜塔莎·皮爾茨·穆薩爾稱美以對伊朗發動戰事是“一步錯棋”，並表示她認為特朗普也意識到了這一點。 她對卡達在美國與伊朗之間開展斡旋所發揮的作用表示讚許，同時警示歐盟在國際舞臺上的影響力正不斷式微。
-
----
-
-### 2026-06-29 04:43:27  #MKT News
-
-【Pakistan conducts intelligence-led ground operation along Afghanistan border, kills 29 militants】AP: Pakistani security forces on Sunday carried out an intelligence-led ground operation along the Pakistan-Afghanistan border, striking militant hideouts and killing 29 fighters, officials said. Authorities said the action responded to a series of militant attacks nationwide. A day earlier, gunmen with explosives attacked the Pakistan Rangers' regional headquarters in Karachi, killing three soldiers; security forces killed three attackers and detained another, whom the military said was an injured Afghan national. A splinter faction of the Pakistan Taliban calling itself the Free Men Party claimed responsibility for the Karachi attack.
-
----
-
-### 2026-06-29 04:39:30  #其他
-
-【基金“中考”即將收官 有望創出歷史最佳業績】還有兩個交易日，今年公募基金“中考”即將收官。目前來看，上半年基金的業績有望創出歷史最佳紀錄。
-
----
-
-### 2026-06-29 04:39:16  #其他
-
-【大眾計劃終止與博世的自動駕駛合作】德國《圖片報》報道稱，大眾與博世名為“自動駕駛聯盟”的聯合專案即將終止。此前，這份自動駕駛合作協議總規模約15億歐元。
-
----
-
-### 2026-06-29 04:37:37  #國際
-
-伊拉克總理與伊朗外長阿拉格齊討論了伊朗-美國諒解備忘錄。
-
----
-
-### 2026-06-29 04:36:34  #國際
-
-【普京：俄建議烏俄雙方均停止打擊對方領土縱深目標】當地時間6月28日，俄羅斯總統普京向媒體表示，俄方建議俄烏雙方均停止攻擊對方領土的縱深目標，否則俄方對烏縱深地區的打擊將更具威力，後果將更嚴重。普京表示，俄方不會給烏克蘭阻止俄軍前進的機會，烏方對俄羅斯基礎設施的打擊不會影響前線局勢。他還表示，目前，不排除烏方將採取分散俄方注意力的行動，烏方破壞小組會滲透到俄方控制地區，但很快就被消滅。（央視）
-
----
-
-### 2026-06-29 04:35:12  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-【Putin says Russia proposes both sides halt strikes on each other's deep targets】June 28 — Putin told media Russia has proposed that both sides stop striking each other’s deep (rear-area) targets; he warned that if such strikes continue, Russian strikes on Ukrainian depth will become more powerful and consequences more severe. He said Russia will not give Ukraine an opportunity to halt Russian advances and that Ukrainian strikes on Russian infrastructure will not alter frontline dynamics. Putin added Kyiv may undertake diversionary actions and that sabotage teams penetrating Russian-held areas are being quickly eliminated.
-
----
-
-### 2026-06-29 04:30:53  #焦點 #國際
-
-【美國官員證實：美伊雙方同意停止相互打擊，並於本週舉行會談】一名美國高階官員透露，美國與伊朗已達成協議，停止相互襲擊；雙方計劃於週二在卡達首都會面，協商霍爾木茲海峽爭端。此前停火協議生效僅11天，局勢便已岌岌可危：美伊再度發起相互打擊，特朗普總統也曾威脅重啟戰事、“徹底解決衝突”。此次衝突再起，根源在於雙方對停戰諒解備忘錄（MOU）存在解讀分歧，尤其是協議中關於霍爾木茲海峽的相關條款。一名美國高階官員表示：“我們雙方決定停止一切軍事打擊行動。”另一名美國官員透露，雙方“暫時”停火，航道船隻可自由通行，技術性談判將持續推進。
-
----
-
-### 2026-06-29 04:26:24  #其他 #焦點
-
-美伊將於週二在卡達首都多哈會面，磋商霍爾木茲海峽相關爭端。
-
----
-
-### 2026-06-29 04:23:35  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-According to Axios, US officials say the United States and Iran have agreed to halt attacks and will meet this week.
-
----
-
-### 2026-06-29 04:23:00  #焦點 #國際
-
-美國與伊朗達成共識，雙方停止相互打擊，並將於本週舉行會晤。
-
----
-
-### 2026-06-29 04:21:54  #MKT News #Important
-
-AP: Pakistan says it conducted ground operations and strikes in an area along the Afghanistan border, killing 29 militants.
-
----
-
-### 2026-06-29 04:21:53  #央行 #國際
-
-美聯儲官員巴爾金：目前還無法篤定通脹能回落至2%，居民消費旺盛、人工智慧領域投資擴張以及持續存在的定價壓力均是潛在風險。
-
----
-
-### 2026-06-29 04:21:46  #央行 #國際
-
-美聯儲官員巴爾金：通脹水平依舊過高，但已出現物價壓力有望緩解的初步跡象。
-
----
-
-### 2026-06-29 04:20:08  #央行 #國際
-
-【美聯儲巴爾金警示通脹仍處高位，但已觀察到通脹緩和跡象】里士滿聯邦儲備銀行行長湯姆·巴爾金表示，當前通脹水平過高，不過他已看到物價壓力或將很快緩和的初步訊號。巴爾金稱，截至5月的個人消費支出物價指數同比上行；若聯邦基金利率、勞動力市場無法進一步發揮抑制作用，很難有把握讓通脹回落至2%目標水平。巴爾金對企業在當前高通脹環境下的定價行為表示擔憂。他指出，企業定價時會將當下通脹水平納入考量，這可能造成通脹黏性、居高不下。
 
 ---
