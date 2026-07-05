@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-06 02:26:05",
-  "count": 13156,
+  "updated": "2026-07-06 02:29:58",
+  "count": 13154,
   "items": [
+    {
+      "id": "4971087",
+      "time": "2026-07-06 02:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：週日發生硬著陸事故的水上飛機機上共載有8人。"
+    },
     {
       "id": "mkt:019f3381-8e24-7aab-8ca4-c11b728b10fa",
       "time": "2026-07-06 02:19:16",
@@ -121256,34 +121264,6 @@
         "國際"
       ],
       "text": "特朗普：此前受損嚴重的倒影池現已全面投入使用。"
-    },
-    {
-      "id": "4959100",
-      "time": "2026-06-29 02:29:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊週日會見伊拉克總理，阿拉格齊敦促地區各國，切勿允許本國領土或設施被用於針對伊朗的襲擊行動。他表示，地區國家應阻止“侵略方”利用其領土與設施對伊朗實施“非法襲擊”，以此共同維護地區安全與和平。"
-    },
-    {
-      "id": "mkt:019f0f7c-5922-7aab-8c02-33f827d65d73",
-      "time": "2026-06-29 02:27:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "BIDU.O",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, Baidu’s Kunlun chip unit plans a Hong Kong IPO valuing the business at about $50 billion. IPO investors would be required to commit to purchasing chips equal to roughly 3–7 times their subscription amount."
-    },
-    {
-      "id": "mkt:019f0f7b-7da2-7aab-8c02-2f01fe5a9b4a",
-      "time": "2026-06-29 02:26:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media reported a security alert around Tel Aviv train station after a suspected car bomb."
     }
   ]
 }
