@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-05 22:57:28",
-  "count": 13114,
+  "updated": "2026-07-05 23:01:34",
+  "count": 13116,
   "items": [
+    {
+      "id": "4971012",
+      "time": "2026-07-05 22:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列對黎巴嫩南部的納布提亞發起空襲。"
+    },
+    {
+      "id": "mkt:019f32c8-bd48-7aab-8ca3-54a31060370d",
+      "time": "2026-07-05 22:57:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reports Israel carried out an airstrike on Nabatieh in southern Lebanon."
+    },
     {
       "id": "mkt:019f32bf-b09d-7aab-8ca3-480d3c5b5a0d",
       "time": "2026-07-05 22:47:31",
