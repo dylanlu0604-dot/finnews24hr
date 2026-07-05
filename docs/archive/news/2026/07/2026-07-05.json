@@ -1,7 +1,29 @@
 {
   "date": "2026-07-05",
-  "count": 456,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:019f31c6-1511-7aab-8ca2-41b795a996cd",
+      "time": "2026-07-05 18:14:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC+ to raise August oil production quotas by 188,000 bpd, the statement said."
+    },
+    {
+      "id": "4970947",
+      "time": "2026-07-05 18:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一份宣告顯示，7個OPEC+成員國同意將8月石油產量配額提高18.8萬桶/日。"
+    },
     {
       "id": "mkt:019f31c1-c193-7aab-8ca2-3cfd82973cc0",
       "time": "2026-07-05 18:10:09",
