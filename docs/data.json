@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-06 03:06:37",
-  "count": 13163,
+  "updated": "2026-07-06 03:10:28",
+  "count": 13159,
   "items": [
+    {
+      "id": "4971097",
+      "time": "2026-07-06 03:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國GB新聞將裁員超三分之一員工。"
+    },
     {
       "id": "4971096",
       "time": "2026-07-06 03:05:54",
@@ -121310,54 +121318,6 @@
         "國際"
       ],
       "text": "普京宣佈，俄方的任務是徹底解放頓巴斯與新俄羅斯地區。"
-    },
-    {
-      "id": "mkt:019f0fa2-f6f7-7aab-8c02-61a1de3aea16",
-      "time": "2026-06-29 03:09:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US media: US-Iran technical talks still planned in coming days】The New York Times reported a senior US official said US-Iran technical talks on implementing a memorandum of understanding are still planned in the coming days. Despite recent reciprocal strikes, the official said no meetings have been canceled and the sides are exchanging information via \"deconfliction channels\"."
-    },
-    {
-      "id": "4959109",
-      "time": "2026-06-29 03:07:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：針對俄羅斯能源基礎設施的襲擊確實引發了供應難題，這一點顯而易見。烏克蘭武裝部隊襲擊俄能源設施確實造成了燃油短缺，但目前短缺狀況尚不嚴峻。"
-    },
-    {
-      "id": "4959108",
-      "time": "2026-06-29 03:07:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "一名美國官員向阿拉伯電視臺表示，美伊之間的技術性談判正按既定日程推進。該官員稱，與伊朗的技術性談判並未取消，將於未來數日舉行。"
-    },
-    {
-      "id": "mkt:019f0fa0-d971-7aab-8c02-5f37591a6d32",
-      "time": "2026-06-29 03:07:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Putin said attacks on Russia's energy infrastructure are causing problems."
-    },
-    {
-      "id": "mkt:019f0fa0-bf24-7aab-8c02-55cfa2ffe9dd",
-      "time": "2026-06-29 03:07:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian President Putin said all damaged energy facilities are being restored rapidly and that operations retain a substantial safety margin."
     }
   ]
 }
