@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-06 02:45:20_
-_本檔包含 2422 則快訊，約 507450 字_
+_更新時間：2026-07-06 04:17:29_
+_本檔包含 2421 則快訊，約 508028 字_
+
+---
+
+### 2026-07-06 04:16:46  #其他
+
+【南蘇丹人民國防軍基地遭襲 5名士兵死亡】當地時間5日，位於上尼羅州的南蘇丹人民國防軍基地遭襲，造成5名士兵死亡。據悉，襲擊者已被擊退，其身份尚不明。南蘇丹政府對此予以譴責，稱襲擊是“為了破壞即將到來的大選”。此前南蘇丹全國選舉委員會宣佈將於今年12月22日舉行全國大選。（央視新聞）
+
+---
+
+### 2026-07-06 04:14:41  #國際
+
+石油輸出國組織（OPEC）：沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞、阿曼共七個參與國將執行每日18.8萬桶的產量調整；各方重申維護市場穩定的承諾，下一次會議定於8月2日召開。
+
+---
+
+### 2026-07-06 04:11:50  #公司
+
+【上市公司半年報披露開啟 下半年機構緊盯業績主線】7至8月，A股上市公司將陸續進入半年報業績披露期，市場交易主線逐步向景氣驗證與業績高增方向聚焦。多家公募基金認為，當前產業趨勢與產能週期位置對市場構成有力支撐，但結構性分化已充分演繹，短期風格再平衡壓力顯現，AI產業鏈的業績確定性與非AI板塊的低估修復機會並存。
+
+---
+
+### 2026-07-06 04:06:48  #國際
+
+伊朗媒體：卡達魯韋斯港與伊朗各港口間海上貿易即刻恢復通航。
+
+---
+
+### 2026-07-06 03:55:08  #MKT News
+
+【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses.
+
+---
+
+### 2026-07-06 03:53:16  #其他
+
+【委內瑞拉震後心理諮詢師工作繁重 民眾心理創傷需長期修復】委內瑞拉6月24日發生強震後，一家餐廳被改造成臨時醫療中心，來自委內瑞拉多地的醫生、護士、心理諮詢師等志願者輪班值守，為受災民眾提供免費醫療服務。相比其他疾病，民眾的心理創傷修復需要長期、持續的專業治療。（央視新聞）
+
+---
+
+### 2026-07-06 03:51:13  #國際
+
+【禁賽暫緩執行 美國隊巴洛貢將出戰世界盃16強賽】國際足聯5日宣佈，對在與波黑隊比賽中被紅牌罰下的美國隊球員福拉林·巴洛貢作出禁賽一場處罰，並暫緩一年執行。這使得這位美國隊頭號射手得以出戰與比利時隊的世界盃16強賽。（新華社）
+
+---
+
+### 2026-07-06 03:45:14  #國際
+
+特朗普：露天集會當晚七點零五分到場約42萬人，因雷擊天氣疏散人群。叫停了取消活動的安排，等待民眾折返，最終至少15萬人重回現場。
+
+---
+
+### 2026-07-06 03:43:50  #MKT News
+
+【Iran judiciary chief says US, Israel seek talks from defeat; will hold assassination suspects to account】Iran judiciary chief Mohseni-Eje'i said the US and Israel have committed unforgivable crimes in their campaign against Iran. He accused Washington of taking the initiative to seek talks with Tehran and said Israel, driven into a corner, proposed a ceasefire. Mohseni-Eje'i added Iran will hold the US and those responsible for the assassination of former Supreme Leader Khamenei to account and will not relent.
+
+---
+
+### 2026-07-06 03:42:39  #MKT News
+
+【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians.
+
+---
+
+### 2026-07-06 03:37:25  #國際
+
+【伊朗司法總監：美以求和源於潰敗 刺殺高層罪責必清算】伊朗司法總監穆赫辛尼·埃傑伊表示，美國與以色列在針對伊朗的戰事中犯下的種種罪行永難饒恕；他稱美方主動尋求與德黑蘭談判，以色列則是走投無路才提出停火。他稱：“他們如今迫於絕境，才跑來提議談判、呼籲停火。是誰主動要求談判？是美國。是誰主動要求停火？是以色列。”埃傑伊還補充，伊朗必將追究美國以及刺殺前最高領袖哈梅內伊相關責任人的罪責，對此絕不退讓。
+
+---
+
+### 2026-07-06 03:35:26  #MKT News
+
+Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing.
+
+---
+
+### 2026-07-06 03:33:12  #其他
+
+中國地震臺網正式測定：07月06日03時23分在新疆喀什地區伽師縣（北緯39.45度，東經77.49度）發生3.0級地震，震源深度26千米。
+
+---
+
+### 2026-07-06 03:29:56  #公司 #國際
+
+特朗普在真相社交平臺上誇讚Pyrotecnico煙花公司的煙花表演。
+
+---
+
+### 2026-07-06 03:07:43  #其他
+
+英國GB新聞將裁員超三分之一員工。
+
+---
+
+### 2026-07-06 03:05:54  #國際
+
+烏克蘭總統澤連斯基：情報再次顯示俄羅斯正準備發起新一輪大規模打擊。
+
+---
+
+### 2026-07-06 03:03:34  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
+
+Reuters survey: 22 of 28 economists expect the RBNZ to raise the policy rate 25bps to 2.50% on July 8.
+
+---
+
+### 2026-07-06 03:02:00  #MKT News #DXY #Impact bearish
+
+Reuters survey: After the July monetary policy meeting, 14 of 26 economists expect the RBNZ to raise rates by a further 25bps before end-September, taking the terminal policy rate to 2.75%.
+
+---
+
+### 2026-07-06 03:00:58  #MKT News
+
+【Wildfire in southern France spreads; about 10,000 ordered to evacuate】Authorities in France's Pyrénées-Orientales said a wildfire continued to spread, prompting evacuation orders affecting about 10,000 people. Officials said the blaze in the Trévillach area has burned roughly 1,650 hectares and is threatening the town of Bouleternère. Organizers said Stage 3 of the Tour de France on the 6th will go ahead with a modified route and no spectators allowed.
+
+---
+
+### 2026-07-06 03:00:47  #央行
+
+路透調查：七月貨幣政策會議後，26位經濟學家中有14位預計紐西蘭聯儲將在九月底前再加息25個基點，最終利率達到2.75%。
+
+---
+
+### 2026-07-06 03:00:42  #其他
+
+【法國南部山火持續蔓延 約1萬人被要求撤離】當地時間7月5日，法國東比利牛斯省政府表示，隨著當地山火繼續蔓延，臨近市鎮開始疏散居民。目前，受撤離措施影響的人數約1萬人。當天東比利牛斯省省長德拉莫特表示，該省特雷維拉克地區山火過火面積已擴大至約1650公頃，並正威脅布勒泰內爾市鎮。受山火持續蔓延影響，6日即將舉行的環法腳踏車賽第三賽段將按計劃進行，但賽段將作出調整，並禁止公眾現場觀賽。（央視新聞）
+
+---
+
+### 2026-07-06 03:00:30  #資料 #央行
+
+路透調查：28位經濟學家中有22位認為，紐西蘭聯儲將於7月8日將現金利率上調25個基點至2.50%。
+
+---
+
+### 2026-07-06 02:48:04  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukraine President Zelenskiy said intelligence again indicates Russia is preparing a new large-scale strike and urged people to stay safe and heed air-raid alerts.
+
+---
+
+### 2026-07-06 02:45:07  #MKT News
+
+【Trump to meet Ukrainian and Syrian leaders at NATO summit】A senior U.S. official said Trump will arrive Tuesday for the NATO summit. His first meeting will be with summit host Turkish president Erdogan. The White House said he will also meet Syrian president Shala and hold a press conference. Trump will meet Ukrainian president Zelenskiy on Wednesday to discuss ending the Russia-Ukraine war; the official said the battlefield has largely reached a stalemate and the president intends to push for a ceasefire as soon as possible. The official added Trump will urge NATO allies to increase defence spending.
 
 ---
 
@@ -14495,155 +14639,5 @@ LME inventories: aluminium down 1,500 tonnes; nickel unchanged; lead down 1,300 
 ### 2026-07-03 16:00:30  #Trading Economics #Markets #France #Stock Market #Importance 0
 
 French Stocks Hit Over 4-Month High — The CAC 40 rose 0.3% to 8,507 on Friday, extending gains from the previous session and reaching its highest level since late February, as softer-than-expected data led traders to scale back expectations for further Federal Reserve rate hikes. Recent data revealed US employment growth eased sharply in June, with revisions to the prior two months’ figures also pointing to a weaker labor market, prompting expectations that the Fed will keep rates unchanged this month and potentially through September. Meanwhile, eurozone inflation continues to move closer to price stability after easing in June, alleviating the need for immediate policy measure. Domestically, industrial production dropped 0.1% month-on-month in May 2026, better than market expectations for a 0.4% decline, but reversing a 0.3% gain in April. Notable performers included ArcelorMittal (2.4%), Edenred (2.3%), and Engie (2.1%). Over the week, the index remains on track for a weekly gain.
-
----
-
-### 2026-07-03 16:00:27  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Italy May retail sales YoY 2.2% vs. 1.7% expected; prior 1.6%.
-
----
-
-### 2026-07-03 16:00:22  #央行 #市場
-
-土耳其央行透過傳統方式進行週一交割的1週期黃金兌里拉賣方掉期拍賣，拍賣規模為8噸。
-
----
-
-### 2026-07-03 16:00:18  #公司
-
-【*ST天宜：涉3805.27萬元建設工程糾紛訴訟 結果待定】*ST天宜公告稱，公司及全資子公司綿陽天宜被北京城建集團起訴，涉建設工程施工合同糾紛，案號為(2026)川0781民初4371號。原告稱已依約施工完畢，被告尚欠付工程款3805.27萬元及違約金。案件已被法院受理，尚未開庭審理，最終判決結果不確定，無法預計對公司損益的影響。此外，公司還面臨立案調查、退市等多項風險。
-
----
-
-### 2026-07-03 16:00:12  #MKT News
-
-Italy seasonally adjusted retail sales rose 0.2% MoM in May, matching expectations of 0.2% and up from 0.0% in April.
-
----
-
-### 2026-07-03 16:00:11  #MKT News #Economic Calendar #Important
-
-Italy | Retail Sales (YoY) (May) | actual 2.2% | consensus 1.7% | previous 1.60%
-
----
-
-### 2026-07-03 16:00:10  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Eurozone June final services PMI 49.4, vs expected 48.9 and prior 48.9; remains below 50, signalling contraction in services.
-
----
-
-### 2026-07-03 16:00:08  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-Eurozone June final composite PMI 50.0; consensus 49.5, prior 49.5.
-
----
-
-### 2026-07-03 16:00:07  #資料
-
-歐元區6月服務業PMI終值 49.4，預期48.9，前值48.9。歐元區6月服務業PMI終值 49.4，預期48.9，前值48.9。
-
----
-
-### 2026-07-03 16:00:06  #MKT News #Economic Calendar #Important
-
-Italy | Retail Sales SA (MoM) (May) | actual 0.2% | consensus 0.2% | previous 0.00%
-
----
-
-### 2026-07-03 16:00:03  #市場 #焦點 #國際
-
-【提醒：因美國獨立日假期 週五美股休市一日】今年美國獨立日恰逢週六。美國股票和債券市場將於7月3日（週五）當天休市一日。芝商所（CME）旗下貴金屬、能源、外匯、美債、股指期貨合約交易提前於北京時間7月4日01：00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間7月4日01：30結束。
-
----
-
-### 2026-07-03 16:00:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Gains by 1.93% — Top commodity gainers are Natural gas (1.93%) and Natural Gas UK (0.69%). Biggest losers are Crude Oil WTI (-0.26%) and Brent Crude Oil (-0.14%).
-
----
-
-### 2026-07-03 16:00:00  #MKT News #Economic Calendar #Important
-
-Eurozone | Services PMI Final (Jun) | actual 49.4 | consensus 48.9 | previous 48.9
-
----
-
-### 2026-07-03 16:00:00  #MKT News #Economic Calendar #Important
-
-Eurozone | Composite PMI Final (Jun) | actual 50 | consensus 49.5 | previous 49.5
-
----
-
-### 2026-07-03 15:59:40  #其他
-
-義大利5月零售銷售同比 2.2%，預期 1.7%，前值 1.6%。義大利5月零售銷售環比 0.2%，預期 0.2%，前值 0%。
-
----
-
-### 2026-07-03 15:59:25  #公司
-
-【*ST高科：直接控股股東法定代表人變更為商小路】*ST高科公告稱，公司直接控股股東珠海長世芯電子科技有限公司法定代表人由曹龍變更為商小路，已完成變更登記並換髮《營業執照》，除法定代表人外，其他登記資訊未變。該事項不涉及公司股權變動，對公司經營活動無影響，不會導致公司直接控股股東、間接控股股東及實際控制人發生變化。
-
----
-
-### 2026-07-03 15:58:56  #公司 #觀點 #國際
-
-花旗策略師減持韓國綜合股價指數(KOSPI)倉位，並將亞洲新興市場評級下調至中性。
-
----
-
-### 2026-07-03 15:58:31  #公司
-
-【常青股份：控股股東部分股份解押及再質押，累計質押佔比13.01%】常青股份公告稱，7月2日，控股股東吳應宏將質押給合肥興泰科技小額貸款有限公司的1100萬股解押，佔其所持股份16.92%，佔總股本4.62%。同日，吳應宏又質押1373萬股給該公司，佔其所持股份21.12%，佔總股本5.77%，用於生產經營。截至公告日，吳應宏及其一致行動人朱慧娟累計質押3096萬股，佔總股本13.01%。控股股東質押風險可控，公司將持續關注並披露相關情況。
-
----
-
-### 2026-07-03 15:58:20  #公司
-
-【馬可波羅：公司及子公司取得4項發明專利、3項實用新型專利】馬可波羅公告稱，公司及全資子公司唯美工業園、江西唯美等，近日取得國家智慧財產權局頒發的4項發明專利證書、3項實用新型專利證書。上述專利技術涉及建築陶瓷裝備領域，應用於智慧製造方向，已在公司生產中應用，與核心技術直接相關。專利取得有利於發揮公司自主智慧財產權優勢，完善保護體系，對未來發展產生積極影響。
-
----
-
-### 2026-07-03 15:58:11  #公司
-
-【中鋁集團與力拓集團舉行工作會談】記者獲悉，7月2日，中鋁集團副總經理董建雄受董事長段向東委託，在集團總部會見力拓集團鋁業與鋰業執行長裴柯斯一行。雙方回顧了現有合作成果，就進一步深化合作、實現共贏發展進行深入交流。
-
----
-
-### 2026-07-03 15:57:43  #公司
-
-【奇瑞控股在安徽成立新公司 註冊資本1億】天眼查App顯示，7月1日，安徽盈泓創新投資有限公司成立，法定代表人為張成俊，註冊資本1億人民幣，經營範圍包括以自有資金從事投資活動、非居住房地產租賃、物業管理、企業管理諮詢等，由奇瑞控股集團有限公司全資持股。
-
----
-
-### 2026-07-03 15:57:25  #MKT News #XAUUSD #Impact bullish #DXY #DAX #Impact bearish
-
-【Russia says Finland a nuclear-strike target after Finland formally lifts nuclear-weapon ban】Deputy chairman of Russia’s Security Council Dmitry Medvedev said on July 2 on social media that Finland has become a target for Russian nuclear strikes after it lifted a ban on deploying nuclear weapons on its territory. Finland announced on March 5 it would seek to amend law to remove a comprehensive ban on importing, transporting, delivering and holding nuclear explosive devices. On June 17 Finland’s parliament approved an amendment to the Nuclear Energy Act removing prohibitions on transit of nuclear weapons and storing them in Finland for defensive purposes; the president signed the amendment on June 26 and it entered into force on July 1.
-
----
-
-### 2026-07-03 15:57:18  #其他
-
-【河北省釋出高溫紅色預警】河北省氣象臺7月3日15時45分繼續釋出高溫紅色預警訊號：預計4日白天，保定、廊坊及以南的大部分地區最高氣溫可達37～39℃，其中保定南部、石家莊、邢臺中部、邯鄲中部等地的部分地區最高氣溫可達40℃以上。請注意防範。
-
----
-
-### 2026-07-03 15:57:12  #Trading Economics #Economy #Italy #Composite PMI #Importance 1
-
-Italy Private Sector Activity Rises to 4-Month High — The S&P Global Italy Composite PMI edged up to 50.8 in June 2026 from 50.4 in May, indicating another improvement in overall business conditions. This was the highest reading since February, supported by growth in both manufacturing and services activity. New business rose for the first time in four months, with the services sector recording a stronger uptick in orders than manufacturing. However, employment growth slowed to a near-neutral level amid the fastest reduction in backlogs of work in 17 months. Inflationary pressures eased to their lowest seen since February. Input and output price inflation were higher in the manufacturing sector than in services.
-
----
-
-### 2026-07-03 15:57:01  #其他
-
-傑富瑞將英國石油目標股價從650便士下調至520便士。
-
----
-
-### 2026-07-03 15:56:24  #市場
-
-【廣期所碳酸鋰期貨及期權今日正式引入境外交易者】7月3日，廣州期貨交易所碳酸鋰期貨及期權正式開展特定品種業務，境外交易者能夠更直接的參與碳酸鋰期貨及期權交易。境外交易者可以使用外匯資金作為保證金。以外匯資金作為保證金的，以中國外匯交易中心公佈的當日人民幣匯率中間價作為其市值核定的基準價，目前廣期所規定可用於作為保證金的外匯幣種為美元，折扣率為0.95。當日閉市前外匯資金的市值先按照前一交易日中國外匯交易中心公佈的當日人民幣匯率中間價核算。每日結算時按上述規定的方法重新確定外匯資金作為保證金使用的基準價並調整折後金額。
 
 ---

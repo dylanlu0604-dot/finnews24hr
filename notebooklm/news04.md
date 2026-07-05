@@ -1,7 +1,180 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-06 02:45:20_
-_本檔包含 2412 則快訊，約 507580 字_
+_更新時間：2026-07-06 04:17:29_
+_本檔包含 2414 則快訊，約 507279 字_
+
+---
+
+### 2026-07-01 20:27:11  #國際
+
+俄羅斯諾瓦克：問題正在迅速得到解決。
+
+---
+
+### 2026-07-01 20:27:04  #焦點 #國際
+
+俄羅斯副總理諾瓦克：煉油廠物流受阻，導致燃油供應出現中斷。
+
+---
+
+### 2026-07-01 20:27:03  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+UK Maritime Trade Operations (UKMTO) reclassified an incident near Yemen as "illegal boarding".
+
+---
+
+### 2026-07-01 20:26:27  #其他
+
+英國海事貿易運營中心將葉門附近事件重新定性為非法登船。
+
+---
+
+### 2026-07-01 20:25:44  #經濟數據 #美國
+
+【美國企業6月份新增9.8萬個工作崗位 表現穩健但低於預期】6月份美國私營部門就業崗位增長依然穩健，進一步表明今年勞動力市場已趨於穩定。根據ADP Research週三釋出的資料，私營部門就業人數在前一個月增加12.2萬後，於6月增加了9.8萬。對經濟學家的調查顯示，市場預期中值為增加12萬。
+
+---
+
+### 2026-07-01 20:25:28  #其他
+
+【晶科能源簽約義大利200.3MW飛虎3地面電站訂單】近日，晶科能源與義大利清潔能源投資商正式簽署200.3MW高效元件供貨協議，全部採用飛虎3（Tiger Neo 3.0）N型TOPCon高效雙面元件，專項用於義大利南部大型地面電站建設。
+
+---
+
+### 2026-07-01 20:25:27  #國際
+
+Vertiv在馬來西亞新建工廠提升產能，以滿足亞洲地區對人工智慧和數字基礎設施日益增長的需求。
+
+---
+
+### 2026-07-01 20:25:15  #國際
+
+美國地質調查局：日本野田市以東55公里處發生5.9級地震。
+
+---
+
+### 2026-07-01 20:25:02  #其他
+
+【2028年1月起，PlayStation新遊戲將不再推出實體光碟版本】PlayStation當地時間7月1日釋出宣告稱，2028年1月起，所有在PlayStation主機上發售的新遊戲將不再推出實體光碟版本，將僅以數字版形式在PlayStation商店和零售商處發售。此次調整不會影響此前已發售或將在2028年1月前以光碟形式發售的遊戲。
+
+---
+
+### 2026-07-01 20:24:57  #央行 #國際
+
+據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。
+
+---
+
+### 2026-07-01 20:24:42  #公司
+
+【渤海租賃：控股子公司擬97.19億元購買11架A321NEO訂單飛機資產】渤海租賃公告稱，2026年6月30日（都柏林時間），公司控股子公司Avolon下屬子公司與Frontier簽署協議，購買11架A321NEO訂單飛機資產。以空客公司2018年目錄價格，飛機資產目錄價約14.25億美元，摺合人民幣約97.19億元，實際購買價以協議為準，飛機預計2026年11月至2027年6月交付。該交易不構成關聯交易、重大資產重組及借殼，已獲公司董事會審議透過，無需股東會審議及有關部門批准。
+
+---
+
+### 2026-07-01 20:23:21  #公司
+
+【華為與西北政法大學簽署合作協議】近日，華為技術有限公司（簡稱“華為”）與西北政法大學在深圳正式簽署合作協議，並開展人才培養與產教融合座談會。雙方將圍繞ICT人才培養、聯合創新、人工智慧和智慧校園四個方向開展深度合作，致力於推進學校教學、科研數字化改革，深化“人工智慧+法學”交叉學科複合型人才聯合培育，探索全域協同數智校園新模式，助力高等教育數智化轉型。
+
+---
+
+### 2026-07-01 20:23:18  #國際
+
+【特斯拉6月份在歐洲的註冊量攀升】週三公佈的資料顯示，特斯拉在多個歐洲市場的註冊量6月份出現增長，這家美國電動汽車製造商在釋出第二季度交付報告前，其歐洲地區銷量延續了復甦勢頭。據bilstatistik.dk、MobilitySweden和ANFAC資料顯示，作為銷量指標的特斯拉註冊量在丹麥增長了39%，在瑞典增長了56%，在西班牙增長了5.6%。據汽車行業組織PFA稱，在法國註冊量增長了一倍多。法國一直是特斯拉的亮點市場。ING Research高階經濟學家裡科·盧曼表示，該國的電動汽車補貼計劃以及企業車隊電動化程序的加快，推動了當地需求增長；與此同時，特斯拉也正在從去年圍繞馬斯克的爭議中恢復過來。
+
+---
+
+### 2026-07-01 20:23:13  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Sources: OPEC+ may again raise August oil output target】Three sources said on Wednesday that OPEC+ producers are set to agree at Sunday’s meeting to raise August output targets by about 188,000 bpd, matching the increases in June and July. The move would add supply as the Strait of Hormuz gradually reopens and oil prices slide. OPEC declined to comment.
+
+---
+
+### 2026-07-01 20:22:57  #國際
+
+【日本巖手縣近海發生6.0級地震】據CCTV國際時訊，日本氣象廳訊息，當地時間今天（7月1日）21時08分左右，北京時間20時08分左右，日本巖手縣附近海域發生6.0級地震，最大震感為“震度4”，震源深度40公里。無引發海嘯風險。
+
+---
+
+### 2026-07-01 20:22:49  #國際
+
+【首爾警方調查韓國隊主帥任命是否違法】韓國國家足球隊在2026年美加墨世界盃小組賽階段遭淘汰後，韓國國內質疑洪明甫被任命為國家隊主教練的聲音再起。首爾警方1日就這一任命過程中是否存在違法行為啟動調查。（新華社）
+
+---
+
+### 2026-07-01 20:22:38  #其他
+
+芬蘭航空（FINNAIR OYJ）：受米蘭機場2026年7月5日罷工影響，芬蘭航空航班可能出現執行中斷。
+
+---
+
+### 2026-07-01 20:22:03  #其他
+
+義大利全國總罷工將於2026年7月5日舉行，該事件或對芬蘭航空航班造成影響。
+
+---
+
+### 2026-07-01 20:20:58  #MKT News #Market Regions #Japan & APAC
+
+【6.0 magnitude earthquake offshore Iwate, Japan】Japan Meteorological Agency said a magnitude-6.0 earthquake struck offshore Iwate Prefecture at about 21:08 JST on July 1 (20:08 Beijing time). Maximum seismic intensity was shindo 4 and focal depth 40 km. JMA reported no tsunami risk.
+
+---
+
+### 2026-07-01 20:20:51  #MKT News #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #EURUSD
+
+【US private sector payrolls +98,000 in June; growth uneven】ADP reported US private payrolls rose 98,000 in June; private-sector wages were up 4.4% YoY. Employment gains were uneven: financial activities and information led growth, while leisure and hospitality hiring was weak for a sixth consecutive month. ADP chief economist Nela Richardson said, "The pace of hiring reflects both supply and demand. We know it is taking longer for people to find jobs, but some sectors show signs of labor supply tightness. For now, the net effect is slower employment growth."
+
+---
+
+### 2026-07-01 20:20:31  #國際
+
+【ADP：美國6月份的就業增長呈現不均衡態勢】ADP首席經濟學家Nela Richardson：招聘步伐正在呈現一個關於供給與需求的雙重敘事。人們找到工作的時間正在變長，但在某些行業也出現了勞動力供給受限的跡象。目前總體影響是就業創造正在放緩。ADP報告顯示：私營僱主在6月份新增了9.8萬個就業崗位。6月份的就業增長呈現不均衡態勢，金融和資訊行業是新增崗位的主要來源，而休閒和酒店業則連續第六個月出現招聘疲軟。6月份，留職員工的薪資增長保持穩定，中位薪資增幅為4.4%；而換工作員工的同比增長率則加速至6.6%。
+
+---
+
+### 2026-07-01 20:20:04  #MKT News
+
+European Council President COSTA said negotiations on Montenegro's EU accession could be completed before 2026.
+
+---
+
+### 2026-07-01 20:19:48  #國際
+
+歐盟科斯塔：或於2026年完成黑山入盟談判。
+
+---
+
+### 2026-07-01 20:19:33  #資料
+
+【ADP報告重要行業就業人數、薪資變化一覽】
+6月建築業就業人數增加0.2萬人，5月增加0.8萬人。
+6月製造業就業人數增加0.5萬人，5月增加0.3萬人。
+6月貿易/運輸/公用事業就業人數增加1.5萬人，5月增加3.6萬人。
+6月金融服務業就業人數增加1.4萬人，5月增加0.7萬人。
+6月專業/商業服務就業人數增加0.2萬人，5月增加1.1萬人。
+
+6月建築業就業人員薪資增速年率中值為4.6%，5月為4.5%。
+6月製造業就業人員薪資增速年率中值為4.9%，5月為4.8%。
+6月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，5月為4.4%。
+6月金融服務業就業人員薪資增速年率中值為5.1%，5月為5.1%。
+6月專業/商業服務就業人員薪資增速年率中值為4.1%，5月為4.1%。
+
+---
+
+### 2026-07-01 20:19:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+ADP report: In June, pay growth for job stayers remained steady with median wage growth of 4.4% YoY; pay growth for workers who changed jobs accelerated to 6.6% YoY.
+
+---
+
+### 2026-07-01 20:18:56  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
+
+US Private Sector Adds Less Jobs Than Expected — Private businesses in the US added 98K jobs in June 2026, below 122K in the previous month and forecasts of 113K. Financial activities and information were among the gainers, while leisure and hospitality delivered a sixth month of weak hiring. "The pace of hiring is telling a story of both supply and demand. We know it's taking people longer to find work, but there also are signs of labor supply constraints in certain industries. For now, the overall effect is a slowdown in job creation", Dr. Nela Richardson Chief Economist, ADP said
+
+---
+
+### 2026-07-01 20:18:37  #Trading Economics #Economy #Mexico #Business Confidence #Importance 1
+
+Mexico Manufacturing Confidence Improves in June — Business confidence in Mexico’s manufacturing sector rose by 0.5 points to 48.0 in June 2026 from May, improving modestly but remaining below the 50-point threshold for the 16th consecutive month. The assessment of the country’s current economic situation increased 0.5 points to 48.1, while expectations for the country’s future economic outlook rose 0.4 points to 51.8. The “right time to invest” component posted the strongest gain, climbing 2.3 points to 34.5. Meanwhile, firms’ assessment of their current economic situation slipped 0.6 points to 50.3, while expectations for their future business conditions edged down slightly by 0.1 point to 55.6.
 
 ---
 
@@ -14427,157 +14600,5 @@ The US Magnificent Seven index fell 8.9% in June, its worst monthly performance 
 ### 2026-07-01 04:09:18  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
 
 Dow Jones Industrial Average closed up 135.07 points (+0.26%) at 52,317.81 on Tuesday, June 30; S&P 500 closed up 58.57 points (+0.79%) at 7,499.00; Nasdaq Composite closed up 393.58 points (+1.52%) at 26,213.72.
-
----
-
-### 2026-07-01 04:07:08  #MKT News
-
-The U.S. added an average of 1,200 new millionaires per day last year, the Wall Street Journal reports.
-
----
-
-### 2026-07-01 04:06:07  #MKT News
-
-NYT reports U.S. officials say Washington has not released USD 6 bln in frozen Iranian funds for humanitarian supplies under the memorandum of understanding and will not unfreeze the funds until Tehran fulfils its commitments under the MOU.
-
----
-
-### 2026-07-01 04:06:04  #MKT News #Important #Market Themes #Magnificent 7 #Star Stocks #NVIDIA #Microsoft #Meta Platforms #Alphabet #Apple #Nasdaq100 #Impact bullish #S&P500 #NVDA.O
-
-【US equities 1H close: Nasdaq +12.8%; Big Seven divergence】US equities closed 1H 2026 with the Nasdaq up 12.79%, the S&P 500 up 9.5% and the Dow up 8.8%. Memory and semiconductor stocks outperformed: SanDisk (SNDK) +857% — the top S&P 500 gainer; Micron (MU) +304%, with market value surpassing $1 trillion for the first time; Intel (INTC) +278%; Western Digital (WDC) +270%. Among the seven largest tech names, Microsoft (MSFT) led declines, down more than 22%; Meta (META) -14%; Tesla (TSLA) -6%. Gains included Alphabet A (GOOGL) +14%, Apple (AAPL) +6%, Amazon (AMZN) +3% and NVIDIA (NVDA) +7%.
-
----
-
-### 2026-07-01 04:04:32  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【US dollar index up on 30th】The US dollar index rose 0.08% to 101.187 at the FX close. EUR/USD 1.1420, down from 1.1425; GBP/USD 1.3255, down from 1.3257. USD/JPY 162.62, up from 161.97; USD/CHF 0.8083, up from 0.8075; USD/CAD 1.4204, up from 1.4203; USD/SEK 9.7005, down from 9.7084.
-
----
-
-### 2026-07-01 04:04:16  #國際
-
-《紐約郵報》援引美國政府官員訊息：美方尚未釋放諒解備忘錄中規定的 60 億美元伊朗凍結資產用於人道主義物資採購，在德黑蘭兌現相關條件前不會解凍這筆資金。
-
----
-
-### 2026-07-01 04:04:02  #MKT News #S&P500 #Impact bullish #Dow #Nasdaq100
-
-In Q2, the S&P 500 rose 14.9%, the Dow gained 12.9% and the Nasdaq climbed 21.4%.
-
----
-
-### 2026-07-01 04:03:43  #其他
-
-Circle Internet收跌18%，創3月份以來最差單日表現。
-
----
-
-### 2026-07-01 04:03:40  #國際
-
-美國地質調查局：墨西哥埃爾普羅格雷索西南偏南75公里處發生6級地震。
-
----
-
-### 2026-07-01 04:03:30  #市場
-
-標普 500 指數與納斯達克指數創下 2020 年二季度以來最大季度漲幅。
-本季度，標普 500 指數上漲 14.9%，道瓊斯工業平均指數上漲 12.9%，納斯達克指數上漲 21.4%。
-本月，標普 500 指數下跌 1.1%，道瓊斯指數上漲 2.5%，納斯達克指數下跌 2.8%。
-
----
-
-### 2026-07-01 04:02:43  #市場
-
-【美元指數30日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.187。截至紐約匯市尾市，1歐元兌換1.1420美元，低於前一交易日的1.1425美元；1英鎊兌換1.3255美元，低於前一交易日的1.3257美元。1美元兌換162.62日元，高於前一交易日的161.97日元；1美元兌換0.8083瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4204加元，高於前一交易日的1.4203加元；1美元兌換9.7005瑞典克朗，低於前一交易日的9.7084瑞典克朗。
-
----
-
-### 2026-07-01 04:01:17  #公司
-
-谷歌推出面向表格資料的 TabFM 基礎大模型。
-
----
-
-### 2026-07-01 04:00:54  #MKT News #Important #Star Stocks #Apple #NVIDIA #Market Themes #Magnificent 7 #SNDK.O #Impact bullish #S&P500 #Nasdaq100
-
-【US close: major indexes up; SanDisk jumps >10%】U.S. equities closed higher Tuesday: Dow Jones +0.26%, S&P 500 +0.78%, Nasdaq +1.52%. Apple (AAPL.O) and NVIDIA (NVDA.O) rose around 2%; Micron (MU.O) nearly +1%. SpaceX (SPCX.O) +4%; SanDisk (SNDK.O) surged more than 10%. Nasdaq Golden Dragon China Index +0.63%; XPeng (XPEV.N) +3.4%.
-
----
-
-### 2026-07-01 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.26%，標普500指數漲0.78%，納指漲1.50%。閃迪漲10.72%，Axon Enterprise漲9.84%，VRT漲8.99%，科磊漲8.54%。“七姐妹”方面：蘋果漲2.59%，英偉達漲2.56%，特斯拉漲2.16%，微軟漲1.22%，谷歌漲0.61%，Meta Platforms漲0.14%，亞馬遜跌0.76%。
-
----
-
-### 2026-07-01 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.71%】Tims中國漲18.85%，禾賽科技漲15.64%，阿特斯漲8.50%，世紀互聯漲7.12%，億咖通科技漲7.50%。
-
----
-
-### 2026-07-01 03:59:47  #國際
-
-伊朗議會議長卡利巴夫：美國國內本身也存在分歧。 能明顯看到，美國國務卿魯比奧持一套立場，而副總統萬斯則持另一套截然不同的主張。
-
----
-
-### 2026-07-01 03:58:19  #國際
-
-伊朗議會議長卡利巴夫： 伊朗石油均按照布倫特原油價格及國際市場行情定價出售。
-
----
-
-### 2026-07-01 03:58:06  #MKT News #Commodities #Energy
-
-Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices.
-
----
-
-### 2026-07-01 03:56:12  #其他
-
-【委內瑞拉地震死亡人數升至1943人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯30日表示，該國日前發生的兩次強震已造成1943人死亡、10571人受傷，28380人在醫療機構和野戰醫院接受救治。
-
----
-
-### 2026-07-01 03:55:55  #Trading Economics #Economy #Colombia #Interest Rate #Importance 1
-
-Colombia Central Bank Rises Interest Rates in June — The Central Bank of Colombia raised its benchmark interest rate by 75 basis points to 12% at its June 30 meeting, tightening policy as inflationary pressures intensified. Policymakers noted that inflation continued to accelerate, with headline inflation reaching 5.8% in May and core inflation rising to 6.0%, moving further away from the bank’s 3% target. Inflation expectations also remained elevated across all horizons despite some easing in June. Economic activity showed resilience, with GDP growth accelerating to 2.2% year-on-year in the first quarter, above the 2.0% expansion in the previous quarter, while domestic demand continued to outpace output. The labor market also remained strong, with unemployment at a historically low 8.0% in May and wages rising significantly. The board said the rate hike aims to steer inflation back onto a downward path, while future policy decisions will depend on incoming data and evolving external risks.
-
----
-
-### 2026-07-01 03:55:42  #MKT News
-
-GFZ (German Research Centre for Geosciences): M5.65 earthquake in the Gulf of California.
-
----
-
-### 2026-07-01 03:54:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold turned lower, last $4,016/oz.
-
----
-
-### 2026-07-01 03:53:47  #市場 #國際
-
-【6月份兩年期美債實際收益率漲超77個基點，二季度兩年期收益率漲超35個基點】週二（6月30日）紐約尾盤，美國10年期國債收益率漲5.72個基點，重新整理日高至4.4316%，6月份持平，二季度累漲11.70個基點。兩年期美債收益率漲4.11個基點，重新整理日高至4.1455%，6月份累計上漲14.35個基點，二季度累漲35.25個基點；30年期美債收益率漲5.63個基點，重新整理日高至4.9193%，6月份累跌5.03個基點。2/10年期美債收益率利差漲1.814個基點，報+28.401個基點，6月份累跌14.132個基點。10年期通脹保值國債（TIPS）收益率漲4.72個基點，重新整理日高至2.1924%，6月份累漲16.40個基點；兩年期TIPS收益率漲5.10個基點，至重新整理日高至2.1487%，6月份累漲77.59個基點，二季度累漲160.12個基點；30年期TIPS收益率漲5.74個基點，重新整理日高至2.7482%。
-
----
-
-### 2026-07-01 03:47:52  #國際
-
-【全美最大電網面臨破紀錄高溫，緊急狀態令已下達】為應對一場可能使電力基礎設施承壓的危險熱浪，特朗普政府已宣佈全美最大的能源電網進入電力緊急狀態。美國能源部（DOE）週二釋出的緊急命令授權 PJM Interconnection LLC 地區的發電廠以最大負荷執行，並允許其超出部分環保要求。PJM 電網覆蓋 13 個州，為 6700 萬人口提供電力服務。能源部發布的第二項命令授權 PJM 地區“作為最後手段”啟用備用發電機。PJM 表示，這兩項命令的有效期均持續至紐約時間 7 月 3 日晚上 11:59。
-
----
-
-### 2026-07-01 03:44:39  #MKT News
-
-According to Axios, Iran's parliament speaker Ghalibaf said the US is internally divided, with Rubio taking one route and Vance another.
-
----
-
-### 2026-07-01 03:44:24  #Trading Economics #Economy #Brazil #Non Farm Payrolls #Importance 1
-
-Brazil Job Creation Slows in May — Brazil created 72,960 formal jobs in May 2026, below April’s 85,888, marking the lowest level of job creation in 2026 so far. The result reflected 2.21 million hires and 2.13 million layoffs during the month. In the first five months of the year, Brazil generated 767,326 formal jobs, lifting the total stock of formal employment to 47.88 million. Services led job creation with 45,655 new positions, followed by construction (+12,096), agriculture (+10,205), and industry (+4,974), while commerce was broadly flat with just 40 net jobs. Regionally, 22 of Brazil’s 27 states posted positive job balances, led by São Paulo (+18,224), Espírito Santo (+9,532), and Rio de Janeiro (+9,195). Meanwhile, the average starting salary fell to R$2,384.10 in May from R$2,402.07 in April.
 
 ---

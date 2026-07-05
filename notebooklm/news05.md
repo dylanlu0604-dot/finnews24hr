@@ -1,7 +1,159 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-06 02:45:20_
-_本檔包含 2507 則快訊，約 506917 字_
+_更新時間：2026-07-06 04:17:29_
+_本檔包含 2475 則快訊，約 507246 字_
+
+---
+
+### 2026-07-01 04:07:08  #MKT News
+
+The U.S. added an average of 1,200 new millionaires per day last year, the Wall Street Journal reports.
+
+---
+
+### 2026-07-01 04:06:07  #MKT News
+
+NYT reports U.S. officials say Washington has not released USD 6 bln in frozen Iranian funds for humanitarian supplies under the memorandum of understanding and will not unfreeze the funds until Tehran fulfils its commitments under the MOU.
+
+---
+
+### 2026-07-01 04:06:04  #MKT News #Important #Market Themes #Magnificent 7 #Star Stocks #NVIDIA #Microsoft #Meta Platforms #Alphabet #Apple #Nasdaq100 #Impact bullish #S&P500 #NVDA.O
+
+【US equities 1H close: Nasdaq +12.8%; Big Seven divergence】US equities closed 1H 2026 with the Nasdaq up 12.79%, the S&P 500 up 9.5% and the Dow up 8.8%. Memory and semiconductor stocks outperformed: SanDisk (SNDK) +857% — the top S&P 500 gainer; Micron (MU) +304%, with market value surpassing $1 trillion for the first time; Intel (INTC) +278%; Western Digital (WDC) +270%. Among the seven largest tech names, Microsoft (MSFT) led declines, down more than 22%; Meta (META) -14%; Tesla (TSLA) -6%. Gains included Alphabet A (GOOGL) +14%, Apple (AAPL) +6%, Amazon (AMZN) +3% and NVIDIA (NVDA) +7%.
+
+---
+
+### 2026-07-01 04:04:32  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【US dollar index up on 30th】The US dollar index rose 0.08% to 101.187 at the FX close. EUR/USD 1.1420, down from 1.1425; GBP/USD 1.3255, down from 1.3257. USD/JPY 162.62, up from 161.97; USD/CHF 0.8083, up from 0.8075; USD/CAD 1.4204, up from 1.4203; USD/SEK 9.7005, down from 9.7084.
+
+---
+
+### 2026-07-01 04:04:16  #國際
+
+《紐約郵報》援引美國政府官員訊息：美方尚未釋放諒解備忘錄中規定的 60 億美元伊朗凍結資產用於人道主義物資採購，在德黑蘭兌現相關條件前不會解凍這筆資金。
+
+---
+
+### 2026-07-01 04:04:02  #MKT News #S&P500 #Impact bullish #Dow #Nasdaq100
+
+In Q2, the S&P 500 rose 14.9%, the Dow gained 12.9% and the Nasdaq climbed 21.4%.
+
+---
+
+### 2026-07-01 04:03:43  #其他
+
+Circle Internet收跌18%，創3月份以來最差單日表現。
+
+---
+
+### 2026-07-01 04:03:40  #國際
+
+美國地質調查局：墨西哥埃爾普羅格雷索西南偏南75公里處發生6級地震。
+
+---
+
+### 2026-07-01 04:03:30  #市場
+
+標普 500 指數與納斯達克指數創下 2020 年二季度以來最大季度漲幅。
+本季度，標普 500 指數上漲 14.9%，道瓊斯工業平均指數上漲 12.9%，納斯達克指數上漲 21.4%。
+本月，標普 500 指數下跌 1.1%，道瓊斯指數上漲 2.5%，納斯達克指數下跌 2.8%。
+
+---
+
+### 2026-07-01 04:02:43  #市場
+
+【美元指數30日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.187。截至紐約匯市尾市，1歐元兌換1.1420美元，低於前一交易日的1.1425美元；1英鎊兌換1.3255美元，低於前一交易日的1.3257美元。1美元兌換162.62日元，高於前一交易日的161.97日元；1美元兌換0.8083瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4204加元，高於前一交易日的1.4203加元；1美元兌換9.7005瑞典克朗，低於前一交易日的9.7084瑞典克朗。
+
+---
+
+### 2026-07-01 04:01:17  #公司
+
+谷歌推出面向表格資料的 TabFM 基礎大模型。
+
+---
+
+### 2026-07-01 04:00:54  #MKT News #Important #Star Stocks #Apple #NVIDIA #Market Themes #Magnificent 7 #SNDK.O #Impact bullish #S&P500 #Nasdaq100
+
+【US close: major indexes up; SanDisk jumps >10%】U.S. equities closed higher Tuesday: Dow Jones +0.26%, S&P 500 +0.78%, Nasdaq +1.52%. Apple (AAPL.O) and NVIDIA (NVDA.O) rose around 2%; Micron (MU.O) nearly +1%. SpaceX (SPCX.O) +4%; SanDisk (SNDK.O) surged more than 10%. Nasdaq Golden Dragon China Index +0.63%; XPeng (XPEV.N) +3.4%.
+
+---
+
+### 2026-07-01 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.26%，標普500指數漲0.78%，納指漲1.50%。閃迪漲10.72%，Axon Enterprise漲9.84%，VRT漲8.99%，科磊漲8.54%。“七姐妹”方面：蘋果漲2.59%，英偉達漲2.56%，特斯拉漲2.16%，微軟漲1.22%，谷歌漲0.61%，Meta Platforms漲0.14%，亞馬遜跌0.76%。
+
+---
+
+### 2026-07-01 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.71%】Tims中國漲18.85%，禾賽科技漲15.64%，阿特斯漲8.50%，世紀互聯漲7.12%，億咖通科技漲7.50%。
+
+---
+
+### 2026-07-01 03:59:47  #國際
+
+伊朗議會議長卡利巴夫：美國國內本身也存在分歧。 能明顯看到，美國國務卿魯比奧持一套立場，而副總統萬斯則持另一套截然不同的主張。
+
+---
+
+### 2026-07-01 03:58:19  #國際
+
+伊朗議會議長卡利巴夫： 伊朗石油均按照布倫特原油價格及國際市場行情定價出售。
+
+---
+
+### 2026-07-01 03:58:06  #MKT News #Commodities #Energy
+
+Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices.
+
+---
+
+### 2026-07-01 03:56:12  #其他
+
+【委內瑞拉地震死亡人數升至1943人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯30日表示，該國日前發生的兩次強震已造成1943人死亡、10571人受傷，28380人在醫療機構和野戰醫院接受救治。
+
+---
+
+### 2026-07-01 03:55:55  #Trading Economics #Economy #Colombia #Interest Rate #Importance 1
+
+Colombia Central Bank Rises Interest Rates in June — The Central Bank of Colombia raised its benchmark interest rate by 75 basis points to 12% at its June 30 meeting, tightening policy as inflationary pressures intensified. Policymakers noted that inflation continued to accelerate, with headline inflation reaching 5.8% in May and core inflation rising to 6.0%, moving further away from the bank’s 3% target. Inflation expectations also remained elevated across all horizons despite some easing in June. Economic activity showed resilience, with GDP growth accelerating to 2.2% year-on-year in the first quarter, above the 2.0% expansion in the previous quarter, while domestic demand continued to outpace output. The labor market also remained strong, with unemployment at a historically low 8.0% in May and wages rising significantly. The board said the rate hike aims to steer inflation back onto a downward path, while future policy decisions will depend on incoming data and evolving external risks.
+
+---
+
+### 2026-07-01 03:55:42  #MKT News
+
+GFZ (German Research Centre for Geosciences): M5.65 earthquake in the Gulf of California.
+
+---
+
+### 2026-07-01 03:54:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold turned lower, last $4,016/oz.
+
+---
+
+### 2026-07-01 03:53:47  #市場 #國際
+
+【6月份兩年期美債實際收益率漲超77個基點，二季度兩年期收益率漲超35個基點】週二（6月30日）紐約尾盤，美國10年期國債收益率漲5.72個基點，重新整理日高至4.4316%，6月份持平，二季度累漲11.70個基點。兩年期美債收益率漲4.11個基點，重新整理日高至4.1455%，6月份累計上漲14.35個基點，二季度累漲35.25個基點；30年期美債收益率漲5.63個基點，重新整理日高至4.9193%，6月份累跌5.03個基點。2/10年期美債收益率利差漲1.814個基點，報+28.401個基點，6月份累跌14.132個基點。10年期通脹保值國債（TIPS）收益率漲4.72個基點，重新整理日高至2.1924%，6月份累漲16.40個基點；兩年期TIPS收益率漲5.10個基點，至重新整理日高至2.1487%，6月份累漲77.59個基點，二季度累漲160.12個基點；30年期TIPS收益率漲5.74個基點，重新整理日高至2.7482%。
+
+---
+
+### 2026-07-01 03:47:52  #國際
+
+【全美最大電網面臨破紀錄高溫，緊急狀態令已下達】為應對一場可能使電力基礎設施承壓的危險熱浪，特朗普政府已宣佈全美最大的能源電網進入電力緊急狀態。美國能源部（DOE）週二釋出的緊急命令授權 PJM Interconnection LLC 地區的發電廠以最大負荷執行，並允許其超出部分環保要求。PJM 電網覆蓋 13 個州，為 6700 萬人口提供電力服務。能源部發布的第二項命令授權 PJM 地區“作為最後手段”啟用備用發電機。PJM 表示，這兩項命令的有效期均持續至紐約時間 7 月 3 日晚上 11:59。
+
+---
+
+### 2026-07-01 03:44:39  #MKT News
+
+According to Axios, Iran's parliament speaker Ghalibaf said the US is internally divided, with Rubio taking one route and Vance another.
+
+---
+
+### 2026-07-01 03:44:24  #Trading Economics #Economy #Brazil #Non Farm Payrolls #Importance 1
+
+Brazil Job Creation Slows in May — Brazil created 72,960 formal jobs in May 2026, below April’s 85,888, marking the lowest level of job creation in 2026 so far. The result reflected 2.21 million hires and 2.13 million layoffs during the month. In the first five months of the year, Brazil generated 767,326 formal jobs, lifting the total stock of formal employment to 47.88 million. Services led job creation with 45,655 new positions, followed by construction (+12,096), agriculture (+10,205), and industry (+4,974), while commerce was broadly flat with just 40 net jobs. Regionally, 22 of Brazil’s 27 states posted positive job balances, led by São Paulo (+18,224), Espírito Santo (+9,532), and Rio de Janeiro (+9,195). Meanwhile, the average starting salary fell to R$2,384.10 in May from R$2,402.07 in April.
 
 ---
 
@@ -14733,348 +14885,5 @@ AP: Pakistan says it conducted ground operations and strikes in an area along th
 ### 2026-06-29 04:20:08  #央行 #國際
 
 【美聯儲巴爾金警示通脹仍處高位，但已觀察到通脹緩和跡象】里士滿聯邦儲備銀行行長湯姆·巴爾金表示，當前通脹水平過高，不過他已看到物價壓力或將很快緩和的初步訊號。巴爾金稱，截至5月的個人消費支出物價指數同比上行；若聯邦基金利率、勞動力市場無法進一步發揮抑制作用，很難有把握讓通脹回落至2%目標水平。巴爾金對企業在當前高通脹環境下的定價行為表示擔憂。他指出，企業定價時會將當下通脹水平納入考量，這可能造成通脹黏性、居高不下。
-
----
-
-### 2026-06-29 04:14:38  #MKT News
-
-Israel's prime minister's office said a destroyed underground tunnel contained hundreds of weapons and several rocket-launch platforms.
-
----
-
-### 2026-06-29 04:14:35  #MKT News
-
-Israel's prime minister's office said Israeli forces will remain stationed in the security zone in southern Lebanon.
-
----
-
-### 2026-06-29 04:14:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Israeli Prime Minister's Office said the military will continue to destroy Hezbollah infrastructure and eliminate threats to northern Israeli towns.
-
----
-
-### 2026-06-29 04:13:40  #其他 #焦點
-
-美聯社：巴基斯坦稱對阿富汗邊境地區發動了襲擊。
-
----
-
-### 2026-06-29 04:12:21  #國際
-
-以色列：以色列國防軍將繼續留在黎巴嫩南部安全區。
-
----
-
-### 2026-06-29 04:10:14  #國際
-
-特朗普：國際足聯給出的各項資料遠超歷史上任何一屆世界盃。這是對美國莫大的褒獎。感謝所有人。
-
----
-
-### 2026-06-29 04:07:32  #國際
-
-以色列：真主黨地道藏有數百件武器。
-
----
-
-### 2026-06-29 04:05:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli prime minister's office said Israel notified the United States in advance that it would carry out strikes against Hezbollah.
-
----
-
-### 2026-06-29 04:04:56  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran official: Iran absent from US‑Iran technical talks on the 28th citing recent attacks and unmet conditions】An Iranian official said Tehran did not attend the technical talks scheduled on the 28th, citing recent attacks and failure to meet related conditions. US sources said renewed clashes between the US and Iran have stalled plans to resume US‑Iran technical talks in Switzerland this week.
-
----
-
-### 2026-06-29 04:04:53  #國際
-
-【伊朗官員：受遭襲事件影響 伊方缺席28日的美伊技術性談判】一位伊朗官員稱，伊朗未參加原定於當天舉行的技術性談判，原因是“近期發生的襲擊事件以及未能滿足相關條件”。另據美國方面當天訊息，有知情人士稱，由於美伊兩國再次發生衝突，原定於本週在瑞士恢復美伊技術性談判的計劃陷入停滯。（央視新聞）
-
----
-
-### 2026-06-29 04:04:22  #國際
-
-以色列總理辦公室：以色列已在襲擊前告知美國。
-
----
-
-### 2026-06-29 04:03:11  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-The Israeli prime minister's office said the Israeli military destroyed underground Hezbollah infrastructure in a village in southern Lebanon.
-
----
-
-### 2026-06-29 04:03:10  #國際
-
-以色列總理辦公室稱，以色列軍方摧毀了黎巴嫩南部一個村莊內真主黨的地下基礎設施。
-
----
-
-### 2026-06-29 03:58:44  #國際
-
-普京：所謂“安克雷奇會晤”從未形成任何正式官方檔案。雙方沒有簽署任何書面文書，但當時我們探討了結束烏克蘭衝突的若干可行方案，以及各方正在考量的妥協條款。這些妥協方案正是美方提交給我們的內容。美方談判人員擬定了一系列讓步條件，要求我們接受。而我們當時同意作出這些讓步。
-
----
-
-### 2026-06-29 03:55:04  #其他
-
-【委內瑞拉強震致中國公民8人遇難 1人失聯】中國駐委內瑞拉大使館通報，截至委內瑞拉當地時間28日15時，據不完全統計，已確認有8名中國公民在委內瑞拉6月24日發生的地震中遇難，1名中國公民失聯，其他人員身份尚在核實。（央視新聞）
-
----
-
-### 2026-06-29 03:43:33  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Putin said Ukraine has proposed halting mutual attacks on each other's territory.
-
----
-
-### 2026-06-29 03:43:28  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Putin said on a Ukrainian proposal that Russia has no plans to save the Kyiv regime.
-
----
-
-### 2026-06-29 03:43:23  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Putin said Russia's primary objective is to liberate the Donbass and "Novorossiya", including the Kherson and Zaporizhzhia regions.
-
----
-
-### 2026-06-29 03:43:18  #國際
-
-普京：烏克蘭提議雙方停火、互不襲擊對方領土。
-
----
-
-### 2026-06-29 03:42:28  #國際
-
-普京：我們的核心任務是解放頓巴斯與“新俄羅斯”，這其中包括赫爾松州和扎波羅熱州。
-
----
-
-### 2026-06-29 03:42:20  #國際
-
-普京：烏克蘭已提出將戰事限制在頓涅茨克、盧甘斯克、赫爾松與扎波羅熱四個地區。
-
----
-
-### 2026-06-29 03:42:15  #國際
-
-普京就烏克蘭相關提議表態：我們無意挽救基輔政權。
-
----
-
-### 2026-06-29 03:40:01  #MKT News #Important #WTI #Impact bullish #XAUUSD
-
-Iranian state television quoted Iranian officials saying Iran did not attend technical talks scheduled for Sunday, citing recent attacks and unmet conditions.
-
----
-
-### 2026-06-29 03:37:46  #焦點 #國際
-
-伊朗官員：因近期遭遇襲擊且相關條件未得到滿足，伊朗未參加原定於週日舉行的技術性會談。
-
----
-
-### 2026-06-29 03:37:21  #市場
-
-悉尼早盤交易中，美元兌G10主要貨幣匯率呈現區間震盪。
-
----
-
-### 2026-06-29 03:36:01  #國際
-
-【特朗普稱將與民主黨熱門華盛頓特區市長候選人會面】美國總統特朗普表示，他計劃會見珍妮絲·劉易斯·喬治，後者在華盛頓特區市長民主黨初選中勝出。特朗普在社交平臺發文稱：“我將會見珍妮絲·劉易斯·喬治，但我必須提醒所有人，華盛頓特區要重新變回安全、體面的城區。”特朗普並未透露會面具體時間。
-
----
-
-### 2026-06-29 03:32:41  #MKT News
-
-【Grenade attack on police checkpoint in Pakistan's Quetta injures six】Pakistani police said on the 29th a grenade attack on a police checkpoint in Quetta, Balochistan, on the night of the 28th wounded six people, including two policemen. Security forces were immediately dispatched to the scene.
-
----
-
-### 2026-06-29 03:32:28  #其他
-
-【巴基斯坦一警方檢查站發生手榴彈襲擊事件 6人受傷】巴基斯坦警方當地時間29日通報，巴基斯坦俾路支省奎達市一警方檢查站28日夜間發生一起手榴彈襲擊事件，造成包括2名警察在內的六人受傷。襲擊發生後，大批巴安全部隊隨即趕赴現場。（央視新聞）
-
----
-
-### 2026-06-29 03:28:41  #國際
-
-美國地質調查局：菲律賓卡圖代西北偏西68公里處發生5.0級地震。
-
----
-
-### 2026-06-29 03:26:37  #其他
-
-【國際清算銀行警告全球經濟面臨多重壓力】總部設於瑞士巴塞爾的國際清算銀行當地時間28日釋出報告稱，當前全球經濟增長面臨多重壓力，包括人工智慧熱潮或難持續、金融體系存在脆弱性、公共財政緊張以及通脹上行等。
-
----
-
-### 2026-06-29 03:25:20  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-Russian President Putin urged oil refineries to accelerate maintenance and for fuel imports to be arranged promptly.
-
----
-
-### 2026-06-29 03:25:16  #MKT News
-
-Putin said the immediate priority is to increase production of air-defense systems to protect Russian infrastructure from attacks.
-
----
-
-### 2026-06-29 03:25:10  #MKT News #Commodities #Energy
-
-Putin said fuel stocks in Crimea are sufficient to last several days and that supplies will be secured.
-
----
-
-### 2026-06-29 03:25:03  #宏觀 #國際
-
-【白宮擔憂英國難兌現國防開支承諾 新首相或將推遲達標時間表】美國白宮方面擔憂英國無法兌現將國防開支提升至國內生產總值5%的承諾，有官員警告稱，部分歐洲盟友當初為迎合特朗普許下了“虛假承諾”。此番擔憂產生之際，安迪·伯納姆即將接替基爾·斯塔默出任英國首相。儘管伯納姆已釋放訊號表示支援增加國防開支，但英國政府即將出臺的國防計劃預計會推遲設定國防開支達到國內生產總值3%的時間表。
-
----
-
-### 2026-06-29 03:24:18  #國際
-
-普京：克里米亞燃料儲備可維持數日，供應將得到保障。
-
----
-
-### 2026-06-29 03:24:15  #國際
-
-普京：首要任務是提高防空系統產量，以保護基礎設施免遭襲擊。
-
----
-
-### 2026-06-29 03:24:07  #國際
-
-普京：煉油廠應加快檢修進度，同時應落實燃油進口安排。
-
----
-
-### 2026-06-29 03:24:04  #國際
-
-普京：受損設施正快速恢復重建。
-
----
-
-### 2026-06-29 03:23:35  #市場 #國際
-
-美國部分頭部債券基金經理將五年期美國國債視作平穩度過凱文·沃什執政初期的最優配置標的。
-
----
-
-### 2026-06-29 03:15:46  #國際
-
-普京：基輔當局要為其在庫爾斯克地區犯下的罪行付出代價，俄方將奪取一片土地，用來修建安全緩衝區。
-
----
-
-### 2026-06-29 03:15:28  #國際
-
-普京：基輔方面提出一項提議，希望將軍事行動範圍限定在四個地區，即頓涅茨克、盧甘斯克、扎波羅熱與赫爾松。此舉能讓烏克蘭武裝部隊把其他戰線的兵力調往上述四地。在烏軍兵員緊缺的當下，這一提議無異於給基輔當局一條喘息生路。但保全基輔當局，不在我們的計劃之內。
-
----
-
-### 2026-06-29 03:14:42  #MKT News
-
-Putin said Ukraine's armed forces want to limit military operations to four regions to enable troop redeployment.
-
----
-
-### 2026-06-29 03:13:47  #其他
-
-大眾汽車計劃終止與博世的自動駕駛合作專案。
-
----
-
-### 2026-06-29 03:11:37  #國際
-
-普京宣佈，俄方的任務是徹底解放頓巴斯與新俄羅斯地區。
-
----
-
-### 2026-06-29 03:09:25  #MKT News #Important
-
-【US media: US-Iran technical talks still planned in coming days】The New York Times reported a senior US official said US-Iran technical talks on implementing a memorandum of understanding are still planned in the coming days. Despite recent reciprocal strikes, the official said no meetings have been canceled and the sides are exchanging information via "deconfliction channels".
-
----
-
-### 2026-06-29 03:07:55  #國際
-
-普京：針對俄羅斯能源基礎設施的襲擊確實引發了供應難題，這一點顯而易見。烏克蘭武裝部隊襲擊俄能源設施確實造成了燃油短缺，但目前短缺狀況尚不嚴峻。
-
----
-
-### 2026-06-29 03:07:42  #焦點 #國際
-
-一名美國官員向阿拉伯電視臺表示，美伊之間的技術性談判正按既定日程推進。該官員稱，與伊朗的技術性談判並未取消，將於未來數日舉行。
-
----
-
-### 2026-06-29 03:07:07  #MKT News #WTI #Impact bullish #Brent
-
-Putin said attacks on Russia's energy infrastructure are causing problems.
-
----
-
-### 2026-06-29 03:07:00  #MKT News #WTI #Impact bearish #Brent
-
-Russian President Putin said all damaged energy facilities are being restored rapidly and that operations retain a substantial safety margin.
-
----
-
-### 2026-06-29 03:06:36  #國際
-
-普京表示，俄羅斯的燃油短缺問題並不嚴峻。
-
----
-
-### 2026-06-29 03:06:32  #MKT News
-
-Putin said Russia's fuel shortage is not serious.
-
----
-
-### 2026-06-29 03:05:20  #國際
-
-特朗普：將會見珍妮絲·劉易斯·喬治。
-注：後者為美國華盛頓特區4區市議員，正在參選華盛頓特區市長，民調大幅領先民主黨初選對手，主打平價住房、育兒普惠、控租金，政策立場與特朗普完全對立。
-
----
-
-### 2026-06-29 02:52:10  #國際
-
-埃及內閣週日宣佈，埃及已批准四家國有企業參與政府私有化計劃的初步登記。
-
----
-
-### 2026-06-29 02:50:01  #國際
-
-特朗普：全新高爾夫球場改造工程將於9月1日動工。
-
----
-
-### 2026-06-29 02:46:31  #MKT News
-
-Trump said he was determined to build one of the world’s greatest golf courses in Washington and open it to the public.
-
----
-
-### 2026-06-29 02:45:50  #國際
-
-特朗普：一定會在華盛頓建成世界頂級高爾夫球場之一，並且該球場將對公眾開放。
-
----
-
-### 2026-06-29 02:45:27  #MKT News
-
-President Trump said the Lincoln Memorial Reflecting Pool is fully back in service after sustaining significant damage.
 
 ---

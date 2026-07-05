@@ -1,7 +1,218 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-06 02:45:20_
-_本檔包含 3026 則快訊，約 507213 字_
+_更新時間：2026-07-06 04:17:29_
+_本檔包含 3033 則快訊，約 507348 字_
+
+---
+
+### 2026-07-02 18:06:21  #MKT News
+
+【Shengmei Semiconductor Equipment (Shanghai) ECP plating equipment reaches 2,000‑chamber mass delivery】Shengmei Semiconductor Equipment (Shanghai) Co., Ltd. said it has begun mass production and batch delivery of ECP plating equipment totaling 2,000 chambers as of June 2026. The company placed its first Ultra ECP AP device for advanced packaging customer validation in 2017, entered front‑end IC manufacturing in 2019, surpassed 500 chambers delivered in 2022 and 1,500 chambers in 2025.
+
+---
+
+### 2026-07-02 18:06:15  #其他
+
+【Meta出租算力類似以舊養新 而不是停止追逐高階算力】Meta正在籌劃開展出租算力的雲端計算業務：一類是把部署在自身AI基礎設施上的模型能力開放給外部客戶，另一類是出租更底層的“裸算力”。但目前看，真實情況更傾向於是：Meta在把存量老舊算力做現金流回收，而不是停止追逐高階算力。6月中下旬，Meta被報道已與Crusoe簽約，擬從Texas和Missouri州的兩個資料中心獲取合計約1.6GW的AI計算容量。同時，Meta 26Q1仍把全年資本開支指引上調到1250-1450億美元。兩件事放在一起看，更像是不同代際、不同用途的資源再配置：繼續買新卡訓練前沿模型，但舊卡（如H系列）用於推理大流量產品、託管外部模型等應用場景的，可以接受出租一部分，但這並不代表會放緩購買最緊缺的高階卡。
+
+---
+
+### 2026-07-02 18:05:52  #公司
+
+【聯亞藥業創業板IPO定於7月9日上會】深圳證券交易所上市稽核委員會定於2026年7月9日召開2026年第41次上市稽核委員會審議會議，審議的發行人南通聯亞藥業股份有限公司（首發）。
+
+---
+
+### 2026-07-02 18:04:59  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+WTI crude near-month spread flipped into contango for the first time since November last year.
+
+---
+
+### 2026-07-02 18:04:36  #公司
+
+英國原子能管理局（UKAEA）與埃尼集團成立合資企業，為核聚變能源領域提供專業技術服務。
+
+---
+
+### 2026-07-02 18:04:31  #公司 #焦點
+
+【永和股份：預計2026年上半年淨利潤同比增長69.51%到102.68%】永和股份公告，預計2026年上半年淨利潤為4.6億元到5.5億元，同比增長69.51%到102.68%。報告期內，製冷劑行業受配額管理政策約束，供給端有序收緊，同時下游需求端持續回暖，整體供需格局進一步最佳化，市場競爭秩序持續改善，主要製冷劑產品價格維持高位執行。公司積極把握行業景氣機遇，充分發揮產業鏈一體化優勢，科學統籌生產排布與市場銷售節奏，實現製冷劑板塊營收與毛利的穩步提升。
+
+---
+
+### 2026-07-02 18:04:26  #公司
+
+【浙江自然：2025年年度利潤分配擬向全體股東每10股派發現金紅利1.42元（含稅）】 浙江自然公告，2025年年度利潤分配擬向全體股東每10股派發現金紅利1.42元（含稅）不變，擬發放現金紅利總額由2008.99萬元（含稅）調整為2000.02萬元（含稅）。
+
+---
+
+### 2026-07-02 18:04:20  #國際
+
+印度鐵路 6 月貨運量同比增長 4%。
+
+---
+
+### 2026-07-02 18:04:17  #公司
+
+【ST能特：回購專用賬戶3427萬股被司法凍結】ST能特公告稱，公司近日查詢到回購專用證券賬戶3427萬股被福建省泉州市中級人民法院司法凍結，佔該賬戶持股比例38.47%，佔公司總股本1.38%，凍結起始日為2026年7月1日，解凍日期為2029年6月29日。截至6月30日，公司累計回購股份8908.20萬股，佔總股本3.60%。本次凍結存在被司法拍賣、劃轉風險，將影響公司登出回購股份程序，但不會導致控制權變更及對日常經營造成重大影響。
+
+---
+
+### 2026-07-02 18:04:04  #公司
+
+【盛美上海ECP電鍍裝置實現2000腔規模化批次交付】 記者獲悉，盛美半導體裝置（上海）股份有限公司（簡稱“盛美上海”）今日宣佈，公司迎來了重要里程碑——盛美上海ECP電鍍裝置2000腔正式出機、批次交付。自2017年首臺Ultra ECP ap裝置進入先進封裝客戶驗證、2019年成功切入前道IC製造，盛美上海電鍍業務穩步提速，先後在2022年突破500腔、2025年突破1500腔交付規模，並於2026年6月正式邁入2000腔量產交付新階段。
+
+---
+
+### 2026-07-02 18:04:00  #市場 #觀點 #國際
+
+摩根大通恢復對On Holding的覆蓋，給予增持評級，該股在美國上市的股票盤前上漲1.7%。
+
+---
+
+### 2026-07-02 18:03:43  #公司 #國際
+
+VEON集團與萬事達卡達成合作，將在烏克蘭、哈薩克、巴基斯坦、烏茲別克拓展金融服務業務。
+
+---
+
+### 2026-07-02 18:03:34  #公司
+
+【吉祥航空：東航產投持股比例被動增加至12.00%】 吉祥航空公告，公司回購登出股份已於2026年7月3日完成，總股本由21.84億股變更為21.69億股。持股5%以上股東東方航空產業投資有限公司在股份數量不變的情況下，持股比例由11.92%被動增加至12.00%，觸及1%整數倍情形。本次權益變動不會導致公司控股股東及實際控制人發生變化。
+
+---
+
+### 2026-07-02 18:03:31  #公司
+
+蒙特利爾銀行資本市場將霍尼韋爾航空航天部門目標股價定為每股276.00美元。
+
+---
+
+### 2026-07-02 18:03:17  #公司
+
+【南通聯亞藥業股份有限公司首發申請7月9日上會】深圳證券交易所上市稽核委員會發布2026年第41次審議會議公告。深圳證券交易所上市稽核委員會定於2026年7月9日召開2026年第41次上市稽核委員會審議會議。審議南通聯亞藥業股份有限公司的首發申請。
+
+---
+
+### 2026-07-02 18:03:10  #公司
+
+【山東鋼鐵：副總經理擬不低於30萬元增持公司股份】 山東鋼鐵(600022)7月2日公告，副總經理王培文7月2日透過上海證券交易所集中競價交易系統以自有資金增持公司股份9.5萬股，增持金額12.07萬元。計劃自2026年7月2日起6個月內，透過上海證券交易所集中競價交易系統以自有資金增持公司股份，擬增持金額不低於30萬元（含2026年7月2日已增持金額）。
+
+---
+
+### 2026-07-02 18:03:03  #宏觀 #焦點
+
+【四部門延續實施失業保險穩崗擴崗政策舉措】
+近日，人力資源社會保障部、教育部、財政部、國家稅務總局四部門聯合印發《關於失業保險支援企業穩崗擴崗的通知》，支援企業穩定崗位，積極吸納青年就業，助力提升職業技能。
+
+至2026年底，對不裁員、少裁員的參保企業，各地將繼續實施穩崗返還政策，中小微企業按不超過企業及其職工上年度實際繳納失業保險費的60%返還、大型企業按照不超過30%返還；社會組織、律師事務所、會計師事務所以及以單位形式參保的個體工商戶參照實施。最佳化“免申即享”經辦模式，主動推送確認領取及政策資訊。
+
+延續實施一次性擴崗補助政策，對招用畢業年度及離校兩年內未就業高校畢業生、16—24歲登記失業青年的企業和社會組織按每吸納1人不超過1500元的標準發放補助資金。
+
+同時，各地還將最佳化技能提升補貼政策，繼續放寬技能提升補貼政策參保年限並拓寬受益範圍。參保職工或領取失業保險金人員取得職業種類與所在企業行業類別一致、數字和綠色職業、列入當地急需緊缺職業（工種）目錄等級證書之一的可申領1次技能提升補貼，取得多項急需緊缺職業（工種）證書的，可再額外增加2次補貼次數，更好地服務企業崗位需求、市場就業需要和地區產業發展需要。（央視新聞）
+
+---
+
+### 2026-07-02 18:02:28  #公司 #市場
+
+【*ST賽為：股票交易異常波動 提示多項風險】*ST賽為公告稱，6月30日至7月2日，公司股票收盤價漲幅偏離值累計達36.54%，屬異常波動。公司核查後表示，前期資訊無更正補充，近期經營及環境無重大變化，不存在應披露未披露事項或籌劃中重大事項，異常波動期間控股股東、實控人未買賣股票。此外，公司提示多項風險，包括進入重整程式、被終止上市、投資協議履約等不確定性，提醒投資者謹慎投資。
+
+---
+
+### 2026-07-02 18:02:24  #其他
+
+【湖南省應急管理廳煙花爆竹安全監督管理處處長姜洲接受審查調查】據“三湘風紀”訊息，湖南省應急管理廳煙花爆竹安全監督管理處處長姜洲涉嫌嚴重違紀違法，主動投案，目前正接受湖南省紀委監委駐省應急管理廳紀檢監察組紀律審查和邵陽市監委監察調查。
+
+---
+
+### 2026-07-02 18:02:02  #其他 #焦點
+
+西得克薩斯輕質原油近月價差轉為升水，為去年 11 月以來首次。
+
+---
+
+### 2026-07-02 18:01:44  #其他
+
+HYPERSCALE DATA購入67枚比特幣，使其比特幣國庫總量達到約849枚。
+
+---
+
+### 2026-07-02 18:01:26  #其他
+
+瑞銀將潘多拉目標價上調至757丹麥克朗，原目標價為470丹麥克朗。
+
+---
+
+### 2026-07-02 18:01:16  #國際
+
+歐洲自由貿易聯盟（EFTA）成員國表示，已完成與越南全面自由貿易協定的談判。
+
+---
+
+### 2026-07-02 18:01:11  #其他
+
+愛爾蘭第一季度最終GDP同比下降13%，初步資料顯示為下降17.1%。
+
+---
+
+### 2026-07-02 18:00:54  #市場 #國際
+
+泰國 SET 指數收盤上漲 0.3%，報 1593.56 點。
+
+---
+
+### 2026-07-02 18:00:48  #市場 #國際
+
+印度SENSEX指數臨時收盤上漲 0.7%，報 77449.86 點。
+
+---
+
+### 2026-07-02 18:00:34  #MKT News
+
+EFTA member states said they have completed negotiations on a comprehensive free trade agreement with Vietnam.
+
+---
+
+### 2026-07-02 18:00:21  #市場 #國際
+
+印度 NIFTY 指數收盤暫漲 0.7%，報 24166.90 點。
+
+---
+
+### 2026-07-02 17:59:57  #公司 #市場 #央行 #國際
+
+【三菱日聯：歐元區收益率下降及增長疲軟拖累歐元】三菱日聯銀行的Lee Hardman表示，近期歐元區政府債券收益率的下降和歐元區經濟增長的疲軟，是導致歐元在短期內走弱的原因。他說，歐元區兩年期國債收益率在6月18日觸及2.83%的峰值後，已下跌30個基點。這一收益率降幅“遠大於同期英國和美國利率市場的降幅“。他表示，與此同時，利率市場對歐洲央行今年將進一步加息的信心有所下降。倫敦證券交易所集團的資料顯示，歐元跌至0.8548英鎊的一年低點。歐元兌美元上漲0.3%，至1.1414美元，上週曾觸及1.1324美元的一年低點。
+
+---
+
+### 2026-07-02 17:59:41  #公司 #市場
+
+【ST華揚：股票交易異常波動 不存在應披露未披露事項】ST華揚公告稱，公司股票於2026年6月30日、7月1日、7月2日連續三個交易日內日收盤價格漲幅偏離值累計超過12%，屬於異常波動情形。經自查及向控股股東、實控人核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項，未發現影響股價的媒體報道、市場傳聞等。提醒投資者注意交易風險。
+
+---
+
+### 2026-07-02 17:59:31  #其他
+
+【重慶南彭至廣州國際港X9739次新線首發】7月2日，一列滿載化工品的X9739次班列從重慶南彭站平穩駛出，奔赴廣州國際港，標誌著重慶至粵港澳大灣區再添一條穩定高效的貨運物流大通道，為渝粵兩地產業貿易協同、區域經濟聯動發展注入全新動能。 7月1日0時，全國鐵路正式實施2026年第三季度列車執行圖。作為本次調圖重慶片區重點新增貨運專線，南彭站至廣州國際港X9739次大灣區多式聯運班列全新上線。該班列實行常態化穩定運營，固定每週開行兩列，主要承載渝南地區精細化工產品、工業生產原料等重點貨源。班列直達粵港澳大灣區核心物流樞紐廣州國際港，可快速銜接港口航運資源，實現鐵海聯運無縫對接、物流全程一體化作業，大幅提升貨物中轉運輸效率。 此次X9739次新線首發，有效補強了既有班列運力，打通了西南製造業出海的流通鏈路。該線路依託大運量、低成本、高時效的鐵路運輸優勢，將充分釋放重慶南部產業叢集的外銷優勢，打通灣區優質產業資源入渝通道。（新華社）
+
+---
+
+### 2026-07-02 17:59:17  #其他
+
+西班牙IBEX35指數日內漲幅達1.00%。
+
+---
+
+### 2026-07-02 17:59:13  #其他
+
+【DeepSeek服務中斷約一小時後恢復】今日下午16:40左右，DeepSeek服務狀態頁面顯示網頁/API效能異常。17:50左右，狀態頁面顯示，本次問題已解決，服務已恢復。
+
+---
+
+### 2026-07-02 17:59:05  #MKT News #Macro & Rates #US Economy #S&P500 #Impact mixed #DXY #US10Y
+
+【S&P 500 poised as market awaits US nonfarm payrolls】S&P 500 is consolidating ahead of Thursday's US nonfarm payrolls, with traders eyeing dip-buying, a triangle-pattern risk and a possible move toward 7,600. Wednesday's session was volatile after some front-running ahead of the print. Consensus expects +114k jobs and a 4.3% unemployment rate. Analysts say any sell-off during Thursday trading—unless payrolls show an unusually strong beat—would be a buy-on-dip opportunity. Market focus will be on how actual data compare with expectations; an in-line print could be uneventful, confirming continued US economic activity and leaving short-term pullbacks as potential buying opportunities.
 
 ---
 
@@ -18047,178 +18258,5 @@ UK Maritime Trade Operations said vessels that were illegally boarded near Yemen
 ### 2026-07-01 20:27:22  #MKT News #WTI #Brent
 
 Novak, Russia's deputy prime minister, said logistics disruptions at oil refineries have disrupted fuel supplies and that the issue is being resolved rapidly.
-
----
-
-### 2026-07-01 20:27:11  #國際
-
-俄羅斯諾瓦克：問題正在迅速得到解決。
-
----
-
-### 2026-07-01 20:27:04  #焦點 #國際
-
-俄羅斯副總理諾瓦克：煉油廠物流受阻，導致燃油供應出現中斷。
-
----
-
-### 2026-07-01 20:27:03  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UK Maritime Trade Operations (UKMTO) reclassified an incident near Yemen as "illegal boarding".
-
----
-
-### 2026-07-01 20:26:27  #其他
-
-英國海事貿易運營中心將葉門附近事件重新定性為非法登船。
-
----
-
-### 2026-07-01 20:25:44  #經濟數據 #美國
-
-【美國企業6月份新增9.8萬個工作崗位 表現穩健但低於預期】6月份美國私營部門就業崗位增長依然穩健，進一步表明今年勞動力市場已趨於穩定。根據ADP Research週三釋出的資料，私營部門就業人數在前一個月增加12.2萬後，於6月增加了9.8萬。對經濟學家的調查顯示，市場預期中值為增加12萬。
-
----
-
-### 2026-07-01 20:25:28  #其他
-
-【晶科能源簽約義大利200.3MW飛虎3地面電站訂單】近日，晶科能源與義大利清潔能源投資商正式簽署200.3MW高效元件供貨協議，全部採用飛虎3（Tiger Neo 3.0）N型TOPCon高效雙面元件，專項用於義大利南部大型地面電站建設。
-
----
-
-### 2026-07-01 20:25:27  #國際
-
-Vertiv在馬來西亞新建工廠提升產能，以滿足亞洲地區對人工智慧和數字基礎設施日益增長的需求。
-
----
-
-### 2026-07-01 20:25:15  #國際
-
-美國地質調查局：日本野田市以東55公里處發生5.9級地震。
-
----
-
-### 2026-07-01 20:25:02  #其他
-
-【2028年1月起，PlayStation新遊戲將不再推出實體光碟版本】PlayStation當地時間7月1日釋出宣告稱，2028年1月起，所有在PlayStation主機上發售的新遊戲將不再推出實體光碟版本，將僅以數字版形式在PlayStation商店和零售商處發售。此次調整不會影響此前已發售或將在2028年1月前以光碟形式發售的遊戲。
-
----
-
-### 2026-07-01 20:24:57  #央行 #國際
-
-據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。
-
----
-
-### 2026-07-01 20:24:42  #公司
-
-【渤海租賃：控股子公司擬97.19億元購買11架A321NEO訂單飛機資產】渤海租賃公告稱，2026年6月30日（都柏林時間），公司控股子公司Avolon下屬子公司與Frontier簽署協議，購買11架A321NEO訂單飛機資產。以空客公司2018年目錄價格，飛機資產目錄價約14.25億美元，摺合人民幣約97.19億元，實際購買價以協議為準，飛機預計2026年11月至2027年6月交付。該交易不構成關聯交易、重大資產重組及借殼，已獲公司董事會審議透過，無需股東會審議及有關部門批准。
-
----
-
-### 2026-07-01 20:23:21  #公司
-
-【華為與西北政法大學簽署合作協議】近日，華為技術有限公司（簡稱“華為”）與西北政法大學在深圳正式簽署合作協議，並開展人才培養與產教融合座談會。雙方將圍繞ICT人才培養、聯合創新、人工智慧和智慧校園四個方向開展深度合作，致力於推進學校教學、科研數字化改革，深化“人工智慧+法學”交叉學科複合型人才聯合培育，探索全域協同數智校園新模式，助力高等教育數智化轉型。
-
----
-
-### 2026-07-01 20:23:18  #國際
-
-【特斯拉6月份在歐洲的註冊量攀升】週三公佈的資料顯示，特斯拉在多個歐洲市場的註冊量6月份出現增長，這家美國電動汽車製造商在釋出第二季度交付報告前，其歐洲地區銷量延續了復甦勢頭。據bilstatistik.dk、MobilitySweden和ANFAC資料顯示，作為銷量指標的特斯拉註冊量在丹麥增長了39%，在瑞典增長了56%，在西班牙增長了5.6%。據汽車行業組織PFA稱，在法國註冊量增長了一倍多。法國一直是特斯拉的亮點市場。ING Research高階經濟學家裡科·盧曼表示，該國的電動汽車補貼計劃以及企業車隊電動化程序的加快，推動了當地需求增長；與此同時，特斯拉也正在從去年圍繞馬斯克的爭議中恢復過來。
-
----
-
-### 2026-07-01 20:23:13  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Sources: OPEC+ may again raise August oil output target】Three sources said on Wednesday that OPEC+ producers are set to agree at Sunday’s meeting to raise August output targets by about 188,000 bpd, matching the increases in June and July. The move would add supply as the Strait of Hormuz gradually reopens and oil prices slide. OPEC declined to comment.
-
----
-
-### 2026-07-01 20:22:57  #國際
-
-【日本巖手縣近海發生6.0級地震】據CCTV國際時訊，日本氣象廳訊息，當地時間今天（7月1日）21時08分左右，北京時間20時08分左右，日本巖手縣附近海域發生6.0級地震，最大震感為“震度4”，震源深度40公里。無引發海嘯風險。
-
----
-
-### 2026-07-01 20:22:49  #國際
-
-【首爾警方調查韓國隊主帥任命是否違法】韓國國家足球隊在2026年美加墨世界盃小組賽階段遭淘汰後，韓國國內質疑洪明甫被任命為國家隊主教練的聲音再起。首爾警方1日就這一任命過程中是否存在違法行為啟動調查。（新華社）
-
----
-
-### 2026-07-01 20:22:38  #其他
-
-芬蘭航空（FINNAIR OYJ）：受米蘭機場2026年7月5日罷工影響，芬蘭航空航班可能出現執行中斷。
-
----
-
-### 2026-07-01 20:22:03  #其他
-
-義大利全國總罷工將於2026年7月5日舉行，該事件或對芬蘭航空航班造成影響。
-
----
-
-### 2026-07-01 20:20:58  #MKT News #Market Regions #Japan & APAC
-
-【6.0 magnitude earthquake offshore Iwate, Japan】Japan Meteorological Agency said a magnitude-6.0 earthquake struck offshore Iwate Prefecture at about 21:08 JST on July 1 (20:08 Beijing time). Maximum seismic intensity was shindo 4 and focal depth 40 km. JMA reported no tsunami risk.
-
----
-
-### 2026-07-01 20:20:51  #MKT News #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #EURUSD
-
-【US private sector payrolls +98,000 in June; growth uneven】ADP reported US private payrolls rose 98,000 in June; private-sector wages were up 4.4% YoY. Employment gains were uneven: financial activities and information led growth, while leisure and hospitality hiring was weak for a sixth consecutive month. ADP chief economist Nela Richardson said, "The pace of hiring reflects both supply and demand. We know it is taking longer for people to find jobs, but some sectors show signs of labor supply tightness. For now, the net effect is slower employment growth."
-
----
-
-### 2026-07-01 20:20:31  #國際
-
-【ADP：美國6月份的就業增長呈現不均衡態勢】ADP首席經濟學家Nela Richardson：招聘步伐正在呈現一個關於供給與需求的雙重敘事。人們找到工作的時間正在變長，但在某些行業也出現了勞動力供給受限的跡象。目前總體影響是就業創造正在放緩。ADP報告顯示：私營僱主在6月份新增了9.8萬個就業崗位。6月份的就業增長呈現不均衡態勢，金融和資訊行業是新增崗位的主要來源，而休閒和酒店業則連續第六個月出現招聘疲軟。6月份，留職員工的薪資增長保持穩定，中位薪資增幅為4.4%；而換工作員工的同比增長率則加速至6.6%。
-
----
-
-### 2026-07-01 20:20:04  #MKT News
-
-European Council President COSTA said negotiations on Montenegro's EU accession could be completed before 2026.
-
----
-
-### 2026-07-01 20:19:48  #國際
-
-歐盟科斯塔：或於2026年完成黑山入盟談判。
-
----
-
-### 2026-07-01 20:19:33  #資料
-
-【ADP報告重要行業就業人數、薪資變化一覽】
-6月建築業就業人數增加0.2萬人，5月增加0.8萬人。
-6月製造業就業人數增加0.5萬人，5月增加0.3萬人。
-6月貿易/運輸/公用事業就業人數增加1.5萬人，5月增加3.6萬人。
-6月金融服務業就業人數增加1.4萬人，5月增加0.7萬人。
-6月專業/商業服務就業人數增加0.2萬人，5月增加1.1萬人。
-
-6月建築業就業人員薪資增速年率中值為4.6%，5月為4.5%。
-6月製造業就業人員薪資增速年率中值為4.9%，5月為4.8%。
-6月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，5月為4.4%。
-6月金融服務業就業人員薪資增速年率中值為5.1%，5月為5.1%。
-6月專業/商業服務就業人員薪資增速年率中值為4.1%，5月為4.1%。
-
----
-
-### 2026-07-01 20:19:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-ADP report: In June, pay growth for job stayers remained steady with median wage growth of 4.4% YoY; pay growth for workers who changed jobs accelerated to 6.6% YoY.
-
----
-
-### 2026-07-01 20:18:56  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
-
-US Private Sector Adds Less Jobs Than Expected — Private businesses in the US added 98K jobs in June 2026, below 122K in the previous month and forecasts of 113K. Financial activities and information were among the gainers, while leisure and hospitality delivered a sixth month of weak hiring. "The pace of hiring is telling a story of both supply and demand. We know it's taking people longer to find work, but there also are signs of labor supply constraints in certain industries. For now, the overall effect is a slowdown in job creation", Dr. Nela Richardson Chief Economist, ADP said
-
----
-
-### 2026-07-01 20:18:37  #Trading Economics #Economy #Mexico #Business Confidence #Importance 1
-
-Mexico Manufacturing Confidence Improves in June — Business confidence in Mexico’s manufacturing sector rose by 0.5 points to 48.0 in June 2026 from May, improving modestly but remaining below the 50-point threshold for the 16th consecutive month. The assessment of the country’s current economic situation increased 0.5 points to 48.1, while expectations for the country’s future economic outlook rose 0.4 points to 51.8. The “right time to invest” component posted the strongest gain, climbing 2.3 points to 34.5. Meanwhile, firms’ assessment of their current economic situation slipped 0.6 points to 50.3, while expectations for their future business conditions edged down slightly by 0.1 point to 55.6.
 
 ---
