@@ -1,7 +1,26 @@
 {
   "date": "2026-07-05",
-  "count": 202,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:019f2fc4-f373-7aab-8ca0-2b5aadf075e6",
+      "time": "2026-07-05 08:54:24",
+      "tags": [
+        "MKT News",
+        "0753.HK",
+        "Impact mixed",
+        "0670.HK"
+      ],
+      "text": "【Domestic route fuel surcharge cut from July 5, 2026; up to 50 yuan per segment】Air China, China Eastern, China Southern and other carriers said fuel surcharges on domestic tickets sold from July 5, 2026 (inclusive) will be reduced: segments up to 800 km will carry a 50 yuan fuel surcharge per segment (down 30 yuan); segments over 800 km will carry a 100 yuan fuel surcharge per segment (down 50 yuan)."
+    },
+    {
+      "id": "4970756",
+      "time": "2026-07-05 08:53:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：川崎重工與豐田正分別研發氫燃料發電機和氫動力跑車，氫內燃機由此成為燃料電池的低成本替代方案。"
+    },
     {
       "id": "4970755",
       "time": "2026-07-05 08:51:03",
