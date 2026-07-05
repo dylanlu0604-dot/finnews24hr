@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-05 21:23:13",
-  "count": 13116,
+  "updated": "2026-07-05 21:27:06",
+  "count": 13117,
   "items": [
+    {
+      "id": "mkt:019f3275-5116-7aab-8ca2-f25f6b70a0ab",
+      "time": "2026-07-05 21:26:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Israeli Prime Minister Netanyahu today refused to comply with a Supreme Court ruling. The move is the first such occurrence in Israeli history and sharply escalates the constitutional crisis ahead of October's election."
+    },
     {
       "id": "4970992",
       "time": "2026-07-05 21:13:40",
