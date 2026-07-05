@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06 00:19:31",
-  "count": 13149,
+  "updated": "2026-07-06 00:23:19",
+  "count": 13147,
   "items": [
     {
       "id": "mkt:019f3311-9a68-7aab-8ca4-1e5e557ef50a",
@@ -121213,22 +121213,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is scheduled to speak in ten minutes."
-    },
-    {
-      "id": "mkt:019f0f08-c3d8-7aab-8c01-a081969ad86d",
-      "time": "2026-06-29 00:21:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Approx. magnitude-5.5 quake near Gao County, Yibin, Sichuan】cenc automatic determination: 2026-06-29 00:12 — an approximately magnitude-5.5 earthquake occurred in Gao County, Yibin, Sichuan. Final parameters subject to the formal rapid report."
-    },
-    {
-      "id": "4959066",
-      "time": "2026-06-29 00:20:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川宜賓市高縣附近發生5.5級左右地震】據中國地震臺網自動測定：2026年6月29日0時12分在四川宜賓市高縣（北緯28.50度，東經104.70度）發生5.5級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
