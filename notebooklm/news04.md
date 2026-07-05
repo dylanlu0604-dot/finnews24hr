@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-05 08:10:06_
-_本檔包含 2533 則快訊，約 506856 字_
+_更新時間：2026-07-05 10:18:57_
+_本檔包含 2563 則快訊，約 507779 字_
+
+---
+
+### 2026-07-01 17:55:04  #公司
+
+【ST萃華：副總經理熊躍東因個人原因辭職】ST萃華公告，公司董事會收到副總經理熊躍東先生的書面辭職申請，因個人原因辭去副總經理職務，辭職後不再擔任公司任何職務。
+
+---
+
+### 2026-07-01 17:54:38  #公司 #央行 #國際
+
+【標準銀行建議做空歐元兌紐西蘭元】十國集團外匯策略主管史蒂文・巴羅在研報中寫道：紐西蘭儲備銀行仍存在持續加息動力，而歐洲央行的緊縮週期或將放緩，標準銀行建議投資者佈局歐元兌紐西蘭元走空。巴羅建議在 2.0080 點位建立歐元兌紐西蘭元空頭頭寸，止損位設定在 2.07。該行同時認為澳大利亞儲備銀行與紐西蘭儲備銀行的利率走勢將出現分化，建議在 1.2140 點位做空澳元兌紐西蘭元，止損位 1.24。本週，隨著各國通脹資料陸續公佈、中東和平談判取得進展，歐洲央行官員一改此前強硬加息論調，措辭趨於緩和。歐洲央行官員在辛特拉年度研討會上對歐洲經濟前景表達了相對樂觀的看法，令市場交易員難以判斷央行下一步政策動向。利率互換市場定價顯示，市場預期至 12 月央行累計加息 23 個基點，較週一高點 27 個基點有所回落。部分銀行預測歐元明年可能跌至 1.10 美元。數月前形勢恰好相反，當時歐元一度突破 1.20 美元，創近五年新高，歐洲政策制定者還在擔憂本幣過強。
+
+---
+
+### 2026-07-01 17:54:30  #其他
+
+【中國駐克賴斯特徹奇總領館再次提醒旅新中國公民：請自駕遊客務必注意行車安全】7月1日上午，南島SH94公路距米爾福德峽灣30公里處附近發生一起交通事故，造成二名中國公民受傷。（環球網）
+
+---
+
+### 2026-07-01 17:53:36  #MKT News #Market Regions #Emerging Markets
+
+Pakistan's KSE-100 index rose 2%.
+
+---
+
+### 2026-07-01 17:53:07  #其他
+
+巴基斯坦KSE-100指數上升2%，至183,684點。
+
+---
+
+### 2026-07-01 17:52:53  #公司 #國際
+
+【以軍前總參謀長宣佈參選 挑戰內塔尼亞胡】以色列正直黨領導人、前國防軍總參謀長加迪·埃森科特6月30日正式宣佈啟動議會競選活動。民調顯示，正直黨支援率直逼總理本雅明·內塔尼亞胡領導的利庫德集團。（新華社）
+
+---
+
+### 2026-07-01 17:52:17  #公司
+
+【華能新能源在河南成立新公司 註冊資本100萬】天眼查App顯示，近日，華能新能源發展（河南）有限公司成立，法定代表人為劉秀航，註冊資本100萬人民幣，經營範圍包括合同能源管理、風力發電技術服務、太陽能發電技術服務等，由華能新能源股份有限公司全資持股。
+
+---
+
+### 2026-07-01 17:51:33  #國際
+
+【特朗普對美墨加協定態度冷淡，2萬億美元貿易面臨不確定性】隨著官員們著手審查由美國總統特朗普在首個任期內簽署的《美墨加協定》，這項全面貿易協定失效的倒計時即將開啟。《美墨加協定》於六年前生效，是支撐三國間每年近2萬億美元貿易往來的基石。該協定涵蓋了從墨西哥鋼鐵到加拿大牛奶等各類商品，並制定了詳盡的規則，涉及汽車製造、投資者保護、智慧財產權、數字服務等多個領域。然而，該協定也設有明確的期限。與前身《北美自由貿易協定》不同，《美墨加協定》包含一項條款，規定三國須從今年起就協定的續期問題展開磋商。無論是否進行修訂，除非獲得重新授權，否則該協定將於2036年失效。
+
+---
+
+### 2026-07-01 17:51:18  #Trading Economics #Economy #Greece #Unemployment Rate #Importance 1
+
+Greece Jobless Rate Hits Over 17-Year Low — The seasonally adjusted unemployment rate in Greece fell to 8.1% in May 2026 from a downwardly revised 9.1% in the previous month, marking the lowest level since November 2008. The number of unemployed individuals fell by 48.0 thousand from a month earlier to an over seventeen-year low of 383.7 thousand and decreased by 29.6 thousand year-on-year. Unemployment remained significantly higher among women than men, with the rate at 11.7% for women and 5.0% for men. Meanwhile, the number of people outside the labour force, those under 75 who are neither employed nor actively seeking work rose by 25.1 thousand month-on-month to 2,980 thousand but declined by 24.6 thousand year-on-year. The total otal number of employed persons increased by 18.7 thousand from the prior month to 4,353 thousand.
+
+---
+
+### 2026-07-01 17:50:43  #公司
+
+【華亞智慧：股票交易異常波動 提醒投資者注意風險】華亞智慧公告稱，公司股票於2026年6月29日、6月30日、7月1日連續3個交易日漲幅偏離值累計超20%，屬異常波動。經核查，公司經營正常，內外部環境未變，不存在應披露未披露重大事項，控股股東和實控人在此期間未買賣公司股票。此外，冠鴻智慧未完成2025年業績承諾，2024年股權激勵計劃公司層面業績考核未達標，後續將登出對應股份；“華亞轉債”處於提前贖回階段，7月8日收市後停止轉股，預計公司股票數量近期將快速增加。
+
+---
+
+### 2026-07-01 17:50:30  #公司
+
+【銘科精技：累計回購10.09萬股，佔公司總股本的0.07%】銘科精技公告，截至2026年6月30日，公司累計透過回購專用證券賬戶以集中競價交易方式回購公司股份數量10.09萬股，佔公司總股本的0.07%，最高成交價為20.34元/股，最低成交價為19元/股，成交總金額為199.84萬元（不含交易費用）。
+
+---
+
+### 2026-07-01 17:50:21  #MKT News #Market Themes #The Trump Trade
+
+【Trump's cool stance clouds USMCA renewal, $2 trillion in annual trade faces uncertainty】Officials have begun reviewing the United States–Mexico–Canada Agreement (USMCA), triggering a countdown to the pact’s potential expiry. Signed by President Trump in his first term and in force for six years, the USMCA underpins nearly $2 trillion of annual trade between the three countries and sets detailed rules across autos, investment protection, intellectual property, digital services and goods from Mexican steel to Canadian dairy. Unlike NAFTA, the treaty contains a sunset clause requiring the parties to begin renewal talks this year; unless reauthorized it will lapse in 2036.
+
+---
+
+### 2026-07-01 17:49:59  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Iran speaker says military readiness necessary for talks】On June 30, Iran’s parliament speaker and chief negotiator Mohammad Bagher Ghalibaf said Tehran will uphold the memorandum of understanding but is prepared for war if the US does not implement agreed terms. Ghalibaf described negotiating with the US as dealing with an untrustworthy adversary and said only by being ready for war can Iran negotiate effectively. He also rejected claims that unfrozen Iranian funds would be limited to purchases of US agricultural goods, saying that is inaccurate and that under the memorandum Iran has the right to freely allocate thawed funds.
+
+---
+
+### 2026-07-01 17:49:35  #公司 #市場
+
+【瑞銀：阿斯麥可能再次上調預期】瑞銀分析師在給客戶的一份報告中寫道，阿斯麥在7月15日公佈第二季度業績時，可能會再次上調今年的展望。這家荷蘭半導體制造裝置供應商預計今年銷售額在360億至400億歐元之間。分析師表示，隨著對晶片製造裝置的需求不斷增長，該集團可能會將其預期上調至該區間的上限，或者可能略高於該區間。阿斯麥預計毛利率在51%至53%之間，毛利率是衡量定價能力和盈利能力的一個備受關注的指標。分析師表示，他們認為有向該區間上限適度上調的空間。阿斯麥股價上漲0.5%，報1,729歐元。
+
+---
+
+### 2026-07-01 17:48:52  #公司 #市場
+
+【四會富仕：股價異常波動 2026年一季度營收同比增41.23%】四會富仕公告稱，2026年6月29日至7月1日，公司股票收盤價漲幅偏離值累計超30%，屬異常波動。2025年度營收同比增36.69%，扣非淨利潤降6.8%；2026年一季度營收同比增41.23%，扣非淨利潤增15.24%，增幅不及營收。2026年向特定物件發行A股預案正推進，能否實施尚不確定。公司經營正常，未發現應披露未披露事項，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 17:48:46  #公司 #市場
+
+【銳捷網路：股票交易異常波動 不存在應披露未披露事項】銳捷網路公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日內日收盤價格漲幅偏離值累計超30%，屬異常波動。核查顯示，公司前期披露資訊無需更正補充，近期經營及環境無重大變化，公司及控股股東無應披露未披露重大事項，控股股東未買賣公司股票。受AI產業發展預期催化，通訊行業交換機板塊股價整體上行。提醒投資者理性看待熱點，注意投資風險。
+
+---
+
+### 2026-07-01 17:48:38  #公司
+
+【*ST納川：第三次提示公司股票可能被終止上市風險】*ST納川公告稱，公司2025年度利潤總額、淨利潤等為負，扣除後營收低於1億元，期末淨資產為-1.48億元，2024、2025年度內控審計報告為否定意見，2025年度審計報告為保留意見，自2026年4月29日起被實施退市風險警示。若2026年年度報告觸及相關情形，公司股票將被終止上市。公司已採取多項整改措施，但退市風險警示及其他風險警示尚未消除，提醒投資者注意風險。
+
+---
+
+### 2026-07-01 17:48:31  #公司
+
+【宇新股份：股東倪毓蓓減持計劃期限屆滿 減持14.84萬股】宇新股份公告稱，公司股東倪毓蓓計劃於2026年4月1日至6月30日，透過集中競價交易減持不超374.7987萬股（不超剔除回購專用賬戶股份後總股本的1%）。截至6月30日，減持計劃期限屆滿，倪毓蓓累計減持14.84萬股，佔公司總股本的0.04%。減持後，倪毓蓓持股1348.585萬股，佔總股本3.55%。本次減持不會導致公司控制權變更，不影響公司治理結構及未來持續經營。
+
+---
+
+### 2026-07-01 17:47:38  #資料 #市場 #央行 #國際
+
+【油價回落 歐元區通脹放緩幅度超預期】隨著中東和平程序取得進展，推動全球油價下跌，歐元區通脹降溫程度超過預期。歐盟統計局週三公佈的資料顯示，歐元區6月份消費者價格指數(CPI)同比上升2.8%，升幅低於前月的3.2%。這一增幅也低於彭博調查中經濟學家的預期中值3.0%。剔除食品和能源等波動較大專案的核心通脹降溫幅度也超過預期，而備受關注的服務業通脹率則降至3.2%。儘管通脹資料有所回落，貨幣市場仍認為歐洲央行最早到9月加息25個基點的機率超過50%，並且市場幾乎已完全消化了年底前加息的預期。德國國債跌幅有所收窄。10年期收益率上漲2個基點至2.88%，低於此前盤中觸及的2.90%高點。歐洲央行正在權衡，上個月實施的加息（自2023年以來的首次加息）是否足以遏制美伊戰爭所引發的通脹壓力。6月份通脹資料已經顯示，歐元區三大經濟體的消費者價格漲幅均低於預期，其中法國通脹率甚至大幅回落至歐洲央行2%的目標水平。不過，歐洲央行決策者敦促保持謹慎，他們警告稱，衝突爆發後油價和天然氣價格上漲所帶來的連鎖影響還需要一段時間才能充分顯現。歐洲央行首席經濟學家Philip Lane週二表示，歐洲央行必須觀察近幾個月能源成本上漲將如何逐步傳導至食品通脹和服務業通脹。
+
+---
+
+### 2026-07-01 17:47:34  #Trading Economics #Economy #Pakistan #Producer Prices Change #Importance 1
+
+Pakistan Wholesale Wholesale Inflation Slows — Pakistan's wholesale price inflation eased to 10.7% year-on-year in June 2026 from 12.7% in May. The slowdown was largely driven by softer price growth for ores, minerals, electricity, gas and water (5.7% vs. 8.5%). Meanwhile, inflation accelerated for food, beverages, tobacco, textiles and leather products (7.1% vs. 6.9%), led by leather products (19.2% vs. 16.1%). Price growth also picked up for agriculture, forestry and fishery products (1.8% vs. 1.0%) and metal products, machinery and equipment (5.7% vs. 5.2%). On a monthly basis, wholesale prices fell 1.2% in June, following a 0.8% decline in May.
+
+---
+
+### 2026-07-01 17:47:09  #公司
+
+【瑞華泰：瑞科轉債累計轉股數量為2005.04萬股，佔公司已發行股份總額的11.14%】瑞華泰公告，截至2026年6月30日，瑞科轉債累計共有人民幣4.21億元已轉換為公司股票，累計轉股數量為2005.04萬股，佔“瑞科轉債”轉股前公司已發行股份總額的11.14%。
+
+---
+
+### 2026-07-01 17:47:02  #國際
+
+【伊朗議長說同時備戰才好談判】當地時間6月30日，伊朗首席談判代表、議長卡利巴夫在接受採訪時表示，伊朗決心維護諒解備忘錄，但若美方拒絕落實共識，伊朗已做好戰爭準備。卡利巴夫說，與美國談判並非是在同朋友對話，而是在與一個毫無信譽的敵人談判，只要一有機會，美國必定還會對伊朗下手，因此，只有做好了戰爭準備，才能談好一場談判。#伊朗議長稱美一有機會還會下手# 此外，卡利巴夫還在採訪中駁斥有關“伊朗解凍資金只能購買美國農產品”的說法。他表示這“完全不準確”，根據諒解備忘錄，伊朗有權自行支配解凍的資金。（CCTV國際時訊）
+
+---
+
+### 2026-07-01 17:46:19  #公司
+
+【線上線下：副總經理崔嶸減持17,600股股份計劃實施完成】線上線下公告稱，公司副總經理崔嶸於2026年6月30日至9月29日，透過集中競價交易方式減持公司17,600股，佔公司總股本的0.02%，減持均價為140元/股。減持後，崔嶸持有公司股份52,900股，佔總股本的0.07%。本次減持符合相關規定，未超計劃減持數量，不會導致公司控制權變更，也不會對公司治理及經營產生重大不利影響。
+
+---
+
+### 2026-07-01 17:45:16  #公司 #市場
+
+【中糧糖業：股票連續三日漲幅偏離值超20% 提示交易風險】中糧糖業公告稱，公司股票於2026年6月29日、6月30日、7月1日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查及向控股股東征詢，公司目前經營正常，不存在應披露而未披露的重大資訊，控股股東、董高人員在異常波動期間無買賣公司股票情況。公司提醒投資者注意交易風險。
+
+---
+
+### 2026-07-01 17:45:02  #公司
+
+【恆鑫生活：擬以3000萬元-5000萬元回購公司股份】恆鑫生活公告，擬以3000萬元-5000萬元回購公司股份，回購價格不超過40元/股。
+
+---
+
+### 2026-07-01 17:44:55  #其他
+
+【水井坊：將持續整治市場秩序 最佳化產品投放節奏】水井坊釋出《關於規範市場秩序、共建良性經營生態的告知函》。《告知函》顯示，自2026年7月起，水井坊將持續整治市場秩序，最佳化產品投放節奏。
+
+---
+
+### 2026-07-01 17:44:46  #公司
+
+【道通科技：重新向港交所遞交H股發行上市申請並刊發資料】道通科技公告稱，公司於2026年6月30日重新向香港聯交所提交境外發行股份（H股）並在港交所主機板掛牌上市申請，同日在港交所網站刊登申請資料。該資料為草擬版本，可能更新修訂。本次發行上市認購物件為境外投資者及境內合格投資者，公司不在境內交易所網站等刊登資料，提供了港交所查詢連結。本次發行上市尚需滿足多項條件，存在不確定性，公司將及時披露進展。
+
+---
+
+### 2026-07-01 17:44:41  #公司
+
+【凱普生物：公司及子公司獲“B族鏈球菌檢測”發明專利授權】凱普生物公告稱，公司及子公司於2026年6月獲發明專利授權，專利名稱為“一種B族鏈球菌分型檢測多重PCR引物和探針組合物及試劑盒”，專利號為202511319804.2，授予國家為中國，專利權人為凱普生物、潮州凱普生物化學有限公司、上海凱普醫學檢驗所有限公司。該專利利於GBS防治，符合公司戰略，雖不影響當前經營，但可完善智慧財產權體系，提升競爭力。
+
+---
+
+### 2026-07-01 17:44:37  #公司
+
+【朗特智慧：職工代表董事兼財務總監付麗萍辭職】朗特智慧公告稱，公司董事會近日收到職工代表董事兼財務總監付麗萍的書面辭職報告，其因個人原因申請辭去相關職務，原定任期至2028年12月3日。辭職後不再擔任公司及控股子公司任何職務，辭職報告自送達之日起生效。付麗萍直接持有公司限制性股票10,800股，間接持股316,413股，承諾自離任半年內不轉讓股份。公司將盡快完成補選工作。
+
+---
+
+### 2026-07-01 17:44:29  #公司
+
+【金洲管道：截至6月底累計耗資2.20億元回購4.99%股份】金洲管道公告稱，截至2026年6月30日，公司透過第一、二期回購專用賬戶累計回購股份2597.05萬股，佔總股本4.99%，成交總金額2.20億元，最高成交價11.81元/股，最低成交價5.75元/股。其中，第一期（2024年11月27日至2025年8月21日）回購1511.50萬股，佔比2.90%，金額1.00億元；第二期（2026年5月27日至6月30日）回購1085.55萬股，佔比2.09%，金額1.20億元。公司後續將繼續實施回購。
+
+---
+
+### 2026-07-01 17:44:27  #其他
+
+Flexjet：人工智慧與加密貨幣催生的新富豪群體，推動私人飛機市場熱度暴漲。
+
+---
+
+### 2026-07-01 17:43:46  #宏觀
+
+【重慶：支援企業盤活改造存量房屋和居民家庭將自有房屋用於租賃】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，多渠道增加租賃住房供給，支援企業盤活改造存量房屋和居民家庭將自有房屋用於租賃。大力培育市場化、專業化的住房租賃企業。加大對住房租賃企業的政策支援力度，探索市場化租賃專案REITs試點。制定出臺《重慶市住房租賃管理辦法》，健全完善配套制度，規範出租承租活動。推廣使用租賃合同示範文字，建立住房租金監測機制，健全住房租賃企業評級和分級管理制度，規範住房租賃市場秩序。推動租賃住戶在享受公共服務上享有同等權利。培育市場化、專業化租賃市場主體。培育10家以上市場化、專業化租賃企業，支援打造本地租賃品牌。支援市場化租賃企業參與保障性租賃住房運營管理。
+
+---
+
+### 2026-07-01 17:43:05  #公司
+
+【*ST建藝：公司被訴5301.38萬元】*ST建藝公告，公司因買賣合同糾紛被蚌埠融興供應鏈有限責任公司起訴，涉案金額為5301.38萬元。案件已由蚌埠市蚌山區人民法院受理，尚未開庭審理。公司為被告，盧禹為連帶責任被告。目前無法預計訴訟對公司本期利潤或期後利潤的影響。
+
+---
+
+### 2026-07-01 17:42:42  #公司 #國際
+
+傑富瑞將美國電力公司目標股價從147美元上調至154美元。
+
+---
+
+### 2026-07-01 17:42:18  #公司
+
+【超穎電子：光模組PCB產品順利進行中 mSAP產線預計在第四季度建設完成並投入使用】超穎電子在互動平臺表示，光模組PCB產品順利進行中，公司mSAP產線預計在第四季度建設完成並投入使用。
+
+---
+
+### 2026-07-01 17:41:34  #公司 #市場
+
+【泰晶科技：股價漲幅大提示多項投資風險】泰晶科技公告稱，7月1日公司股票漲停，收盤價66.06元/股，較6月1日漲幅達55.80%，可能存在短期上漲過快後的下跌風險。公司目前經營正常，無應披露未披露事項，但市盈率遠高於行業平均水平。2025年淨利潤5222.44萬元，同比降40.37%。控股股東喻信東計劃7月17日至10月16日減持不超1080萬股（佔總股本2.799%），尚未實施。光模組相關業務處推廣期，收入佔比極少，未來業績有不確定性。
+
+---
+
+### 2026-07-01 17:41:25  #公司
+
+【金域醫學：累計斥資1.73億元回購1.43%股份】金域醫學公告稱，公司於2026年4月10日開啟股份回購，資金總額1.5-2億元，回購期限至10月9日，回購股份用於股權激勵。截至6月30日，公司累計回購股份661.38萬股，佔總股本1.43%，支付總金額1.73億元，回購價格區間為23.36-28.79元/股。公司將按規定在回購期內擇機回購並及時披露進展。
+
+---
+
+### 2026-07-01 17:41:04  #公司 #市場
+
+【雙鷺藥業：股票連續三日漲幅偏離值超20% 無應披露未披露事項】雙鷺藥業公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經核查，公司前期披露資訊無需更正、補充，未發現公共傳媒報道影響股價的未公開重大資訊，經營情況正常，內外部環境未變，不存在應披露而未披露的重大事項，控股股東及實控人未在異常波動期間買賣公司股票。提醒投資者注意醫藥行業政策等變化致業績波動的風險。
+
+---
+
+### 2026-07-01 17:40:54  #觀點 #國際
+
+摩根大通印度分部：宣告稱拉胡爾·巴德瓦爾加入摩根大通，擔任印度區高階國家執行官。
+
+---
+
+### 2026-07-01 17:40:00  #焦點 #國際
+
+【伊朗訊息人士稱，伊朗堅持保留對霍爾木茲海峽的控制權】據兩名伊朗高層訊息人士透露，伊朗決心爭取國際社會承認其對霍爾木茲海峽的控制權，以及向進出海灣的船隻收取費用的權利，即便必須動用武力也在所不惜。根據本月與美國達成的旨在結束雙方三個月衝突的臨時協議，伊朗同意在60天內允許船隻免費透過該海峽。但伊朗認為，協議的措辭允許其繼續掌控哪些船只可以透過，以及這些船隻在這一狹窄水道內的航行路線。訊息人士稱，伊朗還決心在臨時協議期滿後，確保這種控制權獲得長期的正式認可；在這一問題達成共識之前，其談判代表不會在與華盛頓進行的和平談判中轉向其他爭議議題。
+
+---
+
+### 2026-07-01 17:39:55  #公司
+
+【京新藥業：獲得鹽酸卡立哌嗪膠囊藥品註冊證書】京新藥業公告，近日收到國家藥品監督管理局核准簽發的“鹽酸卡立哌嗪膠囊”的《藥品註冊證書》。鹽酸卡立哌嗪（Cariprazine hydrochloride）是一種非典型抗精神病藥物，屬於多巴胺D₂、D₃受體部分激動劑。它透過優先與多巴胺D₃受體結合，部分激動D₂和D₃受體，同時對5-HT₁A受體具有部分激動作用、對5-HT₂A受體具有拮抗作用，從而調節多巴胺與血清素系統平衡。此次獲批的鹽酸卡立哌嗪膠囊，用於治療成人精神分裂症，是該藥品國內首家上市。
+
+---
+
+### 2026-07-01 17:39:50  #公司
+
+【東方雨虹：支付交易價款合計2.15億港元完成收購世界五金塑膠廠有限公司100%股權】東方雨虹公告，近日，全資子公司香港東方雨虹投資有限公司已完成支付交易價款合計2.15億港元收購世界五金塑膠廠有限公司100%股權。其中，標的公司企業價值1.64億港元，預估交割日淨現金與營運資金調整金額合計0.5130億港元。買賣雙方已正式簽署出售股份轉讓文書及買賣單據，世界五金完成董事會改選。本次交易股權交割完成後，香港東方雨虹將持有世界五金100%股權。
+
+---
+
+### 2026-07-01 17:39:47  #其他
+
+【重慶：推動“久供未建”專案實質性開工、“久建未完”專案恢復正常建設】重慶市住建委公開徵求《重慶市城鎮住房高質量發展“十五五”規劃（徵求意見稿）》意見。其中提出，加快“兩久”專案處置。堅持分類攻堅處置，推動“久供未建”專案實質性開工、“久建未完”專案恢復正常建設。用好專項債政策，支援符合條件的存量土地收回收購、合理置換。聯動多元企業主體，透過資產收購、債務重組、股權合作等方式，推動專案處置。支援合理調整規劃和設計方案。支援具備條件的專案合理調規訴求，推動“兩久”專案按照“好房子”相關政策措施最佳化建築設計方案。滿足合理融資需求。有效支援“兩久”專案合理融資需求，推動專案進入“白名單”，搭建政銀企溝通平臺，鼓勵金融機構提供“融資+融智”一體化服務。
+
+---
+
+### 2026-07-01 17:39:45  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran insists on retaining control of Strait of Hormuz, sources say】Two senior Iranian sources said Tehran is determined to secure international recognition of its control over the Strait of Hormuz and the right to levy fees on ships transiting the waterway, and is prepared to use force if necessary. Under a temporary agreement with the US this month to halt a three-month conflict, Iran agreed to allow ships free passage for 60 days; Tehran says the wording permits it to control which vessels may transit and to dictate routes within the narrow strait. The sources said Iran will press for long-term formal recognition of that control after the temporary period and will not shift to other issues in talks with Washington until consensus is reached.
 
 ---
 
@@ -15213,89 +15477,5 @@ Rice Hits 12-month High — Rice increased to 13.34 USD/cwt, the highest since J
 ### 2026-06-30 21:40:44  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Posts Losses After Fiscal Figures — The Ibovespa fell more than 1% to trade below 171,000 on Tuesday as investors reduced risk at the end of the first half and assessed fiscal data. Brazil’s gross public debt rose above forecasts in May, while the consolidated public sector posted a wider-than-expected primary deficit. Gross debt reached 81.1% of GDP, above market expectations of 80.7%, while the primary deficit totaled R$56.1 billion, exceeding forecasts of a R$53.5 billion shortfall. The deterioration in fiscal accounts reinforced concerns over higher borrowing costs and persistent pressure on interest rates. Losses were broad-based across the index, with financial stocks among the main drags. Itaú and Bradesco both fell more than 1%. Utilities also traded lower, with Axia down 1.5%. Other notable laggards included Ambev (-1%), WEG (-1%), and Rede D'Or (-2%). Vale and Petrobras posted milder losses, supported by firmer iron ore and slightly higher oil prices.
-
----
-
-### 2026-06-30 21:39:59  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.10% Lower — The Dow Jones Index is losing 54 points. Losses were led by IBM (-1.70%), Walt Disney (-1.60%) and P&G (-1.60%). Offsetting the fall, top gainers were Boeing (1.22%), Nvidia (1.19%) and Apple (1.07%).
-
----
-
-### 2026-06-30 21:39:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuitive Surgical Stock Price Hits 4-week Low — Intuitive Surgical shares decreased to 398.88 USD, the lowest since June 2026. Over the past 4 weeks, Intuitive Surgical lost 2.68%, and in the last 12 months, it decreased 26.16%.
-
----
-
-### 2026-06-30 21:37:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-S&P 500 Set for Best Quarter in 6 Years — US equity indices were muted on Tuesday amid fresh stability for the technology sector and lower inflationary risks. The S&P 500, Nasdaq 100, and Dow were only marginally higher, with the latter at a new record high. AI companies remained well above their lows from last week as the market shook off momentary jitters on the speculative AI trade, spurred by strong guidance from chip producers, despite concerning levels of spending for hyperscalers. Nvidia, AMD, Sandisk, and Intel were up to 1.5% higher. Meanwhile, oil prices consolidated near their pre-war levels to ease the likelihood that the Federal Reserve would be forced into a hiking cycle. The improved backdrop for the corporate sector supported traditional sectors of the economy that have more exposure in the Dow, driving the index to outperform others in June. Alphabet was over 4% higher since joining the Dow on Monday. Meanwhile, the S&P 500 was set to gain 14% in Q2, the strongest quarter in six years.
-
----
-
-### 2026-06-30 21:26:14  #Trading Economics #Economy #Chile #Retail Sales YoY #Importance 1
-
-Chile Retail Sales Growth Accelerates in May — Chile’s retail trade growth quickened to 4.8% year-over-year in May 2026, up from 4.1% in April and marking the steepest increase since February. The rise was driven by stronger sales of used vehicles (8.8% vs. 8.7%), food (4.0% vs. 2.6%), clothing and footwear (8.9% vs. 2.0%), electronics, home equipment, and technological products (6.9% vs. 4.3%), and other consumer goods (6.7% vs. 6.2%). On a seasonally adjusted basis, retail trade rose 0.3% in May, reversing April’s 0.5% decline.
-
----
-
-### 2026-06-30 21:25:45  #Trading Economics #Economy #Chile #Unemployment Rate #Importance 1
-
-Chile Unemployment Rate Edges Up — Chile's unemployment rate rose to 9.4% in the March–May 2026 period, up from 8.9% a year earlier and above market expectations of 9.1%. It was the highest reading since the quarter ending June 2021, as the labor force grew faster than employment. The number of unemployed reached 981 thousand, the highest since the quarter ending October 2020. The labor force participation rate edged up to 62.4%, with the labor force increasing 1.3% to 10.4 million. Employment rose 0.8% to 9.42 million, lifting the employment rate to 56.5%. Job growth was led by manufacturing (5.2%), health activities (6.0%), and professional, scientific and technical activities (11.6%).
-
----
-
-### 2026-06-30 21:16:16  #Trading Economics #Economy #United States #House Price Index MoM #Importance 1
-
-US House Prices Unexpectedly Fall 0.1%: FHFA — US single-family home prices backed by Fannie Mae and Freddie Mac decreased 0.1% in April 2026, following an upwardly revised 0.2% rise in March, missing market expectations for a 0.2% increase. Among the nine US census divisions, seasonally adjusted monthly price changes ranged from -0.8% in the Mountain division to 1% in the New England division. On a yearly basis, home prices rose 2% in April, following an upwardly revised 1.8% increase in March. The 12-month changes ranged from 0.2% in the Pacific division to 4.4% in the East North Central division.
-
----
-
-### 2026-06-30 21:12:40  #Trading Economics #Economy #United States #Case Shiller Home Price Index YoY #Importance 2
-
-US Home Prices Rise 1.1% in April — The S&P Cotality Case-Shiller 20-City Home Price Index increased 1.1% year-over-year in April 2026, following an upwardly revised 0.9% gain in March and surpassing market expectations. This marked the first acceleration in home price growth since November 2025, though prices remained near a three-year low, reflecting a cooling US housing market. For the 11th consecutive month, inflation outpaced home price growth, continuing to erode real housing wealth. Regional trends diverged, with the Midwest and Northeast leading moderate gains, while many Sun Belt and Western metros saw further declines. Chicago led with a 6.5% annual rise, followed by New York (3.8%) and Cleveland (3.2%). Seattle posted the steepest drop at -2.3%, with Denver (-1.8%), Tampa (-1.8%), Dallas (-1.6%), and Phoenix (-1.7%) also among the notable decliners.
-
----
-
-### 2026-06-30 21:00:26  #經濟數據 #美國
-
-【美國4月S&P/CS20座大城市未季調房價指數年率為1.1%】美國4月S&P/CS20座大城市未季調房價指數年率為1.1%，預期0.9%，前值由0.83%修正為0.9%。
-
----
-
-### 2026-06-30 20:57:56  #Trading Economics #Economy #Bangladesh #Interest Rate #Importance 1
-
-Bangladesh Bank Holds Rates to Curb Inflation — The Bangladesh Bank left its benchmark interest rate unchanged at 10% at its June 2026 meeting, maintaining a tight monetary policy stance as it continues to prioritize bringing inflation under control despite slowing economic growth and heightened global uncertainties. The central bank cautioned that the escalating conflict in the Middle East could disrupt supplies of oil and fertilizer, increasing imported inflationary pressures and posing risks to the country's economic recovery. Although the economy has shown signs of gradual improvement, policymakers remain concerned about persistently high inflation, weak investment, labor market pressures, energy supply uncertainties, elevated non-performing loans (NPLs), and growing global economic risks. Inflation eased to 9.4% in May 2026 from a peak of 11.7% in July 2024 but stays above the 7.5% target set by both the central bank and government.
-
----
-
-### 2026-06-30 20:54:38  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Up on Stronger GDP Data — Futures tracking the S&P/TSX Composite Index edged higher on Tuesday as investors assessed stronger-than-expected GDP data from Canada. An advance estimate for May also pointed to a 0.1% monthly expansion, signaling that growth momentum may be stabilizing.The economy rebounded slightly more than forecast in April after a mild contraction in the previous month, easing concerns that a tariff-driven slowdown was becoming more entrenched. The stronger data supported sentiment by improving the outlook for corporate earnings and reducing downside risks for the broader economy. Meanwhile, oil prices remained below recent peaks following signs of progress toward ending the Middle East conflict, easing energy-driven inflation concerns and supporting financial stocks and the broader market. Gold prices were stable after falling in the prior session, helping limit pressure on mining shares.
-
----
-
-### 2026-06-30 20:39:12  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Heads for 20% Monthly Loss — Silver prices hovered around $58 an ounce on Tuesday, near their weakest level since December 2025, with losses exceeding 20% for both the month and the quarter, as a firm US dollar and expectations of US interest rate hikes continued to weigh on the metal. Rising energy prices, fueled by the Middle East conflict, have eliminated expectations of Federal Reserve rate cuts this year, with traders now pricing in a near 65% chance of a September hike. Although precious metals are traditionally seen as inflation hedges, higher interest rates tend to pressure non-yielding assets like silver. Focus now turns to upcoming US employment data, including nonfarm payrolls, and remarks by Fed Chair Kevin Warsh due Wednesday for signals on monetary policy. Meanwhile, investors are monitoring prospects for renewed US-Iran diplomacy, though Iran has dismissed reports of talks in Doha this week as unfounded.
-
----
-
-### 2026-06-30 20:37:13  #Trading Economics #Economy #Canada #Monthly GDP MoM #Importance 2
-
-Canada GDP Expands Further — The Canadian GDP is estimated to have expanded by 0.1% from the previous month in May of 2026 with support from finance and insurance, and real estate and leasing services, which were offset by declines in wholesale trade and agriculture, forestry, fishing, and hunting, according to preliminary data. This would follow a 0.5% jump in April, revised higher from the preliminary estimate of 0.4%, to mark the sharpest increase in over three years. This reflected fresh traction in a period of surging energy prices and lingering pressure from US tariffs, which drove the BoC to flag significant growth risks to Canada. Mining, quarrying, and oil and as extraction expanded by 2.9% amid the increase in energy prices. Growth was also notable transportation and warehousing (0.9%), accommodation and food services (1%), and in construction (0.7%), which rebounded from five months of declines.
-
----
-
-### 2026-06-30 20:33:43  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Near 7-Month Low on Rate Hike Expectations — Gold held at $4,020 an ounce on Tuesday, near its weakest level since November 2025, as a firm dollar and expectations of US interest rate hikes kept pressure on the metal. Bullion was down 11% for the month, heading for a fourth consecutive monthly decline, and down around 14% this quarter, the first quarterly loss since 2024 and the steepest drop since Q2 2013. Rising energy prices, driven by the Middle East conflict, have erased expectations of Federal Reserve rate cuts this year, with traders now pricing in a near 65% chance of a September hike. Although gold is traditionally seen as an inflation hedge, higher interest rates tend to weigh on the non-yielding asset. Attention now shifts to upcoming US employment data, including nonfarm payrolls, and remarks by Fed Chair Kevin Warsh due Wednesday for clues on monetary policy. Meanwhile, investors continued to monitor the prospects for renewed US-Iran diplomacy, though Iran dismissed reports of talks in Doha this week as unfounded.
-
----
-
-### 2026-06-30 20:31:58  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Extends Gains — The DAX 40 extended initial gains on Tuesday, rising 1.4% toward 24,965, after a two-day losing streak, supported by strength in technology stocks and encouraging domestic economic data. Preliminary data showed Germany’s inflation eased to 2.3% in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%. Separately, retail sales unexpectedly rebounded in May. Meanwhile, the anticipated US-Iran talks in Doha and central bank speeches at the ECB Forum in Sintra were also in focus. Siemens Energy emerged as the top gainer, up 5.3%, after the energy technology group struck an optimistic tone about orders during its third-quarter pre-closing conference call on Monday. Siemens followed with a 4.3% advance. Chipmaker Infineon Technologies also added 3.6%. For the quarter, the DAX gained around 10%, but has lost approximately 0.6% for the month.
 
 ---

@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-05 08:10:06_
-_本檔包含 2388 則快訊，約 506673 字_
+_更新時間：2026-07-05 10:18:57_
+_本檔包含 2348 則快訊，約 506257 字_
+
+---
+
+### 2026-06-30 21:39:59  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.10% Lower — The Dow Jones Index is losing 54 points. Losses were led by IBM (-1.70%), Walt Disney (-1.60%) and P&G (-1.60%). Offsetting the fall, top gainers were Boeing (1.22%), Nvidia (1.19%) and Apple (1.07%).
+
+---
+
+### 2026-06-30 21:39:42  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intuitive Surgical Stock Price Hits 4-week Low — Intuitive Surgical shares decreased to 398.88 USD, the lowest since June 2026. Over the past 4 weeks, Intuitive Surgical lost 2.68%, and in the last 12 months, it decreased 26.16%.
+
+---
+
+### 2026-06-30 21:37:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+S&P 500 Set for Best Quarter in 6 Years — US equity indices were muted on Tuesday amid fresh stability for the technology sector and lower inflationary risks. The S&P 500, Nasdaq 100, and Dow were only marginally higher, with the latter at a new record high. AI companies remained well above their lows from last week as the market shook off momentary jitters on the speculative AI trade, spurred by strong guidance from chip producers, despite concerning levels of spending for hyperscalers. Nvidia, AMD, Sandisk, and Intel were up to 1.5% higher. Meanwhile, oil prices consolidated near their pre-war levels to ease the likelihood that the Federal Reserve would be forced into a hiking cycle. The improved backdrop for the corporate sector supported traditional sectors of the economy that have more exposure in the Dow, driving the index to outperform others in June. Alphabet was over 4% higher since joining the Dow on Monday. Meanwhile, the S&P 500 was set to gain 14% in Q2, the strongest quarter in six years.
+
+---
+
+### 2026-06-30 21:26:14  #Trading Economics #Economy #Chile #Retail Sales YoY #Importance 1
+
+Chile Retail Sales Growth Accelerates in May — Chile’s retail trade growth quickened to 4.8% year-over-year in May 2026, up from 4.1% in April and marking the steepest increase since February. The rise was driven by stronger sales of used vehicles (8.8% vs. 8.7%), food (4.0% vs. 2.6%), clothing and footwear (8.9% vs. 2.0%), electronics, home equipment, and technological products (6.9% vs. 4.3%), and other consumer goods (6.7% vs. 6.2%). On a seasonally adjusted basis, retail trade rose 0.3% in May, reversing April’s 0.5% decline.
+
+---
+
+### 2026-06-30 21:25:45  #Trading Economics #Economy #Chile #Unemployment Rate #Importance 1
+
+Chile Unemployment Rate Edges Up — Chile's unemployment rate rose to 9.4% in the March–May 2026 period, up from 8.9% a year earlier and above market expectations of 9.1%. It was the highest reading since the quarter ending June 2021, as the labor force grew faster than employment. The number of unemployed reached 981 thousand, the highest since the quarter ending October 2020. The labor force participation rate edged up to 62.4%, with the labor force increasing 1.3% to 10.4 million. Employment rose 0.8% to 9.42 million, lifting the employment rate to 56.5%. Job growth was led by manufacturing (5.2%), health activities (6.0%), and professional, scientific and technical activities (11.6%).
+
+---
+
+### 2026-06-30 21:16:16  #Trading Economics #Economy #United States #House Price Index MoM #Importance 1
+
+US House Prices Unexpectedly Fall 0.1%: FHFA — US single-family home prices backed by Fannie Mae and Freddie Mac decreased 0.1% in April 2026, following an upwardly revised 0.2% rise in March, missing market expectations for a 0.2% increase. Among the nine US census divisions, seasonally adjusted monthly price changes ranged from -0.8% in the Mountain division to 1% in the New England division. On a yearly basis, home prices rose 2% in April, following an upwardly revised 1.8% increase in March. The 12-month changes ranged from 0.2% in the Pacific division to 4.4% in the East North Central division.
+
+---
+
+### 2026-06-30 21:12:40  #Trading Economics #Economy #United States #Case Shiller Home Price Index YoY #Importance 2
+
+US Home Prices Rise 1.1% in April — The S&P Cotality Case-Shiller 20-City Home Price Index increased 1.1% year-over-year in April 2026, following an upwardly revised 0.9% gain in March and surpassing market expectations. This marked the first acceleration in home price growth since November 2025, though prices remained near a three-year low, reflecting a cooling US housing market. For the 11th consecutive month, inflation outpaced home price growth, continuing to erode real housing wealth. Regional trends diverged, with the Midwest and Northeast leading moderate gains, while many Sun Belt and Western metros saw further declines. Chicago led with a 6.5% annual rise, followed by New York (3.8%) and Cleveland (3.2%). Seattle posted the steepest drop at -2.3%, with Denver (-1.8%), Tampa (-1.8%), Dallas (-1.6%), and Phoenix (-1.7%) also among the notable decliners.
+
+---
+
+### 2026-06-30 21:00:26  #經濟數據 #美國
+
+【美國4月S&P/CS20座大城市未季調房價指數年率為1.1%】美國4月S&P/CS20座大城市未季調房價指數年率為1.1%，預期0.9%，前值由0.83%修正為0.9%。
+
+---
+
+### 2026-06-30 20:57:56  #Trading Economics #Economy #Bangladesh #Interest Rate #Importance 1
+
+Bangladesh Bank Holds Rates to Curb Inflation — The Bangladesh Bank left its benchmark interest rate unchanged at 10% at its June 2026 meeting, maintaining a tight monetary policy stance as it continues to prioritize bringing inflation under control despite slowing economic growth and heightened global uncertainties. The central bank cautioned that the escalating conflict in the Middle East could disrupt supplies of oil and fertilizer, increasing imported inflationary pressures and posing risks to the country's economic recovery. Although the economy has shown signs of gradual improvement, policymakers remain concerned about persistently high inflation, weak investment, labor market pressures, energy supply uncertainties, elevated non-performing loans (NPLs), and growing global economic risks. Inflation eased to 9.4% in May 2026 from a peak of 11.7% in July 2024 but stays above the 7.5% target set by both the central bank and government.
+
+---
+
+### 2026-06-30 20:54:38  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Up on Stronger GDP Data — Futures tracking the S&P/TSX Composite Index edged higher on Tuesday as investors assessed stronger-than-expected GDP data from Canada. An advance estimate for May also pointed to a 0.1% monthly expansion, signaling that growth momentum may be stabilizing.The economy rebounded slightly more than forecast in April after a mild contraction in the previous month, easing concerns that a tariff-driven slowdown was becoming more entrenched. The stronger data supported sentiment by improving the outlook for corporate earnings and reducing downside risks for the broader economy. Meanwhile, oil prices remained below recent peaks following signs of progress toward ending the Middle East conflict, easing energy-driven inflation concerns and supporting financial stocks and the broader market. Gold prices were stable after falling in the prior session, helping limit pressure on mining shares.
+
+---
+
+### 2026-06-30 20:39:12  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Heads for 20% Monthly Loss — Silver prices hovered around $58 an ounce on Tuesday, near their weakest level since December 2025, with losses exceeding 20% for both the month and the quarter, as a firm US dollar and expectations of US interest rate hikes continued to weigh on the metal. Rising energy prices, fueled by the Middle East conflict, have eliminated expectations of Federal Reserve rate cuts this year, with traders now pricing in a near 65% chance of a September hike. Although precious metals are traditionally seen as inflation hedges, higher interest rates tend to pressure non-yielding assets like silver. Focus now turns to upcoming US employment data, including nonfarm payrolls, and remarks by Fed Chair Kevin Warsh due Wednesday for signals on monetary policy. Meanwhile, investors are monitoring prospects for renewed US-Iran diplomacy, though Iran has dismissed reports of talks in Doha this week as unfounded.
+
+---
+
+### 2026-06-30 20:37:13  #Trading Economics #Economy #Canada #Monthly GDP MoM #Importance 2
+
+Canada GDP Expands Further — The Canadian GDP is estimated to have expanded by 0.1% from the previous month in May of 2026 with support from finance and insurance, and real estate and leasing services, which were offset by declines in wholesale trade and agriculture, forestry, fishing, and hunting, according to preliminary data. This would follow a 0.5% jump in April, revised higher from the preliminary estimate of 0.4%, to mark the sharpest increase in over three years. This reflected fresh traction in a period of surging energy prices and lingering pressure from US tariffs, which drove the BoC to flag significant growth risks to Canada. Mining, quarrying, and oil and as extraction expanded by 2.9% amid the increase in energy prices. Growth was also notable transportation and warehousing (0.9%), accommodation and food services (1%), and in construction (0.7%), which rebounded from five months of declines.
+
+---
+
+### 2026-06-30 20:33:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Near 7-Month Low on Rate Hike Expectations — Gold held at $4,020 an ounce on Tuesday, near its weakest level since November 2025, as a firm dollar and expectations of US interest rate hikes kept pressure on the metal. Bullion was down 11% for the month, heading for a fourth consecutive monthly decline, and down around 14% this quarter, the first quarterly loss since 2024 and the steepest drop since Q2 2013. Rising energy prices, driven by the Middle East conflict, have erased expectations of Federal Reserve rate cuts this year, with traders now pricing in a near 65% chance of a September hike. Although gold is traditionally seen as an inflation hedge, higher interest rates tend to weigh on the non-yielding asset. Attention now shifts to upcoming US employment data, including nonfarm payrolls, and remarks by Fed Chair Kevin Warsh due Wednesday for clues on monetary policy. Meanwhile, investors continued to monitor the prospects for renewed US-Iran diplomacy, though Iran dismissed reports of talks in Doha this week as unfounded.
+
+---
+
+### 2026-06-30 20:31:58  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Extends Gains — The DAX 40 extended initial gains on Tuesday, rising 1.4% toward 24,965, after a two-day losing streak, supported by strength in technology stocks and encouraging domestic economic data. Preliminary data showed Germany’s inflation eased to 2.3% in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%. Separately, retail sales unexpectedly rebounded in May. Meanwhile, the anticipated US-Iran talks in Doha and central bank speeches at the ECB Forum in Sintra were also in focus. Siemens Energy emerged as the top gainer, up 5.3%, after the energy technology group struck an optimistic tone about orders during its third-quarter pre-closing conference call on Monday. Siemens followed with a 4.3% advance. Chipmaker Infineon Technologies also added 3.6%. For the quarter, the DAX gained around 10%, but has lost approximately 0.6% for the month.
 
 ---
 
@@ -14062,331 +14146,5 @@ Bahrain Interior Ministry said alarms are sounding and urged citizens and reside
 ### 2026-06-28 10:20:34  #公司 #國際
 
 【歐洲現役最老核電站因高溫暫停執行】由於高溫天氣導致用於冷卻核反應堆的河水溫度過高，瑞士能源企業阿克斯波公司26日說，位於瑞士北部的貝茲瑙核電站已於當天暫停執行。這座核電站是歐洲現役最老的核電站。 阿克斯波公司在其網站上說，阿勒河的水溫25日和26日再次達到25攝氏度，無法用於冷卻，因此貝茲瑙核電站“已暫時關閉兩座反應堆”。公司正持續監測阿勒河水溫，“一旦河水溫度下降或預測將有足夠的冷卻條件，即可計劃重啟反應堆”。重啟工作將在相關主管部門批准後進行。（新華社）
-
----
-
-### 2026-06-28 10:16:35  #其他
-
-【委內瑞拉地震災區藥品供應緊張】近日，總檯記者來到了位於委內瑞拉首都加拉加斯附近的查考市，發現當地受災較為嚴重，且出現了藥品供應緊張的情況。（CCTV國際時訊）
-
----
-
-### 2026-06-28 10:16:24  #MKT News
-
-【Jiguang Xingtong completes 72-hour continuous stable link in mission】On June 27, Jiguang Xingtong said it achieved a 72-hour continuous stable laser-communication link during a mission. The spaceborne laser communication terminal supplier expects to deliver more than 100 terminals in 2026 and to have roughly 100 terminals operational in orbit. It closed an A4 financing round near RMB300 million earlier this year, with proceeds earmarked for next‑generation space laser communication R&D, automated production lines and upgrades to on‑orbit technology verification capabilities.
-
----
-
-### 2026-06-28 09:56:24  #公司
-
-【暑期機票預訂量環比增長65% 航司最佳化航線提前佈局】全國暑運即將開始，民航方面，從目前的旅客預訂情況來看，長線深度遊和清涼避暑遊成為今年暑期出行的兩大主線，西北、東北等目的地熱度持續攀升，機票預訂量迎來大幅增長。去哪兒大資料研究院研究員石珂表示，截至目前，近一週預訂7月至8月暑期出行的機票明顯增長，環比上週增長65%。山西大同、貴州銅仁、西藏拉薩、內蒙古烏海、新疆和田的暑期機票預訂增幅都達到50%以上。面對今年暑期長線遊與避暑遊交織的旺盛市場需求，各大航空公司正積極最佳化航線網路，透過加密熱門目的地航班、投入寬體機型等方式精準增加運力供給，全力保障旅客暑期出行需求。 (央視財經)
-
----
-
-### 2026-06-28 09:51:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Refinitiv: US officials say the Iran situation remains evolving; there are no reports of US casualties or major damage to US facilities in the region. Iran has launched multiple missiles and drones at neighboring states, including Bahrain and Kuwait.
-
----
-
-### 2026-06-28 09:51:24  #國際
-
-一名美國官員表示，目前暫未報告有美國公民傷亡，該區域內的美國設施也未遭受重大影響或損壞。
-
----
-
-### 2026-06-28 09:51:11  #國際
-
-一名美國官員表示，伊朗局勢仍在發展變化中。
-
----
-
-### 2026-06-28 09:51:04  #國際
-
-一名美國官員表示，伊朗向包括巴林和科威特在內的鄰國發射了多枚導彈和無人機。
-
----
-
-### 2026-06-28 09:47:15  #公司
-
-【極光星通：在某任務中完成72小時連續穩定建鏈】6月27日，極光星通宣佈在某任務中完成72小時連續穩定建鏈。據瞭解，極光星通為星載鐳射通訊終端產品供應商，預計2026年全年將交付100多臺（套）鐳射通訊終端，實現100臺鐳射通訊終端入軌執行。今年年初，該公司宣佈完成A4輪融資，融資金額近3億元人民幣，資金將主要用於新一代空間鐳射通訊產品的研發迭代、自動化產線建設及在軌技術驗證能力的升級。
-
----
-
-### 2026-06-28 09:46:43  #國際
-
-【美國肯塔基州洪災致4人死亡】美國肯塔基州因強降雨引發的洪災已造成4人死亡。肯塔基州州長安迪·貝希爾當天宣佈該州進入緊急狀態。據美國國家氣象局釋出的天氣預報，肯塔基州大部分地區的強降雨將持續至當地時間27日23時，部分地區的降雨量將高達7英寸（約合177.8毫米）。貝希爾敦促肯塔基州居民密切關注當地天氣預警，避免不必要的出行，並做好洪水威脅來臨時轉移到地勢較高處的準備。美國國家氣象局針對肯塔基州和印第安納州部分地區釋出了山洪暴發預警。（新華社）
-
----
-
-### 2026-06-28 09:42:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Ming-Chi Kuo: iOS 27 to deepen system-level integration with Apple Intelligence】June 27 — TF International Securities analyst Ming-Chi Kuo said in a report that iOS 27 will deepen system-level integration with Apple Intelligence. His supply-chain survey shows lower-tier iPhones with the A20 in 1H27 will increase DRAM to 9GB (1.5GB×6-die) to preserve responsiveness under AI workloads, up from 8GB (2GB×4-die) on current A19 models. Three high-end A20 Pro models due 2H26 (a foldable and two 18 Pro variants) will remain at 12GB (1.5GB×8-die).
-
----
-
-### 2026-06-28 09:38:46  #市場 #觀點 #央行 #國際
-
-【韓國人均持有超2個股票賬戶，韓國股市“外資賣、散戶加槓桿接”】韓國股市近期屢創新高，韓國綜合股價指數今年以來近乎翻倍。然而，就在6月26日，韓國綜合股指盤中一度大跌超8%，本週內第二次觸發熔斷機制。短短一週內，韓國股市經歷了兩次“過山車”行情，引發全球市場關注。資料顯示，韓國散戶交易佔比極高。截至6月24日，韓國本土股票交易賬戶總數為1.0877億，而韓國總人口僅為5000多萬人，人均持有兩個以上股票賬戶，且大量資金透過高槓杆ETF湧入。上週，美聯儲的貨幣政策轉向鷹派直接壓制了高估值科技板塊。摩根大通釋出的報告顯示，今年以來外資已從韓國股市淨流出約950億美元。與此同時，散戶投資者年內累計淨買入規模約800億美元，成為支撐市場的主要力量。這種“外資賣、散戶加槓桿接”的模式，在市場波動時極易引發強制平倉，導致定價機制部分失靈。（央視財經）
-
----
-
-### 2026-06-28 09:35:43  #其他
-
-【賀志亮被查，中央社會工作部：堅決擁護黨中央決定】據中社部資訊宣傳中心6月28日訊息，中央社會工作部召開部務會會議，通報賀志亮涉嫌嚴重違紀違法接受中央紀委國家監委紀律審查和監察調查的有關情況。與會同志一致表示，堅決擁護黨中央決定，堅決擁護中央紀委國家監委決定。
-
----
-
-### 2026-06-28 09:35:37  #公司
-
-【博世集團：董事會人事調整不會對博世中國各項業務運營產生任何影響】6月27日晚，博世集團官微發文表示，此次集團董事會人事調整不會對博世中國各項業務運營產生任何影響。中國始終是博世全球最重要的戰略市場之一，也是集團重要的創新基地。未來，博世將一如既往攜手廣大客戶和合作伙伴，持續深耕中國市場。公告顯示，經與股東充分溝通並達成一致，史蒂凡·哈通主動申請於2026年6月30日卸任博世集團董事會主席職務。他也將同時退出博世集團董事會及羅伯特·博世工業信託公司管理層。2026年7月1日起，董事會副主席克里斯蒂安·菲舍爾將接任該職務。
-
----
-
-### 2026-06-28 09:35:30  #公司 #國際
-
-【五菱印尼與Grab戰略簽約，Grab租賃平臺將批次匯入繽果車型】6月27日，上汽通用五菱宣佈，五菱印尼與東南亞出行平臺Grab日前在雅加達完成戰略合作簽約及車輛交付，Grab租賃平臺批次匯入繽果車型，全面投入印尼網約車營運。在本次Grab合作落地前，五菱印尼已於6月17日與本土頭部租賃公司MPM完成戰略合作簽約及批次交車。
-
----
-
-### 2026-06-28 09:35:20  #國際
-
-【世界盃剛果（金）勝烏茲別克，韓國無緣32強】剛剛結束的美加墨世界盃K組第三輪的一場比賽中，剛果（金）隊3:1逆轉戰勝烏茲別克隊，鎖定一個32強名額。烏茲別克隊小組墊底出局。韓國隊在12個組的第三排名中跌出前八，無緣32強。
-
----
-
-### 2026-06-28 09:31:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iranian sources: four aerial objects struck near Bandar-e Lengeh】Iranian sources said early on the 28th four aerial objects struck the area near Bandar-e Lengeh in southern Iran. US Central Command said on the 27th it posted a social-media statement that US forces conducted a new round of strikes inside Iran targeting military surveillance facilities, communications systems, air-defense positions, drone storage facilities and mine‑laying equipment.
-
----
-
-### 2026-06-28 09:30:07  #其他
-
-【葡萄牙0比0哥倫比亞】2026年美加墨世界盃小組賽K組第三輪哥倫比亞VS葡萄牙，最終葡萄牙0比0哥倫比亞。（央視新聞）
-
----
-
-### 2026-06-28 09:24:41  #國際
-
-【伊朗革命衛隊威脅對美軍基地發起“地獄”式打擊】伊朗伊斯蘭革命衛隊海軍司令部發表宣告稱，美國對伊朗錫裡克地區實施打擊，並不能改變伊朗對霍爾木茲海峽的掌控。伊朗對“違規”船隻的警告性射擊意在提醒其他船隻應沿著明確規定的航道通行。美軍在中東地區的軍事基地將在這幾天體驗到“地獄”般的感受。（新華社）
-
----
-
-### 2026-06-28 09:16:22  #國際
-
-【訊息人士稱日本擬引進具備對艦攻擊能力無人潛艇】據日本方面27日訊息，多名相關人士當天透露，作為強化太平洋一側防衛體制的一環，日本政府已開始研究引進並部署具備對艦攻擊等能力的無人潛水艇。訊息稱，日本政府設想引進的是可搭載魚雷和水雷的無人潛水艇，目標是具備遠距離、長時間航行的能力。除有人駕駛的護衛艦和潛水艇外，還將與配備導彈發射裝置的無人水面艇等裝備協同運用。訊息稱，日方這一系列行動可能對地區安全域性勢帶來新的不穩定因素。（央視新聞）
-
----
-
-### 2026-06-28 09:16:01  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【Iran's Islamic Revolutionary Guard Corps says it struck multiple US military facilities】Iran's Islamic Revolutionary Guard Corps said on June 28 its naval and air forces used missiles and drones to strike Ali Al Salem air base in Kuwait and multiple US Fifth Fleet installations in Bahrain, calling the moves a response to recent US actions. The IRGC said US fire at Sirik in southern Iran "will not loosen our control" of the Strait, that retaliatory strikes will remind other vessels what the transit rules are, and warned US regional bases will "experience hell" in coming days.
-
----
-
-### 2026-06-28 09:14:29  #國際
-
-【伊媒：4枚飛行物擊中伊朗倫格港附近地區】伊朗伊斯蘭共和國廣播電視臺28日報道，當天凌晨，伊朗南部城市倫格港附近地區被4枚飛行物擊中。美軍中央司令部27日在社交媒體釋出宣告稱，美軍當天對伊朗境內多個目標實施新一輪打擊，目標包括伊朗的軍事監視設施、通訊系統、防空陣地、無人機儲存設施以及佈雷裝備等。（新華社）
-
----
-
-### 2026-06-28 09:14:08  #行業 #國際
-
-【乘聯分會崔東樹：5月中國汽車進口3.8萬輛，同比降19%】6月28日，乘聯分會秘書長崔東樹發文表示，2026年5月進口車進口3.8萬輛，下滑19%，但由於2025年1月基數低，雖然美國與伊朗戰爭導致運輸受阻，進口車總體下降較小，2026年1-5月進口汽車16萬輛，同比下降11%。隨著國產車的崛起和國際品牌本土化加速，近幾年汽車進口持續低迷，進口車持續3年負增長，如果熨平波動，則是連續8年的負增長。
-
----
-
-### 2026-06-28 09:11:36  #其他
-
-【郭明錤：iOS 27將進一步深化與Apple Intelligence的系統級整合】6月27日，天風國際證券分析師郭明錤釋出報告指出，iOS 27將進一步深化與Apple Intelligence的系統級整合。其最新產業調查顯示，為確保在AI負載下系統仍能順暢運作，1H27新款配備A20處理器的較低階iPhone之DRAM規格將升級至9GB（1.5GB×6-die），高於目前A19機型的8GB（2GB×4-die）。2H26配備A20Pro處理器的三款高階機型（摺疊機與兩款18Pro機型）則維持12GB（1.5GBx8-die）。
-
----
-
-### 2026-06-28 09:08:14  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Islamic Revolutionary Guard Corps naval command said US bases in the Middle East will face "hellish days" in the coming days.
-
----
-
-### 2026-06-28 09:08:08  #MKT News #WTI #Impact bullish #Brent
-
-IRGC naval command said a US blind attack on Sirik does not resolve the question of its control over the Strait of Hormuz, and that its strikes on violators are meant to remind other vessels of the clear passage.
-
----
-
-### 2026-06-28 09:04:23  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊28日發表宣告說，革命衛隊海軍和空軍用導彈和無人機，摧毀了位於科威特阿里·薩利姆空軍基地和位於巴林的美軍第五艦隊的8處美軍重要基礎設施，對近日美國的“侵略”行徑作出了果斷回應。（新華社）
-
----
-
-### 2026-06-28 09:01:32  #國際
-
-伊朗革命衛隊海軍指揮部：美國在中東地區的基地將在未來幾天內經歷“地獄般的日子”。
-
----
-
-### 2026-06-28 08:59:39  #國際
-
-伊朗伊斯蘭革命衛隊海軍司令部表示，美國對錫裡克的盲目襲擊無法破解我方掌控霍爾木茲海峽的既定態勢，而我方針對違規者的行動則是在提醒所有其他船隻，要遵循明確的通行航道。
-
----
-
-### 2026-06-28 08:59:33  #市場
-
-【酒價內參6月28日價格釋出：僅國窖1573洋河夢之藍M6+上漲 總價創近72天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月28日整體自低位繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9854元，較昨日大幅下跌17元，結束昨日小幅反彈走勢，創下今年4月17日以來最低。今日僅國窖1573與洋河夢之藍M6+上漲，其餘品種均下跌或平盤，其中四款單品均處於近一月最低位，低位震盪格局進一步加深，終端交投情緒再度轉冷。
-
-今日11大白酒單品二漲七跌二平，輸家數量佔據明顯優勢。上漲方面，國窖1573漲幅居前，上漲5元/瓶，收復昨日全部跌幅；洋河夢之藍M6+小幅上漲1元/瓶。下跌方面，精品茅臺與五糧液1618跌幅居前，均下跌5元/瓶，其中前者跌破2400元大關，平近一月最大單日跌幅，並創近一月最低價，後者亦續創近一月最低價；古井貢古20下跌4元/瓶；青花郎下跌3元/瓶；飛天茅臺、五糧液普五八代與水晶劍南春均下跌2元/瓶，其中五糧液普五八代將將守住800元關口，水晶劍南春續創近一月最低價。青花汾20與習酒君品價格環比保持不變。
-
----
-
-### 2026-06-28 08:59:18  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Huatai Securities: May industrial profits improved; sector divergence intensifies】Huatai Securities reports May industrial profits rose 21.1% YoY, easing from April’s 24.7% but above Q1’s 15.5%; revenue growth continued to recover, indicating broad improvement. Energy and AI-related chains were the primary profit supports. A blockade of the Strait of Hormuz now exceeding three months has intensified supply shocks, eroding capacity utilization at some mid‑ and downstream firms and widening industry divergence. Oil prices edged down in May, but upstream petrochemical profit growth remained elevated. Electronics/computers, driven by strong global AI investment, led profit and revenue gains; its contribution to aggregate industrial profits rose from 6.7ppt to 9.6ppt. Nonferrous smelting and chemical products contributed 6.4ppt and 4.2ppt respectively; the three sectors together added about 20.2ppt. Domestic-demand downstream manufacturing profit growth remained weak, with autos and furniture seeing larger declines.
-
----
-
-### 2026-06-28 08:58:46  #焦點 #國際
-
-美軍中央司令部27日在社交媒體上發文稱，美軍戰鬥機剛剛對伊朗在霍爾木茲海峽及其附近多地的10個軍事目標實施打擊，以回應伊朗對商船發動的無人機襲擊。（新華社）
-
----
-
-### 2026-06-28 08:57:25  #公司
-
-【中建西部建設雲南廠成功簽約分散式光伏運維業務】近日，中建西部建設一公司雲南廠成功簽約雲南區域150MW/年的分散式光伏運維業務，合作期限25年，合同額1.12億元。該業務覆蓋分散式光伏電站全生命週期運維服務，包含裝置巡檢、清潔處理、預防性檢修、故障快速響應、智慧監控、安全管理、能效提升等一體化解決方案。
-
----
-
-### 2026-06-28 08:53:31  #觀點
-
-【華泰證券：5月工業企業利潤總體向好 行業分化加劇】華泰證券研報稱，5月工業企業盈利增速較4月的24.7%略回落至21.1%，但仍高於一季度的15.5%且營收增速延續回升，顯示企業盈利總體向好，其中能源及AI鏈相關行業為利潤增長的主要支撐，而隨著霍爾木茲海峽封鎖超過三個月，供給衝擊的影響深化，部分中下游企業產能利用率進一步走弱，行業盈利表現分化加劇。5月油價邊際回落但整體上游石化鏈盈利增速仍在高位，而受益於全球AI投資需求強勁，電子計算機行業持續引領盈利及收入增長，對總體工業企業盈利的貢獻從6.7個百分點提升至9.6個百分點，有色冶煉及化學制品分別貢獻6.4、4.2個百分點，三者合計貢獻約20.2個百分點，而內需相關下游製造業，利潤增速仍偏弱，尤其是汽車、傢俱製造降幅進一步走闊。
-
----
-
-### 2026-06-28 08:46:59  #國際
-
-伊朗伊斯蘭革命衛隊28日發表宣告稱，根據伊美諒解備忘錄，霍爾木茲海峽的通行管控由伊方負責，今後將更強硬地對待“違規”船隻。（新華社）
-
----
-
-### 2026-06-28 08:45:53  #其他
-
-【委內瑞拉多地地鐵和鐵路系統將恢復運營】當地時間27日，委內瑞拉交通部長哈克琳·法里亞宣佈，加拉加斯、瓦倫西亞和馬拉開波地鐵，以及加拉加斯與圖伊谷之間的客運鐵路將於28日恢復運營。法里亞表示，相關決定是在對各條鐵路線路的安全狀況進行嚴格評估後作出的。（央視新聞）
-
----
-
-### 2026-06-28 08:45:07  #國際
-
-市場訊息：伊朗革命衛隊稱已對8處美方目標發動打擊。
-
----
-
-### 2026-06-28 08:42:33  #國際
-
-【伊朗革命衛隊：將以果斷行動回應美方“侵略” 】伊朗伊斯蘭革命衛隊28日發表宣告說，將以果斷行動回應美方“侵略”行為。（新華社）
-
----
-
-### 2026-06-28 08:41:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said any breach of the ceasefire would violate the Islamabad agreement and completely halt all ongoing processes.
-
----
-
-### 2026-06-28 08:40:53  #國際
-
-伊朗伊斯蘭革命衛隊（IRGC）稱，美國以伊朗伊斯蘭革命衛隊海軍扣押違規船隻作為藉口，襲擊了五處伊朗沿海據點。
-
----
-
-### 2026-06-28 08:40:42  #國際
-
-伊朗伊斯蘭革命衛隊表示，任何停火違約行為都違背伊斯蘭堡協議，還將導致所有當前程序完全停滯。
-
----
-
-### 2026-06-28 08:39:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Islamic Revolutionary Guard Corps alleged the US used IRGC Navy confrontations with intruding vessels as a pretext to attack five Iranian coastal posts.
-
----
-
-### 2026-06-28 08:38:32  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said it will treat future violators of the agreement more harshly and that any "hostile aggression" will be met with a "destructive response".
-
----
-
-### 2026-06-28 08:37:30  #國際
-
-伊朗伊斯蘭革命衛隊（IRGC）表示，今後將以更強硬手段應對違規船隻，任何“敵方侵略”都將得到“毀滅性回擊”。
-
----
-
-### 2026-06-28 08:37:27  #國際
-
-美國中央司令部：美國海軍與空軍戰鬥機對霍爾木茲海峽及其周邊多處10處伊朗軍事目標實施打擊，報復伊朗針對美國油輪發動的無人機襲擊。
-
----
-
-### 2026-06-28 08:37:09  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Tasnim News reported Iran's Islamic Revolutionary Guard Corps navy and Aerospace Force launched joint missile and drone operations in Kuwait and Bahrain in response to recent U.S. strikes.
-
----
-
-### 2026-06-28 08:35:56  #國際
-
-伊朗伊斯蘭革命衛隊海軍與航空航天部隊已在科威特和巴林發起聯合導彈與無人機行動，以回應美國近期的打擊行動。
-
----
-
-### 2026-06-28 08:34:27  #MKT News
-
-Bahrain's Interior Ministry said the danger had passed after it received an enemy air-raid alert.
-
----
-
-### 2026-06-28 08:33:59  #國際
-
-【以防長：黎真主黨若未解除武裝 以軍不會撤出黎巴嫩】以色列國防部長卡茨27日發表影片宣告說，以色列、美國和黎巴嫩前一天簽署的三方框架協議中包含一項重要原則：只要黎巴嫩境內真主黨未解除武裝，以色列就不會從黎巴嫩撤軍。卡茨威脅說，如果伊朗試圖攻擊以色列以阻止三方框架協議落實，以色列將以“強大武力”回應。(新華社)
-
----
-
-### 2026-06-28 08:29:13  #其他
-
-【科威特稱防空系統正應對襲擊，巴林拉響警報】科威特軍方28日發表宣告說，科威特防空系統正應對“敵對”導彈和無人機襲擊。巴林內政部同日在社交媒體上說，警報已拉響，請民眾保持冷靜並前往最近的安全地點。（新華社）
-
----
-
-### 2026-06-28 08:26:59  #公司
-
-【近一週120多隻個股獲機構調研 廣生堂調研機構數最多】近一週（6月20日至26日）機構調研個股有120多隻，廣生堂調研機構數最多。廣生堂有53家機構調研，包括6家基金公司、6家證券公司、8傢俬募等。勝宏科技、盛弘股份、聯合化學、恆坤新材等個股均有20家以上機構評級，其中恆坤新材、廣信材料、鼎龍股份等個股均有時下熱門的光刻膠概念。從市場表現來看，近一週機構調研股平均跌超2%，東方鉭業、京東方A、信德新材、匯成真空等個股均漲超10%。
-
----
-
-### 2026-06-28 08:16:38  #國際
-
-【歐洲僅20%家庭有空調，歐洲缺空調背後原因】歐洲多地連日來遭遇高溫，多地打破高溫紀錄。然而，歐洲國家空調普及率遠低於其他地區主要經濟體。為何在經濟較為發達的歐洲，民眾卻較少使用空調等製冷裝置呢？ 據悉，歐洲僅有約20%的家庭配備空調等製冷裝置。主要原因是，以往歐洲的夏天，尤其是在歐洲北部，天氣不那麼炎熱，儘管有熱浪，但長時間高溫天氣並不頻繁，因此人們安裝空調的需求並不多。 其次，歐洲許多地方空調安裝難度大、成本高。歐洲建築普遍較為老舊，還有大量列入保護名錄的老建築物，申請安裝空調的流程繁瑣且有難度。同時，歐洲的能源成本高，部分民眾難以承擔高昂的空調電費。 此外，還有政策層面的限制。為應對氣候變化，歐洲制定了綠色發展的一些目標，大幅增加空調的使用可能會讓相關目標更難實現。（央視財經）
-
----
-
-### 2026-06-28 08:11:43  #其他
-
-科威特軍方稱其防空部隊目前正在對抗“敵對”導彈與無人機襲擊。
-
----
-
-### 2026-06-28 08:11:10  #其他
-
-科威特政府釋出預警，警示當地居民危險即將來臨。
-
----
-
-### 2026-06-28 08:11:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Air-raid sirens sounded in Kuwait; the Kuwaiti military said it is responding to an incoming aerial threat.
 
 ---
