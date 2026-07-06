@@ -1,7 +1,166 @@
 {
-  "updated": "2026-07-06 22:06:03",
-  "count": 13407,
+  "updated": "2026-07-06 22:09:57",
+  "count": 13423,
   "items": [
+    {
+      "id": "mkt:019f37c3-370a-7aab-8cb6-fb14ce9a33a4",
+      "time": "2026-07-06 22:09:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US ISM Services PMI 54 in June; 24th month of expansion】US ISM services PMI edged down to 54 in June from 54.5 in May, marking the 24th consecutive month of expansion, the ISM services report showed. The business activity index fell to 55.4 from 57.7. The prices index declined to 67.7 from 71.3, slipping below 70 for the first time since February; it has stayed above 60 for 19 months and its 12-month average is 68. Diesel, gasoline and oil were again the most-cited input-price risers, though some respondents reported price declines—attributed to differing contract terms across firms—and a subset said gasoline and diesel purchase prices have fallen, not universally. The ISM committee said oil-price pass-through to supply chains is likely to persist for several months but could ease by autumn if recent improvements in Strait of Hormuz shipping hold."
+    },
+    {
+      "id": "4972711",
+      "time": "2026-07-06 22:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：不尋求政權更迭。"
+    },
+    {
+      "id": "mkt:019f37c2-8207-7aab-8cb6-f1efa246c6b0",
+      "time": "2026-07-06 22:08:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the U.S. is not seeking regime change in Iran."
+    },
+    {
+      "id": "te:economy:564521",
+      "time": "2026-07-06 22:08:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "US Services Growth Eases in June — The ISM Services PMI in the US fell to 54.0 in June 2026, down from 54.5 in May, matching market expectations. The reading still indicates solid expansion in US services activity, though at a softer pace, driven by a slowdown in business activity growth (55.4 vs. 57.7 in May) and new orders (55.1 vs. 57.3). Employment levels rose for the first time since February (51.2 vs. 47.9), and price inflation eased to a four-month low (67.7 vs. 71.3). Survey respondents expressed ongoing concerns about persistent inflation due to the Middle East war but noted that business conditions remain strong."
+    },
+    {
+      "id": "mkt:019f37c2-2a66-7aab-8cb6-e97b8e0328e5",
+      "time": "2026-07-06 22:08:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said on Iran that the U.S. has secured concessions."
+    },
+    {
+      "id": "4972710",
+      "time": "2026-07-06 22:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：（關於伊朗）我們已獲得讓步。"
+    },
+    {
+      "id": "4972709",
+      "time": "2026-07-06 22:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國人權機構：對以色列可能存在廣泛或系統性的任意拘留做法表示關切。以色列拘留阿布·薩菲亞違反《世界人權宣言》多項條款及另一重要人權條約。"
+    },
+    {
+      "id": "mkt:019f37c1-37f5-7aab-8cb6-e42520795352",
+      "time": "2026-07-06 22:07:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【June ISM services PMI: service resilience alongside cooling inflation】June ISM non-manufacturing PMI 54, roughly unchanged and still in expansion, indicating US services remain the economy’s primary support. Subcomponents: prices index fell to 67.7, a marked retreat that signals cooling service-side cost and pricing pressures; new orders 55.1, down slightly but still expansionary; employment 51.2, back in expansion, implying no broad layoffs. Market takeaway: this profile implies a marginal easing of inflation persistence—especially services inflation—while the economy remains resilient but closer to moderate, not accelerating, expansion."
+    },
+    {
+      "id": "mkt:019f37c1-0d6c-7aab-8cb6-de8043e6fd7c",
+      "time": "2026-07-06 22:07:06",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Trump said on the Russia-Ukraine conflict that he believes the conflict is getting closer to an end."
+    },
+    {
+      "id": "4972708",
+      "time": "2026-07-06 22:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄烏戰爭：我認為我們離解決問題越來越近了。"
+    },
+    {
+      "id": "mkt:019f37c0-a2c7-7aab-8cb6-d2c85a17edc1",
+      "time": "2026-07-06 22:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will discuss the Russia-Ukraine situation with NATO."
+    },
+    {
+      "id": "4972707",
+      "time": "2026-07-06 22:06:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將在北約會議上討論俄烏問題。"
+    },
+    {
+      "id": "mkt:019f37c0-6d5c-7aab-8cb6-cb5944609c58",
+      "time": "2026-07-06 22:06:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "President Trump said on the Russia-Ukraine conflict that \"we are negotiating to see whether we can end this war.\""
+    },
+    {
+      "id": "mkt:019f37bf-e116-7aab-8cb6-c265dc57e876",
+      "time": "2026-07-06 22:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Putin is feeling pressure."
+    },
+    {
+      "id": "4972706",
+      "time": "2026-07-06 22:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄烏戰爭：我們正在談判。"
+    },
+    {
+      "id": "4972705",
+      "time": "2026-07-06 22:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京確實感受到了壓力。"
+    },
     {
       "id": "4972704",
       "time": "2026-07-06 22:04:53",
