@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-06 10:21:34",
-  "count": 13000,
+  "updated": "2026-07-06 10:25:26",
+  "count": 13001,
   "items": [
+    {
+      "id": "mkt:019f353d-e525-7aab-8ca8-d2f41b9e6461",
+      "time": "2026-07-06 10:24:36",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "Copper",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Weak commodities, import surge could push Australia into annual trade deficit】Weakening commodity prices and a surge in imports tied to data-centre construction have narrowed Australia’s goods trade surplus and could produce the first annual trade deficit since 2016. Fuel and equipment imports have jumped while exports have stalled; the government forecasts major commodity export receipts will rise only 3% in the current fiscal year. After years of mining-driven export gains, softer commodity prices are expected to weigh on export income. A return to deficit would likely pressure the AUD and tighten fiscal space."
+    },
+    {
+      "id": "4971433",
+      "time": "2026-07-06 10:23:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光學光電子板塊震盪走弱，華體科技跌停】光學光電子板塊震盪走弱，華體科技跌停，彩虹股份、萊寶高科、奧比中光-W、民爆光電、沃格光電、乾照光電等跟跌。"
+    },
+    {
+      "id": "4971432",
+      "time": "2026-07-06 10:23:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想創投、晶泰控股入股植髮機器人公司磅策醫療】 企查查APP顯示，近日，原磅客策（上海）智慧醫療科技有限公司發生工商變更，企業名稱變更為磅策（上海）醫療科技有限公司，新增晶泰控股、安徽省聯想強鏈補鏈創業投資基金合夥企業（有限合夥）等為股東，公司註冊資本增至4499.9萬元。企查查資訊顯示，該公司成立於2019年，經營範圍包含：人工智慧硬體銷售；人工智慧應用軟體開發；物聯網技術研發；計算機軟硬體及輔助裝置批發等。公開資訊顯示，其為AI植髮手術機器人公司。"
+    },
+    {
+      "id": "4971431",
+      "time": "2026-07-06 10:22:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊控股漲超4%。"
+    },
+    {
+      "id": "4971430",
+      "time": "2026-07-06 10:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於當地時間週三下午 3 點 30 分在土耳其會見敘利亞總統。"
+    },
+    {
+      "id": "4971429",
+      "time": "2026-07-06 10:21:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.03%，成分股中，晶合整合跌6.63%，格科微跌6.47%，生益電子跌5.70%，沐曦股份跌4.79%。"
+    },
     {
       "id": "mkt:019f353a-2bdb-7aab-8ca8-c863e0c1c8d4",
       "time": "2026-07-06 10:20:32",
@@ -119753,57 +119808,6 @@
         "Impact bullish"
       ],
       "text": "【Nomura raises Lenovo Group PT to HK$35, reiterates buy】Nomura reiterated a buy on Lenovo Group (00992.HK) and raised its target price to HK$35 from HK$16, based on 20x FY2027 EPS, implying about 46% upside. The broker said momentum in Lenovo’s general server business may exceed expectations; despite the stock rallying more than 100% since May, Nomura expects further upside because the market has not fully priced the server opportunity, its FY2027/28 earnings forecasts run roughly 10% above consensus, and Lenovo is in a re-rating phase with peers such as Dell trading near 30x one-year forward P/E. Nomura lifted its FY2027/28 EPS forecasts by 12%."
-    },
-    {
-      "id": "4959586",
-      "time": "2026-06-29 10:25:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股半導體材料板塊異動拉昇】有研矽漲14.24%，神工股份、凱德石英、恆坤新材、滬矽產業、雅克科技、阿石創跟漲。"
-    },
-    {
-      "id": "mkt:019f1130-a2a9-7aab-8c07-4339f0af0a5b",
-      "time": "2026-06-29 10:23:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Venezuela interim president Rodriguez said most of La Guaira state has been reconnected to the national grid."
-    },
-    {
-      "id": "4959585",
-      "time": "2026-06-29 10:23:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉臨時總統：已成功將拉瓜伊拉州大部分地區重新接入國家電力系統。"
-    },
-    {
-      "id": "mkt:019f112f-f85d-7aab-8c07-3c7f914e2423",
-      "time": "2026-06-29 10:23:04",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share retail sector rebounded; Zhongbai Group and Ningbo Zhongbai both hit the daily price limit, while Zhejiang Dongri, Bubugao, Dongbai Group and Central Mall also advanced."
-    },
-    {
-      "id": "te:markets:562379",
-      "time": "2026-06-29 10:22:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Steady as Jobs Data Looms — The dollar index was little changed at around 101.3 on Monday after reaching a more than one-year high last week, as investors awaited the latest US monthly jobs report for fresh clues on labor market strength and the outlook for Federal Reserve policy. Fed Chair Kevin Warsh reiterated the central bank’s commitment to bringing inflation under control, reinforcing the hawkish tone of his debut earlier this month that prompted markets to scale back expectations for US rate cuts this year. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing above 60%. Meanwhile, investors continued to monitor developments in the Middle East after oil prices climbed following renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks set to resume this week in Doha, Qatar."
     }
   ]
 }
