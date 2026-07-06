@@ -1,7 +1,77 @@
 {
   "date": "2026-07-06",
-  "count": 969,
+  "count": 977,
   "items": [
+    {
+      "id": "te:economy:564350",
+      "time": "2026-07-06 14:17:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Factory Orders",
+        "Importance 2"
+      ],
+      "text": "German Factory Orders Rise More than Expected — Germany's factory orders rose 1.9% mom in May 2026, rebounding from a downwardly revised 3.2% drop in April and beating market estimates for a 1.2% gain. The recovery was driven mainly by a surge in large-scale orders for aircraft, ships, trains, and military vehicles, which jumped 85.0%. Orders also grew for electrical equipment (5.7%) and mechanical engineering (3.7%). However, demand fell in the automotive industry (-3.8%) and data processing, electronic, and optical products (-7.8%). Orders rose for capital goods (2.2%), consumer goods (2.4%), and intermediate goods (1.4%). Foreign demand gained 2.2%, supported by an 11.2% surge in orders from the euro area, while orders from non-euro area countries fell 3.2%. Domestic orders also went up 1.3%. Excluding large-scale contracts, orders still rose a solid 1.0%. However, on a less volatile three-month basis, new orders in March-May eased 0.2% from the prior three months, though they were up 4.1% when large orders were excluded."
+    },
+    {
+      "id": "4971761",
+      "time": "2026-07-06 14:17:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：AI高階MLCC激勵日韓大廠訂單出貨比創新高，2H26缺貨風險提升】根據TrendForce集邦諮詢最新MLCC產業研究，在AI Server加速換代、雲端服務供應商（CSP）自研ASIC晶片持續放量的雙重驅動下，Murata（村田）、Samsung Electro-Mechanics（三星電機）、Taiyo Yuden（太陽誘電）等三大龍頭廠商2026年六月下旬BB Ratio（訂單出貨比）分別達1.30、1.31、1.25創新高，整體MLCC市場BB Ratio也同步升至1.04。值得留意的是，Murata 2026年第一季財報顯示，其Orders/Backlog Ratio（訂單/積壓訂單比）已達1.27，超越2018年MLCC史上最嚴重缺貨開端的1.25峰值，顯示訂單積壓壓力正快速積聚，供給短缺風險持續升高。"
+    },
+    {
+      "id": "4971760",
+      "time": "2026-07-06 14:17:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所：目前交易確認系統（TCS）出現訪問故障。"
+    },
+    {
+      "id": "4971759",
+      "time": "2026-07-06 14:16:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高溫天氣導致歐洲多地發生山火】近期歐洲的異常高溫天氣導致森林火災風險增加。過去幾天，法國、西班牙、葡萄牙和希臘等國多地發生山火，導致數萬人受影響。（新華社）"
+    },
+    {
+      "id": "4971758",
+      "time": "2026-07-06 14:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所：目前無法透過圖形使用者介面（GUI）進行場內場外交易、荷蘭基金及ATF基金交易的申報，也無法透過訂單錄入進行交易申報。"
+    },
+    {
+      "id": "4971757",
+      "time": "2026-07-06 14:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所（EURONEXT）：目前交易確認系統（TCS）出現訪問故障。"
+    },
+    {
+      "id": "mkt:019f3611-ed64-7aab-8cac-c9b0d485017b",
+      "time": "2026-07-06 14:16:12",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY rose 0.50% intraday to 162.17."
+    },
+    {
+      "id": "4971756",
+      "time": "2026-07-06 14:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列防長卡茨警告伊朗領導人不要威脅以色列。"
+    },
     {
       "id": "mkt:019f360f-7c2d-7aab-8cac-c2e16d5b9bae",
       "time": "2026-07-06 14:13:32",
