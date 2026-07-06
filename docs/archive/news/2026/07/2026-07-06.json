@@ -1,7 +1,135 @@
 {
   "date": "2026-07-06",
-  "count": 2043,
+  "count": 2055,
   "items": [
+    {
+      "id": "4972704",
+      "time": "2026-07-06 22:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西南寧防汛救災釋出會：廣西災情有可能進一步擴大】廣西南寧防汛救災釋出會上介紹，廣西此次強降雨導致的水庫災情，險情大、受災面廣、救援複雜程度高，同時還有繼續降雨來水的風險。當前搶險救援難度大，受災群眾安置任務重，災情有可能進一步放大擴大。截至目前，南寧市已轉移受災群眾4.8萬人，應急搶險各項工作正在進行中。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f37be-e9ca-7aab-8cb6-bcdd9bec3d5b",
+      "time": "2026-07-06 22:04:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel postpones next interest-rate decision from Aug. 31 to Sept. 1."
+    },
+    {
+      "id": "4972703",
+      "time": "2026-07-06 22:04:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行表示，已將下次利率決議日期從8月31日推遲至9月1日。"
+    },
+    {
+      "id": "mkt:019f37bd-c151-7aab-8cb6-b201441c41aa",
+      "time": "2026-07-06 22:03:30",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany will borrow €800 bln to fund a historic military rearmament."
+    },
+    {
+      "id": "te:economy:564518",
+      "time": "2026-07-06 22:03:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "US Services Activity Revised Marginally Lower: S&P Global — The S&P Global US Services PMI rose to 51.2 in June of 2026 from 50.7 in the previous month, revised marginally lower from the flash estimate of 51.3. Still, the result pointed to the fastest pace of expansion in the US services sector since before the outbreak of war in the Middle East triggered a global energy shock. New business grew at an accelerated pace, aided by an influx of high-spending tourists and events amid the FIFA World Cup that the US hosted during the period. Still, historically muted perceptions of business conditions dimmed the pace of hiring and the net amount of jobs decreased for the third month in the last four. Consistently, labor-related costs increased operating expenses in the period, magnifying the impact of tariffs and higher fuel prices from the war in Iran. Looking forward, firms continued to be optimistic on business output in the coming year."
+    },
+    {
+      "id": "4972702",
+      "time": "2026-07-06 22:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國將舉債8000億歐元重整軍備。"
+    },
+    {
+      "id": "mkt:019f37bd-0093-7aab-8cb6-a91f6e5d12bb",
+      "time": "2026-07-06 22:02:41",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US ISM Non-Manufacturing Supplier Deliveries Index (June) 54.4, prior 55.2."
+    },
+    {
+      "id": "mkt:019f37bc-e21e-7aab-8cb6-a75012c7f4cc",
+      "time": "2026-07-06 22:02:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Supplier Deliveries Index (Jun) | actual 54.4 | previous 55.2"
+    },
+    {
+      "id": "mkt:019f37bc-cecd-7aab-8cb6-9eb56549fa3f",
+      "time": "2026-07-06 22:02:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "US June ISM non-manufacturing inventories index 51.2, previous 62.5."
+    },
+    {
+      "id": "mkt:019f37bc-af0b-7aab-8cb6-91b6419d6669",
+      "time": "2026-07-06 22:02:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Inventory Index (Jun) | actual 51.2 | previous 62.5"
+    },
+    {
+      "id": "mkt:019f37bc-3d1e-7aab-8cb6-8bf08e48916f",
+      "time": "2026-07-06 22:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US global supply-chain pressure index was 1.25 in June; prior reading revised to 1.81 from 1.77."
+    },
+    {
+      "id": "mkt:019f37bc-1771-7aab-8cb6-841b892858bb",
+      "time": "2026-07-06 22:01:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Global Supply Chain Pressure Index (Jun) | actual 1.25 | previous 1.77"
+    },
     {
       "id": "4972701",
       "time": "2026-07-06 22:00:45",
