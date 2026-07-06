@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-06 08:46:42",
-  "count": 13058,
+  "updated": "2026-07-06 08:50:34",
+  "count": 13056,
   "items": [
+    {
+      "id": "4971259",
+      "time": "2026-07-06 08:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港遠東發展將學生宿舍物業售予京東集團，涉資7.5億港元】香港地產商遠東發展公告：出售捷彩有限公司全部已發行股份。初步購買價為港幣750,000,000元，該物業一直將其客房轉換為用作學生宿舍之單位，預期全面轉換即將於2026年下半年完成。買方之最終實益擁有人為京東集團。董事認為，該交易為本集團提供與京東集團建立策略關係之機會，並探索進一步合作機會，包括香港之潛在學生宿舍專案。"
+    },
+    {
+      "id": "mkt:019f34e4-f5d8-7aab-8ca6-82c81bed0181",
+      "time": "2026-07-06 08:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin balances across both exchanges fall CNY19.67 bln】As of July 3, Shanghai Stock Exchange margin balance stood at CNY1,501.76 bln, down CNY13.20 bln from the prior session; Shenzhen Stock Exchange margin balance was CNY1,469.71 bln, down CNY6.47 bln. Combined margin balance CNY2,971.47 bln, down CNY19.67 bln."
+    },
+    {
+      "id": "4971258",
+      "time": "2026-07-06 08:47:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4105.26點。"
+    },
+    {
+      "id": "4971257",
+      "time": "2026-07-06 08:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少196.66億元】截至7月3日，上交所融資餘額報15017.64億元，較前一交易日減少132.0億元；深交所融資餘額報14697.07億元，較前一交易日減少64.66億元；兩市合計29714.71億元，較前一交易日減少196.66億元。"
+    },
+    {
+      "id": "mkt:019f34e4-3e99-7aab-8ca6-7981fb17f5da",
+      "time": "2026-07-06 08:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Top agencies launch nationwide crackdown on illegal, non‑compliant production】The Office of the State Council Work Safety Committee, together with the Central Political and Legal Affairs Commission, Supreme People’s Court, Supreme People’s Procuratorate, Ministry of Public Security and Ministry of Justice, issued a notice directing regions and relevant departments to intensify enforcement of workplace safety. The notice orders implementation of Xi Jinping’s safety directives and the national safety video conference guidance, tying enforcement to the three‑year safety整改 campaign and major accident‑hazard inspections, and directs focused inspections and enforcement in mines, chemicals, fire safety, and industrial/trade sectors."
+    },
     {
       "id": "4971255",
       "time": "2026-07-06 08:45:26",
@@ -120314,75 +120360,6 @@
         "觀點"
       ],
       "text": "中金研報稱，傾向於認為7月政治局會議後或有望開啟貨幣政策進一步放鬆的視窗，若寬鬆落地，債券市場可能迎來一波較快的踏空回補行情，利率下行或會相應提速。建議投資者關注包括30年期國債等長久期資產的配置機會，提前佈局可能是應對潛在踏空風險的較好選擇。"
-    },
-    {
-      "id": "4959354",
-      "time": "2026-06-29 08:50:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拆快遞不再“裡三層外三層” 針對快遞過度包裝的強制國標將實施】7月1日起，我國首部針對快遞過度包裝的強制性國標——《限制快遞過度包裝要求》將正式實施。新國標將快遞包裝箱適配、快遞包裝層數和封箱膠帶使用量作為關鍵性指標，明確了限制快遞過度包裝的底線要求。以往，行業普遍採用“大箱套小件、多層氣泡膜、膠帶多圈纏繞”的打包方式。即將實施的新規明確：非易損易碎類物品快遞包裝層數不應超過2層，易損易碎類物品快遞包裝層數不應超過4層。"
-    },
-    {
-      "id": "4959353",
-      "time": "2026-06-29 08:49:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升5個基點至3.845%。"
-    },
-    {
-      "id": "mkt:019f10da-3644-7aab-8c04-fa7a74f153c3",
-      "time": "2026-06-29 08:49:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Analyst: Risk appetite weighing on gold; further downside likely】Gold fell in Asian trade after Capital Economics analyst Kieran Tompkins said deteriorating risk appetite for AI-related assets has spilled into commodities, with gold among last week’s worst performers. Tompkins said the metal, traditionally a safe haven, is increasingly behaving like a risk asset; extreme speculative activity in Q4 drove large volatility and gold also underperformed during the U.S.-Iran conflict. He expects further pressure on gold as speculative fervor cools and equities weaken, noting gold’s correlation with the S&P 500 is at about a 14-year high."
-    },
-    {
-      "id": "4959352",
-      "time": "2026-06-29 08:49:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：蘋果對長鑫儲存的認可將提升其全球地位】花旗稱，據傳蘋果對長鑫儲存的記憶體感興趣，這一認可將長鑫儲存從一個“國產替代的故事”轉變為一個“具備公信力的全球第四大DRAM製造商”。分析師Kevin Chen等人在報告中表示，獲得採購長鑫儲存記憶體的批准可能會面臨挑戰，但蘋果的考量本身就已經對長鑫儲存的技術進步提供了強有力的背書。預計該訊息將長鑫儲存及其供應鏈（包括裝置供應商和OSAT外包封測廠商）將帶來利好。研究覆蓋範圍內，更看好ASMPT公司和長電科技。"
-    },
-    {
-      "id": "mkt:019f10d8-eeda-7aab-8c04-f72fa5fa32b5",
-      "time": "2026-06-29 08:48:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China margin financing balances fall CNY 20.597 bln on June 26】As of June 26, margin financing balances stood at: Shanghai Stock Exchange CNY 1.513064 tln, down CNY 8.05 bln from the previous trading day; Shenzhen Stock Exchange CNY 1.467281 tln, down CNY 12.547 bln; combined CNY 2.980345 tln, down CNY 20.597 bln."
-    },
-    {
-      "id": "4959351",
-      "time": "2026-06-29 08:47:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京津冀醫用膠耗材集採啟動】京津冀“3+N”聯盟近日啟動醫用膠類耗材集中帶量採購，有望減輕患者手術費用負擔。 醫用膠是外科手術中廣泛使用的耗材，主要用於皮膚創口黏合、體內器官組織止血、胃底靜脈曲張栓塞等手術場景。相比傳統縫針縫線，使用醫用膠，操作便捷，且能縮短手術時間。此前部分地區單支醫用膠費用達數百元甚至更高。本次集採週期為3年，聯盟地區所有公立醫療機構均應參加。 此次集採對體表使用、體腔使用兩類耗材分別設定了最高申報價。體表使用的兩類註冊證產品每毫升價格最高不高於139元。體腔使用產品每毫升價格不高於128元。集采采取“帶量詢價”和“帶量聯動”兩種採購方式。前者由企業在最高限價內自主申報價格，報價不超限價即可中選。後者則將京津冀“3+N”聯盟的採購價格與全國其他省份的集採中選價進行聯動，確保執行全國最低價。（北京日報）"
-    },
-    {
-      "id": "4959350",
-      "time": "2026-06-29 08:47:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少205.98億元】截至6月26日，上交所融資餘額報15130.64億元，較前一交易日減少80.50億元；深交所融資餘額報14672.81億元，較前一交易日減少125.48億元；兩市合計29803.45億元，較前一交易日減少205.98億元。"
     }
   ]
 }

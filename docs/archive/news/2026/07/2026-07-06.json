@@ -1,7 +1,53 @@
 {
   "date": "2026-07-06",
-  "count": 290,
+  "count": 295,
   "items": [
+    {
+      "id": "4971259",
+      "time": "2026-07-06 08:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港遠東發展將學生宿舍物業售予京東集團，涉資7.5億港元】香港地產商遠東發展公告：出售捷彩有限公司全部已發行股份。初步購買價為港幣750,000,000元，該物業一直將其客房轉換為用作學生宿舍之單位，預期全面轉換即將於2026年下半年完成。買方之最終實益擁有人為京東集團。董事認為，該交易為本集團提供與京東集團建立策略關係之機會，並探索進一步合作機會，包括香港之潛在學生宿舍專案。"
+    },
+    {
+      "id": "mkt:019f34e4-f5d8-7aab-8ca6-82c81bed0181",
+      "time": "2026-07-06 08:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin balances across both exchanges fall CNY19.67 bln】As of July 3, Shanghai Stock Exchange margin balance stood at CNY1,501.76 bln, down CNY13.20 bln from the prior session; Shenzhen Stock Exchange margin balance was CNY1,469.71 bln, down CNY6.47 bln. Combined margin balance CNY2,971.47 bln, down CNY19.67 bln."
+    },
+    {
+      "id": "4971258",
+      "time": "2026-07-06 08:47:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4105.26點。"
+    },
+    {
+      "id": "4971257",
+      "time": "2026-07-06 08:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少196.66億元】截至7月3日，上交所融資餘額報15017.64億元，較前一交易日減少132.0億元；深交所融資餘額報14697.07億元，較前一交易日減少64.66億元；兩市合計29714.71億元，較前一交易日減少196.66億元。"
+    },
+    {
+      "id": "mkt:019f34e4-3e99-7aab-8ca6-7981fb17f5da",
+      "time": "2026-07-06 08:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Top agencies launch nationwide crackdown on illegal, non‑compliant production】The Office of the State Council Work Safety Committee, together with the Central Political and Legal Affairs Commission, Supreme People’s Court, Supreme People’s Procuratorate, Ministry of Public Security and Ministry of Justice, issued a notice directing regions and relevant departments to intensify enforcement of workplace safety. The notice orders implementation of Xi Jinping’s safety directives and the national safety video conference guidance, tying enforcement to the three‑year safety整改 campaign and major accident‑hazard inspections, and directs focused inspections and enforcement in mines, chemicals, fire safety, and industrial/trade sectors."
+    },
     {
       "id": "4971255",
       "time": "2026-07-06 08:45:26",
