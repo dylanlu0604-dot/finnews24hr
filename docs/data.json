@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-06 22:14:06",
-  "count": 13436,
+  "updated": "2026-07-06 22:18:04",
+  "count": 13449,
   "items": [
+    {
+      "id": "4972731",
+      "time": "2026-07-06 22:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已要求對國際足聯展開審查。"
+    },
+    {
+      "id": "4972730",
+      "time": "2026-07-06 22:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國際足聯禁賽美國頂級球員的做法有失公平。"
+    },
+    {
+      "id": "4972729",
+      "time": "2026-07-06 22:16:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "據悉，由HELLMAN & FRIEDMAN支援的該中心計劃透過IPO募集30億美元。"
+    },
+    {
+      "id": "mkt:019f37c9-a789-7aab-8cb7-2fb639eaa8ea",
+      "time": "2026-07-06 22:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary General Rutte said the US is doing everything it can to implement the Ukraine priority needs list (PURL)."
+    },
+    {
+      "id": "4972728",
+      "time": "2026-07-06 22:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "呂特：美國正在竭盡全力落實普爾計劃。"
+    },
+    {
+      "id": "mkt:019f37c9-74fe-7aab-8cb7-257a8014494d",
+      "time": "2026-07-06 22:16:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. soybeans up over 3% intraday at 1,170.50 cents per bushel."
+    },
+    {
+      "id": "4972727",
+      "time": "2026-07-06 22:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普說他看了，巴洛貢沒有作弊。"
+    },
+    {
+      "id": "mkt:019f37c8-c1a1-7aab-8cb7-1ffd15b012e0",
+      "time": "2026-07-06 22:15:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump discussed a red-card issue with FIFA president Gianni Infantino."
+    },
+    {
+      "id": "4972726",
+      "time": "2026-07-06 22:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷計劃在2027年發行50億美元的本幣債券。"
+    },
+    {
+      "id": "te:markets:564522",
+      "time": "2026-07-06 22:14:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Losses in Mining and Tech — The S&P/TSX Composite Index fell 0.5% do below 35,150 on Monday amid pressure from gold miners and tech. Agnico Eagle and Barrick fell about 2%, while WPM lost more than 2.5% as a strong dollar pressed gold prices. Meanwhile, oil prices fell further below pre-conflict levels after OPEC+ agreed to raise output targets again from August, while exports through the Strait of Hormuz continued to recover, improving global supply prospects. These developments supported the view that the BoC a will keep interest rates on hold, pushing bond yields lower and easing concerns over borrowing costs. Financial stocks outperformed, with RBC rising 1%, TD Bank gaining more than 0.5%, and BMO advancing over 1%."
+    },
+    {
+      "id": "4972725",
+      "time": "2026-07-06 22:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷財政秘書：新戰略將降低對華爾街的依賴，且不會計劃發行國際債券融資。"
+    },
+    {
+      "id": "mkt:019f37c7-3a68-7aab-8cb7-16d993576828",
+      "time": "2026-07-06 22:13:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump confirmed he called the FIFA president."
+    },
+    {
+      "id": "4972724",
+      "time": "2026-07-06 22:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普證實曾致電國際足聯主席。"
+    },
+    {
+      "id": "4972723",
+      "time": "2026-07-06 22:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷獲得世界銀行支援的 20 億美元貸款，利率 6.3%。"
+    },
     {
       "id": "4972722",
       "time": "2026-07-06 22:13:09",
@@ -123579,15 +123696,6 @@
         "美國"
       ],
       "text": "美國6月達拉斯聯儲商業活動指數為0，前值0.4。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606293787017261",
-      "time": "2026-06-29 22:17:02",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國最高法院暫時允許美聯儲理事庫克繼續留任原職。"
     }
   ]
 }
