@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-07 01:17:25",
-  "count": 13739,
+  "updated": "2026-07-07 01:21:18",
+  "count": 13744,
   "items": [
+    {
+      "id": "4972931",
+      "time": "2026-07-07 01:20:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達回應Kyber延期傳聞：產品路線圖未受影響】英偉達發言人回應稱，公司產品路線圖未受影響。此前研究機構SemiAnalysis稱，英偉達下一代AI計算架構Kyber因研發受挫，釋出時間可能推遲12個月至2028年，該架構原計劃用於下一代RubinUltraGPU。瑞穗證券分析師JordanKlein表示，市場已多次出現類似英偉達新品延期傳聞，此類訊息更像是“吸引眼球的噪音”。受傳聞影響有限，英偉達股價週一盤中仍上漲約1.2%。Kyber被視為英偉達資料中心架構的重要升級，將採用全新的垂直機架設計，以提升計算密度並降低網路延遲，同時有望帶動資料中心共封裝光學（CPO）產業鏈需求。"
+    },
+    {
+      "id": "te:markets:564562",
+      "time": "2026-07-07 01:19:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.3% to close at 8,480 on Monday, weighed down by losses in the luxury and pharmaceutical sectors. Luxury stocks underperformed, with LVMH down 0.9%, L'Oréal losing 1.2%, and Hermès retreating 0.9%. In healthcare, Sanofi fell 1.7%. Industrials traded mixed, with Schneider Electric down 0.6% and Air Liquide losing 1.5%, while Airbus rose 1.6%, Stellantis gained 2%, and Thales advanced 1.2% after agreeing to acquire a stake in Exail Technologies. Vinci fell 2.1% after France's construction PMI declined to 38.2 in June from 39.6 in May, remaining deep in contraction territory and signaling that the sector has now been shrinking for four consecutive years. Meanwhile, financial stocks outperformed as lower oil prices eased inflation concerns and reinforced expectations of a more dovish ECB, with BNP Paribas up 0.9% and AXA gaining 1%."
+    },
+    {
+      "id": "4972930",
+      "time": "2026-07-07 01:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場資訊：三星人工智慧相關業務的盈利結果或將影響半導體股票的近期走勢。"
+    },
+    {
+      "id": "mkt:019f3870-8588-7aab-8cba-2ff6a35ea5fb",
+      "time": "2026-07-07 01:18:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted bids totaling $2.719 billion from 13 counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019f386f-17c8-7aab-8cba-2205937503e9",
+      "time": "2026-07-07 01:17:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA denies Kyber delay rumors; product roadmap unaffected】A NVIDIA spokesperson denied reports of a delay to the Kyber AI compute architecture and said the company’s product roadmap is unaffected. Research firm SemiAnalysis had reported Kyber suffered R&D setbacks and could be delayed about 12 months to 2028; the architecture was slated for the next‑generation Rubin Ultra GPU. Mizuho analyst Jordan Klein characterized similar delay chatter as attention‑grabbing noise. The report had limited market impact: NVIDIA shares rose roughly 1.2% intraday on Monday. Kyber is viewed as a material data‑center upgrade, employing a vertical‑rack design to boost compute density and cut network latency, and could lift demand for co‑packaged optics (CPO) in data centers."
+    },
     {
       "id": "4972929",
       "time": "2026-07-07 01:16:16",
