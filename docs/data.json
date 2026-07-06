@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-06 14:02:34",
-  "count": 13033,
+  "updated": "2026-07-06 14:06:22",
+  "count": 13031,
   "items": [
+    {
+      "id": "4971745",
+      "time": "2026-07-06 14:05:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【統計：韓國新設企業連續5年減少，在營企業增速跌至歷史低位】據韓國國稅廳7月6日釋出的國稅統計，截至去年12月31日，全國在營企業數量為1032.1407萬家，同比僅增長1.7%，為國稅統計門戶可查的2005年以來最低增速。按行業來看，餐飲業低迷態勢尤為明顯。去年餐飲業在營企業為79.8969萬家，同比減少1.9%，跌破80萬家；新設餐飲企業為13.0114萬家，同比減少13.6%，創2011年以來最大降幅。"
+    },
+    {
+      "id": "4971744",
+      "time": "2026-07-06 14:02:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐陸通成立電源技術新公司，含積體電路業務】企查查APP顯示，近日，廈門歐陸通電源技術有限公司成立，經營範圍包含：資訊保安裝置銷售；積體電路銷售；家用電器零配件銷售；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由歐陸通全資持股。"
+    },
     {
       "id": "mkt:019f3604-f821-7aab-8cac-9a7fe71550ad",
       "time": "2026-07-06 14:02:02",
@@ -119939,50 +119956,6 @@
         "公司"
       ],
       "text": "SK集團會長崔泰源：將投資400萬億韓元建設新的晶片叢集。"
-    },
-    {
-      "id": "mkt:019f11fb-f73a-7aab-8c0a-ae8fa11e6419",
-      "time": "2026-06-29 14:05:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "SK Group chairman Chey Tae-won said he will invest KRW 400 trillion to build a new semiconductor cluster."
-    },
-    {
-      "id": "mkt:019f11fa-ee00-7aab-8c0a-a0456d021a60",
-      "time": "2026-06-29 14:04:45",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact mixed"
-      ],
-      "text": "SK Group chairman Chey Tae-won said even if SK Hynix accelerates plant construction, memory shortages will persist."
-    },
-    {
-      "id": "mkt:019f11fa-4de4-7aab-8c0a-9be3e8c47539",
-      "time": "2026-06-29 14:04:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "South Korea's minister of climate, energy and environment proposed a plan to shift the power system from large centralized generators to a renewables-led model, aiming to build a stable electricity system capable of supporting energy-intensive semiconductor fabs."
-    },
-    {
-      "id": "4959838",
-      "time": "2026-06-29 14:03:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國SK集團會長崔泰源：即便SK海力士加快推進在建晶圓廠的建設，儲存器短缺問題仍將持續。"
     }
   ]
 }
