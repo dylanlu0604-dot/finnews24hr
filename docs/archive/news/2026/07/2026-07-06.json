@@ -1,7 +1,165 @@
 {
   "date": "2026-07-06",
-  "count": 508,
+  "count": 524,
   "items": [
+    {
+      "id": "mkt:019f352f-9687-7aab-8ca8-a547b12fa0ad",
+      "time": "2026-07-06 10:08:58",
+      "tags": [
+        "MKT News",
+        "09626.HK",
+        "Impact bullish",
+        "00700.HK",
+        "03690.HK"
+      ],
+      "text": "Hong Kong tech shares rallied; Bilibili (09626.HK) and Tencent Holdings (00700.HK) rose over 3%, Meituan (03690.HK) gained 2.4% and Alibaba Group (09988.HK) added 1.9%."
+    },
+    {
+      "id": "te:markets:564283",
+      "time": "2026-07-06 10:08:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Higher as PMI Improves — The Hang Seng Index rose 0.8%, or 187 points, to 23,529 on Monday, supported by stronger-than-expected private-sector activity after the S&P Global Hong Kong SAR PMI climbed to 52.0 in June from 50.4 in May, marking the fastest expansion since February. Investors also looked ahead to China's June CPI and PPI data due later this week for fresh clues on the mainland's economic recovery. Gains were tempered, however, by caution over a record wave of IPO lock-up expirations this week, which could increase share supply and trigger profit-taking in recently listed companies. Chinese AI developer Knowledge Atlas Technology will see 25.6 million shares, or nearly 6% of its outstanding stock, become eligible for trading on Wednesday, while MiniMax and Shanghai Iluvatar CoreX Semiconductor are also set to unlock sizeable portions of their shares. Among notable movers were SMIC (1.6%), Innovent Biologics (3.6%), and Kingboard Holdings (2.2%) while Knowledge Atlas Technology declined 7.2%."
+    },
+    {
+      "id": "4971409",
+      "time": "2026-07-06 10:08:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指上漲 0.9%，報 5931.37 點。"
+    },
+    {
+      "id": "4971408",
+      "time": "2026-07-06 10:08:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【涉及生態環境、電磁計量 45項國家計量技術規範釋出】記者今天瞭解到，市場監管總局釋出45項國家計量技術規範，涉及生態環境、電磁計量、臨床醫學、物化分析等多個領域。在溫室氣體監測方面，《環境空氣二氧化碳高精度監測儀檢定系統表》首次建立了“計量基準—計量標準—工作計量器具”的完整量值傳遞體系，有效提升我國溫室氣體監測資料的準確性和國際可比性，為碳排放核算及碳交易市場執行提供堅實可靠的體系化計量支撐。《環境監測用氣體標準物質比對技術規範》的釋出實施，為環境監測用氣體標準物質的量值確認和效能評價提供了統一準則，確保環境監測資料的“真、準、全”。在水質監測方面，《水質自動取樣器校準規範》填補了該類儀器量值溯源與計量校準方面的空白，從源頭上保障了水環境監測資料的準確一致，為水環境治理決策提供可靠的資料支撐。《水質臭氧分析儀校準規範》的出臺，為水中臭氧殘留的精準檢測提供了科學可靠的技術依據，直接關係千家萬戶的飲水安全。兩項規範協同發力，覆蓋從地表水監測到飲用水保障的全過程，切實守護人民群眾用水安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f352e-d7fc-7aab-8ca8-9e4a0be83170",
+      "time": "2026-07-06 10:08:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09863.HK"
+      ],
+      "text": "Hang Seng Tech index rose 1% and the Hang Seng Index gained 0.8% as auto stocks strengthened; Leapmotor (09863.HK) climbed nearly 7%."
+    },
+    {
+      "id": "mkt:019f352e-8b33-7aab-8ca8-97491eaa5855",
+      "time": "2026-07-06 10:07:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Russia says strikes hit 149 sites; continues mine clearance and sweeps in Lyman】RUSSIAN DEFENCE MINISTRY said on July 5 that over the past day Russian forces struck Ukrainian military airfields, fuel, energy and transport infrastructure, logistics hubs, and production/storage sites for long-range drones and components across 149 locations, and targeted Ukrainian units and temporary positions of foreign mercenaries. In Lyman, Donetsk region, Russian forces continued mine clearance and urban sweeps, destroying one bridge and 11 drone-control points."
+    },
+    {
+      "id": "4971407",
+      "time": "2026-07-06 10:07:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓綜合股指上漲 1.1%，報 6255.05 點。"
+    },
+    {
+      "id": "4971406",
+      "time": "2026-07-06 10:07:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4544.850點；恒生指數現漲0.795%。"
+    },
+    {
+      "id": "4971405",
+      "time": "2026-07-06 10:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行宣佈任命巴西籍人士塔蒂亞娜·羅西托出任中國、蒙古與韓國事務新任處長，任命自2026年7月1日起生效。"
+    },
+    {
+      "id": "mkt:019f352d-c7ed-7aab-8ca8-8b7ee3c5e870",
+      "time": "2026-07-06 10:07:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Most A-share robotics concept stocks pulled back; Tuosida, Suochen Technology and Sanrui Intelligent fell over 10%, while Jiangsu Leili, Keli Sensing, Wuzhou Xinchun and Lvde Xiebo also declined."
+    },
+    {
+      "id": "4971404",
+      "time": "2026-07-06 10:06:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國檢方指控四大煉油商合謀壟斷】據韓聯社週一援引檢方訊息報道，韓國檢方表示，已對國內四家煉油企業提起訴訟，指控其合謀操縱燃油價格，造成約170億美元的反競爭性損害。據報道，這些公司包括HD現代油品、SK能源、GS加德士和S-Oil。 檢察官指控，HD現代石油銀行和SK能源的定價管理人員在伊朗衝突爆發後不久，就石油產品價格進行串通。韓聯社稱，他們討論了漲價的幅度和時機。報道稱，GS加德士和S-Oil隨後也效仿了他們的定價策略。韓聯社援引檢方的話稱，反競爭行為造成的總經濟損失估計為26萬億韓元（約合170億美元）。SK能源的母公司SK創新拒絕置評。HD現代石油銀行、GS加德士和S-Oil尚未立即回應置評請求。"
+    },
+    {
+      "id": "4971403",
+      "time": "2026-07-06 10:06:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【廖岷會見哈佛大學教授艾利森】2026年7月1日下午，財政部副部長廖岷在北京會見哈佛大學教授艾利森，就中美關係、中美經貿關係、國際經濟治理等議題交換了意見。 (財政部)"
+    },
+    {
+      "id": "4971402",
+      "time": "2026-07-06 10:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱在紅利曼繼續排雷和清剿】俄羅斯國防部7月5日通報稱，過去一天，俄軍打擊了烏軍在149個區域的軍用機場、燃料能源和交通基礎設施、後勤中心、遠端無人機及其零部件的生產和儲存地點，以及烏軍和外國僱傭兵臨時部署點。在頓涅茨克地區紅利曼，俄軍部隊繼續排雷，並對城內烏軍進行清剿，還摧毀一座橋樑及11個無人機控制點。 烏克蘭武裝部隊總參謀部5日通報稱，烏軍當天打擊了位於克里米亞地區的一處俄空軍使用的機場，以及頓涅茨克地區俄方用於運輸人員、裝備和彈藥的兩座橋樑，還對頓涅茨克、盧甘斯克和赫爾松地區的3座軍火庫進行了打擊。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f352d-163a-7aab-8ca8-823f425e98a4",
+      "time": "2026-07-06 10:06:14",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "【Economist: Australia jobs-market strains not sufficient to deter further RBA rate hikes】Indeed economist Callam Pickering said Australian job postings were relatively stable over the past year but hiring demand could ease through the remainder of the year amid ongoing economic headwinds. He described the labour market as neither strong nor dire and said recent signs of strain have made employment a growing consideration for the RBA. Pickering added those cracks are not sufficient to prevent the RBA from raising rates again."
+    },
+    {
+      "id": "4971401",
+      "time": "2026-07-06 10:06:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團LongCat-2.0開源，同步開放國產卡推理程式碼】7月6日，美團將萬億引數大模型LongCat-2.0正式開源。LongCat-2.0總引數1.6T，平均啟用約48B，架構上引入LongCat稀疏注意力和N-gram Embedding，提升長上下文處理效率與token級表示能力的同時，結合動態啟用進一步強化了程式碼理解、生成以及執行的表現。本次開源同步提供BF16、FP8以及INT8等多精度版本，全面覆蓋不同算力平臺的部署需求，同時將針對國產算力極致最佳化的推理成果同步開源。這意味著，即使手上沒有最新算力，也能基於現有硬體將LongCat-2.0穩定跑起來。"
+    },
+    {
+      "id": "4971400",
+      "time": "2026-07-06 10:05:23",
+      "tags": [
+        "央行"
+      ],
+      "text": "【機構：澳大利亞就業市場風險不足以阻止加息】全球就業入口網站Indeed的經濟學家皮克林表示，過去一年澳大利亞的招聘廣告相對穩定，但由於持續的經濟挑戰，今年剩餘時間的招聘需求可能會走弱。他補充說，就業市場不一定強勁，但也不算太糟。儘管如此，隨著裂痕開始顯現，近幾個月來就業市場已成為澳大利亞央行更大的考量因素。但他補充說，這些裂痕還不足以阻止澳大利亞央行再次加息。"
+    },
     {
       "id": "4971399",
       "time": "2026-07-06 10:04:36",
