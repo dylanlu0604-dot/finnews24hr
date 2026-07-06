@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-07 06:36:50",
-  "count": 13961,
+  "updated": "2026-07-07 06:40:43",
+  "count": 13963,
   "items": [
+    {
+      "id": "4973051",
+      "time": "2026-07-07 06:40:02",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "三星電子第二季度營業利潤 89.40 萬億韓元，市場預期 84.2 萬億韓元。"
+    },
+    {
+      "id": "te:markets:564574",
+      "time": "2026-07-07 06:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Spikes by 14.93% — Top commodity gainers are Coffee (14.93%), Cocoa (13.95%) and Soybeans (4.46%). Biggest losers are Rice (-9.25%) and Wool (-2.01%)."
+    },
     {
       "id": "te:markets:564573",
       "time": "2026-07-07 06:35:01",
