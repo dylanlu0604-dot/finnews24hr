@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-07 01:25:09_
-_本檔包含 2504 則快訊，約 524314 字_
+_更新時間：2026-07-07 03:17:43_
+_本檔包含 2512 則快訊，約 526759 字_
+
+---
+
+### 2026-07-01 17:16:22  #MKT News #Commodities #Energy
+
+【Vessel grounded in Strait of Hormuz; damage extent unclear】Al Jazeera reported a vessel grounded in the Strait of Hormuz after reportedly not following Iran’s 'approved' transit route; details are still emerging and the extent of damage is unclear. Iran’s Islamic Revolutionary Guard Corps (IRGC) navy has repeatedly warned masters, owners and shipping companies that deviating from designated routes in the Persian Gulf when entering or leaving could trigger irreversible incidents. The report did not link the grounding to recent Iranian attacks on two vessels that transited without Tehran’s permission, one of which was carrying Qatari crude.
+
+---
+
+### 2026-07-01 17:16:13  #公司 #國際
+
+【霍爾木茲海峽發生船隻擱淺事故，受損程度尚不明確】據半島電視臺，有報道稱，一艘船隻在未遵循伊朗針對這一戰略水道所規定的“獲批”航線的情況下，於霍爾木茲海峽發生擱淺；目前有關該事件的更多細節正陸續浮出水面。目前尚不清楚該船受損的具體程度。據媒體報道，伊朗革命衛隊海軍“已多次向全球船長、船東及航運公司負責人發出警告，若在波斯灣航行時不走‘指定航線’而擅自進出，可能會引發無法挽回的意外”。該報道未提及伊朗近期襲擊的兩艘船隻——這兩艘船因未經德黑蘭許可透過該海峽而遭襲，其中包括一艘載有卡達原油的油輪。
+
+---
+
+### 2026-07-01 17:15:37  #公司
+
+【中國人保：張道明擔任公司副總裁任職資格獲監管核准】中國人保公告稱，近日收到國家金融監督管理總局批覆，已核准張道明擔任公司副總裁的任職資格。張道明簡歷詳見公司4月29日在上海證券交易所網站釋出的相關會議決議公告。
+
+---
+
+### 2026-07-01 17:15:36  #MKT News
+
+Rising market concern over an Iran peace agreement weighed on Gulf debt: UAE sovereign bonds fell 1 US cent, Saudi sovereign bonds declined in tandem, and S&P Global Market Intelligence showed Bahrain's 5-year CDS up 5bps to 246bps versus Tuesday's close.
+
+---
+
+### 2026-07-01 17:15:12  #公司 #市場
+
+【上期能源：對部分客戶採取限制開倉監管措施】7月1日，上海國際能源交易中心釋出關於對部分客戶採取限制開倉監管措施的公告。公告顯示，2026年7月1日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。
+
+---
+
+### 2026-07-01 17:15:03  #市場
+
+標普全球市場情報表示，巴林五年期信貸違約掉期較週二收盤上漲5個基點，報246個基點。
+
+---
+
+### 2026-07-01 17:15:00  #市場 #國際
+
+市場擔憂伊朗和平協議相關風險升溫，阿聯酋主權債券下跌 1 美分，沙特主權債券同步走弱。
+
+---
+
+### 2026-07-01 17:14:58  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 1
+
+Cyprus Retail Trade Growth Accelerates — Retail sales in Cyprus rose 7.5% year-on-year in May 2026, accelerating from 2.9% in April and marking the strongest growth in four months. Clothing and footwear recorded the largest increase, with sales surging 19.4% after a 3.8% rise in April. Growth also strengthened for food in specialised stores, which increased 1.2% after a 3.3% drop, supermarkets (7.4% vs. 2.4%), household equipment (13.3% vs. 11.7%), cultural and recreational goods (11.3% vs. 11.2%), and pharmaceuticals (4.0% vs. 1.8%). Meanwhile, sales growth eased slightly for information and communication equipment (17.6% vs. 17.7%), while sales of flowers, plants, watches, jewellery, and second-hand goods fell 2.1% after rising 8.2%. Automotive fuel sales remained in decline (-3.8% vs. -3.6%). In the first five months of 2026, retail sales increased 5.9% compared with the same period a year earlier.
 
 ---
 

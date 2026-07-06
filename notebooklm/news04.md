@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-07 01:25:09_
-_本檔包含 3117 則快訊，約 525144 字_
+_更新時間：2026-07-07 03:17:43_
+_本檔包含 3124 則快訊，約 527877 字_
+
+---
+
+### 2026-07-02 15:21:29  #市場 #央行 #國際
+
+【歐元區債券收益率追隨美國國債收益率走高】歐元區政府債券收益率上升，追隨美國國債收益率走高。當天的焦點將是晚些時候公佈的美國就業資料，以及西班牙和法國的債券供應。比利時聯合銀行分析師在一份報告中表示，週三在辛特拉舉行的歐洲央行論壇上，美聯儲主席凱文·沃什、歐洲央行行長克里斯蒂娜·拉加德、英國央行行長安德魯·貝利和加拿大央行行長蒂夫·麥克勒姆之間備受期待的小組辯論“並沒有對與會央行貨幣政策的短期動態產生太多真正的新見解“。根據Tradeweb的資料，10年期德國國債收益率上升2.2個基點，至2.898%。
+
+---
+
+### 2026-07-02 15:21:14  #市場
+
+【報告：紐商所黃金期貨或在每盎司4,000美元處獲得支撐】RHB Retail Research的Joseph Chai在一份研究報告中表示，紐商所(Comex)黃金期貨可能已在每盎司4,000美元處找到支撐。該分析師表示，日線圖上最新向好的價格走勢表明，第一支撐位已在該水平形成。Chai表示，鑑於這種貴金屬似乎正在經歷盤整，它可能會沿這一水平橫盤整理。不過該分析師表示，20日和50日簡單移動平均線均穩步走低，這可能會對該大宗商品造成下行壓力。Chai補充說，上行方面，初步阻力位在每盎司4,400美元。現貨黃金上漲0.9%，報每盎司4,068.34美元。
+
+---
+
+### 2026-07-02 15:20:38  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Weak inflation cements SNB hold through year; franc rebound stalled】USD/CHF eased off intraday highs after Swiss CPI missed forecasts but stayed within the weekly range and near a one-year high around 0.8140. June m/m CPI slowed to 0.0% from 0.2% in May (market est. 0.1%); YoY inflation fell to 0.5% from 0.6%. The softer prints reinforce expectations the SNB will keep its policy rate at 0% for the remainder of the year and possibly into 2027. With investors upping bets on further Fed hikes, the SNB’s low-rate stance may cap further franc gains. Market attention turns to US nonfarm payrolls later today, forecast +110k for June after stronger prior-month gains; traders will look for signs that support a September Fed hike. Dollar upside risk is elevated.
+
+---
+
+### 2026-07-02 15:20:34  #公司 #市場
+
+倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前基荷電力價格下跌14.9%，至每兆瓦時62.80歐元。
+
+---
+
+### 2026-07-02 15:20:10  #公司
+
+【LV訴茉莉奶白商標侵權案一審獲賠1000萬，茉莉奶白創始人：將上訴】7月2日，記者瞭解到，蘇州市中院就路易威登馬利蒂（Louis Vuitton Malletier，簡稱“LV”）訴茉莉奶白商標侵權案作出一審判決。法院認定，深圳市茉莉奶白餐飲管理有限公司及吳中經濟開發區東俠飲品店侵害LV 7件四葉花卉圖形註冊商標專用權。茉莉奶白主體公司應在判決生效之日起10日內賠償LV經濟損失1000萬元、維權合理開支30萬元，合計1030萬元。記者致電茉莉奶白創始人張伯丞，其在電話中回覆稱，將上訴。記者在國家智慧財產權局商標檢索發現，茉莉奶白申請的相關四葉花卉圖形商標處於“駁回複審”或“無效”狀態。（新黃河）
+
+---
+
+### 2026-07-02 15:19:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources said ARAMCO has increased exports from the Ras Tanura port and shifted to spot sales.
+
+---
+
+### 2026-07-02 15:19:26  #公司 #市場 #國際
+
+拜耳<BAYGn.DE>股價上漲3.6%，此前該公司決定將美國草甘膦業務整合至旗下Ruveon部門。
+
+---
+
+### 2026-07-02 15:18:40  #其他
+
+訊息人士稱，沙特阿美已提高拉斯坦努拉港的出口量，並轉而開展現貨銷售。
+
+---
+
+### 2026-07-02 15:18:26  #公司
+
+【訊息稱淘寶閃購上線新業務“家宴” 定位高階外賣】據媒體報道，淘寶閃購近日在成都、深圳兩地啟動名為“家宴”的高階外賣專案，目前正在灰測階段，首批參與品牌為潮上潮（米其林三星）、許家菜（米其林一星）、柴門薈（米其林一星）、梓楠、王捌院子，共9家門店。（新浪科技）
+
+---
+
+### 2026-07-02 15:18:25  #MKT News
+
+【MOFCOM: China-Germany economic cooperation joint committee to restart, aims for ministerial meeting in early 2027】On July 2, MOFCOM spokesman He Yadong said the China-Germany economic cooperation joint committee will be restarted. Beijing and Berlin plan two new working groups—trade & investment and industrial cooperation—to carry out policy exchanges and government‑business dialogue. Both sides are expediting preparations and aim to convene a minister‑led meeting of the cooperation mechanism in early 2027 to produce trade and economic outcomes ahead of the next phase of high‑level engagement.
+
+---
+
+### 2026-07-02 15:17:50  #市場 #國際
+
+【荷蘭合作銀行：日元突然拉昇令市場情緒更加緊張】荷蘭合作銀行稱，在週五美國假期之前，投資者對日元走勢忐忑不安。針對日元突然拉昇，駐倫敦外匯策略主管Jane Foley表示“目前尚不清楚這是否是財務省的價格檢查”“不過，市場將會非常緊張，因為大家都在談論明天假日期間可能會出現的‘突擊’干預”。“不管怎樣，考慮到財務省若在美元兌日元回落過程中出手干預，能夠以更少的成本撬動更大的匯率影響，因此當前這波走勢很可能會讓市場更加警惕日本當局的干預匯市風險”。
+
+---
+
+### 2026-07-02 15:17:31  #Trading Economics #Economy #Spain #Tourist Arrivals #Importance 1
+
+Spain Tourist Arrivals Hit Peak For May — Spain received about 10.3 million international visitors during May 2026, 9.5% more than in May 2025 and setting a new record for the month. The United Kingdom retained its position as the leading country of residence, with almost 2.2 million tourists (+6.1%). France (+11.1%) and Germany (+9.0%) each contributed around 1.3 million tourists. Nearly 5.4 million tourists stayed for four to seven nights, making it the most common length of stay and representing a 14.1% increase compared with the same month of the previous year. The number of day-trippers rose by 2.7%, while that of tourists staying for more than 15 nights decreased by 3.7%. Catalonia was the top tourist destination, receiving 21.1% of all tourists, a 13.1% increase compared with May 2025. It was followed by the Balearic Islands, with a 20.6% share of total arrivals, up 5.2%, and Andalusia, accounting for 15.9% of tourists, up 12.7%. Year-to-date, the number of tourists increased by 5.0% and exceeded 36.8 million.
+
+---
+
+### 2026-07-02 15:17:04  #MKT News
+
+【China calls TAKAICHI's 'free and open Indo‑Pacific' rhetoric hollow】China's Foreign Ministry on July 2 said Japanese premier TAKAICHI's repeated promotion of a 'free and open Indo‑Pacific' is name‑only, accusing the rhetoric of masking intentions of confrontation. Spokesman Guo Jiakun noted Japanese officials have been lobbying in the Philippines, Vietnam, Australia and India and said the concept runs counter to regional states' pursuit of peace, development and cooperation and will not gain genuine support.
+
+---
+
+### 2026-07-02 15:16:58  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY
+
+【Gold rebounds as dollar softens; next move awaits US nonfarm payrolls】Gold hit a daily high in European trade and extended a steady rebound after a modest dollar pullback, but remains capped inside the prior session's range as elevated Fed rate-hike expectations and geopolitical risk support the dollar. Traders are sidelined ahead of US nonfarm payrolls. CME FedWatch prices about a 64% chance of a September Fed hike and roughly an 85% chance of at least one hike by year-end. Fed chair Kevin Warsh reinforced the 2% inflation target in remarks Wednesday. Technically, gold trades below the 100-period moving average, reinforcing a near-term bearish bias.
+
+---
+
+### 2026-07-02 15:16:36  #其他
+
+【商務部：中德經濟合作聯委會將重啟 力爭2027年初召開合作機制新一次會議】7月2日，商務部新聞發言人何亞東表示，中德經濟合作聯委會將重啟，未來中德雙方還將創新合作機制，設立貿易投資和產業合作兩個工作組，就經貿議題開展政策交流和政企對話。目前中德雙方團隊正加緊推進各項工作，力爭於2027年年初，由雙方部長主持召開合作機制的新一次會議，為下一階段中德高層交往積累經貿成果。
 
 ---
 
@@ -18726,53 +18816,5 @@ US June Challenger job cuts due in 10 minutes.
 ### 2026-07-01 17:16:58  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
 
 【Amazon Web Services to invest $1bn in new AI unit】Amazon Web Services (AWS) will invest $1 billion (about 6.8 billion yuan) to establish a new AI unit focused on helping customers build and deploy AI systems. AWS expects to field thousands of front‑line deployment engineers who will work closely with customers' business, R&D and security teams to deliver end‑to‑end AI solutions and help customers stand up self‑sustaining operational teams within weeks. International media note AWS is the world's largest cloud provider by revenue and the first hyperscaler to offer a dedicated on‑site deployment‑engineer service.
-
----
-
-### 2026-07-01 17:16:22  #MKT News #Commodities #Energy
-
-【Vessel grounded in Strait of Hormuz; damage extent unclear】Al Jazeera reported a vessel grounded in the Strait of Hormuz after reportedly not following Iran’s 'approved' transit route; details are still emerging and the extent of damage is unclear. Iran’s Islamic Revolutionary Guard Corps (IRGC) navy has repeatedly warned masters, owners and shipping companies that deviating from designated routes in the Persian Gulf when entering or leaving could trigger irreversible incidents. The report did not link the grounding to recent Iranian attacks on two vessels that transited without Tehran’s permission, one of which was carrying Qatari crude.
-
----
-
-### 2026-07-01 17:16:13  #公司 #國際
-
-【霍爾木茲海峽發生船隻擱淺事故，受損程度尚不明確】據半島電視臺，有報道稱，一艘船隻在未遵循伊朗針對這一戰略水道所規定的“獲批”航線的情況下，於霍爾木茲海峽發生擱淺；目前有關該事件的更多細節正陸續浮出水面。目前尚不清楚該船受損的具體程度。據媒體報道，伊朗革命衛隊海軍“已多次向全球船長、船東及航運公司負責人發出警告，若在波斯灣航行時不走‘指定航線’而擅自進出，可能會引發無法挽回的意外”。該報道未提及伊朗近期襲擊的兩艘船隻——這兩艘船因未經德黑蘭許可透過該海峽而遭襲，其中包括一艘載有卡達原油的油輪。
-
----
-
-### 2026-07-01 17:15:37  #公司
-
-【中國人保：張道明擔任公司副總裁任職資格獲監管核准】中國人保公告稱，近日收到國家金融監督管理總局批覆，已核准張道明擔任公司副總裁的任職資格。張道明簡歷詳見公司4月29日在上海證券交易所網站釋出的相關會議決議公告。
-
----
-
-### 2026-07-01 17:15:36  #MKT News
-
-Rising market concern over an Iran peace agreement weighed on Gulf debt: UAE sovereign bonds fell 1 US cent, Saudi sovereign bonds declined in tandem, and S&P Global Market Intelligence showed Bahrain's 5-year CDS up 5bps to 246bps versus Tuesday's close.
-
----
-
-### 2026-07-01 17:15:12  #公司 #市場
-
-【上期能源：對部分客戶採取限制開倉監管措施】7月1日，上海國際能源交易中心釋出關於對部分客戶採取限制開倉監管措施的公告。公告顯示，2026年7月1日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。
-
----
-
-### 2026-07-01 17:15:03  #市場
-
-標普全球市場情報表示，巴林五年期信貸違約掉期較週二收盤上漲5個基點，報246個基點。
-
----
-
-### 2026-07-01 17:15:00  #市場 #國際
-
-市場擔憂伊朗和平協議相關風險升溫，阿聯酋主權債券下跌 1 美分，沙特主權債券同步走弱。
-
----
-
-### 2026-07-01 17:14:58  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 1
-
-Cyprus Retail Trade Growth Accelerates — Retail sales in Cyprus rose 7.5% year-on-year in May 2026, accelerating from 2.9% in April and marking the strongest growth in four months. Clothing and footwear recorded the largest increase, with sales surging 19.4% after a 3.8% rise in April. Growth also strengthened for food in specialised stores, which increased 1.2% after a 3.3% drop, supermarkets (7.4% vs. 2.4%), household equipment (13.3% vs. 11.7%), cultural and recreational goods (11.3% vs. 11.2%), and pharmaceuticals (4.0% vs. 1.8%). Meanwhile, sales growth eased slightly for information and communication equipment (17.6% vs. 17.7%), while sales of flowers, plants, watches, jewellery, and second-hand goods fell 2.1% after rising 8.2%. Automotive fuel sales remained in decline (-3.8% vs. -3.6%). In the first five months of 2026, retail sales increased 5.9% compared with the same period a year earlier.
 
 ---

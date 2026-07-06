@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-07 01:25:09_
-_本檔包含 2937 則快訊，約 524791 字_
+_更新時間：2026-07-07 03:17:43_
+_本檔包含 2956 則快訊，約 526808 字_
+
+---
+
+### 2026-07-03 12:34:26  #國際
+
+野村控股高管稱，日元疲軟不會削弱日本的全球併購意願。
+
+---
+
+### 2026-07-03 12:33:59  #其他
+
+【今年第10號颱風“美莎克”即將登陸海南，成為今年首個登陸我國的颱風】今年第10號颱風“美莎克”已於今天（7月3日）凌晨生成，即將登陸海南，成為今年的初颱風。大資料顯示，初颱風多在6至7月登陸我國，廣東最受青睞，海南排名第三。今年的“美莎克”屬於典型的南海臺風，生成後快速登陸，生命史較短，強度可能為熱帶風暴或強熱帶風暴級。儘管強度不大，但仍會給華南帶來持續性強降雨，海南、廣東、廣西需防範次生災害。（央視新聞）
+
+---
+
+### 2026-07-03 12:33:45  #公司
+
+【摩爾執行緒全功能GPU獲百度飛槳III級相容性認證】記者從國產GPU廠商摩爾執行緒處獲悉，該公司旗艦級AI訓推一體智算卡MTT S5000與百度旗下的深度學習平臺百度飛槳（PaddlePaddle）完成III級相容性測試。雙方在相容性方面表現優異，系統整體執行穩定可靠。目前，Paddle-MUSA運算元適配率已達91%，能夠為大語言模型、OCR、影象分類、目標檢測、影象分割、推薦系統等應用場景提供穩定的執行基礎。（每經）
+
+---
+
+### 2026-07-03 12:32:08  #國際
+
+【中國駐泰國大使館：警惕非法中介“保關”騙局】近期，泰國有關部門針對網路流傳的所謂“保關”“包通關”“內部關係協助通關”等資訊啟動調查。據瞭解，有不法中介借泰方依法加強口岸風險防控之機，故意散佈、炒作“付費即可保證通關”“有內部渠道”“無需接受問詢”等虛假資訊，誘導赴泰外國公民購買所謂“保關”服務，騙取高額費用，造成部分人員財產損失。泰國有關部門已表示，將依法嚴厲查處相關違法中介及涉嫌參與違法活動的人員，並重申不存在任何合法的付費“保關”“包通關”渠道。中國駐泰國大使館提醒廣大來泰中國公民增強風險防範意識，堅持透過合法、正規渠道辦理赴泰手續，共同抵制各類非法中介和詐騙行為，切實維護自身合法權益。
+
+---
+
+### 2026-07-03 12:31:20  #市場 #國際
+
+【印度6月煤電發電量創2023年11月以來新高】官方資料顯示，受超長熱浪推高製冷用電需求、季風雨量低於常年水平雙重因素影響，印度6月燃煤發電量大幅攀升，創下近三年新高。媒體依據印度國家電網排程中心（Grid-India）的每日資料測算，印度6月總發電量達1783.1億千瓦時，同比增長10.4%。資料顯示，6月燃煤發電量同比上漲約14%，至1202億千瓦時，為2023年11月之後的最高值。氣象部門資料顯示，受強厄爾尼諾氣候模式影響，上月印度迎來1901年以來降水第五稀少的6月份，酷暑天氣大幅拉高製冷用電需求。厄爾尼諾是由南美洲近海太平洋海水升溫引發的氣候現象，通常會給南亞、東南亞帶來高溫乾旱天氣。
+
+---
+
+### 2026-07-03 12:30:00  #其他
+
+【中國第16次北冰洋考察隊起航 】7月3日，由自然資源部組織的中國第16次北冰洋考察隊“雪龍”號、“雪龍2”號、“極地”號從遼寧大連起航，奔赴北冰洋。這是“十五五”開局之年我國組織實施的首次北冰洋考察，由上述三艘船以及“探索三號”四船共同實施，預計10月上旬完成考察任務。（新華社）
+
+---
+
+### 2026-07-03 12:29:03  #央行 #其他
+
+【機構：紐西蘭央行料有空間維持利率不變】ASB銀行預計紐西蘭央行將在7月份將官方隔夜拆款利率維持在2.25%不變。該行的核心觀點依然是，官方隔夜拆款利率應向3.25%左右的中性水平正常化，初步預計從9月份開始加息。但ASB在給客戶的一份報告中稱，目前美伊事態發展降低了中期通脹風險，併為紐西蘭央行爭取了一些時間。該行補充稱，儘管如此，地緣政治環境變幻莫測，其對官方隔夜拆款利率的潛在影響也是如此。
+
+---
+
+### 2026-07-03 12:28:13  #央行 #國際
+
+【法國巴黎銀行將日本終端利率預期上調至2.5%】法國巴黎銀行修訂了對日本終端利率的預期，將其從此前預計的2.00%上調至2.50%。該行經濟學家河野龍太郎預計，日本央行將維持每四到五個月加息一次的漸進緊縮步伐。他表示，預計日本央行政策利率將在2026年底達到1.25%，在2027年底達到2.00%，最終在2028年9月觸及2.50%的終端上限。他表示，在日元下行壓力預計將持續的背景下，通貨膨脹率可能會繼續保持在日本央行2%的目標之上。“預計高市早苗政府未來將維持被動容忍加息的立場。”
+
+---
+
+### 2026-07-03 12:27:10  #公司
+
+【國鐵集團常態化開行疆棉外運、北糧南運、進口化肥班列】7月3日，國鐵集團與中華全國供銷合作總社在北京簽署戰略合作協議。當天上午，疆棉外運、北糧南運、進口化肥三趟班列分別從新疆烏蘭烏蘇站、黑龍江佳木斯站、廣西防城港站發車，開往山東小營站、廣東馬壩站、雲南蒙自北站，雙方將進一步深化合作，常態化開行上述三類班列，有效保障涉農物資運輸流通、降低全程物流成本，更好地服務全國統一大市場建設和鄉村全面振興戰略實施。
+
+---
+
+### 2026-07-03 12:26:01  #MKT News
+
+Thai National Shippers' Council says the baht should weaken to support exports.
+
+---
+
+### 2026-07-03 12:25:59  #國際
+
+印度6月燃煤發電量升至2023年11月以來最高。
+
+---
+
+### 2026-07-03 12:25:52  #市場
+
+納斯達克期貨漲幅擴大至0.8%，標普500指數期貨上漲0.4%。
+
+---
+
+### 2026-07-03 12:25:38  #國際
+
+泰國出口商稱：泰銖應進一步走弱以提振出口。
+
+---
+
+### 2026-07-03 12:25:31  #公司
+
+【深圳8人上榜胡潤U25中國創業先鋒】7月2日，胡潤研究院釋出《2025胡潤U25中國創業先鋒》，旨在尋找中國25歲及以下的創業先鋒，深圳共有8人上榜。他們分別是億衫醫療聯合創始人陳弘遠、華時達董事長鄧涵樂、萬物智靈創始人兼CEO姜昊、三態股份董事孫怡康、雲望創新創始人兼CEO孫英東、傑思集團董事長王冠然、嶼智同行CEO張永豪和邊緣創智CEO趙梓合。其中，趙梓合最為年輕，僅22歲。
+
+---
+
+### 2026-07-03 12:24:06  #MKT News #Market Regions #Greater China #01801.HK #Impact bullish
+
+【UBS nudges Xinda Biologics PT to HK$124.1; Q2 sales momentum intact, 2026-28 EPS cut on higher R&D】UBS said after a virtual healthcare roadshow with Xinda Biologics (01801.HK) management that Q2 product sales momentum remains solid and is being treated as a new normal, supported by an innovative product mix and high unmet demand. Management said tightening of online channels for GLP‑1s has not created pressure and cited healthy category demand during the recent 618 e‑commerce event. UBS has included Pfizer licensing income and sales of partner asset Abesili in its model but raised 2026–28 R&D expense forecasts to reflect collaboration commitments, trimming EPS estimates for 2026–2028 to 1.12, 2.41 and 3.42 yuan from 1.13, 2.91 and 4.41 yuan. UBS slightly raised its target price to HK$124.1 (from HK$124) and reiterated an upgrade/buy rating.
+
+---
+
+### 2026-07-03 12:23:49  #Trading Economics #Economy #United Arab Emirates #Manufacturing PMI #Importance 1
+
+UAE Non-Oil Growth Slows to Five-Year Low — The S&P Global UAE PMI fell to 50.8 in June 2026 from 52.6 in the previous month, signaling the weakest improvement in non-oil private sector business conditions since February 2021. Business activity expanded at its slowest pace in five years as geopolitical tensions in the Middle East, cautious client spending, and intense competition weighed on growth. New business growth accelerated to a three-month high but remained well below its historical average as customers delayed spending decisions and tourism activity stayed subdued. Employment declined for the first time in more than four years, posting its sharpest contraction since August 2020. Meanwhile, purchasing activity rebounded after May's decline as businesses restocked inventories. However, input cost inflation remained elevated, driven by higher transport fees and commodity prices. Despite softer current activity, business confidence stayed broadly stable, supported by confirmed contracts and continued government investment.
+
+---
+
+### 2026-07-03 12:23:32  #公司 #市場 #國際
+
+【三星、SK海力士傳帶頭要求載板廠降價】從韓國印製電路板暨半導體封裝產業協會（KPCA）傳出，三星、SK海力士因眼紅上游載板廠因市場供不應求、漲價頻頻，擬要求載板廠降價，在最新與載板供應商的價格談判中，要求載板廠調降報價，有意撤回今年第1季平均約3%~4%的報價漲幅。據悉三星與SK海力士之所以主張調降報價，原因在於今年初由於金、銅等原材料上漲，三星和SK海力士接受了載板廠約3%~4%的漲價，然因近期原物料價格波動已趨緩，在漲價因素消失下，認為下半年的報價也應該回復到調漲報價之前的水位。
+
+---
+
+### 2026-07-03 12:23:10  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #005930.KS #Impact bullish #000660.KS
+
+【Samsung, SK Hynix press substrate suppliers to roll back 3%–4% price hikes】The Korea Printed Circuit Board and Semiconductor Packaging Association (KPCA) said Samsung and SK Hynix have pressed substrate suppliers in recent price talks to cut prices, asking vendors to roll back the roughly 3%–4% average increase agreed in Q1. The chipmakers cited easing raw‑material pressure — notably gold and copper — that prompted the earlier hikes and said H2 pricing should revert to pre‑hike levels.
+
+---
+
+### 2026-07-03 12:22:37  #公司
+
+【千尋智慧完成股改】企查查APP顯示，近日，千尋智慧（北京）科技有限公司發生工商變更，企業名稱變更為千尋智慧（北京）科技股份有限公司，企業型別由有限責任公司（外商投資、非獨資）變更為股份有限公司（外商投資、未上市）。企查查顯示，千尋智慧成立於2024年1月，法定代表人為韓峰濤，經營範圍包括智慧機器人的研發、服務消費機器人制造、智慧機器人銷售等，現由Astrend Opportunity IV (Hong Kong) Beta Limited、卓譽維曼創業投資有限公司等共同持股，是一家專注於構建機器人“通用大腦”的具身智慧公司。
+
+---
+
+### 2026-07-03 12:21:23  #其他
+
+中國地震臺網正式測定：07月03日12時04分在先島諸島（北緯26.23度，東經126.18度）發生6.2級地震，震源深度10千米。
+
+---
+
+### 2026-07-03 12:21:18  #其他
+
+澳大利亞儲備銀行員工拒絕了三年內加薪9.5%的提議。（AFR）
+
+---
+
+### 2026-07-03 12:20:13  #MKT News #Important
+
+【Magnitude-6.4 quake strikes northwest of Miyako Island, Japan】The Japan Meteorological Agency said on the 3rd that at about 13:05 local time a magnitude-6.4 earthquake occurred in waters northwest of Miyako Island; maximum intensity was Shindo 3 and the hypocenter was extremely shallow.
+
+---
+
+### 2026-07-03 12:19:46  #其他
+
+【四川正式進入主汛期 旱澇並重和旱澇急轉風險較高】7月1日起，四川正式進入主汛期。記者從四川省防汛抗旱指揮部辦公室獲悉，經水利、氣象等部門會商研判，整體來看，預計今年主汛期四川平均降水量較常年同期偏少，但旱澇並重、旱澇急轉風險依然較高。四川省防汛抗旱指揮部辦公室相關負責人表示，主汛期四川或有中等程度洪澇災害。其中，青衣江可能發生中高洪水，涪江可能發生接近或超過警戒水位的洪水；盆地西南部、南部、川西高原北部和攀西地區可能發生超過警戒水位和保證水位洪水。7月，大渡河、青衣江可能發生中高洪水，涪江可能發生接近或超過警戒水位的洪水。（四川日報）
+
+---
+
+### 2026-07-03 12:18:39  #市場
+
+巴基斯坦KSE-100指數開盤後上漲0.2%，至184,829.40點。
+
+---
+
+### 2026-07-03 12:18:27  #公司
+
+Gymshark創始人正就從泛大西洋投資集團回購股份進行談判。
+
+---
+
+### 2026-07-03 12:17:59  #公司
+
+【關鍵部件下線 我國高水頭大容量衝擊式機組研製再獲突破】6月30日，東方電氣集團東方電機有限公司自主研製的大唐扎拉水電站衝擊式水電機組全套6件噴嘴、鐵廠河水電站衝擊式機組新轉輪下線。這標誌著我國在高水頭大容量衝擊式水電機組領域取得新突破。同期下線的鐵廠河水電站新轉輪，是東方電機聯合水電七局針對高水頭、高泥沙工況的攻關成果。該電站額定水頭725米，單機容量40兆瓦，原進口轉輪因泥沙磨蝕嚴重、運維成本高，長期面臨裝置適配難題。雙方建立“研發—模擬—試驗—應用”閉環機制，創新採用新型水斗抗磨方案，有效破解了超高水頭多泥沙電站裝置損耗快、可靠性差的痛點，為同類電站裝備迭代升級提供了可複製的實踐樣本。
+
+---
+
+### 2026-07-03 12:17:49  #MKT News #Important #Market Regions #Emerging Markets #005930.KS #Impact bullish #000660.KS
+
+【South Korea's KOSPI up over 4% intraday】South Korea's KOSPI extended gains to 4.00% intraday, trading at 7,954.82. Samsung Electronics rose over 8%; SK Hynix rose about 7%.
+
+---
+
+### 2026-07-03 12:17:39  #其他
+
+上交所：財通福鑫定開混合將於下午開市起停牌至收市。
+
+---
+
+### 2026-07-03 12:15:41  #市場 #國際
+
+日本日經指數擴大漲幅，最新上漲1.08%，報69,476.34點。
+
+---
+
+### 2026-07-03 12:15:24  #資料
+
+阿聯酋6月標普全球綜合採購經理人指數(PMI)降至50.8，5月為52.6。
+
+---
+
+### 2026-07-03 12:14:45  #國際
+
+【日本宮古島西北近海發生6.4級地震】據日本氣象廳3日訊息，當地時間當天13時05分左右，日本宮古島西北附近海域發生6.4級地震，最大震感為震度3，震源深度極淺。
+
+---
+
+### 2026-07-03 12:14:24  #其他
+
+【國家藥監局公開徵求《中藥飲片追溯碼編碼技術指南（徵求意見稿）》等兩項資訊化標準意見】國家藥品監督管理局資訊中心組織起草《中藥飲片追溯碼編碼技術指南（徵求意見稿）》《中藥飲片追溯基本資料集（徵求意見稿）》兩項資訊化標準，現向社會公開徵求意見。公開徵求意見的時間是2026年7月3日—8月3日。
+
+---
+
+### 2026-07-03 12:14:14  #市場 #央行 #國際
+
+【期權交易員為日元波動加劇預做準備 以防日本央行入市干預】隨著市場愈發認為日本當局在進行干預以支撐日元方面可能難以預測，期權交易員在即將到來的美國假期交易清淡期前紛紛加價對沖日元可能出現的劇烈波動。一週期美元兌日元風險逆轉指標的負值進一步加深，表明市場對日元看漲期權需求相對於美元看漲期權更為旺盛。與此同時，一週期蝶式價差走闊，表明投資者正在支付更多費用來防範價格向任一方向的大幅波動。這些動向一起表明，交易們正在為市場波動加劇做準備，並傾向於日元走強，這反映出他們擔心日本政府可能會入市干預。美國獨立日假期前後流動性不足，可能會放大該貨幣對的任何劇烈波動。
+
+---
+
+### 2026-07-03 12:13:57  #公司
+
+【大金重工：部分行使超額配售權】大金重工午間公告，公司發行的1億股H股股票（行使超額配售權之前）已於6月5日在香港聯交所主機板掛牌並上市交易。根據本次發行方案，公司招股說明書所述超額配售權已由聯席保薦人兼整體協調人（為其自身及代表國際承銷商）於7月2日部分行使，涉及合計232.59萬股H股股份，佔全球發售項下可供認購的發售股份總數（於任何超額配售權獲行使前）的比例約2.33%。超額配售股份將由公司按每股66.4港元（即全球發售項下每股H股股份的發售價）配售及發行。前述超額配售權部分行使後，本次發行上市的H股由1億股增加至1.02億股。香港聯交所已批准該等超額配售股份上市及買賣，預計將於7月7日上午9時開始在香港聯交所主機板上市及買賣。
 
 ---
 
@@ -17609,95 +17813,5 @@ Southern's 2x long position on Hong Kong-listed SK Hynix (07709.HK) fell more th
 ### 2026-07-02 15:21:30  #MKT News #Brent #Impact bullish #WTI
 
 Trade sources and shipping data show at least five VLCCs loaded a total of 10 mln barrels of Saudi crude at Ras Tanura and have exited the Strait of Hormuz.
-
----
-
-### 2026-07-02 15:21:29  #市場 #央行 #國際
-
-【歐元區債券收益率追隨美國國債收益率走高】歐元區政府債券收益率上升，追隨美國國債收益率走高。當天的焦點將是晚些時候公佈的美國就業資料，以及西班牙和法國的債券供應。比利時聯合銀行分析師在一份報告中表示，週三在辛特拉舉行的歐洲央行論壇上，美聯儲主席凱文·沃什、歐洲央行行長克里斯蒂娜·拉加德、英國央行行長安德魯·貝利和加拿大央行行長蒂夫·麥克勒姆之間備受期待的小組辯論“並沒有對與會央行貨幣政策的短期動態產生太多真正的新見解“。根據Tradeweb的資料，10年期德國國債收益率上升2.2個基點，至2.898%。
-
----
-
-### 2026-07-02 15:21:14  #市場
-
-【報告：紐商所黃金期貨或在每盎司4,000美元處獲得支撐】RHB Retail Research的Joseph Chai在一份研究報告中表示，紐商所(Comex)黃金期貨可能已在每盎司4,000美元處找到支撐。該分析師表示，日線圖上最新向好的價格走勢表明，第一支撐位已在該水平形成。Chai表示，鑑於這種貴金屬似乎正在經歷盤整，它可能會沿這一水平橫盤整理。不過該分析師表示，20日和50日簡單移動平均線均穩步走低，這可能會對該大宗商品造成下行壓力。Chai補充說，上行方面，初步阻力位在每盎司4,400美元。現貨黃金上漲0.9%，報每盎司4,068.34美元。
-
----
-
-### 2026-07-02 15:20:38  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Weak inflation cements SNB hold through year; franc rebound stalled】USD/CHF eased off intraday highs after Swiss CPI missed forecasts but stayed within the weekly range and near a one-year high around 0.8140. June m/m CPI slowed to 0.0% from 0.2% in May (market est. 0.1%); YoY inflation fell to 0.5% from 0.6%. The softer prints reinforce expectations the SNB will keep its policy rate at 0% for the remainder of the year and possibly into 2027. With investors upping bets on further Fed hikes, the SNB’s low-rate stance may cap further franc gains. Market attention turns to US nonfarm payrolls later today, forecast +110k for June after stronger prior-month gains; traders will look for signs that support a September Fed hike. Dollar upside risk is elevated.
-
----
-
-### 2026-07-02 15:20:34  #公司 #市場
-
-倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前基荷電力價格下跌14.9%，至每兆瓦時62.80歐元。
-
----
-
-### 2026-07-02 15:20:10  #公司
-
-【LV訴茉莉奶白商標侵權案一審獲賠1000萬，茉莉奶白創始人：將上訴】7月2日，記者瞭解到，蘇州市中院就路易威登馬利蒂（Louis Vuitton Malletier，簡稱“LV”）訴茉莉奶白商標侵權案作出一審判決。法院認定，深圳市茉莉奶白餐飲管理有限公司及吳中經濟開發區東俠飲品店侵害LV 7件四葉花卉圖形註冊商標專用權。茉莉奶白主體公司應在判決生效之日起10日內賠償LV經濟損失1000萬元、維權合理開支30萬元，合計1030萬元。記者致電茉莉奶白創始人張伯丞，其在電話中回覆稱，將上訴。記者在國家智慧財產權局商標檢索發現，茉莉奶白申請的相關四葉花卉圖形商標處於“駁回複審”或“無效”狀態。（新黃河）
-
----
-
-### 2026-07-02 15:19:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources said ARAMCO has increased exports from the Ras Tanura port and shifted to spot sales.
-
----
-
-### 2026-07-02 15:19:26  #公司 #市場 #國際
-
-拜耳<BAYGn.DE>股價上漲3.6%，此前該公司決定將美國草甘膦業務整合至旗下Ruveon部門。
-
----
-
-### 2026-07-02 15:18:40  #其他
-
-訊息人士稱，沙特阿美已提高拉斯坦努拉港的出口量，並轉而開展現貨銷售。
-
----
-
-### 2026-07-02 15:18:26  #公司
-
-【訊息稱淘寶閃購上線新業務“家宴” 定位高階外賣】據媒體報道，淘寶閃購近日在成都、深圳兩地啟動名為“家宴”的高階外賣專案，目前正在灰測階段，首批參與品牌為潮上潮（米其林三星）、許家菜（米其林一星）、柴門薈（米其林一星）、梓楠、王捌院子，共9家門店。（新浪科技）
-
----
-
-### 2026-07-02 15:18:25  #MKT News
-
-【MOFCOM: China-Germany economic cooperation joint committee to restart, aims for ministerial meeting in early 2027】On July 2, MOFCOM spokesman He Yadong said the China-Germany economic cooperation joint committee will be restarted. Beijing and Berlin plan two new working groups—trade & investment and industrial cooperation—to carry out policy exchanges and government‑business dialogue. Both sides are expediting preparations and aim to convene a minister‑led meeting of the cooperation mechanism in early 2027 to produce trade and economic outcomes ahead of the next phase of high‑level engagement.
-
----
-
-### 2026-07-02 15:17:50  #市場 #國際
-
-【荷蘭合作銀行：日元突然拉昇令市場情緒更加緊張】荷蘭合作銀行稱，在週五美國假期之前，投資者對日元走勢忐忑不安。針對日元突然拉昇，駐倫敦外匯策略主管Jane Foley表示“目前尚不清楚這是否是財務省的價格檢查”“不過，市場將會非常緊張，因為大家都在談論明天假日期間可能會出現的‘突擊’干預”。“不管怎樣，考慮到財務省若在美元兌日元回落過程中出手干預，能夠以更少的成本撬動更大的匯率影響，因此當前這波走勢很可能會讓市場更加警惕日本當局的干預匯市風險”。
-
----
-
-### 2026-07-02 15:17:31  #Trading Economics #Economy #Spain #Tourist Arrivals #Importance 1
-
-Spain Tourist Arrivals Hit Peak For May — Spain received about 10.3 million international visitors during May 2026, 9.5% more than in May 2025 and setting a new record for the month. The United Kingdom retained its position as the leading country of residence, with almost 2.2 million tourists (+6.1%). France (+11.1%) and Germany (+9.0%) each contributed around 1.3 million tourists. Nearly 5.4 million tourists stayed for four to seven nights, making it the most common length of stay and representing a 14.1% increase compared with the same month of the previous year. The number of day-trippers rose by 2.7%, while that of tourists staying for more than 15 nights decreased by 3.7%. Catalonia was the top tourist destination, receiving 21.1% of all tourists, a 13.1% increase compared with May 2025. It was followed by the Balearic Islands, with a 20.6% share of total arrivals, up 5.2%, and Andalusia, accounting for 15.9% of tourists, up 12.7%. Year-to-date, the number of tourists increased by 5.0% and exceeded 36.8 million.
-
----
-
-### 2026-07-02 15:17:04  #MKT News
-
-【China calls TAKAICHI's 'free and open Indo‑Pacific' rhetoric hollow】China's Foreign Ministry on July 2 said Japanese premier TAKAICHI's repeated promotion of a 'free and open Indo‑Pacific' is name‑only, accusing the rhetoric of masking intentions of confrontation. Spokesman Guo Jiakun noted Japanese officials have been lobbying in the Philippines, Vietnam, Australia and India and said the concept runs counter to regional states' pursuit of peace, development and cooperation and will not gain genuine support.
-
----
-
-### 2026-07-02 15:16:58  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY
-
-【Gold rebounds as dollar softens; next move awaits US nonfarm payrolls】Gold hit a daily high in European trade and extended a steady rebound after a modest dollar pullback, but remains capped inside the prior session's range as elevated Fed rate-hike expectations and geopolitical risk support the dollar. Traders are sidelined ahead of US nonfarm payrolls. CME FedWatch prices about a 64% chance of a September Fed hike and roughly an 85% chance of at least one hike by year-end. Fed chair Kevin Warsh reinforced the 2% inflation target in remarks Wednesday. Technically, gold trades below the 100-period moving average, reinforcing a near-term bearish bias.
-
----
-
-### 2026-07-02 15:16:36  #其他
-
-【商務部：中德經濟合作聯委會將重啟 力爭2027年初召開合作機制新一次會議】7月2日，商務部新聞發言人何亞東表示，中德經濟合作聯委會將重啟，未來中德雙方還將創新合作機制，設立貿易投資和產業合作兩個工作組，就經貿議題開展政策交流和政企對話。目前中德雙方團隊正加緊推進各項工作，力爭於2027年年初，由雙方部長主持召開合作機制的新一次會議，為下一階段中德高層交往積累經貿成果。
 
 ---
