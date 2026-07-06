@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-06 09:10:25",
-  "count": 13060,
+  "updated": "2026-07-06 09:14:18",
+  "count": 13062,
   "items": [
+    {
+      "id": "4971296",
+      "time": "2026-07-06 09:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：將於8月成立提升晶片產業競爭力的委員會。"
+    },
+    {
+      "id": "4971294",
+      "time": "2026-07-06 09:13:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2398.00元。"
+    },
+    {
+      "id": "mkt:019f34fb-dcf7-7aab-8ca6-f8d11a05fedd",
+      "time": "2026-07-06 09:12:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said site selection for major projects must be discussed."
+    },
+    {
+      "id": "4971293",
+      "time": "2026-07-06 09:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：必須討論大型專案的選址。"
+    },
+    {
+      "id": "4971292",
+      "time": "2026-07-06 09:12:12",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【583股獲融資買入超億元，兆易創新獲買入56.33億元居首】A股7月3日共有3780只個股獲融資資金買入，有583股買入金額超億元。其中，兆易創新、中際旭創、新易盛融資買入金額排名前三，分別獲買入56.33億元、52.87億元、49.54億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中北緯科技、海油發展、永信至誠融資買入額佔成交額比重排名前三，分別為40.0%、28.02%、27.44%。從融資淨買入金額來看，有37只個股獲融資淨買入超億元。其中，新易盛、東山精密、中信證券融資淨買入金額排名前三，分別獲淨買入7.22億元、6.31億元、3.79億元。"
+    },
+    {
+      "id": "4971291",
+      "time": "2026-07-06 09:10:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【河南鎮平：對網售“健字號”滴眼液亂象開展調查處置】7月5日，總檯報道了網售“健字號”滴眼液亂象。河南省南陽市鎮平縣兩家企業在獲得行業協會的“健字號”批文後，或提供包裝或違規生產所謂“保健用品”，並宣傳其護眼功效。當天，鎮平縣已成立由市場監管、公安、紀檢監察等部門組成的聯合調查組。目前，已依法控制兩家涉事企業的法定代表人和實際控制人袁某某、王某、李某某，對企業涉嫌違法違規行為立案調查；依法查封相關生產裝置、材料和臺賬資料等；向涉事外省企業所在地市場監管部門發函協查；協調網路銷售平臺下架相關產品。鎮平縣表示，將依據調查結果，對相關涉事責任主體依法依規嚴肅處理，對有關部門和個人在監管過程中的失職失責行為嚴肅追責問責。（央視）"
+    },
+    {
+      "id": "4971290",
+      "time": "2026-07-06 09:10:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜安科技：臺鈴訂單已開始向客戶批次交付】宜安科技7月6日在互動平臺表示，目前臺鈴的訂單已開始向客戶批次交付。"
+    },
     {
       "id": "4971289",
       "time": "2026-07-06 09:09:44",
@@ -9,6 +66,15 @@
         "公司"
       ],
       "text": "【銘利達等在天津成立新能源科技公司】企查查APP顯示，近日，天津銘利達三電新能源科技有限公司成立，經營範圍包含：家用電器製造；汽車零部件研發；汽車零部件及配件製造；汽車零配件零售等。企查查股權穿透顯示，該公司由銘利達等共同持股。"
+    },
+    {
+      "id": "4971288",
+      "time": "2026-07-06 09:08:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深圳華強：公司位於產業不可或缺的中間環節 將從產業整體通脹中受益】深圳華強近日在機構調研時表示，公司作為本土電子元器件分銷企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。一方面，行業景氣度上行期，客戶對元器件需求增加，會帶動公司出貨量的提升，元器件價格的上漲，則會進一步促進整體出貨金額（即業務規模）增加；另一方面，量價齊升態勢下，公司分銷業務毛利率水平也有望同步提升。"
     },
     {
       "id": "4971287",
@@ -120329,62 +120395,6 @@
         "國際"
       ],
       "text": "【美國司法部已結束對雅培公司嬰兒配方奶粉工廠的刑事調查】據媒體援引知情人士的話報道，美國司法部已終止了對雅培實驗室的一項刑事調查，該調查涉及該公司如何管理一家嬰兒配方奶粉生產廠——該廠 曾發現可能致命的細菌，且這些細菌被懷疑導致了嬰兒死亡；取而代之的是，司法部決定對其處以民事罰款。"
-    },
-    {
-      "id": "te:markets:562362",
-      "time": "2026-06-29 09:13:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Edge Up as Week Starts — Australian equities added 18 points or 0.2% to 8,778 in Monday morning trade, extending prior-session gains as U.S. futures strengthened after Washington and Tehran agreed to halt hostilities ahead of peace talks this week over the Strait of Hormuz and other issues to end the war. In China, Australia's largest trading partner, industrial profits surged 18.8% yoy in January–May, underscoring the AI-driven investment boom and policy support for advanced industries. However, caution lingered ahead of Chinese PMI data later this week and the Reserve Bank’s June meeting minutes, with investors wary of a hawkish stance following strong May employment figures. Sector gains were led by commercial services, consumer services, and healthcare, partly offset by weakness in transport and utilities. Notable movers included REA Group (2.3%), Evolution Mining (1.9%), and Aristocrat Leisure (1.7%), while two of the four major banks posted modest rises."
-    },
-    {
-      "id": "4959390",
-      "time": "2026-06-29 09:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【川金諾：公司目前沒有電子級磷酸產品】就“公司的電子級磷酸是否已經獲得大量訂單”的問題，川金諾(300505)6月29日在互動平臺回覆稱，公司目前沒有電子級磷酸產品。公司現有磷酸產品主要為溼法粗磷酸、工業級磷酸及食品級磷酸。"
-    },
-    {
-      "id": "mkt:019f10f0-1e16-7aab-8c05-4ccc04e96a30",
-      "time": "2026-06-29 09:13:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's National Healthcare Security Administration published the drugs and related information that passed preliminary formal review for adjustments to the 2026 National Basic Medical Insurance, Maternity Insurance and Work-Related Injury Insurance drug catalogue and the commercial insurance innovative drug list."
-    },
-    {
-      "id": "4959388",
-      "time": "2026-06-29 09:12:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Joseph Sifakis任曹操出行AI創新中心首席科學顧問】6月29日，據曹操出行訊息，圖靈獎得主約瑟夫·希發基思(Joseph Sifakis)正式受邀出任曹操出行AI創新中心首席科學顧問，為曹操出行向AI原生公司轉型提供核心學術支撐、國際化視野及戰略路徑規劃。"
-    },
-    {
-      "id": "4959387",
-      "time": "2026-06-29 09:11:41",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：建議逢高做空鐵礦石】中金財富期貨觀點稱，鐵礦石方面，目前霍爾木茲海峽通行已接近恢復至美伊衝突前50%，但美以伊之間的協議依舊十分脆弱，有反覆的跡象。儘管當前基本面偏弱，但依舊需要注意礦端罷工擾動與地緣反覆的風險。建議逢高做空。"
-    },
-    {
-      "id": "4959386",
-      "time": "2026-06-29 09:11:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商業航天“五小龍”投資圖譜曝光】藍箭航天、天兵科技、中科宇航、星際榮耀、星河動力五家民營火箭公司，被稱作商業航天“五小龍”，正集體衝刺資本市場。其中，藍箭航天有望衝刺“中國商業航天第一股”，其科創板IPO已獲上交所受理，2026年3月申報中止，目前處於財報更新階段；中科宇航IPO“已問詢”；天兵科技、星際榮耀、星河動力三家處於上市輔導階段。“五小龍”的頭部效應尤為突出。2025年至今年2月底，五家企業合計融資額約佔全行業半數；今年一季度，星際榮耀完成了重新整理紀錄的50.37億元單筆融資，僅這一筆就佔到當季行業總融資額的60%以上。睿獸分析資料顯示，2026年Q1商業航天領域披露融資金額80.2億元。記者據執中ZERONE平臺資料不完全統計，近十年間，五家企業分別完成8-15輪融資，背後匯聚超220家投資機構、約400只關聯基金（含已退出基金），資金鍊條延伸至上千家LP，單筆融資規模重新整理國內民營火箭行業紀錄。（21財經）"
     }
   ]
 }
