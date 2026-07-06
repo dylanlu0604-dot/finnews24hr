@@ -1,7 +1,132 @@
 {
   "date": "2026-07-06",
-  "count": 2109,
+  "count": 2123,
   "items": [
+    {
+      "id": "4972746",
+      "time": "2026-07-06 22:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普“和平委員會”商標申請被撤回。"
+    },
+    {
+      "id": "4972745",
+      "time": "2026-07-06 22:24:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月7日盧布官方匯率定為1美元兌77.9695盧布（前值為77.2264）。"
+    },
+    {
+      "id": "mkt:019f37d0-b27e-7aab-8cb7-7263fb5405a3",
+      "time": "2026-07-06 22:24:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft rebalances AI cost base】Investors had been watching whether Microsoft could turn heavy AI infrastructure spending into revenue and margins. The company is continuing to ramp AI investment while trimming sales and gaming organizational costs. Xbox adjustments indicate the overall layoff rate is modest but the gaming unit is undergoing deep internal restructuring; cuts are being framed not as role displacement by AI models but as a budget reallocation from lower-efficiency activities to higher-investment priorities."
+    },
+    {
+      "id": "mkt:019f37d0-49fc-7aab-8cb7-6d586d3bf0a6",
+      "time": "2026-07-06 22:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump praised FIFA president Gianni Infantino as smart."
+    },
+    {
+      "id": "4972744",
+      "time": "2026-07-06 22:23:41",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：全球人形機器人市場將從2025年的約2萬臺增長至2035年的140萬臺】高盛表示，AI進入現實世界的另一條路徑，是機器人、自動駕駛裝置、無人機和智慧工業裝備。高盛將其稱為“物理AI”，其難點遠高於文字生成模型，原因是機器不僅要理解語言和影象，還要處理重力、摩擦、材料、溫度、運動軌跡和安全約束。人形機器人是市場最受關注的方向。高盛預計，全球人形機器人市場將從2025年的約2萬臺增長至2035年的140萬臺。其需求基礎在於勞動力短缺：美國製造業約有1300萬從業者，物料搬運崗位缺口超過100萬個。高盛預計，人型機器人廣泛商業部署可能要到2027年至2029年才會出現。"
+    },
+    {
+      "id": "4972743",
+      "time": "2026-07-06 22:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱已就美國隊球員紅牌判罰與國際足聯主席通話】當地時間6日，美國總統特朗普表示，他已就“紅牌”問題與國際足聯主席因凡蒂諾進行了交談。特朗普表示，國際足聯讓美國隊的一名頂尖球員不能上場是不公平的，所以他要求了國際足聯進行復核。在本月1日美國隊2-0戰勝波黑隊的32強賽中，美國隊前鋒弗拉林·巴洛貢因踩踏對方球員塔裡克·穆哈雷莫維奇腳部被紅牌罰下。國際足聯紀律委員會對其處以禁賽一場的處罰。不過，國際足聯當地時間5日宣佈，巴洛貢將具備出戰世界盃16強對陣比利時一役的資格。儘管他在上一場擊敗波黑的比賽中吃到紅牌，但他將暫時不受停賽處罰。據訊息人士透露，白宮曾致電國際足聯主席因凡蒂諾，要求複核巴洛貢的紅牌。（央視新聞）"
+    },
+    {
+      "id": "4972742",
+      "time": "2026-07-06 22:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：無法預判何種條件能促使普京坐到談判桌前。"
+    },
+    {
+      "id": "mkt:019f37cf-cf12-7aab-8cb7-60463f01e6b9",
+      "time": "2026-07-06 22:23:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said he cannot predict what would bring Russian President Putin back to the negotiating table."
+    },
+    {
+      "id": "4972741",
+      "time": "2026-07-06 22:23:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我是加密貨幣的忠實擁躉。"
+    },
+    {
+      "id": "4972740",
+      "time": "2026-07-06 22:22:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：凡蒂諾是個聰明人。"
+    },
+    {
+      "id": "4972739",
+      "time": "2026-07-06 22:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：距離俄烏戰爭結束又近了一大步。"
+    },
+    {
+      "id": "mkt:019f37ce-c038-7aab-8cb7-5e706772a199",
+      "time": "2026-07-06 22:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the referee's red-card decision against Balogun was terrible."
+    },
+    {
+      "id": "te:markets:564525",
+      "time": "2026-07-06 22:21:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 5-week High — Boeing shares increased to 231.37 USD, the highest since May 2026. Over the past 4 weeks, Boeing gained 7.11%, and in the last 12 months, it increased 5.79%."
+    },
+    {
+      "id": "4972738",
+      "time": "2026-07-06 22:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：裁判對巴洛貢的判罰太糟糕了。"
+    },
     {
       "id": "4972737",
       "time": "2026-07-06 22:20:50",
