@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-06 08:38:59",
-  "count": 13054,
+  "updated": "2026-07-06 08:42:51",
+  "count": 13052,
   "items": [
+    {
+      "id": "mkt:019f34de-829f-7aab-8ca6-6b103db76350",
+      "time": "2026-07-06 08:40:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Huatai Securities: Korea's strong AI-driven exports point to sustained gains for Asian AI supply chains】Huatai Securities said robust AI supply-chain demand pushed South Korea's June exports well above expectations and lifted the trade surplus to a record high. Leading indicators show AI-related trade remains in a high-growth phase, implying Korea's export strength could persist and support elevated nominal GDP growth. The Philadelphia Semiconductor Index, which leads Korean semiconductor exports by about four months, remains high YoY, signaling continued chip export momentum. Rising memory prices amid strong AI demand are further supporting nominal export values. Huatai concludes the export surge indicates the global AI supply chain is still on an upward path and that Asian suppliers, including Korea and China, are likely to keep benefiting."
+    },
+    {
+      "id": "4971249",
+      "time": "2026-07-06 08:40:11",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：韓國出口高增表明全球AI鏈貿易仍處上行通道 亞洲AI供應鏈有望持續受益】華泰證券研報指出，AI鏈出口高景氣繼續推動韓國6月出口大超預期，貿易順差再創歷史新高。展望後續，領先指標顯示AI鏈貿易維持高增，韓國出口有望延續亮眼表現，或推動韓國名義GDP維持較高增速。短期看，領先韓國半導體出口約四個月的費城半導體指數同比仍處高位，指向韓國半導體出口景氣有望延續；同時，在AI需求強勁的背景下，儲存價格仍在上漲，價格將繼續支撐名義出口。韓國出口高增表明全球AI鏈貿易仍處上行通道，韓國、中國等亞洲AI供應鏈有望持續受益。"
+    },
+    {
+      "id": "4971248",
+      "time": "2026-07-06 08:39:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【賈躍亭宣佈FF機器人Q3戰役：與洛杉磯兩大公立學區合辦夏令營】賈躍亭今日發文宣佈，FF機器人正式打響Q3戰役，Q3是其在美國市場夯實基礎的關鍵階段，公司將圍繞教育、工業、巡檢安防等場景加快商業化落地。 7月6日起，FF機器人首批三大示範機器人夏令營同步開營。 其中兩場分別與洛杉磯的Lynwood學區和El Segundo學區合作——後者也是FF矽灘新總部所在地。 另一場則與美國全週期教育機構Triple I合作，夏令營將圍繞產品、技術、課件和教育生態展開。 此外，繼Lynwood學區之後，FF近期也與El Segundo學區正式簽署了戰略合作諒解備忘錄，進一步擴大與公立學區的合作範圍。"
+    },
+    {
+      "id": "mkt:019f34dd-efcc-7aab-8ca6-6219eeff2bca",
+      "time": "2026-07-06 08:39:47",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bullish"
+      ],
+      "text": "【NZIER shadow MPC narrowly backs RBNZ hold at 2.25% for July】NZIER’s shadow monetary policy committee was nearly split but narrowly preferred the RBNZ leave the OCR at 2.25% in July, describing the hold as a close call versus a 25bp hike. Those favoring an earlier lift to neutral cited rising inflation; opponents flagged weak demand and elevated unemployment as reasons for caution. Committee members were divided on the oil-price shock—some saw its inflationary impact as transitory and fading, others warned of more persistent price pressure. Several members said the next key policy assessment point is the Q2 CPI release. The panel unanimously judged the OCR should reach 3.0–3.25% over the next year and advocated a gradual return of policy to neutral, while noting weak demand and high unemployment argue for cautious tightening."
+    },
+    {
+      "id": "4971247",
+      "time": "2026-07-06 08:38:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從“跟隨者”轉向“定義者” 深圳積體電路產業持續深化全產業鏈佈局】由深圳市半導體行業協會發布的《深圳積體電路產業發展研究報告（2025年度）》顯示，2025年，深圳積體電路產業銷售收入為3610.4億元，同比增長27.1%，居全國前列。其中，設計業銷售收入達2421.3億元，同比增長26.5%，佔全國積體電路設計產值的29.3%。這個數字，讓深圳自2021年部分頭部企業受外部打壓後，重新回到全國城市設計業首位。長久以來，高階手機晶片的競爭陷入固化思維：要提升效能，唯有依賴高階的EUV光刻機，向更先進的製程節點不斷突進。然而，今年秋季即將面世的麒麟2026晶片，將徹底打破這條“行業鐵律”。今年5月，華為半導體業務部總裁何庭波在國際電路與系統研討會上透露，該晶片將首次採用“邏輯摺疊”技術，以“時間縮微”替代“幾何縮微”，透過雙層垂直堆疊架構，在不依賴先進光刻的前提下提升效能與能效，“未來十年，我們會持續走向全面摺疊，甚至走向更多層的摺疊”。“這是中國在全球半導體領域，首次提出指導產業發展的新原則。” 深圳市半導體行業協會會長盧國建表示，當摩爾定律逼近物理極限，中國晶片企業開始從“跟隨者”轉向“定義者”。"
+    },
     {
       "id": "te:economy:564253",
       "time": "2026-07-06 08:36:52",
@@ -120267,70 +120319,6 @@
         "公司"
       ],
       "text": "【澄天偉業：公司液冷業務將在下半年有較好的預期】澄天偉業6月27日接受機構調研時表示，公司液冷業務的整體放量節奏與臺灣合作伙伴的交付排期高度關聯。公司核心客戶在北美頭部半導體公司中佔有一定份額，公司作為其核心供應商，將直接受益於其液冷模組的放量。根據目前與核心客戶的溝通及行業市場資訊，公司液冷業務將在下半年有較好的預期，2027年隨著新一代產品的量產推進，按照相關量價假設推算，預計仍將有較大幅度的增長空間。公司實際收入規模受客戶最終訂單量、產品價格、量產節奏等多重因素影響，具有一定不確定性。"
-    },
-    {
-      "id": "4959347",
-      "time": "2026-06-29 08:42:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【越南政府下半年GDP增速目標為11.9%】根據最新發布的一份報告，越南政府的目標是2026年下半年GDP增長11.9%，以實現全年約10%的增長目標。政府表示，鑑於全球形勢，特別是中東衝突對國內經濟造成衝擊，實現2026年至少10%的增長目標“仍然面臨諸多困難和挑戰”。"
-    },
-    {
-      "id": "4959346",
-      "time": "2026-06-29 08:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KAKAO工會：將於週一舉行一日罷工。"
-    },
-    {
-      "id": "4959345",
-      "time": "2026-06-29 08:41:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數在交易時段內跌破68000點，為6月15日以來首次。"
-    },
-    {
-      "id": "te:markets:562360",
-      "time": "2026-06-29 08:41:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Slips on Fresh US-Iran Clashes — Silver fell to around $58.5 an ounce on Monday, snapping a two-day rebound as renewed exchanges of attacks between the US and Iran over the Strait of Hormuz lifted oil prices and rekindled inflation concerns. The conflict escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, prompting multiple US retaliatory strikes. However, both sides later agreed to suspend further attacks ahead of peace talks set to resume this week in Doha, Qatar. Meanwhile, Friday's data showed US PCE inflation broadly matched expectations, leading investors to slightly pare back bets on Federal Reserve rate hikes this year. Markets are now awaiting the latest US monthly jobs report and the ISM Manufacturing PMI for further clues on the outlook for monetary policy."
-    },
-    {
-      "id": "4959344",
-      "time": "2026-06-29 08:40:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【三星、SK海力士鉅額投資計劃公佈前夕，韓國綜合股價指數下跌】韓國主要股指KOSPI一度暴跌3.1%，SK海力士和三星電子股價下跌，此前有報道稱，兩家公司將在未來十年內投資高達2000萬億韓元（約合1.3萬億美元）。三星和SK海力士的股票是該指數下跌的最大拖累因素。據首爾NH投資證券的股票銷售交易員RoyLim表示，機構普遍看好韓國特種電力裝置及電網相關標的將成為本次投資的受益板塊。截至目前，KOSPI今年已上漲93%。尤金證券分析師HuhJae-Hwan在研報中指出，韓國本土股市波動劇烈，核心原因是除半導體外缺少具備競爭力的替代賽道；他補充稱，本次大型產業專案將利好半導體產業鏈相關企業，有助於緩解行業產能瓶頸。“半導體行業領導地位似乎不太可能被結構性削弱。但暫時避免極端波動或許是一種審慎策略。”他表示。科斯達克指數一度上漲5%。"
-    },
-    {
-      "id": "te:markets:562358",
-      "time": "2026-06-29 08:40:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slips on Fresh US-Iran Clashes — Gold fell to around $4,050 an ounce on Monday, snapping a two-day rebound as renewed exchanges of attacks between the US and Iran over the Strait of Hormuz lifted oil prices and rekindled inflation concerns. The conflict escalated since Thursday, with Iran targeting a container ship, a vessel carrying Qatari oil, and military bases in Kuwait and Bahrain, prompting multiple US retaliatory strikes. However, both sides later agreed to suspend further attacks ahead of peace talks set to resume this week in Doha, Qatar. Meanwhile, Friday's data showed US PCE inflation broadly matched expectations, leading investors to slightly pare back bets on Federal Reserve rate hikes this year. Markets are now awaiting the latest US monthly jobs report and the ISM Manufacturing PMI for further clues on the outlook for monetary policy."
-    },
-    {
-      "id": "mkt:019f10d1-a654-7aab-8c04-eebe844e4e7b",
-      "time": "2026-06-29 08:40:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RBA deputy governor says central bank better placed to handle next crisis】RBA deputy governor Kent said a review of alternative monetary tools leaves the central bank better able to respond to future shocks. He said the cash rate target remains the primary instrument, while other tools can provide additional support in exceptional periods but are more complex and carry greater risks. Kent referenced the MPC’s newly released framework for supplementary tools in a low-rate environment and said the Committee may be less tolerant of inflation undershooting the 2%–3% target range when rates are low. He added that, in that scenario, the bank could consider lowering the cash rate target earlier and more decisively to counter deflationary shocks."
     }
   ]
 }
