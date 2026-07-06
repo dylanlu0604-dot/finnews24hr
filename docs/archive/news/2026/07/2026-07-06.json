@@ -1,7 +1,71 @@
 {
   "date": "2026-07-06",
-  "count": 1477,
+  "count": 1484,
   "items": [
+    {
+      "id": "4972244",
+      "time": "2026-07-06 18:13:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京和特朗普近期可能接觸。"
+    },
+    {
+      "id": "4972243",
+      "time": "2026-07-06 18:12:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1-5月汽車整車進口16.3萬輛 同比下降10.6%】據中國汽車工業協會整理的海關總署資料顯示，2026年5月，汽車整車進口3.8萬輛，環比增長40.4%，同比下降18.6%；進口金額17.9億美元，環比增長36.7%，同比下降25.0%。"
+    },
+    {
+      "id": "4972242",
+      "time": "2026-07-06 18:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華榮股份：恆益3號轉讓全部0.95%股份並解除一致行動關係】華榮股份公告，公司控股股東、實際控制人的一致行動人胡志微女士持有的上海恆基浦業資產管理有限公司恆基恆益3號私募證券投資基金（恆益3號）此前計劃透過大宗交易將所持全部320萬股（佔公司總股份0.95%）轉讓給胡志微。截至2026年7月3日，恆益3號已透過大宗交易以14.91元/股的價格完成全部股份轉讓，減持總金額4771.2萬元。轉讓後恆益3號不再持有公司股份，胡志微持股由650萬股增至970萬股（佔比2.87%）。同時恆益3號與胡志微簽署協議解除一致行動關係，公司控股股東、實際控制人胡志榮及其一致行動人合計持股1.25億股（佔比37.09%）未發生變化。"
+    },
+    {
+      "id": "mkt:019f36e9-c74b-7aab-8cb1-b3c46a4b60b2",
+      "time": "2026-07-06 18:11:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Citigroup added Qualcomm (QCOM.O) to its 30-day downside catalyst watchlist."
+    },
+    {
+      "id": "4972241",
+      "time": "2026-07-06 18:11:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密：實控人一致行動人詢價轉讓325.86萬股 持股降至25.65%】富創精密公告稱，2026年7月6日，公司實控人鄭廣文一致行動人瀋陽先進、寧波芯富等透過詢價轉讓方式合計減持325.8608萬股，佔總股本1.06%。轉讓價格260.31元/股，8家投資者獲配，限售6個月。本次轉讓後，鄭廣文及其一致行動人持股比例從26.00%減至25.65%，觸及1%整數倍，不會導致控股股東、實控人變化。"
+    },
+    {
+      "id": "4972240",
+      "time": "2026-07-06 18:11:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強對流天氣黃色預警繼續：山東河南安徽等地部分地區將有10級以上雷暴大風】中央氣象臺7月6日18時繼續釋出強對流天氣黃色預警：預計7月6日20時至7日20時，華北、黃淮、江淮北部、江漢東部、江南西部、西南地區北部、華南南部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，山東南部、河南東北部、安徽北部、江蘇北部、湖南北部等地的部分地區將有10級以上雷暴大風，最大風力可達11級以上；東北地區中西部、華北、黃淮、江淮、江漢東部、江南西部、西南地區南部、華南等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，山東南部、河南東部、安徽北部、江蘇北部、湖北東部、湖南中北部、廣西東南部、廣東西南部等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。"
+    },
+    {
+      "id": "te:economy:564456",
+      "time": "2026-07-06 18:10:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Latvia Industrial Output Growth Slows to 5-Month Low — Latvia’s industrial production rose 6.2% year-on-year in May 2026, easing from a 7% gain in the previous month. This marked the softest growth since December 2025, as activity moderated in manufacturing (6.1% vs 6.8% in April), driven largely by a slowdown in the production of dairy products (8.5% vs 13.0%), printing and reproduction of recorded media (2.8% vs 12.2%), rubber and plastic products (13.8% vs 14.5%), electrical equipment (5.9% vs 6.3%), and other manufacturing (4.6% vs 17.1%). At the same time, activity decreased in electricity, gas, steam, and air-conditioning supply (10.5% vs 12.1%). Meanwhile, production recovered sharply in mining and quarrying (2.5% vs -8.3%). On a monthly basis, industrial activity grew by 0.4% in May, following a flat reading in the preceding period."
+    },
     {
       "id": "mkt:019f36e7-dc4a-7aab-8cb1-aa95b27b2508",
       "time": "2026-07-06 18:09:52",
