@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-07 03:17:43_
-_本檔包含 3124 則快訊，約 527877 字_
+_更新時間：2026-07-07 05:10:25_
+_本檔包含 3135 則快訊，約 530871 字_
+
+---
+
+### 2026-07-02 15:32:21  #其他
+
+【中國信達等在天津新設企管合夥企業】企查查APP顯示，近日，天津信祥苑企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理。企查查股權穿透顯示，該企業由中國信達等共同出資。
+
+---
+
+### 2026-07-02 15:32:15  #公司
+
+【百誠醫藥等成立生物科技新公司】企查查APP顯示，近日，浙江奕百生物科技有限公司成立，經營範圍包含：；第三類醫療器械經營；藥品網際網路資訊服務；藥品生產；第二類醫療器械生產等。企查查股權穿透顯示，該公司由百誠醫藥等共同持股。
+
+---
+
+### 2026-07-02 15:32:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.13% Higher — The FTSE 100 Index is picking up 14 points or 0.13 percent on Thursday. Gains are led by Marks & Spencer (1.84%), J Sainsbury (1.78%) and Compass (1.78%). Biggest losers are Relx (-2.33%), Taylor Wimpey (-1.49%) and IMI (-1.33%).
+
+---
+
+### 2026-07-02 15:32:07  #公司 #其他
+
+【香奈兒收購巴黎襯衫製造商Charvet】7月2日，據報道，香奈兒表示，將收購總部位於巴黎的男裝襯衫製造商Charvet。交易條款未予披露。Charvet是一家成立於1838年的法國高階襯衫製造商，主營襯衣與領帶定製業務，在巴黎旺多姆廣場設有專賣店。
+
+---
+
+### 2026-07-02 15:31:18  #公司
+
+北交所：2026年7月2日，武漢吉和昌新材料股份有限公司（證券程式碼：920193）在北交所上市。
+
+---
+
+### 2026-07-02 15:31:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.25% Higher — The DAX Index is up by 62 points or 0.25 percent on Thursday. Top gainers are Bayer (2.78%), Continental (2.63%) and Deutsche Bank (2.12%). Biggest losses came from Siemens Healthineers (-1.31%), Siemens (-0.82%) and Zalando (-0.74%).
+
+---
+
+### 2026-07-02 15:31:07  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 1.8% at 886.81 yuan/gram on Thursday, July 2. Shanghai Gold Exchange silver T+D closed up 2.94% at 14,550.0 yuan/kg.
+
+---
+
+### 2026-07-02 15:30:52  #公司
+
+軟銀CEO：SB Neo將為超大規模資料中心提供解決方案，目標是在2030年左右達到10GW的規模。
+
+---
+
+### 2026-07-02 15:30:37  #公司 #國際
+
+軟銀CEO：美國業務的利潤“規模截然不同”。
+
+---
+
+### 2026-07-02 15:30:18  #MKT News
+
+【Li Auto starts new org restructuring: splits vehicle and autonomous-driving product functions into R&D】Li Auto is carrying out a new organizational restructuring centered on product decision-making, moving parts of the product department — including vehicle and autonomous-driving product functions — into R&D, people with direct knowledge said on July 2. A source close to senior management said the change aims to simplify a long-criticized, cumbersome vehicle product-definition process that currently involves three groups: Liu Jie's product-line unit (front end), Fan Haoyu's platform product-definition group (middle), and the R&D teams.
+
+---
+
+### 2026-07-02 15:30:08  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.47% Higher — The CAC 40 Index is gaining 39 points or 0.47 percent on Thursday. Leading the gains are Sanofi (1.52%), Essilor (1.39%) and Credit Agricole (1.12%). Top losers are Schneider Electric (-2.04%) and TP (-1.57%).
+
+---
+
+### 2026-07-02 15:28:57  #MKT News #WTI #Impact bearish #Brent
+
+【Commerzbank: Risk profile shifted; RBA rate-hike bets outdated】Commerzbank strategist Volkmar Baur says markets price roughly a 50% chance of another RBA rate hike this year; he disagrees. Energy-driven upside risks have faded—oil has fallen since the last meeting—while downside risks from a meaningful fall in property prices are emerging and could dent consumer spending and growth. Baur says only a material rise in inflation would prompt the RBA to tighten again this year, and he does not expect that to occur.
+
+---
+
+### 2026-07-02 15:28:55  #公司
+
+【仲景食品：暫無水類保健食品開發計劃】仲景食品7月2日在互動平臺表示，公司暫無水類保健食品開發計劃；公司與牧原、胖東來等優質企業已有良好銷售合作，將不斷加深業務往來，探索更多合作可能性。
+
+---
+
+### 2026-07-02 15:28:48  #公司
+
+【抖音旗下深圳星羅拾光科技增資至283.8億 增幅約51%】天眼查App顯示，近日，深圳星羅拾光科技有限公司發生工商變更，註冊資本由約187.8億人民幣增至約283.8億人民幣，增幅約51%。該公司成立於2022年9月，法定代表人為石玉磊，經營範圍包括資訊系統整合服務、軟體開發、貨物進出口等，由抖音集團（香港）有限公司全資持股。
+
+---
+
+### 2026-07-02 15:28:33  #公司
+
+【長盈精密：在液冷的分流器和快接頭產品上，公司已與多家臺系核心廠商開始合作】長盈精密7月2日在互動平臺表示，在液冷的分流器和快接頭產品上，公司已與多家臺系核心廠商開始合作，已開始量產。
+
+---
+
+### 2026-07-02 15:27:26  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish
+
+【Dollar steadies ahead of US nonfarm payrolls; data could trigger move】The dollar index traded around 101.20 in early European hours on Thursday, a touch lower as markets turned cautious ahead of a key US employment report due later Thursday. Mitsubishi UFJ Financial Group senior analyst Akihiko Yokoo said a stronger-than-expected nonfarm payrolls print could accelerate a dollar rebound. Daily charts show a short-term bullish bias, with spot holding above the 100-day moving average and the broader uptrend intact.
+
+---
+
+### 2026-07-02 15:27:25  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Aramco raises Ras Tanura exports, shifts to spot sales】Trade and shipping sources and vessel data show at least five VLCCs carrying about 10 mln barrels of Saudi crude have departed Ras Tanura and transited the Strait of Hormuz. Aramco resumed loading at Ras Tanura on Friday after nearly four months offline. The company is accelerating shipments to Asia and moving to spot pricing—offering spot-priced barrels to Asian buyers and using the Bahri tanker fleet—to speed sales amid intensifying supplier competition, a move that is increasing spot supply overhang.
+
+---
+
+### 2026-07-02 15:26:45  #公司 #市場
+
+【隨著投資者平倉看跌該貨幣的頭寸，英鎊上漲】英鎊兌歐元升至一年高點，兌美元升至兩週高點。荷蘭國際集團的Chris Turner在一份報告中表示，歐元的走軟以及接近重大支撐位，引發了一些押注該貨幣走弱的陳舊英鎊空頭頭寸的平倉。“特別是資產管理公司，一直持有大量英鎊空頭頭寸。“他表示，在單週利率約為3.8%的背景下，做空英鎊的成本很高，同時波動性正在下降，這鼓勵了頭寸清算。此外，他表示，一些人可能認為英國政治要到7月底安迪·伯納姆預計成為首相時才會對英鎊產生影響。歐元跌至0.8554英鎊的低點，英鎊升至1.3325美元的高點。
+
+---
+
+### 2026-07-02 15:26:31  #公司
+
+【斯凱孚與手綠的諧波成立合資公司，聚焦人形機器人精密部件】7月2日，斯凱孚（SKF）與全球機器人精密部件製造商綠的諧波（Leaderdrive）簽署協議，宣佈在中國成立合資公司。新公司將聚焦機器人關節高精密傳動部件業務。合資公司預計將於2026年底投入運營。據悉。斯凱孚將持有該合資公司60%的股份。
+
+---
+
+### 2026-07-02 15:26:24  #國際
+
+【東方日升iCon系列液冷儲能已在歐洲多元場景中完成落地驗證】據東方日升訊息，隨著歐洲電價波動加劇與REPowerEU計劃的深入推進，工商業儲能已從“可選項”變為企業的“必選項”。東方日升以iCon系列工商業液冷儲能一體機為錨點，在波黑、比利時、立陶宛等地接連落地儲能專案。近期，東方日升iCon系列液冷儲能已在歐洲多元場景中完成落地驗證，未來，東方日升將繼續深耕歐洲市場。
+
+---
+
+### 2026-07-02 15:26:14  #其他
+
+港股南方兩倍做多海力士(07709.HK)跌超30%。
+
+---
+
+### 2026-07-02 15:26:11  #MKT News #Important #07709.HK #Impact bearish
+
+Southern's 2x long position on Hong Kong-listed SK Hynix (07709.HK) fell more than 30%.
+
+---
+
+### 2026-07-02 15:25:22  #市場 #國際
+
+【今日特朗普要聞】
+1、特朗普 7 月 1 日對媒體表態美伊當前相處融洽，稱兩國在卡達的會談進展順利，伊朗無核化程序推進良好，後續結果值得觀望。
+2、特朗普 7 月 1 日受訪稱多哈會談中，由卡達、巴基斯坦斡旋的會談圍繞落實美伊諒解備忘錄，商討解凍伊朗被凍結資產，保障霍爾木茲海峽航運安全等議題，其女婿庫什納與特使威特科夫會見卡達首相但未參與具體談判。
+3、據稱，特朗普已決定不延長美墨加協定。
+4、特朗普稱美國正在“輕鬆贏得戰爭”，大量船隻正駛出霍爾木茲海峽，油價正在下跌。
+5、特朗普針對披露報告中 2025 年超 20 億美元的暴漲收入輕描淡寫，稱收益源於股市走高、自身持有大量資產現金，還表示未乾預基金經理股票操作，其收入過半來自模因幣及家族加密貨幣專案，其餘還有房地產業務、英偉達與 Meta 等股票投資所得。
+6、特朗普稱西班牙算不上是北約的合格成員。
+7、特朗普提案將規範投資簽證專案合規監管。
+8、特朗普稱，美國會妥善處理落地公民權相關事宜。
+9、特朗普盛讚卡達贈予美國、波音打造的過渡版新一代空軍一號是該廠最精良 747 機型，並透露自己出訪卡達時提出臨時啟用該機，因原定空軍一號仍在建造中。
+10、 特朗普總統將於週三搭乘全新的空軍一號完成首飛，前往北達科他州出席西奧多・羅斯福總統圖書館落成活動。
+11、特朗普稱美國當年歸還巴拿馬運河後，巴拿馬先是將運河通行費漲四倍、船隻通行量未減，後續再度漲價過境船隻依舊未減少，巴拿馬藉此獲利豐厚，他直言美國當初歸還運河的做法十分愚蠢。
+12、特朗普稱，7月4日當天室外氣溫大概會達到107華氏度（約41.7度）。但他還是會到場發表演講，目的是證明他“什麼都扛得住”。
+
+---
+
+### 2026-07-02 15:25:19  #其他
+
+【理想開展新一輪組織架構調整】7月2日，“迴歸創業狀態”，去年李想說出這個目標後，理想汽車還在進行組織和流程精簡。 從多位知情人士處獲悉，理想即將圍繞產品決策流程進行新一輪組織架構調整，計劃將產品部的部分關鍵職能拆分，併入研發部門。 接近理想高層的人士分析，整車產品定義決策流程繁瑣，在理想內部遭詬病已久，核心原因就是產品決策有三個核心部門參與，前端是劉傑的產品線部門，中間有範皓宇的平臺產品定義部門，此外還有研發團隊。（36氪）
+
+---
+
+### 2026-07-02 15:24:33  #焦點 #國際
+
+【中國公民因涉嫌違反稀土出口管理規定被採取措施？外交部回應】7月2日，外交部發言人郭嘉昆主持例行記者會。日本時事通訊社記者提問，關於在大連的日本人被拘留的事件，據一些報道和訊息稱，在相關調查過程中，還有許多名中國公民因涉嫌違反稀土出口管理規定被採取相關措施，請問中方能否證實這一情況？郭嘉昆表示：“昨天我們已經就相關問題做了回應。中方是依法依規辦案，具體的案件情況請向中方的主管部門詢問。”（澎湃新聞）
+
+---
+
+### 2026-07-02 15:24:00  #MKT News #Market Regions #Greater China #HSBA.L
+
+【Vice Finance Minister Liao Min meets HSBC Group CEO in Beijing】On July 1, 2026, Vice Finance Minister Liao Min met HSBC Group CEO in Beijing and exchanged views on the macroeconomic outlook, policy and China–UK economic cooperation.
+
+---
+
+### 2026-07-02 15:23:55  #宏觀 #公司
+
+【廖岷會見滙豐集團行政總裁艾橋智】2026年7月1日，財政部副部長廖岷在北京會見滙豐集團行政總裁艾橋智，就宏觀經濟形勢和政策、中英經濟合作等議題交換了意見。（財政部）
+
+---
+
+### 2026-07-02 15:23:29  #國際
+
+【日本最新財年稅收收入連續第六年創歷史新高】日本截至今年3月財政年度的國家稅收收入創下歷史新高，工資增長、就業改善以及金融資產收益增加推動個人所得稅收入顯著上升。檔案顯示，日本當財年稅收收入達到84.2萬億日元（5,190億美元）。其中，個人所得稅收入增至25.3萬億日元，法人稅收入增至21.7萬億日元，消費稅收入也小幅增長。這使日本稅收連續第六個財年創下歷史新高。
+
+---
+
+### 2026-07-02 15:23:05  #市場
+
+【訊息人士：沙特阿美增產拉斯坦努拉港原油出口，改為現貨銷售模式】據貿易訊息人士與航運資料顯示，至少五艘超大型油輪滿載總計1000萬桶沙特原油從拉斯坦努拉港駛出霍爾木茲海峽；為加快對亞洲市場原油外銷，沙特阿美已改用現貨定價模式。沙特阿美在停產近四個月後，於週五重啟全球最大石油港拉斯坦努拉港的原油裝船作業。這家沙特國有石油企業正加大發往亞洲的原油裝載與運輸量，進一步加劇原油短期供應過剩局面。自美伊臨時和平協議達成後，布倫特原油期貨價格從3月近120美元/桶跌至約70美元/桶。多位貿易訊息人士透露：除動用自有巴哈里油輪船隊運輸原油外，這家全球頭號原油出口商向亞洲客戶推出現貨定價原油，以此爭奪市場需求，當前各原油供應方競爭持續加劇。
+
+---
+
+### 2026-07-02 15:21:30  #MKT News #Brent #Impact bullish #WTI
+
+Trade sources and shipping data show at least five VLCCs loaded a total of 10 mln barrels of Saudi crude at Ras Tanura and have exited the Strait of Hormuz.
 
 ---
 
@@ -18702,119 +18894,5 @@ Refinitiv: A senior Iranian official said indirect talks with the U.S. that bega
 ### 2026-07-01 17:21:51  #公司 #市場
 
 【領先股份：股票交易異常波動 2025年淨虧損4659.98萬元】領先股份公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，不存在應披露未披露重大事項，未發現媒體報道、市場傳聞及熱點概念影響股價。2025年公司淨虧損4659.98萬元，連續3個交易日累計換手率32.24%，提醒投資者注意風險。
-
----
-
-### 2026-07-01 17:21:47  #公司 #市場
-
-【波長光電：股票交易連續兩日異常波動 不存在應披露未披露事項】波長光電公告稱，公司股票連續2個交易日（2026年6月30日、7月1日）收盤價格漲幅偏離值累計達31.12%，屬異常波動。經核實，公司前期披露資訊無需更正補充，近期經營及內外部環境無重大變化，公司及控股股東、實控人不存在應披露未披露事項及籌劃階段重大事項，異動期間控股股東、實控人無買賣公司股票行為。公司提醒投資者理性投資，注意風險。
-
----
-
-### 2026-07-01 17:21:18  #公司
-
-挪威鋁業和可再生能源公司Norsk Hydro：斯洛伐克鋁生產企業Slovalco與斯洛伐克政府就重啟生產達成的協議，包括與一家國有公用事業公司簽訂長期電力供應合同。Slovalco鋁業合資企業將重啟年產能7.5萬噸的鋁冶煉產能。預計Slovalco將於2026年第四季度開始生產鋁。
-
----
-
-### 2026-07-01 17:21:05  #MKT News
-
-【Vessel reports small-boat approach 76 nm south of Balhaf, Yemen】On Wednesday UK Maritime Trade Operations said a vessel reported multiple small boats approached 76 nm south of Balhaf, Yemen, in the Gulf of Aden. The boats carried several men armed with light weapons; the vessel's crew were reported safe.
-
----
-
-### 2026-07-01 17:20:55  #MKT News #Commodities #Industrial Metals #NHY.OL #Impact bullish
-
-Norsk Hydro expects Slovalco to start aluminium production in Q4 2026.
-
----
-
-### 2026-07-01 17:20:53  #焦點 #國際
-
-伊朗高階官員：美國與伊朗在多哈進行的間接談判，核心議題為德黑蘭被凍結資金解凍以及霍爾木茲海峽問題。
-
----
-
-### 2026-07-01 17:20:36  #MKT News #Commodities #Industrial Metals
-
-Norsk Hydro says Slovakia's Slovalco and the Slovak government have agreed to restart aluminium production, including a long-term power-supply contract with a state-owned utility. The Slovalco joint venture will restart 75,000 t/yr aluminium smelting capacity.
-
----
-
-### 2026-07-01 17:20:13  #焦點 #國際
-
-伊朗高階官員：週二晚間在多哈啟動的與美國的間接談判仍在繼續。
-
----
-
-### 2026-07-01 17:20:05  #MKT News #Important #Macro & Rates #US Economy
-
-US June Challenger job cuts due in 10 minutes.
-
----
-
-### 2026-07-01 17:19:52  #公司 #市場
-
-【勝通能源：公司與七騰機器人有限公司及其關聯方不存在應披露的關聯交易】勝通能源釋出異動公告，公司股票連續3個交易日（6月29日、6月30日、7月1日）收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的有關規定，屬於股票異常波動的情況。公司主營業務仍為液化天然氣採購、運輸及銷售，未發生重大變化。根據《勝通能源股份有限公司要約收購報告書》，七騰機器人及其一致行動人暫無在未來12個月內改變上市公司主營業務或者對上市公司主營業務做出重大調整的明確計劃。截至目前，公司不涉及機器人業務，公司與控股股東七騰機器人有限公司及其關聯方的生產經營各自獨立，截至目前，公司與七騰機器人有限公司及其關聯方不存在應披露的關聯交易。
-
----
-
-### 2026-07-01 17:19:06  #公司
-
-【協鑫能科：與專業投資機構共同設立的基金完成備案】協鑫能科公告稱，公司全資子公司協鑫智慧能源擬出資1.6667億元，與安元基金管理公司、安元基金、宣城產投基金共同設立宣城安元戰新股權投資基金合夥企業，募集規模10億元，主要投向戰略新興產業，協鑫智慧能源持有16.6670%合夥份額。截至公告披露日，合夥人實繳首期出資3億元，協鑫智慧能源實繳5000萬元。該基金於6月29日完成私募投資基金備案手續。
-
----
-
-### 2026-07-01 17:19:00  #公司 #市場
-
-【勝通能源：股票異常波動 提醒投資者注意交易風險】勝通能源公告稱，公司股票6月29日-7月1日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。截至7月1日，收盤價62.02元/股，靜態市盈率1378.80，市淨率17.46，與同行業差異大。2026年一季度淨利潤虧損834.47萬元，同比減少128.22%，扣非後淨利潤虧損143.17萬元，同比減少124.36%。公司提醒投資者理性決策，審慎投資，注意二級市場交易風險。
-
----
-
-### 2026-07-01 17:18:51  #公司
-
-【順豐控股：截至6月底累計回購58.80億元A股股份】順豐控股公告稱，2025年4月28日公司審議透過2025年第1期A股回購股份方案，後經調整，回購資金總額不低於30億元且不超過60億元，回購期限延長至2027年3月29日。截至2026年6月30日，公司已回購A股股份1.57億股，佔目前總股本2.97%，回購總金額約58.80億元，平均成交價37.54元/股。公司後續將繼續實施回購計劃。
-
----
-
-### 2026-07-01 17:18:44  #公司 #市場
-
-【肯特催化：公司股價實際波動幅度較大，存在市場情緒過熱情形】肯特催化7月1日釋出公告，公司股票於2026年6月30日、2026年7月1日連續2個交易日內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核實，公司目前日常經營情況正常，主營業務未發生變化，市場環境、行業政策沒有發生重大調整，無影響股價的重大經營事項；公司未出現對股票價格可能產生重大影響的媒體報道或市場傳聞，不存在其他應披露而未披露的重大資訊。鑑於公司股價剔除大盤和板塊因素後的實際波動幅度較大，存在市場情緒過熱的情形，公司提醒廣大投資者充分了解二級市場交易風險，審慎決策，理性投資。
-
----
-
-### 2026-07-01 17:18:35  #公司
-
-【普洛藥業：首次回購0.02%公司股份，成交總金額為444.86萬元】普洛藥業公告，公司於2026年7月1日首次透過回購專用證券賬戶以集中競價方式回購公司股份26萬股，佔公司目前總股本的0.02%，最高成交價為17.15元/股，最低成交價為17.05元/股，成交總金額為444.86萬元（不含交易費用）。
-
----
-
-### 2026-07-01 17:18:31  #公司
-
-【深南電A、深南電B：擬出資2億元設立新能源控股子公司】深南電A、深南電B公告稱，6月30日公司與山東高速深圳公司簽署協議，共同出資2億元設立深南電山高智慧能源（深圳）有限公司，開展新能源及儲能業務。公司認繳1.02億元，持股51%。董事會設五名董事，公司提名三名；設董事長一名，由公司提名。該子公司將作為核心合作平臺，提升公司競爭力，推動轉型發展，且不影響公司日常資金週轉和生產經營，但存在多種潛在風險。
-
----
-
-### 2026-07-01 17:18:23  #公司
-
-【孚日股份：預計上半年淨利潤同比增長50.02%～70.27%】孚日股份公告，預計2026年上半年淨利潤為3.69億元到4.18億元，同比增長50.02%～70.27%。預計扣除非經常性損益後的淨利潤為3.62億元到4.09億元，同比增長44.49%～63.54%。預計基本每股收益為0.39元/股到0.44元/股。本次業績增長主要由於公司家紡主業穩健運營，電解液新增劑VC行業供需格局變化，公司VC產品售價提升，帶動業務毛利率增加。
-
----
-
-### 2026-07-01 17:17:20  #公司
-
-【納睿雷達：釋出超460公里探測範圍S波段全極化相控陣雷達及AI大模型】納睿雷達公告，2026年7月1日，公司首次正式公開發布自主研發的“WDSPT0152型”S波段全極化多功能有源相控陣雷達和“睿宸”超精細化短時臨近AI氣象大模型。該雷達可實時監測超460公里範圍的中小尺度強對流天氣系統，能有效監測預警龍捲風等災害性天氣；AI大模型可針對0-24小時致災強對流天氣精準預報。目前新產品處於發展初期，尚未取得客戶訂單。
-
----
-
-### 2026-07-01 17:17:17  #其他
-
-6 月 30 日比特幣長期持有者 SOPR 指標跌至 0.615，創下 2023 年 7 月以來最低值。長期持有者 SOPR（LTH-SOPR）數值低於 1，代表長期持有者正在虧損拋售所持比特幣。
-
----
-
-### 2026-07-01 17:16:58  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
-
-【Amazon Web Services to invest $1bn in new AI unit】Amazon Web Services (AWS) will invest $1 billion (about 6.8 billion yuan) to establish a new AI unit focused on helping customers build and deploy AI systems. AWS expects to field thousands of front‑line deployment engineers who will work closely with customers' business, R&D and security teams to deliver end‑to‑end AI solutions and help customers stand up self‑sustaining operational teams within weeks. International media note AWS is the world's largest cloud provider by revenue and the first hyperscaler to offer a dedicated on‑site deployment‑engineer service.
 
 ---
