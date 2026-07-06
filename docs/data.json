@@ -1,7 +1,109 @@
 {
-  "updated": "2026-07-07 07:30:40",
-  "count": 14013,
+  "updated": "2026-07-07 07:34:31",
+  "count": 14022,
   "items": [
+    {
+      "id": "te:economy:564581",
+      "time": "2026-07-07 07:33:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Nominal Wage Growth Below Forecasts — Average cash earnings in Japan increased by 3.2% YoY in May 2026, slowing from an upwardly revised 3.6% rise in the previous month and coming in below market forecasts of 3.4%. It was the 53rd straight month of growth in nominal wages, though it slowed from the fastest pace in 16 months recorded in April."
+    },
+    {
+      "id": "te:markets:564580",
+      "time": "2026-07-07 07:33:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Pressured by Rising Supply — Brent traded around $72 per barrel on Tuesday, hovering near its lowest level in more than four months as signs of rising supply continued to weigh on prices, while vessel traffic through the Strait of Hormuz kept recovering. Reports showed that at least eight Japan-linked ships exited the strategic waterway via a route near Iran, including five supertankers capable of carrying 2 million barrels of crude each. Meanwhile, Saudi Arabian oil giant Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 a barrel to a $1.50 discount against the regional benchmark, reflecting softer market conditions. The last two times the company offered the grade at a discount were during oil price wars in 2020 and 2015. The price cut came after OPEC+ members, led by Saudi Arabia, agreed over the weekend to increase production quotas for next month, reinforcing expectations of stronger global supply."
+    },
+    {
+      "id": "4973092",
+      "time": "2026-07-07 07:33:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南資水發生2026年第2號洪水】受降雨影響，湖南資水邵陽站（湖南邵陽）7月7日5時30分水位漲至警戒水位（214.00米），依據主要江河洪水編號規定，此次洪水編號為“資水2026年第2號洪水”。"
+    },
+    {
+      "id": "te:markets:564579",
+      "time": "2026-07-07 07:32:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Pressured by Rising Supply — Crude oil traded below $69 per barrel on Tuesday, hovering near its lowest level in more than four months as signs of rising supply continued to weigh on prices, while vessel traffic through the Strait of Hormuz kept recovering. Reports showed that at least eight Japan-linked ships exited the strategic waterway via a route near Iran, including five supertankers capable of carrying 2 million barrels of crude each. Meanwhile, Saudi Arabian oil giant Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 a barrel to a $1.50 discount against the regional benchmark, reflecting softer market conditions. The last two times the company offered the grade at a discount were during oil price wars in 2020 and 2015. The price cut came after OPEC+ members, led by Saudi Arabia, agreed over the weekend to increase production quotas for next month, reinforcing expectations of stronger global supply."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607073795582910",
+      "time": "2026-07-07 07:32:10",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月加班工資同比增長2.9%，前值4.2%。"
+    },
+    {
+      "id": "4973090",
+      "time": "2026-07-07 07:31:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本5月實際工資連續第五個月上漲，通脹升溫拖累增速放緩】日本政府週二公佈資料顯示，5月實際工資同比上漲1.4%，實現連續五個月增長，但受消費通脹再度抬頭影響，薪資增幅有所回落。月度名義總現金薪資平均上漲3.2%，達311165日元（摺合1917.69美元），增速略低於4月修正後的3.6%。受美以對伊朗衝突帶來的物價傳導影響，消費通脹漲幅擴大，疊加上述名義薪資增速回落，5月實際工資漲幅收窄至1.4%，低於4月修正後的2%。員工固定基本工資同比上漲3.0%，4月修正增幅為3.3%；5月加班費同比增長2.9%，較4月修正後的4.8%明顯放緩。專項津貼多為一次性獎金，除夏、冬兩季外波動較大，該項5月同比上漲5.2%，4月修正增幅為10.3%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607073795585137",
+      "time": "2026-07-07 07:30:36",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月勞動現金收入同比增長3.2%，預期3.40%，前值由3.50%修正為3.60%。"
+    },
+    {
+      "id": "4973089",
+      "time": "2026-07-07 07:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本總務省公佈資料顯示，5月家庭支出同比下降0.3%；此前媒體調查的市場預期為下降2.5%。"
+    },
+    {
+      "id": "mkt:019f39c4-d2ef-7aab-8cbd-54dde4a24fd2",
+      "time": "2026-07-07 07:30:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan May household spending (all households) +3.7% MoM; expected +1.4%, April +1.6%."
+    },
+    {
+      "id": "mkt:019f39c4-b4da-7aab-8cbd-4c12560cc4d6",
+      "time": "2026-07-07 07:30:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Expenditures for Two-or-more-person Households (MoM) (May) | actual 3.7% | consensus 1.4% | previous 1.6%"
+    },
     {
       "id": "mkt:019f39c4-8aab-7aab-8cbd-41b7072ef880",
       "time": "2026-07-07 07:30:09",
@@ -128831,15 +128933,6 @@
         "日本"
       ],
       "text": "日本5月份工業產值同比下降1.7%，預估1.2%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606303787128615",
-      "time": "2026-06-30 07:30:43",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本5月失業率為2.5%，預期2.50%，前值2.50%。"
     }
   ]
 }
