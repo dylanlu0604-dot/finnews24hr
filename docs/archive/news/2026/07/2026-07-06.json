@@ -1,7 +1,74 @@
 {
   "date": "2026-07-06",
-  "count": 982,
+  "count": 989,
   "items": [
+    {
+      "id": "4971769",
+      "time": "2026-07-06 14:25:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "新臺幣貶值0.5%，報1美元兌32.078新臺幣，創3月31日以來新低。"
+    },
+    {
+      "id": "mkt:019f3619-8e07-7aab-8cac-e2b1c780c4e4",
+      "time": "2026-07-06 14:24:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Copper"
+      ],
+      "text": "China A-share underground pipe-network sector jumped intraday; Greentown Water, Qinglong Pipe, Delong Huineng and JiaoJian Co. hit the daily limit, while Hualan Group, Shenshui Planning Institute, Jinpu Landscaping, Sanhe Pile and Yufan Technology also advanced."
+    },
+    {
+      "id": "4971768",
+      "time": "2026-07-06 14:23:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【地下管網板塊短線拉昇，青龍管業等股漲停】地下管網板塊短線拉昇，綠城水務、青龍管業、德龍匯能、交建股份漲停，華藍集團、深水規院、金埔園林、三和管樁、譽帆科技跟漲。"
+    },
+    {
+      "id": "4971767",
+      "time": "2026-07-06 14:23:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【固態電池板塊震盪走弱，石大勝華等多股跌停】固態電池板塊震盪走弱，中材科技、紅星發展、國晟科技跌停，德福科技跌超13%，科森科技、聯得裝備、泰和新材、溫州宏豐、豪爾賽等跟跌。"
+    },
+    {
+      "id": "4971766",
+      "time": "2026-07-06 14:22:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來在舟山成立新汽車銷售公司 註冊資本1000萬】天眼查App顯示，近日，舟山蔚樂螢汽車銷售服務有限公司成立，法定代表人為曹佳君，註冊資本1000萬人民幣，經營範圍包括新能源汽車整車銷售、汽車銷售、汽車裝飾用品銷售、汽車零配件批發、汽車零配件零售等，由蔚來汽車銷售服務有限公司全資持股。"
+    },
+    {
+      "id": "4971765",
+      "time": "2026-07-06 14:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港：網傳達開水庫、石牛水庫“崩堤潰漏”系謠言】6日，廣西貴港港北區防汛抗旱指揮部發布關於網傳該區水庫崩堤不實資訊的情況通報：受持續颱風暴雨影響，網路微信群、短影片平臺流傳“我區達開水庫、石牛水庫發生崩堤、潰漏、洪水漫溢”等不實資訊，引發群眾恐慌。經核查，我區各類水庫、山塘執行狀態正常，無崩堤、潰壩險情。當前為防汛防颱風關鍵階段，我區各部門全員在崗，常態化開展巡查排查、應急值守工作，全力守護群眾生命財產安全。請廣大群眾理性辨別網路資訊，不信謠、不傳謠、不造謠，不轉發未經證實的內容。對編造、傳播謠言擾亂公共秩序的行為，我區將依法嚴肅處置。"
+    },
+    {
+      "id": "te:economy:564353",
+      "time": "2026-07-06 14:22:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "Danish Manufacturing Output Slips — Denmark’s manufacturing production fell 3.9% month-on-month in May 2026, following an upwardly revised 1% drop in the previous month. Output declined in textile, clothing, and leather (-11.5% vs 2.1% in April), cement and concrete (-0.8% vs 3.4%), metal and metal products (-7.7% vs 4.8%), electrical equipment (-1.5% vs 2.3%), machinery (-8.2% vs 6.6%), engines, wind turbines, and pumps (-9.1% vs 10.5%), and other machinery (-7.1% vs 2.4%). On the other hand, production recovered in dairies (0.9% vs -2%), bakeries and bread factories (2.7% vs -5.8%), wood, paper, and printing (1.3% vs -2.2%), rubber, plastic, and glass (1.4% vs -0.7%), and furniture (5.5% vs -0.2%). On a seasonally adjusted annual basis, manufacturing activity rose by 6.4% in May, easing from an upwardly revised 13.1% growth in the preceding period."
+    },
     {
       "id": "mkt:019f3616-171d-7aab-8cac-da9d26bc5b85",
       "time": "2026-07-06 14:20:45",
