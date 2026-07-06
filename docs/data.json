@@ -1,7 +1,221 @@
 {
-  "updated": "2026-07-06 09:34:50",
-  "count": 13057,
+  "updated": "2026-07-06 09:38:43",
+  "count": 13064,
   "items": [
+    {
+      "id": "mkt:019f3513-4633-7aab-8ca7-eb9ff38e9719",
+      "time": "2026-07-06 09:38:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【India to expand domestic crude exploration to cut import reliance】Hardeep Singh Puri, India’s minister of petroleum and natural gas, said India is expanding domestic crude exploration and is tendering roughly 250,000 sq km of previously unexplored acreage to boost local supply and reduce import dependence, AFP reported on the 5th. Puri said recent transit constraints through the Strait of Hormuz tightened supplies. India produced 25.98 mln tonnes of crude in FY25 (about 522,000 bpd), down from a 2011 peak above 900,000 bpd, meeting roughly 10% of domestic crude demand. To ease supply pressure, India has broadened its supplier base from 27 to 41 countries, adding Iran and Venezuela and increasing purchases from Russia and several African suppliers."
+    },
+    {
+      "id": "4971349",
+      "time": "2026-07-06 09:37:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【燃氣輪機概念表現活躍】聯德股份逼近漲停，傑瑞股份、應流股份、隆達股份、汽輪科技、常寶股份跟漲。"
+    },
+    {
+      "id": "mkt:019f3512-a12e-7aab-8ca7-e658a5d27572",
+      "time": "2026-07-06 09:37:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China A-share benchmark indices turned lower; the Shenzhen Composite Index fell 0.23% and the ChiNext Index fell 0.6%."
+    },
+    {
+      "id": "4971348",
+      "time": "2026-07-06 09:37:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃基板概念股盤初下挫，彩虹股份跌超5%】玻璃基板概念股盤初下挫，彩虹股份跌超5%，帝爾鐳射、雷曼光電、京東方A、沃格光電紛紛下挫。"
+    },
+    {
+      "id": "te:markets:564269",
+      "time": "2026-07-06 09:36:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Gains Ahead of Key Earnings — The benchmark KOSPI rose 1% to around 8,170 on Monday, extending gains from the previous session as technology stocks advanced ahead of key corporate earnings. Investors looked ahead to Samsung Electronics' highly anticipated second-quarter results, which are expected to provide fresh confirmation of robust AI-driven memory chip demand and pricing following recent volatility in global semiconductor shares. US stock futures also advanced despite lingering concerns over AI-related valuations, improving global risk sentiment. Samsung Electronics climbed 3.4%, while SK hynix rose 1.3%. Other notable gainers included SK Square (3.3%), Hyundai Motor (2.4%), HD Hyundai Heavy Industries (2.4%), Kia Corporation (5.5%), and KB Financial Group (2.1%). Sentiment also remained underpinned by the government's continued support for AI and semiconductor development, including plans to launch a future-growth fund financed by semiconductor tax revenue and accelerate AI adoption across the economy."
+    },
+    {
+      "id": "4971346",
+      "time": "2026-07-06 09:36:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念延續強勢 雷賽智慧3連板】早盤機器人概念延續上週強勢，雷賽智慧3連板，華依科技觸及20cm漲停，風語築、埃斯頓、徵和工業、臥龍電驅、大洋電機跟漲。訊息面上，7月3日，北京2026全球數字經濟大會現場，特斯拉副總裁陶琳登臺發表主題演講，公開對外確認核心規劃：特斯拉Optimus人形機器人將於2026年底正式啟動規模化量產，弗裡蒙特工廠遠期設計年產能目標100萬臺。"
+    },
+    {
+      "id": "4971345",
+      "time": "2026-07-06 09:36:35",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【滙豐：澳大利亞房價回落才剛剛開始】滙豐首席經濟學家Paul Bloxham表示，澳大利亞房價在6月份出現回落，但這種下跌才剛剛開始。他說，最近有關投資性房產的稅收政策發生重大變化，加上澳大利亞央行早些時候的三次加息，迅速削弱了市場上的投資者需求。Bloxham預計，從現在到明年年底，全國房價最高將下跌8%。6月份資料中的下跌速度表明，這種觀點的風險似乎也偏向下行。“做好準備，”Bloxham補充道。"
+    },
+    {
+      "id": "mkt:019f3511-decc-7aab-8ca7-d82c57f9b24e",
+      "time": "2026-07-06 09:36:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share glass-substrate concept stocks opened lower; Caihong Co. fell more than 5%. Dier Laser, Leiman Optoelectronics, BOE Technology (BOE-A) and Woge Optoelectronics also slid."
+    },
+    {
+      "id": "4971344",
+      "time": "2026-07-06 09:36:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.026。"
+    },
+    {
+      "id": "mkt:019f3511-b077-7aab-8ca7-d264507bd9f6",
+      "time": "2026-07-06 09:36:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HSBC: Australian house-price decline far from over】HSBC chief economist Paul Bloxham said Australian house prices pulled back in June but that is just the start. He cited major recent changes to taxation of investment properties and three Reserve Bank of Australia rate hikes as having rapidly weakened investor demand. Bloxham forecasts national house prices could fall up to 8% from now through the end of next year and said June’s pace of decline implies downside risk. He added: \"Buckle up.\""
+    },
+    {
+      "id": "4971343",
+      "time": "2026-07-06 09:36:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念延續強勢 雷賽智慧3連板】早盤機器人概念延續上週強勢，雷賽智慧3連板，華依科技觸及20cm漲停，風語築、埃斯頓、徵和工業、臥龍電驅、大洋電機跟漲。訊息面上，7月3日，北京2026全球數字經濟大會現場，特斯拉副總裁陶琳登臺發表主題演講，公開對外確認核心規劃：特斯拉Optimus人形機器人將於2026年底正式啟動規模化量產，弗裡蒙特工廠遠期設計年產能目標100萬臺。"
+    },
+    {
+      "id": "4971342",
+      "time": "2026-07-06 09:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：菲律賓法院已對菲律賓參議員馬爾科萊塔下達逮捕令。"
+    },
+    {
+      "id": "4971341",
+      "time": "2026-07-06 09:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星海圖在秦皇島成立科技公司，含機器人業務】企查查APP顯示，近日，秦皇島星海圖科技有限公司成立，經營範圍包含：智慧機器人銷售；智慧機器人的研發；人工智慧基礎軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由星海圖（北京）人工智慧科技股份有限公司全資持股。"
+    },
+    {
+      "id": "4971340",
+      "time": "2026-07-06 09:35:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019f3510-81d7-7aab-8ca7-ca5bb832510c",
+      "time": "2026-07-06 09:35:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "CSI300"
+      ],
+      "text": "【Asia loan market posts weakest H1 in 16 years as Iran war spillovers sap confidence】Asia's loan market showed no rebound entering H2, with APAC excluding Japan loan issuance in USD, EUR and JPY down 15% YoY to $69.0 billion in H1 — the weakest first half in 16 years. Bankers say spillovers from the Iran war have delayed investment and deal activity and prompted tighter lender risk reviews, lengthening financing timelines. These headwinds could persist through the rest of the year, and competition may compress some loan spreads. BARCLAYS' head of Asia loan syndicate Andrew Ashman said: \"With rising uncertainty, corporate confidence has weakened,\" adding that an expected M&A-driven pickup in loan volume has not materialised and geopolitical tensions may continue to affect future new loan activity."
+    },
+    {
+      "id": "4971339",
+      "time": "2026-07-06 09:34:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【亞洲貸款市場迎16年來最冷上半年，伊朗戰爭餘波壓制信心】在進入下半年之際，亞洲貸款市場仍無明顯反彈跡象。銀行家們表示，伊朗戰爭的餘波持續壓制著貸款方和借款方的信心。資料顯示，今年前六個月，除日本外亞太地區的美元、歐元和日元貸款發行量同比下降15%，至690億美元，為16年來最疲弱的上半年表現。中東衝突推遲了亞洲的投資和交易活動，而由於貸款機構對交易進行更嚴格的風險審查，融資時間線也在拉長。銀行家們表示，這些不利因素可能在今年剩餘時間內持續存在，競爭也可能抑制部分貸款的利差。巴克萊銀行亞太貸款銀團主管安德魯·阿什曼表示：“隨著不確定性增加，企業信心有所下降。”他補充稱，併購活動帶動更多貸款的預期尚未實現，而地緣政治局勢可能繼續“影響未來的新增貸款交易量”。"
+    },
+    {
+      "id": "4971338",
+      "time": "2026-07-06 09:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月備案私募產品環比增逾三成】私募排排網資料顯示，2026年6月全市場新增備案私募證券產品1465只，較5月的1101只環比增長33.06%。"
+    },
+    {
+      "id": "mkt:019f3510-56ae-7aab-8ca7-c1a90bdf5503",
+      "time": "2026-07-06 09:34:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China private securities product filings up 33% MoM in June 2026】Private fund data provider Simuwang showed 1,465 new private securities products were filed in June 2026, up 33.06% MoM from 1,101 in May."
+    },
+    {
+      "id": "4971337",
+      "time": "2026-07-06 09:34:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔又響起多次爆炸聲】當地時間6日，烏克蘭首都基輔響起多次爆炸聲。基輔市長克利奇科表示，截至目前基輔市已有5人受傷。當天稍早，基輔響起多次爆炸聲。基輔市軍事管理局局長特卡琴科在社交媒體發文稱，俄軍正在向基輔發射彈道導彈。當地官員在社交媒體發文稱，有一棟居民樓被導彈擊中，導致人員被困。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f3510-4700-7aab-8ca7-be1fc7b3b8c0",
+      "time": "2026-07-06 09:34:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Multiple explosions reported in Kyiv】Multiple explosions were heard in Kyiv on the 6th (local time). Mayor Klitschko said five people have been injured. Kyiv military administration head Tkachenko posted that Russian forces are firing ballistic missiles at the city; local officials said a residential building was struck and people are trapped."
+    },
+    {
+      "id": "4971336",
+      "time": "2026-07-06 09:34:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度政府要求“元”公司刪除涉兒童性剝削內容】印度媒體7月5日援引訊息人士的話報道，社交媒體“照片牆”（Instagram）被曝在印度大量推送涉兒童性剝削的廣告後，印度政府已要求其母公司美國“元”公司(Meta)立即刪除相關內容，並於7天內作出詳細解釋。“元”公司尚未就印度政府的要求作出回應。該公司先前表示，已運用人工智慧等工具監控社交平臺、刪除涉兒童性剝削等內容，但承認這些措施“不完美”，未能徹底消除不法內容。（新華社）"
+    },
+    {
+      "id": "4971335",
+      "time": "2026-07-06 09:34:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊早盤走強，中公教育一字漲停】教育板塊早盤走強，中公教育一字漲停，全通教育、昂立教育、科德教育、凱文教育跟漲。"
+    },
     {
       "id": "mkt:019f350f-d25d-7aab-8ca7-b740dd1ae06b",
       "time": "2026-07-06 09:34:17",
@@ -25,6 +239,15 @@
         "市場"
       ],
       "text": "【先進封裝概念盤初活躍 華大九天漲超10%】早盤先進封裝概念盤初活躍，華大九天漲超10%，聯動科技、華天科技、微導奈米、長電科技、通富微電等跟漲。訊息面上，華為半導體負責人何庭波於7月3日釋出《面向多層級電子系統的時間縮微理論》（業內也稱“韜定律”）V2版本，明確了LogicFolding單元級3D堆疊、混合鍵合、TSV、統一匯流排、Hi-ONE光引擎五大落地技術。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607063794451180",
+      "time": "2026-07-06 09:33:04",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，歐元體系T2系統執行正常，此前發生的支付處理故障已得到解決。"
     },
     {
       "id": "4971332",
@@ -120183,167 +120406,6 @@
         "其他"
       ],
       "text": "【五糧液回應宜賓地震影響】6月29日0時12分，四川宜賓市高縣發生5.5級地震。地圖顯示，此次地震中心高縣距離宜賓五糧液酒廠直線距離只有60多公里。記者今日從五糧液瞭解到，目前地震未對企業造成影響，生產經營正常。據宜賓當地居民介紹，半夜裡確實感覺到晃動感，但影響不大，家裡的東西並未發生明顯位移。（第一財經）"
-    },
-    {
-      "id": "mkt:019f1106-b782-7aab-8c06-31c5e45ecd94",
-      "time": "2026-06-29 09:38:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China's ChiNext index rose more than 1% at the open."
-    },
-    {
-      "id": "mkt:019f1106-8396-7aab-8c06-2a2d4226c1b2",
-      "time": "2026-06-29 09:37:47",
-      "tags": [
-        "MKT News",
-        "600418.SS",
-        "Impact bearish",
-        "000957.SZ"
-      ],
-      "text": "China A-share whole-vehicle auto sector slipped in intraday trade; King Long Motor and JAC Motors down nearly 5%, Zhongtong Bus, Zotye Auto and FAW Jiefang also lower."
-    },
-    {
-      "id": "4959443",
-      "time": "2026-06-29 09:37:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量146億元。"
-    },
-    {
-      "id": "4959442",
-      "time": "2026-06-29 09:37:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.00%，現報4236.225點；上證指數跌0.09%，現報4023.822點；深證成指漲0.53%，現報15865.125點。"
-    },
-    {
-      "id": "mkt:019f1106-245a-7aab-8c06-2605881fd6ee",
-      "time": "2026-06-29 09:37:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share AI application sector opened stronger; Kingsoft Office rose nearly 7%, Yidian Tianxia gained over 6%, and BlueFocus and Zhongwen Online also advanced."
-    },
-    {
-      "id": "4959441",
-      "time": "2026-06-29 09:36:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【汽車整車板塊短線走低】汽車整車板塊短線走低，金龍汽車、江淮汽車跌近5%，中通客車、眾泰汽車、一汽解放等走低。"
-    },
-    {
-      "id": "te:markets:562366",
-      "time": "2026-06-29 09:36:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Losses on US-Iran Uncertainty — The benchmark KOSPI fell more than 1% to around 8,300 on Monday, extending losses from the previous session, as renewed uncertainty over the fragile US-Iran ceasefire lifted oil prices and dampened global risk sentiment. The United States and Iran exchanged fresh strikes over the weekend, while Iran canceled scheduled technical talks with Washington, reinforcing concerns over the ceasefire and potential disruptions to energy supplies and shipping through the Strait of Hormuz. Meanwhile, investors awaited President Lee Jae Myung's unveiling of large-scale semiconductor and AI investment plans, with Samsung Electronics and SK Group expected to announce major long-term investments to strengthen South Korea's advanced technology sector. Despite the supportive policy backdrop, heavyweight chipmakers came under pressure, with Samsung Electronics declining over 4% and SK hynix losing over 3%. Losses were also seen in SK Square (-6.1%), SK Inc (-6.6%), and Hyundai Mobis (-1.6%)."
-    },
-    {
-      "id": "mkt:019f1105-77ec-7aab-8c06-1836fc8ca02e",
-      "time": "2026-06-29 09:36:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China retail cash yield tracker】Tencent Licaitong (current+7-day) 7-day annualized yield ranged 0.7270%–1.4260%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 1.0050%–1.0280%. Yu’e Bao (Alipay) 7-day annualized yield ranged 1.0050%–1.0350%."
-    },
-    {
-      "id": "mkt:019f1105-6eb3-7aab-8c06-12228ec12c7d",
-      "time": "2026-06-29 09:36:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share gold-related stocks rallied briefly; Zinc Industry Co. hit the daily trading limit, while Hengbang, Huayu Mining, Chaohongji, Yuguang Gold & Lead and Zhongjin Lingnan advanced."
-    },
-    {
-      "id": "mkt:019f1105-54a3-7aab-8c06-0940ef8b3b1b",
-      "time": "2026-06-29 09:36:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's STAR 50 Index extended gains to 2%, led by Western Superconducting, Kingsoft Office and Huahai Qingke."
-    },
-    {
-      "id": "4959440",
-      "time": "2026-06-29 09:36:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股科網股多數上漲 百度集團漲近6%】截至發稿，百度集團-SW(09888.HK)漲5.82%，美團-W(03690.HK)漲5.60%，京東集團-SW(09618.HK)漲3.39%。"
-    },
-    {
-      "id": "4959439",
-      "time": "2026-06-29 09:36:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報8535.20點。"
-    },
-    {
-      "id": "4959438",
-      "time": "2026-06-29 09:36:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【功率半導體概念震盪拉昇 宏微科技漲超10%】功率半導體概念震盪拉昇，宏微科技漲超10%，華潤微、新潔能、揚傑科技、士蘭微、捷捷微電跟漲。"
-    },
-    {
-      "id": "mkt:019f1104-cfdd-7aab-8c06-04e28ae234fa",
-      "time": "2026-06-29 09:35:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai sets breeding-sow inventory as core control metric; normal stock 80,000 heads, large-scale farms capped at 90】Shanghai released the 2026 revision of its Comprehensive Plan for Regulating Pig Production Capacity, designating breeding-sow inventory as the core indicator. It sets a normal stock level of 80,000 breeding sows and limits the number of large-scale pig farms to 90. Monthly inventory changes will be classified into green, yellow and red bands: green relies on market adjustment, yellow triggers warnings and guidance, and red prompts strengthened regulatory measures. Districts and Guangming Food Group’s out-of-region farms must keep production capacity relatively stable. The Shanghai Municipal Agriculture and Rural Affairs Commission will publish production monitoring data promptly and guide farms on production pacing."
-    },
-    {
-      "id": "4959437",
-      "time": "2026-06-29 09:35:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSDAQ指數上漲超7%。"
-    },
-    {
-      "id": "4959436",
-      "time": "2026-06-29 09:35:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.21%，成分股中，西部超導漲18.63%，金山辦公漲7.50%，華海清科漲7.36%，滬矽產業漲5.91%。"
     }
   ]
 }
