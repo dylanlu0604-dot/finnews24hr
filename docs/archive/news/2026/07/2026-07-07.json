@@ -1,7 +1,57 @@
 {
   "date": "2026-07-07",
-  "count": 87,
+  "count": 92,
   "items": [
+    {
+      "id": "4972918",
+      "time": "2026-07-07 00:57:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國駐北約大使：美國無意退出北約，但正積極尋求減少對該聯盟事務介入程度的途徑。"
+    },
+    {
+      "id": "mkt:019f385c-3d14-7aab-8cb9-f5418c076908",
+      "time": "2026-07-07 00:56:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. strategic petroleum reserve drops to lowest level since 1983】DOE data show U.S. SPR crude stocks fell about 6.2 mln barrels last week to 319.5 mln barrels, the lowest level since April 1983. The drawdown is part of a previously announced plan to cumulatively release 172 mln barrels from the reserve."
+    },
+    {
+      "id": "mkt:019f385a-097a-7aab-8cb9-e9a0c216f628",
+      "time": "2026-07-07 00:54:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy has asked the Security Service of Ukraine (SBU) and intelligence agencies to provide a detailed report on the incident in Vyshneve."
+    },
+    {
+      "id": "4972917",
+      "time": "2026-07-07 00:54:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我要求烏克蘭國家安全域性及各情報部門就維什涅韋鎮遭遇襲擊一事作出詳盡說明。"
+    },
+    {
+      "id": "mkt:019f3859-aa46-7aab-8cb9-e42cc8d07828",
+      "time": "2026-07-07 00:53:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine President Zelenskiy said Russia's large-scale missile and drone strikes have killed 22 people and injured nearly 90, with Kyiv and surrounding areas hardest hit."
+    },
     {
       "id": "4972916",
       "time": "2026-07-07 00:52:25",
