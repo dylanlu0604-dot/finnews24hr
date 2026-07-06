@@ -1,7 +1,161 @@
 {
-  "updated": "2026-07-06 14:29:36",
-  "count": 13027,
+  "updated": "2026-07-06 14:33:26",
+  "count": 13030,
   "items": [
+    {
+      "id": "4971783",
+      "time": "2026-07-06 14:32:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 索尼銀行將在美國設立子公司。"
+    },
+    {
+      "id": "mkt:019f3620-7697-7aab-8cad-122e393c1e5c",
+      "time": "2026-07-06 14:32:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks open higher, close lower】Japan's Nikkei 225 closed on Monday, July 6, down 6.38 points (-0.01%) at 69,737.69. South Korea's KOSPI closed the same day down 37.01 points (-0.46%) at 8,051.33, after an intraday rally that briefly approached 3% at the session open."
+    },
+    {
+      "id": "4971782",
+      "time": "2026-07-06 14:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "埃及鎊在離岸市場走強，突破49/1美元。"
+    },
+    {
+      "id": "4971781",
+      "time": "2026-07-06 14:31:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市高開低走】日經225指數收盤下跌6.38點，跌幅0.01%，報69737.69點；韓國KOSPI指數收盤下跌37.01點，跌幅0.46%，報8051.33點，盤初漲幅一度逼近3%。"
+    },
+    {
+      "id": "4971780",
+      "time": "2026-07-06 14:31:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國航天科技集團商業火箭公司增資至41.7億 增幅約199%】天眼查App顯示，近日，中國航天科技集團商業火箭有限公司發生工商變更，註冊資本由13.96億人民幣增至約41.7億人民幣，增幅約199%。該公司成立於2024年9月，法定代表人為候正全，經營範圍包括民用航天發射技術服務，火箭控制系統研發，火箭發動機研發與製造，火箭發射裝置研發和製造，特種裝置設計，技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等，由中國航天科技集團有限公司、中國長城工業集團有限公司、上海航天裝置製造總廠有限公司等共同持股。"
+    },
+    {
+      "id": "4971779",
+      "time": "2026-07-06 14:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平同黑山總統米拉托維奇就中國同黑山建交20週年互致賀電。 （新華社）"
+    },
+    {
+      "id": "mkt:019f361f-85f7-7aab-8cad-08a7f5594c9b",
+      "time": "2026-07-06 14:31:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Meituan",
+        "01347.HK",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs raises Huahong Hongli (01347.HK) PT to HK$333, keeps Buy】Goldman Sachs raised its target price on Huahong Hongli (01347.HK) to HK$333 from HK$174 and reiterated a Buy rating, citing stronger demand for AI chips and data-center power-management ICs as large-model capabilities improve (citing Meituan-W’s LongCat2.0). The bank expects generative AI to sustain demand, forecasts continued ramp-up of 12‑inch capacity and a product-mix shift toward 40nm and 28nm, and lifted net profit forecasts for FY2027–FY2029 by 1%–8%. Goldman projects operating margin to rise from 1% in FY2026 to 4%/8%/12% in FY2027/FY2028/FY2029, normalizing at 14%–17% in FY2030–FY2031."
+    },
+    {
+      "id": "4971778",
+      "time": "2026-07-06 14:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【珠江流域77條河流發生超警洪水 個別水庫出現重大險情】受颱風“美莎克”及其帶來的強降雨影響，7月4日以來，珠江流域西江干流及支流柳江、鬱江、桂江等江河出現明顯漲水過程，77條河流發生超警洪水，超警幅度0.02～5.80米，40條河流出現有實測資料以來最大洪水，個別水庫出現重大險情。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f361f-2f3a-7aab-8cad-0298e435a81e",
+      "time": "2026-07-06 14:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: Bohai Sea military exercise】Huludao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning closing parts of the Bohai Sea to navigation from July 6 15:00 to July 7 08:00; entry prohibited."
+    },
+    {
+      "id": "4971777",
+      "time": "2026-07-06 14:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，7月6日15時至7月7日8時，渤海部分海域進行軍事演習，禁止駛入。"
+    },
+    {
+      "id": "mkt:019f361e-fdfd-7aab-8cac-fcad6729a731",
+      "time": "2026-07-06 14:30:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【July 6: Agricultural Products Wholesale Price 200 Index 109.17, down 1.20 pts vs last Friday】Ministry of Agriculture and Rural Affairs monitoring: on July 6 the Agricultural Products Wholesale Price 200 Index was 109.17, down 1.20 points from last Friday; the produce-basket wholesale price index was 108.66, down 1.28 points. As of 14:00 on July 6, national wholesale prices were: pork 15.24 yuan/kg (+3.8% vs last Friday); beef 66.26 yuan/kg (-0.1%); mutton 64.27 yuan/kg (+0.2%); eggs 9.41 yuan/kg (-1.1%); chicken 17.35 yuan/kg (-0.8%)."
+    },
+    {
+      "id": "te:markets:564361",
+      "time": "2026-07-06 14:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.38% Lower — The Nikkei 225 Index decreased 265 points or 0.38 percent on Monday to close at 69479 points. The decline was led by Taiyo Yuden (-10.31%), Murata Manufacturing (-9.70%) and Minebea (-6.89%). On the upside, the strongest performers were Mitsui Engineering & Shipbuilding (10.43%), Mitsubishi Heavy Industries (8.20%) and Japan Steel Works (7.10%)."
+    },
+    {
+      "id": "4971776",
+      "time": "2026-07-06 14:30:10",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利威爾遜：股市上漲行情將擴散至晶片板塊以外領域】摩根士丹利策略師表示，隨著半導體相關個股上漲動能消退，投資者正轉向大型雲服務商以及美股其他此前滯漲板塊。由邁克爾・威爾遜領銜的策略團隊建議，短期優先配置大型雲服務商，而非半導體板塊；受近數月股價表現疲軟影響，各大雲服務商或將下調資本開支增速預期。報告指出，大型雲服務商在人工智慧生態中具備 “極具吸引力的多元增長空間：核心業務根基穩固，有能力參與並主導智慧應用層的研發落地，同時其降本增效潛力尚未被市場充分重視”。團隊同時看好非必需消費品、交通運輸以及生物科技板塊個股。"
+    },
+    {
+      "id": "4971775",
+      "time": "2026-07-06 14:29:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月6日：“農產品批發價格200指數”比上週五下降1.20個點】據農業農村部監測，7月6日“農產品批發價格200指數”為109.17，比上週五下降1.20個點，“菜籃子”產品批發價格指數為108.66，比上週五下降1.28個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.24元/公斤，比上週五上升3.8%；牛肉66.26元/公斤，比上週五下降0.1%；羊肉64.27元/公斤，比上週五上升0.2%；雞蛋9.41元/公斤，比上週五下降1.1%；白條雞17.35元/公斤，比上週五下降0.8%。重點監測的28種蔬菜平均價格為4.14元/公斤，比上週五下降2.6%；重點監測的6種水果平均價格為7.24元/公斤，比上週五下降1.1%。鯽魚20.51元/公斤，比上週五上升0.1%；鯉魚14.79元/公斤，比上週五下降0.5%；白鰱魚10.53元/公斤，比上週五上升1.1%；大帶魚42.19元/公斤，比上週五下降0.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週五相比價格升幅前五名的是豬肉、菠蘿、平菇、白鰱魚和羊肉，幅度分別為3.8%、3.3%、2.0%、1.1%和0.2%；價格降幅前五名的是蔥頭、茄子、黃瓜、生菜和白蘿蔔，幅度分別為7.6%、6.3%、5.1%、5.0%和4.9%。"
+    },
+    {
+      "id": "te:markets:564360",
+      "time": "2026-07-06 14:29:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Corn Surges to Fresh 1-Month High — Corn futures surged more than 2% to a fresh one-month high of $4.3 per bushel, after an intense heat wave damaged crops in France, one of the European Union's largest corn producers. FranceAgriMer reported deteriorating crop conditions after preliminary estimates indicated that extreme heat may have damaged nearly one-third of the country's corn crop, fueling expectations of tighter global supplies. Traders also monitored hotter temperatures across parts of the US, where any further deterioration in crop conditions could add to supply risks. The USDA also estimated June 1 corn stocks at 5.295 billion bushels, below expectations, and projected planted acreage at 95.343 million acres, down from 2025. Markets now closely watch US-China trade developments after both countries agreed to include agricultural products in a reciprocal tariff reduction framework, boosting optimism for future exports as Chinese buyers typically begin booking new-crop supplies from August."
+    },
+    {
+      "id": "4971774",
+      "time": "2026-07-06 14:29:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念持續回落 五洲新春跌停】午後人形機器人概念持續回落，五洲新春跌停，拓斯達、豐光精密、凌雲光跌超10%，巨輪智慧、安培龍、江蘇雷利、柯力感測等跟跌。"
+    },
     {
       "id": "4971773",
       "time": "2026-07-06 14:27:27",
@@ -119788,122 +119942,6 @@
         "Europe & UK"
       ],
       "text": "【Heatwave spreads across Europe; Hungary allows public‑sector staff to work from home】A heatwave sweeping western Europe is spreading into Central, Northern and Eastern Europe, producing local record highs. Hungary's prime minister Magyar said on June 28 the government will allow public‑sector employees to work from home from June 29 where conditions permit and advised postponing outdoor work."
-    },
-    {
-      "id": "4959877",
-      "time": "2026-06-29 14:33:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【源禾資本完成對亞電科技Pre-IPO投資】6月29日，據源禾資本訊息，其於近日完成對江蘇亞電科技股份有限公司Pre-IPO投資，本次融資將用於先進製程裝置研發及產業化、特殊工藝裝置研發和研發中心高階人才引進、實驗室建設及運營。"
-    },
-    {
-      "id": "mkt:019f1214-a56b-7aab-8c0b-3f63871f6cf9",
-      "time": "2026-06-29 14:32:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Turkey lifts short-selling ban on equities."
-    },
-    {
-      "id": "4959876",
-      "time": "2026-06-29 14:32:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【熱浪來襲 匈牙利政府允許公共部門員工居家辦公】近日席捲歐洲西部的熱浪正逐漸向中歐、北歐、東歐等地區蔓延，多個國家測得重新整理當地紀錄的高溫。匈牙利也是受到本輪熱浪影響的歐洲國家之一。匈牙利總理毛焦爾28日在社交媒體上發文說，受高溫天氣影響，政府決定允許公共部門員工在條件允許的情況下，從29日起居家辦公，並建議推遲戶外作業。（央視新聞）"
-    },
-    {
-      "id": "4959875",
-      "time": "2026-06-29 14:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東鵬飲料創始人不喝自家品牌飲料？深圳警方通報】6月29日，深圳市公安局南山分局釋出警情通報：近日，我局接東鵬飲料(集團)股份有限公司報案，反映網傳該企業創始人不喝自家品牌飲料等大量不實資訊。經我局溯源調查，羅某某（男，39歲，自媒體從業人員）為博取關注、引流牟利，藉助AI工具編造虛假資訊散佈謠言，相關內容廣泛傳播造成惡劣社會影響。目前，羅某某已被公安機關依法刑事拘留，案件正在進一步偵辦中。"
-    },
-    {
-      "id": "4959874",
-      "time": "2026-06-29 14:32:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國隊踢世界盃 政客“燒錢”打廣告忙】美國廣告影響力公司28日為美國《政治報》網站所做分析顯示，美國隊12日和19日在美加墨世界盃所踢兩場比賽共吸引不同政治組織投放超過74萬美元的電視廣告。其中，最“燒錢”的是一家致力於推動強化人工智慧監管的政治行動委員會，在美國隊19日對陣澳大利亞隊的足球比賽中，斥資24萬美元投放廣告。該組織希望扶持共和、民主兩黨競選人，“反對那些試圖透過花錢擺脫合理人工智慧監管的人”。（新華社）"
-    },
-    {
-      "id": "mkt:019f1213-d461-7aab-8c0b-37a719902737",
-      "time": "2026-06-29 14:31:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's deputy foreign minister said the first meeting of the Iran-Oman Hormuz Sea Joint Committee was held."
-    },
-    {
-      "id": "4959873",
-      "time": "2026-06-29 14:31:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量72億元。"
-    },
-    {
-      "id": "4959872",
-      "time": "2026-06-29 14:31:32",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲0.15%，報69468.11點。韓國綜指收漲0.07%，報8416.83點。"
-    },
-    {
-      "id": "4959871",
-      "time": "2026-06-29 14:31:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星考慮在光州新建半導體生產工廠】三星電子會長於週一透露，公司正考慮將韓國西南部城市光州選為新建半導體生產工廠的選址。 三星電子會長李在鎔表示，光州是這一新產業基地的候選地點，該基地將對公司現有集中於首爾大都市區範圍內的半導體生產基地形成產能補充。 李在鎔是在一場電視直播釋出會中作出上述表態。會上，韓國總統李在明公佈了政府推出的“三大超級專案”發展規劃，該戰略旨在提升韓國在前沿技術領域的競爭力，推動韓國在人工智慧時代轉型為工業強國。 根據此項發展規劃，這家科技巨頭還計劃加大在慶尚北道龜尾市的機器人產業投資，並在忠清道佈局高頻寬儲存器（HBM）生產工廠。"
-    },
-    {
-      "id": "4959870",
-      "time": "2026-06-29 14:31:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部副部長加里巴巴迪在X平臺賬戶稱，已舉行伊朗-阿曼霍爾木茲海峽聯合委員會首次會議。"
-    },
-    {
-      "id": "4959869",
-      "time": "2026-06-29 14:30:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其解除股票賣空禁令。"
-    },
-    {
-      "id": "te:markets:562450",
-      "time": "2026-06-29 14:30:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.41% Lower — The Nikkei 225 Index decreased 284 points or 0.41 percent on Monday to close at 69077 points. The decline was led by Furukawa Electric (-90.48%), Sumitomo Electric (-76.33%) and Sumitomo (-75.17%). On the upside, the strongest performers were Taiyo Yuden (10.67%), J Front Retailing (6.35%) and Nintendo Co (6.13%)."
-    },
-    {
-      "id": "4959868",
-      "time": "2026-06-29 14:29:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1280.50元。"
     }
   ]
 }
