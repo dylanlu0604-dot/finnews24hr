@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-07 03:33:19",
-  "count": 13842,
+  "updated": "2026-07-07 03:37:13",
+  "count": 13846,
   "items": [
+    {
+      "id": "mkt:019f38ed-2d5c-7aab-8cbb-8658b9a5c96d",
+      "time": "2026-07-07 03:34:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Collapse at northern Sudan gold mine kills 15, injures one】Khartoum — Sudan Mineral Resources Company said on the 6th that a collapse at the abandoned Muhammad Tawfiq gold mine in the Wadi Halfa area of Northern State, near the Egyptian border, killed 15 miners and injured one."
+    },
+    {
+      "id": "mkt:019f38eb-e0cf-7aab-8cbb-7c76e30f7654",
+      "time": "2026-07-07 03:33:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Axios: Netanyahu asks Trump to rein in Erdogan】Axios reports Prime Minister Netanyahu phoned President Trump ahead of the NATO summit, urging the US to rein in President Erdogan and to block military sales to Turkey, including F-35 jets and associated engines, on grounds that upgraded Turkish air capabilities could shift the regional military balance. Trump received the request but it is unclear whether he will press Erdogan; US officials are weighing whether to resume F-35 deliveries while Turkey still operates Russian S-400 air defenses."
+    },
+    {
+      "id": "4972986",
+      "time": "2026-07-07 03:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【在美上市新興市場ETF吸金驟減】上週，投資者連續第三週湧入投資於新興市場股票和債券的交易所交易基金（ETF）。資料顯示，截至7月2日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額為494萬美元，較前一週流入規模4.8億美元驟減約99%。今年迄今為止，資金流入總計418億美元。韓國流出規模最大，為3.682億美元，其中iShares MSCI South Korea遭遇撤資。"
+    },
+    {
+      "id": "mkt:019f38eb-72ae-7aab-8cbb-77aafaf798ad",
+      "time": "2026-07-07 03:33:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC) said speculators in four major NYMEX and ICE natural gas contracts turned net long 8,963 contracts in the week to June 30, up 11,147 contracts."
+    },
     {
       "id": "4972985",
       "time": "2026-07-07 03:32:42",
