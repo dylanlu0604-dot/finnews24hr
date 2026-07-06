@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-07 05:29:12",
-  "count": 13933,
+  "updated": "2026-07-07 05:32:58",
+  "count": 13935,
   "items": [
+    {
+      "id": "4973032",
+      "time": "2026-07-07 05:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "mkt:019f3957-7fd1-7aab-8cbc-b17881d7506a",
+      "time": "2026-07-07 05:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【U.S. earnings season to start; investors expect solid Q2 results but worry about oil-price hit】Summit Place Financial Advisors says markets expect broadly solid Q2 corporate results, but investors will focus on high oil prices’ impact on costs, margins and final product prices. The firm adds inflationary pressure from rising energy costs may take months to fully transmit, leaving the Fed limited room to cut rates in the near term and likely on the sidelines."
+    },
     {
       "id": "4973031",
       "time": "2026-07-07 05:28:26",
