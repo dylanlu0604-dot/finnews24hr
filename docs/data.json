@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-06 08:27:17",
-  "count": 13060,
+  "updated": "2026-07-06 08:31:10",
+  "count": 13052,
   "items": [
+    {
+      "id": "mkt:019f34d5-1705-7aab-8ca6-584682bc6bd7",
+      "time": "2026-07-06 08:30:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong June S&P Global manufacturing PMI 52.0, up from 50.4 in May."
+    },
+    {
+      "id": "mkt:019f34d4-f83d-7aab-8ca6-524276ec7059",
+      "time": "2026-07-06 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Manufacturing PMI (Jun) | actual 52 | previous 50.4"
+    },
+    {
+      "id": "4971241",
+      "time": "2026-07-06 08:29:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印媒：4家中企獲准參與印度電力專案政府招標】根據路透社近日查閱的政府檔案，印度已授予4家在印度設有生產基地的中國電氣裝置製造商為期兩年的豁免許可，准許其參與印度關鍵電力基礎設施專案的政府招標。《新印度快報》稱，根據本次豁免，上述4家中資企業將有資格參與高壓變壓器、氣體絕緣開關裝置等印度本土產能不足的關鍵電力裝置政府專案招標。 《印度快報》4日披露稱，本次豁免由印度財政部6月24日釋出，且明確為單次許可，不得作為後續政策先例。事實上，印度電力部早在今年1月就提出豁免，最終由印度內閣秘書委員會根據該國工業和內部貿易促進局下設的“登記委員會”的建議審議獲批。（環球時報）"
+    },
+    {
+      "id": "4971240",
+      "time": "2026-07-06 08:28:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【穆迪：紐西蘭本週料將維持利率不變】穆迪分析在一份報告中表示，紐西蘭央行本週料將維持利率不變。自11月以來，紐西蘭央行一直將政策利率維持在2.25%，在通貨膨脹和增長前景面臨風險的情況下，該行正面臨是否撤回貨幣政策支援的爭論。穆迪表示：“石油市場的近期發展緩解了整體通貨膨脹的壓力，且緩解程度超出預期，這為7月份按兵不動提供了空間。”"
+    },
+    {
+      "id": "mkt:019f34d2-9cc0-7aab-8ca6-4f961ee4d9ef",
+      "time": "2026-07-06 08:27:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI, after approaching a 3% intraday gain, pulled back sharply and is currently up 1.4%."
+    },
     {
       "id": "4971239",
       "time": "2026-07-06 08:26:36",
@@ -120260,124 +120306,6 @@
         "Impact bearish"
       ],
       "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
-    },
-    {
-      "id": "4959337",
-      "time": "2026-06-29 08:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS：6月26日人民幣匯率指數按周漲0.8至102.57。"
-    },
-    {
-      "id": "4959336",
-      "time": "2026-06-29 08:30:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
-    },
-    {
-      "id": "mkt:019f10c9-1cf7-7aab-8c04-d72b8a991718",
-      "time": "2026-06-29 08:30:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange triggered the circuit-breaker mechanism for the KOSDAQ."
-    },
-    {
-      "id": "4959335",
-      "time": "2026-06-29 08:30:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "好利來（中國）電子科技股份有限公司在深圳短暫停牌。"
-    },
-    {
-      "id": "4959334",
-      "time": "2026-06-29 08:30:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數下跌1.1%，報68,623.71點。"
-    },
-    {
-      "id": "4959333",
-      "time": "2026-06-29 08:29:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4050美元/盎司，日內跌0.77%。"
-    },
-    {
-      "id": "mkt:019f10c8-0854-7aab-8c04-cb0ac2bb68cc",
-      "time": "2026-06-29 08:29:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI losses widened to 3%; Samsung Electronics down 5%, SK Hynix down 4.5%."
-    },
-    {
-      "id": "4959332",
-      "time": "2026-06-29 08:29:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3％，三星電子跌5%，SK海力士跌4.5%。"
-    },
-    {
-      "id": "4959331",
-      "time": "2026-06-29 08:29:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "佳兆業資本投資：子公司與一家科技企業簽訂戰略合作協議。將攜手合作夥伴共同拓展國產AI晶片及算力產品的應用場景。"
-    },
-    {
-      "id": "mkt:019f10c7-a6d5-7aab-8c04-c0bebdeba28f",
-      "time": "2026-06-29 08:29:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China International Capital Co: Absolute leverage in Korean stocks at record highs, but leverage-to-market-cap not extreme】China International Capital Co. says on-exchange leverage in Korean stocks is around 2x–5x and absolute leverage has reached historical highs, but leverage relative to market value is not extreme; market sentiment and liquidity indicators are slightly tight but not severe. High leverage can amplify volatility and create liquidity stress: a 16–36% decline would trigger margin calls, recent forced-liquidation pressure has risen, but medium-to-long-term direction depends more on fundamentals."
-    },
-    {
-      "id": "mkt:019f10c7-42d0-7aab-8c04-bf3f49b310da",
-      "time": "2026-06-29 08:28:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Weekend supply-restart reports weigh on lithium carbonate; prices likely to open lower】Minmetals Futures said weekend reports of supply-side restarts are pressuring lithium carbonate and prices are likely to open lower. Supply: H2 incremental lithium carbonate output will be driven mainly by spodumene, with overall release pacing slightly faster than H1. Demand: downstream orders remain full; July–August is a seasonal EV consumption trough but downstream production continues to rise MoM, and peak demand is expected in Sept–Oct. Overall, Minmetals judges the annual supply–demand balance will remain tight — even if a large Jiangxi lithium mine resumes production. A near-term price decline may prompt downstream buyers to bring forward restocking, which would limit downside."
-    },
-    {
-      "id": "mkt:019f10c6-86c4-7aab-8c04-b7661b4767c1",
-      "time": "2026-06-29 08:27:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell to $4,050/oz, down 0.77% intraday."
-    },
-    {
-      "id": "4959330",
-      "time": "2026-06-29 08:27:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【威廉姆斯公司正就收購Momentum Midstream的55億美元交易進行談判】據媒體援引知情人士報道，美國管道運營商威廉姆斯公司正就以約55億美元收購競爭對手天然氣管道運營商Momentum Midstream一事進行深入談判。報道稱，這家總部位於俄克拉荷馬州塔爾薩的公司正在就從私募股權公司EnCap Flatrock Midstream手中收購Momentum一事敲定協議細節，並補充稱交易可能在一週左右宣佈。此項交易將使威廉姆斯公司獲得額外運輸能力，將海恩斯維爾頁岩氣輸送至美國墨西哥灣沿岸的出口終端。報道稱，目前尚未做出最終決定，EnCap仍可能選擇保留該公司。"
     }
   ]
 }
