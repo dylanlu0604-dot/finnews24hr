@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-07 07:26:47",
-  "count": 14004,
+  "updated": "2026-07-07 07:30:40",
+  "count": 14013,
   "items": [
+    {
+      "id": "mkt:019f39c4-8aab-7aab-8cbd-41b7072ef880",
+      "time": "2026-07-07 07:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May total household spending YoY -0.3% (expected -2.5%; April -0.5%)."
+    },
+    {
+      "id": "mkt:019f39c4-85a4-7aab-8cbd-3dd572afdb6e",
+      "time": "2026-07-07 07:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May overtime pay YoY 2.9% vs 4.2% prior."
+    },
+    {
+      "id": "mkt:019f39c4-8482-7aab-8cbd-3551e78444c6",
+      "time": "2026-07-07 07:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May labor cash earnings YoY +3.2% (consensus +3.4%); April revised up to +3.6% from +3.5%."
+    },
+    {
+      "id": "mkt:019f39c4-6a93-7aab-8cbd-2cafba82cf0b",
+      "time": "2026-07-07 07:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Expenditures for Two-or-more-person Households (YoY) (May) | actual -0.3% | consensus -2.5% | previous -0.50%"
+    },
+    {
+      "id": "mkt:019f39c4-677f-7aab-8cbd-24531adc3b75",
+      "time": "2026-07-07 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Overtime Earnings (YoY) (May) | actual 2.9% | previous 4.2%"
+    },
+    {
+      "id": "mkt:019f39c4-6732-7aab-8cbd-1ec41e1fbf52",
+      "time": "2026-07-07 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Cash Earnings (YoY) (May) | actual 3.2% | consensus 3.40% | previous 3.50%"
+    },
+    {
+      "id": "4973088",
+      "time": "2026-07-07 07:27:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三星財報釋出後股價下跌，或將拖累晶片行業其他競爭對手】三星電子公佈初步業績後，其股價在Nextrade交易所一度下跌4.7%。這一負面情緒可能會波及同行和供應商。該公司公佈的最新季度初步營業收入為89.4萬億韓元，高於分析師預期的84.2萬億韓元。同業公司SK海力士的股價一度下跌3.3%，之後跌幅收窄。"
+    },
+    {
+      "id": "4973087",
+      "time": "2026-07-07 07:26:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去1小時，光明區（光明、新湖、鳳凰街道）已出現強降雨，預計未來1-2小時還將出現30-40毫米降水，深圳市氣象臺2026年07月07日07時23分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域。"
+    },
+    {
+      "id": "4973086",
+      "time": "2026-07-07 07:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年1至5月我國機器人規上企業營業收入突破900億元】從7月6日舉行的2026世界機器人大會新聞釋出會上獲悉，今年1到5月，我國機器人規上企業營業收入突破900億元，同比增長26.9%。我國已經連續十三年成為全球最大工業機器人市場，自主品牌工業機器人在國內市場的佔有率突破50%。"
+    },
     {
       "id": "4973085",
       "time": "2026-07-07 07:26:01",
