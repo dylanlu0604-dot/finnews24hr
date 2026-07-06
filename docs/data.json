@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-06 22:30:03",
-  "count": 13485,
+  "updated": "2026-07-06 22:34:03",
+  "count": 13492,
   "items": [
+    {
+      "id": "4972760",
+      "time": "2026-07-06 22:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比特幣ETF近一個月來首次錄得淨流入】根據CoinGlass的資料，比特幣ETF以積極的態勢進入假期週末。7月2日，這些ETF錄得2.235億美元的淨流入，這是自6月12日以來首次出現此類資金流入。CoinGlass的資料顯示，比特幣在假期週末表現基本積極，最高升至近64,000美元，但今晨交易價格低於62,000美元。部分壓力來自Michael Saylor的Strategy Inc.出售比特幣——儘管市場確實得到了一些提前警告。Exness的Christopher Tahir在一份報告中表示：“在該公司最近推出政策之後，市場的反應可能比過去更為平淡。”。"
+    },
+    {
+      "id": "4972759",
+      "time": "2026-07-06 22:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將 BANQUE TUNISO-KOWEITIENNE 升級為“CCC”。"
+    },
+    {
+      "id": "4972758",
+      "time": "2026-07-06 22:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國工程機械工業協會：6月銷售各類挖掘機25445臺，同比增長35.3%】據中國工程機械工業協會對挖掘機主要製造企業統計，2026年6月銷售各類挖掘機25445臺，同比增長35.3%。其中：國內銷量10898臺（含電動挖掘機65臺），同比增長33.9%；出口14547臺（含電動挖掘機34臺），同比增長36.4%。2026年1—6月，共銷售挖掘機152320臺，同比增長26.4%。其中：國內銷量79025臺（含電動挖掘機186臺），同比增長20.4%；出口73295臺（含電動挖掘機135臺），同比增長33.5%。"
+    },
+    {
+      "id": "4972757",
+      "time": "2026-07-06 22:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱其與普京進行了“非常好的通話”】美國總統特朗普就烏克蘭問題表示，正與俄羅斯總統普京進行磋商，看能否結束俄烏衝突。特朗普稱，他們進行了一次“非常好的通話”。特朗普還表示，將在北約會議上討論烏克蘭問題，“局勢比人們意識到的更為緊迫”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f37d6-3903-7aab-8cb7-96f8f57a4002",
+      "time": "2026-07-06 22:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he had a 'very good call' with Putin】On the 6th (local time), US President Trump said he is consulting with Russian President Putin to see if they can end the Russia-Ukraine conflict, saying they had a 'very good call.' He said he will raise Ukraine at the NATO meeting and that the situation is 'more urgent than people realize.'"
+    },
+    {
+      "id": "mkt:019f37d6-00f0-7aab-8cb7-8fb8d0966c08",
+      "time": "2026-07-06 22:29:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analysis: Iran likely to slow talks and consolidate control of Strait of Hormuz】Regional officials, diplomats and analysts say the Israel‑US war has amplified Iran’s leverage over the Strait of Hormuz and enabled Tehran to demand any nuclear accord first acknowledge its de facto control over the oil chokepoint. Alex Vatanka of the U.S.-based Middle East Institute said Iran views the strait as a source of political legitimacy rather than an economic asset — charging transit fees could be lucrative but 'why give up a diamond for a lollipop?' Iranian parliament speaker Qalibaf said the strait is Iran’s strongest weapon and Iran will not relinquish its rights there. Multiple regional sources and diplomats say Tehran is deliberately slowing negotiations to lock in wartime gains before returning to nuclear talks. A former U.S. diplomat who studies Iran said Tehran believes time is on its side because the Trump administration wants to disengage; Aaron David Miller added the 60‑day negotiation deadline was always illusory and Iran will not act on the nuclear track until it is confident the new status quo is irreversible."
+    },
+    {
+      "id": "4972756",
+      "time": "2026-07-06 22:29:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡普託：阿根廷不打算為償還國際貨幣基金組織款項進行再融資。"
+    },
+    {
+      "id": "4972755",
+      "time": "2026-07-06 22:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不跟孩子們談論加密貨幣投資。"
+    },
+    {
+      "id": "4972754",
+      "time": "2026-07-06 22:29:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【市場預期三星下半年季度利潤超100萬億韓元】業內預計，下半年AI伺服器用儲存晶片需求仍將保持強勁，這意味著三星電子的盈利優勢在短期內仍將持續。市場對第三季度和第四季度營業利潤的預測分別為109.9411萬億韓元、120.0944萬億韓元。"
+    },
     {
       "id": "4972753",
       "time": "2026-07-06 22:28:49",
@@ -124001,24 +124079,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲週一隔夜逆回購協議（RRP）使用規模為35.46億美元】美聯儲週一隔夜逆回購協議（RRP）使用規模為35.46億美元，上個交易日報64.26億美元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606293787036522",
-      "time": "2026-06-29 22:31:48",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國6月達拉斯聯儲商業活動指數為0，前值0.4。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606293787036522",
-      "time": "2026-06-29 22:31:48",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月達拉斯聯儲商業活動指數為0，前值0.4。"
     }
   ]
 }
