@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-06 08:15:38",
-  "count": 13070,
+  "updated": "2026-07-06 08:19:32",
+  "count": 13066,
   "items": [
+    {
+      "id": "mkt:019f34ca-6e34-7aab-8ca6-416ed91ad3af",
+      "time": "2026-07-06 08:18:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung results to test AI-chip rally; Q2 operating profit seen up 18-fold】Samsung Electronics, the world’s largest memory-chip maker, is due to report Q2 results Tuesday. Analysts’ consensus: preliminary operating profit ~KRW84.3 trillion (~$55.1bn), up about 18x YoY and exceeding Samsung’s entire 2025 profit; revenue seen up 127% to a record KRW169 trillion. Since June, chip stocks have repeatedly sold off on concerns about intensifying competition, potential capacity overhang and returns from large AI investments, raising the stakes for Samsung’s print. With expectations already high, the company has limited room to disappoint. Roundhill Financial CEO Dave Mazza said results close to expectations would help calm the supply-demand dispute and be positive for Samsung."
+    },
+    {
+      "id": "te:markets:564250",
+      "time": "2026-07-06 08:18:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 4-week High — Soybeans increased to 1143.00 USd/Bu, the highest since June 2026. Over the past 4 weeks, Soybeans gained 2.41%, and in the last 12 months, it increased 10.74%."
+    },
+    {
+      "id": "4971233",
+      "time": "2026-07-06 08:17:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【畢馬威釋出報告：88%的受訪企業已開始融入代理式AI】日前，畢馬威釋出《畢馬威2026全球技術報告》。資料顯示，88%的受訪企業已開始融入代理式 AI，預計2025—2027年數字員工在核心技術團隊佔比將從28%升至36%。而中國企業級AI應用目前呈現出“L1輔助級、L2執行級、L3系統級”的三階段演進特徵。"
+    },
+    {
+      "id": "4971232",
+      "time": "2026-07-06 08:16:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國SK海力士將啟動280億美元美國上市計劃 以順應全球人工智慧浪潮】據監管檔案顯示，韓國晶片製造商SK海力士將於週一啟動其約280億美元的美國上市計劃，這將是全球規模最大的新股發行之一，該公司正藉此把握全球人工智慧熱潮的機遇。該公司將在納斯達克市場透過存託憑證發行1779萬股新股，這將使其躋身全球市值最高的科技公司之列。每10股美國存託憑證（ADR）將代表1股普通股，股票將根據SK海力士在首爾的交易價格，在週一公佈的定價區間內進行發售。受全球投資者對AI股票需求激增的推動，SK海力士股價上漲1%，今年以來累計漲幅約為273%。週一早盤，韓國綜合股價指數(KOSPI)上漲0.2%。SK海力士是人工智慧熱潮中全球最大的受益者之一，其表現優於主要競爭對手三星電子和美光科技。監管檔案顯示，紐約上市的最終定價將於週四確定，股票將於週五開始交易。該公司管理層將於本週透過路演與全球投資者會面。預計此次募資規模將僅次於上月SpaceX創紀錄的857億美元首次公開募股（IPO），超過沙特阿美2019年256億美元的IPO，以及阿里巴巴2014年規模相近的IPO。"
+    },
     {
       "id": "4971231",
       "time": "2026-07-06 08:14:11",
@@ -120399,84 +120440,6 @@
         "Energy"
       ],
       "text": "ACCC said the fuel rebate will be cut to A$0.16 per litre from A$0.32 per litre for the period July 1 to August 2."
-    },
-    {
-      "id": "4959321",
-      "time": "2026-06-29 08:19:04",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【DKE東方科脈尋求在香港IPO中融資至多5.175億港元】據香港交易所檔案，DKE東方科脈在香港上市交易中發行510萬股股票，發行價區間為每股78.64港元至101.11港元。據估算，預計將籌集至多5.175億港元。預計將於7月8日開始交易。中信證券是唯一保薦人。"
-    },
-    {
-      "id": "mkt:019f10bd-6839-7aab-8c04-8836e00591b8",
-      "time": "2026-06-29 08:17:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's ACCC will monitor fuel prices and market conduct after a partial reinstatement of the fuel excise."
-    },
-    {
-      "id": "4959320",
-      "time": "2026-06-29 08:17:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞競爭與消費者委員會（ACCC）：隨著燃油消費稅部分恢復，我們預計零售汽油與柴油價格或將隨消費稅調整同步上漲。"
-    },
-    {
-      "id": "mkt:019f10bc-d9fc-7aab-8c04-865c807148dd",
-      "time": "2026-06-29 08:17:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Japan retail sales rise for third month as wages, STATE AID support spending】Japan retail sales rose for a third consecutive month in May, up 1.9% MoM and 5.3% YoY, driven by wage gains and STATE AID that have eased household cost pressures. Despite growing concern the Iran war could lift prices, consumer demand remains firm as wage growth has long outpaced inf and subsidies from Prime Minister Sanae Takaichi are helping households sustain spending."
-    },
-    {
-      "id": "4959319",
-      "time": "2026-06-29 08:16:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞競爭與消費者委員會（ACCC）表示，從7月1日至8月2日，燃油消費稅減免額將從每升32澳分降至16澳分。"
-    },
-    {
-      "id": "mkt:019f10bc-745c-7aab-8c04-7de478ab094f",
-      "time": "2026-06-29 08:16:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year government bond yield rose 3.5 bps to 2.63%."
-    },
-    {
-      "id": "4959318",
-      "time": "2026-06-29 08:16:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲3.5個基點，至2.630%。"
-    },
-    {
-      "id": "4959317",
-      "time": "2026-06-29 08:16:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞競爭與消費者委員會（ACCC）：在燃油消費稅部分恢復徵收後，將對燃油價格及市場行為展開監控。"
     }
   ]
 }
