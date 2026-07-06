@@ -1,7 +1,107 @@
 {
   "date": "2026-07-06",
-  "count": 1059,
+  "count": 1070,
   "items": [
+    {
+      "id": "4971825",
+      "time": "2026-07-06 14:55:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "國華退盤中跌停，上演“天地板”，現報0.41元，成交額304.54萬元。"
+    },
+    {
+      "id": "4971824",
+      "time": "2026-07-06 14:55:22",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【高德紅外自研GAVIN系列兩款連續變焦機芯已獲在軌實戰驗證】第四屆國際商業航天遙感衛星應用大會暨第二屆國際空天資訊與衛星產業展覽會在北京舉行。高德紅外表示，自研的GAVIN系列兩款連續變焦機芯已獲在軌實戰驗證。產品主打小型化、低成本，滿足商業航天紅外載荷快速整合驗證的需求。其中一款連續變焦機芯搭載某光學遙感衛星，在軌完成火點探測試驗，最小可識別2m×2m火點。當前，高德紅外已立項開發長壽命、低振動、高效率的脈衝管製冷機，適配航天在軌長期穩定執行、對地高解析度等應用需求。"
+    },
+    {
+      "id": "4971823",
+      "time": "2026-07-06 14:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保時捷停止接收純電Macan、Taycan新車個性化定製訂單】7月6日，記者從接近保時捷的知情人士處獲悉，基於對國內市場動態的持續審視，保時捷將純電產品重心聚焦於全新純電動Cayenne，即日起，停止接收純電動Macan與Taycan的新車個性化定製訂單，已排產訂單不受影響。前述知情人士稱，消費者仍可在保時捷授權經銷商處，選購精心配置的現車。本次調整不涉及現有車主，車主的售後服務及相關權益均不受影響。（藍鯨新聞）"
+    },
+    {
+      "id": "4971822",
+      "time": "2026-07-06 14:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“美莎克”影響 國鐵成都局重慶車站停運列車9趟】6日，受“美莎克”和季風的共同影響，廣西、湖南等部分地區有暴雨至特大暴雨。今日國鐵成都局重慶車站共計停運列車9趟，涵蓋廣深鐵路、京廣鐵路等線路。其中，重慶北站8趟、重慶東站1趟，停運列車主要為重慶開往深圳東、深圳、廣州白雲、東莞東、惠州等方向的車次。（央視新聞）"
+    },
+    {
+      "id": "4971821",
+      "time": "2026-07-06 14:54:27",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【近期美國利率重新定價後，比特幣保持強勢】比特幣在隔夜觸及兩週高點後保持強勢。Capital.com的Monte Safieddine在一份報告中表示，上週弱於預期的美國非農就業人數報告促使市場降低了對美聯儲加息的預期，這緩解了包括加密貨幣在內的流動性相關資產的下行壓力。美聯儲將於週三公佈上次會議的紀要，該紀要將受到密切關注，以尋找有關利率軌跡的任何訊號。倫敦證券交易所集團資料顯示，比特幣上漲0.5%，至63,026美元，隔夜曾觸及63,926美元的高點。"
+    },
+    {
+      "id": "te:markets:564371",
+      "time": "2026-07-06 14:54:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Stock Price Hits 6-week High — Bharti Airtel shares increased to 1928.00 INR, the highest since May 2026. Over the past 4 weeks, Bharti Airtel gained 6.29%, and in the last 12 months, it decreased 5.24%."
+    },
+    {
+      "id": "mkt:019f3633-6643-7aab-8cad-7478a3b909c6",
+      "time": "2026-07-06 14:52:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Huicheng Environmental: Dongyue Chemical ships first hydrogen‑refined product from 200k tpa waste‑plastic demo plant】Huicheng Environmental said subsidiary Dongyue Chemical has completed loading and shipped the first hydrogen‑refined light oil from its 200,000 t/yr mixed waste‑plastic recycling demonstration plant to a petrochemicals buyer. The shipment is the first batch after commissioning of the hydrogen dechlorination unit; the hydrogen‑refined product is marketed as having pronounced low‑carbon attributes and should help downstream customers meet mandatory recycled‑material blending and pollution/carbon‑reduction requirements, marking implementation of the company’s product‑upgrade plan."
+    },
+    {
+      "id": "mkt:019f3633-61fe-7aab-8cad-6ebdfe6b53e7",
+      "time": "2026-07-06 14:52:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Of 31 economists surveyed, all but one expect Bank Negara Malaysia to leave its overnight policy rate unchanged at 2.75% at the July 9 meeting."
+    },
+    {
+      "id": "4971820",
+      "time": "2026-07-06 14:52:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時縮量740億元。"
+    },
+    {
+      "id": "4971819",
+      "time": "2026-07-06 14:52:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠城環保：子公司東粵化學首批加氫精制產品交付客戶】惠城環保(300779)訊息，公司子公司東粵化學20萬噸/年混合廢塑膠資源化綜合利用示範專案加氫精制塑膠裂解輕油產品日前完成裝車，發運聯合石化。公司表示，此次交付系加氫脫氯單元投運後的首批加氫精制產品，加氫精制後的產品低碳屬性突出，可有效助力下游客戶落實再生材料強制摻配、減汙降碳相關政策要求，標誌公司產品升級方案成功落地。"
+    },
+    {
+      "id": "mkt:019f3632-e299-7aab-8cad-6666cb9550b5",
+      "time": "2026-07-06 14:52:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Bank Negara Malaysia's overnight policy rate is expected to remain at 2.75% until 2027."
+    },
     {
       "id": "4971818",
       "time": "2026-07-06 14:51:51",
