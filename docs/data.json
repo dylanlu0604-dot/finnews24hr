@@ -1,7 +1,162 @@
 {
-  "updated": "2026-07-06 13:58:45",
-  "count": 13025,
+  "updated": "2026-07-06 14:02:34",
+  "count": 13033,
   "items": [
+    {
+      "id": "mkt:019f3604-f821-7aab-8cac-9a7fe71550ad",
+      "time": "2026-07-06 14:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro Stoxx 50 futures fell 0.16%; Germany's DAX 30 futures fell 0.08%; the UK's FTSE 100 futures fell 0.09%."
+    },
+    {
+      "id": "4971743",
+      "time": "2026-07-06 14:01:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周捷升任長生人壽總經理】長生人壽官網最新披露顯示，2026年7月至今，周捷任公司總經理、董事會秘書、首席合規官。這意味著周捷總經理任職資格已獲監管核准。資料顯示，周捷於1972年生，2009年進入長生人壽。2016年至2026年間，周捷歷任公司董事會秘書、副總經理、臨時負責人、臨時合規負責人、副總經理（主持工作）等職。"
+    },
+    {
+      "id": "4971742",
+      "time": "2026-07-06 14:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達300億元】7月6日下午，中際旭創成交額達300億元，現跌0.43%。"
+    },
+    {
+      "id": "4971741",
+      "time": "2026-07-06 14:01:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年上海腦機介面融資事件數量佔全國近60%】在6日舉行的“活力中國調研行”上海站主題採訪活動情況介紹會上，上海市科委主任駱大進表示，上海強化戰略敏捷，超前佈局前沿科技與未來產業。目前，重點跟蹤的戰略前沿領域已增至20個。全市集聚腦機介面企業數量佔全國1/3，上半年融資事件數量和披露金額分別佔全國近60%和40%；集聚了全國半數的中性原子量子計算整機企業、矽光和第四代半導體企業。打造了4個市級未來產業集聚區、2個未來產業培育區。（第一財經）"
+    },
+    {
+      "id": "4971740",
+      "time": "2026-07-06 14:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50期貨<STXEc1>下跌0.16%，德國DAX期貨<FDXc1>下跌0.08%，富時期貨<FFIc1>下跌0.09%。"
+    },
+    {
+      "id": "mkt:019f3603-b6e7-7aab-8cac-976a1dd76bea",
+      "time": "2026-07-06 14:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May manufacturing orders, working-day adjusted, rose 6.2% YoY, up from 1.6% in April."
+    },
+    {
+      "id": "mkt:019f3603-9dd8-7aab-8cac-88d0dc158dfd",
+      "time": "2026-07-06 14:00:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing Orders (Workday Adjusted) (YoY) (May) | actual 6.2% | previous 1.60%"
+    },
+    {
+      "id": "4971739",
+      "time": "2026-07-06 14:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASM宣佈擬提名克里斯·菲吉擔任首席財務官。"
+    },
+    {
+      "id": "4971738",
+      "time": "2026-07-06 14:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國5月份工廠訂單環比上升1.9%; 預估為1.1%。"
+    },
+    {
+      "id": "4971737",
+      "time": "2026-07-06 14:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國5月份工廠訂單同比+6.2%；預估4.6%。"
+    },
+    {
+      "id": "mkt:019f3603-3c28-7aab-8cac-87daff8552bf",
+      "time": "2026-07-06 14:00:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May seasonally adjusted manufacturing orders MoM +1.9% (consensus +1.5%); prior -3.8%."
+    },
+    {
+      "id": "mkt:019f3603-22fb-7aab-8cac-790dba5c4249",
+      "time": "2026-07-06 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing Orders (Seasonally Adjusted) (MoM) (May) | actual 1.9% | consensus 1.5% | previous -3.80%"
+    },
+    {
+      "id": "4971736",
+      "time": "2026-07-06 13:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：美國反對烏軍發動新攻勢】據俄羅斯衛星社7月6日報道，美國副總統萬斯在接受採訪時表示，華盛頓反對烏軍發動新的攻勢，並堅持認為其應採取防禦戰術。報道稱，萬斯說：“特朗普政府傾向於認為，在我們進行談判的同時，烏克蘭人應最大限度地進行防禦。” (參考訊息)"
+    },
+    {
+      "id": "mkt:019f3602-3fdf-7aab-8cac-71ef069a0cc3",
+      "time": "2026-07-06 13:59:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Dollar index (DXY) rose to above 101, up 0.13% on the day."
+    },
+    {
+      "id": "4971735",
+      "time": "2026-07-06 13:58:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4150美元/盎司，日內跌0.61%。"
+    },
+    {
+      "id": "4971734",
+      "time": "2026-07-06 13:58:46",
+      "tags": [
+        "公司",
+        "央行"
+      ],
+      "text": "據香港固定收益及貨幣論壇網頁公告，中國央行行長潘功勝將週二早上8:55出席論壇並發表講話。"
+    },
+    {
+      "id": "4971733",
+      "time": "2026-07-06 13:58:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數升破101】美元指數升破101，日內漲0.1428%。"
+    },
     {
       "id": "4971732",
       "time": "2026-07-06 13:57:41",
@@ -119828,89 +119983,6 @@
         "國際"
       ],
       "text": "韓國SK集團會長崔泰源：即便SK海力士加快推進在建晶圓廠的建設，儲存器短缺問題仍將持續。"
-    },
-    {
-      "id": "4959837",
-      "time": "2026-06-29 14:02:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量146億元。"
-    },
-    {
-      "id": "4959836",
-      "time": "2026-06-29 14:01:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50指數期貨<STXEc1>上漲0.34%，德國DAX指數期貨<FDXc1>上漲0.48%，法國CAC 40指數期貨<FCEc1>上漲0.02%，富時指數期貨<FFIc1>上漲0.13%。"
-    },
-    {
-      "id": "mkt:019f11f7-0bd0-7aab-8c0a-932a1928b9ec",
-      "time": "2026-06-29 14:00:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Citigroup raises year‑end 10‑year US Treasury yield target to 3.9% but remains bullish on Treasuries】Citigroup rates strategists said in a note they slightly raised their year‑end 10‑year US Treasury yield forecast to 3.9% from 3.75% after the Fed’s hawkish stance at the June meeting. They keep a medium‑term bullish view on US Treasuries, arguing recent Middle East conflict is unlikely to feed through to core inflation and that the balance of risks points to a weakening, not strengthening, labor market."
-    },
-    {
-      "id": "4959835",
-      "time": "2026-06-29 14:00:29",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗：上調10年期美國國債收益率目標，但仍看多債市】花旗利率策略師在一份報告中表示，他們將10年期美國國債收益率的年底預期略微上調至3.9%，此前的目標為3.75%。此次調整是在美聯儲6月會議上採取鷹派立場之後做出的。不過，花旗策略師仍然維持對美國國債的中期看多觀點，因為他們認為，近期中東衝突不會推動通脹壓力向核心通脹傳導。他們還表示，認為風險平衡的方向是勞動力市場走弱，而不是走強。"
-    },
-    {
-      "id": "4959834",
-      "time": "2026-06-29 14:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將施耐德電氣目標股價從307歐元上調至340歐元。"
-    },
-    {
-      "id": "4959833",
-      "time": "2026-06-29 13:59:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國計劃到2035年建成18.4吉瓦的人工智慧資料中心】據外媒報道，韓國計劃到2035年建成18.4吉瓦的人工智慧資料中心。第一階段：SK集團、GS集團和Naver將投資550萬億韓元，到2029年建成8.4吉瓦的人工智慧資料中心。第二階段：SK集團計劃到2035年將其人工智慧資料中心容量從第一階段的5吉瓦擴大到15吉瓦。"
-    },
-    {
-      "id": "mkt:019f11f6-4d0d-7aab-8c0a-887daace8da5",
-      "time": "2026-06-29 13:59:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【South Korea to build 18.4 GW of AI data-center capacity by 2035】South Korea plans to build 18.4 GW of AI data-center capacity by 2035, foreign media reported. Phase one: SK Group, GS Group and Naver will invest 550 tln won to build 8.4 GW by 2029; SK’s share in phase one is 5 GW. Phase two: SK plans to expand its AI data-center capacity from 5 GW to 15 GW by 2035."
-    },
-    {
-      "id": "4959832",
-      "time": "2026-06-29 13:59:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將歐萊雅目標股價從375歐元上調至376歐元。"
-    },
-    {
-      "id": "4959831",
-      "time": "2026-06-29 13:59:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將達能目標股價從78歐元上調至80歐元。"
     }
   ]
 }
