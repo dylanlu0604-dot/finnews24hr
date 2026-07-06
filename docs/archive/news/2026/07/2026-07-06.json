@@ -1,7 +1,91 @@
 {
   "date": "2026-07-06",
-  "count": 230,
+  "count": 239,
   "items": [
+    {
+      "id": "mkt:019f34bb-39fa-7aab-8ca6-1bf090e0fd57",
+      "time": "2026-07-06 08:01:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics rose 1.9%; SK Hynix was slightly lower."
+    },
+    {
+      "id": "4971220",
+      "time": "2026-07-06 08:01:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲1.9%。"
+    },
+    {
+      "id": "mkt:019f34ba-e565-7aab-8ca6-17d7a0ffc3c4",
+      "time": "2026-07-06 08:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened on Monday, July 6, up 18.09 points (+0.22%) at 8,106.43."
+    },
+    {
+      "id": "4971219",
+      "time": "2026-07-06 08:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲0.3%。"
+    },
+    {
+      "id": "mkt:019f34ba-bb70-7aab-8ca6-0bef3bc4b952",
+      "time": "2026-07-06 08:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 217.92 points, or 0.31%, at 69,961.99 on Monday, July 6."
+    },
+    {
+      "id": "4971218",
+      "time": "2026-07-06 08:01:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.2%，至8186.82點。"
+    },
+    {
+      "id": "mkt:019f34ba-8500-7aab-8ca6-01cf52290a6d",
+      "time": "2026-07-06 08:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianwen-2 reaches target asteroid, begins scientific survey】China National Space Administration said Tianwen-2 completed about a 400‑day, ~1 bln km approach and has rendezvoused with asteroid 2016 HO3, arriving at roughly 20 km and beginning scientific observations. The probe captured imagery during approach, and teams used the optical-navigation data to refine the asteroid’s ephemeris, cutting position error from hundreds of km to the km scale. Tianwen-2 was launched from Xichang Satellite Launch Center on May 29, 2025."
+    },
+    {
+      "id": "4971216",
+      "time": "2026-07-06 08:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報69973.34點，漲幅0.33%。"
+    },
+    {
+      "id": "mkt:019f34b9-30a4-7aab-8ca5-fc31f7dfc7d7",
+      "time": "2026-07-06 07:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Aluminum prices likely supported by $3,000/ton cost curve after H2 2027】CITIC Securities says market worries over Chinese electrolytic-aluminum overproduction and an Indonesian capacity ramp may be overstated. Accounting for potential supply disruptions and signs of demand improvement, it expects aluminum prices to be constructive through 2026 and H1 2027 and to remain supported by an approximate $3,000/ton cost curve and incentive price after H2 2027. The firm views Chinese aluminum producers as maintaining investment appeal."
+    },
     {
       "id": "4971215",
       "time": "2026-07-06 07:58:19",

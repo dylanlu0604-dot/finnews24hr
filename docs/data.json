@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-06 07:59:00",
-  "count": 13077,
+  "updated": "2026-07-06 08:02:45",
+  "count": 13074,
   "items": [
+    {
+      "id": "mkt:019f34bb-39fa-7aab-8ca6-1bf090e0fd57",
+      "time": "2026-07-06 08:01:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics rose 1.9%; SK Hynix was slightly lower."
+    },
+    {
+      "id": "4971220",
+      "time": "2026-07-06 08:01:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲1.9%。"
+    },
+    {
+      "id": "mkt:019f34ba-e565-7aab-8ca6-17d7a0ffc3c4",
+      "time": "2026-07-06 08:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened on Monday, July 6, up 18.09 points (+0.22%) at 8,106.43."
+    },
+    {
+      "id": "4971219",
+      "time": "2026-07-06 08:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲0.3%。"
+    },
+    {
+      "id": "mkt:019f34ba-bb70-7aab-8ca6-0bef3bc4b952",
+      "time": "2026-07-06 08:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 217.92 points, or 0.31%, at 69,961.99 on Monday, July 6."
+    },
+    {
+      "id": "4971218",
+      "time": "2026-07-06 08:01:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.2%，至8186.82點。"
+    },
+    {
+      "id": "mkt:019f34ba-8500-7aab-8ca6-01cf52290a6d",
+      "time": "2026-07-06 08:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianwen-2 reaches target asteroid, begins scientific survey】China National Space Administration said Tianwen-2 completed about a 400‑day, ~1 bln km approach and has rendezvoused with asteroid 2016 HO3, arriving at roughly 20 km and beginning scientific observations. The probe captured imagery during approach, and teams used the optical-navigation data to refine the asteroid’s ephemeris, cutting position error from hundreds of km to the km scale. Tianwen-2 was launched from Xichang Satellite Launch Center on May 29, 2025."
+    },
+    {
+      "id": "4971216",
+      "time": "2026-07-06 08:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報69973.34點，漲幅0.33%。"
+    },
+    {
+      "id": "mkt:019f34b9-30a4-7aab-8ca5-fc31f7dfc7d7",
+      "time": "2026-07-06 07:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Aluminum prices likely supported by $3,000/ton cost curve after H2 2027】CITIC Securities says market worries over Chinese electrolytic-aluminum overproduction and an Indonesian capacity ramp may be overstated. Accounting for potential supply disruptions and signs of demand improvement, it expects aluminum prices to be constructive through 2026 and H1 2027 and to remain supported by an approximate $3,000/ton cost curve and incentive price after H2 2027. The firm views Chinese aluminum producers as maintaining investment appeal."
+    },
     {
       "id": "4971215",
       "time": "2026-07-06 07:58:19",
@@ -120439,127 +120523,6 @@
         "國際"
       ],
       "text": "【韓國綜指跌幅擴大至2%】韓國綜指跌幅擴大至2%，現報8240.63點。個股方面，三星電子跌超3%，SK海力士跌超2%。"
-    },
-    {
-      "id": "4959304",
-      "time": "2026-06-29 08:02:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報8253.5點。個股方面，三星電子跌超3%，SK海力士跌超2%。"
-    },
-    {
-      "id": "4959303",
-      "time": "2026-06-29 08:02:35",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金：AI產業鏈上游的部分細分領域為當前關注點】中金研報指出，近期AI行情顯現擴散跡象，關注上游“賣鏟子”領域再定價。開年以來A股市場延續較為明顯的結構性行情，科技成長風格的創業板指及科創50明顯跑贏，分別上漲30.9%/51.2%，AI產業鏈為核心主線。二季度以來AI板塊波動有所放大，此前領漲的半導體、光模組、PCB等核心方向交易擁擠度處於歷史高位水平，近期行情有逐步向擁擠度相對較低的AI相關上游原材料及基礎設施領域擴散跡象，小金屬、電子布、光纖等細分板塊錄得較好表現。中金認為AI產業趨勢持續強化背景下，現階段行情或更可能表現為風格擴散而非系統性風格切換，AI產業鏈上游的部分細分領域為當前關注點。"
-    },
-    {
-      "id": "4959302",
-      "time": "2026-06-29 08:02:18",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【銀河證券：建議聚焦具備真實訂單、盈利高增、景氣度延續的硬核科技與行業龍頭】銀河證券A股市場投資展望認為，隨著美伊和談推進，海峽恢復通航預期升溫，國際原油價格基本回吐本輪美伊地緣衝突帶來的溢價。但美聯儲加息預期對於市場情緒和全球流動性的影響持續，海外資本市場波動放大。科技產業景氣驗證持續。美光科技最新財報大幅超出市場預期，且後續業績指引進一步驗證全球AI硬體需求高景氣。產業鏈利好傳導至A股市場，推動儲存晶片、半導體材料等走出結構性行情，資金進一步在科技板塊內部進行輪動調整。市場呈現出“重景氣、重兌現”的定價思路。國內工業企業利潤資料進一步夯實了市場景氣主線，高技術製造業、電子行業利潤大幅高增，有色、化工等資源板塊盈利持續修復。A股兩融餘額首次突破3萬億元，直觀反映出投資者風險偏好抬升、市場交易活躍度持續升溫。本輪槓桿資金呈現顯著的結構性特徵，增量資金集中佈局於AI硬體、半導體等高景氣成長賽道。展望後續，存量資金可為優質景氣標的提供底部承接、支撐結構性行情延續，但結構性擁擠特徵也意味著板塊輪動與分化節奏加快。隨著7月進入中報預告披露視窗，市場核心邏輯轉向業績兌現，建議聚焦具備真實訂單、盈利高增、景氣度延續的硬核科技與行業龍頭。"
-    },
-    {
-      "id": "mkt:019f10ae-e428-7aab-8c04-3296cc06a142",
-      "time": "2026-06-29 08:02:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's 20-year government bond yield rose 4.0 bps to 3.550%."
-    },
-    {
-      "id": "4959301",
-      "time": "2026-06-29 08:01:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲4.0個基點，至3.550%。"
-    },
-    {
-      "id": "mkt:019f10ae-5143-7aab-8c04-2d4f5b8540d1",
-      "time": "2026-06-29 08:01:27",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "South Korea's KOSPI opened down 96.52 points (-1.15%) at 8,314.69 on Monday, June 29."
-    },
-    {
-      "id": "mkt:019f10ae-3f3c-7aab-8c04-25bc014b9228",
-      "time": "2026-06-29 08:01:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 35.70 points, or 0.05%, at 69,396.58 on Monday, June 29."
-    },
-    {
-      "id": "4959300",
-      "time": "2026-06-29 08:01:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數高開0.1%。"
-    },
-    {
-      "id": "4959299",
-      "time": "2026-06-29 08:00:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市開盤】日經225指數高開0.1％。韓國綜合股價指數（KOSPI）開盤下跌0.9％，至8334.28點。"
-    },
-    {
-      "id": "4959298",
-      "time": "2026-06-29 08:00:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠普公司（HP Inc.）與OpenAI達成前沿戰略合作伙伴關係，以賦能面向客戶的體驗並推動內部運營轉型。"
-    },
-    {
-      "id": "mkt:019f10ac-c92f-7aab-8c04-1a64e42bbc22",
-      "time": "2026-06-29 07:59:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Invesco survey: 61% of central banks say US debt undermines dollar's reserve role】Invesco's survey found 61% of central banks say US debt levels negatively affect the dollar's long-term role as a reserve asset, compared with 20% in 2024. Despite a 3% YTD dollar rally linked to the Iran conflict, survey analysts say US policy uncertainty and high debt argue for a longer-term dollar downside. 29% of respondents expect the dollar's reserve status to weaken within five years, up from 12% in 2022. Several institutions report re-evaluating reliance on US custodians, counterparties and clearing infrastructure amid geopolitical tensions. One-third of respondents plan to increase gold holdings for diversification."
-    },
-    {
-      "id": "4959297",
-      "time": "2026-06-29 07:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞APRA就銀行風險權重調整展開諮詢】澳大利亞審慎監管局（APRA）已開始就擬議的銀行信用風險資本設定調整進行公眾諮詢。 提案內容包括： - 允許對大型國內公共基礎設施敞口採用較低的風險權重； - 在滿足特定條件的情況下，允許對高質量的未評級企業敞口採用較低的風險權重； - 調整標準，使更多住宅地產開發專案符合100%較低風險權重的資格要求； - 計劃於2026年下半年最終確定信用風險資本調整方案，並擬於2027年4月1日起生效； - 與流動性風險和市場風險相關的提案將在未來12個月內開展諮詢。"
     }
   ]
 }
