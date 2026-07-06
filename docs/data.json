@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-06 08:07:55",
-  "count": 13073,
+  "updated": "2026-07-06 08:11:50",
+  "count": 13070,
   "items": [
+    {
+      "id": "4971228",
+      "time": "2026-07-06 08:10:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：油價逐步回落，第三季度出行鏈有望迎來修復】中國銀河證券研報表示，油價逐步回落，第三季度出行鏈有望迎來修復。受油價大幅上行導致居民出行成本上升影響，第二季度出行鏈上下游整體受損嚴重。從高頻資料看，5—6月初油價與天氣因素影響尤為顯著，2026年第22至23周‌（約5月下旬至6月初）航司運力減少致國內民航出行人次出現雙位數下滑。但隨著6月中旬油價逐步回落，2026年第24至25周‌（即2026年6月中下旬）民航客運人次降幅已收窄至個位數區間。考慮7月國內民航燃油附加費、汽油價格將進一步回落至美以伊衝突前水平，以及秋假實施在即，第三季度出行人次增速有望轉正，出行鏈整體將迎來業績邊際改善。"
+    },
+    {
+      "id": "mkt:019f34c1-ef45-7aab-8ca6-34ddcf4d76f0",
+      "time": "2026-07-06 08:09:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Gold sector at cycle low; valuation and earnings-driven rerating expected】CITIC Securities says gold prices and gold stocks have been sharply oversold since the US–Iran conflict; gold equities now carry a wide margin of safety on PE and resource-based valuation metrics. It forecasts gold at USD 4,000–4,500/oz in Q3 2026; if market rate‑hike expectations are fully repriced, gold could return to USD 4,500–5,000/oz. The firm expects the gold sector to benefit from a simultaneous recovery in earnings and valuations and recommends broad allocation to the sector."
+    },
+    {
+      "id": "mkt:019f34c0-bc11-7aab-8ca6-2ee8217082ec",
+      "time": "2026-07-06 08:07:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI rose as much as 2.00% intraday."
+    },
+    {
+      "id": "4971227",
+      "time": "2026-07-06 08:07:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲2%，至8251.17。"
+    },
     {
       "id": "4971226",
       "time": "2026-07-06 08:07:01",
@@ -120439,76 +120477,6 @@
         "MKT News"
       ],
       "text": "South Korea's KOSPI narrowed losses to within 1% after earlier falling 2%."
-    },
-    {
-      "id": "mkt:019f10b7-1407-7aab-8c04-6f20458784d5",
-      "time": "2026-06-29 08:11:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【CITIC Securities: Current MLCC price rally likely to last over a year】CITIC Securities research says MLCC price increases have accelerated and the current cycle could mirror the 2017–18 supercycle. The firm expects the upcycle to extend beyond one year and factory-side price hikes could double or exceed that magnitude."
-    },
-    {
-      "id": "mkt:019f10b6-8ecb-7aab-8c04-63d0a12fa0a7",
-      "time": "2026-06-29 08:10:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 42.00 points higher (+0.48%) at 8,806.20 on Monday, June 29."
-    },
-    {
-      "id": "4959313",
-      "time": "2026-06-29 08:10:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠普公司與OpenAI建立前沿戰略合作伙伴關係 以推動面向客戶的體驗並最佳化內部運營】惠普公司今日宣佈，與OpenAI建立戰略合作伙伴關係，將整合其Frontier平臺，助力惠普在全球範圍內打造更優質的客戶體驗，並加速企業內部運營的轉型，共同塑造未來工作的新格局。惠普公司首席戰略與轉型官普拉卡什·阿倫昆德魯姆表示：“藉助OpenAI，我們有機會從根本上重新思考人工智慧如何實現更優的成果。透過使用Frontier平臺，惠普計劃在門店、合作伙伴、聊天和語音體驗方面打造更加一致的服務，讓客戶和合作伙伴能夠更快地獲取答案、完成日常流程，並推進問題解決。這體現了我們人工智慧戰略的雄心——以大規模方式帶來切實的成果。”惠普已成為首批採用Frontier平臺推動企業轉型的全球企業之一。隨著戰略合作伙伴關係的推進，具體應用場景將逐步完善和增加。惠普的目標是將基於人工智慧的解決方案應用於以下領域：面向客戶和合作伙伴的解決方案與體驗；透過惠普領先的WXP解決方案和報告功能，獲取客戶遙測洞察；員工生產力； 軟體開發。"
-    },
-    {
-      "id": "4959312",
-      "time": "2026-06-29 08:09:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：危機時期，流動性與降息相結合至關重要。"
-    },
-    {
-      "id": "4959311",
-      "time": "2026-06-29 08:08:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：本輪MLCC漲價延續時間有望超過一年】中信證券指出，近期觀察到MLCC行業漲價潮加速，認為本輪MLCC週期有望類比2017—2018年的超級景氣週期，漲價延續時間有望超過一年，原廠端漲價幅度有望實現翻倍甚至更高的顯著提升。"
-    },
-    {
-      "id": "mkt:019f10b4-e2f5-7aab-8c04-5b6a20fecc92",
-      "time": "2026-06-29 08:08:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell more than 1.0% intraday to $69.37/bbl."
-    },
-    {
-      "id": "mkt:019f10b4-acfc-7aab-8c04-54cdd4191b40",
-      "time": "2026-06-29 08:08:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【CITIC Securities: Dollar signals global K-shaped divergence】CITIC Securities says early-May dollar strength and rising rate expectations correspond with an acceleration of global K-shaped market divergence, driven by tightening expectations that damage non-AI demand. The firm judges the K-shaped split has reached a cyclical extreme; even overseas tech is contracting internally, and pricing across equities, bonds, commodities and FX already reflects early recession-trade signals. If tightening materializes, carbon‑based demand could suffer further; if not, divergence may partially converge. Compared with volatile offshore markets, China’s A-share market shows greater resilience: some non-AI sectors have attracted early (left-side) institutional flows and a few low-valuation pockets have begun to repair, but catalysts are still required."
     }
   ]
 }
