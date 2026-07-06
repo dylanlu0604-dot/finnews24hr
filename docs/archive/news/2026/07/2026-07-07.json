@@ -1,7 +1,292 @@
 {
   "date": "2026-07-07",
-  "count": 146,
+  "count": 176,
   "items": [
+    {
+      "id": "mkt:019f38b7-f20e-7aab-8cbb-07c2ddaf78ca",
+      "time": "2026-07-07 02:36:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President ZELENSKIY said Ukraine shot down all six Kalibr missiles and 31 cruise missiles overnight and urged the US to authorize Ukrainian production of Patriot interceptors to offset an interceptor shortfall."
+    },
+    {
+      "id": "4972963",
+      "time": "2026-07-07 02:35:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋酋長國富查伊拉達成協議，將連續十年採購阿提哈德煉油廠汽油。"
+    },
+    {
+      "id": "4972962",
+      "time": "2026-07-07 02:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Politico：塞爾維亞加入歐盟的推進計劃恐難如願。"
+    },
+    {
+      "id": "mkt:019f38b4-8b2e-7aab-8cba-ffc3d09952a5",
+      "time": "2026-07-07 02:33:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Zelenskiy says Russia's large-scale strike on Ukraine killed 22】Ukrainian President Zelenskiy said on the 6th (local time) that Russia's large-scale strike that day killed 22 and injured nearly 90; rescue and recovery operations continue. He said Russian forces fired 68 missiles, including many ballistic missiles, and launched more than 350 drones of various types. He said the main targets were Kyiv and Kyiv region."
+    },
+    {
+      "id": "mkt:019f38b2-fd38-7aab-8cba-f49819e370b0",
+      "time": "2026-07-07 02:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Zimbabwe experienced a nationwide power outage caused by a technical fault."
+    },
+    {
+      "id": "mkt:019f38b2-d1ac-7aab-8cba-ec36e543f63f",
+      "time": "2026-07-07 02:31:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract fell 0.15% to 910 yuan/gram; Shanghai silver main contract fell 0.47% to 15,126 yuan/kg; SC crude oil main contract rose 0.23% to 438 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f38b2-d01a-7aab-8cba-e5c02f8ec43b",
+      "time": "2026-07-07 02:31:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.06% at 909.0 yuan/gram in Monday evening trade; silver T+D closed up 0.03% at 15,125 yuan/kg."
+    },
+    {
+      "id": "4972961",
+      "time": "2026-07-07 02:30:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶68.55美元，下跌14美分，跌幅0.20%。"
+    },
+    {
+      "id": "4972960",
+      "time": "2026-07-07 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.23%，報438.30元人民幣/桶。滬金夜盤收跌0.15%，滬銀收跌0.47%。"
+    },
+    {
+      "id": "4972959",
+      "time": "2026-07-07 02:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據Kraken交易所官網訊息，受BONK代幣相關突發事件影響，該平臺已臨時暫停BONK代幣的充提業務。"
+    },
+    {
+      "id": "mkt:019f38b0-f208-7aab-8cba-dee2ac82b38b",
+      "time": "2026-07-07 02:29:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "YONHAP reports Trump reiterated tariffs have prompted South Korean, Japanese and other automakers to build plants in the U.S."
+    },
+    {
+      "id": "mkt:019f38af-5a00-7aab-8cba-d383afc869cc",
+      "time": "2026-07-07 02:27:23",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Syrian President Shala said Syria will order eight Airbus aircraft in the near term."
+    },
+    {
+      "id": "mkt:019f38af-20cc-7aab-8cba-ca928456f547",
+      "time": "2026-07-07 02:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian president Shala said France can play a role in Syria's reconstruction and other areas."
+    },
+    {
+      "id": "4972958",
+      "time": "2026-07-07 02:27:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱日聯金融集團總裁稱，該集團計劃中長期將股本回報率提升至15%左右的區間中段。"
+    },
+    {
+      "id": "4972957",
+      "time": "2026-07-07 02:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱俄對烏大規模襲擊致22人死亡】烏克蘭總統澤連斯基當地時間6日表示，俄羅斯當天對烏克蘭發動的大規模襲擊已造成22人死亡、近90人受傷，目前救援和善後工作仍在繼續。澤連斯基稱，俄軍此次共發射68枚導彈，其中包括大量彈道導彈，併發射350多架不同型別無人機。他表示，此次襲擊的主要目標是基輔及基輔州。"
+    },
+    {
+      "id": "4972956",
+      "time": "2026-07-07 02:26:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行調查顯示，美伊協議達成前加拿大民眾通脹預期持續走高。"
+    },
+    {
+      "id": "te:markets:564565",
+      "time": "2026-07-07 02:25:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Spikes by 14.94% — Top commodity gainers are Coffee (14.94%), Cocoa (14.07%) and Soybeans (4.16%). Biggest loser is Wool (-2.01%)."
+    },
+    {
+      "id": "4972955",
+      "time": "2026-07-07 02:24:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【3名登山者在新疆慕士塔格峰遇難 1人失聯】記者從新疆維吾爾自治區體育局瞭解到，7月3日—4日，兩支經國家體育總局審批的登山隊登頂慕士塔格峰，下撤至海拔約7300米時遭遇暴風雪，4名隊員失聯。險情發生後，國家體育總局、自治區體育局、克孜勒蘇柯爾克孜自治州立即組織專業人員、裝置全力搜救。截至6日22時，已找到3名失聯人員，發現時無生命體徵。目前，正全力搜救最後1名失聯人員。（央視新聞）"
+    },
+    {
+      "id": "4972954",
+      "time": "2026-07-07 02:20:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事沃勒為前瞻指引辯護 稱運用得當能起到積極作用】美聯儲理事克里斯托弗·沃勒表示，如果運用得當，政策制定者就未來利率路徑釋放訊號的做法仍能起到積極作用。沃勒是在羅馬一場會議上發表上述講話的。此前，新任美聯儲主席凱文·沃什承諾，將減少美聯儲對所謂“前瞻指引”的依賴，轉而採取一種更注重根據經濟資料變化調整政策的方式。沃勒表示，前瞻指引仍是一項有價值的政策工具。在疫情時期通脹飆升期間，前瞻指引幫助央行向公眾傳遞了利率將上調的訊號。即使美聯儲尚未正式加息，金融環境也因此提前收緊。"
+    },
+    {
+      "id": "te:markets:564564",
+      "time": "2026-07-07 02:20:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 0.71% — Top commodity losers are Platinum (-0.71%) and Gold (-0.24%). Gains are led by Iron Ore CNY (0.55%) and Copper (0.52%)."
+    },
+    {
+      "id": "te:markets:564563",
+      "time": "2026-07-07 02:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.06%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.37%) and Brent Crude Oil (-0.15%). Gains are led by Gasoline (1.43%) and Heating Oil (1.08%)."
+    },
+    {
+      "id": "4972953",
+      "time": "2026-07-07 02:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜推出AWS SimuLearn學習方案徽章。\n注：學習方案徽章，完成對應學習路徑後發放的認證標識。"
+    },
+    {
+      "id": "mkt:019f38a2-5d37-7aab-8cba-c6a66c5871a8",
+      "time": "2026-07-07 02:13:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israel's ambassador to the United States said the next round of talks between Israel and Lebanon is scheduled for July 14-15 in Rome, Italy."
+    },
+    {
+      "id": "4972952",
+      "time": "2026-07-07 02:12:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 如果比利時贏了我們，那他們完全可以引以為傲。 可反過來講——只要他們贏了——我就說這是被操縱的，就跟2020年大選遭人為操控一模一樣。"
+    },
+    {
+      "id": "mkt:019f38a1-1b5c-7aab-8cba-b8e674525a94",
+      "time": "2026-07-07 02:11:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun said reports that a force would be formed to implement the \"pilot area agreement\" are unfounded."
+    },
+    {
+      "id": "mkt:019f38a0-e8ab-7aab-8cba-b6c441c93b05",
+      "time": "2026-07-07 02:11:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun said there is no rupture in his relationship with Parliament Speaker Nabih Berri."
+    },
+    {
+      "id": "mkt:019f389f-0b58-7aab-8cba-ada668d66859",
+      "time": "2026-07-07 02:09:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithuanian president approves new cabinet list】President Gitanas Nausėda on the 6th approved a new cabinet list led by Prime Minister Mindaugas Sinkevičius, the presidential office said. The list retains some incumbents, including Foreign Minister Kęstutis Budrys, and reshuffles several portfolios. The Ruginienė government resigned on June 23 and is serving as a caretaker; parliament on June 30 approved Sinkevičius as prime minister and Social Democrats chair. Under Lithuanian law, following formal appointment (the parliamentary vote), Sinkevičius has 15 days to submit the president‑approved cabinet list and policy program to parliament; the new government takes office after parliamentary approval."
+    },
+    {
+      "id": "mkt:019f389d-0f41-7aab-8cba-a5365a8f9f9b",
+      "time": "2026-07-07 02:07:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Waller: inflation risks now outweigh employment risks; markets eye July CPI】Fed governor Waller said the US labor market has stabilized while inflation has re-accelerated, and that inflation risks now exceed employment risks—a full reversal from a year ago when weak jobs supported rate-cut bets. He said policy focus should shift back to containing inflation. Markets are focused on June CPI due July 14, the last major inflation print before the Fed's July 28-29 meeting. International oil has fallen to roughly $70/bbl, but Fed officials still expect year-end inflation to be materially above the 2% target. Markets price a hike by September at the latest; July hike probability is about 25%, and several officials have signaled further tightening."
+    },
+    {
+      "id": "mkt:019f389c-179e-7aab-8cba-99f2d9798f2c",
+      "time": "2026-07-07 02:06:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's President Aoun said he will not meet Netanyahu."
+    },
+    {
+      "id": "4972951",
+      "time": "2026-07-07 02:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【立陶宛總統批准新內閣名單】立陶宛總統瑙塞達6日批准由總理明道加斯·辛克維丘斯領導的新一屆內閣名單。根據總統府當天釋出的訊息，新內閣保留包括外交部長凱斯圖蒂斯·佈德里斯在內的部分原班人馬，調整多個部長職位。魯吉尼埃內政府6月23日宣佈辭職，現為看守政府。立陶宛議會6月30日舉行投票，批准立陶宛社會民主黨主席辛克維丘斯為政府總理。按照立陶宛法律，自獲得正式任命（即議會投票批准）之日起，辛克維丘斯須在15天內將經總統批准的新內閣名單和施政綱領提交議會審議，獲議會批准後新政府即正式履職。（央視新聞）"
+    },
     {
       "id": "4972950",
       "time": "2026-07-07 02:03:00",
