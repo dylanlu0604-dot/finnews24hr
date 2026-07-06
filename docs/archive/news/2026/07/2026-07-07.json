@@ -1,7 +1,105 @@
 {
   "date": "2026-07-07",
-  "count": 202,
+  "count": 211,
   "items": [
+    {
+      "id": "4972985",
+      "time": "2026-07-07 03:32:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，覆蓋紐約商品交易所、洲際交易所四大主要市場的天然氣投機資金持倉由淨空轉為淨多，淨多頭持倉達 8963 手，增持規模 11147 手。"
+    },
+    {
+      "id": "4972984",
+      "time": "2026-07-07 03:32:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，股票基金經理減持芝加哥商業交易所標普 500 指數期貨淨多頭頭寸 8851 手，淨多頭持倉降至 979126 手。\n削減標普 500 指數期貨淨空頭頭寸 7187 手，淨空頭持倉降至 348482 手。"
+    },
+    {
+      "id": "mkt:019f38ea-b785-7aab-8cbb-6c5af7a8f05c",
+      "time": "2026-07-07 03:32:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "CFTC: Speculators held net short 155,092 contracts in Japanese yen, net long 1,099 contracts in the euro and net short 102,147 contracts in the British pound for the week ended June 30."
+    },
+    {
+      "id": "mkt:019f38ea-8968-7aab-8cbb-649668a1b7b6",
+      "time": "2026-07-07 03:32:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC data: Speculators cut WTI crude net long by 3,299 contracts to 85,187 in the week to June 30."
+    },
+    {
+      "id": "mkt:019f38ea-6afe-7aab-8cbb-5a09ee872ee8",
+      "time": "2026-07-07 03:31:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to June 30, speculators cut net short positions in CBOT ultra‑long U.S. Treasury futures by 31,431 contracts to 286,669; cut 10‑year Treasury futures net shorts by 26,375 contracts to 808,891; cut 2‑year Treasury futures net shorts by 31,265 contracts to 1,287,581; cut aggregate U.S. Treasury futures net short by 85,263 contracts to 90,780. Five‑year Treasury futures net shorts rose by 19,241 contracts to 1,320,510."
+    },
+    {
+      "id": "mkt:019f38ea-579c-7aab-8cbb-5297ec27ae72",
+      "time": "2026-07-07 03:31:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "CFTC data: in the week to June 30 speculators increased COMEX silver net longs by 1,088 contracts to 12,747 and cut COMEX copper net longs by 7,452 contracts to 61,367."
+    },
+    {
+      "id": "4972983",
+      "time": "2026-07-07 03:30:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，原油投機者減持西德克薩斯輕質原油（WTI）淨多頭頭寸 3299 手，淨多頭持倉降至 85187 手。"
+    },
+    {
+      "id": "4972982",
+      "time": "2026-07-07 03:30:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，COMEX 黃金投機者增持淨多頭頭寸 3808 手，淨多頭持倉升至 116817 手。\nCOMEX 白銀投機者增持淨多頭頭寸 1088 手，淨多頭持倉增至 12747 手。\nCOMEX 銅投機者削減淨多頭頭寸 7452 手，淨多頭持倉降至 61367 手。"
+    },
+    {
+      "id": "4972981",
+      "time": "2026-07-07 03:29:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，投機者增持芝加哥期貨交易所（CBOT）美國 5 年期國債期貨淨空頭頭寸 19241 手，淨空頭規模達 1320510 手。\n削減美國10 年期國債期貨淨空頭頭寸 26375 手，淨空頭持倉降至 808891 手。\n減持美國 2 年期國債期貨淨空頭頭寸 31265 手，淨空頭持倉降至 1287581 手。 \n 減持超長期美債期貨淨空頭頭寸 31431 手，淨空頭持倉降至 286669 手。"
+    },
     {
       "id": "4972980",
       "time": "2026-07-07 03:23:41",
