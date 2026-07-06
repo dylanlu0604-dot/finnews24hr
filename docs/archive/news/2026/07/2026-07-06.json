@@ -1,7 +1,96 @@
 {
   "date": "2026-07-06",
-  "count": 533,
+  "count": 542,
   "items": [
+    {
+      "id": "mkt:019f3536-e2ba-7aab-8ca8-c74afc6235e5",
+      "time": "2026-07-06 10:16:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Won enters 24-hour trading era; finance minister says move reflects economic fundamentals and foreign investor demand】South Korea has launched a 24-hour KRW trading system, Finance Minister Koo Yun-cheol said Monday after visiting Hana Bank’s trading floor in central Seoul. Koo said the launch reflects confidence in Korea’s economic fundamentals, citing strong external resilience and a record current account surplus, and is a market-access reform responding to rising foreign investor demand — evidenced by Korea’s inclusion in the World Government Bond Index. He added that round-the-clock trading will allow domestic and foreign investors and trading firms to transact FX without time constraints and will be a starting point for the won’s next leap."
+    },
+    {
+      "id": "mkt:019f3536-1f2a-7aab-8ca8-b80275bc551f",
+      "time": "2026-07-06 10:16:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01888.HK",
+        "Impact bearish",
+        "00148.HK"
+      ],
+      "text": "Hong Kong PCB-related shares slid; Kingboard Laminates (01888.HK) fell over 10%, Kingboard Group (00148.HK) fell more than 5%."
+    },
+    {
+      "id": "4971421",
+      "time": "2026-07-06 10:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於當地時間週二下午 3 點 15 分在土耳其會見埃爾多安。"
+    },
+    {
+      "id": "4971420",
+      "time": "2026-07-06 10:15:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科大訊飛成立智慧科技新公司，含機器人業務】企查查APP顯示，近日，安徽爻方智慧科技有限公司成立，註冊資本3億元，經營範圍包含：人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；智慧機器人的研發；服務消費機器人制造；智慧機器人銷售等。企查查股權穿透顯示，該公司由科大訊飛全資持股。"
+    },
+    {
+      "id": "4971419",
+      "time": "2026-07-06 10:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南 VN 指數開盤微幅震盪，報 1862.08 點。"
+    },
+    {
+      "id": "te:markets:564286",
+      "time": "2026-07-06 10:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Drops by 0.40% — Top currency losers are New Zealand Dollar (-0.40%), South Korean Won (-0.30%), Japanese Yen (-0.29%) and Chinese Yuan (-0.07%)."
+    },
+    {
+      "id": "4971418",
+      "time": "2026-07-06 10:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新港股跌超5%】兆易創新港股跌5.89%，報863.50港元。"
+    },
+    {
+      "id": "mkt:019f3534-4ae9-7aab-8ca8-b03b6813424d",
+      "time": "2026-07-06 10:14:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:019f3534-2346-7aab-8ca8-ae7bcf7fa6fb",
+      "time": "2026-07-06 10:13:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01177.HK",
+        "Impact bullish",
+        "09995.HK",
+        "01530.HK"
+      ],
+      "text": "Hong Kong stocks opened higher and extended gains; Hang Seng up 1.00%, Hang Seng Tech up 1.43%. Innovative-drug names led the rally: China Biopharma (01177.HK) up >10%, Rongchang Biotech (09995.HK) up >7%, 3SBio (01530.HK) up >6%."
+    },
     {
       "id": "4971417",
       "time": "2026-07-06 10:12:52",
