@@ -1,7 +1,99 @@
 {
   "date": "2026-07-06",
-  "count": 366,
+  "count": 376,
   "items": [
+    {
+      "id": "4971313",
+      "time": "2026-07-06 09:26:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都響起多次爆炸聲 俄稱打擊烏無人機】當地時間6日凌晨，烏克蘭首都基輔響起多次爆炸聲。基輔市軍事管理局局長特卡琴科在社交媒體發文稱，俄軍正在向基輔發射彈道導彈。當地官員在社交媒體發文稱，有一棟居民樓被導彈擊中，導致人員被困。另據俄羅斯國防部5日通報，俄軍防空系統當天在莫斯科等多地及克里米亞地區上空，攔截並摧毀116架烏克蘭固定翼無人機。（央視新聞）"
+    },
+    {
+      "id": "4971312",
+      "time": "2026-07-06 09:26:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【江波龍高開超10%】江波龍高開超10%，公司預計上半年淨利潤92億元-110億元，同比增長62204%-74394%。"
+    },
+    {
+      "id": "4971311",
+      "time": "2026-07-06 09:25:26",
+      "tags": [],
+      "text": "三大股指高開，滬指漲0.38％，深成指漲0.52％，創業板漲0.77％。"
+    },
+    {
+      "id": "mkt:019f3507-b0fa-7aab-8ca7-48a0adeb6ca5",
+      "time": "2026-07-06 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite Index rose 0.38%, the Shenzhen Composite Index rose 0.52% and the ChiNext Index rose 0.77%; memory chip stocks led gains."
+    },
+    {
+      "id": "4971310",
+      "time": "2026-07-06 09:25:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：在基本面穩健、美聯儲加息預期降溫之際銅價上漲】Changjiang Futures分析師表示，在弱於預期的美國6月非農就業人數強化了美聯儲將推遲收緊政策的預期之後，亞洲早盤銅價走高。美元走軟提高了銅等以美元計價的大宗商品的吸引力。他們表示，基本面依然構成支撐，在庫存持續下降的背景下，這表明供應持續緊張。他們補充道，在中國，銅杆的下游需求保持穩定，儘管終端使用者消費尚未出現更強勁的改善。銅價料將繼續受到宏觀情緒改善和庫存下降的提振。倫敦金屬交易所(LME)三個月期銅合約上漲0.6%，報每噸13,446.50美元。"
+    },
+    {
+      "id": "mkt:019f3505-b433-7aab-8ca7-41f2b2aea743",
+      "time": "2026-07-06 09:23:13",
+      "tags": [
+        "MKT News",
+        "06082.HK",
+        "Impact bearish"
+      ],
+      "text": "Biren Technology (06082.HK) opened about 3.5% lower after the company proposed a placing of 153 million new H shares."
+    },
+    {
+      "id": "4971308",
+      "time": "2026-07-06 09:22:56",
+      "tags": [
+        "央行"
+      ],
+      "text": "【中國央行逆回購操作當日實現淨回籠495億元】中國央行今日開展70億元7天期逆回購以及10000億元買斷式逆回購操作，因今日有1575億元7天期逆回購和8000億元買斷式逆回購到期，當日實現淨回籠億元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607063794410331",
+      "time": "2026-07-06 09:22:36",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展70億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f3504-a64d-7aab-8ca7-3ac3c2d70fbf",
+      "time": "2026-07-06 09:22:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened up 54.58 points, +0.23%, at 23,404.61; Hang Seng Tech Index opened up 24.93 points, +0.55%, at 4,523.93; Hang Seng China Enterprises Index (HSCEI) opened up 15.98 points, +0.21%, at 7,715.74; Red Chip Index opened down 1.28 points, -0.03%, at 3,806.14."
+    },
+    {
+      "id": "4971307",
+      "time": "2026-07-06 09:21:36",
+      "tags": [],
+      "text": "港股恒指高開漲0.23％，國企指數漲0.21％，科指開漲0.55%。"
+    },
     {
       "id": "mkt:019f3504-3239-7aab-8ca7-35e7e62043e4",
       "time": "2026-07-06 09:21:35",

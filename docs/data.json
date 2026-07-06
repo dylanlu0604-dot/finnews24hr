@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-06 09:22:05",
-  "count": 13061,
+  "updated": "2026-07-06 09:27:02",
+  "count": 13057,
   "items": [
+    {
+      "id": "4971313",
+      "time": "2026-07-06 09:26:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都響起多次爆炸聲 俄稱打擊烏無人機】當地時間6日凌晨，烏克蘭首都基輔響起多次爆炸聲。基輔市軍事管理局局長特卡琴科在社交媒體發文稱，俄軍正在向基輔發射彈道導彈。當地官員在社交媒體發文稱，有一棟居民樓被導彈擊中，導致人員被困。另據俄羅斯國防部5日通報，俄軍防空系統當天在莫斯科等多地及克里米亞地區上空，攔截並摧毀116架烏克蘭固定翼無人機。（央視新聞）"
+    },
+    {
+      "id": "4971312",
+      "time": "2026-07-06 09:26:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【江波龍高開超10%】江波龍高開超10%，公司預計上半年淨利潤92億元-110億元，同比增長62204%-74394%。"
+    },
+    {
+      "id": "4971311",
+      "time": "2026-07-06 09:25:26",
+      "tags": [],
+      "text": "三大股指高開，滬指漲0.38％，深成指漲0.52％，創業板漲0.77％。"
+    },
+    {
+      "id": "mkt:019f3507-b0fa-7aab-8ca7-48a0adeb6ca5",
+      "time": "2026-07-06 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite Index rose 0.38%, the Shenzhen Composite Index rose 0.52% and the ChiNext Index rose 0.77%; memory chip stocks led gains."
+    },
+    {
+      "id": "4971310",
+      "time": "2026-07-06 09:25:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：在基本面穩健、美聯儲加息預期降溫之際銅價上漲】Changjiang Futures分析師表示，在弱於預期的美國6月非農就業人數強化了美聯儲將推遲收緊政策的預期之後，亞洲早盤銅價走高。美元走軟提高了銅等以美元計價的大宗商品的吸引力。他們表示，基本面依然構成支撐，在庫存持續下降的背景下，這表明供應持續緊張。他們補充道，在中國，銅杆的下游需求保持穩定，儘管終端使用者消費尚未出現更強勁的改善。銅價料將繼續受到宏觀情緒改善和庫存下降的提振。倫敦金屬交易所(LME)三個月期銅合約上漲0.6%，報每噸13,446.50美元。"
+    },
+    {
+      "id": "mkt:019f3505-b433-7aab-8ca7-41f2b2aea743",
+      "time": "2026-07-06 09:23:13",
+      "tags": [
+        "MKT News",
+        "06082.HK",
+        "Impact bearish"
+      ],
+      "text": "Biren Technology (06082.HK) opened about 3.5% lower after the company proposed a placing of 153 million new H shares."
+    },
+    {
+      "id": "4971308",
+      "time": "2026-07-06 09:22:56",
+      "tags": [
+        "央行"
+      ],
+      "text": "【中國央行逆回購操作當日實現淨回籠495億元】中國央行今日開展70億元7天期逆回購以及10000億元買斷式逆回購操作，因今日有1575億元7天期逆回購和8000億元買斷式逆回購到期，當日實現淨回籠億元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607063794410331",
+      "time": "2026-07-06 09:22:36",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展70億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f3504-a64d-7aab-8ca7-3ac3c2d70fbf",
+      "time": "2026-07-06 09:22:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened up 54.58 points, +0.23%, at 23,404.61; Hang Seng Tech Index opened up 24.93 points, +0.55%, at 4,523.93; Hang Seng China Enterprises Index (HSCEI) opened up 15.98 points, +0.21%, at 7,715.74; Red Chip Index opened down 1.28 points, -0.03%, at 3,806.14."
+    },
+    {
+      "id": "4971307",
+      "time": "2026-07-06 09:21:36",
+      "tags": [],
+      "text": "港股恒指高開漲0.23％，國企指數漲0.21％，科指開漲0.55%。"
+    },
     {
       "id": "mkt:019f3504-3239-7aab-8ca7-35e7e62043e4",
       "time": "2026-07-06 09:21:35",
@@ -120271,135 +120363,6 @@
         "國際"
       ],
       "text": "特朗普將於美國東部時間週一下午3點簽署多項行政令。"
-    },
-    {
-      "id": "4959414",
-      "time": "2026-06-29 09:26:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：港股通網際網路ETF領漲2.47%，通訊ETF領跌2.44%】ETF開盤漲跌不一，港股通網際網路ETF（159280）領漲2.47%，中證A50ETF（560820）漲2.44%，之江鳳凰ETF（512190）漲2.43%，通訊ETF（159511）領跌2.44%，杭州灣區ETF（512870）跌2.11%，大灣區ETF（512970）跌2.06%。"
-    },
-    {
-      "id": "4959413",
-      "time": "2026-06-29 09:25:49",
-      "tags": [],
-      "text": "滬指跌0.01％，深成指平開，創業板漲0.15％。"
-    },
-    {
-      "id": "mkt:019f10fb-3010-7aab-8c05-8d491b39c71b",
-      "time": "2026-06-29 09:25:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "A-share open: Shanghai Composite down 0.01%, Shenzhen Composite Index flat, ChiNext Index up 0.15%."
-    },
-    {
-      "id": "4959412",
-      "time": "2026-06-29 09:24:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永太科技：氟化液產品尚未形成大規模批次訂單 營收佔比較小】永太科技(002326)6月29日在互動平臺表示，氟化液產品正處於市場推廣與客戶驗證階段，目前尚未形成大規模批次訂單，在營業收入中佔比仍較小。公司將順應行業發展趨勢與下游應用需求，持續推進產品迭代升級，積極開展產品的市場推廣，努力拓展該業務，打造新的增長曲線。"
-    },
-    {
-      "id": "4959411",
-      "time": "2026-06-29 09:24:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股新股海光芯正開盤漲75.35%，報199.9港元，上一交易日暗盤收漲86.84%。"
-    },
-    {
-      "id": "mkt:019f10f9-f823-7aab-8c05-809539faac75",
-      "time": "2026-06-29 09:24:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01191.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong IPO Haiguang Xinzhen (01191.HK) opened 75.35% higher at HKD199.90; its grey-market session on the prior trading day closed up 86.84%."
-    },
-    {
-      "id": "4959410",
-      "time": "2026-06-29 09:24:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海：以能繁母豬存欄量為核心調控指標，調整正常保有量為8萬頭，規模豬場保有量為90個】上海市釋出《生豬產能綜合調控實施方案（2026年修訂）》，以能繁母豬存欄量為核心調控指標，調整正常保有量為8萬頭，規模豬場保有量為90個。根據月度存欄量變動，劃分綠色、黃色和紅色區域，分類採取調控措施。在綠色區域以市場調節為主，黃色區域以預警和引導為主，紅色區域強化調控措施。同時，各區、光明食品集團（域外農場）需確保生豬生產能力相對穩定，市農業農村委將及時釋出生產監測資訊，引導養殖場科學安排生產節奏。（農業農村部）"
-    },
-    {
-      "id": "4959409",
-      "time": "2026-06-29 09:23:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【去哪兒旅行啟動四川宜賓地震應急保障】據中國地震臺網正式測定，2026年6月29日00時12分，宜賓市高縣沙河鎮附近（北緯28.50度，東經104.69度）發生5.5級地震，震源深度6千米。線上旅遊平臺去哪兒旅行迅速啟動應急保障：預訂時間在6月29日08:00前，入住日期為6月29日至7月3日的四川宜賓市、瀘州市的酒店訂單，去哪兒已開啟兜底保障措施，使用者可免費取消。同時，去哪兒將密切關注當地交通的政策，按照要求為廣大使用者辦理退改服務。"
-    },
-    {
-      "id": "4959408",
-      "time": "2026-06-29 09:23:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "新股禮邦醫藥(09637.HK)上市首日開漲85.84%，報42港元，上一交易日暗盤收漲88.05%。"
-    },
-    {
-      "id": "mkt:019f10f9-2186-7aab-8c05-7fda1fe78bbb",
-      "time": "2026-06-29 09:23:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09637.HK",
-        "Impact bullish"
-      ],
-      "text": "New listing Libang Medical (09637.HK) opened up 85.84% at HK$42 on its first trading day; in the prior session's grey-market trade it rose 88.05%."
-    },
-    {
-      "id": "4959407",
-      "time": "2026-06-29 09:22:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【圖靈獎得主Joseph Sifakis出任曹操出行首席科學顧問】6月29日，全球頂級AI科學家、圖靈獎得主約瑟夫·希發基思（Joseph Sifakis）正式受邀出任曹操出行AI創新中心首席科學顧問，為曹操出行向AI原生公司轉型提供核心學術支撐、國際化視野及戰略路徑規劃。"
-    },
-    {
-      "id": "mkt:019f10f8-7bcc-7aab-8c05-73311afcc35b",
-      "time": "2026-06-29 09:22:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng TECH Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong stocks opened higher on Monday June 29: HSI up 155.79 points (+0.69%) at 22,827.65; Hang Seng TECH Index up 67.97 points (+1.60%) at 4,323.56; Hang Seng China Enterprises Index (HSCEI) up 76.96 points (+1.03%) at 7,537.80; Hang Seng Redchip Index up 18.37 points (+0.49%) at 3,767.46."
-    },
-    {
-      "id": "4959406",
-      "time": "2026-06-29 09:22:21",
-      "tags": [],
-      "text": "港股恒指高開漲0.69％，國企指數漲1.03％，科指開漲1.6%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606293785700375",
-      "time": "2026-06-29 09:22:09",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展1575億元7天逆回購操作】央行今日開展1575億元7天逆回購操作，操作利率為1.40%。同時，開展了3000億元隔夜逆回購操作。"
     }
   ]
 }
