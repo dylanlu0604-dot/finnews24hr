@@ -1,7 +1,15 @@
 {
   "date": "2026-07-07",
-  "count": 307,
+  "count": 308,
   "items": [
+    {
+      "id": "mkt:019f3960-c532-7aab-8cbc-c6bdddfc37f6",
+      "time": "2026-07-07 05:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian deputy foreign minister: Russia will maintain contact with US on Ukraine】Russian Deputy Foreign Minister Ryabkov said on the 6th Moscow will continue contact with Washington on Ukraine despite what he called increasing US departures from agreements reached between the two sides. Earlier, US President Trump said a settlement could come \"much faster than people think.\" Ryabkov added that if the US is prepared to act on proposals put forward by Moscow, the conflict could indeed be resolved quickly."
+    },
     {
       "id": "4973034",
       "time": "2026-07-07 05:35:15",
