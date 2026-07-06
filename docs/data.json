@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-07 07:00:00",
-  "count": 13975,
+  "updated": "2026-07-07 07:06:17",
+  "count": 13977,
   "items": [
+    {
+      "id": "mkt:019f39ab-9f24-7aab-8cbc-fae14b8e343e",
+      "time": "2026-07-07 07:02:56",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish",
+        "BAC.N",
+        "FISV.O"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, says several large US banks are exploring a payment network transaction that would allow acquirers to bypass debit card interchange fee caps. JP Morgan, BofA and other major banks have held preliminary talks with Fiserv about the deal."
+    },
+    {
+      "id": "4973060",
+      "time": "2026-07-07 07:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "多家大型銀行已就收購富達國民資訊服務（FISERV）的一個支付網路展開初步磋商，該網路可幫助銀行繞過聯邦簽帳金融卡費率上限規定。"
+    },
+    {
+      "id": "4973059",
+      "time": "2026-07-07 07:01:45",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息： 摩根大通、美國銀行及多家銀行正籌劃一項交易，有望重塑全球支付行業格局。"
+    },
     {
       "id": "4973058",
       "time": "2026-07-07 06:57:57",
@@ -128495,15 +128524,6 @@
         "歐洲央行"
       ],
       "text": "【歐洲央行行長稱6月加息並非“預防性加息”】據報道，歐洲央行行長拉加德週一表示，該央行本月上調關鍵利率的決定是基於其預測，而不是為了管理通脹失控風險而採取的預防性行動。拉加德說：“這是一個基於我們眼前所見情況做出的決定。在充滿巨大不確定性的環境中，我們之所以能自信地做出這一決定，得益於多年來我們在資料、指標和預測方面的投入。”"
-    },
-    {
-      "id": "em:jjsj_ygsj:202606303787120085",
-      "time": "2026-06-30 07:02:55",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國6月BRC商店物價指數同比上升1.2%，預期1.3%，前值1.20%。"
     }
   ]
 }

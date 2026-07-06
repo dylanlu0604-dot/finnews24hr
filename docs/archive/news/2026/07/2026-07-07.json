@@ -1,7 +1,36 @@
 {
   "date": "2026-07-07",
-  "count": 344,
+  "count": 347,
   "items": [
+    {
+      "id": "mkt:019f39ab-9f24-7aab-8cbc-fae14b8e343e",
+      "time": "2026-07-07 07:02:56",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "Impact bullish",
+        "BAC.N",
+        "FISV.O"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, says several large US banks are exploring a payment network transaction that would allow acquirers to bypass debit card interchange fee caps. JP Morgan, BofA and other major banks have held preliminary talks with Fiserv about the deal."
+    },
+    {
+      "id": "4973060",
+      "time": "2026-07-07 07:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "多家大型銀行已就收購富達國民資訊服務（FISERV）的一個支付網路展開初步磋商，該網路可幫助銀行繞過聯邦簽帳金融卡費率上限規定。"
+    },
+    {
+      "id": "4973059",
+      "time": "2026-07-07 07:01:45",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息： 摩根大通、美國銀行及多家銀行正籌劃一項交易，有望重塑全球支付行業格局。"
+    },
     {
       "id": "4973058",
       "time": "2026-07-07 06:57:57",
