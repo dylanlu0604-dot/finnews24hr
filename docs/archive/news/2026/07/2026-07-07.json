@@ -1,7 +1,24 @@
 {
   "date": "2026-07-07",
-  "count": 176,
+  "count": 178,
   "items": [
+    {
+      "id": "mkt:019f38ba-6da1-7aab-8cbb-081d71d7a87d",
+      "time": "2026-07-07 02:39:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Macron visits Syria with TotalEnergies and CMA CGM chiefs】French President Macron arrived in Syria on July 7, becoming the first EU head of state to visit since the fall of the Assad regime in 2024. Reconstruction cooperation is the visit’s core focus; TotalEnergies and CMA CGM’s chief executive joined the delegation. Macron is expected to meet President Assad, reiterate French support for a free, pluralistic Syria, and press Syria not to deploy forces to Lebanon. The agenda also covers counterterrorism cooperation and upgrading Franco-Syrian diplomatic ties."
+    },
+    {
+      "id": "4972964",
+      "time": "2026-07-07 02:39:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國微軟公司宣佈裁員4800人】美國微軟公司6日宣佈裁員4800人，約佔其全球員工總數的2.1%，其中涉及1600名Xbox遊戲機部門的員工。微軟表示，此舉旨在削減成本，是公司大規模重組計劃的一部分，預計今年還將有更多裁員。該計劃重點針對經營不佳的Xbox遊戲機部門。Xbox執行長阿莎·夏爾馬錶示，該部門目前利潤率比同行存在明顯差距。Xbox所處的行業正面臨嚴峻的“硬體危機”，原因是遊戲機零部件的成本急劇飆升。（央視新聞）"
+    },
     {
       "id": "mkt:019f38b7-f20e-7aab-8cbb-07c2ddaf78ca",
       "time": "2026-07-07 02:36:46",
