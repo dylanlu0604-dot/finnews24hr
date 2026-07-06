@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-06 10:02:01",
-  "count": 13080,
+  "updated": "2026-07-06 10:05:56",
+  "count": 13043,
   "items": [
+    {
+      "id": "4971399",
+      "time": "2026-07-06 10:04:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "騰訊港股股價上漲超2%。"
+    },
+    {
+      "id": "mkt:019f352a-e1c1-7aab-8ca8-7a61821e893d",
+      "time": "2026-07-06 10:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Data Administration holds Beijing on-site meeting on medical data circulation in data-element pilot zones】July 2-3 — The National Data Administration convened an on-site meeting in Beijing on medical data circulation within the national data-element comprehensive pilot zones to review pilot experience and push secure, compliant, and efficient use of medical data. The meeting said stronger top-level design and institutional innovation are needed. Local practice shows jurisdictions that strengthen organizational support and cross-department coordination achieve better medical data flow outcomes. Authorities were told to tighten coordination between data management and health departments, refine incentive mechanisms, and mobilize hospitals, doctors and market operators to create a positive cycle of medical data circulation and accelerate integration of Digital China and Healthy China initiatives."
+    },
+    {
+      "id": "4971398",
+      "time": "2026-07-06 10:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代在南昌成立新能源公司】企查查APP顯示，近日，南昌潤開新能源有限公司成立，經營範圍包含：物聯網技術研發，物聯網技術服務，物聯網應用服務，資訊系統整合服務等。企查查股權穿透顯示，該公司由寧德時代間接全資持股。"
+    },
+    {
+      "id": "4971397",
+      "time": "2026-07-06 10:02:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【菜鳥持續聚焦國際物流與科技，國內供應鏈與電商融合】據媒體訊息，近日菜鳥內部召開管理層會議，會上宣佈內部架構調整，菜鳥國內供應鏈業務板塊上浮至淘天集團，併入阿里中國電商事業群，並在7月1日完成該調整。（新浪科技）"
+    },
+    {
+      "id": "4971396",
+      "time": "2026-07-06 10:01:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲3.0個基點，至3.780%。"
+    },
     {
       "id": "mkt:019f3528-9ea8-7aab-8ca8-7203300a9b17",
       "time": "2026-07-06 10:01:22",
@@ -120162,396 +120203,6 @@
         "CSI300"
       ],
       "text": "Mainland China A-share's three major indices slipped into negative territory; the ChiNext index earlier gained as much as 1.6%."
-    },
-    {
-      "id": "4959513",
-      "time": "2026-06-29 10:05:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超3%，現報4383.980點；恒生指數現漲1.162%。"
-    },
-    {
-      "id": "mkt:019f111f-e385-7aab-8c06-d99895cbfa33",
-      "time": "2026-06-29 10:05:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share biopharmaceuticals sector spiked intraday; Nuoweizan jumped over 10%, with Nuosiland, Saisheng Pharma, Sanyuan Gene, Haofan Biotech and Sansheng Guojian also rallying."
-    },
-    {
-      "id": "mkt:019f111f-1ba8-7aab-8c06-d379424388d8",
-      "time": "2026-06-29 10:04:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: RBNZ's best option is to leave rates unchanged】Kiwibank chief economist Jarrod Kerr said that despite a renewed weekend flare-up in the Middle East, markets largely expect a peace deal and oil has retraced to pre-conflict levels, supporting a potential demand rebound. He added New Zealand’s economy has been hit but not derailed—the oil shock has slowed the recovery and dented demand but has not knocked activity off track—so the RBNZ has ample reason to leave policy unchanged at its July meeting."
-    },
-    {
-      "id": "mkt:019f111f-1762-7aab-8c06-cb0cad876a75",
-      "time": "2026-06-29 10:04:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China commissions highest-latitude 100 MW concentrated solar power plant】June 29 — China commissioned its highest-latitude concentrated solar power (CSP) plant: China General Nuclear’s Jixi base 100 MW CSP in Daan, Jilin province, the country’s first CSP in Northeast China. The project represents a technical breakthrough for solar thermal power deployment in high-latitude, severe-cold regions."
-    },
-    {
-      "id": "4959512",
-      "time": "2026-06-29 10:04:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國緯度最高光熱電站投產發電】6月29日，我國東北首座光熱電站——中廣核吉西基地10萬千瓦光熱電站在吉林省大安市投產發電，我國在高緯度嚴寒地區光熱發電技術應用上取得新突破。（央視新聞）"
-    },
-    {
-      "id": "4959511",
-      "time": "2026-06-29 10:04:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股醫療服務板塊異動拉昇】萬邦醫藥、ST中珠觸及漲停，百奧賽圖、睿智醫藥、康龍化成、美迪西、凱萊英跟漲。"
-    },
-    {
-      "id": "4959510",
-      "time": "2026-06-29 10:04:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股抗癌治癌板塊異動拉昇】睿智醫藥漲14.00%，三生國健、舒泰神、榮昌生物、貝達藥業、諾誠健華、艾迪藥業跟漲。"
-    },
-    {
-      "id": "4959509",
-      "time": "2026-06-29 10:04:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股微盤股板塊異動拉昇】萬邦醫藥、貝肯能源觸及漲停，辰光醫療、常輔股份、中達安、金迪克、羅平鋅電跟漲。"
-    },
-    {
-      "id": "4959508",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股醫療器械板塊異動拉昇】濟民健康觸及漲停，可孚醫療、辰光醫療、佰仁醫療、康眾醫療、拱東醫療、邁普醫學跟漲。"
-    },
-    {
-      "id": "4959507",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股醫療研發外包板塊異動拉昇】萬邦醫藥觸及漲停，百奧賽圖、睿智醫藥、康龍化成、美迪西、凱萊英、藥石科技跟漲。"
-    },
-    {
-      "id": "4959506",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股細胞治療板塊異動拉昇】濟民健康觸及漲停，百奧賽圖、恆瑞醫藥、奧浦邁、昭衍新藥、雙鷺藥業、海南海藥跟漲。"
-    },
-    {
-      "id": "4959505",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股AI應用（醫藥醫療）板塊異動拉昇】百奧賽圖漲15.77%，睿智醫藥、舒泰神、恆瑞醫藥、美迪西、藥石科技、成都先導跟漲。"
-    },
-    {
-      "id": "4959504",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股生物製品板塊異動拉昇】三生國健漲10.95%，諾唯贊、榮昌生物、賽升藥業、艾迪藥業、奧浦邁、金迪克跟漲。"
-    },
-    {
-      "id": "4959503",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股其他生物製品板塊異動拉昇】三生國健漲10.95%，諾唯贊、榮昌生物、賽升藥業、艾迪藥業、奧浦邁、智翔金泰跟漲。"
-    },
-    {
-      "id": "4959502",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股歷史新高板塊短線走低】宏和科技跌9.93%，華興源創、廣合科技、三孚新科、江海股份、東芯股份、巨化股份跟跌。"
-    },
-    {
-      "id": "4959501",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股多肽藥板塊異動拉昇】睿智醫藥漲14.00%，聖諾生物、賽升藥業、康鵬科技、眾生藥業、雙鷺藥業、前沿生物跟漲。"
-    },
-    {
-      "id": "4959500",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股眼科概念板塊異動拉昇】凱美特氣、ST中珠觸及漲停，舒泰神、榮昌生物、佰仁醫療、貝達藥業、粵萬年青跟漲。"
-    },
-    {
-      "id": "4959499",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股化學制藥板塊異動拉昇】廣生堂漲15.95%，聖諾生物、海思科、舒泰神、貝達藥業、諾誠健華、百利天恆跟漲。"
-    },
-    {
-      "id": "4959498",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股半導體板塊短線走低】惠科股份跌12.45%，邁為股份、華興源創、僑源股份、永太科技、晶晨股份、依頓電子跟跌。"
-    },
-    {
-      "id": "4959497",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股化學制劑板塊異動拉昇】廣生堂漲15.95%，聖諾生物、海思科、舒泰神、貝達藥業、諾誠健華、百利天恆跟漲。"
-    },
-    {
-      "id": "4959496",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股輔助生殖板塊異動拉昇】廣生堂漲15.95%，聖諾生物、舒泰神、賽升藥業、昌紅科技、恆瑞醫藥、眾生藥業跟漲。"
-    },
-    {
-      "id": "4959495",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股電子化學品Ⅲ板塊短線走低】唯特偶跌12.87%，三孚新科、萬潤股份、國瓷材料、西隴科學、格林達、興福電子跟跌。"
-    },
-    {
-      "id": "4959494",
-      "time": "2026-06-29 10:04:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股醫藥生物板塊異動拉昇】萬邦醫藥、濟民健康、太龍藥業、特一藥業觸及漲停，廣生堂、百奧賽圖、睿智醫藥跟漲。"
-    },
-    {
-      "id": "4959493",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股年度強勢板塊短線走低】山東玻纖觸及跌停，邁為股份、華興源創、廣合科技、方邦股份、三孚新科、江海股份跟跌。"
-    },
-    {
-      "id": "4959492",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股電子化學品Ⅱ板塊短線走低】唯特偶跌12.87%，三孚新科、萬潤股份、國瓷材料、西隴科學、格林達、興福電子跟跌。"
-    },
-    {
-      "id": "4959491",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股腫瘤治療板塊異動拉昇】ST中珠觸及漲停，廣生堂、睿智醫藥、三生國健、榮昌生物、貝達藥業、諾誠健華跟漲。"
-    },
-    {
-      "id": "4959490",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股抗癌藥物板塊異動拉昇】ST中珠觸及漲停，廣生堂、三生國健、榮昌生物、貝達藥業、諾誠健華、艾迪藥業跟漲。"
-    },
-    {
-      "id": "4959489",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股阿爾茨海默板塊異動拉昇】睿智醫藥漲14.00%，三生國健、諾唯贊、百普賽斯、雙鷺藥業、新華製藥、普洛藥業跟漲。"
-    },
-    {
-      "id": "4959488",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股積體電路板塊短線走低】山東玻纖觸及跌停，華興源創、張江高科、燦瑞科技、晶晨股份、盛合晶微、華嶺股份跟跌。"
-    },
-    {
-      "id": "4959487",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股單抗概念板塊異動拉昇】廣生堂漲15.95%，三生國健、舒泰神、貝達藥業、科倫藥業、恆瑞醫藥、奧賽康跟漲。"
-    },
-    {
-      "id": "4959486",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股MLED板塊短線走低】惠科股份跌12.45%，慧谷新材、萬潤科技、聚飛光電、精測電子、德龍鐳射、北方華創跟跌。"
-    },
-    {
-      "id": "4959485",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股抗原檢測板塊異動拉昇】濟民健康觸及漲停，可孚醫療、諾唯贊、賽升藥業、萬泰生物、百普賽斯、九安醫療跟漲。"
-    },
-    {
-      "id": "4959484",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股細胞免疫治療板塊異動拉昇】濟民健康、ST中珠觸及漲停，睿智醫藥、舒泰神、榮昌生物、貝達藥業、賽升藥業跟漲。"
-    },
-    {
-      "id": "4959483",
-      "time": "2026-06-29 10:04:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股龍虎榜熱門板塊短線走低】山東玻纖、ST東尼觸及跌停，廣合科技、聚辰股份、精測電子、風華高科、正帆科技跟跌。"
-    },
-    {
-      "id": "te:markets:562372",
-      "time": "2026-06-29 10:03:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Open the Week Mixed — The Shanghai Composite edged up 0.2% to 4,036 on Monday, while the Shenzhen Component dropped 0.3% to 15,729, following sharp losses in the previous week, as renewed US-Iran tensions threatened a recently brokered interim peace agreement and dampened risk appetite. Over the weekend, Iran carried out drone and missile strikes against Bahrain and Kuwait in response to fresh US attacks on targets in southern Iran. Uncertainty persisted despite both countries agreeing to cease hostilities and resume talks on security in the Strait of Hormuz. On the domestic front, investors remained focused on China's upcoming PMI data later this week for further clues about the world's second-largest economy. Financial stocks weighed on the market, particularly Industrial and Commercial Bank of China (-0.8%) and Agricultural Bank of China (-2.3%). In contrast, a few technology shares outperformed, including NAURA Technology (4.8%), Huagong Tech (10%), and Chaozhou Three-Circle (12.3%)."
-    },
-    {
-      "id": "4959482",
-      "time": "2026-06-29 10:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "吉利汽車升2.6%，旗下蓮花品牌電動汽車將進入加拿大市場。"
-    },
-    {
-      "id": "4959481",
-      "time": "2026-06-29 10:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【破解程式碼遷移難題國產“異算方舟”全棧計算平臺正式釋出】據央視新聞，今天（29日），由中國科學院計算機網路資訊中心等單位聯合研發的“異算方舟”國產計算系統軟體生態全棧平臺上線。該平臺聚焦國產算力下軟體適配難、程式碼遷移難、科研操作煩瑣等痛點，為科學計算軟體生態建設提供一體化解決方案。據瞭解，目前我國國產算力硬體已實現快速突破，但軟體生態仍存在短板。例如，一些程式碼難以適配國產裝置、底層演算法執行效率低、工程模擬操作複雜等，大量優質科研成果無法在國產算力裝置上落地應用，制約了科研與工程研發效率。針對這些問題，我國科研團隊打造的“異算方舟”國產計算系統軟體生態全棧平臺構建了三層核心能力，形成完整的國產算力應用閉環。"
-    },
-    {
-      "id": "4959480",
-      "time": "2026-06-29 10:03:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國第三艘萬車級汽車運輸船今天交付】由中船集團廣船國際建造的10800車汽車運輸船今天（29日）在廣州南沙完成交付。這是我國交付的第三艘萬車級汽車運輸船，標誌著我國在該領域已具備批次化、系列化建造能力。"
-    },
-    {
-      "id": "mkt:019f111d-b89f-7aab-8c06-c7536ce14afc",
-      "time": "2026-06-29 10:03:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China launches domestic 'Yisuan Ark' full-stack computing platform to tackle code migration】A domestic computing-system software full-stack platform named 'Yisuan Ark', jointly developed by the Chinese Academy of Sciences' Computer Network Information Center and other institutions, went live on June 29. The platform targets software adaptation and code-migration bottlenecks on domestic compute, simplifies scientific research operations, and offers an integrated solution for building a scientific-computing software ecosystem. Its developers say it links algorithms, code and applications across the full chain, aiming to move domestic compute from hardware-led capability toward mature hardware–software coordination and to support an autonomous, controllable, efficient and easy-to-use domestic scientific-computing ecosystem."
-    },
-    {
-      "id": "mkt:019f111d-4c0e-7aab-8c06-bf8ae2d32b59",
-      "time": "2026-06-29 10:02:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【MOFCOM: China’s move lawful, aimed at curbing Japan’s \"new militarism\"】MOFCOM spokesperson said on Feb. 24, 2026 China added 20 Japanese entities, including Mitsubishi Shipbuilding Co., Ltd., to its export-control list and placed another 20 Japanese entities, including Subaru Corporation, on a watchlist. MOFCOM said the measures target a limited number of entities and apply only to dual-use items, are lawful, do not affect normal China–Japan trade, and that law-abiding Japanese firms need not be concerned; Beijing said the steps are intended to deter Japanese re-militarization and nuclear ambitions."
-    },
-    {
-      "id": "mkt:019f111d-1562-7aab-8c06-b587cb414f4d",
-      "time": "2026-06-29 10:02:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Lanqi Technology's A-share turnover exceeded CNY10 billion; shares were trading up more than 10% and hit an intraday record high."
-    },
-    {
-      "id": "4959479",
-      "time": "2026-06-29 10:02:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指盤初上漲0.5%。"
     }
   ]
 }
