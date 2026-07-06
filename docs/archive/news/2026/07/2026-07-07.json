@@ -1,7 +1,15 @@
 {
   "date": "2026-07-07",
-  "count": 143,
+  "count": 144,
   "items": [
+    {
+      "id": "mkt:019f3894-378b-7aab-8cba-88f4db546c46",
+      "time": "2026-07-07 01:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Supreme Court declined to block a Texas law requiring age verification and parental consent before minors may download apps."
+    },
     {
       "id": "4972949",
       "time": "2026-07-07 01:54:33",
