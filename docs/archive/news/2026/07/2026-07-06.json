@@ -1,7 +1,112 @@
 {
   "date": "2026-07-06",
-  "count": 2071,
+  "count": 2084,
   "items": [
+    {
+      "id": "4972722",
+      "time": "2026-07-06 22:13:09",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月6日增減持彙總】據不完全統計，7月6日盤後，龍淨環保披露增持情況，佳力圖、藍海華騰、柏誠股份、超卓航科、六九一二、南興股份6家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "4972721",
+      "time": "2026-07-06 22:12:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%，創盤中新高。"
+    },
+    {
+      "id": "4972720",
+      "time": "2026-07-06 22:12:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：6月全球供應鏈壓力指數為1.25，5月為1.81。"
+    },
+    {
+      "id": "4972719",
+      "time": "2026-07-06 22:11:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傳網易雲音樂人運營團隊全員被裁 客服回應：內容失實，部分外包崗位系正常調整】有市場訊息稱，網易雲音樂原創音樂部音樂人平臺運營組整組40多人被裁，上週二last day。訊息稱，這個團隊早前不少崗位已經替換成外包人員，但在這次業務調整中，外包崗位也不再續約，整體全部清退。對此訊息，網易雲音樂客服回應稱，相關內容失實。相關團隊人員正常在崗，部分外包崗位系正常調整。（新浪科技）"
+    },
+    {
+      "id": "4972718",
+      "time": "2026-07-06 22:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AMD漲幅擴大至10%】AMD股價持續走高，漲幅擴大至10%，總市值達9280億美元。"
+    },
+    {
+      "id": "mkt:019f37c4-2d27-7aab-8cb7-0bacfca3b0ce",
+      "time": "2026-07-06 22:10:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US has not provided any funds to Iran."
+    },
+    {
+      "id": "mkt:019f37c4-1407-7aab-8cb7-0604a5cf16b5",
+      "time": "2026-07-06 22:10:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump on Iran: either reach a deal or finish the job; he prefers reaching a deal."
+    },
+    {
+      "id": "4972717",
+      "time": "2026-07-06 22:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們沒有給伊朗任何錢。"
+    },
+    {
+      "id": "4972716",
+      "time": "2026-07-06 22:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：寧願達成協議。"
+    },
+    {
+      "id": "4972715",
+      "time": "2026-07-06 22:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：要麼我們達成協議，要麼我們完成任務。"
+    },
+    {
+      "id": "4972714",
+      "time": "2026-07-06 22:09:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：AI投資重心邁向實體產業 未來6年資本開支或達7.6萬億美元】高盛在最新報告中稱，人工智慧（AI）投資的重心已開始向更廣闊的實體經濟延伸，算力、電力和資料中心仍在高速建設之際，AI已同步進入製造、能源、物流、國防、生命科學和機器人等現實場景。2026年至2031年，全球圍繞計算、資料中心和電力的AI資本開支將達到約7.6萬億美元，年度投入將從2026年的7650億美元升至2031年的1.64萬億美元。超大規模雲廠商到2030年的AI投資或超過6萬億美元。未來競爭的關鍵不只是模型或晶片，而是資本結構、能源供給、產業資料、工程能力和部署能力。"
+    },
+    {
+      "id": "4972713",
+      "time": "2026-07-06 22:09:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海事資料顯示，穿越霍爾木茲海峽的船隻中約有三分之一使用了阿曼航線】海上追蹤機構 MarineTraffic 週一釋出的最新更新資料表明，從週五到週一，共有 108 艘船隻透過該海峽。在這些船隻中，有 30 艘（包括原油和液化石油氣（LPG）油輪）採用了阿曼航線。MarineTraffic 的資料顯示，霍爾木茲海峽的船隻流量在週五最高，通行次數達到43次。週六和週日則分別透過了34 次和 31 次。MarineTraffic 表示，分析人士將當前的航運活動描述為“處於運營狀態但呈現碎片化”，並補充稱，這一模式“應結合目前依然脆弱的安全與外交背景來進行解讀”。"
+    },
     {
       "id": "mkt:019f37c3-370a-7aab-8cb6-fb14ce9a33a4",
       "time": "2026-07-06 22:09:28",
@@ -9,6 +114,14 @@
         "MKT News"
       ],
       "text": "【US ISM Services PMI 54 in June; 24th month of expansion】US ISM services PMI edged down to 54 in June from 54.5 in May, marking the 24th consecutive month of expansion, the ISM services report showed. The business activity index fell to 55.4 from 57.7. The prices index declined to 67.7 from 71.3, slipping below 70 for the first time since February; it has stayed above 60 for 19 months and its 12-month average is 68. Diesel, gasoline and oil were again the most-cited input-price risers, though some respondents reported price declines—attributed to differing contract terms across firms—and a subset said gasoline and diesel purchase prices have fallen, not universally. The ISM committee said oil-price pass-through to supply chains is likely to persist for several months but could ease by autumn if recent improvements in Strait of Hormuz shipping hold."
+    },
+    {
+      "id": "4972712",
+      "time": "2026-07-06 22:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "7 月 6 日印度國內資金淨買入印度股票 379 億印度盧比。全球基金淨買入印度股票24.3億印度盧比。"
     },
     {
       "id": "4972711",
