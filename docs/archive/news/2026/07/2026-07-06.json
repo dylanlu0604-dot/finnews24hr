@@ -1,7 +1,35 @@
 {
   "date": "2026-07-06",
-  "count": 921,
+  "count": 924,
   "items": [
+    {
+      "id": "te:markets:564343",
+      "time": "2026-07-06 13:54:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX Hits Record High at Close — The NZX 50 climbed 145 points, or 1.1%, to close at 13,763 on Monday, extending gains from the previous session and hitting a record high, mainly buoyed by gains in the consumer staples, financials, technology, and healthcare sectors. The broader index tracked a rise in US futures as Wall Street looked to extend its rally after the Dow Jones posted a record-setting week. Easing oil prices also fueled sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed's meeting minutes due this week. However, traders remained cautious ahead of the RBNZ's monetary policy decision on Wednesday, with the market expecting the central bank to raise its policy rate by 25 bps to 2.5%. A2 Milk gained 2.8%, Ebos Group climbed 2.7%, Infratil rose 2.0%, and Fisher & Paykel increased 1.6%."
+    },
+    {
+      "id": "4971725",
+      "time": "2026-07-06 13:53:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米手機部人事調整：原深圳區域總經理葛維嚴調任手機相機部總經理】小米集團手機部近日迎來人事調整，原深圳區域總經理葛維嚴調任手機相機部總經理。據悉，葛維嚴後續將向小米手機部副總裁、硬體工程部總經理許春利彙報。資料顯示，葛維嚴曾在高通與蘋果任職，2014年加入小米，先後擔任手機測試部總經理、深圳區域總部總經理併兼任深圳手機研究院院長。（新浪科技）"
+    },
+    {
+      "id": "4971724",
+      "time": "2026-07-06 13:52:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD 考恩將FIRST CITIZENS BANCSHARES目標價由 2300 美元上調至 2430 美元。"
+    },
     {
       "id": "4971723",
       "time": "2026-07-06 13:50:11",
