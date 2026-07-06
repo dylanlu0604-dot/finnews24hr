@@ -1,7 +1,53 @@
 {
   "date": "2026-07-06",
-  "count": 977,
+  "count": 982,
   "items": [
+    {
+      "id": "mkt:019f3616-171d-7aab-8cac-da9d26bc5b85",
+      "time": "2026-07-06 14:20:45",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed down 23.30 points, or 0.26%, at 8,821.10 on July 6 (Monday)."
+    },
+    {
+      "id": "mkt:019f3615-4321-7aab-8cac-d1e776bcfb01",
+      "time": "2026-07-06 14:19:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "06181.HK",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【UBS cuts Laopu Gold PT to HK$650, keeps Buy】UBS cut Laopu Gold (06181.HK) PT to HK$650 from HK$930 and reiterated a Buy rating. The bank says boutique upgrades, VIC services and more frequent new-product launches enhance the company’s brand, channel and product positioning, helping cushion a gold-price pullback. UBS views the shares as oversold and cites potential catalysts including stronger-than-expected 1H results, VIC-related activity and H2 overseas store openings; it forecasts 1H revenue and net profit up about 93% and 118% YoY. UBS expects gold prices to recover in H2, notes new stores could offset same-store-sales pressure if gold stays weak, trimmed 2026–28 EPS forecasts by 0–2% and cut the PT citing high base effects, slower medium-term growth and competitive pressures."
+    },
+    {
+      "id": "4971764",
+      "time": "2026-07-06 14:18:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷考慮在德國再裁減4000個崗位】當地時間7月5日，據報道，知情人士表示，保時捷考慮在其祖文豪森工廠再裁員多達4000人，此前該公司已同意削減3900個崗位。其中，行政和管理部門將尤其受到影響。下一輪裁員的具體規模預計將在7月底前確定。此外，報道稱，保時捷還可能將其魏斯阿赫研發基地的產能減少約30%。"
+    },
+    {
+      "id": "4971763",
+      "time": "2026-07-06 14:18:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "泛歐交易所：所有板塊的中央訂單簿交易及收盤後處理業務均照常運作。"
+    },
+    {
+      "id": "4971762",
+      "time": "2026-07-06 14:18:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所：目前無法透過圖形使用者介面（GUI）進行場內場外交易申報、荷蘭基金與ATF基金交易申報，也無法透過訂單錄入進行交易申報。"
+    },
     {
       "id": "te:economy:564350",
       "time": "2026-07-06 14:17:05",

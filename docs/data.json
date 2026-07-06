@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-06 14:18:09",
-  "count": 13032,
+  "updated": "2026-07-06 14:22:00",
+  "count": 13031,
   "items": [
+    {
+      "id": "mkt:019f3616-171d-7aab-8cac-da9d26bc5b85",
+      "time": "2026-07-06 14:20:45",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed down 23.30 points, or 0.26%, at 8,821.10 on July 6 (Monday)."
+    },
+    {
+      "id": "mkt:019f3615-4321-7aab-8cac-d1e776bcfb01",
+      "time": "2026-07-06 14:19:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "06181.HK",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【UBS cuts Laopu Gold PT to HK$650, keeps Buy】UBS cut Laopu Gold (06181.HK) PT to HK$650 from HK$930 and reiterated a Buy rating. The bank says boutique upgrades, VIC services and more frequent new-product launches enhance the company’s brand, channel and product positioning, helping cushion a gold-price pullback. UBS views the shares as oversold and cites potential catalysts including stronger-than-expected 1H results, VIC-related activity and H2 overseas store openings; it forecasts 1H revenue and net profit up about 93% and 118% YoY. UBS expects gold prices to recover in H2, notes new stores could offset same-store-sales pressure if gold stays weak, trimmed 2026–28 EPS forecasts by 0–2% and cut the PT citing high base effects, slower medium-term growth and competitive pressures."
+    },
+    {
+      "id": "4971764",
+      "time": "2026-07-06 14:18:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷考慮在德國再裁減4000個崗位】當地時間7月5日，據報道，知情人士表示，保時捷考慮在其祖文豪森工廠再裁員多達4000人，此前該公司已同意削減3900個崗位。其中，行政和管理部門將尤其受到影響。下一輪裁員的具體規模預計將在7月底前確定。此外，報道稱，保時捷還可能將其魏斯阿赫研發基地的產能減少約30%。"
+    },
+    {
+      "id": "4971763",
+      "time": "2026-07-06 14:18:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "泛歐交易所：所有板塊的中央訂單簿交易及收盤後處理業務均照常運作。"
+    },
+    {
+      "id": "4971762",
+      "time": "2026-07-06 14:18:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所：目前無法透過圖形使用者介面（GUI）進行場內場外交易申報、荷蘭基金與ATF基金交易申報，也無法透過訂單錄入進行交易申報。"
+    },
     {
       "id": "te:economy:564350",
       "time": "2026-07-06 14:17:05",
@@ -119897,66 +119943,6 @@
         "Greater China"
       ],
       "text": "【Hog 'anti-involution' policy shifts to enforcement; June capacity drawdown likely to accelerate】Institutions expect hog production capacity drawdown to accelerate in June, citing two drivers: sustained deep losses in pig farming and falling piglet prices. After a May rebound, hog prices resumed sliding and since June both self-breeding and purchased-piglet operations have lost over 300 yuan per head. 7kg piglet prices stalled at end-May and fell below 200 yuan in mid-June, pushing the sow-to-piglet segment into loss. Market participants are confident this will accelerate capacity exits and improve forward supply; beyond price-driven exits, policy measures have turned to enforcement—June measures to curb overcompetition have been given hard targets and a 'four leads' directive, with effects likely to emerge over time."
-    },
-    {
-      "id": "mkt:019f120a-a1e4-7aab-8c0b-0d5b52f98b05",
-      "time": "2026-06-29 14:21:54",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia's S&P/ASX 200 closed up 49.00 points, or 0.56%, at 8,813.20 on Monday, June 29."
-    },
-    {
-      "id": "4959857",
-      "time": "2026-06-29 14:21:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊午後走強 貴研鉑業漲近4%】貴金屬板塊午後走強，貴研鉑業漲近4%，赤峰黃金、山東黃金等股跟漲。"
-    },
-    {
-      "id": "mkt:019f120a-0df3-7aab-8c0b-0191a91c6cca",
-      "time": "2026-06-29 14:21:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon Parliament Speaker Berri said a trilateral framework agreement between Lebanon, Israel and the US will not be approved, saying the deal fails to safeguard Lebanon’s rights."
-    },
-    {
-      "id": "mkt:019f1209-9957-7aab-8c0a-ffa50f53d649",
-      "time": "2026-06-29 14:20:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England chief economist Pill said monetary policy over the past few years has not been tight enough."
-    },
-    {
-      "id": "te:economy:562441",
-      "time": "2026-06-29 14:19:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Sweden Posts Trade Surplus in May — Sweden recorded a trade surplus of SEK 2.9 billion in May 2026, swinging from a deficit of SEK 0.1 billion in the same month last year, as exports rose faster than imports. Exports climbed 9% year-on-year to SEK 180.8 billion, driven by higher shipments to both EU countries (11.8% to SEK 103.2 billion) and non-EU countries (5.4% to SEK 77.6 billion). Meanwhile, imports increased at a slower pace of 7.2% to SEK 177.9 billion, reflecting higher purchases from both EU markets (5.6% to SEK 119.8 billion) and non-EU countries (10.5% to SEK 58.1 billion). In the January–May period, the trade surplus narrowed to SEK 7.5 billion from SEK 36.1 billion in the corresponding period a year earlier, as exports rose 1% while imports increased by a faster 5%. On a seasonally adjusted basis, the trade surplus edged up to SEK 0.7 billion in May from SEK 0.6 billion in April."
-    },
-    {
-      "id": "4959856",
-      "time": "2026-06-29 14:18:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "PROSUS公佈全年業績後，在Tradegate平臺股價上漲4.32%。"
     }
   ]
 }
