@@ -1,7 +1,84 @@
 {
   "date": "2026-07-06",
-  "count": 358,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:019f3504-3239-7aab-8ca7-35e7e62043e4",
+      "time": "2026-07-06 09:21:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng Index up 0.23%, Hang Seng TECH Index up 0.55%. Kingboard Holdings (00148.HK) rose 6.54%; Kingboard Laminates Holdings (01888.HK) rose 5.4%."
+    },
+    {
+      "id": "4971306",
+      "time": "2026-07-06 09:21:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指<.STI>上漲幅度達0.2%，創下5253.99點的歷史新高。"
+    },
+    {
+      "id": "4971305",
+      "time": "2026-07-06 09:20:56",
+      "tags": [
+        "公司",
+        "央行"
+      ],
+      "text": "中國央行公告：透過1.40%利率的7天期逆回購操作投放700億元人民幣，中標利率與此前持平。"
+    },
+    {
+      "id": "mkt:019f3503-90fc-7aab-8ca7-2ab0cc35adb4",
+      "time": "2026-07-06 09:20:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 70 billion yuan 7-day reverse repo today; bids and allotments were both 70 billion yuan at a 1.40% rate, unchanged."
+    },
+    {
+      "id": "4971304",
+      "time": "2026-07-06 09:20:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京釋出雷電黃色預警訊號】市氣象臺2026年7月6日9時15分釋出雷電黃色預警訊號：預計，7月6日14時至7日00時，我市自西向東將先後出現分散性雷陣雨。延慶、昌平、門頭溝、房山、懷柔、密雲、平谷、順義等區相對明顯，局地短時雨強較大，並伴有7級左右陣風和冰雹，請注意防範。"
+    },
+    {
+      "id": "mkt:019f3501-a9f5-7aab-8ca7-23673315ff6c",
+      "time": "2026-07-06 09:18:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Report: AWS to raise ASIC server shipments】AI server supply-chain sources say Amazon's AWS has notified suppliers it will boost Q3 2026 ASIC server shipments by about 20-30% versus prior plans, indicating stronger-than-expected demand for Trainium 3."
+    },
+    {
+      "id": "4971303",
+      "time": "2026-07-06 09:18:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【誠通基金領投 星動紀元完成新一輪10億元融資】北京具身智慧獨角獸星動紀元完成新一輪10億元融資。本輪由誠通基金領投，以及多家大型國資基金參與：江西國控、國元股權、渝富中新基金、杭州資本等共同參與。此外，多家知名財務投資機構：中金雷諾、九坤創投、弘毅投資、君泰資本、盛赫資本跟投；老股東厚雪資本、清控天誠、千山資本持續追加投資。星動紀元兩個月內已累計融資近25億元。"
+    },
+    {
+      "id": "4971302",
+      "time": "2026-07-06 09:17:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上一交易日ETF兩市融資融券餘額1168.98億元】截至7月3日，ETF兩市融資融券餘額1168.98億元，分型別來看，股票型ETF兩融餘額686.79億元，債券型ETF兩融餘額77.66億元，商品型ETF兩融餘額130.05億元，QDII型ETF兩融餘額274.48億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、中證1000ETF（512100），兩融餘額分別為60.92億元、39.45億元、38.28億元。"
+    },
     {
       "id": "4971301",
       "time": "2026-07-06 09:17:15",
