@@ -1,7 +1,108 @@
 {
   "date": "2026-07-06",
-  "count": 1048,
+  "count": 1059,
   "items": [
+    {
+      "id": "4971818",
+      "time": "2026-07-06 14:51:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：歐元區債券收益率小幅走低，等待新的刺激因素】歐元區政府債券收益率小幅走低，追隨美國國債收益率的走勢。Metzler分析師在一份報告中表示：“本週歐元區相對缺乏新的刺激因素。“他們表示，今早的德國工廠訂單、週二的工業產值和週四的對外貿易資料，以及歐元區生產者價格和零售額，“應該會為第二季度預期的GDP增長提供有價值的見解“。他們在歐佩克+決定增產後表示，雖然透過霍爾木茲海峽的航運恢復情況仍不穩定，且短期供應難以預測，但未來結構性石油供應似乎料將進一步增加。根據Tradeweb的資料，10年期德國國債收益率下跌0.8個基點，至2.923%。"
+    },
+    {
+      "id": "4971817",
+      "time": "2026-07-06 14:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：31名經濟學家中除一人外，其餘全部預測馬來西亞國家銀行將於7月9日將隔夜政策利率維持在2.75%不變。"
+    },
+    {
+      "id": "te:economy:564370",
+      "time": "2026-07-06 14:51:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hungary Industrial Output Falls in May — Industrial production in Hungary fell 0.4% year-on-year in May 2026, reversing from a 0.9% increase in the previous month and marking the weakest reading since February, according to preliminary estimates. Output declined across most manufacturing sub-sectors compared with a year earlier. Among the key industries, production decreased in electrical equipment as well as food, beverages, and tobacco products. Meanwhile, output continued to grow in vehicle manufacturing and the production of computer, electronic, and optical products. On a seasonally and working-day adjusted basis, industrial production rose 2.3% in May, recovering from a 1.1% fall in the previous month. In the first five months of 2026, industrial production was 0.7% higher than in the corresponding period a year earlier."
+    },
+    {
+      "id": "4971816",
+      "time": "2026-07-06 14:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：馬來西亞國家銀行隔夜政策利率預計將在2027年全年維持在2.75%不變。"
+    },
+    {
+      "id": "4971815",
+      "time": "2026-07-06 14:51:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代在廈門成立新公司 註冊資本100億】天眼查App顯示，近日，寧德時代零碳科技（廈門）有限公司成立，法定代表人為陳偉峰，註冊資本100億人民幣，經營範圍包括新興能源技術研發、儲能技術服務、電池製造、電池銷售等，由寧德時代（300750）全資持股。"
+    },
+    {
+      "id": "4971814",
+      "time": "2026-07-06 14:51:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技成立彙算科技公司，含AI及積體電路晶片業務】企查查APP顯示，近日，深圳市行雲彙算科技有限公司成立，經營範圍包含：人工智慧公共服務平臺技術諮詢服務；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由行雲科技全資子公司深圳市行雲控股有限責任公司等共同持股。"
+    },
+    {
+      "id": "4971813",
+      "time": "2026-07-06 14:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞西澳礦工聯盟（WMWA）表示：澳大利亞工人聯盟（AWU）在必和必拓港口服務部門的會員以壓倒性多數（97%）投票批准採取受法律保護的工業行動。"
+    },
+    {
+      "id": "4971812",
+      "time": "2026-07-06 14:50:19",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【傑富瑞：企業信用債或受益於油價下跌】Jefferies的Mohit Kumar表示，油價回落應該對企業信用債有利。這位全球經濟學家在一份報告中寫道，信用利差過於偏窄，但絕對收益率依然具有吸引力。“按總收益率計算，我們對信用債依然持樂觀態度，“他說。更廣泛地看，Jefferies對風險資產依然持樂觀態度。“央行無需加息（我們的觀點）、7月份有利的季節性因素、不太擁擠的頭寸以及系統中充足的現金，都應在未來幾周對風險資產有利，”Kumar說。"
+    },
+    {
+      "id": "4971811",
+      "time": "2026-07-06 14:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列政府公開違抗最高法 遭國內多方抨擊】以色列內閣5日投票拒絕承認最高法院一項涉及媒體監管的裁決，首次公開違抗最高法院。這一行為招致總統、多名前總理、現任總理內塔尼亞胡的競選對手、反對黨以及記者協會群起炮轟，他們批評內塔尼亞胡領導的政府“踐踏紅線”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f3630-f0e7-7aab-8cad-5df2b7a9226f",
+      "time": "2026-07-06 14:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Switzerland's seasonally adjusted June unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "te:markets:564369",
+      "time": "2026-07-06 14:48:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Down Slightly at Finish — The ASX 200 fell 13 points, or 0.2%, to end at 8,831 on Monday, retreating from a one-week high and swinging from the prior session’s rally. Sentiment weakened after Australia's job ads eased for a third time this year in June, underscoring the drag from higher borrowing costs. Caution also emerged ahead of June CPI and PPI data from main trading partner China, due later this week. Still, stronger U.S. stock futures helped limit losses ahead of the Fed’s June meeting minutes. Meanwhile, a softer inflation gauge from the Melbourne Institute added to signs of cooling cost pressures. Industrial services, consumer names, and non-energy minerals led declines. The big four banks shed between 0.1% and 1.1%. Supermarket majors Woolworths (-1.1%) and Coles (-0.4%) lagged, with the sector down 1.6% so far in July after a 13% surge in June. In contrast, Vault Minerals jumped 11.6% after Genesis Minerals launched an AUD 5.6 billion takeover bid, topping Regis Resources’ May proposal."
+    },
     {
       "id": "4971810",
       "time": "2026-07-06 14:47:41",
