@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-06 10:17:41",
-  "count": 12998,
+  "updated": "2026-07-06 10:21:34",
+  "count": 13000,
   "items": [
+    {
+      "id": "mkt:019f353a-2bdb-7aab-8ca8-c863e0c1c8d4",
+      "time": "2026-07-06 10:20:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "ChiNext Index fell 1% after earlier rising more than 1%; Shenzhen Composite Index down 0.62% and Shanghai Composite Index down 0.14%. PCB sector slid amid volatility."
+    },
+    {
+      "id": "4971428",
+      "time": "2026-07-06 10:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於當地時間週三上午 10 點 30 分在土耳其會見北約秘書長呂特。"
+    },
+    {
+      "id": "4971427",
+      "time": "2026-07-06 10:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中消協釋出關於健身預付款的消費提示 選機構要“三看兩不”】\n近年來，健身機構大多采用“先交錢、後消費”的預付費模式。這一模式在為消費者帶來優惠的同時，也產生了退款難、服務質量縮水，甚至部分商家關門停業、捲款跑路等問題，嚴重損害了消費者的合法權益。\n\n對此，中國消費者協會今天釋出提示：消費者選擇體育健身服務機構時要堅持“三看兩不”。\n\n一看證照情況，包括營業執照、教練員從業資格證等。\n二看經營情況，包括經營環境、規模等。\n三看誠信情況，包括市場口碑、社會信譽、是否被列入行業黑名單等。\n不受“充值越多，折扣力度越大”的營銷手段誘惑盲目大額充值。\n不辦理“終身卡”“五年卡”等超長期預付卡。"
+    },
+    {
+      "id": "4971426",
+      "time": "2026-07-06 10:19:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於當地時間週三下午 4 點 15 分在土耳其出席新聞釋出會。"
+    },
+    {
+      "id": "4971425",
+      "time": "2026-07-06 10:19:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3979.458點；上證指數跌0.11%，現報4039.038點；深證成指跌0.54%，現報15512.631點。"
+    },
+    {
+      "id": "4971424",
+      "time": "2026-07-06 10:17:58",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓元邁入全天候交易時代，韓財長：反映經濟基本面與外國投資者需求】韓國財政部長週一表示，隨著韓國啟動24小時外匯交易，政府將繼續努力改善外國投資者對本國金融市場的准入。具允哲當天上午走訪了位於首爾市中心韓亞銀行的交易室，標誌著亞洲第四大經濟體正式啟動韓元24小時交易系統。具允哲在訪問期間表示：“24小時交易系統的啟動，反映了韓國對其經濟基本面的信心，包括強勁的外部穩健性和創紀錄的經常賬戶盈餘。”他補充道：“這也是一項改革措施，反映了外國投資者對我們外匯和資本市場日益增長的需求，正如韓國被納入世界政府債券指數所證明的那樣。”具允哲表示，全天候交易系統的開放也將成為韓元再次飛躍的起點，因為國內外投資者及貿易公司可以不受時間限制進行外匯交易。"
+    },
+    {
+      "id": "4971423",
+      "time": "2026-07-06 10:17:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "mkt:019f3536-e2ba-7aab-8ca8-c74afc6235e5",
       "time": "2026-07-06 10:16:57",
@@ -9,6 +75,15 @@
         "MKT News"
       ],
       "text": "【Won enters 24-hour trading era; finance minister says move reflects economic fundamentals and foreign investor demand】South Korea has launched a 24-hour KRW trading system, Finance Minister Koo Yun-cheol said Monday after visiting Hana Bank’s trading floor in central Seoul. Koo said the launch reflects confidence in Korea’s economic fundamentals, citing strong external resilience and a record current account surplus, and is a market-access reform responding to rising foreign investor demand — evidenced by Korea’s inclusion in the World Government Bond Index. He added that round-the-clock trading will allow domestic and foreign investors and trading firms to transact FX without time constraints and will be a starting point for the won’s next leap."
+    },
+    {
+      "id": "4971422",
+      "time": "2026-07-06 10:16:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美光啟動日本廣島工廠擴建 以進一步提高先進儲存晶片產能】美光科技週六啟動日本廣島工廠的擴建，以進一步提高先進儲存晶片的產能，滿足不斷增長的人工智慧(AI)算力硬體需求。該擴建工程的投資額達到1.5萬億日元（約合93億美元），日本經濟產業省為該專案提供不超過5000億日元的補貼支援。該工廠將生產高頻寬記憶體等AI基建急需的晶片。製造裝置的交付和安裝計劃於2028年下半年開始。儲存晶片公司競相在全球擴大產能。美光正在Boise建設兩座先進晶圓廠，今年1月為位於紐約州的千億美元生產基地舉行奠基儀式，以提高美國本土DRAM產量。韓國SK海力士和三星電子也在積極擴大產能。"
     },
     {
       "id": "mkt:019f3536-1f2a-7aab-8ca8-b80275bc551f",
@@ -119729,63 +119804,6 @@
         "Importance 2"
       ],
       "text": "Dollar Holds Steady as Jobs Data Looms — The dollar index was little changed at around 101.3 on Monday after reaching a more than one-year high last week, as investors awaited the latest US monthly jobs report for fresh clues on labor market strength and the outlook for Federal Reserve policy. Fed Chair Kevin Warsh reiterated the central bank’s commitment to bringing inflation under control, reinforcing the hawkish tone of his debut earlier this month that prompted markets to scale back expectations for US rate cuts this year. Markets are now pricing in three Fed rate hikes this year, with the probability of the first increase in September standing above 60%. Meanwhile, investors continued to monitor developments in the Middle East after oil prices climbed following renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks set to resume this week in Doha, Qatar."
-    },
-    {
-      "id": "te:economy:562378",
-      "time": "2026-06-29 10:21:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Taiwan Consumer Confidence Recovers in June — Taiwan’s consumer confidence index rose to 65.05 in June 2026 from 62.08 in the previous month, recovering from its lowest level in more than three years as sentiment improved across all six core components. The strongest gain was recorded in stock investment prospects, which climbed to 29.9 from 22.06 in May, followed by future price levels (35.83 vs 32.77), durable goods purchases (93.55 vs 91.68), labor market expectations (72.46 vs 70.7), household finances (77.7 vs 76.02), while expectations for domestic economic conditions edged up to 80.87 from 79.26, marking the smallest increase among the main indicators. Additionally, confidence in real estate purchases (90.35 vs 88.51), assessments of current health conditions (86.82 vs 84.92), and expected health conditions (81.86 vs 80.01) strengthened. Despite the broad-based improvement, all six main sub-indicators remained below the 100-point threshold, indicating that consumers continued to hold a generally cautious outlook."
-    },
-    {
-      "id": "mkt:019f112d-48f5-7aab-8c07-324f499291b1",
-      "time": "2026-06-29 10:20:08",
-      "tags": [
-        "MKT News",
-        "600519.SS",
-        "Impact bullish"
-      ],
-      "text": "China A-share baijiu sector firm: Jiugui Liquor up over 8%, Shede Spirits up over 5%, Kweichow Moutai up over 2%; Yingjia Gongjiu and Shuijingfang also gained."
-    },
-    {
-      "id": "4959584",
-      "time": "2026-06-29 10:19:51",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【自變數C輪融資後估值超200億】自變數機器人宣佈，繼4月下旬完成小米戰投領投的B輪融資後，公司於2個多月內迅速完成B+、B++及C輪融資，4輪融資均已全部完成交割。本輪投後估值正式突破200億元人民幣。本輪投資方已確認名單包括：中國移動、國家人工智慧產業投資基金、紅杉中國、IDG資本、原始碼資本、達晨財智、中金資本等30餘家頂級機構及網際網路巨頭資本。其中，小米戰投已連續三輪持續加註。（科創板日報）"
-    },
-    {
-      "id": "4959583",
-      "time": "2026-06-29 10:19:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股白酒板塊異動拉昇】巨力索具觸及漲停，酒鬼酒、捨得酒業、迎駕貢酒、水井坊、會稽山、廣譽遠跟漲。"
-    },
-    {
-      "id": "4959582",
-      "time": "2026-06-29 10:19:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股食品飲料板塊異動拉昇】佳禾食品觸及漲停，酒鬼酒、百潤股份、元祖股份、捨得酒業、巴比食品、迎駕貢酒跟漲。"
-    },
-    {
-      "id": "4959581",
-      "time": "2026-06-29 10:18:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京太空算力創新中心正式揭牌】今日在北京海淀中關村舉辦的全球數字經濟大會太空算力論壇上，北京太空算力創新中心正式揭牌成立，創新中心採用“公司+聯盟”雙輪驅動模式，運營主體為北京天算星聯科技有限公司。創新中心承擔四類核心職能：一是共性技術攻關，圍繞星載AI晶片、高效能算力載荷、智慧衛星平臺、太空大模型、天地一體雲平臺等關鍵環節統籌組織聯合研發；二是公共平臺服務，建設覆蓋晶片到系統的地面綜合驗證基礎設施與天地一體測試驗證環境，向產業鏈上下游開放共享；三是標準制定與生態引領，主導或參與國家、行業標準研製，以開源開放理念匯聚產業生態；四是成果轉化與場景變現，統籌城市治理、行業“天數天算”、社會化Token化AI服務三類應用通路，推動太空算力規模化商業落地。 (科創板日報記者 李明明)"
     }
   ]
 }
