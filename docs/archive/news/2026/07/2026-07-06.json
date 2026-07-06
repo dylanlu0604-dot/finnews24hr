@@ -1,7 +1,114 @@
 {
   "date": "2026-07-06",
-  "count": 1010,
+  "count": 1021,
   "items": [
+    {
+      "id": "mkt:019f3624-b86e-7aab-8cad-2a354925e956",
+      "time": "2026-07-06 14:36:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maoyan Entertainment (01896.HK) shares rose more than 8%, returning above HK$5."
+    },
+    {
+      "id": "4971790",
+      "time": "2026-07-06 14:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城汽車在義烏成立新汽車銷售公司 註冊資本500萬】天眼查App顯示，近日，魏智選（義烏）汽車銷售有限公司成立，法定代表人為譚健，註冊資本500萬人民幣，經營範圍包括汽車銷售、汽車零配件零售、小微型客車租賃經營服務、機動車修理和維護等，由長城汽車旗下長城智選資訊科技（保定）有限公司全資持股。"
+    },
+    {
+      "id": "4971789",
+      "time": "2026-07-06 14:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "檔案：欣興電子尋求透過發售全球存托股份融資至多14億美元。"
+    },
+    {
+      "id": "te:markets:564364",
+      "time": "2026-07-06 14:36:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Climb — UK natural gas prices rose past 108 pence a therm, reaching a fresh three-week high amid persistent concerns over the sluggish pace of storage refilling. The region’s storage outlook remains tight, with inventories currently at around 48% of capacity, well below the 56% recorded during the same period last year and the five-year seasonal average of 61%. The relatively low inventory levels have reinforced concerns about the region’s ability to build adequate reserves ahead of winter. Also providing near-term support for prices, high temperatures across much of Europe accelerated gas-fired power generation to meet air-conditioning demand. Moreover, market participants noted that LNG deliveries to Europe have yet to increase sufficiently to ease regional supply constraints, despite a pickup in shipping activity through the Strait of Hormuz following progress in US-Iran diplomatic talks."
+    },
+    {
+      "id": "4971788",
+      "time": "2026-07-06 14:35:14",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元在近期回撥後小幅走高】美元小幅走高，從近期因美國加息預期降溫而引發的下跌中回升。此前，上週四公佈的非農就業人數弱於預期，且美聯儲主席凱文·沃什上週三表示通脹風險已緩解，這促使市場重新評估了利率預期。然而，倫敦證券交易所集團的資料顯示，市場仍預計美聯儲將在年底前加息。目前的注意力轉向週三公佈的美聯儲會議紀要，以尋找有關政策路徑的進一步線索。DXY美元指數上漲0.2%，至101.035。"
+    },
+    {
+      "id": "4971787",
+      "time": "2026-07-06 14:34:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "易捷航空股價在Tradegate交易平臺上漲12%，此前該公司表示已準備好接受卡斯爾萊克的收購要約。"
+    },
+    {
+      "id": "mkt:019f3622-884a-7aab-8cad-223ad7436c9c",
+      "time": "2026-07-06 14:34:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Sumitomo Mitsui DS: 10-year JGB yield could reach 3% by year-end】Masahiro Ichikawa, strategist at Sumitomo Mitsui DS Asset Management, said 10-year JGB yield could reach 3% by year-end if Japan’s economy remains on a solid growth path. He said a large-scale government investment plan that stimulates private-sector capex would leave further upside for Japanese equities. He added Prime Minister Sanae Takaichi has signaled intent to preserve market confidence, lowering the risk of fiscal indiscipline. 10-year JGB yield was up 6bps at 2.830%."
+    },
+    {
+      "id": "4971786",
+      "time": "2026-07-06 14:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本麥當勞6月同店銷售額增長2.7%。"
+    },
+    {
+      "id": "mkt:019f3621-ce62-7aab-8cad-18ff97468dab",
+      "time": "2026-07-06 14:33:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "6981.T",
+        "Impact bullish",
+        "6976.T"
+      ],
+      "text": "【TrendForce: AI demand lifts high-end MLCC order-to-ship ratios at Murata, Samsung EM, Taiyo Yuden to record highs; H2 2026 shortage risk rises】TrendForce says AI server refreshes and rising volumes of cloud providers’ in-house ASICs pushed high-end MLCC order-to-ship (BB) ratios to new highs in late June 2026: Murata 1.30, Samsung Electro‑Mechanics 1.31, Taiyo Yuden 1.25, with the overall MLCC market BB Ratio at 1.04. With new AI chip platforms from NVIDIA, Google and AMD entering mass production in Q3 2026, capacity is expected to be increasingly absorbed by AI orders; combined with forward stocking, TrendForce flags longer lead times and upward pressure on high-end MLCC prices in H2. It says Q4 2026 will be the key period to determine whether high-end MLCCs move into sustained shortage."
+    },
+    {
+      "id": "4971785",
+      "time": "2026-07-06 14:33:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "業內訊息人士稱，空中客車非正式設定目標，計劃在2026年完成900架飛機交付；該公司5月已交付89架噴氣式飛機，全年官方交付目標870架保持不變。"
+    },
+    {
+      "id": "4971784",
+      "time": "2026-07-06 14:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西欽州：網傳“今天下午17點欽州全部停電”系謠言】據“欽州釋出”訊息，目前網傳今天（7月6日）下午17點欽州全部停電，此訊息為虛假資訊，請大家不造謠、不信謠、不傳謠。"
+    },
     {
       "id": "4971783",
       "time": "2026-07-06 14:32:49",
