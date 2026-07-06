@@ -1,7 +1,378 @@
 {
   "date": "2026-07-07",
-  "count": 223,
+  "count": 262,
   "items": [
+    {
+      "id": "mkt:019f3924-c7ae-7aab-8cbc-26834d88ba73",
+      "time": "2026-07-07 04:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said it will adjust how it treats stocks on warning/alert boards at Mumbai, the National Stock Exchange of India (NSE), and exchanges in Korea and Taiwan."
+    },
+    {
+      "id": "te:markets:564569",
+      "time": "2026-07-07 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index went up by 156 points or 0.29 percent on Monday to close at 53056 points. The rise was led by Boeing (3.55%), IBM (3.43%) and Goldman Sachs (3.28%). On the downside, the weakerst performers were Amgen (-2.32%), Walt Disney (-2.13%) and Merck (-2.13%)."
+    },
+    {
+      "id": "mkt:019f3923-b167-7aab-8cbc-1cf04a1e9bdd",
+      "time": "2026-07-07 04:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI will shorten the monitoring period for watchlist companies in its global indices that no longer meet eligibility criteria."
+    },
+    {
+      "id": "4973009",
+      "time": "2026-07-07 04:33:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥期貨交易所（CBOE）6月期貨日均成交量增長30.5%。指數期權日均成交量增長36.8%。跨交易所期權日均成交量增長40.5%。"
+    },
+    {
+      "id": "4973008",
+      "time": "2026-07-07 04:32:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟針對土耳其市場宣告：或將複核單隻證券自由流通股，並把部分股東（含特定基金持倉）從自由流通股份重新劃歸為非自由流通股份。"
+    },
+    {
+      "id": "mkt:019f3921-eda6-7aab-8cbc-15f523af059c",
+      "time": "2026-07-07 04:32:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI will suspend planned increases to the foreign inclusion factor (FIF) and share-count adjustments for Indonesian securities, and will stop adding Indonesian constituents to the MSCI Investable Market Index (IMI)."
+    },
+    {
+      "id": "4973007",
+      "time": "2026-07-07 04:31:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田北美汽車公司：擴建工廠將新增 2000 個就業崗位，2030 年前聖安東尼奧工廠規模擴大一倍。將在美國德克薩斯州建設價值36億美元的新工廠，並將部分卡車生產從墨西哥轉移至美國。"
+    },
+    {
+      "id": "4973006",
+      "time": "2026-07-07 04:31:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大最遲將於 2027 年底完成潛艇專案合同簽訂工作。"
+    },
+    {
+      "id": "mkt:019f3920-7a51-7aab-8cbc-0ff103fcbd6d",
+      "time": "2026-07-07 04:30:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toyota announced it will build a US$3.6 billion plant in Texas and shift some truck production from Mexico to the United States."
+    },
+    {
+      "id": "4973005",
+      "time": "2026-07-07 04:30:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "明晟關於印尼市場宣告： 將繼續剔除印尼監管機構認定的、符合高股權集中度監管框架的相關證券。 將在適宜情況下，持續採用 1% 股東披露資料調整自由流通股估值。"
+    },
+    {
+      "id": "mkt:019f391f-96ac-7aab-8cbc-069f4bf3a6ba",
+      "time": "2026-07-07 04:29:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said it will assess Turkish securities individually against its investability criteria."
+    },
+    {
+      "id": "mkt:019f391f-4fbe-7aab-8cbb-ff99c55d4644",
+      "time": "2026-07-07 04:29:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XAI will rename its X account to SpaceXAI."
+    },
+    {
+      "id": "4973004",
+      "time": "2026-07-07 04:28:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟印尼市場公告：MSCI 全球可投資市場指數中印尼與土耳其證券處理規則更新， 明晟將維持當前針對印尼證券實施的各項現行措施。"
+    },
+    {
+      "id": "4973003",
+      "time": "2026-07-07 04:27:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）關於印尼市場公告：MSCI 將暫停上調外資納入係數（FIF）及可納入股份數量（NOS)。"
+    },
+    {
+      "id": "te:markets:564568",
+      "time": "2026-07-07 04:26:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Miners and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.2% to close at 35,212 on Monday, pressured by declines in mining and energy stocks. Gold miners led losses as a stronger dollar weighed on bullion prices. Agnico Eagle fell 1.6%, Barrick lost 2.4%, WPM retreated 2.6%, and Franco-Nevada dropped 3.4%. Energy shares also traded lower after oil prices fell further below pre-conflict levels as OPEC+ agreed to raise output targets again from August, while exports through the Strait of Hormuz continued to recover, improving the global supply outlook. Canadian Natural fell 1.3%, Imperial Oil lost 1.6%, and Cenovus shed 1.9%. In contrast, financials outperformed as lower oil prices pushed bond yields lower and reinforced expectations that the BoC will keep interest rates on hold. RBC gained 1.7%, TD Bank rose 0.8%, BMO added 1.2%, and Brookfield advanced 1.4%."
+    },
+    {
+      "id": "4973002",
+      "time": "2026-07-07 04:25:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI 將旗下 X 賬號更名為 SpaceXAI，並更換標識。"
+    },
+    {
+      "id": "4973001",
+      "time": "2026-07-07 04:24:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： TKMS將向加拿大投入數百億加元投資。"
+    },
+    {
+      "id": "4973000",
+      "time": "2026-07-07 04:24:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼： 蒂森克虜伯海事系統公司（TKMS）提議調配德國與挪威訂單中的潛艇產能，從而實現首批 4 艘潛艇於 2034 年前提前交付。"
+    },
+    {
+      "id": "mkt:019f3919-1943-7aab-8cbb-f024dce6e075",
+      "time": "2026-07-07 04:22:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Traders' dollar positioning most bullish since 2015】CFTC data show net bullish bets on the dollar rose to nearly $40bn as of June 30, the highest since 2015, extending a monthly rally led by interest-rate expectations. Markets are pricing a higher-for-longer Fed and a risk of further hikes, which helped the dollar gain about 2% in June. Analysts say Fed tightening expectations and US economic resilience support the move, but some institutions warn weaker recent employment data could cap further upside."
+    },
+    {
+      "id": "4972999",
+      "time": "2026-07-07 04:19:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加密貨幣暴跌之際 困境資產投資基金探討置換Strategy優先股持倉】逢低買入Strategy Inc.優先股的困境資產投資基金正與該公司一家投行顧問洽談，擬將所持優先股換成其他證券。隨著加密貨幣持續暴跌令這家大量囤積比特幣的公司處境日益艱難，這些基金將該方案稱作雙贏安排。知情人士稱，這些投資者已與Moelis & Co.商討將其持倉折價換成其他優先股，或者可能換成普通股。Strategy普通股過去一年已暴跌約75%。知情人士稱，任何潛在交易都可能透過所謂的3(a)(9)條款完成。該條款允許企業不經美國證券交易委員會（SEC）正式註冊，即可置換證券。"
+    },
+    {
+      "id": "mkt:019f3911-7796-7aab-8cbb-ee851b7bf6c8",
+      "time": "2026-07-07 04:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said if talks with Germany's TKMS fail, Canada will reserve the right to open submarine cooperation negotiations with South Korea's Hanwha Group."
+    },
+    {
+      "id": "4972998",
+      "time": "2026-07-07 04:13:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "加拿大總理卡尼： 若與蒂森克虜伯海事系統公司（TKMS）談判失敗，加拿大保留與韓國韓華集團重啟洽談的權利。"
+    },
+    {
+      "id": "mkt:019f3910-360c-7aab-8cbb-e544f0396a0d",
+      "time": "2026-07-07 04:13:11",
+      "tags": [
+        "MKT News",
+        "TKA.DE",
+        "Impact bullish"
+      ],
+      "text": "Prime Minister Carney said German firm TKMS has been selected as the preferred supplier for Canada’s 12-submarine procurement program."
+    },
+    {
+      "id": "4972997",
+      "time": "2026-07-07 04:12:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼宣佈，德國蒂森克虜伯海事系統公司（TKMS）成為加拿大 12 艘潛艇建造專案的優先供應商。"
+    },
+    {
+      "id": "4972996",
+      "time": "2026-07-07 04:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Thrive Holdings融資大約20億美元。"
+    },
+    {
+      "id": "te:markets:564567",
+      "time": "2026-07-07 04:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise as Chipmakers Rally — US stock indices closed higher on Monday on strong gains in semiconductor stocks. The S&P 500 added 0.7%, the Nasdaq 100 rose 1.3%, and the Dow closed at a record high of 53,056. Chipmakers rallied ahead of Samsung's sales update and SK Hynix's ADR issuance on Friday. Broadcom rose 3.7% after extending its partnership with Apple (+1.3%). Nvidia gained 0.4% after its assembly partner Hon Hai Precision Industry signaled that AI demand continues to strengthen. Micron rose 0.9%, AMD surged 6.6%, and Intel added 1.5%. The gains extended a volatile period for chip stocks, as investors continue to weigh rising competition, potential overcapacity, and the returns on AI-related investments. On the data front, the US services sector expanded at a slightly slower pace in June, while firms increased hiring as cost pressures eased. Investors await minutes from the Fed's latest policy meeting on Wednesday for clues on how policymakers are balancing inflation and labor market risks."
+    },
+    {
+      "id": "mkt:019f390e-a832-7aab-8cbb-df855bb977c8",
+      "time": "2026-07-07 04:11:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【CFTC: Hedge funds' yen net shorts highest since 2007】CFTC data show hedge funds increased net short positions in yen futures and options to about 138,000 contracts in the week to June 30, the most bearish positioning since 2007. The yen fell to its weakest since 1986, slipping below 162 per dollar, fueling renewed expectations of Japanese FX intervention; Japan's finance minister reiterated authorities can intervene at any time and Tokyo deployed record-sized support in late April–May. Markets view a widening US–Japan rate gap as the main driver of yen pressure, and say recent BOJ rate hikes have not reversed the weakness."
+    },
+    {
+      "id": "4972995",
+      "time": "2026-07-07 04:06:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "維特生物將以每股85美元的現金對價收購Crinetics製藥公司。"
+    },
+    {
+      "id": "4972994",
+      "time": "2026-07-07 04:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國鋼鐵協會（AISI）：截至 7 月 4 日當週，美國鋼鐵產能利用率為 80.4%。"
+    },
+    {
+      "id": "mkt:019f3909-556d-7aab-8cbb-d329cb3090ae",
+      "time": "2026-07-07 04:05:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An Israeli official said Israel would retain the option to carry out military strikes against Iran even if the U.S. reaches an agreement with Tehran."
+    },
+    {
+      "id": "mkt:019f3908-876b-7aab-8cbb-c9388a78cf73",
+      "time": "2026-07-07 04:04:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "CFTC: Traders' overall positioning toward the dollar has risen to its most optimistic level since 2015."
+    },
+    {
+      "id": "te:economy:564566",
+      "time": "2026-07-07 04:04:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Colombia PPI Growth Slows in June — Colombia's Producer Price Index rose 3.3% year-on-year in June 2026, easing sharply from a 6.8% increase in May and marking the slowest annual producer inflation since February. Prices of goods produced for domestic consumption increased 4.99% from a year earlier, while export prices fell 1.86%. Among the main sectors, agriculture, livestock, and fishing recorded the strongest annual increase, rising 8.46%, while mining and manufacturing prices advanced 1.95% and 1.94%, respectively. The largest upward contributions came from pome and stone fruits (23.88%), raw, semi-manufactured or powdered gold (18.22%), and citrus fruits (78.03%). In contrast, coffee (-30.73%), green coffee (-21.97%), and ethyl alcohol and other denatured alcohols (-27.75%) were the main drags on the index. On a monthly basis, producer prices fell 3.49% in June."
+    },
+    {
+      "id": "mkt:019f3907-6afe-7aab-8cbb-c52c9cbd993c",
+      "time": "2026-07-07 04:03:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. equity close on Monday, July 6: Dow Jones Industrial Average +155.84 pts (+0.29%) to 53,055.91; S&P 500 +54.18 pts (+0.72%) to 7,537.42; Nasdaq Composite +288.49 pts (+1.12%) to 26,121.16."
+    },
+    {
+      "id": "4972993",
+      "time": "2026-07-07 04:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美國網路防禦機構CISA正使用Anthropic的人工智慧工具來審計政府程式碼。CISA在使用人工智慧工具審計政府程式碼過程中，已發現多處漏洞。"
+    },
+    {
+      "id": "mkt:019f3906-8a67-7aab-8cbb-bfe53b799795",
+      "time": "2026-07-07 04:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said U.S. cybersecurity agency CISA is using ANTHROPIC's AI tools to audit government code and has identified multiple vulnerabilities during those AI-assisted audits."
+    },
+    {
+      "id": "mkt:019f3905-c89b-7aab-8cbb-b0356b66d66d",
+      "time": "2026-07-07 04:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "WDC.O",
+        "Impact bullish",
+        "AVGO.O",
+        "ASML.O"
+      ],
+      "text": "【US stocks close higher; chip stocks lead gains】US stocks closed higher on Monday: the Dow Jones Industrial Average rose 0.3%, the S&P 500 gained 0.7% and the Nasdaq Composite climbed 1.1%. Semiconductor-linked names led the advance: Western Digital (WDC.O) +7%, Broadcom (AVGO.O) +3.7%, ASML (ASML.O) +3%; Micron Technology (MU.O) and Intel (INTC.O) around +1%. The Nasdaq Golden Dragon China Index rose 1.7%; NIO (NIO.N) advanced 4.7%."
+    },
+    {
+      "id": "4972992",
+      "time": "2026-07-07 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.73%，納指漲1.12%。Arista Networks漲8.25%，西部資料漲7.14%，AMD漲6.61%。“七姐妹”方面：特斯拉漲6.69%，Meta Platforms漲3.03%，谷歌漲2.38%，蘋果漲1.33%，亞馬遜漲0.61%，英偉達漲0.34%，微軟跌0.92%。"
+    },
+    {
+      "id": "4972991",
+      "time": "2026-07-07 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.80%】愛奇藝漲6.44%，復朗集團漲5.84%，新氧漲5.52%，水滴公司漲5.42%，BOSS直聘漲5.15%。"
+    },
+    {
+      "id": "mkt:019f3900-2ed1-7aab-8cbb-adc23fe46659",
+      "time": "2026-07-07 03:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Algeria preliminary lower-house results: FLN leads】Algeria’s National Independent Electoral Authority on the 6th published preliminary counts from the election held on the 2nd for the People’s National Assembly, showing the ruling National Liberation Front (FLN) leading with 90 of 407 seats. These preliminary results are subject to review by the Constitutional Court, which will announce the final outcome."
+    },
     {
       "id": "4972990",
       "time": "2026-07-07 03:50:09",
