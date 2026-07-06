@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-06 18:49:26",
-  "count": 12945,
+  "updated": "2026-07-06 18:53:18",
+  "count": 12953,
   "items": [
+    {
+      "id": "mkt:019f370f-0117-7aab-8cb2-800ab442baed",
+      "time": "2026-07-06 18:52:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russian Defence Ministry said Russian forces shot down 613 drones while repelling Ukrainian nighttime attacks, RIA reported."
+    },
+    {
+      "id": "4972332",
+      "time": "2026-07-06 18:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍方在擊退烏方夜間襲擊過程中，於俄羅斯境內各區域擊落613架無人機。"
+    },
+    {
+      "id": "4972331",
+      "time": "2026-07-06 18:51:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商證券：獲准公開發行不超700億元公司債券】招商證券公告，公司近日收到中國證監會《關於同意招商證券股份有限公司向專業投資者公開發行公司債券註冊的批覆》，同意公司向專業投資者公開發行面值總額不超過700億元公司債券的註冊申請。本次發行應嚴格按照報送上交所的募集說明書進行，批覆自同意註冊之日起24個月內有效，公司可在有效期內分期發行。"
+    },
+    {
+      "id": "te:markets:564465",
+      "time": "2026-07-06 18:51:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Hits 24-week High — Cocoa increased to 5360.00 USD/T, the highest since January 2026. Over the past 4 weeks, Cocoa gained 39.1%, and in the last 12 months, it decreased 35.02%."
+    },
+    {
+      "id": "4972330",
+      "time": "2026-07-06 18:50:47",
+      "tags": [
+        "行業",
+        "觀點",
+        "焦點"
+      ],
+      "text": "美銀全球研究部預計，到2027年全球雲端計算與人工智慧基礎設施資本支出將達到1.5萬億美元。"
+    },
+    {
+      "id": "4972329",
+      "time": "2026-07-06 18:50:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南極電商：擬以1億元至2億元回購公司股份】南極電商公告，擬以1億元至2億元回購公司股份，回購價格不超過4.29元/股，預計回購股份數量為2331萬股至4662萬股，約佔公司目前總股本的比例為0.95%至1.90%。"
+    },
+    {
+      "id": "mkt:019f370c-2361-7aab-8cb2-7d9cb4dafb50",
+      "time": "2026-07-06 18:49:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【European leaders hold late-night emergency meeting to address rupture with US】Around 30 European heads of government held a midnight emergency meeting, called by participants a \"therapy night\", to discuss a breakdown in relations with the United States after President Trump threatened to take Greenland from Denmark. Macron said \"there is no turning back\" and warned Europe’s overreliance on the US posed a security risk. Several leaders complained the Trump administration appears more focused on mining and energy deals than traditional US security roles; Denmark’s prime minister appeared visibly alarmed. Italy’s Meloni said engagement with Trump was still possible. Leaders said they were exploring different paths from the US but had not pursued a formal split; rising mutual distrust will test alliance cohesion at this week’s NATO summit."
+    },
+    {
+      "id": "4972327",
+      "time": "2026-07-06 18:49:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "CSQUARE 遞交 IPO 招股書，擬發售 5000 萬股，本次 IPO 最高募資 13.5 億美元。"
+    },
     {
       "id": "4972326",
       "time": "2026-07-06 18:48:21",
