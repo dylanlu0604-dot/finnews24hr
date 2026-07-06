@@ -1,7 +1,70 @@
 {
   "date": "2026-07-06",
-  "count": 1029,
+  "count": 1036,
   "items": [
+    {
+      "id": "4971803",
+      "time": "2026-07-06 14:44:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，天力複合跌11.63%，萬達軸承跌7.84%，星圖測控跌7.70%，開特股份跌7.25%。"
+    },
+    {
+      "id": "te:markets:564365",
+      "time": "2026-07-06 14:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Muted Open — European equity markets were set to open flat to slightly lower on Monday after reaching record highs last week, as investors turned their focus to the start of the earnings season. Traders also awaited a fresh batch of S&P Global PMI reports from across Europe for further insight into the health of the regional economy. In the US, attention will center on the minutes of the Federal Reserve’s June policy meeting for fresh clues on the interest rate outlook, as expectations for a near-term Fed rate hike have eased. Meanwhile, investors continued to assess the sustainability of the artificial intelligence trade amid growing concerns over whether heavy investment in the sector will ultimately translate into stronger profits. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.1%."
+    },
+    {
+      "id": "4971802",
+      "time": "2026-07-06 14:42:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃板塊震盪下挫，群興玩具尾盤跌停】算力租賃板塊震盪下挫，群興玩具尾盤跌停，行雲科技跌超10%，中科金財此前跌停，潤建股份、資料港、軟通動力跌幅居前。"
+    },
+    {
+      "id": "4971801",
+      "time": "2026-07-06 14:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度孟買連日暴雨已致10人死亡】據印度媒體6日報道，孟買自6月末以來連遭暴雨侵襲，一週內已造成10人死亡。(新華社)"
+    },
+    {
+      "id": "4971800",
+      "time": "2026-07-06 14:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【誠邁科技成立新公司，含工業機器人業務】企查查APP顯示，近日，北京誠邁科技有限公司成立，經營範圍包含：計算機軟硬體及輔助裝置批發；工業機器人銷售；工業機器人安裝、維修等。企查查股權穿透顯示，該公司由誠邁科技間接全資持股。"
+    },
+    {
+      "id": "4971799",
+      "time": "2026-07-06 14:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【穆迪警告亞太地區私募信貸擴張將放緩】穆迪評級稱，未來12至18個月，亞太地區私募信貸的募資和投資增長將放緩，宏觀經濟不確定性、地緣政治緊張局勢以及利率上升將抑制投資者對低流動性資產的投資意願。穆迪分析師Sean Hung在週一的一份報告中寫道，全球私募信貸基金面臨的贖回壓力導致市場對流動性條款的審查更加嚴格，這可能會抑制流向亞太的增量資金，尤其是來自零售和財富管理渠道的資金。"
+    },
+    {
+      "id": "4971798",
+      "time": "2026-07-06 14:40:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲4%，現報4698.00元。"
+    },
     {
       "id": "4971797",
       "time": "2026-07-06 14:39:20",

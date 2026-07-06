@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-06 14:41:03",
-  "count": 13040,
+  "updated": "2026-07-06 14:44:54",
+  "count": 13030,
   "items": [
+    {
+      "id": "4971803",
+      "time": "2026-07-06 14:44:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，天力複合跌11.63%，萬達軸承跌7.84%，星圖測控跌7.70%，開特股份跌7.25%。"
+    },
+    {
+      "id": "te:markets:564365",
+      "time": "2026-07-06 14:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Muted Open — European equity markets were set to open flat to slightly lower on Monday after reaching record highs last week, as investors turned their focus to the start of the earnings season. Traders also awaited a fresh batch of S&P Global PMI reports from across Europe for further insight into the health of the regional economy. In the US, attention will center on the minutes of the Federal Reserve’s June policy meeting for fresh clues on the interest rate outlook, as expectations for a near-term Fed rate hike have eased. Meanwhile, investors continued to assess the sustainability of the artificial intelligence trade amid growing concerns over whether heavy investment in the sector will ultimately translate into stronger profits. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.1%."
+    },
+    {
+      "id": "4971802",
+      "time": "2026-07-06 14:42:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃板塊震盪下挫，群興玩具尾盤跌停】算力租賃板塊震盪下挫，群興玩具尾盤跌停，行雲科技跌超10%，中科金財此前跌停，潤建股份、資料港、軟通動力跌幅居前。"
+    },
+    {
+      "id": "4971801",
+      "time": "2026-07-06 14:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度孟買連日暴雨已致10人死亡】據印度媒體6日報道，孟買自6月末以來連遭暴雨侵襲，一週內已造成10人死亡。(新華社)"
+    },
+    {
+      "id": "4971800",
+      "time": "2026-07-06 14:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【誠邁科技成立新公司，含工業機器人業務】企查查APP顯示，近日，北京誠邁科技有限公司成立，經營範圍包含：計算機軟硬體及輔助裝置批發；工業機器人銷售；工業機器人安裝、維修等。企查查股權穿透顯示，該公司由誠邁科技間接全資持股。"
+    },
+    {
+      "id": "4971799",
+      "time": "2026-07-06 14:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【穆迪警告亞太地區私募信貸擴張將放緩】穆迪評級稱，未來12至18個月，亞太地區私募信貸的募資和投資增長將放緩，宏觀經濟不確定性、地緣政治緊張局勢以及利率上升將抑制投資者對低流動性資產的投資意願。穆迪分析師Sean Hung在週一的一份報告中寫道，全球私募信貸基金面臨的贖回壓力導致市場對流動性條款的審查更加嚴格，這可能會抑制流向亞太的增量資金，尤其是來自零售和財富管理渠道的資金。"
+    },
+    {
+      "id": "4971798",
+      "time": "2026-07-06 14:40:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲4%，現報4698.00元。"
+    },
     {
       "id": "4971797",
       "time": "2026-07-06 14:39:20",
@@ -119861,173 +119924,6 @@
         "國際"
       ],
       "text": "【歐元區債券收益率微升，德國國債收益率下行空間料將受限】歐元區政府債券收益率在早盤交易中微升，這可能表明收益率進一步下跌的空間有限。德國商業銀行的Rainer Guntermann在一份報告中表示，對石油、通脹以及歐洲央行在葡萄牙辛特拉舉行的論壇的關注，可能會限制德國國債收益率的下行空間。“儘管接近戰前水平的油價降低了經濟增長、通脹和利率波動的尾部風險，但通脹下降的速度可能不足以消除歐洲央行的鷹派立場，“這位利率策略師表示。週一的政府債券供應將來自比利時，該國將拍賣26億至30億歐元的2034年、2041年和2056年到期的債券（即OLO）。根據Tradeweb的資料，10年期德國國債收益率微升0.9個基點，至2.859%。"
-    },
-    {
-      "id": "4959894",
-      "time": "2026-06-29 14:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國企業押注AI提升勞動效率化解用工荒 有望釋放3000億歐元增長潛力】在經歷多年增長停滯後，彭博經濟研究預計，未來十年人工智慧每年可為德國經濟增長貢獻0.2至0.7個百分點，對應累計產出最高可達3230億歐元（約合3680億美元）。"
-    },
-    {
-      "id": "mkt:019f121f-16e4-7aab-8c0b-76606bbdf310",
-      "time": "2026-06-29 14:44:15",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Bank of England chief economist Pill: policymakers must not be complacent on inflation】Bank of England chief economist Pill said he voted at the past two Monetary Policy Committee meetings to raise Bank Rate to 4%, citing concern that inflation remains above the Bank’s 2% target and could rise further if Middle East-related energy prices increase. He warned policymakers should not be complacent, saying inflation one percentage point above target would historically be treated as a problem and that, after a prior peak near 11%, it is risky to start viewing 3% as acceptable. Pill added that voting against the majority is difficult; his dissent was not for effect and, while he generally tends to support the committee view even when doubtful, he recorded a contrary vote."
-    },
-    {
-      "id": "4959893",
-      "time": "2026-06-29 14:44:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【博雷頓釋出無人駕駛通用智駕大模型，面向礦山作業場景】6月29日，博雷頓推出面向礦山場景的無人駕駛通用智駕大模型。據瞭解，該模型可透過多模態感測器感知礦區環境，利用4D時空融合模型識別道路、車輛、障礙物、裝載區和排土區等變化，並透過規控PNP模型進行類人駕駛決策。模型還可結合真實運營資料和虛擬訓練進行迭代。博雷頓稱，該模型將與其無人電動礦卡、光儲微網和礦山運營資料結合使用，形成面向礦山生產場景的AI系統。在該系統中，智駕大模型主要用於任務識別、路徑規劃和排程；無人電動礦卡負責運輸作業；光儲微網用於車輛補能；礦區運營資料則用於模型訓練和系統執行。"
-    },
-    {
-      "id": "4959892",
-      "time": "2026-06-29 14:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天算星座新增北京、合肥地面站 完成全國組網接入】今日，在北京海淀區中關村舉辦的2026全球數字經濟大會太空算力論壇上，天算星座地面站新站啟動及全國組網接入環節取得標誌性落地成果，北京、合肥兩座全新地面站正式投入執行。此前，天算星座已建成華東地面站和華南地面站，初步形成多區域協同的星地通訊與算力服務支撐體系。北京、合肥兩座地面站投運後，將進一步增強天算星座的衛星測控、資料接收、任務排程和星地協同計算能力，為我國太空算力網路建設、空天地一體化服務和未來商業航天應用拓展提供新的基礎設施支撐。目前，天算星座累計發射了包括北郵一號、二號、三號在內的八顆衛星，產出了包括全球首個星載5G核心網系統、全球首個雲原生衛星平臺、雙核心高可靠衛星原生作業系統RROS以及太空伺服器等成果。"
-    },
-    {
-      "id": "mkt:019f121e-d610-7aab-8c0b-6ee2d39cb2b2",
-      "time": "2026-06-29 14:43:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "603986.SS",
-        "Impact bullish"
-      ],
-      "text": "GigaDevice's A-share neared the daily limit-up as turnover topped RMB 40 billion, a record high."
-    },
-    {
-      "id": "mkt:019f121e-b1d0-7aab-8c0b-62b048b3e337",
-      "time": "2026-06-29 14:43:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Japan deploys missile launcher to easternmost island Minami-Tori-shima for first time】Japan's Ground Self-Defense Force posted on social media on the 28th that it has deployed a Type 12 shore-to-ship missile launcher and other equipment to Minami-Tori-shima in Tokyo's Ogasawara Islands. This is the first deployment of shore-to-ship missile equipment to the island, Japan's easternmost territory."
-    },
-    {
-      "id": "4959891",
-      "time": "2026-06-29 14:43:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【太空作業系統開源標準體系釋出】今日，在北京海淀區舉辦的2026全球數字經濟大會太空算力論壇上，太空作業系統開源標準體系正式釋出，據介紹，其面向算力衛星規模化在軌部署和太空算力網路建設需求，系統定義應用服務介面、地面控制編排、星上執行執行時、核心與硬體抽象及一致性測試、模擬驗證、數字孿生等工具鏈，形成開放統一的作業系統標準框架。成果將推動衛星軟體介面統一、資源高效排程、任務跨星協同和服務標準交付，支撐太空算力從專案能力走向產業能力，為未來商業化應用和生態協同奠定基礎。"
-    },
-    {
-      "id": "4959890",
-      "time": "2026-06-29 14:43:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【海信家電：公司旗下移動空調在歐洲多國脫銷】6月下旬以來，歐洲大範圍高溫拉動製冷家電剛需爆發，證券時報e公司記者獲悉，海信空調銷售資料顯示，今年前6個月，海信空調西歐市場銷售額同比增長超20%，法國市場同比增幅超100%。此外，海信旗下移動空調在德國、法國等歐洲多國持續脫銷，終端呈現“一機難求”的熱銷態勢。"
-    },
-    {
-      "id": "4959889",
-      "time": "2026-06-29 14:43:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.3萬億元，較上日此時縮量210億元。"
-    },
-    {
-      "id": "4959888",
-      "time": "2026-06-29 14:43:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST春天盤中漲停，上演“地天板”，現報5.17元，成交額3997.31萬元。"
-    },
-    {
-      "id": "4959887",
-      "time": "2026-06-29 14:43:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兆易創新逼近漲停 成交額創新高記錄】兆易創新A股逼近漲停，成交額突破400億元，重新整理歷史新高記錄，今年以來日均成交額同比上漲417%；截至發稿時間兆易創新A股價漲幅為9.48%年初至今股價累計漲幅超260%。兆易創新港股漲幅為13%，年初至今股價累計漲幅超560%。訊息面上，全球最火記憶體ETF-Roundhill Memory ETF（DRAM）6月首次納入A股兆易創新，權重2.91%，直接位列第8大重倉。"
-    },
-    {
-      "id": "te:markets:562458",
-      "time": "2026-06-29 14:42:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Up 0.7% at Close — Australia’s ASX 200 rose 59 points, or 0.7%, to end at 8,823 on Monday, building strength from the prior session amid a sharp rise in U.S. stock futures as Washington and Tehran reportedly agreed to halt hostilities and resume peace talks. Sentiment was also lifted by strong growth in China’s industrial profits over the first five months of 2026, highlighting resilience in Australia’s key trading partner. However, caution emerged ahead of China’s June PMI data later this week, both from officials and a private survey. Meanwhile, the Reserve Bank’s June minutes will also be due, with investors wary that the central bank may retain its tightening bias to rein in inflation. Commercial services, consumer non-durables, and healthcare drove the gains. Strong iron ore prices supported BHP Group (1.4%) and Fortescue (2.4%). Ramelius Resources climbed 2.3% after agreeing to sell its Edna May Gold Hub. Neuren Pharmaceuticals surged 36.1% on EU approval for its Rett syndrome drug."
-    },
-    {
-      "id": "4959886",
-      "time": "2026-06-29 14:42:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "mkt:019f121c-d718-7aab-8c0b-5fdffd4d4547",
-      "time": "2026-06-29 14:41:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "03986.HK",
-        "Impact bullish",
-        "01347.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong semiconductor stocks strengthened in afternoon trade. Zhaoyi Innovation (03986.HK) jumped over 14%, Huahong Hongli (01347.HK) rose more than 8%, SMIC (00981.HK) gained about 5%, while Shanghai Fudan (01385.HK) and Lanqi Technology (06809.HK) also advanced."
-    },
-    {
-      "id": "4959885",
-      "time": "2026-06-29 14:41:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股半導體板塊午後震盪走強，兆易創新(03986.HK)漲超14%，華虹宏力(01347.HK)漲超8%，中芯國際(00981.HK)漲超5%，上海復旦(01385.HK)、瀾起科技(06809.HK)等跟漲。"
-    },
-    {
-      "id": "4959884",
-      "time": "2026-06-29 14:41:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華電集團在西藏成立水電開發公司 註冊資本30億元】企查查APP顯示，近日，華電（西藏）水電開發有限公司成立，註冊資本30億元，經營範圍包含發電技術服務；風力發電技術服務；太陽能發電技術服務等。企查查股權穿透顯示，該公司由中國華電集團有限公司全資持股。"
-    },
-    {
-      "id": "4959883",
-      "time": "2026-06-29 14:41:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【87克金項鍊維修後“蒸發”11克？上海老廟黃金涉事門店回應】今日有媒體報道稱，寧波的胡先生2019年買了一條87克的金項鍊，當時的黃金單價還是320元。6月19號，他把項鍊拿到上海老廟黃金寧波餘姚南雷路店裡進行維修，說是原來戴上項鍊，“應該到我胸毛的這個地方”，現在明顯短了一截，一稱發現只有75克了。”報道中，胡先生稱，“前幾天發現（項鍊）有一點點開裂，所以送來店裡進行維修，修之前沒有復秤過，我當時也匆匆忙忙拿走了，回家以後發現短了好多，稱了一下嚇了一大跳，只有75.6克了。”對此，老廟黃金寧波餘姚南雷路店方老闆強調，“他轉身在操作檯上修復項鍊，只用了一兩分鐘。”至於為何沒有在維修前復秤項鍊，其表示，“當時也是疏忽，因為當時它掛在釦子上面是斷開的，顧客也在看，我把它夾緊直接碰到位後直接焊上去，其他沒有什麼操作。”"
     }
   ]
 }
