@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-07 01:25:09",
-  "count": 13750,
+  "updated": "2026-07-07 01:28:59",
+  "count": 13753,
   "items": [
+    {
+      "id": "mkt:019f3878-f634-7aab-8cba-4bbd8a950287",
+      "time": "2026-07-07 01:27:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli official says it does not plan to establish permanent military bases in the southern Lebanon security zone."
+    },
+    {
+      "id": "4972935",
+      "time": "2026-07-07 01:27:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國電力短缺問題持續加劇，該國政府無力支付能源費用，過去兩週每日計劃性限電負荷最高達3350兆瓦。"
+    },
+    {
+      "id": "mkt:019f3876-1cf4-7aab-8cba-458705ec8f8e",
+      "time": "2026-07-07 01:24:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "MPC.O"
+      ],
+      "text": "Marathon's Detroit refinery in Michigan restored power after an outage."
+    },
     {
       "id": "mkt:019f3874-ec83-7aab-8cba-3dac45bbd52e",
       "time": "2026-07-07 01:23:34",
