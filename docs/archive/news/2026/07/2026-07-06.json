@@ -1,7 +1,37 @@
 {
   "date": "2026-07-06",
-  "count": 274,
+  "count": 277,
   "items": [
+    {
+      "id": "te:economy:564253",
+      "time": "2026-07-06 08:36:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Growth at 4-Month High — The S&P Global Hong Kong SAR PMI increased to 52.0 in June 2026 from 50.4 in May, marking a second consecutive month of expansion in private-sector activity. It was the strongest growth in the private sector since February, supported by stronger upturns in output and new orders. New orders grew for the second straight month, driven by improving demand and greater spending during the World Cup, with growth supported by both domestic and overseas demand."
+    },
+    {
+      "id": "4971246",
+      "time": "2026-07-06 08:35:28",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：亞洲貨幣在可能出現頭寸調整之際盤整】在美國長週末假期過後可能出現頭寸調整之際，亞洲貨幣兌美元盤整。澳洲聯邦銀行全球經濟與市場研究團隊在一份研究報告中表示，本週美聯儲6月會議紀要是關鍵的事件風險。該團隊表示：“市場參與者將仔細研讀會議紀要，以尋找與會議上偏緊縮言論相印證或形成對比的線索。“不過，該團隊補充道：“鑑於[美聯儲主席]Warsh認為美聯儲過去提供了太多的指引，會議紀要可能比平時更短，或者提供的見解更少。“"
+    },
+    {
+      "id": "4971245",
+      "time": "2026-07-06 08:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我海軍83艦編隊抵達越南進行友好訪問】正在執行遠海綜合實習訪問任務的中國海軍83艦編隊5日抵達胡志明市，開始對越南進行為期4天的友好訪問。 中國海軍戚繼光艦、崑崙山艦駛入胡志明市附近海域後，在越南海軍艦艇引導下，駛向蓮花港。10時許，戚繼光艦靠泊蓮花港碼頭，中國駐胡志明市總領館工作人員、當地華人華僑代表、越南海軍官兵和胡志明市人民委員會代表等180餘人到碼頭迎接。隨艦實習出訪的海軍院校學員在甲板分割槽列隊，向歡迎人群揮手致意。 訪問期間，戚繼光艦將舉行艦艇開放活動，編隊官兵將赴越南海軍部隊和胡志明人文社科大學等參訪、座談，並開展球類友誼賽等活動。編隊還將於8日晚在戚繼光艦舉行甲板招待會。 （解放軍報）"
+    },
     {
       "id": "te:markets:564252",
       "time": "2026-07-06 08:32:26",

@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-06 08:35:02",
-  "count": 13055,
+  "updated": "2026-07-06 08:38:59",
+  "count": 13054,
   "items": [
+    {
+      "id": "te:economy:564253",
+      "time": "2026-07-06 08:36:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Growth at 4-Month High — The S&P Global Hong Kong SAR PMI increased to 52.0 in June 2026 from 50.4 in May, marking a second consecutive month of expansion in private-sector activity. It was the strongest growth in the private sector since February, supported by stronger upturns in output and new orders. New orders grew for the second straight month, driven by improving demand and greater spending during the World Cup, with growth supported by both domestic and overseas demand."
+    },
+    {
+      "id": "4971246",
+      "time": "2026-07-06 08:35:28",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：亞洲貨幣在可能出現頭寸調整之際盤整】在美國長週末假期過後可能出現頭寸調整之際，亞洲貨幣兌美元盤整。澳洲聯邦銀行全球經濟與市場研究團隊在一份研究報告中表示，本週美聯儲6月會議紀要是關鍵的事件風險。該團隊表示：“市場參與者將仔細研讀會議紀要，以尋找與會議上偏緊縮言論相印證或形成對比的線索。“不過，該團隊補充道：“鑑於[美聯儲主席]Warsh認為美聯儲過去提供了太多的指引，會議紀要可能比平時更短，或者提供的見解更少。“"
+    },
+    {
+      "id": "4971245",
+      "time": "2026-07-06 08:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我海軍83艦編隊抵達越南進行友好訪問】正在執行遠海綜合實習訪問任務的中國海軍83艦編隊5日抵達胡志明市，開始對越南進行為期4天的友好訪問。 中國海軍戚繼光艦、崑崙山艦駛入胡志明市附近海域後，在越南海軍艦艇引導下，駛向蓮花港。10時許，戚繼光艦靠泊蓮花港碼頭，中國駐胡志明市總領館工作人員、當地華人華僑代表、越南海軍官兵和胡志明市人民委員會代表等180餘人到碼頭迎接。隨艦實習出訪的海軍院校學員在甲板分割槽列隊，向歡迎人群揮手致意。 訪問期間，戚繼光艦將舉行艦艇開放活動，編隊官兵將赴越南海軍部隊和胡志明人文社科大學等參訪、座談，並開展球類友誼賽等活動。編隊還將於8日晚在戚繼光艦舉行甲板招待會。 （解放軍報）"
+    },
     {
       "id": "te:markets:564252",
       "time": "2026-07-06 08:32:26",
@@ -120301,38 +120331,6 @@
         "MKT News"
       ],
       "text": "【RBA deputy governor says central bank better placed to handle next crisis】RBA deputy governor Kent said a review of alternative monetary tools leaves the central bank better able to respond to future shocks. He said the cash rate target remains the primary instrument, while other tools can provide additional support in exceptional periods but are more complex and carry greater risks. Kent referenced the MPC’s newly released framework for supplementary tools in a low-rate environment and said the Committee may be less tolerant of inflation undershooting the 2%–3% target range when rates are low. He added that, in that scenario, the bank could consider lowering the cash rate target earlier and more decisively to counter deflationary shocks."
-    },
-    {
-      "id": "mkt:019f10cf-428e-7aab-8c04-e256f296fe91",
-      "time": "2026-06-29 08:37:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhifang completes financing near CNY5.0bn】June 29 — Embodied-intelligence firm Zhifang completed a series of financings totaling nearly CNY5.0bn (~$700m), lifting its valuation above CNY20.0bn and making it the first embodied-intelligence company in the Guangdong‑Hong Kong‑Macao Greater Bay Area to exceed CNY20.0bn."
-    },
-    {
-      "id": "4959343",
-      "time": "2026-06-29 08:36:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智平方完成最新融資近50億，成為大灣區首個估值超200億的具身智慧獨角獸】具身智慧企業智平方完成一系列新融資，融資總額近50億元人民幣（約7億美金），估值飆升至超200億元，成為粵港澳大灣區首個估值正式突破200億的具身智慧企業。公司獲國家中小企業基金、中國文化產業基金、廣東省人工智慧基金、南山戰新投、粵港澳大灣區系列基金等區域重點平臺持續加碼，達晨財智、敦鴻資產、道得投資、錫創投、梁創投等老股東持續追加投資。產業生態方面，中國生物製藥（正大集團）、康龍化成、茅臺集團、招商局資本、五洲新春、萬豐控股、中貝通訊等多家產業龍頭跟投。此外，多家特斯拉核心生態鏈企業也重倉加持。這次融資完成後，智平方將加速推進“機器人大腦”的迭代升級與規模化量產程序。"
-    },
-    {
-      "id": "4959341",
-      "time": "2026-06-29 08:35:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佳兆業資本：全資附屬公司與科技企業訂立戰略合作協議】佳兆業資本在港交所公告，公司全資附屬公司億裕亞太有限公司近日與一家科技企業訂立戰略合作協議。該合作方為全球領先的AI算力供應商，以開創性國產自研AI晶片技術為核心，致力於提供具備高效能、低延時、高算力價效比的新一代AI計算平臺。雙方將整合各自的核心優勢，共同拓展國產AI晶片、算力產品及配套解決方案於國內外多元化工業場景的實際應用。"
-    },
-    {
-      "id": "4959340",
-      "time": "2026-06-29 08:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐西蘭環保人士發起訴訟，質疑氣候法案修訂計劃】一名紐西蘭氣候活動人士於週一表示，他已向高等法院提起訴訟，挑戰司法部長保羅・戈德史密斯修訂氣候相關法律的方案；該修訂方案旨在禁止民間針對大型溫室氣體排放企業發起索賠訴訟。毛利族長者邁克・史密斯申請對政府的一項決定進行司法複核。政府計劃修訂《2002 年氣候變化應對法案》，禁止法院裁定企業需為溫室氣體排放造成的氣候相關損害承擔民事侵權責任。本次擬議修訂將適用於當下及未來所有相關案件，其中也包括史密斯針對六家大型排放企業提起的訴訟。史密斯在宣告中稱，政府在未給予其公平申訴程式的情況下干預未審結案件，該行為涉嫌違法。他請求法院作出裁定，認定戈德史密斯的相關表態以及內閣背後作出的該項決議不具備合法性。"
     }
   ]
 }
