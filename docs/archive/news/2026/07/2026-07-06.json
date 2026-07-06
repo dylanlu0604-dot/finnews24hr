@@ -1,7 +1,86 @@
 {
   "date": "2026-07-06",
-  "count": 556,
+  "count": 565,
   "items": [
+    {
+      "id": "mkt:019f3541-bcec-7aab-8ca8-e759f4411a1d",
+      "time": "2026-07-06 10:28:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee orders fast-track for major chip and AI projects, demands pre-secured power and water】South Korea's Lee on Monday instructed officials to rapidly advance last week's major chip and AI projects, warning that delays in permitting, land acquisition or securing power and water could undermine the country's push to lead advanced industries. He ordered a shift from sequential to parallel processing of approvals, demanded shorter environmental assessments and other permit timelines, and required pre-provisioning of electricity and water infrastructure, saying power will be especially critical for chip plants. Lee cited the Yongin industrial park—which took six years from site confirmation to groundbreaking—as a relative speed benchmark and told officials to resolve firms' concerns about baseload supply despite expanding renewable capacity."
+    },
+    {
+      "id": "4971439",
+      "time": "2026-07-06 10:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大至2%，SK海力士跌超4%。"
+    },
+    {
+      "id": "4971438",
+      "time": "2026-07-06 10:28:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報15441.025點；上證指數跌0.36%，現報4029.055點；創業板指跌1.70%，現報3951.739點。"
+    },
+    {
+      "id": "mkt:019f3541-8ad9-7aab-8ca8-dbc9dea55b30",
+      "time": "2026-07-06 10:28:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Flood Control and Drought Relief Headquarters activates level-4 flood emergency for Anhui, Shandong】The National Flood Control and Drought Relief Headquarters activated a level-4 flood emergency for Anhui and Shandong at 08:00 on July 6, citing meteorological forecasts for heavy rain from July 6–7. Forecast: parts of central-northern Anhui and central-southern Shandong will receive heavy rain; northern Anhui and southern Shandong may see torrential downpours and short-duration intense rainfall, with peak hourly rates of 30–60 mm and local maxima above 90 mm."
+    },
+    {
+      "id": "te:markets:564290",
+      "time": "2026-07-06 10:27:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Equities Rise for Fourth Session on Fiscal Moves — Indonesian shares extended gains Monday, rising 39 points or 0.7% to 5,916 in early trade, marking a fourth straight advance and a one-week high. Sentiment was supported by stronger U.S. futures after Wall Street’s solid week, with investors eyeing minutes from the Federal Reserve’s June meeting due later this week. Local confidence was also lifted by reports that authorities are trimming further allocations for President Prabowo’s free meal program to ease fiscal strain, including reducing distribution to four days a week from previously five. On the monetary side, recent rate hikes have steadied the rupiah, though Fitch Ratings warned that prolonged foreign reserves declines could weigh on Indonesia’s credit profile. Gains were broad-based, led by basic materials, energy, and technology, though caution lingered ahead of China’s CPI and PPI data. Standout movers included Energi Mega Persada (4.7%), TBS Energi Utama (4.3%), Indika Energy (3.1%), and MD Entertainment (3.0%)."
+    },
+    {
+      "id": "4971437",
+      "time": "2026-07-06 10:26:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量437億元。"
+    },
+    {
+      "id": "4971436",
+      "time": "2026-07-06 10:25:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【大宗商品價格走軟或致澳大利亞陷入貿易逆差】隨著進口飆升而出口增長停滯，礦業繁榮對澳大利亞貿易的提振效應似乎正在消退，該國可能將面臨自2016年以來首次年度貿易逆差。今年以來，由於資料中心建設熱潮推動澳洲燃料和裝置進口激增，而出口卻陷入停滯，商品貿易順差大幅收窄。這一趨勢似乎將持續，澳大利亞政府預測本財年主要大宗商品出口收入較上一財年僅增長3%。礦業投資繁榮曾帶動鐵礦石、天然氣等出口大幅增長，推動經濟多年擴張和財富積累。但重返逆差或將施壓澳元，並制約政府財政空間。經濟學家詹姆斯·麥金太爾表示：“預計大宗商品價格下滑將對出口收入構成壓力。因此，過去十年間錄得的貿易順差及偶爾的經常賬戶盈餘，可能會讓位於逆差格局。”"
+    },
+    {
+      "id": "4971435",
+      "time": "2026-07-06 10:25:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PCB概念震盪走弱 國際復材、德福科技跌超10%】PCB概念震盪走弱，上游CCL產業鏈領跌，國際復材、德福科技跌超10%，南亞新材、中材科技、中國巨石、宏和科技等跟跌。"
+    },
+    {
+      "id": "4971434",
+      "time": "2026-07-06 10:25:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CRO概念震盪反彈，美諾華漲停】CRO概念震盪反彈，美諾華漲停，峆一藥業漲超10%，萬邦醫藥、和元生物、博騰股份、普蕊斯、石藥景峰等跟漲。"
+    },
     {
       "id": "mkt:019f353d-e525-7aab-8ca8-d2f41b9e6461",
       "time": "2026-07-06 10:24:36",
