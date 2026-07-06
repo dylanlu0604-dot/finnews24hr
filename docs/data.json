@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-07 04:47:53",
-  "count": 13903,
+  "updated": "2026-07-07 04:51:39",
+  "count": 13907,
   "items": [
+    {
+      "id": "4973017",
+      "time": "2026-07-07 04:50:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行市場預期調查顯示，阿根廷 2026 年末通脹預期為 30%，較此前預測值下調 0.5 個百分點。"
+    },
+    {
+      "id": "mkt:019f3932-b257-7aab-8cbc-4858582dcca4",
+      "time": "2026-07-07 04:50:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian prime minister Carney said Ottawa may retain flexibility to adjust the final number of submarines it will procure."
+    },
+    {
+      "id": "4973016",
+      "time": "2026-07-07 04:48:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：沃爾瑪是一家真正愛國的公司，其他零售商應該效仿沃爾瑪的做法。"
+    },
+    {
+      "id": "mkt:019f392f-c118-7aab-8cbc-469f6f889e27",
+      "time": "2026-07-07 04:47:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WMT.O"
+      ],
+      "text": "Trump says Walmart will cut the price of a one-pound pack of ground beef by nearly 15% and lower prices on a range of other items."
+    },
     {
       "id": "mkt:019f392f-817f-7aab-8cbc-383b749eab3d",
       "time": "2026-07-07 04:47:22",
