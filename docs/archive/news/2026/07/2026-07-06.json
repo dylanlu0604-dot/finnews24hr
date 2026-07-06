@@ -1,7 +1,108 @@
 {
   "date": "2026-07-06",
-  "count": 2123,
+  "count": 2134,
   "items": [
+    {
+      "id": "4972753",
+      "time": "2026-07-06 22:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛亞環保：宣佈派發第二批特別股息，每股普通股派0.092港元。"
+    },
+    {
+      "id": "4972752",
+      "time": "2026-07-06 22:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡普託：阿根廷的計劃不包括動用美國貨幣互換協議。"
+    },
+    {
+      "id": "4972751",
+      "time": "2026-07-06 22:27:44",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【招商證券：國產創新藥BD出海持續活躍，海外藥企加大對中國優質資產的關注】招商證券研報指出，本週產業集中在氟化工、玻璃基板和創新藥。近期氟化工板塊持續走強，核心邏輯在於供給約束與需求結構改善共同推動價格中樞上移。光通訊玻璃基板核心價值來自下游光通訊器件高速化、整合化和小型化過程中，對高精度光學材料和精密加工平臺的需求提升。國產創新藥BD出海持續活躍，海外藥企加大對中國優質資產的關注，推動市場重新評估國內創新藥的全球價值。"
+    },
+    {
+      "id": "4972750",
+      "time": "2026-07-06 22:27:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥總統辛鮑姆：巴西石油公司與墨西哥國家石油公司將在坎塔雷爾地區探索深水油氣資源。"
+    },
+    {
+      "id": "mkt:019f37d3-c786-7aab-8cb7-8569d91cc218",
+      "time": "2026-07-06 22:27:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's economy minister said the country's plan does not include drawing on US swap lines."
+    },
+    {
+      "id": "mkt:019f37d3-c37f-7aab-8cb7-7e074532bed9",
+      "time": "2026-07-06 22:27:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "President Sheinbaum said Brazil's oil company and Mexico's Pemex will jointly explore deepwater oil and gas resources in the Cantarell area."
+    },
+    {
+      "id": "4972749",
+      "time": "2026-07-06 22:27:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：印度政府宣佈將透過場內售股（OFS）減持科欽造船廠股份。印度方面表示，股價底價定為每股1400印度盧比。發行2.52%的股份，以及2.52%的超額配售選擇權。"
+    },
+    {
+      "id": "4972748",
+      "time": "2026-07-06 22:27:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【招商證券：展望7月份，宏觀層面，經濟呈現“總量邊際走弱、內外溫差拉大、新舊動能持續分化”的特徵 】招商證券研報指出，過去一個月A股先抑後揚，在美伊取得決定性進展、AI產業鏈漲價持續擴散的背景下，電子、建材、通訊等漲價材料和硬體持續走強。展望7月份，宏觀層面，經濟呈現“總量邊際走弱、內外溫差拉大、新舊動能持續分化”的特徵，油價中樞高位回落，美聯儲加息大機率落空；中觀層面行業配置線索推薦圍繞中報業績持續高增或改善的領域展開。結合中觀景氣、盈利能力、籌碼分佈、估值、交易、週期階段和賽道價值等多維度，本期推薦關注電子（半導體、元件）、電力裝置（電池、電網裝置）、機械裝置（自動化裝置、通用裝置）、有色（金屬新材料、工業金屬、小金屬）、基礎化工（非金屬材料、化學制品）、非銀（證券）等。"
+    },
+    {
+      "id": "te:economy:564528",
+      "time": "2026-07-06 22:26:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Slightly Down — The yield on the US 10-year Treasury note pared earlier losses to trade slightly lower at around 4.48% on Monday as investors returned from the long holiday weekend and digested the latest economic data. The ISM Services PMI pointed to a modest slowdown in services sector growth, broadly in line with expectations, while price pressures eased to their lowest level since February and employment rose by the most since late 2021. The report followed last week's softer-than-expected jobs data, which prompted investors to lower bets on Fed rate hikes this year. Meanwhile, oil prices have retreated to pre-conflict levels, helping to ease concerns over renewed inflationary pressures. Markets are now pricing in a 56% probability of a Fed rate cut as early as September, down from around 64% before the jobs report was released. Investors will turn their attention to the release of the FOMC minutes later this week for further clues on the Fed's policy outlook."
+    },
+    {
+      "id": "4972747",
+      "time": "2026-07-06 22:25:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部針對廣西啟動國家地質災害三級應急響應】受今年第10號颱風“美莎克”影響，7月3日以來，廣西部分地區發生群發地質災害。據氣象預測，7月6日至10日，廣西部分地區仍有大暴雨至特大暴雨，部分地區地質災害風險高，防範應對形勢嚴峻。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月6日將針對廣西的國家地質災害四級應急響應提升至三級應急響應。（新華社）"
+    },
+    {
+      "id": "te:markets:564527",
+      "time": "2026-07-06 22:25:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures at 2-Week Lows — Rice futures traded around $12.7 per hundredweight, their lowest in two-weeks, as supply fundamentals remained favorable despite weather-related risks. While El Niño could disrupt upcoming harvests, elevated inventories and expectations of near-normal conditions in key producing regions are expected to cushion the impact. Global rice stocks remain abundant after successive strong harvests, led by India. World milled rice inventories reached a record 196.2 million tons at the start of 2026, while India's stocks climbed to an all-time high of 68.4 million tons in June. The USDA expects India to export a record 25 million tons this year, with inventories also remaining elevated. Indonesia is also holding record stockpiles, while Thailand's inventories are at their highest in a decade, providing a buffer for the next crop."
+    },
     {
       "id": "4972746",
       "time": "2026-07-06 22:24:52",
