@@ -1,7 +1,80 @@
 {
   "date": "2026-07-07",
-  "count": 414,
+  "count": 422,
   "items": [
+    {
+      "id": "4973111",
+      "time": "2026-07-07 07:52:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油價上漲，因美伊料將恢復談判前可能出現頭寸調整】在伊朗前最高領袖阿里·哈梅內伊的葬禮結束後，美伊料將恢復談判，在此之前可能出現的頭寸調整推動油價在早盤交易中上漲。BankPro的Paolo Broccardo在一封電子郵件中表示：“美國和伊朗定於恢復談判。“該CEO表示：“隨著供應正常化推進，談判的持續進展可能會加劇近期價格的下行壓力。”Broccardo補充說：“相反，談判中的任何挫折都可能迅速逆轉這一走勢，並恢復原油的上漲勢頭。“近月西得州中質油期貨上漲0.4%，報每桶68.80美元。"
+    },
+    {
+      "id": "4973110",
+      "time": "2026-07-07 07:51:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家基金公司密集佈局自由現金流產品】7月6日，蘇新基金髮布公告稱，旗下蘇新中證800自由現金流指數增聘基金經理鮑浩政，與林茂政共同管理該產品。此前不久，匯添富基金旗下第三隻自由現金流ETF（交易型開放式指數基金）——300現金流ETF匯添富成立。近年來，基金公司持續加碼佈局自由現金流策略產品，該類指數產品正成為指數化投資創新的重要方向。截至7月6日，全市場自由現金流相關產品數量已達107只（包含50只聯接基金、29只ETF、28只普通場外指數基金），總規模達571.77億元，相較2026年初增長42.79%。（證券日報）"
+    },
+    {
+      "id": "4973109",
+      "time": "2026-07-07 07:51:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘液化天然氣運輸船在阿曼灣遭襲】霍爾木茲海峽附近海域一段船舶無線電公共頻道錄音顯示，當地時間7日凌晨，一艘液化天然氣運輸船在阿曼灣遇襲後多次發出遇險警報，稱船舶機艙起火，船上人員安全。這段由一名商船海員向記者提供的錄音中，遇襲船舶報告稱，其左舷遭到無人機襲擊，機艙起火併冒出濃煙，無法進一步評估船體受損情況，但全體船員安全，已在右舷集合。遇襲船舶請求附近海岸無線電臺及海軍力量提供支援。這名海員告訴記者，根據遇襲船舶報出的船名判斷，這是一艘液化天然氣運輸船。這類運輸船載有易燃貨物，遇襲後存在較高安全風險。（新華社）"
+    },
+    {
+      "id": "mkt:019f39d7-8dd8-7aab-8cbd-8781c5f9b39a",
+      "time": "2026-07-07 07:50:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【LNG carrier attacked in Gulf of Oman near Strait of Hormuz】Early on the 7th (local time), an LNG carrier in the Gulf of Oman near the Strait of Hormuz sent multiple distress calls after reporting a drone strike to its port side, a radio recording provided by a merchant seafarer shows. The vessel reported an engine-room fire and heavy smoke, said it could not further assess hull damage, and that all crew were safe and mustered on the starboard side. The ship requested assistance from nearby coastal radio stations and naval forces. The seafarer said the ship identification in the calls indicates it is carrying liquefied natural gas; such vessels carry flammable cargo and face elevated safety risk when attacked."
+    },
+    {
+      "id": "4973108",
+      "time": "2026-07-07 07:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部工作組指導颱風“美莎克”引發的水庫險情處置】從水利部瞭解到，昨天（6日）晚上，針對颱風“美莎克”引發的水庫漫頂以及缺口等險情，水利部工作組抵達廣西橫州一線，指導險情處置和洪水防禦。目前水利部維持對廣西洪水防禦Ⅱ級應急響應，各項搶險救援工作正在抓緊進行中。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607073795710177",
+      "time": "2026-07-07 07:50:34",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月外匯儲備12875億美元，前值13059億美元。"
+    },
+    {
+      "id": "mkt:019f39d6-d9df-7aab-8cbd-7d31912d494c",
+      "time": "2026-07-07 07:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's foreign exchange reserves fell to $1.2875 tln in June from $1.3059 tln in May."
+    },
+    {
+      "id": "mkt:019f39d6-b7ca-7aab-8cbd-72a22047f592",
+      "time": "2026-07-07 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Foreign Exchange Reserves (Jun) | actual 1287500000000B | previous 1305900000000B"
+    },
     {
       "id": "4973107",
       "time": "2026-07-07 07:48:15",
