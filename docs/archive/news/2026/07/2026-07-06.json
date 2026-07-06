@@ -1,7 +1,226 @@
 {
   "date": "2026-07-06",
-  "count": 2022,
+  "count": 2043,
   "items": [
+    {
+      "id": "4972701",
+      "time": "2026-07-06 22:00:45",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月ISM非製造業PMI 54，預期54，前值54.5。美國6月ISM非製造業新訂單指數 55.1，前值57.3。美國6月ISM非製造業就業指數 51.2，前值47.9。美國6月ISM非製造業物價指數 67.7，前值71.3。美國6月諮商會就業趨勢指數 106.69，前值107.01。"
+    },
+    {
+      "id": "mkt:019f37bb-07c6-7aab-8cb6-7e0fecae2ecd",
+      "time": "2026-07-06 22:00:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Conference Board Employment Trends Index (ETI) for June 106.69; prior 107.01."
+    },
+    {
+      "id": "mkt:019f37ba-e570-7aab-8cb6-77fc0bc26247",
+      "time": "2026-07-06 22:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Jun) | actual 106.69 | previous 107.01"
+    },
+    {
+      "id": "mkt:019f37ba-c2fb-7aab-8cb6-6f845d80c428",
+      "time": "2026-07-06 22:00:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US ISM Non-Manufacturing Prices Index (June) 67.7, prior 71.3."
+    },
+    {
+      "id": "mkt:019f37ba-afbe-7aab-8cb6-6234ce1be16f",
+      "time": "2026-07-06 22:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US ISM non-manufacturing new orders index for June 55.1, prior 57.3."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607063795458494",
+      "time": "2026-07-06 22:00:09",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月ISM非製造業PMI錄得54，預估54，前值54.5。"
+    },
+    {
+      "id": "mkt:019f37ba-ad63-7aab-8cb6-5c81428e3b43",
+      "time": "2026-07-06 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US ISM non-manufacturing PMI 54.0 in June, matching consensus 54.0 and down from May's 54.5."
+    },
+    {
+      "id": "mkt:019f37ba-ad14-7aab-8cb6-561257c66964",
+      "time": "2026-07-06 22:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US June ISM non-manufacturing employment index 51.2, prior 47.9."
+    },
+    {
+      "id": "mkt:019f37ba-8c37-7aab-8cb6-48314efcdae9",
+      "time": "2026-07-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Prices Index (Jun) | actual 67.7 | previous 71.3"
+    },
+    {
+      "id": "mkt:019f37ba-8c36-7aab-8cb6-4612016875c8",
+      "time": "2026-07-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services New Orders Index (Jun) | actual 55.1 | previous 57.3"
+    },
+    {
+      "id": "mkt:019f37ba-8c35-7aab-8cb6-3a04d172c8c9",
+      "time": "2026-07-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Employment Index (Jun) | actual 51.2 | previous 47.9"
+    },
+    {
+      "id": "mkt:019f37ba-8be9-7aab-8cb6-34d2f2db87d2",
+      "time": "2026-07-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services PMI (Jun) | actual 54 | consensus 54 | previous 54.5"
+    },
+    {
+      "id": "mkt:019f37ba-5fa5-7aab-8cb6-2d18f8b8b60e",
+      "time": "2026-07-06 21:59:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary General Rutte condemned the latest Russian attack on Ukraine."
+    },
+    {
+      "id": "4972699",
+      "time": "2026-07-06 21:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "呂特：譴責俄羅斯對烏克蘭的最新襲擊。"
+    },
+    {
+      "id": "4972698",
+      "time": "2026-07-06 21:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷財政國務秘書表示：由於財政盈餘，2027年將比2026年\"挑戰更小\"。"
+    },
+    {
+      "id": "4972697",
+      "time": "2026-07-06 21:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈梅內伊葬禮期間美伊談判進展全貌】\n在伊朗最高領袖阿亞圖拉·阿里·哈梅內伊（Ayatollah Ali Khamenei）的葬禮期間，美伊雙方在多哈舉行的間接談判宣告暫停。在此之前，雙方的接觸取得了一定進展，但區域內的複雜局勢依然對協議的落實構成嚴峻挑戰。\n核心進展：多哈間接談判\n上週，德黑蘭與華盛頓的官員前往卡達多哈舉行關於停火談判的間接接觸。卡達外交部發言人馬吉德·安薩里（Majed al-Ansari）於週三表示，美伊雙方在多哈舉行的獨立間接會晤取得了“積極進展”。下一次談判會議將在伊朗前最高領袖的葬禮遊行結束後，“在最早可能的時間”進行排期。\n\n美方立場：談判進展順利\n美國副總統萬斯於週三表示，談判“進展順利”，但他補充稱目前“仍處於相當早期的階段”。\n\n伊朗官方立場：停火可以談，但底線不變\n伊朗議長兼對美談判首席談判代表穆罕默德·巴蓋爾·卡利巴夫（Mohammad Bagher Ghalibaf）此前表示，落實伊朗與美國簽署的停火協議雖然“困難，但可以實現”。“伊朗不會與美國實現和平，也不會承認以色列。”與此同時，他再度表達了對抵抗之弧的支援。\n\n儘管美伊談判在推進，但地緣政治摩擦仍在持續：\n黎以協議與衝突加劇： 上月底，在美方斡旋下，黎巴嫩和以色列官員簽署協議，概述了以色列從黎巴嫩南部兩個地區撤軍的計劃。然而協議簽署後衝突並未停止。簽署僅兩天後，以色列便批准繼續在黎巴嫩南部開展軍事行動。受伊朗支援的黎巴嫩真主黨（Hezbollah）對該協議予以譴責，要求以色列必須完全撤出黎巴嫩。\n敘利亞外交介入： 7月2日，敘利亞過渡政府外交部長訪問貝魯特，與黎巴嫩官員舉行會談。這是自特朗普提出敘利亞介入黎巴嫩局勢的可能性以來，敘利亞外長的首次正式訪問。"
+    },
+    {
+      "id": "4972696",
+      "time": "2026-07-06 21:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比利時官員批評國際足聯暫緩執行巴洛貢停賽決定】在國際足聯決定暫緩執行美國隊球員巴洛貢世界盃停賽處罰後，當地時間6日，多名比利時官員紛紛對這一決定予以批評。當天，比利時副首相兼外交大臣馬克西姆·普雷沃說：“作為一名前足球裁判，我始終致力於維護規則，確保判罰公平公正。這項決定顯然引發了諸多疑問。” 普雷沃還表示，如果一通電話真的導致了這項令人費解的決定，那就等同於破壞足球和體育運動最基本的規則，並質疑國際足聯“能否切實倡導公平競賽”。（央視新聞）"
+    },
+    {
+      "id": "te:economy:564517",
+      "time": "2026-07-06 21:58:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Services Activity Contracts — Canada's S&P Global Services PMI fell from 50.6 in May to 47.1 in June 2026, signaling a renewed contraction in the services sector and the steepest decline in activity since February. Business activity weakened as new orders fell for a second straight month, with firms citing high prices and geopolitical uncertainty as key factors weighing on domestic and foreign demand. Meanwhile, employment increased marginally as companies added staff to expand capacity, helping reduce backlogs of work at the fastest pace since January. On the price front, input cost inflation eased sharply from May's four-year high but remained elevated due to higher energy, fuel, and wage costs. Selling price inflation also moderated to a three-month low as weaker demand limited firms' pricing power. Business confidence deteriorated for a second consecutive month, falling to its lowest level since November 2025."
+    },
+    {
+      "id": "4972695",
+      "time": "2026-07-06 21:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員克魯茲表示感謝特朗普廢除了“荒謬的”紅牌規則。"
+    },
+    {
+      "id": "4972694",
+      "time": "2026-07-06 21:58:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "GENUINE PARTS股價下跌4.2%。"
+    },
+    {
+      "id": "te:markets:564516",
+      "time": "2026-07-06 21:58:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Stocks Drop on Tariff Concerns — The Ibovespa fell more than 0.5% to trade below the 173,000 mark on Monday as investors awaited a public hearing in Washington on the US trade investigation into Brazil for the possibility of additional tariffs on Brazilian products. The hearing will consider imposing a 25% tariff on Brazilian goods following an investigation into the country's trade practices. The USTR said it had identified what it described as \"unreasonable\" practices. Shares of major exporters declined, with Vale down 0.7%, Petrobras losing 1%, and Minerva slipping 0.6%. Petrobras was also pressured by lower oil prices after OPEC+ agreed to raise its production target starting in August and shipping through the Strait of Hormuz continued to normalize. Other notable decliners included Bradesco (-2.6%), Ambev (-2.6%), WEG (-1.0%), and Rede D'Or (-1.6%)."
+    },
     {
       "id": "4972693",
       "time": "2026-07-06 21:56:42",
