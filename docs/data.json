@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-07 04:51:39",
-  "count": 13907,
+  "updated": "2026-07-07 04:55:24",
+  "count": 13912,
   "items": [
+    {
+      "id": "mkt:019f3934-b3a8-7aab-8cbc-61985545787f",
+      "time": "2026-07-07 04:53:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WMT.O"
+      ],
+      "text": "TRUMP said Walmart is acting \"boldly\" and urged other retailers to follow the example of the \"patriotic company\"."
+    },
+    {
+      "id": "mkt:019f3934-6cda-7aab-8cbc-5b3491d26126",
+      "time": "2026-07-07 04:52:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices slip on 6th】At the close, NYMEX August-delivery light crude futures fell $0.14 to $68.55/bbl, down 0.2%; ICE Brent September-delivery futures fell $0.13 to $71.99/bbl, down 0.18%."
+    },
+    {
+      "id": "mkt:019f3933-f276-7aab-8cbc-525cec70e927",
+      "time": "2026-07-07 04:52:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Argentina market expectations survey shows economists expect end-2026 inf at 30.0%, 0.5ppt below prior forecast; 2026 GDP growth seen at 3.0%, 0.1ppt above prior forecast."
+    },
+    {
+      "id": "4973019",
+      "time": "2026-07-07 04:51:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價6日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌14美分，收於每桶68.55美元，跌幅為0.2%；9月交貨的倫敦布倫特原油期貨價格下跌13美分，收於每桶71.99美元，跌幅為0.18%。"
+    },
+    {
+      "id": "4973018",
+      "time": "2026-07-07 04:51:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【7月7日美股成交額前20：SpaceX即將正式納入納斯達克100指數】第2名SpaceX收跌1.02%，成交296.98億美元。該公司將於7月7日美股開盤前正式納入納斯達克100指數，從6月12日登陸納斯達克到納入核心科技指數，僅15天，創下納斯達克100指數創立以來最快納入紀錄。摩根大通測算顯示，僅納指100一項，將吸引約43億美元被動資金強制買入SpaceX股票。如果計入同步納入MSCI和富時羅素全球指數體系的效應，全球被動基金在15個交易日內強制買入SpaceX的總規模可達約350億美元。"
+    },
     {
       "id": "4973017",
       "time": "2026-07-07 04:50:58",
