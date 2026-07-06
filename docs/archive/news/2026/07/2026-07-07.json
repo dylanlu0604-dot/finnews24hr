@@ -1,7 +1,47 @@
 {
   "date": "2026-07-07",
-  "count": 113,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:019f3874-ec83-7aab-8cba-3dac45bbd52e",
+      "time": "2026-07-07 01:23:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California Governor Newsom said anyone who assists Trump in interfering with California elections or vote counting will face criminal prosecution."
+    },
+    {
+      "id": "4972934",
+      "time": "2026-07-07 01:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州底特律市馬拉松煉油廠停電後已恢復供電。"
+    },
+    {
+      "id": "4972933",
+      "time": "2026-07-07 01:22:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際足聯不受理比利時足協申訴】國際足聯上訴委員會當地時間6日決定不受理比利時足協的上訴。國際足聯將維持此前作出的“允許美國隊球員巴洛貢紅牌禁賽暫緩一年執行、可以繼續出戰”的裁決。 據稱，國際足聯上訴委員會裁定不受理比利時的上訴，理由是比利時並非原程式的當事方，因此不具備質疑該項裁決的法律資格。 比利時足協也釋出宣告，證實已收到國際足聯上訴委員會關於“不受理申訴”的裁定。比利時足協稱，截至目前未獲得其索要的相關材料——即國際足聯宣佈巴洛貢具備參賽資格的決定副本及依據，以及裁判報告。比利時足協指出，這已構成對國際足聯相關規定的違反。 比利時足協補充道：“現已告知美國足協，如果巴洛貢出現在球隊名單中，比利時足協將對其參賽資格提出異議，並保留採取一切後續行動的權利。”"
+    },
+    {
+      "id": "mkt:019f3873-33c0-7aab-8cba-375b78adaf2a",
+      "time": "2026-07-07 01:21:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSA said US agencies have seized more than 600 drones near FIFA World Cup venues since June 12."
+    },
+    {
+      "id": "4972932",
+      "time": "2026-07-07 01:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運輸安全管理局（TSA）表示，自6月12日以來，美國機構在世界盃舉辦場地周邊扣押了600多架無人機。"
+    },
     {
       "id": "4972931",
       "time": "2026-07-07 01:20:00",
@@ -55,6 +95,15 @@
         "Impact bullish"
       ],
       "text": "【NVIDIA denies Kyber delay rumors; product roadmap unaffected】A NVIDIA spokesperson denied reports of a delay to the Kyber AI compute architecture and said the company’s product roadmap is unaffected. Research firm SemiAnalysis had reported Kyber suffered R&D setbacks and could be delayed about 12 months to 2028; the architecture was slated for the next‑generation Rubin Ultra GPU. Mizuho analyst Jordan Klein characterized similar delay chatter as attention‑grabbing noise. The report had limited market impact: NVIDIA shares rose roughly 1.2% intraday on Monday. Kyber is viewed as a material data‑center upgrade, employing a vertical‑rack design to boost compute density and cut network latency, and could lift demand for co‑packaged optics (CPO) in data centers."
+    },
+    {
+      "id": "em:qqyh_mlc:202607073795534450",
+      "time": "2026-07-07 01:16:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元】美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元，上個交易日報21.75億美元。"
     },
     {
       "id": "4972929",
