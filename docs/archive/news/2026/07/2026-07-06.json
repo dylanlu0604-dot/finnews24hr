@@ -1,7 +1,101 @@
 {
   "date": "2026-07-06",
-  "count": 348,
+  "count": 358,
   "items": [
+    {
+      "id": "4971301",
+      "time": "2026-07-06 09:17:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱亞馬遜AWS上調ASIC伺服器出貨量】AI伺服器供應鏈訊息稱，亞馬遜AWS通知相關供應鏈廠商，將上調2026年第三季度出貨量，估計較原本出貨再拉高二至三成，意味著AWS對Trainium 3銷售前景樂觀。"
+    },
+    {
+      "id": "te:economy:564261",
+      "time": "2026-07-06 09:16:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "MI Inflation Gauge MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Inflation Gauge Extends Decline — Australia’s Melbourne Institute Monthly Inflation Gauge fell 0.4% month-on-month in June 2026, following a 0.3% decline in May and marking its second consecutive monthly decrease. It was also the third monthly drop this year, pointing to easing price pressures across a broad range of goods and services. Recent data showed annual inflation slowed to 4.0% in May from 4.2% in April, as automotive fuel prices rose at a slower pace following the reduction in the fuel excise. Despite the moderation, inflation remained well above the central bank’s 2–3% target range, with underlying price pressures expected to strengthen in the June quarter."
+    },
+    {
+      "id": "mkt:019f34fe-d665-7aab-8ca7-1e65a180afec",
+      "time": "2026-07-06 09:15:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures opened down 0.07% at 23,282, trading 68 points below the cash index."
+    },
+    {
+      "id": "4971300",
+      "time": "2026-07-06 09:15:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5502.00元。"
+    },
+    {
+      "id": "4971299",
+      "time": "2026-07-06 09:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8066，較上日調低19點】人民幣兌美元中間價報6.8066，較上日調低19點。"
+    },
+    {
+      "id": "4971298",
+      "time": "2026-07-06 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.17%，報23259.80點，低水90.23點。"
+    },
+    {
+      "id": "4971297",
+      "time": "2026-07-06 09:14:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【穆迪：馬來西亞央行本週預計將維持利率不變】穆迪分析在一份報告中表示，預計馬來西亞央行週四將維持利率不變。得益於汽油價格上限，通脹依然受到控制，馬來西亞央行可能會到今年年底將隔夜政策利率維持在2.75%不變。穆迪表示，林吉特也保持穩定。該央行在6月份曾表示，認為目前隔夜政策利率(OPR)下的貨幣政策立場是適當的，並且與物價持續穩定和經濟可持續增長的前景相一致。"
+    },
+    {
+      "id": "mkt:019f34fd-c54c-7aab-8ca7-14d768ac8c82",
+      "time": "2026-07-06 09:14:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "South Korea's Lee said he will set up a committee in August to bolster the country's semiconductor competitiveness."
+    },
+    {
+      "id": "mkt:019f34fd-a892-7aab-8ca7-099f51cabd90",
+      "time": "2026-07-06 09:14:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash-product 7-day yield snapshot】Licaitong (demand + 7-day annualized) 7-day yield range 1.0700%–0.7540%; WeChat Wallet Lingqiantong 7-day annualized range 1.0180%–0.9480%; Alipay Yu’e Bao 7-day annualized range 1.0170%–1.0010%."
+    },
+    {
+      "id": "mkt:019f34fd-3e23-7aab-8ca7-00935cd92ddd",
+      "time": "2026-07-06 09:13:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Gree Electric and Geely sign strategic cooperation framework】Gree Electric Appliances and Geely signed a strategic cooperation framework agreement on July 3 following talks at Geely’s Global All-domain Safety Center. Gree chair Dong Mingzhu led an executive delegation and was hosted by Geely chair Li Shufu. The agreement targets collaboration on vehicle safety system development, smart-manufacturing coordination and construction of a shared digital ecosystem."
+    },
     {
       "id": "4971296",
       "time": "2026-07-06 09:13:29",

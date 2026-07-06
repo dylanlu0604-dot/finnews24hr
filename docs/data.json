@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-06 09:14:18",
-  "count": 13062,
+  "updated": "2026-07-06 09:18:11",
+  "count": 13061,
   "items": [
+    {
+      "id": "4971301",
+      "time": "2026-07-06 09:17:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱亞馬遜AWS上調ASIC伺服器出貨量】AI伺服器供應鏈訊息稱，亞馬遜AWS通知相關供應鏈廠商，將上調2026年第三季度出貨量，估計較原本出貨再拉高二至三成，意味著AWS對Trainium 3銷售前景樂觀。"
+    },
+    {
+      "id": "te:economy:564261",
+      "time": "2026-07-06 09:16:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "MI Inflation Gauge MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Inflation Gauge Extends Decline — Australia’s Melbourne Institute Monthly Inflation Gauge fell 0.4% month-on-month in June 2026, following a 0.3% decline in May and marking its second consecutive monthly decrease. It was also the third monthly drop this year, pointing to easing price pressures across a broad range of goods and services. Recent data showed annual inflation slowed to 4.0% in May from 4.2% in April, as automotive fuel prices rose at a slower pace following the reduction in the fuel excise. Despite the moderation, inflation remained well above the central bank’s 2–3% target range, with underlying price pressures expected to strengthen in the June quarter."
+    },
+    {
+      "id": "mkt:019f34fe-d665-7aab-8ca7-1e65a180afec",
+      "time": "2026-07-06 09:15:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures opened down 0.07% at 23,282, trading 68 points below the cash index."
+    },
+    {
+      "id": "4971300",
+      "time": "2026-07-06 09:15:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5502.00元。"
+    },
+    {
+      "id": "4971299",
+      "time": "2026-07-06 09:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8066，較上日調低19點】人民幣兌美元中間價報6.8066，較上日調低19點。"
+    },
+    {
+      "id": "4971298",
+      "time": "2026-07-06 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.17%，報23259.80點，低水90.23點。"
+    },
+    {
+      "id": "4971297",
+      "time": "2026-07-06 09:14:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【穆迪：馬來西亞央行本週預計將維持利率不變】穆迪分析在一份報告中表示，預計馬來西亞央行週四將維持利率不變。得益於汽油價格上限，通脹依然受到控制，馬來西亞央行可能會到今年年底將隔夜政策利率維持在2.75%不變。穆迪表示，林吉特也保持穩定。該央行在6月份曾表示，認為目前隔夜政策利率(OPR)下的貨幣政策立場是適當的，並且與物價持續穩定和經濟可持續增長的前景相一致。"
+    },
+    {
+      "id": "mkt:019f34fd-c54c-7aab-8ca7-14d768ac8c82",
+      "time": "2026-07-06 09:14:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "South Korea's Lee said he will set up a committee in August to bolster the country's semiconductor competitiveness."
+    },
+    {
+      "id": "mkt:019f34fd-a892-7aab-8ca7-099f51cabd90",
+      "time": "2026-07-06 09:14:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash-product 7-day yield snapshot】Licaitong (demand + 7-day annualized) 7-day yield range 1.0700%–0.7540%; WeChat Wallet Lingqiantong 7-day annualized range 1.0180%–0.9480%; Alipay Yu’e Bao 7-day annualized range 1.0170%–1.0010%."
+    },
+    {
+      "id": "mkt:019f34fd-3e23-7aab-8ca7-00935cd92ddd",
+      "time": "2026-07-06 09:13:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Gree Electric and Geely sign strategic cooperation framework】Gree Electric Appliances and Geely signed a strategic cooperation framework agreement on July 3 following talks at Geely’s Global All-domain Safety Center. Gree chair Dong Mingzhu led an executive delegation and was hosted by Geely chair Li Shufu. The agreement targets collaboration on vehicle safety system development, smart-manufacturing coordination and construction of a shared digital ecosystem."
+    },
     {
       "id": "4971296",
       "time": "2026-07-06 09:13:29",
@@ -120301,100 +120395,6 @@
         "公司"
       ],
       "text": "【千方科技：公司未開展光模組自研開發】千方科技(002373)6月29日在互動平臺回覆稱，宇視官網展示的交換路由、網橋、儲存、伺服器整機軟硬體均為自主研發設計。光模組屬於整機配套外購選配件，公司僅做產品相容測試，未開展光模組自研開發。"
-    },
-    {
-      "id": "4959399",
-      "time": "2026-06-29 09:17:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦稱在靠近阿富汗邊境地區實施地面打擊】巴基斯坦新聞與廣播部長阿陶拉·塔拉爾28日深夜在社交媒體上發文稱，巴基斯坦安全部隊當天在靠近阿富汗邊境地區開展了一次基於情報的地面打擊行動，打死29名武裝分子。塔拉爾說，此次行動是對近期巴基斯坦境內發生的多起恐怖襲擊事件的回應。"
-    },
-    {
-      "id": "4959398",
-      "time": "2026-06-29 09:17:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上一交易日ETF兩市融資融券餘額1129.74億元】截至6月26日，ETF兩市融資融券餘額1129.74億元，分型別來看，股票型ETF兩融餘額636.71億元，債券型ETF兩融餘額82.99億元，商品型ETF兩融餘額132.59億元，QDII型ETF兩融餘額277.46億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為62.36億元、37.36億元、36.72億元。"
-    },
-    {
-      "id": "4959397",
-      "time": "2026-06-29 09:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇州高新、固德威投資成立綠色能源公司】企查查APP顯示，近日，蘇州新昱綠色能源有限公司成立，註冊資本10億元，經營範圍包含太陽能發電技術服務；光伏發電裝置租賃；節能管理服務等。企查查股權穿透顯示，該公司由蘇州高新(600736)及其全資子公司蘇州高新綠色低碳科技產業發展有限公司、固德威(688390)旗下江蘇昱德新能源科技有限公司共同持股。"
-    },
-    {
-      "id": "4959396",
-      "time": "2026-06-29 09:16:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所：日科化學臨時停牌】深交所公告，山東日科化學股份有限公司擬披露重大事項，公司股票於2026年6月29日開市起停牌，待公司透過指定媒體披露相關公告後復牌。"
-    },
-    {
-      "id": "mkt:019f10f2-474c-7aab-8c05-5ccce4c63277",
-      "time": "2026-06-29 09:15:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.82% at 22,846, trading at a 150-point premium to the spot index."
-    },
-    {
-      "id": "4959395",
-      "time": "2026-06-29 09:15:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8175元，較上日調低9點。"
-    },
-    {
-      "id": "4959394",
-      "time": "2026-06-29 09:15:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：106只個股獲公司回購】Wind資料顯示，6月26日，共106只港股獲公司回購，19只個股回購金額超千萬港元。其中，騰訊控股、小米集團-W、理想汽車-W回購金額最大，分別獲公司回購5.01億港元、2.03億港元、2.0億港元。截至6月26日，今年已有268只港股獲公司回購，74只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購234.07億港元、136.35億港元、108.65億港元。"
-    },
-    {
-      "id": "4959393",
-      "time": "2026-06-29 09:15:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.84%，報22839.20點，高水167.34點。"
-    },
-    {
-      "id": "4959392",
-      "time": "2026-06-29 09:14:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛上調網易目標價 稱其利潤率有望擴張】高盛將網易的目標股價從260港元上調至264港元，稱其為中國網際網路公司中“引人注目的非人工智慧複合增長股”，有望實現利潤率擴張。"
-    },
-    {
-      "id": "mkt:019f10f1-4200-7aab-8c05-5317423415ed",
-      "time": "2026-06-29 09:14:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Survey: South Korea CPI seen above 3% for second month, bolstering case for BoK hikes】A Wall Street Journal survey of seven economists shows the median forecast for June CPI at +3.2% YoY (May +3.1%); MoM is seen at +0.1% (May +0.5%). A second consecutive month above the Bank of Korea's 2% target would strengthen the case for further tightening. DBS economist Ma Tieying cited cumulative input-cost increases and won weakness passing through to the economy and expects a BoK rate hike in July and another in Q4."
-    },
-    {
-      "id": "4959391",
-      "time": "2026-06-29 09:14:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國司法部已結束對雅培公司嬰兒配方奶粉工廠的刑事調查】據媒體援引知情人士的話報道，美國司法部已終止了對雅培實驗室的一項刑事調查，該調查涉及該公司如何管理一家嬰兒配方奶粉生產廠——該廠 曾發現可能致命的細菌，且這些細菌被懷疑導致了嬰兒死亡；取而代之的是，司法部決定對其處以民事罰款。"
     }
   ]
 }
