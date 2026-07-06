@@ -1,7 +1,182 @@
 {
   "date": "2026-07-06",
-  "count": 305,
+  "count": 324,
   "items": [
+    {
+      "id": "mkt:019f34f1-df36-7aab-8ca6-c72ca6c2a393",
+      "time": "2026-07-06 09:01:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.53% to 911.78 yuan/gram in early trade on July 6 (Mon); silver T+D rose 1.51% to 15,321.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f34f1-d604-7aab-8ca6-be5dd815daf6",
+      "time": "2026-07-06 09:01:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai silver most-active contract intraday gain widened to 2.00%, trading at 15,366.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019f34f1-9827-7aab-8ca6-b24a6754ebd6",
+      "time": "2026-07-06 09:01:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 524.97 points higher, up 1.12%, at 47,305.59 on Monday, July 6."
+    },
+    {
+      "id": "mkt:019f34f1-7b54-7aab-8ca6-a966fcf7bf9a",
+      "time": "2026-07-06 09:01:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia's June TD-MI inflation index 3.9% YoY, down from 4.4% previously."
+    },
+    {
+      "id": "4971278",
+      "time": "2026-07-06 09:01:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15366.00元。"
+    },
+    {
+      "id": "4971277",
+      "time": "2026-07-06 09:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲4%，現報413990.00元。"
+    },
+    {
+      "id": "mkt:019f34f1-5e77-7aab-8ca6-a04d4204387c",
+      "time": "2026-07-06 09:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June TD-MI inflation index MoM -0.4%; prior -0.30%."
+    },
+    {
+      "id": "mkt:019f34f1-5767-7aab-8ca6-99c97ae58ea0",
+      "time": "2026-07-06 09:00:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | TD-MI Inflation Gauge (YoY) (Jun) | actual 3.9% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019f34f1-405e-7aab-8ca6-93c3cf157483",
+      "time": "2026-07-06 09:00:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | TD-MI Inflation Gauge (MoM) (Jun) | actual -0.4% | previous -0.30%"
+    },
+    {
+      "id": "4971276",
+      "time": "2026-07-06 09:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲3%，現報4653.00元。"
+    },
+    {
+      "id": "4971275",
+      "time": "2026-07-06 09:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至47,299.50點。"
+    },
+    {
+      "id": "te:markets:564260",
+      "time": "2026-07-06 09:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Waver on Mixed Sector Performance — The Nikkei 225 Index hovered around the flatline on Monday, lacking clear direction as gains in industrial and consumer stocks were offset by weakness in technology shares. The moves reflected continued rotation away from tech companies into other sectors amid mounting concerns over the sustainability of the artificial intelligence trade. Investors have also grown wary of excess capacity and intensifying competition among AI providers, particularly from China. Declines in technology and AI-related stocks were led by Kioxia Holdings (-3.6%), Taiyo Yuden (-7.3%) and SoftBank Group (-4.5%). Meanwhile, Mitsubishi Heavy Industries (5.4%), Shin-Etsu Chemical (2.7%) and Fast Retailing (1.7%) posted solid gains. Investors are now awaiting a series of key economic reports this week, including household spending, PPI and machine tool orders data."
+    },
+    {
+      "id": "4971274",
+      "time": "2026-07-06 09:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳新銀行資料顯示，紐西蘭6月份大宗商品出口價格環比下降1.0%。"
+    },
+    {
+      "id": "4971273",
+      "time": "2026-07-06 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】錫連續漲3.79%，生豬連續漲2.80%，雞蛋連續漲2.55%，丁二烯橡膠連續漲2.30%，瀝青連續漲2.22%。"
+    },
+    {
+      "id": "4971272",
+      "time": "2026-07-06 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.30%。"
+    },
+    {
+      "id": "4971271",
+      "time": "2026-07-06 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報4483.00元。"
+    },
+    {
+      "id": "4971270",
+      "time": "2026-07-06 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲2%，現報3920.00元。"
+    },
+    {
+      "id": "4971269",
+      "time": "2026-07-06 08:58:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【野村證券：日本國債收益率曲線陡峭度逼近雷曼危機後峰值】野村證券表示，日本5年期與10年期國債收益率利差已擴大至接近雷曼兄弟破產後的水平，這一現象反映出市場對政策終端利率與均衡利率的預期存在巨大分歧。策略師 Naka Matsuzawa 在研報中寫道，當前利差接近2010年前後的高點。彼時全球經濟雖迎來複蘇，但市場預判的後續加息週期並未落地，印證當時市場對均衡利率的估值偏高。事後覆盤可見，當年投資者低估了雷曼危機對全球趨勢增速與通脹預期造成的永久性下行衝擊。他指出，當下宏觀環境與當年截然不同，全球整體處於貨幣政策緊縮週期。但另一面情況同樣成立：均衡利率中樞或已上行，而日本央行政策調整滯後，未能跟上利率變化節奏，出現政策滯後於曲線的局面。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607063794395885",
+      "time": "2026-07-06 08:58:54",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，歐元體系T2支付系統目前遭遇事故，影響支付處理業務。"
+    },
     {
       "id": "4971268",
       "time": "2026-07-06 08:57:37",

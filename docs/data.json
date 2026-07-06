@@ -1,7 +1,182 @@
 {
-  "updated": "2026-07-06 08:58:20",
-  "count": 13052,
+  "updated": "2026-07-06 09:02:42",
+  "count": 13056,
   "items": [
+    {
+      "id": "mkt:019f34f1-df36-7aab-8ca6-c72ca6c2a393",
+      "time": "2026-07-06 09:01:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.53% to 911.78 yuan/gram in early trade on July 6 (Mon); silver T+D rose 1.51% to 15,321.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f34f1-d604-7aab-8ca6-be5dd815daf6",
+      "time": "2026-07-06 09:01:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai silver most-active contract intraday gain widened to 2.00%, trading at 15,366.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019f34f1-9827-7aab-8ca6-b24a6754ebd6",
+      "time": "2026-07-06 09:01:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 524.97 points higher, up 1.12%, at 47,305.59 on Monday, July 6."
+    },
+    {
+      "id": "mkt:019f34f1-7b54-7aab-8ca6-a966fcf7bf9a",
+      "time": "2026-07-06 09:01:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia's June TD-MI inflation index 3.9% YoY, down from 4.4% previously."
+    },
+    {
+      "id": "4971278",
+      "time": "2026-07-06 09:01:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15366.00元。"
+    },
+    {
+      "id": "4971277",
+      "time": "2026-07-06 09:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲4%，現報413990.00元。"
+    },
+    {
+      "id": "mkt:019f34f1-5e77-7aab-8ca6-a04d4204387c",
+      "time": "2026-07-06 09:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June TD-MI inflation index MoM -0.4%; prior -0.30%."
+    },
+    {
+      "id": "mkt:019f34f1-5767-7aab-8ca6-99c97ae58ea0",
+      "time": "2026-07-06 09:00:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | TD-MI Inflation Gauge (YoY) (Jun) | actual 3.9% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019f34f1-405e-7aab-8ca6-93c3cf157483",
+      "time": "2026-07-06 09:00:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | TD-MI Inflation Gauge (MoM) (Jun) | actual -0.4% | previous -0.30%"
+    },
+    {
+      "id": "4971276",
+      "time": "2026-07-06 09:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲3%，現報4653.00元。"
+    },
+    {
+      "id": "4971275",
+      "time": "2026-07-06 09:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至47,299.50點。"
+    },
+    {
+      "id": "te:markets:564260",
+      "time": "2026-07-06 09:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Waver on Mixed Sector Performance — The Nikkei 225 Index hovered around the flatline on Monday, lacking clear direction as gains in industrial and consumer stocks were offset by weakness in technology shares. The moves reflected continued rotation away from tech companies into other sectors amid mounting concerns over the sustainability of the artificial intelligence trade. Investors have also grown wary of excess capacity and intensifying competition among AI providers, particularly from China. Declines in technology and AI-related stocks were led by Kioxia Holdings (-3.6%), Taiyo Yuden (-7.3%) and SoftBank Group (-4.5%). Meanwhile, Mitsubishi Heavy Industries (5.4%), Shin-Etsu Chemical (2.7%) and Fast Retailing (1.7%) posted solid gains. Investors are now awaiting a series of key economic reports this week, including household spending, PPI and machine tool orders data."
+    },
+    {
+      "id": "4971274",
+      "time": "2026-07-06 09:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳新銀行資料顯示，紐西蘭6月份大宗商品出口價格環比下降1.0%。"
+    },
+    {
+      "id": "4971273",
+      "time": "2026-07-06 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】錫連續漲3.79%，生豬連續漲2.80%，雞蛋連續漲2.55%，丁二烯橡膠連續漲2.30%，瀝青連續漲2.22%。"
+    },
+    {
+      "id": "4971272",
+      "time": "2026-07-06 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.30%。"
+    },
+    {
+      "id": "4971271",
+      "time": "2026-07-06 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報4483.00元。"
+    },
+    {
+      "id": "4971270",
+      "time": "2026-07-06 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲2%，現報3920.00元。"
+    },
+    {
+      "id": "4971269",
+      "time": "2026-07-06 08:58:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【野村證券：日本國債收益率曲線陡峭度逼近雷曼危機後峰值】野村證券表示，日本5年期與10年期國債收益率利差已擴大至接近雷曼兄弟破產後的水平，這一現象反映出市場對政策終端利率與均衡利率的預期存在巨大分歧。策略師 Naka Matsuzawa 在研報中寫道，當前利差接近2010年前後的高點。彼時全球經濟雖迎來複蘇，但市場預判的後續加息週期並未落地，印證當時市場對均衡利率的估值偏高。事後覆盤可見，當年投資者低估了雷曼危機對全球趨勢增速與通脹預期造成的永久性下行衝擊。他指出，當下宏觀環境與當年截然不同，全球整體處於貨幣政策緊縮週期。但另一面情況同樣成立：均衡利率中樞或已上行，而日本央行政策調整滯後，未能跟上利率變化節奏，出現政策滯後於曲線的局面。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607063794395885",
+      "time": "2026-07-06 08:58:54",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，歐元體系T2支付系統目前遭遇事故，影響支付處理業務。"
+    },
     {
       "id": "4971268",
       "time": "2026-07-06 08:57:37",
@@ -120159,159 +120334,6 @@
         "公司"
       ],
       "text": "【飛凱材料：公司TGV溼電子化學品暫未實現大批次供貨】飛凱材料6月29日在互動平臺表示，目前公司TGV溼電子化學品暫未實現大批次供貨，相關業務未形成規模化營收，對公司營收業績影響小。"
-    },
-    {
-      "id": "4959374",
-      "time": "2026-06-29 09:02:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【委內瑞拉所有教育機構繼續暫停教學活動】當地時間28日，委內瑞拉教育部發布公告，由於地震造成嚴重影響，全國所有教育機構在6月29日至7月5日間繼續暫停教學活動。此前，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯宣佈，委內瑞拉24日發生的強震造成的死亡人數上升至1450人，受傷人數上升至3150人。豪爾赫·羅德里格斯表示，地震共造成12721人受災，774棟建築物受損或完全倒塌，其中189棟完全倒塌，585棟受損或部分倒塌。"
-    },
-    {
-      "id": "4959373",
-      "time": "2026-06-29 09:02:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中央宣傳部、財政部、農業農村部聯合印發《推進農家書屋改革提升促進鄉村閱讀行動方案》】近日，中央宣傳部、財政部、農業農村部三部門聯合印發《推進農家書屋改革提升促進鄉村閱讀行動方案》。方案圍繞因地制宜完善佈局形態、聚焦需求最佳化內容供給、創新形式培育讀書風尚、健全機制夯實支撐基礎等方面提出重點任務，著力推動“書屋+”賦能、靈活推進“+書屋”融合，加強數字服務、培育特色品牌、鼓勵社會參與、做好宣傳推廣，完善農家書屋功能，提升鄉村閱讀服務效能。"
-    },
-    {
-      "id": "mkt:019f10e5-b3f3-7aab-8c05-3e0541eb86bf",
-      "time": "2026-06-29 09:01:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D early Monday trade on June 29 rose 1.18% to 887.64 yuan/gram; silver T+D gained 2.16% to 14,173 yuan/kg."
-    },
-    {
-      "id": "mkt:019f10e5-5b08-7aab-8c05-3033866ecce1",
-      "time": "2026-06-29 09:01:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan's TAIEX opened up 203.16 points, or 0.46%, at 44,774.92 on Monday, June 29."
-    },
-    {
-      "id": "4959372",
-      "time": "2026-06-29 09:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌2%，現報4259.00元。"
-    },
-    {
-      "id": "mkt:019f10e4-f4bd-7aab-8c05-2dd0afdbb225",
-      "time": "2026-06-29 09:01:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC crude oil main contract fell 2.00% intraday to 462.10 yuan per barrel."
-    },
-    {
-      "id": "4959371",
-      "time": "2026-06-29 09:00:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海爾創始人張瑞敏人民日報撰文：以創新破局，向生態發力】文章稱，從初創時期只有幾百人、資不抵債、靠借錢開工資的小工廠，到如今在全球擁有10多萬名員工、旗下子公司連續8年入選世界500強的國際品牌，海爾已經走過40多年。企業經營管理是門大學問，一路走來，對三個詞體會尤深——機遇、創新和傳承。抓住時代機遇，企業要靠創新。不創新，就會陷入自以為是、路徑依賴的困境。如今，我們正站在以雲端計算、大資料、物聯網為代表的第四次工業革命的路口。行業之間、產品之間的邊界與距離逐漸消融，產品正在被場景替代，行業正在被生態“復”蓋。企業不能只做單一產品，而要以無界生態創造無限可能，成為一座生機無限的生態花園。在這樣的背景下，我們致力於搭建員工與合作方及使用者之間共同進化的生態。我們始終堅信，一個具有進化能力、能夠持續自我糾錯的企業，才能在風浪中穩穩向前。"
-    },
-    {
-      "id": "mkt:019f10e4-5d06-7aab-8c05-241679442b69",
-      "time": "2026-06-29 09:00:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened 0.3% higher."
-    },
-    {
-      "id": "4959370",
-      "time": "2026-06-29 09:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報44,594.81。"
-    },
-    {
-      "id": "mkt:019f10e4-490f-7aab-8c05-1f96e53d5170",
-      "time": "2026-06-29 09:00:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "At the open, China’s main futures contracts were mostly higher. Shanghai silver and platinum rose over 2%; Shanghai zinc, live hogs, Shanghai tin, cast aluminum, Shanghai gold and red dates gained more than 1%. On the downside, synthetic rubber fell over 2%; SC crude oil, fuel oil, eggs, 20# rubber and PVC dropped more than 1%; soda ash and styrene (EB) declined around 1%."
-    },
-    {
-      "id": "4959369",
-      "time": "2026-06-29 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.17%。"
-    },
-    {
-      "id": "4959368",
-      "time": "2026-06-29 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌1%，現報4290.00元。"
-    },
-    {
-      "id": "4959367",
-      "time": "2026-06-29 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】丁二烯橡膠連續跌2.20%，鉑連續漲2.04%，白銀連續漲2.00%，鈀連續漲2.00%，上海原油連續跌1.82%。"
-    },
-    {
-      "id": "te:markets:562361",
-      "time": "2026-06-29 08:59:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 1.3% to below 68,500, while the broader Topix Index slipped 0.5% to 3,944 on Monday, marking a second consecutive session of losses as investors monitored the latest developments in the Middle East. Oil prices climbed after renewed clashes between the US and Iran around the Strait of Hormuz, although both sides agreed to halt further attacks ahead of peace talks scheduled for this week in Doha, Qatar. Domestically, data showed Japan's retail sales rose 5.3% in May, the strongest increase since November 2023, supported largely by a government stimulus package that lifted consumer spending. Technology stocks led the declines amid mounting concerns over the sustainability of the AI-driven rally, with Kioxia (-8.8%), SoftBank Group (-5.2%), Fujikura (-7.7%), Advantest (-5.7%), and Ibiden (-7.5%) posting sharp losses."
-    },
-    {
-      "id": "4959366",
-      "time": "2026-06-29 08:58:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月26日628股獲融資買入超億元 中際旭創穫買入65.72億元居首】6月26日共有3466只個股獲融資資金買入，有628股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入65.72億元、61.82億元、50.43億元。"
     }
   ]
 }
