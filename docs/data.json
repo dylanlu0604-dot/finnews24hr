@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-07 02:46:18",
-  "count": 13810,
+  "updated": "2026-07-07 02:50:11",
+  "count": 13817,
   "items": [
+    {
+      "id": "4972969",
+      "time": "2026-07-07 02:48:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶71.99美元，下跌13美分，跌幅0.18%。"
+    },
+    {
+      "id": "4972968",
+      "time": "2026-07-07 02:48:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯將於7月8日訪問密爾沃基。"
+    },
+    {
+      "id": "4972967",
+      "time": "2026-07-07 02:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：殺害哈梅內伊的兇手必將受到懲罰，復仇的最終步驟將透過“解放耶路撒冷”來實現。"
+    },
+    {
+      "id": "mkt:019f38c1-c65a-7aab-8cbb-270a3697e275",
+      "time": "2026-07-07 02:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said those responsible for attacks on Iran and the killing of Iranian citizens, particularly those targeting the Supreme Leader of the Islamic Revolution, will ultimately be held accountable."
+    },
+    {
+      "id": "mkt:019f38c1-a20c-7aab-8cbb-1908ebdd4cd6",
+      "time": "2026-07-07 02:47:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said the world has witnessed that the Islamic Revolution and the Islamic Republic remain firmly standing and that, with popular support, Iran will neither fail nor fall into a stalemate."
+    },
+    {
+      "id": "4972966",
+      "time": "2026-07-07 02:46:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：今日世界親眼見證，伊朗根基穩固、歷久彌堅。背靠本國人民，伊朗絕不會遭遇挫敗，也不會陷入僵局。"
+    },
+    {
+      "id": "mkt:019f38c0-7111-7aab-8cbb-15ff1fbf9f8c",
+      "time": "2026-07-07 02:46:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports hedge fund Situational Awareness, run by a former OpenAI researcher, and UK asset manager Baillie Gifford are among investors planning to subscribe about $7 billion of shares in SK Hynix's Nasdaq IPO."
+    },
     {
       "id": "4972965",
       "time": "2026-07-07 02:44:11",
