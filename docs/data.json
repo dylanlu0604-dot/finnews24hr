@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-07 07:38:22",
-  "count": 14027,
+  "updated": "2026-07-07 07:42:13",
+  "count": 14030,
   "items": [
+    {
+      "id": "4973098",
+      "time": "2026-07-07 07:41:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "Fiserv股價在盤後交易中上漲4.3%。"
+    },
+    {
+      "id": "4973097",
+      "time": "2026-07-07 07:39:08",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點"
+      ],
+      "text": "【華泰證券：看好受益AI產品迭代浪潮的二手消費電子細分賽道】華泰證券認為二手經濟並非消費降級催生的階段風口，而是經濟發展及消費理念趨於成熟後的時代趨向，當前正處於供需共振、政策支援與商業模式持續最佳化的黃金髮展期：供給端，過去30年經濟高速發展儲備的優質閒置商品，疊加宏觀經濟提質換擋期居民“斷舍離”意願增強，為市場提供了充裕供給和週轉效率。需求側，理性務實和質價比消費觀深化亦帶動了二手渠道滲透率提升。政策端，國家密集出臺“以舊換新”與迴圈經濟相關政策，為行業合規、高速發展注入強心劑。基於此，中觀維度看好受益AI產品迭代浪潮的二手消費電子細分賽道，具備全產業鏈平臺能力的龍頭有望憑藉品牌信任背書和規模壁壘實現強者恆強。"
+    },
+    {
+      "id": "te:economy:564582",
+      "time": "2026-07-07 07:38:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Household Spending",
+        "Importance 1"
+      ],
+      "text": "Japan Personal Spending Drops the Least in 6 Months — Household spending in Japan fell 0.4% yoy in May 2026, following a 0.5% decline in the prior month and beating market expectations for a 2.5% fall. It marked the sixth straight month of contraction but the softest in the sequence, suggesting consumer spending was showing some resilience despite persistent inflation and weak real wage growth. On a seasonally adjusted monthly basis, household expenditure rose 3.7%, accelerating from 1.3% in April and exceeding forecasts of 1.4%. It was the fastest monthly rise since last November."
+    },
     {
       "id": "mkt:019f39ca-a87c-7aab-8cbd-67b9db5644e3",
       "time": "2026-07-07 07:36:50",
