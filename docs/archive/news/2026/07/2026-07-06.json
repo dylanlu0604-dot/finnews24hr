@@ -1,7 +1,218 @@
 {
   "date": "2026-07-06",
-  "count": 389,
+  "count": 411,
   "items": [
+    {
+      "id": "mkt:019f350f-d25d-7aab-8ca7-b740dd1ae06b",
+      "time": "2026-07-06 09:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share organosilicon sector rallied in early trade. Dongyue Silicones jumped over 10%; peers Chenguang New Materials, Xinyaqiang, Huitian New Materials, Hongbo New Materials and Jianghan New Materials also advanced."
+    },
+    {
+      "id": "4971334",
+      "time": "2026-07-06 09:34:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽板塊盤初拉昇，東嶽矽材漲超10%】有機矽板塊盤初拉昇，東嶽矽材漲超10%，晨光新材、新亞強、迴天新材、宏柏新材、江瀚新材等跟漲。訊息面上，東嶽矽材預計上半年淨利潤同比增長905%~952%。"
+    },
+    {
+      "id": "4971333",
+      "time": "2026-07-06 09:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念盤初活躍 華大九天漲超10%】早盤先進封裝概念盤初活躍，華大九天漲超10%，聯動科技、華天科技、微導奈米、長電科技、通富微電等跟漲。訊息面上，華為半導體負責人何庭波於7月3日釋出《面向多層級電子系統的時間縮微理論》（業內也稱“韜定律”）V2版本，明確了LogicFolding單元級3D堆疊、混合鍵合、TSV、統一匯流排、Hi-ONE光引擎五大落地技術。"
+    },
+    {
+      "id": "4971332",
+      "time": "2026-07-06 09:33:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元貶破32元整數關，觸及4月初以來盤中新低。"
+    },
+    {
+      "id": "4971331",
+      "time": "2026-07-06 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股昨日漲停板塊異動拉昇】雷賽智慧、星網銳捷、金科股份、鋮昌科技、先鋒電子、賢豐控股、ST龍大觸及漲停"
+    },
+    {
+      "id": "mkt:019f350e-3671-7aab-8ca7-adc8b49c5f29",
+      "time": "2026-07-06 09:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 1bp to 1.930%; 30-year yield rose 2bp to 4.045%."
+    },
+    {
+      "id": "mkt:019f350d-e736-7aab-8ca7-a3fa1fda1331",
+      "time": "2026-07-06 09:32:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Central Bank: TARGET2 operating normally after an earlier payment-processing incident was resolved."
+    },
+    {
+      "id": "te:markets:564268",
+      "time": "2026-07-06 09:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Firm — The Australian dollar held firm around $0.694, maintaining last week's 0.7% gain, as a decline in the US dollar combined with expectations of further RBA rate hikes. Markets continued to assess the Reserve Bank of Australia’s June meeting minutes, which underscored policymakers' strong concerns over persistent inflation, excess demand, and capacity constraints. Major banks, such as the Commonwealth Bank of Australia said the minutes highlighted enduring inflationary pressures, while ANZ warned they reinforced the risk of another rate hike in the months ahead. Meanwhile, the greenback came under pressure from easing energy prices and a softer-than-expected US payrolls report, prompting markets to scale back expectations of a near-term Federal Reserve rate hike, with futures pricing a 78% chance that rates will remain unchanged at the July 29 meeting. Elsewhere, US-Iran peace talks showed no progress, but shipping through the Strait of Hormuz remained steady."
+    },
+    {
+      "id": "mkt:019f350d-44e0-7aab-8ca7-9e07862e7863",
+      "time": "2026-07-06 09:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index turned negative; Shenzhen Composite Index's gain narrowed to 0.24%, Shanghai Composite rose 0.11%."
+    },
+    {
+      "id": "mkt:019f350d-3d18-7aab-8ca7-9192f4bdc627",
+      "time": "2026-07-06 09:31:27",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China index futures open lower】China stock index futures opened lower: CSI300 futures (IF) most-active contract down 0.29%, SSE50 futures (IH) down 0.10%, CSI500 futures (IC) down 0.42%, CSI1000 futures (IM) down 0.34%."
+    },
+    {
+      "id": "mkt:019f350d-2687-7aab-8ca7-8d2b22c98ce2",
+      "time": "2026-07-06 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened: 2-year (TS) main contract flat; 5-year (TF) main contract up 0.02%; 10-year (T) main contract up 0.04%; 30-year (TL) main contract up 0.12%."
+    },
+    {
+      "id": "4971330",
+      "time": "2026-07-06 09:31:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率<JP30YTN=JBTC>上漲2.0個基點，至4.045%。"
+    },
+    {
+      "id": "4971329",
+      "time": "2026-07-06 09:31:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股票綜合指數開盤下跌 0.2%，報 6175.31 點。"
+    },
+    {
+      "id": "mkt:019f350c-f3d0-7aab-8ca7-807b5705b6dd",
+      "time": "2026-07-06 09:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia June seasonally adjusted ANZ total job ads YoY 0.5%, prior 2.0%."
+    },
+    {
+      "id": "mkt:019f350c-d873-7aab-8ca7-7a9d1523ec98",
+      "time": "2026-07-06 09:31:01",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "Sci-Tech Innovation 50 Index rose over 2%; China's CPU maker Haiguang, Lanqi Technology and Baiwei Storage led gains."
+    },
+    {
+      "id": "4971328",
+      "time": "2026-07-06 09:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債<JP5YTN=JBTC>收益率上升1個基點，至1.930%。"
+    },
+    {
+      "id": "mkt:019f350c-d0ed-7aab-8ca7-7626f7ef4d18",
+      "time": "2026-07-06 09:31:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (Jun) | actual 0.5% | previous 2%"
+    },
+    {
+      "id": "mkt:019f350c-8cb4-7aab-8ca7-6845068285d3",
+      "time": "2026-07-06 09:30:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted ANZ total job ads MoM -0.2%; prior +1.80%."
+    },
+    {
+      "id": "4971327",
+      "time": "2026-07-06 09:30:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光華科技成立新材料公司，含稀土功能材料業務】企查查APP顯示，近日，廣東光華創宏新材料有限公司成立，經營範圍包含：電子專用材料銷售；電子專用材料研發；稀土功能材料銷售；金屬材料銷售等。企查查股權穿透顯示，該公司由光華科技全資持股。"
+    },
+    {
+      "id": "mkt:019f350c-7035-7aab-8ca7-64f9a72f37b0",
+      "time": "2026-07-06 09:30:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (Jun) | actual -0.2% | previous 1.80%"
+    },
+    {
+      "id": "4971326",
+      "time": "2026-07-06 09:30:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.43%，成分股中，海光資訊漲4.73%，翱捷科技漲3.34%，國博電子漲3.25%，瀾起科技漲2.37%。"
+    },
+    {
+      "id": "4971325",
+      "time": "2026-07-06 09:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.08%，成分股中，三協電機跌4.95%，萬達軸承跌4.35%，戈碧迦跌3.67%，鼎智科技跌3.59%。"
+    },
     {
       "id": "4971324",
       "time": "2026-07-06 09:30:21",

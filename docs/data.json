@@ -1,7 +1,218 @@
 {
-  "updated": "2026-07-06 09:30:59",
-  "count": 13055,
+  "updated": "2026-07-06 09:34:50",
+  "count": 13057,
   "items": [
+    {
+      "id": "mkt:019f350f-d25d-7aab-8ca7-b740dd1ae06b",
+      "time": "2026-07-06 09:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share organosilicon sector rallied in early trade. Dongyue Silicones jumped over 10%; peers Chenguang New Materials, Xinyaqiang, Huitian New Materials, Hongbo New Materials and Jianghan New Materials also advanced."
+    },
+    {
+      "id": "4971334",
+      "time": "2026-07-06 09:34:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽板塊盤初拉昇，東嶽矽材漲超10%】有機矽板塊盤初拉昇，東嶽矽材漲超10%，晨光新材、新亞強、迴天新材、宏柏新材、江瀚新材等跟漲。訊息面上，東嶽矽材預計上半年淨利潤同比增長905%~952%。"
+    },
+    {
+      "id": "4971333",
+      "time": "2026-07-06 09:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念盤初活躍 華大九天漲超10%】早盤先進封裝概念盤初活躍，華大九天漲超10%，聯動科技、華天科技、微導奈米、長電科技、通富微電等跟漲。訊息面上，華為半導體負責人何庭波於7月3日釋出《面向多層級電子系統的時間縮微理論》（業內也稱“韜定律”）V2版本，明確了LogicFolding單元級3D堆疊、混合鍵合、TSV、統一匯流排、Hi-ONE光引擎五大落地技術。"
+    },
+    {
+      "id": "4971332",
+      "time": "2026-07-06 09:33:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元貶破32元整數關，觸及4月初以來盤中新低。"
+    },
+    {
+      "id": "4971331",
+      "time": "2026-07-06 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股昨日漲停板塊異動拉昇】雷賽智慧、星網銳捷、金科股份、鋮昌科技、先鋒電子、賢豐控股、ST龍大觸及漲停"
+    },
+    {
+      "id": "mkt:019f350e-3671-7aab-8ca7-adc8b49c5f29",
+      "time": "2026-07-06 09:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 1bp to 1.930%; 30-year yield rose 2bp to 4.045%."
+    },
+    {
+      "id": "mkt:019f350d-e736-7aab-8ca7-a3fa1fda1331",
+      "time": "2026-07-06 09:32:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Central Bank: TARGET2 operating normally after an earlier payment-processing incident was resolved."
+    },
+    {
+      "id": "te:markets:564268",
+      "time": "2026-07-06 09:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Firm — The Australian dollar held firm around $0.694, maintaining last week's 0.7% gain, as a decline in the US dollar combined with expectations of further RBA rate hikes. Markets continued to assess the Reserve Bank of Australia’s June meeting minutes, which underscored policymakers' strong concerns over persistent inflation, excess demand, and capacity constraints. Major banks, such as the Commonwealth Bank of Australia said the minutes highlighted enduring inflationary pressures, while ANZ warned they reinforced the risk of another rate hike in the months ahead. Meanwhile, the greenback came under pressure from easing energy prices and a softer-than-expected US payrolls report, prompting markets to scale back expectations of a near-term Federal Reserve rate hike, with futures pricing a 78% chance that rates will remain unchanged at the July 29 meeting. Elsewhere, US-Iran peace talks showed no progress, but shipping through the Strait of Hormuz remained steady."
+    },
+    {
+      "id": "mkt:019f350d-44e0-7aab-8ca7-9e07862e7863",
+      "time": "2026-07-06 09:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index turned negative; Shenzhen Composite Index's gain narrowed to 0.24%, Shanghai Composite rose 0.11%."
+    },
+    {
+      "id": "mkt:019f350d-3d18-7aab-8ca7-9192f4bdc627",
+      "time": "2026-07-06 09:31:27",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China index futures open lower】China stock index futures opened lower: CSI300 futures (IF) most-active contract down 0.29%, SSE50 futures (IH) down 0.10%, CSI500 futures (IC) down 0.42%, CSI1000 futures (IM) down 0.34%."
+    },
+    {
+      "id": "mkt:019f350d-2687-7aab-8ca7-8d2b22c98ce2",
+      "time": "2026-07-06 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened: 2-year (TS) main contract flat; 5-year (TF) main contract up 0.02%; 10-year (T) main contract up 0.04%; 30-year (TL) main contract up 0.12%."
+    },
+    {
+      "id": "4971330",
+      "time": "2026-07-06 09:31:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率<JP30YTN=JBTC>上漲2.0個基點，至4.045%。"
+    },
+    {
+      "id": "4971329",
+      "time": "2026-07-06 09:31:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股票綜合指數開盤下跌 0.2%，報 6175.31 點。"
+    },
+    {
+      "id": "mkt:019f350c-f3d0-7aab-8ca7-807b5705b6dd",
+      "time": "2026-07-06 09:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia June seasonally adjusted ANZ total job ads YoY 0.5%, prior 2.0%."
+    },
+    {
+      "id": "4971328",
+      "time": "2026-07-06 09:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債<JP5YTN=JBTC>收益率上升1個基點，至1.930%。"
+    },
+    {
+      "id": "mkt:019f350c-d873-7aab-8ca7-7a9d1523ec98",
+      "time": "2026-07-06 09:31:01",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "Sci-Tech Innovation 50 Index rose over 2%; China's CPU maker Haiguang, Lanqi Technology and Baiwei Storage led gains."
+    },
+    {
+      "id": "mkt:019f350c-d0ed-7aab-8ca7-7626f7ef4d18",
+      "time": "2026-07-06 09:31:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (Jun) | actual 0.5% | previous 2%"
+    },
+    {
+      "id": "mkt:019f350c-8cb4-7aab-8ca7-6845068285d3",
+      "time": "2026-07-06 09:30:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted ANZ total job ads MoM -0.2%; prior +1.80%."
+    },
+    {
+      "id": "4971327",
+      "time": "2026-07-06 09:30:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光華科技成立新材料公司，含稀土功能材料業務】企查查APP顯示，近日，廣東光華創宏新材料有限公司成立，經營範圍包含：電子專用材料銷售；電子專用材料研發；稀土功能材料銷售；金屬材料銷售等。企查查股權穿透顯示，該公司由光華科技全資持股。"
+    },
+    {
+      "id": "mkt:019f350c-7035-7aab-8ca7-64f9a72f37b0",
+      "time": "2026-07-06 09:30:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (Jun) | actual -0.2% | previous 1.80%"
+    },
+    {
+      "id": "4971326",
+      "time": "2026-07-06 09:30:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.43%，成分股中，海光資訊漲4.73%，翱捷科技漲3.34%，國博電子漲3.25%，瀾起科技漲2.37%。"
+    },
+    {
+      "id": "4971325",
+      "time": "2026-07-06 09:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.08%，成分股中，三協電機跌4.95%，萬達軸承跌4.35%，戈碧迦跌3.67%，鼎智科技跌3.59%。"
+    },
     {
       "id": "4971324",
       "time": "2026-07-06 09:30:21",
@@ -120133,213 +120344,6 @@
         "焦點"
       ],
       "text": "科創50日內漲幅達2.21%，成分股中，西部超導漲18.63%，金山辦公漲7.50%，華海清科漲7.36%，滬矽產業漲5.91%。"
-    },
-    {
-      "id": "4959435",
-      "time": "2026-06-29 09:34:48",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【黃金概念板塊短線拉昇】黃金概念板塊短線拉昇，鋅業股份漲停，恆邦股份、華鈺礦業、潮宏基、豫光金鉛、中金嶺南等紛紛走高。相關ETF方面，黃金股ETF華夏（159562）漲0.93%，成交額936.35萬元，黃金股ETF工銀（159315）漲0.85%，成交額47.56萬元。"
-    },
-    {
-      "id": "4959434",
-      "time": "2026-06-29 09:34:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：2025年全國文化產業實現營業收入同比增長8.8%，再創歷史新高】2025年，全國文化產業實現營業收入208254億元，規模突破20萬億元，再創歷史新高，比上年增長8.8%。文化產業結構不斷最佳化，文化服務業發揮支撐作用。2025年，文化服務業實現營業收入123052億元，比上年增長12.8%；佔全部文化產業營業收入的比重為59.1%，比上年提高2.1個百分點；文化服務業對文化產業營業收入增長的貢獻率為82.7%。文化製造業、文化批發和零售業分別實現營業收入49919億元和35283億元，比上年增長0.6%和8.0%。"
-    },
-    {
-      "id": "mkt:019f1103-7b04-7aab-8c05-f9dd41f2a837",
-      "time": "2026-06-29 09:34:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share controlled-nuclear-fusion sector opened sharply higher. Dongfang Tantalum and Jiemei Technology hit intraday highs; Baili Electric, Snowman Group, Lianchuang Optoelectronics, CNNC Technology and Hailu Heavy Industry reached daily limit-up; Western Superconducting jumped over 15%. Hahan Huatong, Changfu Co. and Sinomach Heavy Equipment also advanced."
-    },
-    {
-      "id": "te:markets:562365",
-      "time": "2026-06-29 09:34:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits Fresh 3-Month Low — The Australian dollar depreciated further below $0.690, hitting a fresh three-month low as renewed tensions in the Middle East weighed on risk sentiment. The US and Iran agreed to pause hostilities and resume peace talks over the Strait of Hormuz dispute after days of strikes and counterstrikes on vessels in the Gulf last week. Oil prices climbed, reigniting inflation concerns, while the safe-haven US dollar remained firm, with expectations of interest rate hikes by the Federal Reserve adding to its strength. Meanwhile, the Reserve Bank of Australia on Monday outlined the tools it could deploy during future economic or financial crises, highlighting bond purchases, forward guidance, and liquidity measures should borrowing costs return to very low levels. Attention now turns on Tuesday's release of minutes from the central bank's most recent interest-rate setting meeting. The RBA left the cash rate unchanged at 4.35% at its June meeting following three rate hikes earlier this year."
-    },
-    {
-      "id": "mkt:019f1102-bbdf-7aab-8c05-f1580e1a7b2c",
-      "time": "2026-06-29 09:33:39",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "A-share gaming sector rebounds from oversold levels; Shenzhou Taiyue rises over 10%, with peers Perfect World, Xinghui Entertainment, Kunlun Wanwei, Kaiying Network and Giant Network also advancing."
-    },
-    {
-      "id": "4959433",
-      "time": "2026-06-29 09:33:28",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "港股聯想集團(00992.HK)盤初快速走低，跌逾6%。"
-    },
-    {
-      "id": "mkt:019f1102-7723-7aab-8c05-eaccf329fd08",
-      "time": "2026-06-29 09:33:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00992.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed Lenovo Group (00992.HK) fell sharply in early trade, down more than 6%."
-    },
-    {
-      "id": "4959432",
-      "time": "2026-06-29 09:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國郵政集團有限公司上海市分公司黨委書記、總經理李柏平被查】據中央紀委國家監委駐中國郵政集團有限公司紀檢監察組、上海市紀委監委訊息：中國郵政集團有限公司上海市分公司黨委書記、總經理李柏平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國郵政集團有限公司紀檢監察組紀律審查和上海市虹口區監委監察調查。"
-    },
-    {
-      "id": "4959431",
-      "time": "2026-06-29 09:32:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遊戲板塊超跌反彈 神州泰嶽漲超10%】遊戲板塊超跌反彈，神州泰嶽漲超10%，完美世界、星輝娛樂、崑崙萬維、愷英網路、巨人網路跟漲。相關ETF方面，遊戲ETF華泰柏瑞（516770）漲2.5%，成交額192.05萬元，遊戲ETF華夏（159869）漲2.81%，成交額5247.59萬元。"
-    },
-    {
-      "id": "te:markets:562364",
-      "time": "2026-06-29 09:32:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Advance — European natural gas prices rose to €41.7 per MWh on Monday, extending Friday's gains as the latest flare-up in the Middle East reignited supply concerns. Shipping traffic through the Strait of Hormuz has slowed following fresh attacks on vessels since Thursday, including a Qatar-linked oil tanker. This prompted retaliatory strikes by the US and Iran in the most severe escalation since the two sides signed an interim peace agreement. However, Axios reported that the two countries have agreed to suspend further attacks and resume negotiations in Qatar on Tuesday. Weather conditions also supported gas prices, as a heatwave across Europe boosted gas demand from power generators to meet increased cooling needs."
-    },
-    {
-      "id": "mkt:019f1101-4d43-7aab-8c05-e3fe2e190a90",
-      "time": "2026-06-29 09:32:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09660.HK",
-        "Impact bullish",
-        "00300.HK",
-        "00020.HK"
-      ],
-      "text": "Robotics-related names in Hong Kong equities strengthened in early trade: Horizon Robotics (09660.HK) gained over 8%, Midea Group (00300.HK) rose more than 4%, and 51VV (06651.HK) and SenseTime (00020.HK) also advanced."
-    },
-    {
-      "id": "4959430",
-      "time": "2026-06-29 09:31:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.20%，成分股中，萬達軸承跌7.15%，民士達跌6.42%，艾融軟體跌3.35%，五新智慧跌3.34%。"
-    },
-    {
-      "id": "4959429",
-      "time": "2026-06-29 09:31:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碳纖維概念表現活躍 中復神鷹漲超11%】碳纖維概念表現活躍，中復神鷹漲超11%，吉林化纖、中簡科技、吉林碳谷、光威復材跟漲。訊息面上，據報道，從中國建材集團獲悉，中國建材三條世界級高效能碳纖維生產線在中復神鷹連雲港基地集中投產，覆蓋通用、高強、高模三大主流碳纖維品類。這標誌著我國碳纖維產業高質量發展再添重磅里程碑。"
-    },
-    {
-      "id": "mkt:019f1100-a1fd-7aab-8c05-df44a50f4fe0",
-      "time": "2026-06-29 09:31:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【National Bureau of Statistics: 2025 China cultural and related industries revenue tops RMB20 trillion】The National Bureau of Statistics said China’s cultural and related industries generated RMB20.83 trillion in operating revenue in 2025, up 8.8% YoY. Cultural services led the expansion with RMB12.31 trillion (+12.8% YoY), accounting for 59.1% of total cultural revenue (up 2.1 ppt) and contributing 82.7% of the sector’s revenue growth. Cultural manufacturing posted RMB4.99 trillion (+0.6% YoY) and cultural wholesale and retail RMB3.53 trillion (+8.0% YoY)."
-    },
-    {
-      "id": "4959428",
-      "time": "2026-06-29 09:31:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工板塊走高 多氟多、中欣氟材漲停】氟化工板塊走高，多氟多、中欣氟材漲停，永太科技、聯創股份、巍華新材、金石資源、昊華科技等紛紛走高。"
-    },
-    {
-      "id": "mkt:019f1100-8c94-7aab-8c05-d1b7b36719d4",
-      "time": "2026-06-29 09:31:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China equity index futures open】Front-month CSI 300 index futures (IF) down 0.01%; front-month SSE 50 futures (IH) up 0.26%; front-month CSI 500 futures (IC) up 0.62%; front-month CSI 1000 futures (IM) up 0.45% at the morning open."
-    },
-    {
-      "id": "mkt:019f1100-7fc6-7aab-8c05-cc40c861ebd9",
-      "time": "2026-06-29 09:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open higher】2-year China government bond futures (TS) most-active contract up 0.02%; 5-year (TF) up 0.07%; 10-year (T) up 0.13%; 30-year (TL) up 0.29%."
-    },
-    {
-      "id": "4959427",
-      "time": "2026-06-29 09:31:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "可控核聚變概念開盤活躍，西部超導漲超10%，百利電氣、聯創光電、國光電氣、常輔股份、哈焊華通紛紛高開，訊息上，國家重大科技基礎設施“聚變堆主機關鍵系統綜合研究設施”最大的超導部件——環向場磁體完成最後製備工藝，並透過專家驗收。"
-    },
-    {
-      "id": "mkt:019f1100-6072-7aab-8c05-c3ad7d56f852",
-      "time": "2026-06-29 09:31:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "09660.HK",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Tech Index early gains quickly widened to about 2%, led by Horizon Robotics (09660.HK)."
-    },
-    {
-      "id": "4959426",
-      "time": "2026-06-29 09:31:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.32%，成分股中，西部超導漲12.88%，華潤微漲5.05%，滬矽產業漲4.70%，時代電氣漲4.70%。"
     }
   ]
 }
