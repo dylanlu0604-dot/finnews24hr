@@ -1,7 +1,68 @@
 {
   "date": "2026-07-06",
-  "count": 951,
+  "count": 958,
   "items": [
+    {
+      "id": "mkt:019f360c-027d-7aab-8cac-aa97f7e120ac",
+      "time": "2026-07-06 14:09:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shipping data show 10 vessels linked to Japan are exiting the Strait of Hormuz."
+    },
+    {
+      "id": "4971749",
+      "time": "2026-07-06 14:09:03",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【德商銀行：歐洲央行加息預期料將消退】德國商業銀行的Rainer Guntermann在一份報告中表示，目前歐洲央行利率預期的下調似乎正在失去動力。該利率策略師表示，7月份的官方指引模稜兩可，而歐洲央行並未排除進一步加息的可能性。他表示，要使歐元區前端債券收益率走低，似乎需要油價出現更大幅度的下跌。倫敦證券交易所集團的資料顯示，貨幣市場目前反映了歐洲央行9月份加息17個基點、年底前加息25個基點的預期。Guntermann表示：“未來幾天，隨著眾多歐洲央行官員發表講話以及6月份會議紀要的公佈，將會有更多細節浮出水面。”"
+    },
+    {
+      "id": "4971748",
+      "time": "2026-07-06 14:08:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示：十艘與日本有關的船隊正在駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "4971747",
+      "time": "2026-07-06 14:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【欣旺達動力科技公司增資至約140.9億】天眼查 App 顯示，近日，欣旺達動力科技股份有限公司發生工商變更，註冊資本由約132億人民幣增至約140.9億人民幣。該公司成立於2014年10月，法定代表人為王明旺，經營範圍包括軟體開發及銷售，新能源汽車充電設施運營，新能源汽車充電裝置及配件的研發與銷售，鋰離子電池、材料、充電器、電動汽車電池模組、動力電池系統、電池管理系統及電源管理系統的研發、生產、銷售等，由欣旺達惠州新能源有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f360a-c7fa-7aab-8cac-a165ea1da37f",
+      "time": "2026-07-06 14:08:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【India opens nuclear sector to private investment, targets 100 GW by 2047】India has opened its nuclear-power sector to private investors under the SHANTI Act, passed December 2025, ending the state monopoly created by the 1962 Atomic Energy Act. The government aims to mobilize about $210bn and raise nuclear capacity to 100 GW by 2047 from roughly 9 GW today — implying ~90 GW of new capacity and roughly a tenfold acceleration in deployment over 22 years. The law allows private firms to build, own, operate and decommission nuclear plants and permits foreign participation via joint ventures; private players may engage across generation, engineering, manufacturing, O&M and structured finance. The state will retain control over strategic activities including uranium and thorium mining, heavy-water production, spent-fuel reprocessing and radioactive-waste management. Consultant YCP cautions that legal reform alone does not guarantee investment: tariff mechanisms, financing arrangements, supply-chain readiness, regulatory rules, insurance and public acceptance remain unresolved."
+    },
+    {
+      "id": "4971746",
+      "time": "2026-07-06 14:06:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲0.5%至162.15。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607063795030535",
+      "time": "2026-07-06 14:06:30",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【德國5月季調後工廠訂單環比增長1.9%】德國5月季調後工廠訂單同比增長6.2%，預期為增長4.6%；5月季調後工廠訂單環比增長1.9%，預期為增長1.1%。"
+    },
     {
       "id": "4971745",
       "time": "2026-07-06 14:05:01",
