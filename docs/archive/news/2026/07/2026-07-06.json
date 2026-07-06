@@ -1,7 +1,95 @@
 {
   "date": "2026-07-06",
-  "count": 958,
+  "count": 969,
   "items": [
+    {
+      "id": "mkt:019f360f-7c2d-7aab-8cac-c2e16d5b9bae",
+      "time": "2026-07-06 14:13:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share minor metals sector weakened; Dongfang Tantalum, Xianglu Tungsten and Changyu Group hit daily down limits, while Western Materials, China Tungsten High-tech, Shenghe Resources, Zhangyuan Tungsten and Guiyan Platinum also declined."
+    },
+    {
+      "id": "4971755",
+      "time": "2026-07-06 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.2%，至8831點。"
+    },
+    {
+      "id": "4971754",
+      "time": "2026-07-06 14:13:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有色·鎢板塊震盪走弱，翔鷺鎢業跌停】有色·鎢板塊震盪走弱，翔鷺鎢業跌停，西部材料逼近跌停，中鎢高新、章源鎢業、中稀有色、湖南黃金、安泰科技等跟跌。"
+    },
+    {
+      "id": "4971753",
+      "time": "2026-07-06 14:12:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱扶桑與富士康：雙方將各持有新巴士製造公司50%的股權，該公司計劃於2026年下半年成立。"
+    },
+    {
+      "id": "mkt:019f360d-f178-7aab-8cac-bbb45cfcf1cc",
+      "time": "2026-07-06 14:11:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine Senate opens impeachment trial for Vice President Sara Duterte】The Philippine Senate on the 6th announced it has opened an impeachment trial against Vice President Sara Duterte. The House of Representatives approved the impeachment on May 11. She is accused of corruption, plotting assassinations, inciting rebellion and abuse of power."
+    },
+    {
+      "id": "4971752",
+      "time": "2026-07-06 14:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲參議院啟動對副總統莎拉·杜特爾特的彈劾審判】菲律賓參議院6日宣佈啟動對副總統莎拉·杜特爾特的彈劾審判。菲眾議院已於5月11日透過對莎拉的彈劾案。莎拉被指控涉嫌腐敗、策劃暗殺、煽動叛亂、濫用職權等。菲參議院於5月18日組成彈劾法庭，該法庭於6月中下旬召開彈劾案審前會議。（新華社）"
+    },
+    {
+      "id": "mkt:019f360c-e8c8-7aab-8cac-b400e8fe0ac0",
+      "time": "2026-07-06 14:10:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Live hog prices rise sharply in first week of July; pork rebounds】Ministry of Agriculture monitoring of 500 county markets and collection points shows national live hog price averaged 10.48 yuan/kg in the week of Jul 1 (Jun 29–Jul 5), up 4.2% WoW; pork market price averaged 19.82 yuan/kg, up 1.0% WoW. Monitoring of 200 wholesale markets put national pork wholesale average at 14.50 yuan/kg, up 1.2% WoW and down 28.9% YoY. Analysts said earlier capacity-control measures are beginning to show, and both large-scale farms and backyard producers are delaying sales in anticipation of higher prices, tightening supply and supporting hog prices; seasonal weak consumption is constraining gains. Outlook: hog and pork prices expected steady to modestly higher this week."
+    },
+    {
+      "id": "4971751",
+      "time": "2026-07-06 14:10:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大家保險集團董事長何肖鋒簡歷已從官網撤下】7月6日訊息，金融一線從大家保險集團官網獲悉，該集團董事長何肖鋒簡歷已從官網撤下。據公開資訊，何肖鋒出生於1969年，中國人民大學法律碩士。曾任中央紀委、監察部第六紀檢監察室主任科員、辦公廳副處級秘書，保監會政策法規部副處長、處長（其間援疆掛任中華聯合保險控股公司總經理助理、黨委委員），保監會發展改革部處長、副主任、主任，銀保監會公司治理監管部正局長級幹部，銀保監會派駐安邦保險集團接管工作組組長；後任大家保險集團董事長。（金融一線）"
+    },
+    {
+      "id": "4971750",
+      "time": "2026-07-06 14:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防減救災委員會啟動國家四級救災應急響應 指導廣西做好颱風“美莎克”災害救助工作】6日，國家防災減災救災委員會針對今年第10號颱風“美莎克”對廣西造成的嚴重影響，啟動國家四級救災應急響應，救災工作組正在災區一線實地檢視災情，指導和協助地方做好受災群眾基本生活保障等災害救助工作。（央視新聞）"
+    },
+    {
+      "id": "te:economy:564348",
+      "time": "2026-07-06 14:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Romania Retail Sales Fall at Softer Pace — Retail sales in Romania fell by 4.7% year-on-year in May 2026, easing from a downwardly revised 6.2% drop in the previous month. This marked the tenth consecutive month of decline in retail activity albeit at a softer pace, driven largely by a smaller decrease in sales for automotive fuel in specialized stores (-2% vs -2.2%). Turnover also declined at a lesser extent for food, beverages, and tobacco (-4.3% vs -6.1% in April) and non-food products (-5.3% vs -7.6%). On a monthly basis, retail activity grew by 1.3% in May, rebounding from a downwardly revised 2.4% drop in the preceding period."
+    },
     {
       "id": "mkt:019f360c-027d-7aab-8cac-aa97f7e120ac",
       "time": "2026-07-06 14:09:44",
@@ -272,6 +360,14 @@
         "焦點"
       ],
       "text": "【美/日再次向上觸及162】美元兌日元USD/JPY向上觸及162，日內漲0.40%。"
+    },
+    {
+      "id": "4971729",
+      "time": "2026-07-06 13:57:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華僑銀行：儘管板塊估值合理，新加坡REITs料難跑贏大盤】華僑銀行集團研究部的Andy Wong在一次媒體說明會上表示，儘管估值看似合理，但新加坡房地產投資信託基金(REITs)不太可能跑贏大盤。這位高階股票分析師表示，新加坡REITs的派息收益率與當地政府債券收益率之間的收益率差仍具吸引力，接近420個基點，比10年平均水平高出約半個標準差。然而他表示，這可能不足以支撐有意義的價值重估，因為投資者同樣看重增長。他表示，在利率將在更長時間內維持高位的環境下，今年REITs的盈利增幅可能有限。華僑銀行建議對新加坡REITs保持精挑細選，偏好那些資產負債表強勁且對新加坡“健康“的基準利率有敞口的REITs，如凱德騰飛房產信託和凱德商用新加坡信託。"
     },
     {
       "id": "mkt:019f3600-2704-7aab-8cac-65c58e2ff112",
