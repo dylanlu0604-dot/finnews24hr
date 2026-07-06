@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-07 05:10:25",
-  "count": 13919,
+  "updated": "2026-07-07 05:14:10",
+  "count": 13923,
   "items": [
+    {
+      "id": "mkt:019f3945-fa8c-7aab-8cbc-7fc481916dfe",
+      "time": "2026-07-07 05:11:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WMT.O",
+        "Impact bullish"
+      ],
+      "text": "Walmart's Sam's Club will continue offering competitive fuel prices and has reduced prices on more than 250 items to boost consumer value."
+    },
+    {
+      "id": "4973027",
+      "time": "2026-07-07 05:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪公司：山姆會員店持續推出極具競爭力的燃油價格，為顧客帶來實惠油價，同時下調 250 餘種商品售價。消費者可在食品雜貨、家居日用品、戶外用品、玩具及服飾品類享受優惠，各類日常必需品全面降價。"
+    },
+    {
+      "id": "mkt:019f3945-abe6-7aab-8cbc-71bbc720fbf8",
+      "time": "2026-07-07 05:11:35",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian filed paperwork with the SEC proposing an offering of 75 million Class A common shares."
+    },
+    {
+      "id": "4973026",
+      "time": "2026-07-07 05:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪：碎牛肉售價由 6.74 美元下調至 5.94 美元。"
+    },
     {
       "id": "4973025",
       "time": "2026-07-07 05:09:12",
