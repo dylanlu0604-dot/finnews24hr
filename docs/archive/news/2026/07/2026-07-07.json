@@ -1,7 +1,19 @@
 {
   "date": "2026-07-07",
-  "count": 220,
+  "count": 221,
   "items": [
+    {
+      "id": "mkt:019f38f8-5efc-7aab-8cbb-a4ccd306baab",
+      "time": "2026-07-07 03:47:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Ontario Premier Ford said new cross-border oil pipelines would cut dependence on foreign energy and help Canada achieve energy self-sufficiency and become an \"energy superpower\"."
+    },
     {
       "id": "4972988",
       "time": "2026-07-07 03:42:50",
