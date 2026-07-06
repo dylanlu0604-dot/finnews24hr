@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-07 01:01:55",
-  "count": 13727,
+  "updated": "2026-07-07 01:05:48",
+  "count": 13735,
   "items": [
+    {
+      "id": "mkt:019f3863-1b9b-7aab-8cba-1f35e436d0ac",
+      "time": "2026-07-07 01:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor said failure by the government to comply with Supreme Court rulings could lead to economic uncertainty."
+    },
+    {
+      "id": "mkt:019f3862-f3dc-7aab-8cba-1718d48f5060",
+      "time": "2026-07-07 01:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor said geopolitical uncertainty and potential fiscal easing warrant caution and could raise inflationary pressures."
+    },
+    {
+      "id": "mkt:019f3862-acb7-7aab-8cba-083dd939b282",
+      "time": "2026-07-07 01:03:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor said a policy rate of 3% would help keep inflation around 2%."
+    },
+    {
+      "id": "mkt:019f3862-8dcf-7aab-8cba-00b229450032",
+      "time": "2026-07-07 01:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor said interest rates can continue to decline so long as the inf environment does not change unexpectedly."
+    },
+    {
+      "id": "4972924",
+      "time": "2026-07-07 01:03:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長：利率達到3%將有助於使通脹率保持在2%左右。"
+    },
+    {
+      "id": "4972923",
+      "time": "2026-07-07 01:03:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長：由於地緣政治不確定性和可能更寬鬆的財政政策可能導致通脹壓力，我們仍須謹慎行事。"
+    },
+    {
+      "id": "4972922",
+      "time": "2026-07-07 01:03:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長：如果政府不遵守最高法院的裁決，可能會造成經濟不確定性。"
+    },
+    {
+      "id": "4972921",
+      "time": "2026-07-07 01:03:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長：只要通脹環境沒有意外變化，利率就可以繼續下降。"
+    },
     {
       "id": "4972920",
       "time": "2026-07-07 01:00:02",
