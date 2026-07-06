@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-07 00:58:02",
-  "count": 13724,
+  "updated": "2026-07-07 01:01:55",
+  "count": 13727,
   "items": [
+    {
+      "id": "4972920",
+      "time": "2026-07-07 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.04%，滬銅收漲0.01%，滬鋁收漲0.28%，滬鋅收漲0.84%，滬鉛收跌0.06%，滬鎳收漲0.41%，滬錫收漲0.35%。氧化鋁夜盤收跌0.15%，鋁合金收漲0.24%。不鏽鋼夜盤收漲2.34%。"
+    },
+    {
+      "id": "4972919",
+      "time": "2026-07-07 00:59:26",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：黃金可能在下半年反彈】根據Navellier & Associates的分析，由於央行購買和歐洲潛在的貨幣寬鬆政策支援需求，黃金可能在2026年下半年復甦。該公司預計黃金價格將在從1月創紀錄高點下跌約25%後，反彈至每盎司4500美元。"
+    },
+    {
+      "id": "mkt:019f385d-4be3-7aab-8cb9-fb0bf6224560",
+      "time": "2026-07-07 00:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US ambassador to NATO said the United States has no intention of withdrawing from NATO but is actively studying reducing its level of involvement in the alliance."
+    },
     {
       "id": "4972918",
       "time": "2026-07-07 00:57:12",
