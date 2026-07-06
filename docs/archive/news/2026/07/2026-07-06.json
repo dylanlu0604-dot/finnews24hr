@@ -1,7 +1,90 @@
 {
   "date": "2026-07-06",
-  "count": 524,
+  "count": 533,
   "items": [
+    {
+      "id": "4971417",
+      "time": "2026-07-06 10:12:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌 1%，報 69046.03 點。"
+    },
+    {
+      "id": "te:markets:564285",
+      "time": "2026-07-06 10:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Pulls Back Amid Lack of Intervention — The Japanese yen weakened toward 162 per dollar on Monday, giving back about half of its July 2 gains as Tokyo has yet to intervene despite repeated warnings from officials. Investors also remain skeptical that any intervention would provide lasting support for the currency. Late last week, the yen rebounded sharply from 40-year lows after reports suggested Japan may stop signaling its intervention plans in advance to catch traders off guard and help unwind speculative bets against the currency. Finance Minister Satsuki Katayama also reiterated that authorities are prepared to step into the market at any time if needed, adding that Japan and the US remain in close contact on foreign exchange policy. Meanwhile, the yen continued to draw support from a weaker dollar after soft US jobs data prompted traders to scale back expectations for Federal Reserve interest rate hikes this year."
+    },
+    {
+      "id": "4971416",
+      "time": "2026-07-06 10:11:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23585.070點；恒生科技指數現漲1.313%。"
+    },
+    {
+      "id": "4971415",
+      "time": "2026-07-06 10:11:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：謀求經濟強勁發展，以此實現稅收自然增長。"
+    },
+    {
+      "id": "4971414",
+      "time": "2026-07-06 10:10:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商輪船漲超6%】招商輪船漲超6%，報18.08元，成交額超16億元。公司7月5日公告，預計上半年實現淨利潤66億元—73億元，淨利潤同比增長214%—248%。"
+    },
+    {
+      "id": "4971413",
+      "time": "2026-07-06 10:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中央氣象臺7月6日06時繼續釋出暴雨橙色預警】預計，7月6日08時至7日08時，廣西中東部、廣東中西部、海南島西南部、湖南西南部和北部、湖北東部、河南東北部和南部、安徽中北部、江蘇北部、山東中南部以及內蒙古東北部等地部分地區有暴雨，其中廣西北部和東南部、廣東南部沿海、湖南西南部和東北部、湖北東南部、安徽北部、江蘇北部、山東南部等地部分地區有大暴雨，廣西東南部沿海、廣東西南部等地局地特大暴雨（250～280毫米）。上述部分地區伴有短時強降水（最大小時降雨量30～60毫米，局地可超過90毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "te:markets:564284",
+      "time": "2026-07-06 10:09:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Rise to Start the Week — The Shanghai Composite rose 0.4% to 4,059 on Monday, while the Shenzhen Component added 0.7% to 15,705, supported by improving sentiment as shipments through the Strait of Hormuz showed signs of recovery. After a series of unexplained vessel U-turns and route diversions disrupted traffic in the strategic waterway, oil and gas flows along a US-protected transit corridor began to normalize, easing concerns over potential supply disruptions. On the domestic front, investors turned their attention to key inflation data due later this week. Consumer inflation is expected to hold steady at 1.2%, while producer price inflation is forecast to accelerate slightly to 4.1% from 3.9%. Among individual stocks, notable gainers included CNOOC Limited (3.5%), Zijin Mining Group (5.8%), and Shenzhen Longsys Electronics (12.5%). In contrast, CATL slipped 0.4% after investing in CarbonScape Ltd. to expand bio-based graphite production amid growing EV and energy storage demand."
+    },
+    {
+      "id": "4971412",
+      "time": "2026-07-06 10:09:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4971411",
+      "time": "2026-07-06 10:09:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股科網股拉昇，嗶哩嗶哩、騰訊控股漲超3%，美團漲2.4%，阿里巴巴漲1.9%。"
+    },
     {
       "id": "mkt:019f352f-9687-7aab-8ca8-a547b12fa0ad",
       "time": "2026-07-06 10:08:58",
