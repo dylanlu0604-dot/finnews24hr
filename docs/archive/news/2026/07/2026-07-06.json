@@ -1,7 +1,165 @@
 {
   "date": "2026-07-06",
-  "count": 1070,
+  "count": 1087,
   "items": [
+    {
+      "id": "4971834",
+      "time": "2026-07-06 15:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信將於2026年6月29日至7月3日期間開展股票回購。"
+    },
+    {
+      "id": "mkt:019f363a-22e4-7aab-8cad-b017ce89eaa4",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland June seasonally adjusted unemployment rate 3.1% (exp 3.1%, prev 3.1%)."
+    },
+    {
+      "id": "mkt:019f363a-220b-7aab-8cad-ad2db57e0f14",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland June unadjusted unemployment rate 2.9% vs 3.0% expected and 3.0% prior."
+    },
+    {
+      "id": "4971833",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士6月季調後失業率 3.1%，預期3.10%，前值3.10%。瑞士6月未季調失業率 2.9%，預期3.00%，前值3.00%。"
+    },
+    {
+      "id": "4971832",
+      "time": "2026-07-06 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.78%，英國富時100指數漲0.25%，法國CAC40指數漲0.39%，歐洲斯托克50指數漲0.82%，義大利富時MIB指數漲0.75%。"
+    },
+    {
+      "id": "4971831",
+      "time": "2026-07-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】雞蛋連續漲4.21%，集運指數歐線期貨連續跌4.12%，錫連續漲3.09%，碳酸鋰連續跌2.65%，紅棗連續跌2.52%。"
+    },
+    {
+      "id": "4971830",
+      "time": "2026-07-06 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.64%， 滬深300指數期貨連續跌0.34%， 中證500指數期貨連續跌1.16%， 上證50指數期貨連續漲0.37%。"
+    },
+    {
+      "id": "mkt:019f363a-06b6-7aab-8cad-a388fd7c2f4d",
+      "time": "2026-07-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate SA (Jun) | actual 3.1% | consensus 3.10% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f363a-0652-7aab-8cad-992a40683a80",
+      "time": "2026-07-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate NSA (Jun) | actual 2.9% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019f3639-d4d0-7aab-8cad-90d64831d9ec",
+      "time": "2026-07-06 14:59:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Iran war impact eases; German factory orders rebound】German factory orders rose 1.9% MoM in May, after April was revised to -3.2%, beating a market forecast of +1.1%. The increase was driven by transport equipment orders, including military contracts, suggesting defense procurement is supporting demand. Excluding large one-off orders, new orders rose 1.0% MoM. The three-month rolling series fell 0.2%. Germany’s economy ministry said manufacturing new orders appear to be reverting to the H2 uptrend seen last year but remain highly volatile due to large orders, and geopolitical uncertainty will stay elevated until US‑Iran talks conclude."
+    },
+    {
+      "id": "4971829",
+      "time": "2026-07-06 14:59:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達140億港元。"
+    },
+    {
+      "id": "mkt:019f3639-66c7-7aab-8cad-8d0ca64c75ea",
+      "time": "2026-07-06 14:59:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Sullivan: Alibaba Cloud 40.1% share of China’s full-stack AI cloud services market in 2025】Consultancy Sullivan’s 2025 China Full-Stack AI Cloud Services report projects China’s IaaS, PaaS and MaaS market at 59.59 bln yuan in 2025; Alibaba Cloud revenue is estimated at 23.9 bln yuan, implying a 40.1% market share."
+    },
+    {
+      "id": "4971828",
+      "time": "2026-07-06 14:58:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【警惕網路投資理財陷阱 廣州警方成功攔截280萬元】記者6日從廣東省公安廳瞭解到，近期，廣州市公安局黃埔分局反詐中心接到銀行高危預警：一名群眾預約大額取現280萬元，疑似深陷虛假網路投資理財詐騙，資金面臨被騙風險。黃埔警方快速響應、精準處置，成功勸阻當事人，為其挽損280萬元。（央視新聞）"
+    },
+    {
+      "id": "4971827",
+      "time": "2026-07-06 14:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南PV天然氣公司與殼牌公司簽署2027-2031年液化天然氣採購協議。"
+    },
+    {
+      "id": "mkt:019f3638-3636-7aab-8cad-84fec5425216",
+      "time": "2026-07-06 14:58:01",
+      "tags": [
+        "MKT News",
+        "ASM.AS"
+      ],
+      "text": "【ASM International to nominate new CFO】ASM International, Europe’s second-largest semiconductor equipment maker, said it will nominate Chris Figee as its next chief financial officer, with the appointment to be submitted for shareholder approval at a special meeting expected in March 2027. Figee, currently CFO and management board member at Dutch telecom KPN, will join ASM on Dec. 1. He will succeed Paul Verhagen, who had planned to retire at the end of his current term."
+    },
+    {
+      "id": "mkt:019f3638-25f4-7aab-8cad-78d9d2a2a5f6",
+      "time": "2026-07-06 14:57:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Guohua (delisting) fell to the daily down limit late in the session after a limit-up-to-limit-down intraday swing; turnover exceeded 3 mln yuan."
+    },
+    {
+      "id": "4971826",
+      "time": "2026-07-06 14:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖通科技等成立新能源科技公司，含AI業務】企查查APP顯示，近日，北京祥實新能源科技有限公司成立，註冊資本9000萬元，經營範圍包含：運輸裝置租賃服務；供應鏈管理服務；物聯網技術服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由皖通科技等共同持股。"
+    },
     {
       "id": "4971825",
       "time": "2026-07-06 14:55:35",

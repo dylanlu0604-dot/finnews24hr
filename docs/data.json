@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-06 14:57:22",
-  "count": 13037,
+  "updated": "2026-07-06 15:02:14",
+  "count": 13031,
   "items": [
+    {
+      "id": "4971834",
+      "time": "2026-07-06 15:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信將於2026年6月29日至7月3日期間開展股票回購。"
+    },
+    {
+      "id": "4971833",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士6月季調後失業率 3.1%，預期3.10%，前值3.10%。瑞士6月未季調失業率 2.9%，預期3.00%，前值3.00%。"
+    },
+    {
+      "id": "mkt:019f363a-22e4-7aab-8cad-b017ce89eaa4",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland June seasonally adjusted unemployment rate 3.1% (exp 3.1%, prev 3.1%)."
+    },
+    {
+      "id": "mkt:019f363a-220b-7aab-8cad-ad2db57e0f14",
+      "time": "2026-07-06 15:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland June unadjusted unemployment rate 2.9% vs 3.0% expected and 3.0% prior."
+    },
+    {
+      "id": "4971832",
+      "time": "2026-07-06 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.78%，英國富時100指數漲0.25%，法國CAC40指數漲0.39%，歐洲斯托克50指數漲0.82%，義大利富時MIB指數漲0.75%。"
+    },
+    {
+      "id": "4971831",
+      "time": "2026-07-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】雞蛋連續漲4.21%，集運指數歐線期貨連續跌4.12%，錫連續漲3.09%，碳酸鋰連續跌2.65%，紅棗連續跌2.52%。"
+    },
+    {
+      "id": "4971830",
+      "time": "2026-07-06 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.64%， 滬深300指數期貨連續跌0.34%， 中證500指數期貨連續跌1.16%， 上證50指數期貨連續漲0.37%。"
+    },
+    {
+      "id": "mkt:019f363a-06b6-7aab-8cad-a388fd7c2f4d",
+      "time": "2026-07-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate SA (Jun) | actual 3.1% | consensus 3.10% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f363a-0652-7aab-8cad-992a40683a80",
+      "time": "2026-07-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate NSA (Jun) | actual 2.9% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019f3639-d4d0-7aab-8cad-90d64831d9ec",
+      "time": "2026-07-06 14:59:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Iran war impact eases; German factory orders rebound】German factory orders rose 1.9% MoM in May, after April was revised to -3.2%, beating a market forecast of +1.1%. The increase was driven by transport equipment orders, including military contracts, suggesting defense procurement is supporting demand. Excluding large one-off orders, new orders rose 1.0% MoM. The three-month rolling series fell 0.2%. Germany’s economy ministry said manufacturing new orders appear to be reverting to the H2 uptrend seen last year but remain highly volatile due to large orders, and geopolitical uncertainty will stay elevated until US‑Iran talks conclude."
+    },
+    {
+      "id": "4971829",
+      "time": "2026-07-06 14:59:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達140億港元。"
+    },
+    {
+      "id": "mkt:019f3639-66c7-7aab-8cad-8d0ca64c75ea",
+      "time": "2026-07-06 14:59:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Sullivan: Alibaba Cloud 40.1% share of China’s full-stack AI cloud services market in 2025】Consultancy Sullivan’s 2025 China Full-Stack AI Cloud Services report projects China’s IaaS, PaaS and MaaS market at 59.59 bln yuan in 2025; Alibaba Cloud revenue is estimated at 23.9 bln yuan, implying a 40.1% market share."
+    },
+    {
+      "id": "4971828",
+      "time": "2026-07-06 14:58:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【警惕網路投資理財陷阱 廣州警方成功攔截280萬元】記者6日從廣東省公安廳瞭解到，近期，廣州市公安局黃埔分局反詐中心接到銀行高危預警：一名群眾預約大額取現280萬元，疑似深陷虛假網路投資理財詐騙，資金面臨被騙風險。黃埔警方快速響應、精準處置，成功勸阻當事人，為其挽損280萬元。（央視新聞）"
+    },
+    {
+      "id": "4971827",
+      "time": "2026-07-06 14:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南PV天然氣公司與殼牌公司簽署2027-2031年液化天然氣採購協議。"
+    },
+    {
+      "id": "mkt:019f3638-3636-7aab-8cad-84fec5425216",
+      "time": "2026-07-06 14:58:01",
+      "tags": [
+        "MKT News",
+        "ASM.AS"
+      ],
+      "text": "【ASM International to nominate new CFO】ASM International, Europe’s second-largest semiconductor equipment maker, said it will nominate Chris Figee as its next chief financial officer, with the appointment to be submitted for shareholder approval at a special meeting expected in March 2027. Figee, currently CFO and management board member at Dutch telecom KPN, will join ASM on Dec. 1. He will succeed Paul Verhagen, who had planned to retire at the end of his current term."
+    },
+    {
+      "id": "mkt:019f3638-25f4-7aab-8cad-78d9d2a2a5f6",
+      "time": "2026-07-06 14:57:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Guohua (delisting) fell to the daily down limit late in the session after a limit-up-to-limit-down intraday swing; turnover exceeded 3 mln yuan."
+    },
+    {
+      "id": "4971826",
+      "time": "2026-07-06 14:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖通科技等成立新能源科技公司，含AI業務】企查查APP顯示，近日，北京祥實新能源科技有限公司成立，註冊資本9000萬元，經營範圍包含：運輸裝置租賃服務；供應鏈管理服務；物聯網技術服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由皖通科技等共同持股。"
+    },
     {
       "id": "4971825",
       "time": "2026-07-06 14:55:35",
@@ -119761,236 +119919,6 @@
         "Greater China"
       ],
       "text": "【June 29 — China markets turnover 3.518 tln yuan; GigaDevice tops single-stock turnover】June 29 — Shanghai and Shenzhen exchanges posted combined turnover of 3.518 tln yuan, down 34.66 bln yuan from the prior session. Shanghai turnover was 1.666 tln yuan (prev. 1.621 tln); trading volume 659 mln lots. Shenzhen turnover was 1.852 tln yuan (prev. 1.931 tln); trading volume 808 mln lots. GigaDevice led single-stock turnover at 43.15 bln yuan, followed by Zhongji Xuchuang 42.63 bln, BOE Technology A 32.49 bln, JCET (Changdian Electronics) 32.44 bln and Montage Technology 30.29 bln."
-    },
-    {
-      "id": "4959928",
-      "time": "2026-06-29 15:02:12",
-      "tags": [
-        "宏觀",
-        "資料",
-        "國際"
-      ],
-      "text": "【香港貿發局：上調2026年香港出口增長預測 預計至少增長20%】香港貿發局上調2026年香港出口預測，預計全年錄得至少20%增長。同時，香港貿發局還公佈，2026年第二季出口信心指數，當中兩項核心指標均有所改善：第二季“現狀指數”為51.0，“預期指數”為52.4，兩者均重返50以上，顯示儘管美國貿易政策持續調整，以及地緣政治局勢持續發展，出口商的信心依然有所提升。"
-    },
-    {
-      "id": "mkt:019f122f-1e8a-7aab-8c0b-f1e843fbbbb8",
-      "time": "2026-06-29 15:01:45",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European stocks opened mixed on Monday June 29: Germany’s DAX opened up 73.28 pts (+0.30%) at 24,755.00; UK’s FTSE 100 opened down 18.52 pts (-0.18%) at 10,489.50; France’s CAC 40 opened down 10.60 pts (-0.13%) at 8,374.27; Euro Stoxx 50 opened up 4.50 pts (+0.07%) at 6,226.05; Spain’s IBEX 35 opened down 53.45 pts (-0.28%) at 19,371.85; Italy’s FTSE MIB opened up 47.15 pts (+0.09%) at 51,312.50."
-    },
-    {
-      "id": "4959927",
-      "time": "2026-06-29 15:01:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：科創創新藥ETF領漲11.67%，長三角ETF領跌6.7%】ETF收盤漲跌不一，科創創新藥ETF（589120）領漲11.67%，科創創新藥ETF（589720）漲11.50%，科創半導體裝置ETF（588710）漲10.57%，長三角ETF（512650）領跌6.7%，通訊ETF（159507）跌2.9%，通訊ETF（159695）跌2.72%。"
-    },
-    {
-      "id": "mkt:019f122e-bad2-7aab-8c0b-ebe65308b25a",
-      "time": "2026-06-29 15:01:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China index futures midday close】Midday: CSI 300 index futures (IF main contract) +0.98%; SSE 50 futures (IH main) +2.29%; CSI 500 futures (IC main) +0.90%; CSI 1000 futures (IM main) -0.17%."
-    },
-    {
-      "id": "mkt:019f122e-9575-7aab-8c0b-e7c603049b68",
-      "time": "2026-06-29 15:01:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "At the mid-session close, China's main futures contracts were mostly higher. Palladium, coking coal and live hogs rose more than 4%; fiberboard and lithium carbonate gained over 3%; propylene, cotton and Shanghai zinc advanced over 2%. On the downside, japonica rice, SC crude oil and synthetic rubber fell more than 1%, while polyvinyl chloride (PVC) slipped about 1%."
-    },
-    {
-      "id": "4959926",
-      "time": "2026-06-29 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲1.16%，深證成指漲0.19%，創業板指漲0.54%。"
-    },
-    {
-      "id": "4959925",
-      "time": "2026-06-29 15:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國農業銀行河北省分行原副行長許樹寶接受審查調查】中央紀委國家監委網站6月29日通報，據中央紀委國家監委駐中國農業銀行紀檢監察組、河北省紀委監委訊息：中國農業銀行河北省分行原黨委委員、副行長許樹寶涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業銀行紀檢監察組紀律審查和河北省監委監察調查。"
-    },
-    {
-      "id": "mkt:019f122e-1914-7aab-8c0b-de1c522d9afd",
-      "time": "2026-06-29 15:00:38",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain June harmonized CPI (HICP) preliminary MoM +0.6% vs. +0.4% expected; May +0.10%."
-    },
-    {
-      "id": "mkt:019f122e-0bd6-7aab-8c0b-d2d966fdd54f",
-      "time": "2026-06-29 15:00:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China enterprise credit index 161.53 in May; credit levels stable】The State Administration for Market Regulation said China’s enterprise credit index stood at 161.53 in May, with overall corporate credit remaining stable. Top five industry scores were financials; power, heat, gas and water production and supply; residential services and repairs/other services; water conservancy, environmental and public facility management; and manufacturing. Residential services and repairs posted the largest gain, entering the top five for the first time this year. Culture, sports and entertainment edged higher, with credit resilience continuing to strengthen."
-    },
-    {
-      "id": "mkt:019f122d-f4c4-7aab-8c0b-cde0115d34f1",
-      "time": "2026-06-29 15:00:29",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain June CPI preliminary (MoM) 0.6% vs 0.4% expected; May 0.1%."
-    },
-    {
-      "id": "4959924",
-      "time": "2026-06-29 15:00:26",
-      "tags": [
-        "資料"
-      ],
-      "text": "西班牙6月CPI年率初值 3.2%，預期3%，前值3.20%。西班牙6月調和CPI年率初值 3.6%，預期3.4%，前值3.60%。"
-    },
-    {
-      "id": "4959923",
-      "time": "2026-06-29 15:00:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.5萬億元，較上日此時縮量357億元。"
-    },
-    {
-      "id": "4959922",
-      "time": "2026-06-29 15:00:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【今年5月中國企業信用指數為161.53 保持平穩執行態勢】記者今天（29日）從市場監管總局瞭解到，今年5月，中國企業信用指數為161.53，企業信用水平總體保持平穩執行態勢。信用指數排名前5的行業分別為金融業、電力熱力燃氣及水生產和供應業、居民服務修理和其他服務業、水利環境和公共設施管理業、製造業。其中，居民服務修理和其他服務業指數增幅最大，指數排名今年以來首次進入前5位。文化、體育和娛樂業指數得分小幅上升，信用韌性持續增強。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f122d-a381-7aab-8c0b-c2821b4f7adf",
-      "time": "2026-06-29 15:00:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Spain June CPI preliminary YoY 3.2% vs 3.0% expected; May final 3.2%."
-    },
-    {
-      "id": "mkt:019f122d-a31f-7aab-8c0b-baa285d4b589",
-      "time": "2026-06-29 15:00:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain June HICP preliminary YoY 3.6% vs 3.4% expected; May 3.6%."
-    },
-    {
-      "id": "4959921",
-      "time": "2026-06-29 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.19%， 滬深300指數期貨連續漲0.95%， 中證500指數期貨連續漲0.90%， 上證50指數期貨連續漲2.29%。"
-    },
-    {
-      "id": "4959920",
-      "time": "2026-06-29 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】鈀連續漲4.37%，焦煤連續漲4.19%，生豬連續漲4.07%，纖維板連續漲3.66%，碳酸鋰連續漲3.34%，丙烯連續漲2.62%，棉花連續漲2.46%，焦炭連續漲2.45%，滬鋅連續漲2.45%，棉紗連續漲2.17%。"
-    },
-    {
-      "id": "4959919",
-      "time": "2026-06-29 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普跌，德國DAX指數跌1.29%，英國富時100指數跌0.21%，法國CAC40指數跌0.55%，歐洲斯托克50指數跌0.73%，義大利富時MIB指數跌1%。"
-    },
-    {
-      "id": "mkt:019f122d-82ba-7aab-8c0b-b4672333a517",
-      "time": "2026-06-29 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | CPI Flash (YoY) (Jun) | actual 3.2% | consensus 3% | previous 3.20%"
-    },
-    {
-      "id": "mkt:019f122d-8297-7aab-8c0b-a9c74cebfc95",
-      "time": "2026-06-29 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | HICP Flash (YoY) (Jun) | actual 3.6% | consensus 3.4% | previous 3.60%"
-    },
-    {
-      "id": "4959918",
-      "time": "2026-06-29 14:59:32",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通策略師：歐洲斯托克600指數年末有望上漲7%】摩根大通策略師上調歐洲基準股指年末目標位，理由是市場資金將不再僅扎堆人工智慧相關個股，行情覆蓋面會持續拓寬。由米斯拉夫・馬泰伊卡牽頭的策略團隊當前預測，斯托克600指數年底將觸及680點附近，較當前點位有約7%的上漲空間。團隊在研報中寫道：“我們對下半年市場維持樂觀態度，持續看好週期板塊交易主線；二季度市場行情高度集中於少數龍頭，後市資金或將出現板塊輪動。”策略師同時認為，美股大型科技股的回撥行情難以持續，本輪下跌主要受技術面與持倉結構因素主導。此外，該行將英國富時100指數2026年末目標位從10300點上調至11000點。"
-    },
-    {
-      "id": "te:markets:562460",
-      "time": "2026-06-29 14:57:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Zinc Extends Gain — Zinc futures rose above $3,500 per tonne, extending their rebound from a seven-week low amid tight supply conditions. Glencore’s Kazzinc facility in Kazakhstan continues to operate at reduced rates after an explosion, while Nexa’s Cajamarquilla smelter in Peru is recovering from fire-related damage. A seismic event at Boliden’s Garpenberg mine earlier this year has also raised concerns about lower production levels for longer. These supply constraints come as the International Lead and Zinc Study Group forecasts a refined zinc deficit of 19,000 tonnes this year. At the same time, the US-Iran peace deal eased concerns over further disruptions to global economic activity and improved the outlook for industrial demand. However, gains remained limited by a firm US dollar amid growing expectations of a US rate hike, making dollar-denominated commodities more expensive for holders of other currencies."
-    },
-    {
-      "id": "4959917",
-      "time": "2026-06-29 14:57:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【亞馬遜Prime Day提前至6月 客單價下滑凸顯消費疲軟訊號】亞馬遜今年將會員日（Prime Day）從7月提前到6月舉行，以應對世界盃和美國獨立250週年紀念日等繁忙的節日。資料顯示，會員日消費額超264億美元，同比增長9.3%，但平均訂單金額低於去年。專家警告，消費類別和平均訂單金額凸顯出美國消費者的疲軟，人們正轉向打折的生活必需品，這意味著壓力加劇。"
     }
   ]
 }
