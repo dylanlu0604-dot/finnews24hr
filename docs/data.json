@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-07 04:55:24",
-  "count": 13912,
+  "updated": "2026-07-07 04:59:09",
+  "count": 13914,
   "items": [
+    {
+      "id": "mkt:019f3938-4ca5-7aab-8cbc-6f883ee22713",
+      "time": "2026-07-07 04:56:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Dollar index edges up on the 6th】The dollar index, which measures the U.S. currency against six major peers, rose 0.01% to 100.853 at the New York close. EUR/USD 1.1443 (prev. 1.1439); GBP/USD 1.3395 (prev. 1.3356); USD/JPY 162.06 (prev. 161.36); USD/CHF 0.8050 (prev. 0.8035); USD/CAD 1.4209 (prev. 1.4198); USD/SEK 9.6255 (prev. 9.6436)."
+    },
+    {
+      "id": "4973020",
+      "time": "2026-07-07 04:55:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數6日微漲】衡量美元對六種主要貨幣的美元指數當天上漲0.01%，在匯市尾市收於100.853。截至紐約匯市尾市，1歐元兌換1.1443美元，高於前一交易日的1.1439美元；1英鎊兌換1.3395美元，高於前一交易日的1.3356美元。1美元兌換162.06日元，高於前一交易日的161.36日元；1美元兌換0.8050瑞士法郎，高於前一交易日的0.8035瑞士法郎；1美元兌換1.4209加元，高於前一交易日的1.4198加元；1美元兌換9.6255瑞典克朗，低於前一交易日的9.6436瑞典克朗。"
+    },
     {
       "id": "mkt:019f3934-b3a8-7aab-8cbc-61985545787f",
       "time": "2026-07-07 04:53:02",
