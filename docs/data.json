@@ -1,7 +1,197 @@
 {
-  "updated": "2026-07-06 10:29:22",
-  "count": 13007,
+  "updated": "2026-07-06 10:33:11",
+  "count": 13021,
   "items": [
+    {
+      "id": "4971451",
+      "time": "2026-07-06 10:32:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "4971450",
+      "time": "2026-07-06 10:31:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國IPO市場降溫，投資者湧向三星電子和SK海力士】韓國IPO市場在經歷上半年強勁表現後迅速降溫，新上市公司在上市後股價大幅下跌，因市場不確定性加劇及投資者情緒轉變。韓國交易所週日資料顯示，今年上市的18家公司中有14家目前股價低於發行價，科技和時尚領域的明星新股領跌。市場分析師認為，這源於IPO定價虛高、短期投機資金上市後快速出逃。儘管監管層近期加強了對機構投資者的鎖定期要求，但宏觀衝擊和供需失衡令新上市的中小盤股尤為脆弱。觀察人士指出，國內流動性仍高度集中於大盤人工智慧和半導體產業鏈股票，資金難以流向較新、尚不成熟的上市公司。韓國金融業目前寄望於下半年一批大型企業和高估值公司上市，以帶動市場復甦，同時新的雙重上市指引也已釋出。"
+    },
+    {
+      "id": "mkt:019f3544-7e2b-7aab-8ca9-0c9d25a99bc2",
+      "time": "2026-07-06 10:31:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index fell 2.0%, Shenzhen Composite Index fell 1.2% and Shanghai Composite Index fell 0.55%; MicroLED, optical-fiber and PCB concept sectors led declines. More than 3,300 stocks fell across the market."
+    },
+    {
+      "id": "4971449",
+      "time": "2026-07-06 10:31:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報3938.766點；上證指數跌0.55%，現報4021.569點；深證成指跌1.23%，現報15405.057點。"
+    },
+    {
+      "id": "4971448",
+      "time": "2026-07-06 10:31:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數早盤收跌 1.2%，報 68919.14 點。"
+    },
+    {
+      "id": "mkt:019f3544-059b-7aab-8ca9-04febbdbc290",
+      "time": "2026-07-06 10:31:18",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Korean IPO market cools as investors flock to Samsung Electronics, SK Hynix】Korean IPO market has cooled sharply after a strong 1H. Korea Exchange said on Sunday 14 of 18 companies listed this year are trading below their issue price, with newly listed tech and fashion names leading declines. Analysts point to inflated IPO pricing and rapid exits by short-term speculative funds; regulators have recently tightened lock-up periods for institutional investors, but macro shocks and a supply-demand imbalance leave small- and mid-cap new listings especially vulnerable. Domestic liquidity is concentrated in large-cap AI and semiconductor-chain names including Samsung Electronics and SK Hynix, limiting capital flow to newer issuers. The financial industry is banking on a H2 pipeline of large, high-valuation listings to revive activity; new dual-listing guidelines have also been issued."
+    },
+    {
+      "id": "4971447",
+      "time": "2026-07-06 10:31:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收漲 0.2%，報 4071.77 點。"
+    },
+    {
+      "id": "4971446",
+      "time": "2026-07-06 10:30:36",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部發售三年期國債，收益率為3.765%。"
+    },
+    {
+      "id": "4971445",
+      "time": "2026-07-06 10:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股算力硬體股持續下挫，長飛光纖光纜跌超15%】港股算力硬體股持續下挫，長飛光纖光纜跌超15%，建滔積層板跌超10%，勝宏科技、兆易創新、劍橋科技紛紛下挫。"
+    },
+    {
+      "id": "mkt:019f3542-fe73-7aab-8ca8-f8c108ce985b",
+      "time": "2026-07-06 10:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "STAR 50 Index fell 2%, after earlier rising over 2% intraday."
+    },
+    {
+      "id": "4971444",
+      "time": "2026-07-06 10:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報8433.40點。"
+    },
+    {
+      "id": "4971443",
+      "time": "2026-07-06 10:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8276.20點。"
+    },
+    {
+      "id": "te:markets:564294",
+      "time": "2026-07-06 10:29:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Remains Near 3-Week High — European natural gas prices fell toward €45 per MWh but remained close to a three-week high amid persistent concerns over the sluggish pace of storage refilling. The region’s storage outlook remains tight, with inventories currently at around 48% of capacity, well below the 56% recorded during the same period last year and the five-year seasonal average of 61%. The relatively low inventory levels have reinforced concerns about the region’s ability to build adequate reserves ahead of winter. Also providing near-term support for prices, high temperatures across much of Europe accelerated gas-fired power generation to meet air-conditioning demand. Moreover, market participants noted that LNG deliveries to Europe have yet to increase sufficiently to ease regional supply constraints, despite a pickup in shipping activity through the Strait of Hormuz following progress in US-Iran diplomatic talks."
+    },
+    {
+      "id": "mkt:019f3542-b028-7aab-8ca8-f6d2c9abc328",
+      "time": "2026-07-06 10:29:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended intraday losses to 2.00%; SK Hynix fell 4.6% and Samsung Electronics was down 0.64%."
+    },
+    {
+      "id": "4971442",
+      "time": "2026-07-06 10:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國 3 年期企業債收益率上行 2 個基點，報 4.451%。"
+    },
+    {
+      "id": "mkt:019f3542-97f2-7aab-8ca8-e9bf38e162f1",
+      "time": "2026-07-06 10:29:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share market extended losses: Shenzhen Composite Index down 1.00%, ChiNext Index down 1.76%, Shanghai Composite Index down 0.41%; more than 3,100 stocks declined."
+    },
+    {
+      "id": "4971441",
+      "time": "2026-07-06 10:29:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.00%，成分股中，晶合整合跌8.71%，格科微跌7.51%，生益電子跌6.11%，沐曦股份跌5.35%。"
+    },
+    {
+      "id": "4971440",
+      "time": "2026-07-06 10:29:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士勢將重新整理外國公司赴美上市規模紀錄 或改變股票折價局面】SK海力士本週的290億美元美國上市交易，或重新整理外國公司赴美募股的紀錄，但這不僅僅事關籌資規模，而且也關乎在AI所需記憶體晶片這個全球股市最熱板塊中的競爭。“現階段市場對晶片股的熱情極度高漲，”Synovus Trust Co.的高階投資組合經理Daniel Morgan表示。“這是去美國上市的好時機。”Synovus Trust持有美光的股票。SK海力士料將於7月10日登陸納斯達克，上述局面屆時將得到改變。目前，該公司基於未來12個月預期盈利的估值倍數約為6.2倍。美光在上週股價下挫14%後，相應市盈率約為7倍，但在6月22日時還超過了11倍。美光今年在標普500指數成份股漲幅榜上位居第二，累計上漲242%。“本次發行交易的目標投資者是目前缺乏進入韓國股市渠道的群體，”Thornburg Investment Management投資組合經理Di Zhou表示。“SK海力士在納斯達克上市，將讓投資者有機會直接、順暢地獲取最具吸引力的純AI記憶體週期概念股之一的敞口。”"
+    },
+    {
+      "id": "te:economy:564292",
+      "time": "2026-07-06 10:29:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Eases Ahead of FOMC Minutes — The yield on the US 10-year Treasury note eased to around 4.47% on Monday, giving back some of last week’s gains as investors cautiously awaited the minutes of the Federal Reserve’s June policy meeting for further clues on the interest rate outlook. Data released last week showed US nonfarm payrolls increased by just 57,000 in June, the smallest gain in four months and well below forecasts of 110,000, prompting traders to reduce bets on a September rate hike. Meanwhile, the unemployment rate unexpectedly edged down to 4.2%, largely due to a drop in the labor force participation rate to its lowest level since 2021. Oil prices also moved lower as recovering energy flows through the Strait of Hormuz and the prospect of higher OPEC+ output fueled concerns about a potential supply glut. That has helped ease inflationary pressures that had previously reinforced expectations of further rate hikes."
+    },
     {
       "id": "mkt:019f3541-bcec-7aab-8ca8-e759f4411a1d",
       "time": "2026-07-06 10:28:48",
@@ -119802,57 +119992,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Yield Stays Near 4-Month Low — Australia’s 10-year government bond yield rose above 4.7%, but remained near a four-month low as markets pared back expectations of further domestic rate hikes, while renewed Middle East tensions reignited inflation concerns. Although the US and Iran agreed to pause further attacks after the recent exchange of strikes around the Strait of Hormuz, oil prices climbed as the latest escalation disrupted the recovery in oil shipments through the strategic waterway that had followed an earlier interim agreement. In Australia, focus turns to Tuesday's release of minutes from the Reserve Bank’s most recent interest-rate setting meeting. The central bank left the cash rate unchanged at 4.35% at its June meeting following three rate hikes earlier this year. Despite a rebound in employment data, recent mixed inflation figures left the markets split on another rate hike, implied around 50% by year-end, while some have started pricing in rate cuts in the second half of 2027."
-    },
-    {
-      "id": "te:markets:562381",
-      "time": "2026-06-29 10:32:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Remains Under Pressure — The New Zealand dollar hovered near a seven-month low at around $0.564, weighed down by a broadly stronger US dollar and growing concerns over the domestic growth outlook. Although the recent pullback in oil prices, following a US-Iran deal, has eased near-term inflation concerns, the broader economic damage from the earlier energy shock persists. Expectations for aggressive tightening by the Reserve Bank of New Zealand have been scaled back, with markets now pricing in roughly a 66% chance of a July rate hike, down from over 80% a few weeks earlier, and anticipating just two moves this year rather than three. Investors are now awaiting this week’s business and consumer confidence data for clues on the state of the economy, with the country’s four major banks forecasting the economy to have contracted in the second quarter."
-    },
-    {
-      "id": "mkt:019f1138-37ee-7aab-8c07-5ff629bc7cee",
-      "time": "2026-06-29 10:32:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "AAPL.O"
-      ],
-      "text": "【Apple considers 1.4nm process for flagship smartphone SoC in 2028】Apple is reportedly considering a 1.4nm process for its flagship smartphone SoC as early as 2028, implying the lifecycle of 2nm-based flagship chips could be about two years."
-    },
-    {
-      "id": "4959590",
-      "time": "2026-06-29 10:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，蘋果正考慮最早於2028年在其旗艦智慧手機SoC中採用1.4nm工藝技術，這意味著採用2nm工藝製造的旗艦晶片的生命週期可能只有大約兩年。 (臺灣電子時報)"
-    },
-    {
-      "id": "4959589",
-      "time": "2026-06-29 10:31:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星電機MLCC或斬獲大單 並將加碼玻璃基板】綜合韓國經濟日報、韓國經濟論壇報，業內人士近日透露，三星電機正與一家美國大型科技公司就一份AI伺服器MLCC供應合同進行最後的談判，價值約5000億韓元（約合22億元人民幣）。另外，該公司還計劃於近期與住友化學簽署正式協議，成立玻璃基板合資公司（JV），兩家公司將投資5000億韓元，三星電機計劃持有超過半數的股份，並投資約3000億韓元（約合13.2億元人民幣）。"
-    },
-    {
-      "id": "4959588",
-      "time": "2026-06-29 10:30:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬憬能源：將持續實施老舊管網安全升級改造】萬憬能源近日在投資者網上集體接待日活動上表示，公司建成148.48公里自有長輸管線，配套阿克蘇市區超750公里市政管網及20座場站，全面覆蓋自有特許經營區域。當前管網整體利用率處於合理區間，長輸管線隨供氣規模提升持續釋放成本優勢，可充分滿足區域居民、工商業用氣需求。後續公司將持續實施老舊管網安全升級改造，結合工業園區、新建城區用氣需求適度延伸擴容，同步佈局智慧管網提升運維效率。若有達到披露標準的大型管網投資專案，公司將及時公告。"
     }
   ]
 }
