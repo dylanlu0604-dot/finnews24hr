@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-07 06:09:56",
-  "count": 13944,
+  "updated": "2026-07-07 06:13:48",
+  "count": 13947,
   "items": [
+    {
+      "id": "mkt:019f397c-a28c-7aab-8cbc-d8bb4d6ce57f",
+      "time": "2026-07-07 06:11:37",
+      "tags": [
+        "MKT News",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras said it received 2.7 bln reais related to Brazil's diesel subsidy program."
+    },
+    {
+      "id": "4973039",
+      "time": "2026-07-07 06:11:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司：已收到與巴西柴油補貼計劃相關的 27 億雷亞爾款項。"
+    },
+    {
+      "id": "mkt:019f397b-a875-7aab-8cbc-d18e6400d191",
+      "time": "2026-07-07 06:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru president-elect Keiko Fujimori has appointed Julio Velarde to remain governor of the Central Reserve Bank of Peru."
+    },
     {
       "id": "mkt:019f3974-8e2d-7aab-8cbc-cb24d7f8294c",
       "time": "2026-07-07 06:02:47",
