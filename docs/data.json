@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-08 01:00:56",
-  "count": 15894,
+  "updated": "2026-07-08 01:04:44",
+  "count": 15895,
   "items": [
+    {
+      "id": "4974817",
+      "time": "2026-07-08 01:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約宣佈與埃森哲簽署數百萬歐元合同，推動建設更靈活、韌性更強的數字化基礎設施。"
+    },
+    {
+      "id": "mkt:019f3d87-fa0b-7aab-8cd3-949804edd5ab",
+      "time": "2026-07-08 01:02:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Britain summoned Iran's chargé d'affaires in London to protest an assault on an Iran International TV journalist."
+    },
+    {
+      "id": "4974816",
+      "time": "2026-07-08 01:02:27",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.179%（6月9日為4.192%），投標倍數2.60（前次為2.64）。"
+    },
+    {
+      "id": "mkt:019f3d87-cbad-7aab-8cd3-8e7fd43b0687",
+      "time": "2026-07-08 01:02:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 3-year Treasury auction to Jul 7: share of awards at the stop-out yield 2.17%, prior 42.92%."
+    },
+    {
+      "id": "mkt:019f3d87-c52f-7aab-8cd3-83add9d04cd1",
+      "time": "2026-07-08 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 3-year Treasury auction on July 7: bid-cover ratio 2.60, prior 2.64."
+    },
+    {
+      "id": "mkt:019f3d87-c0d8-7aab-8cd3-7a8511155e61",
+      "time": "2026-07-08 01:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 3-year Treasury auction on July 7: stop-out yield 4.179%, prior 4.19%."
+    },
+    {
+      "id": "mkt:019f3d87-9c5e-7aab-8cd3-7033407d56fc",
+      "time": "2026-07-08 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (Jul.7) | actual 2.6 | previous 2.64"
+    },
+    {
+      "id": "mkt:019f3d87-9c56-7aab-8cd3-6f029fcf2f95",
+      "time": "2026-07-08 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction High Yield Rate (Jul.7) | actual 4.179% | previous 4.19%"
+    },
+    {
+      "id": "mkt:019f3d87-9c4d-7aab-8cd3-66ea6aed1ffa",
+      "time": "2026-07-08 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Accepted at High (Jul.7) | actual 2.17% | previous 42.92%"
+    },
+    {
+      "id": "4974815",
+      "time": "2026-07-08 01:00:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交部發表宣告：就伊朗國際電視臺記者遭襲擊一事召見伊朗臨時代辦。"
+    },
+    {
+      "id": "4974814",
+      "time": "2026-07-08 01:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：土耳其總統埃爾多安試圖摧毀以色列。哈馬斯終將被解除武裝，無論以何種方式。美國向土耳其出售“F-35”戰鬥機將“破壞中東的力量平衡”。土耳其不是一個支援地區和平與穩定的國家。"
+    },
     {
       "id": "mkt:019f3d85-d43e-7aab-8cd3-59f217240459",
       "time": "2026-07-08 01:00:08",
@@ -145747,96 +145858,6 @@
         "MKT News"
       ],
       "text": "ANTHROPIC has released Claude Science beta, a tool designed to help scientists automate research workflows and reduce repetitive tasks."
-    },
-    {
-      "id": "mkt:019f197c-eb8c-7aab-8c3f-03e23cfb42e9",
-      "time": "2026-07-01 01:04:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Night session most-active contracts close】At 01:00, SHFE most-active copper contract +0.38%, SHFE aluminium +0.11%, SHFE zinc +1.40%, SHFE nickel +0.32%, SHFE tin +2.25%, SHFE lead -0.47%, SHFE stainless-steel +0.92%, SHFE alumina -0.25%; LME copper +0.56%."
-    },
-    {
-      "id": "4963532",
-      "time": "2026-07-01 01:03:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：今日面向Claude Pro、Max、團隊版及企業版使用者釋出Claude Science測試版，詳見官網。"
-    },
-    {
-      "id": "4963531",
-      "time": "2026-07-01 01:03:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：Apple Creator Studio現已作為通用購買專案在App Store開放下載。"
-    },
-    {
-      "id": "4963530",
-      "time": "2026-07-01 01:02:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：推出Genebench-Pro。"
-    },
-    {
-      "id": "mkt:019f197b-ce86-7aab-8c3e-f814d5fdcef6",
-      "time": "2026-07-01 01:02:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O): users can open and customize any image placed in Keynote, Pages or Numbers, and can send Final Cut Pro keyframes directly to Pixelmator Pro."
-    },
-    {
-      "id": "4963529",
-      "time": "2026-07-01 01:02:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國際貿易委員會在針對墨西哥進口鮮番茄的情勢變更復審中作出了否定性裁定。"
-    },
-    {
-      "id": "4963528",
-      "time": "2026-07-01 01:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯境外淨資產或將達到1.743萬億沙特里亞爾（約合4.64萬億美元）。"
-    },
-    {
-      "id": "4963527",
-      "time": "2026-07-01 01:02:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：Apple Creator Studio更新今日起向現有訂閱使用者提供免費升級；新訂閱使用者的訂閱費用為每月12.99美元或每年129美元。"
-    },
-    {
-      "id": "4963526",
-      "time": "2026-07-01 01:01:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：使用者可開啟、自定義放置在Keynote講演、Pages文稿、Numbers表格中的任意圖片，還可直接將Final Cut Pro中的關鍵幀傳送至Pixelmator Pro。"
-    },
-    {
-      "id": "4963525",
-      "time": "2026-07-01 01:01:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：推出Apple Creator Studio更新版本。"
     }
   ]
 }
