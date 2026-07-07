@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-07 22:11:43",
-  "count": 16069,
+  "updated": "2026-07-07 22:15:48",
+  "count": 16071,
   "items": [
+    {
+      "id": "4974685",
+      "time": "2026-07-07 22:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2%。"
+    },
+    {
+      "id": "4974684",
+      "time": "2026-07-07 22:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股晶片股持續走低，閃迪跌超11%】美股晶片股持續走低，閃迪跌超11%，西部資料跌近10%，美光科技 、希捷科技跌超7%， 英偉達跌1.3%。"
+    },
+    {
+      "id": "4974683",
+      "time": "2026-07-07 22:14:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克歐洲600指數跌至當日低點，下跌0.5%。"
+    },
+    {
+      "id": "te:markets:564902",
+      "time": "2026-07-07 22:14:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lam Research Stock Price Hits 4-week Low — Lam Research shares decreased to 318.61 USD, the lowest since June 2026. Over the past 4 weeks, Lam Research lost 1.56%, and in the last 12 months, it increased 225.44%."
+    },
+    {
+      "id": "4974682",
+      "time": "2026-07-07 22:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "多諾萬：委內瑞拉地震後重建之路漫長。"
+    },
+    {
+      "id": "4974681",
+      "time": "2026-07-07 22:13:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍南方司令部多諾萬：美方將持續援助委內瑞拉直至其不再求助。"
+    },
+    {
+      "id": "4974680",
+      "time": "2026-07-07 22:13:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥比索、南非蘭特和巴西雷亞爾觸及盤中低點，美元和原油價格上漲。"
+    },
+    {
+      "id": "mkt:019f3cec-ce62-7aab-8cd1-48ed0261d8a4",
+      "time": "2026-07-07 22:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) shares fell more than 5%."
+    },
+    {
+      "id": "4974679",
+      "time": "2026-07-07 22:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價跌幅擴大至5%。"
+    },
+    {
+      "id": "te:economy:564901",
+      "time": "2026-07-07 22:12:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Canada Economic Activity Slows in June — Canada's Ivey PMI fell to 56.2 in June 2026 from 58.2 in the previous month, missing market expectations of 59.1. The decline ended a three-month streak of gains, signalling a slowdown in business activity. The employment index edged down to 53.6 from 54.3, but remained in expansionary territory. Meanwhile, the prices index eased to 73.7 from 78.0, indicating that price pressures softened, though they remained elevated. The supplier deliveries index slipped to 44.3 from 44.7, remaining broadly stable around the 44 level since April, while the inventories index rose to 50.9 from 47.9, returning to expansionary territory."
+    },
+    {
+      "id": "4974678",
+      "time": "2026-07-07 22:11:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "閃迪跌幅擴大至10%，自最高點累計下跌超34%，總市值報2315億美元。"
+    },
+    {
+      "id": "4974677",
+      "time": "2026-07-07 22:11:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞太政商領袖敦促加強合作以維持可持續增長】6日，由中國貿促會牽頭組織的中方工商界代表團赴泰國曼谷，主持召開2026年亞太經合組織工商諮詢理事會（ABAC）第三次會議。泰國總理阿努廷出席開幕式並發表致辭。他表示，當前的商業環境正變得越來越複雜，而地緣政治不確定性繼續影響商業決策。他指出，這些挑戰單靠政府是無法解決的，如果政府不創造合適的環境，企業也無法克服這些挑戰，政商合作是可持續增長的關鍵。ABAC泰國代表陳卓綿說：“挑戰固然嚴峻，但我們攻堅克難的決心同樣堅定。工商界隨時準備與各國政府攜手合作，建設一個更開放、聯絡更緊密、更繁榮的亞太。”此次會議為期4天，亞太工商界圍繞區域經濟一體化、互聯互通、可持續發展、數字創新等議題開展深入討論。同時，會議致力於為深化亞太區域經貿合作建言獻策。（新華社）"
+    },
+    {
+      "id": "mkt:019f3ceb-37ec-7aab-8cd1-4430b3f64d9c",
+      "time": "2026-07-07 22:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, a building in Midtown Manhattan was evacuated after a collapse warning."
+    },
     {
       "id": "4974676",
       "time": "2026-07-07 22:10:46",
@@ -147308,102 +147421,6 @@
         "行業"
       ],
       "text": "美國聯邦貿易委員會（FTC）表示，要求亞馬遜支付225萬美元，以了結亞馬遜故意違反《公平信用報告法》的指控。"
-    },
-    {
-      "id": "4963244",
-      "time": "2026-06-30 22:15:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合肥人造太陽創下億度千秒紀錄】安徽合肥科學島有全國最密集的大科學裝置叢集，這裡有被稱為“人造太陽”的EAST可控核聚變實驗裝置，也是目前世界紀錄“億度千秒”的保持者。EAST裝置的診斷系統相關負責人曹宏睿表示，包括EAST在內的聚變裝置不只做實驗，其中的每一環技術都在不斷轉化成落地的商業應用，並撐起了周邊近百家上下游企業的聚變產業鏈。 在上海具身智慧企業最密集的區域——張江機器人谷，這裡集中了近100家產業鏈上下游企業。想要造一臺機器人，大部分環節在這裡都能找到，而再向外延展150公里，具身機器人的上中下游則全部可以配齊。（央視財經）"
-    },
-    {
-      "id": "4963243",
-      "time": "2026-06-30 22:14:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【青島海正石墨：劉河甲石墨礦採礦權評估值1.79億元】青島海正石墨公告稱，“青島海正石墨有限公司劉河甲石墨礦採礦權”評估基準日為2023年3月31日，評估採用折現現金流量法。礦區保有資源儲量1486.80萬t，礦物量52.10萬t，設計利用資源儲量為1125.21萬t，可採儲量1080.20萬t，生產規模為60萬t/年，服務年限19.15年，評估計算期取21.15年。最終確定該採礦權評估值為17907.06萬元。評估基於多項盈利預測假設，當假設條件不一致時，評估結論失效。"
-    },
-    {
-      "id": "4963242",
-      "time": "2026-06-30 22:14:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST新華錦：股價異常波動 提示多項風險】ST新華錦公告稱，公司股票於2026年6月26日、29日、30日連續三個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經自查，公司及控股股東、實控人均無應披露未披露重大資訊，生產經營正常。同時提示多項風險，包括業績下滑，2025年淨虧損1.27億元，2026年一季度淨利潤374.22萬元、同比降40.60%；控股股東及其一致行動人股份質押比例高、被司法凍結和標記；內控審計報告被否定；公司及實控人被立案調查尚未有結論。"
-    },
-    {
-      "id": "4963241",
-      "time": "2026-06-30 22:14:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【6月份美國芝加哥地區商業活動降溫】週二公佈的一項月度調查顯示，芝加哥地區的商業活動本月放緩，但仍好於預期。芝加哥商業景氣指數從5月份的62.7降至6月份的56.7，5月份的讀數是2022年1月以來的最高水平。調查的經濟學家此前預計該讀數為55。該指數高於50表明活動擴張。6月份是該指標連續第二個月保持在50上方。調查顯示，該指數下滑是受新訂單和生產下降拖累，不過供應商交貨、未完成訂單和就業的增長在一定程度上抵消了這一下降的影響。新訂單指數繼5月份強勁上漲後回落11.7點。生產指數下滑10.4點，幾乎完全抹去了前一個月的增幅，但連續第六個月處於擴張區間。支付價格指數上升1.6點，至2022年5月以來的最高水平。受訪者稱，油價和金屬價格上漲是價格攀升的主要驅動因素。"
-    },
-    {
-      "id": "te:economy:563043",
-      "time": "2026-06-30 22:14:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Quits",
-        "Importance 1"
-      ],
-      "text": "US Job Quits Tick Up — The number of job quits in the US rose slightly to 3.065 million in May 2026 from the upwardly revised 3.043 million in April but below 3.287 million a year ago. The quits rate stood at 1.9% in May, the lowest reading since 2020, unchanged from April, signaling subdued voluntary job departures. Quits increased primarily in accommodation and food services (+37,000); transportation, warehousing, and utilities (+32,000); professional and business services (+24,000) and federal government (+4,000). Conversely, declines were seen mostly in healthcare and social assistance (-35,000) and construction (-28,000). Regionally, quits rose in the South (+45,000) and the Northeast (+34,000), but decreased in the West (-49,000) and the Midwest (-9,000)."
-    },
-    {
-      "id": "4963240",
-      "time": "2026-06-30 22:13:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣近海地區發生4.9級地震】據日本氣象廳釋出，當地時間30日23時02分左右，日本巖手縣近海地區發生4.9級地震，震源深度40公里，最大震感為震度3。（央視新聞）"
-    },
-    {
-      "id": "4963239",
-      "time": "2026-06-30 22:13:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國國債跌至盤中低點 因美國5月職位空缺資料高於預期】國國債期貨跌至日內低點，因美國5月職位空缺資料高於預期。美國國債收益率全線上升，短端和中端收益率漲幅至多達3個基點，10年期美債收益率回升至4.4%左右，但比德國10年期國債收益率落後約2.5個基點。隔夜指數掉期持穩，目前預計到今年年底累計加息約36個基點，高於週四收盤時預估的34個基點。對於7月議息會議，市場仍計入約9個基點的加息溢價，相當於加息25個基點的機率約為35%。"
-    },
-    {
-      "id": "4963238",
-      "time": "2026-06-30 22:13:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【OpenAI 研發出新方案，可將推理成本減半】據一位知曉相關討論的知情人士透露，有一則此前從未對外披露的訊息：本月早些時候，OpenAI 工程師向部分同事表示，依託幾項全新研發的最佳化技術，他們找到了一套方案，能將模型推理成本削減一半以上。工程師將這套新技術應用於無免費 / 付費賬號訪客使用 ChatGPT 的場景後，一度把所需英偉達圖形處理器（GPU）數量壓至僅數百塊 —— 這一數字低得令人震驚。目前外界尚不清楚 OpenAI 實現此番算力效率大幅提升的具體技術手段，業內常用最佳化方案大致包括：量化壓縮、鍵值快取、批次處理使用者查詢而非逐條單獨運算，以及將部分請求分流至功耗更低的輕量化模型或模型分片進行應答。"
-    },
-    {
-      "id": "4963237",
-      "time": "2026-06-30 22:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鑫興光電發生股權變動，新迅達成控股股東】浙江鑫興光電半導體有限公司於近日發生股權結構變動，控股股東廣東鑫誠光電半導體有限公司將其持有的鑫興光電51%股權轉讓至廣西新迅達科技集團股份有限公司（簡稱：新迅達，股票程式碼：300518），相關工商變更登記手續已辦理完成。"
-    },
-    {
-      "id": "4963236",
-      "time": "2026-06-30 22:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國交通部需削減 7 億英鎊開支，為國防計劃籌措資金。"
-    },
-    {
-      "id": "4963235",
-      "time": "2026-06-30 22:12:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列媒體：以色列總理內塔尼亞胡和以色列國防部長卡茨訪問了黎巴嫩南部的安全區。"
     }
   ]
 }
