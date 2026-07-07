@@ -1,7 +1,1690 @@
 {
   "date": "2026-07-07",
-  "count": 2319,
+  "count": 2508,
   "items": [
+    {
+      "id": "4974643",
+      "time": "2026-07-07 21:53:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報73.43美元/桶。"
+    },
+    {
+      "id": "4974642",
+      "time": "2026-07-07 21:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：EUROCLEAR正就收購UPTEVIA進行獨家談判。"
+    },
+    {
+      "id": "4974641",
+      "time": "2026-07-07 21:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【泡泡瑪特捐贈1000萬元馳援救災一線】近日，廣西、湖北等多地遭遇持續性強降雨，引發嚴重洪澇災害。為全力支援一線救災，泡泡瑪特向受災地區捐贈1000萬元人民幣，用於搶險救災、應急救援、居民安置、生活物資補給及災後重建等工作。"
+    },
+    {
+      "id": "4974640",
+      "time": "2026-07-07 21:51:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【為爭奪初創企業客戶，美國OpenAI、Anthropic等提供免費算力額度】OpenAI、Anthropic、谷歌雲、微軟和亞馬遜雲等公司正向初創企業提供免費算力額度、模型使用折扣和提前訪問許可權，以爭奪企業客戶。報道稱，部分早期初創公司獲得的雲端計算和模型使用額度合計可超過300萬美元。OpenAI和Anthropic還圍繞Y Combinator初創企業展開競爭，分別提供不同額度的模型使用資源。該動向顯示，AI企業正透過降低早期使用成本擴大客戶基礎，推動自身模型和開發工具嵌入初創企業的產品研發流程。"
+    },
+    {
+      "id": "4974639",
+      "time": "2026-07-07 21:51:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "禮來股價上漲4.08%，報1249美元/股，續刷記錄新高，總市值報1.18萬億美元。"
+    },
+    {
+      "id": "4974638",
+      "time": "2026-07-07 21:50:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【26國海03：國海證券確定15億元公司債票面利率為1.75%】26國海03公告稱，國海證券面向專業機構投資者公開發行面值不超100億元公司債券已獲批，本期債券（“26國海03”）為註冊批覆項下第六期，計劃發行規模不超15億元。7月7日詢價後，確定票面利率為1.75%，將於7月8日至9日面向專業機構投資者網下發行。"
+    },
+    {
+      "id": "4974637",
+      "time": "2026-07-07 21:49:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國浦項集團計劃2033年前將鋰產量提升至17.3 萬噸，成為全球五大鋰供應商之一】韓國浦項集團（Posco）計劃2033年前實現鋰產量翻番至 17.3 萬噸，成為全球五大鋰供應商之一。根據計劃，其中10萬噸產能來自鹽湖滷水鋰，7.3萬噸產能來自硬巖鋰。Posco已在阿根廷Hombre Muerto鹽湖獲得兩個礦區，並收購澳大利亞礦物公司MinRes鋰礦相關股份。據悉，該公司還計劃到2030年將黑粉處理能力從每年1.2萬噸提升至3.2萬噸。"
+    },
+    {
+      "id": "te:markets:564896",
+      "time": "2026-07-07 21:48:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Near 1-Month High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the sixth consecutive session on Tuesday, rising by 2.8% to its highest since June 8 at 2,875 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also advance for the sixth day, adding 205 points to 4,514 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, increased 14 points to 2,230 points. Among smaller vessels, the supramax index edged up 1 point to 1,676 points."
+    },
+    {
+      "id": "4974636",
+      "time": "2026-07-07 21:47:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海新能科與鄭州公用集團交流 探討深化合作路徑】近日，海新能科總經理孔德良帶隊到訪鄭州公用集團開展座談交流，雙方圍繞資源迴圈利用領域，就深化合作路徑、拓展協同空間進行深入探討。會上，雙方圍繞廢棄食用油（UCO）原料供應、廢舊輪胎資源化利用等重點領域進行了深度探討。(人民財訊)"
+    },
+    {
+      "id": "4974635",
+      "time": "2026-07-07 21:47:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國SpaceX公司成功發射並測試“Fabships”實驗艙，驗證了太空微重力環境下製造半導體晶片的可能性】美國SpaceX公司在近期的“星鏈”發射任務中，搭載Besxar公司研發的“Fabship”實驗艙，成功測試了太空半導體制造技術。該裝置隨獵鷹9號火箭越過卡門線，利用太空微重力與超潔淨真空環境，旨在消除重力引起的晶體生長缺陷，生產純度更高、效能更優的半導體材料。Besxar已與SpaceX簽署12次連續測試飛行協議，以快速迭代製造工藝並驗證半導體晶片安全返回地球的能力。若技術成熟，太空有望成為半導體供應鏈的新環節，為晶片製造領域提供地面無法生產的超純材料。"
+    },
+    {
+      "id": "4974634",
+      "time": "2026-07-07 21:46:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本政府計劃投入1.2萬億日元，重建國內LNG運輸船建造能力】日本政府公佈官民投資路線圖草案，計劃投入1.2萬億日元（約74.18億美元），目標在2035年前重啟LNG運輸船建造，並建立年產3-5艘的產能體系。目前，日本具有傳統優勢的MOSS型LNG船已被市場淘汰，主流的薄膜型LNG船建造市場約70%份額被韓國佔據。日本造船業還面臨工程師流失、產能不足、訂單量不穩定等問題，戰略重啟的前景尚不明朗。"
+    },
+    {
+      "id": "4974633",
+      "time": "2026-07-07 21:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將SHARKNINJA INC目標價從145美元上調至165美元。"
+    },
+    {
+      "id": "mkt:019f3cd2-ad23-7aab-8cd0-bf04c504bdc9",
+      "time": "2026-07-07 21:44:27",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA Global Research initiates coverage of SpaceX (SPCX.O) with a buy rating and a $235 target price."
+    },
+    {
+      "id": "4974632",
+      "time": "2026-07-07 21:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究恢復對FIGMA INC 的覆蓋，給予買入評級，目標價為30美元。"
+    },
+    {
+      "id": "4974631",
+      "time": "2026-07-07 21:43:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.37%。"
+    },
+    {
+      "id": "mkt:019f3cd1-825a-7aab-8cd0-b15640079ad1",
+      "time": "2026-07-07 21:43:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Edmond de Rothschild: yen weakness excessive, could hit 170 without intervention; coordinated H2 FX action likely】Michael Nizad, head of multi-asset and portfolio management at Edmond de Rothschild Asset Management, said the yen’s weakness is excessive given Japan’s strong fundamentals and could push USD/JPY toward 170 within three months absent intervention. USD/JPY hit 162.83 on Wednesday, a 40-year high, and was trading at 161.76. Nizad said such depreciation would boost Japanese industry competitiveness and would be unacceptable to the Trump administration, so he expects coordinated foreign-exchange intervention by the Bank of Japan, Federal Reserve and European Central Bank in H2. He added that any yen appreciation without intervention would likely be short-lived; a successful intervention could compress USD/JPY to around 155, making the near-163 move the peak."
+    },
+    {
+      "id": "4974630",
+      "time": "2026-07-07 21:42:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股碳化矽龍頭Wolfspeed盤初走低，最新跌超7%。"
+    },
+    {
+      "id": "mkt:019f3cd1-1e5e-7aab-8cd0-a9d2b569d223",
+      "time": "2026-07-07 21:42:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 0.39% intraday to trade above $4,180/oz."
+    },
+    {
+      "id": "4974629",
+      "time": "2026-07-07 21:42:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究首次覆蓋sapceX，給予買入評級，目標價 235 美元  。"
+    },
+    {
+      "id": "mkt:019f3ccf-b61c-7aab-8cd0-a088b128d30e",
+      "time": "2026-07-07 21:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said Seoul and NATO want to expand defense cooperation on weapon-systems R&D and production."
+    },
+    {
+      "id": "4974628",
+      "time": "2026-07-07 21:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國和北約希望在武器系統的研發和生產方面擴大防務合作。"
+    },
+    {
+      "id": "4974626",
+      "time": "2026-07-07 21:40:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，金山雲漲6.79%，塗鴉智慧漲2.47%，小贏科技漲2.00%，亞朵集團漲1.97%。"
+    },
+    {
+      "id": "4974625",
+      "time": "2026-07-07 21:40:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠城中國：2026年上半年合同銷售面積約182萬平方米，合同銷售金額約人民幣602億元】綠城中國(03900.HK)公告，2026年6月，綠城集團自投專案取得銷售2073套，銷售面積約31萬平方米，當月銷售金額約為人民幣114億元，銷售均價約為每平方米人民幣36938元。2026年1-6月，綠城集團取得合同銷售面積約182萬平方米，合同銷售金額約人民幣602億元；其中歸屬於綠城集團的權益金額約為人民幣407億元。於2026年6月30日，另有累計已籤認購協議未轉銷售合同的金額約人民幣17億元，其中歸屬於綠城集團的權益金額約為人民幣12億元。"
+    },
+    {
+      "id": "te:markets:564895",
+      "time": "2026-07-07 21:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Muted Amid Renewed Middle East Tensions — The Ibovespa traded little changed near 172,500 on Tuesday on fresh geopolitical escalation between Iran and the US. Oil prices, which had retreated to near pre-conflict levels following the Iran-Israel ceasefire, edged higher after reports of new attacks on vessels in the Strait of Hormuz. The rebound supported Petrobras, which gained more than 0.5%, but also pushed bond yields higher on renewed inflation concerns, limiting gains for financials and the broader market. Major banks traded mixed, with Itaú edging up and Bradesco slightly lower. Separately, Itaúsa (+0.2%) said it could subscribe between R$730 million and R$1.5 billion in Aegea's proposed capital increase, aimed at strengthening its capital structure and accelerating deleveraging. Vale fell nearly 1% on lower iron ore prices."
+    },
+    {
+      "id": "mkt:019f3ccf-0ac2-7aab-8cd0-98216cb2a5b0",
+      "time": "2026-07-07 21:40:29",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "US equity indices diverged: Nasdaq-100 fell 1.5%, while the Dow rose about 0.5% to a record high."
+    },
+    {
+      "id": "4974624",
+      "time": "2026-07-07 21:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "te:markets:564894",
+      "time": "2026-07-07 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.21% Higher — The Dow Jones Index is picking up 110 points or 0.21 percent on Tuesday. Gains are led by J&J (3.07%), Chevron (2.69%) and Coca-Cola (2.46%). Biggest losers are Caterpillar (-4.09%), Nvidia (-1.64%) and Visa (-0.60%)."
+    },
+    {
+      "id": "4974623",
+      "time": "2026-07-07 21:40:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：將在流動性調節工具下進行2500億盧比的隔夜可變利率回購拍賣。"
+    },
+    {
+      "id": "4974622",
+      "time": "2026-07-07 21:39:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "COMPASS PATHWAYS股價下跌5.4%，此前公司公佈抑鬱症治療後期試驗資料。"
+    },
+    {
+      "id": "4974621",
+      "time": "2026-07-07 21:39:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：對沖基金BREVAN HOWARD旗下主力基金6月下跌1.97%，年內迄今漲幅為2.23%。"
+    },
+    {
+      "id": "4974620",
+      "time": "2026-07-07 21:38:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【子公司PCB產品價格上調，木林森回應：原材料漲價所致，業務整體佔比不大】7月7日，有訊息稱，木林森全資子公司新餘木林森電子釋出漲價通知函，宣佈自2026年7月7日起對全線PCB產品價格上調10%—15%。對此，木林森方面向中國證券報記者表示，PCB漲價情況以子公司新餘木林森電子漲價函為準。PCB漲價主要是上游原材料漲價所致。相關產品在公司主業裡佔比不大。公司主要以LED封裝等業務為主。(中證金牛座)"
+    },
+    {
+      "id": "4974619",
+      "time": "2026-07-07 21:37:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "三星業績引發人工智慧板塊恐慌，美國半導體公司股價下跌。"
+    },
+    {
+      "id": "4974618",
+      "time": "2026-07-07 21:37:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "VANECK半導體ETF下跌4.2%，ISHARES半導體ETF下跌5.4%。"
+    },
+    {
+      "id": "4974617",
+      "time": "2026-07-07 21:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯6月份官方儲備資產增至1.855萬億沙特里亞爾。"
+    },
+    {
+      "id": "mkt:019f3ccb-613f-7aab-8cd0-94143d76bde9",
+      "time": "2026-07-07 21:36:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Philadelphia Semiconductor Index falls 5%."
+    },
+    {
+      "id": "4974616",
+      "time": "2026-07-07 21:36:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "儲存板塊集體下挫：美光跌 6.9%，閃迪跌 7.5%，希捷跌 5.4%，西部資料跌 6.8%。"
+    },
+    {
+      "id": "4974615",
+      "time": "2026-07-07 21:36:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達下跌 1.6%，博通跌 1.7%，AMD 大跌 7.2%，英特爾下挫 8.1%，高通走低 1.8%。"
+    },
+    {
+      "id": "te:markets:564890",
+      "time": "2026-07-07 21:34:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nasdaq 100 Sinks While Dow Notches Fresh Record — US stock indices were mixed on Tuesday as fresh volatility for chip producers weighed against resilience in traditional economic sectors. The S&P 500 was flat and the Nasdaq 100 dropped 1.5%, while the Dow rose nearly 200 points to a new record high. Memory producers sank with Micron and Sandisk dropped around 7% each, even though Samsung posted a 19-fold surge in profit last quarter. The surge was in line with the sector's stocks rally this year, driving markets grow increasingly skeptical on whether AI hyperscalers can justify elevated levels of capital expenditure on infrastructure. Consistently, SpaceX dropped 1% amid its inclusion in the Nasdaq 100. In turn, banks and pharmaceutical companies were mostly higher with JPMorgan adding 1% and J&J gaining 3%, extending their strong momentum despite lingering macroeconomic uncertainty. Yields edged higher after attacks on an LNG tanker in the Middle East tempered hopes of lower energy inflation."
+    },
+    {
+      "id": "4974614",
+      "time": "2026-07-07 21:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌幅擴大至5%。"
+    },
+    {
+      "id": "4974613",
+      "time": "2026-07-07 21:34:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "DHL集團<DHLn.DE>股價上漲1.8%，公司上調2026年盈利展望。"
+    },
+    {
+      "id": "4974612",
+      "time": "2026-07-07 21:33:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西將透過拍賣出售150萬份LFT債券。"
+    },
+    {
+      "id": "te:markets:564889",
+      "time": "2026-07-07 21:33:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Stock Price Hits 5-week High — PepsiCo shares increased to 147.65 USD, the highest since May 2026. Over the past 4 weeks, PepsiCo gained 4.69%, and in the last 12 months, it increased 9.54%."
+    },
+    {
+      "id": "4974611",
+      "time": "2026-07-07 21:33:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，金山雲漲6.30%，理想汽車漲2.83%，小贏科技漲2.42%，世紀互聯漲2.18%，BOSS直聘漲1.32%。"
+    },
+    {
+      "id": "4974610",
+      "time": "2026-07-07 21:32:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "安森美半導體股價下跌3.8%；該公司將出售兩座晶片製造工廠以削減成本。"
+    },
+    {
+      "id": "4974609",
+      "time": "2026-07-07 21:32:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "RIVIAN股價下跌13%，創2024年11月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019f3cc7-83bb-7aab-8cd0-8d8b899809a2",
+      "time": "2026-07-07 21:32:16",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian (RIVN.O) shares fell 13%, the largest decline since November 2024."
+    },
+    {
+      "id": "mkt:019f3cc7-70fa-7aab-8cd0-8454e8b24afb",
+      "time": "2026-07-07 21:32:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average opened up 176.93 points (+0.33%) at 53,232.84 on July 7 (Tuesday); S&P 500 opened down 6.46 points (-0.09%) at 7,530.97; Nasdaq Composite opened down 126.42 points (-0.48%) at 25,994.74."
+    },
+    {
+      "id": "4974608",
+      "time": "2026-07-07 21:31:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數開盤下挫4%】費城半導體指數開盤下挫4%。英偉達股價下跌1.93%，臺積電股價下跌2.94%，博通股價下跌0.62%，美光科技股價下跌6.77%，超威半導體股價下跌5.98%，阿斯麥股價下跌4.14%，英特爾股價下跌6.26%，ARM股價下跌2.9%。"
+    },
+    {
+      "id": "te:markets:564888",
+      "time": "2026-07-07 21:31:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Nestle Stock Price Hits 12-month High — Nestle shares increased to 85.11 CHF, the highest since June 2025. Over the past 4 weeks, Nestle gained 11%, and in the last 12 months, it increased 8.52%."
+    },
+    {
+      "id": "te:markets:564887",
+      "time": "2026-07-07 21:31:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Chile",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Chile Hit 3-year Low — IGPA decreased to 26703.00 Index Points, the lowest since April 2023. Over the past 4 weeks, Santiago Stock Exchange IGPA Index gained 5.72%, and in the last 12 months, it increased 31.43%."
+    },
+    {
+      "id": "mkt:019f3cc6-3bac-7aab-8cd0-7df8bdf260ef",
+      "time": "2026-07-07 21:30:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SNDK.O",
+        "Impact bearish",
+        "WDC.O",
+        "MU.O"
+      ],
+      "text": "US stocks at the open: Dow Jones Industrial Average +0.09%, S&P 500 -0.22%, Nasdaq Composite -0.60%. Semiconductor names extended declines: SanDisk (SNDK.O) -6.5%, Western Digital (WDC.O) -6.7%, Micron Technology (MU.O) -6.07%. SpaceX (SPCX.O) fell 1.7%; it was officially added to the Nasdaq-100 today."
+    },
+    {
+      "id": "4974607",
+      "time": "2026-07-07 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.31%，標普500指數跌0.09%，納指跌0.48%。閃迪跌6.44%，美光跌6.27%，費哲漲5.05%，阿克邁漲4.98%，Axon Enterprise漲4.45%。“七姐妹”方面：微軟漲1.30%，亞馬遜漲1.06%，Meta Platforms漲0.81%，蘋果漲0.60%，谷歌漲0.34%，特斯拉跌0.35%，英偉達跌1.92%。"
+    },
+    {
+      "id": "4974606",
+      "time": "2026-07-07 21:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "CRINETICS股價飆升99%，創歷史新高，達到83.59美元。"
+    },
+    {
+      "id": "4974605",
+      "time": "2026-07-07 21:29:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股儲存晶片板塊受三星財報拖累集體走弱】三星釋出最新季度財報後，美股儲存晶片及資料儲存企業股價捲入科技股下跌行情。美光科技盤前下跌 5%，報 933 美元；閃迪、希捷科技股價分別下挫約 6%，西部數碼盤前大跌 7%。此次拋售潮始於三星電子亮眼財報披露：公司利潤暴漲 19 倍，且預計今年下半年盈利將持續增長。但投資者反而拋售三星股票，帶動其上下游供應商、競品儲存晶片廠商以及其他科技龍頭同步走低。市場對三星亮眼財報的負面反饋，被視作科技股行情顯現乏力的訊號。此前受益人工智慧普及、AI 基建大規模投入，科技板塊經歷一輪大幅上漲。"
+    },
+    {
+      "id": "4974604",
+      "time": "2026-07-07 21:29:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌2%，現報3767.00元。"
+    },
+    {
+      "id": "4974603",
+      "time": "2026-07-07 21:27:48",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲威廉斯稱貨幣政策處於實現雙重使命目標的有利位置】紐約聯邦儲備銀行行長約翰·威廉斯在接受採訪時重申了他的觀點，即貨幣政策處於實現美聯儲雙重使命目標的有利位置。關於勞動力市場，他表示看到了穩定、堅實的增長。儘管承認通貨膨脹仍然過高，但他表示：“由於我們將看到能源價格下跌，我對近期的通貨膨脹前景確實感到稍微更樂觀一些。”"
+    },
+    {
+      "id": "4974602",
+      "time": "2026-07-07 21:27:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨法拉奇：將在補選中參選。"
+    },
+    {
+      "id": "4974601",
+      "time": "2026-07-07 21:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉奇：英國需要大選。"
+    },
+    {
+      "id": "4974600",
+      "time": "2026-07-07 21:26:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油價格攀升至盤中高點，WTI原油價格接近每桶70美元。"
+    },
+    {
+      "id": "4974599",
+      "time": "2026-07-07 21:26:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨法拉奇：將迫使舉行補選。"
+    },
+    {
+      "id": "4974598",
+      "time": "2026-07-07 21:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉奇：我將辭去英國議員一職。"
+    },
+    {
+      "id": "4974597",
+      "time": "2026-07-07 21:25:42",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "普渡大學：美國農民信心指數6月份走低，美國6月份農業景氣指數降至113。"
+    },
+    {
+      "id": "mkt:019f3cc0-7cfb-7aab-8cd0-74578308ab1e",
+      "time": "2026-07-07 21:24:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $70/bbl, up 1.64% on the day."
+    },
+    {
+      "id": "4974596",
+      "time": "2026-07-07 21:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營處（UKMTO）表示，目前尚無人員傷亡或環境影響的報告。"
+    },
+    {
+      "id": "mkt:019f3cbf-caae-7aab-8cd0-69c8f6d05bd0",
+      "time": "2026-07-07 21:23:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UKMTO reported a tanker was struck by an unidentified object, suspected to have caused structural damage; no casualties or environmental impact reported."
+    },
+    {
+      "id": "4974595",
+      "time": "2026-07-07 21:23:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海洋貿易局（UKMTO）表示，該油輪被一枚不明拋射物擊中，據信已造成結構性損壞。"
+    },
+    {
+      "id": "mkt:019f3cbe-c937-7aab-8cd0-65e061d55d81",
+      "time": "2026-07-07 21:22:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO reports an oil tanker was involved in an incident while transiting the Strait of Hormuz."
+    },
+    {
+      "id": "4974594",
+      "time": "2026-07-07 21:22:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事運輸辦公室報告稱，一艘油輪在霍爾木茲海峽航行時發生事故。"
+    },
+    {
+      "id": "4974593",
+      "time": "2026-07-07 21:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及基爾・斯塔默：我猜這位英國首相如今不再站在我們這邊，或許是伊朗相關問題導致的。他此前的相關舉措非常不受歡迎。"
+    },
+    {
+      "id": "mkt:019f3cbd-da52-7aab-8cd0-5d36598fa9cf",
+      "time": "2026-07-07 21:21:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Commander of Ukraine's drone forces said Ukrainian drones struck two Russian \"shadow fleet\" oil tankers in the Sea of Azov."
+    },
+    {
+      "id": "4974592",
+      "time": "2026-07-07 21:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機部隊指揮官稱，烏方無人機在亞速海又擊中了兩艘俄羅斯\"影子艦隊\"的燃料運輸船。"
+    },
+    {
+      "id": "4974590",
+      "time": "2026-07-07 21:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴安娜航運：截至2027年10月5日（最早租期）至2027年12月20日（最晚租期）期間，總租船費率為每日16850美元。"
+    },
+    {
+      "id": "4974589",
+      "time": "2026-07-07 21:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒿慧傑葉牛平會見陝西建工控股集團有限公司董事長毛繼東、中國鐵建十八局集團有限公司董事長閆廣天一行】7月7日，陝西省委常委、西安市委書記蒿慧傑，市長葉牛平會見陝西建工控股集團有限公司董事長毛繼東、中國鐵建十八局集團有限公司董事長閆廣天一行。蒿慧傑、葉牛平代表市委市政府對毛繼東、閆廣天一行到來表示歡迎，指出陝建控股集團、中鐵十八局集團都是有著光榮紅色傳統的基建行業引領者，實力雄厚、經驗豐富、口碑過硬，長期深耕西安、支援西安，圓滿完成多項重大城建、交通基建、民生保障工程，特別是在“保回遷”等重要工作上給予了西安有力支援，是西安的“城市合夥人”，為城市最佳化空間佈局、完善功能配套、增進民生福祉作出了重要貢獻，市委市政府對兩家集團長期以來給予西安的大力支援表示感謝。西安城市建設和城市更新領域空間巨大、前景廣闊，歡迎陝建控股集團、中鐵十八局集團發揮優勢、積極參與，堅持投建運管一體化發展，為提升城市綜合承載力提供有力支撐。希望雙方開展更高水平、更寬領域、更深層次的戰略合作，在城市更新、智慧城市、綠色城建、新能源和新型儲能等領域尋找合作契合點、打造新的增長點，積極培育戰略性新興產業，更好實現共贏發展。市委市政府將持續最佳化營商環境，強化要素保障，全力為企業在西安發展提供優質服務、創造良好條件。（西安釋出）"
+    },
+    {
+      "id": "4974588",
+      "time": "2026-07-07 21:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬潤股份：王忠立辭職 聘任付少邦為總經理】萬潤股份(002643)7月7日公告，王忠立因年齡原因，申請辭去公司總經理職務。經公司董事會提名委員會審查，公司董事會同意聘任付少邦為公司總經理。自此次聘任之日起，付少邦不再擔任公司副總經理。"
+    },
+    {
+      "id": "4974587",
+      "time": "2026-07-07 21:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨法拉奇：另一項標準調查正在進行中。標準正被用作政治工具。"
+    },
+    {
+      "id": "te:markets:564882",
+      "time": "2026-07-07 21:17:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on Trade Balance Data — Futures tracking the S&P/TSX Composite Index rose on Tuesday after Canada's exports climbed to a record C$77.1 billion in May. Higher shipments of gold ores and concentrates to China lended support to mining stocks. Oil prices, which had retreated to near pre-conflict levels following the Iran-Israel ceasefire, edged higher after reports of new attacks on vessels in the Strait of Hormuz. The rebound offered some support to energy stocks but also lifted Canadian bond yields slightly on renewed inflation concerns, limiting gains for financials and the broader market. Investors also awaited the minutes from the Fed's June meeting."
+    },
+    {
+      "id": "4974586",
+      "time": "2026-07-07 21:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉奇：我收到一筆大額私人饋贈，數額堪比彩票頭獎。"
+    },
+    {
+      "id": "4974585",
+      "time": "2026-07-07 21:16:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山金國際：選舉畢洪濤為公司董事長】山金國際(000975)7月7日公告，公司董事會會議審議透過議案，同意選舉畢洪濤為公司第九屆董事會董事長，任期自此次董事會透過之日起至第九屆董事會屆滿之日止。"
+    },
+    {
+      "id": "4974584",
+      "time": "2026-07-07 21:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部部長劉偉在內蒙古調研時強調 全力推進“十五五”規劃落地實施支撐 打造我國向北開放重要橋頭堡】7月6日至7日，交通運輸部黨組書記、部長劉偉在內蒙古自治區就深入學習貫徹習近平總書記關於交通強國的重要論述，圍繞全力推進“十五五”規劃落地實施，調研口岸執行、服務區提質升級、物流樞紐建設、智慧交通發展等工作。調研期間，劉偉與內蒙古自治區黨委書記王偉中、自治區政府主席包鋼座談，就推動交通運輸高質量發展進行深入交流。"
+    },
+    {
+      "id": "4974583",
+      "time": "2026-07-07 21:15:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "綠城中國公告稱，6月集團自投專案銷售金額約為114億元。"
+    },
+    {
+      "id": "4974582",
+      "time": "2026-07-07 21:15:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "《每日郵報》出版商聯合報業集團就哈里王子判決一事發聲：這是《每日郵報》及其記者的壓倒性勝利。"
+    },
+    {
+      "id": "4974581",
+      "time": "2026-07-07 21:15:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "敦豪集團預計全年息稅前利潤至少為65億歐元。"
+    },
+    {
+      "id": "4974580",
+      "time": "2026-07-07 21:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "敦豪集團第二季度息稅前利潤為18.5億歐元。"
+    },
+    {
+      "id": "4974579",
+      "time": "2026-07-07 21:14:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨領袖法拉奇：賺錢並非犯罪。"
+    },
+    {
+      "id": "mkt:019f3cb7-a687-7aab-8cd0-52b37a29db9e",
+      "time": "2026-07-07 21:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Monaco bombing suspect found dead in Kyiv; Ukrainian intelligence officer admits killing】The Security Service of Ukraine (SBU) said on Tuesday it found Anastasiia Berezovska, a Ukrainian national wanted by Monaco and Interpol over a June 29 bombing in Monaco that targeted businessman Vadim Yermolaev and his family, dead in Kyiv with a gunshot wound to the head. The SBU said an officer serving in the Defense Ministry's intelligence branch has confessed, with the assistance of a former law-enforcement officer, to killing Berezovska; the officer said the act was personal and was not reported to superiors. The Monaco blast injured three people, including a child; Interpol had issued a red notice for the 39-year-old suspect."
+    },
+    {
+      "id": "4974578",
+      "time": "2026-07-07 21:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江啟動水旱災害防禦（防颱）Ⅳ級應急響應】浙江省水利廳決定於7日18時啟動水旱災害防禦（防颱）Ⅳ級應急響應，並要求各地水利部門按預案啟動相應的應急響應，密切關注颱風發展，防範颱風帶來的強降雨，切實做好水情監測預警、水工程排程和防汛搶險技術支撐工作，確保人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "4974577",
+      "time": "2026-07-07 21:14:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶利國際：出資3000萬元認購高投宏騰部分份額】寶利國際(300135)7月7日公告，公司作為有限合夥人參與認購了私募基金管理人上海高信私募基金管理有限公司設立的私募基金青島高投宏騰投資合夥企業（有限合夥）（簡稱“高投宏騰”）的有限合夥份額。高投宏騰總出資額9300萬元，公司認繳出資3000萬元，出資比例為32.26%。該合夥企業投資領域為高階製造行業。"
+    },
+    {
+      "id": "4974576",
+      "time": "2026-07-07 21:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將考慮向土耳其出售F-35戰鬥機】特朗普再次發出強烈訊號，表示其可能很快會尋求推翻禁止土耳其從美國購買F-35戰鬥機的禁令。“這是我們將要作出的決定，”特朗普週二在安卡拉北約峰會間隙與土耳其總統埃爾多安會晤前表示。“這無疑是我們會考慮的事情。”儘管今年盟國領導人齊聚一堂的峰會氣氛緊張，但這兩位領導人推動了雙邊關係的改善。特朗普表示，他之所以出席，完全是因為埃爾多安。特朗普是17年來首位訪問安卡拉的美國總統，兩國正尋求在防務、能源、貿易和地區安全等領域深化戰略合作。"
+    },
+    {
+      "id": "4974575",
+      "time": "2026-07-07 21:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨領袖法拉奇：我已遵守議會規則。"
+    },
+    {
+      "id": "4974574",
+      "time": "2026-07-07 21:13:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨領袖法拉奇：我沒有任何不當行為，我從未挪用公款。"
+    },
+    {
+      "id": "4974573",
+      "time": "2026-07-07 21:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉奇：我沒有任何過錯，完全沒有觸犯法律。"
+    },
+    {
+      "id": "mkt:019f3cb6-4eee-7aab-8cd0-4884e41a8fc2",
+      "time": "2026-07-07 21:13:28",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he may seek to overturn US ban on F-35 sales to Turkey】Trump signaled he may soon seek to overturn the US ban on Turkey purchasing F-35 fighters, saying a decision on the matter is forthcoming, ahead of a meeting with Turkish President Erdogan during the NATO summit in Ankara. The visit—Trump’s first trip to Ankara by a US president in 17 years—saw the leaders push to improve bilateral ties and discuss deeper cooperation on defense, energy, trade and regional security."
+    },
+    {
+      "id": "4974572",
+      "time": "2026-07-07 21:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨黨魁奈傑爾·法拉奇：建制派已經認定，他們無法正大光明地擊敗改革黨。"
+    },
+    {
+      "id": "4974571",
+      "time": "2026-07-07 21:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國法拉奇：擔任議員的這段經歷我十分受用。"
+    },
+    {
+      "id": "4974570",
+      "time": "2026-07-07 21:13:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中共中央組織部關於在防汛救災工作中充分發揮基層黨組織戰鬥堡壘作用和廣大黨員先鋒模範作用的通知】近日，廣西、湖北、甘肅等地因降雨大風天氣，接連發生水庫潰壩、山體滑坡等災情，造成重大人員傷亡和經濟損失。當前，我國已全面進入主汛期，防汛形勢嚴峻複雜。為深入貫徹落實習近平總書記關於防汛救災工作的重要指示精神，現就在防汛救災工作中充分發揮基層黨組織戰鬥堡壘作用和廣大黨員先鋒模範作用的有關事項通知如下。（新華社）"
+    },
+    {
+      "id": "4974569",
+      "time": "2026-07-07 21:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國將解除依據《透過制裁打擊美國對手法案》對土耳其實施的制裁。"
+    },
+    {
+      "id": "4974568",
+      "time": "2026-07-07 21:12:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【弘陽地產：2026年上半年累計合約銷售金額為人民幣9.44億元】弘陽地產(01996.HK)在港交所公告，本公司、附屬公司及聯營公司2026年6月份的合約銷售金額為人民幣1.76億元；銷售面積為34690平方米；平均銷售價格為每平方米人民幣5074元。2026年1月–6月，本集團實現累計合約銷售金額為人民幣9.44億元；累計銷售面積為99998平方米；平均銷售價格為每平方米人民幣9440元。"
+    },
+    {
+      "id": "4974567",
+      "time": "2026-07-07 21:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河全線通水後首遭特大洪災】廣西壯族自治區交通運輸廳廳長劉可在7日晚間舉行的廣西搶險救災新聞釋出會上介紹，本輪降雨是平陸運河全線通水後首次遭遇特大洪澇災害，整套防汛體系經受住了極端工況的考驗。汛前，專案實施多級預警、閉環管控，要求船舶、機械、人員安全轉移；汛中，全域拉網排查樞紐、高邊坡、圍堰等關鍵點位，處置20餘處支流口匯入點和區域性河岸邊坡破損問題。汛期無人員傷亡、無重大工程險情，運河三大樞紐和航道主體結構完好，整體形勢平穩可控。（新華社）"
+    },
+    {
+      "id": "mkt:019f3cb4-e7c2-7aab-8cd0-4441bce5e6e3",
+      "time": "2026-07-07 21:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US will lift CAATSA sanctions on Turkey."
+    },
+    {
+      "id": "mkt:019f3cb4-48c0-7aab-8cd0-3e355c119ceb",
+      "time": "2026-07-07 21:11:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "President Trump said Europe’s situation is now very different."
+    },
+    {
+      "id": "4974566",
+      "time": "2026-07-07 21:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國高等法院就哈里王子等人對《每日郵報》出版商提起的隱私訴訟作出裁決，駁回哈里王子等人針對《每日郵報》提起的隱私訴訟。"
+    },
+    {
+      "id": "4974565",
+      "time": "2026-07-07 21:10:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普被問及格陵蘭島時表示：我們可能從歐洲撤出所有美軍。"
+    },
+    {
+      "id": "mkt:019f3cb3-ce2d-7aab-8cd0-343384f96c65",
+      "time": "2026-07-07 21:10:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "President Trump, commenting on Greenland, said the United States could withdraw all troops from Europe."
+    },
+    {
+      "id": "mkt:019f3cb3-4ad8-7aab-8cd0-2d7d57b48330",
+      "time": "2026-07-07 21:10:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump criticized European immigration and energy policies."
+    },
+    {
+      "id": "4974564",
+      "time": "2026-07-07 21:10:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批評歐洲的移民和能源政策。"
+    },
+    {
+      "id": "4974563",
+      "time": "2026-07-07 21:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歐洲現在的情況大不相同了。"
+    },
+    {
+      "id": "4974562",
+      "time": "2026-07-07 21:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "雷神技術聯合歐洲企業，計劃將毒刺導彈產能提升一倍。"
+    },
+    {
+      "id": "mkt:019f3cb2-d885-7aab-8cd0-240cf4914366",
+      "time": "2026-07-07 21:09:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump says Greenland should be controlled by the United States."
+    },
+    {
+      "id": "mkt:019f3cb2-d533-7aab-8cd0-1bb62e6a1a8a",
+      "time": "2026-07-07 21:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said on Greenland that the island is not helpful to Denmark and is vital to the United States."
+    },
+    {
+      "id": "te:economy:564877",
+      "time": "2026-07-07 21:09:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "French Yields Climb on Le Pen Ruling and Oil Rise — France's 10-year OAT yield rose to 3.65%, its highest level since June 11, as investors weighed mounting political uncertainty and higher oil prices. Far-right leader Marine Le Pen was cleared to run in the 2027 presidential election, although she will be required to wear an electronic bracelet for a year—a condition she has said could lead her to withdraw. Polls still show the National Rally as the frontrunner, with its candidate widely expected to reach the second-round runoff, while uncertainty persists over who will emerge as the main challenger after President Emmanuel Macron, who has yet to establish a clear successor. Meanwhile, crude oil climbed above $72 per barrel following attacks in the Strait of Hormuz, fueling inflation concerns and strengthening expectations that the ECB may keep interest rates higher for longer. ECB policymaker Isabel Schnabel also warned that the economic impact of the Iran conflict remains significant as core inflation stays elevated."
+    },
+    {
+      "id": "4974561",
+      "time": "2026-07-07 21:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：格陵蘭島應當由美國掌控。"
+    },
+    {
+      "id": "4974560",
+      "time": "2026-07-07 21:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：格陵蘭島對美國很重要。"
+    },
+    {
+      "id": "mkt:019f3cb2-6616-7aab-8cd0-1249a7246c63",
+      "time": "2026-07-07 21:09:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Italian Prime Minister Meloni did not back the US on Iran, worsening bilateral relations."
+    },
+    {
+      "id": "4974559",
+      "time": "2026-07-07 21:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談格陵蘭島：對丹麥沒有幫助。"
+    },
+    {
+      "id": "mkt:019f3cb2-414e-7aab-8cd0-0d95744ff905",
+      "time": "2026-07-07 21:09:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "Raytheon is working with European firms to double production of \"Stinger\" missiles."
+    },
+    {
+      "id": "4974558",
+      "time": "2026-07-07 21:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大方面表示，歡迎阿爾巴尼亞、比利時、希臘、拉脫維亞、盧森堡、羅馬尼亞、土耳其和烏克蘭為防衛銀行提供支援。"
+    },
+    {
+      "id": "4974557",
+      "time": "2026-07-07 21:08:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曝DeepSeek自研AI晶片，知情人士透露細節】據報道，DeepSeek正在開發自主AI晶片，致力於減少對英偉達等公司晶片的依賴。據知情人士透露，DeepSeek的自研AI晶片主要面向推理任務，而不是AI模型訓練。“該公司已與外部合作伙伴接洽，並與晶片設計、代工製造及儲存晶片企業進行了討論。”據知情人士透露，DeepSeek自研晶片的工作大約在一年前便已啟動。對於自研AI晶片一事，新浪科技向DeepSeek方面求證，截至發稿公司暫無回應。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f3cb1-fdbd-7aab-8cd0-054fca031376",
+      "time": "2026-07-07 21:08:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The UK will join the Precision Strike Missile (PRSM) programme and allocate £190m to the project from the government’s £298bn defence investment plan."
+    },
+    {
+      "id": "mkt:019f3cb1-7fe3-7aab-8ccf-f83a375e4071",
+      "time": "2026-07-07 21:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said eight countries pledged to support a Canada-led Defense, Security and Resilience Bank."
+    },
+    {
+      "id": "4974556",
+      "time": "2026-07-07 21:08:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國出口商向哥倫比亞出售了10.5萬噸豆粕。"
+    },
+    {
+      "id": "4974555",
+      "time": "2026-07-07 21:07:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大宣告：八國承諾支援加拿大主導的防務、安全與韌性銀行。"
+    },
+    {
+      "id": "4974554",
+      "time": "2026-07-07 21:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽再遭襲，英法掃雷計劃遇阻折】阿曼剛批准英法兩國協助清理霍爾木茲海峽南部航道，海峽內就再度發生船隻遇襲事件，英法籌劃的霍爾木茲海峽掃雷計劃遭遇挫折。英法兩國不願具名的官員透露，兩國掃雷艦艇與部隊已部署完畢，待下達軍事指令後，即可在阿曼海域開展有限度掃雷行動。此前英法於 7 月 4 日宣佈，外交層面取得突破，成功說服阿曼同意該項護航掃雷任務。"
+    },
+    {
+      "id": "4974553",
+      "time": "2026-07-07 21:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：該項計劃將從英國政府總額2980億英鎊的防務投資計劃中獲得1.9億英鎊的資金支援。"
+    },
+    {
+      "id": "4974552",
+      "time": "2026-07-07 21:07:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：將加入精確打擊導彈（PRSM）專案。"
+    },
+    {
+      "id": "4974551",
+      "time": "2026-07-07 21:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：梅洛尼在伊朗問題上並未支援美方，兩國關係因此出現裂痕。"
+    },
+    {
+      "id": "4974550",
+      "time": "2026-07-07 21:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：目前正敲定安全與軍事合作安排，其中包括可能部署特種部隊協助打擊恐怖組織。"
+    },
+    {
+      "id": "4974549",
+      "time": "2026-07-07 21:06:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我喜歡梅洛尼。"
+    },
+    {
+      "id": "mkt:019f3caf-960e-7aab-8ccf-f17937d657b9",
+      "time": "2026-07-07 21:06:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the US will lift sanctions on Syria, has good relations with its new leadership and does not want to sanction friends."
+    },
+    {
+      "id": "4974548",
+      "time": "2026-07-07 21:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不想制裁朋友。"
+    },
+    {
+      "id": "4974547",
+      "time": "2026-07-07 21:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會取消制裁。"
+    },
+    {
+      "id": "4974546",
+      "time": "2026-07-07 21:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：隨著GLM大模型需求飆升，中國AI實驗室智譜AI考慮定製晶片。"
+    },
+    {
+      "id": "mkt:019f3cad-d20f-7aab-8ccf-eed33e1909c0",
+      "time": "2026-07-07 21:04:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he held a lengthy call with Putin yesterday and later spoke with Zelensky."
+    },
+    {
+      "id": "4974545",
+      "time": "2026-07-07 21:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省委巡視組原正廳級巡視專員徐志華被開除黨籍】中央紀委國家監委網站7月7日通報，據江西省紀委監委訊息：經中共江西省委批准，江西省紀委監委對江西省委巡視組原正廳級巡視專員徐志華嚴重違紀違法問題進行了立案審查調查。經查，徐志華喪失理想信念，背棄初心使命，對組織不忠誠不老實，對抗組織審查；違反中央八項規定精神，違規接受宴請和旅遊活動安排；組織原則缺失，不按規定報告個人有關事項，在幹部、職工錄用等工作中為他人謀取利益並收受財物；廉潔底線失守，違規收受禮品、禮金，透過民間借貸獲取大額回報，違規從事營利活動；不正確履行職責；不重視家風建設，對配偶失管失教；把公權力當作謀取私利的工具，利用職務上的便利或職權地位形成的便利條件，在工程承攬、職務提拔等方面為他人謀取利益，非法收受鉅額財物；退休後利用原職權地位形成的便利條件，為他人謀取利益並收受財物。徐志華嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌受賄、利用影響力受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經江西省紀委常委會會議研究並報中共江西省委批准，決定給予徐志華開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "mkt:019f3cad-4047-7aab-8ccf-e30e2ce93228",
+      "time": "2026-07-07 21:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he hopes the Ukraine war will be resolved as soon as possible."
+    },
+    {
+      "id": "mkt:019f3cad-39ef-7aab-8ccf-d9f7d48da400",
+      "time": "2026-07-07 21:03:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said on the Ukraine war that he believes both Russia and Ukraine want to reach an agreement and that he expects one to be reached."
+    },
+    {
+      "id": "4974544",
+      "time": "2026-07-07 21:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望戰事能早日平息。"
+    },
+    {
+      "id": "4974543",
+      "time": "2026-07-07 21:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及俄烏：我認為我們很快會達成和議。"
+    },
+    {
+      "id": "4974542",
+      "time": "2026-07-07 21:02:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄烏：我認為雙方都願意達成談判協議。"
+    },
+    {
+      "id": "4974541",
+      "time": "2026-07-07 21:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨日與普京進行長談，隨後又同澤連斯基展開溝通。"
+    },
+    {
+      "id": "4974540",
+      "time": "2026-07-07 21:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：也與澤連斯基通了電話。"
+    },
+    {
+      "id": "4974539",
+      "time": "2026-07-07 21:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與普京總統進行了非常好的談話。"
+    },
+    {
+      "id": "te:economy:564873",
+      "time": "2026-07-07 21:02:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Canada Imports Edge Lower in May — Canada's goods imports edged down 0.2% month-over-month to CAD 72.86 billion in May 2026 after reaching a record high in April. Imports of metal and non-metallic mineral products fell 18.2%, led by a 33.0% decline in unwrought gold, silver, and platinum group metals and their alloys. Imports of basic and semi-finished iron and steel products dropped 22.7%, while waste and scrap metal (-20.0%) and non-ferrous metals and alloys (-21.2%) also recorded sharp declines. The decrease was partly offset by a 3.5% increase in consumer goods imports, driven by a 10.0% rise in miscellaneous goods and supplies, mainly reflecting higher imports of batteries and battery chargers from China."
+    },
+    {
+      "id": "4974538",
+      "time": "2026-07-07 21:02:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所阿拉比卡咖啡期貨價格大跌近7%，至每磅3.2685美元。"
+    },
+    {
+      "id": "mkt:019f3cab-cddd-7aab-8ccf-d45698a43a6a",
+      "time": "2026-07-07 21:02:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Can one arms deal break the years-long US‑Turkey stalemate?】At the NATO summit in Ankara President Erdogan said the US has pledged aircraft, signaling a substantive thaw in defence ties frozen over Turkey’s purchase of Russia’s S-400 system. The Trump administration reportedly moved to bypass congressional restrictions to advance F110 engines and potential backing for Turkey’s F-35 participation, reflecting transactional diplomacy to court a geopolitically pivotal Ankara. The package drew strong opposition from Israel and other regional allies but directly bolstered confidence in Turkey’s defence supply chain and eased tensions on NATO’s southeastern flank in the near term. Macro/market takeaways: a warmer US‑Turkey relationship could prompt regional realignments after multi-front Middle East clashes, support TRY stabilization, and shift georisk premia from acute bilateral isolation toward a broader geopolitical tug-of-war."
+    },
+    {
+      "id": "4974537",
+      "time": "2026-07-07 21:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：土耳其從中斡旋，助力化解美方與伊朗之間的衝突。"
+    },
+    {
+      "id": "mkt:019f3cab-c43c-7aab-8ccf-cda861b57d86",
+      "time": "2026-07-07 21:01:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said Turkey has helped US efforts to end the war with Iran."
+    },
+    {
+      "id": "4974536",
+      "time": "2026-07-07 21:01:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "禮來加拿大公司：加拿大衛生部批准Mounjaro®（替爾泊肽）用於10歲及以上2型糖尿病兒童患者。"
+    },
+    {
+      "id": "4974535",
+      "time": "2026-07-07 21:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：霍爾木茲海峽襲擊事件或將阻礙歐洲掃雷任務推進。"
+    },
+    {
+      "id": "4974534",
+      "time": "2026-07-07 21:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：我們清楚大馬士烏斯局勢面臨的風險。"
+    },
+    {
+      "id": "4974533",
+      "time": "2026-07-07 21:00:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "高知特拓展與谷歌雲的合作關係，藉助Gemini企業版與谷歌Workspace加快企業人工智慧落地程序。"
+    },
+    {
+      "id": "4974532",
+      "time": "2026-07-07 21:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲0.54%。"
+    },
+    {
+      "id": "4974531",
+      "time": "2026-07-07 21:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃爾多安預計特朗普將重申關於F110航空發動機的相關承諾。"
+    },
+    {
+      "id": "mkt:019f3caa-2c89-7aab-8ccf-c724887a2847",
+      "time": "2026-07-07 21:00:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Turkey purchased aircraft from the United States."
+    },
+    {
+      "id": "4974530",
+      "time": "2026-07-07 21:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：我們將與美國總統特朗普討論KAAN戰鬥機發動機問題。"
+    },
+    {
+      "id": "4974529",
+      "time": "2026-07-07 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌5.59%，紅棗連續跌2.98%，鈀連續跌2.17%，鉑連續跌1.84%，生豬連續跌1.64%。"
+    },
+    {
+      "id": "4974528",
+      "time": "2026-07-07 20:59:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：土耳其從美國購買了飛機。"
+    },
+    {
+      "id": "4974527",
+      "time": "2026-07-07 20:59:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙塔食品：擬1.5億元至2億元回購股份】雙塔食品公告稱，公司擬使用不低於1.5億元且不超過2億元的自有資金及回購專項貸款，以集中競價方式回購股份，回購價格上限為6.01元/股。公司已取得中國銀行煙臺分行出具的1.8億元回購專項貸款承諾書，貸款期限36個月。回購股份將用於股權激勵或員工持股計劃。"
+    },
+    {
+      "id": "4974526",
+      "time": "2026-07-07 20:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃森哲Edge與谷歌云為中型市場企業推出可擴充套件智慧體AI解決方案。"
+    },
+    {
+      "id": "mkt:019f3ca9-4ebd-7aab-8ccf-bccdb9ef2ef2",
+      "time": "2026-07-07 20:59:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Sany Group, Xinji Ausent Steel sign strategic cooperation agreement】Sany Group Co., Ltd and Xinji Ausent Steel Group Co., Ltd signed a strategic cooperation agreement to deepen coordination across the steel value chain. The partners agreed to cooperate on securing stable raw-material supply, joint procurement of high-end equipment, building green logistics systems and developing mining resources."
+    },
+    {
+      "id": "mkt:019f3ca9-4425-7aab-8ccf-b15a572c493d",
+      "time": "2026-07-07 20:59:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said he will discuss the latest developments in Russia and Ukraine today."
+    },
+    {
+      "id": "mkt:019f3ca9-0f70-7aab-8ccf-af039e2c7c74",
+      "time": "2026-07-07 20:59:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian president says investigation into today’s Damascus explosion is ongoing."
+    },
+    {
+      "id": "4974525",
+      "time": "2026-07-07 20:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃爾多安：今日將討論俄烏局勢相關進展。"
+    },
+    {
+      "id": "4974524",
+      "time": "2026-07-07 20:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞：針對今日大馬士革發生的爆炸事件的調查正在進行中。"
+    },
+    {
+      "id": "mkt:019f3ca8-8733-7aab-8ccf-a77376544e38",
+      "time": "2026-07-07 20:58:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Canada May goods trade surplus rises to four-year high】Statistics Canada said Canada’s goods trade surplus widened to CAD 42.4 bln (about USD 29.8 bln) in May, the largest in four years and the fourth consecutive monthly increase, up from a revised CAD 34.1 bln in April. Exports to the U.S. rose 1.5% to CAD 53.72 bln, the highest since February last year, lifting U.S. share of total exports to roughly 70%; imports from the U.S. fell 1.4%. Canada’s trade surplus with the U.S. widened to CAD 11.6 bln in May from CAD 10.3 bln in April, the biggest surplus since the January 2025 record. Export gains were led by metal ores and non-metallic minerals, up 16.1%, largely reflecting shifts in sulphur shipments after volumes routed through the Strait of Hormuz declined following the outbreak of the Middle East conflict."
+    },
+    {
+      "id": "4974523",
+      "time": "2026-07-07 20:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三一集團與澳森特鋼簽署戰略合作協議】7月7日，三一集團有限公司與辛集市澳森特鋼集團有限公司正式簽署戰略合作協議，雙方將立足鋼鐵產業鏈深度協同，開啟全方位、多層次戰略合作。簽約座談環節，雙方圍繞鋼鐵產業鏈上下游協同發展展開深度交流，重點就原材料穩定供應、高階裝備採購合作、綠色物流體系搭建、礦山資源開發等核心領域進行細緻磋商，達成多項合作共識。"
+    },
+    {
+      "id": "4974522",
+      "time": "2026-07-07 20:57:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達敦促伊朗停止為“追求狹隘利益”而危及全球能源供應。"
+    },
+    {
+      "id": "mkt:019f3ca7-173c-7aab-8ccf-9e80c23fcddf",
+      "time": "2026-07-07 20:56:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "President Trump praised the U.S. economy."
+    },
+    {
+      "id": "4974519",
+      "time": "2026-07-07 20:56:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【沙特原油對亞洲客戶大降價 中東產油國油價或下調】據央視財經援引彭博社6日報道，受霍爾木茲海峽通航、全球原油供應激增影響，為加強市場競爭力，沙烏地阿拉伯將向亞洲客戶大幅下調原油售價。報道稱，沙特石油企業沙特阿美公司把8月向亞洲客戶交付的阿拉伯輕質原油官方售價每桶下調11美元，較地區基準價格折價1.50美元。報道指出，沙特此次降價幅度創下2000年以來最大紀錄，遠超市場預期。主要產油國已連續五個月宣佈增產。多家媒體指出，預計未來幾天，其他主要產油國也將陸續公佈官方售價。在供應過剩、爭奪買家的背景下，中東其他產油國可能也將進一步下調油價。此外，如果市場可供應原油維持高位，沙特後續可能還會進一步降價。"
+    },
+    {
+      "id": "4974518",
+      "time": "2026-07-07 20:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚美國經濟。"
+    },
+    {
+      "id": "mkt:019f3ca5-c4a7-7aab-8ccf-92ccfdffb670",
+      "time": "2026-07-07 20:55:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Ukrainian President Zelenskiy has signed a drone agreement with Estonia."
+    },
+    {
+      "id": "4974517",
+      "time": "2026-07-07 20:55:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至7月4日當週紅皮書商業零售銷售年率 11.5%，前值10.5%。"
+    },
+    {
+      "id": "mkt:019f3ca5-9024-7aab-8ccf-8e1c6a78246d",
+      "time": "2026-07-07 20:55:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US Redbook weekly retail sales YoY for week ended July 4: 11.5% vs 10.5% prior."
+    },
+    {
+      "id": "mkt:019f3ca5-6581-7aab-8ccf-846df37eef47",
+      "time": "2026-07-07 20:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Jul.4) | actual 11.5% | previous 10.5%"
+    },
+    {
+      "id": "mkt:019f3ca5-5760-7aab-8ccf-7edeea44b0d1",
+      "time": "2026-07-07 20:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he is not at all concerned about ties with Turkey and that US-Turkey relations may be stronger than ever."
+    },
+    {
+      "id": "4974516",
+      "time": "2026-07-07 20:54:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【皇氏集團：股價異常波動 股份轉讓交易存終止可能】皇氏集團公告稱，公司股票於2026年7月6日、7月7日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司4月11日披露控股股東協議轉讓部分股份，受讓方未按約定支付1.5億元，交易存在不確定性，不排除終止。目前公司經營正常，計劃8月29日披露半年報，如達業績預告情形將依規披露。"
+    },
+    {
+      "id": "4974515",
+      "time": "2026-07-07 20:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與愛沙尼亞簽署無人機合作協議。"
+    },
+    {
+      "id": "mkt:019f3ca4-f851-7aab-8ccf-756253fe9ff0",
+      "time": "2026-07-07 20:54:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China Defense Ministry: submarine-launched strategic missile test met objectives; will not enter nuclear arms race】The Defense Ministry said PLA Navy submarine-launched strategic missile test achieved its intended objectives as part of routine annual training. The ministry said the exercise complied with international law and norms and that Beijing notified relevant countries in advance. It reiterated China follows a peaceful development path and a defensive nuclear policy, adheres to a self-defense nuclear strategy, maintains nuclear forces at the minimum level necessary for national security, will not engage in a nuclear arms race, and is modernizing its nuclear forces to protect national strategic security and uphold global strategic stability."
+    },
+    {
+      "id": "mkt:019f3ca4-d315-7aab-8ccf-68baaa344d35",
+      "time": "2026-07-07 20:54:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan says he has secured a U.S. commitment to provide five aircraft and expects the pledge to move in a positive direction at the leaders' summit."
+    },
+    {
+      "id": "4974514",
+      "time": "2026-07-07 20:54:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我對土耳其關係沒有任何擔憂。"
+    },
+    {
+      "id": "4974513",
+      "time": "2026-07-07 20:53:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們期望這一承諾在領導人峰會期間取得積極進展。"
+    },
+    {
+      "id": "4974512",
+      "time": "2026-07-07 20:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來3天降雨仍將持續 廣西防災救災面臨三項艱鉅任務】7月7日晚，廣西舉行防汛救災新聞釋出會，介紹有關情況並回答記者提問。目前，防災救災依然面臨艱鉅任務和嚴峻挑戰。一是經氣象部門分析，未來3天全區一些地方降雨仍將持續，局地有大雨或暴雨，導致土壤含水量飽和、岩土穩定性下降，極易誘發滑坡、泥石流等地質災害。二是因前期“龍舟水”影響底水較高，疊加颱風降雨，目前全區仍有超汛限水庫341個，鬱江、潯江、黔江等41條河流56個站超警戒水位，一些水庫和江河堤防長時間高水位浸泡，發生管湧、滑坡、垮塌的風險很高。三是南寧、欽州、貴港一些災情嚴重地區飲用水、道路、電力、通訊裝置等受災較為嚴重，尚未完全恢復正常。（央視新聞）"
+    },
+    {
+      "id": "4974511",
+      "time": "2026-07-07 20:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：我們此前已與美國就此事進行過討論。"
+    },
+    {
+      "id": "4974510",
+      "time": "2026-07-07 20:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我方已獲得五架戰機的承諾。"
+    },
+    {
+      "id": "mkt:019f3ca3-9cc8-7aab-8ccf-66a8726db8a4",
+      "time": "2026-07-07 20:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said the matter had previously been discussed with the US."
+    },
+    {
+      "id": "mkt:019f3ca3-8c06-7aab-8ccf-5a5aef3380d7",
+      "time": "2026-07-07 20:52:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Erdogan said the F-35 issue is not new to Turkey."
+    },
+    {
+      "id": "te:economy:564870",
+      "time": "2026-07-07 20:52:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Chile Trade Surplus Larger Than Expected — Chile’s trade surplus rose to $3.3 billion in June 2026 from $1.5 billion in the same month a year ealier and surpassing market forecasts of $2.9 billion. This marked the largest trade surplus since January, as exports jumped 25.1% to a six-month high of $10.8 billion, led by key copper sales, which rose 17.6%. Lithium carbonate (208.3%), gold (160%), silver (128.2%), and molybdenum concentrates (47.5%) also contributed significantly. At the same time, shiipments of industrial products advanced by 27.1%, mainly supported by chemical products (84%); metallic products, machinery and equipments (20.5%) and food products (9.5%). Sales of agricultural, forestry and fishing rose by 5.3%. Meanwhile, imports advanced 4.7% to $7.5 billion, as higher purchases of intermediate goods (12.8%) and consumer goods (1.2%) more than offset a 9.5% decline for capital goods."
+    },
+    {
+      "id": "4974509",
+      "time": "2026-07-07 20:52:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃爾多安：F-35相關議題對土耳其而言並非新鮮事。"
+    },
+    {
+      "id": "4974508",
+      "time": "2026-07-07 20:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：法國將任命駐敘利亞大使。"
+    },
+    {
+      "id": "4974507",
+      "time": "2026-07-07 20:52:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：貨幣政策目前處於有利位置，能夠實現就業與通脹目標。能源價格和通脹在未來幾個月可能會下降。"
+    },
     {
       "id": "mkt:019f3ca2-c92a-7aab-8ccf-52dff2c827b1",
       "time": "2026-07-07 20:52:08",
