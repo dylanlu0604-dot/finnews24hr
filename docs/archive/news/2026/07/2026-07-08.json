@@ -1,7 +1,59 @@
 {
   "date": "2026-07-08",
-  "count": 89,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:019f3d9e-733f-7aab-8cd3-ef87a6489fca",
+      "time": "2026-07-08 01:27:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Daily Mirror, the governing Labour Party will not contest the Clacton by-election triggered by Reform UK leader Nigel Farage."
+    },
+    {
+      "id": "4974824",
+      "time": "2026-07-08 01:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮： 俄羅斯僅在自身生存受到威脅時，才準備動用核武器。俄羅斯絕不會挑起第三次世界大戰，但會採取一切必要措施保障自身安全。"
+    },
+    {
+      "id": "mkt:019f3d9c-c881-7aab-8cd3-e2edad35c98d",
+      "time": "2026-07-08 01:25:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kremlin says Russia will never start a third world war but will take all necessary measures to ensure its security."
+    },
+    {
+      "id": "mkt:019f3d9c-9452-7aab-8cd3-da1505dd51e6",
+      "time": "2026-07-08 01:24:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin says Russia would be prepared to use nuclear weapons only if its survival is threatened."
+    },
+    {
+      "id": "mkt:019f3d9c-9420-7aab-8cd3-d31b758f984c",
+      "time": "2026-07-08 01:24:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Jordan's Foreign Ministry condemned Iran for an attack on a Qatari tanker transiting the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f3d9a-41c4-7aab-8cd3-cc7cea3abc64",
       "time": "2026-07-08 01:22:27",
