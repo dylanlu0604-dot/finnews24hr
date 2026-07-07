@@ -1,7 +1,57 @@
 {
   "date": "2026-07-07",
-  "count": 2600,
+  "count": 2606,
   "items": [
+    {
+      "id": "mkt:019f3d03-eeae-7aab-8cd1-704d9c1189a8",
+      "time": "2026-07-07 22:38:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Olympic Committee (IOC) announced on the 7th that it has temporarily lifted the suspension of the Russian Olympic Committee."
+    },
+    {
+      "id": "mkt:019f3d03-6e31-7aab-8cd1-6a2377b116e8",
+      "time": "2026-07-07 22:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Capital Economics: Canada's goods trade surplus jump entirely price-driven】Capital Economics analyst Ariana Curtis said Canada's goods trade surplus widened to a four-year high in May, but the increase was entirely price-driven as export volumes were essentially unchanged. She said the only positive was a rise in May import volumes, signalling gradual improvement in domestic demand. Curtis added the trade data is consistent with the preliminary 0.1% MoM GDP estimate for May."
+    },
+    {
+      "id": "4974710",
+      "time": "2026-07-07 22:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際奧委會：暫時解除對俄奧委會的禁賽】國際奧委會7日宣佈，暫時解除對俄羅斯奧委會的禁賽。（央視新聞）"
+    },
+    {
+      "id": "4974709",
+      "time": "2026-07-07 22:36:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌4%，現報3691.00元。"
+    },
+    {
+      "id": "4974708",
+      "time": "2026-07-07 22:36:25",
+      "tags": [],
+      "text": "美股道指下跌1百點，北京時間22:35，道指跌幅為0.21％，納指下跌1.45％，標普500指數下跌0.63％。"
+    },
+    {
+      "id": "te:markets:564906",
+      "time": "2026-07-07 22:36:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Rebounds Past $70 — Crude oil rose more than 2% to above $70 per barrel on Tuesday after attacks on commercial shipping in and around the Strait of Hormuz heightened concerns over more disruptions to global energy supplies. The incident renewed concerns among shipowners and raised questions over the durability of the US-Iran agreement aimed at preventing attacks in the strategic waterway. Also, the Iranian Foreign Minister said that final peace negotiations would stall if geopolitical threats persist. Still, oil remained near its lowest level since late February, as growing supply expectations continued to weigh on the market. Reports indicated that at least eight Japan-linked vessels exited Hormuz via a route near Iran, including five supertankers capable of transporting 2 million barrels of crude each. Meanwhile, Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 per barrel, widening the discount to $1.50 below the regional benchmark amid softer market conditions."
+    },
     {
       "id": "4974707",
       "time": "2026-07-07 22:34:03",
