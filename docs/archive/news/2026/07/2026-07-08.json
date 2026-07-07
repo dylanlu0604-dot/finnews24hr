@@ -1,7 +1,49 @@
 {
   "date": "2026-07-08",
-  "count": 335,
+  "count": 339,
   "items": [
+    {
+      "id": "mkt:019f3e6e-917a-7aab-8cd6-f1944b26942e",
+      "time": "2026-07-08 05:14:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian media reported explosions were heard on southern Qeshm Island and at Bandar Abbas port."
+    },
+    {
+      "id": "4974965",
+      "time": "2026-07-08 05:14:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體稱，伊朗南部格什姆島與阿巴斯港均聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:019f3e6e-6ad8-7aab-8cd6-ed1faa76f75c",
+      "time": "2026-07-08 05:14:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Per an SEC filing, Amazon (AMZN.O) priced a $24.25 billion multi‑tranche bond offering, with coupons ranging from 4.6% to 6.25%."
+    },
+    {
+      "id": "mkt:019f3e6b-e7ed-7aab-8cd6-e300fe374119",
+      "time": "2026-07-08 05:11:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Press TV reported multiple explosions in the southern port city of Sirik."
+    },
     {
       "id": "4974964",
       "time": "2026-07-08 05:07:21",

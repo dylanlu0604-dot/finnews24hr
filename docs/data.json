@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-08 05:11:35",
-  "count": 15818,
+  "updated": "2026-07-08 05:15:21",
+  "count": 15820,
   "items": [
+    {
+      "id": "4974965",
+      "time": "2026-07-08 05:14:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體稱，伊朗南部格什姆島與阿巴斯港均聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:019f3e6e-917a-7aab-8cd6-f1944b26942e",
+      "time": "2026-07-08 05:14:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian media reported explosions were heard on southern Qeshm Island and at Bandar Abbas port."
+    },
+    {
+      "id": "mkt:019f3e6e-6ad8-7aab-8cd6-ed1faa76f75c",
+      "time": "2026-07-08 05:14:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Per an SEC filing, Amazon (AMZN.O) priced a $24.25 billion multi‑tranche bond offering, with coupons ranging from 4.6% to 6.25%."
+    },
+    {
+      "id": "mkt:019f3e6b-e7ed-7aab-8cd6-e300fe374119",
+      "time": "2026-07-08 05:11:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Press TV reported multiple explosions in the southern port city of Sirik."
+    },
     {
       "id": "4974964",
       "time": "2026-07-08 05:07:21",
@@ -145067,22 +145109,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.18%，報15542點。"
-    },
-    {
-      "id": "4963698",
-      "time": "2026-07-01 05:14:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克執行長：公司正最佳化調整分銷網路規模，使其與市場需求匹配，並降低供應鏈成本。"
-    },
-    {
-      "id": "4963697",
-      "time": "2026-07-01 05:13:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（6月30日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7918元，較週一紐約尾盤漲88點，日內整體交投於6.8026-6.7864元區間。6月份，離岸人民幣累計下跌大約0.4%，二季度累漲超1.4%，上半年持續走高、從6.9959元漲至6.7539元。"
     }
   ]
 }
