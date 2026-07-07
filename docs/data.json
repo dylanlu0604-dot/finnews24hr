@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-07 20:12:59",
-  "count": 15719,
+  "updated": "2026-07-07 20:16:59",
+  "count": 15722,
   "items": [
+    {
+      "id": "4974423",
+      "time": "2026-07-07 20:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜計劃透過美元債券發行籌集至少250億美元】7月7日，據報道，亞馬遜計劃透過美元債券發行籌集至少250億美元。據知情人士透露，此次發債規模可能根據投資者需求而增加，但他們同時指出，目前尚未做出最終決定。"
+    },
+    {
+      "id": "mkt:019f3c80-f0b4-7aab-8ccd-ce90d4bf70bc",
+      "time": "2026-07-07 20:15:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US ADP private payrolls: +21,000 in the week to June 20, versus +30,750 previously."
+    },
+    {
+      "id": "4974422",
+      "time": "2026-07-07 20:15:05",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至6月20日當週ADP就業人數週度變動 2.1萬人，前值3.075萬人。"
+    },
+    {
+      "id": "4974421",
+      "time": "2026-07-07 20:14:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓使館通報7起涉中國公民綁架案】中國駐菲律賓大使館7日通報7起今年上半年於菲律賓發生、涉及中國公民的綁架案情況。相關案件均發生在馬尼拉及周邊地區，部分由網路賭博、電信詐騙、債務糾紛引發，部分則因在社交媒體上交友、找工作、聯絡學車等所致。中國駐菲使館提醒在菲和擬赴菲中國公民，樹立自身安全意識，警惕各種安全風險，外出結伴，不前往治安不佳的地區；謹慎交友，勿隨意透露個人資訊，對網路騙局、網友見面、陌生人搭訕保持警惕；提防務工類詐騙，透過正規渠道求職，儘可能核實僱主真實身份；遵紀守法，遠離網路賭博、電信詐騙、賭場，避免因之產生經濟和債務糾紛引發綁架；關注使領館和國內有關部門釋出的安全提醒，提高防綁架、防詐騙意識與能力。如遇緊急情況，請聯絡使領館。（新華社）"
+    },
+    {
+      "id": "4974419",
+      "time": "2026-07-07 20:12:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【16億稀土投資專案遭民主黨調查 涉美國商務部長親屬利益衝突】一批民主黨議員正向康託・菲茨傑拉德證券公司調取資料，核查該公司是否憑藉與商務部長霍華德・盧特尼克的關聯，在一筆交易中謀取不當利益。信件副本顯示，議員致函康託・菲茨傑拉德董事長布蘭登・盧特尼克（商務部長之子），質疑這筆交易可能違反利益衝突相關法規：美國政府向美國稀土公司投入 16 億美元，而康託深度參與了該專案。霍華德・盧特尼克執掌康託・菲茨傑拉德三十餘年，後將公司所有權轉交子女。該券商此前就與美國稀土有合作，在配套政府投資的美國稀土私募股權發售專案中擔任主承銷商。信件要求康託提供本次承銷業務的遴選流程、相關服務收費等資料。霍華德・盧特尼克的兩個兒子及康託多名高管堅稱，老盧特尼克對公司相關業務不知情、未參與。"
+    },
     {
       "id": "4974418",
       "time": "2026-07-07 20:11:38",
@@ -144235,30 +144286,6 @@
         "Importance 1"
       ],
       "text": "Brazil Producer Prices Fall in May — Brazil’s producer prices fell 0.3% month-over-month in May 2026, reversing from a 2.62% increase in April and marking the sharpest monthly decline since November 2025. Seven of the 24 industrial sectors surveyed recorded price drops. The steepest decline came from extractive industries, which fell 5.9%, while rubber and plastics rose 4.8%, wood products advanced 3.1%, and chemicals increased 2.1%. Food products exerted the largest downward pressure on the headline index, declining 2.1%, as lower prices for sugar, UHT milk, and roasted coffee reflected seasonal harvest effects and the appreciation of the Brazilian real. Prices in oil refining and biofuels fell 1.3%, pressured by declines in diesel and ethanol, with the advance of the sugarcane harvest contributing to lower alcohol prices. Chemical prices rose on higher international petrochemical costs linked to tensions in the Middle East, while rubber and plastics continued to reflect pass-through from higher feedstock costs."
-    },
-    {
-      "id": "te:economy:563000",
-      "time": "2026-06-30 20:16:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Africa Posts First Trade Gap in 16 Months — South Africa posted a trade deficit of ZAR 1.8 billion in May 2026, the first since January 2025, compared to a downwardly revised surplus of ZAR 14.4 billion in the prior month. Exports declined by 5.7% to ZAR 178.8 billion, mainly reflecting reduced shipments of precious metals & stones (-21%); vehicles & transport equipment (-7%) and mineral products (-5%). On the other hand, imports rose by 3.1% to an over 2-1/2-year high of ZAR 180.6 billion, on higher purchases of vehicles & transport equipment (+17%); original equipment components (+12%); mineral products (+7%) and chemical products (+6%)."
-    },
-    {
-      "id": "te:economy:562999",
-      "time": "2026-06-30 20:16:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Brazil Public Deficit Widens to May Record — The Brazilian government posted a nominal budget deficit of BRL 163.7 billion in May of 2026, widening from the BRL 125.9 billion in the corresponding period of the previous year. The result was higher than expectations of a BRL 148.3 billion, the sharpest on record for the month. The deficit of the federal government rose to BRL 55.2 billion in the year. Despite the wider budget shortfall, the deficit remained relatively stable as a shar of the Brazilian GDP at 9.6%. The higher level of public spending was aligned with common patterns in election years in the country. The Brazilian central bank has hinted that elevated deficit spending by the central government, especially direct cash welfare transfers, is among the main culprits of stubborn inflationary pressures. Brazil has among the highest real interest rates in the world."
     }
   ]
 }
