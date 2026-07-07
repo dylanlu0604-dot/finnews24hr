@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-08 07:42:39",
-  "count": 15921,
+  "updated": "2026-07-08 07:46:34",
+  "count": 15916,
   "items": [
+    {
+      "id": "4975139",
+      "time": "2026-07-08 07:45:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米官宣新品牌】7月8日，小米公司官宣新品牌SkyNomad，“天空，遊牧者。一個關於空間和生活的新名字，先和大家打個招呼”。"
+    },
+    {
+      "id": "4975138",
+      "time": "2026-07-08 07:43:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Kalshi交易員認為美國政府今年入股OpenAI的機率極低】近期，英國金融時報報道稱，人工智慧（AI）巨頭OpenAI提議授予美國政府5%的股份。然而，Kalshi交易員認為，美國政府今年入股OpenAI或Anthropic的機率不到30%。Kalshi交易員認為，美國政府今年入股量子計算公司Rigetti Computing或D-Wave Quantum，以及半導體製造商格羅方德半導體（格芯）的機率遠高於60%。據知情人士透露，OpenAI執行長Sam Altman早在2025年就曾向特朗普政府透露過讓政府持股的想法。"
+    },
+    {
+      "id": "mkt:019f3ef6-7f01-7aab-8cd8-d6b543470b9f",
+      "time": "2026-07-08 07:42:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Axios reports a U.S. official said Trump approved strike plans against Iran while attending the NATO summit in Turkey and ordered them implemented today. It is unclear how long the strikes will continue."
+    },
+    {
+      "id": "4975137",
+      "time": "2026-07-08 07:42:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉美各國和部分鋼鐵製造商呼籲豁免美國關稅】週二，多個拉丁美洲國家表示，它們正在努力 防止進口使用強迫勞動生產的商品，並敦促特朗普政府將其排除在擬議的10%至12.5%的新關稅之外——這些關稅旨在懲罰執法不力。在就美國貿易代表針對59個國家和歐盟提出的關稅提案舉行的公開聽證會上，來自墨西哥、秘魯、瓜地馬拉和厄瓜多的部長及代表駁斥了關於這些國家未能在其供應鏈中執行反強迫勞動法律的指控，並表示已制定相關法律和程式來應對這一問題。“墨西哥已將打擊強迫勞動列為首要任務，”墨西哥經濟部副部長阿塞韋多（Ernesto Acevedo Fernandez）在聽證會上表示，並補充說，額外徵收10%的關稅將不公正地懲罰數千家遵守法律的墨西哥企業。美國貿易代表辦公室（USTR）的提案將豁免符合《美墨加貿易協定》要求的墨西哥商品。"
+    },
+    {
+      "id": "4975136",
+      "time": "2026-07-08 07:42:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：超級衛星工廠透過貫通評審，繼續看好商業航天投資機會】中信建投研報指出，6月17日10時44分，長征十二號運載火箭在海南商業航天發射場點火起飛，隨後成功將衛星網際網路低軌22組衛星送入預定軌道，發射任務取得圓滿成功。衛星網際網路低軌22組衛星由中國航天科技集團有限公司五院抓總研製。近期商業航天板塊受到部分火箭發射失利/推遲以及市場風偏變化等影響，出現較大幅度回撥，後續催化密集，隨著市場風偏的修復，看好商業航天板塊後續表現。衛星環節重點關注載荷總體、天線及配套、鐳射通訊終端及配套、太陽翼及能源系統相關，火箭環節重點關注發動機及其3D列印、箭體結構件相關，地面裝置環節重點關注民用終端及手機直連相關，運營服務環節重點關注具備稀缺資質的公司。"
+    },
     {
       "id": "4975135",
       "time": "2026-07-08 07:41:23",
@@ -145917,92 +145963,6 @@
         "公司"
       ],
       "text": "據訊息人士透露，  光網路初創公司  Ayar Labs正在洽談融資至少2億美元，其新的估值將達到 50 億美元左右。"
-    },
-    {
-      "id": "4963801",
-      "time": "2026-07-01 07:45:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤上漲1.1%。"
-    },
-    {
-      "id": "4963800",
-      "time": "2026-07-01 07:45:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國汽車工業協會（PFA）資料顯示，6月特斯拉在法國新車註冊量同比上漲104.99%。"
-    },
-    {
-      "id": "4963799",
-      "time": "2026-07-01 07:45:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本氣象廳：日本地震初始震級為5.1級，震源深度10公里。"
-    },
-    {
-      "id": "4963798",
-      "time": "2026-07-01 07:44:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國6月新車註冊量同比增長11.37%，至188,787輛。"
-    },
-    {
-      "id": "4963797",
-      "time": "2026-07-01 07:44:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據NHK：日本地震未引發海嘯威脅。"
-    },
-    {
-      "id": "4963796",
-      "time": "2026-07-01 07:44:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【殼牌將以17億美元出售美洲灣油田資產】當地時間6月30日，一份宣告顯示，殼牌旗下子公司Shell Offshore Inc.已同意將其在美洲灣一座石油平臺及鄰近油田的權益以17億美元出售給Talos Energy Inc.和Ridgewood Energy。該交易生效日期為2025年7月1日，預計將於2026年底前完成，尚需獲得監管批准。"
-    },
-    {
-      "id": "4963795",
-      "time": "2026-07-01 07:44:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本氣象廳稱，宮崎縣報告發生地震。"
-    },
-    {
-      "id": "4963794",
-      "time": "2026-07-01 07:43:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民銳評：中國空調清涼歐洲，不只是貿易更是“中國式賦能”】歐洲持續高溫，中國產分體式空調在多國賣到脫銷，引發廣泛熱議。中國生產的分體式空調不需打孔、不裝外機、即插即用，精準適配歐洲需求，因而得以跨越萬里解其燃眉之急。一臺小小的空調，為歐洲多國民眾帶去清涼，解決實實在在的民生難題，也為理解中國為何成為“賦能型大國”提供了一個視窗。（人民日報）"
-    },
-    {
-      "id": "4963793",
-      "time": "2026-07-01 07:43:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國解除對Anthroponic 公司“FABLE 5”的限制措施。"
-    },
-    {
-      "id": "te:markets:563132",
-      "time": "2026-07-01 07:42:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Tech-Driven Rally — US stock futures were little changed on Wednesday after the major indexes advanced in the previous session, supported by strength in technology stocks and easing inflation concerns. In regular trading on Tuesday, the tech-heavy Nasdaq Composite jumped 1.52%, while the S&P 500 and Dow rose 0.79% and 0.26%, respectively. Chipmakers and AI-related companies led the gains, with Nvidia (2.6%), AMD (7.7%), Intel (6%), Sandisk (10.9%) and Marvell Technology (7.3%) posting strong advances. The three major indexes also ended the quarter on a strong footing, with the S&P 500 rallying more than 14%, the Nasdaq soaring about 20% and the Dow adding over 12%. Investors now turn their attention to Fed Chair Kevin Warsh’s appearance at the ECB Forum in Sintra, Portugal, for further clues on the outlook for monetary policy."
     }
   ]
 }
