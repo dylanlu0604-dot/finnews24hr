@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-04 09:54:50",
+  "updated": "2026-07-07 08:08:12",
   "items": [
+    {
+      "id": "2026070708",
+      "date": "2026-07-07",
+      "run_hour": 8,
+      "started_at": "2026-07-07 08:07:54",
+      "finished_at": "2026-07-07 08:08:12",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 5,
+      "failure_count": 7,
+      "success_sources": [
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac"
+      ],
+      "failed_sources": [
+        "cnyes",
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cnyes 日期不符：頁面最新日期是 2026-06-30，預期日期是 2026-07-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-06-30"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-06，預期日期是 2026-07-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-06"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-06，預期日期是 2026-07-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-06"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-06",
+          "actual_date": "2026-07-06"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-07-06，預期日期是 2026-07-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-06"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Sl_KYblJpac! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. There are two things you can do to work around this: 1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). 2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned! If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-06",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/223658",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-07"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607070525102466.shtml",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-07"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-06-2026/",
+          "expected_date": "2026-07-06",
+          "actual_date": "2026-07-06"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport07Jul2026.pdf",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-07"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260707.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-06，預期日期是 2026-07-07",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-07",
+          "actual_date": "2026-07-06"
+        }
+      ]
+    },
     {
       "id": "2026070409",
       "date": "2026-07-04",
