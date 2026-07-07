@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-07 17:08:01",
-  "count": 15179,
+  "updated": "2026-07-07 17:11:51",
+  "count": 15192,
   "items": [
+    {
+      "id": "mkt:019f3bd8-ae1c-7aab-8cc9-9bc3cc7ed77d",
+      "time": "2026-07-07 17:11:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FiberHome unit Changjiang Computing wins Postal Savings Bank of China 2026 AI compute-cluster procurement】Postal Savings Bank of China published a public notice of winning bidders for its 2026 AI compute-cluster procurement; Changjiang Computing, a unit of FiberHome, secured the top allocation."
+    },
+    {
+      "id": "4973989",
+      "time": "2026-07-07 17:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克憲法法院表示，根據憲法修改後的規定，託卡耶夫總統符合參選新一屆總統任期的資格。"
+    },
+    {
+      "id": "mkt:019f3bd8-6fe4-7aab-8cc9-901405a1378a",
+      "time": "2026-07-07 17:11:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Tianshu Zhixin completes Day-0 adaptation for Hunyuan Hy3】On July 6 Hunyuan Hy3, a hybrid-expert model that fuses fast and slow thinking, was released and open-sourced. Tianshu Zhixin completed Day-0 full‑stack adaptation, leveraging its general‑purpose GPU product line and proprietary compute software stack."
+    },
+    {
+      "id": "mkt:019f3bd8-1671-7aab-8cc9-8a67862b11e1",
+      "time": "2026-07-07 17:10:44",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "【ING: Paris court ruling on Le Pen unlikely to move euro materially】Francesco Pesole at ING said in a note the Paris appellate court will rule on Tuesday on Marine Le Pen’s bid to overturn a ban from holding elected office tied to alleged misuse of European Parliament funds; the decision is politically significant for France but is unlikely to have a major impact on the euro. If the ban is overturned it could boost the far-right National Rally and shift expectations toward a Le Pen run over party chairman Jordan Bardella, but markets have largely priced in either outcome and expect whichever leader emerges to show sufficient fiscal prudence to limit bond-market volatility."
+    },
+    {
+      "id": "4973988",
+      "time": "2026-07-07 17:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天數智芯完成混元Hy3適配】7月6日，混元快慢思考融合的混合專家模型Hy3正式釋出並開源。天數智芯依託“通用GPU系列產品+自研智算軟體棧”率先完成Day0全鏈路適配。"
+    },
+    {
+      "id": "4973987",
+      "time": "2026-07-07 17:10:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普：美方有能力在“不到一個下午”的時間內摧毀伊朗所有電網、電站及橋樑等關鍵基礎設施，但更希望透過協議解決問題，以避免影響伊朗9100萬人口。\n2、當地時間6日，美國總統特朗普在出席活動時稱，解決俄烏衝突將“比人們認為的要快得多”。\n3、當地時間6日，美國總統特朗普證實，他曾致電國際足聯(FIFA)主席詹尼.因凡蒂諾(Gianni Infantino)，要求他複核對美國隊前鋒弗拉林.巴洛貢(Folarin Balogun)停賽一場的處罰。\n4、特朗普預計將告知土耳其，美方已準備好恢復土耳其獲得F-35戰鬥機的資格。儘管此前內塔尼亞胡要求特朗普不得向土耳其出售防空武器。\n5、特朗普：國會復會時，我們必須透過3.0版和解法案，包含3500億美元國防撥款，外加《拯救美國法案》！\n6、美東時間週一，特朗普在橢圓辦公室舉行了一場“敲鐘儀式”，慶祝“特朗普賬戶”的首個交易日，在儀式上，特朗普專門點名呼籲美國人出門買戴爾電腦：“出去買一臺戴爾電腦吧。”\n7、特朗普：已有50萬名兒童收到特朗普專屬賬戶的首筆1000美元啟動存款。\n8、美國總統特朗普：沃爾瑪將按我的要求（對商品）降價。沃爾瑪是一家真正愛國的公司，其他零售商應該效仿沃爾瑪的做法。"
+    },
+    {
+      "id": "4973986",
+      "time": "2026-07-07 17:10:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能水電：2026年上半年發電量548.49億千瓦時，同比增加3.98%】華能水電公告，截至2026年6月30日，公司2026年上半年完成發電量548.49億千瓦時，同比增加3.98%，上網電量543.85億千瓦時，同比增加4.14%。"
+    },
+    {
+      "id": "4973985",
+      "time": "2026-07-07 17:10:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華夏銀行在廣州成立租賃公司 註冊資本10萬】天眼查App顯示，近日，廣州華創八駿汽車租賃有限公司成立，法定代表人為王浩，註冊資本10萬人民幣，經營範圍為小微型客車租賃經營服務、租賃服務、運輸裝置租賃服務、網路預約出租汽車經營服務。股東資訊顯示，該公司由華夏銀行（600015）旗下華夏金融租賃有限公司全資持股。"
+    },
+    {
+      "id": "4973984",
+      "time": "2026-07-07 17:09:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國海外發展6月合約銷售額313.5億元】中國海外發展6月合約銷售額313.5億元，同比增長5.5%。"
+    },
+    {
+      "id": "mkt:019f3bd6-99ba-7aab-8cc9-867e911f0a94",
+      "time": "2026-07-07 17:09:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Woton Technology announced new membrane-separation engineering contracts signed in April–June totaled 43.01 mln yuan."
+    },
+    {
+      "id": "4973983",
+      "time": "2026-07-07 17:08:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百合花：光刻膠顏料銷售收入僅佔營收0.084%，佔比較小】百合花公告，公司股票於2026年7月6日、7月7日連續兩個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經核實，公司生產的相關高效能顏料產品應用於液晶面板用光刻膠領域，2025年公司光刻膠顏料銷售收入僅佔公司營業收入的0.084%，佔比較小。此外，公司控股股東百合花控股有限公司計劃自2026年7月10日至10月9日透過集中競價交易方式減持不超過416.37萬股（即不超過總股本的1%）。公司2026年第一季度歸屬於上市公司股東的淨利潤為4293.85萬元，較上年同期下降6.23%。公司滾動市盈率為183.85，市淨率為12.05，均高於行業平均水平。"
+    },
+    {
+      "id": "4973982",
+      "time": "2026-07-07 17:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿聯酋與日本合作重心從石油、液化天然氣轉向低碳能源解決方案。"
+    },
+    {
+      "id": "mkt:019f3bd5-3285-7aab-8cc9-7c305792e989",
+      "time": "2026-07-07 17:07:35",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Citigroup initiates coverage of SpaceX (SPCX.O) with an upgrade to buy and a $200 PT."
+    },
     {
       "id": "4973981",
       "time": "2026-07-07 17:06:35",
