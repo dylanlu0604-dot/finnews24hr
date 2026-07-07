@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08 06:11:02",
-  "count": 15894,
+  "updated": "2026-07-08 06:14:57",
+  "count": 15891,
   "items": [
     {
       "id": "4975046",
@@ -145766,38 +145766,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Brazilian Real Increases by 0.63% — Top currency gainers are Brazilian Real (0.63%), New Zealand Dollar (0.49%), Australian Dollar (0.45%) and Dollar Index (0.07%). Biggest losers are Japanese Yen (-0.41%), South Korean Won (-0.35%) and Polish Zloty (-0.25%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "mkt:019f1a97-373f-7aab-8c44-6c0508c3d4bb",
-      "time": "2026-07-01 06:12:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Pierre Yared will leave the Council of Economic Advisers."
-    },
-    {
-      "id": "4963726",
-      "time": "2026-07-01 06:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：亞雷德退出總統經濟顧問委員會。"
-    },
-    {
-      "id": "mkt:019f1a96-0796-7aab-8c44-62c94183ba02",
-      "time": "2026-07-01 06:11:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Fed funds futures fell further, implying roughly an 80% probability of a Federal Reserve rate hike in September."
     }
   ]
 }
