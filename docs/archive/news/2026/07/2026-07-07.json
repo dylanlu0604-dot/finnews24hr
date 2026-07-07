@@ -1,7 +1,142 @@
 {
   "date": "2026-07-07",
-  "count": 1097,
+  "count": 1111,
   "items": [
+    {
+      "id": "4973590",
+      "time": "2026-07-07 14:01:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50期貨<STXEc1>下跌0.28%，德國DAX期貨<FDXc1>下跌0.23%，富時期貨<FFIc1>上漲0.18%。"
+    },
+    {
+      "id": "mkt:019f3b2a-edfc-7aab-8cc4-77a9033eab86",
+      "time": "2026-07-07 14:01:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May industrial production, working-day adjusted YoY 0.0% (previous -0.5%)."
+    },
+    {
+      "id": "mkt:019f3b2a-ccf9-7aab-8cc4-6986d7bb03e4",
+      "time": "2026-07-07 14:01:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (May) | actual 0% | previous -0.50%"
+    },
+    {
+      "id": "4973589",
+      "time": "2026-07-07 14:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油分銷公司將以10億美元交易收購殼牌南非燃料業務。"
+    },
+    {
+      "id": "4973588",
+      "time": "2026-07-07 14:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌預計第二季度天然氣交易量將“顯著”高於第一季度。"
+    },
+    {
+      "id": "4973587",
+      "time": "2026-07-07 14:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國5月工業產值同比持平; 預估為-0.6%。德國5月工業產值環比增長0.9%; 預估為+0.1%。"
+    },
+    {
+      "id": "mkt:019f3b29-e6b7-7aab-8cc4-6790531729f3",
+      "time": "2026-07-07 14:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany May seasonally adjusted industrial production +0.9% MoM, versus +0.2% consensus; April +0.4%."
+    },
+    {
+      "id": "mkt:019f3b29-cae7-7aab-8cc4-59e88bd94522",
+      "time": "2026-07-07 14:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (May) | actual 0.9% | consensus 0.2% | previous 0.40%"
+    },
+    {
+      "id": "4973586",
+      "time": "2026-07-07 14:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天合光能成立新能源科技公司】企查查APP顯示，近日，江蘇天合遠航新能源科技有限公司成立，法定代表人為楊雪偉，註冊資本為1000萬元，經營範圍包含：新興能源技術研發；股權投資；企業總部管理；企業管理；企業管理諮詢；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由天合光能旗下天合富家能源股份有限公司全資持股。"
+    },
+    {
+      "id": "4973585",
+      "time": "2026-07-07 13:59:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數上漲1%至5312.58點。"
+    },
+    {
+      "id": "mkt:019f3b28-eda7-7aab-8cc4-52162dcf70e7",
+      "time": "2026-07-07 13:59:25",
+      "tags": [
+        "MKT News",
+        "SKHYN.O",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【UBS advises buying SK Hynix ADRs at launch, short Korean-listed shares】UBS recommends buying the SK Hynix ADRs planned for a US listing and shorting the company’s Korean-listed shares, arguing the new ADR could trade at a premium. UBS says ADRs are more efficient and cheaper for hedge funds and some global portfolio managers who do not hold the Korean stock may instead buy the ADR. The bank views a day-one long-ADR/short-local-stock trade as an obvious, scalable strategy with limited risk and a low probability of an ADR discount."
+    },
+    {
+      "id": "4973584",
+      "time": "2026-07-07 13:59:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2只中證REITs全收益指數基金提前結募】7月7日易方達和華夏旗下的中證REITs全收益指數基金同時宣佈提前結束募集。其中，易方達中證REITs全收益指數基金截至7月6日的募集已超過3億元上限，將啟動比例配售。加上於7月1日提前結募後於7月4日公告成立的南方中證REITs全收益指數基金，首批4只這類產品中已有3只結束募集。"
+    },
+    {
+      "id": "4973583",
+      "time": "2026-07-07 13:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克預計今年天然氣輸送量將增長4%。"
+    },
+    {
+      "id": "mkt:019f3b28-09a4-7aab-8cc4-4ebf6457337f",
+      "time": "2026-07-07 13:58:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SFC in talks with PBOC to further optimise Swap Connect】The SFC said it welcomes PBOC measures to support Hong Kong fixed-income and money markets. The China Foreign Exchange Trade System will co‑build an electronic fixed‑income and money‑market trading platform with HKEX in Hong Kong; launch timetable to be announced. Onshore China government bonds and policy bank bonds held under Bond Connect northbound will be accepted as eligible collateral by HKEX’s two clearing houses — Hong Kong Futures Clearing Corporation Ltd and HKEX Options Clearing House Ltd — with a target implementation date of end‑2026. The SFC is discussing further optimisation of Swap Connect with the PBOC, including a plan to add the interbank 7‑day deposit institution repo fixing rate (FDR007) as a Swap Connect contract reference rate in Q4 2026."
+    },
     {
       "id": "4973582",
       "time": "2026-07-07 13:58:05",
