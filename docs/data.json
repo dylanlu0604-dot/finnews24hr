@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-07 14:02:45",
-  "count": 14729,
+  "updated": "2026-07-07 14:06:47",
+  "count": 14740,
   "items": [
+    {
+      "id": "4973595",
+      "time": "2026-07-07 14:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "2010年諾貝爾經濟學獎得主皮薩里德斯警告稱，人工智慧不會讓西方經濟體重回生產率高速增長的時代——這一時代可能已一去不復返。"
+    },
+    {
+      "id": "4973594",
+      "time": "2026-07-07 14:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省新增11款已完成登記的生成式人工智慧服務】7月7日，據“網信廣東”微信公眾號訊息，截至7月7日，廣東省新增11款已完成登記的生成式人工智慧服務，累計已完成64款生成式人工智慧服務登記。"
+    },
+    {
+      "id": "4973593",
+      "time": "2026-07-07 14:05:07",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利首予SpaceX“增持”評級，目標價300美元】摩根士丹利7月7日首次覆蓋太空探索技術公司（SpaceX），給予“增持”評級，理由是該公司有能力大規模轉化人工智慧所需算力，把握新一輪AI發展機遇。該行將目標價定為每股300美元，較週一收盤價有約90%上漲空間，為華爾街給出的最高目標價。摩根士丹利預計，到2040年SpaceX營收有望突破3.3萬億美元，主要得益於其在連線性與“實體人工智慧”服務領域開闢的全新市場空間。不過報告也提示風險，包括公司對創始人埃隆·馬斯克的高度依賴、與特斯拉相關的利益衝突，以及監管和地緣政治層面的不確定性；此外，公司巨大的融資需求及有限的市場深度，也可能拖慢新技術部署進度。"
+    },
+    {
+      "id": "mkt:019f3b2e-134c-7aab-8cc4-af46f42bc70b",
+      "time": "2026-07-07 14:05:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.L"
+      ],
+      "text": "Shell forecasts Q2 integrated gas production of 610-650 kboe/d."
+    },
+    {
+      "id": "mkt:019f3b2d-be61-7aab-8cc4-a4ecc53afd9f",
+      "time": "2026-07-07 14:04:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA"
+      ],
+      "text": "【Nobel laureate Pissarides says AI unlikely to restore high productivity growth】2010 Nobel laureate Christopher Pissarides said AI is unlikely to return Western economies to the high productivity growth seen in prior decades. He warned up to 40% of jobs in the US and UK—notably care and hospitality—are likely to be largely unaffected by AI and said there is currently little evidence AI will materially raise productivity. Pissarides questioned claims by NVIDIA CEO Jensen Huang and OpenAI founder Altman about widespread employment disruption, while allowing AI could deliver some gains; he remains skeptical it will replicate the 1980s–1990s computer-driven surge. Weak performance in Western economies, especially Europe, will make policy trade-offs more difficult."
+    },
+    {
+      "id": "mkt:019f3b2d-3b13-7aab-8cc4-9986fa9475af",
+      "time": "2026-07-07 14:04:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK June Halifax house price index (seasonally adjusted) YoY +0.6% vs +0.8% expected; prior +0.5%."
+    },
+    {
+      "id": "mkt:019f3b2d-2309-7aab-8cc4-943da534b9ea",
+      "time": "2026-07-07 14:04:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (YoY) (Jun) | actual 0.6% | consensus 0.8% | previous 0.5%"
+    },
+    {
+      "id": "mkt:019f3b2c-d125-7aab-8cc4-8af89076e894",
+      "time": "2026-07-07 14:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech prime minister said the government hopes to raise defence spending to 2% of GDP next year."
+    },
+    {
+      "id": "mkt:019f3b2c-6d90-7aab-8cc4-85a236157f0d",
+      "time": "2026-07-07 14:03:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK June Halifax seasonally adjusted house price index MoM +0.2% (consensus +0.1%), prior -0.1%."
+    },
+    {
+      "id": "mkt:019f3b2c-51af-7aab-8cc4-7f72ea5faba0",
+      "time": "2026-07-07 14:03:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (MoM) (Jun) | actual 0.2% | consensus 0.1% | previous -0.1%"
+    },
+    {
+      "id": "4973591",
+      "time": "2026-07-07 14:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌第二季度展望：受市場錯位影響，煉油與化工實際利潤率低於內部收益率衡量/ICM計算值，已據此作出調整。"
+    },
     {
       "id": "4973590",
       "time": "2026-07-07 14:01:59",
