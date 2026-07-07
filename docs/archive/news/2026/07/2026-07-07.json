@@ -1,7 +1,60 @@
 {
   "date": "2026-07-07",
-  "count": 2633,
+  "count": 2639,
   "items": [
+    {
+      "id": "te:markets:564920",
+      "time": "2026-07-07 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.92% — Top currency gainers are South Korean Won (0.92%), Indian Rupee (0.44%), Japanese Yen (0.08%) and Dollar Index (0.07%). Biggest losers are Mexican Peso (-0.51%), Swedish Krona (-0.41%), Polish Zloty (-0.30%), British Pound (-0.09%) and Euro (-0.07%)."
+    },
+    {
+      "id": "4974733",
+      "time": "2026-07-07 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】瀝青連續跌3.98%，苯乙烯連續漲1.59%，燃料油連續漲1.57%，低硫燃料油連續漲1.54%，純鹼連續跌1.29%。"
+    },
+    {
+      "id": "4974731",
+      "time": "2026-07-07 22:59:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受雷雨天氣影響，首都機場啟動運管委一級響應保障航班執行】據首都機場訊息，今日傍晚首都機場及周邊航路出現雷雨天氣，部分割槽域出現強降水及冰雹等強對流天氣，特殊天氣對首都機場航班執行造成影響。首都機場已啟動運管委協同執行一級響應機制，聯合各航司和駐場單位，共同保障航班有序執行。"
+    },
+    {
+      "id": "4974730",
+      "time": "2026-07-07 22:58:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌1%。"
+    },
+    {
+      "id": "mkt:019f3d15-91e7-7aab-8cd1-9d453e22b619",
+      "time": "2026-07-07 22:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's main stock index fell 1%."
+    },
+    {
+      "id": "4974729",
+      "time": "2026-07-07 22:57:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天科技：有玻璃基板封裝研釋出局 但不涉及基板業務】華天科技7月7日在互動平臺表示，公司有玻璃基板封裝研釋出局，但不涉及基板業務。"
+    },
     {
       "id": "te:economy:564919",
       "time": "2026-07-07 22:56:16",

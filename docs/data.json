@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-07 22:57:06",
+  "updated": "2026-07-07 23:01:00",
   "count": 16022,
   "items": [
+    {
+      "id": "te:markets:564920",
+      "time": "2026-07-07 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.92% — Top currency gainers are South Korean Won (0.92%), Indian Rupee (0.44%), Japanese Yen (0.08%) and Dollar Index (0.07%). Biggest losers are Mexican Peso (-0.51%), Swedish Krona (-0.41%), Polish Zloty (-0.30%), British Pound (-0.09%) and Euro (-0.07%)."
+    },
+    {
+      "id": "4974733",
+      "time": "2026-07-07 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】瀝青連續跌3.98%，苯乙烯連續漲1.59%，燃料油連續漲1.57%，低硫燃料油連續漲1.54%，純鹼連續跌1.29%。"
+    },
+    {
+      "id": "4974731",
+      "time": "2026-07-07 22:59:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受雷雨天氣影響，首都機場啟動運管委一級響應保障航班執行】據首都機場訊息，今日傍晚首都機場及周邊航路出現雷雨天氣，部分割槽域出現強降水及冰雹等強對流天氣，特殊天氣對首都機場航班執行造成影響。首都機場已啟動運管委協同執行一級響應機制，聯合各航司和駐場單位，共同保障航班有序執行。"
+    },
+    {
+      "id": "4974730",
+      "time": "2026-07-07 22:58:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌1%。"
+    },
+    {
+      "id": "mkt:019f3d15-91e7-7aab-8cd1-9d453e22b619",
+      "time": "2026-07-07 22:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's main stock index fell 1%."
+    },
+    {
+      "id": "4974729",
+      "time": "2026-07-07 22:57:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天科技：有玻璃基板封裝研釋出局 但不涉及基板業務】華天科技7月7日在互動平臺表示，公司有玻璃基板封裝研釋出局，但不涉及基板業務。"
+    },
     {
       "id": "te:economy:564919",
       "time": "2026-07-07 22:56:16",
@@ -146968,58 +147021,6 @@
         "Importance 1"
       ],
       "text": "Costco Wholesale Stock Price Hits 4-week Low — Costco Wholesale shares decreased to 938.50 USD, the lowest since June 2026. Over the past 4 weeks, Costco Wholesale lost 0.75%, and in the last 12 months, it decreased 4.76%."
-    },
-    {
-      "id": "te:markets:563059",
-      "time": "2026-06-30 23:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Increases by 0.67% — Top currency gainers are New Zealand Dollar (0.67%), Australian Dollar (0.60%), Swedish Krona (0.36%), British Pound (0.11%) and Euro (0.10%). Biggest losers are South Korean Won (-0.51%) and Japanese Yen (-0.35%). Meanwhile Dollar Index was little changed."
-    },
-    {
-      "id": "4963348",
-      "time": "2026-06-30 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續漲1.67%，瀝青連續漲1.63%，菜油連續跌1.54%，菜粕連續跌1.37%，豆二連續跌1.14%。"
-    },
-    {
-      "id": "4963347",
-      "time": "2026-06-30 22:59:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：巴布亞紐幾內亞金貝東南偏東 90 公里處發生 5.4 級地震。"
-    },
-    {
-      "id": "4963346",
-      "time": "2026-06-30 22:59:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【裝不裝空調在法國變政治議題】應對高溫熱浪，法國政府近日宣佈為醫院緊急採購3萬臺空調，不過在這些空調到位前，患者還要在酷暑裡煎熬。法國公共衛生署6月28日公佈的初步資料顯示，法國本輪高溫期間死亡人數明顯上升，多地的殯儀館因此承壓。而要不要大規模裝空調，在法國已經從天氣問題變成了一個政治問題。（CCTV國際時訊）"
-    },
-    {
-      "id": "4963345",
-      "time": "2026-06-30 22:57:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：清晰傳達我們的決策邏輯至關重要。"
-    },
-    {
-      "id": "4963344",
-      "time": "2026-06-30 22:57:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陸治原任中華全國總工會黨組書記】日前，中共中央決定，陸治原同志任中華全國總工會黨組書記。"
     }
   ]
 }
