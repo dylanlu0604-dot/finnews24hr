@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-08 04:45:06",
-  "count": 15838,
+  "updated": "2026-07-08 04:48:53",
+  "count": 15837,
   "items": [
+    {
+      "id": "4974954",
+      "time": "2026-07-08 04:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部：碎牛肉營養十分豐富，可為人體提供優質完全蛋白質、健康脂肪，以及多種易被人體吸收的維生素與礦物質。如今，它的價格變得更加實惠。感謝總統先生，努力讓更多美國人能買到真正優質的食物。"
+    },
+    {
+      "id": "mkt:019f3e55-510f-7aab-8cd6-d5b2c28f0293",
+      "time": "2026-07-08 04:46:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces says it will conduct military exercises on the Golan Heights tomorrow."
+    },
     {
       "id": "mkt:019f3e52-b8f1-7aab-8cd6-ccd10292fbe2",
       "time": "2026-07-08 04:43:56",
@@ -145258,36 +145277,6 @@
         "Ethereum"
       ],
       "text": "President Trump filed his 2025 financial disclosure, reporting he received several hundred million dollars in income from cryptocurrency."
-    },
-    {
-      "id": "4963680",
-      "time": "2026-07-01 04:48:14",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "觀點"
-      ],
-      "text": "【7月1日美股成交額前20：閃迪上半年上漲逾850%】週二美股成交額第3名閃迪收高10.89%，成交248.1億美元。今年上半年，閃迪股價累計上漲逾850%。有分析認為，閃迪股價上漲並非源於人工智慧需求，根本原因是該行業無法破解的NAND快閃記憶體短缺問題。分析師稱，市場普遍將閃迪2026年上半年股價大漲歸因於AI資料中心帶動企業級SSD需求激增，實際該行情本質是NAND快閃記憶體行業供應端收縮驅動的結構性行情，並非需求拉動。NAND快閃記憶體當前的漲價由行業主動供應自律驅動，並非需求過熱，該結構性產能缺口需數年時間才能透過新建晶圓廠填補。閃迪的核心優勢是在頭部同行同步減產的背景下仍能穩定供貨，當前股價已計入長期維持高利潤率的預期。"
-    },
-    {
-      "id": "mkt:019f1a49-d812-7aab-8c43-a8fb756d402d",
-      "time": "2026-07-01 04:47:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CME Group will launch single-stock futures covering more than 50 U.S. equities on July 27."
-    },
-    {
-      "id": "mkt:019f1a48-faca-7aab-8c43-a34285f4949d",
-      "time": "2026-07-01 04:46:58",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "Market sources: Boeing (BA.N) commercial aircraft deliveries and production disrupted by a widespread IT systems outage."
     }
   ]
 }

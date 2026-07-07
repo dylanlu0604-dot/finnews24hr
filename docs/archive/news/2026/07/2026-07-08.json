@@ -1,7 +1,26 @@
 {
   "date": "2026-07-08",
-  "count": 322,
+  "count": 324,
   "items": [
+    {
+      "id": "4974954",
+      "time": "2026-07-08 04:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部：碎牛肉營養十分豐富，可為人體提供優質完全蛋白質、健康脂肪，以及多種易被人體吸收的維生素與礦物質。如今，它的價格變得更加實惠。感謝總統先生，努力讓更多美國人能買到真正優質的食物。"
+    },
+    {
+      "id": "mkt:019f3e55-510f-7aab-8cd6-d5b2c28f0293",
+      "time": "2026-07-08 04:46:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces says it will conduct military exercises on the Golan Heights tomorrow."
+    },
     {
       "id": "mkt:019f3e52-b8f1-7aab-8cd6-ccd10292fbe2",
       "time": "2026-07-08 04:43:56",
