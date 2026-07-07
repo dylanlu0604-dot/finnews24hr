@@ -1,7 +1,23 @@
 {
   "date": "2026-07-08",
-  "count": 63,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:019f3d85-d43e-7aab-8cd3-59f217240459",
+      "time": "2026-07-08 01:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Turkey is not a country that supports regional peace and stability."
+    },
+    {
+      "id": "4974813",
+      "time": "2026-07-08 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.18%，滬銅收漲0.14%，滬鋁收漲0.59%，滬鋅收跌0.02%，滬鉛收漲0.88%，滬鎳收跌0.16%，滬錫收漲0.51%。氧化鋁夜盤收跌0.18%，鋁合金收漲0.85%。不鏽鋼夜盤收跌0.27%。"
+    },
     {
       "id": "te:economy:564966",
       "time": "2026-07-08 00:55:53",

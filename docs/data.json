@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-08 00:57:07",
-  "count": 15896,
+  "updated": "2026-07-08 01:00:56",
+  "count": 15894,
   "items": [
+    {
+      "id": "mkt:019f3d85-d43e-7aab-8cd3-59f217240459",
+      "time": "2026-07-08 01:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Turkey is not a country that supports regional peace and stability."
+    },
+    {
+      "id": "4974813",
+      "time": "2026-07-08 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.18%，滬銅收漲0.14%，滬鋁收漲0.59%，滬鋅收跌0.02%，滬鉛收漲0.88%，滬鎳收跌0.16%，滬錫收漲0.51%。氧化鋁夜盤收跌0.18%，鋁合金收漲0.85%。不鏽鋼夜盤收跌0.27%。"
+    },
     {
       "id": "te:economy:564966",
       "time": "2026-07-08 00:55:53",
@@ -145821,42 +145837,6 @@
         "公司"
       ],
       "text": "蘋果公司：推出Apple Creator Studio更新版本。"
-    },
-    {
-      "id": "te:markets:563093",
-      "time": "2026-07-01 01:00:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Hovers Near 8-Month Low — Gold was at $4,030 per ounce on Tuesday, holding near their lowest in nearly eight months as restrictive monetary policy by the Fed was combined with a reversal of the dollar debasement trade. Gold was set to drop 11% in Q2, its worst quarter in decades. Strength in recent economic data consolidated a backdrop that supports the hawkish view of a large portion of FOMC members. The JOLTS pointed to the highest number of job openings in two years and analysts have penciled another sharp month of non-farm payroll gains in June. On top of that, the latest core inflation prints remained departed further from the Fed's 2% target. The aggressive pullback for gold was aligned with the elevated yields for Treasury notes and bonds, favoring coupon-bearing assets instead of bullion. Fed Chairman Warsh announced the pending creation of task forces to evaluate the need for the central bank's large balance sheet, setting the stage for the bond-selling that he has campaigned for previously."
-    },
-    {
-      "id": "4963524",
-      "time": "2026-07-01 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.56%，滬銅收漲0.38%，滬鋁收漲0.11%，滬鋅收漲1.40%，滬鉛收跌0.47%，滬鎳收漲0.32%，滬錫收漲2.25%。氧化鋁夜盤收跌0.25%，鋁合金收漲0.42%。不鏽鋼夜盤收漲0.92%。"
-    },
-    {
-      "id": "4963523",
-      "time": "2026-07-01 00:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta未能駁回美國各州關於Facebook和Instagram使兒童上癮的指控。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607013788794464",
-      "time": "2026-07-01 00:57:09",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委多倫茨表示 尚未看到明確證據表明第二輪通脹效應已顯現】歐洲央行管委多倫茨表示，如果當前油價保持穩定，歐洲央行或許能夠等到9月再決定是否需要採取更多政策措施；尚未看到明確證據表明第二輪通脹效應已顯現。"
     }
   ]
 }
