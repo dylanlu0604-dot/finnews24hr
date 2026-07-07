@@ -1,7 +1,31 @@
 {
   "date": "2026-07-08",
-  "count": 319,
+  "count": 322,
   "items": [
+    {
+      "id": "mkt:019f3e52-b8f1-7aab-8cd6-ccd10292fbe2",
+      "time": "2026-07-08 04:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senator Mitch McConnell has been hospitalized since June 14 and held calls with Senate Republican leadership on Monday and Tuesday this week. Markets are watching whether he can return to the Senate before year-end."
+    },
+    {
+      "id": "4974953",
+      "time": "2026-07-08 04:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "Wolfspeed對納微半導體提起專利侵權訴訟。"
+    },
+    {
+      "id": "4974952",
+      "time": "2026-07-08 04:42:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普賬戶登上蘋果應用商店下載榜榜首】特朗普賬戶應用程式剛登上蘋果應用商店下載榜榜首。這款軟體一經推出便被美國人爭相下載，它供家長管理全新的政府扶持型兒童投資賬戶，該聯邦儲蓄計劃於7月4日正式上線。符合申領條件的兒童可獲得1000美元政府配套補助金，家庭也能自行往賬戶追加資金。在子女年滿18週歲前，賬戶由父母或監護人代管；孩子成年後，既可繼續儲蓄投資，也可將資金用於教育開支、房屋首付等用途。"
+    },
     {
       "id": "mkt:019f3e4f-eb44-7aab-8cd6-c6825b4b70d7",
       "time": "2026-07-08 04:40:52",
