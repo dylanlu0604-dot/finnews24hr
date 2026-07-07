@@ -1,7 +1,687 @@
 {
   "date": "2026-07-07",
-  "count": 493,
+  "count": 567,
   "items": [
+    {
+      "id": "4973217",
+      "time": "2026-07-07 09:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【正大天晴1類新藥TQB3126首次獲批臨床】近日，中國生物製藥（1177.HK）核心企業正大天晴自主開發的1類創新藥TQB3126片首次獲得國家藥品監督管理局藥品審評中心（CDE）批准開展臨床研究，擬開發用於晚期乳腺癌。"
+    },
+    {
+      "id": "mkt:019f3a25-6eac-7aab-8cbe-85861d4b13a1",
+      "time": "2026-07-07 09:15:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng index futures opened down 0.06% at 23,530, trading at an 88-point discount to the cash index."
+    },
+    {
+      "id": "4973216",
+      "time": "2026-07-07 09:15:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8054，較上日調高12點】人民幣兌美元中間價報6.8054，較上日調高12點。"
+    },
+    {
+      "id": "4973215",
+      "time": "2026-07-07 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8054元。"
+    },
+    {
+      "id": "4973214",
+      "time": "2026-07-07 09:15:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率升2.5個基點至4.100%，創5月底以來新高。"
+    },
+    {
+      "id": "4973213",
+      "time": "2026-07-07 09:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.16%，報23506.70點，低水109.62點。"
+    },
+    {
+      "id": "4973212",
+      "time": "2026-07-07 09:14:38",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【在謹慎情緒下銅價走低】Dongwu Futures分析師在一份報告中表示，亞洲早盤銅價走低，因為投資者對美國貿易政策和美聯儲的前景保持謹慎。他們表示，全球銅精礦市場依然緊俏，現貨加工精煉費進一步跌入負值區域，反映出冶煉廠對原材料的激烈競爭。他們補充說，宏觀不確定性限制了漲幅，因為投資者對美國的關稅政策不確定。他們表示，在強勁的基本面被揮之不去的宏觀不確定性抵消的情況下，銅價短期內可能維持區間震盪。三個月期倫敦金屬交易所(LME)銅合約下跌0.3%，報每噸13,364.00美元。"
+    },
+    {
+      "id": "4973211",
+      "time": "2026-07-07 09:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北黃岡黃州區東湖街道遭龍捲風重創 多人傷亡失聯】記者7日上午從湖北省黃岡市現場指揮部瞭解到，受短時龍捲風、全域大範圍大風等極端強對流天氣突襲，黃岡市黃州區東湖街道轄區長江社群、虹橋社群和汪家墩社群受災嚴重。截至7月7日5時，虹橋社群受災戶數1177戶，因災受傷人數50人，死亡2人；長江社群404戶房屋受損，受傷219人，其中轄區企業啟程物流公司和長江社群一期倉儲專案受災較為嚴重，啟程物流公司因災死亡2人、失聯1人；汪家墩社群房屋受損92戶，受傷6人。為確保人民生命財產安全，街道、社群及時轉移受災居民408人。（新華社）"
+    },
+    {
+      "id": "4973210",
+      "time": "2026-07-07 09:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【565股獲融資買入超億元，中際旭創穫買入48.19億元居首】A股7月6日共有3774只個股獲融資資金買入，有565股買入金額超億元。其中，中際旭創、兆易創新、京東方A融資買入金額排名前三，分別獲買入48.19億元、47.08億元、37.68億元。從融資買入額佔當日總成交金額比重來看，有4只個股融資買入額佔比超30%。其中煜邦電力、中公教育、史丹利融資買入額佔成交額比重排名前三，分別為35.64%、34.42%、32.39%。從融資淨買入金額來看，有26只個股獲融資淨買入超億元。其中，新易盛、德明利、佰維儲存融資淨買入金額排名前三，分別獲淨買入11.5億元、7.48億元、4.65億元。"
+    },
+    {
+      "id": "4973209",
+      "time": "2026-07-07 09:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【MSCI擬縮短部分警示板股票監測期，以減少指數納入限制】明晟（MSCI）當地時間7月6日宣佈，計劃縮短MSCI全球可投資市場指數（GIMI）中部分不符合條件警示板股票的監測視窗，涉及板塊覆蓋印度、韓國、中國臺灣地區的相關交易所警示標的。根據新規，監測期將從原先的“上一次指數評審價格截止日”大幅縮短至“當前指數評審價格截止日”，結束時間仍為當前指數評審生效日前三個交易日。此舉旨在解決現行監測期過長導致部分本符合標準、卻因期間曾列入警示板而錯失納入MSCI標準指數機會的問題。MSCI表示，相關板內股票的資格處理標準保持不變。目前該方案正公開徵求市場反饋，最終結果將於2026年7月17日前確認。"
+    },
+    {
+      "id": "4973208",
+      "time": "2026-07-07 09:12:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【生態環境部水生態環境司有關負責人就《工業園區汙水集中處理設施水汙染物排放標準制訂技術導則》（HJ 945.4—2026）答記者問】近日，生態環境部發布《工業園區汙水集中處理設施水汙染物排放標準制訂技術導則》（HJ 945.4—2026），生態環境部水生態環境司有關負責人就導則的出臺背景、主要考慮、重點內容等，回答了記者的提問。 為強化工業園區精準科學管控，提升環境治理效能，推動園區高質量發展，生態環境部制定釋出《導則》。《導則》適用於指導和規範地方開展工業園區汙水集中處理設施水汙染物排放標準（以下簡稱“園區排放標準”）的制修訂工作。單個工業園區汙水集中處理設施水汙染物排放管控要求的確定也可參考《導則》進行。制訂園區排放標準應遵循以下幾項原則。一是分類管理，依據園區型別分類管控，透過評估，明確制訂統一排放標準，或按“一園一策”確定差異化排放管控要求。二是全面防控，綜合考慮園區內企業執行的排放標準規定、出水實際檢出的特徵汙染物等，確定管控的汙染物專案。三是科學可行，根據現行相關導則規定的技術方法，統籌考慮質量改善需求及技術經濟可行性確定排放限值。四是依法合規，標準制訂符合國家及地方工業園區管理相關要求，且嚴守不寬於國家標準的底線。"
+    },
+    {
+      "id": "mkt:019f3a22-30e4-7aab-8cbe-7836c2fa3ccd",
+      "time": "2026-07-07 09:12:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures slipped below $4,150/oz, down 0.42% on the day."
+    },
+    {
+      "id": "4973207",
+      "time": "2026-07-07 09:12:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "4973206",
+      "time": "2026-07-07 09:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：關於公開徵求《陶瓷片密封水嘴安全技術規範》等3項強制性國家標準（徵求意見稿）意見的公示】根據國家標準委下達的強制性國家標準制修訂計劃，工業和資訊化部組織完成了《陶瓷片密封水嘴安全技術規範》等3項強制性國家標準（徵求意見稿）的編制工作。為進一步聽取社會各界意見，現對標準徵求意見稿及編制說明予以公示。(工信部)"
+    },
+    {
+      "id": "mkt:019f3a20-745c-7aab-8cbe-72caf42273d7",
+      "time": "2026-07-07 09:10:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong Chief Executive John Lee signed a memorandum of understanding with the PBOC on cross-border payments and clearing."
+    },
+    {
+      "id": "4973205",
+      "time": "2026-07-07 09:10:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【劉烈宏：資料要素潛能加速釋放，資料流通利用呈現新態勢】2026年7月2日至3日，國家資料局黨組書記、局長劉烈宏出席在北京舉辦的“2026年全球數字經濟大會”開幕式及“資料要素髮展論壇”並致辭。劉烈宏表示，隨著“531”工作體系的落地實施，資料要素潛能加速釋放，資料流通利用呈現新態勢。一是行業資料價值釋放進入縱深推進新階段。企業要著力打好“三個主戰場”，在深化行業資料流通利用中實現自身價值；地方要著力營造濃厚資料氛圍，透過資料賦能產業轉型助力經濟高質量發展；國家資料局將聯合有關部門出臺有針對性的具體舉措。二是重點問題解決路徑更加明晰。比如，適應人工智慧多元用數需求，解決“系統建設分散、標準不統一、資料共享難”的難題，以智慧體呼叫等“技術賦能”化解“資料分散”痛點，以“語義統一”破解“格式不統一”等實踐已初見成效。三是資料賦能人工智慧創新發展不斷深化。在供給端，加快構建行業高質量資料集供給體系；在流通端，系統最佳化面向人工智慧的用數規則和流通模式；在應用端，以“模數共振”驅動資料飛輪加速運轉。"
+    },
+    {
+      "id": "te:markets:564613",
+      "time": "2026-07-07 09:10:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Struggle on Tech Weakness — The Nikkei 225 Index fell 0.7% to below 69,300 while the broader Topix Index rose 0.4% to 4,120 in mixed trading on Tuesday, as weakness in technology stocks continued to weigh on the broader market. Regional sentiment also weakened after Samsung Electronics shares tumbled despite the company reporting strong profit growth, supported by robust demand for AI data center memory chips. In Japan, investors assessed data showing nominal wages rose 3.2% in May, while household spending declined 0.4%. Major decliners included Kioxia Holdings (-8.3%), Taiyo Yuden (-5.6%), Murata Manufacturing (-4.3%), Lasertec (-6.4%), and Ibiden Co (-4.7%). In contrast, financial stocks such as Mitsubishi UFJ (3.5%), Mizuho Financial (3.2%) and Sumitomo Mitsui (1.8%) posted strong gains."
+    },
+    {
+      "id": "mkt:019f3a1f-d0a4-7aab-8cbe-688a39e8c52b",
+      "time": "2026-07-07 09:09:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Periodic Open-ended Hybrid Fund will suspend trading from the market open on July 7, 2026 until 10:30 that day to protect investors' interests."
+    },
+    {
+      "id": "mkt:019f3a1f-0499-7aab-8cbe-64e4765c9c5f",
+      "time": "2026-07-07 09:08:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver most-active contract down 2.00% intraday, trading at 14,888.00 yuan/kg."
+    },
+    {
+      "id": "4973204",
+      "time": "2026-07-07 09:08:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【怡達股份：公司溼電子化學品銷售業務正常開展 目前銷售數量及營業收入佔比影響較小】怡達股份7日在互動平臺表示，目前未有G5級產品產業化且未產生收入。公司溼電子化學品銷售業務正常開展，積極推進客戶認證相關工作，目前銷售數量及營業收入佔比影響較小。"
+    },
+    {
+      "id": "te:markets:564611",
+      "time": "2026-07-07 09:08:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Equities Extend Losses — Australian shares slipped for a second session Tuesday, with the ASX 200 easing 40 points, or 0.4%, to 8,791 in Tuesday morning deals. Losses were broad-based across non-energy minerals, electronic tech, energy, and consumer names, as investors remained cautious ahead of key June CPI and PPI prints from top trading partner China later this week. Domestically, labour demand softened in June, reflected in a slight dip in job ads, weighed by high borrowing costs, a cooling housing market, and geopolitical uncertainty. Still, declines were offset by a further easing in the Melbourne Institute’s inflation gauge, even as the Reserve Bank signals underlying pressures may firm in the June quarter. On Wall Street, futures were mixed after Monday’s gains extended positive momentum from last week. Among local laggards, Evolution Mining fell 3.2%, followed by Northern Star Resources (-2.9%), Brambles Ltd. (-2.3%), and Woodside Energy (-1.0%). Meanwhile, two of the big four banks edged lower."
+    },
+    {
+      "id": "4973203",
+      "time": "2026-07-07 09:08:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洞察科技完成數千萬元Pre-A+輪融資】近日，廣州洞察科技有限公司宣佈完成數千萬元Pre-A+輪融資，本輪由山藍資本投資。融資將重點用於固態奈米孔晶片測試與封裝產線建設、檢測產品研發，以及先進半導體方向的技術拓展。"
+    },
+    {
+      "id": "4973202",
+      "time": "2026-07-07 09:07:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡海峽時報指數最新漲0.5%，報5286.84點，此前一度觸及5289.92點。"
+    },
+    {
+      "id": "4973201",
+      "time": "2026-07-07 09:07:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "mkt:019f3a1d-a114-7aab-8cbe-59e34b777459",
+      "time": "2026-07-07 09:07:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Beijing Bose Quantum starts IPO counseling】CSRC website shows Beijing Bose Quantum Technology Co., Ltd formally began IPO counseling on July 6, 2026; Guotai Haitong Securities appointed as counselor."
+    },
+    {
+      "id": "4973200",
+      "time": "2026-07-07 09:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數創下盤中歷史新高。"
+    },
+    {
+      "id": "mkt:019f3a1c-efd6-7aab-8cbe-54d817828827",
+      "time": "2026-07-07 09:06:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong Chief Executive John Lee said Hong Kong will offer tax incentives for gold trading and settlement."
+    },
+    {
+      "id": "mkt:019f3a1c-5ca6-7aab-8cbe-486a8d61baea",
+      "time": "2026-07-07 09:06:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong chief executive John Lee announced plans to launch a delivery link with the Shanghai Gold Exchange."
+    },
+    {
+      "id": "mkt:019f3a1c-0436-7aab-8cbe-4149a8f85cc6",
+      "time": "2026-07-07 09:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield rose 2.5 bps to 4.10%."
+    },
+    {
+      "id": "mkt:019f3a1b-d037-7aab-8cbe-3fc7eeb72c4a",
+      "time": "2026-07-07 09:05:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong Chief Executive John Lee said the first gold trade settlement has been completed."
+    },
+    {
+      "id": "4973199",
+      "time": "2026-07-07 09:04:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：騰訊出售快手股份令人意外 或引發騰訊有進一步出售動作的擔憂】花旗稱，考慮到快手不高的估值和可靈的故事，騰訊減持快手令人意外。認為這將會損傷市場對快手的情緒，並引發對騰訊是否會進一步出售快手或其他投資股份的擔憂。分析師Brian Gong等在報告中指出，騰訊此前參與了可靈的融資，意味著騰訊可能會將其舊投資組合重組為新的人工智慧投資，實現投資組合多元化並加強對人工智慧的敞口。"
+    },
+    {
+      "id": "4973198",
+      "time": "2026-07-07 09:04:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【具身智慧企業墨奇智慧（Morphi）完成超10億元天使輪系列融資】7月7日，據光合創投訊息，日前，具身智慧企業墨奇智慧（Morphi）正式宣佈完成超10億元天使輪系列融資。本輪融資由阿里巴巴、騰訊聯袂投資，光合創投等十餘家一線機構共同參投。融資完成後，公司估值突破70億元，創下國內具身智慧賽道公開披露首輪融資的規模紀錄。。"
+    },
+    {
+      "id": "mkt:019f3a1a-7d66-7aab-8cbe-379cb1d2b5e8",
+      "time": "2026-07-07 09:04:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong Chief Executive John Lee said China's Central Gold Clearing System began operations today."
+    },
+    {
+      "id": "4973197",
+      "time": "2026-07-07 09:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓統計機構公佈，該國6月通貨膨脹率同比上升6.4%，此前媒體調查預期為上升6.6%。"
+    },
+    {
+      "id": "4973196",
+      "time": "2026-07-07 09:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太陽紙業：廣西橫州工廠未受洪水影響 生產經營正常】就近期市場關注的廣西橫州汛情，記者從太陽紙業方面獲悉，公司廣西橫州工廠未受洪水影響，生產經營正常。公司相關負責人表示，企業在橫州的工廠由於地勢較高，且臨江排水條件較好，目前廠區安然無虞。 (財聯社)"
+    },
+    {
+      "id": "4973195",
+      "time": "2026-07-07 09:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部組織駐華使節觀看電影《給阿嬤的情書》】7月6日，外交部邀請來自印尼、泰國、埃及、阿聯酋、喀麥隆、塞爾維亞、愛爾蘭、秘魯、紐西蘭等74個駐華使館、8個地區和國際組織的駐華使節夫婦和外交官共約150人共同觀看電影《給阿嬤的情書》。外交部部長助理洪磊出席並致辭，國家電影局常務副局長毛羽等出席。"
+    },
+    {
+      "id": "4973194",
+      "time": "2026-07-07 09:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技等在湖南成立具身智慧公司】企查查APP顯示，近日，中科慧思具身智慧（湖南）有限公司成立，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧基礎軟體開發；人工智慧公共資料平臺；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由藍思科技等共同持股。"
+    },
+    {
+      "id": "4973193",
+      "time": "2026-07-07 09:02:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報955.00元。"
+    },
+    {
+      "id": "4973192",
+      "time": "2026-07-07 09:01:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港特首李家超：香港黃金中央清算系統今日開始試執行。"
+    },
+    {
+      "id": "mkt:019f3a18-435a-7aab-8cbe-28a7ee52bcd0",
+      "time": "2026-07-07 09:01:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened down 0.26%."
+    },
+    {
+      "id": "mkt:019f3a18-3396-7aab-8cbe-2285b36716e0",
+      "time": "2026-07-07 09:01:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal, citing sources, reports OpenAI, ANTHROPIC and Google are offering startups compute resources and other incentives worth hundreds of thousands of dollars to attract new enterprise clients."
+    },
+    {
+      "id": "4973191",
+      "time": "2026-07-07 09:01:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【還原抗戰史實 湖南芷江首次公開一張日軍侵略地圖】7月7日上午，湖南省芷江侗族自治縣僑聯代表張青松向中國人民抗日戰爭勝利受降紀念館捐贈一批珍貴史料，包括日俄戰爭前由日本繪製的地圖《日露清韓明細圖》以及抗戰時期的一批僑批。展出的《日露清韓明細圖》上對我國東北地區進行了單獨放大處理，並標註出了城市、鐵路、道路、航路、電信線路等重要戰略資訊，直觀暴露了當時日本鯨吞東亞全域進而稱霸世界的侵略野心，印證日本發動侵華戰爭並非偶然，而是長期地緣擴張的既定國策。（央視）"
+    },
+    {
+      "id": "4973190",
+      "time": "2026-07-07 09:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻色量子啟動IPO輔導】證監會網站披露，北京玻色量子科技股份有限公司於2026年7月6日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。"
+    },
+    {
+      "id": "mkt:019f3a17-ebee-7aab-8cbe-185b8411d8d2",
+      "time": "2026-07-07 09:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened up 350.34 points, or 0.75%, at 46,906.73 on Tuesday, July 7."
+    },
+    {
+      "id": "mkt:019f3a17-c678-7aab-8cbe-146773f10f98",
+      "time": "2026-07-07 09:01:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.49% in early trade on Tuesday, July 7, to 905.06 yuan/gram; Silver T+D fell 1.13% to 14,950 yuan/kg."
+    },
+    {
+      "id": "4973189",
+      "time": "2026-07-07 09:01:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上升2.5個基點，至4.100%。"
+    },
+    {
+      "id": "4973188",
+      "time": "2026-07-07 09:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報46,537.34。"
+    },
+    {
+      "id": "4973187",
+      "time": "2026-07-07 09:00:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報61.65美元/盎司。"
+    },
+    {
+      "id": "4973186",
+      "time": "2026-07-07 09:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2469.50點。"
+    },
+    {
+      "id": "4973185",
+      "time": "2026-07-07 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續跌3.61%，不鏽鋼連續漲2.24%，液化石油氣連續漲2.03%，玻璃連續跌1.64%，丙烯連續漲1.49%。"
+    },
+    {
+      "id": "4973184",
+      "time": "2026-07-07 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.20%。"
+    },
+    {
+      "id": "4973183",
+      "time": "2026-07-07 08:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月6日281股獲融資買入超億元 兆易創新獲買入47.08億元居首】7月6日共有1647只個股獲融資資金買入，有281股買入金額超億元。其中，兆易創新、佰維儲存、瀾起科技融資買入金額排名前三，分別獲買入47.08億元、34.65億元、26.28億元。"
+    },
+    {
+      "id": "4973182",
+      "time": "2026-07-07 08:58:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球基金購買韓國債券規模創一個月新高】根據韓國金融監督院的資料，7月3日外國資金淨買入11.3億美元韓國債券 ，為自2026年6月5日以來最高水平。根據交易所資料，7月6日外國資金淨拋售 8.876億美元韓國股票，為連續第11個交易日淨賣出。"
+    },
+    {
+      "id": "4973181",
+      "time": "2026-07-07 08:56:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【勝宏科技：原材料價格波動主要體現在消費類產品上，已將原材料上漲帶來的成本壓力合理、有序地向下遊客戶傳導】勝宏科技7月6日在機構投資者現場參觀時表示，公司原材料價格波動主要體現在消費類產品上，公司消費業務相對穩定，已將原材料上漲帶來的成本壓力合理、有序地向下遊客戶傳導。公司前期量產高階產品原材料價格平穩，產品定價較為穩定，新產品定價遵循市場化定價原則，將根據具體產品料號的製造難度、市場供需、原材料價格波動情況等與客戶協商定價。一方面公司將透過最佳化供應鏈管理、技術創新及精細化運營等多種措施，積極對沖成本波動影響，另一方面公司快速推進與下游客戶議價工作，目前PCB產能相對緊張，公司亦優先保障高品質、高價值量客戶的產品交付。價格由供需決定，從中期來看，高階產品的供給仍將處於相對緊張的狀態。"
+    },
+    {
+      "id": "4973180",
+      "time": "2026-07-07 08:55:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【酒價內參7月7日價格釋出：普五八代領跌 總價創近四日新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月7日整體繼續回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9882元，較昨日再度下跌19元，連續兩日回落並創下四日以來最低。縱觀全場，創月高月低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒環比有所降溫，總價低位震盪格局仍未扭轉。今日11大白酒單品三漲八跌，輸家數量佔據絕對優勢。上漲方面，青花郎漲幅居前，上漲5元/瓶，重新逼近700元關口；青花汾20上漲4元/瓶，平近一月最高紀錄；五糧液1618小幅上漲1元/瓶。下跌方面，五糧液普五八代跌幅居前，下跌8元/瓶，再創“酒價內參”自去年11月有統計以來最低；古井貢古20下跌6元/瓶，自昨日創下的“酒價內參”有統計以來最高價處回落，但仍處於近一月次高位；習酒君品下跌4元/瓶；精品茅臺與國窖1573均下跌3元/瓶，其中前者仍位於2400元一線附近；飛天茅臺與水晶劍南春均下跌2元/瓶，其中前者創今年4月23日以來最低價紀錄，相對i茅臺官方定價的價差繼續收窄，後者平近一月最低價。洋河夢之藍M6+小幅下跌1元/瓶。"
+    },
+    {
+      "id": "4973179",
+      "time": "2026-07-07 08:55:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西南寧開展水庫漫頂決堤災情救援工作，已疏散受災人口4.8萬人】據南寧釋出官微訊息，7月6日晚，南寧市舉行防汛救災新聞釋出會，通報橫州市、賓陽縣防汛救災有關情況。據初步統計，截至新聞釋出會舉行前，南寧市因水庫下游洪澇災害造成的受災人口約5.5萬人，已疏散4.8萬人。7月4日8時至6日19時，南寧市普降暴雨到大暴雨，造成橫州市六藍水庫、雲表水庫出現漫頂、決堤事件，造成幾個水庫集中向橫州市雲表鎮及周邊地區下洩，人民群眾生命財產受到嚴重損失。從當前情況看，災情後續還存在著幾方面風險，主要有：一是颱風“美莎克”造成本區域持續降雨，導致災情擴大；二是洪澇淹沒區向下遊移動，造成受災面積擴大；三是救援處置過程中，可能因處置不當而造成次生風險。此次降雨表現出範圍廣、強度大、極端性強的特點。橫州市、賓陽縣等多地出現了打破當地24小時氣象紀錄的極端降雨。"
+    },
+    {
+      "id": "4973178",
+      "time": "2026-07-07 08:54:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風和季風氣流共同影響 廣西暴雨持續】在臺風“美莎克”和季風氣流的共同影響下，廣西頻繁出現強降雨，防城港的防城區累計降水量超過600毫米，賓陽局地更是超過700毫米，雨量非常驚人，基本是一天就下了北方很多城市一年的雨。未來“美莎克”的殘餘環流還會沿著副熱帶高壓邊緣北上，牽引季風氣流輸送水汽，製造強降雨、強對流天氣。今天廣西東南部、廣東西南部等地普遍是暴雨如注的場景，其中在廣西東南部局地有大暴雨，甚至是特大暴雨天氣。除此之外，在山東、安徽、江蘇以及遼寧等地也會有大到暴雨或大暴雨，同時可能會伴隨短時強降水、雷暴大風或冰雹等強對流天氣，大家要加強防範。（央視）"
+    },
+    {
+      "id": "4973177",
+      "time": "2026-07-07 08:54:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1個基點，至3.815%。"
+    },
+    {
+      "id": "4973176",
+      "time": "2026-07-07 08:53:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國阿克西奧斯新聞網站6日援引一名美國官員的話報道說，伊朗伊斯蘭革命衛隊向數艘透過霍爾木茲海峽的商船發射了至少兩枚導彈。兩艘商船被擊中且受損嚴重，無人員傷亡。（新華社）"
+    },
+    {
+      "id": "4973175",
+      "time": "2026-07-07 08:53:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普證實曾要求國際足聯主席複核對美國球員的停賽處罰】美國總統特朗普證實，他曾致電國際足聯(FIFA)主席詹尼.因凡蒂諾(Gianni Infantino)，要求他複核對美國隊前鋒弗拉林.巴洛貢(Folarin Balogun)停賽一場的處罰。特朗普此舉在全世界球迷中引發了軒然大波。“我所做的只是要求複核。我不認為那是犯規，”特朗普當地時間週一在白宮橢圓形辦公室對記者說。談到因凡蒂諾時，他補充道：“我不能告訴他該怎麼做。”國際足聯週日宣佈撤銷停賽處罰，允許美國隊頭號射手巴洛貢出戰週一美國對陣比利時的16強比賽，這場比賽備受矚目。"
+    },
+    {
+      "id": "4973174",
+      "time": "2026-07-07 08:49:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【投資者等待美聯儲會議紀要之際金價下跌】亞洲早盤金價下跌。Hola Prime的Somesh Kapuria在評論中表示，在連續幾個交易日上漲之後，這種黃色金屬的價格可能面臨風險，他指出，自今年年初以來，黃金一直處於下降趨勢。他補充說，美元走強也可能令這種貴金屬承壓。他補充說，本週的美國聯邦公開市場委員會會議紀要可能對塑造收益率的近期走勢至關重要，進而影響黃金。現貨黃金下跌0.4%，至每盎司4,149.79美元。"
+    },
+    {
+      "id": "mkt:019f3a0b-6261-7aab-8cbe-0e81e1a0cc34",
+      "time": "2026-07-07 08:47:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin balances across two exchanges down CNY 10.496 bln】As of July 6, margin financing on the Shanghai Stock Exchange stood at CNY 1.4941 tln, down CNY 7.647 bln from the previous trading day; Shenzhen stood at CNY 1.4669 tln, down CNY 2.849 bln; combined mainland margin balance CNY 2.9610 tln, down CNY 10.496 bln."
+    },
+    {
+      "id": "4973173",
+      "time": "2026-07-07 08:47:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國為委內瑞拉抗震救災提供衛星遙感支撐】6月29日，外交部發言人郭嘉昆在回答記者提問時表示，中國政府向委內瑞拉提供了地震災區衛星影象，為委內瑞拉抗震救災提供支援。北京時間6月25日，委內瑞拉先後發生7.1級、7.5級地震，震源深度10公里，當地交通、通訊均受影響，給災情研判、搶險救援工作帶來嚴峻挑戰。中國迅速啟動衛星遙感應急保障工作，全力支撐委內瑞拉抗震救災，以實際行動彰顯大國擔當。 災情發生後，應委內瑞拉航天局及聯合國全球地理資訊知識與創新中心的請求，自然資源部國土衛星遙感應用中心第一時間啟動衛星遙感應急保障工作，綜合利用公益衛星和商業衛星資源，快速處理分發，為當地搜救、災情評估、安置點規劃提供精準衛星影像支撐。 截至7月2日，自然資源部國土衛星遙感應用中心共統籌衛星拍攝資料51景，其中公益衛星45景、商業衛星6景，光學感測器資料22景、雷達資料29景。目前，相關資料已透過自然資源衛星遙感雲服務平臺向委內瑞拉航天局、聯合國全球地理資訊知識與創新中心提供。委內瑞拉航天局對中方高效的資料支援表示誠摯感謝。（中國自然資源報）"
+    },
+    {
+      "id": "4973172",
+      "time": "2026-07-07 08:47:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少104.96億元】截至7月6日，上交所融資餘額報14941.17億元，較前一交易日減少76.47億元；深交所融資餘額報14668.58億元，較前一交易日減少28.49億元；兩市合計29609.75億元，較前一交易日減少104.96億元。"
+    },
+    {
+      "id": "te:markets:564603",
+      "time": "2026-07-07 08:46:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Eases Ahead of FOMC Minutes — Silver slipped below $62 an ounce on Tuesday, but held most of last week's gains as investors awaited the minutes of the Federal Reserve’s June meeting for fresh clues on the outlook for interest rates. Data released last week showed US job growth slowed sharply in June, while payroll figures for the previous two months were revised lower, leading markets to scale back expectations of a near-term rate hike. Traders are now pricing in roughly a 50% chance of a Fed rate increase in September, down from about two-thirds before the latest employment report. The metal also drew support from lower oil prices as traffic through the key Strait of Hormuz continued to recover following the implementation of the interim US-Iran peace agreement. Meanwhile, Middle Eastern producers ramped up output and cut prices in response to changing market conditions, while OPEC+ agreed to increase production quotas for next month."
+    },
+    {
+      "id": "te:markets:564602",
+      "time": "2026-07-07 08:44:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies as FOMC Minutes Eyed — Gold steadied around $4,150 an ounce on Tuesday after a volatile start to the week, as investors awaited the minutes of the Federal Reserve’s June meeting for fresh clues on the outlook for interest rates. Data released last week showed US job growth slowed sharply in June, while payroll figures for the previous two months were revised lower, leading markets to scale back expectations of a near-term rate hike. Traders are now pricing in roughly a 50% chance of a Fed rate increase in September, down from about two-thirds before the latest employment report. The precious metal also drew support from lower oil prices as traffic through the key Strait of Hormuz continued to recover following the implementation of the interim US-Iran peace agreement. Meanwhile, Middle Eastern producers ramped up output and cut prices in response to changing market conditions, while OPEC+ agreed to increase production quotas for next month."
+    },
+    {
+      "id": "4973170",
+      "time": "2026-07-07 08:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳擴大分割槽暴雨橙色預警訊號範圍】過去3小時，龍華區、南山區（南頭、西麗、桃源街道）、寶安區（新安、西鄉、福永、石巖、航城、福海、燕羅街道）、龍崗區（坂田街道）和光明區（公明街道）已出現強降雨，預計未來1-2小時還將出現20-40毫米降水，深圳市氣象臺2026年07月07日08時05分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域，上述區域山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。"
+    },
+    {
+      "id": "4973169",
+      "time": "2026-07-07 08:44:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：第二增長曲線賦能，鋰電裝備邁入成長新階段】中信建投研報表示，為對沖週期波動，鋰電裝備企業透過平臺化、多元化轉型打造第二增長曲線且成效顯現，該轉型具備雙重價值：經營端平滑主業業績波動，改善現金流與收入質量；估值端推動企業由“週期類鋰電裝置商”重估為“平臺型高階裝備商”，實現估值中樞上移。目前行業第二增長曲線分為三大方向：一是基於自動化、精密控制等通用技術，將成套解決方案外拓至光伏、3C、半導體、智慧物流等非鋰電領域；二是依託技術與成本優勢出海，透過配套國內客戶出海、服務海外電池廠商、搭建本地化服務體系獲取海外增量；三是前瞻佈局鈉電池、固態電池、幹法電極、等靜壓、複合集流體等新工藝配套裝置，卡位技術迭代紅利。鋰電裝置行業正迎來週期復甦+成長擴容雙重紅利，技術平臺化能力已驗證、疊加新技術佈局期權的鋰電裝備企業，具備穿越週期、享受行業擴容的長期成長與配置價值。"
+    },
+    {
+      "id": "4973168",
+      "time": "2026-07-07 08:43:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌4.4%，至2,240,000韓元。"
+    },
+    {
+      "id": "4973167",
+      "time": "2026-07-07 08:43:20",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【日本發行人推動亞洲離岸債發行創新高】日本借款人推動亞太地區離岸債券市場季度發行規模創下歷史新高，超過了此前中資發行人主導市場時期所達到的前高點。作為亞洲最大的離岸債券承銷機構之一，花旗集團的銀行家預計，下半年債券發行仍將維持高位，因為發行人希望提前籌資，以規避未來利率上升的風險。彙編資料顯示，截至6月30日的季度，亞太地區借款人共發行1540億美元等值的美元和歐元債券，創下歷史新高。其中，日本發行人貢獻了約40%的發行量。"
+    },
+    {
+      "id": "4973166",
+      "time": "2026-07-07 08:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首治落地 百洋醫藥ZAP-X放射外科治療中心完成首例臨床治療】2026年7月2日，百洋醫藥全國首家第三方放射外科中心迎來重要時刻——北京大學國際醫院ZAP-X放射外科治療中心完成首例治療，一名肺癌腦轉移患者全程無創完成腦部病灶精準放療，全程無不適。這標誌著ZAP-X火星舟放射外科機器人（簡稱“ZAP-X”）正式進入規模化臨床應用階段。截至目前，ZAP-X已在全球26個國家和地區獲批上市，近40家醫療機構裝機使用，完成超7500例臨床治療。"
+    },
+    {
+      "id": "4973165",
+      "time": "2026-07-07 08:41:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本名義薪資增幅再次突破3% 料強化日本央行加息立場】日本5月份薪資再次上漲，漲幅遠超通脹，料進一步強化日本央行加息立場。厚生勞動省週二公佈的資料顯示，5月份名義薪資同比增長3.2%，4月增幅經修正後為3.6%。這一數字低於經濟學家預期，但標誌著薪資增速連續第四個月達到至少3%，為1992年以來最長紀錄。當月基本薪資增長3%。一項不包括獎金和加班費、受抽樣偏差影響較小的更穩定指標顯示，全職員工的薪資增長2.4%。經通脹調整後，現金薪酬增長1.4%，為連續第五個月增長，是2021年以來的最長紀錄。儘管中東衝突擾亂了供應鏈並推高通脹，但僱主提高薪資的決心依然堅定。這將強化日本央行對良性薪資-價格迴圈依然完好的看法，使其得以進一步推進貨幣政策正常化。"
+    },
+    {
+      "id": "mkt:019f3a04-c7fb-7aab-8cbe-0191d69b0ca5",
+      "time": "2026-07-07 08:40:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,150/oz, down 0.34% intraday."
+    },
+    {
+      "id": "4973164",
+      "time": "2026-07-07 08:40:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4160美元/盎司，日內跌0.16%。"
+    },
     {
       "id": "mkt:019f3a03-2610-7aab-8cbd-faa849b7ca87",
       "time": "2026-07-07 08:38:32",
