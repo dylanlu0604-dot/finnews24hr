@@ -1,7 +1,31 @@
 {
   "date": "2026-07-08",
-  "count": 484,
+  "count": 487,
   "items": [
+    {
+      "id": "mkt:019f3ec3-ea82-7aab-8cd8-1272f455a0e0",
+      "time": "2026-07-08 06:47:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion in Damascus during Macron visit kills 1, injures 36】A report on the evening of the 7th, citing the Syrian Interim Government health ministry, said two explosions hit near the Tourism Ministry building in central Damascus that morning, killing one and injuring 36. The French presidency said the blasts occurred close to the hotel where President Macron is staying."
+    },
+    {
+      "id": "4975071",
+      "time": "2026-07-08 06:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴已恢復電網供電，但在美國燃料封鎖下電力短缺問題仍持續存在。"
+    },
+    {
+      "id": "mkt:019f3ec2-581a-7aab-8cd8-0d352b77ed79",
+      "time": "2026-07-08 06:45:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's Ministry of Electricity said multiple transmission lines are out of service, causing power outages in parts of the country."
+    },
     {
       "id": "4975070",
       "time": "2026-07-08 06:45:27",
