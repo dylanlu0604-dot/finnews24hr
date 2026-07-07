@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-07 09:33:16",
-  "count": 14255,
+  "updated": "2026-07-07 09:37:10",
+  "count": 14264,
   "items": [
+    {
+      "id": "te:markets:564625",
+      "time": "2026-07-07 09:36:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Decline as Tech Shares Weigh — Asian equity markets mostly fell on Tuesday as renewed selling in technology stocks overshadowed the tech-led rally on Wall Street overnight. Regional sentiment weakened after Samsung Electronics shares tumbled more than 5% despite reporting strong profit growth, driven by robust demand for AI data center memory chips. SK Hynix also dropped nearly 4% after launching the formal marketing process for its planned US listing. As a result, South Korea’s KOSPI Composite Index fell nearly 6%, while Japan’s Nikkei 225 Index lost more than 1%. Markets in Australia and mainland China also traded lower, while Hong Kong equities extended gains for a fourth consecutive session."
+    },
+    {
+      "id": "mkt:019f3a37-ed95-7aab-8cbf-5676c04de9c1",
+      "time": "2026-07-07 09:36:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "A-share humanoid-robot concept stocks were active in early trade: Julun Intelligent hit limit-up, Liwang Co. climbed over 16%, and Zhaomin Technology, Audiwei and Zhongcheng Technology also advanced."
+    },
+    {
+      "id": "mkt:019f3a37-56a1-7aab-8cbf-4fe341ae17bb",
+      "time": "2026-07-07 09:35:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share innovative drug sector pulled back in early trade; Hainan Haiyao hit the limit-down, while Shuanglu Pharmaceutical, Xin Ganjiang, Sanyuan Gene, Fuyi Pharmaceutical and Sansheng Guojian followed lower."
+    },
+    {
+      "id": "mkt:019f3a37-19f4-7aab-8cbf-40e406b1266e",
+      "time": "2026-07-07 09:35:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "Xiaomi",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "03690.HK",
+        "Impact bullish",
+        "01810.HK",
+        "09888.HK"
+      ],
+      "text": "Hong Kong stocks opened lower then rallied: Hang Seng Tech Index rose over 1% and the Hang Seng Index gained 0.7%. Tech/internet names led the move — Meituan (03690.HK) +4.7%, Xiaomi Group (01810.HK) +3.5%, Baidu (09888.HK) +2.5%, Alibaba Group (09988.HK) nearly +2%."
+    },
+    {
+      "id": "4973260",
+      "time": "2026-07-07 09:34:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥板塊盤初調整，海南海藥觸及跌停】創新藥板塊盤初調整，海南海藥觸及跌停，雙鷺藥業、新贛江、三元基因、峆一藥業、三生國健跟跌。"
+    },
+    {
+      "id": "4973259",
+      "time": "2026-07-07 09:34:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2446.50點。"
+    },
+    {
+      "id": "4973258",
+      "time": "2026-07-07 09:34:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "城內實：貨幣政策的具體細節應由日本央行決定。"
+    },
+    {
+      "id": "4973257",
+      "time": "2026-07-07 09:33:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念股盤初活躍，巨輪智慧漲停】人形機器人概念股盤初活躍，巨輪智慧漲停，力王股份漲超15%，肇民科技、奧迪威、眾誠科技跟漲。"
+    },
+    {
+      "id": "mkt:019f3a35-abb6-7aab-8cbf-3f67601b1d7e",
+      "time": "2026-07-07 09:33:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish",
+        "01024.HK",
+        "Impact bearish"
+      ],
+      "text": "Tencent Holdings (00700.HK) rose over 4% while Kuaishou (01024.HK) opened down about 6.8% after Tencent reduced its stake in Kuaishou, realizing roughly HKD 10 billion in proceeds."
+    },
+    {
+      "id": "4973256",
+      "time": "2026-07-07 09:33:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4586.710點；恒生指數現漲0.527%。"
+    },
+    {
+      "id": "4973255",
+      "time": "2026-07-07 09:33:00",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報7568.59點。個股方面，三星電子跌超7%，SK海力士跌超6%。"
+    },
     {
       "id": "4973254",
       "time": "2026-07-07 09:32:32",
@@ -131085,24 +131208,6 @@
         "歐洲央行"
       ],
       "text": "【歐洲央行訊息人士：儘管加息可能會推遲 但加息仍在議程之內】歐洲央行訊息人士：儘管加息可能會推遲，但加息仍在議程之內。油價迅速回落減輕了央行在7月加息的壓力；現在9月加息的可能性更大。若6月通脹資料意外大幅走高，7月加息可能重新成為討論焦點。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606303787608393",
-      "time": "2026-06-30 09:35:34",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：6月高技術製造業PMI為53.5% 明顯高於製造業總體】國家統計局表示，6月高技術製造業持續向好。高技術製造業PMI為53.5%，比上月上升0.6個百分點，明顯高於製造業總體，高階製造發展持續向好，引領作用進一步增強；裝備製造業和消費品行業PMI分別為52.5%和50.2%，比上月上升0.4個和0.5個百分點，行業景氣度有所增強；高耗能行業PMI為47.1%，與上月持平。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606303787606342",
-      "time": "2026-06-30 09:35:34",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：6月份製造業採購經理指數升至擴張區間 非製造業商務活動指數繼續擴張】6月30日國家統計局服務業調查中心和中國物流與採購聯合會釋出了中國採購經理指數。對此，國家統計局服務業調查中心首席統計師霍麗慧進行了解讀。6月份，製造業採購經理指數為50.3%，比上月上升0.3個百分點，重返擴張區間；非製造業商務活動指數和綜合PMI產出指數分別為50.2%和50.6%，均比上月上升0.1個百分點，我國經濟景氣水平有所回升。"
     }
   ]
 }
