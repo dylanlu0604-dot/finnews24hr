@@ -1,7 +1,79 @@
 {
   "date": "2026-07-07",
-  "count": 465,
+  "count": 473,
   "items": [
+    {
+      "id": "mkt:019f39f5-97b2-7aab-8cbd-d4f24b97bb5f",
+      "time": "2026-07-07 08:23:44",
+      "tags": [
+        "MKT News",
+        "373220.KS",
+        "Impact bearish"
+      ],
+      "text": "【LG Energy Solution forecasts Q2 operating profit down 77% on weak EV demand】Korean battery maker LG Energy Solution (LGES) said on Tuesday it expects Q2 operating profit to fall 77% to 113 billion won, citing continued weak electric-vehicle demand dragging battery sales. The company’s figure misses the market forecast of 249 billion won. Revenue is projected to rise 24.8% YoY to 7.6 trillion won, LGES told regulators. Guidance incorporates tax credits under the US Inflation Reduction Act for the company’s US battery output; excluding those credits LGES would have recorded an operating loss of 128 billion won."
+    },
+    {
+      "id": "4973149",
+      "time": "2026-07-07 08:23:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌0.5%，科技和晶片相關股領跌】日本股市早盤走低，科技和晶片相關股領跌。美銀證券日本公司的兩名策略師在一份近期研究報告中表示：“AI投資的盈利能力仍是一個需要監測的風險因素。“他們補充說：“我們還需要評估美國就業的基本軌跡。“在基準指數表現最差的成分股中，鎧俠下跌6.2%，Lasertec下跌5.2%，Sumco Corp.下跌4.4%。美元報162.12日元，紐約市場週一尾盤報162.09日元。日經指數下跌0.5%，報69386.29點。"
+    },
+    {
+      "id": "4973148",
+      "time": "2026-07-07 08:23:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面臨罷免投票壓力，淡水河谷董事會主席宣佈辭職】淡水河谷當地時間7月6日宣佈，公司董事會已於當日收到Daniel André Stieler的辭職信，Stieler宣佈辭去公司董事會成員及董事會主席的職務，該辭職即刻生效。Stieler自2021年起擔任淡水河谷董事會成員，並於2023年起出任董事會主席。此次辭職事件發生在該公司董事會內鬥升級的背景之下。上個月，持有淡水河谷7%股份的股東——巴西養老基金Previ發起了一項特別投票，要求罷免董事會主席。"
+    },
+    {
+      "id": "4973147",
+      "time": "2026-07-07 08:23:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本銀行業指數上漲超過3%。"
+    },
+    {
+      "id": "4973146",
+      "time": "2026-07-07 08:22:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "對沖基金Petra Capital Management執行合夥人Albert Yong：三星電子“本次業績表現強勁，說明儲存晶片市場基本面依舊向好。這將進一步提振市場信心，市場看好人工智慧相關需求持續放量、儲存晶片價格保持堅挺，行業中長期前景向好。”公司股價此番下跌表明 “投資者或許早已充分消化亮眼業績，如今愈發關注儲存晶片行業週期的長期走勢”。"
+    },
+    {
+      "id": "4973145",
+      "time": "2026-07-07 08:21:53",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：鋁行業悲觀預期定價過度，板塊有望理性修復】中信證券研報表示，當前對中國電解鋁超產以及印尼電解鋁產能放量擔憂或已集中過度體現。考慮供給擾動以及需求改善跡象，中信證券認為2026年和2027年上半年鋁價仍然可期，2027年下半年後鋁價仍然具備3000美元/噸的成本曲線和激勵價格支撐。中信證券認為作為中國優勢產業，中資鋁企投資價值仍然值得持續關注。"
+    },
+    {
+      "id": "4973144",
+      "time": "2026-07-07 08:21:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.0個基點，至4.085%。"
+    },
+    {
+      "id": "4973143",
+      "time": "2026-07-07 08:20:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛閱春會見聯想集團執行副總裁劉軍】據長江日報，7月6日，湖北省委常委、武漢市委書記盛閱春會見聯想集團執行副總裁兼中國區總裁劉軍。盛閱春表示，希望聯想集團繼續深耕武漢，加大在漢投資佈局力度，在智慧終端產品研發製造、城市智慧體創新應用等方面拓展合作，發揮鏈主企業引領作用，帶動更多產業鏈供應鏈上下游企業和人才在漢集聚。劉軍表示，聯想集團堅定看好武漢，將發揮自身優勢，加大投資佈局力度、鞏固拓展合作成果，帶動更多優質智慧終端產品和資源“走出去、引進來”，為武漢高質量發展作出新的更大貢獻。"
+    },
     {
       "id": "4973142",
       "time": "2026-07-07 08:20:07",
