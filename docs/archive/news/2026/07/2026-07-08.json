@@ -1,7 +1,133 @@
 {
   "date": "2026-07-08",
-  "count": 427,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:019f3e9a-581e-7aab-8cd7-c2cbf60a1791",
+      "time": "2026-07-08 06:02:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported explosions heard east and west of Hormuz port."
+    },
+    {
+      "id": "mkt:019f3e99-8f6f-7aab-8cd7-bf30fc1a77ba",
+      "time": "2026-07-08 06:01:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,100/oz in early trade, down 0.28% on the day."
+    },
+    {
+      "id": "4975039",
+      "time": "2026-07-08 06:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨下跌0.2%，標普500期貨下跌0.1%，布倫特油價漲幅超5%。"
+    },
+    {
+      "id": "mkt:019f3e99-594f-7aab-8cd7-b6e51a1cdb1c",
+      "time": "2026-07-08 06:01:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened 0.3% higher on Wednesday after the US military said it had begun a series of strikes against Iran."
+    },
+    {
+      "id": "mkt:019f3e98-fb92-7aab-8cd7-acdcffdfeeac",
+      "time": "2026-07-08 06:00:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stock index futures for the three major benchmarks opened slightly lower on Wednesday."
+    },
+    {
+      "id": "4975038",
+      "time": "2026-07-08 06:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲3%，現報72.57美元/桶。"
+    },
+    {
+      "id": "4975037",
+      "time": "2026-07-08 06:00:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1264.93美元/盎司。"
+    },
+    {
+      "id": "4975036",
+      "time": "2026-07-08 06:00:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，導彈擊中錫裡克港商用碼頭和漁業碼頭後，港口區域發生多起爆炸。"
+    },
+    {
+      "id": "4975035",
+      "time": "2026-07-08 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報60.25美元/盎司。"
+    },
+    {
+      "id": "4975034",
+      "time": "2026-07-08 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報72.33美元/桶。"
+    },
+    {
+      "id": "4975033",
+      "time": "2026-07-08 05:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體稱，阿巴斯港東西兩側均聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:019f3e97-65f6-7aab-8cd7-a42c16be8cd1",
+      "time": "2026-07-08 05:58:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Sky News, citing sources, said U.S. military strike operations remain ongoing. Compared with earlier U.S. strikes on Iran during the so-called ceasefire, the current operation appears longer in duration and larger in scale."
+    },
+    {
+      "id": "4975032",
+      "time": "2026-07-08 05:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊稱，烏克蘭首都基輔遭受導彈襲擊。"
+    },
     {
       "id": "4975031",
       "time": "2026-07-08 05:58:08",
