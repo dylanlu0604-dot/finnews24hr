@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-08 04:48:53",
-  "count": 15837,
+  "updated": "2026-07-08 04:52:40",
+  "count": 15836,
   "items": [
+    {
+      "id": "4974956",
+      "time": "2026-07-08 04:51:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX旗下人工智慧部門計劃最快於週三推出搭載Cursor的新模型。"
+    },
+    {
+      "id": "4974955",
+      "time": "2026-07-08 04:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋蒂圖片社通知快門相簿，終止雙方合併協議。"
+    },
     {
       "id": "4974954",
       "time": "2026-07-08 04:47:41",
@@ -145242,41 +145259,6 @@
         "國際"
       ],
       "text": "【美公佈6億美元月球任務計劃 推進月球基地建設】美國航空航天局30日公佈月球基地建設專案最新安排，表示已與三家美國企業簽訂總額近6億美元合同，將於2028年底執行4項新的月球登陸任務。（新華社）"
-    },
-    {
-      "id": "mkt:019f1a4d-bdee-7aab-8c43-c7c8a04465aa",
-      "time": "2026-07-01 04:52:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "text": "Trump's 2025 financial disclosure shows $635 million in income from licensing or revenue-sharing related to \"meme coins\"."
-    },
-    {
-      "id": "mkt:019f1a4b-3344-7aab-8c43-ba5f78d5087f",
-      "time": "2026-07-01 04:49:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio congratulated Peru president-elect Keiko Fujimori on her election victory."
-    },
-    {
-      "id": "mkt:019f1a4a-c66a-7aab-8c43-b6ab415ac408",
-      "time": "2026-07-01 04:48:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "President Trump filed his 2025 financial disclosure, reporting he received several hundred million dollars in income from cryptocurrency."
     }
   ]
 }
