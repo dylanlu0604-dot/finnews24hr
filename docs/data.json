@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-08 00:38:01",
-  "count": 15900,
+  "updated": "2026-07-08 00:41:48",
+  "count": 15903,
   "items": [
+    {
+      "id": "mkt:019f3d73-2523-7aab-8cd3-2861cb1efab5",
+      "time": "2026-07-08 00:39:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he is skeptical that negotiations will terminate Iran's nuclear program."
+    },
+    {
+      "id": "mkt:019f3d72-b29a-7aab-8cd3-2631cd62cc01",
+      "time": "2026-07-08 00:39:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said it is too early to assess how the situation in Iran will develop."
+    },
+    {
+      "id": "4974808",
+      "time": "2026-07-08 00:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 現在判斷伊朗局勢後續走向還為時過早。"
+    },
+    {
+      "id": "mkt:019f3d72-8a99-7aab-8cd3-1cc8fafb2b54",
+      "time": "2026-07-08 00:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he occasionally disagrees with Trump."
+    },
+    {
+      "id": "mkt:019f3d72-127c-7aab-8cd3-17fb44303516",
+      "time": "2026-07-08 00:38:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he agrees with Trump on major issues."
+    },
+    {
+      "id": "4974807",
+      "time": "2026-07-08 00:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 和特朗普偶有分歧。"
+    },
+    {
+      "id": "4974806",
+      "time": "2026-07-08 00:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡在接受採訪時表示：在重大議題上，我與特朗普看法完全一致。"
+    },
     {
       "id": "4974805",
       "time": "2026-07-08 00:36:44",
@@ -145858,40 +145919,6 @@
         "MKT News"
       ],
       "text": "Iran’s foreign ministry spokesman said tomorrow’s meeting will focus on unfreezing frozen funds and on a ceasefire in Lebanon."
-    },
-    {
-      "id": "4963513",
-      "time": "2026-07-01 00:41:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普欲編制外國情報目標總清單，遭聯FBI和CIA抵制】據知情人士透露，特朗普政府計劃編制一份外國情報目標總清單，名單涵蓋外國間諜嫌疑人、潛在策反物件。此舉遭到聯邦調查局（FBI）與中央情報局（CIA）高層官員反對，他們擔憂該清單會危及涉密調查與情報行動。由國家情報總監辦公室（ODNI）主導的這項計劃近幾個月推進力度加大，該辦公室正向美國各大情報機構索要外國間諜目標人員身份資訊。聯邦調查局與中情局官員對建立該資料庫的必要性提出質疑，並警告，將高度敏感情報集中儲存會產生重大安全隱患。參與相關磋商的知情人士表示，該計劃推進收效甚微，各方在資料庫的搭建、運維與安全管控方案上分歧嚴重。"
-    },
-    {
-      "id": "mkt:019f1966-dad6-7aab-8c3e-a85c4b10f3f9",
-      "time": "2026-07-01 00:39:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN Interim Force in Lebanon (UNIFIL) said lasting stability in southern Lebanon hinges on strengthening Lebanese state institutions, notably the Lebanese Armed Forces."
-    },
-    {
-      "id": "4963512",
-      "time": "2026-07-01 00:39:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普政府擬製定境外間諜活動目標總清單。"
-    },
-    {
-      "id": "4963511",
-      "time": "2026-07-01 00:38:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美光科技將出資2.5億美元支援特朗普兒童儲蓄賬戶計劃】美光科技將投入2.5億美元，助力特朗普政府推出面向兒童的投資儲蓄賬戶專案——該專案被稱作“特朗普賬戶”。這家晶片企業表示，將對員工的子女儲蓄金進行等額配套補貼，每名兒童最高補貼1000美元。同時，針對紐約、愛達荷、弗吉尼亞、加利福尼亞、科羅拉多、明尼蘇達、得克薩斯等美光業務落地地區的兒童，公司將為每人提供250美元啟動存款。該訊息釋出於“特朗普賬戶”計劃7月4日正式上線前夕。美光稱，本次企業承諾投入的資金，是同類企業捐贈中規模最大的一筆，預計可惠及至多100萬名兒童。"
     }
   ]
 }

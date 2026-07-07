@@ -1,7 +1,68 @@
 {
   "date": "2026-07-08",
-  "count": 45,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:019f3d73-2523-7aab-8cd3-2861cb1efab5",
+      "time": "2026-07-08 00:39:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he is skeptical that negotiations will terminate Iran's nuclear program."
+    },
+    {
+      "id": "mkt:019f3d72-b29a-7aab-8cd3-2631cd62cc01",
+      "time": "2026-07-08 00:39:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said it is too early to assess how the situation in Iran will develop."
+    },
+    {
+      "id": "4974808",
+      "time": "2026-07-08 00:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 現在判斷伊朗局勢後續走向還為時過早。"
+    },
+    {
+      "id": "mkt:019f3d72-8a99-7aab-8cd3-1cc8fafb2b54",
+      "time": "2026-07-08 00:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he occasionally disagrees with Trump."
+    },
+    {
+      "id": "mkt:019f3d72-127c-7aab-8cd3-17fb44303516",
+      "time": "2026-07-08 00:38:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he agrees with Trump on major issues."
+    },
+    {
+      "id": "4974807",
+      "time": "2026-07-08 00:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 和特朗普偶有分歧。"
+    },
+    {
+      "id": "4974806",
+      "time": "2026-07-08 00:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡在接受採訪時表示：在重大議題上，我與特朗普看法完全一致。"
+    },
     {
       "id": "4974805",
       "time": "2026-07-08 00:36:44",
