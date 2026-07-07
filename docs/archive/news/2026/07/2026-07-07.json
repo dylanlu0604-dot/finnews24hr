@@ -1,7 +1,64 @@
 {
   "date": "2026-07-07",
-  "count": 1156,
+  "count": 1162,
   "items": [
+    {
+      "id": "mkt:019f3b3c-94ae-7aab-8cc5-206f160aa9ce",
+      "time": "2026-07-07 14:20:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Germany May industrial output +0.9% MoM on strong auto rebound】Germany’s Federal Statistical Office said industrial output rose 0.9% MoM in May, above a 0.2% consensus and the initially reported April gain of 0.4%. The rise was driven by a 3.6% MoM jump in motor vehicle production. The three-month on three-month series (Mar–May vs. prior three months) increased 0.1%. April was revised down to +0.2% MoM from a preliminary +0.4%. Separately, May industrial orders rose 1.9% MoM; the increase remained sizable after excluding large one-off orders such as aircraft, ships, trains and military vehicles."
+    },
+    {
+      "id": "mkt:019f3b3c-229f-7aab-8cc5-1c797454b7f7",
+      "time": "2026-07-07 14:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 fell 22.80 points, or 0.26%, to 8,808.20 at the close on Tuesday, July 7."
+    },
+    {
+      "id": "te:economy:564714",
+      "time": "2026-07-07 14:20:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bangladesh",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bangladesh Inflation Eases from 16-Month High — The annual inflation rate in Bangladesh slowed to 9.16% in June 2026 from May’s 16-month high of 9.24%. The moderation in inflation came as the impact of higher fuel prices faded. Among the major components, inflation eased for food and non-alcoholic beverages (8.60% vs 9.06% in May), recreation and culture (9.80% vs 10.09%), and miscellaneous goods and services (14.98% vs 18.93%). On a monthly basis, consumer prices rose 0.34%, after edging up 0.03% in May, which was the weakest monthly increase since consumer deflation in November 2025."
+    },
+    {
+      "id": "4973615",
+      "time": "2026-07-07 14:18:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東雲端計算成立人工智慧技術研發公司】企查查APP顯示，近日，京東（宿遷）人工智慧技術研發有限公司成立，經營範圍包含：計算機軟硬體及輔助裝置零售；資訊系統整合服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由京東雲端計算有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019f3b3a-6f00-7aab-8cc5-10cd35765d52",
+      "time": "2026-07-07 14:18:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lloyds Bank: Outlook for UK house prices hinges largely on whether household confidence gradually improves and whether inf eases."
+    },
+    {
+      "id": "4973614",
+      "time": "2026-07-07 14:18:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券：首予水井坊“買入”評級，需求轉暖後更具彈性】國海證券研報指出，水井坊主動調整，聚焦經營。公司錨定渠道健康優先目標，行業調整週期下主動控貨、最佳化庫存、打擊竄貨、規範市場、修復渠道。新任總經理幹曉峰具備營銷渠道背景，履新後強調全力聚焦經營，終端精細化運營、渠道利潤維護落地效果可期。水井坊主品牌穩固次高階基本盤，第一坊佈局高階商務、文化消費場景，形成價格帶分層和品牌價值上探。認為新渠道拓圈和數字化提效可提升消費者觸達效率和費用投放效率，助力動銷轉化、收入回暖。短期聚焦去庫，需求轉暖後更具彈性，首次覆蓋，給予“買入”評級。"
+    },
     {
       "id": "mkt:019f3b39-d8e8-7aab-8cc5-08bff0f5a2c3",
       "time": "2026-07-07 14:17:54",
