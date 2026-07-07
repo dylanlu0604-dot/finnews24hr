@@ -1,7 +1,46 @@
 {
   "date": "2026-07-08",
-  "count": 460,
+  "count": 464,
   "items": [
+    {
+      "id": "4975057",
+      "time": "2026-07-08 06:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：此次針對伊朗的打擊，無論是行動規模還是打擊力度，都比10天前的那輪大了四到五倍。"
+    },
+    {
+      "id": "4975056",
+      "time": "2026-07-08 06:27:34",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本5月貿易帳；\n② 09:00 澳洲聯儲負責經濟事務的助理主席Sarah Hunter講話；\n③ 10:00 紐西蘭聯儲釋出官方現金利率（OCR）和貨幣政策評估報告；\n④ 11:00 紐西蘭聯儲主席Anna Breman舉行新聞釋出會；\n⑤ 15:00 歐洲央行管委Kocher講話；\n⑥ 19:30 歐洲央行管委兼德國央行行長Nagel、管委Primoz Dolenc講話；\n⑦ 時間待定 國際貨幣基金組織（IMF）釋出《世界經濟展望》更新版本；\n⑧ 20:00 歐洲央行管委兼法國央行行長Moulin講話；\n⑨ 22:00 美國5月批發庫存終值；\n⑩ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報。"
+    },
+    {
+      "id": "mkt:019f3eb0-dfe4-7aab-8cd7-ed305ea1d758",
+      "time": "2026-07-08 06:26:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Axios reported a U.S. official said the U.S. strike on Iran on Tuesday (U.S. local time) was 4-5 times larger in scale and intensity than the strike 10 days earlier."
+    },
+    {
+      "id": "4975055",
+      "time": "2026-07-08 06:26:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本考慮在經濟展望報告中調整貨幣政策相關表述。"
+    },
     {
       "id": "4975054",
       "time": "2026-07-08 06:25:10",
