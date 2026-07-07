@@ -1,7 +1,112 @@
 {
   "date": "2026-07-07",
-  "count": 1135,
+  "count": 1146,
   "items": [
+    {
+      "id": "mkt:019f3b36-36c0-7aab-8cc4-ef180a4223cc",
+      "time": "2026-07-07 14:13:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "New Taiwan dollar fell to 32.138 per US dollar, the weakest level since March 23."
+    },
+    {
+      "id": "4973609",
+      "time": "2026-07-07 14:13:53",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普一句話戴爾暴漲百億美元】美國總統特朗普在白宮活動上再次公開呼籲美國人購買戴爾電腦，其言論引發戴爾股價一度上漲近10%——這已經是最近特朗普第三次為戴爾公司“喊單”。美東時間週一，特朗普在橢圓辦公室舉行了一場“敲鐘儀式”，同時敲響紐交所和納斯達克的開市鍾，慶祝“特朗普賬戶”的首個交易日——這是一種為18歲以下兒童提供稅收優惠的投資工具。在儀式上，特朗普專門點名呼籲美國人出門買戴爾電腦：“出去買一臺戴爾電腦吧。”而在他身邊站著的，正是戴爾公司創始人邁克爾·戴爾本人。特朗普在活動上，直接表達了對邁克爾·戴爾及其妻子蘇珊·戴爾的支援和讚美，此前兩人已承諾向“特朗普賬戶”專案捐贈超過60億美元。這並非特朗普首次公開支援戴爾公司。今年2月和5月，他都曾用類似措辭稱讚戴爾公司的捐贈行為。"
+    },
+    {
+      "id": "4973608",
+      "time": "2026-07-07 14:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商業銀行不良處置仍在加速 上半年全行業轉讓核銷合計至少5000億】商業銀行仍在加快不良資產的處置。銀登中心和機構最新統計資料顯示，上半年銀登中心轉讓不良為1011億元，結合前5個月商業銀行不良核銷4868億元，粗略合計上半年全行業不良資產處置至少超5000億元。"
+    },
+    {
+      "id": "mkt:019f3b35-0bde-7aab-8cc4-e51fc1fcec92",
+      "time": "2026-07-07 14:12:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "text": "【Analyst: memory supercycle to run at least through 1H 2027】Analyst Emily Scarlet says Micron’s results and vendor disclosures point to a severe memory shortage that has driven prices higher, with AI data centers consuming large wafer capacity. Producing 1GB of HBM (high-bandwidth memory used in AI chips) requires roughly three times the wafer area of standard memory, and Samsung, SK Hynix and Micron have shifted lines toward higher‑margin HBM, tightening supply of commodity DRAM. The shortage has boosted shares—Micron up about 242% year‑to‑date, SK Hynix up about 770% over 12 months. New memory capacity is unlikely to come online before 1H 2027, so Scarlet sees the supply-driven price cycle protected through 2026 and into 1H 2027. Possible window to reduce memory sector exposure is mid‑2027 to 2028; if Micron’s Idaho fab and Korea’s Yongin cluster reach volume production by late‑2027 and AI demand cools, a supply glut in 2028–29 is plausible."
+    },
+    {
+      "id": "mkt:019f3b34-95cf-7aab-8cc4-d924a65f59e4",
+      "time": "2026-07-07 14:12:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude-3.6 earthquake at 14:04 on July 7 in Haixi prefecture, Qinghai (37.80N, 95.36E); depth 10 km."
+    },
+    {
+      "id": "4973607",
+      "time": "2026-07-07 14:11:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報8297.00點。"
+    },
+    {
+      "id": "4973606",
+      "time": "2026-07-07 14:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥國防部：將採購兩架波音P-8A“波塞冬”海上巡邏機。"
+    },
+    {
+      "id": "mkt:019f3b33-5132-7aab-8cc4-d4e3a06cf6af",
+      "time": "2026-07-07 14:10:46",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Denmark's Defence Ministry will procure two Boeing P-8A Poseidon maritime patrol aircraft."
+    },
+    {
+      "id": "4973605",
+      "time": "2026-07-07 14:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比證券交易所（ADX）將繼續管理日內波動，其中包括在異常情況下臨時暫停交易，以維護市場有序執行。"
+    },
+    {
+      "id": "mkt:019f3b32-e580-7aab-8cc4-cecf6f1446d4",
+      "time": "2026-07-07 14:10:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01368.HK",
+        "Impact bearish"
+      ],
+      "text": "Xtep International (01368.HK) fell more than 5% after Daiwa cut its PT to HK$3.9 and downgraded the stock to \"Hold\"."
+    },
+    {
+      "id": "4973604",
+      "time": "2026-07-07 14:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滴滴緊急馳援廣西暴雨洪澇災害】滴滴聯合中國紅十字基金會、深圳壹基金公益基金會啟動救災響應，在災區設立供餐點，為當地提供應急供餐服務。同時已首批准備1000箱生活必備物資，支援保障受災群眾安置與生活恢復。"
+    },
     {
       "id": "te:economy:564710",
       "time": "2026-07-07 14:09:42",
