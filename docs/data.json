@@ -1,7 +1,341 @@
 {
-  "updated": "2026-07-08 01:34:58",
-  "count": 15888,
+  "updated": "2026-07-08 02:29:07",
+  "count": 15857,
   "items": [
+    {
+      "id": "4974839",
+      "time": "2026-07-08 02:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜發行250億美元債券，獲得620億美元認購需求。"
+    },
+    {
+      "id": "te:markets:564971",
+      "time": "2026-07-08 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Plunges by 9.30% — Top commodity losers are Coffee (-9.30%) and Sugar (-0.79%). Gains are led by Cotton (3.76%) and Rice (2.32%)."
+    },
+    {
+      "id": "4974838",
+      "time": "2026-07-08 02:20:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌7.12%，中進醫療跌7.07%，中比能源跌6.90%，嘉楠科技跌6.55%，禾賽科技跌6.44%。"
+    },
+    {
+      "id": "te:markets:564970",
+      "time": "2026-07-08 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 1.71% — Top commodity losers are Silver (-1.71%) and Gold (-0.55%). Gains are led by Platinum (1.21%)."
+    },
+    {
+      "id": "te:markets:564969",
+      "time": "2026-07-08 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 7.26% — Top commodity gainers are Natural Gas EU (7.26%), Natural Gas UK (6.53%), Germany Natural Gas THE (5.17%), Brent Crude Oil (2.92%) and Crude Oil WTI (2.76%). Biggest loser is Gasoline (-1.80%)."
+    },
+    {
+      "id": "mkt:019f3dc8-912d-7aab-8cd4-be32a12d5c30",
+      "time": "2026-07-08 02:13:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Congo: confirmed Ebola cases have risen to 1,624, including 521 deaths."
+    },
+    {
+      "id": "mkt:019f3dc6-7e67-7aab-8cd4-b1ca010e01f5",
+      "time": "2026-07-08 02:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French far-right leader Marine Le Pen says she will run for president in the 2027 election."
+    },
+    {
+      "id": "4974837",
+      "time": "2026-07-08 02:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "勒龐：我將在不佩戴電子腳鐐的情況下參加2027年總統選舉。"
+    },
+    {
+      "id": "4974836",
+      "time": "2026-07-08 02:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "勒龐：法院賦予法國民眾投票自由，我對此感到欣慰。 將就法院的判決提起上訴。"
+    },
+    {
+      "id": "mkt:019f3dc0-de43-7aab-8cd4-aa7c39a1eb10",
+      "time": "2026-07-08 02:04:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms will roll out Muse video aimed at creators and Meta AI, and introduced its first image-generation model developed by the Meta Superintelligence Lab, \"Muse Image\"."
+    },
+    {
+      "id": "mkt:019f3dc0-add0-7aab-8cd4-a18af4cc8632",
+      "time": "2026-07-08 02:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says credit fundamentals of Peru's major banks are stable."
+    },
+    {
+      "id": "4974834",
+      "time": "2026-07-08 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：Muse Image已於今日上線美國地區的Meta AI應用、Meta AI網站及Instagram Stories，並已在部分國家和地區的WhatsApp推出，Facebook也將很快支援該功能。"
+    },
+    {
+      "id": "mkt:019f3dbc-19cf-7aab-8cd4-9ac54338eaa0",
+      "time": "2026-07-08 01:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera quoted Lebanese foreign ministry sources saying Israel has threatened to file suit in US courts accusing Lebanon of harboring terrorist groups."
+    },
+    {
+      "id": "4974833",
+      "time": "2026-07-08 01:58:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級表示秘魯主要銀行展現出穩健的信用狀況。"
+    },
+    {
+      "id": "mkt:019f3db9-f31c-7aab-8cd4-952d693d9cdd",
+      "time": "2026-07-08 01:57:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cites Lebanese diplomatic sources saying a proposed framework agreement would mark the end of a phase; Lebanon is seeking a security pact to secure the return of displaced people and restore regional stability."
+    },
+    {
+      "id": "4974832",
+      "time": "2026-07-08 01:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：黎巴嫩外交訊息人士表示，我們拒絕在羅馬舉行第六輪談判。以色列欲借羅馬談判擺脫美國壓力。以色列正尋求與黎巴嫩建立一種雙邊機制，並將美國參與降至最低。以軍持續打擊納巴提耶，且未落實“試點區域”安排，目的是繼續迫使黎巴嫩南部人口外流。以色列試圖在以色列大選前規避落實“試點區域”安排。"
+    },
+    {
+      "id": "mkt:019f3db8-4a22-7aab-8cd4-8e666eba98d6",
+      "time": "2026-07-08 01:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Lebanese diplomatic sources, says Israel is seeking to avoid implementing the \"pilot zone\" arrangements ahead of the Israeli election."
+    },
+    {
+      "id": "mkt:019f3db8-4526-7aab-8cd4-80c7bc94ec73",
+      "time": "2026-07-08 01:55:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cites Lebanese diplomatic sources saying Israeli forces continue strikes on Nabatieh and have not implemented the 'pilot zone' arrangement; the sources say the aim is to force further displacement of residents in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f3db7-f248-7aab-8cd4-78f26a923f2a",
+      "time": "2026-07-08 01:54:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking a bilateral mechanism with Lebanon while minimizing US involvement."
+    },
+    {
+      "id": "mkt:019f3db7-ecf4-7aab-8cd4-773eaa698f11",
+      "time": "2026-07-08 01:54:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking to use talks in Rome to relieve pressure from the United States."
+    },
+    {
+      "id": "mkt:019f3db5-b953-7aab-8cd4-6878f28b4eda",
+      "time": "2026-07-08 01:52:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying they refuse to hold a sixth round of talks in Rome."
+    },
+    {
+      "id": "mkt:019f3db5-0ede-7aab-8cd4-63829b76407d",
+      "time": "2026-07-08 01:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Qatar lodges protest over attack on LNG vessel in Strait of Hormuz】Qatar's foreign ministry summoned Iran's deputy ambassador and delivered a formal protest after a Qatari liquefied natural gas carrier was attacked in the Strait of Hormuz. Doha demanded Iran immediately cease actions that endanger regional security and threaten international shipping and global energy supplies, and said it reserves the right to take measures under international law to protect its interests. The démarche comes as security tensions in the Strait of Hormuz continue to escalate."
+    },
+    {
+      "id": "mkt:019f3db4-2b00-7aab-8cd4-5e467a00cc00",
+      "time": "2026-07-08 01:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian President Pezeshkian travels to Iraq to attend Khamenei funeral】State media reported on the 7th that President Pezeshkian left Tehran for Najaf, Iraq, to attend the funeral for Iran's late Supreme Leader Khamenei on the 8th and will hold talks with Iraqi Prime Minister Zaidi."
+    },
+    {
+      "id": "mkt:019f3db3-24c0-7aab-8cd4-5149e576ee38",
+      "time": "2026-07-08 01:49:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme Leader's international affairs adviser said Tehran's support for \"resistance forces\" will not change."
+    },
+    {
+      "id": "4974830",
+      "time": "2026-07-08 01:48:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統赴伊拉克出席哈梅內伊送葬儀式 】據伊朗邁赫爾通訊社7日報道，伊朗總統佩澤希齊揚當天離開首都德黑蘭前往伊拉克納傑夫，他將出席8日在該國舉行的伊朗已故最高領袖哈梅內伊送葬儀式。報道說，佩澤希齊揚還將與伊拉克總理扎伊迪舉行會談。（新華社）"
+    },
+    {
+      "id": "mkt:019f3db1-cd75-7aab-8cd4-4a4a132f7608",
+      "time": "2026-07-08 01:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU said Erdogan is not a \"frenemy\" but entirely an enemy."
+    },
+    {
+      "id": "mkt:019f3db1-5f7c-7aab-8cd4-47a4af63957e",
+      "time": "2026-07-08 01:47:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it reserves the right under international law to take measures it deems appropriate to protect its interests."
+    },
+    {
+      "id": "mkt:019f3daf-4271-7aab-8cd4-3adb695e2018",
+      "time": "2026-07-08 01:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Incoming Panama Canal Authority administrator says there are currently no plans to reduce vessel transits."
+    },
+    {
+      "id": "4974829",
+      "time": "2026-07-08 01:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河新任管理局長：受降雨量影響，2027 年夏季新巴拿馬船閘允許船舶通行的最大吃水深度或將下調至 44。運河目前暫不考慮削減船舶通行班次。"
+    },
+    {
+      "id": "mkt:019f3dac-d37a-7aab-8cd4-31a94b0b5945",
+      "time": "2026-07-08 01:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Incoming Panama Canal Authority administrator said if rainfall is insufficient the maximum draft for the Neo‑Panamax locks could be reduced to 44 feet in summer 2027."
+    },
+    {
+      "id": "mkt:019f3daa-2715-7aab-8cd4-2b60d148688a",
+      "time": "2026-07-08 01:39:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry demanded that Iran immediately stop any actions threatening regional security and cease jeopardizing the safety of global shipping and energy supplies."
+    },
+    {
+      "id": "4974828",
+      "time": "2026-07-08 01:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部表示，抗議照會要求伊朗立即停止一切威脅地區安全、危害全球航運與能源供應安全的行為。"
+    },
+    {
+      "id": "mkt:019f3da9-d194-7aab-8cd4-2541180e99b6",
+      "time": "2026-07-08 01:39:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it firmly rejects Iran's attack, saying the action undermines the safety of international navigation."
+    },
+    {
+      "id": "4974827",
+      "time": "2026-07-08 01:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據紐約時報： 美國眾議院民主黨領袖傑弗里斯稱普拉特納應當退出參議院競選。"
+    },
+    {
+      "id": "4974826",
+      "time": "2026-07-08 01:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發表宣告：召見伊朗副大使，就霍爾木茲海峽內卡達液化天然氣運輸船遭襲擊一事提出抗議。"
+    },
+    {
+      "id": "mkt:019f3da8-02ec-7aab-8cd4-1b0a649539b2",
+      "time": "2026-07-08 01:37:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry summoned Iran's deputy ambassador to protest actions targeting Qatari liquefied natural gas tankers in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f3da7-2871-7aab-8cd4-1159ceae6dc7",
+      "time": "2026-07-08 01:36:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UKMTO raises Strait of Hormuz threat level to 'severe'】The UK Maritime Trade Operations (UKMTO) said three attacks on tankers near the Strait of Hormuz on Tuesday prompted it to raise the maritime threat level to 'severe', the second-highest. An unnamed LNG carrier suffered a fire after an unidentified object struck the port side of its engine room while transiting the strait. A very large crude carrier (VLCC) was hit by an unidentified object as it departed the strait; the vessel continued to its destination and no casualties were reported. A third tanker was attacked near Oman's Musandam peninsula, sustaining minor structural damage. UKMTO said the likelihood of deliberate hostile action has increased, navigational disruption persists and vessels should remain highly vigilant. It added that Iran's Islamic Revolutionary Guard Corps' hailing and route-interference activity continues, notably targeting ships with their automatic identification system (AIS) active."
+    },
     {
       "id": "mkt:019f3da4-0662-7aab-8cd4-0e6ed9f6a09f",
       "time": "2026-07-08 01:33:07",
@@ -145166,648 +145500,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Bitcoin Drops by 2.87% — Top crypto losers are Bitcoin (-2.87%), Binance (-2.39%) and Ether (-2.23%)."
-    },
-    {
-      "id": "te:markets:563099",
-      "time": "2026-07-01 02:25:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Soars by 8.77% — Top commodity gainers are Coffee (8.77%) and Corn (2.58%). Biggest losers are Rice (-2.89%), Rapeseed (-1.42%) and Canola (-1.17%)."
-    },
-    {
-      "id": "4963587",
-      "time": "2026-07-01 02:24:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "在美國態度猶豫且北約成員國防務開支普遍不足的情況下，北約下屆峰會能否在阿爾巴尼亞舉行存疑。"
-    },
-    {
-      "id": "mkt:019f19c6-33db-7aab-8c40-36cc99bd5da1",
-      "time": "2026-07-01 02:24:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Foreign Ministry said technical-level contacts between the US and Iran continue, but high-level talks have not resumed."
-    },
-    {
-      "id": "4963586",
-      "time": "2026-07-01 02:24:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及伊朗談判：後續還有諸多博弈。值得慶幸的是，本屆政府、總統始終在想方設法為美國民眾爭取優勢。"
-    },
-    {
-      "id": "mkt:019f19c4-01e4-7aab-8c40-2dea8ce8de71",
-      "time": "2026-07-01 02:21:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell 2.0% intraday to $69.33/bbl."
-    },
-    {
-      "id": "4963585",
-      "time": "2026-07-01 02:21:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報69.33美元/桶。"
-    },
-    {
-      "id": "te:markets:563098",
-      "time": "2026-07-01 02:20:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Silver (2.38%), Copper (1.59%) and Gold (0.39%). Biggest losers are Titanium (-2.06%) and Platinum (-1.70%)."
-    },
-    {
-      "id": "mkt:019f19c1-f742-7aab-8c40-275449c76047",
-      "time": "2026-07-01 02:19:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【ECB policymaker Dolenc: no rush to hike if energy markets stay calm】ECB policymaker Dolenc said if Middle East tensions do not escalate before the next policy decision and energy prices remain stable, the ECB could keep rates unchanged at the next meeting. Speaking at the Sintra Forum, he said a pause in tightening is reasonable if energy prices hold, commodity volatility does not spread and second‑round inflation effects do not materialize. Oil and gas remaining subdued would remove the need to rush further tightening, he added, and based on current data it may be appropriate to wait until before September. He cautioned there are still weeks to the next decision and geopolitical risk remains elevated after a recent uptick in hostilities."
-    },
-    {
-      "id": "4963584",
-      "time": "2026-07-01 02:19:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行利率決議獲七名董事會成員中多數成員支援。"
-    },
-    {
-      "id": "mkt:019f19c1-97f9-7aab-8c40-1d4dc3d0c52d",
-      "time": "2026-07-01 02:19:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's central bank rate decision was supported by a majority of its seven board members."
-    },
-    {
-      "id": "4963583",
-      "time": "2026-07-01 02:19:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行將利率上調75個基點至12%。"
-    },
-    {
-      "id": "mkt:019f19c1-83ee-7aab-8c40-1135f369e9aa",
-      "time": "2026-07-01 02:19:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Colombia's central bank raised its policy rate by 75 bps to 12%."
-    },
-    {
-      "id": "4963582",
-      "time": "2026-07-01 02:18:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行將貸款利率上調至12.00%，此前為11.25%。"
-    },
-    {
-      "id": "mkt:019f19c1-41d0-7aab-8c40-0ed6861ba442",
-      "time": "2026-07-01 02:18:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hardline Republicans in the U.S. House are blocking advancement of the defense policy bill to protest Trump's voter ID proposals."
-    },
-    {
-      "id": "mkt:019f19c0-9d31-7aab-8c40-06214b23663c",
-      "time": "2026-07-01 02:18:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran says no timetable to restart nuclear talks; contingent on Israeli withdrawal from Lebanon】Iran foreign ministry spokesman Baghaei told state TV Tehran will not set a timetable to restart nuclear talks with the US until Israel’s withdrawal from Lebanon is scheduled. Iran said it needs assurance Israeli forces will withdraw and that the Lebanon fighting will not escalate, and will decide next steps based on developments over the coming days."
-    },
-    {
-      "id": "4963581",
-      "time": "2026-07-01 02:17:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "共和黨強硬派阻止美國眾議院推進國防政策法案的程式性投票，以抗議特朗普提出的選民身份認證立法。"
-    },
-    {
-      "id": "mkt:019f19bf-707c-7aab-8c3f-f98d1b0bf34e",
-      "time": "2026-07-01 02:16:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude down 1.00% intraday at $72.92/bbl."
-    },
-    {
-      "id": "te:markets:563097",
-      "time": "2026-07-01 02:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Gains by 3.15% — Top commodity gainers are Natural gas (3.15%), Natural Gas EU (2.44%) and Natural Gas UK (2.26%). Biggest losers are Methanol (-2.79%), Crude Oil WTI (-1.82%) and Brent Crude Oil (-1.27%)."
-    },
-    {
-      "id": "4963580",
-      "time": "2026-07-01 02:13:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Anthropic釋出Claude Sonnet 5 平價高效能適配日常辦公】Anthropic正式推出Claude Sonnet 5，主打日常辦公場景，效能接近旗艦Opus 4.8，定價更低，即日起設為Claude免費、Pro版預設模型，同步開放給Max、團隊及企業客戶。該模型未專項訓練網路安全相關任務，高危網路操作能力遠弱於Opus系列，自主處理瀏覽、規劃、程式碼等任務的同時網路風險可控。Anthropic正與特朗普政府持續磋商旗下各款模型，Sonnet 5上線相關事宜亦納入溝通範疇。"
-    },
-    {
-      "id": "mkt:019f19bb-8999-7aab-8c3f-f62221e117a3",
-      "time": "2026-07-01 02:12:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Federal Communications Commission plans to vote next month to close a loophole and ban sales in the US of devices containing components from companies on its sanctions blacklist."
-    },
-    {
-      "id": "4963579",
-      "time": "2026-07-01 02:11:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國電信監管機構聯邦通訊委員會（FCC）計劃下月就一項法案進行投票，該法案旨在封堵一項漏洞，此前該漏洞允許含有被列入黑名單企業所生產元件的裝置在美國銷售。"
-    },
-    {
-      "id": "mkt:019f19ba-6712-7aab-8c3f-ee554c414d58",
-      "time": "2026-07-01 02:11:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ANTHROPIC launches Claude Sonnet 5; agent capability substantially improved】ANTHROPIC launched the Claude Sonnet 5 model, calling it the most capable Sonnet for agent tasks to date. The firm says Sonnet 5 can plan and invoke tools such as browsers and terminals with autonomous performance that previously required larger, costlier models. Performance approaches Opus 4.8 while offering a lower price; Sonnet 5 is materially stronger than Sonnet 4.6 on inference, tool use, programming and knowledge-work tasks. Internal safety tests show a lower incidence of undesirable behavior versus Sonnet 4.6, and Sonnet 5 is significantly weaker than current Opus models on cybersecurity tasks. The model is live across all plans — default on Free and Pro, opt-in for Max, Team and Enterprise — and is available on Claude Code and the Claude platform. Launch pricing is $2 per MLN input tokens and $10 per MLN output tokens through Aug. 31, 2026, rising to $3/$15 thereafter."
-    },
-    {
-      "id": "mkt:019f19b9-d54c-7aab-8c3f-e39a23ba98be",
-      "time": "2026-07-01 02:10:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The Russian government has, by decree, closed multiple border crossings with Latvia, Finland and Estonia."
-    },
-    {
-      "id": "4963578",
-      "time": "2026-07-01 02:09:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委多倫茨：若能源市場保持平穩，暫無加息必要】歐洲央行管理委員會委員普里莫茲·多倫茨表示，若在此期間中東衝突不進一步惡化，歐洲央行或將在下一輪會議維持基準利率不變。多倫茨週二在葡萄牙辛特拉舉辦的歐洲央行年度論壇上稱，若能源成本維持現有水平、大宗商品市場波動不再擴散、且未產生通脹二次傳導效應，7月暫停加息是合理的。“如果油氣價格持續走低，我認為沒有任何進一步收緊貨幣政策的迫切性，”他表示，“結合當前現有資料，觀望至9月再採取行動或許更為妥當。”"
-    },
-    {
-      "id": "te:markets:563096",
-      "time": "2026-07-01 02:08:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 6-year Low — Oat decreased to 256.50 USd/Bu, the lowest since March 2020. Over the past 4 weeks, Oat lost 24.69%, and in the last 12 months, it decreased 32.6%."
-    },
-    {
-      "id": "mkt:019f19b7-38b1-7aab-8c3f-da0489645c69",
-      "time": "2026-07-01 02:07:45",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB governing council member Dolenc said that based on current data, an ECB pause in rate hikes in July could be appropriate."
-    },
-    {
-      "id": "mkt:019f19b6-ff43-7aab-8c3f-d04170973900",
-      "time": "2026-07-01 02:07:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB executive board member dolenc said if energy prices remain subdued there is no urgency to raise interest rates."
-    },
-    {
-      "id": "mkt:019f19b6-b9a9-7aab-8c3f-cbd062acb231",
-      "time": "2026-07-01 02:07:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Dolenc said uncertainty in the Middle East remains elevated."
-    },
-    {
-      "id": "mkt:019f19b6-9704-7aab-8c3f-c4c1c06bc48e",
-      "time": "2026-07-01 02:07:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB Governing Council member Dolenc said the situation could change rapidly before the next meeting."
-    },
-    {
-      "id": "4963577",
-      "time": "2026-07-01 02:06:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫茨：從當前資料來看，歐洲央行7月暫停加息或許是合適之舉。"
-    },
-    {
-      "id": "4963576",
-      "time": "2026-07-01 02:06:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫茨：下次會議前形勢可能快速發生變化。"
-    },
-    {
-      "id": "4963575",
-      "time": "2026-07-01 02:06:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫茨：中東局勢相關不確定性仍處於高位。"
-    },
-    {
-      "id": "4963574",
-      "time": "2026-07-01 02:06:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫茨：若能源價格維持低位，不存在加息緊迫性。"
-    },
-    {
-      "id": "mkt:019f19b5-eb74-7aab-8c3f-bb7023529dfd",
-      "time": "2026-07-01 02:06:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic said the model's promotional pricing through Aug 31 is dlr2 per mln input tokens and dlr10 per mln output tokens; thereafter prices will rise to dlr3 per mln input tokens and dlr15 per mln output tokens."
-    },
-    {
-      "id": "4963573",
-      "time": "2026-07-01 02:05:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貨幣監理署：美國銀行業一季度交易收入增長5.6%。"
-    },
-    {
-      "id": "mkt:019f19b5-46f5-7aab-8c3f-b1cfb0e4b209",
-      "time": "2026-07-01 02:05:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC: safety tests show Claude Sonnet 5 improves on Sonnet 4.6. The model is now live across all Claude tiers and accessible via Claude Code and the Claude platform."
-    },
-    {
-      "id": "mkt:019f19b3-84a0-7aab-8c3f-adc952507ee9",
-      "time": "2026-07-01 02:03:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC launches Claude Sonnet 5."
-    },
-    {
-      "id": "4963572",
-      "time": "2026-07-01 02:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：8月31日之後，Claude Sonnet 5大模型定價將調整為每百萬輸入token 3美元，每百萬輸出token 15美元。"
-    },
-    {
-      "id": "4963571",
-      "time": "2026-07-01 02:01:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利鐵路公司執行長多納魯馬宣佈辭職。"
-    },
-    {
-      "id": "4963570",
-      "time": "2026-07-01 02:01:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "薩博：簽署向烏克蘭交付16架“鷹獅”E戰鬥機的合同。"
-    },
-    {
-      "id": "4963569",
-      "time": "2026-07-01 02:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "薩博已簽署為烏克蘭供應鷹獅E戰鬥機的合同。"
-    },
-    {
-      "id": "4963568",
-      "time": "2026-07-01 02:00:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：模型現已上線Claude程式碼工具與Claude平臺；優惠定價持續至8月31日，輸入token每百萬2美元，輸出token每百萬10美元。"
-    },
-    {
-      "id": "mkt:019f19b0-8fdb-7aab-8c3f-a688279750d9",
-      "time": "2026-07-01 02:00:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【SemiAnalysis raises forecast: NVIDIA FY2027 H2 data-center revenue may be ~20% above Street】NVIDIA shares rose about 1.8% on the quarter’s final trading day after an >11% monthly pullback, driven by an upbeat forecast from independent semiconductor researcher SemiAnalysis. SemiAnalysis expects NVIDIA’s FY2027 H2 data‑center compute revenue to be roughly 20% above Wall Street consensus, citing easing supply bottlenecks and an accelerated Vera Rubin ramp. The report says HBM4 memory supply constraints are largely resolved and front‑end wafer capacity was pre‑allocated, supporting stronger H2 shipments; supply‑chain checks signal the Blackwell→Rubin transition should complete in Q2 2026 and accelerate demand from Q3. Vera Rubin entered volume production in June and is slated for autumn deliveries to cloud customers including AWS, Microsoft Azure, Google Cloud and Oracle; higher HBM4 bandwidth should bolster AI compute performance. SemiAnalysis notes Rubin Ultra was scaled back from original specs—reducing expected scale and performance—and says longer‑term revenue impact remains uncertain, while the AI compute cycle continues to be the market focus."
-    },
-    {
-      "id": "4963567",
-      "time": "2026-07-01 01:59:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：並未針對網路安全相關任務專門訓練Sonnet 5模型。"
-    },
-    {
-      "id": "4963566",
-      "time": "2026-07-01 01:59:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：部署前安全評估顯示，Sonnet 5整體效能相較Sonnet 4.6有所提升。"
-    },
-    {
-      "id": "4963565",
-      "time": "2026-07-01 01:59:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：孟菲斯地區居民可享星鏈半價優惠。"
-    },
-    {
-      "id": "mkt:019f19af-4e94-7aab-8c3f-9a79c7d12bc7",
-      "time": "2026-07-01 01:59:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela National Assembly President Jorge Rodríguez said on the 30th that two recent strong earthquakes in the country have killed 1,943 people."
-    },
-    {
-      "id": "4963564",
-      "time": "2026-07-01 01:58:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Sonnet 5自今日起面向所有套餐開放使用。"
-    },
-    {
-      "id": "4963563",
-      "time": "2026-07-01 01:58:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：推出Claude Sonnet 5。"
-    },
-    {
-      "id": "mkt:019f19ad-34fa-7aab-8c3f-96b62769ed0c",
-      "time": "2026-07-01 01:56:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Tanker-tracking agency data show Iran's June exports at about 1.66 mln b/d; cumulative exports since sanctions easing total roughly 50 mln barrels. The agency says most regional exporters' shipments remain below pre-war levels."
-    },
-    {
-      "id": "mkt:019f19ac-25f8-7aab-8c3f-8e5824b7b4c7",
-      "time": "2026-07-01 01:55:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Tanker-tracking firms say Iran has exported about 50 mln barrels of oil since U.S. sanctions were eased."
-    },
-    {
-      "id": "4963562",
-      "time": "2026-07-01 01:54:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "油輪追蹤機構資料：折算下來，伊朗2026年6月日均原油出口量達166萬桶。該地區其他多數國家的出口量仍遠未恢復至戰前水平。"
-    },
-    {
-      "id": "4963561",
-      "time": "2026-07-01 01:53:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "油輪追蹤機構資料顯示：自兩週前美國實施的封鎖解除以來，伊朗已出口5000萬桶原油。"
-    },
-    {
-      "id": "4963560",
-      "time": "2026-07-01 01:52:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉國民議會議長：委內瑞拉地震遇難人數升至1943人。"
-    },
-    {
-      "id": "mkt:019f19a8-34f1-7aab-8c3f-87350309fcc5",
-      "time": "2026-07-01 01:51:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US State Department estimates total cost of a foreign military sale at $22.3 mln."
-    },
-    {
-      "id": "4963559",
-      "time": "2026-07-01 01:50:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：預計總費用為2230萬美元。"
-    },
-    {
-      "id": "mkt:019f19a6-a457-7aab-8c3f-781eb21312b4",
-      "time": "2026-07-01 01:49:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANEC forecasts Brazil's June soybean meal exports at 2.4 mln t, down from last week's estimate of 2.5 mln t."
-    },
-    {
-      "id": "mkt:019f19a6-4de4-7aab-8c3f-72d87d4e6bf3",
-      "time": "2026-07-01 01:49:17",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish"
-      ],
-      "text": "US State Department approved a potential foreign military sale of AGM-114R Hellfire missiles to the Government of Singapore."
-    },
-    {
-      "id": "4963558",
-      "time": "2026-07-01 01:48:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准擬向新加坡政府對外軍售AGM-114R型地獄火導彈。"
-    },
-    {
-      "id": "4963557",
-      "time": "2026-07-01 01:48:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）預測，6月巴西豆粕出口量將達到240萬噸，低於上週預估的250萬噸。"
-    },
-    {
-      "id": "4963556",
-      "time": "2026-07-01 01:48:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西6月大豆出口量將達1405萬噸，低於上週預估的1521萬噸。"
-    },
-    {
-      "id": "mkt:019f19a5-49a3-7aab-8c3f-6c1c2ef81bea",
-      "time": "2026-07-01 01:48:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANEC projects Brazil's June soybean exports at 14.05 mln t, down from last week's 15.21 mln t estimate."
-    },
-    {
-      "id": "4963555",
-      "time": "2026-07-01 01:45:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際專業航空電子工程師協會：談判代表將於7月1日與波音開啟正式合同磋商，計劃敲定兩份集體談判協議，覆蓋約1.3萬名工程師及約4000名技術工人。"
-    },
-    {
-      "id": "4963554",
-      "time": "2026-07-01 01:42:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：雲端硬碟現已支援移動端呼叫Gemini智慧助手。"
-    },
-    {
-      "id": "4963553",
-      "time": "2026-07-01 01:36:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國南方司令部：遵照南方司令部指令，美軍持續配合由美國國務院牽頭的美國政府委內瑞拉地震救災行動。"
-    },
-    {
-      "id": "4963552",
-      "time": "2026-07-01 01:36:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國聯邦憲法保衛局於週二釋出一份安全報告稱，伊朗是2025年在德國境內開展情報活動的主要外國勢力之一，其監控目標包括伊朗反對派團體、親以色列和親猶太相關人員，以及旅居海外的伊朗僑民群體。"
-    },
-    {
-      "id": "4963551",
-      "time": "2026-07-01 01:36:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽維持愛立信“BBB-”評級，展望穩定。"
-    },
-    {
-      "id": "mkt:019f199a-29d9-7aab-8c3f-64b1dc535c69",
-      "time": "2026-07-01 01:36:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB mulls doubling banks' minimum reserve ratio to 2% to cut its interest bill】Six people said the European Central Bank is considering raising the minimum reserve banks must hold in non-interest-bearing accounts from 1% to 2% of customer deposits and other funding sources. The move is aimed at cutting the ECB’s interest expenses from paying interest on excess deposits, absorbing surplus liquidity and easing side-effects of its anti-inflation policy. Officials said it would help cash-rich national central banks such as Germany’s Bundesbank reduce losses tied to interest paid on deposits that exceed legal requirements. Excess deposits have swelled to trillions of euros since the ECB’s bond-buying programmes. The proposal is under early internal discussion and will be revisited in this year’s framework review; a decision is expected before autumn and the Governing Council has not formally debated it."
     }
   ]
 }

@@ -1,7 +1,341 @@
 {
   "date": "2026-07-08",
-  "count": 99,
+  "count": 136,
   "items": [
+    {
+      "id": "4974839",
+      "time": "2026-07-08 02:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜發行250億美元債券，獲得620億美元認購需求。"
+    },
+    {
+      "id": "te:markets:564971",
+      "time": "2026-07-08 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Plunges by 9.30% — Top commodity losers are Coffee (-9.30%) and Sugar (-0.79%). Gains are led by Cotton (3.76%) and Rice (2.32%)."
+    },
+    {
+      "id": "4974838",
+      "time": "2026-07-08 02:20:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌7.12%，中進醫療跌7.07%，中比能源跌6.90%，嘉楠科技跌6.55%，禾賽科技跌6.44%。"
+    },
+    {
+      "id": "te:markets:564970",
+      "time": "2026-07-08 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 1.71% — Top commodity losers are Silver (-1.71%) and Gold (-0.55%). Gains are led by Platinum (1.21%)."
+    },
+    {
+      "id": "te:markets:564969",
+      "time": "2026-07-08 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 7.26% — Top commodity gainers are Natural Gas EU (7.26%), Natural Gas UK (6.53%), Germany Natural Gas THE (5.17%), Brent Crude Oil (2.92%) and Crude Oil WTI (2.76%). Biggest loser is Gasoline (-1.80%)."
+    },
+    {
+      "id": "mkt:019f3dc8-912d-7aab-8cd4-be32a12d5c30",
+      "time": "2026-07-08 02:13:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Congo: confirmed Ebola cases have risen to 1,624, including 521 deaths."
+    },
+    {
+      "id": "mkt:019f3dc6-7e67-7aab-8cd4-b1ca010e01f5",
+      "time": "2026-07-08 02:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French far-right leader Marine Le Pen says she will run for president in the 2027 election."
+    },
+    {
+      "id": "4974837",
+      "time": "2026-07-08 02:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "勒龐：我將在不佩戴電子腳鐐的情況下參加2027年總統選舉。"
+    },
+    {
+      "id": "4974836",
+      "time": "2026-07-08 02:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "勒龐：法院賦予法國民眾投票自由，我對此感到欣慰。 將就法院的判決提起上訴。"
+    },
+    {
+      "id": "mkt:019f3dc0-de43-7aab-8cd4-aa7c39a1eb10",
+      "time": "2026-07-08 02:04:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms will roll out Muse video aimed at creators and Meta AI, and introduced its first image-generation model developed by the Meta Superintelligence Lab, \"Muse Image\"."
+    },
+    {
+      "id": "mkt:019f3dc0-add0-7aab-8cd4-a18af4cc8632",
+      "time": "2026-07-08 02:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says credit fundamentals of Peru's major banks are stable."
+    },
+    {
+      "id": "4974834",
+      "time": "2026-07-08 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta：Muse Image已於今日上線美國地區的Meta AI應用、Meta AI網站及Instagram Stories，並已在部分國家和地區的WhatsApp推出，Facebook也將很快支援該功能。"
+    },
+    {
+      "id": "mkt:019f3dbc-19cf-7aab-8cd4-9ac54338eaa0",
+      "time": "2026-07-08 01:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera quoted Lebanese foreign ministry sources saying Israel has threatened to file suit in US courts accusing Lebanon of harboring terrorist groups."
+    },
+    {
+      "id": "4974833",
+      "time": "2026-07-08 01:58:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級表示秘魯主要銀行展現出穩健的信用狀況。"
+    },
+    {
+      "id": "mkt:019f3db9-f31c-7aab-8cd4-952d693d9cdd",
+      "time": "2026-07-08 01:57:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cites Lebanese diplomatic sources saying a proposed framework agreement would mark the end of a phase; Lebanon is seeking a security pact to secure the return of displaced people and restore regional stability."
+    },
+    {
+      "id": "4974832",
+      "time": "2026-07-08 01:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：黎巴嫩外交訊息人士表示，我們拒絕在羅馬舉行第六輪談判。以色列欲借羅馬談判擺脫美國壓力。以色列正尋求與黎巴嫩建立一種雙邊機制，並將美國參與降至最低。以軍持續打擊納巴提耶，且未落實“試點區域”安排，目的是繼續迫使黎巴嫩南部人口外流。以色列試圖在以色列大選前規避落實“試點區域”安排。"
+    },
+    {
+      "id": "mkt:019f3db8-4a22-7aab-8cd4-8e666eba98d6",
+      "time": "2026-07-08 01:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Lebanese diplomatic sources, says Israel is seeking to avoid implementing the \"pilot zone\" arrangements ahead of the Israeli election."
+    },
+    {
+      "id": "mkt:019f3db8-4526-7aab-8cd4-80c7bc94ec73",
+      "time": "2026-07-08 01:55:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cites Lebanese diplomatic sources saying Israeli forces continue strikes on Nabatieh and have not implemented the 'pilot zone' arrangement; the sources say the aim is to force further displacement of residents in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f3db7-f248-7aab-8cd4-78f26a923f2a",
+      "time": "2026-07-08 01:54:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking a bilateral mechanism with Lebanon while minimizing US involvement."
+    },
+    {
+      "id": "mkt:019f3db7-ecf4-7aab-8cd4-773eaa698f11",
+      "time": "2026-07-08 01:54:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking to use talks in Rome to relieve pressure from the United States."
+    },
+    {
+      "id": "mkt:019f3db5-b953-7aab-8cd4-6878f28b4eda",
+      "time": "2026-07-08 01:52:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera cited Lebanese diplomatic sources saying they refuse to hold a sixth round of talks in Rome."
+    },
+    {
+      "id": "mkt:019f3db5-0ede-7aab-8cd4-63829b76407d",
+      "time": "2026-07-08 01:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Qatar lodges protest over attack on LNG vessel in Strait of Hormuz】Qatar's foreign ministry summoned Iran's deputy ambassador and delivered a formal protest after a Qatari liquefied natural gas carrier was attacked in the Strait of Hormuz. Doha demanded Iran immediately cease actions that endanger regional security and threaten international shipping and global energy supplies, and said it reserves the right to take measures under international law to protect its interests. The démarche comes as security tensions in the Strait of Hormuz continue to escalate."
+    },
+    {
+      "id": "mkt:019f3db4-2b00-7aab-8cd4-5e467a00cc00",
+      "time": "2026-07-08 01:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian President Pezeshkian travels to Iraq to attend Khamenei funeral】State media reported on the 7th that President Pezeshkian left Tehran for Najaf, Iraq, to attend the funeral for Iran's late Supreme Leader Khamenei on the 8th and will hold talks with Iraqi Prime Minister Zaidi."
+    },
+    {
+      "id": "mkt:019f3db3-24c0-7aab-8cd4-5149e576ee38",
+      "time": "2026-07-08 01:49:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme Leader's international affairs adviser said Tehran's support for \"resistance forces\" will not change."
+    },
+    {
+      "id": "4974830",
+      "time": "2026-07-08 01:48:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統赴伊拉克出席哈梅內伊送葬儀式 】據伊朗邁赫爾通訊社7日報道，伊朗總統佩澤希齊揚當天離開首都德黑蘭前往伊拉克納傑夫，他將出席8日在該國舉行的伊朗已故最高領袖哈梅內伊送葬儀式。報道說，佩澤希齊揚還將與伊拉克總理扎伊迪舉行會談。（新華社）"
+    },
+    {
+      "id": "mkt:019f3db1-cd75-7aab-8cd4-4a4a132f7608",
+      "time": "2026-07-08 01:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU said Erdogan is not a \"frenemy\" but entirely an enemy."
+    },
+    {
+      "id": "mkt:019f3db1-5f7c-7aab-8cd4-47a4af63957e",
+      "time": "2026-07-08 01:47:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it reserves the right under international law to take measures it deems appropriate to protect its interests."
+    },
+    {
+      "id": "mkt:019f3daf-4271-7aab-8cd4-3adb695e2018",
+      "time": "2026-07-08 01:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Incoming Panama Canal Authority administrator says there are currently no plans to reduce vessel transits."
+    },
+    {
+      "id": "4974829",
+      "time": "2026-07-08 01:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河新任管理局長：受降雨量影響，2027 年夏季新巴拿馬船閘允許船舶通行的最大吃水深度或將下調至 44。運河目前暫不考慮削減船舶通行班次。"
+    },
+    {
+      "id": "mkt:019f3dac-d37a-7aab-8cd4-31a94b0b5945",
+      "time": "2026-07-08 01:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Incoming Panama Canal Authority administrator said if rainfall is insufficient the maximum draft for the Neo‑Panamax locks could be reduced to 44 feet in summer 2027."
+    },
+    {
+      "id": "mkt:019f3daa-2715-7aab-8cd4-2b60d148688a",
+      "time": "2026-07-08 01:39:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry demanded that Iran immediately stop any actions threatening regional security and cease jeopardizing the safety of global shipping and energy supplies."
+    },
+    {
+      "id": "4974828",
+      "time": "2026-07-08 01:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部表示，抗議照會要求伊朗立即停止一切威脅地區安全、危害全球航運與能源供應安全的行為。"
+    },
+    {
+      "id": "mkt:019f3da9-d194-7aab-8cd4-2541180e99b6",
+      "time": "2026-07-08 01:39:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it firmly rejects Iran's attack, saying the action undermines the safety of international navigation."
+    },
+    {
+      "id": "4974827",
+      "time": "2026-07-08 01:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據紐約時報： 美國眾議院民主黨領袖傑弗里斯稱普拉特納應當退出參議院競選。"
+    },
+    {
+      "id": "4974826",
+      "time": "2026-07-08 01:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發表宣告：召見伊朗副大使，就霍爾木茲海峽內卡達液化天然氣運輸船遭襲擊一事提出抗議。"
+    },
+    {
+      "id": "mkt:019f3da8-02ec-7aab-8cd4-1b0a649539b2",
+      "time": "2026-07-08 01:37:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry summoned Iran's deputy ambassador to protest actions targeting Qatari liquefied natural gas tankers in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f3da7-2871-7aab-8cd4-1159ceae6dc7",
+      "time": "2026-07-08 01:36:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UKMTO raises Strait of Hormuz threat level to 'severe'】The UK Maritime Trade Operations (UKMTO) said three attacks on tankers near the Strait of Hormuz on Tuesday prompted it to raise the maritime threat level to 'severe', the second-highest. An unnamed LNG carrier suffered a fire after an unidentified object struck the port side of its engine room while transiting the strait. A very large crude carrier (VLCC) was hit by an unidentified object as it departed the strait; the vessel continued to its destination and no casualties were reported. A third tanker was attacked near Oman's Musandam peninsula, sustaining minor structural damage. UKMTO said the likelihood of deliberate hostile action has increased, navigational disruption persists and vessels should remain highly vigilant. It added that Iran's Islamic Revolutionary Guard Corps' hailing and route-interference activity continues, notably targeting ships with their automatic identification system (AIS) active."
+    },
     {
       "id": "mkt:019f3da4-0662-7aab-8cd4-0e6ed9f6a09f",
       "time": "2026-07-08 01:33:07",
