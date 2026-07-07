@@ -1,7 +1,82 @@
 {
   "date": "2026-07-07",
-  "count": 2194,
+  "count": 2203,
   "items": [
+    {
+      "id": "4974442",
+      "time": "2026-07-07 20:27:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST湘郵：公開掛牌轉讓福信富通100萬股股份已完成，成交價2323.08萬元】*ST湘郵公告，公司透過北京產權交易所公開掛牌轉讓所持福信富通100萬股股份已完成。本次公開掛牌共徵集到一個意向受讓方，即福建匯得鑫投資合夥企業（有限合夥），轉讓價格為人民幣2323.08萬元。交易對方匯得鑫與公司不存在關聯關係，本次交易不構成關聯交易，不構成重大資產重組事項。交易有利於公司最佳化資產結構，實現國有資產保值、增值，提升資金回籠效率。"
+    },
+    {
+      "id": "4974441",
+      "time": "2026-07-07 20:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月7日全球資金淨買入印度股票39.3億印度盧比。"
+    },
+    {
+      "id": "4974440",
+      "time": "2026-07-07 20:25:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "勒龐的律師表示：勒龐將在法院判決後作出反思。"
+    },
+    {
+      "id": "mkt:019f3c8a-4803-7aab-8cce-14da08a08861",
+      "time": "2026-07-07 20:25:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Ukraine says strikes on Russian vessels deepen Crimea fuel shortage】Ukraine said its forces struck eight small Russian fuel-oil tankers overnight in the Sea of Azov as Kyiv moves to cut gasoline supplies to occupied Crimea. Commander Robert Brovdi said “the struggle over fuel shipped via the Sea of Azov to Crimea continues.” As the conflict enters its fifth year, Kyiv has stepped up strikes on Russian refineries to disrupt fuel flows nationwide, and billions of euros in EU funding are beginning to flow, boosting Ukrainian morale. Brovdi said the targeted tankers are under international sanctions, are part of Russia’s shadow fleet, are about 7,000 dwt each and were built between 2006 and 2012."
+    },
+    {
+      "id": "mkt:019f3c8a-3382-7aab-8cce-0e07d4d7ac37",
+      "time": "2026-07-07 20:25:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO's top military commander said the alliance must forge very close ties between the military and the industrial base to keep pace with technological developments."
+    },
+    {
+      "id": "4974439",
+      "time": "2026-07-07 20:25:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約最高軍事指揮官：我們需要在軍方與產業基礎之間構建極為緊密的聯絡，以跟上技術發展的步伐。"
+    },
+    {
+      "id": "te:economy:564852",
+      "time": "2026-07-07 20:24:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change Weekly",
+        "Importance 0"
+      ],
+      "text": "US Weekly Job Growth Slows for Second Week — US private employers added an average of 21,000 jobs per week in the four weeks ending June 20, 2026, according to the ADP Research Institute, a slight decline from the previous period’s 24,250 weekly gain. This marks the second consecutive week of slowing job growth, aligning with ADP’s June report showing private businesses added 98,000 jobs, the lowest in three months and below forecasts of 113,000."
+    },
+    {
+      "id": "mkt:019f3c89-9573-7aab-8cce-058747f2765a",
+      "time": "2026-07-07 20:24:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SNPS.O",
+        "Impact mixed"
+      ],
+      "text": "【Synopsys to discontinue fab process-control software, shift resources to AI design】Synopsys (SNPS.O) plans to stop offering a suite of manufacturing process-control software used by global chipmakers and reallocate resources to higher-margin AI design, six people familiar with the matter said. The company informed more than a dozen manufacturers — including Samsung Electronics, SK Hynix, Kioxia Holdings and Qorvo — in April and May that it will end the product lifecycle, meaning no further new releases while continuing maintenance obligations. Affected products include Equipment Engineering Systems (EES) and defect detection and classification (FDC) systems, automated factory-level tools that monitor production and flag anomalies to prevent costly defects."
+    },
     {
       "id": "4974437",
       "time": "2026-07-07 20:24:20",
@@ -94,6 +169,14 @@
         "國際"
       ],
       "text": "特朗普：豐田將把產能從墨西哥轉移至美國得克薩斯州！這真是一樁大交易。"
+    },
+    {
+      "id": "4974432",
+      "time": "2026-07-07 20:22:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浪潮資訊：預計2026年上半年淨利潤26億元-31億元，同比增長226%-288%】浪潮資訊公告，預計2026年上半年歸屬於上市公司股東的淨利潤為26億元-31億元，比上年同期的7.99億元增長226%-288%；扣除非經常性損益後的淨利潤為20.55億元-25.55億元，同比增長206%-280%；基本每股收益為1.77元-2.11元，上年同期為0.5425元。業績增長原因為公司緊抓行業上行機遇，持續致力於產品技術創新和提升客戶滿意度，不斷完善產品線佈局，提升產品附加值，增強供應保障能力。"
     },
     {
       "id": "4974431",
