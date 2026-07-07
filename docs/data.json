@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-07 22:27:50",
-  "count": 16061,
+  "updated": "2026-07-07 22:31:51",
+  "count": 16052,
   "items": [
+    {
+      "id": "te:markets:564905",
+      "time": "2026-07-07 22:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 4-week High — Cotton increased to 80.49 USd/Lbs, the highest since June 2026. Over the past 4 weeks, Cotton gained 3.57%, and in the last 12 months, it increased 21.99%."
+    },
+    {
+      "id": "4974705",
+      "time": "2026-07-07 22:30:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日媒：中國金融科技專利數量和質量均居全球首位】據《日本經濟新聞》網站7日報道，該報和日本專利檢索分析有限公司聯合開展的調查顯示，2016年至2025年，中國企業在金融科技領域的相關專利申請數量和質量均位居全球首位。 調查基於全球118個國家和地區的金融科技相關專利申請資料進行分析。結果顯示，過去10年，金融科技相關專利申請總量約12萬件，是此前10年（2006年至2015年）的近3倍。其中，按申請企業所屬國家和地區統計，中國企業的專利申請數量佔申請總量的比例超過38%，位居全球第一，申請量增至此前10年的10倍。美國、韓國、日本分別佔17%、9%和8%。 從企業層面看，中國企業在金融科技專利佈局中佔據明顯優勢。中國工商銀行位居全球金融科技專利申請量首位。全球排名前10的企業中，中國企業佔據8席，包括中國建設銀行、中國銀行、騰訊科技等。 調查還顯示，中國金融科技專利不僅數量領先，質量也位居前列。根據專利價值和競爭力評分，中國排名全球第一，美國和日本分列第二、第三。(新華社)"
+    },
+    {
+      "id": "4974704",
+      "time": "2026-07-07 22:29:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國防部新聞發言人就中國海軍組織潛射戰略導彈試射答記者問】國防部新聞發言人陳曦7日就中國海軍組織潛射戰略導彈試射答記者問。有記者問，據報道，美國務院發言人近日稱中國透過潛艇發射了一枚無彈頭的洲際彈道導彈，中方迅速且不透明的核武器建設引起地區和世界極大關注。北約秘書長稱對中國不能掉以輕心。日本、澳大利亞、紐西蘭等國也表達了關切。請問對此有何評論？陳曦說，中國人民解放軍海軍戰略核潛艇組織潛射戰略導彈試射，實現了預期目標。這是年度軍事訓練例行安排，符合國際法和國際慣例。中方事先向有關國家作了通報，體現了中國軍隊的開放與透明。陳曦表示，中國堅持走和平發展道路，奉行防禦性國防政策，恪守自衛防禦核戰略，始終把自身核力量維持在國家安全需要的最低水平，不與任何國家進行核軍備競賽。我們推動核力量現代化旨在保障國家戰略安全，維護全球戰略穩定。（新華社）"
+    },
+    {
+      "id": "te:markets:564904",
+      "time": "2026-07-07 22:28:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as Mining Stocks Weigh — The S&P/TSX Composite Index edged down to trade below 35,500 on Tuesday, weighed by losses in mining stocks. Gold prices declined as investors assessed renewed Middle East tensions and awaited the minutes from the Fed's June meeting for clues on monetary policy. Agnico Eagle, Franco-Nevada, and WPM fell about 1%, while Barrick lost 2%. Oil prices, which had retreated to near pre-conflict levels following the Iran-Israel ceasefire, edged higher after reports of new attacks on vessels in the Strait of Hormuz. The rebound supported energy stocks, with Canadian Natural up more than 1% and Suncor and Imperial Oil gaining about 2%, but also lifted Canadian bond yields on renewed inflation concerns, limiting gains for financials. RBC, TD Bank, and BMO edged higher, while Scotiabank lost more than 1.5%. Shopify rose 2.5%, tracking gains in US tech services stocks."
+    },
+    {
+      "id": "mkt:019f3cfa-77f9-7aab-8cd1-6042bd81508f",
+      "time": "2026-07-07 22:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Russia-Ukraine situation unchanged but both sides want agreement】At the NATO summit in Ankara, President Trump said after meeting Turkish President Erdogan that he had a \"very good\" conversation with Putin and had spoken with Ukrainian President Zelenskiy. He said he believes both sides want to reach an agreement and expressed hope a resolution could come soon, but added the situation has \"not changed.\""
+    },
+    {
+      "id": "4974703",
+      "time": "2026-07-07 22:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX跌幅擴大至6%，總市值報1.97萬億美元。"
+    },
     {
       "id": "4974702",
       "time": "2026-07-07 22:26:56",
@@ -147206,136 +147263,6 @@
         "其他"
       ],
       "text": "【智元旗下具身智慧評測平臺開啟內測】6月30日，北京商報記者獲悉，智元（AGIBOT）AGIBOT WORLD CHALLENGE: Open Session模擬評測平臺近日內測開啟。"
-    },
-    {
-      "id": "4963285",
-      "time": "2026-06-30 22:31:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "4963284",
-      "time": "2026-06-30 22:31:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲德克薩斯州服務業整體商業活動前景指數6月為2.9，5月為-7.7。"
-    },
-    {
-      "id": "4963283",
-      "time": "2026-06-30 22:31:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲6月得州服務業收入指數為9.8，5月為5.0。"
-    },
-    {
-      "id": "4963282",
-      "time": "2026-06-30 22:31:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【九部門發文啟用房車市場】九部門出臺汽車後市場消費通知，房車露營、改裝、租賃迎來“一攬子”啟用舉措。據統計，2026年國內房車綜合保有量26.8萬臺，市場滲透率不足0.1%，增長空間巨大。江蘇儀徵是國內房車之鄉，每10臺房車就有1臺產自這裡，2025年產業鏈營收近6億元。一臺售價40多萬元的房車，是每年房車市場的主流車型。據瞭解，過去同等配置的車價格一般在60萬元左右。零部件國產化大幅降低購車門檻；輕量化、智慧化、綠色化正在成為房車製造的新趨勢：國產碳纖維車窗，將重量從15公斤降至5公斤；遠端智慧操控系統，輕點手指可千里之外遙控空調、鎖車；車內打造寵物收納區、隱形床，適配旅居、辦公、攜寵多元場景。隨著配套政策落地、上下游協同完善，“車輪上的家”將持續釋放消費潛力，成為汽車後市場核心增長板塊。（央視財經）"
-    },
-    {
-      "id": "4963281",
-      "time": "2026-06-30 22:30:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市延續漲勢，納斯達克綜合指數上漲1.00%。"
-    },
-    {
-      "id": "4963280",
-      "time": "2026-06-30 22:30:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國聯合工會：因阿里瓦巴士司機就高溫惡劣工作條件投票罷工，倫敦北部運營中斷。"
-    },
-    {
-      "id": "4963279",
-      "time": "2026-06-30 22:30:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.01%，現報26080.172點；道指漲0.18%，現報52274.680點；標普500指數漲0.43%，現報7472.340點。"
-    },
-    {
-      "id": "4963278",
-      "time": "2026-06-30 22:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴外長：美國封鎖及相關制裁在古巴“造成死亡”。"
-    },
-    {
-      "id": "te:economy:563052",
-      "time": "2026-06-30 22:29:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Trade Deficit More Than Doubles in May — Sri Lanka’s trade deficit widened to $968 million in May 2026 from $473 million a year earlier, marking a 104.8% increase as import growth outpaced export gains. Imports surged 45.4% to $2.19 billion, with fuel import spending jumping 112% due to higher oil prices and larger volumes. Exports rose 13.4% to $1.70 billion, supported by an 18.3% increase in goods shipments to $1.2 billion, while services exports edged up 2.5% to $475 million. In the first five months of the year, Sri Lanka’s cumulative trade deficit reached $4.66 billion."
-    },
-    {
-      "id": "4963277",
-      "time": "2026-06-30 22:29:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜雲科技宣佈提供最高10億美元雲服務抵扣額度，助力美國情報體系現代化升級。"
-    },
-    {
-      "id": "4963276",
-      "time": "2026-06-30 22:29:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：明天將與美國和加拿大就美墨加協定舉行線上會議。"
-    },
-    {
-      "id": "4963275",
-      "time": "2026-06-30 22:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟計劃將醫藥用途棕櫚油衍生物與播種用大豆排除在其打擊全球森林砍伐的標誌性法規之外。"
-    },
-    {
-      "id": "4963274",
-      "time": "2026-06-30 22:28:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "VERIZON股價下跌4%，延續了週一5%的跌幅。"
-    },
-    {
-      "id": "4963273",
-      "time": "2026-06-30 22:28:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽出現三條不同航線】美國有線電視新聞網6月29日報道稱，目前霍爾木茲海峽上已出現三條不同航線。第一條航線位於霍爾木茲海峽北部，由伊朗控制。第二條航線穿過海峽中部，它是霍爾木茲海峽受阻前的常規國際航道；第三條航線則位於海峽南部，途經阿曼附近海域，該航線由阿曼、美國和國際海事組織協調執行。文章分析稱，由於多條航線管理方不同，霍爾木茲海峽航運秩序變得更加複雜。（CCTV國際時訊）"
-    },
-    {
-      "id": "4963272",
-      "time": "2026-06-30 22:28:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國政府擬招募工程師填補國防部技術崗位 推動引入矽谷思維】特朗普政府宣佈，計劃招募工程師擔任國防部“高影響力技術崗位”，這是政府試圖引入更多矽谷思維的最新舉措。美國人事管理局（OPM）局長Scott Kupor在宣告中表示：“美國的國家安全取決於吸引最優秀的技術人才，投身政府最重要的一些任務。”宣告未提及這些崗位的薪酬，也未說明具體招聘流程。不過，五角大樓正尋求進一步深化與矽谷的聯絡，那裡的初創企業和大型科技公司都已摒棄過去對國防業務的牴觸態度，成為武器合同的主要承接方。根據宣告，這項計劃旨在招募具有前沿人工智慧、機器學習、自動化及資料系統經驗的工程師，“為美國作戰人員”開發可靠的軟體。美國人事管理局還表示，該計劃將把工程師“派駐到該部門各層級”，以“取得切實成果，確保美國軍隊擁有更強的作戰能力。”"
     }
   ]
 }
