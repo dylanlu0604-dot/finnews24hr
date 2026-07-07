@@ -1,7 +1,69 @@
 {
   "date": "2026-07-07",
-  "count": 2619,
+  "count": 2626,
   "items": [
+    {
+      "id": "4974724",
+      "time": "2026-07-07 22:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "EACON募集資金總額達23億港元。"
+    },
+    {
+      "id": "4974723",
+      "time": "2026-07-07 22:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：EACON HK IPO最終發行價為87.92港元。"
+    },
+    {
+      "id": "te:markets:564913",
+      "time": "2026-07-07 22:49:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "T-Mobile Us Stock Price Hits 5-week High — T-Mobile Us shares increased to 189.97 USD, the highest since May 2026. Over the past 4 weeks, T-Mobile Us gained 6.3%, and in the last 12 months, it decreased 20.18%."
+    },
+    {
+      "id": "4974722",
+      "time": "2026-07-07 22:49:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡拉斯：需要採取更多措施來填補美軍調動造成的空缺。"
+    },
+    {
+      "id": "4974721",
+      "time": "2026-07-07 22:49:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京超極合生匯上半年銷售額22億元 客流量突破2500萬人次】北京超極合生匯披露2026年上半年經營資料。截至6月30日，專案實現總營收2億元，同比增長6.5%；銷售額22億元，同比提升25%；客流量突破2500萬人次，同比增長36.5%。"
+    },
+    {
+      "id": "4974720",
+      "time": "2026-07-07 22:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交事務負責人卡拉斯：美軍在歐洲調兵不會影響區域防務。"
+    },
+    {
+      "id": "mkt:019f3d0d-481e-7aab-8cd1-882cca393e36",
+      "time": "2026-07-07 22:48:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said U.S. troop movements in Europe will not affect defense operations."
+    },
     {
       "id": "mkt:019f3d0b-8740-7aab-8cd1-81a36297b364",
       "time": "2026-07-07 22:46:33",
