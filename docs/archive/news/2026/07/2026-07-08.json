@@ -1,7 +1,34 @@
 {
   "date": "2026-07-08",
-  "count": 473,
+  "count": 476,
   "items": [
+    {
+      "id": "4975065",
+      "time": "2026-07-08 06:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月08日06時17分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.0級地震，震源深度8千米。"
+    },
+    {
+      "id": "te:markets:564984",
+      "time": "2026-07-08 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 3.89% — Top commodity losers are Silver (-3.89%), Gold (-1.58%) and Copper (-0.98%)."
+    },
+    {
+      "id": "4975064",
+      "time": "2026-07-08 06:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "極兔速遞：2026年第二季度快遞業務量達到91.8億件，同比增長24.2%；日均業務量為1.01億件。"
+    },
     {
       "id": "4975063",
       "time": "2026-07-08 06:33:40",

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-08 06:34:25",
-  "count": 15900,
+  "updated": "2026-07-08 06:38:23",
+  "count": 15899,
   "items": [
+    {
+      "id": "4975065",
+      "time": "2026-07-08 06:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月08日06時17分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.0級地震，震源深度8千米。"
+    },
+    {
+      "id": "te:markets:564984",
+      "time": "2026-07-08 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 3.89% — Top commodity losers are Silver (-3.89%), Gold (-1.58%) and Copper (-0.98%)."
+    },
+    {
+      "id": "4975064",
+      "time": "2026-07-08 06:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "極兔速遞：2026年第二季度快遞業務量達到91.8億件，同比增長24.2%；日均業務量為1.01億件。"
+    },
     {
       "id": "4975063",
       "time": "2026-07-08 06:33:40",
@@ -145789,42 +145816,6 @@
         "Impact bullish"
       ],
       "text": "Boeing (BA.N): Cause of the malfunction has been identified; no reason to believe it was caused by a cyberattack."
-    },
-    {
-      "id": "mkt:019f1aae-7e0e-7aab-8c44-9ec5f1950e77",
-      "time": "2026-07-01 06:37:50",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "Boeing (BA.N) said it experienced an unplanned IT outage affecting some computer systems and applications."
-    },
-    {
-      "id": "4963737",
-      "time": "2026-07-01 06:37:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音公司：現已查明此次系統中斷故障的成因，目前沒有證據表明該故障源於網路攻擊。"
-    },
-    {
-      "id": "4963736",
-      "time": "2026-07-01 06:36:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音公司：我們遭遇非計劃內資訊科技系統中斷故障，部分計算機系統及應用程式受到影響。"
-    },
-    {
-      "id": "te:markets:563113",
-      "time": "2026-07-01 06:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 3.13% — Top commodity gainers are Lithium Carbonate (3.13%), Copper (1.59%) and Silver (0.93%). Biggest losers are Titanium (-2.06%) and Platinum (-1.90%). Meanwhile Gold was little changed."
     }
   ]
 }
