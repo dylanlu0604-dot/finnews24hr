@@ -1,7 +1,23 @@
 {
   "date": "2026-07-08",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "4974805",
+      "time": "2026-07-08 00:36:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌公司：Gemini API中受管理的Agents具備新的能力。"
+    },
+    {
+      "id": "mkt:019f3d6e-6315-7aab-8cd3-0d2e8c6622f5",
+      "time": "2026-07-08 00:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump again says Greenland should be controlled by the US】On the 7th in Ankara, ahead of a bilateral meeting with Turkish President Erdogan, US President Trump reiterated that Greenland should be controlled by the United States rather than Denmark, saying Greenland is of little use to Denmark and Denmark has not spent money on it. He said Greenland is important to the US and tied the point to force posture in Europe, threatening to withdraw all US troops because Europe is \"very different\" from 20 years ago."
+    },
     {
       "id": "4974804",
       "time": "2026-07-08 00:32:20",

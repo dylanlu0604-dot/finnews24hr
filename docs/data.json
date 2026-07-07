@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-08 00:34:11",
-  "count": 15901,
+  "updated": "2026-07-08 00:38:01",
+  "count": 15900,
   "items": [
+    {
+      "id": "4974805",
+      "time": "2026-07-08 00:36:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌公司：Gemini API中受管理的Agents具備新的能力。"
+    },
+    {
+      "id": "mkt:019f3d6e-6315-7aab-8cd3-0d2e8c6622f5",
+      "time": "2026-07-08 00:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump again says Greenland should be controlled by the US】On the 7th in Ankara, ahead of a bilateral meeting with Turkish President Erdogan, US President Trump reiterated that Greenland should be controlled by the United States rather than Denmark, saying Greenland is of little use to Denmark and Denmark has not spent money on it. He said Greenland is important to the US and tied the point to force posture in Europe, threatening to withdraw all US troops because Europe is \"very different\" from 20 years ago."
+    },
     {
       "id": "4974804",
       "time": "2026-07-08 00:32:20",
@@ -145876,36 +145892,6 @@
         "國際"
       ],
       "text": "【美光科技將出資2.5億美元支援特朗普兒童儲蓄賬戶計劃】美光科技將投入2.5億美元，助力特朗普政府推出面向兒童的投資儲蓄賬戶專案——該專案被稱作“特朗普賬戶”。這家晶片企業表示，將對員工的子女儲蓄金進行等額配套補貼，每名兒童最高補貼1000美元。同時，針對紐約、愛達荷、弗吉尼亞、加利福尼亞、科羅拉多、明尼蘇達、得克薩斯等美光業務落地地區的兒童，公司將為每人提供250美元啟動存款。該訊息釋出於“特朗普賬戶”計劃7月4日正式上線前夕。美光稱，本次企業承諾投入的資金，是同類企業捐贈中規模最大的一筆，預計可惠及至多100萬名兒童。"
-    },
-    {
-      "id": "4963510",
-      "time": "2026-07-01 00:37:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部稱，2026年美國農戶玉米種植面積將減少3%，大豆種植面積將增加5%。"
-    },
-    {
-      "id": "mkt:019f1963-c56b-7aab-8c3e-a56a8cccd331",
-      "time": "2026-07-01 00:36:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Japan & APAC",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "【Japan to fund SoftBank-led domestic AI base model developer with ¥387.3 billion】METI will provide ¥387.3 billion (approx 16.2 billion yuan) as 2026 fiscal-year development commission fees to a new SoftBank-led company, Noetra, to develop a domestic AI foundation model. The support targets physical-AI R&D that combines robotics and AI to strengthen Japan’s manufacturing competitiveness. Noetra, formed around SoftBank, NEC, Honda and Sony, will focus on high-level Japanese-language understanding and reasoning and on multimodal foundation models that recognise images, video, audio and physical space. The project has been selected for support by NEDO."
-    },
-    {
-      "id": "4963509",
-      "time": "2026-07-01 00:35:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "雀巢執行長表示，人工智慧提升效率既能節約成本，也能保住就業崗位。"
     }
   ]
 }
