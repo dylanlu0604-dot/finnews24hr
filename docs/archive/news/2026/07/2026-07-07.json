@@ -1,7 +1,61 @@
 {
   "date": "2026-07-07",
-  "count": 1721,
+  "count": 1727,
   "items": [
+    {
+      "id": "4974075",
+      "time": "2026-07-07 17:46:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【欣銳科技：股票連續3個交易日漲幅偏離值累計超30%】欣銳科技公告稱，公司股票於2026年7月3日、7月6日及7月7日連續3個交易日收盤價漲幅偏離值累計超30%，屬異常波動。經核實，公司前期披露資訊無需更正補充，近期經營及內外部環境未變，不存在應披露未披露重大事項，異動期間控股股東等未買賣公司股票，也無違反公平資訊披露規定情形。公司提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "4974074",
+      "time": "2026-07-07 17:44:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【邁威爾科技美股盤前跌超5%】邁威爾科技美股盤前跌超5%，現報236.8美元。"
+    },
+    {
+      "id": "4974073",
+      "time": "2026-07-07 17:44:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：子公司涉1.15億元訴訟，一審未開庭】國晟科技公告稱，公司二級控股子公司安徽國晟新能源近日收到法院傳票，被上海電氣集團恆羲光伏科技（南通）有限公司起訴。涉案金額1.15億元，包括貨款1.15億元、違約金23.84萬元及賠償律師費損失10萬元。2026年3月6日，雙方簽訂採購合同，恆羲光伏交付貨物後，安徽國晟新能源僅支付部分貨款。案件一審未開庭，最終結果不確定，暫無法判斷對公司利潤的影響。"
+    },
+    {
+      "id": "mkt:019f3bf6-5d1c-7aab-8cca-a06d62f53320",
+      "time": "2026-07-07 17:43:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nanhua Futures expects 1H2026 net profit attributable to parent of 375-405 mln yuan, up 62.16-75.13% YoY】Nanhua Futures said in a profit forecast it expects 1H2026 net profit attributable to parent of 375-405 mln yuan, a 62.16-75.13% YoY increase. The company said overall profitability improved during the period, overseas financial services made a significant contribution, and its proprietary clearing system layout advantage remained evident."
+    },
+    {
+      "id": "mkt:019f3bf6-4389-7aab-8cca-9a733edce005",
+      "time": "2026-07-07 17:43:42",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "France's finance ministry lowered its 2026 GDP growth forecast to 0.7% from 0.9%."
+    },
+    {
+      "id": "4974072",
+      "time": "2026-07-07 17:43:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部表示，將2026年經濟增長預測從原本的0.9%下調至0.7%。"
+    },
     {
       "id": "4974071",
       "time": "2026-07-07 17:42:32",
