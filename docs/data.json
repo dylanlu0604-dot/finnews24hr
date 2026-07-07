@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-08 07:38:45",
-  "count": 15920,
+  "updated": "2026-07-08 07:42:39",
+  "count": 15921,
   "items": [
+    {
+      "id": "4975135",
+      "time": "2026-07-08 07:41:23",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：繼續關注“去日化”交易，關注溼電子化學品和光刻膠單體】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端“去日化”，需求端AI通脹成為幾乎完美的組合。中信建投判斷，“去日化”主題會有更多演繹空間，繼續關注“去日化”交易，關注粉體材料和含氟高分子材料國內標的的成長速度和進口替代加速的機會。"
+    },
+    {
+      "id": "mkt:019f3ef4-c599-7aab-8cd8-c84a1106560a",
+      "time": "2026-07-08 07:40:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Asahi: Japanese government may revise monetary-policy wording in annual policy guidelines】Asahi Shimbun reports the Japanese government may revise monetary-policy wording in its draft annual economic and fiscal policy guidelines to avoid giving the impression it is pressuring the Bank of Japan. The earlier draft described the \"appropriate implementation\" of monetary policy as \"extremely important,\" a phrase some read as signaling opposition to further BOJ tightening. The updated draft adds inflation language, calling for appropriate monetary policy to promote stable price rises; a government official said the change reflects some market participants' misreading of the original wording."
+    },
+    {
+      "id": "mkt:019f3ef3-f7d2-7aab-8cd8-c077307192ac",
+      "time": "2026-07-08 07:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's May trade balance due in 10 minutes."
+    },
     {
       "id": "4975133",
       "time": "2026-07-08 07:37:47",
@@ -145971,23 +146003,6 @@
         "Importance 2"
       ],
       "text": "US Futures Flat After Tech-Driven Rally — US stock futures were little changed on Wednesday after the major indexes advanced in the previous session, supported by strength in technology stocks and easing inflation concerns. In regular trading on Tuesday, the tech-heavy Nasdaq Composite jumped 1.52%, while the S&P 500 and Dow rose 0.79% and 0.26%, respectively. Chipmakers and AI-related companies led the gains, with Nvidia (2.6%), AMD (7.7%), Intel (6%), Sandisk (10.9%) and Marvell Technology (7.3%) posting strong advances. The three major indexes also ended the quarter on a strong footing, with the S&P 500 rallying more than 14%, the Nasdaq soaring about 20% and the Dow adding over 12%. Investors now turn their attention to Fed Chair Kevin Warsh’s appearance at the ECB Forum in Sintra, Portugal, for further clues on the outlook for monetary policy."
-    },
-    {
-      "id": "4963792",
-      "time": "2026-07-01 07:42:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【各國央行三年來首度擬長期降低美元曝險 歐元及人民幣是理想替代品】根據一家總部位於英國的智庫，各國央行計劃長期減少對美元的曝險，這是三年來首次。官方貨幣和金融機構論壇(OMFIF)週二釋出的報告指出，公共養老基金和主權財富基金也認同這個去美元化的觀點。他們都認為，歐元和人民幣是美元的理想替代品，“已開發經濟體傾向於前者，新興市場則更關注後者”。OMFIF旗下一個團隊的Andrea Correa、Yara Aziz、Mariam Khan和Conor Perry等人寫道，尋求多元化如今已成為外匯儲備管理的核心特徵。根據OMFIF的報告，各國央行預計未來10年外匯儲備平均的組合將包括52%的美元資產、23%的歐元資產和5%的人民幣資產。該報告公佈了OMFIF在3月至5月期間調查90家機構的結果，這些機構管理超過10萬億美元的外匯儲備資產。"
-    },
-    {
-      "id": "4963791",
-      "time": "2026-07-01 07:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普聽取全面對伊開戰方案彙報，但選擇繼續推進談判】據熟悉相關磋商的美國官員透露，特朗普總統近期考量過重啟對伊朗全面戰爭的選項，連日來多次同國防部長皮特・赫格塞思、參謀長聯席會議主席丹・凱恩上將商討加大打擊力度的相關方案，但最終決定現階段仍以外交談判為主。相關官員表示，幾次談話的核心議題是美國是否應當放棄談判、恢復對伊朗的全面打擊，部分官員將該行動稱作 “一勞永逸解決問題”。特朗普尚未作出最終定論，但他向幕僚表示，新一輪大規模打擊會破壞外交程序，降低美方最終拆解伊朗核計劃的可能性。官員稱，特朗普還告知幕僚，即便伊朗核協議 8 月 18 日的談判最後期限被迫延後，他也能夠接受，這一態度為談判留出了更多斡旋空間。與此同時，總統表示，當前他認可一種應對方式：若伊朗違反諒解備忘錄，美方就實施單次定點打擊。上週末雙方因此爆發多輪交火，此前兩週好不容易達成的脆弱停火協議也遭到破壞。"
     }
   ]
 }

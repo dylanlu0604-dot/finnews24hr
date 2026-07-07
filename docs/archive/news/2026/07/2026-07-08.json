@@ -1,7 +1,39 @@
 {
   "date": "2026-07-08",
-  "count": 574,
+  "count": 577,
   "items": [
+    {
+      "id": "4975135",
+      "time": "2026-07-08 07:41:23",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：繼續關注“去日化”交易，關注溼電子化學品和光刻膠單體】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端“去日化”，需求端AI通脹成為幾乎完美的組合。中信建投判斷，“去日化”主題會有更多演繹空間，繼續關注“去日化”交易，關注粉體材料和含氟高分子材料國內標的的成長速度和進口替代加速的機會。"
+    },
+    {
+      "id": "mkt:019f3ef4-c599-7aab-8cd8-c84a1106560a",
+      "time": "2026-07-08 07:40:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Asahi: Japanese government may revise monetary-policy wording in annual policy guidelines】Asahi Shimbun reports the Japanese government may revise monetary-policy wording in its draft annual economic and fiscal policy guidelines to avoid giving the impression it is pressuring the Bank of Japan. The earlier draft described the \"appropriate implementation\" of monetary policy as \"extremely important,\" a phrase some read as signaling opposition to further BOJ tightening. The updated draft adds inflation language, calling for appropriate monetary policy to promote stable price rises; a government official said the change reflects some market participants' misreading of the original wording."
+    },
+    {
+      "id": "mkt:019f3ef3-f7d2-7aab-8cd8-c077307192ac",
+      "time": "2026-07-08 07:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's May trade balance due in 10 minutes."
+    },
     {
       "id": "4975133",
       "time": "2026-07-08 07:37:47",
