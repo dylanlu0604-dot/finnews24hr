@@ -1,7 +1,42 @@
 {
   "date": "2026-07-08",
-  "count": 149,
+  "count": 153,
   "items": [
+    {
+      "id": "4974846",
+      "time": "2026-07-08 02:42:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油局（ANP）：根據協議，巴西石油公司將向該局支付 3 億雷亞爾。"
+    },
+    {
+      "id": "mkt:019f3de3-81f8-7aab-8cd5-04f9f5841ae6",
+      "time": "2026-07-08 02:42:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "PETR4.SA"
+      ],
+      "text": "Brazil's National Petroleum Agency said Petrobras will pay 300 mln reais to the agency under an agreement."
+    },
+    {
+      "id": "4974845",
+      "time": "2026-07-08 02:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 加密貨幣交易所 Kraken 正申請歐洲全能銀行牌照。"
+    },
+    {
+      "id": "4974844",
+      "time": "2026-07-08 02:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油局（ANP）釋出宣告稱，巴西石油公司（巴西國家石油）承諾對 335 口海上油井完成合規整改。"
+    },
     {
       "id": "mkt:019f3de0-da17-7aab-8cd4-fd03f0dd618e",
       "time": "2026-07-08 02:39:33",

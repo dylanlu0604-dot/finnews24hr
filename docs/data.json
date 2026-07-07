@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-08 02:40:22",
-  "count": 15857,
+  "updated": "2026-07-08 02:44:08",
+  "count": 15856,
   "items": [
+    {
+      "id": "4974846",
+      "time": "2026-07-08 02:42:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油局（ANP）：根據協議，巴西石油公司將向該局支付 3 億雷亞爾。"
+    },
+    {
+      "id": "mkt:019f3de3-81f8-7aab-8cd5-04f9f5841ae6",
+      "time": "2026-07-08 02:42:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "PETR4.SA"
+      ],
+      "text": "Brazil's National Petroleum Agency said Petrobras will pay 300 mln reais to the agency under an agreement."
+    },
+    {
+      "id": "4974845",
+      "time": "2026-07-08 02:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 加密貨幣交易所 Kraken 正申請歐洲全能銀行牌照。"
+    },
+    {
+      "id": "4974844",
+      "time": "2026-07-08 02:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油局（ANP）釋出宣告稱，巴西石油公司（巴西國家石油）承諾對 335 口海上油井完成合規整改。"
+    },
     {
       "id": "mkt:019f3de0-da17-7aab-8cd4-fd03f0dd618e",
       "time": "2026-07-08 02:39:33",
@@ -145460,46 +145495,6 @@
         "公司"
       ],
       "text": "亞馬遜雲科技（AWS）：Anthropic的Claude Sonnet 5現已在Amazon Bedrock與AWS的Claude平臺上線可用。"
-    },
-    {
-      "id": "4963596",
-      "time": "2026-07-01 02:43:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "多明尼加共和國維持基準利率5.25%。"
-    },
-    {
-      "id": "4963595",
-      "time": "2026-07-01 02:42:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "千禧管理最新一輪募資目標至少100億美元。"
-    },
-    {
-      "id": "4963594",
-      "time": "2026-07-01 02:42:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官駁回愛彼迎要求撤銷洛杉磯訴訟的申請，該訴訟指控愛彼迎在2025年山火後哄抬物價。"
-    },
-    {
-      "id": "4963593",
-      "time": "2026-07-01 02:42:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：以色列軍方在黎巴嫩南部實施爆破行動。"
-    },
-    {
-      "id": "mkt:019f19d6-95a8-7aab-8c40-752767175a02",
-      "time": "2026-07-01 02:42:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM News cites sources saying Israeli forces carried out an explosive attack in southern Lebanon."
     }
   ]
 }
