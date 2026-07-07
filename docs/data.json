@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-08 01:19:58",
-  "count": 15884,
+  "updated": "2026-07-08 01:23:42",
+  "count": 15886,
   "items": [
+    {
+      "id": "mkt:019f3d9a-41c4-7aab-8cd3-cc7cea3abc64",
+      "time": "2026-07-08 01:22:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The UAE Foreign Ministry strongly condemned Iran's attack on a Qatari oil tanker."
+    },
+    {
+      "id": "4974823",
+      "time": "2026-07-08 01:21:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報70.61美元/桶。"
+    },
     {
       "id": "mkt:019f3d97-9243-7aab-8cd3-c1cca5118de8",
       "time": "2026-07-08 01:19:31",
@@ -26,6 +46,15 @@
         "MKT News"
       ],
       "text": "【Netanyahu says aligned with Trump on Iran】Israeli Prime Minister Netanyahu told CNN that while he and U.S. President Trump sometimes differ on Iran, they are aligned on major issues. He said it is too early to predict Iran’s next moves and did not indicate whether Israel will take further action."
+    },
+    {
+      "id": "em:qqyh_mlc:202607083797137112",
+      "time": "2026-07-08 01:17:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲週二隔夜逆回購協議（RRP）使用規模為44.84億美元】美聯儲週二隔夜逆回購協議（RRP）使用規模為44.84億美元，上個交易日報27.19億美元。"
     },
     {
       "id": "mkt:019f3d95-14b5-7aab-8cd3-b140dce5f8e5",
@@ -145755,19 +145784,6 @@
         "市場"
       ],
       "text": "據交易商透露，中糧集團是洲際交易所（ICE）7月原糖期貨合約的唯一交割方；而蘇克敦（Sucden）被認為是最大的接受交割方。"
-    },
-    {
-      "id": "mkt:019f198d-7868-7aab-8c3f-408a1ad8e1b5",
-      "time": "2026-07-01 01:22:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude trades at $69.55/bbl, down more than 1.00% intraday."
     }
   ]
 }
