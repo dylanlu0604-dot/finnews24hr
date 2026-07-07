@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-07 09:17:37",
-  "count": 14193,
+  "updated": "2026-07-07 09:21:30",
+  "count": 14199,
   "items": [
+    {
+      "id": "mkt:019f3a2a-08d8-7aab-8cbe-9ce8a5ab71f4",
+      "time": "2026-07-07 09:21:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC conducted a CNY 10 bln 7-day reverse repo today, bids CNY 10 bln, allotment CNY 10 bln, rate 1.40%, unchanged."
+    },
+    {
+      "id": "4973220",
+      "time": "2026-07-07 09:20:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 100 億元 7 天期逆回購操作 操作利率 1.4%。"
+    },
+    {
+      "id": "mkt:019f3a29-6a8c-7aab-8cbe-900a96d10b43",
+      "time": "2026-07-07 09:20:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact mixed",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【AI firms wage free-compute war; startups net large cloud/token credits】WSJ reports Silicon Valley startups are receiving a surge in free compute and token credits as AI model vendors compete for new enterprise clients. Cursor, the AI coding firm acquired by SpaceX, offered a 75% discount through July 5. OpenAI and Anthropic sales teams are presenting highly generous terms. Some founders say fundraising has been delayed and they can negotiate between AI vendors. Combined cloud and token credits from some providers can exceed $3m, roughly the median US seed round. Google Cloud is granting select startups up to $500k in cloud credits plus early access to Gemini; Microsoft and AWS are offering similar packages. Vendors are pushing such deals to lock in early customers and secure durable revenue while facing competition from increasingly capable free and lower-cost models."
+    },
+    {
+      "id": "mkt:019f3a27-f1a0-7aab-8cbe-8aac2ced2fb9",
+      "time": "2026-07-07 09:18:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "4973219",
+      "time": "2026-07-07 09:18:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大至1%，現報69006.61點。"
+    },
+    {
+      "id": "4973218",
+      "time": "2026-07-07 09:17:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺新材等成立智慧裝修公司，含AI及物聯網業務】企查查APP顯示，近日，安徽海螺智慧裝修有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務；專業設計服務等。企查查股權穿透顯示，該公司由海螺新材等共同持股。"
+    },
     {
       "id": "4973217",
       "time": "2026-07-07 09:16:00",
