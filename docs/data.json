@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-08 07:46:34",
-  "count": 15916,
+  "updated": "2026-07-08 07:50:27",
+  "count": 15906,
   "items": [
+    {
+      "id": "mkt:019f3efd-1444-7aab-8cd8-e18aab3a9f49",
+      "time": "2026-07-08 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account USA (May) | actual 3968300000000B | consensus 4121300000000B | previous 3907800000000B"
+    },
+    {
+      "id": "4975145",
+      "time": "2026-07-08 07:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部多地局勢已恢復正常】據伊朗方面當地時間8日訊息，目前，伊朗南部的阿巴斯港、錫裡克和格什姆島等地局勢已正常。（央視）"
+    },
+    {
+      "id": "mkt:019f3efb-1c87-7aab-8cd8-d89ad1208017",
+      "time": "2026-07-08 07:47:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dutch trade minister visits China with 17-company delegation; Nexperia dispute unresolved】From the 7th to 9th of this month the Dutch minister for foreign trade and development cooperation led a three-day visit to Beijing and Shanghai with a 17-company delegation across logistics, agriculture and high-tech. The Dutch foreign ministry said it was the first minister-led trade delegation to China since April 2018. China and the Netherlands have not reached consensus on how to resolve outstanding disputes related to Nexperia."
+    },
+    {
+      "id": "4975144",
+      "time": "2026-07-08 07:47:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金：看好快遞航運，關注航空成本改善】中金公司研報指出，1H26交運板塊下跌16.5%，跑輸大盤24.0ppt，細分板塊分化，其中油運跑贏大盤30.6ppt；而其他板塊均跑輸，航空因Q2油價上漲跑輸大盤39.2ppt；紅利類公路鐵路和港口分別跑輸24.5ppt/20.1ppt；快遞跑輸大盤12.5ppt。2H26中金看好快遞反內卷的行情、油運的運價彈性；關注航空油價下行的需求復甦，而非快遞物流則需精選個股，紅利板塊整體仍需視市場風格。"
+    },
+    {
+      "id": "4975143",
+      "time": "2026-07-08 07:46:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最高19億美元，中國生物製藥與阿斯利康達成TQC3721獨家授權合作】中國生物製藥公告，將自主研發的慢性阻塞性肺疾病（COPD）創新藥TQC3721（PDE3/4抑制劑）海外權益以總額最高19億美元授權給阿斯利康。這是中國生物製藥年內迎來的第二筆重磅BD交易。"
+    },
+    {
+      "id": "4975142",
+      "time": "2026-07-08 07:46:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.12點。"
+    },
+    {
+      "id": "4975141",
+      "time": "2026-07-08 07:46:10",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：商用車穩健低估，機器人密集催化下強勢迴歸】中信建投研報指出，本週乘用車及機器人板塊上漲幅度較好，除了資金面“高低切”等流動性因素變化外，6月乘用車主機廠產銷資料（尤其出口）修復悲觀預期；特斯拉人形機器人Optimus弗裡蒙特產線臨近量產、宇樹IPO註冊獲證監會同意，7-8月成為產業催化及趨勢驗證的做多視窗期；商用車出口銷量穩健，業績有望兌現。全年依然看好汽車高階化和出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。"
+    },
+    {
+      "id": "4975140",
+      "time": "2026-07-08 07:46:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1%。"
+    },
     {
       "id": "4975139",
       "time": "2026-07-08 07:45:56",
@@ -145764,205 +145839,6 @@
         "日本"
       ],
       "text": "日本第二季度短觀大型製造業前景指數為17，預期13，前值14。"
-    },
-    {
-      "id": "mkt:019f1af0-c938-7aab-8c45-7d9c8bca9630",
-      "time": "2026-07-01 07:50:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan Q2 Tankan — large enterprises, all-industry capital expenditure index 11.5; consensus 10.50; prior 3.30."
-    },
-    {
-      "id": "4963806",
-      "time": "2026-07-01 07:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青海海西州直轄區附近發生5.2級左右地震】中國地震臺網自動測定：07月01日07時44分在青海海西州直轄區附近（北緯37.85度，東經95.37度）發生5.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:019f1af0-c28f-7aab-8c45-7356b1986830",
-      "time": "2026-07-01 07:50:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Japan Q2 Tankan small non-manufacturing business conditions diffusion index 15, vs expected 14 and prior 16."
-    },
-    {
-      "id": "mkt:019f1af0-c167-7aab-8c45-6d7bbc829f48",
-      "time": "2026-07-01 07:50:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan Q2 Tankan small manufacturers business conditions DI 9, est. 4, prior 7."
-    },
-    {
-      "id": "mkt:019f1af0-c101-7aab-8c45-66033404e48e",
-      "time": "2026-07-01 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Japan Q2 Tankan large manufacturers outlook index rose to 17, vs expected 13 and prior 14."
-    },
-    {
-      "id": "mkt:019f1af0-b28c-7aab-8c45-5c80f450850b",
-      "time": "2026-07-01 07:50:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan Q2 Tankan large manufacturers business conditions index 22; consensus 16; prior 17."
-    },
-    {
-      "id": "mkt:019f1af0-b228-7aab-8c45-54583d8da209",
-      "time": "2026-07-01 07:50:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan Q2 Tankan large non-manufacturing business conditions DI 37, vs 35 expected and 36 prior."
-    },
-    {
-      "id": "mkt:019f1af0-9629-7aab-8c45-4aa7769b76ae",
-      "time": "2026-07-01 07:50:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Large Manufacturing Capital Spending (YoY) (Q2) | actual 11.5 | consensus 10.50 | previous 3.30"
-    },
-    {
-      "id": "mkt:019f1af0-9446-7aab-8c45-45deeaf05891",
-      "time": "2026-07-01 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Small Non-manufacturing Sentiment Index (Q2) | actual 15 | consensus 14 | previous 16"
-    },
-    {
-      "id": "mkt:019f1af0-941c-7aab-8c45-39cbbf72c577",
-      "time": "2026-07-01 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Small Manufacturing Sentiment Index (Q2) | actual 9 | consensus 4 | previous 7"
-    },
-    {
-      "id": "mkt:019f1af0-93ef-7aab-8c45-302c6494d680",
-      "time": "2026-07-01 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Large Non-manufacturing Sentiment Index (Q2) | actual 37 | consensus 35 | previous 36"
-    },
-    {
-      "id": "mkt:019f1af0-93cc-7aab-8c45-2ae37cb55d9a",
-      "time": "2026-07-01 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Large Manufacturing Outlook Index (Q2) | actual 17 | consensus 13 | previous 14"
-    },
-    {
-      "id": "mkt:019f1af0-9384-7aab-8c45-20694493d432",
-      "time": "2026-07-01 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Tankan Large Manufacturing Sentiment Index (Q2) | actual 22 | consensus 16 | previous 17"
-    },
-    {
-      "id": "mkt:019f1af0-81d5-7aab-8c45-1eaf398b3b92",
-      "time": "2026-07-01 07:49:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "June vehicle registrations for Tesla (TSLA.O) in France rose 104.99%, the French auto industry group PFA said."
-    },
-    {
-      "id": "4963805",
-      "time": "2026-07-01 07:49:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受美國科技股上漲提振，日經指數或將走高】繼隔夜美國科技股上漲之後，日本股市可能走高。對人工智慧相關需求的預期可能會繼續支撐市場。新加坡交易所的日經指數期貨上漲1.1%，至71040點。投資者正關注中東局勢的發展，以及日本政府官員對日元走弱的任何評論。日經指數週二上漲0.9%，至70062.32點。"
-    },
-    {
-      "id": "4963804",
-      "time": "2026-07-01 07:47:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【總價4000萬起 深圳又一豪宅“日光”】深圳又一豪宅專案實現開盤當日售罄。記者獲悉，6月30日，位於深圳灣超級總部基地的住宅專案安緹雅苑正式開盤，本批次推出的全部72套住宅房源開盤當日售罄，專案再度重新整理深圳核心片區頂豪去化速度。"
-    },
-    {
-      "id": "4963803",
-      "time": "2026-07-01 07:46:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.27點。"
-    },
-    {
-      "id": "4963802",
-      "time": "2026-07-01 07:46:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "據訊息人士透露，  光網路初創公司  Ayar Labs正在洽談融資至少2億美元，其新的估值將達到 50 億美元左右。"
     }
   ]
 }

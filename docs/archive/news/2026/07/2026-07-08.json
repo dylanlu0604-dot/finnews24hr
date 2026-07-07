@@ -1,7 +1,82 @@
 {
   "date": "2026-07-08",
-  "count": 582,
+  "count": 590,
   "items": [
+    {
+      "id": "mkt:019f3efd-1444-7aab-8cd8-e18aab3a9f49",
+      "time": "2026-07-08 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account USA (May) | actual 3968300000000B | consensus 4121300000000B | previous 3907800000000B"
+    },
+    {
+      "id": "4975145",
+      "time": "2026-07-08 07:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部多地局勢已恢復正常】據伊朗方面當地時間8日訊息，目前，伊朗南部的阿巴斯港、錫裡克和格什姆島等地局勢已正常。（央視）"
+    },
+    {
+      "id": "mkt:019f3efb-1c87-7aab-8cd8-d89ad1208017",
+      "time": "2026-07-08 07:47:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dutch trade minister visits China with 17-company delegation; Nexperia dispute unresolved】From the 7th to 9th of this month the Dutch minister for foreign trade and development cooperation led a three-day visit to Beijing and Shanghai with a 17-company delegation across logistics, agriculture and high-tech. The Dutch foreign ministry said it was the first minister-led trade delegation to China since April 2018. China and the Netherlands have not reached consensus on how to resolve outstanding disputes related to Nexperia."
+    },
+    {
+      "id": "4975144",
+      "time": "2026-07-08 07:47:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金：看好快遞航運，關注航空成本改善】中金公司研報指出，1H26交運板塊下跌16.5%，跑輸大盤24.0ppt，細分板塊分化，其中油運跑贏大盤30.6ppt；而其他板塊均跑輸，航空因Q2油價上漲跑輸大盤39.2ppt；紅利類公路鐵路和港口分別跑輸24.5ppt/20.1ppt；快遞跑輸大盤12.5ppt。2H26中金看好快遞反內卷的行情、油運的運價彈性；關注航空油價下行的需求復甦，而非快遞物流則需精選個股，紅利板塊整體仍需視市場風格。"
+    },
+    {
+      "id": "4975143",
+      "time": "2026-07-08 07:46:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最高19億美元，中國生物製藥與阿斯利康達成TQC3721獨家授權合作】中國生物製藥公告，將自主研發的慢性阻塞性肺疾病（COPD）創新藥TQC3721（PDE3/4抑制劑）海外權益以總額最高19億美元授權給阿斯利康。這是中國生物製藥年內迎來的第二筆重磅BD交易。"
+    },
+    {
+      "id": "4975142",
+      "time": "2026-07-08 07:46:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.12點。"
+    },
+    {
+      "id": "4975141",
+      "time": "2026-07-08 07:46:10",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：商用車穩健低估，機器人密集催化下強勢迴歸】中信建投研報指出，本週乘用車及機器人板塊上漲幅度較好，除了資金面“高低切”等流動性因素變化外，6月乘用車主機廠產銷資料（尤其出口）修復悲觀預期；特斯拉人形機器人Optimus弗裡蒙特產線臨近量產、宇樹IPO註冊獲證監會同意，7-8月成為產業催化及趨勢驗證的做多視窗期；商用車出口銷量穩健，業績有望兌現。全年依然看好汽車高階化和出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。"
+    },
+    {
+      "id": "4975140",
+      "time": "2026-07-08 07:46:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1%。"
+    },
     {
       "id": "4975139",
       "time": "2026-07-08 07:45:56",
