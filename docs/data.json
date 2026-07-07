@@ -1,7 +1,104 @@
 {
-  "updated": "2026-07-07 09:44:55",
-  "count": 14286,
+  "updated": "2026-07-07 09:48:47",
+  "count": 14296,
   "items": [
+    {
+      "id": "4973280",
+      "time": "2026-07-07 09:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子第二季度營業利潤1.58萬億韓元，營收23.83萬億韓元。"
+    },
+    {
+      "id": "4973279",
+      "time": "2026-07-07 09:46:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念震盪拉昇 沐曦股份漲超10%】早盤算力晶片概念震盪拉昇，沐曦股份漲超10%，萬通發展、芯原股份、海光資訊、寒武紀、摩爾執行緒、龍芯中科跟漲。"
+    },
+    {
+      "id": "te:markets:564629",
+      "time": "2026-07-07 09:46:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Slide on Tech Selloff — The benchmark KOSPI fell 4% to around 7,730 on Tuesday, extending losses from the previous session, as investors took profits in heavyweight technology stocks following a strong AI-driven rally. Technology shares remained under pressure as investors grew more cautious toward the AI trade amid recent weakness in global semiconductor stocks and concerns over whether robust earnings can justify lofty valuations. Samsung Electronics (-5.5%) tumbled despite reporting record preliminary second-quarter earnings that beat expectations, with the strong results seen as largely priced in, while SK Hynix (-3.9%) declined ahead of its planned US listing. Meanwhile, battery stocks weakened after LG Energy Solution (-6.1%) posted quarterly operating profit well below forecasts, reinforcing concerns over sluggish global EV demand. Other major decliners included Hyundai Motor (-4.5%), HD Hyundai Heavy Industries (-3.8%), Hanwha Aerospace (-3.7%), and Kia Corp (-4.0%)."
+    },
+    {
+      "id": "4973278",
+      "time": "2026-07-07 09:46:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西釋出暴雨橙色預警】廣西壯族自治區氣象臺2026年07月07日09時30分繼續釋出暴雨橙色預警，預計：未來24小時，防城港、欽州、貴港、玉林、北海、梧州等市及南寧、來賓兩市東部有大雨到暴雨、局地大暴雨或特大暴雨並伴有短時雷暴大風等強對流天氣。請注意防範。"
+    },
+    {
+      "id": "mkt:019f3a41-2773-7aab-8cbf-a07ac79650bb",
+      "time": "2026-07-07 09:46:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【OCBC: Yen weakness and rising JGB yields could trigger global market volatility】OCBC strategists say persistent yen weakness and rising long-end Japanese government bond yields make Japan a potential source of global market volatility. Markets view the Bank of Japan as behind the curve, intensifying downward pressure on the yen; strategists expect investors may increasingly see any future rate hikes as driven by Prime Minister Takaichi’s policy direction rather than economic data. Further yen depreciation could weigh on regional FX, notably the South Korean won and Thai baht, but OCBC flags larger spillover risk from higher long-term JGB yields — which appear to be pushing up U.S., U.K. and German government bond yields — and warns sustained JGB yield rises could lift global yields further."
+    },
+    {
+      "id": "mkt:019f3a41-22b2-7aab-8cbf-9f5bee54492a",
+      "time": "2026-07-07 09:46:14",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share chemical products and broader chemicals sector rose in early trade. Baihehua hit an intraday record high. Akeli posted a third consecutive limit-up; Suqian Liansheng hit the daily limit. Saite New Materials, Yongguan New Materials, Songjing and Chenguang New Materials also advanced."
+    },
+    {
+      "id": "4973277",
+      "time": "2026-07-07 09:45:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化學制品、化工板塊盤初上揚，阿科力3連板】化學制品、化工板塊盤初上揚，百合花盤中創新高，阿科力3連板，宿遷聯盛漲停，賽特新材、永冠新材、松井股份、晨光新材跟漲。"
+    },
+    {
+      "id": "4973276",
+      "time": "2026-07-07 09:45:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上交所：“N春風轉”盤中臨時停牌】據上交所7月7日訊息，N春風轉（113704）今日上午交易出現異常波動。根據《上海證券交易所可轉換公司債券交易實施細則》的有關規定，上交所決定，自2026年7月7日9時25分開始暫停N春風轉 （113704）交易，自2026年7月7日14時57分起恢復交易。"
+    },
+    {
+      "id": "4973275",
+      "time": "2026-07-07 09:45:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上交所：“N翔26轉”盤中臨時停牌】據上交所7月7日訊息，N翔26轉（113703）今日上午交易出現異常波動。根據《上海證券交易所可轉換公司債券交易實施細則》的有關規定，上交所決定，自2026年7月7日9時25分開始暫停N翔26轉（113703）交易，自2026年7月7日14時57分起恢復交易。"
+    },
+    {
+      "id": "4973274",
+      "time": "2026-07-07 09:45:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.10%，成分股中，沐曦股份漲9.83%，盛科通訊漲9.10%，芯原股份漲7.20%，晶晨股份漲6.11%。"
+    },
     {
       "id": "mkt:019f3a3f-6e08-7aab-8cbf-944bf3587d90",
       "time": "2026-07-07 09:44:23",
