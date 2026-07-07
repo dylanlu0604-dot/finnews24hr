@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-07 09:37:10",
-  "count": 14264,
+  "updated": "2026-07-07 09:41:05",
+  "count": 14273,
   "items": [
+    {
+      "id": "4973266",
+      "time": "2026-07-07 09:39:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體材料板塊短線拉昇，有研矽漲超10%】半導體材料板塊短線拉昇，有研矽漲超10%，有研新材、滬矽產業、先導基電、天嶽先進、中晶科技跟漲。"
+    },
+    {
+      "id": "mkt:019f3a3a-2a6c-7aab-8cbf-6d268d4472cf",
+      "time": "2026-07-07 09:38:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "000970.SZ",
+        "Impact bullish",
+        "600366.SS"
+      ],
+      "text": "China A-share rare-earth permanent magnet sector rose in early trade; Zhongke Sanhuan hit its daily limit, with Dadi Xiong, Ningbo Yunsheng, Yingluohua, Zhenghai Magnetic Materials and Zhenguang Co. also rising."
+    },
+    {
+      "id": "4973265",
+      "time": "2026-07-07 09:38:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【稀土永磁板塊盤初上揚，中科三環漲停】稀土永磁板塊盤初上揚，中科三環漲停，大地熊、寧波韻升、英洛華、正海磁材、爭光股份跟漲。"
+    },
+    {
+      "id": "4973264",
+      "time": "2026-07-07 09:38:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊震盪拉昇 星輝娛樂漲超10%】遊戲板塊震盪拉昇，星輝娛樂漲超10%，遊族網路、崑崙萬維、巨人網路、愷英網路跟漲。"
+    },
+    {
+      "id": "mkt:019f3a39-b155-7aab-8cbf-618dd04e827a",
+      "time": "2026-07-07 09:38:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's ChiNext Index turned positive first; Shenzhen Composite fell 0.17%, Shanghai Composite fell 0.5%."
+    },
+    {
+      "id": "4973263",
+      "time": "2026-07-07 09:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "創業板指率先翻紅，深證成指跌0.17%，滬指跌0.5%。"
+    },
+    {
+      "id": "mkt:019f3a38-9ff5-7aab-8cbf-5a1ca340fcf5",
+      "time": "2026-07-07 09:36:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC'S PAN: Hong Kong can seize window to attract sovereign wealth funds and international issuers】PBOC'S Pan said at the Hong Kong Fixed Income and Currency Summit and Bond Connect Forum on the 7th that amid heightened global rate and inflation volatility, Chinese bonds' relative stability and lower volatility provide unique diversification benefits and continue to draw demand for increased allocations from international investors. Coupled with lower renminbi financing costs, Hong Kong's renminbi bond market faces a rare development opportunity; Hong Kong can seize the moment to attract more sovereign wealth funds and international corporates to issue bonds there."
+    },
+    {
+      "id": "4973262",
+      "time": "2026-07-07 09:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【潘功勝：香港可以抓住有利時機，吸引更多的主權財富和國際企業到香港發債融資】中國人民銀行行長潘功勝7日在香港固定收益及貨幣峰會暨債券通論壇上表示，當前在全球利率和通脹波動加劇的背景下，中國債券憑藉其相對的穩定性和較低波動性的特徵，凸顯出獨特的分散化的配置優勢，持續吸引國際投資者的增配訴求，加上較低的人民幣融資成本，香港人民幣債券市場面臨難得的發展機遇，香港可以抓住這一有利時機，吸引更多的主權財富和國際企業到香港發債融資。（新華財經）"
+    },
+    {
+      "id": "4973261",
+      "time": "2026-07-07 09:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股儲存晶片概念股盤初下挫，兆易創新跌超9%】港股儲存晶片概念股盤初下挫，兆易創新跌超9%，瀾起科技跌超6%。"
+    },
     {
       "id": "te:markets:564625",
       "time": "2026-07-07 09:36:29",
