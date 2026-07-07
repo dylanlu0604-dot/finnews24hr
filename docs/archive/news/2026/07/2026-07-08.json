@@ -1,7 +1,35 @@
 {
   "date": "2026-07-08",
-  "count": 60,
+  "count": 63,
   "items": [
+    {
+      "id": "te:economy:564966",
+      "time": "2026-07-08 00:55:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Yield Rises to Over 1-Week High — Switzerland's 10-year government bond yield edged up to 0.34%, tracking the global rise in borrowing costs after another increase in oil prices reignited inflation concerns. Oil prices climbed following reports of attacks on vessels near the Strait of Hormuz, highlighting ongoing geopolitical risks in the Middle East and raising fears of potential disruptions to global energy supplies. At its last meeting, the Swiss National Bank kept its policy rate at 0%, stating that it would rely on foreign exchange interventions to curb excessive franc appreciation if necessary. Inflation eased in June for the first time in eight months to 0.5%, remaining within the SNB's 0–2% target range. The International Monetary Fund urged the central bank to remain ready to adjust interest rates if needed, staying cautious of a stagflation scenario. The SNB expects inflation to pick up later this year, remaining stable over the medium term, while the government revised its 2026 growth forecast down to 0.9%."
+    },
+    {
+      "id": "4974812",
+      "time": "2026-07-08 00:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液銷售體系重大變革：擬撤銷五品部重點打造銷售公司，蔣佳、陳翀分任董事長、總經理】五糧液內部銷售體系已開啟重大調整和改革，將重點打造宜賓五糧液酒類銷售有限責任公司，五糧液品牌事務部將被整合入銷售公司。五糧液股份公司副總經理蔣佳出任五糧液酒類銷售公司董事長，五糧液股份公司副總經理、進出口公司董事長陳翀任總經理。此次調整旨在以公司制更好地運營五糧液系列產品，撤銷五品部及其二級部門、專賣店管理部。（每日經濟新聞）"
+    },
+    {
+      "id": "4974811",
+      "time": "2026-07-08 00:52:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌38美元，報13366美元/噸。LME期鋁收漲22美元，報3138美元/噸。LME期鋅收跌19美元，報3572美元/噸。LME期鉛收漲4美元，報1884美元/噸。LME期鎳收跌74美元，報16348美元/噸。LME期錫收漲286美元，報53350美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "4974810",
       "time": "2026-07-08 00:52:40",

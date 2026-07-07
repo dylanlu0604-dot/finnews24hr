@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-08 00:53:19",
-  "count": 15900,
+  "updated": "2026-07-08 00:57:07",
+  "count": 15896,
   "items": [
+    {
+      "id": "te:economy:564966",
+      "time": "2026-07-08 00:55:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Yield Rises to Over 1-Week High — Switzerland's 10-year government bond yield edged up to 0.34%, tracking the global rise in borrowing costs after another increase in oil prices reignited inflation concerns. Oil prices climbed following reports of attacks on vessels near the Strait of Hormuz, highlighting ongoing geopolitical risks in the Middle East and raising fears of potential disruptions to global energy supplies. At its last meeting, the Swiss National Bank kept its policy rate at 0%, stating that it would rely on foreign exchange interventions to curb excessive franc appreciation if necessary. Inflation eased in June for the first time in eight months to 0.5%, remaining within the SNB's 0–2% target range. The International Monetary Fund urged the central bank to remain ready to adjust interest rates if needed, staying cautious of a stagflation scenario. The SNB expects inflation to pick up later this year, remaining stable over the medium term, while the government revised its 2026 growth forecast down to 0.9%."
+    },
+    {
+      "id": "4974812",
+      "time": "2026-07-08 00:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液銷售體系重大變革：擬撤銷五品部重點打造銷售公司，蔣佳、陳翀分任董事長、總經理】五糧液內部銷售體系已開啟重大調整和改革，將重點打造宜賓五糧液酒類銷售有限責任公司，五糧液品牌事務部將被整合入銷售公司。五糧液股份公司副總經理蔣佳出任五糧液酒類銷售公司董事長，五糧液股份公司副總經理、進出口公司董事長陳翀任總經理。此次調整旨在以公司制更好地運營五糧液系列產品，撤銷五品部及其二級部門、專賣店管理部。（每日經濟新聞）"
+    },
+    {
+      "id": "4974811",
+      "time": "2026-07-08 00:52:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌38美元，報13366美元/噸。LME期鋁收漲22美元，報3138美元/噸。LME期鋅收跌19美元，報3572美元/噸。LME期鉛收漲4美元，報1884美元/噸。LME期鎳收跌74美元，報16348美元/噸。LME期錫收漲286美元，報53350美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "4974810",
       "time": "2026-07-08 00:52:40",
@@ -145829,70 +145857,6 @@
         "歐洲央行"
       ],
       "text": "【歐洲央行管委多倫茨表示 尚未看到明確證據表明第二輪通脹效應已顯現】歐洲央行管委多倫茨表示，如果當前油價保持穩定，歐洲央行或許能夠等到9月再決定是否需要採取更多政策措施；尚未看到明確證據表明第二輪通脹效應已顯現。"
-    },
-    {
-      "id": "mkt:019f1975-bcc0-7aab-8c3e-f392bc207ca5",
-      "time": "2026-07-01 00:56:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Dolenc, an ECB Governing Council member, said if oil prices remain stable the ECB may wait until September to decide on further policy adjustments and that there have not yet been clear second‑round effects on inf."
-    },
-    {
-      "id": "mkt:019f1975-8bea-7aab-8c3e-e8cea6b37faa",
-      "time": "2026-07-01 00:56:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pilot mistakenly transmitted hijack code 7500; Israel and Bulgaria scramble fighters】A pilot mistakenly broadcast transponder code 7500 — the hijack signal — on a Warsaw–Tel Aviv commercial flight on Tuesday, prompting the Israeli military to scramble two fighters to intercept the aircraft over the Mediterranean and Bulgaria to dispatch a MiG‑29 to escort it in Bulgarian airspace. A Polish carrier said the flight was operated by Bulgarian Electra Airways; the crew later cancelled the emergency after follow-up communications and Warsaw Chopin Airport reported no signs of external interference."
-    },
-    {
-      "id": "mkt:019f1975-338c-7aab-8c3e-e3cb03898bdc",
-      "time": "2026-07-01 00:55:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign ministry spokesperson said final agreement negotiations must be premised on implementation of five conditions; the ceasefire in Lebanon remains fragile."
-    },
-    {
-      "id": "4963522",
-      "time": "2026-07-01 00:55:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫茨：我們尚未看到第二輪通脹效應的明確證據。"
-    },
-    {
-      "id": "4963521",
-      "time": "2026-07-01 00:55:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委多倫斯：若當前油價持穩，歐洲央行或可等到9月再決定是否需要更多政策舉措。"
-    },
-    {
-      "id": "4963520",
-      "time": "2026-07-01 00:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國最高法院將審議憲法是否賦予持有“攻擊性武器”的權利】美國最高法院同意審議憲法是否賦予美國人持有所謂“突擊步槍”的權利。這類武器曾多次被用於大規模槍擊事件。大法官們表示，他們將聽取有關伊利諾伊州庫克縣禁止包括AR-15在內的半自動武器違反憲法第二修正案的主張。最高法院還將審理一起涉及康涅狄格州類似禁令的案件。"
-    },
-    {
-      "id": "4963519",
-      "time": "2026-07-01 00:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：最高法院迄今為止意義最重大、影響最深遠的裁決，當屬《斯勞特案》判決，該判決推翻了知名的《漢弗萊遺囑執行人案》確立的司法準則。圍繞行政權力歸屬的這場博弈已持續近百年，最早可追溯至羅斯福時期，當年羅斯福手中一大塊行政權力被剝奪。他曾竭力奪回權力，甚至一度提出“擴充最高法院大法官席位”的計劃，但最終未能如願。本次判決將大量新增權力交還總統，這本就是總統職位理應擁有的許可權。時隔百年，由我這位在任總統打贏這場至關重要、歷經重重拉鋸的官司，實屬榮幸。我們也取得了其他不少勝訴；雖然出生公民權一案我們敗訴，不過我們會推動國會立法修正這一結果。但重頭戲——《斯勞特案》，我們完勝。美國最高法院對共和黨給予了十分公正的對待。"
     }
   ]
 }
