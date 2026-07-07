@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-08 02:36:37",
-  "count": 15858,
+  "updated": "2026-07-08 02:40:22",
+  "count": 15857,
   "items": [
+    {
+      "id": "mkt:019f3de0-da17-7aab-8cd4-fd03f0dd618e",
+      "time": "2026-07-08 02:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netanyahu said if the agreement achieves its stated objectives, Iran would receive sanctions relief and use it to regain economic strength, but he does not expect that to occur in the near term."
+    },
     {
       "id": "mkt:019f3ddc-4476-7aab-8cd4-f36d23e16ddf",
       "time": "2026-07-08 02:34:33",
@@ -145492,23 +145500,6 @@
         "MKT News"
       ],
       "text": "TASNIM News cites sources saying Israeli forces carried out an explosive attack in southern Lebanon."
-    },
-    {
-      "id": "mkt:019f19d4-b8d0-7aab-8c40-6e4bdec50561",
-      "time": "2026-07-01 02:39:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's prime minister: We will not accept directives from abroad, whether from the East or the West."
-    },
-    {
-      "id": "mkt:019f19d4-82b6-7aab-8c40-60a9a5312e44",
-      "time": "2026-07-01 02:39:45",
-      "tags": [
-        "MKT News",
-        "Brent"
-      ],
-      "text": "Iraq's prime minister said there is no evidence that recent attacks on Gulf states originated in Iraq."
     }
   ]
 }
