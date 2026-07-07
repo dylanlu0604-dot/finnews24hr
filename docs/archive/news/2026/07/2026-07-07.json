@@ -1,7 +1,82 @@
 {
   "date": "2026-07-07",
-  "count": 1765,
+  "count": 1773,
   "items": [
+    {
+      "id": "mkt:019f3c06-f682-7aab-8ccb-1ec228ac15a3",
+      "time": "2026-07-07 18:01:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Indian rupee closed up 0.45% at 94.9675 per dollar, posting its largest single-day gain since June 12."
+    },
+    {
+      "id": "4974105",
+      "time": "2026-07-07 18:01:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【威剛：Q3記憶體將漲價20%-30% 快閃記憶體將漲價35%-40%】威剛科技預警，2026年第三季度DRAM記憶體與NAND快閃記憶體價格將再度上調，記憶體及儲存產品售價會進一步走高。威剛董事長陳立白表示，各大記憶體原廠已放出通知，2026年第三季度DRAM合約價將繼續上漲20%至30%，NAND快閃記憶體價格漲幅更是達到35%至40%，兩類儲存晶片價格將持續上行，有望持續帶動公司經營業績增長。"
+    },
+    {
+      "id": "mkt:019f3c06-e1b7-7aab-8ccb-119369bbdd0e",
+      "time": "2026-07-07 18:01:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【ADATA: 2026 Q3 DRAM +20–30%, NAND flash +35–40%】ADATA Technology warned DRAM and NAND flash prices will rise again in 2026 Q3. Chairman Chen Libai said major memory suppliers have issued notices expecting DRAM contract prices to increase 20–30% and NAND flash prices 35–40% in Q3, which should lift memory and storage selling prices and could support ADATA’s operating results."
+    },
+    {
+      "id": "4974104",
+      "time": "2026-07-07 18:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>收盤上漲0.45%，報1美元兌94.9675盧比；前收盤價為1美元兌95.3950盧比。"
+    },
+    {
+      "id": "4974103",
+      "time": "2026-07-07 18:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢將調整部分產品配方，適配服用GLP-1類減重藥物人群的口味需求。"
+    },
+    {
+      "id": "4974102",
+      "time": "2026-07-07 18:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天齊鋰業：60億元債務融資工具獲准註冊】天齊鋰業公告，公司此前於2025年12月8日、12月30日召開董事會和股東大會，審議透過向交易商協會申請註冊發行不超過人民幣60億元債務融資工具的議案。2026年7月7日，公司收到交易商協會下發的《接受註冊通知書》，同意接受公司債務融資工具註冊，註冊額度為60億元，有效期2年，主承銷商為興業銀行股份有限公司。公司將根據資金需求和市場情況擇機一次或分期發行超短期融資券、短期融資券、中期票據、永續票據。"
+    },
+    {
+      "id": "4974101",
+      "time": "2026-07-07 18:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：KKR旗下Arctos基金募資62億美元，用於投資私募市場管理人。"
+    },
+    {
+      "id": "mkt:019f3c03-ee6c-7aab-8ccb-0b8c5dc2d574",
+      "time": "2026-07-07 17:58:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【KPMG survey: 42 pct of Canadian manufacturers have moved or are considering moving production to US amid trade uncertainty】KPMG survey of 275 manufacturers found 42 pct have shifted or are considering shifting production to the US to address persistent trade uncertainty and rising competitive pressure. 57 pct have delayed, reduced or cancelled capex citing trade uncertainty and competitiveness concerns. 80 pct plan to keep headquarters in Canada, but 11 pct intend to relocate HQ to the US within five years; manufacturing accounts for more than 10 pct of Canadian GDP, so even that share could have a material economic impact. Manufacturers remain highly dependent on the US market: 61 pct said they could not survive without US sales. 86 pct export outside Canada, and among exporters 96 pct say their products meet USMCA rules and thus avoid tariff exposure. The survey comes as USMCA-related discussions intensify. KPMG Canada industrial markets partner Anamika Gadia said government action on competitiveness, tax, regulation and trade will determine whether manufacturing investment remains in Canada."
+    },
     {
       "id": "4974100",
       "time": "2026-07-07 17:58:19",
