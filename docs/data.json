@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-07 17:35:26",
-  "count": 15277,
+  "updated": "2026-07-07 17:39:21",
+  "count": 15287,
   "items": [
+    {
+      "id": "4974059",
+      "time": "2026-07-07 17:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯瑞新材：2025年度利潤分配現金分紅總額調整為3124.3萬元】斯瑞新材公告，公司2025年度利潤分配擬維持每10股派發現金紅利0.40元（含稅）不變，派發現金分紅的總額由3101.3萬元（含稅）調整為3124.3萬元（含稅）。調整原因為公司總股本變動，實際可參與2025年度利潤分配的股本總數由7.75億股變更為7.81億股。"
+    },
+    {
+      "id": "4974058",
+      "time": "2026-07-07 17:37:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度海事電氣公司（MARINE ELECTRICALS (INDIA)）報告稱發生潛在網路安全事件。公司稱，此次事件造成資料丟失的可能性極低。"
+    },
+    {
+      "id": "mkt:019f3bf0-66e1-7aab-8cca-8444acf0f76c",
+      "time": "2026-07-07 17:37:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Why Samsung's profit surge sent shares lower】Samsung's Q2 operating profit rose 19-fold YoY, driven by AI data-center build-out pushing DRAM/NAND demand; core storage capacity remains effectively tight, supporting concurrent volume and price gains. Markets sold off despite the strong numbers as investors fear a future supply glut and demand peak. Key risks: prior industry-wide capacity expansion could trigger oversupply if US tech firms curb AI infra capex; alternatively, labour shortages and power constraints could stall data-center builds and cut hardware demand. The prospect of looming overcapacity and fading pricing power prompted profit-taking and the stock pullback."
+    },
+    {
+      "id": "4974057",
+      "time": "2026-07-07 17:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂立教育：股東長甲投資已減持0.99%】昂立教育公告，股東上海長甲投資有限公司減持計劃時間區間屆滿，2026年4月8日～2026年7月7日透過集中競價減持284.56萬股，減持比例0.99%，減持價格區間7.4～10.28元/股，減持總金額2741.77萬元。截至2026年7月7日，長甲投資持有1730.82萬股，佔公司總股本的6.04%。"
+    },
+    {
+      "id": "4974056",
+      "time": "2026-07-07 17:36:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空中客車集團與Infinite Orbits、阿麗亞娜空間公司簽署諒解備忘錄，旨在提升歐洲直接發射至地球靜止軌道的能力。"
+    },
+    {
+      "id": "4974055",
+      "time": "2026-07-07 17:36:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思朗科技科創板IPO稽核狀態變更為'已受理'】上海思朗科技股份有限公司科創板IPO專案科創板IPO稽核狀態變更為'已受理'，保薦機構為國泰海通。"
+    },
+    {
+      "id": "4974054",
+      "time": "2026-07-07 17:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局等：鼓勵大型企業在臨港新片區集中管理風險保障需求】7月7日，國家金融監督管理總局、上海市人民政府聯合印發《關於加快上海國際再保險中心建設的若干措施》（下稱《若干措施》），旨在加快上海國際再保險中心建設，推動我國再保險市場高質量發展。《若干措施》共8條，圍繞引導機構佈局、完善統一登記、加快平臺建設、加大能力供給、深化改革開放、拓展跨境合作、強化監管效能、最佳化發展環境等方面提出具體措施。（澎湃）"
+    },
+    {
+      "id": "4974053",
+      "time": "2026-07-07 17:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【618銷量排行出爐 華為、蘋果、OPPO霸榜前三】7月3日，權威調研機構CounterPointResearch釋出中國618智慧手機銷量資料（第22-25周）。資料顯示，OPPO以18%的市場份額與華為、蘋果並列前三。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202607073796828461",
+      "time": "2026-07-07 17:34:56",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行提議放寬部分銀行資本規則】英國央行提議放寬部分銀行資本規則，擬將資本要求降低20個基點。"
+    },
     {
       "id": "4974052",
       "time": "2026-07-07 17:34:31",
@@ -59,6 +138,15 @@
         "國際"
       ],
       "text": "【郭明錤：臺積電7月對GCS/CoPoS提供重大更新的機會可能不高】分析師郭明錤在社交平臺發文稱，從過去歷史經驗看，臺積電在接下來的7月，對玻璃核心載板（GCS）/CoPoS提供重大更新的機會可能不高，特別是才剛在6月份的日本研討會中，提供過關鍵研發成果且罕見提到合作供應商。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202607073796828375",
+      "time": "2026-07-07 17:33:07",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行：股票市場槓桿率上升加劇金融穩定威脅】英國央行表示，股票市場槓桿率上升加劇金融穩定威脅。"
     },
     {
       "id": "4974049",
