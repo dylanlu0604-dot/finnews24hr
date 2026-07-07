@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-07 14:06:47",
-  "count": 14740,
+  "updated": "2026-07-07 14:10:52",
+  "count": 14753,
   "items": [
+    {
+      "id": "te:economy:564710",
+      "time": "2026-07-07 14:09:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "House Price Index YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Prices Rise 0.6% in June: Lloyds — The Lloyds House Price Index showed UK house prices rose 0.6% year-on-year in June 2026, following a 0.5% increase in May. On a monthly basis, prices grew 0.2%, reversing May's 0.2% decline, lifting the average property price to £299,330. Amanda Bryden, Head of Mortgages at Lloyds, said the rebound reflected easing borrowing costs after mortgage rates retreated from recent highs, although affordability remained stretched and wider economic uncertainty, including global developments affecting inflation and interest rate expectations, continued to weigh on the housing market. While mortgage approvals fell 14.9% in May after higher borrowing costs earlier in the year, Lloyds expects housing activity to recover if financing costs continue to ease. Regionally, Northern Ireland posted the strongest annual house price growth at 7.4%, followed by Scotland (3.9%), the North East (2.8%), and the North West (2.4%)."
+    },
+    {
+      "id": "4973603",
+      "time": "2026-07-07 14:09:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西新疆兩地娃哈哈公司完成更名】天眼查App顯示，近日，陝西娃哈哈食品有限公司發生工商變更，企業名稱變更為陝西宏澤恆楓食品有限公司。該公司成立於2005年1月，法定代表人為曾哲泉，註冊資本800萬美元，經營範圍包括飲料生產、食品銷售等，由盛佳集團有限公司、麗水宏博飲料有限公司共同持股。此外，新疆昌吉娃哈哈乳業有限公司近期也發生工商變更，企業名稱變更為新疆宏勝恆楓乳業有限公司。"
+    },
+    {
+      "id": "4973602",
+      "time": "2026-07-07 14:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【350名水庫搶險專業人員馳援南寧】7月7日在廣西南寧市召開第二場防汛救災新聞釋出會上介紹，國家應急管理部統籌貴州、湖南、雲南、廣東四省共計350名水庫搶險專業人員跨省馳援南寧市。廣西已排程872名消防員、186臺消防車、88艘舟艇跨區域增援，投入南寧市涉災重點風險區域，調配1架專用救援直升機，開展災情巡查、人員轉運。南寧市整合各方力量，出動消防救援、公安、衛健等部門人員1343人、救援車輛106臺、救援舟艇38艘，開展應急救援、秩序維護、衛生防疫工作；武警南寧支隊、南寧警備區450人奔赴一線，開展突擊搶險；中國安能南寧公司出動140名專業人員、30臺工程車輛，負責病險水庫、堤防加固等搶險任務。同時，各類相關志願者協會等社會應急救援隊伍，也出動了救援力量，配合開展搜救轉移。"
+    },
+    {
+      "id": "4973601",
+      "time": "2026-07-07 14:09:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿布扎比證券交易所（ADX）取消交易所交易基金與期貨合約的漲跌幅限制，助力提升市場效率與流動性。"
+    },
+    {
+      "id": "4973600",
+      "time": "2026-07-07 14:09:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數尾盤跌幅收窄至約5%。"
+    },
+    {
+      "id": "4973599",
+      "time": "2026-07-07 14:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.01%，成分股中，艾融軟體跌6.85%，則成電子跌6.49%，錦華新材跌6.35%，民士達跌5.07%。"
+    },
+    {
+      "id": "mkt:019f3b31-b2c5-7aab-8cc4-c5d49cb082e6",
+      "time": "2026-07-07 14:09:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI pared late-session losses to about 5%."
+    },
+    {
+      "id": "4973598",
+      "time": "2026-07-07 14:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聚能源等成立算力科技新公司】企查查APP顯示，近日，深圳市廣聚算力科技有限公司成立，經營範圍包含：網路裝置製造；網路裝置銷售；網路技術服務；網際網路安全服務等。企查查股權穿透顯示，該公司由廣聚能源等共同持股。"
+    },
+    {
+      "id": "4973597",
+      "time": "2026-07-07 14:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報8096.20點。"
+    },
+    {
+      "id": "4973596",
+      "time": "2026-07-07 14:07:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元下跌0.3%至32.122。"
+    },
+    {
+      "id": "mkt:019f3b2f-3eb2-7aab-8cc4-bd412869b3c8",
+      "time": "2026-07-07 14:06:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Guangdong completes registration for 11 generative AI services, total 64】On July 7 the Guangdong Cyberspace Administration said on its WeChat account that Guangdong has completed registration of 11 additional generative AI services, bringing the cumulative total to 64."
+    },
+    {
+      "id": "mkt:019f3b2f-2a6d-7aab-8cc4-b52dd474ae4e",
+      "time": "2026-07-07 14:06:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Shell (SHEL.N) expects Q2 natural gas trading volumes to be \"significantly\" higher than Q1."
+    },
     {
       "id": "4973595",
       "time": "2026-07-07 14:05:42",
@@ -17,6 +126,15 @@
         "其他"
       ],
       "text": "【廣東省新增11款已完成登記的生成式人工智慧服務】7月7日，據“網信廣東”微信公眾號訊息，截至7月7日，廣東省新增11款已完成登記的生成式人工智慧服務，累計已完成64款生成式人工智慧服務登記。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607073796609335",
+      "time": "2026-07-07 14:05:24",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【香港證監會：正與中國人民銀行商討進一步最佳化互換通】香港證監會發文表示，歡迎中國人民銀行今天（7月7日）宣佈的新措施，以支援香港固定收益及貨幣市場進一步發展。中國外匯交易中心將與香港交易所在香港共建電子固定收益及貨幣交易平臺（交易平臺）。包括推出時間表在內有關交易平臺的進一步詳情，將適時予以公佈。"
     },
     {
       "id": "4973593",
