@@ -1,7 +1,85 @@
 {
   "date": "2026-07-08",
-  "count": 495,
+  "count": 504,
   "items": [
+    {
+      "id": "mkt:019f3ed0-6ab9-7aab-8cd8-4226ad982d7d",
+      "time": "2026-07-08 07:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state TV reported President Pezeshkian left Iraq and returned to Iran after US airstrikes on southern Iran."
+    },
+    {
+      "id": "mkt:019f3ed0-4d52-7aab-8cd8-3ebf3b396b11",
+      "time": "2026-07-08 07:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's current account posted the largest single-month surplus on record in May."
+    },
+    {
+      "id": "4975081",
+      "time": "2026-07-08 07:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府統計機構資料顯示，截至上月，哥倫比亞年度通脹率為6.14%。"
+    },
+    {
+      "id": "4975080",
+      "time": "2026-07-08 07:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國5月經常專案差額錄得有記錄以來最大月度順差。"
+    },
+    {
+      "id": "4975079",
+      "time": "2026-07-08 07:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國5月經季節因素調整後經常專案盈餘381.2億美元。"
+    },
+    {
+      "id": "mkt:019f3ecf-6bed-7aab-8cd8-31608aaae044",
+      "time": "2026-07-08 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May current account, not seasonally adjusted (NSA): $38.61 bln. Prior revised from $28.2923 bln to $28.29 bln."
+    },
+    {
+      "id": "mkt:019f3ecf-4ad4-7aab-8cd8-2e91aa9613a5",
+      "time": "2026-07-08 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Current Account NSA (May) | actual 38610000000B | previous 28292300000B"
+    },
+    {
+      "id": "mkt:019f3ece-ff81-7aab-8cd8-21d2238aa4ac",
+      "time": "2026-07-08 06:59:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran state media reported fragments from an \"enemy shell\" at the Sirik commercial port injured several people."
+    },
+    {
+      "id": "4975078",
+      "time": "2026-07-08 06:58:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，錫裡克商業碼頭遭“敵方炮彈”碎片擊中，造成多人受傷。"
+    },
     {
       "id": "4975077",
       "time": "2026-07-08 06:57:03",

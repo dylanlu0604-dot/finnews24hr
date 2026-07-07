@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-08 06:57:50",
-  "count": 15904,
+  "updated": "2026-07-08 07:08:04",
+  "count": 15900,
   "items": [
+    {
+      "id": "mkt:019f3ed0-6ab9-7aab-8cd8-4226ad982d7d",
+      "time": "2026-07-08 07:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state TV reported President Pezeshkian left Iraq and returned to Iran after US airstrikes on southern Iran."
+    },
+    {
+      "id": "mkt:019f3ed0-4d52-7aab-8cd8-3ebf3b396b11",
+      "time": "2026-07-08 07:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's current account posted the largest single-month surplus on record in May."
+    },
+    {
+      "id": "4975081",
+      "time": "2026-07-08 07:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府統計機構資料顯示，截至上月，哥倫比亞年度通脹率為6.14%。"
+    },
+    {
+      "id": "4975080",
+      "time": "2026-07-08 07:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國5月經常專案差額錄得有記錄以來最大月度順差。"
+    },
+    {
+      "id": "4975079",
+      "time": "2026-07-08 07:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國5月經季節因素調整後經常專案盈餘381.2億美元。"
+    },
+    {
+      "id": "mkt:019f3ecf-6bed-7aab-8cd8-31608aaae044",
+      "time": "2026-07-08 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May current account, not seasonally adjusted (NSA): $38.61 bln. Prior revised from $28.2923 bln to $28.29 bln."
+    },
+    {
+      "id": "mkt:019f3ecf-4ad4-7aab-8cd8-2e91aa9613a5",
+      "time": "2026-07-08 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Current Account NSA (May) | actual 38610000000B | previous 28292300000B"
+    },
+    {
+      "id": "mkt:019f3ece-ff81-7aab-8cd8-21d2238aa4ac",
+      "time": "2026-07-08 06:59:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran state media reported fragments from an \"enemy shell\" at the Sirik commercial port injured several people."
+    },
+    {
+      "id": "4975078",
+      "time": "2026-07-08 06:58:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，錫裡克商業碼頭遭“敵方炮彈”碎片擊中，造成多人受傷。"
+    },
     {
       "id": "4975077",
       "time": "2026-07-08 06:57:03",
@@ -145729,129 +145807,6 @@
         "Importance 1"
       ],
       "text": "Australia Factory Growth Rises to 5-Month High — The S&P Global Australia Manufacturing PMI was revised higher to 51.5 in June 2026 from initial estimates of 51.2 and up from 50.7 in May. This also marked the highest level since January and a third consecutive month of manufacturing growth. Despite the stronger headline reading, factory output declined for a fifth straight month due to weak demand and rising prices, while new orders also fell for a fourth consecutive month, although at the slowest pace in the current downturn. Export orders returned to growth after two months of decline. Employment increased for a second straight month as firms hired staff for future projects, while suppliers' delivery times lengthened sharply amid ongoing disruptions linked to the Middle East conflict. Input and output price inflation eased significantly from May but remained elevated due to higher fuel, freight, and raw material costs. Business confidence climbed to a four-month high on hopes of stronger demand and improved geopolitical conditions."
-    },
-    {
-      "id": "te:economy:563119",
-      "time": "2026-07-01 07:07:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index Manufacturing",
-        "Importance 1"
-      ],
-      "text": "Australia Industry Index Hits 4-Month High — Australia’s Ai Group Industry Index for manufacturing increased 4.5 points to -16.8 in June 2026, marking the highest level since February and signaling an easing in the contraction, though conditions remained fragile. Manufacturers faced rising material costs, patchy demand, constraints on raw material availability, and higher business costs. Meanwhile, constructors indicated that the changes to CGT announced in the federal budget had dampened enquiries, reduced orders, and prompted some firms to reassess their workforce needs."
-    },
-    {
-      "id": "4963753",
-      "time": "2026-07-01 07:07:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股已有35家公司預告上半年業績，預喜比例達74.29%】隨著2026年半年報披露視窗期臨近，A股上市公司業績預告進入密集披露期。Wind資料顯示，截至6月30日，A股已有35家公司披露了半年度業績預告。其中：預增11家，略增12家，扭虧3家，整體預喜比例達74.29%。記者梳理發現，AI產業爆發帶動多個細分行業步入業績收穫期。上半年，A股公司盈利延續了“製造升級、週期修復”的結構特徵，AI、新能源、化工三大領域的增長邏輯清晰可辨。（上海證券報）"
-    },
-    {
-      "id": "4963752",
-      "time": "2026-07-01 07:07:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【隔夜逆回購改善預期 資金面整體平穩跨季】央行隔夜逆回購工具落地後，市場對跨季資金面的擔憂有所緩和。多家機構認為，隔夜逆回購有助於更精準地匹配銀行體系短期流動性需求，平抑月末、季末等時點資金波動。（上海證券報）"
-    },
-    {
-      "id": "4963751",
-      "time": "2026-07-01 07:06:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：美國將於週二解除對Anthropic公司Fable AI模型的出口管制】據一位知情人士透露，美國商務部預計將於週二解除對Anthropic公司Fable 5人工智慧模型的出口管制，此前不到三週，該公司曾因國家安全風險被勒令暫停對其最先進人工智慧模型的訪問。6月12日收到出口管制令後，Anthropic立即停用了其Mythos 5和Fable 5模型。上週五，Anthropic表示美國政府已允許其向部分“可信”的美國組織釋出其Claude Mythos 5人工智慧模型，這標誌著該禁令部分被撤銷。"
-    },
-    {
-      "id": "4963749",
-      "time": "2026-07-01 07:04:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省：5 月 28 日至 6 月 26 日期間未實施日元匯率干預操作。"
-    },
-    {
-      "id": "4963747",
-      "time": "2026-07-01 07:01:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【慶祝中國共產黨成立105週年大會將舉行 】慶祝中國共產黨成立105週年大會將於7月1日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將向“七一勳章”獲得者頒授勳章並發表重要講話。大會還將對全國優秀共產黨員、全國優秀黨務工作者和全國先進基層黨組織進行表彰。（新華社）"
-    },
-    {
-      "id": "4963746",
-      "time": "2026-07-01 07:00:22",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞6月標普全球製造業PMI終值 51.5，前值51.2。\n澳大利亞6月AIG建築業表現指數 -38.1，前值-9.9。\n澳大利亞6月AIG/PWC製造業表現指數 -16.8，前值-22.4。"
-    },
-    {
-      "id": "mkt:019f1ac2-e60a-7aab-8c44-d91d26496093",
-      "time": "2026-07-01 07:00:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Australia S&P Global Manufacturing PMI (final) for June 51.5, prior 51.2."
-    },
-    {
-      "id": "mkt:019f1ac2-e59b-7aab-8c44-d39a42f71710",
-      "time": "2026-07-01 07:00:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia June AIG/PwC Manufacturing Performance Index -16.8, prior -22.4."
-    },
-    {
-      "id": "mkt:019f1ac2-e078-7aab-8c44-c8d95e343827",
-      "time": "2026-07-01 07:00:06",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia June AIG Performance of Construction Index -38.1 (prior -9.9)."
-    },
-    {
-      "id": "mkt:019f1ac2-c767-7aab-8c44-c0efe5c4eb36",
-      "time": "2026-07-01 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PMI (manufacturing) (Jun) | actual -16.8 | previous -22.4"
-    },
-    {
-      "id": "mkt:019f1ac2-c75e-7aab-8c44-b8c7a1866c99",
-      "time": "2026-07-01 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PCI (construction) (Jun) | actual -38.1 | previous -9.9"
-    },
-    {
-      "id": "4963745",
-      "time": "2026-07-01 06:59:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【6月份私募調研近1800次，電子行業熱度居前】Wind資料顯示，6月份共有842傢俬募機構參與到A股公司調研活動中，合計調研次數達1797次，涉及373家A股公司。其中，電子等行業A股公司被調研頻次居於前列。今年1月份至6月份，私募機構調研次數分別為3619次、1485次、4740次、10117次、3554次、1797次。剔除春節假期所在的2月份，6月份私募機構整體調研節奏明顯放緩。（證券日報）"
     }
   ]
 }
