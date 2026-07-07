@@ -1,7 +1,44 @@
 {
   "date": "2026-07-08",
-  "count": 56,
+  "count": 60,
   "items": [
+    {
+      "id": "4974810",
+      "time": "2026-07-08 00:52:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國天然氣期貨漲超7.2%，卡達LNG船隻在霍爾木茲海峽遇襲】週二（7月7日）歐市尾盤，ICE英國天然氣期貨漲7.26%，重新整理日高至112.200便士/千卡，北京時間19:29以來持續擴大漲幅。TTF基準荷蘭天然氣期貨漲6.61%，重新整理日高至47.175歐元/兆瓦時，08:00以來持續上揚、13:43逼近46.700歐元，10:22-20:41持穩於46歐元附近，之後再次持續擴大漲幅。ICE歐盟碳排放交易許可（期貨價格）漲1.76%，報79.86歐元/噸。在俄羅斯能源出口遭到烏克蘭干擾之際，歐洲基準柴油期貨相對原油的溢價（即被稱為“裂解價差”的市場強度指標）在週二升至每桶51.25美元以上，創4月以來的最高水平。"
+    },
+    {
+      "id": "mkt:019f3d7e-8844-7aab-8cd3-574cf48f17a3",
+      "time": "2026-07-08 00:52:10",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy urges NATO to boost Ukraine air defenses; Patriot production license discussed with US】Ukrainian President Zelenskiy said at the NATO summit on July 7 that air defense is Kyiv’s top priority and urged NATO and member states to increase assistance. He said Ukraine can handle many defense tasks independently but needs greater partner resolve on air defenses, and that Kyiv has discussed Patriot system production licensing with the United States. Zelenskiy said he will raise the Patriot system and other issues with US President Trump on July 8."
+    },
+    {
+      "id": "mkt:019f3d7d-b4dc-7aab-8cd3-4e0226c03bda",
+      "time": "2026-07-08 00:51:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said a U.S. sale of F-35 fighter jets to Turkey would undermine the balance of power in the Middle East."
+    },
+    {
+      "id": "mkt:019f3d7c-3ece-7aab-8cd3-418523c96dfd",
+      "time": "2026-07-08 00:49:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Hamas will ultimately be disarmed, by whatever means."
+    },
     {
       "id": "4974809",
       "time": "2026-07-08 00:48:16",
