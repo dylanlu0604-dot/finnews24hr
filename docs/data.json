@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-07 20:05:02",
-  "count": 15699,
+  "updated": "2026-07-07 20:09:00",
+  "count": 15707,
   "items": [
+    {
+      "id": "4974406",
+      "time": "2026-07-07 20:07:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德福科技今日大宗交易折價成交50萬股，成交額6225萬元】7月7日，德福科技大宗交易成交50萬股，成交額6225萬元，佔當日總成交額的1.53%，成交價124.5元，較市場收盤價126.4元折價1.5%。"
+    },
+    {
+      "id": "4974405",
+      "time": "2026-07-07 20:07:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三花智控今日大宗交易溢價成交305.66萬股，成交額1.41億元】7月7日，三花智控大宗交易成交305.66萬股，成交額1.41億元，佔當日總成交額的2.14%，成交價46.23元，較市場收盤價45.51元溢價1.58%。"
+    },
+    {
+      "id": "4974404",
+      "time": "2026-07-07 20:07:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創今日大宗交易平價成交49.52萬股，成交額5.56億元】7月7日，中際旭創大宗交易成交49.52萬股，成交額5.56億元，佔當日總成交額的1.67%，成交價1121.9元，較市場收盤價1121.9元持平。"
+    },
+    {
+      "id": "4974402",
+      "time": "2026-07-07 20:05:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股通科技30ETF工銀今日大宗交易溢價成交7億股，成交額3.47億元】7月7日，港股通科技30ETF工銀大宗交易成交7億股，成交額3.47億元，佔當日總成交額的12.98%，成交價0.5元，較市場收盤價0.497元溢價0.6%。"
+    },
+    {
+      "id": "4974401",
+      "time": "2026-07-07 20:05:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局與南非貿工部簽署規則標準“軟聯通”合作檔案】據市場監管總局訊息，市場監管總局與南非貿工部於6月29日簽署《中華人民共和國國家市場監督管理總局與南非共和國貿易、工業和競爭部關於加強規則標準“軟聯通”合作諒解備忘錄》。該備忘錄為中國與“一帶一路”共建國家簽署的首個規則標準“軟聯通”合作檔案，為中南雙方深化制度性對接、促進產業鏈供應鏈融合建立“軟聯通”合作機制。下一步，雙方將圍繞重點產業，加強計量體系協同，提升標準一致性水平，推進合格評定結果互認。"
+    },
+    {
+      "id": "mkt:019f3c77-b7ea-7aab-8ccd-c192c933f61f",
+      "time": "2026-07-07 20:05:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US ADP weekly employment change for the week through June 20 due in 10 minutes."
+    },
+    {
+      "id": "4974399",
+      "time": "2026-07-07 20:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所（ICE）：ICE基準管理機構目前負責運營倫敦金銀市場協會（LBMA）鉑金與鈀金定價及拍賣業務。"
+    },
+    {
+      "id": "4974398",
+      "time": "2026-07-07 20:04:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國興業銀行和法國巴黎銀行股價在勒龐裁決後股價延續跌勢。"
+    },
+    {
+      "id": "4974397",
+      "time": "2026-07-07 20:04:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【義烏市屬國有企業入股稠州商業銀行】7月6日，國家金融監督管理總局浙江監管局披露的批覆顯示，同意義烏市市場發展集團有限公司（下稱“義烏市市場發展集團”）的稠州商業銀行股東資格。本次入股後，義烏市市場發展集團持有稠州商業銀行股份242105300股，佔該行增資擴股後總股本的5.00%。公開資料顯示，義烏市市場發展集團為義烏市屬國有企業之一。（介面）"
+    },
     {
       "id": "4974396",
       "time": "2026-07-07 20:04:11",
@@ -144077,18 +144156,6 @@
         "Importance 1"
       ],
       "text": "Brazil Public Deficit Widens to May Record — The Brazilian government posted a nominal budget deficit of BRL 163.7 billion in May of 2026, widening from the BRL 125.9 billion in the corresponding period of the previous year. The result was higher than expectations of a BRL 148.3 billion, the sharpest on record for the month. The deficit of the federal government rose to BRL 55.2 billion in the year. Despite the wider budget shortfall, the deficit remained relatively stable as a shar of the Brazilian GDP at 9.6%. The higher level of public spending was aligned with common patterns in election years in the country. The Brazilian central bank has hinted that elevated deficit spending by the central government, especially direct cash welfare transfers, is among the main culprits of stubborn inflationary pressures. Brazil has among the highest real interest rates in the world."
-    },
-    {
-      "id": "te:economy:562997",
-      "time": "2026-06-30 20:06:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "German Inflation Unexpectedly Slows in June — Germany’s consumer price inflation eased to 2.3% year-over-year in June 2026, down from 2.6% in May and slightly below market expectations of 2.6%, according to preliminary data. This is the lowest rate since February, prior to the Iran war disrupting energy supplies and driving oil prices higher. Goods inflation fell to 1.7% from 2.2%, driven by easing energy price pressures (3.4% vs. 6.6%). Food inflation and services inflation remained steady at 0.4% and 3.1%, respectively, while core inflation, excluding food and energy, held at 2.5%. The EU-harmonized annual inflation rate also slowed to 2.4% from 2.7%, below expectations of 2.6% but still slightly above the ECB’s 2% target."
     }
   ]
 }
