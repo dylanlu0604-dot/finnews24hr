@@ -1,7 +1,37 @@
 {
   "date": "2026-07-08",
-  "count": 440,
+  "count": 443,
   "items": [
+    {
+      "id": "4975041",
+      "time": "2026-07-08 06:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國生物製藥：與阿斯利康就TQC3721簽訂獨家許可協議，阿斯利康獲得TQC3721在中國境外的獨家授權，該協議可獲得2億美元首付款、最高19億美元以及分級特許權使用費。"
+    },
+    {
+      "id": "mkt:019f3e9b-1210-7aab-8cd7-c85e751f495d",
+      "time": "2026-07-08 06:02:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says US strike seriously violates Iran-US Islamabad memorandum】State broadcaster IRIB reported early on the 8th that Iran’s government said the US strike on Iran seriously violates the Iran‑US Islamabad memorandum of understanding."
+    },
+    {
+      "id": "4975040",
+      "time": "2026-07-08 06:02:26",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨下跌7個基點，30年期國債期貨下跌12個基點。"
+    },
     {
       "id": "mkt:019f3e9a-581e-7aab-8cd7-c2cbf60a1791",
       "time": "2026-07-08 06:02:10",
