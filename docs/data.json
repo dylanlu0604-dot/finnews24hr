@@ -1,7 +1,465 @@
 {
-  "updated": "2026-07-08 03:40:37",
-  "count": 15834,
+  "updated": "2026-07-08 04:29:53",
+  "count": 15839,
   "items": [
+    {
+      "id": "4974941",
+      "time": "2026-07-08 04:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "納斯達克釋出醫療資訊化服務商TruBridge合併相關公告，該公司股票預計7月8日為最後交易日。"
+    },
+    {
+      "id": "4974940",
+      "time": "2026-07-08 04:27:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技AWS：為AWS開放資料登錄檔推出MCP伺服器。"
+    },
+    {
+      "id": "4974939",
+      "time": "2026-07-08 04:26:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受美國天氣擔憂以及市場需求回暖訊號推動，芝加哥期貨交易所（CBOT）大豆價格上漲。"
+    },
+    {
+      "id": "4974938",
+      "time": "2026-07-08 04:26:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚：預計第二季度其他中東因素對能源產品的影響為負1億至負3億美元。"
+    },
+    {
+      "id": "4974937",
+      "time": "2026-07-08 04:25:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile：邁克·卡茨將卸任首席業務與產品官一職，將留任顧問至2026年12月。"
+    },
+    {
+      "id": "4974936",
+      "time": "2026-07-08 04:25:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile任命克里斯·桑巴爾為首席企業官，並最佳化領導團隊架構，以推動下一階段戰略增長與創新發展。"
+    },
+    {
+      "id": "4974935",
+      "time": "2026-07-08 04:25:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚：預計第二季度其他中東因素對上游業務的影響區間為負1億美元至正1億美元。"
+    },
+    {
+      "id": "4974934",
+      "time": "2026-07-08 04:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚：預估2026年第二季度受伊朗戰事影響，將產生約12億美元收益損失。"
+    },
+    {
+      "id": "mkt:019f3e41-1539-7aab-8cd6-2c80f2b614a7",
+      "time": "2026-07-08 04:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported U.S. Trade Representative GREER said Canada and Mexico have not fully fulfilled their commitments under the USMCA."
+    },
+    {
+      "id": "4974933",
+      "time": "2026-07-08 04:23:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談及美墨加協定：加拿大與墨西哥並未完全履行全部承諾。"
+    },
+    {
+      "id": "mkt:019f3e3f-b166-7aab-8cd6-20a23e73eb58",
+      "time": "2026-07-08 04:23:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.17% to 101.023 at New York close on the 7th】The dollar index, which measures the currency against six major peers, rose 0.17% to 101.023 at the New York close. The euro traded at $1.1419, down from $1.1443; the pound at $1.3363, down from $1.3395. The dollar was ¥161.94, below ¥162.06 previously; it traded at 0.8076 Swiss francs, above 0.8050; at C$1.4195, below C$1.4209; and at 9.6784 Swedish krona, above 9.6255."
+    },
+    {
+      "id": "4974932",
+      "time": "2026-07-08 04:22:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚：與第一季度相比，利潤率變動將對第二季度能源產品收益產生20億至24億美元的影響。"
+    },
+    {
+      "id": "4974931",
+      "time": "2026-07-08 04:22:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚：預計2026年第二季度油價將為公司帶來37億美元收益增量。"
+    },
+    {
+      "id": "4974930",
+      "time": "2026-07-08 04:22:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚：與第一季度相比，利潤率變動將令第二季度化工產品收益減少10億至12億美元。"
+    },
+    {
+      "id": "4974929",
+      "time": "2026-07-08 04:21:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數7日上漲】美元指數7日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.17%，在匯市尾市收於101.023。截至紐約匯市尾市，1歐元兌換1.1419美元，低於前一交易日的1.1443美元；1英鎊兌換1.3363美元，低於前一交易日的1.3395美元。1美元兌換161.94日元，低於前一交易日的162.06日元；1美元兌換0.8076瑞士法郎，高於前一交易日的0.8050瑞士法郎；1美元兌換1.4195加元，低於前一交易日的1.4209加元；1美元兌換9.6784瑞典克朗，高於前一交易日的9.6255瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f3e3c-e706-7aab-8cd6-1cf1455c861b",
+      "time": "2026-07-08 04:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API crude stocks for the week to July 3 due in 10 minutes."
+    },
+    {
+      "id": "4974928",
+      "time": "2026-07-08 04:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果推出iOS 26.6、macOS Tahoe 26.6等系統的第四個公開測試版。"
+    },
+    {
+      "id": "mkt:019f3e3b-978b-7aab-8cd6-1152c327ea12",
+      "time": "2026-07-08 04:18:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian presidential adviser said an agreement with France covers political, military and economic areas."
+    },
+    {
+      "id": "4974927",
+      "time": "2026-07-08 04:18:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "科蒂集團股價上漲8%，將因提前終止協議獲得約4億美元補償。"
+    },
+    {
+      "id": "4974926",
+      "time": "2026-07-08 04:15:24",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "開雲集團：古馳與歐萊雅提前一年達成一份為期50年的美妝獨家授權協議。"
+    },
+    {
+      "id": "4974925",
+      "time": "2026-07-08 04:14:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月08日04時01分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.8級地震，震源深度6千米。"
+    },
+    {
+      "id": "4974924",
+      "time": "2026-07-08 04:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖顧問稱，美國將把與伊朗的談判引向失敗】伊朗最高領袖顧問穆赫辛・雷扎伊表示，很明顯，美國將把與伊朗的談判引向失敗，美國正試圖在霍爾木茲海峽為其船隻開闢一條替代航道。"
+    },
+    {
+      "id": "mkt:019f3e36-a5a4-7aab-8cd6-096ca05e7e42",
+      "time": "2026-07-08 04:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian presidential adviser said today's incident in Damascus was not unexpected. The explosion did not affect the security perimeter around Macron's motorcade."
+    },
+    {
+      "id": "te:markets:564976",
+      "time": "2026-07-08 04:06:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall on Chipmakers Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers. The S&P 500 fell 0.4%, the Nasdaq 100 dropped 1.8%, and the Dow Jones lost 131 points, pulling back from a record high. Semiconductor stocks came under pressure as investors questioned whether AI hyperscalers can justify elevated infrastructure spending. Samsung's 19-fold surge in quarterly profit failed to support market sentiment, which came under renewed pressure following reports that China's DeepSeek is developing its own AI chip. Broadcom fell 0.8%, Micron lost 4.7%, AMD retreated 6.5%, and Intel slumped 9.7%. Nvidia on the other hand, added 0.7%. Higher bond yields weighed on broader markets after attacks on tankers in the Strait of Hormuz renewed concerns over energy-driven inflation. Visa fell 1.4%, while Caterpillar lost 3.1%."
+    },
+    {
+      "id": "4974923",
+      "time": "2026-07-08 04:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本清水建設株式會社同時也在開發機械臂型機器人，用於完成噴漆與抹灰等專業性複雜作業。"
+    },
+    {
+      "id": "mkt:019f3e2f-e9cd-7aab-8cd6-05b6fd55235a",
+      "time": "2026-07-08 04:05:55",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity benchmarks closed lower on Tuesday, July 7: the Dow Jones Industrial Average fell 131.35 points, or 0.25%, to 52,924.56; the S&P 500 dropped 33.66 points, or 0.45%, to 7,503.77; the Nasdaq Composite slid 302.47 points, or 1.16%, to 25,818.69."
+    },
+    {
+      "id": "4974922",
+      "time": "2026-07-08 04:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方談判人員仍在積極推進磋商，力求（與伊朗）達成最終協議。"
+    },
+    {
+      "id": "mkt:019f3e2d-60b2-7aab-8cd5-fe4906fcdb71",
+      "time": "2026-07-08 04:03:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An adviser to Iran's supreme leader, Rezaei, told opponents of negotiations to be patient, saying the Americans will destroy the talks themselves."
+    },
+    {
+      "id": "4974921",
+      "time": "2026-07-08 04:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月08日04時01分在四川宜賓市高縣附近（北緯28.54度，東經104.68度）發生3.7級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4974920",
+      "time": "2026-07-08 04:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "RIVIAN汽車股價收盤下跌18%，創2024年2月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019f3e2b-f2cf-7aab-8cd5-f2d4b7fff1fe",
+      "time": "2026-07-08 04:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SNDK.O",
+        "Impact bearish",
+        "WDC.O",
+        "MU.O"
+      ],
+      "text": "【U.S. stocks close lower; SanDisk down 7%】U.S. equities closed lower on Tuesday: the Dow fell 0.25%, the S&P 500 fell 0.45% and the Nasdaq fell 1.16%. Storage-chip names extended losses—SanDisk (SNDK.O) -7%, Western Digital (WDC.O) down nearly 8%, Micron Technology (MU.O) -4.7%. SpaceX (SPCX.O) slid about 7%. The Nasdaq Golden Dragon China Index fell 0.57%; iQiyi (IQ.O) dropped nearly 7%."
+    },
+    {
+      "id": "4974919",
+      "time": "2026-07-08 04:01:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SPACEX股價下跌6.8%，收於IPO以來最低。"
+    },
+    {
+      "id": "4974918",
+      "time": "2026-07-08 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.25%，標普500指數跌0.45%，納指跌1.15%。英特爾跌9.72%，泰瑞達跌9.59%，Generac控股跌8.56%，西部資料跌7.86%，邁威爾科技跌7.45%。“七姐妹”方面：Meta Platforms漲2.53%，亞馬遜漲0.73%，英偉達漲0.68%，微軟漲0.48%，谷歌跌0.41%，蘋果跌0.72%，特斯拉跌4.02%。"
+    },
+    {
+      "id": "mkt:019f3e2b-07e8-7aab-8cd5-e82db631310e",
+      "time": "2026-07-08 04:00:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Adviser to Iran's supreme leader Rezai said the US is seeking to have its warships transit the Strait of Hormuz."
+    },
+    {
+      "id": "4974917",
+      "time": "2026-07-08 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.64%】中比能源跌7.81%，禾賽科技跌7.58%，盛豐物流跌7.12%，中進醫療跌7.07%，嘉楠科技跌6.21%。"
+    },
+    {
+      "id": "4974916",
+      "time": "2026-07-08 03:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問穆赫辛·禮薩伊表示：形勢十分明朗，美國會將這場談判引向失敗。"
+    },
+    {
+      "id": "mkt:019f3e28-f8e6-7aab-8cd5-e08a6757b18f",
+      "time": "2026-07-08 03:58:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars news agency reported Iran's Major General Razai said it is clear the US will cause the negotiations to fail."
+    },
+    {
+      "id": "mkt:019f3e26-b622-7aab-8cd5-d9254750be2d",
+      "time": "2026-07-08 03:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan cargo plane missing en route to Karachi】A K2Airways Boeing 737 cargo aircraft went missing on the evening of the 7th while flying from Sharjah, UAE, to Karachi. Pakistan airport authority said the aircraft reported a navigation-system fault at 21:18 Pakistan time and requested guidance from Karachi area control; radar at 21:21 showed a sudden rapid descent and abrupt heading change, and contact was lost about 155 nm (≈287 km) west of Karachi. Five crew were onboard. Pakistan’s search-and-rescue coordination centre launched an emergency response and is coordinating multi-agency searches in the area."
+    },
+    {
+      "id": "4974915",
+      "time": "2026-07-08 03:54:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴基斯坦一貨機在飛往卡拉奇途中失聯】據巴基斯坦機場管理局當地時間7日晚通報，一架隸屬於巴基斯坦K2航空（K2 Airways）的波音737貨機當晚在執行從阿聯酋沙迦飛往巴基斯坦卡拉奇的貨運航班任務時，在距離卡拉奇以西約155海里（約287公里）處失聯。據巴基斯坦機場管理局的通報，巴基斯坦當地時間7日21時18分，該貨機報告導航系統出現故障，需要獲得卡拉奇區域管制中心的引導協助；之後在21時21分，雷達顯示飛機突然快速下降，並伴隨航向急劇改變。此後，飛機在距離卡拉奇以西約155海里處失聯。事故發生後，巴基斯坦搜救協調中心立即啟動應急響應，並協調多個部門在相關海域展開聯合搜救行動，尋找失聯飛機。據瞭解，失聯貨機上共有5名機組人員。K2航空是巴基斯坦一家民營貨運航空公司。（央視新聞）"
+    },
+    {
+      "id": "4974913",
+      "time": "2026-07-08 03:51:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉宣佈國有石化企業佩基文公司（Pequiven）和國家稅務管理局（Seniat）領導層人事變動。"
+    },
+    {
+      "id": "4974912",
+      "time": "2026-07-08 03:49:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼對挪威首相表示： 下一屆世界盃，若能把哈蘭德借我們用一用，我們將不勝感激。"
+    },
+    {
+      "id": "4974911",
+      "time": "2026-07-08 03:49:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事會就修訂銀行反洗錢制度相關監管規定的提案徵求公眾意見】美聯儲理事會週二釋出提案，徵求公眾意見，擬修訂針對銀行建立反洗錢合規體系的監管要求。本次修訂旨在與其餘四家監管機構各自提出的反洗錢制度新規保持統一標準。提案包含多項調整，核心要求銀行依據風險等級分配反洗錢核查資源，加大對高風險客戶與業務活動的審查力度。修訂方案同時規定，銀行需將美國金融犯罪執法網路劃定的反洗錢重點監管事項納入自身風險評估流程。依照該提案，銀行搭建起合規反洗錢體系後，美聯儲後續監管與執法工作將重點針對體系執行層面的重大疏漏開展。公眾可在《聯邦公報》刊登該提案後的60天內提交意見。"
+    },
+    {
+      "id": "4974910",
+      "time": "2026-07-08 03:46:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：明天上午將在戈蘭高地舉行軍事演習。"
+    },
+    {
+      "id": "4974909",
+      "time": "2026-07-08 03:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗駁斥卡達船隻遇襲相關指控 警示違規航行存風險】伊朗外交部發言人巴加埃表示，卡達就霍爾木茲海峽一艘關聯該國的船隻遇襲一事提出的指控令人費解，此舉有悖睦鄰友好關係，同時警告未按協調航線航行的船隻將面臨安全風險。巴加埃稱，商船若不與伊朗協調航線，或是擅自篡改船舶追蹤系統，會滋生安全隱患，也會破壞伊朗為保障霍爾木茲海峽通航安全所做的努力。巴加埃表示，伊朗正嚴格履行霍爾木茲海峽管控措施諒解備忘錄項下自身承擔的各項義務。他敦促地區各國及航運企業，切勿採取任何違背該備忘錄條款的行為。"
+    },
+    {
+      "id": "mkt:019f3e1c-0f4d-7aab-8cd5-d647f3bf5e8c",
+      "time": "2026-07-08 03:44:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Gulf Cooperation Council secretary-general said the attack on a Saudi tanker reflects that Iran’s hostile actions are continuing."
+    },
+    {
+      "id": "4974908",
+      "time": "2026-07-08 03:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "一個民權組織在聯邦訴訟中指控，特朗普政府正向伊朗政府提供尋求在美國庇護的伊朗人的機密資訊。"
+    },
+    {
+      "id": "4974907",
+      "time": "2026-07-08 03:43:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "油輪追蹤TankerTrackers：伊朗今日將在哈爾克島裝運600萬桶原油。"
+    },
+    {
+      "id": "4974906",
+      "time": "2026-07-08 03:41:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國會議員將敦促財政部長貝森特支援對俄羅斯實施更嚴厲制裁，目前這項兩黨聯合法案在國會陷入停滯。"
+    },
+    {
+      "id": "mkt:019f3e19-9584-7aab-8cd5-c86479fd316a",
+      "time": "2026-07-08 03:41:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French far‑right leader Marine Le Pen announces 2027 presidential bid】Marine Le Pen, leader of the National Rally and chair of its parliamentary group in the National Assembly, said on the evening of July 7 she will run in the 2027 presidential election. Le Pen has polled strongly in recent French surveys and has run three times previously, reaching the second round in 2017 and 2022 but losing both to President Emmanuel Macron. Earlier on July 7 the Paris Court of Appeal upheld her conviction for misappropriation of public funds but amended her sentence, restoring her legal eligibility to stand in 2027."
+    },
+    {
+      "id": "mkt:019f3e18-f6ec-7aab-8cd5-c3faae56b0d1",
+      "time": "2026-07-08 03:40:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Gulf Cooperation Council secretary-general said Iran's attack on a Saudi tanker is a \"criminal act\" and threatens maritime security and energy supplies."
+    },
+    {
+      "id": "4974905",
+      "time": "2026-07-08 03:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國極右翼領導人宣佈參選總統】當地時間7月7日晚，法國極右翼領導人、國民聯盟在法國國民議會的黨團主席瑪麗娜·勒龐在法國電視一臺節目中宣佈，她將參加2027年總統競選。勒龐在法國近期民調中表現突出。她曾3次競選法國總統，在2017年、2022年的選舉中進入第二輪投票，但都輸給了現任總統馬克龍。 巴黎上訴法院當天早些時候作出判決，維持此前對勒龐挪用公款案的有罪判決，但對其刑罰做出調整，從而使其具備參加2027年競選的資格。（CCTV國際時訊）"
+    },
     {
       "id": "4974904",
       "time": "2026-07-08 03:39:50",
@@ -144832,466 +145290,6 @@
         "MKT News"
       ],
       "text": "【US official: Iran has not received $6 bln in frozen assets; release conditional on MOU compliance】A US government official said on Tuesday that Iran has not received any of about $6 billion in frozen US assets that Washington pledged to unlock under a memorandum of understanding aimed at bringing Tehran back to talks in Qatar. The official said no funds have been unfrozen and none will be released unless Iran meets the specific benchmarks in the MOU. While Iran seeks a lump-sum payment, the US plans small, phased direct payments to vendors as Tehran advances key negotiation areas."
-    },
-    {
-      "id": "mkt:019f1a38-a326-7aab-8c42-e231ec519d08",
-      "time": "2026-07-01 04:29:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he will do everything possible to win the upcoming election."
-    },
-    {
-      "id": "mkt:019f1a38-1d9e-7aab-8c42-d87adc7e2bcd",
-      "time": "2026-07-01 04:28:32",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "A US judge ruled to block a Trump administration rule that would have restricted federal student-loan forgiveness from taking effect."
-    },
-    {
-      "id": "mkt:019f1a34-700b-7aab-8c42-d33c37119dc2",
-      "time": "2026-07-01 04:24:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.1-magnitude earthquake hits northern Mexico】Mexico's National Seismological Service said a magnitude-6.1 earthquake struck about 116 km southwest of Guasave in Sinaloa, northern Mexico, at 13:45 local time on June 30, with an estimated depth of roughly 5 km. No casualties have been reported."
-    },
-    {
-      "id": "4963667",
-      "time": "2026-07-01 04:22:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥北部發生6.1級地震】據墨西哥國家地震監測局釋出的訊息，當地時間6月30日13時45分，墨西哥北部錫那羅亞州瓜薩沃市西南方向約116公里處發生6.1級地震，震源深度約5公里。目前沒有人員傷亡的報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f1a30-5d84-7aab-8c42-c8d2e165667e",
-      "time": "2026-07-01 04:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "API U.S. weekly crude inventories for the week to June 26 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019f1a2f-0ccf-7aab-8c42-c6cff021516a",
-      "time": "2026-07-01 04:18:38",
-      "tags": [
-        "MKT News",
-        "NKE.O",
-        "Impact bullish"
-      ],
-      "text": "Nike (NKE.N) reported Q4 revenue $10.972 bln, above market consensus $10.859 bln."
-    },
-    {
-      "id": "te:markets:563105",
-      "time": "2026-07-01 04:17:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Nike earnings below expectations at 0.20 USD — Nike (NKE) released earnings per share at 0.20 USD, compared to market expectations of 0.22 USD."
-    },
-    {
-      "id": "te:markets:563104",
-      "time": "2026-07-01 04:17:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise on Tech Rally — US stock indexes closed higher on Tuesday, supported by strength in the technology sector and easing inflation risks. The S&P 500 gained 0.8%, while the Nasdaq-100 rose 1.7%, and the Dow Jones added 137 points to close at a record high of 52,319. Chipmakers extended their rebound from last week as investors looked past recent concerns over stretched AI-related valuations, encouraged by strong guidance from semiconductor producers despite elevated hyperscaler spending. Nvidia gained 2.6%, AMD rose 7.7%, and Intel advanced 6%. Meanwhile, oil prices remained near pre-conflict levels, easing concerns that the Federal Reserve could be forced to tighten policy further. The softer inflation backdrop also supported traditional sectors, helping the Dow outperform broader benchmarks in June."
-    },
-    {
-      "id": "mkt:019f1a2d-622c-7aab-8c42-be3dadd2b4eb",
-      "time": "2026-07-01 04:16:49",
-      "tags": [
-        "MKT News",
-        "DISH.O",
-        "Impact bearish"
-      ],
-      "text": "Market sources: DISH DBS has filed for Chapter 11 bankruptcy protection and entered debt-restructuring proceedings."
-    },
-    {
-      "id": "4963666",
-      "time": "2026-07-01 04:16:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "“大空頭”Michael Burry： 做空特斯拉、英偉達和應用材料。"
-    },
-    {
-      "id": "4963665",
-      "time": "2026-07-01 04:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克第四季度營收 109.7 億美元，去年同期為 111 億美元。"
-    },
-    {
-      "id": "4963664",
-      "time": "2026-07-01 04:12:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "“大空頭”Michael Burry： 首次做空卡特彼勒公司股票。"
-    },
-    {
-      "id": "4963663",
-      "time": "2026-07-01 04:11:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及、土耳其同哈馬斯討論落實加沙停火事宜】埃及與土耳其情報官員30日在埃及首都開羅同巴勒斯坦伊斯蘭抵抗運動（哈馬斯）多名高階官員舉行會晤，就落實加沙停火事宜展開討論。據埃及方面訊息，由哈利勒·哈亞、哈立德·邁沙阿勒等哈馬斯高階官員組成的代表團當日早些時候抵達開羅，恢復關於加沙停火第二階段的談判。埃及情報總局局長哈桑·拉沙德與土耳其國家情報局局長卡林同哈馬斯代表團舉行會談。據悉，三方當天的會談取得“積極進展”。各方對美國提出的結束加沙衝突計劃持樂觀看法。哈馬斯官員確認將全力支援和落實該計劃。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f1a27-f89c-7aab-8c42-b2c272418dd6",
-      "time": "2026-07-01 04:10:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu: Israel's war 'never-ending', confrontation with Iran 'far from over'】On June 30, Israeli Prime Minister Netanyahu told Channel 14 TV that Israel has achieved \"significant military successes\" in recent years and is \"stronger than ever,\" but that its fighting is \"never-ending\" and confronting Iran and its allies remains \"a long way off.\" He said Israel has \"successfully repelled and greatly weakened\" related security threats but still must carry out follow-up military operations. Asked about possible future peace agreements, he declined to name countries, saying Israel is in contact with multiple states and that only by remaining strong will others ally and make peace."
-    },
-    {
-      "id": "mkt:019f1a27-e6a4-7aab-8c42-af639245d647",
-      "time": "2026-07-01 04:10:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Magnificent 7",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "The US Magnificent Seven index fell 8.9% in June, its worst monthly performance since March 2025."
-    },
-    {
-      "id": "mkt:019f1a26-8053-7aab-8c42-a0e230d0ec1f",
-      "time": "2026-07-01 04:09:18",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average closed up 135.07 points (+0.26%) at 52,317.81 on Tuesday, June 30; S&P 500 closed up 58.57 points (+0.79%) at 7,499.00; Nasdaq Composite closed up 393.58 points (+1.52%) at 26,213.72."
-    },
-    {
-      "id": "mkt:019f1a24-828d-7aab-8c42-99acfcee36bb",
-      "time": "2026-07-01 04:07:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. added an average of 1,200 new millionaires per day last year, the Wall Street Journal reports."
-    },
-    {
-      "id": "mkt:019f1a23-96b6-7aab-8c42-9110a59f6ea8",
-      "time": "2026-07-01 04:06:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NYT reports U.S. officials say Washington has not released USD 6 bln in frozen Iranian funds for humanitarian supplies under the memorandum of understanding and will not unfreeze the funds until Tehran fulfils its commitments under the MOU."
-    },
-    {
-      "id": "mkt:019f1a23-897b-7aab-8c42-8f021bab9c70",
-      "time": "2026-07-01 04:06:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Meta Platforms",
-        "Alphabet",
-        "Apple",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "NVDA.O"
-      ],
-      "text": "【US equities 1H close: Nasdaq +12.8%; Big Seven divergence】US equities closed 1H 2026 with the Nasdaq up 12.79%, the S&P 500 up 9.5% and the Dow up 8.8%. Memory and semiconductor stocks outperformed: SanDisk (SNDK) +857% — the top S&P 500 gainer; Micron (MU) +304%, with market value surpassing $1 trillion for the first time; Intel (INTC) +278%; Western Digital (WDC) +270%. Among the seven largest tech names, Microsoft (MSFT) led declines, down more than 22%; Meta (META) -14%; Tesla (TSLA) -6%. Gains included Alphabet A (GOOGL) +14%, Apple (AAPL) +6%, Amazon (AMZN) +3% and NVIDIA (NVDA) +7%."
-    },
-    {
-      "id": "mkt:019f1a22-2139-7aab-8c42-84db986b0c5b",
-      "time": "2026-07-01 04:04:32",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【US dollar index up on 30th】The US dollar index rose 0.08% to 101.187 at the FX close. EUR/USD 1.1420, down from 1.1425; GBP/USD 1.3255, down from 1.3257. USD/JPY 162.62, up from 161.97; USD/CHF 0.8083, up from 0.8075; USD/CAD 1.4204, up from 1.4203; USD/SEK 9.7005, down from 9.7084."
-    },
-    {
-      "id": "4963661",
-      "time": "2026-07-01 04:04:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "《紐約郵報》援引美國政府官員訊息：美方尚未釋放諒解備忘錄中規定的 60 億美元伊朗凍結資產用於人道主義物資採購，在德黑蘭兌現相關條件前不會解凍這筆資金。"
-    },
-    {
-      "id": "mkt:019f1a21-aec6-7aab-8c42-7975567a219e",
-      "time": "2026-07-01 04:04:02",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "In Q2, the S&P 500 rose 14.9%, the Dow gained 12.9% and the Nasdaq climbed 21.4%."
-    },
-    {
-      "id": "4963660",
-      "time": "2026-07-01 04:03:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Circle Internet收跌18%，創3月份以來最差單日表現。"
-    },
-    {
-      "id": "4963659",
-      "time": "2026-07-01 04:03:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：墨西哥埃爾普羅格雷索西南偏南75公里處發生6級地震。"
-    },
-    {
-      "id": "4963658",
-      "time": "2026-07-01 04:03:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普 500 指數與納斯達克指數創下 2020 年二季度以來最大季度漲幅。\n本季度，標普 500 指數上漲 14.9%，道瓊斯工業平均指數上漲 12.9%，納斯達克指數上漲 21.4%。\n本月，標普 500 指數下跌 1.1%，道瓊斯指數上漲 2.5%，納斯達克指數下跌 2.8%。"
-    },
-    {
-      "id": "4963657",
-      "time": "2026-07-01 04:02:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數30日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於101.187。截至紐約匯市尾市，1歐元兌換1.1420美元，低於前一交易日的1.1425美元；1英鎊兌換1.3255美元，低於前一交易日的1.3257美元。1美元兌換162.62日元，高於前一交易日的161.97日元；1美元兌換0.8083瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4204加元，高於前一交易日的1.4203加元；1美元兌換9.7005瑞典克朗，低於前一交易日的9.7084瑞典克朗。"
-    },
-    {
-      "id": "4963656",
-      "time": "2026-07-01 04:01:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出面向表格資料的 TabFM 基礎大模型。"
-    },
-    {
-      "id": "mkt:019f1a1e-cfc2-7aab-8c42-750028000501",
-      "time": "2026-07-01 04:00:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "SNDK.O",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "【US close: major indexes up; SanDisk jumps >10%】U.S. equities closed higher Tuesday: Dow Jones +0.26%, S&P 500 +0.78%, Nasdaq +1.52%. Apple (AAPL.O) and NVIDIA (NVDA.O) rose around 2%; Micron (MU.O) nearly +1%. SpaceX (SPCX.O) +4%; SanDisk (SNDK.O) surged more than 10%. Nasdaq Golden Dragon China Index +0.63%; XPeng (XPEV.N) +3.4%."
-    },
-    {
-      "id": "4963655",
-      "time": "2026-07-01 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.26%，標普500指數漲0.78%，納指漲1.50%。閃迪漲10.72%，Axon Enterprise漲9.84%，VRT漲8.99%，科磊漲8.54%。“七姐妹”方面：蘋果漲2.59%，英偉達漲2.56%，特斯拉漲2.16%，微軟漲1.22%，谷歌漲0.61%，Meta Platforms漲0.14%，亞馬遜跌0.76%。"
-    },
-    {
-      "id": "4963654",
-      "time": "2026-07-01 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.71%】Tims中國漲18.85%，禾賽科技漲15.64%，阿特斯漲8.50%，世紀互聯漲7.12%，億咖通科技漲7.50%。"
-    },
-    {
-      "id": "4963653",
-      "time": "2026-07-01 03:59:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：美國國內本身也存在分歧。 能明顯看到，美國國務卿魯比奧持一套立場，而副總統萬斯則持另一套截然不同的主張。"
-    },
-    {
-      "id": "4963652",
-      "time": "2026-07-01 03:58:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 伊朗石油均按照布倫特原油價格及國際市場行情定價出售。"
-    },
-    {
-      "id": "mkt:019f1a1c-3dd6-7aab-8c42-682be8d60fef",
-      "time": "2026-07-01 03:58:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran parliament speaker Ghalibaf said Iranian oil is being sold at Brent and other international market prices."
-    },
-    {
-      "id": "4963651",
-      "time": "2026-07-01 03:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震死亡人數升至1943人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯30日表示，該國日前發生的兩次強震已造成1943人死亡、10571人受傷，28380人在醫療機構和野戰醫院接受救治。"
-    },
-    {
-      "id": "te:economy:563102",
-      "time": "2026-07-01 03:55:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Central Bank Rises Interest Rates in June — The Central Bank of Colombia raised its benchmark interest rate by 75 basis points to 12% at its June 30 meeting, tightening policy as inflationary pressures intensified. Policymakers noted that inflation continued to accelerate, with headline inflation reaching 5.8% in May and core inflation rising to 6.0%, moving further away from the bank’s 3% target. Inflation expectations also remained elevated across all horizons despite some easing in June. Economic activity showed resilience, with GDP growth accelerating to 2.2% year-on-year in the first quarter, above the 2.0% expansion in the previous quarter, while domestic demand continued to outpace output. The labor market also remained strong, with unemployment at a historically low 8.0% in May and wages rising significantly. The board said the rate hike aims to steer inflation back onto a downward path, while future policy decisions will depend on incoming data and evolving external risks."
-    },
-    {
-      "id": "mkt:019f1a1a-0d2c-7aab-8c42-60a2f8aaa22d",
-      "time": "2026-07-01 03:55:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ (German Research Centre for Geosciences): M5.65 earthquake in the Gulf of California."
-    },
-    {
-      "id": "mkt:019f1a19-30ec-7aab-8c42-59c13abe18ec",
-      "time": "2026-07-01 03:54:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold turned lower, last $4,016/oz."
-    },
-    {
-      "id": "4963650",
-      "time": "2026-07-01 03:53:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【6月份兩年期美債實際收益率漲超77個基點，二季度兩年期收益率漲超35個基點】週二（6月30日）紐約尾盤，美國10年期國債收益率漲5.72個基點，重新整理日高至4.4316%，6月份持平，二季度累漲11.70個基點。兩年期美債收益率漲4.11個基點，重新整理日高至4.1455%，6月份累計上漲14.35個基點，二季度累漲35.25個基點；30年期美債收益率漲5.63個基點，重新整理日高至4.9193%，6月份累跌5.03個基點。2/10年期美債收益率利差漲1.814個基點，報+28.401個基點，6月份累跌14.132個基點。10年期通脹保值國債（TIPS）收益率漲4.72個基點，重新整理日高至2.1924%，6月份累漲16.40個基點；兩年期TIPS收益率漲5.10個基點，至重新整理日高至2.1487%，6月份累漲77.59個基點，二季度累漲160.12個基點；30年期TIPS收益率漲5.74個基點，重新整理日高至2.7482%。"
-    },
-    {
-      "id": "4963649",
-      "time": "2026-07-01 03:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全美最大電網面臨破紀錄高溫，緊急狀態令已下達】為應對一場可能使電力基礎設施承壓的危險熱浪，特朗普政府已宣佈全美最大的能源電網進入電力緊急狀態。美國能源部（DOE）週二釋出的緊急命令授權 PJM Interconnection LLC 地區的發電廠以最大負荷執行，並允許其超出部分環保要求。PJM 電網覆蓋 13 個州，為 6700 萬人口提供電力服務。能源部發布的第二項命令授權 PJM 地區“作為最後手段”啟用備用發電機。PJM 表示，這兩項命令的有效期均持續至紐約時間 7 月 3 日晚上 11:59。"
-    },
-    {
-      "id": "mkt:019f1a0f-f029-7aab-8c42-52374797635d",
-      "time": "2026-07-01 03:44:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, Iran's parliament speaker Ghalibaf said the US is internally divided, with Rubio taking one route and Vance another."
-    },
-    {
-      "id": "te:economy:563101",
-      "time": "2026-07-01 03:44:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Non Farm Payrolls",
-        "Importance 1"
-      ],
-      "text": "Brazil Job Creation Slows in May — Brazil created 72,960 formal jobs in May 2026, below April’s 85,888, marking the lowest level of job creation in 2026 so far. The result reflected 2.21 million hires and 2.13 million layoffs during the month. In the first five months of the year, Brazil generated 767,326 formal jobs, lifting the total stock of formal employment to 47.88 million. Services led job creation with 45,655 new positions, followed by construction (+12,096), agriculture (+10,205), and industry (+4,974), while commerce was broadly flat with just 40 net jobs. Regionally, 22 of Brazil’s 27 states posted positive job balances, led by São Paulo (+18,224), Espírito Santo (+9,532), and Rio de Janeiro (+9,195). Meanwhile, the average starting salary fell to R$2,384.10 in May from R$2,402.07 in April."
-    },
-    {
-      "id": "mkt:019f1a0e-3489-7aab-8c42-4b0e8a563737",
-      "time": "2026-07-01 03:42:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "wright said Iran has shown no sign of cooperation to date. He said continued oil transit through the Strait of Hormuz is enabled by protection from the U.S. MILITARY."
-    },
-    {
-      "id": "4963648",
-      "time": "2026-07-01 03:42:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Kann News：以色列安全官員表示，目前沒有明確的時間表。撤軍將會發生，但必須以“適當方式”進行。以軍撤軍只有在明確標準確立後才會進行。這些標準包括黎巴嫩軍隊承諾立即對真主黨武裝人員及其基礎設施採取行動。"
-    },
-    {
-      "id": "mkt:019f1a0d-744c-7aab-8c42-448fbf6518b3",
-      "time": "2026-07-01 03:41:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Kann News: Israeli security officials said the IDF will withdraw only after clear criteria are established; those criteria include a Lebanese army commitment to immediately act against Hezbollah fighters and their infrastructure."
-    },
-    {
-      "id": "4963647",
-      "time": "2026-07-01 03:41:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部預測， 債務佔比將自 2030 年起逐步回落，至 2036 年降至國內生產總值的 83.1%"
-    },
-    {
-      "id": "mkt:019f1a0c-fc94-7aab-8c42-3d8b783e4483",
-      "time": "2026-07-01 03:41:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kann News reported Israeli security officials said there is currently no firm timetable for a troop withdrawal; the withdrawal will occur but must be carried out in an 'appropriate manner'."
     }
   ]
 }
