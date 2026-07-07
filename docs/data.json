@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-08 03:03:15",
-  "count": 15838,
+  "updated": "2026-07-08 03:07:00",
+  "count": 15839,
   "items": [
+    {
+      "id": "4974863",
+      "time": "2026-07-08 03:03:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "受油價上漲提振，美元現貨指數升至日內高點。"
+    },
+    {
+      "id": "4974862",
+      "time": "2026-07-08 03:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "半導體行業組織、麥肯錫與美國國家科學基金會研究顯示，到2030年，晶片行業或面臨最多15.7萬個崗位缺口。"
+    },
+    {
+      "id": "mkt:019f3df6-b681-7aab-8cd5-6d97dc18b6f5",
+      "time": "2026-07-08 03:03:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "A study by a semiconductor industry group, McKinsey and the U.S. National Science Foundation estimates the chip industry could face a shortfall of up to 157,000 workers by 2030."
+    },
+    {
+      "id": "4974861",
+      "time": "2026-07-08 03:03:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀下跌3%，至每盎司60.16美元。"
+    },
+    {
+      "id": "4974860",
+      "time": "2026-07-08 03:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大增長基金：泰克資源將投資4億加元，總投資額最高可達8.5億加元。"
+    },
+    {
+      "id": "mkt:019f3df5-f62a-7aab-8cd5-6204c10a1bce",
+      "time": "2026-07-08 03:02:37",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.11% at 23,499, a 2-point premium to the spot index."
+    },
     {
       "id": "4974859",
       "time": "2026-07-08 03:02:08",
@@ -145307,48 +145361,6 @@
         "國際"
       ],
       "text": "伊朗議會議長卡利巴夫：將成立由伊朗、美國及黎巴嫩參與的聯合委員會，推動黎巴嫩主權與停火落實，伊朗駐外代表將參與該機制。自瑞士之行後，黎巴嫩的火力衝突與傷亡規模呈下降趨勢，但仍存在問題。前往瑞士的訪問也是圍繞五項條款執行情況進行溝通。對話的目的只是推動既有談判成果落地。"
-    },
-    {
-      "id": "mkt:019f19ed-364f-7aab-8c41-3f2b1b3f1a63",
-      "time": "2026-07-01 03:06:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said his visit to Switzerland also focused on discussions over implementation of five terms, and that the talks' sole purpose was to press for implementation of existing negotiation outcomes."
-    },
-    {
-      "id": "mkt:019f19ec-5bd1-7aab-8c41-33002f1049f2",
-      "time": "2026-07-01 03:05:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said that since his trip to Switzerland the intensity of armed exchanges and the scale of casualties in Lebanon have trended down, but problems remain."
-    },
-    {
-      "id": "4963619",
-      "time": "2026-07-01 03:05:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7880元，較週一夜盤收盤漲80點。成交量551.49億美元。"
-    },
-    {
-      "id": "mkt:019f19eb-6e02-7aab-8c41-2d768cb74617",
-      "time": "2026-07-01 03:04:47",
-      "tags": [
-        "MKT News",
-        "PBR.O",
-        "Impact bearish"
-      ],
-      "text": "Brazil's finance minister said fuel prices remain slightly above pre-war levels, which partly supports retaining some subsidy measures."
-    },
-    {
-      "id": "mkt:019f19ea-26cc-7aab-8c41-23af4aadcce5",
-      "time": "2026-07-01 03:03:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ghalibaf said uranium enrichment rights are a core, non-negotiable component of Iran's national strength."
     }
   ]
 }
