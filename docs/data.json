@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-08 04:29:53",
-  "count": 15839,
+  "updated": "2026-07-08 04:33:44",
+  "count": 15836,
   "items": [
+    {
+      "id": "te:markets:564978",
+      "time": "2026-07-08 04:32:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Energy Gains Offset Mining Losses — The S&P/TSX Composite Index gained 0.2% to close at 35,273 on Tuesday, supported by the energy sector and strong trade data. Canadian Natural rose 3.2%, Suncor added 3.2%, Imperial Oil gained 3%, and Cenovus advanced 3.5% as oil prices climbed after reports that the US would revoke the waiver allowing Iran to sell its oil following recent attacks on tankers in the Strait of Hormuz. Financials traded mixed as investors awaited the minutes from the Fed's June meeting for clues on monetary policy. RBC gained 0.5%, TD Bank rose 0.6%, and BMO added 1.2%, while Scotiabank and Brookfield lost 1%. Meanwhile, lower gold prices weighed on miners, with Agnico Eagle and WPM falling 3.2% and Barrick dropping 3.5%."
+    },
+    {
+      "id": "4974943",
+      "time": "2026-07-08 04:32:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "火箭實驗室（Rocket Lab）宣佈為美國太空軍執行的發射任務圓滿成功。"
+    },
+    {
+      "id": "4974942",
+      "time": "2026-07-08 04:29:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沃倫就五角大樓人工智慧合作協議質詢英偉達、SpaceX與谷歌】美國參議員辦公室郵件宣告顯示，民主黨參議員伊麗莎白·沃倫已致函谷歌、SpaceX、英偉達、Reflection AI,、微軟、亞馬遜雲科技、甲骨文以及美國國防部，質詢五角大樓在軍事行動中運用人工智慧相關事宜。沃倫在聯名信函中要求上述各家企業完整公開其與五角大樓簽訂的全部合同文字。沃倫向相關企業表示，五角大樓稱相關合作協議允許政府將企業技術用於大規模監控行動、研發致命自主武器等場景，對此她深感擔憂。沃倫要求各方於7月20日前就以下問題作出答覆：1. 合同涵蓋範圍，包括哪些產品與服務被應用於涉密系統；2. 人工智慧技術的具體應用場景；3. 相關協議是否允許五角大樓將人工智慧用於前述監控活動或武器研發。"
+    },
     {
       "id": "4974941",
       "time": "2026-07-08 04:28:27",
@@ -145230,66 +145259,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡談及加沙問題：至於在加沙重建定居點一事，必須先採取行動，再進行談判。有些時候，行動與談判應當分開推進，這也是我不再就此話題多做闡述的原因。大家要明白，治國之道不只是處理國內政治事務。我無需每時每刻向全世界公開所有計劃。"
-    },
-    {
-      "id": "4963669",
-      "time": "2026-07-01 04:31:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證交會（SEC）檔案，英偉達公司股東批准一項提案，將“超級多數投票規則”改為“簡單多數投票標準”。英偉達公司股東批准關於高管薪酬的“諮詢性投票”議案。公司股東批准選舉全部10名董事候選人，任期延續至2027年年度股東大會。"
-    },
-    {
-      "id": "mkt:019f1a3a-41dd-7aab-8c43-01f87b4c182e",
-      "time": "2026-07-01 04:30:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "SEC filing shows NVIDIA (NVDA.O) shareholders approved the election of all 10 director nominees; terms run through the company’s 2027 annual meeting."
-    },
-    {
-      "id": "mkt:019f1a3a-1f18-7aab-8c42-fa7b9493cb3d",
-      "time": "2026-07-01 04:30:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) shareholders approved an advisory vote on executive compensation, according to an SEC filing."
-    },
-    {
-      "id": "4963668",
-      "time": "2026-07-01 04:30:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塞爾維亞能源部長表示，塞爾維亞境內由俄羅斯控股的尼什石油公司（NIS）獲得美國製裁豁免，豁免有效期至 7 月 31 日。"
-    },
-    {
-      "id": "mkt:019f1a39-fd7e-7aab-8c42-f12ccac364b3",
-      "time": "2026-07-01 04:30:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Per a U.S. SEC filing, NVIDIA (NVDA.O) shareholders approved a proposal to replace the company's supermajority voting requirement with a simple majority voting standard."
-    },
-    {
-      "id": "mkt:019f1a39-b4d7-7aab-8c42-e8ba53844310",
-      "time": "2026-07-01 04:30:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US official: Iran has not received $6 bln in frozen assets; release conditional on MOU compliance】A US government official said on Tuesday that Iran has not received any of about $6 billion in frozen US assets that Washington pledged to unlock under a memorandum of understanding aimed at bringing Tehran back to talks in Qatar. The official said no funds have been unfrozen and none will be released unless Iran meets the specific benchmarks in the MOU. While Iran seeks a lump-sum payment, the US plans small, phased direct payments to vendors as Tehran advances key negotiation areas."
     }
   ]
 }
