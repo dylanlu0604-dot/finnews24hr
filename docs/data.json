@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-08 03:07:00",
-  "count": 15839,
+  "updated": "2026-07-08 03:10:43",
+  "count": 15840,
   "items": [
+    {
+      "id": "4974870",
+      "time": "2026-07-08 03:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲5%，現報75.62美元/桶。"
+    },
+    {
+      "id": "mkt:019f3dfb-488c-7aab-8cd5-7873b76a187f",
+      "time": "2026-07-08 03:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said the country will safeguard lasting stability and will not accept any acts that breach commitments or deviate from the memorandum of understanding."
+    },
+    {
+      "id": "4974869",
+      "time": "2026-07-08 03:08:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4110美元/盎司，日內跌1.32%。"
+    },
+    {
+      "id": "mkt:019f3dfb-0670-7aab-8cd5-73df76eb9db2",
+      "time": "2026-07-08 03:08:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell 3.0% intraday to $60.16/oz; spot gold dropped $50, or 1.24%, to $4,112.65/oz."
+    },
+    {
+      "id": "4974868",
+      "time": "2026-07-08 03:07:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守60美元/盎司，日內跌3.29%。"
+    },
+    {
+      "id": "4974867",
+      "time": "2026-07-08 03:07:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4120美元/盎司，日內跌1.16%。"
+    },
+    {
+      "id": "4974866",
+      "time": "2026-07-08 03:07:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報60.03美元/盎司。"
+    },
+    {
+      "id": "4974865",
+      "time": "2026-07-08 03:07:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報60.46美元/盎司。"
+    },
+    {
+      "id": "4974864",
+      "time": "2026-07-08 03:07:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4125.78美元/盎司。"
+    },
     {
       "id": "4974863",
       "time": "2026-07-08 03:03:43",
@@ -145280,87 +145360,6 @@
         "MKT News"
       ],
       "text": "Iranian parliament speaker Ghalibaf said under the memorandum of understanding 'cost-free transit' through the Strait of Hormuz is limited to 60 days."
-    },
-    {
-      "id": "mkt:019f19f0-6757-7aab-8c41-5f1214be1b39",
-      "time": "2026-07-01 03:10:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's chief negotiator Ghalibaf said Iran will never compromise on its rights in the Strait of Hormuz."
-    },
-    {
-      "id": "4963623",
-      "time": "2026-07-01 03:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 根據諒解備忘錄約定，霍爾木茲海峽免費通航政策僅維持 60 天。"
-    },
-    {
-      "id": "mkt:019f19f0-33b4-7aab-8c41-5289e7cc25cf",
-      "time": "2026-07-01 03:09:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said that after the blockade was lifted the other side withdrew, and commercial shipping and oil tanker transit through the Gulf of Oman and the Strait of Hormuz have returned to normal."
-    },
-    {
-      "id": "4963622",
-      "time": "2026-07-01 03:09:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 伊朗絕不會在霍爾木茲海峽的自身權益問題上妥協。"
-    },
-    {
-      "id": "mkt:019f19ee-d561-7aab-8c41-4d7a58b960ef",
-      "time": "2026-07-01 03:08:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran's missile capabilities and ties with regional \"resistance organizations\" are non-negotiable and not open to talks."
-    },
-    {
-      "id": "mkt:019f19ee-a178-7aab-8c41-4121ea188156",
-      "time": "2026-07-01 03:08:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran has exported more than 40 million barrels of oil since sanctions were lifted."
-    },
-    {
-      "id": "4963621",
-      "time": "2026-07-01 03:07:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 自我方解除封鎖之日至今，伊朗原油出口量已超 4000 萬桶。"
-    },
-    {
-      "id": "4963620",
-      "time": "2026-07-01 03:07:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：將成立由伊朗、美國及黎巴嫩參與的聯合委員會，推動黎巴嫩主權與停火落實，伊朗駐外代表將參與該機制。自瑞士之行後，黎巴嫩的火力衝突與傷亡規模呈下降趨勢，但仍存在問題。前往瑞士的訪問也是圍繞五項條款執行情況進行溝通。對話的目的只是推動既有談判成果落地。"
     }
   ]
 }
