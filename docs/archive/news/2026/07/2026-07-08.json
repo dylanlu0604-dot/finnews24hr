@@ -1,7 +1,166 @@
 {
   "date": "2026-07-08",
-  "count": 590,
+  "count": 606,
   "items": [
+    {
+      "id": "4975149",
+      "time": "2026-07-08 07:53:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或下跌，因伊朗衝突再度引發擔憂】由於伊朗衝突和能源價格成本再度引發擔憂，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.5%，至67,520點。美元報162.28日元，週二東京股市收盤時為162.03日元。在美國對伊朗發動打擊並阻止其合法出售石油之後，投資者正關注中東的事態發展。日經指數週二下跌2.1%，至68,256.96點。"
+    },
+    {
+      "id": "mkt:019f3eff-590b-7aab-8cd9-38323cf7eccf",
+      "time": "2026-07-08 07:52:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 1.5 bps to 2.855%, its highest level since October 1996."
+    },
+    {
+      "id": "mkt:019f3eff-3056-7aab-8cd9-30498683cdd1",
+      "time": "2026-07-08 07:52:19",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan May seasonally adjusted current account balance JPY 306.45 bln; forecast JPY 3,216.7 bln; prior JPY 4,211.1 bln."
+    },
+    {
+      "id": "mkt:019f3eff-05a8-7aab-8cd9-2dabb097404e",
+      "time": "2026-07-08 07:52:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account SA (May) | actual 30645000000B | consensus 3216700000000B | previous 4211100000000B"
+    },
+    {
+      "id": "mkt:019f3efe-ad37-7aab-8cd9-235ca578e0ac",
+      "time": "2026-07-08 07:51:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan May trade balance: surplus 6.9 bln yen vs consensus -221.9 bln; April surplus 395.7 bln."
+    },
+    {
+      "id": "4975148",
+      "time": "2026-07-08 07:51:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月未經調整經常專案盈餘3.968萬億日元；較上年同期上升19.5%。日本5月未經調整經常專案盈餘3.968萬億日元；預期為盈餘4.1099萬億日元。"
+    },
+    {
+      "id": "mkt:019f3efe-88da-7aab-8cd9-1fb4b9c09219",
+      "time": "2026-07-08 07:51:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Trade Balance (May) | actual 6900000000B | consensus -221900000000B | previous 395700000000B"
+    },
+    {
+      "id": "4975147",
+      "time": "2026-07-08 07:51:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升1.5個基點至2.855%，為1996年10月以來最高。"
+    },
+    {
+      "id": "4975146",
+      "time": "2026-07-08 07:51:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國空襲伊朗後，歐洲天然氣價格上漲4.9%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607083797331133",
+      "time": "2026-07-08 07:50:39",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月未季調經常帳39683億日元，預期41213億日元，前值39078億日元。"
+    },
+    {
+      "id": "mkt:019f3efd-a1f7-7aab-8cd9-16bde84f9b72",
+      "time": "2026-07-08 07:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan June seasonally adjusted bank lending ex-trust YoY 6.3%, unchanged from prior 6.3%."
+    },
+    {
+      "id": "mkt:019f3efd-8c21-7aab-8cd9-0f97b55c3b43",
+      "time": "2026-07-08 07:50:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Southern Iran security returns to normal】Iranian state media said on the 8th, local time, that security in southern Iran — including the port of Bandar Abbas, Sirik and Qeshm Island — has returned to normal."
+    },
+    {
+      "id": "mkt:019f3efd-831f-7aab-8cd9-04c1e93b0dde",
+      "time": "2026-07-08 07:50:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loan (exclude Shinkin Banks) (YoY) (Jun) | actual 6.3% | previous 6.30%"
+    },
+    {
+      "id": "mkt:019f3efd-3e5f-7aab-8cd8-f810098084ee",
+      "time": "2026-07-08 07:50:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan May current account (not seasonally adjusted) surplus 3,968.3 bln yen, vs expected 4,121.3 bln; April 3,907.8 bln."
+    },
+    {
+      "id": "mkt:019f3efd-3519-7aab-8cd8-f6c6c474f991",
+      "time": "2026-07-08 07:50:09",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan seasonally adjusted bank lending YoY 5.7% in June; prior 5.70%."
+    },
+    {
+      "id": "mkt:019f3efd-1823-7aab-8cd8-ee9ffbb5db83",
+      "time": "2026-07-08 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loan (YoY) (Jun) | actual 5.7% | previous 5.70%"
+    },
     {
       "id": "mkt:019f3efd-1444-7aab-8cd8-e18aab3a9f49",
       "time": "2026-07-08 07:50:00",
