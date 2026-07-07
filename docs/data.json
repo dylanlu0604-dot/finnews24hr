@@ -1,7 +1,190 @@
 {
-  "updated": "2026-07-07 09:21:30",
-  "count": 14199,
+  "updated": "2026-07-07 09:25:20",
+  "count": 14217,
   "items": [
+    {
+      "id": "4973231",
+      "time": "2026-07-07 09:24:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲1%，現報4710.00元。"
+    },
+    {
+      "id": "4973230",
+      "time": "2026-07-07 09:24:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國交易所啟動KOSPI 200指數期貨（.KS11）的Sidecar交易機制，此前KOSPI 200指數期貨下跌5%，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "mkt:019f3a2d-058d-7aab-8cbe-c154789fce5c",
+      "time": "2026-07-07 09:24:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02667.HK",
+        "Impact bearish"
+      ],
+      "text": "Tongrentang Medical & Elderly Care (02667.HK) opened down 13.45% on debut; IPO price HKD 5.50 per share."
+    },
+    {
+      "id": "te:markets:564620",
+      "time": "2026-07-07 09:24:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises to 3-Week High — US gasoline prices rose above $3.0 per gallon, reaching their highest level in three weeks, as resilient refining margins and tight fuel supplies continued to support refined products. Refinery constraints and robust gasoline demand kept crack spreads firm, while Ukrainian drones struck Russia's largest oil refinery in Omsk, in one of the war's longest-range attacks, heightening concerns over refined fuel supplies. The support for gasoline prices contrasted with weakness in crude, where higher OPEC+ output and improving global supplies continued to weigh on benchmark prices. Oil and gas shipments through the US-protected corridor in the Strait of Hormuz also continued to recover, allowing major Persian Gulf producers to ramp up exports. Saudi Arabia's shipments climbed close to pre-conflict levels as tanker traffic normalized, while the United Arab Emirates also restored export flows."
+    },
+    {
+      "id": "mkt:019f3a2c-bc1e-7aab-8cbe-b80223b5c9a6",
+      "time": "2026-07-07 09:23:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to park small balances? Money-market yield snapshot】Tencent Licaitong (current+7-day annualized yield) ranged from 0.7180% to 1.1670%. WeChat Wallet Lingqian Tong 7-day annualized yield ranged from 0.9440% to 1.0110%. Alipay Yu'e Bao 7-day annualized yield ranged from 1.0010% to 1.1050%."
+    },
+    {
+      "id": "4973229",
+      "time": "2026-07-07 09:23:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股快手低開近6%，騰訊持股比例降至9.37%不再為主要股東。"
+    },
+    {
+      "id": "mkt:019f3a2c-687e-7aab-8cbe-b665cdbd7d58",
+      "time": "2026-07-07 09:23:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver slid below $61/oz, down 1.72% intraday."
+    },
+    {
+      "id": "4973228",
+      "time": "2026-07-07 09:23:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【TeraWulf與Anthropic簽署20年AI資料中心租約，合同收入約190億美元】美國AI基礎設施運營商TeraWulf當地時間7月6日宣佈，與人工智慧公司Anthropic簽署一項為期20年的長期租賃協議。Anthropic將租用位於美國肯塔基州Justified Data園區、專為AI打造的資料中心設施，總關鍵IT負載規模約401兆瓦（MW），專案將分階段建設，預計首批產能於2027年下半年投運，並於2028年初全面投入運營。TeraWulf預計，該租約在初始租期內將帶來約190億美元的合同收入，並由投資級信用主體提供支援。與此同時，TeraWulf還宣佈，將其持有的Abernathy合資專案50.1%股權出售給以AI雲基礎設施公司Fluidstack為首的投資者財團，實現約4.5億美元投資的溢價退出。"
+    },
+    {
+      "id": "4973227",
+      "time": "2026-07-07 09:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洞察科技完成數千萬元Pre-A+輪融資】近日，廣州洞察科技有限公司（簡稱“洞察科技”）宣佈完成數千萬元Pre-A+輪融資，本輪由山藍資本投資。融資將重點用於固態奈米孔晶片測試與封裝產線建設、檢測產品研發，以及先進半導體方向的技術拓展。"
+    },
+    {
+      "id": "te:markets:564619",
+      "time": "2026-07-07 09:22:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Hits 3-Week High — US heating oil prices rose above $3.30 per gallon, reaching a three-week high, as concerns over global distillate supplies outweighed weakness in crude oil. Markets remained focused on Russia, where Ukrainian drone strikes continued to disrupt refinery operations, fueling speculation that Moscow could impose a diesel export ban to ease domestic shortages. With Russian refinery runs near multi-year lows and global distillate inventories still tight, traders expected reduced diesel exports to keep refining margins elevated and support heating oil prices. The gains came even as benchmark crude prices remained subdued amid higher OPEC+ output and recovering oil and gas shipments through the US-secured corridor in the Strait of Hormuz, allowing major Persian Gulf producers to increase exports."
+    },
+    {
+      "id": "4973226",
+      "time": "2026-07-07 09:22:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守61美元/盎司，日內跌1.64%。"
+    },
+    {
+      "id": "4973225",
+      "time": "2026-07-07 09:21:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【劉烈宏：行業資料價值釋放進入縱深推進新階段 國家資料局將聯合有關部門出臺有針對性的具體舉措】2026年7月2日至3日，國家資料局黨組書記、局長劉烈宏出席在北京舉辦的“2026年全球數字經濟大會”開幕式及“資料要素髮展論壇”並致辭。劉烈宏表示，隨著“531”工作體系的落地實施，資料要素潛能加速釋放，資料流通利用呈現新態勢。一是行業資料價值釋放進入縱深推進新階段。企業要著力打好“三個主戰場”，在深化行業資料流通利用中實現自身價值；地方要著力營造濃厚資料氛圍，透過資料賦能產業轉型助力經濟高質量發展；國家資料局將聯合有關部門出臺有針對性的具體舉措。二是重點問題解決路徑更加明晰。比如，適應人工智慧多元用數需求，解決“系統建設分散、標準不統一、資料共享難”的難題，以智慧體呼叫等“技術賦能”化解“資料分散”痛點，以“語義統一”破解“格式不統一”等實踐已初見成效。三是資料賦能人工智慧創新發展不斷深化。在供給端，加快構建行業高質量資料集供給體系；在流通端，系統最佳化面向人工智慧的用數規則和流通模式；在應用端，以“模數共振”驅動資料飛輪加速運轉。"
+    },
+    {
+      "id": "4973224",
+      "time": "2026-07-07 09:21:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠595.0億元人民幣。"
+    },
+    {
+      "id": "4973223",
+      "time": "2026-07-07 09:21:34",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.2％，國企指數跌0.41％，科指開跌0.37%。"
+    },
+    {
+      "id": "mkt:019f3a2a-8c96-7aab-8cbe-aa643f641a57",
+      "time": "2026-07-07 09:21:34",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "At the open on July 7 (Tue) in Hong Kong, the HSI fell 47.83 points (-0.20%) to 23,568.49; the Hang Seng Tech Index fell 16.81 points (-0.37%) to 4,524.42; the HSCEI fell 31.81 points (-0.41%) to 7,780.54; the Red Chip Index fell 6.59 points (-0.17%) to 3,847.99."
+    },
+    {
+      "id": "mkt:019f3a2a-7d6c-7aab-8cbe-a63a2d9430ff",
+      "time": "2026-07-07 09:21:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "01024.HK",
+        "Impact bearish",
+        "00700.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.2% and the Hang Seng Tech Index fell 0.37%. Kuaishou (01024.HK) opened nearly 6% lower; Tencent Holdings (00700.HK) opened about 1.55% higher after trimming its Kuaishou stake and raising roughly HKD10 billion."
+    },
+    {
+      "id": "4973222",
+      "time": "2026-07-07 09:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Shopee與Meta深化合作，推出Instagram聯盟專案】7月7日訊息，Shopee與Meta宣佈深化合作，在東南亞及巴西等市場推出Instagram聯盟專案。創作者可將Shopee聯盟商品直接新增至Instagram Reels和Feed內容中，透過內容分享帶動更多商品傳播和銷售。"
+    },
+    {
+      "id": "4973221",
+      "time": "2026-07-07 09:21:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北方華創多項真空技術成果被工信部認定為工業母機典型創新案例】工業和資訊化部日前正式釋出“2026年度工業母機創新產品典型案例名單”，北方華創多項真空核心技術成果入選。北方華創本次入選的成果來自真空新能源裝備事業群，涵蓋核心工藝裝備與測試評價平臺兩大方向。"
+    },
+    {
+      "id": "te:economy:564617",
+      "time": "2026-07-07 09:21:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Philippines Industrial Output Eases in May — Manufacturing production in the Philippines increased by 13.5% year-on-year in May 2026, easing from a more than four-year high and revised gain of 14.6% in the previous month. The moderation was largely driven by slower output growth in the manufacture of transport equipment (0.9% vs 12.6% in April), which accounted for 42% of total industrial production. Additional downward pressure came from softer growth in the manufacture of food products (3.1% vs 6.1%) and a sharp contraction in the manufacture of chemicals and chemical products (-11.5% vs 1.0%). In contrast, several categories saw faster expansion, including the manufacture of coke and refined petroleum products (78.5% vs 60.4%), computer, electronic and optical products (22.6% vs 19.8%), and leather and related products, including footwear (90.9% vs 75.7%). For the January–May period, industrial production rose 8.2% compared with the corresponding period a year earlier."
+    },
     {
       "id": "mkt:019f3a2a-08d8-7aab-8cbe-9ce8a5ab71f4",
       "time": "2026-07-07 09:21:01",
@@ -130564,15 +130747,6 @@
         "中國"
       ],
       "text": "【國家統計局：6月官方製造業PMI為50.3% 重返擴張區間】6月份，製造業採購經理指數（PMI）為50.3%，比上月上升0.3個百分點，重返擴張區間。從企業規模看，大型企業PMI為50.7%，比上月下降0.4個百分點，仍高於臨界點；中型企業PMI為50.5%，比上月上升1.9個百分點，高於臨界點；小型企業PMI為48.2%，比上月下降0.3個百分點，低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數和新訂單指數高於臨界點，原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606303787549217",
-      "time": "2026-06-30 09:23:22",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展6000億元隔夜逆回購操作】央行今日開展695億元7天期逆回購操作，操作利率為1.40%。同時，開展了6000億元隔夜逆回購操作。"
     }
   ]
 }
