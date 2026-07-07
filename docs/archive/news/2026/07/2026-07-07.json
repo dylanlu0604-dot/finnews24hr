@@ -1,7 +1,169 @@
 {
   "date": "2026-07-07",
-  "count": 592,
+  "count": 610,
   "items": [
+    {
+      "id": "mkt:019f3a30-e8ff-7aab-8cbf-073c6d627b62",
+      "time": "2026-07-07 09:28:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index plunged 5.00% intraday to 7,648.73."
+    },
+    {
+      "id": "mkt:019f3a30-79df-7aab-8cbe-fb25211e62d9",
+      "time": "2026-07-07 09:28:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yahua Group shares locked at the daily limit; company expects first-half net profit to rise 710.17%–857.48%."
+    },
+    {
+      "id": "4973240",
+      "time": "2026-07-07 09:27:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至5%】韓國綜指跌幅擴大至5%，現報7648.73點。個股方面，三星電子跌超7%，SK海力士跌超6%。"
+    },
+    {
+      "id": "4973239",
+      "time": "2026-07-07 09:27:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4140美元/盎司，日內跌0.69%。"
+    },
+    {
+      "id": "4973238",
+      "time": "2026-07-07 09:27:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【雅化集團一字漲停】雅化集團一字漲停，公司半年度預計盈利11.00億元～13.00億元，淨利潤增長710.17%～857.48%。"
+    },
+    {
+      "id": "mkt:019f3a30-29df-7aab-8cbe-f062d6c535a6",
+      "time": "2026-07-07 09:27:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300471.SZ",
+        "Impact bearish"
+      ],
+      "text": "Offcn Education opened 4.3% lower; the Shenzhen Stock Exchange suspended trading for investor accounts flagged for abnormal trading in the stock."
+    },
+    {
+      "id": "mkt:019f3a2f-f2f2-7aab-8cbe-ef99be870680",
+      "time": "2026-07-07 09:27:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on July 7, China's Shanghai Composite fell 21.74 pts (-0.54%) to 4,019.49; Shenzhen Composite fell 71.41 pts (-0.46%) to 15,345.39; CSI 300 fell 28.13 pts (-0.58%) to 4,813.87; ChiNext fell 17.42 pts (-0.44%) to 3,931.44; Sci-Tech Innovation Board 50 Index fell 30.30 pts (-1.52%) to 1,965.80."
+    },
+    {
+      "id": "mkt:019f3a2f-e8ce-7aab-8cbe-e7d6c777019c",
+      "time": "2026-07-07 09:27:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share precious metals sector opened lower; Zhaojin Gold hit limit down, with Hunan Silver, Chifeng Gold, Xingye Silver & Tin, Xiaocheng Technology and Western Gold retreating in sympathy."
+    },
+    {
+      "id": "4973237",
+      "time": "2026-07-07 09:27:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌0.84%。"
+    },
+    {
+      "id": "4973236",
+      "time": "2026-07-07 09:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊低開，招金黃金觸及跌停】貴金屬板塊低開，招金黃金觸及跌停，湖南白銀、赤峰黃金、興業銀錫、曉程科技、西部黃金跟跌。"
+    },
+    {
+      "id": "4973235",
+      "time": "2026-07-07 09:26:21",
+      "tags": [],
+      "text": "韓國交易所啟動KOSPI熔斷機制，因KOSPI 200期貨下跌5％，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "mkt:019f3a2e-dcf1-7aab-8cbe-df691b32ad65",
+      "time": "2026-07-07 09:26:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "STAR 50 index opened down 1.5%; constituent Baiwei Storage fell nearly 5%."
+    },
+    {
+      "id": "4973234",
+      "time": "2026-07-07 09:26:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗姿股份被取消高新技術企業資格】7月6日晚間，朗姿股份釋出公告稱，公司近日獲悉，北京市科學技術委員會、中關村科技園區管理委員會、北京市財政局及國家稅務總局北京市稅務局聯合釋出《關於取消銳合新創科技（北京）有限公司等企業高新技術企業資格的公告》。根據公告附件所列企業名單，朗姿股份被取消2023年至2025年度高新技術企業資格。該公司表示，被取消高新技術企業資格對經營業績的具體影響尚需稅務機關進一步明確，最終影響情況以公司後續披露的資訊為準。（介面新聞 周芳穎）"
+    },
+    {
+      "id": "4973233",
+      "time": "2026-07-07 09:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股儲存概念股走低 兆易創新跌超5%】截至發稿， 兆易創新(03986.HK)跌5.42%，瀾起科技(06809.HK)跌4.46%。"
+    },
+    {
+      "id": "mkt:019f3a2e-126d-7aab-8cbe-d15e7ddc6971",
+      "time": "2026-07-07 09:25:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened lower: Shanghai Composite Index down 0.54%, Shenzhen Composite Index down 0.46%, ChiNext Index down 0.44%; memory chip sector led declines."
+    },
+    {
+      "id": "4973232",
+      "time": "2026-07-07 09:25:17",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.54％，深成指跌0.46％，創業板跌0.44％。"
+    },
+    {
+      "id": "mkt:019f3a2d-d8f1-7aab-8cbe-cb21807002c1",
+      "time": "2026-07-07 09:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange triggered a KOSPI circuit breaker after KOSPI 200 futures fell 5%, suspending program trading for 5 minutes."
+    },
     {
       "id": "4973231",
       "time": "2026-07-07 09:24:43",
@@ -140,6 +302,15 @@
         "焦點"
       ],
       "text": "港股恒指低開跌0.2％，國企指數跌0.41％，科指開跌0.37%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607073795998480",
+      "time": "2026-07-07 09:21:31",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行公開市場今日淨回籠595億元】央行今日開展100億元7天逆回購操作，操作利率為1.40%，與此前持平。因今日有695億元7天期逆回購到期，當日實現淨回籠595億元。"
     },
     {
       "id": "mkt:019f3a2a-7d6c-7aab-8cbe-a63a2d9430ff",
