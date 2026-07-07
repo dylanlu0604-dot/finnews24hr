@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-08 02:29:07",
-  "count": 15857,
+  "updated": "2026-07-08 02:32:54",
+  "count": 15858,
   "items": [
+    {
+      "id": "mkt:019f3dda-35a3-7aab-8cd4-ca5cc45e032f",
+      "time": "2026-07-08 02:32:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of 02:30 local time, Shanghai night-session front-month contracts closed: Shanghai gold main contract up 0.08% at 906 yuan/gram; Shanghai silver main contract down 0.70% at 14,855 yuan/kg; SC crude (Shanghai crude) main contract up 2.82% at 452 yuan/barrel."
+    },
+    {
+      "id": "4974843",
+      "time": "2026-07-08 02:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部稱，此類襲擊及其引發的一切後果均由伊朗承擔全部責任。"
+    },
+    {
+      "id": "mkt:019f3dda-2655-7aab-8cd4-c061faf82d44",
+      "time": "2026-07-08 02:32:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.24% at 905.0 yuan/gram in Tuesday evening trade on July 7; Silver T+D closed down 0.09% at 14,850 yuan/kg."
+    },
+    {
+      "id": "4974842",
+      "time": "2026-07-08 02:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部表示，該國譴責針對沙特油輪的襲擊事件，呼籲伊朗立即停止一切威脅國際海上航運與全球能源供應的行為。"
+    },
+    {
+      "id": "4974841",
+      "time": "2026-07-08 02:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收漲1.89美元，漲幅2.76%，報70.44美元/桶。NYMEX 8月天然氣期貨收報3.2650美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9539美元/加侖，NYMEX 8月取暖油期貨收報3.3017美元/加侖。"
+    },
+    {
+      "id": "te:markets:564972",
+      "time": "2026-07-08 02:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.50% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.50% decrease."
+    },
+    {
+      "id": "4974840",
+      "time": "2026-07-08 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.82%，報451.80元人民幣/桶。滬金夜盤收漲0.08%，滬銀收跌0.70%。"
+    },
     {
       "id": "4974839",
       "time": "2026-07-08 02:25:52",
@@ -145437,69 +145503,6 @@
         "其他"
       ],
       "text": "哥倫比亞央行行長比利亞爾表示，技術團隊的預測顯示，到2027年底通脹率有望達到約4%。"
-    },
-    {
-      "id": "mkt:019f19cd-760c-7aab-8c40-4d93c66d8f67",
-      "time": "2026-07-01 02:32:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $69.50/bbl, down $1.25 or 1.77%."
-    },
-    {
-      "id": "mkt:019f19cd-0f3b-7aab-8c40-457ed42d9278",
-      "time": "2026-07-01 02:31:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Night-session main contracts close】At the 02:30 China night-session close, Shanghai gold most-active contract rose 0.80% to 882 yuan/gram; Shanghai silver most-active contract rose 3.43% to 14,578 yuan/kg; Shanghai crude (SC) most-active contract fell 1.17% to 457 yuan/barrel."
-    },
-    {
-      "id": "4963589",
-      "time": "2026-07-01 02:31:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶69.50美元，下跌1.25美元，跌幅1.77%。"
-    },
-    {
-      "id": "mkt:019f19cc-6797-7aab-8c40-380cef39d5b8",
-      "time": "2026-07-01 02:30:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 1.1% at 880.4 yuan/gram in the evening session on June 30. Silver T+D closed up 3.72% at 14,545 yuan/kg."
-    },
-    {
-      "id": "4963588",
-      "time": "2026-07-01 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.17%，報456.70元人民幣/桶。滬金夜盤收漲0.80%，滬銀收漲3.43%。"
-    },
-    {
-      "id": "te:markets:563100",
-      "time": "2026-07-01 02:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Drops by 2.87% — Top crypto losers are Bitcoin (-2.87%), Binance (-2.39%) and Ether (-2.23%)."
     }
   ]
 }
