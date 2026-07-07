@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-07 23:01:07",
+  "updated": "2026-07-07 23:05:14",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 378,
+  "count": 379,
   "history_summary": {
     "cached": 378,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 198,
+      "count": 199,
       "dates": [
         {
           "date": "2026-07-06",
@@ -2232,7 +2232,7 @@
         },
         {
           "date": "2026-07-07",
-          "count": 39,
+          "count": 40,
           "events": [
             {
               "id": "capital:1173727",
@@ -4147,6 +4147,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-06-28 00:02:17"
+            },
+            {
+              "id": "capital:1180217",
+              "fid": "1180217",
+              "interval": "this_week",
+              "date": "2026-07-07",
+              "time": "23:00",
+              "datetime": "2026-07-07 23:00:00",
+              "display_time": "07/07 23:00",
+              "country": "美國",
+              "title": "美國6月紐約聯儲1年通脹預期",
+              "importance": 2,
+              "previous": "3.46 %",
+              "forecast": "-- %",
+              "actual": "3.67 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180217",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/08",
+                  "actual": "3.46",
+                  "forecast": "-",
+                  "previous": "3.64"
+                },
+                {
+                  "date": "05/07",
+                  "actual": "3.64",
+                  "forecast": "3.5",
+                  "previous": "3.42"
+                },
+                {
+                  "date": "04/07",
+                  "actual": "3.42",
+                  "forecast": "3.5",
+                  "previous": "3"
+                },
+                {
+                  "date": "03/09",
+                  "actual": "3",
+                  "forecast": "-",
+                  "previous": "3.09"
+                },
+                {
+                  "date": "02/10",
+                  "actual": "3.09",
+                  "forecast": "-",
+                  "previous": "3.42"
+                },
+                {
+                  "date": "01/09",
+                  "actual": "3.4",
+                  "forecast": "-",
+                  "previous": "3.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-07 23:05:13"
             },
             {
               "id": "capital:1173724",
@@ -26071,6 +26129,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-28 00:02:17"
+    },
+    {
+      "id": "capital:1180217",
+      "fid": "1180217",
+      "interval": "this_week",
+      "date": "2026-07-07",
+      "time": "23:00",
+      "datetime": "2026-07-07 23:00:00",
+      "display_time": "07/07 23:00",
+      "country": "美國",
+      "title": "美國6月紐約聯儲1年通脹預期",
+      "importance": 2,
+      "previous": "3.46 %",
+      "forecast": "-- %",
+      "actual": "3.67 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180217",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/08",
+          "actual": "3.46",
+          "forecast": "-",
+          "previous": "3.64"
+        },
+        {
+          "date": "05/07",
+          "actual": "3.64",
+          "forecast": "3.5",
+          "previous": "3.42"
+        },
+        {
+          "date": "04/07",
+          "actual": "3.42",
+          "forecast": "3.5",
+          "previous": "3"
+        },
+        {
+          "date": "03/09",
+          "actual": "3",
+          "forecast": "-",
+          "previous": "3.09"
+        },
+        {
+          "date": "02/10",
+          "actual": "3.09",
+          "forecast": "-",
+          "previous": "3.42"
+        },
+        {
+          "date": "01/09",
+          "actual": "3.4",
+          "forecast": "-",
+          "previous": "3.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-07 23:05:13"
     },
     {
       "id": "capital:1173724",

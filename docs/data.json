@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-07 23:01:00",
+  "updated": "2026-07-07 23:05:06",
   "count": 16022,
   "items": [
+    {
+      "id": "4974736",
+      "time": "2026-07-07 23:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：將加強審查程式。"
+    },
+    {
+      "id": "mkt:019f3d1a-5615-7aab-8cd1-b5cf47faf4e6",
+      "time": "2026-07-07 23:02:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US New York Fed June 5-year inflation expectations remained unchanged at 3.0%."
+    },
+    {
+      "id": "mkt:019f3d1a-0e47-7aab-8cd1-aaa82c03cc41",
+      "time": "2026-07-07 23:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US June NY Fed 3-year inf expectations rose to 3.3%, the highest since 2022."
+    },
+    {
+      "id": "4974735",
+      "time": "2026-07-07 23:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "空客：美國海關與邊境保護局採購 10 架空客 H125 直升機。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607073797108657",
+      "time": "2026-07-07 23:01:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國6月紐約聯儲1年通脹預期3.67%，前值3.46%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607073797108657",
+      "time": "2026-07-07 23:01:40",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月紐約聯儲1年通脹預期3.67%，前值3.46%。"
+    },
+    {
+      "id": "mkt:019f3d19-4a5c-7aab-8cd1-a0fec45f9d55",
+      "time": "2026-07-07 23:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US June New York Fed 1-year inflation expectations 3.67%, prior 3.46%."
+    },
+    {
+      "id": "4974734",
+      "time": "2026-07-07 23:01:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲：美國一年期通脹預期達到3.67%，創2023年9月份以來新高。"
+    },
     {
       "id": "te:markets:564920",
       "time": "2026-07-07 23:00:04",
@@ -146952,75 +147037,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織完成剛果（金）評估，將釋放約3.485億美元新增放款資金。"
-    },
-    {
-      "id": "4963355",
-      "time": "2026-06-30 23:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國勞工部監察機構向勞工統計局釋出報告。"
-    },
-    {
-      "id": "4963354",
-      "time": "2026-06-30 23:04:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：推出可藉助Gemini在谷歌幻燈片中生成多頁完整簡報的功能。"
-    },
-    {
-      "id": "4963353",
-      "time": "2026-06-30 23:04:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織完成剛果（金）擴幅信貸機制項下第三輪評估。"
-    },
-    {
-      "id": "4963352",
-      "time": "2026-06-30 23:03:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元上漲0.1%，至1.3277，為6月18日以來最高水平。"
-    },
-    {
-      "id": "4963351",
-      "time": "2026-06-30 23:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：最高法院剛剛取消了對政治獻金支出的相關限制。這是共和黨一次重大勝利，更重要的是，這也是《第一修正案》的重大勝利。"
-    },
-    {
-      "id": "4963350",
-      "time": "2026-06-30 23:01:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：目前經濟層面並未顯現出明顯的政策收緊抑制效應。"
-    },
-    {
-      "id": "4963349",
-      "time": "2026-06-30 23:01:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美最高法院駁回特朗普的限制“出生公民權”行政令】美國最高法院6月30日在一項關鍵裁決中，駁回特朗普政府限制“出生公民權”的行政令。特朗普去年1月重返白宮首日簽署行政令，規定父母非美國公民或合法永久居民的新生兒不能自動獲得美國公民身份。（新華社）"
-    },
-    {
-      "id": "te:markets:563060",
-      "time": "2026-06-30 23:01:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Costco Wholesale Stock Price Hits 4-week Low — Costco Wholesale shares decreased to 938.50 USD, the lowest since June 2026. Over the past 4 weeks, Costco Wholesale lost 0.75%, and in the last 12 months, it decreased 4.76%."
     }
   ]
 }

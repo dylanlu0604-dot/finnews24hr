@@ -1,7 +1,92 @@
 {
   "date": "2026-07-07",
-  "count": 2639,
+  "count": 2647,
   "items": [
+    {
+      "id": "4974736",
+      "time": "2026-07-07 23:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：將加強審查程式。"
+    },
+    {
+      "id": "mkt:019f3d1a-5615-7aab-8cd1-b5cf47faf4e6",
+      "time": "2026-07-07 23:02:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US New York Fed June 5-year inflation expectations remained unchanged at 3.0%."
+    },
+    {
+      "id": "mkt:019f3d1a-0e47-7aab-8cd1-aaa82c03cc41",
+      "time": "2026-07-07 23:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US June NY Fed 3-year inf expectations rose to 3.3%, the highest since 2022."
+    },
+    {
+      "id": "4974735",
+      "time": "2026-07-07 23:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "空客：美國海關與邊境保護局採購 10 架空客 H125 直升機。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607073797108657",
+      "time": "2026-07-07 23:01:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國6月紐約聯儲1年通脹預期3.67%，前值3.46%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607073797108657",
+      "time": "2026-07-07 23:01:40",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月紐約聯儲1年通脹預期3.67%，前值3.46%。"
+    },
+    {
+      "id": "mkt:019f3d19-4a5c-7aab-8cd1-a0fec45f9d55",
+      "time": "2026-07-07 23:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US June New York Fed 1-year inflation expectations 3.67%, prior 3.46%."
+    },
+    {
+      "id": "4974734",
+      "time": "2026-07-07 23:01:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲：美國一年期通脹預期達到3.67%，創2023年9月份以來新高。"
+    },
     {
       "id": "te:markets:564920",
       "time": "2026-07-07 23:00:04",
