@@ -1,7 +1,39 @@
 {
   "date": "2026-07-08",
-  "count": 175,
+  "count": 178,
   "items": [
+    {
+      "id": "4974859",
+      "time": "2026-07-08 03:02:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "油價走強帶動美債收益率上行，10年期美國國債收益率升至四周高點4.533%。"
+    },
+    {
+      "id": "mkt:019f3df4-ecbd-7aab-8cd5-5e8eab394bea",
+      "time": "2026-07-08 03:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose 4.00% intraday to $71.32/bbl; Brent touched $75.00/bbl, up 4.09% intraday. The U.S. Treasury revoked Iran crude sales licenses."
+    },
+    {
+      "id": "4974858",
+      "time": "2026-07-08 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.08%，報23492.28點，低水4.61點。"
+    },
     {
       "id": "mkt:019f3df1-3275-7aab-8cd5-500e42bc3d72",
       "time": "2026-07-08 02:57:24",

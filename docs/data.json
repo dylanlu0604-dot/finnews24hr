@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-08 02:59:05",
-  "count": 15848,
+  "updated": "2026-07-08 03:03:15",
+  "count": 15838,
   "items": [
+    {
+      "id": "4974859",
+      "time": "2026-07-08 03:02:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "油價走強帶動美債收益率上行，10年期美國國債收益率升至四周高點4.533%。"
+    },
+    {
+      "id": "mkt:019f3df4-ecbd-7aab-8cd5-5e8eab394bea",
+      "time": "2026-07-08 03:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose 4.00% intraday to $71.32/bbl; Brent touched $75.00/bbl, up 4.09% intraday. The U.S. Treasury revoked Iran crude sales licenses."
+    },
+    {
+      "id": "4974858",
+      "time": "2026-07-08 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.08%，報23492.28點，低水4.61點。"
+    },
     {
       "id": "mkt:019f3df1-3275-7aab-8cd5-500e42bc3d72",
       "time": "2026-07-08 02:57:24",
@@ -145317,127 +145349,6 @@
         "MKT News"
       ],
       "text": "Ghalibaf said uranium enrichment rights are a core, non-negotiable component of Iran's national strength."
-    },
-    {
-      "id": "mkt:019f19e9-ff3f-7aab-8c41-1f5d08050dc3",
-      "time": "2026-07-01 03:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said the Islamabad memorandum of understanding explicitly reaffirms Lebanon's independence and territorial integrity."
-    },
-    {
-      "id": "mkt:019f19e9-d3a0-7aab-8c41-157d9faa0934",
-      "time": "2026-07-01 03:03:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said even when negotiating with the U.S. Iran is not negotiating with a \"friend\" but with an \"untrustworthy opponent\" that will act against Iran at the first opportunity."
-    },
-    {
-      "id": "4963618",
-      "time": "2026-07-01 03:02:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：各方已商定由伊朗、美國、黎巴嫩成立委員會，監督黎巴嫩戰事收尾工作。"
-    },
-    {
-      "id": "4963617",
-      "time": "2026-07-01 03:02:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長：巴西將遵守財政目標。政府正在討論逐步退出相關政策，並將在適當時機採取相應措施。關於汽油補貼的討論已接近結束，未來將在價格壓力緩解後逐步取消補貼。"
-    },
-    {
-      "id": "mkt:019f19e8-ab55-7aab-8c41-09a79018e0e5",
-      "time": "2026-07-01 03:01:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's finance minister said the government will adhere to fiscal targets and is discussing a gradual withdrawal of related policies, with measures to be implemented at an appropriate time. Talks on gasoline subsidies are nearly complete; subsidies will be phased out once price pressures ease."
-    },
-    {
-      "id": "mkt:019f19e7-faaa-7aab-8c41-04fdd6be2258",
-      "time": "2026-07-01 03:01:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.63% at 22,990, a 109-point premium to the spot index."
-    },
-    {
-      "id": "4963616",
-      "time": "2026-07-01 03:00:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行官員莫雷蒂：我們正在討論逐步退出（刺激措施），將在適當時機採取這些步驟。"
-    },
-    {
-      "id": "4963615",
-      "time": "2026-07-01 03:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：多項和平協議已提上議事日程。"
-    },
-    {
-      "id": "mkt:019f19e7-5249-7aab-8c40-ff746d6138d0",
-      "time": "2026-07-01 03:00:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said additional peace agreements are on the agenda and are progressing."
-    },
-    {
-      "id": "mkt:019f19e7-21dc-7aab-8c40-f3e1b9c0bdc8",
-      "time": "2026-07-01 03:00:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Ghalibaf said Iran, the US and Lebanon will form a joint committee to advance Lebanese sovereignty and implement a ceasefire; Iran's foreign envoys will participate in the mechanism."
-    },
-    {
-      "id": "4963614",
-      "time": "2026-07-01 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.65%，報22994.73點，高水113.71點。"
-    },
-    {
-      "id": "4963613",
-      "time": "2026-07-01 02:59:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長：伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾】伊朗議會議長卡利巴夫表示，伊朗當前開展的各項會談，目的是履行諒解備忘錄所載承諾，其中包括磋商落實備忘錄第13條相關事宜。卡利巴夫稱：“巴基斯坦總理宣佈停戰、特朗普發文稱美方解除海上封鎖，均是這份諒解備忘錄取得的重大成果。”他表示：“我方正跟進磋商程序，推動諒解備忘錄第13條落地執行。”卡利巴夫補充道：“在落實停戰相關安排的過程中，雙方必然會出現分歧。”備忘錄第13條規定：本諒解備忘錄簽署後，在備忘錄第1、4、5、10、11款相關舉措啟動並持續推進的前提下，美伊兩國方可啟動僅圍繞剩餘條款展開的最終協議談判。"
-    },
-    {
-      "id": "mkt:019f19e6-5035-7aab-8c40-eb08aa106f22",
-      "time": "2026-07-01 02:59:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Ghalibaf said television media stresses that attacks on Lebanon are not a problem, but should also recount previous wars and note that Iran has paid more than 4,000 martyrs."
     }
   ]
 }
