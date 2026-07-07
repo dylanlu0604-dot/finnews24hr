@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-07 08:28:34",
-  "count": 14100,
+  "updated": "2026-07-07 08:32:24",
+  "count": 14106,
   "items": [
+    {
+      "id": "4973154",
+      "time": "2026-07-07 08:31:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股指Kospi下跌 三星構成最大拖累】受三星電子股價下跌拖累，韓國股市基準指數KOSPI一度下跌4.1%。儘管這家儲存晶片製造商的利潤飆升了18倍，但其股票依然遭到拋售，分析師稱業績預期之前已被計入股價。三星一度跌6.3%，SK海力士一度跌3.8%。韓華海洋下跌逾20%，此前該公司未能獲得加拿大潛艇交易。"
+    },
+    {
+      "id": "mkt:019f39fa-ddac-7aab-8cbd-e0f8d4168644",
+      "time": "2026-07-07 08:29:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Data show two Japan-owned supertankers carrying Saudi crude are transiting toward the Strait of Hormuz to exit the Gulf region."
+    },
+    {
+      "id": "4973153",
+      "time": "2026-07-07 08:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料顯示：兩艘日本所有、裝載沙特原油的超級油輪正途經霍爾木茲海峽準備駛出海灣。"
+    },
+    {
+      "id": "4973152",
+      "time": "2026-07-07 08:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名美國官員稱，伊斯蘭革命衛隊向透過霍爾木茲海峽的商船至少發射了兩枚導彈。該美國官員表示，兩艘商船被擊中並遭受重大損壞，但沒有人員傷亡。"
+    },
+    {
+      "id": "4973151",
+      "time": "2026-07-07 08:28:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【LG新能源預計第二季度營業利潤將因電動汽車需求疲軟而下降77%  計劃於7月30日公佈詳細業績】韓國電池製造商LG能源解決方案週二表示，預計4月至6月的營業利潤將下降77%，至1,130億韓元(7,391萬美元)，原因是電動汽車(EV) 需求疲軟繼續拖累電池銷售。LGES（其客戶包括特斯拉、通用汽車和現代汽車等）一直面臨著電動汽車需求長期疲軟的困境。據報道，其主要客戶之一通用汽車正無限期推遲其下一代全尺寸電動卡車專案。今年5月，路透報道稱，LGES與通用汽車在俄亥俄州成立的電池合資企業Ultium Cells，因電動汽車需求持續疲軟，正推遲數百名員工的復工。公司營收預計將同比增長24.8%，達到7.6萬億韓元。LGES表示，計劃於7月30日公佈詳細業績。"
+    },
+    {
+      "id": "mkt:019f39f9-a9b1-7aab-8cbd-d8aca65ef3df",
+      "time": "2026-07-07 08:28:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "A U.S. official told Axios that Iran fired at least two missiles at vessels in the Strait of Hormuz. Two merchant ships were struck and heavily damaged; no casualties reported."
+    },
     {
       "id": "4973150",
       "time": "2026-07-07 08:26:57",
