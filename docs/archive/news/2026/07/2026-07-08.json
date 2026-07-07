@@ -1,7 +1,51 @@
 {
   "date": "2026-07-08",
-  "count": 81,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:019f3d97-9243-7aab-8cd3-c1cca5118de8",
+      "time": "2026-07-08 01:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says Ukraine and Denmark have signed a drone cooperation agreement and agreed to accelerate delivery of Patriot missiles, strengthen air defenses and advance development of European missile‑defense capabilities."
+    },
+    {
+      "id": "4974822",
+      "time": "2026-07-08 01:18:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通：特斯拉與SpaceX合併的潛在阻礙被低估】摩根大通分析師Rajat Gupta表示，儘管特斯拉與SpaceX的合併“在紙面上具有合理性”，但目前市場對兩者合併的猜測，低估了可能阻礙交易達成的潛在障礙。兩家公司的結合將使執行長埃隆·馬斯克能夠“統一兩個平臺的願景、使命和工程領導力”，而雙方共同的AI雄心則是“潛在的戰略性黏合劑”。然而，潛在的阻礙包括：多司法管轄區的監管審批、公司治理與投票權對稱性問題，以及“外界可能認為這是一場由SpaceX主導的收購，而非兩家公司的平等合併”。"
+    },
+    {
+      "id": "mkt:019f3d96-96c4-7aab-8cd3-bf8f4ea04614",
+      "time": "2026-07-08 01:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says aligned with Trump on Iran】Israeli Prime Minister Netanyahu told CNN that while he and U.S. President Trump sometimes differ on Iran, they are aligned on major issues. He said it is too early to predict Iran’s next moves and did not indicate whether Israel will take further action."
+    },
+    {
+      "id": "mkt:019f3d95-14b5-7aab-8cd3-b140dce5f8e5",
+      "time": "2026-07-08 01:16:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $4.484 billion from 14 counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "4974821",
+      "time": "2026-07-08 01:16:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（7月7日），美聯儲隔夜逆回購協議（RRP）使用規模為44.84億美元（交易對手14家），上個交易日報27.19億美元。"
+    },
     {
       "id": "4974819",
       "time": "2026-07-08 01:10:58",

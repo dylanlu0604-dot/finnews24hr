@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-08 01:16:12",
+  "updated": "2026-07-08 01:19:58",
   "count": 15884,
   "items": [
+    {
+      "id": "mkt:019f3d97-9243-7aab-8cd3-c1cca5118de8",
+      "time": "2026-07-08 01:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says Ukraine and Denmark have signed a drone cooperation agreement and agreed to accelerate delivery of Patriot missiles, strengthen air defenses and advance development of European missile‑defense capabilities."
+    },
+    {
+      "id": "4974822",
+      "time": "2026-07-08 01:18:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通：特斯拉與SpaceX合併的潛在阻礙被低估】摩根大通分析師Rajat Gupta表示，儘管特斯拉與SpaceX的合併“在紙面上具有合理性”，但目前市場對兩者合併的猜測，低估了可能阻礙交易達成的潛在障礙。兩家公司的結合將使執行長埃隆·馬斯克能夠“統一兩個平臺的願景、使命和工程領導力”，而雙方共同的AI雄心則是“潛在的戰略性黏合劑”。然而，潛在的阻礙包括：多司法管轄區的監管審批、公司治理與投票權對稱性問題，以及“外界可能認為這是一場由SpaceX主導的收購，而非兩家公司的平等合併”。"
+    },
+    {
+      "id": "mkt:019f3d96-96c4-7aab-8cd3-bf8f4ea04614",
+      "time": "2026-07-08 01:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says aligned with Trump on Iran】Israeli Prime Minister Netanyahu told CNN that while he and U.S. President Trump sometimes differ on Iran, they are aligned on major issues. He said it is too early to predict Iran’s next moves and did not indicate whether Israel will take further action."
+    },
+    {
+      "id": "mkt:019f3d95-14b5-7aab-8cd3-b140dce5f8e5",
+      "time": "2026-07-08 01:16:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $4.484 billion from 14 counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "4974821",
+      "time": "2026-07-08 01:16:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（7月7日），美聯儲隔夜逆回購協議（RRP）使用規模為44.84億美元（交易對手14家），上個交易日報27.19億美元。"
+    },
     {
       "id": "4974819",
       "time": "2026-07-08 01:10:58",
@@ -145724,51 +145768,6 @@
         "Impact bearish"
       ],
       "text": "WTI crude trades at $69.55/bbl, down more than 1.00% intraday."
-    },
-    {
-      "id": "4963545",
-      "time": "2026-07-01 01:18:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司表示“很高興最高法院將審理我方案件”。此前，美最高法院將審理蘋果公司上訴，涉其與Epic Games應用商店收費糾紛。"
-    },
-    {
-      "id": "4963544",
-      "time": "2026-07-01 01:17:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【對沖基金Millennium高層調整繼續 聯席首席投資官Russo年底退休】Millennium Management聯席首席投資官Paul Russo將於今年年底退休，標誌著這家多策略對沖基金巨頭高層領導的最新變動。知情人士表示，Russo在退休後將與公司保持聯絡，並根據需要提供協助。Russo負責公司股票業務的風險管理，同時也是首席投資官辦公室的成員。該公司目前管理著約890億美元的資產。"
-    },
-    {
-      "id": "4963543",
-      "time": "2026-07-01 01:17:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美最高法院將審理蘋果公司上訴 涉其與Epic Games應用商店收費糾紛】美國最高法院同意受理蘋果公司有關一項藐視法庭裁決的上訴。該案件涉及蘋果與《堡壘之夜》開發商Epic Games Inc.之間曠日持久的反壟斷糾紛。最高法院大法官週二在一份簡短的命令中表示，他們將審議下級法院的裁決。相關裁決稱蘋果公司故意違反2021年一項涉及蘋果應用商店開發者費用的裁決。法院的決定為蘋果與Epic Games之間始於2020年的反壟斷之爭增添了新的篇章。在最初的訴訟中，美國地區法官Yvonne Gonzalez Rogers認定蘋果應用商店並沒有違反聯邦反壟斷法。應用商店每年透過對開發者收取數字銷售佣金而為蘋果帶來數十億美元的收入。"
-    },
-    {
-      "id": "mkt:019f1988-65b3-7aab-8c3f-3be31d519d5a",
-      "time": "2026-07-01 01:16:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ANTHROPIC launches Claude Science for research automation】ANTHROPIC said on Tuesday it is launching Claude Science, software designed to help scientists automate research and reduce repetitive tasks. The tool can automate a range of biology and chemistry workflows, including protein-structure prediction, and aggregates commonly used scientific tools and more than 60 scientific databases. ANTHROPIC said the product lets users execute multi-step tasks and query in natural language without consulting multiple separate sources. Claude Science will be offered as a beta to ANTHROPIC’s paying customers."
-    },
-    {
-      "id": "mkt:019f1988-42af-7aab-8c3f-377414a4e060",
-      "time": "2026-07-01 01:16:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $26.9 billion from 10 counterparties in fixed-rate reverse repo operations."
     }
   ]
 }
