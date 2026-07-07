@@ -1,7 +1,136 @@
 {
   "date": "2026-07-07",
-  "count": 1727,
+  "count": 1741,
   "items": [
+    {
+      "id": "4974083",
+      "time": "2026-07-07 17:50:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：我們必須保持耐心和務實，敘利亞歷經15年內戰，我不能將團隊派往尚未實現安全穩定的地區。"
+    },
+    {
+      "id": "4974082",
+      "time": "2026-07-07 17:49:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：今早我會見了來自敘利亞各界的人士，我看到了（敘利亞人民的）尊嚴、勇氣與決心。"
+    },
+    {
+      "id": "mkt:019f3bfb-cd83-7aab-8cca-d51cd6567b0e",
+      "time": "2026-07-07 17:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said his visit to Syria will proceed."
+    },
+    {
+      "id": "4974081",
+      "time": "2026-07-07 17:49:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：沒有任何事物能夠動搖敘利亞人民對建立一個完全主權、安全穩定的敘利亞的嚮往。"
+    },
+    {
+      "id": "4974080",
+      "time": "2026-07-07 17:48:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長裕集團：股票交易異常波動 目前生產經營正常】長裕集團公告稱，公司股票2026年7月3日、7月6日、7月7日連續三個交易日內日收盤價格跌幅偏離值累計達20%，屬於異常波動。經自查及向控股股東、實控人詢證，截至公告披露日，不存在應披露未披露重大事項，生產經營正常，未發現需澄清的報道或傳聞，相關人員在此期間無買賣公司股票行為。公司提醒投資者注意風險，理性投資。"
+    },
+    {
+      "id": "4974079",
+      "time": "2026-07-07 17:48:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中持股份：股價異常波動 2025 年淨虧損 1.06 億元】中持股份公告稱，公司股票於 2026 年 7 月 3 日、7 月 6 日、7 月 7 日連續三個交易日內收盤價格漲幅偏離值累計超過 20%，屬於股票交易異常波動情形。經自查，公司目前生產經營正常，除已公開披露的控股股東變更、持股 5%以上股東轉讓股份等資訊外，不存在應披露未披露重大資訊。公司 2025 年度營收 10.25 億元，同比減少 3.11%，淨虧損 1.06 億元；2026 年 Q1 營收 1.39 億元，同比減少 9.93%，淨利潤 1724.61 萬元。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4974078",
+      "time": "2026-07-07 17:47:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：我們今日將與敘利亞合作方討論，在我們最初簽署的諒解備忘錄基礎上，能否推進正式合同的簽署。"
+    },
+    {
+      "id": "mkt:019f3bf9-ded4-7aab-8cca-cef1d673a231",
+      "time": "2026-07-07 17:47:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin says it is in contact with the U.S. government and hopes U.S. efforts to achieve peace succeed."
+    },
+    {
+      "id": "mkt:019f3bf9-beb2-7aab-8cca-c0cd69d5c253",
+      "time": "2026-07-07 17:47:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Kremlin says Russia has achieved strategic gains in securing Kostyantynivka and is continuing to establish buffer zones."
+    },
+    {
+      "id": "mkt:019f3bf9-ad48-7aab-8cca-baab61922348",
+      "time": "2026-07-07 17:47:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kremlin says Ukraine made confrontational remarks about Russia ahead of the summit, calling them unfortunate."
+    },
+    {
+      "id": "4974077",
+      "time": "2026-07-07 17:47:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波音即將拿下菲律賓航空自2007年以來的首筆訂單。"
+    },
+    {
+      "id": "mkt:019f3bf9-5e89-7aab-8cca-b790a00db38a",
+      "time": "2026-07-07 17:47:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The Kremlin said a return to a peaceful trajectory is possible if Kyiv shows goodwill."
+    },
+    {
+      "id": "mkt:019f3bf9-52ab-7aab-8cca-aea751c8d166",
+      "time": "2026-07-07 17:47:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said it will closely monitor developments at the NATO summit in Ankara."
+    },
+    {
+      "id": "4974076",
+      "time": "2026-07-07 17:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：克里姆林宮表示將密切關注安卡拉北約峰會相關訊息。"
+    },
     {
       "id": "4974075",
       "time": "2026-07-07 17:46:07",
