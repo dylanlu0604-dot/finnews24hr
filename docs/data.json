@@ -1,7 +1,136 @@
 {
-  "updated": "2026-07-07 10:27:43",
-  "count": 14374,
+  "updated": "2026-07-07 10:31:45",
+  "count": 14387,
   "items": [
+    {
+      "id": "mkt:019f3a6a-4d6b-7aab-8cc0-782cbb622549",
+      "time": "2026-07-07 10:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share fiber-optic sector slid; Hangdian Co. again hit the daily limit down, with Changguang Huaxin, Yongding Co., Sanwang Communication, Zhongbei Communication and Yangtze Optical Fibre falling in sympathy."
+    },
+    {
+      "id": "4973335",
+      "time": "2026-07-07 10:30:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念股震盪走低，杭電股份再度跌停】光纖概念股震盪走低，杭電股份再度跌停，長光華芯、永鼎股份、三旺通訊、中貝通訊、長飛光纖跟跌。"
+    },
+    {
+      "id": "mkt:019f3a69-d13c-7aab-8cc0-7345397051d0",
+      "time": "2026-07-07 10:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude's intraday gain widened to 1.0%, trading at $72.79/bbl."
+    },
+    {
+      "id": "4973334",
+      "time": "2026-07-07 10:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯成股份等新設電子公司，含AI及積體電路晶片業務】企查查APP顯示，近日，合肥晶瑞旺電子有限公司成立，註冊資本7億元，經營範圍包含：積體電路晶片及產品製造；積體電路銷售；積體電路晶片及產品銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由匯成股份等共同持股。"
+    },
+    {
+      "id": "4973333",
+      "time": "2026-07-07 10:29:50",
+      "tags": [
+        "公司",
+        "觀點",
+        "原創"
+      ],
+      "text": "【李開復稱不用擔心程式設計師被替代】今日舉辦的零一萬物萬策AI媒體釋出會上，零一萬物創始人、CEO李開復指出，過去兩年多的時間內，AI程式設計已經超過人的能力，很多公司的程式碼，90%以上都是AI寫的，只有10%是人工。   “AI程式設計能力的突破，讓AI真正擁有了改寫軟體、重構流程和創造系統的能力。”李開復指出，很多人覺得程式設計師需要因此擔憂，但其實這是所有問題中最不重要的一件事情，因為當AI可以程式設計了，意味著AI可以做很多事情，它不只是一個回答問題的工具，而是成為了一個能調動系統、執行任務甚至能參與決策的工具。 “當AI做事的能力已經超過大部分人類的時候，最重要的事情不是說他取代程式，而是他可以幫我們幹活，而且這個活是沒有上限的。”李開復表示。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f3a68-8180-7aab-8cc0-685f5bc08dda",
+      "time": "2026-07-07 10:29:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【PBOC's Pan: China's FX reserves to further raise Hong Kong asset allocation, boosting Hong Kong capital markets】PBOC's Pan said on July 7 at the Hong Kong Fixed Income and Currency Summit and Bond Connect forum that China's foreign-exchange reserves will continue to increase their allocation to assets in Hong Kong, injecting momentum into Hong Kong capital markets. He said the reserves have been conducting asset allocation and investment trading in Hong Kong for more than a year."
+    },
+    {
+      "id": "4973332",
+      "time": "2026-07-07 10:29:09",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【上交所最佳化上證e互動平臺許可權功能，新增三項“防炒蹭”功能】上交所釋出通知，為進一步強化上證e互動平臺管理，針對當前存在的突出問題，上交所對平臺許可權功能進行了最佳化，主要有兩方面。一方面，暫停兩類公司回覆許可權。一是暫停年度資訊披露評價結果為D的公司回覆許可權直至評價結果提升；二是暫停因“蹭熱點”被行政處罰或採取通報批評以上紀律處分的公司回覆許可權12個月。另一方面，新增三項“防炒蹭”功能。一是設定“彈窗提示”，提醒投資者發言、上市公司回覆均不得故意“蹭熱點”。二是在前期已實現實名制註冊的基礎上，要求新註冊使用者在完成實名認證滿30天后方可提問。三是單一使用者每日提問不超過10條，其中對同一家公司每日提問不超過3條。"
+    },
+    {
+      "id": "4973331",
+      "time": "2026-07-07 10:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海智慧算力規模突破16萬P 169款大模型透過備案】記者從2026世界人工智慧大會新聞釋出會上獲悉，上海已有169款大模型透過備案，為OPC等新業態提供底層創新能力支撐。全市智慧算力規模突破16萬P，有力支撐各行業“AI+”應用落地。上海已成立創智學院，14所高校成立人工智慧創新學院、19所高校開設人工智慧相關專業，全市人才規模近30萬人，約佔全國三分之一。全市開源社群匯聚模型超15萬個，吸引全球開發者超千萬。（科創板日報）"
+    },
+    {
+      "id": "4973330",
+      "time": "2026-07-07 10:28:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【潘功勝：支援香港推出離岸人民幣國債期貨 支援香港建設綜合性的金融交易平臺】中國人民銀行行長潘功勝7月7日在“香港固定收益及貨幣峰會暨債券通論壇”上表示，下一步中國人民銀行將配合香港特區政府和金融管理部門聚焦4個重點方向，繼續建設好、鞏固好、發展好香港國際金融中心。其中一個方向是支援香港發展多元化金融市場。潘功勝表示，香港金融市場傳統上以股票市場為主，債券、黃金、大宗商品、衍生品等金融子市場發展潛力較大。當前，全球利率和通脹波動加劇。潘功勝說，中國債券憑藉其相對穩定性和較低波動性特徵，凸顯出獨特的分散化配置優勢，持續吸引國際投資者的增配需求，加上較低的人民幣融資成本，香港人民幣債券市場面臨難得的發展機遇。潘功勝表示，下一步，中國人民銀行將結合市場需求，繼續支援香港建設多元化的金融市場體系，強化香港國際資產管理中心和財富管理中心功能。他透露的舉措包括：支援香港推出離岸人民幣國債期貨，香港不久後將上線五年期人民幣國債期貨，便利離岸市場風險管理；支援香港建設綜合性的金融交易平臺，中國人民銀行指導中國外匯交易中心，與香港金管局、香港證監會合作，支援債券通公司升級為交易平臺的運營實體，提供債券、貨幣、外匯等金融市場交易的金融基礎設施服務；擴大人民幣債券作為離岸市場合格擔保品的適用範圍等。（上證報）"
+    },
+    {
+      "id": "te:economy:564645",
+      "time": "2026-07-07 10:28:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Steadies Ahead of FOMC Minutes — The yield on the US 10-year Treasury note held around 4.48% on Tuesday as investors awaited the minutes of the Federal Reserve’s June meeting for fresh clues on the outlook for interest rates. Data released last week showed a sharp slowdown in US job growth in June, alongside downward revisions to payroll figures for the previous two months, leading markets to scale back expectations for near-term rate hikes. Meanwhile, the latest ISM Services PMI indicated a modest slowdown in services sector activity that largely matched forecasts, while price pressures eased to their lowest level since February and employment posted its strongest gain since late 2021. Markets are now pricing in roughly a 50% chance of a Fed rate increase in September, down from about two-thirds before the latest employment report. Investors will also monitor US trade deficit data due later in the day."
+    },
+    {
+      "id": "4973329",
+      "time": "2026-07-07 10:27:38",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【中國人民銀行行長潘功勝：國家外匯儲備將繼續提高在香港的資產配置比例 為香港資本市場發展注入動能】中國人民銀行行長潘功勝7月7日在“香港固定收益及貨幣峰會暨債券通論壇”上表示，未來國家外匯儲備將繼續提高在香港的資產配置比例，為香港資本市場發展注入更多動能。他提到，近一年多來，國家外匯儲備持續在香港開展資產配置和投資交易。（上證報）"
+    },
+    {
+      "id": "mkt:019f3a66-c274-7aab-8cc0-667ed7f3ccf2",
+      "time": "2026-07-07 10:27:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman Sachs: Thai inflation likely contained; BOT expected to hold policy rate at 1.00% through end-2026】Goldman Sachs economists, commenting on Monday’s CPI release, said June headline CPI rose unexpectedly less than forecast. They noted core CPI beat Goldman’s estimate but said it is not a primary concern at this stage. A forward-looking survey showed firms’ output-price expectations eased in June, implying limited evidence of persistent underlying price pressure. Goldman Sachs continues to expect the BOT will keep its policy rate at 1.00% through end-2026."
+    },
+    {
+      "id": "mkt:019f3a66-b6bb-7aab-8cc0-590599892bcf",
+      "time": "2026-07-07 10:27:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index and Shenzhen Composite Index both fell by more than 1%; Shanghai Composite down 0.94%. Over 4,600 stocks declined marketwide."
+    },
     {
       "id": "4973328",
       "time": "2026-07-07 10:26:35",
