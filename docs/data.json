@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08 05:04:02",
-  "count": 15828,
+  "updated": "2026-07-08 05:07:49",
+  "count": 15823,
   "items": [
     {
       "id": "4974963",
@@ -145126,62 +145126,6 @@
         "Impact bearish"
       ],
       "text": "Central Bank of the Republic of Turkey cancels the additional lira reserve requirement on foreign-currency deposits and participation funds."
-    },
-    {
-      "id": "4963692",
-      "time": "2026-07-01 05:07:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克執行長： 公司正身處更為複雜的宏觀經營環境。"
-    },
-    {
-      "id": "mkt:019f1a5b-a487-7aab-8c44-03ada12a5bae",
-      "time": "2026-07-01 05:07:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launched GEMINI Spark for macOS and expanded app integrations."
-    },
-    {
-      "id": "4963691",
-      "time": "2026-07-01 05:07:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克執行長：終端動銷疲軟，影響當下折扣策略與未來訂單儲備。"
-    },
-    {
-      "id": "4963690",
-      "time": "2026-07-01 05:07:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：推出適用於 macOS 系統的 Gemini Spark，拓展多款應用互聯能力。"
-    },
-    {
-      "id": "mkt:019f1a5b-0bed-7aab-8c43-fc5c118545d3",
-      "time": "2026-07-01 05:06:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Tesla",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "AMAT.O",
-        "SMH.O"
-      ],
-      "text": "【Michael Burry shorts AI and semiconductors】Michael Burry, the \"Big Short\" investor, disclosed new short bets against AI and semiconductor sectors, saying he has shorted Tesla at about $416.22 and holds short positions in NVIDIA (NVDA.O), Caterpillar, Applied Materials and a semiconductor ETF. He said the trades form part of an overall hedge against overheating valuations in AI and semiconductors, but did not disclose position sizes and said he entered the Tesla short after a rebound. Related technology stocks largely traded higher intraday."
     }
   ]
 }
