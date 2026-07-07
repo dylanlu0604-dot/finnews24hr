@@ -1,7 +1,143 @@
 {
   "date": "2026-07-07",
-  "count": 1622,
+  "count": 1637,
   "items": [
+    {
+      "id": "mkt:019f3bdf-976b-7aab-8cc9-cdb2f17301db",
+      "time": "2026-07-07 17:18:56",
+      "tags": [
+        "MKT News",
+        "018260.KS"
+      ],
+      "text": "【Samsung SDS union membership surges to 4,342; seeks talks on pay reform】A newly formed Samsung SDS union formally requested collective bargaining one day after launching. Membership applications began afternoon July 6 and topped 2,000 within about two hours; by ~13:30 on July 7 membership had risen to 4,342. Samsung SDS employs roughly 11,000 staff; the union seeks more than 5,500 members to secure a majority. Management proposes replacing cash performance bonuses with company stock worth 20% of annual salary; a staff vote on the plan is underway and closes at midnight July 7. Opponents say stock-based pay links compensation to share-price and external industry conditions, is harder to liquidate and is not included in retirement-benefit calculations."
+    },
+    {
+      "id": "4974016",
+      "time": "2026-07-07 17:18:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芭薇股份：董事陳彪擬減持0.17%】芭薇股份公告，持股5%以上股東、董事、副總經理陳彪計劃自本公告披露之日起15個交易日後3個月內，透過集中競價減持19.08萬股，佔總股本比例0.17%，減持價格區間為市場價格，擬減持原因為個人資金需求。"
+    },
+    {
+      "id": "4974015",
+      "time": "2026-07-07 17:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【周立偉同志任中共四川省委常委】近日，中共中央批准：周立偉同志任中共四川省委委員、常委。（四川釋出）"
+    },
+    {
+      "id": "4974014",
+      "time": "2026-07-07 17:17:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華強新能源在天津成立新公司 註冊資本200萬】天眼查App顯示，近日，天津方聯新能源有限公司成立，法定代表人為馬丹，註冊資本200萬人民幣，經營範圍包括太陽能發電技術服務、新興能源技術研發、儲能技術服務、風力發電技術服務、充電樁銷售、電動汽車充電基礎設施運營等。股東資訊顯示，該公司由深圳華強新能源有限公司全資持股。"
+    },
+    {
+      "id": "4974013",
+      "time": "2026-07-07 17:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智微智慧：預計上半年淨利潤同比增長244.56%—309.65%】智微智慧公告，預計2026年上半年淨利潤為3.5億元—4.17億元，同比增長244.56%—309.65%。報告期內公司經營業績穩步增長，主要得益於AI產業高景氣度驅動各核心業務板塊需求持續釋放：智算業務實現高速發展，ICT基礎設施業務增長動能強勁，出貨量同比大幅增長。"
+    },
+    {
+      "id": "4974012",
+      "time": "2026-07-07 17:17:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技：收購巨騰國際控股，反壟斷備案審查進行中】藍思科技與巨騰國際控股聯合公告，就藍思科技透過中信里昂證券代表提出全面現金要約收購巨騰國際全部已發行股份事項，更新進展如下：先決條件7方面，藍思科技已向中國反壟斷監管機構提交相關備案，審查程式目前仍在進行中。截至2026年7月7日，先決條件1已獲達成，所有其他先決條件（除條件6、14、15外）仍未達成。各方正努力推進相關先決條件的達成，並將適時另行公告。"
+    },
+    {
+      "id": "mkt:019f3bdd-e12d-7aab-8cc9-c20e904551ca",
+      "time": "2026-07-07 17:17:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kazakhstan plans to extend its ban on fuel exports until May 2027."
+    },
+    {
+      "id": "4974011",
+      "time": "2026-07-07 17:16:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通首次覆蓋 SPACEX <SPCX.O>  ，給予增持評級；目標價225美元。"
+    },
+    {
+      "id": "mkt:019f3bdd-72f1-7aab-8cc9-ba2ea6d0ebdc",
+      "time": "2026-07-07 17:16:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【ECB requires banks to submit plans to address AI cybersecurity threats】In a letter to bank CEOs, ECB chief supervisory officer Claudia Buch required lenders to submit action plans by end-October to address rising cybersecurity threats from advanced AI models, citing examples such as Anthropic’s Claude and Mythos. Buch urged faster software patching, strengthened AI-driven cyber defenses, tighter oversight of third-party vendors and long-term infrastructure modernization. ECB President Lagarde last month warned AI could trigger a financial crisis and said CEOs must ensure readiness and recognize the need for substantial investment. The ECB has stress-tested 109 banks under a severe cyberattack scenario and said most detected vulnerabilities have been fixed."
+    },
+    {
+      "id": "4974010",
+      "time": "2026-07-07 17:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈薩克計劃將燃油出口禁令延長至2027年5月。"
+    },
+    {
+      "id": "te:markets:564819",
+      "time": "2026-07-07 17:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Holds Near $1.14 as Oil Surge Fuels Inflation Fears — The euro hovered just above $1.14, little changed from recent sessions, as rising oil prices heightened inflation concerns. Crude climbed back above $72 per barrel after attacks in the Strait of Hormuz underscored ongoing risks to shipping. Traders boosted bets on ECB rate hikes after official Isabel Schnabel warned of lingering economic effects from the Iran conflict, with core inflation still elevated. However, gains were capped by softer inflation data and dovish comments from ECB President Christine Lagarde, who cited last week a more balanced outlook for euro-area inflation and growth. Germany’s cabinet approved a 2027 budget draft on Monday, with €555.4 billion in planned spending and borrowing rising to €203.6 billion, up from April’s €196.5 billion estimate. In France, a Paris court will rule on Tuesday on Marine Le Pen’s appeal against an election ban for misusing EU funds, a decision that could impact her 2027 presidential bid amid rising political uncertainty."
+    },
+    {
+      "id": "4974009",
+      "time": "2026-07-07 17:15:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福石控股：重大訴訟終結本次執行，金額3504.83萬元】福石控股公告，公司此前就霖漉投資（上海）有限公司未能實現業績承諾及違反限售約定提起訴訟並勝訴，後申請強制執行。近日法院裁定終結本次執行程式，因未發現被執行人有足額可供執行財產，已對被執行人採取限制消費措施。本次訴訟主張及申請執行的標的為違約賠償金，在被告未執行法院判決前不計入公司財務報表，不會對公司損益產生不利影響。公司將繼續追索債權。"
+    },
+    {
+      "id": "4974008",
+      "time": "2026-07-07 17:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀集團（UBS）對中聯重科H股的多頭持倉比例增至9.18%】據香港交易所披露，瑞銀集團（UBS）對中聯重科股份有限公司 - H股的多頭持倉比例於2026年7月1日從8.8%增至9.18%。"
+    },
+    {
+      "id": "4974007",
+      "time": "2026-07-07 17:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁與萊茵金屬簽署諒解備忘錄，將在德國生產陸軍戰術導彈系統（ATACMS）。"
+    },
+    {
+      "id": "4974006",
+      "time": "2026-07-07 17:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對李寧的多頭持倉比例增至9.42%】據香港交易所披露，貝萊德（BlackRock）對李寧有限公司的多頭持倉比例於2026年7月1日從8.16%增至9.42%。"
+    },
     {
       "id": "mkt:019f3bdc-1288-7aab-8cc9-b1661d0bebab",
       "time": "2026-07-07 17:15:06",
