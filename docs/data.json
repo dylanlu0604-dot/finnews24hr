@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-07 21:59:29",
-  "count": 16054,
+  "updated": "2026-07-07 22:03:28",
+  "count": 16065,
   "items": [
+    {
+      "id": "4974661",
+      "time": "2026-07-07 22:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價跌幅擴大，最新下跌4%。"
+    },
+    {
+      "id": "4974660",
+      "time": "2026-07-07 22:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西6月汽車產量降至246,015輛，6月新車銷量降至272,474輛。"
+    },
+    {
+      "id": "mkt:019f3ce2-0247-7aab-8cd1-0522fc736996",
+      "time": "2026-07-07 22:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO allies signed a $50 billion defense-industrial agreement in Ankara."
+    },
+    {
+      "id": "mkt:019f3ce1-8cd4-7aab-8cd0-f8ebd8693043",
+      "time": "2026-07-07 22:00:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UKMTO reports another tanker attacked in Strait of Hormuz】UKMTO said it received a report of another incident in the Strait of Hormuz. The tanker reportedly encountered an attack by an unidentified drone and sustained minor damage; no casualties or environmental impact were reported. The vessel is proceeding to its next port of call."
+    },
+    {
+      "id": "4974659",
+      "time": "2026-07-07 22:00:41",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大6月Ivey未季調PMI 59.7，前值61.3。加拿大6月Ivey季調後PMI 56.2，前值58.2。"
+    },
+    {
+      "id": "4974658",
+      "time": "2026-07-07 22:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約在安卡拉簽署價值500億美元的國防工業協議。"
+    },
+    {
+      "id": "mkt:019f3ce1-0c85-7aab-8cd0-f2764c7ba174",
+      "time": "2026-07-07 22:00:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June Ivey PMI (unadjusted) 59.7; prior 61.3."
+    },
+    {
+      "id": "mkt:019f3ce1-0c84-7aab-8cd0-eb9a9a436fa6",
+      "time": "2026-07-07 22:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada seasonally adjusted Ivey PMI for June 56.2, down from prior 58.2."
+    },
+    {
+      "id": "mkt:019f3ce0-e8bb-7aab-8cd0-e62a4014ca2d",
+      "time": "2026-07-07 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Ivey PMI SA (Jun) | actual 56.2 | previous 58.2"
+    },
+    {
+      "id": "mkt:019f3ce0-e8a7-7aab-8cd0-db0b6a78a80b",
+      "time": "2026-07-07 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Ivey PMI NSA (Jun) | actual 59.7 | previous 61.3"
+    },
+    {
+      "id": "mkt:019f3ce0-c823-7aab-8cd0-d62c22d02335",
+      "time": "2026-07-07 21:59:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai consumer watchdog: shared-rental and AI complaints surge in 1H 2026】Shanghai Consumer Protection Committee said in its 1H 2026 complaints report that citywide consumer complaints fell overall, but complaints tied to shared-rental services and AI-related consumption rose notably. The committee logged 4,705 shared-service complaints in 1H, up 65.8% YoY. Principal consumer grievances: shared bikes—billing inaccuracies, unresolved equipment faults and slow service response; shared power banks—unclear charging rules, unreasonable overtime fees and device failures. The report also flagged insufficient disclosure in tourism traffic-driving/promotional activities."
+    },
+    {
+      "id": "4974657",
+      "time": "2026-07-07 21:59:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：一艘油輪遭不明無人機襲擊，受損輕微。"
+    },
+    {
+      "id": "4974656",
+      "time": "2026-07-07 21:59:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事組織：目前未報告人員傷亡或環境影響，船隻正繼續駛往下一停靠港。"
+    },
     {
       "id": "4974655",
       "time": "2026-07-07 21:58:50",
@@ -147240,24 +147357,6 @@
         "Importance 3"
       ],
       "text": "US Job Openings at 2-Year High — Job openings in the US increased by 9,000 to 7.594 million in May 2026, the highest since May 2024 and well above market expectations of 7.30 million, highlighting labor market resilience despite rising energy costs from the Iran conflict. The number of job openings increased in wholesale trade (+71,000), accommodation and food services (+62,000), real estate and rental and leasing (+40,000), but fell in health care and social assistance (-115,000) and finance and insurance (-69,000). Regionally, openings rose in the South (+88,000), and the Midwest (+115,000), but fell in the Northeast (-88,000) and the West (-105,000). Over the month, hires were unchanged at 5.2 million, while total separations changed little at 5.1 million. Within separations, quits (3.1 million) changed little, while layoffs and discharges (1.7 million) were unchanged."
-    },
-    {
-      "id": "em:jjsj_mgsj:202606303788666716",
-      "time": "2026-06-30 22:00:51",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月消費者信心指數為91.2】美國6月消費者信心指數為91.2，預期值為94.4。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606303788664868",
-      "time": "2026-06-30 22:00:21",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月JOLTs職位空缺759.4萬人】美國5月JOLTs職位空缺759.4萬人，預期730萬人，前值由761.8萬人修正為758.5萬人。"
     }
   ]
 }
