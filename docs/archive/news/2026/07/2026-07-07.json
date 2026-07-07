@@ -1,7 +1,89 @@
 {
   "date": "2026-07-07",
-  "count": 744,
+  "count": 752,
   "items": [
+    {
+      "id": "4973328",
+      "time": "2026-07-07 10:26:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報15262.436點；上證指數跌0.93%，現報4003.618點；創業板指跌1.02%，現報3908.577點。"
+    },
+    {
+      "id": "4973327",
+      "time": "2026-07-07 10:26:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3909.065點；上證指數跌0.92%，現報4004.147點；深證成指跌0.99%，現報15263.912點。"
+    },
+    {
+      "id": "mkt:019f3a65-4beb-7aab-8cc0-560d60ac8b23",
+      "time": "2026-07-07 10:25:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share lab-grown diamond sector rallied again; Yeguangming hit a 30CM limit-up, with Huifeng Diamond, Woerde and Guoli Electronics also rising."
+    },
+    {
+      "id": "4973326",
+      "time": "2026-07-07 10:25:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄂州市因龍捲風受災導致5人死亡、房屋受損】鄂州市應急管理局通報，7月6日19時鄂州市啟動強對流天氣紅色預警，19時至20時，局地出現短時強降水，伴有雷暴大風等強對流天氣（10個站點極大風速超過7級，其中主城區鄂城區出現13級龍捲風、梁子湖區出現9-10級大風，瞬時極大風速達40.4米/秒）。極端天氣來襲、災情發生後，市委、市政府主要負責同志第一時間趕赴受災現場，指揮排程搶險救災工作，第一時間組織公安、應急、消防、交通、電力、通訊等部門1600餘人趕赴現場開展救援。截至7日5時10分，全市初步統計受災人口428人，其中死亡5人，轉移安置178人，因災損壞房屋155戶378間，全面受災情況仍在進一步統計核實中。"
+    },
+    {
+      "id": "4973325",
+      "time": "2026-07-07 10:25:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美團勁揚8.9% 創逾一個月新高】外賣平臺巨頭美團週二早盤一度勁揚8.9%，創逾一個月新高。 此前該股在回購和大模型釋出等提振下，已連續上漲五個交易日。美團龍貓LongCat大模型官方賬號近期公告稱，美團正式釋出新一代萬億引數大模型LongCat-2.0，並將對外開源。 摩根士丹利表示，近期美國半導體股的疲軟表明市場漲勢正在擴大，投資者可能會將目光轉向人工智慧“超大規模企業”，以及非必需消費、運輸和生物技術類股。該投行在週一釋出的一份報告中指出，隨著人工智慧週期演變，超大規模企業——即大舉投資資料中心的科技公司——可能受益於資金從半導體股撤出的輪動。"
+    },
+    {
+      "id": "4973324",
+      "time": "2026-07-07 10:25:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽概念反覆活躍 晨光新材直線漲停】有機矽概念反覆活躍，晨光新材直線漲停，東嶽矽材漲超10%，矽寶科技、合盛矽業、潤禾材料跟漲。"
+    },
+    {
+      "id": "te:markets:564643",
+      "time": "2026-07-07 10:24:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains Near 40-Year Lows — The Japanese yen traded near 162 per dollar on Tuesday, hovering close to its weakest level in four decades as investors continued to bet against the currency amid the absence of intervention from Japanese authorities. Even so, markets remained alert for any move by Tokyo to support the yen, though many traders doubted that intervention alone would provide lasting relief. Finance Minister Satsuki Katayama reiterated that officials stand ready to enter the foreign exchange market whenever necessary, adding that Japan and the US remain in close communication on currency policy. The yen also remained under pressure due to concerns over Japan’s fiscal expansion and expectations that the Bank of Japan is still lagging behind in normalizing monetary policy. Meanwhile, investors assessed data showing nominal wages increased 3.2% in May, while household spending declined 0.4%."
+    },
+    {
+      "id": "mkt:019f3a64-60bd-7aab-8cc0-4bb41c967f78",
+      "time": "2026-07-07 10:24:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "06680.HK",
+        "Impact bullish"
+      ],
+      "text": "【Nomura initiates coverage of Jinli Permanent Magnet (06680.HK) with HK$27 PT, Buy】Nomura initiates coverage of Jinli Permanent Magnet (06680.HK) with a Buy rating and HK$27 PT. Nomura says Jinli is a global leader in rare-earth permanent-magnet materials and the largest NdFeB producer, forecast to account for c.10% of global rare-earth magnet shipments by 2025. High-end rare-earth magnets are widely used in EVs, wind turbines and appliances; Jinli’s penetration across major downstream markets underpins a projected 12% volume CAGR for 2025–28. Nomura identifies humanoid robots as an emerging demand driver, estimating 3–4kg of rare-earth magnets per robot versus 2.0–2.5kg per EV, and says the company’s long-term supply relationships with Tesla and other leading EV OEMs position it to enter the humanoid-robot supply chain."
+    },
     {
       "id": "mkt:019f3a62-abdf-7aab-8cc0-41ff8026c6b4",
       "time": "2026-07-07 10:22:52",
