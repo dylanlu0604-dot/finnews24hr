@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-07 13:42:49",
-  "count": 14698,
+  "updated": "2026-07-07 13:46:45",
+  "count": 14701,
   "items": [
+    {
+      "id": "mkt:019f3b1b-ef99-7aab-8cc4-23872a2a7895",
+      "time": "2026-07-07 13:45:14",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY starts coverage of SpaceX (SPCX.O), assigns Overweight rating and $300 price target."
+    },
+    {
+      "id": "te:economy:564699",
+      "time": "2026-07-07 13:44:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Finnish Industrial Output Slows to 4-Month Low — Industrial production in Finland grew by 0.6% year-on-year in May 2026, slowing from an upwardly revised 3.0% in the previous month, marking the softest pace of growth since a contraction in January. Production growth eased in the manufacturing sector (0.7% vs 2.3%), reflecting weaker output in food products (2.6% vs 7.2%), chemical industry (-7.8% vs 5.0%), and printing and reproduction of recorded media (-12.0% vs -5.6%). At the same time, output in mining and quarrying posted a steeper decline (-10.7% vs -5.0%), while electricity, gas, steam, and air-conditioning supply slipped into negative territory (-0.1% vs 8.9%). On a seasonally adjusted monthly basis, industrial output fell1.4% in May, easing slightly from a 1.9% drop in the previous month, the sharpest monthly drop in nine months."
+    },
+    {
+      "id": "mkt:019f3b1a-be97-7aab-8cc4-1873d2e4f711",
+      "time": "2026-07-07 13:43:56",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raises ASML PT to €1,830 from €1,660."
+    },
     {
       "id": "4973572",
       "time": "2026-07-07 13:40:44",
