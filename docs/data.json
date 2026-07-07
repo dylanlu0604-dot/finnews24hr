@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08 01:12:22",
-  "count": 15893,
+  "updated": "2026-07-08 01:16:12",
+  "count": 15884,
   "items": [
     {
       "id": "4974819",
@@ -145769,91 +145769,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $26.9 billion from 10 counterparties in fixed-rate reverse repo operations."
-    },
-    {
-      "id": "4963542",
-      "time": "2026-07-01 01:16:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "10 家交易對手在美聯儲逆回購操作中獲得 269 億美元。"
-    },
-    {
-      "id": "mkt:019f1987-5b90-7aab-8c3f-2cf4bdd7b736",
-      "time": "2026-07-01 01:15:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB sources say policymakers are discussing raising banks' minimum reserve ratio from 1% to 2%."
-    },
-    {
-      "id": "mkt:019f1986-dda5-7aab-8c3f-22d6e4487043",
-      "time": "2026-07-01 01:14:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB sources say a decision on minimum reserve requirements is expected in autumn."
-    },
-    {
-      "id": "mkt:019f1986-aa22-7aab-8c3f-1c0ebe02067f",
-      "time": "2026-07-01 01:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian Ministry of Labor reported a net increase of 72,960 formal (registered) jobs in May, below the market consensus of +115,000."
-    },
-    {
-      "id": "4963541",
-      "time": "2026-07-01 01:14:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行訊息人士稱，政策制定者正就是否將銀行最低存款準備金率從1%上調一倍至2%展開討論。"
-    },
-    {
-      "id": "4963540",
-      "time": "2026-07-01 01:14:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行訊息人士：最低存款準備金率預計將於秋季作出決定。"
-    },
-    {
-      "id": "4963539",
-      "time": "2026-07-01 01:13:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西勞工部公佈，5月新增正式就業崗位淨增7.296萬個，此前路透調查的預期為新增11.5萬個。"
-    },
-    {
-      "id": "4963538",
-      "time": "2026-07-01 01:13:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：6月30日至9月30日期間，Quest裝置使用者完成Discord下載即可獲贈一個月Discord Nitro會員。"
-    },
-    {
-      "id": "te:markets:563095",
-      "time": "2026-07-01 01:12:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Rebounds from 7-Month Low — Silver prices rose toward $60 per ounce, halting the plunge that bottomed at a seven-month low of $57 on June 24th, and outperforming gold in the last sessions as the outlook of strong industrial demand weighed against pressure from a restrictive Fed. Equities for chip producers and datacenter developers rallied for a second session to reflect long bets on the construction of compute capacity. The activity boosted the outlook of silver demand due to its use usage in AI infrastructure for its conductive nature. Still, the hawkish outlook for the Fed maintained pressure in assets that do not bear coupons. Strong labor market data and surveys pointing to higher inflation drove a large portion of the FOMC to project more restrictive rates this year. On top of that, fixed-income supply risked a decline as Fed Chairman Warsh campaigned for a lower Fed balance sheet, reversing the debasement trade from late 2025."
     }
   ]
 }
