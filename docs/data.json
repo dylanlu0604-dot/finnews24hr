@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-08 02:47:54",
-  "count": 15849,
+  "updated": "2026-07-08 02:51:36",
+  "count": 15853,
   "items": [
+    {
+      "id": "mkt:019f3dea-f594-7aab-8cd5-361134e8a42d",
+      "time": "2026-07-08 02:50:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A U.S. official said the U.S. Treasury is revoking a general license that previously authorized sales of Iranian oil."
+    },
+    {
+      "id": "mkt:019f3dea-7203-7aab-8cd5-2be090c2407e",
+      "time": "2026-07-08 02:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US officials said US negotiators continue to work in good faith to advance a final agreement."
+    },
+    {
+      "id": "mkt:019f3dea-3188-7aab-8cd5-27a29a29a294",
+      "time": "2026-07-08 02:49:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US official said Iran's actions in the Strait of Hormuz are completely unacceptable and the United States will respond."
+    },
+    {
+      "id": "4974851",
+      "time": "2026-07-08 02:49:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員： 美國談判代表仍秉持誠意推進談判，以期達成最終協議。"
+    },
+    {
+      "id": "4974850",
+      "time": "2026-07-08 02:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破71美元/桶，日內漲3.59%。"
+    },
+    {
+      "id": "4974849",
+      "time": "2026-07-08 02:49:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：伊朗在霍爾木茲海峽採取的行動完全無法被美國接受，美方將對此採取相應反制措施。"
+    },
+    {
+      "id": "4974848",
+      "time": "2026-07-08 02:48:40",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部官網：修訂版美國許可檔案，用以撤銷並終止 6 月 21 日釋出的伊朗原油生產、運輸及銷售相關授權。"
+    },
+    {
+      "id": "mkt:019f3de8-3db9-7aab-8cd5-18fa399b6bfc",
+      "time": "2026-07-08 02:47:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US Treasury issued a revised Iran-related general license, signaling the US is rolling back sanctions on Iran."
+    },
     {
       "id": "mkt:019f3de6-fc35-7aab-8cd5-13adddb7f0a9",
       "time": "2026-07-08 02:46:15",
@@ -145382,45 +145465,6 @@
         "國際"
       ],
       "text": "伊朗首席談判代表卡利巴夫表示，伊朗致力於保障霍爾木茲海峽航運通行依照伊朗方面的相關安排開展。"
-    },
-    {
-      "id": "mkt:019f19de-ae7f-7aab-8c40-a30a206e2c13",
-      "time": "2026-07-01 02:50:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Iran parliament speaker Ghalibaf said current negotiations aim to secure five conditions that must be implemented immediately or have their implementation processes initiated."
-    },
-    {
-      "id": "4963604",
-      "time": "2026-07-01 02:50:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長：我們將宣佈取消柴油補貼。"
-    },
-    {
-      "id": "mkt:019f19de-2562-7aab-8c40-9d92b773043b",
-      "time": "2026-07-01 02:50:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran is committed to ensuring passage through the Strait of Hormuz occurs under arrangements set by Iran."
-    },
-    {
-      "id": "4963603",
-      "time": "2026-07-01 02:48:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【瑞穗銀行：若當局不出手干預 日元兌美元料跌至170區間】瑞穗銀行策略師表示，除非當局出手支撐日元，否則日元兌美元的匯率可能會跌向170區間。“我們必須回顧1986年，尋找需要考慮的潛在障礙，”瑞穗的Jordan Rochester和Masayuki Nakajima週二在一份研究報告中寫道，並提及1986年11月5日164.50的水平。“在觸及這一水平之前，幾乎沒有重要阻力。若超出這一水平，如果當局不出手干預，之後匯率可能進一步跌向170區間”。日元週一跌至40年低點，促使交易員揣測日本出手干預的下一道紅線在哪裡。"
     }
   ]
 }
