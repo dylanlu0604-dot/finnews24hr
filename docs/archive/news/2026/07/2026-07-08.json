@@ -1,7 +1,43 @@
 {
   "date": "2026-07-08",
-  "count": 449,
+  "count": 453,
   "items": [
+    {
+      "id": "mkt:019f3ea7-37b4-7aab-8cd7-dccc68fa895d",
+      "time": "2026-07-08 06:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic estimate: at 06:12 on July 8 a magnitude about 5.0 earthquake struck near Gaoxian County, Yibin, Sichuan; final parameters subject to formal rapid report."
+    },
+    {
+      "id": "4975048",
+      "time": "2026-07-08 06:15:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國地震臺網自動測定：07月08日06時12分在四川宜賓市高縣附近（北緯28.57度，東經104.70度）發生5.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "te:markets:564982",
+      "time": "2026-07-08 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 1.01% — Top currency gainers are South Korean Won (1.01%) and Dollar Index (0.28%). Biggest losers are Mexican Peso (-0.75%), Swedish Krona (-0.75%), Polish Zloty (-0.57%), Euro (-0.31%) and British Pound (-0.30%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4975047",
+      "time": "2026-07-08 06:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱“有力”打擊伊朗以回應其襲擊商船】美軍中央司令部7日在社交媒體釋出訊息說，美軍已開始對伊朗發起“一系列有力”的打擊，以回應此前伊朗襲擊三艘在霍爾木茲海峽通行的商船。訊息稱，伊朗這些襲擊“針對的是在國際水道上航行、由無辜平民操作的商船”，伊朗的這種行為“既無正當理由，又極其危險，且明顯違反了停火協議”。（新華社）"
+    },
     {
       "id": "4975046",
       "time": "2026-07-08 06:10:23",
