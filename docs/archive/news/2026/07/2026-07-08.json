@@ -1,7 +1,64 @@
 {
   "date": "2026-07-08",
-  "count": 476,
+  "count": 482,
   "items": [
+    {
+      "id": "4975069",
+      "time": "2026-07-08 06:41:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "四川高縣連發多次3級以上地震。"
+    },
+    {
+      "id": "4975068",
+      "time": "2026-07-08 06:40:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗港口官員稱，阿巴斯港魚市後方冒出黑煙，是“敵方炮彈”擊中漁業碼頭引發，起火導致數艘民用漁船著火。"
+    },
+    {
+      "id": "te:markets:564985",
+      "time": "2026-07-08 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Slumps by 9.34% — Top commodity losers are Coffee (-9.34%) and Sugar (-0.85%). Gains are led by Cotton (3.76%) and Rice (3.24%)."
+    },
+    {
+      "id": "4975067",
+      "time": "2026-07-08 06:39:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【吉姆·克萊默稱市場對三星的反應或預示AI行業主導格局迎來轉變】CNBC主持人吉姆·克萊默表示，週二美股盤面重現華爾街昔日行情：三星財報出爐後晶片股集體下挫，而今年大半時間持續走弱的大型科技龍頭全線反彈。此番行情異動源於韓國當地時間週二釋出的三星財報，這家韓國電子巨頭股價當日大跌7%。克萊默評價，三星業績雖亮眼，但並未達到市場預期，市場由此重新質疑其產品需求，儲存晶片尤甚。但真正令克萊默留意到的，是資金轉向的方向。他表示，投資者並未全盤撤離科技板塊，而是重新佈局今年長期承壓的多家科技巨頭，包括亞馬遜、字母表、蘋果，甚至英偉達。賽富時、奧多比、ServiceNow等企業軟體廠商同樣獲得資金買入。克萊默補充道，本次盤面是否會開啟持續性風格切換仍有待觀察，但週二行情極具標誌性，市場主線發生劇烈輪換。“今日或許只是一輪大行情的起點，也可能只是短期波動。但於我而言，市場風向的確明顯變了。”"
+    },
+    {
+      "id": "mkt:019f3ebc-47d2-7aab-8cd8-039112c24075",
+      "time": "2026-07-08 06:39:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars news agency cited port officials saying black smoke behind Abbas Port's fish market was caused by an \"enemy shell\" striking the fisheries wharf and setting multiple civilian fishing vessels ablaze."
+    },
+    {
+      "id": "4975066",
+      "time": "2026-07-08 06:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍訪問期間大馬士革發生爆炸致1死36傷 】據敘利亞國家通訊社7日晚援引敘過渡政府衛生部訊息，敘首都大馬士革市中心旅遊部大樓附近當天上午發生兩起爆炸，造成1人死亡、36人受傷。據法國媒體援引法國總統府訊息稱，事發地位於法國總統馬克龍下榻酒店附近。（新華社）"
+    },
     {
       "id": "4975065",
       "time": "2026-07-08 06:35:24",
