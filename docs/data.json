@@ -1,7 +1,141 @@
 {
-  "updated": "2026-07-07 20:21:09",
-  "count": 15731,
+  "updated": "2026-07-07 20:25:08",
+  "count": 15745,
   "items": [
+    {
+      "id": "4974437",
+      "time": "2026-07-07 20:24:20",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨漲0.31%，標普500指數期貨跌0.13%，納指期貨跌0.86%。\n②德國DAX指數跌0.69%，英國富時100指數漲0.52%，法國CAC40指數漲0.08%，歐洲斯托克50指數跌0.62%。\n③WTI原油漲0.69%，報69.03美元/桶。布倫特原油漲0.79%，報72.56美元/桶。\n④摩根士丹利的利率策略師建議，隨著美聯儲加息預期減弱，投資者應押注較短期限美國國債收益率相對於較長期限品種下行。其結果將是美國國債收益率曲線趨陡，即較短期限與較長期限之間利差擴大。\n⑤據一位知情人士透露，一艘懸掛沙特旗幟的原油油輪在航經霍爾木茲海峽時受損。這起最新事件凸顯該航道的航行風險依然存在。\n⑥摩根資產管理全球市場策略師Raisah Rasid在一場吹風會上表示，機器人和自動駕駛汽車概念股可能成為人工智慧(AI)交易的下一個贏家。\n⑦英偉達美股盤前跌超2%，現報191.51美元。\n⑧西部資料美股盤前跌逾7%，美光科技、閃迪跌逾6%，希捷科技跌逾5%。\n⑨邁威爾科技美股盤前跌超5%，現報236.8美元。"
+    },
+    {
+      "id": "mkt:019f3c88-ea9b-7aab-8ccd-fcbc3386e36b",
+      "time": "2026-07-07 20:23:53",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "NATO's top military commander said an industrial base capable of sustaining prolonged combat must be established."
+    },
+    {
+      "id": "4974436",
+      "time": "2026-07-07 20:23:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約最高軍事指揮官：必須打造能夠長期支撐戰事的工業基礎。"
+    },
+    {
+      "id": "mkt:019f3c88-cd1c-7aab-8ccd-f76bf29bb299",
+      "time": "2026-07-07 20:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO's top military commander said allies are fulfilling their Hague commitments."
+    },
+    {
+      "id": "mkt:019f3c88-b9f6-7aab-8ccd-ec78c50bb332",
+      "time": "2026-07-07 20:23:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources report delays to some bank transfers from Saudi Arabia to the United Arab Emirates; cause unknown."
+    },
+    {
+      "id": "4974435",
+      "time": "2026-07-07 20:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約最高軍事指揮官：各盟國將恪守在海牙作出的承諾。"
+    },
+    {
+      "id": "4974434",
+      "time": "2026-07-07 20:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海底撈捐贈首批3萬份自熱火鍋，馳援廣西洪澇災區】近日，受颱風“美莎克”影響，廣西多地因降雨大風天氣，發生洪澇等災情。7月7日，記者獲悉，海底撈已啟動應急救災機制，首批緊急調配3萬份自熱火鍋發往廣西，用於保障受災群眾及救援人員的基本飲食需求。"
+    },
+    {
+      "id": "te:economy:564851",
+      "time": "2026-07-07 20:22:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "Mexico Auto Output Declines in June — Mexico's car production fell 1.9% year-on-year to 354,221 units in June 2026, easing from a 3.7% decline in May. The result reflected continued uncertainty in the auto sector as changing US trade policies clouded manufacturers' production plans. US President Trump in his second term imposed a series of tariffs on multiple countries, including Mexico. While the Trump administration decided not to renew the USMCA, the agreement will remain in force for another decade unless a member withdraws, with annual reviews that could lead to significant changes. The US and Mexico also continue bilateral trade negotiations. Output declined sharply at Mercedes (-97%), Audi (-52.2%), Nissan (-18.6%), Volkswagen (-7.6%), and Ford (-7.3%)."
+    },
+    {
+      "id": "mkt:019f3c87-d78a-7aab-8ccd-e194c431c6da",
+      "time": "2026-07-07 20:22:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Toyota is moving from Mexico to Texas and called the move very important."
+    },
+    {
+      "id": "4974433",
+      "time": "2026-07-07 20:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：豐田將把產能從墨西哥轉移至美國得克薩斯州！這真是一樁大交易。"
+    },
+    {
+      "id": "4974431",
+      "time": "2026-07-07 20:21:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前跌超4%】阿斯麥美股盤前跌超4%，現報1752.0美元。"
+    },
+    {
+      "id": "4974430",
+      "time": "2026-07-07 20:21:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國極右翼領導人勒龐走出法庭，未接受記者採訪。"
+    },
+    {
+      "id": "4974429",
+      "time": "2026-07-07 20:21:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "廣州視源電子科技股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、廣發證券。"
+    },
+    {
+      "id": "4974428",
+      "time": "2026-07-07 20:20:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "部分沙特與阿聯酋間銀行轉賬出現延遲，原因不明。"
+    },
+    {
+      "id": "4974427",
+      "time": "2026-07-07 20:20:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：日本欲建立繞開霍爾木茲海峽的中東石油進口渠道】據《日本經濟新聞》7月5日報道，日本正著手重建日本從中東國家採購原油的渠道。報道稱，自伊朗危機爆發以來，今年3月至5月，日本經濟產業大臣赤澤亮正與阿聯酋工業與先進技術部長蘇爾坦·賈比爾舉行了多次線上及面對面會晤。3月至6月，他與沙烏地阿拉伯能源大臣阿卜杜勒-阿齊茲·本·薩勒曼進行了線上磋商。今年5月，赤澤亮正在阿布扎比與賈比爾會晤時表示：“日本希望與中東和亞洲共渡難關。”赤澤亮正提及“中東”，意在“擺脫對霍爾木茲海峽的依賴”。（參考訊息）"
+    },
     {
       "id": "mkt:019f3c85-6a5e-7aab-8ccd-dc1519faed87",
       "time": "2026-07-07 20:20:04",
@@ -144358,18 +144492,6 @@
         "加拿大"
       ],
       "text": "【加拿大4月GDP環比增長0.5%】加拿大4月GDP環比增長0.5%，預期增長0.4%，前值下降0.1%。"
-    },
-    {
-      "id": "te:economy:563002",
-      "time": "2026-06-30 20:24:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Producer Price Inflation MoM",
-        "Importance 1"
-      ],
-      "text": "Brazil Producer Prices Fall in May — Brazil’s producer prices fell 0.3% month-over-month in May 2026, reversing from a 2.62% increase in April and marking the sharpest monthly decline since November 2025. Seven of the 24 industrial sectors surveyed recorded price drops. The steepest decline came from extractive industries, which fell 5.9%, while rubber and plastics rose 4.8%, wood products advanced 3.1%, and chemicals increased 2.1%. Food products exerted the largest downward pressure on the headline index, declining 2.1%, as lower prices for sugar, UHT milk, and roasted coffee reflected seasonal harvest effects and the appreciation of the Brazilian real. Prices in oil refining and biofuels fell 1.3%, pressured by declines in diesel and ethanol, with the advance of the sugarcane harvest contributing to lower alcohol prices. Chemical prices rose on higher international petrochemical costs linked to tensions in the Middle East, while rubber and plastics continued to reflect pass-through from higher feedstock costs."
     }
   ]
 }
