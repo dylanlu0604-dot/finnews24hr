@@ -1,7 +1,31 @@
 {
   "date": "2026-07-08",
-  "count": 76,
+  "count": 78,
   "items": [
+    {
+      "id": "mkt:019f3d8a-594e-7aab-8cd3-9c8983d045b7",
+      "time": "2026-07-08 01:05:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 3-year Treasury yield trimmed gains after a 3-year note auction, rising 2.5bps to 4.173%."
+    },
+    {
+      "id": "4974818",
+      "time": "2026-07-08 01:04:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 3 年期國債中標發行後，3 年期美債收益率小幅收窄漲幅，最新上漲 2.5 個基點，報 4.173%。"
+    },
     {
       "id": "4974817",
       "time": "2026-07-08 01:03:09",

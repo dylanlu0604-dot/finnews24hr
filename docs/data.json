@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-08 01:04:44",
-  "count": 15895,
+  "updated": "2026-07-08 01:08:35",
+  "count": 15893,
   "items": [
+    {
+      "id": "mkt:019f3d8a-594e-7aab-8cd3-9c8983d045b7",
+      "time": "2026-07-08 01:05:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 3-year Treasury yield trimmed gains after a 3-year note auction, rising 2.5bps to 4.173%."
+    },
+    {
+      "id": "4974818",
+      "time": "2026-07-08 01:04:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 3 年期國債中標發行後，3 年期美債收益率小幅收窄漲幅，最新上漲 2.5 個基點，報 4.173%。"
+    },
     {
       "id": "4974817",
       "time": "2026-07-08 01:03:09",
@@ -145825,39 +145849,6 @@
         "其他"
       ],
       "text": "訊息人士透露，西班牙政府計劃為逾100萬名無合法居留證件移民發放居留許可，這一數字是該國4月推出大規模身份合法化計劃時預估人數的兩倍。"
-    },
-    {
-      "id": "mkt:019f197f-54e5-7aab-8c3f-1227da31d3ca",
-      "time": "2026-07-01 01:06:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. International Trade Commission ruled in a changed‑circumstances review of fresh tomatoes from Mexico that it did not find in favor of modifying existing trade restrictions."
-    },
-    {
-      "id": "4963534",
-      "time": "2026-07-01 01:06:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國以涉嫌與販毒集團存在關聯為由，制裁墨西哥多家實體企業。"
-    },
-    {
-      "id": "4963533",
-      "time": "2026-07-01 01:06:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯M3貨幣供應量或將同比增長8.9%。"
-    },
-    {
-      "id": "mkt:019f197e-4dca-7aab-8c3f-0b6dbeb23ac9",
-      "time": "2026-07-01 01:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC has released Claude Science beta, a tool designed to help scientists automate research workflows and reduce repetitive tasks."
     }
   ]
 }
