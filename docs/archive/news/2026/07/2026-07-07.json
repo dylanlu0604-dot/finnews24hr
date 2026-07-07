@@ -1,7 +1,44 @@
 {
   "date": "2026-07-07",
-  "count": 453,
+  "count": 457,
   "items": [
+    {
+      "id": "mkt:019f39ee-e0db-7aab-8cbd-bc46205bdddc",
+      "time": "2026-07-07 08:16:24",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【June China Warehousing Index Back in Expansionary Territory】The China Federation of Logistics and Purchasing said the June China Warehousing Index rose to 50.2, up 0.6 ppt MoM, returning to expansionary territory as a wave of major national infrastructure project starts and a synchronized rebound in manufacturing supply-demand boosted warehousing demand."
+    },
+    {
+      "id": "4973137",
+      "time": "2026-07-07 08:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價延續跌勢，跌幅達6%。"
+    },
+    {
+      "id": "4973136",
+      "time": "2026-07-07 08:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月中國倉儲指數重回擴張區間 行業執行恢復向好】中國物流與採購聯合會今天公佈6月份中國倉儲指數。隨著全國重大基建專案集中開工、製造業供需同步回暖，倉儲業務需求明顯改善，指數重回擴張區間。6月份中國倉儲指數為50.2%，較上月上升0.6個百分點。從分項指數看，新訂單指數明顯回升，基建相關大宗商品倉儲需求表現較好。6月份新訂單指數為54%，較上月上升2.3個百分點，達到較高水平，倉儲業務需求加快增長。分品種來看，鋼材、建材、機械裝置等與重大工程專案開工相關的大宗商品品種新訂單指數有所回升，倉儲業務活動較為活躍。消費品方面，受端午假期消費需求釋放和電商促銷活動推動，食品、家電等品種的新訂單指數保持在擴張區間。"
+    },
+    {
+      "id": "4973135",
+      "time": "2026-07-07 08:12:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：建議關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商】中信證券研報表示，再融資新規徵求意見稿緊扣服務實體經濟、提升資本市場包容性與適應性、防範系統性風險核心導向，圍繞\"鬆綁、約束\"雙線推進，推出儲架發行制度、修改小額快速融資上限，構建市價定價機制，有望降低優質公司融資成本與時間成本。此次修訂是2023年2月全面註冊制實施以來，首次對再融資制度進行系統性最佳化，有望持續強化證券公司投行業務復甦持續性。建議關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商。"
+    },
     {
       "id": "4973134",
       "time": "2026-07-07 08:11:38",
