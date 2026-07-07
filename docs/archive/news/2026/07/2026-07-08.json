@@ -1,7 +1,36 @@
 {
   "date": "2026-07-08",
-  "count": 78,
+  "count": 81,
   "items": [
+    {
+      "id": "4974819",
+      "time": "2026-07-08 01:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國宣告：英荷今日簽署全新海上合作協議，兩國軍隊將配備新型兩棲運輸艦。 作為一份價值 24 億英鎊協議的一部分，相關艦船將由英國造船廠聯合荷蘭企業共同建造。"
+    },
+    {
+      "id": "mkt:019f3d8f-b198-7aab-8cd3-acfb8ed4e140",
+      "time": "2026-07-08 01:10:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Under a maritime partnership signed today, UK and Dutch forces will be equipped with new amphibious transport ships. The UK will cooperate with Dutch industry to build the vessels at UK shipyards in a £2.4 bln deal."
+    },
+    {
+      "id": "mkt:019f3d8f-085e-7aab-8cd3-a267cee5df24",
+      "time": "2026-07-08 01:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A NATO spokesperson for its Europe-based forces said the alliance is studying additional measures to support Ukraine's defence at this stage."
+    },
     {
       "id": "mkt:019f3d8a-594e-7aab-8cd3-9c8983d045b7",
       "time": "2026-07-08 01:05:04",

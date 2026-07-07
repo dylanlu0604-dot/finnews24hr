@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-08 01:08:35",
+  "updated": "2026-07-08 01:12:22",
   "count": 15893,
   "items": [
+    {
+      "id": "4974819",
+      "time": "2026-07-08 01:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國宣告：英荷今日簽署全新海上合作協議，兩國軍隊將配備新型兩棲運輸艦。 作為一份價值 24 億英鎊協議的一部分，相關艦船將由英國造船廠聯合荷蘭企業共同建造。"
+    },
+    {
+      "id": "mkt:019f3d8f-b198-7aab-8cd3-acfb8ed4e140",
+      "time": "2026-07-08 01:10:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Under a maritime partnership signed today, UK and Dutch forces will be equipped with new amphibious transport ships. The UK will cooperate with Dutch industry to build the vessels at UK shipyards in a £2.4 bln deal."
+    },
+    {
+      "id": "mkt:019f3d8f-085e-7aab-8cd3-a267cee5df24",
+      "time": "2026-07-08 01:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A NATO spokesperson for its Europe-based forces said the alliance is studying additional measures to support Ukraine's defence at this stage."
+    },
     {
       "id": "mkt:019f3d8a-594e-7aab-8cd3-9c8983d045b7",
       "time": "2026-07-08 01:05:04",
@@ -145825,30 +145854,6 @@
         "Importance 1"
       ],
       "text": "Silver Rebounds from 7-Month Low — Silver prices rose toward $60 per ounce, halting the plunge that bottomed at a seven-month low of $57 on June 24th, and outperforming gold in the last sessions as the outlook of strong industrial demand weighed against pressure from a restrictive Fed. Equities for chip producers and datacenter developers rallied for a second session to reflect long bets on the construction of compute capacity. The activity boosted the outlook of silver demand due to its use usage in AI infrastructure for its conductive nature. Still, the hawkish outlook for the Fed maintained pressure in assets that do not bear coupons. Strong labor market data and surveys pointing to higher inflation drove a large portion of the FOMC to project more restrictive rates this year. On top of that, fixed-income supply risked a decline as Fed Chairman Warsh campaigned for a lower Fed balance sheet, reversing the debasement trade from late 2025."
-    },
-    {
-      "id": "4963537",
-      "time": "2026-07-01 01:12:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：Meta Horzion商店免費提供Discord應用。"
-    },
-    {
-      "id": "4963536",
-      "time": "2026-07-01 01:11:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：Discord上線Meta Quest頭裝置。"
-    },
-    {
-      "id": "4963535",
-      "time": "2026-07-01 01:11:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士透露，西班牙政府計劃為逾100萬名無合法居留證件移民發放居留許可，這一數字是該國4月推出大規模身份合法化計劃時預估人數的兩倍。"
     }
   ]
 }
