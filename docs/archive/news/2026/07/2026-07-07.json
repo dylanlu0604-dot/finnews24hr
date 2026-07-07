@@ -1,7 +1,271 @@
 {
   "date": "2026-07-07",
-  "count": 2258,
+  "count": 2285,
   "items": [
+    {
+      "id": "te:economy:564863",
+      "time": "2026-07-07 20:44:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Canadian Exports Reach New Record in May — Canadian goods exports rose 0.9% month-over-month to a record C$77.1 billion in May 2026, marking a fourth consecutive monthly increase. Exports of metal ores and non-metallic minerals surged 16.1%, led by a 37.0% jump in diamonds and other non-metallic minerals, mainly due to higher sulphur shipments. Exports of other metal ores and concentrates more than doubled on new gold ore shipments to China. Exports of metal and non-metallic mineral products rose 1.5%, supported by a 50.7% increase in unwrought aluminum and aluminum alloys. Consumer goods (3.9%), chemicals, plastics and rubber (5.6%), and farm and food products (2.4%) also posted solid gains. The increase was partly offset by a 2.0% decline in energy exports, driven by a 5.4% drop in crude oil shipments."
+    },
+    {
+      "id": "4974485",
+      "time": "2026-07-07 20:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Equinor授予60億挪威克朗海底專案合同】7月7日，Equinor代表合作伙伴，就挪威大陸架上四個海底專案授予了總值約60億挪威克朗的合同。這四個專案預計將貢獻1.3億至2.2億桶油當量的可採儲量。"
+    },
+    {
+      "id": "mkt:019f3c9b-b10d-7aab-8cce-f208f72eb22e",
+      "time": "2026-07-07 20:44:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he will discuss trade and military affairs today."
+    },
+    {
+      "id": "te:markets:564862",
+      "time": "2026-07-07 20:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UniCredit Stock Price Hits 16-year High — UniCredit shares increased to 83.61 EUR, the highest since October 2009. Over the past 4 weeks, UniCredit gained 15.19%, and in the last 12 months, it increased 41.29%."
+    },
+    {
+      "id": "mkt:019f3c9b-8c5b-7aab-8cce-ee879444dd73",
+      "time": "2026-07-07 20:44:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve's Williams said labor-market risks are relatively balanced."
+    },
+    {
+      "id": "mkt:019f3c9b-74e8-7aab-8cce-e04663a0a22b",
+      "time": "2026-07-07 20:44:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump is speaking at Turkey's Presidential Palace."
+    },
+    {
+      "id": "mkt:019f3c9b-73d7-7aab-8cce-da5f0c7b3d83",
+      "time": "2026-07-07 20:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huawei Pura 90 international model reportedly shows 5G ahead of July 14 launch】On July 6 Huawei announced a July 14 flagship launch in Kuala Lumpur, Malaysia for the Pura 90 series targeting international markets. Ahead of the event a circulated video shows the Pura 90 Pro Max international model displaying 5G in the status bar and a speed test peaking above 1,100 Mbps, indicating Huawei’s international flagship may resume 5G support after several years. Huawei has not commented."
+    },
+    {
+      "id": "4974484",
+      "time": "2026-07-07 20:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們今天會談貿易和軍事方面的事情。"
+    },
+    {
+      "id": "4974483",
+      "time": "2026-07-07 20:43:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：貨幣政策當前處於合適狀態。"
+    },
+    {
+      "id": "mkt:019f3c9b-4992-7aab-8cce-d72c3ee3c727",
+      "time": "2026-07-07 20:43:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi-UAE bank transfers experience unusual delays】Bank transfers between Saudi Arabia and the UAE have experienced unusual delays across multiple sectors; the cause is unclear. Reported issues include funds not being credited, being returned or frozen. Some companies are rerouting payments via third jurisdictions. Competition between the two countries in areas including finance and AI has increased in recent years, prompting firms to balance ties. The Saudi central bank denied any country-specific restrictions and said it applies uniform risk controls. The UAE said it has received no related complaints and stressed deep bilateral trade links."
+    },
+    {
+      "id": "4974482",
+      "time": "2026-07-07 20:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘭石重灌：擬終止專案並補充流動資金 聘利安達為審計機構】蘭石重灌公告稱，公司募投專案盤錦浩業360萬噸/年重油加氫EPC專案總體建設進度已達95%，因業主進入破產清算，無法復工，擬終止該專案，並將剩餘募集資金815萬元永久補充流動資金。此外，公司擬聘任利安達會計師事務所繼續擔任2026年度財務審計機構和內控審計機構，預計審計費用約170萬元。上述議案已透過董事會審議，提請股東會批准。"
+    },
+    {
+      "id": "4974481",
+      "time": "2026-07-07 20:43:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：貨幣政策走向取決於資料與風險狀況。通脹仍然相當高。"
+    },
+    {
+      "id": "mkt:019f3c9b-1a90-7aab-8cce-c9641659ecaf",
+      "time": "2026-07-07 20:43:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "WILLIAMS said the path of monetary policy depends on the data and risks."
+    },
+    {
+      "id": "mkt:019f3c9b-08e4-7aab-8cce-c1d8b2379259",
+      "time": "2026-07-07 20:43:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Williams said monetary policy is positioned to achieve the Federal Reserve's objectives."
+    },
+    {
+      "id": "4974480",
+      "time": "2026-07-07 20:43:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：貨幣政策目前處於能夠很好實現美聯儲目標的位置。"
+    },
+    {
+      "id": "4974479",
+      "time": "2026-07-07 20:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚埃爾多安。"
+    },
+    {
+      "id": "4974478",
+      "time": "2026-07-07 20:43:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：關稅的影響很可能已接近峰值。"
+    },
+    {
+      "id": "4974477",
+      "time": "2026-07-07 20:43:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計整體通脹將隨能源價格回落而下行。"
+    },
+    {
+      "id": "mkt:019f3c9a-71c6-7aab-8cce-bc9a7acfd221",
+      "time": "2026-07-07 20:43:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "WILLIAMS: inf remains significantly elevated."
+    },
+    {
+      "id": "mkt:019f3c9a-3f16-7aab-8cce-b1a7226eccce",
+      "time": "2026-07-07 20:42:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Federal Reserve's Williams said falling energy prices are welcome and he expects further declines to help cool inflation."
+    },
+    {
+      "id": "4974476",
+      "time": "2026-07-07 20:42:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：能源價格回落是利好訊息，漲幅將進一步收窄並拉低通脹。"
+    },
+    {
+      "id": "4974475",
+      "time": "2026-07-07 20:42:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：勞動力市場維持穩定。"
+    },
+    {
+      "id": "mkt:019f3c99-817e-7aab-8cce-a9ce691861da",
+      "time": "2026-07-07 20:42:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve's Williams said the labor market is showing signs of stability."
+    },
+    {
+      "id": "mkt:019f3c99-6831-7aab-8cce-a0a358930f07",
+      "time": "2026-07-07 20:41:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Federal Reserve's Williams said he expects the U.S. economy to maintain a steady growth trend."
+    },
+    {
+      "id": "4974474",
+      "time": "2026-07-07 20:41:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：認為美國經濟將呈現接近趨勢增速的穩定增長態勢 。"
+    },
+    {
+      "id": "4974473",
+      "time": "2026-07-07 20:40:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "HSBC將京東方評級上調至買進，目標價10.70元人民幣。"
+    },
+    {
+      "id": "4974472",
+      "time": "2026-07-07 20:40:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國 5 月貿易逆差擴大，創一年多以來新高】受出口下滑、進口走高影響，美國 5 月貿易逆差擴大至 2025 年 3 月以來最高值。美國商務部週二公佈資料顯示，商品與服務貿易逆差環比擴大 42.2%，達 776 億美元。彭博調查經濟學家的預期中值為 784 億美元。5 月出口總額環比下降 3.2%，主要受非貨幣黃金出口走弱拖累；進口整體全面增長，環比上升 3.3%。"
+    },
     {
       "id": "4974471",
       "time": "2026-07-07 20:39:46",
