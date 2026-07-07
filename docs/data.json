@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-08 06:18:51",
-  "count": 15892,
+  "updated": "2026-07-08 06:22:45",
+  "count": 15890,
   "items": [
+    {
+      "id": "mkt:019f3eac-ac85-7aab-8cd7-e1c338252d59",
+      "time": "2026-07-08 06:22:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US official says strikes on Iran are 'punishment', not proportional response】A US official said military strikes on targets inside Iran are punitive, not a proportional retaliation, aimed at responding to recent Iranian attacks on merchant vessels near the Strait of Hormuz. The official said, \"This is punishment,\" and added, \"This won't end quickly.\" US Central Command said on the 7th on social media that US forces had begun \"a series of robust strikes\" in response to earlier Iranian attacks on three commercial ships transiting the Strait."
+    },
     {
       "id": "mkt:019f3ea7-37b4-7aab-8cd7-dccc68fa895d",
       "time": "2026-07-08 06:16:13",
@@ -145738,36 +145750,6 @@
         "國際"
       ],
       "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本二季度短觀大型製造業前景指數；\n② 08:00 韓國6月出口；\n③ 08:30 越南6月製造業PMI；\n④ 08:30 韓國6月製造業PMI，日本6月製造業PMI終值；\n⑤ 時間待定 達沃斯科技峰會（Davos Tech Summit 2026）在遼寧開幕；\n⑥ 09:45 中國6月RatingDog製造業PMI；\n⑦ 13:00 印度6月製造業PMI終值；\n⑧ 15:45 義大利6月製造業PMI，15:45 歐洲央行副行長Vujcic在葡萄牙Sintra主持一場會議；\n⑨ 15:50 法國6月製造業PMI終值；\n⑩ 15:55 德國6月製造業PMI終值；16:00 歐元區6月製造業PMI終值；\n16:30 英國6月製造業PMI終值；16:45 歐洲央行執委Cipollone在葡萄牙Sintra主持一場會議；\n17:00 歐元區6月調和CPI初值；18:15 歐洲央行首席經濟學家Lane在葡萄牙Sintra主持一場會議；\n20:15 美國6月ADP就業人數；\n21:00 歐洲央行行長拉加德、美聯儲主席沃什、英國央行行長貝利、加拿大央行行長Macklem講話，沃什出席歐洲央行論壇的一個會議；\n22:00 美國6月ISM製造業就業指數，歐洲央行行長拉加德在葡萄牙Sintra致閉幕詞；\n22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報。"
-    },
-    {
-      "id": "mkt:019f1aa0-560c-7aab-8c44-7dc60bc904c6",
-      "time": "2026-07-01 06:22:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Politico reports a senior White House official said the U.S. Commerce Department is expected to lift export controls on Anthropic's AI model Fable tonight (U.S. local time)."
-    },
-    {
-      "id": "4963729",
-      "time": "2026-07-01 06:22:15",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "據Politico：一位白宮高階官員透露，美國商務部預計將於當地時間今晚解除對Anthropic AI模型Fable的出口管制。"
-    },
-    {
-      "id": "4963728",
-      "time": "2026-07-01 06:20:24",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【港股上半年IPO火熱，券商加碼在港業務】6月30日，真健康醫療-B、來福諧波、鱘龍科技、江西生物4家公司敲鑼上市，至此2026年上半年港股IPO正式收官。今年上半年，港股市場“鑼聲不斷”，共迎來85家公司上市。Wind資料顯示，中金公司共保薦28家、承銷36家港股新股，領跑港股IPO市場。此外，港股IPO火熱之下，中資券商的國際化業務也不斷拓展，國泰海通、中信證券、華泰證券、廣發證券等機構紛紛加碼國際化業務。（上證報）"
     }
   ]
 }

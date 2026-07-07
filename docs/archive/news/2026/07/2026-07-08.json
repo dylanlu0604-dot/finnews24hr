@@ -1,7 +1,19 @@
 {
   "date": "2026-07-08",
-  "count": 453,
+  "count": 454,
   "items": [
+    {
+      "id": "mkt:019f3eac-ac85-7aab-8cd7-e1c338252d59",
+      "time": "2026-07-08 06:22:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US official says strikes on Iran are 'punishment', not proportional response】A US official said military strikes on targets inside Iran are punitive, not a proportional retaliation, aimed at responding to recent Iranian attacks on merchant vessels near the Strait of Hormuz. The official said, \"This is punishment,\" and added, \"This won't end quickly.\" US Central Command said on the 7th on social media that US forces had begun \"a series of robust strikes\" in response to earlier Iranian attacks on three commercial ships transiting the Strait."
+    },
     {
       "id": "mkt:019f3ea7-37b4-7aab-8cd7-dccc68fa895d",
       "time": "2026-07-08 06:16:13",
