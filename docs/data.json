@@ -1,7 +1,201 @@
 {
-  "updated": "2026-07-07 09:29:18",
-  "count": 14235,
+  "updated": "2026-07-07 09:33:16",
+  "count": 14255,
   "items": [
+    {
+      "id": "4973254",
+      "time": "2026-07-07 09:32:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.00%，成分股中，奧迪威漲6.93%，廣信科技漲6.42%，萬達軸承漲4.59%，鼎智科技漲4.73%。"
+    },
+    {
+      "id": "te:markets:564622",
+      "time": "2026-07-07 09:32:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Rebound — European natural gas prices rose toward €45 per MWh on Tuesday, retracing part of the previous session’s decline amid forecasts of a summer heatwave in the region. Weather models indicate that another spell of extreme heat is set to hit Northwest Europe, which is expected to significantly boost air-conditioning use and power demand. The increase in demand comes as the region’s gas inventories remain relatively low, with storage facilities currently around 49% full, well below the nearly 60% level recorded at the same time last year. This has heightened concerns over whether Europe will be able to rebuild sufficient reserves ahead of winter. Moreover, market participants noted that LNG inflows into Europe have not yet risen enough to ease regional supply constraints, even as shipping activity through the Strait of Hormuz surged following progress in US-Iran peace talks."
+    },
+    {
+      "id": "4973253",
+      "time": "2026-07-07 09:32:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊盤初拉昇，容百科技漲超10%】電池板塊盤初拉昇，容百科技漲超10%，雄韜股份、豐元股份、聖陽股份、恩捷股份紛紛拉昇。"
+    },
+    {
+      "id": "mkt:019f3a34-2819-7aab-8cbf-326c7ce40b59",
+      "time": "2026-07-07 09:32:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY briefly dropped about 30 pips to 161.82."
+    },
+    {
+      "id": "4973252",
+      "time": "2026-07-07 09:32:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港防汛防颱風應急響應提升為一級】受今年10號颱風“美莎克”影響，廣西貴港市大部地區出現暴雨到大暴雨、局地特大暴雨，多條河流超警，預計鬱江貴港水文站斷面將於7日23時左右出現47.5米的洪峰水位，超警6.3米。根據《貴港市防汛抗旱應急預案》規定，經會商研判，並報貴港市防汛抗旱指揮部批准，決定於2026年7月7日8時將貴港市防汛防颱風二級應急響應提升為防汛防颱風（城市防洪）一級應急響應。"
+    },
+    {
+      "id": "te:economy:564621",
+      "time": "2026-07-07 09:31:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Philippines Inflation Rate Cools to 6.4% — The annual inflation rate in the Philippines eased to 6.4% in June 2026, a three-month low, from 6.8% in May. Transport inflation slowed sharply to 12.8% from 16.2%, reflecting lower fuel price pressures, though it remained the largest contributor to overall inflation. Inflation also eased for food and non-alcoholic beverages (5.2% vs. 5.7%) and furnishings and household equipment (3.7% vs. 3.9%). Meanwhile, price growth accelerated for housing and utilities (8.0% vs. 7.8%), alcoholic beverages and tobacco (5.9% vs. 5.4%), health (4.6% vs. 4.1%), education services (3.9% vs. 2.9%), and restaurants and accommodation services (7.0% vs. 6.7%). On a monthly basis, the CPI fell 0.3%, defying expectations of a 0.05% increase and following a 0.5% decline in May. Meanwhile, annual core inflation accelerated to 4.4%, above both market forecasts and May's 4.1% reading, marking the highest level since December 2023. Overall inflation remained above the government's 2% to 4% target range."
+    },
+    {
+      "id": "4973251",
+      "time": "2026-07-07 09:31:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦概念盤初活躍 雅化集團一字漲停】早盤鋰礦概念盤初活躍，雅化集團一字漲停，天華新能、融捷股份、盛新鋰能、贛鋒鋰業、天齊鋰業跟漲。"
+    },
+    {
+      "id": "4973250",
+      "time": "2026-07-07 09:31:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，佰維儲存跌6.8％，格科微跌4.7％，百利天恆跌4.1％，晶合整合跌4％。"
+    },
+    {
+      "id": "mkt:019f3a33-05dd-7aab-8cbf-2aaca85b3555",
+      "time": "2026-07-07 09:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for economic and fiscal policy KIUCHI said he is not currently considering changing the wording of the economic blueprint."
+    },
+    {
+      "id": "4973249",
+      "time": "2026-07-07 09:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.09%。銀微轉債、頎中轉債、Z大轉債、金25轉債、路維轉債跌幅居前，分別跌2.97%、2.79%、2.39%、2.34%、2.18%。N春風轉、N翔26轉、三江轉債、中特轉債、湘佳轉債漲幅居前，分別漲30.00%、30.00%、20.00%、3.52%、3.12%。"
+    },
+    {
+      "id": "4973247",
+      "time": "2026-07-07 09:30:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統遭死亡威脅 警方啟動調查】韓國警方6日說，該國社交媒體當天出現針對總統李在明的死亡威脅，警方已就此發起調查，但現階段尚未鎖定嫌疑人。首爾警方6日9時30分左右接到報案稱，有人當天清晨6時30分左右在社交媒體連發5條帖子，威脅“將在今天殺害李在明”。首爾警方隨即將此案交由下屬惠化警察署偵辦。惠化警察署說，正透過分析賬號資訊等技術手段追查嫌疑人。（新華社）"
+    },
+    {
+      "id": "mkt:019f3a32-89b3-7aab-8cbf-23e92eded176",
+      "time": "2026-07-07 09:30:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Kiuchi said Japan has not relaxed fiscal discipline; it is instead setting it out in verifiable form in its economic blueprint."
+    },
+    {
+      "id": "4973246",
+      "time": "2026-07-07 09:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓華海洋股價跌幅擴大；最新跌23%，報89,800韓元。"
+    },
+    {
+      "id": "mkt:019f3a32-5743-7aab-8cbf-1ce014bac671",
+      "time": "2026-07-07 09:30:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan finance minister Kiuchi said the government blueprint's reference to monetary policy is unchanged from previous practice."
+    },
+    {
+      "id": "4973245",
+      "time": "2026-07-07 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.52%，成分股中，佰維儲存跌4.94%，國博電子跌4.31%，瀾起科技跌3.34%，晶合整合跌3.20%。"
+    },
+    {
+      "id": "4973244",
+      "time": "2026-07-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.24%， 滬深300指數期貨連續跌0.63%， 中證500指數期貨連續跌0.53%， 上證50指數期貨連續跌0.73%。"
+    },
+    {
+      "id": "4973243",
+      "time": "2026-07-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.02%， 10年期主力合約跌0.01%， 5年期主力合約跌0.02%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4973242",
+      "time": "2026-07-07 09:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "城內實表示：日本並未放鬆財政紀律，反而在經濟藍圖中以可驗證的形式展現了這一點。"
+    },
+    {
+      "id": "4973241",
+      "time": "2026-07-07 09:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本成長戰略擔當大臣城內實：有關政府旨在保持低利率的報道不實。"
+    },
+    {
+      "id": "mkt:019f3a31-e55b-7aab-8cbf-113746c9495c",
+      "time": "2026-07-07 09:29:36",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures fell 0.7%; S&P 500 futures slipped 0.1%."
+    },
+    {
+      "id": "mkt:019f3a31-b345-7aab-8cbf-0f34713bf7e0",
+      "time": "2026-07-07 09:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shiyuan Technology went straight to the daily limit after forecasting 1H2026 net profit attributable to shareholders of 1.45-1.65 billion yuan, up 264.62%-314.91% YoY."
+    },
     {
       "id": "mkt:019f3a30-e8ff-7aab-8cbf-073c6d627b62",
       "time": "2026-07-07 09:28:31",
@@ -130909,15 +131103,6 @@
         "中國"
       ],
       "text": "【國家統計局：6月份製造業採購經理指數升至擴張區間 非製造業商務活動指數繼續擴張】6月30日國家統計局服務業調查中心和中國物流與採購聯合會釋出了中國採購經理指數。對此，國家統計局服務業調查中心首席統計師霍麗慧進行了解讀。6月份，製造業採購經理指數為50.3%，比上月上升0.3個百分點，重返擴張區間；非製造業商務活動指數和綜合PMI產出指數分別為50.2%和50.6%，均比上月上升0.1個百分點，我國經濟景氣水平有所回升。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606303787560427",
-      "time": "2026-06-30 09:30:15",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：6月官方製造業PMI為50.3% 重返擴張區間】6月份，製造業採購經理指數（PMI）為50.3%，比上月上升0.3個百分點，重返擴張區間。從企業規模看，大型企業PMI為50.7%，比上月下降0.4個百分點，仍高於臨界點；中型企業PMI為50.5%，比上月上升1.9個百分點，高於臨界點；小型企業PMI為48.2%，比上月下降0.3個百分點，低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數和新訂單指數高於臨界點，原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。"
     }
   ]
 }
