@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-08 04:56:28",
-  "count": 15838,
+  "updated": "2026-07-08 05:00:15",
+  "count": 15833,
   "items": [
+    {
+      "id": "4974963",
+      "time": "2026-07-08 04:59:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "納斯達克向Pitanium of Imminent公司發出退市預警，除非該公司對相關裁決提出申訴，否則將即刻啟動退市程式。"
+    },
+    {
+      "id": "4974962",
+      "time": "2026-07-08 04:57:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國肯塔基州聯邦參議員米奇·麥康奈爾目前仍在住院治療，期間他已與多名共和黨高層通了電話。"
+    },
+    {
+      "id": "4974961",
+      "time": "2026-07-08 04:57:29",
+      "tags": [
+        "公司",
+        "資料",
+        "市場"
+      ],
+      "text": "【7月8日美股成交額前20：閃迪資料中心業務營收同比增長645%】週二美股成交額第3名閃迪收跌7.26%，成交225.76億美元。閃迪公佈2026財年第三財季業績強勁，營收59.50億美元，同比大增251%，淨利潤36.15億美元，同比增長287%，均超出市場預期。增長主要由資料中心業務驅動，該業務收入同比增長645%至14.67億美元；邊緣業務收入同比增長295%至36.63億美元。公司毛利率大幅提升至78.4%。經營現金流達30.38億美元，同比劇增。公司預計第四財季營收在77.5億至82.5億美元之間，目前無負債且已獲股票回購授權，財務狀況穩健。"
+    },
+    {
+      "id": "4974960",
+      "time": "2026-07-08 04:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們和特朗普幾乎在所有事情上立場一致，但雙方仍存在部分分歧。其中一項分歧就是美國向土耳其交付F-35戰機一事。"
+    },
     {
       "id": "4974959",
       "time": "2026-07-08 04:54:39",
@@ -145192,89 +145226,6 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry said the Qatari PM told US envoys Witkoff and Kushner he will continue to advance mediation efforts and support all negotiation tracks under the memorandum of understanding."
-    },
-    {
-      "id": "4963687",
-      "time": "2026-07-01 05:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達首相在會晤維特科夫、庫什納期間，商討了美伊正在進行的談判最新進展。"
-    },
-    {
-      "id": "mkt:019f1a55-118d-7aab-8c43-e3ab17b12f4a",
-      "time": "2026-07-01 05:00:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Palantir",
-        "Market Themes",
-        "The Trump Trade",
-        "PLTR.N"
-      ],
-      "text": "U.S. President Trump’s 2025 financial disclosure shows he bought at least $100,001 of Palantir (PLTR.N) shares."
-    },
-    {
-      "id": "4963686",
-      "time": "2026-07-01 04:59:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普2025年度的財務報告稱，特朗普持有至少500萬美元英偉達股票，持有至少100萬美元PALANTIR股票。"
-    },
-    {
-      "id": "mkt:019f1a54-402e-7aab-8c43-d8908663549c",
-      "time": "2026-07-01 04:59:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "U.S. President Trump’s 2025 financial disclosure shows he holds at least $5 mln in Apple (AAPL.O) stock."
-    },
-    {
-      "id": "4963685",
-      "time": "2026-07-01 04:59:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達首相會見維特科夫與庫什納，重申卡達將持續開展調解工作，並支援基於諒解備忘錄推進的全部談判路線。"
-    },
-    {
-      "id": "mkt:019f1a53-188c-7aab-8c43-d3fb1f3aad26",
-      "time": "2026-07-01 04:58:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump's 2025 financial disclosure shows he received more than $80 million from settlement agreements with multiple media companies."
-    },
-    {
-      "id": "4963684",
-      "time": "2026-07-01 04:57:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "披露資訊顯示， 特朗普從與多家媒體公司達成的和解協議中獲得逾 8000 萬美元收入。"
-    },
-    {
-      "id": "mkt:019f1a51-f043-7aab-8c43-cc56c16ea86f",
-      "time": "2026-07-01 04:56:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. unveils near-$600m lunar plan to advance moon base construction】NASA announced contracts totaling nearly $600m with three U.S. firms to execute four lunar lander missions by end-2028 as part of efforts to advance moon base construction."
-    },
-    {
-      "id": "4963683",
-      "time": "2026-07-01 04:56:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "披露資訊顯示，特朗普至少持有價值500萬美元的蘋果股票。"
     }
   ]
 }
