@@ -1,7 +1,94 @@
 {
   "date": "2026-07-07",
-  "count": 1048,
+  "count": 1057,
   "items": [
+    {
+      "id": "4973555",
+      "time": "2026-07-07 13:33:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓財長稱富士康有意在當地建AI資料中心。"
+    },
+    {
+      "id": "mkt:019f3b0f-4267-7aab-8cc3-f14ebfbc0be6",
+      "time": "2026-07-07 13:31:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine finance minister says he hopes to sign a Pax Silica framework agreement with the United States within the year."
+    },
+    {
+      "id": "4973553",
+      "time": "2026-07-07 13:31:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳智慧眼鏡公司逸文科技完成1.5億美元融資，投後估值超10億美元】7月6日，深圳智慧眼鏡公司逸文科技（Even Realities）宣佈完成1.5億美元Pre-B輪融資，投後估值超過10億美元，正式躋身獨角獸行列。本輪由美團龍珠及美團戰投領投，老股東源一資本和騰訊超額跟投。今年年初，逸文科技還曾完成A++輪融資，由光合創投與源一資本聯合領投，達晨等老股東超額追投。"
+    },
+    {
+      "id": "mkt:019f3b0f-08eb-7aab-8cc3-ea140b8351bb",
+      "time": "2026-07-07 13:31:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "S&P500"
+      ],
+      "text": "【WBG: China growth remains resilient】WBG said in a China economic brief released July 7 that despite strong supply, weak demand and a global energy-supply shock, China’s growth has remained resilient. Year-to-date through May, high-tech industry investment rose 4.5% YoY, driven by strong domestic and external AI-related demand. Robust external demand for tech‑intensive goods sustained export momentum, while tech-related imports expanded materially, reflecting accelerated AI capex and higher demand for components for tech‑intensive export production. WBG said China has largely mitigated the energy shock via diversified energy import sources, a relatively high share of renewables and temporary retail fuel price controls."
+    },
+    {
+      "id": "mkt:019f3b0e-d5e4-7aab-8cc3-e7dea7e0d53d",
+      "time": "2026-07-07 13:30:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 2.0 bps to 2.850%."
+    },
+    {
+      "id": "4973552",
+      "time": "2026-07-07 13:30:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.0個基點至2.850%。"
+    },
+    {
+      "id": "4973551",
+      "time": "2026-07-07 13:30:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌和RWE以24億歐元的估值投資Proxima Fusion。"
+    },
+    {
+      "id": "4973550",
+      "time": "2026-07-07 13:30:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報14737.00元。"
+    },
+    {
+      "id": "te:markets:564698",
+      "time": "2026-07-07 13:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.03% — Top crypto losers are Ether (-2.03%), XRP (-1.85%) and Bitcoin (-1.74%)."
+    },
     {
       "id": "4973549",
       "time": "2026-07-07 13:28:48",
