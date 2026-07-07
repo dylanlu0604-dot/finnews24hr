@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-08 03:21:57",
-  "count": 15841,
+  "updated": "2026-07-08 03:25:41",
+  "count": 15840,
   "items": [
+    {
+      "id": "4974898",
+      "time": "2026-07-08 03:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西食糖行業警告稱，美國加徵關稅會威脅巴西東北部食糖出口。"
+    },
+    {
+      "id": "te:markets:564975",
+      "time": "2026-07-08 03:24:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $76 — Brent extended its gains on Tuesday, rising about 6% to around $76 per barrel as geopolitical tensions in the Middle East intensify. A US official told CNBC that the Treasury Department is revoking the waiver allowing Iran to sell its oil after recent attacks on tankers in the Strait of Hormuz. According to Qatar’s Ministry of Foreign Affairs, Iran attacked the Qatari LNG tanker Al-Rekayyat and another tanker transiting the strait was reportedly struck by an unidentified projectile. Iran’s foreign minister said that final peace negotiations would not move forward as long as security threats persist. President Trump warned that the two countries would either reach an agreement or the US would \"finish the job,\" renewing the prospect of military action. Meanwhile, Saudi Aramco cut the official selling price of its Arab Light crude for Asian buyers by $1.10 per barrel for next month, widening the discount to $1.50 below the regional benchmark amid softer market conditions."
+    },
+    {
+      "id": "4974897",
+      "time": "2026-07-08 03:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，伊朗正根據諒解備忘錄認真履行其在霍爾木茲海峽管控必要措施方面所承擔的義務。"
+    },
+    {
+      "id": "4974896",
+      "time": "2026-07-08 03:23:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮一名官員透露，黎巴嫩總統約瑟夫·奧翁預計將於7月21日訪問白宮。"
+    },
+    {
+      "id": "te:markets:564974",
+      "time": "2026-07-08 03:23:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Rise 5% — Crude oil extended its gains on Tuesday, rising about 5% to around $72 per barrel as geopolitical tensions in the Middle East intensify. A US official told CNBC that the Treasury Department is revoking the waiver allowing Iran to sell its oil after recent attacks on tankers in the Strait of Hormuz. According to Qatar’s Ministry of Foreign Affairs, Iran attacked the Qatari LNG tanker Al-Rekayyat and another tanker transiting the strait was reportedly struck by an unidentified projectile. Iran’s foreign minister said that final peace negotiations would not move forward as long as security threats persist. President Trump warned that the two countries would either reach an agreement or the US would \"finish the job,\" renewing the prospect of military action. Meanwhile, Saudi Aramco cut the official selling price of its Arab Light crude for Asian buyers by $1.10 per barrel for next month, widening the discount to $1.50 below the regional benchmark amid softer market conditions."
+    },
+    {
+      "id": "4974895",
+      "time": "2026-07-08 03:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，商船行經伊朗水域時不按照協調路線航行、或是篡改船舶追蹤裝置，將面臨風險，且會干擾伊朗為保障霍爾木茲海峽航行安全所做的努力。"
+    },
+    {
+      "id": "4974894",
+      "time": "2026-07-08 03:22:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，卡達就霍爾木茲海峽一艘與卡達有關聯船隻遇襲一事對伊朗提出指控，此舉令人費解，且不符合睦鄰原則。"
+    },
     {
       "id": "4974893",
       "time": "2026-07-08 03:20:53",
@@ -145278,85 +145340,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯談及伊朗： 伊朗方面有一點讓我既費解又無奈，他們嘴上總說 “沒有正在進行的和平談判”，但美伊之間明明一直在圍繞和平協議開展技術性磋商。 這是一套波斯人的談判話術與修辭手段，我實在無法理解。"
-    },
-    {
-      "id": "mkt:019f19fe-0975-7aab-8c41-f851523c2daa",
-      "time": "2026-07-01 03:25:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister NETANYAHU acknowledged occasional differences with Trump."
-    },
-    {
-      "id": "mkt:019f19fd-bbb6-7aab-8c41-f70f02da3b90",
-      "time": "2026-07-01 03:24:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. Vice President Vance said President Trump is willing to use military strikes, but only if they serve a clear strategic objective."
-    },
-    {
-      "id": "4963639",
-      "time": "2026-07-01 03:23:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "熱浪將至，美國對 PJM 電網釋出應急狀態指令。"
-    },
-    {
-      "id": "mkt:019f19fc-c59b-7aab-8c41-e9b60ecd4ae9",
-      "time": "2026-07-01 03:23:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said if the U.S. attempts to deprive Iran of the right to sell oil, 'no one will benefit from oil'."
-    },
-    {
-      "id": "mkt:019f19fc-7399-7aab-8c41-e40075718141",
-      "time": "2026-07-01 03:23:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said the Strait of Hormuz's value lies in rising transit volumes, not declines, and it must not be \"used in reverse\" or become a tool that harms Iran."
-    },
-    {
-      "id": "4963638",
-      "time": "2026-07-01 03:22:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 倘若美國企圖剝奪伊朗的石油出口權，各方都無法從石油貿易中獲益。"
-    },
-    {
-      "id": "mkt:019f19fb-a5c4-7aab-8c41-dc083d780b56",
-      "time": "2026-07-01 03:22:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said oil sanctions on Iran have been lifted and that Iran is currently selling crude at roughly a 20% premium."
-    },
-    {
-      "id": "4963637",
-      "time": "2026-07-01 03:22:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 石油制裁已解除，我們的石油售價上漲了兩成。"
     }
   ]
 }
