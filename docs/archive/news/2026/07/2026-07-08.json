@@ -1,7 +1,95 @@
 {
   "date": "2026-07-08",
-  "count": 353,
+  "count": 362,
   "items": [
+    {
+      "id": "4974981",
+      "time": "2026-07-08 05:22:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊朗外交部宣告：譴責美國財政部取消伊朗石油銷售制裁臨時豁免的舉措。"
+    },
+    {
+      "id": "4974980",
+      "time": "2026-07-08 05:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部多地再遭美軍襲擊】據伊朗媒體報道，當地時間今天（7月8日）凌晨，伊朗南部格什姆島及錫裡克、阿巴斯港等多地傳出爆炸聲。美軍中央司令部稱，已開始對伊朗發動一系列強力打擊，“以回應伊朗攻擊三艘途經霍爾木茲海峽的商船”。"
+    },
+    {
+      "id": "mkt:019f3e75-bca8-7aab-8cd7-2be0f1a523b5",
+      "time": "2026-07-08 05:22:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported six missiles struck the Tahrui dock area in Sirik, southern Iran."
+    },
+    {
+      "id": "4974979",
+      "time": "2026-07-08 05:21:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.11%，報14873點。"
+    },
+    {
+      "id": "4974978",
+      "time": "2026-07-08 05:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，六枚炮彈擊中伊朗南部錫裡克的塔赫魯伊碼頭區域。"
+    },
+    {
+      "id": "mkt:019f3e74-26b0-7aab-8cd7-23c5104949a6",
+      "time": "2026-07-08 05:20:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【CENTCOM says U.S. forces have begun strikes on Iran】On July 7, CENTCOM said U.S. Central Command forces have begun a series of strikes against Iran to respond to Iranian targeting and attacks on civilian‑crewed commercial vessels in international waterways. CENTCOM said the strikes were in response to attacks on three merchant ships transiting the Strait of Hormuz and described Iran’s actions as unjustified, dangerous and a clear violation of a ceasefire agreement."
+    },
+    {
+      "id": "4974977",
+      "time": "2026-07-08 05:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國宣佈對伊朗發動襲擊後，美元走勢基本不變。"
+    },
+    {
+      "id": "4974976",
+      "time": "2026-07-08 05:20:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍稱開始對伊朗發動系列打擊】當地時間7月7日，美國中央司令部表示，美軍中央司令部部隊已開始對伊朗發動一系列強力打擊，以回應伊朗針對國際水道中由平民船員操作的商業航運實施瞄準和襲擊。美國中央司令部稱，美方打擊是對伊朗襲擊三艘正在透過霍爾木茲海峽的商船作出的回應，並表示伊朗的侵略行為“沒有正當理由、危險”，且“明顯違反停火協議”。"
+    },
+    {
+      "id": "mkt:019f3e73-3f87-7aab-8cd7-1ec92073c6bc",
+      "time": "2026-07-08 05:19:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said U.S. strikes were carried out in response to Iranian attacks on three commercial vessels transiting the Strait of Hormuz."
+    },
     {
       "id": "4974975",
       "time": "2026-07-08 05:18:23",
