@@ -1,7 +1,103 @@
 {
   "date": "2026-07-07",
-  "count": 2536,
+  "count": 2546,
   "items": [
+    {
+      "id": "4974667",
+      "time": "2026-07-07 22:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅宕昌山體滑坡已累計找到31名被困人員】從甘肅宕昌山體滑坡搶險救援一線瞭解到，截至7日21時，救援人員已累計找到31名被困人員（含遇難人員），正在全力搜救剩餘2名被困人員。（央視新聞）"
+    },
+    {
+      "id": "4974666",
+      "time": "2026-07-07 22:06:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華爾街密集覆蓋SpaceX：雷蒙德詹姆斯最高看至800美元，大摩挺進300美元】SpaceX（股票程式碼：SPCX.O）今日迎來華爾街各大頂級投行的密集覆蓋。截至目前，已有14家主流券商和研究機構首次將其納入研究範圍。整體來看，華爾街對SpaceX的商業前景和估值空間普遍持樂觀態度，多達13家機構給予“買入”或“增持”類評級，僅一家持謹慎觀望態度。在所有覆蓋機構中，雷蒙德詹姆斯（Raymond James）表現最為激進，首次給予SpaceX“強力買入”評級，並將目標價定在罕見的800美元，遠超市場平均水平。摩根士丹利（Morgan Stanley）緊隨其後，給予“增持”評級，目標價定為300美元。其餘11家給予看多評級的機構對SpaceX的估值邏輯相對集中，目標價普遍分佈在190美元至250美元區間。相比之下，MoffettNathanson則是目前華爾街唯一持謹慎態度的機構。該機構對SpaceX首次給予“中性”評級，其設定的目標價僅為131美元，較雷蒙德詹姆斯的最高估值低了近84%，顯示出該機構對公司當前估值溢價或短期變現能力存在保留意見。"
+    },
+    {
+      "id": "te:economy:564899",
+      "time": "2026-07-07 22:05:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Economic Optimism Index",
+        "Importance 2"
+      ],
+      "text": "US Economic Optimism Index Rises More than Expected — The RealClearMarkets/TIPP Economic Optimism Index rose to 45.5 in July 2026 from 42.5 in May, beating market expectations of 45. The Six-Month Economic Outlook, which measures how consumers perceive the economy’s prospects in the next six months, increased to 42.1 from 37.1. Also, the Personal Financial Outlook, a measure of how Americans feel about their own finances in the next six months, rose to 52.2 from 50.1, remaining the only component anchored at the 50 line. Confidence in Federal Economic Policies, a measure of views on the effectiveness of government economic policies, rose to 42.1 from 40.2"
+    },
+    {
+      "id": "4974665",
+      "time": "2026-07-07 22:05:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：墨西哥方面表示，豐田不會關停其位於瓜納華託州的生產工廠。"
+    },
+    {
+      "id": "mkt:019f3ce5-7586-7aab-8cd1-1330b552616a",
+      "time": "2026-07-07 22:04:58",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares' losses widened to more than 4%."
+    },
+    {
+      "id": "4974664",
+      "time": "2026-07-07 22:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東印發虛擬電廠建設執行管理辦法】7月7日，山東省印發《山東省虛擬電廠建設執行管理辦法》，該檔案首次以省級管理辦法形式，明確虛擬電廠可以對分散式光伏等發電側資源進行聚合，並直接參與電力市場交易和接受電網排程，為分散式光伏+虛擬電廠的商業模式提供了制度依據。其中，檔案要求虛擬電廠分散式發電類聚合單元應按照資料接入質量要求，將執行資訊實時上傳至電力排程機構，具備接收和執行電力排程機構下發的調節控制指令能力，實現分散式光伏出力的直接採集和調控。"
+    },
+    {
+      "id": "mkt:019f3ce4-c79a-7aab-8cd1-0c97395e6e77",
+      "time": "2026-07-07 22:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China fuel oil front-month main contract rose 2.00% intraday to 2,983 yuan/ton."
+    },
+    {
+      "id": "4974663",
+      "time": "2026-07-07 22:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：GridMarket與Deployable Energy合作推進225億美元核能專案管道，為資料中心客戶提供電力至2035年。"
+    },
+    {
+      "id": "te:markets:564898",
+      "time": "2026-07-07 22:03:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Steadies as Middle East Tensions Weigh on Markets — Gold trimmed earlier losses to trade flat at $4,170 per ounce on Tuesday, as investors assessed escalating Middle East hostilities and awaited the Federal Reserve’s June meeting minutes for clues on monetary policy. The precious metal had reached a two-week high on Monday after a softer-than-expected US jobs report led markets to scale back expectations for near-term interest rate hikes. However, persistent inflation concerns suggest the Fed may still maintain a \"higher for longer\" stance, with traders pricing in a 60% chance of a September rate hike. Meanwhile, oil prices edged higher after two tankers were struck in the Strait of Hormuz, and Iran stated it would halt peace talks unless President Trump ceased his repeated threats to restart the war. Elsewhere, China extended its gold-buying streak to 20 months, with reserves at 75.44M oz, while Hong Kong launched a gold clearing system and revived futures trading to boost its regional hub status."
+    },
+    {
+      "id": "4974662",
+      "time": "2026-07-07 22:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官方資料顯示，截至6月30日，2025/26年度歐盟軟小麥出口量達2,342萬噸，上年同期為2,162萬噸。"
+    },
     {
       "id": "4974661",
       "time": "2026-07-07 22:01:48",
