@@ -1,7 +1,224 @@
 {
   "date": "2026-07-07",
-  "count": 2203,
+  "count": 2227,
   "items": [
+    {
+      "id": "mkt:019f3c90-ba21-7aab-8cce-708928d5b2d0",
+      "time": "2026-07-07 20:32:25",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "US May exports $317.7 bln, prior $327.1 bln."
+    },
+    {
+      "id": "mkt:019f3c90-afd5-7aab-8cce-6982ea9342c7",
+      "time": "2026-07-07 20:32:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Imports (May) | actual 395300000000B | previous 383000000000B"
+    },
+    {
+      "id": "mkt:019f3c90-931d-7aab-8cce-62fb76a63cf1",
+      "time": "2026-07-07 20:32:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Exports (May) | actual 317700000000B | previous 327100000000B"
+    },
+    {
+      "id": "4974453",
+      "time": "2026-07-07 20:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月資本貨物進口額為1280億美元，4月進口額為1268.9億美元。"
+    },
+    {
+      "id": "4974452",
+      "time": "2026-07-07 20:31:35",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國5月石油進口價格為每桶87.44美元，4月為每桶78.24美元；較2025年5月的每桶62.10美元上漲40.8%。"
+    },
+    {
+      "id": "4974451",
+      "time": "2026-07-07 20:31:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "F126護衛艦專案取消後，萊茵金屬集團暫停其造船部門的員工擴招計劃。"
+    },
+    {
+      "id": "4974450",
+      "time": "2026-07-07 20:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大5月貿易順差創2022年5月以來新高。"
+    },
+    {
+      "id": "4974449",
+      "time": "2026-07-07 20:31:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局將開展公平競爭審查抽查】 記者今天（7日）瞭解到，公平競爭審查制度積極有效地發揮了促進市場公平競爭和保障全國統一大市場建設的重要作用，市場監管總局近期將組織開展2026年度公平競爭審查抽查，指導各地做到“應審盡審”“凡審必嚴”。對重點領域開展專項抽查，統籌運用抽查、約談、通報等監管工具，切實強化公平競爭審查剛性約束。各地市場監管部門也將在下半年強化抽查、舉報處理等監管手段，對抽查發現的違規檔案將督促立行立改；對問題多發、整改不力，經督促逾期未整改或者整改不到位的，將按照規定予以約談、曝光，切實加強行為懲戒。同時，將持續完善監管規則、加強制度供給，充分發揮法治在綜合整治“內卷式”競爭工作中的保障作用。目前，市場監管總局正在積極推進《中華人民共和國價格法》的修改，進一步完善低價傾銷等不正當價格行為的認定規則，充實價格監管執法手段，完善法律責任體系，為防範和制止經營者無底線“卷價格”“打價格戰”提供更有力的治理武器。同時按照急用先行原則，擬圍繞健全審查機制、規範審查程式、強化監督保障等方面，對《公平競爭審查條例實施辦法》進行有針對性的修改完善，以進一步加大對政府部門出臺各類政策措施的公平競爭審查力度，增強競爭政策制度剛性和基礎性地位，為各類經營主體平等參與市場競爭提供更為堅實的制度保障。（央視新聞）"
+    },
+    {
+      "id": "4974448",
+      "time": "2026-07-07 20:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月出口環比下降3.2%，進口環比增長3.3%。"
+    },
+    {
+      "id": "4974447",
+      "time": "2026-07-07 20:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IBM推出新型資料中心繫統，以應對資料中心空間和成本限制】7月7日，IBM宣佈推出新型z17和LinuxONE 5系統，以應對資料中心空間和成本限制問題。這些系統將於8月12日正式上市。"
+    },
+    {
+      "id": "mkt:019f3c8e-dcab-7aab-8cce-59062bbf7bfc",
+      "time": "2026-07-07 20:30:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US May trade balance: -$77.6 bln vs -$78.5 bln expected; April revised from -$55.9 bln to -$54.6 bln."
+    },
+    {
+      "id": "mkt:019f3c8e-d22b-7aab-8cce-520a35063e93",
+      "time": "2026-07-07 20:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. May trade deficit widened to $77.6 bln, the largest since March 2025."
+    },
+    {
+      "id": "4974446",
+      "time": "2026-07-07 20:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大5月進口 728.6億加元，前值由724.4億加元修正為730億加元。\n加拿大5月出口 771億加元，前值由751.6億加元修正為764億加元。\n加拿大5月貿易帳 42.4億加元，預期28.5億加元，前值由27.2億加元修正為34.1億加元。"
+    },
+    {
+      "id": "mkt:019f3c8e-b54d-7aab-8cce-4ff5bfbb59a9",
+      "time": "2026-07-07 20:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May imports C$72.86 bln; April revised from C$72.44 bln to C$73.00 bln."
+    },
+    {
+      "id": "mkt:019f3c8e-b40d-7aab-8cce-41206f01e197",
+      "time": "2026-07-07 20:30:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada's May exports were C$77.1 bln; prior figure revised from C$75.16 bln to C$76.4 bln."
+    },
+    {
+      "id": "mkt:019f3c8e-b3c8-7aab-8cce-3f4385bb359c",
+      "time": "2026-07-07 20:30:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada's trade surplus widened to CAD 4.24 bln in May, versus consensus CAD 2.85 bln; April's surplus was revised up to CAD 3.41 bln from CAD 2.72 bln."
+    },
+    {
+      "id": "4974445",
+      "time": "2026-07-07 20:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月貿易帳 -776億美元，預期-785億美元，前值由-559億美元修正為-546億美元。"
+    },
+    {
+      "id": "4974444",
+      "time": "2026-07-07 20:30:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新產業回應實控人翁先定被留置】7月7日，診斷試劑上市公司新產業公告，公司於7月6日收到實際控制人翁先定家屬的通知，根據相關監察委員會的《留置通知書》，翁先定被實施留置。新產業表示，自2021年9月8日以來，公司實際控制人翁先定一直未在公司擔任任何職務。公司全體董事和高階管理人員均正常履職，董事會運作及生產經營管理情況正常，上述事項不涉及公司，不會對公司生產經營產生重大影響。7月7日，介面新聞以投資者身份致電新產業。新產業董秘辦工作人員向介面新聞表示，翁先定在公司定位為財務投資人，未參與公司實際經營，與上市公司主體經營無關。該工作人員表示，翁先定此次涉及事項可能與其其他投資有關，但具體涉及哪個投資專案，公司也暫未掌握。公司經營決策一直由董事長饒微主持。（介面）"
+    },
+    {
+      "id": "mkt:019f3c8e-86e1-7aab-8cce-303c7ca6ffbb",
+      "time": "2026-07-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Exports (May) | actual 77100000000B | previous 75160000000B"
+    },
+    {
+      "id": "mkt:019f3c8e-86e0-7aab-8cce-2ffe4f344c8b",
+      "time": "2026-07-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Trade Balance (May) | actual -77600000000B | consensus -78500000000B | previous -55900000000B"
+    },
+    {
+      "id": "mkt:019f3c8e-865f-7aab-8cce-2310f66d9663",
+      "time": "2026-07-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Imports (May) | actual 72860000000B | previous 72440000000B"
+    },
+    {
+      "id": "mkt:019f3c8e-865e-7aab-8cce-1cfeb1d96b52",
+      "time": "2026-07-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Trade Balance (May) | actual 4240000000B | consensus 2850000000B | previous 2720000000B"
+    },
+    {
+      "id": "4974443",
+      "time": "2026-07-07 20:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人系統部隊司令羅伯特·布羅夫迪：針對經由亞速海運往克里米亞的燃料的爭奪戰仍在繼續。"
+    },
     {
       "id": "4974442",
       "time": "2026-07-07 20:27:56",
@@ -64,6 +281,14 @@
         "Importance 0"
       ],
       "text": "US Weekly Job Growth Slows for Second Week — US private employers added an average of 21,000 jobs per week in the four weeks ending June 20, 2026, according to the ADP Research Institute, a slight decline from the previous period’s 24,250 weekly gain. This marks the second consecutive week of slowing job growth, aligning with ADP’s June report showing private businesses added 98,000 jobs, the lowest in three months and below forecasts of 113,000."
+    },
+    {
+      "id": "4974438",
+      "time": "2026-07-07 20:24:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部提醒：29個地區連續降雨，公路交通存在高風險】根據交通運輸部與中國氣象局會商研判，結合氣象部門降雨資料，截至7月7日，江西、湖南、廣西、貴州4個省（區）的13個縣區出現了降水天數15天以上、累計雨量600毫米以上或累計降雨量300毫米且超過常年同期水平3倍以上的情況；江西、湖南、廣西、貴州、雲南5個省（區）的16個縣區出現了降水天數15天以上、累計降雨量300毫米且超過常年同期水平2倍以上的情況，公路交通存在高風險。交通運輸部要求相關省份交通運輸部門在地方人民政府領導下，做好連續降雨高風險區域的公路安全風險管控工作，嚴格落實災害風險隱患排查和公路巡查要求，提高力量預置的精準性和針對性，細化主動防禦管控措施，切實保障連續降雨期間人民群眾公路出行安全。一類高風險區域（共13個）二類高風險區域（共16個）交通運輸部提醒，近期，上述地區出現連續降雨，公路沿線災害風險較高，如您有上述地區出行計劃，請提前關注天氣及路況資訊，合理規劃路線，儘量避讓災害易發路段。駕車出行時，請謹慎駕駛、觀察路況，注意公路沿線情報板、告警阻攔設施等提示資訊。如遇災害突發事件，第一時間及時停靠安全區域並撥打救援電話，等待專業處置。"
     },
     {
       "id": "mkt:019f3c89-9573-7aab-8cce-058747f2765a",
