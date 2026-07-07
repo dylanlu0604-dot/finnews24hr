@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-08 03:14:27",
-  "count": 15839,
+  "updated": "2026-07-08 03:18:13",
+  "count": 15840,
   "items": [
+    {
+      "id": "mkt:019f3e02-c278-7aab-8cd5-9544a4754e89",
+      "time": "2026-07-08 03:16:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Gold falls below $4,100 as Brent and WTI jump 5%】Brent crude up 5.00% at $75.67/bbl; WTI up 5.00% above $72.00/bbl. Spot gold down 1.54%, trading below $4,100/oz."
+    },
+    {
+      "id": "4974886",
+      "time": "2026-07-08 03:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持泰森食品“BBB”/“F2”評級，展望穩定。"
+    },
+    {
+      "id": "4974885",
+      "time": "2026-07-08 03:16:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4100美元/盎司，日內跌1.59%。"
+    },
+    {
+      "id": "4974884",
+      "time": "2026-07-08 03:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦機場管理局：已透過多個機構在海上展開搜尋救援行動，定位失聯飛機。"
+    },
+    {
+      "id": "4974883",
+      "time": "2026-07-08 03:15:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4110美元/盎司，日內跌1.39%。"
+    },
+    {
+      "id": "4974882",
+      "time": "2026-07-08 03:15:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破76美元/桶，日內漲5.58%。"
+    },
+    {
+      "id": "4974881",
+      "time": "2026-07-08 03:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗（在霍爾木茲海峽）的行動將面臨後果。"
+    },
+    {
+      "id": "mkt:019f3e00-c2fa-7aab-8cd5-8e46dfc1b83a",
+      "time": "2026-07-08 03:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Civil Aviation Authority said the flight lost radar contact and communications about 155 nautical miles west of Karachi."
+    },
+    {
+      "id": "mkt:019f3e00-a8b7-7aab-8cd5-85d60329d5f7",
+      "time": "2026-07-08 03:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Airports Authority said a K2 Aviation Boeing 737 cargo flight from Sharjah to Karachi reported a navigation-system failure at 21:18 local time; five crew were on board."
+    },
+    {
+      "id": "4974880",
+      "time": "2026-07-08 03:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗的行為必將受到懲罰。"
+    },
     {
       "id": "4974879",
       "time": "2026-07-08 03:14:00",
@@ -145258,93 +145350,6 @@
         "Dow"
       ],
       "text": "【Investors shrug off Middle East fighting; U.S. stocks poised for largest Q2 gain in years】U.S. major indices rose Tuesday, with the S&P 500 and Nasdaq poised for their largest quarterly gains since 2020 and the Dow for its best quarter since 2022. Investors remain upbeat on U.S. growth and corporate earnings despite ongoing Middle East hostilities. Signs of progress in Iran ceasefire talks briefly lifted risk appetite, though renewed weekend fighting left the deal outlook uncertain. After a strong Q1 earnings season, market attention shifts to Q2 results due over the coming weeks."
-    },
-    {
-      "id": "4963631",
-      "time": "2026-07-01 03:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及黎巴嫩局勢 ：如今黎巴嫩與以色列已開啟直接對話，這與數月前的局面截然不同，雙方大方向立場趨於一致。甚至可以這樣理解：若將黎以和平協議與美伊簽署的諒解備忘錄統籌對照，兩份檔案的核心要義均是承諾尊重黎巴嫩領土完整。局勢確實發生了顯著轉變，但關鍵在於這一轉變能否長久維持。"
-    },
-    {
-      "id": "mkt:019f19f6-f076-7aab-8c41-a97b7ebd5713",
-      "time": "2026-07-01 03:17:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. Vice President Vance said coordinating a Lebanon-Israel peace arrangement with a U.S.-Iran agreement would see both center on respect for Lebanon's territorial integrity."
-    },
-    {
-      "id": "mkt:019f19f6-e1e2-7aab-8c41-a464e8d411fc",
-      "time": "2026-07-01 03:17:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Lebanon and Israel are holding direct talks in ways that did not exist months ago and have reached some degree of alignment."
-    },
-    {
-      "id": "mkt:019f19f6-e11a-7aab-8c41-9fc5585ebced",
-      "time": "2026-07-01 03:17:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the current situation has \"indeed changed\", but the key question is whether the change can be sustained."
-    },
-    {
-      "id": "mkt:019f19f6-28cf-7aab-8c41-961c359ee74b",
-      "time": "2026-07-01 03:16:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the United States seeks sustainable, verifiable commitments, secured by on-site inspections, aimed at ensuring Iran's complete denuclearization."
-    },
-    {
-      "id": "4963630",
-      "time": "2026-07-01 03:16:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 鈾濃縮是我們的合法權利，同時我們遵守《不擴散核武器條約》相關規定。"
-    },
-    {
-      "id": "mkt:019f19f5-18e0-7aab-8c41-88a5d3c6c2ea",
-      "time": "2026-07-01 03:15:20",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ECB Governing Council member Kazaks said there is currently no need to take forceful measures to address inflation and it is difficult to predict developments in July and September."
-    },
-    {
-      "id": "mkt:019f19f4-f86e-7aab-8c41-81a0d13f0771",
-      "time": "2026-07-01 03:15:12",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB governing council member KAZAKS said if conditions improve the bank may not raise rates further, and the urgency for consecutive rate hikes has eased significantly."
-    },
-    {
-      "id": "4963629",
-      "time": "2026-07-01 03:14:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行卡扎克斯： 很難預判 7 月、9 月政策走向。"
     }
   ]
 }

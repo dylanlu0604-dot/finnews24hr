@@ -1,7 +1,99 @@
 {
   "date": "2026-07-08",
-  "count": 201,
+  "count": 211,
   "items": [
+    {
+      "id": "mkt:019f3e02-c278-7aab-8cd5-9544a4754e89",
+      "time": "2026-07-08 03:16:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Gold falls below $4,100 as Brent and WTI jump 5%】Brent crude up 5.00% at $75.67/bbl; WTI up 5.00% above $72.00/bbl. Spot gold down 1.54%, trading below $4,100/oz."
+    },
+    {
+      "id": "4974886",
+      "time": "2026-07-08 03:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持泰森食品“BBB”/“F2”評級，展望穩定。"
+    },
+    {
+      "id": "4974885",
+      "time": "2026-07-08 03:16:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4100美元/盎司，日內跌1.59%。"
+    },
+    {
+      "id": "4974884",
+      "time": "2026-07-08 03:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦機場管理局：已透過多個機構在海上展開搜尋救援行動，定位失聯飛機。"
+    },
+    {
+      "id": "4974883",
+      "time": "2026-07-08 03:15:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4110美元/盎司，日內跌1.39%。"
+    },
+    {
+      "id": "4974882",
+      "time": "2026-07-08 03:15:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破76美元/桶，日內漲5.58%。"
+    },
+    {
+      "id": "4974881",
+      "time": "2026-07-08 03:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗（在霍爾木茲海峽）的行動將面臨後果。"
+    },
+    {
+      "id": "mkt:019f3e00-c2fa-7aab-8cd5-8e46dfc1b83a",
+      "time": "2026-07-08 03:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Civil Aviation Authority said the flight lost radar contact and communications about 155 nautical miles west of Karachi."
+    },
+    {
+      "id": "mkt:019f3e00-a8b7-7aab-8cd5-85d60329d5f7",
+      "time": "2026-07-08 03:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Airports Authority said a K2 Aviation Boeing 737 cargo flight from Sharjah to Karachi reported a navigation-system failure at 21:18 local time; five crew were on board."
+    },
+    {
+      "id": "4974880",
+      "time": "2026-07-08 03:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗的行為必將受到懲罰。"
+    },
     {
       "id": "4974879",
       "time": "2026-07-08 03:14:00",
