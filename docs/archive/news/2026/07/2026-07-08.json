@@ -1,7 +1,138 @@
 {
   "date": "2026-07-08",
-  "count": 339,
+  "count": 353,
   "items": [
+    {
+      "id": "4974975",
+      "time": "2026-07-08 05:18:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）的檔案顯示，亞馬遜已提交發行規模最高為7.5億美元、2029年到期浮動利率票據的申請。"
+    },
+    {
+      "id": "mkt:019f3e71-c89d-7aab-8cd7-17b73e3fbb2e",
+      "time": "2026-07-08 05:17:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported seven explosions heard in Sirik in southern Iran."
+    },
+    {
+      "id": "4974974",
+      "time": "2026-07-08 05:17:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國與北約將啟動基礎採購協議相關談判。"
+    },
+    {
+      "id": "mkt:019f3e71-5f14-7aab-8cd7-0a6f8a2aef93",
+      "time": "2026-07-08 05:17:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said strikes on Iran will impose costs on its actions targeting and attacking commercial shipping."
+    },
+    {
+      "id": "mkt:019f3e71-267e-7aab-8cd7-01ff4365eedd",
+      "time": "2026-07-08 05:17:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "CENTCOM said Iran's aggressive actions are unjustified, dangerous and clearly violate the ceasefire agreement."
+    },
+    {
+      "id": "4974973",
+      "time": "2026-07-08 05:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：伊朗的公然侵略毫無正當理由、極度危險，且明顯違反停火協議。"
+    },
+    {
+      "id": "4974972",
+      "time": "2026-07-08 05:16:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗南部錫裡克地區聽到七次爆炸聲。"
+    },
+    {
+      "id": "mkt:019f3e70-991d-7aab-8cd6-f850e1efc06f",
+      "time": "2026-07-08 05:16:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said U.S. forces have begun a series of powerful strikes against Iran."
+    },
+    {
+      "id": "4974971",
+      "time": "2026-07-08 05:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：此次美國發動打擊，是對伊朗襲擊三艘途經霍爾木茲海峽的商用船隻的回應。"
+    },
+    {
+      "id": "4974970",
+      "time": "2026-07-08 05:16:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部部隊已開始對伊朗發動一系列打擊。"
+    },
+    {
+      "id": "4974969",
+      "time": "2026-07-08 05:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：打擊伊朗，令其為針對並襲擊商船付出代價。"
+    },
+    {
+      "id": "4974968",
+      "time": "2026-07-08 05:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美軍已開始對伊朗發起一系列強力打擊。"
+    },
+    {
+      "id": "4974967",
+      "time": "2026-07-08 05:15:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：美國已對伊朗發動襲擊。"
+    },
+    {
+      "id": "4974966",
+      "time": "2026-07-08 05:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，週三凌晨西里克市傳來爆炸聲。 目前尚無官方及安全部門證實爆炸的起因。"
+    },
     {
       "id": "mkt:019f3e6e-917a-7aab-8cd6-f1944b26942e",
       "time": "2026-07-08 05:14:21",
