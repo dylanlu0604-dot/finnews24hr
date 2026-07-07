@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-07 13:50:49",
-  "count": 14706,
+  "updated": "2026-07-07 13:54:48",
+  "count": 14712,
   "items": [
+    {
+      "id": "4973578",
+      "time": "2026-07-07 13:54:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "布依格建築集團表示，其已完成亞馬遜位於法國里昂附近的新配送中心的交付工作。"
+    },
+    {
+      "id": "4973577",
+      "time": "2026-07-07 13:53:22",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "【紐約聯儲：中東戰爭影響開始消退 6月全球供應鏈壓力指數從5月份的1.81降至1.25】紐約聯邦儲備銀行週一表示，隨著中東戰爭的影響開始消退，全球供應鏈壓力在6月份有所緩解。據悉，該行的全球供應鏈壓力指數（GSCPI）從5月份向上修正後的1.81降至1.25。這一水平已接近2022年底疫情擾動逐步消退時的讀數，遠低於2021年12月創下的4.44的峰值。"
+    },
+    {
+      "id": "mkt:019f3b22-b9dc-7aab-8cc4-4012b0daa97a",
+      "time": "2026-07-07 13:52:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude is trading up more than 1.00% intraday at $69.56/bbl."
+    },
+    {
+      "id": "te:economy:564702",
+      "time": "2026-07-07 13:51:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Rebounds as Growth Outlook Dims — China's 10-year government bond yield rose to around 1.73% on Tuesday, rebounding after two consecutive sessions of declines as investors assessed the latest economic outlook from the World Bank. The lender forecasts China's economic growth to moderate to 4.4% in 2026 and 4.3% in 2027, citing a prolonged property market downturn and subdued consumer demand. It also cautioned that a deeper housing-market correction could further weigh on consumption, real estate investment, and related sectors. China's economy expanded 5.0% year-on-year in the first quarter of 2026, accelerating from 4.5% in the previous quarter and surpassing market expectations of 4.8%. The reading marked the strongest annual growth in three quarters, underpinned by resilient export activity. Separately, China and Hong Kong unveiled a package of measures to strengthen collaboration across currency, bond, and gold markets, further cementing Hong Kong's status as a leading offshore yuan hub."
+    },
+    {
+      "id": "mkt:019f3b21-3b89-7aab-8cc4-3b6c6820de46",
+      "time": "2026-07-07 13:51:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 20-year bond yield rose 0.5 bps to 3.810%."
+    },
+    {
+      "id": "4973576",
+      "time": "2026-07-07 13:50:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率<JP20YTN=JBTC>上漲0.5個基點，至3.810%。"
+    },
     {
       "id": "mkt:019f3b20-60e3-7aab-8cc4-316eab646927",
       "time": "2026-07-07 13:50:05",
