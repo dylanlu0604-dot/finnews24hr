@@ -1,7 +1,610 @@
 {
   "date": "2026-07-07",
-  "count": 2662,
+  "count": 2726,
   "items": [
+    {
+      "id": "mkt:019f3d4e-69dd-7aab-8cd2-b2035bf77c02",
+      "time": "2026-07-07 23:59:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic to launch Claude Cowork on mobile and web."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607073797128556",
+      "time": "2026-07-07 23:59:29",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【法國10年期國債收益率漲5.8個基點】週二（7月7日）歐市尾盤，法國10年期國債收益率漲5.8個基點，報3.792%；兩年期法債收益率漲4.2個基點，30年期法債收益率漲4.9個基點。"
+    },
+    {
+      "id": "4974778",
+      "time": "2026-07-07 23:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic： Claude Cowork 功能即將登陸移動端與網頁端，  Claude Cowork 雙倍使用額度優惠延期至 8 月 5 日。"
+    },
+    {
+      "id": "4974777",
+      "time": "2026-07-07 23:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國能源企業高管：歐洲需要與中國合作推動脫碳和綠色轉型】在法國7月4日舉行的一個經濟論壇上，法國兩大能源企業高管均表示，在剛剛結束的中國之行中，他們發現中國核電企業的效率非常高，歐洲不應該築起壁壘，而是應該與中國展開合作，推動脫碳和綠色轉型。（央視新聞）"
+    },
+    {
+      "id": "4974776",
+      "time": "2026-07-07 23:56:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美法案欲推動美以軍事深度整合】美國國會眾議院軍事委員會6月透過2027財年《國防授權法案》，進一步增加美國國防預算，根據其第219條，美國將發起一個“美以國防技術合作倡議”，並在國防部內設一個機構，負責擴大美以之間的國防技術合作。美國前議員丹尼斯·庫西尼奇接受美國媒體人塔克·卡爾森採訪表示，在軍事行動層面整合以軍和美軍，完全不利於美國的國家安全利益。 庫西尼奇還認為，美國一年之內增加了6000億美元國防預算。且美國80%的可支配預算都用於軍事，這本身就很可怕。而美國本可以把這些錢花在教育、醫療等問題上。如果美以加強軍事整合，以色列不僅將獲得美國軍事支援，還可能會影響美國國防預算的使用。（CCTV國際時訊）"
+    },
+    {
+      "id": "4974775",
+      "time": "2026-07-07 23:56:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法意希三國主權債收益率漲約6個基點】週二（7月7日）歐市尾盤，法國10年期國債收益率漲5.8個基點，報3.792%，全天處於上漲狀態；兩年期法債收益率漲4.2個基點，30年期法債收益率漲4.9個基點。義大利10年期國債收益率漲5.9個基點，報3.776%。西班牙10年期國債收益率漲4.8個基點，報3.477%。希臘10年期國債收益率漲5.8個基點，報3.682%。"
+    },
+    {
+      "id": "mkt:019f3d47-6d14-7aab-8cd2-af305375261d",
+      "time": "2026-07-07 23:51:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Denmark's prime minister said they expect all allies to respect Danish sovereignty and that Greenland will never be sold."
+    },
+    {
+      "id": "mkt:019f3d45-c7cb-7aab-8cd2-a258e269bf15",
+      "time": "2026-07-07 23:50:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said SK Hynix's U.S. IPO was multiple times oversubscribed, with about 1,000 retail investors participating in a July 6 management marketing call."
+    },
+    {
+      "id": "4974774",
+      "time": "2026-07-07 23:50:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥首相：我期望所有盟友尊重丹麥主權，格陵蘭島絕不售賣。"
+    },
+    {
+      "id": "mkt:019f3d45-b372-7aab-8cd2-9f9fec13cda1",
+      "time": "2026-07-07 23:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "EIA to publish monthly Short-Term Energy Outlook in 10 minutes."
+    },
+    {
+      "id": "4974773",
+      "time": "2026-07-07 23:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將取消對土耳其制裁】美國總統特朗普7日在土耳其首都安卡拉表示，美國將取消對土耳其的制裁，並就土耳其迴歸F-35戰鬥機專案作出決定。特朗普當天抵達安卡拉出席北約峰會。在與土耳其總統埃爾多安舉行的聯合新聞釋出會上，特朗普表示，當前美土關係良好，美方正著手解除對土製裁，並將就土耳其迴歸F-35戰鬥機專案作出決定。（新華社）"
+    },
+    {
+      "id": "4974772",
+      "time": "2026-07-07 23:48:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據知情人士透露，SK海力士美國IPO獲得數倍超額認購，大約1000名散戶投資者參與了7月6日的（管理層營銷）電話會。"
+    },
+    {
+      "id": "4974771",
+      "time": "2026-07-07 23:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "空客：本協議不具備法律約束力，尚需完成常規監管審批以及歐盟與各成員國層面勞工相關流程。全新合資企業預計 2027 年正式運營。"
+    },
+    {
+      "id": "te:markets:564935",
+      "time": "2026-07-07 23:47:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to 4-Month High — The FTSE 100 rose 0.3% to a four-month high on Tuesday, outpacing losses in both Europe and the US amid gains in energy stocks and limited exposure to the tech sector. Shell added 3.8% after saying that it expects gas trading in its second quarter to be “significantly” higher than in the first. BP also gained 1.7% as oil prices climbed following fresh attacks on shipping vessels in the Strait of Hormuz. Meanwhile, Diageo and AB Foods rose by around 3.7% each, Unilever gained 3.2% and Relx nearly 3%. On the other hand, mining stocks were under pressure, with Anglo American and Antofagasta retreating by over 4%, Fresnillo down 3.9% and Endeavour falling 2.9%. On the economic front, domestic data encouraged home buyers as the Lloyds house price index, formerly branded under Halifax, reported a 0.2% monthly price increase for June, marking the first gain in four months due to easing mortgage rates."
+    },
+    {
+      "id": "4974770",
+      "time": "2026-07-07 23:46:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客：將與 MTU 航空發動機公司成立合資企業，研發全電動氫燃料電池航空發動機。"
+    },
+    {
+      "id": "mkt:019f3d41-efbe-7aab-8cd2-94ddc105deaf",
+      "time": "2026-07-07 23:45:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises to near one-month high on capesize gains】Baltic Dry Index (BDI) closed up 78 pts (+2.79%) at 2,875, its highest in nearly a month, led by a 205-pt (4.76%) gain in the Capesize index to 4,514. Panamax rose 14 pts (0.63%) to 2,230, Supramax ticked up 1 pt to 1,676, while Handysize eased 7 pts to 929."
+    },
+    {
+      "id": "te:markets:564933",
+      "time": "2026-07-07 23:44:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Equities Retreat — US stock indices retreated on Tuesday amid losses for the heavyweight chip sector and fresh deterioration in the macroeconomic backdrop. The S&P 500 fell 0.7%, the Nasdaq 100 tanked 2.7%, while the Dow pulled back from a record high reached in morning exchanges. Memory producers sank even though Samsung posted a 19-fold surge in profit last quarter, as markets grow increasingly skeptical on whether AI hyperscalers can justify elevated levels of capital expenditure on infrastructure. Micron, Sandisk, and Applied Materials lost between 8%-10%. Consistently, SpaceX dropped 6% amid its inclusion in the Nasdaq 100. On top of that, Nvidia fell 1.5% and AMD slid 8% on reports that China's Deepseek is developing its own AI chip. In turn, broader sectors were pressured by higher bond yields after strikes on tankers in the Strait of Hormuz rekindled worries of energy inflation. Caterpillar, Deere, and GE Vernovia lost between 5% and 10%."
+    },
+    {
+      "id": "mkt:019f3d3f-c6ca-7aab-8cd2-88c8e00e04d4",
+      "time": "2026-07-07 23:43:37",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian (RIVN.O) shares fell as much as 15% after the electric-truck maker said it planned a share sale, the largest decline since November 2024."
+    },
+    {
+      "id": "4974769",
+      "time": "2026-07-07 23:43:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "“特斯拉勁敵”Rivian跌幅擴大至15%，創2024年11月份以來最差盤中表現，該公司釋出業績報告時宣佈股票增發計劃。"
+    },
+    {
+      "id": "4974768",
+      "time": "2026-07-07 23:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：對北約在美對伊軍事行動中表現感到“失望”】美國總統特朗普7日在土耳其首都安卡拉表示，他對北約國家在美國對伊朗軍事行動中的表現感到“失望”。特朗普當天抵達安卡拉出席北約峰會，並與土耳其總統埃爾多安舉行會晤。特朗普對媒體表示，“我對北約非常失望”。他說，如果這次峰會不是在土耳其舉行，他很可能就不會出席了。（新華社）"
+    },
+    {
+      "id": "mkt:019f3d3c-ad9e-7aab-8cd2-85d315168ab0",
+      "time": "2026-07-07 23:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada-led global defence bank wins nine founding members; major G7 states absent】Prime Minister Carney said nine countries have committed to a Canada-led global defence bank, naming Canada, Albania, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine. Apart from Canada, other G7 members have not joined, which could constrain the bank's initial capital base. Canada’s foreign minister said the institution remains open to additional members. A think tank noted launch conditions have been met but founders had hoped for participation from larger European powers. The bank is slated to begin operations in 2027 and aims to mobilise defence-industrial investment to strengthen allies’ collective security capacity."
+    },
+    {
+      "id": "mkt:019f3d3b-fd8a-7aab-8cd2-7b36d3cb8871",
+      "time": "2026-07-07 23:39:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Germany DAX30 closed down 362.34 points (-1.40%) at 25,470.18 on Tuesday, July 7. UK FTSE 100 rose 16.22 points (+0.15%) to 10,667.99. France CAC 40 fell 43.63 points (-0.51%) to 8,436.24. Euro Stoxx 50 dropped 79.26 points (-1.24%) to 6,318.75. Spain IBEX 35 declined 38.31 points (-0.19%) to 19,645.49. Italy FTSE MIB fell 475.64 points (-0.90%) to 52,483.50."
+    },
+    {
+      "id": "4974767",
+      "time": "2026-07-07 23:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭與加拿大正籌備無人機合作協議。"
+    },
+    {
+      "id": "4974766",
+      "time": "2026-07-07 23:38:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦官員稱巴安全部隊擊斃15名恐怖分子】巴基斯坦西南部俾路支省官員7日說，巴安全部隊針對6日發生在該省的恐怖襲擊展開了大規模清剿行動，共擊斃15名恐怖分子。"
+    },
+    {
+      "id": "mkt:019f3d3a-c2ec-7aab-8cd2-728077d01679",
+      "time": "2026-07-07 23:38:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy says Canada will provide a $900 mln support package to Ukraine."
+    },
+    {
+      "id": "4974765",
+      "time": "2026-07-07 23:38:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：加拿大將向烏克蘭提供 9 億美元援助方案。"
+    },
+    {
+      "id": "mkt:019f3d3a-3783-7aab-8cd2-6975936e1139",
+      "time": "2026-07-07 23:37:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【RBC: Canadian trade flows still affected by US policy uncertainty】RBC analysts Abbey Xu and Nathan Janzen say Canadian trade flows remain influenced by uncertainty around US trade policy. In May, goods exports rose 0.9% MoM and imports fell 0.2% MoM, pushing the goods trade surplus to roughly C$4.2bn from a revised C$3.4bn. Export volumes excluding price effects declined 0.5% in May, though RBC still sees sizable Q2 growth; import volumes edged down, largely reflecting a pullback in gold imports. Despite improving international conditions, they expect the drag from trade on Canadian GDP to be smaller than in 2025."
+    },
+    {
+      "id": "4974764",
+      "time": "2026-07-07 23:35:19",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "禮來製藥股價上漲 3%，摩根大通上調其目標價。"
+    },
+    {
+      "id": "mkt:019f3d38-12fd-7aab-8cd2-623f23d362c9",
+      "time": "2026-07-07 23:35:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. 6-week Treasury auction through July 7 — share of allotment at the accepted (stop-out) yield 86.48%, prior 54.61%."
+    },
+    {
+      "id": "mkt:019f3d37-dc03-7aab-8cd2-5fea9b56dc64",
+      "time": "2026-07-07 23:34:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury auction as of July 7 bid-cover ratio 2.74; prior 2.71."
+    },
+    {
+      "id": "mkt:019f3d37-b59c-7aab-8cd2-52286d301769",
+      "time": "2026-07-07 23:34:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 6-week Treasury bill auction settling July 7 — stop-out yield 3.635% vs prior 3.66%."
+    },
+    {
+      "id": "4974763",
+      "time": "2026-07-07 23:32:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達譴責卡方天然氣運輸船遭襲 稱伊朗應承擔責任】卡達7日譴責卡方一艘液化天然氣運輸船在霍爾木茲海峽附近遭襲，稱此舉違反國際法，並對國際海上航行安全和全球能源安全構成威脅。卡達首相顧問兼外交部發言人安薩里當天在社交媒體發表宣告說，此次襲擊是“對國際海上航行安全、全球能源供應以及國際水道航行自由原則不可接受的攻擊”。他說，卡達認為，伊朗應對這起襲擊事件以及由此造成的一切損失和後果承擔全部法律責任。（新華社）"
+    },
+    {
+      "id": "4974762",
+      "time": "2026-07-07 23:32:32",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.635%，投標倍數2.74。拍賣52週期國債，得標利率3.860%，投標倍數3.14。"
+    },
+    {
+      "id": "4974761",
+      "time": "2026-07-07 23:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際奧委會主席談及特朗普可能干預 2028 年洛杉磯奧運會一事時表示：“我們設有國際體育仲裁法庭，可快速處理各類糾紛，我們也會持續依託該機制解決相關問題。”"
+    },
+    {
+      "id": "mkt:019f3d35-5ea2-7aab-8cd2-4b1806b265b0",
+      "time": "2026-07-07 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 1-year Treasury auction on July 7: percentage of award at the stop-out yield 17.61% (previous 70.95%)."
+    },
+    {
+      "id": "mkt:019f3d35-5d22-7aab-8cd2-418c276a1b89",
+      "time": "2026-07-07 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 1-year Treasury auction on July 7 — stop-out yield 3.86%, versus 3.75% at the prior auction (up 11 bps)."
+    },
+    {
+      "id": "mkt:019f3d35-58b0-7aab-8cd2-3bbc15e9347b",
+      "time": "2026-07-07 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 1-year Treasury auction on July 7: bid-cover ratio 3.14, prior 3.34."
+    },
+    {
+      "id": "mkt:019f3d35-35fd-7aab-8cd2-3405712f9ad1",
+      "time": "2026-07-07 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Jul.7) | actual 3.14 | previous 3.34"
+    },
+    {
+      "id": "mkt:019f3d35-35ef-7aab-8cd2-2fde665ba0bb",
+      "time": "2026-07-07 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Jul.7) | actual 17.61% | previous 70.95%"
+    },
+    {
+      "id": "mkt:019f3d35-35e4-7aab-8cd2-271f007ca136",
+      "time": "2026-07-07 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Jul.7) | actual 3.86% | previous 3.75%"
+    },
+    {
+      "id": "4974760",
+      "time": "2026-07-07 23:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.19%，報25510.62點，脫離歷史最高位。法國股指初步收跌0.34%，義大利股指初步收跌0.69%、銀行指數漲0.27%，英國股指初步收漲0.35%。"
+    },
+    {
+      "id": "4974759",
+      "time": "2026-07-07 23:30:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.51%，報647.17點，持續脫離歷史最高位。歐元區STOXX 50指數初步收跌1.08%，報6328.97點。富時泛歐績優300指數初步收跌0.56%，報2589.93點。"
+    },
+    {
+      "id": "te:economy:564929",
+      "time": "2026-07-07 23:29:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Global Dairy Trade Price Index",
+        "Importance 1"
+      ],
+      "text": "Global Dairy Prices Post Sharpest Drop Since 2024 — The Global Dairy Trade Price Index fell 4.9% in the two weeks ending July 7, 2026, following a 2.8% decline in the prior period, marking the third straight weekly drop and the steepest since July 2024. The decrease was led by sharp falls in cheddar (-12.3%), skim milk powder (-7.0%), butter (-5.0%), whole milk powder (-4.4%), anhydrous milk fat (-3.9%), and lactose (-3.6%). Meanwhile, buttermilk powder rose 8.2% and mozzarella gained 3.8%."
+    },
+    {
+      "id": "4974758",
+      "time": "2026-07-07 23:28:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國議員將在北約峰會間隙就俄羅斯制裁法案向美國財長貝森特施壓。"
+    },
+    {
+      "id": "mkt:019f3d31-010f-7aab-8cd2-1aa36122d93e",
+      "time": "2026-07-07 23:27:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Department of Transportation: U.S. airlines' fuel costs nearly doubled in May to $6.7 billion."
+    },
+    {
+      "id": "4974757",
+      "time": "2026-07-07 23:26:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運輸部資料：5 月美國航司燃油成本近乎翻倍，達 67 億美元 。"
+    },
+    {
+      "id": "mkt:019f3d2f-d285-7aab-8cd2-179ebebf6a9f",
+      "time": "2026-07-07 23:26:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Wall Street Journal reports U.S. lawmakers will press Treasury Secretary Bessent at the NATO summit to push a Russia sanctions bill."
+    },
+    {
+      "id": "mkt:019f3d2e-23f2-7aab-8cd2-0adc34a94cd1",
+      "time": "2026-07-07 23:24:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2030 Winter Olympics to feature 126 events】The IOC said on July 7 the 2030 Winter Olympics in the French Alps will host about 3,046 athletes — 1,525 women and 1,521 men. The Games will include 126 events: 56 women's, 55 men's and 15 mixed. Alpine freeride and nine-person synchronized figure skating (synchro9) will debut. The IOC executive board confirmed retention of snowboard parallel giant slalom and non-retention of Nordic combined. The Games are scheduled Feb. 1-17, 2030, the fourth Winter Olympics held in France after Chamonix 1924, Grenoble 1968 and Albertville 1992."
+    },
+    {
+      "id": "4974756",
+      "time": "2026-07-07 23:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2030年冬奧會將設定126個小項】國際奧委會7日表示，2030年法國阿爾卑斯冬奧會預計約3046名運動員參加，其中將包括1525名女運動員和1521名男運動員。2030年冬奧會將設定126個小項，其中女子專案56個，男子專案55個，混合15個專案。高山自由滑雪（freeride）和花樣滑冰九人制佇列滑（synchro 9）專案將首次亮相奧運舞臺。國際奧委會執行委員會當天還確認，單板滑雪平行大回轉專案將被保留，而北歐兩項則未被保留。"
+    },
+    {
+      "id": "4974755",
+      "time": "2026-07-07 23:23:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院民主黨成員Warren施壓五角大樓與多家AI公司，要求披露合同。（NBC）"
+    },
+    {
+      "id": "mkt:019f3d2c-446f-7aab-8cd2-0236d558e346",
+      "time": "2026-07-07 23:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sen. Warren presses the Pentagon and AI firms to disclose contract information."
+    },
+    {
+      "id": "te:markets:564924",
+      "time": "2026-07-07 23:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures Halt Rally — Arabica coffee futures fell nearly 8% to around $3.20 per pound, as profit-taking followed a rally to a five-month high of nearly $3.50 on July 6. The earlier advance was underpinned by weather concerns in top producer Brazil, where colder forecasts, potential El Niño-related risks, harvest delays, and tight coffee supplies triggered buying and short covering. However, updated forecasts from Climatempo pointed to mostly dry weather across Brazil's main coffee-growing regions, supporting harvest progress and easing frost concerns. Safras & Mercado reported that Brazil's 2026/27 coffee harvest had reached only 52% of the planted area by July 1, below last year's 60% pace and the five-year average of 55%, highlighting the slower arrival of new supplies."
+    },
+    {
+      "id": "4974754",
+      "time": "2026-07-07 23:21:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【阿波羅Slok：美股七巨頭以外公司利潤率停滯對科技巨頭估值構成風險】阿波羅全球管理公司（Apollo Global Management Inc.）首席經濟學家Torsten Slok警告稱，科技巨頭以外的公司未能展現其人工智慧支出帶來盈利能力提升，這給大型科技股估值帶來風險。“我們需要看到美股七巨頭以外的公司利潤率上升，”Slok週二表示，他使用的是美國科技巨頭的簡稱。“換句話說，標普500指數中其餘493只成份股的情況變得非常、非常關鍵。”Slok表示，華爾街需要看到他所說的標普500指數中其餘493只成份股在採用人工智慧後，盈利和利潤率方面出現積極結果。否則，對估值的懷疑可能會加深，包括對大型科技公司估值的懷疑。"
+    },
+    {
+      "id": "mkt:019f3d2a-3de9-7aab-8cd1-fe9772933ae3",
+      "time": "2026-07-07 23:20:06",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Macquarie initiates coverage of SpaceX (SPCX.O), assigns Outperform rating and sets PT at $250."
+    },
+    {
+      "id": "4974753",
+      "time": "2026-07-07 23:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：麥格理首次覆蓋，給予跑贏大盤評級，目標價 250 美元。"
+    },
+    {
+      "id": "4974752",
+      "time": "2026-07-07 23:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞政府：6 月通脹同比放緩至 2.7%，5 月為 3.5%。"
+    },
+    {
+      "id": "mkt:019f3d28-7a3e-7aab-8cd1-f1e8f739d99a",
+      "time": "2026-07-07 23:18:10",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "New Zealand GDT price index to June 23 fell 4.9% (prior -2.8%)."
+    },
+    {
+      "id": "mkt:019f3d28-595c-7aab-8cd1-ef2a80bf289c",
+      "time": "2026-07-07 23:18:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jun.23) | actual -4.9% | previous -2.8%"
+    },
+    {
+      "id": "4974751",
+      "time": "2026-07-07 23:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：7月7日全球乳品貿易（GDT）拍賣價格指數下降4.9%，奶粉各合同期FAS拍賣均價3,793美元/噸。批發奶粉價格指數下降4.4%，報3,425美元/噸。"
+    },
+    {
+      "id": "mkt:019f3d25-9672-7aab-8cd1-e1a516995956",
+      "time": "2026-07-07 23:15:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Norwegian government will provide NOK 3 bln (about $306.2m) to support Ukraine's air-defence systems."
+    },
+    {
+      "id": "4974749",
+      "time": "2026-07-07 23:14:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國（國會山）民主黨成員們發函Kalshi、Polymarket、以及特朗普媒體。"
+    },
+    {
+      "id": "4974748",
+      "time": "2026-07-07 23:14:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "油價上漲致美國航空股集體下挫，達美航空下跌 2.3%，西南航空下滑 2.6%，美國航空跌 1.9%。聯合航空下跌 2.2%，阿拉斯加航空下滑 1.2%，捷藍航空大跌 4.1%。"
+    },
+    {
+      "id": "4974747",
+      "time": "2026-07-07 23:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威政府：向烏克蘭防空體系提供 30 億挪威克朗（摺合 3.062 億美元）援助。"
+    },
+    {
+      "id": "4974746",
+      "time": "2026-07-07 23:12:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所資料：英國近月天然氣批發價上漲 6%，報 104.61 便士 / 熱量單位。"
+    },
     {
       "id": "4974745",
       "time": "2026-07-07 23:12:06",
