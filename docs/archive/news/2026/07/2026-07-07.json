@@ -1,7 +1,80 @@
 {
   "date": "2026-07-07",
-  "count": 674,
+  "count": 681,
   "items": [
+    {
+      "id": "mkt:019f3a45-826f-7aab-8cbf-b82247a008ea",
+      "time": "2026-07-07 09:51:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "Tencent",
+        "Xiaomi",
+        "Alibaba",
+        "03690.HK",
+        "Impact bullish",
+        "00700.HK",
+        "01810.HK"
+      ],
+      "text": "Hong Kong tech stocks rallied: Meituan (03690.HK) up 8.5%, Tencent Holdings (00700.HK) up over 5%, Xiaomi Group (01810.HK) up over 3%, Alibaba (09988.HK) and Baidu (09888.HK) up over 2%."
+    },
+    {
+      "id": "mkt:019f3a45-6073-7aab-8cbf-b7704e18d591",
+      "time": "2026-07-07 09:50:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said the USD/KRW FX transaction linked to SK Hynix's ADR listing is expected to take place on or around July 15."
+    },
+    {
+      "id": "4973284",
+      "time": "2026-07-07 09:50:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【西江水位不斷上漲，廣東省水文局釋出今年首個洪水紅色預警】受上游來水影響，西江水位不斷上漲。2026年7月7日8時，西江封開江口站（廣東省肇慶市封開縣江口鎮）水位17.24米（警戒水位17.80米）。根據當前雨水情分析，預計該站水位將於7月7日中午前後漲至警戒水位，7月8日上午漲至22.0米左右（超過封開縣江口街道舊城區堤頂高程），後續仍將繼續上漲。鑑於當前形勢，廣東省水文局已於7月7日8時升級釋出西江封開河段洪水紅色預警。（澎湃新聞）"
+    },
+    {
+      "id": "4973283",
+      "time": "2026-07-07 09:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，與SK海力士美國存託憑證(ADR)上市相關的美元/韓元外匯交易預計將在7月15日左右進行。"
+    },
+    {
+      "id": "4973282",
+      "time": "2026-07-07 09:49:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股盤初衝高，美團漲超7%】港股科網股盤初衝高，美團-W漲超7%，騰訊控股漲超4%，小米集團-W漲近3%，阿里巴巴-W、百度集團-SW漲超1%。"
+    },
+    {
+      "id": "mkt:019f3a43-554b-7aab-8cbf-a88bb1782f3c",
+      "time": "2026-07-07 09:48:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Capital Economics: Slower Japanese wage growth unlikely to stop BOJ hikes】Capital Economics senior Asia-Pacific economist Abhijit Suriya says slower May wage growth is unlikely to deter further Bank of Japan tightening. Preliminary data showed Japan's cash earnings growth slowed to 3.2% YoY in May from 3.6% in April. Suriya said core/base wage indicators remain well above their 2025 average and at historically high levels, and that the print is unlikely to alter the BOJ's view that the labour market remains tight. Capital Economics maintains its forecast that the BOJ will raise rates to 2% by end-2027."
+    },
+    {
+      "id": "4973281",
+      "time": "2026-07-07 09:48:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光韻達等在新疆成立數智科技公司，含半導體相關業務】企查查APP顯示，近日，新疆光韻達數智科技有限公司成立，經營範圍包含：積體電路晶片及產品銷售；半導體器件專用裝置銷售；電子元器件零售；人工智慧通用應用系統；網際網路資料服務；雲端計算裝備技術服務等。企查查股權穿透顯示，該公司由光韻達全資子公司深圳市光韻達智算科技有限公司等共同持股。"
+    },
     {
       "id": "4973280",
       "time": "2026-07-07 09:47:30",
