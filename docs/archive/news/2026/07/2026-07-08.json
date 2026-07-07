@@ -1,7 +1,48 @@
 {
   "date": "2026-07-08",
-  "count": 231,
+  "count": 236,
   "items": [
+    {
+      "id": "4974904",
+      "time": "2026-07-08 03:39:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "法國總統馬克龍、德國總理默茨、英國首相斯塔默抵達安卡拉，出席由土耳其主辦的北約峰會。"
+    },
+    {
+      "id": "mkt:019f3e17-66eb-7aab-8cd5-ba4fa1d50a1c",
+      "time": "2026-07-08 03:39:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Federal Reserve plans to revise bank anti-money-laundering (AML) supervisory requirements, directing banks to allocate more resources to higher-risk customers and activities. The proposal will be open for a 60-day public comment period."
+    },
+    {
+      "id": "4974903",
+      "time": "2026-07-08 03:38:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "科威特財政部宣告：2025/2026財年總支出為236億第納爾（合767億美元）。"
+    },
+    {
+      "id": "4974902",
+      "time": "2026-07-08 03:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大宣佈達成新版加拿大關鍵礦物加速計劃項下首份合作協議。"
+    },
+    {
+      "id": "4974901",
+      "time": "2026-07-08 03:37:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "科威特財政部宣告：2025/2026財年總收入為164.5億第納爾（合534億美元）。"
+    },
     {
       "id": "4974900",
       "time": "2026-07-08 03:36:13",
