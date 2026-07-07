@@ -1,7 +1,200 @@
 {
   "date": "2026-07-07",
-  "count": 1655,
+  "count": 1676,
   "items": [
+    {
+      "id": "mkt:019f3bea-8c4d-7aab-8cca-30ad740cbd17",
+      "time": "2026-07-07 17:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England: enhanced capabilities of frontier AI models increase cyberattack and operational risks."
+    },
+    {
+      "id": "4974042",
+      "time": "2026-07-07 17:30:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行：股市和債市容易受到人工智慧應用不及預期、建設速度放緩或融資渠道減少的影響。"
+    },
+    {
+      "id": "mkt:019f3bea-4e7f-7aab-8cca-2b9d7c3d7b2e",
+      "time": "2026-07-07 17:30:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England says stock market leverage has risen sharply."
+    },
+    {
+      "id": "te:markets:564820",
+      "time": "2026-07-07 17:30:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Futures Rebound — Rubber futures rose to near 214 US cents per kilogram, up from recent two-month lows of $208.6 cents per kilogram, supported by rising prices of crude oil. Natural rubber prices closely track crude oil, as higher oil prices make synthetic rubber more expensive and boost demand for natural rubber. Meanwhile, the persistent weakness in the tyre sector demand and improving supply prospects limited the upside. Chinese broker Gouxin Futures said the semi-steel tire segment remains under pressure as manufacturers contend with weak new-order expectations and rising inventories. It added that some companies have begun shutting down for maintenance since early this month, reducing near-term rubber consumption."
+    },
+    {
+      "id": "4974040",
+      "time": "2026-07-07 17:30:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：英國央行槓桿率相關提案將把監管要求下調20個基點。"
+    },
+    {
+      "id": "mkt:019f3bea-3615-7aab-8cca-24a1f4ad7dfe",
+      "time": "2026-07-07 17:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine plans to reach a new drone agreement at the NATO summit in Ankara."
+    },
+    {
+      "id": "4974039",
+      "time": "2026-07-07 17:30:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲頂新耀：交割完成，收取前期付款1.12億美元】雲頂新耀公告，公司此前於2026年6月2日披露與Travere Therapeutics簽訂獨家許可與合作協議，董事會宣佈交割已根據該協議條款進行。授權人將收取1.12億美元的前期付款，並有資格就最多五個適應症收取合共高達10.3億美元的開發、監管及商業里程碑付款，以及基於未來年度淨銷售額門檻的分級特許權使用費（百分比介乎高個位數至雙位數之間）。"
+    },
+    {
+      "id": "4974038",
+      "time": "2026-07-07 17:30:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭計劃在安卡拉舉行的北約峰會上達成新的無人機協議。"
+    },
+    {
+      "id": "mkt:019f3be9-9b07-7aab-8cca-1ea56d53c0ae",
+      "time": "2026-07-07 17:29:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China Huadian's largest overseas wind project reaches full commercial operation】China Huadian said July 6 the Vietnam Dak Lak 4×50MW wind farm, built, invested and operated by Huadian Science & Technology Investment, reached full-capacity commercial operation at 16:00 local time. The 200MW project is the company’s largest overseas wind investment to date."
+    },
+    {
+      "id": "4974037",
+      "time": "2026-07-07 17:29:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美埃科技：收購控股子公司少數股權完成，持股比例升至86.75%】美埃科技公告，公司此前披露擬以現金人民幣1.16億元收購控股子公司MayAir HK Holdings Limited少數股東Ng Yew Sum先生等合計持有的535股股份（約佔18.36%）。截至2026年7月7日，本次交易已完成相應的股份登記手續，收購控股子公司少數股東部分股權的交易已全部完成，公司持有美埃香港控股的股權比例由68.39%提升至86.75%。"
+    },
+    {
+      "id": "mkt:019f3be9-6676-7aab-8cca-1627859020de",
+      "time": "2026-07-07 17:29:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/INR rose past 95.00, leaving the Indian rupee about 0.4% weaker intraday."
+    },
+    {
+      "id": "mkt:019f3be9-5060-7aab-8cca-0be024454705",
+      "time": "2026-07-07 17:29:33",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo initiates coverage of SpaceX (SPCX.O) with an Overweight rating and a $230 target price."
+    },
+    {
+      "id": "4974036",
+      "time": "2026-07-07 17:28:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵建：2025年度利潤分配實施，A、H股時間安排明確】中國鐵建公告稱，公司2025年度利潤分配方案已獲股東會透過。H股暫停辦理股份過戶登記時間為2026年7月22日至7月27日，股權登記日為7月27日，除息日為7月20日，現金紅利發放日為8月21日；A股股權登記日為7月27日，除息日、現金紅利發放日為7月28日。A股年度權益分派實施公告將另行釋出。"
+    },
+    {
+      "id": "mkt:019f3be8-a666-7aab-8cca-0463373db25d",
+      "time": "2026-07-07 17:28:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea unveils prototype domestic drone engines】YONHAP reports South Korea's Defence Acquisition Program Administration on Tuesday publicly showcased prototypes of domestically developed drone engines, aimed at reducing reliance on foreign technology. Officials said two engine models are in development, assemblies are complete and they are undergoing ground tests. Project completion would enable fully domestic production of unmanned aerial vehicles."
+    },
+    {
+      "id": "4974035",
+      "time": "2026-07-07 17:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行首次覆蓋 SPACEX，給予增持評級；目標價230美元。"
+    },
+    {
+      "id": "4974034",
+      "time": "2026-07-07 17:28:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：衣索比亞年度黃金出口額同比大增58%，達55億美元。"
+    },
+    {
+      "id": "4974033",
+      "time": "2026-07-07 17:27:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大千生態：持股5%以上股東減持47.35萬股 減持計劃期限屆滿】大千生態公告稱，公司持股5%以上股東新華髮行集團減持計劃期限已屆滿。該集團原計劃自2026年3月14日起15個交易日後的3個月內，減持不超407.16萬股，減持比例不超3%。截至公告披露日，透過集中競價方式減持47.35萬股，減持比例0.35%，減持總金額1243.88萬元。減持後，該集團持有公司1094.2萬股，佔總股本8.06%。"
+    },
+    {
+      "id": "4974032",
+      "time": "2026-07-07 17:27:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蒂森克虜伯努希爾與巴拉特重型電力有限公司簽署戰略合作協議，推動印度綠氫電解產業發展。"
+    },
+    {
+      "id": "mkt:019f3be7-4c5f-7aab-8cc9-fc7f46ddc90d",
+      "time": "2026-07-07 17:27:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Typhoon Bavi may make landfall on China's coast on July 11】Super typhoon Bavi formed on July 2 and has rapidly intensified; its cloud system now exceeds 1,000 km in diameter. Forecasts show Bavi will begin affecting Chinese waters and coasts from July 9 and may make landfall on China's coast on July 11. The main path uncertainty is its proximity to Taiwan — it could pass offshore or land in northern Taiwan before tracking north. Landfall intensity is expected to be very strong; wind and rain impacts will start from July 9, first affecting the southeast coast, waters east of Taiwan and most of the East China Sea. Heavy precipitation will begin on July 9, hitting Taiwan first and then spreading to East China, central China and North China."
+    },
+    {
+      "id": "mkt:019f3be7-3a4f-7aab-8cc9-f7c7eaafe763",
+      "time": "2026-07-07 17:27:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Capital Economics: Asian central banks unlikely to rush to reverse rate hikes】Capital Economics’ Gareth Leather says rising El Nifio-driven food price risks make Asian central banks unlikely to quickly reverse recent rate hikes. Many central banks responded aggressively to the earlier energy shock, with most hiking at least once; while lower energy prices have eased the urgency for further tightening, food carries a higher weight than energy in Asian consumer baskets, so El Nifio could keep policymakers cautious. Capital Economics continues to expect further tightening in India, Pakistan and South Korea over the coming months."
+    },
+    {
+      "id": "4974031",
+      "time": "2026-07-07 17:27:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所披露，滙豐控股持有的美的集團H股多頭持倉比例於6月30日從8.89%升至9.66%，美的集團港股程式碼<0300.HK>。"
+    },
     {
       "id": "4974030",
       "time": "2026-07-07 17:26:33",
