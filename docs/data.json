@@ -1,7 +1,219 @@
 {
-  "updated": "2026-07-08 04:37:31",
-  "count": 15822,
+  "updated": "2026-07-08 04:41:19",
+  "count": 15838,
   "items": [
+    {
+      "id": "mkt:019f3e4f-eb44-7aab-8cd6-c6825b4b70d7",
+      "time": "2026-07-08 04:40:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Securities and Exchange Commission said the \"Trump account\" is now open for applications and encouraged households to open accounts to claim an eligible $1,000 initial funding."
+    },
+    {
+      "id": "te:markets:564980",
+      "time": "2026-07-08 04:40:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Renewed US-Iran Tensions — The Ibovespa fell 0.2% to close at 172,021 on Tuesday as renewed tensions between the US and Iran lifted oil prices and bond yields. Reports that the US would revoke the waiver allowing Iran to sell its oil, following recent attacks on tankers in the Strait of Hormuz, fueled concerns over energy-driven inflation and higher borrowing costs. Financial stocks traded mostly lower, with Bradesco down 0.6%. Separately, Itaúsa (+0.2%) said it could subscribe between BRL 730 million and BRL 1.5 billion in Aegea's proposed capital increase. Vale fell 2% on lower iron ore prices, while WEG (-0.8%), Ambev (-1.7%), and Embraer (-1.1%) also declined. In contrast, Petrobras rose 1.8% as oil prices jumped."
+    },
+    {
+      "id": "4974951",
+      "time": "2026-07-08 04:39:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國證券交易委員會：特朗普專屬賬戶現已開放，相關家庭可開戶申領符合資格的1000美元啟動補助金。"
+    },
+    {
+      "id": "mkt:019f3e4e-2026-7aab-8cd6-bac285dc3e24",
+      "time": "2026-07-08 04:38:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. refinery crude runs +34,000 b/d in week to July 3; prior +76,000 b/d."
+    },
+    {
+      "id": "mkt:019f3e4d-f98f-7aab-8cd6-b38b040b70a2",
+      "time": "2026-07-08 04:38:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly refined product imports for the week ended July 3 were -325,000 b/d, prior +213,000 b/d."
+    },
+    {
+      "id": "mkt:019f3e4d-f33e-7aab-8cd6-aea970a3233a",
+      "time": "2026-07-08 04:38:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Jul.3) | actual 34000M | previous 76000M"
+    },
+    {
+      "id": "mkt:019f3e4d-d3ac-7aab-8cd6-a2c3723e6855",
+      "time": "2026-07-08 04:38:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Jul.3) | actual -325000M | previous 213000M"
+    },
+    {
+      "id": "mkt:019f3e4d-c34e-7aab-8cd6-9d4e2acc12c2",
+      "time": "2026-07-08 04:38:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "US API weekly crude oil imports for the week to July 3: +159,000 barrels; prior -180,000 barrels."
+    },
+    {
+      "id": "mkt:019f3e4d-a2f3-7aab-8cd6-91643ea9b9ac",
+      "time": "2026-07-08 04:38:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Jul.3) | actual 159000M | previous -180000M"
+    },
+    {
+      "id": "mkt:019f3e4d-94f7-7aab-8cd6-8b55953f8bc4",
+      "time": "2026-07-08 04:38:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: US heating oil inventories fell 434,000 barrels in the week to July 3; prior week +205,000 barrels."
+    },
+    {
+      "id": "mkt:019f3e4d-75df-7aab-8cd6-871ef0434c80",
+      "time": "2026-07-08 04:38:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jul.3) | actual -434000M | previous 205000M"
+    },
+    {
+      "id": "mkt:019f3e4d-541d-7aab-8cd6-7af2307610d4",
+      "time": "2026-07-08 04:38:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. API weekly Cushing crude inventories fell 69,000 barrels in the week to July 3, versus a prior build of 503,000 barrels."
+    },
+    {
+      "id": "mkt:019f3e4d-34b9-7aab-8cd6-77207a5e26f6",
+      "time": "2026-07-08 04:37:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jul.3) | actual -69000M | previous 503000M"
+    },
+    {
+      "id": "mkt:019f3e4d-0e96-7aab-8cd6-6ac800e12e97",
+      "time": "2026-07-08 04:37:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined-product inventories fell 1.801 mln barrels in the week to July 3, versus a 1.0 mln-barrel build expected and a prior 2.922 mln-barrel build."
+    },
+    {
+      "id": "mkt:019f3e4c-e791-7aab-8cd6-632008f6e0dc",
+      "time": "2026-07-08 04:37:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jul.3) | actual -1801000M | consensus 1000000M | previous 2922000M"
+    },
+    {
+      "id": "4974950",
+      "time": "2026-07-08 04:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -39.9萬桶，之前一週 -607.2萬桶。"
+    },
+    {
+      "id": "mkt:019f3e4c-c645-7aab-8cd6-5b7451d2b25b",
+      "time": "2026-07-08 04:37:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API gasoline stocks fell 2.929 mln barrels in the week to July 3, versus -1.55 mln barrels expected and -2.106 mln barrels in the prior week."
+    },
+    {
+      "id": "mkt:019f3e4c-92fe-7aab-8cd6-54f5bd8b68a4",
+      "time": "2026-07-08 04:37:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jul.3) | actual -2929000M | consensus -1550000M | previous -2106000M"
+    },
+    {
+      "id": "mkt:019f3e4c-9219-7aab-8cd6-4ba547cfc524",
+      "time": "2026-07-08 04:37:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API weekly crude stocks change for week to July 3: -399k barrels; consensus -1.5 mln; prior -6.072 mln."
+    },
+    {
+      "id": "4974949",
+      "time": "2026-07-08 04:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic計劃將紐約員工規模擴充一倍至1000人，將於今年夏季啟動紐約新辦公區入駐工作。"
+    },
     {
       "id": "mkt:019f3e4c-5b6d-7aab-8cd6-445a87c261b6",
       "time": "2026-07-08 04:36:59",
@@ -145076,42 +145288,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡： 我希望停止接受美國援助。這筆援助形同救濟金，我不想要。我國經濟早已不再是小型經濟體…… 從美國獲得的援助僅佔國內生產總值的極小比例，這筆錢我們完全有能力自行承擔。我希望今年就啟動停止接收美援的相關流程。"
-    },
-    {
-      "id": "mkt:019f1a42-d476-7aab-8c43-944255bc9cd8",
-      "time": "2026-07-01 04:40:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Department of Justice in a memorandum instructed prosecutors to prioritize investigations into \"birth tourism\" cases following the U.S. Supreme Court's ruling on birthright citizenship."
-    },
-    {
-      "id": "te:markets:563108",
-      "time": "2026-07-01 04:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Near Flat as Canada's GDP Rebounds — The S&P/TSX Composite Index inched up 0.1% to close at 34,857 on Tuesday as investors assessed GDP data and developments in the Middle East. Canada’s economy rebounded more than expected in April after a mild contraction in March, while an advance estimate pointed to a further 0.1% monthly expansion in May, signaling that growth may be stabilizing. The data improved the outlook for corporate earnings and eased concerns over a deeper tariff-driven slowdown. Meanwhile, US envoys in Doha said they would not meet with Iran, raising doubts over efforts to resolve the conflict and reopen the Strait of Hormuz, though technical talks on regional security are expected this week. Oil prices remained below recent highs, helping ease inflation concerns. Financial stocks advanced, with RBC up 1% and TD Bank gaining 0.8%. Mining stocks were mixed as gold prices fluctuated, with Agnico Eagle Mines rising 0.9% and Barrick slipping 0.6%. In tech, Celestica jumped 6.1%, tracking Wall Street’s rally."
-    },
-    {
-      "id": "4963677",
-      "time": "2026-07-01 04:38:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "銀湖集團披露，於 6 月 26 日出售戴爾科技 16679 股 C 類普通股，成交單價區間為 392.3 美元至 401 美元。"
-    },
-    {
-      "id": "mkt:019f1a40-bfdc-7aab-8c43-8d129507ce36",
-      "time": "2026-07-01 04:37:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Office of Government Ethics released the certified annual financial disclosure report for Trump."
     }
   ]
 }
