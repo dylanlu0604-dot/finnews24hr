@@ -1,7 +1,46 @@
 {
   "date": "2026-07-08",
-  "count": 95,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:019f3da4-0662-7aab-8cd4-0e6ed9f6a09f",
+      "time": "2026-07-08 01:33:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A Turkish official said Erdogan discussed Iran with Trump and urged an end to the conflict and reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f3da4-02f1-7aab-8cd4-04a44042b3d3",
+      "time": "2026-07-08 01:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish official says Iran can secure its security and economic interests through negotiation; war would benefit neither side."
+    },
+    {
+      "id": "mkt:019f3da2-cb76-7aab-8cd3-f97681ba6a0a",
+      "time": "2026-07-08 01:31:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron said France will continue to engage in Syrian affairs but will not compromise on security."
+    },
+    {
+      "id": "mkt:019f3da2-8c40-7aab-8cd3-f6ac6bfba6c0",
+      "time": "2026-07-08 01:31:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will never allow Iran to possess nuclear weapons, regardless of whether an agreement is reached."
+    },
     {
       "id": "4974825",
       "time": "2026-07-08 01:28:56",

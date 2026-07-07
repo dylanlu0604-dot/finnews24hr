@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-08 01:31:14",
-  "count": 15887,
+  "updated": "2026-07-08 01:34:58",
+  "count": 15888,
   "items": [
+    {
+      "id": "mkt:019f3da4-0662-7aab-8cd4-0e6ed9f6a09f",
+      "time": "2026-07-08 01:33:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A Turkish official said Erdogan discussed Iran with Trump and urged an end to the conflict and reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f3da4-02f1-7aab-8cd4-04a44042b3d3",
+      "time": "2026-07-08 01:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish official says Iran can secure its security and economic interests through negotiation; war would benefit neither side."
+    },
+    {
+      "id": "mkt:019f3da2-cb76-7aab-8cd3-f97681ba6a0a",
+      "time": "2026-07-08 01:31:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron said France will continue to engage in Syrian affairs but will not compromise on security."
+    },
+    {
+      "id": "mkt:019f3da2-8c40-7aab-8cd3-f6ac6bfba6c0",
+      "time": "2026-07-08 01:31:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will never allow Iran to possess nuclear weapons, regardless of whether an agreement is reached."
+    },
     {
       "id": "4974825",
       "time": "2026-07-08 01:28:56",
@@ -145769,32 +145808,6 @@
         "Impact bearish"
       ],
       "text": "【ECB mulls doubling banks' minimum reserve ratio to 2% to cut its interest bill】Six people said the European Central Bank is considering raising the minimum reserve banks must hold in non-interest-bearing accounts from 1% to 2% of customer deposits and other funding sources. The move is aimed at cutting the ECB’s interest expenses from paying interest on excess deposits, absorbing surplus liquidity and easing side-effects of its anti-inflation policy. Officials said it would help cash-rich national central banks such as Germany’s Bundesbank reduce losses tied to interest paid on deposits that exceed legal requirements. Excess deposits have swelled to trillions of euros since the ECB’s bond-buying programmes. The proposal is under early internal discussion and will be revisited in this year’s framework review; a decision is expected before autumn and the Governing Council has not formally debated it."
-    },
-    {
-      "id": "4963550",
-      "time": "2026-07-01 01:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭地方州長稱，俄羅斯滑翔炸彈襲擊造成兩人死亡。"
-    },
-    {
-      "id": "4963549",
-      "time": "2026-07-01 01:32:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾基亞：FMR LLC在諾基亞公司的投票權已降至5%以下。"
-    },
-    {
-      "id": "mkt:019f1996-7329-7aab-8c3f-5fd9ae4532d1",
-      "time": "2026-07-01 01:31:57",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact mixed"
-      ],
-      "text": "SPEEA said it plans to negotiate with Boeing on two collective bargaining agreements: one covering about 13,000 engineers and another covering about 4,000 technical workers."
     }
   ]
 }
