@@ -1,7 +1,59 @@
 {
   "date": "2026-07-07",
-  "count": 2606,
+  "count": 2612,
   "items": [
+    {
+      "id": "4974715",
+      "time": "2026-07-07 22:43:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際奧委會：所有參加國際賽事的俄羅斯運動員必須符合相關反興奮劑規定。"
+    },
+    {
+      "id": "4974714",
+      "time": "2026-07-07 22:42:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯體育部長：國際奧委會解除對俄羅斯奧委會禁令的決定，將加快全體俄羅斯運動員重返國際賽場的程序。"
+    },
+    {
+      "id": "te:economy:564908",
+      "time": "2026-07-07 22:42:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Stays Near April Lows — South Africa’s 10-year government bond yield hovered around 8.36%, near the lowest since April, as attractive real yields and solid economic fundamentals continued to support demand for local bonds despite ongoing global uncertainty. Fiscal discipline, ongoing reforms, central bank's credibility, and relatively contained inflation helped underpin investor confidence. National Treasury Director Duncan Pieterse recently said South Africa remains on course to meet its fiscal targets despite the economic uncertainty created by the conflict in the Middle East. Meanwhile, SARB Governor Lesetja Kganyago has repeatedly reiterated the central bank's commitment to bringing inflation back to its 3% target. Inflation accelerated to 4.5% in May from 4% the prior month, on the back of higher fuel prices amid the energy shock caused by Middle East disruptions The SARB raised key rates by 25 bps to 7% on May 28 amid rising inflationary pressures, while signaling that further tightening may be needed."
+    },
+    {
+      "id": "4974713",
+      "time": "2026-07-07 22:41:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際奧委會：俄羅斯運動員參賽的推薦條件已不再適用。"
+    },
+    {
+      "id": "4974712",
+      "time": "2026-07-07 22:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆質問美國聯邦調查局是否參與了抓捕“埃爾·馬約”的行動。"
+    },
+    {
+      "id": "4974711",
+      "time": "2026-07-07 22:40:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌7% 英特爾跌超10%】費城半導體指數日內跌7.03%，現報11993。熱門股中，英偉達股價下跌1.93%，臺積電股價下跌4.85%，博通股價下跌2.78%，美光科技股價下跌8.78%，超威半導體股價下跌8.05%，阿斯麥股價下跌5.66%，英特爾股價下跌10.68%，ARM股價下跌6.76%。"
+    },
     {
       "id": "mkt:019f3d03-eeae-7aab-8cd1-704d9c1189a8",
       "time": "2026-07-07 22:38:15",
