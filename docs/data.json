@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-07 13:15:03",
-  "count": 14636,
+  "updated": "2026-07-07 13:19:05",
+  "count": 14649,
   "items": [
+    {
+      "id": "4973536",
+      "time": "2026-07-07 13:18:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期公債收益率上漲1.8個基點至4.497%。"
+    },
+    {
+      "id": "mkt:019f3b02-f519-7aab-8cc3-b76c4345ca6e",
+      "time": "2026-07-07 13:17:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury yield rose 1.8 bps to 4.497%."
+    },
+    {
+      "id": "4973535",
+      "time": "2026-07-07 13:15:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【機構：對激進加息的擔憂緩解】天利投資的Anthony Willis在一份報告中表示，央行的前景再次發生轉變。這位高階經濟學家說，今年早些時候，隨著美伊衝突後油價飆升，市場擔心決策者將被迫採取更激進的加息措施。“隨著油價回落至每桶70美元附近，能源市場帶來的短期壓力減輕，這些擔憂已經緩解，“他說。他表示，到目前為止，通脹衝動並未指向廣泛的第二波通脹。“雖然能源推高了整體指標，但幾乎沒有證據表明它正明顯傳導至更廣泛的定價行為中。”Willis說，這一情況對投資者很重要。"
+    },
+    {
+      "id": "mkt:019f3b00-fb42-7aab-8cc3-af42e50596a7",
+      "time": "2026-07-07 13:15:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell more than 2.0% intraday to $61.08/oz."
+    },
+    {
+      "id": "4973534",
+      "time": "2026-07-07 13:15:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守61美元/盎司，日內跌2.19%。"
+    },
+    {
+      "id": "mkt:019f3b00-e0bd-7aab-8cc3-a6cb319ac9ad",
+      "time": "2026-07-07 13:15:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 1.00% intraday to $4,122.52/oz."
+    },
+    {
+      "id": "te:markets:564693",
+      "time": "2026-07-07 13:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Drops by 0.25% — Top currency losers are Australian Dollar (-0.25%) and Euro (-0.06%). Gains are led by Japanese Yen (0.18%). Meanwhile, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "4973532",
+      "time": "2026-07-07 13:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹斯克銀行將諾和諾德目標價從355丹麥克朗上調至365丹麥克朗。"
+    },
+    {
+      "id": "4973531",
+      "time": "2026-07-07 13:14:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報61.08美元/盎司。"
+    },
+    {
+      "id": "mkt:019f3aff-83c7-7aab-8cc3-995aa248ed9c",
+      "time": "2026-07-07 13:14:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Robotics, autonomous driving may be next AI winners】JP Morgan Asset Management global markets strategist Raisah Rasid said robotics and autonomous-driving firms could be the next winners in AI-driven trades as large-scale adoption accelerates, particularly in generative AI. She said AI gains are spreading beyond hyperscalers and that earnings growth — especially in hardware — has been a key driver of major market returns. Rasid added KOSPI’s triple-digit 1H rally is unlikely to repeat in H2, with growth set to moderate as companies may struggle to sustain strong pricing power in hardware."
+    },
+    {
+      "id": "4973530",
+      "time": "2026-07-07 13:13:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報15108.226點；上證指數跌1.63%，現報3975.260點；創業板指跌2.06%，現報3867.610點。"
+    },
+    {
+      "id": "mkt:019f3aff-1d78-7aab-8cc3-914473d48eb8",
+      "time": "2026-07-07 13:13:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan-listed Kioxia shares extended losses, down 12%."
+    },
+    {
+      "id": "4973529",
+      "time": "2026-07-07 13:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克計劃在2030年前建成卡沙甘油田25億立方米天然氣處理廠。"
+    },
     {
       "id": "4973528",
       "time": "2026-07-07 13:13:20",
