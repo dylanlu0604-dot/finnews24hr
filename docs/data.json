@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-08 06:42:17",
-  "count": 15901,
+  "updated": "2026-07-08 06:46:09",
+  "count": 15902,
   "items": [
+    {
+      "id": "4975070",
+      "time": "2026-07-08 06:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特電力部表示，多條輸電線路停運，導致該國部分地區停電。"
+    },
+    {
+      "id": "te:markets:564986",
+      "time": "2026-07-08 06:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.19% — Top crypto losers are Binance (-1.19%), Ether (-1.14%) and Bitcoin (-0.64%)."
+    },
     {
       "id": "4975069",
       "time": "2026-07-08 06:41:32",
@@ -145824,17 +145843,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Edges Down in Morning Session — The NZX 50 dropped 21 points, or 0.2%, to 13,601 in Wednesday morning trade, halting gains from the previous session and retreating from its highest level since February 27, reached a day earlier, mainly weighed down by losses in communication services, consumer staples, and utilities. Traders anticipated the release of New Zealand's consumer data for May, due this week, and China's PMI data from a private survey later today. However, a rally on Wall Street overnight capped the decline, buoyed by strength in the tech sector and easing concerns about inflation. Easing oil prices also limited the decline as inflation concerns subsided, reducing expectations of an interest rate hike. Tuesday's data also helped limit the losses, as New Zealand's business confidence surged to its highest level since February. Gentrack Group fell 1.0%, while Fletcher Building, Mercury NZ, and Meridian Energy dropped 0.9% each. Meanwhile, A2 Milk and Fisher & Paykel shed 0.7% and 0.4%, respectively."
-    },
-    {
-      "id": "te:markets:563115",
-      "time": "2026-07-01 06:45:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.73% — Top crypto losers are Ether (-2.73%), Bitcoin (-2.72%) and Binance (-2.62%)."
     }
   ]
 }

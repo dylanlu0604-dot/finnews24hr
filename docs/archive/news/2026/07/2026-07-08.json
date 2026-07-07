@@ -1,7 +1,26 @@
 {
   "date": "2026-07-08",
-  "count": 482,
+  "count": 484,
   "items": [
+    {
+      "id": "4975070",
+      "time": "2026-07-08 06:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特電力部表示，多條輸電線路停運，導致該國部分地區停電。"
+    },
+    {
+      "id": "te:markets:564986",
+      "time": "2026-07-08 06:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.19% — Top crypto losers are Binance (-1.19%), Ether (-1.14%) and Bitcoin (-0.64%)."
+    },
     {
       "id": "4975069",
       "time": "2026-07-08 06:41:32",
