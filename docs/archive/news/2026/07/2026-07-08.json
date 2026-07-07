@@ -1,7 +1,59 @@
 {
   "date": "2026-07-08",
-  "count": 143,
+  "count": 148,
   "items": [
+    {
+      "id": "mkt:019f3ddc-4476-7aab-8cd4-f36d23e16ddf",
+      "time": "2026-07-08 02:34:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Alaghaqi said Iran is closely monitoring the situation and is committed to ending Israel's aggression and occupation of Lebanon."
+    },
+    {
+      "id": "mkt:019f3ddb-f48b-7aab-8cd4-ec2f17465bb4",
+      "time": "2026-07-08 02:34:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Tehran reaffirmed it will continue to fully support Lebanon's unity and national sovereignty."
+    },
+    {
+      "id": "mkt:019f3dda-f95b-7aab-8cd4-e0bd9d366d95",
+      "time": "2026-07-08 02:33:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi foreign ministry said Iran should bear full responsibility for such attacks and their consequences."
+    },
+    {
+      "id": "mkt:019f3dda-c721-7aab-8cd4-d983f4d3b231",
+      "time": "2026-07-08 02:32:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi foreign ministry condemned attacks on Saudi tankers and called on Iran to immediately cease all actions that endanger international maritime navigation and the security of global energy supplies."
+    },
+    {
+      "id": "mkt:019f3dda-b067-7aab-8cd4-d4310d9109d9",
+      "time": "2026-07-08 02:32:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi foreign ministry says Iran attacked a Saudi tanker transiting the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f3dda-35a3-7aab-8cd4-ca5cc45e032f",
       "time": "2026-07-08 02:32:18",

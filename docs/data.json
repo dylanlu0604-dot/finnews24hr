@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-08 02:32:54",
+  "updated": "2026-07-08 02:36:37",
   "count": 15858,
   "items": [
+    {
+      "id": "mkt:019f3ddc-4476-7aab-8cd4-f36d23e16ddf",
+      "time": "2026-07-08 02:34:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Alaghaqi said Iran is closely monitoring the situation and is committed to ending Israel's aggression and occupation of Lebanon."
+    },
+    {
+      "id": "mkt:019f3ddb-f48b-7aab-8cd4-ec2f17465bb4",
+      "time": "2026-07-08 02:34:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Tehran reaffirmed it will continue to fully support Lebanon's unity and national sovereignty."
+    },
+    {
+      "id": "mkt:019f3dda-f95b-7aab-8cd4-e0bd9d366d95",
+      "time": "2026-07-08 02:33:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi foreign ministry said Iran should bear full responsibility for such attacks and their consequences."
+    },
+    {
+      "id": "mkt:019f3dda-c721-7aab-8cd4-d983f4d3b231",
+      "time": "2026-07-08 02:32:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi foreign ministry condemned attacks on Saudi tankers and called on Iran to immediately cease all actions that endanger international maritime navigation and the security of global energy supplies."
+    },
+    {
+      "id": "mkt:019f3dda-b067-7aab-8cd4-d4310d9109d9",
+      "time": "2026-07-08 02:32:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi foreign ministry says Iran attacked a Saudi tanker transiting the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f3dda-35a3-7aab-8cd4-ca5cc45e032f",
       "time": "2026-07-08 02:32:18",
@@ -145457,52 +145509,6 @@
         "Brent"
       ],
       "text": "Iraq's prime minister said there is no evidence that recent attacks on Gulf states originated in Iraq."
-    },
-    {
-      "id": "mkt:019f19cf-f7b0-7aab-8c40-5ea0b4086263",
-      "time": "2026-07-01 02:34:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's central bank governor said the technical team's forecast shows inflation may reach about 4% by end-2027, with a return to the 3% target expected in 2028."
-    },
-    {
-      "id": "4963592",
-      "time": "2026-07-01 02:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列中部傳來巨大爆炸聲。"
-    },
-    {
-      "id": "mkt:019f19cf-593e-7aab-8c40-506db766628d",
-      "time": "2026-07-01 02:34:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Market sources report a large explosion heard in central Israel."
-    },
-    {
-      "id": "4963591",
-      "time": "2026-07-01 02:33:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行行長比利亞爾表示，通脹率將在2028年回落至3%的目標水平。"
-    },
-    {
-      "id": "4963590",
-      "time": "2026-07-01 02:33:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行行長比利亞爾表示，技術團隊的預測顯示，到2027年底通脹率有望達到約4%。"
     }
   ]
 }
