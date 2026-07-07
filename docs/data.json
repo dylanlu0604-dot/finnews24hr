@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-07 09:41:05",
-  "count": 14273,
+  "updated": "2026-07-07 09:44:55",
+  "count": 14286,
   "items": [
+    {
+      "id": "mkt:019f3a3f-6e08-7aab-8cbf-944bf3587d90",
+      "time": "2026-07-07 09:44:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's STAR 50 Index rose 1% after earlier falling more than 2%."
+    },
+    {
+      "id": "te:markets:564628",
+      "time": "2026-07-07 09:44:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Sideways Near Multi-Month Lows — Platinum futures hovered around $1,630 an ounce, trading sideways near their lowest level since November 2025, pressured by a stronger US dollar that continued to weigh on precious metals. However, losses were limited after signs of a cooling US labor market reduced expectations of an imminent Federal Reserve rate hike. June payrolls showed a marked slowdown in job growth, while downward revisions to the previous two months reinforced expectations that the Fed may delay further tightening. Investors now await the Fed's meeting minutes, with markets pricing just over a 50% chance of a September rate hike. Meanwhile, lower oil prices, driven by recovering flows through the Strait of Hormuz and prospects of higher OPEC+ supply, also eased inflation concerns. On the supply side, South African mine output remained constrained by power disruptions, while Russia's mine expansion has yet to significantly ease the market's structural supply deficit and tight above-ground inventories."
+    },
+    {
+      "id": "mkt:019f3a3e-e48e-7aab-8cbf-8d186a90e58c",
+      "time": "2026-07-07 09:43:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share solid-state battery sector rallied: Nuode and Guanghua Technology hit the daily limit, Yahua Group had earlier hit limit-up, Liwang surged more than 20%, while Rongbai Technology, Fosu Technology and Minmetals New Energy also advanced."
+    },
+    {
+      "id": "4973273",
+      "time": "2026-07-07 09:43:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1781億元。"
+    },
+    {
+      "id": "4973272",
+      "time": "2026-07-07 09:43:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4973271",
+      "time": "2026-07-07 09:43:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念震盪反彈 光華科技等多股漲停】早盤PCB概念震盪反彈，光華科技、天海電子、威爾高、諾德股份漲停，金安國紀、山東玻纖、鼎泰高科、聖泉集團跟漲。"
+    },
+    {
+      "id": "mkt:019f3a3d-dde9-7aab-8cbf-8778a1e3030d",
+      "time": "2026-07-07 09:42:40",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Deloitte says Australia may enter longest downturn in 30 years; cuts 2026-27 growth to 1.3%, 2026 at 1.1%】Deloitte said falling oil prices may help but rising interest rates, weak consumer and business confidence, stalled housing investment and a persistent cost‑of‑living squeeze have weakened Australia’s growth outlook. It cut its 2026–27 real GDP growth forecast from 1.9% to 1.3% and now expects annual growth below 2% over the next two years, with 2026 at 1.1% — the slowest pace since the early 1990s downturn."
+    },
+    {
+      "id": "mkt:019f3a3d-5b14-7aab-8cbf-7ce93b2f99cb",
+      "time": "2026-07-07 09:42:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC'S PAN: Dim sum bond outstanding tops 2 tln yuan over past year】PBOC'S PAN said in Hong Kong that multi-currency issuance (HKD, USD, EUR, JPY) developed steadily over the past year. Dim sum bond outstanding has surpassed 2 tln yuan, the issuer base has broadened and market liquidity has improved."
+    },
+    {
+      "id": "mkt:019f3a3d-4db3-7aab-8cbf-736cb6ed7188",
+      "time": "2026-07-07 09:42:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japanese 40-year bond yield rose 1.0 bp to 3.935%."
+    },
+    {
+      "id": "4973270",
+      "time": "2026-07-07 09:41:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅箔板塊震盪上揚，光華科技、諾德股份雙雙漲停】銅箔板塊震盪上揚，光華科技、諾德股份雙雙漲停，萬順新材、雙星新材、璞泰來、納科諾爾、洪田股份跟漲。"
+    },
+    {
+      "id": "4973269",
+      "time": "2026-07-07 09:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【潘功勝：港幣美元歐元日元等多幣種債券穩定發展，點心債存量規模突破兩萬億元】中國人民銀行行長潘功勝7日在香港固定收益及貨幣峰會暨債券通論壇上表示，過去一年，港幣美元歐元日元等多幣種債券穩定發展，點心債存量規模突破兩萬億元，相關發債主體更加豐富，市場流動性不斷提升。（新華財經）"
+    },
+    {
+      "id": "4973268",
+      "time": "2026-07-07 09:40:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率<JP40YTN=JBTC>上升1個基點，至3.935%。"
+    },
+    {
+      "id": "4973267",
+      "time": "2026-07-07 09:40:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念震盪走強 瑞芯微漲停】早盤端側AI概念震盪走強，瑞芯微漲停，傳音控股、全志科技、品茗科技、樂鑫科技、芯原股份、恆玄科技跟漲。"
+    },
     {
       "id": "4973266",
       "time": "2026-07-07 09:39:59",
