@@ -1,7 +1,91 @@
 {
   "date": "2026-07-08",
-  "count": 290,
+  "count": 299,
   "items": [
+    {
+      "id": "mkt:019f3e4c-5b6d-7aab-8cd6-445a87c261b6",
+      "time": "2026-07-08 04:36:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jul.3) | actual -399000M | consensus -1500000M | previous -6072000M"
+    },
+    {
+      "id": "4974948",
+      "time": "2026-07-08 04:36:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【埃克森美孚預計二季度油價將帶來37億美元收益增量】埃克森美孚控股公司表示，第二季度油價走高將推動公司收益增加37億美元。公司預計2026年第二季度煉油業務毛利將帶來22億美元收益增量。埃克森美孚預計2026年第二季度化工業務毛利將帶來11億美元收益增量。公司預估2026年第二季度受伊朗戰事影響，將產生約12億美元收益損失。"
+    },
+    {
+      "id": "4974947",
+      "time": "2026-07-08 04:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic擬租賃紐約曼哈頓哈德遜廣場一棟16層寫字樓。"
+    },
+    {
+      "id": "mkt:019f3e4a-e7f6-7aab-8cd6-3b6c563fe34f",
+      "time": "2026-07-08 04:35:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Chief of Naval Operations said Iran aims to force commercial vessels to transit the Strait of Hormuz close to Iran's coast."
+    },
+    {
+      "id": "mkt:019f3e4a-e154-7aab-8cd6-3620b9c168d2",
+      "time": "2026-07-08 04:35:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Navy operations chief said the U.S. has accounted for the number of sea mines deployed in the Strait of Hormuz; the figure is classified intelligence and he will not disclose how it was obtained."
+    },
+    {
+      "id": "te:markets:564979",
+      "time": "2026-07-08 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index dropped 131 points or 0.25 percent on Tuesday to close at 52925 points. Losses were led by Caterpillar (-3.14%), Honeywell International (-2.62%) and Sherwin-Williams (-1.87%). Offsetting the fall, top gainers were Chevron (3.50%), J&J (3.09%) and Salesforce (3.04%)."
+    },
+    {
+      "id": "4974946",
+      "time": "2026-07-08 04:34:42",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "韓美日簽署小型模組化反應堆部署合作諒解備忘錄。"
+    },
+    {
+      "id": "4974945",
+      "time": "2026-07-08 04:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達就其運輸船遇襲向伊朗發出照會】卡達外交部7日召見伊朗駐卡達副大使，就卡方一艘運輸船日前在霍爾木茲海峽附近航行時遭襲，向伊方遞交抗議照會。卡達外交部當天發表宣告說，照會指出，襲擊卡達運輸船“阿爾-魯凱亞特”號嚴重危害國際海上航行安全，直接威脅全球能源供應安全，公然違反國際法。卡達要求伊朗儘快就此次襲擊作出說明。（新華社）"
+    },
+    {
+      "id": "4974944",
+      "time": "2026-07-08 04:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克今天為哈梅內伊送葬】當地時間7月7日晚，伊朗總統佩澤希齊揚及其隨行代表團抵達伊拉克的什葉派聖城納傑夫。伊拉克總理扎伊迪到機場迎接。載有伊朗已故最高領袖阿里·哈梅內伊遺體的飛機也已抵達納傑夫。 據伊拉克總理辦公室釋出的宣告，佩澤希齊揚此行率代表團出席哈梅內伊的送葬儀式。扎伊迪就哈梅內伊遇害向伊朗人民和政府再次表示哀悼，強調兩國關係深厚，承諾將在各領域鞏固並深化雙邊合作。 根據伊朗方面此前公佈的哈梅內伊葬禮安排，在結束於德黑蘭為期三天的悼念及送葬儀式後，應伊拉克方面要求，今天（7月8日）將在伊拉克兩座什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式；7月9日，哈梅內伊及其多位遇害家人的送葬儀式將在伊朗聖城馬什哈德舉行。儀式結束後，哈梅內伊的遺體將被安葬。（CCTV國際時訊）"
+    },
     {
       "id": "te:markets:564978",
       "time": "2026-07-08 04:32:46",
