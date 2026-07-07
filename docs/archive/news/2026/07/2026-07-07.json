@@ -1,7 +1,99 @@
 {
   "date": "2026-07-07",
-  "count": 698,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:019f3a51-2483-7aab-8cbf-feabf0392055",
+      "time": "2026-07-07 10:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kiuchi rejects reports government is pushing BoJ to lower rates】Kiuchi said reports that Prime Minister Takaichi's government is attempting to steer interest rates lower are incorrect and the government has no intention of pressuring the Bank of Japan to ease policy. He spoke in Tokyo as markets watch how Takaichi plans large-scale investment without increasing Japan's already heavy debt burden. Kiuchi said he attended last month's BOJ policy meeting as a government representative, where policymakers raised the benchmark rate to 1% — the highest in 31 years."
+    },
+    {
+      "id": "4973303",
+      "time": "2026-07-07 10:03:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭板塊震盪走弱，凱瑞德跌停】煤炭板塊震盪走弱，凱瑞德跌停，山煤國際、昊華能源、新集能源、大有能源、遼寧能源、平煤股份等跟跌。"
+    },
+    {
+      "id": "4973302",
+      "time": "2026-07-07 10:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星河動力等在北京成立新科技公司 註冊資本 1 億】天眼查App顯示，近日，北京星河天算基石科技有限公司成立，法定代表人為夏東坤，註冊資本1億人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，工程和技術研究和試驗發展，計算機系統服務，人工智慧應用軟體開發等。股東資訊顯示，該公司由北京星河動力航天科技股份有限公司、北京至算探索管理諮詢中心（有限合夥）共同持股。"
+    },
+    {
+      "id": "4973301",
+      "time": "2026-07-07 10:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界銀行：2026年中國經濟增長預期為4.4%】世界銀行7月7日在京釋出最新一期中國經濟簡報。報告稱，儘管面臨供強需弱和全球能源供應衝擊，中國經濟增長總體保持韌性，預計2026年中國經濟增長4.4%，相較去年12月釋出的上期簡報，增速預期維持不變。（新華社）"
+    },
+    {
+      "id": "4973300",
+      "time": "2026-07-07 10:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省住房和城鄉建設廳原黨組書記、廳長王春被雙開】經查，王春喪失理想信念，背離初心使命，私心作祟、政績觀錯位，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品禮金，接受可能影響公正執行公務的宴請；違背組織原則，不如實向組織說明問題；廉潔底線失守，長期邀約管理和服務物件打麻將，違規從事營利活動；不正確履行工作職責，違規干預和插手市場經濟糾紛；將公權力當作攫取私利的工具，大搞權錢交易，利用職務便利為他人在專案承接、企業經營等方面提供幫助，並非法收受鉅額財物。"
+    },
+    {
+      "id": "mkt:019f3a4f-15aa-7aab-8cbf-f09b3df88929",
+      "time": "2026-07-07 10:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02667.HK",
+        "Impact bearish"
+      ],
+      "text": "Tongrentang Healthcare (02667.HK) fell more than 30% in its trading debut; turnover topped HK$70 million."
+    },
+    {
+      "id": "4973299",
+      "time": "2026-07-07 10:01:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "同仁堂醫養(02667.HK)上市首日跌超30%，成交額超7000萬港元。"
+    },
+    {
+      "id": "mkt:019f3a4e-79ac-7aab-8cbf-e9f1999ed420",
+      "time": "2026-07-07 10:00:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix US listing-related USD/KRW FX trades expected around July 15】Insiders say USD/KRW forex transactions tied to SK Hynix’s U.S. listing are expected on or around July 15. SK Hynix opened the U.S. share offering on Monday, seeking to raise 43 trillion won (~$28.16 billion) and has secured subscription intentions from major investors totalling up to $7 billion. The deal is among the world’s largest IPOs and targets demand from the global AI investment wave."
+    },
+    {
+      "id": "4973298",
+      "time": "2026-07-07 10:00:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局開展國家計量技術規範集中複審工作】市場監管總局決定自7月至9月，開展國家計量技術規範集中複審工作，透過週期複審和動態監測，推動計量技術規範提檔升級，更新最佳化計量技術規範體系。集中複審範圍覆蓋現行有效的國家計量技術規範，聚焦規範年限偏長、內容滯後、適配性不足等問題，重點從計量技術規範的合法合規性、科學性、適用性、協調性四個維度進行逐項核查，對標國內法規標準和國際先進計量技術，全面排查體系短板弱項，並鼓勵各單位提出最佳化建議，同步遴選國家計量技術規範典型範例，引導提升計量技術規範質量和供給能力。市場監管總局將按程式對國家計量技術規範作出繼續有效、修訂、廢止等複審結論，並加強重點領域國家計量技術規範的制修訂工作，推動建立動態更新、接軌國際的國家計量技術規範體系，為經濟社會高質量發展築牢計量技術基礎。"
+    },
+    {
+      "id": "mkt:019f3a4d-bb33-7aab-8cbf-e07940ac21ea",
+      "time": "2026-07-07 10:00:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alipay launches AI open platform, invites enterprise and third-party developers for testing】July 7 — Alipay said it has launched its AI open platform and opened invited testing to enterprise developers and third-party development service providers. The platform lets merchants and institutions AI-enable service capabilities, integrate the Abao assistant to deliver intelligent services to about 1 billion users, and support cross-device connectivity — linking smartphones, vehicle head units, AI glasses, IoT devices and large-model platforms to enable one-time integration, multi-end distribution and unified management."
+    },
     {
       "id": "4973297",
       "time": "2026-07-07 09:59:45",
