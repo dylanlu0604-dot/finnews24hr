@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-08 03:29:25",
-  "count": 15832,
+  "updated": "2026-07-08 03:33:08",
+  "count": 15831,
   "items": [
+    {
+      "id": "4974899",
+      "time": "2026-07-08 03:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際奧林匹克委員會宣佈，2030年冬奧會將增設自由式野雪滑雪、單板野雪以及花樣滑冰集體專案，同時取消北歐兩項賽事。"
+    },
     {
       "id": "4974898",
       "time": "2026-07-08 03:24:34",
@@ -145259,22 +145267,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人週二表示，針對旨在結束中東戰事的諒解備忘錄，若美國有任何違約行為，伊朗都將予以回應；美伊雙方代表團預計將赴卡達，圍繞該協議舉行間接會談。\n伊斯梅爾・巴蓋伊在每週例行記者會上向記者表示：“我們不會對任何挑釁行為置之不理。伊朗強大的武裝力量已然證明，任何針對伊朗伊斯蘭共和國利益目標的侵略行徑，都將迎來我方即刻且堅決的反擊。”\n“此類行為將構成對諒解備忘錄第一條的違反。倘若美方持續、反覆做出違約舉動，相關磋商程序自然會陷入阻滯。”"
-    },
-    {
-      "id": "mkt:019f1a05-2145-7aab-8c42-2878e183a3f7",
-      "time": "2026-07-01 03:32:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former Israeli prime minister Naftali Bennett said Syria's leader Sharaa is currently acting restrained and peaceful because of weakened military capabilities, but could rearm, rebuild strength and take action again. Bennett called Sharaa’s ideology and conduct \"very bad.\""
-    },
-    {
-      "id": "mkt:019f1a04-1926-7aab-8c42-21938f1d6855",
-      "time": "2026-07-01 03:31:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Southbow Company said Bridger Pipeline plans to develop a new pipeline from Guernsey, Wyoming to Cushing, Oklahoma."
     }
   ]
 }
