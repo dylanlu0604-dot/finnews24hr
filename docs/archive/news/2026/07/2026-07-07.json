@@ -1,7 +1,110 @@
 {
   "date": "2026-07-07",
-  "count": 1146,
+  "count": 1156,
   "items": [
+    {
+      "id": "mkt:019f3b39-d8e8-7aab-8cc5-08bff0f5a2c3",
+      "time": "2026-07-07 14:17:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Lloyds Bank expects the UK housing market to continue expanding at a steady pace."
+    },
+    {
+      "id": "mkt:019f3b39-858d-7aab-8cc5-030110ae5e08",
+      "time": "2026-07-07 14:17:33",
+      "tags": [
+        "MKT News",
+        "SNPS.O",
+        "Impact mixed"
+      ],
+      "text": "Sources say Synopsys notified more than 10 chipmakers in April and May that it will discontinue parts of its software suite, retiring legacy analysis products to refocus resources on higher-value offerings."
+    },
+    {
+      "id": "te:economy:564712",
+      "time": "2026-07-07 14:16:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "German Industrial Output Rises More Than Expected — Germany's industrial production rose 0.9% month-on-month in May 2026, surpassing market expectations and accelerating from April's revised 0.2% increase. This marked the strongest growth since September last year, driven mainly by a 3.6% jump in automotive production and a 0.9% increase in construction activity. Excluding energy and construction, industrial output rose 0.8%, as gains in capital goods (+1.3%) and consumer goods (+1.2%) production outweighed a 0.4% decline in intermediate goods. Outside industry, energy production increased 0.8%. Production in energy-intensive industries also rose 0.2% from the previous month and was 2.9% higher than a year earlier. On a less volatile three-month basis, industrial output edged up 0.1% in the March–May period compared with the previous three months. Compared with a year earlier, overall industrial production was unchanged, following a 0.9% decline in April."
+    },
+    {
+      "id": "te:economy:564711",
+      "time": "2026-07-07 14:16:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "South Africa Forex Reserves Drop to 7-Month Low — Gross foreign exchange reserves in South Africa declined to $74.11 billion in June 2026 from $76.58 billion in the previous month, marking the lowest level since November 2025. The decrease was primarily attributed to the decrease in the US dollar gold price, valuation adjustments, and foreign exchange payments made on behalf of the government. Gold reserves fell to $16.26 billion from $18.27 billion, while foreign currency reserves edged down to $51.22 billion from $51.66 billion. Meanwhile, SDR holdings were little changed at $6.63 billion, compared with $6.65 billion in May. The forward position, which represents the central bank's unsettled forward and swap transactions, remained broadly stable at $0.585 billion, compared with $0.584 billion in the previous month."
+    },
+    {
+      "id": "mkt:019f3b38-0ef8-7aab-8cc4-fd060c60bdf8",
+      "time": "2026-07-07 14:15:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell 1% after earlier gains of more than 2%; Hang Seng Index down 0.9%."
+    },
+    {
+      "id": "mkt:019f3b38-050f-7aab-8cc4-f02bdd7eb7c5",
+      "time": "2026-07-07 14:15:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lloyds Bank says recent UK house-price movements continue to reflect broader economic uncertainty."
+    },
+    {
+      "id": "4973613",
+      "time": "2026-07-07 14:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，新思科技計劃停止向全球晶片製造商提供其製程控制軟體套件。"
+    },
+    {
+      "id": "4973612",
+      "time": "2026-07-07 14:15:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4495.640點；恒生指數現跌0.900%。"
+    },
+    {
+      "id": "4973611",
+      "time": "2026-07-07 14:15:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL中環中標大唐11GW集採大單】據TCL中環訊息，7月3日，中國大唐集團2026-2027年度光伏元件框架採購專案中標候選人公示。TCL中環中標6GW N型TOPCon元件標段，同時獲4GW N型BC元件標段第一中標候選人資格。"
+    },
+    {
+      "id": "4973610",
+      "time": "2026-07-07 14:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞社交媒體禁令測試顯示，50個接受年齡核查轉診的青少年賬戶中未發現一例違規賬戶。"
+    },
     {
       "id": "mkt:019f3b36-36c0-7aab-8cc4-ef180a4223cc",
       "time": "2026-07-07 14:13:56",
