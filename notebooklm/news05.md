@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-08 05:07:49_
-_本檔包含 3148 則快訊，約 602464 字_
+_更新時間：2026-07-08 06:18:51_
+_本檔包含 3139 則快訊，約 603447 字_
+
+---
+
+### 2026-07-01 23:26:55  #Trading Economics #Economy #Colombia #Manufacturing PMI #Importance 1
+
+Colombia Factory Activity Strengthens In June — Colombia’s Davivienda Manufacturing PMI rose to 53.7 in June 2026 from 51.8 in May, signaling the strongest improvement in factory conditions since November 2025. Stronger demand was the main driver, with new orders and total sales expanding at the fastest pace since last November. In response, manufacturers increased output and stepped up input purchases to meet rising production needs. Employment also rose for the third consecutive month, with the pace of hiring reaching a 17-month high. Firms reported growing order books despite passing on higher costs to customers, with output prices rising sharply and at a faster pace than in May. Input cost inflation eased to a three-month low but remained elevated, driven by higher labor, material, oil, and transportation costs. Looking ahead, business optimism improved on expectations of stronger marketing efforts, new product launches, better market conditions after the elections, and the signing of pending contracts.
+
+---
+
+### 2026-07-01 23:26:29  #MKT News #Important #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+U.S. stocks reversed an early dip; Dow rose 0.3%, S&P 500 gained 0.2%, Nasdaq reclaimed earlier losses.
+
+---
+
+### 2026-07-01 23:26:24  #市場
+
+巴西雷亞爾兌美元即期匯率下跌 1%  。
+
+---
+
+### 2026-07-01 23:25:53  #國際
+
+Stellantis：上半年美國市場銷售額同比增長5%。
+
+---
+
+### 2026-07-01 23:23:33  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+【Kevin Warsh invites former Bank of England governor Mervyn King to co-chair Fed communications working group】Fed Chair Kevin Warsh has invited former Bank of England governor Mervyn King to co-chair a new Federal Reserve communications working group. Warsh, who has made reforming Fed communications a central priority, said he will reassess how officials convey the monetary policy outlook to the public and investors; he did not commit to holding press conferences after every rate decision and has previously encouraged policymakers to reduce the frequency of public speeches. King, who led the Bank of England from 2003–2013 and steered it through the 2008–09 financial crisis, confirmed via his office he will serve as co-chair.
+
+---
+
+### 2026-07-01 23:21:18  #MKT News #Important
+
+Democratic Sen. Elizabeth Warren said legislation is needed to prevent Trump from obtaining further crypto-related profits.
+
+---
+
+### 2026-07-01 23:21:17  #國際
+
+美國參議員沃倫：需要立法來防止特朗普從加密貨幣中進一步獲利。
+
+---
+
+### 2026-07-01 23:20:51  #MKT News
+
+The Washington Examiner reports Director of National Intelligence Clayton confirmed a hearing is tentatively scheduled for July 15.
+
+---
+
+### 2026-07-01 23:20:09  #Trading Economics #Economy #Mexico #Manufacturing PMI #Importance 1
+
+Mexico Manufacturing PMI at 2024-Highs — The S&P Global Mexico Manufacturing PMI rose to 51.3 in June 2026 from 49.6 in May, marking the strongest reading since March 2024 and signaling improvement in operating conditions. Order book volumes expanded at the fastest pace in 27 months, supported by the FIFA World Cup, while new export orders rose at the end of the second quarter. Production declined marginally due to cash flow issues, input shortages, and technical stoppages. Input inventories fell for a ninth consecutive month as supplier delivery delays persisted, driven by blockades, highway insecurity, material shortages, customs issues, and the conflict in the Middle East. Meanwhile, buying activity rebounded, reflecting stronger demand and inventory building. On the labor market, manufactures singaled another job shedding. Meanwhile, cost pressures eased.Looking ahead, manufacturers remained optimistic, with business confidence rising to a three-month high.
+
+---
+
+### 2026-07-01 23:19:47  #其他
+
+市場訊息：克萊頓國家情報總監聽證會暫定 7 月 15 日舉行。
+
+---
+
+### 2026-07-01 23:17:25  #國際
+
+通用汽車二季度美國銷售下滑4.2%，受累於電動汽車需求下滑。
+
+---
+
+### 2026-07-01 23:17:17  #MKT News #Important
+
+Fed chair Kevin Warsh appointed former Bank of England governor Mervyn King to co-lead a new Federal Reserve communications working group.
+
+---
+
+### 2026-07-01 23:16:21  #央行 #焦點 #國際
+
+美聯儲主席接觸原英國央行行長金恩（King），負責新聯絡工作組。
+
+---
+
+### 2026-07-01 23:15:55  #公司 #市場
+
+【軟體股上漲 Guggenheim稱AI不會成為軟體行業“喪鐘”】Guggenheim上調三家軟體公司的評級，認為市場對AI將給軟體行業帶來“致命威脅”的擔憂被誇大，帶動軟體股週三普遍上漲。“目前的軟體公司估值反映出一種預期，即許多軟體企業將在AI衝擊下長期持續衰退，”分析師John DiFucci在週三釋出的研究報告中寫道，“我們並不認同這一判斷。”他補充稱，來自AI公司的競爭確實會對傳統軟體企業造成影響，但認為整個軟體行業將因此遭受致命打擊的悲觀論調，不過是一種“幻覺”。今年以來軟體股整體承壓。投資者擔心，Anthropic PBC、OpenAI等原生AI公司推出的產品，將嚴重削弱傳統軟體行業的長期發展前景。
+
+---
+
+### 2026-07-01 23:15:35  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Portuguese Automobile Association (ACAP) said Tesla (TSLA.O) new registrations in Portugal rose 43.2% YoY in June; cumulative Jan–Jun registrations up 53.5%.
+
+---
+
+### 2026-07-01 23:15:13  #市場
+
+葡萄牙汽車協會（ACAP）資料：6 月葡萄牙特斯拉新車上牌量同比增長 43.2%，1 至 6 月累計同比上漲 53.5%。
+
+---
+
+### 2026-07-01 23:15:06  #MKT News
+
+Google Cloud confirmed it will offer EU public-sector organizations a more secure option after a Dutch data protection impact assessment (DPIA) was approved.
+
+---
+
+### 2026-07-01 23:14:31  #公司
+
+谷歌：已與荷蘭國家政務數字機構（SLM RIJK）開展合作，該機構已完成針對谷歌雲的資料保護影響評估。
+
+---
+
+### 2026-07-01 23:13:31  #公司 #國際
+
+谷歌雲獲荷蘭資料保護影響評估認證，證實可為歐盟公共機構提供更安全的雲服務選擇。
+
+---
+
+### 2026-07-01 23:12:44  #Trading Economics #Markets #Commodity #Importance 0
+
+Sugar Futures at Over 1-Month High — Sugar futures in the US extended their upward trend to around 14.9 US cents, reaching the highest since May 19, amid mounting weather concerns. An unusually strong El Niño event, a climate pattern associated with drier conditions in Asia-Pacific and increased rainfall in parts of the Americas, is posing risks to crops in major producing countries. Thailand is experiencing excessive dry conditions and India is expected to see below-normal July rainfall after its driest June in 12 years. Experts warned that weaker monsoon rainfall could reduce India’s annual sugar production by an estimated 3 million to 8 million tonnes. The government has already extended its sugar export ban until September 30. Meanwhile, output in Brazil's key center-south region fell 25.6% year-on-year to 2.2 million metric tons in the second half of May, while the volume of sugarcane processed was 13% smaller at 41.5 million tons, affected by rainfall that interrupted harvesting in some regions.
+
+---
+
+### 2026-07-01 23:11:28  #公司 #國際
+
+【勝宏科技：正在全力以赴推進擴產 穩步推進2030年千億產值目標落地】勝宏科技(300476.SZ)釋出投資者關係活動記錄表公告，公司正在全力以赴推進擴產，穩步推進2030年千億產值目標落地。從產品規格看，公司將錨定AI、資料中心交換機等高價值量產品，持續推進產品結構最佳化及價值量提升。國內產能方面，惠州廠房四專案現已分階段逐步投產，目前處於爬坡與量產階段。公司廠房十、十一目前正在加快建設，今年下半年將持續推進兩座工廠的裝修、裝置安裝與除錯試產工作。海外產能方面，公司泰國工廠A1棟一期升級改造已於2025年3月完成，二期高階產能已經開始生產驗證板；泰國A2棟廠房和越南工廠的建設也正在按計劃有序推進中。
+
+---
+
+### 2026-07-01 23:11:22  #MKT News
+
+Sky News reports Harvey Nichols, the UK luxury department store, has asked prospective bidders to submit takeover offers within two weeks.
+
+---
+
+### 2026-07-01 23:10:26  #市場
+
+目前，新加坡交易所最活躍的8月份鐵礦石期貨合約上漲2.53%至每噸100美元，此前一度攀升至6月17日以來的最高點101.2美元。
+
+---
+
+### 2026-07-01 23:07:34  #MKT News
+
+Ivory Coast government spokesman said recent floods have killed 59 people.
+
+---
+
+### 2026-07-01 23:07:25  #央行 #歐洲央行
+
+【歐洲央行管委Kaasik稱再加息一次是合理預期】歐洲央行管委UloKaasik表示，在伊朗戰爭之後可能需要進一步加息以確保通脹回到目標水平。“市場預計將再次加息，”這位愛沙尼亞央行行長在葡萄牙辛特拉表示。“目前看來，我認為至少再加息一次似乎是合理的。而且普遍認為，考慮到我們經歷的那種油價衝擊，需要這樣做來確保通脹降至2%。”在美國與伊朗和平談判推動能源價格下跌後，歐元區上月通脹放緩幅度超過預期。儘管如此，局勢仍然充滿波動，歐洲央行決策者正密切關注持續數月的大宗商品市場波動將如何傳導至整體經濟。部分出席歐洲央行年度論壇的歐洲央行官員表示，只要整體環境保持平穩，7月的會議可能維持借貸成本不變。“一個問題是地緣政治局勢將如何演變，以及石油市場會是什麼樣子，”Kaasik在談及7月22日至23日的會議時表示。“另一方面是持續三個月的油價衝擊將對其他價格產生什麼影響。”
+
+---
+
+### 2026-07-01 23:07:10  #MKT News
+
+US Department of Justice sued Virginia, alleging the state's firearms ban is unconstitutional. The DOJ also sued California, seeking to block the state's ban on Glock handguns.
+
+---
+
+### 2026-07-01 23:06:49  #國際
+
+美國農業部（USDA）將投資5億美元到新建設的、以及現有的那些化肥設施。
+
+---
+
+### 2026-07-01 23:06:16  #MKT News
+
+Market sources: USDA to invest $500 mln in new and existing fertilizer facilities.
+
+---
+
+### 2026-07-01 23:05:56  #國際
+
+美國能源資訊署（EIA）資料顯示，上週包含戰略石油儲備（SPR）在內的美國原油庫存降至 1984 年 5 月以來最低水平。
+
+---
+
+### 2026-07-01 23:05:30  #MKT News #Commodities #Industrial Metals #Copper #Impact mixed
+
+【LME weighing rule easing to boost Hong Kong as metal warehousing hub】Four industry sources said the LME is considering loosening rules to enhance Hong Kong's role as a metal warehousing hub. Two sources said HKEx executives have queried warehousing firms on what barriers must be removed to make Hong Kong viable. In a March consultation the LME proposed allowing outdoor storage of aluminium on a location-by-location basis; sources said the proposal chiefly targets Hong Kong given limited indoor space. The LME briefly permitted outdoor aluminium storage in the mid-1990s but withdrew the option over weather damage and security concerns.
+
+---
+
+### 2026-07-01 23:05:21  #MKT News
+
+Germany's federal prosecutors have filed charges against a Ukrainian national, accusing him of involvement in the Nord Stream pipeline explosions, German media reported.
+
+---
+
+### 2026-07-01 23:05:16  #國際
+
+美國司法部宣佈起訴弗吉尼亞州，指控該州槍支禁令違反憲法。
+
+---
+
+### 2026-07-01 23:04:18  #國際
+
+【俄外交部：日本部署美國導彈嚴重破壞亞太地區穩定 】俄羅斯外交部發言人扎哈羅娃7月1日在例行記者會上表示，日本部署美國中程和短程導彈系統，嚴重破壞亞太地區穩定與安全。扎哈羅娃表示，日本這一行為對俄羅斯遠東邊境構成直接威脅，俄方多次警告過日方不要做出此類破壞性決定。與此同時，俄羅斯加強同地區國家的合作，以維護亞太地區和平。據報道，美國、日本近期舉行多場聯合演習，美國“堤豐”中程導彈系統再次部署到日本。（新華社）
+
+---
+
+### 2026-07-01 23:04:00  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish
+
+S&P 500 reversed earlier losses and turned higher.
+
+---
+
+### 2026-07-01 23:03:43  #MKT News
+
+Banxico survey: private-sector analysts expect the benchmark policy rate to be 6.50% at end-2026 and 6.50% at end-2027.
+
+---
+
+### 2026-07-01 23:03:30  #MKT News
+
+Bank of Mexico survey: private-sector analysts expect the Mexican peso at 17.88 per USD at end-2026 and 18.50 per USD at end-2027.
+
+---
+
+### 2026-07-01 23:03:06  #央行 #其他
+
+墨西哥央行調查：私營機構分析師預計 2027 年末基準利率將降至 6.50%。
+
+---
+
+### 2026-07-01 23:02:36  #MKT News
+
+Bank of Mexico survey: private-sector analysts expect Mexico GDP growth of 1.10% in 2026 and 1.80% in 2027.
+
+---
+
+### 2026-07-01 23:02:18  #央行 #其他
+
+墨西哥央行調查：私營部門分析師預計2026年底整體通脹為4.20%，預計2027年底整體通脹為3.84%。預計2026年底核心通脹為4.18%，預計2027年底核心通脹為3.80%。
+
+---
+
+### 2026-07-01 23:02:02  #MKT News
+
+Banxico survey: private-sector analysts expect headline inflation of 4.20% at end-2026 and 3.84% at end-2027; core inflation projected at 4.18% and 3.80% at those dates.
+
+---
+
+### 2026-07-01 23:01:25  #MKT News #Important
+
+At the 23:00 close, China's commodity futures most-active contracts were mixed with losses predominating. Liquefied petroleum gas (LPG) fell more than 3%, methanol declined nearly 3%, and fuel oil dropped over 2%. Low-sulfur fuel oil (LU), synthetic rubber, bitumen, polypropylene and plastics lost more than 1%. Iron ore rose over 1%, while pulp and soybean meal gained about 1%.
 
 ---
 
@@ -18712,305 +18958,5 @@ Politico reports a senior White House official said the U.S. Commerce Department
 ### 2026-07-01 06:20:24  #公司 #觀點
 
 【港股上半年IPO火熱，券商加碼在港業務】6月30日，真健康醫療-B、來福諧波、鱘龍科技、江西生物4家公司敲鑼上市，至此2026年上半年港股IPO正式收官。今年上半年，港股市場“鑼聲不斷”，共迎來85家公司上市。Wind資料顯示，中金公司共保薦28家、承銷36家港股新股，領跑港股IPO市場。此外，港股IPO火熱之下，中資券商的國際化業務也不斷拓展，國泰海通、中信證券、華泰證券、廣發證券等機構紛紛加碼國際化業務。（上證報）
-
----
-
-### 2026-07-01 06:17:55  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish
-
-【Russia orders temporary closure of multiple rail border crossings with Finland, Estonia and Latvia】The Russian government on June 30 ordered the temporary closure, effective July 1, of multiple rail border crossings with Latvia, Finland and Estonia, according to a document posted on Russia’s official legal portal. The closures include the St. Petersburg–Finland and Vyborg rail crossings and three additional Russia–Finland crossings, plus one Russia–Estonia and one Russia–Latvia rail crossing. From July 1 the listed crossings will suspend all passage of people, vehicles, goods and cargo. The government gave no reason for the closures.
-
----
-
-### 2026-07-01 06:15:15  #公司 #觀點
-
-【首批4只REITs指數基金今日發售】公募REITs市場即將迎來“源頭活水”。公告顯示，首批4只REITs指數基金將於7月1日至7日正式發售，此舉意味著公募REITs市場正式邁入指數化投資階段。根據華夏基金、易方達基金、南方基金、中金基金4家機構披露的招募說明書及發售公告，首批4只REITs指數基金單隻募集上限均為3億元，基金業績比較基準為“中證REITs全收益指數收益率×95%+活期存款基準利率×5%”，基金投資於標的指數成分券及備選成分券的比例均不低於基金資產淨值的90%。（上證報）
-
----
-
-### 2026-07-01 06:15:08  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 0.63% — Top currency gainers are Brazilian Real (0.63%), New Zealand Dollar (0.49%), Australian Dollar (0.45%) and Dollar Index (0.07%). Biggest losers are Japanese Yen (-0.41%), South Korean Won (-0.35%) and Polish Zloty (-0.25%). Meanwhile Euro was little changed.
-
----
-
-### 2026-07-01 06:12:25  #MKT News
-
-U.S. President Trump said Pierre Yared will leave the Council of Economic Advisers.
-
----
-
-### 2026-07-01 06:11:56  #國際
-
-特朗普：亞雷德退出總統經濟顧問委員會。
-
----
-
-### 2026-07-01 06:11:07  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
-
-U.S. Fed funds futures fell further, implying roughly an 80% probability of a Federal Reserve rate hike in September.
-
----
-
-### 2026-07-01 06:09:44  #市場 #焦點 #國際
-
-美國聯邦基金利率期貨進一步走低，市場隱含 9 月加息機率約 80%。
-
----
-
-### 2026-07-01 06:05:51  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500 #Impact bearish #DXY
-
-U.S. Treasury futures extended losses; 10-year futures down 8 points, 30-year futures down 22 points.
-
----
-
-### 2026-07-01 06:05:15  #市場 #國際
-
-美國國債期貨延續下跌行情，10 年期國債期貨下跌 8 個基點，30 年期國債期貨下跌 22 個基點。
-
----
-
-### 2026-07-01 06:05:14  #市場 #焦點
-
-紐約期金突破4030美元/盎司，日內跌0.23%。
-
----
-
-### 2026-07-01 06:04:03  #公司 #國際
-
-【財務披露顯示特朗普2025年加密貨幣收入至少14億美元】美國總統唐納德·特朗普的最新年度財務披露顯示，他在2025年透過加密貨幣及迷因幣相關業務獲得至少14億美元收入。特朗普報告稱從加密貨幣公司World Liberty Financial的銷售中獲得逾5.88億美元收入。該公司聯合創始人包括特朗普、他的兒子們以及政府高階外交官史蒂夫·威特科夫。威特科夫之子扎克·威特科夫擔任該公司執行長。特朗普的迷因幣業務CIC Digital LLC創造了6.36億美元的收入，其中絕大部分來自與Celebration Coins簽訂許可協議所獲得的版稅收入。CIC Digital還持有存在數字錢包中的價值至少6000萬美元的多種加密貨幣。特朗普還透過出售Stablecoin Holdco股權獲得近1.97億美元。美國政府道德辦公室週二公佈的這份長達927頁的檔案展示了特朗普龐大的商業版圖，包括他的酒店、高爾夫度假村和加密貨幣業務收入。
-
----
-
-### 2026-07-01 06:03:09  #MKT News
-
-Mexico's economy minister said the government does not expect the US-Mexico-Canada Agreement (USMCA) to be repealed.
-
----
-
-### 2026-07-01 06:02:23  #其他
-
-墨西哥經濟部長：我方認為《美墨加協定》不會被廢除。
-
----
-
-### 2026-07-01 06:02:06  #市場 #央行 #國際
-
-【交易員加碼聯邦基金利率期貨空頭頭寸 冒險押注7月加息】聯邦基金利率市場交易員正在加大押注，認為美聯儲最早可能7月開始加息。這一此前難以想象的舉措可能會被一系列經濟資料打亂。下個月政策會議加息的機率仍然較低，利率互換目前定價反映約9個基點的加息幅度，相當於加息25個基點的機率約為36%。儘管如此，這一機率已明顯上升；在新任美聯儲主席凱文·沃什將重點轉向物價穩定之前，機率幾乎為零。自6月17日政策會議以來，8月聯邦基金利率期貨的未平倉合約 —— 即投資者持有的新交易頭寸規模 —— 迅速上升。新頭寸的快速累積總體偏向賣方，表明交易員正在做空該合約；如果加息機率繼續上升，此類持倉將受益。即使期權交易員此前還在尋求對沖市場已消化的加息次數，上述押注仍在升溫。這些押注最早可能在週四面臨考驗，屆時將公佈勞動力市場資料。任何就業增長減弱的跡象都可能削弱7月加息機率，從而令新建空頭頭寸面臨風險。
-
----
-
-### 2026-07-01 06:00:40  #市場 #焦點
-
-現貨白銀突破59美元/盎司，日內漲0.22%。
-
----
-
-### 2026-07-01 06:00:12  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為66.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為33.1%，累計加息25個基點的機率為50%，累計加息50個基點的機率為16.9%。
-
----
-
-### 2026-07-01 06:00:07  #國際
-
-【卡達首相與美特使舉行會談，討論黎巴嫩問題】當地時間7月1日，卡達外交部宣佈，卡達首相兼外交大臣穆罕默德與美國特使史蒂夫·威特科夫和賈裡德·庫什納討論了地區局勢和黎巴嫩停火問題。（央視新聞）
-
----
-
-### 2026-07-01 06:00:02  #市場
-
-紐約期銀日內跌1%，現報59.09美元/盎司。
-
----
-
-### 2026-07-01 05:47:33  #MKT News #Important #Market Themes #Crypto Concepts
-
-【Trump 2025 financial disclosure lists >$1.2 BLN from crypto, $80 MLN in media settlements】The US Office of Government Ethics published a 927-page financial disclosure for Trump’s 2025 filing. It shows more than $580 MLN from a family-linked crypto project, World Liberty Financial, and $635 MLN from meme-coin sales—about $1.215 BLN combined. The filing also reports over $80 MLN received from settlements with multiple media companies, several million dollars in name-licensing fees from foreign property developers, and gifts exceeding $370k including 10 World Cup tickets and Super Bowl seats. It lists a statue valued at $250k depicting his raised-fist image after the Pennsylvania shooting.
-
----
-
-### 2026-07-01 05:42:32  #MKT News
-
-U.S. President Trump said the midterm election convention is expected to take place Sept. 9-10.
-
----
-
-### 2026-07-01 05:42:28  #其他
-
-【無緣世界盃16強 荷蘭隊主教練科曼宣佈辭職】當地時間6月30日，荷蘭足球隊主教練科曼宣佈辭去職務。科曼表示，荷蘭隊未能在2026年世界盃實現既定目標，作為主教練，他對此承擔全部責任。此前在2026年美加墨世界盃淘汰賽十六分之一決賽中，荷蘭隊經點球大戰不敵摩洛哥隊，無緣16強。
-
----
-
-### 2026-07-01 05:40:39  #MKT News #AA.O #Impact bullish #S32.AX #Impact bearish
-
-Alcoa announced a $4.1 billion acquisition of South32’s bauxite, alumina and aluminum assets.
-
----
-
-### 2026-07-01 05:40:35  #MKT News
-
-President Trump said the Republican Party will hold its midterm convention in Dallas, Texas.
-
----
-
-### 2026-07-01 05:40:18  #公司
-
-亞馬遜：Kindle 翻譯功能現已支援英語與西班牙語、德語、法語、義大利語、葡萄牙語互譯。
-
----
-
-### 2026-07-01 05:40:01  #焦點 #國際
-
-特朗普：共和黨中期選舉大會將在德克薩斯州達拉斯舉行。
-
----
-
-### 2026-07-01 05:37:25  #公司 #國際
-
-美國鋁業公司：擬斥資 41 億美元收購南非 32 集團鋁土礦、氧化鋁及原鋁相關資產。
-
----
-
-### 2026-07-01 05:37:08  #國際
-
-【兩名美國宇航員完成太空行走 更換機械臂故障部件】美國航空航天局6月30日表示，國際空間站兩名美國宇航員當天完成太空行走任務，更換空間站機械臂“加拿大臂2號”出現故障的關鍵部件，任務總共持續約7小時20分鐘。（新華社）
-
----
-
-### 2026-07-01 05:36:50  #公司
-
-南非 32 集團向美鋁出售旗下全產業鏈鋁資產，交易總對價最高可達 56 億美元。
-
----
-
-### 2026-07-01 05:35:27  #宏觀
-
-市場訊息：米格爾・戈麥斯將出任哥倫比亞新任財政部長。
-
----
-
-### 2026-07-01 05:33:23  #公司
-
-耐克首席財務官：剔除關稅返還帶來的收益利好後，公司 26 財年第四季度至 27 財年前兩個季度盈利將大致持平。
-
----
-
-### 2026-07-01 05:32:27  #其他
-
-耐克：預計 2027 財年營收將出現低至中個位數降幅，而此前市場預期為增長 0.4%。預計未來六個月市場環境難以出現實質性好轉。
-
----
-
-### 2026-07-01 05:31:57  #公司 #市場
-
-【耐克盤後下跌 公司高管就需求發表謹慎言論】耐克公司股價週二盤後下跌，雖然最新季度業績超出預期，但其提振作用被公司高管謹慎的言論所抵消。該公司即將離任的首席財務官Matt Friend表示，耐克對產品去庫存的舉措“仍然面臨挑戰”，而執行長Elliott Hill指出營收增長面臨“不利因素”。截至5月31日的第四財季，該公司銷售額達110億美元。由於預期中的關稅相關退款，每股收益也超出預期，但匡威品牌的疲軟態勢依然持續。截至紐約時間下午4點55分，該股盤後下跌4%。截至週二收盤，該股今年已累計下跌36%。
-
----
-
-### 2026-07-01 05:28:42  #市場
-
-穆迪針對聖文森及格瑞那丁主權評級：本次下調評級同時反映該國債務負擔持續攀升，管控難度日益加大。財政整頓進度不及預期，或進一步削弱其信用資質。 該國融資需求居高不下，而國內資金供給渠道卻日益收窄、資金來源高度集中。
-
----
-
-### 2026-07-01 05:27:32  #MKT News #Important #DXY #Impact bullish #AUDUSD #USDJPY
-
-【FX 1H wrap: dollar weak then strong; Australian dollar outperforms】The dollar index (DXY) slid to 95.5 at the start of the year before rising above 101 by mid-year, up nearly 3% in 1H. Major pair moves in 1H: EUR/USD -2.7%; GBP/USD -1.4%; USD/CAD +3.4%; USD/CHF +2.0%; USD/JPY +3.8% (yen at a 40‑year low); NZD/USD -1.4%; AUD/USD +3.7% (notable outperformance). Offshore yuan (CNH) gained 2.7% vs USD. USD/RUB fell 0.5%. USD/MXN dropped nearly 3%, supported by elevated Mexican domestic interest rates.
-
----
-
-### 2026-07-01 05:21:07  #MKT News #Important
-
-【Commodities 1H close: precious metals slump; oil still up >20%】Spot gold fell more than 7% in 1H, trading over $1,500 below its intra-year record high. Spot silver dropped about 18%, more than halving from its peak. Spot platinum declined over 24% and spot palladium nearly 25%. LME copper hit an intra-year high and gained 7% in the half; LME aluminium rose 3.7%. Despite retreating from geopolitically driven peaks, oil remains higher YTD—WTI +21.6%, Brent +20%.
-
----
-
-### 2026-07-01 05:21:06  #MKT News
-
-U.S. Interior Secretary said President Trump effectively prevented World War III.
-
----
-
-### 2026-07-01 05:21:04  #Trading Economics #Economy #Jamaica #GDP Annual Growth Rate #Importance 1
-
-Jamaica GDP Falls For Second Straight Quarter — Jamaica’s economy contracted 4.1% year-on-year in the first quarter of 2026, following a sharper 7.1% decline in the previous quarter, pointing to a slower pace of economic contraction. Nearly all sectors recorded declines, with only financial and insurance activities (2.9%) and manufacturing (0.6%) posting growth. The steepest drop came from mining and quarrying, which fell 23.5%, followed by agriculture, forestry and fishing (-18.3%), accommodation and food services (-16.6%), and utilities (-10.2%). On a quarter-on-quarter basis, the economy rebounded 3.3%, recovering part of the 7.3% contraction recorded in the previous quarter.
-
----
-
-### 2026-07-01 05:20:03  #焦點 #國際
-
-特朗普披露超過10億美元加密貨幣相關收入。
-
----
-
-### 2026-07-01 05:19:44  #公司
-
-耐克執行長：本財年運動服飾、喬丹潮流系列業績將持續承壓下滑，但下半年有望好轉。公司業務增長將不再侷限於跑步品類，訓練、籃球以及 ACG 系列板塊均會實現增長。
-
----
-
-### 2026-07-01 05:19:07  #其他
-
-艾裡遜變速箱控股（ALSN）將納入標普中型股 400 指數，固特異輪胎橡膠（GT）將納入標普小型股 600 指數。
-
----
-
-### 2026-07-01 05:16:13  #國際
-
-美國總統特朗普2025年度的財務報告稱，其在嘉信理財擁有超過 5000 萬美元的資產質押授信額度。
-
----
-
-### 2026-07-01 05:15:38  #市場
-
-富時A50期指連續夜盤收漲0.18%，報15542點。
-
----
-
-### 2026-07-01 05:14:25  #公司
-
-耐克執行長：公司正最佳化調整分銷網路規模，使其與市場需求匹配，並降低供應鏈成本。
-
----
-
-### 2026-07-01 05:13:16  #市場
-
-週二（6月30日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7918元，較週一紐約尾盤漲88點，日內整體交投於6.8026-6.7864元區間。6月份，離岸人民幣累計下跌大約0.4%，二季度累漲超1.4%，上半年持續走高、從6.9959元漲至6.7539元。
-
----
-
-### 2026-07-01 05:10:20  #央行 #其他
-
-土耳其央行：取消外匯存款/參與基金的里拉額外準備金要求。外幣存款及參與基金適用的存款準備金率作出調整，活期存款與期限 1 個月及以記憶體款準備金率由 30% 上調至 32%。
-
----
-
-### 2026-07-01 05:10:15  #MKT News
-
-Central Bank of the Republic of Turkey increased the reserve requirement ratio on FX deposits and participation funds to 32% from 30%, applicable to demand deposits and deposits with maturities of up to one month.
-
----
-
-### 2026-07-01 05:09:51  #國際
-
-【俄下令臨時關閉連通芬蘭等三國的多個鐵路口岸】俄羅斯政府30日下令，從7月1日起臨時關閉俄羅斯同拉脫維亞、芬蘭和愛沙尼亞三國的多個邊境鐵路口岸。相關檔案當天已登載在俄官方的法律文書網上。據俄羅斯媒體報道，根據俄政府決定，從7月1日起俄方將臨時關閉俄羅斯芬蘭邊境的聖彼得堡-芬蘭鐵路口岸、維堡鐵路口岸以及俄芬邊境的另外三個鐵路口岸。被臨時關閉的還有俄羅斯和愛沙尼亞邊境的一個鐵路口岸以及俄羅斯和拉脫維亞邊境的一個鐵路口岸。根據俄方決定，從7月1日起，上述邊境口岸將暫停任何人員、車輛、商品和貨物通行。但俄政府未說明關閉這些口岸的具體原因。（新華社）
-
----
-
-### 2026-07-01 05:08:45  #市場
-
-耐克美股盤後跌幅擴大至6.6%。
-
----
-
-### 2026-07-01 05:08:41  #公司
-
-耐克執行長：運動服飾及喬丹潮流系列終端動銷依舊承壓， 公司已採取舉措精簡供應鏈與技術體系。
-
----
-
-### 2026-07-01 05:08:24  #MKT News #DXY #Impact bearish
-
-Central Bank of the Republic of Turkey cancels the additional lira reserve requirement on foreign-currency deposits and participation funds.
 
 ---
