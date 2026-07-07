@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-08 00:22:41",
-  "count": 15916,
+  "updated": "2026-07-08 00:26:29",
+  "count": 15907,
   "items": [
+    {
+      "id": "4974801",
+      "time": "2026-07-08 00:22:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟旗下部分應用停用 OpenAI、Anthropic 第三方大模型，改用自研 AI 模型。"
+    },
     {
       "id": "4974800",
       "time": "2026-07-08 00:21:09",
@@ -145953,86 +145961,6 @@
         "國際"
       ],
       "text": "【本田首單歐元債券 發行認購需求超100億歐元】本田汽車首次登陸歐元債券市場，計劃發行25億歐元債券，最終投資者認購需求超103億歐元。公司發行3年期、6年期、10年期高階無擔保債券，其中短期債券最受市場追捧，發行定價較初始詢價下調約30個基點。日本企業正加大境外融資力度，本田此次歐元債券首發恰逢這一趨勢；今年以來日本企業歐元計價債券發行規模已達約116.7億歐元。"
-    },
-    {
-      "id": "mkt:019f195a-3e24-7aab-8c3e-881f4afbe4d9",
-      "time": "2026-07-01 00:26:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Congress should immediately move to end birthright citizenship."
-    },
-    {
-      "id": "4963503",
-      "time": "2026-07-01 00:26:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗隊啟程回國】在本屆世界盃小組賽出局後，伊朗隊於當地時間30日晨從墨西哥邊境城市蒂華納所在酒店出發，啟程返回伊朗。當日6時許，數十名當地民眾和球迷陸續聚集在伊朗隊駐地外送行，不少人手持伊朗和墨西哥國旗，在酒店外等待球隊離開。7時左右，伊朗隊乘坐大巴從下榻酒店出發前往蒂華納國際機場。據當地媒體報道，伊朗隊將經土耳其轉機後返回伊朗。（新華社）"
-    },
-    {
-      "id": "mkt:019f1959-ff36-7aab-8c3e-86192c7d6fe3",
-      "time": "2026-07-01 00:25:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the issue can be fully resolved through congressional legislation and that he will support such legislation."
-    },
-    {
-      "id": "mkt:019f1959-af22-7aab-8c3e-78532a2fba15",
-      "time": "2026-07-01 00:25:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump: Birthright citizenship is harmful to our country."
-    },
-    {
-      "id": "4963502",
-      "time": "2026-07-01 00:25:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：國會應即日起著手推進廢除出生公民權。"
-    },
-    {
-      "id": "4963501",
-      "time": "2026-07-01 00:25:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院暫未批准特朗普解除美國最高版權事務官員職務的請求。"
-    },
-    {
-      "id": "4963500",
-      "time": "2026-07-01 00:24:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及最高法院出生公民權裁決：我們可以輕鬆透過國會立法推翻該裁決。"
-    },
-    {
-      "id": "mkt:019f1958-da73-7aab-8c3e-71c0224d49fd",
-      "time": "2026-07-01 00:24:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President TRUMP said the U.S. Supreme Court upheld birthright citizenship and called the decision very regrettable for the country."
-    },
-    {
-      "id": "4963499",
-      "time": "2026-07-01 00:24:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：最高法院確認了出生公民權，這對我國來說是件壞事。"
-    },
-    {
-      "id": "mkt:019f1957-2d0c-7aab-8c3e-6d9a8bb4d240",
-      "time": "2026-07-01 00:22:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Paul Russo, co-chief investment officer at Millennium Management, will retire at year-end."
     }
   ]
 }
