@@ -1,7 +1,151 @@
 {
   "date": "2026-07-07",
-  "count": 2546,
+  "count": 2561,
   "items": [
+    {
+      "id": "4974676",
+      "time": "2026-07-07 22:10:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數觸及日內高點，上漲0.1%。"
+    },
+    {
+      "id": "mkt:019f3cea-8ea5-7aab-8cd1-3b4744a59c7d",
+      "time": "2026-07-07 22:10:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury requires entities holding positions of $8.4 billion or more in Treasury floating-rate notes maturing January 2026 to file large-position reports."
+    },
+    {
+      "id": "4974675",
+      "time": "2026-07-07 22:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約市中心一棟大樓因坍塌警報而疏散。"
+    },
+    {
+      "id": "4974674",
+      "time": "2026-07-07 22:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴雷特：我們的支援已惠及超過8000人。"
+    },
+    {
+      "id": "4974673",
+      "time": "2026-07-07 22:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐委內瑞拉臨時代辦巴雷特： 針對委內瑞拉相關行動轉向人道主義救援。美國對委內瑞拉的人道主義援助超過3.1億美元。"
+    },
+    {
+      "id": "mkt:019f3ce9-a8f0-7aab-8cd1-325cb794b9a6",
+      "time": "2026-07-07 22:09:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Report: Shortened ban restores Le Pen's eligibility for 2027 but candidacy remains uncertain】Holger Schmieding said in a note the court shortened Marine Le Pen's ban on holding public office, restoring her eligibility for France's 2027 presidential election, but uncertainty remains over whether she will be the National Rally's candidate. The court upheld her conviction for misappropriating EU funds and ordered her to wear an electronic monitoring bracelet for one year. Le Pen has suggested she might not run under those conditions; if she declines, protégé Jordan Bardella — more popular with the public and less hardline on the EU — could become the National Rally's candidate."
+    },
+    {
+      "id": "mkt:019f3ce8-fee2-7aab-8cd1-2a82da48625c",
+      "time": "2026-07-07 22:08:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasuries extended losses; 10-year Treasury yield rose 5 bps to 4.52%."
+    },
+    {
+      "id": "4974672",
+      "time": "2026-07-07 22:08:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破74美元/桶，日內漲2.82%。"
+    },
+    {
+      "id": "te:markets:564900",
+      "time": "2026-07-07 22:08:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips Amid Middle East Tensions and Fed Policy Uncertainty — Silver declined to $61.2 per ounce on Tuesday as investors assessed rising Middle East hostilities and awaited the Federal Reserve’s June meeting minutes for monetary policy signals. The metal had reached a two-week high on Monday following a softer-than-expected US jobs report, which prompted markets to reduce expectations for near-term interest rate hikes. However, persistent inflation concerns suggest the Fed may maintain a \"higher for longer\" approach, with traders pricing in a 60% chance of a September rate hike. Meanwhile, oil prices edged higher after two tankers were struck in the Strait of Hormuz, and Iran stated it would halt peace talks unless US President Trump ceased his repeated threats to restart the war."
+    },
+    {
+      "id": "mkt:019f3ce8-5a46-7aab-8cd1-261d0e8117a1",
+      "time": "2026-07-07 22:08:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Dollar index DXY briefly rose 10 points to touch 101, up 0.13% intraday."
+    },
+    {
+      "id": "4974671",
+      "time": "2026-07-07 22:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部表示，豐田將塔科馬車型生產從蒂華納轉移至美國的計劃將在2030年前逐步實施。"
+    },
+    {
+      "id": "4974670",
+      "time": "2026-07-07 22:07:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國國債價格延續跌勢；10年期國債收益率上漲5個基點至4.52%。"
+    },
+    {
+      "id": "mkt:019f3ce7-9fe2-7aab-8cd1-185abe71eceb",
+      "time": "2026-07-07 22:07:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Euro-area bonds extended losses; Germany's two-year government bond yield rose 5bp to 2.59%."
+    },
+    {
+      "id": "4974669",
+      "time": "2026-07-07 22:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：截至6月30日，歐盟2025/26年度大豆進口量達到1408萬噸，較前一年度的1453萬噸有所減少。"
+    },
+    {
+      "id": "4974668",
+      "time": "2026-07-07 22:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：歐元債券跌幅擴大，德國兩年期國債收益率上漲5個基點至2.59%。"
+    },
     {
       "id": "4974667",
       "time": "2026-07-07 22:06:31",

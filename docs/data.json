@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-07 22:07:37",
-  "count": 16073,
+  "updated": "2026-07-07 22:11:43",
+  "count": 16069,
   "items": [
+    {
+      "id": "4974676",
+      "time": "2026-07-07 22:10:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數觸及日內高點，上漲0.1%。"
+    },
+    {
+      "id": "mkt:019f3cea-8ea5-7aab-8cd1-3b4744a59c7d",
+      "time": "2026-07-07 22:10:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury requires entities holding positions of $8.4 billion or more in Treasury floating-rate notes maturing January 2026 to file large-position reports."
+    },
+    {
+      "id": "4974675",
+      "time": "2026-07-07 22:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約市中心一棟大樓因坍塌警報而疏散。"
+    },
+    {
+      "id": "4974674",
+      "time": "2026-07-07 22:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴雷特：我們的支援已惠及超過8000人。"
+    },
+    {
+      "id": "4974673",
+      "time": "2026-07-07 22:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐委內瑞拉臨時代辦巴雷特： 針對委內瑞拉相關行動轉向人道主義救援。美國對委內瑞拉的人道主義援助超過3.1億美元。"
+    },
+    {
+      "id": "mkt:019f3ce9-a8f0-7aab-8cd1-325cb794b9a6",
+      "time": "2026-07-07 22:09:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Report: Shortened ban restores Le Pen's eligibility for 2027 but candidacy remains uncertain】Holger Schmieding said in a note the court shortened Marine Le Pen's ban on holding public office, restoring her eligibility for France's 2027 presidential election, but uncertainty remains over whether she will be the National Rally's candidate. The court upheld her conviction for misappropriating EU funds and ordered her to wear an electronic monitoring bracelet for one year. Le Pen has suggested she might not run under those conditions; if she declines, protégé Jordan Bardella — more popular with the public and less hardline on the EU — could become the National Rally's candidate."
+    },
+    {
+      "id": "mkt:019f3ce8-fee2-7aab-8cd1-2a82da48625c",
+      "time": "2026-07-07 22:08:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasuries extended losses; 10-year Treasury yield rose 5 bps to 4.52%."
+    },
+    {
+      "id": "4974672",
+      "time": "2026-07-07 22:08:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破74美元/桶，日內漲2.82%。"
+    },
+    {
+      "id": "te:markets:564900",
+      "time": "2026-07-07 22:08:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips Amid Middle East Tensions and Fed Policy Uncertainty — Silver declined to $61.2 per ounce on Tuesday as investors assessed rising Middle East hostilities and awaited the Federal Reserve’s June meeting minutes for monetary policy signals. The metal had reached a two-week high on Monday following a softer-than-expected US jobs report, which prompted markets to reduce expectations for near-term interest rate hikes. However, persistent inflation concerns suggest the Fed may maintain a \"higher for longer\" approach, with traders pricing in a 60% chance of a September rate hike. Meanwhile, oil prices edged higher after two tankers were struck in the Strait of Hormuz, and Iran stated it would halt peace talks unless US President Trump ceased his repeated threats to restart the war."
+    },
+    {
+      "id": "mkt:019f3ce8-5a46-7aab-8cd1-261d0e8117a1",
+      "time": "2026-07-07 22:08:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Dollar index DXY briefly rose 10 points to touch 101, up 0.13% intraday."
+    },
+    {
+      "id": "4974671",
+      "time": "2026-07-07 22:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部表示，豐田將塔科馬車型生產從蒂華納轉移至美國的計劃將在2030年前逐步實施。"
+    },
+    {
+      "id": "4974670",
+      "time": "2026-07-07 22:07:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國國債價格延續跌勢；10年期國債收益率上漲5個基點至4.52%。"
+    },
+    {
+      "id": "mkt:019f3ce7-9fe2-7aab-8cd1-185abe71eceb",
+      "time": "2026-07-07 22:07:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Euro-area bonds extended losses; Germany's two-year government bond yield rose 5bp to 2.59%."
+    },
+    {
+      "id": "4974669",
+      "time": "2026-07-07 22:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：截至6月30日，歐盟2025/26年度大豆進口量達到1408萬噸，較前一年度的1453萬噸有所減少。"
+    },
+    {
+      "id": "4974668",
+      "time": "2026-07-07 22:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：歐元債券跌幅擴大，德國兩年期國債收益率上漲5個基點至2.59%。"
+    },
     {
       "id": "4974667",
       "time": "2026-07-07 22:06:31",
@@ -147260,175 +147404,6 @@
         "國際"
       ],
       "text": "據以色列媒體：以色列總理內塔尼亞胡和以色列國防部長卡茨訪問了黎巴嫩南部的安全區。"
-    },
-    {
-      "id": "4963234",
-      "time": "2026-06-30 22:11:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國要求能源部門削減 20 億英鎊開支，為國防計劃籌措資金。"
-    },
-    {
-      "id": "te:economy:563040",
-      "time": "2026-06-30 22:11:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Rebounds — The yield on the 10-year US Treasury note rose to 4.40% on Tuesday, rebounding from the seven-week low of 4.37% from the last session as evidence of a strong economy supported the outlook of a hawkish Federal Reserve. The JOLTS pointed to the largest number of job openings in two years, well above market expectations, and aligning with the surge in payrolls from the period. The data consolidated the robust labor market momentum ahead of fresh jobs data Thursday. Despite Fed Chairman Warsh's opposition to signal any guidance for the central bank, the current backdrop of a low-firing backdrop with elevated core inflation drove multiple FOMC members to project rate hikes this year. In the meantime, Warsh's campaign to shrink the Fed's holdings of Treasury notes and bonds also lifted yields. This offset the lower outlook for inflation as progress in restoring energy supply from the Persian Gulf drove energy prices to retreat."
-    },
-    {
-      "id": "4963233",
-      "time": "2026-06-30 22:11:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，禾賽科技漲11.39%，Tims中國漲7.67%，盛豐物流漲6.11%，新氧漲5.56%，世紀互聯漲5.33%。"
-    },
-    {
-      "id": "4963232",
-      "time": "2026-06-30 22:11:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國職位空缺增加，表明勞動力需求穩定】5月份美國的職位空缺變化不大，表明勞動力需求保持穩定，同時近期工資增長有所回升。根據美國勞工統計局週二釋出的資料，上個月新增職位數量升至759萬個，略高於4月份修訂後的資料。經濟學家的中位數預測為730萬個。建築、休閒和酒店業等領域的就業人數有所增長。專業和商業服務領域的職位空缺在5月份幾乎保持不變，而這一領域佔了4月份就業增長的絕大部分。金融活動領域的新崗位持續減少，該領域已成為今年拖累就業增長的最大因素。週二的報告鞏固了其他近期資料的訊號，表明勞動力市場正呈現增長勢頭。儘管伊朗戰爭期間物價上漲抑制了消費者信心，並削弱了工資增長，但對勞動力需求的影響較小，而消費者支出保持穩健。"
-    },
-    {
-      "id": "4963231",
-      "time": "2026-06-30 22:11:00",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國6月消費者信心小幅上升 受油價回落提振】美國6月消費者信心小幅上升，受美國與伊朗同意舉行和平談判後燃料價格下跌提振。週二公佈的資料顯示，世界大型企業聯合會的消費者信心指數上升0.6點至91.2，前一個月的資料被下修。彭博調查的經濟學家的預估中值為94.4。反映當前狀況的指標下降，而衡量未來六個月預期的指標上升。"
-    },
-    {
-      "id": "4963230",
-      "time": "2026-06-30 22:10:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基在基輔會見英國國家安全顧問鮑威爾。"
-    },
-    {
-      "id": "4963229",
-      "time": "2026-06-30 22:10:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報60.39美元/盎司。"
-    },
-    {
-      "id": "4963228",
-      "time": "2026-06-30 22:10:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4060美元/盎司，日內漲0.54%。"
-    },
-    {
-      "id": "4963227",
-      "time": "2026-06-30 22:10:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "官方資料顯示，截至6月28日，歐盟2025/26榨季棕櫚油進口量為285萬噸，去年同期為300萬噸。"
-    },
-    {
-      "id": "4963226",
-      "time": "2026-06-30 22:10:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和輝光電：積體電路基金擬減持不超過2%股份】和輝光電公告，持股5%以上股東上海積體電路產業投資基金股份有限公司（簡稱積體電路基金）持有公司股份12.81億股，佔公司總股本9.28%，計劃於2026年7月22日至2026年10月21日透過大宗交易方式減持不超過2.76億股，佔公司總股本比例2.00%，減持原因為自身資金需求。"
-    },
-    {
-      "id": "4963225",
-      "time": "2026-06-30 22:09:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4040美元/盎司，日內漲0.67%。"
-    },
-    {
-      "id": "4963224",
-      "time": "2026-06-30 22:09:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金站上4040美元/盎司】現貨黃金站上4040美元/盎司，日內漲0.61%。"
-    },
-    {
-      "id": "4963223",
-      "time": "2026-06-30 22:09:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報14520.00元。"
-    },
-    {
-      "id": "4963222",
-      "time": "2026-06-30 22:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【影智科技釋出品牌首款餐飲人形機器人“X-BOT X1”】6月30日，影智科技推出品牌首款餐飲人形機器人“X-BOT X1”，定位為“全場景餐飲服務機器人”。與市面上以表演展示為主的人形機器人不同，X-BOT X1採用輪式底盤+雙臂協同設計，有效降低能耗和成本。據悉，X-BOT X1可勝任咖啡製作、調酒、麵點、送餐等多種餐飲任務，預計2026年底啟動批次生產。"
-    },
-    {
-      "id": "4963221",
-      "time": "2026-06-30 22:09:16",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【IMF官員預警AI相關債務槓桿 稱比估值更令人擔憂】國際貨幣基金組織(IMF)的一位高階官員表示，與股票估值相比，AI領域的債務發行可能是更令人擔憂的金融穩定問題。IMF貨幣與資本市場部主任Tobias Adrian在葡萄牙舉行的歐洲央行年度論壇上表示，近期的市場表現並不一定意味著存在泡沫，但他對企業的借貸方式存有疑慮。“從金融穩定的角度來看，相當令人擔憂的是，大型科技公司自身開始加槓桿，”Adrian週二在葡萄牙辛特拉說，“在實物資產與債務之間可能存在期限錯配。”政策制定者已公開表達了對AI可能引發市場崩盤的擔憂，國際清算銀行上週日發出警告，稱AI是威脅全球繁榮的四大“壓力點”之一。歐洲央行官員Isabel Schnabel在論壇開始時也援引了“由AI驅動的金融泡沫”這一主題。Adrian觀察到，上週的股市拋售在一定程度上改變了局面。“你最近看到的那種估值壓力已經沒有那麼大了，”他說，“估值與市盈率密切相關，因此這既是因為價格出現了回落，也是因為企業盈利繼續超預期增長。”他表示，儘管投資者對AI領域的盈利能力抱有“極其激進”的預期，但實際盈利表現更佳，這表明市場動態“與那種泡沫式特徵相當不同”。與此同時，晶片製造商估值上升，而軟體板塊“遭遇大幅拋售”的現象，也可以被視為一個健康的訊號。"
-    },
-    {
-      "id": "te:economy:563038",
-      "time": "2026-06-30 22:09:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Chicago PMI",
-        "Importance 1"
-      ],
-      "text": "Chicago Business Activity Slows in June — The Chicago Business Barometer fell to 56.7 in June 2026 from 62.7 in the previous month. The decline was driven by weaker new orders, which remained in expansion for a second consecutive month, and slowing production that nearly reversed the previous month's gain. The downturn was partly offset by increases in supplier deliveries, reflecting longer lead times linked to the Middle East conflict, as well as gains in order backlogs and employment. Meanwhile, prices paid edged higher, driven by rising oil and metal prices."
-    },
-    {
-      "id": "4963220",
-      "time": "2026-06-30 22:09:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數盤中漲幅擴大至3%】費城半導體指數盤中漲幅擴大至3%，英偉達漲近2%，臺積電漲超2%，AMD漲超3%，英特爾漲近5%，應用材料漲超4%。"
-    },
-    {
-      "id": "4963219",
-      "time": "2026-06-30 22:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿斯麥股價續刷記錄新高】阿斯麥股價漲超4%，報1973.53美元/股，續刷記錄新高。"
-    },
-    {
-      "id": "4963218",
-      "time": "2026-06-30 22:08:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "易捷航空股價下跌，最新跌幅達6.7%。"
     }
   ]
 }
