@@ -1,7 +1,32 @@
 {
   "date": "2026-07-08",
-  "count": 153,
+  "count": 156,
   "items": [
+    {
+      "id": "mkt:019f3de6-fc35-7aab-8cd5-13adddb7f0a9",
+      "time": "2026-07-08 02:46:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Monetary Fund managing director Kristalina Georgieva has appointed Silvana Tenreyro as Economic Counsellor and Director of the Research Department."
+    },
+    {
+      "id": "4974847",
+      "time": "2026-07-08 02:46:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國發布修訂版涉伊朗通用許可。"
+    },
+    {
+      "id": "mkt:019f3de6-122a-7aab-8cd5-0d50c3ea0ace",
+      "time": "2026-07-08 02:45:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Lebanon's Shia Supreme Islamic Council deputy chairman Ali Hatib met with Iranian foreign minister Araghchi."
+    },
     {
       "id": "4974846",
       "time": "2026-07-08 02:42:50",

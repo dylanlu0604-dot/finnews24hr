@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-08 02:44:08",
-  "count": 15856,
+  "updated": "2026-07-08 02:47:54",
+  "count": 15849,
   "items": [
+    {
+      "id": "mkt:019f3de6-fc35-7aab-8cd5-13adddb7f0a9",
+      "time": "2026-07-08 02:46:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Monetary Fund managing director Kristalina Georgieva has appointed Silvana Tenreyro as Economic Counsellor and Director of the Research Department."
+    },
+    {
+      "id": "4974847",
+      "time": "2026-07-08 02:46:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國發布修訂版涉伊朗通用許可。"
+    },
+    {
+      "id": "mkt:019f3de6-122a-7aab-8cd5-0d50c3ea0ace",
+      "time": "2026-07-08 02:45:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Lebanon's Shia Supreme Islamic Council deputy chairman Ali Hatib met with Iranian foreign minister Araghchi."
+    },
     {
       "id": "4974846",
       "time": "2026-07-08 02:42:50",
@@ -145396,105 +145421,6 @@
         "國際"
       ],
       "text": "【瑞穗銀行：若當局不出手干預 日元兌美元料跌至170區間】瑞穗銀行策略師表示，除非當局出手支撐日元，否則日元兌美元的匯率可能會跌向170區間。“我們必須回顧1986年，尋找需要考慮的潛在障礙，”瑞穗的Jordan Rochester和Masayuki Nakajima週二在一份研究報告中寫道，並提及1986年11月5日164.50的水平。“在觸及這一水平之前，幾乎沒有重要阻力。若超出這一水平，如果當局不出手干預，之後匯率可能進一步跌向170區間”。日元週一跌至40年低點，促使交易員揣測日本出手干預的下一道紅線在哪裡。"
-    },
-    {
-      "id": "4963602",
-      "time": "2026-07-01 02:47:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶72.92美元，下跌23美分，跌幅0.31%。"
-    },
-    {
-      "id": "mkt:019f19db-5ef0-7aab-8c40-928b0bda3ca8",
-      "time": "2026-07-01 02:47:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $72.92/bbl, down $0.23 or 0.31%."
-    },
-    {
-      "id": "4963601",
-      "time": "2026-07-01 02:47:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫表示，除非備忘錄規定的條件得到滿足，否則伊朗不會開啟進一步談判。"
-    },
-    {
-      "id": "mkt:019f19da-d042-7aab-8c40-899b1a099895",
-      "time": "2026-07-01 02:46:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US crude oil futures settled at $69.50 per barrel, down $1.25 or 1.77%."
-    },
-    {
-      "id": "4963600",
-      "time": "2026-07-01 02:46:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及南部翻車事故致至少9名兒童死亡】埃及南部艾斯尤特省一輛機動三輪車30日墜入水渠，造成車上至少9名兒童死亡，另有2人受傷。 據艾斯尤特省政府當日釋出的宣告，事故發生後，相關部門赴現場處置。該省省長穆罕默德·阿勒萬在現場督導搜救工作，責令在水渠兩側加裝混凝土護欄及增設其他防護設施，以防範類似事故再次發生。（新華社）"
-    },
-    {
-      "id": "4963599",
-      "time": "2026-07-01 02:46:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家航空航天局局長賈裡德·艾薩克曼宣佈：NASA已根據月球基地計劃，向天體機器人公司、螢火蟲航空航天公司與直覺機器公司授予無人月球著陸器合同。"
-    },
-    {
-      "id": "4963598",
-      "time": "2026-07-01 02:45:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡里巴夫表示，伊朗目前舉行的會談旨在履行備忘錄承諾。"
-    },
-    {
-      "id": "mkt:019f19d9-52de-7aab-8c40-80208ba80cb5",
-      "time": "2026-07-01 02:45:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "The Central Bank of the Dominican Republic left its benchmark policy rate unchanged at 5.25%."
-    },
-    {
-      "id": "mkt:019f19d9-0575-7aab-8c40-7ac786884178",
-      "time": "2026-07-01 02:44:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services (AWS) said ANTHROPIC's newly launched Claude Sonnet 5 model is now available on Amazon Bedrock and the Claude platform on AWS."
-    },
-    {
-      "id": "4963597",
-      "time": "2026-07-01 02:44:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技（AWS）：Anthropic的Claude Sonnet 5現已在Amazon Bedrock與AWS的Claude平臺上線可用。"
     }
   ]
 }
