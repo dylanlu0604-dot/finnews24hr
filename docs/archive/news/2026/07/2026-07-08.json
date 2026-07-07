@@ -1,7 +1,57 @@
 {
   "date": "2026-07-08",
-  "count": 487,
+  "count": 492,
   "items": [
+    {
+      "id": "4975074",
+      "time": "2026-07-08 06:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月08日06時48分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.2級地震，震源深度8千米。"
+    },
+    {
+      "id": "mkt:019f3ec8-358b-7aab-8cd8-1ea9cdec38b3",
+      "time": "2026-07-08 06:52:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "An adviser to Ukraine's interior minister said a drone attack in Russia's Voronezh region set the Borisoglebsk air base ablaze, and that Ukraine is continuing to degrade Russia's military capability."
+    },
+    {
+      "id": "4975073",
+      "time": "2026-07-08 06:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "在世界盃十六強賽中，瑞士隊透過點球大戰以4-3擊敗哥倫比亞隊。"
+    },
+    {
+      "id": "4975072",
+      "time": "2026-07-08 06:50:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本政府擬修改貨幣政策相關表述】日本朝日新聞援引匿名官員訊息稱，日本政府正考慮修改年度經濟財政基本方針中有關貨幣政策的措辭，該方針將制定日本下一年度的經濟與財政工作規劃。此次修改的背景是市場投資者認為方針草案原有表述暗含施壓日本央行的意味。"
+    },
+    {
+      "id": "te:markets:564987",
+      "time": "2026-07-08 06:50:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls Ahead of RBNZ Decision — The NZX 50 dropped 42 points, or 0.3%, to 13,720 in Wednesday morning trade, after being flat in the previous session, pulling back from a record high reached over the previous two consecutive sessions, as traders remained cautious ahead of the RBNZ's monetary policy decision due later today. The market expects the central bank to raise its policy rate by 25 bps to 2.5%. Traders also anticipated the release of the Fed's June meeting minutes for guidance on the outlook for interest rates. Rising oil prices also pressured sentiment, as inflation concerns raised expectations of further interest rate hikes. Financials, healthcare, technology, and utilities mainly weighed on the index. Fisher & Paykel Healthcare dropped 2.0%, Ebos Group fell 1.2%, Mainfreight lost 1.0%, Infratil declined 0.6%, and F&C Investment went down 0.4%."
+    },
     {
       "id": "mkt:019f3ec3-ea82-7aab-8cd8-1272f455a0e0",
       "time": "2026-07-08 06:47:34",
