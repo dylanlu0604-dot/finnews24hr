@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-08 09:14:03",
-  "count": 15918,
+  "updated": "2026-07-08 09:18:02",
+  "count": 15917,
   "items": [
+    {
+      "id": "mkt:019f3f4b-c8d0-7aab-8cda-a9fb8ccac3cc",
+      "time": "2026-07-08 09:15:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.08% at 23,493, trading 4 points below spot."
+    },
+    {
+      "id": "4975283",
+      "time": "2026-07-08 09:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪捐贈1000萬元馳援廣西災區。"
+    },
+    {
+      "id": "mkt:019f3f4b-6a9d-7aab-8cda-a777e564bac5",
+      "time": "2026-07-08 09:15:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Bank of Japan loan growth fastest since pandemic, bolstering case for further BOJ hikes】Japan’s seasonally adjusted bank lending excluding trusts rose 6.3% YoY in June, the strongest pace since August 2020, driven by M&A, real estate and recovery-related loans, the BOJ said. The central bank said the data show credit channels remain open, reinforcing its view that financial conditions are still accommodative even after Governor Ueda raised the policy rate to its highest since 1995 last month. The BOJ cautioned the latest lending figures may not yet reflect the June rate rise; policymakers have repeatedly cited financial conditions as a key input when weighing further tightening. Robust loan demand suggests higher borrowing costs have not curbed corporate investment or household activity, supporting the case that the economy can absorb additional policy normalization. The BOJ’s Tankan showed corporate financial conditions improved for the first time in a year, and large firms reported easier commercial paper issuance conditions."
+    },
+    {
+      "id": "4975282",
+      "time": "2026-07-08 09:15:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8077，較上日調低23點】人民幣兌美元中間價報6.8077，較上日調低23點。"
+    },
+    {
+      "id": "4975281",
+      "time": "2026-07-08 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8077元。"
+    },
+    {
+      "id": "4975280",
+      "time": "2026-07-08 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.00%，報23473.24點，低水23.65點。"
+    },
+    {
+      "id": "4975279",
+      "time": "2026-07-08 09:14:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通上調智普目標價】摩根大通上調智普科技的目標股價，理由是該公司能夠透過開源戰略在全球範圍內擴大規模，同時下調了競爭對手MiniMax的目標股價。摩根大通將智普目標價從1800港元上調至2000港元，維持“增持”評級。此外，該券商下調了MiniMax目標價位，稱市場已轉變為“贏家通吃”的局面，而其最新的M3模型尚未展現出足夠的定價能力。摩根大通將MiniMax目標價從400港元下調至300港元，維持中性評級。"
+    },
+    {
+      "id": "te:markets:565022",
+      "time": "2026-07-08 09:13:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Under Pressure on Wall Street Weakness, China Caution — Australian stocks fell 116 points, or 1.3%, to 8,688 in Wednesday morning trade, extending losses for a third consecutive session and touching their lowest level in a week. Sentiment weakened after a negative lead from Wall Street overnight, where a broad selloff in U.S. chipmakers reflected growing concerns over the sustainability of the AI-driven rally. Investors also remained cautious ahead of China's June CPI and PPI data due later this week, with the readings expected to provide fresh clues on demand in Australia's largest trading partner. Meanwhile, markets awaited the minutes of the Federal Reserve's June meeting for further guidance on the U.S. interest rate outlook. Losses were broad-based, led by technology, materials, communication services, and financial stocks. Mining heavyweight BHP Group dropped 2.9%, while Evolution Mining slid 3.8%, Telstra lost 3.1%, and Macquarie Group fell 2.4%. The four major banks also traded lower, declining between 1.0% and 1.7%."
+    },
+    {
+      "id": "4975278",
+      "time": "2026-07-08 09:13:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月08日09時08分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，本島南部海面08日09時08分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
+    },
     {
       "id": "4975277",
       "time": "2026-07-08 09:12:46",
@@ -145822,93 +145908,6 @@
         "市場"
       ],
       "text": "【大限已至 7月1日起貨幣經紀商對未簽署付費服務協議的機構或停止債券報價服務】中國人民銀行此前公佈《銀行間市場經紀業務管理辦法》，自2026年1月1日起實施。其中提到，針對本辦法實施後新接受的委託，經紀機構應當按要求籤署服務協議。對於本辦法實施前產生的委託，經紀機構應當在2026年7月1日前與委託方補充簽署服務協議，並達到本辦法規定的條件。上海國利貨幣經紀有限公司等多家經紀機構此前釋出推進貨幣經紀服務協議與費率表簽署的提示函，誠請各公司基於平等互利原則，儘快就《貨幣經紀服務協議》達成一致並完成簽署。若未能及時規範簽署，雙方在開展相關產品經紀業務時均將面臨合規風險，後續服務的正常連續開展亦可能受到影響。國家金融監督管理總局《貨幣經紀公司管理辦法》(2025年第6號)第二十一條明確規定，貨幣經紀公司提供經紀服務應與客戶簽訂服務協議，約定服務內容、期限、費率等事項，金融機構應當配合貨幣經紀公司遵守相關規定，維護市場公平秩序。"
-    },
-    {
-      "id": "4963926",
-      "time": "2026-07-01 09:17:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3990美元/盎司，日內跌1.22%。"
-    },
-    {
-      "id": "4963925",
-      "time": "2026-07-01 09:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌2%。"
-    },
-    {
-      "id": "4963924",
-      "time": "2026-07-01 09:16:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報57.97美元/盎司。"
-    },
-    {
-      "id": "4963923",
-      "time": "2026-07-01 09:16:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2666.00點。"
-    },
-    {
-      "id": "4963922",
-      "time": "2026-07-01 09:16:09",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國政府否認有關設立新智庫以利用晶片巨頭超額利潤的傳言】韓國產業通商資源部週三否認了有關政府推動成立一個新智庫，專門統籌利用全球人工智慧熱潮為晶片企業帶來的鉅額利潤的傳言。韓國產業通商資源部在一份宣告中表示：“網上流傳的有關首爾已致函三星電子和SK海力士，要求成立一個政府主導的、與利潤分享相關的智庫的傳言完全是虛假的。”韓國產業通商資源部補充道：“我們將採取強硬措施，打擊惡意傳播此類誤導性資訊的行為，並將此事移交調查機關。”"
-    },
-    {
-      "id": "4963921",
-      "time": "2026-07-01 09:16:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【烏蘭察布算力規模佔全國8.7% 承接北京外溢算力6.5萬P】6月30日，“風光無限綠動未來”2026現代能源經濟(內蒙古)思客會在呼和浩特舉行。烏蘭察布市副市長高永斌在會上透露，該市在全國算電協同領域已實現六項率先突破，算力產業規模與綠電消納能力同步提升。在算力規模方面，截至2026年上半年，烏蘭察布簽約資料中心專案89個，算力執行規模達16.5萬P，智慧算力佔比超90%，佔全國總量8.7%，承接北京外溢算力6.5萬P。萬國資料已簽約5年超300億元算力投資計劃。中金基地還落地國內首套算力能源一體化調控平臺，實現算力負載與新能源發電波動的自主匹配。"
-    },
-    {
-      "id": "4963920",
-      "time": "2026-07-01 09:15:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江豐電子投資成立半導體材料新公司】企查查APP顯示，近日，紹興晶豐光曜半導體材料有限公司成立，經營範圍包含電子專用材料製造；電子專用材料銷售；電子專用材料研發等。企查查股權穿透顯示，該公司由江豐電子全資持股。"
-    },
-    {
-      "id": "4963919",
-      "time": "2026-07-01 09:15:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8067，較上日調高42點】人民幣兌美元中間價報6.8067，較上日調高42點。"
-    },
-    {
-      "id": "4963918",
-      "time": "2026-07-01 09:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8067元。"
-    },
-    {
-      "id": "mkt:019f1b3e-2511-7aab-8c47-64aa48a24afc",
-      "time": "2026-07-01 09:14:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL restarts 100,000 tpa lithium carbonate capacity】CATL received a safety production permit for the Jianxiawo lithium mine on June 29, and media confirmed on June 30 that the mine resumed production late on June 29. Industry sources estimate Jianxiawo’s lithium carbonate capacity at about 100,000 tpa; the restart is expected to help stabilize upstream feedstock supply for the lithium battery chain."
     }
   ]
 }
