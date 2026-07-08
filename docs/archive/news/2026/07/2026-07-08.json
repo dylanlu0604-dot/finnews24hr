@@ -1,7 +1,296 @@
 {
   "date": "2026-07-08",
-  "count": 3493,
+  "count": 3522,
   "items": [
+    {
+      "id": "4977235",
+      "time": "2026-07-08 23:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國將為邁爾造船廠提供最高115億歐元擔保。"
+    },
+    {
+      "id": "mkt:019f425d-0f0f-7aab-8cf7-3b6c660acdaa",
+      "time": "2026-07-08 23:33:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 4-month Treasury auction through July 8: share allocated at the stop-out rate 80.43%, previous 57.66%."
+    },
+    {
+      "id": "mkt:019f425d-0324-7aab-8cf7-345426eba91e",
+      "time": "2026-07-08 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-month Treasury auction through July 8 reported a bid-cover ratio of 3.41, up from 2.66 previously."
+    },
+    {
+      "id": "mkt:019f425c-eb25-7aab-8cf7-2ef18e561e16",
+      "time": "2026-07-08 23:33:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction July 8 — stop-out yield 3.79%, prior 3.80%."
+    },
+    {
+      "id": "mkt:019f425c-d6f4-7aab-8cf7-254dd8180e43",
+      "time": "2026-07-08 23:33:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.8) | actual 3.41 | previous 2.66"
+    },
+    {
+      "id": "mkt:019f425c-c422-7aab-8cf7-189809bc568b",
+      "time": "2026-07-08 23:33:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.8) | actual 3.79% | previous 3.80%"
+    },
+    {
+      "id": "4977234",
+      "time": "2026-07-08 23:33:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：維持中期看漲觀點，預計銅價將從9月起上行。"
+    },
+    {
+      "id": "4977233",
+      "time": "2026-07-08 23:33:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基顧問稱，澤連斯基、特朗普與敘利亞領導人沙拉進行了簡短會談。"
+    },
+    {
+      "id": "4977232",
+      "time": "2026-07-08 23:33:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：從奧巴馬乃至前後兩任布什總統開始，歷屆美國總統一再提出北約防務分攤問題，卻始終收效甚微。特朗普採取了截然不同的處理方式，成效有目共睹。如今我們各國都加大了防務投入。歐洲坐享他人防務紅利的時代已經落幕。"
+    },
+    {
+      "id": "4977231",
+      "time": "2026-07-08 23:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌3%，現報4032.59美元/盎司。"
+    },
+    {
+      "id": "4977230",
+      "time": "2026-07-08 23:32:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.790%，投標倍數3.41。"
+    },
+    {
+      "id": "4977229",
+      "time": "2026-07-08 23:32:17",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌1.76%，歐元斯托克指數下跌1.89%，歐元區藍籌股指數下跌2.02%。英國富時100指數下跌1.84%，德國DAX指數下跌2.35%，法國CAC 40指數下跌2.33%，西班牙IBEX指數下跌3.01%。"
+    },
+    {
+      "id": "mkt:019f425b-b663-7aab-8cf7-17ddbd7f8383",
+      "time": "2026-07-08 23:32:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP expects average copper price in Q4 2026 to be $14,500/ton."
+    },
+    {
+      "id": "mkt:019f425b-7edb-7aab-8cf7-0d9f80983e40",
+      "time": "2026-07-08 23:32:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russian government says diesel export ban will remain in place until July 31."
+    },
+    {
+      "id": "4977228",
+      "time": "2026-07-08 23:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非股市下跌1.8%。"
+    },
+    {
+      "id": "mkt:019f425b-12ca-7aab-8cf7-0076619f98f4",
+      "time": "2026-07-08 23:31:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Asian Development Bank kept its 2026 Japan growth forecast at 0.7% and raised its 2027 forecast to 0.8%."
+    },
+    {
+      "id": "4977227",
+      "time": "2026-07-08 23:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "世貿組織爭端解決專家組裁定，歐盟對印尼脂肪酸進口的反傾銷幅度計算方法不符合反傾銷協定規定。"
+    },
+    {
+      "id": "mkt:019f425a-fbd1-7aab-8cf6-fc6cfbd8f069",
+      "time": "2026-07-08 23:31:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "Nikkei 225"
+      ],
+      "text": "Asian Development Bank cuts 2026 growth forecast for developing Asia to 4.9% from 5.1%."
+    },
+    {
+      "id": "4977226",
+      "time": "2026-07-08 23:31:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其股市下跌2.1%。"
+    },
+    {
+      "id": "mkt:019f425a-d143-7aab-8cf6-f1ec17ab6493",
+      "time": "2026-07-08 23:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Asian Development Bank lowers India's 2026 GDP growth forecast to 6.6% from 6.9%."
+    },
+    {
+      "id": "4977225",
+      "time": "2026-07-08 23:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨金擴大跌幅，最新下跌近2%，報每盎司4,022.99美元。"
+    },
+    {
+      "id": "mkt:019f425a-bc96-7aab-8cf6-ee49ce660c5f",
+      "time": "2026-07-08 23:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Asian Development Bank maintains 2027 inflation forecast for developing Asia at 3.4%."
+    },
+    {
+      "id": "4977224",
+      "time": "2026-07-08 23:31:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯政府：柴油出口禁令將持續至7月31日。"
+    },
+    {
+      "id": "mkt:019f425a-96a8-7aab-8cf6-e51575fae5f6",
+      "time": "2026-07-08 23:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold down 2.00% intraday at $4,024.17/oz."
+    },
+    {
+      "id": "4977223",
+      "time": "2026-07-08 23:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4023.40美元/盎司。"
+    },
+    {
+      "id": "te:markets:565350",
+      "time": "2026-07-08 23:30:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold is down by 2% — Gold decreased 2% to 4023.55 USD/t.oz"
+    },
+    {
+      "id": "4977222",
+      "time": "2026-07-08 23:30:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌6%，現報57.64美元/盎司。"
+    },
+    {
+      "id": "mkt:019f425a-0acf-7aab-8cf6-dec754f30115",
+      "time": "2026-07-08 23:30:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US official: follow-up strike plan still being developed】CNN reported a US official familiar with an ongoing military review said the situation remains highly dynamic and planners are still deciding how to carry out the next round of strikes on Iran. The official said US forces carried out nighttime sea- and land-based strikes on Iranian targets near the Strait of Hormuz that degraded Iran’s ability to attack vessels using the Oman route; afterwards Iran continued to harass shipping by radio but mounted no further attacks on ships today."
+    },
+    {
+      "id": "te:economy:565349",
+      "time": "2026-07-08 23:30:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (13bps), France 10Y (12.99bps), United Kingdom 10Y (12.84bps), Germany 10Y (9.95bps), US 10Y (4.30bps) and Japan 10Y (3.62bps)."
+    },
     {
       "id": "4977221",
       "time": "2026-07-08 23:29:46",
