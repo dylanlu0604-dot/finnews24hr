@@ -1,7 +1,302 @@
 {
-  "updated": "2026-07-09 00:47:30",
-  "count": 15920,
+  "updated": "2026-07-09 01:00:27",
+  "count": 15929,
   "items": [
+    {
+      "id": "4977396",
+      "time": "2026-07-09 00:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前威斯康星州法官因妨礙移民逮捕被定罪 但獲判無需入獄。"
+    },
+    {
+      "id": "mkt:019f42aa-b7ee-7aab-8cfa-0f2471914691",
+      "time": "2026-07-09 00:58:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Swiss National Bank chairman said a sharp rise in energy prices is the primary risk to global economic growth."
+    },
+    {
+      "id": "4977395",
+      "time": "2026-07-09 00:58:18",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "瑞士央行行長：能源價格強勁上漲是全球經濟發展的主要風險。"
+    },
+    {
+      "id": "4977394",
+      "time": "2026-07-09 00:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：呼籲各方恪守伊斯蘭堡諒解備忘錄項下作出的承諾。"
+    },
+    {
+      "id": "4977393",
+      "time": "2026-07-09 00:57:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【西江梧州水文站出現21.71米的洪峰水位 超警3.21米】記者從廣西梧州水文中心獲悉， 潯江龍圩水文站於7月8日21時出現22.55米的洪峰水位（警戒水位19.0米），超警3.55米；西江梧州水文站於7月8日23時25分出現21.71米的洪峰水位（警戒水位18.5米），超警3.21米，相應流量37900立方米每秒。（央視新聞）"
+    },
+    {
+      "id": "4977392",
+      "time": "2026-07-09 00:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國正在霍爾木茲海峽製造事端，伊朗將維護自身利益。"
+    },
+    {
+      "id": "mkt:019f42a9-3e2c-7aab-8cfa-05cc0a20ed88",
+      "time": "2026-07-09 00:56:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said the memorandum of understanding with the United States is not based on trust but on an explicit 'commitment-for-commitment' mechanism."
+    },
+    {
+      "id": "mkt:019f42a9-3c90-7aab-8cf9-f9563fa72d33",
+      "time": "2026-07-09 00:56:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says oil supply glut will end; oil prices to fall】US President Trump said the US is facing an oil supply glut and that he wants to keep oil prices low. He said the glut will end soon and oil prices will fall, and pledged to make oil supplies more secure."
+    },
+    {
+      "id": "mkt:019f42a8-e6cd-7aab-8cf9-f4aa5f5a97c0",
+      "time": "2026-07-09 00:56:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry said it remains prepared to continue playing a mediating role."
+    },
+    {
+      "id": "mkt:019f42a8-d6fa-7aab-8cf9-ec4a3dcf7326",
+      "time": "2026-07-09 00:56:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said there is no alternative to continued engagement, dialogue and diplomacy to achieve the shared goal of regional peace."
+    },
+    {
+      "id": "4977391",
+      "time": "2026-07-09 00:56:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與美國之間的諒解備忘錄並非建立在互信基礎之上，而是基於“以承諾換承諾”的明確機制。"
+    },
+    {
+      "id": "4977390",
+      "time": "2026-07-09 00:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴方仍準備繼續在該事務中發揮自身作用。"
+    },
+    {
+      "id": "4977389",
+      "time": "2026-07-09 00:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦：要實現地區和平這一共同目標，除了持續接觸、對話與外交斡旋之外別無他法。"
+    },
+    {
+      "id": "4977388",
+      "time": "2026-07-09 00:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及土耳其： 土耳其實力強勁，是北約內部綜合實力第二強的國家。"
+    },
+    {
+      "id": "mkt:019f42a7-b154-7aab-8cf9-e467720cf80c",
+      "time": "2026-07-09 00:55:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry urged all parties to exercise restraint and avoid actions that could further undermine regional peace and stability."
+    },
+    {
+      "id": "mkt:019f42a7-9f79-7aab-8cf9-d963caaafe38",
+      "time": "2026-07-09 00:55:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Pakistan's foreign ministry expressed deep concern over escalating tensions in the Middle East."
+    },
+    {
+      "id": "mkt:019f42a7-84f6-7aab-8cf9-d19573d1c8d5",
+      "time": "2026-07-09 00:55:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry urged all parties to adhere to commitments in the memorandum of understanding."
+    },
+    {
+      "id": "4977387",
+      "time": "2026-07-09 00:54:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦：呼籲各方保持克制，避免採取任何可能進一步破壞地區和平與穩定的行動。"
+    },
+    {
+      "id": "4977386",
+      "time": "2026-07-09 00:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦：對中東地區局勢緊張升級深表關切。"
+    },
+    {
+      "id": "4977385",
+      "time": "2026-07-09 00:54:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：敦促各方遵守諒解備忘錄中的承諾。"
+    },
+    {
+      "id": "4977384",
+      "time": "2026-07-09 00:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國聯邦議院議員批准蒂森克虜伯海事系統120億歐元軍艦採購大單。"
+    },
+    {
+      "id": "4977383",
+      "time": "2026-07-09 00:53:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國聯邦議院議員批准赫爾辛公司2.23億歐元作戰雲專案合同。"
+    },
+    {
+      "id": "4977382",
+      "time": "2026-07-09 00:53:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國聯邦議院議員批准萊茵金屬4.62億歐元鐳射武器採購合同。"
+    },
+    {
+      "id": "4977381",
+      "time": "2026-07-09 00:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱他不確定是否想與伊朗達成協議】美國總統特朗普在談及伊朗時表示：“我不確定自己還想不想和他們達成協議。”他還說：“我們可以繼續玩這些遊戲，但我不確定我還想達成協議，不如就把事情徹底解決。”"
+    },
+    {
+      "id": "mkt:019f42a3-0c06-7aab-8cf9-cb5fe5b9e13b",
+      "time": "2026-07-09 00:50:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 10-year Treasury auction stop-out yield and bid-cover ratio to be announced in 10 minutes."
+    },
+    {
+      "id": "4977380",
+      "time": "2026-07-09 00:49:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美銀向OpenAI提供5.2億美元授信額度 希望在IPO中爭取一席之地】據知情人士透露，美國銀行最近幾周向OpenAI提供了5.2億美元信貸額度，此前該行曾拒絕這家人工智慧巨頭的請求。這項交易顯示，這家美國第二大銀行及其對風險頗為謹慎的執行長Brian Moynihan，對持續虧損、卻正推動全球市場走勢的人工智慧初創企業的態度出現顯著轉變。就在去年，該行高管仍懷疑，資本支出規模如此驚人的這些公司能否維持其商業模式。"
+    },
+    {
+      "id": "mkt:019f42a2-9c6e-7aab-8cf9-c3a13b7b0833",
+      "time": "2026-07-09 00:49:40",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) to launch a curated video service in the US, Canada, UK, Ireland, Australia and New Zealand."
+    },
+    {
+      "id": "mkt:019f42a2-857e-7aab-8cf9-b8bd6f194162",
+      "time": "2026-07-09 00:49:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI rolls out next-generation ChatGPT voice capability."
+    },
+    {
+      "id": "mkt:019f42a1-b172-7aab-8cf9-b708daf50f0b",
+      "time": "2026-07-09 00:48:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Erdogan kept Turkey neutral at his request and did not take part in a war with Iran."
+    },
+    {
+      "id": "4977379",
+      "time": "2026-07-09 00:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "奈飛：精選定製影片將在美國、加拿大、英國、愛爾蘭、澳大利亞及紐西蘭上線。"
+    },
+    {
+      "id": "4977378",
+      "time": "2026-07-09 00:48:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛：8月3日起，所有訂閱層級的奈飛會員均可觀看來自頂級數字媒體品牌的精選影片。"
+    },
+    {
+      "id": "4977377",
+      "time": "2026-07-09 00:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：應我的請求，土耳其總統埃爾多安已讓土耳其置身伊朗戰爭之外。"
+    },
+    {
+      "id": "mkt:019f42a0-736e-7aab-8cf9-abb49916ae4e",
+      "time": "2026-07-09 00:47:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump: Will not enter a second war with Iran; not seeking a prolonged conflict】President Trump said he believes a war with Iran could break out again but any such conflict would end quickly; the U.S. is not seeking a long war. He warned the U.S. would retaliate if Iran attacked and said any military action would be carried out swiftly."
+    },
     {
       "id": "4977375",
       "time": "2026-07-09 00:46:35",
@@ -145202,224 +145497,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示，伊美雙方將搭建溝通渠道，用於通報、磋商違反伊美諒解備忘錄的相關事宜。"
-    },
-    {
-      "id": "4965810",
-      "time": "2026-07-02 01:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥經濟部長：我們將於 7 月 20 日再度與美國貿易代表磋商《美墨加協定》相關事宜。"
-    },
-    {
-      "id": "4965809",
-      "time": "2026-07-02 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收漲0.07%，滬鋁收平，滬鋅收跌0.47%，滬鉛收跌0.57%，滬鎳收跌0.10%，滬錫收漲0.99%。氧化鋁夜盤收漲0.11%，鋁合金收漲0.40%。不鏽鋼夜盤收跌0.54%。"
-    },
-    {
-      "id": "4965808",
-      "time": "2026-07-02 01:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約訊息人士：北約將於安卡拉峰會宣佈，歐洲盟國已補齊美國在聯盟防務計劃中留下的幾乎所有缺口。 北約防務計劃中目前的主要缺口在於戰略轟炸機。"
-    },
-    {
-      "id": "mkt:019f1e9f-489c-7aab-8c63-dac0c5829f96",
-      "time": "2026-07-02 00:59:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported Iran's deputy foreign minister said Tehran will set up communication channels to report and discuss violations of the Iran–U.S. memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f1e9f-0b74-7aab-8c63-d5133b8d8b3d",
-      "time": "2026-07-02 00:59:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's economy minister EBRARD said U.S. trade representative GREER indicated the U.S. wants to review the USMCA annually for the next 10 years. Mexico will meet GREER again on July 20 to discuss the USMCA."
-    },
-    {
-      "id": "4965807",
-      "time": "2026-07-02 00:59:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗副外長表示卡達會談已結束。"
-    },
-    {
-      "id": "4965806",
-      "time": "2026-07-02 00:58:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 美國參議院共和黨領袖圖恩有權解僱參議院議事顧問，現在就該動手。"
-    },
-    {
-      "id": "mkt:019f1e9d-ebd5-7aab-8c63-ce23200b27aa",
-      "time": "2026-07-02 00:58:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO sources said the alliance will announce at the Ankara summit that European allies have filled nearly all gaps left by the US in NATO's defense plans."
-    },
-    {
-      "id": "4965805",
-      "time": "2026-07-02 00:57:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：美伊間接會談進展順利 核問題相關討論將很快開始】當地時間7月1日，美國副總統萬斯表示，美國和伊朗當天在卡達首都多哈舉行的間接技術性會談“進展順利”，有關核問題的討論將很快開始。萬斯說，目前技術談判人員正在多哈與伊朗、卡達方面討論相關細節。萬斯表示：“我們擔心核問題，我們將開始討論這個問題，現在談判進展順利。”（央視新聞）"
-    },
-    {
-      "id": "4965804",
-      "time": "2026-07-02 00:57:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：參議院為何不解僱議會法律顧問，我實在無法理解。"
-    },
-    {
-      "id": "4965803",
-      "time": "2026-07-02 00:56:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥經濟部長：美國貿易代表格里爾稱，美方希望未來十年每年對《美墨加協定》開展複審。"
-    },
-    {
-      "id": "mkt:019f1e9a-c0e2-7aab-8c63-c37c6e19c72f",
-      "time": "2026-07-02 00:54:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative said the United States has not agreed to extend the U.S.-Mexico-Canada Agreement (USMCA) in its current form."
-    },
-    {
-      "id": "mkt:019f1e9a-b40c-7aab-8c63-bf82a9c18485",
-      "time": "2026-07-02 00:54:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. Trade Representative said Trump's trade policies have already superseded many provisions of the US-Mexico-Canada Agreement (USMCA)."
-    },
-    {
-      "id": "mkt:019f1e9a-9aa9-7aab-8c63-b0eccda1a66d",
-      "time": "2026-07-02 00:54:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Trade Representative said the agreement remains in effect until these issues are resolved or the agreement is terminated."
-    },
-    {
-      "id": "4965802",
-      "time": "2026-07-02 00:54:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌76美元，報13298美元/噸。LME期鋁收跌10美元，報3076美元/噸。LME期鋅收跌52美元，報3499美元/噸。LME期鉛收跌10美元，報1866美元/噸。LME期鎳收漲68美元，報16355美元/噸。LME期錫收漲62美元，報51632美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "4965801",
-      "time": "2026-07-02 00:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表： 特朗普的貿易政策實際上已取代《美墨加協定》多項內容。"
-    },
-    {
-      "id": "4965800",
-      "time": "2026-07-02 00:54:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表：美國不同意按現有版本續簽《美墨加協定》， 在相關問題解決或協定終止前，該協定持續有效。美國將繼續與墨西哥和加拿大開展磋商，以解決該協定的不足之處以及我們與這些國家的貿易逆差問題。"
-    },
-    {
-      "id": "mkt:019f1e99-595a-7aab-8c63-af913c71629c",
-      "time": "2026-07-02 00:53:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative said the U.S. will continue consultations with Mexico and Canada to address shortcomings in the agreement and U.S. trade deficits with those countries."
-    },
-    {
-      "id": "4965799",
-      "time": "2026-07-02 00:52:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據AXIOS：美國在多哈談判中試圖勸說伊朗放棄霍爾木茲海峽“通行收費”機制。"
-    },
-    {
-      "id": "mkt:019f1e98-0c47-7aab-8c63-a4f2fbb883e8",
-      "time": "2026-07-02 00:51:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reports the US sought in Doha talks to persuade Iran to abandon a proposed \"transit fee\" for passage through the Strait of Hormuz."
-    },
-    {
-      "id": "4965798",
-      "time": "2026-07-02 00:48:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期從2.5%下調至1.2%。"
-    },
-    {
-      "id": "4965797",
-      "time": "2026-07-02 00:48:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "斯泰蘭蒂斯集團（StellantisNV）6月總銷量同比增長10%‌，公司上半年在美國售出634,187輛汽車。"
-    },
-    {
-      "id": "mkt:019f1e95-1214-7aab-8c63-9cf249161f2a",
-      "time": "2026-07-02 00:48:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Atlanta Fed GDPNow trimmed its estimate for second-quarter real GDP growth to 1.2% from 2.5%."
-    },
-    {
-      "id": "te:markets:563529",
-      "time": "2026-07-02 00:48:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Drop from Records — European stocks eased from records on Wednesday as a fresh pullback for chip producers offset support from an improving macroeconomic backdrop. The Euro STOXX 50 dropped 0.6% to 5, and the STOXX Europe 600 fell 0.4% to 640. ASML and Infineon fell 4.6% each, tracking the AI infrastructure sector globally amid fresh uncertainty on whether the historical rally for chip producers has been overdone. Other companies with exposure to data centers and their power declined, with Siemens, Schneider, and Siemens Energy dropping between 3.1% and 1.5%. In turn, the software side rallied on respite from US hyperscaler giants. Also, banks were mostly higher as softer-than-expected inflation in the Eurozone limited expectations of another rate hike by the ECB this year. UniCredit added 0.6% and Deutsche Bank jumped 0.4%. The bloc's inflation rate fell to 2.8%, below expectations of 3%, and the core gauged fell to 2.4%."
     }
   ]
 }
