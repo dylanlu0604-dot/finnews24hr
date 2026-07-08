@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-09 06:10:58",
-  "count": 16122,
+  "updated": "2026-07-09 06:14:49",
+  "count": 16123,
   "items": [
+    {
+      "id": "mkt:019f43cb-69d0-7aab-8cff-7b7b5efff77f",
+      "time": "2026-07-09 06:13:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV, citing local sources, reported explosions at the terminal and runway of Shah Airport in Iran."
+    },
+    {
+      "id": "4977654",
+      "time": "2026-07-09 06:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，美國多州最快下週或將提起訴訟，阻止派拉蒙與華納兄弟的交易。"
+    },
+    {
+      "id": "mkt:019f43c9-0e42-7aab-8cff-702070019aec",
+      "time": "2026-07-09 06:11:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell three ticks, while fed funds futures price in 38bp of Fed tightening by December."
+    },
     {
       "id": "4977653",
       "time": "2026-07-09 06:09:02",
@@ -147440,22 +147470,6 @@
         "其他"
       ],
       "text": "兩場大火在法國馬賽北部燒燬100公頃土地，已有200餘名消防員趕赴現場處置。"
-    },
-    {
-      "id": "4965973",
-      "time": "2026-07-02 06:14:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普披露，其2025年累計進行22000筆股票交易，股票購入總額最高達14億美元。"
-    },
-    {
-      "id": "4965972",
-      "time": "2026-07-02 06:11:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭11個月財政赤字收窄至67.9億紐西蘭元，財政赤字較此前預期少30.4億紐西蘭元。"
     }
   ]
 }

@@ -1,7 +1,37 @@
 {
   "date": "2026-07-09",
-  "count": 643,
+  "count": 646,
   "items": [
+    {
+      "id": "mkt:019f43cb-69d0-7aab-8cff-7b7b5efff77f",
+      "time": "2026-07-09 06:13:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV, citing local sources, reported explosions at the terminal and runway of Shah Airport in Iran."
+    },
+    {
+      "id": "4977654",
+      "time": "2026-07-09 06:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，美國多州最快下週或將提起訴訟，阻止派拉蒙與華納兄弟的交易。"
+    },
+    {
+      "id": "mkt:019f43c9-0e42-7aab-8cff-702070019aec",
+      "time": "2026-07-09 06:11:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell three ticks, while fed funds futures price in 38bp of Fed tightening by December."
+    },
     {
       "id": "4977653",
       "time": "2026-07-09 06:09:02",
