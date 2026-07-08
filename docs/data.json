@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-09 06:30:11",
+  "updated": "2026-07-09 06:34:02",
   "count": 16128,
   "items": [
+    {
+      "id": "4977665",
+      "time": "2026-07-09 06:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與土耳其達成了許多不錯的貿易協議。"
+    },
+    {
+      "id": "mkt:019f43dc-65de-7aab-8cff-ace99ea4177e",
+      "time": "2026-07-09 06:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June manufacturing performance index 59.7, previous 49.9."
+    },
+    {
+      "id": "mkt:019f43dc-45a0-7aab-8cff-a14f5a7dbed3",
+      "time": "2026-07-09 06:32:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Manufacturing Index (Jun) | actual 59.7 | previous 49.9"
+    },
+    {
+      "id": "4977664",
+      "time": "2026-07-09 06:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭 6 月經季調服務業景氣指數 59.7 。"
+    },
+    {
+      "id": "te:markets:565412",
+      "time": "2026-07-09 06:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Spikes by 12.33% — Top commodity gainers are Heating Oil (12.33%), Brent Crude Oil (6.48%), Natural Gas EU (6.05%) and Crude Oil WTI (5.70%). Biggest loser is Natural gas (-1.57%)."
+    },
     {
       "id": "4977663",
       "time": "2026-07-09 06:29:29",
@@ -147474,57 +147519,6 @@
         "國際"
       ],
       "text": "知情官員：美國與伊朗已達成共識，未來數週內保持局勢低調緩和，以期在諒解備忘錄約定的60天談判週期內取得一定進展。"
-    },
-    {
-      "id": "4965981",
-      "time": "2026-07-02 06:33:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "拜耳集團將整合美國草甘膦業務，設立獨立實體運營，新實體命名為魯維昂（RUVEON）。"
-    },
-    {
-      "id": "mkt:019f1fd0-f859-7aab-8c66-b8d3e4fb2981",
-      "time": "2026-07-02 06:33:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Iluka Resources said VHM will supply 146,000 tonnes of rare‑earth concentrate to the company over 18 years, averaging about 8,320 tpa."
-    },
-    {
-      "id": "mkt:019f1fd0-431d-7aab-8c66-b461f2d0f6fe",
-      "time": "2026-07-02 06:32:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "ILU.AX",
-        "Impact bullish"
-      ],
-      "text": "Iluka Resources said VHM has granted it a right of first refusal on any rare earths produced from the Cannie and Nowie projects."
-    },
-    {
-      "id": "mkt:019f1fcf-52a7-7aab-8c66-a878bb216907",
-      "time": "2026-07-02 06:31:48",
-      "tags": [
-        "MKT News",
-        "ILU.AX"
-      ],
-      "text": "Australian mineral sands company Iluka Resources said VHM has granted the company a right of first refusal on any additional rare earths in the Goschen area."
-    },
-    {
-      "id": "te:markets:563543",
-      "time": "2026-07-02 06:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.58% — Top commodity losers are Natural Gas UK (-2.58%), Brent Crude Oil (-2.54%), Methanol (-2.34%) and Crude Oil WTI (-2.19%). Gains are led by Gasoline (1.40%) and Uranium (0.64%)."
     }
   ]
 }

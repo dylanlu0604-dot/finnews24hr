@@ -1,7 +1,52 @@
 {
   "date": "2026-07-09",
-  "count": 660,
+  "count": 665,
   "items": [
+    {
+      "id": "4977665",
+      "time": "2026-07-09 06:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與土耳其達成了許多不錯的貿易協議。"
+    },
+    {
+      "id": "mkt:019f43dc-65de-7aab-8cff-ace99ea4177e",
+      "time": "2026-07-09 06:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June manufacturing performance index 59.7, previous 49.9."
+    },
+    {
+      "id": "mkt:019f43dc-45a0-7aab-8cff-a14f5a7dbed3",
+      "time": "2026-07-09 06:32:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Manufacturing Index (Jun) | actual 59.7 | previous 49.9"
+    },
+    {
+      "id": "4977664",
+      "time": "2026-07-09 06:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭 6 月經季調服務業景氣指數 59.7 。"
+    },
+    {
+      "id": "te:markets:565412",
+      "time": "2026-07-09 06:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Spikes by 12.33% — Top commodity gainers are Heating Oil (12.33%), Brent Crude Oil (6.48%), Natural Gas EU (6.05%) and Crude Oil WTI (5.70%). Biggest loser is Natural gas (-1.57%)."
+    },
     {
       "id": "4977663",
       "time": "2026-07-09 06:29:29",
