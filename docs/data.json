@@ -1,7 +1,254 @@
 {
-  "updated": "2026-07-08 12:59:03",
-  "count": 15975,
+  "updated": "2026-07-08 13:03:00",
+  "count": 15989,
   "items": [
+    {
+      "id": "mkt:019f401a-774d-7aab-8ce1-324a89ceadb0",
+      "time": "2026-07-08 13:01:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Bahrain sounds air defense sirens again; IRGC claims strikes on US Fifth Fleet】Bahrain’s Ministry of Interior said on the 8th on social media that air-defense sirens had been activated and urged residents to remain calm and move to the nearest safe location. The ministry had issued an earlier air-defense alert the same day. Iran’s Islamic Revolutionary Guard Corps public relations said on the 8th it had “destroyed” 85 significant US military facilities in the Middle East, including the US Fifth Fleet based in Bahrain."
+    },
+    {
+      "id": "mkt:019f401a-5c73-7aab-8ce1-2c64e979b49d",
+      "time": "2026-07-08 13:01:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Apple",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "AAPL.O"
+      ],
+      "text": "【UniSuper to buy US tech on dips, cites AI-driven earnings; remains overweight】Australia’s UniSuper (A$166bln, ~$115bln) will buy U.S. technology stocks on pullbacks and remains structurally overweight the sector, citing AI-driven capex that should support earnings growth. CIO John Pearce said the fund views large-cap tech as in an AI spending “sweet spot” and would add even after a 10% sector correction; international equities account for about 35% of its default option and NVIDIA, Microsoft and Apple are its largest holdings."
+    },
+    {
+      "id": "4975679",
+      "time": "2026-07-08 13:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭不是北約的負擔，而是一項資產。"
+    },
+    {
+      "id": "4975678",
+      "time": "2026-07-08 13:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股物聯網板塊短線走低】金祿電子跌10.73%，勝宏科技、佳華科技、中創股份、金信諾、海爾生物、炬華科技跟跌。"
+    },
+    {
+      "id": "4975677",
+      "time": "2026-07-08 13:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股算力板塊短線走低】安博通跌16.27%，勝宏科技、佳華科技、金信諾、博彙股份、希荻微、恆鋒資訊跟跌。"
+    },
+    {
+      "id": "4975676",
+      "time": "2026-07-08 13:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股東數西算板塊短線走低】安博通跌16.27%，勝宏科技、佳華科技、金信諾、博彙股份、希荻微、恆鋒資訊跟跌。"
+    },
+    {
+      "id": "4975675",
+      "time": "2026-07-08 13:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股科創企業同股同權板塊短線走低】和順科技跌16.36%，鼎泰高科、同飛股份、勝宏科技、佳華科技、東方財富、凱因科技跟跌。"
+    },
+    {
+      "id": "4975674",
+      "time": "2026-07-08 13:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股智慧駕駛板塊短線走低】天華新能跌10.96%，勝宏科技、中創股份、中科通達、金信諾、豪威集團、世紀恆通跟跌。"
+    },
+    {
+      "id": "4975673",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股出海概念板塊短線走低】麒盛科技、埃斯頓觸及跌停，TCL智家、引力傳媒、神州泰嶽、永和智控、福瑞達跟跌。"
+    },
+    {
+      "id": "4975672",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股IDC概念（資料中心）板塊短線走低】大洋電機觸及跌停，同飛股份、勝宏科技、佳華科技、金信諾、威爾藥業、東軟載波跟跌。"
+    },
+    {
+      "id": "4975671",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股大盤成長板塊短線走低】科士達跌8.00%，鼎泰高科、勝宏科技、中航高科、國網英大、鵬鼎控股、北方華創跟跌。"
+    },
+    {
+      "id": "4975670",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股人民幣貶值受益板塊短線走低】麒盛科技觸及跌停，TCL智家、振德醫療、永和智控、遠大控股、康隆達、奧佳華跟跌。"
+    },
+    {
+      "id": "4975669",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股新股與次新股板塊短線走低】新睿電子跌13.46%，建發致新、鼎佳精密、巴蘭仕、農大科技、沐曦股份、永大股份跟跌。"
+    },
+    {
+      "id": "4975668",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股液冷概念板塊短線走低】龍蟠科技跌9.64%，同飛股份、威爾藥業、博彙股份、達瑞電子、潤禾材料、江南新材跟跌。"
+    },
+    {
+      "id": "4975667",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股專精特新板塊短線走低】埃斯頓觸及跌停，諾瓦星雲、同飛股份、佳華科技、開普檢測、凱因科技、數字人跟跌。"
+    },
+    {
+      "id": "4975666",
+      "time": "2026-07-08 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股湖北省板塊短線走低】路德科技跌12.70%，中科通達、共同藥業、一致魔芋、長江傳媒、興圖新科、武漢凡谷跟跌。"
+    },
+    {
+      "id": "mkt:019f4019-c581-7aab-8ce1-2127b5092584",
+      "time": "2026-07-08 13:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "ChiNext Index pulled back in the afternoon, down more than 0.5% after earlier gains of over 1%; Shenzhen Composite Index fell 0.8% and Shanghai Composite Index fell 0.07%."
+    },
+    {
+      "id": "mkt:019f4019-ac07-7aab-8ce1-1b89ce6f515f",
+      "time": "2026-07-08 13:00:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan Economic Watchers' Outlook Index for June 45.7, expected 42.3, prior 40.7."
+    },
+    {
+      "id": "mkt:019f4019-88e0-7aab-8ce1-169a1e7fb0cb",
+      "time": "2026-07-08 13:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Economy Watchers Sentiment Index (Jun) | actual 45.7 | consensus 42.3 | previous 40.7"
+    },
+    {
+      "id": "mkt:019f4019-5a00-7aab-8ce1-0d1e3ae14d3a",
+      "time": "2026-07-08 13:00:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan Economy Watchers survey: current conditions index for June 44.0, consensus 44.2, prior 43.6."
+    },
+    {
+      "id": "mkt:019f4019-36de-7aab-8ce1-06c5d0bd633e",
+      "time": "2026-07-08 13:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Economy Watchers Current Conditions Index (Jun) | actual 44 | consensus 44.2 | previous 43.6"
+    },
+    {
+      "id": "4975665",
+      "time": "2026-07-08 13:00:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新東方捐贈600萬元現金及物資馳援廣西防汛救災】7月8日，新東方宣佈，為全力支援一線，新東方集團捐贈300萬元現金，東方甄選捐贈價值300萬元物資，合計600萬元現金及物資，用於支援廣西受災地區的搶險救援、群眾安置與災後重建等工作，幫助受災群眾早日渡過難關、重建家園。"
+    },
+    {
+      "id": "te:markets:565093",
+      "time": "2026-07-08 12:59:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Hovers at 18,000 Brink Amid Weak Consumer Mood, Outflow Risk — The Indonesian rupiah slid to around IDR 18,000 per U.S. dollar on Wednesday, reversing gains from the prior session as a firmer U.S. dollar and renewed safe-haven demand weighed on emerging market currencies after reports that the U.S. launched fresh airstrikes on Iran in response to vessel attacks in the Strait of Hormuz. Domestically, pressure mounted after fresh data showed consumer confidence declined for a second consecutive month in June, falling to its lowest level since last September as households continued to grapple with elevated food prices and rising fuel costs. Concerns over foreign outflows resurfaced after S&P Dow Jones Indices placed Indonesia on watch for a downgrade to frontier market status, mirroring MSCI’s move in May. A widening budget deficit in H1 of 2026, June’s factory contraction, and the largest layoffs since 2025 further hit risk appetite. Still, weakness was capped by a modest rise in June forex reserves after hitting a near two-year low in May."
+    },
+    {
+      "id": "4975663",
+      "time": "2026-07-08 12:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中老鐵路跨境貨物運輸量突破2000萬噸】記者今天從國鐵昆明局瞭解到，截至7月8日，中老鐵路跨境貨物運輸量累計突破2000萬噸，開行跨境貨物列車超2.3萬列。（央視）"
+    },
     {
       "id": "4975662",
       "time": "2026-07-08 12:57:42",
@@ -146310,97 +146557,6 @@
         "Impact bearish"
       ],
       "text": "China's STAR 50 index widened losses to 1% in afternoon trade after rising more than 2% in early trade."
-    },
-    {
-      "id": "4964242",
-      "time": "2026-07-01 13:02:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【莫迪與伊朗總統通電話，提及霍爾木茲海峽航行安全】印度總理納倫德拉・莫迪與伊朗總統馬蘇德・佩澤希基揚通電話。眼下印度船舶正逐步恢復前往波斯灣的航運，莫迪在通話中著重強調霍爾木茲海峽航行自由的重要性。通話結束後，莫迪在X平臺發文表示，他對德黑蘭與華盛頓持續開展對話表示歡迎，並“希望雙方持續努力，促成該地區實現持久和平”。伊朗方面釋出宣告稱，今年2月美、以兩國空襲德黑蘭，伊朗最高領袖阿亞圖拉・阿里・哈梅內伊遇襲身亡，莫迪代表印度政府與人民向伊朗表達了哀悼與慰問。宣告同時透露，莫迪邀請佩澤希基揚出席今年晚些時候在印度舉辦的金磚國家領導人峰會。"
-    },
-    {
-      "id": "4964241",
-      "time": "2026-07-01 13:02:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.08%，成分股中，源傑科技跌5.74%，寒武紀跌5.64%，芯原股份跌5.36%，時代電氣跌4.66%。"
-    },
-    {
-      "id": "mkt:019f1c0d-a02e-7aab-8c4b-aa9410e7cef0",
-      "time": "2026-07-01 13:01:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan top FX official MIMURA says two-month-old yen intervention succeeded, had US support】MIMURA said Japan’s foreign-exchange intervention two months ago to prop up the yen was successful and elicited supportive remarks from some US officials; Washington raised no objections, he added. He said contact with US counterparts has been frequent via calls and emails. The yen’s fall to a 40-year low heightens inflation risk for energy- and food-import-dependent Japan (energy largely imported; over half of food imported)."
-    },
-    {
-      "id": "4964240",
-      "time": "2026-07-01 13:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本6月國內汽車銷量較上年同期上升13.7%。"
-    },
-    {
-      "id": "4964239",
-      "time": "2026-07-01 13:01:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山西一煤礦涉多項安全生產違法違規情形，被罰734.71萬元並停產整頓】據“信用中國（山西）”公佈的行政處罰資訊，山西蘭花科技創業股份有限公司唐安煤礦分公司因存在巷道建設與設計不符、安全監測裝置缺失、井下機電裝置失爆等多項安全生產違法違規行為，近日被晉城市應急管理局作出行政處罰，責令停產整頓5天，內部追責，合併處罰款734.71萬元。"
-    },
-    {
-      "id": "mkt:019f1c0c-a7e7-7aab-8c4b-a23b04c05cf9",
-      "time": "2026-07-01 13:00:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan June household consumer confidence index 33.8, vs. expected 34.1 and prior 33.6."
-    },
-    {
-      "id": "mkt:019f1c0c-8bc4-7aab-8c4b-9c881f9b1dfa",
-      "time": "2026-07-01 13:00:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Consumer confidence index (Jun) | actual 33.8 | consensus 34.1 | previous 33.6"
-    },
-    {
-      "id": "mkt:019f1c0c-89d3-7aab-8c4b-90c7f1887a81",
-      "time": "2026-07-01 13:00:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India June manufacturing PMI (final) 54.2, below 55 expected and down from 54.5."
-    },
-    {
-      "id": "mkt:019f1c0c-5f4e-7aab-8c4b-8deb1ed1a8a2",
-      "time": "2026-07-01 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | Manufacturing PMI (Jun) | actual 54.2 | consensus 55 | previous 54.5"
-    },
-    {
-      "id": "4964238",
-      "time": "2026-07-01 12:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本最高外匯官員三村淳：日美貨幣協調仍保持密切。"
     }
   ]
 }
