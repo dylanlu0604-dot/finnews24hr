@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-08 19:38:10",
-  "count": 16018,
+  "updated": "2026-07-08 19:42:05",
+  "count": 16019,
   "items": [
+    {
+      "id": "4976733",
+      "time": "2026-07-08 19:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部召開臺風“巴威”海洋災害防禦工作應急部署會議】7月8日，自然資源部召開臺風“巴威”海洋災害防禦工作應急部署會議。會議指出，當前強厄爾尼諾事件發生機率正在增大，颱風路徑多變、強度增強，不確定性明顯上升。未來幾天受“巴威”影響，福建至江蘇沿海將出現一次颱風風暴潮和大浪過程，風暴潮、海浪災害最高預警級別預計均將達到紅色，海洋災害防禦工作形勢嚴峻複雜。會議強調，各地各單位要堅持人民至上、生命至上，樹牢底線思維和極限思維，迅速行動起來壓實責任，把防禦工作抓細抓實抓到位。一要提高政治站位，強化應急值班值守；二要加強會商研判，提前預報預警；三要加強服務支撐，注重聯防聯控；四要加強海上船舶管理，確保作業生產安全。"
+    },
+    {
+      "id": "mkt:019f4187-dd82-7aab-8ced-0f7e535bb015",
+      "time": "2026-07-08 19:40:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AVGO.O",
+        "Impact mixed",
+        "MRVL.O"
+      ],
+      "text": "【NVIDIA moves toward GPU+ASIC heterogeneous inference with d‑Matrix tie-up】NVIDIA and AI-chip startup d‑Matrix announced a joint AI chip system that integrates inference-focused ASICs into NVIDIA’s stack. d‑Matrix targets low-latency, low-power inference using memory-centric 3D IMC to cut data movement, aiming to lower per-call cost for high-volume KV‑cache, long‑context and agent workloads. Model companies are increasingly pursuing custom inference silicon — OpenAI with Broadcom’s Jalapeño, Anthropic reported in talks with Samsung, and startups including Etched, Cerebras, Groq, DeepSeek and Zhipu evaluating self‑developed inference chips. Market takeaway: successful inference ASICs would compress cost, latency and energy for high-frequency AI apps and could shift demand away from general‑purpose GPUs; failure to deliver those advantages would keep demand concentrated on NVIDIA GPUs. Key execution risks: partnership terms remain undisclosed and d‑Matrix faces production, customer validation and software‑integration hurdles. Watch NVIDIA, Broadcom and Marvell as the most directly relevant listed plays; d‑Matrix is private."
+    },
+    {
+      "id": "4976731",
+      "time": "2026-07-08 19:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康發言人表示，正與英國國家醫療服務體系及英國國家健康與臨床最佳化研究所持續商討，以確定解決方案，支援患者獲得優赫得。"
+    },
+    {
+      "id": "4976730",
+      "time": "2026-07-08 19:40:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【丁薛祥接見國際科技合作獎獲獎外國專家】中共中央政治局常委、國務院副總理丁薛祥8日上午在人民大會堂接見獲得2025年度中華人民共和國國際科學技術合作獎的外國專家，並頒發獎章。丁薛祥代表中國政府對獲獎專家表示熱烈祝賀，感謝他們為中國科技進步和創新發展作出的重要貢獻，希望他們與中國科學家深化交流合作，共同攻克科技難題，推動構建人類命運共同體。頒獎結束後，丁薛祥與獲獎專家集體合影。9位外國專家獲得2025年度國際科學技術合作獎。1995年正式授獎至今，共有155位外國專家、3個國際組織和1個外國組織獲此殊榮。（新華社）"
+    },
+    {
+      "id": "4976729",
+      "time": "2026-07-08 19:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：卡達投資局參與 sambanova 10億美元E輪融資。"
+    },
+    {
+      "id": "4976728",
+      "time": "2026-07-08 19:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：烏方打擊關鍵能源基礎設施“非常危險”】當地時間8日，俄羅斯總統新聞秘書佩斯科夫在例行簡報會上就俄對土耳其供氣基礎設施遭襲一事回應稱，“基輔政權不斷對國際關鍵能源基礎設施表現出攻擊性和恐怖襲擊傾向，這是非常危險的舉動”。俄方正採取最大程度措施以降低此類襲擊帶來的危險，並期待土耳其及其他國家予以關注。針對波羅的海國家擬取消境內部署核武器禁令，佩斯科夫指出，此類決定不會給相關國家增加安全，反而將顯著提高危險水平，俄方將採取反制措施以確保自身利益。針對國際奧委會暫時恢復俄羅斯奧委會會員資格，佩斯科夫稱，這是恢復俄方在國際奧林匹克運動中合法權利的重要一步，期待各國際單項體育聯合會遵循相關建議，俄方也將繼續爭取完全恢復自身權利。就近期俄股市波動，佩斯科夫表示，政府已關注這一問題，8日總統與政府成員的會議將討論經濟發展議題。（央視新聞）"
+    },
+    {
+      "id": "4976727",
+      "time": "2026-07-08 19:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【住房城鄉建設部：要持續完善城市排水防澇工程體系建設】據中國建設報，7月8日，住房城鄉建設部召開全國城市排水防澇工作視訊會議。會議指出，城市排水防澇工作是支撐城市高質量發展的安全工程、民生工程、發展工程。面對嚴峻天氣形勢，各地要層層壓實責任，開展隱患排查，加強防護措施落實，強化積水路段剛性管控。要持續完善城市排水防澇工程體系建設，抓好專案推進，嚴格專案管理。會議要求，要健全洪澇聯排聯調機制，加強與氣象、水利、交管、公安等有關部門協同聯動，精準實施防洪和排澇設施統籌排程。要強化專業隊伍建設，開展專題培訓，常態化開展各類應急演練，增強新任職領導幹部防汛責任意識和履職能力。要做好科普宣傳，增強公眾防災避險意識。"
+    },
+    {
+      "id": "4976726",
+      "time": "2026-07-08 19:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報58.14美元/盎司。"
+    },
+    {
+      "id": "4976725",
+      "time": "2026-07-08 19:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十七屆津臺投資合作洽談會開幕】以“聚智新發展 共享新機遇”為主題的第十七屆津臺投資合作洽談會（以下簡稱“津臺會”）8日在天津開幕，兩岸政界、工商界人士及基層民眾代表約350人齊聚津門，圍繞人工智慧、生物醫藥、大健康等產業開展交流與合作。（新華社）"
+    },
     {
       "id": "4976724",
       "time": "2026-07-08 19:36:28",
@@ -146570,83 +146652,6 @@
         "其他"
       ],
       "text": "阿根廷農產品出口商會CIARA-CEC表示，阿根廷6月農產品出口收入同比下降18%，至30.1億美元。"
-    },
-    {
-      "id": "4965146",
-      "time": "2026-07-01 19:42:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【有研矽包頭基地大單晶專案開工建設】7月1日，有研矽大尺寸半導體矽單晶專案於內蒙古包頭稀土高新區正式奠基開工。有研矽此次佈局建設的大尺寸單晶基地，規劃建設約5萬平方米的現代化單晶生產廠房，達產後將形成年產1000噸以上積體電路用單晶矽及刻蝕裝置用單晶矽的供給能力，將顯著提升公司在矽片及半導體零部件領域的產能供給與保障能力。"
-    },
-    {
-      "id": "4965145",
-      "time": "2026-07-01 19:42:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗稱將適時啟動伊美最終協議談判】總檯記者當地時間7月1日自伊朗方面獲悉，伊朗副外長加里巴巴迪率伊朗外交部、央行等部門代表團訪問卡達，當天上午在多哈與卡達首相兼外交大臣穆罕默德舉行會晤，討論落實美伊諒解備忘錄等議題，包括在黎巴嫩實施停火等問題上“消除現有障礙”。訊息稱，在加里巴巴迪與穆罕默德會晤後，伊朗、卡達和巴基斯坦代表於多哈舉行了三方會談，以審查美伊諒解備忘錄的執行情況。加里巴巴迪在會後表示，伊朗方面已經成立負責跟進美伊諒解備忘錄執行情況並就最終協議進行談判的工作組，但尚未正式就此展開談判。伊朗正在透過調解人繼續磋商，以確定其工作組開展談判的時間和地點，“如果必要條件得到滿足，工作組將正式展開談判”。（央視新聞）"
-    },
-    {
-      "id": "4965144",
-      "time": "2026-07-01 19:41:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "兩位訊息人士透露，俄羅斯已開始從印度海運進口汽油。"
-    },
-    {
-      "id": "4965143",
-      "time": "2026-07-01 19:41:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上半年AI算力成核心主線，PCB賽道迎600億擴產潮】今年上半年，上游材料和裝置成為這輪週期的最大贏家。六氟化鎢因海外供給缺口價格同比暴漲203%，直接推動電子特氣供應商中船特氣成為新股之外，A股漲幅榜首，累計達766%。與此同時，PCB行業湧入超600億元擴產投資，裝置出貨額創單季歷史新高。這與過往行情截然不同。過去，晶片設計端的創新決定產業節奏；而當下，上游材料和零部件的產能約束，正在成為限制AI算力擴張的真正瓶頸。產業鏈利潤，正從臺積電、英偉達們的下游，逆流而上。（第一財經）"
-    },
-    {
-      "id": "4965142",
-      "time": "2026-07-01 19:40:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金宏氣體：股價異常波動 提示經營利潤下降等風險】金宏氣體公告稱，2026年6月29日至7月1日，公司股票連續三個交易日收盤價格漲幅偏離值累計達30%，屬異常波動。2025年營收27.77億元，同比升9.95%，淨利潤1.32億元，同比降34.44%；2026年一季度營收6.63億元，同比升6.53%，淨利潤486.91萬元，同比降88.93%。截至7月1日，公司滾動市盈率287.22倍，顯著高於行業平均。此外，氦氣出口許可審批、產品價格波動等也存風險，提醒投資者理性決策。"
-    },
-    {
-      "id": "4965141",
-      "time": "2026-07-01 19:39:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天嶽先進：持股5%以上股東合計減持比例達1%】天嶽先進公告稱，2026年5月28日至7月1日，遼寧中德產業股權投資基金合夥企業（有限合夥）及其一致行動人透過集中競價、大宗交易方式減持公司股份。權益變動前合計持股比例6.8256%，變動後為5.9962%，合計減持比例達1%。本次減持是股東履行減持計劃，截至公告披露日，減持計劃尚未實施完畢，且不會導致公司控股股東、實控人變化。"
-    },
-    {
-      "id": "4965140",
-      "time": "2026-07-01 19:39:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報告稱約79%的科技創始人面臨歐盟監管摩擦】初創企業顧問公司DutchBasecamp與一家科技遊說協會合作釋出的一項對155名創始人的調查顯示，約79%的科技企業家表示，過去一年歐洲的監管對他們的業務產生了重大影響。DutchBasecamp董事總經理Masha Moisseyeva表示：“當45%的受訪者在一年內暫停或取消了功能，58%的受訪者推遲了進入另一個歐盟市場，44%的受訪者失去或推遲了交易時，對簡化監管的迫切需求已不再是關於歐盟競爭力的理論辯論。”該研究是與科技遊說團體計算機與通訊行業協會合作釋出的，谷歌和蘋果公司都是該協會的成員。該報告發布之際，歐盟正致力於為企業簡化其繁雜的科技規則。"
-    },
-    {
-      "id": "mkt:019f1d79-cc7e-7aab-8c56-5952c529bd45",
-      "time": "2026-07-01 19:39:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【Dollar strengthens; emerging-market currencies erase YTD gains】Emerging-market currencies have given back their year-to-date gains as traders price a higher US rate path and a firmer dollar. The MSCI EM currency index fell 0.2%, leaving it roughly flat YTD and tracking toward its lowest close since April 7. Markets are increasingly pricing a hawkish shift at the Fed; a Fed official is scheduled to speak later today at the ECB Sintra forum alongside European and UK peers. Asian currencies led declines: the won fell to its weakest since 2009 after foreign investors sold a net 1.46 trillion won (~$938m) of Korean equities."
     }
   ]
 }

@@ -1,7 +1,89 @@
 {
   "date": "2026-07-08",
-  "count": 2707,
+  "count": 2716,
   "items": [
+    {
+      "id": "4976733",
+      "time": "2026-07-08 19:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部召開臺風“巴威”海洋災害防禦工作應急部署會議】7月8日，自然資源部召開臺風“巴威”海洋災害防禦工作應急部署會議。會議指出，當前強厄爾尼諾事件發生機率正在增大，颱風路徑多變、強度增強，不確定性明顯上升。未來幾天受“巴威”影響，福建至江蘇沿海將出現一次颱風風暴潮和大浪過程，風暴潮、海浪災害最高預警級別預計均將達到紅色，海洋災害防禦工作形勢嚴峻複雜。會議強調，各地各單位要堅持人民至上、生命至上，樹牢底線思維和極限思維，迅速行動起來壓實責任，把防禦工作抓細抓實抓到位。一要提高政治站位，強化應急值班值守；二要加強會商研判，提前預報預警；三要加強服務支撐，注重聯防聯控；四要加強海上船舶管理，確保作業生產安全。"
+    },
+    {
+      "id": "mkt:019f4187-dd82-7aab-8ced-0f7e535bb015",
+      "time": "2026-07-08 19:40:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AVGO.O",
+        "Impact mixed",
+        "MRVL.O"
+      ],
+      "text": "【NVIDIA moves toward GPU+ASIC heterogeneous inference with d‑Matrix tie-up】NVIDIA and AI-chip startup d‑Matrix announced a joint AI chip system that integrates inference-focused ASICs into NVIDIA’s stack. d‑Matrix targets low-latency, low-power inference using memory-centric 3D IMC to cut data movement, aiming to lower per-call cost for high-volume KV‑cache, long‑context and agent workloads. Model companies are increasingly pursuing custom inference silicon — OpenAI with Broadcom’s Jalapeño, Anthropic reported in talks with Samsung, and startups including Etched, Cerebras, Groq, DeepSeek and Zhipu evaluating self‑developed inference chips. Market takeaway: successful inference ASICs would compress cost, latency and energy for high-frequency AI apps and could shift demand away from general‑purpose GPUs; failure to deliver those advantages would keep demand concentrated on NVIDIA GPUs. Key execution risks: partnership terms remain undisclosed and d‑Matrix faces production, customer validation and software‑integration hurdles. Watch NVIDIA, Broadcom and Marvell as the most directly relevant listed plays; d‑Matrix is private."
+    },
+    {
+      "id": "4976731",
+      "time": "2026-07-08 19:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康發言人表示，正與英國國家醫療服務體系及英國國家健康與臨床最佳化研究所持續商討，以確定解決方案，支援患者獲得優赫得。"
+    },
+    {
+      "id": "4976730",
+      "time": "2026-07-08 19:40:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【丁薛祥接見國際科技合作獎獲獎外國專家】中共中央政治局常委、國務院副總理丁薛祥8日上午在人民大會堂接見獲得2025年度中華人民共和國國際科學技術合作獎的外國專家，並頒發獎章。丁薛祥代表中國政府對獲獎專家表示熱烈祝賀，感謝他們為中國科技進步和創新發展作出的重要貢獻，希望他們與中國科學家深化交流合作，共同攻克科技難題，推動構建人類命運共同體。頒獎結束後，丁薛祥與獲獎專家集體合影。9位外國專家獲得2025年度國際科學技術合作獎。1995年正式授獎至今，共有155位外國專家、3個國際組織和1個外國組織獲此殊榮。（新華社）"
+    },
+    {
+      "id": "4976729",
+      "time": "2026-07-08 19:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：卡達投資局參與 sambanova 10億美元E輪融資。"
+    },
+    {
+      "id": "4976728",
+      "time": "2026-07-08 19:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【佩斯科夫：烏方打擊關鍵能源基礎設施“非常危險”】當地時間8日，俄羅斯總統新聞秘書佩斯科夫在例行簡報會上就俄對土耳其供氣基礎設施遭襲一事回應稱，“基輔政權不斷對國際關鍵能源基礎設施表現出攻擊性和恐怖襲擊傾向，這是非常危險的舉動”。俄方正採取最大程度措施以降低此類襲擊帶來的危險，並期待土耳其及其他國家予以關注。針對波羅的海國家擬取消境內部署核武器禁令，佩斯科夫指出，此類決定不會給相關國家增加安全，反而將顯著提高危險水平，俄方將採取反制措施以確保自身利益。針對國際奧委會暫時恢復俄羅斯奧委會會員資格，佩斯科夫稱，這是恢復俄方在國際奧林匹克運動中合法權利的重要一步，期待各國際單項體育聯合會遵循相關建議，俄方也將繼續爭取完全恢復自身權利。就近期俄股市波動，佩斯科夫表示，政府已關注這一問題，8日總統與政府成員的會議將討論經濟發展議題。（央視新聞）"
+    },
+    {
+      "id": "4976727",
+      "time": "2026-07-08 19:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【住房城鄉建設部：要持續完善城市排水防澇工程體系建設】據中國建設報，7月8日，住房城鄉建設部召開全國城市排水防澇工作視訊會議。會議指出，城市排水防澇工作是支撐城市高質量發展的安全工程、民生工程、發展工程。面對嚴峻天氣形勢，各地要層層壓實責任，開展隱患排查，加強防護措施落實，強化積水路段剛性管控。要持續完善城市排水防澇工程體系建設，抓好專案推進，嚴格專案管理。會議要求，要健全洪澇聯排聯調機制，加強與氣象、水利、交管、公安等有關部門協同聯動，精準實施防洪和排澇設施統籌排程。要強化專業隊伍建設，開展專題培訓，常態化開展各類應急演練，增強新任職領導幹部防汛責任意識和履職能力。要做好科普宣傳，增強公眾防災避險意識。"
+    },
+    {
+      "id": "4976726",
+      "time": "2026-07-08 19:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報58.14美元/盎司。"
+    },
+    {
+      "id": "4976725",
+      "time": "2026-07-08 19:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十七屆津臺投資合作洽談會開幕】以“聚智新發展 共享新機遇”為主題的第十七屆津臺投資合作洽談會（以下簡稱“津臺會”）8日在天津開幕，兩岸政界、工商界人士及基層民眾代表約350人齊聚津門，圍繞人工智慧、生物醫藥、大健康等產業開展交流與合作。（新華社）"
+    },
     {
       "id": "4976724",
       "time": "2026-07-08 19:36:28",
