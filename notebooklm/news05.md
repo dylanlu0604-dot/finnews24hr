@@ -1,7 +1,479 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-09 04:04:58_
-_本檔包含 3393 則快訊，約 600081 字_
+_更新時間：2026-07-09 05:19:16_
+_本檔包含 3399 則快訊，約 600640 字_
+
+---
+
+### 2026-07-03 06:47:08  #宏觀 #國際
+
+【王毅同丹麥外交大臣拉斯穆森會談】當地時間7月2日，中共中央政治局委員、外交部長王毅在哥本哈根同丹麥外交大臣拉斯穆森舉行會談。王毅說，中丹交往歷史悠久，兩國關係曾創下多項“第一”。丹麥是第一個同中國建立全面戰略伙伴關係的北歐國家，也是第一個同中國構建綠色轉型合作機制的國家，瑪格麗特二世女王是中國改革開放後第一位訪華的西方國家元首。這些都充分體現丹麥發展對華關係的戰略眼光和歷史主動。去年中丹共同慶祝建交75週年，習近平主席同腓特烈十世國王互致賀電，對在新起點推動中丹關係新發展寄予殷切期待。中方願同丹方落實兩國元首重要共識，保持高層交往，加強各部門各領域對話合作。（央視新聞）
+
+---
+
+### 2026-07-03 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates largely by 5.31% — Top crypto gainers are Ether (5.31%), Bitcoin (2.42%) and Binance (1.12%).
+
+---
+
+### 2026-07-03 06:42:04  #其他
+
+【多隻ETF拆分份額，公募產品普惠性凸顯】近期泛AI行情強勢演繹，相關基金淨值也水漲船高。在此情形下，多隻產品選擇拆分份額。7月3日，半導體ETF國聯安按1∶2的比例進行份額拆分除權，人工智慧ETF華夏、半導體裝置ETF華夏、科創半導體ETF華夏、通訊ETF國泰以當天為權益登記日對登記在冊的基金份額進行拆分。Wind資料顯示，按權益登記日計算，6月以來約一個月時間，已有18只ETF拆分份額，幾乎是今年前五個月的總和。業內人士分析，降低投資門檻、活躍場內流動性、降低基金做市成本是份額拆分背後的主要考量。（中證報）
+
+---
+
+### 2026-07-03 06:40:26  #其他
+
+市場訊息：京瓷株式會社（Kyocera）未來七年將投資1000億日元到MLCC（片式多層陶瓷電容器）產品。
+
+---
+
+### 2026-07-03 06:40:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Soars by 5.25% — Top commodity gainers are Oat (5.25%) and Corn (0.95%). Biggest losers are Rubber (-2.97%) and Coffee (-2.51%).
+
+---
+
+### 2026-07-03 06:38:45  #國際
+
+PJM 電網宣佈進入最高階電力應急狀態，要求所有停運發電機組即刻啟動並升至滿負荷出力，保障美國電網供電穩定。 PJM 敦促各成員排程機構考慮面向公眾發起節電呼籲，並同步通報相關政府部門。
+
+---
+
+### 2026-07-03 06:37:38  #市場
+
+【市場供需兩旺，磷酸鐵鋰頭部企業量價齊升】“今年二季度，受成本上漲疊加旺季補庫需求影響，磷酸鐵鋰價格再度集中上調，且頭部企業持續滿產，高階產品供不應求，加速步入高景氣週期。”7月2日，一家磷酸鐵鋰頭部企業相關人士表示。今年一季度，受磷酸鐵鋰價格大幅上漲推動，磷酸鐵鋰龍頭企業盈利普遍大增，湖南裕能同比增長約13倍。有機構預測，行業盈利在二季度有望進一步提升。隆眾資訊提供的資料顯示，2026年6月磷酸鐵鋰的月均價為61113.33元/噸，較今年初的月均價51209.52元/噸上漲19.34%，與去年同期33802.08元/噸的月均價相比，漲幅超過80%。（上證報）
+
+---
+
+### 2026-07-03 06:35:58  #其他
+
+【在委內瑞拉中資企業已向委方捐贈物資超120噸】記者從中國駐委內瑞拉大使館瞭解到，據初步統計，截至7月2日，在委中資企業已向委方捐贈物資超120噸。
+
+---
+
+### 2026-07-03 06:35:30  #Trading Economics #Economy #New Zealand #ANZ Roy Morgan Consumer Confidence Index #Importance 1
+
+New Zealand Consumer Mood at 3-Month High — The ANZ-Roy Morgan Consumer Confidence climbed to 91.3 in June 2026 from 86.5 in May. The index has risen 4 points over the previous month, matching the increase recorded in March and marking the largest monthly gain in three months, but it remains 16 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, increased 9 points to -11. Two-year inflation expectations eased to 4.6% from 5.3%, while house price expectations were unchanged at 2.5%.
+
+---
+
+### 2026-07-03 06:35:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 3.30% — Top commodity gainers are Silver (3.30%), Gold (2.35%) and Platinum (1.76%). Biggest loser is Titanium (-2.11%).
+
+---
+
+### 2026-07-03 06:33:40  #MKT News
+
+U.S. grid operator PJM issued an alert directing dispatchers to immediately start all offline generating units and ramp them to full emergency maximum output.
+
+---
+
+### 2026-07-03 06:32:09  #其他
+
+提醒：淡水河谷將於7月21日披露（礦石）銷售資料，將於7月30日釋出二季度業績報告。
+
+---
+
+### 2026-07-03 06:30:35  #MKT News
+
+According to an HKEX filing, Shenzhen Hongxinyu Electronics Co., Ltd. has submitted a listing application.
+
+---
+
+### 2026-07-03 06:30:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Gains by 4.22% — Top commodity gainers are Natural Gas EU (4.22%), Natural Gas UK (4.06%) and Germany Natural Gas THE (2.22%). Biggest losers are Methanol (-2.10%), Propane (-1.82%), Heating Oil (-1.06%) and Crude Oil WTI (-0.16%). Meanwhile Brent Crude Oil was little changed.
+
+---
+
+### 2026-07-03 06:29:21  #資料 #央行 #國際
+
+【週五重要財經資訊提醒（以下均為北京時間）】
+① 全天 美國休市；
+② 08:30 日本6月服務業、綜合PMI終值；
+③ 09:45 中國6月RatingDog服務業、綜合PMI；
+④ 10:05 越南6月進出口、貿易餘額，二季度GDP；
+⑤ 13:00 印度6月服務業、綜合PMI終值；
+⑥ 15:45 義大利6月服務業、綜合PMI終值；
+⑦ 15:50 法國6月服務業、綜合PMI終值；
+⑧ 15:55 德國6月服務業、綜合PMI終值；
+⑨ 16:00 歐元區6月服務業、綜合PMI終值，歐洲央行行長拉加德在法國講話；
+⑩ 時間待定 國內成品油將開啟新一輪調價視窗；
+16:30 英國6月服務業、綜合PMI終值；
+23:00 歐洲央行管委兼德國央行行長Nagel、歐洲央行管委Makhlouf、英國央行行長貝利在法國講話；
+週六14:50 歐洲央行管委Kaasik講話；
+週六16:00 歐洲央行副行長Vujcic在法國講話；
+週六17:00 歐洲央行管委兼法國央行行長Moulin講話；
+週六時間待定 美國總統特朗普講話。
+
+---
+
+### 2026-07-03 06:26:35  #市場
+
+【銀價波動影響企業利潤，光伏行業借金融工具破解保供難題】2025年以來，受地緣局勢不確定性凸顯、全球貨幣政策預期變化、供需基本面調整等多重因素影響，貴金屬價格劇烈波動。其中，白銀價格波動率創歷史新高，對眾多工業用銀企業經營造成衝擊。光伏銀漿是太陽能電池製造的核心輔材，白銀在該環節的成本佔比超過90%。近期走訪多家實體企業瞭解到，部分頭部光伏銀漿企業及上游供應商，已著手組建專業的期貨期權交易團隊，一方面透過套期保值對生產經營環節的白銀價格敞口進行管理，另一方面參與期貨交割鎖定白銀實物的遠期貨源。（上證報）
+
+---
+
+### 2026-07-03 06:26:31  #公司 #國際
+
+【德媒：中企獲准收購歐洲零售巨頭】據德國《時代週報》近日報道，德國聯邦經濟與能源部日前表示已批准中國電商京東斥資22億歐元收購德國電子產品零售公司Ceconomy，但批准附帶一定條件。德國聯邦經濟與能源部發言人在週二的一份宣告中表示，該部在評估了交易對德國公共秩序和安全可能產生的影響後批准了該計劃，但附加一定條件：這家中國科技企業需要確保Ceconomy德國客戶的個人資料得到保護。此外，德國政府還獲得了廣泛的監督和控制權，如果未來出現違規情況，政府有權撤銷此次批准。（環球時報）
+
+---
+
+### 2026-07-03 06:24:36  #市場
+
+【上半年公募參與定增“成績單”曝光：錨定新質生產力，逾八成實現浮盈】2026年上半年，在波動加劇的市場環境中，定向增發正成為公募機構獲取超額收益的重要抓手，新質生產力方向成為公募扎堆的熱土。公募排排網統計資料顯示，截至2026年6月25日，今年以來共有23家公募機構合計參與了69只A股定增，合計獲配金額達336.23億元，較去年同期的109.17億元大增207.99%。23家公募中有19家實現浮盈，佔比達82.61%。按6月25日收盤價統計，今年以來公募參與定增合計浮盈82.61億元，浮盈比例達到24.57%。（上證報）
+
+---
+
+### 2026-07-03 06:22:08  #宏觀 #國際
+
+市場訊息：巴西政府出臺面向歐盟肉類出口的新規。
+
+---
+
+### 2026-07-03 06:18:08  #Trading Economics #Economy #Nigeria #Government Bond 10Y #Importance 0
+
+Nigeria 10Y Bond Yield Hits 12-month High — Nigeria 10 Year Government Bond Yield increased to 18.55%, the highest since June 2025. Over the past 4 weeks, Nigeria 10Y Bond Yield gained 358.20 basis points, and in the last 12 months, it increased 17.60 basis points.
+
+---
+
+### 2026-07-03 06:17:32  #MKT News #Market Themes #The Trump Trade #INTC.O #Impact mixed
+
+【Trump dodges question on potential US 5% OpenAI stake, highlights US 10% Intel holding】In a CNBC interview, Trump declined to say whether the US would take a 5% stake in OpenAI after a Financial Times report on a potential deal, instead highlighting the US government's stake in Intel. He cited last August's $8.9bn investment in Intel common stock that gave the US government a 10% holding and said he had demanded a 10% stake in return for fixing the company's problems.
+
+---
+
+### 2026-07-03 06:16:10  #國際
+
+美東時間17:45，美國電網運營巨頭PJM Interconnection LLC在Dominion地區的實時電價飆漲至2588美元/MWh。
+
+---
+
+### 2026-07-03 06:15:14  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Japanese Yen Rises by 0.90% — Top currency gainers are Japanese Yen (0.90%), South Korean Won (0.80%), Swiss Franc (0.76%), British Pound (0.55%) and Euro (0.50%). Biggest losers are Dollar Index (-0.52%) and Turkish Lira (-0.25%).
+
+---
+
+### 2026-07-03 06:11:28  #國際
+
+【敘利亞首都發生恐怖爆炸襲擊 死亡人數升至9人 】敘利亞首都大馬士革市中心司法宮附近一家咖啡館2日下午發生爆炸。據敘過渡政府衛生部最新訊息，此次襲擊已造成至少9人死亡，20人受傷。
+
+---
+
+### 2026-07-03 06:04:20  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+【Trump reiterates Iran will buy US agricultural products】CNBC reports Trump reiterated that under a potential peace accord to end US‑Iran hostilities Iran would purchase US agricultural products; Tehran has denied the claim. He said Iran "won't make money" and the US would "take some of the funds" to buy food—naming corn, wheat and soybeans—from US farmers. The memorandum signed last month to end the conflict included lifting a blockade on Iranian ports and easing some oil sanctions; Trump said the funds should finance food purchases, not rebuild Iran's military. Iran's central bank governor told TASNIM NEWS last month there is "no obligation" for Iran to buy agricultural inputs from the US.
+
+---
+
+### 2026-07-03 06:03:01  #資料
+
+紐西蘭澳新銀行 - 羅伊・摩根 6 月消費者信心指數：91.3，高於市場預期值 87.2，前值 86.5。
+
+---
+
+### 2026-07-03 06:02:36  #MKT News #Market Themes #AI Revolution #Chip Wars #Nasdaq100 #Impact bullish #S&P500 #DXY
+
+【Trump says AI bigger than late‑1990s internet; Goldman sees $700bn AI capex by 2026; predicts 40–60% of chip output in U.S.】According to CNBC, President Trump said on Thursday that AI investment is larger than the late‑1990s internet build and that overall capex figures support that view. Goldman Sachs estimated in 2025 that AI capital spending would need to reach $700bn by 2026 to match the late‑1990s telecom peak; in May the bank forecast AI capex of $765bn this year and annual spending rising to $1.6trln by 2031. Trump also said he expects 40–60% of chip manufacturing to be located in the United States by the time he leaves office.
+
+---
+
+### 2026-07-03 06:02:26  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為82.4%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為82.4%，累計加息25個基點的機率為17.6%。 美聯儲到9月維持利率不變的機率為46.8%，累計加息25個基點的機率為45.6%，累計加息50個基點的機率為7.6%。
+
+---
+
+### 2026-07-03 06:00:29  #市場 #焦點
+
+紐約期金突破4140美元/盎司，日內漲0.32%。
+
+---
+
+### 2026-07-03 05:57:43  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he does not want a global depression during his term.
+
+---
+
+### 2026-07-03 05:57:36  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump also praised Dell Inc (DELL.N).
+
+---
+
+### 2026-07-03 05:56:52  #MKT News #Market Themes #Chip Wars #MU.O
+
+U.S. President Trump said Micron Technology (MU.O) is a "hot company" run by a "great guy".
+
+---
+
+### 2026-07-03 05:55:31  #國際
+
+俄聯邦安全會議副主席梅德韋傑夫：芬蘭已解除本國境內禁止部署核武器的禁令。這對芬蘭人意味著什麼？只有一點微小變化：如今芬蘭已被列入俄羅斯核打擊目標清單。
+
+---
+
+### 2026-07-03 05:54:49  #MKT News #Market Themes #The Trump Trade #TSLA.O #Impact mixed
+
+Trump: Musk "not happy" with my decision on an electric-vehicle mandate.
+
+---
+
+### 2026-07-03 05:54:25  #國際
+
+特朗普：馬斯克對自己有關電動汽車強制法規的決議並不滿意。
+
+---
+
+### 2026-07-03 05:53:24  #MKT News
+
+President Trump said he wrote Elon Musk a note congratulating him on becoming a 'trillionaire'.
+
+---
+
+### 2026-07-03 05:52:10  #國際
+
+特朗普：昨天剛和美光科技通了話，這家企業現在勢頭正盛。
+
+---
+
+### 2026-07-03 05:51:45  #MKT News #Important #SPCX.O
+
+President Trump said he believes Musk will donate SpaceX (SPCX.O) shares to a "Trump account".
+
+---
+
+### 2026-07-03 05:51:01  #國際
+
+特朗普談及SpaceX股票捐贈事宜：認為馬斯克會這麼做。
+
+---
+
+### 2026-07-03 05:50:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President Trump said the US has completely defeated Iran militarily, that Iran still has some missiles, and that the US could destroy them all.
+
+---
+
+### 2026-07-03 05:50:15  #公司 #焦點 #國際
+
+特朗普稱讚美光和戴爾。
+
+---
+
+### 2026-07-03 05:49:35  #國際
+
+特朗普：馬斯克成為萬億富豪後，我給他寫過一張便條。
+
+---
+
+### 2026-07-03 05:49:14  #國際
+
+特朗普：自從馬斯克成為萬億富豪以來，我還沒跟他說過話。
+
+---
+
+### 2026-07-03 05:48:54  #國際
+
+特朗普：我和埃隆・馬斯克關係十分融洽。
+
+---
+
+### 2026-07-03 05:48:52  #MKT News
+
+US President Trump said he has a very good relationship with Elon Musk.
+
+---
+
+### 2026-07-03 05:48:28  #國際
+
+特朗普：伊朗衝突期間美方護送船隻駛出波斯灣。
+
+---
+
+### 2026-07-03 05:47:45  #國際
+
+【知名投資人Michael Burry做空美光科技股票 加倉房利美和房地美等】電影《大空頭》原型、知名投資人Michael Burry在週四晚些時候釋出的Substack文章中表示，他已做空美光股票，理由是其週期性，並對一些現有多頭頭寸進行了加倉。Burry稱，美光“最能體現週期性”。“美光股票是美國主要交易所中唯一純粹的動態隨機存取記憶體（DRAM）標的。景氣時期，股價會被過度炒作；不景氣時，又會被過度拋售”。Burry對貝寶、Sprouts、碩騰、房利美和房地美股票多頭頭寸進行了加倉。
+
+---
+
+### 2026-07-03 05:47:36  #MKT News #Market Themes #The Trump Trade
+
+Trump reiterated plan to use Iranian funds to purchase U.S. food.
+
+---
+
+### 2026-07-03 05:47:02  #國際
+
+特朗普：不想眼睜睜看著一場席捲全球的大蕭條發生。
+
+---
+
+### 2026-07-03 05:47:02  #MKT News
+
+Trump said he has been the most pro-Israel U.S. president in history.
+
+---
+
+### 2026-07-03 05:46:24  #國際
+
+特朗普重申利用伊朗資金購買食品的計劃。
+
+---
+
+### 2026-07-03 05:44:39  #國際
+
+特朗普談及伊朗：我認為他們幾乎答應了我們提出的所有條件。
+
+---
+
+### 2026-07-03 05:44:38  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+US President Trump (on Iran): I think they have almost agreed to everything we wanted.
+
+---
+
+### 2026-07-03 05:44:29  #MKT News #WTI #Impact bearish #Brent
+
+President Trump said Venezuela's oil sector is performing "unprecedentedly well" and that his policies helped restore the country's energy output.
+
+---
+
+### 2026-07-03 05:44:28  #MKT News
+
+【Trump says he will not sign housing bill before signing election bill】President Trump declined to commit to signing a bipartisan housing bill that passed Congress more than a week ago, saying he will not sign it until Congress sends the contested election measure, the SAVE America Act, to his desk. Trump called the SAVE America Act the most important bill now and for years to come. The measure would require voters to show photo ID at the polls and provide proof of citizenship when registering. He said the housing bill contains many Democratic provisions he objects to and that he would rather sign no bill until SAVE is enacted.
+
+---
+
+### 2026-07-03 05:44:24  #其他
+
+【阿爾及利亞舉行議會選舉】當日，阿爾及利亞議會舉行選舉，超2470萬名阿爾及利亞登記選民參與投票。本次選舉共有9854名候選人角逐國民議會（眾議院）的407個席位。（新華社）
+
+---
+
+### 2026-07-03 05:44:14  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+President Trump said the situation with Iran is about denuclearization rather than war, and that US actions remain focused on eliminating Iran's nuclear threat.
+
+---
+
+### 2026-07-03 05:44:06  #國際
+
+特朗普：伊朗還剩部分導彈，我們可以將其全部摧毀。
+
+---
+
+### 2026-07-03 05:43:22  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+US President Trump said Iran has no navy and no air force.
+
+---
+
+### 2026-07-03 05:43:17  #國際
+
+特朗普談及伊朗新領導層：我認為這實質上就是政權更迭。
+
+---
+
+### 2026-07-03 05:43:17  #MKT News
+
+US President Trump said he gets along well with Iran's new leadership.
+
+---
+
+### 2026-07-03 05:43:01  #國際
+
+特朗普：伊朗新領導人更加理性。
+
+---
+
+### 2026-07-03 05:41:53  #公司 #國際
+
+美國電網運營巨頭PJM互聯公司（PJM Interconnection LLC）因為高溫高熱天氣而釋出二級電網緊急警報。
+
+---
+
+### 2026-07-03 05:40:39  #國際
+
+特朗普：委內瑞拉石油產業如今發展狀況空前向好。
+
+---
+
+### 2026-07-03 05:40:18  #國際
+
+特朗普談及伊朗：目標是實現去核，而非發動戰爭。
+
+---
+
+### 2026-07-03 05:38:31  #MKT News #Market Themes #AI Revolution
+
+US President Trump said artificial intelligence is more important than the internet.
+
+---
+
+### 2026-07-03 05:37:54  #焦點 #國際
+
+特朗普：我依舊會推行關稅政策，但如今的力度會更大。
+
+---
+
+### 2026-07-03 05:37:41  #MKT News
+
+US President Trump said the housing bill contains many Democratic-leaning provisions and he is inclined not to sign it unless a voter ID requirement is added.
+
+---
+
+### 2026-07-03 05:36:46  #國際
+
+美國航空：美國航空執飛救援航班前往委內瑞拉加拉加斯。
+
+---
+
+### 2026-07-03 05:36:01  #國際
+
+特朗普談及住房法案：這份法案本身沒什麼問題。這份住房法案裡有大量民主黨傾向的條款。 在選民身份核驗法案落地前，我寧願不簽署這份住房法案。
+
+---
+
+### 2026-07-03 05:35:53  #MKT News #Market Themes #AI Revolution
+
+US President Trump said artificial intelligence, whether good or bad, is already being used.
+
+---
+
+### 2026-07-03 05:35:04  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump on the housing bill: no problem.
+
+---
+
+### 2026-07-03 05:34:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil edges higher on 2nd】As of the close, NYMEX August light sweet crude (WTI) rose $0.11 to $68.69/bbl, +0.16%; ICE September Brent gained $0.23 to $71.80/bbl, +0.32%.
+
+---
+
+### 2026-07-03 05:34:21  #國際
+
+特朗普談及住房法案：選民身份驗證法案才是重中之重。
+
+---
+
+### 2026-07-03 05:34:13  #國際
+
+特朗普談及人工智慧監管約束：近期出現過存在安全隱患的相關案例。
+
+---
+
+### 2026-07-03 05:34:00  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Trump to press on with effort to remove Federal Reserve governor Lisa Cook, says he'll 'win the case'】CNBC reports that despite a U.S. Supreme Court ruling the president currently lacks authority to remove Federal Reserve governor Lisa Cook, Trump said he will continue to seek her ouster from the Fed board. Asked how he would remove Cook, Trump said, By winning this case. He said the court remanded the matter on procedural grounds rather than the merits; the opinion left open the possibility Cook could be removed in future.
 
 ---
 
@@ -20002,426 +20474,5 @@ Iraqi security sources said a bomb-laden drone struck a camp belonging to an Ira
 ### 2026-07-02 05:22:34  #國際
 
 伊拉克安全訊息人士：載彈無人機襲擊伊拉克埃爾比勒以東的伊朗庫爾德反對派組織營地。
-
----
-
-### 2026-07-02 05:17:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Apple plans new iPad Pro and redesigned entry-level MacBook Pro for 2027】US tech reporter Mark Gurman reported Apple is planning upgraded iPad Pro models and a redesigned entry-level MacBook Pro for 2027. Apple is testing four iPad Pro models targeted for spring 2027; sizes will remain 11-inch and 13-inch. Upgrades are focused on internal changes, including faster chips. Apple has tested vapor-chamber heat-spread (VC liquid cooling) for iPads to improve sustained performance and reduce overheating. Separately, Apple plans a redesigned entry-level 14-inch MacBook Pro, codename K104, due in 1H 2027; its design will align with an upcoming high-end touch-screen MacBook expected late this year to early next year.
-
----
-
-### 2026-07-02 05:17:00  #焦點 #國際
-
-以色列定居者突襲約旦河西岸佔領區多個城鎮的民居與土地。
-
----
-
-### 2026-07-02 05:15:20  #市場
-
-富時A50期指連續夜盤收漲0.35%，報15300點。
-
----
-
-### 2026-07-02 05:10:17  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #BHP.N #Impact bullish
-
-BHP (BHP.N) has submitted an environmental permit application and plans to invest $1.5 bln to restart the Cerro Colorado copper mine in Chile.
-
----
-
-### 2026-07-02 05:08:25  #其他
-
-必和必拓稱已提交環境許可申請，擬投資15億美元重啟智利塞羅科羅拉多銅礦。
-
----
-
-### 2026-07-02 04:54:37  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
-
-Uruguay Holds Key Interest Rate — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its June 2026 meeting, as its projections continue to place inflation on a path toward convergence with the 4.5% target over the monetary policy horizon. Inflation expectations also remained aligned with the central bank’s objective. Annual inflation rose to 3.77% in May, driven by higher administered prices, particularly energy, reflecting the impact of global supply shocks. Core inflation edged up to 3.6%, though policymakers noted no significant second-round effects. Easing geopolitical tensions in the Middle East reduced global financial volatility and pressure on energy prices. Labor market and income indicators remained resilient, while economic activity continued to expand. The central bank said inflation is likely to rise in the short term, but the balance of risks remains broadly balanced over the policy horizon. Future policy decisions will depend on incoming inflation data and its underlying dynamics.
-
----
-
-### 2026-07-02 04:53:49  #公司
-
-【全新iPad Pro、重新設計入門款MacBook Pro正在籌備中】蘋果公司正計劃於明年推出升級款iPad Pro系列與全新改款入門MacBook Pro，恰逢iPhone問世20週年，該公司同期還規劃了多款重磅新品。蘋果正在測試四款內部硬體升級的全新iPad Pro機型，搭載效能更強的晶片；同時打造外觀重新設計的入門MacBook Pro。蘋果計劃2027年密集釋出多款硬體新品，首發首款M7處理器，同步推出第二代iPhone Air以及入門款iPhone。
-
----
-
-### 2026-07-02 04:53:24  #宏觀 #公司 #市場 #國際
-
-道富集團：道富SPDR標普500ETF被美國財政部選定為特朗普相關賬戶的獨家預設ETF。
-
----
-
-### 2026-07-02 04:52:54  #國際
-
-美國6月份輕型汽車總銷量增至1652萬輛，高於此前預期的1610萬輛。
-
----
-
-### 2026-07-02 04:52:16  #國際
-
-美國醫療保險和醫療補助服務中心（CMS）預估：2027自然年度聯邦醫保居家護理總支付金額將上調2.4%，新增支出4.2億美元。
-
----
-
-### 2026-07-02 04:52:06  #國際
-
-美國醫療保險和醫療補助服務中心（CMS）提出新增醫保參保資格撤銷依據，將高風險經營場所納入其中。
-
----
-
-### 2026-07-02 04:51:46  #國際
-
-美國醫療保險和醫療補助服務中心（CMS）釋出2027財年家庭健康預付費支付體系擬議規則，每年可節省8200萬美元支出並打擊欺詐行為。
-
----
-
-### 2026-07-02 04:51:35  #其他
-
-【象牙海岸阿比讓強降雨已致59人死亡】象牙海岸新聞部長、政府發言人阿馬杜·庫利巴利1日表示，今年雨季以來，科經濟首都阿比讓的連續強降雨引發山體滑坡、塌方和內澇等自然災害，已造成59人死亡。
-
----
-
-### 2026-07-02 04:50:45  #公司 #市場
-
-【7月2日美股成交額前20：Meta籌劃進軍雲端計算，股價應聲大漲】週三美股成交額第3名Meta Platforms收高8.81%，成交276.61億美元。據報道，Meta正籌劃推出一項全新的雲基礎設施業務，計劃對外出售其過剩的AI計算能力和模型訪問許可權，此舉將直接挑戰亞馬遜AWS、微軟Azure和谷歌雲在雲端計算領域的主導地位。據Meta執行長扎克伯格在年度股東大會上透露，進軍雲端計算市場“絕對在考慮範圍內”。他表示幾乎每週都有外部公司前來詢問能否以溢價購買Meta的算力，若未來出現算力過剩，對外出租將是自然的選擇。分析認為，Meta此舉有望開闢新的收入來源，緩解市場對公司鉅額AI投資回報的擔憂。
-
----
-
-### 2026-07-02 04:49:18  #其他
-
-蘋果規劃2027上半年推出新款iPad Pro與MacBook Pro機型。
-
----
-
-### 2026-07-02 04:49:11  #其他
-
-蘋果籌備全新iPad Pro、全新改款入門款MacBook Pro。
-
----
-
-### 2026-07-02 04:49:02  #其他 #焦點
-
-蘋果計劃於明年上半年推出基礎版M7晶片。
-
----
-
-### 2026-07-02 04:48:52  #公司 #國際
-
-亞馬遜雲科技：美國海關與邊境保護局（CBP）認定亞馬遜海關貿易業務為合規合作主體。
-
----
-
-### 2026-07-02 04:48:21  #MKT News
-
-Qatar's foreign minister said Qatar and Pakistan, acting as mediators, met separately in Doha today with U.S. and Iranian negotiators.
-
----
-
-### 2026-07-02 04:48:10  #國際
-
-卡達外交部發言人：各方同意在後續階段繼續磋商，待伊朗前最高領袖葬禮相關事宜結束後，將盡快安排下一輪會談。
-
----
-
-### 2026-07-02 04:47:51  #MKT News
-
-Qatar's foreign minister said positive progress is being made on issues related to the Islamabad memorandum of understanding. Parties have agreed to continue talks over the near term and to hold the next round of discussions as soon as possible after the funeral of the former Iranian supreme leader.
-
----
-
-### 2026-07-02 04:47:09  #焦點 #國際
-
-卡達外交部發言人：卡達與巴基斯坦調停方今日在多哈分別與美國、伊朗談判代表舉行了會晤，雙方在與《伊斯蘭堡諒解備忘錄》相關議題上已取得積極進展。
-
----
-
-### 2026-07-02 04:46:39  #焦點 #國際
-
-卡達外交大臣安薩里：卡達與巴基斯坦調解人員已在多哈分別同美國、伊朗談判代表舉行會談。
-
----
-
-### 2026-07-02 04:45:11  #宏觀 #公司 #國際
-
-先鋒集團將擔任特朗普賬戶備選基金合作機構；公司表示，待收到美國財政部相關指引後，將支援資金轉入操作。
-
----
-
-### 2026-07-02 04:44:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Edges Lower Following Election Poll — The Ibovespa fell 0.2% to close at 171,689 on Wednesday as investors reacted to a new presidential election poll and fresh manufacturing data. An AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a fiscally looser policy stance. Financial stocks were among the main drags, with Bradesco down 0.2% and Banco do Brasil losing 0.9%. WEG fell 1.4% and Ambev retreated 0.5% after the latest S&P Global manufacturing PMI showed a return to expansion, though the improvement was mainly driven by hiring and stockpiling while output and new orders remained in contraction. Utilities also traded lower, with Axia down 0.7%, while Engie plunged 6.1% after announcing the resignation of Pierre Jean Bernard Guiollot from its board of directors.
-
----
-
-### 2026-07-02 04:41:28  #觀點 #國際
-
-【高盛預估：世界盃或將為6月就業報告新增4萬個崗位】高盛表示，受世界盃拉動，週四即將公佈的6月非農就業資料或將好於市場預期。高盛稱，小企業薪資服務商Homebase的資料顯示，足球賽事對招聘產生了一定提振作用，當月新增約4萬個工作崗位。
-
----
-
-### 2026-07-02 04:38:18  #宏觀 #公司 #國際
-
-先鋒集團：美國財政部選定先鋒整體股市ETF（VTI）作為特朗普賬戶的替代投資選項。
-
----
-
-### 2026-07-02 04:38:02  #宏觀 #國際
-
-美國財政部為特朗普專屬賬戶計劃選定貝萊德旗下安碩ETF產品IVV與ITOT；相關獲批基金預計在專案正式落地後的數月內開放投資渠道。
-
----
-
-### 2026-07-02 04:37:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
-
-Goldman Sachs estimates the World Cup could add about 40,000 jobs to the U.S. June payrolls report, CNBC reports.
-
----
-
-### 2026-07-02 04:37:04  #國際
-
-美國國家颶風中心：低氣壓增強為熱帶風暴道格拉斯。
-
----
-
-### 2026-07-02 04:36:43  #宏觀 #公司 #國際
-
-領航集團：在收到美國財政部的指導意見後，領航集團打算支援特朗普相關賬戶的資金滾轉操作。
-
----
-
-### 2026-07-02 04:35:15  #國際
-
-烏克蘭：防空系統攔截了針對基輔的俄羅斯無人機襲擊，無人機殘骸墜落在至少兩個行政區境內。
-
----
-
-### 2026-07-02 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.06% Higher — The Dow Jones Index rose 31 points or 0.06 percent on Wednesday to close at 52350 points. Leading the gains are Nike (5.07%), Salesforce (4.56%) and Microsoft (3.05%). Top losers were Caterpillar (-6.77%), Walmart (-3.88%) and Merck (-2.44%).
-
----
-
-### 2026-07-02 04:32:46  #國際
-
-特朗普：歷經數十年，古巴如今正向我方靠攏；西班牙也該認清現實，西班牙算不上北約合格成員國。
-
----
-
-### 2026-07-02 04:32:31  #MKT News #XAUUSD #Impact bullish #DXY
-
-Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations.
-
----
-
-### 2026-07-02 04:31:42  #國際
-
-先鋒領航股票市場ETF被選為特朗普賬戶投資標的。
-
----
-
-### 2026-07-02 04:31:23  #公司 #國際
-
-先鋒集團將擔任特朗普賬戶的備選基金合作方。
-
----
-
-### 2026-07-02 04:30:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-The New York Times reported U.S. Vice President Vance defended Trump’s approach to war and negotiations with Iran, saying the U.S. is using military force as a key bargaining chip in peace talks and that Trump’s demands on the military are markedly higher than those of prior presidents.
-
----
-
-### 2026-07-02 04:30:07  #公司 #觀點
-
-【軟銀集團擬以OpenAI股權擔保籌集100億美元貸款】知情人士透露，軟銀集團正與多家貸款機構談判，擬以OpenAI股權擔保籌集100億美元貸款。為了打消貸款方的顧慮，軟銀提議為貸款償還提供擔保，如果作為抵押品的OpenAI股份貶值，銀行可向軟銀追索。該貸款財團預計將包括高盛 、摩根大通和瑞穗集團。
-
----
-
-### 2026-07-02 04:29:06  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. President Trump said oil prices are falling.
-
----
-
-### 2026-07-02 04:28:57  #MKT News #WTI #Impact bearish #Brent
-
-US President Trump said vessels are leaving the Strait of Hormuz.
-
----
-
-### 2026-07-02 04:28:21  #國際
-
-美國副總統萬斯為特朗普有關伊朗戰事的談判舉措辯護，稱美方正藉助軍事力量推進和平談判；他同時承認，相較於歷任總統，特朗普對軍方提出了更高要求。
-
----
-
-### 2026-07-02 04:27:20  #市場 #國際
-
-特朗普：油價正在下跌。
-
----
-
-### 2026-07-02 04:27:09  #國際
-
-特朗普：大量船隻正駛出霍爾木茲海峽。
-
----
-
-### 2026-07-02 04:26:41  #國際
-
-烏克蘭：基輔市中心發生爆炸並引發火災。
-
----
-
-### 2026-07-02 04:26:06  #宏觀 #國際
-
-美國財政部：特朗普賬戶的繳存資金將全部投向SPYM交易所交易基金（ETF），SPYM將設為所有賬戶的預設投資標的，特朗普專屬賬戶配置清單還包含IVV、VTI、SPTM、ITOT產品。
-
----
-
-### 2026-07-02 04:25:40  #MKT News
-
-President Trump said the US has built the most advanced submarines ever and is 15 years ahead of rivals in submarines and several other areas.
-
----
-
-### 2026-07-02 04:24:53  #國際
-
-特朗普：股市頻頻創下歷史新高。
-
----
-
-### 2026-07-02 04:22:03  #國際
-
-特朗普： 2024年我們擊敗了一位名叫卡瑪拉的年輕女性，她看似精明，實則毫無頭緒。
-注：擊敗民主黨總統候選人哈里斯。
-
----
-
-### 2026-07-02 04:21:11  #MKT News
-
-【Dollar index up 0.2% to 101.39 at New York close】The dollar index, measuring the dollar against six major currencies, rose 0.2% to 101.39 at the New York close. EUR/USD 1.1380 (previous session 1.1420); GBP/USD 1.3278 (1.3255); USD/JPY 162.53 (162.62); USD/CHF 0.8092 (0.8083); USD/CAD 1.4216 (1.4204); USD/SEK 9.7300 (9.7005).
-
----
-
-### 2026-07-02 04:20:25  #市場
-
-【美元指數1日上漲】美元指數1日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於101.39。截至紐約匯市尾市，1歐元兌換1.1380美元，低於前一交易日的1.1420美元；1英鎊兌換1.3278美元，高於前一交易日的1.3255美元。1美元兌換162.53日元，低於前一交易日的162.62日元；1美元兌換0.8092瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.4216加元，高於前一交易日的1.4204加元；1美元兌換9.7300瑞典克朗，高於前一交易日的9.7005瑞典克朗。
-
----
-
-### 2026-07-02 04:19:01  #國際
-
-市場資訊：一股極端高溫熱浪席捲美國東部半數地區。
-
----
-
-### 2026-07-02 04:18:23  #國際
-
-伊朗議會議長卡利巴夫：不允許對遭轟炸的伊朗核設施開展核查。
-
----
-
-### 2026-07-02 04:17:56  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Slide as Chipmakers Sink — US equity indices closed lower on Wednesday as investors reassessed the sustainability of the AI-driven rally. The S&P 500 fell 0.2%, while the Nasdaq 100 dropped 1.5%, pressured by a sharp selloff in semiconductor stocks. Major chipmakers led the decline as concerns persisted that AI-related investments may have become overstretched. Micron Technology plunged 10.6%, while AMD lost 6.9% and Intel dropped 9%. In contrast, Meta surged 8.8% after announcing plans to develop a cloud business aimed at monetizing excess AI computing capacity. Other hyperscalers within the Magnificent Seven extended their rebound, with Microsoft rising 3%, Amazon gaining 1.4%, and Alphabet up 1.1%. Meanwhile, the Dow Jones closed near flat as economically sensitive sectors outperformed after data showed US manufacturing activity expanded for a sixth straight month while input cost pressures eased. Fed Chairman Warsh noted that inflation risks are decreasing, limiting the need for an urgent hawkish response.
-
----
-
-### 2026-07-02 04:17:52  #MKT News #9984.T #Impact bullish
-
-【Sources: SoftBank restarts $10 bln loan talks secured by OpenAI stake, offers concessions】SoftBank has restarted negotiations on a $10 bln loan secured by its OpenAI stake, two people familiar with the matter said. Talks had stalled amid lender concerns about valuing a private-company stake. To address those concerns, SoftBank proposed guarantees and contractual recourse allowing lenders to pursue SoftBank if the OpenAI collateral falls in value. The lending group is expected to include Goldman Sachs, JP Morgan and Mizuho Financial Group.
-
----
-
-### 2026-07-02 04:15:43  #觀點
-
-高盛、摩根大通與瑞穗銀行預計將納入向軟銀貸款100億美元的銀團。
-
----
-
-### 2026-07-02 04:15:14  #國際
-
-特朗普： 我們會處理落地公民權這件事，這項制度原本就不是給其他國家的富人設立的。 實際上，它當初是為奴隸的子女設立的。
-
----
-
-### 2026-07-02 04:14:24  #國際
-
-特朗普：我們會想辦法解決出生公民權問題。
-
----
-
-### 2026-07-02 04:14:14  #國際
-
-特朗普： 我好幾次都說過，我認真考慮過給自己頒發國會榮譽勳章。 大家都清楚我只是開玩笑隨口一說，可媒體報道出來就變成“他想給自己頒國會榮譽勳章。” 所以我現在再也不說這話了，講這種話很容易惹麻煩。
-
----
-
-### 2026-07-02 04:13:53  #公司
-
-軟銀正在與貸款機構談判，以獲得一筆100億美元的保證金貸款，該貸款由OpenAI的股份和還款擔保支援。
-
----
-
-### 2026-07-02 04:13:29  #MKT News
-
-SoftBank is in talks with lenders to raise a $10 billion margin loan secured by its OpenAI stake and a repayment guarantee, people familiar with the matter said. Goldman Sachs, JP Morgan and Mizuho Financial Group are expected to join the lending syndicate.
-
----
-
-### 2026-07-02 04:10:47  #國際
-
-特朗普：羅斯福總統提醒我們所有人，想要成為偉大且自由的國家，我們必須擁有勇氣。正如老羅斯福所言，自由絕非能長久握在懦夫手中的饋贈。
-
----
-
-### 2026-07-02 04:10:17  #MKT News
-
-US President Trump said Spain is a NATO member but not a very good one, adding its behavior is not very friendly and that it will learn what to do.
-
----
-
-### 2026-07-02 04:09:01  #MKT News
-
-Trump: Cuba is moving closer to the United States.
-
----
-
-### 2026-07-02 04:08:10  #公司
-
-蘋果公司擬向長鑫儲存以及長江儲存採購儲存晶片，用於在中國市場銷售的裝置。
-
----
-
-### 2026-07-02 04:07:40  #其他
-
-烏拉圭中央銀行維持關鍵利率在5.75%不變。
-
----
-
-### 2026-07-02 04:07:29  #國際
-
-特朗普：西班牙不是北約的好成員。
-
----
-
-### 2026-07-02 04:05:42  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-US equities on Wednesday, July 1: Dow Jones Industrial Average closed down 12.98 points, or 0.02%, at 52,306.22; S&P 500 closed down 15.97 points, or 0.21%, at 7,483.39; Nasdaq Composite closed down 173.69 points, or 0.66%, at 26,040.03.
-
----
-
-### 2026-07-02 04:05:24  #MKT News
-
-Central Bank of Uruguay kept its benchmark interest rate at 5.75%, unchanged.
-
----
-
-### 2026-07-02 04:05:06  #市場 #央行 #國際
-
-【沃什希望美聯儲減少發聲 華爾街擔憂市場波動恐加劇】凱文·沃什執掌美聯儲僅數週時間，但分析師已開始擔心，他希望央行減少發聲的關鍵承諾可能會加劇市場波動。對華爾街許多人而言，美聯儲的指引有助於他們為央行可能採取的行動做準備。美聯儲減少發聲可能增加市場對利率政策路徑的不確定性，隨著新資料促使交易員重新評估前景，這不僅可能加劇國債市場的波動，還會推高美債的溢價，因為投資者在購買這些債券時會要求更高的回報補償。道明證券策略師Gennadiy Goldberg和Molly Brooks週三在研報中寫道：“市場對前瞻性指引的依賴總體上降低了不確定性，並導致交易倉位更加集中。取消前瞻性指引應該會導致市場波動加劇，同時推高期限溢價。”
 
 ---
