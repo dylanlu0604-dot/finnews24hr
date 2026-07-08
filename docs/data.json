@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-09 01:52:03",
-  "count": 15990,
+  "updated": "2026-07-09 01:55:55",
+  "count": 15996,
   "items": [
+    {
+      "id": "4977472",
+      "time": "2026-07-09 01:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：無論何時出現問題，特朗普都能在24小時內聯絡上。"
+    },
+    {
+      "id": "4977471",
+      "time": "2026-07-09 01:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：土耳其並未受到美國製裁，不存在這一問題。"
+    },
+    {
+      "id": "4977470",
+      "time": "2026-07-09 01:54:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長稱以行動回應特朗普惡言】當地時間7月8日，伊朗外長阿拉格齊就美國總統特朗普有關言論在社交媒體平臺發文表示，“（特朗普）用貶損之詞針對文明勇武的伊朗，無損伊朗之偉大。伊朗人以彬彬有禮、底蘊深厚和高尚品德著稱。我們不以粗鄙回應粗鄙，而是以行動作答：無畏無懼，充滿勇氣。”"
+    },
+    {
+      "id": "4977469",
+      "time": "2026-07-09 01:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：美國目前已基本解除對土耳其的國防制裁。"
+    },
+    {
+      "id": "4977468",
+      "time": "2026-07-09 01:53:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟Xbox將讓黑曜石工作室開發全新《輻射》電子遊戲。"
+    },
+    {
+      "id": "4977467",
+      "time": "2026-07-09 01:53:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國法官裁定特朗普向E·吉恩·卡羅爾支付500萬美元賠償金】美國紐約聯邦法官劉易斯·卡普蘭週三下達裁定，要求特朗普履行對E·吉恩·卡羅爾的賠付義務，此前陪審團已判定特朗普對她實施性侵併構成誹謗。該法官下令特朗普需賠付500萬美元判決賠償金，另加近80萬美元利息。另一起關聯案件的陪審團裁定，特朗普還需向卡羅爾額外支付8300萬美元損害賠償金，該案件目前仍處於上訴流程中。"
+    },
+    {
+      "id": "4977466",
+      "time": "2026-07-09 01:52:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國紐約一名聯邦法官裁定，因陪審團認定特朗普對E·吉恩·卡羅爾存在性侵及誹謗行為，特朗普需向其支付500萬美元賠償金，外加近80萬美元利息。"
+    },
     {
       "id": "4977465",
       "time": "2026-07-09 01:50:10",
@@ -146021,14 +146079,6 @@
         "MKT News"
       ],
       "text": "【ECB's Stournaras says further tightening may not be needed after June hike】ECB Governing Council member Stournaras said an unexpected fall in energy prices and slowing euro-area inflation may mean the bank does not need to tighten policy further after a June rate increase. Euro-area CPI eased to 2.8% YoY, below forecasts, which he called a clear downside surprise. He said attention should shift to how firms pass through energy-cost changes and how AI-driven investment could alter price dynamics. \"I don't expect any change in July unless things deteriorate significantly,\" he said, and he favors keeping policy unchanged for a period. The ECB has already raised rates to 2.25%. Stournaras cited Gulf central bankers' assessments that recent shocks caused limited damage to energy infrastructure and said Iran may release more crude, countering prior market tightness assumptions. He warned energy-price rises transmit quickly to consumer prices while declines pass through more slowly, reflecting limited competition in parts of Europe, and noted AI investment could weigh on electronics prices, notably imports from Korea and Taiwan."
-    },
-    {
-      "id": "mkt:019f1ed0-0b13-7aab-8c64-c5fa895240cf",
-      "time": "2026-07-02 01:52:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Department of Justice said a suspected member of the cybercriminal group Scattered Spider was arrested in Finland and extradited to the United States."
     }
   ]
 }
