@@ -1,7 +1,62 @@
 {
   "date": "2026-07-08",
-  "count": 1286,
+  "count": 1292,
   "items": [
+    {
+      "id": "mkt:019f3ffe-0ac7-7aab-8ce0-9e75fe66b397",
+      "time": "2026-07-08 12:30:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "A senior lawmaker said Japan's ruling party is considering tightening disclosure rules for activist investors."
+    },
+    {
+      "id": "mkt:019f3ffd-a893-7aab-8ce0-941e66bd2f9c",
+      "time": "2026-07-08 12:30:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Former US naval officer says US‑Iran tensions very serious, further escalation possible】Harlan Ullman, chairman of the Kilowen Group and a retired US Navy officer, called current US‑Iran tensions very serious and warned they could escalate into a regional war, saying the next few days are critical. He blamed recent attacks on ships in the Strait of Hormuz on Iran and said the timing — during the multi‑day funeral for Iran’s assassinated supreme leader and a NATO summit in Turkey — suggests Tehran sought to raise pressure on Washington and strengthen its bargaining position while betting US military retaliation would be constrained by the risk of causing civilian casualties that would draw international condemnation. Ullman warned the standoff could lift global oil prices and increase political pressure on Trump."
+    },
+    {
+      "id": "4975633",
+      "time": "2026-07-08 12:29:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里Q1財報前瞻：閃購保持份額，UE持續改善，減虧快於市場預期】阿里巴巴2027財年Q1財報前瞻顯示，整體電商業務（中國電商+AIDC）利潤穩健，恢復增長。淘寶閃購減虧快於市場預期，與競對UE差距收窄，降補過程中市場份額保持穩定。淘寶閃購重點已轉為高客單價的餐飲和非餐訂單，接下來UE有望繼續改善。（介面新聞）"
+    },
+    {
+      "id": "mkt:019f3ffc-c924-7aab-8ce0-8ea29dc71e99",
+      "time": "2026-07-08 12:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's NIFTY Oil & Gas index fell 1.5%."
+    },
+    {
+      "id": "4975632",
+      "time": "2026-07-08 12:28:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：光模組國產替代程序持續深化 家電集團跨界佈局形成良性互動】東方證券釋出研報稱，光模組競爭格局呈現“一超多強”態勢，技術壁壘向光晶片自主設計、先進封裝等3.0時代演進，國產替代程序持續深化。家電企業以成熟主業的穩定現金流支撐硬科技投入，在AI算力產業鏈中尋找“第二增長曲線”。海信集團“家電+顯示+通訊”科技資本矩陣持續完善，納真科技作為集團在AI算力基礎設施賽道的戰略落子，與海信家電(000921.SZ)、海信視像(600060.SH)在全球化運營、供應鏈管理及技術研發等方面有望形成深度協同效應。"
+    },
+    {
+      "id": "4975631",
+      "time": "2026-07-08 12:28:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東海證券：AI算力基建持續景氣 關注相關高階製造裝備機遇】東海證券釋出研報稱，生成式AI需求指數級爆發，算力基建持續景氣。位元組豆包、谷歌Gemini等大模型Token呼叫量，算力需求呈指數級擴張。北美網際網路巨頭持續加碼AI資本開支，2025年五家科技企業資本開支合計3575.08億美元，同比大增64.55%。根據IDC預測2024年全球AI總投資3159億美元，2029年將達12619億美元，五年複合增速31.9%，AI基礎設施、硬體裝置產業鏈長期受益。關注圍繞算力相關，高階製造裝備機遇。"
+    },
     {
       "id": "4975629",
       "time": "2026-07-08 12:26:51",
