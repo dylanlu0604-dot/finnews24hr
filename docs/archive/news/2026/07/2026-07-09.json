@@ -1,7 +1,63 @@
 {
   "date": "2026-07-09",
-  "count": 811,
+  "count": 817,
   "items": [
+    {
+      "id": "4977755",
+      "time": "2026-07-09 07:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月09日07時44分在四川宜賓市高縣（北緯28.51度，東經104.68度）發生4.8級地震，震源深度6千米。"
+    },
+    {
+      "id": "4977754",
+      "time": "2026-07-09 07:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海多區釋出雷電黃色預警】據上海釋出，上海市氣象臺7月9日00時30分發布中心城區雷電黃色預警訊號：預計今天上午以前，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。"
+    },
+    {
+      "id": "4977753",
+      "time": "2026-07-09 07:56:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "今年以來，英偉達股價明顯落後於整體晶片行業表現。美國銀行認為，這是一個“更具吸引力的買入機會”，而不是風險警示訊號。分析師Vivek Arya承認市場確實存在一些令投資者擔憂的因素，但他認為市場反應過度。"
+    },
+    {
+      "id": "mkt:019f4428-afa1-7aab-8d01-4570a6deca86",
+      "time": "2026-07-09 07:55:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA lags peers YTD; BofA says market overreacting】NVIDIA has materially underperformed the broader chip sector year-to-date, but BofA calls the weakness a more attractive buy than a risk signal. Analyst Vivek Arya concedes real investor concerns — notably rising HBM costs — but says the market has overreacted and underestimated NVIDIA's pricing power, scale and roughly $119 bln of supply commitments. He expects next‑generation Rubin pricing could be meaningfully higher than current Blackwell products, allowing the company to offset higher HBM costs and sustain gross margins in the mid‑70s pct range. Arya also downplays custom‑chip competition (e.g., Google/Broadcom TPU), noting TPU has existed for >10 years while NVIDIA GPU revenue grew ~700x; he projects NVIDIA will capture about 65–70% of hyperscaler AI infrastructure spend over the long term. NVIDIA trades at a forward P/E of ~18.69x, roughly half its 10‑year average and near an 11‑year trough."
+    },
+    {
+      "id": "4977752",
+      "time": "2026-07-09 07:55:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化簽約烏茲別克首個全產業鏈可持續航空燃料（SAF）專案設計合同】據中國石化報，在第五屆塔什干國際投資論壇期間，中國石化煉化工程集團所屬寧波工程公司與烏茲別克聯合生物能源公司（Allied biofuels FE LLC）正式簽署該國可持續航空燃料（SAF）專案前端工程設計及詳細設計合同。此次簽約是中國石化煉化工程板塊海外低碳新能源業務的重要突破。該專案是中亞首個大型全產業鏈生物航油綜合體，集生物質原料加工、綠色制氫、可持續航空燃料、電合成航油（e-SAF）、綠色柴油生產於一體。"
+    },
+    {
+      "id": "mkt:019f4428-578e-7aab-8d01-39fa757ed80a",
+      "time": "2026-07-09 07:55:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan broad money YoY 4.5% in June, down from 4.7% previously."
+    },
     {
       "id": "mkt:019f4428-3b03-7aab-8d01-364cb2f0786b",
       "time": "2026-07-09 07:55:14",
