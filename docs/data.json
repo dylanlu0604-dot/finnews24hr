@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-09 00:14:46",
-  "count": 15840,
+  "updated": "2026-07-09 00:18:55",
+  "count": 15842,
   "items": [
+    {
+      "id": "mkt:019f4285-9bef-7aab-8cf8-70a356f2a087",
+      "time": "2026-07-09 00:18:00",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish",
+        "RTX.N"
+      ],
+      "text": "Trump said he has instructed U.S. defense contractors, including Lockheed Martin (LMT.N) and Raytheon Technologies (RTX.N), to build new factories."
+    },
+    {
+      "id": "4977306",
+      "time": "2026-07-09 00:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已指示包括洛克希德、雷神在內的美國國防企業建設新工廠。"
+    },
+    {
+      "id": "mkt:019f4284-4af6-7aab-8cf8-6c1574131995",
+      "time": "2026-07-09 00:16:33",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Sources said Abu Dhabi-based Etihad Airways is close to a deal to order 10 Boeing Co (BA.N) 787 aircraft."
+    },
+    {
+      "id": "mkt:019f4284-3a07-7aab-8cf8-66ab4c269bdc",
+      "time": "2026-07-09 00:16:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Trump said other NATO members' defense spending rose nearly $150bln in 2025, much of it spent on U.S.-made equipment."
+    },
+    {
+      "id": "4977305",
+      "time": "2026-07-09 00:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他北約成員國2025年國防開支驟增近1500億美元，其中大部分用於採購美國製造的裝備。"
+    },
+    {
+      "id": "4977304",
+      "time": "2026-07-09 00:15:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "訊息人士稱，阿布扎比的阿提哈德航空接近達成訂購10架波音787飛機的交易。"
+    },
+    {
+      "id": "mkt:019f4282-e8fa-7aab-8cf8-5e15a7514966",
+      "time": "2026-07-09 00:15:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: We must accelerate production of defense equipment."
+    },
+    {
+      "id": "4977303",
+      "time": "2026-07-09 00:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們必須更快地生產防禦裝備。"
+    },
+    {
+      "id": "4977302",
+      "time": "2026-07-09 00:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：儘管近期雙方公開出現分歧、致使雙邊關係趨緊，但並不後悔與美國總統特朗普建立密切往來。"
+    },
+    {
+      "id": "te:markets:565375",
+      "time": "2026-07-09 00:14:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Drop Sharply — European stocks closed sharply lower on Wednesday, tracking a global equity downturn after Iran and the US exchanged new strikes and raised inflationary risks for the Eurozone. The Euro STOXX 50 fell 2.0% to 6,190 and the STOXX Europe 600 fell 1.8% to 634. The US moved to block Iran oil sales after the war was reignited and President Trump invalidated the current ceasefire. The resulting surge in fuel prices raised sovereign yields to reflect expectations that the ECB is likely to deliver more rate hikes this year. Santander and Deutsche Bank sank more than 5%. Also, UniCredit dropped 2.9% after it increased its stake Commerzbank, increasing the likelihood of a full takeover in the upcoming quarters. Meanwhile, the AI trade continued to be unwound as software companies came under new pressure, with SAP sliding 4%."
+    },
     {
       "id": "4977301",
       "time": "2026-07-09 00:13:44",
@@ -144624,84 +144719,6 @@
         "其他"
       ],
       "text": "愛爾蘭總理：將致力於開放所有剩餘產業叢集。"
-    },
-    {
-      "id": "4965781",
-      "time": "2026-07-02 00:18:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯正準備對烏克蘭發動新一輪大規模空襲。"
-    },
-    {
-      "id": "4965780",
-      "time": "2026-07-02 00:18:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "據福克斯商業頻道：美國總統特朗普已決定不延長美墨加協定。"
-    },
-    {
-      "id": "4965779",
-      "time": "2026-07-02 00:17:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "道指重新整理盤中歷史新高，現漲0.79%。"
-    },
-    {
-      "id": "4965778",
-      "time": "2026-07-02 00:17:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國與坦尚尼亞簽署諒解備忘錄，承諾共同抗擊傳染病。 美國計劃依據與坦尚尼亞簽署的諒解備忘錄，五年內投入 13 億美元。"
-    },
-    {
-      "id": "mkt:019f1e78-00fb-7aab-8c63-23d944534d65",
-      "time": "2026-07-02 00:16:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "Dow Jones Industrial Average hit an intraday record high, currently up 0.79%."
-    },
-    {
-      "id": "4965777",
-      "time": "2026-07-02 00:16:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美貿易代表：美國決定不續簽美墨加協定】央視記者當地時間7月1日獲悉，美國貿易代表傑米森·格里爾表示，美國決定不續簽與加拿大和墨西哥的貿易協定，而是選擇對該協定進行年度審查。美墨加協定於2020年7月1日正式生效，取代1994年1月生效的北美自由貿易協定，2036年到期。（央視新聞）"
-    },
-    {
-      "id": "te:economy:563523",
-      "time": "2026-07-02 00:15:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Unemployment Rate Edges Down — The unemployment rate in Russia edged down to 2.1% in May 2026 from 2.2% in the previous month. The number of unemployed declined slightly to 1.6 million from 1.7 million, while the labour force edged up to 76.3 million from 76.2 million. Employment increased to 74.7 million from 74.5 million, lifting the employment rate to 61.5% after a 0.3% rise. The persistently tight labour market reflects widespread labour shortages across sectors, driven by military recruitment following Russia’s invasion of Ukraine in February 2022, and ongoing emigration. Authorities expect conditions to remain constrained for years, forecasting a labour shortfall of around 3.1 million workers by 2030."
-    },
-    {
-      "id": "te:markets:563522",
-      "time": "2026-07-02 00:15:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Slips Amid ECB Forum — The CAC 40 fell 0.8% to close at 8,337 on Wednesday as investors paused after strong gains over the previous three-month period and monitored developments at the ECB Forum. Governing Council member Martinš Kazaks signaled there was no urgency for the ECB to raise interest rates in July, noting that easing oil prices linked to peace efforts in the Middle East had helped reduce inflation pressures. Meanwhile, the US and Iran held indirect technical talks in Doha aimed at securing shipping flows through the Strait of Hormuz and reaching a lasting ceasefire. Luxury stocks traded lower, with L'Oréal down 0.9%. Schneider Electric fell 3.1% after agreeing to acquire Cognite. TotalEnergies lost 3.1% as oil prices remained near pre-conflict lows. Air Liquide rose 1.7% after announcing a $170 million investment in the US to supply ultra-pure gases to SK Hynix. Airbus added 1.9% after Scandinavian Airlines placed an order for up to 40 widebody aircraft."
     }
   ]
 }
