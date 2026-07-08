@@ -1,7 +1,154 @@
 {
   "date": "2026-07-08",
-  "count": 909,
+  "count": 923,
   "items": [
+    {
+      "id": "4975358",
+      "time": "2026-07-08 09:52:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報8238.00點。"
+    },
+    {
+      "id": "mkt:019f3f6d-256d-7aab-8cdc-12ca7783a494",
+      "time": "2026-07-08 09:52:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "China A-shares opened higher then reversed: ChiNext Index down 1.0%, Shenzhen Composite Index down 1.39%, Shanghai Composite Index down 0.23%."
+    },
+    {
+      "id": "4975357",
+      "time": "2026-07-08 09:52:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【在美國隔夜拋售後，韓國晶片股反彈，因晶片供應依然緊張】週三，韓國晶片製造商三星電子和SK海力士 的股價在早盤下跌後反彈，此前受對人工智慧驅動的晶片熱潮可持續性擔憂影響，市場出現大幅拋售，投資者趁低吸納。早盤交易中，三星電子一度上漲1.4%，SK海力士一度上漲5.8%，此前兩家公司曾分別下跌4.4%和5%，最初是跟隨隔夜美國半導體股的下跌走勢。分析師表示，財報季才剛剛開始，市場對晶片製造商 將交出強勁業績的預期依然不變。他們補充稱，預計第三季度記憶體晶片供應仍將緊張，這支撐了週二拋售後出現的逢低買入。圍繞SK海力士計劃在美國上市的樂觀情緒也提振了投資者信心。儘管如此，分析師們提醒稱，雖然短期內記憶體價格預計仍將對供應商有利，但受基數效應影響，2026年下半年的價格漲幅可能較上半年有所放緩。"
+    },
+    {
+      "id": "mkt:019f3f6c-be8b-7aab-8cdc-0c5211c279b8",
+      "time": "2026-07-08 09:51:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Vitol prepares Caracas office, betting on continuation of U.S.-Venezuela oil pact】Geneva-based trader Vitol is preparing to open a Caracas office to expand its role in Venezuelan oil exports following the U.S.-Venezuela oil pact reached earlier this year, sources said. Vitol and other traders have exported most of Venezuela’s output this year under agreements with state oil company PDVSA; the Caracas office would initially hire about 12 staff for trading roles, a move that signals confidence the oil arrangement will continue and could create additional commercial opportunities."
+    },
+    {
+      "id": "mkt:019f3f6c-a6c8-7aab-8cdc-02db21016769",
+      "time": "2026-07-08 09:51:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share duty-free sector rallied; Zhongbai Group hit the daily price limit, Lingnan Holdings had earlier hit the limit, and Dongbai Group and Wangfujing also advanced."
+    },
+    {
+      "id": "4975356",
+      "time": "2026-07-08 09:51:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證1000股指期貨(IM)主力合約日內跌超1%】中證1000股指期貨(IM)主力合約日內跌超1%，現報8021.8點。"
+    },
+    {
+      "id": "4975355",
+      "time": "2026-07-08 09:51:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊震盪回落，滬矽產業跌超10%】半導體板塊震盪回落，滬矽產業跌超10%，銀河微電、西安奕材、臻寶科技、長電科技跟跌。"
+    },
+    {
+      "id": "4975354",
+      "time": "2026-07-08 09:51:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3872.761點；上證指數跌0.19%，現報3982.716點；深證成指跌1.34%，現報15021.274點。"
+    },
+    {
+      "id": "mkt:019f3f6c-5f9a-7aab-8cdb-fc1836d6f709",
+      "time": "2026-07-08 09:51:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said Iranian forces recently attacked three commercial vessels transiting the strait: Marshall Islands-flagged tanker \"Al Rukayat\", Saudi-flagged tanker \"Wedian\" and Liberia-flagged \"Cyprus Prosperity\". CENTCOM described the actions as unprovoked aggression that clearly and dangerously violated the ceasefire agreement and undermined freedom of navigation."
+    },
+    {
+      "id": "4975353",
+      "time": "2026-07-08 09:50:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報2485.00元。"
+    },
+    {
+      "id": "4975352",
+      "time": "2026-07-08 09:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股雲端計算板塊走高，金蝶國際漲近10%】港股雲端計算板塊走高，金蝶國際漲近10%，金山雲漲超6%，浪潮數字企業、阿里巴巴-W、騰訊控股紛紛上揚。"
+    },
+    {
+      "id": "mkt:019f3f6a-faf4-7aab-8cdb-f1fa70aa4959",
+      "time": "2026-07-08 09:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "EURUSD"
+      ],
+      "text": "RBNZ to announce interest rate decision in ten minutes."
+    },
+    {
+      "id": "mkt:019f3f6a-bcd4-7aab-8cdb-edb6d4253ad5",
+      "time": "2026-07-08 09:49:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said its forces remain at a state of readiness and are prepared to hold Iran accountable if Tehran fails to comply with or implement agreements. The US military earlier confirmed it carried out a series of strikes against Iran."
+    },
+    {
+      "id": "mkt:019f3f6a-5c68-7aab-8cdb-e6eac23fed86",
+      "time": "2026-07-08 09:49:22",
+      "tags": [
+        "MKT News",
+        "002456.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Xin Feiguang at full production, targets 40 bln yuan annual revenue in about three years】Xin Feiguang’s optical-module plants are operating at full capacity. Guangming factory monthly output is about 100,000 800G modules and 40,000 1.6T modules; the North America plant produces roughly 10,000 1.6T modules per month. The company has won a major North American customer and plans further capacity expansion, targeting about 40 billion yuan in annual revenue within roughly three years. Founded by OFILM founder Cai Rongjun, Xin Feiguang is in a critical mass-production phase, seeking OFILM’s mass-production expertise and may pursue capital-level cooperation with OFILM to secure support."
+    },
     {
       "id": "mkt:019f3f69-b91c-7aab-8cdb-dd33a51e50f6",
       "time": "2026-07-08 09:48:40",
