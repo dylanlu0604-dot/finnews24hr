@@ -1,7 +1,194 @@
 {
   "date": "2026-07-08",
-  "count": 3143,
+  "count": 3161,
   "items": [
+    {
+      "id": "mkt:019f41f0-968e-7aab-8cf2-0b04f24170be",
+      "time": "2026-07-08 21:35:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "IMF warns that adjustments in the artificial intelligence sector could pose risks and may affect South Korea and other economies."
+    },
+    {
+      "id": "mkt:019f41f0-7270-7aab-8cf2-02803f6594fe",
+      "time": "2026-07-08 21:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says may resume blockade of Strait of Hormuz】Trump said U.S. forces sank 28 Iranian vessels overnight and may hit more, and that further attacks remain possible. He warned Washington has not yet used its highest-level strikes but could escalate to destroy critical Iranian infrastructure, including power and water systems, and could seize Kharg Island. He said a blockade of the Strait of Hormuz limited to Iran is a possible option. Trump added Iran used Khamenei’s funeral to launch attacks and that U.S. forces could have killed Iranian leaders then."
+    },
+    {
+      "id": "4977009",
+      "time": "2026-07-08 21:34:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合航空下跌3.5%，西南航空下跌2.1%，嘉年華集團下跌3.1%，皇家加勒比郵輪下跌1.1%，挪威郵輪控股下跌1.9%，達美航空下跌2.7%。"
+    },
+    {
+      "id": "mkt:019f41f0-0a2e-7aab-8cf1-fae54bf84456",
+      "time": "2026-07-08 21:34:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "UAL.O",
+        "Impact bearish",
+        "DAL.O",
+        "CCL.O"
+      ],
+      "text": "US travel stocks fell as US-Iran tensions intensified and oil prices surged. United Airlines down 3.5%, Southwest Airlines down 2.1%, Carnival down 3.1%, Royal Caribbean down 1.1%, Norwegian Cruise Line down 1.9%, Delta Air Lines down 2.7%."
+    },
+    {
+      "id": "4977008",
+      "time": "2026-07-08 21:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾和諾德CEO：將推進中國業務和全球戰略深度整合】丹麥製藥巨頭諾和諾德全球總裁兼執行長杜麥克近日在京接受新華社記者採訪時表示，中國是諾和諾德全球第二大市場，諾和諾德看好中國創新生態，將持續推進中國業務與全球戰略的深度整合。這是杜麥克2025年8月出任諾和諾德CEO後首次訪華，同行的還有公司全球高管及董事會成員。（新華社）"
+    },
+    {
+      "id": "mkt:019f41ef-f4b2-7aab-8cf1-f50a8dfd9f93",
+      "time": "2026-07-08 21:34:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y"
+      ],
+      "text": "President Trump said Defense Secretary Hegeses expressed approval for the idea of killing Iranian leaders during Khamenei's funeral."
+    },
+    {
+      "id": "mkt:019f41ef-65e0-7aab-8cf1-eec3fa44b6ab",
+      "time": "2026-07-08 21:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF raised its 2026 growth forecast for South Korea by 0.7 percentage points, citing a marked surge in AI hardware exports."
+    },
+    {
+      "id": "4977007",
+      "time": "2026-07-08 21:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織官員表示：受人工智慧硬體出口增長表現極為亮眼推動，已將韓國2026年經濟增長預測上調0.7個百分點。"
+    },
+    {
+      "id": "mkt:019f41ef-40f8-7aab-8cf1-e389b02c1c60",
+      "time": "2026-07-08 21:33:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media reported Saudi Arabia and Oman stressed the importance of freedom of navigation."
+    },
+    {
+      "id": "mkt:019f41ef-19b3-7aab-8cf1-dfec6bf5346f",
+      "time": "2026-07-08 21:33:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media reported that Saudi Arabia and Oman have discussed developments related to the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f41ee-ea0f-7aab-8cf1-d309fe7dda46",
+      "time": "2026-07-08 21:33:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said Iranians are all crazy and should have been eliminated 47 years ago."
+    },
+    {
+      "id": "mkt:019f41ee-8f3a-7aab-8cf1-cc4b7cc9df2d",
+      "time": "2026-07-08 21:33:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump, speaking about Iran, said there could be a large-scale strike in the future."
+    },
+    {
+      "id": "mkt:019f41ee-350e-7aab-8cf1-c769ba68f519",
+      "time": "2026-07-08 21:32:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Trump says he will authorize Ukraine to produce Patriot systems; Zelenskiy calls air defence top priority】President Trump said he will discuss plans with Ukrainian President Zelenskiy to grant Ukraine licences to produce Patriot missile-defense systems and other advanced equipment, citing firms that build Patriots and Tomahawks. Zelenskiy thanked the US for bipartisan support and said air defence is a top priority. When asked about how long new production lines would take, Trump said he believes Ukraine could build the systems quickly."
+    },
+    {
+      "id": "4977006",
+      "time": "2026-07-08 21:32:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "燃料電池能源公司( FUELCELL ENERGY  )股價下跌16.1%，此前該公司宣佈增發普通股並完成定價。"
+    },
+    {
+      "id": "mkt:019f41ed-ddab-7aab-8cf1-b98007673c91",
+      "time": "2026-07-08 21:32:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Italian Prime Minister Meloni said she does not regret the strategy she adopted after Trump took office."
+    },
+    {
+      "id": "4977005",
+      "time": "2026-07-08 21:32:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西股市早盤下跌0.6%。"
+    },
+    {
+      "id": "mkt:019f41ed-85bf-7aab-8cf1-b7e7dd38d66d",
+      "time": "2026-07-08 21:31:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Witkoff could negotiate with Iran, but he currently does not see that happening."
+    },
+    {
+      "id": "4977004",
+      "time": "2026-07-08 21:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：我不後悔在唐納德·特朗普就任時我推行的這一策略。"
+    },
     {
       "id": "mkt:019f41ed-6d24-7aab-8cf1-aed76221e0b5",
       "time": "2026-07-08 21:31:46",
