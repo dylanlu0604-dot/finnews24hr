@@ -1,7 +1,603 @@
 {
-  "updated": "2026-07-08 20:36:31",
-  "count": 15976,
+  "updated": "2026-07-08 20:58:33",
+  "count": 15966,
   "items": [
+    {
+      "id": "mkt:019f41ce-7624-7aab-8cef-29ff35bebe46",
+      "time": "2026-07-08 20:57:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oil prices rose about $0.60 intraday; WTI crude at $73.71 per barrel, Brent crude at $77.81 per barrel."
+    },
+    {
+      "id": "mkt:019f41ce-3057-7aab-8cef-245ecac218c8",
+      "time": "2026-07-08 20:57:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said on Iran that action against Iran is not about regime change but about nuclear weapons."
+    },
+    {
+      "id": "4976900",
+      "time": "2026-07-08 20:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SOVECON諮詢公司：俄羅斯2025/26年度小麥出口預測下調60萬噸，至4620萬噸。"
+    },
+    {
+      "id": "4976899",
+      "time": "2026-07-08 20:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這不是政權更迭的問題，而是核武器的問題。"
+    },
+    {
+      "id": "4976898",
+      "time": "2026-07-08 20:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中潤光學：擬投資10億元建設高精密光學元元件研發及產業化基地專案】中潤光學(688307.SH)公告稱，公司擬與嘉興高新技術產業開發區管理委員會簽訂投資協議書，投資建設“高精密光學元元件研發及產業化基地專案”，計劃總投資額約10億元。專案主要進行高階光學鏡頭、精密光學元件的研發升級及擴產，預計24個月內完成建設，36個月內投產。本次投資不構成關聯交易或重大資產重組，尚需提交股東會審議。"
+    },
+    {
+      "id": "mkt:019f41cd-817a-7aab-8cef-1874ec795005",
+      "time": "2026-07-08 20:56:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said he may strike Iran again tonight."
+    },
+    {
+      "id": "4976897",
+      "time": "2026-07-08 20:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚可能再次打擊伊朗。"
+    },
+    {
+      "id": "mkt:019f41cd-281e-7aab-8cef-105b0c976e37",
+      "time": "2026-07-08 20:56:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy plans to discuss details of a drone agreement with Trump."
+    },
+    {
+      "id": "mkt:019f41cd-0642-7aab-8cef-0aec14cdb6ec",
+      "time": "2026-07-08 20:56:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the US struck Iran hard last night."
+    },
+    {
+      "id": "mkt:019f41cc-f0b3-7aab-8cef-063f41176e39",
+      "time": "2026-07-08 20:56:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, speaking on the Russia-Ukraine conflict, said we have made significant progress."
+    },
+    {
+      "id": "4976896",
+      "time": "2026-07-08 20:56:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨晚我們對伊朗進行了重擊。"
+    },
+    {
+      "id": "4976895",
+      "time": "2026-07-08 20:56:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基計劃與特朗普討論無人機交易。"
+    },
+    {
+      "id": "mkt:019f41cc-ae35-7aab-8cee-fe0664851aef",
+      "time": "2026-07-08 20:56:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Putin is a difficult character and Zelenskiy is as well."
+    },
+    {
+      "id": "4976894",
+      "time": "2026-07-08 20:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基對特朗普表示：防空系統是當務之急。"
+    },
+    {
+      "id": "mkt:019f41cc-72b9-7aab-8cee-f20c529f4121",
+      "time": "2026-07-08 20:55:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he hopes US President Trump will do everything possible to stop the war."
+    },
+    {
+      "id": "4976893",
+      "time": "2026-07-08 20:55:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京是個難纏的人物，澤連斯基也是。"
+    },
+    {
+      "id": "4976892",
+      "time": "2026-07-08 20:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Truist證券將禮來目標價從1281美元上調至1370美元。"
+    },
+    {
+      "id": "4976891",
+      "time": "2026-07-08 20:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：希望特朗普會盡一切努力阻止戰爭。"
+    },
+    {
+      "id": "mkt:019f41cb-df6c-7aab-8cee-e9ac590aa7f2",
+      "time": "2026-07-08 20:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy thanked U.S. President Trump for his support."
+    },
+    {
+      "id": "mkt:019f41cb-c01c-7aab-8cee-e1c19642cb7a",
+      "time": "2026-07-08 20:54:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said NATO leaders unanimously stressed the need to increase defense spending."
+    },
+    {
+      "id": "4976890",
+      "time": "2026-07-08 20:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐亞美尼亞大使：我們以勇氣和堅韌，在與兩個世界核武強權的不對稱戰爭中堅持下來，即使在領袖殉國後，也未讓敵人達成其在戰爭中的目標。"
+    },
+    {
+      "id": "mkt:019f41cb-97c0-7aab-8cee-db204b1579c5",
+      "time": "2026-07-08 20:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will consult with Zelensky on studying what assistance could be provided to the country."
+    },
+    {
+      "id": "4976889",
+      "time": "2026-07-08 20:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭感謝特朗普的支援。"
+    },
+    {
+      "id": "4976888",
+      "time": "2026-07-08 20:53:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就俄烏衝突表態： 這場衝突遠未落幕。"
+    },
+    {
+      "id": "mkt:019f41ca-bd5f-7aab-8cee-d0b25b97a53e",
+      "time": "2026-07-08 20:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he was honored to meet Ukrainian President Zelenskiy during the NATO summit."
+    },
+    {
+      "id": "mkt:019f41ca-6c16-7aab-8cee-cc0350549053",
+      "time": "2026-07-08 20:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Zelensky has developed a good relationship with him."
+    },
+    {
+      "id": "4976887",
+      "time": "2026-07-08 20:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和澤連斯基建立了良好的關係。"
+    },
+    {
+      "id": "mkt:019f41ca-4d32-7aab-8cee-c1418807fadd",
+      "time": "2026-07-08 20:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's ambassador to Armenia said Iran has, with courage and resilience, sustained an asymmetric war against two nuclear-armed world powers and, even after the leader's death, prevented the enemy from achieving its war objectives."
+    },
+    {
+      "id": "4976885",
+      "time": "2026-07-08 20:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：能和澤連斯基在一起是我的榮幸。"
+    },
+    {
+      "id": "mkt:019f41c9-8465-7aab-8cee-bac69a3e804a",
+      "time": "2026-07-08 20:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On the Russia-Ukraine conflict, President Trump said both sides currently want to reach reconciliation."
+    },
+    {
+      "id": "mkt:019f41c9-7be1-7aab-8cee-b6b1dfc27ad6",
+      "time": "2026-07-08 20:52:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Ukraine says it shot down Russian Su-35; Russia has not responded】Ukraine's Air Force said it shot down a Russian Su-35 multirole fighter in the east on the 8th (local time). Russia has not responded to the statement."
+    },
+    {
+      "id": "4976884",
+      "time": "2026-07-08 20:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：雙方都希望達成和解。"
+    },
+    {
+      "id": "4976883",
+      "time": "2026-07-08 20:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：北約會議很棒。"
+    },
+    {
+      "id": "4976882",
+      "time": "2026-07-08 20:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我有很多好故事要講。"
+    },
+    {
+      "id": "mkt:019f41c9-4054-7aab-8cee-adb19e41d3fe",
+      "time": "2026-07-08 20:52:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the NATO summit was very successful."
+    },
+    {
+      "id": "4976881",
+      "time": "2026-07-08 20:52:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基開始與特朗普會面。"
+    },
+    {
+      "id": "4976880",
+      "time": "2026-07-08 20:51:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度執法局：已對安尼爾·安巴尼信實集團的核心僱員及相關實體開展搜查行動。"
+    },
+    {
+      "id": "4976879",
+      "time": "2026-07-08 20:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱擊落一架俄蘇-35戰鬥機 俄方暫無回應】當地時間8日，烏克蘭武裝部隊空軍表示，當天在東部方向擊落了一架俄羅斯蘇-35多用途戰鬥機。俄羅斯方面對此說法暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f41c7-d905-7aab-8cee-a282a1f60818",
+      "time": "2026-07-08 20:50:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU to give industry more flexibility in carbon market reform】The EU will give its weak industrial sector greater flexibility in the upcoming EU ETS reform while aiming to preserve incentives for clean-technology investment, EU officials said. The reform seeks to balance support for heavy industry’s transition to clean energy with measures that continue to reward faster-decarbonizing firms. The European Commission is expected to publish the proposal on July 17. To address competitiveness concerns in energy-intensive sectors, the Commission aims to launch as early as next year an ETS Investment Promotion Fund that would allocate 400 million allowances over three years to eligible firms on a first-come, first-served basis."
+    },
+    {
+      "id": "mkt:019f41c7-6567-7aab-8cee-9bbda89f37e0",
+      "time": "2026-07-08 20:50:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's central bank left its benchmark rate unchanged at 3.75%, in line with market expectations."
+    },
+    {
+      "id": "mkt:019f41c7-4c68-7aab-8cee-90314de55f23",
+      "time": "2026-07-08 20:50:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "U.S. President Trump said Washington will continue to sell arms to allies."
+    },
+    {
+      "id": "4976878",
+      "time": "2026-07-08 20:49:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。"
+    },
+    {
+      "id": "4976877",
+      "time": "2026-07-08 20:47:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜秘密推進Alexa“智慧體”計劃 成本高昂引發內部擔憂】7月8日訊息，亞馬遜內部規劃檔案顯示，公司正在秘密推進一項名為“Moonraker”的全新Alexa AI專案，旨在將這一語音助手推向AI智慧體賽道。然而，該專案極其高昂的研發與執行成本已在公司內部引發廣泛擔憂。"
+    },
+    {
+      "id": "mkt:019f41c4-ca63-7aab-8cee-8b570090442c",
+      "time": "2026-07-08 20:47:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources: Central Bank of Chile purchased USD 25 mln."
+    },
+    {
+      "id": "4976876",
+      "time": "2026-07-08 20:47:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：智利央行購入2500萬美元。"
+    },
+    {
+      "id": "4976875",
+      "time": "2026-07-08 20:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗HORMOZGAN機場關閉，直至另行通知。"
+    },
+    {
+      "id": "4976874",
+      "time": "2026-07-08 20:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍隊在東部方向擊落了一架俄羅斯蘇-35多用途戰鬥機。（CGTN）"
+    },
+    {
+      "id": "mkt:019f41c2-f746-7aab-8cee-8293ffb26b7e",
+      "time": "2026-07-08 20:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO unlikely to join U.S. action in Strait of Hormuz despite Trump pressure, ANU lecturer says】Alam Saleh, a lecturer at the Australian National University, said NATO is unlikely to participate in any U.S.-led operation in the Strait of Hormuz despite pressure from President Trump. He said Iran treats a war as existential and has so far deterred open conflict. Saleh added NATO is fundamentally a defensive, regionally focused alliance whose collective-security remit is limited; joining U.S. action in Hormuz would require it to adopt an offensive, global role — a transformation he called unrealistic."
+    },
+    {
+      "id": "4976873",
+      "time": "2026-07-08 20:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：7月8日，全球基金淨買入196億印度盧比的印度股票。"
+    },
+    {
+      "id": "4976872",
+      "time": "2026-07-08 20:44:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨<CCc2> 大幅上漲近7%，達到每噸6136美元。"
+    },
+    {
+      "id": "4976871",
+      "time": "2026-07-08 20:43:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約峰會宣告：各國領導人重申伊朗不得擁有核武器，呼籲伊朗尊重霍爾木茲海峽的航行自由。"
+    },
+    {
+      "id": "4976870",
+      "time": "2026-07-08 20:42:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "AEROVIRONMENT股價飆升，上漲6%。"
+    },
+    {
+      "id": "mkt:019f41c0-9ab2-7aab-8cee-7aad1cbd68c7",
+      "time": "2026-07-08 20:42:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: leaders reiterated that Iran must not possess nuclear weapons and urged Iran to respect freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4976869",
+      "time": "2026-07-08 20:42:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長苗得雨會見阿曼國家安全委員會秘書長伊德里斯】2026年7月8日，外交部副部長苗得雨會見阿曼國家安全委員會秘書長伊德里斯。苗得雨表示，近年來，在習近平主席和海賽姆蘇丹戰略引領下，中阿政治互信不斷鞏固，各領域合作穩步推進。中方高度重視發展對阿關係，願同阿方一道，繼續在涉及彼此核心利益問題上堅定相互支援，深化“一帶一路”倡議同阿曼“2040願景”戰略對接，推動兩國各領域合作走深走實，攜手維護地區和平穩定，推動中阿戰略伙伴關係取得更大發展。(外交部網站)"
+    },
+    {
+      "id": "4976868",
+      "time": "2026-07-08 20:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順博合金：向特定物件發行股票申請獲深交所稽核透過】順博合金公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於重慶順博鋁合金股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深圳證券交易所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。公司本次向特定物件發行股票事項尚需中國證監會作出予以註冊決定後方可實施。"
+    },
+    {
+      "id": "te:markets:565295",
+      "time": "2026-07-08 20:40:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Fall as US-Iran Tensions Escalate — Futures tracking the S&P/TSX Composite Index fell on Wednesday as renewed US-Iran tensions lifted oil prices. US President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials and the broader market. Mining stocks also came under pressure as gold prices slipped, while Trilogy Metals reported a wider second-quarter loss. Meanwhile, investors awaited the minutes from the Fed's June meeting for further clues on the US monetary policy outlook. Markets continue to expect the BoC to keep interest rates unchanged at its July 15 meeting."
+    },
+    {
+      "id": "4976867",
+      "time": "2026-07-08 20:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST發展：預重整備案登記 債權人需8月7日前申報債權】*ST發展公告稱，2026年7月6日，重慶五中院對公司進行預重整備案登記。經主要債權人同意，公司已聘任相關律所和會計所擔任預重整輔助機構。債權人需在8月7日前透過“律泊智破系統”線上申報債權。公司後續能否進入重整程式尚不確定，若法院裁定受理重整申請，股票將被疊加實施退市風險警示。若重整失敗，公司存在被宣告破產及股票終止上市風險。"
+    },
+    {
+      "id": "4976866",
+      "time": "2026-07-08 20:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珍寶島：回覆上交所年報問詢 多項問題核查尚在推進】珍寶島公告稱，公司於6月2日收到上交所《問詢函》。獨立董事就相關問題發表意見，公司已完整披露2020年以來與上海甲貝、柯維凱瑞業務往來及控股股東資金佔用情況，違規問題已整改；募集資金補流用途合規，前期專項報告未提示風險屬內控執行一般缺陷；預付款項增長具合理性，相關核查尚在推進；已如實說明資金支付內控漏洞及成因，相關核查仍在進行。此外，公司應收賬款、其他應收款等核算規範，減值計提充分，獨立董事將持續關注相關工作。"
+    },
+    {
+      "id": "4976865",
+      "time": "2026-07-08 20:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【易方達基金龐亞平：中國ETF規模佔股市僅2.4% 未來發展空間廣闊】7月8日，易方達基金黨委委員、董事總經理、指數研究發展部總經理龐亞平在演講中表示，中國ETF發展迅速，從2004年首隻產品至今已有近1600只，年初總規模約6萬億元，但相對股票市場體量而言滲透率僅2.4%，而美國市場這一比例接近24%，歐洲市場也達約四分之一，中國ETF未來發展空間廣闊。龐亞平指出，當前ETF產品型別日趨多元，寬基、行業主題、風格因子、跨境、商品等類別齊頭並進，各類中長期資金參與度持續提升。但與此同時，近1600只產品中同質化現象較為突出，行業需要從規模擴張轉向運營能力提升，從境內投資閉環走向全球配置，從被動跟蹤邁向主被動理念融合。他認為，指數化投資的本源是降低投資難度，未來ETF行業需在精細化運營、產品創新和投資者服務等方面持續發力，推動行業從量的擴張走向質的提升。（證券時報）"
+    },
+    {
+      "id": "mkt:019f41bd-0bb1-7aab-8cee-72b2ce414e45",
+      "time": "2026-07-08 20:38:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【E Fund's Pang Yaping: China ETFs just 2.4% of equity market; significant room to grow】July 8 — Pang Yaping, board member and managing director and head of index R&D at E Fund Management, said China now has nearly 1,600 ETFs since the first in 2004, with aggregate AUM about 6 trillion yuan at the start of the year. ETF penetration of the Chinese equity market is roughly 2.4%, versus about 24% in the US and ~25% in Europe, implying substantial upside. Product types have diversified—broad-market, sector/theme, style/factor, cross‑border and commodity ETFs—and participation from medium- and long-term investors is increasing. Pang flagged pronounced product homogeneity among the ~1,600 ETFs and urged a shift from scale-driven expansion to stronger operational capability, global allocation and active-passive integration. He said index investing’s purpose is to lower investment difficulty and called for continued focus on refined operations, product innovation and investor services to drive quality over quantity."
+    },
+    {
+      "id": "4976864",
+      "time": "2026-07-08 20:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西前總統博索納羅的律師表示搜查和扣押過程中未發現任何東西。"
+    },
+    {
+      "id": "4976863",
+      "time": "2026-07-08 20:38:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約峰會宣告：北約盟友在安卡拉宣佈新增超過500億美元的採購計劃。"
+    },
+    {
+      "id": "4976862",
+      "time": "2026-07-08 20:37:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：VATTENFALL公司將於5月23日至9月1日期間減產。"
+    },
+    {
+      "id": "mkt:019f41bc-0c04-7aab-8cee-6c33a9d05078",
+      "time": "2026-07-08 20:37:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: Allies pledge that assistance to Ukraine in 2027 will be at least the same level as in 2026."
+    },
+    {
+      "id": "4976861",
+      "time": "2026-07-08 20:37:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三超新材：向特定物件發行股票申請獲深交所稽核透過】三超新材公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於南京三超新材料股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所上市稽核中心對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。公司本次向特定物件發行股票的事宜尚需獲得中國證監會同意註冊後方可實施，最終能否獲得中國證監會同意註冊的決定及時間仍存在不確定性。"
+    },
+    {
+      "id": "4976860",
+      "time": "2026-07-08 20:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰航空一航班一度失聯，北約戰機升空警告】近日，香港國泰航空一班由香港前往倫敦的客機，在東歐羅馬尼亞上空一度與控制塔失去聯絡，北約派出戰機升空作目視警告。之後控制塔與客機恢復聯絡，危機得以解除。截至記者發稿時，國泰航空尚未就相關事件進行回應。匈牙利國防部長Romulusz Ruszin-Szendi在社交平臺發文稱，7月4日，一架由中國香港飛往英國倫敦的空中巴士A350客機，於4日下午1時42分飛到羅馬尼亞空域時，未能與羅馬尼亞民航管制部門聯絡，與控制塔失去聯絡。事件觸發北約快速反應警報，當天下午1時51分，與羅馬尼亞接壤的匈牙利，空軍接報後派戰機升空作目視警告。涉事客機隨即聯絡控制塔，待命的戰機隨後返回基地。據悉，此類攔截行動目的是進行目視識別並恢復通訊，並不一定意味存在安全威脅。訊息稱，涉事的是國泰CX257航班，機上最多可載334人。客機當日準時抵達倫敦希斯羅機場。（第一財經）"
+    },
+    {
+      "id": "mkt:019f41bb-203e-7aab-8cee-668d9091ca31",
+      "time": "2026-07-08 20:36:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Germany's foreign minister said rising energy prices are a burden for the whole world."
+    },
+    {
+      "id": "4976859",
+      "time": "2026-07-08 20:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外長：我認為全球石油庫存並未處於危險階段。必須提供適合的環境以清除霍爾木茲海峽的地雷，我們需要與伊朗和阿曼達成協議。"
+    },
     {
       "id": "mkt:019f41b9-f16b-7aab-8cee-5f3452c6c4a3",
       "time": "2026-07-08 20:35:32",
@@ -145425,751 +146021,6 @@
         "市場"
       ],
       "text": "【20家晶片廠商集體漲價，英飛凌回應】近日，包括英飛凌、德州儀器、意法半導體在內的國內外約20家晶片廠商集體啟動新一輪漲價，功率半導體是此輪漲價潮涉及的核心品類，其中有多家廠商今年已經宣佈過調價。英飛凌是全球最大的功率半導體廠商。6月30日，英飛凌全球高階副總裁兼大中華區總裁潘大偉在該公司的媒體日上就新一輪漲價回應記者稱：“這次漲價主要是考慮到成本上升方面的因素，比如原材料價格的上漲。”對功率半導體的強勁需求很大程度上由AI驅動，尤其是AI資料中心對電力的需求在激增。“目前，英飛凌的AI業務產能會根據市場需求情況進行動態靈活調整配置，並不斷拓展新產能。”英飛凌方面表示。（第一財經）"
-    },
-    {
-      "id": "4965340",
-      "time": "2026-07-01 20:57:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車美國公司6月混合動力車銷量增長74%。"
-    },
-    {
-      "id": "mkt:019f1dc1-77fc-7aab-8c59-44b90fa4822a",
-      "time": "2026-07-01 20:57:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bearish"
-      ],
-      "text": "Petrobras will cut jet fuel prices by 14.5% effective July 1."
-    },
-    {
-      "id": "mkt:019f1dc1-076d-7aab-8c59-3c5136d74d4b",
-      "time": "2026-07-01 20:56:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【BofA expects BOC to hold rates until 2027 even if Fed hikes】BofA says Macklem’s backdrop differs from peers: Canada’s core inflation is roughly 2% and energy-rich provinces have seen short-term gains from the oil-price surge, leaving little sign of overheating. After a small Q1 contraction, Q2 annualized growth is expected above 2%; traders have pulled back wagers on a year-end BOC hike. BofA now expects the Bank of Canada to keep policy rates unchanged until 2027 even if the Fed resumes tightening."
-    },
-    {
-      "id": "mkt:019f1dc1-0579-7aab-8c59-35d8c6c257b7",
-      "time": "2026-07-01 20:56:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【UK inflation near peak — will Bailey pave way for cuts at Sintra?】Bank of England Governor Bailey is scheduled to speak in Sintra this week and is expected to take a relatively relaxed tone. A global oil-price plunge has eased inflation pressures; institutional research projects inflation will peak near 3% and fall to about 2.3% next year, well below the BoE’s prior outlook, which could allow rates to be cut from 3.75% to 3.5% by June 2027. Markets will watch whether Bailey today effectively endorses that view and explicitly rules out further hikes."
-    },
-    {
-      "id": "mkt:019f1dc0-efd0-7aab-8c59-29d4543777c7",
-      "time": "2026-07-01 20:56:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "【Meta plans cloud unit to sell surplus AI compute and model access】Meta Platforms (META.O) is planning a cloud infrastructure business to sell access to AI compute and models, creating direct competition with AWS, Microsoft Azure and Google Cloud, people familiar with the matter said. Meta has been acquiring data centers and other infrastructure to support its AI development; a potential plan would sell usage rights to various AI models hosted on Meta’s infrastructure—similar to AWS’s Bedrock—while Meta would operate the supporting data centers and chips (including its in‑house Muse Spark model) and charge developers usage fees."
-    },
-    {
-      "id": "4965339",
-      "time": "2026-07-01 20:56:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "雷諾印度公司：6月批發銷量上漲55%。"
-    },
-    {
-      "id": "mkt:019f1dc0-b912-7aab-8c59-2059f581abf8",
-      "time": "2026-07-01 20:56:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil futures fell to $68.22/bbl, the lowest level since Feb. 27."
-    },
-    {
-      "id": "4965338",
-      "time": "2026-07-01 20:55:54",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油期貨跌至每桶68.22美元，創2月27日以來新低。"
-    },
-    {
-      "id": "4965337",
-      "time": "2026-07-01 20:55:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“出口中國”英國專場活動在倫敦舉行】7月1日，“出口中國”英國專場活動在倫敦舉行。商務部部長王文濤、英國商貿大臣凱爾出席並致辭。駐英國大使鄭澤光、中國工商銀行執行董事段紅濤、英中貿易協會主席吳思田等出席。王文濤表示，英國是中國在歐洲第3大貿易伙伴，中國是英國在亞洲最大的貿易伙伴，中英經貿領域合作不斷深化，實現優勢產業互補、市場要素互通。中方願與英方一道，共同推動把中英合作“大有可為”的潛力轉化為“大有作為”的實績。王文濤表示，中國擁有全球規模最大的中等收入群體和超大規模市場優勢，擴大自英國進口的潛力巨大。我們從貿易伙伴的角度出發，打造“出口中國”品牌，致力於與全球共享中國發展新機遇，為世界經濟注入正能量。希望英方企業積極參加“出口中國”系列活動和第九屆中國國際進口博覽會，與中國企業深入對接、洽談，持續拓展中英貿易合作領域，實現互利共贏，共創中英經貿合作新篇章。（商務部）"
-    },
-    {
-      "id": "mkt:019f1dbe-f9f0-7aab-8c59-1b64e28e0ca9",
-      "time": "2026-07-01 20:54:42",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "Kazakhstan central bank said it sold $200 mln of US dollars from the National Fund into the domestic market in June and plans to sell up to $300 mln more in July."
-    },
-    {
-      "id": "mkt:019f1dbe-e82f-7aab-8c59-11b1b854fc83",
-      "time": "2026-07-01 20:54:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "National Bank of Kazakhstan sold FX worth 354 bln tenge in June to hedge gold purchases and expects to sell about 1.1 tln tenge of FX in Q3."
-    },
-    {
-      "id": "4965336",
-      "time": "2026-07-01 20:54:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哈薩克央行表示，6月其在國內市場從國家基金中出售了價值2億美元的外匯。計劃7月從國家基金中出售不超過3億美元的外匯資產。"
-    },
-    {
-      "id": "4965335",
-      "time": "2026-07-01 20:53:56",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "哈薩克央行表示，其6月出售了價值3540億堅戈的外匯，以對沖黃金購買；第三季度將出售價值1.1萬億堅戈的外匯。"
-    },
-    {
-      "id": "4965334",
-      "time": "2026-07-01 20:52:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Authentic宣佈收購角色IP愛心小熊】7月1日，全球品牌與娛樂平臺Authentic Brands Group宣佈已簽署最終協議，將收購角色IP愛心小熊（Care Bears），旗下兩大業務部門Authentic Studios與Authentic Live將承擔核心職能，透過全新故事、受眾拓展及粉絲體驗，進一步延展Care Bears宇宙。此次收購仍需滿足慣常的交割條件，預計將於2026年第三季度正式完成。"
-    },
-    {
-      "id": "4965333",
-      "time": "2026-07-01 20:51:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞部長稱哥倫比亞無法依靠舉債為財政預算提供資金。"
-    },
-    {
-      "id": "4965332",
-      "time": "2026-07-01 20:50:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲官員集體“靜音”？美銀：溝通策略正經歷靜默轉變】美國銀行表示，美聯儲官員在6月政策會議後的兩週內公開露面次數顯著減少，這可能是主席沃什正在推行更低調溝通策略的早期訊號。美銀策略師指出，自6月FOMC會議以來，包括截至本週末已安排的活動在內，美聯儲官員僅進行了12場演講和採訪。相比之下，自2022年以來，美聯儲會議後同一兩週時間段內的平均露面次數約為23次。這可能表明FOMC參與者正在遵從沃什少發言的意願，但也可能是由於7月4日假期以及美聯儲官員對6月釋出的指引無更多補充。時間將證明這是一個新趨勢還是隻是噪音。"
-    },
-    {
-      "id": "mkt:019f1dbb-4d9b-7aab-8c59-0d705cb35fa6",
-      "time": "2026-07-01 20:50:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Kevin Warsh's two-faced strategy: hawkish rhetoric to placate rate-hike camp, delay tactics in practice】Analyst Andrew Sacher said Kevin Warsh's June FOMC debut left markets debating whether he is hawkish or dovish. With the FOMC split on hiking versus holding rates, Warsh's stance is pivotal; the Sintra meeting will be a fresh opportunity to reassess. Sacher views Warsh primarily as a politician who tailors comments to both wings—rhetoric may tilt hawkish, stressing price stability to reassure members favoring hikes as a signal of Fed independence from Trump. His actions, notably creating five working groups to review key Fed issues, have bought time and delayed near-term policy moves."
-    },
-    {
-      "id": "mkt:019f1dba-dc56-7aab-8c59-00f8cf68f6b0",
-      "time": "2026-07-01 20:50:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Warsh, ECB president Lagarde, Bank of England governor Bailey and Bank of Canada governor Macklem will speak in ten minutes at the ECB's Global Central Banking Forum \"policy panel\"."
-    },
-    {
-      "id": "mkt:019f1db9-5d8f-7aab-8c58-f97e736af8be",
-      "time": "2026-07-01 20:48:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's finance minister said the country's 2027 budget growth will be below the inflation rate."
-    },
-    {
-      "id": "4965331",
-      "time": "2026-07-01 20:48:25",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "布倫特原油期貨下跌逾1美元，此前特朗普稱美國與伊朗關係非常好。"
-    },
-    {
-      "id": "4965330",
-      "time": "2026-07-01 20:48:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普表示：英特爾當時需要扶持。我跟他們說“我可以幫你們，但你們公司要拿出10%的股份交給美國政府。” 對方當即回應“成交。”答應得太快了，我當時本該多要點的。"
-    },
-    {
-      "id": "4965329",
-      "time": "2026-07-01 20:47:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團與梅花創投入股躍瓦創新】近日，工商變更資訊顯示，深圳躍瓦創新科技有限公司（簡稱：躍瓦創新）完成天使輪融資，新增投資方為美團、梅花創投。躍瓦創新成立於2024年，專注具身智慧機器人研發，首款產品Cocowa為具有可感知生命感的AI智慧體機器人。"
-    },
-    {
-      "id": "4965328",
-      "time": "2026-07-01 20:47:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達投資安防企業Verkada】主營安防攝像頭及配套軟體的Verkada公司於週三宣佈，英偉達對這家成立已有十年的企業進行了金額未披露的股權投資，本輪投後企業估值達58億美元，與去年12月由谷歌母公司Alphabet旗下成長投資部門CapitalG領投的融資輪次估值持平。"
-    },
-    {
-      "id": "mkt:019f1db8-9264-7aab-8c58-f130a0e2f94a",
-      "time": "2026-07-01 20:47:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Colombia's finance minister said the new government will submit a tax bill to Congress aimed at promoting economic growth."
-    },
-    {
-      "id": "mkt:019f1db8-5e28-7aab-8c58-ec1ebe81de09",
-      "time": "2026-07-01 20:47:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nissan is cutting production costs for vehicles made in Mexico to offset US tariffs, the company's CEO said."
-    },
-    {
-      "id": "4965327",
-      "time": "2026-07-01 20:47:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞新一屆政府將向國會提交稅收法案。"
-    },
-    {
-      "id": "4965326",
-      "time": "2026-07-01 20:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日產削減墨西哥產車型生產成本，以抵消美國關稅帶來的影響。"
-    },
-    {
-      "id": "4965325",
-      "time": "2026-07-01 20:46:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "NEBIUS集團盤前股價下跌5.5%。"
-    },
-    {
-      "id": "mkt:019f1db7-b9cf-7aab-8c58-e7d44de4b931",
-      "time": "2026-07-01 20:46:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "CRWV.O",
-        "Impact bearish"
-      ],
-      "text": "CoreWeave (CRWV.O) fell 5.3% in premarket trading as Meta plans to expand its cloud business."
-    },
-    {
-      "id": "4965324",
-      "time": "2026-07-01 20:46:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【海南海藥：股票交易異常波動 目前仍處於虧損狀態】海南海藥公告稱，公司股票於2026年6月29日至7月1日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營情況正常。2025年度淨虧損4.29億元，2026年一季度淨虧損7645.21萬元，目前仍處虧損狀態。異常波動期間，公司、控股股東和實控人未買賣公司股票。"
-    },
-    {
-      "id": "4965323",
-      "time": "2026-07-01 20:46:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "由於 META 將構建雲業務，COREWEAVE 股價盤前下跌 5.3%。"
-    },
-    {
-      "id": "mkt:019f1db7-734a-7aab-8c58-da0920ef73a7",
-      "time": "2026-07-01 20:46:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Spain heat-related deaths in June hit record high】Amid Europe’s record temperatures, Spain recorded 1,028 heat-related deaths in June, the highest June toll since records began in 2015, the Carlos III Health Institute said. The institute calculates heat-related excess deaths by comparing total deaths with historical averages."
-    },
-    {
-      "id": "4965322",
-      "time": "2026-07-01 20:46:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊處得很好 】美國總統特朗普今天（7月1日）對媒體表示，美國目前與伊朗“處得很好”，並稱近期在卡達舉行的會談“進展順利”。特朗普稱：“伊朗無核化程序推進良好，雙方舉行了非常不錯的會談，我們拭目以待。（CCTV國際時訊）"
-    },
-    {
-      "id": "4965321",
-      "time": "2026-07-01 20:45:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普披露卡達贈予美國的新一代空軍一號更多細節：“波音高管稱這架飛機是該廠打造過最精良的 747 機型。我到訪卡達時提出，希望臨時啟用這架專機，想必大家也清楚，原有空軍一號還在建造當中。”"
-    },
-    {
-      "id": "4965320",
-      "time": "2026-07-01 20:45:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海量子科技產業佈局提速，浦東、徐匯接連落子】上海量子科技產業佈局提速，近日浦東、徐匯等區接連落子、動作頻頻。6月30日，上海量子計算未來產業培育區在徐彙區啟動，由上海市科委、徐彙區、上海科學院共同牽頭。澎湃新聞記者從徐彙區獲悉，徐彙區將聚焦培育區建設，在徐匯漕河涇開發區、徐匯濱江等區域重點集聚培育量子計算未來產業，並深化與上海科學院的戰略合作，共建量子計算領域關鍵共性技術研發平臺。目前，首批26家量子企業入駐培育區。（澎湃）"
-    },
-    {
-      "id": "te:economy:563441",
-      "time": "2026-07-01 20:45:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Extends Rebound — The yield on the 10-year US Treasury note rose toward 4.50% on Wednesday, extending the sharp rebound since dropping to a seven-week low of 4.36% on Monday amid the hawkish outlook for the Federal Reserve. Fresh data from the ADP indicated the US added nearly 100,000 private-sector jobs in June, slightly under estimates but extending the period of low firing in most sectors of the economy. The robust data combined with evidence of elevated core inflation rates following the interruption of global oil supply with the war in the Middle East. Although wholesale oil prices eased to pre-war levels, refined fuel costs remained sharply higher and backed expectations of a Fed hike this year. Rate traders still showed a loose consensus of one hike by December, but a portion of the market has priced multiple hikes. In the meantime, Fed Chairman Kevin Warsh campaign to shrink the Fed's holdings of Treasury notes and bonds also lifted yields."
-    },
-    {
-      "id": "4965319",
-      "time": "2026-07-01 20:44:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿智醫藥：向特定物件發行股票申請獲深交所稽核透過】睿智醫藥公告稱，公司於2026年7月1日收到深交所上市稽核中心出具的告知函，其向特定物件發行股票的申請已獲稽核透過，認為公司符合發行、上市條件和資訊披露要求，後續深交所將報中國證監會履行註冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "mkt:019f1db5-b77f-7aab-8c58-d6a19310146a",
-      "time": "2026-07-01 20:44:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) premarket gains widened to over 8% as the company builds a cloud business to sell surplus AI compute capacity."
-    },
-    {
-      "id": "mkt:019f1db5-6eeb-7aab-8c58-cfa1b1f2e366",
-      "time": "2026-07-01 20:44:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump says US-Iran ties good; talks progressing smoothly】President Trump told reporters before departing on a trip that US relations with Iran are good and recent talks in Qatar have progressed smoothly, adding that Iran's denuclearization process is advancing. He also addressed his financial disclosures, saying a fund manages his money, he does not speak with the fund managers, and that he is profiting from the rising stock market."
-    },
-    {
-      "id": "4965318",
-      "time": "2026-07-01 20:44:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存概念股盤前走低 閃迪跌超6%】美股儲存概念股盤前走低，閃迪跌超6%，西部資料跌超4%，美光科技跌超4%，希捷科技跌3%。"
-    },
-    {
-      "id": "4965317",
-      "time": "2026-07-01 20:43:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "智利比索下跌0.8%，該國5月經濟意外萎縮。"
-    },
-    {
-      "id": "mkt:019f1db4-91f5-7aab-8c58-c54606249921",
-      "time": "2026-07-01 20:43:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index rises as capesize, panamax and supramax freight rates climb】The Baltic Dry Index rose 61 points (2.4%) to 2,562 on Wednesday, recovering from a two-month low hit earlier this week. The capesize index jumped 144 points (4.1%) to 3,692; capesize daily earnings increased $1,303 to $29,981. The panamax index added 23 points (1.1%) to 2,177; panamax daily earnings rose $208 to $19,591. The supramax index gained 6 points (0.4%) to 1,673."
-    },
-    {
-      "id": "4965316",
-      "time": "2026-07-01 20:43:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Arm Holdings美股盤前跌超6%】Arm Holdings美股盤前跌超6%，現報333.16美元。"
-    },
-    {
-      "id": "4965315",
-      "time": "2026-07-01 20:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：隨著談判繼續進行，部分金融限制有所放鬆】據伊朗媒體FarsNews，伊朗總統佩澤希齊揚表示，針對伊朗的部分金融和貨幣限制已經放鬆。佩澤希齊揚表示，石油出口的持續進行、部分金融和外匯限制的放鬆以及經濟合作新機遇的出現，都是伊朗近期達成協議的成果。"
-    },
-    {
-      "id": "mkt:019f1db3-ed2b-7aab-8c58-bbfdd624eb3e",
-      "time": "2026-07-01 20:42:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nissan CEO says the company has no plans to increase exports to the U.S. despite a weak yen."
-    },
-    {
-      "id": "4965314",
-      "time": "2026-07-01 20:42:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【野村證券上調臺積電目標價至3,425臺幣 較目前股價約46.4%的上漲空間】野村證券上調多隻AI半導體與硬體股目標價，最核心的動作是將臺積電目標價從2,820新臺幣上調至3,425臺幣，新目標價對應約46.4%的上漲空間。野村證券分析師判斷AI基建投資週期尚未見頂，2027年新增資料中心容量按其口徑上調至約32GW，對應AI晶片需求繼續抬升。除TSMC外，野村還上調了MediaTek、ASE、EMC、ZDT等AI半導體和硬體鏈條公司的目標價。"
-    },
-    {
-      "id": "mkt:019f1db3-df05-7aab-8c58-b545e16115ee",
-      "time": "2026-07-01 20:42:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "President Trump on Iran said they have come a long way, that the US struck them hard last week, and that he thinks they are doing okay now."
-    },
-    {
-      "id": "4965313",
-      "time": "2026-07-01 20:42:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【Meta美股盤前漲超8%】Meta美股盤前漲超8%，現報608.75美元。"
-    },
-    {
-      "id": "4965312",
-      "time": "2026-07-01 20:42:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日產執行長：日元走弱背景下，暫無計劃擴大日本對美出口。"
-    },
-    {
-      "id": "mkt:019f1db2-d113-7aab-8c58-aa1b4afb45b7",
-      "time": "2026-07-01 20:41:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German outlet Correctiv reports Volkswagen is considering selling its equity stake in a German football club."
-    },
-    {
-      "id": "4965311",
-      "time": "2026-07-01 20:41:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【矩子科技：股東李俊減持致一致行動人合計持股比例降至40%】矩子科技公告稱，2026年6月26日至7月1日，李俊透過集中競價減持245.63萬股，佔總股本0.86%。本次減持後，其與一致行動人楊勇、矩子投資合計持股比例從40.86%降至40%。此前2026年1月12日至2月13日，李俊已減持60萬股，佔總股本0.21%。公司於6月1日披露，李俊計劃6月24日至9月23日合計減持不超400萬股，佔比不超1.41%。本次權益變動不會使公司控股股東及實控人變化，也不影響公司治理及經營。"
-    },
-    {
-      "id": "te:economy:563440",
-      "time": "2026-07-01 20:41:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Chile Economic Activity Contracts Again — Chile's IMACEC economic activity index fell 0.9% year-on-year in May 2026, marking the fifth consecutive month of contraction, though less sharply than the 1.2% decline recorded in April. Goods production contracted 4.7%, reflecting a sharp drop in mining output (-11.6%), particularly copper, alongside a 1.7% decline in manufacturing, while production of other goods was unchanged. Meanwhile, services activity grew 1.0%, supported by stronger personal services, especially health and education, which partly offset weaker business and transport services. Trade increased 0.8%, driven mainly by retail and automotive sales. On a seasonally adjusted monthly basis, economic activity edged down 0.2% in May, reserving a 0.1% increase in the previous month."
-    },
-    {
-      "id": "mkt:019f1db2-69ec-7aab-8c58-a7662848118e",
-      "time": "2026-07-01 20:40:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Pruitt is talented and is only temporarily serving as Director of National Intelligence."
-    },
-    {
-      "id": "mkt:019f1db2-15f9-7aab-8c58-9faee9863c83",
-      "time": "2026-07-01 20:40:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Puerte will serve as Director of National Intelligence for one or two months."
-    },
-    {
-      "id": "4965309",
-      "time": "2026-07-01 20:40:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "Metac盤前漲超6%。"
-    },
-    {
-      "id": "mkt:019f1db1-d76b-7aab-8c58-93727ce1cae5",
-      "time": "2026-07-01 20:40:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【ADP data indicate U.S. labor market has strengthened】ADP reported U.S. private-sector payrolls rose 98,000 in June, following a 122,000 gain in May; Bloomberg economists had expected a 120,000 increase. The print supports a view that, after months of uneven hiring, the labor market is firming — job openings are rising and layoffs remain low. If official government payrolls confirm the trend, it could lift market expectations for additional Fed rate hikes this year to curb inflation. Education and health services accounted for roughly half of the June gain, with trade, transportation and utilities and financial activities comprising much of the remainder; nearly all industries added staff and gains were broad across company sizes and regions."
-    },
-    {
-      "id": "mkt:019f1db1-b70e-7aab-8c58-8d26699f9d54",
-      "time": "2026-07-01 20:40:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he told Federal Housing Finance Agency Director Pulte he can declassify any material he wishes."
-    },
-    {
-      "id": "4965308",
-      "time": "2026-07-01 20:40:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特將擔任國家情報總監一兩個月。"
-    },
-    {
-      "id": "4965307",
-      "time": "2026-07-01 20:39:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車考慮出售所持德國足球俱樂部股份。"
-    },
-    {
-      "id": "4965306",
-      "time": "2026-07-01 20:39:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特會在那裡待一個月，也許兩個月。"
-    },
-    {
-      "id": "mkt:019f1db1-18fe-7aab-8c58-823925f03399",
-      "time": "2026-07-01 20:39:33",
-      "tags": [
-        "MKT News",
-        "7201.T",
-        "Impact bullish"
-      ],
-      "text": "Nissan CEO says vehicle development cycle shortened by 40% to 30 months."
-    },
-    {
-      "id": "4965305",
-      "time": "2026-07-01 20:39:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "日產CEO埃斯皮諾薩：新車研發週期縮短40%至30個月。"
-    },
-    {
-      "id": "mkt:019f1db0-eab8-7aab-8c58-7fb2173444c5",
-      "time": "2026-07-01 20:39:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) erased earlier gains and slipped into negative territory in premarket trade; Microsoft (MSFT.O) pulled back, its premarket gain narrowed to 1.3%."
-    },
-    {
-      "id": "4965304",
-      "time": "2026-07-01 20:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特很有才華，他只是暫時擔任國家情報總監。"
-    },
-    {
-      "id": "4965303",
-      "time": "2026-07-01 20:39:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京“專精特新”專板企業達1519家 提前完成階段目標且融資超700億元】7月1日，北京“專精特新”專板企業數量突破1500家，累計股權融資金額超700億元，企業融資規模及政策支援方面持續領跑全國。具體來看，截至6月30日，北京“專精特新”專板企業數量已達1519家，提前完成《北京“專精特新”專板建設方案》中專板培育企業1500家的階段目標。其中，創新型中小企業418家，專精特新中小企業727家，專精特新“小巨人”企業218家。據悉，專板企業持續向高精尖產業集聚，近九成屬於新一代資訊科技、軟體和資訊服務、人工智慧、生物醫藥、智慧製造、新能源、材料等前沿領域；在板企業累計股權融資超700億元。（新京報）"
-    },
-    {
-      "id": "4965302",
-      "time": "2026-07-01 20:38:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美光與通用汽車簽署長期車載儲存戰略供貨協議】美光科技與通用汽車達成客戶戰略合作協議，為通用汽車整車生產提供記憶體及儲存平臺長期穩定供貨保障。通用汽車將採購低功耗記憶體（LPDRAM）、NOR 快閃記憶體以及 UFS NAND 快閃記憶體產品。美光斥資 20 億美元升級改造弗吉尼亞州馬納薩斯晶圓廠。馬納薩斯工廠已於 2026 年上半年投產。美光將與通用汽車聯合研發適配未來車型需求的新一代記憶體、儲存技術。"
-    },
-    {
-      "id": "mkt:019f1db0-3ed2-7aab-8c58-76154471b9e5",
-      "time": "2026-07-01 20:38:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US President Trump said the US may hold about 50% of the semiconductor market by the time he leaves office."
-    },
-    {
-      "id": "4965301",
-      "time": "2026-07-01 20:38:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "亞馬遜股價回吐此前漲幅轉跌，微軟漲幅收窄。"
-    },
-    {
-      "id": "4965300",
-      "time": "2026-07-01 20:38:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：到我卸任時，我們可能佔據晶片市場50%的份額。"
-    },
-    {
-      "id": "mkt:019f1daf-ceb1-7aab-8c58-6fa86a27b029",
-      "time": "2026-07-01 20:38:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "President Trump said the US is building numerous automotive plants and AI projects."
-    },
-    {
-      "id": "4965299",
-      "time": "2026-07-01 20:38:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【海上通行和黎巴嫩停火是美伊談判的關鍵議題】據半島電視臺，海上通行和黎巴嫩停火是美伊談判的關鍵議題。一位直接瞭解多哈會談情況的訊息人士概述了伊朗目前在與美國的談判中的立場：\n①卡達和巴基斯坦的調解員正在提供技術支援，以達成初步協議，這些協議隨後可提交給兩國決策者。\n②伊朗堅持認為，在願意就其他關鍵問題進行談判之前，諒解備忘錄中的五項關鍵條款必須得到落實。\n③這項臨時協議包括與結束以色列對黎巴嫩的戰爭、促進流離失所者返回家園以及恢復黎巴嫩全境主權相關的承諾。\n④訊息人士稱，伊朗認為以色列透過持續襲擊和試圖佔領黎巴嫩南部戰略要地來破壞該協議。\n⑤德黑蘭正在爭取解凍其被凍結的資產，並表示這些資產必須提供給伊朗央行，以便其進行國際採購。\n⑥在海上問題上，伊朗承諾確保霍爾木茲海峽船隻安全通行，但堅持該海峽仍處於伊朗和阿曼的主權之下。\n⑦德黑蘭方面仍然致力於遵守《不擴散核武器條約》，並繼續與國際原子能機構開展合作。"
-    },
-    {
-      "id": "4965298",
-      "time": "2026-07-01 20:37:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta 自研雲業務落地，對外售賣閒置 AI 算力與自研大模型】Meta Platforms正推進雲基礎設施業務規劃，計劃對外出售 AI 算力使用權與自研大模型服務，由此開闢全新競爭賽道，與亞馬遜雲科技（AWS）、微軟 Azure、谷歌雲等行業龍頭展開正面競爭。多位不願具名的知情人士透露，Meta 為支撐自身人工智慧戰略，正斥資大量資金擴建資料中心與配套基礎設施；如今公司計劃成立獨立業務板塊，將富餘算力對外出售、創造新增營收，相關細節尚未對外公開。知情人士稱，其中一項落地方案是開放多款搭載於 Meta 自有 AI 基礎設施的大模型，模式對標亞馬遜雲的 Bedrock 模型託管服務。Meta 將自主運營支撐模型執行的資料中心與算力晶片，其中包含自研 Muse Spark 多模態大模型，並向開發者收取呼叫使用費。"
-    },
-    {
-      "id": "4965297",
-      "time": "2026-07-01 20:37:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿曼被曝推出霍爾木茲海峽收費政策，仿效馬六甲海峽自願模式】多名知情外交官透露，阿曼最近向美國和其他西方盟友提交了一份正式提案。根據該提案，航運公司將需要支付服務費才能使用該海峽。服務費屬“自願付費”，而非“強制性通行費”。（澎湃）"
-    },
-    {
-      "id": "4965296",
-      "time": "2026-07-01 20:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在美國建設很多汽車工廠和人工智慧基地。"
-    },
-    {
-      "id": "mkt:019f1dae-f592-7aab-8c58-60e42df29223",
-      "time": "2026-07-01 20:37:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BYD Energy Storage to build Poland's largest battery project — 600MW/2.4GWh】BYD Energy Storage signed an agreement with Greenvolt Power to develop the Siedlce battery storage project in Poland totaling 600MW/2.4GWh, which would be the country's largest. The partners have already delivered 1.6GWh across two local projects. Construction is scheduled to begin in Q3 2026, with commercial operation expected before end-2027."
-    },
-    {
-      "id": "4965295",
-      "time": "2026-07-01 20:37:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽一艘集裝箱船擱淺】據伊朗伊斯蘭共和國廣播電視臺7月1日報道，一艘集裝箱船近日未按伊方指定航線航行，在霍爾木茲海峽擱淺。 報道稱，該船選擇其他航線通行，因相關海域水深較淺而擱淺，無法繼續航行。報道未公佈該船的名稱、船籍、具體位置以及人員和貨物受損情況。 報道還稱，伊朗已將船隻進出霍爾木茲海峽的指定路線限定為拉臘克島以南航線。船隻如與伊朗伊斯蘭革命衛隊海軍協調並獲得通行時間安排，伊方將從其進入波斯灣至駛出波斯灣期間提供安全保障。船隻如選擇指定航線以外路線進出波斯灣，可能“導致不可挽回的事件發生”。(新華社)"
-    },
-    {
-      "id": "mkt:019f1dae-b61c-7aab-8c58-5a75a4eb9f1f",
-      "time": "2026-07-01 20:36:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said the stock market is rising and everyone is profiting, and that he is profiting as well."
-    },
-    {
-      "id": "mkt:019f1dae-9d52-7aab-8c58-513c40610326",
-      "time": "2026-07-01 20:36:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump, on financial disclosure: My funds are managed by a fund; do not speak with the people who manage my funds."
     }
   ]
 }

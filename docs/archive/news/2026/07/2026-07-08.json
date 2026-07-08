@@ -1,7 +1,603 @@
 {
   "date": "2026-07-08",
-  "count": 2887,
+  "count": 2955,
   "items": [
+    {
+      "id": "mkt:019f41ce-7624-7aab-8cef-29ff35bebe46",
+      "time": "2026-07-08 20:57:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oil prices rose about $0.60 intraday; WTI crude at $73.71 per barrel, Brent crude at $77.81 per barrel."
+    },
+    {
+      "id": "mkt:019f41ce-3057-7aab-8cef-245ecac218c8",
+      "time": "2026-07-08 20:57:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said on Iran that action against Iran is not about regime change but about nuclear weapons."
+    },
+    {
+      "id": "4976900",
+      "time": "2026-07-08 20:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SOVECON諮詢公司：俄羅斯2025/26年度小麥出口預測下調60萬噸，至4620萬噸。"
+    },
+    {
+      "id": "4976899",
+      "time": "2026-07-08 20:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這不是政權更迭的問題，而是核武器的問題。"
+    },
+    {
+      "id": "mkt:019f41cd-817a-7aab-8cef-1874ec795005",
+      "time": "2026-07-08 20:56:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said he may strike Iran again tonight."
+    },
+    {
+      "id": "4976898",
+      "time": "2026-07-08 20:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中潤光學：擬投資10億元建設高精密光學元元件研發及產業化基地專案】中潤光學(688307.SH)公告稱，公司擬與嘉興高新技術產業開發區管理委員會簽訂投資協議書，投資建設“高精密光學元元件研發及產業化基地專案”，計劃總投資額約10億元。專案主要進行高階光學鏡頭、精密光學元件的研發升級及擴產，預計24個月內完成建設，36個月內投產。本次投資不構成關聯交易或重大資產重組，尚需提交股東會審議。"
+    },
+    {
+      "id": "4976897",
+      "time": "2026-07-08 20:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚可能再次打擊伊朗。"
+    },
+    {
+      "id": "mkt:019f41cd-281e-7aab-8cef-105b0c976e37",
+      "time": "2026-07-08 20:56:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy plans to discuss details of a drone agreement with Trump."
+    },
+    {
+      "id": "mkt:019f41cd-0642-7aab-8cef-0aec14cdb6ec",
+      "time": "2026-07-08 20:56:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the US struck Iran hard last night."
+    },
+    {
+      "id": "mkt:019f41cc-f0b3-7aab-8cef-063f41176e39",
+      "time": "2026-07-08 20:56:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, speaking on the Russia-Ukraine conflict, said we have made significant progress."
+    },
+    {
+      "id": "4976896",
+      "time": "2026-07-08 20:56:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨晚我們對伊朗進行了重擊。"
+    },
+    {
+      "id": "4976895",
+      "time": "2026-07-08 20:56:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基計劃與特朗普討論無人機交易。"
+    },
+    {
+      "id": "mkt:019f41cc-ae35-7aab-8cee-fe0664851aef",
+      "time": "2026-07-08 20:56:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Putin is a difficult character and Zelenskiy is as well."
+    },
+    {
+      "id": "4976894",
+      "time": "2026-07-08 20:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基對特朗普表示：防空系統是當務之急。"
+    },
+    {
+      "id": "mkt:019f41cc-72b9-7aab-8cee-f20c529f4121",
+      "time": "2026-07-08 20:55:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he hopes US President Trump will do everything possible to stop the war."
+    },
+    {
+      "id": "4976893",
+      "time": "2026-07-08 20:55:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京是個難纏的人物，澤連斯基也是。"
+    },
+    {
+      "id": "4976892",
+      "time": "2026-07-08 20:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Truist證券將禮來目標價從1281美元上調至1370美元。"
+    },
+    {
+      "id": "4976891",
+      "time": "2026-07-08 20:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：希望特朗普會盡一切努力阻止戰爭。"
+    },
+    {
+      "id": "mkt:019f41cb-df6c-7aab-8cee-e9ac590aa7f2",
+      "time": "2026-07-08 20:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy thanked U.S. President Trump for his support."
+    },
+    {
+      "id": "mkt:019f41cb-c01c-7aab-8cee-e1c19642cb7a",
+      "time": "2026-07-08 20:54:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said NATO leaders unanimously stressed the need to increase defense spending."
+    },
+    {
+      "id": "4976890",
+      "time": "2026-07-08 20:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐亞美尼亞大使：我們以勇氣和堅韌，在與兩個世界核武強權的不對稱戰爭中堅持下來，即使在領袖殉國後，也未讓敵人達成其在戰爭中的目標。"
+    },
+    {
+      "id": "mkt:019f41cb-97c0-7aab-8cee-db204b1579c5",
+      "time": "2026-07-08 20:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will consult with Zelensky on studying what assistance could be provided to the country."
+    },
+    {
+      "id": "4976889",
+      "time": "2026-07-08 20:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭感謝特朗普的支援。"
+    },
+    {
+      "id": "4976888",
+      "time": "2026-07-08 20:53:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就俄烏衝突表態： 這場衝突遠未落幕。"
+    },
+    {
+      "id": "mkt:019f41ca-bd5f-7aab-8cee-d0b25b97a53e",
+      "time": "2026-07-08 20:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he was honored to meet Ukrainian President Zelenskiy during the NATO summit."
+    },
+    {
+      "id": "mkt:019f41ca-6c16-7aab-8cee-cc0350549053",
+      "time": "2026-07-08 20:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Zelensky has developed a good relationship with him."
+    },
+    {
+      "id": "4976887",
+      "time": "2026-07-08 20:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和澤連斯基建立了良好的關係。"
+    },
+    {
+      "id": "mkt:019f41ca-4d32-7aab-8cee-c1418807fadd",
+      "time": "2026-07-08 20:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's ambassador to Armenia said Iran has, with courage and resilience, sustained an asymmetric war against two nuclear-armed world powers and, even after the leader's death, prevented the enemy from achieving its war objectives."
+    },
+    {
+      "id": "4976885",
+      "time": "2026-07-08 20:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：能和澤連斯基在一起是我的榮幸。"
+    },
+    {
+      "id": "mkt:019f41c9-8465-7aab-8cee-bac69a3e804a",
+      "time": "2026-07-08 20:52:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On the Russia-Ukraine conflict, President Trump said both sides currently want to reach reconciliation."
+    },
+    {
+      "id": "mkt:019f41c9-7be1-7aab-8cee-b6b1dfc27ad6",
+      "time": "2026-07-08 20:52:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Ukraine says it shot down Russian Su-35; Russia has not responded】Ukraine's Air Force said it shot down a Russian Su-35 multirole fighter in the east on the 8th (local time). Russia has not responded to the statement."
+    },
+    {
+      "id": "4976884",
+      "time": "2026-07-08 20:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：雙方都希望達成和解。"
+    },
+    {
+      "id": "4976883",
+      "time": "2026-07-08 20:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：北約會議很棒。"
+    },
+    {
+      "id": "mkt:019f41c9-4054-7aab-8cee-adb19e41d3fe",
+      "time": "2026-07-08 20:52:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the NATO summit was very successful."
+    },
+    {
+      "id": "4976882",
+      "time": "2026-07-08 20:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我有很多好故事要講。"
+    },
+    {
+      "id": "4976881",
+      "time": "2026-07-08 20:52:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基開始與特朗普會面。"
+    },
+    {
+      "id": "4976880",
+      "time": "2026-07-08 20:51:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度執法局：已對安尼爾·安巴尼信實集團的核心僱員及相關實體開展搜查行動。"
+    },
+    {
+      "id": "4976879",
+      "time": "2026-07-08 20:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱擊落一架俄蘇-35戰鬥機 俄方暫無回應】當地時間8日，烏克蘭武裝部隊空軍表示，當天在東部方向擊落了一架俄羅斯蘇-35多用途戰鬥機。俄羅斯方面對此說法暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f41c7-d905-7aab-8cee-a282a1f60818",
+      "time": "2026-07-08 20:50:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU to give industry more flexibility in carbon market reform】The EU will give its weak industrial sector greater flexibility in the upcoming EU ETS reform while aiming to preserve incentives for clean-technology investment, EU officials said. The reform seeks to balance support for heavy industry’s transition to clean energy with measures that continue to reward faster-decarbonizing firms. The European Commission is expected to publish the proposal on July 17. To address competitiveness concerns in energy-intensive sectors, the Commission aims to launch as early as next year an ETS Investment Promotion Fund that would allocate 400 million allowances over three years to eligible firms on a first-come, first-served basis."
+    },
+    {
+      "id": "mkt:019f41c7-6567-7aab-8cee-9bbda89f37e0",
+      "time": "2026-07-08 20:50:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's central bank left its benchmark rate unchanged at 3.75%, in line with market expectations."
+    },
+    {
+      "id": "mkt:019f41c7-4c68-7aab-8cee-90314de55f23",
+      "time": "2026-07-08 20:50:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "U.S. President Trump said Washington will continue to sell arms to allies."
+    },
+    {
+      "id": "4976878",
+      "time": "2026-07-08 20:49:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。"
+    },
+    {
+      "id": "4976877",
+      "time": "2026-07-08 20:47:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜秘密推進Alexa“智慧體”計劃 成本高昂引發內部擔憂】7月8日訊息，亞馬遜內部規劃檔案顯示，公司正在秘密推進一項名為“Moonraker”的全新Alexa AI專案，旨在將這一語音助手推向AI智慧體賽道。然而，該專案極其高昂的研發與執行成本已在公司內部引發廣泛擔憂。"
+    },
+    {
+      "id": "mkt:019f41c4-ca63-7aab-8cee-8b570090442c",
+      "time": "2026-07-08 20:47:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources: Central Bank of Chile purchased USD 25 mln."
+    },
+    {
+      "id": "4976876",
+      "time": "2026-07-08 20:47:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：智利央行購入2500萬美元。"
+    },
+    {
+      "id": "4976875",
+      "time": "2026-07-08 20:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗HORMOZGAN機場關閉，直至另行通知。"
+    },
+    {
+      "id": "4976874",
+      "time": "2026-07-08 20:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍隊在東部方向擊落了一架俄羅斯蘇-35多用途戰鬥機。（CGTN）"
+    },
+    {
+      "id": "mkt:019f41c2-f746-7aab-8cee-8293ffb26b7e",
+      "time": "2026-07-08 20:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO unlikely to join U.S. action in Strait of Hormuz despite Trump pressure, ANU lecturer says】Alam Saleh, a lecturer at the Australian National University, said NATO is unlikely to participate in any U.S.-led operation in the Strait of Hormuz despite pressure from President Trump. He said Iran treats a war as existential and has so far deterred open conflict. Saleh added NATO is fundamentally a defensive, regionally focused alliance whose collective-security remit is limited; joining U.S. action in Hormuz would require it to adopt an offensive, global role — a transformation he called unrealistic."
+    },
+    {
+      "id": "4976873",
+      "time": "2026-07-08 20:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：7月8日，全球基金淨買入196億印度盧比的印度股票。"
+    },
+    {
+      "id": "4976872",
+      "time": "2026-07-08 20:44:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨<CCc2> 大幅上漲近7%，達到每噸6136美元。"
+    },
+    {
+      "id": "4976871",
+      "time": "2026-07-08 20:43:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約峰會宣告：各國領導人重申伊朗不得擁有核武器，呼籲伊朗尊重霍爾木茲海峽的航行自由。"
+    },
+    {
+      "id": "4976870",
+      "time": "2026-07-08 20:42:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "AEROVIRONMENT股價飆升，上漲6%。"
+    },
+    {
+      "id": "mkt:019f41c0-9ab2-7aab-8cee-7aad1cbd68c7",
+      "time": "2026-07-08 20:42:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: leaders reiterated that Iran must not possess nuclear weapons and urged Iran to respect freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4976869",
+      "time": "2026-07-08 20:42:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長苗得雨會見阿曼國家安全委員會秘書長伊德里斯】2026年7月8日，外交部副部長苗得雨會見阿曼國家安全委員會秘書長伊德里斯。苗得雨表示，近年來，在習近平主席和海賽姆蘇丹戰略引領下，中阿政治互信不斷鞏固，各領域合作穩步推進。中方高度重視發展對阿關係，願同阿方一道，繼續在涉及彼此核心利益問題上堅定相互支援，深化“一帶一路”倡議同阿曼“2040願景”戰略對接，推動兩國各領域合作走深走實，攜手維護地區和平穩定，推動中阿戰略伙伴關係取得更大發展。(外交部網站)"
+    },
+    {
+      "id": "4976868",
+      "time": "2026-07-08 20:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順博合金：向特定物件發行股票申請獲深交所稽核透過】順博合金公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於重慶順博鋁合金股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深圳證券交易所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。公司本次向特定物件發行股票事項尚需中國證監會作出予以註冊決定後方可實施。"
+    },
+    {
+      "id": "te:markets:565295",
+      "time": "2026-07-08 20:40:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Fall as US-Iran Tensions Escalate — Futures tracking the S&P/TSX Composite Index fell on Wednesday as renewed US-Iran tensions lifted oil prices. US President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials and the broader market. Mining stocks also came under pressure as gold prices slipped, while Trilogy Metals reported a wider second-quarter loss. Meanwhile, investors awaited the minutes from the Fed's June meeting for further clues on the US monetary policy outlook. Markets continue to expect the BoC to keep interest rates unchanged at its July 15 meeting."
+    },
+    {
+      "id": "4976867",
+      "time": "2026-07-08 20:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST發展：預重整備案登記 債權人需8月7日前申報債權】*ST發展公告稱，2026年7月6日，重慶五中院對公司進行預重整備案登記。經主要債權人同意，公司已聘任相關律所和會計所擔任預重整輔助機構。債權人需在8月7日前透過“律泊智破系統”線上申報債權。公司後續能否進入重整程式尚不確定，若法院裁定受理重整申請，股票將被疊加實施退市風險警示。若重整失敗，公司存在被宣告破產及股票終止上市風險。"
+    },
+    {
+      "id": "4976866",
+      "time": "2026-07-08 20:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珍寶島：回覆上交所年報問詢 多項問題核查尚在推進】珍寶島公告稱，公司於6月2日收到上交所《問詢函》。獨立董事就相關問題發表意見，公司已完整披露2020年以來與上海甲貝、柯維凱瑞業務往來及控股股東資金佔用情況，違規問題已整改；募集資金補流用途合規，前期專項報告未提示風險屬內控執行一般缺陷；預付款項增長具合理性，相關核查尚在推進；已如實說明資金支付內控漏洞及成因，相關核查仍在進行。此外，公司應收賬款、其他應收款等核算規範，減值計提充分，獨立董事將持續關注相關工作。"
+    },
+    {
+      "id": "4976865",
+      "time": "2026-07-08 20:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【易方達基金龐亞平：中國ETF規模佔股市僅2.4% 未來發展空間廣闊】7月8日，易方達基金黨委委員、董事總經理、指數研究發展部總經理龐亞平在演講中表示，中國ETF發展迅速，從2004年首隻產品至今已有近1600只，年初總規模約6萬億元，但相對股票市場體量而言滲透率僅2.4%，而美國市場這一比例接近24%，歐洲市場也達約四分之一，中國ETF未來發展空間廣闊。龐亞平指出，當前ETF產品型別日趨多元，寬基、行業主題、風格因子、跨境、商品等類別齊頭並進，各類中長期資金參與度持續提升。但與此同時，近1600只產品中同質化現象較為突出，行業需要從規模擴張轉向運營能力提升，從境內投資閉環走向全球配置，從被動跟蹤邁向主被動理念融合。他認為，指數化投資的本源是降低投資難度，未來ETF行業需在精細化運營、產品創新和投資者服務等方面持續發力，推動行業從量的擴張走向質的提升。（證券時報）"
+    },
+    {
+      "id": "mkt:019f41bd-0bb1-7aab-8cee-72b2ce414e45",
+      "time": "2026-07-08 20:38:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【E Fund's Pang Yaping: China ETFs just 2.4% of equity market; significant room to grow】July 8 — Pang Yaping, board member and managing director and head of index R&D at E Fund Management, said China now has nearly 1,600 ETFs since the first in 2004, with aggregate AUM about 6 trillion yuan at the start of the year. ETF penetration of the Chinese equity market is roughly 2.4%, versus about 24% in the US and ~25% in Europe, implying substantial upside. Product types have diversified—broad-market, sector/theme, style/factor, cross‑border and commodity ETFs—and participation from medium- and long-term investors is increasing. Pang flagged pronounced product homogeneity among the ~1,600 ETFs and urged a shift from scale-driven expansion to stronger operational capability, global allocation and active-passive integration. He said index investing’s purpose is to lower investment difficulty and called for continued focus on refined operations, product innovation and investor services to drive quality over quantity."
+    },
+    {
+      "id": "4976864",
+      "time": "2026-07-08 20:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西前總統博索納羅的律師表示搜查和扣押過程中未發現任何東西。"
+    },
+    {
+      "id": "4976863",
+      "time": "2026-07-08 20:38:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約峰會宣告：北約盟友在安卡拉宣佈新增超過500億美元的採購計劃。"
+    },
+    {
+      "id": "4976862",
+      "time": "2026-07-08 20:37:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：VATTENFALL公司將於5月23日至9月1日期間減產。"
+    },
+    {
+      "id": "mkt:019f41bc-0c04-7aab-8cee-6c33a9d05078",
+      "time": "2026-07-08 20:37:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: Allies pledge that assistance to Ukraine in 2027 will be at least the same level as in 2026."
+    },
+    {
+      "id": "4976861",
+      "time": "2026-07-08 20:37:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三超新材：向特定物件發行股票申請獲深交所稽核透過】三超新材公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於南京三超新材料股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所上市稽核中心對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。公司本次向特定物件發行股票的事宜尚需獲得中國證監會同意註冊後方可實施，最終能否獲得中國證監會同意註冊的決定及時間仍存在不確定性。"
+    },
+    {
+      "id": "mkt:019f41bb-203e-7aab-8cee-668d9091ca31",
+      "time": "2026-07-08 20:36:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Germany's foreign minister said rising energy prices are a burden for the whole world."
+    },
+    {
+      "id": "4976860",
+      "time": "2026-07-08 20:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰航空一航班一度失聯，北約戰機升空警告】近日，香港國泰航空一班由香港前往倫敦的客機，在東歐羅馬尼亞上空一度與控制塔失去聯絡，北約派出戰機升空作目視警告。之後控制塔與客機恢復聯絡，危機得以解除。截至記者發稿時，國泰航空尚未就相關事件進行回應。匈牙利國防部長Romulusz Ruszin-Szendi在社交平臺發文稱，7月4日，一架由中國香港飛往英國倫敦的空中巴士A350客機，於4日下午1時42分飛到羅馬尼亞空域時，未能與羅馬尼亞民航管制部門聯絡，與控制塔失去聯絡。事件觸發北約快速反應警報，當天下午1時51分，與羅馬尼亞接壤的匈牙利，空軍接報後派戰機升空作目視警告。涉事客機隨即聯絡控制塔，待命的戰機隨後返回基地。據悉，此類攔截行動目的是進行目視識別並恢復通訊，並不一定意味存在安全威脅。訊息稱，涉事的是國泰CX257航班，機上最多可載334人。客機當日準時抵達倫敦希斯羅機場。（第一財經）"
+    },
+    {
+      "id": "4976859",
+      "time": "2026-07-08 20:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外長：我認為全球石油庫存並未處於危險階段。必須提供適合的環境以清除霍爾木茲海峽的地雷，我們需要與伊朗和阿曼達成協議。"
+    },
     {
       "id": "mkt:019f41b9-f16b-7aab-8cee-5f3452c6c4a3",
       "time": "2026-07-08 20:35:32",
