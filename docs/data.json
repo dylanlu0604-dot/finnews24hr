@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-09 04:28:33",
-  "count": 16100,
+  "updated": "2026-07-09 04:32:26",
+  "count": 16102,
   "items": [
+    {
+      "id": "mkt:019f436d-2962-7aab-8cfe-856b8258383d",
+      "time": "2026-07-09 04:30:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency said explosions were heard near Bushehr province in Iran."
+    },
+    {
+      "id": "mkt:019f436c-c3d1-7aab-8cfe-7e26d3de9d55",
+      "time": "2026-07-09 04:30:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's KAN public broadcaster cited Israeli sources saying the US notified Israel in advance of strikes on Iran."
+    },
+    {
+      "id": "4977602",
+      "time": "2026-07-09 04:30:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：布什爾省傳來爆炸聲。"
+    },
+    {
+      "id": "4977601",
+      "time": "2026-07-09 04:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地傳出爆炸聲】當地時間8日深夜，總檯記者獲悉，伊朗阿巴斯港以及錫裡克、恰巴哈爾港附近傳出爆炸聲。此外，伊朗南部布什爾也傳出多次爆炸聲。當地防空系統啟動，對空中目標實施攔截。（央視新聞）"
+    },
+    {
+      "id": "4977600",
+      "time": "2026-07-09 04:29:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據以色列KAN公共廣播電視臺援引以色列訊息人士稱，美國在對伊朗發動襲擊前已提前通知以色列。"
+    },
+    {
+      "id": "mkt:019f436b-528c-7aab-8cfe-77350eb35e68",
+      "time": "2026-07-09 04:28:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "CITIGROUP expects Brent to average $70/bbl in Q4 2026 and $65/bbl in 2027, conditional on a US–Iran agreement and the reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "4977599",
+      "time": "2026-07-09 04:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特將於 7 月 15 日主持金融穩定監督委員會會議。"
+    },
+    {
+      "id": "4977598",
+      "time": "2026-07-09 04:28:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：預計若美伊最終達成協議、霍爾木茲海峽航運恢復通暢，2026 年第四季度布倫特原油均價為每桶 70 美元，2027 年全年均價每桶 65 美元。"
+    },
     {
       "id": "mkt:019f436a-8724-7aab-8cfe-6a7257966146",
       "time": "2026-07-09 04:28:02",
@@ -147163,68 +147242,6 @@
         "DXY"
       ],
       "text": "Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations."
-    },
-    {
-      "id": "4965920",
-      "time": "2026-07-02 04:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "先鋒領航股票市場ETF被選為特朗普賬戶投資標的。"
-    },
-    {
-      "id": "4965919",
-      "time": "2026-07-02 04:31:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "先鋒集團將擔任特朗普賬戶的備選基金合作方。"
-    },
-    {
-      "id": "mkt:019f1f60-8095-7aab-8c66-4a78fe13cf63",
-      "time": "2026-07-02 04:30:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "The New York Times reported U.S. Vice President Vance defended Trump’s approach to war and negotiations with Iran, saying the U.S. is using military force as a key bargaining chip in peace talks and that Trump’s demands on the military are markedly higher than those of prior presidents."
-    },
-    {
-      "id": "4965918",
-      "time": "2026-07-02 04:30:07",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【軟銀集團擬以OpenAI股權擔保籌集100億美元貸款】知情人士透露，軟銀集團正與多家貸款機構談判，擬以OpenAI股權擔保籌集100億美元貸款。為了打消貸款方的顧慮，軟銀提議為貸款償還提供擔保，如果作為抵押品的OpenAI股份貶值，銀行可向軟銀追索。該貸款財團預計將包括高盛 、摩根大通和瑞穗集團。"
-    },
-    {
-      "id": "mkt:019f1f5e-fd11-7aab-8c66-42e653f8c7a2",
-      "time": "2026-07-02 04:29:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said oil prices are falling."
-    },
-    {
-      "id": "mkt:019f1f5e-d7e6-7aab-8c66-3b1712e1e0fe",
-      "time": "2026-07-02 04:28:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said vessels are leaving the Strait of Hormuz."
     }
   ]
 }

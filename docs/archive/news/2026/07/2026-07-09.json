@@ -1,7 +1,86 @@
 {
   "date": "2026-07-09",
-  "count": 552,
+  "count": 560,
   "items": [
+    {
+      "id": "mkt:019f436d-2962-7aab-8cfe-856b8258383d",
+      "time": "2026-07-09 04:30:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency said explosions were heard near Bushehr province in Iran."
+    },
+    {
+      "id": "mkt:019f436c-c3d1-7aab-8cfe-7e26d3de9d55",
+      "time": "2026-07-09 04:30:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's KAN public broadcaster cited Israeli sources saying the US notified Israel in advance of strikes on Iran."
+    },
+    {
+      "id": "4977602",
+      "time": "2026-07-09 04:30:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：布什爾省傳來爆炸聲。"
+    },
+    {
+      "id": "4977601",
+      "time": "2026-07-09 04:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地傳出爆炸聲】當地時間8日深夜，總檯記者獲悉，伊朗阿巴斯港以及錫裡克、恰巴哈爾港附近傳出爆炸聲。此外，伊朗南部布什爾也傳出多次爆炸聲。當地防空系統啟動，對空中目標實施攔截。（央視新聞）"
+    },
+    {
+      "id": "4977600",
+      "time": "2026-07-09 04:29:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據以色列KAN公共廣播電視臺援引以色列訊息人士稱，美國在對伊朗發動襲擊前已提前通知以色列。"
+    },
+    {
+      "id": "mkt:019f436b-528c-7aab-8cfe-77350eb35e68",
+      "time": "2026-07-09 04:28:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "CITIGROUP expects Brent to average $70/bbl in Q4 2026 and $65/bbl in 2027, conditional on a US–Iran agreement and the reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "4977599",
+      "time": "2026-07-09 04:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特將於 7 月 15 日主持金融穩定監督委員會會議。"
+    },
+    {
+      "id": "4977598",
+      "time": "2026-07-09 04:28:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：預計若美伊最終達成協議、霍爾木茲海峽航運恢復通暢，2026 年第四季度布倫特原油均價為每桶 70 美元，2027 年全年均價每桶 65 美元。"
+    },
     {
       "id": "mkt:019f436a-8724-7aab-8cfe-6a7257966146",
       "time": "2026-07-09 04:28:02",
