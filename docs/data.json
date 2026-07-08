@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-08 14:57:40",
-  "count": 16072,
+  "updated": "2026-07-08 15:02:37",
+  "count": 16061,
   "items": [
+    {
+      "id": "4975908",
+      "time": "2026-07-08 15:00:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "義大利倍耐力集團股價因花旗集團將其評級從“買入”下調至“中性”下跌2.6%。"
+    },
+    {
+      "id": "4975907",
+      "time": "2026-07-08 15:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡馬錫投資組合淨值增至5180億新元，上一財年股東一年總回報率10.5%。"
+    },
+    {
+      "id": "4975906",
+      "time": "2026-07-08 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續漲6.24%，低硫燃料油連續漲6.18%，燃料油連續漲6.16%，純苯連續漲5.43%，苯乙烯連續漲4.57%，甲醇連續漲4.14%，丙烯連續漲3.88%，聚丙烯連續漲3.62%，液化石油氣連續漲3.39%。"
+    },
+    {
+      "id": "4975905",
+      "time": "2026-07-08 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.59%， 滬深300指數期貨連續跌0.74%， 中證500指數期貨連續跌0.75%， 上證50指數期貨連續跌0.12%。"
+    },
+    {
+      "id": "4975904",
+      "time": "2026-07-08 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌1.37%，英國富時100指數漲0.13%，法國CAC40指數跌0.51%，歐洲斯托克50指數跌1.22%，義大利富時MIB指數跌0.95%。"
+    },
+    {
+      "id": "4975903",
+      "time": "2026-07-08 14:59:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗外交部：譴責美方襲擊和多次違約行為】當地時間8日，伊朗外交部發表宣告稱，美國軍方當天凌晨對伊朗南部沿海數個監測和監管中心發動軍事襲擊，違反《聯合國憲章》相關規定，也嚴重違反美伊此前簽署的諒解備忘錄中關於停止軍事行動的條款。宣告稱，美國近期對伊朗的襲擊，以及美國財政部決定取消伊朗石油銷售許可、違反伊朗在霍爾木茲海峽相關安排等行為，使已簽署的諒解備忘錄的重要內容失去效力。伊朗外交部表示，美國應對由此造成的緊張局勢升級及其危險後果承擔責任。宣告還強調，各國特別是波斯灣南岸鄰國負有國際法義務，應防止有關方面利用其領土和設施對伊朗實施“侵略行動”。任何協助此類行動的行為，都將被伊方視為參與對伊朗的“侵略”。伊朗外交部強烈譴責美國的襲擊和多次違約行為，並表示伊朗武裝部隊將依據《聯合國憲章》第五十一條，在面對美國軍事襲擊時維護國家主權、領土完整和國家安全，並將打擊襲擊來源。（央視新聞）"
+    },
+    {
+      "id": "4975902",
+      "time": "2026-07-08 14:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國上半年生物醫藥出口45億美元創同期新高】韓國食品醫藥品安全處8日釋出統計資料，初步核實今年上半年生物醫藥出口額同比增長15.3%，達45億美元，創下歷年同期最高紀錄。今年上半年生物醫藥出口佔整體醫藥出口（52億美元）的86.5%。分季度看，今年第一和第二季度出口同比分增11.1%和15.3%，分別為20億美元和25億美元。從出口目的地看，今年上半年共向163個國家和地區出口，其中對瑞士出口額最高，為7.7億美元，佔整體出口額的17.1%，美國（6.1億美元）、匈牙利（6億美元）排在其後。"
+    },
+    {
+      "id": "mkt:019f4085-c245-7aab-8ce3-d6b8390d85d3",
+      "time": "2026-07-08 14:58:55",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RHM.DE"
+      ],
+      "text": "【NATO unveils multibillion-dollar procurement and $40bn-plus counter-UAV plan】NATO announced a package of arms purchases and defence investments during its summit, including a plan to spend more than $40bn over the next five years on counter‑UAV capabilities and to increase trained drone operators fivefold by end‑2027. Secretary‑General Rutte urged member governments and Western defence firms to expand investment and boost industrial capacity. Procurement details include Denmark, Finland, Germany and Norway buying unmanned systems from Northrop Grumman and 11 members acquiring Saab’s GlobalEye airborne early‑warning aircraft. Separately, Lockheed Martin and Rheinmetall signed an MoU to jointly produce the Army Tactical Missile System in Germany, the first production of that short‑range missile outside the United States."
+    },
+    {
+      "id": "4975901",
+      "time": "2026-07-08 14:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧釋出地質災害氣象風險黃色預警】遼寧省自然資源廳與遼寧省氣象局8日聯合釋出地質災害氣象風險預警，7月8日8時至7月9日8時，本溪、丹東、鞍山部分地區地質災害氣象風險預警等級為三級（黃色預警），氣象因素致地質災害發生的風險較高，提示注意防範。"
+    },
+    {
+      "id": "4975900",
+      "time": "2026-07-08 14:58:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【開源證券：首予長江電力“買入”評級，低利率環境配置價值凸顯】開源證券研報指出，長江電力水電龍頭資產稀缺，低利率環境配置價值凸顯。公司隸屬於三峽集團，擁有葛洲壩、三峽、向家壩、溪洛渡、烏東德、白鶴灘六座梯級電站，國內水電裝機規模7169.5萬千瓦。烏東德、白鶴灘資產注入後，公司收入和利潤上升，盈利穩定性和現金流質量較高，低利率環境下具備配置價值。預計公司2026-2028年歸母淨利潤分別為345.3/348.7/362.6億元，當前股價對應PE分別為19.2/19.0/18.3倍。首次覆蓋，給予“買入”評級。"
+    },
+    {
+      "id": "4975899",
+      "time": "2026-07-08 14:57:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【儲存原廠賺爆 Mac與Xbox被迫漲價 谷歌Pixel手機取消128GB】有報道稱，預計將於今年夏末釋出的谷歌Pixel 11 AI智慧手機將擁有更高起售價，並且將不再包括較低儲存容量的128GB儲存機型。谷歌的這一最新舉措類似於消費電子領軍者蘋果公司(AAPL.US)，後者已將其最新款iPhone切換為最低256GB儲存配置，並且將標準版iPhone 18推遲到2027年上半年，旗下Mac/iPad系列消費電子產品則實施全球提價，蘋果與谷歌可謂為上游儲存晶片成本向終端傳導提供了最直接的印證。"
+    },
     {
       "id": "4975898",
       "time": "2026-07-08 14:56:37",
@@ -146943,222 +147039,6 @@
         "Impact bearish"
       ],
       "text": "【10+ Chinese baijiu firms' bulk stocks hit cola-price at judicial auctions】Judicial auctions of Chinese baijiu bulk stocks on platforms including Alibaba Auctions and JD Auction have risen, signaling stress transmission from downstream channels to upstream production. Incomplete counts show more than ten liquor firms have had bulk spirits auctioned since 2026; most lots faced repeated failed auctions and successful sales generally cleared below appraisal. In May, Anhui Wuzigu Liquor Co. sold two lots on JD Auction after five failed attempts, at prices equivalent to 3.9 yuan and 3.7 yuan per 500g—roughly the price of supermarket cola."
-    },
-    {
-      "id": "4964401",
-      "time": "2026-07-01 15:02:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：滬指衝高回落漲0.44%，全市場上漲個股超4300只】滬指全天衝高回落，創業板指跌近2%。保險、券商等金融股走強，天風證券、國盛證券、華安證券等漲停。養殖板塊大幅反彈，新希望、湘佳股份、益生股份等漲停。創新藥概念再度拉昇，匯宇製藥、海南海藥、昂利康等漲停。下跌方面，算力晶片股走低，寒武紀跌超6%。個股漲多跌少，滬深京三市超4300股飄紅，今日成交3.68萬億。截止收盤滬指漲0.44%，深成指跌0.53%，創業板指跌1.89%。"
-    },
-    {
-      "id": "mkt:019f1c7c-68d5-7aab-8c4d-f859721a6e42",
-      "time": "2026-07-01 15:02:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "July 1 (Wed) close: CHINA'S SHANGHAI COMPOSITE INDEX 4,112.45, up 18.05 pts (+0.44%); SHENZHEN COMPOSITE INDEX 16,119.17, down 86.39 pts (-0.53%); CSI 300 INDEX 4,958.98, down 20.46 pts (-0.41%); CHINEXT INDEX 4,260.72, down 81.99 pts (-1.89%); STAR 50 INDEX 2,153.04, down 54.82 pts (-2.48%)."
-    },
-    {
-      "id": "mkt:019f1c7c-436f-7aab-8c4d-f2ae485b6af8",
-      "time": "2026-07-01 15:02:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European bourses opened mixed on July 1: Germany’s DAX up 35.44 pts (+0.14%) at 25,014.69; UK’s FTSE 100 down 22.61 pts (-0.22%) at 10,474.51; France’s CAC 40 down 20.59 pts (-0.25%) at 8,383.40; Stoxx Europe 50 down 13.03 pts (-0.21%) at 6,315.06; Spain’s IBEX 35 down 26.22 pts (-0.13%) at 19,432.48; Italy’s FTSE MIB down 182.93 pts (-0.35%) at 51,499.50."
-    },
-    {
-      "id": "4964400",
-      "time": "2026-07-01 15:02:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞典移動出行公司表示，特斯拉6月在瑞典的新車註冊量同比增長56.3%。"
-    },
-    {
-      "id": "4964399",
-      "time": "2026-07-01 15:02:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀計劃於10月1日完成對OPENAI的第三筆投資。"
-    },
-    {
-      "id": "mkt:019f1c7b-eddb-7aab-8c4d-eba0c4fa2308",
-      "time": "2026-07-01 15:01:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai, Shenzhen turnover CNY 3.66 trillion on July 1; GigaDevice tops by turnover】On July 1 combined turnover on the Shanghai and Shenzhen markets was CNY 3.660004 trillion, up CNY 386.246 billion from the previous session. Shanghai turnover was CNY 1.698488 trillion (prev. CNY 1.530326 trillion) with trading volume 672 million lots (prev. 598 million); Shenzhen turnover was CNY 1.961516 trillion (prev. CNY 1.743432 trillion) with trading volume 874 million lots (prev. 745 million). GigaDevice led stocks by turnover at CNY 43.203 billion, followed by BOE Technology A CNY 39.601 billion, Zhongji Xuchuang CNY 34.256 billion, Xinyisheng CNY 28.257 billion and Montage Technology CNY 27.98 billion."
-    },
-    {
-      "id": "mkt:019f1c7b-abf2-7aab-8c4d-e64700b1de1c",
-      "time": "2026-07-01 15:01:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Russian central bank says room for further rate cuts has narrowed."
-    },
-    {
-      "id": "mkt:019f1c7b-87d5-7aab-8c4d-db4c98d32d58",
-      "time": "2026-07-01 15:01:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "WTI"
-      ],
-      "text": "RUSSIAN CENBANK will consider fuel-market developments and their second-round effects at its next rate-setting meeting."
-    },
-    {
-      "id": "4964398",
-      "time": "2026-07-01 15:01:21",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "軟銀：對OpenAI進行了100億美元的後續投資。"
-    },
-    {
-      "id": "mkt:019f1c7b-72e4-7aab-8c4d-d44440b1a102",
-      "time": "2026-07-01 15:01:20",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Index futures midday close】CSI 300 index futures (IF) main contract fell 0.38%, SSE 50 index futures (IH) main contract rose 0.13%, CSI 500 index futures (IC) main contract fell 0.55%, CSI 1000 index futures (IM) main contract rose 0.38%."
-    },
-    {
-      "id": "mkt:019f1c7b-423f-7aab-8c4d-c8481b4ac2c9",
-      "time": "2026-07-01 15:01:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the midday close, China's main futures contracts were mostly lower. Container freight on the Europe route plunged more than 10%; methanol and ethylene glycol (EG) fell over 3%. Red dates, metallurgical coke, palladium, China's SC crude and platinum dropped more than 2%. On the upside, lithium carbonate gained over 4%, polysilicon nearly 2%, peanuts more than 1%, and pulp and coated paper nearly 1%."
-    },
-    {
-      "id": "4964397",
-      "time": "2026-07-01 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.44%，深證成指跌0.53%，創業板指跌1.89%。"
-    },
-    {
-      "id": "mkt:019f1c7a-c452-7aab-8c4d-c7dce2ddb1c0",
-      "time": "2026-07-01 15:00:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The Russian central bank said global oil prices will remain elevated in the near term and then gradually decline."
-    },
-    {
-      "id": "te:markets:563308",
-      "time": "2026-07-01 15:00:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Air Liquide Stock Price Hits 4-week High — Air Liquide shares increased to 176.88 EUR, the highest since June 2026. Over the past 4 weeks, Air Liquide lost 2.33%, and in the last 12 months, it decreased 1.4%."
-    },
-    {
-      "id": "4964396",
-      "time": "2026-07-01 15:00:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，進一步下調關鍵利率的空間已收窄。"
-    },
-    {
-      "id": "4964395",
-      "time": "2026-07-01 15:00:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，全球油價短期內將維持高位，之後會逐步回落。"
-    },
-    {
-      "id": "4964394",
-      "time": "2026-07-01 15:00:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，將在下次利率會議上考量燃料市場的動態及其次生影響。"
-    },
-    {
-      "id": "4964393",
-      "time": "2026-07-01 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】集運指數歐線期貨連續跌10.94%，碳酸鋰連續漲4.62%，甲醇連續跌3.41%，乙二醇連續跌3.32%，紅棗連續跌2.47%。"
-    },
-    {
-      "id": "4964392",
-      "time": "2026-07-01 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普漲，德國DAX指數漲1.5%，英國富時100指數漲0.12%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲1.55%，義大利富時MIB指數漲1.01%。"
-    },
-    {
-      "id": "4964391",
-      "time": "2026-07-01 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.38%， 滬深300指數期貨連續跌0.38%， 中證500指數期貨連續跌0.55%， 上證50指數期貨連續漲0.13%。"
-    },
-    {
-      "id": "4964390",
-      "time": "2026-07-01 14:59:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朱鶴新局長會見德意志銀行集團執行長克里斯蒂安•澤溫】2026年6月30日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的德意志銀行集團執行長克里斯蒂安·澤溫（Christian Sewing）。雙方就國際經濟金融形勢、全球市場投資機遇等議題進行了交流。國家外匯管理局副局長李斌陪同會見。（外匯局）"
-    },
-    {
-      "id": "4964389",
-      "time": "2026-07-01 14:59:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十多家酒企原酒被拍賣，價格拍出“可樂價”】白酒行業的深度調整正在從下游渠道端向上遊生產端傳導。記者注意到，阿里拍賣等平臺上，白酒原酒、基酒司法拍賣案例不斷增長，成交價格持續走低，甚至賣出“可樂價”，白酒行業的分化與淘汰仍未見底。記者注意到，在京東和阿里等拍賣平臺上，近期原酒拍賣案例明顯增多。據不完全統計，2026年以來，已有十多家酒企的原酒被拍賣，但大多多次流拍，拍賣成功的成交價普遍低於評估價。今年5月，京東拍賣平臺上，安徽武子古釀酒業因破產拍賣旗下原酒，歷經五次流拍後，最終兩單原酒低價成交，單價摺合500克分別為3.9元和3.7元，與超市可樂價格相仿。（第一財經）"
     }
   ]
 }
