@@ -1,7 +1,176 @@
 {
-  "updated": "2026-07-08 21:57:34",
-  "count": 15836,
+  "updated": "2026-07-08 22:01:38",
+  "count": 15809,
   "items": [
+    {
+      "id": "4977051",
+      "time": "2026-07-08 22:00:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：2028年居民消費價格指數區間為0.8%-3.9%，此前預期為0.9%-4%。"
+    },
+    {
+      "id": "mkt:019f4207-b387-7aab-8cf3-0745bc1511f6",
+      "time": "2026-07-08 22:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank reiterated it may intervene in foreign-exchange markets."
+    },
+    {
+      "id": "4977050",
+      "time": "2026-07-08 22:00:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月會議紀要關注點】1、美聯儲官員們對利率路徑的討論情況。2、美聯儲官員們、尤其是主席沃什對前瞻指引、資產負債表等問題的看法。3、美聯儲官員們對美國經濟（包括通脹、就業、AI）的討論情況。4、美聯儲官員們對中東局勢的討論。"
+    },
+    {
+      "id": "4977049",
+      "time": "2026-07-08 22:00:20",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國5月批發銷售月率 3.4%，前值由2.00%修正為2.2%。美國5月批發庫存月率終值 0.1%，預期0.3%，前值0.3%。"
+    },
+    {
+      "id": "mkt:019f4207-950c-7aab-8cf2-fdf89bf6ae5e",
+      "time": "2026-07-08 22:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP diplomatic sources say Lebanon will attend Rome talks only if Israel withdraws from two \"experimental\" zones in southern Lebanon."
+    },
+    {
+      "id": "mkt:019f4207-6a86-7aab-8cf2-f630d0068194",
+      "time": "2026-07-08 22:00:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US May wholesale inventories, final: +0.1% MoM vs +0.3% expected; prior +0.3%."
+    },
+    {
+      "id": "4977048",
+      "time": "2026-07-08 22:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度就3750億盧比煤炭氣化專案公開徵集方案申請。"
+    },
+    {
+      "id": "mkt:019f4207-6567-7aab-8cf2-ef9af6c93ac7",
+      "time": "2026-07-08 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US wholesale sales rose 3.4% MoM in May; April revised up to 2.2% from 2.0%."
+    },
+    {
+      "id": "mkt:019f4207-4534-7aab-8cf2-e7c474db5d83",
+      "time": "2026-07-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Sales (MoM) (May) | actual 3.4% | previous 2.00%"
+    },
+    {
+      "id": "4977047",
+      "time": "2026-07-08 21:59:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特爾專利曝光新型XBM記憶體架構，擬繞開HBM矽中介層降低AI記憶體成本】7月8日訊息，英特爾一項近日公開的專利申請顯示，公司正研發名為XBM（Cross-Batch Memory）的新型高頻寬記憶體架構，旨在透過取消HBM所需的矽中介層、採用UCIe互連及內建冗餘修復機制，降低先進封裝成本並緩解AI晶片“記憶體牆”瓶頸。專利顯示，XBM採用後端電晶體（BEOL）DRAM堆疊設計，可在保持與HBM4相近封裝尺寸的同時提升可擴充套件性，並支援缺陷修復以提高良率。"
+    },
+    {
+      "id": "4977046",
+      "time": "2026-07-08 21:58:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE羅布斯塔咖啡期貨<LRCc2>下跌逾3%，至每公噸3,742美元。"
+    },
+    {
+      "id": "mkt:019f4205-9bff-7aab-8cf2-d9c8df95d1ff",
+      "time": "2026-07-08 21:58:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Czech Prime Minister Andrej Babiš said the Czech Republic will not participate in the €70 billion military aid package for Ukraine."
+    },
+    {
+      "id": "4977045",
+      "time": "2026-07-08 21:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲黎巴嫩南部】據黎巴嫩國家通訊社8日報道，以色列戰機於當天凌晨空襲了黎巴嫩南部奈拜提耶地區的阿里塔希爾林區，此前該地區曾遭到炮擊。隨後，以軍戰機空襲了黎南部賓特朱拜勒地區的多處目標。 黎巴嫩衛生部7日釋出的資料顯示，自3月2日黎以戰火重燃以來，以色列襲擊黎巴嫩已致4320人死亡、12203人受傷。 以色列、美國和黎巴嫩6月26日在華盛頓結束新一輪停火撤軍談判，並宣佈達成三方框架協議，但以色列6月27日以來多次對黎巴嫩境內目標發動軍事打擊。(新華社)"
+    },
+    {
+      "id": "mkt:019f4205-3f06-7aab-8cf2-d2914b17a58c",
+      "time": "2026-07-08 21:57:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's prime minister Sanchez said relations with the United States are \"very positive\"."
+    },
+    {
+      "id": "4977044",
+      "time": "2026-07-08 21:57:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛總統：北約已同意將波羅的海空中警戒任務升級為北約防空任務。"
+    },
+    {
+      "id": "4977043",
+      "time": "2026-07-08 21:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙首相桑切斯：我與特朗普總統進行了融洽輕鬆的交流。"
+    },
+    {
+      "id": "4977042",
+      "time": "2026-07-08 21:57:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國牛市背後散戶困局：熱門股票普遍虧損 三星槓桿ETF虧損率達100%】資料表明，今年上半年韓國股市中，由資產配置失衡以及市場過度集中於少數領漲股票所造成的問題，比預想更加嚴重。  據報道，對韓國大型證券公司客戶賬戶資料進行分析後發現，在韓國個人投資者買入金額排名前50的股票中，除了引領市場上漲的“半導體雙雄”三星電子和SK海力士，以及部分核心資訊科技零部件企業外，個人投資者幾乎在所有熱門股票上都出現了大規模虧損。 這說明，股市上漲帶來的收益並沒有擴散到整個市場，而是集中流向少數超大型龍頭企業。 其中，成績最慘烈的是韓國網際網路企業Kakao（個人投資者買入排名第45位）。 今年上半年投資Kakao的個人投資者平均收益率為-52.7%，虧損投資者比例達到99.9%。這意味著幾乎所有投資者都處於虧損狀態。即使是間接投資產品——交易型開放式指數基金，也沒有逃脫“高位追漲”的困境。 6月份，韓國個人投資者淨買入金額最高的產品是KODEXSK海力士槓桿基金，其虧損投資者比例達到99.7%。 排名第二、個人投資者淨買入金額第二高的KODEX三星電子槓桿基金，虧損投資者比例更是達到100%。"
+    },
+    {
+      "id": "4977041",
+      "time": "2026-07-08 21:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙首相桑切斯稱與美國關係“非常積極”。"
+    },
     {
       "id": "4977040",
       "time": "2026-07-08 21:56:41",
@@ -144290,458 +144459,6 @@
         "國際"
       ],
       "text": "沃什就最高法院對麗莎·庫克的裁決置評：美聯儲在裁決前獨立行事，並在之後遵循其職權範圍。"
-    },
-    {
-      "id": "4965581",
-      "time": "2026-07-01 22:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運通擴大美國卡會員使用Apple Pay結賬時會員獎勵積分兌換機會。"
-    },
-    {
-      "id": "mkt:019f1dfb-a3ee-7aab-8c5e-bb87ef006fa4",
-      "time": "2026-07-01 22:00:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chairman Kevin Warsh said he hopes the data working group will help the Fed use real-time data."
-    },
-    {
-      "id": "mkt:019f1dfb-a005-7aab-8c5e-b681d5c9be6e",
-      "time": "2026-07-01 22:00:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he hopes to use new technology to understand the economy within 9 to 12 months."
-    },
-    {
-      "id": "em:qqyh_ygyh:202607013790568868",
-      "time": "2026-07-01 22:00:57",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國央行行長貝利：降息仍然不在考慮範圍內】英國央行行長安德魯·貝利表示，儘管能源市場大幅回落後通脹威脅減輕，但降息仍然“不在考慮範圍內”。"
-    },
-    {
-      "id": "4965580",
-      "time": "2026-07-01 22:00:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我希望在9到12個月後，我們能利用新技術來理解經濟。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790561865",
-      "time": "2026-07-01 22:00:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什：希望利率政策成為關鍵政策工具】據報道，美聯儲主席沃什表示，潛在增長率似乎已呈上升趨勢；如果過去四個季度能作為參考，那麼有理由保持樂觀；希望利率政策成為關鍵政策工具。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607013790563274",
-      "time": "2026-07-01 22:00:42",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月營建支出環比增長0.1%】美國5月營建支出環比增長0.1%，預期0.1%，前值由0.40%修正為0.3%。"
-    },
-    {
-      "id": "mkt:019f1dfb-5d9d-7aab-8c5e-ab96782a5f52",
-      "time": "2026-07-01 22:00:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US June ISM Production Index 52.2, prior 54.3."
-    },
-    {
-      "id": "4965579",
-      "time": "2026-07-01 22:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：期待資料專項工作組助力我們運用實時資料。"
-    },
-    {
-      "id": "te:markets:563465",
-      "time": "2026-07-01 22:00:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Jumps 2% on Warsh’s Remarks — Gold prices surged 2% to $4,090 per ounce on Wednesday, rebounding from near eight-month lows, as investors parsed comments from new Federal Reserve Chair Kevin Warsh and fresh US-Iran tensions raised doubts about Middle East stability. Speaking at the ECB’s annual forum in Sintra, Portugal, Warsh acknowledged that inflation risks and expectations have eased in recent weeks but reaffirmed the Fed’s commitment to returning inflation to its 2% target. He emphasized the central bank’s focus on price stability, a stance he first outlined in his debut press conference last month. Warsh also reiterated his decision to abandon traditional \"forward guidance\" on interest-rate policy, marking a shift in the Fed’s communication approach. Despite this, investors continued to bet on US rate hikes this year to curb inflation amid a robust labor market. Meanwhile, markets monitored updates from US-Iran peace talks in Qatar, though direct negotiations between the two sides remained unlikely."
-    },
-    {
-      "id": "mkt:019f1dfb-29b0-7aab-8c5e-a2fd1cc36069",
-      "time": "2026-07-01 22:00:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "US June ISM Inventories Index 51.4, prior 49.9."
-    },
-    {
-      "id": "mkt:019f1dfb-2770-7aab-8c5e-98f95e0cd5f9",
-      "time": "2026-07-01 22:00:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Production Index (Jun) | actual 52.2 | previous 54.3"
-    },
-    {
-      "id": "4965578",
-      "time": "2026-07-01 22:00:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月ISM製造業物價支付指數 73，預期 77.5，前值 82.1。\n美國6月ISM製造業指數 53.3，預期 53.9，前值 54。"
-    },
-    {
-      "id": "mkt:019f1dfb-0f7c-7aab-8c5e-970673b5163c",
-      "time": "2026-07-01 22:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Data show Venezuela's oil exports edged down to 1.2 mln bpd in June."
-    },
-    {
-      "id": "mkt:019f1dfb-0c5a-7aab-8c5e-897ff89a2c3c",
-      "time": "2026-07-01 22:00:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Inventory Index (Jun) | actual 51.4 | previous 49.9"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607013790563057",
-      "time": "2026-07-01 22:00:19",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月ISM製造業PMI為53.3】美國6月ISM製造業PMI為53.3，預期54，前值54。"
-    },
-    {
-      "id": "mkt:019f1dfb-0123-7aab-8c5e-834aace58b94",
-      "time": "2026-07-01 22:00:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. construction spending MoM +0.1% in May, matching estimates; April revised to +0.3% from +0.4%."
-    },
-    {
-      "id": "mkt:019f1dfa-feb6-7aab-8c5e-78461fc46361",
-      "time": "2026-07-01 22:00:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US ISM manufacturing Prices Paid index fell to 73 in June, below the 78 expected and down from a prior 82.1."
-    },
-    {
-      "id": "mkt:019f1dfa-fe64-7aab-8c5e-724cf77279f7",
-      "time": "2026-07-01 22:00:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. ISM employment index for June 49.7, up from 48.6; remains below 50, signaling contraction."
-    },
-    {
-      "id": "4965577",
-      "time": "2026-07-01 22:00:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月ISM製造業就業指數 49.7，前值 48.6。"
-    },
-    {
-      "id": "mkt:019f1dfa-e2f4-7aab-8c5e-6d4d155dc27b",
-      "time": "2026-07-01 22:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "US ISM manufacturing PMI 53.3 in June, vs 54 expected and 54 in May."
-    },
-    {
-      "id": "mkt:019f1dfa-e09b-7aab-8c5e-67d25813aa70",
-      "time": "2026-07-01 22:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US ISM New Orders Index 56 in June, versus 56.8 previously."
-    },
-    {
-      "id": "4965576",
-      "time": "2026-07-01 22:00:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行拉加德：央行履行職責的最佳方式是保持問責性與獨立性。"
-    },
-    {
-      "id": "mkt:019f1dfa-c347-7aab-8c5e-5a9dab6ada3a",
-      "time": "2026-07-01 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Construction Spending (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019f1dfa-c169-7aab-8c5e-52b2d6e50ef4",
-      "time": "2026-07-01 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM New Orders Index (Jun) | actual 56 | previous 56.8"
-    },
-    {
-      "id": "mkt:019f1dfa-c11a-7aab-8c5e-49c3d8c99895",
-      "time": "2026-07-01 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing Prices Paid Index (Jun) | actual 73 | consensus 78 | previous 82.1"
-    },
-    {
-      "id": "mkt:019f1dfa-c119-7aab-8c5e-4094f1b7c069",
-      "time": "2026-07-01 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Employment Index (Jun) | actual 49.7 | previous 48.6"
-    },
-    {
-      "id": "mkt:019f1dfa-c10a-7aab-8c5e-3bfadc3aacad",
-      "time": "2026-07-01 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing PMI (Jun) | actual 53.3 | consensus 54 | previous 54"
-    },
-    {
-      "id": "4965575",
-      "time": "2026-07-01 21:59:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，委內瑞拉6月石油出口小幅下滑至每日120萬桶。"
-    },
-    {
-      "id": "4965574",
-      "time": "2026-07-01 21:59:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，雪佛龍6月委內瑞拉石油出口量升至約29.3萬桶/日。"
-    },
-    {
-      "id": "4965573",
-      "time": "2026-07-01 21:59:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，6月委內瑞拉對美石油出口升至每日63萬桶。"
-    },
-    {
-      "id": "4965572",
-      "time": "2026-07-01 21:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料：6 月委內瑞拉對印度石油出口量降至每日 27.7 萬桶。"
-    },
-    {
-      "id": "mkt:019f1dfa-0bac-7aab-8c5e-3621dff5ca67",
-      "time": "2026-07-01 21:59:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB President Lagarde said the best way for central banks to fulfill their mandates is to maintain accountability and independence."
-    },
-    {
-      "id": "mkt:019f1df9-f061-7aab-8c5e-2cbc551b10d0",
-      "time": "2026-07-01 21:59:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed will follow the U.S. Supreme Court's ruling."
-    },
-    {
-      "id": "4965571",
-      "time": "2026-07-01 21:58:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：我們將遵從最高法院的裁決。"
-    },
-    {
-      "id": "mkt:019f1df9-7c1a-7aab-8c5e-22aa263cefdf",
-      "time": "2026-07-01 21:58:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "U.S. Fed chair Kevin Warsh said the Fed will remain independent after the Supreme Court ruling."
-    },
-    {
-      "id": "4965570",
-      "time": "2026-07-01 21:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮新聞秘書 ： 特朗普總統將於週三搭乘全新的空軍一號完成首飛，前往北達科他州出席西奧多・羅斯福總統圖書館落成活動。"
-    },
-    {
-      "id": "mkt:019f1df9-3626-7aab-8c5e-1d350989c1a3",
-      "time": "2026-07-01 21:58:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iron ore main contract rose over 2.00% intraday to 751.50 yuan/ton."
-    },
-    {
-      "id": "mkt:019f1df9-15d1-7aab-8c5e-1157963c9f5f",
-      "time": "2026-07-01 21:58:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Vance: US has completed \"core task\" in handling relations with Iran】US Vice President Vance told Fox News in a Tuesday interview that the US holds the upper hand in Middle East negotiations. He said that regardless of the outcome of Doha talks, the Trump administration has achieved its \"core task\" on Iran — ensuring Iran can never obtain nuclear weapons. He added that if Iran does not comply or make the required concessions, its nuclear program would be destroyed and its conventional forces weakened, and the US would remain in a stronger position relative to Iran."
-    },
-    {
-      "id": "4965569",
-      "time": "2026-07-01 21:58:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：最高法院裁決後，美聯儲仍將保持獨立性。"
-    },
-    {
-      "id": "mkt:019f1df9-0102-7aab-8c5e-0fb743cee324",
-      "time": "2026-07-01 21:58:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hainan to prioritize TCM, forest, climate, hot‑spring and sports wellness; push flagship projects, standards and internationalisation】July 1 — Hainan provincial party committee held a meeting to advance population high‑quality development and expand the wellness and eldercare industry. It directed a market‑led push concentrating on TCM wellness, forest wellness, climate wellness, hot‑spring wellness and sports wellness to develop a set of flagship projects and strengthen the Health Island/Longevity Island brand. The committee called for a unified industry standard system, exploration of a wellness industry alliance, tech‑enabled quality upgrades, alignment with international service standards and streamlined mutual recognition channels for professional teams and credentials, aiming to leverage Hainan’s positioning as a Chinese four‑seasons garden and become an international wellness destination."
-    },
-    {
-      "id": "4965568",
-      "time": "2026-07-01 21:57:51",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國6月製造業產出和訂單增長進一步改善】標普首席商業經濟學家克里斯·威廉姆森評價美國6月標普全球製造業PMI終值表示：“根據資料，美國製造業在6月份報告稱產出和訂單增長進一步顯著改善，延續了自中東衝突爆發以來出現的增長勢頭。然而，由於企業紛紛試圖抵消能源和原材料成本上漲的影響，就業人數出現了大幅削減。儘管受中東局勢好轉訊息的影響，供應鏈延誤和價格上漲壓力有所緩解，但這些問題仍被廣泛提及。不過，儘管近期能源價格回落且航運前景向好，企業信心卻大幅下滑；這在一定程度上反映出人們擔心，隨著與戰爭相關的庫存積累活動結束，銷售可能會因此受到拖累。”"
-    },
-    {
-      "id": "4965567",
-      "time": "2026-07-01 21:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）擴大 GLP-1 類藥物適用報銷範圍。"
-    },
-    {
-      "id": "mkt:019f1df8-a3c8-7aab-8c5e-05ccb28ff253",
-      "time": "2026-07-01 21:57:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Copper",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【US June manufacturing output and orders further improve】S&P Global's final June manufacturing PMI showed output and order growth further improved, continuing the expansion seen since the Middle East conflict began, S&P Global chief business economist Chris Williamson said. Firms cut employment sharply to offset rising energy and raw-material costs. While easing Middle East tensions eased some supply delays and price pressures, these issues remained widely reported. Business sentiment fell sharply despite retreating energy prices and improved shipping, in part reflecting concern that sales may slow as wartime inventory accumulation unwinds."
-    },
-    {
-      "id": "4965566",
-      "time": "2026-07-01 21:57:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：美國在處理與伊朗的關係方面已完成“核心任務”】據福克斯新聞報道，美國副總統萬斯在週二的一次獨家採訪中表示，美國在中東地區的談判中佔據上風。他認為，無論多哈的談判結果如何，特朗普政府在伊朗問題上的核心目標已經實現，那就是確保伊朗永遠無法擁有核武器。但另一方面，如果伊朗人不遵守規則，如果不做出我們所需要的讓步，那麼他們的核計劃仍將被摧毀，他們的常規軍事力量也會被削弱。而美國相對於伊朗來說，仍將處於更有利的地位。"
     }
   ]
 }
