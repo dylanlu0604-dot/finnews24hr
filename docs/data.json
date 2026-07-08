@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-08 12:51:16",
-  "count": 15979,
+  "updated": "2026-07-08 12:55:08",
+  "count": 15975,
   "items": [
+    {
+      "id": "4975657",
+      "time": "2026-07-08 12:53:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元漲幅擴大，上漲0.6%，報0.57105美元。"
+    },
+    {
+      "id": "mkt:019f4012-96f4-7aab-8ce0-e94805557e73",
+      "time": "2026-07-08 12:53:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Pentagon seeks up to $300 mln of battery‑grade lithium for strategic reserve】The Defense Logistics Agency posted a tender on July 2 seeking about 36 million lb (≈16,000 t) of battery‑grade lithium carbonate over five years, with a contract value of up to $300 mln. The agency requests five‑year fixed pricing, says the government will commit a minimum $1 mln and up to $300 mln, and set a bid deadline of July 17. The move follows a March DLA information request and the White House’s launch earlier this year of the $12 bln Project Vault critical‑minerals reserve; lithium prices are up over one‑third YTD amid strong demand expectations and supply uncertainty in key producing countries such as Zimbabwe."
+    },
+    {
+      "id": "4975656",
+      "time": "2026-07-08 12:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奇瑞汽車捐贈價值1000萬元現金和物資馳援廣西受災地區】7月8日，奇瑞汽車宣佈透過中華慈善總會，捐贈價值1000萬元的現金和物資用於廣西受災地區的緊急救援、受災群眾安置與災後重建工作。其中，500萬元現金專項用於搶險救援及受災群眾生活救助，500萬元物資用於保障災區群眾基本生活需求及災後恢復。奇瑞汽車旗下奇瑞、星途、捷途、iCAR、智界等各品牌，將全力配合當地開展抗洪救災、道路運輸、群眾救援和災後恢復工作。"
+    },
+    {
+      "id": "4975655",
+      "time": "2026-07-08 12:51:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳最大電信商網路故障影響交通和電子支付 】澳大利亞電信公司8日發生大規模網路故障，導致不少列車停駛、電子支付無法進行、大量手機通訊受到影響。澳大利亞電信公司是該國最大電信企業，有大約2500萬移動使用者。由於這次故障，維多利亞州地區列車全部暫停執行，導致數千名乘客在高峰時段滯留。新南威爾士州也有部分列車停運。相關運營商建議乘客儘可能推遲出行。故障還導致電子支付平臺癱瘓，許多乘客無法支付計程車費，司機也無法繼續正常工作。西澳大利亞州警方在一份宣告中說，這次網路故障對澳大利亞電信公司在澳全國的使用者均有影響，不僅無法撥打普通電話，也無法撥打全國緊急服務熱線電話“000”。不過，警方的通訊系統沒有受到影響。澳大利亞電信公司表示，問題緣於其網路內部一些節點發生故障，已重置相關節點，但完全恢復仍需時間。該公司提示使用者“多試幾次，可能下一次就會接通”。"
+    },
     {
       "id": "4975653",
       "time": "2026-07-08 12:49:48",
@@ -146376,91 +146410,6 @@
         "國際"
       ],
       "text": "日本外匯主管表示，過去的日元干預已顯現成效。"
-    },
-    {
-      "id": "mkt:019f1c06-b04f-7aab-8c4b-6fd52a5e10c8",
-      "time": "2026-07-01 12:53:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【JEITA: Japanese electronic components shipments rise; capacitor shipments hit monthly record】JEITA released data on June 30 showing April 2026 shipments of passive components by Japanese manufacturers totaled ¥231.4 bln, up 18% YoY. Strong demand for passive components drove consecutive monthly increases, with capacitor shipments reaching a single-month record."
-    },
-    {
-      "id": "mkt:019f1c05-cf2a-7aab-8c4b-637976f1e7b2",
-      "time": "2026-07-01 12:52:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Xiaomi"
-      ],
-      "text": "【AliExpress publishes first 618 China-brand overseas sales rankings】July 1 — Alibaba’s cross-border platform AliExpress published, for the first time, China-brand overseas sales rankings for the 618 shopping festival across 10 categories including mobile phones, auto parts, consumer electronics, computers, sportswear and cycling. Mobile top three: POCO (Xiaomi sub-brand), Xiaomi and Honor. In home appliances, pool-cleaning robot maker SEAUTO ranked fourth; Midea, Tineco and ILIFE also made the list. Lenovo and Xiaomi were first and second in computers and office equipment. Li‑Ning, Xtep and 361° were the top three Chinese sportswear brands overseas. 3D-printing leaders: ANYCUBIC first, followed by ELEGOO, Creality and Bambu Lab."
-    },
-    {
-      "id": "te:economy:563257",
-      "time": "2026-07-01 12:52:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Import Growth Beats Forecasts — Indonesia’s imports surged 22.16% year-on-year to USD 24.81 billion in May 2026, exceeding market expectations of 19.5%, but easing slightly from a 22.49% increase in April, which marked the fastest import growth since August 2022. The strong import growth was driven by government efforts to support domestic demand and higher oil prices."
-    },
-    {
-      "id": "mkt:019f1c05-747f-7aab-8c4b-5b7a9f22e2ce",
-      "time": "2026-07-01 12:52:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian police said an armed attack in southeastern Sistan and Baluchestan province killed one police officer."
-    },
-    {
-      "id": "4964234",
-      "time": "2026-07-01 12:52:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里速賣通首次公佈618中國品牌出海成交榜】7月1日訊息， 阿里旗下跨境電商平臺速賣通首次公佈618中國品牌出海成交榜。手機由POCO（小米子品牌）、小米、榮耀包攬冠前三；家電品類中，泳池清潔機器人SEAUTO躋身第四，美的、添可、ILIFE也上榜；聯想和小米分列電腦辦公前二 ；李寧、特步、361°穩居中國出海運動鞋服品牌前三；縱維立方ANYCUBIC拿下3D列印第一，智慧派ELEGOO、創想三維Creality、拓竹Bambu Lab也上榜。"
-    },
-    {
-      "id": "4964233",
-      "time": "2026-07-01 12:51:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【JEITA：日本電子零部件企業出貨額連續走高 電容出貨規模單月破紀錄】被動元件市場需求旺盛，拉動日本電子零部件企業出貨額連續走高，其中電容出貨規模4月重新整理歷史紀錄。日本電子資訊科技產業協會（JEITA）6月30日釋出統計資料，2026年4月日本廠商被動元件出貨額達2314億日元，同比大幅增長18%。"
-    },
-    {
-      "id": "te:economy:563256",
-      "time": "2026-07-01 12:51:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Dutch Q1 GDP Growth Revised to 0.2% — The Dutch economy expanded by 0.2% quarter-on-quarter in Q1 2026, revised up from an initial estimate of 0.1% but slowing from 0.4% growth in Q4, marking the weakest expansion in a year. The slowdown was mainly driven by weaker external demand, as exports of goods and services fell 0.2% after rising 0.7% in the previous quarter, while imports edged up 0.1% for a second consecutive quarter. Meanwhile, domestic demand remained resilient, with national final expenditure increasing 0.5% after a 0.1% decline in Q4. Household consumption rose 0.3% after stagnating in the previous quarter, government spending increased 0.7%, and gross fixed capital formation accelerated to 0.7% from 0.1%, supported by stronger investment by businesses, households, and the government. Changes in inventories remained unchanged at -0.2% of GDP. On an annual basis, GDP grew 1.4%, revised up from the preliminary estimate of 1.2% but slowing from 1.8% in the prior period."
-    },
-    {
-      "id": "te:economy:563255",
-      "time": "2026-07-01 12:51:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Dutch Retail Sales Growth Slows in May — Retail sales in the Netherlands increased by 2.9% year-on-year in May 2026, slowing from a five-month high of 3.4% rise in the previous month. Sales growth in the food sector softened to 1.2% from 3.2% in April, as smaller gains in supermarkets (1.1% vs 3.8%) outweighed a rebound in specialty food stores (1.6% vs -0.9%). Online revenues also moderated (4.8% vs 5.9%), as growth at webshops slowed (3.5% vs 6.2%), while multichannel retailers saw a modest pickup (6.7% vs 5.5%). In contrast, turnover for non-food products accelerated (3.9% vs 3.5%), with drugstores (6.5% vs 9.6%) posting the largest increase in sales, followed by furniture and home furnishings stores (3.8% vs 0.1%) and clothing stores (3.7% vs 1.7%), which more than offset smaller rise in shoes and leather goods (0.7% vs -3.6%)."
     }
   ]
 }
