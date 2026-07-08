@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-08 08:40:51",
-  "count": 15911,
+  "updated": "2026-07-08 08:45:53",
+  "count": 15906,
   "items": [
+    {
+      "id": "mkt:019f3f2f-214a-7aab-8cd9-d932783e23b4",
+      "time": "2026-07-08 08:44:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huawei Cloud, Yijiahe sign memorandum to push CloudRobo embodied-AI commercialization】Huawei Cloud and Yijiahe signed a memorandum to cooperate on CloudRobo embodied-intelligence robots, focusing on joint product development and coordinated sales. Yijiahe will supply scenario expertise, product design and manufacturing based on its power and eldercare deployments. Huawei Cloud will provide platformized large- and small‑brain products and work with its power business on scenario solution design. Both parties aim to accelerate commercial roll-out of embodied-AI robots in enterprise scenes."
+    },
+    {
+      "id": "4975226",
+      "time": "2026-07-08 08:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲與億嘉和簽約合作 加速具身智慧商用化落地】據華為雲訊息，近日，華為雲與億嘉和簽署CloudRobo具身智慧機器人合作備忘錄。雙方將基於各自優勢，開展產品聯合開發，協同銷售等合作。億嘉和將基於在電力、康養等場景深耕的產品能力積累，提供場景和產品設計製造等能力；華為雲將提供平臺化大小腦產品能力，並協同電力軍團進行場景化方案規劃設計，雙方共同推動具身智慧機器人產品在商業場景的落地。"
+    },
+    {
+      "id": "4975225",
+      "time": "2026-07-08 08:43:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國KOSPI指數轉漲】韓國KOSPI指數轉漲，此前一度跌近4%。"
+    },
+    {
+      "id": "mkt:019f3f2d-82e2-7aab-8cd9-d293f36bd12a",
+      "time": "2026-07-08 08:42:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index narrows losses, down 0.3%."
+    },
+    {
+      "id": "4975224",
+      "time": "2026-07-08 08:42:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日股日經指數收窄跌幅，最新下跌0.44%。"
+    },
+    {
+      "id": "mkt:019f3f2c-aa88-7aab-8cd9-cf398f404231",
+      "time": "2026-07-08 08:41:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI reversed earlier losses of more than 3% to trade higher; SK Hynix rose over 2%."
+    },
+    {
+      "id": "4975223",
+      "time": "2026-07-08 08:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體報道，當地時間今天（7月8日）凌晨4點左右，伊朗最大島嶼格什姆島再次發生爆炸，重要石油出口樞紐哈爾克島也傳出數次爆炸聲。（央視）"
+    },
     {
       "id": "4975222",
       "time": "2026-07-08 08:39:40",
@@ -145723,124 +145791,6 @@
         "公司"
       ],
       "text": "【陽穀華泰：公司四氯化矽純度為工業級】陽穀華泰(300121)7月1日在互動平臺表示，公司四氯化矽為副產品，純度為工業級。光纖行業用的高純四氯化矽需要較高純度，用於光纖預製棒的生產。"
-    },
-    {
-      "id": "4963871",
-      "time": "2026-07-01 08:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步投資的Lime據悉將IPO發行價定為每股25美元。"
-    },
-    {
-      "id": "mkt:019f1b22-e9a4-7aab-8c46-e4773758c2ef",
-      "time": "2026-07-01 08:45:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AI boom boosts chip demand, South Korea exports remain strong】South Korea's June exports rose 70.9% YoY, imports rose 30.1% YoY, and the trade surplus hit a record $36.15bn. Semiconductors led the gains: chip shipments increased 199.5% YoY to $44.8bn, supported by strong AI and data-center investment. Computer-related exports rose 308.8% and petroleum product exports rose 49.8%. Strong semiconductor demand is sustaining export-led growth and partly offsetting weakness in traditional sectors."
-    },
-    {
-      "id": "4963870",
-      "time": "2026-07-01 08:44:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國雞蛋價格飆升背後的黑幕：三大生產商涉嫌操縱定價】據報道，2022年12月19日，美國三大雞蛋生產商的高管進行了一次電話會議。討論的主題是：如何把雞蛋價格保持在高位。美國司法部稱，在距離聖誕節還有幾天之際，總部位於亞利桑那州的Hickman's Egg Ranch的執行長想出了一個推高雞蛋行業基準價格的辦法。如果Hickman's和其他大型雞蛋公司都在批發市場交易所大舉競價買入雞蛋，它們就能推高一項關鍵的定價指標，而該指標會影響消費者在食品雜貨店支付的價格。本週公佈的一份聯邦法院訴狀顯示，一名涉嫌參與共謀的人士表示：“作為一個整體，我們需要像芝加哥人投票那樣去競價，儘早且頻繁地出價。”這份在艾奧瓦州聯邦法院提交的訴狀描述了少數幾家大型雞蛋生產商多年來如何試圖操縱一個鮮為人知的定價流程，該流程在決定美國人購買雞蛋的價格方面發揮著作用。反壟斷執法人員表示，從2022年到2025年，Cal-Maine Foods、Hickman's和Versova的高管透過電話和資訊交流來協調競價和交易。"
-    },
-    {
-      "id": "4963869",
-      "time": "2026-07-01 08:44:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【優必選人形機器人規模化量產提速 機構扎堆盯上這幾隻人形機器人概念股】 6月30日，優必選首次公開展示了50餘款全尺寸超仿生人形機器人，此次最新推出的全尺寸超仿生人形機器人主要用於家庭陪伴場景。據悉，自今年6月初登陸京東開啟預售後，目前該系列機器人已經獲得11000預定訂單。今年以來，相比AI賽道的光模組、儲存晶片、MLCC、PCB、AI晶片等題材，人形機器人概念整體表現並不搶眼。據證券時報·資料寶統計，截至6月30日收盤，年內漲幅翻倍的人形機器人概念股僅9只，包括泰晶科技、索辰科技、智微智慧、沃爾德、江蘇北人等。機構調研頻次可以反映相關概念股熱度。據資料寶統計，截至6月30日收盤，今年以來獲得5次及以上機構調研的人形機器人概念股有21只。在上述機構高頻調研的21只人形機器人概念股中，以6月30日收盤價與年內高點相比，8股回撤幅度超30%，其中安培龍、利亞德、斯菱智驅、步科股份、拓邦股份回撤幅度靠前。"
-    },
-    {
-      "id": "te:economy:563157",
-      "time": "2026-07-01 08:43:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Taiwan Factory Growth Remains Strong — The S&P Global Taiwan Manufacturing PMI eased to 55.2 in June 2026 from 56.1 in May, but continued to signal a strong expansion in manufacturing activity. Output rose at the fastest pace since July 2021, driven by a sharp increase in new orders and stockpiling by manufacturers and clients amid Middle East conflict-related supply disruptions and expectations of higher supplier prices. New export orders increased at the second-strongest pace since January 2022, supported by demand from the US, Europe, and Japan. Purchasing activity rose solidly, while stocks of finished goods climbed at the second-fastest pace since 2011 as firms built inventories to manage delays and shortages."
-    },
-    {
-      "id": "4963868",
-      "time": "2026-07-01 08:43:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電動汽車電池新國標今日施行】 從今天起（7月1日），兩項電動汽車領域強制性國家標準：電動汽車安全要求和電動汽車用動力蓄電池安全要求正式施行。前者主要關注整車安全，後者重點關注動力電池安全，給電車加上了一重安全保障。 新國標首次將“一鍵斷電”裝置定義為物理斷電裝置，並要求可以透過“一個動作”（點觸或長按）響應此功能，實現整車高壓回路的物理斷開，將危險阻斷在源頭。"
-    },
-    {
-      "id": "4963867",
-      "time": "2026-07-01 08:41:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【休市提醒】港股今日因香港特別行政區成立紀念日休市一日，南、北向交易關閉。"
-    },
-    {
-      "id": "4963866",
-      "time": "2026-07-01 08:41:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4000美元/盎司，日內跌0.25%。"
-    },
-    {
-      "id": "mkt:019f1b1f-d8a4-7aab-8c46-da324bcae3e7",
-      "time": "2026-07-01 08:41:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold hit $4,000/oz intraday, down 0.18% on the day."
-    },
-    {
-      "id": "4963865",
-      "time": "2026-07-01 08:41:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4010美元/盎司，日內跌0.71%。"
-    },
-    {
-      "id": "mkt:019f1b1f-a966-7aab-8c46-d1c1bdc186f1",
-      "time": "2026-07-01 08:41:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【China Index Academy: 100 major developers' land purchases down 33.7% YoY in 1H2026】China Index Academy said 100 major developers purchased CNY 336.0 bln of land in 1H2026, down 33.7% YoY; the decline narrowed 6.8 ppt from the prior month. Core markets including Beijing and Shanghai stayed active, Shenzhen policy moves since May lifted demand, and marginal improvement in developers' sales helped narrow the YoY fall for a fourth consecutive month. On a full-caliber basis, aggregate newly added saleable value for the 100 firms fell 33.4% YoY in 1H2026, a smaller drop than Jan–May, driven by hot core-city land auctions in June; Yuexiu Property, CHINA RES LAND and Poly Developments ranked top three in June land purchases."
-    },
-    {
-      "id": "te:economy:563156",
-      "time": "2026-07-01 08:41:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Malaysia Manufacturing Sector Returns to Growth — Malaysia’s S&P Global Manufacturing PMI rose to 50.7 in June 2026 from 49.0 in May, indicating modest improvement in the manufacturing sector. New orders and output registered fresh expansions in June after recording slight contractions in May. Meanwhile, following marginal increases in purchasing activity in both April and May, manufacturers kept input buying unchanged during the month. While renewed growth in new orders prompted some firms to raise their purchases of inputs and raw materials, others noted that demand was insufficient to trigger an increase in buying activity. Employment levels were also broadly unchanged. Supplier delivery performance deteriorated further in June, attributed to material shortages and the current geopolitical situation. On the price front, input cost inflation eased to a three-month low, although selling prices were raised to a greater extent than in May. Lastly, manufacturers remained optimistic that output will increase over the next 12 months."
     }
   ]
 }

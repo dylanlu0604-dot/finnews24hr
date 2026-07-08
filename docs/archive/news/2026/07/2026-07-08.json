@@ -1,7 +1,75 @@
 {
   "date": "2026-07-08",
-  "count": 705,
+  "count": 712,
   "items": [
+    {
+      "id": "mkt:019f3f2f-214a-7aab-8cd9-d932783e23b4",
+      "time": "2026-07-08 08:44:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huawei Cloud, Yijiahe sign memorandum to push CloudRobo embodied-AI commercialization】Huawei Cloud and Yijiahe signed a memorandum to cooperate on CloudRobo embodied-intelligence robots, focusing on joint product development and coordinated sales. Yijiahe will supply scenario expertise, product design and manufacturing based on its power and eldercare deployments. Huawei Cloud will provide platformized large- and small‑brain products and work with its power business on scenario solution design. Both parties aim to accelerate commercial roll-out of embodied-AI robots in enterprise scenes."
+    },
+    {
+      "id": "4975226",
+      "time": "2026-07-08 08:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲與億嘉和簽約合作 加速具身智慧商用化落地】據華為雲訊息，近日，華為雲與億嘉和簽署CloudRobo具身智慧機器人合作備忘錄。雙方將基於各自優勢，開展產品聯合開發，協同銷售等合作。億嘉和將基於在電力、康養等場景深耕的產品能力積累，提供場景和產品設計製造等能力；華為雲將提供平臺化大小腦產品能力，並協同電力軍團進行場景化方案規劃設計，雙方共同推動具身智慧機器人產品在商業場景的落地。"
+    },
+    {
+      "id": "4975225",
+      "time": "2026-07-08 08:43:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國KOSPI指數轉漲】韓國KOSPI指數轉漲，此前一度跌近4%。"
+    },
+    {
+      "id": "mkt:019f3f2d-82e2-7aab-8cd9-d293f36bd12a",
+      "time": "2026-07-08 08:42:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index narrows losses, down 0.3%."
+    },
+    {
+      "id": "4975224",
+      "time": "2026-07-08 08:42:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日股日經指數收窄跌幅，最新下跌0.44%。"
+    },
+    {
+      "id": "mkt:019f3f2c-aa88-7aab-8cd9-cf398f404231",
+      "time": "2026-07-08 08:41:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI reversed earlier losses of more than 3% to trade higher; SK Hynix rose over 2%."
+    },
+    {
+      "id": "4975223",
+      "time": "2026-07-08 08:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體報道，當地時間今天（7月8日）凌晨4點左右，伊朗最大島嶼格什姆島再次發生爆炸，重要石油出口樞紐哈爾克島也傳出數次爆炸聲。（央視）"
+    },
     {
       "id": "4975222",
       "time": "2026-07-08 08:39:40",
