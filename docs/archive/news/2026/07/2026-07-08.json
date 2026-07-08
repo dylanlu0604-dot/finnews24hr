@@ -1,7 +1,127 @@
 {
   "date": "2026-07-08",
-  "count": 3175,
+  "count": 3188,
   "items": [
+    {
+      "id": "4977020",
+      "time": "2026-07-08 21:44:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達上漲0.5%，美光科技上漲1.1%，超威半導體上漲0.3%。Arm在美上市股價下跌1.3%，閃迪（SanDisk）股價上漲3.6%，高通（Qualcomm）股價上漲0.5%。"
+    },
+    {
+      "id": "mkt:019f41f8-b16d-7aab-8cf2-7d238f22b6c9",
+      "time": "2026-07-08 21:44:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An adviser to Iran's supreme leader said U.S. actions will push the Middle East into a sea of fire."
+    },
+    {
+      "id": "mkt:019f41f8-6afa-7aab-8cf2-77030aeff140",
+      "time": "2026-07-08 21:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An adviser to Iran's supreme leader said responsibility for verbally acknowledging that the memorandum of understanding is void lies with U.S. President Trump."
+    },
+    {
+      "id": "4977019",
+      "time": "2026-07-08 21:43:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "EQS-ADHOC：KAPSCH TRAFFICCOM簽署出售德國子公司多數股權的協議，預計將對息稅前利潤產生重大影響。"
+    },
+    {
+      "id": "4977018",
+      "time": "2026-07-08 21:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：若特朗普放行軍售，土耳其有望接收6架F-35戰機。"
+    },
+    {
+      "id": "4977017",
+      "time": "2026-07-08 21:41:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數在前一日下跌4.6%後，今日上漲1.2%。"
+    },
+    {
+      "id": "mkt:019f41f6-a040-7aab-8cf2-6e375b2ace87",
+      "time": "2026-07-08 21:41:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump finished his speech at the NATO summit."
+    },
+    {
+      "id": "4977016",
+      "time": "2026-07-08 21:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府解除針對OpenAI GPT 5.6的相關限制。"
+    },
+    {
+      "id": "mkt:019f41f5-ad12-7aab-8cf2-6499abec5702",
+      "time": "2026-07-08 21:40:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the earlier strike was merely a warning."
+    },
+    {
+      "id": "mkt:019f41f5-6dc8-7aab-8cf2-59b8b196b311",
+      "time": "2026-07-08 21:40:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BofA extended a $520m credit facility to OpenAI."
+    },
+    {
+      "id": "4977015",
+      "time": "2026-07-08 21:40:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴股價大漲8.3%。"
+    },
+    {
+      "id": "mkt:019f41f5-3eed-7aab-8cf2-57814d9551a5",
+      "time": "2026-07-08 21:40:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "OXY.O",
+        "Impact bullish",
+        "APA.O",
+        "FANG.O"
+      ],
+      "text": "US energy shares rose; Devon Energy up 1.6%, Halliburton up 2.1%, Chevron up 1.2%, Exxon Mobil up 0.5% and ConocoPhillips up 1.9%. Occidental Petroleum rose 3.0%, APA Corp rose 2.5% and Diamondback Energy rose 2.2%."
+    },
+    {
+      "id": "te:markets:565305",
+      "time": "2026-07-08 21:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.91% Lower — The Dow Jones Index is dropping 483 points. Leading the losses are Home Depot (-3.50%), Sherwin-Williams (-3.48%) and American Express (-2.55%). Top gainers were Chevron (1.36%), Caterpillar (1.33%) and Walmart (0.81%)."
+    },
     {
       "id": "4977014",
       "time": "2026-07-08 21:39:52",
