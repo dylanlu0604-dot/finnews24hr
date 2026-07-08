@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-09 04:32:26",
+  "updated": "2026-07-09 04:36:20",
   "count": 16102,
   "items": [
+    {
+      "id": "te:markets:565407",
+      "time": "2026-07-09 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.11% Lower — The Dow Jones Index fell 586 points or 1.11 percent on Wednesday to close at 52339 points. Leading the losses are American Express (-3.80%), Sherwin-Williams (-3.49%) and Boeing (-3.03%)."
+    },
+    {
+      "id": "mkt:019f4370-acfc-7aab-8cfe-93043a9803a5",
+      "time": "2026-07-09 04:34:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "According to Iran's Nour, military sources said Iranian armed forces will launch a \"large-scale\" attack on U.S. military bases in the region \"soon\"."
+    },
+    {
+      "id": "4977603",
+      "time": "2026-07-09 04:34:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗努爾新聞網援引軍方訊息人士說法，伊朗武裝部隊不久後將對該地區美軍基地發動 “大規模” 襲擊。"
+    },
+    {
+      "id": "mkt:019f436e-a51a-7aab-8cfe-8ad53a2d14a8",
+      "time": "2026-07-09 04:32:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian media: coastal defense systems responding to US strikes】Iranian coastal defense systems near Port of Abbas, Qeshm Island and other locations are responding to attacks launched by US forces, Iranian media reported on the 8th. Late on the 8th, explosions were reported in Sirik, Port of Abbas and Chabahar, the outlets said."
+    },
     {
       "id": "mkt:019f436d-2962-7aab-8cfe-856b8258383d",
       "time": "2026-07-09 04:30:55",
@@ -147203,45 +147249,6 @@
         "國際"
       ],
       "text": "領航集團：在收到美國財政部的指導意見後，領航集團打算支援特朗普相關賬戶的資金滾轉操作。"
-    },
-    {
-      "id": "4965922",
-      "time": "2026-07-02 04:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭：防空系統攔截了針對基輔的俄羅斯無人機襲擊，無人機殘骸墜落在至少兩個行政區境內。"
-    },
-    {
-      "id": "te:markets:563539",
-      "time": "2026-07-02 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.06% Higher — The Dow Jones Index rose 31 points or 0.06 percent on Wednesday to close at 52350 points. Leading the gains are Nike (5.07%), Salesforce (4.56%) and Microsoft (3.05%). Top losers were Caterpillar (-6.77%), Walmart (-3.88%) and Merck (-2.44%)."
-    },
-    {
-      "id": "4965921",
-      "time": "2026-07-02 04:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歷經數十年，古巴如今正向我方靠攏；西班牙也該認清現實，西班牙算不上北約合格成員國。"
-    },
-    {
-      "id": "mkt:019f1f62-1d6d-7aab-8c66-55feabfcb8b8",
-      "time": "2026-07-02 04:32:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Ukrainian officials say air-defence systems are intercepting Russian drone attacks on Kyiv; drone debris reported in at least two locations."
     }
   ]
 }

@@ -1,7 +1,53 @@
 {
   "date": "2026-07-09",
-  "count": 560,
+  "count": 564,
   "items": [
+    {
+      "id": "te:markets:565407",
+      "time": "2026-07-09 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.11% Lower — The Dow Jones Index fell 586 points or 1.11 percent on Wednesday to close at 52339 points. Leading the losses are American Express (-3.80%), Sherwin-Williams (-3.49%) and Boeing (-3.03%)."
+    },
+    {
+      "id": "mkt:019f4370-acfc-7aab-8cfe-93043a9803a5",
+      "time": "2026-07-09 04:34:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "According to Iran's Nour, military sources said Iranian armed forces will launch a \"large-scale\" attack on U.S. military bases in the region \"soon\"."
+    },
+    {
+      "id": "4977603",
+      "time": "2026-07-09 04:34:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗努爾新聞網援引軍方訊息人士說法，伊朗武裝部隊不久後將對該地區美軍基地發動 “大規模” 襲擊。"
+    },
+    {
+      "id": "mkt:019f436e-a51a-7aab-8cfe-8ad53a2d14a8",
+      "time": "2026-07-09 04:32:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian media: coastal defense systems responding to US strikes】Iranian coastal defense systems near Port of Abbas, Qeshm Island and other locations are responding to attacks launched by US forces, Iranian media reported on the 8th. Late on the 8th, explosions were reported in Sirik, Port of Abbas and Chabahar, the outlets said."
+    },
     {
       "id": "mkt:019f436d-2962-7aab-8cfe-856b8258383d",
       "time": "2026-07-09 04:30:55",
