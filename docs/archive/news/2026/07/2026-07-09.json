@@ -1,7 +1,51 @@
 {
   "date": "2026-07-09",
-  "count": 574,
+  "count": 579,
   "items": [
+    {
+      "id": "4977611",
+      "time": "2026-07-09 04:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券和投資委員會（ASIC）：將繼續針對畢馬威涉嫌濫用客戶保密資訊的相關指控開展重大調查。"
+    },
+    {
+      "id": "mkt:019f4376-61d3-7aab-8cfe-c213cd725529",
+      "time": "2026-07-09 04:40:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S NOUR, citing sources, said a U.S. strike in the Bushehr area caused no damage to the nuclear power plant."
+    },
+    {
+      "id": "4977610",
+      "time": "2026-07-09 04:40:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗努爾新聞援引知情訊息人士稱，美軍對布什爾的襲擊未對當地核電站造成任何損毀。"
+    },
+    {
+      "id": "4977609",
+      "time": "2026-07-09 04:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：一名軍方訊息人士稱，伊朗武裝力量針對美軍軍隊今夜發動的侵略所作出的反擊，將讓美方追悔莫及。"
+    },
+    {
+      "id": "te:markets:565408",
+      "time": "2026-07-09 04:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip Amid US Geopolitical Tensions — The S&P/TSX Composite Index fell 0.9% to close at 34,936 on Wednesday as renewed US-Iran tensions fueled risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, reinforced by minutes from the Fed's June meeting, that showed policymakers saw a case for rate hikes if inflation remains high. RBC shed 1.8%, TD Bank lost 2.6%, and BMO was down 2.4%. Mining stocks came under pressure as gold prices slipped. Agnico Eagle lost 3.7%, Barrick shed 3.4%, and WPM was down 4%. Trilogy Metals (-3.5%) reported a wider second-quarter loss. Meanwhile, Ivanhoe Mines gained 1.1% after the company said copper production ?at its ?flagship complex ?is set to rise in the second half of 2026. Elsewhere, Air Canada dipped 2.1% after it said Anko Van der Werff would succeed as CEO."
+    },
     {
       "id": "mkt:019f4375-426b-7aab-8cfe-beee2c069952",
       "time": "2026-07-09 04:39:45",
