@@ -1,7 +1,288 @@
 {
-  "updated": "2026-07-08 21:03:40",
-  "count": 15960,
+  "updated": "2026-07-08 21:07:47",
+  "count": 15982,
   "items": [
+    {
+      "id": "mkt:019f41d6-8a60-7aab-8cef-e8018ab8e3ef",
+      "time": "2026-07-08 21:06:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said Iran is violating the agreement every day."
+    },
+    {
+      "id": "mkt:019f41d6-7c29-7aab-8cef-e09066363654",
+      "time": "2026-07-08 21:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON said he understands talks between the U.S. and Iran on ending the conflict will continue."
+    },
+    {
+      "id": "4976927",
+      "time": "2026-07-08 21:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗每天都在違反協議。"
+    },
+    {
+      "id": "4976926",
+      "time": "2026-07-08 21:06:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年首期全國高溫中暑氣象預報釋出】中國氣象局公共氣象服務中心8日18時釋出高溫中暑氣象預報，預計9日白天，河北、河南、湖北、陝西等省部分地區易發生中暑。 這是今年釋出的首期全國高溫中暑氣象預報，預計9日白天，河北南部、河南中北部、湖北西部、浙江南部、福建中北部、江西東南部、陝西中南部、四川東部、重慶西部等地較易發生中暑。其中，河北南部、河南中部、湖北西部、陝西中部和南部等地的部分地區易發生中暑。 氣象專家提醒，公眾需採取積極有效的防暑降溫措施，避免在日光下暴曬，避免高溫時段或高溫環境中的戶外活動。(新華社)"
+    },
+    {
+      "id": "4976925",
+      "time": "2026-07-08 21:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍表示：美伊衝突相關磋商仍將持續。"
+    },
+    {
+      "id": "4976924",
+      "time": "2026-07-08 21:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：將批准頒發愛國者導彈生產許可。"
+    },
+    {
+      "id": "4976923",
+      "time": "2026-07-08 21:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿洛特拉療法（Allotera Therapeutics）：C輪融資獲新增資本注入後，累計融資總額達1.5億美元。"
+    },
+    {
+      "id": "4976922",
+      "time": "2026-07-08 21:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：伊朗的襲擊違反了臨時協議，伊朗此舉是錯誤的。"
+    },
+    {
+      "id": "mkt:019f41d5-49e7-7aab-8cef-dd336bfa9048",
+      "time": "2026-07-08 21:05:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "French President Macron said Iran's attack violated the ceasefire agreement."
+    },
+    {
+      "id": "4976921",
+      "time": "2026-07-08 21:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：將討論授予烏方“愛國者”導彈製造權。"
+    },
+    {
+      "id": "mkt:019f41d5-1bce-7aab-8cef-d1139109b9b9",
+      "time": "2026-07-08 21:05:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【US-Iran escalation triggers tech valuation reset】US-Iran tensions have become a catalyst for tech valuation compression. The recent AI Capex-driven rally depended on low-rate liquidity and discounted long-term cashflows; escalating tensions that raise inf upside risks have prompted a bear-steepening of the long-end US Treasury curve, lifting equity cost of capital for growth/tech. Global macro hedge funds are rapidly rebalancing—selling growth/tech and buying defensives—rotating capital into hard assets poised to benefit from higher oil prices and increased defense spending."
+    },
+    {
+      "id": "mkt:019f41d4-e120-7aab-8cef-cb865f6ff850",
+      "time": "2026-07-08 21:04:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran has been completely eliminated."
+    },
+    {
+      "id": "4976920",
+      "time": "2026-07-08 21:04:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗已被徹底消滅。"
+    },
+    {
+      "id": "4976919",
+      "time": "2026-07-08 21:04:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韋德布什：伺服器CPU持續短缺，英特爾若再提價料不影響市場需求】針對英特爾調高晶片售價的訊息，美國投行韋德布什證券（Wedbush Securities）7月8日最新報告指出，英特爾在本季度即便再次調高CPU價格，也有望在不影響市場需求的情況下順利推進。韋德布什分析師馬特·布賴森在給客戶的報告中寫道：“鑑於伺服器CPU（特別是特定型號）的持續短缺，我們認為英特爾有提升價格的空間，且不會對需求產生負面影響。”但他同時指出，目前的疑問在於OEM（原始裝置製造商）的實際採購價是否也同步出現了類似官方目錄價的變動，還是說英特爾僅調整了分銷和零售渠道的價格，而後者在英特爾整體業務中佔比要小得多。受此影響，英特爾股價在美東時間週三盤前下跌2.7%。"
+    },
+    {
+      "id": "mkt:019f41d4-b15a-7aab-8cef-c2b464517c26",
+      "time": "2026-07-08 21:04:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Tesla's robotaxi program is testing a new rapid-expansion plan."
+    },
+    {
+      "id": "mkt:019f41d3-dc2f-7aab-8cef-ba8c637d98d4",
+      "time": "2026-07-08 21:03:51",
+      "tags": [
+        "MKT News",
+        "RTX"
+      ],
+      "text": "President Trump said he will discuss the Patriot air‑defense system in relation to Ukraine."
+    },
+    {
+      "id": "mkt:019f41d3-b2fc-7aab-8cef-b14fb6eeaa5c",
+      "time": "2026-07-08 21:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he believes Russian President Putin wants to resolve this matter as soon as possible."
+    },
+    {
+      "id": "4976918",
+      "time": "2026-07-08 21:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及烏克蘭戰爭：將討論愛國者防空導彈攔截系統相關事宜。"
+    },
+    {
+      "id": "4976917",
+      "time": "2026-07-08 21:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF下調世界經濟增長預期 上調中國增長預期】國際貨幣基金組織（IMF）8日釋出《世界經濟展望報告》更新內容，小幅下調今年世界經濟增長預期，同時上調中國經濟增長預期至4.6%。 IMF預計，2026年世界經濟將增長3%，比4月預測值低0.1個百分點。這是IMF繼今年4月下調0.2個百分點後，再次下調今年世界經濟增長預期。IMF表示，此次下調反映了中東戰事帶來的衝擊，但得益於人工智慧的發展和應用，全球科技領域由需求驅動的增長正在加速，部分抵消了戰事負面影響。 IMF認為，當前世界經濟下行風險依然明顯。地緣政治緊張局勢再度升級的可能性仍存，如果戰事再次爆發，將加劇商品價格波動、進一步威脅供應鏈安全、推升通脹並拖累金融環境。不過，如果霍爾木茲海峽航運恢復比預期順利，大宗商品價格漲幅低於預期，經濟增速可能高於預期。（新華社）"
+    },
+    {
+      "id": "4976916",
+      "time": "2026-07-08 21:03:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3154.00元。"
+    },
+    {
+      "id": "4976915",
+      "time": "2026-07-08 21:03:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報4064.00元。"
+    },
+    {
+      "id": "mkt:019f41d3-04ef-7aab-8cef-a9e92511e3bf",
+      "time": "2026-07-08 21:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US has interests in Ukraine, including mineral resources."
+    },
+    {
+      "id": "mkt:019f41d2-bd31-7aab-8cef-a029f672c26a",
+      "time": "2026-07-08 21:02:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Ukraine has substantial potential."
+    },
+    {
+      "id": "4976914",
+      "time": "2026-07-08 21:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普吹噓烏克蘭的礦產資源。"
+    },
+    {
+      "id": "4976913",
+      "time": "2026-07-08 21:02:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及烏克蘭：烏克蘭擁有巨大潛力。"
+    },
+    {
+      "id": "4976912",
+      "time": "2026-07-08 21:02:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF上調中國今年經濟增長預期】美國東部時間8日上午9時（北京時間8日21時），國際貨幣基金組織（IMF）釋出最新一期《世界經濟展望報告》。報告中，IMF將今年中國經濟增長預期上調了0.2個百分點，預計今年中國經濟增速為4.6%。IMF表示，此次上調主要得益於中國在公共基礎設施投資、高科技製造業以及出口領域的良好表現。 此外，IMF預計今年全球經濟增速為3.0%，相較今年4月的預測值下調了0.1個百分點，預計2027年全球經濟增速為3.4%，相較4月的預測值上調了0.2個百分點。IMF表示，目前全球經濟活動和前景正受到兩大核心因素影響，一方面，中東衝突持續引發的能源供給衝擊，對全球經濟形成負面衝擊；另一方面，人工智慧技術的發展和應用，持續提振全球科技週期活力，成為經濟增長的重要支撐。整體來看，全球經濟展現出較強韌性，抵禦衝擊的表現好於預期，大宗商品價格波動、通脹預期以及金融市場連鎖傳導效應整體可控、影響相對有限。通脹方面，IMF預計，全球總體通脹率預計將從2025年的4.1%升至2026年的4.7%，隨後在2027年降至3.9%。與4月的預測相比，資料均略有上調。（央視財經）"
+    },
+    {
+      "id": "mkt:019f41d2-79b2-7aab-8cef-99b3d6cbebaf",
+      "time": "2026-07-08 21:02:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says may strike Iran again tonight】US President Trump said he may strike Iran again tonight and will monitor developments before deciding. He said Iranian behavior was extremely bad and that the US struck Iran after Iranian attacks on ships in the Strait of Hormuz. He added any US strikes are aimed at preventing Iran from acquiring nuclear weapons, not regime change, and reiterated that Iran must not obtain nuclear weapons."
+    },
+    {
+      "id": "mkt:019f41d2-6b49-7aab-8cef-90edf70bc555",
+      "time": "2026-07-08 21:02:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "IMF now forecasts global trade growth of 3.5% in 2026, up from its April forecast of 2.8%; it projects 4.3% growth in 2027, versus 3.8% previously."
+    },
+    {
+      "id": "mkt:019f41d2-4151-7aab-8cef-8977913c96aa",
+      "time": "2026-07-08 21:02:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "IMF lowers 2026 growth forecast for emerging markets and developing economies to 3.8% from 3.9%; raises 2027 forecast by 0.3 percentage point to 4.5%."
+    },
     {
       "id": "mkt:019f41d2-3d74-7aab-8cef-82dcd48aacd9",
       "time": "2026-07-08 21:02:05",
@@ -9,6 +290,15 @@
         "MKT News"
       ],
       "text": "IMF raised its 2026 global inflation forecast to 4.7% from 4.4% in April; projects 2027 inflation at 3.9%, up from 3.7%."
+    },
+    {
+      "id": "4976911",
+      "time": "2026-07-08 21:02:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2508.00元。"
     },
     {
       "id": "4976910",
@@ -145930,72 +146220,6 @@
         "Impact bearish"
       ],
       "text": "CNBC reports a U.S. House committee says South Korea discriminates against U.S. companies."
-    },
-    {
-      "id": "4965367",
-      "time": "2026-07-01 21:07:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：如果說我有哪件事感到遺憾，那就是過去我受到前瞻指引的約束。"
-    },
-    {
-      "id": "4965366",
-      "time": "2026-07-01 21:07:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天際股份：六氟化鎢與公司現有產品技術路線差異較大 暫無相關生產規劃】天際股份7月1日在互動平臺表示，公司核心主業聚焦鋰電材料六氟磷酸鋰的研發、生產，六氟化鎢屬於半導體電子特氣，與公司現有產品賽道、技術路線差異較大，現階段暫無相關生產規劃。"
-    },
-    {
-      "id": "4965365",
-      "time": "2026-07-01 21:06:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院小組委員會稱韓國Coupang存在歧視行為。"
-    },
-    {
-      "id": "mkt:019f1dca-03fe-7aab-8c59-85c5415c7cbf",
-      "time": "2026-07-01 21:06:46",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "ECB President Lagarde said her only regret was having been constrained by forward guidance in the past."
-    },
-    {
-      "id": "4965364",
-      "time": "2026-07-01 21:06:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "達飛集團將成為聯邦快遞指定遠洋承運商。"
-    },
-    {
-      "id": "4965363",
-      "time": "2026-07-01 21:06:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯邦快遞集團：達飛集團將收購聯邦快遞供應鏈業務。"
-    },
-    {
-      "id": "mkt:019f1dc7-aa89-7aab-8c59-7caec6d37ff7",
-      "time": "2026-07-01 21:04:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FCC Chair Carr seeks to tighten oversight and scrutiny of electronic devices."
-    },
-    {
-      "id": "4965362",
-      "time": "2026-07-01 21:04:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞部長表示，他將提出一項稅收改革方案，目的是刺激經濟增長，而非“打擊”納稅人。"
     }
   ]
 }
