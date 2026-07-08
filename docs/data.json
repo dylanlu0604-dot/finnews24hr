@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-09 03:23:11",
-  "count": 16085,
+  "updated": "2026-07-09 03:26:57",
+  "count": 16089,
   "items": [
+    {
+      "id": "4977559",
+      "time": "2026-07-09 03:25:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數8日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於100.990。截至紐約匯市尾市，1歐元兌換1.1426美元，高於前一交易日的1.1419美元；1英鎊兌換1.3400美元，高於前一交易日的1.3363美元。1美元兌換162.48日元，高於前一交易日的161.94日元；1美元兌換0.8076瑞士法郎，與前一交易日持平；1美元兌換1.4169加元，低於前一交易日的1.4195加元；1美元兌換9.6903瑞典克朗，高於前一交易日的9.6784瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f4330-e672-7aab-8cfd-5af2745f0e43",
+      "time": "2026-07-09 03:25:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Starmer said he would continue to communicate with Trump even after leaving office."
+    },
+    {
+      "id": "mkt:019f4330-4893-7aab-8cfd-505cadb6e4ce",
+      "time": "2026-07-09 03:24:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose sharply on the 8th】At the close on the 8th, NYMEX August-delivery light, sweet crude (WTI) futures rose $3.08 to $73.52/bbl, up 4.37%. London Brent September futures rose $3.86 to $78.02/bbl, up 5.2%."
+    },
+    {
+      "id": "te:economy:565402",
+      "time": "2026-07-09 03:23:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Credit",
+        "Importance 1"
+      ],
+      "text": "US Consumer Credit Unexpectedly Falls in May — Total US consumer credit fell by $0.18 billion in May 2026, following an upwardly revised $20.82 billion increase in April and missing market expectations for a $17.1 billion gain. Revolving credit, which includes credit card debt, declined to $1.34 trillion from $1.35 trillion, pointing to weaker short-term consumer borrowing. Meanwhile, nonrevolving credit, which includes auto and student loans, increased to $3.81 trillion from $3.80 trillion. Overall consumer credit was unchanged on an annualized, seasonally adjusted basis, as revolving credit contracted at a 4.7% annual rate while nonrevolving credit grew at a 1.6% pace."
+    },
     {
       "id": "4977558",
       "time": "2026-07-09 03:22:28",
