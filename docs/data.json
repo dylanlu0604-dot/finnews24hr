@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-09 06:53:51",
-  "count": 16149,
+  "updated": "2026-07-09 06:57:42",
+  "count": 16150,
   "items": [
+    {
+      "id": "mkt:019f43f3-222c-7aab-8d00-3f685639ecb1",
+      "time": "2026-07-09 06:57:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DR Congo reports confirmed Ebola cases have risen to 1,759, including 600 deaths."
+    },
+    {
+      "id": "mkt:019f43f2-f289-7aab-8d00-35e23b4b3911",
+      "time": "2026-07-09 06:57:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports an Israeli military source said Israel was not involved in the earlier U.S. strike on Iran."
+    },
+    {
+      "id": "4977688",
+      "time": "2026-07-09 06:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓國媒體報道：韓國官員稱，韓元疲軟是暫時性的。"
+    },
+    {
+      "id": "mkt:019f43f1-775f-7aab-8d00-29c988028d7d",
+      "time": "2026-07-09 06:55:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The mayor of Shaher said the airport's aviation equipment building and its meteorological station were damaged in a US strike."
+    },
     {
       "id": "mkt:019f43ef-69fe-7aab-8d00-258465e76fab",
       "time": "2026-07-09 06:53:11",
@@ -147677,35 +147713,6 @@
         "國際"
       ],
       "text": "訊息人士與目擊者稱，烏克蘭首都基輔發生多起爆炸。"
-    },
-    {
-      "id": "4965995",
-      "time": "2026-07-02 06:57:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國自願性人工智慧監管規則最快將於下週公佈。"
-    },
-    {
-      "id": "4965994",
-      "time": "2026-07-02 06:54:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國迎來史上第二位女總理】韓國總統李在明7月1日任命韓聖淑為新任國務總理。韓聯社稱，李在明當天在青瓦臺為她舉行了任命儀式，正式頒發任命狀。由此，韓聖淑成為韓國第50任總理，也是韓國史上第2位女總理。（環球網）"
-    },
-    {
-      "id": "mkt:019f1fe4-1aca-7aab-8c66-e0a6210963e0",
-      "time": "2026-07-02 06:54:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "【US advanced reactor powers NVIDIA chip in first-of-its-kind demo】California-based nuclear startup Valar Atomics used its Ward 250 advanced reactor to power an NVIDIA Blackwell chip in a demonstration at its Utah site on Wednesday, briefly hosting a website. Output was very small, but this is the first time a next-generation reactor in the US has generated power for such equipment. The reactor reached criticality last month, marking the start of a self-sustaining fission reaction. Valar and NVIDIA said they have agreed to jointly explore developing nuclear-powered AI systems. The advanced reactor sector remains early-stage and no advanced reactors are yet commercialized in the US."
     }
   ]
 }

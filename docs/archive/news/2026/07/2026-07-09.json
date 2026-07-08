@@ -1,7 +1,43 @@
 {
   "date": "2026-07-09",
-  "count": 706,
+  "count": 710,
   "items": [
+    {
+      "id": "mkt:019f43f3-222c-7aab-8d00-3f685639ecb1",
+      "time": "2026-07-09 06:57:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DR Congo reports confirmed Ebola cases have risen to 1,759, including 600 deaths."
+    },
+    {
+      "id": "mkt:019f43f2-f289-7aab-8d00-35e23b4b3911",
+      "time": "2026-07-09 06:57:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports an Israeli military source said Israel was not involved in the earlier U.S. strike on Iran."
+    },
+    {
+      "id": "4977688",
+      "time": "2026-07-09 06:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓國媒體報道：韓國官員稱，韓元疲軟是暫時性的。"
+    },
+    {
+      "id": "mkt:019f43f1-775f-7aab-8d00-29c988028d7d",
+      "time": "2026-07-09 06:55:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The mayor of Shaher said the airport's aviation equipment building and its meteorological station were damaged in a US strike."
+    },
     {
       "id": "mkt:019f43ef-69fe-7aab-8d00-258465e76fab",
       "time": "2026-07-09 06:53:11",
