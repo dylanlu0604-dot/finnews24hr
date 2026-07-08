@@ -1,7 +1,150 @@
 {
-  "updated": "2026-07-09 00:06:37",
-  "count": 15816,
+  "updated": "2026-07-09 00:10:36",
+  "count": 15822,
   "items": [
+    {
+      "id": "te:markets:565362",
+      "time": "2026-07-09 00:09:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Futures Climb Off One-Month High — Cotton futures fell below 81 cents per pound after reaching a one-month high of 81.2 cents on July 7, pressured by a stronger US dollar amid renewed Middle East tensions. US President Donald Trump declared the ceasefire with Iran over and revoked the 60-day waiver allowing Tehran to sell crude, while surging oil prices renewed concerns over supply disruptions and boosted the greenback, making US dollar-denominated commodities more expensive. At the same time, higher oil prices raised feedstock costs for petrochemicals such as naphtha, making synthetic fibers less competitive and helping limit cotton’s losses. Meanwhile, adverse weather continued to support prices, with US crops facing record heat despite most planting being completed. India is expected to receive below-average monsoon rainfall after its fifth-driest June since 1901, delaying planting, while Brazil’s cotton exports rose 10.6% from a year earlier."
+    },
+    {
+      "id": "4977290",
+      "time": "2026-07-09 00:08:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其航空6月載客率同比上升2.3個百分點，達到84.5%。"
+    },
+    {
+      "id": "4977289",
+      "time": "2026-07-09 00:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們應該降低油價。"
+    },
+    {
+      "id": "4977288",
+      "time": "2026-07-09 00:08:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們看看能否控制住油價。"
+    },
+    {
+      "id": "mkt:019f427c-7b7a-7aab-8cf8-09157e218b89",
+      "time": "2026-07-09 00:08:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said Iran's recent attack caused no U.S. casualties."
+    },
+    {
+      "id": "4977287",
+      "time": "2026-07-09 00:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚北約秘書長呂特。"
+    },
+    {
+      "id": "mkt:019f427b-f219-7aab-8cf8-064e95de45ac",
+      "time": "2026-07-09 00:07:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump again praised Turkish President Erdogan."
+    },
+    {
+      "id": "mkt:019f427b-e02a-7aab-8cf7-fce58fc2f192",
+      "time": "2026-07-09 00:07:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. defense secretary said the U.S. would strike Iran tonight if President Trump ordered it."
+    },
+    {
+      "id": "4977286",
+      "time": "2026-07-09 00:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在北約峰會閉幕講話中再次稱讚土耳其總統埃爾多安。"
+    },
+    {
+      "id": "te:markets:565359",
+      "time": "2026-07-09 00:07:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes Deeply in the Red — The DAX 40 settled about 2.4% lower at 24,866 on Wednesday, the biggest daily decline since March 19, as rising tensions in the Middle East fueled risk aversion. US President Trump said at the NATO summit in Ankara that the ceasefire with Iran had collapsed following mutual attacks, adding that the US would \"probably strike the country again hard tonight\". Oil prices subsequently rose sharply, reigniting concerns about inflation, economic weakness, and interest rate hikes from central banks. At the same time, traders continued reducing exposure to semiconductor and AI-related stocks amid growing concerns over high valuations. Losses were broad-based, with banks, financials, autos, consumer discretionary and industrials maong the hardest hit. Real estate Vonovia led losses, slipping 5.7%, followed by Deutsche Bank (-4.9%), Heidelberg Materials (-4.6%), Adidas (-4.5%) and Rheinmetall (-4.5%)."
+    },
+    {
+      "id": "te:markets:565358",
+      "time": "2026-07-09 00:07:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.84% Lower — The FTSE 100 Index fell 197 points or 1.84 percent on Wednesday to close at 10469 points. Leading the losses are Endeavour (-7.30%), Antofagasta (-6.40%) and Anglo American (-6.34%)."
+    },
+    {
+      "id": "mkt:019f427b-56e1-7aab-8cf7-f1d0c372135e",
+      "time": "2026-07-09 00:06:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the NATO summit concluded successfully."
+    },
+    {
+      "id": "4977285",
+      "time": "2026-07-09 00:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：北約峰會非常成功。"
+    },
+    {
+      "id": "te:markets:565357",
+      "time": "2026-07-09 00:06:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Canola Hits 4-week High — Canola increased to 782.00 CAD/T, the highest since June 2026. Over the past 4 weeks, Canola gained 1.74%, and in the last 12 months, it increased 16.51%."
+    },
+    {
+      "id": "te:markets:565356",
+      "time": "2026-07-09 00:05:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Tumbles by Over 1.5% — The FTSE 100 fell more than 1.5% on Wednesday after US President Donald Trump told the NATO summit in Turkey that the ceasefire with Iran was over, amid renewed hostilities in the Middle East that sent oil prices surging. Mining stocks were among the biggest laggards, with precious metals producers Endeavour down 7.3% and Fresnillo down 5.8%. Elsewhere in the mining sector, Antofagasta lost 6.4%, Anglo American retreated 5.6%, and Rio Tinto fell 5%. In the broader market, FTSE 250 homebuilder Vistry plummeted 7% following an operational update, an ongoing review of its chief executive, and the announced departure of its chief financial officer, despite projecting full-year adjusted pretax profits to meet current market expectations. On the other hand, oil majors BP and Shell advanced 2.3% and 3.1%, respectively, benefiting from the surge in crude prices."
+    },
     {
       "id": "4977284",
       "time": "2026-07-09 00:03:48",
@@ -144386,92 +144529,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Closes 0.18% Higher — The DAX Index gained 44 points or 0.18 percent on Wednesday to close at 25040 points. Gains were led by Rheinmetall (6.06%), SAP (5.25%) and Fresenius (2.65%). Biggest losers were Infineon (-4.21%), Siemens (-2.39%) and E.ON (-2.02%)."
-    },
-    {
-      "id": "4965776",
-      "time": "2026-07-02 00:10:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席：當前美國通脹水平仍然過高】美國聯邦儲備委員會主席凱文·沃什7月1日在葡萄牙舉行的歐洲央行中央銀行論壇上表示，當前美國通脹水平仍然過高，同時重申美聯儲工作的優先事項是確保物價穩定。沃什說，美聯儲將“開闢一條新的政策路徑”，但並未進一步加以說明，同時迴避了有關7月貨幣政策會議是否加息的問題，強調不會對未來利率政策給出前瞻性指引。沃什表示，美聯儲正設立獨立工作組，圍繞貨幣政策溝通、經濟資料體系、生產率、通脹框架以及資產負債表政策等課題展開研究。他認為，如果現有政策框架影響決策效率，就應當實施改革。（新華社）"
-    },
-    {
-      "id": "te:markets:563519",
-      "time": "2026-07-02 00:10:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.79% Lower — The CAC 40 Index decreased 67 points or 0.79 percent on Wednesday to close at 8337 points. The decline was led by Orange (-4.39%), STMicroelectronics (-4.37%) and ENGIE (-3.77%). On the upside, the strongest performers were TP (8.48%), Renault (5.26%) and Essilor (4.88%)."
-    },
-    {
-      "id": "4965775",
-      "time": "2026-07-02 00:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "WhatsApp 發言人針對使用者名稱功能說明：平臺將限制單個賬號可新增聯絡的陌生使用者數量，並攔截多次嘗試破解他人使用者名稱金鑰的操作。"
-    },
-    {
-      "id": "mkt:019f1e71-6425-7aab-8c63-07a0c2c245b9",
-      "time": "2026-07-02 00:09:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said technical negotiators are in talks on Iran."
-    },
-    {
-      "id": "4965774",
-      "time": "2026-07-02 00:08:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "WhatsApp 發言人就使用者名稱機制表態：使用者使用該應用仍需繫結手機號，我們還針對使用者名稱功能搭建了多層反詐防護體系。"
-    },
-    {
-      "id": "4965772",
-      "time": "2026-07-02 00:07:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "WhatsApp 發言人就使用者名稱機制表示：為防範他人仿冒賬號，平臺已鎖定各類知名專屬使用者名稱，僅允許合法持有者認領使用。"
-    },
-    {
-      "id": "mkt:019f1e6f-84f2-7aab-8c62-fdc6c76013a7",
-      "time": "2026-07-02 00:07:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell below $68/bbl, down 2.72% on the day."
-    },
-    {
-      "id": "mkt:019f1e6f-7349-7aab-8c62-f46ccdcd3ec2",
-      "time": "2026-07-02 00:07:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Portuguese Automobile Association (ACAP) said Portugal's June new registrations of battery-electric vehicles rose 63.1% YoY."
-    },
-    {
-      "id": "te:markets:563518",
-      "time": "2026-07-02 00:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index fell 17 points or 0.16 percent on Wednesday to close at 10480 points. Leading the losses are Associated British Foods (-3.15%), British American Tobacco (-2.91%) and National Grid (-2.89%). Top gainers were Rightmove (5.27%), Babcock International (5.17%) and Frasers Group (4.87%)."
     }
   ]
 }
