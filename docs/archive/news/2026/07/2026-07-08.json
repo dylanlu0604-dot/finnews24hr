@@ -1,7 +1,51 @@
 {
   "date": "2026-07-08",
-  "count": 1219,
+  "count": 1224,
   "items": [
+    {
+      "id": "4975584",
+      "time": "2026-07-08 11:51:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盧比兌美元貶值至18010盧比兌1美元。"
+    },
+    {
+      "id": "4975583",
+      "time": "2026-07-08 11:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【極端高溫席捲歐洲 世衛組織呼籲加強應對】近期，熱浪席捲歐洲多國。世衛組織警告，歐洲未來幾周可能面臨更多致命高溫天氣，呼籲各國建立起能夠應對極端高溫的醫療衛生系統。受持續熱浪影響，西班牙多地繼續遭遇高溫天氣。7日，在西班牙南部安達盧西亞自治區首府塞維利亞，面對最高可達42攝氏度的高溫，當地居民苦不堪言。（央視）"
+    },
+    {
+      "id": "4975582",
+      "time": "2026-07-08 11:49:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦：截至目前，在大陸上市的臺企已達67家】國臺辦發言人陳斌華表示，“十五五”規劃綱要明確提出，“鼓勵符合條件的臺資企業在大陸上市”，臺資企業在大陸上市已享受與大陸企業同等待遇。近年來，越來越多的臺資企業選擇在大陸上市、紮根發展，大陸股市已成為臺資企業進行直接融資、擴大企業規模、提升品牌形象的重要渠道。截至目前，在大陸上市的臺企已達67家。我們將一如既往為廣大臺商臺企做好服務。希望廣大臺商臺企充分把握大陸資本市場新機遇，深耕大陸市場，實現自身規模與競爭力的雙重提升。（澎湃）"
+    },
+    {
+      "id": "te:markets:565079",
+      "time": "2026-07-08 11:49:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Steady as BHP Advances Chile Expansion — Copper futures held steady above $6.15 per pound on Wednesday, remaining range-bound after BHP Group received environmental approval for an expansion project at its Chilean copper operations, supporting its strategy to benefit from an increasingly tight global market. The world's largest miner aims to nearly double its global copper output by the mid-2030s, driven by expectations of a prolonged supply deficit amid resilient demand from electrification and other structural trends. Meanwhile, copper prices faced headwinds as oil prices climbed following fresh US air strikes on Iran in response to recent attacks on commercial vessels transiting the Strait of Hormuz. Investors also awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook after the central bank adopted a more hawkish tone at its June policy meeting."
+    },
+    {
+      "id": "4975581",
+      "time": "2026-07-08 11:48:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "中國財政部發行10年期債券，規模900億元，發行利率1.7249%，邊際利率1.7418%，預期1.7400%，投標倍數7.23倍，邊際倍數8.97倍。"
+    },
     {
       "id": "4975580",
       "time": "2026-07-08 11:47:06",
