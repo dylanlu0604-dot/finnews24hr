@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-08 23:48:16",
-  "count": 15813,
+  "updated": "2026-07-08 23:52:26",
+  "count": 15817,
   "items": [
+    {
+      "id": "mkt:019f426c-e560-7aab-8cf7-ad3b87459963",
+      "time": "2026-07-08 23:51:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose sharply intraday: reported at $75.61/bbl, up 5.00% on the session, while WTI futures briefly cleared $76/bbl, up 7.89% on the day."
+    },
+    {
+      "id": "4977266",
+      "time": "2026-07-08 23:50:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破76美元/桶，日內漲7.91%。"
+    },
+    {
+      "id": "mkt:019f426c-4a4c-7aab-8cf7-a225125d7568",
+      "time": "2026-07-08 23:50:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump abruptly shifts tone on Iran from 'very rational' to 'sick, untrustworthy'】The New York Times reports that on June 16 Trump described Iranian leaders as \"very rational,\" \"strong and smart,\" and easy to deal with. Today he said \"they are sick people,\" that \"this country is led by sick people,\" that \"we can't trust them,\" and accused Iranian leaders of \"liking to play tricks.\""
+    },
+    {
+      "id": "mkt:019f426c-20fc-7aab-8cf7-9e759f4f5908",
+      "time": "2026-07-08 23:50:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "【BNP Paribas: Tesla–SpaceX merger unlikely anytime soon】BNP Paribas analysts say a Tesla–SpaceX merger is unlikely in the near term, citing heavy cash burn and significant regulatory risk that complicate any deal. They caution merger-driven gains in Tesla investor sentiment may be overstated and maintain an underperform rating with a PT of $280. BNP warns Tesla faces challenging KPIs over the next two years in its robo-taxi and Optimus businesses, which would pose downside risk to the core business until any SpaceX tie-up materializes."
+    },
+    {
+      "id": "te:markets:565354",
+      "time": "2026-07-08 23:49:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Coal Hover Near 3-Month Low — Thermal coal futures from Australia fell to below $130 per tonne in July, not far from their lowest level since early March, as muted purchases from India offset a broader-based rebound for energy commodities. A weak rupee and an upgrade to the quantity of domestic production drove Indian utilities to extend its effort of reducing import dependency. This was combined with elevated levels of domestic inventories for the second-largest consumer to take in lower imports and soften bidding competition from other consumers. Still, energy commodities remained higher since March as fresh escalation between the US and Iran triggered another increase in power prices. LNG tankers held off from crossing the Strait of Hormuz after a vessel was struck by Iran. This supported the outlook that Japan and Korea, the main consumers of higher coal grades from Australia, are likely to maintain coal imports amid higher LNG prices."
+    },
+    {
+      "id": "te:markets:565353",
+      "time": "2026-07-08 23:49:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Domestic and Geopolitical Risks — The CAC 40 fell 2.2% to close at 8,253 on Wednesday as investors grappled with mounting political uncertainty in France and renewed tensions in the Middle East. Le Pen confirmed her intention to mount a fourth presidential campaign despite legal challenges stemming from her conviction for the misuse of public funds. Recent polls show her party leading. Meanwhile, US President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates. Luxury stocks declined as risk aversion rose, with LVMH losing 2.4%, L'Oréal down 2.3%, Hermès losing 4.5%, and Kering shedding 5.2%. Industrials traded lower, with Airbus down 3.1% and Safran falling 4.5%. Financials lost as bond yields moved higher, with BNP Paribas down 3.9% and Société Générale losing 5.7%. In contrast, TotalEnergies gained 2.1% on higher oil prices."
+    },
+    {
+      "id": "4977265",
+      "time": "2026-07-08 23:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總統納夫羅茨基：與澤連斯基的會談富有建設性。"
+    },
+    {
+      "id": "4977264",
+      "time": "2026-07-08 23:49:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲8%，現報492.10元。"
+    },
+    {
+      "id": "mkt:019f426a-c05d-7aab-8cf7-961201d6bb97",
+      "time": "2026-07-08 23:48:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "IRIB reports Iran's military said it lost eight fighters and vowed to avenge them."
+    },
+    {
+      "id": "4977263",
+      "time": "2026-07-08 23:48:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "納維塔斯半導體股價下跌9.3%，此前Wolfspeed提起專利侵權訴訟。"
+    },
+    {
+      "id": "4977262",
+      "time": "2026-07-08 23:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：你是否後悔在與特朗普的交往中投入的政治籌碼？\n義大利總理梅洛尼：我毫無悔意。"
+    },
+    {
+      "id": "4977261",
+      "time": "2026-07-08 23:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：八名伊朗軍人在美國針對伊朗南部的襲擊中喪生。"
+    },
     {
       "id": "mkt:019f4269-55aa-7aab-8cf7-8f94c7b42422",
       "time": "2026-07-08 23:47:07",
@@ -144355,83 +144479,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯： 若伊朗試圖重啟核計劃，美國手握多種應對手段。"
-    },
-    {
-      "id": "4965758",
-      "time": "2026-07-01 23:52:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 過去三天商業航運通行恢復暢通無阻。"
-    },
-    {
-      "id": "mkt:019f1e61-95e4-7aab-8c62-8cb6075d7b3e",
-      "time": "2026-07-01 23:52:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Vice President Vance said commercial shipping has had free passage over the past three days."
-    },
-    {
-      "id": "mkt:019f1e60-fd4a-7aab-8c62-84e3889da278",
-      "time": "2026-07-01 23:51:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "US10Y"
-      ],
-      "text": "U.S. Vice President Vance reiterated that Iran's navy and military forces have been destroyed."
-    },
-    {
-      "id": "4965757",
-      "time": "2026-07-01 23:51:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 數日前伊朗向船隻發動襲擊後，我方實施了數次空襲打擊。"
-    },
-    {
-      "id": "mkt:019f1e60-5b83-7aab-8c62-7ecbbc8ed912",
-      "time": "2026-07-01 23:50:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US Vice President Vance said a few days ago that after Iran fired on vessels, US forces conducted airstrikes and dropped bombs."
-    },
-    {
-      "id": "4965756",
-      "time": "2026-07-01 23:50:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta宣佈任命Alex Schultz為公司首位首席資料官，Denise Moreno將出任首席市場官一職。"
-    },
-    {
-      "id": "4965755",
-      "time": "2026-07-01 23:49:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯重申，伊朗海軍和軍隊已被摧毀。"
-    },
-    {
-      "id": "te:markets:563512",
-      "time": "2026-07-01 23:49:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "US Equities Rebound, Dow Rises to Record — US equity indices rose from session lows on Wednesday as markets gauged the likelihood of a Fed rate hike this year and how much room is left on the AI trade. The S&P 500 gained 0.4% and the Dow rose 250 points to a new record high. Fed Chairman Warsh noted that inflation risks are decreasing and ISM Manufacturing prices fell sharply more than expected in June, limiting the need for an urgent hawkish response by the US central bank. Hyperscalers making up the Magnificent 7 extended their rebound after underperforming AI infrastructure companies since mid-May, with Microsoft, Amazon, and Alphabet adding more than 2%. Also, Meta soared11% after announcing plans to develop a cloud business to sell its excess AI compute capacity. Still, the Nasdaq 100 was 1% lower. Chip producers dropped after leading the rally for global stock markets, reigniting the AI trade despite lingering warnings that the sector is overleveraged. Micron and Sandisk fell over 7%."
     }
   ]
 }
