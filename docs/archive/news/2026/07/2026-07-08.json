@@ -1,7 +1,283 @@
 {
   "date": "2026-07-08",
-  "count": 3006,
+  "count": 3036,
   "items": [
+    {
+      "id": "mkt:019f41da-7c20-7aab-8cf0-4f3d1bd4ace9",
+      "time": "2026-07-08 21:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Obama handed US funds to Iranians and that the agreement he signed with Iran was a tragedy."
+    },
+    {
+      "id": "4976944",
+      "time": "2026-07-08 21:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：奧巴馬將美國資金交給伊朗人，他與伊朗簽署的協議是一場悲劇。"
+    },
+    {
+      "id": "mkt:019f41da-557a-7aab-8cf0-43c13fb5652e",
+      "time": "2026-07-08 21:10:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IMF says escalation of the Middle East conflict is the primary downside risk to the global economy."
+    },
+    {
+      "id": "4976943",
+      "time": "2026-07-08 21:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永福股份中標華電東山陳城一期100MW漁光互補可研勘察設計專案】據永福股份訊息，7月7日，永福股份成功中標福建華電東山陳城一期100MW漁光互補專案可行性研究、專題研究及勘察設計服務。"
+    },
+    {
+      "id": "mkt:019f41da-2a17-7aab-8cf0-3e3811fbe4a5",
+      "time": "2026-07-08 21:10:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Trump said the deal with Iran requires Iran to halt its nuclear program; otherwise the US will enforce compliance itself."
+    },
+    {
+      "id": "4976942",
+      "time": "2026-07-08 21:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高工產研鋰電研究所：2026年上半年中國鋰電池用正極材料出貨量同比增長59%】高工產研鋰電研究所（GGII）調研資料顯示，2026年上半年中國鋰電池用正極材料出貨量332萬噸，同比增長59%，預計全年中國正極材料出貨量將超750萬噸，同比增長超50%。"
+    },
+    {
+      "id": "4976941",
+      "time": "2026-07-08 21:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：我們正與土耳其、義大利就SAMP-T防空系統議題開展持續合作。"
+    },
+    {
+      "id": "te:economy:565297",
+      "time": "2026-07-08 21:10:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Used Car Prices MoM",
+        "Importance 1"
+      ],
+      "text": "Used Car Prices in the US Slow in June — The Manheim Used Vehicle Value Index, a widely followed measure of wholesale used-vehicle prices in the US market, edged up 0.1% month-over-month in June 2026, following a 0.3% rise in May. Prices for EVs rose 1.7% while non-EVs increased 0.2%. Year-on-year, prices went up 2.1%, below 3.6% in May, mostly due to a base effect. Compared with a year earlier, prices increased for compact cars (4.8%), luxury (1.4%) and midsize cars (0.1%) while a decline was recorded for SUVs (-0.8%) and Pickups (-0.3%). EVs cost went up 12% while non-EVs rose 1.7%. \"The story of the first half is a strong tax-refund season that pushed values to levels we haven’t seen in a few years, peaking in March before normalizing, leaving the index about 1% off that March high. The bigger picture remains one of balance\", according to Jonathan Gregory, Senior Director, Cox Automotive."
+    },
+    {
+      "id": "mkt:019f41d9-5f52-7aab-8cf0-32d2177a2b67",
+      "time": "2026-07-08 21:09:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron said he did not hear US President Trump make any complaints about allies while in the room."
+    },
+    {
+      "id": "4976940",
+      "time": "2026-07-08 21:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：向土耳其出口桑普防空導彈系統的相關技術工作仍在推進。"
+    },
+    {
+      "id": "mkt:019f41d9-43e8-7aab-8cf0-28eb731fede5",
+      "time": "2026-07-08 21:09:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said negotiating representatives may continue contacts with Iran to see how the situation develops."
+    },
+    {
+      "id": "mkt:019f41d9-1b78-7aab-8cf0-267466f085c6",
+      "time": "2026-07-08 21:09:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said he does not know whether the US will reach an agreement with Iran and that the US might take action without one."
+    },
+    {
+      "id": "4976939",
+      "time": "2026-07-08 21:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：談判人員可繼續與伊朗磋商，後續事態靜觀其變。"
+    },
+    {
+      "id": "4976938",
+      "time": "2026-07-08 21:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：我們剛剛結束了一場極為成功的峰會，會上瀰漫著強烈的團結氛圍。"
+    },
+    {
+      "id": "mkt:019f41d8-d086-7aab-8cf0-199734b792e4",
+      "time": "2026-07-08 21:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says US 'very likely to strike Iran hard again tonight'】US President Trump told a NATO summit in Turkey on the 8th the US military is \"very likely to strike Iran hard again tonight.\""
+    },
+    {
+      "id": "4976937",
+      "time": "2026-07-08 21:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：在場未聽到特朗普就盟友問題表達任何不滿。"
+    },
+    {
+      "id": "4976936",
+      "time": "2026-07-08 21:09:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：不確定能否達成伊朗相關協議。"
+    },
+    {
+      "id": "4976935",
+      "time": "2026-07-08 21:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們或許可以在不達成伊朗協議的情況下做到這一點。"
+    },
+    {
+      "id": "4976934",
+      "time": "2026-07-08 21:08:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普8日在土耳其參加北約峰會期間說，美軍“今晚很可能再次狠狠打擊伊朗”。（新華國際）"
+    },
+    {
+      "id": "mkt:019f41d8-130a-7aab-8cf0-16ddb4f99cc4",
+      "time": "2026-07-08 21:08:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "US President Trump said he will grant Ukraine a license to manufacture Patriot missiles."
+    },
+    {
+      "id": "4976933",
+      "time": "2026-07-08 21:08:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：目前暫無在霍爾木茲海峽重新部署戴高樂號航母的計劃。"
+    },
+    {
+      "id": "4976932",
+      "time": "2026-07-08 21:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱將授權烏克蘭生產愛國者導彈。"
+    },
+    {
+      "id": "4976931",
+      "time": "2026-07-08 21:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：擬議的法英霍爾木茲海峽護航任務仍具可行性。"
+    },
+    {
+      "id": "4976930",
+      "time": "2026-07-08 21:07:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報3893.00元。"
+    },
+    {
+      "id": "mkt:019f41d7-6160-7aab-8cf0-0de8efe73742",
+      "time": "2026-07-08 21:07:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON said he does not believe the US will occupy Greenland."
+    },
+    {
+      "id": "4976929",
+      "time": "2026-07-08 21:07:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電力公司得克薩斯分部：已與美國能源部能源主導融資辦公室達成金額最高達32.6億美元的貸款協議。"
+    },
+    {
+      "id": "mkt:019f41d7-3cc6-7aab-8cf0-05604319b636",
+      "time": "2026-07-08 21:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he has not yet informed the company about the Patriot license."
+    },
+    {
+      "id": "mkt:019f41d7-0fa1-7aab-8cef-fdff150c629a",
+      "time": "2026-07-08 21:07:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON said a technical team will continue working in Greenland."
+    },
+    {
+      "id": "mkt:019f41d7-0a09-7aab-8cef-f4c124613597",
+      "time": "2026-07-08 21:07:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran's air force has been completely destroyed."
+    },
+    {
+      "id": "4976928",
+      "time": "2026-07-08 21:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：不要相信美國會吞併格陵蘭島。"
+    },
     {
       "id": "mkt:019f41d6-8a60-7aab-8cef-e8018ab8e3ef",
       "time": "2026-07-08 21:06:46",
