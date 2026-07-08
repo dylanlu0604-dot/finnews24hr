@@ -1,7 +1,138 @@
 {
   "date": "2026-07-08",
-  "count": 2444,
+  "count": 2456,
   "items": [
+    {
+      "id": "4976534",
+      "time": "2026-07-08 18:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖通高速：擬與控股股東簽訂施工工程及相關服務關聯交易框架協議 預計總金額不超74.04億元】皖通高速(600012.SH)公告稱，公司擬與控股股東安徽交控集團簽署《施工工程及相關服務關聯交易框架協議》，有效期三年，預計協議期內交易總金額不超過74.04億元。該協議旨在滿足公司高速公路改擴建專案等建設工程需求，交易定價遵循市場原則，需經股東會審議。"
+    },
+    {
+      "id": "4976533",
+      "time": "2026-07-08 18:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：維持對新興市場股票的超配評級。將歐元區股票評級上調至超配評級。"
+    },
+    {
+      "id": "mkt:019f4138-356f-7aab-8ceb-59d8ed809645",
+      "time": "2026-07-08 18:13:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AVGO.O",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "【Apple, Broadcom agree multi-year deal valued at over $30 billion】Apple has signed a multi-year agreement with Broadcom to design and produce custom chips and advanced wireless connectivity components for Apple products; the deal is expected to exceed $30 billion. It is expected to drive production of more than 15 billion US-made chips and support hundreds of US jobs. Broadcom will make $1.5 billion in capital expenditures to expand and upgrade its Fort Collins, Colorado manufacturing site to produce FBAR filters, other advanced RF components and wireless connectivity technology. The deal is Broadcom’s largest commitment to date under Apple’s Made in America program."
+    },
+    {
+      "id": "mkt:019f4138-1af8-7aab-8ceb-520a3c9d5f53",
+      "time": "2026-07-08 18:13:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "01177.HK",
+        "Impact bullish"
+      ],
+      "text": "【China Biopharma to commercialise two GSK respiratory drugs in mainland China】China Biopharma (01177.HK) said it has deepened its strategic cooperation with GlaxoSmithKline (GSK.N). Under the expanded agreement, subsidiary Zhengda Tianqing will manage importation, distribution, hospital access and promotion in mainland China for two GSK respiratory products: fluticasone furoate inhalation powder and umeclidinium bromide/vilanterol inhalation powder. The parties had earlier reached a collaboration on bringing innovative hepatology drugs to market in China."
+    },
+    {
+      "id": "mkt:019f4138-012b-7aab-8ceb-4f081ab76538",
+      "time": "2026-07-08 18:13:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Europe & UK",
+        "CSI300",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "HSBC maintains Overweight on emerging-market equities and upgrades Eurozone equities to Overweight."
+    },
+    {
+      "id": "mkt:019f4137-dd91-7aab-8ceb-432ceea141a7",
+      "time": "2026-07-08 18:13:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "HSBC said its base-case assumes Gulf oil exports will return to normal before end-September."
+    },
+    {
+      "id": "mkt:019f4137-9927-7aab-8ceb-38bd83abfba0",
+      "time": "2026-07-08 18:13:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "HSBC cuts its 2027 Brent crude forecast to $65/bbl from $75/bbl."
+    },
+    {
+      "id": "4976532",
+      "time": "2026-07-08 18:12:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納微科技：預計2026年上半年淨利潤同比增長102%至137%】納微科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.28億元至1.5億元，較上年同期（法定披露資料）相比，將增加0.65億元至0.87億元，同比增長102%至137%。預計2026年半年度實現營業收入5.58億元至5.72億元，較上年同期（法定披露資料）相比，將增加1.44億元至1.58億元，同比增長35%至38%。預計2026年半年度實現扣除非經常性損益後歸屬母公司所有者的淨利潤1.2億元至1.4億元，較上年同期（法定披露資料）相比，將增加0.65億元至0.85億元，同比增長117%至153%。"
+    },
+    {
+      "id": "4976531",
+      "time": "2026-07-08 18:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱胡齊斯坦省遭美方襲擊 致1死2傷】伊朗胡齊斯坦省相關負責人表示，該省3處地點遭美方發射物襲擊，造成1人死亡、2人受傷。（央視新聞）"
+    },
+    {
+      "id": "4976530",
+      "time": "2026-07-08 18:12:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聖湘生物與青峰科睿簽署戰略合作協議】7月8日，聖湘生物與青峰科睿在上海正式簽署戰略合作協議。雙方將圍繞“診療一體化”核心理念，以基層診所與流感健康驛站為場景，在精準檢測、創新藥物、基層醫療及健康隨訪等領域展開深度合作，共同打造“檢測+治療+監測”的全週期服務閉環。(人民財訊)"
+    },
+    {
+      "id": "mkt:019f4137-0333-7aab-8ceb-374147888bfc",
+      "time": "2026-07-08 18:12:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "HSBC expects a cyclical oil-market surplus of 3.7 mln bpd in 2027."
+    },
+    {
+      "id": "mkt:019f4136-8aa4-7aab-8ceb-2cf7ee281099",
+      "time": "2026-07-08 18:12:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "HSBC cuts its 2026 Brent oil price forecast to $80/bbl."
+    },
     {
       "id": "mkt:019f4135-9805-7aab-8ceb-263e661d6248",
       "time": "2026-07-08 18:10:59",
