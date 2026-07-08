@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 459,
+  "count": 461,
   "items": [
+    {
+      "id": "4977549",
+      "time": "2026-07-09 03:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：兩名伊朗漁民在週三美軍對伊朗的打擊行動中身亡。"
+    },
+    {
+      "id": "mkt:019f432a-caeb-7aab-8cfd-291628750b37",
+      "time": "2026-07-09 03:18:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency reported two Iranian fishermen were killed in a U.S. strike on Iran on Wednesday."
+    },
     {
       "id": "mkt:019f4327-a1ce-7aab-8cfd-263409012bca",
       "time": "2026-07-09 03:14:58",

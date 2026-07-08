@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-09 03:15:39",
-  "count": 16074,
+  "updated": "2026-07-09 03:19:25",
+  "count": 16075,
   "items": [
+    {
+      "id": "4977549",
+      "time": "2026-07-09 03:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：兩名伊朗漁民在週三美軍對伊朗的打擊行動中身亡。"
+    },
+    {
+      "id": "mkt:019f432a-caeb-7aab-8cfd-291628750b37",
+      "time": "2026-07-09 03:18:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency reported two Iranian fishermen were killed in a U.S. strike on Iran on Wednesday."
+    },
     {
       "id": "mkt:019f4327-a1ce-7aab-8cfd-263409012bca",
       "time": "2026-07-09 03:14:58",
@@ -146900,14 +146920,6 @@
         "MKT News"
       ],
       "text": "【Kevin Warsh reportedly names Treasury Secretary Bessent aide Samantha Schwab as Fed adviser】Foreign media report Fed Chair Kevin Warsh is adding Treasury Secretary Bessent’s senior aide Samantha Schwab to his advisory team as a Fed adviser. Schwab has served as Bessent’s deputy chief of staff at the Treasury since January 2025 and previously worked in the White House during Trump’s first term; a start date was not announced. The appointment has prompted debate about closer Fed–Treasury coordination, given Warsh and Bessent hold weekly meetings, and market attention on whether central-bank independence could be affected."
-    },
-    {
-      "id": "4965872",
-      "time": "2026-07-02 03:15:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會表示，人工智慧偏見防控措施可能違反消費者保護法。"
     }
   ]
 }
