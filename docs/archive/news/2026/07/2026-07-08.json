@@ -1,7 +1,100 @@
 {
   "date": "2026-07-08",
-  "count": 718,
+  "count": 727,
   "items": [
+    {
+      "id": "mkt:019f3f36-b359-7aab-8cd9-fc4b141a0453",
+      "time": "2026-07-08 08:52:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, NVIDIA (NVDA.O) and AI-chip startup d-Matrix are integrating hardware into a new system to support running AI models."
+    },
+    {
+      "id": "te:markets:565012",
+      "time": "2026-07-08 08:52:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Follow Wall Street Lower — The Nikkei 225 Index fell 0.3% to below 68,100, while the broader Topix Index declined 0.8% to 4,030 on Wednesday, extending losses from the previous session as Japanese equities tracked an overnight selloff on Wall Street led by renewed weakness in semiconductor stocks. Reports that China's DeepSeek is developing its own AI chip also weighed on technology shares. Investors further reacted to escalating tensions in the Middle East and soaring oil prices after the US launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. Heavyweight stocks posting notable declines included Tokyo Electron (-2.7%), Taiyo Yuden (-3%), Fujikura (-1.4%), Ibiden Co (-3.3%), and Mitsubishi Heavy Industries (-3.4%)."
+    },
+    {
+      "id": "mkt:019f3f35-eff2-7aab-8cd9-f49685be87e2",
+      "time": "2026-07-08 08:52:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "TAL.O"
+      ],
+      "text": "【Snapmaker completes 1.0 bln yuan financing】Consumer 3D-printing firm Snapmaker has completed a new 1.0 bln yuan financing round led by Cathay Capital. TAL Education’s strategic investment arm co-invested, and existing shareholders—including Meituan’s strategic investment arm, Meituan Longzhu, Hillhouse Ventures and Shunwei Capital—substantially oversubscribed. Gaohu Capital acted as sole financial adviser. The transaction is among the largest single rounds in the consumer hardware sector since 2025 and the largest primary-market financing in consumer-grade 3D printing in the past two years."
+    },
+    {
+      "id": "4975235",
+      "time": "2026-07-08 08:52:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與人工智慧晶片初創企業D-Matrix將在全新系統中整合硬體，為人工智慧模型提供算力。"
+    },
+    {
+      "id": "mkt:019f3f34-d0eb-7aab-8cd9-ed036686cb85",
+      "time": "2026-07-08 08:50:53",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares reversed earlier losses, trading up 1%."
+    },
+    {
+      "id": "4975234",
+      "time": "2026-07-08 08:50:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【酒價內參7月8日價格釋出：國窖1573飛天茅臺領漲 總價低位小幅反彈】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月8日整體低位小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9892元，較昨日上漲10元，結束此前連續兩日回落走勢。今日除青花郎下跌外，其餘品種均上漲或平盤。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒邊際改善，總價低位震盪格局仍未扭轉。今日11大白酒單品六漲一跌四平，贏家數量佔據優勢。上漲方面，國窖1573漲幅居前，上漲5元/瓶，平近一月最高價紀錄；飛天茅臺上漲4元/瓶，自昨日創下的今年4月23日以來最低處溫和修復；洋河夢之藍M6+上漲2元/瓶，升至近一月次高位；五糧液1618、古井貢古20與水晶劍南春均小幅上漲1元/瓶，其中水晶劍自近一月最低位小幅修復。下跌方面，青花郎為唯一輸家，下跌4元/瓶。精品茅臺、五糧液普五八代、青花汾20與習酒君品價格環比昨日均保持不變，其中五糧液普五八代仍平“酒價內參”自去年11月有統計以來最低，而青花汾20則再平近一月最高紀錄。"
+    },
+    {
+      "id": "4975233",
+      "time": "2026-07-08 08:49:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.1%，德國DAX指數期貨持平，英國富時指數期貨下跌0.4%。"
+    },
+    {
+      "id": "te:markets:565009",
+      "time": "2026-07-08 08:49:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Hits 3-Week High — US gasoline prices rose above $3.0 per gallon, trading at a three-week high, after the US launched fresh strikes against Iran in response to a series of attacks on shipping in the Strait of Hormuz. The US Treasury also revoked a sanctions waiver that had allowed Tehran to sell oil, reversing a key element of the interim peace deal with the Islamic Republic. The escalation heightened concerns over renewed disruptions to global energy markets and challenged earlier expectations of a supply glut, which had been fueled by higher OPEC+ quotas and rising output from Middle Eastern producers. Further supporting gasoline prices, refinery disruptions in Russia added to supply concerns after the country’s largest oil refinery in western Siberia and a major gasoline producer halted operations following a Ukrainian drone strike, one of Kyiv’s longest-range attacks of the conflict."
+    },
+    {
+      "id": "4975232",
+      "time": "2026-07-08 08:49:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本投資者5月份購買韓國債券規模接近歷史最高水平】日本週三公佈的最新國際收支資料顯示，5月份日本投資者購買韓國債券的金額仍接近歷史最高水平。5月份淨購買金額為3,507億日元，此前4月達到創紀錄的3,936億日元。該資料並未提供債券型別的細分資訊。日本投資者5月份買入澳大利亞主權債券金額，達到一年來最高。對德國主權債券淨購買金額升至自11月以來最高。"
+    },
     {
       "id": "4975231",
       "time": "2026-07-08 08:48:45",
