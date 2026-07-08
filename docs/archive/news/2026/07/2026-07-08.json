@@ -1,7 +1,126 @@
 {
   "date": "2026-07-08",
-  "count": 2414,
+  "count": 2425,
   "items": [
+    {
+      "id": "mkt:019f4131-5d6f-7aab-8cea-ed61eeb3303c",
+      "time": "2026-07-08 18:06:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Broadcom (AVGO.O) recouped part of premarket losses and was trading down 0.5% after agreeing with Apple (AAPL.O) to produce more than 15 billion chips."
+    },
+    {
+      "id": "mkt:019f4130-92b9-7aab-8cea-e66135c4c15d",
+      "time": "2026-07-08 18:05:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Xi urges deeper tech‑industry integration at national science and technology awards and CAST congress】Xi attended the National Science and Technology Awards ceremony, the academies' meeting and the 11th National Congress of the China Association for Science and Technology (CAST), and urged deeper integration of technological and industrial innovation to speed the translation of technology into productive capacity. He called for application‑oriented tech innovation and for industry to raise scientific questions; strengthening the national technology‑transfer system; creating diversified application scenarios and high‑level industrial clusters; and promoting the adoption and iterative upgrade of domestically developed technologies and products. He also urged improved intellectual property protection and the establishment of a technology‑finance framework suited to innovation."
+    },
+    {
+      "id": "4976517",
+      "time": "2026-07-08 18:05:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "以色列財政部公佈，截至6月的過去12個月，預算赤字佔國內生產總值(GDP)的3.3%，5月為赤字3.7%。"
+    },
+    {
+      "id": "4976516",
+      "time": "2026-07-08 18:05:13",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點"
+      ],
+      "text": "【習近平出席國家科學技術獎勵大會兩院院士大會中國科協第十一次全國代表大會並發表重要講話】國家科學技術獎勵大會、中國科學院第二十二次院士大會和中國工程院第十八次院士大會、中國科學技術協會第十一次全國代表大會8日上午在人民大會堂隆重召開。中共中央總書記、國家主席、中央軍委主席習近平出席大會，為國家最高科學技術獎獲得者等頒獎並發表重要講話。他強調，“十五五”時期是科技強國建設的關鍵攻堅期。必須抓住歷史機遇，迎接時代挑戰，加快推進高水平科技自立自強，向著到2035年建成科技強國的目標堅定邁進，紮紮實實以科技創新支撐和引領中國式現代化。李強主持大會，趙樂際、王滬寧、蔡奇、李希出席大會，丁薛祥宣讀獎勵決定。上午10時30分，大會開始，全場起立，高唱國歌。丁薛祥宣讀《中共中央、國務院關於2025年度國家科學技術獎勵的決定》。儀式號角響起，習近平首先向獲得2025年度國家最高科學技術獎的中國科學院物理研究所陳立泉院士和中國電子科技集團第十四研究所賁德院士頒發獎章、證書，同他們熱情握手錶示祝賀。隨後，習近平等黨和國家領導人同兩位最高獎獲得者一道，為獲得國家自然科學獎、國家技術發明獎、國家科學技術進步獎和中華人民共和國國際科學技術合作獎的代表頒發證書。在熱烈的掌聲中，習近平發表重要講話。他指出，黨的十八大以來，黨中央把科技創新擺在現代化建設突出位置，系統擘畫科技強國建設藍圖，深入推動實施創新驅動發展戰略，全面深化科技體制改革，推動科技事業取得歷史性成就、發生歷史性變革。我國正從全球科技參與者、貢獻者向開拓者、引領者加速轉變，成為創新力上升最快的國家之一。習近平強調，新一輪科技革命和產業變革深刻改變人類生產生活方式和世界發展格局。我們要適應新形勢新要求，採取更加有力的措施，切實解決我國科技發展中存在的問題，全力抓好黨中央關於科技事業各項部署的落實。(央視新聞)"
+    },
+    {
+      "id": "4976515",
+      "time": "2026-07-08 18:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮稱，立陶宛若解除部署核武禁令，不會因此變得更安全。"
+    },
+    {
+      "id": "te:markets:565247",
+      "time": "2026-07-08 18:03:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Dips Further — The DAX 40 extended losses to over 2% on Wednesday, trading at more than one-week lows, following President Trump's harsh remarks on Iran. US President Trump said at the NATO summit that he believes the US-Iran memorandum of understanding is \"over\", adding that negotiations with Tehran are a waste of time. Market sentiment was already fragile after the US and Iran exchanged attacks and Washington reinstated sanctions on Iran's oil sector following alleged attacks on three ships in the Strait of Hormuz. Losses were widespread, with banks, autos, software, technology, industrials, and consumer discretionary stocks leading the downturn, while utilities remained the lone bright spot."
+    },
+    {
+      "id": "4976514",
+      "time": "2026-07-08 18:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "博通美股盤前轉漲，此前一度跌近3%。"
+    },
+    {
+      "id": "te:economy:565246",
+      "time": "2026-07-08 18:03:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 6-week High — Canada 10 Year Government Bond Yield increased to 3.55%, the highest since May 2026. Over the past 4 weeks, Canada 10Y Bond Yield lost 3.60 basis points, and in the last 12 months, it increased 5.50 basis points."
+    },
+    {
+      "id": "mkt:019f412d-c8f5-7aab-8cea-df90c3f55d18",
+      "time": "2026-07-08 18:02:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O): Broadcom to invest $1.5 billion to expand its facility in Collinsburg."
+    },
+    {
+      "id": "mkt:019f412d-67ed-7aab-8cea-d00252d5525d",
+      "time": "2026-07-08 18:02:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) said the new multi-year agreement includes expansion of its Fort Collins, Colorado facility."
+    },
+    {
+      "id": "4976512",
+      "time": "2026-07-08 18:01:30",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果(AAPL.O)：公司與博通(AVGO.O)新簽訂的多年期協議，該協議預計將超過300億美元，生產超過150億顆美國製造的晶片。新的多年期協議還包括對科羅拉多州柯林斯堡設施的擴建。博通將投資15億美元擴建柯林斯堡的設施。"
+    },
     {
       "id": "mkt:019f412c-bff3-7aab-8cea-c8b1dcf4601e",
       "time": "2026-07-08 18:01:19",
