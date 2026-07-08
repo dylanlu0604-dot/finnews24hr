@@ -1,7 +1,100 @@
 {
   "date": "2026-07-08",
-  "count": 2359,
+  "count": 2370,
   "items": [
+    {
+      "id": "mkt:019f4122-504b-7aab-8cea-64a06216613f",
+      "time": "2026-07-08 17:49:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deutsche Bank: German reforms welcomed by firms but gaps remain】Deutsche Bank analysts Marion Muehlberger and Ursula Walther say firms view Germany’s recent reform package, outlined last week, as a positive step though many want further measures. The package includes tax and pension changes, cuts to administrative approvals and more flexible labour rules. Analysts say the measures could boost business confidence and improve Germany’s competitiveness. Business groups flagged missing reforms on wage costs and social‑security contributions, corporate taxation and broader working‑time flexibility. The analysts said implementation capacity will be critical and that rapid implementation in the autumn is key."
+    },
+    {
+      "id": "4976480",
+      "time": "2026-07-08 17:49:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長江、漢江等河流水位持續上漲，武漢啟動防汛四級應急響應】 受連續降雨和上游來水影響，武漢市長江、漢江和中小河流水位持續上漲。至7月7日22時，長江漢口站已達設防水位25米，舉水、灄水、倒水、府澴河、沙河已達設防水位或接近設防水位。後續受9號颱風“巴威”影響，將帶來新一輪強降雨，長江、漢江和中小河流水位仍可能上漲。根據《武漢市城市防洪應急總體預案》，經武漢市防辦會商研究，定於7月8日12時啟動防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "4976479",
+      "time": "2026-07-08 17:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 歐盟批准北歐渡輪基礎設施/GOTLANDSBOLAGET/EQT協議"
+    },
+    {
+      "id": "4976478",
+      "time": "2026-07-08 17:48:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：因未能將網路安全規則轉化為國內法，將愛爾蘭、西班牙、法國和荷蘭訴至歐洲法院。"
+    },
+    {
+      "id": "4976477",
+      "time": "2026-07-08 17:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【訊息稱臺積電大幅擴充套件PIC產能 預計2028年將達到每月2.5萬片】據機構預測，臺積電光子積體電路（PIC）的產能將迎來快速攀升。臺積電產能將從目前約每月500片的水平，拉昇至2026年第二季度的每月1萬片，第四季度將進一步提高至每月1.5萬片，並預計在2028年增至至少每月2.5萬片。機構估算，若按每片晶圓包含648顆裸片（die）計算，臺積電PIC月產能從500片提升至1萬片後，其年化產出量將由約400萬顆大幅提升至7800萬顆。若產能進一步達到每月2.5萬片，年化PIC產出量預計將達到1.94億顆。(臺灣工商時報)"
+    },
+    {
+      "id": "mkt:019f4120-9075-7aab-8cea-5bde5ffa7777",
+      "time": "2026-07-08 17:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Commission has referred Ireland, Spain, France and the Netherlands to the European Court of Justice for failing to implement EU cybersecurity rules."
+    },
+    {
+      "id": "4976476",
+      "time": "2026-07-08 17:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特巴哈里航運表示維迪安號油輪可正常航行。"
+    },
+    {
+      "id": "mkt:019f411f-e8fc-7aab-8cea-571d202b4d81",
+      "time": "2026-07-08 17:47:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indonesian Finance Ministry official said the planned international financial centre project is expected to attract up to IDR 500 trillion in investment."
+    },
+    {
+      "id": "4976475",
+      "time": "2026-07-08 17:46:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部官員：國際金融中心專案預計將吸引高達500萬億印尼盾的投資。"
+    },
+    {
+      "id": "4976474",
+      "time": "2026-07-08 17:46:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：天數智芯以每股 476 港元至 498.40 港元的價格發行股份。"
+    },
+    {
+      "id": "te:markets:565238",
+      "time": "2026-07-08 17:46:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hermes International Stock Price Hits 4-week Low — Hermes International shares decreased to 1573.00 EUR, the lowest since June 2026. Over the past 4 weeks, Hermes International lost 5.52%, and in the last 12 months, it decreased 35.35%."
+    },
     {
       "id": "4976473",
       "time": "2026-07-08 17:45:43",
