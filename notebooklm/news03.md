@@ -1,7 +1,230 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-09 05:19:16_
-_本檔包含 3085 則快訊，約 600394 字_
+_更新時間：2026-07-09 06:37:53_
+_本檔包含 3076 則快訊，約 600674 字_
+
+---
+
+### 2026-07-07 04:19:16  #公司 #國際
+
+【加密貨幣暴跌之際 困境資產投資基金探討置換Strategy優先股持倉】逢低買入Strategy Inc.優先股的困境資產投資基金正與該公司一家投行顧問洽談，擬將所持優先股換成其他證券。隨著加密貨幣持續暴跌令這家大量囤積比特幣的公司處境日益艱難，這些基金將該方案稱作雙贏安排。知情人士稱，這些投資者已與Moelis & Co.商討將其持倉折價換成其他優先股，或者可能換成普通股。Strategy普通股過去一年已暴跌約75%。知情人士稱，任何潛在交易都可能透過所謂的3(a)(9)條款完成。該條款允許企業不經美國證券交易委員會（SEC）正式註冊，即可置換證券。
+
+---
+
+### 2026-07-07 04:14:33  #MKT News
+
+Prime Minister Carney said if talks with Germany's TKMS fail, Canada will reserve the right to open submarine cooperation negotiations with South Korea's Hanwha Group.
+
+---
+
+### 2026-07-07 04:13:54  #公司 #國際
+
+加拿大總理卡尼： 若與蒂森克虜伯海事系統公司（TKMS）談判失敗，加拿大保留與韓國韓華集團重啟洽談的權利。
+
+---
+
+### 2026-07-07 04:13:11  #MKT News #TKA.DE #Impact bullish
+
+Prime Minister Carney said German firm TKMS has been selected as the preferred supplier for Canada’s 12-submarine procurement program.
+
+---
+
+### 2026-07-07 04:12:49  #公司
+
+加拿大總理卡尼宣佈，德國蒂森克虜伯海事系統公司（TKMS）成為加拿大 12 艘潛艇建造專案的優先供應商。
+
+---
+
+### 2026-07-07 04:11:43  #其他
+
+市場訊息：Thrive Holdings融資大約20億美元。
+
+---
+
+### 2026-07-07 04:11:35  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise as Chipmakers Rally — US stock indices closed higher on Monday on strong gains in semiconductor stocks. The S&P 500 added 0.7%, the Nasdaq 100 rose 1.3%, and the Dow closed at a record high of 53,056. Chipmakers rallied ahead of Samsung's sales update and SK Hynix's ADR issuance on Friday. Broadcom rose 3.7% after extending its partnership with Apple (+1.3%). Nvidia gained 0.4% after its assembly partner Hon Hai Precision Industry signaled that AI demand continues to strengthen. Micron rose 0.9%, AMD surged 6.6%, and Intel added 1.5%. The gains extended a volatile period for chip stocks, as investors continue to weigh rising competition, potential overcapacity, and the returns on AI-related investments. On the data front, the US services sector expanded at a slightly slower pace in June, while firms increased hiring as cost pressures eased. Investors await minutes from the Fed's latest policy meeting on Wednesday for clues on how policymakers are balancing inflation and labor market risks.
+
+---
+
+### 2026-07-07 04:11:29  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【CFTC: Hedge funds' yen net shorts highest since 2007】CFTC data show hedge funds increased net short positions in yen futures and options to about 138,000 contracts in the week to June 30, the most bearish positioning since 2007. The yen fell to its weakest since 1986, slipping below 162 per dollar, fueling renewed expectations of Japanese FX intervention; Japan's finance minister reiterated authorities can intervene at any time and Tokyo deployed record-sized support in late April–May. Markets view a widening US–Japan rate gap as the main driver of yen pressure, and say recent BOJ rate hikes have not reversed the weakness.
+
+---
+
+### 2026-07-07 04:06:13  #公司
+
+維特生物將以每股85美元的現金對價收購Crinetics製藥公司。
+
+---
+
+### 2026-07-07 04:05:48  #國際
+
+美國鋼鐵協會（AISI）：截至 7 月 4 日當週，美國鋼鐵產能利用率為 80.4%。
+
+---
+
+### 2026-07-07 04:05:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+An Israeli official said Israel would retain the option to carry out military strikes against Iran even if the U.S. reaches an agreement with Tehran.
+
+---
+
+### 2026-07-07 04:04:47  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+CFTC: Traders' overall positioning toward the dollar has risen to its most optimistic level since 2015.
+
+---
+
+### 2026-07-07 04:04:23  #Trading Economics #Economy #Colombia #Producer Prices Change #Importance 1
+
+Colombia PPI Growth Slows in June — Colombia's Producer Price Index rose 3.3% year-on-year in June 2026, easing sharply from a 6.8% increase in May and marking the slowest annual producer inflation since February. Prices of goods produced for domestic consumption increased 4.99% from a year earlier, while export prices fell 1.86%. Among the main sectors, agriculture, livestock, and fishing recorded the strongest annual increase, rising 8.46%, while mining and manufacturing prices advanced 1.95% and 1.94%, respectively. The largest upward contributions came from pome and stone fruits (23.88%), raw, semi-manufactured or powdered gold (18.22%), and citrus fruits (78.03%). In contrast, coffee (-30.73%), green coffee (-21.97%), and ethyl alcohol and other denatured alcohols (-27.75%) were the main drags on the index. On a monthly basis, producer prices fell 3.49% in June.
+
+---
+
+### 2026-07-07 04:03:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500
+
+U.S. equity close on Monday, July 6: Dow Jones Industrial Average +155.84 pts (+0.29%) to 53,055.91; S&P 500 +54.18 pts (+0.72%) to 7,537.42; Nasdaq Composite +288.49 pts (+1.12%) to 26,121.16.
+
+---
+
+### 2026-07-07 04:03:03  #國際
+
+訊息人士：美國網路防禦機構CISA正使用Anthropic的人工智慧工具來審計政府程式碼。CISA在使用人工智慧工具審計政府程式碼過程中，已發現多處漏洞。
+
+---
+
+### 2026-07-07 04:02:37  #MKT News
+
+Sources said U.S. cybersecurity agency CISA is using ANTHROPIC's AI tools to audit government code and has identified multiple vulnerabilities during those AI-assisted audits.
+
+---
+
+### 2026-07-07 04:01:48  #MKT News #Important #Market Themes #Chip Wars #WDC.O #Impact bullish #AVGO.O #ASML.O
+
+【US stocks close higher; chip stocks lead gains】US stocks closed higher on Monday: the Dow Jones Industrial Average rose 0.3%, the S&P 500 gained 0.7% and the Nasdaq Composite climbed 1.1%. Semiconductor-linked names led the advance: Western Digital (WDC.O) +7%, Broadcom (AVGO.O) +3.7%, ASML (ASML.O) +3%; Micron Technology (MU.O) and Intel (INTC.O) around +1%. The Nasdaq Golden Dragon China Index rose 1.7%; NIO (NIO.N) advanced 4.7%.
+
+---
+
+### 2026-07-07 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.73%，納指漲1.12%。Arista Networks漲8.25%，西部資料漲7.14%，AMD漲6.61%。“七姐妹”方面：特斯拉漲6.69%，Meta Platforms漲3.03%，谷歌漲2.38%，蘋果漲1.33%，亞馬遜漲0.61%，英偉達漲0.34%，微軟跌0.92%。
+
+---
+
+### 2026-07-07 04:00:01  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.80%】愛奇藝漲6.44%，復朗集團漲5.84%，新氧漲5.52%，水滴公司漲5.42%，BOSS直聘漲5.15%。
+
+---
+
+### 2026-07-07 03:55:41  #MKT News
+
+【Algeria preliminary lower-house results: FLN leads】Algeria’s National Independent Electoral Authority on the 6th published preliminary counts from the election held on the 2nd for the People’s National Assembly, showing the ruling National Liberation Front (FLN) leading with 90 of 407 seats. These preliminary results are subject to review by the Constitutional Court, which will announce the final outcome.
+
+---
+
+### 2026-07-07 03:50:09  #其他
+
+【阿爾及利亞國民議會選舉初步結果：民族解放陣線領先】阿爾及利亞全國獨立選舉委員會6日公佈初步統計結果，阿爾及利亞執政黨民族解放陣線在2日舉行的國民議會（眾議院）選舉中領先，在共計407個席位中獲得90席。根據阿爾及利亞選舉程式，全國獨立選舉委員會公佈的初步結果仍需經憲法法院審查，並由憲法法院宣佈最終結果。（新華社）
+
+---
+
+### 2026-07-07 03:49:51  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：截至 6 月 30 日，投機者大幅增持美元多頭持倉，對美元的看漲情緒達到 2015 年以來最高水平。
+
+---
+
+### 2026-07-07 03:47:09  #MKT News #Commodities #Energy #WTI #Brent
+
+Ontario Premier Ford said new cross-border oil pipelines would cut dependence on foreign energy and help Canada achieve energy self-sufficiency and become an "energy superpower".
+
+---
+
+### 2026-07-07 03:42:50  #國際
+
+巴勒斯坦總統顧問：多個權力中心或治理實體的存在將破壞國家基礎。如果哈馬斯是認真的，就應徹底放棄治理權力。
+
+---
+
+### 2026-07-07 03:41:55  #MKT News #USDJPY #Impact bullish
+
+CFTC: hedge funds' net short positions in the yen rose to their most bearish level since 2007.
+
+---
+
+### 2026-07-07 03:40:30  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：截至 6 月 30 日當週，對沖基金對日元的看空程度創 2007 年以來新高。
+
+---
+
+### 2026-07-07 03:39:29  #MKT News
+
+Adviser to the Palestinian president said the existence of multiple centers of power or governing entities will undermine the foundations of the state.
+
+---
+
+### 2026-07-07 03:39:29  #MKT News
+
+An adviser to the Palestinian president said that if Hamas is serious, it should fully relinquish governing authority.
+
+---
+
+### 2026-07-07 03:34:55  #MKT News #Commodities #Precious Metals
+
+【Collapse at northern Sudan gold mine kills 15, injures one】Khartoum — Sudan Mineral Resources Company said on the 6th that a collapse at the abandoned Muhammad Tawfiq gold mine in the Wadi Halfa area of Northern State, near the Egyptian border, killed 15 miners and injured one.
+
+---
+
+### 2026-07-07 03:33:30  #MKT News
+
+【Axios: Netanyahu asks Trump to rein in Erdogan】Axios reports Prime Minister Netanyahu phoned President Trump ahead of the NATO summit, urging the US to rein in President Erdogan and to block military sales to Turkey, including F-35 jets and associated engines, on grounds that upgraded Turkish air capabilities could shift the regional military balance. Trump received the request but it is unclear whether he will press Erdogan; US officials are weighing whether to resume F-35 deliveries while Turkey still operates Russian S-400 air defenses.
+
+---
+
+### 2026-07-07 03:33:26  #國際
+
+【在美上市新興市場ETF吸金驟減】上週，投資者連續第三週湧入投資於新興市場股票和債券的交易所交易基金（ETF）。資料顯示，截至7月2日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額為494萬美元，較前一週流入規模4.8億美元驟減約99%。今年迄今為止，資金流入總計418億美元。韓國流出規模最大，為3.682億美元，其中iShares MSCI South Korea遭遇撤資。
+
+---
+
+### 2026-07-07 03:33:02  #MKT News #Commodities #Energy
+
+U.S. Commodity Futures Trading Commission (CFTC) said speculators in four major NYMEX and ICE natural gas contracts turned net long 8,963 contracts in the week to June 30, up 11,147 contracts.
+
+---
+
+### 2026-07-07 03:32:42  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，覆蓋紐約商品交易所、洲際交易所四大主要市場的天然氣投機資金持倉由淨空轉為淨多，淨多頭持倉達 8963 手，增持規模 11147 手。
+
+---
+
+### 2026-07-07 03:32:29  #公司 #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 30 日當週，股票基金經理減持芝加哥商業交易所標普 500 指數期貨淨多頭頭寸 8851 手，淨多頭持倉降至 979126 手。
+削減標普 500 指數期貨淨空頭頭寸 7187 手，淨空頭持倉降至 348482 手。
+
+---
+
+### 2026-07-07 03:32:14  #MKT News #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
+
+CFTC: Speculators held net short 155,092 contracts in Japanese yen, net long 1,099 contracts in the euro and net short 102,147 contracts in the British pound for the week ended June 30.
+
+---
+
+### 2026-07-07 03:32:02  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+CFTC data: Speculators cut WTI crude net long by 3,299 contracts to 85,187 in the week to June 30.
+
+---
+
+### 2026-07-07 03:31:54  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+CFTC: For the week to June 30, speculators cut net short positions in CBOT ultra‑long U.S. Treasury futures by 31,431 contracts to 286,669; cut 10‑year Treasury futures net shorts by 26,375 contracts to 808,891; cut 2‑year Treasury futures net shorts by 31,265 contracts to 1,287,581; cut aggregate U.S. Treasury futures net short by 85,263 contracts to 90,780. Five‑year Treasury futures net shorts rose by 19,241 contracts to 1,320,510.
 
 ---
 
@@ -18354,281 +18577,5 @@ Syrian president says he looks forward to establishing a relationship with the U
 ### 2026-07-05 02:24:30  #MKT News
 
 【White supremacist demonstrators protest on Capitol Hill】On the 250th anniversary of US Independence, demonstrators wearing insignia of the white supremacist group "Patriot Front" staged protests at Eastern Market and around Capitol Hill. Participants, some wearing white masks, sunglasses and khaki caps bearing the group's emblem, marched near the Capitol and Union Station carrying Confederate flags, "Patriot Front" flags and inverted US flags, and chanted slogans including "Life, Liberty, Victory!" and "Take back America!"
-
----
-
-### 2026-07-05 02:17:18  #MKT News
-
-【Venezuela earthquake death toll rises to 2,954】Data released by Venezuelan authorities on the 4th show two recent strong earthquakes have killed 2,954 people.
-
----
-
-### 2026-07-05 02:17:17  #其他
-
-【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）
-
----
-
-### 2026-07-05 02:09:56  #MKT News
-
-【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the "security zone" in southern Lebanon.
-
----
-
-### 2026-07-05 02:09:42  #國際
-
-【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）
-
----
-
-### 2026-07-05 02:04:32  #國際
-
-伊朗最高領袖辦公室親信、強硬派阿里雷扎·帕納希安稱，德黑蘭應當不惜犧牲全部國家利益，為哈梅內伊復仇。
-
----
-
-### 2026-07-05 02:02:07  #MKT News
-
-Russia's Security Council deputy chairman Medvedev says Russia is willing to continue developing a strategic partnership with Iran.
-
----
-
-### 2026-07-05 02:01:28  #國際
-
-俄羅斯聯邦安全會議副主席梅德韋傑夫：俄羅斯願繼續同伊朗發展戰略伙伴關係。
-
----
-
-### 2026-07-05 01:53:41  #MKT News
-
-【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action.
-
----
-
-### 2026-07-05 01:51:58  #MKT News #Brent #Impact bearish #XAUUSD #DXY
-
-Israel's Channel 15, citing sources, reported that US President Trump has urged against escalation in Lebanon to avoid hindering his communications with Iran.
-
----
-
-### 2026-07-05 01:51:18  #MKT News
-
-【Immersive 'Jinlv Shiguang' tourism train adds July service linking Beijing, Tianjin, Hebei】From July 4, the immersive cultural-tourism train Jinlv Shiguang will operate a new Beijing–Tianjin–Hebei route, adding Guangyang station (Langfang, Hebei) and Tanggu station (Tianjin Binhai New Area) to the existing Beijing–Tianjin service. The weekend-and-holiday service is jointly run by Tianjin Tourism (Holding) Group and China Railway Beijing Group and is presented as part of efforts to advance Jing-Jin-Ji coordinated development and deepen transport–tourism integration.
-
----
-
-### 2026-07-05 01:51:12  #市場 #焦點
-
-以太坊升破1800美元，日內漲2.43%。
-
----
-
-### 2026-07-05 01:50:12  #國際
-
-訊息人士：特朗普要求以色列不要激化黎巴嫩局勢，以免阻礙其與伊朗開展的溝通。
-
----
-
-### 2026-07-05 01:49:39  #公司
-
-【“津旅時光號”7月線路上新串聯京津冀】為深度服務京津冀文旅協同發展，7月4日起，沉浸式文旅專列“津旅時光號”正式開行京津冀全新線路。 新線路在已開通京津線路的基礎上，增加廣陽站（位於河北省廊坊市）及塘沽站（位於天津市濱海新區），每週末及節假日開行，實現京津冀三地文旅資源互通互聯。 這條新線路由天津市旅遊（控股）集團有限公司與中國鐵路北京局集團有限公司聯合打造，是落實京津冀協同發展戰略、推動交通與文旅深度融合的創新實踐。（新華社）
-
----
-
-### 2026-07-05 01:44:41  #MKT News
-
-【Russia offers to hand over bodies of fallen Ukrainian soldiers, asks Ukraine to halt shelling of Konstantinovka】On the 4th local time the Russian Defence Ministry said it was prepared to carry out a humanitarian operation to hand over bodies of Ukrainian soldiers killed in action and proposed Ukraine suspend shelling of Konstantinovka from 12:00 to 18:00 Moscow time on the 6th. Russia said Ukraine must decide on the handover by 12:00 Moscow time on the 5th; Ukraine had made no immediate response.
-
----
-
-### 2026-07-05 01:42:59  #國際
-
-【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）
-
----
-
-### 2026-07-05 01:35:46  #MKT News
-
-Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon.
-
----
-
-### 2026-07-05 01:35:43  #市場
-
-比特幣重回63000美元關口。
-
----
-
-### 2026-07-05 01:34:59  #國際
-
-以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。
-
----
-
-### 2026-07-05 01:34:42  #國際
-
-以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。
-
----
-
-### 2026-07-05 01:17:36  #國際
-
-【數百名疑似白人至上組織愛國者陣線成員在華盛頓遊行】數百名身著統一制服、疑似白人至上主義組織 “愛國者陣線” 的成員在華盛頓特區遊行，朝著國會大廈行進。這群男子全都戴著白色面罩，手持各式旗幟 —— 部分旗幟倒置，還有邦聯旗幟，同時高喊口號：“奪回美國！”
-
----
-
-### 2026-07-05 01:14:48  #MKT News
-
-【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time.
-
----
-
-### 2026-07-05 01:13:03  #MKT News
-
-【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan.
-
----
-
-### 2026-07-05 01:11:13  #MKT News
-
-A US official said several senior aides to Trump believe Netanyahu has misjudged every issue.
-
----
-
-### 2026-07-05 01:10:15  #MKT News
-
-U.S. President Trump said he was surprised Iranians were crying at Khamenei's funeral because he had expected people to dislike him, and suggested the displays might be fake tears.
-
----
-
-### 2026-07-05 01:05:47  #公司
-
-【若伯納姆出任英國首相 米利班德的去向或成定義其執政路線的關鍵】隨著安迪·伯納姆權衡，一旦出任英國首相將如何任命核心團隊，一項頗具爭議的決定可能會定義他的任期：埃德·米利班德將擔任怎樣的角色。米利班德曾任工黨領袖，工黨在他帶領下於2015年敗選，如今在基爾·斯塔默政府中擔任頗具影響力的能源大臣。他在推動伯納姆逼近權力頂峰的過程中發揮了關鍵作用，協助促成斯塔默出局，並就經濟政策向這位可能的繼任者提供建議。這使米利班德成為博彩公司眼中接替蕾切爾·裡夫斯出任英國財政大臣的頭號熱門，也引發投資者不安。他們擔心，米利班德會推動政府向左轉，並增加借貸規模。此外，許多工黨議員也擔心，把政府中權力第二大的職位交給一位曾帶領工黨敗選、且與淨零政策聯絡緊密的人，可能帶來政治後果，而這些淨零政策已在一定程度上促使部分選民轉向英國改革黨。埃克塞特大學政治經濟學教授Harry Pitts表示，任命米利班德將被視為爭取左翼選民、而非民粹右翼選民的一項戰略舉措。“這是一個關鍵決定，”他說，“最終可能會成為外界定義伯納姆整體路線的關鍵。”
-
----
-
-### 2026-07-05 01:02:14  #MKT News #Important
-
-【Iran envoy in Beijing says Tehran will charge Strait of Hormuz transit service fees under international norms】Abdolreza Rahmani Fazli told media in Beijing during the World Peace Forum that Iran plans to levy service fees for Strait of Hormuz transit in line with international practice. He said transit had been unimpeded prior to the outbreak of hostilities involving the US, Israel and Iran; Tehran has not announced tariffs but intends fees to cover navigation safety, pilotage and environmental protection costs, consistent with other international waterways. Fazli added the strait's traffic is gradually returning to normal and the Iran‑Oman jointly managed channel is restoring order.
-
----
-
-### 2026-07-05 01:01:35  #國際
-
-特朗普政府為數百萬18歲以下美國兒童推出新型投資賬戶：符合條件的新生兒可一次性獲得1000美元聯邦撥款，同時家庭與企業僱主可後續持續追加存入資金。
-
----
-
-### 2026-07-05 01:00:41  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks.
-
----
-
-### 2026-07-05 00:59:47  #國際
-
-在伊朗領袖哈梅內伊的葬禮現場，出現一塊手寫標語牌，上面寫著： “我們要殺死特朗普。”
-
----
-
-### 2026-07-05 00:59:05  #國際
-
-美方一名官員透露： 特朗普身邊多位核心幕僚都認為，內塔尼亞胡在所有事務上都判斷失誤。
-
----
-
-### 2026-07-05 00:58:31  #國際
-
-特朗普稱伊朗正“迫切想要達成協議”，但雙方商定暫停核談判一週，待哈梅內伊葬禮相關事宜全部結束後再重啟。 他補充表示，休談期間雙方不會互相發動襲擊。
-
----
-
-### 2026-07-05 00:58:12  #MKT News
-
-Iran said it thanked national delegations for resisting external "pressure and intimidation" and attending the funeral of Supreme Leader Khamenei.
-
----
-
-### 2026-07-05 00:57:39  #焦點 #國際
-
-【伊朗駐華大使：計劃按國際通行標準對霍爾木茲海峽通航收服務費】伊朗駐華大使阿卜杜勒雷扎·拉赫馬尼·法茲裡4日在北京出席第十四屆世界和平論壇期間接受媒體採訪時表示，伊朗計劃按照國際通行標準對霍爾木茲海峽通航收取服務費。法茲裡表示，在美以伊戰爭爆發前，霍爾木茲海峽通航一直暢通無阻。目前，伊朗也沒有說要收(通行)費或關稅，而是計劃按照國際通行標準收取服務費，用於保障通航安全、導航以及環境保護等常規開支，此舉與世界上其他水道的做法一致。關於霍爾木茲海峽當前狀況，法茲裡說，目前該海峽通航正逐步恢復正常，伊朗與阿曼共同管理的通道正在重建秩序。
-
----
-
-### 2026-07-05 00:56:38  #國際
-
-伊朗感謝各國代表團不懼“施壓與恐嚇”，出席領袖哈梅內伊的葬禮。
-
----
-
-### 2026-07-05 00:54:01  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
-
-Trump: US and Iran have agreed to pause talks for one week. Until matters related to Khamenei's funeral conclude, the US and Iran will not fire on each other.
-
----
-
-### 2026-07-05 00:52:21  #焦點 #國際
-
-特朗普：哈梅內伊葬禮相關事宜結束前，美伊雙方互不交火。
-
----
-
-### 2026-07-05 00:51:58  #國際
-
-特朗普：美國和伊朗決定暫停會談一週。
-
----
-
-### 2026-07-05 00:51:25  #MKT News #Important
-
-【Netanyahu may visit White House after NATO summit, Trump says】Axios reports President Trump said Israeli Prime Minister Netanyahu has requested a White House meeting, possibly as soon as next week after Trump finishes the NATO summit. Trump said “we get along well” and that Netanyahu “knows who’s boss.”
-
----
-
-### 2026-07-05 00:49:34  #國際
-
-市場資訊：特朗普對部分伊朗民眾在哈梅內伊葬禮上落淚一事感到意外。
-
----
-
-### 2026-07-05 00:48:56  #MKT News #Market Regions #Europe & UK
-
-RUSSIAN DEFENCE MINISTRY said Russia proposed a six-hour ceasefire in Konstantinovka on Monday to facilitate transfer of bodies and expects Ukraine to respond by Sunday midday.
-
----
-
-### 2026-07-05 00:48:40  #焦點 #國際
-
-【內塔尼亞胡擬造訪白宮，特朗普稱其“清楚誰才是主事之人”】特朗普週六接受採訪時透露，以色列總理內塔尼亞胡主動請求前往白宮與他會晤；特朗普出席北約峰會歸國後，雙方最早下週便可會面。特朗普表示：“我們相處得很不錯，內塔尼亞胡心裡清楚誰才是主事的人。”
-
----
-
-### 2026-07-05 00:47:47  #國際
-
-特朗普：內塔尼亞胡“知道誰才是老大”。
-
----
-
-### 2026-07-05 00:47:19  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump and Netanyahu could meet as early as next week.
-
----
-
-### 2026-07-05 00:46:20  #焦點 #國際
-
-特朗普與內塔尼亞胡或最早於下週舉行會晤。
-
----
-
-### 2026-07-05 00:46:12  #MKT News
-
-Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action.
-
----
-
-### 2026-07-05 00:39:48  #MKT News
-
-TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision.
 
 ---

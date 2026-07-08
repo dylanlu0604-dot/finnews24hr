@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-09 05:19:16_
-_本檔包含 2915 則快訊，約 600550 字_
+_更新時間：2026-07-09 06:37:53_
+_本檔包含 2931 則快訊，約 600324 字_
+
+---
+
+### 2026-07-05 02:17:18  #MKT News
+
+【Venezuela earthquake death toll rises to 2,954】Data released by Venezuelan authorities on the 4th show two recent strong earthquakes have killed 2,954 people.
+
+---
+
+### 2026-07-05 02:17:17  #其他
+
+【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）
+
+---
+
+### 2026-07-05 02:09:56  #MKT News
+
+【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the "security zone" in southern Lebanon.
+
+---
+
+### 2026-07-05 02:09:42  #國際
+
+【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）
+
+---
+
+### 2026-07-05 02:04:32  #國際
+
+伊朗最高領袖辦公室親信、強硬派阿里雷扎·帕納希安稱，德黑蘭應當不惜犧牲全部國家利益，為哈梅內伊復仇。
+
+---
+
+### 2026-07-05 02:02:07  #MKT News
+
+Russia's Security Council deputy chairman Medvedev says Russia is willing to continue developing a strategic partnership with Iran.
+
+---
+
+### 2026-07-05 02:01:28  #國際
+
+俄羅斯聯邦安全會議副主席梅德韋傑夫：俄羅斯願繼續同伊朗發展戰略伙伴關係。
+
+---
+
+### 2026-07-05 01:53:41  #MKT News
+
+【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action.
+
+---
+
+### 2026-07-05 01:51:58  #MKT News #Brent #Impact bearish #XAUUSD #DXY
+
+Israel's Channel 15, citing sources, reported that US President Trump has urged against escalation in Lebanon to avoid hindering his communications with Iran.
+
+---
+
+### 2026-07-05 01:51:18  #MKT News
+
+【Immersive 'Jinlv Shiguang' tourism train adds July service linking Beijing, Tianjin, Hebei】From July 4, the immersive cultural-tourism train Jinlv Shiguang will operate a new Beijing–Tianjin–Hebei route, adding Guangyang station (Langfang, Hebei) and Tanggu station (Tianjin Binhai New Area) to the existing Beijing–Tianjin service. The weekend-and-holiday service is jointly run by Tianjin Tourism (Holding) Group and China Railway Beijing Group and is presented as part of efforts to advance Jing-Jin-Ji coordinated development and deepen transport–tourism integration.
+
+---
+
+### 2026-07-05 01:51:12  #市場 #焦點
+
+以太坊升破1800美元，日內漲2.43%。
+
+---
+
+### 2026-07-05 01:50:12  #國際
+
+訊息人士：特朗普要求以色列不要激化黎巴嫩局勢，以免阻礙其與伊朗開展的溝通。
+
+---
+
+### 2026-07-05 01:49:39  #公司
+
+【“津旅時光號”7月線路上新串聯京津冀】為深度服務京津冀文旅協同發展，7月4日起，沉浸式文旅專列“津旅時光號”正式開行京津冀全新線路。 新線路在已開通京津線路的基礎上，增加廣陽站（位於河北省廊坊市）及塘沽站（位於天津市濱海新區），每週末及節假日開行，實現京津冀三地文旅資源互通互聯。 這條新線路由天津市旅遊（控股）集團有限公司與中國鐵路北京局集團有限公司聯合打造，是落實京津冀協同發展戰略、推動交通與文旅深度融合的創新實踐。（新華社）
+
+---
+
+### 2026-07-05 01:44:41  #MKT News
+
+【Russia offers to hand over bodies of fallen Ukrainian soldiers, asks Ukraine to halt shelling of Konstantinovka】On the 4th local time the Russian Defence Ministry said it was prepared to carry out a humanitarian operation to hand over bodies of Ukrainian soldiers killed in action and proposed Ukraine suspend shelling of Konstantinovka from 12:00 to 18:00 Moscow time on the 6th. Russia said Ukraine must decide on the handover by 12:00 Moscow time on the 5th; Ukraine had made no immediate response.
+
+---
+
+### 2026-07-05 01:42:59  #國際
+
+【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）
+
+---
+
+### 2026-07-05 01:35:46  #MKT News
+
+Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon.
+
+---
+
+### 2026-07-05 01:35:43  #市場
+
+比特幣重回63000美元關口。
+
+---
+
+### 2026-07-05 01:34:59  #國際
+
+以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。
+
+---
+
+### 2026-07-05 01:34:42  #國際
+
+以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。
+
+---
+
+### 2026-07-05 01:17:36  #國際
+
+【數百名疑似白人至上組織愛國者陣線成員在華盛頓遊行】數百名身著統一制服、疑似白人至上主義組織 “愛國者陣線” 的成員在華盛頓特區遊行，朝著國會大廈行進。這群男子全都戴著白色面罩，手持各式旗幟 —— 部分旗幟倒置，還有邦聯旗幟，同時高喊口號：“奪回美國！”
+
+---
+
+### 2026-07-05 01:14:48  #MKT News
+
+【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time.
+
+---
+
+### 2026-07-05 01:13:03  #MKT News
+
+【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan.
+
+---
+
+### 2026-07-05 01:11:13  #MKT News
+
+A US official said several senior aides to Trump believe Netanyahu has misjudged every issue.
+
+---
+
+### 2026-07-05 01:10:15  #MKT News
+
+U.S. President Trump said he was surprised Iranians were crying at Khamenei's funeral because he had expected people to dislike him, and suggested the displays might be fake tears.
+
+---
+
+### 2026-07-05 01:05:47  #公司
+
+【若伯納姆出任英國首相 米利班德的去向或成定義其執政路線的關鍵】隨著安迪·伯納姆權衡，一旦出任英國首相將如何任命核心團隊，一項頗具爭議的決定可能會定義他的任期：埃德·米利班德將擔任怎樣的角色。米利班德曾任工黨領袖，工黨在他帶領下於2015年敗選，如今在基爾·斯塔默政府中擔任頗具影響力的能源大臣。他在推動伯納姆逼近權力頂峰的過程中發揮了關鍵作用，協助促成斯塔默出局，並就經濟政策向這位可能的繼任者提供建議。這使米利班德成為博彩公司眼中接替蕾切爾·裡夫斯出任英國財政大臣的頭號熱門，也引發投資者不安。他們擔心，米利班德會推動政府向左轉，並增加借貸規模。此外，許多工黨議員也擔心，把政府中權力第二大的職位交給一位曾帶領工黨敗選、且與淨零政策聯絡緊密的人，可能帶來政治後果，而這些淨零政策已在一定程度上促使部分選民轉向英國改革黨。埃克塞特大學政治經濟學教授Harry Pitts表示，任命米利班德將被視為爭取左翼選民、而非民粹右翼選民的一項戰略舉措。“這是一個關鍵決定，”他說，“最終可能會成為外界定義伯納姆整體路線的關鍵。”
+
+---
+
+### 2026-07-05 01:02:14  #MKT News #Important
+
+【Iran envoy in Beijing says Tehran will charge Strait of Hormuz transit service fees under international norms】Abdolreza Rahmani Fazli told media in Beijing during the World Peace Forum that Iran plans to levy service fees for Strait of Hormuz transit in line with international practice. He said transit had been unimpeded prior to the outbreak of hostilities involving the US, Israel and Iran; Tehran has not announced tariffs but intends fees to cover navigation safety, pilotage and environmental protection costs, consistent with other international waterways. Fazli added the strait's traffic is gradually returning to normal and the Iran‑Oman jointly managed channel is restoring order.
+
+---
+
+### 2026-07-05 01:01:35  #國際
+
+特朗普政府為數百萬18歲以下美國兒童推出新型投資賬戶：符合條件的新生兒可一次性獲得1000美元聯邦撥款，同時家庭與企業僱主可後續持續追加存入資金。
+
+---
+
+### 2026-07-05 01:00:41  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks.
+
+---
+
+### 2026-07-05 00:59:47  #國際
+
+在伊朗領袖哈梅內伊的葬禮現場，出現一塊手寫標語牌，上面寫著： “我們要殺死特朗普。”
+
+---
+
+### 2026-07-05 00:59:05  #國際
+
+美方一名官員透露： 特朗普身邊多位核心幕僚都認為，內塔尼亞胡在所有事務上都判斷失誤。
+
+---
+
+### 2026-07-05 00:58:31  #國際
+
+特朗普稱伊朗正“迫切想要達成協議”，但雙方商定暫停核談判一週，待哈梅內伊葬禮相關事宜全部結束後再重啟。 他補充表示，休談期間雙方不會互相發動襲擊。
+
+---
+
+### 2026-07-05 00:58:12  #MKT News
+
+Iran said it thanked national delegations for resisting external "pressure and intimidation" and attending the funeral of Supreme Leader Khamenei.
+
+---
+
+### 2026-07-05 00:57:39  #焦點 #國際
+
+【伊朗駐華大使：計劃按國際通行標準對霍爾木茲海峽通航收服務費】伊朗駐華大使阿卜杜勒雷扎·拉赫馬尼·法茲裡4日在北京出席第十四屆世界和平論壇期間接受媒體採訪時表示，伊朗計劃按照國際通行標準對霍爾木茲海峽通航收取服務費。法茲裡表示，在美以伊戰爭爆發前，霍爾木茲海峽通航一直暢通無阻。目前，伊朗也沒有說要收(通行)費或關稅，而是計劃按照國際通行標準收取服務費，用於保障通航安全、導航以及環境保護等常規開支，此舉與世界上其他水道的做法一致。關於霍爾木茲海峽當前狀況，法茲裡說，目前該海峽通航正逐步恢復正常，伊朗與阿曼共同管理的通道正在重建秩序。
+
+---
+
+### 2026-07-05 00:56:38  #國際
+
+伊朗感謝各國代表團不懼“施壓與恐嚇”，出席領袖哈梅內伊的葬禮。
+
+---
+
+### 2026-07-05 00:54:01  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
+
+Trump: US and Iran have agreed to pause talks for one week. Until matters related to Khamenei's funeral conclude, the US and Iran will not fire on each other.
+
+---
+
+### 2026-07-05 00:52:21  #焦點 #國際
+
+特朗普：哈梅內伊葬禮相關事宜結束前，美伊雙方互不交火。
+
+---
+
+### 2026-07-05 00:51:58  #國際
+
+特朗普：美國和伊朗決定暫停會談一週。
+
+---
+
+### 2026-07-05 00:51:25  #MKT News #Important
+
+【Netanyahu may visit White House after NATO summit, Trump says】Axios reports President Trump said Israeli Prime Minister Netanyahu has requested a White House meeting, possibly as soon as next week after Trump finishes the NATO summit. Trump said “we get along well” and that Netanyahu “knows who’s boss.”
+
+---
+
+### 2026-07-05 00:49:34  #國際
+
+市場資訊：特朗普對部分伊朗民眾在哈梅內伊葬禮上落淚一事感到意外。
+
+---
+
+### 2026-07-05 00:48:56  #MKT News #Market Regions #Europe & UK
+
+RUSSIAN DEFENCE MINISTRY said Russia proposed a six-hour ceasefire in Konstantinovka on Monday to facilitate transfer of bodies and expects Ukraine to respond by Sunday midday.
+
+---
+
+### 2026-07-05 00:48:40  #焦點 #國際
+
+【內塔尼亞胡擬造訪白宮，特朗普稱其“清楚誰才是主事之人”】特朗普週六接受採訪時透露，以色列總理內塔尼亞胡主動請求前往白宮與他會晤；特朗普出席北約峰會歸國後，雙方最早下週便可會面。特朗普表示：“我們相處得很不錯，內塔尼亞胡心裡清楚誰才是主事的人。”
+
+---
+
+### 2026-07-05 00:47:47  #國際
+
+特朗普：內塔尼亞胡“知道誰才是老大”。
+
+---
+
+### 2026-07-05 00:47:19  #MKT News #Important #Market Themes #The Trump Trade
+
+Trump and Netanyahu could meet as early as next week.
+
+---
+
+### 2026-07-05 00:46:20  #焦點 #國際
+
+特朗普與內塔尼亞胡或最早於下週舉行會晤。
+
+---
+
+### 2026-07-05 00:46:12  #MKT News
+
+Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action.
+
+---
+
+### 2026-07-05 00:39:48  #MKT News
+
+TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision.
 
 ---
 
@@ -17378,212 +17654,5 @@ Block Inc. 董事 Anthony Mathew Eisen出售了價值381萬美元的股票。
 ### 2026-07-03 07:13:10  #公司
 
 【資料中心初創公司Crusoe據悉洽談融資30億美元 公司估值或提高兩倍】據知情人士透露，與Meta Platforms Inc.和甲骨文等公司簽訂了人工智慧AI算力供應合同的資料中心初創公司Crusoe，正在洽談籌集約30億美元資金，這可能會使該公司的估值提高兩倍。知情人士說，這家建造和運營大型資料中心為AI系統提供支援的公司仍在積極洽談此輪融資，最終估值尚未確定。由於討論尚未公開，知情人士要求匿名。但他們表示，投資者預計估值將達到300億美元左右，這其中包括新投資。該公司此前在10月份的估值為約100億美元。Crusoe不予評論。
-
----
-
-### 2026-07-03 07:12:38  #公司 #國際
-
-【韓國金融監管局擬對MBK進行處罰】據韓聯社週四晚間援引金融行業未具名訊息人士報道，韓國金融監督服務局（FSS）決定對陷入困境的零售商Homeplus的控股方MBK Partners採取“嚴厲紀律處分”。 FSS已就處罰決議作出決定，內容包括暫停該公司及其主要高管的職務。 FSS將向金融服務委員會提交調查結果並提出處罰建議，最終由金融服務委員會作出決定。 此次爭議的核心在於MBK Partners是否侵犯了包括國民年金公團在內的投資者權益，這些投資者與MBK旗下企業Homeplus存在關聯。 此外，首爾重整法院將決定是否進一步延長Homeplus重整計劃的批准期限，或終止相關程式。
-
----
-
-### 2026-07-03 07:11:17  #其他
-
-【加密軟體“閱後即焚”保險嗎？國家安全部：存在多種洩密風險】建議廣大網友正確看待“閱後即焚”功能，摒棄僥倖心理，堅守合規底線，規範網路行為，有效規避安全風險。不抱僥倖，保護隱私。避免在“閱後即焚”軟體中傳送身份資訊、銀行卡號、密碼證照等個人隱私資訊，摒棄“閱後即焚、萬事無憂”的僥倖心理。嚴守底線，杜絕洩密。嚴格落實“涉密不上網、上網不涉密”，絕不透過任何網際網路通訊工具傳輸或儲存工作秘密及內部敏感資訊，從源頭上杜絕洩密風險。清理快取，管控許可權。定期自查手機軟體，解除安裝清理各類不明來源的小眾匿名、密聊焚文軟體，關閉非必要的軟體許可權，築牢個人網路安全防線。（央視）
-
----
-
-### 2026-07-03 07:10:26  #市場 #央行 #國際
-
-【黃金市場深度回撥 機構認為四季度或迎估值修復視窗】年初的暴漲熱潮消退後，黃金市場深度回撥，COMEX黃金半年跌幅超過7%，成為年內波動最劇烈的大宗商品之一。機構人士在接受證券時報記者採訪時表示，美聯儲鷹派立場升溫，年內加息預期持續發酵，推高美元實際利率，大幅侵蝕無息資產——黃金的持有吸引力。同時，高位投機資金集中平倉、地緣風險傳導機制異變、權益市場分流資金等多重因素共振，加劇了金價的下行。展望後市，機構觀點認為，黃金短期弱勢格局很難快速扭轉，但隨著高利率對經濟的壓制逐步顯現，四季度或迎來估值修復視窗，投資者需摒棄短線投機思維，堅守長期配置邏輯。
-
----
-
-### 2026-07-03 07:10:24  #其他
-
-鎧俠開始向市場交付第十代BICS快閃記憶體樣品。
-
----
-
-### 2026-07-03 07:07:59  #國際
-
-鎧俠控股：這些新產品將在位於日本巖手縣的鎧俠北上工廠Fab2設施生產。
-
----
-
-### 2026-07-03 07:07:24  #公司
-
-【扎克伯格：智慧代理技術研發進度不及預期】媒體獲取的一段內部會議錄音顯示，Meta執行長馬克・扎克伯格於週四一場內部全員溝通會上，承認公司大規模架構重組存在諸多問題，並表示旗下名為AI智慧代理的相關係統研發推進速度未達自身預期。扎克伯格補充稱，本次包含大規模裁員在內的企業重組流程推進得不夠順暢，管理層此前對改革落地時間節點出現誤判。今年早些時候，扎克伯格與Meta其他高管一直在適度調整部分組織改革舉措，但並未從根本上轉變整體戰略方向。今年5月，公司裁撤全球約10%員工，並將約7000名員工調崗至人工智慧專項團隊；此番調整引發員工不滿，團隊士氣也受到負面影響。他表示，事後覆盤來看，“過去至少四個月，智慧代理技術的研發程序並未如預期般提速”，公司基於全新組織架構做出的佈局押注“目前尚未見到成效”。扎克伯格此處所說的AI智慧代理，指可代使用者自動執行各類任務的自動化程式。
-
----
-
-### 2026-07-03 07:06:13  #公司
-
-鎧俠控股公司已開始出貨採用其第十代BiCS FLASH 3D快閃記憶體技術的1TB三層單元儲存裝置的樣品。
-
----
-
-### 2026-07-03 07:05:10  #公司
-
-【超百家上市公司補稅近百億元 自查自糾成主流處置方式】2026年以來，A股市場迎來一批上市公司集中補稅，在資本市場引發持續熱議。據證券時報記者不完全統計，截至目前，年內已有超百家上市公司披露涉稅補繳公告，補稅金額接近100億元，補繳稅款從數百萬元到數億元不等，覆蓋農業、鋼鐵、醫藥、能源、電子等多個行業。從已披露的案例來看，本輪上市公司補稅的主要原因並非隱匿收入、虛開發票等惡意偷逃稅行為，多是稅企雙方對稅收優惠政策適用口徑存在理解分歧。絕大多數公司均在公告中明確“經自查完成補繳、不涉及行政處罰”，自查自糾成為本次上市公司補稅的主流處置方式。受訪人士認為，大額補稅會對相關公司的當期淨利潤、現金流產生一定衝擊，但中長期來看，企業主動完成涉稅整改、出清歷史遺留稅務風險，能夠有效降低後續監管問詢、行政處罰等風險，持續夯實企業合規經營根基。
-
----
-
-### 2026-07-03 07:05:07  #其他
-
-【中央氣象臺7月3日06時繼續釋出颱風藍色預警】中央氣象臺：南海熱帶低壓已於今天（3日）凌晨加強為今年第10號颱風“美莎克”（熱帶風暴級；英文名稱：Maysak；名字來源：柬埔寨；名稱意義：一種樹），早晨5點鐘其中心位於海南省陵水縣南偏東約155公里的南海中西部海面，就是北緯17.2度、東經110.5度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑90-110公里。
-
----
-
-### 2026-07-03 07:04:49  #公司
-
-【券商跟投科創板浮盈推至近年高點 紅利高度集中頭部券商】科技板塊“吃肉”，券商跟著“喝湯”。上半年，半導體等科技板塊表現強勢，帶動券商大投行業務鏈價值重估，尤其是將券商跟投科創板的浮盈推至近年高點。統計資料顯示，截至7月2日，保薦機構跟投限售期未滿的科創板上市公司共有38家，為跟投券商帶來合計105億元的賬面浮盈。不過，跟投紅利高度集中於10家券商，以頭部券商居多。有分析師研判，跟投專案為券商帶來了可觀的賬面浮盈，將顯著放大券商中期業績的彈性。
-
----
-
-### 2026-07-03 07:04:22  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-【Trump says Kevin Warsh will face resistance at Fed, vows legal push to oust governor Cook】After the latest US jobs report, President Trump declined to advise Fed chair Kevin Warsh, saying the new chair "must do what he must do." Trump said Warsh faces a "possibly somewhat hostile" board that may want "to do the wrong thing." He said he will continue efforts to remove Fed governor Cook by "winning lawsuits." Trump has long favored lower rates.
-
----
-
-### 2026-07-03 07:04:21  #Trading Economics #Economy #Australia #Services PMI #Importance 2
-
-Australia Services PMI Revised Up, Returns to Expansion — The S&P Global Flash Australia Services PMI Business Activity Index was revised higher to 50.5 in June 2026 from the preliminary estimate of 49.9 and after a final reading of 48.7 in the previous month. The latest reading indicated that the services sector returned to expansion, though it remained only slightly above the neutral 50.0 mark.
-
----
-
-### 2026-07-03 07:04:21  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Revised Higher — Australia's composite PMI stood at 50.4 in June 2026, above flash data of 49.8 and May's 48.7. The latest result signalled a marginal monthly increase in private-sector business activity.
-
----
-
-### 2026-07-03 07:04:19  #其他
-
-【核電小型堆發展提速 算力中心供電或有新突破】在算力負荷持續暴漲的情況下，風光等電源供電短板凸顯，核電小型模組化反應堆（下稱“小型堆”）配套AI算力中心有望成為資料中心零碳穩定供電新選擇。當前，國內外都在加快推動小型堆發展。在近日舉行的先進核能產業研討會上，多位能源、核能領域專家圍繞小型堆配套AI算力中心的發展路徑展開研判。記者還從業內獲悉，近期能源主管部門召開會議研討小型堆發展事宜，相關部門負責人要求快速推進研發示範。（上海證券報）
-
----
-
-### 2026-07-03 07:04:04  #其他
-
-【三項能耗能效國標明年起實施 光伏行業落後產能出清“倒計時”】7月2日，工業和資訊化部聯合國家發展改革委、國家市場監督管理總局釋出《矽單晶單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽多晶和鍺單位產品能源消耗限額》等三項光伏能耗能效強制性國家標準，覆蓋多晶矽、矽片、元件、逆變器等光伏產業鏈關鍵環節，分等級設定相關產品能耗能效指標，嚴控各環節高耗能低效產能。針對元件，創新納入耦合環境應力衰減率評價指標。能耗能效新國標的“靴子落地”引發光伏業內廣泛關注。多位專家向記者表示，本次光伏全產業鏈能效標準實現系統性升級，是行業持續破除無序“內卷”、推進高質量發展的關鍵抓手。三項標準將大幅加速多晶矽、元件環節低效落後產能出清。但當前行業優質元件產能供給仍較為充足，企業需堅持以銷定產，合理下調生產負荷、嚴控庫存規模。（上海證券報）
-
----
-
-### 2026-07-03 07:03:49  #市場
-
-【銀價波動影響企業利潤 光伏行業借金融工具破解保供難題】2025年以來，受地緣局勢不確定性凸顯、全球貨幣政策預期變化、供需基本面調整等多重因素影響，貴金屬價格劇烈波動。其中，白銀價格波動率創歷史新高，對眾多工業用銀企業經營造成衝擊。光伏銀漿是太陽能電池製造的核心輔材，白銀在該環節的成本佔比超過90%。隨著銀價劇烈波動，以及大量白銀實物從工業領域流向投資領域，如何在白銀原料端實現保供穩價，已成為關乎光伏產業鏈穩健生存的重要課題。記者近期走訪多家實體企業瞭解到，部分頭部光伏銀漿企業及上游供應商，已著手組建專業的期貨期權交易團隊，一方面透過套期保值對生產經營環節的白銀價格敞口進行管理，另一方面參與期貨交割鎖定白銀實物的遠期貨源。（上海證券報）
-
----
-
-### 2026-07-03 07:01:11  #公司 #市場 #觀點 #央行 #焦點 #國際
-
-【7月3日隔夜要聞一覽】
-1、美股週四收盤漲跌不一。道指創歷史新高漲1.14％，納指跌0.80％，標普500指數跌0.01％。
-2、美國總統特朗普表示，美國仍在與伊朗談判，但他認為“他們幾乎已經同意了我們所需要的一切”。
-3、美國總統唐納德·特朗普表示，美聯儲主席凱文·沃什可能無法強迫央行其他官員按照他的意願制定貨幣政策。
-4、美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。
-5、據一份內部備忘錄顯示，特斯拉上月通知員工，從7月6日起，員工每週人工智慧工具使用額度上限將設定為200美元。
-6、據報道，Meta執行長馬克·扎克伯格表示，過去四個月AI的智慧體開發“並未以我們預期的方式加速”。
-7、微軟一名高管向員工透露，公司將整合面向個人消費者與企業端的兩款Copilot應用，並砍掉冗餘功能，力求在使用者心中“贏得生存的資格”。
-8、花旗集團彙編的資料顯示，從某項指標來看，相對於標普500指數，科技股看漲期權的成本正處於2007年以來的最高水平。
-9、電影《大空頭》原型、知名投資人Michael Burry在週四晚些時候釋出的Substack文章中表示，他已做空美光股票，理由是其週期性，並對一些現有多頭頭寸進行了加倉。
-
----
-
-### 2026-07-03 07:00:08  #MKT News #DXY #Impact bearish
-
-Australia June S&P Global Composite PMI final reading 50.4, prior 49.8.
-
----
-
-### 2026-07-03 07:00:07  #資料
-
-澳大利亞6月標普全球綜合PMI終值 50.4，前值49.8。澳大利亞6月標普全球服務業PMI終值 50.5，前值49.9。
-
----
-
-### 2026-07-03 07:00:07  #MKT News #DXY #Impact bearish
-
-Australia June S&P Global Services PMI (final) 50.5, prior 49.9.
-
----
-
-### 2026-07-03 06:57:43  #公司 #市場
-
-【關停“槓桿炒金”通道，銀行擰緊個人貴金屬業務風險閥門】6月以來，包括交通銀行、招商銀行、工商銀行在內的多家國有大行、股份制銀行密集“踩剎車”——宣佈將於7月停辦代理上海黃金交易所個人貴金屬交易業務。在業內人士看來，這是銀行主動進行風險管理的舉措，透過提前壓縮高風險投機業務，防範極端行情下的客戶違約風險、聲譽風險，同時幫助投資者規避貴金屬價格波動帶來的資金損失。（中證報）
-
----
-
-### 2026-07-03 06:57:38  #國際
-
-美國貿易代表辦公室將於 7 月 6 日就巴西 301 調查舉行聽證會。
-
----
-
-### 2026-07-03 06:57:00  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Down but Heads for Weekly Rise — The NZX 50 fell 13 points, or 0.1%, to 13,568 in Friday morning trade, declining for the third consecutive session, mainly weighed down by the financial, industrial, and technology sectors. Traders were cautious ahead of the RBNZ's monetary policy decision next week while anticipating the release of China's inflation data, amid rising global oil prices during June. However, easing oil prices helped cap the losses as inflation concerns subsided, reducing expectations of an interest rate hike. The latest data also limited the decline, as consumer confidence in New Zealand hit a three-month high in June, following an improvement in business confidence. Among the early decliners were Mercury NZ (-1.1%), Fletcher Building (-0.9%), Freightways Group (-0.4%), Infratil (-0.4%), and ANZ Group (-0.3%). However, the index is heading for a 0.6% weekly gain after being flat in the previous week.
-
----
-
-### 2026-07-03 06:54:36  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、“出口中國”英國專場活動在倫敦舉行
-2、中企承建的巴西薩爾瓦多跨海大橋開工
-3、三項失業保險政策舉措支援企業穩崗擴崗
-4、2025年我國海洋生物醫藥產業增加值達996億元 探索廣袤海洋的健康寶庫（大資料觀察）
-5、北京釋出人工智慧賦能科學研究實施方案 圍繞五大方向明確18項重點工作
-6、累計交付186架、載客超3700萬人次 C909成為中國支線航空運輸市場主力機型
-7、廣東推動新能源汽車叢集發展 汽車生產線鏈起產業生態圈（經濟聚焦）
-8、河北高陽縣推動企業品牌出海 毛巾出口，要過八道關（高質量發展在一線·小城寶藏）
-9、江西銀行創新金融產品，精準對接需求 助力特色產業提質增效
-10、新修訂的民用航空法本月起施行 民航安全與旅客權益更有保障（法治聚焦）
-11、印尼努力打造汽車全產業價值鏈 重點發力電動化轉型、產業鏈本土化、自主品牌建設等
-12、長期投資不足 數字化推廣緩慢 德國亟待推進鐵路現代化改造
-13、美國不同意以現有形式續簽美墨加協定
-14、平臺經濟要從“拼價格”轉向“拼質量、拼創新”（每週經濟評論）。
-
----
-
-### 2026-07-03 06:54:32  #市場
-
-【科技板塊遭遇深度調整，機構建議聚焦細分龍頭】7月2日，A股市場迎來大幅調整，前期強勢領漲的科技板塊首當其衝，半導體、儲存晶片、通訊裝置等熱門方向集體重挫。分析人士認為，本輪調整並非基本面邏輯的逆轉，而是上半年科技板塊極致分化行情下交易擁擠、籌碼結構脆弱等風險因素的集中釋放。經歷半年大幅上漲後，部分高位品種估值與預期透支較為嚴重，短期回撥具有一定的合理性。但從中長期維度來看，AI產業趨勢並未改變，機構普遍建議投資者在調整過程中保持定力，關注具備核心競爭力的細分龍頭，同時適度配置高股息資產以平滑組合波動。（中證報）
-
----
-
-### 2026-07-03 06:54:23  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、微觀察·習近平總書記在慶祝中國共產黨成立一百零五週年大會上發表重要講話 “中國共產黨為什麼能的關鍵密碼”
-2、不懈奮鬥，黨領導人民創造了偉大成就——論學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上重要講話
-3、“奮力創造新的歷史輝煌！”——慶祝中國共產黨成立105週年大會側記
-4、中央軍委發出通報 表彰全軍優秀共產黨員、優秀黨務工作者和先進基層黨組織。
-
----
-
-### 2026-07-03 06:53:43  #MKT News #Important #Market Themes #Crypto Concepts
-
-【Trump says unaware of reported $1.2bn crypto gains】In a CNBC interview on Thursday, President Trump said he was unaware of crypto investments that his latest financial disclosure shows generated about $1.2bn for him last year. He said his business affairs are managed by his sons, naming Eric as responsible, and that he did not know who handled the investments and had not discussed them with Eric. Trump added the gains were not illegal and said there is no practical requirement to recuse from every potential personal conflict while running the country.
-
----
-
-### 2026-07-03 06:52:16  #其他
-
-【國際原子能機構總幹事：破壞核安全的襲擊不可接受】國際原子能機構總幹事格羅西2日表示，近期發生在扎波羅熱核電站附近的無人機襲擊危及核電站的應急響應能力，此類襲擊“不可接受”。格羅西在國際原子能機構的一份宣告中表示，該機構駐紮在扎波羅熱核電站的團隊本週確認，附近埃涅爾戈達爾市一座消防站遭到嚴重破壞。該消防站對保障扎波羅熱核電站的應急響應能力至關重要，可在核電站發生大規模緊急情況時，為核電站自身的消防隊提供重要的後備支援。宣告說，無人機襲擊發生在6月30日，次日國際原子能機構團隊前往現場檢查，發現消防站建築和數輛消防車遭到破壞，消防站的執行能力被嚴重削弱。格羅西警告說：“任何破壞核安全和應急能力的襲擊都是不可接受的。”（新華社）
-
----
-
-### 2026-07-03 06:48:07  #公司
-
-據港交所檔案顯示，深圳宏芯宇電子股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-07-03 06:47:14  #市場
-
-【科技行情行至十字路口，公募推敲“業績驗證”邏輯】7月初，A股與海外市場半導體板塊共振回撥，多隻龍頭股放量下跌。然而，拉長時間軸來看，半導體領域依然是年內最亮眼的投資主線，相關ETF及主動權益基金業績領跑全市場。短期波動加大背景下，記者採訪多家公募機構後發現，在全球半導體景氣度超預期及AI算力建設剛需支撐下，機構普遍認為科技板塊短期仍處於右側佈局階段，投資邏輯正從“主題炒作”向“業績驗證”切換。（中證報）
 
 ---
