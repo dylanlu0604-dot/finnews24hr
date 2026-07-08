@@ -1,7 +1,178 @@
 {
   "date": "2026-07-08",
-  "count": 3240,
+  "count": 3260,
   "items": [
+    {
+      "id": "4977063",
+      "time": "2026-07-08 22:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "威摩（Waymo）：自今日起在拉斯維加斯投放運營車輛，後續將拓展至丹佛、聖迭戈及坦帕。"
+    },
+    {
+      "id": "mkt:019f420b-887e-7aab-8cf3-3888b8ddaa79",
+      "time": "2026-07-08 22:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's highest court said it will rule on Le Pen's appeal no later than early April 2027; timing may change for procedural reasons."
+    },
+    {
+      "id": "4977062",
+      "time": "2026-07-08 22:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國最高法院：裁決時間可能會根據程式因素變動。"
+    },
+    {
+      "id": "4977061",
+      "time": "2026-07-08 22:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國最高法院：最遲可在2027年4月初、總統選舉前就瑪麗娜·勒龐的上訴作出裁決。"
+    },
+    {
+      "id": "mkt:019f420a-8efb-7aab-8cf3-3710c7a6962c",
+      "time": "2026-07-08 22:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toronto stock index extended losses, down 1%."
+    },
+    {
+      "id": "4977060",
+      "time": "2026-07-08 22:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：我們力求在歐洲遠端縱深打擊武器研發方面取得快速進展。"
+    },
+    {
+      "id": "4977059",
+      "time": "2026-07-08 22:03:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股指<.GSPTSE>跌幅擴大，下跌1%。"
+    },
+    {
+      "id": "mkt:019f4209-f40d-7aab-8cf3-29a6e30c0fd1",
+      "time": "2026-07-08 22:02:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. wholesale sales rose 3.4% MoM in May, the largest increase since January 2022."
+    },
+    {
+      "id": "4977058",
+      "time": "2026-07-08 22:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅爾茨：我們正在構建一個歐洲版北約，以確保北約能夠保持跨大西洋聯盟的性質。"
+    },
+    {
+      "id": "mkt:019f4209-b4a4-7aab-8cf3-279f8492eb15",
+      "time": "2026-07-08 22:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iranian media: Continued compliance is pointless; Iran should respond to Trump】Iranian media said Trump has officially declared the Islamabad memorandum of understanding terminated, and that it is illogical and irrational for Iran to maintain a memorandum the U.S. president has declared dead. The report said Iran should mount a clear response to Trump. It added the pact, advanced diligently by Iranian negotiators, was doomed by U.S. bad faith from the outset and last night’s declaration only formally confirmed its death."
+    },
+    {
+      "id": "4977057",
+      "time": "2026-07-08 22:02:37",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭央行：地緣政治局勢、大宗商品價格與全球通脹是消費者物價指數前景的關鍵影響因素。"
+    },
+    {
+      "id": "mkt:019f4209-6db4-7aab-8cf3-1b73d12b9707",
+      "time": "2026-07-08 22:02:21",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "MERZ said Germany will reach its 5% defense-spending target well before the agreed date."
+    },
+    {
+      "id": "mkt:019f4209-6065-7aab-8cf3-101b3611a757",
+      "time": "2026-07-08 22:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said in Ankara participants again reaffirmed their commitment to NATO Article 5, calling it very important."
+    },
+    {
+      "id": "mkt:019f4209-514f-7aab-8cf3-0c8ba8453810",
+      "time": "2026-07-08 22:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spanish Prime Minister Sanchez: We strive to maintain the best relations with all countries, especially with allies whose ties with us transcend administrative ideology."
+    },
+    {
+      "id": "4977056",
+      "time": "2026-07-08 22:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部：要強化多部門聯合值守、滾動會商 提高預報預警精準度、提前量】7月8日，應急管理部召開黨委會議，研究貫徹落實工作，對應急管理系統做好防汛救災工作作進一步動員部署。會議強調，要盯緊壓實防災救災責任，督促各地區各有關部門堅決克服麻痺思想和僥倖心理，時刻繃緊防大汛救大災這根弦，加強針對性排程指導，有力應對險情災情。要突出江河湖泊、病險水庫、山洪地質災害易發區等重點部位和電力、通訊、交通等重要基礎設施，強化風險隱患排查整治，做到早發現、早處置。要強化多部門聯合值守、滾動會商，提高預報預警精準度、提前量，嚴格預警“叫應”措施，預置力量、物資、裝備，及時有力應對處置各類災害。同時，要抓實防震減災、森林草原防滅火等工作，緊盯汛期安全生產，較真碰硬統籌開展中央安全生產考核巡查三季度明查暗訪，確保全國安全形勢穩定。"
+    },
+    {
+      "id": "4977055",
+      "time": "2026-07-08 22:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨表示：德國將遠早於約定日期實現5%的防務開支目標。"
+    },
+    {
+      "id": "4977054",
+      "time": "2026-07-08 22:01:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【價格成本和認證中心主任盧延純同志赴國家石油天然氣管網集團有限公司開展調研並看望相關工作人員】2026年7月2日，價格成本和認證中心主任盧延純同志一行赴國家石油天然氣管網集團有限公司開展調研，瞭解有關工作進展情況，並就國家管網集團生產經營情況等開展座談交流。盧延純主任對企業支援配合相關工作表示感謝，要求中心工作人員秉持高度負責的態度，發揚認真細緻的工作作風，不斷總結先進經驗做法，圓滿完成好相關工作任務。"
+    },
+    {
+      "id": "4977053",
+      "time": "2026-07-08 22:01:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：2028年GDP增速預期區間1.9%-4.1%，此前預期為1.8%-4.1%。"
+    },
+    {
+      "id": "4977052",
+      "time": "2026-07-08 22:01:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：2027年國內生產總值增速預期區間1.8%-3.7%，此前預期為2%-3.8%。"
+    },
     {
       "id": "4977051",
       "time": "2026-07-08 22:00:43",
@@ -27,6 +198,15 @@
         "國際"
       ],
       "text": "【美聯儲6月會議紀要關注點】1、美聯儲官員們對利率路徑的討論情況。2、美聯儲官員們、尤其是主席沃什對前瞻指引、資產負債表等問題的看法。3、美聯儲官員們對美國經濟（包括通脹、就業、AI）的討論情況。4、美聯儲官員們對中東局勢的討論。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607083798709343",
+      "time": "2026-07-08 22:00:21",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月批發庫存環比終值0.1%】美國5月批發庫存環比終值0.1%，初值0.3%。美國5月批發銷售月率錄得3.4%，為2022年1月以來最大增幅。"
     },
     {
       "id": "mkt:019f4207-950c-7aab-8cf2-fdf89bf6ae5e",
