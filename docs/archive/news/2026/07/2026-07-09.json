@@ -1,7 +1,33 @@
 {
   "date": "2026-07-09",
-  "count": 591,
+  "count": 594,
   "items": [
+    {
+      "id": "4977620",
+      "time": "2026-07-09 05:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一名官員透露，美國正對伊朗實施的持續打擊行動規模預計將超過週二的襲擊。"
+    },
+    {
+      "id": "4977619",
+      "time": "2026-07-09 05:05:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（7月8日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.8063元，較週二紐約尾盤跌28點，日內整體交投於6.7983-6.8102元區間。"
+    },
+    {
+      "id": "mkt:019f438b-cf46-7aab-8cfe-eb95ee73903b",
+      "time": "2026-07-09 05:04:23",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bearish"
+      ],
+      "text": "Eli Lilly & Co (LLY.N) said it expects to record a $2.8 bln pre-tax charge in 2Q 2026 related to acquired R&D projects, equal to a $3.02 per-share impact."
+    },
     {
       "id": "4977618",
       "time": "2026-07-09 05:01:05",
