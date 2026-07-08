@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-08 08:13:39",
-  "count": 15909,
+  "updated": "2026-07-08 08:17:33",
+  "count": 15914,
   "items": [
+    {
+      "id": "4975193",
+      "time": "2026-07-08 08:16:51",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：大幅波動不改AI超級週期 重視國產算力“Plan B”】中信證券指出，Meta擬出租部分算力的新聞再次引發市場對算力過剩的擔憂，疊加近幾個月來雲廠商現金流壓力、上游漲價持續性、Capex增速放緩、AI交易過於擁擠等顧慮集中爆發，是導致科技股大幅波動的主要原因。短期來看，Meta此舉核心是盤活存量老舊算力資產，考慮到其仍在持續開發先進模型並投建新一代算力硬體，擬出租算力與繼續加碼算力投資並不矛盾，同時由於近期算力租金仍在上漲，因此算力過剩的擔憂並不成立，本輪科技股調整更多的是一次近期全球流動性收緊環境下的資金去槓桿與再平衡過程，而非AI產業趨勢發生逆轉。而對於中長期敘事，需要高度關注未來幾個月是否會出現類似年初OpenClaw與Coding Agent的AI能力出圈時刻。此外，也觀察到在海外AI資產進入高擁擠、高關聯、高波動階段後，國際資金開始重新尋找差異化收益來源，具備差異化價值的國產算力“Plan B”仍具韌性，有望獲得外資配置。疊加臨近業績期，建議關注業績確定性高增、估值合理的細分方向：景氣度上，推薦敘事向好的國產FAB、裝置，以及估值較低的光通訊賽道；漲價鏈上，高AI敞口、先漲價的環節業績兌現度更高，例如儲存、PCB上游等。"
+    },
+    {
+      "id": "mkt:019f3f15-8108-7aab-8cd9-981a90861a92",
+      "time": "2026-07-08 08:16:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Japan bonds slip as crude rally raises inflation and BOJ rate-hike risk】Japanese government bonds fell in Tokyo morning trade, tracking an overnight decline in U.S. Treasuries. Rising crude prices could exacerbate Japanese inflation and may prompt the Bank of Japan to accelerate rate hikes. Nomura FX research said Tuesday’s strong 30-year JGB auction failed to push yields lower, and the government may need to give explicit guidance on fiscal-market effects to restore demand for long-dated JGBs. The 10-year JGB yield rose 1.5 bps to 2.855%, an intraday high since Oct 1996."
+    },
+    {
+      "id": "4975192",
+      "time": "2026-07-08 08:16:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在中東緊張局勢重燃之際，亞洲貨幣大多走弱】在中東緊張局勢重燃之際，亞洲貨幣在早盤交易中大多兌美元走弱。澳洲聯邦銀行的Carol Kong在一份研究報告中表示，“在霍爾木茲海峽及其周邊地區發生了針對航運的襲擊“。這位經濟學家兼外匯策略師指出，這“促使美國撤銷了允許出售伊朗石油的豁免“。“戰爭驅動的能源價格衝擊增加了美元的避險吸引力，”Kong補充道。資料顯示，美元上漲0.3%，至1,519.10韓圓；微漲0.1%，至1.2931新加坡元；上漲0.2%，至33.39泰銖。"
+    },
+    {
+      "id": "mkt:019f3f15-23b1-7aab-8cd9-9322093b458e",
+      "time": "2026-07-08 08:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuba's foreign minister Rodriguez said on the 7th that, at current prices, the long-running U.S. embargo has inflicted cumulative losses on Cuba of $178.7 billion."
+    },
+    {
+      "id": "te:markets:565005",
+      "time": "2026-07-08 08:16:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower After Tech-Led Drop — US stock futures edged lower on Wednesday after the major indexes closed lower in the previous session, weighed down by a renewed selloff in semiconductor stocks. Investors continued to assess escalating tensions in the Middle East and rising oil prices after the US launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. Traders also remained cautious ahead of the release of the Federal Reserve’s June meeting minutes for additional clues on the policy outlook. In Tuesday’s regular session, the tech-heavy Nasdaq Composite fell 1.16%, while the S&P 500 and the Dow declined 0.45% and 0.25%, respectively. Chipmakers came under renewed pressure as investors questioned whether AI hyperscalers can sustain elevated infrastructure spending. Samsung’s 19-fold jump in quarterly profit also failed to lift sentiment, while reports that China’s DeepSeek is developing its own AI chip added to concerns across the sector."
+    },
+    {
+      "id": "mkt:019f3f14-bbee-7aab-8cd9-8d2beaf27c96",
+      "time": "2026-07-08 08:15:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aike Cyber raises prices 5-10% on test, specialty and power-quality products】Chinese power-supply maker Aike Cyber will raise prices 5-10% across its test power, specialty power and power-quality product lines, citing broad upstream raw-material inflation and significantly extended lead times. New pricing applies to all new orders from 00:00 on July 20."
+    },
+    {
+      "id": "4975191",
+      "time": "2026-07-08 08:15:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳洲牛肉價格大漲，7月7日，記者實探北京一家盒馬門店，原切澳洲谷飼牛腱肉119元/公斤，相較去年9月，漲價超30元/公斤。（21財經）"
+    },
+    {
+      "id": "4975190",
+      "time": "2026-07-08 08:14:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【健世科技：經導管三尖瓣置換系統LuX-Valve Plus取得歐盟MDR CE認證】健世科技公告，近日，公司自主研發的經導管三尖瓣置換系統LuX-Valve Plus取得歐盟MDR CE認證，達成本公司國際化戰略的重要里程碑。"
+    },
+    {
+      "id": "4975189",
+      "time": "2026-07-08 08:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上能電氣順利供貨阿爾及利亞多個光伏電站】據上能電氣訊息，近日，上能電氣向阿爾及利亞多個光伏電站順利完成供貨，總容量達154MW。"
+    },
+    {
+      "id": "4975188",
+      "time": "2026-07-08 08:14:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富臨精工：定增申請獲深交所受理】富臨精工(300432)7月8日早間公告，向特定物件發行A股股票申請獲得深圳證券交易所受理。"
+    },
+    {
+      "id": "4975187",
+      "time": "2026-07-08 08:14:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛科賽博：對測試電源、特種電源、電能質量全系列產品價格進行5%-10%不等的上調】愛科賽博釋出產品價格調整的告知函，當前，全球電子產業供應鏈經歷了一輪深層次的結構性變化。上游原材料市場呈現普漲態勢，導致產品核心原材料價格全面上漲、交期顯著延長。面對持續且劇烈的市場波動，現有價格體系已難以覆蓋成本增長。公司決定對測試電源、特種電源、電能質量全系列產品價格進行5%-10%不等的上調。7月20日零點起，所有新增訂單執行新定價。"
+    },
+    {
+      "id": "4975186",
+      "time": "2026-07-08 08:13:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【義大利外交部：黎以將於下週在羅馬舉行會談】義大利外長塔亞尼當地時間7日在社交媒體上透露，黎巴嫩和以色列兩國代表預計將於7月中旬在義大利首都羅馬舉行下一輪會談。義大利外交部發言人當天表示，會談定於15日至16日舉行。以色列外長薩爾7日發表講話，證實以色列與黎巴嫩的會談將於下週在羅馬進行。薩爾表示，以色列尋求與黎巴嫩和平相處，但和平必須以安全為基礎。目前黎巴嫩方面對此暫無回應。（央視）"
+    },
     {
       "id": "mkt:019f3f11-2403-7aab-8cd9-875987b56868",
       "time": "2026-07-08 08:11:55",
@@ -145782,71 +145895,6 @@
         "觀點"
       ],
       "text": "【中信證券：後續若7月中旬公佈的二季度經濟資料面臨壓力 則政策或繼續加大呵護力度】中信證券指出，6月製造業PMI有所回升，剔除季節性看製造業景氣較上月有小幅提升，製造業PMI持續位於榮枯線之上，反映全球通脹、出口高增對製造業企業體感有積極作用。從分項看，生產景氣基本持平，需求指標反彈明顯，價格指標顯著下降，或指向PPI拐點臨近，關注其對工業企業利潤增速的影響。從行業看，高技術製造業PMI繼續受益於AI景氣而提升，消費品製造業受益於油價下降、成本壓力緩和，景氣亦迴歸榮枯線之上。非製造業6月景氣度亦有所好轉，或受益於穩內需政策落地加速。近期，隨著部分經濟指標面臨壓力，存量政策落地節奏有所加快，後續若7月中旬公佈的二季度經濟資料面臨壓力，則政策或繼續加大呵護力度。"
-    },
-    {
-      "id": "mkt:019f1b09-3ab7-7aab-8c46-565e7192118e",
-      "time": "2026-07-01 08:16:57",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY rose to 162.68, a 40-year high."
-    },
-    {
-      "id": "4963844",
-      "time": "2026-07-01 08:15:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元攀升至162.68，創40年新高。"
-    },
-    {
-      "id": "4963843",
-      "time": "2026-07-01 08:15:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "即將離任的South32執行長Kerr：未來幾年印尼供應增加將對氧化鋁價格構成挑戰。"
-    },
-    {
-      "id": "4963842",
-      "time": "2026-07-01 08:15:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "即將離任的South32執行長：South32預計未來幾年氧化鋁價格將面臨挑戰。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607013789052636",
-      "time": "2026-07-01 08:14:30",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【中信證券：隔夜逆回購工具落地 央行維護寬鬆態度明確】中信證券認為，央行首次開展隔夜逆回購操作，本次央行操作的態度高於實質，當前7天逆回購的政策利率地位並未改變，央行有意在半年末關鍵時點維護寬鬆的流動性環境和穩定預期。新工具旨在彌合7天政策利率與隔夜為主的市場交易之間的期限錯配，並藉助隔夜操作當日到期、不形成餘額的靈活性，在季末更精準地實現流動性削峰填谷。"
-    },
-    {
-      "id": "4963841",
-      "time": "2026-07-01 08:13:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將軍稱，美軍已在委內瑞拉境內部署約900名人員開展救援工作，並在加勒比海樞紐波多黎各和庫拉索部署另外800人。"
-    },
-    {
-      "id": "4963840",
-      "time": "2026-07-01 08:13:44",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲2.3%，電子和科技股領漲】得益於對人工智慧相關需求增長的持續預期，以及追隨美國科技股的漲勢，日本股市走高。電子和科技股領漲。東京電子上漲4.9%，軟銀集團上漲3.8%。美元報162.65日元，週二東京股市收盤時為162.24日元。投資者正密切關注美伊和平談判的任何進展，以及日本政府官員對日元貶值的任何評論。日經指數上漲2.3%，報71701.04點。"
     }
   ]
 }
