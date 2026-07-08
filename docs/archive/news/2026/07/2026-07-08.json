@@ -1,7 +1,198 @@
 {
   "date": "2026-07-08",
-  "count": 3098,
+  "count": 3119,
   "items": [
+    {
+      "id": "4976991",
+      "time": "2026-07-08 21:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國開展老年合理用藥促進行動】國家衛生健康委7月8日釋出通知，決定於2026年至2030年在全國組織開展老年合理用藥促進行動，廣泛普及合理用藥知識，提高為老年人提供藥學服務的能力，提升老年合理用藥水平。(新華社)"
+    },
+    {
+      "id": "4976990",
+      "time": "2026-07-08 21:27:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "呂特表示，下一屆北約峰會舉辦時間尚未確定。"
+    },
+    {
+      "id": "4976989",
+      "time": "2026-07-08 21:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：若迫不得已我們會摧毀伊朗的發電站與水廠，但我們並不願意這麼做。"
+    },
+    {
+      "id": "mkt:019f41e8-d3b2-7aab-8cf1-5b2853804b07",
+      "time": "2026-07-08 21:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said the next NATO summit will be held in Albania, but the exact timing has yet to be decided."
+    },
+    {
+      "id": "4976988",
+      "time": "2026-07-08 21:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果必要，我們會打擊更高階別的目標。"
+    },
+    {
+      "id": "mkt:019f41e8-c0a8-7aab-8cf1-523d6ab584c4",
+      "time": "2026-07-08 21:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the United States has not carried out the highest-level attacks, such as destroying bridges."
+    },
+    {
+      "id": "mkt:019f41e8-915c-7aab-8cf1-4dd05ad53cfc",
+      "time": "2026-07-08 21:26:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said he may sink additional Iranian vessels tonight and strike them again, saying Iran would be powerless to stop it."
+    },
+    {
+      "id": "4976987",
+      "time": "2026-07-08 21:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：下一屆北約峰會將在阿爾巴尼亞舉行，但具體時間仍待確定。"
+    },
+    {
+      "id": "4976986",
+      "time": "2026-07-08 21:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行向OpenAI提供5.2億美元信貸額度，助力其籌備上市。"
+    },
+    {
+      "id": "mkt:019f41e8-5037-7aab-8cf1-434c7ef4a91d",
+      "time": "2026-07-08 21:26:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【World Gold Council: Gold ETF flows likely to stabilize in H2】World Gold Council: North American gold ETFs recorded $5.5bn of outflows in June, leaving H1 net outflows of $7.7bn — the weakest H1 since 2013. European ETFs saw $818m of outflows in June, cutting H1 net inflows to $3.2bn. Asia posted a record single-month outflow of $2.3bn in June but still led H1 inflows with $12.0bn. The June price pullback was the main driver of reduced ETF allocations. The Council says regional gold ETF flows are likely to stabilize in H2. Its 2026 Mid-year Gold Outlook baseline scenario projects gold to be relatively stable in H2, while alternate scenarios could produce more significant catalysts. Ongoing geopolitical, growth and financial-market uncertainty may continue to support demand for portfolio protection and sustain interest in gold ETFs as strategic hedges."
+    },
+    {
+      "id": "4976985",
+      "time": "2026-07-08 21:25:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：（關於伊朗）昨晚擊沉了28艘伊朗的船隻。"
+    },
+    {
+      "id": "4976984",
+      "time": "2026-07-08 21:25:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：今晚可能會再摧毀多艘船隻。"
+    },
+    {
+      "id": "mkt:019f41e7-cc56-7aab-8cf1-39b61f6633f8",
+      "time": "2026-07-08 21:25:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said 28 Iranian vessels were sunk last night."
+    },
+    {
+      "id": "mkt:019f41e7-9706-7aab-8cf1-34bbe210c675",
+      "time": "2026-07-08 21:25:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States cannot trust Iranians."
+    },
+    {
+      "id": "mkt:019f41e7-7122-7aab-8cf1-2a289c9d3b60",
+      "time": "2026-07-08 21:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Prime Minister Meloni said Italy will respect NATO spending commitments but will determine the timing, procedures and priorities."
+    },
+    {
+      "id": "mkt:019f41e7-4d2b-7aab-8cf1-22c5305fd972",
+      "time": "2026-07-08 21:25:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO's 32 member states are firmly committed to continuing support for Ukraine."
+    },
+    {
+      "id": "4976983",
+      "time": "2026-07-08 21:25:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度國家鋁業公司與印度國家煤炭公司成立合資企業，建設一座1080兆瓦自備電廠。"
+    },
+    {
+      "id": "mkt:019f41e7-1cc8-7aab-8cf1-1a85bf52a5d3",
+      "time": "2026-07-08 21:24:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said even if an agreement is reached with Iran, he is uncertain it would be durable."
+    },
+    {
+      "id": "4976982",
+      "time": "2026-07-08 21:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗核問題：不確定該協議能否維持。"
+    },
+    {
+      "id": "mkt:019f41e6-21cf-7aab-8cf1-12a7c9fa57d6",
+      "time": "2026-07-08 21:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he would, if necessary, provide protection for Ukrainian airspace after the conflict ends."
+    },
+    {
+      "id": "4976981",
+      "time": "2026-07-08 21:23:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：北約32個成員國堅定承諾持續對烏克蘭提供支援。"
+    },
     {
       "id": "mkt:019f41e5-8521-7aab-8cf1-09c20338e6ba",
       "time": "2026-07-08 21:23:08",
