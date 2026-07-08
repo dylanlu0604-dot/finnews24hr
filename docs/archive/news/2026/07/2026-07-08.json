@@ -1,7 +1,134 @@
 {
   "date": "2026-07-08",
-  "count": 2399,
+  "count": 2414,
   "items": [
+    {
+      "id": "mkt:019f412c-bff3-7aab-8cea-c8b1dcf4601e",
+      "time": "2026-07-08 18:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AAPL.O",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "Apple (AAPL.O) has signed a new multi-year agreement with Broadcom (AVGO.O) expected to exceed $30 billion to produce more than 15 billion US-made chips."
+    },
+    {
+      "id": "4976511",
+      "time": "2026-07-08 18:01:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY 50指數<.NSEI>收盤暫跌2.06%。"
+    },
+    {
+      "id": "4976510",
+      "time": "2026-07-08 18:01:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元 <INR=IN> 截至印度標準時間下午3:30報95.53，下跌0.6%；前收盤價94.9675。"
+    },
+    {
+      "id": "mkt:019f412c-661e-7aab-8cea-c65fc5d2535b",
+      "time": "2026-07-08 18:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen electricity consumption up 7.69% YoY in 1H 2026】In 1H 2026 Shenzhen’s total electricity consumption was 61.302 bln kWh, up 7.69% YoY. By sector, secondary (industrial) consumption was 28.499 bln kWh, +5.60% YoY; tertiary (services) 23.037 bln kWh, +9.94% YoY; residential 9.738 bln kWh, +8.70% YoY."
+    },
+    {
+      "id": "4976509",
+      "time": "2026-07-08 18:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：HANDSPRING 完成 1900 萬美元 B 輪融資。"
+    },
+    {
+      "id": "mkt:019f412c-3b24-7aab-8cea-bbf1290d4854",
+      "time": "2026-07-08 18:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCC secretary-general says Iran attacks undermine regional peace efforts】The Gulf Cooperation Council (GCC) secretary-general condemned Iranian attacks on Bahrain and Kuwait, saying they flagrantly violated the two states’ sovereignty, directly threatened civilians and residents, and breached international law and the UN Charter. In a Riyadh-based statement he said the strikes reflect a pattern of Tehran undermining international and regional efforts to build security and resolve crises."
+    },
+    {
+      "id": "4976508",
+      "time": "2026-07-08 18:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國經常賬戶赤字或將收窄至1億歐元。"
+    },
+    {
+      "id": "4976507",
+      "time": "2026-07-08 18:00:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華海藥業：收到美國關稅退稅1422.96萬美元】華海藥業公告，公司下屬控股子公司壽科健康美國有限責任公司於近期陸續收到美國關稅退回款項。2026年2月，美國最高法院裁定，認定政府依據《國際緊急經濟權力法》（IEEPA）徵收關稅的行為逾越法定許可權，相關關稅措施自始無效，因此已徵收的相關關稅需退還給進口商。美國海關與邊境保護局（CBP）於2026年4月20日正式啟動了退稅工作。截至目前，公司下屬控股子公司壽科健康已累計收到美國關稅退回1422.96萬美元，佔公司最近一期經審計歸屬於上市公司股東的淨利潤的36.36%。按2026年7月8日人民幣匯率中間價折算，預計影響公司2026年度淨利潤約人民幣9687萬元，以上退稅，按照具體到賬時間利潤影響主要在下半年。"
+    },
+    {
+      "id": "4976506",
+      "time": "2026-07-08 17:59:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮稱國際奧委會解除禁令是重要一步。"
+    },
+    {
+      "id": "4976505",
+      "time": "2026-07-08 17:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳上半年全社會用電量同比增長7.69%】據“深圳供電”公眾號訊息，2026年上半年，深圳全社會用電量613.02億千瓦時，同比增長7.69%。分產業看，上半年深圳第二產業用電量284.99億千瓦時，同比增長5.60%；第三產業用電量230.37億千瓦時，同比增長9.94%；居民生活用電量97.38億千瓦時，同比增長8.70%。"
+    },
+    {
+      "id": "4976504",
+      "time": "2026-07-08 17:58:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "在 GOLDMAN 將 BATH & BODY WORKS 的評級下調至賣出後，該股股價下跌 5.4%。"
+    },
+    {
+      "id": "mkt:019f412a-2e6c-7aab-8cea-b73c42920f15",
+      "time": "2026-07-08 17:58:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy said he met with a bipartisan delegation from both houses of the U.S. Congress, briefing members on a shortage of Patriot interceptor missiles and on recent Russian attacks on Ukrainians; they held substantive talks on diplomatic prospects and the conditions required for success."
+    },
+    {
+      "id": "4976503",
+      "time": "2026-07-08 17:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與美國國會兩院跨黨派代表團舉行了一場會議，我們就外交前景及其成功所需條件進行了非常有意義的討論。我通報了“愛國者”攔截導彈短缺以及俄羅斯對我國人民的襲擊情況。"
+    },
+    {
+      "id": "4976502",
+      "time": "2026-07-08 17:58:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首開股份：金石成長基金完成擴募備案，認繳規模達50億元】首開股份公告，公司控股子公司北京首開盈信投資管理有限公司與專業投資機構共同投資的進展，金石成長股權投資（杭州）合夥企業（有限合夥）已於2026年7月6日在中國證券投資基金業協會完成關於本次擴募的重大事項變更備案，其認繳規模由初始認繳規模的32.8億元變更為50億元，已達到目標認繳規模。公司對該基金原始認繳出資額為6億元，2025年7月7日經董事會審議同意調整至3億元，認繳比例變更為6.00%，截至目前公司已實繳出資額為2.1億元。"
+    },
+    {
+      "id": "4976501",
+      "time": "2026-07-08 17:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊銀行啟動VISA公司覆蓋分析，給予“超配”並設定目標價為420美元。"
+    },
     {
       "id": "mkt:019f4129-1fac-7aab-8cea-a946055e118d",
       "time": "2026-07-08 17:57:21",
