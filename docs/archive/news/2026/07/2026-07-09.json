@@ -1,7 +1,80 @@
 {
   "date": "2026-07-09",
-  "count": 278,
+  "count": 287,
   "items": [
+    {
+      "id": "4977451",
+      "time": "2026-07-09 01:35:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數轉跌為漲，上漲0.1%。"
+    },
+    {
+      "id": "mkt:019f42cc-80e4-7aab-8cfb-2518618ad5ab",
+      "time": "2026-07-09 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said \"Remarks by Israel and Greece opposing Turkey's purchase of F-35s have no place in my world.\""
+    },
+    {
+      "id": "4977450",
+      "time": "2026-07-09 01:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：希臘總理米佐塔基斯不應犯下反對土耳其採購噴氣式戰機這一錯誤。"
+    },
+    {
+      "id": "4977449",
+      "time": "2026-07-09 01:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：以色列和希臘反對土耳其購買F-35戰機“在我這裡行不通”。"
+    },
+    {
+      "id": "mkt:019f42cb-77a3-7aab-8cfb-180a27102318",
+      "time": "2026-07-09 01:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President ERDOGAN said NATO must be an alliance of mutually reinforcing allies, not one in which member states are dependent on each other."
+    },
+    {
+      "id": "4977448",
+      "time": "2026-07-09 01:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安談及伊朗相關事宜： 我們當然清楚談判程序充滿重重阻礙。 當下關鍵是要保留尋求解決方案的意願。儘管局勢反覆拉鋸，但我相信理性終將佔據上風。 全世界都期盼能給和平一次機會。"
+    },
+    {
+      "id": "4977447",
+      "time": "2026-07-09 01:32:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：GPT-live（新一代語音模型）今日在ChatGPT正式上線。體驗十分奇妙，對話質感非常真實。我以前一直更喜歡打字和AI交流，但現在我覺得這種習慣要改變了。"
+    },
+    {
+      "id": "mkt:019f42c9-ad43-7aab-8cfb-156be4056a49",
+      "time": "2026-07-09 01:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SNB chair: private debt is widely discussed internationally but remains a marginal phenomenon in Switzerland."
+    },
+    {
+      "id": "4977446",
+      "time": "2026-07-09 01:31:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX AI與Cursor釋出面向法律、金融場景的Grok人工智慧模型。"
+    },
     {
       "id": "4977445",
       "time": "2026-07-09 01:31:26",
