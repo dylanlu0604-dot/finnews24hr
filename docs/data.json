@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-09 03:11:54",
-  "count": 16073,
+  "updated": "2026-07-09 03:15:39",
+  "count": 16074,
   "items": [
+    {
+      "id": "mkt:019f4327-a1ce-7aab-8cfd-263409012bca",
+      "time": "2026-07-09 03:14:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Iran FM Araghchi speaks with Qatari PM Mohammed, urges diplomatic resolution of Strait of Hormuz tensions】On the 8th local time, Iranian foreign minister Araghchi held a phone call with Qatari prime minister and foreign minister Mohammed. They exchanged views on regional developments, notably recent incidents in the Strait of Hormuz, and stressed using diplomatic channels and ongoing contact and coordination to prevent escalation."
+    },
+    {
+      "id": "4977548",
+      "time": "2026-07-09 03:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與卡達首相通話 強調外交渠道解決地區問題】當地時間8日，伊朗外長阿拉格齊與卡達首相兼外交大臣穆罕默德通電話。雙方就地區局勢，特別是霍爾木茲海峽近期事態以及共同關心的問題交換意見。雙方強調，應利用外交渠道處理地區問題，並保持接觸與協調，防止地區緊張局勢升級。（央視新聞）"
+    },
     {
       "id": "4977547",
       "time": "2026-07-09 03:10:44",
@@ -146887,14 +146908,6 @@
         "國際"
       ],
       "text": "美國聯邦貿易委員會表示，人工智慧偏見防控措施可能違反消費者保護法。"
-    },
-    {
-      "id": "4965871",
-      "time": "2026-07-02 03:14:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國正積極遊說美國，獲准在德國境內製造美製武器裝備，一方面希望維繫特朗普對歐洲安全事務的投入，另一方面補齊本國軍備缺口。"
     }
   ]
 }
