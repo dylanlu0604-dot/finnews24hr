@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-09 06:34:02",
-  "count": 16128,
+  "updated": "2026-07-09 06:37:53",
+  "count": 16135,
   "items": [
+    {
+      "id": "mkt:019f43e0-af20-7aab-8cff-bc7bdfa57cfa",
+      "time": "2026-07-09 06:37:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Spain was very generous today."
+    },
+    {
+      "id": "4977673",
+      "time": "2026-07-09 06:36:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國駐歐洲駐軍規模將取決於格陵蘭與伊朗相關局勢。"
+    },
+    {
+      "id": "4977672",
+      "time": "2026-07-09 06:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及北約：今日各方高度團結一致。"
+    },
+    {
+      "id": "4977671",
+      "time": "2026-07-09 06:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：西班牙遵照要求支付了大筆款項。"
+    },
+    {
+      "id": "4977670",
+      "time": "2026-07-09 06:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：西班牙今天非常慷慨。"
+    },
+    {
+      "id": "4977669",
+      "time": "2026-07-09 06:35:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗非常想達成協議。"
+    },
+    {
+      "id": "4977668",
+      "time": "2026-07-09 06:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不確定伊朗是否會遵守協議。"
+    },
+    {
+      "id": "te:markets:565413",
+      "time": "2026-07-09 06:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 4.07% — Top commodity losers are Platinum (-4.07%), Silver (-2.65%), Silicon (-2.29%) and Gold (-0.71%). Gains are led by Iron Ore CNY (1.43%), Steel Rebar (0.95%) and Iron Ore (0.86%)."
+    },
+    {
+      "id": "mkt:019f43de-deb9-7aab-8cff-b13c32485814",
+      "time": "2026-07-09 06:35:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $74/bbl, down 0.71% intraday."
+    },
+    {
+      "id": "4977667",
+      "time": "2026-07-09 06:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們有很多方法可以贏。"
+    },
+    {
+      "id": "4977666",
+      "time": "2026-07-09 06:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我是伊朗頭號目標，剛剛對伊朗實施了強力打擊。"
+    },
     {
       "id": "4977665",
       "time": "2026-07-09 06:33:11",
@@ -147484,41 +147579,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Coffee Surges by 6.08% — Top commodity gainers are Coffee (6.08%) and Oat (2.37%)."
-    },
-    {
-      "id": "4965984",
-      "time": "2026-07-02 06:36:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震2295人遇難11267人傷】當地時間7月1日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報，委內瑞拉地震遇難人數升至2295人，受傷人數上升至11267人，強震後發生了782次餘震。"
-    },
-    {
-      "id": "4965983",
-      "time": "2026-07-02 06:35:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "一項最新民調顯示，超兩成一比例的美國民眾支援將特朗普總統的名字從肯尼迪中心移除。"
-    },
-    {
-      "id": "te:markets:563544",
-      "time": "2026-07-02 06:35:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.24% — Top commodity gainers are Lithium Carbonate (2.24%), Silver (1.36%), Platinum (1.30%) and Gold (0.74%). Biggest losers are Iron Ore CNY (-1.87%), Iron Ore (-1.84%) and Copper (-1.39%)."
-    },
-    {
-      "id": "4965982",
-      "time": "2026-07-02 06:35:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情官員：美國與伊朗已達成共識，未來數週內保持局勢低調緩和，以期在諒解備忘錄約定的60天談判週期內取得一定進展。"
     }
   ]
 }
