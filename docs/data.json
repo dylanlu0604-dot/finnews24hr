@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-08 18:07:51",
+  "updated": "2026-07-08 18:12:11",
   "count": 16071,
   "items": [
+    {
+      "id": "mkt:019f4135-9805-7aab-8ceb-263e661d6248",
+      "time": "2026-07-08 18:10:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Brent three-month futures spread touched $2.36/bbl, the highest since June 16 — the day after the US and Iran signed a memorandum of understanding on a peace agreement."
+    },
+    {
+      "id": "4976529",
+      "time": "2026-07-08 18:10:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將聯合租賃公司 <URI.N>  目標價從1130美元上調至1210美元。"
+    },
+    {
+      "id": "4976528",
+      "time": "2026-07-08 18:10:36",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將強生目標價從285美元上調至298美元。"
+    },
+    {
+      "id": "4976527",
+      "time": "2026-07-08 18:10:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油期貨三個月價差<LCOc1-LCOc4>觸及每桶2.36美元，創6月16日以來新高——6月16日正是美國與伊朗簽署和平協議備忘錄的次日。"
+    },
+    {
+      "id": "4976526",
+      "time": "2026-07-08 18:10:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中策橡膠：參與專案獲國家科學技術進步獎二等獎】中策橡膠公告，公司參與的專案“高效能輪胎關鍵技術及其綠色智慧製造”獲得2025年度國家科學技術進步獎二等獎，主要完成單位包括哈爾濱工業大學、中策橡膠集團股份有限公司等。該專案聚焦輪胎整體制造技術與關鍵材料創新，總體技術達到國際領先水平。此次獲獎有助於提升公司品牌影響力，但對短期業績無重大影響。"
+    },
+    {
+      "id": "4976525",
+      "time": "2026-07-08 18:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦：將奈飛(NFLX.O)目標價從110美元下調至100美元。"
+    },
+    {
+      "id": "mkt:019f4134-8897-7aab-8ceb-1d10d0a3a45c",
+      "time": "2026-07-08 18:09:49",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Bernstein lowers Netflix (NFLX.O) price target to $100 from $110."
+    },
+    {
+      "id": "mkt:019f4134-6593-7aab-8ceb-146e7510eabd",
+      "time": "2026-07-08 18:09:40",
+      "tags": [
+        "MKT News",
+        "JNJ.N",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raised its PT on Johnson & Johnson (JNJ.N) to $298 from $285."
+    },
+    {
+      "id": "mkt:019f4134-3f98-7aab-8ceb-0f15bc3dcad1",
+      "time": "2026-07-08 18:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A European Commission spokesperson said the EU expects the United States to fulfill its obligations under the EU–US trade agreement."
+    },
+    {
+      "id": "4976524",
+      "time": "2026-07-08 18:09:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將GE醫療保健公司目標股價從65美元上調至69美元。"
+    },
+    {
+      "id": "4976523",
+      "time": "2026-07-08 18:08:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永太科技：氟化液相關業務目前在整體營收中佔比較小】永太科技今日在接待機構調研時表示，公司的氟化液產品可適用於半導體制造、資料中心冷卻、5G基站液冷、儲能熱管理和晶片封裝等細分場景。目前公司正圍繞上述應用領域積極與下游客戶開展多批次的產品測試與合作對接，推動產品在不同場景的商業化落地。目前，相關業務在公司整體營收中佔比較小。"
+    },
+    {
+      "id": "4976522",
+      "time": "2026-07-08 18:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科威爾：多名股東擬減持股份】科威爾公告，蔣佳平、任毅、唐德平、夏亞平、邰坤因自身資金需求，計劃自本公告披露之日起15個交易日後的三個月內，透過大宗交易或集中競價交易方式合計減持股份總數不超過400萬股，佔公司總股本比例不超過3.67%。"
+    },
+    {
+      "id": "4976521",
+      "time": "2026-07-08 18:07:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2連板大名城：目前公司算力業務仍處於起步階段 2025年度算力服務收入佔營收比例僅為0.68%】大名城(600094.SH)公告稱，公司A股股票於2026年7月6日、7月7日、7月8日連續三個交易日內日收盤價格漲幅偏離值累計達到20%，屬於股票交易異常波動。目前公司算力業務仍處於起步階段。2025年度算力服務收入佔公司營業收入比例為0.68%，對公司整體收入和利潤影響較小。至2026年1月31日，公司控股子公司名城數字與相關公司簽署的先進計算機服務合同，以及名城數字與上海聯通簽訂的《雲服務採購合同》經各方協商已經終止。"
+    },
+    {
+      "id": "mkt:019f4132-003a-7aab-8ceb-01d745b97242",
+      "time": "2026-07-08 18:07:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An EU Commission spokesperson said the Commission will always ensure the interests of the EU and all member states are fully protected."
+    },
+    {
+      "id": "mkt:019f4131-dc44-7aab-8cea-fa0742fda4e3",
+      "time": "2026-07-08 18:06:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission spokesperson says preserving U.S.-EU trade relations is in both sides' interests."
+    },
+    {
+      "id": "4976520",
+      "time": "2026-07-08 18:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：期望美國履行其在貿易聯合宣告中作出的承諾。"
+    },
+    {
+      "id": "mkt:019f4131-bd6c-7aab-8cea-f77549ec9b1a",
+      "time": "2026-07-08 18:06:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Finance Ministry said June's budget deficit was 8.6 bln shekels."
+    },
+    {
+      "id": "4976519",
+      "time": "2026-07-08 18:06:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟執委會發言人表示，執委會將始終確保歐盟及所有成員國的利益得到充分保護。"
+    },
     {
       "id": "mkt:019f4131-5d6f-7aab-8cea-ed61eeb3303c",
       "time": "2026-07-08 18:06:21",
@@ -9,6 +165,14 @@
         "MKT News"
       ],
       "text": "Broadcom (AVGO.O) recouped part of premarket losses and was trading down 0.5% after agreeing with Apple (AAPL.O) to produce more than 15 billion chips."
+    },
+    {
+      "id": "4976518",
+      "time": "2026-07-08 18:06:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗布什爾省兩處軍事基地遭襲】據伊朗法爾斯通訊社8日報道，伊朗布什爾省兩處軍事基地當天“遭敵方襲擊”，暫無人員傷亡的報告。 報道援引布什爾省安全官員的話說，8日凌晨，位於該省達什提縣的一處軍事基地和位於喬加達克市附近的一處軍事基地“遭敵方襲擊”。伊朗伊斯蘭革命衛隊發言人8日表示，一架美軍MQ－9型“死神”無人機在布什爾省霍爾穆季市上空被擊落。 另據伊朗邁赫爾通訊社報道，伊朗伊斯蘭革命衛隊第三海軍轄區駐馬赫沙赫爾港公共關係部門稱，一名士兵8日上午在敵軍無人機襲擊中死亡。(新華社)"
     },
     {
       "id": "mkt:019f4130-92b9-7aab-8cea-e66135c4c15d",
@@ -146907,175 +147071,6 @@
         "Impact bearish"
       ],
       "text": "【Analyst: Don’t expect KEVIN WARSH to give forward guidance tonight】Investors will hear Fed chair KEVIN WARSH speak tonight but should not expect new forward guidance—he has signalled he wants to curtail its use and considers it of limited practical value. He may, however, discuss how he assesses the inf outlook and its drivers. Evercore ISI head of strategy and economics Krishna Guha said market attention will be on how Warsh frames the inf outlook, citing drivers such as falling oil, easing inf expectations, other commodities, a stronger dollar and potential AI-related cost pass-through."
-    },
-    {
-      "id": "4964927",
-      "time": "2026-07-01 18:11:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【唐山港：2026年1-6月貨物吞吐量同比增長5.19%】 唐山港公告，公司2026年1-6月預計累計完成貨物吞吐量1.26億噸，同比增長5.19%。其中，礦石完成0.684億噸，煤炭完成0.345億噸，鋼材完成0.083億噸，其他貨種完成0.144億噸。本公告所披露的生產經營資料屬於快速統計資料，與公司最終實際資料可能存在差異。"
-    },
-    {
-      "id": "4964926",
-      "time": "2026-07-01 18:11:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【寧波中百：股價異常波動 一季度營收降65.73%】寧波中百公告稱，公司股票於2026年6月29日、6月30日、7月1日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬於異常波動。6月25日至7月1日收盤價格漲幅偏離值累計達38.81%，滾動市盈率95.80，顯著高於行業平均的22.17。經自查，公司經營正常，無應披露未披露重大事項。2026年一季度，公司營收5302.56萬元，同比降65.73%；扣非後淨利潤445.84萬元，同比降5.95%。提醒投資者注意風險。"
-    },
-    {
-      "id": "4964925",
-      "time": "2026-07-01 18:11:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞國家石油公司收到哥倫比亞政府 1 萬億哥倫比亞比索款項。"
-    },
-    {
-      "id": "mkt:019f1d28-96a1-7aab-8c53-661118462e59",
-      "time": "2026-07-01 18:10:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK",
-        "Impact bearish"
-      ],
-      "text": "BYD said June new-energy vehicle sales were 403,500 units; cumulative year-to-date sales declined 15.72% YoY."
-    },
-    {
-      "id": "4964924",
-      "time": "2026-07-01 18:10:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國政府發言人在巴黎表示，下一屆總統選舉第二輪將於5月2日舉行。"
-    },
-    {
-      "id": "4964923",
-      "time": "2026-07-01 18:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國政府發言人：下一屆總統選舉第一輪將於4月18日舉行。"
-    },
-    {
-      "id": "4964922",
-      "time": "2026-07-01 18:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：6月插電式混合動力乘用車銷量195820輛。"
-    },
-    {
-      "id": "4964921",
-      "time": "2026-07-01 18:09:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：6月汽車銷量403472輛。"
-    },
-    {
-      "id": "4964920",
-      "time": "2026-07-01 18:09:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【維梧資本完成對Dutscher集團全資收購】7月1日，維梧資本宣佈，完成對Dutscher集團的全資收購。Dutscher集團創立於1982年，總部在法國，是泛歐洲最大的獨立的實驗室耗材及裝置分銷商之一，公司在2025年的營業收入超4億歐元，全球擁有1100名員工。"
-    },
-    {
-      "id": "4964919",
-      "time": "2026-07-01 18:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：6月乘用車銷量397292輛。"
-    },
-    {
-      "id": "4964918",
-      "time": "2026-07-01 18:09:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：累計汽車銷量181萬輛。"
-    },
-    {
-      "id": "4964917",
-      "time": "2026-07-01 18:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：6月純電動乘用車銷量201472輛。"
-    },
-    {
-      "id": "te:economy:563402",
-      "time": "2026-07-01 18:09:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Netherlands Q1 Current Account Widens — The Netherlands’ current account surplus widened to €26.28 billion in the first quarter of 2026 from a downwardly revised €23.28 billion in the corresponding quarter of the previous year. The goods account surplus widened to €22.40 billion from €22.0 billion, while the services account surplus also rose to €9.17 billion from €8.36 billion. Additionally, the primary income shortfall shrank significantly by €1.84 billion to €0.39 billion from €2.23 billion a year earlier. On the other hand, the secondary income deficit increased to €4.91 billion from €4.82 billion."
-    },
-    {
-      "id": "4964916",
-      "time": "2026-07-01 18:08:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【返利科技：股價異常波動 控制權變更事項尚在進行中】返利科技公告稱，公司股票於2026年6月29 - 7月1日連續三個交易日內日收盤價格跌幅偏離值累計超20%，屬異常波動。經自查，除已披露的控制權變更事項外，無其他應披露未披露重大資訊。6月24日，原控股股東上海享銳及其一致行動人擬向繁楓智慧轉讓6666.60萬股（佔總股本16.00%），完成後控股股東將變更。目前繁楓智慧已支付首筆轉讓款1.10億元，該事項尚需獲批，存在不確定性。"
-    },
-    {
-      "id": "mkt:019f1d26-fe77-7aab-8c53-5fb0975987f0",
-      "time": "2026-07-01 18:08:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Guangzhou Futures Exchange said it will adjust daily price limits for platinum and palladium futures to 14% and set trading margin requirements at 16%, effective at settlement on July 3, 2026."
-    },
-    {
-      "id": "4964915",
-      "time": "2026-07-01 18:08:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "廣期所：經研究決定，自2026年7月3日結算時起，鉑、鈀期貨合約漲跌停板幅度調整為14%、交易保證金標準調整為16%。"
-    },
-    {
-      "id": "4964914",
-      "time": "2026-07-01 18:08:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "邱寶華任中國聯合網路通訊集團有限公司副總經理、黨組成員。"
-    },
-    {
-      "id": "4964913",
-      "time": "2026-07-01 18:08:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【德國復興信貸銀行：歐元區不太可能面臨重大的第二輪通脹效應】德國復興信貸銀行研究部的Stephanie Schoenwald在一份報告中表示，歐元區的通脹率正在顯著下降。她表示，在能源衝擊的頂峰已過之際，基本可以排除對勞動力市場產生重大第二輪效應的可能性。歐元區6月份通脹率降溫速度快於預期，較5月份的3.2%降至2.8%。“這降低了歐洲央行進一步加息的可能性，”Schoenwald說，並指出7月份加息現在看來希望渺茫。不過，不能排除未來進一步收緊貨幣政策的可能性。“只有未來幾周和幾個月的資料才能揭示，創四個月新高的能源價格仍在對該地經濟施加多大的額外價格壓力。”"
-    },
-    {
-      "id": "4964912",
-      "time": "2026-07-01 18:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "比利時警方：週三上午安特衛普一棟住宅建築發生火災，造成多人死亡。"
     }
   ]
 }
