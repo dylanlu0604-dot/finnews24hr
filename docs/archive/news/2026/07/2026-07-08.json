@@ -1,7 +1,111 @@
 {
   "date": "2026-07-08",
-  "count": 3568,
+  "count": 3579,
   "items": [
+    {
+      "id": "4977274",
+      "time": "2026-07-08 23:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：亞馬遜網路服務與華納兄弟探索集團合作開發智慧體AI廣告平臺。"
+    },
+    {
+      "id": "mkt:019f4270-89dc-7aab-8cf7-c5e3b6b23b4e",
+      "time": "2026-07-08 23:54:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Fox Corporation has named Amazon Web Services (AWS) as its preferred AI cloud services provider."
+    },
+    {
+      "id": "4977273",
+      "time": "2026-07-08 23:54:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然原油8月份輕載量將驟降至44.5萬桶/日。"
+    },
+    {
+      "id": "4977272",
+      "time": "2026-07-08 23:54:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國2年期國債收益率逼近2026年高點 全球債市拋售加劇】隨著油價上漲再次引發對通脹的擔憂，全球債市遭遇拋售，2年期美國國債收益率回升，逼近上月高點。這一與美聯儲貨幣政策預期密切相關的短期收益率一度上漲4個基點，至4.22%，距離6月22日的峰值僅差1個基點；當時為2025年2月以來最高水平。10年期收益率也一度上漲4個基點，至4.59%，為5月下旬以來最高。這一躍升反映出，市場再次認為美聯儲將需開始加息，以遏制消費價格上漲。"
+    },
+    {
+      "id": "4977271",
+      "time": "2026-07-08 23:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【長江武漢漢口站水位超設防水位】7月8日，受強降雨影響，長江武漢段水位明顯上漲，長江漢口站水位25.11米，超設防水位0.11米。武漢水務部門防汛工作人員在長江兩岸巡查堤防、緊盯水位變化、排查堤岸隱患、劃定警戒區域、勸導市民遠離臨水危險地帶，築牢防汛安全屏障。（新華社）"
+    },
+    {
+      "id": "mkt:019f426f-9838-7aab-8cf7-bfda0708a264",
+      "time": "2026-07-08 23:53:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI mentions in Ontario job ads jump to 28% after new disclosure rule】Indeed economist Brendon Bernard finds AI references in Ontario job postings rose to 28% from 9% after provincial rules introduced earlier this year requiring disclosure of AI use in hiring. Mentions climbed across nearly all occupations, with exceptions in beauty and personal care, dental and veterinary services. Bernard says the current level likely understates AI prevalence given rule exemptions and incomplete compliance."
+    },
+    {
+      "id": "4977270",
+      "time": "2026-07-08 23:53:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "空中客車上半年交付量增長15%至351架。"
+    },
+    {
+      "id": "4977269",
+      "time": "2026-07-08 23:53:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：福克斯公司指定亞馬遜雲科技為首選人工智慧雲服務商。"
+    },
+    {
+      "id": "4977268",
+      "time": "2026-07-08 23:52:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲8%，現報76.08美元/桶。"
+    },
+    {
+      "id": "4977267",
+      "time": "2026-07-08 23:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美軍襲擊造成8名伊朗軍人死亡】據伊朗方面訊息，美軍8日凌晨對伊朗南部部分地區發動襲擊，造成伊朗軍方8人死亡。據瞭解，死亡人員來自伊朗陸軍航空兵和海軍部隊，事發地點包括阿巴斯港和布什爾。"
+    },
+    {
+      "id": "mkt:019f426d-d9e2-7aab-8cf7-b3df5efe6d36",
+      "time": "2026-07-08 23:52:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Planned exports of Azerbaijani crude from Ceyhan in August were 13.8 mln barrels, down from 15.8 mln barrels in July."
+    },
     {
       "id": "mkt:019f426c-e560-7aab-8cf7-ad3b87459963",
       "time": "2026-07-08 23:51:00",
