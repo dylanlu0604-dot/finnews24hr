@@ -1,7 +1,112 @@
 {
   "date": "2026-07-08",
-  "count": 3545,
+  "count": 3556,
   "items": [
+    {
+      "id": "mkt:019f4269-55aa-7aab-8cf7-8f94c7b42422",
+      "time": "2026-07-08 23:47:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude topped $80 a barrel for the first time since June 22, rising 5.54% on the day."
+    },
+    {
+      "id": "4977260",
+      "time": "2026-07-08 23:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍和強震給委內瑞拉帶來雙重創傷】當地時間7月7日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，委內瑞拉日前發生的強震造成的遇難人數升至3685人，受傷人數為16740人。總檯記者在委內瑞拉首都加拉加斯西南部一個社群探訪時發現，半年內連續遭遇美軍空襲與強震，讓這裡的許多居民正面臨著難以平復的心理應激反應。（CCTV國際時訊）"
+    },
+    {
+      "id": "4977259",
+      "time": "2026-07-08 23:46:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅培回應國家醫保局稱有藥企在集採中偽造專家建議函：所指企業並非雅培。"
+    },
+    {
+      "id": "4977258",
+      "time": "2026-07-08 23:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孟加拉國山體滑坡致10名兒童死亡】孟加拉國東南部8日發生3起由強降雨引發的山體滑坡，共造成10名兒童死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019f4268-3d0d-7aab-8cf7-824812865aa9",
+      "time": "2026-07-08 23:45:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media reported eight Iranian military personnel were killed in a U.S. strike on southern Iran."
+    },
+    {
+      "id": "mkt:019f4268-116b-7aab-8cf7-7defdf1fd687",
+      "time": "2026-07-08 23:45:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "CFTC: Despite geopolitical uncertainty driving sharp volatility in fertilizer and crude oil prices, U.S. derivatives markets provide firms with innovative risk-management tools that help prevent full cost pass-through to consumers."
+    },
+    {
+      "id": "4977257",
+      "time": "2026-07-08 23:45:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德國央行行長：中東局勢令人關切 不排除歐洲央行再次加息的可能性】歐洲央行管理委員會委員、德國央行行長Joachim Nagel對中東局勢發展表示擔憂，重申歐洲央行可能仍需再次加息。Nagel週三在斯洛維尼亞首都盧布林雅那表示，自己週一還感到樂觀，因為當時油價已回落至衝突前水平，而且德國內閣批准了養老金改革方案，工業資料也有所改善。“但我想你們中的一些人今天早上已經看了新聞，”Nagel說，“現在我認為我們又回到了原點。我仍希望事情會有不同的發展，但最新訊息是和平談判已經停止，特朗普還宣佈將停止與西班牙的貿易。是的，這很奇怪。而且能源價格又上漲了。”"
+    },
+    {
+      "id": "4977256",
+      "time": "2026-07-08 23:44:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：歐洲在很大程度上依賴加工關鍵原材料與稀土的國家，而這類原料大多產自非洲。非洲是我們近鄰，非洲各國也希望與我們開展更緊密的合作。它們想要的是建立在平等基礎上的健康夥伴關係，而非我們多次提及的掠奪式往來。"
+    },
+    {
+      "id": "4977254",
+      "time": "2026-07-08 23:43:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利表示，歐洲可以透過凍結支出來勉強渡過難關。"
+    },
+    {
+      "id": "mkt:019f4266-4c1a-7aab-8cf7-73d7eeadcd07",
+      "time": "2026-07-08 23:43:48",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus delivered 89 aircraft in June and logged 71 gross orders for the month; January–June deliveries totaled 351 aircraft."
+    },
+    {
+      "id": "4977253",
+      "time": "2026-07-08 23:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿盟：以色列拒絕阿盟秘書長入境巴勒斯坦】阿拉伯國家聯盟（阿盟）8日發表宣告稱，以色列拒絕阿盟秘書長法赫米對巴勒斯坦被佔領土的訪問。宣告說，巴勒斯坦方面通知阿盟秘書處，以方拒絕了法赫米原定8日的訪問。法赫米原計劃當日訪問位於巴勒斯坦約旦河西岸地區的拉姆安拉，並與巴勒斯坦總統阿巴斯舉行會晤。（新華社）"
+    },
     {
       "id": "mkt:019f4265-d229-7aab-8cf7-6c319769d9a3",
       "time": "2026-07-08 23:43:16",
