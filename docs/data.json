@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-09 06:14:49",
-  "count": 16123,
+  "updated": "2026-07-09 06:18:35",
+  "count": 16124,
   "items": [
+    {
+      "id": "4977656",
+      "time": "2026-07-09 06:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們剛剛落地，見到了我們全新的空軍一號專機，該機此前已提前運至米爾登霍爾皇家空軍基地。"
+    },
+    {
+      "id": "4977655",
+      "time": "2026-07-09 06:16:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士美國IPO獲得逾七倍超額認購。"
+    },
+    {
+      "id": "te:markets:565411",
+      "time": "2026-07-09 06:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.48% — Top currency gainers are South Korean Won (0.48%), Brazilian Real (0.42%), New Zealand Dollar (0.41%) and British Pound (0.23%). Biggest losers are Indian Rupee (-0.39%), Mexican Peso (-0.35%) and Japanese Yen (-0.31%). Meanwhile, Euro and Dollar Index were little changed."
+    },
+    {
+      "id": "mkt:019f43cc-797c-7aab-8cff-824c65da98bc",
+      "time": "2026-07-09 06:15:01",
+      "tags": [
+        "MKT News",
+        "PARA.N",
+        "Impact bearish",
+        "WBD.N"
+      ],
+      "text": "Sources say U.S. states could file suit as early as next week to block Paramount's deal with Warner Bros."
+    },
     {
       "id": "mkt:019f43cb-69d0-7aab-8cff-7b7b5efff77f",
       "time": "2026-07-09 06:13:52",
@@ -147443,33 +147482,6 @@
         "焦點"
       ],
       "text": "比特幣升破61000美元，日內漲4.22%。"
-    },
-    {
-      "id": "mkt:019f1fc2-aeff-7aab-8c66-a4beb573fd3f",
-      "time": "2026-07-02 06:18:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Heat dome that drove record European heat to move over US Midwest, East this week】The NWS forecasts the heat dome that produced record heat in Europe will move over the US Midwest and Eastern states this week. Several World Cup host cities could see heat indices above 40°C. NWS advisories say sultry conditions in and around Kansas City and parts of Missouri will persist through the evening of July 3, with heat indices expected between 40.6°C and 43.3°C."
-    },
-    {
-      "id": "te:markets:563542",
-      "time": "2026-07-02 06:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Drops by 0.82% — Top currency losers are Indian Rupee (-0.82%), Brazilian Real (-0.49%), South Korean Won (-0.46%) and Euro (-0.39%). Gains are led by Dollar Index (0.21%) and British Pound (0.11%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "4965974",
-      "time": "2026-07-02 06:15:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩場大火在法國馬賽北部燒燬100公頃土地，已有200餘名消防員趕赴現場處置。"
     }
   ]
 }

@@ -1,7 +1,46 @@
 {
   "date": "2026-07-09",
-  "count": 646,
+  "count": 650,
   "items": [
+    {
+      "id": "4977656",
+      "time": "2026-07-09 06:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們剛剛落地，見到了我們全新的空軍一號專機，該機此前已提前運至米爾登霍爾皇家空軍基地。"
+    },
+    {
+      "id": "4977655",
+      "time": "2026-07-09 06:16:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士美國IPO獲得逾七倍超額認購。"
+    },
+    {
+      "id": "te:markets:565411",
+      "time": "2026-07-09 06:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.48% — Top currency gainers are South Korean Won (0.48%), Brazilian Real (0.42%), New Zealand Dollar (0.41%) and British Pound (0.23%). Biggest losers are Indian Rupee (-0.39%), Mexican Peso (-0.35%) and Japanese Yen (-0.31%). Meanwhile, Euro and Dollar Index were little changed."
+    },
+    {
+      "id": "mkt:019f43cc-797c-7aab-8cff-824c65da98bc",
+      "time": "2026-07-09 06:15:01",
+      "tags": [
+        "MKT News",
+        "PARA.N",
+        "Impact bearish",
+        "WBD.N"
+      ],
+      "text": "Sources say U.S. states could file suit as early as next week to block Paramount's deal with Warner Bros."
+    },
     {
       "id": "mkt:019f43cb-69d0-7aab-8cff-7b7b5efff77f",
       "time": "2026-07-09 06:13:52",
