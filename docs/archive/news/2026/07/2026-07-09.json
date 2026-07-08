@@ -1,7 +1,72 @@
 {
   "date": "2026-07-09",
-  "count": 248,
+  "count": 255,
   "items": [
+    {
+      "id": "mkt:019f42c0-4fa7-7aab-8cfa-cb065ba0db33",
+      "time": "2026-07-09 01:22:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank chairman said the policy rate is currently 0%; the threshold for moving into negative territory is high, but the bank will act if necessary."
+    },
+    {
+      "id": "4977431",
+      "time": "2026-07-09 01:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們已準備好承擔更多責任，以在北約內部實現更公平的責任分擔。"
+    },
+    {
+      "id": "4977430",
+      "time": "2026-07-09 01:21:25",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "瑞士央行行長：我們當前的政策利率為零，進入負利率區間的門檻很高，但如有必要，我們仍會採取這一舉措。"
+    },
+    {
+      "id": "4977429",
+      "time": "2026-07-09 01:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：用貶損言辭去談論伊朗民族，絲毫無法削弱這個國家的偉大。伊朗人民素來以溫文有禮、底蘊深厚的文化與崇高的道德品格著稱。我們不會以粗鄙回擊粗鄙，而是付諸行動。"
+    },
+    {
+      "id": "mkt:019f42be-dcf8-7aab-8cfa-c10bb46ee460",
+      "time": "2026-07-09 01:20:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Turkey's President Erdogan said US President Trump emphasized the friendship between Turkey and the US, which Turkey values, and Turkey thanked him."
+    },
+    {
+      "id": "mkt:019f42be-6cad-7aab-8cfa-bbde141bc0b2",
+      "time": "2026-07-09 01:20:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $3.347 billion from eight counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4977428",
+      "time": "2026-07-09 01:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：特朗普強調我們兩國的友誼對我們而言彌足珍貴，我們對此向他表示感謝。"
+    },
     {
       "id": "4977427",
       "time": "2026-07-09 01:19:45",
