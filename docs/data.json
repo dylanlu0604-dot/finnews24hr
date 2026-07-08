@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-09 01:36:20",
-  "count": 15981,
+  "updated": "2026-07-09 01:40:15",
+  "count": 15985,
   "items": [
+    {
+      "id": "mkt:019f42d0-0540-7aab-8cfb-3cfcd914ccb3",
+      "time": "2026-07-09 01:39:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq reversed into positive territory, up 0.1% after an earlier slide of more than 1%."
+    },
+    {
+      "id": "mkt:019f42cf-6dbe-7aab-8cfb-36433a941e61",
+      "time": "2026-07-09 01:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan, responding to Trump's remarks on the F-35 and how Turkey will handle Russia's S-400 air-defence system, said 'We'll see.'"
+    },
+    {
+      "id": "4977456",
+      "time": "2026-07-09 01:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞表示，露露樂蒙產品品類佈局有所改善。"
+    },
+    {
+      "id": "4977455",
+      "time": "2026-07-09 01:37:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥沃拉里斯航空股價跌幅擴大，下跌逾7%。"
+    },
+    {
+      "id": "4977454",
+      "time": "2026-07-09 01:37:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安在被問及特朗普關於F-35的言論以及土耳其將如何處理俄羅斯S-400系統時表示：繼續關注我們。"
+    },
+    {
+      "id": "4977453",
+      "time": "2026-07-09 01:37:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國部分新生兒父母在開設特朗普賬戶時受阻】面向兒童的新型投資專案“特朗普賬戶”(Trump Accounts)於週六正式啟動，但美國部分新生兒父母目前仍無法開戶。美國財政部發言人表示，開戶延誤主要影響的是2026年出生、且剛剛拿到新發放社會安全號碼的部分兒童。延誤的影響範圍似乎有限。"
+    },
+    {
+      "id": "mkt:019f42cd-c9c3-7aab-8cfb-2ef5e423f34c",
+      "time": "2026-07-09 01:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said Turkey has the right to buy fighter jets and defense equipment and is negotiating purchases."
+    },
+    {
+      "id": "4977452",
+      "time": "2026-07-09 01:35:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：土耳其有權購買戰機與國防裝備，目前正就此進行談判。"
+    },
     {
       "id": "4977451",
       "time": "2026-07-09 01:35:28",
@@ -49,6 +118,15 @@
         "國際"
       ],
       "text": "土耳其總統埃爾多安談及伊朗相關事宜： 我們當然清楚談判程序充滿重重阻礙。 當下關鍵是要保留尋求解決方案的意願。儘管局勢反覆拉鋸，但我相信理性終將佔據上風。 全世界都期盼能給和平一次機會。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607093798834993",
+      "time": "2026-07-09 01:33:15",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【瑞士央行行長表示 目前利率為0% 進入負利率的門檻很高】瑞士央行行長表示，目前利率為0%，進入負利率的門檻很高，但如有必要我們會採取行動。目前沒有推出零售型中央銀行數字貨幣的必要；私人債務在國際層面上被廣泛討論，但在瑞士卻是邊緣現象。"
     },
     {
       "id": "4977447",
@@ -145925,52 +146003,6 @@
         "國際"
       ],
       "text": "【德媒：“北溪”爆炸案一嫌疑人在德被起訴】德國媒體1日報道，德國聯邦檢察院已對一名涉嫌參與破壞“北溪”天然氣管道的烏克蘭籍嫌疑人提起公訴。據多家德媒報道，這名嫌疑人名為謝爾蓋·K。德國檢方指控他攻擊民用能源基礎設施、製造爆炸並破壞建築物。（新華社）"
-    },
-    {
-      "id": "mkt:019f1ec4-3215-7aab-8c64-9a157e0521e9",
-      "time": "2026-07-02 01:40:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Stournaras said policymakers should perhaps temporarily maintain the status quo."
-    },
-    {
-      "id": "mkt:019f1ec3-e98b-7aab-8c64-935ed344c37e",
-      "time": "2026-07-02 01:39:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "ECB Governing Council member Stournaras said he does not expect any policy action in July."
-    },
-    {
-      "id": "4965831",
-      "time": "2026-07-02 01:39:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委斯托納拉斯： 需密切關注戰爭對物價產生的間接影響。"
-    },
-    {
-      "id": "mkt:019f1ec3-a843-7aab-8c64-8c71a4baa7fa",
-      "time": "2026-07-02 01:39:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Stournaras says the ECB must monitor the indirect impact of war on prices."
-    },
-    {
-      "id": "4965830",
-      "time": "2026-07-02 01:39:06",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委斯托納拉斯： 我認為 7 月不會出臺任何（政策）調整， 或許短期內維持現狀會比較合適。"
     }
   ]
 }
