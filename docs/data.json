@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-09 04:44:07",
-  "count": 16111,
+  "updated": "2026-07-09 04:47:59",
+  "count": 16108,
   "items": [
+    {
+      "id": "te:markets:565409",
+      "time": "2026-07-09 04:46:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Lower as US-Iran Tensions Weigh — The Ibovespa fell 0.8% to close at 170,653 on Wednesday as renewed US-Iran tensions fueled global risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials and the broader market. Itaú fell 1.3% and Bradesco lost 0.7%. Vale dropped 4.6% after a hearing on the USTR's proposed 25% tariff on Brazilian goods concluded on Tuesday. The company was also pressured by the announcement of the immediate resignation of Chairman Daniel Stieler. Other exporters traded lower, with Embraer down 3%. In contrast, Petrobras gained 3.1% as higher oil prices boosted the energy sector."
+    },
+    {
+      "id": "mkt:019f4379-0403-7aab-8cfe-ca2316fdeb23",
+      "time": "2026-07-09 04:43:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the US is demanding restoration of the southern route through the Strait of Hormuz in a manner that violates the memorandum of understanding, which Iran cannot accept, and that recent US hostile actions will be met with a response."
+    },
     {
       "id": "4977611",
       "time": "2026-07-09 04:41:22",
@@ -147279,54 +147302,6 @@
         "國際"
       ],
       "text": "卡達外交部發言人：各方同意在後續階段繼續磋商，待伊朗前最高領袖葬禮相關事宜結束後，將盡快安排下一輪會談。"
-    },
-    {
-      "id": "mkt:019f1f70-281c-7aab-8c66-63eb8690d46b",
-      "time": "2026-07-02 04:47:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign minister said positive progress is being made on issues related to the Islamabad memorandum of understanding. Parties have agreed to continue talks over the near term and to hold the next round of discussions as soon as possible after the funeral of the former Iranian supreme leader."
-    },
-    {
-      "id": "4965930",
-      "time": "2026-07-02 04:47:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "卡達外交部發言人：卡達與巴基斯坦調停方今日在多哈分別與美國、伊朗談判代表舉行了會晤，雙方在與《伊斯蘭堡諒解備忘錄》相關議題上已取得積極進展。"
-    },
-    {
-      "id": "4965929",
-      "time": "2026-07-02 04:46:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "卡達外交大臣安薩里：卡達與巴基斯坦調解人員已在多哈分別同美國、伊朗談判代表舉行會談。"
-    },
-    {
-      "id": "4965928",
-      "time": "2026-07-02 04:45:11",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "先鋒集團將擔任特朗普賬戶備選基金合作機構；公司表示，待收到美國財政部相關指引後，將支援資金轉入操作。"
-    },
-    {
-      "id": "te:markets:563540",
-      "time": "2026-07-02 04:44:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Edges Lower Following Election Poll — The Ibovespa fell 0.2% to close at 171,689 on Wednesday as investors reacted to a new presidential election poll and fresh manufacturing data. An AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a fiscally looser policy stance. Financial stocks were among the main drags, with Bradesco down 0.2% and Banco do Brasil losing 0.9%. WEG fell 1.4% and Ambev retreated 0.5% after the latest S&P Global manufacturing PMI showed a return to expansion, though the improvement was mainly driven by hiring and stockpiling while output and new orders remained in contraction. Utilities also traded lower, with Axia down 0.7%, while Engie plunged 6.1% after announcing the resignation of Pierre Jean Bernard Guiollot from its board of directors."
     }
   ]
 }
