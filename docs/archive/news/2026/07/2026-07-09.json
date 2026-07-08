@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 488,
+  "count": 490,
   "items": [
+    {
+      "id": "mkt:019f433c-1cb2-7aab-8cfd-93d60c266a3a",
+      "time": "2026-07-09 03:37:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "【Analyst: US and Iran enter talks-while-pressuring phase; tensions likely to recur】Al Jazeera cited Iran analyst Mortazavi saying that after the end of direct exchanges the US and Iran have entered a phase where diplomatic talks coexist with military pressure. The current understanding, she said, merely pauses hostilities and does not resolve core disputes; both sides are testing red lines and seeking leverage for future negotiations. Mortazavi said Iran remains willing to talk but is maintaining military pressure to strengthen its bargaining position amid limited trust in the US, with some officials treating the deal as a temporary ceasefire rather than a move toward lasting peace. She warned the coming months could see repeated episodes of tension and localized escalations rather than sustained peace or full-scale war."
+    },
+    {
+      "id": "4977564",
+      "time": "2026-07-09 03:35:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta 將在艾伯塔省投建 130 億加後設資料中心，系加拿大首個佈局專案】Meta 於週三宣佈，將在加拿大艾伯塔省中部興建一座超大型資料中心，這也是該公司在加拿大落地的首個算力基地，用以快速擴充算力儲備，支撐全球人工智慧產業爆發式增長。Meta 表示，這座裝機容量 1 吉瓦的資料中心落戶斯特金縣，專案總投資額達 130 億加元（摺合 91.7 億美元）。本次艾伯塔專案落地後，Meta 全球資料中心總數將增至 33 座。Meta 週三透露，將全額出資配套建設發電設施與電網改造工程；這座資料中心耗電量約等同於 80 萬戶居民用電總量。"
+    },
     {
       "id": "mkt:019f4338-9b62-7aab-8cfd-8bf3ed9c6d02",
       "time": "2026-07-09 03:33:30",
