@@ -1,7 +1,108 @@
 {
   "date": "2026-07-09",
-  "count": 68,
+  "count": 79,
   "items": [
+    {
+      "id": "4977321",
+      "time": "2026-07-09 00:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國在野豬群中發現非洲豬瘟病例。"
+    },
+    {
+      "id": "4977320",
+      "time": "2026-07-09 00:25:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：洛克希德·馬丁將新建五座工廠。"
+    },
+    {
+      "id": "mkt:019f428b-9531-7aab-8cf8-b80625f6b1f5",
+      "time": "2026-07-09 00:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's military said an attack on Wednesday killed eight military personnel, NourNews reported."
+    },
+    {
+      "id": "4977319",
+      "time": "2026-07-09 00:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：洛克希德·馬丁與萊茵金屬宣佈達成合作，將聯合生產陸軍戰術導彈系統（ATACMS）。"
+    },
+    {
+      "id": "4977318",
+      "time": "2026-07-09 00:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國在人工智慧領域領先。"
+    },
+    {
+      "id": "mkt:019f428a-a684-7aab-8cf8-b7adc0967d95",
+      "time": "2026-07-09 00:23:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said the administration will give firms up to two years to build factories in the U.S.; firms that do not comply would face tariffs of up to 250%."
+    },
+    {
+      "id": "mkt:019f428a-78af-7aab-8cf8-ae8c5a9b3ee9",
+      "time": "2026-07-09 00:23:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Lockheed Martin will establish a support and maintenance facility in Europe."
+    },
+    {
+      "id": "mkt:019f428a-2f72-7aab-8cf8-a49a3f6348b2",
+      "time": "2026-07-09 00:23:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Europe will receive the most advanced military equipment."
+    },
+    {
+      "id": "4977317",
+      "time": "2026-07-09 00:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚波蘭及其總統。"
+    },
+    {
+      "id": "4977316",
+      "time": "2026-07-09 00:22:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們將給予企業最多兩年時間在美國建廠；否則，它們必須支付最高250%的關稅。"
+    },
+    {
+      "id": "mkt:019f4289-b0ad-7aab-8cf8-9e9e7dc9481c",
+      "time": "2026-07-09 00:22:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he can triple U.S. ammunition production."
+    },
     {
       "id": "4977315",
       "time": "2026-07-09 00:21:20",
