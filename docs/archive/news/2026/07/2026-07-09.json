@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 581,
+  "count": 583,
   "items": [
+    {
+      "id": "mkt:019f437e-04a9-7aab-8cfe-d0ebdc9857f1",
+      "time": "2026-07-09 04:49:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The US Navy said as of Wednesday the US had deployed at least 19 warships near Iran."
+    },
+    {
+      "id": "4977612",
+      "time": "2026-07-09 04:47:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金<XPD=>下跌5%，報每盎司1198.50美元。"
+    },
     {
       "id": "te:markets:565409",
       "time": "2026-07-09 04:46:13",
