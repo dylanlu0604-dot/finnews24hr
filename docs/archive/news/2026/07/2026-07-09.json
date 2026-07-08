@@ -1,7 +1,128 @@
 {
   "date": "2026-07-09",
-  "count": 716,
+  "count": 731,
   "items": [
+    {
+      "id": "4977698",
+      "time": "2026-07-09 07:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防空反導、對海打擊 中俄展開海上聯合演習】昨天（8日），中俄“海上聯合-2026”聯合演習港岸階段順利結束。雙方艦艇將於今天（9日）上午從青島某軍港解纜起航，前往預定海域展開海上聯合演習。 出發前，聯合導演部、聯合指揮部組織多輪指揮推演和戰術協同，雙方指揮員商定作戰行動要點、演練規則，細化海上協同流程和應急處置預案。在海軍潛艇學院，中俄雙方任務官兵、相關專家聚焦援潛救生技術發展、裝備建設、海上訓練等議題展開專業交流。在軍港碼頭，中俄雙方互相開放艦艇，並圍繞艦艇的動力系統維護、遠洋航行經驗、日常訓練管理等方面展開討論。  （央視）"
+    },
+    {
+      "id": "4977697",
+      "time": "2026-07-09 07:08:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、驛站建設應注重“有效覆蓋率”（縱橫）\n2、以金融創新促成果轉化（新知）\n3、全國暑期文化和旅遊消費季啟動 發放超4.5億元消費補貼\n4、觸控機器人產業的“外骨骼”\n5、民政部發布指引 加強城鄉三級養老服務網路建設管理\n6、市場監管總局釋出徵求意見稿 進一步規範眼鏡制配行業經營秩序\n7、針對高校畢業生等青年開展活動 超5000家網際網路企業提供超20萬個崗位（穩就業在行動）\n8、北京出臺措施促進農村勞動力就業 織密城鄉“15分鐘就業服務圈”（穩就業在行動）\n9、體育總局中消協釋出消費提示 警惕體育營銷陷阱\n10、著眼打造非洲“綠氫樞紐”——奈米比亞積極發展綠氫產業\n11、IMF下調世界經濟增長預期 上調中國增長預期。"
+    },
+    {
+      "id": "4977696",
+      "time": "2026-07-09 07:08:15",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、國家科學技術獎勵大會兩院院士大會中國科協第十一次全國代表大會在京召開 習近平發表重要講話強調，“十五五”時期是科技強國建設的關鍵攻堅期。必須抓住歷史機遇，迎接時代挑戰，加快推進高水平科技自立自強，向著到2035年建成科技強國的目標堅定邁進，紮紮實實以科技創新支撐和引領中國式現代化 李強主持 趙樂際王滬寧蔡奇李希出席 丁薛祥宣讀獎勵決定\n2、《習近平關於基層工作方法的重要論述學習讀本》出版發行\n3、中共中央國務院關於2025年度國家科學技術獎勵的決定（2026年7月8日）\n4、中國科協第十一次全國代表大會舉行第二次全體會議 蔡奇到會祝賀並代表黨中央致詞\n5、丁薛祥接見國際科技合作獎獲獎外國專家。"
+    },
+    {
+      "id": "4977695",
+      "time": "2026-07-09 07:06:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【在畢馬威接受調查之際  澳大利亞監管機構正在審查針對“四大”審計公司的投訴】澳大利亞企業監管機構週四表示，鑑於近期關於畢馬威（KPMG）審計師行為不當的指控，該機構已開始審查“四大”會計師事務所——畢馬威、德勤、安永和普華永道——收到的審計行為投訴。此次審查源於澳大利亞證券與投資委員會（ASIC）於6月針對畢馬威澳大利亞三名合夥人啟動的正式調查，該調查源於舉報人指控該公司濫用客戶機密資料以贏得利潤豐厚的審計合同。ASIC在宣告中表示，此次審查將調查各事務所收到的與所提供的外部審計服務相關的內部投訴，包括舉報人的投訴。ASIC週四還表示，將持續開展“針對畢馬威濫用客戶機密資訊的具體指控的重大調查”。“ASIC將運用現有的有限權力，同時繼續積極參與政府的改革程序，”ASIC主席莎拉·考特補充道。這四家審計公司尚未立即回應置評請求。"
+    },
+    {
+      "id": "4977694",
+      "time": "2026-07-09 07:06:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX聯手Cursor釋出Grok 4.5】SpaceXAI週三釋出Grok 4.5大模型，主打程式碼編寫與智慧代理任務，將法律和金融服務納入目標應用場景。SpaceXAI表示，Grok 4.5依託數萬臺英偉達GB300 GPU完成訓練，AI程式設計初創公司Cursor將接入Grok 4.5模型用於程式碼開發。SpaceX上月宣佈將以全股票交易形式收購Cursor ，以此搶佔企業級AI工具賽道。作為競品，OpenAI 原計劃上月釋出旗艦大模型GPT-5.6，因美國政府出於AI技術濫用國家安全風險提出暫緩要求而延期。該模型將於本週四正式公開發布。"
+    },
+    {
+      "id": "mkt:019f43fa-f4f4-7aab-8d00-7e7e477fd1a9",
+      "time": "2026-07-09 07:05:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "President Trump said NATO initially had opportunities to assist the United States on Iran but stood aside; now, he said, members are suddenly eager to offer assistance."
+    },
+    {
+      "id": "mkt:019f43fa-a0ca-7aab-8d00-707ac616292d",
+      "time": "2026-07-09 07:05:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ARM.O"
+      ],
+      "text": "【AI chipmaker Positron in talks for about $750m financing; valuation could reach $5bn】AI chip startup Positron is in talks on a two-stage financing round targeting about $750m. The company, which develops energy-efficient inference chips for AI models and is among firms seeking to challenge NVIDIA’s position, would be valued at roughly $3.5bn after the first tranche and as much as $5bn after the second. If completed, the deal would more than double Positron’s valuation in about five months. Investors include Valor Equity Partners, Atreides Management, DFJ Growth, Arm and Qatar Investment Authority."
+    },
+    {
+      "id": "4977693",
+      "time": "2026-07-09 07:04:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【穆迪稱儘管面臨支出風險 日本信用評級仍顯穩定】數萬億美元政府支出的前景已經衝擊日本債券和匯率市場，但至少目前尚未改變穆迪的看法。這家信用評級公司的主權風險部門副總裁Martin Petch並未對日本財政走向敲響警鐘，但他認為，日本首相高市早苗計劃在14年內向經濟投資逾370萬億日元（2.3萬億美元）的綱要需進一步明確。“目前，我們認為其評級相當穩定，”Petch接受採訪時表示。穆迪給予日本A1評級，為其第五高的投資級評級，展望穩定。“風險非常均衡。”"
+    },
+    {
+      "id": "4977692",
+      "time": "2026-07-09 07:03:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【旺季前置補庫行情見頂，業內人士稱集運期貨仍存回撥空間】前期一路“狂飆”的集運指數（歐線）期貨，近期踩下“急剎車”。文華財經資料顯示，自6月11日盤中創下4096點階段高點後，集運指數（歐線）期貨主力連續合約震盪回落，7月7日盤中最低觸及2412點，區間累計跌幅超四成。業內人士表示，前期集運指數（歐線）期貨強勢上漲，主要是由地緣衝突、運力受阻、燃油和保險成本抬升、旺季發運前置等因素共同推動。而近期高位回落，則與地緣風險邊際緩和、船公司新開艙報價不及市場預期、2026美加墨世界盃發運潮結束以及部分運力外溢有關。展望下半年，市場交易主線正由地緣風險、旺季需求形成的上行支撐，切換為受運力集中投放、終端需求走弱影響的下行壓制，歐線運價上行空間或受限制，中期走勢將偏弱。（中證報）"
+    },
+    {
+      "id": "mkt:019f43f8-3fd1-7aab-8d00-6c7e1aac9831",
+      "time": "2026-07-09 07:02:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: an executive said Bain Capital has completed its exit from flash-memory maker Kioxia."
+    },
+    {
+      "id": "em:jjsj_ygsj:202607093798877682",
+      "time": "2026-07-09 07:02:34",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國6月三個月RICS房價指數為-33，預期-30，前值由-35.00修正為-34。"
+    },
+    {
+      "id": "mkt:019f43f7-601c-7aab-8d00-635e1a9197e2",
+      "time": "2026-07-09 07:01:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he has had, and still has, disputes with Spain, but that Spain was generous today and satisfied many payment requests."
+    },
+    {
+      "id": "te:markets:565418",
+      "time": "2026-07-09 07:01:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Muted in Morning Session — The NZX 50 was almost flat, trading around 13,666 in Thursday morning trade after retreating in the previous session, as gains in communication services and materials offset declines in energy and financials. Traders continued to assess Wednesday's RBNZ decision to raise interest rates by 25 bps to 2.5% and signal further tightening ahead to bring inflation back to target. They also studied the minutes of the Fed's meeting, which showed policymakers were divided on the future path of interest rates, though most participants indicated that some further policy firming would likely be warranted to return inflation to the 2% target. Caution also prevailed amid rising oil prices, as inflation concerns raised expectations of further interest rate hikes. On the positive side, New Zealand's manufacturing sector recorded its strongest growth since July 2021. Chorus rose 1.8%, Summerset Group climbed 1.4%, while AFT Pharmaceuticals and Channel Infrastructure shed 2.1% and 2.2%, respectively."
+    },
     {
       "id": "mkt:019f43f6-b606-7aab-8d00-5cfab39fcc13",
       "time": "2026-07-09 07:01:09",
@@ -9,6 +130,14 @@
         "MKT News"
       ],
       "text": "UK June three-month RICS house price balance -33, versus -30 expected; previous reading revised to -34 from -35."
+    },
+    {
+      "id": "4977691",
+      "time": "2026-07-09 07:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "高管稱貝恩資本已完成對快閃記憶體廠商鎧俠的退出操作。"
     },
     {
       "id": "mkt:019f43f6-932c-7aab-8d00-5122de95105a",
@@ -27,6 +156,15 @@
         "國際"
       ],
       "text": "【美軍多次空襲後，特朗普稱伊朗主動致電希望達成協議】特朗普於週三表示，在美國對中東地區發動多輪打擊後，伊朗主動致電美方，希望達成相關協議，但他不確定伊朗是否值得信任。“他們不久前打來電話，迫切想要達成協議。” 特朗普在返程的空軍一號專機上對記者說道，“只是我拿不準，他們是否值得與之締約。”當天早些時候，伊朗襲擊了多艘行經霍爾木茲海峽的船隻，美方隨即實施報復，特朗普就此宣佈兩國之間的停火狀態已然終結。“伊朗每襲擊我們一次，我們就十倍反擊。” 特朗普表示。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607093798875996",
+      "time": "2026-07-09 06:59:36",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲6月會議紀要：通脹率進一步上升 遠超長期目標】當地時間7月8日，美聯儲公佈聯邦公開市場委員會6月16日至17日的會議紀要。會議紀要顯示，全體成員一致同意將聯邦基金利率的目標區間維持在3.5%至3.75%。"
     },
     {
       "id": "mkt:019f43f5-1cd9-7aab-8d00-4f3dc6c13aa8",
