@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-09 04:36:20",
-  "count": 16102,
+  "updated": "2026-07-09 04:40:13",
+  "count": 16107,
   "items": [
+    {
+      "id": "mkt:019f4375-426b-7aab-8cfe-beee2c069952",
+      "time": "2026-07-09 04:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI says it will expand cooperation with the U.S. government and allies in key defense areas."
+    },
+    {
+      "id": "4977608",
+      "time": "2026-07-09 04:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將大規模打擊美軍基地】當地時間今天（7月9日）凌晨，據伊朗努爾新聞網援引一名軍方訊息人士的話報道，伊朗武裝部隊導彈部隊和無人機部隊將“在未來數分鐘內”對美軍在中東地區的基地發動大規模打擊。（CCTV國際時訊 ）"
+    },
+    {
+      "id": "mkt:019f4374-f0d3-7aab-8cfe-b56e926050c5",
+      "time": "2026-07-09 04:39:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Iran says missile, drone forces to launch large-scale strikes on US bases】In the early hours of July 9, Noor News, citing a military source, said Iran’s missile and drone forces would \"in the coming minutes\" carry out large-scale strikes on US military bases in the Middle East."
+    },
+    {
+      "id": "mkt:019f4374-4d9d-7aab-8cfe-af3df6a863a9",
+      "time": "2026-07-09 04:38:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Israel's i24News reported U.S. officials said tonight's strikes on Iran were broader in scope than the previous day's."
+    },
+    {
+      "id": "mkt:019f4373-dced-7aab-8cfe-a44149701ec1",
+      "time": "2026-07-09 04:38:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI released a national security principles document."
+    },
+    {
+      "id": "4977607",
+      "time": "2026-07-09 04:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：隨著我們擴大與美國政府及盟友在關鍵防禦領域的合作，釋出國家安全準則。"
+    },
+    {
+      "id": "4977606",
+      "time": "2026-07-09 04:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：釋出 OpenAI 國家安全準則。"
+    },
+    {
+      "id": "mkt:019f4373-0d9c-7aab-8cfe-9bb63e34c0e6",
+      "time": "2026-07-09 04:37:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Saudi broadcaster Al Arabiya reported Iran's Islamic Revolutionary Guard Corps (IRGC) said it would respond to US strike action."
+    },
+    {
+      "id": "4977605",
+      "time": "2026-07-09 04:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國秘書長呼籲美伊緊張局勢降級】聯合國秘書長古特雷斯的發言人迪雅裡克8日表示，古特雷斯對美國和伊朗重啟戰端表示震驚、呼籲降級緊張局勢。 迪雅裡克在當天的例行記者吹風會上說，美伊之間已取得的外交成果正面臨脫軌風險，雙方重回全面敵對狀態將給地區人民、國際和平與安全以及全球經濟帶來災難性後果。 迪雅裡克說，古特雷斯敦促各方保持最大限度剋制，避免採取任何進一步升級緊張局勢的行動，並立即採取局勢降溫措施。同時，古特雷斯提醒各方有義務全面遵守國際法，敦促美伊緊急恢復談判，透過外交方式解決問題。 美軍中央司令部美國東部時間7日稱，美軍打擊了超過80個伊朗目標，以回應伊朗對三艘穿行霍爾木茲海峽商船的襲擊。此外，美方7日宣佈撤銷日前對伊朗石油的生產、交付和銷售為期60天的授權，恢復對伊朗的石油制裁。伊朗方面指責美國違反諒解備忘錄，並迅速作出回應。(新華社)"
+    },
+    {
+      "id": "4977604",
+      "time": "2026-07-09 04:36:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來製藥：2026 財年第二季度收購研發智慧財產權相關稅前費用預估 28 億美元。 2026 年第二季度研發智慧財產權相關費用，GAAP 及非 GAAP 口徑每股預估 3.02 美元。"
+    },
     {
       "id": "te:markets:565407",
       "time": "2026-07-09 04:35:17",
@@ -147200,55 +147292,6 @@
         "國際"
       ],
       "text": "【高盛預估：世界盃或將為6月就業報告新增4萬個崗位】高盛表示，受世界盃拉動，週四即將公佈的6月非農就業資料或將好於市場預期。高盛稱，小企業薪資服務商Homebase的資料顯示，足球賽事對招聘產生了一定提振作用，當月新增約4萬個工作崗位。"
-    },
-    {
-      "id": "4965926",
-      "time": "2026-07-02 04:38:18",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "先鋒集團：美國財政部選定先鋒整體股市ETF（VTI）作為特朗普賬戶的替代投資選項。"
-    },
-    {
-      "id": "4965925",
-      "time": "2026-07-02 04:38:02",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部為特朗普專屬賬戶計劃選定貝萊德旗下安碩ETF產品IVV與ITOT；相關獲批基金預計在專案正式落地後的數月內開放投資渠道。"
-    },
-    {
-      "id": "mkt:019f1f66-5335-7aab-8c66-5b8711ac93d0",
-      "time": "2026-07-02 04:37:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs estimates the World Cup could add about 40,000 jobs to the U.S. June payrolls report, CNBC reports."
-    },
-    {
-      "id": "4965924",
-      "time": "2026-07-02 04:37:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：低氣壓增強為熱帶風暴道格拉斯。"
-    },
-    {
-      "id": "4965923",
-      "time": "2026-07-02 04:36:43",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "領航集團：在收到美國財政部的指導意見後，領航集團打算支援特朗普相關賬戶的資金滾轉操作。"
     }
   ]
 }
