@@ -1,7 +1,199 @@
 {
-  "updated": "2026-07-08 09:41:37",
-  "count": 15914,
+  "updated": "2026-07-08 09:45:34",
+  "count": 15919,
   "items": [
+    {
+      "id": "te:markets:565028",
+      "time": "2026-07-08 09:44:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Hit One-Month Low — The benchmark KOSPI fell nearly 1% to around 7,590 on Wednesday, hitting its lowest level in a month as a broad sell-off in semiconductor stocks tracked overnight losses on Wall Street. Chipmakers came under pressure after investors questioned the sustainability of the AI-driven spending boom despite Samsung Electronics' strong quarterly earnings, dragging global semiconductor shares lower. Investors also remained cautious as escalating tensions in the Middle East boosted oil prices and dampened global risk appetite following fresh U.S. strikes on Iran and attacks near the Strait of Hormuz. Losses were led by Samsung Electronics (-0.9%), LG Energy Solution (-2.8%), HD Hyundai Heavy Industries (-4.2%), Hanwha Aerospace (-6.0%), and Doosan Enerbility (-3.9%). Meanwhile, South Korean authorities said they would closely monitor risks to market stability as heightened volatility in heavyweight chip stocks and single-stock leveraged ETFs continued to fuel sharp market swings."
+    },
+    {
+      "id": "mkt:019f3f65-a90d-7aab-8cdb-b193ccea86f9",
+      "time": "2026-07-08 09:44:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Jiangsu to study bolstering tech and green-power inputs, expand financing channels】July 7 — Jiangsu province said it will advance institutional opening by deepening administrative-approval reform and pursuing regulatory innovation to remove systemic barriers and improve services for foreign investors. The province will systematically study measures to secure technology and renewable-power inputs, expand financing channels, promote university–industry talent training, and ease travel for international business personnel to bolster foreign-investor confidence. Authorities also plan deeper integration of industrial and supply chains, creation of targeted matching platforms, and steps to enhance coordination between domestic and foreign firms across upstream and downstream links."
+    },
+    {
+      "id": "4975341",
+      "time": "2026-07-08 09:44:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普預計將取消敘利亞的恐怖主義認定。"
+    },
+    {
+      "id": "4975340",
+      "time": "2026-07-08 09:43:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇：要系統化研究加強技術、綠電等要素保障 拓展投融資渠道】7月7日，江蘇省省長劉小濤主持召開今年第七期政企懇談會，會議指出，廣大外資企業投資江蘇、深耕江蘇，為全省經濟社會高質量發展作出了重要貢獻。要持續推進位制度型開放，深化行政審批制度改革，加強監管模式創新，進一步破除體制機制壁壘，全方位提升服務效能。要系統化研究加強技術、綠電等要素保障，拓展投融資渠道，推進校企協作人才培養，暢通國際商務人員往來，著力提振外資企業投資發展信心。要深化產業鏈供應鏈深度融合，搭建精準對接平臺，推動內外資上下游協同配套、融通發展。"
+    },
+    {
+      "id": "mkt:019f3f65-365d-7aab-8cdb-af5bf3f7c072",
+      "time": "2026-07-08 09:43:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "00883.HK",
+        "Impact bullish",
+        "00857.HK",
+        "00386.HK"
+      ],
+      "text": "Hong Kong-listed Big Three oil majors advanced: CNOOC (00883.HK) rose more than 4%, PetroChina (00857.HK) gained over 3%, and Sinopec (00386.HK) rose about 1%."
+    },
+    {
+      "id": "4975339",
+      "time": "2026-07-08 09:43:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4975338",
+      "time": "2026-07-08 09:43:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量136億元。"
+    },
+    {
+      "id": "4975337",
+      "time": "2026-07-08 09:43:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4975336",
+      "time": "2026-07-08 09:42:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數全線翻綠】三大指數全線翻綠，滬指下跌0.03%，深證成指下跌0.73%，創業板指下跌0.3%。滬深京三市下跌個股超4200只。"
+    },
+    {
+      "id": "4975335",
+      "time": "2026-07-08 09:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【13週歲女孩可免費接種！雙價HPV疫苗納入國家免疫規劃】國家疾控局、國家衛生健康委日前聯合印發《國家免疫規劃疫苗兒童免疫程式及說明（2026年版）》，進一步規範適齡兒童疫苗接種工作。新版免疫程式及說明明確，國家免疫規劃疫苗均可按照免疫程式或補種原則同時接種；百白破疫苗免疫程式由此前“3月齡起始”調整為“2月齡起始”，共接種5劑次；雙價HPV疫苗納入國家免疫規劃，接種物件為13週歲女孩，共接種2劑次。同時，還針對特殊健康狀態兒童專門明確了接種總體原則。（央視新聞）"
+    },
+    {
+      "id": "4975334",
+      "time": "2026-07-08 09:42:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊盤初下挫，德新科技觸及跌停】電池板塊盤初下挫，德新科技觸及跌停，雄韜股份、浙江恆威、吉和昌、力王股份、新宙邦跟跌。"
+    },
+    {
+      "id": "mkt:019f3f63-d035-7aab-8cdb-a478bf1a96ab",
+      "time": "2026-07-08 09:42:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares opened higher then reversed; Shenzhen Composite Index down 1%, ChiNext Index down 0.62%, Shanghai Composite Index down 0.12%. Humanoid-robot and industrial machine-tool sectors led losses."
+    },
+    {
+      "id": "mkt:019f3f63-b2df-7aab-8cdb-9f529dd1994e",
+      "time": "2026-07-08 09:42:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose $0.30 intraday to $71.94/bbl and $75.71/bbl, respectively."
+    },
+    {
+      "id": "4975333",
+      "time": "2026-07-08 09:41:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "原油系期貨主力合約集體走強，SC原油上漲4.44%，現報458.9元/桶。低硫燃料油（LU）漲幅擴大至5.25%，現報3970元/噸。燃油上漲4.82%，現報3065元/噸。瀝青日內跌幅收窄至1.30%，現報3795元/噸。"
+    },
+    {
+      "id": "4975332",
+      "time": "2026-07-08 09:41:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲4%，現報6855.00元。"
+    },
+    {
+      "id": "mkt:019f3f63-3bf4-7aab-8cdb-906ff379b5c2",
+      "time": "2026-07-08 09:41:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China crude-related futures main contracts rallied. SC crude rose 4.44% to 458.9 yuan/barrel; low-sulfur fuel oil (LU) gained 5.25% to 3,970 yuan/ton; fuel oil advanced 4.82% to 3,065 yuan/ton. Asphalt's intraday decline narrowed to 1.30% at 3,795 yuan/ton."
+    },
+    {
+      "id": "mkt:019f3f63-3101-7aab-8cdb-8d57997d5876",
+      "time": "2026-07-08 09:41:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share Huawei Ascend AI-chip concept stocks rallied; Hengwei Technology hit the daily trading limit, Zhongcheng Technology rose over 15%, and Guangdian Yuntong, Shenzhou Digital and Lihexing also gained."
+    },
+    {
+      "id": "4975331",
+      "time": "2026-07-08 09:41:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.02%，現報15069.693點；上證指數跌0.10%，現報3986.202點；創業板指跌0.65%，現報3886.482點。"
+    },
     {
       "id": "mkt:019f3f62-9deb-7aab-8cdb-821ab1581b1a",
       "time": "2026-07-08 09:40:55",
@@ -145765,132 +145957,6 @@
         "市場"
       ],
       "text": "【半導體材料板塊再度拉昇】半導體材料板塊再度拉昇，龍圖光罩漲超10%，清溢光電、華海誠科、雅克科技、路維光電、凱德石英等跟漲。"
-    },
-    {
-      "id": "mkt:019f1b59-ff9a-7aab-8c48-608debc915b9",
-      "time": "2026-07-01 09:45:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China June RatingDog manufacturing PMI 51.7, vs consensus 51.6 and May 51.8."
-    },
-    {
-      "id": "4963981",
-      "time": "2026-07-01 09:45:07",
-      "tags": [
-        "資料",
-        "焦點"
-      ],
-      "text": "中國6月RatingDog製造業PMI 51.7，預期51.6，前值51.8。"
-    },
-    {
-      "id": "4963980",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股HBM概念板塊異動拉昇】亞威股份觸及漲停，中巨芯、太極實業、華特氣體、雅克科技、夏農芯創、中科飛測跟漲。"
-    },
-    {
-      "id": "4963979",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股國家大基金持股板塊異動拉昇】中船特氣漲9.75%，中巨芯、雅克科技、興福電子、臻寶科技、長電科技、江波龍跟漲。"
-    },
-    {
-      "id": "4963978",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股封測概念板塊異動拉昇】敏芯股份漲17.33%，太極實業、富滿微、宏達電子、長電科技、探路者、佰維儲存跟漲。"
-    },
-    {
-      "id": "4963977",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股大基金概念板塊異動拉昇】中船特氣漲9.75%，中巨芯、先導基電、雅克科技、興福電子、南大光電、臻寶科技跟漲。"
-    },
-    {
-      "id": "4963976",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股半導體封測板塊異動拉昇】*ST康佳A觸及漲停，太極實業、富滿微、長電科技、佰維儲存、明微電子、華天科技跟漲。"
-    },
-    {
-      "id": "mkt:019f1b59-d64a-7aab-8c48-5c14008e428e",
-      "time": "2026-07-01 09:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Jun) | actual 51.7 | consensus 51.6 | previous 51.8"
-    },
-    {
-      "id": "4963975",
-      "time": "2026-07-01 09:44:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工板塊反覆活躍 昊華科技觸及漲停續創歷史新高】氟化工板塊反覆活躍，昊華科技觸及漲停，續創歷史新高，此前多氟多走出3連板，三美股份觸及漲停，中巨芯、雅克科技、永和股份、金石資源跟漲。"
-    },
-    {
-      "id": "4963974",
-      "time": "2026-07-01 09:44:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.01%，成分股中，格科微漲15.02%，中科飛測漲5.79%，瀾起科技漲5.33%，中無人機漲4.77%。"
-    },
-    {
-      "id": "4963973",
-      "time": "2026-07-01 09:44:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工跌幅擴大至8.2%。"
-    },
-    {
-      "id": "mkt:019f1b58-c21b-7aab-8c48-50d34f6ab588",
-      "time": "2026-07-01 09:43:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Taijing Technology raises full-range crystal oscillator prices 10–30%】Taijing Technology, a leading domestic crystal-oscillator maker, notified partners on June 30 of a 10–30% price increase across its entire oscillator product line. New orders are effective on the notice date; all undelivered orders will be billed at the new prices from shipment date July 1, 2026. The company cited sharp rises in core raw-material costs — bases, caps, target materials, silver paste and precious metals including gold, silver and tungsten — driven by global commodity volatility. It provided data showing 65% black tungsten concentrate up 125% YTD 2026 and up 619% since early 2025, with precious metals remaining elevated. Taijing said prior internal measures (process optimization, efficiency gains, supply-chain consolidation) failed to absorb the cost surge, with combined procurement costs for materials and components up more than 60% since 2025, making the price increase unavoidable."
-    },
-    {
-      "id": "4963972",
-      "time": "2026-07-01 09:43:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子化學品板塊持續走高 金宏氣體20CM漲停】電子化學品板塊持續走高，方邦股份、華特氣體、三孚新科、廣鋼氣體、中巨芯、興福電子盤中創新高，金宏氣體20CM漲停，中船特氣、矽烷科技、思泉新材、濮陽惠成、瑞聯新材跟漲。"
     }
   ]
 }
