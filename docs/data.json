@@ -1,7 +1,251 @@
 {
-  "updated": "2026-07-08 21:28:18",
-  "count": 15969,
+  "updated": "2026-07-08 21:32:23",
+  "count": 15950,
   "items": [
+    {
+      "id": "mkt:019f41ed-6d24-7aab-8cf1-aed76221e0b5",
+      "time": "2026-07-08 21:31:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open on Wednesday July 8, the Dow Jones Industrial Average fell 550.74 points, or 1.04%, to 52,374.41; the S&P 500 fell 45.64 points, or 0.61%, to 7,458.21; the Nasdaq Composite fell 111.97 points, or 0.43%, to 25,706.72."
+    },
+    {
+      "id": "mkt:019f41ed-35d9-7aab-8cf1-a1468824a6d0",
+      "time": "2026-07-08 21:31:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said NATO countries will deploy minesweepers in relation to Iran."
+    },
+    {
+      "id": "4977003",
+      "time": "2026-07-08 21:31:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI旗下部署業務部門將收購Northslope公司。"
+    },
+    {
+      "id": "mkt:019f41ed-25dc-7aab-8cf1-9dd0f30dddf6",
+      "time": "2026-07-08 21:31:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's Prime Minister Meloni said that if Italy increases defense investment, those investments must remain in Italy."
+    },
+    {
+      "id": "mkt:019f41ec-e5b6-7aab-8cf1-9461661a9533",
+      "time": "2026-07-08 21:31:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the U.S. may reinstate a blockade of the Strait of Hormuz, targeted solely at Iran."
+    },
+    {
+      "id": "4977002",
+      "time": "2026-07-08 21:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：北約成員國將派出掃雷艇。"
+    },
+    {
+      "id": "mkt:019f41ec-b2ad-7aab-8cf1-8f5a0e6fa1cd",
+      "time": "2026-07-08 21:30:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "At the open U.S. equities traded lower: Dow down 0.31%, S&P 500 down 0.51%, Nasdaq down 0.44%. Movers: SanDisk -1%, Micron Technology -2.9%, Microsoft -1.5%; Alibaba +more than 9%, Broadcom +2%."
+    },
+    {
+      "id": "4977001",
+      "time": "2026-07-08 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌1.03%，標普500指數跌0.57%，納指跌0.43%。SW跌6.84%，Universal Health Services Inc Cl跌3.88%，瑞思邁跌3.75%，現在服務跌3.71%，AMCOR PLC跌3.63%，嘉年華跌3.52%，國際紙業跌3.49%。“七姐妹”方面：蘋果跌0.08%，谷歌跌0.20%，英偉達跌0.31%，Meta Platforms跌0.96%，亞馬遜跌0.99%，特斯拉跌1.21%，微軟跌1.57%。"
+    },
+    {
+      "id": "mkt:019f41ec-49f0-7aab-8cf1-8090f7b0f979",
+      "time": "2026-07-08 21:30:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil front-month (main) contract rose more than 5% to 478.8 yuan per barrel."
+    },
+    {
+      "id": "4977000",
+      "time": "2026-07-08 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，金山雲漲12.18%，阿里巴巴漲9.46%，百度漲5.65%，萬國資料漲4.31%，貝殼漲3.63%。"
+    },
+    {
+      "id": "4976999",
+      "time": "2026-07-08 21:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數<.GSPTSE>開盤下跌146.98點，跌幅0.42%，報35125.61點。"
+    },
+    {
+      "id": "te:markets:565301",
+      "time": "2026-07-08 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 14-week Low — Wind Energy Index decreased to 24.00 USD, the lowest since March 2026. Over the past 4 weeks, Wind Energy Index lost 4%, and in the last 12 months, it increased 29.8%."
+    },
+    {
+      "id": "te:markets:565300",
+      "time": "2026-07-08 21:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intel Stock Price Hits 4-week Low — Intel shares decreased to 108.09 USD, the lowest since June 2026. Over the past 4 weeks, Intel gained 0.26%, and in the last 12 months, it increased 368.67%."
+    },
+    {
+      "id": "4976998",
+      "time": "2026-07-08 21:29:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：封鎖只會針對伊朗。"
+    },
+    {
+      "id": "mkt:019f41eb-b704-7aab-8cf1-7e7a278fe725",
+      "time": "2026-07-08 21:29:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Defense Secretary Hegseth said the US would, if needed, take deeper action in Iran tonight."
+    },
+    {
+      "id": "4976997",
+      "time": "2026-07-08 21:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們可能會解除對霍爾木茲海峽的封鎖。"
+    },
+    {
+      "id": "mkt:019f41eb-7609-7aab-8cf1-76e2b8fc959e",
+      "time": "2026-07-08 21:29:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said the US could have killed all of Iran's leaders during Khamenei's funeral."
+    },
+    {
+      "id": "4976996",
+      "time": "2026-07-08 21:29:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報478.50元。"
+    },
+    {
+      "id": "4976995",
+      "time": "2026-07-08 21:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古麒絨材：多名股東、董事及高管擬合計減持不超過4.8229%股份】古麒絨材公告，持股5%以上股東北京城建一期、安徽農業基金，特定股東蕪湖京城二期，以及董事翁木林，董事、副總經理、財務總監汪章建，董事、副總經理洪小林，計劃於2026年7月30日至2026年10月29日期間，透過集中競價和大宗交易方式減持股份。其中，北京城建一期擬減持不超過440萬股（佔總股本2.2%），蕪湖京城二期擬減持不超過160萬股（佔總股本0.8%），安徽農業基金擬減持不超過200萬股（佔總股本1%），翁木林擬減持不超過50萬股（佔總股本0.25%），汪章建擬減持不超過36.83萬股（佔總股本0.1841%），洪小林擬減持不超過77.75萬股（佔總股本0.3888%），合計減持不超過964.58萬股（佔總股本4.8229%）。若發生除權除息事項，減持數量上限將相應調整。"
+    },
+    {
+      "id": "4976994",
+      "time": "2026-07-08 21:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：或發生大規模襲擊。"
+    },
+    {
+      "id": "4976993",
+      "time": "2026-07-08 21:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：維特科夫可以和伊朗對話，只是我沒看到而已。"
+    },
+    {
+      "id": "mkt:019f41ea-8930-7aab-8cf1-696513cb9e43",
+      "time": "2026-07-08 21:28:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said Iran used the funeral period to launch an attack."
+    },
+    {
+      "id": "mkt:019f41ea-28cb-7aab-8cf1-62159325dc64",
+      "time": "2026-07-08 21:28:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. would destroy Iran's power and water infrastructure if necessary, though he does not want to do so now, and said the U.S. may also seize Kharg Island."
+    },
+    {
+      "id": "4976992",
+      "time": "2026-07-08 21:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們可能接管哈爾克島。"
+    },
     {
       "id": "4976991",
       "time": "2026-07-08 21:27:30",
@@ -145559,446 +145803,6 @@
         "其他"
       ],
       "text": "加拿大央行行長麥克勒姆：將牢牢錨定通脹預期。"
-    },
-    {
-      "id": "mkt:019f1de1-7427-7aab-8c5b-c88bd6d09f9d",
-      "time": "2026-07-01 21:32:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC Governor Macklem said he will keep inflation expectations stable."
-    },
-    {
-      "id": "4965452",
-      "time": "2026-07-01 21:32:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達(NVDA.O)跌超3%。"
-    },
-    {
-      "id": "mkt:019f1de1-49c7-7aab-8c5b-c31a232a225a",
-      "time": "2026-07-01 21:32:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "NVIDIA (NVDA.O) shares fall more than 3%."
-    },
-    {
-      "id": "4965451",
-      "time": "2026-07-01 21:32:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "META股票開盤上漲7.9%，創4月8日以來最大漲幅。"
-    },
-    {
-      "id": "4965450",
-      "time": "2026-07-01 21:31:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，盛豐物流漲6.39%，中進醫療漲3.30%，世紀互聯漲2.55%，億咖通科技漲3.10%，萬國資料漲3.06%。"
-    },
-    {
-      "id": "mkt:019f1de0-ea88-7aab-8c5b-bb4df43f2b7a",
-      "time": "2026-07-01 21:31:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said prices are too high and the Fed will achieve price stability."
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790535258",
-      "time": "2026-07-01 21:31:46",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什：通脹風險已經下降】美聯儲主席沃什表示，通脹風險已經下降。他補充道，“如果有人認為我們會滿足於通脹高於2%，那他們會失望的。”"
-    },
-    {
-      "id": "4965449",
-      "time": "2026-07-01 21:31:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4050美元/盎司，日內漲1.08%。"
-    },
-    {
-      "id": "mkt:019f1de0-d170-7aab-8c5b-b54a774b8d71",
-      "time": "2026-07-01 21:31:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks opened lower on Wednesday, July 1: Dow Jones Industrial Average down 126.71 points, or 0.24%, at 52,192.49; S&P 500 down 35.86 points, or 0.48%, at 7,463.50; Nasdaq Composite down 178.81 points, or 0.68%, at 26,034.91."
-    },
-    {
-      "id": "4965448",
-      "time": "2026-07-01 21:31:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：若有人認為我們會滿足於通脹高於2%，他們將感到失望。"
-    },
-    {
-      "id": "mkt:019f1de0-a406-7aab-8c5b-abebfba683b8",
-      "time": "2026-07-01 21:31:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed will remain an independent central bank and its independence has not changed."
-    },
-    {
-      "id": "4965447",
-      "time": "2026-07-01 21:31:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲的沃什：我們將成為一個獨立的中央銀行。"
-    },
-    {
-      "id": "4965446",
-      "time": "2026-07-01 21:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元<GBP=>下跌0.1%，報1.3250美元。"
-    },
-    {
-      "id": "4965445",
-      "time": "2026-07-01 21:31:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：獨立性未變。"
-    },
-    {
-      "id": "mkt:019f1de0-3487-7aab-8c5b-a788c4710ec7",
-      "time": "2026-07-01 21:30:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said inflation expectations have eased over the past four weeks."
-    },
-    {
-      "id": "4965444",
-      "time": "2026-07-01 21:30:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國氣象局表示，英格蘭創下了最高溫的六月紀錄。"
-    },
-    {
-      "id": "mkt:019f1de0-248e-7aab-8c5b-9aa45e8e9c55",
-      "time": "2026-07-01 21:30:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact bullish",
-        "MU.O",
-        "Impact bearish",
-        "WDC.O"
-      ],
-      "text": "U.S. stocks opened lower: Dow -0.2%, S&P 500 -0.3%, Nasdaq -0.6%. Meta Platforms (META.O) rose 6% on reports it is building a cloud business to sell excess AI compute capacity. Storage names fell: SanDisk (SNDK.O) -7.5%, Western Digital (WDC.O) down >4%, Micron Technology (MU.O) -6%."
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790536847",
-      "time": "2026-07-01 21:30:56",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席：就業和物價穩定的目標都必須實現】美聯儲主席沃什稱，美國勞動力市場穩定，經濟需求強勁；美國經濟的供給側強勁；就業和物價穩定的目標都必須實現。"
-    },
-    {
-      "id": "mkt:019f1de0-1bf2-7aab-8c5b-96fd3b1de92e",
-      "time": "2026-07-01 21:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK Met Office said England recorded its highest June temperature on record."
-    },
-    {
-      "id": "4965443",
-      "time": "2026-07-01 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.31%，標普500指數跌0.44%，納指跌0.60%。閃迪跌7.05%，希捷跌6.58%，康寧跌6.11%，美光跌5.82%。“七姐妹”方面：Meta Platforms漲6.05%，微軟漲1.52%，特斯拉漲0.94%，蘋果漲0.74%，谷歌漲0.57%，亞馬遜漲0.15%，英偉達跌2.77%。"
-    },
-    {
-      "id": "4965442",
-      "time": "2026-07-01 21:30:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：過去四周的通脹預期有所下降。"
-    },
-    {
-      "id": "4965441",
-      "time": "2026-07-01 21:30:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：通脹風險已經下降。"
-    },
-    {
-      "id": "4965440",
-      "time": "2026-07-01 21:30:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度中央銀行行長：供給衝擊期間與財政部門協調至關重要。"
-    },
-    {
-      "id": "4965439",
-      "time": "2026-07-01 21:30:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4047.74美元/盎司。"
-    },
-    {
-      "id": "mkt:019f1ddf-808b-7aab-8c5b-899075aee786",
-      "time": "2026-07-01 21:30:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed chair Kevin Warsh declined to update on data from the past two weeks and re-committed to achieving price stability."
-    },
-    {
-      "id": "te:markets:563452",
-      "time": "2026-07-01 21:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walmart Stock Price Hits 24-week Low — Walmart shares decreased to 110.03 USD, the lowest since January 2026. Over the past 4 weeks, Walmart lost 1.17%, and in the last 12 months, it increased 15.29%."
-    },
-    {
-      "id": "mkt:019f1ddf-485e-7aab-8c5b-85bf530fa66f",
-      "time": "2026-07-01 21:30:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said US supply-side performance is strong."
-    },
-    {
-      "id": "4965438",
-      "time": "2026-07-01 21:29:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指期貨跌超1%。"
-    },
-    {
-      "id": "mkt:019f1ddf-3b4e-7aab-8c5b-78d2e0717347",
-      "time": "2026-07-01 21:29:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Kevin Warsh says Fed will open new path, reiterates no forward guidance】Federal Reserve Chair Kevin Warsh reiterated he will not provide forward guidance on upcoming interest-rate policy, calling the move a major shift. He said the Fed will \"open a new path\" and expects a full \"internal debate\" at the policy meeting in four weeks. Last month Warsh said policymakers agreed forward guidance is not suitable for the current policy environment. In June he established five special working groups — one to study communications — with the others focused on the balance sheet, use of data, productivity and employment, and the Fed's inflation framework."
-    },
-    {
-      "id": "4965437",
-      "time": "2026-07-01 21:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：已再次承諾致力於實現物價穩定。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790534290",
-      "time": "2026-07-01 21:29:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什稱，AI對就業影響的時間點仍存在重大疑問。"
-    },
-    {
-      "id": "4965436",
-      "time": "2026-07-01 21:29:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：暫不提供過去兩週經濟資料的最新解讀。"
-    },
-    {
-      "id": "mkt:019f1dde-fc8a-7aab-8c5b-70b888d43c54",
-      "time": "2026-07-01 21:29:40",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq futures rose more than 1%."
-    },
-    {
-      "id": "4965435",
-      "time": "2026-07-01 21:29:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什： 我認為就業崗位將增加，繁榮程度將提升。勞動力市場保持穩定。供給面狀況穩健。"
-    },
-    {
-      "id": "mkt:019f1dde-abf3-7aab-8c5b-6a6b7f5b93c1",
-      "time": "2026-07-01 21:29:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the labor market is stable and economic demand is strong."
-    },
-    {
-      "id": "te:economy:563451",
-      "time": "2026-07-01 21:29:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Climb as Investors Digest Central Bank Commentary — UK 10-year gilt yields rose to 4.8%, extending gains from last week’s two-month lows, as investors parsed remarks from global central bankers at the ECB’s Sintra Forum. Bank of England Governor Andrew Bailey reiterated his dovish stance, telling CNBC that UK policymakers see a softening economy and that May’s rate hold at 3.75% reflected this view. He ruled out near-term cuts, citing persistent inflation risks, though he noted encouragement from falling energy prices. Bailey also stressed the BoE won’t rush to react to rising oil prices, as inflation remains on track to hit 2%, albeit later than hoped. Gilt yields also tracked US Treasuries higher after Fed Chair Kevin Warsh offered no new rate guidance, while investors bet on further Fed hikes this year amid solid labor data. Elsewhere, bond markets weighed the odds of Ed Miliband becoming Chancellor over Wes Streeting, with fiscal concerns easing after Andy Burnham, the PM frontrunner, pledged fiscal discipline."
-    },
-    {
-      "id": "mkt:019f1dde-9345-7aab-8c5b-6689d5902df2",
-      "time": "2026-07-01 21:29:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Kevin Warsh, chair of the Federal Reserve, said he expects AI to increase job opportunities and strengthen prosperity."
-    },
-    {
-      "id": "4965434",
-      "time": "2026-07-01 21:29:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚石化學：公司光刻膠、氫能、鈣鈦礦等專案僅有部分技術儲備】聚石化學股票交易風險提示公告，近期，市場對公司光刻膠、氫能、鈣鈦礦等專案關注度較高。目前公司主業為化工材料的研發、生產和銷售，前述專案僅有部分技術儲備，且仍處於早期研發和產業化初步階段，未產生任何收入，未來量產及產生經濟效益尚存在重大不確定性。"
-    },
-    {
-      "id": "mkt:019f1dde-63be-7aab-8c5b-5b2065e6b186",
-      "time": "2026-07-01 21:29:01",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB President Lagarde said the central bank will take necessary measures to control inflation."
-    },
-    {
-      "id": "mkt:019f1dde-43f7-7aab-8c5b-552b97655f49",
-      "time": "2026-07-01 21:28:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ECB President Lagarde said Europe is not in stagflation."
-    },
-    {
-      "id": "4965433",
-      "time": "2026-07-01 21:28:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什談人工智慧對就業的影響：我認為就業崗位會更多，經濟繁榮程度也會更高。"
-    },
-    {
-      "id": "4965432",
-      "time": "2026-07-01 21:28:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：我們將採取必要舉措遏制通脹。"
-    },
-    {
-      "id": "mkt:019f1ddd-e7d2-7aab-8c5b-4f3ece26d8ee",
-      "time": "2026-07-01 21:28:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Bank of England Governor Bailey said stronger coordination is needed to address risks arising from AI models."
     }
   ]
 }

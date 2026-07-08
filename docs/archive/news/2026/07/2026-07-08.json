@@ -1,7 +1,251 @@
 {
   "date": "2026-07-08",
-  "count": 3119,
+  "count": 3143,
   "items": [
+    {
+      "id": "mkt:019f41ed-6d24-7aab-8cf1-aed76221e0b5",
+      "time": "2026-07-08 21:31:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open on Wednesday July 8, the Dow Jones Industrial Average fell 550.74 points, or 1.04%, to 52,374.41; the S&P 500 fell 45.64 points, or 0.61%, to 7,458.21; the Nasdaq Composite fell 111.97 points, or 0.43%, to 25,706.72."
+    },
+    {
+      "id": "mkt:019f41ed-35d9-7aab-8cf1-a1468824a6d0",
+      "time": "2026-07-08 21:31:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said NATO countries will deploy minesweepers in relation to Iran."
+    },
+    {
+      "id": "mkt:019f41ed-25dc-7aab-8cf1-9dd0f30dddf6",
+      "time": "2026-07-08 21:31:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's Prime Minister Meloni said that if Italy increases defense investment, those investments must remain in Italy."
+    },
+    {
+      "id": "4977003",
+      "time": "2026-07-08 21:31:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI旗下部署業務部門將收購Northslope公司。"
+    },
+    {
+      "id": "mkt:019f41ec-e5b6-7aab-8cf1-9461661a9533",
+      "time": "2026-07-08 21:31:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the U.S. may reinstate a blockade of the Strait of Hormuz, targeted solely at Iran."
+    },
+    {
+      "id": "4977002",
+      "time": "2026-07-08 21:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：北約成員國將派出掃雷艇。"
+    },
+    {
+      "id": "mkt:019f41ec-b2ad-7aab-8cf1-8f5a0e6fa1cd",
+      "time": "2026-07-08 21:30:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "At the open U.S. equities traded lower: Dow down 0.31%, S&P 500 down 0.51%, Nasdaq down 0.44%. Movers: SanDisk -1%, Micron Technology -2.9%, Microsoft -1.5%; Alibaba +more than 9%, Broadcom +2%."
+    },
+    {
+      "id": "4977001",
+      "time": "2026-07-08 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌1.03%，標普500指數跌0.57%，納指跌0.43%。SW跌6.84%，Universal Health Services Inc Cl跌3.88%，瑞思邁跌3.75%，現在服務跌3.71%，AMCOR PLC跌3.63%，嘉年華跌3.52%，國際紙業跌3.49%。“七姐妹”方面：蘋果跌0.08%，谷歌跌0.20%，英偉達跌0.31%，Meta Platforms跌0.96%，亞馬遜跌0.99%，特斯拉跌1.21%，微軟跌1.57%。"
+    },
+    {
+      "id": "mkt:019f41ec-49f0-7aab-8cf1-8090f7b0f979",
+      "time": "2026-07-08 21:30:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil front-month (main) contract rose more than 5% to 478.8 yuan per barrel."
+    },
+    {
+      "id": "4977000",
+      "time": "2026-07-08 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，金山雲漲12.18%，阿里巴巴漲9.46%，百度漲5.65%，萬國資料漲4.31%，貝殼漲3.63%。"
+    },
+    {
+      "id": "4976999",
+      "time": "2026-07-08 21:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數<.GSPTSE>開盤下跌146.98點，跌幅0.42%，報35125.61點。"
+    },
+    {
+      "id": "te:markets:565301",
+      "time": "2026-07-08 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 14-week Low — Wind Energy Index decreased to 24.00 USD, the lowest since March 2026. Over the past 4 weeks, Wind Energy Index lost 4%, and in the last 12 months, it increased 29.8%."
+    },
+    {
+      "id": "te:markets:565300",
+      "time": "2026-07-08 21:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intel Stock Price Hits 4-week Low — Intel shares decreased to 108.09 USD, the lowest since June 2026. Over the past 4 weeks, Intel gained 0.26%, and in the last 12 months, it increased 368.67%."
+    },
+    {
+      "id": "mkt:019f41eb-b704-7aab-8cf1-7e7a278fe725",
+      "time": "2026-07-08 21:29:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Defense Secretary Hegseth said the US would, if needed, take deeper action in Iran tonight."
+    },
+    {
+      "id": "4976998",
+      "time": "2026-07-08 21:29:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：封鎖只會針對伊朗。"
+    },
+    {
+      "id": "mkt:019f41eb-7609-7aab-8cf1-76e2b8fc959e",
+      "time": "2026-07-08 21:29:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said the US could have killed all of Iran's leaders during Khamenei's funeral."
+    },
+    {
+      "id": "4976997",
+      "time": "2026-07-08 21:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們可能會解除對霍爾木茲海峽的封鎖。"
+    },
+    {
+      "id": "4976996",
+      "time": "2026-07-08 21:29:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報478.50元。"
+    },
+    {
+      "id": "4976995",
+      "time": "2026-07-08 21:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古麒絨材：多名股東、董事及高管擬合計減持不超過4.8229%股份】古麒絨材公告，持股5%以上股東北京城建一期、安徽農業基金，特定股東蕪湖京城二期，以及董事翁木林，董事、副總經理、財務總監汪章建，董事、副總經理洪小林，計劃於2026年7月30日至2026年10月29日期間，透過集中競價和大宗交易方式減持股份。其中，北京城建一期擬減持不超過440萬股（佔總股本2.2%），蕪湖京城二期擬減持不超過160萬股（佔總股本0.8%），安徽農業基金擬減持不超過200萬股（佔總股本1%），翁木林擬減持不超過50萬股（佔總股本0.25%），汪章建擬減持不超過36.83萬股（佔總股本0.1841%），洪小林擬減持不超過77.75萬股（佔總股本0.3888%），合計減持不超過964.58萬股（佔總股本4.8229%）。若發生除權除息事項，減持數量上限將相應調整。"
+    },
+    {
+      "id": "4976994",
+      "time": "2026-07-08 21:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：或發生大規模襲擊。"
+    },
+    {
+      "id": "4976993",
+      "time": "2026-07-08 21:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：維特科夫可以和伊朗對話，只是我沒看到而已。"
+    },
+    {
+      "id": "mkt:019f41ea-8930-7aab-8cf1-696513cb9e43",
+      "time": "2026-07-08 21:28:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said Iran used the funeral period to launch an attack."
+    },
+    {
+      "id": "mkt:019f41ea-28cb-7aab-8cf1-62159325dc64",
+      "time": "2026-07-08 21:28:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. would destroy Iran's power and water infrastructure if necessary, though he does not want to do so now, and said the U.S. may also seize Kharg Island."
+    },
+    {
+      "id": "4976992",
+      "time": "2026-07-08 21:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們可能接管哈爾克島。"
+    },
     {
       "id": "4976991",
       "time": "2026-07-08 21:27:30",
