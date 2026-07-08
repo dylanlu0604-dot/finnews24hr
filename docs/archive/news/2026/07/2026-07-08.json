@@ -1,7 +1,194 @@
 {
   "date": "2026-07-08",
-  "count": 754,
+  "count": 775,
   "items": [
+    {
+      "id": "4975266",
+      "time": "2026-07-08 09:05:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅宕昌山體滑坡搜救結束 甘肅宕昌山體滑坡21人遇難】記者從甘肅省隴南市政府新聞辦8日上午舉行的新聞釋出會上獲悉，宕昌山體滑坡現場搜救工作結束，此次滑坡共造成21人遇難。7日6時56分許，甘肅省隴南市宕昌縣南河鎮任藏村發生山體滑坡，造成33人被困。災害發生後，當地應急、消防、公安等多個部門組織救援力量，迅速開展救援。"
+    },
+    {
+      "id": "4975265",
+      "time": "2026-07-08 09:05:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1255.50美元/盎司。"
+    },
+    {
+      "id": "4975264",
+      "time": "2026-07-08 09:04:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡股市指標股指一度上漲0.3%，觸及5,356.98點的紀錄高位。"
+    },
+    {
+      "id": "4975263",
+      "time": "2026-07-08 09:04:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報3923.00元。"
+    },
+    {
+      "id": "4975262",
+      "time": "2026-07-08 09:04:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方重磅報告批判菲律賓領土主張】7月8日，自然資源部海洋發展戰略研究所編制的《菲律賓南海領土主張的歷史法理批判》中英文版對外發布。《報告》回顧和梳理菲律賓領土邊界的形成過程，分析其歷次擴張領土範圍的意圖與做法，得出結論：菲律賓意圖突破一系列具有國際法效力的條約所限定的領土邊界，將其擴張至黃巖島和南沙群島部分島礁的做法，缺乏基本的史實依據，明顯違背有關領土取得的國際法規則，不具備歷史法理基礎。這是中方智庫首次全面評估菲律賓領土主張，並予以系統性批判。"
+    },
+    {
+      "id": "4975261",
+      "time": "2026-07-08 09:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "甘肅隴南滑坡21人遇難。"
+    },
+    {
+      "id": "4975260",
+      "time": "2026-07-08 09:03:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】北京市氣象局7月8日9時釋出雷電黃色預警：預計，7月8日14時至20時，北京市有分散性雷陣雨天氣，影響城區的主要時段為16時至19時。延慶、懷柔、密雲、平谷、順義等區短時雨強較大，並伴有7級左右陣風和冰雹，請注意防範。"
+    },
+    {
+      "id": "4975259",
+      "time": "2026-07-08 09:03:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2583.00點。"
+    },
+    {
+      "id": "4975258",
+      "time": "2026-07-08 09:03:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2558.00點。"
+    },
+    {
+      "id": "4975257",
+      "time": "2026-07-08 09:02:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長亨特：受消費者信心和企業信心下滑影響，近期這些傳導渠道一直是工作核心重點。對供應衝擊\"視而不見\"並不總是正確的。央行委員會將根據需要採取行動，確保通脹迴歸目標。一些經濟成本是不可避免的，政策制定者所能做的就是取得平衡。如果通脹預期上升，可能需要一段低通脹、高失業率的時期。"
+    },
+    {
+      "id": "mkt:019f3f3f-a072-7aab-8cda-82f8627f7f8e",
+      "time": "2026-07-08 09:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA Assistant Governor Hunter said if inflation expectations rise, Australia may need to undergo a period in which low inflation coexists with higher unemployment."
+    },
+    {
+      "id": "mkt:019f3f3f-8a91-7aab-8cda-7f3a73e3c541",
+      "time": "2026-07-08 09:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunter said supply shocks do not diminish the importance of keeping inflation low and stable."
+    },
+    {
+      "id": "mkt:019f3f3f-5af5-7aab-8cda-73fc36b060c7",
+      "time": "2026-07-08 09:02:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Deputy Governor Hunter said supply shocks will impose unavoidable trade-offs for the RBA and the broader economy."
+    },
+    {
+      "id": "mkt:019f3f3f-30aa-7aab-8cda-6f3bb811d9f3",
+      "time": "2026-07-08 09:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunt said that, given recent declines in consumer and business confidence, policy transmission channels have been a focus in recent weeks."
+    },
+    {
+      "id": "mkt:019f3f3f-0af8-7aab-8cda-65f017208d6c",
+      "time": "2026-07-08 09:02:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.5% in early trade on July 8 (Wednesday) to 898.3 yuan/gram; silver T+D declined 1.1% to 14,700 yuan/kg."
+    },
+    {
+      "id": "mkt:019f3f3e-f58b-7aab-8cda-5e3f207da868",
+      "time": "2026-07-08 09:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX opened 296.19 points higher, up 0.65% at 45,775.3 on Wednesday, July 8."
+    },
+    {
+      "id": "mkt:019f3f3e-eadf-7aab-8cda-52d2706fc6b6",
+      "time": "2026-07-08 09:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunter said policymakers should not always \"look through\" the effects of supply shocks."
+    },
+    {
+      "id": "4975256",
+      "time": "2026-07-08 09:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長亨特：但到目前為止，幾乎沒有跡象表明經濟活動明顯放緩。"
+    },
+    {
+      "id": "mkt:019f3f3e-c607-7aab-8cda-4f445a5c6beb",
+      "time": "2026-07-08 09:01:46",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia assistant governor Hunter said the bank's board will act if necessary to ensure inflation returns to target."
+    },
+    {
+      "id": "4975255",
+      "time": "2026-07-08 09:01:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長亨特：供應衝擊不會降低維持低而穩定通脹的重要性。石油衝擊有可能改變通脹預期。供應衝擊給央行和整體經濟帶來不可避免的權衡取捨。"
+    },
+    {
+      "id": "mkt:019f3f3e-4f06-7aab-8cda-400e739468be",
+      "time": "2026-07-08 09:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "China's most-active fuel oil contract rose 4.00% intraday to 3,042 yuan/ton."
+    },
     {
       "id": "mkt:019f3f3d-da34-7aab-8cda-3e70e1dd94b4",
       "time": "2026-07-08 09:00:45",
