@@ -1,7 +1,356 @@
 {
-  "updated": "2026-07-09 03:38:17",
-  "count": 16093,
+  "updated": "2026-07-09 04:04:58",
+  "count": 16102,
   "items": [
+    {
+      "id": "mkt:019f4354-d39a-7aab-8cfe-0929683dc890",
+      "time": "2026-07-09 04:04:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency reports air-defence systems near Bandar Abbas are intercepting \"hostile targets\"."
+    },
+    {
+      "id": "4977583",
+      "time": "2026-07-09 04:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社：防空系統正在阿巴斯港周邊攔截 “敵方目標”。"
+    },
+    {
+      "id": "mkt:019f4354-79ed-7aab-8cfe-04f4df886af7",
+      "time": "2026-07-09 04:03:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "US equity close Wednesday July 8: Dow Jones Industrial Average down 577.06 points (-1.09%) at 52,348.09; S&P 500 down 21.17 points (-0.28%) at 7,482.68; Nasdaq Composite up 51.96 points (+0.20%) at 25,870.65."
+    },
+    {
+      "id": "4977582",
+      "time": "2026-07-09 04:03:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "以色列財政部長：土耳其構成重大威脅，正推動阻止美國向土耳其出售F-35戰機。絕不能讓埃爾多安獲得能夠改變戰局的先進武器。"
+    },
+    {
+      "id": "mkt:019f4353-c489-7aab-8cfd-fb0d7be1afe9",
+      "time": "2026-07-09 04:03:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's finance minister said Turkey poses a major threat and that he is pushing to block US sales of F-35 fighters to Turkey, saying Erdogan must not be allowed to acquire advanced weapons capable of altering the battlefield."
+    },
+    {
+      "id": "4977581",
+      "time": "2026-07-09 04:01:41",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛公司恢復跟蹤億緯鋰能，評級中性，目標價68元人民幣。"
+    },
+    {
+      "id": "mkt:019f4351-e0eb-7aab-8cfd-f03e06e6a898",
+      "time": "2026-07-09 04:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【U.S. close: major indexes mixed; Nasdaq Golden Dragon China index +2%】U.S. stocks closed Wednesday: Dow Jones Industrial Average down 1.09%, S&P 500 down 0.28%, Nasdaq Composite up 0.20%. Micron Technology (MU.O) +1.0%, NVIDIA (NVDA.O) +3.6%, SanDisk (SNDK.O) +6.7%. Nasdaq Golden Dragon China Index rose 2.05%, with Alibaba (BABA.N) up 11%."
+    },
+    {
+      "id": "4977580",
+      "time": "2026-07-09 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌1.09%，標普500指數跌0.28%，納指漲0.19%。Synchrony Financial跌9.63%，Moderna跌7.50%，SW跌6.51%，瑞思邁跌6.33%，阿克邁漲10.69%，Arista Networks漲8.75%，超微電腦漲7.39%。“七姐妹”方面：英偉達漲3.67%，蘋果漲0.86%，亞馬遜跌0.96%，谷歌跌1.32%，微軟跌1.48%，Meta Platforms跌2.04%，特斯拉跌2.22%。"
+    },
+    {
+      "id": "4977579",
+      "time": "2026-07-09 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.02%】嘉楠科技漲27.45%，金山雲漲11.44%，阿里巴巴漲11.02%，世紀互聯漲8.24%，萬國資料漲7.88%。"
+    },
+    {
+      "id": "mkt:019f4350-8af4-7aab-8cfd-e8cc628bbb0e",
+      "time": "2026-07-09 03:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a loud explosion on Lavan Island in southern Iran."
+    },
+    {
+      "id": "mkt:019f434f-a443-7aab-8cfd-e7dd7785844d",
+      "time": "2026-07-09 03:58:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Alberta officials said Meta Platforms (META.O)'s new data center will be powered via an agreement with Pembina Pipeline and will not affect local grid stability."
+    },
+    {
+      "id": "4977578",
+      "time": "2026-07-09 03:58:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "艾伯塔省官員：Meta 與彭比納管道公司達成合作，新建資料中心不會對電網穩定性造成影響。"
+    },
+    {
+      "id": "4977577",
+      "time": "2026-07-09 03:57:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗米贊通訊社訊息：伊朗錫裡克、阿巴斯港多地傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f434d-007e-7aab-8cfd-df87efe08466",
+      "time": "2026-07-09 03:55:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media report explosions heard in multiple areas of Hormozgan province."
+    },
+    {
+      "id": "4977576",
+      "time": "2026-07-09 03:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "AWS ：面向亞馬遜雲科技推出Claude Apps Gateway。"
+    },
+    {
+      "id": "mkt:019f434c-98bb-7aab-8cfd-d6c5d4cae8df",
+      "time": "2026-07-09 03:55:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services (AWS) announced the launch of the Claude Application Gateway."
+    },
+    {
+      "id": "mkt:019f434c-0e9d-7aab-8cfd-ca2d54e4b2b3",
+      "time": "2026-07-09 03:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian media report the air-defence system on Sirik Island has been activated."
+    },
+    {
+      "id": "4977575",
+      "time": "2026-07-09 03:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗阿巴斯港傳出爆炸聲】據伊朗邁赫爾通訊社報道，當地時間7月8日深夜，伊朗南部霍爾木茲甘省首府阿巴斯港傳出爆炸聲。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f434a-04a4-7aab-8cfd-c711bf0eca3c",
+      "time": "2026-07-09 03:52:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reported sounds of explosions in Bandar Abbas, Hormozgan province, southern Iran late on July 8 local time."
+    },
+    {
+      "id": "mkt:019f4349-2d76-7aab-8cfd-bcd1890d3e7b",
+      "time": "2026-07-09 03:51:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. judge approved SEC settlement with Elon Musk over Twitter share-disclosure issues."
+    },
+    {
+      "id": "4977574",
+      "time": "2026-07-09 03:51:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官批准美國證券交易委員會與埃隆・馬斯克就推特資訊披露糾紛達成和解。"
+    },
+    {
+      "id": "4977573",
+      "time": "2026-07-09 03:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局釋出宣告，要求自動駕駛企業解決無人駕駛車輛頻繁干擾執法人員及其他應急救援人員的突出共性問題。"
+    },
+    {
+      "id": "4977572",
+      "time": "2026-07-09 03:50:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 高管： Meta 加拿大資料中心將使用天然氣供電，但企業會透過可再生能源投資抵消相關碳排放。"
+    },
+    {
+      "id": "mkt:019f4348-1dc9-7aab-8cfd-b70cccf42bc0",
+      "time": "2026-07-09 03:50:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "A Meta Platforms (META.O) executive said Canadian data centers will be powered by natural gas, with the company offsetting the impact through renewable energy investments."
+    },
+    {
+      "id": "mkt:019f4346-cd46-7aab-8cfd-afc43d698ac4",
+      "time": "2026-07-09 03:49:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said recent US actions will not go unanswered and that Iran will respond."
+    },
+    {
+      "id": "4977571",
+      "time": "2026-07-09 03:48:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：阿巴斯港傳來爆炸聲。"
+    },
+    {
+      "id": "4977570",
+      "time": "2026-07-09 03:48:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體：伊朗副外長表示，美國近期一系列行動不會得不到回應。"
+    },
+    {
+      "id": "4977569",
+      "time": "2026-07-09 03:48:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Meta 高管：Meta 這座全新加拿大資料中心將成為該公司在美國以外規模最大的資料中心。"
+    },
+    {
+      "id": "mkt:019f4346-2a0e-7aab-8cfd-a281b7f24633",
+      "time": "2026-07-09 03:48:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Mehr news agency reports explosions in Bandar Abbas in southern Iran and activation of local air-defence systems."
+    },
+    {
+      "id": "4977568",
+      "time": "2026-07-09 03:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱美軍再次發動襲擊 致2人死亡】當地時間8日自伊朗方面獲悉，美軍持續對霍爾木茲甘省碼頭髮動襲擊。當天夜間，美軍導彈襲擊造成兩名漁民死亡。據悉，另有兩名漁民在襲擊中受傷，已被送往醫院接受治療。美國方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4977567",
+      "time": "2026-07-09 03:47:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "工程服務網路公司（ESN）獲美國海軍價值 1590 萬美元合同，為尼米茲級、福特級航空母艦全生命週期管理提供配套支援。"
+    },
+    {
+      "id": "te:economy:565403",
+      "time": "2026-07-09 03:47:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Argentina Industrial Output Falls in April — Argentina's industrial production fell 5.7% year-on-year in May 2026, following a 2.8% decline in April. Fourteen of the 16 manufacturing sectors posted annual declines. The largest drags came from machinery and equipment (-23.4%), food and beverages (-3.0%), motor vehicles and auto parts (-15.9%), apparel, leather and footwear (-14.7%), textiles (-26.2%), and chemicals (-3.1%). Other sectors posting declines included rubber and plastics (-10.2%), other equipment and instruments (-12.5%), basic metals (-4.0%), furniture and other manufacturing (-7.3%), wood, paper and printing (-2.9%), non-metallic minerals (-2.3%), other transport equipment (-9.9%), and metal products (-1.2%). In contrast, petroleum refining (19.4%) and tobacco products (14.6%) recorded solid growth. On a monthly basis, industrial production rose 0.4%."
+    },
+    {
+      "id": "4977566",
+      "time": "2026-07-09 03:46:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【裕信銀行持股比例將突破47%，距離掌控德國商業銀行更進一步】義大利裕信銀行（UniCredit SpA）執行長Andrea Orcel距離掌控德國商業銀行（Commerzbank AG）又近了一步。隨著投資者認售了足夠的股份，這家義大利銀行的潛在持股比例已升至47.6%。根據7月8日釋出的一份宣告，截至7月3日的接受截止日期，代表德國商業銀行17.6%資本的股份已被認售，其中包括在兩週延期期間認售的超過5%的股份。裕信銀行此前已持有略低於30%的股份，包括實物股票和可轉換為股票的衍生品。"
+    },
+    {
+      "id": "4977565",
+      "time": "2026-07-09 03:42:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”：美聯儲的分歧更多是關於未來發展，而非當前舉措】“美聯儲傳聲筒”Nick Timiraos表示，6月份，就連最鷹派的美聯儲官員也未積極推動採取行動。根據會議紀要，部分與會者認為在6月會議上有必要提高利率，但支援維持現狀，這表明預測中顯現的分歧更多是關於未來走勢如何發展，而非當前應採取何種措施。"
+    },
+    {
+      "id": "mkt:019f433f-f623-7aab-8cfd-9f5fc48b967d",
+      "time": "2026-07-09 03:41:32",
+      "tags": [
+        "MKT News",
+        "DKNG.O",
+        "Impact bullish",
+        "FLTR.L"
+      ],
+      "text": "Investor Michael Burry has bought shares in DraftKings and Flutter, betting that future tighter regulation of prediction markets could benefit the two sports-betting companies."
+    },
     {
       "id": "mkt:019f433c-1cb2-7aab-8cfd-93d60c266a3a",
       "time": "2026-07-09 03:37:20",
@@ -146867,253 +147216,6 @@
         "國際"
       ],
       "text": "【沃什希望美聯儲減少發聲 華爾街擔憂市場波動恐加劇】凱文·沃什執掌美聯儲僅數週時間，但分析師已開始擔心，他希望央行減少發聲的關鍵承諾可能會加劇市場波動。對華爾街許多人而言，美聯儲的指引有助於他們為央行可能採取的行動做準備。美聯儲減少發聲可能增加市場對利率政策路徑的不確定性，隨著新資料促使交易員重新評估前景，這不僅可能加劇國債市場的波動，還會推高美債的溢價，因為投資者在購買這些債券時會要求更高的回報補償。道明證券策略師Gennadiy Goldberg和Molly Brooks週三在研報中寫道：“市場對前瞻性指引的依賴總體上降低了不確定性，並導致交易倉位更加集中。取消前瞻性指引應該會導致市場波動加劇，同時推高期限溢價。”"
-    },
-    {
-      "id": "4965897",
-      "time": "2026-07-02 04:03:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：蘇黎世會談期間，凍結資產解凍流程加快，相關制裁予以暫停。敵人只看得懂實力的語言，我們必須以實力與之抗衡。當下團結是我們的第一要務，高於一切。"
-    },
-    {
-      "id": "mkt:019f1f47-0b75-7aab-8c65-f51bba5ed92e",
-      "time": "2026-07-02 04:02:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Meta Platforms",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "BABA.N",
-        "Impact bullish",
-        "MU.O",
-        "Impact bearish",
-        "SNDK.O"
-      ],
-      "text": "【US close: Nasdaq Golden Dragon index up ~3%; Micron, SanDisk down ~10%】US stocks closed Wednesday: Dow -0.02%, S&P 500 -0.2%, Nasdaq -0.66%. NVIDIA (NVDA.O) -1.0%, Micron Technology (MU.O) -10.5%, SanDisk (SNDK.O) -10.6%, AMD (AMD.O) -6.8%, Meta (META.O) +8.8%. The Nasdaq Golden Dragon Index rallied 2.9%; Alibaba (BABA.N) +2.0%."
-    },
-    {
-      "id": "4965896",
-      "time": "2026-07-02 04:01:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "卡特彼勒股價收盤下跌6.9%，創2025年4月以來最大跌幅。"
-    },
-    {
-      "id": "4965895",
-      "time": "2026-07-02 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.02%，標普500指數跌0.21%，納指跌0.64%。康寧跌13.55%，科磊跌11.78%，泰瑞達跌11.70%，閃迪跌10.50%，美光跌10.47%。“七姐妹”方面：Meta Platforms漲8.82%，微軟漲3.01%，蘋果漲1.77%，亞馬遜漲1.43%，谷歌漲1.34%，特斯拉漲1.16%，英偉達跌1.17%。"
-    },
-    {
-      "id": "4965894",
-      "time": "2026-07-02 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲2.93%】金生遊樂漲17.46%，新氧漲14.53%，世紀互聯漲9.76%，逸仙電商漲9.15%，陸金所控股漲7.95%。"
-    },
-    {
-      "id": "mkt:019f1f41-7484-7aab-8c65-ecc145e96896",
-      "time": "2026-07-02 03:56:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "Market sources said Apple (AAPL.O) is negotiating with the Trump administration over chip procurement."
-    },
-    {
-      "id": "4965893",
-      "time": "2026-07-02 03:56:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守68美元/桶，日內跌2.22%。"
-    },
-    {
-      "id": "mkt:019f1f3e-8e4f-7aab-8c65-e5e0437eb980",
-      "time": "2026-07-02 03:53:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President TRUMP said July 4 could see highs around 107°F but he will still deliver a very long speech to demonstrate he can do anything."
-    },
-    {
-      "id": "mkt:019f1f3c-e345-7aab-8c65-daf8a6a0b3e7",
-      "time": "2026-07-02 03:51:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. judge blocks USPS from implementing restrictions on mail-in ballots."
-    },
-    {
-      "id": "4965892",
-      "time": "2026-07-02 03:50:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：7月4日當天室外氣溫大概會達到107華氏度（約41.7度）。但我還是會到場，發表一篇很長的演講，就是要證明我什麼都扛得住。"
-    },
-    {
-      "id": "4965891",
-      "time": "2026-07-02 03:49:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 當年我們把巴拿馬運河交還給巴拿馬之後，他們第一件事就是把船舶通行費漲了四倍，過往船隻一艘都沒減少。 後來他們又再度漲價，船隻通行量依舊沒有下滑。 他們賺得盆滿缽滿。我們當初那麼做實在太蠢了。"
-    },
-    {
-      "id": "4965890",
-      "time": "2026-07-02 03:49:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：巴拿馬運河是我們耗資最大的工程，同時也是收益最高的專案，兩者兼得實屬難得。"
-    },
-    {
-      "id": "mkt:019f1f3a-3f48-7aab-8c65-d5ad2e30727f",
-      "time": "2026-07-02 03:48:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Market sources: US signs agreement to establish a permanent embassy in Jerusalem."
-    },
-    {
-      "id": "4965889",
-      "time": "2026-07-02 03:47:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國簽署協議，計劃在耶路撒冷設立常駐大使館。"
-    },
-    {
-      "id": "mkt:019f1f38-ae1d-7aab-8c65-c943e8c55545",
-      "time": "2026-07-02 03:47:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "WBG executive board approved $150 mln in financing for Sri Lanka to support its reform agenda."
-    },
-    {
-      "id": "4965888",
-      "time": "2026-07-02 03:47:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行執行董事會批准提供1.5億美元融資支援斯里蘭卡改革議程。"
-    },
-    {
-      "id": "4965887",
-      "time": "2026-07-02 03:43:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們在伊朗問題上進展順利，委內瑞拉方面也是如此。"
-    },
-    {
-      "id": "mkt:019f1f34-e596-7aab-8c65-c09ba88fd237",
-      "time": "2026-07-02 03:43:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Gulf states reportedly seek separate regional security deal with Iran】A June 30 report says Saudi Arabia, Oman and Qatar are engaging in direct talks with Iran alongside US‑Iran negotiations. Citing a decline in US credibility, Gulf states are recalibrating ties. After a US‑Iran memorandum, Iran and Oman held a first meeting on management of the Strait of Hormuz. Follow‑up talks are planned between Oman and Qatar, Iran and Saudi Arabia, and Qatar and Saudi Arabia to outline post‑conflict coexistence. Discussions focus on Strait of Hormuz navigation arrangements and potential economic incentives Gulf states might offer Iran in exchange for security concessions. These talks are concurrent with but independent from US‑Iran negotiations."
-    },
-    {
-      "id": "4965886",
-      "time": "2026-07-02 03:42:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 最近假新聞媒體對我還算客氣。 我想，我們取得這麼亮眼的成績，他們也不得不收斂一點。"
-    },
-    {
-      "id": "mkt:019f1f33-cc3c-7aab-8c65-bd9ddd50d99c",
-      "time": "2026-07-02 03:41:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP said fake news has treated him fairly well recently and that when we are performing as well as we are now, they have to be more polite."
-    },
-    {
-      "id": "4965885",
-      "time": "2026-07-02 03:41:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【海灣國家被曝欲獨自與伊朗達成地區安全協議】據英國《每日電訊報》6月30日報道，在美伊談判期間，沙烏地阿拉伯、阿曼、卡達等海灣國家也正主動與伊朗開展直接外交接觸與談判。報道指出，隨著美國的信譽不斷下降，海灣國家正在調整與伊朗的關係。（央視新聞）"
-    },
-    {
-      "id": "4965884",
-      "time": "2026-07-02 03:40:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織通報：蘇丹新發霍亂疫情，已造成120人死亡。"
-    },
-    {
-      "id": "4965883",
-      "time": "2026-07-02 03:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫就核查人員准入許可權表態：核查人員僅在兩處場地擁有準入資格，一處是布什爾核電站，另一處是德黑蘭研究堆，核查許可權僅限上述兩處地點。"
-    },
-    {
-      "id": "4965882",
-      "time": "2026-07-02 03:39:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及內政部長伯古姆：坦白說，我覺得他表現十分亮眼，而他的妻子凱瑟琳更是讓人印象深刻。"
-    },
-    {
-      "id": "4965881",
-      "time": "2026-07-02 03:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋6月石油出口量創下歷史新高。該國一方面依託退出歐佩克帶來的生產空間，另一方面避開了霍爾木茲海峽來自伊朗方面的安全風險。"
-    },
-    {
-      "id": "mkt:019f1f30-a328-7aab-8c65-b6391161e8dd",
-      "time": "2026-07-02 03:38:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Global oil prices fall on 1st】At the close, NYMEX August-delivery light sweet crude futures fell $0.92 to $68.58 a barrel, down 1.32%. ICE Brent futures for September delivery fell $1.38 to $71.57 a barrel, down 1.89%."
     }
   ]
 }
