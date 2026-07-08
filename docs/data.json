@@ -1,7 +1,201 @@
 {
-  "updated": "2026-07-09 07:48:01",
-  "count": 16153,
+  "updated": "2026-07-09 07:51:53",
+  "count": 16155,
   "items": [
+    {
+      "id": "mkt:019f4424-ae94-7aab-8d01-28b081d1e885",
+      "time": "2026-07-09 07:51:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign investors were net sellers of Japanese government bonds (JGBs) of ¥5.9bn in the week ended July 3; the prior week was revised to a ¥502.3bn net sale from ¥493.7bn."
+    },
+    {
+      "id": "mkt:019f4424-abb9-7aab-8d01-26351e0d9dd6",
+      "time": "2026-07-09 07:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's net purchases of foreign equities totaled ¥824.5 billion in the week to July 3. The prior week's figure was revised from ¥147.7 billion to ¥147.8 billion."
+    },
+    {
+      "id": "mkt:019f4424-83db-7aab-8d01-1cb3abc2b590",
+      "time": "2026-07-09 07:51:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jul.3) | actual 824500000000B | previous 147700000000B"
+    },
+    {
+      "id": "mkt:019f4424-812e-7aab-8d01-141e7538818f",
+      "time": "2026-07-09 07:51:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.3) | actual -5900000000B | previous -493700000000B"
+    },
+    {
+      "id": "mkt:019f4424-6f3f-7aab-8d01-0b92063a2336",
+      "time": "2026-07-09 07:51:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan M2 money supply YoY 2.2% in June, down from 2.5% in May."
+    },
+    {
+      "id": "mkt:019f4424-5384-7aab-8d01-0207c3806d6b",
+      "time": "2026-07-09 07:50:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M2 Money Supply (YoY) (Jun) | actual 2.2% | previous 2.50%"
+    },
+    {
+      "id": "mkt:019f4424-27c4-7aab-8d00-f9d044473765",
+      "time": "2026-07-09 07:50:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan June M3 money supply YoY 1.5%, vs 1.70% prior."
+    },
+    {
+      "id": "4977744",
+      "time": "2026-07-09 07:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【殷勇在朝陽區圍繞加快建設全球數字經濟標杆城市調研，要求做強底層技術、拓展應用場景，不斷培育壯大新質生產力】7月8日，北京市委副書記、市長殷勇在朝陽區圍繞加快建設全球數字經濟標杆城市開展調研。他強調，要搶抓未來產業新賽道，持續集聚高精尖產業創新主體，做強底層技術、拓展應用場景，不斷培育壯大新質生產力，推動全球數字經濟標杆城市建設提質增效，為首都高質量發展注入強勁動能。殷勇在調研時強調，要完善產業協同創新生態，聚焦關鍵領域，發揮創新平臺作用，推動頭部企業聯動上下游中小企業、高校科研院所等組建創新聯合體，深化產學研協同攻關，集中力量破解技術難題。充分釋放北京場景資源優勢，推動人工智慧、量子計算等前沿技術在垂直領域示範應用，以場景牽引技術迭代、賦能產業壯大。市有關部門和區要完善從基礎研究、中試量產到商業化落地的全鏈條支援體系，強化資金、人才等要素供給保障，精準施策解決企業在融資上市、成果轉化、場景落地、生態建設等方面訴求，助力企業做大做強。"
+    },
+    {
+      "id": "4977743",
+      "time": "2026-07-09 07:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月3日當週淨買進國外債券 -2181億日元，前值 -2801億日元。日本7月3日當週外資淨買進日本債券 -59億日元，前值 -4937億日元。日本7月3日當週外資淨買進日本股票 -222億日元，前值 -18165億日元。日本7月3日當週淨買進國外股票 8245億日元，前值 1477億日元。"
+    },
+    {
+      "id": "mkt:019f4424-0e65-7aab-8d00-f01c9286f3b9",
+      "time": "2026-07-09 07:50:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (Jun) | actual 1.5% | previous 1.70%"
+    },
+    {
+      "id": "4977742",
+      "time": "2026-07-09 07:50:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC技術向善研討會在深圳前海開幕】7月8日，APEC技術向善研討會在深圳前海深港現代服務業合作區正式開幕。本次研討會是APEC科技創新政策夥伴機制（PPSTI）框架下立項實施的重要專案，吸引了來自17個APEC成員經濟體的代表、國際組織專家及產學研各界嘉賓參加，圍繞“技術向善”這一核心議題展開深入交流。 首日會議包括開幕式、主旨報告和平行論壇。與會嘉賓就市場激勵、演算法公平與倫理審查、包容性設計等前沿議題分享了各自經濟體的實踐經驗與政策思考。現場討論熱烈，各方對技術發展中的公平性與普惠性問題形成了廣泛共識。"
+    },
+    {
+      "id": "4977741",
+      "time": "2026-07-09 07:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月貨幣存量M3同比 1.5%，前值 1.7%。日本6月貨幣存量M2同比 2.2%，前值 2.5%。"
+    },
+    {
+      "id": "mkt:019f4423-a23d-7aab-8d00-ef49a1dec756",
+      "time": "2026-07-09 07:50:13",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors net sold JPY22.2bn of Japanese equities in the week to July 3; prior week's net selling was revised to JPY1.8175tn from JPY1.8165tn."
+    },
+    {
+      "id": "mkt:019f4423-9181-7aab-8d00-e0f16abfacba",
+      "time": "2026-07-09 07:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's net purchases of foreign bonds were negative ¥218.1 bln in the week through July 3; prior week reading revised from negative ¥280.1 bln to negative ¥277.5 bln."
+    },
+    {
+      "id": "mkt:019f4423-70f0-7aab-8d00-d9929bd6a10a",
+      "time": "2026-07-09 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jul.3) | actual -22200000000B | previous -1816500000000B"
+    },
+    {
+      "id": "mkt:019f4423-70c9-7aab-8d00-d5fdb258cb5f",
+      "time": "2026-07-09 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jul.3) | actual -218100000000B | previous -280100000000B"
+    },
+    {
+      "id": "mkt:019f4423-4bfa-7aab-8d00-c80b73449d7e",
+      "time": "2026-07-09 07:49:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump says Iran called, eager to reach a deal】On July 9 aboard Air Force One returning to the United States, President Trump told reporters Iran had just called and was \"very eager\" to reach an agreement, though he said he was unsure whether it \"deserved\" one. He said the US has \"already won militarily\" and Iran \"has nothing left,\" and when asked why Iran would attack merchant ships if it seeks a deal he said they are \"a bit crazy, out of control\" but still eager for a deal."
+    },
+    {
+      "id": "4977740",
+      "time": "2026-07-09 07:49:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生豬價格反彈 部分概念股估值已處於低位】近期，豬價迎來一波顯著反彈。生意社價格顯示，7月8日生豬價格漲至11.02元/公斤，近8日持續上漲，自3月5日以來首次回升至11元上方。4月中旬以來，生豬價格震盪上行，最新價格較4月中旬的低價上漲逾22%。近期豬價持續上漲，主要受到行業產能去化、政策持續加碼穩定豬價等方面影響。產能層面，國家統計局資料顯示，3月末能繁母豬存欄量為3904萬頭，同比減少135萬頭，但仍較今年農業農村部劃定的最新調控目標3750萬頭高出154萬頭，產能有進一步下降的空間。當前豬價持續承壓，頭部豬企透過雙管齊下的方式，一方面最佳化飼料配方，降低期間費用等極致降本方式，另一方面主動放緩出欄節奏，下調年度出欄目標增速，保障現金流。據證券時報·資料寶統計，A股中佈局生豬養殖的概念股超20只，年初以來平均下跌19.64%。部分概念股估值已處於低位。"
+    },
+    {
+      "id": "4977739",
+      "time": "2026-07-09 07:49:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗致電迫切想達成協議】美國總統特朗普今天（7月9日）在搭乘“空軍一號”專機返回美國途中對隨行媒體稱，“伊朗剛剛打電話來，他們非常迫切地想要達成一項協議。只不過我不知道他們是否還配得上達成協議。”特朗普稱，“美國在軍事上已經贏了，伊朗什麼都不剩了。” 在被問到“如果伊朗迫切想達成協議，為什麼還要攻擊商船”時，特朗普稱，“因為他們有點瘋狂，失控了——但他們非常迫切地想要達成協議。”"
+    },
+    {
+      "id": "mkt:019f4422-202c-7aab-8d00-c77b7fbb1389",
+      "time": "2026-07-09 07:48:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 07:44 on July 9 an approximately magnitude-5.1 earthquake occurred near Gao County, Yibin, Sichuan, China. Final parameters await the official rapid bulletin."
+    },
+    {
+      "id": "4977737",
+      "time": "2026-07-09 07:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月09日07時44分在四川宜賓市高縣附近（北緯28.52度，東經104.70度）發生5.1級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "te:markets:565424",
       "time": "2026-07-09 07:47:09",
@@ -147545,206 +147739,6 @@
         "日本"
       ],
       "text": "【日本6月基礎貨幣同比-13.7%】7月2日訊息，日本6月基礎貨幣同比-13.7%，前值-12.2%。"
-    },
-    {
-      "id": "4966053",
-      "time": "2026-07-02 07:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【基輔市遭空襲傳出持續爆炸聲 至少5人受傷 】烏克蘭基輔市市長克利奇科2日凌晨在社交媒體發文稱，俄軍對基輔市發動導彈和無人機襲擊，初步資訊顯示，空襲已造成至少5人受傷。克利奇科稱，基輔舍甫琴科夫斯基區一處賓館和戈洛謝耶夫斯基區的一棟居民樓遭到襲擊並起火。截至凌晨2時35分，新華社記者在基輔市仍能聽到爆炸聲和防空系統開火聲。"
-    },
-    {
-      "id": "4966052",
-      "time": "2026-07-02 07:51:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至6月26日當週買進外國債券 -2801億日元，前值由1997億日元修正為2021億日元。日本至6月26日當週外資買進日股 -18165億日元，前值由4794億日元修正為4513億日元。日本至6月26日當週買進外國股票 1477億日元，前值由4268億日元修正為4267億日元。日本至6月26日當週外資買進日債 -4937億日元，前值-10573億日元。"
-    },
-    {
-      "id": "mkt:019f2017-e17a-7aab-8c67-92cd7d374991",
-      "time": "2026-07-02 07:51:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Week to June 26: foreign investors were net sellers of Japanese government bonds, -493.7 bln yen, versus -1,057.3 bln yen the prior week."
-    },
-    {
-      "id": "mkt:019f2017-d754-7aab-8c67-8dd3a7e0a058",
-      "time": "2026-07-02 07:51:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Japan bought ¥147.7 bln of foreign equities in the week to June 26; prior reading revised from ¥426.8 bln to ¥426.7 bln."
-    },
-    {
-      "id": "mkt:019f2017-be5c-7aab-8c67-86e72c31563a",
-      "time": "2026-07-02 07:50:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jun.26) | actual -493700000000B | previous -1057300000000B"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607023790848196",
-      "time": "2026-07-02 07:50:54",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至6月26日當週外資買進日股-18165億日元，前值由4794億日元修正為4513億日元。"
-    },
-    {
-      "id": "mkt:019f2017-b8e9-7aab-8c67-7cf8eee2b33c",
-      "time": "2026-07-02 07:50:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Jun.26) | actual 147700000000B | previous 426800000000B"
-    },
-    {
-      "id": "mkt:019f2017-5485-7aab-8c67-7518fc4be736",
-      "time": "2026-07-02 07:50:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan monetary base YoY -13.7% in June; prior -12.2%."
-    },
-    {
-      "id": "mkt:019f2017-3988-7aab-8c67-6ec5287da84f",
-      "time": "2026-07-02 07:50:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Base money growth rate (YoY) (Jun) | actual -13.7% | previous -12.20%"
-    },
-    {
-      "id": "mkt:019f2017-2808-7aab-8c67-648c52e807ed",
-      "time": "2026-07-02 07:50:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Foreign investors were net sellers of Japanese equities to the tune of 1.8165 tln yen in the week to June 26; the prior week’s net purchases were revised down from 479.4 bln yen to 451.3 bln yen."
-    },
-    {
-      "id": "te:markets:563560",
-      "time": "2026-07-02 07:50:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower Ahead of Jobs Report — US stock futures edged lower on Thursday as investors remained cautious ahead of the June jobs report, which is expected to provide fresh clues about labor market conditions and the Federal Reserve’s interest rate outlook. Data released on Wednesday showed private-sector hiring slowed more than expected last month. Fed Chair Kevin Warsh also said inflation expectations had eased over the past month while reaffirming the central bank’s commitment to restoring price stability. In regular trading on Wednesday, the tech-heavy Nasdaq Composite fell 0.66% as investors reassessed the durability of the AI-driven rally, while the S&P 500 and Dow Jones lost 0.22% and 0.03%, respectively. Chipmakers and memory stocks led the decline, with steep losses from Micron Technology (-10.6%), Sandisk Corp (-10.6%), AMD (-6.9%), Intel (-9%), and Applied Materials (-10%)."
-    },
-    {
-      "id": "mkt:019f2017-1d78-7aab-8c67-5b5bdb9bfa61",
-      "time": "2026-07-02 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan net sold foreign bonds JPY 280.1 bln in the week to June 26; prior week’s figure revised to JPY 202.1 bln from JPY 199.7 bln."
-    },
-    {
-      "id": "4966051",
-      "time": "2026-07-02 07:50:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本6月基礎貨幣同比 -13.7%，前值 -12.2%。"
-    },
-    {
-      "id": "mkt:019f2016-ed37-7aab-8c67-5637bb7d528e",
-      "time": "2026-07-02 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jun.26) | actual -1816500000000B | previous 479400000000B"
-    },
-    {
-      "id": "mkt:019f2016-ed16-7aab-8c67-4f933ae0e700",
-      "time": "2026-07-02 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (Jun.26) | actual -280100000000B | previous 199700000000B"
-    },
-    {
-      "id": "4966050",
-      "time": "2026-07-02 07:49:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【公募基金展望下半年：投資邏輯正由估值驅動轉向業績驅動】回顧2026年上半年，市場行情幾經切換，從年初受益於漲價邏輯的有色資源板塊率先走強，到中東衝突擾動市場風險偏好，資金在不確定性中選擇了高景氣度的科技主線，推動以光通訊、儲存晶片為代表的AI硬體節節攀升，科技成長股演繹出極致的結構性行情。展望2026年下半年，多家公募基金公司對投資主線與市場風格進行了展望。機構普遍認為，AI仍將是市場最重要的投資主線，但隨著產業進入業績兌現階段，投資邏輯正由估值驅動轉向業績驅動，AI投資機會也有望向稀土、電力等產業鏈上下游持續擴散。與此同時，市場經歷上半年的極致結構性行情後，波動或有所加大，風格再平衡也值得關注。"
-    },
-    {
-      "id": "4966049",
-      "time": "2026-07-02 07:48:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上升1.5個基點，至2.715%。"
-    },
-    {
-      "id": "4966048",
-      "time": "2026-07-02 07:48:25",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：高股息板塊底倉配置價值仍具吸引力】華泰證券研報稱，6月以來市場風險偏好整體維持積極，資金延續向成長方向聚集，半導體、光模組、AI算力鏈等仍是市場核心主線，高股息板塊整體相對跑輸。但月內成長內部波動明顯加大，紅利底倉的避險價值階段性迴歸。展望7月，在成長擁擠度高企、估值處於年內相對高位、海外通脹超預期與美聯儲加息預期升溫的背景下，高股息板塊底倉配置價值仍具吸引力，建議重點關注具備防禦屬性的穩定型紅利（銀行、電力、公用事業、交運等）。"
-    },
-    {
-      "id": "4966047",
-      "time": "2026-07-02 07:48:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【紐約電價飆升 高溫天氣給美國電網帶來沉重負擔】紐約至弗吉尼亞州的電價正在飆升，因為持續高溫威脅著美國電網，可能影響獨立日假期的出行安排。 預計從週四開始，東海岸大片地區氣溫將超過100華氏度（38攝氏度），並持續到週末，其中最強烈的高溫將集中在大西洋中部各州。這股熱浪將加劇電力系統的負荷壓力，並進一步增加需求壓力，部分原因在於資料中心的激增。 目前電價已開始上漲。當地時間週三下午3時25分，紐約市的電價已突破每兆瓦時1100美元，並預計在晚間繼續攀升。在美國最大電網運營商PJM互聯公司（PJM Interconnection LLC）的系統中，電價已躍升至自一月份歷史性暴風雪襲擊東海岸以來的最高水平。 週三，一條旨在將魁北克水電輸送到紐約的輸電線路剛剛完成建設，但已停運，進一步加重了該州電網的壓力。魁北克水電公司一名發言人表示，工作人員正努力於當晚儘快恢復運營，這條查普蘭-哈德遜電力快線可滿足紐約約20%的電力需求。"
     }
   ]
 }
