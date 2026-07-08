@@ -1,7 +1,98 @@
 {
   "date": "2026-07-08",
-  "count": 2877,
+  "count": 2887,
   "items": [
+    {
+      "id": "mkt:019f41b9-f16b-7aab-8cee-5f3452c6c4a3",
+      "time": "2026-07-08 20:35:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German foreign minister said appropriate conditions must be provided to clear mines in the Strait of Hormuz and that we need to reach agreements with Iran and Oman."
+    },
+    {
+      "id": "4976858",
+      "time": "2026-07-08 20:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟峰會宣告：盟國承諾2026年向烏克蘭提供700億歐元支援，盟國確認主權承諾，將在2027年維持至少同等水平。"
+    },
+    {
+      "id": "mkt:019f41b9-ae29-7aab-8cee-5163f69cee61",
+      "time": "2026-07-08 20:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: NATO allies committed to provide €70 billion in support to Ukraine in 2026."
+    },
+    {
+      "id": "mkt:019f41b9-7ada-7aab-8cee-4b0b60183d80",
+      "time": "2026-07-08 20:35:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: Allies in Ankara announced additional procurement plans totaling more than $50 billion."
+    },
+    {
+      "id": "4976857",
+      "time": "2026-07-08 20:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TELESAT LIGHTSPEED與加拿大軍方簽署通訊訂單協議。"
+    },
+    {
+      "id": "4976856",
+      "time": "2026-07-08 20:34:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "mkt:019f41b7-dbb0-7aab-8cee-40d28454d2d2",
+      "time": "2026-07-08 20:33:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Germany's foreign minister said global oil inventories are not at a dangerous level."
+    },
+    {
+      "id": "4976854",
+      "time": "2026-07-08 20:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟重申支援丹麥維護國家主權與領土完整】歐盟委員會發言人奧洛夫·吉爾8日表示，格陵蘭島是丹麥王國的自治領地，格陵蘭島的未來應由格陵蘭人和丹麥人共同決定。 針對美國總統特朗普在土耳其首都安卡拉舉行的北約峰會期間再次聲稱格陵蘭島“應該由美國控制”的言論，吉爾在當天舉行的例行記者會上說，國家主權和領土完整不可侵犯是國際法基本原則，不僅對歐盟至關重要，對世界各國同樣重要。 他說：“歐盟將繼續捍衛上述原則，並堅定地與丹麥人和格陵蘭人站在一起。” 特朗普2025年重返白宮以來，多次揚言要得到格陵蘭島，甚至聲稱不排除動用武力，致使美國與丹麥及更多歐洲盟友關係緊張。(新華社)"
+    },
+    {
+      "id": "4976853",
+      "time": "2026-07-08 20:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與保加利亞總理的會晤對我們的雙邊合作意義重大。兩國需要牢固的關係，今天我們就此進行了討論。特別是在能源議題上，我們有很多可以共同推進的合作，尤其是液化天然氣方面。歐洲對俄羅斯能源的依賴正在減弱。"
+    },
+    {
+      "id": "mkt:019f41b6-cad5-7aab-8cee-387896d51cad",
+      "time": "2026-07-08 20:32:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ukraine President Zelenskiy said a meeting with Bulgaria's prime minister advanced bilateral cooperation and focused on energy, notably LNG, as Europe reduces its reliance on Russian energy."
+    },
     {
       "id": "4976852",
       "time": "2026-07-08 20:30:47",

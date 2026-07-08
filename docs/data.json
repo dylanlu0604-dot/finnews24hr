@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-08 20:32:31",
-  "count": 15998,
+  "updated": "2026-07-08 20:36:31",
+  "count": 15976,
   "items": [
+    {
+      "id": "mkt:019f41b9-f16b-7aab-8cee-5f3452c6c4a3",
+      "time": "2026-07-08 20:35:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German foreign minister said appropriate conditions must be provided to clear mines in the Strait of Hormuz and that we need to reach agreements with Iran and Oman."
+    },
+    {
+      "id": "4976858",
+      "time": "2026-07-08 20:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟峰會宣告：盟國承諾2026年向烏克蘭提供700億歐元支援，盟國確認主權承諾，將在2027年維持至少同等水平。"
+    },
+    {
+      "id": "mkt:019f41b9-ae29-7aab-8cee-5163f69cee61",
+      "time": "2026-07-08 20:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: NATO allies committed to provide €70 billion in support to Ukraine in 2026."
+    },
+    {
+      "id": "mkt:019f41b9-7ada-7aab-8cee-4b0b60183d80",
+      "time": "2026-07-08 20:35:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO summit statement: Allies in Ankara announced additional procurement plans totaling more than $50 billion."
+    },
+    {
+      "id": "4976857",
+      "time": "2026-07-08 20:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TELESAT LIGHTSPEED與加拿大軍方簽署通訊訂單協議。"
+    },
+    {
+      "id": "4976856",
+      "time": "2026-07-08 20:34:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "mkt:019f41b7-dbb0-7aab-8cee-40d28454d2d2",
+      "time": "2026-07-08 20:33:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Germany's foreign minister said global oil inventories are not at a dangerous level."
+    },
+    {
+      "id": "4976854",
+      "time": "2026-07-08 20:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟重申支援丹麥維護國家主權與領土完整】歐盟委員會發言人奧洛夫·吉爾8日表示，格陵蘭島是丹麥王國的自治領地，格陵蘭島的未來應由格陵蘭人和丹麥人共同決定。 針對美國總統特朗普在土耳其首都安卡拉舉行的北約峰會期間再次聲稱格陵蘭島“應該由美國控制”的言論，吉爾在當天舉行的例行記者會上說，國家主權和領土完整不可侵犯是國際法基本原則，不僅對歐盟至關重要，對世界各國同樣重要。 他說：“歐盟將繼續捍衛上述原則，並堅定地與丹麥人和格陵蘭人站在一起。” 特朗普2025年重返白宮以來，多次揚言要得到格陵蘭島，甚至聲稱不排除動用武力，致使美國與丹麥及更多歐洲盟友關係緊張。(新華社)"
+    },
+    {
+      "id": "4976853",
+      "time": "2026-07-08 20:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與保加利亞總理的會晤對我們的雙邊合作意義重大。兩國需要牢固的關係，今天我們就此進行了討論。特別是在能源議題上，我們有很多可以共同推進的合作，尤其是液化天然氣方面。歐洲對俄羅斯能源的依賴正在減弱。"
+    },
+    {
+      "id": "mkt:019f41b6-cad5-7aab-8cee-387896d51cad",
+      "time": "2026-07-08 20:32:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ukraine President Zelenskiy said a meeting with Bulgaria's prime minister advanced bilateral cooperation and focused on energy, notably LNG, as Europe reduces its reliance on Russian energy."
+    },
     {
       "id": "4976852",
       "time": "2026-07-08 20:30:47",
@@ -146079,307 +146170,6 @@
         "The Trump Trade"
       ],
       "text": "Trump, on financial disclosure: My funds are managed by a fund; do not speak with the people who manage my funds."
-    },
-    {
-      "id": "4965294",
-      "time": "2026-07-01 20:36:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗已經取得了長足的進步。"
-    },
-    {
-      "id": "4965293",
-      "time": "2026-07-01 20:36:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【比亞迪儲能簽約波蘭規模最大儲能專案】近日，比亞迪儲能與Greenvolt Power簽署合作協議，共同在波蘭開發Siedlce儲能專案。該專案總容量達600MW/2.4GWh，建成後將成為波蘭規模最大的電池儲能專案。此前，雙方在當地的兩個專案累計合作容量已達1.6GWh。Siedlce專案計劃於2026年第三季度開工建設，預計在2027年底前投入商業運營。"
-    },
-    {
-      "id": "mkt:019f1dae-02a0-7aab-8c58-4b833a47ec29",
-      "time": "2026-07-01 20:36:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran's Pezeshkian says partial financial restrictions eased as talks continue】Iranian president Pezeshkian told Fars News that some financial and foreign-exchange restrictions on Iran have been relaxed. He said sustained oil exports, the partial easing of financial and FX controls, and new economic cooperation opportunities are outcomes of recent agreements reached during ongoing negotiations."
-    },
-    {
-      "id": "4965292",
-      "time": "2026-07-01 20:36:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：股市上漲，所以我獲利了。我也從中獲利了。"
-    },
-    {
-      "id": "4965291",
-      "time": "2026-07-01 20:36:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta漲超5%。"
-    },
-    {
-      "id": "mkt:019f1dad-d802-7aab-8c58-43571ad33214",
-      "time": "2026-07-01 20:35:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump praised the stock market."
-    },
-    {
-      "id": "mkt:019f1dad-7fa6-7aab-8c58-39b0e8fbbc50",
-      "time": "2026-07-01 20:35:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) rose sharply in pre-market trade, up more than 5% after reports the company is selling surplus AI compute capacity."
-    },
-    {
-      "id": "4965290",
-      "time": "2026-07-01 20:35:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不與管理我資產的人員溝通。"
-    },
-    {
-      "id": "4965289",
-      "time": "2026-07-01 20:35:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及財務申報檔案：由信託基金管理我的資產。"
-    },
-    {
-      "id": "mkt:019f1dac-b5e1-7aab-8c58-31dcf2ebe464",
-      "time": "2026-07-01 20:34:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Maritime transit, Lebanon ceasefire are key issues in US-Iran talks】A source familiar with the Doha talks said maritime transit and a Lebanon ceasefire are central to US-Iran negotiations. Qatar and Pakistan mediators are providing technical support to draft preliminary agreements for approval by both sides' decision-makers. Iran insists five key MOU terms must be implemented before it will negotiate other issues. The interim package reportedly includes commitments to end Israel’s campaign in Lebanon, enable return of displaced persons and restore Lebanese sovereignty; Iran says Israeli strikes and attempts to seize strategic sites in southern Lebanon are undermining the deal. Tehran is seeking release of its frozen assets and says funds must be transferred to Iran’s central bank for international purchases. On maritime issues Iran pledges safe passage through the Strait of Hormuz while reiterating that the waterway remains under Iranian and Omani sovereignty. Tehran also reaffirmed continued adherence to the NPT and cooperation with the IAEA."
-    },
-    {
-      "id": "4965288",
-      "time": "2026-07-01 20:34:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據資料及路透社計算，俄羅斯6月海運柴油和瓦斯油出口環比下降39%。"
-    },
-    {
-      "id": "mkt:019f1dac-929c-7aab-8c58-2a71e24ec155",
-      "time": "2026-07-01 20:34:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Beijing's 'Specialized, Refined, Distinctive and Innovative' board hits 1,519 firms; equity financing tops 70 billion yuan】As of June 30, Beijing's 'Specialized, Refined, Distinctive and Innovative' board counted 1,519 firms, surpassing the plan's phase target of 1,500. Cumulative equity financing for these board companies has exceeded 70 billion yuan, with Beijing leading the country in enterprise financing scale and policy support. The cohort comprises 418 innovation-oriented SMEs, 727 specialized-and-new SMEs and 218 'Little Giant' firms. Roughly 90% of firms are clustered in frontier sectors: new-generation IT, software and IT services, artificial intelligence, biopharma, smart manufacturing, new energy and advanced materials."
-    },
-    {
-      "id": "4965287",
-      "time": "2026-07-01 20:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚股市。"
-    },
-    {
-      "id": "mkt:019f1dac-5e95-7aab-8c58-231ecf7d8b54",
-      "time": "2026-07-01 20:34:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Market sources say Meta Platforms (META.O) is building a cloud business to sell surplus AI compute capacity."
-    },
-    {
-      "id": "4965286",
-      "time": "2026-07-01 20:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta正在佈局雲業務，對外出售閒置AI算力資源。"
-    },
-    {
-      "id": "mkt:019f1dac-1e9d-7aab-8c58-1cd6e61c7842",
-      "time": "2026-07-01 20:34:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US President Trump said he is getting along very well with Iran."
-    },
-    {
-      "id": "4965285",
-      "time": "2026-07-01 20:34:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚卡達贈送新空軍一號。"
-    },
-    {
-      "id": "4965284",
-      "time": "2026-07-01 20:33:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，俄羅斯7月超低硫柴油出口預計將降至接近零的水平。"
-    },
-    {
-      "id": "4965283",
-      "time": "2026-07-01 20:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "資料顯示，6月份俄羅斯波羅的海Primorsk港柴油出貨量較5月下降53%。"
-    },
-    {
-      "id": "mkt:019f1dab-bf9c-7aab-8c58-1429557ef0d5",
-      "time": "2026-07-01 20:33:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump praised the drop in oil prices."
-    },
-    {
-      "id": "mkt:019f1dab-b239-7aab-8c58-0bde878c59f4",
-      "time": "2026-07-01 20:33:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US President Trump said talks with Iran are progressing smoothly and that Iran's denuclearization is proceeding well."
-    },
-    {
-      "id": "4965282",
-      "time": "2026-07-01 20:33:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：目前雙方關係相處得非常好。"
-    },
-    {
-      "id": "4965281",
-      "time": "2026-07-01 20:33:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普稱讚油價下跌。"
-    },
-    {
-      "id": "mkt:019f1dab-50ba-7aab-8c58-013329b0d77a",
-      "time": "2026-07-01 20:33:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish",
-        "GM.N"
-      ],
-      "text": "Micron Technology and General Motors signed a strategic customer agreement to secure long-term memory and storage supply for GM vehicle production. The pact is intended to ensure a long-term, reliable memory and storage platform and to support GM’s scaled deliveries."
-    },
-    {
-      "id": "4965280",
-      "time": "2026-07-01 20:33:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗談判進展順利。"
-    },
-    {
-      "id": "4965279",
-      "time": "2026-07-01 20:33:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與伊朗會晤良好。"
-    },
-    {
-      "id": "4965278",
-      "time": "2026-07-01 20:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗無核化程序進展順利。"
-    },
-    {
-      "id": "4965277",
-      "time": "2026-07-01 20:33:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所：新增GPU計算期貨合約將以美元計價、現金交割。"
-    },
-    {
-      "id": "4965276",
-      "time": "2026-07-01 20:32:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：07月01日20時08分在日本本州東部附近海域（北緯40.15度，東經142.55度）發生5.8級地震，震源深度50千米。"
-    },
-    {
-      "id": "4965275",
-      "time": "2026-07-01 20:32:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所：預計今年晚些時候推出GPU計算期貨合約，有待監管部門批准。"
-    },
-    {
-      "id": "mkt:019f1daa-ef61-7aab-8c57-f90c89e9b1e5",
-      "time": "2026-07-01 20:32:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources say Kazakhstan has agreed to supply Russia with 50,000 tonnes of gasoline in July and August."
-    },
-    {
-      "id": "4965274",
-      "time": "2026-07-01 20:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "四名訊息人士透露，哈薩克已同意在7月至8月期間向俄羅斯供應5萬噸汽油。"
     }
   ]
 }
