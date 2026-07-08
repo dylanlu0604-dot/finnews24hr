@@ -1,7 +1,229 @@
 {
-  "updated": "2026-07-09 00:10:36",
-  "count": 15822,
+  "updated": "2026-07-09 00:14:46",
+  "count": 15840,
   "items": [
+    {
+      "id": "4977301",
+      "time": "2026-07-09 00:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 美國目前仍是北約出資最多的國家，且大幅領先其他成員國。"
+    },
+    {
+      "id": "mkt:019f4281-820c-7aab-8cf8-55e21d399c11",
+      "time": "2026-07-09 00:13:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the NATO summit displayed strong unity."
+    },
+    {
+      "id": "mkt:019f4281-6833-7aab-8cf8-49eb40c2ca0c",
+      "time": "2026-07-09 00:13:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "President Trump said the US has put $1 trillion into the armed forces this year and will seek $1.5 trillion for the military next."
+    },
+    {
+      "id": "4977300",
+      "time": "2026-07-09 00:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：真希望我們能更快地製造武器，這樣我們就能快速出售了。"
+    },
+    {
+      "id": "4977299",
+      "time": "2026-07-09 00:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典政府表示，瑞典與德國簽署了防空領域意向書。"
+    },
+    {
+      "id": "mkt:019f4280-7e8b-7aab-8cf8-42686fc71953",
+      "time": "2026-07-09 00:12:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said NATO members will respond to the request."
+    },
+    {
+      "id": "4977298",
+      "time": "2026-07-09 00:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：北約峰會上展現了極強的團結。"
+    },
+    {
+      "id": "4977297",
+      "time": "2026-07-09 00:12:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們接下來將為美國軍方申請1.5萬億美元經費。"
+    },
+    {
+      "id": "te:markets:565373",
+      "time": "2026-07-09 00:12:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.22% Lower — The FTSE MIB Index fell 638 points or 1.22 percent on Wednesday to close at 51817 points. Leading the losses are Stellantis N.V. (-6.02%), Brunello Cucinelli (-4.51%) and Fincantieri (-3.88%)."
+    },
+    {
+      "id": "4977296",
+      "time": "2026-07-09 00:12:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：今年我們已為我國武裝部隊投入1萬億美元。"
+    },
+    {
+      "id": "mkt:019f4280-21a6-7aab-8cf8-3d2bad8b87bc",
+      "time": "2026-07-09 00:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said at the NATO summit NATO members agreed to raise defense spending to 5% of GDP from 2% and are making strong progress toward that target."
+    },
+    {
+      "id": "4977295",
+      "time": "2026-07-09 00:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談北約：他們將響應號召（提高國防目標）。"
+    },
+    {
+      "id": "4977294",
+      "time": "2026-07-09 00:11:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 伊朗數百架飛機已悉數被毀。"
+    },
+    {
+      "id": "mkt:019f427f-8877-7aab-8cf8-37c03d2a74e1",
+      "time": "2026-07-09 00:11:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the United States remains NATO's largest contributor."
+    },
+    {
+      "id": "4977293",
+      "time": "2026-07-09 00:11:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談北約：成員國在達到5%國防開支目標方面正取得巨大進展。"
+    },
+    {
+      "id": "te:markets:565369",
+      "time": "2026-07-09 00:11:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.23% Lower — The DAX Index dropped 568 points or 2.23 percent on Wednesday to close at 24897 points. Losses were led by Vonovia (-6.03%), HeidelbergCement (-5.02%) and Deutsche Bank (-5.00%)."
+    },
+    {
+      "id": "mkt:019f427f-4300-7aab-8cf8-2f14cb1ffaff",
+      "time": "2026-07-09 00:11:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran once had hundreds of aircraft and that they have now all been destroyed."
+    },
+    {
+      "id": "4977292",
+      "time": "2026-07-09 00:11:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及北約工作會議：真可惜媒體沒能看到我們在會場內的交流。在場眾人都極具遠見，心懷善意，毫無惡意，都在為本國盡心盡責。"
+    },
+    {
+      "id": "4977291",
+      "time": "2026-07-09 00:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及土耳其之行： 當地機場設施十分氣派，土方專門為我們到訪新建了一座航站樓。 所見一切都令人讚歎。"
+    },
+    {
+      "id": "mkt:019f427e-e9dd-7aab-8cf8-21f57ce9f523",
+      "time": "2026-07-09 00:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US had eliminated their leader and has the world's most powerful military."
+    },
+    {
+      "id": "mkt:019f427e-d3c9-7aab-8cf8-1ea919bde5c1",
+      "time": "2026-07-09 00:10:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the US has taken actions against Iran that should have been taken 47 years ago and has destroyed Iran's military capability."
+    },
+    {
+      "id": "mkt:019f427e-b6b3-7aab-8cf8-1765d77e2286",
+      "time": "2026-07-09 00:10:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he will see whether he can continue to push oil prices lower and that oil prices should remain low."
+    },
+    {
+      "id": "te:markets:565364",
+      "time": "2026-07-09 00:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 2.32% Lower — The CAC 40 Index decreased 196 points or 2.32 percent on Wednesday to close at 8240 points. The decline was led by Stellantis NV (-5.99%), Societe Generale (-5.78%) and Kering (-5.27%)."
+    },
     {
       "id": "te:markets:565362",
       "time": "2026-07-09 00:09:39",
@@ -144480,55 +144702,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Slips Amid ECB Forum — The CAC 40 fell 0.8% to close at 8,337 on Wednesday as investors paused after strong gains over the previous three-month period and monitored developments at the ECB Forum. Governing Council member Martinš Kazaks signaled there was no urgency for the ECB to raise interest rates in July, noting that easing oil prices linked to peace efforts in the Middle East had helped reduce inflation pressures. Meanwhile, the US and Iran held indirect technical talks in Doha aimed at securing shipping flows through the Strait of Hormuz and reaching a lasting ceasefire. Luxury stocks traded lower, with L'Oréal down 0.9%. Schneider Electric fell 3.1% after agreeing to acquire Cognite. TotalEnergies lost 3.1% as oil prices remained near pre-conflict lows. Air Liquide rose 1.7% after announcing a $170 million investment in the US to supply ultra-pure gases to SK Hynix. Airbus added 1.9% after Scandinavian Airlines placed an order for up to 40 widebody aircraft."
-    },
-    {
-      "id": "mkt:019f1e75-6b37-7aab-8c63-1b3456706125",
-      "time": "2026-07-02 00:13:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister said Kyiv is launching a new weapons export mechanism."
-    },
-    {
-      "id": "mkt:019f1e74-243d-7aab-8c63-12ac360937d7",
-      "time": "2026-07-02 00:12:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WhatsApp said users will still need to provide a phone number to use the app. The company has layered protections for usernames to prevent scams and will deploy systems to detect and remove activity exhibiting common impersonation and abuse."
-    },
-    {
-      "id": "te:markets:563521",
-      "time": "2026-07-02 00:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.15% Lower — The FTSE MIB Index fell 78 points or 0.15 percent on Wednesday to close at 51605 points. Leading the losses are Saipem (-3.06%), STMicroelectronics (-3.04%) and Eni (-2.62%). Top gainers were Nexi (6.25%), Leonardo SpA (4.22%) and Amplifon (4.09%)."
-    },
-    {
-      "id": "mkt:019f1e73-586b-7aab-8c63-09a4a1fbaa86",
-      "time": "2026-07-02 00:11:43",
-      "tags": [
-        "MKT News",
-        "META.O"
-      ],
-      "text": "WhatsApp said it has assigned highest-priority usernames to prevent impersonation and ensure only legitimate owners can register. It said it will limit how many new users a single account can contact and will block repeated attempts to guess other users' username keys."
-    },
-    {
-      "id": "te:markets:563520",
-      "time": "2026-07-02 00:11:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.18% Higher — The DAX Index gained 44 points or 0.18 percent on Wednesday to close at 25040 points. Gains were led by Rheinmetall (6.06%), SAP (5.25%) and Fresenius (2.65%). Biggest losers were Infineon (-4.21%), Siemens (-2.39%) and E.ON (-2.02%)."
     }
   ]
 }
