@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-08 11:59:34",
-  "count": 15982,
+  "updated": "2026-07-08 12:04:20",
+  "count": 15978,
   "items": [
+    {
+      "id": "4975600",
+      "time": "2026-07-08 12:02:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲2.38%，恒生科技指數漲4.34%】港股午間收盤，恒生指數漲2.38%，恒生科技指數漲4.34%。恒指港股通ETF銀華（159318）漲2.29%，港股通科技ETF鵬華（159751）漲3.55%。板塊方面，能源裝置與服務、半導體產品與裝置板塊漲幅靠前；生命科學工具板塊跌幅靠前。個股方面，智譜漲17.95%，深演智慧漲15.96%，芯碁微裝漲14.29%，華勤技術漲13.8%，基本半導體漲13.22%；埃斯頓跌13.39%，領益智造跌9.17%，科倫博泰生物跌7.39%，溜溜梅跌7.02%，亮晴控股跌6.65%。"
+    },
+    {
+      "id": "4975599",
+      "time": "2026-07-08 12:02:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI稱，GPT-5.6 SOL、TERRA和LUNA版本將於本週四公開發布。此前特朗普政府解除對OpenAI GPT 5.6的限制，OpenAI預計本週將廣泛釋出GPT 5.6。"
+    },
+    {
+      "id": "mkt:019f3fe3-599d-7aab-8ce0-25f52f8cf494",
+      "time": "2026-07-08 12:01:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says GPT-5.6 SOL, TERRA and LUNA builds will be publicly released this Thursday."
+    },
+    {
+      "id": "4975598",
+      "time": "2026-07-08 12:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱打擊美軍85處軍事設施】當地時間8日，伊朗伊斯蘭革命衛隊發表宣告稱，美軍當天凌晨對伊朗霍爾木茲甘省沿海地區和馬赫沙赫爾的部分沿海基地及非軍事設施發動空襲，違反停火協議，並違反《伊斯蘭堡諒解備忘錄》。宣告稱，作為對此次襲擊的初步回應，伊朗伊斯蘭革命衛隊海軍和航空航天部隊實施聯合導彈和無人機行動，對位於薩勒曼港、美海軍第五艦隊巴林總部以及科威特阿里·薩利姆空軍基地的85處美軍重要軍事設施實施打擊，並擊落一架試圖干預行動的MQ－9型無人機。（央視）"
+    },
+    {
+      "id": "4975597",
+      "time": "2026-07-08 11:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至7月4日當週，日本煉油廠開工率為83%，日本原油庫存為1060萬千升。"
+    },
+    {
+      "id": "mkt:019f3fe1-2235-7aab-8ce0-1c20681f3179",
+      "time": "2026-07-08 11:59:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Singapore's benchmark stock index rose as much as 1.3% to 5,411.20, touching a record high."
+    },
     {
       "id": "4975595",
       "time": "2026-07-08 11:58:29",
@@ -146377,96 +146430,6 @@
         "Energy"
       ],
       "text": "IEA expects US spending on coal- and gas-fired power plants to reach USD 50 billion this year."
-    },
-    {
-      "id": "4964176",
-      "time": "2026-07-01 12:03:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【震裕科技在廈門成立汽車部件公司，註冊資本5000萬】天眼查App顯示，近日，廈門震裕汽車部件有限公司成立，法定代表人為陳達華，註冊資本5000萬人民幣，經營範圍包括汽車零部件及配件製造、有色金屬壓延加工、電池零配件生產、模具製造、汽車零部件研發等，由震裕科技全資持股。"
-    },
-    {
-      "id": "4964175",
-      "time": "2026-07-01 12:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復星集團、興業證券在泉州成立新合夥企業，出資額1.5億】天眼查App顯示，近日，星證（泉州）股權投資合夥企業（有限合夥）成立，執行事務合夥人為亞東星尚長歌創業投資有限公司，出資額1.5億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該合夥企業由上海復星高科技（集團）有限公司、興證投資管理有限公司、亞東星尚長歌創業投資有限公司共同出資。"
-    },
-    {
-      "id": "4964174",
-      "time": "2026-07-01 12:02:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國達飛海運集團接近以14億美元收購聯邦快遞物流部門。（英國金融時報）"
-    },
-    {
-      "id": "mkt:019f1bd7-5718-7aab-8c4a-b2370813e44f",
-      "time": "2026-07-01 12:02:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD"
-      ],
-      "text": "ECB Governing Council member De Marco said he has not seen second-round effects, excessive wage pressures or a de-anchoring of inflation expectations."
-    },
-    {
-      "id": "mkt:019f1bd7-33d5-7aab-8c4a-aa0e4402a51a",
-      "time": "2026-07-01 12:01:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member De Marco said the bank can wait for the next round of economic projections before deciding on further tightening, and that the ECB should not rush into another rate hike after the recent fall in oil prices."
-    },
-    {
-      "id": "4964173",
-      "time": "2026-07-01 12:01:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科問天量子湖北研發運營中心落戶光谷】據中國光谷公眾號，日前，中科問天量子科技（武漢）有限公司（簡稱“中科問天量子”）與東湖高新區簽約，將在光谷中心城設立湖北研發運營中心，重點佈局量子及密碼產品的一體化解決方案，並輸出定製化的密碼改造服務。"
-    },
-    {
-      "id": "4964172",
-      "time": "2026-07-01 12:01:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國信證券：氧化鋁產能將持續過剩 長週期對鋁價並不悲觀】國信證券釋出研報稱，一旦主產國幾內亞限制出口，鋁土礦的資源稀缺性將凸顯，鋁產業鏈各環節利潤可能要重新分配;如果影響到氧化鋁供應，可能迫使國外電解鋁專案建設進度放緩。2017年中國電解鋁行業供給側結構性改革後，氧化鋁行業呈現長期過剩格局；往後看，氧化鋁產能將持續過剩。雖然2027年供給增速較大，但拉長週期，沒有特別大的供給壓力，該行對鋁價並不悲觀。"
-    },
-    {
-      "id": "mkt:019f1bd6-6d17-7aab-8c4a-a2b3341ca92e",
-      "time": "2026-07-01 12:01:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou among China's top cities for summer travel demand】China launched its 62-day 2026 national summer railway transport period today. National railways expect to carry 1.01 bln passengers over the period, averaging 16.29 mln passengers per day. Guangzhou ranks among the country's busiest for summer travel; Guangzhou South station expects peak flows in early–mid July, early–mid August and on weekends, with Aug 8 forecast as the single busiest day at about 380,200 passengers."
-    },
-    {
-      "id": "mkt:019f1bd5-ca49-7aab-8c4a-9fa25764fe3a",
-      "time": "2026-07-01 12:00:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Dollar strength pressures commodities; aluminium hits lowest since mid‑February】Aluminium fell to its lowest since mid‑February as a stronger USD and easing Middle East tensions weighed on industrial metals. After a 16% drop in June — the largest single‑month fall since 2008 — losses extended. Cooling in the Middle East reduced supply concerns from a region that accounts for about 10% of global output; that squeeze had driven a March–May rally. The USD index rose for a second day and is up roughly 2.5% over two months, partly reflecting a firmer Fed stance and raising dollar‑priced commodity costs for most buyers."
-    },
-    {
-      "id": "4964171",
-      "time": "2026-07-01 12:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱美將在黎以駐軍監督停火】美國《華盛頓郵報》6月29日援引訊息人士的話報道稱，美國將在黎巴嫩和以色列兩國駐紮地面部隊，直接監督黎巴嫩武裝部隊和以色列國防軍的行動。該名不願透露姓名的美國官員說，美國可以藉此對黎以雙方施加必要的壓力，確保他們履行美黎以三方框架協議有關承諾。他還透露，美軍中央司令部司令布拉德·庫珀不會直接監督雙方，但中央司令部官員將負責報告任何違反協議的行為，並交由白宮處理。"
     }
   ]
 }
