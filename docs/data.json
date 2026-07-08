@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-09 03:30:44",
-  "count": 16093,
+  "updated": "2026-07-09 03:34:30",
+  "count": 16097,
   "items": [
+    {
+      "id": "mkt:019f4338-9b62-7aab-8cfd-8bf3ed9c6d02",
+      "time": "2026-07-09 03:33:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Timiraos: Fed divisions center on future path rather than current measures】Nick Timiraos said June FOMC minutes show even the most hawkish officials did not push for immediate action. Some participants judged a June rate increase might have been warranted but backed holding policy steady, suggesting disagreements are about the future policy path rather than near-term steps."
+    },
+    {
+      "id": "4977563",
+      "time": "2026-07-09 03:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta ：加拿大首個 Meta 資料中心專案破土動工，作為該專案組成部分，我方將投入約 6000 萬加元資金。"
+    },
+    {
+      "id": "mkt:019f4337-6a7a-7aab-8cfd-86a4d91ce613",
+      "time": "2026-07-09 03:32:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vance warns Iran closing Strait of Hormuz would trigger U.S. military response】U.S. Vice President Vance warned that if Iran attempts to close the Strait of Hormuz, the U.S. military will respond. He said the standing arrangement is that if Iran stops firing on vessels the U.S. will lift its blockade, but if Iran continues attacks the U.S. will strike back. Vance said Iran can comply or face what happened last night, and similar actions will continue until Iran reopens the waterway and ceases attacks on ships."
+    },
+    {
+      "id": "mkt:019f4336-65c5-7aab-8cfd-7a04d804ccf2",
+      "time": "2026-07-09 03:31:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) said it will build a C$13 bln (US$9.17 bln) data center in Sturgeon County, Alberta, with 1 GW of capacity; it will be the company's first data center in Canada."
+    },
+    {
+      "id": "4977562",
+      "time": "2026-07-09 03:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta ：位於加拿大艾伯塔省斯特金縣、裝機容量 1 吉瓦的資料中心，將是 Meta 在加拿大落地的首個資料中心專案。"
+    },
+    {
+      "id": "4977561",
+      "time": "2026-07-09 03:30:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國消費者信貸意外下降，2024年以來首次下滑】美國消費者信貸意外下降，2024年以來首次出現下滑，因迴圈信貸減少。美聯儲週三公佈的資料顯示，5月消費者未償信貸總額減少約1.82億美元，此前兩個月均大幅增加。受訪經濟學家預估中值為增加175億美元。信用卡等迴圈信貸餘額減少53億美元，為2024年以來最大降幅。汽車貸款和學生貸款等非迴圈信貸5月增加51億美元。該報告不包括抵押貸款。"
+    },
     {
       "id": "mkt:019f4334-8a54-7aab-8cfd-77408f8764c4",
       "time": "2026-07-09 03:29:04",
@@ -147085,24 +147150,6 @@
         "市場"
       ],
       "text": "【國際油價1日下跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌92美分，收於每桶68.58美元，跌幅為1.32%；9月交貨的倫敦布倫特原油期貨價格下跌1.38美元，收於每桶71.57美元，跌幅為1.89%。"
-    },
-    {
-      "id": "4965876",
-      "time": "2026-07-02 03:33:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：將與厄瓜多總統協同合作，持續強化區域安全，杜絕毒品恐怖分子在美洲地區立足。"
-    },
-    {
-      "id": "mkt:019f1f2a-d575-7aab-8c65-9d9a1ed54d9c",
-      "time": "2026-07-02 03:32:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Dan Ives leaving Wedbush to launch AI-focused investment bank】According to CNBC, tech analyst Dan Ives will leave Wedbush Securities to launch a \"modern merchant bank\" focused on artificial intelligence. The new firm intends to combine research, investment-banking advisory, capital raising and investment activities to offer integrated financial and research services to companies and investors amid AI-driven structural change."
     }
   ]
 }
