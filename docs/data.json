@@ -1,7 +1,164 @@
 {
-  "updated": "2026-07-08 15:27:00",
-  "count": 16105,
+  "updated": "2026-07-08 15:31:02",
+  "count": 16100,
   "items": [
+    {
+      "id": "mkt:019f40a2-853c-7aab-8ce4-b27109b6e0b8",
+      "time": "2026-07-08 15:30:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed down 0.25% at 900.6 yuan/gram on July 8 (Wednesday). Shanghai Gold Exchange Silver T+D closed down 0.27% at 14,824 yuan/kg."
+    },
+    {
+      "id": "mkt:019f40a2-67f0-7aab-8ce4-adff3e6abaff",
+      "time": "2026-07-08 15:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC deputy governor Xuan Changneng meets Crédit Agricole CEO Olivier Gavada】July 6, 2026 — People's Bank of China Deputy Governor Xuan Changneng met with Crédit Agricole Group CEO Olivier Gavada. They exchanged views on China and global economic and financial conditions and on Crédit Agricole’s business operations in China."
+    },
+    {
+      "id": "mkt:019f40a2-45fa-7aab-8ce4-a7205cc7bb06",
+      "time": "2026-07-08 15:30:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【Beijing official: build 10,000-card compute cluster and add 70,000P of intelligent compute this year under 'domestic-base, external-sourcing' plan】On July 8, Zhang Yuhang of the Beijing Municipal Bureau of Economy and Information Technology said Beijing will upgrade its 'super-node + industry-node' compute support system, build a compute interconnection platform, and strengthen compute monitoring and supply–demand matching. The city plans a 'domestic-base, external-sourcing' compute layout and will build a 10,000‑card compute cluster, targeting more than 70,000P of added intelligent computing capacity within the year. Beijing will pilot compute–power coordination and green‑power direct supply models,完善 data property-rights, public data licensing and revenue‑sharing frameworks to create a trusted data space and improve data circulation services. It will also accelerate embodied AI and robotics R&D and testing capabilities, and support innovation in smart terminals (smartphones, smart PCs, smart glasses, smart home) along with improved pilot/scale-up services."
+    },
+    {
+      "id": "te:markets:565153",
+      "time": "2026-07-08 15:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.76% Lower — The CAC 40 Index is losing 64 points. Losses were led by STMicroelectronics (-2.66%), Societe Generale (-2.35%) and Renault (-2.32%). Offsetting the fall, top gainers were TotalEnergies SE (1.60%)."
+    },
+    {
+      "id": "4976001",
+      "time": "2026-07-08 15:29:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人民銀行副行長宣昌能會見法國農業信貸銀行集團執行長奧利弗·加瓦達】2026年7月6日，中國人民銀行副行長宣昌能會見法國農業信貸銀行集團執行長奧利弗·加瓦達。雙方就當前中國及全球經濟金融形勢、法國農業信貸銀行集團在華業務開展情況等議題進行了交流。(中國人民銀行)"
+    },
+    {
+      "id": "4976000",
+      "time": "2026-07-08 15:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京經信局張宇航：發展詞元經濟 探索按數量計價、按效果付費、訂閱託管等商業模式】北京市經濟和資訊化局二級巡視員張宇航7月8日表示，下一步，將打造智慧經濟新形態。發展詞元經濟，打造詞元工廠，探索按數量計價、按效果付費、訂閱託管等商業模式；加快具身智慧關鍵技術攻關和機器人產品研發，提升機器人系統化測評能力；支援智慧手機、智慧電腦、智慧眼鏡、智慧家居等智慧終端創新發展，完善中試服務體系。 (貝殼財經)"
+    },
+    {
+      "id": "4975999",
+      "time": "2026-07-08 15:29:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "裕信銀行：本次收購要約已收到德國商業銀行17.6%股份的認購申報。"
+    },
+    {
+      "id": "mkt:019f40a1-b20b-7aab-8ce4-9e593afd0e30",
+      "time": "2026-07-08 15:29:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell $0.40 intraday to $71.89/bbl and $75.80/bbl, respectively."
+    },
+    {
+      "id": "4975998",
+      "time": "2026-07-08 15:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光機器視覺業務獨立運營，已進入優必選、雲深處等機器人企業供應鏈】7月7日晚，歐菲光宣佈在南昌成立歐菲機器視覺技術（江西）有限公司。此前，該業務隸屬於歐菲光微電子事業部旗下機器視覺條線，主要從事3D視覺感知、工業智慧檢測等相關業務。隨著業務規模擴大，歐菲光將該條線獨立設立公司運營。據介面《硬科技頭條》記者瞭解，歐菲機器視覺已經與優必選、雲深處、自變數等多家國內頭部具身智慧企業展開合作。此外，公司亦是科沃斯、石頭、庫獁等智慧清潔裝置企業核心供應商。"
+    },
+    {
+      "id": "4975997",
+      "time": "2026-07-08 15:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小鵬MONA系列將推兩款新車】從多位知情人士處獲悉，小鵬MONA系列還規劃了兩款新車，一款為車長約4.4米的A級SUV，另一款為旅行車，代號分別為D11和D11T（Travel，旅行）。加上目前已推出的M03、即將正式上市的L03和即將推出的L05，小鵬MONA系列將總共有不少於五款產品。（21財經）"
+    },
+    {
+      "id": "mkt:019f40a1-0d84-7aab-8ce4-96ab258d9aab",
+      "time": "2026-07-08 15:28:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O"
+      ],
+      "text": "【XPeng MONA series to add two new models】Sources say XPeng plans two additional MONA models: a roughly 4.4m A-segment SUV (code D11) and a wagon (D11T). Combined with the on-sale M03 and the soon-to-launch L03 and L05, the MONA series will total at least five models."
+    },
+    {
+      "id": "4975996",
+      "time": "2026-07-08 15:28:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國石化簽約烏茲別克首個全產業鏈可持續航空燃料（SAF）專案設計合同】近日，從中國石化新聞辦獲悉，在第五屆塔什干國際投資論壇期間，中國石化煉化工程集團所屬寧波工程公司與烏茲別克聯合生物能源公司（Allied biofuels FE LLC）正式簽署該國可持續航空燃料（SAF）專案前端工程設計及詳細設計合同。此次簽約是中國石化煉化工程板塊海外低碳新能源業務的重要突破。該專案是中亞首個大型全產業鏈生物航油綜合體，集生物質原料加工、綠色制氫、可持續航空燃料、電合成航油（e-SAF）、綠色柴油生產於一體。專案配套大型光伏、綠氫、儲能設施，電力供應以光伏為主，主要原料為高粱、稻殼、秸稈，計劃產能約16萬噸生物質SAF、25萬噸e-SAF、5千噸綠色柴油。產品將滿足中亞地區航空業需求並輻射至中東及歐洲市場。"
+    },
+    {
+      "id": "4975995",
+      "time": "2026-07-08 15:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳洲電信首席財務官：約有300通緊急服務呼叫未能接通。"
+    },
+    {
+      "id": "4975994",
+      "time": "2026-07-08 15:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出冰雹橙色預警】山西省氣象臺2026年07月08日15時10分發布冰雹橙色預警，預警區域：晉中市東部、長治市南部、晉城市東北部。預計未來6小時預警區域可能出現冰雹天氣，並可能造成雹災。請有關單位和人員做好防範準備。"
+    },
+    {
+      "id": "4975993",
+      "time": "2026-07-08 15:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐阿富汗使館提醒在阿中國公民和機構加強駐地和出行安全防範】近期阿富汗安全形勢依然嚴峻複雜。中國駐阿富汗使館再次提醒在阿中國公民和機構，請密切關注當地安全形勢，增強防範意識，加強駐地及出行安保措施，避免規律性出行。如發現異常或遇緊急情況，請及時報警並聯系中國駐阿富汗使館。長途旅行、特別是跨省出行前，應提前向相應阿主管部門報備並獲得許可，對車輛進行安全檢查，配備足夠安保人員，做好應急預案。途中注意觀察路況，妥善應對異常情況，確保人身和財產安全。"
+    },
+    {
+      "id": "4975992",
+      "time": "2026-07-08 15:28:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【原OpenAI研究員田永龍入職騰訊，為姚順雨前同事】7月8日，從接近騰訊的知情人士處獲悉，OpenAI前研究員田永龍（Yonglong Tian）已於近期加入騰訊大語言模型部，後續將參與視覺語言模型（VLM）相關研發。（介面）"
+    },
+    {
+      "id": "4975991",
+      "time": "2026-07-08 15:26:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美伊交火之際倫敦礦業股下跌】貴金屬礦企Hochschild Mining下跌3.2%，同行Fresnillo下滑2%，Endeavour Mining下跌1.4%。多元化礦企英美資源集團和力拓下跌約1.7%。"
+    },
     {
       "id": "mkt:019f409e-eb5c-7aab-8ce4-8e60ac24677f",
       "time": "2026-07-08 15:26:24",
@@ -147229,209 +147386,6 @@
         "其他"
       ],
       "text": "【臺軍承認使用大陸品牌輪胎 島內網友嘲諷】據臺灣中天新聞網報道，6月29日，“臉書”粉絲專頁“政知局”發文稱，民進黨“非紅供應鏈”再破功，臺當局“陸軍後勤指揮部”被發現採購大陸輪胎。 帖文附上一張臺軍“輕型戰術輪車”的圖片，可清楚看到車尾的備胎上印有一家總部位於青島的專業輪胎廠商“賽輪”（SAILUN）的英文字樣。 臺“陸軍司令部”6月30日證實，網傳圖中臺軍車輛使用的確實是大陸品牌輪胎，系在2020年採購。 有島內網友表示，“（民進黨）抗中是口號，親中是生活”“‘青鳥’（綠營支持者）真的很傻眼，想護航民進黨的作為又說不出口”。（環球網）"
-    },
-    {
-      "id": "4964455",
-      "time": "2026-07-01 15:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "比亞迪歐洲市場特別顧問：我們正在尋找棕地，西班牙是潛在目的地。"
-    },
-    {
-      "id": "4964454",
-      "time": "2026-07-01 15:30:12",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士6月製造業PMI 54.3，預期 56.5，前值 57.3。瑞士6月服務業PMI 59.8，前值 56。"
-    },
-    {
-      "id": "mkt:019f1c95-d964-7aab-8c4e-c7a6cdb36a89",
-      "time": "2026-07-01 15:30:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Switzerland SVM Purchasing Managers' Index (PMI) June 54.3; expected 56.5; prior 57.3."
-    },
-    {
-      "id": "te:markets:563319",
-      "time": "2026-07-01 15:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.44% Lower — The CAC 40 Index is losing 37 points. Losses were led by Publicis (-4.74%), Schneider Electric (-2.54%) and Societe Generale (-1.58%). Offsetting the fall, top gainers were Renault (2.47%), Air Liquide (2.02%) and Airbus (1.61%)."
-    },
-    {
-      "id": "mkt:019f1c95-b1f2-7aab-8c4e-bb8e7a6d89e7",
-      "time": "2026-07-01 15:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | SVME Purchasing Managers' Index (Jun) | actual 54.3 | consensus 56.5 | previous 57.3"
-    },
-    {
-      "id": "4964453",
-      "time": "2026-07-01 15:29:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【弘景光電：一體化非球面透鏡已實現量產】弘景光電(301479)7月1日在互動平臺回覆稱，公司一體化非球面透鏡已實現量產，目前相關業務按計劃有序開展中。"
-    },
-    {
-      "id": "te:economy:563318",
-      "time": "2026-07-01 15:29:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Falls as Tax Break Spurs Inflows — The yield on India’s 10-year G-Sec fell to around 6.74%, reaching a fifteen-week low as record foreign inflows into government bonds boosted demand after recent tax incentives for overseas investors. Investor demand strengthened after the government scrapped taxes on capital gains and interest income for foreign investors in sovereign bonds under the Fully Accessible Route and added new FAR-eligible securities. The measures drove record monthly foreign purchases of INR 418 billion in June, nearly double the previous record of INR 239 billion set in August 2024. Further weighing on yields, the central bank reportedly intervened in the foreign exchange market through state-run banks to support the rupee. Analysts cautioned inflows could slow if global financial conditions tighten and US rates remain elevated. Still, stronger overseas participation could support India's inclusion in the Bloomberg Global Aggregate Index, with Goldman Sachs estimating about $15 billion in passive inflows."
-    },
-    {
-      "id": "4964452",
-      "time": "2026-07-01 15:29:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“攜寵出行”更便捷 鐵路“愛寵行”服務進一步擴大範圍】記者從中鐵快運瞭解到，為更好地向攜帶寵物出行的旅客提供便利，今天（7月1日）起，鐵路“愛寵行”服務進一步擴大範圍，並同步對這項服務進行了最佳化。本次“愛寵行”服務範圍進行了拓展，新增長白山、天津、濟南、無錫、廈門、深圳、北海、南寧、遵義等32座辦理車站，新增G7、G44等92趟動車組列車承接寵物託運業務。目前，“愛寵行”服務累計覆蓋163座高鐵車站、364趟動車組列車。（央視新聞）"
-    },
-    {
-      "id": "te:economy:563317",
-      "time": "2026-07-01 15:29:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Turkey Manufacturing Contraction Deepens — The Istanbul Chamber of Industry Türkiye Manufacturing PMI fell to 47.1 in June from 49.8 in May, signaling a sharper deterioration in manufacturing conditions and extending the sector's downturn to 27 consecutive months. Output contracted again after returning to growth in May, amid weaker demand and market uncertainty stemming from the war in the Middle East. New orders declined further, while new export orders returned to contraction after expanding in May. Employment and purchasing activity also declined in response to softer demand. Meanwhile, suppliers' delivery times lengthened again as the conflict disrupted raw material supplies, although the deterioration was the least marked since February. On prices, both input cost and output price inflation eased for a second straight month, with input cost inflation slowing to the weakest since November despite higher oil and raw material costs. Lastly, inventories of purchases and finished goods declined amid muted demand."
-    },
-    {
-      "id": "mkt:019f1c94-8c27-7aab-8c4e-b6f94e486efc",
-      "time": "2026-07-01 15:28:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign media reported on July 1, citing sources, that U.S. and Iranian officials will hold indirect talks in Doha, Qatar."
-    },
-    {
-      "id": "4964451",
-      "time": "2026-07-01 15:28:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星員工喊出“2026大逃亡”：獎金差最高100倍，有人應聘SK海力士】近日，三星電子內部因績效獎金分配差距引發員工不滿，家電與移動部門正出現“離職潮”苗頭。隨著競爭對手SK海力士啟動招聘，不少三星員工在內部聊天室轉發招聘連結，並留言稱“好訊息來了”“2026大逃亡開始了”。引發不滿的導火索，是家電與移動部門和半導體部門之間懸殊的績效獎金差距。三星電子家電與移動部門主要負責電視、家電和智慧手機業務；半導體部門則受益於近期半導體行業繁榮，今年獲得了價值數億韓元的績效獎金。相比之下，家電與移動部門員工僅以“結算金”名義獲得價值600萬韓元的公司股票，由此引發強烈不滿。在家電與移動部門工作第五年的員工A某，正準備應聘SK海力士截至7月6日開放的有經驗員工招聘崗位。他表示，自己求職時甚至沒有投遞過SK海力士，但如今決定“逃離三星電子”。（紅星新聞）"
-    },
-    {
-      "id": "4964450",
-      "time": "2026-07-01 15:28:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：巴拉圭政府和領導人應早日站到歷史正確的一邊】7月1日，外交部發言人郭嘉昆主持例行記者會。法新社記者提問，巴拉圭外交部長昨日表示，只要不必中斷與臺灣地區的聯絡，巴拉圭對與中國大陸開展貿易持開放態度。外交部對此有何評論？“中方已經多次就有關問題闡明立場。”郭嘉昆表示，巴拉圭政府和領導人應該順應歷史潮流和人民願望，早日站到歷史正確的一邊，站到國際社會絕大多數國家的一邊，做出符合本國根本和長遠利益的正確的決斷，不要再自陷孤立。（北京日報）"
-    },
-    {
-      "id": "mkt:019f1c94-4add-7aab-8c4e-ae2b0af83c6f",
-      "time": "2026-07-01 15:28:28",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "【China says Lai administration's 'diplomacy of lies' exposed after Honduras clarification】On July 1 foreign ministry spokesman Guo Jiakun said Honduras' foreign ministry had clarified it did not discuss restoring diplomatic ties with Taiwan, a move he said exposed the Lai Ching-te administration's 'diplomacy of lies.' Guo reiterated that Taiwan independence lacks popular support and is destined to fail, and said China, on the one‑China principle, is willing to advance China‑Honduras relations for the benefit of both peoples."
-    },
-    {
-      "id": "mkt:019f1c94-094e-7aab-8c4e-a7d06da7a13b",
-      "time": "2026-07-01 15:28:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【China urges early lifting of unilateral sanctions on Iran】At a July 1 regular press briefing, Foreign Ministry spokesman Guo Jiakun said China consistently advocates early removal of unilateral sanctions on Iran. Asked about US steps to lift sanctions and how Chinese firms should adapt as 60‑day oil waivers progress, Guo urged the United States and Iran to implement the signed memorandum of understanding and continue negotiations toward a comprehensive political settlement."
-    },
-    {
-      "id": "4964449",
-      "time": "2026-07-01 15:28:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "比亞迪歐洲市場特別顧問：我們正積極在西歐尋找生產基地。"
-    },
-    {
-      "id": "mkt:019f1c93-6d33-7aab-8c4e-99d55c1fa16b",
-      "time": "2026-07-01 15:27:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Foreign Ministry: China-Japan ties face serious difficulties; responsibility entirely on Japan】On July 1 at a routine press briefing, Foreign Ministry spokesman Guo Jiakun said China-Japan relations are facing serious difficulties and attributed the root cause to a series of \"wrong words and deeds\" by Japan's ruling authorities on Taiwan and military security, saying responsibility lies entirely with Japan. He urged Japanese leaders to respect China's core interests, cease interfering in China's internal affairs, adhere to the spirit of the four China-Japan political documents to preserve the political basis and environment for economic and trade cooperation, and to reflect, correct mistakes and show sincerity through concrete actions to get ties back on track."
-    },
-    {
-      "id": "4964448",
-      "time": "2026-07-01 15:27:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：賴清德當局謊言外交暴露無遺】7月1日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，據報道，針對宏都拉斯外交部近日稱未同臺討論“復交”及中方回應，臺灣外事部門發言人稱，臺對“重啟”同洪關係持開放態度，不預設前提。中方對此有何評論？ “我們注意到宏都拉斯政府此前已就相關問題作出澄清，讓賴清德當局的‘謊言外交’暴露無遺。”郭嘉昆強調，“臺獨”分裂逆流而動，不得人心，註定失敗。中方願在一箇中國原則基礎上，推動中國與宏都拉斯的關係不斷向前發展，更好惠及兩國人民。（北京日報）"
-    },
-    {
-      "id": "4964447",
-      "time": "2026-07-01 15:27:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【問界汽車6月交付新車30199臺】7月1日，問界汽車公佈，2026年6月交付新車30199臺，上半年累計交付同比增長10.2%。新一代問界M9系列上市一個月大定超42000臺；問界M6上市54天，累計交付超30000臺。"
-    },
-    {
-      "id": "4964446",
-      "time": "2026-07-01 15:27:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【弘景光電：工業富聯為公司合作客戶，雙方現階段合作專案尚未涉及機器視覺相關產品】弘景光電7月1日在互動平臺表示，工業富聯為公司合作客戶，雙方現階段合作專案尚未涉及機器視覺相關產品。"
-    },
-    {
-      "id": "4964445",
-      "time": "2026-07-01 15:27:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中方主張對伊朗單邊制裁應早日解除】7月1日，外交部發言人郭嘉昆主持例行記者會。 有外媒記者提問，第一個問題：中國如何看待美國解除對伊朗的制裁，中方是否正提供積極支援以結束對伊朗的限制措施？第二個問題：隨著為期60天的石油制裁豁免期逐步推進，中國政府以及國有、私營企業正採取哪些措施來適應當前變化的局勢？ 郭嘉昆表示，關於你的兩個問題，我們想強調的是，中方一貫主張對伊朗的單邊制裁應該早日解除。希望美伊雙方共同落實好已經簽署的諒解備忘錄，繼續推進談判，推動伊朗問題早日實現全面政治解決。（北京日報）"
-    },
-    {
-      "id": "mkt:019f1c93-0b32-7aab-8c4e-9601b821b7fc",
-      "time": "2026-07-01 15:27:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Europe & UK",
-        "1211.HK",
-        "Impact bullish"
-      ],
-      "text": "BYD's special adviser for the European market says the company is actively seeking a production base in Western Europe."
-    },
-    {
-      "id": "4964444",
-      "time": "2026-07-01 15:27:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：中日關係面臨嚴重困難 責任完全在日方】7月1日，外交部發言人郭嘉昆主持例行記者會。有記者就近期中日經貿關係提問。郭嘉昆表示，中方多次指出，當前中日關係面臨嚴重困難，根源在於日本執政當局在涉及中國臺灣和軍事安全領域的一系列錯誤言行，責任完全在日方。我們也想請你問問日本為政者，能否尊重中國核心利益，停止干涉中國內政？能否恪守中日四個政治檔案精神，維護中日關係的政治基礎和經貿合作的必要環境？能否反思糾錯，以實際行動展現推動中日關係重回正軌的誠意？（央視新聞）"
     }
   ]
 }
