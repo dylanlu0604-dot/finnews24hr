@@ -1,7 +1,200 @@
 {
   "date": "2026-07-09",
-  "count": 196,
+  "count": 216,
   "items": [
+    {
+      "id": "mkt:019f42af-91d8-7aab-8cfa-6fe1574ea4c3",
+      "time": "2026-07-09 01:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it is rolling out two versions of GPT-Live to global ChatGPT users starting today: GPT-Live-1 and GPT-Live-1 Mini."
+    },
+    {
+      "id": "4977404",
+      "time": "2026-07-09 01:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-Live上線之初，ChatGPT將不支援語音功能搭配影片或螢幕共享。"
+    },
+    {
+      "id": "mkt:019f42af-441b-7aab-8cfa-652a0f797583",
+      "time": "2026-07-09 01:03:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches GPT-LIVE."
+    },
+    {
+      "id": "4977403",
+      "time": "2026-07-09 01:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-Live上線後將在後臺採用GPT-5.5。"
+    },
+    {
+      "id": "4977402",
+      "time": "2026-07-09 01:03:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：能源價格同樣推高瑞士通脹，其他因素影響微不足道。"
+    },
+    {
+      "id": "4977401",
+      "time": "2026-07-09 01:02:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率下降4.580%，低於預售時的4.586%。"
+    },
+    {
+      "id": "4977400",
+      "time": "2026-07-09 01:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：今日開始向全球ChatGPT使用者推出GPT-Live的兩個版本，GPT-Live-1與GPT-Live-1 Mini。"
+    },
+    {
+      "id": "mkt:019f42ae-48f4-7aab-8cfa-5eb784d7e744",
+      "time": "2026-07-09 01:02:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said a renewed outbreak of conflict would not be in the interest of any party."
+    },
+    {
+      "id": "mkt:019f42ae-32c2-7aab-8cfa-50a9278b8d04",
+      "time": "2026-07-09 01:02:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 10-year Treasury auction on July 8: 40.29% of awarded volume at the stop-out rate, versus 71.34% previously."
+    },
+    {
+      "id": "mkt:019f42ae-27de-7aab-8cfa-482629ba2495",
+      "time": "2026-07-09 01:02:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury auction on July 8: stop-out yield 4.58% vs 4.54% prior (+4 bps)."
+    },
+    {
+      "id": "mkt:019f42ae-21da-7aab-8cfa-46dc023a9fcb",
+      "time": "2026-07-09 01:02:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury auction bid-cover ratio 2.59 at the July 8 auction, previous 2.57."
+    },
+    {
+      "id": "mkt:019f42ae-21c3-7aab-8cfa-3879d04d0204",
+      "time": "2026-07-09 01:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the country will steadfastly defend its national interests and exercise state sovereignty."
+    },
+    {
+      "id": "mkt:019f42ae-021c-7aab-8cfa-37bc93d95203",
+      "time": "2026-07-09 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Jul.8) | actual 2.59 | previous 2.57"
+    },
+    {
+      "id": "mkt:019f42ae-01f8-7aab-8cfa-28e66a17d4ec",
+      "time": "2026-07-09 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Accepted at High (Jul.8) | actual 40.29% | previous 71.34%"
+    },
+    {
+      "id": "mkt:019f42ae-01de-7aab-8cfa-264f614295fd",
+      "time": "2026-07-09 01:02:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | 10-Year Note Auction High Yield Rate (Jul.8) | actual 4.58% | previous 4.54%"
+    },
+    {
+      "id": "4977399",
+      "time": "2026-07-09 01:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出GPT-Live實時互動服務。"
+    },
+    {
+      "id": "mkt:019f42ad-57ef-7aab-8cfa-1a1c9300c45f",
+      "time": "2026-07-09 01:01:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Foreign Ministry spokesperson said US unilateral measures and aggressive attacks against Iran have undermined the framework of the agreement."
+    },
+    {
+      "id": "4977398",
+      "time": "2026-07-09 01:00:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "390億美元拍賣前，10年期美國國債收益率為4.586%。"
+    },
+    {
+      "id": "mkt:019f42ac-3915-7aab-8cfa-1512f53b83ef",
+      "time": "2026-07-09 01:00:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said the US is creating challenges in the Strait of Hormuz and Iran will safeguard its interests."
+    },
+    {
+      "id": "4977397",
+      "time": "2026-07-09 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.95%，滬銅收跌0.84%，滬鋁收跌0.22%，滬鋅收跌0.65%，滬鉛收跌0.09%，滬鎳收漲0.51%，滬錫收跌1.43%。氧化鋁夜盤收漲0.22%，鋁合金收跌0.63%。不鏽鋼夜盤收跌1.03%。"
+    },
     {
       "id": "4977396",
       "time": "2026-07-09 00:59:02",
