@@ -1,7 +1,52 @@
 {
   "date": "2026-07-09",
-  "count": 410,
+  "count": 416,
   "items": [
+    {
+      "id": "mkt:019f4304-eab2-7aab-8cfc-85c82e53e458",
+      "time": "2026-07-09 02:37:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance on Iran: if they fire on U.S. ships, the U.S. will retaliate."
+    },
+    {
+      "id": "4977526",
+      "time": "2026-07-09 02:35:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX股價下跌2.6%，跌破關鍵的149美元關口。"
+    },
+    {
+      "id": "4977525",
+      "time": "2026-07-09 02:34:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：如果伊朗試圖關閉霍爾木茲海峽，美國將做出反應。"
+    },
+    {
+      "id": "te:economy:565396",
+      "time": "2026-07-09 02:34:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Extends Rebound — The yield on the 10-year US Treasury note rose up to the 4.60% mark on Wednesday, the highest since May, as higher energy prices magnified the impact of a hawkish Federal Reserve. Fuel prices soared after a new wave of attacks between the US and Iran reignited concerns that energy from the Middle East will be blockaded. The pro-inflationary risks were consistent with minutes from the FOMC's June meeting, which indicated that a few policymaker saw higher core inflation readings and a robust labor market making the case for a rate hike. Rate futures continued to show a loose consensus that the Fed is due to deliver one rate hike this year, although nearly half of the market was positioned for more than one hike. Bonds were also under pressure from Fed Chairman Warsh's earlier calls for a smaller balance sheet, to be achieved by trimming the central bank's holdings of longer-term notes and bonds."
+    },
+    {
+      "id": "4977524",
+      "time": "2026-07-09 02:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗：如果他們攻擊我們的船隻，美國將採取行動。"
+    },
     {
       "id": "4977523",
       "time": "2026-07-09 02:33:03",
@@ -72,6 +117,15 @@
         "Impact bearish"
       ],
       "text": "Shanghai Gold Exchange gold T+D fell 1.25% to 891.59 yuan/gram in the July 8 (Wednesday) evening session; silver T+D fell 3.36% to 14,258.0 yuan/kg."
+    },
+    {
+      "id": "em:qqyh_mlc:202607093798836522",
+      "time": "2026-07-09 02:30:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲會議紀要：AI持續推動資料中心、高科技裝置和軟體的實際投資支出】美聯儲6月會議紀要顯示，現有指標表明，第二季度實際GDP增長仍保持穩健步伐。實際私人國內最終支出——包括個人消費支出和私人固定投資，通常比實際GDP更能反映經濟基本面的走勢——在第二季度有所回升，增速甚至超過了GDP。實際消費支出表現強勁，人工智慧領域的擴充套件持續推動資料中心、高科技裝置和軟體的實際投資支出。4月份資料顯示，高科技產品進出口繼續保持強勁增長，能源出口也出現顯著上升。"
     },
     {
       "id": "te:markets:565395",
