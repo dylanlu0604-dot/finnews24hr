@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-09 04:12:54",
-  "count": 16100,
+  "updated": "2026-07-09 04:16:47",
+  "count": 16102,
   "items": [
+    {
+      "id": "mkt:019f435f-d2a4-7aab-8cfe-3e9b0bd3d801",
+      "time": "2026-07-09 04:16:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CENTCOM said that at the direction of the US president its forces have begun a new round of strikes against Iran to further degrade its ability to threaten freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4977591",
+      "time": "2026-07-09 04:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍宣告：部隊已開始對伊朗實施新一輪打擊。"
+    },
+    {
+      "id": "4977590",
+      "time": "2026-07-09 04:15:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客6月同店銷售總額增長8.8%，分析師預期增長9.8%。"
+    },
+    {
+      "id": "mkt:019f435e-d166-7aab-8cfe-3083d4ab1f98",
+      "time": "2026-07-09 04:15:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reported a U.S. official said the U.S. military is striking Iranian targets in the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:565404",
+      "time": "2026-07-09 04:13:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed Amid US-Iran Tensions — US stock indices closed mixed on Wednesday as higher oil prices worsened the macroeconomic backdrop while chipmakers rebounded. The S&P 500 fell 0.3%, the Dow lost 577 points, while the Nasdaq 100 gained 0.3%. Treasury yields rose after President Trump said the ceasefire with Iran was \"over\" following renewed strikes, fueling concerns over energy-driven inflation. Those fears were reinforced by minutes from the Fed's June meeting, which showed some policymakers saw a case for further rate hikes if inflation remains elevated. Credit-sensitive sectors weakened, with JPMorgan losing 2.5% and Visa down 1.3%. Most AI hyperscalers lost amid concerns over heavy spending on data center infrastructure, with Alphabet (-1.4%), Amazon (-1%), and Microsoft (-1.6%) down. Chipmakers lifted the Nasdaq. Broadcom gained 4.8% after expanding its agreement with Apple (+0.9%) on US-made components, while Nvidia rose 3.6% on reports that Chinese firms plan to increase purchases of H200 chips."
+    },
+    {
+      "id": "mkt:019f435c-dbfb-7aab-8cfe-2b9feb57b34c",
+      "time": "2026-07-09 04:13:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency reported explosions were heard near Konarak and Chabahar in Iran."
+    },
+    {
+      "id": "4977589",
+      "time": "2026-07-09 04:12:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：科納拉克與恰巴哈爾附近傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f435c-6a94-7aab-8cfe-2702783e6c92",
+      "time": "2026-07-09 04:12:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports the U.S. military is conducting strikes against Iran."
+    },
     {
       "id": "mkt:019f435b-c220-7aab-8cfe-1cf956e8966c",
       "time": "2026-07-09 04:11:54",
@@ -147148,54 +147230,6 @@
         "Impact bullish"
       ],
       "text": "【Sources: SoftBank restarts $10 bln loan talks secured by OpenAI stake, offers concessions】SoftBank has restarted negotiations on a $10 bln loan secured by its OpenAI stake, two people familiar with the matter said. Talks had stalled amid lender concerns about valuing a private-company stake. To address those concerns, SoftBank proposed guarantees and contractual recourse allowing lenders to pursue SoftBank if the OpenAI collateral falls in value. The lending group is expected to include Goldman Sachs, JP Morgan and Mizuho Financial Group."
-    },
-    {
-      "id": "4965907",
-      "time": "2026-07-02 04:15:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛、摩根大通與瑞穗銀行預計將納入向軟銀貸款100億美元的銀團。"
-    },
-    {
-      "id": "4965906",
-      "time": "2026-07-02 04:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我們會處理落地公民權這件事，這項制度原本就不是給其他國家的富人設立的。 實際上，它當初是為奴隸的子女設立的。"
-    },
-    {
-      "id": "4965905",
-      "time": "2026-07-02 04:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們會想辦法解決出生公民權問題。"
-    },
-    {
-      "id": "4965904",
-      "time": "2026-07-02 04:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我好幾次都說過，我認真考慮過給自己頒發國會榮譽勳章。 大家都清楚我只是開玩笑隨口一說，可媒體報道出來就變成“他想給自己頒國會榮譽勳章。” 所以我現在再也不說這話了，講這種話很容易惹麻煩。"
-    },
-    {
-      "id": "4965903",
-      "time": "2026-07-02 04:13:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀正在與貸款機構談判，以獲得一筆100億美元的保證金貸款，該貸款由OpenAI的股份和還款擔保支援。"
-    },
-    {
-      "id": "mkt:019f1f50-b228-7aab-8c66-195e85666f29",
-      "time": "2026-07-02 04:13:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank is in talks with lenders to raise a $10 billion margin loan secured by its OpenAI stake and a repayment guarantee, people familiar with the matter said. Goldman Sachs, JP Morgan and Mizuho Financial Group are expected to join the lending syndicate."
     }
   ]
 }
