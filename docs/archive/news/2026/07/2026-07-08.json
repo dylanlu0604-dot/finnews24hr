@@ -1,7 +1,102 @@
 {
   "date": "2026-07-08",
-  "count": 1299,
+  "count": 1310,
   "items": [
+    {
+      "id": "mkt:019f4005-8067-7aab-8ce0-ca3e8f5aed54",
+      "time": "2026-07-08 12:38:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI extended intraday losses to 5.00%, trading at 7,266.59 points."
+    },
+    {
+      "id": "4975645",
+      "time": "2026-07-08 12:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：已啟動空襲警報。"
+    },
+    {
+      "id": "mkt:019f4004-921a-7aab-8ce0-c427d04a9379",
+      "time": "2026-07-08 12:37:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nanchang residential-related plot sells at 50%+ premium】On July 8, a 105-mu (≈7.0 ha) residential-related plot in Nanchang High-tech Zone (Qingshanhu) sold after nearly two hours of bidding to Jiangxi Chenhong Real Estate, a subsidiary of Zhaochi Co., at 7.87 million yuan per mu. Total consideration was about 830 million yuan, representing a 50.19% premium to the reserve price."
+    },
+    {
+      "id": "mkt:019f4004-6031-7aab-8ce0-b8752c8ce685",
+      "time": "2026-07-08 12:37:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qingdao launches fund industry development alliance at venture-capital conference】July 8, 2026 — Qingdao held its venture-capital conference and launched the Qingdao Fund Industry Development Alliance, which has attracted over 100 members including state-owned enterprises, leading investment firms, financial institutions, intermediaries and research institutes. The alliance will provide a government–enterprise, multi-party platform for industry–finance matching and aims to cultivate long-term and patient capital. Qingdao city also signed strategic cooperation agreements with Shanghai Pudong Development Bank, Guotai Haitong Securities and Zhongtai Securities."
+    },
+    {
+      "id": "4975644",
+      "time": "2026-07-08 12:37:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5.1%，至7266.59點。"
+    },
+    {
+      "id": "4975643",
+      "time": "2026-07-08 12:37:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南昌1宗涉宅用地溢價超50%成交】7月8日，南昌1宗高新區青山湖板塊105畝涉宅用地，經過近2個小時激烈競價，最終兆馳股份旗下江西宸宏置業以地價787萬元/畝斬獲地塊，摺合成交總價約8.3億元，溢價率高達50.19%。"
+    },
+    {
+      "id": "4975642",
+      "time": "2026-07-08 12:36:59",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4.8%，較6月份高點下跌20%。"
+    },
+    {
+      "id": "4975641",
+      "time": "2026-07-08 12:36:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【青島創投風投大會召開，青島市基金產業發展聯盟成立】7月8日，2026·青島創投風投大會在青島國際會議中心召開。會上，青島市基金產業發展聯盟正式成立，聯盟已吸引超100家機構加盟，涵蓋國有企業、頭部投資機構、金融機構、中介服務機構、科研院所等，旨在搭建政企聯動、多方協同的產融對接平臺，培育壯大長期資本、耐心資本。同時，青島市政府與上海浦東發展銀行、國泰海通證券、中泰證券簽署戰略合作協議。青島市委金融辦與工商銀行、農業銀行、中國銀行、建設銀行、交通銀行五大銀行國際投行共同啟動了賦能青島萬千科創儀式。大會聚焦青島市“10+1”創新型產業體系，相關區市、部門集中籤約12個基金專案，主要涉及先進製造、新能源、航空航天、海洋電子資訊等重點領域，構建起“央地合作、市區聯動”的專案融資矩陣。"
+    },
+    {
+      "id": "mkt:019f4003-20d2-7aab-8ce0-b14b0689c57c",
+      "time": "2026-07-08 12:36:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics shares fell as much as 6%."
+    },
+    {
+      "id": "4975640",
+      "time": "2026-07-08 12:35:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉爾吉斯斯坦取消對優質汽油的價格管制】據塔斯社審閱的一份檔案顯示，吉爾吉斯斯坦內閣部長會議放棄了對 AI-95 汽油（優質無鉛汽油）的國家價格管制，並廢除了燃料最高零售價格規定，旨在確保燃料供應不間斷。"
+    },
+    {
+      "id": "4975639",
+      "time": "2026-07-08 12:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣單。"
+    },
     {
       "id": "mkt:019f4001-ee9d-7aab-8ce0-a8a1ab18f40e",
       "time": "2026-07-08 12:34:56",
