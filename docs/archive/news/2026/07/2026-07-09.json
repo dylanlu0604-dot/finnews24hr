@@ -1,7 +1,48 @@
 {
   "date": "2026-07-09",
-  "count": 650,
+  "count": 654,
   "items": [
+    {
+      "id": "4977658",
+      "time": "2026-07-09 06:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以軍因美伊緊張局勢提高戰備等級】據以色列第12頻道電視臺8日報道，隨著美國與伊朗局勢緊張，以色列國防部門正為局勢可能快速惡化做好準備。報道說，以色列總理內塔尼亞胡8日晚計劃召開安全形勢評估會議，國防部長卡茨將出席會議。同時，以軍全面提高戰備等級。報道還稱，以軍與美國中央司令部保持密切協調。（新華社）"
+    },
+    {
+      "id": "mkt:019f43d2-9650-7aab-8cff-9003ae9c0050",
+      "time": "2026-07-09 06:21:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israel raises military readiness amid US–Iran tensions, Channel 12 reports】Israeli Defense Forces have raised their alert level and are preparing for a possible rapid deterioration in security amid heightened US–Iran tensions, Channel 12 reported on the 8th. Prime Minister Netanyahu planned a security assessment meeting to be attended by Defense Minister Katz. The IDF is coordinating closely with US Central Command (CENTCOM)."
+    },
+    {
+      "id": "4977657",
+      "time": "2026-07-09 06:21:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上證報：理性看待市場短期波動，多重邏輯支撐A股中長期配置價值】近日，A股市場出現階段性調整。面對市場波動，業內人士表示，應理性看待短期調整。資本市場執行受到宏觀環境、流動性、企業盈利和投資者預期等多重因素影響，階段性波動是市場機制發揮作用的正常表現。從中長期看，隨著中國經濟基本面持續修復、政策環境不斷最佳化、產業升級加速推進以及流動性保持合理充裕，A股市場仍具備較好的配置基礎。"
+    },
+    {
+      "id": "mkt:019f43d0-713c-7aab-8cff-8e8c3b94827d",
+      "time": "2026-07-09 06:19:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Sources say SK Hynix's US IPO was more than seven times oversubscribed."
+    },
     {
       "id": "4977656",
       "time": "2026-07-09 06:17:17",
