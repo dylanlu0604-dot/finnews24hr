@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-09 02:48:45",
-  "count": 16062,
+  "updated": "2026-07-09 02:52:32",
+  "count": 16061,
   "items": [
+    {
+      "id": "te:markets:565401",
+      "time": "2026-07-09 02:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Middle East Tensions — The S&P/TSX Composite Index fell ocer 1% to trade below 35,000 on Wednesday as renewed US-Iran tensions fueled risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials. RBC (-1.5%), TD Bank (-3%), and BMO (-2%) were down. Mining stocks also came under pressure as gold prices slipped and Trilogy Metals (-1%) reported a wider second-quarter loss. Agnico Eagle, Barrick, and WPM fell about 4%. Tech stocks weakened, with Shopify down 4%. Meanwhile, minutes from the Fed's June meeting showed officials remained divided over the need for further tightening. While several policymakers argued the current policy stance was not restrictive, most also said additional rate hikes could be warranted if inflation remains elevated."
+    },
+    {
+      "id": "4977532",
+      "time": "2026-07-09 02:51:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將贛鋒鋰業A股評級上調至超配。"
+    },
+    {
+      "id": "mkt:019f4311-0883-7aab-8cfc-cb0cc9ba971d",
+      "time": "2026-07-09 02:50:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. Labor Department has opened dozens of investigations into foreign individuals and entities suspected of abusing the H-1B visa program, and that U.S. job opportunities should be prioritized for American workers rather than exploited by foreign fraudsters."
+    },
+    {
+      "id": "4977531",
+      "time": "2026-07-09 02:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們達成的核心協議內容是，“只要你們停止襲擊船舶，我們就解除封鎖”；但如果你們襲擊船隻，我們必將反擊，而且反擊力度會前所未有地強硬。"
+    },
+    {
+      "id": "4977530",
+      "time": "2026-07-09 02:48:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【投資人Michael Burry建倉DraftKings和Flutter 加倉京東】DraftKings股份有限公司和Flutter娛樂公共有限公司的股價短暫飆升至盤中高點，此前由於電影《大空頭》而廣為人知的投資者Michael Burry在Substack發文稱，他買入了這兩家公司的股票。Burry表示，上述買入均為新建倉。DraftKings和Flutter隨後回吐部分漲幅，分別上漲約0.5%和1%。Burry寫道：“DraftKings的經營業務正迎來拐點，其價值在於我預見的近期轉型。Flutter過去曾因資本配置不當而受到影響，但在本質上是一家運營非常好且規模龐大的公司。”Burry還表示，他增持了京東的股票。"
+    },
     {
       "id": "mkt:019f430f-472f-7aab-8cfc-c6cb59082303",
       "time": "2026-07-09 02:48:22",
@@ -146734,68 +146779,6 @@
         "Impact bearish"
       ],
       "text": "Brent crude futures settled at $71.57 a barrel, down $1.38 or 1.89%."
-    },
-    {
-      "id": "4965862",
-      "time": "2026-07-02 02:51:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：將選擇美國財長貝森特的幕僚薩曼莎·施瓦布(Samantha Schwab)擔任顧問。"
-    },
-    {
-      "id": "4965861",
-      "time": "2026-07-02 02:50:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長：降低計算與電子產業的依賴，是墨西哥經濟增長前景的關鍵。"
-    },
-    {
-      "id": "mkt:019f1f03-914f-7aab-8c65-65390d5edb71",
-      "time": "2026-07-02 02:49:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair KEVIN WARSH will appoint Samantha Schwab, an aide to US Treasury Secretary BESSENT, as an adviser."
-    },
-    {
-      "id": "mkt:019f1f03-5114-7aab-8c65-5c7b3148305e",
-      "time": "2026-07-02 02:48:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Zelenskiy says Ukraine has not received full Nord Stream investigation details】On July 1 in Dublin, Zelenskiy said Ukraine has not formally received full investigation details or the complete investigative procedure for the Nord Stream pipeline explosions and will coordinate with German authorities and respond once it obtains the information. Earlier, Germany's federal prosecutor said it has filed charges against a Ukrainian national suspected of involvement in sabotage of the Nord Stream gas pipelines."
-    },
-    {
-      "id": "mkt:019f1f03-4077-7aab-8c65-5043c572f7ae",
-      "time": "2026-07-02 02:48:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's economy minister said protecting the auto industry has long been a key focus of discussions."
-    },
-    {
-      "id": "mkt:019f1f03-2701-7aab-8c65-4e5072575fcf",
-      "time": "2026-07-02 02:48:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Mexico's economy minister said negotiators failed to agree on tariffs for steel and aluminum, and there are disputes over excluding regional content rules for auto parts from consideration and over seasonal provisions for agricultural products."
     }
   ]
 }

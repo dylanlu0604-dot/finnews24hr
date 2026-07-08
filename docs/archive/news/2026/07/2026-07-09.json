@@ -1,7 +1,52 @@
 {
   "date": "2026-07-09",
-  "count": 427,
+  "count": 432,
   "items": [
+    {
+      "id": "te:markets:565401",
+      "time": "2026-07-09 02:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Middle East Tensions — The S&P/TSX Composite Index fell ocer 1% to trade below 35,000 on Wednesday as renewed US-Iran tensions fueled risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials. RBC (-1.5%), TD Bank (-3%), and BMO (-2%) were down. Mining stocks also came under pressure as gold prices slipped and Trilogy Metals (-1%) reported a wider second-quarter loss. Agnico Eagle, Barrick, and WPM fell about 4%. Tech stocks weakened, with Shopify down 4%. Meanwhile, minutes from the Fed's June meeting showed officials remained divided over the need for further tightening. While several policymakers argued the current policy stance was not restrictive, most also said additional rate hikes could be warranted if inflation remains elevated."
+    },
+    {
+      "id": "4977532",
+      "time": "2026-07-09 02:51:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將贛鋒鋰業A股評級上調至超配。"
+    },
+    {
+      "id": "mkt:019f4311-0883-7aab-8cfc-cb0cc9ba971d",
+      "time": "2026-07-09 02:50:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. Labor Department has opened dozens of investigations into foreign individuals and entities suspected of abusing the H-1B visa program, and that U.S. job opportunities should be prioritized for American workers rather than exploited by foreign fraudsters."
+    },
+    {
+      "id": "4977531",
+      "time": "2026-07-09 02:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們達成的核心協議內容是，“只要你們停止襲擊船舶，我們就解除封鎖”；但如果你們襲擊船隻，我們必將反擊，而且反擊力度會前所未有地強硬。"
+    },
+    {
+      "id": "4977530",
+      "time": "2026-07-09 02:48:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【投資人Michael Burry建倉DraftKings和Flutter 加倉京東】DraftKings股份有限公司和Flutter娛樂公共有限公司的股價短暫飆升至盤中高點，此前由於電影《大空頭》而廣為人知的投資者Michael Burry在Substack發文稱，他買入了這兩家公司的股票。Burry表示，上述買入均為新建倉。DraftKings和Flutter隨後回吐部分漲幅，分別上漲約0.5%和1%。Burry寫道：“DraftKings的經營業務正迎來拐點，其價值在於我預見的近期轉型。Flutter過去曾因資本配置不當而受到影響，但在本質上是一家運營非常好且規模龐大的公司。”Burry還表示，他增持了京東的股票。"
+    },
     {
       "id": "mkt:019f430f-472f-7aab-8cfc-c6cb59082303",
       "time": "2026-07-09 02:48:22",
