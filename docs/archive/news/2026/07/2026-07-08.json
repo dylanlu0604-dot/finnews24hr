@@ -1,7 +1,155 @@
 {
   "date": "2026-07-08",
-  "count": 832,
+  "count": 848,
   "items": [
+    {
+      "id": "4975315",
+      "time": "2026-07-08 09:32:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊概念表現活躍 西藏旅遊直線漲停】旅遊概念表現活躍，西藏旅遊直線漲停，錦江酒店、大連聖亞、張家界、陝西旅遊跟漲。"
+    },
+    {
+      "id": "mkt:019f3f5a-d4b0-7aab-8cdb-3418cecd3d9f",
+      "time": "2026-07-08 09:32:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "01347.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong stocks opened higher and extended gains. The Hang Seng Index rose about 1%, the Hang Seng Technology Index climbed more than 2%, with semiconductors leading — Huahong Hongli (01347.HK) up over 5% and SMIC (00981.HK) nearly 4%."
+    },
+    {
+      "id": "mkt:019f3f5a-9485-7aab-8cdb-2fd921736607",
+      "time": "2026-07-08 09:32:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China index futures open higher】China's CSI 300 index futures (IF) front-month contract up 0.29% at the morning open; SSE 50 index futures (IH) up 0.25%; CSI 500 (IC) up 0.48%; CSI 1000 (IM) up 0.34%."
+    },
+    {
+      "id": "mkt:019f3f5a-8e09-7aab-8cdb-20b6d7a7c868",
+      "time": "2026-07-08 09:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese government bond futures open】Chinese government bond futures opened: 2-year (TS) main contract unchanged, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.03%."
+    },
+    {
+      "id": "4975314",
+      "time": "2026-07-08 09:31:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交換機、通訊裝置方向盤初拉昇，紫光股份漲停】交換機、通訊裝置方向盤初拉昇，紫光股份漲停，銳捷網路、星網銳捷、菲菱科思、翱捷科技跟漲。"
+    },
+    {
+      "id": "4975313",
+      "time": "2026-07-08 09:31:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2％，恒生指數現漲1％，半導體板塊走強。"
+    },
+    {
+      "id": "4975312",
+      "time": "2026-07-08 09:31:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報23732.898點；恒生科技指數現漲1.775%。"
+    },
+    {
+      "id": "mkt:019f3f59-82ab-7aab-8cdb-1f681565f42b",
+      "time": "2026-07-08 09:30:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fiber-optic sector advanced; Meishi Technology posted a second consecutive limit-up to a fresh high, while Hangtian Electric, Changyingtong, Zhengfan Technology and Zhaochi each rose more than 5%."
+    },
+    {
+      "id": "4975311",
+      "time": "2026-07-08 09:30:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI伺服器概念盤初活躍 浪潮資訊一字漲停】早盤AI伺服器概念活躍，浪潮資訊一字漲停，紫光股份7天3板，華勤技術、中科曙光、神州數碼漲幅靠前。"
+    },
+    {
+      "id": "4975310",
+      "time": "2026-07-08 09:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光創始人蔡榮軍企業新菲光進入北美頭部資料中心供應鏈，今年將迎關鍵客戶量產】記者獲悉，由歐菲光創始人蔡榮軍發起設立的新菲光，已經進入了北美多個頭部資料中心客戶的供應鏈，今年預計會有關鍵客戶實現量產。與此同時，新菲光已經與國內多家頭部通訊硬體廠商建立合作，幾家頭部網際網路平臺也都在公司的重點突破名單中。（介面新聞）"
+    },
+    {
+      "id": "4975309",
+      "time": "2026-07-08 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4555.670點；恒生指數現漲0.599%。"
+    },
+    {
+      "id": "4975308",
+      "time": "2026-07-08 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.04%，成分股中，芯原股份漲6.14%，翱捷科技漲3.62%，寒武紀漲2.52%，中科飛測漲2.36%。"
+    },
+    {
+      "id": "4975307",
+      "time": "2026-07-08 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.02%， 10年期主力合約基本持平， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4975306",
+      "time": "2026-07-08 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.51%， 滬深300指數期貨連續漲0.47%， 中證500指數期貨連續漲0.63%， 上證50指數期貨連續漲0.25%。"
+    },
+    {
+      "id": "4975305",
+      "time": "2026-07-08 09:29:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【計算機裝置板塊高開，魅視科技2連板創新高】計算機裝置板塊高開，魅視科技2連板創新高，熙菱資訊、中科曙光、協創資料、曙光數創、盛視科技跟漲。"
+    },
+    {
+      "id": "4975304",
+      "time": "2026-07-08 09:29:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.02%。華醫轉債、惠城轉債、嘉澤轉債、瑞可轉債、航宇轉債跌幅居前，分別跌3.72%、1.90%、1.74%、1.72%、1.64%。三江轉債、春風轉債、銀微轉債、華辰轉債、精測轉2漲幅居前，分別漲20.00%、4.96%、4.85%、2.23%、2.23%。"
+    },
     {
       "id": "mkt:019f3f57-52e1-7aab-8cdb-1064c46fbefd",
       "time": "2026-07-08 09:28:35",
