@@ -1,7 +1,210 @@
 {
   "date": "2026-07-08",
-  "count": 2228,
+  "count": 2250,
   "items": [
+    {
+      "id": "4976398",
+      "time": "2026-07-08 17:22:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股羅素2000股指期貨觸及三週低點，最新下跌幅度為1.5%。"
+    },
+    {
+      "id": "mkt:019f4108-da2e-7aab-8ce9-5c0c77096141",
+      "time": "2026-07-08 17:22:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Trump threatens to halt US-Spain trade; Spain says relations 'business as usual'】At the NATO summit in Ankara, Trump told reporters he had instructed Treasury Secretary Bessent to immediately cut all trade and commercial ties with Spain, calling Spain a poor NATO partner that does not participate in operations or meet funding obligations. Spain's prime minister's office dismissed the threat as 'business as usual', saying Madrid will maintain its excellent social, cultural and economic relations with the United States and does not intend to change them."
+    },
+    {
+      "id": "4976397",
+      "time": "2026-07-08 17:21:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽合力：控股股東擬增持1億至2億元】安徽合力公告，控股股東叉車集團近日取得工商銀行合肥分行《貸款承諾函》，貸款用於股票增持，額度最高不超過人民幣1.8億元，且不超過本次股票增持資金總額的90%，貸款期限不超過3年。叉車集團於2026年6月25日增持36.37萬股，佔公司總股本的0.04%，並計劃未來6個月內累計增持資金不低於人民幣1億元，不超過人民幣2億元（含已增持金額）。"
+    },
+    {
+      "id": "4976396",
+      "time": "2026-07-08 17:21:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤上漲 0.5%，報 5369.57 點。"
+    },
+    {
+      "id": "mkt:019f4108-6c57-7aab-8ce9-51f15fab5382",
+      "time": "2026-07-08 17:21:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Turkey's President Erdogan said Ankara has allocated an additional $24 billion to the Iron Dome project to bolster NATO air and missile defenses."
+    },
+    {
+      "id": "4976395",
+      "time": "2026-07-08 17:21:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：亞馬遜正在開發一項此前未報道過的Alexa專案，代號為\"Moonraker\"，旨在為使用者處理更復雜的多步驟任務。"
+    },
+    {
+      "id": "mkt:019f4108-4ed7-7aab-8ce9-4cea81f2968c",
+      "time": "2026-07-08 17:21:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Business Insider reports Amazon is developing a previously unreported Alexa project, code-named Moonraker, intended to enable the assistant to handle more complex, multi-step user tasks."
+    },
+    {
+      "id": "4976394",
+      "time": "2026-07-08 17:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們已為\"鋼鐵穹頂\"專案追加撥款240億美元，以增強北約防空與導彈防禦能力。"
+    },
+    {
+      "id": "4976393",
+      "time": "2026-07-08 17:21:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興高管：全球首款AI智慧體手機來自努比亞】中興通訊終端事業部總裁、努比亞技術有限公司總裁倪飛在微博發文表示，全球首款 AI 智慧體手機來自努比亞，量產旗艦新機將在 2026 世界人工智慧大會上首次公開亮相。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f4107-9c25-7aab-8ce9-437270664dca",
+      "time": "2026-07-08 17:20:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said Turkey has taken necessary measures to meet a 5% defense-spending target by 2030."
+    },
+    {
+      "id": "4976392",
+      "time": "2026-07-08 17:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會官員：我們仍在考慮如何以及是否將國際碳信用納入碳排放交易體系（ETS）。"
+    },
+    {
+      "id": "mkt:019f4107-84b3-7aab-8ce9-38ab20fc87ac",
+      "time": "2026-07-08 17:20:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says it is still considering whether and how to include international carbon credits in the EU Emissions Trading System (EU ETS)."
+    },
+    {
+      "id": "mkt:019f4107-67d8-7aab-8ce9-37c2fa2205b0",
+      "time": "2026-07-08 17:20:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Russell 2000 futures fell to a three-week low, down 1.5%."
+    },
+    {
+      "id": "4976390",
+      "time": "2026-07-08 17:20:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中材國際：2026年第二季度新籤合同額同比增長43%】中材國際公告，2026年第二季度新籤合同金額189.76億元，同比增長43%；2026年1-6月新籤合同金額445.22億元，同比增長8%。截至報告期末，未完合同額716.52億元，較去年同期末增長15.50%。"
+    },
+    {
+      "id": "4976389",
+      "time": "2026-07-08 17:20:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們已採取必要措施，力爭到2030年實現國防開支佔GDP 5%的目標。"
+    },
+    {
+      "id": "4976388",
+      "time": "2026-07-08 17:20:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼：緊張局勢加劇威脅其安全和國際貿易。"
+    },
+    {
+      "id": "4976387",
+      "time": "2026-07-08 17:19:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息: 京東持有云知聲智慧股權由 5.02% 降至 3.97%。"
+    },
+    {
+      "id": "mkt:019f4106-9a6c-7aab-8ce9-2c5144b22377",
+      "time": "2026-07-08 17:19:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Philippine peso fell to 61.593 per dollar after Trump said a temporary agreement to end the war with Iran had ended."
+    },
+    {
+      "id": "4976386",
+      "time": "2026-07-08 17:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策高階代表：美國與伊朗之間的交火，使得結束戰爭的談判更加複雜化。"
+    },
+    {
+      "id": "mkt:019f4105-e76a-7aab-8ce9-228b1a2d5422",
+      "time": "2026-07-08 17:18:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission says revised Emissions Trading System will allow industry to continue emitting after 2039, potentially into the 2040s."
+    },
+    {
+      "id": "te:economy:565222",
+      "time": "2026-07-08 17:18:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Africa 10-Year Bond Yield Rises to Over 2-Week High — South Africa’s 10-year government bond yield inched up to 8.50%, the highest leve since June 23rd, tracking most global peers, amid rising hostilities in the Middle East. Oil prices climbed above pre-war levels, following a new exchange of attacks between the US and Iran, which fueled concerns over inflation and potential rate hikes by major central banks. On the domestic front, the latest developments pose new risks to the inflation outlook. South Africa Reserve Bank Governor Lesetja Kganyago has repeatedly reiterated the central bank's commitment to bringing inflation back to its 3% target, while signaling further tightening may be needed. Inflation accelerated to 4.5% in May from 4% the prior month, largely due to higher fuel prices caused by Middle East disruptions. On May 28, the SARB increased its benchmark interest rate by 25 basis points to 7% in response to mounting inflationary pressures and to prevent second-round effects."
+    },
+    {
+      "id": "4976385",
+      "time": "2026-07-08 17:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟執委會官員：碳排放交易體系修訂將允許工業排放在2039年後延續，直至2040年代。"
+    },
     {
       "id": "mkt:019f4105-ab93-7aab-8ce9-1b8b362d89aa",
       "time": "2026-07-08 17:18:38",
