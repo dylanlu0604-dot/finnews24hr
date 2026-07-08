@@ -1,7 +1,91 @@
 {
   "date": "2026-07-08",
-  "count": 848,
+  "count": 857,
   "items": [
+    {
+      "id": "mkt:019f3f5e-9cf4-7aab-8cdb-4ab6377ab9cd",
+      "time": "2026-07-08 09:36:32",
+      "tags": [
+        "MKT News",
+        "300763.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Ginlong Technologies says Q3 2026 orders full; inverter shipments seen up ~30% QoQ】Ginlong Technologies said on a July 7 conference call that orders for Q3 2026 are full. Total inverter shipments (residential storage, C&I storage and grid‑tied) are expected to rise about 30% QoQ, with storage inverters growing faster than grid‑tied units. Residential storage system pairing rate is roughly 20–30% now; the company targets above 50% in 2027 and expects system sales to materially outpace inverter sales. For C&I storage, monthly inverter order intake has exceeded 4,000 units and is climbing month‑on‑month; system repeat order rates are very high."
+    },
+    {
+      "id": "4975320",
+      "time": "2026-07-08 09:36:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪反彈 網宿科技漲近15%】早盤算力租賃概念震盪反彈，網宿科技漲近15%，深信服、雲天勵飛、優刻得、奧飛資料、協創資料跟漲。"
+    },
+    {
+      "id": "mkt:019f3f5e-37a9-7aab-8cdb-44552e7151af",
+      "time": "2026-07-08 09:36:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Alarm sirens and explosions reported in Bahrain."
+    },
+    {
+      "id": "4975319",
+      "time": "2026-07-08 09:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rivian：以每股15.5美元定價增發7500萬股，募資總額12億美元。"
+    },
+    {
+      "id": "4975318",
+      "time": "2026-07-08 09:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦浪科技：三季度公司訂單飽滿 逆變器業務預計發貨環比增長30%左右】錦浪科技7月7日在電話會議上表示，2026年三季度公司訂單飽滿，逆變器業務（戶儲、工商儲、併網逆變器合計）預計發貨環比增長30%左右，預計儲能逆變器增速快於併網逆變器。戶儲系統當前配套率約20%-30%，2027年目標配套率提升至50%以上，系統業務增速將顯著快於逆變器業務。工商儲業務方面，當前工商儲逆變器月接單量已達4000多套，趨勢逐月向上；工商儲系統當前返單率很高。"
+    },
+    {
+      "id": "mkt:019f3f5c-b315-7aab-8cdb-3cac13651419",
+      "time": "2026-07-08 09:34:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share semiconductor sector jumped at the open; Canxin and Fudan Microelectronics rose over 10%, while Xinyuan, Rockchip and Shengke Communication also gained."
+    },
+    {
+      "id": "te:economy:565024",
+      "time": "2026-07-08 09:34:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Australia Economy Resilient as Oil Shocks Hit Confidence: RBA Hunter — Australia’s consumer and business confidence has weakened following the recent oil price shock, though economic activity shows little sign of slowing, Reserve Bank of Australia Assistant Governor Sarah Hunter said Wednesday. Addressing supply shocks, she cautioned that central banks cannot always “look through” such disruptions, warning that if inflation expectations rise, restoring stability may require “some period of low inflation and higher unemployment.” Hunter stressed that while supply shocks pose difficult trade-offs, they do not diminish the importance of maintaining low and stable inflation. She added the board “will continue to act as needed to ensure inflation returns to target and the labour market to sustainable full employment.” The RBA has raised its cash rate three times this year to 4.35% in response to the global energy shock triggered by the Iran war. Policymakers left rates unchanged in June but reiterated that further tightening remains possible."
+    },
+    {
+      "id": "4975317",
+      "time": "2026-07-08 09:33:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%】半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%，芯原股份、瑞芯微、盛科通訊跟漲。"
+    },
+    {
+      "id": "4975316",
+      "time": "2026-07-08 09:33:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "4975315",
       "time": "2026-07-08 09:32:38",
