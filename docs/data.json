@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-09 06:50:00",
-  "count": 16148,
+  "updated": "2026-07-09 06:53:51",
+  "count": 16149,
   "items": [
+    {
+      "id": "mkt:019f43ef-69fe-7aab-8d00-258465e76fab",
+      "time": "2026-07-09 06:53:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said the US had reached many trade agreements with Turkey and praised Turkish President Erdogan as a good partner."
+    },
+    {
+      "id": "4977687",
+      "time": "2026-07-09 06:52:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【中證報：資金保障底氣足，下半年穩投資料持續加力】國家發展改革委日前披露，2026年“兩重”建設專案清單已全部下達，全年安排8000億元超長期特別國債資金，用於支援1417個重大專案建設。受訪專家表示，這筆資金將為基建投資築牢關鍵資金保障，託舉全年經濟平穩執行。展望下半年，各地需統籌用好各類政府資金與新型政策性金融工具，拉動基建投資增速穩步回升；同時出臺一攬子政策改革舉措扶持民間投資，充分釋放民間投資活力。"
+    },
+    {
+      "id": "4977686",
+      "time": "2026-07-09 06:51:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士美國IPO據悉獲得逾七倍的超額認購】知情人士表示，SK海力士美國IPO獲得逾七倍的超額認購。這家韓國儲存晶片製造商計劃於週四定價。部分知情人士表示，此次發行1.779億份美國存託憑證(ADR)吸引了全球多頭基金、專注科技領域的基金、主權財富基金以及專注亞洲市場的全球投資者的認購。根據SK海力士此前向美國證券交易委員會提交的檔案，每份ADR代表十分之一股普通股。根據計算，基於該公司韓國上市股票週三收盤價為每股207.6萬韓元(1,380美元)，此次美國IPO融資規模約為245億美元。資料顯示，若以這一規模計算，此次IPO有望創下外國企業有史以來規模最大的美國上市交易紀錄，僅次於阿里巴巴創下的250億美元。"
+    },
+    {
+      "id": "mkt:019f43ec-c42c-7aab-8d00-1f4ff4473873",
+      "time": "2026-07-09 06:50:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【SK Hynix U.S. IPO over 7x oversubscribed】Sources say SK Hynix's U.S. IPO is over seven times subscribed and is set to price on Thursday. The deal comprises about 177.9 million American depositary receipts (ADRs), each equal to one‑tenth of an ordinary share; based on Wednesday's Korea Exchange close of KRW2,076,000 per share (~$1,380), that implies an ADR price near $138 and gross proceeds of roughly $24.5bn. Demand reportedly came from global long‑term funds, tech‑thematic funds, sovereign wealth funds and Asia‑focused investors. The offering is led by BofA, CITIGROUP, Goldman Sachs and JP Morgan, with nine other banks involved."
+    },
     {
       "id": "mkt:019f43ec-1b5e-7aab-8d00-10b9e05ff865",
       "time": "2026-07-09 06:49:34",
@@ -147667,34 +147706,6 @@
         "NVDA.O"
       ],
       "text": "【US advanced reactor powers NVIDIA chip in first-of-its-kind demo】California-based nuclear startup Valar Atomics used its Ward 250 advanced reactor to power an NVIDIA Blackwell chip in a demonstration at its Utah site on Wednesday, briefly hosting a website. Output was very small, but this is the first time a next-generation reactor in the US has generated power for such equipment. The reactor reached criticality last month, marking the start of a self-sustaining fission reaction. Valar and NVIDIA said they have agreed to jointly explore developing nuclear-powered AI systems. The advanced reactor sector remains early-stage and no advanced reactors are yet commercialized in the US."
-    },
-    {
-      "id": "4965993",
-      "time": "2026-07-02 06:53:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮加速推進人工智慧模型標準制定計劃。"
-    },
-    {
-      "id": "4965992",
-      "time": "2026-07-02 06:51:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比利時成功晉級世界盃16強】北京時間7月2日，2026美加墨世界盃1/16決賽，比利時隊3比2戰勝塞內加爾隊，成功晉級16強。"
-    },
-    {
-      "id": "te:economy:563547",
-      "time": "2026-07-02 06:50:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "New Zealand Building Permits Fall 4% in May — Building consents for new dwellings in New Zealand fell 4.0% month-on-month in May 2026, reversing from an upwardly revised 11.1% jump in April. A total of 3.801 new dwellings were consented, including 1,835 stand-alone houses, 1,718 townhouses, flats, and units, 194 retirement village units, and 54 apartments."
     }
   ]
 }
