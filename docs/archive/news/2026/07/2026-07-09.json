@@ -1,7 +1,43 @@
 {
   "date": "2026-07-09",
-  "count": 528,
+  "count": 532,
   "items": [
+    {
+      "id": "mkt:019f435b-c220-7aab-8cfe-1cf956e8966c",
+      "time": "2026-07-09 04:11:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Explosions reported in southern Iran’s Bandar Abbas and Sirik】Iranian media reported late on July 8 local time explosions were heard in Bandar Abbas, capital of Hormozgan province, and in Sirik; details remain unclear. In the early hours of the same day Bandar Abbas, Sirik and other locations in southern Iran were struck by U.S. military strikes."
+    },
+    {
+      "id": "4977588",
+      "time": "2026-07-09 04:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios： 美軍正對伊朗發動打擊。"
+    },
+    {
+      "id": "mkt:019f435a-9a83-7aab-8cfe-15764715edb6",
+      "time": "2026-07-09 04:10:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC expects Brazil's July soybean exports at 12.26 mln t, up from 11.94 mln t a year earlier."
+    },
+    {
+      "id": "4977587",
+      "time": "2026-07-09 04:10:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX跌穿IPO發行價，該公司股票此前進入納斯達克100指數。"
+    },
     {
       "id": "4977586",
       "time": "2026-07-09 04:07:41",
