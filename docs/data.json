@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-09 04:20:47",
-  "count": 16104,
+  "updated": "2026-07-09 04:24:39",
+  "count": 16103,
   "items": [
+    {
+      "id": "4977595",
+      "time": "2026-07-09 04:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "AZZ第一季度調整後每股收益1.85美元，預估1.69美元。"
+    },
     {
       "id": "mkt:019f4363-6631-7aab-8cfe-5f367b92ae5d",
       "time": "2026-07-09 04:20:15",
@@ -147240,22 +147248,6 @@
         "國際"
       ],
       "text": "特朗普：股市頻頻創下歷史新高。"
-    },
-    {
-      "id": "4965911",
-      "time": "2026-07-02 04:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 2024年我們擊敗了一位名叫卡瑪拉的年輕女性，她看似精明，實則毫無頭緒。\n注：擊敗民主黨總統候選人哈里斯。"
-    },
-    {
-      "id": "mkt:019f1f57-bc6f-7aab-8c66-2caf0229e8bf",
-      "time": "2026-07-02 04:21:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Dollar index up 0.2% to 101.39 at New York close】The dollar index, measuring the dollar against six major currencies, rose 0.2% to 101.39 at the New York close. EUR/USD 1.1380 (previous session 1.1420); GBP/USD 1.3278 (1.3255); USD/JPY 162.53 (162.62); USD/CHF 0.8092 (0.8083); USD/CAD 1.4216 (1.4204); USD/SEK 9.7300 (9.7005)."
     }
   ]
 }
