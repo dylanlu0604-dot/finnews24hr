@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-08 20:20:38",
-  "count": 16018,
+  "updated": "2026-07-08 20:24:41",
+  "count": 16016,
   "items": [
+    {
+      "id": "4976834",
+      "time": "2026-07-08 20:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，約旦在招標中採購約6萬噸飼料大麥。"
+    },
+    {
+      "id": "4976833",
+      "time": "2026-07-08 20:23:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘋果CEO庫克：很榮幸與博通擴大合作，簽署全新協議，在美國增產數十億枚晶片！這是我們有史以來規模最大的美國製造專案承諾，也是我們在美國搭建全流程半導體供應鏈程序中的重要一步。"
+    },
+    {
+      "id": "4976832",
+      "time": "2026-07-08 20:22:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行資管部門計劃更名，以吸引大型客戶。"
+    },
+    {
+      "id": "4976831",
+      "time": "2026-07-08 20:22:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：卡達投資局參與Sambanova十億美元融資專案。"
+    },
+    {
+      "id": "mkt:019f41ac-081a-7aab-8cee-082c39a3bef1",
+      "time": "2026-07-08 20:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York cocoa futures rose above $6,000/tonne, the highest level since January."
+    },
+    {
+      "id": "4976830",
+      "time": "2026-07-08 20:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約可可期貨突破每噸 6000 美元，創今年 1 月以來新高。"
+    },
+    {
+      "id": "4976829",
+      "time": "2026-07-08 20:19:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度塔塔鋼鐵荷蘭分公司因汙染環境被起訴】荷蘭檢方8日宣佈，已對印度塔塔鋼鐵荷蘭分公司提起刑事訴訟，指控其“故意”汙染環境。檢方調查發現，塔塔鋼鐵荷蘭分公司位於阿姆斯特丹以西艾默伊登鎮一座鍊鋼廠在防治環境汙染方面“做得不夠”，焦爐維護也不到位，且存在無證運營等違規行為，給周邊環境和居民生活帶來負面影響。按檢方說法，調查仍在進行，尚不清楚這家公司荷蘭籍高管是否會被追責。塔塔鋼鐵荷蘭分公司當天回應說，“不認同”相關指控，表示近年來已大幅減排整改，且排放量符合標準，稱荷蘭檢方“沒有必要”針對“數量有限”的汙染事件提起訴訟。荷蘭政府委託開展的研究顯示，涉事鍊鋼廠是荷蘭溫室氣體主要排放源之一，給周邊居民帶來健康問題。2024年，該廠曾因焦爐違規排汙被荷蘭有關部門“盯上”，一度面臨關閉風險。阿姆斯特丹地方法院定於11月20日就此案舉行首次審訊。（新華社）"
+    },
     {
       "id": "4976828",
       "time": "2026-07-08 20:19:31",
@@ -146481,91 +146539,6 @@
         "公司"
       ],
       "text": "【渤海租賃：控股子公司擬97.19億元購買11架A321NEO訂單飛機資產】渤海租賃公告稱，2026年6月30日（都柏林時間），公司控股子公司Avolon下屬子公司與Frontier簽署協議，購買11架A321NEO訂單飛機資產。以空客公司2018年目錄價格，飛機資產目錄價約14.25億美元，摺合人民幣約97.19億元，實際購買價以協議為準，飛機預計2026年11月至2027年6月交付。該交易不構成關聯交易、重大資產重組及借殼，已獲公司董事會審議透過，無需股東會審議及有關部門批准。"
-    },
-    {
-      "id": "4965243",
-      "time": "2026-07-01 20:23:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為與西北政法大學簽署合作協議】近日，華為技術有限公司（簡稱“華為”）與西北政法大學在深圳正式簽署合作協議，並開展人才培養與產教融合座談會。雙方將圍繞ICT人才培養、聯合創新、人工智慧和智慧校園四個方向開展深度合作，致力於推進學校教學、科研數字化改革，深化“人工智慧+法學”交叉學科複合型人才聯合培育，探索全域協同數智校園新模式，助力高等教育數智化轉型。"
-    },
-    {
-      "id": "4965242",
-      "time": "2026-07-01 20:23:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特斯拉6月份在歐洲的註冊量攀升】週三公佈的資料顯示，特斯拉在多個歐洲市場的註冊量6月份出現增長，這家美國電動汽車製造商在釋出第二季度交付報告前，其歐洲地區銷量延續了復甦勢頭。據bilstatistik.dk、MobilitySweden和ANFAC資料顯示，作為銷量指標的特斯拉註冊量在丹麥增長了39%，在瑞典增長了56%，在西班牙增長了5.6%。據汽車行業組織PFA稱，在法國註冊量增長了一倍多。法國一直是特斯拉的亮點市場。ING Research高階經濟學家裡科·盧曼表示，該國的電動汽車補貼計劃以及企業車隊電動化程序的加快，推動了當地需求增長；與此同時，特斯拉也正在從去年圍繞馬斯克的爭議中恢復過來。"
-    },
-    {
-      "id": "mkt:019f1da2-251a-7aab-8c57-8875939f22e2",
-      "time": "2026-07-01 20:23:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Sources: OPEC+ may again raise August oil output target】Three sources said on Wednesday that OPEC+ producers are set to agree at Sunday’s meeting to raise August output targets by about 188,000 bpd, matching the increases in June and July. The move would add supply as the Strait of Hormuz gradually reopens and oil prices slide. OPEC declined to comment."
-    },
-    {
-      "id": "4965241",
-      "time": "2026-07-01 20:22:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣近海發生6.0級地震】據CCTV國際時訊，日本氣象廳訊息，當地時間今天（7月1日）21時08分左右，北京時間20時08分左右，日本巖手縣附近海域發生6.0級地震，最大震感為“震度4”，震源深度40公里。無引發海嘯風險。"
-    },
-    {
-      "id": "4965240",
-      "time": "2026-07-01 20:22:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【首爾警方調查韓國隊主帥任命是否違法】韓國國家足球隊在2026年美加墨世界盃小組賽階段遭淘汰後，韓國國內質疑洪明甫被任命為國家隊主教練的聲音再起。首爾警方1日就這一任命過程中是否存在違法行為啟動調查。（新華社）"
-    },
-    {
-      "id": "4965239",
-      "time": "2026-07-01 20:22:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭航空（FINNAIR OYJ）：受米蘭機場2026年7月5日罷工影響，芬蘭航空航班可能出現執行中斷。"
-    },
-    {
-      "id": "4965238",
-      "time": "2026-07-01 20:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利全國總罷工將於2026年7月5日舉行，該事件或對芬蘭航空航班造成影響。"
-    },
-    {
-      "id": "mkt:019f1da0-16d0-7aab-8c57-867b82e01fe6",
-      "time": "2026-07-01 20:20:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【6.0 magnitude earthquake offshore Iwate, Japan】Japan Meteorological Agency said a magnitude-6.0 earthquake struck offshore Iwate Prefecture at about 21:08 JST on July 1 (20:08 Beijing time). Maximum seismic intensity was shindo 4 and focal depth 40 km. JMA reported no tsunami risk."
-    },
-    {
-      "id": "mkt:019f1d9f-fbf5-7aab-8c57-795830fdc15a",
-      "time": "2026-07-01 20:20:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "【US private sector payrolls +98,000 in June; growth uneven】ADP reported US private payrolls rose 98,000 in June; private-sector wages were up 4.4% YoY. Employment gains were uneven: financial activities and information led growth, while leisure and hospitality hiring was weak for a sixth consecutive month. ADP chief economist Nela Richardson said, \"The pace of hiring reflects both supply and demand. We know it is taking longer for people to find jobs, but some sectors show signs of labor supply tightness. For now, the net effect is slower employment growth.\""
     }
   ]
 }
