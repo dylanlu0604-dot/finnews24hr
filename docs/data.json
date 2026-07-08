@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-08 23:34:51",
-  "count": 15802,
+  "updated": "2026-07-08 23:40:03",
+  "count": 15797,
   "items": [
+    {
+      "id": "4977243",
+      "time": "2026-07-08 23:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與波蘭總統納夫羅茨基舉行一小時會談。"
+    },
+    {
+      "id": "4977242",
+      "time": "2026-07-08 23:36:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普要切斷與西班牙貿易往來 桑切斯：希望維持關係穩定】當地時間8日，西班牙首相桑切斯在土耳其參加北約峰會期間表示，西班牙和美國的關係基礎穩固，希望維持當前經貿與外交往來的穩定。此外，西班牙首相府也發表宣告稱：“我們與美國保持著良好的關係，我們無意改變這種關係。”美國總統特朗普8日表示，他要求財政部長貝森特切斷美國與西班牙的所有貿易往來。特朗普還表示，西班牙是北約內的“糟糕盟友”。此前，特朗普多次批評西班牙在北約事務中“沒有承擔應盡責任”，還稱西班牙不支援美國打擊伊朗，他打算切斷與西班牙的所有貿易往來。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f425f-d66d-7aab-8cf7-512ba5c4db0b",
+      "time": "2026-07-08 23:36:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equity indices closed lower on Wednesday July 8: Germany's DAX 30 fell 585.80 points (-2.30%) to 24,903.46; the UK's FTSE 100 lost 186.79 pts (-1.75%) to 10,479.09; France's CAC 40 dropped 183.58 pts (-2.18%) to 8,252.66; the Euro STOXX 50 declined 116.00 pts (-1.84%) to 6,203.86; Spain's IBEX 35 fell 541.57 pts (-2.76%) to 19,098.63; Italy's FTSE MIB slid 642.94 pts (-1.23%) to 51,812.50."
+    },
+    {
+      "id": "4977241",
+      "time": "2026-07-08 23:36:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：北馬其頓提高赤字目標對債務軌跡構成風險。"
+    },
+    {
+      "id": "4977240",
+      "time": "2026-07-08 23:36:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：感謝巴基斯坦總理謝赫巴茲·謝里夫出席最高領袖的告別儀式和國葬。"
+    },
+    {
+      "id": "4977239",
+      "time": "2026-07-08 23:35:43",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "交易員增加對英國央行利率的押注，預計年底前將加息兩次，每次25個基點。"
+    },
+    {
+      "id": "mkt:019f425e-da38-7aab-8cf7-48f4a6af1380",
+      "time": "2026-07-08 23:35:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Market pricing implies two 25bps ECB rate hikes by year-end."
+    },
+    {
+      "id": "4977238",
+      "time": "2026-07-08 23:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官媒：如果美國發動襲擊 伊朗將封鎖霍爾木茲海峽並雙倍還擊】伊朗官方媒體Press TV援引知情人士稱，若美國發動任何打擊，伊朗將關閉霍爾木茲海峽，禁止所有船舶通行。若遭到打擊，伊朗將以至少“兩倍於對方”的規模打擊敵方目標。伊朗不會放棄對霍爾木茲海峽的控制，並準備為維持對這一戰略水道的掌控而戰。"
+    },
+    {
+      "id": "4977237",
+      "time": "2026-07-08 23:34:16",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員增加對歐洲央行加息的押注，預計年底前將加息兩次，每次25個基點。"
+    },
+    {
+      "id": "mkt:019f425d-8167-7aab-8cf7-411196ca918c",
+      "time": "2026-07-08 23:34:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract continued to slide, trading at 14,002 yuan/kg, down 5.62%."
+    },
+    {
+      "id": "4977236",
+      "time": "2026-07-08 23:34:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力集團（EDF）：受默茲河徑流量偏低影響，坐落於該河畔的舒茲核電站預計自7月11日（週六）起實施發電出力限制。"
+    },
     {
       "id": "4977235",
       "time": "2026-07-08 23:33:55",
@@ -144183,176 +144291,6 @@
         "國際"
       ],
       "text": "義大利總理梅洛尼：我並非反美人士，但我絕不會向美國總統唐納德・特朗普低頭。"
-    },
-    {
-      "id": "4965749",
-      "time": "2026-07-01 23:39:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田北美汽車公司：第二季度，豐田北美汽車銷量達 673,971 輛。"
-    },
-    {
-      "id": "4965748",
-      "time": "2026-07-01 23:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國斯巴魯：2026 年 6 月汽車銷量達 54909 輛。"
-    },
-    {
-      "id": "mkt:019f1e55-8ec9-7aab-8c62-5ae4252dd78c",
-      "time": "2026-07-01 23:39:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "U.S. Trade Representative Greer said the U.S. will not extend the United States–Mexico–Canada Agreement and will review it annually."
-    },
-    {
-      "id": "mkt:019f1e54-aba4-7aab-8c62-534f30f849cc",
-      "time": "2026-07-01 23:38:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Per a letter from India's Ministry of Electronics and Information Technology, the government has asked Meta to delay launching WhatsApp's \"username\" feature until related consultations conclude."
-    },
-    {
-      "id": "mkt:019f1e54-8198-7aab-8c62-4d6b48153eb0",
-      "time": "2026-07-01 23:38:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "India's Ministry of Electronics and Information Technology (MeitY) has asked Meta Platforms (META.O) to submit a detailed explanation within three days on WhatsApp's username feature, according to a ministry letter."
-    },
-    {
-      "id": "4965746",
-      "time": "2026-07-01 23:37:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度資訊科技部：印度政府要求Meta暫緩推出 WhatsApp “使用者名稱” 功能，直至相關事項磋商完畢。"
-    },
-    {
-      "id": "mkt:019f1e53-ca4b-7aab-8c62-431407bf298a",
-      "time": "2026-07-01 23:37:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Missouri aluminum smelter to restart before year-end after two-year idle, cites Trump-era tariffs】Magnitude 7 Metals will restart partial production at its idled Missouri aluminum smelter before year-end, adding about 75,000 tonnes/year to U.S. capacity. The company attributed the decision to Section 232 aluminum tariffs implemented under the Trump administration, which target imports used in autos, beverage cans and construction. The smelter was shut in 2024."
-    },
-    {
-      "id": "mkt:019f1e53-c08a-7aab-8c62-391a7c3c4374",
-      "time": "2026-07-01 23:37:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European equities were mixed on July 1 (Wed): Germany's DAX 30 closed up 64.28 pts (+0.26%) at 25,043.53; UK’s FTSE 100 fell 19.51 pts (-0.19%) to 10,477.61; France's CAC 40 fell 66.70 pts (-0.79%) to 8,337.29; Euro Stoxx 50 fell 46.49 pts (-0.73%) to 6,281.60; Spain's IBEX 35 fell 49.67 pts (-0.26%) to 19,409.03; Italy's FTSE MIB fell 78.93 pts (-0.15%) to 51,603.50."
-    },
-    {
-      "id": "4965745",
-      "time": "2026-07-01 23:36:57",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【受特朗普關稅推動，美密蘇里州鋁冶煉廠停產兩年後將於年底復產】據外媒報道，美國密蘇里州已停產的鋁冶煉廠將在今年年底前恢復生產，在特朗普政府推動振興本土工業的背景下，這將有助於提升美國鋁產量。Magnitude 7 Metals將重啟該冶煉廠的部分產能，新增年產量約75,000公噸。備忘錄顯示，公司將此次重啟歸因於美國總統特朗普依據《232條款》實施的鋁關稅政策，該政策針對用於汽車、易拉罐及建築行業的進口鋁產品。該鋁冶煉廠於2024年停產。"
-    },
-    {
-      "id": "4965744",
-      "time": "2026-07-01 23:36:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古特雷斯：聯大財務規則改革將有助於增強聯合國財務穩定性】當地時間7月1日，聯合國秘書長古特雷斯在紐約聯合國總部表示，聯合國大會日前決定改革聯合國財務規則，將有助於聯合國更負責任地管理資源、保障業務連續性，並更好支援關鍵授權，尤其是維和行動。古特雷斯當天在記者會上說，長期以來，聯合國預算程式面臨一個根本性矛盾：會員國並不總是按時、足額繳納分攤會費，但聯合國卻經常被要求返還未支出資金，即使這些資金由於會員國欠繳會費而實際上並未收到。（央視新聞）"
-    },
-    {
-      "id": "4965743",
-      "time": "2026-07-01 23:36:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "達飛海運集團：憑藉現有船舶訂單，我們將在 2027 年底超越馬士基，登頂全球第二大集裝箱航運企業。"
-    },
-    {
-      "id": "mkt:019f1e51-ea20-7aab-8c62-30999b76115b",
-      "time": "2026-07-01 23:35:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "US 4-month Treasury auction to July 1: 57.66% of awards allocated at the stop-out yield, vs 11.15% previously."
-    },
-    {
-      "id": "4965742",
-      "time": "2026-07-01 23:35:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：美墨加協定談判的關鍵在於解決美國的貿易逆差問題，美墨加協定存在實質性問題需要解決。"
-    },
-    {
-      "id": "mkt:019f1e51-cfc5-7aab-8c62-2f4d686ed541",
-      "time": "2026-07-01 23:35:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury bill auction on July 1: bid-cover ratio 2.66, prior 2.55."
-    },
-    {
-      "id": "mkt:019f1e51-bb1c-7aab-8c62-26063b7b8647",
-      "time": "2026-07-01 23:35:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 4-month Treasury auction on July 1 — stop-out yield 3.795%, prior 3.77%."
-    },
-    {
-      "id": "mkt:019f1e51-a61a-7aab-8c62-1cd47e10dc60",
-      "time": "2026-07-01 23:34:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.1) | actual 2.66 | previous 2.55"
     }
   ]
 }
