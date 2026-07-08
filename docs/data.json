@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-08 09:18:02",
-  "count": 15917,
+  "updated": "2026-07-08 09:21:56",
+  "count": 15914,
   "items": [
+    {
+      "id": "mkt:019f3f50-da23-7aab-8cda-badae6e0e5c2",
+      "time": "2026-07-08 09:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash: 7-day annualized yields across major platforms】Tencent Licaitong HuoQi+ 7-day annualized yield ranged 0.7170%–1.1680%; WeChat Lingqiantong 7-day annualized yield ranged 0.9400%–1.0070%; Alipay Yu’e Bao 7-day annualized yield ranged 1.0010%–1.0070%."
+    },
+    {
+      "id": "4975287",
+      "time": "2026-07-08 09:20:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展150億元7天逆回購操作，投標量150億元，中標量150億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f3f50-1e10-7aab-8cda-b104cfb5b78b",
+      "time": "2026-07-08 09:20:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo of 150 billion yuan; bids and allotment 150 billion yuan; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4975286",
+      "time": "2026-07-08 09:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光智科技新設子公司，含核子及核輻射測量儀器業務】企查查APP顯示，近日，武漢光智全譜科技有限公司成立，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；核子及核輻射測量儀器製造；太赫茲檢測技術研發；工業自動控制系統裝置製造等。企查查股權穿透顯示，該公司由光智科技全資持股。"
+    },
     {
       "id": "mkt:019f3f4b-c8d0-7aab-8cda-a9fb8ccac3cc",
       "time": "2026-07-08 09:15:58",
@@ -145842,72 +145880,6 @@
         "其他"
       ],
       "text": "央行今日開展1000億元7天逆回購操作，投標量1000億元，中標量1000億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f1b44-a687-7aab-8c47-7d366ebf1a5c",
-      "time": "2026-07-01 09:21:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "PBOC conducted a CNY100 billion 7-day reverse repo today; bids CNY100 billion, allotment CNY100 billion, rate 1.40%, unchanged."
-    },
-    {
-      "id": "mkt:019f1b44-7c43-7aab-8c47-73dce8402794",
-      "time": "2026-07-01 09:21:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Container shipping index (Europe route) most-active contract fell 200.0 points intraday to 2,638.5, down 7.05%."
-    },
-    {
-      "id": "4963930",
-      "time": "2026-07-01 09:21:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報2639.00點。"
-    },
-    {
-      "id": "mkt:019f1b43-4d79-7aab-8c47-6e701ac20472",
-      "time": "2026-07-01 09:20:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "HKEX closed today for Hong Kong SAR Establishment Day."
-    },
-    {
-      "id": "4963929",
-      "time": "2026-07-01 09:19:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及第一季度GDP環比下降7.52%。"
-    },
-    {
-      "id": "4963928",
-      "time": "2026-07-01 09:19:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通富微電回應公司將新增30億光模組收入傳聞：不屬實】針對投資者關於“ 有訊息稱公司將新增30億光模組收入，是否實屬？”的提問，通富微電7月1日在互動平臺回應稱，公司暫無相關業務，該訊息不屬實。"
-    },
-    {
-      "id": "4963927",
-      "time": "2026-07-01 09:18:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大限已至 7月1日起貨幣經紀商對未簽署付費服務協議的機構或停止債券報價服務】中國人民銀行此前公佈《銀行間市場經紀業務管理辦法》，自2026年1月1日起實施。其中提到，針對本辦法實施後新接受的委託，經紀機構應當按要求籤署服務協議。對於本辦法實施前產生的委託，經紀機構應當在2026年7月1日前與委託方補充簽署服務協議，並達到本辦法規定的條件。上海國利貨幣經紀有限公司等多家經紀機構此前釋出推進貨幣經紀服務協議與費率表簽署的提示函，誠請各公司基於平等互利原則，儘快就《貨幣經紀服務協議》達成一致並完成簽署。若未能及時規範簽署，雙方在開展相關產品經紀業務時均將面臨合規風險，後續服務的正常連續開展亦可能受到影響。國家金融監督管理總局《貨幣經紀公司管理辦法》(2025年第6號)第二十一條明確規定，貨幣經紀公司提供經紀服務應與客戶簽訂服務協議，約定服務內容、期限、費率等事項，金融機構應當配合貨幣經紀公司遵守相關規定，維護市場公平秩序。"
     }
   ]
 }

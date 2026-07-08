@@ -1,7 +1,45 @@
 {
   "date": "2026-07-08",
-  "count": 800,
+  "count": 804,
   "items": [
+    {
+      "id": "mkt:019f3f50-da23-7aab-8cda-badae6e0e5c2",
+      "time": "2026-07-08 09:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash: 7-day annualized yields across major platforms】Tencent Licaitong HuoQi+ 7-day annualized yield ranged 0.7170%–1.1680%; WeChat Lingqiantong 7-day annualized yield ranged 0.9400%–1.0070%; Alipay Yu’e Bao 7-day annualized yield ranged 1.0010%–1.0070%."
+    },
+    {
+      "id": "4975287",
+      "time": "2026-07-08 09:20:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展150億元7天逆回購操作，投標量150億元，中標量150億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f3f50-1e10-7aab-8cda-b104cfb5b78b",
+      "time": "2026-07-08 09:20:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo of 150 billion yuan; bids and allotment 150 billion yuan; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4975286",
+      "time": "2026-07-08 09:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光智科技新設子公司，含核子及核輻射測量儀器業務】企查查APP顯示，近日，武漢光智全譜科技有限公司成立，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；核子及核輻射測量儀器製造；太赫茲檢測技術研發；工業自動控制系統裝置製造等。企查查股權穿透顯示，該公司由光智科技全資持股。"
+    },
     {
       "id": "mkt:019f3f4b-c8d0-7aab-8cda-a9fb8ccac3cc",
       "time": "2026-07-08 09:15:58",
