@@ -1,7 +1,48 @@
 {
   "date": "2026-07-09",
-  "count": 416,
+  "count": 420,
   "items": [
+    {
+      "id": "mkt:019f4308-5141-7aab-8cfc-9857f99ed254",
+      "time": "2026-07-09 02:40:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Trump still retains multiple options to respond to Iran."
+    },
+    {
+      "id": "mkt:019f4307-a869-7aab-8cfc-96ae5f266986",
+      "time": "2026-07-09 02:40:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "XAI said Grok 4.5 is not yet live in the EU, has not been integrated into any SpaceX XAI products and is not available via the API console; the company expects to launch service in the EU in mid‑July."
+    },
+    {
+      "id": "4977527",
+      "time": "2026-07-09 02:37:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲傳聲筒：美聯儲分歧核心在通脹前景，而非政策方向】華爾街日報記者Nick Timiraos表示，美聯儲6月會議紀要顯示，官員之間的分歧主要來自對未來經濟走勢的不同判斷，而不是在加息或降息策略上存在根本衝突。美聯儲內部形成了兩種可能情景：如果通脹繼續居高不下，幾乎所有官員都認為需要維持更高利率，甚至進一步收緊政策；但如果通脹很快回落至2%的目標水平，幾乎所有官員也認為可以維持當前利率，甚至未來降息。他認為，“很快回落至2%”這一表述非常關鍵，為美聯儲保留了政策調整空間。目前官員們真正關注的問題是，通脹是否會持續反彈，還是重新進入下降軌道。Timiraos總結稱，美聯儲下一步行動仍取決於經濟資料，尤其是通脹表現。市場此前押注降息，但最新紀要顯示，政策前景仍存在較大不確定性。"
+    },
+    {
+      "id": "mkt:019f4305-27e6-7aab-8cfc-89a9581f4f11",
+      "time": "2026-07-09 02:37:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【WSJ: Fed split driven by inflation outlook, not policy direction】WSJ reporter Nick Timiraos says the Fed’s June minutes show officials differ mainly on the inflation and economic outlook rather than on whether to tighten or ease policy. Officials outlined two scenarios: if inflation stays elevated, most favor maintaining higher rates or further tightening; if inflation quickly returns to 2%, most would be comfortable holding current rates and could consider cuts. Timiraos highlights the phrase “quickly returns to 2%” as key, preserving Fed flexibility. The minutes underscore that the Fed’s next moves will depend on incoming data—especially inflation—and that policy timing remains uncertain despite prior market bets on cuts."
+    },
     {
       "id": "mkt:019f4304-eab2-7aab-8cfc-85c82e53e458",
       "time": "2026-07-09 02:37:03",
