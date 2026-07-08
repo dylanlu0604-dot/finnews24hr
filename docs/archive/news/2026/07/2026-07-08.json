@@ -1,7 +1,146 @@
 {
   "date": "2026-07-08",
-  "count": 2384,
+  "count": 2399,
   "items": [
+    {
+      "id": "mkt:019f4129-1fac-7aab-8cea-a946055e118d",
+      "time": "2026-07-08 17:57:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Rapidus targets 2nm wafer foundry pricing at 3–3.5 mln yen per wafer】Rapidus set a pricing target for its 2nm wafer foundry at 3–3.5 mln yen per wafer. The company’s CEO said Rapidus will not concede on foundry pricing to TSMC."
+    },
+    {
+      "id": "4976500",
+      "time": "2026-07-08 17:57:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 特朗普支援的人工智慧金融公司正洽談出售核心業務。"
+    },
+    {
+      "id": "4976499",
+      "time": "2026-07-08 17:56:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "樂購股價因曝正探索出售歐洲業務訊息暴漲，當日最終收漲0.3%。"
+    },
+    {
+      "id": "4976498",
+      "time": "2026-07-08 17:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊將 AT&T<T.N> 目標價從26美元下調至24美元。"
+    },
+    {
+      "id": "mkt:019f4127-7d40-7aab-8cea-a2d2ed988fa2",
+      "time": "2026-07-08 17:55:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Tencent Holdings repurchased 27,600 shares on July 8, spending about HK$12.73 million."
+    },
+    {
+      "id": "4976497",
+      "time": "2026-07-08 17:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Rapidus擬定2nm晶圓代工每片300萬日元起】Rapidus方面透露，其2nm製程的晶圓代工定價目標為每片300萬至350萬日元。公司CEO小池淳義表示，在晶圓代工定價策略上不能輸給臺積電。"
+    },
+    {
+      "id": "4976496",
+      "time": "2026-07-08 17:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：將針對核武器在波羅的海國家的部署採取應對措施。"
+    },
+    {
+      "id": "4976495",
+      "time": "2026-07-08 17:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟計劃於2027年啟動4億份碳排放許可基金。"
+    },
+    {
+      "id": "4976494",
+      "time": "2026-07-08 17:55:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊控股：2026年7月8日購回27600股，總價約1273萬港元】 騰訊控股公告，2026年7月8日，公司於香港聯交所購回27600股普通股，每股購回價格介於HKD 460.6至HKD 462.2之間，付出的價格總額為HKD 12,73.19萬元。購回股份擬登出。截至2026年7月8日，公司已發行股份（不包括庫存股份）總數為90.93億股。"
+    },
+    {
+      "id": "4976493",
+      "time": "2026-07-08 17:54:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據港交所檔案，騰訊7月8日以1270萬港元回購27600股股票。"
+    },
+    {
+      "id": "4976492",
+      "time": "2026-07-08 17:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊銀行首次覆蓋 PAYPAL, INC. <PYPL.O> 給予減持評級，目標價42美元。"
+    },
+    {
+      "id": "mkt:019f4126-8cde-7aab-8cea-9f93a25ed029",
+      "time": "2026-07-08 17:54:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kremlin says it will take measures in response to any deployment of nuclear weapons in the Baltic states."
+    },
+    {
+      "id": "mkt:019f4126-8a4a-7aab-8cea-93759850d2bf",
+      "time": "2026-07-08 17:54:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【MUFG: Fed minutes should not be over-interpreted】MUFG analyst Derek Halpenny said the Fed will release minutes from the June FOMC tonight but warned against over-interpreting details because the pre-June meeting backdrop differs materially from today. The FOMC dot plot was likely compiled in the week to June 12 and would not reflect a hypothetical meeting held now — in particular it would not show nine participants favoring hikes. On that basis he says Overnight Index Swap pricing for further hikes looks rich. The market still prices roughly a 30% chance of a July 29 rate hike; given recent softening in labor-market data, Halpenny views that as too high. By March 2027 the market has priced nearly 40bp of tightening, but MUFG expects cuts are more likely than additional hikes by then."
+    },
+    {
+      "id": "mkt:019f4126-523c-7aab-8cea-8b3773f42fcf",
+      "time": "2026-07-08 17:54:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian navy Admiral Siaari said Trump had threatened to seize Kharg Island, deploy forces along the Strait of Hormuz and send destroyers into the strait, but none of those moves materialized."
+    },
+    {
+      "id": "4976491",
+      "time": "2026-07-08 17:54:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊給予萬事達卡(MA.N) 增持評級，目標價640美元。"
+    },
     {
       "id": "4976490",
       "time": "2026-07-08 17:53:16",
