@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-09 01:12:30",
-  "count": 15950,
+  "updated": "2026-07-09 01:16:28",
+  "count": 15947,
   "items": [
+    {
+      "id": "4977420",
+      "time": "2026-07-09 01:15:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：全球伊斯蘭債券發行復甦取決於區域穩定性。"
+    },
+    {
+      "id": "mkt:019f42b9-c081-7aab-8cfa-a70d6a04261a",
+      "time": "2026-07-09 01:14:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan foreign ministry: escalation in U.S.-Iran tensions not in any party's interest】On the evening of the 8th (local time) Pakistan's foreign ministry said it is concerned about rising U.S.-Iran tensions, saying renewed conflict would be against the interests of any party. It urged restraint and called on all sides to avoid actions that could further damage regional peace and stability. Pakistan said diplomatic engagement and dialogue remain the only path to regional peace, urged parties to honor commitments under the memorandum of understanding framework, and reiterated it is willing to play a constructive role in promoting regional stability."
+    },
+    {
+      "id": "4977419",
+      "time": "2026-07-09 01:13:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列無人機空襲黎巴嫩南部一家醫院附近區域，造成兩人死亡。"
+    },
+    {
+      "id": "4977418",
+      "time": "2026-07-09 01:13:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外交部：美伊局勢升級不符合任何一方利益】當地時間8日晚，巴基斯坦外交部發表宣告，對當前美伊緊張局勢升級表示關切，並指出，衝突再度升級不符合任何一方利益。巴基斯坦呼籲各方保持克制，避免採取任何可能進一步損害地區和平與穩定的行動。巴方強調，實現地區和平這一共同目標，除了持續開展外交接觸與對話之外，別無選擇。巴基斯坦敦促各方切實履行在諒解備忘錄框架下作出的各項承諾。巴方表示，該諒解備忘錄仍然是促進相互理解、相互尊重以及實現地區乃至更廣泛範圍共同繁榮的持久基礎。巴基斯坦重申，願繼續在推動地區和平與穩定方面發揮建設性作用。（央視新聞）"
+    },
     {
       "id": "mkt:019f42b6-8222-7aab-8cfa-9a3146144c70",
       "time": "2026-07-09 01:11:24",
@@ -145641,65 +145673,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $1.001 bln from four counterparties in a fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:019f1eae-97c0-7aab-8c64-4f6dadcab894",
-      "time": "2026-07-02 01:16:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Wall Street Journal: Sen. Elizabeth Warren has asked Federal Reserve regulators to review Fed Governor Bowman’s attendance at a private BofA dinner."
-    },
-    {
-      "id": "4965822",
-      "time": "2026-07-02 01:16:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：美國參議員沃倫要求美聯儲監管機構核查鮑曼出席美國銀行私人晚宴一事。"
-    },
-    {
-      "id": "mkt:019f1ead-fae4-7aab-8c64-4145ef4d3220",
-      "time": "2026-07-02 01:15:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister for US-Canada trade affairs Leblanc said parties agree it is vital to continue consultations and explore ways to ensure the USMCA trade and investment framework operates effectively among Canada, the US and Mexico."
-    },
-    {
-      "id": "mkt:019f1ead-e8c3-7aab-8c64-3c21e86b986c",
-      "time": "2026-07-02 01:15:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative said the U.S. government is continuing analysis of the aerospace supply chain to inform tariff policy."
-    },
-    {
-      "id": "4965821",
-      "time": "2026-07-02 01:15:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表：政府仍在分析航空航天產業鏈，以此制定關稅相關政策。很難想象總統的目標如何與行業關稅的調整相契合。"
-    },
-    {
-      "id": "4965820",
-      "time": "2026-07-02 01:14:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大部長勒布朗談及《美墨加協定》：各方一致認同持續磋商十分重要，並將探尋方案，完善加、美、墨三國貿易與投資合作框架。"
-    },
-    {
-      "id": "mkt:019f1ead-2f30-7aab-8c64-33b4ac547b9d",
-      "time": "2026-07-02 01:14:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative says it is hard to imagine how the president's objectives would align with industry tariff adjustments."
     }
   ]
 }
