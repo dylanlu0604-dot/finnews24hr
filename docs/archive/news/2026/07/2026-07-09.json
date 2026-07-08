@@ -1,7 +1,47 @@
 {
   "date": "2026-07-09",
-  "count": 594,
+  "count": 598,
   "items": [
+    {
+      "id": "mkt:019f4390-812d-7aab-8cfe-ff6df9c8a8cf",
+      "time": "2026-07-09 05:09:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Press TV reported US military strikes hit Iran's Chabahar port area, partially damaging Shahid Beheshti Port, Kalantari Port and the maritime traffic control tower."
+    },
+    {
+      "id": "4977622",
+      "time": "2026-07-09 05:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗邁赫爾通訊社：週三晚間有訊息稱美國對拉萬島發動襲擊，但經向霍爾木茲甘省政府訊息人士核實，該說法“完全不實”。訊息稱，截至午夜，拉萬島未發生任何襲擊或目標命中事件，島上石油設施均正常運轉，未受到影響。"
+    },
+    {
+      "id": "mkt:019f438f-8d31-7aab-8cfe-f49a3878f9e6",
+      "time": "2026-07-09 05:08:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported that during a U.S. military strike on Chabahar, shrapnel struck Imam Ali Hospital. The local power company said the strike cut three power lines; two have been restored."
+    },
+    {
+      "id": "4977621",
+      "time": "2026-07-09 05:07:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【古巴全國電力系統恢復供電】古巴電力聯盟8日在社交媒體發表宣告說，古巴各省當天凌晨已重新接入國家電力系統，全國電力供應恢復。古巴電力聯盟6日在社交媒體釋出公告說，古巴電力系統發生全面斷電。受美國製裁影響，古巴長期以來難以進口燃料和維修嚴重老化的發電廠所需裝置，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）"
+    },
     {
       "id": "4977620",
       "time": "2026-07-09 05:06:35",
