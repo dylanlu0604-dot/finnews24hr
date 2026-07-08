@@ -1,7 +1,122 @@
 {
   "date": "2026-07-09",
-  "count": 79,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019f4290-8dbb-7aab-8cf8-e024a1d59f82",
+      "time": "2026-07-09 00:29:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran fired on vessels overnight and he does not like that. He added Iran wants a deal but does not know how to proceed."
+    },
+    {
+      "id": "mkt:019f4290-59f9-7aab-8cf8-d9c86dd61eca",
+      "time": "2026-07-09 00:29:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran no longer has an army or an air force."
+    },
+    {
+      "id": "4977328",
+      "time": "2026-07-09 00:29:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗夜間襲擊了商船，我對此十分不滿。"
+    },
+    {
+      "id": "mkt:019f428f-d305-7aab-8cf8-d47c544a5e37",
+      "time": "2026-07-09 00:29:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Iran cannot possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019f428f-c56b-7aab-8cf8-ccb310b28196",
+      "time": "2026-07-09 00:29:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the war with Iran has been successful."
+    },
+    {
+      "id": "4977327",
+      "time": "2026-07-09 00:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "博通股價延續漲勢，觸及盤中高點，上漲6.2%。"
+    },
+    {
+      "id": "4977326",
+      "time": "2026-07-09 00:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜宣佈將於2026年第三季度推出面向信貸業務的Abrigo智慧體平臺服務。"
+    },
+    {
+      "id": "4977325",
+      "time": "2026-07-09 00:28:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Abrigo宣佈推出面向金融機構的智慧體人工智慧平臺體驗。"
+    },
+    {
+      "id": "mkt:019f428e-bbe1-7aab-8cf8-c1ecdc6bd3af",
+      "time": "2026-07-09 00:27:58",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "President Trump said Lockheed Martin is building five new plants and that the new defense factories will raise production capacity threefold."
+    },
+    {
+      "id": "4977324",
+      "time": "2026-07-09 00:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗想達成協議，但他們不知道該怎麼做。"
+    },
+    {
+      "id": "4977323",
+      "time": "2026-07-09 00:27:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗戰爭取得了巨大的成功。"
+    },
+    {
+      "id": "4977322",
+      "time": "2026-07-09 00:26:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：安杜里爾公司宣佈簽署協議，將生產其新型梭子魚導彈。 這批導彈是供給波蘭的。波蘭發展勢頭很好，擁有一位優秀的總統。"
+    },
     {
       "id": "4977321",
       "time": "2026-07-09 00:25:24",
