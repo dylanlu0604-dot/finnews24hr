@@ -1,7 +1,220 @@
 {
   "date": "2026-07-08",
-  "count": 3266,
+  "count": 3290,
   "items": [
+    {
+      "id": "4977082",
+      "time": "2026-07-08 22:13:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長表示，新的赤字目標將於8月底確定。"
+    },
+    {
+      "id": "4977081",
+      "time": "2026-07-08 22:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海事局釋出南海“火箭回收作業”航警】據中國海事局官網訊息，三沙海事局釋出瓊航警123/26：南海，2026年7月8日1700時至10日2400時在16-42.20N 113-30.38E、16-33.76N 113-37.28E、 16-30.31N 113-33.05E、16-38.75N 113-26.15E四點連線範圍內進行火箭回收作業。過往船舶禁止駛入。"
+    },
+    {
+      "id": "4977080",
+      "time": "2026-07-08 22:12:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長表示，若不採取進一步措施，2026年預算赤字將佔GDP的7.5%。"
+    },
+    {
+      "id": "te:economy:565316",
+      "time": "2026-07-08 22:12:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventories Growth Slows — US wholesale inventories rose 0.1% month-over-month to $941.8 billion in May 2026, following an upwardly revised 0.7% increase in April and below market expectations of a 0.3% gain. The latest reading marked the third consecutive month of slower inventory growth after a 1.5% increase in March, the strongest since mid-2022. Compared with a year earlier, wholesale inventories were 4.0% higher, accelerating from an upwardly revised 1.2% increase in May 2025. Meanwhile, the inventories-to-sales ratio for merchant wholesalers, excluding manufacturers’ sales branches and offices, stood at 1.15 on a seasonally adjusted basis, down from 1.31 in May 2025."
+    },
+    {
+      "id": "4977079",
+      "time": "2026-07-08 22:12:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（7月7日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.63%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "4977078",
+      "time": "2026-07-08 22:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦機場管理局8日在社交媒體發文說，歷經12小時的搜救後，巴方在該國西南部俾路支省奧爾馬拉以南53海里處，發現7日晚失聯的波音737貨機殘骸。（新華國際）"
+    },
+    {
+      "id": "4977077",
+      "time": "2026-07-08 22:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：歐洲國家在北約搭便車的時代已經結束。"
+    },
+    {
+      "id": "mkt:019f4211-cddc-7aab-8cf3-7a3ee38c34d4",
+      "time": "2026-07-08 22:11:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Sheinbaum said Mexico is seeking other markets to diversify."
+    },
+    {
+      "id": "4977076",
+      "time": "2026-07-08 22:11:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "據火山引擎訊息，7月8日，火山引擎正式上線豆包影象創作模型Seedream 5.0 Pro的API服務。"
+    },
+    {
+      "id": "mkt:019f4211-b156-7aab-8cf3-70ee46b6ceb9",
+      "time": "2026-07-08 22:11:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BAYN.DE"
+      ],
+      "text": "【Bayer denies involvement in forged expert-signature case】July 7 — China's National Healthcare Security Administration (NHSA) said that during the selection phase of the 12th national centralized drug procurement an unnamed imported originator submitted a purported joint expert recommendation signed by 31 hospitals and 78 doctors; NHSA verification found more than 80% of the signatures were false. On July 8 Bayer China said the company cited in reports is not Bayer and that Bayer complies with Chinese laws and regulations."
+    },
+    {
+      "id": "mkt:019f4211-97b8-7aab-8cf3-6c539807bc2b",
+      "time": "2026-07-08 22:11:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Volcano Engine said on July 8 it launched an API for its Seedream 5.0 Pro image-creation model."
+    },
+    {
+      "id": "4977075",
+      "time": "2026-07-08 22:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛鮑姆：墨西哥也在開拓其他市場以實現市場多元化。"
+    },
+    {
+      "id": "4977074",
+      "time": "2026-07-08 22:10:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨表示：特朗普持續就關鍵因素髮表講話，且他認可我們目前所做的努力。"
+    },
+    {
+      "id": "mkt:019f4211-066a-7aab-8cf3-650a11561878",
+      "time": "2026-07-08 22:10:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's prime minister SANCHEZ said military cooperation with the United States is currently at its best."
+    },
+    {
+      "id": "4977073",
+      "time": "2026-07-08 22:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "桑切斯：駐西班牙美軍撤離與否由美方政府決定。"
+    },
+    {
+      "id": "mkt:019f4210-b513-7aab-8cf3-5985bab32b0b",
+      "time": "2026-07-08 22:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reports flights at Hormozgan province airport remain in operation."
+    },
+    {
+      "id": "4977072",
+      "time": "2026-07-08 22:10:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯邦快遞貨運股價迅速轉跌，下跌0.4%。"
+    },
+    {
+      "id": "mkt:019f4210-9046-7aab-8cf3-55fad73c5721",
+      "time": "2026-07-08 22:10:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Mexican President Sheinbaum said the US-Mexico-Canada Agreement (USMCA) will be renewed for 16 years."
+    },
+    {
+      "id": "4977071",
+      "time": "2026-07-08 22:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社稱，有關霍爾木茲甘省機場關停的報道不實。"
+    },
+    {
+      "id": "mkt:019f4210-696a-7aab-8cf3-4acb7c2f9501",
+      "time": "2026-07-08 22:09:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israel conducts air strikes in southern Lebanon】Lebanon said on the 8th Israeli jets struck the Al-Arita Hirlinn area in the Nabatieh region in the early hours after the area had been shelled earlier, and later hit multiple targets in the Bint Jbeil area. The Lebanese Health Ministry said on the 7th that Israeli attacks since fighting flared again on March 2 have killed 4,320 people and wounded 12,203. Israel, the US and Lebanon concluded a new round of ceasefire-and-withdrawal talks in Washington on June 26 and announced a three-party framework agreement, but Israel has conducted repeated strikes inside Lebanon since June 27."
+    },
+    {
+      "id": "te:economy:565314",
+      "time": "2026-07-08 22:09:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Tanzania Inflation Rate Hovers at 2023-Highs — The annual inflation rate in Tanzania came in at 4% in June 2026, little changed from May's 4.2%, which was the steepest since April 2023. Upward pressure came mostly from prices of transportation (13.6% vs 11.9% in May); food & non-alcoholic beverges & tobacco (4.1% vs 5.6%) and personal care, social protection and miscellaneous & goods services (3.6% vs 3.5%). The smallest increases were seen for insurance & financial services (0.2% vs 0.2%); recreation, sport & culture (0.5% vs 0.7%) and information & communication (0.9% vs 0.9%). On a monthly basis, the CPI edged up by 0.1%, after a 0.2% increase in the previous month."
+    },
+    {
+      "id": "4977070",
+      "time": "2026-07-08 22:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：《美墨加協定》最終將續簽16年。"
+    },
+    {
+      "id": "4977069",
+      "time": "2026-07-08 22:09:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4103.00元。"
+    },
+    {
+      "id": "4977068",
+      "time": "2026-07-08 22:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：美國總統特朗普在結束髮言時稱“空氣中瀰漫著愛意”，我對此感到非常欣慰。"
+    },
     {
       "id": "4977067",
       "time": "2026-07-08 22:08:53",
