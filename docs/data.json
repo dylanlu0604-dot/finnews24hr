@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-09 02:15:29",
-  "count": 16050,
+  "updated": "2026-07-09 02:26:05",
+  "count": 16055,
   "items": [
+    {
+      "id": "te:markets:565393",
+      "time": "2026-07-09 02:25:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Lacks Direction — The dollar index was little changed around 101 on Wednesday, as investors assessed the latest escalation in Middle East tensions. President Trump said that \"as far as I'm concerned, the ceasefire is over,\" while threatening additional strikes on Iran and a blockade of the country's ports. The US also launched fresh strikes on Iran and revoked a waiver that had allowed the country to sell crude oil on global markets. These developments followed a series of attacks on tankers transiting the Strait of Hormuz in recent days. Oil prices surged again, reviving concerns about inflation and the prospect of monetary tightening. Reflecting this shift, traders increased their expectations for Fed rate hikes, with the implied probability of a September rate increase rising to around 69%, up from 58% the previous day. Meanwhile, minutes from the latest FOMC meeting showed that policymakers were divided over the future path of interest rates and discussed a range of economic scenarios."
+    },
+    {
+      "id": "4977515",
+      "time": "2026-07-09 02:25:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國勞工部今日已就H-1B簽證事宜發出數十份調查傳票。"
+    },
+    {
+      "id": "te:markets:565392",
+      "time": "2026-07-09 02:25:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Soars by 6.00% — Top commodity gainers are Butter (6%), Cocoa (4.86%) and Canola (3.16%). Biggest losers are Corn (-2.10%) and Wheat (-1.98%)."
+    },
+    {
+      "id": "mkt:019f42f7-6998-7aab-8cfc-4b14dc9b0954",
+      "time": "2026-07-09 02:22:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes: time to consider major revision to post-meeting statements】Fed minutes show policymakers still expect real GDP to grow robustly through the remainder of 2026. Multiple labor-market indicators point to a stable jobs market that does not appear to be a source of inflationary pressure. The June 17 statement was briefer than recent post-meeting releases, signaling imminent action by officials who have pledged to overhaul Fed communications; minutes say several officials agreed it is time to consider major changes to post-meeting statements."
+    },
+    {
+      "id": "te:markets:565391",
+      "time": "2026-07-09 02:20:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 4.27% — Top commodity losers are Platinum (-4.27%), Silver (-2.69%), Silicon (-2.29%) and Gold (-0.85%). Gains are led by Iron Ore CNY (1.43%) and Steel Rebar (0.95%)."
+    },
+    {
+      "id": "mkt:019f42f5-6522-7aab-8cfc-459ad9ebef88",
+      "time": "2026-07-09 02:20:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said lifting sanctions on Syria would open the door to international trade and investment and provide Syria with reconstruction opportunities."
+    },
+    {
+      "id": "mkt:019f42f3-a72e-7aab-8cfc-3a03046f4bdc",
+      "time": "2026-07-09 02:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will begin removing Syria from the list of state sponsors of terrorism."
+    },
+    {
+      "id": "4977513",
+      "time": "2026-07-09 02:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國、Airlink與亞馬遜宣佈搭建委內瑞拉人道主義空中運輸通道。"
+    },
+    {
+      "id": "mkt:019f42f1-360f-7aab-8cfc-35df49e9c601",
+      "time": "2026-07-09 02:15:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "DXY"
+      ],
+      "text": "【Fed minutes show clear split on rate path; both hikes and cuts seen as possible】Minutes of the Fed’s June 16–17 meeting show officials were sharply divided on the rate outlook. The Fed unanimously held the policy rate at 3.50%–3.75%, but some members said easing inf could create scope for cuts while others warned persistent price pressures could require further hikes. Officials disagreed on year‑end rates—some expected levels near or slightly below current, others expected rates above current. The Fed said future policy will be data‑dependent, with decisions to hinge on inf, employment and other economic data."
+    },
+    {
+      "id": "te:economy:565387",
+      "time": "2026-07-09 02:15:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Divided Over Interest Rate Outlook — Fed officials were divided on the future of interest rates and discussed a range of scenarios for the evolution of the economy and monetary policy, minutes from the FOMC meeting in June 2026 showed. Participants generally assessed that upside risks to inflation remained elevated and a few commented that, in light of these developments, there was a case for raising interest rates. Most participants also pointed to scenarios in which, in the context of stable labor market conditions, inflation would remain elevated due to strong AI-related demand, the conflict in the Middle East, or the effects of tariffs. In such scenarios, almost all of these participants indicated that some policy firming would likely be warranted to return inflation to 2%. However, under their most likely economic outlook, many officials expected interest rates to end the year at or slightly below their current level. The Fed kept the federal funds rate unchanged at 3.50%-3.75% in June, in line with expectations."
+    },
+    {
+      "id": "te:markets:565386",
+      "time": "2026-07-09 02:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Rallies by 10.68% — Top commodity gainers are Heating Oil (10.68%), Propane (6.90%), Natural Gas UK (5.39%), Brent Crude Oil (5.15%) and Crude Oil WTI (4.34%). Biggest loser is Natural gas (-1.83%)."
+    },
     {
       "id": "mkt:019f42f0-c932-7aab-8cfc-2c5709c07bfe",
       "time": "2026-07-09 02:15:04",
@@ -146593,60 +146711,6 @@
         "MU.O"
       ],
       "text": "Philadelphia semiconductor index widened losses to 5.87%; Lam Research (LRCX.O) fell 11.24%, Applied Materials (AMAT.O) fell 11.24%, Micron Technology (MU.O) fell 9.42%, Intel (INTC.O) fell 8.11% and ASML (ASML.O) fell 7.51%."
-    },
-    {
-      "id": "te:markets:563533",
-      "time": "2026-07-02 02:25:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Soars by 5.97% — Top commodity gainers are Coffee (5.97%) and Oat (2.38%)."
-    },
-    {
-      "id": "4965846",
-      "time": "2026-07-02 02:22:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "費城半導體指數跌幅擴大至6%，應用材料、泛林集團跌超11%，美光跌近10%，英特爾、邁威爾科技、阿斯麥跌約8%，臺積電跌近7%。"
-    },
-    {
-      "id": "te:markets:563532",
-      "time": "2026-07-02 02:20:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 2.26% — Top commodity gainers are Silver (2.26%), Lithium Carbonate (2.24%), Platinum (1.88%) and Gold (1.47%). Biggest losers are Iron Ore CNY (-1.87%) and Copper (-1.27%)."
-    },
-    {
-      "id": "4965845",
-      "time": "2026-07-02 02:18:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月02日01時57分在阿富汗（北緯36.55度，東經70.35度）發生5.4級地震，震源深度200千米。"
-    },
-    {
-      "id": "4965843",
-      "time": "2026-07-02 02:16:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震死亡人數升至2295人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯1日表示，該國日前發生的兩次強震已造成2295人死亡。（新華社）"
-    },
-    {
-      "id": "mkt:019f1ee5-46b4-7aab-8c64-f0f99af8bc22",
-      "time": "2026-07-02 02:16:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reported a magnitude-5.5 earthquake in Jurm, Afghanistan."
     }
   ]
 }
