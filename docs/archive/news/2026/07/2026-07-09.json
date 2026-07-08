@@ -1,7 +1,61 @@
 {
   "date": "2026-07-09",
-  "count": 710,
+  "count": 716,
   "items": [
+    {
+      "id": "mkt:019f43f6-b606-7aab-8d00-5cfab39fcc13",
+      "time": "2026-07-09 07:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK June three-month RICS house price balance -33, versus -30 expected; previous reading revised to -34 from -35."
+    },
+    {
+      "id": "mkt:019f43f6-932c-7aab-8d00-5122de95105a",
+      "time": "2026-07-09 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | RICS House Price Balance (Jun) | actual -33 | consensus -30 | previous -35.00"
+    },
+    {
+      "id": "4977690",
+      "time": "2026-07-09 06:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍多次空襲後，特朗普稱伊朗主動致電希望達成協議】特朗普於週三表示，在美國對中東地區發動多輪打擊後，伊朗主動致電美方，希望達成相關協議，但他不確定伊朗是否值得信任。“他們不久前打來電話，迫切想要達成協議。” 特朗普在返程的空軍一號專機上對記者說道，“只是我拿不準，他們是否值得與之締約。”當天早些時候，伊朗襲擊了多艘行經霍爾木茲海峽的船隻，美方隨即實施報復，特朗普就此宣佈兩國之間的停火狀態已然終結。“伊朗每襲擊我們一次，我們就十倍反擊。” 特朗普表示。"
+    },
+    {
+      "id": "mkt:019f43f5-1cd9-7aab-8d00-4f3dc6c13aa8",
+      "time": "2026-07-09 06:59:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said on Iran the U.S. had just dealt Iran a heavy blow and that U.S. retaliation is 20 times Iran's; whenever Iran attacks, the U.S. hits back with 20 times the force."
+    },
+    {
+      "id": "mkt:019f43f5-183d-7aab-8d00-45e9ea3bae42",
+      "time": "2026-07-09 06:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he's 'Iran's No.1 assassination target', to use older Air Force One】NewsNation reported President Trump told reporters Wednesday he believes he is \"No.1 on Iran's assassination list\" and said he is unbothered because he is \"doing his job.\" Asked why he would not use the new Air Force One, he said the new jet is being flown to several European bases for display and that he will return by conventional means, planning to fly an older Air Force One from Turkey to the UK."
+    },
+    {
+      "id": "4977689",
+      "time": "2026-07-09 06:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上市銀行“紅包雨”密集落地 行業分紅從拼比例到拼可持續】近日，多家銀行2025年度分紅方案實施或獲得股東大會審議透過。7月6日至10日這一週，上市銀行分紅迎來一波小高潮——10家銀行年度分紅在本週實施，其中包括中國銀行、交通銀行、招商銀行等“分紅大戶”。從行業分紅情況來看，分化格局凸顯：六大行穩守30%分紅線，多家中小銀行則壓縮了分紅。業內人士表示，銀行分紅分化背後，是資本補充壓力與盈利能力的結構性差異。這種分化格局，折射出銀行業在資本約束與股東回報間尋求平衡的難題，也為投資者提出了新的配置命題。 (中證報)"
+    },
     {
       "id": "mkt:019f43f3-222c-7aab-8d00-3f685639ecb1",
       "time": "2026-07-09 06:57:15",
