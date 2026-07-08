@@ -1,7 +1,66 @@
 {
   "date": "2026-07-09",
-  "count": 370,
+  "count": 376,
   "items": [
+    {
+      "id": "mkt:019f42ec-bdb1-7aab-8cfc-1a1f43f28a27",
+      "time": "2026-07-09 02:10:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said he discussed joint defense-industry measures, including shipbuilding, with U.S. President Trump; cooperation could include frigates, submarines and light frigates."
+    },
+    {
+      "id": "mkt:019f42ec-a674-7aab-8cfc-112bc9292f58",
+      "time": "2026-07-09 02:10:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Federal Reserve minutes: Some participants said a hike could be necessary but backed keeping rates unchanged】Minutes from the Fed’s June 16–17 meeting show officials increasingly concerned about high inf. A minority judged an immediate rate hike could be warranted, but participants followed Fed chair KEVIN WARSH in issuing a shorter policy statement and ultimately supported leaving the policy rate unchanged. The minutes say a “majority of participants” saw scenarios in which inf would return to the Fed’s 2% target and scenarios in which it would remain elevated; “almost all” participants holding the latter view said hikes would be necessary if that occurred. Participants generally judged incoming information between meetings pointed to elevated upside risks to price stability and reduced downside risks to full employment."
+    },
+    {
+      "id": "4977507",
+      "time": "2026-07-09 02:10:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【縮減版美聯儲政策宣告引發內部討論】6月份的美聯儲會議紀要讓人們對該央行在凱文·沃什作為美聯儲主席的首次會議後釋出大幅縮減版政策宣告的決定有了更多瞭解。該會議上的“大多數與會者”（注：顯然不是所有人）表示，他們“看到了縮減該宣告的好處“。對於從政策宣告中刪除“寬鬆傾向“的措辭，有著更廣泛的共識：“大多數“官員希望將其刪除。（該措辭暗示美聯儲最終的下一步舉措將是更多降息，在4月份的會議上曾引來三張反對票。）會議紀要稱，對話包括了關於公眾將如何看待這份短得多的宣告的討論。"
+    },
+    {
+      "id": "4977506",
+      "time": "2026-07-09 02:09:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲會議紀要顯示，少數官員主張6月加息】美聯儲週三公佈上月議息會議紀要顯示，有少數美聯儲官員認為6月具備加息條件。此前市場並不知曉上月存在加息支持者。6月議息會議上，美聯儲官員最終投票維持利率不變。紀要提及，主張加息的官員雖認可加息的合理性，但仍支援“本次會議”維持現有利率目標區間。部分官員早在6月就提出加息可能性，這進一步印證美聯儲內部支援年內加息的聲音正在增多。"
+    },
+    {
+      "id": "4977505",
+      "time": "2026-07-09 02:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：（與美方）合作範圍可能涵蓋護衛艦、潛艇與輕型護衛艦。"
+    },
+    {
+      "id": "4977504",
+      "time": "2026-07-09 02:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：已與特朗普討論包括造船在內的國防工業聯合舉措。"
+    },
     {
       "id": "mkt:019f42e8-ad68-7aab-8cfc-09d60d6ae328",
       "time": "2026-07-09 02:06:12",
