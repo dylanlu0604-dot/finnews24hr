@@ -1,7 +1,40 @@
 {
   "date": "2026-07-09",
-  "count": 395,
+  "count": 399,
   "items": [
+    {
+      "id": "mkt:019f42fd-eec5-7aab-8cfc-553f170ef265",
+      "time": "2026-07-09 02:29:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed minutes: AI continues to drive real investment in data centers, high‑tech equipment and software】The Federal Reserve's June minutes said AI-driven expansion is sustaining real investment in data centers, high‑tech equipment and software. Existing indicators show Q2 real GDP growth remained robust. Real private domestic final expenditures — including PCE and private fixed investment — rebounded in Q2 and outpaced GDP; consumption was strong. April trade data showed continued strength in high‑tech goods flows and a marked rise in energy exports."
+    },
+    {
+      "id": "4977518",
+      "time": "2026-07-09 02:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗與卡達兩國外長通話時強調，需持續開展溝通協調，以防止地區局勢緊張升級。"
+    },
+    {
+      "id": "4977517",
+      "time": "2026-07-09 02:28:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗與卡達官員通電話，商討霍爾木茲海峽相關事件。"
+    },
+    {
+      "id": "4977516",
+      "time": "2026-07-09 02:27:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國副總統萬斯談H1-B簽證：大公司利用其牟取利益。"
+    },
     {
       "id": "te:markets:565393",
       "time": "2026-07-09 02:25:35",
