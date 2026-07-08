@@ -1,7 +1,80 @@
 {
   "date": "2026-07-08",
-  "count": 1229,
+  "count": 1237,
   "items": [
+    {
+      "id": "4975595",
+      "time": "2026-07-08 11:58:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達100億港元。"
+    },
+    {
+      "id": "4975594",
+      "time": "2026-07-08 11:58:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指一度上漲1.3%，觸及紀錄高位5,411.20點。"
+    },
+    {
+      "id": "te:economy:565080",
+      "time": "2026-07-08 11:58:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "HK 10Y Bond Yield Hits 14-month High — HK 10 Year Government Bond Yield increased to 3.43%, the highest since April 2025. Over the past 4 weeks, Hong Kong 10Y Bond Yield gained 7.50 basis points, and in the last 12 months, it increased 39.10 basis points."
+    },
+    {
+      "id": "4975593",
+      "time": "2026-07-08 11:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州茅臺捐贈1000萬元支援廣西洪澇災害救災行動】7月7日，記者獲悉，貴州茅臺酒股份有限公司決定向廣西慈善聯合總會捐贈1000萬元現金，用於支援廣西洪澇災害救災及災後恢復工作。（貴州日報）"
+    },
+    {
+      "id": "4975592",
+      "time": "2026-07-08 11:57:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國康富、國家電投在天津成立新能源投資合夥企業 出資額約14.2億】天眼查App顯示，近日，天津魯電新能源投資合夥企業（有限合夥）成立，執行事務合夥人為山東中景能投新能源開發有限公司，出資額約14.2億人民幣，經營範圍為以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由中國康富國際租賃股份有限公司、國電投（山東）新能源開發有限公司、山東中景能投新能源開發有限公司共同出資。"
+    },
+    {
+      "id": "4975591",
+      "time": "2026-07-08 11:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普當地時間7日在社交媒體上釋出“美軍打擊伊朗”影片。影片中，有地面設施被擊中，在夜色中升騰起火焰和濃煙。"
+    },
+    {
+      "id": "mkt:019f3fde-54b5-7aab-8ce0-179c1206cf64",
+      "time": "2026-07-08 11:56:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump posts video appearing to show US strikes on Iran】President Trump posted a video on social media on the 7th that appears to show U.S. strikes on Iran; the footage shows ground facilities hit with flames and heavy smoke at night. He offered no caption but retweeted the clip with a user post saying: \"Breaking news: large-scale attack against Iran.\" Earlier U.S. reports said Trump, attending a NATO summit in Turkey, approved the strike plan and issued strike orders."
+    },
+    {
+      "id": "4975590",
+      "time": "2026-07-08 11:55:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太龍股份：公司不直接開展物理AI相關產品研發與技術儲備】太龍股份7月8日在互動平臺表示，公司主營半導體分銷業務，不直接開展物理AI相關產品研發與技術儲備。"
+    },
     {
       "id": "4975589",
       "time": "2026-07-08 11:54:56",
