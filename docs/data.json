@@ -1,7 +1,216 @@
 {
-  "updated": "2026-07-09 00:39:20",
-  "count": 15884,
+  "updated": "2026-07-09 00:43:30",
+  "count": 15905,
   "items": [
+    {
+      "id": "mkt:019f429b-e473-7aab-8cf9-74f0d26eb315",
+      "time": "2026-07-09 00:42:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he will boost security for oil shipping."
+    },
+    {
+      "id": "4977367",
+      "time": "2026-07-09 00:41:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：西班牙一直很糟糕。"
+    },
+    {
+      "id": "mkt:019f429b-2328-7aab-8cf9-6e251b2bdb8b",
+      "time": "2026-07-09 00:41:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said any ongoing developments will be over soon."
+    },
+    {
+      "id": "4977366",
+      "time": "2026-07-09 00:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：別以為伊朗戰爭會再次爆發。"
+    },
+    {
+      "id": "mkt:019f429a-fe6c-7aab-8cf9-646f89b15038",
+      "time": "2026-07-09 00:41:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said he does not expect another war with Iran."
+    },
+    {
+      "id": "4977365",
+      "time": "2026-07-09 00:41:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：不尋求長期解決方案。"
+    },
+    {
+      "id": "4977364",
+      "time": "2026-07-09 00:41:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若我沒當總統，伊朗早就擁有核武器，而且已經把以色列滅了。"
+    },
+    {
+      "id": "4977363",
+      "time": "2026-07-09 00:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將保障石油領域安全。"
+    },
+    {
+      "id": "4977362",
+      "time": "2026-07-09 00:40:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：任何事情都會很快結束。"
+    },
+    {
+      "id": "4977361",
+      "time": "2026-07-09 00:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗擊沉了幾艘船，我們予以更猛烈的反擊。"
+    },
+    {
+      "id": "4977360",
+      "time": "2026-07-09 00:40:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普重申伊朗今晚可能遭受打擊。"
+    },
+    {
+      "id": "mkt:019f429a-4ec6-7aab-8cf9-583b79262a60",
+      "time": "2026-07-09 00:40:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said a new \"Air Force One\" aircraft from Qatar is en route to Europe."
+    },
+    {
+      "id": "mkt:019f429a-3e23-7aab-8cf9-54bfb4c9af10",
+      "time": "2026-07-09 00:40:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said satellites are monitoring activity at Iran's nuclear facilities."
+    },
+    {
+      "id": "4977359",
+      "time": "2026-07-09 00:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗發動攻擊，我們也予以反擊。"
+    },
+    {
+      "id": "mkt:019f4299-feb0-7aab-8cf9-4f0822d37614",
+      "time": "2026-07-09 00:40:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: If I were not U.S. president, Israel would not exist."
+    },
+    {
+      "id": "4977358",
+      "time": "2026-07-09 00:40:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：不認為與伊朗的戰爭會再次爆發。"
+    },
+    {
+      "id": "4977357",
+      "time": "2026-07-09 00:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：新飛機飛往那裡，以便士兵們能看到它。"
+    },
+    {
+      "id": "4977356",
+      "time": "2026-07-09 00:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：來自卡達的新空軍一號將前往歐洲的幾個基地。"
+    },
+    {
+      "id": "4977355",
+      "time": "2026-07-09 00:39:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：從卡達起飛的新“空軍一號”正飛往歐洲，我們將在那裡向民眾展示。"
+    },
+    {
+      "id": "4977354",
+      "time": "2026-07-09 00:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中央司令部：超20艘美軍艦艇正在中東水域巡邏】當地時間7月8日，美軍中央司令部在社交媒體發文稱，目前有20多艘美國海軍軍艦正在中東各水域巡邏。美軍中央司令部表示，上月美國海軍軍艦和軍機曾以密集編隊穿越阿拉伯海，展示美國軍力和火力。當天稍早時，美國總統特朗普稱，伊朗此前向霍爾木茲海峽商船發射無人機和導彈，美國已於昨晚“狠狠打擊了”伊朗，並“很可能於今晚再次狠狠打擊”。"
+    },
+    {
+      "id": "mkt:019f4299-0c2c-7aab-8cf9-42f16f81b274",
+      "time": "2026-07-09 00:39:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the US must not allow madmen to possess nuclear weapons."
+    },
+    {
+      "id": "4977353",
+      "time": "2026-07-09 00:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我不是總統，以色列就不會存在。"
+    },
+    {
+      "id": "4977352",
+      "time": "2026-07-09 00:39:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我在伊朗暗殺名單上排名第一。"
+    },
+    {
+      "id": "4977351",
+      "time": "2026-07-09 00:39:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 所有事我都預料到了，我說的全都應驗了。 我就是憑這點贏下選舉的。"
+    },
     {
       "id": "mkt:019f4298-7003-7aab-8cf9-3ffb973c5e2d",
       "time": "2026-07-09 00:38:34",
@@ -145073,36 +145282,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Drop from Records — European stocks eased from records on Wednesday as a fresh pullback for chip producers offset support from an improving macroeconomic backdrop. The Euro STOXX 50 dropped 0.6% to 5, and the STOXX Europe 600 fell 0.4% to 640. ASML and Infineon fell 4.6% each, tracking the AI infrastructure sector globally amid fresh uncertainty on whether the historical rally for chip producers has been overdone. Other companies with exposure to data centers and their power declined, with Siemens, Schneider, and Siemens Energy dropping between 3.1% and 1.5%. In turn, the software side rallied on respite from US hyperscaler giants. Also, banks were mostly higher as softer-than-expected inflation in the Eurozone limited expectations of another rate hike by the ECB this year. UniCredit added 0.6% and Deutsche Bank jumped 0.4%. The bloc's inflation rate fell to 2.8%, below expectations of 3%, and the core gauged fell to 2.4%."
-    },
-    {
-      "id": "mkt:019f1e8e-168e-7aab-8c63-93a6e388bd6e",
-      "time": "2026-07-02 00:40:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "MU.O"
-      ],
-      "text": "【Micron to inject $250 mln into 'Trump account'; Trump says policies a 'big success'】U.S. President Trump posted on social media that Micron Technology (MU.O) will invest $250 mln into a 'Trump account'. Trump credited CEO Sanjay Mehrotra for the move, called it a historic — and reportedly the largest — corporate investment of its kind, and said it will directly benefit U.S. workers and families, framing the move as evidence his policies are succeeding."
-    },
-    {
-      "id": "4965796",
-      "time": "2026-07-02 00:39:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "據沙烏地阿拉伯阿拉比亞電視臺：以色列對黎巴嫩南部的納布提亞上方進行空襲。"
-    },
-    {
-      "id": "mkt:019f1e8c-aaf0-7aab-8c63-898099443c1a",
-      "time": "2026-07-02 00:39:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Al Arabiya TV reports Israel carried out airstrikes over Nabatieh in southern Lebanon."
     }
   ]
 }
