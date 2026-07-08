@@ -1,7 +1,53 @@
 {
   "date": "2026-07-09",
-  "count": 629,
+  "count": 634,
   "items": [
+    {
+      "id": "mkt:019f43bd-17c2-7aab-8cff-60f044f6b764",
+      "time": "2026-07-09 05:58:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. officials said the U.S. Treasury, working with the U.S. Trade Representative and Commerce Department, will deliver to President Trump in coming days a list of Spanish products that could be subject to trade bans."
+    },
+    {
+      "id": "4977645",
+      "time": "2026-07-09 05:58:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國一名官員表示，美國財政部將協同美國貿易代表辦公室、商務部，於未來數日向特朗普提交一份清單，列明可能實施貿易禁運的西班牙商品。"
+    },
+    {
+      "id": "mkt:019f43bb-8a85-7aab-8cff-5f4bd878d820",
+      "time": "2026-07-09 05:56:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reports explosions were heard in the southeastern Iranian city of Shahre."
+    },
+    {
+      "id": "4977644",
+      "time": "2026-07-09 05:56:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息，伊朗東南部城市沙赫爾傳來爆炸聲。"
+    },
+    {
+      "id": "te:markets:565410",
+      "time": "2026-07-09 05:54:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.35% — Palladium decreased 5.35% to 1213 USD/t.oz"
+    },
     {
       "id": "4977643",
       "time": "2026-07-09 05:54:28",
