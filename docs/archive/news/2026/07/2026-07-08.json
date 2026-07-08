@@ -1,7 +1,100 @@
 {
   "date": "2026-07-08",
-  "count": 2686,
+  "count": 2696,
   "items": [
+    {
+      "id": "4976715",
+      "time": "2026-07-08 19:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英媒：美重拾“購島”立場 英或參與“調和”】英國《每日電訊報》7日援引知情官員的話報道，美國總統特朗普已放棄透過外交手段獲得丹麥自治領地格陵蘭島，重拾“強買”立場。報道同時披露，英國政府官員或參與調和，勸說特朗普放棄強硬立場。（新華社）"
+    },
+    {
+      "id": "te:economy:565283",
+      "time": "2026-07-08 19:32:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Albania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Albania Annual Inflation at 2024-Highs — Albania’s annual inflation rate accelerated to 3.2% in June 2026, reaching its highest level since January 2024, up from 3.0% in May. The increase was mainly driven by stronger price growth in food and non-alcoholic beverages (3.0% vs. 2.2%) and housing and utilities (4.8% vs. 4.2%). Inflation also picked up for restaurants and hotels (3.3% vs. 3.0%), alcoholic beverages and tobacco (3.5% vs. 3.4%), recreation and culture (6.1% vs. 4.2%), education (2.3% vs. 2.1%), and health (1.7% vs. 1.6%). Meanwhile, price growth slowed for transport (3.2% vs. 7.8%), furnishings and household equipment (2.7% vs. 2.8%), and communications (0.6% vs. 0.5%), while clothing and footwear prices fell further (-0.9% vs. -0.5%). On a monthly basis, consumer prices declined 0.1% in June, extending the fall from 0.04% in May."
+    },
+    {
+      "id": "4976714",
+      "time": "2026-07-08 19:32:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準政府債券收益率收於6.7636%；前一交易日收盤價為6.6958%。"
+    },
+    {
+      "id": "te:markets:565280",
+      "time": "2026-07-08 19:31:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Fall Further — Futures tracking US stock indices fell on Wednesday, extending declines from yesterday as higher energy prices added to a deteriorating macroeconomic backdrop. Contracts for the S&P 500 and the Dow fell over 1% and those for the Nasdaq 100 dropped 1.6%. Treasury yields rose after President Trump invalidated the ceasefire with Iran following strikes by both sides, driving oil prices to surge and markets to reconsider inflationary risks. Insights on the Fed's willingness to raise interest rates could be uncovered with minutes of the FOMC's June meeting to be released shortly. Credit-sensitive sectors fell, with banks and industrials down premarket. Chips also extended their rout on concerns that hyperscalers will be forced to slow spending in AI infrastructure, while reports that major Chinese companies are starting chip projects hampered the outlook on their market shares. Micron, Sandisk, and Nvidia were sharply lower premarket, while Meta, Amazon, and Microsoft fell up to 2%."
+    },
+    {
+      "id": "te:markets:565279",
+      "time": "2026-07-08 19:31:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Futures Near 2-Month Highs — Sugar futures in the US traded above 15 US cents, the highest level since mid-May, partly supported by higher oil prices that encourage cane diversion to ethanol production and could tighten supply of the sweetener. At the same time, concerns over global supplies persisted, with a strengthening El Niño threatening crop production in key growing regions. The market continued to monitor the development of the crop in top producer Brazil and also India, where the rainfall deficit during the monsoon season maintained uncertainties about production. The latest data showed sugar production in Brazil's key Center-South region fell about 3% yoy to 2.31 million tons in the first half of June."
+    },
+    {
+      "id": "4976711",
+      "time": "2026-07-08 19:31:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將藉助美洲開發銀行 5.5 億美元擔保，向阿根廷提供最高 12 億美元貸款。"
+    },
+    {
+      "id": "4976710",
+      "time": "2026-07-08 19:30:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債實際收益率上漲7個基點至1.79%，為2009年以來最高水平。"
+    },
+    {
+      "id": "4976709",
+      "time": "2026-07-08 19:30:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞銀建議投資者買入ADR、同時做空SK海力士韓國上市股票】由於韓國上市股票轉換為ADR受到限制，套利交易可能受限，或導致ADR較普通股出現溢價交易。瑞銀集團在最新發布的報告中表示，建議投資者買入ADR、同時做空SK海力士韓國上市股票，理由是ADR掛牌後大機率享有溢價，而折價風險極低。瑞銀的銷售和交易部門在給客戶的報告中指出，對於對沖基金之類的投資者來說，這些ADR可能比韓國股票更具吸引力，因為持有效率更高、成本更低。此外，部分此前無法將韓國上市股票納入投資範圍的全球基金經理，將可透過美股市場進行配置SK海力士。瑞銀在報告中毫不掩飾對這一策略的看好：“從第一天開始就做多ADR並做空韓股，沒什麼可猶豫的。”（券商中國）"
+    },
+    {
+      "id": "4976708",
+      "time": "2026-07-08 19:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：萊茵金屬在護衛艦專案受挫後有望贏得德國鐳射武器合同。"
+    },
+    {
+      "id": "4976707",
+      "time": "2026-07-08 19:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：西班牙對外銀行、桑坦德銀行將透過世界銀行擔保向阿根廷提供至多 20 億美元貸款。"
+    },
     {
       "id": "te:markets:565278",
       "time": "2026-07-08 19:29:07",
