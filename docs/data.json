@@ -1,7 +1,230 @@
 {
-  "updated": "2026-07-08 21:16:06",
-  "count": 15993,
+  "updated": "2026-07-08 21:20:12",
+  "count": 15996,
   "items": [
+    {
+      "id": "mkt:019f41e1-e6cb-7aab-8cf0-d10895aa1f53",
+      "time": "2026-07-08 21:19:11",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact mixed"
+      ],
+      "text": "President Trump said the US does not have that many Patriot missiles and needs to reserve some for itself, and he said he believes Ukraine can quickly produce Patriot missiles."
+    },
+    {
+      "id": "4976975",
+      "time": "2026-07-08 21:18:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "國際貨幣基金組織官員：在高度不確定性環境下，央行溝通至關重要。"
+    },
+    {
+      "id": "4976974",
+      "time": "2026-07-08 21:18:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及烏克蘭衝突與“愛國者”導彈：我們自己也需要這些導彈。"
+    },
+    {
+      "id": "mkt:019f41e1-7d3e-7aab-8cf0-cecfa3edae87",
+      "time": "2026-07-08 21:18:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Russia would be satisfied with the final agreement."
+    },
+    {
+      "id": "4976973",
+      "time": "2026-07-08 21:18:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：愛國者導彈的生產許可證不會花太長時間。"
+    },
+    {
+      "id": "te:economy:565298",
+      "time": "2026-07-08 21:18:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Poland Holds Key Rate as Expected — The National Bank of Poland kept its reference policy rate unchanged at 3.75% at its July 2026 meeting, in line with market expectations. The lombard and deposit rates were also maintained at 4.25% and 3.25%, respectively. This marked the fourth consecutive meeting with rates held at their lowest level since 2022, as inflationary pressures continued to ease across Eastern European economies. Headline inflation slowed to 2.3% in June 2026, its lowest level since before the start of Middle East tensions, reaching the midpoint of the central bank’s target range. Meanwhile, economic growth moderated in the first quarter of 2026, expanding 3.5% compared with 4.1% in the previous quarter, amid weaker domestic demand and slower gross fixed investment growth."
+    },
+    {
+      "id": "mkt:019f41e0-f009-7aab-8cf0-c0da453cc3d3",
+      "time": "2026-07-08 21:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he does not think Russia will attack Ukraine again after the conflict ends."
+    },
+    {
+      "id": "mkt:019f41e0-c08a-7aab-8cf0-bfc4fb6fd5e0",
+      "time": "2026-07-08 21:17:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said on the Ukraine war he would pursue some form of security arrangement."
+    },
+    {
+      "id": "4976972",
+      "time": "2026-07-08 21:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約呂特：我們認為，本聯盟比以往任何時候都更加團結。"
+    },
+    {
+      "id": "4976971",
+      "time": "2026-07-08 21:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭衝突：將推出某種形式的一攬子安全援助計劃。"
+    },
+    {
+      "id": "4976970",
+      "time": "2026-07-08 21:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭衝突：如果能達成合適的協議，我們會向歐洲提供幫助。"
+    },
+    {
+      "id": "4976969",
+      "time": "2026-07-08 21:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：防務開支問題曾引發不滿，而這位美國總統得以解決了這一問題。"
+    },
+    {
+      "id": "mkt:019f41e0-34bd-7aab-8cf0-b64ba29358f6",
+      "time": "2026-07-08 21:17:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Putin hopes to meet Zelensky in Moscow."
+    },
+    {
+      "id": "mkt:019f41e0-33d9-7aab-8cf0-ad156ab81ba4",
+      "time": "2026-07-08 21:17:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "President Trump said the United States will commit to providing security assurances to Ukraine."
+    },
+    {
+      "id": "4976968",
+      "time": "2026-07-08 21:17:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將著手製定烏克蘭安全保障方案。"
+    },
+    {
+      "id": "mkt:019f41df-d945-7aab-8cf0-a427aaf394b2",
+      "time": "2026-07-08 21:16:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【World Gold Council: Global gold ETFs net inflows $8.0 bln in 1H】World Gold Council report: listed funds across regions saw continued outflows in June (-$8.9 bln), but strong Asian demand left global gold ETFs with net inflows of $8.0 bln in 1H. Global gold ETF assets under management were $526 bln at end-June, down 6% in 1H mainly due to lower gold prices. Total ETF holdings rose 18 tonnes in 1H to 4,047 tonnes. Trading volumes eased in June, though 1H average daily turnover hit a record $488 bln."
+    },
+    {
+      "id": "4976967",
+      "time": "2026-07-08 21:16:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：我始終認為特朗普和美國對北約做出的承諾是完全堅定的。"
+    },
+    {
+      "id": "4976966",
+      "time": "2026-07-08 21:16:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世界黃金協會：上半年全球黃金ETF整體淨流入80億美元】世界黃金協會報告顯示，6月全球各地區上市基金持續流出（-89億美元），但得益於亞洲市場的強勁表現，上半年全球黃金ETF整體仍錄得80億美元的淨流入。截至6月底，全球黃金ETF資產管理規模達5260億美元，上半年下降6%，主要因金價走低所致；總持倉量上半年增加18噸，至4047噸。黃金市場交易量在6月有所回落，但上半年日均交易額仍創下4880億美元的歷史新高。"
+    },
+    {
+      "id": "4976965",
+      "time": "2026-07-08 21:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：普京希望在莫斯科會面。"
+    },
+    {
+      "id": "4976964",
+      "time": "2026-07-08 21:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家地方共建人形機器人創新中心將釋出與華為共建的具身智慧實訓場樣板點】國家地方共建人形機器人創新中心（以下簡稱 “國地中心”）瞭解到，國地中心已完成對全國首個異構人形機器人訓練場——麒麟訓練場的改造升級，聯合華為共同建設了國內首個國產化具身智慧實訓場樣板點。這一樣板點依託國產算力底座，搭載全球領先的具身智慧VLA大模型，各項效能指標均位居行業前列。樣板點將在2026世界人工智慧大會上釋出。"
+    },
+    {
+      "id": "4976963",
+      "time": "2026-07-08 21:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書呂特：我在32位領導人參會的會場中感受到了極強的團結共識。"
+    },
+    {
+      "id": "4976962",
+      "time": "2026-07-08 21:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "海運資料機構克普勒（Kpler）統計，週二全天海峽雙向通航船舶共計41艘。"
+    },
+    {
+      "id": "mkt:019f41df-349b-7aab-8cf0-98d549ef876a",
+      "time": "2026-07-08 21:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he hopes to convene a meeting on Ukraine as soon as possible."
+    },
+    {
+      "id": "mkt:019f41de-bc94-7aab-8cf0-9341ef4b64b7",
+      "time": "2026-07-08 21:15:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Ukrainian President Zelenskiy said he believes Putin's forces are losing the initiative."
+    },
+    {
+      "id": "mkt:019f41de-9da0-7aab-8cf0-8b7ebdbe0b8d",
+      "time": "2026-07-08 21:15:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte says NATO will invest €27 billion to upgrade fuel supply lines."
+    },
     {
       "id": "4976961",
       "time": "2026-07-08 21:14:53",
@@ -146056,210 +146279,6 @@
         "MKT News"
       ],
       "text": "Fed Chair Kevin Warsh said progress in assessing the effects of productivity, data and the inf framework would provide policymakers experience to draw on."
-    },
-    {
-      "id": "4965400",
-      "time": "2026-07-01 21:19:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：如果我們在研究生產率影響、資料及通脹框架方面取得進展，這將是值得我們學習的內容。"
-    },
-    {
-      "id": "4965399",
-      "time": "2026-07-01 21:19:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：目前風險比幾周前更為均衡。"
-    },
-    {
-      "id": "4965398",
-      "time": "2026-07-01 21:18:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：當前通脹與增長兩端的風險已趨於均衡。"
-    },
-    {
-      "id": "mkt:019f1dd4-edd2-7aab-8c5a-615251a96b30",
-      "time": "2026-07-01 21:18:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB President Lagarde said risks are more balanced than a few weeks ago."
-    },
-    {
-      "id": "mkt:019f1dd4-d2c3-7aab-8c5a-5c5a64999e74",
-      "time": "2026-07-01 21:18:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD"
-      ],
-      "text": "GBP/USD briefly rebounded about 20 pips to 1.3233."
-    },
-    {
-      "id": "mkt:019f1dd4-d207-7aab-8c5a-5304b5b130fd",
-      "time": "2026-07-01 21:18:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said expanding supply will have a significant impact on policy."
-    },
-    {
-      "id": "4965397",
-      "time": "2026-07-01 21:18:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：供給擴張將對政策產生重大影響。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790526226",
-      "time": "2026-07-01 21:17:59",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席：7月FOMC會議將展開一場充分的內部討論】美聯儲主席沃什稱，7月FOMC會議將展開一場充分的內部討論。"
-    },
-    {
-      "id": "mkt:019f1dd4-22bf-7aab-8c5a-4c65b37e23f3",
-      "time": "2026-07-01 21:17:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the artificial intelligence boom is particularly pronounced in the United States and called it an exciting, significant moment for central bankers."
-    },
-    {
-      "id": "4965396",
-      "time": "2026-07-01 21:17:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：當下對央行從業者而言，是充滿機遇、影響深遠的時代。"
-    },
-    {
-      "id": "mkt:019f1dd3-e19d-7aab-8c5a-407c9f3a0aa0",
-      "time": "2026-07-01 21:17:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed chair Kevin Warsh said whether AI is inflationary should be left to central banks to decide."
-    },
-    {
-      "id": "mkt:019f1dd3-de0c-7aab-8c5a-3c7a29ff4d2a",
-      "time": "2026-07-01 21:17:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL signs strategic cooperation with J&T Express】On June 30, CATL signed a strategic cooperation agreement with J&T Express to scale deployment of new-energy heavy trucks, light logistics vehicles and electric warehouse forklifts. CATL will supply more than 5,000 heavy trucks in J&T’s fleet with full-suite swappable battery packs, swap-station equipment and operations & maintenance services."
-    },
-    {
-      "id": "4965395",
-      "time": "2026-07-01 21:17:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【野村證券團隊：斷言晶片股見頂還為時過早】野村證券團隊表示，現在斷言晶片股見頂還為時過早。他們認為晶片股的上漲勢頭將繼續，原因有二：一是那些要麼大幹一場要麼出局的超大規模資料中心運營商在2027年仍無法停止投入，部分理由是儲存晶片成本不斷上漲；二是資料中心建設計劃正在加速推進。該團隊稱近期晶片價格回撥是“健康”的，但同時警告稱，市場尚未消化未來可能出現的一些風險和短缺。"
-    },
-    {
-      "id": "4965394",
-      "time": "2026-07-01 21:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【野村反駁“半導體見頂論”：“史詩級缺口”將至 漲價與盈利上修仍是最大催化劑】野村警告，AI半導體週期遠未見頂，2026年下半年或迎“史詩級”供應鏈錯配。隨著雲廠商資本開支援續擴張，先進封裝、PCB、CCL等零部件短缺將推動漲價與盈利上修。儘管臺積電正激進擴張其晶圓級封裝產能，但真正的供應瓶頸將轉移至晶圓級基板（WoS）以及印刷電路板（PCB）和覆銅板（CCL）等較小零部件。這一結構性短缺將直接加劇短期市場的價格波動，但也印證了本輪週期的長期可持續性。"
-    },
-    {
-      "id": "mkt:019f1dd3-6784-7aab-8c5a-340e006735ac",
-      "time": "2026-07-01 21:17:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed official repeats June remarks: criticizes forward guidance, avoids commenting on economic outlook】In the panel’s first response the official echoed his June rate-decision remarks: he reiterated criticism of forward guidance—part of his push for institutional change—but declined to provide any detail on his view of the current economic outlook. Markets will watch for any further economic commentary."
-    },
-    {
-      "id": "4965393",
-      "time": "2026-07-01 21:16:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什： 人工智慧是否會加劇通脹應由央行決定。人工智慧熱潮率先在美國顯現，且勢頭十分強勁。"
-    },
-    {
-      "id": "4965392",
-      "time": "2026-07-01 21:16:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：人工智慧熱潮在美國表現得最為突出。"
-    },
-    {
-      "id": "mkt:019f1dd3-1544-7aab-8c5a-2f7901df9690",
-      "time": "2026-07-01 21:16:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said he hopes the working group's findings will benefit the public."
-    },
-    {
-      "id": "4965391",
-      "time": "2026-07-01 21:16:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什發表講話之際，彭博美元指數觸及日內高點。"
-    },
-    {
-      "id": "em:qqyh_jndyh:202607013790525994",
-      "time": "2026-07-01 21:16:28",
-      "tags": [
-        "央行",
-        "加拿大央行"
-      ],
-      "text": "【加拿大央行行長：通脹明顯高於目標】加拿大央行行長麥克勒姆表示，通脹明顯高於目標；加拿大經濟疲軟。"
-    },
-    {
-      "id": "mkt:019f1dd2-e2b7-7aab-8c5a-2466817323d4",
-      "time": "2026-07-01 21:16:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed chair Kevin Warsh said monetary policy can produce spillover effects across our economies."
-    },
-    {
-      "id": "4965390",
-      "time": "2026-07-01 21:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "格雷媒體將以5000萬美元收購美國精神媒體旗下電視臺。"
     }
   ]
 }
