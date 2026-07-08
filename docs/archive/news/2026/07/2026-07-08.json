@@ -1,7 +1,125 @@
 {
   "date": "2026-07-08",
-  "count": 631,
+  "count": 644,
   "items": [
+    {
+      "id": "4975176",
+      "time": "2026-07-08 08:04:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌1%，報8,719.90點。"
+    },
+    {
+      "id": "mkt:019f3f09-338d-7aab-8cd9-601a44518eda",
+      "time": "2026-07-08 08:03:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said it will strengthen its foreign-exchange monitoring system to address volatility during overnight trading."
+    },
+    {
+      "id": "4975175",
+      "time": "2026-07-08 08:03:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越疆：上半年具身智慧出貨金額超過4000萬元】越疆7月8日在港交所公告稱，截至6月30日，公司累計拓展具身智慧客戶231家，客戶儲備基數充足，已完整覆蓋訂單簽署、送樣驗證、小規模交付及規模使用等商業轉化階段。1-6月，公司具身智慧出貨金額超過4000萬元人民幣，同比保持高速增長，其中覆蓋工業製造客戶近100家，為行業內工業客戶覆蓋最廣的企業之一。"
+    },
+    {
+      "id": "4975174",
+      "time": "2026-07-08 08:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將於7月底公佈韓元國際化路線圖。"
+    },
+    {
+      "id": "4975173",
+      "time": "2026-07-08 08:02:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將加強對韓元的24小時監測系統。"
+    },
+    {
+      "id": "mkt:019f3f08-8ff4-7aab-8cd9-5a7b7474007d",
+      "time": "2026-07-08 08:02:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said it will closely monitor risk factors tied to stock-market volatility and will adjust government bond issuance size to maintain bond-market stability."
+    },
+    {
+      "id": "4975172",
+      "time": "2026-07-08 08:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌1%。"
+    },
+    {
+      "id": "te:economy:565001",
+      "time": "2026-07-08 08:02:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Stays at Over 5-Year High — Japan’s bank lending rose 5.7% year-on-year in June 2026, falling slightly short of market forecasts for a 5.8% increase and matching May’s pace. The reading remained the strongest since March 2021, with outstanding loans at major, regional, and shinkin banks reaching JPY 676.1 trillion, up from JPY 670.8 trillion in May. Lending growth at major and regional banks accelerated to 6.3% from 6.2%, driven by stronger credit expansion at major banks, where outstanding loans rose 8.7% from 8.6%. Regional banks also saw lending growth edge up to 4.3% from 4.2%, as Regional Banks I accelerated to 4.7% from 4.6%, while Regional Banks II held steady at 2.4%. Meanwhile, lending by shinkin banks, which primarily serve small businesses and local communities, was unchanged at 1.7% year-on-year."
+    },
+    {
+      "id": "4975171",
+      "time": "2026-07-08 08:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：建議關注頭部算力租賃廠商】銀河證券指出，伴隨AI推理算力需求爆發，token工廠商業模式提速，與傳統的算力租賃相比，token工廠更加強調與下游大模型推理需求的繫結，定價從“算力資源與時長”逐漸轉向“token產出和單位成本”，上游算力基礎設施更加能參與到下游模型廠商的價值分配，強化了上游算力基礎設施環節的議價能力，並且能共享token經濟時代紅利。銀河證券認為，算力租賃廠商目前與大模型廠商嘗試探索“token工廠”合作模式，將從算力租賃的底層“賣資源”的模式逐漸向“賣產出”的模式演變，算力租賃廠商將提供Maas服務，透過採用token分成的盈利模式，共享token爆發的時代紅利，有望提升算力租賃廠商的利潤率，估值中樞有望進一步提升，建議關注頭部算力租賃廠商。"
+    },
+    {
+      "id": "4975170",
+      "time": "2026-07-08 08:01:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：將調整債券發行以維護債市穩定。"
+    },
+    {
+      "id": "mkt:019f3f07-c136-7aab-8cd9-50f47ca2d052",
+      "time": "2026-07-08 08:01:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI opened down 232.32 points, or 3.03%, at 7,423.99 on Wednesday, July 8. SK Hynix and Samsung Electronics were each down 4%."
+    },
+    {
+      "id": "4975169",
+      "time": "2026-07-08 08:01:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3.3%，至7407.32。"
+    },
+    {
+      "id": "te:economy:565000",
+      "time": "2026-07-08 08:01:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Japan Current Account Surplus Rises Despite Forecast Miss — Japan’s current account surplus increased to JPY 3,968.3 billion in May 2026 from JPY 3,320.5 billion in the same month a year earlier, though it fell short of market expectations of JPY 4,121 billion. The goods account swung to a marginal surplus of JPY 0.07 billion from a JPY 497.1 billion deficit, as export growth (14.7%) outpaced import growth (8.1%). Meanwhile, the primary income surplus increased to JPY 4,275.6 billion from JPY 4,180.2 billion. The secondary income deficit narrowed to JPY 304.0 billion from JPY 493.5 billion. By contrast, the services account slipped into a marginal deficit of JPY 0.1 billion, reversing from a JPY 130.9 billion surplus a year earlier."
+    },
     {
       "id": "4975168",
       "time": "2026-07-08 08:01:19",
