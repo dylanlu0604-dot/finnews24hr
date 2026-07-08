@@ -1,7 +1,1714 @@
 {
   "date": "2026-07-08",
-  "count": 3302,
+  "count": 3482,
   "items": [
+    {
+      "id": "4977212",
+      "time": "2026-07-08 23:25:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：這份於伊斯蘭堡擬定、盧塞恩簽署的美伊協議仍處在60天有效期內，協議框架下安排的各項會談將如期舉行，各方應保持冷靜、剋制與耐心。"
+    },
+    {
+      "id": "te:economy:565348",
+      "time": "2026-07-08 23:24:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 6-week High — Germany 10 Year Government Bond Yield increased to 3.09%, the highest since May 2026. Over the past 4 weeks, Germany 10Y Bond Yield gained 2.81 basis points, and in the last 12 months, it increased 45.28 basis points."
+    },
+    {
+      "id": "4977211",
+      "time": "2026-07-08 23:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：伊朗襲擊美軍基地的行為違反了德黑蘭方面自身簽署的協議，伊朗發起此類襲擊實屬不當。"
+    },
+    {
+      "id": "mkt:019f4254-db8e-7aab-8cf6-c12f6ff86637",
+      "time": "2026-07-08 23:24:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "US benchmark indexes the S&P 500, Dow Jones Industrial Average and Nasdaq Composite each fell more than 1% intraday."
+    },
+    {
+      "id": "4977210",
+      "time": "2026-07-08 23:24:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超1%】道指跌1.52%，現報52118.762點；納指跌1.04%，現報25550.914點；標普500指數跌1.01%，現報7428.340點。"
+    },
+    {
+      "id": "4977209",
+      "time": "2026-07-08 23:24:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續跌勢，標普500指數下跌1.00%。"
+    },
+    {
+      "id": "4977208",
+      "time": "2026-07-08 23:24:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與特朗普會面後表示：我們討論了推動和平程序的構想。"
+    },
+    {
+      "id": "4977207",
+      "time": "2026-07-08 23:24:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市擴大跌幅，納斯達克指數下跌1.00%。"
+    },
+    {
+      "id": "mkt:019f4254-2bc6-7aab-8cf6-bec7976a8c27",
+      "time": "2026-07-08 23:24:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin: Russia's Ministry of Agriculture says fuel supplies are not a problem."
+    },
+    {
+      "id": "4977206",
+      "time": "2026-07-08 23:23:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報25559.864點；道指跌1.48%，現報52142.551點；標普500指數跌0.97%，現報7431.160點。"
+    },
+    {
+      "id": "mkt:019f4253-eb67-7aab-8cf6-b5b0d4fb0cb9",
+      "time": "2026-07-08 23:23:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO secretary-general says the alliance is coordinating with Gulf states and is prepared to provide assistance pending an alliance decision."
+    },
+    {
+      "id": "mkt:019f4253-d3f3-7aab-8cf6-a96daf56bf9d",
+      "time": "2026-07-08 23:23:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "NATO secretary-general said Russia's economy is under growing pressure and Ukraine has successfully struck deep targets inside Russia."
+    },
+    {
+      "id": "4977205",
+      "time": "2026-07-08 23:23:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：農業部稱燃料供應沒有問題。"
+    },
+    {
+      "id": "mkt:019f4253-b4f5-7aab-8cf6-a4ec47f380e5",
+      "time": "2026-07-08 23:23:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "NATO secretary-general says Europe needs to boost oil refining capacity."
+    },
+    {
+      "id": "4977204",
+      "time": "2026-07-08 23:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：（敵人的攻擊）是徒勞的，俄羅斯的能源系統是世界上最強大的。"
+    },
+    {
+      "id": "mkt:019f4253-2048-7aab-8cf6-9ae298267015",
+      "time": "2026-07-08 23:22:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian President Putin said Russia's energy system is the most powerful in the world."
+    },
+    {
+      "id": "mkt:019f4253-1497-7aab-8cf6-96e14d142d7c",
+      "time": "2026-07-08 23:22:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Alipay Huabei repayment page inaccessible, users report】On the evening of July 8 users reported Alipay's Huabei repayment page could not be opened. Some users saw messages saying \"due to institutional maintenance, bills temporarily unavailable\" or \"page encountered a problem, try again later,\" with a header noting \"current number of queries too high.\" Alipay has not issued an official statement; customer service said it has received reports and is handling the issue urgently."
+    },
+    {
+      "id": "te:markets:565347",
+      "time": "2026-07-08 23:22:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Surges Over 13% — Heating oil futures in the US surged over 13% to $3.75 per gallon on Wednesday, the highest in over one month, amid mounting threats to supply. Iran and the US exchanged a wave of attacks after the IRGC struck a tanker crossing the Strait of Hormuz, prompting President Trump to negate the validity of the current ceasefire after multiple tankers turned back from crossing the chokepoint. The increase in crude oil prices was exacerbated by soaring crack spreads in distillate fuel as tight refining capacity drove energy companies to hike sales prices. On top of that, major diesel producer Russia announced it would halt exports and shift to an importer, as higher crude prices exacerbated the series of Ukrainian strikes on the country's largest refineries. Heating oil prices had dropped sharply since peaking at a record high of $4.7 after in late March, but recently rebounded to trade over 40% above levels from before the conflict."
+    },
+    {
+      "id": "mkt:019f4252-b61c-7aab-8cf6-8afe47097b30",
+      "time": "2026-07-08 23:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said adversaries are attempting to harm Russia's economy and foment social tensions."
+    },
+    {
+      "id": "4977203",
+      "time": "2026-07-08 23:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：敵人正試圖損害經濟，在社會中製造緊張局勢。"
+    },
+    {
+      "id": "4977202",
+      "time": "2026-07-08 23:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安對美伊諒解備忘錄持樂觀態度，同時警告各方切勿採取挑釁行為。"
+    },
+    {
+      "id": "4977201",
+      "time": "2026-07-08 23:21:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：特朗普對我們說“現場洋溢著友好融洽的氛圍”。我認為，這番收尾發言恰到好處，為本屆北約峰會畫上句號。在媒體眼中，這場峰會開局時形勢頗為棘手。"
+    },
+    {
+      "id": "4977200",
+      "time": "2026-07-08 23:21:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：理查德·布盧姆菲爾德因五項內幕交易罪名被起訴。"
+    },
+    {
+      "id": "4977199",
+      "time": "2026-07-08 23:21:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支付寶花唄崩了】7月8日晚，有使用者在社交媒體上稱在支付寶花唄還款時發現還款頁面無法正常開啟。有使用者花唄頁面顯示：因機構維護，賬單暫時無法檢視。測試發現，花唄賬單頁面無法正常顯示，並彈出提示“頁面遇到一點問題，待會兒來試試”，頂部同步標註“當前查詢人數過多”。截至發稿，支付寶官方暫未對此作出回應。記者詢問支付寶客服獲回應稱，目前用反饋的問題支付寶已收到並在緊急處理中，對由此帶來的不便深表歉意。（第一財經）"
+    },
+    {
+      "id": "4977198",
+      "time": "2026-07-08 23:19:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌逾1%。"
+    },
+    {
+      "id": "4977197",
+      "time": "2026-07-08 23:19:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "美銀下調2026年黃金均價預測，但看好長期上行空間。"
+    },
+    {
+      "id": "4977196",
+      "time": "2026-07-08 23:18:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%，創盤中新低。"
+    },
+    {
+      "id": "4977195",
+      "time": "2026-07-08 23:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙IBEX35指數日內大跌3.00%，現報19050.36點。"
+    },
+    {
+      "id": "mkt:019f424e-9199-7aab-8cf6-81741e511211",
+      "time": "2026-07-08 23:17:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spain's IBEX 35 index fell 3.00% intraday to 19,050.36 points."
+    },
+    {
+      "id": "mkt:019f424e-6f16-7aab-8cf6-7d3973885e90",
+      "time": "2026-07-08 23:17:44",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq 100 loss widened to 1%, marking an intraday low."
+    },
+    {
+      "id": "4977194",
+      "time": "2026-07-08 23:17:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長卡爾曼表示，政府沒有設定匯率目標。"
+    },
+    {
+      "id": "4977193",
+      "time": "2026-07-08 23:17:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲8%，現報80.10美元/桶。"
+    },
+    {
+      "id": "4977192",
+      "time": "2026-07-08 23:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：考慮將敘利亞從支援恐怖主義國家名單中移除。"
+    },
+    {
+      "id": "mkt:019f424d-83cb-7aab-8cf6-771e8581f1f2",
+      "time": "2026-07-08 23:16:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,030/oz, down 1.91% on the day."
+    },
+    {
+      "id": "4977191",
+      "time": "2026-07-08 23:16:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4030美元/盎司，日內跌1.88%。"
+    },
+    {
+      "id": "4977190",
+      "time": "2026-07-08 23:16:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌2.84%。"
+    },
+    {
+      "id": "4977188",
+      "time": "2026-07-08 23:15:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普將收到一份由美國財政部、貿易代表辦公室及商務部擬定的西班牙商品清單，用於考量實施禁運事宜。"
+    },
+    {
+      "id": "te:economy:565345",
+      "time": "2026-07-08 23:15:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Exports Jump Rise in May — Colombia's exports rose 19.2% year-on-year to USD 5.19 billion in May 2026 after increasing 11.7% in April. The gain was driven mainly by a 33.3% rise in fuel and mining exports, reflecting a 32.4% increase in shipments of petroleum and petroleum products. Agricultural, food, and beverage exports edged up 0.7%, supported by higher exports of cut flowers and foliage (24.9%) and coffee extracts, essences, and concentrates (89.2%). Manufactured exports rose 0.2%, led by chemicals and related products (8.0%) and machinery and transport equipment (12.6%). Exports from other sectors surged 67.0%, largely due to a sharp increase in non-monetary gold shipments. Meanwhile, crude oil exports totaled 11.4 million barrels, down 18.1% from a year earlier."
+    },
+    {
+      "id": "mkt:019f424c-42ce-7aab-8cf6-6d1b1bfbbba7",
+      "time": "2026-07-08 23:15:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The Wall Street Journal reports Trump will receive a list of Spanish goods to consider imposing an embargo on."
+    },
+    {
+      "id": "te:markets:565344",
+      "time": "2026-07-08 23:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slides Toward Eight-Month Low as Trump’s Iran Remarks — Silver extended its losses to around $57.7 an ounce on Wednesday, falling to levels not seen since December 2025 after US President Donald Trump declared the interim peace agreement with Iran \"over.\" His comments drove oil prices more than 5% higher, heightening concerns that rising energy costs could fuel inflation and keep US interest rates higher for longer. Speaking at NATO's summit in Ankara, Trump said he had no interest in further engagement with Iran and warned that Washington would likely launch additional strikes later on Wednesday. His remarks marked another abrupt turn in a conflict where rhetoric from both the US and Iran has repeatedly shifted between military escalation and diplomatic efforts. Markets are now pricing in at least one Federal Reserve interest rate hike by the end of 2026, reducing the appeal of non-yielding assets such as silver."
+    },
+    {
+      "id": "te:markets:565343",
+      "time": "2026-07-08 23:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.03% — Palladium decreased 5.03% to 1217 USD/t.oz"
+    },
+    {
+      "id": "4977187",
+      "time": "2026-07-08 23:15:02",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【俄羅斯宣佈全面禁止柴油出口】烏克蘭無人機接連襲擊俄羅斯境內多家煉油廠，為避免國內燃油供應短缺，俄羅斯出臺柴油出口禁令。俄羅斯副總理亞歷山大·諾瓦克在總統普京出席的政府工作會議上表示：“我們今日出臺柴油出口禁令。”在本次柴油出口禁令落地前，俄羅斯已對大部分汽油、航空煤油實施出口管控。即便在禁令出臺前，俄羅斯柴油與瓦斯油出口量已大幅下滑。"
+    },
+    {
+      "id": "4977186",
+      "time": "2026-07-08 23:14:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報57.53美元/盎司。"
+    },
+    {
+      "id": "mkt:019f424b-240e-7aab-8cf6-668e6fa3c15e",
+      "time": "2026-07-08 23:14:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver plunged 4.00% intraday to $57.58/oz. New York silver futures slid to $58.00/oz, down 5.45% on the day."
+    },
+    {
+      "id": "te:markets:565342",
+      "time": "2026-07-08 23:14:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum is down by 5% — Platinum decreased 5% to 1579.8 USD/t.oz"
+    },
+    {
+      "id": "mkt:019f424b-046d-7aab-8cf6-5ccf82431679",
+      "time": "2026-07-08 23:14:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli official says Israel at highest alert】An Israeli official told local media Israel has been placed on its highest state of alert to guard against a renewed war with Iran."
+    },
+    {
+      "id": "4977185",
+      "time": "2026-07-08 23:13:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守58美元/盎司，日內跌5.45%。"
+    },
+    {
+      "id": "4977184",
+      "time": "2026-07-08 23:12:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊局勢再度緊張 布倫特油價再次升至每桶80美元】WTI原油期貨價格漲7.49%，報75.717美元/桶；布倫特原油期貨價格漲7.88%，報80.006美元/桶。訊息面上，美國總統特朗普8日在安卡拉表示，美國可能打擊伊朗的民用基礎設施，並試圖控制哈爾克島。美國方面訊息顯示，在美國與伊朗60天停火協議前景不明之際，霍爾木茲海峽油輪通行已“基本停止”。"
+    },
+    {
+      "id": "te:markets:565341",
+      "time": "2026-07-08 23:12:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Falls to One-Week Low on Trump’s Iran Remarks — Gold extended its decline to around $4,030 an ounce on Wednesday, touching its lowest level since July 2 after US President Donald Trump declared the interim peace agreement with Iran \"over.\" His remarks sent oil prices surging more than 5%, fueling concerns that higher energy costs could stoke inflation and keep US interest rates elevated. Speaking at NATO's summit in Ankara, Trump said he had no interest in further engagement with Iran and warned that Washington would likely carry out additional strikes later on Wednesday. His comments marked another sharp shift in a conflict where rhetoric from both the US and Iran has repeatedly oscillated between military escalation and diplomatic overtures. Markets are now pricing in at least one Federal Reserve interest rate hike by the end of 2026. Meanwhile, China's central bank reported its largest monthly increase in gold reserves in more than two and a half years in June, underscoring continued official-sector demand for the precious metal."
+    },
+    {
+      "id": "4977183",
+      "time": "2026-07-08 23:12:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問阿里·阿克巴爾·韋拉亞提：美國的冒險行徑必將遭到即刻回擊。"
+    },
+    {
+      "id": "4977182",
+      "time": "2026-07-08 23:12:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部資料顯示，2026年前三個月美國交通事故死亡率降至12年來最低水平。"
+    },
+    {
+      "id": "4977181",
+      "time": "2026-07-08 23:12:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯譴責伊朗針對巴林與科威特發起的多次襲擊。"
+    },
+    {
+      "id": "4977180",
+      "time": "2026-07-08 23:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第八屆黑龍江省旅遊產業發展大會在雞西舉辦】第八屆黑龍江省旅遊產業發展大會於7月8日至9日在黑龍江省雞西市舉辦。本屆大會以“融合·創新·機遇”為主題，期間將舉辦特色文旅推介、業態場景考察、產業發展推進會議等活動，全景呈現黑龍江省生態之美、工業之魂、舌尖之味和開放之姿。（新華社）"
+    },
+    {
+      "id": "4977179",
+      "time": "2026-07-08 23:08:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特表示，“安全可靠”的美國石油在交易中應該享有溢價。"
+    },
+    {
+      "id": "4977178",
+      "time": "2026-07-08 23:07:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其與英國於安卡拉北約峰會期間簽署安全防務夥伴關係協議，該協議條款尚未對外公佈。"
+    },
+    {
+      "id": "4977177",
+      "time": "2026-07-08 23:07:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破80美元/桶，日內漲7.88%。"
+    },
+    {
+      "id": "mkt:019f4244-b148-7aab-8cf6-531ef26689bc",
+      "time": "2026-07-08 23:07:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran formally suspends talks with U.S., cites U.S. threats】TASS reported a senior Iranian source saying Iran has formally suspended negotiations with the U.S. on a final settlement, citing threats from the U.S."
+    },
+    {
+      "id": "4977176",
+      "time": "2026-07-08 23:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭安全保障：烏克蘭離美國太遠了，我們和它之間隔著一個大洋；但我正在努力拯救那裡的生命，因為它是一個擁有巨大潛力的國家，我們必須利用這些潛力來幫助它重新崛起。"
+    },
+    {
+      "id": "4977175",
+      "time": "2026-07-08 23:05:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞當選總統任命奧馬爾·布拉·埃斯科瓦爾為外交部長。"
+    },
+    {
+      "id": "mkt:019f4243-6ddc-7aab-8cf6-4e84758cda90",
+      "time": "2026-07-08 23:05:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK two-year government bond yield rose 15bp, the largest one-day increase since March."
+    },
+    {
+      "id": "4977174",
+      "time": "2026-07-08 23:05:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長卡爾曼表示，預計到2030年預算赤字將低於國內生產總值的3%。"
+    },
+    {
+      "id": "mkt:019f4243-0a8b-7aab-8cf6-4584f1e375f0",
+      "time": "2026-07-08 23:05:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US diesel futures' intraday gains widened to 13%."
+    },
+    {
+      "id": "4977173",
+      "time": "2026-07-08 23:05:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率上漲15個基點，創3月以來最大單日漲幅。"
+    },
+    {
+      "id": "4977172",
+      "time": "2026-07-08 23:04:58",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國柴油期貨當日漲幅擴大至13%。"
+    },
+    {
+      "id": "4977171",
+      "time": "2026-07-08 23:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：一些俄羅斯煉油廠在襲擊中受損。"
+    },
+    {
+      "id": "mkt:019f4242-2e6e-7aab-8cf6-3bc25bf11101",
+      "time": "2026-07-08 23:04:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia has banned diesel exports."
+    },
+    {
+      "id": "mkt:019f4241-be40-7aab-8cf6-30055ece1efa",
+      "time": "2026-07-08 23:03:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said the government has set a cap on fuel prices in commodity markets."
+    },
+    {
+      "id": "4977170",
+      "time": "2026-07-08 23:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約峰會發表宣言，重申堅持集體防禦原則】當地時間7月8日，北約峰會發表宣言，重申堅持集體防禦原則，強調將進一步提升防務投入，加強軍工產能建設，並繼續向烏克蘭提供長期軍事支援。此次峰會宣佈新增超過500億美元軍備採購，並承諾擴大聯合軍工生產能力，加快人工智慧等先進技術在軍事領域的應用。在烏克蘭問題上，宣言表示，各盟國承諾2026年向烏克蘭提供700億歐元軍事支援，並表示，將在2027年維持至少同等水平的支援。宣言還強調，北約將繼續應對戰略競爭、混合威脅等安全挑戰，重申伊朗“絕不能擁有核武器”。（央視新聞）"
+    },
+    {
+      "id": "4977169",
+      "time": "2026-07-08 23:03:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們已對商品交易所的燃料價格設定了上限。"
+    },
+    {
+      "id": "4977168",
+      "time": "2026-07-08 23:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "格陵蘭總理：格陵蘭不出售；必須尊重我們的領土完整、國際法以及我們的自決權。"
+    },
+    {
+      "id": "4977167",
+      "time": "2026-07-08 23:02:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們正在進口燃料。"
+    },
+    {
+      "id": "4977166",
+      "time": "2026-07-08 23:02:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯已實施柴油出口禁令。"
+    },
+    {
+      "id": "4977165",
+      "time": "2026-07-08 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：我們正在增加低等級燃料的生產。"
+    },
+    {
+      "id": "4977164",
+      "time": "2026-07-08 23:01:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報487.50元。"
+    },
+    {
+      "id": "mkt:019f423f-4dc9-7aab-8cf6-28b45a2dfe6e",
+      "time": "2026-07-08 23:01:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "As of 23:00 Beijing time, China's most-active futures contracts closed mostly higher. Fuel oil rose over 6%; low-sulfur fuel oil (LU) was up nearly 6%. Asphalt, LPG, benzene and methanol gained more than 3%. Cotton fell about 1%."
+    },
+    {
+      "id": "mkt:019f423f-3cb4-7aab-8cf6-239ae37f4b36",
+      "time": "2026-07-08 23:01:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said some refineries were damaged in terrorist attacks on energy facilities."
+    },
+    {
+      "id": "mkt:019f423f-2127-7aab-8cf6-1b662b666cdf",
+      "time": "2026-07-08 23:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greenland's minister: Greenland is not for sale; its territorial integrity, international law and our right to self-determination must be respected."
+    },
+    {
+      "id": "mkt:019f423e-fe9c-7aab-8cf6-16319a390b40",
+      "time": "2026-07-08 23:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said gasoline production has been cut."
+    },
+    {
+      "id": "te:markets:565338",
+      "time": "2026-07-08 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Hits 4-week High — Heating Oil increased to 3.64 USD/Gal, the highest since June 2026. Over the past 4 weeks, Heating Oil gained 2.55%, and in the last 12 months, it increased 50.76%."
+    },
+    {
+      "id": "te:markets:565337",
+      "time": "2026-07-08 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 0.54% — Top currency losers are Mexican Peso (-0.54%), Indian Rupee (-0.44%) and Japanese Yen (-0.31%). Gains are led by Brazilian Real (0.38%), South Korean Won (0.33%), Dollar Index (0.12%) and British Pound (0.10%). Meanwhile Euro was little changed."
+    },
+    {
+      "id": "4977163",
+      "time": "2026-07-08 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲6.56%，低硫燃料油連續漲5.94%，瀝青連續漲3.73%，液化石油氣連續漲3.29%，甲醇連續漲3.09%，苯乙烯連續漲2.72%，PTA連續漲2.46%。"
+    },
+    {
+      "id": "4977162",
+      "time": "2026-07-08 22:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京滬深新質人才月薪超1.5萬，年輕人湧向新一線城市就業】7月8日，北京大學城市軟實力研究院與智聯招聘聯合釋出的《2025中國城市新質人才競爭力指數報告》（以下簡稱“報告”）提供了一些參考視角。報告聚焦新一代資訊科技、新能源、高階裝備等關鍵新質領域，從人才供給、需求、吸引、生態四個維度，對全國296個城市進行測評。 結果不算意外：北京、深圳、上海綜合得分領跑全國，構成新質人才發展的第一梯隊。三者不僅崗位充足，平均薪資也穩居全國前三，其中北京17095元/月、上海16910元/月、深圳15975元/月。 一個有趣的趨勢是，16—34歲青年新質人才的就業偏好，正從一線城市逐步向成都、杭州、蘇州、南京等新一線城市以及貴陽、瀋陽、西安等具備特色產業的城市延伸，北上廣深的人才吸引增速有所放緩。（21財經）"
+    },
+    {
+      "id": "mkt:019f423c-6d54-7aab-8cf6-0d235d5f04d7",
+      "time": "2026-07-08 22:58:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Fed 9-8-1 dot-plot split exposed; minutes overnight may reveal hawks' case】The Fed will release minutes from its June policy meeting in the early hours of July 9 Beijing time. The June meeting left rates unchanged but the dot plot showed a pronounced 9-8-1 split: nine participants see at least one more hike this year, eight expect unchanged policy and one favors cuts; new chair Kevin Walsh did not submit a dot-plot. June’s statement was markedly shorter with limited forward guidance, so markets see the minutes as the primary window into internal leanings — notably whether the nine hawks are driven by sticky inf and what conditions would prompt renewed tightening. Recent oil-driven rises in energy-input inf have strengthened those concerns. If the minutes show C.BANK remains highly focused on inf risks, expectations that higher rates will be maintained longer could resurface, boosting USD and U.S. Treasury yields, pressuring high-valuation tech and weighing on non-USD assets."
+    },
+    {
+      "id": "4977160",
+      "time": "2026-07-08 22:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷財長卡普託：國際貨幣基金組織總裁格奧爾基耶娃將於7月下旬訪問阿根廷。"
+    },
+    {
+      "id": "4977159",
+      "time": "2026-07-08 22:56:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲6%，現報4142.00元。"
+    },
+    {
+      "id": "mkt:019f423b-2e1c-7aab-8cf6-07beec1493b7",
+      "time": "2026-07-08 22:56:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. official says military ready to resume blockade of vessels to/from Iranian ports】Fox News reports a U.S. official said the U.S. military is prepared, if ordered, to resume blockading vessels entering and leaving Iranian ports."
+    },
+    {
+      "id": "4977158",
+      "time": "2026-07-08 22:56:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價迅速延續漲勢，上漲0.8%。"
+    },
+    {
+      "id": "4977157",
+      "time": "2026-07-08 22:55:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【新聞分析｜地緣風險與供需博弈或致油價持續波動】美軍8日對伊朗發起攻擊，給雙方停火協議再添不確定性，引發國際油價大幅上漲，布倫特原油價格盤中上行至每桶約78美元，漲幅超5%。有分析指出，儘管地緣衝突再次推高油價，但“歐佩克+”增產、全球需求偏弱和非歐佩克產油國產量增長等共同推高市場供應寬鬆預期，國際油價中長期面臨下行壓力。一旦局勢有所緩和，國際原油市場執行邏輯將不可避免地從戰時供給短缺向供需再平衡轉化。（新華社）"
+    },
+    {
+      "id": "te:economy:565335",
+      "time": "2026-07-08 22:54:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Rise After 10 Weeks of Declines — US crude oil inventories increased by 2.998 million barrels to 411.3 million barrels in the week ended July 3, marking the first rise after ten consecutive weeks of declines and compared with market expectations for a 2.4 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub decreased by 52 thousand barrels. Refinery crude runs fell by 172,000 barrels per day. Gasoline inventories declined by 1.904 million barrels to 212.1 million barrels, exceeding expectations for a 1.6 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 4.98 million barrels to 103.6 million barrels, compared with forecasts for a 0.6 million-barrel increase. Net US crude imports rose by 1.096 million barrels per day."
+    },
+    {
+      "id": "4977156",
+      "time": "2026-07-08 22:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅省財政廳緊急下達2000萬元支援隴南開展救災減災工作】據新甘肅客戶端訊息，甘肅省財政廳緊急下達隴南市2000萬元，支援隴南開展人員搜救轉移、次生災害隱患排查、災後恢復重建等工作。"
+    },
+    {
+      "id": "4977155",
+      "time": "2026-07-08 22:53:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【IMF上調英國經濟增長預期，受戰前勢頭提振】國際貨幣基金組織上調了對英國的經濟增長預測，反映出伊朗戰爭爆發前的增長勢頭。IMF目前預計，今年國內生產總值(GDP)將增長1.0%，較4月份預測的0.8%有所上調。對於2027年，增長預期維持在1.3%不變。IMF的Petya Koeva Brooks表示，2025年英國經濟活動增長了1.4%，今年的放緩是由於能源價格上漲、貨幣政策比預期更緊縮，以及不確定性拖累了私人支出。但她表示，在英國公共財政備受矚目之際，政府的財政戰略在削減赤字和有利於增長的支出（包括提前進行基礎設施投資）之間取得了適當的平衡。"
+    },
+    {
+      "id": "4977154",
+      "time": "2026-07-08 22:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊諒解備忘錄已終結 伊朗譴責美軍事侵略】據新華社北京7月8日電，綜合新華社駐外記者報道：美國總統特朗普8日在土耳其首都安卡拉參加北約峰會時說，他認為美國和伊朗達成的諒解備忘錄“已終結”。伊朗外交部當日發表宣告，譴責“美軍對伊朗南部沿海多個監控中心發動軍事侵略”，認為美軍接連襲擊伊朗嚴重違反伊美諒解備忘錄。卡達外交部當日也發表宣告說，必須避免地區局勢進一步惡化。"
+    },
+    {
+      "id": "4977153",
+      "time": "2026-07-08 22:52:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞出口額可能達到51.93億美元；此前預計為49.28億美元。"
+    },
+    {
+      "id": "4977152",
+      "time": "2026-07-08 22:52:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Lyft將收購Serveo在西班牙的共享單車業務。"
+    },
+    {
+      "id": "4977151",
+      "time": "2026-07-08 22:51:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2532.00元。"
+    },
+    {
+      "id": "mkt:019f4236-4472-7aab-8cf5-fe8ad62b4638",
+      "time": "2026-07-08 22:51:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says strikes on Iran will modestly lift oil prices, increase capped at $2】Al Jazeera quoted Trump saying recent US strikes on Iran would \"modestly\" raise oil prices by about $2 per barrel. When asked if a new round of US‑Iran fighting could push prices higher, he agreed but insisted any increase would be limited to $2."
+    },
+    {
+      "id": "4977150",
+      "time": "2026-07-08 22:50:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：匈牙利於2031年初加入歐元區具有現實可行性】高盛稱，匈牙利加入歐元區具有現實的可行性。該國總理Peter Magyar有望兌現其承諾，在當前任期結束的2030年前達到加入歐元區的標準。預計馬扎爾將在2030年4月的大選中，以推動加入歐元區作為競選主題。經濟學家Kevin Daly和Johan Allen在報告中寫道：“如果一切按計劃進行，匈牙利將於2031年1月1日正式加入歐元區。”"
+    },
+    {
+      "id": "te:economy:565332",
+      "time": "2026-07-08 22:48:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Full Year GDP Growth",
+        "Importance 2"
+      ],
+      "text": "IMF Keeps 2026 Growth Forecast Largely Unchanged — The IMF kept its 2026 global growth forecast virtually unchanged at 3%, just 0.1 percentage point below its April projection, citing the world economy’s stronger-than-expected resilience to the Iran war and robust AI-related investment, according to its July 2026 World Economic Outlook. The 2027 growth outlook was revised upward to 3.4% from 3.2%. Despite the slight upgrades, the IMF warned that risks remain tilted to the downside, and the full economic impact of elevated tensions, including renewed US-Iran strikes, may still take time to materialize. Global headline inflation is now expected to reach 4.7% in 2026, up from 4.1% in 2025, before easing to 3.9% in 2027. The IMF projects growth of 2.3% for the US in 2026 and 2.2% in 2027, while China is expected to expand by 4.6% and 4.1%, respectively. India’s growth is forecast at 6.4% in 2026 and 6.7% in 2027, Japan at 0.6% and 0.7%, the Eurozone at 0.9% and 1.2%, and the UK at 1.0% and 1.3%."
+    },
+    {
+      "id": "mkt:019f4233-876d-7aab-8cf5-f2dff9e812ad",
+      "time": "2026-07-08 22:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange website shows Yingren Technology Co., Ltd.'s Sci‑Tech Innovation Board (STAR Market) IPO review status changed to \"Inquired\"."
+    },
+    {
+      "id": "4977149",
+      "time": "2026-07-08 22:47:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
+    {
+      "id": "te:markets:565329",
+      "time": "2026-07-08 22:47:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rapeseed Hits 4-week High — Rapeseed increased to 530.25 EUR/T, the highest since June 2026. Over the past 4 weeks, Rapeseed gained 1.76%, and in the last 12 months, it increased 15.45%."
+    },
+    {
+      "id": "mkt:019f4232-91a0-7aab-8cf5-eab7a4813f26",
+      "time": "2026-07-08 22:47:18",
+      "tags": [
+        "MKT News",
+        "RIVN.O"
+      ],
+      "text": "Market sources say U.S. electric-vehicle maker Rivian plans to allocate 75% of the shares in its offering to 10 institutional investors."
+    },
+    {
+      "id": "4977148",
+      "time": "2026-07-08 22:46:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加拿大無線運營商顯現出定價自律的跡象】TD Cowen的Vince Valentini表示，加拿大無線運營商在定價方面似乎正朝著正確的方向發展。該分析師指出，定價自律依然穩固，目前在折扣和全服務品牌中都可以看到或預計到移動套餐價格的溫和上漲。然而，仍有一個值得注意的例外：Quebecor旗下的Freedom Mobile，作為市場上最新的挑戰者，該品牌傳統上一直保持低價以在市場中獲得立足點。”Freedom Mobile[是]安大略省、艾伯塔省和不列顛哥倫比亞省唯一尚未採取行動的後付費品牌，這使其成為未來一週值得關注的關鍵品牌，“他說。Valentine補充說，更高的價格點應該會創造一個“更健康“的基準。"
+    },
+    {
+      "id": "te:markets:565327",
+      "time": "2026-07-08 22:46:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures Stay Near 1-Year High — Rice futures traded slightly above $13 per hundredweight, hoding close to their highest since June 2025, amid climate risks and fresh geopolitical tensions. Analysts expect a very strong El Niño to develop in the coming months across key producing regions in Southeast Asia and parts of the Southern Hemisphere, with rice viewed as the most vulnerable crop. Still, global rice stocks remain abundant after successive strong harvests, led by top grower India. World milled rice inventories reached a record 196.2 million tonnes at the start of 2026, with India's stocks climbing to an all-time high of 68.4 million tonnes in June. Indonesia, a major rice importer, is holding record stockpiles as farmers speed up planting to mitigate El Niño risks. In Thailand, inventories are at their highest level in a decade, with fresh second-crop arrivals expected from late July. Meanwhile, renewed Middle East tensions have raised the risk of disruptions to commodity shipments through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f4231-2509-7aab-8cf5-e047b40146ca",
+      "time": "2026-07-08 22:45:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to $4,040/oz, down 1.65% intraday. New York futures fell to $4,050/oz, down 2.59% on the day."
+    },
+    {
+      "id": "4977147",
+      "time": "2026-07-08 22:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報14092.00元。"
+    },
+    {
+      "id": "4977145",
+      "time": "2026-07-08 22:44:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌1.61%。"
+    },
+    {
+      "id": "4977144",
+      "time": "2026-07-08 22:43:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.59%。"
+    },
+    {
+      "id": "mkt:019f422e-a315-7aab-8cf5-dbcefac27c95",
+      "time": "2026-07-08 22:43:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: Russian President Putin is meeting with members of the Russian government to discuss issues related to the fuel complex."
+    },
+    {
+      "id": "4977143",
+      "time": "2026-07-08 22:42:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部長預計，在國際貨幣基金組織下調該國國內生產總值增長預期後，墨西哥經濟表現將好於該組織的最新預測。"
+    },
+    {
+      "id": "4977142",
+      "time": "2026-07-08 22:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南省政府與中國汽車技術研究中心有限公司簽約】據海南日報，7月8日，海南省政府與中國汽車技術研究中心有限公司簽署戰略合作框架協議。根據協議，雙方將建立高層領導不定期會晤制度、常態化溝通聯絡和工作協同機制，聚焦海南清潔能源島建設，支援中汽中心在瓊佈局建設政策與標準研究、熱區標定與測試、進出口服務、智慧網聯測試、新能源及節能減排、汽車文旅及後市場等六大中心。"
+    },
+    {
+      "id": "mkt:019f422e-203e-7aab-8cf5-d21d6105eefa",
+      "time": "2026-07-08 22:42:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said no country other than the United States can obtain Iran's uranium."
+    },
+    {
+      "id": "mkt:019f422e-0148-7aab-8cf5-c8251429951f",
+      "time": "2026-07-08 22:42:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump, asked about sending ground troops to Iran, said 'Why would I do that?' He added the US has identified the precise location of Iran's nuclear material buried under a mountain and has equipment to extract it."
+    },
+    {
+      "id": "mkt:019f422d-2da8-7aab-8cf5-c2aa0fc5738f",
+      "time": "2026-07-08 22:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said no one has helped Israel as much as he has."
+    },
+    {
+      "id": "mkt:019f422d-1c9c-7aab-8cf5-be1fc1e6d268",
+      "time": "2026-07-08 22:41:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said Erdogan and Netanyahu are unable to reach consensus."
+    },
+    {
+      "id": "4977141",
+      "time": "2026-07-08 22:41:02",
+      "tags": [],
+      "text": "報道:伊朗將按至少2:1的比例襲擊“敵對勢力的”目標。"
+    },
+    {
+      "id": "4977140",
+      "time": "2026-07-08 22:40:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部長表示，滿足財政標準將是入歐之路最具挑戰的一環。"
+    },
+    {
+      "id": "4977139",
+      "time": "2026-07-08 22:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月國內航線機票預訂量超3000萬張】進入7月，學生與親子家庭出行需求集中釋放，暑期旅遊市場持續升溫。隨著7月5日燃油附加費下調，旅客出行成本進一步降低，訂票平臺資料顯示，近期暑期機票搜尋量與出票量均創下暑運以來新高。截至今天（8日），7月國內航線機票預訂量超3064萬張，比一週前增長約89%；出入境航線機票預訂量超624萬張，比一週前增長約24%。業內人士表示，截至目前，暑期7-8月，飛赴成都、重慶、海口、南京、大連等地的機票量同比增長超八成。以北京出發為例，未來兩週，直飛蘭州、寧波等地票價僅為400元左右；上海飛往蘭州、青島等地的最低價格在300元左右。（央視財經）"
+    },
+    {
+      "id": "mkt:019f422b-f654-7aab-8cf5-b6c5a2c643db",
+      "time": "2026-07-08 22:40:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump called the agreement between Lebanon and Israel 'great'."
+    },
+    {
+      "id": "4977138",
+      "time": "2026-07-08 22:39:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦央行透過短期國庫券共融資2.07萬億盧比。"
+    },
+    {
+      "id": "mkt:019f422b-5377-7aab-8cf5-ac8ebd12afa7",
+      "time": "2026-07-08 22:39:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Middle East risk spills into grain markets as supply-chain concerns rise】Escalation in the Middle East has pushed oil sharply higher and risk premia are now spilling into agricultural markets. US corn, soy and wheat futures rose intraday as traders repriced higher energy-driven input costs. Oil gains increase fertilizer production and global logistics costs, so sustained oil strength could lift fertilizer, transport and farm production costs and prompt markets to price cost-push inflation. Heightened geopolitical risk around the Black Sea and Middle East — both key grain and energy shipping corridors — raises the probability of supply disruptions; international traders are widening risk premia and reallocating some capital into physical commodities. Market positioning is shifting from a growth-slowdown trade to reassessing a re-flationary mix of energy, food and geo risks."
+    },
+    {
+      "id": "mkt:019f422a-8574-7aab-8cf5-a45017572aeb",
+      "time": "2026-07-08 22:38:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran warns it will close Strait of Hormuz if attacked again】Press TV, citing unnamed sources, said Iran would retaliate against adversary targets at at least a two-to-one ratio and would close the Strait of Hormuz if it suffers any new attack. The report said Iran will reopen the strait on its own timetable under an Islamabad memorandum of understanding and will not yield on management of the waterway."
+    },
+    {
+      "id": "mkt:019f4229-f91f-7aab-8cf5-9ecb531e6887",
+      "time": "2026-07-08 22:37:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai gold front-month contract fell more than 2.00% intraday to 887.42 yuan/gram."
+    },
+    {
+      "id": "4977137",
+      "time": "2026-07-08 22:37:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數創盤中新低，下跌0.7%。"
+    },
+    {
+      "id": "4977136",
+      "time": "2026-07-08 22:37:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新聞分析｜特朗普揚言再打伊朗，到底幾分虛實】特朗普發表此番言論，正值美伊再度爆發軍事衝突之際。分析人士認為，美伊軍事交鋒的背後依然是雙方圍繞霍爾木茲海峽通航問題的博弈。雙方都試圖透過有限衝突建立威懾，也想借此對內對外示強。但同時，美伊也會極力避免衝突顯著升級，雙方短期內仍將處於打談迴圈態勢。特朗普這一表態還有國內政治考量。自特朗普政府與伊朗簽署諒解備忘錄以來，美國國內尤其是部分共和黨人批評他對伊妥協讓步。隨著中期選舉臨近，特朗普也有意在對伊政策上展現一定強硬姿態，以穩固國內選民基本盤。（新華社）"
+    },
+    {
+      "id": "mkt:019f4229-b52a-7aab-8cf5-9080e7e91292",
+      "time": "2026-07-08 22:37:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude's intraday gain widened to 5%, trading at $79.60/bbl; WTI rose 4.75%. Iranian media reported Iran would close the Strait of Hormuz if it faces any new attack."
+    },
+    {
+      "id": "4977135",
+      "time": "2026-07-08 22:37:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報58.26美元/盎司。"
+    },
+    {
+      "id": "mkt:019f4228-e47f-7aab-8cf5-89a56b85d273",
+      "time": "2026-07-08 22:36:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said he believes Israel will withdraw from southern Lebanon."
+    },
+    {
+      "id": "mkt:019f4228-ce6a-7aab-8cf5-851f4c380e8d",
+      "time": "2026-07-08 22:36:38",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Brent"
+      ],
+      "text": "【US aid model shifts; defense giants face new commercial logic】Trump's push to let Ukraine indigenously produce Patriot air-defense systems and Tomahawk cruise missiles signals a shift in US support from direct fiscal aid to a tech-transfer plus supply-chain-export/outsourcing model. The change forces a re-evaluation of defense contractors' commercial logic: licensing of systems, supply of key components and long-term maintenance contracts can expand overseas revenue and convert one-off government orders into steadier global ecosystem income. It also signals US preparation for a more protracted security commitment, supporting a sustained lift in European defense spending and defense-sector investment. For markets, geopolitical risk is moving from episodic shocks toward structural industry and fiscal shifts; investors may reprice European security assets, the defense sector and energy/resource-linked defensive exposures accordingly."
+    },
+    {
+      "id": "4977134",
+      "time": "2026-07-08 22:36:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守58美元/盎司，日內跌3.27%。"
+    },
+    {
+      "id": "mkt:019f4228-c81b-7aab-8cf5-7ce12d33ca5b",
+      "time": "2026-07-08 22:36:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said every U.S. strike on Iran pushes oil prices higher and that oil prices may rise modestly going forward."
+    },
+    {
+      "id": "4977133",
+      "time": "2026-07-08 22:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊朗官方電視臺Press TV援引知情安全人士訊息稱，伊朗將以至少二比一的還擊比例打擊“敵方”目標。"
+    },
+    {
+      "id": "mkt:019f4228-352c-7aab-8cf5-75b2e399cebd",
+      "time": "2026-07-08 22:35:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he expects Israel to withdraw its forces from Lebanon."
+    },
+    {
+      "id": "mkt:019f4228-0a97-7aab-8cf5-6d7970b32a99",
+      "time": "2026-07-08 22:35:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Press TV, citing informed sources, said Iran would close the Strait of Hormuz if it faces any new attacks."
+    },
+    {
+      "id": "4977132",
+      "time": "2026-07-08 22:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【易思維獲2025年度國家科學技術進步獎二等獎】國家科學技術獎勵大會、兩院院士大會、中國科協第十一次全國代表大會8日上午在京召開。2025年度國家科學技術獎揭曉，共評選出258個專案。由天津大學邾繼貴教授牽頭，易思維創始人兼董事長郭寅博士作為第二完成人參與的“工業現場高精度視覺測量關鍵技術與規模化應用”專案，榮獲2025年度國家科學技術進步獎二等獎。"
+    },
+    {
+      "id": "mkt:019f4227-8259-7aab-8cf5-60eda6ea6c0b",
+      "time": "2026-07-08 22:35:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Press TV, citing unnamed sources, reports Iran will strike enemy targets at least twice the number struck against it. Sources say Iran will reopen the strait under the Islamabad memorandum, on arrangements determined by Tehran."
+    },
+    {
+      "id": "4977131",
+      "time": "2026-07-08 22:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：以色列將撤離。"
+    },
+    {
+      "id": "4977130",
+      "time": "2026-07-08 22:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方電視臺Press TV援引訊息人士說法稱，若伊朗遭受任何新的襲擊，伊朗將關閉霍爾木茲海峽。"
+    },
+    {
+      "id": "4977129",
+      "time": "2026-07-08 22:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與內塔尼亞胡談及駐黎巴嫩南部的美軍問題。"
+    },
+    {
+      "id": "4977128",
+      "time": "2026-07-08 22:34:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為以色列會從黎巴嫩南部撤軍。"
+    },
+    {
+      "id": "4977127",
+      "time": "2026-07-08 22:34:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：我們每次打擊伊朗，油價都會上漲，這沒關係。"
+    },
+    {
+      "id": "4977126",
+      "time": "2026-07-08 22:33:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：油價正在大幅下跌。"
+    },
+    {
+      "id": "4977125",
+      "time": "2026-07-08 22:33:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克中國資產深夜大漲，阿里巴巴猛拉10%，美股儲存晶片反彈。"
+    },
+    {
+      "id": "mkt:019f4225-b949-7aab-8cf5-58143da52db6",
+      "time": "2026-07-08 22:33:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said of Netanyahu he knows nothing about his political situation and isn’t sure, but believes Netanyahu should be very popular."
+    },
+    {
+      "id": "4977124",
+      "time": "2026-07-08 22:33:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱可能打擊伊朗民用設施並試圖控制哈爾克島】美國總統特朗普8日在安卡拉表示，美國可能打擊伊朗的民用基礎設施，並試圖控制哈爾克島。(新華社)"
+    },
+    {
+      "id": "mkt:019f4225-2c8b-7aab-8cf5-526fb5e45b47",
+      "time": "2026-07-08 22:32:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US EIA implied demand for distillate fuel oil for the week to July 3: 5.99 mln b/d, prior 4.94 mln b/d."
+    },
+    {
+      "id": "mkt:019f4224-feb5-7aab-8cf5-488f639857a1",
+      "time": "2026-07-08 22:32:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Jul.3) | actual 5985400M | previous 4941300M"
+    },
+    {
+      "id": "mkt:019f4224-d19e-7aab-8cf5-43407fc5ea41",
+      "time": "2026-07-08 22:32:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA total motor gasoline product supplied (implied demand) for the week to July 3: 9.87 mln b/d, down from 10.15 mln b/d the prior week."
+    },
+    {
+      "id": "mkt:019f4224-ab53-7aab-8cf5-3c5b1319aacb",
+      "time": "2026-07-08 22:32:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Jul.3) | actual 9870900M | previous 10147400M"
+    },
+    {
+      "id": "4977123",
+      "time": "2026-07-08 22:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普被問及在伊朗部署地面部隊，稱：我為啥要那樣做呢？"
+    },
+    {
+      "id": "4977122",
+      "time": "2026-07-08 22:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國當週EIA庫存資料六大看點一覽】1. EIA報告：07月03日當週美國原油出口減少74.6萬桶/日至326.2萬桶/日。2. EIA報告：07月03日當週美國國內原油產量增加5.0萬桶至1386.0萬桶/日。3. EIA報告：除卻戰略儲備的商業原油庫存增加299.8萬桶至4.11億桶，增幅0.73%。4. EIA報告：美國原油產品四周平均供應量為2061.8萬桶/日，較去年同期增加0.26%。5. EIA報告：07月03日當週美國戰略石油儲備（SPR）庫存減少616.6萬桶至3.195億桶，降幅1.89%。6. EIA報告：07月03日當週美國除卻戰略儲備的商業原油進口562.9萬桶/日，較前一週增加35.0萬桶/日。"
+    },
+    {
+      "id": "4977121",
+      "time": "2026-07-08 22:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普再度威脅打擊伊朗關鍵基礎設施】美國總統特朗普週三表示美方或將對伊朗採取進一步軍事行動，再次威脅打擊伊朗重要民用基礎設施。 特朗普在北約峰會間隙與烏克蘭總統澤連斯基舉行雙邊會晤期間警告稱：“此次打擊規模可能很大，會讓大量設施徹底癱瘓。” 特朗普提到了發電廠：“我們會將其摧毀。我並不想這麼做，但如果有必要，我們一定會動手。” 他還提及保障飲用水供應的核心設施海水淡化廠：“迫不得已的話我們也會將其摧毀，我很不願意這麼做，這大概是我最不想實施的打擊行動。” 特朗普此前就多次威脅攻擊水廠、發電廠等關鍵民用基礎設施，這類襲擊行為有可能被視作戰爭罪行。 特朗普週三還點名伊朗石油出口核心樞紐哈爾克島。他回憶自己向美軍下達的指令時稱：“昨夜我們已經襲擊了哈爾克島，破壞了一部分設施。我當時下令，不要損毀石油管線，因為我們或許會直接接管哈爾克島。只打擊管線以外的其他所有目標。軍方已經執行了命令，今晚可能還會再次發起打擊。”"
+    },
+    {
+      "id": "4977120",
+      "time": "2026-07-08 22:29:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲6%，現報3214.00元。"
+    },
+    {
+      "id": "4977119",
+      "time": "2026-07-08 22:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：除了美國，沒有人能獲得伊朗的鈾。"
+    },
+    {
+      "id": "4977118",
+      "time": "2026-07-08 22:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：我方已告知特朗普，必須與伊朗達成一份可持續的協議，但伊朗應為此次違反臨時停火協議的行為負責。"
+    },
+    {
+      "id": "4977117",
+      "time": "2026-07-08 22:29:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：認為安全可靠的美國石油應該溢價交易。"
+    },
+    {
+      "id": "4977116",
+      "time": "2026-07-08 22:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國與土耳其簽署安全防務夥伴關係協議。"
+    },
+    {
+      "id": "4977115",
+      "time": "2026-07-08 22:28:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：或許我們會採取一些措施來推高油價。"
+    },
+    {
+      "id": "4977114",
+      "time": "2026-07-08 22:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：美國對伊朗實施打擊具有正當理由。"
+    },
+    {
+      "id": "4977113",
+      "time": "2026-07-08 22:27:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphaville LLC開始對SpaceX進行追蹤分析，並給予買入評級。"
+    },
+    {
+      "id": "4977112",
+      "time": "2026-07-08 22:27:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲7%，現報75.39美元/桶。"
+    },
+    {
+      "id": "4977111",
+      "time": "2026-07-08 22:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡是一位偉大的戰時總理。"
+    },
+    {
+      "id": "4977110",
+      "time": "2026-07-08 22:26:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲7%，現報79.40美元/桶。"
+    },
+    {
+      "id": "4977109",
+      "time": "2026-07-08 22:26:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報483.00元。"
+    },
+    {
+      "id": "4977108",
+      "time": "2026-07-08 22:26:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨：目前尚未就向北約東翼延伸輸油管道系統作出最終決定。"
+    },
+    {
+      "id": "4977107",
+      "time": "2026-07-08 22:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相斯塔默：特朗普的言論表明北約在峰會後更加團結。"
+    },
+    {
+      "id": "4977106",
+      "time": "2026-07-08 22:26:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相斯塔默：英國首相與美國總統保持良好關係十分重要。"
+    },
+    {
+      "id": "4977105",
+      "time": "2026-07-08 22:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相斯塔默：我們所有人必須集中精力推動伊朗恢復停火，這至關重要。"
+    },
+    {
+      "id": "4977104",
+      "time": "2026-07-08 22:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：敘利亞或許能幫助打擊真主黨，我們拭目以待。"
+    },
+    {
+      "id": "4977103",
+      "time": "2026-07-08 22:25:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頭部汽車經銷商暴雷跑路？蘭天集團宣告：不實資訊，整體經營穩定向好】針對網路上流傳的暴雷跑路一事，汽車經銷商蘭天集團今日釋出宣告稱，相關言論均為不實資訊，與集團真實經營狀況不符。近日，一份蘭天集團內部工聯單在網路流傳，引發廣泛關注。網傳的工聯單稱，蘭天集團二季度大額虧損，管理層7月停薪、基層員工降薪30%。隨後，“湖南最大汽車經銷商集團暴雷”在社交平臺發酵。蘭天集團在今日的宣告中表示，網傳“蘭天集團暴雷”“經營失穩”的言論均為不實資訊，與集團真實經營狀況不符，懇請各位網友不再公開傳播。目前，蘭天集團整體經營穩定向好，門店佈局、廠家合作、客戶服務等工作均正常開展，全體在崗員工薪資按時發放。當前，汽車行業處於週期性調整階段，蘭天集團緊跟各大汽車品牌廠家轉型升級，穩步推進企業健康運轉。（新浪科技）"
+    },
+    {
+      "id": "4977102",
+      "time": "2026-07-08 22:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談將敘利亞列入恐怖主義名單：我想我會把它移除。"
+    },
+    {
+      "id": "4977101",
+      "time": "2026-07-08 22:23:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談敘利亞局勢：局勢現已非常穩定。"
+    },
+    {
+      "id": "4977100",
+      "time": "2026-07-08 22:23:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談敘利亞：解除對該國的制裁。"
+    },
+    {
+      "id": "4977099",
+      "time": "2026-07-08 22:22:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超3%，嘉楠科技漲14.53%，金山雲漲11.65%，阿里巴巴漲11.01%，世紀互聯漲6.68%，網易有道漲6.36%。"
+    },
+    {
+      "id": "4977098",
+      "time": "2026-07-08 22:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統發言人表示，澤連斯基與特朗普的會晤已結束。"
+    },
+    {
+      "id": "4977097",
+      "time": "2026-07-08 22:20:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（Eskom）：隨著五個省份不再實施限電，已有超過100萬使用者退出限電安排。"
+    },
+    {
+      "id": "4977096",
+      "time": "2026-07-08 22:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理：與美國就供應戰斧導彈的談判正在進行中。"
+    },
+    {
+      "id": "4977095",
+      "time": "2026-07-08 22:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：美方暫無跡象顯示格陵蘭相關談判會出現變動。"
+    },
+    {
+      "id": "4977094",
+      "time": "2026-07-08 22:19:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博傑股份：已實現小批次發貨人形機器人IMU測試裝置】博傑股份(002975)在互動平臺表示，公司對接人形機器人相關測試需求，已實現小批次發貨人形機器人IMU測試裝置，2025年度人形機器人測試板塊實現的營業收入佔公司總營收低於1%。公司人形機器人業務當前尚處於業務拓展階段，業務開展尚存在不確定性風險，提請投資者理性投資。"
+    },
+    {
+      "id": "4977093",
+      "time": "2026-07-08 22:18:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【辛巴威對華出口首批“零關稅”藍莓】辛巴威園藝發展委員會8日宣佈，該國已正式向中國出口首批“零關稅”藍莓。這是該國種植戶成功開啟全球最大消費市場之一的關鍵一步。 辛巴威園藝發展委員會表示：“整個行業將持續推動支援擴大生產的政策落地。同時，我們也將持續最佳化物流線路，以確保能夠向中國消費者長期、穩定地供應辛巴威高階藍莓產品。” 中津兩國去年9月正式簽署藍莓輸華植物檢疫協議。隨著准入機制不斷完善，雙邊關稅利好正進一步顯現。今年5月1日起，中國對53個非洲建交國全面實施零關稅。在這一框架下，辛巴威藍莓得以免關稅進入中國市場。 辛巴威貿促會執行長艾倫·馬朱魯在接受新華社記者採訪時表示，首批“零關稅”藍莓對華出口對津園藝產業發展及國家出口具有重要意義。這不僅證明辛巴威農產品能夠滿足高標準市場的要求，也標誌著該國拓展新興出口目的地的努力正轉化為實際成果。過去，辛巴威對華出口長期以礦產和菸草為主，藍莓的成功准入將有力推動該國對華出口結構向更加多元、高附加值的方向最佳化，進而吸引更多行業投資並帶動全產業鏈就業。 近年來，農業已成為中津經貿合作一大亮點。雙方分別於2022年和2024年簽署了關於辛巴威甜柑橘和牛油果輸華的植物檢疫協議。(新華社)"
+    },
     {
       "id": "mkt:019f4216-e53c-7aab-8cf3-8e0eb72623ae",
       "time": "2026-07-08 22:17:04",
