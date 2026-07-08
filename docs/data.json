@@ -1,7 +1,228 @@
 {
-  "updated": "2026-07-09 02:03:47",
-  "count": 16023,
+  "updated": "2026-07-09 02:07:43",
+  "count": 16039,
   "items": [
+    {
+      "id": "mkt:019f42e8-ad68-7aab-8cfc-09d60d6ae328",
+      "time": "2026-07-09 02:06:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Spot gold was little changed after the Federal Reserve minutes were released."
+    },
+    {
+      "id": "mkt:019f42e8-107e-7aab-8cfc-01400b7dfa2b",
+      "time": "2026-07-09 02:05:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed minutes: officials were divided on whether policy rates are likely to be higher or lower by year-end."
+    },
+    {
+      "id": "mkt:019f42e7-df6e-7aab-8cfb-ff94b1a0483b",
+      "time": "2026-07-09 02:05:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve minutes showed several officials judged the policy stance was no longer restrictive."
+    },
+    {
+      "id": "mkt:019f42e7-ada6-7aab-8cfb-f56b0f4907cf",
+      "time": "2026-07-09 02:05:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed minutes: several officials said cooling inflation could allow rates to be held steady or cut."
+    },
+    {
+      "id": "4977503",
+      "time": "2026-07-09 02:04:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：官員們認為勞動力市場短期內將保持穩定。"
+    },
+    {
+      "id": "mkt:019f42e6-f5e2-7aab-8cfb-e8b2857e9769",
+      "time": "2026-07-09 02:04:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: FOMC members agreed the statement should convey commitment to the Fed's dual mandate and emphasize the Committee will achieve price stability."
+    },
+    {
+      "id": "4977502",
+      "time": "2026-07-09 02:04:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率也縮減漲幅，最新上漲5.41個基點，報4.216%。"
+    },
+    {
+      "id": "4977501",
+      "time": "2026-07-09 02:04:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要公佈後，美國國債收益率漲幅略有收窄；10年期國債收益率最新上漲4.41個基點，報4.573%。"
+    },
+    {
+      "id": "mkt:019f42e6-e316-7aab-8cfb-e706b60cdcd3",
+      "time": "2026-07-09 02:04:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed meeting minutes: some officials said policy was slightly restrictive."
+    },
+    {
+      "id": "mkt:019f42e6-e1bd-7aab-8cfb-dadff698f40d",
+      "time": "2026-07-09 02:04:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve minutes: some participants welcomed an assessment of communication tools and practices."
+    },
+    {
+      "id": "mkt:019f42e6-e086-7aab-8cfb-d24c5d3e29b4",
+      "time": "2026-07-09 02:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: \"Most\" meeting participants favored removing the Fed's \"accommodative\" bias language from the statement."
+    },
+    {
+      "id": "mkt:019f42e6-e05d-7aab-8cfb-c9525b18d0f9",
+      "time": "2026-07-09 02:04:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed minutes said officials discussed public views on shortening the Fed's post-meeting statement."
+    },
+    {
+      "id": "mkt:019f42e6-dca6-7aab-8cfb-c0a357d93e8a",
+      "time": "2026-07-09 02:04:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC minutes: Fed staff's GDP growth outlook is slightly below their April projection."
+    },
+    {
+      "id": "mkt:019f42e6-d013-7aab-8cfb-bab2eb36ccd9",
+      "time": "2026-07-09 02:04:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve minutes said participants broadly viewed upside risks to price stability as elevated, while downside risks to the Fed's maximum-employment goal had diminished."
+    },
+    {
+      "id": "mkt:019f42e6-cffc-7aab-8cfb-b7f690be65ea",
+      "time": "2026-07-09 02:04:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve minutes: all participants supported leaving the current federal funds rate target range unchanged. Several participants said further rate increases could be necessary, but they supported holding policy at this meeting."
+    },
+    {
+      "id": "4977500",
+      "time": "2026-07-09 02:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧正式向國會通報了敘利亞局勢，已通知國會解除對敘利亞的制裁。"
+    },
+    {
+      "id": "mkt:019f42e6-c1eb-7aab-8cfb-af442990b043",
+      "time": "2026-07-09 02:03:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve minutes: a majority of officials said shortening the policy statement would be beneficial."
+    },
+    {
+      "id": "4977499",
+      "time": "2026-07-09 02:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士官員認為，美國維持15%關稅的可能性很大。"
+    },
     {
       "id": "4977498",
       "time": "2026-07-09 02:03:12",
@@ -172,6 +393,15 @@
         "國際"
       ],
       "text": "美聯儲會議紀要：工作人員對國內生產總值（GDP）的增長展望略低於4月的預測。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607093798835757",
+      "time": "2026-07-09 02:01:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲會議紀要顯示 大多數與會者指出 通脹可能仍將保持高位】美聯儲會議紀要顯示，大多數與會者指出，由於與人工智慧相關的需求、中東衝突或關稅，通脹可能仍將保持高位。在這種情況下，幾乎所有與會者都表示可能需要採取一些政策收緊措施。"
     },
     {
       "id": "4977481",
@@ -146310,35 +146540,6 @@
         "國際"
       ],
       "text": "日本軟銀集團因為5000萬美元“特朗普遊說捐贈”而遭到美國參議院民主黨成員Warren的質詢。"
-    },
-    {
-      "id": "mkt:019f1eda-2883-7aab-8c64-e2e11d7cc62c",
-      "time": "2026-07-02 02:04:01",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) shares staged a short-lived rally, currently up 1.6%."
-    },
-    {
-      "id": "mkt:019f1eda-235c-7aab-8c64-dc4f0035fb38",
-      "time": "2026-07-02 02:04:00",
-      "tags": [
-        "MKT News",
-        "QCOM.O"
-      ],
-      "text": "Wall Street Journal, citing sources, said the prototype will run a proprietary operating system integrating SpaceX's XAI technology (SPCX.O), is designed to be thinner than the iPhone, and will use a Qualcomm Snapdragon chipset (QCOM.O)."
-    },
-    {
-      "id": "mkt:019f1eda-22f0-7aab-8c64-d6cec22ffdcd",
-      "time": "2026-07-02 02:03:55",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact mixed"
-      ],
-      "text": "The Wall Street Journal reports sources say SpaceX (SPCX.O) has developed a phone-like device prototype aimed at changing how people interact with artificial intelligence. The company reportedly showed the prototype to select investors ahead of an IPO."
     }
   ]
 }
