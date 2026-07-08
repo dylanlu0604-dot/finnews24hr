@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-08 23:40:03",
-  "count": 15797,
+  "updated": "2026-07-08 23:44:11",
+  "count": 15806,
   "items": [
+    {
+      "id": "mkt:019f4265-d229-7aab-8cf7-6c319769d9a3",
+      "time": "2026-07-08 23:43:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran official says unused options include blockading Bab al-Mandeb】Iran parliamentary national security committee spokesman Rezaei told Fars News that in a future confrontation \"the enemy will face a full and sudden strike.\" He said Iran retains several options not used during the 40-day war, including withdrawing from the Nuclear Non‑Proliferation Treaty, revising its nuclear doctrine, and blockading the Bab al‑Mandeb outside the Strait of Hormuz. A parliamentary proposal to withdraw from the NPT has been prepared for review; Rezaei said revising nuclear doctrine could be put on the table if Iran faces an existential threat."
+    },
+    {
+      "id": "4977252",
+      "time": "2026-07-08 23:42:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼：我們從一開始就表明，不會參與針對伊朗的襲擊行動。我們目前沒有參與針對伊朗的襲擊，今後也絕不會參與。"
+    },
+    {
+      "id": "4977251",
+      "time": "2026-07-08 23:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1-6月錄得822架飛機淨訂單。"
+    },
+    {
+      "id": "4977250",
+      "time": "2026-07-08 23:41:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1-6月錄得887架飛機總訂單。"
+    },
+    {
+      "id": "4977249",
+      "time": "2026-07-08 23:41:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客1-6月交付351架。"
+    },
+    {
+      "id": "4977248",
+      "time": "2026-07-08 23:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客6月總訂單量71架。"
+    },
+    {
+      "id": "4977247",
+      "time": "2026-07-08 23:40:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客6月交付量89架。"
+    },
+    {
+      "id": "4977246",
+      "time": "2026-07-08 23:40:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：預計2026年第四季度銅均價為每噸14,500美元。"
+    },
+    {
+      "id": "4977245",
+      "time": "2026-07-08 23:39:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，亞塞拜然巴庫-第比利斯-傑伊漢管道原油8月經傑伊漢港口出口量定為1380萬桶，7月出口量為1580萬桶。"
+    },
+    {
+      "id": "mkt:019f4262-2411-7aab-8cf7-670026a8db63",
+      "time": "2026-07-08 23:39:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Schumer: Trump's NATO remarks 'deranged'】Senate Minority Leader Schumer said President Trump's remarks at the NATO summit were incoherent and \"deranged\", shaming the United States on the world stage, acting as a mouthpiece for Putin, undermining ties with allies and cheering for war. He said Americans have a chance this November to choose a markedly different course."
+    },
+    {
+      "id": "4977244",
+      "time": "2026-07-08 23:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光新設微納器件公司，業務涉及光模組及光互聯相關器件】江西歐菲光學微納器件有限公司正式成立。股權資訊顯示，該公司由歐菲光集團股份有限公司持股99.5%，江西歐菲光學有限公司持股0.5%。從經營範圍看，新公司業務涉及光電子器件、多通道光纖陣列、光學玻璃、光通訊及通訊裝置相關光電子系統的研發、製造與銷售，同時覆蓋電子專用材料及新材料技術研發等領域。其業務方向指向光模組及光互聯應用中的光無源器件環節。"
+    },
+    {
+      "id": "mkt:019f4261-8ee6-7aab-8cf7-5c73743d1770",
+      "time": "2026-07-08 23:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ofilm establishes micro‑nano devices unit targeting optical modules and interconnect components】Jiangxi Ofilm Optical Micro‑Nano Devices Co., Ltd. has been registered. Ofilm Group Co., Ltd. holds 99.5% and Jiangxi Ofilm Optical Co., Ltd. holds 0.5%. The firm will R&D, manufacture and sell optoelectronic devices, multi‑channel fiber arrays, optical glass and optoelectronic systems for optical communications and communications equipment, and engage in electronic specialty materials and new‑materials R&D. Its stated business focus is on optical passive components used in optical modules and optical interconnect applications."
+    },
     {
       "id": "4977243",
       "time": "2026-07-08 23:37:00",
@@ -144264,33 +144365,6 @@
         "MKT News"
       ],
       "text": "EU Commission President VON DER LEYEN said the EU plans to establish a connectivity partnership with Azerbaijan."
-    },
-    {
-      "id": "4965751",
-      "time": "2026-07-01 23:42:33",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 我們正對俄羅斯軍事設施與石油基礎設施實施遠端打擊，以此構建相關施壓條件； 我們出臺的中長期制裁也已初見成效。 呼籲歐盟出臺新一輪制裁，持續向烏克蘭提供援助。"
-    },
-    {
-      "id": "mkt:019f1e56-de5d-7aab-8c62-61a507ec8de4",
-      "time": "2026-07-01 23:40:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【UN's Guterres urges stronger AI governance as independent panel publishes first assessment】UN Secretary-General Guterres said on July 1 at UN headquarters in New York that faster AI development without common rules diminishes governments' and publics' ability to shape outcomes and urged governments not to wait to strengthen AI governance. He noted the UN announced the Independent International Scientific Group on Artificial Intelligence months ago; the panel published its first assessment report on July 1, has submitted it to governments and released it publicly. The report highlights AI's dual prospects: if properly deployed it could become a powerful engine for development in public health, hunger eradication, education and climate work, but it also identifies significant potential harms."
-    },
-    {
-      "id": "4965750",
-      "time": "2026-07-01 23:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼：我並非反美人士，但我絕不會向美國總統唐納德・特朗普低頭。"
     }
   ]
 }
