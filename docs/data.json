@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-09 03:19:25",
-  "count": 16075,
+  "updated": "2026-07-09 03:23:11",
+  "count": 16085,
   "items": [
+    {
+      "id": "4977558",
+      "time": "2026-07-09 03:22:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價8日顯著上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲3.08美元，收於每桶73.52美元，漲幅為4.37%；9月交貨的倫敦布倫特原油期貨價格上漲3.86美元，收於每桶78.02美元，漲幅為5.2%。"
+    },
+    {
+      "id": "4977557",
+      "time": "2026-07-09 03:21:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛恢復跟蹤寧德時代A股，評級買進，目標價566元人民幣。"
+    },
+    {
+      "id": "mkt:019f432d-9196-7aab-8cfd-4e1652f4c984",
+      "time": "2026-07-09 03:21:27",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "IMF says the global economy has broadly held up and shown resilience to shocks from the Middle East war."
+    },
+    {
+      "id": "mkt:019f432d-6f97-7aab-8cfd-45ff57d246d6",
+      "time": "2026-07-09 03:21:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "IMF says energy markets and freight transport remain under pressure."
+    },
+    {
+      "id": "4977556",
+      "time": "2026-07-09 03:21:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德：我們減持了部分與人工智慧業務關聯度較高的企業標的，並小幅調整了持倉配置。"
+    },
+    {
+      "id": "4977555",
+      "time": "2026-07-09 03:20:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "國際足聯公告：賈斯汀・比伯確認加入世界盃決賽中場秀演出陣容。"
+    },
+    {
+      "id": "4977554",
+      "time": "2026-07-09 03:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：全球經濟整體展現韌性，抵禦住中東戰爭帶來的衝擊。"
+    },
+    {
+      "id": "4977553",
+      "time": "2026-07-09 03:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：能源市場與貨物運輸仍承壓。"
+    },
+    {
+      "id": "mkt:019f432c-5c54-7aab-8cfd-3f755197f70e",
+      "time": "2026-07-09 03:20:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "IMF says uncertainty remains elevated and the war's impact may persist for some time."
+    },
+    {
+      "id": "4977552",
+      "time": "2026-07-09 03:19:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：當前不確定性仍處於高位，戰爭帶來的影響或將持續存在。"
+    },
+    {
+      "id": "mkt:019f432b-d152-7aab-8cfd-3656b77a2267",
+      "time": "2026-07-09 03:19:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The International Monetary Fund encouraged parties to intensify efforts to resolve the conflict and to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "4977551",
+      "time": "2026-07-09 03:19:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "國際能源署、國際貨幣基金組織、世界銀行集團及世界貿易組織負責人聯合宣告。"
+    },
+    {
+      "id": "4977550",
+      "time": "2026-07-09 03:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：呼籲各方推動衝突取得進一步解決進展，並恢復霍爾木茲海峽通航。"
+    },
     {
       "id": "4977549",
       "time": "2026-07-09 03:18:38",
@@ -146895,31 +147019,6 @@
         "AI Revolution"
       ],
       "text": "【Dan Ives leaving Wedbush to launch AI-focused investment bank】According to CNBC, tech analyst Dan Ives will leave Wedbush Securities to launch a \"modern merchant bank\" focused on artificial intelligence. The new firm intends to combine research, investment-banking advisory, capital raising and investment activities to offer integrated financial and research services to companies and investors amid AI-driven structural change."
-    },
-    {
-      "id": "4965874",
-      "time": "2026-07-02 03:22:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空客要求達索退出進度一再延誤的歐洲中空長航時無人機專案後，達索航空執行長透露，雙方合作關係已嚴重破裂。"
-    },
-    {
-      "id": "4965873",
-      "time": "2026-07-02 03:22:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安股票交易業務上線30天，管理資產規模突破10億美元。"
-    },
-    {
-      "id": "mkt:019f1f21-bcbe-7aab-8c65-90d265da9d47",
-      "time": "2026-07-02 03:22:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kevin Warsh reportedly names Treasury Secretary Bessent aide Samantha Schwab as Fed adviser】Foreign media report Fed Chair Kevin Warsh is adding Treasury Secretary Bessent’s senior aide Samantha Schwab to his advisory team as a Fed adviser. Schwab has served as Bessent’s deputy chief of staff at the Treasury since January 2025 and previously worked in the White House during Trump’s first term; a start date was not announced. The appointment has prompted debate about closer Fed–Treasury coordination, given Warsh and Bessent hold weekly meetings, and market attention on whether central-bank independence could be affected."
     }
   ]
 }
