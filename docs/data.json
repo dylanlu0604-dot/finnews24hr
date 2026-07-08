@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-08 09:21:56",
-  "count": 15914,
+  "updated": "2026-07-08 09:25:55",
+  "count": 15923,
   "items": [
+    {
+      "id": "te:economy:565023",
+      "time": "2026-07-08 09:25:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Philippines Jobless Rate Ticks Up to 4.8% in May — The unemployment rate in the Philippines rose slightly to 4.8% in May 2026 from April's four-month low of 4.7% and was higher than the 3.9% in the same month last year. The number of unemployed persons increased to 2.50 million from 2.41 million in the previous month. The employment rate edged down to 95.2% from 95.3%, despite total employment rising to 49.63 million from 48.89 million in April. The services sector accounted for the largest share of employment at 61.8%, followed by agriculture (19.9%) and industry (18.3%). The subsectors with the highest employment shares were wholesale and retail trade, and repair of motor vehicles and motorcycles (19.6%), agriculture and forestry (17.2%), and construction (10%). The labor force participation rate went up to 63.8% from 62.7% in April but remained below the 65.8% recorded in May 2025. Wage and salary workers comprised 64.3% of the workforce, most of whom were employed in private establishments."
+    },
+    {
+      "id": "4975295",
+      "time": "2026-07-08 09:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥國家石油公司前執行長維克托·羅德里格斯被捕。"
+    },
+    {
+      "id": "mkt:019f3f53-8d09-7aab-8cda-dcda3aaed260",
+      "time": "2026-07-08 09:24:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "AUDUSD",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【RBA deputy governor Hunt: recent oil price shock has not yet slowed Australian economy】Reserve Bank of Australia Deputy Governor Hunt said in a speech on supply shocks that recent oil-price-driven falls in consumer and business confidence have not yet produced clear signs of slowing in economic activity. She warned that ignoring supply shocks is not always appropriate and said if inflation expectations begin to rise the economy could face a period of low inflation alongside higher unemployment. Hunt said the board will continue to take necessary action to return inflation to target and to ensure the labour market is sustainably at full employment."
+    },
+    {
+      "id": "4975294",
+      "time": "2026-07-08 09:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞為技術在港交所上市首日跌近17%，報18港元/股。"
+    },
+    {
+      "id": "4975293",
+      "time": "2026-07-08 09:24:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 匯聚科技漲近9%】截至發稿，匯聚科技(01729.HK)漲8.96%，上海復旦(01385.HK)漲5.53%，聯想集團(00992.HK)漲4.41%。"
+    },
+    {
+      "id": "4975292",
+      "time": "2026-07-08 09:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "K2航空：正全力配合巴基斯坦民航局及其他政府機構的調查工作。"
+    },
+    {
+      "id": "4975291",
+      "time": "2026-07-08 09:23:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "K2航空公司：一架貨機在巴基斯坦時間約21時21分與空中交通管制失去聯絡，機上載有5名機組人員。"
+    },
+    {
+      "id": "mkt:019f3f52-65f8-7aab-8cda-d6dda20b3882",
+      "time": "2026-07-08 09:23:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "07687.HK",
+        "Impact bullish",
+        "09971.HK",
+        "07656.HK",
+        "Impact bearish"
+      ],
+      "text": "On their Hong Kong listing debut, Yikong Zhijia (07687.HK) opened 3.5% higher, Jiben Semiconductor (09971.HK) opened 7.9% higher and Ruiwei Technology (07656.HK) opened 16.9% lower."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607083797621592",
+      "time": "2026-07-08 09:22:53",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展150億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4975290",
+      "time": "2026-07-08 09:22:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股基本半導體上市首日開盤漲近8%】港股基本半導體上市首日開盤漲7.91%，現報34.12元，該股發行價為31.62元。"
+    },
+    {
+      "id": "4975289",
+      "time": "2026-07-08 09:21:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨回籠850.0億元人民幣。"
+    },
+    {
+      "id": "4975288",
+      "time": "2026-07-08 09:21:53",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.19％，國企指數漲0.43％，科指開漲0.42%。"
+    },
+    {
+      "id": "mkt:019f3f50-fdbc-7aab-8cda-c8bca5125b68",
+      "time": "2026-07-08 09:21:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "At the open on July 8 (Wed), the HSI rose 44.33 pts (0.19%) to 23,541.22; the Hang Seng TECH Index rose 18.73 pts (0.42%) to 4,525.77; the HSCEI rose 33.19 pts (0.43%) to 7,803.45; the Red Chip Index rose 1.17 pts (0.03%) to 3,806.30."
+    },
     {
       "id": "mkt:019f3f50-da23-7aab-8cda-badae6e0e5c2",
       "time": "2026-07-08 09:21:31",
@@ -9,6 +137,23 @@
         "MKT News"
       ],
       "text": "【Retail cash: 7-day annualized yields across major platforms】Tencent Licaitong HuoQi+ 7-day annualized yield ranged 0.7170%–1.1680%; WeChat Lingqiantong 7-day annualized yield ranged 0.9400%–1.0070%; Alipay Yu’e Bao 7-day annualized yield ranged 1.0010%–1.0070%."
+    },
+    {
+      "id": "mkt:019f3f50-dc84-7aab-8cda-c23ba20a8a9f",
+      "time": "2026-07-08 09:21:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bullish",
+        "01888.HK",
+        "06880.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng Index +0.19%, Hang Seng Tech +0.42%. AI sector led gains — Lenovo Group (00992.HK) +4.4%, Kingboard Laminates (01888.HK) +4.0%. MOMENTA-W (06880.HK) rose 1.83% on its first trading day."
     },
     {
       "id": "4975287",
@@ -145838,48 +145983,6 @@
         "市場"
       ],
       "text": "【ETF開盤：中證A50ETF領漲4.68%，科創綜指ETF領跌3.34%】ETF開盤漲跌不一，中證A50ETF（560820）領漲4.68%，有色ETF（560290）漲3.96%，央企科技ETF（562380）漲3.12%，科創綜指ETF（589880）領跌3.34%，黃金股ETF（159322）跌2.03%，科創創新藥ETF（589120）跌1.95%。"
-    },
-    {
-      "id": "mkt:019f1b47-ecec-7aab-8c47-8333b62c3595",
-      "time": "2026-07-01 09:25:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A-shares opened: Shanghai Composite Index down 0.09%, Shenzhen Composite Index up 0.13%, ChiNext Index down 0.15%."
-    },
-    {
-      "id": "4963933",
-      "time": "2026-07-01 09:25:23",
-      "tags": [],
-      "text": "三大股指開盤漲跌不一，滬指跌0.09％，深成指漲0.13％，創業板跌0.15％。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607013789260476",
-      "time": "2026-07-01 09:23:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展1000億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4963932",
-      "time": "2026-07-01 09:22:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠11,625.0億元人民幣。"
-    },
-    {
-      "id": "4963931",
-      "time": "2026-07-01 09:22:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展1000億元7天逆回購操作，投標量1000億元，中標量1000億元，操作利率為1.40%，與此前持平。"
     }
   ]
 }
