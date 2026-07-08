@@ -1,7 +1,48 @@
 {
   "date": "2026-07-09",
-  "count": 478,
+  "count": 482,
   "items": [
+    {
+      "id": "mkt:019f4334-8a54-7aab-8cfd-77408f8764c4",
+      "time": "2026-07-09 03:29:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "CNBC reports BlackRock's global head of fixed income, Reed, said he has reduced and rebalanced exposure to companies directly tied to artificial intelligence."
+    },
+    {
+      "id": "4977560",
+      "time": "2026-07-09 03:28:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "據NewsNation援引白宮官員訊息稱， 特朗普與內塔尼亞胡的會面目前暫未列入日程安排。 此前特朗普曾暗示，以色列總理內塔尼亞胡最早下週便可前往白宮。若此次成行，這將是特朗普開啟第二個總統任期以來，內塔尼亞胡第七次到訪美國。 同時也是美以聯合對伊朗開戰以來，內塔尼亞胡首次訪美。"
+    },
+    {
+      "id": "mkt:019f4333-1240-7aab-8cfd-6d0f8b7fc425",
+      "time": "2026-07-09 03:27:28",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "USDJPY"
+      ],
+      "text": "【Dollar index slips 0.03% to 100.990 on 8th close】At the New York FX close the dollar index, measuring the dollar against six major currencies, slipped 0.03% to 100.990. EUR/USD rose to 1.1426 from 1.1419; GBP/USD to 1.3400 from 1.3363. USD/JPY climbed to 162.48 from 161.94. USD/CHF was unchanged at 0.8076. USD/CAD fell to 1.4169 from 1.4195. USD/SEK rose to 9.6903 from 9.6784."
+    },
+    {
+      "id": "mkt:019f4332-c8f0-7aab-8cfd-61b4f018dbc5",
+      "time": "2026-07-09 03:27:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NewsNation reports White House officials say Trump and Netanyahu have no meeting scheduled; Trump previously said Netanyahu could visit the White House as early as next week."
+    },
     {
       "id": "4977559",
       "time": "2026-07-09 03:25:45",
