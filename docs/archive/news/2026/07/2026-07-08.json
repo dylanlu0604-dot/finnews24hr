@@ -1,7 +1,160 @@
 {
   "date": "2026-07-08",
-  "count": 2316,
+  "count": 2332,
   "items": [
+    {
+      "id": "4976452",
+      "time": "2026-07-08 17:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：米其林與Axens開啟排他性談判，旨在加速推廣一種與IFP新能源合作開發、用於綠色化學的關鍵生物基分子。"
+    },
+    {
+      "id": "mkt:019f4116-edc2-7aab-8cea-111a100c4731",
+      "time": "2026-07-08 17:37:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMO Secretary-General urged all parties to exercise maximum restraint and avoid escalation."
+    },
+    {
+      "id": "4976451",
+      "time": "2026-07-08 17:37:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安圖生物：獲得2項醫療器械註冊證】安圖生物公告，公司及全資子公司安圖實驗儀器（鄭州）有限公司近日收到河南省藥品監督管理局頒發的2項醫療器械註冊證，分別為安圖儀器的多參檢驗資料管理軟體（型號：AutoIntelli，註冊證編號豫械注準20262210361，有效期5年）和安圖生物的白介素12p70檢測試劑盒（磁微粒化學發光法，註冊證編號豫械注準20262400350，有效期5年）。上述註冊證的取得進一步豐富了公司產品選單，是對現有檢測產品的有效補充。"
+    },
+    {
+      "id": "4976450",
+      "time": "2026-07-08 17:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將禮來目標價從1250美元上調至1500美元。"
+    },
+    {
+      "id": "mkt:019f4116-3715-7aab-8cea-08d0a5009b50",
+      "time": "2026-07-08 17:36:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【EASA issues directive requiring airlines to avoid Iranian, Iraqi and Lebanese airspace】EU Aviation Safety Agency (EASA) on Wednesday issued a directive requiring airlines to avoid Iranian, Iraqi and Lebanese airspace, citing heightened regional tensions. The measures are effective through Aug. 31 unless reassessed earlier; EASA said the guidance reflects ongoing high-intensity tensions and the risk of further military action and warned a breakdown of the current ceasefire could pose an imminent threat to Iranian airspace."
+    },
+    {
+      "id": "4976449",
+      "time": "2026-07-08 17:36:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際海事組織秘書長譴責霍爾木茲海峽新一輪針對船隻的襲擊。"
+    },
+    {
+      "id": "mkt:019f4116-1a6b-7aab-8cea-0605df132d2b",
+      "time": "2026-07-08 17:36:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "IMO Secretary-General condemns a new round of attacks on vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f4115-d5bb-7aab-8ce9-f93a385d6117",
+      "time": "2026-07-08 17:36:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact mixed"
+      ],
+      "text": "【Morningstar trims Alibaba cloud revenue forecast 10% but keeps constructive view】Morningstar analyst Chelsey Tam said China’s planned data-center build for government and SOE AI workloads could dent demand for Alibaba’s public-sector cloud and cut Alibaba’s annual cloud-revenue forecast from fiscal 2030 onward by 10%. Morningstar lowered its Alibaba ADR fair value by 7% to $241 but still regards the stock as undervalued, saying fears over logistics losses and rising compute costs are overstated. It added Alibaba’s limited US operations mean US legislative risk should have only a limited impact."
+    },
+    {
+      "id": "mkt:019f4115-6902-7aab-8ce9-f426ebe27608",
+      "time": "2026-07-08 17:35:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Turkish President Erdogan reiterated that lasting peace in the Middle East hinges on a two-state solution, and said ensuring calm in Gaza and Lebanon is everyone’s responsibility."
+    },
+    {
+      "id": "te:markets:565232",
+      "time": "2026-07-08 17:35:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South African Rand at Near 2-Week Low — The South African rand weakened past 16.4 per USD, hovering near its lowest level in nearly two weeks, as escalating hostilities between the US and Iran drove investors toward the safety of the US dollar. The currency was further pressured by lower prices for key precious metals, including gold and PGMs. US President Trump said the tentative ceasefire with Iran was \"over\", raising the prospect of renewed military conflict between the two countries. This followed fresh strikes between the two countries, which raised concerns over oil supplies through the Strait of Hormuz and could translate into renewed inflationary pressures and potential rate hikes."
+    },
+    {
+      "id": "4976448",
+      "time": "2026-07-08 17:35:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【威爾高：股票交易異常波動，DC/DC產品已獲批次訂單但業績佔比較低，同時籌劃股權激勵與定增】威爾高公告，公司股票連續兩個交易日（2026年7月7日、8日）收盤價格漲幅偏離值累計超過30%，屬於異常波動。經核查，公司前期披露資訊無需更正，未發現近期公共傳媒對股價有較大影響的未公開資訊，內外部經營環境未發生重大變化。公司2026年第一季度實現歸屬於上市公司股東的淨利潤680.01萬元，同比下降69.53%。公司主要產品包括高多層、厚銅、HDI板等，DC/DC電源模組產品雖已獲得批次訂單，但目前相關業績佔比較低。此外，公司正在籌劃股權激勵事項（具體方案尚未確定）以及向特定物件發行A股股票事項（尚處內部溝通階段，方案未最終確定），均存在不確定性。"
+    },
+    {
+      "id": "4976447",
+      "time": "2026-07-08 17:35:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出海浪藍色警報】記者從自然資源部瞭解到，今天（8日）16時，國家海洋預報臺釋出海浪藍色警報，受今年第9號颱風“巴威”的影響，預計7月9日上午到下午，東海南部將出現3到5米的大浪到巨浪區；浙江南部近岸海域將出現2到2.8米的中浪到大浪，近岸海域海浪預警級別為藍色。提醒在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4114-a474-7aab-8ce9-ef500755b32e",
+      "time": "2026-07-08 17:34:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "600362.SS",
+        "Impact bullish"
+      ],
+      "text": "Jiangxi Copper forecasts H1 2026 net profit attributable to shareholders of 7.55–8.50 bln yuan, up 80.86%–103.61% YoY."
+    },
+    {
+      "id": "4976446",
+      "time": "2026-07-08 17:34:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特國家航運公司：確認超大型油輪“韋迪安”號週二在透過霍爾木茲海峽時遭遇事故。船上貨物仍處於安全狀態，船舶適航條件良好。"
+    },
+    {
+      "id": "mkt:019f4114-859b-7aab-8ce9-e3d2921fd78a",
+      "time": "2026-07-08 17:34:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The National Shipping Company of Saudi Arabia confirmed the ULCC \"Weidian\" suffered an incident on Tuesday while transiting the Strait of Hormuz. Cargo remains secure and the vessel is fit for navigation."
+    },
+    {
+      "id": "4976445",
+      "time": "2026-07-08 17:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江西銅業：預計上半年歸母淨利潤同比增長80.86%-103.61%】江西銅業7月8日公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤755,000萬元到850，000萬元，與上年同期相比，將增加337,545萬元到432,545萬元，同比增加80.86%到103.61%。"
+    },
     {
       "id": "4976444",
       "time": "2026-07-08 17:34:00",
