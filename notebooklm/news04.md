@@ -1,7 +1,541 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-09 01:04:31_
-_本檔包含 2940 則快訊，約 596168 字_
+_更新時間：2026-07-09 02:41:13_
+_本檔包含 2944 則快訊，約 599001 字_
+
+---
+
+### 2026-07-04 19:54:55  #宏觀 #焦點
+
+【7月4日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.牢記初心使命 勇擔時代重任——習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話引發熱烈反響； 2.為中華民族偉大復興凝聚磅礴力量——習近平主席重要講話引發港澳臺人士熱烈反響； 3.《習近平談治國理政》第五卷中斯讀者會在斯里蘭卡首都科倫坡舉行； 4.“七一勳章”獲得者李連成：當幹部就應該能吃虧； 5.“七一”前後紅色文藝作品集中上演 傳承革命精神； 6.我國加快建設迴圈經濟高質量發展體系； 7.【活力中國調研行】天津：打通科研成果轉化“最後一公里”； 8.各地積極應對強降雨天氣； 9.【暖心一瞬】危急時刻伸援手 凡人善舉暖人心； 10.國內聯播快訊： （1）四部門延續實施失業保險穩崗擴崗政策舉措； （2）《國際科技組織成立登記指引》出臺； （3）西渝高鐵石家梁隧道貫通； （4）全球數字經濟首批燈塔案例在北京釋出； 11.多國人士高度評價習近平在慶祝中國共產黨成立105週年大會上的重要講話； 12.俄稱控制重鎮康斯坦丁諾夫卡 烏稱襲擊聖彼得堡； 13.國際聯播快訊： （1）伊朗舉行哈梅內伊遺體告別儀式； （2）用電超負荷 美國部分電力公司實施限電； （3）西班牙東北部發生林火 近萬人受影響。
+
+---
+
+### 2026-07-04 19:52:07  #國際
+
+【6月海灣地區原油出口激增】隨著中東局勢趨於緩和以及霍爾木茲海峽航運逐步恢復，中東海灣地區原油出口6月大幅回升，日均出口量突破1000萬桶，但仍明顯低於衝突前水平。路透社3日援引市場服務機構克普勒的資料包道，6月沙烏地阿拉伯、阿拉伯聯合大公國、科威特、伊拉克和伊朗五國原油及凝析油日均出口量增至1007萬桶，較5月增加逾350萬桶。另據能源研究機構沃泰克薩估算，6月上述地區日均出口約1020萬桶，高於5月的約700萬桶，但仍較去年同期約1650萬桶的水平低40%。多家機構資料顯示，阿聯酋成為原油出口恢復最快的國家，6月日均出口量升至370萬至380萬桶，創歷史新高，較5月增加逾100萬桶。克普勒分析師說，自美國和伊朗簽署諒解備忘錄、霍爾木茲海峽通航逐步恢復以來，前期滯留海灣水域的大量原油被迅速消化，目前約有2300萬桶原油仍在等待透過海峽，而4月底這一數字一度高達9600萬桶。（新華社）
+
+---
+
+### 2026-07-04 19:46:34  #公司 #國際
+
+【韓國執政黨批美涉酷澎報告“失實”】韓國執政黨共同民主黨4日對美國近日一份涉電商巨頭酷澎公司的報告表示“強烈遺憾”，稱報告內容“嚴重失實”，並批評酷澎試圖借美方報告轉嫁對大規模使用者資訊洩露事件的責任。美國眾議院司法委員會本週早些時候釋出一份中期報告，稱酷澎長期是韓國政府的“針對目標”，還稱韓國對美資企業實施了“強制調查、過於繁重的監管要求以及過重的罰款與處罰”。共同民主黨發言人張潤美（音譯）4日在書面簡報中說，美方報告“依據酷澎單方面說法和未經核實的資料，嚴重歪曲韓國政府立場”。她表示，韓國政府不會因企業的國籍而採取歧視性或不公平監管措施，酷澎應“停止為掩蓋自身過錯而向（韓國）政府轉嫁責任”。張潤美還說，酷澎在使用者個人資訊洩露事件上不應保持沉默，不應把自己塑造成受害者。韓國國會、總統府和外交部此前已分別表態，對美方報告內容表示遺憾，強調韓方圍繞酷澎資料洩露事件開展的調查和監管措施公平。（新華社）
+
+---
+
+### 2026-07-04 19:42:05  #其他
+
+【雲南大理州賓川縣發生地震 中國地震局啟動四級應急響應】據中國地震局網站訊息，據中國地震臺網正式測定，2026年7月4日18時28分，在雲南大理州賓川縣(北緯25.95度，東經100.58度)發生4.3級地震，震源深度10公里。 地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、雲南省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。（中新網）
+
+---
+
+### 2026-07-04 19:40:32  #MKT News
+
+Mali's military said the situation was 'fully under control' after insurgent attacks on five cities and towns.
+
+---
+
+### 2026-07-04 19:40:11  #其他
+
+【水利部對遼寧吉林啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，水利部4日對遼寧、吉林2省份啟動洪水防禦Ⅳ級應急響應，派出2個工作組赴防汛一線協助指導。 據預報，受東北冷渦影響，7月4日至6日，遼寧北部西部、吉林大部等地累計降水量將達40毫米至60毫米，區域性可能超過100毫米；遼寧渾河中游幹流、蘇子河，吉林輝發河、小孤山河、鰲龍河等河流可能發生超警洪水。 為應對可能發生的汛情，水利部要求地方水利部門和流域管理機構滾動開展雨情、水情、汛情預測預報，加強會商研判，及時釋出預警資訊；科學精細排程水工程，做好水庫、堤防等工程巡查防守，及時發現並處置險情；重點抓好中小河流洪水和山洪災害防禦，全力保障人民群眾生命財產安全。(新華社)
+
+---
+
+### 2026-07-04 19:40:00  #其他
+
+黎巴嫩軍方：陸軍司令接見聯合國駐黎巴嫩臨時部隊（聯黎部隊）特派團團長，討論如何在當前挑戰下加強合作。
+
+---
+
+### 2026-07-04 19:34:11  #其他
+
+【雲南消費品以舊換新、購新補貼品類擴容】據雲南省商務廳4日訊息，自2026年7月起雲南省在現有家電以舊換新、數碼和智慧產品購新補貼品類基礎上，新增9類補貼產品，並同步開放商戶增補報名通道。 新增產品分為兩個渠道實施：數碼和智慧產品購新補貼渠道新增智慧門鎖、智慧影音(含投影儀、音箱／音響)、智慧掃地機器人(含洗地機)、無人機、數碼相機(含運動相機)5類；家電以舊換新補貼渠道新增吸油煙機、家用燃氣灶(含整合灶)、洗碗機、淨水器4類。 補貼標準方面，按產品最終銷售價格(剔除所有折扣優惠後)的15%給予補貼，每位消費者每類產品可補貼1件，每件補貼不超過1500元。 商戶報名不設定行業、規模、區域限制性門檻，支援不同經營主體參與。有意願參與的經營主體可透過“雲南省家電數碼產品購新補貼商戶申報”平臺線上提交相關報名資訊。（中新網）
+
+---
+
+### 2026-07-04 19:27:10  #公司
+
+【德才股份與香港利達建築集團簽署戰略合作協議】7月3日，香港利達建築集團董事長張偉儒、煙臺東昌供熱與新能源集團董事長楊永業、香港利達建築集團總監康志鋼一行蒞臨德才股份參觀交流。雙方圍繞業務協同、市場拓展等議題深入座談，並簽署戰略合作框架協議。
+
+---
+
+### 2026-07-04 19:26:03  #國際
+
+【巴基斯坦一檢查站遭汽車炸彈襲擊 多人死傷】巴基斯坦官方訊息人士4日說，該國西南部俾路支省一個海岸警衛隊檢查站3日遭到汽車炸彈襲擊和武裝攻擊，造成4名安全人員死亡、16人受傷。有訊息人士披露，恐怖組織“俾路支解放武裝”宣稱制造了此次襲擊。（新華社）
+
+---
+
+### 2026-07-04 19:25:20  #其他
+
+【中越會商研判颱風“美莎克”風雨影響 雲端氣象早期預警業務平臺首次應用於跨境颱風會商】從中國氣象局瞭解到，7月3日19時，世界氣象中心（北京）聯合越南氣象和水文局，並組織中央氣象臺、廣西壯族自治區氣象局等單位，就今年第10號颱風“美莎克”開展會商，國家衛星氣象中心等單位提供技術支援。中越雙方依託全民早期預警中國方案“媽祖（MAZU）”的雲端氣象早期預警業務平臺（以下簡稱早期預警平臺），共同研判颱風路徑、風雨影響及防禦服務重點。這也是該平臺首次應用於中越颱風會商。早期預警平臺是中國氣象局面向全球推出的公共產品，也是全球首個響應並推動落實聯合國全民早期預警倡議的系統。
+
+---
+
+### 2026-07-04 19:23:48  #MKT News #Market Regions #Greater China
+
+【China successfully launches 13 Qianfan polar-orbit satellites】At 17:30 Beijing time on July 4, 2026, China launched 13 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center aboard a modified Long March-6 carrier rocket; all satellites reached their planned orbits and the mission was declared successful.
+
+---
+
+### 2026-07-04 19:22:49  #其他
+
+【我國成功發射千帆極軌13組衛星】北京時間2026年7月4日17時30分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌13組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第655次飛行。（央視）
+
+---
+
+### 2026-07-04 19:22:21  #其他
+
+馬裡軍方表示，在五座城鎮遭叛亂分子襲擊後，局勢“已完全得到控制”。
+
+---
+
+### 2026-07-04 19:09:53  #國際
+
+烏克蘭稱俄羅斯在2026年損壞了超過200臺鐵路機車。
+
+---
+
+### 2026-07-04 19:09:20  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank "well placed." He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is "very low" versus other central banks, that June's hike was "reasonable," and that ECB communication indicated the June increase did not mark the start of a new tightening cycle.
+
+---
+
+### 2026-07-04 19:00:19  #其他
+
+【雲南大理州賓川縣一小時3次四級以上地震：當地震感明顯，部分列車將晚點】中國地震臺網正式測定，2026年7月4日17時33分、18時07分、18時28分，雲南省大理州賓川縣先後發生4.4級、4.3級、4.3級地震。為確保旅客列車執行安全，中國鐵路昆明局集團有限公司第一時間啟動應急響應，對大理東至洱海、洱海至西邑區間實施封鎖，緊急叫停該區段內執行列車，並安排工務、電務、供電等部門上線對線路裝置進行全面檢查。受此影響，大理往返昆明、麗江、香格里拉方向的部分旅客列車將出現不同程度晚點。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點導致的退票不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。（人民日報）
+
+---
+
+### 2026-07-04 18:57:11  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine.
+
+---
+
+### 2026-07-04 18:56:14  #國際
+
+德國方面發表宣告稱，德國總理默茨與烏克蘭總統澤連斯基通電話，討論了俄羅斯對基輔和烏克蘭其他地區的空襲。
+
+---
+
+### 2026-07-04 18:48:00  #宏觀
+
+【國家資料局局長劉烈宏：將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準】7月3日，2026全球數字經濟大會資料要素髮展論壇在京舉辦。國家資料局局長劉烈宏在致辭中表示，下一步將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。劉烈宏表示，當前，行業資料價值釋放進入縱深推進的新階段，重點問題解決路徑更加明晰。“談到資料流通利用，大家經常提到資料資源分散、資料不出域、資料標準不統一等難點問題，在‘531’工作體系下，這些問題已在實踐中形成基本解決思路和路徑。”關於資料標準不統一的問題，劉烈宏提到：“我們提出以語義貫通破解格式壁壘，加快提升資料流通利用的效率，資料格式不統一是資訊化發展的產物，在數智化發展日新月異的今天，若要求所有的部門、行業、企業統一底層資料儲存的格式，代價是十分高昂的，效率也是不高的，在很多領域、很多場景下不具備現實的可行性。”他表示，解決這一問題，我們要逐步跳出原有的工作思路，要從重格式統一向語義貫通轉變，真正需要的是可互操作的規則層，而非底層儲存格式的大一統。在技術實現上要從靜態對齊向動態適配轉變，依託後設資料的掛載、語義對映等機制，實現資料自帶標準化語義，支撐機器自動識別上下文。“下一步我們將採取分類施策、分級推進的策略，在國家層面充分考慮資料與人工智慧發展雙向賦能需求，研究制定物件標準後設資料語義、介面協議等多方面的統一標準，加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。”劉烈宏說。（每經）
+
+---
+
+### 2026-07-04 18:47:41  #MKT News
+
+【15-20 mln expected at Tehran farewell for late Supreme Leader Khamenei, July 4-6】Iran is holding public farewell and mourning ceremonies for the late Supreme Leader Khamenei in Tehran from July 4 to July 6; attendance is expected at 15-20 million.
+
+---
+
+### 2026-07-04 18:47:35  #國際
+
+【上千萬伊朗人參與哈梅內伊告別儀式】今天（7月4日）開始到6日，伊朗已故最高領袖哈梅內伊的公眾告別與悼念儀式在伊朗首都德黑蘭舉行，預計將有1500萬至2000萬伊朗民眾前來為哈梅內伊送別。（CCTV國際時訊）
+
+---
+
+### 2026-07-04 18:45:54  #國際
+
+【烏克蘭南部兩車相撞 已致12死6傷】當地時間4日，烏克蘭總統澤連斯基通報稱，烏南部尼古拉耶夫州發生一起交通事故，目前死亡人數已升至12人，另有6人受傷。
+
+---
+
+### 2026-07-04 18:41:53  #宏觀
+
+【諶貽琴在陝西調研時強調 促進養老事業和養老產業發展 持續做強做大文旅產業】國務委員諶貽琴2日至4日在陝西調研民政、文旅等工作。她強調，要深入學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神，堅決落實黨中央、國務院決策部署，大力促進養老事業和養老產業發展，持續做強做大文旅產業。諶貽琴先後來到咸陽市、西安市，深入企業、產業園、民俗村等，詳細瞭解穩崗擴崗、銀髮經濟、鄉村旅遊等情況，並與地方政府、企業家和專家座談。她指出，銀髮經濟涉及面廣、產業鏈長、業態多元、潛力巨大，要聚焦老年人的多樣化需求，擴大產品供給，提升質量水平，壯大經營主體，提高群眾生活品質。要加快健全分級分類、普惠可及、覆蓋城鄉、持續發展的養老服務體系，充分發揮消費補貼等政策牽引作用，著力打造一批銀髮消費新場景新業態，不斷把人口老齡化挑戰轉化為經濟發展的新機遇新動能。諶貽琴強調，要用好地方文化和旅遊資源，深入挖掘傳統節慶民俗特色，加力推出更多優質文化產品、精品旅遊線路，促進文旅消費均衡發展。要積極推進“文旅+百業”、“百業+文旅”，加大對文旅體、農文旅、文商旅等融合發展的支援力度，因勢利導打造經濟新增長點，助力經濟社會高質量發展。（新華社）
+
+---
+
+### 2026-07-04 18:38:28  #其他
+
+中國地震臺網正式測定：07月04日18時28分在雲南大理州賓川縣（北緯25.95度，東經100.58度）發生4.3級地震，震源深度10千米。雲南省大理州賓川縣在一個小時內接連發生3次四級以上地震，造成當地震感明顯。
+
+---
+
+### 2026-07-04 18:33:16  #MKT News
+
+【Multiple Malian military positions attacked】Malian armed forces said on the 4th multiple army positions were attacked in the early morning and that authorities are tracking developments. Positions hit were in the north at Aguelhok, Anefis and Gao, and in the central town of Sevare. The statement gave no details on the attackers, the sequence of events or casualties. Mali has faced persistent insecurity since 2012, with frequent terrorist attacks and armed clashes; the military has said it will continue operations against armed groups.
+
+---
+
+### 2026-07-04 18:29:48  #其他
+
+【馬裡多地軍方陣地遭襲】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天清晨遭到襲擊，目前軍方正跟蹤局勢發展。 公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。公報未說明襲擊者身份、具體經過以及是否有人員傷亡。（新華社）
+
+---
+
+### 2026-07-04 18:28:38  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+【Over 200 Ukrainian drones attack Moscow region; 62 downed near city】Moscow mayor Sergei Sobyanin said on July 4 that more than 200 Ukrainian military drones attacked the Moscow region in the past 24 hours. Most were intercepted at range and 62 were destroyed as they approached Moscow city. Russia called it one of the largest drone attacks on the Moscow region in roughly two years. Ukraine had no immediate comment.
+
+---
+
+### 2026-07-04 18:26:41  #市場 #央行 #國際
+
+歐洲央行管委穆蘭週六表示，繼上月加息、且油價下跌帶動通脹回落的資料出爐後，歐洲央行目前處於 “有利地位”。
+
+---
+
+### 2026-07-04 18:15:52  #國際
+
+烏克蘭農業綜合企業俱樂部(UCAB)表示，烏克蘭6月農產品出口下降7.5%，至480萬噸。
+
+---
+
+### 2026-07-04 18:14:07  #MKT News
+
+Von der Leyen said the European Commission proposed ten months ago to suspend preferential trade treatment under the EU‑Israel Association Agreement.
+
+---
+
+### 2026-07-04 18:13:46  #其他
+
+【颱風“美莎克”逼近廣西東興市 今晚將再次登陸】截至今天17點，今年第10號颱風“美莎克”的中心位於距離廣西東興市南偏東方向約75公里的海面上，中心附近最大風力有10級，強度為強熱帶風暴級。預計，“美莎克”將以每小時10~15公里的速度向北偏西移動，強度變化不大。預計颱風“美莎克”今晚將在廣西和越南北部交界附近沿海再次登陸，之後轉向偏北方向移動，強度逐漸減弱。將於6日在廣西北部減弱消散。受“美莎克”影響，今天，廣西中南部、廣東中部、海南島西部等地將有暴雨或大暴雨，廣西南部局地有特大暴雨。
+
+---
+
+### 2026-07-04 18:09:07  #其他
+
+中國地震臺網自動測定：07月04日18時07分在雲南大理州賓川縣附近（北緯25.97度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-04 18:06:46  #國際
+
+【超200架無人機來襲 俄稱莫斯科再遭大規模襲擊】當地時間7月4日，俄羅斯莫斯科市長索比亞寧通報稱，過去24小時，有超過200架烏軍無人機襲擊莫斯科地區，其中大部分在遠處被攔截，有62架在接近莫斯科市時被摧毀。俄羅斯方面稱，這是近兩年來針對莫斯科地區最大規模的無人機襲擊之一。烏克蘭方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-07-04 18:03:13  #其他
+
+【颱風“美莎克”對瓊州海峽影響減弱 客滾船將於21時復運】從湛江海事局獲悉，隨著颱風“美莎克”影響持續減弱，瓊州海峽客滾船將於7月4日21時起正式復運。（央視新聞）
+
+---
+
+### 2026-07-04 18:01:07  #公司
+
+【廣東太平嶺核電2號機組首次併網發電】從總部位於深圳的中國廣核集團有限公司獲悉，7月4日9時16分，中廣核廣東太平嶺核電專案2號機組首次併網成功，發出第一度電，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。太平嶺核電專案2號機組於2020年10月15日開工建設。併網後經現場確認，機組執行狀態良好，各項技術指標符合設計預期。後續將按計劃執行系列試驗，進一步驗證機組效能，預計將於2026年下半年正式投產發電。（新華社）
+
+---
+
+### 2026-07-04 17:57:35  #公司
+
+【我國首架綜合航測飛機首飛成功】從中國航空工業集團獲悉，我國首架大氣環境綜合探測固定翼飛機平臺“運12F大氣綜合航測飛機”近日在哈爾濱平房機場首飛成功。據悉，該型機以運12F飛機為載機，圍繞大氣顆粒物、氣態汙染物、溫室氣體及雲水物理化學等多汙染物高靈敏立體探測需求，完成了60餘項任務裝置的整機大規模整合加改裝工作，具備多汙染物、溫室氣體與雲水探測的整合航測能力。該機的成功研製，將為我國區域大氣汙染監測提供重要的垂直探測手段。（新華社）
+
+---
+
+### 2026-07-04 17:54:15  #MKT News
+
+【Ukraine denies Russian control of Konstantynivka】Ukraine's General Staff said on the 4th that reports Russian forces have taken control of Konstantynivka in Donetsk region are false. A General Staff spokesman said Russian forces are still attempting to seize the town; small Russian units have penetrated Ukrainian positions and Ukrainian troops are conducting clearing operations. The situation is severe but the town remains under Ukrainian control.
+
+---
+
+### 2026-07-04 17:53:19  #國際
+
+俄羅斯聯邦安全會議副主席梅德韋傑夫：霍爾木茲海峽已成為伊朗的一件武器，其威力不亞於核武器。
+
+---
+
+### 2026-07-04 17:49:07  #其他
+
+澳大利亞新南威爾士州確認一例H5禽流感病例。
+
+---
+
+### 2026-07-04 17:48:33  #國際
+
+澤連斯基：普京聲稱俄羅斯軍隊已佔領頓巴斯的康斯坦丁諾夫卡。這不是真的。
+
+---
+
+### 2026-07-04 17:48:23  #國際
+
+烏克蘭總統澤連斯基：我與德國總理默茨進行了交談。我非常感激他對我們人民和國家的支援與援助。現在的最優先事項是為愛國者系統提供導彈，以保護我們的人民免受俄羅斯彈道導彈襲擊。這也是我們談話的主要焦點：向我們的愛國者系統提供我們所需的導彈的可能性。
+
+---
+
+### 2026-07-04 17:47:56  #其他
+
+訊息人士稱，德國內閣將批准借款規模超2030億歐元的預算草案。
+
+---
+
+### 2026-07-04 17:38:56  #公司
+
+紐約聯合愛迪生公司（Con Edison）呼籲皇后區東南部的使用者節約能源。此前該公司表示，由於高溫導致裝置故障，2日至3日全市逾8萬使用者遭遇停電。
+
+---
+
+### 2026-07-04 17:35:33  #MKT News
+
+【US West wildfires intensify; about 40 large blazes uncontrolled】About 40 large wildfires are currently uncontrolled across the United States, concentrated in the US West. Colorado’s Aspen Acres fire is the most severe: as of July 3 it had burned about 297 sq km, destroyed more than 160 structures, forced thousands to evacuate and is reported fully out of control. The fire ignited southwest of Denver and, driven by persistent drought and strong winds, has spread into Pueblo and Custer counties. The NWS has issued red-flag warnings for large areas of the western US.
+
+---
+
+### 2026-07-04 17:35:19  #其他
+
+中國地震臺網自動測定：07月04日17時33分在雲南大理州賓川縣附近（北緯25.96度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-04 17:35:04  #其他
+
+【總投資15億元，常州三大專案正式簽約】據常州釋出，近日，常州三大用地專案成功簽約，分別為：高階新型裝飾材料智慧研發生產專案、精密機床核心元件生產基地專案、塑編產裝一體化智慧製造專案。專案總投資超15億元，用地約130畝，達產後預計年新增工業產值超17億元。
+
+---
+
+### 2026-07-04 17:34:23  #國際
+
+【火情嚴峻 全美約40處大規模山火失控】連日來，美國西部多州山火肆虐，其中科羅拉多州名為“阿斯彭英畝”的山火火情最為嚴峻。當地時間7月3日，該山火過火面積達到了297平方公里，超過160座建築被毀，數千居民被迫撤離。目前，火勢已完全失控。據悉，“阿斯彭英畝”山火從科羅拉多州丹佛市西南方向燃起，受持續乾旱、大風等天氣影響，火勢迅速蔓延至該州普韋布洛縣和卡斯特縣。“阿斯彭英畝”山火只是美國西部當前嚴峻火情的縮影。目前全美約有40處大規模山火處於失控狀態，主要分佈在西部地區。美國國家氣象局已對西部大片地區釋出紅色火災預警。（央視新聞）
+
+---
+
+### 2026-07-04 17:26:16  #央行 #國際
+
+歐洲央行管委、法國央行行長穆蘭：我們並未承諾歐洲央行將進行新一輪加息。
+
+---
+
+### 2026-07-04 17:25:37  #MKT News
+
+【Chinese naval flotilla to visit Vietnam】Early July, at the invitation of the Vietnamese navy, two PLA Navy ships, Qi Jiguang and Kunlunshan, will visit Ho Chi Minh City. China and Vietnam have stepped up naval exchanges and joint patrols in recent years, which officials say bolster mutual trust and regional stability.
+
+---
+
+### 2026-07-04 17:24:14  #市場
+
+【Trendforce：傳統 DRAM價格Q3預計上漲13%至18%】Trendforce 預計，在 2026 年第三季度，傳統 DRAM 產品的合同價格將環比上漲 13%至 18%。
+
+---
+
+### 2026-07-04 17:22:39  #其他
+
+【引導人形機器人產業健康發展 兩協會發布倡議】中國人形機器人百人會、中國機械工業聯合會機器人分會分別釋出倡議，呼籲共同打造安全可信、合規向善、可持續發展的人形機器人產業生態，推動機器人產業健康發展。中國人形機器人百人會提出，全行業要堅持科技向善，防範倫理和安全風險，把安全倫理規範要求融入產品設計、研發、廣告宣傳、應用全過程；保障產品使用安全，切實防範對使用者的人身傷害風險；加大基礎技術研發投入，立足實際應用場景推廣應用，協同搭建產業公共平臺。中國機械工業聯合會機器人分會表示，全行業應加強個人隱私保護，規範創新應用，自覺維護清朗健康的產業發展環境；全行業應團結協作，以開放姿態擁抱人工智慧等新技術，共同提升機器人產業核心競爭力。（新華社）
+
+---
+
+### 2026-07-04 17:20:48  #國際
+
+美國地質調查局：印尼託貝洛以西64公里處發生5.0級地震。
+
+---
+
+### 2026-07-04 17:17:46  #MKT News
+
+US Geological Survey said a magnitude-5.1 earthquake occurred about 264 km off Abepurasi, Indonesia.
+
+---
+
+### 2026-07-04 17:16:32  #國際
+
+美國地質調查局：印尼阿貝普拉西側 264 公里處發生5.1級地震。
+
+---
+
+### 2026-07-04 17:14:02  #國際
+
+【澤連斯基證實打擊俄聖彼得堡附近石油基礎設施】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文證實，烏方於當日凌晨發起遠端打擊行動，擊中俄羅斯聖彼得堡附近港口的石油基礎設施。與此同時，烏國防力量還打擊了聖彼得堡附近喀琅施塔得的重要軍事目標。當天，俄聖彼得堡市市長別格洛夫稱，該市遭到烏軍大規模無人機襲擊。據他介紹，有72架無人機被攔截。別格洛夫稱，該市基洛夫區的石油碼頭區域被擊中，襲擊造成的影響已被消除，沒有造成人員傷亡。
+
+---
+
+### 2026-07-04 17:04:44  #其他
+
+【西班牙東北部發生大規模森林火災】當地時間7月3日晚，西班牙東北部加泰羅尼亞自治區發生大規模森林火災，過火面積約2300公頃。目前，火勢尚未得到控制。近萬名居民被疏散或要求居家避險，多條公路臨時封閉。當地警方稱，已有一人因涉嫌縱火被拘留。初步調查顯示，火災可能是公路施工時使用裝置產生火花引發的，具體原因仍在調查中。（CCTV國際時訊）
+
+---
+
+### 2026-07-04 17:04:30  #公司
+
+德國大陸集團 ：將向孤星基金出售康迪泰克集團（Contitech Group）業務板塊。本次交易企業價值為40億歐元，此外最高可獲得基於業績表現的2.5億歐元額外對價。出售康迪泰克後，集團將專注於核心輪胎業務。該交易尚待監管部門批准，有望在2026年底前完成
+
+---
+
+### 2026-07-04 16:52:36  #國際
+
+【特朗普吹噓美國“戰績” 稱“我們很善良”】當地時間7月3日，即美國獨立日前夕，美國總統特朗普在南達科他州拉什莫爾山（俗稱“總統山”）發表演講，吹噓美國的“戰績”。特朗普還稱，伊朗“渴望解決爭端”，美國“很善良”，“給伊朗一週時間辦喪事”。（新華社）
+
+---
+
+### 2026-07-04 16:51:05  #其他
+
+【新疆卡拉蘇口岸上半年進出口貨物超30萬噸】從新疆卡拉蘇邊檢站瞭解到，卡拉蘇口岸截至6月30日，累計進出口貨物30.57萬噸、出入境人員2.8萬人次，與去年同期相比分別增長26.22%、增長35.85%，通關人數和貨運量雙創新高。（央視新聞）
+
+---
+
+### 2026-07-04 16:49:56  #其他
+
+【明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站正式投運】近期，明陽包頭威俊150萬千瓦獨立儲能電站500千伏彙集站順利完成各項測試，正式併網投運。作為目前國內電壓等級最高、配套單體儲能規模最大的500千伏儲能彙集站和全國儲能領域的標杆性工程，該專案落地投用，將補齊蒙西地區高壓儲能電網配套短板，進一步完善包頭市源網荷儲一體化能源產業佈局，為區域能源結構最佳化、新型電力系統建設、綠色低碳發展注入強勁持久動能。
+
+---
+
+### 2026-07-04 16:49:41  #MKT News
+
+【Mingyang Baotou Weijun 1.5 GW standalone storage plant 500 kV collection substation commissioned】The 500 kV collection substation for Mingyang’s Baotou Weijun 1.5 GW standalone energy-storage plant has completed testing and been connected to the grid. The project, China’s highest-voltage and largest single-unit 500 kV storage collection station and a national benchmark, fills a high-voltage storage grid gap in western Inner Mongolia and advances Baotou’s source–grid–load–storage integration, supporting regional energy-structure optimization, new power-system construction and low-carbon development.
+
+---
+
+### 2026-07-04 16:42:36  #宏觀
+
+【國務委員兼國務院秘書長吳政隆在湖北湖南調研時指出持續增強內生動力推動經濟向新向優向好發展】國務委員兼國務院秘書長吳政隆2日至4日在湖北、湖南調研。他強調，要深入學習貫徹習近平總書記“七一”重要講話精神，牢固樹立和踐行正確政績觀，牢牢把握高質量發展這個首要任務，以更大力度和更實舉措抓好黨中央、國務院決策部署貫徹落實，奮力實現全年經濟社會發展目標任務，確保“十五五”開好局、起好步。 吳政隆先後到湖北武漢和湖南嶽陽、長沙等地，實地調研新能源汽車、工業母機、新材料、晶片、石化等企業，並與有關地方政府、企業負責人座談交流。他指出，今年以來我國經濟執行起步平穩、穩中有進，展現強大韌性和活力。要錨定全年目標任務，增強發展信心，用好宏觀政策，緊盯經濟執行和高質量發展中的重點和難題採取針對性舉措，鞏固拓展經濟穩中向好勢頭。要著力擴大內需、最佳化供給，加強“六張網”規劃建設，促進服務業擴能提質，縱深推進全國統一大市場建設，更大釋放超大規模市場潛力。要強化創新鏈產業鏈融合，因地制宜發展新質生產力，推動製造業高階化、智慧化、綠色化發展，培育壯大新興產業和未來產業，促進人工智慧賦能千行百業，充分激發經濟內生動力和活力。 吳政隆強調，要更好統籌發展和安全，樹牢底線思維、極限思維，紮實做好穩增長、惠民生、防風險等各項工作，不斷提高貫徹黨中央、國務院決策部署的執行力，把“時時放心不下”的責任感轉化為“事事心中有底”的行動力，切實增強人民群眾獲得感、幸福感、安全感。(新華社)
+
+---
+
+### 2026-07-04 16:40:56  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #Brent
+
+【UK, France to cooperate with Oman to secure its territorial waters】On July 3, the UK and France said in a joint statement that Oman has agreed to cooperate with them to secure navigation within its territorial waters. Both countries said they stand ready to deploy a larger multinational military operation to safeguard freedom of navigation in the Strait of Hormuz.
+
+---
+
+### 2026-07-04 16:40:48  #其他
+
+【北京市經信局：已構建全國領先的AIGC產業鏈條 未來將透過專項政策與資金持續深化場景賦能】2026全球數字經濟大會—"AIGC for Future論壇"今日在北京舉行，北京市經濟和資訊化局副局長王濱在論壇上表示，北京已構建起全國領先的AIGC產業鏈條，未來將透過專項政策與資金持續深化場景賦能，並以東城數字化試點為契機推廣產文融合的“北京模式”。
+
+---
+
+### 2026-07-04 16:40:19  #其他
+
+【工信部：支援北京在國家未來產業總體佈局中發揮引領示範作用】工業和資訊化部高新技術司副司長毛俊鋒在2026全球數字經濟大會未來產業大會上表示，未來產業正處於孕育突破、加速演進的重要視窗期，是搶佔科技和產業制高點、把握髮展主動權及發展新質生產力的關鍵。工信部已聯合七部門印發實施意見，系統佈局未來製造、未來資訊等六大方向，構建起產業發展的"四梁八柱"，並從頂層設計、區域佈局、技術攻關和生態營造四個維度持續發力，引導"耐心資本"投早、投小、投硬科技。工信部將一如既往支援北京，透過強化部市協同、加大前沿賽道技術攻關支援、推動創新要素集聚三大舉措，助力北京在國家未來產業佈局中發揮引領示範作用，共同推動未來產業高質量發展。
+
+---
+
+### 2026-07-04 16:38:43  #國際
+
+【英法將與阿曼合作 保障該國領海航行安全】當地時間7月3日，英國和法國發表聯合宣告說，阿曼已同意與英國、法國開展合作，保障該國領海範圍內的航行安全。英法兩國隨時準備部署規模更大的多國聯合軍事行動，維護霍爾木茲海峽的航行自由。法國總統馬克龍當天在社交媒體發文表示，法國在中東海域的排雷力量及其附屬護衛力量已就位，隨時準備與夥伴展開行動。此外，由於美國和伊朗簽訂諒解備忘錄為地區穩定帶來重要進展，法國在此新形勢下調整在中東海域的軍力部署。法國“戴高樂”號航母已離開中東，正駛回該國土倫港。
+
+---
+
+### 2026-07-04 16:35:56  #國際
+
+【普京：繼續猛打烏克蘭軍工設施】俄羅斯總統普京3日說，必須繼續對烏克蘭軍工綜合體及相關設施進行大規模打擊。據俄羅斯總統網站3日釋出的訊息，普京當天視察俄聯合部隊叢集某輔助指揮所，與俄軍總參謀部負責人及各部隊指揮員就特別軍事行動區域當前局勢和近期戰況召開了軍事會議。普京在會上宣佈俄軍已“完全解放”盧甘斯克，並在頓涅茨克取得重大進展。普京說，俄軍繼續在特別軍事行動區域內保持戰略主動權，“解放”康斯坦丁諾夫卡具有重要戰略意義，俄軍在頓涅茨克、扎波羅熱和赫爾松等地殲滅烏克蘭武裝部隊的行動仍在持續。他表示，應繼續大規模打擊烏克蘭軍工體系的基礎設施及相關裝置。（新華社）
+
+---
+
+### 2026-07-04 16:34:25  #其他
+
+【中國海軍艦艇編隊將訪問越南】7月初，應越南海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊將赴越南胡志明市訪問。近年來，中越海軍在艦艇互訪、聯合巡邏等領域深化合作，為增進兩國互信、維護地區穩定發揮積極作用。（央視新聞）
+
+---
+
+### 2026-07-04 16:29:46  #國際
+
+印度總理莫迪週六在拉賈斯坦邦一次活動上表示，將繼續建設新的煉油廠。
+
+---
+
+### 2026-07-04 16:27:41  #國際
+
+【中國空調在歐洲賣爆 多品牌正加急補貨】歐洲多國極端高溫持續，中國“避暑神器”在當地被賣爆。多家國內廠商向記者證實，近期以行動式分體空調為代表的製冷家電在歐洲出貨量成倍增長。格力電器和TCL方面均表示，區域渠道的移動空調已全面售罄，目前正加急補貨。海信相關負責人稱，“銷售額遠超預期，出現脫銷現象。現在歐洲這邊的訂單全都優先安排生產，車間兩班倒連軸轉，全天不停工。”受訪業內人士普遍認為，隨著厄爾尼諾現象增多，未來歐洲空調市場仍具增長潛力，而受高基數疊加氣候影響，國內空調市場全年銷量增長面臨一定壓力。 (財聯社)
+
+---
+
+### 2026-07-04 16:24:40  #MKT News
+
+Military says rebels launched attacks at five locations in Mali.
+
+---
+
+### 2026-07-04 16:23:04  #其他
+
+馬裡軍方稱，武裝叛亂分子在馬裡境內五處地點發動襲擊。
+
+---
+
+### 2026-07-04 16:19:57  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+TASNIM NEWS, citing Lebanese sources, said Israel carried out a drone strike near Sadikin.
+
+---
+
+### 2026-07-04 16:17:18  #國際
+
+【俄稱聖彼得堡市遭大規模無人機襲擊】當地時間7月4日，俄羅斯聖彼得堡市市長別格洛夫稱，該市遭到烏軍大規模無人機襲擊。據他介紹，有72架無人機被攔截。別格洛夫稱，該市基洛夫區的石油碼頭區域被擊中，襲擊造成的影響已被消除，沒有造成人員傷亡。烏克蘭方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-07-04 16:12:18  #MKT News
+
+Iraq's president told Saudi outlet Hadas that ensuring weapons are controlled by the state is the new government's most important issue.
+
+---
+
+### 2026-07-04 16:09:46  #公司
+
+【國家礦山安全監察局山西局監察執法八處一級調研員胡慧松接受山西省監察委員會監察調查】國家礦山安全監察局山西局監察執法八處一級調研員胡慧松涉嫌嚴重違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省監察委員會監察調查。 （新華社）
+
+---
+
+### 2026-07-04 16:09:10  #公司
+
+【國家礦山安全監察局山西局監察執法八處二級調研員於張慶接受山西省監察委員會監察調查】國家礦山安全監察局山西局監察執法八處二級調研員於張慶涉嫌嚴重違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省監察委員會監察調查。（新華社）
+
+---
+
+### 2026-07-04 16:08:46  #其他
+
+【內蒙古自治區呼倫貝爾市政協原副主席田曉川被開除黨籍】中央紀委國家監委網站7月4日通報， 據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對內蒙古自治區呼倫貝爾市政協原黨組成員、副主席田曉川嚴重違紀違法問題進行了立案審查調查。經查，田曉川喪失理想信念，背棄初心使命，無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金；對組織不忠誠、不老實，不如實報告個人有關事項，在組織談話函詢時不如實說明問題，破壞組織原則，在幹部選拔任用、職工錄用工作中為他人謀取利益並收受財物，利用職權為親屬謀取人事利益；踐踏黨紀國法，利用職務便利或職權地位形成的便利條件，為他人在專案承攬、工程款撥付、幹部選拔任用等方面謀取利益，並非法收受鉅額財物。田曉川嚴重違反黨的組織紀律、廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予田曉川開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-07-04 16:08:12  #公司
+
+【內蒙古電力集團原黨委委員、工會主席白振英被開除黨籍】中央紀委國家監委網站7月4日通報， 據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對內蒙古電力（集團）有限責任公司原黨委委員、工會主席白振英嚴重違紀違法問題進行了立案審查調查。經查，白振英喪失理想信念，背棄初心使命，無視中央八項規定精神，借用管理和服務物件車輛、房屋；違反組織原則，不按規定報告個人有關事項，在幹部選拔任用工作中為他人謀取利益並收受財物；廉潔底線失守，收受可能影響公正執行公務的禮金，利用職務便利收受下屬錢款；將公權力異化為攫取私利的工具，為他人在職務晉升、工程承攬等方面謀利，並非法收受鉅額財物。白振英嚴重違反黨的組織紀律、廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重、影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予白振英開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-07-04 16:07:26  #其他
+
+【三部門發文規範國際科技組織成立登記】從民政部獲悉，為支援國際科技組織在華設立和發揮積極作用，進一步規範其成立登記，民政部、科技部、中國科協制定《國際科技組織成立登記指引》，明確其成立條件、申請程式等。 據介紹，登記指引適用於在民政部申請成立登記的國際科技組織，即由中外高等學校、科研院所、科技組織、企業等單位或者個人共同發起，在中國境內成立登記，旨在促進自然科學和工程技術領域國際合作、國際交流和國際治理的國際性（或者區域性）、非營利性、非政府的社會團體法人。在經濟、教育、文化、衛生、體育、環保等領域發起設立國際性社會組織，可參照適用。 登記指引要求，成立國際科技組織須有適當的中外發起人，發起人為初始會員；有規範的名稱，應按照國家有關規定經過批准，冠以“國際”“世界”“全球”“亞洲”等體現組織國際性或者區域性的字樣；有合法的資產和經費來源，成立時的活動資金為捐贈資金，不低於200萬元等。 在申請程式上，主要包括5個環節，分別是明確業務主管單位，業務主管單位稽核，登記管理機關審查，准予登記和發放證書，以及刻制印章、辦理稅務登記和開立銀行賬戶。（新華社）
+
+---
+
+### 2026-07-04 16:06:49  #其他
+
+【內蒙古自治區阿拉善盟行政公署原副盟長包野被“雙開”】中央紀委國家監委網站7月4日通報， 據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對內蒙古自治區阿拉善盟行政公署原黨組成員、副盟長包野嚴重違紀違法問題進行了立案審查調查。經查，包野喪失理想信念，背棄初心使命，無視中央八項規定精神和廉潔自律準則，違規收受禮金；廉潔底線失守，搞權權交易；毫無紀法底線，利用職務便利為他人在煤炭資源配置、工程專案承攬等方面謀利，並非法收受鉅額財物。包野嚴重違反黨的廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，特別是黨的二十大後仍不知止，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予包野開除黨籍處分；由自治區監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-07-04 16:06:06  #其他
+
+【內蒙古自治區包頭市人大常委會原主任徐德林被開除黨籍】中央紀委國家監委網站7月4日通報，據內蒙古自治區紀委監委訊息：經內蒙古自治區黨委批准，內蒙古自治區紀委監委對內蒙古自治區包頭市人大常委會原黨組書記、主任徐德林嚴重違紀違法問題進行了立案審查調查。經查，徐德林喪失理想信念，背棄初心使命，對抗組織審查；違反中央八項規定精神和廉潔紀律，收受可能影響公正執行公務的禮金，違規接受宴請；違反組織原則，不按規定報告個人有關事項；貪慾膨脹，將公權力異化為謀取私利的工具，與私營企業主大搞權錢交易，利用職務便利為他人在煤炭資源配置、工程款撥付等方面謀利，並非法收受鉅額財物。徐德林嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，特別是黨的二十大後仍不知止，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經內蒙古自治區紀委常委會會議研究並報內蒙古自治區黨委批准，決定給予徐德林開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-07-04 16:05:23  #國際
+
+美國地質調查局：巴布亞紐幾內亞萊城以北135公里處發生5.1級地震。
+
+---
+
+### 2026-07-04 16:04:17  #其他
+
+【維德角首都機票搜尋量暴增近30倍】7月4日，美加墨世界盃1/16決賽，阿根廷隊3比2艱難擊敗維德角隊，“黑馬”維德角再次收穫了全世界的關注和掌聲。去哪兒旅行指數顯示，訊息帶動赴維德角的機票搜尋量猛增，中國球迷也想去維德角看看。 截至7月4日早8時，飛赴維德角首都普拉亞的機票搜尋量同比上週暴增近30倍。其中，北京、上海和廣州飛普拉亞的航班搜尋熱度最高，廣州-普拉亞的機票搜尋量同比上週暴增184倍。 維德角地處西非，從國內至少需要一次中轉才可以抵達。目前，維德角擁有薩爾島、普拉亞和博阿維斯塔島三個重要的樞紐機場。 （北京日報）
+
+---
+
+### 2026-07-04 16:01:59  #MKT News
+
+【China's express deliveries top 100 bln items year-to-date】State Post Bureau data released July 4 show that as of June 30 cumulative express deliveries in China this year exceeded 100 bln items, hitting the milestone 9 days earlier than in 2025. The postal and courier sector's resilience reflects steady consumer demand and continued moderate economic growth.
+
+---
+
+### 2026-07-04 16:01:09  #焦點
+
+【今年我國快遞業務量已超1000億件】國家郵政局7月4日釋出資料顯示，截至6月30日，今年我國快遞業務量已超1000億件，比2025年提前9天。郵政快遞業的發展韌性，折射出我國消費市場平穩增長、經濟發展穩中有進的良好態勢。
+
+---
+
+### 2026-07-04 16:00:43  #其他
+
+馬裡軍方稱多座主要城鎮遭遇襲擊。
+
+---
+
+### 2026-07-04 15:55:36  #MKT News #WTI #Impact bullish #Brent
+
+Ukrainian President Zelenskiy said Ukrainian forces struck oil and military facilities near St. Petersburg.
 
 ---
 
@@ -17241,515 +17775,5 @@ Canadian Stocks Rise on Softer Fed Outlook — The S&P/TSX Composite Index rose 
 ### 2026-07-03 04:38:16  #國際
 
 【烏克蘭首都基輔遭空襲致27死91傷】烏克蘭基輔市軍事管理局局長特卡琴科2日晚在社交媒體發文稱，俄軍1日晚至2日凌晨對基輔市發動的大規模空襲已造成27人死亡、91人受傷。特卡琴科稱，俄軍襲擊導致達爾尼茨基區一處居民區5人死亡，尚有8人下落不明。目前，搜救工作仍在進行，傷亡人數可能繼續增加。2日下午，在達爾尼茨基區遇襲現場，烏國家緊急情況局發言人告訴新華社記者，基輔市已投入130套裝置和500名救援人員在全市39處遇襲地點展開救援。（新華社）
-
----
-
-### 2026-07-03 04:35:07  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index went up by 539 points or 1.03 percent on Thursday to close at 52844 points. The rise was led by Apple (4.80%), McDonalds (4.07%) and Walt Disney (3.84%).
-
----
-
-### 2026-07-03 04:33:26  #MKT News #US10Y #Impact bearish
-
-Foreign central banks' holdings of US Treasuries fell $11.06bn in the week to June 26, versus a $5.66bn increase in the prior week.
-
----
-
-### 2026-07-03 04:33:23  #央行 #市場 #國際
-
-美國至6月26日當週外國央行持有美國國債 -110.64億美元，前值56.56億美元。
-
----
-
-### 2026-07-03 04:33:14  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (Jun.26) | actual -11064000000B | previous 5656000000B
-
----
-
-### 2026-07-03 04:31:33  #國際
-
-美國國家颶風中心（NHC）：颶風道格拉斯現於太平洋開闊海域向西北偏北行進，預計本週五減弱為殘餘低壓環流。
-
----
-
-### 2026-07-03 04:31:10  #MKT News
-
-CNN reports the U.S. plans to tighten workplace immigration enforcement.
-
----
-
-### 2026-07-03 04:28:25  #觀點
-
-摩根士丹利給予海光資訊超配的初始評級，目標價480元人民幣。
-
----
-
-### 2026-07-03 04:27:40  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Mixed — US equity indices closed mixed on Thursday, as tech volatility gripped trading ahead of the holiday, despite easing concerns over rate hikes. The S&P 500 was flat and the Nasdaq 100 fell 0.8%. Stocks of chipmakers fell for a second day, as investors questioned if AI optimism had pushed valuations beyond reasonable levels. Fresh developments included reports that OpenAI was in talks to sell a 5% stake to the U.S. government, while Meta (-4.9%) said it may monetize its excess compute capacity. Micron Technology sank 7%, Applied Materials slipped 7.4%, and Advanced Micro Devices dropped 4.3%. SanDisk (-14%) and Marvell (-9.8%) tanked. Tesla fell 7.5% despite a strong deliveries report. Still, the Dow climbed 595 points to a new record high amid strength in traditional sectors.
-
----
-
-### 2026-07-03 04:25:53  #國際
-
-市場訊息：美國計劃加強工作場所移民執法力度。
-
----
-
-### 2026-07-03 04:25:43  #公司
-
-【巴西批准南方共同市場多項貿易協定，全面取消出口關稅】巴西又批准了另一項貿易協定。巴西政府發表宣告稱，巴西於6月30日批准了南方共同市場（Mercosur）與新加坡之間的自由貿易協定，這是該集團與東南亞國家達成的首項協議。宣告指出，該協定確保巴西對新加坡100%的出口商品實現零關稅，並將於8月1日正式生效。
-
----
-
-### 2026-07-03 04:23:37  #公司
-
-Meta 技術長：若公司重新啟用滑鼠軌跡追蹤程式，將設定為使用者主動選擇加入模式。
-
----
-
-### 2026-07-03 04:23:20  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact mixed
-
-Meta Platforms (META.O) CTO said any reinstatement of a mouse-tracking program would be opt-in.
-
----
-
-### 2026-07-03 04:19:00  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CTO said a preliminary review of the mouse-tracking data security incident found no employee data were included in AI training.
-
----
-
-### 2026-07-03 04:18:44  #其他
-
-Meta 技術長：針對滑鼠追蹤資料安全事件的初步核查顯示，暫無員工資料被用於人工智慧模型訓練。
-
----
-
-### 2026-07-03 04:15:22  #其他
-
-市場訊息：洛克希德・馬丁是收購海軍防務企業 Ultra Maritime 的頭號競標方，交易金額約 35 億美元。
-
----
-
-### 2026-07-03 04:13:02  #MKT News
-
-Panama Canal Authority said it will lower the maximum lock draft for New Panamax vessels. Effective July 24 the maximum draft will be 49 ft; effective August 15 it will be 48.5 ft.
-
----
-
-### 2026-07-03 04:10:18  #公司
-
-巴拿馬運河管理局公告：新巴拿馬型船閘船舶最大允許吃水深度將於 7 月 24 日下調至 49 英尺，8 月 15 日進一步降至 48.5 英尺。
-
----
-
-### 2026-07-03 04:09:37  #其他
-
-巴拿馬運河管理局釋出宣告稱，將在新巴拿馬型船閘實施吃水深度縮減管控。
-
----
-
-### 2026-07-03 04:06:16  #其他
-
-Meta 技術長：滑鼠軌跡追蹤軟體上線前已完成隱私、法務及其他多輪稽核。
-
----
-
-### 2026-07-03 04:06:12  #MKT News #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-Dow Jones Industrial Average closed up 594.18 points (+1.14%) at 52,899.42 on Thursday, July 2. S&P 500 closed down 0.49 points (-0.01%) at 7,482.74. Nasdaq Composite closed down 207.36 points (-0.80%) at 25,832.67.
-
----
-
-### 2026-07-03 04:05:53  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-i24News reports Israeli security officials, responding to a New York Times article, said "if Israel wanted to eliminate anyone, it could." The NYT had earlier reported US officials feared Israel might assassinate key Iranian negotiators during US–Iran talks.
-
----
-
-### 2026-07-03 04:05:26  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CTO said the mouse-tracking software underwent privacy, legal and other reviews before release.
-
----
-
-### 2026-07-03 04:04:08  #公司 #國際
-
-美國證券交易委員會披露檔案：AdaptHealth 公司證實保險賬單密碼檔案遭外洩，健康記錄訪問門戶遭非法入侵， 截至 2026 年 7 月 2 日，該事件尚未對公司運營及患者服務造成重大影響。
-
----
-
-### 2026-07-03 04:02:45  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-This week the S&P 500 rose 1.75%, the Nasdaq rose 2.12% and the Dow Jones Industrial Average rose 1.97%. The Dow posted a fourth straight weekly gain, its longest winning streak since October 2024.
-
----
-
-### 2026-07-03 04:02:25  #MKT News #Star Stocks #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) closed down 7.5%, its largest single-day decline in nearly a year.
-
----
-
-### 2026-07-03 04:02:19  #市場
-
-“特斯拉勁敵”Rivian收漲78.4%，創1月13日以來收盤新高。
-
----
-
-### 2026-07-03 04:01:55  #公司 #其他 #焦點 #國際
-
-特斯拉收跌7.5%，創將近一年來最差單日表現。
-
----
-
-### 2026-07-03 04:01:38  #市場
-
-非官方周度資料：標普 500 指數上漲 1.75%，納斯達克指數上漲 2.12%，道瓊斯工業平均指數上漲 1.97%。
-
----
-
-### 2026-07-03 04:00:49  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲1.13%，標普500指數跌0.01%，納指跌0.87%。閃迪跌14.13%，泰瑞達跌13.63%，科磊跌11.55%，純正部件漲12.91%，Moderna漲10.01%，Strategy漲8.00%。“七姐妹”方面：蘋果漲4.75%，微軟漲1.54%，亞馬遜漲0.24%，谷歌跌0.47%，英偉達跌1.47%，Meta Platforms跌4.87%，特斯拉跌7.64%。
-
----
-
-### 2026-07-03 04:00:32  #MKT News #Market Themes #AI Revolution #META.O #Impact bullish
-
-Meta Platforms (META.O) CEO said the company expects to start seeing greater benefits from its AI investments within the next 3-6 months.
-
----
-
-### 2026-07-03 04:00:07  #公司
-
-Meta執行長扎克伯格：預計公司將在未來 3 至 6 個月逐步收穫 AI 投資帶來的更多收益。
-
----
-
-### 2026-07-03 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.83%】海天網路跌22.47%，世紀互聯跌9.99%，新氧跌9.71%，阿特斯跌7.67%，億航跌6.18%。
-
----
-
-### 2026-07-03 03:59:31  #公司 #市場
-
-【Whale Rock旗艦基金今年盈利近73% 押注科技股帶來豐厚回報】Whale Rock Capital Management的旗艦對沖基金今年上漲72.5%，使這家專注科技領域、管理資產190億美元的公司成為業內最佳之一。據一位知情人士稱，該對沖基金6月份上漲9.2%。Whale Rock的單純做多基金上個月上漲9.4%，推動其年初至今回報達到82%。該人士稱，該公司的回報受到在半導體公司閃迪和SK海力士以及電路板製造商 TTM Technologies Inc.持倉的提振。今年上半年，閃迪飆升超過850%，SK海力士上漲逾300%，TTM上漲約170%。Whale Rock還受益於對人工智慧公司Anthropic PBC的押注。Anthropic在最新一輪融資中達到9650億美元估值，首次超過競爭對手OpenAI。
-
----
-
-### 2026-07-03 03:58:56  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Lowe's Companies Stock Price Hits 7-week High — Lowe's Companies shares increased to 227.32 USD, the highest since May 2026. Over the past 4 weeks, Lowe's Companies gained 9.38%, and in the last 12 months, it decreased 0.52%.
-
----
-
-### 2026-07-03 03:57:53  #國際
-
-針對《紐約時報》有關美方官員認為以色列可能密謀刺殺伊朗首席談判代表的報道，一名不願具名的安全官員向以色列 i24 新聞臺回應稱：“只要以色列想除掉某人，就一定會動手。”
-
----
-
-### 2026-07-03 03:57:47  #MKT News
-
-【After hot demand, quick cooling — Invesco exec blasts SpaceX bond performance】Matt Brill, head of North America investment‑grade credit at Invesco, said SpaceX’s $25bn debut bond traded “very messy” in the secondary market, calling the deal “very disappointing” and a “red card.” The issue drew nearly $90bn of orders at pricing but weakened sharply on the break, surprising traders. Brill flagged possible underwriter mispricing or weak participation from long‑term buyers such as pension and insurance funds. He warned IG credit spreads are at multi‑year tights and that downside risk outweighs upside, and said Invesco is reducing concentration in the technology sector. Market participants view the volatility as evidence the gap between headline demand and real absorption capacity is widening.
-
----
-
-### 2026-07-03 03:56:27  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-Dow Jones extended gains to just over 1%; the S&P 500 and Nasdaq narrowed losses, down 0.12% and 0.89% respectively.
-
----
-
-### 2026-07-03 03:55:28  #市場 #焦點
-
-道指漲1.01%，現報52832.340點；納指跌0.90%，現報25804.861點；標普500指數跌0.14%，現報7472.990點。
-
----
-
-### 2026-07-03 03:53:33  #其他
-
-【加拿大總理：與不列顛哥倫比亞省達成的協議將維持西北海岸油輪禁令】不列顛哥倫比亞省（B.C.）宣佈，與加拿大聯邦政府達成協議，將維持針對該國西北海岸的聯邦油輪禁令。但此舉似乎也為鄰省阿爾伯塔省提出的一項新原油管道計劃敞開了大門，前提是該專案需提出一條不同的路線。該協議的宣佈時間，距離卡尼預計前往阿爾伯塔省、與該省省長丹妮爾·史密斯（Danielle Smith）共同宣佈一項新管道計劃僅剩數小時。該管道計劃旨在將每日100萬桶的阿爾伯塔原油輸送至不列顛哥倫比亞省海岸，以便出口海外。
-
----
-
-### 2026-07-03 03:53:14  #公司
-
-Meta執行長扎克伯格： 人工智慧相關開支給公司帶來不小壓力；若沒有這筆投入，公司股價本可以更高，但這屬於長期戰略投資。
-
----
-
-### 2026-07-03 03:53:13  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said AI-related spending has weighed on the company and that, but for those costs, the stock would be higher; he described the outlay as a long-term investment.
-
----
-
-### 2026-07-03 03:51:51  #國際
-
-【美國官員稱：面向新生兒的“特朗普賬戶”將接受股票捐贈】美國官員表示，個人和企業將能夠向“特朗普賬戶（Trump Accounts）”捐贈股票。該賬戶是作為唐納德·特朗普總統具有里程碑意義的稅收與移民法案的一部分而設立的、由政府支援的兒童投資賬戶。該賬戶計劃於本週六（美國建國250週年紀念日）正式啟動。聯邦政府將為2025-28年出生的每名兒童注資1000美元，部分企業和慈善家也已進行了額外捐贈。
-
----
-
-### 2026-07-03 03:47:05  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bearish
-
-Per The Information, Palantir (PLTR.N) CEO said some U.S. government clients have shifted to open-source AI.
-
----
-
-### 2026-07-03 03:45:52  #公司 #國際
-
-Palantir 執行長稱，部分美國政府客戶已轉向採用開源人工智慧方案。
-
----
-
-### 2026-07-03 03:44:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Walsh's first week dominated by internal meetings; little Wall Street outreach】New Fed chair Kevin Walsh's first-week calendar was largely internal, with limited external engagements: a breakfast with Treasury Secretary Scott Bessent and meetings with former Fed governor Stephen Milan and Brookings' Nellie Liang. By contrast, former chair Jerome Powell's end-of-tenure schedule featured heavier outreach to global central bankers and Wall Street executives, including Goldman CEO David Solomon and the UBS chair. The Fed posts the chair's schedule monthly on its website.
-
----
-
-### 2026-07-03 03:44:23  #公司 #國際
-
-【特朗普財務披露顯示2025年交易逾2.1萬筆】美國總統唐納德·特朗普重返白宮後的第一年進行了逾2.1萬筆證券交易，而且交易往往在由他引發的市場事件期間密集出現。根據其2025年財務披露檔案，這些交易的總金額介於6億美元至18.6億美元之間；該檔案列示交易價值的區間較寬。許多交易涉及與聯邦政府有業務往來的大型公司。對該報告的分析顯示，特朗普平均每個交易日進行85筆交易。2025年執行的所有交易中，約四分之一集中在10個交易日內。其中許多交易發生在特朗普宣佈政策調整之後、華爾街波動加劇之際。特朗普八個獨立交易賬戶之間也存在不一致之處：他在同一天透過一個賬戶買入某隻股票、又透過另一個賬戶賣出同一股票的情況出現了200多次。
-
----
-
-### 2026-07-03 03:39:38  #市場 #國際
-
-【美元指數在非農日跌超0.4%】週四（7月2日）紐約尾盤，ICE美元指數跌0.50%，報100.890點，亞太盤初以來持續走低，北京時20:30釋出美國非農就業報告之前回升至101.200點附近，資料釋出後快速跳水，20:45重新整理日低至100.558點。彭博美元指數跌0.43%，報1219.52點，日內交投區間為1225.21-1216.41點。
-
----
-
-### 2026-07-03 03:37:02  #公司 #國際
-
-【報道：AI基建遇阻，黑石旗下QTS放棄美國弗吉尼亞資料中心建設專案】據知情人士透露，黑石集團旗下的QTS房地產信託公司高管近日決定，已不值得繼續在法庭上推進此事。該公司的律師計劃最早於本週向法院通報這一決定。對於那些多年來一直抗爭並試圖阻止該專案的當地居民而言，這無疑是一場勝利。這家資料中心開發商原計劃將北弗吉尼亞威廉王子縣超過800英畝的土地，改造成全球最大科技走廊之一的核心地帶。由於毗鄰一處具有歷史意義的南北戰爭戰場，並且位於此前受保護而免受開發影響的土地上，該專案引發業主的強烈抵制，並因訴訟而陷入停滯。
-
----
-
-### 2026-07-03 03:36:49  #公司
-
-【分析師：Meta承認AI進展未達預期，但並非“舉白旗”】分析師Adam Button表示，媒體援引Meta Platforms(META.O)內部全員會議訊息稱，CEO扎克伯格坦言，過去四個月AI智慧體開發速度未如預期。本週Meta備受關注，緣於近日傳出該公司考慮出售過剩算力，市場猜測其或正從基礎模型賽道抽身。Meta近期也因裁員、調崗衝擊企業文化，又試圖透過提供零食（安撫）和舉辦駭客松（激發活力） 這種相對表面的手段，來緩和員工情緒。扎克伯格在會上坦言，部門重組“本可以更利落”；高管年初曾擔心“AI行動不夠快”。不過扎克伯格顯然尚未準備退讓，稱重組的最佳成果“尚未實現”，並仍相信長期趨勢與重組方向一致。這聽起來並不像是在舉白旗。媒體最新報道傳出後，Meta股價一度承壓，但隨即便有所反彈。
-
----
-
-### 2026-07-03 03:36:45  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bearish
-
-【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization "could have been cleaner," said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are "yet to come" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound.
-
----
-
-### 2026-07-03 03:27:43  #MKT News #Star Stocks #Tesla #Market Themes #AI Revolution #Magnificent 7 #TSLA.O
-
-【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years.
-
----
-
-### 2026-07-03 03:19:06  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【U.S. officials feared Israel might target Iranian negotiators】U.S. intelligence and diplomatic officials feared during secret U.S.–Iran talks this spring that Israel might plan assassinations of senior Iranian figures involved in the negotiations, including negotiator Araghchi and parliament speaker Qalibaf. Washington alerted Tehran of the potential risk via regional partners, citing concern such strikes would directly undermine fragile ceasefire and interim peace talks. Israeli planning reportedly flagged multiple senior Iranians as possible targets early in the conflict, including moderates linked to dialogue. After April, U.S. engagement intensified — coordinated by Vice President Vance, U.S. Middle East envoy Witkoff and Jared Kushner — to protect the negotiations. Iran responded by tightening security for senior officials and using fighter escorts on some foreign trips to mitigate attack risk.
-
----
-
-### 2026-07-03 03:15:52  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO said he believes long-term trends remain consistent with the underlying objectives of the company’s departmental reorganization.
-
----
-
-### 2026-07-03 03:15:35  #MKT News
-
-【Five Colorado wildfires burn nearly 506 sq km】Five wildfires in Colorado have burned nearly 506 sq km as of the morning of July 2, state officials said. The largest, the Aspen X fire, ignited on the morning of June 29 in southern Colorado and had expanded to about 194 sq km by the evening of July 1. The Pueblo County sheriff's office said Aspen X has destroyed more than 180 structures and injured one firefighter.
-
----
-
-### 2026-07-03 03:15:15  #公司
-
-Meta執行長扎克伯格： 認為長期發展趨勢仍與公司此次重組的整體框架相契合。
-
----
-
-### 2026-07-03 03:14:38  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week.
-
----
-
-### 2026-07-03 03:12:59  #國際
-
-【美國科羅拉多州5場山火蔓延 燒燬近506平方公里土地】當地時間7月2日獲悉，美國科羅拉多州正在燃燒的5場山火截至當天上午共燒燬近506平方公里土地，面積接近科羅拉多斯普林斯市。其中，該州當前規模最大的山火阿斯彭埃克斯火災截至1日晚已擴大至約194平方公里。該火災於6月29日早晨在科羅拉多州南部燃起，普韋布洛縣治安官辦公室稱，該火災已摧毀逾180棟建築，並造成一名消防員受傷。（央視新聞）
-
----
-
-### 2026-07-03 03:12:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Analyst: Saudi crude exports overstated as stranded cargoes inflate earlier counts】Energy Intelligence reporter Amena Bakr, citing sources, said Saudi crude and product exports average about 5.8 mln bpd versus roughly 6.3 mln bpd reported elsewhere, with the higher number including previously stranded cargoes. She warned the description of a "market oversupply" is misleading and said Strait of Hormuz flows remain far from normal. Bloomberg tanker-tracking showed a six-day average to Wednesday of 6.3 mln bpd, roughly equal to the 2025 average and about 90% of February levels.
-
----
-
-### 2026-07-03 03:10:16  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said the company's departmental restructuring bets have not yet paid off.
-
----
-
-### 2026-07-03 03:10:14  #其他
-
-市場訊息：特斯拉將員工每週 AI 工具使用費用上限設定為 200 美元。
-
----
-
-### 2026-07-03 03:09:02  #公司
-
-Meta執行長扎克伯格： 公司為此次架構重組押下的籌碼 “目前尚未見到成效”。
-
----
-
-### 2026-07-03 03:07:09  #MKT News
-
-Brazil's Agriculture Ministry said early-June sugar output in the central-south region fell 3% to 2.30 million tonnes, while ethanol production rose 21% to 2.16 billion litres.
-
----
-
-### 2026-07-03 03:06:50  #其他
-
-市場訊息：O'Reilly 汽配有意收購 Genuine Parts 旗下汽車零部件業務板塊。
-
----
-
-### 2026-07-03 03:06:22  #市場
-
-巴西農業部資料：6 月初巴西中南部乙醇產量增至 21.6 億升，同比上漲 21%。6 月初巴西中南部食糖產量 230 萬噸，同比下降 3%。
-
----
-
-### 2026-07-03 03:04:51  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said executives in early 2026 feared they were 'not moving fast enough' on AI.
-
----
-
-### 2026-07-03 03:04:30  #公司
-
-Meta執行長扎克伯格： 2026 年初高層管理團隊曾擔憂公司在人工智慧領域的推進速度跟不上需求。
-
----
-
-### 2026-07-03 03:04:06  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO said the company’s 2026 departmental reorganization "could have been handled more cleanly."
-
----
-
-### 2026-07-03 03:03:22  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7830元，較週三夜盤收盤漲50點。成交量605.08億美元。
-
----
-
-### 2026-07-03 03:03:07  #公司
-
-Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。
-
----
-
-### 2026-07-03 03:01:03  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot.
-
----
-
-### 2026-07-03 03:00:23  #市場
-
-【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。
-
----
-
-### 2026-07-03 03:00:03  #市場
-
-恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。
-
----
-
-### 2026-07-03 02:59:44  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #SMH
-
-【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market.
-
----
-
-### 2026-07-03 02:59:41  #觀點
-
-法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。
-
----
-
-### 2026-07-03 02:57:57  #其他
-
-Meta一度跌超5%。
-
----
-
-### 2026-07-03 02:57:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) slipped intraday, down 4.89%.
-
----
-
-### 2026-07-03 02:56:18  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected.
-
----
-
-### 2026-07-03 02:55:11  #公司 #焦點
-
-Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未"如我們預期般加速"。
-
----
-
-### 2026-07-03 02:53:33  #市場
-
-布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。
-
----
-
-### 2026-07-03 02:53:28  #公司
-
-【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）
-
----
-
-### 2026-07-03 02:52:23  #MKT News
-
-【China, UK hold 15th Joint Economic and Trade Commission in London】MOFCOM minister Raimondo and the UK trade minister co‑chaired the 15th China‑UK Joint Economic and Trade Commission in London on July 2. China urged the UK to adjust steel quota measures that took effect July 1, saying they raise serious concerns and should be brought into compliance with WTO rules. China welcomed increased UK investment into China and asked London to provide a fair, non‑discriminatory environment for Chinese investors; the UK said it welcomes Chinese investment and will offer greater certainty and predictability. Both sides agreed to implement outcomes from the WTO’s 14th ministerial meeting and to deepen cooperation on trade, investment and multilateral issues; the UK highlighted opportunities from China’s services liberalization and proposed policy dialogue, a UK‑China services partnership and a feasibility study on a services trade agreement.
-
----
-
-### 2026-07-03 02:50:43  #公司
-
-【‌ElevenLabs正洽談要約收購 估值達220億美元‌】ElevenLabs已與投資者展開初步談判，計劃推進一輪二級發售，投後估值約達220億美元。這家公司主打可生成多語言逼真語音的AI軟體，相關工具已面向多個行業推廣落地。儘管ElevenLabs面臨頭部AI巨頭的競爭，但憑藉在語音AI賽道的垂直深耕優勢，依然深受投資者青睞，市場普遍認為其有望在細分領域跑贏大型科技企業。
-
----
-
-### 2026-07-03 02:50:40  #MKT News
-
-Saudi broadcaster Al Arabiya reported the French foreign ministry said it will, at Lebanon's request, deploy an international force to support the Lebanese army.
-
----
-
-### 2026-07-03 02:50:22  #國際
-
-法國外交部：應黎巴嫩政府請求，我方將部署國際部隊支援黎巴嫩軍隊。
-
----
-
-### 2026-07-03 02:49:35  #國際
-
-【中英經貿聯委會第15次會議在倫敦舉行】當地時間7月2日，商務部部長王文濤與英國商貿大臣凱爾在倫敦共同主持召開中英經貿聯委會第15次會議，就貿易、投資以及區域和多邊合作深入交換意見。王文濤表示，今年年初，中英兩國領導人就發展長期穩定的中英全面戰略伙伴關係達成重要共識，為中英經貿合作指明瞭方向。雙方應充分發揮中英經貿聯委會機制作用，進一步推動兩國貿易投資合作。中方歡迎英國擔任今年“出口中國”活動主題國，將積極擴大優質產品自英進口。中方願與英方加快推進中英服貿協定聯合可行性研究工作，為兩國進一步提升服務貿易合作水平創造有利條件。中方歡迎英國企業擴大對華投資，希望英方為中國企業赴英投資提供公平公正非歧視的環境。中英都是世貿組織重要成員，應共同落實好世貿組織第14次部長級會議成果。中方對7月1日生效的英國鋼鐵配額措施表示嚴重關切，希望英方儘快調整措施，確保其符合世貿規則。凱爾表示，經貿合作是英中關係的重要支柱。中國大力發展服務業，為英國企業提供了重要的機遇。英方願與中方加強政策溝通，透過英中服務夥伴關係和英中服貿協定可行性研究，擴大服務領域合作。英方歡迎中國企業赴英投資，願提供更多確定性和可預測性。英方願與中方用好英中世貿組織工作組，加強政策溝通與協調，推動世貿組織改革、電子商務等議題取得積極進展。雙方高度評價聯委會項下的投資、服務貿易、出口管制、世貿組織、航空等工作組的工作進展，期待各工作組為推動雙邊經貿關係發展發揮更大作用。會前，王文濤部長和凱爾大臣同部分中英企業代表交流。（商務部）
 
 ---
