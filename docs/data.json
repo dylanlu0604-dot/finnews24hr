@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-09 04:51:54",
+  "updated": "2026-07-09 04:55:47",
   "count": 16101,
   "items": [
+    {
+      "id": "4977616",
+      "time": "2026-07-09 04:55:06",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【7月9日美股成交額前20：博通獲蘋果超300億美元晶片大單】週三美股成交額第7名博通收高4.83%，成交118.84億美元。當地時間7月8日，蘋果宣佈與博通達成一項協議，計劃未來五年向博通採購價值超過300億美元的美國製造晶片。根據協議，博通將在美國生產超過150億顆晶片，並在科羅拉多州柯林斯堡工廠投資15億美元擴建和升級產能，生產包括FBAR射頻濾波器在內的先進射頻元件及無線連線晶片。當地時間7月6日，博通公告，其與蘋果已同意透過簽訂新的多年期長期協議，將雙方的長期技術合作擴充套件至2031年，約定由博通開發和供應一系列定製的ASIC晶片產品，用於蘋果的多個終端產品。"
+    },
+    {
+      "id": "mkt:019f4383-254d-7aab-8cfe-e26d79857da7",
+      "time": "2026-07-09 04:54:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state television reported explosions heard near Abu Musa Island."
+    },
+    {
+      "id": "4977615",
+      "time": "2026-07-09 04:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺訊息：阿布穆薩島傳來爆炸聲。"
+    },
+    {
+      "id": "4977614",
+      "time": "2026-07-09 04:53:20",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國10年期實際收益率升至一年高位 強勁經濟與油價走高引發加息猜想】美國經通脹調整後的國債收益率升至逾一年來最高水平，因為油價上漲與經濟依然強勁的雙重因素，再次引發市場對美聯儲將在未來幾個月內開始加息的猜測。10年期美國通脹保值債券收益率週三升至約2.3%，為2025年4月以來最高水平。所謂實際收益率的上升增強了美元的吸引力，同時提高了持有黃金和加密貨幣等非生息資產的機會成本，從而對這些資產構成壓力。這一走勢反映出投資者相信，在人工智慧投資熱潮推動下，富有韌性的美國經濟將使美聯儲官員相信央行可以在不影響增長的情況下收緊貨幣政策。交易員週三上調了對美聯儲將在10月前加息的押注，因為美伊衝突再度升級推高了油價並引發通脹擔憂。道明證券美國利率策略主管Gennadiy Goldberg表示：“實際利率走高受到穩健的增長預期，以及市場擔憂美聯儲在中東衝突升級的情況下需要進一步收緊政策的共同推動。”"
+    },
+    {
+      "id": "mkt:019f4380-faeb-7aab-8cfe-dc55438891b9",
+      "time": "2026-07-09 04:52:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) said projectile fragments from a US strike on Iran hit Imam Ali Hospital in Chabahar."
+    },
+    {
+      "id": "4977613",
+      "time": "2026-07-09 04:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺訊息：美軍襲擊伊朗時發射的彈片擊中恰巴哈爾伊瑪目阿里醫院。"
+    },
     {
       "id": "mkt:019f437e-04a9-7aab-8cfe-d0ebdc9857f1",
       "time": "2026-07-09 04:49:19",
@@ -147192,61 +147253,6 @@
         "其他"
       ],
       "text": "必和必拓稱已提交環境許可申請，擬投資15億美元重啟智利塞羅科羅拉多銅礦。"
-    },
-    {
-      "id": "te:economy:563541",
-      "time": "2026-07-02 04:54:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Holds Key Interest Rate — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its June 2026 meeting, as its projections continue to place inflation on a path toward convergence with the 4.5% target over the monetary policy horizon. Inflation expectations also remained aligned with the central bank’s objective. Annual inflation rose to 3.77% in May, driven by higher administered prices, particularly energy, reflecting the impact of global supply shocks. Core inflation edged up to 3.6%, though policymakers noted no significant second-round effects. Easing geopolitical tensions in the Middle East reduced global financial volatility and pressure on energy prices. Labor market and income indicators remained resilient, while economic activity continued to expand. The central bank said inflation is likely to rise in the short term, but the balance of risks remains broadly balanced over the policy horizon. Future policy decisions will depend on incoming inflation data and its underlying dynamics."
-    },
-    {
-      "id": "4965943",
-      "time": "2026-07-02 04:53:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全新iPad Pro、重新設計入門款MacBook Pro正在籌備中】蘋果公司正計劃於明年推出升級款iPad Pro系列與全新改款入門MacBook Pro，恰逢iPhone問世20週年，該公司同期還規劃了多款重磅新品。蘋果正在測試四款內部硬體升級的全新iPad Pro機型，搭載效能更強的晶片；同時打造外觀重新設計的入門MacBook Pro。蘋果計劃2027年密集釋出多款硬體新品，首發首款M7處理器，同步推出第二代iPhone Air以及入門款iPhone。"
-    },
-    {
-      "id": "4965942",
-      "time": "2026-07-02 04:53:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "道富集團：道富SPDR標普500ETF被美國財政部選定為特朗普相關賬戶的獨家預設ETF。"
-    },
-    {
-      "id": "4965941",
-      "time": "2026-07-02 04:52:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月份輕型汽車總銷量增至1652萬輛，高於此前預期的1610萬輛。"
-    },
-    {
-      "id": "4965940",
-      "time": "2026-07-02 04:52:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）預估：2027自然年度聯邦醫保居家護理總支付金額將上調2.4%，新增支出4.2億美元。"
-    },
-    {
-      "id": "4965939",
-      "time": "2026-07-02 04:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）提出新增醫保參保資格撤銷依據，將高風險經營場所納入其中。"
     }
   ]
 }
