@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-08 08:25:19",
-  "count": 15912,
+  "updated": "2026-07-08 08:29:12",
+  "count": 15911,
   "items": [
+    {
+      "id": "4975205",
+      "time": "2026-07-08 08:28:09",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【原油價格大漲 此前美國因霍爾木茲海峽船隻遇襲而打擊伊朗目標】原油價格大漲，此前美國對伊朗發動一波打擊，以報復伊朗在霍爾木茲海峽對船隻發動的一系列襲擊。布倫特原油價格上漲2.8%，突破每桶76美元，而WTI原油油價格也處於每桶72美元上方。美國中央司令部表示，美軍開始“強力打擊”，讓伊朗為其襲擊商船付出沉重代價。伊朗邁赫爾通訊社報道稱，霍爾木茲海峽附近一座島嶼傳出爆炸聲；伊朗外交部副部長Kazem Gharibabadi表示，德黑蘭將作出回應。美國財政部還撤銷了一項允許德黑蘭在全球出售石油的制裁豁免，此舉意味著美伊臨時和平協議的一項關鍵安排出現逆轉。週二有三艘船隻在這條水道遇襲，包括一艘天然氣運輸船和一艘沙特油輪，意味著事故次數達到協議上個月生效以來最多。歐洲天然氣期貨價格也大幅上漲，漲幅高達4.9%。"
+    },
+    {
+      "id": "4975204",
+      "time": "2026-07-08 08:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果已開始測試長鑫儲存（CXMT）的記憶體晶片，用於在中國銷售的裝置。"
+    },
+    {
+      "id": "4975203",
+      "time": "2026-07-08 08:26:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SK海力士股價抹去跌幅，現漲1%。受美國市場因對人工智慧熱潮的擔憂而隔夜拋售影響，韓國晶片股盤初下跌，三星電子和SK海力士股價分別一度下跌4.4%和5%。"
+    },
+    {
+      "id": "4975202",
+      "time": "2026-07-08 08:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英漢思總部落戶光谷 研發國產化“造光母機”】據中國光谷公眾號，7月7日，英漢思技術有限公司（簡稱“英漢思”）簽約落戶武漢未來科技城，英漢思成立於2024年，專注研發生產MOCVD裝置。MOCVD是化合物半導體光電子器件的關鍵外延裝置，透過化學氣相沉積，在襯底上生長出決定晶片光電效能的單晶薄膜——沒有這層“地基”，晶片就“長”不出來，因此MOCVD也被稱為“造光母機”。"
+    },
     {
       "id": "4975201",
       "time": "2026-07-08 08:22:54",
@@ -145817,57 +145853,6 @@
         "Important"
       ],
       "text": "Taiwan | Manufacturing PMI (Jun) | actual 55.2 | previous 56.1"
-    },
-    {
-      "id": "4963858",
-      "time": "2026-07-01 08:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗隊出局 美國高官：我很開心】美國國土安全部長馬克韋恩·馬林當地時間6月29日在一場世界盃安保簡報會上公開表示，他對伊朗國家隊被淘汰出局感到“很開心”。馬林說：“我很高興他們踢完了，而且不會再回來了。當我們撤銷他們的簽證並通知他們離開美國領土時，我簡直太開心了，說不定還哼了幾首歌，可能還跳了一段舞。”（央視）"
-    },
-    {
-      "id": "mkt:019f1b13-6798-7aab-8c46-86719a1e22d0",
-      "time": "2026-07-01 08:28:04",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan manufacturers' confidence rises to highest since 2018】BOJ's quarterly Tankan showed large manufacturers' sentiment rose to 22 in June from 17, beating economists' forecasts. Large non-manufacturers' sentiment climbed to 37, the strongest since 1991. Firms' five-year annual inflation expectations increased to 2.6%, the highest since 2014. The BOJ, which monitors firms' price-expectation measures closely, said the readings support the case for continued rate hikes. The survey covered a period that included a sharp global oil-price spike after the outbreak of the Iran war."
-    },
-    {
-      "id": "4963856",
-      "time": "2026-07-01 08:27:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-5月全國國有及國有控股企業經濟執行情況】1-5月，全國國有及國有控股企業營業總收入同比下降0.7%，利潤總額同比增長3.5%。具體資料包括：國有企業營業總收入328221.6億元，利潤總額17258億元，應交稅費26274.5億元。5月末，國有企業資產負債率65.5%，同比上升0.5個百分點。（新華社）"
-    },
-    {
-      "id": "mkt:019f1b12-7b97-7aab-8c46-7e40347b3684",
-      "time": "2026-07-01 08:27:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Moody's Analytics chief economist: US-Israel war on Iran has cost average US household about $1,000】Moody's Analytics chief economist Mark Zandi wrote that the US and Israel's war on Iran has cost the average US household about $1,000. He said that includes higher fuel bills from rising oil prices, extra retail and travel spending driven by higher consumer prices, and each household's share of government war costs, and he called the $1,000 figure a conservative estimate with actual costs likely higher."
-    },
-    {
-      "id": "4963855",
-      "time": "2026-07-01 08:25:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數抹去早盤漲幅，現跌0.55%。"
     }
   ]
 }
