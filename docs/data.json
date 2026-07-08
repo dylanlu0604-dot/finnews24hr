@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-09 00:01:52",
-  "count": 15822,
+  "updated": "2026-07-09 00:06:37",
+  "count": 15816,
   "items": [
+    {
+      "id": "4977284",
+      "time": "2026-07-09 00:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果將於明年停止支援加密式Mac擴充套件格式硬碟。"
+    },
+    {
+      "id": "4977283",
+      "time": "2026-07-09 00:03:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬公司：合資企業的成立標誌著萊茵金屬與克羅埃西亞共和國長期戰略工業合作伙伴關係的開端。"
+    },
+    {
+      "id": "4977282",
+      "time": "2026-07-09 00:02:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：俄羅斯消費者價格指數截至7月6日當週上漲0.31%，高於前一週的0.22%。俄羅斯燃料價格截至7月6日當週上漲2.1%，柴油價格上漲3.4%。"
+    },
+    {
+      "id": "mkt:019f4276-8aec-7aab-8cf7-eeaf70e8f2e7",
+      "time": "2026-07-09 00:01:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Rosstat: Russian fuel prices rose 2.1% in the week to July 6; diesel prices climbed 3.4%."
+    },
+    {
+      "id": "mkt:019f4276-80fb-7aab-8cf7-e048c9926cd1",
+      "time": "2026-07-09 00:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia's consumer price index rose 0.31% in the week to July 6, up from 0.22% in the prior week."
+    },
+    {
+      "id": "4977281",
+      "time": "2026-07-09 00:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯塔默呼籲美伊停火 儘快重開霍爾木茲海峽】英國首相斯塔默呼籲美國與伊朗重回停火狀態，並落實相關協議以重新開放霍爾木茲海峽。斯塔默在安卡拉舉行的北約峰會上發言時警告，若衝突持續，英國及其他地區的經濟形勢將會進一步惡化。他表示：“如果無法儘快平息事態，民眾的生活開支很可能會受到衝擊。”"
+    },
+    {
+      "id": "4977280",
+      "time": "2026-07-08 23:59:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬公司：向克羅埃西亞提出長期戰略工業合作伙伴關係。"
+    },
     {
       "id": "mkt:019f4273-dcbc-7aab-8cf7-df9317c40717",
       "time": "2026-07-08 23:58:37",
@@ -144411,131 +144472,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index fell 17 points or 0.16 percent on Wednesday to close at 10480 points. Leading the losses are Associated British Foods (-3.15%), British American Tobacco (-2.91%) and National Grid (-2.89%). Top gainers were Rightmove (5.27%), Babcock International (5.17%) and Frasers Group (4.87%)."
-    },
-    {
-      "id": "mkt:019f1e6e-6dea-7aab-8c62-ee1ce28f0c2f",
-      "time": "2026-07-02 00:06:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Ministry of Economic Development: May GDP rose 0.3% YoY."
-    },
-    {
-      "id": "4965771",
-      "time": "2026-07-02 00:06:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社（ISNA）： 伊朗時隔五個月恢復飛往孟買的航班。"
-    },
-    {
-      "id": "4965770",
-      "time": "2026-07-02 00:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談伊朗：技術談判代表正在交談。"
-    },
-    {
-      "id": "mkt:019f1e6d-d78b-7aab-8c62-e1ad63335210",
-      "time": "2026-07-02 00:05:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Russia Q1 GDP YoY -0.2%, unchanged from prior -0.2%."
-    },
-    {
-      "id": "mkt:019f1e6d-d66a-7aab-8c62-dec3c0e2dc3a",
-      "time": "2026-07-02 00:05:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian consumer prices rose 0.22% week-on-week and 4.17% year-on-year in the week ending June 29."
-    },
-    {
-      "id": "te:markets:563516",
-      "time": "2026-07-02 00:05:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Edges Down on Wednesday — The FTSE 100 fell slightly on Wednesday, weighed down by corporate updates and a drop in oil prices that pressured energy producers. AB Foods fell more than 3% after warning that its sugar division suffered further deterioration from the Middle East conflict, even as plans to spin off fashion retailer Primark progressed. Also, Shell and BP declined 1.8% and 2.5%, respectively, on lower oil prices. On the other hand, financial services stocks and defense heavyweights provided support. Aerospace company BAE Systems rose 1.7%, submarine contractor Babcock rose over 4.5%, and engine-maker Rolls-Royce rose 0.8%. On the macroeconomic front, Nationwide reported that UK house prices remained flat on a monthly basis in June, missing growth expectations. However, the annualized housing rate rose 2.2%, supported by a brighter market outlook as anticipated Bank of England interest rate hikes began to soften."
-    },
-    {
-      "id": "4965769",
-      "time": "2026-07-02 00:04:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄經濟發展部：俄羅斯 5 月國內生產總值同比增長 0.3%，4 月同比增幅為 1.3%。"
-    },
-    {
-      "id": "te:markets:563515",
-      "time": "2026-07-02 00:04:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Charles Schwab Stock Price Hits 10-week High — Charles Schwab shares increased to 94.83 USD, the highest since April 2026. Over the past 4 weeks, Charles Schwab gained 8.21%, and in the last 12 months, it increased 3.79%."
-    },
-    {
-      "id": "4965768",
-      "time": "2026-07-02 00:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄聯邦統計局：俄羅斯企業 1-4 月利潤達 8.848 萬億盧布。"
-    },
-    {
-      "id": "4965767",
-      "time": "2026-07-02 00:03:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜2025年碳排放量因資料中心激增上升16%。"
-    },
-    {
-      "id": "mkt:019f1e6b-65c1-7aab-8c62-d31bc5214c8e",
-      "time": "2026-07-02 00:03:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Italy's transport ministry said Tesla (TSLA.O) new-car registrations in Jan–Jun rose 22.42% YoY."
-    },
-    {
-      "id": "mkt:019f1e6a-ac69-7aab-8c62-cdbab2d4244b",
-      "time": "2026-07-02 00:02:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Italian transport ministry: Tesla (TSLA.O) new vehicle registrations in June rose 42.78% YoY."
-    },
-    {
-      "id": "4965766",
-      "time": "2026-07-02 00:02:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利交通部表示：今年 1 至 6 月，特斯拉在義大利新車註冊量較 2025 年同期增長 22.42%。"
     }
   ]
 }
