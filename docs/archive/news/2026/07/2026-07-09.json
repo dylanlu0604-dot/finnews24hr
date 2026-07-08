@@ -1,7 +1,23 @@
 {
   "date": "2026-07-09",
-  "count": 438,
+  "count": 440,
   "items": [
+    {
+      "id": "4977537",
+      "time": "2026-07-09 02:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：沙烏地阿拉伯正推進一項方案，計劃調整印度—中東—歐洲經濟走廊（又稱“和平鐵路”專案）線路，改經敘利亞通行、繞開以色列，以此將以色列排除在該走廊之外。"
+    },
+    {
+      "id": "mkt:019f4317-ced6-7aab-8cfc-e5daebbb626b",
+      "time": "2026-07-09 02:57:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jerusalem Post, citing sources, reports Saudi Arabia is pressing to reroute the India–Middle East–Europe Economic Corridor to bypass Israel and instead link via Syria, aiming to reduce Israel's participation in the project."
+    },
     {
       "id": "mkt:019f4315-ee24-7aab-8cfc-db309197d72b",
       "time": "2026-07-09 02:55:38",

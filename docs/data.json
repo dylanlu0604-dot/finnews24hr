@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-09 02:56:19",
+  "updated": "2026-07-09 03:00:38",
   "count": 16064,
   "items": [
+    {
+      "id": "4977537",
+      "time": "2026-07-09 02:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：沙烏地阿拉伯正推進一項方案，計劃調整印度—中東—歐洲經濟走廊（又稱“和平鐵路”專案）線路，改經敘利亞通行、繞開以色列，以此將以色列排除在該走廊之外。"
+    },
+    {
+      "id": "mkt:019f4317-ced6-7aab-8cfc-e5daebbb626b",
+      "time": "2026-07-09 02:57:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jerusalem Post, citing sources, reports Saudi Arabia is pressing to reroute the India–Middle East–Europe Economic Corridor to bypass Israel and instead link via Syria, aiming to reduce Israel's participation in the project."
+    },
     {
       "id": "mkt:019f4315-ee24-7aab-8cfc-db309197d72b",
       "time": "2026-07-09 02:55:38",
@@ -146780,30 +146796,6 @@
         "國際"
       ],
       "text": "美國農業部：美國5月份大豆壓榨量為2.131億蒲式耳。"
-    },
-    {
-      "id": "4965864",
-      "time": "2026-07-02 03:00:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐盟機構：6月單日全球海面溫度破歷史同期紀錄】歐盟氣候監測機構哥白尼氣候變化服務局和“哥白尼海洋服務”計劃7月1日聯合釋出公報說，6月21日當天全球海洋表面平均溫度打破歷史同期紀錄。哥白尼氣候變化服務局資料顯示，6月21日當天的全球海洋表面平均溫度升至20.86攝氏度，高於2023年和2024年同期的20.83攝氏度。“哥白尼海洋服務”計劃的資料顯示，同日全球海洋表面平均溫度達21攝氏度，比2023年和2024年創下的紀錄高出0.1攝氏度。"
-    },
-    {
-      "id": "mkt:019f1f0d-b734-7aab-8c65-78d3ee8ae3c9",
-      "time": "2026-07-02 03:00:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "President Trump said U.S.-Iran relations are very cordial."
     }
   ]
 }
