@@ -1,7 +1,57 @@
 {
   "date": "2026-07-08",
-  "count": 685,
+  "count": 690,
   "items": [
+    {
+      "id": "4975208",
+      "time": "2026-07-08 08:31:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9股獲券商買入評級，藏格礦業目標漲幅達75.22%】Wind資料顯示，7月7日，共有9只個股獲券商買入評級，其中2只個股公佈了目標價格。按最高目標價計算，藏格礦業、雅化集團目標漲幅排名居前，漲幅分別達75.22%、70.39%。從評級調整方向來看，7只個股評級維持不變，2只個股為首次評級。從獲買入評級個股所屬Wind行業來看，材料Ⅱ、半導體與半導體生產裝置、多元金融買入評級個股數量最多，分別有3只、1只、1只。"
+    },
+    {
+      "id": "4975207",
+      "time": "2026-07-08 08:31:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱空襲針對伊朗防空和導彈系統。"
+    },
+    {
+      "id": "mkt:019f3f22-4a57-7aab-8cd9-bf67fe645db1",
+      "time": "2026-07-08 08:30:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【BOJ policymaker Asada: must see demand-driven inflation before backing rate hikes】BOJ policy board member Asada said he must see signs that demand is driving inflation before he would support further rate hikes, though he noted cost pass-through is occurring \"relatively quickly,\" implying he could back hikes in future. Asada, the lone dissenter on the BOJ's June move to lift rates to 1% (a 31-year high), said he opposed that decision because Middle East uncertainty could weigh on output and employment. He said any future tightening requires inflation sustainably near 2% underpinned by wage growth and demand, conditions he judged not yet met. While oil prices have fallen and consumer inflation is easing, Asada warned earlier oil-driven price increases are transmitting relatively fast and could push broad goods prices higher."
+    },
+    {
+      "id": "4975206",
+      "time": "2026-07-08 08:30:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗新聞電視臺稱，有報道稱格什姆島再次發生爆炸， 哈爾克島也傳出數次爆炸聲。"
+    },
+    {
+      "id": "mkt:019f3f21-b72c-7aab-8cd9-b0e3a096a5d8",
+      "time": "2026-07-08 08:30:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Press TV said Qeshm Island was hit by another explosion and several blasts were heard on Kharg Island off southern Iran."
+    },
     {
       "id": "4975205",
       "time": "2026-07-08 08:28:09",
