@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-08 12:55:08",
+  "updated": "2026-07-08 12:59:03",
   "count": 15975,
   "items": [
+    {
+      "id": "4975662",
+      "time": "2026-07-08 12:57:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國防部擬採購至多3億美元的鋰資源】美國國防部正在採購鋰資源充實戰略儲備。一份7月2日釋出於美國政府官網的招標檔案顯示，美國國防後勤局計劃在未來五年採購近3600萬磅（約1.6萬噸）電池級碳酸鋰，對應合同最高價值3億美元，目前正在徵集投標報價。"
+    },
+    {
+      "id": "mkt:019f4015-35c9-7aab-8ce0-fa3728d623ed",
+      "time": "2026-07-08 12:55:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong Financial Secretary Paul Chan to lead delegation to Saudi Arabia later this year】Financial Secretary Paul Chan said he plans to lead a delegation to Saudi Arabia later this year to meet leading firms in infrastructure, green technology, healthcare and advanced manufacturing. Delegation members will include senior figures from finance, investment and professional services to explore specific projects aimed at deepening the Hong Kong–Middle East partnership."
+    },
+    {
+      "id": "4975661",
+      "time": "2026-07-08 12:55:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報7191.33點。個股方面，三星電子跌超7%，SK海力士跌超4%。"
+    },
+    {
+      "id": "mkt:019f4014-da0b-7aab-8ce0-f37ab995b506",
+      "time": "2026-07-08 12:55:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI fell below 7,200 points, down more than 6% intraday."
+    },
+    {
+      "id": "4975659",
+      "time": "2026-07-08 12:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林再次拉響防空警報 】巴林內政部8日在社交媒體上說，防空警報已拉響，請民眾保持冷靜並前往最近的安全地點。當天早些時候，巴林內政部已釋出一次防空警報。伊朗伊斯蘭革命衛隊公共關係部門8日發表宣告稱，革命衛隊當天“摧毀”美軍在中東地區的85處重要設施，其中涉及位於巴林的美軍第五艦隊。"
+    },
+    {
+      "id": "4975658",
+      "time": "2026-07-08 12:54:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【香港財政司司長陳茂波：今年稍後將再次出訪沙烏地阿拉伯】香港財政司司長陳茂波表示，計劃今年稍後再次率領代表團訪問沙烏地阿拉伯，將到訪當地基礎設施、綠色科技、醫療保健和先進製造領域的龍頭企業。訪問團成員包括來自金融、投資和專業服務行業精英，將共同探討具體專案，以深化香港與中東之間夥伴關係。"
+    },
     {
       "id": "4975657",
       "time": "2026-07-08 12:53:28",
@@ -146349,67 +146401,6 @@
         "國際"
       ],
       "text": "日本最高外匯官員三村淳：日美貨幣協調仍保持密切。"
-    },
-    {
-      "id": "4964237",
-      "time": "2026-07-01 12:57:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本最高貨幣外交官：日本自4月以來的干預舉措幫助放緩了日元對美元的跌勢。"
-    },
-    {
-      "id": "mkt:019f1c09-9cf4-7aab-8c4b-86f1c4f1e08a",
-      "time": "2026-07-01 12:56:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan’s top foreign‑exchange official said, to his knowledge, the United States has never objected to Japan’s FX actions and has in fact made remarks that leaned toward support."
-    },
-    {
-      "id": "4964236",
-      "time": "2026-07-01 12:56:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【海船開航新規今起實施 辦事時限大幅壓縮】今天起（7月1日），交通運輸部聯合國家金融監督管理總局，將海船開航需要的12個政務服務事項集中辦理，辦事時限和申請材料均壓縮一半以上。"
-    },
-    {
-      "id": "mkt:019f1c09-565d-7aab-8c4b-78482b05300e",
-      "time": "2026-07-01 12:56:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's top foreign-exchange official said that, judging by subsequent market moves, the intervention was clearly meaningful."
-    },
-    {
-      "id": "mkt:019f1c09-3213-7aab-8c4b-7642fe8c9384",
-      "time": "2026-07-01 12:56:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's top FX official said the foreign-exchange intervention two months ago to support the yen was successful and received partial backing from some U.S. officials."
-    },
-    {
-      "id": "4964235",
-      "time": "2026-07-01 12:55:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本外匯主管表示，過去的日元干預已顯現成效。"
     }
   ]
 }
