@@ -1,7 +1,132 @@
 {
-  "updated": "2026-07-08 14:42:12",
-  "count": 16063,
+  "updated": "2026-07-08 14:46:04",
+  "count": 16065,
   "items": [
+    {
+      "id": "mkt:019f4079-930a-7aab-8ce3-8051e9e7898b",
+      "time": "2026-07-08 14:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said the United States bears responsibility for the dangerous consequences of this escalation, calling the U.S. regime treacherous."
+    },
+    {
+      "id": "4975873",
+      "time": "2026-07-08 14:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI晶片初創企業Sambanova完成融資，估值達110億美元。"
+    },
+    {
+      "id": "mkt:019f4079-314c-7aab-8ce3-7b03fbef465a",
+      "time": "2026-07-08 14:45:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said Iran's arrangements in the Strait of Hormuz have been violated and that Israel's continued strikes in Lebanon are rendering the temporary agreement ineffective."
+    },
+    {
+      "id": "4975872",
+      "time": "2026-07-08 14:44:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部在一份宣告中表示，他國違反伊朗在霍爾木茲海峽的相關安排，加之以色列持續對黎巴嫩發動襲擊，正導致伊核臨時協議失效。"
+    },
+    {
+      "id": "4975871",
+      "time": "2026-07-08 14:43:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Piper Sandler：甲骨文雲業務2027財年有望超預期】投行Piper Sandler釋出報告稱，甲骨文雲基礎設施(OCI)業務在2027財年的收入有望超越當前市場預期，主要得益於資本開支加速轉化為實際營收。分析師認為，該公司大規模資本性支出(CapEx)正逐步轉化為實際產能與收入，這一轉化效率可能被投資者低估。Piper Sandler維持對甲骨文的“超配”評級，目標價定為225美元。"
+    },
+    {
+      "id": "te:markets:565133",
+      "time": "2026-07-08 14:43:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Rallies on Planned BHP Worker Strike — Iron ore futures rose above CNY 740 per ton, extending their rebound from near one-year lows after reports that workers at BHP Group’s Port Hedland iron ore terminal in Western Australia will stage an eight-hour strike on July 16, raising concerns over potential supply disruptions. The industrial action will involve operators and maintenance workers at the world’s largest iron ore export hub, as employees push for an agreement that better reflects their specialist skills, challenging working conditions, and significant personal costs. Port Hedland exported 51 million tons of iron ore in May and a record 575 million tons last year, with China accounting for the bulk of shipments. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to global iron ore supply."
+    },
+    {
+      "id": "mkt:019f4077-6765-7aab-8ce3-732277adedf6",
+      "time": "2026-07-08 14:43:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said the United States \"blatantly violated\" the temporary agreement reached between the two sides."
+    },
+    {
+      "id": "4975870",
+      "time": "2026-07-08 14:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東風汽車張微：計劃年底推出100輛固態電池示範執行汽車】在今日舉行的第二十一屆上海國際汽車製造技術與裝備及材料展覽會（AMTS 2026）上，東風汽車集團研發總院、先行技術研究院新型電池運營經理張微介紹了公司固態電池落地進展及後續規劃：東風汽車目標今年年底推出100輛固態電池示範執行汽車；2030年左右實現固態電池配套車輛小規模量產；2035年左右達成固態電池大規模量產及普及應用。其表示，東風已於2026年1月完成350Wh/kg固態電池裝車冬測，計劃2026年Q4實現搭載應用。2027年市場目標交付50000臺自研固態電池車型，同年推進快充型固態電池整車落地，啟動350Wh/kg快充型固態電池中試。"
+    },
+    {
+      "id": "mkt:019f4076-eedf-7aab-8ce3-6c09b4db3aae",
+      "time": "2026-07-08 14:42:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active futures contract fell 2.00% intraday, trading at 159,840 yuan/ton."
+    },
+    {
+      "id": "4975869",
+      "time": "2026-07-08 14:42:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發表宣告譴責美國公然違反與華盛頓達成的伊核臨時協議。"
+    },
+    {
+      "id": "4975868",
+      "time": "2026-07-08 14:42:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗：美國應對局勢升級的後果負責。"
+    },
+    {
+      "id": "te:markets:565132",
+      "time": "2026-07-08 14:42:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Pares Losses at Close — The ASX 200 lost 19 points or 0.2% to finish at 8,785 on Wednesday, down for the third session amid weaker U.S. stock futures following renewed tensions in the Middle East after Washington started a series of strikes against Iran Tuesday in response to attacks against three commercial vessels in the Strait of Hormuz. Nerves also persisted as top trading partner China is set to release key data Thursday, including CPI and PPI figures for June. Still, early losses were trimmed by RBA Assistant Governor Sarah Hunter, who noted economic activity stays resilient despite weaker consumer and business mood after the oil shock. Sectoral pressure was broad, with electronic tech, non-energy minerals, and industrial services dragging. BHP fell 2.3% after workers announced plans to strike on July 16 at its WA iron ore terminal, demanding recognition of specialist skills and costs. Other notable laggards included Evolution Mining (-4.2%), Mineral Resources (-3.4%), and Greatland Resources (-2.8%)."
+    },
+    {
+      "id": "4975867",
+      "time": "2026-07-08 14:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：美國的行為使停火協議的關鍵部分失效。"
+    },
     {
       "id": "mkt:019f4075-bbae-7aab-8ce3-6754d34a37ab",
       "time": "2026-07-08 14:41:25",
@@ -146997,113 +147122,6 @@
         "其他"
       ],
       "text": "【7月1日：“農產品批發價格200指數”比昨天上升0.04個點】據農業農村部監測，7月1日“農產品批發價格200指數”為110.54，比昨天上升0.04個點，“菜籃子”產品批發價格指數為110.15，比昨天上升0.05個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.51元/公斤，比昨天上升1.4%；牛肉66.33元/公斤，比昨天下降0.3%；羊肉64.50元/公斤，比昨天上升0.5%；雞蛋9.45元/公斤，比昨天下降0.6%；白條雞17.51元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.20元/公斤，比昨天上升0.5%；重點監測的6種水果平均價格為7.35元/公斤，比昨天上升1.0%。鯽魚20.64元/公斤，比昨天上升2.6%；鯉魚14.91元/公斤，比昨天上升1.6%；白鰱魚10.51元/公斤，比昨天上升2.5%；大帶魚42.03元/公斤，比昨天下降0.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菜花、菠蘿、蔥頭、洋白菜和鯽魚，幅度分別為4.7%、4.4%、4.1%、4.1%和2.6%；價格降幅前五名的是冬瓜、鴨梨、蓮藕、胡蘿蔔和茄子，幅度分別為2.2%、1.8%、1.5%、1.3%和0.9%。"
-    },
-    {
-      "id": "mkt:019f1c6d-4429-7aab-8c4d-84f73a7968cd",
-      "time": "2026-07-01 14:45:50",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish",
-        "LMT.O",
-        "NOC.O"
-      ],
-      "text": "【Germany proposes producing U.S. weapons in Europe to secure Trump's continued support】Germany is urging the U.S. to allow more American weapons to be produced on German soil to plug European military shortfalls and give President Trump a reason to sustain U.S. defence engagement, sources said. German officials are in talks with U.S. counterparts and hope to seal a joint-production agreement ahead of next week’s NATO summit in Ankara. Negotiations between German and U.S. defence firms cover joint manufacture of systems including Tomahawk cruise missiles and PAC-3 interceptors for the Patriot air-defence system, and broader cooperation on measures to boost mutual defence capacity. U.S. government and industry reactions have been more positive than expected, sources added. The move is part of a wider European effort to deploy domestic defence industrial capacity to stabilise strained ties with Washington."
-    },
-    {
-      "id": "4964369",
-      "time": "2026-07-01 14:44:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星預熱Galaxy Z Fold8等摺疊手機，有望7月22日釋出】科技媒體 Android Authority 昨日釋出博文，報道稱三星已啟動新一輪營銷活動，預熱Galaxy Z Fold8、Galaxy Z Flip8、Galaxy Z Fold8 Ultra三款摺疊手機。現有資訊表明三星可能會於 7 月 22 日在倫敦舉辦 Galaxy Unpacked 活動，推出 3 款摺疊手機。"
-    },
-    {
-      "id": "4964368",
-      "time": "2026-07-01 14:44:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆易創新A股成交額超400億元】7月1日下午，兆易創新A股成交額超400億元，現跌5.52%。"
-    },
-    {
-      "id": "4964367",
-      "time": "2026-07-01 14:44:11",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【6月新勢力車企銷量公佈】截至發稿，以下新勢力車企公佈了6月交付量：\n理想汽車：2026年6月，理想汽車交付新車30,895輛。截至2026年6月30日，理想汽車歷史累計交付量為1,733,687輛。\n蔚來汽車：2026年6月，蔚來公司交付新車40,597臺，創今年以來新高，同比增長62.9%。\n小鵬汽車：2026年6月交付40,126輛汽車，同比增長15.9%；第二季度累計交付103,295輛汽車。\n小米汽車：2026年6月，小米汽車交付量持續超過30000臺。\n鴻蒙智行：6月交付50,624臺，環比增長9.7%；2026年上半年累計交付24萬臺，同比增長18.6%.\n零跑汽車：6月全球交付93376臺，同比增長95%，上半年累計交付達356487臺。\n極氪：2026年6月極氪交付新車35169輛，同比增長111%；1—6月共交付178370輛，同比增長97%。\n問界汽車：6月交付新車30199臺，上半年累計交付同比增長10.2%。\n嵐圖汽車：2026年6月交付 14223 輛，同比增長41%；2026年1-6月累計交付76264 輛，同比增長36%。\n深藍汽車：6月全球銷量33625輛，同比增長12.5%。\n廣汽：昊鉑埃安BU 2026年6月銷量33682輛，同比上漲21%；2026年上半年同比上漲15%。"
-    },
-    {
-      "id": "mkt:019f1c6b-b652-7aab-8c4d-780b941ef24d",
-      "time": "2026-07-01 14:44:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "603986.SS",
-        "Impact bearish"
-      ],
-      "text": "A-share GigaDevice saw turnover exceed 40 billion yuan and is currently down more than 5%."
-    },
-    {
-      "id": "mkt:019f1c6b-b13e-7aab-8c4d-71f4169ee441",
-      "time": "2026-07-01 14:44:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Samsung teases Galaxy Z Fold8, Z Flip8 and Z Fold8 Ultra; Unpacked may be July 22 in London】Android Authority reported Samsung has launched a new marketing push for three foldable phones — Galaxy Z Fold8, Galaxy Z Flip8 and Galaxy Z Fold8 Ultra — and may host a Galaxy Unpacked event in London on July 22 to unveil them."
-    },
-    {
-      "id": "te:markets:563297",
-      "time": "2026-07-01 14:44:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Extends Decline Toward 8-Month Low — Steel rebar futures dropped below CNY 3,040 per ton on Wednesday, approaching their lowest levels in eight months as tighter European Union restrictions on steel imports darkened the demand outlook. The European Commission rolled out a revised safeguard mechanism that sharply curbs duty-free steel imports to shield the bloc’s steel industry and improve capacity utilization. Effective Wednesday, the EU reduced its annual tariff-free import quota by 47% to 18.3 million metric tons and imposed a 50% tariff on imports exceeding the quota across 26 steel product categories. Prices also remained under pressure from sluggish demand in top consumer China, where Zenith Steel lowered its early-July rebar prices, signaling weaker consumption as the prolonged downturn in the property market continued to weigh on construction activity."
-    },
-    {
-      "id": "4964366",
-      "time": "2026-07-01 14:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日興證券：日本暫停干預可能是出於戰略考慮，而非默許日元走弱】SMBC日興證券經濟學家Junichi Makino表示，日本財務省最近長達一個月的外匯干預暫停可能是出於戰略考慮，而不是默許日元走弱。Makino說，該財務省可能認為暫停匯市干預是更明智的做法，因為對美國利率上升的預期會削弱任何干預措施的效果。日本財務省的資料顯示，在5月28日至6月26日期間，該部門沒有進行買入日元的操作。美元最新報162.71日元。"
-    },
-    {
-      "id": "4964364",
-      "time": "2026-07-01 14:43:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代增資至約45.6億】天眼查App顯示，近日，寧德時代（300750）發生工商變更，註冊資本由約44億人民幣增至約45.6億人民幣。該公司成立於2011年12月，法定代表人為曾毓群，經營範圍包括鋰離子電池、鋰聚合物電池、燃料電池、動力電池、超大容量儲能電池、電池管理系統及可充電電池包的開發、生產和銷售及售後服務等，由廈門瑞庭投資有限公司、香港中央結算有限公司、黃世霖等共同持股。"
-    },
-    {
-      "id": "te:markets:563296",
-      "time": "2026-07-01 14:43:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Drops to Lowest in Over 4 Months — Aluminum futures in the UK fell below $3,100 per tonne, the lowest since February, pressured by a stronger US dollar and expectations of renewed metal shipments from the Persian Gulf. The decline extended June's 16% plunge, the steepest monthly drop since 2008, which followed a strong rally from March to May. Expectations of an imminent US interest rate hike have strengthened the greenback, making dollar-denominated commodities more expensive for buyers using other currencies. Easing tensions in the Middle East have also raised the prospect for the resumption of metal exports from the region, which accounts for nearly a 10th of global aluminum output. Additional downward pressure has come from rising production in China, the world's largest producer, as well as increased output from smelters in Indonesia."
-    },
-    {
-      "id": "te:economy:563295",
-      "time": "2026-07-01 14:42:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Commodity Prices YoY",
-        "Importance 1"
-      ],
-      "text": "Australia Commodity Prices Rise 16.9% in June — The Reserve Bank of Australia’s Index of Commodity Prices rose 16.9% year-on-year in June 2026, following an upwardly revised 18.4% jump in the previous month. The increase was driven largely by strong price growth in gold, coking oil, and rural commodities, which more than offset declines in liquefied gas (LNG) and alumina prices. On a monthly basis, the index dropped 2.2%, following a downwardly revised 1.1% growth in the prior period, weighed down by lower costs across non-rural and base metals, while rural commodities recorded increases."
     }
   ]
 }
