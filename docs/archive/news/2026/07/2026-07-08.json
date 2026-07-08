@@ -1,7 +1,120 @@
 {
   "date": "2026-07-08",
-  "count": 3085,
+  "count": 3098,
   "items": [
+    {
+      "id": "mkt:019f41e5-8521-7aab-8cf1-09c20338e6ba",
+      "time": "2026-07-08 21:23:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran warned it would make an \"immediate response\" to any provocative actions."
+    },
+    {
+      "id": "4976980",
+      "time": "2026-07-08 21:22:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構報告：二季度北京甲級寫字樓淨吸納量創近三年單季新高】高力國際7日釋出的一份報告顯示，隨著科創企業帶動的新增需求持續釋放，2026年二季度，北京甲級寫字樓市場淨吸納量達14.6萬平方米，創近三年單季新高。（上證報）"
+    },
+    {
+      "id": "mkt:019f41e5-151d-7aab-8cf1-007160bbed7d",
+      "time": "2026-07-08 21:22:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he expects to reach a drone deal with Ukraine."
+    },
+    {
+      "id": "4976979",
+      "time": "2026-07-08 21:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，將對各類挑釁行徑作出即時反擊。"
+    },
+    {
+      "id": "mkt:019f41e4-b258-7aab-8cf0-f872cc162c31",
+      "time": "2026-07-08 21:22:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the U.S. will purchase Ukrainian drones."
+    },
+    {
+      "id": "4976978",
+      "time": "2026-07-08 21:22:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【蔡奇出席中國科協第十一次全國代表大會第二次全體會議】7月8日，中國科學技術協會第十一次全國代表大會第二次全體會議在北京人民大會堂舉行。中共中央政治局常委、中央書記處書記蔡奇到會祝賀，代表黨中央作題為《奮力跑好科技強國建設接力賽“關鍵一棒”》的致詞。（新華社）"
+    },
+    {
+      "id": "mkt:019f41e3-a9c1-7aab-8cf0-f0eb69a51d79",
+      "time": "2026-07-08 21:21:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says Iran reneged, warns of possible fresh strikes】At a NATO summit on Wednesday, President Trump said the U.S. had 'dealt a heavy blow' to Iran overnight, warned further strikes could follow that night, and announced the U.S. ceasefire with Iran is over after Iran attacked a merchant vessel near the Strait of Hormuz. He said he remains willing to continue negotiations but accused Iranian leaders of repeatedly agreeing to terms then reneging, called them 'cuckoo,' and said he is considering additional attacks as soon as Wednesday night."
+    },
+    {
+      "id": "mkt:019f41e3-5b56-7aab-8cf0-ed9ceba90c99",
+      "time": "2026-07-08 21:20:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【CCB International launches integrated FICC service platform in Hong Kong】July 8 — CCB International (Holdings) Limited in Hong Kong unveiled a one-stop FICC platform covering fixed income, currencies and commodities. Services include primary-market origination (bond new issues, certificates of deposit) and secondary-market multi-currency offshore bond trading and market‑making with connectivity to major global trading terminals. The firm says it will offer full-suite customised structured products and publish macro, credit and investment-strategy research. In commodities, leveraging its LME member status, it will provide precious metals and bulk-commodity physical trading and delivery services."
+    },
+    {
+      "id": "4976977",
+      "time": "2026-07-08 21:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭需要安全保障。"
+    },
+    {
+      "id": "mkt:019f41e2-b222-7aab-8cf0-e3fdb8c2dd56",
+      "time": "2026-07-08 21:20:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump says no deadline has been set to end the Ukraine conflict."
+    },
+    {
+      "id": "4976976",
+      "time": "2026-07-08 21:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒有結束烏克蘭衝突的最後期限。"
+    },
+    {
+      "id": "mkt:019f41e2-4bf6-7aab-8cf0-daa6a0ff823e",
+      "time": "2026-07-08 21:19:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will visit Ukraine at an appropriate time."
+    },
     {
       "id": "mkt:019f41e1-e6cb-7aab-8cf0-d10895aa1f53",
       "time": "2026-07-08 21:19:11",
@@ -1446,6 +1559,14 @@
         "MKT News"
       ],
       "text": "Iran's ambassador to Armenia said Iran has, with courage and resilience, sustained an asymmetric war against two nuclear-armed world powers and, even after the leader's death, prevented the enemy from achieving its war objectives."
+    },
+    {
+      "id": "4976886",
+      "time": "2026-07-08 20:53:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王成與中海油董事長張傳江座談交流】7月8日下午，浙江省委副書記、寧波市委書記王成與中國海油集團董事長、黨組書記張傳江座談交流。王成說，希望雙方立足紮實的合作基礎，充分發揮各自優勢，協同共建世界級綠色石化產業叢集、打造國際油氣資源配置中心、推動綠色低碳發展，在綜合能源服務、儲能、碳管理等方面加強技術交流和專案合作，更好服務“國之大者”、保障產業鏈供應鏈安全穩定。市委、市政府將全力協調保障好相關專案推進，努力打造央地精誠合作、互利共贏的典範。(人民財訊)"
     },
     {
       "id": "4976885",
