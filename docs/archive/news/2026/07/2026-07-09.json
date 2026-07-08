@@ -1,7 +1,26 @@
 {
   "date": "2026-07-09",
-  "count": 454,
+  "count": 456,
   "items": [
+    {
+      "id": "4977546",
+      "time": "2026-07-09 03:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達股價漲幅擴大至 4%。"
+    },
+    {
+      "id": "mkt:019f431d-bd0d-7aab-8cfd-1ef140845e6f",
+      "time": "2026-07-09 03:04:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "The Wall Street Journal reports Iraq has agreed to a U.S. request to stop channeling U.S. dollar flows to Iran-backed militia groups."
+    },
     {
       "id": "4977545",
       "time": "2026-07-09 03:03:45",
