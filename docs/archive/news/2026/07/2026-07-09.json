@@ -1,7 +1,182 @@
 {
   "date": "2026-07-09",
-  "count": 105,
+  "count": 124,
   "items": [
+    {
+      "id": "mkt:019f4298-7003-7aab-8cf9-3ffb973c5e2d",
+      "time": "2026-07-09 00:38:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister said Iran must speak to Trump in terms he understands because he 'better understands the language of force'."
+    },
+    {
+      "id": "4977350",
+      "time": "2026-07-09 00:38:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長施萊格爾：必要時準備干預外匯市場。"
+    },
+    {
+      "id": "4977349",
+      "time": "2026-07-09 00:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不能讓“瘋子”擁有核武器。"
+    },
+    {
+      "id": "mkt:019f4297-9f49-7aab-8cf9-31abf8a82734",
+      "time": "2026-07-09 00:37:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said preventing Iran from obtaining nuclear weapons is more important than rising oil prices."
+    },
+    {
+      "id": "4977348",
+      "time": "2026-07-09 00:37:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長表示，伊朗必須以特朗普自己的話語體系與其對話，因為特朗普更懂武力這套邏輯。"
+    },
+    {
+      "id": "mkt:019f4296-fedb-7aab-8cf9-2f53a967c6e8",
+      "time": "2026-07-09 00:36:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he has revised his view of the rationality of Iran's leaders after learning more about them, saying they have become more rational."
+    },
+    {
+      "id": "mkt:019f4296-f22f-7aab-8cf9-2728c0bbbe77",
+      "time": "2026-07-09 00:36:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump on Iran: \"This will all end soon.\""
+    },
+    {
+      "id": "mkt:019f4296-99a0-7aab-8cf9-1d2d526b2e6b",
+      "time": "2026-07-09 00:36:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he was unsure whether he wanted to reach an agreement with Iran's leaders."
+    },
+    {
+      "id": "4977347",
+      "time": "2026-07-09 00:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：此事很快就會結束。"
+    },
+    {
+      "id": "mkt:019f4296-3a82-7aab-8cf9-120759deb8cd",
+      "time": "2026-07-09 00:36:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk says Grok's 2-trillion-parameter model is expected to be made available to customers next month."
+    },
+    {
+      "id": "4977346",
+      "time": "2026-07-09 00:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們永遠不會看到伊朗擁有核武器。"
+    },
+    {
+      "id": "4977345",
+      "time": "2026-07-09 00:36:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：油價將會下跌。"
+    },
+    {
+      "id": "4977344",
+      "time": "2026-07-09 00:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們現在石油供應過剩。"
+    },
+    {
+      "id": "4977343",
+      "time": "2026-07-09 00:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特表示，北約將投資270億歐元升級燃料系統。"
+    },
+    {
+      "id": "mkt:019f4295-9904-7aab-8cf9-0d97f6a3da07",
+      "time": "2026-07-09 00:35:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said they are improving the Grok Build toolchain and a 1.5 trillion-parameter base model almost daily to meet user demand."
+    },
+    {
+      "id": "4977342",
+      "time": "2026-07-09 00:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我不確定是否想要達成協議，讓我們完成這項工作吧。"
+    },
+    {
+      "id": "4977341",
+      "time": "2026-07-09 00:35:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不確定是否想與伊朗達成協議。"
+    },
+    {
+      "id": "4977340",
+      "time": "2026-07-09 00:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗領導人如今更為理性。"
+    },
+    {
+      "id": "4977339",
+      "time": "2026-07-09 00:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，在瞭解伊朗領導人後，他改變了原本認為伊朗領導人通情達理的看法。"
+    },
     {
       "id": "4977338",
       "time": "2026-07-09 00:34:13",

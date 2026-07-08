@@ -1,7 +1,182 @@
 {
-  "updated": "2026-07-09 00:35:13",
-  "count": 15871,
+  "updated": "2026-07-09 00:39:20",
+  "count": 15884,
   "items": [
+    {
+      "id": "mkt:019f4298-7003-7aab-8cf9-3ffb973c5e2d",
+      "time": "2026-07-09 00:38:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister said Iran must speak to Trump in terms he understands because he 'better understands the language of force'."
+    },
+    {
+      "id": "4977350",
+      "time": "2026-07-09 00:38:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長施萊格爾：必要時準備干預外匯市場。"
+    },
+    {
+      "id": "4977349",
+      "time": "2026-07-09 00:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不能讓“瘋子”擁有核武器。"
+    },
+    {
+      "id": "mkt:019f4297-9f49-7aab-8cf9-31abf8a82734",
+      "time": "2026-07-09 00:37:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said preventing Iran from obtaining nuclear weapons is more important than rising oil prices."
+    },
+    {
+      "id": "4977348",
+      "time": "2026-07-09 00:37:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長表示，伊朗必須以特朗普自己的話語體系與其對話，因為特朗普更懂武力這套邏輯。"
+    },
+    {
+      "id": "mkt:019f4296-fedb-7aab-8cf9-2f53a967c6e8",
+      "time": "2026-07-09 00:36:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he has revised his view of the rationality of Iran's leaders after learning more about them, saying they have become more rational."
+    },
+    {
+      "id": "mkt:019f4296-f22f-7aab-8cf9-2728c0bbbe77",
+      "time": "2026-07-09 00:36:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump on Iran: \"This will all end soon.\""
+    },
+    {
+      "id": "mkt:019f4296-99a0-7aab-8cf9-1d2d526b2e6b",
+      "time": "2026-07-09 00:36:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he was unsure whether he wanted to reach an agreement with Iran's leaders."
+    },
+    {
+      "id": "4977347",
+      "time": "2026-07-09 00:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：此事很快就會結束。"
+    },
+    {
+      "id": "mkt:019f4296-3a82-7aab-8cf9-120759deb8cd",
+      "time": "2026-07-09 00:36:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk says Grok's 2-trillion-parameter model is expected to be made available to customers next month."
+    },
+    {
+      "id": "4977346",
+      "time": "2026-07-09 00:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們永遠不會看到伊朗擁有核武器。"
+    },
+    {
+      "id": "4977345",
+      "time": "2026-07-09 00:36:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：油價將會下跌。"
+    },
+    {
+      "id": "4977344",
+      "time": "2026-07-09 00:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們現在石油供應過剩。"
+    },
+    {
+      "id": "4977343",
+      "time": "2026-07-09 00:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特表示，北約將投資270億歐元升級燃料系統。"
+    },
+    {
+      "id": "mkt:019f4295-9904-7aab-8cf9-0d97f6a3da07",
+      "time": "2026-07-09 00:35:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said they are improving the Grok Build toolchain and a 1.5 trillion-parameter base model almost daily to meet user demand."
+    },
+    {
+      "id": "4977342",
+      "time": "2026-07-09 00:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我不確定是否想要達成協議，讓我們完成這項工作吧。"
+    },
+    {
+      "id": "4977341",
+      "time": "2026-07-09 00:35:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不確定是否想與伊朗達成協議。"
+    },
+    {
+      "id": "4977340",
+      "time": "2026-07-09 00:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗領導人如今更為理性。"
+    },
+    {
+      "id": "4977339",
+      "time": "2026-07-09 00:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，在瞭解伊朗領導人後，他改變了原本認為伊朗領導人通情達理的看法。"
+    },
     {
       "id": "4977338",
       "time": "2026-07-09 00:34:13",
@@ -144928,62 +145103,6 @@
         "DXY"
       ],
       "text": "Al Arabiya TV reports Israel carried out airstrikes over Nabatieh in southern Lebanon."
-    },
-    {
-      "id": "mkt:019f1e8c-6fc8-7aab-8c63-870f15c823fd",
-      "time": "2026-07-02 00:39:07",
-      "tags": [
-        "MKT News",
-        "XOM.N"
-      ],
-      "text": "Per an SEC filing, Exxon Mobil Corp will complete a domicile change and reorganization on July 1, 2026, and begin trading on the New York Stock Exchange under ticker XOM on July 2, 2026."
-    },
-    {
-      "id": "4965795",
-      "time": "2026-07-02 00:38:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通資深高管、人工智慧主管在該行任職四十年後將退休】摩根大通的一位資深高管在長達四十年的職業生涯後將離開該行。她最近負責領導該行的人工智慧戰略，並在其最高運營委員會中佔據重要席位。執行長傑米·戴蒙和營運長Jenn Piepszak的一份致員工的備忘錄，摩根大通首席資料與分析官Teresa Heitsenrether將於今年年底從公司退休。Heitsenrether此前曾負責該行主經紀和證券服務業務。"
-    },
-    {
-      "id": "te:markets:563528",
-      "time": "2026-07-02 00:38:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB fell 0.2% to close at 51,604 on Wednesday, pressured by energy producers and continued volatility in AI-related stocks. ENI dropped 2.6% and Saipem lost 3.5% as restored oil exports from the Middle East lowered global prices. AI-related stocks weakened following their rally this week, with STMicroelectronics (-3.3%) and Prysmian (-2.2%) posting notable losses. Meanwhile, defense stocks advanced after the UK announced a reallocation of €15 billion in defense spending, boosting Leonardo (+4.4%), Fincantieri (+1.5%), and Avio (+1.1%). Banking stocks were mixed following softer-than-expected inflation data in the Eurozone, with UniCredit adding 0.5%. Also on the financial front, Unipol added 3.9% after receiving an upgrade from Intermonte. Nexi soared 6.4% on a strong session for payment infrastructure globally."
-    },
-    {
-      "id": "4965794",
-      "time": "2026-07-02 00:37:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會檔案：埃克森美孚已於 2026 年 7 月 1 日完成公司註冊地變更和重組，埃克森美孚控股公司自 2026 年 7 月 2 日起，將以股票程式碼 XOM 在紐約證券交易所掛牌交易。"
-    },
-    {
-      "id": "4965793",
-      "time": "2026-07-02 00:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：由日本三菱日聯銀行牽頭的 7 家銀行將聯手，向信實工業提供日元與美元雙幣種融資。"
-    },
-    {
-      "id": "4965792",
-      "time": "2026-07-02 00:36:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美銀：機構客戶拋售科技股 連續第四周成為美股主要淨賣方】美銀證券策略師Jill Carey Hall在一份報告中指出，隨著客戶減持科技股，他們連續第四周成為美股的“主要淨賣方”。該行客戶上週拋售了標普500指數11個板塊中9個板塊的股票，科技和金融板塊首當其衝。Hall援引截至6月26日當週的客戶資料稱，科技板塊的四周平均淨資金流入已降至歷史最低。繼此前一週資金流出創紀錄之後，機構客戶連續第四周拋售股票。美股的四周滾動平均淨資金流入也處於歷史低點。"
     }
   ]
 }
