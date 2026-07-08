@@ -1,7 +1,124 @@
 {
   "date": "2026-07-09",
-  "count": 216,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:019f42b2-db13-7aab-8cfa-8ec3e0b258c5",
+      "time": "2026-07-09 01:07:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump says U.S.-Iran escalation will soon subside】In Ankara on the 8th, Trump said the recent U.S.-Iran escalation will soon subside and he does not expect a renewed war with Iran."
+    },
+    {
+      "id": "4977413",
+      "time": "2026-07-09 01:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美伊之間的局勢升級會很快平息】美國總統特朗普8日在土耳其首都安卡拉表示，當前美國與伊朗之間的局勢升級會很快平息，他不認為會再度爆發與伊朗的戰爭。（新華社）"
+    },
+    {
+      "id": "4977412",
+      "time": "2026-07-09 01:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達低開高走，現漲2%。"
+    },
+    {
+      "id": "4977411",
+      "time": "2026-07-09 01:06:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：影片混音功能今日起面向部分國家符合資格的谷歌AI Plus、Pro及Ultra訂閱使用者推出。"
+    },
+    {
+      "id": "4977410",
+      "time": "2026-07-09 01:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌相簿推出由 Gemini Omni 模型驅動的影片混剪功能。"
+    },
+    {
+      "id": "4977409",
+      "time": "2026-07-09 01:05:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國股指跌幅收窄。"
+    },
+    {
+      "id": "4977408",
+      "time": "2026-07-09 01:05:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌0.4%，納斯達克指數下跌0.2%。"
+    },
+    {
+      "id": "4977407",
+      "time": "2026-07-09 01:05:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國高階別防務官員力促伯納姆考慮放鬆財政規則 包括髮行戰爭債券】英國高階別防務官員正在力促安迪·伯納姆重新考慮放寬英國的財政規則，從而籌集軍費，其中包括髮行戰爭債券。據知情官員透露，有望於本月晚些時候接替基爾·斯塔默出任首相的伯納姆以及他團隊中的資深成員預計將探索一系列的融資機制，此前他們已在私底下向內閣大臣保證，他們希望提高國防開支。此前斯塔默多次給戰爭債券的想法潑冷水，認為它只是增加借款的另一種方式。伯納姆一直希望向債券投資者表明，他能夠負責任地管理公共財政，因此已經收回了早先關於應將國防支出排除在英國自我設定的借款上限之外的說法。"
+    },
+    {
+      "id": "mkt:019f42b1-2571-7aab-8cfa-8248b335638a",
+      "time": "2026-07-09 01:05:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield pared gains after the 10-year auction, trading up 5.22bps at 4.581%."
+    },
+    {
+      "id": "4977406",
+      "time": "2026-07-09 01:04:56",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "美國參議員沃倫就收購計劃質詢花旗集團。"
+    },
+    {
+      "id": "mkt:019f42b0-5273-7aab-8cfa-7f4b87720966",
+      "time": "2026-07-09 01:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI will run GPT-5.5 in the background during GPT-Live's initial rollout. GPT-Live in ChatGPT will not support voice interactions that include video or screen sharing."
+    },
+    {
+      "id": "4977405",
+      "time": "2026-07-09 01:04:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率在10年期美債標售過後漲幅收窄；最新報上漲5.22個基點，至4.581%。"
+    },
+    {
+      "id": "mkt:019f42af-fd1c-7aab-8cfa-75b673e92071",
+      "time": "2026-07-09 01:04:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Swiss National Bank chairman said energy prices have also pushed Swiss inflation, while the impact of other factors has been negligible."
+    },
     {
       "id": "mkt:019f42af-91d8-7aab-8cfa-6fe1574ea4c3",
       "time": "2026-07-09 01:03:50",
