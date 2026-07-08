@@ -1,7 +1,90 @@
 {
   "date": "2026-07-09",
-  "count": 687,
+  "count": 696,
   "items": [
+    {
+      "id": "mkt:019f43e8-1f14-7aab-8cff-feba271cb341",
+      "time": "2026-07-09 06:45:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli military raises readiness amid US-Iran tensions】Israeli authorities said on the 8th the defense establishment is preparing for a possible rapid deterioration amid heightened US‑Iran tensions. Prime Minister Netanyahu planned a security assessment meeting for the evening of the 8th; Defense Minister Katz will attend. The IDF has increased overall readiness and is coordinating closely with US CENTCOM."
+    },
+    {
+      "id": "te:markets:565417",
+      "time": "2026-07-09 06:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 1.66% — Top crypto losers are Ether (-1.66%), Bitcoin (-1.65%) and Binance (-1.64%)."
+    },
+    {
+      "id": "mkt:019f43e7-cd4a-7aab-8cff-f468277c1d9f",
+      "time": "2026-07-09 06:44:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he did not tell Venezuelan opposition leader Machado not to return to Venezuela."
+    },
+    {
+      "id": "4977682",
+      "time": "2026-07-09 06:44:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方釋出“批判指南”，逐一駁斥菲律賓涉南海非法主張】自然資源部海洋發展戰略研究所8日釋出《菲律賓南海領土主張的歷史法理批判》報告。這份報告系統梳理了菲律賓南海領土主張的歷史由來，針對性揭露菲方的慣用“套路”，批駁其虛假敘事，堪稱是對菲南海非法主張的“批判指南”。參與報告編撰的專家在接受記者採訪時表示，菲方為將領土範圍擴張至黃巖島及南沙群島部分島礁，拼湊的一系列“依據”自相矛盾，無論在歷史還是法理層面均難令人信服。（環球網）"
+    },
+    {
+      "id": "4977681",
+      "time": "2026-07-09 06:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家通訊社（IRNA）訊息：伊朗東南部伊蘭沙赫爾機場遭襲擊，一名消防員遇難。"
+    },
+    {
+      "id": "4977680",
+      "time": "2026-07-09 06:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉反對派領袖馬查多非常出色。我並未明令禁止馬查多返回委內瑞拉。"
+    },
+    {
+      "id": "mkt:019f43e5-2d34-7aab-8cff-e822e11b09ee",
+      "time": "2026-07-09 06:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump told CNN he does not know whether Iran merits a deal or would comply with one, saying that uncertainty is the problem."
+    },
+    {
+      "id": "te:economy:565415",
+      "time": "2026-07-09 06:41:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "New Zealand Manufacturing Growth Strongest Since 2021 — The Business NZ Performance of Manufacturing Index in New Zealand increased to 54.7 in June, up from an upwardly revised 51.3 in May, marking the fifth consecutive month of expansion and well above the long-term average of 52.5. It was the strongest growth in factory activity since July 2021, with new orders being the standout at 64.1 (vs 53.2 in May), pointing to a healthy pipeline of work ahead. Meanwhile, production surged to 59.4 (vs 50.6), while deliveries rose to 57.3 (vs 52.9). Stocks of finished products (56.9 vs 54.3) and employment (55.8 vs 51.4) were also well above the 50.0 mark, an encouraging sign for manufacturing hiring. \" There are still real headwinds with the conflict in the Middle East and high fuel prices continuing to be a factor for many respondents, but this month's result reflects a huge positive shift after a long stretch of soft results, which is a very welcome turn,\" said BusinessNZ’s Director of Advocacy, Catherine Beard."
+    },
+    {
+      "id": "4977679",
+      "time": "2026-07-09 06:41:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將就住房法案作出最終決定。"
+    },
     {
       "id": "4977678",
       "time": "2026-07-09 06:40:10",
