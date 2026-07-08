@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-08 08:17:33",
-  "count": 15914,
+  "updated": "2026-07-08 08:21:26",
+  "count": 15913,
   "items": [
+    {
+      "id": "4975198",
+      "time": "2026-07-08 08:20:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方代表在聯合國人工智慧治理全球對話首次會議上發言 】在聯合國人工智慧治理全球對話首次會議上，中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德就“彌合人工智慧鴻溝”專題作發言。 賈桂德表示，人工智慧正深刻重塑各國發展格局和全球治理架構，各方應以普惠包容為立足點、以聯合國為主渠道、以能力建設為著力點，塑造包容、開放、可持續、公平、安全和可靠的數智未來。數字主權意味著各國有權自主選擇人工智慧產品，不應被脅迫選邊站隊。 賈桂德強調，中國是人工智慧能力建設的倡導者、推動者和先行者，提出《全球人工智慧治理倡議》，助力各國共享智慧紅利。中國將舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待各方積極參與，彌合人工智慧鴻溝。"
+    },
+    {
+      "id": "4975197",
+      "time": "2026-07-08 08:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米汽車新產品系列命名為SKYNOMAD】小米汽車官方微博今日釋出主題為“SKYNOMAD”的海報，“SKY”指天空，“NOMAD”指遊牧者，海報上帶有小米品牌LOGO。知情人士表示，SKYNOMAD並非此前網傳的“紅米汽車”，而是小米汽車繼SU7、YU7後的新產品新型號，該系列採用了新的設計語言，與理想L9、問界M9處於同一級別，將主打大空間多人出行市場，這也是2026年下半年最重要的SUV產品之一。"
+    },
+    {
+      "id": "4975196",
+      "time": "2026-07-08 08:19:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【新加坡要求開發商對高風險購房者加強核查】新加坡住房監管機構告知房地產開發商，需對高風險購房人群實施強化反洗錢審查，並明確大多數購房者無需接受資金來源、財富來源等額外核查。新加坡市區重建局於週二釋出通告稱，房產企業開展客戶盡職調查應遵循 “風險匹配” 原則。對絕大多數購房者，完成身份核驗、背景篩查等標準流程即可；僅針對經評估存在較高洗錢、恐怖融資或擴散融資風險的買家，才需要開展深度核查。該指引與新加坡整體推行的風險導向型反洗錢監管思路保持一致。上月，新加坡金融管理局出臺修訂後的單一家族辦公室監管框架，在簡化牌照申請要求的同時，持續落實反洗錢相關合規義務。"
+    },
+    {
+      "id": "4975195",
+      "time": "2026-07-08 08:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴外長：美國封鎖致古累計損失已達1787億美元 】古巴外交部長羅德里格斯7日表示，按現行價格計算，美國長期對古巴封鎖已致古巴累計損失達1787億美元。 據古巴外交部在社交媒體釋出的訊息，聯合國大會當天以壓倒性多數決定繼續就“必須終止美國對古巴的經濟、商業和金融封鎖”舉行辯論。羅德里格斯在辯論中表示，2025年3月1日至2026年2月28日，美國封鎖給古巴造成的損失達到創紀錄的80.83億美元，較上一年增長7%。（新華社）"
+    },
+    {
+      "id": "4975194",
+      "time": "2026-07-08 08:18:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報76.39美元/桶。"
+    },
+    {
+      "id": "te:markets:565008",
+      "time": "2026-07-08 08:17:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline as US Strikes Iran — Silver held below $60 an ounce on Wednesday after dropping more than 3% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Silver had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
+    },
     {
       "id": "4975193",
       "time": "2026-07-08 08:16:51",
@@ -145828,73 +145879,6 @@
         "國際"
       ],
       "text": "【韓國投資者上半年借道ETF配置中國資產 半導體、滬深300、通訊等產品受青睞】今年上半年，韓國投資者積極配置中國資產，借道多隻ETF進行投資。韓國證券存託結算院資料顯示，港股市場方面，Global X中國半導體ETF上半年獲淨買入金額最多，達4239.46萬美元；Global X中國電動車及電池ETF和華夏滬深300指數ETF上半年獲淨買入金額分別為2942.49萬美元和1834.17萬美元。A股市場方面，華夏中證5G通訊主題ETF上半年獲韓國投資者淨買入437.64萬美元，在所有A股上市ETF中排名第一。此外，華夏國證半導體晶片ETF、易方達中證人工智慧ETF、富國上證綜指ETF上半年獲淨買入金額分別為290.11萬美元、263.40萬美元和191.25萬美元。"
-    },
-    {
-      "id": "4963850",
-      "time": "2026-07-01 08:21:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本國債下跌，追隨美國國債跌勢。10年期日本國債收益率上漲4.0個基點，至2.720%。30年期日本國債收益率上漲2.0個基點，至3.965%。"
-    },
-    {
-      "id": "mkt:019f1b0c-7aaa-7aab-8c46-657d69dc2d8a",
-      "time": "2026-07-01 08:20:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan 10-year government bond yield rose 4.0 bps to 2.720%."
-    },
-    {
-      "id": "4963849",
-      "time": "2026-07-01 08:20:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國財務規則迎75年來重大調整】當地時間6月30日，第80屆聯大透過一項有關聯合國財政問題的決議，決定對一項已有75年曆史的財務規則進行調整。根據新規則，在為期四年的試行期內，聯合國只有在相關資金實際到賬、有現金支援的情況下，才會將未使用資金返還或記入會員國貸項。該決議將於2026年7月1日起生效。"
-    },
-    {
-      "id": "4963848",
-      "time": "2026-07-01 08:20:04",
-      "tags": [
-        "央行",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：美伊衝突降溫，亞太新興經濟體通脹風險仍在】中信證券指出，美伊雙方已簽署諒解備忘錄，原油價格逐漸下降，但價格傳導需要時間，亞太新興經濟體通脹正向非能源領域擴散。具體國家來看，菲律賓和印尼面臨較大的第二輪通脹效應，在6月加息基礎上，年內或再有兩到三次加息；印度聚焦穩定匯率，傾向於使用非利率工具；其餘經濟體央行認為通脹相對穩定，且強調全球能源價格壓力緩解，貨幣政策或將保持觀望。"
-    },
-    {
-      "id": "4963847",
-      "time": "2026-07-01 08:19:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報58.72美元/盎司。"
-    },
-    {
-      "id": "mkt:019f1b0a-556e-7aab-8c46-59f210ba99d1",
-      "time": "2026-07-01 08:18:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources say the US military has deployed about 900 personnel inside Venezuela for rescue operations and about 800 personnel at Caribbean hubs in Puerto Rico and Curaçao."
-    },
-    {
-      "id": "4963846",
-      "time": "2026-07-01 08:17:50",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【中信證券：後續若7月中旬公佈的二季度經濟資料面臨壓力 則政策或繼續加大呵護力度】中信證券指出，6月製造業PMI有所回升，剔除季節性看製造業景氣較上月有小幅提升，製造業PMI持續位於榮枯線之上，反映全球通脹、出口高增對製造業企業體感有積極作用。從分項看，生產景氣基本持平，需求指標反彈明顯，價格指標顯著下降，或指向PPI拐點臨近，關注其對工業企業利潤增速的影響。從行業看，高技術製造業PMI繼續受益於AI景氣而提升，消費品製造業受益於油價下降、成本壓力緩和，景氣亦迴歸榮枯線之上。非製造業6月景氣度亦有所好轉，或受益於穩內需政策落地加速。近期，隨著部分經濟指標面臨壓力，存量政策落地節奏有所加快，後續若7月中旬公佈的二季度經濟資料面臨壓力，則政策或繼續加大呵護力度。"
     }
   ]
 }
