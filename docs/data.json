@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-08 08:45:53",
-  "count": 15906,
+  "updated": "2026-07-08 08:49:50",
+  "count": 15905,
   "items": [
+    {
+      "id": "4975231",
+      "time": "2026-07-08 08:48:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨微漲0.1%，納斯達克指數期貨上漲0.5%。"
+    },
+    {
+      "id": "4975230",
+      "time": "2026-07-08 08:48:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄勒岡州總檢察長將請求法院責令派拉蒙配合併購調查】據媒體查閱的檔案顯示，俄勒岡州總檢察長將請求法院下令，要求派拉蒙配合針對其以1,100億美元收購華納兄弟一事的相關調查要求。該州在即將提交給法院的檔案中稱，派拉蒙計劃於7月16日或其後立即完成這筆交易。檔案顯示，俄勒岡州總檢察長雷菲爾德（Dan Rayfield）將尋求就此事項舉行加速聽證，或申請一項命令，在聽證舉行前阻止交易完成。派拉蒙一位發言人週二表示：“俄勒岡州司法部所尋求的資訊與該交易是否符合俄勒岡州反壟斷法無關，也不構成推遲一項顯然合法且有利於競爭的交易的正當理由。”該發言人補充道，公司已向該州提供了與此次合併相關的檔案。該公司表示，這筆交易將打造出一個比Netflix和迪士尼更強大的流媒體競爭對手，並使創作者和消費者受益。上個月，知情人士透露，加利福尼亞州、紐約州以及美國其他各州正準備起訴 以阻止這筆交易。各州有權對那些被認為會非法削弱競爭的併購交易採取執法行動。"
+    },
+    {
+      "id": "mkt:019f3f31-afea-7aab-8cd9-e66552ff58e7",
+      "time": "2026-07-08 08:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Margin balances on Shanghai and Shenzhen fall CNY13.037bn on Jul 7】As of July 7, Shanghai Stock Exchange margin balance was CNY1,488.228bn, down CNY5.889bn from the previous trading day; Shenzhen Stock Exchange margin balance was CNY1,459.71bn, down CNY7.148bn. Combined margin balances across the two exchanges totaled CNY2,947.938bn, down CNY13.037bn."
+    },
+    {
+      "id": "4975229",
+      "time": "2026-07-08 08:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少130.37億元】截至7月7日，上交所融資餘額報14882.28億元，較前一交易日減少58.89億元；深交所融資餘額報14597.1億元，較前一交易日減少71.48億元；兩市合計29479.38億元，較前一交易日減少130.37億元。"
+    },
+    {
+      "id": "4975228",
+      "time": "2026-07-08 08:47:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達譴責卡方天然氣運輸船遭襲 稱伊朗應承擔責任】卡達7日譴責卡方一艘液化天然氣運輸船在霍爾木茲海峽附近遭襲，稱此舉違反國際法，並對國際海上航行安全和全球能源安全構成威脅。卡達首相顧問兼外交部發言人安薩里當天在社交媒體發表宣告說，此次襲擊是“對國際海上航行安全、全球能源供應以及國際水道航行自由原則不可接受的攻擊”。他說，卡達認為，伊朗應對這起襲擊事件以及由此造成的一切損失和後果承擔全部法律責任。（央視新聞）"
+    },
+    {
+      "id": "4975227",
+      "time": "2026-07-08 08:45:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數逆轉早盤跌勢；最新漲0.4%，報7687.35點。SK海力士上漲3.4%。"
+    },
     {
       "id": "mkt:019f3f2f-214a-7aab-8cd9-d932783e23b4",
       "time": "2026-07-08 08:44:41",
@@ -145717,80 +145771,6 @@
         "觀點"
       ],
       "text": "【中信建投：當前保險板塊呈現基本面向好與低位估值錯配的格局 配置價值凸顯】中信建投研報稱，當前保險板塊呈現基本面向好與低位估值錯配的格局，配置價值凸顯。板塊估值仍處低位，多家上市險企PEV估值處於近三年、五年20%分位數之下，市場過度透支高基數壓力，尚未充分反映負債端改善與盈利修復的積極預期，估值修復潛力充足。"
-    },
-    {
-      "id": "te:economy:563161",
-      "time": "2026-07-01 08:48:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Philippine Manufacturing Activity Rises for 2nd Month — The S&P Global Philippines Manufacturing PMI edged up to 50.9 in June 2026 from 50.8 in May, marking the second consecutive month of growth. Growth in new business was sustained, with output rising for a second month running, albeit with the pace of increase losing some momentum. The downturn in new export orders also moderated notably. Manufacturers raised their purchases of additional raw materials and semi-finished items for the first time in four months. They also recorded unchanged staffing levels in June, marking a stabilization compared to job shedding seen in April and May, while outstanding business rose for the first time in three months. Lead time lengthened to the least marked extent since December last year. Inflationary pressures also eased. However, confidence fell to their lowest since January."
-    },
-    {
-      "id": "mkt:019f1b25-5113-7aab-8c46-f22ccccb9713",
-      "time": "2026-07-01 08:47:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China margin financing balances across two exchanges up 16.12 billion yuan】As of June 30, margin financing balances on China's two stock exchanges rose 16.12 billion yuan to 2.9878 trillion yuan. Shanghai Stock Exchange financing balance was 1.5169 trillion yuan, up 11.69 billion yuan from the prior trading day; Shenzhen Stock Exchange was 1.4709 trillion yuan, up 4.43 billion yuan."
-    },
-    {
-      "id": "te:economy:563158",
-      "time": "2026-07-01 08:47:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Thailand Manufacturing Sector Hits 3-Month High — Thailand's S&P Global Manufacturing PMI rose to 53.6 in June 2026, picking up from a ten-month low of 52.6 in the previous month. It marked the highest reading since March, as production growth rose to its fastest pace since December 2025 amid robust demand conditions. New business also increased for the fourteenth consecutive month, driven by aggressive marketing campaigns, major new client acquisitions, and large order placements from existing clients. However, backlogs of work grew in June as factories struggled to keep pace with incoming orders, while factory employment numbers remained largely stagnant. On the price front, manufacturers faced escalating operating expenses due to higher raw material costs, prompting them to lift factory gate charges more aggressively than in May. Lastly, the Future Output Index rose for the third consecutive month, signaling a steady, sustained recovery from the near five-year low recorded in March."
-    },
-    {
-      "id": "4963874",
-      "time": "2026-07-01 08:46:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加161.16億元】截至6月30日，上交所融資餘額報15169.08億元，較前一交易日增加116.87億元；深交所融資餘額報14708.79億元，較前一交易日增加44.29億元；兩市合計29877.87億元，較前一交易日增加161.16億元。"
-    },
-    {
-      "id": "mkt:019f1b24-ace5-7aab-8c46-ed6499dde48d",
-      "time": "2026-07-01 08:46:56",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Electric vehicle sales to account for nearly 30% of global new-car sales in 2026】The IEA's Global EV Outlook 2026 projects 23 mln electric vehicle sales in 2026, about 30% of global new-car sales versus roughly 5% five to six years ago. The report forecasts regional EV sales growth of roughly +20% in Europe, more than +50% in non-China Asia-Pacific and +45% in Latin America. IEA Executive Director Fatih Birol said the global EV market has entered a new phase of accelerated growth."
-    },
-    {
-      "id": "4963873",
-      "time": "2026-07-01 08:46:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參7月1日價格釋出：青花郎領跌 總價創近三日新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月1日整體再度低位回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9870元，較昨日溫和下跌14元，結束此前連續兩日回升走勢，創下近三天以來最低。洋河夢之藍M6+平近一月最高價紀錄，而飛天茅臺、五糧液普五八代、水晶劍南春等多款單品則處於近一月低位區間，普五八代更是續創“酒價內參”自去年11月有統計以來最低。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒邊際轉冷，低位震盪格局仍未扭轉。今日11大白酒單品三漲七跌一平，輸家數量佔據明顯優勢。上漲方面，五糧液1618與洋河夢之藍M6+均上漲2元/瓶，其中後者平近一月最高價紀錄；飛天茅臺小幅上漲1元/瓶，自昨日創下的近一月最低價處技術性修復。下跌方面，青花郎跌幅居前，下跌5元/瓶，重新回落至700元關口下方；精品茅臺下跌4元/瓶，將將守住2400元關口，回落至近一月次低位；國窖1573與習酒君品均下跌3元/瓶，其中前者自昨日創下的近一月最高價處短線回落；古井貢古20下跌2元/瓶；五糧液普五八代與青花汾20均小幅下跌1元/瓶，其中前者價格續創“酒價內參”自去年11月有統計以來最低。水晶劍南春價格環比保持不變，仍處於近一月次低位。"
-    },
-    {
-      "id": "4963872",
-      "time": "2026-07-01 08:46:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽穀華泰：公司四氯化矽純度為工業級】陽穀華泰(300121)7月1日在互動平臺表示，公司四氯化矽為副產品，純度為工業級。光纖行業用的高純四氯化矽需要較高純度，用於光纖預製棒的生產。"
     }
   ]
 }
