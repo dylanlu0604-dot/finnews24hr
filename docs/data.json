@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-08 09:06:13",
-  "count": 15915,
+  "updated": "2026-07-08 09:10:06",
+  "count": 15916,
   "items": [
+    {
+      "id": "4975270",
+      "time": "2026-07-08 09:09:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2461.00元。"
+    },
+    {
+      "id": "4975269",
+      "time": "2026-07-08 09:08:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲2.5個基點，至2.865%，創下1996年9月以來新高。"
+    },
+    {
+      "id": "4975268",
+      "time": "2026-07-08 09:07:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達應對晶片競品的全新策略：與對手展開合作】面對AI伺服器晶片賽道不斷湧現的競爭對手，英偉達拿出了一套應對方案：與這些廠商攜手合作。據透露，英偉達與AI晶片初創企業d-Matrix將整合雙方硬體，打造一套全新系統用於執行AI大模型。就在此次合作訊息釋出的一個月前，另一款AI伺服器晶片廠商SambaNova就曾表示，已和英偉達達成合作，讓自家用於AI模型運算的晶片可與英偉達圖形處理器協同工作。英偉達如今暗示，雙方還在籌備更多類似合作專案。英偉達高效能運算高階總監迪翁・哈里斯表示：“其餘合作專案我暫不提前披露。”"
+    },
+    {
+      "id": "4975267",
+      "time": "2026-07-08 09:05:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓高縣5.0級地震目前2人受輕微傷 】記者8日從宜賓市高縣應急救援隊瞭解到，目前四川高縣5.0級地震已排查出2人受輕微傷，1人送往沙河鎮中心衛生院接受治療，另1人送往高縣人民醫院接受治療。 目前，高縣抗震救災指揮部啟動地震二級應急響應。記者8時30分從位於震中的高縣復興鎮人民政府獲悉，目前已轉移安置4戶6人，房屋受損174戶，道路落石13處，道路撕裂4處，1處公共設施受損，1所學校出現輕微裂縫。"
+    },
+    {
+      "id": "mkt:019f3f41-f74b-7aab-8cda-8faaa43b7d80",
+      "time": "2026-07-08 09:05:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【China issues major report criticizing Philippine South China Sea claims】July 8 — The Institute of Marine Development Strategy under the Ministry of Natural Resources published a bilingual report, A Historical and Legal Critique of the Philippines' South China Sea Territorial Claims, concluding Manila has sought to extend territory beyond treaty-defined boundaries to include Scarborough Shoal and parts of the Spratly Islands. The report said these expansions lack basic historical evidence and contravene international law on territorial acquisition. It is the first comprehensive assessment and systematic critique of Philippine claims by a Chinese state-affiliated research institute."
+    },
     {
       "id": "4975266",
       "time": "2026-07-08 09:05:05",
@@ -145841,40 +145887,6 @@
         "焦點"
       ],
       "text": "雞蛋連續主力合約日內漲1%，現報4493.00元。"
-    },
-    {
-      "id": "4963908",
-      "time": "2026-07-01 09:09:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【浙江交科：公司及下屬公司均未列入美國製裁名單】浙江交科7月1日在互動平臺表示，公司及下屬公司均未列入美國製裁名單。"
-    },
-    {
-      "id": "4963907",
-      "time": "2026-07-01 09:08:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【比特幣跌破6萬美元 大買家Strategy改革融資模式加劇市場焦慮】比特幣週二一度下跌3.5%，逼近58000美元，投資者逆轉了最初對Michael Saylor對旗下Strategy Inc.融資改革投出的信心票，這引發了新的擔憂，即這家加密貨幣最大買家之一的公司可能不再是穩定的需求來源。Strategy股價下跌6%，抹去了週一漲幅的一半，此前，該公司宣佈對其比特幣戰略背後的資本結構進行全面調整。儘管投資者最初對股票回購和增加現金儲備的前景表示歡迎，但關注點很快轉移到該公司獲得了新的靈活性，可以出售比特幣並將資產負債表管理優先於資產積累上。"
-    },
-    {
-      "id": "4963906",
-      "time": "2026-07-01 09:06:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中藥飲片將實現一物一碼 全程可追溯】據國家醫保局訊息，7月1日，國家醫保局公開徵求《國家醫療保障局辦公室 國家藥品監督管理局綜合司關於印發〈中藥飲片追溯碼編碼要求〉的通知（徵求意見稿）》意見。為健全中藥飲片全鏈條追溯體系，提升藥品質量安全保障能力，強化醫保基金使用監管效能，國家醫保局組織力量開展中藥飲片追溯碼編碼要求的研究制定工作，秉持“實用性、唯一性、可擴充套件性、通用性”基本原則，形成《中藥飲片追溯碼編碼要求》，擬聯合國家藥監局印發，以實現中藥飲片“一物一碼、全程可溯”。"
-    },
-    {
-      "id": "4963905",
-      "time": "2026-07-01 09:06:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【眾擎機器人成立科翌機器人智慧公司】企查查APP顯示，近日，深圳市科翌機器人智慧有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；工業機器人銷售；工業機器人制造；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司全資持股。"
     }
   ]
 }
