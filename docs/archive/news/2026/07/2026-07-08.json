@@ -1,7 +1,96 @@
 {
   "date": "2026-07-08",
-  "count": 2676,
+  "count": 2686,
   "items": [
+    {
+      "id": "te:markets:565278",
+      "time": "2026-07-08 19:29:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Rises to 6-Week High — Wheat climbed past $6 per bushel to a nearly six-week high, mainly driven tighter US supplies. The USDA reported lower-than-expected June 1 wheat stocks of 920 million bushels and a reduced annual acreage forecast of 42.740 million acres. Further boosting prices was strong export demand, with a private sale of 100,000 metric tons of US hard red spring wheat to Nigeria for the 2026/27 marketing year. Geopolitical tensions also fueled supply anxieties following new US military strikes on Iran, sparked by recent attacks on shipping vessels in the critical Strait of Hormuz. However, price gains were somewhat capped by a steady US harvest pace. Additionally, forecasts of robust production across the Black Sea region continue to support expectations of ample global wheat availability."
+    },
+    {
+      "id": "mkt:019f417c-8d70-7aab-8cec-f215458b2091",
+      "time": "2026-07-08 19:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Denmark's foreign minister said he still believes the working group comprising Greenland, Denmark and the United States can achieve results satisfactory to all parties."
+    },
+    {
+      "id": "4976706",
+      "time": "2026-07-08 19:28:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華虹宏力：發行股份購資產並募資獲證監會同意註冊批覆】華虹宏力公告稱，公司擬透過發行股份購買華力微97.4988%股權並募集配套資金。7月8日，公司收到中國證監會批覆，同意向上海華虹等發行股份購買資產，及發行股份募集配套資金不超75.56億元。公司董事會將在規定期限內辦理相關事宜，並及時披露資訊。"
+    },
+    {
+      "id": "4976705",
+      "time": "2026-07-08 19:28:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥外交大臣：我們仍認為，由格陵蘭、丹麥與美國共同組成的工作組能夠拿出令各方都滿意的結果。"
+    },
+    {
+      "id": "4976704",
+      "time": "2026-07-08 19:27:40",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國再度恢復對伊石油制裁將或將對伊朗經濟造成重大打擊】布魯蓋爾（Bruegel）高階研究員西蒙尼·塔利亞皮埃特拉（Simone Tagliapietra）分析指出，原油出口始終是伊朗獲取硬通貨外匯的核心支柱。大宗商品資料分析機構Kpler資深石油分析師納溫·達斯（Naveen Das）亦表示，受此前美伊達成備忘錄的預期推動，伊朗原本已著手重新構建多元化的全球原油買家網路，美國的突然變卦在很大程度上切斷了其國際融資渠道。"
+    },
+    {
+      "id": "mkt:019f417b-b70a-7aab-8cec-efef1eb5be85",
+      "time": "2026-07-08 19:27:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's Defense Ministry said it successfully repelled multiple malicious air attacks by Iran."
+    },
+    {
+      "id": "4976703",
+      "time": "2026-07-08 19:27:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【敏芯股份：終止“年產車用及工業級感測器600萬隻生產研發專案”，剩餘募集資金3817.29萬元將永久補充流動資金】敏芯股份公告，公司擬終止實施2023年以簡易程式向特定物件發行股票募集資金投資專案“年產車用及工業級感測器600萬隻生產研發專案”，並將剩餘募集資金3817.29萬元（含利息收入以及現金管理收益，最終轉入公司自有資金賬戶金額以資金轉出當日專戶餘額為準）永久補充流動資金。"
+    },
+    {
+      "id": "4976702",
+      "time": "2026-07-08 19:27:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：10年期英國國債收益率攀升，受通脹和財政擔憂重燃影響】隨著美伊緊張局勢再次升級引發通脹擔憂，10年期英國國債收益率躍升至5月21日以來的最高水平。美國總統特朗普週三宣佈伊朗停火協議結束，導致油價上漲，通脹擔憂重燃。在英國首相基爾·斯塔默6月份表示將辭職後，新領導人任命在即，投資者也對英國未來公共財政狀況感到擔憂。Ebury的Matthew Ryan在一份報告中表示，接替斯塔默的領跑者安迪·伯納姆宣佈了雄心勃勃的計劃，這可能使政府難以維持嚴格的財政規則。Tradeweb的資料顯示，10年期英國國債收益率觸及4.960%的6.5周高點。"
+    },
+    {
+      "id": "4976701",
+      "time": "2026-07-08 19:26:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海信家電：轉讓蘇州三電65%股權，被動形成4900萬元財務資助】海信家電公告，控股子公司三電株式會社擬將持有的蘇州三電精密零件有限公司65%股權轉讓給蘇州亞斯魯精密金屬有限公司。交易完成後，公司對蘇州三電剩餘債權4900萬元將被動形成對外提供財務資助。公司計劃於股東會審議透過後與蘇州三電簽訂《財務資助協議》，金額為4900萬元，借款期限為自標的股權交割日起2年，固定年利率3.2%。擔保措施為蘇州亞斯魯及其控股股東江蘇如捷提供連帶責任保證，蘇州三電以部分機器裝置抵押900萬元、應收賬款質押4000萬元。該議案已獲董事會審議透過，尚需股東會審議。"
+    },
+    {
+      "id": "4976700",
+      "time": "2026-07-08 19:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大量茉莉花報廢產生連鎖反應 花農稱茉莉花田恢復還需兩個月】受持續降雨影響，廣西南寧橫州市多個水庫出現險情，茉莉花田大面積被淹。記者從多位橫州茉莉花農處瞭解到，目前多個核心產區的花田被淹。在當地有兩畝花田的“這花週週”告訴記者，自己的花田大部分都被淹完了，“我這邊還算受災比較輕的了，雲表鎮、校椅東圩、鎮龍鄉那邊最嚴重。如果水退了，可能需要兩個月左右的時間恢復。” 雖然暫時貨源不受影響，但可以確定的是，在接下來的至少1到2個月內，橫州的茉莉花供應將面臨巨大挑戰。 行業專家王浠池告訴記者，茉莉花的生長特點決定了一旦花頭泡水就會直接影響後續花苞開啟程度，“如果開啟程度很低，那香氣就會不足，而且水分含量增加後，在開放過程中會產生積溫，溫度一高會產生水悶氣，這種悶氣可以可能直接就進到茶葉裡面了，是去不掉的。”這意味著被淹花田的茉莉花面臨“報廢”的可能，如果泡水茉莉花植株根部受損，後續還需要重新扦插種，基本上要兩年才能開花。（藍鯨新聞）"
+    },
     {
       "id": "mkt:019f4179-7a49-7aab-8cec-e3225eacd13e",
       "time": "2026-07-08 19:25:07",
