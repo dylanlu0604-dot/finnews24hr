@@ -1,7 +1,174 @@
 {
   "date": "2026-07-08",
-  "count": 2250,
+  "count": 2269,
   "items": [
+    {
+      "id": "mkt:019f410c-d416-7aab-8ce9-89a3d9a1757c",
+      "time": "2026-07-08 17:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange shows Shanghai Tongchuang Purun New Materials Co., Ltd.'s STAR Market IPO review status has been updated to \"inquiry\"."
+    },
+    {
+      "id": "4976411",
+      "time": "2026-07-08 17:26:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新鄉化纖：預計2026年上半年淨利潤同比增長378.09%-537.45%】新鄉化纖公告，預計2026年1月1日至2026年06月30日歸屬於上市公司股東的淨利潤為3億元–4億元，比上年同期的6275萬元增長378.09%-537.45%；扣除非經常性損益後的淨利潤預計為2.8億元–3.8億元，比上年同期的3636萬元增長670%-945%。報告期內，公司預計淨利潤同比上漲，主要是生物質纖維素長絲及氨綸纖維銷量增加的同時氨綸纖維毛利水平提升，主營產品毛利額同比大幅增加。"
+    },
+    {
+      "id": "mkt:019f410c-abd5-7aab-8ce9-80ceb4a04b73",
+      "time": "2026-07-08 17:26:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Turkey's President Erdogan said Ankara supports diplomatic efforts to reopen the Strait of Hormuz and will participate in mine‑clearing operations in the waterway."
+    },
+    {
+      "id": "4976410",
+      "time": "2026-07-08 17:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們支援外交努力以開放霍爾木茲海峽，並將參與清除海峽中的地雷。"
+    },
+    {
+      "id": "mkt:019f410c-88db-7aab-8ce9-7d3388958fb3",
+      "time": "2026-07-08 17:26:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said Turkey thanked the United States, Spain, Germany and Italy for providing additional air-defence support during the Iran war."
+    },
+    {
+      "id": "4976409",
+      "time": "2026-07-08 17:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃爾多安：中東永久和平取決於兩國方案。"
+    },
+    {
+      "id": "4976408",
+      "time": "2026-07-08 17:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：感謝美國、西班牙、德國、義大利在伊朗戰爭期間向土耳其提供額外的防空支援。"
+    },
+    {
+      "id": "mkt:019f410b-f6a9-7aab-8ce9-76014de31f8a",
+      "time": "2026-07-08 17:25:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said US President Trump’s firm stance on efforts to achieve peace with Iran is admirable."
+    },
+    {
+      "id": "4976407",
+      "time": "2026-07-08 17:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：特朗普在尋求與伊朗和平問題上的堅定立場令人欽佩。"
+    },
+    {
+      "id": "4976406",
+      "time": "2026-07-08 17:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列方面訊息：以軍與美國中央司令部就伊朗問題舉行會議，以色列正在為可能與伊朗恢復戰鬥做準備。"
+    },
+    {
+      "id": "mkt:019f410b-5334-7aab-8ce9-6e2f1c48e7e6",
+      "time": "2026-07-08 17:24:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli media Walla reports the Israeli military met with CENTCOM to discuss Iran and is preparing for possible renewed hostilities with Tehran."
+    },
+    {
+      "id": "4976405",
+      "time": "2026-07-08 17:24:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寶萊特：預計觸發可轉債轉股價格向下修正條件】寶萊特公告，公司可轉債“寶萊轉債”當期轉股價格為18.3元/股。2026年6月25日至2026年7月8日，公司股票已有10個交易日的收盤價格低於當期轉股價格的90%，預計可能觸發“寶萊轉債”轉股價格向下修正條件。若觸發，公司將按照相關規則及時履行後續審議程式和資訊披露義務。"
+    },
+    {
+      "id": "4976404",
+      "time": "2026-07-08 17:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：我們與特朗普在烏克蘭和平願景上立場一致。"
+    },
+    {
+      "id": "4976403",
+      "time": "2026-07-08 17:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會官員：碳排放交易體系修訂將維持以交易量而非價格作為市場穩定儲備的驅動因素."
+    },
+    {
+      "id": "4976402",
+      "time": "2026-07-08 17:23:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息:俄羅斯地平線工業公司計劃收購路易達孚在俄資產。"
+    },
+    {
+      "id": "4976401",
+      "time": "2026-07-08 17:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：歐洲盟友須在北約防務中承擔更多責任，同時不損害聯盟團結。"
+    },
+    {
+      "id": "4976400",
+      "time": "2026-07-08 17:23:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉祥航空：擬回購4億元至8億元股份 回購價格不超過15元/股】吉祥航空公告，公司第六屆董事會第一次會議審議透過《關於以集中競價交易方式回購公司股份方案的議案》，同意公司以自有資金透過集中競價方式回購A股，回購價格不超過15元/股，回購資金總額不低於4億元且不超過8億元，回購期限自董事會審議透過之日起12個月內，回購股份將用於員工持股計劃或者股權激勵。會議還選舉王均金為董事長、趙宏亮為副董事長，聘任於成吉為總裁，夏海兵等4人為副總裁，馮江濤為總飛行師，鄭曉銘為總工程師，夏海兵為董事會秘書，沈浩為財務負責人，王晰為證券事務代表。"
+    },
+    {
+      "id": "mkt:019f4109-bd7e-7aab-8ce9-65fc324132df",
+      "time": "2026-07-08 17:23:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose 4.0% intraday to $78.84/bbl."
+    },
+    {
+      "id": "4976399",
+      "time": "2026-07-08 17:22:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：亞馬遜“探月者”專案是Alexa+旗下“成本最高”的新專案，業內預估2026年該專案GPU投入將超1億美元。"
+    },
     {
       "id": "4976398",
       "time": "2026-07-08 17:22:28",
