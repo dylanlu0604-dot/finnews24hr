@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-09 02:41:13",
-  "count": 16065,
+  "updated": "2026-07-09 02:44:59",
+  "count": 16066,
   "items": [
+    {
+      "id": "mkt:019f430b-a596-7aab-8cfc-b2db7b6f617a",
+      "time": "2026-07-09 02:44:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said Iran complied with commitments and improved its behavior for about a week, but then resumed attacks on vessels."
+    },
+    {
+      "id": "mkt:019f430b-a440-7aab-8cfc-ad58f4e1e2bd",
+      "time": "2026-07-09 02:44:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said the U.S.-Iran agreement makes clear that, should Iran attack vessels, the U.S. will undertake strong countermeasures and will escalate its response."
+    },
+    {
+      "id": "4977529",
+      "time": "2026-07-09 02:43:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【萬斯：勞工部已發出數十份H-1B簽證傳票】美國副總統萬斯表示，勞工部今天已向試圖利用H-1B簽證專案牟利的“外國欺詐者”發出數十張傳票並啟動調查。他補充說，大公司正在利用H-1B簽證專案牟利。"
+    },
+    {
+      "id": "4977528",
+      "time": "2026-07-09 02:42:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【普京稱烏企圖破壞俄經濟製造恐慌】作為一系列支撐國內燃油市場的舉措之一，俄羅斯7月8日起實施柴油出口禁令。這一禁令將持續至7月31日。近來，烏克蘭對俄羅斯多地煉油廠頻繁發動無人機襲擊，俄羅斯國內柴油與汽油供應吃緊，多地出現排長隊加油現象。俄羅斯副總理諾瓦克當天在政府電視工作會議上向總統普京彙報時表示，燃油形勢依然複雜，“當前加油站的狀況已引發公眾擔憂”。 除出臺柴油出口禁令外，諾瓦克還表示，俄羅斯本月開始進口燃油。 普京在會上指出，“烏克蘭企圖破壞俄羅斯經濟，試圖在社會層面製造恐慌焦慮情緒——但這一目標不可能實現。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f4309-0b6a-7aab-8cfc-a2e457ddb4f7",
+      "time": "2026-07-09 02:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said he will not disclose specific plans for tonight."
+    },
     {
       "id": "mkt:019f4308-5141-7aab-8cfc-9857f99ed254",
       "time": "2026-07-09 02:40:46",
@@ -146774,41 +146824,6 @@
         "國際"
       ],
       "text": "【澤連斯基：烏方至今未掌握“北溪”爆炸案全部調查細節】當地時間7月1日，烏克蘭總統澤連斯基在都柏林與愛爾蘭總理馬丁舉行的聯合新聞釋出會上表示，烏方至今未正式獲取“北溪”天然氣管道爆炸案的全部調查細節，也不掌握該案完整的調查流程及相關資訊。他稱，烏方將與德國相關機構開展對接溝通，待獲取完整調查細節後，將就該案作出正式回應。當天早些時候，德國方面訊息稱，德國聯邦檢察院已對一名涉嫌參與破壞“北溪”天然氣管道的烏克蘭籍嫌疑人提起公訴。（央視新聞）"
-    },
-    {
-      "id": "4965857",
-      "time": "2026-07-02 02:43:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長：雙方在鋼鐵鋁關稅、汽車零部件區域含量核算、農產品季節性相關議題上存在分歧。"
-    },
-    {
-      "id": "4965856",
-      "time": "2026-07-02 02:42:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長：7 月 20 日會談結束後將公佈更多細節，已向美方提議削減鋼鐵、鋁產品 232 條款關稅，並在區域層面開展協調。"
-    },
-    {
-      "id": "mkt:019f1efc-ef72-7aab-8c65-2daba2242b35",
-      "time": "2026-07-02 02:42:00",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Mexico's economy minister said there are no substantive differences between Mexico, the US and Canada that cannot be resolved, and urged the US to reduce Section 232 tariffs on steel and aluminum and pursue regional coordination."
-    },
-    {
-      "id": "4965855",
-      "time": "2026-07-02 02:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長：未來幾周加拿大將以何種方式參與其中仍有待觀察。"
     }
   ]
 }
