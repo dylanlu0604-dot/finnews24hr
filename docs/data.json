@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-09 01:48:10",
-  "count": 15984,
+  "updated": "2026-07-09 01:52:03",
+  "count": 15990,
   "items": [
+    {
+      "id": "4977465",
+      "time": "2026-07-09 01:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：特朗普對向土耳其出售F-35戰鬥機持積極態度，希望各界能看到美國信守承諾。"
+    },
+    {
+      "id": "mkt:019f42d9-eb88-7aab-8cfb-6e927344c5bb",
+      "time": "2026-07-09 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve will release minutes from its monetary policy meeting in 10 minutes."
+    },
+    {
+      "id": "4977464",
+      "time": "2026-07-09 01:49:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：土美之間最重要的分歧之一是F-35戰機問題。"
+    },
+    {
+      "id": "mkt:019f42d9-c23e-7aab-8cfb-6314a1c72acc",
+      "time": "2026-07-09 01:49:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said one of the most important issues with the United States is the F-35 fighter jet issue."
+    },
+    {
+      "id": "mkt:019f42d9-b7ff-7aab-8cfb-5d002244a379",
+      "time": "2026-07-09 01:49:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US official said the US has decided to remove Syria from the list of state sponsors of terrorism; Congress will begin a 45-day review before the revocation can take effect."
+    },
+    {
+      "id": "4977463",
+      "time": "2026-07-09 01:49:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列自3月2日以來在黎巴嫩各地的襲擊已造成4,321人死亡，12,203人受傷。"
+    },
+    {
+      "id": "4977462",
+      "time": "2026-07-09 01:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告知敘利亞領導人，國會目前將開展為期45天的審查，以最終敲定此事。"
+    },
+    {
+      "id": "4977461",
+      "time": "2026-07-09 01:48:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告知敘利亞領導人其撤銷“支援恐怖主義國家”認定相關舉措的決定。"
+    },
+    {
+      "id": "mkt:019f42d7-f474-7aab-8cfb-53bd2e188545",
+      "time": "2026-07-09 01:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. has notified congressional leaders of a decision to remove Syria from the State Sponsors of Terrorism list."
+    },
     {
       "id": "4977460",
       "time": "2026-07-09 01:46:53",
@@ -145954,36 +146029,6 @@
         "MKT News"
       ],
       "text": "The U.S. Department of Justice said a suspected member of the cybercriminal group Scattered Spider was arrested in Finland and extradited to the United States."
-    },
-    {
-      "id": "4965836",
-      "time": "2026-07-02 01:51:44",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【城堡證券警告稱美聯儲7月加息風險被低估 且就業報告有超預期風】城堡證券表示，投資者正在低估美聯儲最早本月就會加息的可能性，因為主席凱文·沃什似乎準備採取更具先發制人的方式來抗擊通脹。該公司宏觀策略主管Frank Flight繼續將美聯儲今年加息兩次——分別在9月份和12月份，視為基準情形。即便如此，他表示，市場賦予7月份加息的機率約為30%，這一水平過低。Flight在給客戶的一份報告中寫道，投資者仍然固守這樣一種看法，即只有在經濟資料以壓倒性優勢證明有必要行動之後，美聯儲才會收緊政策。但Flight認為，沃什正在採用城堡證券所稱的“適應性”框架，在這一框架下，央行會及早行動，以防止通脹壓力變得根深蒂固。"
-    },
-    {
-      "id": "4965835",
-      "time": "2026-07-02 01:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署（EIA）週四釋出報告預計，上週美國天然氣庫存增加 810 億立方英尺。"
-    },
-    {
-      "id": "te:economy:563530",
-      "time": "2026-07-02 01:50:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Jobless Rate Rises Slightly in May — Uruguay’s unemployment rate edged up to 7.6% in May 2026 from 7.5% in April, pointing to a broadly stable labor market. By region, the jobless rate stood at 7.7% in Montevideo and 7.6% in the country’s interior. By gender, unemployment was lower among men at 6.8%, compared with 8.5% for women. Younger workers continued to face the highest unemployment, with the rate reaching 25.7% among those aged 14 to 24. For workers aged 25 to 29, the rate stood at 8.4%, while it declined steadily across older age groups, falling to 3.7% for those aged 35 to 44 and 2.3% for those aged 65 and over. Among employed workers, 8.8% were underemployed and 20.9% were not registered with social security in their main job. Meanwhile, Uruguay’s labor force participation rate stood at 64.4%, while the employment rate reached 59.5%."
     }
   ]
 }

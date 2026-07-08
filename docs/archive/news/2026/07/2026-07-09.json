@@ -1,7 +1,82 @@
 {
   "date": "2026-07-09",
-  "count": 302,
+  "count": 311,
   "items": [
+    {
+      "id": "4977465",
+      "time": "2026-07-09 01:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：特朗普對向土耳其出售F-35戰鬥機持積極態度，希望各界能看到美國信守承諾。"
+    },
+    {
+      "id": "mkt:019f42d9-eb88-7aab-8cfb-6e927344c5bb",
+      "time": "2026-07-09 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve will release minutes from its monetary policy meeting in 10 minutes."
+    },
+    {
+      "id": "mkt:019f42d9-c23e-7aab-8cfb-6314a1c72acc",
+      "time": "2026-07-09 01:49:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said one of the most important issues with the United States is the F-35 fighter jet issue."
+    },
+    {
+      "id": "4977464",
+      "time": "2026-07-09 01:49:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：土美之間最重要的分歧之一是F-35戰機問題。"
+    },
+    {
+      "id": "mkt:019f42d9-b7ff-7aab-8cfb-5d002244a379",
+      "time": "2026-07-09 01:49:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US official said the US has decided to remove Syria from the list of state sponsors of terrorism; Congress will begin a 45-day review before the revocation can take effect."
+    },
+    {
+      "id": "4977463",
+      "time": "2026-07-09 01:49:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列自3月2日以來在黎巴嫩各地的襲擊已造成4,321人死亡，12,203人受傷。"
+    },
+    {
+      "id": "4977462",
+      "time": "2026-07-09 01:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告知敘利亞領導人，國會目前將開展為期45天的審查，以最終敲定此事。"
+    },
+    {
+      "id": "4977461",
+      "time": "2026-07-09 01:48:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普告知敘利亞領導人其撤銷“支援恐怖主義國家”認定相關舉措的決定。"
+    },
+    {
+      "id": "mkt:019f42d7-f474-7aab-8cfb-53bd2e188545",
+      "time": "2026-07-09 01:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. has notified congressional leaders of a decision to remove Syria from the State Sponsors of Terrorism list."
+    },
     {
       "id": "4977460",
       "time": "2026-07-09 01:46:53",
