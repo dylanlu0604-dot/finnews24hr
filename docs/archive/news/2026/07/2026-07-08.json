@@ -1,7 +1,50 @@
 {
   "date": "2026-07-08",
-  "count": 1320,
+  "count": 1324,
   "items": [
+    {
+      "id": "4975653",
+      "time": "2026-07-08 12:49:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊利旗下浙江乳業公司增資至3.23億  增幅約13%】天眼查App顯示，近日，浙江伊利乳業有限公司發生工商變更，註冊資本由2.85 億人民幣增至3.23億人民幣，增幅約13%。該公司成立於2010年4月，法定代表人為劉雲俊，經營範圍為冷凍飲品生產、乳製品製造技術研究，由伊利股份（600887）全資持股。"
+    },
+    {
+      "id": "te:markets:565091",
+      "time": "2026-07-08 12:49:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Nears Over 1-Month High — The South Korean won strengthened to around 1,509 per dollar, nearing its highest level in over a month, as a record current account surplus underscored the country's strong external position. South Korea's current account surplus widened to an all-time high of USD 38.61 billion in May, driven by a record goods surplus and a 167.7% surge in semiconductor exports. Sentiment was also supported after the government reaffirmed plans to unveil a roadmap later this month to advance the internationalization of the won, including efforts to make it a more freely convertible currency as part of broader foreign exchange market reforms. However, escalating tensions in the Middle East boosted oil prices and supported demand for the US dollar following fresh US strikes on Iran and attacks near the Strait of Hormuz, keeping global risk sentiment cautious. Investors also awaited the minutes of the Federal Reserve's June policy meeting for further clues on the US interest-rate outlook."
+    },
+    {
+      "id": "4975652",
+      "time": "2026-07-08 12:48:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【AI市場恐慌蔓延 韓國股市自高點累計跌幅擴大至20%】隨著投資者重新評估人工智慧需求前景，韓國股市持續下挫，基準股指逼近技術性熊市。韓國綜合股價指數（Kospi）最大跌幅達5.7%，較上月創下的歷史最高點累計下跌約20%。儲存晶片廠商SK海力士股價最多下跌5%，三星電子跌幅達6.9%。韓國股市今年此前為全球表現最佳的主要股市，但市場高度依賴兩大晶片企業，一旦晶片板塊市場情緒轉弱，大盤極易遭受衝擊。雙向放大行情波動的槓桿型交易所交易基金，進一步加劇了市場震盪。儘管三星電子本週初公佈季度淨利潤暴漲19倍，晶片股依舊延續跌勢，凸顯交易員要求產業鏈高估值配套更強業績支撐。"
+    },
+    {
+      "id": "mkt:019f400c-e911-7aab-8ce0-e7356920c29b",
+      "time": "2026-07-08 12:46:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Capital Economics: RBNZ begins long tightening cycle, expects hikes every other meeting】RBNZ raised rates as expected on Wednesday and said policy must be gradually returned to neutral, while adding further hikes are possible but timing is highly uncertain. Capital Economics economist Abhijit Surya says the bank's caution aligns with his view that the official cash rate (OCR) will be raised roughly every other meeting, peaking at 3.25% by end-2027."
+    },
     {
       "id": "te:economy:565090",
       "time": "2026-07-08 12:46:17",
