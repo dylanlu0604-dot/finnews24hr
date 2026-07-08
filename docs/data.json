@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-08 12:19:55",
-  "count": 15974,
+  "updated": "2026-07-08 12:23:50",
+  "count": 15979,
   "items": [
+    {
+      "id": "4975625",
+      "time": "2026-07-08 12:22:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國股市KOSPI指數大跌4%。"
+    },
+    {
+      "id": "mkt:019f3ff6-6432-7aab-8ce0-7e0c6fb200bf",
+      "time": "2026-07-08 12:22:19",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on GM to $110 from $98."
+    },
+    {
+      "id": "mkt:019f3ff6-35d9-7aab-8ce0-71c503a35c74",
+      "time": "2026-07-08 12:22:07",
+      "tags": [
+        "MKT News",
+        "PFE.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan lowers Pfizer (PFE.N) target price to $28 from $30."
+    },
+    {
+      "id": "mkt:019f3ff6-2047-7aab-8ce0-6c0ec907c9d2",
+      "time": "2026-07-08 12:22:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Under an agreement, Abu Dhabi National Oil Company (ADNOC) said it will work with MOTIR to support increases in long-term crude supply to South Korean refiners."
+    },
+    {
+      "id": "mkt:019f3ff5-956a-7aab-8ce0-638764b9d741",
+      "time": "2026-07-08 12:21:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "Abu Dhabi National Oil Co. (ADNOC) said cooperation builds on existing arrangements and includes an opportunity for South Korea to secure up to 24 mln barrels of UAE crude."
+    },
+    {
+      "id": "4975624",
+      "time": "2026-07-08 12:21:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將通用汽車目標價從98美元上調至110美元。"
+    },
+    {
+      "id": "mkt:019f3ff5-3fdb-7aab-8ce0-596372af97a8",
+      "time": "2026-07-08 12:21:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index plunged 4.00% intraday to 7,349.87 points."
+    },
+    {
+      "id": "mkt:019f3ff5-34b3-7aab-8ce0-53b903f410dd",
+      "time": "2026-07-08 12:21:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Company (ADNOC) said it will deepen an energy-security partnership with South Korea through long-term crude supply and storage cooperation."
+    },
+    {
+      "id": "4975623",
+      "time": "2026-07-08 12:20:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，根據《戰略合作協議》（SCA），ADNOC將與MOTIR展開合作，支援為韓國煉油企業增加長期原油供應。"
+    },
+    {
+      "id": "4975622",
+      "time": "2026-07-08 12:19:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將輝瑞目標價從30美元下調至28美元。"
+    },
+    {
+      "id": "4975621",
+      "time": "2026-07-08 12:19:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）：阿布扎比國家石油公司透過長期原油供應及倉儲合作深化與韓國的能源安全夥伴關係。"
+    },
     {
       "id": "4975620",
       "time": "2026-07-08 12:19:02",
@@ -146304,67 +146414,6 @@
         "市場"
       ],
       "text": "【機構：騰訊股價在近期回撥後顯得估值偏低】晨星分析師Ivan Su在一份研究報告中表示，騰訊股價在近期回撥後顯得估值偏低。他說，在圍繞AI的不確定性下，隨著市場懲罰中國網際網路股票，騰訊股價今年迄今已下跌約30%。他說，投資者尤其擔心騰訊高昂的AI支出及其AI產品落後於國內同行。“這種反應過度了，“該分析師說，並指出AI已經加強了騰訊的核心業務。Su指出，隨著騰訊的旗艦遊戲繼續主導中國最暢銷遊戲排行榜，同時影片號釋放了高利潤率的廣告收入，相對於目前的基本面，這種折價似乎更難證明是合理的。"
-    },
-    {
-      "id": "4964194",
-      "time": "2026-07-01 12:23:32",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【國際金價6月下跌逾11% 】受美伊談判不確定性增加、美元走強、美聯儲加息預期等因素影響，國際黃金價格6月下跌幅度超過11%。今年第二季度黃金價格下跌約14%，創下2013年來最大季度跌幅。分析人士認為，美元走強和美國國債收益率上升將繼續打壓黃金價格，金價或難以出現任何實質性反彈。（新華社）"
-    },
-    {
-      "id": "mkt:019f1be9-f8bc-7aab-8c4b-30cbb5a956ca",
-      "time": "2026-07-01 12:22:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【US fossil-fuel power spending may exceed China’s for first time in decades】The IEA forecasts US investment in coal and gas-fired generation will reach $50 billion this year, about $3 billion more than China. The increase is driven by a surge in gas-turbine orders and sharp price rises as demand outstrips manufacturing capacity. US customers ordered roughly 20 GW of gas turbines in Q1 2026. Modern AI data centres require 1 GW to several GW of power each—about the consumption of a Western city—adding material demand pressure for new thermal capacity."
-    },
-    {
-      "id": "mkt:019f1be8-ede1-7aab-8c4b-289225802379",
-      "time": "2026-07-01 12:21:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 40-year bond yield fell 2 bps to 3.785%."
-    },
-    {
-      "id": "4964193",
-      "time": "2026-07-01 12:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【主汛期疊加厄爾尼諾 對我國有什麼影響？】今天，我國全面進入主汛期。近期，赤道中東太平洋進入厄爾尼諾狀態。中國水利水電科學研究院減災中心總工程師 嚴登華：我國主汛期疊加厄爾尼諾，加上全球變暖，會導致南方雨水偏多，多條大江大河可能發大水。預計長江下游、珠江流域汛情較重，松遼流域、海河流域、黃河下游也有較大洪水壓力。颱風來得早，盛夏北上影響東部沿海的可能性也大。降水時間、地點，分佈更不均勻。像四川、重慶、湖北、陝西、新疆北部等地可能高溫少雨，出現乾旱；黃淮等地有高溫熱浪。有的流域可能先旱後澇，比如灤河流域今年降水偏多兩成，可能發生大洪水，同時也要防旱澇急轉。同時，北方防汛壓力突然增大。全球變暖讓我國“雨帶北移”趨勢明顯。今年厄爾尼諾加劇這一趨勢，東北到華北東部降水偏多，極端強降雨增多。（央視）"
-    },
-    {
-      "id": "mkt:019f1be8-4893-7aab-8c4b-2192f41fd681",
-      "time": "2026-07-01 12:20:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China requires permits for road bulk transport of key liquid foods from today】Effective today, road bulk transport of five categories of key liquid foods in China must hold transport permits to operate. Chinese market regulators and related agencies will implement full-chain, professional and traceable oversight to safeguard food safety. The measure covers 14 subcategories, including vegetable oil, condiments, alcoholic beverages, sugar and starch-derived sugars, broadly encompassing varieties currently moved by tankers."
-    },
-    {
-      "id": "mkt:019f1be8-243f-7aab-8c4b-1db40ae225a7",
-      "time": "2026-07-01 12:20:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "6971.T",
-        "Impact bullish"
-      ],
-      "text": "【Kyocera to invest JPY 650 billion to expand semiconductor and AI data‑center components business】Kyocera plans to invest JPY 650 billion (about 271.245 billion yuan) in its components business, focusing on semiconductor manufacturing equipment and components for AI data centers and other high‑growth areas."
     }
   ]
 }

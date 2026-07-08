@@ -1,7 +1,117 @@
 {
   "date": "2026-07-08",
-  "count": 1269,
+  "count": 1280,
   "items": [
+    {
+      "id": "4975625",
+      "time": "2026-07-08 12:22:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國股市KOSPI指數大跌4%。"
+    },
+    {
+      "id": "mkt:019f3ff6-6432-7aab-8ce0-7e0c6fb200bf",
+      "time": "2026-07-08 12:22:19",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on GM to $110 from $98."
+    },
+    {
+      "id": "mkt:019f3ff6-35d9-7aab-8ce0-71c503a35c74",
+      "time": "2026-07-08 12:22:07",
+      "tags": [
+        "MKT News",
+        "PFE.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan lowers Pfizer (PFE.N) target price to $28 from $30."
+    },
+    {
+      "id": "mkt:019f3ff6-2047-7aab-8ce0-6c0ec907c9d2",
+      "time": "2026-07-08 12:22:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Under an agreement, Abu Dhabi National Oil Company (ADNOC) said it will work with MOTIR to support increases in long-term crude supply to South Korean refiners."
+    },
+    {
+      "id": "mkt:019f3ff5-956a-7aab-8ce0-638764b9d741",
+      "time": "2026-07-08 12:21:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "Abu Dhabi National Oil Co. (ADNOC) said cooperation builds on existing arrangements and includes an opportunity for South Korea to secure up to 24 mln barrels of UAE crude."
+    },
+    {
+      "id": "4975624",
+      "time": "2026-07-08 12:21:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將通用汽車目標價從98美元上調至110美元。"
+    },
+    {
+      "id": "mkt:019f3ff5-3fdb-7aab-8ce0-596372af97a8",
+      "time": "2026-07-08 12:21:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index plunged 4.00% intraday to 7,349.87 points."
+    },
+    {
+      "id": "mkt:019f3ff5-34b3-7aab-8ce0-53b903f410dd",
+      "time": "2026-07-08 12:21:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Company (ADNOC) said it will deepen an energy-security partnership with South Korea through long-term crude supply and storage cooperation."
+    },
+    {
+      "id": "4975623",
+      "time": "2026-07-08 12:20:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，根據《戰略合作協議》（SCA），ADNOC將與MOTIR展開合作，支援為韓國煉油企業增加長期原油供應。"
+    },
+    {
+      "id": "4975622",
+      "time": "2026-07-08 12:19:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將輝瑞目標價從30美元下調至28美元。"
+    },
+    {
+      "id": "4975621",
+      "time": "2026-07-08 12:19:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）：阿布扎比國家石油公司透過長期原油供應及倉儲合作深化與韓國的能源安全夥伴關係。"
+    },
     {
       "id": "4975620",
       "time": "2026-07-08 12:19:02",
