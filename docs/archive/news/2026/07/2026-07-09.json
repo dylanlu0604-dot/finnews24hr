@@ -1,7 +1,129 @@
 {
   "date": "2026-07-09",
-  "count": 91,
+  "count": 105,
   "items": [
+    {
+      "id": "4977338",
+      "time": "2026-07-09 00:34:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我可能會遇害，因為“我是伊朗的頭號刺殺目標”。"
+    },
+    {
+      "id": "mkt:019f4294-5ee9-7aab-8cf9-006882164a4b",
+      "time": "2026-07-09 00:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran has already gone through a third generation of leadership and that generation may also disappear."
+    },
+    {
+      "id": "mkt:019f4294-422d-7aab-8cf8-ff7421ec966c",
+      "time": "2026-07-09 00:34:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump, speaking on Iran, said he might also be killed and called himself their number-one target."
+    },
+    {
+      "id": "4977337",
+      "time": "2026-07-09 00:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國際電視臺收到的一段影片顯示，在美國對伊朗南部發動襲擊後，週三伊朗南部城市布什爾一處軍事基地附近突發火災。"
+    },
+    {
+      "id": "mkt:019f4293-255e-7aab-8cf8-f31bb859a3e0",
+      "time": "2026-07-09 00:32:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said U.S. success on Iran has exceeded that on Venezuela."
+    },
+    {
+      "id": "4977336",
+      "time": "2026-07-09 00:32:41",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "哥倫比亞塞羅馬託索鎳鐵礦在一份宣告中表示，若天然氣限制持續實施，該礦兩條生產線中的一條將無限期停產。"
+    },
+    {
+      "id": "4977335",
+      "time": "2026-07-09 00:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗存在第三套領導班子，這群人可能很快下臺。"
+    },
+    {
+      "id": "4977334",
+      "time": "2026-07-09 00:32:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：我們將繼續根據使用者請求，幾乎每天對Grok Build工具包和 1.5T 基礎模型進行最佳化。2T模型將於本月完成訓練，並於下月向客戶開放。"
+    },
+    {
+      "id": "4977333",
+      "time": "2026-07-09 00:31:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：基於我們測試計劃中客戶的強烈正面反饋，SpaceXAI將於明天向公眾開放Grok 4.5。它是一個Opus級別的模型，但速度更快、令牌效率更高且成本更低。"
+    },
+    {
+      "id": "mkt:019f4292-028c-7aab-8cf8-ee966c9b01d5",
+      "time": "2026-07-09 00:31:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President TRUMP said Iran's inflation has reached 350%, up from 5-6% at the start of the war."
+    },
+    {
+      "id": "4977332",
+      "time": "2026-07-09 00:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普再次重申伊朗絕不可能擁有核武器。"
+    },
+    {
+      "id": "4977331",
+      "time": "2026-07-09 00:30:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：6月非金融企業外匯淨銷售額為277億美元。"
+    },
+    {
+      "id": "4977330",
+      "time": "2026-07-09 00:30:35",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，莫斯科交易所指數下跌歸因於地緣政治因素、油價下跌以及市場對關鍵利率走勢的重估。"
+    },
+    {
+      "id": "4977329",
+      "time": "2026-07-09 00:30:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：俄羅斯聯邦政府債券（OFZ）收益率上行導致銀行業交易債券組合出現負估值重估，單月負估值規模或約達2000億盧布。"
+    },
     {
       "id": "mkt:019f4290-8dbb-7aab-8cf8-e024a1d59f82",
       "time": "2026-07-09 00:29:57",
