@@ -1,7 +1,193 @@
 {
-  "updated": "2026-07-08 09:57:17",
-  "count": 15934,
+  "updated": "2026-07-08 10:01:15",
+  "count": 15940,
   "items": [
+    {
+      "id": "mkt:019f3f74-cdf5-7aab-8cdc-7fed440bad89",
+      "time": "2026-07-08 10:00:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong AI stocks extended gains: Kingdee International (00268.HK) rose over 10%, Shanghai Fudan (01385.HK) nearly 9%, Kingsoft Cloud (03896.HK) nearly 7%, and Lenovo Group (00992.HK) and Zhipu AI (02513.HK) rose more than 4%."
+    },
+    {
+      "id": "mkt:019f3f74-783f-7aab-8cdc-76faf739e890",
+      "time": "2026-07-08 10:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【RBNZ raises rates 25bps as expected】RBNZ raised the official cash rate by 25bps to 2.50% from 2.25%, in line with market expectations; it had held rates steady at the prior three meetings."
+    },
+    {
+      "id": "4975380",
+      "time": "2026-07-08 10:00:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行基準利率上調25基點至2.50%; 預估為2.50%。"
+    },
+    {
+      "id": "mkt:019f3f74-6067-7aab-8cdc-6b00e3e994bc",
+      "time": "2026-07-08 10:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "NZDUSD"
+      ],
+      "text": "RBNZ sets policy rate at 2.50% on July 8; market expected 2.50%; prior 2.25%."
+    },
+    {
+      "id": "mkt:019f3f74-2f45-7aab-8cdc-662df328613b",
+      "time": "2026-07-08 10:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Official Cash Rate (Jul.8) | actual 2.5% | consensus 2.50% | previous 2.25%"
+    },
+    {
+      "id": "mkt:019f3f73-d9b0-7aab-8cdc-58ae594a2789",
+      "time": "2026-07-08 09:59:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's top joint military command said the only safe passage for merchant ships and tankers within the Strait of Hormuz is the route designated by Iran."
+    },
+    {
+      "id": "mkt:019f3f73-c1aa-7aab-8cdc-556835477671",
+      "time": "2026-07-08 09:59:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Meituan",
+        "09988.HK",
+        "Impact bullish",
+        "00700.HK",
+        "09888.HK"
+      ],
+      "text": "Hong Kong tech and internet stocks strengthened: SenseTime (00020.HK), Alibaba (09988.HK), Tencent Holdings (00700.HK) and Baidu (09888.HK) rose more than 3%, while Meituan (03690.HK) and Bilibili (09626.HK) gained over 2%."
+    },
+    {
+      "id": "4975379",
+      "time": "2026-07-08 09:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
+    },
+    {
+      "id": "mkt:019f3f73-9556-7aab-8cdc-4ef32a959625",
+      "time": "2026-07-08 09:59:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's top joint military command reiterated it will not permit US interference in the management of the Strait of Hormuz."
+    },
+    {
+      "id": "4975378",
+      "time": "2026-07-08 09:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部重申，絕不允許美國干涉霍爾木茲海峽的管理；霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
+    },
+    {
+      "id": "mkt:019f3f72-2d1d-7aab-8cdc-4244c5a848c9",
+      "time": "2026-07-08 09:57:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Supreme Joint Military Command said US forces carried out 'blatant aggression' against parts of southern Iran and that the armed forces will deliver a 'devastating response' to US attacks."
+    },
+    {
+      "id": "4975377",
+      "time": "2026-07-08 09:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南13地啟動防汛Ⅳ級應急響應】雲南省氣象臺於7月7日22時30分發布暴雨Ⅳ級預警：預計未來24小時，曲靖南部、昆明南部、玉溪東部、紅河北部和西南部、文山北部、普洱東部、臨滄南部、德宏西部、保山北部、怒江南部、麗江南部、大理北部、楚雄西部將有暴雨區域性大暴雨。根據《雲南省防汛抗旱應急預案》有關規定，經會商研判，省防汛抗旱指揮部決定於7月7日23時對昆明市、曲靖市、玉溪市、保山市、楚雄州、紅河州、文山州、普洱市、大理州、德宏州、麗江市、怒江州、臨滄市啟動防汛Ⅳ級應急響應。"
+    },
+    {
+      "id": "te:economy:565039",
+      "time": "2026-07-08 09:57:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Australia Private House Approvals Confirmed at 8-Month High — Private house approvals in Australia rose 2.8% month-on-month to 10,537 units in May 2026, rebounding from a 0.4% decline in the previous month and marking the strongest monthly growth since September 2025. The outcome matched preliminary estimates, driven by higher approvals in Western Australia (9.9%), New South Wales (7.8%), and Victoria (2.2%), which more than offset declines in Queensland (-3.6%) and South Australia (-1.0%). On an annual basis, approvals climbed 13.2%, the fastest pace since September 2024, accelerating from an 8.3% increase in April."
+    },
+    {
+      "id": "4975376",
+      "time": "2026-07-08 09:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，伊朗武裝部隊將對美國的襲擊做出“毀滅性回應”。"
+    },
+    {
+      "id": "4975375",
+      "time": "2026-07-08 09:57:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲5%，現報6923.00元。"
+    },
+    {
+      "id": "4975374",
+      "time": "2026-07-08 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股積體電路封測板塊短線走低】頎中科技跌7.75%"
+    },
+    {
+      "id": "4975373",
+      "time": "2026-07-08 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股分立器件板塊短線走低】銀河微電跌10.75%"
+    },
+    {
+      "id": "4975372",
+      "time": "2026-07-08 09:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，美軍對伊朗南部部分地區發動了“公然侵略”打擊。"
+    },
     {
       "id": "mkt:019f3f71-1d3a-7aab-8cdc-3e5f318b4d5d",
       "time": "2026-07-08 09:56:45",
@@ -145969,112 +146155,6 @@
         "Importance 1"
       ],
       "text": "Singapore Bank Lending Climbs to New Record High — Singapore’s bank loans increased to a new record high of SGD 917.7 billion in May 2026 from SGD 908.4 billion in the previous month. Loans to businesses advanced to SGD 557.8 billion from SGD 551.3 billion, driven mainly by higher lending to manufacturing (SGD 28.1 billion vs SGD 27.3 billion), building and construction (SGD 185.2 billion vs SGD 184.1 billion), transportation, storage, and communication (SGD 49.0 billion vs SGD 47.5 billion), and financial and insurance activities (SGD 148.0 billion vs SGD 142.5 billion). Moreover, consumer loans rose to SGD 360.0 billion from SGD 357.1 billion, lifted by higher housing and bridging loans (SGD 251.4 billion vs SGD 249.9 billion), credit card (SGD 17.7 billion vs SGD 17.3 billion), share financing (SGD 738.9 billion vs SGD 704.8 billion), and other personal loans (SGD 80.3 billion vs SGD 79.4 billion)."
-    },
-    {
-      "id": "4964008",
-      "time": "2026-07-01 10:01:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019f1b68-8c93-7aab-8c48-e79f8af912ed",
-      "time": "2026-07-01 10:01:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "LI.O"
-      ],
-      "text": "Li Auto delivered 30,895 vehicles in June."
-    },
-    {
-      "id": "4964007",
-      "time": "2026-07-01 10:00:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻纖板塊震盪走弱，卓郎智慧跌停】玻纖板塊震盪走弱，卓郎智慧跌停，長海股份、山東玻纖、九鼎新材、金安國紀、中國巨石、宏和科技等跟跌。"
-    },
-    {
-      "id": "4964006",
-      "time": "2026-07-01 10:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上交所多維規範機構債券交易申報 要求機構9月底前完成業務和技術準備】從業內獲悉，上交所從投資者教育、適當性管理、交易介面最佳化、異常行為監測等多個維度，推動機構壓實債券交易申報環節的主體責任。上交所還要求機構健全債券交易監測監控機制，建立健全債券交易的監控指標體系。對於利率類債券申報價格偏離當前標的債券估值2%以上的、信用類債券（不含特定債券）申報價格偏離當前標的債券估值5%以上的，各機構應當採取有效措施做好風險提示，揭示債券估值及當前交易申報價格與估值的偏離度，並要求客戶對交易指令再次確認。（證券日報）"
-    },
-    {
-      "id": "4964005",
-      "time": "2026-07-01 10:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：2026年6月交付30,895輛汽車。"
-    },
-    {
-      "id": "4964004",
-      "time": "2026-07-01 10:00:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡市區重建局速報預估，新加坡第二季私人住宅價格較前季上漲0.5%。"
-    },
-    {
-      "id": "4964003",
-      "time": "2026-07-01 09:59:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【求之科技完成超1億美元首輪融資】7月1日，據聯想創投訊息，近日，求之科技（DISCOVER Robotics）宣佈完成超1億美元首輪融資，創下消費級具身機器人賽道單筆天使輪融資最高紀錄。本輪融資由君聯資本、信產投資、聯想創投、澐柏資本、普華資本、臨港科創投、琥珀資本、庚辛資本等多家頭部機構聯合參投。"
-    },
-    {
-      "id": "4964002",
-      "time": "2026-07-01 09:59:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本SINKO INDUSTRIES將於8月3日起上調部分產品價格。"
-    },
-    {
-      "id": "mkt:019f1b66-6124-7aab-8c48-da4d30ebada7",
-      "time": "2026-07-01 09:58:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share computing-power leasing names were active again; Feilixin hit a 20% limit-up, while Xuanji Information, Zhongfutong, Zhongchuang Environmental, Huafu Fashion and Maixinlin also advanced."
-    },
-    {
-      "id": "4964001",
-      "time": "2026-07-01 09:58:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念反覆活躍 飛利信20cm漲停】算力租賃概念反覆活躍，飛利信20cm漲停，旋極資訊、中富通、中創環保、華孚時尚、邁信林等跟漲。"
-    },
-    {
-      "id": "mkt:019f1b65-906e-7aab-8c48-d57592ebd48e",
-      "time": "2026-07-01 09:57:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "600276.SS",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "A-share CRO sector extended losses; WuXi AppTec fell more than 6%, Meidixi dropped over 5%, with Hengrui Medicine, Chengdu Xiandao and Kailaiying also declining."
-    },
-    {
-      "id": "mkt:019f1b65-6d70-7aab-8c48-cf95d250af7b",
-      "time": "2026-07-01 09:57:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's national railway summer transport season starts today, ends Aug 31】China's 62-day national railway summer transport season began today (1st) and runs through Aug. 31. Railways expect to carry about 1.01 bln passenger trips, averaging 16.29 mln per day."
     }
   ]
 }

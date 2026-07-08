@@ -1,7 +1,193 @@
 {
   "date": "2026-07-08",
-  "count": 941,
+  "count": 959,
   "items": [
+    {
+      "id": "mkt:019f3f74-cdf5-7aab-8cdc-7fed440bad89",
+      "time": "2026-07-08 10:00:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong AI stocks extended gains: Kingdee International (00268.HK) rose over 10%, Shanghai Fudan (01385.HK) nearly 9%, Kingsoft Cloud (03896.HK) nearly 7%, and Lenovo Group (00992.HK) and Zhipu AI (02513.HK) rose more than 4%."
+    },
+    {
+      "id": "mkt:019f3f74-783f-7aab-8cdc-76faf739e890",
+      "time": "2026-07-08 10:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【RBNZ raises rates 25bps as expected】RBNZ raised the official cash rate by 25bps to 2.50% from 2.25%, in line with market expectations; it had held rates steady at the prior three meetings."
+    },
+    {
+      "id": "mkt:019f3f74-6067-7aab-8cdc-6b00e3e994bc",
+      "time": "2026-07-08 10:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "NZDUSD"
+      ],
+      "text": "RBNZ sets policy rate at 2.50% on July 8; market expected 2.50%; prior 2.25%."
+    },
+    {
+      "id": "4975380",
+      "time": "2026-07-08 10:00:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐西蘭央行基準利率上調25基點至2.50%; 預估為2.50%。"
+    },
+    {
+      "id": "mkt:019f3f74-2f45-7aab-8cdc-662df328613b",
+      "time": "2026-07-08 10:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Official Cash Rate (Jul.8) | actual 2.5% | consensus 2.50% | previous 2.25%"
+    },
+    {
+      "id": "mkt:019f3f73-d9b0-7aab-8cdc-58ae594a2789",
+      "time": "2026-07-08 09:59:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's top joint military command said the only safe passage for merchant ships and tankers within the Strait of Hormuz is the route designated by Iran."
+    },
+    {
+      "id": "mkt:019f3f73-c1aa-7aab-8cdc-556835477671",
+      "time": "2026-07-08 09:59:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Meituan",
+        "09988.HK",
+        "Impact bullish",
+        "00700.HK",
+        "09888.HK"
+      ],
+      "text": "Hong Kong tech and internet stocks strengthened: SenseTime (00020.HK), Alibaba (09988.HK), Tencent Holdings (00700.HK) and Baidu (09888.HK) rose more than 3%, while Meituan (03690.HK) and Bilibili (09626.HK) gained over 2%."
+    },
+    {
+      "id": "4975379",
+      "time": "2026-07-08 09:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
+    },
+    {
+      "id": "mkt:019f3f73-9556-7aab-8cdc-4ef32a959625",
+      "time": "2026-07-08 09:59:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's top joint military command reiterated it will not permit US interference in the management of the Strait of Hormuz."
+    },
+    {
+      "id": "4975378",
+      "time": "2026-07-08 09:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部重申，絕不允許美國干涉霍爾木茲海峽的管理；霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
+    },
+    {
+      "id": "mkt:019f3f72-2d1d-7aab-8cdc-4244c5a848c9",
+      "time": "2026-07-08 09:57:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Supreme Joint Military Command said US forces carried out 'blatant aggression' against parts of southern Iran and that the armed forces will deliver a 'devastating response' to US attacks."
+    },
+    {
+      "id": "4975377",
+      "time": "2026-07-08 09:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南13地啟動防汛Ⅳ級應急響應】雲南省氣象臺於7月7日22時30分發布暴雨Ⅳ級預警：預計未來24小時，曲靖南部、昆明南部、玉溪東部、紅河北部和西南部、文山北部、普洱東部、臨滄南部、德宏西部、保山北部、怒江南部、麗江南部、大理北部、楚雄西部將有暴雨區域性大暴雨。根據《雲南省防汛抗旱應急預案》有關規定，經會商研判，省防汛抗旱指揮部決定於7月7日23時對昆明市、曲靖市、玉溪市、保山市、楚雄州、紅河州、文山州、普洱市、大理州、德宏州、麗江市、怒江州、臨滄市啟動防汛Ⅳ級應急響應。"
+    },
+    {
+      "id": "te:economy:565039",
+      "time": "2026-07-08 09:57:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Australia Private House Approvals Confirmed at 8-Month High — Private house approvals in Australia rose 2.8% month-on-month to 10,537 units in May 2026, rebounding from a 0.4% decline in the previous month and marking the strongest monthly growth since September 2025. The outcome matched preliminary estimates, driven by higher approvals in Western Australia (9.9%), New South Wales (7.8%), and Victoria (2.2%), which more than offset declines in Queensland (-3.6%) and South Australia (-1.0%). On an annual basis, approvals climbed 13.2%, the fastest pace since September 2024, accelerating from an 8.3% increase in April."
+    },
+    {
+      "id": "4975376",
+      "time": "2026-07-08 09:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，伊朗武裝部隊將對美國的襲擊做出“毀滅性回應”。"
+    },
+    {
+      "id": "4975375",
+      "time": "2026-07-08 09:57:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲5%，現報6923.00元。"
+    },
+    {
+      "id": "4975374",
+      "time": "2026-07-08 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股積體電路封測板塊短線走低】頎中科技跌7.75%"
+    },
+    {
+      "id": "4975373",
+      "time": "2026-07-08 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股分立器件板塊短線走低】銀河微電跌10.75%"
+    },
+    {
+      "id": "4975372",
+      "time": "2026-07-08 09:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，美軍對伊朗南部部分地區發動了“公然侵略”打擊。"
+    },
     {
       "id": "mkt:019f3f71-1d3a-7aab-8cdc-3e5f318b4d5d",
       "time": "2026-07-08 09:56:45",
