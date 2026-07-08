@@ -1,7 +1,172 @@
 {
   "date": "2026-07-08",
-  "count": 613,
+  "count": 631,
   "items": [
+    {
+      "id": "4975168",
+      "time": "2026-07-08 08:01:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌4%。"
+    },
+    {
+      "id": "mkt:019f3f07-62fe-7aab-8cd9-4a348ae8091a",
+      "time": "2026-07-08 08:01:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 index opened down 615.03 points, or 0.90%, at 67,641.93 on Wednesday, July 8."
+    },
+    {
+      "id": "4975167",
+      "time": "2026-07-08 08:01:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3.4%。"
+    },
+    {
+      "id": "4975166",
+      "time": "2026-07-08 08:00:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國空襲伊朗後，布倫特原油開盤上漲2.8%，至每桶76.20美元。"
+    },
+    {
+      "id": "4975165",
+      "time": "2026-07-08 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.7%，至7452.48點。"
+    },
+    {
+      "id": "4975164",
+      "time": "2026-07-08 08:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國高階官員表示，韓國將向烏克蘭提供1億美元援助。"
+    },
+    {
+      "id": "4975163",
+      "time": "2026-07-08 08:00:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金交運板塊2026下半年展望：看好快遞航運，關注航空成本改善】中金研報表示，今年上半年交運板塊下跌16.5%，跑輸大盤24.0個百分點，細分板塊分化，其中油運跑贏大盤30.6個百分點；而其他板塊均跑輸，航空因二季度油價上漲跑輸大盤39.2個百分點；紅利類公路鐵路和港口分別跑輸24.5個百分點/20.1個百分點；快遞跑輸大盤12.5個百分點。下半年看好快遞“反內卷”的行情、油運的運價彈性；關注航空油價下行的需求復甦，而非快遞物流則需精選個股。"
+    },
+    {
+      "id": "4975162",
+      "time": "2026-07-08 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報67704.16點，跌幅0.81%。"
+    },
+    {
+      "id": "4975161",
+      "time": "2026-07-08 08:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報76.16美元/桶。"
+    },
+    {
+      "id": "te:markets:564999",
+      "time": "2026-07-08 08:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline as US Strikes Iran — Silver held below $60 an ounce on Wednesday after dropping more than 3% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Silver had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
+    },
+    {
+      "id": "4975160",
+      "time": "2026-07-08 07:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將監測可能導致股市波動的風險。"
+    },
+    {
+      "id": "4975159",
+      "time": "2026-07-08 07:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國地震局開展四川宜賓市高縣5.0級地震應急處置工作】據中國地震臺網正式測定，2026年7月8日6時12分，在四川宜賓市高縣（北緯28.52度，東經104.68度）發生5.0級地震，震源深度8公里。 地震發生後，中國地震局迅速啟動三級應急響應，中國地震局黨組書記、局長王昆第一時間部署應急處置工作，影片連線中國地震臺網中心、四川省地震局，要求有關單位加強震情監視跟蹤研判，開展聯合會商，及時報告有關情況。 目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。"
+    },
+    {
+      "id": "4975158",
+      "time": "2026-07-08 07:59:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：日美韓外長在土耳其舉行會議。"
+    },
+    {
+      "id": "4975157",
+      "time": "2026-07-08 07:58:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：密切關注導致股市過度波動的風險因素。"
+    },
+    {
+      "id": "4975156",
+      "time": "2026-07-08 07:58:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將加大力度穩定市場和經濟。"
+    },
+    {
+      "id": "4975155",
+      "time": "2026-07-08 07:58:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：透過相關機構間的密切協調，加強宏觀經濟和市場穩定工作。"
+    },
+    {
+      "id": "te:markets:564998",
+      "time": "2026-07-08 07:57:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Decline as US Strikes Iran — Gold traded around $4,100 an ounce on Wednesday after dropping more than 1% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Gold had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
+    },
+    {
+      "id": "te:economy:564997",
+      "time": "2026-07-08 07:57:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "El Salvador Inflation Nears 3-Year High — Annual inflation in El Salvador accelerated to 2.77% in June 2026 from 2.53% in May, marking the fastest pace since September 2023. Inflation accelerated for food and non-alcoholic beverages (3.0% vs 2.9% in May) and housing and utilities (2.0% vs 1.1%). On a monthly basis, the CPI rose 0.55%, following a 0.47% rise in the previous month."
+    },
     {
       "id": "4975154",
       "time": "2026-07-08 07:57:37",
