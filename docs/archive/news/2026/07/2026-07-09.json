@@ -1,7 +1,121 @@
 {
   "date": "2026-07-09",
-  "count": 399,
+  "count": 410,
   "items": [
+    {
+      "id": "4977523",
+      "time": "2026-07-09 02:33:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯重申伊朗核計劃已遭摧毀。"
+    },
+    {
+      "id": "mkt:019f4300-47f9-7aab-8cfc-78b12ba2d4bd",
+      "time": "2026-07-09 02:31:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract fell 1.47% to 892 yuan/gram, Shanghai silver main contract fell 3.88% to 14,260 yuan/kg, and SC crude oil main contract rose 4.30% to 475 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f4300-4769-7aab-8cfc-71674fe3693a",
+      "time": "2026-07-09 02:31:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $73.52 per barrel, up $3.08 or 4.37%."
+    },
+    {
+      "id": "mkt:019f4300-3b90-7aab-8cfc-6fdfb1192407",
+      "time": "2026-07-09 02:31:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes: Middle East conflict lifted inf; most foreign central banks signal future hikes】The Fed's June minutes said the Middle East conflict has materially raised global overall inf, with retail energy and producer prices spiking across much of Europe and Asia. Some central banks, including the ECB, have raised policy rates in response. Most foreign central banks warned high inf could trigger second‑round effects and signalled they may raise rates or slow easing despite weak output growth."
+    },
+    {
+      "id": "4977522",
+      "time": "2026-07-09 02:30:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶73.52美元，上漲3.08美元，漲幅為4.37%。"
+    },
+    {
+      "id": "mkt:019f42ff-2a58-7aab-8cfc-63a97b6e135d",
+      "time": "2026-07-09 02:30:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.25% to 891.59 yuan/gram in the July 8 (Wednesday) evening session; silver T+D fell 3.36% to 14,258.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:565395",
+      "time": "2026-07-09 02:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 2.04% — Top crypto losers are Binance (-2.04%), Ether (-1.88%) and Bitcoin (-1.85%)."
+    },
+    {
+      "id": "4977521",
+      "time": "2026-07-09 02:30:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceXAI攜手Cursor釋出AI模型 面向法律和金融等任務】SpaceXAI釋出了一款與AI程式設計初創公司Cursor合作打造的新款人工智慧模型，該模型旨在更出色地處理金融、法律及程式設計任務。此舉是這家馬斯克旗下公司為增強與Anthropic PBC和OpenAI等對手競爭能力而採取的最新舉措。這款名為Grok 4.5的軟體是兩家公司聯合開發的首款AI模型。就在數週前，SpaceX正式同意收購Cursor，這筆交易對這家初創公司的估值為600億美元。根據週三釋出的部落格文章，新模型旨在“處理複雜、耗時的任務”，包括軟體工程這一眾多AI開發商重點佈局的領域。不過，與Cursor此前推出的模型不同，Grok 4.5面向更廣泛的工作場景，包括法律和金融服務。部落格文章還稱，Grok 4.5進一步增強了網路安全能力。"
+    },
+    {
+      "id": "4977520",
+      "time": "2026-07-09 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲4.30%，報475.20元人民幣/桶。滬金夜盤收跌1.47%，滬銀收跌3.88%。"
+    },
+    {
+      "id": "mkt:019f42fe-7cc2-7aab-8cfc-5c1eb0c150d8",
+      "time": "2026-07-09 02:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Iran and Qatar held a phone call on the Strait of Hormuz incident and emphasized the need for continued communication and coordination to prevent escalation of regional tensions."
+    },
+    {
+      "id": "4977519",
+      "time": "2026-07-09 02:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮貿易顧問納瓦羅：5月貿易資料顯示，美國服務業與能源出口表現強勁，但全球供應鏈及關稅執行落實情況仍存隱憂。"
+    },
     {
       "id": "mkt:019f42fd-eec5-7aab-8cfc-553f170ef265",
       "time": "2026-07-09 02:29:25",
