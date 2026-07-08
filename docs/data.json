@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-08 08:09:48",
-  "count": 15913,
+  "updated": "2026-07-08 08:13:39",
+  "count": 15909,
   "items": [
+    {
+      "id": "mkt:019f3f11-2403-7aab-8cd9-875987b56868",
+      "time": "2026-07-08 08:11:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX widened losses to 1%."
+    },
+    {
+      "id": "4975185",
+      "time": "2026-07-08 08:11:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌1%，至4021.50點。"
+    },
+    {
+      "id": "4975184",
+      "time": "2026-07-08 08:10:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "科倫藥業：控股子公司科倫博泰生物擬配售583.8萬股H股，配售價格為470.2港元/股。"
+    },
+    {
+      "id": "mkt:019f3f0f-bac5-7aab-8cd9-7c4d525133e2",
+      "time": "2026-07-08 08:10:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 93.70 points (-1.06%) at 8,710.20 on Wednesday, July 8."
+    },
+    {
+      "id": "4975183",
+      "time": "2026-07-08 08:09:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞電信（Telstra）首席財務官：目前沒有跡象表明這是惡意活動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607083797399764",
+      "time": "2026-07-08 08:09:26",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲威廉姆斯：由於能源價格回落 對通脹持更樂觀態度】據報道，紐約聯儲主席威廉姆斯表示，對經濟中的物價壓力狀況的擔憂有所緩解，“通脹水平仍然過高，但鑑於能源價格即將出現回落，我對短期通脹前景確實感到稍顯樂觀”。不過，威廉姆斯並未明確表示這改變了他長期以來堅持的貨幣政策立場。"
+    },
+    {
+      "id": "4975182",
+      "time": "2026-07-08 08:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗譴責美國違反諒解備忘錄 警告將採取必要行動 】伊朗外交部8日凌晨發表宣告，譴責美方取消其暫停製裁伊朗石油銷售的臨時措施，稱此舉公然違反伊美伊斯蘭堡諒解備忘錄，並警告將就此採取必要行動。 宣告指出，美方此舉公然違反伊美伊斯蘭堡諒解備忘錄第10條，美方應對相關後果承擔責任。 宣告還說，伊美雙方剛於不久前簽署諒解備忘錄，美國即宣佈取消其於6月21日簽發的授權伊朗石油銷售等的一般許可證，這再次顯示美國政府不可信任。宣告還指責美國多次“直接違反或透過以色列在黎巴嫩的行動違反”備忘錄有關條款。 宣告表示，伊朗自6月18日簽署備忘錄以來，一直以善意努力履行自身承諾。但美國不但違反承諾，還以各種藉口進行辯解。 宣告警告說，伊朗將採取其認為維護自身利益和國家安全所必要的行動。（新華社）"
+    },
     {
       "id": "4975181",
       "time": "2026-07-08 08:07:55",
@@ -145785,119 +145847,6 @@
         "國際"
       ],
       "text": "【日經指數上漲2.3%，電子和科技股領漲】得益於對人工智慧相關需求增長的持續預期，以及追隨美國科技股的漲勢，日本股市走高。電子和科技股領漲。東京電子上漲4.9%，軟銀集團上漲3.8%。美元報162.65日元，週二東京股市收盤時為162.24日元。投資者正密切關注美伊和平談判的任何進展，以及日本政府官員對日元貶值的任何評論。日經指數上漲2.3%，報71701.04點。"
-    },
-    {
-      "id": "4963839",
-      "time": "2026-07-01 08:13:21",
-      "tags": [
-        "央行",
-        "觀點"
-      ],
-      "text": "【中信證券：隔夜逆回購工具落地 央行維護寬鬆態度明確】中信證券認為，央行首次開展隔夜逆回購操作，本次央行操作的態度高於實質，當前7天逆回購的政策利率地位並未改變，央行有意在半年末關鍵時點維護寬鬆的流動性環境和穩定預期。新工具旨在彌合7天政策利率與隔夜為主的市場交易之間的期限錯配，並藉助隔夜操作當日到期、不形成餘額的靈活性，在季末更精準地實現流動性削峰填谷。其究竟是階段性工具還是政策利率新錨，取決於後續的操作頻率和利率披露方式，本次只公佈數量、不公佈利率，表明央行當前仍將其定位為短期流動性管理工具。整體看，本次操作寬貨幣訊號清晰，但意義更多在於政策態度而非利率幅度。"
-    },
-    {
-      "id": "te:economy:563138",
-      "time": "2026-07-01 08:13:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Korea Posts Record Trade Surplus — South Korea’s trade surplus soared to USD 36.15 billion in June 2026, up from USD 9.08 billion in the same month a year earlier, marking the 17th consecutive month in surplus and the largest trade surplus on record, flash data showed. Exports jumped 70.9% year-on-year to a record high of USD 102.25 billion, accelerating sharply from an upwardly revised 53.4% surge in May, mainly driven by a surge in semiconductor exports. Meanwhile, imports grew 30.1%, accelerating from a downwardly revised 20.7% increase in May and marking the fastest pace since May 2022, supported by resilient domestic demand."
-    },
-    {
-      "id": "4963838",
-      "time": "2026-07-01 08:13:08",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【銀河證券：市場對AI產業趨勢的強烈共識將從主題炒作轉向業績驗證】銀河證券7月市場展望指出，隨著美聯儲沃什首秀的“戰略模糊”落地、美伊協議達成後霍爾木茲海峽恢復通行的預期逐步消化，地緣政治對市場的擾動從衝擊型降級為跟蹤型，此前壓制市場的宏觀不確定性正在下降。進入7月，隨著不確定性下降，資金開始重新評估，市場對AI產業趨勢的強烈共識將主要聚焦業績預告，市場將從主題炒作轉向業績驗證。 同時，隨著中央政治局會議（通常於7月下旬召開）臨近，市場對政策定調關注度提升。一方面，市場可能經歷震盪調整，等待中報業績驗證。高股息資產階段性迴歸，科技板塊內部去偽存真。另一方面，“六網”作為新基建與傳統基建的交匯點，有望成為承接“AI產業趨勢”與“穩增長”預期的橋樑。"
-    },
-    {
-      "id": "mkt:019f1b04-f447-7aab-8c46-4a93bef3e548",
-      "time": "2026-07-01 08:12:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's June trade surplus hit a record high."
-    },
-    {
-      "id": "4963836",
-      "time": "2026-07-01 08:11:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國出口保持強勁增長 人工智慧熱潮繼續提振晶片需求】韓國6月出口延續強勁表現，凸顯支撐經濟增長的晶片產業景氣仍具韌性。韓國政府週三公佈，經工作日差異調整後，6月出口同比增長59.5%。進口增長30.1%，貿易順差達到361億美元。未經調整的出口增長70.9%，相比之下，5月份出口增幅經修正後為53.4%。半導體再次引領出口增長，受到與AI和資料中心相關的強勁投資支援。最新資料表明，韓國經濟由出口驅動的擴張仍在持續，這將支援韓國央行日趨鷹派的立場。韓國央行行長申鉉松表示，半導體熱潮正外溢至更廣泛的消費、投資和加薪，增加了通脹壓力可能變得更加根深蒂固的風險。"
-    },
-    {
-      "id": "4963835",
-      "time": "2026-07-01 08:11:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家：美伊互不信任 “邊打邊談”模式難破局】美國此前宣佈的定於6月30日在卡達舉行的美伊談判最終未能實現。專家分析指出，伊朗正在掌握談判的節奏，藉機向美國施壓，試圖迫使美方做出更多讓步。專家指出，這次美伊關於談判各執一詞，這種情況並不罕見，相似情形已在今年4月美伊宣佈停火後多次發生。專家認為，自今年4月以來，伊朗一直在掌握美伊談判的節奏和程序，在談判的時間、地點和議題方面擁有主動權。（央視）"
-    },
-    {
-      "id": "mkt:019f1b04-09cd-7aab-8c46-4054259c2f44",
-      "time": "2026-07-01 08:11:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "South Korea's June exports rose YoY at the fastest pace since October 1978."
-    },
-    {
-      "id": "te:economy:563137",
-      "time": "2026-07-01 08:11:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Business Confidence",
-        "Importance 2"
-      ],
-      "text": "Japan Q2 Business Confidence Highest Since 2018 — The Bank of Japan’s sentiment index for large manufacturers climbed to 22 in Q2 2026 from 17 in Q1, beating market expectations of 16 and reaching its highest level since Q1 2018. The stronger reading suggests the economy has, for now, remained resilient despite the energy shock triggered by the Middle East conflict. Meanwhile, large firms expect capital expenditure to increase by 11.5%, accelerating from 3.3% in Q1, which had marked the weakest rise since Q1 2023."
-    },
-    {
-      "id": "te:economy:563136",
-      "time": "2026-07-01 08:10:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Factory Growth Remains Strong in June — The AIB Ireland Manufacturing PMI eased to 54.9 in June 2026 from May’s four-year high of 55.9 but remained well above the 50 threshold, signaling another strong improvement in factory conditions. Output expanded for an eighth consecutive month, while new orders continued to rise at one of the strongest rates in the past four years. Employment increased again as firms expanded capacity, helping reduce backlogs of work for the first time in four months. Stocks of purchases rose at the fastest pace since January 2023 and finished goods inventories posted their strongest increase since July 2019 amid persistent supply chain disruptions linked to the Middle East conflict. Although input cost inflation eased from May’s 46-month high, it remained elevated due to higher fuel, freight, and raw material costs, while output price inflation accelerated to its fastest pace since December 2022. Business confidence remained broadly positive despite moderating slightly from May."
-    },
-    {
-      "id": "mkt:019f1b03-267f-7aab-8c46-3d34144f41af",
-      "time": "2026-07-01 08:10:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 9.0 points (-0.10%) at 8,769.70 on Wednesday, July 1."
-    },
-    {
-      "id": "4963834",
-      "time": "2026-07-01 08:09:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國政府取消Anthropic的Fable 5模型的限制】美國政府已經取消外國人士存取Anthropic PBC的Fable 5 AI模型的限制。 自從美國政府下令Anthropic公司停用Mythos 5 AI模型和Fable 5(功能較弱、應用範圍更廣的模型)以來，這家AI公司和商務部官員一直在磋商。美國商務部6月12日透過一封非公開信件實施出口管制規定，要求Anthropic在允許任何外國人士(不論身處何地)存取上述兩款模型之前，必須先取得美國政府批准；此外，在將這兩款模型出口至全球任何目的地之前，也須取得美方許可。針對Mythos的部分限制已於6月26日解除。媒體先前已報道，涉及Fable 5的相關限制已經鬆綁。"
     }
   ]
 }
