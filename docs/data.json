@@ -1,7 +1,204 @@
 {
-  "updated": "2026-07-08 08:57:36",
-  "count": 15905,
+  "updated": "2026-07-08 09:01:46",
+  "count": 15904,
   "items": [
+    {
+      "id": "mkt:019f3f3d-da34-7aab-8cda-3e70e1dd94b4",
+      "time": "2026-07-08 09:00:45",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of Australia says a major economic shock could increase uncertainty, weaken confidence and curb spending."
+    },
+    {
+      "id": "4975254",
+      "time": "2026-07-08 09:00:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳洲央行官員亨特：貨幣政策有可能限制間接和第二輪效應。"
+    },
+    {
+      "id": "mkt:019f3f3d-aaaa-7aab-8cda-37a22e768ee4",
+      "time": "2026-07-08 09:00:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Reserve Bank of Australia says an oil shock could alter inflation expectations."
+    },
+    {
+      "id": "4975253",
+      "time": "2026-07-08 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2437.00元。"
+    },
+    {
+      "id": "mkt:019f3f3d-833d-7aab-8cda-2ab4537854b7",
+      "time": "2026-07-08 09:00:23",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened 0.07% higher."
+    },
+    {
+      "id": "mkt:019f3f3d-7f35-7aab-8cda-2232731579b9",
+      "time": "2026-07-08 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open most-active China futures rose. Shanghai crude (SC) jumped over 4%; fuel oil and low‑sulfur fuel oil (LU) climbed more than 3%; benzene and styrene (EB) gained over 2%; polypropylene rose nearly 2%; caustic soda and container-shipping European-route freight were up more than 1%. On the downside, asphalt slid over 3%; Shanghai silver, soda ash and red dates fell more than 1%; live hogs edged down about 1%."
+    },
+    {
+      "id": "4975252",
+      "time": "2026-07-08 09:00:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報7662.00元。"
+    },
+    {
+      "id": "4975251",
+      "time": "2026-07-08 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報45,524.69。"
+    },
+    {
+      "id": "mkt:019f3f3d-56a5-7aab-8cda-195bf63c020f",
+      "time": "2026-07-08 09:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhejiang activates level-III typhoon emergency for Typhoon Bavi】At 05:00 on July 8 the center of Typhoon Bavi (No.9) was about 1,650 km east‑southeast of Keelung, Taiwan, and is forecast to move west at 20–25 km/h. The Zhejiang Maritime Safety Administration activated a level‑III typhoon emergency response at 08:00 on July 8."
+    },
+    {
+      "id": "4975250",
+      "time": "2026-07-08 09:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3042.00元。"
+    },
+    {
+      "id": "4975249",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報458.70元。"
+    },
+    {
+      "id": "4975248",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1074.00元。"
+    },
+    {
+      "id": "4975247",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報3725.00元。"
+    },
+    {
+      "id": "4975246",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3028.00元。"
+    },
+    {
+      "id": "4975245",
+      "time": "2026-07-08 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.03%。"
+    },
+    {
+      "id": "4975244",
+      "time": "2026-07-08 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲4.46%，燃料油連續漲3.45%，低硫燃料油連續漲3.31%，瀝青連續跌3.20%，純苯連續漲2.73%，苯乙烯連續漲2.57%，PTA連續漲2.46%，對二甲苯連續漲2.00%。"
+    },
+    {
+      "id": "4975243",
+      "time": "2026-07-08 08:59:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江啟動第9號颱風“巴威”Ⅲ級防颱應急響應】今天（7月8日）早晨5時，今年第9號颱風“巴威”的中心位於臺灣基隆市東偏南方向約1650公里的洋麵上，預計未來“巴威”將以每小時20-25公里的速度向偏西方向移動。根據颱風態勢及走向，浙江海事局決定於7月8日8時啟動Ⅲ級防颱應急響應。"
+    },
+    {
+      "id": "4975242",
+      "time": "2026-07-08 08:59:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "方圓生活服務集團有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4975241",
+      "time": "2026-07-08 08:58:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美伊衝突再起波瀾，黃金承壓下行】美伊衝突再起波瀾，黃金承壓下行。相對於油價的反彈，黃金市場對於沃什暗地安排降息的預期更為敏感，作為服務特朗普中期選舉的配合政策，沃什甚至以資料修改統計指標的方式予以迎合，我們認為一旦油價回落，黃金仍可能反彈。"
+    },
+    {
+      "id": "mkt:019f3f3b-76ac-7aab-8cda-1537b22ba8e9",
+      "time": "2026-07-08 08:58:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kioxia shares in Japan reversed earlier losses and are trading up 6.6%."
+    },
+    {
+      "id": "4975240",
+      "time": "2026-07-08 08:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價逆轉跌勢，漲幅擴大至6.6%。"
+    },
     {
       "id": "4975239",
       "time": "2026-07-08 08:55:50",
@@ -145581,203 +145778,6 @@
         "其他"
       ],
       "text": "蔚來汽車： 截至今日，蔚來全國建成9,056座充換電站，其中換電站3,958座，充電站5,098座、充電樁29,357根，累計提供超1.1億次換電。"
-    },
-    {
-      "id": "te:markets:563166",
-      "time": "2026-07-01 09:01:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Stays Close to 8-Month Low — Gold steadied around $4,000 an ounce on Wednesday but remained near its lowest level in almost eight months as strong US economic data underscored the economy’s resilience and reinforced expectations that the Federal Reserve will raise interest rates this year. The latest JOLTS report showed job openings climbed to a two-year high, while analysts expect another solid increase in June non-farm payrolls. Meanwhile, recent core inflation readings remained well above the Fed’s 2% target. Markets are now pricing in at least one Fed rate hike this year, with the first potentially coming as early as September. Investors also awaited updates from the ongoing US-Iran peace talks in Qatar amid hopes for a lasting ceasefire agreement, although the two sides were not expected to hold direct talks."
-    },
-    {
-      "id": "mkt:019f1b32-0192-7aab-8c47-41cbdc62e2cb",
-      "time": "2026-07-01 09:01:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.28% to 873.31 yuan/gram in early trade on July 1; Silver T+D rose 2.1% to 14,318.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019f1b31-d0f9-7aab-8c47-3ddff4a2e58b",
-      "time": "2026-07-01 09:01:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened up 1,059.85 points, or 2.3%, at 47,185.76 on Wednesday, July 1."
-    },
-    {
-      "id": "4963897",
-      "time": "2026-07-01 09:00:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米汽車：2026年6月，小米汽車交付量持續超過30000臺。"
-    },
-    {
-      "id": "mkt:019f1b31-2df7-7aab-8c47-33a496d4278e",
-      "time": "2026-07-01 09:00:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Dalian Maritime Safety Administration issued a navigation warning that live-fire exercises will be conducted in parts of the northern Yellow Sea, closing the areas to navigation from July 1 10:00 to July 2 17:00 and from July 6 12:00 to July 8 17:00; entry prohibited."
-    },
-    {
-      "id": "mkt:019f1b31-2d93-7aab-8c47-2e4dd0e9a019",
-      "time": "2026-07-01 09:00:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "Xiaomi Auto deliveries continued to exceed 30,000 units in June 2026."
-    },
-    {
-      "id": "4963896",
-      "time": "2026-07-01 09:00:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲2.2%至47,132.61點。"
-    },
-    {
-      "id": "mkt:019f1b30-fb31-7aab-8c47-273d1b8fb297",
-      "time": "2026-07-01 09:00:22",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures opened 0.14% higher."
-    },
-    {
-      "id": "4963895",
-      "time": "2026-07-01 09:00:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國電力股延續漲勢 受政府人工智慧投資計劃提振】受韓國政府本週早些時候宣佈的大規模投資計劃（旨在擴大人工智慧資本支出）提振，韓國電力裝置股延續漲勢。LS Electric股價上漲高達13%，三天累計漲幅超過30%。HD Hyundai Electric 上漲9.5%，Hyosung Heavy 上漲13%。"
-    },
-    {
-      "id": "mkt:019f1b30-ec5c-7aab-8c47-1d7feb663b34",
-      "time": "2026-07-01 09:00:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China domestic futures opened mixed with more contracts down than up. Container-shipping Europe route fell over 4%; rapeseed oil and rapeseed meal dropped over 1%; soybean oil, methanol, caustic soda, Dalian soybean No.1 and palm oil declined about 1%. On the upside, lithium carbonate rose over 4%; SHFE silver, SHFE tin, asphalt, LPG, SHFE zinc, polysilicon and eggs gained over 1%, while stainless steel advanced nearly 1%."
-    },
-    {
-      "id": "4963894",
-      "time": "2026-07-01 09:00:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報961.00元。"
-    },
-    {
-      "id": "4963893",
-      "time": "2026-07-01 09:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報46,234.70。"
-    },
-    {
-      "id": "4963892",
-      "time": "2026-07-01 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2691.00點。"
-    },
-    {
-      "id": "4963891",
-      "time": "2026-07-01 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2701.50點。"
-    },
-    {
-      "id": "4963890",
-      "time": "2026-07-01 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內漲4%，現報164220.00元。"
-    },
-    {
-      "id": "4963889",
-      "time": "2026-07-01 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.15%。"
-    },
-    {
-      "id": "4963888",
-      "time": "2026-07-01 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續跌4.60%，碳酸鋰連續漲4.53%，白銀連續漲1.66%，錫連續漲1.59%，液化石油氣連續漲1.45%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607013789106750",
-      "time": "2026-07-01 08:59:17",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【今晚全球市場翹首以待：沃什還會像上月那麼鷹嗎？】北京時間今晚9點半，沃什將作客歐洲央行，與全球其他央行高官在葡萄牙辛特拉就當前緊迫的經濟問題參加一場小組討論，投資者們希望藉此機會更清楚地瞭解他的立場——這堪稱沃什在國際舞臺上的海外“首秀”。"
-    },
-    {
-      "id": "4963887",
-      "time": "2026-07-01 08:59:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月30日641股獲融資買入超億元 京東方Ａ獲買入62.20億元居首】6月30日共有3463只個股獲融資資金買入，有641股買入金額超億元。其中，京東方Ａ、兆易創新、瀾起科技融資買入金額排名前三，分別獲買入62.20億元、56.53億元、49.25億元。"
-    },
-    {
-      "id": "4963886",
-      "time": "2026-07-01 08:59:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長華化學：產品暫未涉及5G通訊、光纖光纜、3D列印、先進封裝等領域客戶】長華化學7月1日在互動平臺表示，公司的產品目前未涉及5G通訊、光纖光纜、3D列印、先進封裝等領域客戶。"
-    },
-    {
-      "id": "4963885",
-      "time": "2026-07-01 08:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：今夏6月無高溫天氣】昨天是6月的最後一天，代表“北京溫度”的北京觀象臺午後最高氣溫僅29.3℃。至此，今年整個6月北京無高溫。上一次出現這種情況是2015年。從北京市氣候中心瞭解到，以代表“北京溫度”的北京觀象臺氣溫為例，6月1日至29日，北京平均氣溫24.0℃，比常年同期25.3℃偏低1.3℃；而在2025年同期，平均氣溫達到了26.7℃，比常年同期偏高了1.4℃。整個6月份的平均氣溫，常年同期值是25.3℃。"
-    },
-    {
-      "id": "4963884",
-      "time": "2026-07-01 08:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員稱美國干涉地區事務的時代已結束】據伊朗邁赫爾通訊社6月30日報道，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，美國干涉地區國家內政的時代已經結束。 阿齊茲說，霍爾木茲海峽管理權掌握在伊朗手中。此外，保障黎巴嫩的主權並非透過解除抵抗力量的武裝，而應透過結束以色列的佔領和侵略。 阿齊茲此前還說，地區國家押注於美國的計劃將破壞這些國家的穩定與安全，並表示美國軍事基地已對地區國家構成威脅，而非一種保護。（新華社）"
     }
   ]
 }

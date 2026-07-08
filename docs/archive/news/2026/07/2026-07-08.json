@@ -1,7 +1,204 @@
 {
   "date": "2026-07-08",
-  "count": 733,
+  "count": 754,
   "items": [
+    {
+      "id": "mkt:019f3f3d-da34-7aab-8cda-3e70e1dd94b4",
+      "time": "2026-07-08 09:00:45",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of Australia says a major economic shock could increase uncertainty, weaken confidence and curb spending."
+    },
+    {
+      "id": "4975254",
+      "time": "2026-07-08 09:00:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳洲央行官員亨特：貨幣政策有可能限制間接和第二輪效應。"
+    },
+    {
+      "id": "mkt:019f3f3d-aaaa-7aab-8cda-37a22e768ee4",
+      "time": "2026-07-08 09:00:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Reserve Bank of Australia says an oil shock could alter inflation expectations."
+    },
+    {
+      "id": "4975253",
+      "time": "2026-07-08 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2437.00元。"
+    },
+    {
+      "id": "mkt:019f3f3d-833d-7aab-8cda-2ab4537854b7",
+      "time": "2026-07-08 09:00:23",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened 0.07% higher."
+    },
+    {
+      "id": "mkt:019f3f3d-7f35-7aab-8cda-2232731579b9",
+      "time": "2026-07-08 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open most-active China futures rose. Shanghai crude (SC) jumped over 4%; fuel oil and low‑sulfur fuel oil (LU) climbed more than 3%; benzene and styrene (EB) gained over 2%; polypropylene rose nearly 2%; caustic soda and container-shipping European-route freight were up more than 1%. On the downside, asphalt slid over 3%; Shanghai silver, soda ash and red dates fell more than 1%; live hogs edged down about 1%."
+    },
+    {
+      "id": "4975252",
+      "time": "2026-07-08 09:00:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報7662.00元。"
+    },
+    {
+      "id": "4975251",
+      "time": "2026-07-08 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報45,524.69。"
+    },
+    {
+      "id": "mkt:019f3f3d-56a5-7aab-8cda-195bf63c020f",
+      "time": "2026-07-08 09:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhejiang activates level-III typhoon emergency for Typhoon Bavi】At 05:00 on July 8 the center of Typhoon Bavi (No.9) was about 1,650 km east‑southeast of Keelung, Taiwan, and is forecast to move west at 20–25 km/h. The Zhejiang Maritime Safety Administration activated a level‑III typhoon emergency response at 08:00 on July 8."
+    },
+    {
+      "id": "4975250",
+      "time": "2026-07-08 09:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3042.00元。"
+    },
+    {
+      "id": "4975249",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報458.70元。"
+    },
+    {
+      "id": "4975248",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1074.00元。"
+    },
+    {
+      "id": "4975247",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報3725.00元。"
+    },
+    {
+      "id": "4975246",
+      "time": "2026-07-08 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3028.00元。"
+    },
+    {
+      "id": "4975245",
+      "time": "2026-07-08 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.03%。"
+    },
+    {
+      "id": "4975244",
+      "time": "2026-07-08 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲4.46%，燃料油連續漲3.45%，低硫燃料油連續漲3.31%，瀝青連續跌3.20%，純苯連續漲2.73%，苯乙烯連續漲2.57%，PTA連續漲2.46%，對二甲苯連續漲2.00%。"
+    },
+    {
+      "id": "4975243",
+      "time": "2026-07-08 08:59:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江啟動第9號颱風“巴威”Ⅲ級防颱應急響應】今天（7月8日）早晨5時，今年第9號颱風“巴威”的中心位於臺灣基隆市東偏南方向約1650公里的洋麵上，預計未來“巴威”將以每小時20-25公里的速度向偏西方向移動。根據颱風態勢及走向，浙江海事局決定於7月8日8時啟動Ⅲ級防颱應急響應。"
+    },
+    {
+      "id": "4975242",
+      "time": "2026-07-08 08:59:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "方圓生活服務集團有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4975241",
+      "time": "2026-07-08 08:58:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美伊衝突再起波瀾，黃金承壓下行】美伊衝突再起波瀾，黃金承壓下行。相對於油價的反彈，黃金市場對於沃什暗地安排降息的預期更為敏感，作為服務特朗普中期選舉的配合政策，沃什甚至以資料修改統計指標的方式予以迎合，我們認為一旦油價回落，黃金仍可能反彈。"
+    },
+    {
+      "id": "mkt:019f3f3b-76ac-7aab-8cda-1537b22ba8e9",
+      "time": "2026-07-08 08:58:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kioxia shares in Japan reversed earlier losses and are trading up 6.6%."
+    },
+    {
+      "id": "4975240",
+      "time": "2026-07-08 08:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價逆轉跌勢，漲幅擴大至6.6%。"
+    },
     {
       "id": "4975239",
       "time": "2026-07-08 08:55:50",
