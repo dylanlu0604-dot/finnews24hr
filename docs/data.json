@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-08 08:53:42",
-  "count": 15908,
+  "updated": "2026-07-08 08:57:36",
+  "count": 15905,
   "items": [
+    {
+      "id": "4975239",
+      "time": "2026-07-08 08:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月7日455股獲融資買入超億元 中際旭創穫買入43.06億元居首】7月7日共有3464只個股獲融資資金買入，有455股買入金額超億元。其中，中際旭創、兆易創新、京東方Ａ融資買入金額排名前三，分別獲買入43.06億元、35.57億元、25.68億元。"
+    },
+    {
+      "id": "mkt:019f3f38-e895-7aab-8cda-0868f0481f59",
+      "time": "2026-07-08 08:55:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index turned positive after earlier plunging more than 1%."
+    },
+    {
+      "id": "4975238",
+      "time": "2026-07-08 08:55:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅擴大至1%，此前一度跌近4%。SK海力士漲5%，三星電子漲0.8%。"
+    },
+    {
+      "id": "mkt:019f3f38-6346-7aab-8cda-05c5f73791fc",
+      "time": "2026-07-08 08:54:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended gains to 1%; SK Hynix rose 5% and Samsung Electronics gained 0.8%."
+    },
+    {
+      "id": "4975237",
+      "time": "2026-07-08 08:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "俄勒岡州總檢察長辦公室表示，將請求法院推遲派拉蒙交易完成60天，以便州政府審查公司記錄。"
+    },
+    {
+      "id": "4975236",
+      "time": "2026-07-08 08:54:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "日經225指數收復失地，轉為微幅上漲。人工智慧股票走高，鎧俠控股上漲1.2%，軟銀集團上漲0.55%。"
+    },
     {
       "id": "mkt:019f3f36-b359-7aab-8cd9-fc4b141a0453",
       "time": "2026-07-08 08:52:57",
@@ -145720,88 +145778,6 @@
         "國際"
       ],
       "text": "【伊朗官員稱美國干涉地區事務的時代已結束】據伊朗邁赫爾通訊社6月30日報道，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲表示，美國干涉地區國家內政的時代已經結束。 阿齊茲說，霍爾木茲海峽管理權掌握在伊朗手中。此外，保障黎巴嫩的主權並非透過解除抵抗力量的武裝，而應透過結束以色列的佔領和侵略。 阿齊茲此前還說，地區國家押注於美國的計劃將破壞這些國家的穩定與安全，並表示美國軍事基地已對地區國家構成威脅，而非一種保護。（新華社）"
-    },
-    {
-      "id": "mkt:019f1b2e-5438-7aab-8c47-14d88552a024",
-      "time": "2026-07-01 08:57:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China implements Q3 train timetable from July 1, adds 106 passenger trains】China's summer rail transport period runs July 1–Aug 31 (62 days). Railways expect to carry 1.01 bln passengers in the period, averaging 16.29 mln passengers per day. From 00:00 July 1 China's national rail network is operating its third-quarter timetable, scheduling 12,174 timetabled passenger trains, up 106 from the previous schedule."
-    },
-    {
-      "id": "4963883",
-      "time": "2026-07-01 08:57:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京打造太空算力產業核心策源地】在海淀區，一系列圍繞太空算力的動作正在密集落地：北京太空算力創新中心揭牌運營、國內首個太空作業系統開源標準體系釋出、天算星座全新地面站正式啟動、太空算力服務內測版正式上線…… 算力上天、產業落地，在這場太空算力的競逐中，北京站上潮頭。最新資料顯示，以北京商業航天“南箭北星”佈局中“北星”核心承載地海淀區為例，這裡已集聚200餘家商業航天企業和機構，形成了覆蓋衛星研製、地面終端、測運控服務、星座運營、通導遙場景應用的全產業鏈條，全國商業航天百強企業近四分之一在此落戶。（北京日報）"
-    },
-    {
-      "id": "4963882",
-      "time": "2026-07-01 08:57:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今起鐵路實行第三季度列車執行圖 增開旅客列車106列】為期62天的全國鐵路暑期運輸今天啟動至8月31日結束。暑運期間，全國鐵路預計傳送旅客10.1億人次，日均傳送旅客1629萬人次。7月1日零時起，全國鐵路實行第三季度列車執行圖，安排圖定旅客列車12174列，較調圖前增加106列。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607013789072288",
-      "time": "2026-07-01 08:56:57",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【明日美國又一份強勁非農來襲？白宮官員提前“劇透” 美聯儲將如何抉擇】本週四（7月2日），美國勞工統計局將釋出6月非農就業報告。若就業資料強於預期，可能會影響美聯儲的利率路徑以及市場對風險資產的情緒。從多位白宮官員近幾日的表態來看，美國大機率將迎來又一份強勁的非農報告。"
-    },
-    {
-      "id": "mkt:019f1b2d-a5f3-7aab-8c47-082d92b18491",
-      "time": "2026-07-01 08:56:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI fell as much as 1.00% intraday."
-    },
-    {
-      "id": "4963881",
-      "time": "2026-07-01 08:56:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報8388.17點。個股方面，三星電子、SK海力士跌超2%。"
-    },
-    {
-      "id": "mkt:019f1b2c-261e-7aab-8c47-0191659e0654",
-      "time": "2026-07-01 08:55:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan manufacturing posts strongest quarterly expansion in over 12 years in June, S&P Global says】S&P Global deputy director for economics Annabel Fiddes said the latest PMI shows Japan's manufacturing delivered its strongest quarterly performance in over 12 years in June. Production expanded as client demand improved and overall new orders rose at the fastest pace in about 4.5 years, led by AI-related technologies and robust semiconductor demand. Growth was at least partly driven by inventory hoarding amid the Middle East war. Supplier performance deteriorated sharply again in June due to shipping delays and supplier shortages, keeping inflationary pressures among the most severe since the PMI series began in 2001—input costs and selling prices both rose rapidly. Fiddes warned there is significant uncertainty about whether the strength will extend into H2, as short-term hoarding may fade, especially if costs continue rising and customer spending weakens."
-    },
-    {
-      "id": "4963880",
-      "time": "2026-07-01 08:54:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪人制冷裝置落地澳大利亞標杆專案】2026年5月15日，澳大利亞政府對外官宣，本土首座全流程綠氫綠氨一體化示範新能源專案啟動建設。該標杆分散式清潔能源專案搭配光伏儲能供能體系，依靠純可再生綠電落地無水綠氨商業化生產。雪人集團與凱普索綠色能源科技（南京）有限公司攜手合作，為該澳洲標杆新能源專案提供綠氨合成工段核心工藝製冷成套解決方案。專案由海外能源企業聯合澳大利亞本土農業集團共同投資開發，目前已進入工程建設階段。"
-    },
-    {
-      "id": "4963879",
-      "time": "2026-07-01 08:53:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天賜材料：公司電子級氫氟酸專案正在做工藝技術升級 尚未執行生產】天賜材料(002709)7月1日在互動平臺表示，目前公司池州基地年產5萬噸無水氟化氫專案已投入生產且已處於滿產狀態。年產2.5萬噸電子級氫氟酸專案正在做工藝技術升級，目前尚未執行生產，請您注意投資風險。"
     }
   ]
 }

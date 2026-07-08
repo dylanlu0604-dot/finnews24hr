@@ -1,7 +1,65 @@
 {
   "date": "2026-07-08",
-  "count": 727,
+  "count": 733,
   "items": [
+    {
+      "id": "4975239",
+      "time": "2026-07-08 08:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月7日455股獲融資買入超億元 中際旭創穫買入43.06億元居首】7月7日共有3464只個股獲融資資金買入，有455股買入金額超億元。其中，中際旭創、兆易創新、京東方Ａ融資買入金額排名前三，分別獲買入43.06億元、35.57億元、25.68億元。"
+    },
+    {
+      "id": "mkt:019f3f38-e895-7aab-8cda-0868f0481f59",
+      "time": "2026-07-08 08:55:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index turned positive after earlier plunging more than 1%."
+    },
+    {
+      "id": "4975238",
+      "time": "2026-07-08 08:55:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅擴大至1%，此前一度跌近4%。SK海力士漲5%，三星電子漲0.8%。"
+    },
+    {
+      "id": "mkt:019f3f38-6346-7aab-8cda-05c5f73791fc",
+      "time": "2026-07-08 08:54:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended gains to 1%; SK Hynix rose 5% and Samsung Electronics gained 0.8%."
+    },
+    {
+      "id": "4975237",
+      "time": "2026-07-08 08:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "俄勒岡州總檢察長辦公室表示，將請求法院推遲派拉蒙交易完成60天，以便州政府審查公司記錄。"
+    },
+    {
+      "id": "4975236",
+      "time": "2026-07-08 08:54:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "日經225指數收復失地，轉為微幅上漲。人工智慧股票走高，鎧俠控股上漲1.2%，軟銀集團上漲0.55%。"
+    },
     {
       "id": "mkt:019f3f36-b359-7aab-8cd9-fc4b141a0453",
       "time": "2026-07-08 08:52:57",
