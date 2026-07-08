@@ -1,7 +1,110 @@
 {
-  "updated": "2026-07-08 09:10:06",
-  "count": 15916,
+  "updated": "2026-07-08 09:14:03",
+  "count": 15918,
   "items": [
+    {
+      "id": "4975277",
+      "time": "2026-07-08 09:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【EIA：AI熱潮將推動美國今明兩年用電量續創新高】美國能源資訊署（EIA）週二在《短期能源展望》（STEO）中表示，美國電力消費量在2025年連續第二年創下年度新高後，2026年和2027年將進一步增長，受耗電巨大的人工智慧(AI)資料中心和電氣化程序推動。EIA預計，美國電力需求將從2025年創紀錄的4.195萬億千瓦時（kWh），增至2026年的4.269萬億千瓦時和2027年的4.399萬億千瓦時。用電需求激增主要源於服務於人工智慧和加密貨幣的資料中心迅速擴張，以及家庭和企業在供暖和交通領域更多使用電力、減少化石燃料消費。EIA表示，電力需求增長將主要由商業部門推動。預計到2026年，商業部門用電需求將有記錄以來首次超過居民需求。"
+    },
+    {
+      "id": "4975276",
+      "time": "2026-07-08 09:12:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超圖軟體成立新公司，含衛星遙感應用相關業務】企查查APP顯示，近日，巴中市超圖軟體技術有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；資訊系統整合服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由超圖軟體全資持股。"
+    },
+    {
+      "id": "4975275",
+      "time": "2026-07-08 09:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德方奈米：公司開發了補鈉劑 目前尚處於技術儲備階段】德方奈米7月8日在互動平臺表示，公司開發了補鈉劑，目前尚處於技術儲備階段，尚未有實質性訂單銷售。"
+    },
+    {
+      "id": "4975274",
+      "time": "2026-07-08 09:11:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【禾邁股份與TAMCO簽署合作協議 深化馬來西亞大型儲能業務佈局】據禾邁股份訊息，近日，禾邁股份與TAMCO在馬來西亞順利舉行戰略簽約儀式。雙方將圍繞大型儲能系統在馬來西亞市場的本地化協同、系統整合、測試除錯及長期服務保障展開深入合作。作為馬來西亞具有代表性的開關裝置與配電解決方案提供商，TAMCO深耕電力基礎設施領域六十餘年，累計服務超過2300座變電站。"
+    },
+    {
+      "id": "4975273",
+      "time": "2026-07-08 09:11:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "星展集團股價最新持平於68.64新加坡元，此前一度觸及69.05新加坡元的盤中高點。"
+    },
+    {
+      "id": "4975272",
+      "time": "2026-07-08 09:11:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：傑伊·克萊頓出任美國國家情報總監提名聽證會定於7月15日舉行。"
+    },
+    {
+      "id": "mkt:019f3f46-eda4-7aab-8cda-9993d4b6bb27",
+      "time": "2026-07-08 09:10:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year government bond yield rose 2.5 bps to 2.865%, its highest level since September 1996."
+    },
+    {
+      "id": "te:markets:565019",
+      "time": "2026-07-08 09:10:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises to 3-Week High — US heating oil prices rose toward $3.40 per gallon, hitting a three-week high, after the US carried out new strikes against Iran in response to a series of attacks targeting vessels in the Strait of Hormuz. The US Treasury also withdrew a sanctions waiver that had allowed Tehran to export oil, reversing a key part of the interim peace agreement. The move fueled concerns over renewed energy market disruptions and challenged earlier expectations of a supply surplus driven by higher OPEC+ quotas and increased Middle Eastern output. Adding further support to heating oil prices were ongoing concerns over distillate supplies, as Ukrainian drone strikes continued to disrupt refinery operations in Russia. The latest attack targeted Russia’s largest oil refinery in Omsk, marking one of Ukraine’s longest-range strikes of the war and fueling speculation that Moscow could impose a diesel export ban to ease domestic shortages."
+    },
+    {
+      "id": "mkt:019f3f46-b9ad-7aab-8cda-94334e4cb95e",
+      "time": "2026-07-08 09:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunt said some economic costs are unavoidable and policymakers can only seek to strike a balance."
+    },
+    {
+      "id": "te:markets:565018",
+      "time": "2026-07-08 09:10:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Climb Amid Renewed Middle East Tensions — European natural gas prices climbed to €48.7 per MWh on Wednesday, building on strong gains from the previous session as renewed tensions in the Middle East stoked fears of a new wave of supply disruptions. The US military launched a new wave of strikes against Iran and revoked a license permitting the country to sell oil in retaliation after three merchant vessels were struck in the Strait of Hormuz. The fresh attacks cast doubt on the fragile diplomatic understanding between the two nations that had reopened the vital shipping route last month. Additional support came from forecasts of an intense heatwave across parts of Northwest Europe, which is expected to boost electricity demand for air conditioning and increase gas-fired power generation. The rise in demand comes amid the slower-than-usual seasonal pace of gas injections into European storage facilities. Gas flows from Norway, now Europe’s single largest pipeline provider, fell following unexpected maintenance."
+    },
+    {
+      "id": "4975271",
+      "time": "2026-07-08 09:09:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊藤忠商事與半島集團在歐洲成立氨燃料供應公司。"
+    },
     {
       "id": "4975270",
       "time": "2026-07-08 09:09:04",
@@ -145806,87 +145909,6 @@
         "Impact bullish"
       ],
       "text": "【CATL restarts 100,000 tpa lithium carbonate capacity】CATL received a safety production permit for the Jianxiawo lithium mine on June 29, and media confirmed on June 30 that the mine resumed production late on June 29. Industry sources estimate Jianxiawo’s lithium carbonate capacity at about 100,000 tpa; the restart is expected to help stabilize upstream feedstock supply for the lithium battery chain."
-    },
-    {
-      "id": "4963917",
-      "time": "2026-07-01 09:13:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多地暴雨大暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺預計，7月1日08時至2日08時，雲南西部和南部、貴州南部和東部、廣西北部和南部沿海、湖南西南部和東北部、湖北東南部、江西中北部、安徽南部、江蘇南部和北部、浙江中北部、上海以及山東中北部和南部、遼寧西部、海南島西部、青海東部等地有大到暴雨，其中，江西東北部、安徽南部、浙江西北部、雲南西南部等地的部分地區有大暴雨（100～180毫米）。上述部分地區伴有短時強降水（最大小時降雨量40～60毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。7月1日，交通運輸部影片排程雲南、貴州、廣西、湖南、湖北、江西、安徽、江蘇、上海、浙江、山東、遼寧、海南、青海省（市、區）交通運輸廳（委），長江海事局，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生。要切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。"
-    },
-    {
-      "id": "4963916",
-      "time": "2026-07-01 09:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國6月份半導體出口額同比增長199.5%，達到448.2億美元，創歷史新高。"
-    },
-    {
-      "id": "4963915",
-      "time": "2026-07-01 09:11:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光線傳媒等成立萬饗幀光文化科技公司】企查查APP顯示，近日，萬饗幀光（北京）文化科技有限公司成立，經營範圍包括組織文化藝術交流活動、電影攝製服務、數字內容製作服務、動漫遊戲開發等。企查查股權穿透顯示，該公司由光線傳媒全資子公司北京光線影業有限公司等共同持股。"
-    },
-    {
-      "id": "4963914",
-      "time": "2026-07-01 09:11:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至2%】韓國綜指跌幅擴大至2%，現報8303.34點。個股方面，三星電子、SK海力士跌超3%。"
-    },
-    {
-      "id": "mkt:019f1b3b-3fc6-7aab-8c47-5dd47aba1e87",
-      "time": "2026-07-01 09:11:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "Nikkei 225",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
-    },
-    {
-      "id": "4963913",
-      "time": "2026-07-01 09:11:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【禮賓摩托車隊護衛“七一勳章”獲得者前往人民大會堂】今天上午10時，慶祝中國共產黨成立105週年大會將在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將向“七一勳章”獲得者頒授勳章並發表重要講話。上午9時許，在禮賓摩托車隊的護衛下，參加慶祝大會的“七一勳章”獲得者從京西賓館出發，乘車前往人民大會堂。車隊嚴整，護衛英模。將這份至高禮遇獻給“七一勳章”獲得者，是尊崇，更是致敬。（央視）"
-    },
-    {
-      "id": "4963912",
-      "time": "2026-07-01 09:11:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代10萬噸碳酸鋰產能復產】一則重磅訊息攪動鋰電產業鏈。有市場訊息稱，寧德時代新能源科技股份有限公司（以下簡稱“寧德時代”）已於6月29日獲批梘下窩鋰礦安全生產許可證。6月30日，記者從權威渠道證實了上述訊息，並進一步獲悉，梘下窩鋰礦已於29日晚間正式復產。 （大河財立方）"
-    },
-    {
-      "id": "4963911",
-      "time": "2026-07-01 09:10:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3980美元/盎司，日內跌0.69%。"
-    },
-    {
-      "id": "4963910",
-      "time": "2026-07-01 09:10:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內漲1%，現報4493.00元。"
     }
   ]
 }

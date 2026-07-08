@@ -1,7 +1,110 @@
 {
   "date": "2026-07-08",
-  "count": 780,
+  "count": 791,
   "items": [
+    {
+      "id": "4975277",
+      "time": "2026-07-08 09:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【EIA：AI熱潮將推動美國今明兩年用電量續創新高】美國能源資訊署（EIA）週二在《短期能源展望》（STEO）中表示，美國電力消費量在2025年連續第二年創下年度新高後，2026年和2027年將進一步增長，受耗電巨大的人工智慧(AI)資料中心和電氣化程序推動。EIA預計，美國電力需求將從2025年創紀錄的4.195萬億千瓦時（kWh），增至2026年的4.269萬億千瓦時和2027年的4.399萬億千瓦時。用電需求激增主要源於服務於人工智慧和加密貨幣的資料中心迅速擴張，以及家庭和企業在供暖和交通領域更多使用電力、減少化石燃料消費。EIA表示，電力需求增長將主要由商業部門推動。預計到2026年，商業部門用電需求將有記錄以來首次超過居民需求。"
+    },
+    {
+      "id": "4975276",
+      "time": "2026-07-08 09:12:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超圖軟體成立新公司，含衛星遙感應用相關業務】企查查APP顯示，近日，巴中市超圖軟體技術有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；資訊系統整合服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由超圖軟體全資持股。"
+    },
+    {
+      "id": "4975275",
+      "time": "2026-07-08 09:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德方奈米：公司開發了補鈉劑 目前尚處於技術儲備階段】德方奈米7月8日在互動平臺表示，公司開發了補鈉劑，目前尚處於技術儲備階段，尚未有實質性訂單銷售。"
+    },
+    {
+      "id": "4975274",
+      "time": "2026-07-08 09:11:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【禾邁股份與TAMCO簽署合作協議 深化馬來西亞大型儲能業務佈局】據禾邁股份訊息，近日，禾邁股份與TAMCO在馬來西亞順利舉行戰略簽約儀式。雙方將圍繞大型儲能系統在馬來西亞市場的本地化協同、系統整合、測試除錯及長期服務保障展開深入合作。作為馬來西亞具有代表性的開關裝置與配電解決方案提供商，TAMCO深耕電力基礎設施領域六十餘年，累計服務超過2300座變電站。"
+    },
+    {
+      "id": "4975273",
+      "time": "2026-07-08 09:11:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "星展集團股價最新持平於68.64新加坡元，此前一度觸及69.05新加坡元的盤中高點。"
+    },
+    {
+      "id": "4975272",
+      "time": "2026-07-08 09:11:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：傑伊·克萊頓出任美國國家情報總監提名聽證會定於7月15日舉行。"
+    },
+    {
+      "id": "mkt:019f3f46-eda4-7aab-8cda-9993d4b6bb27",
+      "time": "2026-07-08 09:10:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year government bond yield rose 2.5 bps to 2.865%, its highest level since September 1996."
+    },
+    {
+      "id": "te:markets:565019",
+      "time": "2026-07-08 09:10:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises to 3-Week High — US heating oil prices rose toward $3.40 per gallon, hitting a three-week high, after the US carried out new strikes against Iran in response to a series of attacks targeting vessels in the Strait of Hormuz. The US Treasury also withdrew a sanctions waiver that had allowed Tehran to export oil, reversing a key part of the interim peace agreement. The move fueled concerns over renewed energy market disruptions and challenged earlier expectations of a supply surplus driven by higher OPEC+ quotas and increased Middle Eastern output. Adding further support to heating oil prices were ongoing concerns over distillate supplies, as Ukrainian drone strikes continued to disrupt refinery operations in Russia. The latest attack targeted Russia’s largest oil refinery in Omsk, marking one of Ukraine’s longest-range strikes of the war and fueling speculation that Moscow could impose a diesel export ban to ease domestic shortages."
+    },
+    {
+      "id": "mkt:019f3f46-b9ad-7aab-8cda-94334e4cb95e",
+      "time": "2026-07-08 09:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Assistant Governor Hunt said some economic costs are unavoidable and policymakers can only seek to strike a balance."
+    },
+    {
+      "id": "te:markets:565018",
+      "time": "2026-07-08 09:10:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Climb Amid Renewed Middle East Tensions — European natural gas prices climbed to €48.7 per MWh on Wednesday, building on strong gains from the previous session as renewed tensions in the Middle East stoked fears of a new wave of supply disruptions. The US military launched a new wave of strikes against Iran and revoked a license permitting the country to sell oil in retaliation after three merchant vessels were struck in the Strait of Hormuz. The fresh attacks cast doubt on the fragile diplomatic understanding between the two nations that had reopened the vital shipping route last month. Additional support came from forecasts of an intense heatwave across parts of Northwest Europe, which is expected to boost electricity demand for air conditioning and increase gas-fired power generation. The rise in demand comes amid the slower-than-usual seasonal pace of gas injections into European storage facilities. Gas flows from Norway, now Europe’s single largest pipeline provider, fell following unexpected maintenance."
+    },
+    {
+      "id": "4975271",
+      "time": "2026-07-08 09:09:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊藤忠商事與半島集團在歐洲成立氨燃料供應公司。"
+    },
     {
       "id": "4975270",
       "time": "2026-07-08 09:09:04",
