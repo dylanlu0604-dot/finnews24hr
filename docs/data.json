@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-08 14:38:11",
+  "updated": "2026-07-08 14:42:12",
   "count": 16063,
   "items": [
+    {
+      "id": "mkt:019f4075-bbae-7aab-8ce3-6754d34a37ab",
+      "time": "2026-07-08 14:41:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "LSEG data showed German 10-year bond yield rose to a four-week high at 3.032%."
+    },
+    {
+      "id": "4975866",
+      "time": "2026-07-08 14:40:15",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【FOMC會議紀要將令市場繼續聚焦通脹 並提振美元】儘管美國6月新增非農就業遠遜預期，但投資者仍不願放棄整體前景長期上行的觀點。美國商品期貨交易委員會的倉位顯示，在資料釋出前，美元多頭頭寸達到十多年來的最高水平，但隨後的美元拋售幅度相對溫和。部分原因是，鑑於整體勞動力市場依然具有韌性且失業率處於低位，美聯儲可能會忽略一份疲軟的非農就業報告。這將使市場關注點繼續集中在通脹上，從而使下週公佈的CPI成為預測政策路徑的關鍵因素。"
+    },
+    {
+      "id": "4975865",
+      "time": "2026-07-08 14:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭檢察院傳喚塔塔鋼鐵。"
+    },
+    {
+      "id": "4975864",
+      "time": "2026-07-08 14:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY回落至101下方，日內跌0.09%。"
+    },
+    {
+      "id": "mkt:019f4074-38d3-7aab-8ce3-5a594d9f1109",
+      "time": "2026-07-08 14:39:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US dollar index DXY fell below 101, down 0.09% intraday."
+    },
+    {
+      "id": "4975863",
+      "time": "2026-07-08 14:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳最大電信商網路故障影響交通和電子支付】澳大利亞電信公司8日發生大規模網路故障，導致不少列車停駛、電子支付無法進行、大量手機通訊受到影響。澳大利亞電信公司是該國最大電信企業，有大約2500萬移動使用者。由於這次故障，維多利亞州地區列車全部暫停執行，導致數千名乘客在高峰時段滯留。新南威爾士州也有部分列車停運。相關運營商建議乘客儘可能推遲出行。故障還導致電子支付平臺癱瘓，許多乘客無法支付計程車費，司機也無法繼續正常工作。（新華社）"
+    },
+    {
+      "id": "4975862",
+      "time": "2026-07-08 14:38:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部對四川宜賓高縣啟動水利抗震救災排程指揮機制】2026年7月8日6時12分和10時8分，四川省宜賓市高縣連續發生2次5.0級地震，震源深度分別為8千米和6千米。水利部迅即啟動水利抗震救災排程指揮機制，及時組織專題會商，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。（央視新聞）"
+    },
+    {
+      "id": "4975861",
+      "time": "2026-07-08 14:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理：希臘將大幅提前完成北約5%防務開支目標。"
+    },
+    {
+      "id": "mkt:019f4072-5d51-7aab-8ce3-5771b7ab6d1c",
+      "time": "2026-07-08 14:37:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "09696.HK",
+        "Impact bearish"
+      ],
+      "text": "TTANQT LITHIUM A-shares hit the daily down limit; turnover exceeded CNY3.5 bln. Its H-shares (09696.HK) fell more than 7.5%."
+    },
+    {
+      "id": "4975860",
+      "time": "2026-07-08 14:37:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股ST板塊震盪反彈，ST達華、ST星農、*ST發展、ST洲際、*ST中巖、ST西王等多隻ST股午後封漲停板。"
+    },
     {
       "id": "4975859",
       "time": "2026-07-08 14:37:28",
@@ -147008,97 +147104,6 @@
         "Importance 1"
       ],
       "text": "Australia Commodity Prices Rise 16.9% in June — The Reserve Bank of Australia’s Index of Commodity Prices rose 16.9% year-on-year in June 2026, following an upwardly revised 18.4% jump in the previous month. The increase was driven largely by strong price growth in gold, coking oil, and rural commodities, which more than offset declines in liquefied gas (LNG) and alumina prices. On a monthly basis, the index dropped 2.2%, following a downwardly revised 1.1% growth in the prior period, weighed down by lower costs across non-rural and base metals, while rural commodities recorded increases."
-    },
-    {
-      "id": "4964363",
-      "time": "2026-07-01 14:42:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：感謝塞普勒斯對歐盟理事會富有成效且實質性的主席國任期。在這六個月裡，我們成功開啟了第一個談判叢集，並正式啟動烏克蘭加入歐盟的談判。我們啟動了歐盟900億歐元的金融支援計劃。針對俄羅斯的第20輪制裁方案獲得透過。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607013790121980",
-      "time": "2026-07-01 14:40:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【巴克萊銀行：美聯儲路徑不明朗 股市關注焦點轉向盈利】據報道，巴克萊銀行策略師表示，鑑於美聯儲在新任主席領導下的發展方向不明朗，市場更加關注盈利能力對股票表現的催化作用。"
-    },
-    {
-      "id": "4964362",
-      "time": "2026-07-01 14:40:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "LG新能源股價下跌3.9%，收於348,000韓元。"
-    },
-    {
-      "id": "4964361",
-      "time": "2026-07-01 14:40:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廈門國本國資產業投資基金登記成立 出資額100.01億】天眼查App顯示，近日，廈門國本國資產業投資基金合夥企業（有限合夥）成立，出資額100.01億人民幣，執行事務合夥人為廈門國升發展私募基金管理有限責任公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由廈門國有資本投資有限責任公司、廈門輕工集團創業投資有限公司、廈門安居控股集團有限公司等共同出資。"
-    },
-    {
-      "id": "mkt:019f1c68-32c0-7aab-8c4d-69398ca3d6f6",
-      "time": "2026-07-01 14:40:18",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【UK house prices stagnate despite easing mortgage costs】Nationwide said UK house prices were flat in June for a second consecutive month, with the average at £277,484 after a 0.6% fall in May, missing economists’ 0.1% growth forecast. Middle East hostilities disrupted the mortgage market and ended the strong early‑year price momentum. Mortgage rates have eased from April peaks but remain above pre‑conflict levels. With investors increasingly expecting a US‑Iran ceasefire to hold, market bets on further Bank of England hikes have eased, leaving scope for mortgage costs to fall further in coming months."
-    },
-    {
-      "id": "mkt:019f1c68-1f87-7aab-8c4d-649887ca1436",
-      "time": "2026-07-01 14:40:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "MOL.BU",
-        "Impact bullish"
-      ],
-      "text": "MOL, Hungary's oil and gas company, has received a formal license from the U.S. Treasury to continue negotiations to acquire Serbia's oil company NIS; the license is valid through July 31."
-    },
-    {
-      "id": "4964360",
-      "time": "2026-07-01 14:39:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯洛伐克1-6月預算赤字29.69億歐元。"
-    },
-    {
-      "id": "4964359",
-      "time": "2026-07-01 14:39:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌5.8%，收報314,500韓元。"
-    },
-    {
-      "id": "4964358",
-      "time": "2026-07-01 14:39:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "匈牙利油氣集團（MOL）宣告稱，已收到美國財政部頒發的正式許可證，允許其就收購塞爾維亞石油公司（NIS）的談判持續至7月31日。"
-    },
-    {
-      "id": "4964357",
-      "time": "2026-07-01 14:38:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量4049億元。"
     }
   ]
 }
