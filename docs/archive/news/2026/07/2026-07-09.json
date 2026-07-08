@@ -1,7 +1,55 @@
 {
   "date": "2026-07-09",
-  "count": 775,
+  "count": 780,
   "items": [
+    {
+      "id": "te:markets:565424",
+      "time": "2026-07-09 07:47:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Gains as US Strikes Continue — Brent climbed toward $79 per barrel on Thursday and was up nearly 10% for the week, after the US military confirmed it had carried out strikes on Iran for a second straight day, intensifying tensions and fueling concerns over energy supplies from the Middle East. The US said the attacks were intended to reduce Iran’s ability to threaten navigation through the Strait of Hormuz, while Tehran vowed a large-scale retaliatory campaign against US military bases across the region. President Donald Trump declared that, in his view, the ceasefire is over and warned of additional military action against Iran, including a new blockade. He also cautioned that oil prices could climb further and said future strikes may target Iran’s key export terminal on Kharg Island. The renewed hostilities have heightened fears that the collapse of the interim US-Iran peace agreement could once again disrupt global oil supplies, with the Strait of Hormuz remaining at the center of the conflict."
+    },
+    {
+      "id": "4977736",
+      "time": "2026-07-09 07:45:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.11點。"
+    },
+    {
+      "id": "4977735",
+      "time": "2026-07-09 07:45:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.5%。"
+    },
+    {
+      "id": "mkt:019f441e-c98f-7aab-8d00-b8307a259c93",
+      "time": "2026-07-09 07:44:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PENTAGON urges Latin American countries to raise defense budgets】The PENTAGON is pressing Latin American governments to increase security spending to combat organized crime, saying at a biannual hemispheric defense ministers' meeting in Peru this week that defense budgets should be raised toward about 3.5% of GDP. Deputy Secretary Elbridge Colby said \"increasing defense investment is essential\" and specifically urged countries facing \"narco-terrorism\" to act."
+    },
+    {
+      "id": "te:markets:565423",
+      "time": "2026-07-09 07:44:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains as US Strikes Continue — Crude oil climbed above $74 per barrel on Thursday, rallying for the third straight session after the US military confirmed it had carried out strikes on Iran for a second straight day, intensifying tensions and fueling concerns over energy supplies from the Middle East. The US said the attacks were intended to reduce Iran’s ability to threaten navigation through the Strait of Hormuz, while Tehran vowed a large-scale retaliatory campaign against US military bases across the region. President Donald Trump declared that, in his view, the ceasefire is over and warned of additional military action against Iran, including a new blockade. He also cautioned that oil prices could climb further and said future strikes may target Iran’s key export terminal on Kharg Island. The renewed hostilities have heightened fears that the collapse of the interim US-Iran peace agreement could once again disrupt global oil supplies, with the Strait of Hormuz remaining at the center of the conflict."
+    },
     {
       "id": "4977734",
       "time": "2026-07-09 07:43:10",
