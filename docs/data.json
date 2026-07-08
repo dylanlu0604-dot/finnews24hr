@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-09 02:11:37",
-  "count": 16043,
+  "updated": "2026-07-09 02:15:29",
+  "count": 16050,
   "items": [
+    {
+      "id": "mkt:019f42f0-c932-7aab-8cfc-2c5709c07bfe",
+      "time": "2026-07-09 02:15:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed minutes: officials see inflation this year and next higher than April projections】The Fed minutes said most participants emphasized that if inflation remained above 2% for several years, sustained higher inflation could begin to affect inflation expectations and wage- and price-setting. Officials said their inflation forecasts for this year and next were higher than the projections prepared for the April meeting, underscoring renewed concern about inflation. Staff projected core inflation above 3% would remain roughly unchanged for the remainder of the year."
+    },
+    {
+      "id": "4977512",
+      "time": "2026-07-09 02:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：打算在45天后撤銷對敘利亞的制裁。"
+    },
+    {
+      "id": "4977511",
+      "time": "2026-07-09 02:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普告訴國會，他打算撤銷對敘利亞的制裁。"
+    },
+    {
+      "id": "mkt:019f42ee-73e6-7aab-8cfc-27a23d58be1f",
+      "time": "2026-07-09 02:12:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed minutes: Majority back shortening statement, removal of 'easing bias'】June Fed minutes show officials considered KEVIN WARSH’s proposal to end forward guidance and trim references to future rate moves. A majority backed shortening the policy statement and supported deleting language that suggested the next move would likely be a cut. The June alternative approved by the Fed removed rate guidance entirely, consistent with Warsh’s aim to avoid committing on future rates. At the June meeting the Fed held the policy rate at 3.50%-3.75%; the dot plot showed nine of 18 officials expect rates to be slightly higher by end-2026, and markets widely saw the possibility of hikes this year."
+    },
+    {
+      "id": "te:markets:565385",
+      "time": "2026-07-09 02:12:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Losses After FOMC — US stocks held losses on Wednesday as higher energy prices added to a less favorable macroeconomic backdrop. The S&P 500 and Dow were around 0.4% lower while the Dow fell a sharper 1%. Treasury yields rose after President Trump saw the ceasefire with Iran as invalidated following strikes by both sides, driving oil prices to surge and markets to reconsider inflationary risks. The risk of higher inflation was aligned with FOMC minutes showing some members made the case for a rate hike in June. Credit-sensitive sectors fell, with JPMorgan and Visa down 2%, while Home Depot and GE Vernovia sank 3%. Meanwhile, AI hyperscalers were mostly lower after worries of overspending in data center infrastructure weighed on the sector earlier this week, with Alphabet, Amazon, and Microsoft dropping more than 1%. On the other hand, Broadcom gained 5% after expanding its agreement with Apple on US-made components. Also, Nvidia gained 1% as Chinese firms planned to buy more H200 chips."
+    },
+    {
+      "id": "4977510",
+      "time": "2026-07-09 02:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在黎南部俘獲並打死黎真主黨武裝人員】當地時間8日，以色列國防軍宣佈，以軍7日在黎巴嫩南部賓特朱拜勒地區進行搜查行動期間，俘獲了一名黎巴嫩真主黨精銳“拉德萬部隊”成員，並打死了另一名真主黨武裝人員。以軍宣告稱，涉事區域上週曾發生襲擊並導致一名以軍預備役士兵重傷。以軍稱，被俘的黎真主黨成員已被轉移至以色列境內，目前正接受以軍審訊。"
+    },
+    {
+      "id": "4977509",
+      "time": "2026-07-09 02:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：啟動撤銷敘利亞恐怖主義認定程式。"
+    },
+    {
+      "id": "4977508",
+      "time": "2026-07-09 02:11:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【會議紀要顯示，美聯儲決策者在6月的會議上注意到通脹擔憂日益加劇】在上個月的美聯儲會議上，對高通脹的擔憂日益加劇。儘管官員們擔心物價上漲範圍正在擴大，可能需要加息，但他們仍跟隨美聯儲主席凱文·沃什的步伐，釋出了一份內容更為精簡的政策宣告。在6月16日至17日的會議上，少數與會者認為有理由立即加息。但週三公佈的會議紀要顯示，更廣泛的討論似乎意見均等：\"大多數與會者\"認為存在通脹會自行回落至美聯儲2%目標的場景，同時也認為存在通脹將持續高企的情況。\"幾乎所有\"持後一種觀點的與會者都認為，若出現這種情況，加息加息是必要的。會議紀要稱：“與會者普遍認為，會議間歇期收到的資訊表明，物價穩定的上行風險依然較高，而實現充分就業的下行風險則有所緩解。”最終，“所有與會者”均支援維持利率不變。"
+    },
     {
       "id": "mkt:019f42ec-bdb1-7aab-8cfc-1a1f43f28a27",
       "time": "2026-07-09 02:10:38",
@@ -146569,17 +146647,6 @@
         "MKT News"
       ],
       "text": "USGS reported a magnitude-5.5 earthquake in Jurm, Afghanistan."
-    },
-    {
-      "id": "te:markets:563531",
-      "time": "2026-07-02 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.58% — Top commodity losers are Natural Gas UK (-2.58%), Methanol (-2.34%), Brent Crude Oil (-2.18%) and Crude Oil WTI (-1.77%). Gains are led by Gasoline (1.97%)."
     }
   ]
 }
