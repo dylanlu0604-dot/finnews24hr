@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-09 01:24:23",
-  "count": 15956,
+  "updated": "2026-07-09 01:28:24",
+  "count": 15967,
   "items": [
+    {
+      "id": "4977439",
+      "time": "2026-07-09 01:27:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安： 作為北約空中警戒任務的一環，我方F-16戰機將於8月起部署至愛沙尼亞。 我國自去年10月接管北約科索沃維和部隊（KFOR）指揮權，該指揮工作將持續至2026年9月底。"
+    },
+    {
+      "id": "mkt:019f42c4-9cbc-7aab-8cfa-ed78b6bd5d9d",
+      "time": "2026-07-09 01:26:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General RUTTE said raising defense industrial output is vital and much work remains."
+    },
+    {
+      "id": "mkt:019f42c4-9194-7aab-8cfa-e445c693a592",
+      "time": "2026-07-09 01:26:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said there is no need to change how NATO deals with Trump, adding allies knew what they were getting when they chose him."
+    },
+    {
+      "id": "mkt:019f42c4-2ee5-7aab-8cfa-de10e43c5fb0",
+      "time": "2026-07-09 01:26:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said allies, after a brief dispute at the Ankara summit, have restored unity."
+    },
+    {
+      "id": "mkt:019f42c3-90c3-7aab-8cfa-d30ac5ff7ab8",
+      "time": "2026-07-09 01:25:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General RUTTE said open discussion strengthens NATO and that Russian President Putin should try the same in Russia."
+    },
+    {
+      "id": "4977438",
+      "time": "2026-07-09 01:25:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：綜合考量之下，央行目前已滿足政府提出的要求，因此相關要求並不算苛刻。"
+    },
+    {
+      "id": "4977437",
+      "time": "2026-07-09 01:25:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：擴大國防工業產能“至關重要”，仍有大量工作有待推進。"
+    },
+    {
+      "id": "4977436",
+      "time": "2026-07-09 01:25:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：無需調整與特朗普打交道的風格，盟友“當初選擇我時就清楚我是什麼樣的風格”。"
+    },
+    {
+      "id": "4977435",
+      "time": "2026-07-09 01:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：盟友們在經歷“一番爭執”後，在安卡拉峰會上凝聚共識、重新團結。"
+    },
+    {
+      "id": "4977434",
+      "time": "2026-07-09 01:24:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲，此前一度跌1.2%。"
+    },
+    {
+      "id": "4977433",
+      "time": "2026-07-09 01:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：開放討論讓北約更強大，普京應該在俄羅斯也這麼做。"
+    },
+    {
+      "id": "4977432",
+      "time": "2026-07-09 01:24:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：瑞士央行對瑞銀全額資本支援的分析基於公開資料。"
+    },
     {
       "id": "mkt:019f42c0-4fa7-7aab-8cfa-cb065ba0db33",
       "time": "2026-07-09 01:22:07",
@@ -38,6 +136,15 @@
         "國際"
       ],
       "text": "伊朗外長：用貶損言辭去談論伊朗民族，絲毫無法削弱這個國家的偉大。伊朗人民素來以溫文有禮、底蘊深厚的文化與崇高的道德品格著稱。我們不會以粗鄙回擊粗鄙，而是付諸行動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607093798833445",
+      "time": "2026-07-09 01:20:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲週三隔夜逆回購協議（RRP）使用規模為33.47億美元，上個交易日報44.84億美元。"
     },
     {
       "id": "mkt:019f42be-dcf8-7aab-8cfa-c10bb46ee460",
@@ -145741,22 +145848,6 @@
         "Important"
       ],
       "text": "IRNA reported Iran's deputy foreign minister said the Iranian delegation's talks in Doha have concluded."
-    },
-    {
-      "id": "mkt:019f1eb6-21b2-7aab-8c64-73adc45d3eac",
-      "time": "2026-07-02 01:24:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said commander Admiral Brad Cooper said the talks demonstrated \"our shared commitment to regional security and stability\"."
-    },
-    {
-      "id": "mkt:019f1eb5-fea4-7aab-8c64-6a6e70a49bb4",
-      "time": "2026-07-02 01:24:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM co-hosted a \"security dialogue\" with the Bahrain Defence Force; military officers from across the Middle East attended and delegates discussed \"strengthening regional defense cooperation\"."
     }
   ]
 }
