@@ -1,7 +1,223 @@
 {
   "date": "2026-07-08",
-  "count": 2955,
+  "count": 2976,
   "items": [
+    {
+      "id": "mkt:019f41d2-3d74-7aab-8cef-82dcd48aacd9",
+      "time": "2026-07-08 21:02:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF raised its 2026 global inflation forecast to 4.7% from 4.4% in April; projects 2027 inflation at 3.9%, up from 3.7%."
+    },
+    {
+      "id": "4976910",
+      "time": "2026-07-08 21:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：將2026年美國經濟增長預測維持在2.3%不變，將2027年預測上調至2.2%，高於之前的2.1%。"
+    },
+    {
+      "id": "mkt:019f41d1-ed07-7aab-8cef-7ec9a8a2fe42",
+      "time": "2026-07-08 21:01:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "IMF cuts Japan's 2026 GDP growth forecast to 0.6% from April's 0.7%; raises 2027 forecast by 0.1 percentage point to 0.7%."
+    },
+    {
+      "id": "mkt:019f41d1-d8fc-7aab-8cef-706dd52fd146",
+      "time": "2026-07-08 21:01:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "IMF maintained its 2026 US growth forecast at 2.3% and raised its 2027 forecast to 2.2% from 2.1%."
+    },
+    {
+      "id": "mkt:019f41d1-819a-7aab-8cef-6cac5460dcb3",
+      "time": "2026-07-08 21:01:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【IMF trims global growth forecast, raises China's 2026 outlook】The IMF on the 8th updated its World Economic Outlook, cutting its 2026 global growth forecast by 0.1ppt to 3.0% and raising China's 2026 growth forecast by 0.2ppt to 4.6%. It also lowered 2026 advanced-economy growth by 0.1ppt to 1.7% and trimmed emerging-market and developing-economy growth by 0.1ppt to 3.8%."
+    },
+    {
+      "id": "mkt:019f41d1-75fb-7aab-8cef-601207925f9e",
+      "time": "2026-07-08 21:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "International Monetary Fund projects India's GDP growth at 6.4% in 2026, down from the IMF's April forecast of 6.5%; projects 6.7% in 2027, up from April's 6.5%."
+    },
+    {
+      "id": "mkt:019f41d1-4646-7aab-8cef-5e0c812ce105",
+      "time": "2026-07-08 21:01:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "IMF downgraded its 2026 growth forecast for the eurozone to 0.9% from 1.1% in April; the 2027 forecast was unchanged at 1.2%."
+    },
+    {
+      "id": "4976909",
+      "time": "2026-07-08 21:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF下調世界經濟增長預期，上調中國增長預期】國際貨幣基金組織：將中東和中亞地區2026年增長預測從此前的1.9％下調至0.7％，同時將2027年預測從此前的4.6％上調至6.5％。將2026年歐元區經濟增長預測下調至0.9％，低於4月的1.1％；2027年預測維持在1.2％不變。"
+    },
+    {
+      "id": "mkt:019f41d1-0900-7aab-8cef-50ab9314e307",
+      "time": "2026-07-08 21:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF revises growth outlook for the Middle East and Central Asia: 2026 forecast cut to 0.7% from 1.9%; 2027 forecast raised to 6.5% from 4.6%."
+    },
+    {
+      "id": "4976908",
+      "time": "2026-07-08 21:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭戰爭：相信普京想完成這件事。"
+    },
+    {
+      "id": "mkt:019f41d0-c761-7aab-8cef-4be0b0b66475",
+      "time": "2026-07-08 21:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "Industrial Metals",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Night session open: most-active domestic futures contracts were higher. Fuel oil, low-sulfur fuel oil (LU) and SC crude rose nearly 4%; benzene, LPG, polypropylene (PP) and methanol gained over 2%. On the downside, Shanghai silver fell nearly 3%; Shanghai gold, LME copper, Shanghai copper, double-offset paper and Shanghai tin were down more than 1%."
+    },
+    {
+      "id": "mkt:019f41d0-bc1f-7aab-8cef-41d585c8d202",
+      "time": "2026-07-08 21:00:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said he will monitor developments before deciding whether to strike Iran again."
+    },
+    {
+      "id": "4976907",
+      "time": "2026-07-08 21:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：（談及伊朗）在決定是否再次打擊伊朗之前，我將先觀察事態的發展情況。"
+    },
+    {
+      "id": "4976906",
+      "time": "2026-07-08 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報473.90元。"
+    },
+    {
+      "id": "4976905",
+      "time": "2026-07-08 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3150.00元。"
+    },
+    {
+      "id": "4976904",
+      "time": "2026-07-08 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】燃料油連續漲3.86%，上海原油連續漲3.80%，低硫燃料油連續漲3.46%，碳酸鋰連續跌2.90%，白銀連續跌2.86%。"
+    },
+    {
+      "id": "4976903",
+      "time": "2026-07-08 20:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭戰爭是一場殘酷的戰爭。"
+    },
+    {
+      "id": "4976902",
+      "time": "2026-07-08 20:59:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月7日美國有效聯邦基金利率為3.63%，當日成交規模為1170億美元；7月6日有效聯邦基金利率同樣為3.63%，成交規模也為1170億美元。"
+    },
+    {
+      "id": "4976901",
+      "time": "2026-07-08 20:59:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄烏衝突：澤連斯基表現得十分出色。"
+    },
+    {
+      "id": "mkt:019f41cf-90f3-7aab-8cef-3c22e3f38757",
+      "time": "2026-07-08 20:59:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran must never possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019f41ce-b6d6-7aab-8cef-321cb39687ea",
+      "time": "2026-07-08 20:58:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iranians behaved extremely badly and that the U.S. struck them after they attacked ships in the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f41ce-7624-7aab-8cef-29ff35bebe46",
       "time": "2026-07-08 20:57:57",
