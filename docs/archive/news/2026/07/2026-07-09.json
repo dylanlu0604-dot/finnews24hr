@@ -1,7 +1,35 @@
 {
   "date": "2026-07-09",
-  "count": 607,
+  "count": 610,
   "items": [
+    {
+      "id": "4977631",
+      "time": "2026-07-09 05:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將哈雷戴維森評級下調至垃圾級，展望穩定。"
+    },
+    {
+      "id": "4977630",
+      "time": "2026-07-09 05:21:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "據IRNA：美國空襲伊朗布什爾的軍事基地。"
+    },
+    {
+      "id": "mkt:019f439b-b511-7aab-8cff-1ace9b4ddd01",
+      "time": "2026-07-09 05:21:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US launches fourth strike on Iran since mid-June memorandum】CNN reports the US struck targets in Iran on Wednesday (US time), in what is at least the fourth strike since a US‑Iran memorandum of understanding was signed in mid‑June. So far, retaliatory actions by both sides have remained below the scale and intensity seen during the conflict's early phase."
+    },
     {
       "id": "mkt:019f4398-e87a-7aab-8cff-120f0d1b7d0a",
       "time": "2026-07-09 05:18:42",
