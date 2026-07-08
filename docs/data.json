@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-08 12:31:40",
-  "count": 15978,
+  "updated": "2026-07-08 12:35:35",
+  "count": 15973,
   "items": [
+    {
+      "id": "mkt:019f4001-ee9d-7aab-8ce0-a8a1ab18f40e",
+      "time": "2026-07-08 12:34:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the circuit‑breaker mechanism on the KOSDAQ."
+    },
+    {
+      "id": "4975638",
+      "time": "2026-07-08 12:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗已故最高領袖哈梅內伊悼念活動在伊拉克南部舉行】當地時間8日6時起，伊朗已故最高領袖哈梅內伊悼念活動自伊拉克南部城市納傑夫開始舉行。據伊拉克官方此前公佈的安排，載有哈梅內伊靈柩的車隊將繼續駛往伊拉克南部城市卡爾巴拉，並於當天16時在該地繼續舉行悼念活動。2月28日，美國和以色列對伊朗發動軍事打擊，哈梅內伊在空襲中遇害。（央視新聞）"
+    },
+    {
+      "id": "4975637",
+      "time": "2026-07-08 12:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後下跌1.3%，至184,005.50點。"
+    },
+    {
+      "id": "mkt:019f4000-4e6c-7aab-8ce0-a4c5a4bc5fc2",
+      "time": "2026-07-08 12:33:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Korea Exchange activated a circuit-breaker on the KOSPI index."
+    },
+    {
+      "id": "4975636",
+      "time": "2026-07-08 12:32:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。"
+    },
+    {
+      "id": "4975635",
+      "time": "2026-07-08 12:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【桑坦德改組亞太企業及投行部門】媒體援引知情人士的話報道，桑坦德在亞太區負責人Alberto Rivero的領導下，改組亞太企業和投資銀行部門，並加強了對員工的監督。"
+    },
+    {
+      "id": "te:markets:565088",
+      "time": "2026-07-08 12:31:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Losses as Higher Oil Prices Weigh — India’s BSE Sensex fell 0.7% to 77,609 on Wednesday, following losses in the last session, as rising crude oil prices and escalating geopolitical tensions in the Middle East dampened investor sentiment. Oil prices climbed after renewed tensions between the United States and Iran raised concerns over potential supply disruptions. Broader risk appetite also weakened after Asian markets tracked overnight declines on Wall Street. Investors remained focused on the upcoming earnings season, with Tata Consultancy Services due to report results, while technology stocks were also in focus following reports that Chinese AI startup DeepSeek could reduce reliance on global chipmakers. Among corporate news, HCLTech remained in focus over acquisition integration, and Orchid Pharma licensed an antibiotic in Russia. Early losers included South Indian Bank (-9.1%), Hindustan (3.7%), Cochin Shipyard (-2.6%), Reliance (-1.9%), InterGlobe (-1.8%), and State Bank of India (-1.1%)."
+    },
     {
       "id": "mkt:019f3ffe-0ac7-7aab-8ce0-9e75fe66b397",
       "time": "2026-07-08 12:30:41",
@@ -146328,103 +146393,6 @@
         "國際"
       ],
       "text": "日本豐田將於8月1日起在日本全國範圍內銷售美國製造的漢蘭達車型。"
-    },
-    {
-      "id": "4964217",
-      "time": "2026-07-01 12:35:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本最高外匯官員三村淳：美國政府官員發表了支援貨幣措施的言論。"
-    },
-    {
-      "id": "4964216",
-      "time": "2026-07-01 12:34:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：將新興市場股票中的化工及其他材料（化肥、石化）板塊評級上調至中性。"
-    },
-    {
-      "id": "4964215",
-      "time": "2026-07-01 12:34:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼統計局：1-5月煤炭出口量為1.4356億公噸。"
-    },
-    {
-      "id": "4964214",
-      "time": "2026-07-01 12:34:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼統計局資料顯示，1-5月印尼出口892萬噸毛棕櫚油及精煉棕櫚油。"
-    },
-    {
-      "id": "4964213",
-      "time": "2026-07-01 12:34:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武裝人員襲擊奈及利亞學校 39名師生遭綁架 】奈及利亞東北部博爾諾州政府6月30日說，該州一所學校前一天遭到多名武裝人員襲擊，至少一名教師死亡，36名學生和3名教師遭綁架。襲擊事件發生在博爾諾州阿斯基拉-烏巴地區的一所中學。事發時學生們正在參加畢業考試。美聯社援引博爾諾州州長發言人所發宣告報道，被綁架學生包括25名女生和11名男生，年齡在15歲到18歲之間。博爾諾州教育部門負責人拉萬·阿巴·瓦基爾貝說，正與安全部門和社群合作，以確保被綁架師生安全返回。暫無組織宣稱制造了此次襲擊和綁架事件。"
-    },
-    {
-      "id": "4964212",
-      "time": "2026-07-01 12:34:15",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：將新興市場股票能源板塊評級下調至中性。"
-    },
-    {
-      "id": "4964211",
-      "time": "2026-07-01 12:33:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：將新興市場股票中的網際網路/媒體與娛樂板塊評級下調至中性。"
-    },
-    {
-      "id": "4964210",
-      "time": "2026-07-01 12:33:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克政府力爭將2026年通貨膨脹率降至10%以下。"
-    },
-    {
-      "id": "4964209",
-      "time": "2026-07-01 12:33:28",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "哈薩克經濟部資料顯示，6月份哈薩克消費者物價指數（CPI）同比上漲10.3%。"
-    },
-    {
-      "id": "4964208",
-      "time": "2026-07-01 12:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：與印度的合作日益重要。"
-    },
-    {
-      "id": "4964207",
-      "time": "2026-07-01 12:32:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "日元對美元跌幅略有收窄，穩定在162.60日元左右，此前日本財務官員就外匯市場發表評論。"
-    },
-    {
-      "id": "4964206",
-      "time": "2026-07-01 12:31:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本最高外匯官員三村淳：日美之間的合作“比以往任何時候都更加緊密”，貨幣干預是有效的。"
     }
   ]
 }

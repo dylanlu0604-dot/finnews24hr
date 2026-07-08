@@ -1,7 +1,72 @@
 {
   "date": "2026-07-08",
-  "count": 1292,
+  "count": 1299,
   "items": [
+    {
+      "id": "mkt:019f4001-ee9d-7aab-8ce0-a8a1ab18f40e",
+      "time": "2026-07-08 12:34:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the circuit‑breaker mechanism on the KOSDAQ."
+    },
+    {
+      "id": "4975638",
+      "time": "2026-07-08 12:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗已故最高領袖哈梅內伊悼念活動在伊拉克南部舉行】當地時間8日6時起，伊朗已故最高領袖哈梅內伊悼念活動自伊拉克南部城市納傑夫開始舉行。據伊拉克官方此前公佈的安排，載有哈梅內伊靈柩的車隊將繼續駛往伊拉克南部城市卡爾巴拉，並於當天16時在該地繼續舉行悼念活動。2月28日，美國和以色列對伊朗發動軍事打擊，哈梅內伊在空襲中遇害。（央視新聞）"
+    },
+    {
+      "id": "4975637",
+      "time": "2026-07-08 12:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後下跌1.3%，至184,005.50點。"
+    },
+    {
+      "id": "mkt:019f4000-4e6c-7aab-8ce0-a4c5a4bc5fc2",
+      "time": "2026-07-08 12:33:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Korea Exchange activated a circuit-breaker on the KOSPI index."
+    },
+    {
+      "id": "4975636",
+      "time": "2026-07-08 12:32:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。"
+    },
+    {
+      "id": "4975635",
+      "time": "2026-07-08 12:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【桑坦德改組亞太企業及投行部門】媒體援引知情人士的話報道，桑坦德在亞太區負責人Alberto Rivero的領導下，改組亞太企業和投資銀行部門，並加強了對員工的監督。"
+    },
+    {
+      "id": "te:markets:565088",
+      "time": "2026-07-08 12:31:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Losses as Higher Oil Prices Weigh — India’s BSE Sensex fell 0.7% to 77,609 on Wednesday, following losses in the last session, as rising crude oil prices and escalating geopolitical tensions in the Middle East dampened investor sentiment. Oil prices climbed after renewed tensions between the United States and Iran raised concerns over potential supply disruptions. Broader risk appetite also weakened after Asian markets tracked overnight declines on Wall Street. Investors remained focused on the upcoming earnings season, with Tata Consultancy Services due to report results, while technology stocks were also in focus following reports that Chinese AI startup DeepSeek could reduce reliance on global chipmakers. Among corporate news, HCLTech remained in focus over acquisition integration, and Orchid Pharma licensed an antibiotic in Russia. Early losers included South Indian Bank (-9.1%), Hindustan (3.7%), Cochin Shipyard (-2.6%), Reliance (-1.9%), InterGlobe (-1.8%), and State Bank of India (-1.1%)."
+    },
     {
       "id": "mkt:019f3ffe-0ac7-7aab-8ce0-9e75fe66b397",
       "time": "2026-07-08 12:30:41",
