@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-09 05:15:19",
-  "count": 16115,
+  "updated": "2026-07-09 05:19:16",
+  "count": 16114,
   "items": [
+    {
+      "id": "mkt:019f4398-e87a-7aab-8cff-120f0d1b7d0a",
+      "time": "2026-07-09 05:18:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Rezaei, an adviser to Iran's supreme leader, said: 'Whoever attacks you should be struck back in the same way they attacked you. Aggressors and their accomplices will face severe punishment.'"
+    },
+    {
+      "id": "4977629",
+      "time": "2026-07-09 05:15:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.10%，報14869點。"
+    },
     {
       "id": "4977628",
       "time": "2026-07-09 05:14:44",
@@ -147345,36 +147365,6 @@
         "國際"
       ],
       "text": "伊拉克安全訊息人士：載彈無人機襲擊伊拉克埃爾比勒以東的伊朗庫爾德反對派組織營地。"
-    },
-    {
-      "id": "mkt:019f1f8b-6299-7aab-8c66-7b74afb289dd",
-      "time": "2026-07-02 05:17:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple plans new iPad Pro and redesigned entry-level MacBook Pro for 2027】US tech reporter Mark Gurman reported Apple is planning upgraded iPad Pro models and a redesigned entry-level MacBook Pro for 2027. Apple is testing four iPad Pro models targeted for spring 2027; sizes will remain 11-inch and 13-inch. Upgrades are focused on internal changes, including faster chips. Apple has tested vapor-chamber heat-spread (VC liquid cooling) for iPads to improve sustained performance and reduce overheating. Separately, Apple plans a redesigned entry-level 14-inch MacBook Pro, codename K104, due in 1H 2027; its design will align with an upcoming high-end touch-screen MacBook expected late this year to early next year."
-    },
-    {
-      "id": "4965947",
-      "time": "2026-07-02 05:17:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列定居者突襲約旦河西岸佔領區多個城鎮的民居與土地。"
-    },
-    {
-      "id": "4965946",
-      "time": "2026-07-02 05:15:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.35%，報15300點。"
     }
   ]
 }

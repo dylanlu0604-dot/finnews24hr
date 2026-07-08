@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 605,
+  "count": 607,
   "items": [
+    {
+      "id": "mkt:019f4398-e87a-7aab-8cff-120f0d1b7d0a",
+      "time": "2026-07-09 05:18:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Rezaei, an adviser to Iran's supreme leader, said: 'Whoever attacks you should be struck back in the same way they attacked you. Aggressors and their accomplices will face severe punishment.'"
+    },
+    {
+      "id": "4977629",
+      "time": "2026-07-09 05:15:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.10%，報14869點。"
+    },
     {
       "id": "4977628",
       "time": "2026-07-09 05:14:44",
