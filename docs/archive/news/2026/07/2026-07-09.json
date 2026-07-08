@@ -1,7 +1,42 @@
 {
   "date": "2026-07-09",
-  "count": 548,
+  "count": 552,
   "items": [
+    {
+      "id": "mkt:019f436a-8724-7aab-8cfe-6a7257966146",
+      "time": "2026-07-09 04:28:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported power outages in parts of Chabahar after explosions."
+    },
+    {
+      "id": "4977597",
+      "time": "2026-07-09 04:27:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社：恰巴哈爾部分地區發生爆炸後出現停電。"
+    },
+    {
+      "id": "mkt:019f4369-3ae0-7aab-8cfe-679402073d2c",
+      "time": "2026-07-09 04:26:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Citigroup maintains its base-case view, forecasting average Brent crude at $75/bbl in 3Q26."
+    },
+    {
+      "id": "4977596",
+      "time": "2026-07-09 04:26:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行表示，基準情景下 2026 年第三季度布倫特原油均價維持每桶 75 美元。"
+    },
     {
       "id": "4977595",
       "time": "2026-07-09 04:23:06",

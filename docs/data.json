@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-09 04:24:39",
-  "count": 16103,
+  "updated": "2026-07-09 04:28:33",
+  "count": 16100,
   "items": [
+    {
+      "id": "mkt:019f436a-8724-7aab-8cfe-6a7257966146",
+      "time": "2026-07-09 04:28:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported power outages in parts of Chabahar after explosions."
+    },
+    {
+      "id": "4977597",
+      "time": "2026-07-09 04:27:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社：恰巴哈爾部分地區發生爆炸後出現停電。"
+    },
+    {
+      "id": "mkt:019f4369-3ae0-7aab-8cfe-679402073d2c",
+      "time": "2026-07-09 04:26:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Citigroup maintains its base-case view, forecasting average Brent crude at $75/bbl in 3Q26."
+    },
+    {
+      "id": "4977596",
+      "time": "2026-07-09 04:26:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行表示，基準情景下 2026 年第三季度布倫特原油均價維持每桶 75 美元。"
+    },
     {
       "id": "4977595",
       "time": "2026-07-09 04:23:06",
@@ -147190,64 +147225,6 @@
         "Brent"
       ],
       "text": "US President Trump said vessels are leaving the Strait of Hormuz."
-    },
-    {
-      "id": "4965917",
-      "time": "2026-07-02 04:28:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯為特朗普有關伊朗戰事的談判舉措辯護，稱美方正藉助軍事力量推進和平談判；他同時承認，相較於歷任總統，特朗普對軍方提出了更高要求。"
-    },
-    {
-      "id": "4965916",
-      "time": "2026-07-02 04:27:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：油價正在下跌。"
-    },
-    {
-      "id": "4965915",
-      "time": "2026-07-02 04:27:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大量船隻正駛出霍爾木茲海峽。"
-    },
-    {
-      "id": "4965914",
-      "time": "2026-07-02 04:26:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭：基輔市中心發生爆炸並引發火災。"
-    },
-    {
-      "id": "4965913",
-      "time": "2026-07-02 04:26:06",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：特朗普賬戶的繳存資金將全部投向SPYM交易所交易基金（ETF），SPYM將設為所有賬戶的預設投資標的，特朗普專屬賬戶配置清單還包含IVV、VTI、SPTM、ITOT產品。"
-    },
-    {
-      "id": "mkt:019f1f5b-d88c-7aab-8c66-3517337bb534",
-      "time": "2026-07-02 04:25:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the US has built the most advanced submarines ever and is 15 years ahead of rivals in submarines and several other areas."
-    },
-    {
-      "id": "4965912",
-      "time": "2026-07-02 04:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市頻頻創下歷史新高。"
     }
   ]
 }
