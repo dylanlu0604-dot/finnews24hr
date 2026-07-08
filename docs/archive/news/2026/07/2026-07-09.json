@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 425,
+  "count": 427,
   "items": [
+    {
+      "id": "mkt:019f430f-472f-7aab-8cfc-c6cb59082303",
+      "time": "2026-07-09 02:48:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Vice President Vance said Iran must fulfill relevant commitments or face consequences similar to those of last night. U.S. military action will continue unless Iran stops firing on vessels."
+    },
+    {
+      "id": "mkt:019f430c-214e-7aab-8cfc-b86ea1ad3526",
+      "time": "2026-07-09 02:44:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said Trump has made clear the Strait of Hormuz will remain open."
+    },
     {
       "id": "mkt:019f430b-a596-7aab-8cfc-b2db7b6f617a",
       "time": "2026-07-09 02:44:24",

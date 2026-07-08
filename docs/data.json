@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-09 02:44:59",
-  "count": 16066,
+  "updated": "2026-07-09 02:48:45",
+  "count": 16062,
   "items": [
+    {
+      "id": "mkt:019f430f-472f-7aab-8cfc-c6cb59082303",
+      "time": "2026-07-09 02:48:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Vice President Vance said Iran must fulfill relevant commitments or face consequences similar to those of last night. U.S. military action will continue unless Iran stops firing on vessels."
+    },
+    {
+      "id": "mkt:019f430c-214e-7aab-8cfc-b86ea1ad3526",
+      "time": "2026-07-09 02:44:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said Trump has made clear the Strait of Hormuz will remain open."
+    },
     {
       "id": "mkt:019f430b-a596-7aab-8cfc-b2db7b6f617a",
       "time": "2026-07-09 02:44:24",
@@ -146776,54 +146796,6 @@
         "Impact bearish"
       ],
       "text": "Mexico's economy minister said negotiators failed to agree on tariffs for steel and aluminum, and there are disputes over excluding regional content rules for auto parts from consideration and over seasonal provisions for agricultural products."
-    },
-    {
-      "id": "4965860",
-      "time": "2026-07-02 02:46:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長： 墨西哥汽車行業的原產地規則屬於全球最為複雜的一類。"
-    },
-    {
-      "id": "mkt:019f1f00-9c1c-7aab-8c65-41975fb05e54",
-      "time": "2026-07-02 02:46:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's economy minister said discussions on rules-of-origin standards must continue, noting systemic differences remain."
-    },
-    {
-      "id": "mkt:019f1f00-9b85-7aab-8c65-3e7ec90c759d",
-      "time": "2026-07-02 02:46:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's rules of origin for the auto sector are among the world's most complex, the economy minister said."
-    },
-    {
-      "id": "mkt:019f1f00-893d-7aab-8c65-331d52eea24c",
-      "time": "2026-07-02 02:45:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's economy minister said Canada’s participation should be monitored over the coming weeks."
-    },
-    {
-      "id": "4965859",
-      "time": "2026-07-02 02:45:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥經濟部長：我們仍需就原產地規則判定標準展開磋商，雙方在此問題上存在系統性分歧。"
-    },
-    {
-      "id": "4965858",
-      "time": "2026-07-02 02:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：烏方至今未掌握“北溪”爆炸案全部調查細節】當地時間7月1日，烏克蘭總統澤連斯基在都柏林與愛爾蘭總理馬丁舉行的聯合新聞釋出會上表示，烏方至今未正式獲取“北溪”天然氣管道爆炸案的全部調查細節，也不掌握該案完整的調查流程及相關資訊。他稱，烏方將與德國相關機構開展對接溝通，待獲取完整調查細節後，將就該案作出正式回應。當天早些時候，德國方面訊息稱，德國聯邦檢察院已對一名涉嫌參與破壞“北溪”天然氣管道的烏克蘭籍嫌疑人提起公訴。（央視新聞）"
     }
   ]
 }
