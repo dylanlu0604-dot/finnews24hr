@@ -1,7 +1,146 @@
 {
-  "updated": "2026-07-08 14:30:21",
-  "count": 16053,
+  "updated": "2026-07-08 14:34:16",
+  "count": 16054,
   "items": [
+    {
+      "id": "mkt:019f406e-126e-7aab-8ce3-346af5f57199",
+      "time": "2026-07-08 14:33:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech prime minister says the country will not meet this year’s 2% of GDP defence-spending target."
+    },
+    {
+      "id": "4975846",
+      "time": "2026-07-08 14:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克總理巴比什表示，捷克今年將無法實現國防支出佔GDP 2%的目標。"
+    },
+    {
+      "id": "mkt:019f406d-a08f-7aab-8ce3-29ea9fc5bb20",
+      "time": "2026-07-08 14:32:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan and South Korea stocks fall; KOSPI down over 5%】Japan's Nikkei 225 fell 1,437.91 points (-2.11%) to 66,819.05 on July 8. South Korea's KOSPI dropped 409.53 points (-5.35%) to 7,246.78 on July 8; the index briefly triggered an intraday temporary suspension mechanism. KOSPI is about 20% below its June high and is approaching a technical bear market."
+    },
+    {
+      "id": "te:markets:565125",
+      "time": "2026-07-08 14:32:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Extend Rally — UK natural gas prices rose further to above 114 pence a therm on Wednesday, the highest in almost a month, as renewed tensions in the Middle East stoked fears of a new wave of supply disruptions. The US military launched strikes against Iran and revoked a license permitting the country to sell oil after three merchant vessels were struck in the Strait of Hormuz, including a Qatari LNG tanker. The fresh attacks threaten the interim deal reached last month that had reopened the vital shipping route. Additional support came from forecasts of an intense heatwave across parts of Northwest Europe, which is expected to boost electricity demand for air conditioning and increase gas-fired power generation. This comes amid a slower-than-usual pace of seasonal storage replenishment. Moreover, flows from Norway, currently the region's largest single pipeline supplier, fell slightly after seasonal maintenance was extended."
+    },
+    {
+      "id": "4975845",
+      "time": "2026-07-08 14:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ETF兩市成交額超5000億元】截至目前，ETF兩市成交額報5011.13億元，分型別來看，債券型ETF成交額2016.66億元，貨幣型ETF成交額241.20億元，商品型ETF成交額46.89億元，QDII型ETF成交額648.70億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、港股創新藥ETF（513120）、科創50ETF（588000），成交額分別為132.47億元、77.22億元、67.69億元。"
+    },
+    {
+      "id": "4975844",
+      "time": "2026-07-08 14:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織：西南太平洋區域高溫加劇多重災害風險】世界氣象組織7日釋出報告說，2025年，西南太平洋區域氣溫創下有記錄以來第二高，海洋熱浪更加頻繁，海水酸化加劇，海平面持續上升，沿海社群和低窪島國的經濟和生態等面臨持續威脅。"
+    },
+    {
+      "id": "mkt:019f406c-abb3-7aab-8ce3-244d5380661e",
+      "time": "2026-07-08 14:31:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "South Korean won gains over 1% against the US dollar."
+    },
+    {
+      "id": "4975843",
+      "time": "2026-07-08 14:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓元對美元升值超1%。"
+    },
+    {
+      "id": "4975842",
+      "time": "2026-07-08 14:31:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【日韓股市收跌 韓股跌超5%】日經225指數7月8日（週三）收盤下跌1437.91點，跌幅2.11%，報66819.05點。韓國KOSPI指數7月8日（週三）收盤下跌409.53點，跌幅5.35%，報7246.78點，該指數盤中一度觸發“臨時停牌”機制，目前已較6月高位回落約20%，逼近技術性熊市。"
+    },
+    {
+      "id": "4975841",
+      "time": "2026-07-08 14:30:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國埃頓集團創始人、總裁博龍一行到訪天奇股份】7月7日，法國埃頓集團創始人、總裁博龍（Joachim Poylo）一行到訪天奇股份。座談會上，雙方重點圍繞一體化物理AI解決方案進行深入交流。雙方表示，將立足各自核心優勢，積極推進務實合作，攜手推動具身智慧與數字孿生技術的產業融合與全球落地。"
+    },
+    {
+      "id": "4975840",
+      "time": "2026-07-08 14:30:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛總統 ：對立陶宛安全而言，北約第五條集體防禦條款必須堅不可摧。"
+    },
+    {
+      "id": "4975839",
+      "time": "2026-07-08 14:30:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經股價平均指數跌破67000點。"
+    },
+    {
+      "id": "te:markets:565124",
+      "time": "2026-07-08 14:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.15% Lower — The Nikkei 225 Index fell 786 points or 1.15 percent on Wednesday to close at 67471 points. Leading the losses are Taiyo Yuden (-8.22%), Mitsui Mining & Smelting (-5.79%) and Taisei (-5.41%)."
+    },
+    {
+      "id": "4975838",
+      "time": "2026-07-08 14:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金剛光伏、中國信達等投資新設企管合夥企業】企查查APP顯示，近日，天津隴金信企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；企業管理諮詢。企查查股權穿透顯示，該企業由金剛光伏、中國信達旗下鑫盛利保股權投資有限公司等共同出資。"
+    },
+    {
+      "id": "4975837",
+      "time": "2026-07-08 14:29:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【住房城鄉建設部：協調應急排水隊伍裝備支援廣西做好排水搶險工作】記者今天從住房城鄉建設部獲悉，颱風“美莎克”引發的強降雨導致廣西貴港、欽州、防城港發生外洪入城，部分居民小區地下室、隧道橋涵等區域積水較重。住房城鄉建設部高度重視，指導支援地方做好排水搶險工作。應廣西方面請求，住房城鄉建設部排程國家城市排水防澇應急廣州基地、昆明基地，共安排3支隊伍、28輛應急排澇泵車趕赴災區現場。截至7月7日晚，已經完成1處下穿隧道，2處地下車庫，5個居民小區抽排任務，累計抽排量3.3萬立方米。（央視新聞）"
+    },
     {
       "id": "mkt:019f406a-fdff-7aab-8ce3-1cc1ac17df2a",
       "time": "2026-07-08 14:29:41",
@@ -146891,138 +147030,6 @@
         "AI Revolution"
       ],
       "text": "【Joyson Electronics to unveil robotic dexterous hand, semi-solid-state battery solution】Joyson Electronics will unveil a robotic dexterous hand, a solid-liquid hybrid energy solution (semi-solid-state battery), an embodied AI brain and a third-generation AI head assembly at the 2026 World Artificial Intelligence Conference."
-    },
-    {
-      "id": "4964349",
-      "time": "2026-07-01 14:33:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元在本地時間下午3:30在岸市場收報1,554.9，創2009年3月以來最低。"
-    },
-    {
-      "id": "mkt:019f1c62-1e02-7aab-8c4d-4d239758728f",
-      "time": "2026-07-01 14:33:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Domestic fuel prices likely to return to 7 yuan/liter range】China's next refined fuel pricing window opens July 3 at 24:00; the 13th pricing cycle is about 70% complete with three statutory working days remaining. Assessed retail price declines have widened for six consecutive days, increasing from an initial ~0.40 yuan/liter cut to more than 0.65 yuan/liter. Downward momentum looks difficult to reverse; Friday night's adjustment is likely to produce a third consecutive price cut this year — the first three-in-a-row drop of the year and the fourth cut overall — potentially pushing retail gasoline back into the 7 yuan/liter band."
-    },
-    {
-      "id": "4964348",
-      "time": "2026-07-01 14:33:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額超300億元】7月1日下午，中際旭創成交額超300億元，現跌4.49%。"
-    },
-    {
-      "id": "4964347",
-      "time": "2026-07-01 14:33:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚能電池減資至約26.7億】天眼查App顯示，近日，武漢蔚能電池資產有限公司發生工商變更，註冊資本由約28.1億人民幣減至約26.7億人民幣。該公司成立於2020年8月，法定代表人為賴曉明，經營範圍包括電動汽車充電基礎設施運營、蓄電池租賃、電池銷售、儲能技術服務、資源再生利用技術研發等。股東資訊顯示，該公司由蔚來控股有限公司、寧德時代（300750）、山東威達（002026）等共同持股。"
-    },
-    {
-      "id": "te:economy:563290",
-      "time": "2026-07-01 14:33:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Manufacturing Returns to Growth — Russia’s S&P Global Manufacturing PMI rose to 50.3 in June from 48.8 in May, signaling the first improvement in factory activity in over a year and the strongest operating conditions since January 2025. Output expanded at the fastest pace since January 2025, while new orders stabilized after 12 months of decline. Meanwhile, new export orders fell at the sharpest rate since September 2025. Employment declined further as firms did not replace voluntary leavers, though the pace of job shedding eased markedly from May's record. On prices, both input cost and selling price inflation softened, despite supplier delivery times lengthening to the greatest extent since January 2026 due to logistics disruptions and import challenges following the war in the Middle East. Purchasing activity increased as firms prepared for stronger demand. Lastly, sentiment weakened to a three-month low amid concerns over customers' purchasing power, despite expectations for higher output over the coming year."
-    },
-    {
-      "id": "4964346",
-      "time": "2026-07-01 14:32:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【油價或重返7元時代】按照國內成品油價格調整週期安排，7月3日24時將開啟第13輪調價視窗，目前僅剩餘3個統計工作日，本輪計價週期進度完成70%。據大眾日報，本輪週期內油價跌幅持續拓寬，連續6天不斷加深，從開局下跌4毛多擴大至當前超6毛5，大幅下調趨勢基本難以逆轉，本週五晚間或將迎來年內首次油價三連降，也是今年第4次降價。截至當前第7個工作日測算資料：預計汽油下調820元/噸、柴油下調790元/噸。折算零售終端單價：預計92號汽油每升降0.66元，95號汽油每升降0.7元，0號柴油每升降0.68元。6月前兩輪調價已經實現二連降，汽柴油累計下調1040元/噸、1000元/噸，摺合每升累計降價0.84至0.89元，92號汽油已跌破8元，重回7元區間。待本輪下調落地後，全國95號汽油或將跌破8元，再度進入7元時代。 （中新經緯）"
-    },
-    {
-      "id": "mkt:019f1c60-26a8-7aab-8c4d-47484bcb0c2e",
-      "time": "2026-07-01 14:31:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "300274.SZ",
-        "Impact bearish"
-      ],
-      "text": "【Sungrow Power shares near limit down after report US drafting inverter import ban; company says operations normal】On July 1 Sungrow Power shares opened sharply lower and intraday approached the daily down limit after foreign media reported the Trump administration is drafting an import ban on foreign solar inverters, citing concerns China could use such equipment to disrupt power supply. The draft reportedly would target new-model foreign inverters and could be issued as soon as this year. At midday Sungrow's board office said production and operations were normal and that external triggers for the share move were being verified. Asked about possible pressure on overseas business, the company said it has local subsidiaries in several markets, including the United States, for localized operations, but declined to disclose regional subsidiaries' performance or headcount; the board office does not hold detailed data."
-    },
-    {
-      "id": "4964345",
-      "time": "2026-07-01 14:31:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤漲跌互現】日經225指數收漲0.59%，報70474.96點。韓國綜指收跌2.04%，報8303.41點。"
-    },
-    {
-      "id": "4964344",
-      "time": "2026-07-01 14:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1186.08美元/盎司。"
-    },
-    {
-      "id": "mkt:019f1c60-1249-7aab-8c4d-3c36de6a66c1",
-      "time": "2026-07-01 14:31:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index closed down 173.07 points, or 2.04%, at 8,303.41 on Wednesday, July 1."
-    },
-    {
-      "id": "4964343",
-      "time": "2026-07-01 14:31:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德銀策略師：美股二季度企業盈利有望大幅超預期】德意志銀行表示，宏觀經濟向好態勢與科技板塊景氣度提升，將支撐美國企業二季度盈利突破此前較高市場預期。由班吉姆・查達領銜的該行策略師團隊撰文稱，全球製造業採購經理人指數大幅回升、油價走高、美元走弱，疊加人工智慧相關業務盈利快速增長，多重因素共同推動美股企業盈利同比增速有望達到 29.3%，較市場一致預期高出約 3 個百分點。機構給出的二季度企業業績指引整體極為樂觀，市場由此上調標普 500 指數盈利增速一致預期至 26.2%，該數值不僅高於一季度 25.2% 的四年峰值，更是歷次非衰退復甦週期財報季預期最高紀錄的兩倍。"
-    },
-    {
-      "id": "mkt:019f1c5f-f6ac-7aab-8c4d-314e5a4bfaa6",
-      "time": "2026-07-01 14:31:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 closed up 412.64 points, or 0.59%, at 70,474.96 on Wednesday, July 1."
-    },
-    {
-      "id": "4964342",
-      "time": "2026-07-01 14:30:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "沙特央行5月央行境外淨資產為1.743萬億里亞爾。"
-    },
-    {
-      "id": "4964341",
-      "time": "2026-07-01 14:30:21",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士5月實際零售銷售年率 3.5%，前值1.60%。"
     }
   ]
 }
