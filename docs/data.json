@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-09 05:24:23",
-  "count": 16115,
+  "updated": "2026-07-09 05:28:17",
+  "count": 16117,
   "items": [
+    {
+      "id": "mkt:019f439f-77eb-7aab-8cff-2e7abc74ba23",
+      "time": "2026-07-09 05:25:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he will immediately petition the US Supreme Court to rehear a birthright citizenship case."
+    },
+    {
+      "id": "4977632",
+      "time": "2026-07-09 05:25:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：就出生地公民權問題向最高法院申請複審。"
+    },
+    {
+      "id": "mkt:019f439e-6ce3-7aab-8cff-2501da0e6a33",
+      "time": "2026-07-09 05:24:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Mehr News Agency said Iran's air-defense system shot down an 'enemy drone' in southern Iran."
+    },
     {
       "id": "4977631",
       "time": "2026-07-09 05:23:18",
@@ -147369,14 +147396,6 @@
         "國際"
       ],
       "text": "俄羅斯沙赫德無人機襲擊後，基輔市中心的首相宮殿酒店起火。"
-    },
-    {
-      "id": "4965949",
-      "time": "2026-07-02 05:25:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【必和必拓申請15億美元智利銅礦重啟專案審批】必和必拓集團已提交一份環境影響評估報告，計劃斥資15億美元重啟旗下位於智利北部的科羅拉多山銅礦，目標將礦山開採年限再延長20年。該方案擬重新運營這座地處塔拉帕卡大區的礦山；該礦此前因環境許可到期，已於2023年停產。必和必拓表示，該專案將創造約1500個施工崗位，以及3000餘個長期運營崗位。"
     }
   ]
 }
