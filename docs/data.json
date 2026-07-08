@@ -1,7 +1,177 @@
 {
-  "updated": "2026-07-08 09:37:42",
-  "count": 15907,
+  "updated": "2026-07-08 09:41:37",
+  "count": 15914,
   "items": [
+    {
+      "id": "mkt:019f3f62-9deb-7aab-8cdb-821ab1581b1a",
+      "time": "2026-07-08 09:40:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian media report blasts in Bahrain】Iranian media reported on the 8th that multiple explosions were heard in Bahrain; no further details were provided and Bahraini authorities had not commented. The report follows recent U.S. strikes on Iranian military facilities; Iran had said it would quickly retaliate against U.S. facilities in Bahrain and other Gulf states."
+    },
+    {
+      "id": "4975330",
+      "time": "2026-07-08 09:40:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上期所低硫燃油主力合約大漲5%】上期所低硫燃油主力合約大漲5%，報3962元/噸。"
+    },
+    {
+      "id": "4975329",
+      "time": "2026-07-08 09:40:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報3961.00元。"
+    },
+    {
+      "id": "mkt:019f3f62-0850-7aab-8cdb-7fca31048b8b",
+      "time": "2026-07-08 09:40:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan 10-year JGB yield hits highest since September 1996】Local time July 8, the newly issued 10-year Japanese government bond (JGB) yield, a gauge of long-term rates, rose as high as 2.865% intraday — the strongest level since September 1996."
+    },
+    {
+      "id": "mkt:019f3f61-d4e3-7aab-8cdb-71a7f7db93ff",
+      "time": "2026-07-08 09:40:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drugs sector surged intraday; Taiji Group hit the daily limit. Yahong Pharmaceutical, Saisheng Pharmaceutical, Shanghai RAAS, Meidixi and Yuekang Pharmaceutical also advanced."
+    },
+    {
+      "id": "4975328",
+      "time": "2026-07-08 09:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體8日報道，巴林傳出多次爆炸聲。報道沒有提供更多細節，巴林方面尚未有任何表態。 此前，美軍對伊朗軍事設施發動打擊後，伊朗方面很快會對位於巴林等海灣國家的美軍設施發動報復性打擊。（新華社）"
+    },
+    {
+      "id": "4975327",
+      "time": "2026-07-08 09:39:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊短線拉昇，太極集團漲停】創新藥板塊短線拉昇，太極集團漲停，亞虹醫藥、賽升藥業、上海萊士、美迪西、悅康藥業跟漲。"
+    },
+    {
+      "id": "mkt:019f3f61-0c99-7aab-8cdb-6b4163da937f",
+      "time": "2026-07-08 09:39:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01989.HK",
+        "Impact bullish"
+      ],
+      "text": "Guanghe Technology (01989.HK) shares rose over 6% after the company guided 1H net profit could increase by up to 95.29% YoY."
+    },
+    {
+      "id": "4975326",
+      "time": "2026-07-08 09:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）：JustAnswer因誤導性定價陳述及誤導性關聯關係宣告，將支付1000萬澳元罰款。"
+    },
+    {
+      "id": "mkt:019f3f60-2f17-7aab-8cdb-647fdb082167",
+      "time": "2026-07-08 09:38:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robot concept stocks opened sharply lower: Estun Automation hit the daily limit-down, Fengguang Precision fell over 10%, and peers Lude Harmonic, Dayang Motor, Julun Intelligent, Rifa Precision and Orbbec also declined."
+    },
+    {
+      "id": "mkt:019f3f5f-d908-7aab-8cdb-5a46bfde1e08",
+      "time": "2026-07-08 09:37:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01177.HK",
+        "Impact bullish"
+      ],
+      "text": "HK-listed China Biopharma (01177.HK) shares rose more than 6% after the company agreed an exclusive licensing deal with AstraZeneca for TQC3721."
+    },
+    {
+      "id": "mkt:019f3f5f-95f2-7aab-8cdb-506e7d47367e",
+      "time": "2026-07-08 09:37:36",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian (RIVN.O) priced an underwritten public offering of 75 million common shares at $15.50 each, raising about $1.2 billion."
+    },
+    {
+      "id": "4975325",
+      "time": "2026-07-08 09:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股晶片股集體反彈，上海復旦漲超10%】港股晶片股集體反彈，上海復旦漲超10%，華虹宏力漲超6%，中芯國際、壁仞科技漲近4%，英諾賽科漲超2%。"
+    },
+    {
+      "id": "4975324",
+      "time": "2026-07-08 09:37:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股石油股走強 中國海洋石油漲超4%】截至發稿，中國海洋石油(00883.HK)漲4.17%，中國石油股份(00857.HK)漲3.91%，中海油田服務(02883.HK)漲2.23%。"
+    },
+    {
+      "id": "4975323",
+      "time": "2026-07-08 09:37:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4975322",
+      "time": "2026-07-08 09:37:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念股盤初下挫，埃斯頓觸及跌停】人形機器人概念股盤初下挫，埃斯頓觸及跌停，豐光精密跌超10%，綠的諧波、大洋電機、巨輪智慧、日發精機、奧比中光跟跌。"
+    },
+    {
+      "id": "4975321",
+      "time": "2026-07-08 09:37:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江海事局啟動第9號颱風“巴威”Ⅲ級防颱應急響應】今天（7月8日）早晨5時，今年第9號颱風“巴威”的中心位於臺灣基隆市東偏南方向約1650公里的洋麵上，預計未來“巴威”將以每小時20-25公里的速度向偏西方向移動。根據颱風態勢及走向，浙江海事局決定於7月8日8時啟動Ⅲ級防颱應急響應。"
+    },
     {
       "id": "mkt:019f3f5e-9cf4-7aab-8cdb-4ab6377ab9cd",
       "time": "2026-07-08 09:36:32",
@@ -145721,102 +145891,6 @@
         "市場"
       ],
       "text": "【電子化學品板塊持續走高 金宏氣體20CM漲停】電子化學品板塊持續走高，方邦股份、華特氣體、三孚新科、廣鋼氣體、中巨芯、興福電子盤中創新高，金宏氣體20CM漲停，中船特氣、矽烷科技、思泉新材、濮陽惠成、瑞聯新材跟漲。"
-    },
-    {
-      "id": "4963971",
-      "time": "2026-07-01 09:41:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【泰晶科技全系列晶振產品上漲10%-30%】記者6月30日從知情人士處獲悉，國內晶振龍頭企業泰晶科技已向合作伙伴釋出價格調整通知函，宣佈即日起對全系列晶振產品實施價格上調，各品類漲幅區間為10%—30%。其中，新接訂單自調價函發出當日生效，所有未交訂單則自2026年7月1日發貨日起執行新價格標準。對於本次調價，知情人士表示，主要受國際局勢與全球大宗商品市場持續波動影響，基座、上蓋、靶材、銀膠及金銀鎢等貴金屬核心原材料價格大幅走高。相關資料顯示，2026年以來，65%黑鎢精礦價格已上漲125%，而自2025年初至今累計漲幅更高達619%；金銀等貴金屬價格同樣維持高位。該人士補充稱，公司此前已透過最佳化生產工藝、提升管理效率、整合供應鏈等方式努力內部消化成本增量，但全品類原材料及零部件的綜合採購成本自2025年以來累計上漲超過60%，遠超企業自身承載能力，漲價成為必然選擇。 (藍鯨科技)"
-    },
-    {
-      "id": "4963970",
-      "time": "2026-07-01 09:41:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工擬透過股票發行和CB銷售籌集2000億日元。"
-    },
-    {
-      "id": "4963969",
-      "time": "2026-07-01 09:40:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "川崎重工逆轉漲勢，下跌5.1%。"
-    },
-    {
-      "id": "4963968",
-      "time": "2026-07-01 09:40:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念快速拉昇 時空科技漲停創歷史新高】儲存晶片概念快速拉昇，時空科技漲停，創歷史新高，金太陽漲超10%，夏農芯創、朗科科技、北京君正、普冉股份、佰維儲存跟漲。"
-    },
-    {
-      "id": "mkt:019f1b54-1269-7aab-8c48-4cd3417076cc",
-      "time": "2026-07-01 09:38:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share storage chip sector rallied again in early trade; Duofluoride posted a third consecutive limit-up, Yawei hit the daily limit, Jinhong Gas jumped over 15%, and Lanxiao Technology, Jintaiyang, Fuman Micro, Shikong Technology and Shannon Xinchuang also rose."
-    },
-    {
-      "id": "4963967",
-      "time": "2026-07-01 09:38:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國鐵路暑運今天啟動 8月31日結束】為期62天的全國鐵路暑期運輸今天（1日）啟動至8月31日結束，暑運期間，全國鐵路預計傳送旅客10.1億人次，日均傳送旅客1629萬人次。"
-    },
-    {
-      "id": "mkt:019f1b53-c537-7aab-8c48-422169e15e8a",
-      "time": "2026-07-01 09:38:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share electronic specialty gases sector extended gains; Jinhong Gas advanced more than 15%, Shudao Equipment rose over 10%, while Guanggang Gas, Haohua Technology, Zhengfan Technology and China Ship Special Gases also moved higher."
-    },
-    {
-      "id": "4963966",
-      "time": "2026-07-01 09:38:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【四川長虹：旗下歐洲空調業務今年前5個月銷售規模創新高】7月1日，證券時報記者從四川長虹方面瞭解到，長虹空調2026年1—5月，在歐洲累計出貨量與銷售規模已創新高，增長勢頭強勁。長虹面向歐洲市場的核心空調產品已於6月上市。下一步，公司將結合歐洲差異化需求與安裝場景持續豐富產品矩陣，快速、精準響應市場需求。"
-    },
-    {
-      "id": "4963965",
-      "time": "2026-07-01 09:38:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體晶片股繼續走強，敏芯股份、格科微、中穎電子漲超10%，鍇威特、富滿微、東微半導等漲超6%。"
-    },
-    {
-      "id": "4963964",
-      "time": "2026-07-01 09:38:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量134億元。"
     }
   ]
 }
