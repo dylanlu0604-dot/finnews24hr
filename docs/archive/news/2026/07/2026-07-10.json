@@ -1,7 +1,76 @@
 {
   "date": "2026-07-10",
-  "count": 106,
+  "count": 113,
   "items": [
+    {
+      "id": "4979614",
+      "time": "2026-07-10 01:34:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲公開市場賬戶經理佩爾利： 實行集中清算的常設回購工具將提升該工具的吸引力與效用。 紐約聯儲已準備落實聯邦公開市場委員會要求的任何資產負債表調整舉措。儲備管理購債並無預設執行路徑。 聯邦公開市場委員會允許紐約聯儲靈活開展儲備管理購債操作。 短期國庫券增發將在一定程度上推動貨幣市場流動性收緊。"
+    },
+    {
+      "id": "mkt:019f47f1-5546-7aab-8d1e-fb8045232c4f",
+      "time": "2026-07-10 01:33:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed Open Market Account manager Perli said she is ready to execute any balance-sheet adjustments authorized by the FOMC."
+    },
+    {
+      "id": "mkt:019f47f0-e68a-7aab-8d1e-f3389a209a28",
+      "time": "2026-07-10 01:33:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "New York Fed Open Market Account manager Perli said money-market conditions may tighten if Treasury bill issuance increases."
+    },
+    {
+      "id": "mkt:019f47ef-8ca6-7aab-8d1e-ef21f92a6e7e",
+      "time": "2026-07-10 01:31:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve's Logan said strong markets must balance leverage use."
+    },
+    {
+      "id": "mkt:019f47ef-5dad-7aab-8d1e-e72112183ea8",
+      "time": "2026-07-10 01:31:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official Logan offered no comments on monetary policy or the economy."
+    },
+    {
+      "id": "4979613",
+      "time": "2026-07-10 01:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭向美國提供本國無人機用於測試。"
+    },
+    {
+      "id": "4979612",
+      "time": "2026-07-10 01:30:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提醒：美聯儲Logan並未置評FOMC貨幣政策或美國經濟前景。"
+    },
     {
       "id": "mkt:019f47e8-e6bb-7aab-8d1e-dcadef0020d5",
       "time": "2026-07-10 01:24:33",
