@@ -1,7 +1,77 @@
 {
   "date": "2026-07-09",
-  "count": 1190,
+  "count": 1198,
   "items": [
+    {
+      "id": "mkt:019f44a0-f392-7aab-8d05-62b65efde196",
+      "time": "2026-07-09 10:07:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【By end‑May, China basic medical insurance enrollment up over 4 mln YoY】China's National Healthcare Security Administration said at a routine briefing on 1H 2026 work that as of end‑May basic medical insurance enrollment was more than 4 million higher year‑on‑year and the participation rate remained steady at 95%."
+    },
+    {
+      "id": "te:markets:565470",
+      "time": "2026-07-09 10:07:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Rebound on Dovish PBOC Signals — The Shanghai Composite rose 0.2% to 3,978, while the Shenzhen Component gained 0.5% to 15,020 on Thursday, rebounding from one-month lows as investors welcomed the People's Bank of China's commitment to maintaining an accommodative policy stance. The central bank signaled that it would keep monetary policy appropriately loose and step up financial support to boost domestic consumption, while acknowledging an imbalance between strong supply and weak demand. The PBOC has kept rates and reserve requirement ratios unchanged, focusing instead on refining its policy framework and transmission mechanisms. On the economic front, annual consumer inflation eased to a three-month low of 1% in June from 1.2% in May, while producer inflation rose to 4.1% from 3.9%, the fastest pace since July 2022. Technology stocks led gains, with Zhongji Innolight (3.3%), Eoptolink Technology (2.9%), and NAURA Technology (2.7%) advancing, while energy shares also rose, led by PetroChina (1.2%) and CNOOC (1.2%)."
+    },
+    {
+      "id": "4977986",
+      "time": "2026-07-09 10:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省紀委監委原一級巡視員饒瑜珠接受審查調查】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：貴州省紀委監委原一級巡視員饒瑜珠涉嫌嚴重違紀違法，經貴州省紀委監委指定管轄，目前正接受貴陽市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4977985",
+      "time": "2026-07-09 10:05:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌8%，現報2342.00點。"
+    },
+    {
+      "id": "mkt:019f449f-b5b2-7aab-8d05-5eb9f3d75bc4",
+      "time": "2026-07-09 10:05:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract fell 8.00% intraday to 2,342.0 points."
+    },
+    {
+      "id": "4977984",
+      "time": "2026-07-09 10:05:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮接受紀律審查和監察調查】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4977983",
+      "time": "2026-07-09 10:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將LG電子目標價從180,000韓元上調至280,000韓元。"
+    },
+    {
+      "id": "4977982",
+      "time": "2026-07-09 10:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅收窄至0.2%，此前一度漲超4%。"
+    },
     {
       "id": "mkt:019f449d-24bf-7aab-8d05-534e0d974574",
       "time": "2026-07-09 10:02:56",
