@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10 01:27:21",
-  "count": 15874,
+  "updated": "2026-07-10 01:31:13",
+  "count": 15867,
   "items": [
     {
       "id": "mkt:019f47e8-e6bb-7aab-8d1e-dcadef0020d5",
@@ -145026,71 +145026,6 @@
         "公司"
       ],
       "text": "【亞馬遜最新一批衛星升空 為今年提供網際網路服務並挑戰星鏈鋪平道路】聯合發射聯盟(United Launch Alliance)的一枚火箭將亞馬遜公司29顆衛星送入太空，為該公司今年晚些時候啟動寬頻服務、從而挑戰SpaceX佔據主導地位的星鏈(Starlink)網路鋪平了道路。搭載最新一批亞馬遜Leo衛星的Atlas V火箭於當地時間週四凌晨00:30從佛羅里達州卡納維拉爾角太空軍基地升空。"
-    },
-    {
-      "id": "mkt:019f23e1-5908-7aab-8c81-f21a36105200",
-      "time": "2026-07-03 01:29:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google (GOOG.O): GTIG estimates the NetNut botnet at 2 million devices worldwide."
-    },
-    {
-      "id": "mkt:019f23e0-f313-7aab-8c81-ea56014c6c99",
-      "time": "2026-07-03 01:29:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google (GOOG.O) disabled Google accounts used by NetNut for malware command-and-control."
-    },
-    {
-      "id": "mkt:019f23e0-940f-7aab-8c81-e729d8e1d28f",
-      "time": "2026-07-03 01:29:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) has taken action against the NetNut residential proxy network, also known as POPA."
-    },
-    {
-      "id": "4968170",
-      "time": "2026-07-03 01:29:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：GTIG估計Netnut殭屍網路在全球擁有200萬臺裝置。"
-    },
-    {
-      "id": "4968169",
-      "time": "2026-07-03 01:28:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：已停用NetNut用於惡意軟體指揮與控制的谷歌賬號。"
-    },
-    {
-      "id": "4968168",
-      "time": "2026-07-03 01:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：已對NETNUT住宅代理網路（亦稱POPA）採取行動。"
-    },
-    {
-      "id": "4968167",
-      "time": "2026-07-03 01:28:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：加拿大將維持不列顛哥倫比亞省北海岸外海域的油輪禁令。"
     }
   ]
 }
