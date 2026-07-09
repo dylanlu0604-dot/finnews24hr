@@ -1,7 +1,40 @@
 {
   "date": "2026-07-10",
-  "count": 136,
+  "count": 140,
   "items": [
+    {
+      "id": "4979628",
+      "time": "2026-07-10 02:00:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行：預計二季度GDP增長0.2%。"
+    },
+    {
+      "id": "4979627",
+      "time": "2026-07-10 02:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克： Anthropic 目前是人工智慧領域的領跑者。"
+    },
+    {
+      "id": "mkt:019f4809-65db-7aab-8d1f-5eadf0b657e7",
+      "time": "2026-07-10 02:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission Executive Vice-President Dombrovskis said discussion of an EU \"safe asset\" is not new and remains relevant."
+    },
+    {
+      "id": "mkt:019f4807-f69a-7aab-8d1f-579619489a1a",
+      "time": "2026-07-10 01:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US coordinating Israel, Lebanon to implement southern Lebanon \"pilot zone\" arrangements】Axios says CENTCOM is coordinating Israel and Lebanon to push implementation of arrangements for a southern Lebanon \"pilot zone.\" A Rome meeting will hold closed-door consultations; senior Israeli and Lebanese negotiators will then hand the issue to technical teams. The US says it will soon engage international partners to assist the Lebanese government in restoring sovereign control over the area and more broadly across the country."
+    },
     {
       "id": "te:economy:565785",
       "time": "2026-07-10 01:56:33",

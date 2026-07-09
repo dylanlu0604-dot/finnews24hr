@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-10 01:57:56",
-  "count": 15870,
+  "updated": "2026-07-10 02:01:44",
+  "count": 15863,
   "items": [
+    {
+      "id": "4979628",
+      "time": "2026-07-10 02:00:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行：預計二季度GDP增長0.2%。"
+    },
+    {
+      "id": "4979627",
+      "time": "2026-07-10 02:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克： Anthropic 目前是人工智慧領域的領跑者。"
+    },
+    {
+      "id": "mkt:019f4809-65db-7aab-8d1f-5eadf0b657e7",
+      "time": "2026-07-10 02:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission Executive Vice-President Dombrovskis said discussion of an EU \"safe asset\" is not new and remains relevant."
+    },
+    {
+      "id": "mkt:019f4807-f69a-7aab-8d1f-579619489a1a",
+      "time": "2026-07-10 01:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US coordinating Israel, Lebanon to implement southern Lebanon \"pilot zone\" arrangements】Axios says CENTCOM is coordinating Israel and Lebanon to push implementation of arrangements for a southern Lebanon \"pilot zone.\" A Rome meeting will hold closed-door consultations; senior Israeli and Lebanese negotiators will then hand the issue to technical teams. The US says it will soon engage international partners to assist the Lebanese government in restoring sovereign control over the area and more broadly across the country."
+    },
     {
       "id": "te:economy:565785",
       "time": "2026-07-10 01:56:33",
@@ -144955,101 +144988,6 @@
         "其他"
       ],
       "text": "英國工黨領袖候選人伯納姆：我將履行職責，為國防開支計劃提供足額資金。"
-    },
-    {
-      "id": "4968193",
-      "time": "2026-07-03 02:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆：主張將水務、能源、交通行業更多收歸公有管控。"
-    },
-    {
-      "id": "4968192",
-      "time": "2026-07-03 02:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會：批准比利時5.67億歐元第四筆資金撥付申請。"
-    },
-    {
-      "id": "4968191",
-      "time": "2026-07-03 02:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會：批准葡萄牙23.2億歐元第九筆資金撥付申請。"
-    },
-    {
-      "id": "4968190",
-      "time": "2026-07-03 01:59:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆： 主張上調倉儲物業的商業房產稅。"
-    },
-    {
-      "id": "mkt:019f23fc-a7f8-7aab-8c82-6afd08effc70",
-      "time": "2026-07-03 01:59:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK prime minister candidate Burnham said he is highly disciplined on public finances."
-    },
-    {
-      "id": "4968189",
-      "time": "2026-07-03 01:59:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部、國稅局接受以股票形式向特朗普相關賬戶出資。"
-    },
-    {
-      "id": "mkt:019f23fc-11e6-7aab-8c82-60f37723f196",
-      "time": "2026-07-03 01:59:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime ministerial candidate Burnham said he wants to end trickle-down economics."
-    },
-    {
-      "id": "mkt:019f23fb-9f88-7aab-8c82-5b15829ad065",
-      "time": "2026-07-03 01:58:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime minister candidate Burnham said he has decided to engage in politics in a new way."
-    },
-    {
-      "id": "4968188",
-      "time": "2026-07-03 01:58:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆：在公共財政問題上，我並非我行我素不受約束。"
-    },
-    {
-      "id": "mkt:019f23fb-5248-7aab-8c82-5301d9d5cc37",
-      "time": "2026-07-03 01:58:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime minister candidate Burnham says he will uphold the Labour Party's tax pledge."
-    },
-    {
-      "id": "4968187",
-      "time": "2026-07-03 01:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆： 我將恪守工黨競選宣言中的稅收相關政策。"
     }
   ]
 }
