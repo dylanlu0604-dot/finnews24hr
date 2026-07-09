@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-10 06:16:44",
-  "count": 15866,
+  "updated": "2026-07-10 06:20:33",
+  "count": 15865,
   "items": [
+    {
+      "id": "4979797",
+      "time": "2026-07-10 06:17:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北向資金二季度持倉市值增長5400億元】滬深股通2026年二季度持股資料7月8日公佈。統計資料顯示，截至6月30日，北向資金共持有3958只個股，合計持股約1078.46億股，持股數較一季度末增加了39.07億股。以二季度末的股價計算，北向資金持倉總規模約3.13萬億元，較2026年一季度末的2.58萬億元增長了5430.37億元。重倉股統計資料顯示，截至2026年二季度末，寧德時代為北向資金的頭號重倉股，中際旭創、北方華創、美的集團、貴州茅臺、中微公司、新易盛、瀾起科技、立訊精密、招商銀行等個股緊隨其後。 (上證報)"
+    },
     {
       "id": "te:markets:565802",
       "time": "2026-07-10 06:15:13",
@@ -144900,30 +144908,6 @@
         "國際"
       ],
       "text": "市場訊息：巴西政府出臺面向歐盟肉類出口的新規。"
-    },
-    {
-      "id": "te:economy:563889",
-      "time": "2026-07-03 06:18:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Nigeria",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Nigeria 10Y Bond Yield Hits 12-month High — Nigeria 10 Year Government Bond Yield increased to 18.55%, the highest since June 2025. Over the past 4 weeks, Nigeria 10Y Bond Yield gained 358.20 basis points, and in the last 12 months, it increased 17.60 basis points."
-    },
-    {
-      "id": "mkt:019f24e8-9d7f-7aab-8c85-8989d6f35665",
-      "time": "2026-07-03 06:17:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "INTC.O",
-        "Impact mixed"
-      ],
-      "text": "【Trump dodges question on potential US 5% OpenAI stake, highlights US 10% Intel holding】In a CNBC interview, Trump declined to say whether the US would take a 5% stake in OpenAI after a Financial Times report on a potential deal, instead highlighting the US government's stake in Intel. He cited last August's $8.9bn investment in Intel common stock that gave the US government a 10% holding and said he had demanded a 10% stake in return for fixing the company's problems."
     }
   ]
 }
