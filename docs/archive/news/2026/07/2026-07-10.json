@@ -1,7 +1,29 @@
 {
   "date": "2026-07-10",
-  "count": 366,
+  "count": 368,
   "items": [
+    {
+      "id": "4979772",
+      "time": "2026-07-10 05:22:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技：推出面向亞馬遜雲科技的Loom。"
+    },
+    {
+      "id": "mkt:019f48c3-00be-7aab-8d21-b92e18a03a78",
+      "time": "2026-07-10 05:22:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services (AWS) launched AWS Loom."
+    },
     {
       "id": "4979771",
       "time": "2026-07-10 05:21:37",
