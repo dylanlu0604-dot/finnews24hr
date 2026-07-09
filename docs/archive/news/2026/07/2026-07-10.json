@@ -1,7 +1,55 @@
 {
   "date": "2026-07-10",
-  "count": 500,
+  "count": 505,
   "items": [
+    {
+      "id": "te:markets:565815",
+      "time": "2026-07-10 07:46:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Steadies as US-Iran Talks Continue — Brent held near $76 per barrel on Friday after dropping about 2% in the previous session, as reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities that disrupted energy shipments through the Strait of Hormuz. Even so, international benchmark Brent remained on track to advance about 6% for the week after US forces carried out strikes on targets in Iran over two consecutive days in response to recent attacks on vessels in Hormuz, triggering retaliatory attacks by Tehran on US bases across the region. President Donald Trump also raised doubts about the interim peace agreement following the renewed fighting, declaring that the deal was over. Shipping traffic through Hormuz slowed sharply this week, with markets closely monitoring whether transit activity will normalize. The strategic waterway continues to be a key sticking point in ongoing US-Iran negotiations."
+    },
+    {
+      "id": "4979880",
+      "time": "2026-07-10 07:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建維持防颱風Ⅲ級應急響應】今年第9號颱風“巴威”今天（7月10日）05時中心位於臺灣基隆市東南方向約830公里的洋麵上（北緯20.4度、東經128.0度），中心附近最大風力14級（45米/秒，強颱風級）。預計，“巴威”將以每小時20～25公里的速度向西北方向移動，逐漸向福建中部到浙江南部沿海靠近，將於11日晚上在福建福清至浙江溫嶺一帶沿海登陸。受其影響，今天，閩外漁場、釣魚島海域、閩東漁場最大風力11～14級、陣風14～16級。颱風中心經過的附近海域風力可達14～15級、陣風16～17級。閩中漁場、閩南漁場最大風力10～13級、陣風13～16級。中北部沿海海區最大風力9～11級、陣風12～14級。臺灣淺灘漁場、南部沿海海區最大風力6～8級、陣風8～10級。福建省防指維持防颱風Ⅲ級應急響應。"
+    },
+    {
+      "id": "4979879",
+      "time": "2026-07-10 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤上漲0.09點。"
+    },
+    {
+      "id": "4979878",
+      "time": "2026-07-10 07:46:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.47%。"
+    },
+    {
+      "id": "te:markets:565814",
+      "time": "2026-07-10 07:45:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies as US-Iran Talks Continue — Crude oil held near $72 per barrel on Friday after dropping about 2% in the previous session, as reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities that disrupted energy shipments through the Strait of Hormuz. Even so, US benchmark WTI remained on track to advance more than 4% for the week after US forces carried out strikes on targets in Iran over two consecutive days in response to recent attacks on vessels in Hormuz, triggering retaliatory attacks by Tehran on US bases across the region. President Donald Trump also raised doubts about the interim peace agreement following the renewed fighting, declaring that the deal was over. Shipping traffic through Hormuz slowed sharply this week, with markets closely monitoring whether transit activity will normalize. The strategic waterway continues to be a key sticking point in ongoing US-Iran negotiations."
+    },
     {
       "id": "4979877",
       "time": "2026-07-10 07:45:15",

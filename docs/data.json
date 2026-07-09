@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-10 07:45:51",
+  "updated": "2026-07-10 07:49:45",
   "count": 15869,
   "items": [
+    {
+      "id": "te:markets:565815",
+      "time": "2026-07-10 07:46:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Steadies as US-Iran Talks Continue — Brent held near $76 per barrel on Friday after dropping about 2% in the previous session, as reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities that disrupted energy shipments through the Strait of Hormuz. Even so, international benchmark Brent remained on track to advance about 6% for the week after US forces carried out strikes on targets in Iran over two consecutive days in response to recent attacks on vessels in Hormuz, triggering retaliatory attacks by Tehran on US bases across the region. President Donald Trump also raised doubts about the interim peace agreement following the renewed fighting, declaring that the deal was over. Shipping traffic through Hormuz slowed sharply this week, with markets closely monitoring whether transit activity will normalize. The strategic waterway continues to be a key sticking point in ongoing US-Iran negotiations."
+    },
+    {
+      "id": "4979880",
+      "time": "2026-07-10 07:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建維持防颱風Ⅲ級應急響應】今年第9號颱風“巴威”今天（7月10日）05時中心位於臺灣基隆市東南方向約830公里的洋麵上（北緯20.4度、東經128.0度），中心附近最大風力14級（45米/秒，強颱風級）。預計，“巴威”將以每小時20～25公里的速度向西北方向移動，逐漸向福建中部到浙江南部沿海靠近，將於11日晚上在福建福清至浙江溫嶺一帶沿海登陸。受其影響，今天，閩外漁場、釣魚島海域、閩東漁場最大風力11～14級、陣風14～16級。颱風中心經過的附近海域風力可達14～15級、陣風16～17級。閩中漁場、閩南漁場最大風力10～13級、陣風13～16級。中北部沿海海區最大風力9～11級、陣風12～14級。臺灣淺灘漁場、南部沿海海區最大風力6～8級、陣風8～10級。福建省防指維持防颱風Ⅲ級應急響應。"
+    },
+    {
+      "id": "4979879",
+      "time": "2026-07-10 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤上漲0.09點。"
+    },
+    {
+      "id": "4979878",
+      "time": "2026-07-10 07:46:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.47%。"
+    },
+    {
+      "id": "te:markets:565814",
+      "time": "2026-07-10 07:45:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies as US-Iran Talks Continue — Crude oil held near $72 per barrel on Friday after dropping about 2% in the previous session, as reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities that disrupted energy shipments through the Strait of Hormuz. Even so, US benchmark WTI remained on track to advance more than 4% for the week after US forces carried out strikes on targets in Iran over two consecutive days in response to recent attacks on vessels in Hormuz, triggering retaliatory attacks by Tehran on US bases across the region. President Donald Trump also raised doubts about the interim peace agreement following the renewed fighting, declaring that the deal was over. Shipping traffic through Hormuz slowed sharply this week, with markets closely monitoring whether transit activity will normalize. The strategic waterway continues to be a key sticking point in ongoing US-Iran negotiations."
+    },
     {
       "id": "4979877",
       "time": "2026-07-10 07:45:15",
@@ -144897,48 +144945,6 @@
         "國際"
       ],
       "text": "【中東局勢不確定性持續之際，日經指數或維持區間震盪】隨著中東衝突的不確定性持續，日本股市可能維持區間震盪。新加坡交易所的日經指數期貨持平於68675點。在令人失望的美國就業資料公佈後，美元報161.31日元，較週四東京股市收盤時的162.25日元下跌。投資者正關注美伊和平談判的任何進展以及原油價格。日經指數週四下跌2.5%，至68733.15點。"
-    },
-    {
-      "id": "4968421",
-      "time": "2026-07-03 07:49:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：全球半導體裝置2028市場規模有望較2025翻倍】中信建投研報預測：（1）2028年全球半導體制造企業資本開支有望達到3417億美元，較2025年的1681億美元大幅增長103.3%，實現翻倍。資本開支的大幅上調直接傳導至裝置端；（2）2028年全球前道半導體裝置市場（WFE）規模達到2414億美元，較2025年增長約108%；（3）2028年全球后道半導體裝置市場規模約383億美元，較2025年的161.6億美元大幅增長136.9%，按下游需求排序，儲存（+150%）> 晶圓代工（+91.4%）。中國市場在經歷了2025/2026年去庫存以後，2027年有望恢復強勁增長。"
-    },
-    {
-      "id": "4968420",
-      "time": "2026-07-03 07:48:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯燃油短缺引發電動汽車搶購熱潮】隨著俄羅斯多地出現燃油短缺，加油站大排長龍、油價飆升，莫斯科一家汽車經銷商正努力滿足消費者不斷增長的電動汽車需求。最近幾周，烏克蘭對俄羅斯能源基礎設施的襲擊不斷升級，導致汽油和柴油供應趨緊，迫使俄羅斯大多數地區實施供應限制措施。據媒體測算，俄羅斯部分地區的零售汽油價格已升至歐洲最高水平之列。日益嚴峻的燃油供應問題正促使一些車主轉向電動汽車。專注於中國品牌的EN Cars創始人Yevgeniy Zabelin週三告訴媒體，目前該公司每天能售出兩到三輛電動汽車，而幾周前銷量還僅為每月兩到三輛。“由於燃料供應形勢變得複雜，需求已增長數倍，”他說，並補充道，無論是經濟車型還是高階車型，消費者的興趣都在上升。據分析機構Autostat和俄羅斯工業貿易部資料，今年前五個月，俄羅斯插電式混合動力新車銷量約為24,600輛，同比增長125%；純電動汽車銷量則增長19%，達到4,460輛。"
-    },
-    {
-      "id": "4968419",
-      "time": "2026-07-03 07:47:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美法院裁定特朗普政府不得無聽證長期拘押移民】當地時間7月2日，美國第五巡迴上訴法院裁定，美國移民與海關執法局（ICE）不得依據特朗普政府的大規模拘押政策，在不給予保釋聽證機會的情況下，將移民拘押超過90天。該裁決可能影響得克薩斯州、路易斯安那州等第五巡迴轄區內數千名被拘押人員。美國國土安全部暫未回應置評請求。"
-    },
-    {
-      "id": "mkt:019f253a-c49d-7aab-8c85-da2714377b55",
-      "time": "2026-07-03 07:47:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fifth Circuit bars ICE from detaining immigrants beyond 90 days without bond hearings under Trump-era policy】On July 2, the U.S. Fifth Circuit Court of Appeals ruled that U.S. Immigration and Customs Enforcement may not detain immigrants for more than 90 days without offering bond hearings under a Trump-era mass detention policy. The decision could affect thousands of detainees in the Fifth Circuit, including in Texas and Louisiana."
-    },
-    {
-      "id": "4968418",
-      "time": "2026-07-03 07:45:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.24點。"
     }
   ]
 }
