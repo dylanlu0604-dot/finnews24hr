@@ -1,7 +1,25 @@
 {
   "date": "2026-07-10",
-  "count": 368,
+  "count": 370,
   "items": [
+    {
+      "id": "mkt:019f48cb-5582-7aab-8d21-c0727b3d802f",
+      "time": "2026-07-10 05:31:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "NewsNation reported US officials say technical-level talks with Iran are continuing; Washington remains committed to seeking a solution and reiterated that Iran must never possess nuclear weapons."
+    },
+    {
+      "id": "4979773",
+      "time": "2026-07-10 05:31:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員就伊朗問題表態：美國仍致力於尋求解決方案，技術性談判仍在繼續。"
+    },
     {
       "id": "4979772",
       "time": "2026-07-10 05:22:51",
