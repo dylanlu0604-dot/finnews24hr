@@ -1,7 +1,126 @@
 {
   "date": "2026-07-09",
-  "count": 2713,
+  "count": 2725,
   "items": [
+    {
+      "id": "te:markets:565703",
+      "time": "2026-07-09 20:20:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises as Softer Dollar Offsets Middle East Uncertainty — Silver rose to around $59 an ounce on Thursday, supported by a weaker US dollar, although gains remained limited as investors monitored escalating tensions in the Middle East and their potential impact on inflation and interest rates. The US military said it launched fresh strikes on Iran on Wednesday, prompting retaliatory attacks on Kuwait and Bahrain and raising regional tensions. However, US President Donald Trump said Iran had reached out seeking a deal, easing fears of a broader conflict. Meanwhile, minutes from the Federal Reserve's latest meeting revealed growing concern over inflation, with several policymakers arguing that a rate hike could be warranted before rates were ultimately left unchanged last month. Markets are now pricing in a 63% chance of a September rate hike. Investors are now awaiting next week's US inflation report and Federal Reserve Chair Kevin Warsh's congressional testimony for further clues on the policy outlook."
+    },
+    {
+      "id": "mkt:019f46d2-2975-7aab-8d16-2ef8b6ba2b40",
+      "time": "2026-07-09 20:20:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Trade Representative Greer said President Trump has multiple options regarding Spain."
+    },
+    {
+      "id": "mkt:019f46d2-2832-7aab-8d16-2718ff8ea639",
+      "time": "2026-07-09 20:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US initial jobless claims for the week ended Jul 4 due in 10 minutes."
+    },
+    {
+      "id": "4979154",
+      "time": "2026-07-09 20:19:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國PCE年度更新“意義重大” 或令年內不加息的理由略佔上風】美聯儲所看重的通脹指標即將進行調整。即便這一變動不會從根本上改變整體通脹格局，但也可能足以讓今年不加息的理由略佔上風。這是經濟學家們對美國經濟分析局定於9月公佈的個人消費支出(PCE)價格指數年度更新所作出的初步判斷。多位經濟學家表示，如果計劃中的調整已適用於最新資料，核心通脹率可能會被下調約0.1至接近0.3個百分點。個人消費支出價格指數5月同比上漲4.1%，為2023年4月以來最大漲幅，遠高於美聯儲2%的目標。核心PCE —— 因剔除了波動較大的食品和能源價格而更受決策者倚重的指標 —— 上漲3.4%。"
+    },
+    {
+      "id": "4979153",
+      "time": "2026-07-09 20:19:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨跌0.05%，標普500指數期貨漲0.20%，納指期貨漲0.78%。\n②德國DAX指數漲0.21%，英國富時100指數跌0.61%，法國CAC40指數漲0.47%，歐洲斯托克50指數漲0.74%。\n③WTI原油漲0.04%，報73.54美元/桶。布倫特原油漲0.58%，報78.48美元/桶。\n④會議紀要顯示，美聯儲決策者在6月的會議上注意到通脹擔憂日益加劇，少數官員主張6月加息。\n⑤據伊朗伊斯蘭共和國廣播電視臺報道，伊朗軍隊當天在回應美軍襲擊的行動中使用“海巴爾·舍坎”新型彈道導彈打擊了多個美軍基地，併發射巡航導彈襲擊了停泊在巴林海岸附近的美國艦艇。\n⑥美銀證券最新發布半導體產業報告指出，近期半導體類股回撥屬於市場正常修正，而非AI需求轉弱的訊號。\n⑦Meta盤前跌2%。備忘錄顯示，Meta計劃於9月開始生產“Iris”AI晶片，計劃明年將計算能力翻倍至14吉瓦，Meta今年計劃部署7吉瓦的計算基礎設施。\n⑧微軟股價盤前下跌1%。軟宣佈裁員4800人，約佔其全球員工總數的2.1%，其中涉及1600名Xbox遊戲機部門的員工。\n⑨閃迪美股盤前漲超5%，現報1812.69美元。"
+    },
+    {
+      "id": "4979152",
+      "time": "2026-07-09 20:19:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：特朗普在對西班牙問題上有多種選擇。"
+    },
+    {
+      "id": "4979151",
+      "time": "2026-07-09 20:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "火箭一號（Rocket One）獲得使用SpaceX人工智慧多模態大模型的許可權。"
+    },
+    {
+      "id": "te:markets:565702",
+      "time": "2026-07-09 20:19:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds Above $4,100 as Dollar Softens — Gold climbed above $4,100 an ounce on Thursday, supported by a softer US dollar, though gains were capped as investors remained focused on escalating tensions in the Middle East and their implications for inflation and monetary policy. The US military said it carried out fresh strikes on Iran on Wednesday, prompting retaliatory attacks on Kuwait and Bahrain and heightening regional tensions. However, US President Donald Trump said Iran had reached out seeking a deal, tempering fears of a broader escalation. Meanwhile, minutes from the Federal Reserve's latest meeting showed growing concern over inflation, with several policymakers seeing a case for a rate hike before rates were ultimately left unchanged last month. Markets are now pricing in a 63% chance of a September rate hike. Separately, HSBC lowered its average gold price forecast to $4,560 for 2026 from $4,864, and to $4,925 for 2027 from $5,000."
+    },
+    {
+      "id": "mkt:019f46d0-e95b-7aab-8d16-1cbf511c9704",
+      "time": "2026-07-09 20:18:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US strikes limited but risk of miscalculation could trigger wider regional war, Tehran researcher says】Abas Aslani, senior researcher at the Tehran-based Middle East Strategic Research Center, said US lethal strikes were a counter to Iran’s stance on a “new security arrangement” for the Strait of Hormuz. He said Trump initially regarded the interim deal as an “exit mechanism” to avoid a larger war and that domestic political pressure, plus pressure from Israel, likely contributed to the strikes. Aslani warned diplomatic space is narrowing; Tehran views the attacks as an effort to weaken its control over the Strait. He added the recent strikes were relatively limited in timing, scope and scale — suggesting the US may not want to trigger a wider regional conflict — but said the situation is highly unstable and any miscalculation could escalate into a regional war."
+    },
+    {
+      "id": "4979149",
+      "time": "2026-07-09 20:18:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前跌超4%】Meta美股盤前跌超4%，現報578.92美元。"
+    },
+    {
+      "id": "4979148",
+      "time": "2026-07-09 20:17:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國對英偉達反壟斷調查接近尾聲 最高或面臨全球年度營收10%罰款】法國競爭管理局官員對外確認，針對AI晶片巨頭英偉達的反壟斷調查已臨近收尾，監管機構大機率很快出具正式異議宣告，指控企業存在多項限制市場競爭行為。據報道，本次調查始於2023年，監管機構當年突擊檢查英偉達法國分部，核心圍繞英偉達在全球GPU、AI雲端計算賽道的絕對主導地位展開核查。按照法國反壟斷法規，一旦最終裁定違規，英偉達最高將面臨全球年度營收10%的鉅額罰款。"
+    },
+    {
+      "id": "4979147",
+      "time": "2026-07-09 20:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯亞藥業創業板IPO過會】7月9日，深交所上市稽核委員會召開2026年第41次上市稽核委員會審議會議，審議結果顯示，南通聯亞藥業股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
+    },
     {
       "id": "mkt:019f46ce-e19e-7aab-8d16-1010d3742197",
       "time": "2026-07-09 20:16:30",

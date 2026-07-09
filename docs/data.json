@@ -1,7 +1,126 @@
 {
-  "updated": "2026-07-09 20:17:35",
-  "count": 16046,
+  "updated": "2026-07-09 20:21:43",
+  "count": 16039,
   "items": [
+    {
+      "id": "te:markets:565703",
+      "time": "2026-07-09 20:20:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises as Softer Dollar Offsets Middle East Uncertainty — Silver rose to around $59 an ounce on Thursday, supported by a weaker US dollar, although gains remained limited as investors monitored escalating tensions in the Middle East and their potential impact on inflation and interest rates. The US military said it launched fresh strikes on Iran on Wednesday, prompting retaliatory attacks on Kuwait and Bahrain and raising regional tensions. However, US President Donald Trump said Iran had reached out seeking a deal, easing fears of a broader conflict. Meanwhile, minutes from the Federal Reserve's latest meeting revealed growing concern over inflation, with several policymakers arguing that a rate hike could be warranted before rates were ultimately left unchanged last month. Markets are now pricing in a 63% chance of a September rate hike. Investors are now awaiting next week's US inflation report and Federal Reserve Chair Kevin Warsh's congressional testimony for further clues on the policy outlook."
+    },
+    {
+      "id": "mkt:019f46d2-2975-7aab-8d16-2ef8b6ba2b40",
+      "time": "2026-07-09 20:20:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Trade Representative Greer said President Trump has multiple options regarding Spain."
+    },
+    {
+      "id": "mkt:019f46d2-2832-7aab-8d16-2718ff8ea639",
+      "time": "2026-07-09 20:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US initial jobless claims for the week ended Jul 4 due in 10 minutes."
+    },
+    {
+      "id": "4979154",
+      "time": "2026-07-09 20:19:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國PCE年度更新“意義重大” 或令年內不加息的理由略佔上風】美聯儲所看重的通脹指標即將進行調整。即便這一變動不會從根本上改變整體通脹格局，但也可能足以讓今年不加息的理由略佔上風。這是經濟學家們對美國經濟分析局定於9月公佈的個人消費支出(PCE)價格指數年度更新所作出的初步判斷。多位經濟學家表示，如果計劃中的調整已適用於最新資料，核心通脹率可能會被下調約0.1至接近0.3個百分點。個人消費支出價格指數5月同比上漲4.1%，為2023年4月以來最大漲幅，遠高於美聯儲2%的目標。核心PCE —— 因剔除了波動較大的食品和能源價格而更受決策者倚重的指標 —— 上漲3.4%。"
+    },
+    {
+      "id": "4979153",
+      "time": "2026-07-09 20:19:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨跌0.05%，標普500指數期貨漲0.20%，納指期貨漲0.78%。\n②德國DAX指數漲0.21%，英國富時100指數跌0.61%，法國CAC40指數漲0.47%，歐洲斯托克50指數漲0.74%。\n③WTI原油漲0.04%，報73.54美元/桶。布倫特原油漲0.58%，報78.48美元/桶。\n④會議紀要顯示，美聯儲決策者在6月的會議上注意到通脹擔憂日益加劇，少數官員主張6月加息。\n⑤據伊朗伊斯蘭共和國廣播電視臺報道，伊朗軍隊當天在回應美軍襲擊的行動中使用“海巴爾·舍坎”新型彈道導彈打擊了多個美軍基地，併發射巡航導彈襲擊了停泊在巴林海岸附近的美國艦艇。\n⑥美銀證券最新發布半導體產業報告指出，近期半導體類股回撥屬於市場正常修正，而非AI需求轉弱的訊號。\n⑦Meta盤前跌2%。備忘錄顯示，Meta計劃於9月開始生產“Iris”AI晶片，計劃明年將計算能力翻倍至14吉瓦，Meta今年計劃部署7吉瓦的計算基礎設施。\n⑧微軟股價盤前下跌1%。軟宣佈裁員4800人，約佔其全球員工總數的2.1%，其中涉及1600名Xbox遊戲機部門的員工。\n⑨閃迪美股盤前漲超5%，現報1812.69美元。"
+    },
+    {
+      "id": "4979152",
+      "time": "2026-07-09 20:19:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：特朗普在對西班牙問題上有多種選擇。"
+    },
+    {
+      "id": "4979151",
+      "time": "2026-07-09 20:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "火箭一號（Rocket One）獲得使用SpaceX人工智慧多模態大模型的許可權。"
+    },
+    {
+      "id": "te:markets:565702",
+      "time": "2026-07-09 20:19:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds Above $4,100 as Dollar Softens — Gold climbed above $4,100 an ounce on Thursday, supported by a softer US dollar, though gains were capped as investors remained focused on escalating tensions in the Middle East and their implications for inflation and monetary policy. The US military said it carried out fresh strikes on Iran on Wednesday, prompting retaliatory attacks on Kuwait and Bahrain and heightening regional tensions. However, US President Donald Trump said Iran had reached out seeking a deal, tempering fears of a broader escalation. Meanwhile, minutes from the Federal Reserve's latest meeting showed growing concern over inflation, with several policymakers seeing a case for a rate hike before rates were ultimately left unchanged last month. Markets are now pricing in a 63% chance of a September rate hike. Separately, HSBC lowered its average gold price forecast to $4,560 for 2026 from $4,864, and to $4,925 for 2027 from $5,000."
+    },
+    {
+      "id": "mkt:019f46d0-e95b-7aab-8d16-1cbf511c9704",
+      "time": "2026-07-09 20:18:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US strikes limited but risk of miscalculation could trigger wider regional war, Tehran researcher says】Abas Aslani, senior researcher at the Tehran-based Middle East Strategic Research Center, said US lethal strikes were a counter to Iran’s stance on a “new security arrangement” for the Strait of Hormuz. He said Trump initially regarded the interim deal as an “exit mechanism” to avoid a larger war and that domestic political pressure, plus pressure from Israel, likely contributed to the strikes. Aslani warned diplomatic space is narrowing; Tehran views the attacks as an effort to weaken its control over the Strait. He added the recent strikes were relatively limited in timing, scope and scale — suggesting the US may not want to trigger a wider regional conflict — but said the situation is highly unstable and any miscalculation could escalate into a regional war."
+    },
+    {
+      "id": "4979149",
+      "time": "2026-07-09 20:18:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前跌超4%】Meta美股盤前跌超4%，現報578.92美元。"
+    },
+    {
+      "id": "4979148",
+      "time": "2026-07-09 20:17:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國對英偉達反壟斷調查接近尾聲 最高或面臨全球年度營收10%罰款】法國競爭管理局官員對外確認，針對AI晶片巨頭英偉達的反壟斷調查已臨近收尾，監管機構大機率很快出具正式異議宣告，指控企業存在多項限制市場競爭行為。據報道，本次調查始於2023年，監管機構當年突擊檢查英偉達法國分部，核心圍繞英偉達在全球GPU、AI雲端計算賽道的絕對主導地位展開核查。按照法國反壟斷法規，一旦最終裁定違規，英偉達最高將面臨全球年度營收10%的鉅額罰款。"
+    },
+    {
+      "id": "4979147",
+      "time": "2026-07-09 20:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯亞藥業創業板IPO過會】7月9日，深交所上市稽核委員會召開2026年第41次上市稽核委員會審議會議，審議結果顯示，南通聯亞藥業股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
+    },
     {
       "id": "mkt:019f46ce-e19e-7aab-8d16-1010d3742197",
       "time": "2026-07-09 20:16:30",
@@ -146731,172 +146850,6 @@
         "公司"
       ],
       "text": "【招商蛇口：6月簽約銷售金額202.1億元，1-6月累計962.45億元】招商蛇口公告，2026年6月簽約銷售面積70.28萬平方米，簽約銷售金額202.1億元。2026年1-6月累計簽約銷售面積305.18萬平方米，簽約銷售金額962.45億元。另外，自2026年5月銷售簡報披露以來，公司新增2個住宅專案，分別為北京市通州區城市副中心03組團FZX-0302-6016地塊及杭州市濱江區永久河單元C-R21/R22-60地塊，公司需支付價款共計71.15億元。"
-    },
-    {
-      "id": "4967620",
-      "time": "2026-07-02 20:21:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東微半導：擬發行不超14.36億元可轉債 提示攤薄即期回報風險】東微半導公告稱，公司擬向不特定物件發行可轉換公司債券，募集資金總額預計不超14.36億元。本次發行可能攤薄即期回報，極端情況下若盈利增長無法覆蓋債券利息，稅後利潤將面臨下降風險。募投專案圍繞主營業務，公司在人員、技術、市場方面有儲備。公司將採取提升盈利能力、加強資金管理等措施填補回報，實際控制人及其一致行動人、董高監作出相關承諾，議案尚需股東會審議。"
-    },
-    {
-      "id": "4967619",
-      "time": "2026-07-02 20:21:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：我們或將不得不應對更為頑固的通脹。"
-    },
-    {
-      "id": "4967618",
-      "time": "2026-07-02 20:21:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL中環：擬投資26億元升級改造BC電池及元件基地產能】TCL中環公告稱，公司擬將衢州、忻州基地現有電池產能升級改造為20GW BC電池產能，預計投資14億元；將宜興、天津等地基地現有元件產能升級改造為25GW BC元件產能，預計投資12億元。專案計劃於2026年7月啟動，三季度末開始陸續投產。該事項已透過第七屆董事會第二十三次會議審議，無需提交股東會審議。不過，專案存在產品效能不達標、收益不及預期等風險。"
-    },
-    {
-      "id": "4967617",
-      "time": "2026-07-02 20:20:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：美國強勁的投資增長不太可能放緩。"
-    },
-    {
-      "id": "4967616",
-      "time": "2026-07-02 20:20:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：油價回落對消費者和經濟是好訊息。"
-    },
-    {
-      "id": "4967615",
-      "time": "2026-07-02 20:20:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：料非農增長11.5萬人，失業率持穩】交易員和投資者將密切關注稍後釋出的6月份非農就業報告。《華爾街日報》調查的經濟學家預測，6月份新增就業崗位11.5萬個，但分析師警告稱，這一數字可能受到世界盃相關短期招聘的影響。這一數字將低於5月份的17.2萬個。預計失業率將保持在4.3%的水平。人力資源公司ADP本週表示，6月份私營部門僱主的招聘增長略低於預期。"
-    },
-    {
-      "id": "4967614",
-      "time": "2026-07-02 20:20:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：若霍爾木茲海峽局勢得到緩解，那將是一件好事。"
-    },
-    {
-      "id": "4967613",
-      "time": "2026-07-02 20:19:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：目前無法做出決定，不能就利率問題給出錯誤指引。"
-    },
-    {
-      "id": "4967612",
-      "time": "2026-07-02 20:19:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事 戴利：美聯儲貨幣政策仍處於小幅偏緊區間。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607023792106138",
-      "time": "2026-07-02 20:19:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲戴利：儘管通脹高於目標 但沒有看到經濟韌性不足的跡象】美聯儲戴利表示，儘管通脹高於目標，但沒有看到經濟韌性不足的跡象；勞動力市場已趨於穩定。"
-    },
-    {
-      "id": "4967611",
-      "time": "2026-07-02 20:19:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：消費需求具備韌性，是美國經濟的積極訊號。"
-    },
-    {
-      "id": "4967610",
-      "time": "2026-07-02 20:19:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞國家電視臺稱大馬士革傳出爆炸聲。"
-    },
-    {
-      "id": "4967609",
-      "time": "2026-07-02 20:19:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：存在美聯儲不得不抗擊通脹的情境。"
-    },
-    {
-      "id": "4967608",
-      "time": "2026-07-02 20:18:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500指數期貨上漲0.1%，道指期貨上漲0.1%，納斯達克100指數期貨上漲0.2%。"
-    },
-    {
-      "id": "4967607",
-      "time": "2026-07-02 20:18:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：這應有助於通脹回落。"
-    },
-    {
-      "id": "4967606",
-      "time": "2026-07-02 20:18:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：油價已回落，冀望壓力緩解。"
-    },
-    {
-      "id": "4967605",
-      "time": "2026-07-02 20:18:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【部分外資銀行正積極申請新一批QDII額度】記者從部分外資行境內法人銀行處瞭解到，其正積極向有關部門申請新一批QDII額度。此前，國家外匯管理局局長朱鶴新曾在陸家嘴論壇上表示，將在今年已最佳化境內企業境外上市、境外放款等制度基礎上，積極回應市場需求，進一步簡化對外直接投資（ODI）、外債等匯兌管理，最佳化外匯貸款、跨境股權激勵等制度，發放新一批合格境內機構投資者（QDII）投資額度。"
-    },
-    {
-      "id": "4967604",
-      "time": "2026-07-02 20:18:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：關稅及油價衝擊推高通脹水平。"
-    },
-    {
-      "id": "4967603",
-      "time": "2026-07-02 20:18:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：馬魯蒂稱莫迪與高市早苗出席哈爾霍達工廠落成啟用儀式。"
     }
   ]
 }
