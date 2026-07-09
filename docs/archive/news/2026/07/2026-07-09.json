@@ -1,7 +1,122 @@
 {
   "date": "2026-07-09",
-  "count": 3188,
+  "count": 3201,
   "items": [
+    {
+      "id": "4979479",
+      "time": "2026-07-09 22:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "上半年滬市寬基ETF分紅達170億元。"
+    },
+    {
+      "id": "te:markets:565737",
+      "time": "2026-07-09 22:41:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall to 6-Week Low — US natural gas prices fell more than 4% to $3.07 per MMBtu, the lowest in six weeks, after the latest EIA data showed a larger-than-usual weekly build in inventories. Gas stockpiles rose by 61 bcf for the week ended July 3, exceeding the five-year average increase of 51 bcf for the same period, pointing to comfortable supply conditions. Meanwhile, weather forecasts indicate that temperatures will remain mostly above normal through July 23, likely keeping gas demand from power generators elevated. LNG export demand also remained firm, with average gas flows to major LNG export facilities rising to 17.8 bcfd so far in July, up from 17.4 bcfd in June. On the supply side, gas output in the Lower 48 states fell to 109.4 bcfd in July so far, from 110.0 bcfd in June and was below the record monthly high of 110.6 bcfd reached in December 2025."
+    },
+    {
+      "id": "4979478",
+      "time": "2026-07-09 22:41:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有光伏專案元件採購現低價投標，業內人士建議最佳化招標規則】7月8日，《每日經濟新聞》記者從浙江能源集團智慧供應鏈一體化平臺獲悉，位於甘肅的三個光伏專案元件採購結果公示出爐，其中兩個專案出現頭部廠商低價“搶單”現象。據記者測算，在這兩個專案上，多箇中標候選人投標報價接近0.7元/W的價格線，天合光能報價低於0.7元/W；而在另一高效光伏元件專案招標中，天合光能的報價達到0.8元/W，為多家企業中報價最高。針對這一報價差異，7月9日，天合光能相關人士對《每日經濟新聞》記者稱，這是一種投標策略。“現在釋出的只是入圍情況，要看最終報價。”7月9日，一位光伏業內人士對記者稱，行業陷入深度調整期，“反內卷”任重道遠，當前產能同質化仍是核心癥結，低價競標模式弊大於利。（每經）"
+    },
+    {
+      "id": "4979477",
+      "time": "2026-07-09 22:40:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今年厄爾尼諾現象強度或創紀錄】歐洲中期天氣預報中心專家近日表示，當前厄爾尼諾現象的整體強度預計將創下新紀錄，全球各地正面臨與此相關的乾旱、洪水及其他極端天氣事件的風險。據法新社援引該中心專家蒂姆·斯托克代爾的話報道，今年的厄爾尼諾現象與過去30多年來的觀測記錄截然不同，預測模型顯示這將是一次“極端”事件。斯托克代爾還表示，從未見過各預報模型對一次厄爾尼諾現象的預測如此強烈且一致，如無意外將打破紀錄。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:565735",
+      "time": "2026-07-09 22:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up to 1-Month High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, rose about 1.4% to its highest since June 8 at 2,910 on Thursday, following a marginal decrease in the prior session. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced 2% to a one-month peak of 4,569 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 0.4% to 2,253 points. Among smaller vessels, the supramax index went up 0.8% to 1,700 points."
+    },
+    {
+      "id": "mkt:019f4752-3939-7aab-8d1b-cd2dadc5f2ce",
+      "time": "2026-07-09 22:39:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AI training startup Mercor is reportedly discussing a $20 billion valuation."
+    },
+    {
+      "id": "4979476",
+      "time": "2026-07-09 22:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風巴威強度有變化了】颱風“巴威”今晚已減弱為強颱風，從紅外雲圖看，“巴威”中心附近深色區域明顯減少，表明對應的雲頂溫度升高，對流減弱。（中國天氣）"
+    },
+    {
+      "id": "4979475",
+      "time": "2026-07-09 22:39:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：波蘭央行將貨幣政策委員會利率會議日期調整至9月8日至9日。"
+    },
+    {
+      "id": "mkt:019f4751-a5c7-7aab-8d1b-c688894845da",
+      "time": "2026-07-09 22:39:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "【CFTC halts CME plan for 24-hour crude futures】The Commodity Futures Trading Commission said it will exercise its authority to delay the listing of a contract that would have allowed the Chicago Mercantile Exchange to begin 24-hour crude oil futures trading as soon as tomorrow."
+    },
+    {
+      "id": "4979474",
+      "time": "2026-07-09 22:39:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港液化天然氣公司表示，該公司已啟動其位於得克薩斯州設施的主要工程，該工程將持續至8月下旬。"
+    },
+    {
+      "id": "4979473",
+      "time": "2026-07-09 22:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港液化天然氣公司：預計檢修工作將於下月月底安全完成。"
+    },
+    {
+      "id": "4979472",
+      "time": "2026-07-09 22:39:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港液化天然氣公司：停機檢修是自由港液化天然氣公司計劃中的大型維護專案的一部分，旨在持續保障運營的安全性與可靠性。"
+    },
+    {
+      "id": "4979471",
+      "time": "2026-07-09 22:39:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港液化天然氣公司：計劃於7月10日啟動自由港液化天然氣預處理及液化設施的大型停產檢修作業。"
+    },
     {
       "id": "te:economy:565734",
       "time": "2026-07-09 22:38:24",
