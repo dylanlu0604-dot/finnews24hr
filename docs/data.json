@@ -1,7 +1,341 @@
 {
-  "updated": "2026-07-09 09:32:40",
-  "count": 16191,
+  "updated": "2026-07-09 09:36:35",
+  "count": 16150,
   "items": [
+    {
+      "id": "4977926",
+      "time": "2026-07-09 09:35:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股智譜盤初漲超14%，最高報2168港元】港股智譜盤初漲超14%，最高報2168港元。公司擬以每股1588港元配售最多1978萬股新H股，於收市價每股1,825.00港元折讓約12.99%。"
+    },
+    {
+      "id": "4977925",
+      "time": "2026-07-09 09:35:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：產業升級加快帶動部分行業需求增加，價格上行】國家統計局稱，人工智慧覆蓋場景不斷拓展，新原料新材料廣泛應用，綠色化轉型持續推進，帶動虛擬現實裝置製造價格6月份環比上漲8.4%，可穿戴智慧裝置製造價格上漲3.4%，工業控制計算機及系統製造價格上漲3.3%，工業機器人制造價格上漲0.5%；電子專用材料製造價格上漲2.5%，碳基奈米材料價格上漲1.9%，生物質燃料加工價格上漲1.2%；廢棄資源綜合利用業價格上漲0.4%。"
+    },
+    {
+      "id": "te:economy:565446",
+      "time": "2026-07-09 09:35:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "China Inflation Rate Slightly Below Forecasts — China's annual inflation eased to 1.0% in June 2026 from 1.2% in both April and May, slightly below market expectations of 1.1%, marking the softest increase in three months. On a monthly basis, consumer prices fell 0.3% after edging down 0.1% in May, compared with market forecasts of a 0.2% decline."
+    },
+    {
+      "id": "4977924",
+      "time": "2026-07-09 09:35:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "齊雲山食品(02797.HK)上市首日漲超120%，現報17.67港元/股，發售價8港元/股。"
+    },
+    {
+      "id": "mkt:019f4484-2261-7aab-8d04-7323435583ff",
+      "time": "2026-07-09 09:35:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02797.HK",
+        "Impact bullish"
+      ],
+      "text": "Qiyunshan Food (02797.HK) rose more than 120% in its Hong Kong listing debut, trading at HKD 17.67 per share versus an IPO price of HKD 8."
+    },
+    {
+      "id": "4977923",
+      "time": "2026-07-09 09:35:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4977922",
+      "time": "2026-07-09 09:35:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：儲存成本飆升，400美元以下全球智慧手機市場將下滑22%】根據Omdia最新研究，近幾個季度以來，DRAM和NAND價格持續大幅上漲，且預計未來仍將保持上升趨勢。不斷攀升的儲存成本已成為中低端智慧手機廠商面臨的重要挑戰，並推動400美元以下智慧手機市場同比下滑超過22%。"
+    },
+    {
+      "id": "4977921",
+      "time": "2026-07-09 09:34:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瀚藍持股泰國曼谷垃圾焚燒發電專案即將投產】據瀚藍環境，2023年，瀚藍透過收購新源能源40%股權（國投電力持有60%），新增泰國曼谷垃圾焚燒發電專案，總處理規模達3300噸/日。2025年，公司確認該專案投資收益約1800萬元。目前，農墾一期專案（500噸/日）持續穩定運營，效益良好。在建的農墾二期與安努專案（各1400噸/日）預計將在近期投產。"
+    },
+    {
+      "id": "mkt:019f4483-23c9-7aab-8d04-6a599242fe7d",
+      "time": "2026-07-09 09:34:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【NBS: June PPI -0.3% MoM; coal-mining prices +5.6% on peak-summer stocking, cooling demand】China PPI fell 0.3% MoM in June, the National Bureau of Statistics said. International crude weakness drove sharp oil-sector declines: oil extraction prices -16.0% MoM and refined petroleum products manufacturing -3.1% (widening by 14.2 and 2.8 percentage points vs May). Chemical raw-materials and chemical-fiber manufacturing shifted from MoM gains to declines of 2.0% and 0.8% respectively. Seasonal peak-summer demand lifted coal mining and washing prices 5.6% MoM; household cooling appliance manufacturing +0.6%; refrigeration and air-conditioning equipment +0.4%. Ample summer precipitation, sunlight and wind cut power prices: hydro -9.1%, solar -2.5% and wind -2.2% MoM."
+    },
+    {
+      "id": "4977920",
+      "time": "2026-07-09 09:34:27",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：6月“迎峰度夏”備煤及製冷產品需求增加，煤炭開採和洗選業價格環比上漲5.6%】國家統計局城市司首席統計師董莉娟解讀2026年6月份CPI和PPI資料。從環比看，全國PPI下降0.3%。本月PPI環比執行的主要特點：國際原油價格下行，影響國內相關行業價格下降。石油開採價格環比下降16.0%，精煉石油產品製造價格下降3.1%，降幅比上月分別擴大14.2個和2.8個百分點，化學原料和化學制品製造業、化學纖維製造業價格由上月上漲分別轉為下降2.0%和0.8%。受季節性因素影響，部分行業價格走勢分化。6月份氣溫升高，“迎峰度夏”備煤及製冷產品需求增加，煤炭開採和洗選業價格環比上漲5.6%，家用製冷電器具製造價格上漲0.6%，製冷空調裝置製造價格上漲0.4%；夏季降水、光照及風力充足，水力發電、太陽能發電、風力發電價格分別下降9.1%、2.5%和2.2%。"
+    },
+    {
+      "id": "4977919",
+      "time": "2026-07-09 09:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油氣概念延續強勢 通源石油漲超10%】油氣概念延續強勢，通源石油漲超10%，山東墨龍、潛能恆信、科力股份、泰山石油、中曼石油、凱添燃氣跟漲。"
+    },
+    {
+      "id": "4977918",
+      "time": "2026-07-09 09:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉死亡病例達600例】剛果（金）衛生部8日釋出的最新疫情報告顯示，該國本輪埃博拉疫情累計報告確診病例1759例，其中死亡600例。 報告說，截至目前，疫情主要波及伊圖裡省、北基伍省和南基伍省三個省份。累計治癒病例285例，目前有750名患者處於隔離或住院治療狀態。 報告稱，三省相關醫療機構收治床位已接近飽和。其中，北基伍省收治機構承壓明顯，床位佔用率已超100%。 報告還說，喬波省首府基桑加尼報告兩例埃博拉病毒聚合酶鏈式反應(PCR)檢測呈陽性病例。其中一例與伊圖裡省有關，另一例目前尚未發現與基桑加尼以外地區存在流行病學關聯。報告稱，相關複核檢測和進一步流行病學調查正在進行。這兩例病例尚未計入全國累計病例數。 喬波省與伊圖裡省、北基伍省相鄰，基桑加尼是剛果（金）東北部重要商貿城市和交通樞紐。(新華社)"
+    },
+    {
+      "id": "mkt:019f4482-94ab-7aab-8d04-666e61c8d0cb",
+      "time": "2026-07-09 09:33:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share broker stocks jumped at the open; Huaan Securities hit the daily limit, while China Merchants Securities, Changjiang Securities, CSC Financial, Tianfeng Securities and CICC also advanced."
+    },
+    {
+      "id": "4977917",
+      "time": "2026-07-09 09:33:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【森木磊石完成B+輪融資】近日，森木磊石宣佈完成B+輪融資。本次融資由申能誠毅領投，老股東原始碼資本、英諾基金持續追投。本輪融資將用於進一步加大技術研發投入，加速PPEC Workbench跨架構嵌入式開發平臺（IDE）的迭代升級，深化在可控核聚變、核醫療、人造金剛石等前沿領域的應用佈局，同時加強團隊人才梯隊建設與市場渠道拓展。"
+    },
+    {
+      "id": "mkt:019f4482-75f5-7aab-8d04-5f29b9af4b75",
+      "time": "2026-07-09 09:33:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【National Bureau of Statistics: June domestic gold jewelry and gasoline prices fell 8.7% and 4.9%】National Bureau of Statistics chief statistician Dong Lijuan said June national CPI fell 0.3% MoM. International price swings drove domestic gold jewelry and gasoline down 8.7% and 4.9%, widening their declines by 5.9 and 4.6 ppt vs. last month and together subtracting about 0.22 ppt from CPI—around 0.19 ppt more drag than in the prior month. Food prices fell 0.4% MoM, unchanged from May, trimming roughly 0.07 ppt off CPI. Seasonal supply pushed fresh vegetables and fruit down 1.0% and 2.0% (combined -0.06 ppt); pork and aquatic products fell 0.8% and 0.6% (combined -0.02 ppt). Egg prices rose 7.0% as low layer stocks and heat reduced lay rates, adding about 0.03 ppt to MoM CPI."
+    },
+    {
+      "id": "4977916",
+      "time": "2026-07-09 09:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國副財長：外商直接投資仍在流入，且來源更加多元化。"
+    },
+    {
+      "id": "4977915",
+      "time": "2026-07-09 09:33:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI手機概念表現活躍 道明光學漲停】AI手機概念表現活躍，道明光學漲停，弘信電子、奧尼電子、中興通訊、福蓉科技跟漲。"
+    },
+    {
+      "id": "4977914",
+      "time": "2026-07-09 09:33:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念盤初走強 沐曦股份漲超9%創歷史新高】早盤算力晶片概念走強，沐曦股份一度漲超9%創歷史新高，瀾起科技、東芯股份、摩爾執行緒、寒武紀等跟漲。"
+    },
+    {
+      "id": "mkt:019f4481-ff66-7aab-8d04-52bfbb0a15f5",
+      "time": "2026-07-09 09:33:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【NBS: Imported factors curb domestic industrial consumer-goods price growth】China June CPI +1.0% YoY, down 0.2ppt from May, NBS urban office chief statistician Dong Lijuan said. Industrial consumer-goods prices rose 2.9% YoY, 1.0ppt slower as international imported factors weighed; industrial consumer goods contributed about 0.90ppt to CPI YoY, a reduction of ~0.28ppt versus May. Within industrial goods, gold jewelry and gasoline decelerated to +28.1% and +17.0%, together adding ~0.60ppt to CPI YoY (down ~0.23ppt). Personal-care products and household appliances rose 2.3% and 2.2% YoY, both slower. Services inflation held at +0.8% YoY, contributing roughly 0.40ppt to CPI."
+    },
+    {
+      "id": "mkt:019f4481-e59f-7aab-8d04-4f11c46b487e",
+      "time": "2026-07-09 09:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share PCB concept stocks jumped in early trade; Baoding Technology hit its daily trading limit, with Benchuan Intelligent, Taijin New Energy, Mulinsen, Mankun Technology and Kuaike Intelligent also rising."
+    },
+    {
+      "id": "mkt:019f4481-e1aa-7aab-8d04-4270dbbf91f2",
+      "time": "2026-07-09 09:33:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand deputy finance minister said FDI continues to flow into the country and is becoming more diversified."
+    },
+    {
+      "id": "4977913",
+      "time": "2026-07-09 09:32:56",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "券商股開盤拉昇，華安證券直線漲停，招商證券漲超6%，長江證券、中金公司、中信建投、天風證券跟漲。"
+    },
+    {
+      "id": "te:economy:565445",
+      "time": "2026-07-09 09:32:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Prices Rise the Most in 4 Years — China’s producer prices increased 4.1% year-on-year in June 2026, accelerating from a 3.9% rise in the previous month and matching market forecasts. It was the fourth consecutive monthly increase and the steepest pace since July 2022."
+    },
+    {
+      "id": "4977912",
+      "time": "2026-07-09 09:32:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念股盤初拉昇，寶鼎科技漲停】PCB概念股盤初拉昇，寶鼎科技漲停，本川智慧、泰金新能、木林森、滿坤科技、快克智慧跟漲。"
+    },
+    {
+      "id": "mkt:019f4481-6fcc-7aab-8d04-3c7bc22613e9",
+      "time": "2026-07-09 09:32:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 40-year government bond yield rose 5bp to 4.055%."
+    },
+    {
+      "id": "mkt:019f4481-53da-7aab-8d04-31be0fc659d6",
+      "time": "2026-07-09 09:32:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year government bond yield rose 3.0bp to 4.030%."
+    },
+    {
+      "id": "mkt:019f4481-47ce-7aab-8d04-2f939049133b",
+      "time": "2026-07-09 09:32:30",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【China NBS: June factory-gate prices — producer goods down 0.3% MoM】China's National Bureau of Statistics said June factory-gate prices: producer goods (production materials) fell 0.3% MoM, cutting the overall PPI by about 0.25 percentage point. By sector, mining prices were down 0.9% MoM, raw materials down 1.2%, and manufacturing up 0.2%. Consumer goods (living materials) fell 0.3% MoM, reducing the headline PPI by about 0.06 percentage point; food was down 0.8%, clothing and durable consumer goods were flat, and everyday consumer goods fell 0.1%."
+    },
+    {
+      "id": "4977911",
+      "time": "2026-07-09 09:32:28",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：6月份食品菸酒及在外餐飲類價格環比下降0.3%】國家統計局資料顯示，6月份，食品菸酒及在外餐飲類價格環比下降0.3%，影響CPI下降約0.08個百分點。食品中，鮮果價格下降2.0%，影響CPI下降約0.04個百分點；鮮菜價格下降1.0%，影響CPI下降約0.02個百分點；畜肉類價格下降0.5%，影響CPI下降約0.02個百分點，其中豬肉價格下降0.8%；蛋類價格上漲5.8%，影響CPI上漲約0.03個百分點。其他七大類價格環比一漲兩平四降。其中，醫療保健價格上漲0.2%；居住、教育文化娛樂價格均持平；其他用品及服務、交通通訊價格分別下降2.7%和1.3%，生活用品及服務、衣著價格分別下降0.2%和0.1%。"
+    },
+    {
+      "id": "4977910",
+      "time": "2026-07-09 09:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "智譜(02513.HK)漲超10%，公司擬折價約13%配股籌資逾314億港元。"
+    },
+    {
+      "id": "mkt:019f4481-0f20-7aab-8d04-20b33588e8d9",
+      "time": "2026-07-09 09:32:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) jumped more than 10% after proposing a rights issue at about a 13% discount to raise over HK$31.4 billion."
+    },
+    {
+      "id": "4977909",
+      "time": "2026-07-09 09:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：6月份，工業生產者出廠價格中，生產資料價格同比上漲5.5%】國家統計局資料顯示，6月份，工業生產者出廠價格中，生產資料價格同比上漲5.5%，影響工業生產者出廠價格總水平上漲約4.28個百分點。其中，採掘工業價格上漲16.5%，原材料工業價格上漲8.6%，加工工業價格上漲3.0%。生活資料價格下降0.9%，影響工業生產者出廠價格總水平下降約0.20個百分點。其中，食品價格下降2.1%，衣著和一般日用品價格均下降1.0%，耐用消費品價格上漲0.1%。"
+    },
+    {
+      "id": "mkt:019f4481-08c2-7aab-8d04-1a71854a8f3f",
+      "time": "2026-07-09 09:32:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【National Bureau of Statistics: June production-material producer prices up 5.5% YoY】China NBS data: In June, producer prices for production materials rose 5.5% YoY, contributing about +4.28 ppt to the headline industrial PPI. By sector: mining +16.5% YoY, raw-materials industry +8.6% YoY, processing/manufacturing +3.0% YoY. Consumer goods prices declined 0.9% YoY, subtracting about -0.20 ppt from headline PPI; within consumer goods: food -2.1% YoY, clothing -1.0% YoY, general daily goods -1.0% YoY, durable consumer goods +0.1% YoY."
+    },
+    {
+      "id": "4977908",
+      "time": "2026-07-09 09:32:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
     {
       "id": "mkt:019f4480-aa68-7aab-8d04-15aa0b5ff68d",
       "time": "2026-07-09 09:31:50",
@@ -147378,687 +147712,6 @@
         "其他"
       ],
       "text": "比亞迪汽車：比亞迪王朝6月銷售157372輛，同比增長12.8%。"
-    },
-    {
-      "id": "4966282",
-      "time": "2026-07-02 09:36:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新股N華潤漲超177% 觸發臨停】新股N華潤漲幅擴大至超177%，觸發臨停，成交近20億元。資料顯示，公司主營業務為投資、開發、運營和管理風力、太陽能發電站。"
-    },
-    {
-      "id": "4966281",
-      "time": "2026-07-02 09:36:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量492億元。"
-    },
-    {
-      "id": "4966280",
-      "time": "2026-07-02 09:35:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB板塊走弱，彤程新材跌停】PCB板塊走弱，彤程新材跌停，一博科技、三孚新科、戈碧迦、凌瑋科技、埃科光電、山東玻纖等跟跌。"
-    },
-    {
-      "id": "mkt:019f2077-0bb2-7aab-8c69-85ee2867ae98",
-      "time": "2026-07-02 09:35:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SZSE Component",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China's ChiNext index early-session losses widened to 4%, led by declines in glass-substrate, memory-chip and advanced-packaging stocks."
-    },
-    {
-      "id": "4966279",
-      "time": "2026-07-02 09:34:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "比亞迪股份港股上漲7%。"
-    },
-    {
-      "id": "te:economy:563586",
-      "time": "2026-07-02 09:34:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "Australia Imports Notch Record High — Australia’s goods imports rose 2.6% month-over-month to a fresh peak of AUD 46.63 billion in May 2026, picking up from a downwardly revised 0.2% gain in the previous month amid robust domestic demand"
-    },
-    {
-      "id": "4966278",
-      "time": "2026-07-02 09:34:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工業氣體板塊盤初走弱，凱美特氣跌停】工業氣體板塊盤初走弱，凱美特氣跌停，廣鋼氣體、雅克科技、三孚股份、僑源股份、矽烷科技、華特氣體等跟跌。"
-    },
-    {
-      "id": "mkt:019f2076-4f0c-7aab-8c69-7b71e5242393",
-      "time": "2026-07-02 09:34:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China's STAR 50 index fell more than 5% intraday."
-    },
-    {
-      "id": "4966277",
-      "time": "2026-07-02 09:34:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達6.03%，成分股中，滬矽產業跌17.19%，華潤微跌13.32%，華海清科跌10.57%，中科飛測跌9.83%。"
-    },
-    {
-      "id": "mkt:019f2076-1132-7aab-8c69-70629d3fa9d2",
-      "time": "2026-07-02 09:33:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bearish",
-        "01860.HK",
-        "Impact bullish",
-        "01357.HK"
-      ],
-      "text": "Hong Kong AI application stocks diverged: Zhipu (02513.HK) fell over 10%, MINIMAX-W (00100.HK) fell over 6%, Huiliang Technology (01860.HK) rose over 9%, Meitu (01357.HK) rose over 8%."
-    },
-    {
-      "id": "4966276",
-      "time": "2026-07-02 09:33:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌4％，上證指數跌1.58％，深證成指跌3.2％。"
-    },
-    {
-      "id": "4966275",
-      "time": "2026-07-02 09:33:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4966274",
-      "time": "2026-07-02 09:33:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報8537.80點。"
-    },
-    {
-      "id": "mkt:019f2075-a938-7aab-8c69-6d450f6545c2",
-      "time": "2026-07-02 09:33:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Draft tightens production licensing for infant supplementary foods, open for comment】A draft of the Review Guidelines for Production Licensing of Infant Supplementary Foods has been published for public comment. The draft tightens licensing requirements and raises product-quality standards for infant supplementary foods—defined for children aged 6–36 months, including cereal-based complementary foods, canned complementary foods and nutritional supplements—and imposes stricter controls on raw and auxiliary materials."
-    },
-    {
-      "id": "mkt:019f2075-9a68-7aab-8c69-661c96948d00",
-      "time": "2026-07-02 09:33:25",
-      "tags": [
-        "MKT News",
-        "000660.KS"
-      ],
-      "text": "SK Hynix CEO said the company will commission its new packaging plant P&T7 by the end of 2027."
-    },
-    {
-      "id": "4966273",
-      "time": "2026-07-02 09:33:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念股低開 商絡電子跌超11%】儲存晶片概念股低開，商絡電子跌超11%，有研新材、賽騰股份、有研矽、北方華創等股紛紛下跌。"
-    },
-    {
-      "id": "4966272",
-      "time": "2026-07-02 09:33:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股汽車晶片板塊短線走低】商絡電子跌13.48%，四維圖新、威孚高科、南方精工、豪恩汽電、安培龍、東土科技跟跌。"
-    },
-    {
-      "id": "4966271",
-      "time": "2026-07-02 09:33:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股電感板塊短線走低】麥捷科技跌11.07%，田中精機跟跌。"
-    },
-    {
-      "id": "4966270",
-      "time": "2026-07-02 09:33:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股模擬晶片板塊短線走低】北京君正跌8.34%"
-    },
-    {
-      "id": "4966269",
-      "time": "2026-07-02 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股高速聯結器板塊短線走低】卡倍億跌10.21%，泓淋電力跟跌。"
-    },
-    {
-      "id": "4966268",
-      "time": "2026-07-02 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股碳化矽板塊短線走低】北方華創跌9.79%，力合科創、瑞納智慧、甘化科工、中密控股、藍海華騰、中天火箭跟跌。"
-    },
-    {
-      "id": "4966267",
-      "time": "2026-07-02 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股創新藥板塊異動拉昇】海南海藥、京新藥業、ST海王觸及漲停，石藥景峰、中賦科技、聯化科技、康芝藥業跟漲。"
-    },
-    {
-      "id": "4966266",
-      "time": "2026-07-02 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股小紅書概念板塊異動拉昇】福石控股、天娛數科觸及漲停，因賽集團、藍色游標、天龍集團、省廣集團、宣亞國際跟漲。"
-    },
-    {
-      "id": "4966265",
-      "time": "2026-07-02 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股原料藥板塊異動拉昇】海南海藥、京新藥業觸及漲停，峆一藥業、向日葵、誠達藥業、泓博醫藥、冀衡醫藥跟漲。"
-    },
-    {
-      "id": "4966264",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股通訊網路裝置及器件板塊短線走低】天孚通訊跌8.40%"
-    },
-    {
-      "id": "4966263",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股生物醫藥板塊異動拉昇】海南海藥、易明醫藥、京新藥業、ST海王觸及漲停，爭光股份、石藥景峰、大唐藥業跟漲。"
-    },
-    {
-      "id": "4966262",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股AI營銷板塊異動拉昇】福石控股、天娛數科觸及漲停，歡瑞世紀、因賽集團、藍色游標、易點天下、榮信文化跟漲。"
-    },
-    {
-      "id": "4966261",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股網路營銷板塊異動拉昇】福石控股觸及漲停，因賽集團、天地線上、藍色游標、易點天下、天龍集團、省廣集團跟漲。"
-    },
-    {
-      "id": "4966260",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股傳媒板塊異動拉昇】福石控股、天娛數科觸及漲停，流金科技、歡瑞世紀、因賽集團、天地線上、藍色游標跟漲。"
-    },
-    {
-      "id": "4966259",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股智慧座艙板塊短線走低】利和興跌9.94%，香山股份、四維圖新、法本資訊、潤和軟體、雙林股份、誠邁科技跟跌。"
-    },
-    {
-      "id": "4966258",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光學元件板塊短線走低】五方光電觸及跌停，日久光電跟跌。"
-    },
-    {
-      "id": "4966257",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股營銷代理板塊異動拉昇】福石控股、天娛數科觸及漲停，因賽集團、天地線上、藍色游標、易點天下、天龍集團跟漲。"
-    },
-    {
-      "id": "4966256",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股生物識別板塊短線走低】五方光電、ST合力泰觸及跌停，神思電子、新開普、創識科技、御銀股份、東華軟體跟跌。"
-    },
-    {
-      "id": "4966255",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股健康中國板塊異動拉昇】易明醫藥、ST海王觸及漲停，石藥景峰、石藥創新、昊帆生物、中基健康、向日葵跟漲。"
-    },
-    {
-      "id": "4966254",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股氮化鎵板塊短線走低】商絡電子跌13.48%，久立特材、鋮昌科技、航天發展、固高科技、世聯行、廣電計量跟跌。"
-    },
-    {
-      "id": "4966253",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股振盪器板塊短線走低】商絡電子跌13.48%"
-    },
-    {
-      "id": "4966252",
-      "time": "2026-07-02 09:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股LED板塊短線走低】鴻利智匯跌10.03%，久量股份、ST長方跟跌。"
-    },
-    {
-      "id": "4966251",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股文創玩具(穀子經濟)板塊異動拉昇】天娛數科觸及漲停，歡瑞世紀、因賽集團、榮信文化、凡拓數創、哈爾斯、果麥文化跟漲。"
-    },
-    {
-      "id": "4966250",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股廣告營銷板塊異動拉昇】福石控股、天娛數科觸及漲停，因賽集團、天地線上、藍色游標、易點天下、天龍集團跟漲。"
-    },
-    {
-      "id": "4966249",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股BC電池板塊短線走低】帝爾鐳射跌8.53%，晶澳科技、中利集團跟跌。"
-    },
-    {
-      "id": "4966248",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股抗流感板塊異動拉昇】海南海藥、ST海王觸及漲停，石藥景峰、康芝藥業、永太科技、向日葵、振東製藥跟漲。"
-    },
-    {
-      "id": "4966247",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股微信小店板塊異動拉昇】粵海飼料漲8.33%，美登科技、因賽集團、天地線上、榮信文化、果麥文化、壹網壹創跟漲。"
-    },
-    {
-      "id": "4966246",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光晶片板塊短線走低】天孚通訊跌8.40%，華西股份跟跌。"
-    },
-    {
-      "id": "4966245",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股保健品概念板塊異動拉昇】海南海藥、ST西王觸及漲停，石藥創新、中基健康、誠達藥業、常山藥業、北陸藥業跟漲。"
-    },
-    {
-      "id": "4966244",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股MR混合現實板塊短線走低】五方光電觸及跌停，華如科技、絲路視覺跟跌。"
-    },
-    {
-      "id": "4966243",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股無線充電板塊短線走低】ST合力泰觸及跌停，揚電科技、一彬科技、中國寶安、萬安科技、田中精機、安凱客車跟跌。"
-    },
-    {
-      "id": "4966242",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股3D攝像頭板塊短線走低】五方光電、ST合力泰觸及跌停"
-    },
-    {
-      "id": "4966241",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股增強現實板塊短線走低】商絡電子跌13.48%，東港股份、鋒尚文化、捷榮技術、國光電器、恆實科技、奧雅股份跟跌。"
-    },
-    {
-      "id": "4966240",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股肝炎治療板塊異動拉昇】海南海藥、京新藥業觸及漲停，康芝藥業、振東製藥、誠達藥業、亞太藥業、廣生堂跟漲。"
-    },
-    {
-      "id": "4966239",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股手勢識別板塊短線走低】五方光電觸及跌停，鴻合科技、瑞德智慧、四維圖新、數碼視訊、思特奇、航天科技跟跌。"
-    },
-    {
-      "id": "4966238",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股科特估板塊短線走低】飛凱材料跌8.88%，雙樂股份跟跌。"
-    },
-    {
-      "id": "4966237",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股AI應用（廣告營銷）板塊異動拉昇】福石控股、天娛數科觸及漲停，因賽集團、天地線上、藍色游標、易點天下、天龍集團跟漲。"
-    },
-    {
-      "id": "4966236",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股醫保板塊異動拉昇】易明醫藥、京新藥業、ST海王觸及漲停，石藥景峰、振東製藥、亞太藥業、紅日藥業跟漲。"
-    },
-    {
-      "id": "4966235",
-      "time": "2026-07-02 09:33:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光伏玻璃板塊短線走低】萊寶高科觸及跌停，經緯股份、科新機電、聯發股份、海達股份、美碩科技、深賽格跟跌。"
-    },
-    {
-      "id": "4966234",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光學板塊短線走低】五方光電觸及跌停，君逸數碼、日久光電、納爾股份、航天彩虹、天晟新材跟跌。"
-    },
-    {
-      "id": "4966233",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股銅纜高速聯結器板塊短線走低】卡倍億跌10.21%，泓淋電力跟跌。"
-    },
-    {
-      "id": "4966232",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股虛擬現實板塊短線走低】商絡電子跌13.48%，新開普、東港股份、鋒尚文化、捷榮技術、國光電器、東華軟體跟跌。"
-    },
-    {
-      "id": "4966231",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股仿製藥板塊異動拉昇】易明醫藥、京新藥業觸及漲停，石藥景峰、誠達藥業、常山藥業、信立泰、舒泰神跟漲。"
-    },
-    {
-      "id": "4966230",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股昨日觸板板塊短線走低】深科技觸及跌停，ST易購、ST匯洲、天融信、莊園牧場、ST三木跟跌。"
-    },
-    {
-      "id": "4966229",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股SOFC概念板塊短線走低】珂瑪科技跌9.49%，凱中精密、大洋電機跟跌。"
-    },
-    {
-      "id": "4966228",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股功率半導體板塊短線走低】飛凱材料跌8.88%"
-    },
-    {
-      "id": "4966227",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股華為海思板塊短線走低】北方華創跌9.79%，神州數碼、潤和軟體、拓維資訊、數碼視訊、匯中股份、誠邁科技跟跌。"
-    },
-    {
-      "id": "4966226",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股抗癌板塊異動拉昇】海南海藥、京新藥業、ST海王觸及漲停，石藥景峰、振東製藥、廣生堂、ST嘉應跟漲。"
-    },
-    {
-      "id": "4966225",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股新材料板塊短線走低】雅克科技、萊寶高科觸及跌停，久立特材、藍曉科技、奇德新材、惠同新材、九菱科技跟跌。"
-    },
-    {
-      "id": "4966224",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股中藥板塊異動拉昇】海南海藥、易明醫藥、京新藥業、ST海王觸及漲停，石藥景峰、大唐藥業、康芝藥業跟漲。"
-    },
-    {
-      "id": "4966223",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股虛擬現實（VR）板塊短線走低】五方光電、ST合力泰觸及跌停，啟明資訊、新開普、博士眼鏡、鋒尚文化、完美世界跟跌。"
-    },
-    {
-      "id": "4966222",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股超高畫質板塊短線走低】阿石創跌10.85%，毅昌科技、數碼視訊、維海德、初靈資訊、佳創視訊、華平股份跟跌。"
-    },
-    {
-      "id": "4966221",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股IGBT概念板塊短線走低】飛凱材料跌8.88%，威孚高科、ST朗進、福賽科技、利歐股份、鋒龍股份、比亞迪跟跌。"
-    },
-    {
-      "id": "4966220",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股巨量轉移概念板塊短線走低】鴻利智匯跌10.03%"
-    },
-    {
-      "id": "4966219",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股鈣鈦礦電池板塊短線走低】阿石創跌10.85%，海達股份、古鰲科技、快可電子、歐普泰、聚賽龍、晶澳科技跟跌。"
-    },
-    {
-      "id": "4966218",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股榮耀概念板塊短線走低】萊寶高科觸及跌停，誠邁科技、安利股份、華映科技、辰奕智慧、思美傳媒跟跌。"
-    },
-    {
-      "id": "4966217",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股仿製藥一致性評價板塊異動拉昇】海南海藥、易明醫藥、京新藥業、ST海王觸及漲停，石藥景峰、康芝藥業、永太科技跟漲。"
-    },
-    {
-      "id": "4966216",
-      "time": "2026-07-02 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股陶瓷概念板塊短線走低】珂瑪科技跌9.49%"
-    },
-    {
-      "id": "4966215",
-      "time": "2026-07-02 09:32:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌2%至4,857.38點。"
     }
   ]
 }
