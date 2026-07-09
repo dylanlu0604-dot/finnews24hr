@@ -1,7 +1,18 @@
 {
   "date": "2026-07-10",
-  "count": 414,
+  "count": 415,
   "items": [
+    {
+      "id": "te:markets:565805",
+      "time": "2026-07-10 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rallies by 10.13% — Top commodity gainers are Coffee (10.13%) and Cocoa (5.14%). Biggest losers are Corn (-1.61%) and Canola (-1.43%)."
+    },
     {
       "id": "mkt:019f4906-ebde-7aab-8d22-0613b2864810",
       "time": "2026-07-10 06:36:58",
