@@ -1,7 +1,413 @@
 {
-  "updated": "2026-07-09 09:28:41",
-  "count": 16182,
+  "updated": "2026-07-09 09:32:40",
+  "count": 16191,
   "items": [
+    {
+      "id": "mkt:019f4480-aa68-7aab-8d04-15aa0b5ff68d",
+      "time": "2026-07-09 09:31:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China's National Bureau of Statistics said June 2026 industrial producer purchase prices rose 6.4% YoY and fell 0.2% MoM. In 1H 2026, factory-gate industrial producer prices were up 1.5% YoY and producer purchase prices rose 2.4% YoY."
+    },
+    {
+      "id": "mkt:019f4480-a5f0-7aab-8d04-0acd42945f03",
+      "time": "2026-07-09 09:31:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "WTI"
+      ],
+      "text": "Mitsubishi UFJ says the Thai baht is particularly vulnerable to rising oil prices and higher US Treasury yields, partly because the currency exhibits relatively low carry characteristics."
+    },
+    {
+      "id": "mkt:019f4480-7c29-7aab-8d04-0534cbf083bf",
+      "time": "2026-07-09 09:31:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【NBS: Food, tobacco, alcohol and dining-out prices fell 0.3% MoM in June】The NBS said food, tobacco, alcohol and dining-out prices fell 0.3% MoM in June, subtracting about 0.08 ppt from CPI. Food: fresh fruit -2.0% (‑0.04 ppt), fresh vegetables -1.0% (‑0.02 ppt), meat -0.5% (‑0.02 ppt) with pork -0.8%, eggs +5.8% (+0.03 ppt). Of seven other major categories, one rose, two were unchanged and four fell: health care +0.2%; housing and education/culture & recreation flat; other goods & services -2.7%; transport & communications -1.3%; household goods & services -0.2%; clothing -0.1%."
+    },
+    {
+      "id": "4977907",
+      "time": "2026-07-09 09:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：6月份全國工業生產者出廠價格同比上漲4.1%】國家統計局資料顯示，2026年6月份，全國工業生產者出廠價格同比上漲4.1%，環比下降0.3%。工業生產者購進價格同比上漲6.4%，環比下降0.2%。上半年，工業生產者出廠價格比上年同期上漲1.5%，工業生產者購進價格上漲2.4%。"
+    },
+    {
+      "id": "mkt:019f4480-3da1-7aab-8d03-fe862d700c97",
+      "time": "2026-07-09 09:31:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NBS: Food, tobacco and dining prices down 0.8% YoY in June】National Bureau of Statistics data: in June, food, tobacco and dining-out prices fell 0.8% YoY, subtracting about 0.24 ppt from CPI. Food breakdown: livestock meat -7.3% YoY (CPI impact ~-0.30 ppt); pork -15.9%. Dairy -1.7% YoY (CPI impact ~-0.02 ppt). Fresh fruit -0.7% YoY (CPI impact ~-0.01 ppt). Eggs +16.0% YoY (CPI impact +0.08 ppt). Among the seven other major categories, six rose and one fell: other goods and services +6.6% YoY; transport & communications +4.1%; healthcare +2.3%; clothing +1.4%; education, culture & recreation +1.4%; household goods & services +1.3%; housing -0.3%."
+    },
+    {
+      "id": "mkt:019f4480-244f-7aab-8d03-f7ec829976c9",
+      "time": "2026-07-09 09:31:16",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China bond futures open: 2Y/5Y flat, 10Y +0.01%, 30Y +0.03%】China 2-year bond futures (TS) front-month contract unchanged at the morning open; 5-year (TF) unchanged; 10-year (T) up 0.01%; 30-year (TL) up 0.03%."
+    },
+    {
+      "id": "mkt:019f4480-1189-7aab-8d03-eb6bd72e03c8",
+      "time": "2026-07-09 09:31:11",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "China Southern 2x Long Samsung Electronics (07747) rose 6.6%; China Southern 2x Long SK Hynix (07709) rose more than 15%."
+    },
+    {
+      "id": "mkt:019f4480-0f7c-7aab-8d03-e7b19e278b2c",
+      "time": "2026-07-09 09:31:10",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【NBS: China June CPI down 0.3% MoM, up 1.0% YoY】The National Bureau of Statistics reported June CPI rose 1.0% YoY; urban +1.0%, rural +0.8%. Food prices fell 1.6% YoY, non-food +1.5%; consumer goods +1.1% YoY, services +0.8% YoY. Jan–Jun average CPI +1.0% YoY. Month-on-month June CPI declined 0.3% (urban -0.4%, rural -0.3%); food -0.4% MoM, non-food -0.3% MoM; consumer goods -0.6% MoM, services unchanged."
+    },
+    {
+      "id": "mkt:019f4480-0d8e-7aab-8d03-dee29c142a3f",
+      "time": "2026-07-09 09:31:10",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures morning open】CSI 300 index futures (IF) most-active contract up 0.20% at open; SSE 50 index futures (IH) most-active contract down 0.10%; CSI 500 index futures (IC) most-active contract up 0.50%; CSI 1000 index futures (IM) most-active contract up 0.35%."
+    },
+    {
+      "id": "4977906",
+      "time": "2026-07-09 09:31:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上升3個基點，至4.030%。"
+    },
+    {
+      "id": "4977905",
+      "time": "2026-07-09 09:31:03",
+      "tags": [],
+      "text": "國家統計局：2026年6月份，全國居民消費價格同比上漲1.0％。"
+    },
+    {
+      "id": "te:markets:565444",
+      "time": "2026-07-09 09:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 4-week Low — SHANGHAI decreased to 3968.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.32%, and in the last 12 months, it increased 13.41%."
+    },
+    {
+      "id": "mkt:019f447f-e758-7aab-8d03-d4e58d3d860a",
+      "time": "2026-07-09 09:31:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "WTI",
+        "CNH"
+      ],
+      "text": "China June PPI fell 0.3% month-on-month, versus +0.5% in May."
+    },
+    {
+      "id": "4977904",
+      "time": "2026-07-09 09:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：2026年6月份居民消費價格同比上漲1.0%】2026年6月份，全國居民消費價格同比上漲1.0%。其中，城市上漲1.0%，農村上漲0.8%；食品價格下降1.6%，非食品價格上漲1.5%；消費品價格上漲1.1%，服務價格上漲0.8%。1—6月平均，全國居民消費價格比上年同期上漲1.0%。 6月份，全國居民消費價格環比下降0.3%。其中，城市下降0.4%，農村下降0.3%；食品價格下降0.4%，非食品價格下降0.3%；消費品價格下降0.6%，服務價格持平。"
+    },
+    {
+      "id": "mkt:019f447f-cfd4-7aab-8d03-cbe1e770cfd4",
+      "time": "2026-07-09 09:30:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (MoM) (Jun) | actual -0.3% | previous 0.5%"
+    },
+    {
+      "id": "4977903",
+      "time": "2026-07-09 09:30:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【亞聯機械一字漲停】亞聯機械一字漲停，公司預計上半年業績增長近6成，海外高毛利專案發力。"
+    },
+    {
+      "id": "mkt:019f447f-8fd0-7aab-8d03-c4f26d750e27",
+      "time": "2026-07-09 09:30:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's factory-gate producer price index (PPI) rose 4.1% YoY in June 2026 and fell 0.3% MoM, National Bureau of Statistics data showed."
+    },
+    {
+      "id": "4977902",
+      "time": "2026-07-09 09:30:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國6月PPI年率 4.1%，預期4.1%，前值3.90%。"
+    },
+    {
+      "id": "4977901",
+      "time": "2026-07-09 09:30:28",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國6月CPI年率 1%，預期1.1%，前值1.20%。"
+    },
+    {
+      "id": "mkt:019f447f-6788-7aab-8d03-b99d69153d68",
+      "time": "2026-07-09 09:30:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's consumer price index rose 1.0% YoY in June 2026, the National Bureau of Statistics said."
+    },
+    {
+      "id": "mkt:019f447f-571f-7aab-8d03-b002e75d9e88",
+      "time": "2026-07-09 09:30:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "China June CPI m/m -0.3% (exp -0.2%, prev -0.1%)."
+    },
+    {
+      "id": "mkt:019f447f-520f-7aab-8d03-ac31b8da66ac",
+      "time": "2026-07-09 09:30:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China June PPI YoY 4.1%; expected 4.1%; prior 3.9%."
+    },
+    {
+      "id": "mkt:019f447f-4dc3-7aab-8d03-a1415e59299b",
+      "time": "2026-07-09 09:30:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China June CPI YoY 1.0% vs 1.1% consensus; May 1.2%."
+    },
+    {
+      "id": "mkt:019f447f-3a9c-7aab-8d03-9aaac1e2f9a6",
+      "time": "2026-07-09 09:30:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (MoM) (Jun) | actual -0.3% | consensus -0.2% | previous -0.1%"
+    },
+    {
+      "id": "mkt:019f447f-38b2-7aab-8d03-947dc133158c",
+      "time": "2026-07-09 09:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (YoY) (Jun) | actual 4.1% | consensus 4.1% | previous 3.90%"
+    },
+    {
+      "id": "mkt:019f447f-38af-7aab-8d03-8c04dd31ea23",
+      "time": "2026-07-09 09:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (YoY) (Jun) | actual 1% | consensus 1.1% | previous 1.20%"
+    },
+    {
+      "id": "mkt:019f447f-0e14-7aab-8d03-87a138296ae6",
+      "time": "2026-07-09 09:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand deputy finance minister says government aims to raise investment share of GDP from 22-23% to 30%."
+    },
+    {
+      "id": "4977900",
+      "time": "2026-07-09 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4977899",
+      "time": "2026-07-09 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.49%， 滬深300指數期貨連續跌0.02%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續跌0.21%。"
+    },
+    {
+      "id": "4977898",
+      "time": "2026-07-09 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.54%，成分股中，沐曦股份漲5.70%，晶合整合漲5.54%，佰維儲存漲3.42%，盛美上海漲3.13%。"
+    },
+    {
+      "id": "4977897",
+      "time": "2026-07-09 09:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國副財長：政府計劃將國內生產總值中的投資率從22-23%提高到30%。"
+    },
+    {
+      "id": "mkt:019f447e-e2f2-7aab-8d03-79bf5724bc83",
+      "time": "2026-07-09 09:29:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Yashi shares hit the daily trading limit after the company said 1H net profit is expected to rise 407–515% year-on-year."
+    },
+    {
+      "id": "mkt:019f447e-918c-7aab-8d03-70708c23ae36",
+      "time": "2026-07-09 09:29:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's deputy finance minister said the government hopes to boost investment in the economy."
+    },
+    {
+      "id": "mkt:019f447e-81e2-7aab-8d03-6fdee5e92328",
+      "time": "2026-07-09 09:29:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share fiber-optic sector opened higher; Xingwang Yuda hit the daily limit-up, Meishi Technology approached limit-up, and Shaanxi Huada, Tefa Information and Changyingtong opened higher."
+    },
+    {
+      "id": "mkt:019f447e-7448-7aab-8d03-6749895098ca",
+      "time": "2026-07-09 09:29:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's deputy finance minister said the government is considering diversifying fuel sources."
+    },
+    {
+      "id": "4977896",
+      "time": "2026-07-09 09:29:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體產業鏈開盤活躍，合肥城建接近漲停，普冉股份、匯成股份、沐曦股份、晶合整合、神工股份紛紛高開。"
+    },
+    {
+      "id": "4977895",
+      "time": "2026-07-09 09:29:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海雅仕一字漲停】上海雅仕一字漲停，公司上半年淨利潤預增407%到515%。"
+    },
+    {
+      "id": "4977894",
+      "time": "2026-07-09 09:29:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta將投資100億美元，在加拿大建設其首個資料中心】當地時間7月8日，Meta發表宣告稱，將投資130億加元（約合100億美元），建設其在加拿大的首個資料中心，以擴大基礎設施來支援其人工智慧發展目標。Meta在宣告中介紹，該資料中心位於艾伯塔省斯特金縣，電力容量將達到1吉瓦。Meta將為這一新的發電設施提供資金，該設施將接入艾伯塔省的電網。Meta稱，該設施建設期間需要3000名建築工人，建成後將創造300個全職工作崗位。此外，該公司還將投資約6000萬加元用於當地基礎設施改善，包括道路和供水設施。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607093799307031",
+      "time": "2026-07-09 09:28:32",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行前官員：本輪加息週期終端利率或超2%】日本央行前官員渡邊努週三表示，日本央行可能在今年晚些時候加快加息步伐，並最終將基準利率推高至2%以上，以遏制通脹。"
+    },
+    {
+      "id": "mkt:019f447d-6a0d-7aab-8d03-5ef3ae51b6d2",
+      "time": "2026-07-09 09:28:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guide Infrared shares locked at the daily trading limit from the open after the company said 1H net profit is expected to exceed 1.2 bln yuan, up 6–7x YoY."
+    },
+    {
+      "id": "4977893",
+      "time": "2026-07-09 09:28:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【高德紅外一字漲停】高德紅外一字漲停，公司上半年淨利潤預計超12億元，預增6至7倍。"
+    },
     {
       "id": "4977892",
       "time": "2026-07-09 09:27:44",
@@ -147653,318 +148059,6 @@
         "市場"
       ],
       "text": "滬深300指數下跌2%至4,857.38點。"
-    },
-    {
-      "id": "4966214",
-      "time": "2026-07-02 09:32:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達5.17%，成分股中，瀾起科技跌9.16%，華海清科跌8.72%，滬矽產業跌8.04%，盛科通訊跌8.02%。"
-    },
-    {
-      "id": "mkt:019f2074-cd5a-7aab-8c69-5b2c454e3632",
-      "time": "2026-07-02 09:32:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share chemical and pharmaceutical sector staged a short-term rally. Hainan Haiyao and Jingxin Pharmaceutical hit the daily trading limit; Xuantai Medical, Yiming Medical, Betta Pharmaceuticals, Frontier Biotech and Tianyu Co. also gained."
-    },
-    {
-      "id": "4966213",
-      "time": "2026-07-02 09:32:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌3.03%，現報15629.979點；上證指數跌1.19%，現報4063.336點；創業板指跌3.80%，現報4098.953點。"
-    },
-    {
-      "id": "te:markets:563584",
-      "time": "2026-07-02 09:31:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Hold Near $2.90 — Gasoline Prices Hold Near $2.90 US gasoline prices held near $2.90 per gallon, hovering just above their lowest level in more than three months after reversing much of their conflict-driven surge over the past quarter. Oil flows through the Strait of Hormuz continued to improve, with crude shipments topping 10 million barrels per day under US military protection, according to a US official. The UAE also restored exports to pre-war levels by relying on alternative routes, while Iran's crude shipments exceeded 40 million barrels after the US ended its naval blockade. Separately, President Donald Trump welcomed progress in negotiations following another round of indirect talks. On the data front, gasoline inventories fell by a larger-than-expected 2.333 million barrels in the week ended June 26. Elsewhere, US Treasury Secretary Scott Bessent urged oil and gas companies to cut fuel prices, a day after President Donald Trump called on retailers to lower gasoline prices."
-    },
-    {
-      "id": "te:markets:563583",
-      "time": "2026-07-02 09:31:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Slide to 3-Week Low — The benchmark KOSPI slipped nearly 4% to around 7,990 on Thursday, extending losses to its lowest level in three weeks, as a global selloff in AI-related semiconductor stocks pressured market heavyweights. The decline followed sharp overnight losses in US chipmakers after concerns over the sustainability of AI spending triggered a broad technology retreat, prompting investors to trim positions in South Korea's heavily weighted semiconductor sector following the market's strong first-half rally. Losses were led by Samsung Electronics (-6.7%) and SK Hynix (-8.4%), alongside SK Square (-9.3%), Hyundai Motor (-3.2%), HD Hyundai Heavy Industries (-2.9%), Doosan Enerbility (-3.2%), SK Inc. (-8.9%), and Hyundai Mobis (-3.1%). Domestic sentiment was also pressured after South Korea's annual inflation rate accelerated to 3.2% in June, the highest since December 2023, reinforcing expectations that the Bank of Korea could maintain a tighter policy stance."
-    },
-    {
-      "id": "4966211",
-      "time": "2026-07-02 09:31:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報23136.410點；恒生科技指數現漲1.038%。"
-    },
-    {
-      "id": "4966210",
-      "time": "2026-07-02 09:31:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報23111.139點；恒生科技指數現漲0.971%。"
-    },
-    {
-      "id": "4966209",
-      "time": "2026-07-02 09:31:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證1000股指期貨(IM)主力合約日內跌超1%，現報8426.2點。"
-    },
-    {
-      "id": "4966208",
-      "time": "2026-07-02 09:31:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8432.00點。"
-    },
-    {
-      "id": "mkt:019f2073-99ad-7aab-8c69-5461f314f8b4",
-      "time": "2026-07-02 09:31:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Index futures open, morning session】At the morning open, CSI 300 index futures main contract (IF) fell 0.93%; SSE 50 index futures main contract (IH) fell 0.25%; CSI 500 index futures main contract (IC) fell 1.24%; CSI 1000 index futures main contract (IM) fell 0.98%."
-    },
-    {
-      "id": "mkt:019f2073-909c-7aab-8c69-4a27f65d7d61",
-      "time": "2026-07-02 09:31:12",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "【China government bond futures open slightly higher】China government bond futures opened marginally higher: 2-year (TS) most-active contract +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.01%, 30-year (TL) +0.04%."
-    },
-    {
-      "id": "4966207",
-      "time": "2026-07-02 09:31:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化學制藥板塊短線拉昇】化學制藥板塊短線拉昇，海南海藥、京新藥業漲停，宣泰醫藥、易明醫藥、貝達藥業、前沿生物、天宇股份等紛紛走高。"
-    },
-    {
-      "id": "4966206",
-      "time": "2026-07-02 09:31:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【針對嬰幼兒輔食生產 新規公開徵求意見】記者7月1日瞭解到，新版《嬰幼兒輔助食品生產許可審查細則（徵求意見稿）》開始公開徵求意見，新規進一步嚴格了許可要求，提升了產品品質。新版細則徵求意見稿對嬰幼兒輔助食品的原輔料提出了更加嚴格的管控要求。聚焦原料帶入風險，要求嚴格執行新國標，禁止使用蜂蜜，防範肉毒桿菌中毒等風險。對主要原料供應商開展現場稽核，對可能出現的摻雜使假物質進行必要的檢測。徵求意見稿，要求生產企業建立原輔料供應商稽核制度與採購驗收管理制度：對大米、小米、小麥、果蔬、畜禽、水產、乳和乳製品、維生素及微量元素等主要原輔料供應商或生產商進行現場質量安全稽核；另外在原料入庫前要查驗原料的全專案檢驗報告；畜禽應來自自建或自控的規模化集中養殖的養殖場，嚴禁使用從散戶採購的畜禽來源類原料。（央視）"
-    },
-    {
-      "id": "4966205",
-      "time": "2026-07-02 09:30:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3.03%，現報4131.649點；上證指數跌1.31%，現報4058.738點；深證成指跌2.33%，現報15743.595點。"
-    },
-    {
-      "id": "4966204",
-      "time": "2026-07-02 09:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞5月商品及服務貿易帳 -30.18億澳元，預期220億澳元，前值17.91億澳元。"
-    },
-    {
-      "id": "mkt:019f2072-b37f-7aab-8c69-42906aae9b7d",
-      "time": "2026-07-02 09:30:15",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia May goods and services trade balance -3.018 bln AUD, expected +22.0 bln, prior +1.791 bln."
-    },
-    {
-      "id": "4966203",
-      "time": "2026-07-02 09:30:14",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞5月出口月率 -6.9%，前值7.20%。澳大利亞5月進口月率 2.6%，前值0.80%。"
-    },
-    {
-      "id": "mkt:019f2072-acef-7aab-8c69-3f52ea64ac9c",
-      "time": "2026-07-02 09:30:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yingshi Innovation's Liu Jingkang: No firm can achieve long-term monopoly or profit through price wars alone】At Yingshi Innovation's 2025 annual shareholders meeting, founder and chairman Liu Jingkang said China's smart imaging market is effectively dominated by DJI and Yingshi Innovation and is not a rational market. He warned price wars are difficult to disprove and that no company can sustain a long-term monopoly or profits through pure price competition, saying the consumer electronics sector cannot rely on price cuts for healthy industry development."
-    },
-    {
-      "id": "mkt:019f2072-9ffa-7aab-8c69-360515e0b7bb",
-      "time": "2026-07-02 09:30:10",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "Australia May imports MoM +2.6% (prior +0.8%)."
-    },
-    {
-      "id": "mkt:019f2072-9fa6-7aab-8c69-2bf1dc6af212",
-      "time": "2026-07-02 09:30:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia May exports MoM -6.9%; prior +7.2%."
-    },
-    {
-      "id": "4966202",
-      "time": "2026-07-02 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.61%，成分股中，戈碧迦跌8.34%，華嶺股份跌4.37%，矽烷科技跌4.17%，錦華新材跌3.85%。"
-    },
-    {
-      "id": "4966201",
-      "time": "2026-07-02 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達4.33%，成分股中，中微公司跌7.25%，佰維儲存跌7.14%，華海清科跌6.71%，瀾起科技跌6.58%。"
-    },
-    {
-      "id": "4966200",
-      "time": "2026-07-02 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.77%， 滬深300指數期貨連續跌1.09%， 中證500指數期貨連續跌1.23%， 上證50指數期貨連續跌0.52%。"
-    },
-    {
-      "id": "4966199",
-      "time": "2026-07-02 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.12%， 10年期主力合約漲0.02%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "mkt:019f2072-7a7d-7aab-8c69-20b260e98dcb",
-      "time": "2026-07-02 09:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Exports (MoM) (May) | actual -6.9% | previous 7.20%"
-    },
-    {
-      "id": "mkt:019f2072-7a5b-7aab-8c69-1302bda43ea9",
-      "time": "2026-07-02 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Goods and Services Trade Balance (May) | actual -3018000000B | consensus 22000000000B | previous 1791000000B"
-    },
-    {
-      "id": "mkt:019f2072-7a7c-7aab-8c69-1bd6dcec6b0d",
-      "time": "2026-07-02 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Imports (MoM) (May) | actual 2.6% | previous 0.80%"
-    },
-    {
-      "id": "mkt:019f2072-4030-7aab-8c69-0b42d394adbe",
-      "time": "2026-07-02 09:29:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share AI application sector opened higher; Yidian Tianxia rose over 8%, Tianyu Shuke rose over 6%, with Yinli Media and BlueFocus also gaining."
-    },
-    {
-      "id": "4966198",
-      "time": "2026-07-02 09:29:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨盤初跌超1%。"
-    },
-    {
-      "id": "mkt:019f2071-d50f-7aab-8c69-0149190061ef",
-      "time": "2026-07-02 09:29:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 futures fell more than 1% in early trade."
-    },
-    {
-      "id": "4966197",
-      "time": "2026-07-02 09:28:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "CPO板塊集體低開，劍橋科技跌停，深科技跌超9%，東山精密、華燦光電等跟跌。"
-    },
-    {
-      "id": "mkt:019f2071-5eec-7aab-8c68-fbc8ea801df6",
-      "time": "2026-07-02 09:28:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-share CPO sector opened broadly lower; Cambridge Technology hit limit-down, Shenzhen Tech fell over 9%, and Dongshan Precision and HC Semitek also declined."
     }
   ]
 }
