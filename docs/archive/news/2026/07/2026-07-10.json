@@ -1,7 +1,333 @@
 {
   "date": "2026-07-10",
-  "count": 142,
+  "count": 174,
   "items": [
+    {
+      "id": "mkt:019f4828-e35d-7aab-8d1f-e48900c0870f",
+      "time": "2026-07-10 02:34:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Economic data boost rate-hike bets, NZD hits two-week high】On Thursday the New Zealand dollar rose over 1% versus the US dollar to a two-week high of 0.5763 and also strengthened versus the Australian dollar after robust manufacturing data raised odds of further RBNZ tightening. New Zealand manufacturing grew at its fastest pace in nearly five years last month, and the RBNZ governor said economic expansion is stronger than expected. Market participants said the RBNZ's shift to a more hawkish stance has supported the currency; Monex FX trader Andrew Hazlett said if the bank raises rates further he expects additional NZD appreciation into year-end."
+    },
+    {
+      "id": "mkt:019f4827-94cf-7aab-8d1f-d8b267b1dad0",
+      "time": "2026-07-10 02:33:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 night-session close, SHFE gold most-active contract rose 1.31% to 902 yuan/gram, SHFE silver most-active contract rose 3.22% to 14,693 yuan/kg, and Shanghai crude (SC) most-active contract fell 3.22% to 465 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f4827-599d-7aab-8d1f-d2dfeede4980",
+      "time": "2026-07-10 02:32:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard near Bandar Abbas port in southern Iran."
+    },
+    {
+      "id": "4979641",
+      "time": "2026-07-10 02:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：伊朗南部阿巴斯港傳來爆炸聲。"
+    },
+    {
+      "id": "4979640",
+      "time": "2026-07-10 02:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收跌1.44美元，跌幅1.96%，報72.08美元/桶。NYMEX 8月天然氣期貨收報3.0120美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.0387美元/加侖，NYMEX 8月取暖油期貨收報3.5716美元/加侖。"
+    },
+    {
+      "id": "mkt:019f4825-dab8-7aab-8d1f-c90955d5a965",
+      "time": "2026-07-10 02:31:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $72.08 a barrel, down $1.44 or 1.96%."
+    },
+    {
+      "id": "mkt:019f4825-37c7-7aab-8d1f-c5fb5428d335",
+      "time": "2026-07-10 02:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 1.16% at 901.36 yuan/gram in the July 9 evening session; Silver T+D closed up 2.96% at 14,653.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:565789",
+      "time": "2026-07-10 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Increases by 1.67% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.67% increase."
+    },
+    {
+      "id": "4979639",
+      "time": "2026-07-10 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.81%，報470.50元人民幣/桶。滬金夜盤收漲1.31%，滬銀收漲3.22%。"
+    },
+    {
+      "id": "4979638",
+      "time": "2026-07-10 02:27:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數失去全球最佳股市寶座，被奈及利亞超越】隨著市場對人工智慧（AI）股票的情緒降溫，將亞洲國家此前的領漲行情推入熊市，奈及利亞股市今年為投資者提供了最高的美元計價回報，超越了韓國。根據彭博追蹤的全球92家證券交易所資料，作為非洲最大石油生產國的奈及利亞，其基準指數今年以美元計價上漲了68%，超過了韓國Kospi指數66%的漲幅。奈及利亞股市的上漲主要由金融服務類公司引領，自1月份以來奈拉昇值了4%。此外，標普道瓊斯指數公司正考慮將奈及利亞升級為前沿市場（frontier-market）地位，這可能進一步增加其對投資者的吸引力。"
+    },
+    {
+      "id": "4979637",
+      "time": "2026-07-10 02:25:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德談論法國大選：我不是任何（職位的）候選人。"
+    },
+    {
+      "id": "mkt:019f4820-820d-7aab-8d1f-b9da26b991a2",
+      "time": "2026-07-10 02:25:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【Meta exploring AI cloud business, considering leasing compute capacity】Meta Platforms CEO Mark Zuckerberg said the company needs as much compute as possible and is considering leasing portions of its AI infrastructure to external firms amid tight supply of compute for AI development. Reports earlier this month said Meta is drafting a cloud-business plan to directly monetize data centers and other compute partnerships. Zuckerberg added there is potential to build a cloud business if the company chooses to, and denied Meta has excess capacity, saying he does not know anyone in the industry who believes they have surplus compute and that Meta is fully utilizing its resources."
+    },
+    {
+      "id": "mkt:019f4820-5744-7aab-8d1f-b4c6fe22aa4b",
+      "time": "2026-07-10 02:25:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Mehr news agency reported minutes ago that two explosions were heard near Bushehr and near the city of Choghadak in Iran."
+    },
+    {
+      "id": "te:markets:565788",
+      "time": "2026-07-10 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Soars by 10.22% — Top commodity gainers are Coffee (10.22%) and Cocoa (5.19%). Biggest losers are Oat (-7.37%) and Corn (-2.08%)."
+    },
+    {
+      "id": "4979636",
+      "time": "2026-07-10 02:25:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社：伊朗布什爾省與喬加達克地區共傳出六起爆炸聲。"
+    },
+    {
+      "id": "4979635",
+      "time": "2026-07-10 02:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "邁赫爾通訊社：霍爾木茲海峽附近伊朗科納拉克地區發生爆炸。"
+    },
+    {
+      "id": "mkt:019f481d-a37f-7aab-8d1f-a9faeef1cdb4",
+      "time": "2026-07-10 02:22:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said the central bank needs to bring inf back to target in about three years."
+    },
+    {
+      "id": "mkt:019f481d-5ac1-7aab-8d1f-a4cab4c3532c",
+      "time": "2026-07-10 02:21:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Mehr News Agency reports three explosions were heard in Konarak in Chabahar province, Iran. There are no detailed reports yet on the cause or extent of any damage."
+    },
+    {
+      "id": "te:markets:565787",
+      "time": "2026-07-10 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 3.35% — Top commodity loser is Lithium Carbonate (-3.35%). Gains are led by Silver (3.31%), Copper (2.54%), Silicon (2.40%) and Gold (1.27%)."
+    },
+    {
+      "id": "mkt:019f4819-9190-7aab-8d1f-9c6e1959fd4c",
+      "time": "2026-07-10 02:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian state TV quoted the interior minister as saying authorities have arrested the group that carried out the Damascus bombing two days ago."
+    },
+    {
+      "id": "4979634",
+      "time": "2026-07-10 02:16:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞內政部長表示，製造兩天前大馬士革爆炸案的恐怖團伙已全部被捕。"
+    },
+    {
+      "id": "4979633",
+      "time": "2026-07-10 02:16:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，愛奇藝漲6.19%，億航漲6.13%，大全新能源漲3.96%，海天網路漲3.51%，阿特斯漲2.98%。"
+    },
+    {
+      "id": "te:markets:565786",
+      "time": "2026-07-10 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Tumbles by 6.67% — Top commodity losers are Natural gas (-6.67%), Heating Oil (-3.02%), Gasoline (-2.78%), Brent Crude Oil (-2.77%) and Crude Oil WTI (-2.52%). Gains are led by Natural Gas UK (3.33%), Germany Natural Gas THE (2.06%) and Methanol (1.19%)."
+    },
+    {
+      "id": "mkt:019f4812-7bbb-7aab-8d1f-93f05e4dea06",
+      "time": "2026-07-10 02:09:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said Europe clearly needs to establish a European asset."
+    },
+    {
+      "id": "4979632",
+      "time": "2026-07-10 02:07:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德： 我們顯然需要一款歐洲主權安全資產。"
+    },
+    {
+      "id": "4979631",
+      "time": "2026-07-10 02:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃隆・馬斯克承認自己此前對 Anthropic 的判斷有誤，稱其無疑是人工智慧領域的行業龍頭，尚無競品能比肩 Mythos 大模型；他預計 Mythos 第二代模型很快推出，並承諾絕不會採取損害 Anthropic 發展的方式切斷相關合作。"
+    },
+    {
+      "id": "mkt:019f480f-87d6-7aab-8d1f-8999f9586fa0",
+      "time": "2026-07-10 02:06:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said EU governments must take action to boost economic growth."
+    },
+    {
+      "id": "mkt:019f480f-81bb-7aab-8d1f-84c69d287401",
+      "time": "2026-07-10 02:06:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Musk says he underestimated Anthropic, calls it AI industry leader】On social media, Musk said he had underestimated Anthropic, calling no firm’s models better than its Mythos and Fable and saying he expects Anthropic to release Mythos 2 soon. He added that, even if Anthropic is a competitor, he would not take steps that would seriously harm its development, citing Tesla’s past patent open-sourcing and opening of the Supercharger network and SpaceX’s practice of not raising prices or imposing unfavorable terms when launching rival satellite systems."
+    },
+    {
+      "id": "mkt:019f480f-7d24-7aab-8d1f-7b917f639abd",
+      "time": "2026-07-10 02:06:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO says exploring an AI cloud business is reasonable."
+    },
+    {
+      "id": "mkt:019f480e-d37c-7aab-8d1f-72cfe5ef908e",
+      "time": "2026-07-10 02:05:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【French central bank raises near-term GDP forecast, expects to avoid recession】The Banque de France raised its near-term GDP forecast after June activity improved across sectors, saying its monthly business survey and recent hard data show Q2 output rose 0.2%. The bank had previously flagged stagnation, which after a Q1 contraction risked leaving the economy close to recession. It said industrial activity strengthened markedly in June and services and construction have been recovering since May, easing some pressure on the government's efforts to rein in the budget deficit."
+    },
+    {
+      "id": "4979630",
+      "time": "2026-07-10 02:05:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐盟各國政府必須採取行動發展經濟。"
+    },
+    {
+      "id": "4979629",
+      "time": "2026-07-10 02:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta 執行長扎克伯格：佈局人工智慧雲業務具備合理性。"
+    },
     {
       "id": "mkt:019f480c-9c2a-7aab-8d1f-6d0044bb3b95",
       "time": "2026-07-10 02:03:33",
