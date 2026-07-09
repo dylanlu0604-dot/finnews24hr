@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-09 08:12:28",
+  "updated": "2026-07-09 08:16:22",
   "count": 16159,
   "items": [
+    {
+      "id": "4977784",
+      "time": "2026-07-09 08:15:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【早間公告：貝達藥業恩沙替尼術後輔助治療臨床研究成果在《新英格蘭醫學雜誌》發表】①探路者：向特定物件發行股票申請獲得深圳證券交易所上市稽核中心稽核透過。②金埔園林：向特定物件發行股票申請獲得深圳證券交易所上市稽核中心稽核透過。③貝達藥業：鹽酸恩沙替尼膠囊（商品名：貝美納®）術後輔助治療IBIIIB（T3N2M0）期間變性淋巴瘤激酶（ALK）陽性非小細胞肺癌（NSCLC）研究在《新英格蘭醫學雜誌》上線上全文發表。"
+    },
+    {
+      "id": "4977783",
+      "time": "2026-07-09 08:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！北部灣實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，7月9日至11日，北部灣部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "4977782",
+      "time": "2026-07-09 08:15:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技披露招股意向書，預計7月16日發行】7月9日凌晨，長鑫科技公佈科創板IPO招股意向書，預計發行日期為7月16日。據披露，公司本次擬初始公開發行股票66.88億股，發行股份佔公司發行後總股本的比例約為10.00%（超額配售選擇權行使前）；發行初始戰略配售發行數量為33.44億股，佔初始發行數量的50.00%。"
+    },
+    {
+      "id": "4977781",
+      "time": "2026-07-09 08:14:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【資料中心建設熱潮提振航空貨運需求】人工智慧(AI)基礎設施建設所需的笨重伺服器機架和薄如晶圓的半導體，正佔據著貨機上的艙位，而此前這些空間主要用於運輸低價服裝和各類小商品包裹。為推動全美資料中心的快速建設，企業正支付高昂運費從亞洲空運物資，而不是等待速度較慢、價格較低的海運。這種需求正在推高航空貨運量，與此同時，美國更高的關稅正侵蝕著廉價電商包裹市場，這些包裹在過去幾年裡曾充斥著貨運網路。“航空貨運市場似乎在逆勢上揚，”物流分析公司Xeneta的首席航空貨運官Niall van de Wouw說，“目前最大的增長引擎是與AI相關的一切。”國際航空運輸協會(International Air Transport Association)的資料顯示，5月份從亞洲到北美的航空貨運量較上年同期增長近20%。全球貨運量整體增長6%。美國商務部的資料顯示，5月份美國商品進口額增至3,170億美元，較上年同期增長15%，這是因為美國進口了更多半導體和計算機配件等與AI建設相關的商品。“關鍵的驅動因素是各方正爭分奪秒地推動新算力上線，”貨運代理公司Kuehne + Nagel International的雲基礎設施和半導體戰略全球主管羅.夏爾馬(Ro Sharma)說。由於需求增加，加之伊朗戰爭導致航空燃油價格走高，在通常是航空貨運淡季的時期，運費卻出現了上漲。Xeneta的資料顯示，6月份從亞太地區到北美的航空貨運平均即期運費較上年同期攀升36%。"
+    },
+    {
+      "id": "mkt:019f443a-3cb1-7aab-8d01-a79205b06526",
+      "time": "2026-07-09 08:14:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says US shells struck northern railway bridge】Iran says a railway bridge west of Aghala in Golestan province was struck by multiple US artillery shells in the early hours of the 9th, local time, and several explosions were reported."
+    },
+    {
+      "id": "4977780",
+      "time": "2026-07-09 08:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱北部一鐵路橋遭美軍炮彈襲擊】總檯記者當地時間9日獲悉，伊朗北部戈勒斯坦省阿加拉市以西的一座鐵路橋當天凌晨被數枚美軍炮彈擊中，當地傳出多次爆炸聲。（央視）"
+    },
+    {
+      "id": "mkt:019f4437-b36a-7aab-8d01-99635f924c04",
+      "time": "2026-07-09 08:12:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "According to Axios, U.S. officials said the U.S. Air Force bombed two railway bridges in Iran in strikes on Wednesday."
+    },
     {
       "id": "mkt:019f4437-5aa3-7aab-8d01-94048ca783ce",
       "time": "2026-07-09 08:11:46",
@@ -147700,79 +147765,6 @@
         "公司"
       ],
       "text": "和譽在港交所公告，公司之附屬公司和譽醫藥宣佈，與阿斯利康簽署戰略合作協議，共同推進一項新型靶免聯合療法治療非小細胞肺癌（“NSCLC”）的臨床研究。"
-    },
-    {
-      "id": "4966092",
-      "time": "2026-07-02 08:15:02",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數大跌 晶片股跟隨美股走低】韓國Kospi指數一度下跌6%，晶片製造商股價跟隨美國同行下跌，投資者正在評估美聯儲主席凱文·沃什關於通脹的最新言論。SK海力士、三星電子和三星電機對指數拖累最大。韓國小型股Kosdaq指數下跌幅度一度高達4.6%。MSCI亞太指數一度下跌1.1%。"
-    },
-    {
-      "id": "4966091",
-      "time": "2026-07-02 08:14:14",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌6%，至7804.92。"
-    },
-    {
-      "id": "mkt:019f202c-f649-7aab-8c67-ee685ffdbbca",
-      "time": "2026-07-02 08:14:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI index deepened losses to 6%; Samsung Electronics fell 7%, SK Hynix dropped nearly 8%."
-    },
-    {
-      "id": "4966090",
-      "time": "2026-07-02 08:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭軍方在X平臺上表示，俄羅斯襲擊烏克蘭期間，波蘭緊急調動戰鬥機。"
-    },
-    {
-      "id": "mkt:019f202c-28e8-7aab-8c67-e0882292a42b",
-      "time": "2026-07-02 08:13:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Poland's military said on social media it scrambled fighter jets in response to Russian strikes on Ukraine."
-    },
-    {
-      "id": "mkt:019f202b-fc70-7aab-8c67-d8e809f5ab5e",
-      "time": "2026-07-02 08:13:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China successfully launches Haiyang-2E ocean-observation satellite】At 07:46 Beijing time on July 2, 2026, China launched the Haiyang-2E ocean-observation satellite from Jiuquan Satellite Launch Center on a Long March 4B rocket; the satellite reached its planned orbit and the mission was declared successful. The launch was the Long March family’s 654th flight."
-    },
-    {
-      "id": "4966089",
-      "time": "2026-07-02 08:12:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功發射海洋二號E衛星】北京時間2026年7月2日7時46分，我國在酒泉衛星發射中心使用長征四號乙運載火箭，成功將海洋二號E衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第654次飛行。"
     }
   ]
 }
