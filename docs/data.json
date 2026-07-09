@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-10 04:47:13",
+  "updated": "2026-07-10 04:51:07",
   "count": 15911,
   "items": [
+    {
+      "id": "te:markets:565801",
+      "time": "2026-07-10 04:49:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Climbs as Global Stocks Rebound — The Ibovespa gained 1.2% to close at 172,742 on Thursday, tracking the positive tone across global equity markets. A rebound in major chipmakers lifted global stocks, while declining oil prices helped improve risk sentiment as investors looked past renewed hostilities between the US and Iran. Financials led gains, with Itaú and Bradesco rising 1.7%, Itaúsa adding 1.9%, and Banco do Brasil advancing 2.4%. Most utilities also moved higher, with Sabesp up 2.6%. Axia was the exception, falling 2.7% after Goldman Sachs lowered its adjusted EBITDA estimates for the second quarter. Other notable gainers included Rede D'Or (+3.1%) and Embraer (+2.9%). Petrobras fell 1.4% as oil prices retreated from earlier highs."
+    },
+    {
+      "id": "4979753",
+      "time": "2026-07-10 04:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "條款顯示，SK 海力士美股發行認購需求接近 2000 億美元，SK 海力士本次美國存託憑證發行份額中，前 25 大客戶認購佔比約 67%。"
+    },
     {
       "id": "4979752",
       "time": "2026-07-10 04:41:22",
@@ -145358,28 +145378,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Closes Higher as Fed Hike Bets Ease — The Ibovespa rose 0.6% to close at 172,788 on Thursday after the release of the US payroll report, the Federal Reserve’s key gauge of labor market conditions, which came in much weaker than expected. Softer job creation reduced the likelihood of further Fed rate hikes in the coming months, improving global risk sentiment. Meanwhile, oil prices eased as the gradual normalization of shipping flows through the Strait of Hormuz raised expectations of higher supply, further easing concerns over energy-driven inflation and supporting expectations of a more dovish stance from major central banks. Financial stocks led gains, with Bradesco up 0.7% and Banco do Brasil rising 1.4%. Other notable gainers included Rede D'Or (+1.5%) and Embraer (+1.5%)."
-    },
-    {
-      "id": "4968277",
-      "time": "2026-07-03 04:51:02",
-      "tags": [
-        "行業",
-        "公司",
-        "資料",
-        "市場"
-      ],
-      "text": "【7月3日美股成交額前20：特斯拉嚴控員工AI支出，每週最高200美元】週四美股成交額第3名特斯拉收跌7.49%，成交287.74億美元。據報道，特斯拉將員工每週AI支出上限設為200美元。據該公司內部備忘錄及知情人士報道，特斯拉上月通知員工，將從7月6日起對員工的人工智慧支出設定每週200美元的上限。備忘錄稱，員工如需超過限額，需要獲得批准，但上述限額不包括xAI產品的測試版。據兩位熟悉相關使用情況的人士透露，特斯拉工程師每週經常消耗價值數千美元的詞元。"
-    },
-    {
-      "id": "te:markets:563883",
-      "time": "2026-07-03 04:48:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Steadies Near Pre-War Levels — Brent crude oil prices were trading near $71.5 on Thursday, recovering from a 2% decline earlier in the session as traders sought to secure supplies ahead of the extended U.S. Independence Day weekend. Still, prices remained at their lowest level since February 27, as shipping activity through the Strait of Hormuz continued to recover steadily and investors remained hopeful that a permanent peace deal between the U.S. and Iran could be reached. The United Arab Emirates restored its exports to more than 3.9 million barrels per day, while Saudi Arabia ramped up oil exports to Asia, bringing total daily flows through the Strait of Hormuz above 10 million barrels. Meanwhile, President Donald Trump said U.S.-Iran negotiations were progressing well after mediators from Qatar and Pakistan concluded separate meetings with U.S. and Iranian negotiators in Doha on Wednesday."
     }
   ]
 }

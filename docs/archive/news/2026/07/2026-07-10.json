@@ -1,7 +1,27 @@
 {
   "date": "2026-07-10",
-  "count": 339,
+  "count": 341,
   "items": [
+    {
+      "id": "te:markets:565801",
+      "time": "2026-07-10 04:49:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Climbs as Global Stocks Rebound — The Ibovespa gained 1.2% to close at 172,742 on Thursday, tracking the positive tone across global equity markets. A rebound in major chipmakers lifted global stocks, while declining oil prices helped improve risk sentiment as investors looked past renewed hostilities between the US and Iran. Financials led gains, with Itaú and Bradesco rising 1.7%, Itaúsa adding 1.9%, and Banco do Brasil advancing 2.4%. Most utilities also moved higher, with Sabesp up 2.6%. Axia was the exception, falling 2.7% after Goldman Sachs lowered its adjusted EBITDA estimates for the second quarter. Other notable gainers included Rede D'Or (+3.1%) and Embraer (+2.9%). Petrobras fell 1.4% as oil prices retreated from earlier highs."
+    },
+    {
+      "id": "4979753",
+      "time": "2026-07-10 04:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "條款顯示，SK 海力士美股發行認購需求接近 2000 億美元，SK 海力士本次美國存託憑證發行份額中，前 25 大客戶認購佔比約 67%。"
+    },
     {
       "id": "4979752",
       "time": "2026-07-10 04:41:22",
