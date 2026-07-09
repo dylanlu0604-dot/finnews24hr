@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-10 06:47:25",
-  "count": 15869,
+  "updated": "2026-07-10 06:51:15",
+  "count": 15871,
   "items": [
+    {
+      "id": "mkt:019f4913-8d73-7aab-8d22-2ae77fe76aeb",
+      "time": "2026-07-10 06:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China urges parties in Ukraine crisis to seek early ceasefire】China's deputy permanent representative to the UN, Sun Lei, told the Security Council on the 9th that parties should remain calm and exercise restraint, push to de-escalate the situation and create conditions for an early ceasefire and end to hostilities."
+    },
+    {
+      "id": "4979814",
+      "time": "2026-07-10 06:49:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國2026財年前9個月聯邦赤字約1.4萬億美元】據美國國會預算辦公室釋出的《2026年6月月度預算回顧》，2026財年前九個月，美國聯邦預算赤字總計約1.4萬億美元，比上一財年同期增加350億美元。同期聯邦收入為4.2萬億美元，增加1420億美元，增幅4%；支出為5.5萬億美元，增加1780億美元，增幅3%。（央視）"
+    },
+    {
+      "id": "mkt:019f4911-2dfa-7aab-8d22-2574bd731291",
+      "time": "2026-07-10 06:48:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【U.S. federal deficit about $1.4 trillion in first nine months of fiscal 2026】The Congressional Budget Office's June 2026 Monthly Budget Review said the federal budget deficit for the first nine months of fiscal 2026 was about $1.4 trillion, up $35 billion from the same period a year earlier. Receipts totaled $4.2 trillion, rising $142 billion (4%); outlays were $5.5 trillion, up $178 billion (3%)."
+    },
     {
       "id": "4979813",
       "time": "2026-07-10 06:46:27",
@@ -144931,14 +144957,6 @@
         "其他"
       ],
       "text": "【國際原子能機構總幹事：破壞核安全的襲擊不可接受】國際原子能機構總幹事格羅西2日表示，近期發生在扎波羅熱核電站附近的無人機襲擊危及核電站的應急響應能力，此類襲擊“不可接受”。格羅西在國際原子能機構的一份宣告中表示，該機構駐紮在扎波羅熱核電站的團隊本週確認，附近埃涅爾戈達爾市一座消防站遭到嚴重破壞。該消防站對保障扎波羅熱核電站的應急響應能力至關重要，可在核電站發生大規模緊急情況時，為核電站自身的消防隊提供重要的後備支援。宣告說，無人機襲擊發生在6月30日，次日國際原子能機構團隊前往現場檢查，發現消防站建築和數輛消防車遭到破壞，消防站的執行能力被嚴重削弱。格羅西警告說：“任何破壞核安全和應急能力的襲擊都是不可接受的。”（新華社）"
-    },
-    {
-      "id": "4968351",
-      "time": "2026-07-03 06:48:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案顯示，深圳宏芯宇電子股份有限公司向港交所提交上市申請書。"
     }
   ]
 }

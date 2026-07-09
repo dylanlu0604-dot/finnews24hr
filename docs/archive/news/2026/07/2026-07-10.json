@@ -1,7 +1,33 @@
 {
   "date": "2026-07-10",
-  "count": 423,
+  "count": 426,
   "items": [
+    {
+      "id": "mkt:019f4913-8d73-7aab-8d22-2ae77fe76aeb",
+      "time": "2026-07-10 06:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China urges parties in Ukraine crisis to seek early ceasefire】China's deputy permanent representative to the UN, Sun Lei, told the Security Council on the 9th that parties should remain calm and exercise restraint, push to de-escalate the situation and create conditions for an early ceasefire and end to hostilities."
+    },
+    {
+      "id": "4979814",
+      "time": "2026-07-10 06:49:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國2026財年前9個月聯邦赤字約1.4萬億美元】據美國國會預算辦公室釋出的《2026年6月月度預算回顧》，2026財年前九個月，美國聯邦預算赤字總計約1.4萬億美元，比上一財年同期增加350億美元。同期聯邦收入為4.2萬億美元，增加1420億美元，增幅4%；支出為5.5萬億美元，增加1780億美元，增幅3%。（央視）"
+    },
+    {
+      "id": "mkt:019f4911-2dfa-7aab-8d22-2574bd731291",
+      "time": "2026-07-10 06:48:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【U.S. federal deficit about $1.4 trillion in first nine months of fiscal 2026】The Congressional Budget Office's June 2026 Monthly Budget Review said the federal budget deficit for the first nine months of fiscal 2026 was about $1.4 trillion, up $35 billion from the same period a year earlier. Receipts totaled $4.2 trillion, rising $142 billion (4%); outlays were $5.5 trillion, up $178 billion (3%)."
+    },
     {
       "id": "4979813",
       "time": "2026-07-10 06:46:27",
