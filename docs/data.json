@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-09 20:49:54",
-  "count": 16008,
+  "updated": "2026-07-09 20:53:52",
+  "count": 16002,
   "items": [
+    {
+      "id": "4979238",
+      "time": "2026-07-09 20:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美光將到2035年在美計劃投資總額增至超2500億美元】美光科技7月9日釋出宣告稱，將加快在美國晶圓廠及技術領域的投資步伐，並將截至2035年的預期投資總額提升至超2500億美元。美光預計，此次投資增加將助力實現其長期目標，即在美國本土生產40%的DRAM產品，同時創造更多高薪的直接與間接就業機會。"
+    },
+    {
+      "id": "4979237",
+      "time": "2026-07-09 20:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭財長哈里斯：歐盟經濟財政理事會週五將審議西班牙債務提案。"
+    },
+    {
+      "id": "4979236",
+      "time": "2026-07-09 20:52:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：伊朗必須放棄對航運路線的控制主張。伊朗意圖將霍爾木茲海峽當做自己的籌碼。"
+    },
+    {
+      "id": "4979235",
+      "time": "2026-07-09 20:51:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿爾及利亞國家石油公司（Sonatrach）表示，燃料與潤滑油生產未受影響，國內市場供應仍保持不間斷。"
+    },
+    {
+      "id": "4979233",
+      "time": "2026-07-09 20:51:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿爾及利亞國家石油公司(SONATRACH)稱無人員傷亡。"
+    },
+    {
+      "id": "4979232",
+      "time": "2026-07-09 20:51:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Arm Holdings美股盤前漲超5%】Arm Holdings美股盤前漲超5%，現報315.27美元。"
+    },
+    {
+      "id": "mkt:019f46ee-b658-7aab-8d17-84619bec0ed5",
+      "time": "2026-07-09 20:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sonatrach said an incident occurred at the Arzew refinery; the situation is fully under control."
+    },
+    {
+      "id": "mkt:019f46ed-c8d6-7aab-8d17-7a7022a90470",
+      "time": "2026-07-09 20:50:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai Stock Exchange says registration for Shanghai Suiyuan Technology Co., Ltd.'s STAR Market IPO has taken effect."
+    },
+    {
+      "id": "mkt:019f46ed-a699-7aab-8d17-72ae33636ddf",
+      "time": "2026-07-09 20:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "New York Fed President Williams, an FOMC permanent voter, will speak in 10 minutes."
+    },
+    {
+      "id": "4979230",
+      "time": "2026-07-09 20:49:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光此前計劃投資約2000億美元。"
+    },
     {
       "id": "mkt:019f46ec-808a-7aab-8d17-6b8c4b726b5f",
       "time": "2026-07-09 20:48:52",
@@ -146319,173 +146408,6 @@
         "國際"
       ],
       "text": "【美國國債上漲 疲軟的就業報告削弱了加息預期】美國國債上漲，之前釋出的美國就業報告弱於預期，促使交易員下調了對美聯儲將在未來幾個月加息的預期。對貨幣政策變化最敏感的兩年期美國國債收益率下跌6個基點，至4.11%，10年期收益率下跌2個基點，至4.46%。利率互換顯示，交易員預計美聯儲在本月晚些時候會議上加息的機率約為20%，低於資料公佈前的33%。市場體現出到2027年3月份，以每次25個基點的加息次數不到兩次。在此前兩個月資料被下修後，6月份美國非農就業人數增加5.7萬人，而彭博調查的經濟學家預期為11.3萬人。隨著勞動參與率驟降，失業率降至4.2%。"
-    },
-    {
-      "id": "mkt:019f22e4-88c5-7aab-8c7a-805d15f8821d",
-      "time": "2026-07-02 20:53:49",
-      "tags": [
-        "MKT News",
-        "OWL.O",
-        "Impact bullish"
-      ],
-      "text": "Blue Owl Capital shares rose about 3% in pre-market trading; redemption requests for two of its private-credit funds were slightly lower than in the prior period."
-    },
-    {
-      "id": "mkt:019f22e4-581b-7aab-8c7a-7aa59ade29eb",
-      "time": "2026-07-02 20:53:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【This could be considered \"a pretty good jobs report for the WHITE HOUSE\"】New York Times economics reporter Romm called the jobs figures \"a pretty good jobs report for the WHITE HOUSE\"; the WHITE HOUSE has not commented. The unemployment rate was little changed, and preferred sectors such as manufacturing were broadly stable or edged up. Against a backdrop of persistent inf and the ongoing Iran war, the hiring data gives the government a positive economic talking point as voter dissatisfaction with the economy rises."
-    },
-    {
-      "id": "te:markets:563788",
-      "time": "2026-07-02 20:53:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Steady as Fed Hike Bets Ease — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors assessed the latest US payrolls report for signals on the Federal Reserve’s policy path. A weaker-than-expected labor market reading reduced expectations of further Fed rate hikes this year. Oil prices extended losses and remained near pre-conflict levels, easing energy-driven inflation concerns and reinforcing expectations that the Bank of Canada may take a more dovish stance. Geopolitical tensions remained in focus after Iran and the US concluded another round of indirect talks in Doha without a clear breakthrough, although concerns over disruptions in the Strait of Hormuz continued to ease. Gold prices also edged higher, lending support to mining stocks. On trade, the US rejected an early renewal of the USMCA, keeping the agreement in force under its current framework, with annual reviews continuing until its scheduled expiration unless member countries agree on revisions."
-    },
-    {
-      "id": "mkt:019f22e4-1196-7aab-8c7a-706f08c1adfe",
-      "time": "2026-07-02 20:53:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Weak US jobs print cuts Fed hike odds; US Treasury yields fall】US nonfarm payrolls came in below expectations, prompting traders to pare Fed hike bets and lift US Treasuries. The 2-year yield fell 6bp to 4.11% and the 10-year fell 2bp to 4.46%. Fed funds swaps imply roughly a 20% chance of a rate hike at the Fed's meeting later this month, down from about 33% before the data. Markets now price fewer than two 25bp hikes through March 2027."
-    },
-    {
-      "id": "4967727",
-      "time": "2026-07-02 20:53:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【非農爆冷打壓加息預期 美債收益率應聲下行】非農就業報告弱於預期，促使交易員降低了對美聯儲未來幾個月加息的預期，美國國債隨之上漲。對貨幣政策變化最為敏感的兩年期國債收益率下跌6個基點至4.11%，10年期國債收益率下跌2個基點至4.46%。美聯儲利率互換顯示，交易員認為美聯儲本月晚些時候會議上加息的可能性約為20%，低於資料公佈前的33%。市場消化的到2027年3月為止的加息次數少於兩次、每次25個基點。"
-    },
-    {
-      "id": "mkt:019f22e3-ef3e-7aab-8c7a-6fc9270e999a",
-      "time": "2026-07-02 20:53:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【US job growth slows; Treasury yields and dollar fall】US job growth slowed in June, sending Treasury yields and the dollar lower. The BLS reported nonfarm payrolls +57k in June versus a Wall Street Journal consensus of 115k; May and April payrolls were revised down to 129k (from 172k) and 148k (from 179k). The unemployment rate edged down to 4.2% from 4.3%. Initial jobless claims fell slightly to 215k (from an upwardly revised 216k), below the 220k expected. The dollar index dropped 0.7%. The 10-year Treasury yield fell to 4.461% from 4.505%; the 2-year yield fell to 4.108% from 4.191%. The print runs counter to expectations that Fed tightening would continue to support the dollar."
-    },
-    {
-      "id": "4967726",
-      "time": "2026-07-02 20:53:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國家銀行：若出現任何重大進展，阿聯酋國家銀行當然會按照其監管義務（採取相應行動）。"
-    },
-    {
-      "id": "4967725",
-      "time": "2026-07-02 20:52:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "藍貓頭鷹資本股價盤前上漲3%，此前該公司旗下兩支私人信貸基金的贖回請求環比小幅下降。"
-    },
-    {
-      "id": "4967724",
-      "time": "2026-07-02 20:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國民銀行：阿聯酋國民銀行定期探索有機及無機增長機遇。"
-    },
-    {
-      "id": "4967723",
-      "time": "2026-07-02 20:52:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋國民銀行：暫無需釋出公告的相關事項進展。"
-    },
-    {
-      "id": "mkt:019f22e2-e2b2-7aab-8c7a-63aeebe65cfb",
-      "time": "2026-07-02 20:52:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch says the EU ruling on VAT for service fees will have limited impact on its ratings."
-    },
-    {
-      "id": "4967722",
-      "time": "2026-07-02 20:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋國民銀行：目前有媒體猜測，阿聯酋國民銀行（公開股份制公司）有意在土耳其進行一項收購。"
-    },
-    {
-      "id": "4967721",
-      "time": "2026-07-02 20:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：歐盟針對增值稅服務費的裁決對評級影響有限。"
-    },
-    {
-      "id": "mkt:019f22e2-0374-7aab-8c7a-598daf3161c2",
-      "time": "2026-07-02 20:51:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【World Cup hiring gains fully erased】US June nonfarm payrolls showed weakness as leisure and hospitality unexpectedly lost 61,000 jobs, wiping out roughly 40,000 jobs the sector added in May during World Cup-related hiring. Retail employment fell 7,500 and the information sector shed 9,000 jobs."
-    },
-    {
-      "id": "4967720",
-      "time": "2026-07-02 20:50:59",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【隨著美國就業增長放緩，美債收益率和美元下跌】隨著美國6月份新增就業崗位少於預期，美債收益率和美元下跌。美國勞工統計局報告稱，就業增長為5.7萬人，低於《華爾街日報》平均預期的11.5萬人。5月份的資料從17.2萬人下修至12.9萬人，4月份的資料從17.9萬人下修至14.8萬人。6月份失業率從4.3%微降至4.2%。該資料與有助於支撐美元的美聯儲加息預期背道而馳。上週首次申請失業救濟人數微降至21.5萬人，前值為上修後的21.6萬人，預期為22萬人。華爾街日報美元指數下跌0.7%。10年期美債收益率從資料公佈前的4.505%降至4.461%。兩年期美債收益率從4.191%降至4.108%。"
-    },
-    {
-      "id": "mkt:019f22e1-722d-7aab-8c7a-57d250a65234",
-      "time": "2026-07-02 20:50:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DOE said it plans to update energy-efficiency standards for household appliances."
     }
   ]
 }
