@@ -1,7 +1,155 @@
 {
-  "updated": "2026-07-09 20:37:45",
-  "count": 16021,
+  "updated": "2026-07-09 20:41:39",
+  "count": 16015,
   "items": [
+    {
+      "id": "mkt:019f46e5-4843-7aab-8d17-09adb1c8d65f",
+      "time": "2026-07-09 20:40:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "After several oil tankers were attacked in the Strait of Hormuz, Qatar has suspended plans to rapidly ramp up LNG production."
+    },
+    {
+      "id": "mkt:019f46e5-271d-7aab-8d17-019209a0c4f7",
+      "time": "2026-07-09 20:40:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y"
+      ],
+      "text": "【US initial jobless claims tick down; labor market remains stable】US initial jobless claims fell by 2,000 to 215,000 in the week ended July 4, the Labor Department said Thursday, seasonally adjusted; the prior reading was revised up to 217,000. After rising in late May and early June, claims have retreated, and most economists view the earlier increase as noise. Despite a sharp slowdown in June payrolls and downward revisions to April and May nonfarm employment, economists say the labor market has not materially changed and remains in a \"slow hiring, slow firing\" mode."
+    },
+    {
+      "id": "4979211",
+      "time": "2026-07-09 20:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國初請失業金人數略有下降 勞動力市場保持穩定】美國上週初請失業金人數下降，表明儘管6月就業增長放緩，勞動力市場仍保持穩定。美國勞工部週四公佈的資料顯示，截至7月4日當週，初請失業金人數經季節調整後減少2000人，至21.5萬人（前值上修至21.7萬人）。在5月底和6月初上升之後，初請失業金人數有所回落。經濟學家大多認為此前的上升是噪音。儘管6月就業增長大幅放緩，且4月和5月非農就業資料被下修，但經濟學家表示，勞動力市場並未發生實質性變化，仍處於“慢招聘、慢解僱”的狀態。"
+    },
+    {
+      "id": "mkt:019f46e4-7239-7aab-8d16-ff8798296e71",
+      "time": "2026-07-09 20:40:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Nextcloud unsecured database leak exposes sensitive internal and customer data】Techradar reports European cloud provider Nextcloud left an unprotected database on the public internet, exposing sensitive internal and customer data that anyone with the access path could retrieve. Nextcloud is an open-source platform for building private clouds and is often used as an alternative to Google Drive or Microsoft 365 to control data location."
+    },
+    {
+      "id": "4979210",
+      "time": "2026-07-09 20:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "百事可樂高管表示，預計第三稅級稅率將高於今年迄今水平，同比有所上升。"
+    },
+    {
+      "id": "4979209",
+      "time": "2026-07-09 20:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達在油輪遇襲後暫停快速提升液化天然氣產能的計劃。"
+    },
+    {
+      "id": "4979208",
+      "time": "2026-07-09 20:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "百事可樂股價走勢反轉，盤前下跌2%。"
+    },
+    {
+      "id": "mkt:019f46e3-bd69-7aab-8d16-f1df8e644307",
+      "time": "2026-07-09 20:39:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gain to 2% at $59.48/oz."
+    },
+    {
+      "id": "mkt:019f46e3-b23f-7aab-8d16-e842ec532173",
+      "time": "2026-07-09 20:39:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "PEP.O",
+        "Impact bearish"
+      ],
+      "text": "PepsiCo's CEO says rising gasoline prices have left consumer conditions worse than expected."
+    },
+    {
+      "id": "4979207",
+      "time": "2026-07-09 20:39:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超4%】超威半導體美股盤前漲超4%，現報538.384美元。"
+    },
+    {
+      "id": "4979206",
+      "time": "2026-07-09 20:39:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "百事可樂執行長：伊朗衝突、天然氣價格正對全球產生影響。"
+    },
+    {
+      "id": "4979205",
+      "time": "2026-07-09 20:38:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事執行長：受天然氣價格影響，消費市場表現不及預期。"
+    },
+    {
+      "id": "4979204",
+      "time": "2026-07-09 20:38:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.07%。"
+    },
+    {
+      "id": "4979203",
+      "time": "2026-07-09 20:38:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲2.49%。"
+    },
+    {
+      "id": "4979202",
+      "time": "2026-07-09 20:38:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4130美元/盎司，日內漲1.19%。"
+    },
+    {
+      "id": "4979201",
+      "time": "2026-07-09 20:37:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭宣佈將參與多國海軍倡議 加強海上威懾與防禦】芬蘭國防部8日釋出新聞公報說，芬蘭將參與一項多國海軍倡議，該倡議旨在推動歐洲多國和加拿大在北大西洋、波羅的海和北極地區承擔更多海上威懾與防禦責任。 芬蘭總統府同日釋出的宣告顯示，參與方包括加拿大、丹麥、芬蘭、法國、德國、冰島、荷蘭、挪威、葡萄牙、西班牙、瑞典和英國。 宣告說，參與國計劃在未來十年打造一支能夠執行“高階海上行動的聯合力量”，共同加強在歐洲－大西洋地區開展全方位海上行動的訓練、演習和作戰，優先提升全域態勢感知能力，同時強化海上指揮控制。（新華社）"
+    },
     {
       "id": "4979200",
       "time": "2026-07-09 20:36:41",
@@ -146433,238 +146581,6 @@
         "Impact mixed"
       ],
       "text": "【US nonfarm payrolls below expectations prompt markets to trim Fed rate-hike bets】The US economy added 57,000 nonfarm payrolls in June, below Wall Street forecasts, the Bureau of Labor Statistics said Thursday. The gain followed three months of upside surprises and fell sharply from May’s downward-revised 129,000; it was also below the Bloomberg survey median of 115,000. The report signals a marked cooling in the labor market; the unemployment rate edged down to 4.2% from 4.3% in May. Despite the slowdown, payroll gains remain well above a 2025 target of average 10,000 annual job additions. Investors cut Fed tightening expectations, the dollar weakened, and futures now price a Fed rate increase in December, versus October previously."
-    },
-    {
-      "id": "mkt:019f22d8-f80b-7aab-8c79-d27cd79bce9f",
-      "time": "2026-07-02 20:41:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index hits highest in over a week as capesize rates lead gains】The Baltic Dry Index rose 88 points (3.4%) to 2,650 on Thursday, its highest level since June 24, led by a sharp jump in capesize rates. The capesize index (BCI) climbed 229 points (6.2%) to 3,921; capesize average daily earnings increased $2,079 to $32,060. The panamax index (BPI) gained 18 points (0.8%) to 2,195, with panamax daily earnings up $167 to $19,758. The supramax index (BSI) rose 2 points (0.1%) to 1,675."
-    },
-    {
-      "id": "mkt:019f22d8-e1cd-7aab-8c79-ca53d730f274",
-      "time": "2026-07-02 20:41:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Weak nonfarm print hit rate‑hike expectations】Interest‑rate strategist Ira Jersey said June nonfarm payrolls were weaker than expected and prior months were revised lower, triggering a bull‑steepening of the U.S. Treasury yield curve. He said the move is consistent with a reduced near‑term probability of Fed rate hikes. The TIPS curve should also bull‑steepen as real yields adjust to markets pricing a near‑term slowdown in growth."
-    },
-    {
-      "id": "4967699",
-      "time": "2026-07-02 20:41:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【納斯達克100指數期貨漲0.7% 半導體股票盤前全線上漲】美國6月非農資料公佈後，美股期指拉昇，道瓊斯指數期貨漲0.36%，標普500指數期貨漲0.39%，納斯達克100指數期貨漲0.71%。個股方面，美股盤前交易的英偉達漲0.5%，阿斯麥、AMD、臺積電漲2%，英特爾、美光科技漲超3%，上述股票此前下跌1%-4%不等。"
-    },
-    {
-      "id": "mkt:019f22d8-cfb0-7aab-8c79-c2b0165fdbf7",
-      "time": "2026-07-02 20:41:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose to $4,140/oz, up 2.69% on the day."
-    },
-    {
-      "id": "4967698",
-      "time": "2026-07-02 20:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國招聘步伐大幅放緩 抑制了近期顯現的就業增長勢頭】儘管失業率下降，但美國6月的招聘速度卻急劇放緩，抑制了今年就業增長剛剛顯現的勢頭。美國勞工統計局週四公佈的資料顯示，在此前兩個月資料被下修後，6月份非農就業人數增加5.7萬人。隨著勞動參與率下降，失業率降至4.2%。"
-    },
-    {
-      "id": "mkt:019f22d7-c2d2-7aab-8c79-b9de5e80f5bc",
-      "time": "2026-07-02 20:39:53",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY fell to a two-week low of 160.61."
-    },
-    {
-      "id": "mkt:019f22d7-a8a6-7aab-8c79-b26c5f2effb6",
-      "time": "2026-07-02 20:39:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "USD/JPY fell to a two-week low of 160.62."
-    },
-    {
-      "id": "4967697",
-      "time": "2026-07-02 20:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元指數在6月就業資料公佈後延續跌勢。"
-    },
-    {
-      "id": "4967696",
-      "time": "2026-07-02 20:39:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：過去六個月，私營部門平均每月新增就業崗位8.8萬個，創兩年來最高增速。過去六個月，總就業崗位平均每月新增9.2萬個，創2025年初以來最高增速。"
-    },
-    {
-      "id": "mkt:019f22d7-4027-7aab-8c79-aa7a6078ce31",
-      "time": "2026-07-02 20:39:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures rose to $4,150/oz, up 1.68% on the day."
-    },
-    {
-      "id": "mkt:019f22d7-3597-7aab-8c79-a40728451918",
-      "time": "2026-07-02 20:39:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TIMIRAOS: Over the past six months private‑sector payrolls averaged 88,000 jobs per month, the fastest two‑year pace. Total payrolls averaged 92,000 jobs per month over the same period, the highest pace since early 2025."
-    },
-    {
-      "id": "4967695",
-      "time": "2026-07-02 20:39:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "遭遇18.8%和38.1%贖回申請後，BLUE OWL兩隻私募信貸基金設贖回上限。"
-    },
-    {
-      "id": "4967694",
-      "time": "2026-07-02 20:39:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內漲1.68%。"
-    },
-    {
-      "id": "4967693",
-      "time": "2026-07-02 20:38:52",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【非農爆冷不及預期 市場押注加息推遲至年底】美國6月非農資料顯示，儘管失業率下降，但6月招聘活動出現了大幅放緩，這抑制了今年就業增長初現的勢頭。根據美國勞工統計局週四釋出的資料，在上月對前兩個月資料進行下修7.4萬人後，6月非農就業人數增加5.7萬人（市場預期為11萬人）。失業率下降是因為勞動參與率大幅下降——當勞動參與率下降時，意味著有一部分人退出了勞動力市場（比如放棄求職、提前退休、重返校園等）。這些人不再被計入“失業人數”，也不再屬於“勞動人口”，從而導致失業率下降。資料公佈後，現貨黃金短線拉昇，市場也削減了對美聯儲加息的押注。市場已充分消化美聯儲12月加息的預期，此前預期為10月加息。"
-    },
-    {
-      "id": "4967692",
-      "time": "2026-07-02 20:38:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨上漲0.6%，觸及盤中高點。"
-    },
-    {
-      "id": "mkt:019f22d6-bba6-7aab-8c79-983a03751cab",
-      "time": "2026-07-02 20:38:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【US nonfarm payrolls miss; markets push Fed rate-hike bets to year-end】US June nonfarm payrolls rose 57k vs 110k expected; prior two months were revised down by a combined 74k, the BLS said. The unemployment rate fell, driven by a sharp drop in labor force participation as workers exited the labor force. Spot gold jumped on the data and markets trimmed bets on earlier Fed tightening, shifting the expected timing of the next Fed rate hike from October toward December."
-    },
-    {
-      "id": "mkt:019f22d6-8d99-7aab-8c79-96aa8fc964ae",
-      "time": "2026-07-02 20:38:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【US hiring growth slows sharply, curbing recent labor-market momentum】US hiring growth cooled sharply in June, tempering earlier job-market momentum. Nonfarm payrolls rose 57,000, with the prior two months revised down, the Bureau of Labor Statistics said on Thursday. The unemployment rate fell to 4.2% largely because labor force participation dropped sharply. The slowdown was driven by the biggest decline in leisure and hospitality payrolls since 2020; retail trade and information sectors also shed jobs, while health care and social assistance continued to add positions. The report says consumer spending has held up despite energy shocks from the Iran war, but household pessimism about high prices and wages lagging inflation may be keeping employers cautious on hiring."
-    },
-    {
-      "id": "4967691",
-      "time": "2026-07-02 20:38:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國招聘增速大幅放緩，抑制近期就業市場增長勢頭】儘管失業率有所下降，但美國6月份的招聘增速卻大幅放緩，抑制了今年就業增長的部分勢頭。根據美國勞工統計局週四公佈的資料，在向下修正了前兩個月的資料後，上月非農就業人數增加了5.7萬人。由於勞動參與率大幅下降，失業率降至4.2%。報告顯示，儘管近幾個月來就業市場出現了一些強勢跡象，但仍面臨一些挑戰。雖然消費者支出在伊朗戰爭帶來的能源衝擊下保持了韌性，但美國民眾對高物價和工資增長跟不上通脹的局面感到悲觀，這可能也是僱主在招聘方面保持謹慎的原因之一。此次招聘放緩主要由休閒和酒店業就業人數自2020年以來最大幅度的下降所致。零售貿易和資訊行業也出現了裁員，而醫療保健和社會援助行業的招聘則繼續保持強勁勢頭。"
-    },
-    {
-      "id": "4967690",
-      "time": "2026-07-02 20:38:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達航空開通蘇丹港航線，強化非洲網路佈局。"
-    },
-    {
-      "id": "mkt:019f22d6-11d8-7aab-8c79-881cb006bc8d",
-      "time": "2026-07-02 20:38:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "【Fed likely focused on unemployment rate】New York Times commentary said the Fed is likely focused on the unemployment rate, which continues to show underlying labor-market stability. Even if June payroll growth slowed, layoffs have not risen materially."
-    },
-    {
-      "id": "4967689",
-      "time": "2026-07-02 20:37:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧飛娛樂：2026年上半年淨利潤預增305.30%-413.38%】奧飛娛樂公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為1.50億元-1.90億元，同比增長305.30%-413.38%；扣非淨利潤為4600.00萬元-6800.00萬元，同比增長39.82%-106.69%。業績增長因主營業務市場拓展、產品結構最佳化、費用管控等。此外，公司收到海外嬰童業務出口稅費退還約1455.75萬美元，預計增加半年度利潤約6800萬元；參投基金及參股公司貢獻投資收益約2000萬元，相關參投基金公允價值變動收益約1600萬元。"
-    },
-    {
-      "id": "mkt:019f22d5-d076-7aab-8c79-81c3c432e6ab",
-      "time": "2026-07-02 20:37:45",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 futures rose 0.4% to intraday highs."
     }
   ]
 }

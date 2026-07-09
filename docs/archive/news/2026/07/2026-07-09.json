@@ -1,7 +1,155 @@
 {
   "date": "2026-07-09",
-  "count": 2799,
+  "count": 2815,
   "items": [
+    {
+      "id": "mkt:019f46e5-4843-7aab-8d17-09adb1c8d65f",
+      "time": "2026-07-09 20:40:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "After several oil tankers were attacked in the Strait of Hormuz, Qatar has suspended plans to rapidly ramp up LNG production."
+    },
+    {
+      "id": "mkt:019f46e5-271d-7aab-8d17-019209a0c4f7",
+      "time": "2026-07-09 20:40:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y"
+      ],
+      "text": "【US initial jobless claims tick down; labor market remains stable】US initial jobless claims fell by 2,000 to 215,000 in the week ended July 4, the Labor Department said Thursday, seasonally adjusted; the prior reading was revised up to 217,000. After rising in late May and early June, claims have retreated, and most economists view the earlier increase as noise. Despite a sharp slowdown in June payrolls and downward revisions to April and May nonfarm employment, economists say the labor market has not materially changed and remains in a \"slow hiring, slow firing\" mode."
+    },
+    {
+      "id": "4979211",
+      "time": "2026-07-09 20:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國初請失業金人數略有下降 勞動力市場保持穩定】美國上週初請失業金人數下降，表明儘管6月就業增長放緩，勞動力市場仍保持穩定。美國勞工部週四公佈的資料顯示，截至7月4日當週，初請失業金人數經季節調整後減少2000人，至21.5萬人（前值上修至21.7萬人）。在5月底和6月初上升之後，初請失業金人數有所回落。經濟學家大多認為此前的上升是噪音。儘管6月就業增長大幅放緩，且4月和5月非農就業資料被下修，但經濟學家表示，勞動力市場並未發生實質性變化，仍處於“慢招聘、慢解僱”的狀態。"
+    },
+    {
+      "id": "mkt:019f46e4-7239-7aab-8d16-ff8798296e71",
+      "time": "2026-07-09 20:40:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Nextcloud unsecured database leak exposes sensitive internal and customer data】Techradar reports European cloud provider Nextcloud left an unprotected database on the public internet, exposing sensitive internal and customer data that anyone with the access path could retrieve. Nextcloud is an open-source platform for building private clouds and is often used as an alternative to Google Drive or Microsoft 365 to control data location."
+    },
+    {
+      "id": "4979210",
+      "time": "2026-07-09 20:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "百事可樂高管表示，預計第三稅級稅率將高於今年迄今水平，同比有所上升。"
+    },
+    {
+      "id": "4979209",
+      "time": "2026-07-09 20:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達在油輪遇襲後暫停快速提升液化天然氣產能的計劃。"
+    },
+    {
+      "id": "4979208",
+      "time": "2026-07-09 20:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "百事可樂股價走勢反轉，盤前下跌2%。"
+    },
+    {
+      "id": "mkt:019f46e3-bd69-7aab-8d16-f1df8e644307",
+      "time": "2026-07-09 20:39:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gain to 2% at $59.48/oz."
+    },
+    {
+      "id": "mkt:019f46e3-b23f-7aab-8d16-e842ec532173",
+      "time": "2026-07-09 20:39:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "PEP.O",
+        "Impact bearish"
+      ],
+      "text": "PepsiCo's CEO says rising gasoline prices have left consumer conditions worse than expected."
+    },
+    {
+      "id": "4979207",
+      "time": "2026-07-09 20:39:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超4%】超威半導體美股盤前漲超4%，現報538.384美元。"
+    },
+    {
+      "id": "4979206",
+      "time": "2026-07-09 20:39:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "百事可樂執行長：伊朗衝突、天然氣價格正對全球產生影響。"
+    },
+    {
+      "id": "4979205",
+      "time": "2026-07-09 20:38:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事執行長：受天然氣價格影響，消費市場表現不及預期。"
+    },
+    {
+      "id": "4979204",
+      "time": "2026-07-09 20:38:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.07%。"
+    },
+    {
+      "id": "4979203",
+      "time": "2026-07-09 20:38:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲2.49%。"
+    },
+    {
+      "id": "4979202",
+      "time": "2026-07-09 20:38:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4130美元/盎司，日內漲1.19%。"
+    },
+    {
+      "id": "4979201",
+      "time": "2026-07-09 20:37:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭宣佈將參與多國海軍倡議 加強海上威懾與防禦】芬蘭國防部8日釋出新聞公報說，芬蘭將參與一項多國海軍倡議，該倡議旨在推動歐洲多國和加拿大在北大西洋、波羅的海和北極地區承擔更多海上威懾與防禦責任。 芬蘭總統府同日釋出的宣告顯示，參與方包括加拿大、丹麥、芬蘭、法國、德國、冰島、荷蘭、挪威、葡萄牙、西班牙、瑞典和英國。 宣告說，參與國計劃在未來十年打造一支能夠執行“高階海上行動的聯合力量”，共同加強在歐洲－大西洋地區開展全方位海上行動的訓練、演習和作戰，優先提升全域態勢感知能力，同時強化海上指揮控制。（新華社）"
+    },
     {
       "id": "4979200",
       "time": "2026-07-09 20:36:41",
