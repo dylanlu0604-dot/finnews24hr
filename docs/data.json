@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-09 22:22:27",
-  "count": 15940,
+  "updated": "2026-07-09 22:27:12",
+  "count": 15932,
   "items": [
+    {
+      "id": "mkt:019f4744-852c-7aab-8d1b-66b33694c61d",
+      "time": "2026-07-09 22:25:00",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies (DELL.N) shares rise more than 5%."
+    },
+    {
+      "id": "4979450",
+      "time": "2026-07-09 22:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥6月份新增正式就業崗位61023個。"
+    },
+    {
+      "id": "mkt:019f4742-8423-7aab-8d1b-5c59e6ac0a9f",
+      "time": "2026-07-09 22:22:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Israeli broadcaster i24 News, citing two Israeli sources, reported that Iran currently does not intend to draw Israel into an escalation of regional tensions."
+    },
+    {
+      "id": "4979449",
+      "time": "2026-07-09 22:22:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔諮詢服務公司高管：第一季度已招聘1.4萬名應屆畢業生入職。"
+    },
+    {
+      "id": "mkt:019f4741-4d3e-7aab-8d1b-51d568851ee8",
+      "time": "2026-07-09 22:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal and coke most-active futures saw losses widen to over 3%, at 1,250.5 yuan/ton and 1,890.5 yuan/ton, respectively."
+    },
+    {
+      "id": "4979448",
+      "time": "2026-07-09 22:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【累計投入76億元，阿里成長鑫科技持股比例最高的行業投資者】阿里巴巴累計向長鑫科技投入約76億元，是持股比例最高的行業投資者。根據長鑫科技招股書及公開資料，阿里繫於2021年12月首次入股長鑫科技，在多輪融資稀釋後，這筆投資對應的持股比例為1%左右。3年半後的2025年6月，阿里系大筆追加投資，將IPO前持股比例提升至5%左右，其中阿里雲端計算持股3.85%，阿里網路持股1.12%。由此，阿里系對長鑫累計投入約76億元。據瞭解，阿里雲端計算也是長鑫科技上市前最後一輪增資中最大的單一投資方之一。（ 證券時報  ）"
+    },
     {
       "id": "mkt:019f4740-6095-7aab-8d1b-4866f6bf4804",
       "time": "2026-07-09 22:20:29",
@@ -145515,144 +145573,6 @@
         "市場"
       ],
       "text": "【雅克科技跌停，公司回應：沒有六氟化鎢相關業務，也沒有佈局計劃】7月2日，雅克科技股價跌停。截至收盤，公司股價報212.48元/股。對於股價下跌，雅克科技方面回應，公司屬於半導體材料行業，是晶片製造的上游企業，既沒有六氟化鎢相關業務，也沒有佈局計劃。（中證金牛座）"
-    },
-    {
-      "id": "mkt:019f2339-9fac-7aab-8c7e-4afdc59ead08",
-      "time": "2026-07-02 22:26:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【White House NEC director Hassett criticizes Powell remaining on Federal Reserve】White House National Economic Council director Hassett criticized former Fed chair Powell for remaining on the Federal Reserve, saying Jay Powell not stepping down is \"extremely unusual\" and that his staying blocks the administration from nominating new Fed governors. Hassett also said most Fed voters \"did not vote out of patriotism but because they wanted to remove Trump.\" Powell, whose board term runs to January 2028, said he will remain for now. He has said an investigation into a Fed building project appears politically motivated and in April said he would leave \"when I think appropriate.\" The Fed board currently has only one member nominated during Trump's re‑election: new chair Kevin Warsh."
-    },
-    {
-      "id": "mkt:019f2339-5b26-7aab-8c7e-479153f4a062",
-      "time": "2026-07-02 22:26:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq-100 erased gains and turned negative."
-    },
-    {
-      "id": "4967948",
-      "time": "2026-07-02 22:26:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【特朗普的顧問哈塞特批評鮑威爾繼續留在美聯儲】美國白宮國家經濟委員會主任哈塞特批評前美聯儲主席鮑威爾繼續留在美聯儲，此舉阻礙了政府提名新的美聯儲理事。“傑伊·鮑威爾沒有退出，這極其不尋常，”哈塞特表示。“前任美聯儲主席繼續留任是非常不尋常的。”此前，哈塞特表示，“美聯儲的大多數人投票並非出於愛國，而是因為他們想讓特朗普下臺。” 他是在回答有關他是否對美聯儲的某些成員感到擔憂的問題時做出上述表態的。美聯儲理事會目前只有一位成員是特朗普連任以來提名的：新任主席凱文·沃什。鮑威爾的理事任期至2028年1月，他表示目前會繼續留任。鮑威爾曾對一項針對美聯儲大樓專案的調查表示擔憂，稱其出於政治動機。今年4月，他表示會在“我認為合適的時候”離任。"
-    },
-    {
-      "id": "4967947",
-      "time": "2026-07-02 22:26:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克100指數抹去漲幅，轉為下跌。"
-    },
-    {
-      "id": "4967946",
-      "time": "2026-07-02 22:25:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "北歐美國油輪公司：三艘船舶已駛離阿拉伯灣。"
-    },
-    {
-      "id": "mkt:019f2338-3b7c-7aab-8c7e-3aaa02bb3655",
-      "time": "2026-07-02 22:25:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "North Euro-American Tanker Company said three of its tankers have resumed international voyages after transiting the Strait of Hormuz. All crew are reported safe."
-    },
-    {
-      "id": "4967945",
-      "time": "2026-07-02 22:25:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗官員稱阿曼提出霍爾木茲海峽收費方案】霍爾木茲海峽未來的安排仍是美伊談判的核心問題之一。近期，有美國方面訊息顯示，伊朗官員和知情外交官員稱，阿曼提出了一項對途經霍爾木茲海峽船隻收取服務費的方案。伊朗官員與地區外交官表示，阿曼近期向美國及其他西方盟友提交了一份正式方案。根據該方案，航運公司使用霍爾木茲海峽將需要支付服務費。訊息稱，阿曼的最新提議部分參考了馬六甲海峽和新加坡海峽的安排。在馬六甲海峽和新加坡海峽，有來自各國政府、企業和行業協會的“自願捐款”，用來促進海峽航行安全。這名地區外交官稱，阿曼在方案中提出的是自願付費機制，但伊朗官員給出相反說法，表示這些費用將強制收取。（央視新聞）"
-    },
-    {
-      "id": "4967944",
-      "time": "2026-07-02 22:24:42",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "特斯拉跌幅擴大至5%。"
-    },
-    {
-      "id": "4967943",
-      "time": "2026-07-02 22:24:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "北歐美洲油輪公司：旗下所有油輪船員均安全。"
-    },
-    {
-      "id": "4967942",
-      "time": "2026-07-02 22:24:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "北歐美國油輪公司稱旗下船舶已駛離阿拉伯灣海域。"
-    },
-    {
-      "id": "4967941",
-      "time": "2026-07-02 22:24:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "大馬士革省長表示，製造爆炸襲擊的兇手必將繩之以法，並補充稱 “我們日復一日追查，終將抓獲所有破壞敘利亞安全的人”。"
-    },
-    {
-      "id": "mkt:019f2337-3701-7aab-8c7e-36f4579b1867",
-      "time": "2026-07-02 22:24:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Tesla (TSLA.O) shares extended losses to about 5%."
-    },
-    {
-      "id": "te:markets:563833",
-      "time": "2026-07-02 22:23:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Zurich Stock Price Hits 14-month High — Zurich shares increased to 606.90 CHF, the highest since April 2025. Over the past 4 weeks, Zurich gained 11.12%, and in the last 12 months, it increased 9.6%."
-    },
-    {
-      "id": "mkt:019f2336-2a18-7aab-8c7e-2e1f5ad6993d",
-      "time": "2026-07-02 22:22:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHO: Marburg virus case detected in Uganda】WHO on July 2 said a Marburg virus infection was identified in Uganda after the Africa CDC on July 1 reported the Uganda Ministry of Health had notified one case. WHO described Marburg virus disease as a severe viral hemorrhagic fever with symptoms including high fever, headache, muscle pain, diarrhea, vomiting and bleeding. Studies indicate the virus’s natural reservoir is the Egyptian fruit bat; transmission to humans can occur and human-to-human spread is possible via direct contact and infected bodily fluids."
     }
   ]
 }

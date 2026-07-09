@@ -1,7 +1,65 @@
 {
   "date": "2026-07-09",
-  "count": 3148,
+  "count": 3154,
   "items": [
+    {
+      "id": "mkt:019f4744-852c-7aab-8d1b-66b33694c61d",
+      "time": "2026-07-09 22:25:00",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies (DELL.N) shares rise more than 5%."
+    },
+    {
+      "id": "4979450",
+      "time": "2026-07-09 22:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥6月份新增正式就業崗位61023個。"
+    },
+    {
+      "id": "mkt:019f4742-8423-7aab-8d1b-5c59e6ac0a9f",
+      "time": "2026-07-09 22:22:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Israeli broadcaster i24 News, citing two Israeli sources, reported that Iran currently does not intend to draw Israel into an escalation of regional tensions."
+    },
+    {
+      "id": "4979449",
+      "time": "2026-07-09 22:22:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度塔塔諮詢服務公司高管：第一季度已招聘1.4萬名應屆畢業生入職。"
+    },
+    {
+      "id": "mkt:019f4741-4d3e-7aab-8d1b-51d568851ee8",
+      "time": "2026-07-09 22:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coking coal and coke most-active futures saw losses widen to over 3%, at 1,250.5 yuan/ton and 1,890.5 yuan/ton, respectively."
+    },
+    {
+      "id": "4979448",
+      "time": "2026-07-09 22:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【累計投入76億元，阿里成長鑫科技持股比例最高的行業投資者】阿里巴巴累計向長鑫科技投入約76億元，是持股比例最高的行業投資者。根據長鑫科技招股書及公開資料，阿里繫於2021年12月首次入股長鑫科技，在多輪融資稀釋後，這筆投資對應的持股比例為1%左右。3年半後的2025年6月，阿里系大筆追加投資，將IPO前持股比例提升至5%左右，其中阿里雲端計算持股3.85%，阿里網路持股1.12%。由此，阿里系對長鑫累計投入約76億元。據瞭解，阿里雲端計算也是長鑫科技上市前最後一輪增資中最大的單一投資方之一。（ 證券時報  ）"
+    },
     {
       "id": "mkt:019f4740-6095-7aab-8d1b-4866f6bf4804",
       "time": "2026-07-09 22:20:29",
