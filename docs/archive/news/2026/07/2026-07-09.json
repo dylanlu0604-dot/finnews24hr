@@ -1,7 +1,161 @@
 {
   "date": "2026-07-09",
-  "count": 2241,
+  "count": 2258,
   "items": [
+    {
+      "id": "mkt:019f464b-cbce-7aab-8d12-67f8f1f238a1",
+      "time": "2026-07-09 17:53:20",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Citigroup cuts Netflix (NFLX.O) PT to $100 from $115."
+    },
+    {
+      "id": "mkt:019f464b-aba6-7aab-8d12-5c2d9653fd7b",
+      "time": "2026-07-09 17:53:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "UK minister for the Middle East said Iran's attack on UK partners in the Gulf is a serious escalation and a blatant violation of international law."
+    },
+    {
+      "id": "4978794",
+      "time": "2026-07-09 17:52:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博隆技術：預計2026年上半年淨利潤同比下降56.69%到63.70%】博隆技術公告，預計2026年上半年淨利潤為8800萬元到1.05億元，同比減少56.69%到63.70%。預計2026年上半年扣除非經常性損益的淨利潤為8200萬元到9900萬元，同比減少57.59%到64.87%。2025年上半年公司淨利潤為2.42億元。營業收入下降20%左右，中小型專案毛利率較低且佔比增加，歐元存款出現匯兌損失是業績預減的主要原因。"
+    },
+    {
+      "id": "4978793",
+      "time": "2026-07-09 17:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛洋科技：控股子公司FTA公司擬以419萬英鎊收購Triax UK Limited 100%股權】盛洋科技公告，控股子公司FTA Communication Technologies S.àr.l.擬以現金支付方式收購Triax UK Limited 100%股權，交易金額為419萬英鎊，按2026年7月9日英鎊兌人民幣匯率中間價測算，交易金額為人民幣3817.01萬元。交易完成後，Triax公司將成為公司控股子公司，並納入公司合併報表範圍。本次交易已獲公司第六屆董事會第二次會議審議透過，不構成關聯交易和重大資產重組。"
+    },
+    {
+      "id": "4978792",
+      "time": "2026-07-09 17:52:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮盛石化：2026年員工持股計劃1.53%股份完成非交易過戶】榮盛石化公告稱，公司2026年員工持股計劃籌集資金不超17億元，擬受讓回購股份不超153,015,301股，佔總股本1.53%。實際參與認購員工1404人，認購資金17億元。2026年7月7日，153,015,301股已非交易過戶至員工持股計劃證券賬戶，過戶價格11.11元/股。該計劃存續期36個月，鎖定期12個月。"
+    },
+    {
+      "id": "4978791",
+      "time": "2026-07-09 17:52:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三維通訊：2026年上半年淨利潤同比增長1428.58%-2001.80%】三維通訊公告稱，2026年上半年歸屬於上市公司股東的淨利潤為4000萬元-5500萬元，同比增長1428.58% - 2001.80%；扣除非經常性損益後的淨利潤為3500萬元-5270萬元，上年同期虧損527.96萬元，同比增長762.93% - 1094.39%。業績變動因網際網路業務收入增長，同時匯率波動使相關損失增加，拉低利潤。"
+    },
+    {
+      "id": "4978790",
+      "time": "2026-07-09 17:52:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國軒高科：2025年年度權益分派將派現1.81億元】國軒高科公告稱，2025年年度權益分派方案為以2026年7月15日登記的總股本扣除回購股份後的18.13億股為基數，每10股派現金紅利1元（含稅），實際現金分紅總金額為1.81億元。股權登記日為7月15日，除權除息日為7月16日。GDR投資者除權除息日為7月14日，現金紅利發放日為7月23日。"
+    },
+    {
+      "id": "4978789",
+      "time": "2026-07-09 17:52:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將喜力控股（HEINEKEN NV，程式碼<HEIN.AS>） 目標股價從120歐元上調至126歐元。"
+    },
+    {
+      "id": "4978788",
+      "time": "2026-07-09 17:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMO Capital將微軟目標價從500美元上調至515美元。"
+    },
+    {
+      "id": "4978787",
+      "time": "2026-07-09 17:51:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百潤股份：實控人劉曉東已增持0.1079%並擬繼續增持】百潤股份公告，控股股東、實際控制人、董事長兼總經理劉曉東於2026年7月9日透過集中競價方式增持公司股份112.42萬股，佔公司總股本的0.1079%，增持金額為1797.91萬元。其擬自2026年7月9日起未來6個月內繼續增持，增持金額不低於人民幣5000萬元，不超過人民幣1億元（含首次增持股份金額17,979,067.20元），不設定增持價格區間。"
+    },
+    {
+      "id": "4978786",
+      "time": "2026-07-09 17:51:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興蓉環境：股東信環綠色控股已增持1.12%】興蓉環境公告，持股5%以上股東信環綠色控股於2026年6月29日至2026年7月8日透過集中競價方式累計增持公司股份3330.76萬股，佔公司總股本的1.12%；增持後持有1.83億股，佔6.12%，觸及1%的整數倍。信環綠色控股計劃自公告披露之日起6個月內繼續增持公司股份數量不少於7000萬股。"
+    },
+    {
+      "id": "4978785",
+      "time": "2026-07-09 17:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐電信：擬對募集資金投資專案延期並調整投資金額與結構】大唐電信公告稱，公司擬對“新型高效能系列安全晶片研發及產業化專案”和“5G特通行業專網產品研發和產業化專案”進行調整。兩個募投專案達到預定可使用狀態的日期由2026年8月延期至2028年12月；“新型高效能系列安全晶片研發及產業化專案”擬投入資金由2億元調至2.6億元，“5G特通行業專網產品研發和產業化專案”由3億元調至2.4億元；同時對兩個專案內部投資結構進行調整。該事項已透過董事會審議，尚需股東會審議。"
+    },
+    {
+      "id": "mkt:019f4649-f502-7aab-8d12-518202bf967c",
+      "time": "2026-07-09 17:51:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The acting governor of Russia’s Bryansk region said Ukrainian forces struck a village in the Starodubsky district with HIMARS rocket artillery, killing one civilian."
+    },
+    {
+      "id": "4978784",
+      "time": "2026-07-09 17:50:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國休斯敦民眾抗議墨西哥移民遭美執法人員槍殺】美國得克薩斯州休斯敦市爆發大規模抗議，上千名示威者走上街頭，譴責美國移民與海關執法局特工7日在執法行動中槍殺一名墨西哥籍男子，要求政府展開獨立、透明的調查。死者薩爾加多的家屬表示，薩爾加多當時正開車去上班，美國移民與海關執法局特工卻稱其駕車衝撞警車，特工是出於“自衛”而開槍。這一說法遭到強烈質疑（央視新聞）"
+    },
+    {
+      "id": "4978783",
+      "time": "2026-07-09 17:50:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方通訊：截至7月9日減持長芯博創222.60萬股】東方通訊公告稱，公司第十屆董事會第五次會議等審議透過擇機出售長芯博創部分股票資產的議案，減持計劃於2026年7月9日到期。截至該日，公司累計減持長芯博創222.60萬股，減持前持股314.1961萬股、佔比1.08%，減持後持股91.5961萬股、佔比0.31%。本次減持將對公司經營業績產生積極影響，具體收益以定期報告為準。"
+    },
+    {
+      "id": "4978782",
+      "time": "2026-07-09 17:50:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【麗島新材：股價連續兩日跌幅偏離值超20% 提示交易風險】麗島新材公告稱，公司股票於2026年7月8日、7月9日連續兩個交易日內日收盤價格跌幅偏離值累計超20%，屬異常波動情形。經自查及向控股股東、實控人核實，除已披露事項外，無應披露未披露重大資訊，目前生產經營正常，未發現需澄清的媒體報道或市場傳聞。公司提示投資者注意二級市場交易風險，理性決策、審慎投資。"
+    },
+    {
+      "id": "mkt:019f4648-78e7-7aab-8d12-4a783814f5cb",
+      "time": "2026-07-09 17:49:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "【Shanghai Hejing hits daily limit as 12-inch epi wafer Phase II begins full production】A-share semiconductor materials stocks rallied; Shanghai Hejing hit its daily trading limit after its Zhengzhou subsidiary brought its Phase II 12-inch large-silicon wafer R&D and industrialization line into full production. With the line online, 12-inch epitaxial wafer capacity will gradually increase to 1.2 mln wafers/year. The company said the phased capacity release will align with domestic leading foundries' incremental demand and speed substitution of imported products, and that a planned SOI joint venture could weaken overseas vendor dominance and capture domestic substitution and emerging-application demand, amid structurally expanding high-end silicon wafer market prospects."
+    },
     {
       "id": "4978781",
       "time": "2026-07-09 17:49:20",
