@@ -1,7 +1,145 @@
 {
   "date": "2026-07-09",
-  "count": 1563,
+  "count": 1578,
   "items": [
+    {
+      "id": "mkt:019f4565-6096-7aab-8d0a-3c41c8553441",
+      "time": "2026-07-09 13:41:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LONGi Green Energy starts mass production of 21GW ACM cell project】LONGi Green Energy has begun mass production of a 21GW ACM (nano-alloy matrix contact) cell at its Xixian production base. German Hamelin Solar Research Institute certified cell efficiency at 27.6%, and TÜV Rheinland certified ACM module power at 672W. Mass-production data show conversion-efficiency gains of 0.2–0.3 percentage points and module power increases of 3–5W; the company reports gigawatt-scale benchmark production and industry-leading stability and reliability."
+    },
+    {
+      "id": "4978252",
+      "time": "2026-07-09 13:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦6月份外匯匯款額為35億美元。"
+    },
+    {
+      "id": "4978251",
+      "time": "2026-07-09 13:41:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "寒武紀成交額達200億元，現漲6.18%。"
+    },
+    {
+      "id": "4978250",
+      "time": "2026-07-09 13:40:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "東山精密成交額達200億元，現漲6.75%。"
+    },
+    {
+      "id": "4978249",
+      "time": "2026-07-09 13:40:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "張雪機車向廣西受災地區捐贈500萬元。"
+    },
+    {
+      "id": "4978248",
+      "time": "2026-07-09 13:40:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5.11%，成分股中，沐曦股份漲13.08%，摩爾執行緒漲11.28%，瀾起科技漲11.22%，中芯國際漲9.55%。"
+    },
+    {
+      "id": "4978247",
+      "time": "2026-07-09 13:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石概念震盪回升 國力電子漲超10%】午後培育鑽石概念震盪回升，國力電子漲超10%，恆盛能源開啟跌停快速回升翻紅，英諾鐳射、國機精工、惠豐鑽石、力量鑽石跟漲。"
+    },
+    {
+      "id": "4978246",
+      "time": "2026-07-09 13:40:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數上漲1%至4,803.51點。"
+    },
+    {
+      "id": "mkt:019f4563-edde-7aab-8d0a-31e472d238b4",
+      "time": "2026-07-09 13:40:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell about $0.50 intraday to $73.46/bbl and $78.08/bbl, respectively."
+    },
+    {
+      "id": "mkt:019f4563-bd63-7aab-8d0a-2b84eb43058d",
+      "time": "2026-07-09 13:39:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index rose more than 2% in afternoon trading; Shenzhen Composite Index +1.05%, Shanghai Composite +0.22%, STAR 50 Index nearly +5%. Gains were led by memory chips, advanced packaging and lithography equipment stocks."
+    },
+    {
+      "id": "4978245",
+      "time": "2026-07-09 13:39:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.01%，現報3922.583點；上證指數漲0.20%，現報3978.710點；深證成指漲1.02%，現報15092.341點。"
+    },
+    {
+      "id": "mkt:019f4562-8c4b-7aab-8d0a-23249474f7b4",
+      "time": "2026-07-09 13:38:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Deutsche Bank: private unit would consider emerging Asia bonds if crude holds at $65–70/bbl】Deutsche Bank’s private unit said it would consider buying emerging Asia bonds if crude prices stay low enough to curb inflation and push down yields. Emerging markets CIO Jacky Tang said sustained crude at $65–$70 per barrel for about two months would raise confidence in India and Indonesia, which are most sensitive to energy costs. He added emerging market bonds will only attract meaningful attention once shipping through the Strait of Hormuz fully resumes."
+    },
+    {
+      "id": "4978244",
+      "time": "2026-07-09 13:38:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳警方搗毀薦股詐騙團伙 抓獲247人 涉案金額逾億元】近日，深圳龍崗公安偵破特大薦股引流電詐案，出動400名警力同步收網，抓獲247人，涉案金額超1億元，凍結資金2408萬元。經查，團伙盤踞坂田工業園，11名骨幹分管話務、業務、薦股3個組別，設立8處窩點，自2025年10月起持續作案。團伙非法收購股民資訊，電話引流後拉人進薦股群；群內“股神”“獲利投資者”全是團伙水軍小號，依靠虛假盈利截圖、直播騙取受害人信任。受害人放鬆警惕後，團伙謊稱擁有企業內部原始股認購資格，誘騙其向兩家無經營、無上市備案的空殼生物公司轉賬。警方在行動現場查獲手機、電腦等作案工具，245名嫌疑人被刑拘，警方追查200餘個涉案賬戶，深挖黑灰產業鏈，全力追贓。警方提醒：線上薦股、內部原始股均為騙局，勿輕信陌生投資誘導，遇詐騙立即報警。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:019f4561-f51f-7aab-8d0a-19c9973d8998",
+      "time": "2026-07-09 13:37:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor equipment sector traded higher amid volatility; Changchuan Technology rose nearly 10%, with AMEC, Naura Technology, Weidao Nano and Huahai Qingke also higher."
+    },
     {
       "id": "mkt:019f4561-e9d0-7aab-8d0a-12f8ad81f618",
       "time": "2026-07-09 13:37:52",
@@ -9,6 +147,14 @@
         "MKT News"
       ],
       "text": "【Hezbollah says Israel cannot achieve stability】At a July 8 evening rally in Beirut mourning Iran's late Supreme Leader Khamenei, Hezbollah leader Naim Qassem said Iran, as an independent sovereign state, has foiled aggressors. Qassem said Hezbollah remains committed to the Iran‑US dialogue process while continuing to fight, and added that Israel cannot achieve stability, with resistance forces set to \"liberate this land\"."
+    },
+    {
+      "id": "4978243",
+      "time": "2026-07-09 13:37:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中俄“海上聯合-2026”聯合演習進入海上演練階段】中俄“海上聯合-2026”聯合演習港岸籌劃階段圓滿完成，9日正式進入海上演練階段。雙方參演艦艇從青島某軍港解纜起航前往預定海域，開展海上實兵實彈演練。根據計劃，海上演練階段在青島附近海空域進行，設定聯合偵察、防空反導、對海打擊、聯合援潛救生等課目。（新華社）"
     },
     {
       "id": "mkt:019f4561-7e3c-7aab-8d0a-0d47cfc7b7be",
