@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-10 06:32:08",
-  "count": 15864,
+  "updated": "2026-07-10 06:35:58",
+  "count": 15866,
   "items": [
+    {
+      "id": "te:markets:565804",
+      "time": "2026-07-10 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.35% — Top commodity loser is Lithium Carbonate (-3.35%). Gains are led by Silver (2.87%), Platinum (2.66%), Silicon (2.40%) and Gold (1.18%)."
+    },
+    {
+      "id": "4979807",
+      "time": "2026-07-10 06:35:11",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【券商年內領190張罰單 經紀業務成違規重點】據企業預警通資料統計，2026年以來，央行、證監會及各地證監局、證券交易所等監管機構對券商及從業人員共開出190張罰單，涉及超50家券商。其中，經紀業務的罰單數量最多，主要涉及員工私下接受客戶委託買賣證券、營銷違規等問題；投行業務領域的罰單數量次之，涉及盡職調查履職不到位，債券內控把關不嚴等問題。在業內人士看來，當前監管視野已超越券商單一業務環節的合規性，延伸至公司治理及客戶服務的全流程。對於券商而言，只有將合規真正融入公司治理與業務擴張的全過程，才能在激烈的市場競爭中穩健發展。 (中證報)"
+    },
+    {
+      "id": "4979806",
+      "time": "2026-07-10 06:34:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波音最新型號MAX機型在延誤多年後即將獲得美國聯邦航空管理局（FAA）的關鍵認證。"
+    },
+    {
+      "id": "4979805",
+      "time": "2026-07-10 06:34:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：聯邦監管機構預計將於本月晚些時候對波音第二新版本的737機型頒發認證。"
+    },
+    {
+      "id": "4979804",
+      "time": "2026-07-10 06:33:24",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【提醒：日內請重點關注（以下均為北京時間）】\n① 時間待定 2026中國具身智慧機器人產業展開幕（7月10-12日）；\n② 14:00 德國6月CPI終值；\n③ 14:15 歐洲央行副行長Vujcic、歐洲央行管委Stournaras在希臘雅典講話；\n④ 16:00 國際能源署（IEA）公佈月度原油市場報告；\n⑤ 20:30 加拿大6月就業報告（含就業人數、失業率等）；\n⑥ 時間待定 SK海力士美國ADR在納斯達克上市；"
+    },
+    {
+      "id": "4979803",
+      "time": "2026-07-10 06:33:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銀行股“破淨潮”下 長線資金悄然佈局】2026年以來，A股銀行板塊持續承壓，截至7月9日收盤，42家上市銀行集體破淨。銀行股價調整之際，各路資金態度分化，今年以來不少資金對該板塊進行增配，也有一些資金根據自身考量選擇減持。業內人士認為，未來險資對於銀行板塊的配置比例與投資力度仍具備進一步提升空間。 (中證報)"
+    },
     {
       "id": "te:markets:565803",
       "time": "2026-07-10 06:30:12",
@@ -144858,45 +144913,6 @@
         "其他"
       ],
       "text": "【在委內瑞拉中資企業已向委方捐贈物資超120噸】記者從中國駐委內瑞拉大使館瞭解到，據初步統計，截至7月2日，在委中資企業已向委方捐贈物資超120噸。"
-    },
-    {
-      "id": "te:economy:563892",
-      "time": "2026-07-03 06:35:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "ANZ Roy Morgan Consumer Confidence Index",
-        "Importance 1"
-      ],
-      "text": "New Zealand Consumer Mood at 3-Month High — The ANZ-Roy Morgan Consumer Confidence climbed to 91.3 in June 2026 from 86.5 in May. The index has risen 4 points over the previous month, matching the increase recorded in March and marking the largest monthly gain in three months, but it remains 16 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, increased 9 points to -11. Two-year inflation expectations eased to 4.6% from 5.3%, while house price expectations were unchanged at 2.5%."
-    },
-    {
-      "id": "te:markets:563891",
-      "time": "2026-07-03 06:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 3.30% — Top commodity gainers are Silver (3.30%), Gold (2.35%) and Platinum (1.76%). Biggest loser is Titanium (-2.11%)."
-    },
-    {
-      "id": "mkt:019f24f7-62f1-7aab-8c85-9d93c442b982",
-      "time": "2026-07-03 06:33:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. grid operator PJM issued an alert directing dispatchers to immediately start all offline generating units and ramp them to full emergency maximum output."
-    },
-    {
-      "id": "4968343",
-      "time": "2026-07-03 06:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "提醒：淡水河谷將於7月21日披露（礦石）銷售資料，將於7月30日釋出二季度業績報告。"
     }
   ]
 }
