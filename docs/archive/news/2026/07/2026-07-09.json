@@ -1,7 +1,125 @@
 {
   "date": "2026-07-09",
-  "count": 3270,
+  "count": 3283,
   "items": [
+    {
+      "id": "4979530",
+      "time": "2026-07-09 23:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.91%，報25124.15點。法國股指初步收漲0.85%，義大利股指初步收漲1.09%、銀行指數漲2.03%，英國股指初步收跌0.10%。"
+    },
+    {
+      "id": "4979529",
+      "time": "2026-07-09 23:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.83%，報641.20點。歐元區STOXX 50指數初步收漲1.31%，報6286.38點。富時泛歐績優300指數初步收漲0.88%，報2567.94點。"
+    },
+    {
+      "id": "mkt:019f4780-7093-7aab-8d1c-b09645ae96cd",
+      "time": "2026-07-09 23:30:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Gulf Cooperation Council said the international community should ensure freedom of navigation through the Strait of Hormuz and not levy transit or service fees."
+    },
+    {
+      "id": "mkt:019f4780-05a0-7aab-8d1c-aa4aabed988f",
+      "time": "2026-07-09 23:30:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council urged the UN Security Council to take a firm stance to ensure freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4979528",
+      "time": "2026-07-09 23:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【扎克伯格為Meta付費人工智慧模型制定“激進”價格策略】在競爭激烈的AI工具市場，馬克·扎克伯格希望憑藉價格優勢勝出。Meta Platforms Inc.釋出了其最先進人工智慧模型Muse Spark 1.1，並首次面向開發者推出付費版本。這是Meta首次向企業收取模型使用費，也為公司開闢了新的收入來源。扎克伯格在釋出前接受採訪時表示，這款模型將成為市場上價格最低的選擇之一。“由於這不是開源模型，我認為這是我們第一次真正認真推出API，”扎克伯格說，“其定價將極具競爭力，也非常有吸引力。”扎克伯格表示，新模型最大的提升在於智慧體能力。智慧體是今年AI領域最熱門的方向之一，通常指能夠代表使用者完成多步驟任務的系統。他表示，Muse Spark 1.1在智慧體推理和工具使用方面已達到“業界領先或非常接近領先”的水平。他還表示，該模型在程式設計能力方面也有顯著提升，Meta員工已在內部利用其為各類應用開發產品和功能。Meta還將推出新的Meta Model API系統，用於向開發者收費。扎克伯格表示，其API價格約為OpenAI和Anthropic頂級模型的25%。開發者可免費使用Meta模型，但達到一定詞元(Token)使用量門檻後，將需要付費。"
+    },
+    {
+      "id": "mkt:019f477f-ef42-7aab-8d1c-a33d566fd4ef",
+      "time": "2026-07-09 23:29:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Gulf Cooperation Council says Iran's attacks on shipping in the Strait of Hormuz threaten global energy and trade security."
+    },
+    {
+      "id": "4979527",
+      "time": "2026-07-09 23:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "海灣合作委員會：我們譴責伊朗對霍爾木茲海峽及該組織成員國的攻擊。對海灣油輪的襲擊是對航行安全和安保的不可接受的侵犯。各國一致站在一起，抵制這些侵略行為。對任何成員國的攻擊都是對所有海灣國家的直接攻擊。各國有權在遭受侵略時單獨或集體進行自衛。"
+    },
+    {
+      "id": "mkt:019f477e-bf9c-7aab-8d1c-9ac24b07626d",
+      "time": "2026-07-09 23:28:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Iraq's prime minister said Baghdad will work to ease tensions and推動 rapprochement and reconciliation between the United States and Iran."
+    },
+    {
+      "id": "mkt:019f477e-a031-7aab-8d1c-948c2c0f7ea7",
+      "time": "2026-07-09 23:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council said member states have the right to individual or collective self-defense if subjected to aggression."
+    },
+    {
+      "id": "4979526",
+      "time": "2026-07-09 23:27:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "法庭檔案顯示，紐約州起訴 3M、杜邦及其他企業，指控其銷售 “永久化學物質”，進而造成有毒汙染。"
+    },
+    {
+      "id": "mkt:019f477d-c68f-7aab-8d1c-8ab8eb004d21",
+      "time": "2026-07-09 23:27:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council: an attack on any member state constitutes a direct attack on all Gulf states."
+    },
+    {
+      "id": "mkt:019f477d-aaf1-7aab-8d1c-8389b2fabee7",
+      "time": "2026-07-09 23:27:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council: member states stand united in condemning these acts of aggression."
+    },
+    {
+      "id": "mkt:019f477d-8492-7aab-8d1c-7b10c7326265",
+      "time": "2026-07-09 23:27:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Gulf Cooperation Council said attacks on tankers in the Gulf are an unacceptable violation of maritime safety and security."
+    },
     {
       "id": "mkt:019f477d-6973-7aab-8d1c-74e20b443634",
       "time": "2026-07-09 23:27:09",

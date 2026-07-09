@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-09 23:27:42",
-  "count": 15920,
+  "updated": "2026-07-09 23:31:48",
+  "count": 15918,
   "items": [
+    {
+      "id": "4979530",
+      "time": "2026-07-09 23:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.91%，報25124.15點。法國股指初步收漲0.85%，義大利股指初步收漲1.09%、銀行指數漲2.03%，英國股指初步收跌0.10%。"
+    },
+    {
+      "id": "4979529",
+      "time": "2026-07-09 23:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.83%，報641.20點。歐元區STOXX 50指數初步收漲1.31%，報6286.38點。富時泛歐績優300指數初步收漲0.88%，報2567.94點。"
+    },
+    {
+      "id": "mkt:019f4780-7093-7aab-8d1c-b09645ae96cd",
+      "time": "2026-07-09 23:30:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Gulf Cooperation Council said the international community should ensure freedom of navigation through the Strait of Hormuz and not levy transit or service fees."
+    },
+    {
+      "id": "mkt:019f4780-05a0-7aab-8d1c-aa4aabed988f",
+      "time": "2026-07-09 23:30:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council urged the UN Security Council to take a firm stance to ensure freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "4979528",
+      "time": "2026-07-09 23:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【扎克伯格為Meta付費人工智慧模型制定“激進”價格策略】在競爭激烈的AI工具市場，馬克·扎克伯格希望憑藉價格優勢勝出。Meta Platforms Inc.釋出了其最先進人工智慧模型Muse Spark 1.1，並首次面向開發者推出付費版本。這是Meta首次向企業收取模型使用費，也為公司開闢了新的收入來源。扎克伯格在釋出前接受採訪時表示，這款模型將成為市場上價格最低的選擇之一。“由於這不是開源模型，我認為這是我們第一次真正認真推出API，”扎克伯格說，“其定價將極具競爭力，也非常有吸引力。”扎克伯格表示，新模型最大的提升在於智慧體能力。智慧體是今年AI領域最熱門的方向之一，通常指能夠代表使用者完成多步驟任務的系統。他表示，Muse Spark 1.1在智慧體推理和工具使用方面已達到“業界領先或非常接近領先”的水平。他還表示，該模型在程式設計能力方面也有顯著提升，Meta員工已在內部利用其為各類應用開發產品和功能。Meta還將推出新的Meta Model API系統，用於向開發者收費。扎克伯格表示，其API價格約為OpenAI和Anthropic頂級模型的25%。開發者可免費使用Meta模型，但達到一定詞元(Token)使用量門檻後，將需要付費。"
+    },
+    {
+      "id": "mkt:019f477f-ef42-7aab-8d1c-a33d566fd4ef",
+      "time": "2026-07-09 23:29:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Gulf Cooperation Council says Iran's attacks on shipping in the Strait of Hormuz threaten global energy and trade security."
+    },
+    {
+      "id": "4979527",
+      "time": "2026-07-09 23:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "海灣合作委員會：我們譴責伊朗對霍爾木茲海峽及該組織成員國的攻擊。對海灣油輪的襲擊是對航行安全和安保的不可接受的侵犯。各國一致站在一起，抵制這些侵略行為。對任何成員國的攻擊都是對所有海灣國家的直接攻擊。各國有權在遭受侵略時單獨或集體進行自衛。"
+    },
+    {
+      "id": "mkt:019f477e-bf9c-7aab-8d1c-9ac24b07626d",
+      "time": "2026-07-09 23:28:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Iraq's prime minister said Baghdad will work to ease tensions and推動 rapprochement and reconciliation between the United States and Iran."
+    },
+    {
+      "id": "mkt:019f477e-a031-7aab-8d1c-948c2c0f7ea7",
+      "time": "2026-07-09 23:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council said member states have the right to individual or collective self-defense if subjected to aggression."
+    },
+    {
+      "id": "4979526",
+      "time": "2026-07-09 23:27:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "法庭檔案顯示，紐約州起訴 3M、杜邦及其他企業，指控其銷售 “永久化學物質”，進而造成有毒汙染。"
+    },
+    {
+      "id": "mkt:019f477d-c68f-7aab-8d1c-8ab8eb004d21",
+      "time": "2026-07-09 23:27:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council: an attack on any member state constitutes a direct attack on all Gulf states."
+    },
+    {
+      "id": "mkt:019f477d-aaf1-7aab-8d1c-8389b2fabee7",
+      "time": "2026-07-09 23:27:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council: member states stand united in condemning these acts of aggression."
+    },
+    {
+      "id": "mkt:019f477d-8492-7aab-8d1c-7b10c7326265",
+      "time": "2026-07-09 23:27:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Gulf Cooperation Council said attacks on tankers in the Gulf are an unacceptable violation of maritime safety and security."
+    },
     {
       "id": "mkt:019f477d-6973-7aab-8d1c-74e20b443634",
       "time": "2026-07-09 23:27:09",
@@ -145311,146 +145429,6 @@
         "MKT News"
       ],
       "text": "Brazilian Automobile Dealers Association said Brazil's auto sales in June were 272,466 units."
-    },
-    {
-      "id": "mkt:019f2374-cf37-7aab-8c7f-bb20f1e07449",
-      "time": "2026-07-02 23:31:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs (GS.N) will provide funding for 'Trump accounts' for eligible employees' children."
-    },
-    {
-      "id": "mkt:019f2374-7c54-7aab-8c7f-b231ce1752f9",
-      "time": "2026-07-02 23:31:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanon's Aoun meets Syrian transitional foreign minister, stresses non‑interference】Lebanese President Aoun met visiting Syrian transitional foreign minister Shibani in Beirut and said Lebanon seeks bilateral ties with Syria based on cooperation, coordination and non‑interference. Aoun welcomed formation of a high‑level joint committee and endorsed coordination on border security and joint efforts against weapons and drug smuggling and human trafficking as mutually beneficial; he reiterated calls for Israeli forces to withdraw from Lebanese and Syrian territory to support regional stability. Shibani said the visit aims to deepen ties and economic cooperation, denied any Syrian intent to militarily intervene in Lebanon and voiced support for resolving regional issues through dialogue rather than confrontation."
-    },
-    {
-      "id": "4968040",
-      "time": "2026-07-02 23:31:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲股市創收盤歷史新高】歐洲STOXX 600指數初步收漲1.57%，報649.35點，時隔一個交易日再創收盤歷史新高。歐元區STOXX 50指數初步收漲1.40%，報6370.08點，也創收盤歷史新高。富時泛歐績優300指數初步收漲1.62%，報2601.96點。"
-    },
-    {
-      "id": "4968039",
-      "time": "2026-07-02 23:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Wolfe：上調雪佛龍評級至“跑贏大市”，近期回撥創造入市時機】Wolfe Research將雪佛龍的評級由“與同業持平”上調至“跑贏大市”，目標價210美元，指出該石油巨頭股價近期的回撥為投資者創造了具吸引力的入市時機，市場尚未充分反映其長期自由現金流的改善前景。"
-    },
-    {
-      "id": "4968038",
-      "time": "2026-07-02 23:30:51",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：將為符合資格的員工子女繳存“特朗普賬戶”。"
-    },
-    {
-      "id": "4968037",
-      "time": "2026-07-02 23:30:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總統會見敘過渡政府外長 強調互不干涉內政】據黎巴嫩國家通訊社2日報道，黎巴嫩總統奧恩當天在貝魯特會見到訪的敘利亞過渡政府外長希巴尼時表示，黎巴嫩希望與敘利亞建立基於合作、協調及互不干涉內政原則的雙邊關係。奧恩表示，黎巴嫩高度重視敘利亞的穩定，持續呼籲以色列從黎巴嫩及敘利亞領土上撤軍，以促進地區和平與穩定。（新華社）"
-    },
-    {
-      "id": "4968036",
-      "time": "2026-07-02 23:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "FENABRAVE：巴西 6 月汽車銷量 272,466 輛。"
-    },
-    {
-      "id": "te:markets:563845",
-      "time": "2026-07-02 23:29:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Novartis Stock Price Hits All-time High — Novartis shares increased to an all-time high of 131.60 CHF. Over the past 4 weeks, Novartis gained 13.16%, and in the last 12 months, it increased 32.71%."
-    },
-    {
-      "id": "te:markets:563844",
-      "time": "2026-07-02 23:29:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Visa Stock Price Hits 51-week High — Visa shares increased to 358.81 USD, the highest since July 2025. Over the past 4 weeks, Visa gained 14.83%, and in the last 12 months, it decreased 0.04%."
-    },
-    {
-      "id": "mkt:019f2372-c56f-7aab-8c7f-ada486c2fd44",
-      "time": "2026-07-02 23:29:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources: Kuwait's crude production averaged 1.65 mln bpd in June, up from 578,000 bpd in May. Production briefly rose to 1.9 mln bpd during the final 10 days of June."
-    },
-    {
-      "id": "mkt:019f2372-60bc-7aab-8c7f-a54e7e41478e",
-      "time": "2026-07-02 23:28:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russia suggests Ukraine may have used long-range ballistic missile for first time】Russian Defence Ministry said its air defences shot down a \"long-range combat tactical missile\", seven guided bombs and 602 fixed-wing drones in the past 24 hours, but did not identify the missile model or provide further detail. Ukraine has not publicly confirmed use of a ballistic missile. Ukrainian defence firm \"Fire Point\" has said its FP-9 ballistic missile, with a reported range of about 850 km intended to strike deep Russian targets, could begin flight tests after engine development is complete as soon as this summer or early autumn."
-    },
-    {
-      "id": "4968035",
-      "time": "2026-07-02 23:28:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮稱，六月的就業報告顯示，外籍出生勞動力在過去一年中急劇下降。"
-    },
-    {
-      "id": "4968034",
-      "time": "2026-07-02 23:28:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士透露，科威特6月原油產量平均為每日165萬桶，5月為每日57.8萬桶。"
-    },
-    {
-      "id": "mkt:019f2371-ddcd-7aab-8c7f-9a493c809c7b",
-      "time": "2026-07-02 23:28:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister said the government has exempted routine inspections of properties owned by firms damaged in Russian strikes to speed up recovery efforts."
-    },
-    {
-      "id": "4968033",
-      "time": "2026-07-02 23:28:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，六月下旬過去十天裡，科威特原油產量已升至每日190萬桶。"
     }
   ]
 }
