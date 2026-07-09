@@ -1,7 +1,97 @@
 {
   "date": "2026-07-09",
-  "count": 1524,
+  "count": 1534,
   "items": [
+    {
+      "id": "mkt:019f4552-a6fa-7aab-8d09-a4fae08f7977",
+      "time": "2026-07-09 13:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09626.HK",
+        "03690.HK"
+      ],
+      "text": "Hong Kong stocks fell further in afternoon trade: the Hang Seng Index dropped 1.0% and the Hang Seng Tech Index declined 0.79%. Tech names led losses—Bilibili (09626.HK) fell more than 5%, while Baidu (09888.HK), Xiaomi Group (01810.HK) and Meituan (03690.HK) slid over 3%."
+    },
+    {
+      "id": "4978227",
+      "time": "2026-07-09 13:21:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海倫鋼琴等成立智慧機器人新公司】企查查APP顯示，近日，寧波智慧全拓海倫智慧機器人有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由海倫鋼琴全資子公司寧波全拓海倫控股有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f4552-8667-7aab-8d09-9eeaf3a182f4",
+      "time": "2026-07-09 13:21:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former South Korean president Yoon Suk-yeol said, in response to the Supreme Court ruling finding him guilty of obstructing an arrest, We respect the court's decision, but deeply regret it."
+    },
+    {
+      "id": "mkt:019f4552-398d-7aab-8d09-93f8a8c81bed",
+      "time": "2026-07-09 13:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-backed potash project in Congo-Brazzaville likely to resume production in early 2027】Congo-Brazzaville officials confirmed the Bougou‑Massi potash project, developed with investment from Shenzhen Luyuan Mining, is expected to restart commercial potash production in early 2027. The minister of mines and geology said trial production is planned for end-2026 with full commercial output in Q1 2027. The Kouilou province project targets first-phase KCl output of 600,000 t/yr, expandable to 2.0 mln t/yr, and includes construction of a dedicated maritime export terminal. Officials say Bougou‑Massi is the fastest-progressing potash project among current plans in Congo-Brazzaville."
+    },
+    {
+      "id": "4978226",
+      "time": "2026-07-09 13:20:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中企投資剛果（布）鉀鹽產業有望明年初重啟生產】剛果（布）官方確認，依託中國深圳魯源礦業投資開發的布穀馬西鉀鹽專案，該國有望於2027年初重啟鉀肥商業化生產，終結數十年無規模化鉀鹽產出的局面，該專案也是當前剛果所有鉀鹽規劃中進度最快的專案。據礦業與地質部長介紹，布穀馬西專案計劃2026年底啟動試生產，2027年一季度實現全面投產。專案位於奎盧省，一期規劃年產氯化鉀60萬噸，遠期可擴容至200萬噸，且配套建設專屬海運出口碼頭。"
+    },
+    {
+      "id": "4978225",
+      "time": "2026-07-09 13:20:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23952.930點；恒生科技指數現跌0.669%。"
+    },
+    {
+      "id": "4978224",
+      "time": "2026-07-09 13:20:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將斯特蘭蒂斯（Stellantis）目標價從7.2歐元下調至5.5歐元。"
+    },
+    {
+      "id": "4978223",
+      "time": "2026-07-09 13:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國國家智慧財產權局與奧地利專利局簽署更新版智慧財產權領域合作諒解備忘錄】近日，中國國家智慧財產權局與奧地利專利局在日內瓦簽署更新版合作諒解備忘錄。根據備忘錄，雙方將重點圍繞智慧財產權領域知識與經驗交流、專利審查高速路等方面深化務實合作，以進一步增進兩局對彼此智慧財產權制度的相互理解，併為中國和奧地利企業的創新成果保護提供有力保障。"
+    },
+    {
+      "id": "4978222",
+      "time": "2026-07-09 13:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊停火狀態岌岌可危 霍爾木茲海峽交通幾近停滯】美國連續兩天襲擊伊朗，脆弱的美伊停火局面看起來愈發像要破裂了，霍爾木茲海峽交通週四幾近停滯。船舶追蹤資料顯示，這條世界上最重要的能源通道里，目前可觀測到的活動主要發生在伊朗批准的靠北航線上，而美國支援的阿曼走廊則沒什麼動靜。大型船隻中，只看到一艘受美國製裁的超級油輪從波斯灣駛出，與一艘懸掛伊朗國旗的集裝箱船一道航線。不過，也不排除有些關閉了應答器的船隻正在透過海峽。之前，伊朗襲擊船隻引發了美國的打擊，美國總統唐納德·特朗普也稱停火結束了。週三該海峽雙向共有14艘大宗商品運輸船隻透過，為6月中旬達成臨時和平協議以來最少的一天。"
+    },
+    {
+      "id": "4978221",
+      "time": "2026-07-09 13:18:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達110億港元。"
+    },
     {
       "id": "mkt:019f454e-d0e7-7aab-8d09-89cb10ac42ca",
       "time": "2026-07-09 13:17:00",
