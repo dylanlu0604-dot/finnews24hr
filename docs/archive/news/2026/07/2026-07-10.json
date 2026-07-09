@@ -1,7 +1,19 @@
 {
   "date": "2026-07-10",
-  "count": 135,
+  "count": 136,
   "items": [
+    {
+      "id": "te:economy:565785",
+      "time": "2026-07-10 01:56:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Egypt's Central Bank Leaves Key Rates Unchanged — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its July 2026 meeting, as expected, with policymakers cautious amid fragile geopolitical tensions in the Middle East. This marks the third consecutive meeting where the central bank leaves rates unchanged, pausing almost a year long monetary-easing cycle. Headline inflation slowed for a third consecutive month on June to 14.3%, slowing to the lowest level since before the conflict in the Middle East. Meanwhile, GDP growth slowed to 5% in the first quarter of 2026 from 5.3%, constrained by geopolitical tensions, uncertain trade policies and weak global demand. Looking ahead, economic activity is expected to average 5% for the fiscal year of 2025/26, with output below full potencial. Inflation is expected to accelerate through the third quarter of 2026, albeit at a slower pace than previously antecipated supported by easing inflationary pressures, and reaching the target level of 7±2% during the second half of 2027."
+    },
     {
       "id": "4979626",
       "time": "2026-07-10 01:53:13",

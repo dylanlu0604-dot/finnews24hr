@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-10 01:54:08",
-  "count": 15878,
+  "updated": "2026-07-10 01:57:56",
+  "count": 15870,
   "items": [
+    {
+      "id": "te:economy:565785",
+      "time": "2026-07-10 01:56:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Egypt's Central Bank Leaves Key Rates Unchanged — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its July 2026 meeting, as expected, with policymakers cautious amid fragile geopolitical tensions in the Middle East. This marks the third consecutive meeting where the central bank leaves rates unchanged, pausing almost a year long monetary-easing cycle. Headline inflation slowed for a third consecutive month on June to 14.3%, slowing to the lowest level since before the conflict in the Middle East. Meanwhile, GDP growth slowed to 5% in the first quarter of 2026 from 5.3%, constrained by geopolitical tensions, uncertain trade policies and weak global demand. Looking ahead, economic activity is expected to average 5% for the fiscal year of 2025/26, with output below full potencial. Inflation is expected to accelerate through the third quarter of 2026, albeit at a slower pace than previously antecipated supported by easing inflationary pressures, and reaching the target level of 7±2% during the second half of 2027."
+    },
     {
       "id": "4979626",
       "time": "2026-07-10 01:53:13",
@@ -145038,84 +145050,6 @@
         "其他"
       ],
       "text": "英國工黨領袖候選人伯納姆： 我將恪守工黨競選宣言中的稅收相關政策。"
-    },
-    {
-      "id": "4968186",
-      "time": "2026-07-03 01:57:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟部分批准西班牙總額 57 億歐元的第六筆復甦資金撥付申請。"
-    },
-    {
-      "id": "4968185",
-      "time": "2026-07-03 01:57:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "聯合太平洋鐵路公司：已與美國海關與邊境保護局（CBP）領導層確認，新型鐵路車廂的進口流程不會作出調整，客戶無需採取任何行動。"
-    },
-    {
-      "id": "4968184",
-      "time": "2026-07-03 01:57:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆：我將採取全新的施政從政路線。"
-    },
-    {
-      "id": "4968183",
-      "time": "2026-07-03 01:56:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆： 我主張終結涓滴經濟學。"
-    },
-    {
-      "id": "mkt:019f23f9-3c63-7aab-8c82-4daca7075b17",
-      "time": "2026-07-03 01:56:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime ministerial candidate Burnham said he has not yet decided on his choice for chancellor of the exchequer."
-    },
-    {
-      "id": "4968182",
-      "time": "2026-07-03 01:55:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆：我尚未確定將任命誰出任財政大臣。"
-    },
-    {
-      "id": "4968181",
-      "time": "2026-07-03 01:55:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：中期選舉務必投票給共和黨。"
-    },
-    {
-      "id": "mkt:019f23f7-ecf4-7aab-8c82-45e18e0ebeba",
-      "time": "2026-07-03 01:54:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump announced he has formally \"terminated\" marine protection restrictions and will not allow other countries to occupy U.S. maritime resources. He urged voters to back Republicans in the midterm elections."
-    },
-    {
-      "id": "4968180",
-      "time": "2026-07-03 01:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方敦促美國就種族歧視反躬自省】7月2日，在聯合國人權理事會第62屆會議與當代形式種族主義問題特別報告員互動對話時，中國代表發言指出，種族主義是殖民主義、奴隸貿易的遺毒，目前仍普遍存在。國際社會打擊種族主義、種族歧視依然任重道遠。時至今日，種族歧視依然是某些國家根深蒂固的頑疾。美國作為《消除一切形式種族歧視國際公約》締約國，未能採取有效措施改變系統性種族歧視，大規模強制遣返移民，非洲裔等少數族裔頻繁遭遇警察暴力執法，嚴重損害人民人權。中方敦促有關國家反躬自省，以務實行動停止有關種族歧視和暴力行為，對施暴者進行問責，對受害者予以補償。（CCTV國際時訊）"
     }
   ]
 }
