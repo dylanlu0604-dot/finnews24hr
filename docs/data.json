@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-10 03:09:09",
-  "count": 15869,
+  "updated": "2026-07-10 03:13:02",
+  "count": 15872,
   "items": [
+    {
+      "id": "mkt:019f484b-bbd7-7aab-8d20-849ff60134a1",
+      "time": "2026-07-10 03:12:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian state TV said reports of an explosion at Bandar Abbas port were false."
+    },
+    {
+      "id": "4979685",
+      "time": "2026-07-10 03:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "多明尼加共和國 6 月入境遊客量同比增長 5.99%。"
+    },
+    {
+      "id": "4979684",
+      "time": "2026-07-10 03:11:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺否認關於阿巴斯港發生爆炸的報道。"
+    },
+    {
+      "id": "4979683",
+      "time": "2026-07-10 03:10:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什組建外部專家團隊，審查貨幣政策框架】美聯儲主席凱文·沃什組建五個工作組，對美聯儲貨幣政策執行機制展開全面審查，涵蓋資產負債表管理、政策工具、人工智慧影響等領域。美聯儲表示，各工作組將獨立運作，以事實為依據開展研究，並向聯邦公開市場委員會提交嚴謹分析結果。工作組將評估政策工具、分析方法和政策框架是否存在改進空間。此次審查團隊成員包括多位知名經濟學家和前央行官員。其中，哈佛大學經濟學家拉傑·切蒂將參與領導資料工作組，科技投資人馬克·安德森將負責生產率與就業工作組，前白宮經濟顧問委員會主席格雷格·曼昆將共同領導通脹工作組。沃什表示，美國經濟在過去一代發生巨大變化，當前轉型速度更快，美聯儲需要確保自身處於最佳狀態，以實現穩定物價和促進就業的雙重目標。"
+    },
+    {
+      "id": "mkt:019f4849-d291-7aab-8d20-7e6a6fdc2bc5",
+      "time": "2026-07-10 03:10:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "【Fed chair KEVIN WARSH forms five external working groups to review monetary policy framework】Fed chair KEVIN WARSH has convened five independent external working groups to conduct a comprehensive review of the Fed’s monetary policy operating framework. Mandate areas include balance-sheet management, policy tools, the macroeconomic effects of artificial intelligence, and data and analytics. Each group will operate independently, conduct evidence-based research and deliver rigorous analyses to the FOMC. The review will assess policy tools, analytical methods and whether the policy framework can be improved. Appointments include Raj Chetty to lead the data group, tech investor Marc Andreessen to lead the productivity and employment group, and former White House CEA chair Greg Mankiw as co-leader of the inflation group. Warsh said the U.S. economy has undergone generational change and faster transformation, and the Fed must ensure it is optimally positioned to achieve price stability and maximum employment."
+    },
+    {
+      "id": "4979682",
+      "time": "2026-07-10 03:10:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：美國一名高階官員稱，美軍過去數小時內未在伊朗實施任何打擊行動。"
+    },
+    {
+      "id": "4979681",
+      "time": "2026-07-10 03:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部部長盧特尼克：特朗普清楚油價將維持低位。"
+    },
     {
       "id": "4979680",
       "time": "2026-07-10 03:08:37",
@@ -145004,49 +145066,6 @@
         "TSLA.O"
       ],
       "text": "The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week."
-    },
-    {
-      "id": "4968243",
-      "time": "2026-07-03 03:12:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國科羅拉多州5場山火蔓延 燒燬近506平方公里土地】當地時間7月2日獲悉，美國科羅拉多州正在燃燒的5場山火截至當天上午共燒燬近506平方公里土地，面積接近科羅拉多斯普林斯市。其中，該州當前規模最大的山火阿斯彭埃克斯火災截至1日晚已擴大至約194平方公里。該火災於6月29日早晨在科羅拉多州南部燃起，普韋布洛縣治安官辦公室稱，該火災已摧毀逾180棟建築，並造成一名消防員受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f243f-01e7-7aab-8c83-7ba3a2fefd4b",
-      "time": "2026-07-03 03:12:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Analyst: Saudi crude exports overstated as stranded cargoes inflate earlier counts】Energy Intelligence reporter Amena Bakr, citing sources, said Saudi crude and product exports average about 5.8 mln bpd versus roughly 6.3 mln bpd reported elsewhere, with the higher number including previously stranded cargoes. She warned the description of a \"market oversupply\" is misleading and said Strait of Hormuz flows remain far from normal. Bloomberg tanker-tracking showed a six-day average to Wednesday of 6.3 mln bpd, roughly equal to the 2025 average and about 90% of February levels."
-    },
-    {
-      "id": "mkt:019f243d-2db8-7aab-8c83-76f0af51cfc8",
-      "time": "2026-07-03 03:10:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said the company's departmental restructuring bets have not yet paid off."
-    },
-    {
-      "id": "4968242",
-      "time": "2026-07-03 03:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：特斯拉將員工每週 AI 工具使用費用上限設定為 200 美元。"
     }
   ]
 }
