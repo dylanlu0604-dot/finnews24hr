@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-09 10:27:29",
+  "updated": "2026-07-09 10:31:27",
   "count": 16154,
   "items": [
+    {
+      "id": "te:markets:565478",
+      "time": "2026-07-09 10:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Snaps 3-Day Losing Streak — The offshore yuan rose to around 6.79 per dollar on Thursday, snapping a three-session losing streak, as stronger producer-price growth reinforced expectations that deflationary pressures are easing despite still-muted consumer demand. Annual producer inflation rose to 4.1% in June from 3.9% in May, marking the fastest pace since July 2022, supported by higher commodity and energy costs amid the Middle East tensions. Meanwhile, annual consumer inflation eased to a three-month low of 1% from 1.2% in May. While rising global prices for oil, semiconductors, and industrial metals have lifted factory-gate prices, weak domestic demand has limited cost pass-through to consumers, keeping pressure on profit margins. On the monetary policy front, the central bank reiterated its commitment to maintaining an appropriately accommodative stance and strengthening financial support for domestic consumption, while acknowledging the persistent imbalance between robust supply and relatively weak demand."
+    },
+    {
+      "id": "4978017",
+      "time": "2026-07-09 10:30:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：預計波斯灣石油流量將在7月底恢復，這將需要霍爾木茲海峽石油流量增加660萬桶/日。"
+    },
+    {
+      "id": "4978016",
+      "time": "2026-07-09 10:29:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：前5個月基本醫保參保人數達13.19億 基金收入1.61萬億元】在今日上午舉行的2026年上半年例行新聞釋出會上，國家醫保局副主任王國棟介紹，今年1—5月，全國基本醫保參保人數達13.19億人，同比增加469萬人。其中，職工醫保參保3.86億人，同比增加716萬人；居民醫保參保9.23億人，同比減少246萬人，參保結構持續最佳化。同期，全國基本醫保基金收入1.61萬億元，同比增長4.89%；基金支出1.21萬億元，同比增長2.12%。王國棟表示，今年上半年醫療保障制度執行總體平穩，參保規模保持穩定，醫保基金執行總體平穩。"
+    },
+    {
+      "id": "mkt:019f44b5-4903-7aab-8d05-ec0772a8b925",
+      "time": "2026-07-09 10:29:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) says its fighters will not ignore US military aggression."
+    },
+    {
+      "id": "mkt:019f44b4-6b32-7aab-8d05-e53ed6a13cb1",
+      "time": "2026-07-09 10:28:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's national supercomputing internet core node goes live】China activated a national supercomputing internet core node: a single 100,000‑card full‑precision compute pool designed to support concurrent 100,000‑card training, ~10‑trillion‑parameter model full training, AI‑for‑Science and ultra‑large scientific engineering workloads, and to serve as a domestically developed inclusive large‑scale compute base. During trial it completed more than 70 tests at the 10k‑card scale. Using 45,000 cards it ran a 41.47 billion‑atom DFT‑precision simulation, setting a world record; billion‑scale grid simulation turnaround improved from week‑level to hour‑level; it has deeply adapted over 400 industry models and completed domestic porting and optimization of key domain software for fluid dynamics, quantum mechanics and large‑scale simulation, strengthening the domestic compute application ecosystem."
+    },
+    {
+      "id": "mkt:019f44b3-f40a-7aab-8d05-dbff8c45baad",
+      "time": "2026-07-09 10:27:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Korea Governor Shin said he sees a high probability of the won strengthening against the US dollar."
+    },
+    {
+      "id": "mkt:019f44b3-b06e-7aab-8d05-d2d216893ac7",
+      "time": "2026-07-09 10:27:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said if the United States attacks again, its response will extend to other US bases in the region."
+    },
+    {
+      "id": "te:markets:565477",
+      "time": "2026-07-09 10:27:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Pressured by US-Iran Tensions — The Japanese yen traded around 162.5 per dollar on Thursday, hovering near 40-year lows as renewed conflict between the US and Iran drove oil prices higher, adding pressure to Japan’s oil-dependent economy and weighing on the currency. The US military confirmed it had carried out strikes on Iran for a second straight day, while Tehran threatened a large-scale retaliatory operation against US military bases across the region. Meanwhile, traders continued to maintain bearish positions on the yen amid the absence of intervention from Japanese authorities despite repeated warnings from Tokyo. Investors are now awaiting official intervention data later this month to determine whether the government was behind the yen’s sharp but short-lived rally on July 2. Separately, Japan’s government revised its latest draft of the annual policy agenda, calling for appropriate monetary policy that supports stable price growth."
+    },
+    {
+      "id": "4978015",
+      "time": "2026-07-09 10:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家超算網際網路核心節點正式上線】2026河南省人工智慧大會7月9日在鄭州舉行。國家超算網際網路核心節點於當日正式上線執行。記者從會上瞭解到，國家超算網際網路核心節點專案以構建覆蓋全國的計算資源統籌排程體系為目標，承擔運營管理、資源排程等核心功能，並整合供需對接、產業孵化等綜合服務功能。該節點可對外提供超過10萬卡的國產AI算力，是國家超算網際網路平臺上線以來接入的全國最大規模的單體國產AI算力資源池。(財聯社)"
+    },
+    {
+      "id": "4978014",
+      "time": "2026-07-09 10:27:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "4978013",
+      "time": "2026-07-09 10:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，如果美國再次發動襲擊，其反擊範圍將擴大至該地區其他美軍基地。"
+    },
     {
       "id": "4978012",
       "time": "2026-07-09 10:26:52",
@@ -147672,99 +147782,6 @@
         "MKT News"
       ],
       "text": "【CMA: Tropical storm Bavi forms; no impact on Chinese waters for six days】China's Central Meteorological Observatory said the ninth named storm of the season, Bavi (tropical-storm intensity), formed on July 2. At 08:00 its center was at 11.0°N, 160.1°E — about 1,620 km ESE of Guam. Central pressure 998 hPa; max winds near the center 18 m/s (~35 kt); 7-level wind radius 180–280 km. Bavi is moving WNW at ~20 km/h and is expected to gradually strengthen and could reach super-typhoon strength (58–65 m/s, 17+ level). The observatory said Bavi will not affect Chinese waters over the next six days but will tend toward China's southeast coast after July 9."
-    },
-    {
-      "id": "4966392",
-      "time": "2026-07-02 10:31:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科星圖與山東文旅集團簽署戰略合作協議】6月29日，中科星圖股份有限公司與山東文旅集團戰略合作協議簽約儀式舉行。中科星圖董事長許光鑾表示，當前，低空經濟、智慧文旅迎來發展機遇期，期望與山東文旅集團深度攜手，聯合打造“文旅+空天科技”創新標杆產品，共建低空文旅、智慧景區標杆專案，探索產業融合發展新模式。"
-    },
-    {
-      "id": "4966391",
-      "time": "2026-07-02 10:31:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4966390",
-      "time": "2026-07-02 10:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺：今年第9號颱風“巴威”生成，未來6天對我國海域無影響】中央氣象臺訊息，今年第9號颱風“巴威”（熱帶風暴級；英文名稱：Bavi；名字來源：越南；名稱意義：位於越南北部的山脈）已於今天（7月2日）上午在西北太平洋洋麵上生成，上午8點鐘其中心位於美國關島東偏南方向約1620公里的洋麵上，就是北緯11.0度、東經160.1度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為180-280公里。預計，“巴威”將以每小時20公里左右的速度向西偏北方向移動，強度逐漸增強，最強可達超強颱風（58-65米/秒，17級或以上）。未來6天“巴威”對我國海域無影響，9日後逐漸趨向我國東南沿海。"
-    },
-    {
-      "id": "mkt:019f20a9-e214-7aab-8c6a-750295e80fca",
-      "time": "2026-07-02 10:30:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A-share China-Korea Semiconductor ETF (513310) resumed trading and fell more than 5%."
-    },
-    {
-      "id": "mkt:019f20a9-c2ca-7aab-8c6a-69c8e9108cf7",
-      "time": "2026-07-02 10:30:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Vietnam central bank official said the bank is determined to control inflation."
-    },
-    {
-      "id": "4966389",
-      "time": "2026-07-02 10:30:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "越南央行副行長：決心將通脹控制在可控範圍內。"
-    },
-    {
-      "id": "4966388",
-      "time": "2026-07-02 10:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【默沙東：動物保健森斯坦®將在中國境內上市】7月2日，默沙東宣佈，其動物保健事業部最新的科技解決方案森斯坦®將在中國境內上市；此外，其紐弗羅®(氟苯尼考注射液)已於近期獲得中國農業農村部關於原料藥變更的批准，即將重返中國市場。此前，該產品已獲批將靶動物拓展至牛，進一步滿足牛和豬呼吸道疾病的防控需求。"
-    },
-    {
-      "id": "4966387",
-      "time": "2026-07-02 10:29:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "小金屬板塊短線拉昇，翔鷺鎢業漲停，國城礦業、章源鎢業、中鎢高新、華陽新材、浩通科技等紛紛走高。"
-    },
-    {
-      "id": "4966386",
-      "time": "2026-07-02 10:29:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工業母機概念震盪反彈，亞威股份等多股漲停】工業母機概念震盪反彈，*ST海華、亞威股份、*ST東智、ST匯洲漲停，科德數控、宏德股份、紐威數控漲超10%，貝斯特、秦川機床、浙海德曼等跟漲。"
-    },
-    {
-      "id": "4966385",
-      "time": "2026-07-02 10:28:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦評張雪暖心回應島內車主讚歎 因為我們是一家人】國務院臺辦舉行例行新聞釋出會，總檯記者提問，近日張雪機車創始人張雪在與島內一位機車車主影片連線中，面對車主讚歎“你們的工業技術真先進”，張雪暖心回應。請問對此有何評論？發言人朱鳳蓮表示，這樣的對話讓我想起了一首歌《我們都是一家人》，從前的時候是一家人，現在還是一家人。因為我們是一家人，所以兩岸的中國人都會為張雪機車等一大批大陸產業技術創新成果感到驕傲；因為我們是一家人，所以大陸同胞願意率先同臺灣同胞分享中國式現代化發展機遇，共創民族復興偉業。我們熱忱歡迎廣大臺灣同胞多來大陸走走看看，親身感受祖國大陸日新月異的發展，積極參與兩岸交流合作、融合發展，攜手共創中華民族美好未來。"
-    },
-    {
-      "id": "4966384",
-      "time": "2026-07-02 10:28:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【小紅書概念股全面爆發 福石控股等多股漲停】小紅書概念股全面爆發走強，福石控股20cm漲停，天地線上、引力傳媒、天娛數科漲停，天創時尚、來伊份、慧辰股份、ST匯洲、天下秀等跟漲。"
     }
   ]
 }
