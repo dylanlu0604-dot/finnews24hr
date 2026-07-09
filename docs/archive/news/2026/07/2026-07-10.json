@@ -1,7 +1,139 @@
 {
   "date": "2026-07-10",
-  "count": 436,
+  "count": 450,
   "items": [
+    {
+      "id": "te:economy:565807",
+      "time": "2026-07-10 07:10:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Peru Holds Rates Steady for 10th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in July 2026 as widely expected, extending its pause for a tenth consecutive meeting. Annual inflation edged up to 4.0% in June from 3.9% in May, while core inflation rose to 4.5% from 4.4%, remaining above the 1–3% target range. However, monthly headline and core inflation readings were consistent with the target band, as June’s increase was driven mainly by higher fish prices. Meanwhile, 12-month inflation expectations eased to 2.8% from 2.9%, staying within the target range. The central bank expects both headline and core inflation to gradually return to around 2% as temporary supply shocks fade, though it warned that a stronger El Niño and renewed Middle East tensions could keep inflation elevated. Policymakers noted that economic activity remained robust, with business sentiment improving further, while global risks eased somewhat amid lower oil prices, although geopolitical uncertainty persists."
+    },
+    {
+      "id": "mkt:019f4924-ac3b-7aab-8d22-4e699daf2ef9",
+      "time": "2026-07-10 07:09:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI executive Fidji Simo to step down】OpenAI No.2 executive Fidji Simo will leave her full‑time role after medical leave and transition to a part‑time adviser, people familiar with the matter said. In a staff letter she said her health has deteriorated and recovery will take longer than expected. Simo, who was handpicked by CEO Sam Altman to lead OpenAI’s product and commercial units and had been widely expected to take on larger post‑IPO responsibilities, departs amid recent executive reshuffles as the company prepares a possible IPO as early as this year and pushes to catch Anthropic in the enterprise market; Altman will need to identify a successor."
+    },
+    {
+      "id": "4979832",
+      "time": "2026-07-10 07:09:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士募資265億美元，創下境外企業美國上市募資規模新高】韓國儲存晶片廠商SK海力士完成美國存託憑證發行，合計募資265億美元。公司頂住市場波動，完成史上境外企業規模最大的美國首次公開發行。公司公告證實媒體此前報道，本次發行1.779億份美國存託憑證，每份定價149美元；一份美國存託憑證對應十分之一在首爾交易所上市的普通股。資料顯示，265億美元的募資總額超越阿里巴巴集團赴美上市募資規模，位列全球史上第三大IPO。作為全球領先的高頻寬儲存器（HBM）供應商，此次赴美上市為SK海力士搭建了強有力的融資渠道，滿足投資者佈局火熱人工智慧賽道基礎設施板塊的需求。招股檔案披露，包括百富勤、Coatue Management和Situational Awareness Partners在內的機構已對高達70億美元的美國存託憑證（ADR）表達了投資意向。據測算，本次發行定價較公司韓國普通股週四收盤價溢價約3%。受普通股與美國存託憑證轉換限制，存託憑證交易價格預計高於對應的首爾股票等價價格。公司並未採取低於本土股價折價發售存託憑證的方式吸引投資者，此舉體現其對美股市場認可度充滿信心——即便本土股價連日大幅震盪，同時也意在避免發行收益過度外流。"
+    },
+    {
+      "id": "4979831",
+      "time": "2026-07-10 07:08:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅釋出山洪災害氣象風險橙色預警】據央視新聞，甘肅省防汛抗旱指揮部辦公室7月10日0時釋出山洪災害氣象風險橙色預警：甘肅省水利廳、甘肅省氣象局預計，過去6小時甘肅省臨夏州中部、甘南州北部已出現50毫米以上降水，最大累積降水為臨夏州臨夏市81.1毫米。預計未來24小時，定西及臨夏東部、甘南北部、蘭州南部、白銀中南部、隴南西北部等地區域性地方有暴雨，最大累計雨量40—80毫米，局地可達90—120毫米，小時雨強40—70毫米。受強降雨影響，7月10日0時至7月11日0時，定西及臨夏、甘南（夏河、合作、臨潭、卓尼、舟曲、迭部）、蘭州（榆中）、白銀（會寧）、隴南（宕昌、禮縣）、天水（武山、甘谷）、平涼（靜寧）等地區發生山洪災害可能性大（橙色預警）；其他地區也可能因局地短歷時強降水引發山洪災害。請相關部門注意做好實時監測、防汛預警和提請危險區人員轉移避險等防範工作，社會公眾注意防災避險。"
+    },
+    {
+      "id": "mkt:019f4923-884b-7aab-8d22-47473d20285b",
+      "time": "2026-07-10 07:08:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Netanyahu: Israel won't allow Iran nuclear weapons; to add 350 billion shekels to defense budget over 10 years】Israeli Prime Minister Netanyahu said on the 9th Israel will not allow Iran to obtain nuclear weapons regardless of whether the US and Iran reach a deal. He announced a planned 10-year defense budget increase of 350 billion shekels (~$117.7bn), with a large share earmarked for the air force and development of the domestic defense industry to reduce reliance on overseas procurement."
+    },
+    {
+      "id": "4979830",
+      "time": "2026-07-10 07:07:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少28.12噸】截至2026年07月09日，全球最大的白銀ETF iShares Silver Trust持倉量為14871.51噸，較前一個交易日減少28.12噸。"
+    },
+    {
+      "id": "4979829",
+      "time": "2026-07-10 07:06:52",
+      "tags": [
+        "公司",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月10日隔夜要聞一覽】\n1、一名美國官員表示，在伊朗問題上美國仍致力於尋求解決方案，相關技術談判仍在繼續。\n2、以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。\n3、總部位於英國的溫沃德海事分析公司9日釋出報告說，由於美伊持續交火，霍爾木茲海峽通航量急劇下降，經海峽駛離波斯灣的商船交通基本陷入停滯。\n4、據伊朗邁赫爾通訊社報道，當地時間7月9日晚，伊朗多地接連傳出爆炸聲，包括南部沿海城市布什爾、喬加達克和阿巴斯港，以及東南部沿海城市科納拉克。\n5、當地時間9日，英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，已基本鎖定黨魁職位，並有望接任英國首相。\n6、以色列總理內塔尼亞胡當地時間9日表示，無論美國和伊朗是否達成協議，以色列都“不允許”伊朗獲得核武器。同時，以色列計劃未來10年提高國防預算，著力發展空軍和本土軍工產業。\n7、在完成相關調查後，美國決定暫不對商用飛機、噴氣式發動機及其零部件加徵關稅，美國總統特朗普轉而指示政府與貿易伙伴展開談判，以調整此類產品的進口事宜。\n8、SK海力士透過美國存托股份（ADS）發行募資265億美元，以每份149美元發行1.779億份ADS，預計將於7月10日在納斯達克開始交易。\n9、美聯儲主席凱文·沃什公佈了五個工作組的負責人名單。這些工作組將審視美聯儲在政策制定關鍵領域的做法，並可能推動大範圍改革。工作組負責人包括知名學者、前央行官員和企業高管。\n10、Meta 釋出了其最先進人工智慧模型Muse Spark 1.1，並首次面向開發者推出付費版本。扎克伯格還否認Meta算力過剩，稱發展雲業務具商業潛力。\n11、OpenAI正式推出GPT-5.6全系列模型，全面開放可用，Gpt-5.6模型按每百萬Token計費，覆蓋3種模型規格，Sol每百萬輸入/輸出token收費5美元/30美元，Terra為2.50美元/15美元，Luna為1美元/6美元。"
+    },
+    {
+      "id": "4979828",
+      "time": "2026-07-10 07:06:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士募資265億美元，重新整理外國企業赴美IPO紀錄】當地時間7月9日，SK海力士透過美國存托股份（ADS）發行募資265億美元，成為外國企業在美國規模最大的首次公開募股。SK海力士以每份149美元發行1.779億份ADS，ADS將於7月10日在納斯達克開始交易，程式碼為“SKHYV”。"
+    },
+    {
+      "id": "4979827",
+      "time": "2026-07-10 07:05:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受高溫影響，英國零售業依然承壓】週五釋出的一份報告顯示，由於高溫導致許多購物者閉門不出，英國6月份零售額出現下滑。英國零售商協會和零售技術公司Sensormatic的最新報告顯示，在5月31日至7月5日的五週內，英國總客流量同比下降3.4%。英國零售商協會執行長Helen Dickinson表示：“商業街的客流量降幅最大，而有空調的購物中心和零售園區則表現出更強的韌性。“報告稱，加上熱浪的影響，消費者信心依然低迷，同時更廣泛的地緣政治和經濟不確定性繼續拖累非必需消費品支出。"
+    },
+    {
+      "id": "4979826",
+      "time": "2026-07-10 07:04:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、國務院印發《“十五五”碳達峰行動方案》\n2、上半年新能源汽車出口同比增長1.2倍\n3、超算登頂的“創新密碼”（微觀）\n4、落實落細各項任務，確保如期實現碳達峰目標——國家發展改革委有關負責同志就《“十五五”碳達峰行動方案》答記者問\n5、《人力資源和社會保障事業發展“十五五”規劃》印發 提出5類18項量化指標\n6、培育新質生產力、推進高水平開放、構築現代化產業生態 廣東民營經濟發展活力足（經濟聚焦）\n7、截至目前，民營企業再貸款餘額約七千億元 再貸款政策賦能中小微企業（讀數）\n8、暑期水路出行預計日均傳送旅客二百二十萬人次 海事部門提醒水上出行出遊安全（服務窗）\n9、中老鐵路跨境貨物運輸突破2000萬噸。"
+    },
+    {
+      "id": "4979825",
+      "time": "2026-07-10 07:03:53",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平對福建泉州晉江市一鞋廠火災事故作出重要指示強調 深入排查整治各類風險隱患 抓實抓細安全生產措施落實 堅決防止重特大事故發生 李強作出批示\n2、紮紮實實以科技創新支撐和引領中國式現代化——論學習貫徹習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話\n3、中共中央辦公廳、國務院辦公廳 印發《關於全力做好防汛抗旱工作的通知》\n4、李強會見奈米比亞總統恩代特瓦\n5、丁薛祥在兩院院士大會第二次全體會議上強調 全力抓好黨中央關於科技事業各項部署的落實 加快推進高水平科技自立自強\n6、乘風破浪 向海圖強——寫在第二十二個中國航海日之際\n7、河南安陽林州市把紅色基因轉化為實幹動能——發揚紅旗渠精神 推進鄉村全面振興（牢記初心使命 奮進復興征程）。"
+    },
+    {
+      "id": "4979824",
+      "time": "2026-07-10 07:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI釋出ChatGPT Work：搭載GPT-5.6的工作Agent】當地時間7月9日，OpenAI推出全新企業級功能——ChatGPT Work。作為ChatGPT的全新智慧代理（Agent），該功能由前沿模型GPT-5.6驅動。不同於即時對話，ChatGPTWork專為多步驟的複雜專案設計。使用者只需輸入終極目標，它便能自主拆解任務、制定計劃、提取連線工具中的上下文，並自動生成文件、表格或簡報。同時，同步上線的ChatGPT Sites功能支援將想法或資料一鍵生成輕量化協作網站。目前，該功能已在macOS和Windows桌面端上線，並正向Plus、Enterprise等付費方案使用者分批推出，使用者和企業管理層在執行過程中仍享有絕對控制權與審批權。"
+    },
+    {
+      "id": "mkt:019f491e-b7a3-7aab-8d22-3d2b22b4df0a",
+      "time": "2026-07-10 07:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports OpenAI executive Fidji Simo is resigning and will become a part-time advisor to the company."
+    },
+    {
+      "id": "mkt:019f491e-30b2-7aab-8d22-336bedacca32",
+      "time": "2026-07-10 07:02:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix plans to raise 40 tln won through an ADR listing, down from an earlier plan for 43 tln won."
+    },
     {
       "id": "4979823",
       "time": "2026-07-10 07:01:03",
