@@ -1,7 +1,126 @@
 {
-  "updated": "2026-07-09 14:10:31",
-  "count": 16137,
+  "updated": "2026-07-09 14:14:34",
+  "count": 16131,
   "items": [
+    {
+      "id": "mkt:019f4582-948a-7aab-8d0b-2bcb1fe221ac",
+      "time": "2026-07-09 14:13:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Morgan Stanley: End-July to August Likely Crucial for Sustained Recovery in Hong Kong and Mainland Stocks】Morgan Stanley China equity chief strategist Wang Ying said in a note that late July through August could be a key window for a sustained rebound in Hong Kong and mainland Chinese equities. She noted recent outperformance versus major global peers has been partly driven by continued southbound Stock Connect inflows. Wang said Q2 results from e-commerce firms may show the profit hit from price wars has peaked, and further improvement in AI commercialization could underpin related names. She advised investors significantly underweight Hong Kong and mainland equities to consider using recent volatility to gradually add fundamentally stronger stocks."
+    },
+    {
+      "id": "4978293",
+      "time": "2026-07-09 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.3%，報8762.50點。"
+    },
+    {
+      "id": "4978292",
+      "time": "2026-07-09 14:12:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.00%，現報4010.720點；深證成指漲2.52%，現報15315.771點；創業板指漲4.03%，現報4000.149點。"
+    },
+    {
+      "id": "te:economy:565534",
+      "time": "2026-07-09 14:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Exports",
+        "Importance 2"
+      ],
+      "text": "German Exports Unexpectedly Rise in May — Germany's exports unexpectedly increased by 0.9% month-on-month to an over 3½-year high of €137.9 billion in May 2026, accelerating from a downwardly revised 0.8% increase in April and beating market expectations of a 0.3% decline. Exports to third countries rose 3.6%, supported by a 23.1% surge in shipments to the US, Germany's largest export market. Exports to China also grew, rising 7.1%, while those to the UK edged up 0.4%. By contrast, shipments to EU member states fell 1.1%, with exports to the Eurozone declining 0.5% and those to non-Eurozone countries falling 2.4%. For the first five months of 2026, outbound shipments increased 3.0% year-on-year to €676.2 billion."
+    },
+    {
+      "id": "mkt:019f4581-4a10-7aab-8d0b-2263ebc9b461",
+      "time": "2026-07-09 14:12:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "STAR 50 index gains widened to 7%. Muxi Co. U-shares rose over 15%. Shanghai Silicon Industry, Montage Technology, Moore Threads, SMIC, Jinghe Integration and Huahai Qingke each climbed more than 10%."
+    },
+    {
+      "id": "4978289",
+      "time": "2026-07-09 14:11:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達7％，成分股中，沐曦股份漲15.3％，滬矽產業漲14.3％，瀾起科技漲13.3％，摩爾執行緒漲13.3％。"
+    },
+    {
+      "id": "te:economy:565533",
+      "time": "2026-07-09 14:10:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machine Tool Orders",
+        "Importance 1"
+      ],
+      "text": "Japan Machine Tool Orders Surge 52.8% in June — Japan’s machine tool orders surged 52.8% year-on-year to JPY 203,515 million in June 2026, following a 37.4% increase in the previous month. Demand strengthened across both domestic and overseas markets. Foreign orders climbed 56.0% to JPY 145,499 million after rising 37.7% in May, while domestic orders advanced 45.5% to JPY 58,016 million, following a 36.4% increase. On a monthly basis, total machine tool orders jumped 15.0% in June, reversing a 6.4% decline in the previous month. For the first half of the year, machine tool orders totaled JPY 1,055,281 million, up 35.7% from the corresponding period a year earlier, driven by strong growth in both foreign (40.9%) and domestic (22.8%) demand."
+    },
+    {
+      "id": "te:economy:565532",
+      "time": "2026-07-09 14:10:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Germany Imports Unexpectedly Drop — Germany’s imports fell 2.5% month-on-month to a three-month low of €118.8 billion in May 2026, reversing a marginally revised 1.1% increase in the previous month and missing market estimates of a 0.1% gain. Imports from EU member states declined 2.5%, as a 4.3% drop in purchases from euro-area countries more than offset a 1.6% rise in imports from non-euro-area EU members. Meanwhile, imports from non-EU countries decreased 2.6%, reflecting weaker shipments from China (-2.0%), despite a sharp 11.5% increase in purchases from the U.S. and a 14.5% rise in imports from the United Kingdom. On an annual basis, total imports rose 1.6%, slowing markedly from April’s 6.1% increase. For the first five months of 2026, Germany’s imports increased 3.7% from the same period a year earlier to €587.8 billion."
+    },
+    {
+      "id": "mkt:019f457f-86be-7aab-8d0b-1870f79e9db0",
+      "time": "2026-07-09 14:10:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's ChiNext index extended gains to 4.00%; Shenzhen Composite up 2.48%; Shanghai Composite up 0.96%. More than 1,800 stocks advanced. Semiconductor sector and its supply chain rallied broadly."
+    },
+    {
+      "id": "4978288",
+      "time": "2026-07-09 14:10:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲4％，上證指數漲0.97％，深證成指漲2.49％，全市場超1800只個股上漲，半導體產業鏈全線走高。"
+    },
+    {
+      "id": "4978287",
+      "time": "2026-07-09 14:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍對伊朗本土第二輪空襲後伊朗各方表態】在當地時間週四美伊發生第二輪深夜互襲後，伊朗高層對美國及支援美國的歐洲國家發表了強硬宣告。\n1.伊斯蘭革命衛隊（IRGC）：發動反擊並警告擴大打擊範圍\n根據伊朗國家電視臺（IRIB）報道，伊斯蘭革命衛隊宣稱已對美國位於巴林和科威特的基礎設施及軍事設施發動了無人機與導彈的聯合襲擊，以此回應美國的最新行動。革命衛隊同時警告：若美國繼續報復，伊朗的打擊範圍將擴大至美軍在該地區的其他基地。\n2.伊朗議長（首席談判代表）：伊朗將會回擊\n伊朗議長、對美談判負責人卡利巴夫（Mohammad Bagher Ghalibaf）向美國發出直接警告，美國仍未明白，霸凌和背信棄義已不再是“零成本”的事。霍爾木茲海峽只有在“伊朗的安排而非美國的威脅”下才能開放。他寫道：“你敢打，我就還擊。別再徒勞揮舞拳頭，否則只會陷得更深。”\n3.伊朗外交部：警告支援美國的歐洲及周邊國家\n針對數名北約領導人表態支援美國週三首輪襲擊的行為，伊朗外交部發言人巴加埃（Esmail Baghaei）在社交平臺上向歐洲及相關地區國家發出警告：“任何提供領土、軍事基地和基礎設施以協助美軍行動的國家，都無法推卸其助長這場‘無端侵略’的責任，並必須承擔由此帶來的嚴重後果。”"
+    },
     {
       "id": "mkt:019f457e-580d-7aab-8d0b-111b702b0b50",
       "time": "2026-07-09 14:08:55",
@@ -33,6 +152,15 @@
         "Importance 2"
       ],
       "text": "European Stocks Head for Higher Open — European equity markets were poised to open higher on Thursday after falling for three consecutive sessions, as investors continued to assess escalating tensions in the Middle East. The US military confirmed it had carried out strikes on Iran for a second straight day in an effort to curb Tehran’s ability to threaten navigation through the Strait of Hormuz, while Iran threatened a large-scale retaliatory operation against US military bases across the region. In Europe, data showed Germany’s trade surplus widened to €19.1 billion in May from €14.5 billion in April, as exports increased while imports declined. Meanwhile, there are no major corporate earnings releases scheduled across Europe today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures advanced 1.1% and 0.8%, respectively."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607093799887471",
+      "time": "2026-07-09 14:07:10",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中汽協：6月汽車出口量歷史首次突破100萬輛 同比增長75.1%】中國汽車工業協會今天（9日）公佈的最新資料顯示，6月，汽車出口103.7萬輛，環比增長11.6%，同比增長75.1%，單月出口量首次突破100萬輛。"
     },
     {
       "id": "4978285",
@@ -147488,183 +147616,6 @@
         "Impact bullish"
       ],
       "text": "Japan's government economic adviser Nagase said he personally favors a June rate hike, warning that delaying it would cause excessive yen depreciation and harm households."
-    },
-    {
-      "id": "4966688",
-      "time": "2026-07-02 14:14:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員長濱：個人認為6月加息是合適的，因推遲加息將導致日元過度貶值，損害家庭部門利益。"
-    },
-    {
-      "id": "4966687",
-      "time": "2026-07-02 14:14:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星高管團隊到訪聯想總部，或涉及儲存晶片長期供應合作】韓國三星電子高管團隊到訪聯想集團總部。一位接近雙方合作的人士表示，此次三星高層團隊到訪，雙方交流內容或涉及儲存晶片供應、AI硬體協同以及長期合作機制等議題。不過，截至發稿，聯想集團與三星方面暫未就具體合作內容作出公開回應。（新浪科技）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607023791758285",
-      "time": "2026-07-02 14:14:14",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本政府經濟顧問長瀨：日本央行應該以每六個月一次的速度加息】日本政府經濟顧問長瀨稱，日本央行應該以每六個月一次的速度加息，這種速度不會傷害國內投資。適度的日本央行加息對糾正日元過度貶值至關重要。預計日本央行將在今年年底加息，然後在明年夏季再次加息，之後將暫停加息。"
-    },
-    {
-      "id": "4966686",
-      "time": "2026-07-02 14:13:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【住友林業擬發行新一輪公司債，募資總額上限達4000億日元】7月2日，日本住友林業（Sumitomo Forestry）向監管機構提交披露檔案，計劃發行新一輪公司債券，發行總額度上限最高達4000億日元。本次募資計劃主要用於最佳化集團的資本結構、償還到期債務，併為其在全球住宅、木材建材業務以及綠色可持續發展專案上的擴張提供充足的資金儲備。"
-    },
-    {
-      "id": "mkt:019f2176-4f63-7aab-8c6e-54d0bcf3cca4",
-      "time": "2026-07-02 14:13:49",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japanese government economic adviser Nagase expects the BOJ to hike at year-end, hike again next summer, then pause further increases."
-    },
-    {
-      "id": "4966685",
-      "time": "2026-07-02 14:13:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8724.50美元。"
-    },
-    {
-      "id": "mkt:019f2175-ed32-7aab-8c6e-4c0e79316ebb",
-      "time": "2026-07-02 14:13:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's government economic adviser Nagase said a modest Bank of Japan rate hike is crucial to correcting excessive yen depreciation."
-    },
-    {
-      "id": "4966684",
-      "time": "2026-07-02 14:13:16",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌8%，SK海力士股價跌幅擴大至14%。"
-    },
-    {
-      "id": "mkt:019f2175-bd83-7aab-8c6e-47f2f45f9d2b",
-      "time": "2026-07-02 14:13:12",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japanese government economic adviser Nagase said the Bank of Japan should raise rates every six months and that such a pace would not harm domestic investment."
-    },
-    {
-      "id": "mkt:019f2175-7043-7aab-8c6e-3a1b0532fbfb",
-      "time": "2026-07-02 14:12:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's government economic adviser Nagase said the Bank of Japan should continue raising interest rates at a moderate pace."
-    },
-    {
-      "id": "4966683",
-      "time": "2026-07-02 14:12:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員長濱：預計日本央行將在今年底加息，然後在明年夏季前後再次加息，之後暫停行動。"
-    },
-    {
-      "id": "4966682",
-      "time": "2026-07-02 14:12:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員長濱：日本央行溫和加息對糾正日元過度疲軟至關重要。"
-    },
-    {
-      "id": "4966681",
-      "time": "2026-07-02 14:11:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員長濱：央行應以大約每六個月一次的節奏加息，這樣的步伐不會損害國內投資。"
-    },
-    {
-      "id": "mkt:019f2174-051a-7aab-8c6e-33d61567e444",
-      "time": "2026-07-02 14:11:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China crude oil futures contract 2608 slid intraday, widening losses to 6.02% at 432.7 yuan/barrel; turnover topped 26.4 bln yuan. Open interest rose about 2,300 contracts during the session and intraday volatility increased."
-    },
-    {
-      "id": "4966680",
-      "time": "2026-07-02 14:11:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國北部一醫院發生火災 已致2人死亡逾30人受傷】當地時間7月2日凌晨，德國北部城市路德維希斯盧斯特一家醫院發生火災，已造成2人死亡、30多人受傷。目前，消防和救援人員仍在現場處置，起火原因尚不清楚。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f2173-a4e1-7aab-8c6e-297e7dc0d209",
-      "time": "2026-07-02 14:10:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister said India and Japan, as Quad members, are jointly committed to promoting peace in the Indo-Pacific."
-    },
-    {
-      "id": "mkt:019f2173-83a1-7aab-8c6e-217f1b5d075b",
-      "time": "2026-07-02 14:10:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian military says it has struck the Kstovo oil refinery in Russia."
-    },
-    {
-      "id": "4966679",
-      "time": "2026-07-02 14:10:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌6%，現報432.70元。"
     }
   ]
 }
