@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-09 23:07:33",
-  "count": 15931,
+  "updated": "2026-07-09 23:11:38",
+  "count": 15927,
   "items": [
+    {
+      "id": "mkt:019f476e-78fb-7aab-8d1c-3d98ab57fd08",
+      "time": "2026-07-09 23:10:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel will remain in the south Lebanon security zone as needed."
+    },
+    {
+      "id": "mkt:019f476c-6e12-7aab-8d1c-37414e1ef04e",
+      "time": "2026-07-09 23:08:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Bank of Pakistan said Pakistan's gross foreign exchange reserves stood at $24.0 billion as of July 3, 2026."
+    },
+    {
+      "id": "4979515",
+      "time": "2026-07-09 23:07:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "墨西哥央行會議紀要顯示，多數理事會委員表示，美伊談判取得進展，中東衝突帶來的相關風險已有所緩和。"
+    },
+    {
+      "id": "4979514",
+      "time": "2026-07-09 23:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長：我們的軍隊處於高度戒備狀態，準備恢復戰鬥。我們不會從加沙、黎巴嫩和敘利亞的安全區撤出。已準備好對伊朗發動攻擊以消除威脅。"
+    },
+    {
+      "id": "4979513",
+      "time": "2026-07-09 23:07:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：多數理事會委員強調，世界盃帶動旅遊服務通脹上行僅為暫時性現象。"
+    },
+    {
+      "id": "4979512",
+      "time": "2026-07-09 23:06:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美光科技上調美國投資計劃至2500億美元 押注AI儲存晶片需求】美光科技表示，計劃將對美國新工廠的支出增至2500億美元，以滿足全球人工智慧熱潮推動的儲存晶片需求激增。此舉意味著在美光此前宣佈的2000億美元支援承諾上再增加500億美元，用於擴大國內晶片製造規模，其中包括在紐約州、愛達荷州和弗吉尼亞州的專案。這筆支出預計將持續到2035年，並支援美光在未來十年內實現40%的DRAM產品在美國生產的目標。美光股價週四紐約開盤後一度上漲8%，至每股1024.27美元。今年以來，該股累計上漲逾250%。"
+    },
     {
       "id": "4979511",
       "time": "2026-07-09 23:06:09",
@@ -145452,109 +145503,6 @@
         "公司"
       ],
       "text": "【黑石面向富裕人士的基金5月創下最強單月表現 得益於投資Anthropic】得益於對AI領域熱門企業Anthropic PBC的投資，黑石集團旗下面向富裕人士的私募股權基金5月取得了有史以來最強勁的月度業績。一封致投資者信函顯示，黑石私募股權策略基金(簡稱BXPE)的Class I份額在5月實現了4.3%的淨回報，今年以來的漲幅達到11.4%。BXPE在第二季度投入超過25億美元，其中包括對Anthropic的追加投資以及對支付處理商Stripe的押注。儘管近年來私募股權行業面臨壓力，但黑石在信中指出，槓桿收購和IPO市場的長期低迷狀態正開始緩解。"
-    },
-    {
-      "id": "4968014",
-      "time": "2026-07-02 23:11:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗武裝部隊稱將堅決回應美方干涉】據伊朗伊斯蘭共和國廣播電視臺今天（7月2日）報道，伊朗武裝部隊哈塔姆·安比亞中央司令部當天發表宣告說，伊朗武裝力量將“堅決且迅速”地回應美國在霍爾木茲海峽的任何干涉行為。宣告說，美國戰機在霍爾木茲海峽上空的持續存在，將破壞該水道的安全並妨礙地區局勢穩定。在霍爾木茲海峽問題上，伊朗將毫不猶豫地採取一切必要行動，粉碎美軍及其支持者的任何侵略行徑。美國海軍中央司令部1日稱，美軍一架“海鷹”直升機當天在阿拉伯海實施緊急水上迫降，4名機組人員中3人獲救、1人失蹤。宣告稱，目前沒有跡象表明迫降由敵對行動導致，事故具體原因正在調查中。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f2362-31e7-7aab-8c7f-6ff35aa91001",
-      "time": "2026-07-02 23:11:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Analyst: U.S. June jobs report shows hiring engine weakening】Sung Won Sohn, chief economist at SS Economics, said the U.S. June jobs report reshapes the labor-market picture: nonfarm payroll growth slowed and was revised down, labor force participation fell, leisure and hospitality weakened, and job gains remain heavily concentrated in health care and social assistance. Sohn said the data indicate the labor market is no longer booming, describing a \"low hiring, low firing\" environment with less margin for error. He added the report reduces near-term odds of further Fed tightening, has weakened the dollar, and investors will monitor whether the cooling persists."
-    },
-    {
-      "id": "mkt:019f2362-09b6-7aab-8c7f-6182601c8fe8",
-      "time": "2026-07-02 23:10:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported the Israeli military said the Givati Brigade has completed combat operations in southern Lebanon."
-    },
-    {
-      "id": "4968013",
-      "time": "2026-07-02 23:10:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【浙江省委書記王浩在杭州檢查指導防汛和電力迎峰度夏工作】2日上午，浙江省委書記王浩在杭州檢查指導防汛和電力迎峰度夏工作並調研水網、新型電網建設。他強調，要深入學習貫徹習近平總書記在中央政治局會議研究部署防汛抗旱工作時的重要講話和考察浙江重要講話精神，牢固樹立和踐行正確政績觀，強化責任意識、風險意識，堅持底線思維、極限思維，織牢織密防汛防颱安全網，全力確保迎峰度夏平穩有序，有力維護人民群眾生命財產安全和社會大局穩定。（浙江釋出）"
-    },
-    {
-      "id": "mkt:019f2360-9e78-7aab-8c7f-5bbb8cdff890",
-      "time": "2026-07-02 23:09:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) extends losses to 4%."
-    },
-    {
-      "id": "4968012",
-      "time": "2026-07-02 23:09:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【快手：北京可靈將持有可靈AI相關資產及業務，多方投資者同意向可靈AI注資20億美元】快手(01024.HK)公告，於2026年7月2日（交易時段後），(i)北京可靈（本公司的間接全資附屬公司，預期於重組完成後將持有快手集團可靈AI相關資產及業務），(ii)21名獨立投資者、甲方及乙方，(iii)北京可靈集團公司，(iv)LuckyLabs，及(v)北京快靈瑞，訂立增資協議，據此，初始投資者同意合共以人民幣13,823.60百萬元（或2,028.20百萬美元）的現金資本注入北京可靈，惟須條件獲達成或獲豁免。根據增資協議，經北京可靈同意後，額外投資者可自簽署日期起60天內透過簽署加入協議成為增資協議項下的投資者訂約方，惟增資協議的總增資款不得超過人民幣20,447.10百萬元。加入協議應構成增資協議的一部分。據此，於增資協議同日，15名額外投資者各自與北京可靈訂立加入協議，據此，彼等成為增資協議的訂約方，並同意合共以人民幣5,223.50百萬元的現金資本注入北京可靈，惟須條件獲達成或獲豁免。北京可靈可於認購期內在認購限額範圍內與新的額外投資者進一步訂立加入協議。"
-    },
-    {
-      "id": "4968011",
-      "time": "2026-07-02 23:08:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數跌幅擴大至4%。美光科技跌5.10%，西部資料跌7.28%，希捷科技跌7.48%，閃迪跌11.53%，鎧俠ADR跌12.50%。"
-    },
-    {
-      "id": "4968010",
-      "time": "2026-07-02 23:08:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【丹麥央行入市干預匯市 提振丹麥克朗】丹麥央行週四釋出宣告稱，該行上月對外匯市場實施干預，以維持丹麥克朗釘住歐元的匯率機制。6 月央行購入 7 億丹麥克朗，推升本國貨幣匯率。本次是 2023 年 1 月以來該央行首次進行匯市干預。"
-    },
-    {
-      "id": "4968009",
-      "time": "2026-07-02 23:07:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，海天網路跌20.25%，新氧跌9.71%，世紀互聯跌9.02%，復朗集團跌6.47%，阿特斯跌5.94%。"
-    },
-    {
-      "id": "mkt:019f235f-25bd-7aab-8c7f-572c39355dd2",
-      "time": "2026-07-02 23:07:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 reversed earlier gains to trade lower; Nasdaq down 0.7%, Dow up 0.5%."
     }
   ]
 }
