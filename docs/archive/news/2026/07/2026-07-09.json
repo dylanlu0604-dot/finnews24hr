@@ -1,7 +1,71 @@
 {
   "date": "2026-07-09",
-  "count": 895,
+  "count": 902,
   "items": [
+    {
+      "id": "mkt:019f4453-5d56-7aab-8d02-043eead8e1cf",
+      "time": "2026-07-09 08:42:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Mobile users in Qatar received an alert cancellation notification reading \"threat eliminated\"."
+    },
+    {
+      "id": "4977814",
+      "time": "2026-07-09 08:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "目擊者稱，卡達已向手機使用者傳送“解除警報”簡訊，稱威脅已消除。"
+    },
+    {
+      "id": "4977813",
+      "time": "2026-07-09 08:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "鄭州市氣象臺2026年7月9日6時4分繼續釋出高溫橙色預警訊號：預計今天12時至17時，鄭州市主城區、上街區、航空港區所轄鄉鎮及街道最高氣溫將升至37℃以上，請注意防範高溫天氣帶來的不利影響。"
+    },
+    {
+      "id": "mkt:019f4452-b358-7aab-8d01-fc04f69ca95f",
+      "time": "2026-07-09 08:41:38",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 30-year bond yield rose 2bps to 4.020%."
+    },
+    {
+      "id": "4977812",
+      "time": "2026-07-09 08:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林拉響防空警報】巴林內政部9日說，巴林拉響防空警報。 此前，美軍對伊朗軍事設施發動打擊後，伊朗方面很快會對位於巴林等海灣國家的美軍設施發動報復性打擊。（新華社）"
+    },
+    {
+      "id": "4977811",
+      "time": "2026-07-09 08:40:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1.0個基點，至3.880%。日本30年期國債收益率上升2.0個基點，至4.020%。"
+    },
+    {
+      "id": "mkt:019f4451-7a1c-7aab-8d01-f30af3bb6001",
+      "time": "2026-07-09 08:40:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Bahrain raises air‑defense alert】Bahrain’s Interior Ministry said on the 9th it raised an air‑defense alert. The move follows a US strike on Iranian military facilities; Iran said it would soon carry out retaliatory strikes on US military facilities in Bahrain and other Gulf states."
+    },
     {
       "id": "4977810",
       "time": "2026-07-09 08:37:40",
