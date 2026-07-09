@@ -1,7 +1,155 @@
 {
   "date": "2026-07-09",
-  "count": 828,
+  "count": 843,
   "items": [
+    {
+      "id": "4977772",
+      "time": "2026-07-09 08:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米雷軍：今天，我們正式公佈小米汽車的第二個產品系列：SkyNomad 小米澎程。 SU7/YU7系列，是“駕駛者之車”；小米澎程系列，是“智慧可變大空間SUV”。"
+    },
+    {
+      "id": "mkt:019f4432-490f-7aab-8d01-7ba64f7fddfa",
+      "time": "2026-07-09 08:06:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's National Hydrocarbons Agency (ANH) said commercial natural gas production in May fell 10.4% YoY to 717 MMcf/d."
+    },
+    {
+      "id": "4977771",
+      "time": "2026-07-09 08:05:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大漲幅，最新上漲1.1%。"
+    },
+    {
+      "id": "4977770",
+      "time": "2026-07-09 08:05:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "委內瑞拉臨時總統德爾茜·羅德里格斯表示，已致函英國，要求解除對存放在英格蘭銀行的該國黃金的凍結禁令。"
+    },
+    {
+      "id": "4977769",
+      "time": "2026-07-09 08:04:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞5月商業化天然氣產量同比下降10.4%，至每日7.17億立方英尺。"
+    },
+    {
+      "id": "mkt:019f4430-ecf0-7aab-8d01-71ff6872e6ea",
+      "time": "2026-07-09 08:04:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Colombia's National Hydrocarbons Agency (ANH) said May crude oil production averaged 728,835 b/d, down 2.8% YoY."
+    },
+    {
+      "id": "mkt:019f4430-ea92-7aab-8d01-6a8bd19accbe",
+      "time": "2026-07-09 08:04:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 1.00% intraday."
+    },
+    {
+      "id": "te:markets:565427",
+      "time": "2026-07-09 08:04:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Pressured by Middle East Tensions — Silver held below $59 an ounce on Thursday after declining for a second consecutive session, pressured by concerns that the renewed conflict in the Middle East could disrupt energy supplies from the region and intensify inflationary pressures. The US military confirmed it carried out strikes on Iran for a second straight day in an effort to curb Tehran’s ability to threaten navigation through the Strait of Hormuz, while Iran vowed a large-scale retaliatory operation against US military bases in the region. President Donald Trump said that, in his view, the ceasefire is over and warned of additional strikes on Iran along with a new blockade. Meanwhile, minutes from the Federal Reserve’s June meeting showed that only a few policymakers favored a rate increase, though officials expressed growing concern about inflation. Markets continue to price in at least one Fed rate hike by the end of 2026."
+    },
+    {
+      "id": "mkt:019f4430-97c8-7aab-8d01-64a34b8e4142",
+      "time": "2026-07-09 08:04:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year government bond yield rose to 2.880%, the highest since September 1996."
+    },
+    {
+      "id": "4977768",
+      "time": "2026-07-09 08:03:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.8%，報8,711.90點。"
+    },
+    {
+      "id": "mkt:019f4430-289b-7aab-8d01-5b40cb107e2b",
+      "time": "2026-07-09 08:03:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Nine ministries including MOFCOM back acceleration of retail innovation】MOFCOM and eight other ministries issued guidance on July 9 setting a 2030 target to establish a modern retail system characterized by rational spatial layout, higher-quality supply, diversified formats, smart and convenient channels, and orderly competition. The guidance prioritizes system planning, supply-side upgrading, demand stimulation and new growth drivers; it seeks to develop flagship retail scenarios, promote integrated innovative formats, cultivate internationally competitive retail enterprises and support measures to strengthen, scale up and upgrade retail firms to guide retail-sector innovation and high‑quality development."
+    },
+    {
+      "id": "te:markets:565426",
+      "time": "2026-07-09 08:03:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Middle East Tensions — Gold traded below $4,100 an ounce on Thursday after falling for a second consecutive session, pressured by concerns that the renewed conflict in the Middle East could disrupt energy supplies from the region and intensify inflationary pressures. The US military confirmed it carried out strikes on Iran for a second straight day in an effort to curb Tehran’s ability to threaten navigation through the Strait of Hormuz, while Iran vowed a large-scale retaliatory operation against US military bases in the region. President Donald Trump said that, in his view, the ceasefire is over and warned of additional strikes on Iran along with a new blockade. Meanwhile, minutes from the Federal Reserve’s June meeting showed that only a few policymakers favored a rate increase, though officials expressed growing concern about inflation. Markets continue to price in at least one Fed rate hike by the end of 2026."
+    },
+    {
+      "id": "4977767",
+      "time": "2026-07-09 08:03:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率升至2.880%，創1996年9月以來新高。"
+    },
+    {
+      "id": "4977766",
+      "time": "2026-07-09 08:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9部門支援加快零售業創新發展】商務部等9部門近日印發的關於加快零售業創新發展的意見，7月9日對外發布。意見提出工作新目標，力爭到2030年，基本形成佈局合理、供給優質、業態多元、智慧便捷、競爭有序的現代零售體系，打造一批帶動性強的零售場景，推出一批融合創新的業態模式，培育一批具有國際競爭力的零售企業。意見明確重點新任務，涵蓋系統規劃新佈局、引領零售新供給、創造消費新需求、激發零售新動能等方面，支援做強做優做大零售企業，為零售業創新轉型和高質量發展提供方向指導。"
+    },
+    {
+      "id": "4977765",
+      "time": "2026-07-09 08:02:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲超過3%。"
+    },
     {
       "id": "4977764",
       "time": "2026-07-09 08:02:49",
