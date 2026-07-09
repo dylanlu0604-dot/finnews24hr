@@ -1,7 +1,129 @@
 {
   "date": "2026-07-09",
-  "count": 2203,
+  "count": 2217,
   "items": [
+    {
+      "id": "mkt:019f4640-7946-7aab-8d12-2723627a95db",
+      "time": "2026-07-09 17:40:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China raises flood and typhoon emergency to level-3 in Zhejiang, Fujian as Typhoon Bavi nears】China’s National Flood Control and Drought Relief Headquarters raised flood and typhoon emergency response from level-4 to level-3 at 17:00 on July 9 for Zhejiang and Fujian as Typhoon Bavi approaches. At 14:00 on July 9 the meteorological agency placed Bavi’s center about 1,030 km east-southeast of Keelung, Taiwan in the northwest Pacific, with maximum winds near the center of 52 m/s and a 7-level wind radius of 500 km. Bavi is moving northwest at 10–15 km/h and may make landfall or pass northern Taiwan on July 11 daytime (super/strong typhoon), then is forecast to make coastal landfall between Fuqing (Fujian) and Wenling (Zhejiang) on the night of July 11 (strong typhoon/typhoon). Authorities said the storm’s landfall intensity, wide impact and destructive potential make the situation severe and complex; emergency response will be adjusted as the storm evolves."
+    },
+    {
+      "id": "4978760",
+      "time": "2026-07-09 17:40:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將滙豐控股目標股價從108美元上調至110.55美元。"
+    },
+    {
+      "id": "4978759",
+      "time": "2026-07-09 17:40:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY 50指數<.NSEI>回吐部分漲幅，最新上漲0.25%。"
+    },
+    {
+      "id": "4978758",
+      "time": "2026-07-09 17:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入98.30億港元】港股通（滬）方面，智譜、華虹宏力分別獲淨買入27.87億港元、10.01億港元；盈富基金淨賣出額居首，金額為23.13億港元；港股通（深）方面，智譜、阿里巴巴-W分別獲淨買入27.88億港元、14.99億港元；騰訊控股淨賣出額居首，金額為6.28億港元。"
+    },
+    {
+      "id": "4978757",
+      "time": "2026-07-09 17:39:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理辦公室表示，伊拉克總理稱他將宣佈伊美兩國達成一項政治合作與經濟夥伴關係協議。"
+    },
+    {
+      "id": "mkt:019f463f-6576-7aab-8d12-1f4b8d3c59ad",
+      "time": "2026-07-09 17:39:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister said he will announce political cooperation and an economic partnership with the United States."
+    },
+    {
+      "id": "4978756",
+      "time": "2026-07-09 17:39:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國總工會下撥1350萬元救災資金】針對近期我國多地遭遇極端天氣，全國總工會今日下撥1350萬元工會救災資金，支援廣西、湖北、甘肅、貴州、湖南、重慶工會開展搶險救災工作，資金主要用於慰問受災職工和搶險救災人員。（央視新聞）"
+    },
+    {
+      "id": "4978755",
+      "time": "2026-07-09 17:39:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯堪的納維亞環境系統公司(SCANDINAVIAN ENVIRO SYSTEMS AB) ：發行後股份總數將增至11.4億股。"
+    },
+    {
+      "id": "mkt:019f463e-b4a8-7aab-8d12-111827b24af1",
+      "time": "2026-07-09 17:39:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister's office said Iraq will not leave OPEC and is seeking a fair production quota."
+    },
+    {
+      "id": "4978754",
+      "time": "2026-07-09 17:38:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會同意天博智慧科技（山東）股份有限公司首次公開發行股票註冊】證監會同意天博智慧科技（山東）股份有限公司首次公開發行股票註冊。"
+    },
+    {
+      "id": "4978753",
+      "time": "2026-07-09 17:38:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯堪的納維亞環境系統公司根據現有融資安排，決定向Alumni Capital Limited定向發行股票和認股權證。"
+    },
+    {
+      "id": "4978752",
+      "time": "2026-07-09 17:38:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇晶股份：預計2026年上半年淨虧損6500萬元-8500萬元】宇晶股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為6500萬元-8500萬元，上年同期為盈利1179.65萬元。扣除非經常性損益後的淨虧損為7000萬元-9000萬元，上年同期為盈利112.43萬元。"
+    },
+    {
+      "id": "4978751",
+      "time": "2026-07-09 17:38:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福事特：與福建龍淨聯暉科技有限公司簽訂戰略合作框架協議】福事特公告，公司於2026年7月9日與福建龍淨聯暉科技有限公司簽訂了《戰略合作框架協議》。龍淨聯暉是福建龍淨環保股份有限公司全資子公司，致力於進一步整合礦山整體解決方案及智慧裝備領域的資源。雙方基於共同的發展目標和互補的優勢資源，重點加強國內外純電礦用自卸車的維修保養，在礦山裝置維修領域建立長期、穩定、全面的戰略合作關係。"
+    },
+    {
+      "id": "4978750",
+      "time": "2026-07-09 17:37:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗布什爾市傳出爆炸聲】據伊朗邁赫爾通訊社訊息，伊朗布什爾市今天（7月9日）傳出爆炸聲。(CCTV國際時訊)"
+    },
     {
       "id": "4978749",
       "time": "2026-07-09 17:37:06",
