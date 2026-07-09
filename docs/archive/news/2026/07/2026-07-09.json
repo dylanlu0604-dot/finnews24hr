@@ -1,7 +1,265 @@
 {
   "date": "2026-07-09",
-  "count": 2756,
+  "count": 2783,
   "items": [
+    {
+      "id": "4979192",
+      "time": "2026-07-09 20:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光還將與環球晶圓簽訂為期十年的供貨協議。"
+    },
+    {
+      "id": "mkt:019f46dd-c2ee-7aab-8d16-c07dd2981002",
+      "time": "2026-07-09 20:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Domestic electric river-cargo ship orders surge】Modular shipbuilding entails high equipment capex and is normally used for large offshore vessels. A domestic builder says inland electric cargo-ship orders have surged after retrofitting smart equipment and moving to full-process modular construction, shortening build cycles by more than 50% versus traditional methods. The company reports 108 confirmed domestic and overseas orders and over 400 intent orders. Twenty-four berths are running at full capacity; the smart-manufacturing workshop plans to start 108 ships and deliver 82 in 2025."
+    },
+    {
+      "id": "4979191",
+      "time": "2026-07-09 20:32:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%，創盤中新高。"
+    },
+    {
+      "id": "4979190",
+      "time": "2026-07-09 20:32:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.1%，報162.41；歐元上漲0.14%，報1.1433美元。"
+    },
+    {
+      "id": "4979189",
+      "time": "2026-07-09 20:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數在初請失業金資料公佈後維持跌勢，最新下跌0.08%，報100.93點。"
+    },
+    {
+      "id": "4979188",
+      "time": "2026-07-09 20:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "Klarna集團：將根據一項為期兩年的協議出售德國公平融資貸款及應收款項，該協議預計將為德國公平融資貸款業務提供至多50億歐元的便利支援。"
+    },
+    {
+      "id": "4979187",
+      "time": "2026-07-09 20:32:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST銀江：公司及控股股東因涉嫌資訊披露違法違規被證監會立案】ST銀江公告，公司及控股股東銀江科技集團有限公司於2026年7月9日分別收到中國證券監督管理委員會下發的《立案告知書》，因公司及控股股東涉嫌資訊披露違法違規，根據《中華人民共和國證券法》《中華人民共和國行政處罰法》等法律法規，中國證監會決定對公司及控股股東立案。"
+    },
+    {
+      "id": "4979186",
+      "time": "2026-07-09 20:31:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭財長：需提振歐元資產需求。"
+    },
+    {
+      "id": "mkt:019f46dc-da7b-7aab-8d16-be7eebd68807",
+      "time": "2026-07-09 20:31:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) to provide $500 mln financing to GlobalWafers."
+    },
+    {
+      "id": "mkt:019f46dc-8df7-7aab-8d16-b37e8e9db40a",
+      "time": "2026-07-09 20:31:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "COMN.SW",
+        "Impact bullish"
+      ],
+      "text": "【BofA: Comet revenue and margins likely to rise as memory-chip capacity expands】BofA says Comet Holding should see rapid sales growth through end-2028 as expansion of memory-chip manufacturing capacity—driven by AI-related demand and new memory fabs—boosts demand for its components. The Swiss components maker has substantial spare capacity to take new orders; BofA upgraded its revenue and profit-margin forecasts to end-2028. Comet shares led the STOXX Europe 600, jumping nearly 12%."
+    },
+    {
+      "id": "4979185",
+      "time": "2026-07-09 20:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭6月汽油進口量增長44%。"
+    },
+    {
+      "id": "mkt:019f46dc-5d43-7aab-8d16-a966943dd9e9",
+      "time": "2026-07-09 20:31:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bearish"
+      ],
+      "text": "TSMC delays June revenue release from Friday to next Monday due to a typhoon."
+    },
+    {
+      "id": "4979184",
+      "time": "2026-07-09 20:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美光：本次投資旨在完善美國半導體產業生態。"
+    },
+    {
+      "id": "4979183",
+      "time": "2026-07-09 20:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光宣佈最高 300 億美元戰略投資。"
+    },
+    {
+      "id": "4979182",
+      "time": "2026-07-09 20:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：因颱風影響，將原定於週五釋出的6月銷售資料推遲至週一釋出。"
+    },
+    {
+      "id": "mkt:019f46db-fb65-7aab-8d16-a61b247bc30c",
+      "time": "2026-07-09 20:30:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) plans to invest $3 bln to strengthen the U.S. domestic semiconductor supply chain."
+    },
+    {
+      "id": "4979181",
+      "time": "2026-07-09 20:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光將為環球晶圓提供5億美元融資。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607093800247194",
+      "time": "2026-07-09 20:30:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國上週失業金人數為21.5萬人】美國上週失業金人數為21.5萬人，預估為21.8萬人，前值為21.5萬人。"
+    },
+    {
+      "id": "4979180",
+      "time": "2026-07-09 20:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產貨運電船訂單爆發】千噸級的貨運電動船舶竟然也能像積木一樣被拼裝出來？記者在山東濟寧的一家新能源船舶製造企業見到了可以按照智慧指令，把大鋼板切割成一個小零件的數控切割機，在總裝環節將會以小拼中，中拼大，大拼整船的模式，迅速被組裝起來。 據瞭解，模組化造船的裝置成本投入大，一般用於海上大型船舶建造。近期企業內河貨運電動船舶訂單爆發，企業正積極推進智慧化裝置改造，實現全流程模組化建造，讓造船週期比傳統模式縮短一半以上。據業內人士介紹，目前企業已經累計接到了海內外訂單有108艘，意向訂單超過了400艘。24個船位已經進入滿負荷運轉階段，智慧製造車間2025年累計全年開工108艘，交付82艘。 （央視財經）"
+    },
+    {
+      "id": "4979179",
+      "time": "2026-07-09 20:30:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月4日當週初請失業金人數 21.5萬人，預期21.8萬人，前值由21.5萬人修正為21.7萬人。\n美國至7月4日當週初請失業金人數四周均值 21.875萬人，前值由22.2萬人修正為22.25萬人。\n美國至6月27日當週續請失業金人數 181.4萬人，預期181.5萬人，前值由181.4萬人修正為180.6萬人。"
+    },
+    {
+      "id": "mkt:019f46db-69d9-7aab-8d16-9adb3e2cf428",
+      "time": "2026-07-09 20:30:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US four-week moving average of initial jobless claims for week ended July 4: 218.75k; prior value revised from 222.0k to 222.5k."
+    },
+    {
+      "id": "mkt:019f46db-6065-7aab-8d16-957e8f5c5c39",
+      "time": "2026-07-09 20:30:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US continuing unemployment claims for week ended June 27: 1.814 mln, consensus 1.815 mln; prior week revised from 1.814 mln to 1.806 mln."
+    },
+    {
+      "id": "mkt:019f46db-5c6c-7aab-8d16-8d53bbddb157",
+      "time": "2026-07-09 20:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US initial jobless claims were 215,000 for the week ending July 4, below the 218,000 consensus; the prior week's figure was revised up to 217,000 from 215,000."
+    },
+    {
+      "id": "mkt:019f46db-409c-7aab-8d16-803c0dd8d192",
+      "time": "2026-07-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jun.27) | actual 1814000K | consensus 1815000K | previous 1814000K"
+    },
+    {
+      "id": "mkt:019f46db-409c-7aab-8d16-794e61dcc251",
+      "time": "2026-07-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Jul.4) | actual 218750K | previous 222000K"
+    },
+    {
+      "id": "mkt:019f46db-405c-7aab-8d16-755aa5f6d8c2",
+      "time": "2026-07-09 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Jul.4) | actual 215000K | consensus 218000K | previous 215000K"
+    },
+    {
+      "id": "4979178",
+      "time": "2026-07-09 20:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑美特：PCB塗層鑽針月產能年底預計達3300萬支】傑美特(300868.SZ)釋出投資者關係活動記錄表公告，公司控股子公司戴爾蒙德在PCB鑽針塗層行業具備核心競爭優勢，已實現CVD奈米金剛石塗層及PVD塗層產品規模化量產。公司深度繫結AI算力PCB頭部廠商，透過AI伺服器鑽針與PCB設計方案強繫結、聯合開發專案增強客戶粘性。當前塗層鑽針產品已成為行業剛需，CVD奈米金剛石塗層鑽針及銑刀月產能預計2026年底達300萬支，PVD鍍膜鑽針月產能預計達3000萬支，目前全線滿產。塗層針價格為標準針的5至10倍，使用壽命是白針的15至20倍。公司已陸續與部分臺灣客戶有訂單業務合作。針對未來PCB新板料，公司正在開發下一代複合塗層方案，預計今年10至12月推出。公司生產裝置核心裝置為自研，裝置研發核心團隊7人。"
+    },
     {
       "id": "mkt:019f46d9-dcbc-7aab-8d16-6cf145c4590b",
       "time": "2026-07-09 20:28:30",
