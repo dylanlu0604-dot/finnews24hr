@@ -1,7 +1,54 @@
 {
   "date": "2026-07-10",
-  "count": 265,
+  "count": 270,
   "items": [
+    {
+      "id": "4979707",
+      "time": "2026-07-10 03:50:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐約證券交易所買賣盤失衡：蘋果公司買方盤口多出430687.0股。"
+    },
+    {
+      "id": "mkt:019f486c-bebc-7aab-8d20-d6e9990a40a5",
+      "time": "2026-07-10 03:48:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil prices fell on 9th】By the close, NYMEX August light sweet crude fell $1.44 to $72.08/bbl, down 1.96%. London Brent (ICE) September futures fell $1.72 to $76.30/bbl, down 2.20%."
+    },
+    {
+      "id": "mkt:019f486c-82cd-7aab-8d20-cf4c74ec0bd5",
+      "time": "2026-07-10 03:48:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reports of attacks on Iran false; explosions caused by air-defence activation】On the evening of July 9 local time, explosions were reported across multiple Iranian cities — southern coastal Bushehr, Choghadak and Bandar Abbas, and southeast coastal Konarak. Axios reported US officials said US forces were not involved. About an hour later Iranian state media denied the attack reports, saying the blasts were caused by the activation of air-defence systems. CNN confirmed the US had not struck Iran an hour earlier. US forces had earlier conducted strikes over two consecutive days, hitting about 170 military targets."
+    },
+    {
+      "id": "4979706",
+      "time": "2026-07-10 03:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安迪·伯納姆獲多數工黨議員支援，料將接任英國首相】英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，成為接替基爾·斯塔默、出任工黨新黨魁的唯一熱門人選。伯納姆表示，自己對同僚支援“深表感謝”，稱這反映出工黨希望為英國政治帶來新的方向。他提出的政治主張包括減少倫敦威斯敏斯特權力集中、重塑經濟模式，並推動更廣泛的經濟增長。由於競爭對手無法獲得參選所需的81份提名，伯納姆只需再獲得一份支援即可正式成為唯一候選人。按照安排，工黨黨魁選舉將於7月17日結束，伯納姆預計將在7月20日正式出任英國首相。現任黨魁斯塔默按照慣例不會參與提名投票。"
+    },
+    {
+      "id": "mkt:019f486c-111e-7aab-8d20-c2af0feca680",
+      "time": "2026-07-10 03:47:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Andy Burnham wins majority of Labour MPs' backing; likely to become UK prime minister】Andy Burnham secured nominations from 322 of Labour’s 403 MPs on the first day of the party’s leadership contest, making him the clear favorite to replace Keir Starmer and assume the role of UK prime minister. Burnham said he was grateful for colleagues’ support and outlined plans to devolve power away from Westminster, reshape the economic model and promote broader-based growth. Rival candidates failed to reach the 81-MP nomination threshold; Burnham needs one more nomination to become the sole candidate. The leadership contest closes July 17 and he is expected to take office July 20. Starmer will not participate in the nomination vote by convention."
+    },
     {
       "id": "4979705",
       "time": "2026-07-10 03:46:45",
