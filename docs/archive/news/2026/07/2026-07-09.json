@@ -1,7 +1,83 @@
 {
   "date": "2026-07-09",
-  "count": 858,
+  "count": 866,
   "items": [
+    {
+      "id": "4977790",
+      "time": "2026-07-09 08:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱駐歐美軍人數將取決於格陵蘭和伊朗問題】美國總統唐納德·特朗普表示，美國在歐洲的駐軍人數將取決於盟友如何解決他對格陵蘭和伊朗戰爭的關切。此番言論可能會加劇北約成員國對他是否致力於集體安全的擔憂。特朗普在土耳其安卡拉參加完北約峰會，在返回華盛頓的空軍一號上告訴記者：“我還沒有做出最終決定。”“很多事情都取決於格陵蘭，”特朗普補充說，暗示他可能會就這個島嶼達成“非常好的協議”。“很多事情也取決於伊朗。”他說。"
+    },
+    {
+      "id": "mkt:019f443d-21a0-7aab-8d01-a9910b6e300b",
+      "time": "2026-07-09 08:18:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Al Arabiya reported Iran's Islamic Revolutionary Guard Corps (IRGC) said it will respond to an attack on a bridge in northern Agala."
+    },
+    {
+      "id": "4977789",
+      "time": "2026-07-09 08:17:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數期貨收復早盤失地，上漲0.3%，標普500指數期貨持平。"
+    },
+    {
+      "id": "4977788",
+      "time": "2026-07-09 08:17:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3.9%，SK海力士股價上漲超過9%。"
+    },
+    {
+      "id": "4977787",
+      "time": "2026-07-09 08:16:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數擴大漲幅，最新上漲2.0%，報68,155.31點。"
+    },
+    {
+      "id": "4977786",
+      "time": "2026-07-09 08:16:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數上漲0.5%，報4027.42點。"
+    },
+    {
+      "id": "4977785",
+      "time": "2026-07-09 08:15:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨反彈0.9%，德國DAX指數期貨上漲0.6%，富時指數期貨上揚0.2%。"
+    },
+    {
+      "id": "te:markets:565429",
+      "time": "2026-07-09 08:15:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Amid Iran Strikes — US stock futures stabilized on Thursday as investors assessed the impact of escalating tensions in the Middle East after the US military confirmed it had carried out strikes on Iran for a second straight day. Markets remain concerned that higher energy prices could reignite inflationary pressures and prompt the Federal Reserve to raise interest rates sooner than previously expected. In regular trading on Wednesday, the Dow and S&P 500 fell 1.09% and 0.28%, respectively, while the Nasdaq Composite edged up 0.2%. Materials, financials, and real estate were the weakest-performing sectors, whereas energy and technology stocks posted gains. Investors are now awaiting the latest weekly jobless claims and existing home sales figures for fresh clues on the interest rate outlook. Earnings reports from PepsiCo, Progressive, Cintas, and other major companies are also due."
+    },
     {
       "id": "4977784",
       "time": "2026-07-09 08:15:44",
