@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-10 03:24:41",
-  "count": 15876,
+  "updated": "2026-07-10 03:28:37",
+  "count": 15878,
   "items": [
+    {
+      "id": "4979694",
+      "time": "2026-07-10 03:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員的話報道稱，該市傳出的爆炸聲是防空系統應對目標引發的。"
+    },
+    {
+      "id": "4979692",
+      "time": "2026-07-10 03:25:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員訊息稱，布什爾市郊一處軍事地點遭美以導彈襲擊。"
+    },
+    {
+      "id": "mkt:019f4857-3efc-7aab-8d20-a7c802bcecc0",
+      "time": "2026-07-10 03:25:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported Bushehr province deputy governor for political and security affairs said explosions heard earlier in Bushehr city were caused by the local air-defence system activating in response. He said a military facility on the city's outskirts had been struck by what he described as \"US-Israeli enemy-launched projectiles\"."
+    },
     {
       "id": "mkt:019f4852-fbdf-7aab-8d20-9ae9212a808e",
       "time": "2026-07-10 03:20:25",
@@ -145087,20 +145115,6 @@
         "Impact bearish"
       ],
       "text": "【Analyst: Meta admits AI progress below expectations but not 'surrendering'】Analyst Adam Button cites media reports of a Meta Platforms (META.O) all‑hands in which CEO Mark Zuckerberg said AI agent development has lagged expectations over the past four months. Reports say Meta is weighing selling excess compute, prompting market speculation it may step back from the foundational-model race. Zuckerberg acknowledged the reorganization \"could have been cleaner,\" said leadership had worried earlier that AI action was too slow, but added the reorg's best outcomes are \"yet to come\" and he remains committed to the long-term direction. The reports briefly pressured META.O shares before a subsequent rebound."
-    },
-    {
-      "id": "mkt:019f244d-2680-7aab-8c83-a1c4dcd311ff",
-      "time": "2026-07-03 03:27:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "【Report: Tesla caps internal AI compute spend at $200 per employee per week】The Information reports Tesla told staff that from July 6 internal AI compute and model-call spending will be capped at $200 per employee per week, with any overage requiring approval. Engineers previously incurred weekly AI costs in the low thousands. Tesla is consolidating AI on an internal platform called Bottle Rocket that integrates OpenAI, ANTHROPIC and XAI, shifting from decentralized use to company-level controls. Rapid cost growth from scaling AI for customer service, sales and automation prompted the budget cut; Meta, Uber and Walmart have also tightened AI spending. The change is notable for Tesla because Elon Musk has framed future value around AI products such as Robotaxi and Optimus rather than traditional vehicle sales, while Tesla revenue has been flat for two years."
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "date": "2026-07-10",
-  "count": 247,
+  "count": 250,
   "items": [
+    {
+      "id": "4979694",
+      "time": "2026-07-10 03:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員的話報道稱，該市傳出的爆炸聲是防空系統應對目標引發的。"
+    },
+    {
+      "id": "4979692",
+      "time": "2026-07-10 03:25:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員訊息稱，布什爾市郊一處軍事地點遭美以導彈襲擊。"
+    },
+    {
+      "id": "mkt:019f4857-3efc-7aab-8d20-a7c802bcecc0",
+      "time": "2026-07-10 03:25:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported Bushehr province deputy governor for political and security affairs said explosions heard earlier in Bushehr city were caused by the local air-defence system activating in response. He said a military facility on the city's outskirts had been struck by what he described as \"US-Israeli enemy-launched projectiles\"."
+    },
     {
       "id": "mkt:019f4852-fbdf-7aab-8d20-9ae9212a808e",
       "time": "2026-07-10 03:20:25",
