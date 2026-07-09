@@ -1,7 +1,196 @@
 {
   "date": "2026-07-09",
-  "count": 2665,
+  "count": 2686,
   "items": [
+    {
+      "id": "mkt:019f46c7-decc-7aab-8d15-d3b4c07b0b88",
+      "time": "2026-07-09 20:08:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Trade Representative Greer said a decision on Section 301 investigations into Canada and Mexico is expected soon."
+    },
+    {
+      "id": "4979127",
+      "time": "2026-07-09 20:08:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4118.37美元/盎司。"
+    },
+    {
+      "id": "4979126",
+      "time": "2026-07-09 20:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：預計很快將公佈對加拿大和墨西哥301項調查的結果。"
+    },
+    {
+      "id": "4979125",
+      "time": "2026-07-09 20:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐發電：擬募資不超80億元 或攤薄即期回報】大唐發電公告稱，公司擬向特定物件發行A股股票，募集資金總額預計不超80億元。本次發行完成後，公司股本和淨資產將增加，短期內每股收益或被攤薄、淨資產收益率或下降。假設2026年淨利潤較2025年分別下降10%、持平、增長10%，發行後基本每股收益分別為0.27元/股、0.31元/股、0.35元/股。公司將採取加強資金管理、推進專案建設等措施填補回報，相關主體也作出了承諾。"
+    },
+    {
+      "id": "mkt:019f46c7-73e0-7aab-8d15-ccc8f5df3992",
+      "time": "2026-07-09 20:08:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK foreign secretary says Iran intends to use the Strait of Hormuz as leverage."
+    },
+    {
+      "id": "4979124",
+      "time": "2026-07-09 20:08:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通證券股份有限公司給予中國船舶超配的初始評級。"
+    },
+    {
+      "id": "4979123",
+      "time": "2026-07-09 20:08:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西能源：長安匯通擬減持公司不超過2.00%股份】陝西能源公告，持股5%以上股東長安匯通集團有限責任公司持有公司股份3億股，佔公司總股本比例8.00%，擬在自減持計劃預披露公告之日起15個交易日後的90個自然日內，即2026年7月31日至2026年10月29日，透過集中競價及/或大宗交易方式減持公司股份不超過7500萬股，佔公司總股本比例2.00%。其中，透過集中競價方式在任意連續90個自然日內減持不超過1%，透過大宗交易方式在任意連續90個自然日內同樣不超過1%。減持原因為股東自身資金安排所需，減持價格根據市場價格確定。"
+    },
+    {
+      "id": "mkt:019f46c7-0716-7aab-8d15-c3da6e1952f3",
+      "time": "2026-07-09 20:07:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB accounts: energy shock no longer ignorable】June ECB minutes say the bank can no longer ignore an energy shock, noting expected energy price rises could push medium-term inflation above its 2% target. The Governing Council unanimously raised the key rate to 2.25% last month, the first major central bank to hike in response to energy-price pressures linked to the Iran war. The minutes warn that the longer energy prices stay elevated, the greater the chance indirect and second-round effects will lift broader inflation and entrench the shock in core inflation and medium- to long-term inflation expectations."
+    },
+    {
+      "id": "4979122",
+      "time": "2026-07-09 20:07:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行會議紀要：能源衝擊成為一個無法忽視的因素】歐洲央行6月份會議紀要顯示，該行已無法忽視能源衝擊，原因是預計能源價格上漲將推動中期通脹率升破其2%的目標。歐洲央行管委會上月一致決定將關鍵利率上調至2.25%，成為首個因伊朗戰爭導致能源價格高企而加息的主要央行。會議紀要稱：“目前的情況顯然已不再屬於可以對沖擊置之不理的情形。”“能源價格維持高位的時間越長，就越有可能透過間接和第二輪效應推高更廣泛的通脹。這種情況會增加能源衝擊固化於基本通脹以及中長期通脹預期之中的風險”。"
+    },
+    {
+      "id": "4979121",
+      "time": "2026-07-09 20:07:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱三名革命衛隊人員在美軍對胡齊斯坦省的襲擊中身亡。"
+    },
+    {
+      "id": "4979120",
+      "time": "2026-07-09 20:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：討論貿易平衡問題。"
+    },
+    {
+      "id": "4979119",
+      "time": "2026-07-09 20:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "梯瓦與三星生物仿製藥公司簽署加拿大地區OPUVIZ商業化協議。"
+    },
+    {
+      "id": "4979118",
+      "time": "2026-07-09 20:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾： 昨日已與墨西哥貿易代表會談。"
+    },
+    {
+      "id": "mkt:019f46c5-b141-7aab-8d15-b9dd38328e2f",
+      "time": "2026-07-09 20:06:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said Trump wants to reduce the trade deficit with Mexico."
+    },
+    {
+      "id": "4979117",
+      "time": "2026-07-09 20:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "格里爾：特朗普希望降低與墨西哥的貿易逆差。"
+    },
+    {
+      "id": "4979116",
+      "time": "2026-07-09 20:06:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海南海藥：股票連續3日跌幅偏離值累計超20% 不存在未披露重大事項】海南海藥公告稱，公司股票於2026年7月7日、7月8日、7月9日連續3個交易日收盤價格跌幅偏離值累計達到20%以上，屬於股票交易異常波動。經核查，公司前期披露資訊無需更正、補充，近期經營正常，內外部環境無重大變化，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間未買賣公司股票。"
+    },
+    {
+      "id": "4979115",
+      "time": "2026-07-09 20:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國待售房屋銷售量升至6周內最高水平。"
+    },
+    {
+      "id": "mkt:019f46c5-1b25-7aab-8d15-b3c456c49806",
+      "time": "2026-07-09 20:05:50",
+      "tags": [
+        "MKT News",
+        "RDFN.O",
+        "Impact bullish"
+      ],
+      "text": "Redfin: U.S. homes for sale saw sales climb to a six-week high."
+    },
+    {
+      "id": "mkt:019f46c4-d0f1-7aab-8d15-aa7c571e753f",
+      "time": "2026-07-09 20:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the president appears to have found a way to cooperate with Spain."
+    },
+    {
+      "id": "4979114",
+      "time": "2026-07-09 20:05:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談美墨加協定下一步：並非懸崖，而是談判。"
+    },
+    {
+      "id": "4979113",
+      "time": "2026-07-09 20:05:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "寶馬、MINI車型將在美國市場搭載威瑞森獨立組網5G網路。"
+    },
     {
       "id": "4979112",
       "time": "2026-07-09 20:04:57",

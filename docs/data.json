@@ -1,7 +1,196 @@
 {
-  "updated": "2026-07-09 20:05:38",
-  "count": 16030,
+  "updated": "2026-07-09 20:09:37",
+  "count": 16037,
   "items": [
+    {
+      "id": "4979127",
+      "time": "2026-07-09 20:08:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4118.37美元/盎司。"
+    },
+    {
+      "id": "mkt:019f46c7-decc-7aab-8d15-d3b4c07b0b88",
+      "time": "2026-07-09 20:08:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Trade Representative Greer said a decision on Section 301 investigations into Canada and Mexico is expected soon."
+    },
+    {
+      "id": "4979126",
+      "time": "2026-07-09 20:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：預計很快將公佈對加拿大和墨西哥301項調查的結果。"
+    },
+    {
+      "id": "4979125",
+      "time": "2026-07-09 20:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐發電：擬募資不超80億元 或攤薄即期回報】大唐發電公告稱，公司擬向特定物件發行A股股票，募集資金總額預計不超80億元。本次發行完成後，公司股本和淨資產將增加，短期內每股收益或被攤薄、淨資產收益率或下降。假設2026年淨利潤較2025年分別下降10%、持平、增長10%，發行後基本每股收益分別為0.27元/股、0.31元/股、0.35元/股。公司將採取加強資金管理、推進專案建設等措施填補回報，相關主體也作出了承諾。"
+    },
+    {
+      "id": "mkt:019f46c7-73e0-7aab-8d15-ccc8f5df3992",
+      "time": "2026-07-09 20:08:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK foreign secretary says Iran intends to use the Strait of Hormuz as leverage."
+    },
+    {
+      "id": "4979124",
+      "time": "2026-07-09 20:08:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通證券股份有限公司給予中國船舶超配的初始評級。"
+    },
+    {
+      "id": "4979123",
+      "time": "2026-07-09 20:08:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西能源：長安匯通擬減持公司不超過2.00%股份】陝西能源公告，持股5%以上股東長安匯通集團有限責任公司持有公司股份3億股，佔公司總股本比例8.00%，擬在自減持計劃預披露公告之日起15個交易日後的90個自然日內，即2026年7月31日至2026年10月29日，透過集中競價及/或大宗交易方式減持公司股份不超過7500萬股，佔公司總股本比例2.00%。其中，透過集中競價方式在任意連續90個自然日內減持不超過1%，透過大宗交易方式在任意連續90個自然日內同樣不超過1%。減持原因為股東自身資金安排所需，減持價格根據市場價格確定。"
+    },
+    {
+      "id": "mkt:019f46c7-0716-7aab-8d15-c3da6e1952f3",
+      "time": "2026-07-09 20:07:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB accounts: energy shock no longer ignorable】June ECB minutes say the bank can no longer ignore an energy shock, noting expected energy price rises could push medium-term inflation above its 2% target. The Governing Council unanimously raised the key rate to 2.25% last month, the first major central bank to hike in response to energy-price pressures linked to the Iran war. The minutes warn that the longer energy prices stay elevated, the greater the chance indirect and second-round effects will lift broader inflation and entrench the shock in core inflation and medium- to long-term inflation expectations."
+    },
+    {
+      "id": "4979122",
+      "time": "2026-07-09 20:07:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行會議紀要：能源衝擊成為一個無法忽視的因素】歐洲央行6月份會議紀要顯示，該行已無法忽視能源衝擊，原因是預計能源價格上漲將推動中期通脹率升破其2%的目標。歐洲央行管委會上月一致決定將關鍵利率上調至2.25%，成為首個因伊朗戰爭導致能源價格高企而加息的主要央行。會議紀要稱：“目前的情況顯然已不再屬於可以對沖擊置之不理的情形。”“能源價格維持高位的時間越長，就越有可能透過間接和第二輪效應推高更廣泛的通脹。這種情況會增加能源衝擊固化於基本通脹以及中長期通脹預期之中的風險”。"
+    },
+    {
+      "id": "4979121",
+      "time": "2026-07-09 20:07:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱三名革命衛隊人員在美軍對胡齊斯坦省的襲擊中身亡。"
+    },
+    {
+      "id": "4979120",
+      "time": "2026-07-09 20:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：討論貿易平衡問題。"
+    },
+    {
+      "id": "4979119",
+      "time": "2026-07-09 20:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "梯瓦與三星生物仿製藥公司簽署加拿大地區OPUVIZ商業化協議。"
+    },
+    {
+      "id": "4979118",
+      "time": "2026-07-09 20:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾： 昨日已與墨西哥貿易代表會談。"
+    },
+    {
+      "id": "mkt:019f46c5-b141-7aab-8d15-b9dd38328e2f",
+      "time": "2026-07-09 20:06:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said Trump wants to reduce the trade deficit with Mexico."
+    },
+    {
+      "id": "4979117",
+      "time": "2026-07-09 20:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "格里爾：特朗普希望降低與墨西哥的貿易逆差。"
+    },
+    {
+      "id": "4979116",
+      "time": "2026-07-09 20:06:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海南海藥：股票連續3日跌幅偏離值累計超20% 不存在未披露重大事項】海南海藥公告稱，公司股票於2026年7月7日、7月8日、7月9日連續3個交易日收盤價格跌幅偏離值累計達到20%以上，屬於股票交易異常波動。經核查，公司前期披露資訊無需更正、補充，近期經營正常，內外部環境無重大變化，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間未買賣公司股票。"
+    },
+    {
+      "id": "4979115",
+      "time": "2026-07-09 20:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國待售房屋銷售量升至6周內最高水平。"
+    },
+    {
+      "id": "mkt:019f46c5-1b25-7aab-8d15-b3c456c49806",
+      "time": "2026-07-09 20:05:50",
+      "tags": [
+        "MKT News",
+        "RDFN.O",
+        "Impact bullish"
+      ],
+      "text": "Redfin: U.S. homes for sale saw sales climb to a six-week high."
+    },
+    {
+      "id": "mkt:019f46c4-d0f1-7aab-8d15-aa7c571e753f",
+      "time": "2026-07-09 20:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the president appears to have found a way to cooperate with Spain."
+    },
+    {
+      "id": "4979114",
+      "time": "2026-07-09 20:05:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談美墨加協定下一步：並非懸崖，而是談判。"
+    },
+    {
+      "id": "4979113",
+      "time": "2026-07-09 20:05:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "寶馬、MINI車型將在美國市場搭載威瑞森獨立組網5G網路。"
+    },
     {
       "id": "4979112",
       "time": "2026-07-09 20:04:57",
@@ -146613,144 +146802,6 @@
         "市場"
       ],
       "text": "道指和標普均轉漲，道瓊斯指數期貨漲0.12%，標普500指數期貨漲0.08%。"
-    },
-    {
-      "id": "mkt:019f22bb-67c4-7aab-8c77-1b6aed9f9fd0",
-      "time": "2026-07-02 20:08:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Major U.S. stock index futures reversed earlier losses and are now trading higher."
-    },
-    {
-      "id": "4967585",
-      "time": "2026-07-02 20:08:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨抹去早盤跌幅，轉為上漲。"
-    },
-    {
-      "id": "4967584",
-      "time": "2026-07-02 20:08:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "RAYMOND JAMES將迪士尼目標股價從119美元下調至111美元。"
-    },
-    {
-      "id": "mkt:019f22ba-7248-7aab-8c77-1414db55f517",
-      "time": "2026-07-02 20:07:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "DALY: We are in the early stages where AI could deliver exponential productivity gains."
-    },
-    {
-      "id": "4967583",
-      "time": "2026-07-02 20:07:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事戴利：人工智慧帶來生產率提升的潛在指數式增長目前仍處於早期階段。"
-    },
-    {
-      "id": "mkt:019f22b9-f189-7aab-8c77-0c3ed003df17",
-      "time": "2026-07-02 20:07:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Daly said acting too quickly could suppress the economy prematurely; acting too slowly could harm the public."
-    },
-    {
-      "id": "em:qqyh_mlc:202607023792097473",
-      "time": "2026-07-02 20:07:09",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲戴利：如果央行行動過快 可能會過早地抑制經濟發展】美聯儲戴利表示，如果央行行動過快，可能會過早地抑制經濟發展；如果行動過慢，對民眾來說將是不可接受的。"
-    },
-    {
-      "id": "mkt:019f22b9-9263-7aab-8c77-0712ef929ed1",
-      "time": "2026-07-02 20:06:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi Arabia's crude exports are approaching pre-war levels, averaging 6.3 mln b/d over the six days to Wednesday."
-    },
-    {
-      "id": "4967582",
-      "time": "2026-07-02 20:06:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：已將土耳其銀行業、非銀行金融機構以及保險業的行業展望下調至惡化。"
-    },
-    {
-      "id": "mkt:019f22b9-6883-7aab-8c76-ffc8f116bc5d",
-      "time": "2026-07-02 20:06:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says US received no benefit from NATO】President Trump said the United States has spent far more on NATO than any other member and received no benefit, citing 2014-2025 expenditures: US $999 bln, UK $90.5 bln, France $66.5 bln, Italy $48.8 bln, Poland $44.3 bln; other countries, including Germany, spent far less."
-    },
-    {
-      "id": "4967581",
-      "time": "2026-07-02 20:06:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美國未從北約獲得任何好處】美國總統特朗普表示：“美國在北約上的花費遠遠超過其他任何國家，用於保護北約，卻並未從中獲得任何好處：美國9990億美元，英國905億美元，法國665億美元，義大利488億美元，波蘭443億美元。其他國家，包括德國，花費則低得多。（2014-2025年）簡直荒謬！”"
-    },
-    {
-      "id": "4967580",
-      "time": "2026-07-02 20:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塔吉克發生交通事故致11人死亡】塔吉克內務部2日釋出訊息說，首都杜尚別附近當天發生一起重大交通事故，導致11人死亡。據塔內務部訊息，事故發生在當地時間6時30分左右。在杜尚別附近的瓦赫達特市，一輛卡車在該市埃洛克村附近公路上行駛時剎車失靈，與兩輛轎車相撞。卡車司機、一名轎車司機以及兩輛轎車上的9名乘客當場死亡。（環球網）"
-    },
-    {
-      "id": "4967579",
-      "time": "2026-07-02 20:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新任中國駐塞普勒斯大使楊雲東抵塞履新】2026年7月1日，新任中國駐塞普勒斯共和國特命全權大使楊雲東抵塞履新。塞外交部禮賓司長、使館主要外交官到機場迎接。"
-    },
-    {
-      "id": "4967578",
-      "time": "2026-07-02 20:05:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "船舶追蹤資料：截至週三六日內沙特原油出口量達每日 630 萬桶， 沙烏地阿拉伯原油出口量逼近戰前水平。"
     }
   ]
 }
