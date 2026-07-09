@@ -1,7 +1,103 @@
 {
   "date": "2026-07-09",
-  "count": 1000,
+  "count": 1009,
   "items": [
+    {
+      "id": "mkt:019f4477-f419-7aab-8d03-262c9243d703",
+      "time": "2026-07-09 09:22:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02475.HK",
+        "01377.HK",
+        "Impact bearish"
+      ],
+      "text": "On debut, Luxshare Precision (02475.HK) opened down 0.05%; Dingtai High‑Tech (01377.HK) opened down 13.16%."
+    },
+    {
+      "id": "mkt:019f4477-8684-7aab-8d03-1ca5dcdf38f1",
+      "time": "2026-07-09 09:21:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "The Hang Seng Index (HSI) opened on July 9 (Thu) down 18.12 pts (-0.07%) at 24,181.34; the Hang Seng TECH Index opened up 13.95 pts (+0.29%) at 4,744.97; the Hang Seng China Enterprises Index (HSCEI) opened up 0.27 pts (0.0%) at 8,083.95; the Red Chip Index opened down 9.41 pts (-0.24%) at 3,865.52."
+    },
+    {
+      "id": "4977884",
+      "time": "2026-07-09 09:21:19",
+      "tags": [],
+      "text": "港股恒指低開跌0.07％，國企指數平開，科指開漲0.29%，儲存概念回暖。"
+    },
+    {
+      "id": "mkt:019f4476-fba1-7aab-8d03-158e53b3eb7b",
+      "time": "2026-07-09 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong open: Hang Seng Index down 0.07%, Hang Seng TECH Index up 0.29%. Storage names rebound: GigaDevice Semiconductor (03986.HK) +5.8%, Lanqi Technology (06809.HK) +4.4%."
+    },
+    {
+      "id": "4977883",
+      "time": "2026-07-09 09:20:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展100億元7天逆回購操作，投標量100億元，中標量100億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f4476-83c0-7aab-8d03-08cdb274dbd4",
+      "time": "2026-07-09 09:20:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo of 100 bln yuan today; bids 100 bln yuan, allotment 100 bln yuan, rate 1.40%, unchanged from the previous operation."
+    },
+    {
+      "id": "mkt:019f4476-0598-7aab-8d03-0022c4eeaf13",
+      "time": "2026-07-09 09:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said the U.S. Treasury deputy assistant secretary for domestic finance, Maikena, is expected to depart next week."
+    },
+    {
+      "id": "mkt:019f4475-df79-7aab-8d02-fd316dc668a6",
+      "time": "2026-07-09 09:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China's June CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f4475-6a9d-7aab-8d02-f2472289e43d",
+      "time": "2026-07-09 09:19:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Ex-BOJ official says terminal rate could exceed 2% in current tightening cycle】Former BOJ official Watanabe Tsutomu said on Wednesday the BOJ could accelerate rate hikes later this year and lift its policy rate above 2% to rein in inflation. He said the terminal peak will likely be higher than most expect, around 2% or slightly above. Watanabe urged a dynamic assessment of policy, saying the terminal rate depends not only on neutral-rate estimates but also on factors such as inflation overshooting before the BOJ clearly tightens. With core inflation approaching the 2% target, he warned the policy board may shift from a previously passive stance to a more proactive position to prevent an overshoot."
+    },
     {
       "id": "4977882",
       "time": "2026-07-09 09:18:40",

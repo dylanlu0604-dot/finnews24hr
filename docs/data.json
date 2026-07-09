@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-09 09:19:27",
-  "count": 16190,
+  "updated": "2026-07-09 09:23:19",
+  "count": 16184,
   "items": [
+    {
+      "id": "mkt:019f4477-f419-7aab-8d03-262c9243d703",
+      "time": "2026-07-09 09:22:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02475.HK",
+        "01377.HK",
+        "Impact bearish"
+      ],
+      "text": "On debut, Luxshare Precision (02475.HK) opened down 0.05%; Dingtai High‑Tech (01377.HK) opened down 13.16%."
+    },
+    {
+      "id": "mkt:019f4477-8684-7aab-8d03-1ca5dcdf38f1",
+      "time": "2026-07-09 09:21:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "The Hang Seng Index (HSI) opened on July 9 (Thu) down 18.12 pts (-0.07%) at 24,181.34; the Hang Seng TECH Index opened up 13.95 pts (+0.29%) at 4,744.97; the Hang Seng China Enterprises Index (HSCEI) opened up 0.27 pts (0.0%) at 8,083.95; the Red Chip Index opened down 9.41 pts (-0.24%) at 3,865.52."
+    },
+    {
+      "id": "4977884",
+      "time": "2026-07-09 09:21:19",
+      "tags": [],
+      "text": "港股恒指低開跌0.07％，國企指數平開，科指開漲0.29%，儲存概念回暖。"
+    },
+    {
+      "id": "mkt:019f4476-fba1-7aab-8d03-158e53b3eb7b",
+      "time": "2026-07-09 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong open: Hang Seng Index down 0.07%, Hang Seng TECH Index up 0.29%. Storage names rebound: GigaDevice Semiconductor (03986.HK) +5.8%, Lanqi Technology (06809.HK) +4.4%."
+    },
+    {
+      "id": "4977883",
+      "time": "2026-07-09 09:20:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展100億元7天逆回購操作，投標量100億元，中標量100億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f4476-83c0-7aab-8d03-08cdb274dbd4",
+      "time": "2026-07-09 09:20:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo of 100 bln yuan today; bids 100 bln yuan, allotment 100 bln yuan, rate 1.40%, unchanged from the previous operation."
+    },
+    {
+      "id": "mkt:019f4476-0598-7aab-8d03-0022c4eeaf13",
+      "time": "2026-07-09 09:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said the U.S. Treasury deputy assistant secretary for domestic finance, Maikena, is expected to depart next week."
+    },
+    {
+      "id": "mkt:019f4475-df79-7aab-8d02-fd316dc668a6",
+      "time": "2026-07-09 09:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China's June CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f4475-6a9d-7aab-8d02-f2472289e43d",
+      "time": "2026-07-09 09:19:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Ex-BOJ official says terminal rate could exceed 2% in current tightening cycle】Former BOJ official Watanabe Tsutomu said on Wednesday the BOJ could accelerate rate hikes later this year and lift its policy rate above 2% to rein in inflation. He said the terminal peak will likely be higher than most expect, around 2% or slightly above. Watanabe urged a dynamic assessment of policy, saying the terminal rate depends not only on neutral-rate estimates but also on factors such as inflation overshooting before the BOJ clearly tightens. With core inflation approaching the 2% target, he warned the policy board may shift from a previously passive stance to a more proactive position to prevent an overshoot."
+    },
     {
       "id": "4977882",
       "time": "2026-07-09 09:18:40",
@@ -147897,160 +147993,6 @@
         "公司"
       ],
       "text": "【影石創新劉靖康：沒有任何一家企業可單靠價格戰實現長期壟斷或盈利】影石創新創始人、董事長劉靖康近日在公司2025年年度股東會上表示，目前國內的智慧影像市場格局，以大疆和影石創新兩家公司為主，這“並非一個理性市場”。其認為，價格戰是一場很難證偽的競爭，沒有任何一家企業可以依靠單純的價格戰實現長期壟斷或盈利，特別是消費電子行業並不能依靠價格戰讓產業合理發展下去。“面對目前智慧影像市場的競爭，影石的理念仍然是依靠對客戶需求的前瞻性洞察、提前佈局和研發投入來構建壁壘，而非短期價格競爭”。針對公司對AI演算法的投入，其坦言：“在影像技術領域找到一個百億級的事物，是我的目標；未來商業模式中，影石創新軟體付費和儲存服務的佔比可能提高。”"
-    },
-    {
-      "id": "4966185",
-      "time": "2026-07-02 09:22:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌5%，現報4355.00元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607023791113967",
-      "time": "2026-07-02 09:22:54",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2885億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4966184",
-      "time": "2026-07-02 09:22:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠820.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019f206b-5339-7aab-8c68-c768f7ededdb",
-      "time": "2026-07-02 09:22:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "03986.HK",
-        "Impact bearish",
-        "06809.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong semiconductor stocks opened lower: 03986.HK down 12.46%, 06809.HK down 6.80%, 00981.HK down 5.93%; 02577.HK and 02676.HK also fell."
-    },
-    {
-      "id": "4966183",
-      "time": "2026-07-02 09:22:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股開盤漲2.6%，騰訊漲3%。"
-    },
-    {
-      "id": "4966182",
-      "time": "2026-07-02 09:21:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 2,885 億元 7 天期逆回購操作 操作利率 1.4%。"
-    },
-    {
-      "id": "mkt:019f206a-bca8-7aab-8c68-b9c2c7745ad1",
-      "time": "2026-07-02 09:21:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH"
-      ],
-      "text": "PBOC conducted CNY 288.5 bln of 7-day reverse repos today; bids and allotments both CNY 288.5 bln; operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "4966181",
-      "time": "2026-07-02 09:21:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報437.30元。"
-    },
-    {
-      "id": "4966180",
-      "time": "2026-07-02 09:21:20",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.83％，國企指數漲0.73％，科指開漲1.25%，汽車股普遍高開，比亞迪股份開漲4.9%。"
-    },
-    {
-      "id": "mkt:019f206a-630b-7aab-8c68-b2c51e62ef7b",
-      "time": "2026-07-02 09:21:10",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "HSCEI"
-      ],
-      "text": "July 2 (Thu) open — Hong Kong: Hang Seng Index (HSI) rose 190.41 points, or 0.83%, to 23,071.43; Hang Seng TECH Index rose 56.01 points, or 1.25%, to 4,528.24; Hang Seng China Enterprises Index (HSCEI) rose 54.83 points, or 0.73%, to 7,613.13; Red Chip Index rose 29.25 points, or 0.80%, to 3,698.67."
-    },
-    {
-      "id": "mkt:019f206a-4675-7aab-8c68-ac2df224b115",
-      "time": "2026-07-02 09:21:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish",
-        "01211.HK",
-        "00175.HK"
-      ],
-      "text": "Hong Kong open: Hang Seng Index +0.83%, Hang Seng Tech Index +1.25%. Autos broadly higher — BYD Co. (01211.HK) +4.9%, Geely Automobile (00175.HK) +3.14%."
-    },
-    {
-      "id": "4966179",
-      "time": "2026-07-02 09:20:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報7054.00元。"
-    },
-    {
-      "id": "4966178",
-      "time": "2026-07-02 09:20:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報5356.00元。"
-    },
-    {
-      "id": "mkt:019f2069-abc3-7aab-8c68-a024e150698d",
-      "time": "2026-07-02 09:20:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【UBS trims oil-price forecasts as Strait of Hormuz supplies rise】Rising energy flows through the Strait of Hormuz have prompted UBS to lower its oil-price forecasts. UBS now expects Brent to average $84/bbl this year, down $9/bbl from its prior view, and has cut its 2027 Brent forecast to $75/bbl from $85. The bank cites reduced geopolitical risk and a rapid supply rebound that drove prices lower than expected. UBS sees a modest H2 rebound to around $80/bbl as Gulf floating storage normalizes and demand recovers, but says the path to normalization may be bumpy and risk premia could remain elevated. Inventory restocking should support prices through end‑2027, though the required rebuild is smaller than its earlier 1 billion‑barrel estimate."
-    },
-    {
-      "id": "te:markets:563576",
-      "time": "2026-07-02 09:19:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Prices Consolidate — US heating oil prices traded around $3.20 per gallon, consolidating near their lowest levels since the Iran war after retracing much of their conflict-driven surge over the previous three months. Oil shipments through the Strait of Hormuz continued to recover, with crude flows exceeding 10 million barrels per day under US military protection, according to a US official. The UAE also restored oil exports to pre-war levels through alternative routes, while Iran's crude exports surpassed 40 million barrels after the US lifted its naval blockade. At the same time, President Donald Trump praised progress in negotiations following a round of indirect talks. On the data front, distillate stockpiles, which include diesel and heating oil, rose by 2.483 million barrels in the last week of June, compared with expectations for a 0.7 million-barrel decline. Elsewhere, UK diesel prices posted a record monthly decline in June, further signaling easing pressure across distillate fuel markets."
     }
   ]
 }
