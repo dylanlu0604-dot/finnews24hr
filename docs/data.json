@@ -1,7 +1,200 @@
 {
-  "updated": "2026-07-09 13:58:22",
-  "count": 16136,
+  "updated": "2026-07-09 14:02:28",
+  "count": 16145,
   "items": [
+    {
+      "id": "mkt:019f4577-b0d7-7aab-8d0a-f5fda6e65c83",
+      "time": "2026-07-09 14:01:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【More than 20 U.S. naval vessels patrolling Middle East waters】U.S. Central Command said on July 8 on social media that more than 20 U.S. Navy vessels are currently patrolling waters in the Middle East."
+    },
+    {
+      "id": "mkt:019f4577-4ce1-7aab-8d0a-e8cd959ebc65",
+      "time": "2026-07-09 14:01:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "COMEX gold futures topped $4,100/oz, up 0.34% intraday. COMEX silver futures rose above $59/oz, up 0.53% intraday."
+    },
+    {
+      "id": "4978279",
+      "time": "2026-07-09 14:00:45",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國5月季調後出口月率 0.9%，預期-0.3%，前值0.90%。德國5月季調後進口月率 -2.5%，預期0.1%，前值1.20%。"
+    },
+    {
+      "id": "4978278",
+      "time": "2026-07-09 14:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍對伊朗本土空襲已致14人死亡78人受傷】伊朗衛生部9日表示，美軍在過去兩天對伊朗本土實施的多輪空襲中，已造成14人死亡、78人受傷。美軍中央司令部此前發表宣告稱，最新一輪空襲共擊中了伊朗境內超過90個目標。伊朗國家電視臺等官方媒體報道稱，遭到空襲的地點主要集中在伊朗南部沿海地區以及北部的戈萊斯坦省。"
+    },
+    {
+      "id": "4978277",
+      "time": "2026-07-09 14:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.50%。"
+    },
+    {
+      "id": "4978276",
+      "time": "2026-07-09 14:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報59.13美元/盎司。"
+    },
+    {
+      "id": "4978275",
+      "time": "2026-07-09 14:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車工業協會：1至6月份新能源汽車產銷量分別完成743.8萬輛和744.6萬輛】中國汽車工業協會今天（9日）公佈的最新資料顯示，今年1至6月份，我國新能源汽車市場產銷量、出口量均呈現穩定增長態勢。其中，新能源汽車產銷量分別完成743.8萬輛和744.6萬輛，同比分別增長6.7%和7.3%；6月新能源汽車新車銷量達到汽車新車總銷量的近60%。在出口方面，1至6月份，汽車出口509.6萬輛，同比增長65.3%。其中新能源汽車出口235.5萬輛，同比增長1.2倍。中國汽車工業協會副秘書長陳士華表示，今年以來，新能源汽車出口成為拉動汽車出口增長的核心動力。出口的快速增長，是我國汽車產業轉型升級、國際競爭力提升的集中體現。（央視新聞）"
+    },
+    {
+      "id": "4978274",
+      "time": "2026-07-09 14:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報8423.80點。"
+    },
+    {
+      "id": "mkt:019f4576-9aca-7aab-8d0a-e7f9ef3c4acf",
+      "time": "2026-07-09 14:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【China EV market posts steady growth in 1H】China Association of Automobile Manufacturers said Jan–Jun electric vehicle production reached 7.438 mln units and sales 7.446 mln, up 6.7% and 7.3% YoY; exports also rose. In June EVs accounted for nearly 60% of total new car sales."
+    },
+    {
+      "id": "4978273",
+      "time": "2026-07-09 14:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1238.00美元/盎司。"
+    },
+    {
+      "id": "4978272",
+      "time": "2026-07-09 14:00:22",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國5月季調後貿易帳 191億歐元，預期148億歐元，前值145億歐元。"
+    },
+    {
+      "id": "4978271",
+      "time": "2026-07-09 14:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲0.80%。"
+    },
+    {
+      "id": "4978270",
+      "time": "2026-07-09 14:00:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.44%。"
+    },
+    {
+      "id": "mkt:019f4576-60a5-7aab-8d0a-d915ab87d69d",
+      "time": "2026-07-09 14:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May seasonally adjusted trade balance EUR 19.1 bln; expected EUR 14.8 bln; April EUR 14.5 bln."
+    },
+    {
+      "id": "mkt:019f4576-5ca4-7aab-8d0a-d7ba09423d8c",
+      "time": "2026-07-09 14:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May seasonally adjusted exports +0.9% m/m vs -0.3% expected; April +0.9%."
+    },
+    {
+      "id": "mkt:019f4576-559d-7aab-8d0a-cf1b2c8e2e38",
+      "time": "2026-07-09 14:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted imports fell 2.5% MoM in May, versus expected +0.1% and April +1.2%."
+    },
+    {
+      "id": "mkt:019f4576-3d60-7aab-8d0a-c2695690cee1",
+      "time": "2026-07-09 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Trade Balance SA (May) | actual 19100000000B | consensus 14800000000B | previous 14500000000B"
+    },
+    {
+      "id": "mkt:019f4576-3d13-7aab-8d0a-be812b7c117b",
+      "time": "2026-07-09 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Imports SA (MoM) (May) | actual -2.5% | consensus 0.1% | previous 1.20%"
+    },
+    {
+      "id": "mkt:019f4576-3d12-7aab-8d0a-b07623f1eb9b",
+      "time": "2026-07-09 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Exports SA (MoM) (May) | actual 0.9% | consensus -0.3% | previous 0.90%"
+    },
     {
       "id": "4978268",
       "time": "2026-07-09 13:57:28",
@@ -147543,104 +147736,6 @@
         "SSE Composite"
       ],
       "text": "China A-share innovative-drug sector rebounded in the afternoon. Kelun Pharma and Zejing Pharmaceutical hit intraday record highs; Hainan Haiyao posted a fourth consecutive daily limit-up; CSPC Jingfeng and Lianhua Technology hit daily limits; Hotgen Biotech jumped over 15%, while CSPC Innovation, Wanbang Pharma, JinYao Pharmaceutical, Kangzhi Pharmaceutical and Shuanglu Pharmaceutical also climbed."
-    },
-    {
-      "id": "mkt:019f216b-d6ad-7aab-8c6d-e3dec02c6acf",
-      "time": "2026-07-02 14:02:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's deputy finance minister said the government is considering measures to bolster liquidity in the overnight spot market."
-    },
-    {
-      "id": "4966664",
-      "time": "2026-07-02 14:01:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐元斯托克歐洲50指數期貨<STXEc1>下跌0.19%，德國DAX指數期貨<FDXc1>持平，法國CAC 40指數期貨<FCEc1>上漲0.05%，富時指數期貨<FFIc1>下跌0.08%。"
-    },
-    {
-      "id": "4966663",
-      "time": "2026-07-02 14:01:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：將阿斯麥目標價從1770歐元上調至2000歐元。"
-    },
-    {
-      "id": "mkt:019f216a-e3cc-7aab-8c6d-df3ac8cdb685",
-      "time": "2026-07-02 14:01:20",
-      "tags": [
-        "MKT News",
-        "ASML.AS",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs raises ASML PT to €2,000 from €1,770."
-    },
-    {
-      "id": "te:markets:563641",
-      "time": "2026-07-02 14:01:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks End 0.2% Lower — The NZX 50 fell 28 points, or 0.2%, to close at 13,582 on Thursday, extending losses from the previous session, mainly driven by the communication services, energy, consumer staples, and technology sectors. Communication services fell 2.8%, with Spark New Zealand, New Zealand's largest telecommunications and digital services company, slumping 3.7%, while Chorus, New Zealand's largest telecommunications network operator, saw its share price drop 2.5%. The broader index tracked a decline on Wall Street overnight as traders reassessed the sustainability of the AI-driven rally. Traders anticipated the release of New Zealand's consumer spending data for May, due on Friday. However, easing oil prices helped limit the losses as inflation concerns subsided, reducing expectations of an interest rate hike. Other losers included Ebos Group (-2.7%) and A2 Milk (-1.3%), while Infratil and Hallenstein Glasson each dropped 0.8%."
-    },
-    {
-      "id": "4966662",
-      "time": "2026-07-02 14:00:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國副財政部長：與日本在外匯事務上保持密切溝通；美元-韓元匯率與經濟基本面不符。"
-    },
-    {
-      "id": "mkt:019f216a-4482-7aab-8c6d-d4e1e496ad1d",
-      "time": "2026-07-02 14:00:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "South Korea's deputy finance minister said Seoul is maintaining close communication with Japan on foreign-exchange matters and that the USD-KRW rate is inconsistent with economic fundamentals."
-    },
-    {
-      "id": "mkt:019f216a-045f-7aab-8c6d-cecda817ea76",
-      "time": "2026-07-02 14:00:23",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "India's trade minister said India is increasing regulatory barriers with Japan to help expand exports."
-    },
-    {
-      "id": "4966661",
-      "time": "2026-07-02 14:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股映美控股午後漲超110%。"
-    },
-    {
-      "id": "mkt:019f2168-a5b0-7aab-8c6d-c1f33cbe1ee1",
-      "time": "2026-07-02 13:58:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "02028.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Yingmei Holdings (02028.HK) jumped more than 110% in afternoon trade."
     }
   ]
 }
