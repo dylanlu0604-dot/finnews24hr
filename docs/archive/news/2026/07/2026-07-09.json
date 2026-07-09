@@ -1,7 +1,260 @@
 {
   "date": "2026-07-09",
-  "count": 2169,
+  "count": 2195,
   "items": [
+    {
+      "id": "mkt:019f4639-86d4-7aab-8d11-f3d0c40ddeda",
+      "time": "2026-07-09 17:33:22",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【HSBC: Samsung Electronics may extend streak of profit gains】HSBC says firmer memory-chip prices could push Samsung Electronics to record results. Analysts Ricky Seo and Han Kil Chang forecast Q3 operating profit rising 25% QoQ on a 20% sales increase, assuming DRAM and NAND prices rise about 15%, OLED panel demand seasonal strength from a new foldable launch, and smartphone margins rebounding. HSBC says continued compute expansion by cloud-service providers makes this year’s operating profit rise to more than eight times to KRW 376 trillion, with a further 37% increase next year. HSBC maintains buy and a KRW 450,000 target price."
+    },
+    {
+      "id": "4978743",
+      "time": "2026-07-09 17:33:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新：2026年上半年營收115億元 淨利潤同比增1099%】兆易創新公告稱，2026年上半年預計實現營業收入115億元左右，同比增長177%左右；歸屬於上市公司股東的淨利潤69億元左右，同比增長1099%左右；扣非淨利潤48.5億元左右，同比增長791%左右。業績增長主要因儲存晶片產品量價齊升、微控制器產品出貨規模增長，以及持有的證券投資公允價值變動收益增加。不過，行業週期性波動、證券投資收益波動或影響未來業績。"
+    },
+    {
+      "id": "te:markets:565663",
+      "time": "2026-07-09 17:33:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Tin Pulls Back from 2-Week High — Tin futures in the UK fell to $52,000 per tonne from the two-week high of $53,350, tracking fresh skepticism on AI infrastructure demand. Equities for chip producers and data center developers came under new pressure even though the main chip players upgraded their guidance, as soaring levels of profits drove markets to pare belief that the rally could go for long and overinvestment in infrastructure became more likely. The earlier wave of deals and investment in compute supported tin due to its soldering utility in data centers and energy storage systems, with industry players forecasting that tin demand in AI servers is due to triple by 2030. Still, major producer Indonesia continued to pull back on the issuance of export licences due to bottlenecks in its licensing system. Refined tin exports from the country plunged over 40% annually to 3,246 tonnes in May. On top of that, Jakarta further tightened mining permits and seized 500 tonnes of metal from mines without licences."
+    },
+    {
+      "id": "mkt:019f4639-63e3-7aab-8d11-e9d41782d603",
+      "time": "2026-07-09 17:33:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut its PT on Exxon Mobil to $158 from $173."
+    },
+    {
+      "id": "mkt:019f4639-4e8c-7aab-8d11-e6a53a5aa912",
+      "time": "2026-07-09 17:33:08",
+      "tags": [
+        "MKT News",
+        "RTX",
+        "Impact bullish"
+      ],
+      "text": "The Kremlin said it was aware the U.S. supplies weapons to Ukraine, was not under any illusions about that, and that the U.S. decision to authorize Ukraine to produce Patriot missiles was new information for Moscow."
+    },
+    {
+      "id": "4978742",
+      "time": "2026-07-09 17:32:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就美國允許烏克蘭生產愛國者導彈一事發表表態：我們清楚美國一直在向烏克蘭供應武器，我們不會抱有不切實際的幻想，這份許可對我們而言是新資訊。"
+    },
+    {
+      "id": "4978741",
+      "time": "2026-07-09 17:32:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國德國商業銀行勞資協議會宣告：我們不希望也不需要裕信銀行"
+    },
+    {
+      "id": "mkt:019f4638-411b-7aab-8d11-dcda8ed4ae2d",
+      "time": "2026-07-09 17:31:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China vice finance minister Liao Min meets AmCham China delegation】On July 7, 2026, China's Vice Finance Minister Liao Min met in Beijing with an AmCham China delegation to discuss Sino‑US economic and trade relations and concerns of US firms operating in China."
+    },
+    {
+      "id": "4978740",
+      "time": "2026-07-09 17:31:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【廖岷會見中國美國商會代表團】2026年7月7日下午，財政部副部長廖岷在京會見中國美國商會代表團，就中美經貿關係、美企在華經營關切等議題進行交流。（財政部）"
+    },
+    {
+      "id": "4978739",
+      "time": "2026-07-09 17:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天華新能：預計2026年上半年淨利潤22億元～24億元，上年同期虧損9278.05萬元】天華新能公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為22億元～24億元，上年同期虧損9278.05萬元。公司2026年半年度業績較上年同期大幅增長的主要原因是：報告期內由於儲能、動力電池下游等領域對鋰電資源的旺盛需求，公司鋰電材料業務量價齊升，銷售收入及利潤有所增長。"
+    },
+    {
+      "id": "4978738",
+      "time": "2026-07-09 17:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【太極實業今日大宗交易折價成交3734萬股，成交額9.22億元】7月9日，太極實業大宗交易成交3734萬股，成交額9.22億元，佔當日總成交額的9.59%，成交價24.69元，較市場收盤價26.27元折價6.01%。"
+    },
+    {
+      "id": "mkt:019f4637-d93d-7aab-8d11-d2364a72f42a",
+      "time": "2026-07-09 17:31:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "9988.HK",
+        "Impact bullish",
+        "0700.HK",
+        "Impact bearish"
+      ],
+      "text": "Southbound funds were net buyers of CNY9.83 bln today. Via Shanghai-Hong Kong Stock Connect, Zhipu and Huahong Hongli recorded net buys of HKD2.787 bln and HKD1.001 bln; the Tracker Fund of Hong Kong posted the largest net sell at HKD2.313 bln. Via Shenzhen-Hong Kong Stock Connect, Zhipu and Alibaba Group were top net buys at HKD2.788 bln and HKD1.499 bln; Tencent Holdings logged the largest net sell at HKD628 mln."
+    },
+    {
+      "id": "mkt:019f4637-aa84-7aab-8d11-cb8f99efd23c",
+      "time": "2026-07-09 17:31:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Kremlin said it believes the White House has misunderstood comments by Trump and Rubio that Ukrainian strikes on Russian refineries could help end the conflict."
+    },
+    {
+      "id": "4978737",
+      "time": "2026-07-09 17:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影石創新今日大宗交易折價成交50.12萬股，成交額6747.15萬元】7月9日，影石創新大宗交易成交50.12萬股，成交額6747.15萬元，佔當日總成交額的14.08%，成交價134.62元，較市場收盤價135.98元折價1%。"
+    },
+    {
+      "id": "4978736",
+      "time": "2026-07-09 17:31:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【屹唐股份今日大宗交易折價成交300萬股，成交額1.11億元】7月9日，屹唐股份大宗交易成交300萬股，成交額1.11億元，佔當日總成交額的2.17%，成交價37元，較市場收盤價37.57元折價1.52%。"
+    },
+    {
+      "id": "mkt:019f4637-5635-7aab-8d11-c29babba5e42",
+      "time": "2026-07-09 17:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says US position exhibits a degree of duality; it sometimes errs but continues to insist on helping find a peaceful solution."
+    },
+    {
+      "id": "mkt:019f4637-4139-7aab-8d11-bef537f96fa6",
+      "time": "2026-07-09 17:30:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "The Kremlin said it has no illusions about the US authorizing Ukraine to produce Patriot air-defense missiles."
+    },
+    {
+      "id": "4978735",
+      "time": "2026-07-09 17:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就美國允許烏克蘭生產愛國者導彈一事發表評論：我們不會抱不切實際的樂觀態度。"
+    },
+    {
+      "id": "mkt:019f4637-2d32-7aab-8d11-b4d3a15f6513",
+      "time": "2026-07-09 17:30:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Bain warns Korean chip groups hold structural edge as Kioxia rallies 4,000% since Dec 2024 IPO】Yuji Sugimoto, head of Bain Capital Japan, said Kioxia may be one of Japan’s highest‑valued firms in the AI cycle, but Korean chip giants retain structural advantages. He cited Samsung and SK’s strong top‑down leadership and ownership structures, saying sustained, large-scale investment is essential in semiconductors and hard to deliver under typical Japanese governance. Sugimoto, who led Bain’s acquisition of Toshiba’s memory unit (spun off in 2017 and bought by a Bain-led consortium for about ¥2 trillion in 2018; renamed Kioxia in 2019), said Kioxia could not have completed its transformation if it had stayed under Toshiba. Since its December 2024 listing Kioxia shares have risen more than 4,000%. Bain has exited its investment."
+    },
+    {
+      "id": "mkt:019f4637-112a-7aab-8d11-af78bb663697",
+      "time": "2026-07-09 17:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Russian President Putin and US President Trump engaged in constructive dialogue despite some differences."
+    },
+    {
+      "id": "4978734",
+      "time": "2026-07-09 17:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京與特朗普儘管存在部分分歧，但仍開展了建設性對話。"
+    },
+    {
+      "id": "mkt:019f4636-fb90-7aab-8d11-a63c63b798f3",
+      "time": "2026-07-09 17:30:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin says a no-fly zone over Ukraine would amount to NATO operating inside Ukraine, and that the special military operation aims to prevent this."
+    },
+    {
+      "id": "te:economy:565661",
+      "time": "2026-07-09 17:30:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Holds Near 3.1% on ECB Hike Expectations — Germany’s 10-year Bund yield remained close to 3.1%, near its highest level since May 21, following its longest winning streak since January as expectations grew for another European Central Bank interest rate hike in September. On Wednesday, Brent crude reached two-week highs after renewed US-Iran strikes, with US President Trump declaring the Iran ceasefire over. However, he also stated that Iran still wants to make a deal \"badly,\" leaving room for potential negotiations. Traders are now pricing in over 30 basis points of additional ECB tightening this year, signaling at least one potential rate hike. Politically, Germany’s cabinet approved a 2027 budget draft, planning €555.4 billion in spending and increasing borrowing to €203.6 billion, up from earlier estimates. In France, far-right leader Marine Le Pen confirmed her 2027 presidential bid, with polls favoring her National Rally, while uncertainty remains over President Macron’s successor."
+    },
+    {
+      "id": "4978733",
+      "time": "2026-07-09 17:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就特朗普、盧比奧有關烏克蘭襲擊俄羅斯煉油廠或有助結束戰爭的言論表態：美方存在認知誤區。"
+    },
+    {
+      "id": "4978732",
+      "time": "2026-07-09 17:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗邁赫爾通訊社：伊朗南部布什爾地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f4636-2405-7aab-8d11-9aa8640422e6",
+      "time": "2026-07-09 17:29:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Mehr news agency reports explosions heard in Iran's southern Bushehr region."
+    },
     {
       "id": "4978731",
       "time": "2026-07-09 17:29:19",
