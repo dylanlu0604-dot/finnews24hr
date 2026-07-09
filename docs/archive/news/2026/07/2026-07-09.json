@@ -1,7 +1,84 @@
 {
   "date": "2026-07-09",
-  "count": 1204,
+  "count": 1212,
   "items": [
+    {
+      "id": "4977997",
+      "time": "2026-07-09 10:14:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4825.790點；恒生指數現漲0.547%。"
+    },
+    {
+      "id": "4977996",
+      "time": "2026-07-09 10:14:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
+    {
+      "id": "mkt:019f44a7-91eb-7aab-8d05-7f0660fcb41b",
+      "time": "2026-07-09 10:14:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share advanced packaging stocks rallied again: Huatian Technology, Zhongjing Electronics, Langdi Group, Guide Infrared, Tongxingda and Xuguang Electronics hit limit-up; Shanghai Sinyang jumped over 10%; Huicheng Co., Shenkeda, Shenke Technology, Taiji Industrial and Yongxi Electronics also gained."
+    },
+    {
+      "id": "4977995",
+      "time": "2026-07-09 10:13:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝板塊再度拉昇，華天科技等股漲停】先進封裝板塊再度拉昇，華天科技、中京電子、朗迪集團、高德紅外、同興達、旭光電子漲停，上海新陽漲超10%，匯成股份、深科達、深科技、太極實業、甬矽電子跟漲。"
+    },
+    {
+      "id": "4977994",
+      "time": "2026-07-09 10:13:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印尼國家石油公司與波音簽署可持續航空燃料開發諒解備忘錄】7月9日，據報道，印尼國家石油公司（Pertamina）表示，已與美國波音公司簽署一份諒解備忘錄，以探索在印發展可持續航空燃料（SAF）產業的機會。"
+    },
+    {
+      "id": "mkt:019f44a6-65b1-7aab-8d05-770d16e846cc",
+      "time": "2026-07-09 10:13:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "A joint statement said Vietnam's Masan High-Tech Materials and South Korea's GB Innovation signed a long-term tungsten processing agreement; Masan will process South Korean tungsten concentrate in Vietnam."
+    },
+    {
+      "id": "4977993",
+      "time": "2026-07-09 10:12:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量792億元。"
+    },
+    {
+      "id": "4977992",
+      "time": "2026-07-09 10:12:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "越南馬山高科技材料公司與韓國GB Innovation簽署長期鎢加工協議，將在越南加工韓國鎢精礦。"
+    },
     {
       "id": "4977991",
       "time": "2026-07-09 10:10:35",
