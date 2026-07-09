@@ -1,7 +1,78 @@
 {
   "date": "2026-07-09",
-  "count": 2195,
+  "count": 2203,
   "items": [
+    {
+      "id": "4978749",
+      "time": "2026-07-09 17:37:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【博眾精工今日大宗交易折價成交100萬股 成交額5378萬元】7月9日，博眾精工大宗交易成交100萬股，成交額5378萬元，佔當日總成交額的10.9%，成交價53.78元，較市場收盤價57.15元折價5.9%。"
+    },
+    {
+      "id": "4978748",
+      "time": "2026-07-09 17:36:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理辦公室表示，伊拉克總理稱伊拉克不會退出石油輸出國組織（歐佩克，OPEC），但會爭取獲得公平的產量配額。"
+    },
+    {
+      "id": "mkt:019f463c-1941-7aab-8d12-0ebf2510e053",
+      "time": "2026-07-09 17:36:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Russia's foreign ministry says Moscow will respond to the expulsion of two military attachés from the embassy in Rome."
+    },
+    {
+      "id": "4978747",
+      "time": "2026-07-09 17:36:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：莫斯科將針對兩名俄駐羅馬大使館武官被驅逐一事作出回應。"
+    },
+    {
+      "id": "4978746",
+      "time": "2026-07-09 17:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "經合組織反賄賂工作組釋出針對土耳其的盡職調查警示。"
+    },
+    {
+      "id": "4978744",
+      "time": "2026-07-09 17:35:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力源科技：簽訂3488萬元供貨合同】力源科技公告，公司近日與甘肅國能巴丹吉林第一發電有限公司簽署凝結水精處理裝置買賣合同，合同金額為人民幣3488萬元（含稅），合同生效後12個月內完成供貨。本次交易屬於公司日常經營活動相關合同，將進一步鞏固公司在火電市場的領先地位，有利於提升公司的持續盈利能力和核心競爭力。"
+    },
+    {
+      "id": "mkt:019f463a-dcb9-7aab-8d12-079f2be7bb98",
+      "time": "2026-07-09 17:34:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "603986.SS",
+        "Impact bullish"
+      ],
+      "text": "GigaDevice expects H1 2026 net profit attributable to shareholders of about 6.9 bln yuan, up roughly 1,099% YoY."
+    },
+    {
+      "id": "mkt:019f463a-8e51-7aab-8d11-fc98eff2a295",
+      "time": "2026-07-09 17:34:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says no one has called yet regarding a planned Trump-Putin phone call."
+    },
     {
       "id": "mkt:019f4639-86d4-7aab-8d11-f3d0c40ddeda",
       "time": "2026-07-09 17:33:22",
