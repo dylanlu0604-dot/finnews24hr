@@ -1,7 +1,79 @@
 {
   "date": "2026-07-09",
-  "count": 3241,
+  "count": 3248,
   "items": [
+    {
+      "id": "4979511",
+      "time": "2026-07-09 23:06:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行理事會評估認為，維持當前基準利率水平是合適的。"
+    },
+    {
+      "id": "mkt:019f4769-b8ec-7aab-8d1c-2c4fd58b9e6a",
+      "time": "2026-07-09 23:05:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister says Israel is prepared to strike Iran to eliminate the threat."
+    },
+    {
+      "id": "mkt:019f4769-68df-7aab-8d1c-2050f26db312",
+      "time": "2026-07-09 23:05:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's defense minister said Israel will not withdraw from security zones in Gaza, Lebanon or Syria."
+    },
+    {
+      "id": "4979510",
+      "time": "2026-07-09 23:05:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：多數理事會委員表示，長期通脹預期整體保持相對穩定。"
+    },
+    {
+      "id": "mkt:019f4767-fb24-7aab-8d1c-1cca33f1b6d6",
+      "time": "2026-07-09 23:03:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel's defense minister said the military is on high alert and prepared to resume fighting."
+    },
+    {
+      "id": "4979509",
+      "time": "2026-07-09 23:03:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：多數理事會委員指出，墨西哥經濟在一季度出現收縮後，預計 2026 年二季度將恢復增長。"
+    },
+    {
+      "id": "4979508",
+      "time": "2026-07-09 23:03:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：絕大多數董事會成員認為，經濟產出缺口擴大的狀況將在整個預測週期內持續存在。"
+    },
     {
       "id": "4979507",
       "time": "2026-07-09 23:02:30",

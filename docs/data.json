@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-09 23:03:28",
-  "count": 15933,
+  "updated": "2026-07-09 23:07:33",
+  "count": 15931,
   "items": [
+    {
+      "id": "4979511",
+      "time": "2026-07-09 23:06:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行理事會評估認為，維持當前基準利率水平是合適的。"
+    },
+    {
+      "id": "mkt:019f4769-b8ec-7aab-8d1c-2c4fd58b9e6a",
+      "time": "2026-07-09 23:05:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister says Israel is prepared to strike Iran to eliminate the threat."
+    },
+    {
+      "id": "mkt:019f4769-68df-7aab-8d1c-2050f26db312",
+      "time": "2026-07-09 23:05:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's defense minister said Israel will not withdraw from security zones in Gaza, Lebanon or Syria."
+    },
+    {
+      "id": "4979510",
+      "time": "2026-07-09 23:05:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：多數理事會委員表示，長期通脹預期整體保持相對穩定。"
+    },
+    {
+      "id": "mkt:019f4767-fb24-7aab-8d1c-1cca33f1b6d6",
+      "time": "2026-07-09 23:03:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel's defense minister said the military is on high alert and prepared to resume fighting."
+    },
+    {
+      "id": "4979509",
+      "time": "2026-07-09 23:03:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：多數理事會委員指出，墨西哥經濟在一季度出現收縮後，預計 2026 年二季度將恢復增長。"
+    },
+    {
+      "id": "4979508",
+      "time": "2026-07-09 23:03:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行會議紀要：絕大多數董事會成員認為，經濟產出缺口擴大的狀況將在整個預測週期內持續存在。"
+    },
     {
       "id": "4979507",
       "time": "2026-07-09 23:02:30",
@@ -145483,83 +145555,6 @@
         "Impact bullish"
       ],
       "text": "S&P 500 reversed earlier gains to trade lower; Nasdaq down 0.7%, Dow up 0.5%."
-    },
-    {
-      "id": "4968008",
-      "time": "2026-07-02 23:07:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數抹去漲幅，轉為下跌。"
-    },
-    {
-      "id": "mkt:019f235e-8bf9-7aab-8c7f-4a763b789754",
-      "time": "2026-07-02 23:07:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc determined that at 22:44 on July 2 a magnitude-4.5 earthquake occurred offshore Yilan County, Taiwan, with a focal depth of 90 km."
-    },
-    {
-      "id": "4968007",
-      "time": "2026-07-02 23:06:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：6月就業人數疲軟後加密貨幣回暖】6月新增就業人數少於預期，今日為陷入困境的加密貨幣提供了新的支撐，因為人們希望美聯儲近期的任何加息都可能被推遲。比特幣上漲2.7%，至61,689美元，其他加密貨幣也緊隨其後。以太幣一週多來首次重返1,700美元上方，上漲5.4%，至1,705美元。一些交易員希望以太幣今年最糟糕的時期已經過去。eToro的Bret Kenwell在一份報告中表示：“多頭希望1,500美元的水平能繼續發揮支撐作用。”他稱：“以太幣的整體趨勢一直看跌，但如果未來幾天和幾周內動能轉向看漲，可能會出現更大規模的反彈。”"
-    },
-    {
-      "id": "4968006",
-      "time": "2026-07-02 23:05:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月02日22時44分在臺灣宜蘭縣海域（北緯24.60度，東經122.60度）發生4.5級地震，震源深度90千米。"
-    },
-    {
-      "id": "4968005",
-      "time": "2026-07-02 23:04:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿斯利康漲幅擴大，觸及盤中高點，最新漲幅為6%。"
-    },
-    {
-      "id": "4968004",
-      "time": "2026-07-02 23:04:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國常駐聯合國代表：呼籲伊朗停止襲擊，並開放霍爾木茲海峽】美國常駐聯合國代表：伊朗試圖在霍爾木茲海峽徵收非法費用。霍爾木茲海峽必須向所有國家開放。儘管已有諒解備忘錄，伊朗仍繼續襲擊船隻以及巴林和科威特。我們呼籲伊朗停止襲擊，並開放霍爾木茲海峽。我們不會接受在霍爾木茲海峽徵收任何非法費用。伊朗不尊重《聯合國憲章》。我們呼籲伊朗重回對話與和平努力。美國總統特朗普對伊朗的耐心正在耗盡。"
-    },
-    {
-      "id": "4968003",
-      "time": "2026-07-02 23:03:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "快手：增資協議項下認購總金額不得超過人民幣204.471億元。"
-    },
-    {
-      "id": "te:markets:563843",
-      "time": "2026-07-02 23:03:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Futures Rebounds — Platinum futures traded around $1,630 an ounce, rebounding about 2.5% from a seven-month low as a weaker US dollar outweighed easing geopolitical uncertainty. Oil prices continued to decline as tanker traffic normalized amid ongoing peace talks, although uncertainty over a lasting agreement persisted. Meanwhile, softer-than-expected US payrolls data and last week's inflation reading reduced expctations of further rate hikes from the Federal Reserve this year, weighing on the dollar and boosting the appeal of dollar-denominated metals. On the supply side, South Africa's platinum output remained constrained after criminal activity disrupted power supplies to major mining operations. In contrast, Russia's Nornickel has begun expanding its mines, aiming to extend production through at least 2048."
-    },
-    {
-      "id": "mkt:019f235b-38f1-7aab-8c7f-407b7289d197",
-      "time": "2026-07-02 23:03:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Danmarks Nationalbank intervened in FX markets last month, buying DKK700m."
     }
   ]
 }
