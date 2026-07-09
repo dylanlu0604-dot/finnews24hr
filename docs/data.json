@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-09 14:02:28",
-  "count": 16145,
+  "updated": "2026-07-09 14:06:26",
+  "count": 16137,
   "items": [
+    {
+      "id": "mkt:019f457b-1710-7aab-8d0b-01d6ef6b2633",
+      "time": "2026-07-09 14:05:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian state media reported the military said its drones struck a US \"Patriot\" air-defence battery in Kuwait, a satellite antenna in Qatar and a US military fuel storage facility in Bahrain."
+    },
+    {
+      "id": "4978283",
+      "time": "2026-07-09 14:04:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷概念震盪走強，冰輪環境漲停】液冷概念震盪走強，冰輪環境漲停，大元泵業、鑫磊股份、金富科技、博傑股份、歐陸通漲幅居前。"
+    },
+    {
+      "id": "4978282",
+      "time": "2026-07-09 14:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方稱其用無人機襲擊了位於科威特的美國愛國者防空系統、卡達的衛星天線以及巴林的美軍燃料儲存設施。"
+    },
+    {
+      "id": "4978281",
+      "time": "2026-07-09 14:04:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【降雨量將超過100毫米 甘肅榆中啟動防汛抗洪Ⅲ級應急響應】記者從甘肅省蘭州市榆中縣防汛抗旱指揮部辦公室瞭解到，受暖溼氣流和冷渦底部冷空氣共同影響，預計7月9日夜間至12日上午，榆中縣將出現持續性降水過程，南部及北部有暴雨，累計降雨量可達60～80毫米，個別站點超過100毫米，其餘地區累計降雨量30～50毫米。降水以對流性開始，主要對流時段為9日23時至10日8時，最大小時雨強30～50毫米；10日9時起轉為穩定性降水。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4578-4a2d-7aab-8d0a-fd6740990e71",
+      "time": "2026-07-09 14:02:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures up 1.19%, DAX futures up 0.96%, FTSE 100 futures up 0.43%."
+    },
+    {
+      "id": "4978280",
+      "time": "2026-07-09 14:02:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨<STXEc1>上漲1.19%，德國DAX指數期貨<FDXc1>上漲0.96%，富時指數期貨<FFIc1>上漲0.43%。"
+    },
     {
       "id": "mkt:019f4577-b0d7-7aab-8d0a-f5fda6e65c83",
       "time": "2026-07-09 14:01:39",
@@ -147600,142 +147660,6 @@
         "國際"
       ],
       "text": "【三菱日聯：日本推動投資有加劇通脹的風險】三菱日聯摩根士丹利證券策略師六車治美表示，日本即將出臺的公共和私營投資計劃需要密切關注加劇通脹壓力和破壞日本經濟穩定的風險。她說，隨著日本央行最新短觀調查顯示企業不再猶豫轉嫁不斷上升的成本，在嚴重的勞動力短缺、高企的原油價格和日元疲軟的推動下，企業的通脹預期正在不斷攀升。這種轉變表明，任何激進的投資推動都可能在生產能力跟上之前導致該國經濟過熱。"
-    },
-    {
-      "id": "4966673",
-      "time": "2026-07-02 14:05:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本 20 年期國債收益率上漲 11 個基點，報 3.775%。"
-    },
-    {
-      "id": "4966672",
-      "time": "2026-07-02 14:05:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航升衛星：與杭州柯林戰略合作 攻堅算力衛星等高功率衛星在軌能源安全難題】7月2日，航升衛星與杭州柯林(688611)簽署戰略合作協議，將聚焦空間能源智慧感知、衛星在軌能源安全管控、新能源空天地監測等核心領域開展深度長期合作，開拓空天地融合產業全新賽道。當前，太空算力產業快速爆發，高功率、大體量衛星成為行業發展主流，衛星在軌能源安全管控、健康狀態智慧診斷預警，已成為保障衛星穩定執行、突破商業航天發展瓶頸的關鍵環節。雙方將攻堅衛星能源在軌核心技術，共建衛星能源安全數字化聯合實驗室，精準攻克算力衛星、SAR、手機直連衛星等高功率衛星在軌能源安全痛點難題，聯合研發新一代分散式大功率衛星能源控制系統、在軌智慧感知與安全管理系列產品。推動杭州柯林能源感知、安全管控核心產品與航升衛星全系列衛星平臺實現標準化適配、在軌試驗及規模化搭載應用。"
-    },
-    {
-      "id": "4966671",
-      "time": "2026-07-02 14:04:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "嘉士伯已為其印度子公司首次公開募股秘密提交了招股草案，募資規模最高可達7億美元。"
-    },
-    {
-      "id": "4966670",
-      "time": "2026-07-02 14:04:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【餘偉文：拓展人民幣跨境應用場景 助力實體經濟發展】人民幣國際化近年來備受關注，推進人民幣國際化也是國家“十五五”規劃的重點之一。作為全球重要的國際金融中心和離岸人民幣業務樞紐，香港一直積極把握機遇，紮實推動多項具體措施，著力於深化離岸人民幣市場發展，並持續推動內地與香港金融市場互聯互通。與此同時，我們積極推動企業在國際貿易和投融資等實體經濟活動中更廣泛使用人民幣，便利企業跨境營運，強化香港聯通內地與國際市場的橋樑角色。我們與業界保持溝通，瞭解企業使用人民幣面臨的挑戰。與金融市場不同，實體經濟的難點在於：企業使用其他國際貨幣有其慣性，營運與會計等內部系統有一套沿用已久的實務操作流程，未必能支援人民幣交易，以致轉型動力相對不足；部分企業對銀行提供的人民幣產品認識有限，亦未深入分析成本效益。針對這些難點，我們積極與業界和內地政策部門磋商，探討可行解決辦法。（香港金融管理局）"
-    },
-    {
-      "id": "mkt:019f216d-a22f-7aab-8c6e-0c5e0dd30b53",
-      "time": "2026-07-02 14:04:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Yu Weiwen: Expand cross-border RMB use to support real economy】RMB internationalization remains a policy priority. Hong Kong, as an international financial centre and offshore RMB hub, is implementing measures to deepen the offshore RMB market and strengthen mainland–Hong Kong market connectivity. Authorities are promoting wider corporate use of RMB in trade and financing to ease cross-border operations and reinforce Hong Kong’s conduit role between the mainland and global markets. Industry feedback highlights frictions: corporate inertia toward other currencies, legacy operational and accounting systems that do not support RMB transactions, and limited awareness or cost‑benefit analysis of RMB banking products. Hong Kong authorities are consulting with industry and mainland policy departments to identify practicable solutions."
-    },
-    {
-      "id": "4966669",
-      "time": "2026-07-02 14:04:13",
-      "tags": [
-        "焦點"
-      ],
-      "text": "韓國KOSPI指數日內跌幅擴大至7.00%，現報7721.60點。"
-    },
-    {
-      "id": "mkt:019f216d-6df3-7aab-8c6e-027eee41dd7c",
-      "time": "2026-07-02 14:04:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "USDJPY"
-      ],
-      "text": "South Korea's KOSPI index intraday loss widened to 7.00%, trading at 7,721.60 points."
-    },
-    {
-      "id": "4966668",
-      "time": "2026-07-02 14:03:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里整合QoderWork、悟空、MuleRun 將推出新的生產力AI產品】阿里巴巴正在對旗下Agent產品線進行整合：以QoderWork為基礎，整合悟空、MuleRun的能力，整合升級成一款更強大的面向企業生產力場景的AI產品。新產品由陳宇森負責。阿里巴巴方面回應：QoderWork、悟空、MuleRun現有產品服務未來將無縫升級，所有使用者權益不會受影響。"
-    },
-    {
-      "id": "mkt:019f216c-dc08-7aab-8c6d-f94bf7eb0d03",
-      "time": "2026-07-02 14:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kunlun Wanwei: Tiangong AI ARR tops $800 million】Kunlun Wanwei said on July 2 that Tiangong AI achieved an ARR milestone in Q2 2026: AINative model and product business ARR has exceeded $800 million. The AI short-drama platform business accounts for over $700 million of ARR, while AI tools ARR has passed $100 million. DramaWave has completed an AI-native transformation; more than 80% of newly published content on the platform is now AI-generated."
-    },
-    {
-      "id": "4966667",
-      "time": "2026-07-02 14:03:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國副財政部長：韓國正在考慮採取措施以增強隔夜即期市場的流動性。經濟情況與1997年危機時不同；美元流動性充足。"
-    },
-    {
-      "id": "4966666",
-      "time": "2026-07-02 14:03:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元<JPY=EBS>下跌0.20%，報162.2550。"
-    },
-    {
-      "id": "4966665",
-      "time": "2026-07-02 14:03:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【崑崙萬維：天工AI業務ARR突破8億美元】崑崙萬維7月2日宣佈，旗下天工AI在2026年第二季度實現歷史性突破：AI Native模型與產品業務年度經常性收入（ARR）已超過8億美元大關。其中AI短劇平臺業務ARR超過7億美元，AI工具業務ARR突破1億美元。同時，天工AI旗下短劇平臺DramaWave正式完成AI原生化轉型。目前平臺超過80%的新增釋出內容由AI生成，標誌著天工AI引領全球短劇行業正式進入AI原生內容時代。（崑崙萬維官方公眾號）"
-    },
-    {
-      "id": "mkt:019f216c-4c80-7aab-8c6d-f795833a3014",
-      "time": "2026-07-02 14:02:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "South Korea's deputy finance minister said current economic conditions differ from the 1997 crisis and US dollar liquidity is ample."
-    },
-    {
-      "id": "mkt:019f216c-02a4-7aab-8c6d-ef81d0e0096a",
-      "time": "2026-07-02 14:02:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share innovative-drug sector rebounded in the afternoon. Kelun Pharma and Zejing Pharmaceutical hit intraday record highs; Hainan Haiyao posted a fourth consecutive daily limit-up; CSPC Jingfeng and Lianhua Technology hit daily limits; Hotgen Biotech jumped over 15%, while CSPC Innovation, Wanbang Pharma, JinYao Pharmaceutical, Kangzhi Pharmaceutical and Shuanglu Pharmaceutical also climbed."
     }
   ]
 }

@@ -1,7 +1,67 @@
 {
   "date": "2026-07-09",
-  "count": 1628,
+  "count": 1634,
   "items": [
+    {
+      "id": "mkt:019f457b-1710-7aab-8d0b-01d6ef6b2633",
+      "time": "2026-07-09 14:05:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian state media reported the military said its drones struck a US \"Patriot\" air-defence battery in Kuwait, a satellite antenna in Qatar and a US military fuel storage facility in Bahrain."
+    },
+    {
+      "id": "4978283",
+      "time": "2026-07-09 14:04:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷概念震盪走強，冰輪環境漲停】液冷概念震盪走強，冰輪環境漲停，大元泵業、鑫磊股份、金富科技、博傑股份、歐陸通漲幅居前。"
+    },
+    {
+      "id": "4978282",
+      "time": "2026-07-09 14:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方稱其用無人機襲擊了位於科威特的美國愛國者防空系統、卡達的衛星天線以及巴林的美軍燃料儲存設施。"
+    },
+    {
+      "id": "4978281",
+      "time": "2026-07-09 14:04:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【降雨量將超過100毫米 甘肅榆中啟動防汛抗洪Ⅲ級應急響應】記者從甘肅省蘭州市榆中縣防汛抗旱指揮部辦公室瞭解到，受暖溼氣流和冷渦底部冷空氣共同影響，預計7月9日夜間至12日上午，榆中縣將出現持續性降水過程，南部及北部有暴雨，累計降雨量可達60～80毫米，個別站點超過100毫米，其餘地區累計降雨量30～50毫米。降水以對流性開始，主要對流時段為9日23時至10日8時，最大小時雨強30～50毫米；10日9時起轉為穩定性降水。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4578-4a2d-7aab-8d0a-fd6740990e71",
+      "time": "2026-07-09 14:02:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures up 1.19%, DAX futures up 0.96%, FTSE 100 futures up 0.43%."
+    },
+    {
+      "id": "4978280",
+      "time": "2026-07-09 14:02:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨<STXEc1>上漲1.19%，德國DAX指數期貨<FDXc1>上漲0.96%，富時指數期貨<FFIc1>上漲0.43%。"
+    },
     {
       "id": "mkt:019f4577-b0d7-7aab-8d0a-f5fda6e65c83",
       "time": "2026-07-09 14:01:39",
