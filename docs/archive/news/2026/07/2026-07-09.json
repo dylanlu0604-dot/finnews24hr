@@ -1,7 +1,100 @@
 {
   "date": "2026-07-09",
-  "count": 3201,
+  "count": 3211,
   "items": [
+    {
+      "id": "mkt:019f4758-1c36-7aab-8d1b-f4c1d2394cef",
+      "time": "2026-07-09 22:46:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran foreign minister Araghchi said Iran has the right to self-defense to respond to any further provocative actions by U.S. forces."
+    },
+    {
+      "id": "mkt:019f4757-9617-7aab-8d1b-e862ead5188f",
+      "time": "2026-07-09 22:45:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Bavi weakens to strong typhoon at 20:00; may re-strengthen to super typhoon tomorrow】China Weather Network reported that at 20:00 tonight Typhoon Bavi weakened to a strong typhoon, with maximum winds near the center of 15 on the Chinese scale (48 m/s). Prior to this Bavi had sustained super-typhoon intensity for 138 consecutive hours. Bavi is expected to intensify again during tomorrow daytime and may return to super-typhoon strength; it remains a system requiring high vigilance."
+    },
+    {
+      "id": "4979484",
+      "time": "2026-07-09 22:45:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：墨卡託收購專案開盤價10.03美元，IPO發行價10美元。"
+    },
+    {
+      "id": "mkt:019f4757-2217-7aab-8d1b-e2262cd34312",
+      "time": "2026-07-09 22:45:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran foreign minister Araghchi warned US forces against undertaking any risky actions and said the Islamic Revolutionary Guard Corps (IRGC) is firmly resolved to defend Iran's sovereignty, territorial integrity and national security."
+    },
+    {
+      "id": "4979483",
+      "time": "2026-07-09 22:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "大宗商品資料分析機構克普勒（Kpler）資料顯示，7月美國原油日出口量大機率回落至400萬桶以下，這一數值上一次出現還是在今年2月衝突爆發之前。"
+    },
+    {
+      "id": "mkt:019f4756-dc8c-7aab-8d1b-dcb31928f7b4",
+      "time": "2026-07-09 22:45:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign minister Araghchi said US officials' remarks amount to an admission of US non-compliance with the memorandum, calling it clear evidence of US bad faith and of a continued hawkish policy."
+    },
+    {
+      "id": "4979482",
+      "time": "2026-07-09 22:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "週四美國普通汽油均價為每加侖3.85美元，而衝突爆發之初這一價格僅為2.98美元。"
+    },
+    {
+      "id": "mkt:019f4756-93bf-7aab-8d1b-d587b66bdb71",
+      "time": "2026-07-09 22:44:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran foreign minister Araghchi said US forces launched aggressive attacks across multiple parts of Iran, flagrantly violating the UN Charter and seriously breaching the Islamabad memorandum's end-of-war clause."
+    },
+    {
+      "id": "4979481",
+      "time": "2026-07-09 22:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長與巴基斯坦陸軍參謀長討論地區最新局勢。"
+    },
+    {
+      "id": "4979480",
+      "time": "2026-07-09 22:43:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月10日盧布官方匯率定為1美元兌75.9300盧布（PVS匯率為76.4026）。"
+    },
     {
       "id": "4979479",
       "time": "2026-07-09 22:41:25",

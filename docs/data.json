@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-09 22:43:13",
+  "updated": "2026-07-09 22:47:16",
   "count": 15940,
   "items": [
+    {
+      "id": "mkt:019f4758-1c36-7aab-8d1b-f4c1d2394cef",
+      "time": "2026-07-09 22:46:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran foreign minister Araghchi said Iran has the right to self-defense to respond to any further provocative actions by U.S. forces."
+    },
+    {
+      "id": "mkt:019f4757-9617-7aab-8d1b-e862ead5188f",
+      "time": "2026-07-09 22:45:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Bavi weakens to strong typhoon at 20:00; may re-strengthen to super typhoon tomorrow】China Weather Network reported that at 20:00 tonight Typhoon Bavi weakened to a strong typhoon, with maximum winds near the center of 15 on the Chinese scale (48 m/s). Prior to this Bavi had sustained super-typhoon intensity for 138 consecutive hours. Bavi is expected to intensify again during tomorrow daytime and may return to super-typhoon strength; it remains a system requiring high vigilance."
+    },
+    {
+      "id": "4979484",
+      "time": "2026-07-09 22:45:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：墨卡託收購專案開盤價10.03美元，IPO發行價10美元。"
+    },
+    {
+      "id": "mkt:019f4757-2217-7aab-8d1b-e2262cd34312",
+      "time": "2026-07-09 22:45:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran foreign minister Araghchi warned US forces against undertaking any risky actions and said the Islamic Revolutionary Guard Corps (IRGC) is firmly resolved to defend Iran's sovereignty, territorial integrity and national security."
+    },
+    {
+      "id": "4979483",
+      "time": "2026-07-09 22:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "大宗商品資料分析機構克普勒（Kpler）資料顯示，7月美國原油日出口量大機率回落至400萬桶以下，這一數值上一次出現還是在今年2月衝突爆發之前。"
+    },
+    {
+      "id": "mkt:019f4756-dc8c-7aab-8d1b-dcb31928f7b4",
+      "time": "2026-07-09 22:45:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign minister Araghchi said US officials' remarks amount to an admission of US non-compliance with the memorandum, calling it clear evidence of US bad faith and of a continued hawkish policy."
+    },
+    {
+      "id": "4979482",
+      "time": "2026-07-09 22:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "週四美國普通汽油均價為每加侖3.85美元，而衝突爆發之初這一價格僅為2.98美元。"
+    },
+    {
+      "id": "mkt:019f4756-93bf-7aab-8d1b-d587b66bdb71",
+      "time": "2026-07-09 22:44:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran foreign minister Araghchi said US forces launched aggressive attacks across multiple parts of Iran, flagrantly violating the UN Charter and seriously breaching the Islamabad memorandum's end-of-war clause."
+    },
+    {
+      "id": "4979481",
+      "time": "2026-07-09 22:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長與巴基斯坦陸軍參謀長討論地區最新局勢。"
+    },
+    {
+      "id": "4979480",
+      "time": "2026-07-09 22:43:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月10日盧布官方匯率定為1美元兌75.9300盧布（PVS匯率為76.4026）。"
+    },
     {
       "id": "4979479",
       "time": "2026-07-09 22:41:25",
@@ -145558,94 +145651,6 @@
         "SNDK.O"
       ],
       "text": "U.S. storage stocks extended their pullback: Micron (MU.O) down more than 3%, Western Digital (WDC.O) down more than 5%, SanDisk (SNDK.O) down more than 9%."
-    },
-    {
-      "id": "mkt:019f234c-3f34-7aab-8c7e-cf54a1d8736c",
-      "time": "2026-07-02 22:47:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automated detection: 22:44 on July 2 — ~M4.3 earthquake near Yilan County, Taiwan. Final result pending official quick report."
-    },
-    {
-      "id": "4967981",
-      "time": "2026-07-02 22:46:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月02日22時44分在臺灣宜蘭縣附近（北緯24.40度，東經121.74度）發生4.3級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4967980",
-      "time": "2026-07-02 22:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：黎巴嫩軍方總司令會見英國、巴基斯坦外交官，磋商以黎雙方簽署的框架協議，以及軍方所需的國際援助事宜。"
-    },
-    {
-      "id": "mkt:019f234b-9884-7aab-8c7e-c1fc7e52e4b2",
-      "time": "2026-07-02 22:46:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "Nasdaq-100 futures fell as much as 1%. Nasdaq erased earlier gains and is down 0.2%; the S&P 500's advance narrowed to 0.2% while the Dow Jones is up 0.7%."
-    },
-    {
-      "id": "4967979",
-      "time": "2026-07-02 22:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京人工智慧賦能科學研究實施方案啟動】記者從北京市相關部門瞭解到，為進一步發揮北京教育、科技、人才資源優勢，加快推動人工智慧賦能科學研究，以人工智慧引領科研正規化變革，促進各領域科學研究加速突破，提升科學研究效能，推動科技創新和產業創新深度融合，支撐北京（京津冀）國際科技創新中心建設，2026年6月30日，中共北京市委教育科技人才工作領導小組印發《北京市加快推進人工智慧賦能科學研究實施方案（2026—2028年）》，從自主實驗室建設、標杆場景應用、科學模型構建、科學資料供給、創新生態營造等方面系統部署，全面推動科學智慧創新發展。當前，人工智慧正重塑科學研究的正規化與路徑，成為驅動科學研究突破、催生重大原創成果的關鍵力量，是全球科技強國重點佈局的前沿賽道。北京作為全國的科學中心及人才高地，創新資源優勢顯著：擁有90多所高校，100多萬科研從業者，800多位兩院院士，2025年高被引科學家400人次；4個國家實驗室，145家在京全國重點實驗室佔全國總量的近三成。全社會研發投入強度多年保持在6%以上，基礎研究投入比重保持在16%左右，連續9年穩居自然指數-科研城市全球榜首，入選“中國科學十大進展”成果數量佔全國近一半。（央視財經）"
-    },
-    {
-      "id": "4967978",
-      "time": "2026-07-02 22:45:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股儲存板塊繼續回撥】美股儲存板塊繼續回撥，美光科技跌3.47%，西部資料跌5.09%，希捷科技跌5.40%，閃迪跌8.83%，鎧俠ADR跌9.30%。"
-    },
-    {
-      "id": "4967977",
-      "time": "2026-07-02 22:45:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奈及利亞中部發生暴力衝突致18人死亡】奈及利亞中部尼日州警方2日表示，該州本週以來因土地糾紛引發的暴力衝突已造成至少18人死亡。 尼日州警方發言人說，此次衝突於6月29日爆發，並於7月1日進一步升級。衝突起因是當地兩個族群之間長期存在的土地糾紛。 警方還說，地方政府已牽頭成立調解委員會，並與安全部門合作，推動化解衝突。由警方和軍方組成的聯合安全部隊也已部署至事發地區，以恢復當地秩序。（新華社）"
-    },
-    {
-      "id": "4967976",
-      "time": "2026-07-02 22:45:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【熱浪影響法國阿爾卑斯山區 登山風險上升】法國近期遭遇罕見熱浪，全國多數省份釋出高溫紅色預警，多地氣溫突破40攝氏度。持續高溫也影響到法國東南部阿爾卑斯山區，冰雪狀況不穩定導致勃朗峰多條登山線路安全風險顯著上升。（央視新聞）"
-    },
-    {
-      "id": "4967975",
-      "time": "2026-07-02 22:44:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陳小江艾爾肯·吐尼亞孜會見中國南水北調集團董事長汪安南】新疆自治區黨委書記陳小江、新疆自治區主席艾爾肯·吐尼亞孜7月2日在烏魯木齊會見了中國南水北調集團董事長汪安南。"
-    },
-    {
-      "id": "4967974",
-      "time": "2026-07-02 22:43:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，道瓊斯指數期貨漲0.62%，標普500指數期貨漲0.01%。"
     }
   ]
 }
