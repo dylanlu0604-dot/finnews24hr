@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-10 01:38:51",
-  "count": 15881,
+  "updated": "2026-07-10 01:42:40",
+  "count": 15878,
   "items": [
+    {
+      "id": "mkt:019f47f7-67a7-7aab-8d1f-38a4af9a395c",
+      "time": "2026-07-10 01:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says allies will discuss cooperation on anti-ballistic missile defenses at an upcoming conference in France."
+    },
+    {
+      "id": "4979620",
+      "time": "2026-07-10 01:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 各盟國將於近期在法國召開會議，商討反導相關部署事宜。"
+    },
     {
       "id": "mkt:019f47f5-6574-7aab-8d1f-3796ed632fb1",
       "time": "2026-07-10 01:38:12",
@@ -145110,56 +145126,6 @@
         "Brent"
       ],
       "text": "British Columbia premier said the agreement does not require the province to support Alberta's pipeline proposal, but acknowledged British Columbia lacks constitutional authority to veto the pipeline."
-    },
-    {
-      "id": "4968176",
-      "time": "2026-07-03 01:42:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大不列顛哥倫比亞省省長埃比：該協議並不意味著不列顛哥倫比亞省必須支援阿爾伯塔省的管道專案，但該省承認其在憲法層面無權否決該管道專案。"
-    },
-    {
-      "id": "mkt:019f23ec-83e6-7aab-8c82-16d852c424b4",
-      "time": "2026-07-03 01:42:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fars News reported the Iranian president dismissed criticism over supplying 20 mln barrels of oil to a company, calling it an internal disclosure issue, and said he would be willing to supply 100 mln barrels if a similar case occurred."
-    },
-    {
-      "id": "mkt:019f23ec-24a2-7aab-8c82-09168bfc44a0",
-      "time": "2026-07-03 01:41:46",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "According to Fars News, Iran's president said supporting the armed forces is his duty and he will back them with all available force."
-    },
-    {
-      "id": "mkt:019f23ea-06ae-7aab-8c82-00fb19e00d53",
-      "time": "2026-07-03 01:39:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "According to The Information, Microsoft Copilot chief Jacob Andrew is trimming low-value Copilot features."
-    },
-    {
-      "id": "4968175",
-      "time": "2026-07-03 01:39:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟將整合消費端與企業端 Copilot 為統一應用】據報道，微軟一名高管週四上午對內告知員工，公司正計劃將面向普通使用者與企業使用者的兩款 Copilot 人工智慧聊天機器人合併為一款獨立應用，以此打造實力更強的競品，對標 Anthropic 的 Claude 以及 OpenAI 的 ChatGPT。內部備忘錄顯示，執行副總裁雅各布・安德烈烏在這份 1200 字的檔案中表示，這款全新統一版應用還將搭載 AI 程式設計工具，以及多款全新智慧代理功能，該類功能需使用者額外付費使用。備忘錄提及，全新智慧代理系列命名為 AutoPilot，主打 “全天候線上”，可代使用者處理各類事務，實現 “繁雜工作自動化”。微軟此前已展示過一款名為 Scout 的 AutoPilot 智慧代理，該工具能夠整理使用者日程、監控收件箱，並彙總生成精選郵件摘要。目前安德烈烏統籌多個團隊，研發其他多品類同類智慧代理。"
     }
   ]
 }

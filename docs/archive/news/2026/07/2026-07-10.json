@@ -1,7 +1,23 @@
 {
   "date": "2026-07-10",
-  "count": 125,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:019f47f7-67a7-7aab-8d1f-38a4af9a395c",
+      "time": "2026-07-10 01:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says allies will discuss cooperation on anti-ballistic missile defenses at an upcoming conference in France."
+    },
+    {
+      "id": "4979620",
+      "time": "2026-07-10 01:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 各盟國將於近期在法國召開會議，商討反導相關部署事宜。"
+    },
     {
       "id": "mkt:019f47f5-6574-7aab-8d1f-3796ed632fb1",
       "time": "2026-07-10 01:38:12",
