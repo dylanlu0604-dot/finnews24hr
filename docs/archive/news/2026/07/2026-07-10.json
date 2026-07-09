@@ -1,7 +1,32 @@
 {
   "date": "2026-07-10",
-  "count": 140,
+  "count": 142,
   "items": [
+    {
+      "id": "mkt:019f480c-9c2a-7aab-8d1f-6d0044bb3b95",
+      "time": "2026-07-10 02:03:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Bank of France says France will record growth in Q2 and avoid a recession."
+    },
+    {
+      "id": "mkt:019f480c-81c5-7aab-8d1f-654cbe0c6505",
+      "time": "2026-07-10 02:03:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Banque de France revised its Q2 GDP growth forecast to 0.2% from 0.0%."
+    },
     {
       "id": "4979628",
       "time": "2026-07-10 02:00:31",

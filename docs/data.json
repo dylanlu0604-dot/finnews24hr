@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-10 02:01:44",
-  "count": 15863,
+  "updated": "2026-07-10 02:05:33",
+  "count": 15859,
   "items": [
+    {
+      "id": "mkt:019f480c-9c2a-7aab-8d1f-6d0044bb3b95",
+      "time": "2026-07-10 02:03:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Bank of France says France will record growth in Q2 and avoid a recession."
+    },
+    {
+      "id": "mkt:019f480c-81c5-7aab-8d1f-654cbe0c6505",
+      "time": "2026-07-10 02:03:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Banque de France revised its Q2 GDP growth forecast to 0.2% from 0.0%."
+    },
     {
       "id": "4979628",
       "time": "2026-07-10 02:00:31",
@@ -144933,61 +144958,6 @@
         "其他"
       ],
       "text": "【阿爾及利亞舉行議會選舉】阿爾及利亞議會2日舉行選舉，超2470萬名阿爾及利亞登記選民參與投票。本次選舉共有9854名候選人角逐國民議會（眾議院）的407個席位。在所有候選人中，女性佔21%，40歲以下候選人佔54%。（新華社）"
-    },
-    {
-      "id": "mkt:019f2400-9a4f-7aab-8c82-8dc2a74515e5",
-      "time": "2026-07-03 02:04:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK prime ministerial candidate Burnham said he believes defence spending plans must be taken seriously by the state."
-    },
-    {
-      "id": "4968195",
-      "time": "2026-07-03 02:03:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆談國防開支計劃：我認為這是英國必須嚴肅面對的問題。"
-    },
-    {
-      "id": "mkt:019f23ff-fc26-7aab-8c82-817c3ea9b5da",
-      "time": "2026-07-03 02:03:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime minister candidate Burnham said he will take full responsibility and fully implement the defence spending plan."
-    },
-    {
-      "id": "mkt:019f23ff-d487-7aab-8c82-7bfcdaa94b0f",
-      "time": "2026-07-03 02:03:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK prime minister candidate Burnham said there are grounds to raise business rates on warehouses."
-    },
-    {
-      "id": "mkt:019f23ff-d472-7aab-8c82-756bc1bf8738",
-      "time": "2026-07-03 02:03:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime minister candidate Burnham said there is room for tax changes under the Labour manifesto."
-    },
-    {
-      "id": "4968194",
-      "time": "2026-07-03 02:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國工黨領袖候選人伯納姆：我將履行職責，為國防開支計劃提供足額資金。"
     }
   ]
 }
