@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-10 04:31:35",
-  "count": 15909,
+  "updated": "2026-07-10 04:35:33",
+  "count": 15907,
   "items": [
+    {
+      "id": "4979746",
+      "time": "2026-07-10 04:33:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "據SEC檔案披露：摩根士丹利直接放貸基金髮行3.5億美元2031年到期6.1%利率票據。"
+    },
+    {
+      "id": "4979745",
+      "time": "2026-07-10 04:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮指示商務部和貿易代表辦公室推進談判。"
+    },
     {
       "id": "4979744",
       "time": "2026-07-10 04:29:47",
@@ -145320,48 +145336,6 @@
         "國際"
       ],
       "text": "【烏克蘭首都基輔遭空襲致27死91傷】烏克蘭基輔市軍事管理局局長特卡琴科2日晚在社交媒體發文稱，俄軍1日晚至2日凌晨對基輔市發動的大規模空襲已造成27人死亡、91人受傷。特卡琴科稱，俄軍襲擊導致達爾尼茨基區一處居民區5人死亡，尚有8人下落不明。目前，搜救工作仍在進行，傷亡人數可能繼續增加。2日下午，在達爾尼茨基區遇襲現場，烏國家緊急情況局發言人告訴新華社記者，基輔市已投入130套裝置和500名救援人員在全市39處遇襲地點展開救援。（新華社）"
-    },
-    {
-      "id": "te:markets:563878",
-      "time": "2026-07-03 04:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index went up by 539 points or 1.03 percent on Thursday to close at 52844 points. The rise was led by Apple (4.80%), McDonalds (4.07%) and Walt Disney (3.84%)."
-    },
-    {
-      "id": "mkt:019f2489-5048-7aab-8c84-3135c1c99158",
-      "time": "2026-07-03 04:33:26",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Foreign central banks' holdings of US Treasuries fell $11.06bn in the week to June 26, versus a $5.66bn increase in the prior week."
-    },
-    {
-      "id": "4968273",
-      "time": "2026-07-03 04:33:23",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至6月26日當週外國央行持有美國國債 -110.64億美元，前值56.56億美元。"
-    },
-    {
-      "id": "mkt:019f2489-1fff-7aab-8c84-2aa57bb8bb4d",
-      "time": "2026-07-03 04:33:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.26) | actual -11064000000B | previous 5656000000B"
     }
   ]
 }
