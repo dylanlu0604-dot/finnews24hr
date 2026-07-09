@@ -1,7 +1,33 @@
 {
   "date": "2026-07-10",
-  "count": 179,
+  "count": 182,
   "items": [
+    {
+      "id": "4979645",
+      "time": "2026-07-10 02:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部阿巴斯港傳出爆炸聲】據伊朗邁赫爾通訊社報道，伊朗南部阿巴斯港當地時間9日晚傳出數次爆炸聲。（新華社）"
+    },
+    {
+      "id": "mkt:019f482f-952d-7aab-8d20-0683ea6c7100",
+      "time": "2026-07-10 02:41:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【New York Fed Perli: reserve-management purchases to remain flexible】New York Fed Open Market Account manager Perli said reserve-management purchase operations have no preset path; the Desk can raise or cut purchases depending on money-market conditions. She said the Desk is ready to implement any balance-sheet or rate-control changes the Committee may decide after Fed chair Kevin Warsh appointed a working group on the Fed’s balance sheet. The Fed began reserve-management purchases in December to offset an expected sharp April reserve drain from tax inflows into the Treasury general account, which reduce banking system reserves as Treasury balances at the Fed rise."
+    },
+    {
+      "id": "4979644",
+      "time": "2026-07-10 02:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京下令對烏斯季盧加石油港實施臨時管控。"
+    },
     {
       "id": "mkt:019f482e-a63b-7aab-8d1f-ff7032bcd83e",
       "time": "2026-07-10 02:40:44",

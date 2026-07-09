@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-10 02:41:15",
-  "count": 15848,
+  "updated": "2026-07-10 02:45:08",
+  "count": 15849,
   "items": [
+    {
+      "id": "4979645",
+      "time": "2026-07-10 02:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部阿巴斯港傳出爆炸聲】據伊朗邁赫爾通訊社報道，伊朗南部阿巴斯港當地時間9日晚傳出數次爆炸聲。（新華社）"
+    },
+    {
+      "id": "mkt:019f482f-952d-7aab-8d20-0683ea6c7100",
+      "time": "2026-07-10 02:41:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【New York Fed Perli: reserve-management purchases to remain flexible】New York Fed Open Market Account manager Perli said reserve-management purchase operations have no preset path; the Desk can raise or cut purchases depending on money-market conditions. She said the Desk is ready to implement any balance-sheet or rate-control changes the Committee may decide after Fed chair Kevin Warsh appointed a working group on the Fed’s balance sheet. The Fed began reserve-management purchases in December to offset an expected sharp April reserve drain from tax inflows into the Treasury general account, which reduce banking system reserves as Treasury balances at the Fed rise."
+    },
+    {
+      "id": "4979644",
+      "time": "2026-07-10 02:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京下令對烏斯季盧加石油港實施臨時管控。"
+    },
     {
       "id": "mkt:019f482e-a63b-7aab-8d1f-ff7032bcd83e",
       "time": "2026-07-10 02:40:44",
@@ -144847,30 +144873,6 @@
         "其他"
       ],
       "text": "惠譽評級：多明尼加共和國稅制改革緩解石油衝擊帶來的財政壓力。"
-    },
-    {
-      "id": "mkt:019f2422-d43f-7aab-8c83-1880b388bec1",
-      "time": "2026-07-03 02:41:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister said regional peace can be maintained only under comprehensive, inclusive conditions free of external interference."
-    },
-    {
-      "id": "mkt:019f2422-d036-7aab-8c83-15166906dce8",
-      "time": "2026-07-03 02:41:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign minister said U.S. Central Command has brought instability rather than security to the region, calling the answer 'obvious', and added that Iran's powerful armed forces have shown external actors cannot even protect themselves."
     }
   ]
 }
