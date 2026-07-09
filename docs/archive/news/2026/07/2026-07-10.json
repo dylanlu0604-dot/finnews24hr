@@ -1,7 +1,75 @@
 {
   "date": "2026-07-10",
-  "count": 415,
+  "count": 423,
   "items": [
+    {
+      "id": "4979813",
+      "time": "2026-07-10 06:46:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【投資培育上市公司達300家，深創投：推動資本和產業深度融合】 7月9日，深創投已投企業珞石機器人在港交所主機板上市，當天收盤大漲15.21%。據悉，這也是深創投投資培育的第300家上市公司。深創投近日釋出的2025年度報告顯示，截至2025年末，深創投二十餘年來累計投資企業已超過1700家。2025年公司全年決策專案金額超100億元，其中九成以上投向早期和成長期專案。"
+    },
+    {
+      "id": "mkt:019f490f-9128-7aab-8d22-196711df7d50",
+      "time": "2026-07-10 06:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said the Israel-Cyprus pipeline will be built. He added Israel knows how to defend itself, will not take orders from others, and those who threaten Israel will not fare well."
+    },
+    {
+      "id": "te:markets:565806",
+      "time": "2026-07-10 06:45:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Rises by 1.68% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.68% increase."
+    },
+    {
+      "id": "mkt:019f490d-dc03-7aab-8d22-15a6ba349f01",
+      "time": "2026-07-10 06:44:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said Israel must work with the U.S. to prevent Turkey from acquiring advanced weapons and press Washington to preserve Israel's qualitative military edge."
+    },
+    {
+      "id": "mkt:019f490d-515c-7aab-8d22-0e4583bc4e17",
+      "time": "2026-07-10 06:43:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said Israel must prevent Turkey from establishing a military presence in Syria, and that if Turkey establishes military bases there, Israel will take similar measures."
+    },
+    {
+      "id": "4979812",
+      "time": "2026-07-10 06:43:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列能源部長科恩：以色列 — 塞普勒斯天然氣管道專案必將落地；以色列具備自主防衛能力，不會屈從於他人擺佈；任何威脅以色列的勢力都不會有好下場。"
+    },
+    {
+      "id": "4979811",
+      "time": "2026-07-10 06:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列能源部長科恩：以色列須與美國協作，阻止土耳其獲取先進武器，並敦促美方維護以色列的軍事質量優勢。"
+    },
+    {
+      "id": "4979810",
+      "time": "2026-07-10 06:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列能源部長科恩表示：以色列必須阻止土耳其在敘利亞部署軍事力量；其向內閣發出警告，若土耳其在敘利亞修建軍事基地，以色列將採取對等行動。"
+    },
     {
       "id": "te:markets:565805",
       "time": "2026-07-10 06:40:13",
