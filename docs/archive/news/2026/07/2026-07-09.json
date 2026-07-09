@@ -1,7 +1,154 @@
 {
   "date": "2026-07-09",
-  "count": 2868,
+  "count": 2884,
   "items": [
+    {
+      "id": "4979253",
+      "time": "2026-07-09 21:00:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國氣象預報機構氣候預測中心釋出厄爾尼諾月度公告。"
+    },
+    {
+      "id": "4979252",
+      "time": "2026-07-09 21:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合健康保險推出新型支出賬戶福利，將更多選擇權交到消費者手中。"
+    },
+    {
+      "id": "4979251",
+      "time": "2026-07-09 21:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文作為創始合夥人加入IMSA實驗室，以推動人工智慧與賽車運動創新加速落地。"
+    },
+    {
+      "id": "mkt:019f46f6-ddd5-7aab-8d17-dae0514cedce",
+      "time": "2026-07-09 21:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Russia's central bank gold and foreign-exchange reserves were $721.7 billion in the week to July 7, up from $715.2 billion the prior week."
+    },
+    {
+      "id": "4979250",
+      "time": "2026-07-09 21:00:07",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至7月7日當週央行黃金和外匯儲備 7217億美元，前值7152億美元。"
+    },
+    {
+      "id": "mkt:019f46f6-be96-7aab-8d17-d4d62b300e54",
+      "time": "2026-07-09 21:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jul.7) | actual 721700000000B | previous 715200000000B"
+    },
+    {
+      "id": "4979249",
+      "time": "2026-07-09 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌5.39%，集運指數歐線期貨連續跌5.26%，錫連續漲2.44%，鈀連續跌2.06%，菜籽連續跌1.83%。"
+    },
+    {
+      "id": "mkt:019f46f6-3df9-7aab-8d17-cf1c60473ab3",
+      "time": "2026-07-09 20:59:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "WILLIAMS said he does not believe stablecoins will increase financial stability risks."
+    },
+    {
+      "id": "mkt:019f46f5-ff38-7aab-8d17-c6bd953ed3d1",
+      "time": "2026-07-09 20:59:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【SpaceX launched 1,589 Starlink satellites in 1H 2026; could surpass 2025 annual record】SpaceX boosted Starlink deployment with 1,589 satellites placed into low-Earth orbit in 1H 2026 versus 1,489 in 1H 2025. In 2025 SpaceX set an annual record with 3,180 Starlink launches; total launches to date exceed 12,400 with about 11,000 currently operational. By comparison, Amazon’s LEO service has deployed roughly 400 satellites in the past 15 months against a planned constellation of 3,232."
+    },
+    {
+      "id": "mkt:019f46f5-9135-7aab-8d17-bd605baf7323",
+      "time": "2026-07-09 20:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WILLIAMS said he is less concerned about risks posed by stablecoins than some."
+    },
+    {
+      "id": "4979248",
+      "time": "2026-07-09 20:58:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國電網週四將電力儲備缺口預警下調至900兆瓦。"
+    },
+    {
+      "id": "mkt:019f46f5-44d8-7aab-8d17-b263895f32b1",
+      "time": "2026-07-09 20:58:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Dombrovskis: European economy showing resilience."
+    },
+    {
+      "id": "4979247",
+      "time": "2026-07-09 20:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約證券交易所：巴西蔚藍航空（Azul）正式登陸紐交所主機板掛牌交易。"
+    },
+    {
+      "id": "4979246",
+      "time": "2026-07-09 20:57:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：穩定幣更多是用於支付，而非價值儲存手段。"
+    },
+    {
+      "id": "mkt:019f46f4-406c-7aab-8d17-ad84e7a7b20b",
+      "time": "2026-07-09 20:57:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Micron to boost US investment to over $250 billion by 2035】Micron Technology said it will accelerate US fab and technology spending amid surging AI-era memory demand and expects cumulative US investment to exceed $250 billion by 2035. The company said the increase would support a long-term goal of producing 40% of its DRAM in the United States and includes up to $3 billion to develop a domestic semiconductor supply-chain ecosystem."
+    },
+    {
+      "id": "4979245",
+      "time": "2026-07-09 20:57:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟專員東布羅夫斯基斯：歐洲經濟展現出韌性。"
+    },
     {
       "id": "mkt:019f46f4-27c0-7aab-8d17-a5ea5a5a90b1",
       "time": "2026-07-09 20:57:13",
