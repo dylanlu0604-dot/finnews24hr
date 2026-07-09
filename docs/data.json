@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-10 02:52:55",
-  "count": 15848,
+  "updated": "2026-07-10 02:56:49",
+  "count": 15847,
   "items": [
+    {
+      "id": "mkt:019f483c-7561-7aab-8d20-25a8d43fbb05",
+      "time": "2026-07-10 02:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Bushehr provincial governor says authorities are investigating explosions in Bushehr and Jaghadehk to determine whether they were caused by air-defence systems or hostile projectiles."
+    },
+    {
+      "id": "4979652",
+      "time": "2026-07-10 02:54:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車工會委員會：向執行長下達最後通牒，不會支援關閉工廠，僅支援自願裁員方案。"
+    },
+    {
+      "id": "mkt:019f483a-5f1b-7aab-8d20-1884e80443b3",
+      "time": "2026-07-10 02:53:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $76.30/bbl, down $1.72 or 2.2%."
+    },
     {
       "id": "mkt:019f4839-671b-7aab-8d20-16498906de43",
       "time": "2026-07-10 02:52:29",
@@ -144838,47 +144866,6 @@
         "Impact bearish"
       ],
       "text": "Meta Platforms (META.O) slipped intraday, down 4.89%."
-    },
-    {
-      "id": "mkt:019f2430-6146-7aab-8c83-3e4dde71d8cc",
-      "time": "2026-07-03 02:56:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said development of AI agents has not accelerated in the past four months as expected."
-    },
-    {
-      "id": "4968231",
-      "time": "2026-07-03 02:55:11",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Meta執行長馬克·扎克伯格在內部全體會議上表示，過去四個月人工智慧代理的開發進展並未\"如我們預期般加速\"。"
-    },
-    {
-      "id": "4968230",
-      "time": "2026-07-03 02:53:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶71.80美元，上漲23美分，漲幅0.32%。"
-    },
-    {
-      "id": "4968229",
-      "time": "2026-07-03 02:53:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江能科回覆問詢函 2025年來自於“三桶油”的收入佔比下降至約24%】7月2日，被賣方研究機構冠以“電脫裝置隱形冠軍”的長江能科（920158.BJ，股價8.29元，市值16.55億元）回覆了北交所針對其2025年年報的問詢函。長江能科主要的營業收入來源於電脫鹽和電脫水裝置，其下游客戶主要為油氣石化企業。北交所要求長江能科說明“與中石油、中石化、中海油合作關係是否穩定、合作模式是否發生重大變化”。長江能科表示，境外收入增長，系公司抓住境外市場需求增長的機遇，加大境外市場拓展力度，持續獲得境外優質客戶准入，2024年新增境外在手訂單增加所致。在境外市場環境和需求保持穩定的情況下，隨著公司持續加大境外業務拓展力度，境外收入增長具備可持續性。 長江能科回覆稱，2024年度、2025年度，公司收入來自於中石油、中石化、中海油的收入分別約1.7億元、0.7億元，佔當期營業收入的比重分別為55.53%、23.74%，2025年度收入及佔比有所下降。（每經）"
     }
   ]
 }

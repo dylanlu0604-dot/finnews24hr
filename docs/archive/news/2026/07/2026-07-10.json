@@ -1,7 +1,35 @@
 {
   "date": "2026-07-10",
-  "count": 190,
+  "count": 193,
   "items": [
+    {
+      "id": "mkt:019f483c-7561-7aab-8d20-25a8d43fbb05",
+      "time": "2026-07-10 02:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Bushehr provincial governor says authorities are investigating explosions in Bushehr and Jaghadehk to determine whether they were caused by air-defence systems or hostile projectiles."
+    },
+    {
+      "id": "4979652",
+      "time": "2026-07-10 02:54:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車工會委員會：向執行長下達最後通牒，不會支援關閉工廠，僅支援自願裁員方案。"
+    },
+    {
+      "id": "mkt:019f483a-5f1b-7aab-8d20-1884e80443b3",
+      "time": "2026-07-10 02:53:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $76.30/bbl, down $1.72 or 2.2%."
+    },
     {
       "id": "mkt:019f4839-671b-7aab-8d20-16498906de43",
       "time": "2026-07-10 02:52:29",
