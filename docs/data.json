@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-10 01:15:40",
-  "count": 15885,
+  "updated": "2026-07-10 01:19:31",
+  "count": 15882,
   "items": [
+    {
+      "id": "mkt:019f47e1-af77-7aab-8d1e-c27254128cbe",
+      "time": "2026-07-10 01:16:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $5.772 billion from six counterparties in fixed‑rate reverse repurchase operations."
+    },
+    {
+      "id": "4979607",
+      "time": "2026-07-10 01:16:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（7月9日），美聯儲隔夜逆回購協議（RRP）使用規模為57.72億美元（交易對手6家），上個交易日報33.47億美元。"
+    },
+    {
+      "id": "mkt:019f47e0-929f-7aab-8d1e-bbbfe412cfe5",
+      "time": "2026-07-10 01:15:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI launches ChatGPT Work agent for extended multi-hour task processing】OpenAI launched ChatGPT Work, an AI agent designed to run for hours to handle broader, more complex tasks and to expand appeal to business professionals. The tool assists with creating documents, spreadsheets, presentations and web applications and is powered by OpenAI's latest model, GPT-5.6."
+    },
+    {
+      "id": "4979606",
+      "time": "2026-07-10 01:15:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 烏克蘭希望借鑑日本三菱公司生產愛國者攔截彈的相關經驗。"
+    },
     {
       "id": "mkt:019f47e0-1e2d-7aab-8d1e-b5be170c4a8a",
       "time": "2026-07-10 01:14:57",
@@ -145108,74 +145146,6 @@
         "國際"
       ],
       "text": "歐盟卡拉斯：歐盟對黎巴嫩與以色列在華盛頓簽署框架協議表示歡迎。該協議要求真主黨解除武裝，以便以色列國防軍逐步撤出黎巴嫩領土。"
-    },
-    {
-      "id": "mkt:019f23d7-63fb-7aab-8c81-a908fe2c7bf4",
-      "time": "2026-07-03 01:19:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Citigroup says current aluminium prices do not constitute an attractive short; it expects prices to bottom and rebound within a month, rising to $3,300-3,500/tonne in Sep-Dec."
-    },
-    {
-      "id": "4968156",
-      "time": "2026-07-03 01:18:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【肯亞加緊從南非撤僑】肯亞內閣首席部長兼外長穆達瓦迪2日表示，鑑於南非反移民暴力和排外抗議活動持續升級，肯亞加大了撤離工作，已經撤離151名在南非的肯公民。（新華社）"
-    },
-    {
-      "id": "4968155",
-      "time": "2026-07-03 01:18:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【凱投宏觀：美聯儲加息料將無法避免】美國勞工統計局釋出最新就業報告後，投資者情緒有所改善，該報告顯示6月份新增了5.7萬個就業崗位。這一數字大約是分析師預期的一半，但投資者對至少在目前能夠避免加息變得更加樂觀。但凱投宏觀的Jonas Goltermann在一份報告中表示，預計這不會是宏觀經濟格局中一次有意義的長期變化。“今天釋出的資料並沒有改變我們的觀點，即市場低估了美國聯邦公開市場委員會在今年晚些時候恢復加息的可能性，”Goltermann說，他預計勞動力市場將繼續收緊。"
-    },
-    {
-      "id": "4968154",
-      "time": "2026-07-03 01:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝克休斯：加拿大鑽井數量較上週減少7座，至190座。"
-    },
-    {
-      "id": "mkt:019f23d5-90cd-7aab-8c81-a6afe8943ea5",
-      "time": "2026-07-03 01:17:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "The Federal Reserve accepted $2.175 billion in bids from four counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "4968153",
-      "time": "2026-07-03 01:16:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國中長期國債收益率漲約2個基點】週四（7月2日）歐市尾盤，英國10年期國債收益率漲1.9個基點，報4.776%，全天處於收漲狀態、整體呈現出衝高回落走勢，北京時間20:30釋出美國非農就業報告前60秒重新整理日高至4.816%。兩年期英債收益率跌0.7個基點，報4.199%，20:29重新整理日高至4.155%，隨後快速下挫。30年期英債收益率漲2.5個基點，50年期英債收益率漲2.6個基點。2/10年期英債收益率利差漲2.474個基點，報+65.442個基點。"
-    },
-    {
-      "id": "4968152",
-      "time": "2026-07-03 01:16:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週四（7月2日），美聯儲隔夜逆回購協議（RRP）使用規模為21.75億美元（交易對手4家），上個交易日報10.01億美元。"
     }
   ]
 }
