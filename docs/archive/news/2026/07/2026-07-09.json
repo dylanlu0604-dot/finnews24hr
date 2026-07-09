@@ -1,7 +1,121 @@
 {
   "date": "2026-07-09",
-  "count": 2651,
+  "count": 2665,
   "items": [
+    {
+      "id": "4979112",
+      "time": "2026-07-09 20:04:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "明晟與瑞銀達成協議，提升私募市場透明度。"
+    },
+    {
+      "id": "4979111",
+      "time": "2026-07-09 20:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：聽起來總統找到了與西班牙合作的前進道路。"
+    },
+    {
+      "id": "4979110",
+      "time": "2026-07-09 20:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾就與西班牙的貿易關係發表評論。"
+    },
+    {
+      "id": "mkt:019f46c3-71e1-7aab-8d15-a2044465d4be",
+      "time": "2026-07-09 20:04:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shangwei New Materials' Qiyuan Robotics to open first South China retail store in Guangzhou】Qiyuan Robotics, a unit of Shangwei New Materials, will open its first South China retail store in Guangzhou at the Shangpin Home Furnishing Qijianghui complex. The store will operate as an immersive whole-home humanoid-robot experience space, leveraging the home-furnishing complex for scenario-based demonstrations."
+    },
+    {
+      "id": "4979109",
+      "time": "2026-07-09 20:03:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "美團：作為業界首個在五萬卡國產算力叢集上完成推理的萬億引數模型，LongCat-2.0 已全面開源。"
+    },
+    {
+      "id": "mkt:019f46c2-c9d5-7aab-8d15-99f92165edf1",
+      "time": "2026-07-09 20:03:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "3690.HK"
+      ],
+      "text": "【Meituan open-sources LongCat-2.0 and domestic-card inference code】Meituan has fully open-sourced LongCat-2.0 and the inference code for domestic accelerator cards. LongCat-2.0 is the first trillion-parameter model to complete inference on a 50,000-card domestic compute cluster. Meituan says it co-optimized model architecture, chip adaptation and deployment strategies to run the trillion-parameter model stably and quickly on memory- and bandwidth-constrained domestic chips and older cards. The release includes BF16, FP8 and INT8 multi-precision builds and open-sourced inference optimizations targeted at domestic compute platforms to enable deployment on existing hardware."
+    },
+    {
+      "id": "4979108",
+      "time": "2026-07-09 20:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數上漲 1.36%，報 2910 點。"
+    },
+    {
+      "id": "4979107",
+      "time": "2026-07-09 20:02:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國玉米種植者協會報告顯示美農資成本顯著高於巴西 結構性劣勢削弱美國農業國際競爭力】美國玉米種植者協會（NCGA）日前釋出的一項最新對比研究報告顯示，在進入相同的全球大宗商品市場競爭背景下，美國農民在種子、農藥等核心農業投入品上面臨比主要競爭對手巴西更高的成本負擔。報告指出，即使在對稅收、匯率差異及購買力進行全面調整後，美國種植者在絕大多數種子和作物保護產品類別中的採購價格仍顯著高於巴西，這種結構性成本劣勢正削弱美國農業的長期國際競爭力。"
+    },
+    {
+      "id": "4979106",
+      "time": "2026-07-09 20:02:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司與瑞銀宣佈達成合作。"
+    },
+    {
+      "id": "4979105",
+      "time": "2026-07-09 20:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國金茂：6月單月簽約銷售金額157.73億元】中國金茂公告，2026年6月單月，公司及其附屬公司取得簽約銷售金額人民幣157.73億元，簽約銷售建築面積59.79萬平方米。2026年1-6月累計取得簽約銷售金額共計人民幣575億元，累計簽約銷售建築面積228.08萬平方米。"
+    },
+    {
+      "id": "4979104",
+      "time": "2026-07-09 20:01:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見奈米比亞總統恩代特瓦】7月9日下午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的奈米比亞總統恩代特瓦。李強表示，奈米比亞是中國在非洲的重要夥伴，兩國友好源遠流長、歷久彌堅。近年來，在雙方共同努力下，中納關係持續深入發展，務實合作收穫一系列新成果，實實在在惠及兩國人民。明天，習近平主席將同總統女士舉行會談，就進一步深化兩國關係與合作作出新的戰略規劃。中方願同納方一道弘揚傳統友誼，堅定支援彼此核心利益和重大關切，推動互利合作不斷走深走實，更好推進兩國現代化建設。（新華社）"
+    },
+    {
+      "id": "mkt:019f46c1-5913-7aab-8d15-92d97f60405f",
+      "time": "2026-07-09 20:01:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened the July 9 evening session down 0.6% at 897.46 yuan/gram; silver T+D opened up 1.22% at 14,406.0 yuan/kg."
+    },
+    {
+      "id": "4979103",
+      "time": "2026-07-09 20:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上緯新材旗下啟元機器人將在廣州開華南首店】上緯新材旗下啟元機器人即將在廣州開設華南首家線下門店，選址廣州尚品宅配啟江匯，門店將定位人形機器人全屋沉浸式體驗空間，依託家居綜合體的場景優勢打造。小鯨注：今年6月以來，啟元機器人線下開店動作頻繁，已在上海、深圳、西安、廈門設定門店圍擋。（藍鯨新聞）"
+    },
     {
       "id": "4979102",
       "time": "2026-07-09 20:00:54",
@@ -9,6 +123,14 @@
         "公司"
       ],
       "text": "【金川集團與中國五礦集團有限公司座談交流】7月8日，金川集團黨委書記、董事長阮英會見中國五礦集團有限公司黨組副書記、董事、總經理朱可炳一行，雙方圍繞礦產資源開發合作、供應鏈協同、創新平臺建設等方面座談交流。"
+    },
+    {
+      "id": "4979101",
+      "time": "2026-07-09 20:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防辦向廣西增調中央防汛抗旱物資支援做好抗洪搶險】7月9日，應廣西壯族自治區防指請求，國家防辦會同國家糧食和物資儲備局緊急增調船外機、排澇裝置等450餘件中央防汛抗旱物資，支援廣西做好抗洪搶險工作。"
     },
     {
       "id": "mkt:019f46c0-86e4-7aab-8d15-8bcf928b8059",
