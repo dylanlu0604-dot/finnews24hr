@@ -1,7 +1,78 @@
 {
   "date": "2026-07-10",
-  "count": 223,
+  "count": 231,
   "items": [
+    {
+      "id": "4979680",
+      "time": "2026-07-10 03:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯和加拿大聯合宣告：譴責伊朗對霍爾木茲海峽商船的攻擊。"
+    },
+    {
+      "id": "mkt:019f4847-cea5-7aab-8d20-75ef0ae559a1",
+      "time": "2026-07-10 03:08:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia and Canada jointly condemned Iran's attack on a merchant vessel in the Strait of Hormuz."
+    },
+    {
+      "id": "4979679",
+      "time": "2026-07-10 03:07:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車表示集團必須提升抗風險能力與運營效率。"
+    },
+    {
+      "id": "4979678",
+      "time": "2026-07-10 03:06:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車管理董事會推出 12 項舉措，以達成 2030 年發展目標。"
+    },
+    {
+      "id": "4979677",
+      "time": "2026-07-10 03:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾執行長：2030 年前將集團打造為最具競爭力的車企。"
+    },
+    {
+      "id": "mkt:019f4845-2ae9-7aab-8d20-68048429665b",
+      "time": "2026-07-10 03:05:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed says its working group includes economists Mankiw, Sargent and Chetty, venture capitalist Anderson and Xbox CEO Sharma."
+    },
+    {
+      "id": "4979676",
+      "time": "2026-07-10 03:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車將覆盤汽車核心業務以外的各類資產。"
+    },
+    {
+      "id": "4979675",
+      "time": "2026-07-10 03:04:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：資產負債表工作組將包括RAGHURAM RAJAN。資料工作組成員將包括RAJ CHETTY、KEVIN MURPHY。就業工作組將包括MARC ANDREESSEN、CHARLES JONES。通脹工作組成員包括GREG MANKIW、THOMAS SARGENT。工作組的目標是使美聯儲處於最佳位置以實現目標。"
+    },
     {
       "id": "mkt:019f4844-718b-7aab-8d20-644047744608",
       "time": "2026-07-10 03:04:32",
