@@ -1,7 +1,62 @@
 {
   "date": "2026-07-10",
-  "count": 254,
+  "count": 260,
   "items": [
+    {
+      "id": "4979701",
+      "time": "2026-07-10 03:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：截至一小時前，美國未對伊朗發動新打擊。"
+    },
+    {
+      "id": "4979700",
+      "time": "2026-07-10 03:37:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦將於11月28日舉行立法委員會選舉】據巴勒斯坦通訊社9日報道，巴總統阿巴斯9日釋出總統令，定於今年11月28日舉行巴勒斯坦立法委員會選舉，而總統選舉將於2027年第一季度舉行，具體日期另行宣佈。（新華社）"
+    },
+    {
+      "id": "mkt:019f4862-cf85-7aab-8d20-b0b87a1f44db",
+      "time": "2026-07-10 03:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Palestinian Legislative Council election set for Nov. 28】President Mahmoud Abbas issued a decree on the 9th scheduling the Palestinian Legislative Council election for Nov. 28 this year; the presidential election is slated for Q1 2027, date to be announced."
+    },
+    {
+      "id": "4979699",
+      "time": "2026-07-10 03:37:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "凱雷集團將以26億美元將資料中心電力業務出售給EQT，實現五倍回報。"
+    },
+    {
+      "id": "te:markets:565790",
+      "time": "2026-07-10 03:36:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Meta Stock Price Hits 4-week High — Meta shares increased to 628.40 USD, the highest since June 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 9.98%, and in the last 12 months, it decreased 13.65%."
+    },
+    {
+      "id": "mkt:019f4861-3b7c-7aab-8d20-a985faadc8b2",
+      "time": "2026-07-10 03:35:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz transits plunge, near standstill】UK-based maritime analytics firm Windward said on the 9th that ongoing exchanges of fire between the US and Iran have sharply reduced transits through the Strait of Hormuz, with merchant traffic leaving the Persian Gulf largely halted. Windward recorded 51 transits on the 7th, including 35 departures; on the 8th there were 35 transits and 18 departures, only two using the southern (Oman-side) channel, indicating operators avoided that route after a nighttime attack; between the night of the 8th and early 9th there were only five transits, with a single departure from the Gulf."
+    },
     {
       "id": "4979698",
       "time": "2026-07-10 03:35:15",
