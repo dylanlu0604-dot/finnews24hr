@@ -1,7 +1,68 @@
 {
   "date": "2026-07-09",
-  "count": 1634,
+  "count": 1641,
   "items": [
+    {
+      "id": "mkt:019f457e-580d-7aab-8d0b-111b702b0b50",
+      "time": "2026-07-09 14:08:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israel's defense minister said Israeli forces will continue operations in the Lebanese security zone until Hezbollah is fully disarmed."
+    },
+    {
+      "id": "4978286",
+      "time": "2026-07-09 14:07:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆安集團捐贈紙巾、殺菌溼巾、衛生巾等共計10000箱】7月9日，恆安集團心相印 、七度空間聯合土豆公益基金會，馳援廣西受災地區，捐贈紙巾、殺菌溼巾、衛生巾等共計10000箱。"
+    },
+    {
+      "id": "te:markets:565528",
+      "time": "2026-07-09 14:07:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were poised to open higher on Thursday after falling for three consecutive sessions, as investors continued to assess escalating tensions in the Middle East. The US military confirmed it had carried out strikes on Iran for a second straight day in an effort to curb Tehran’s ability to threaten navigation through the Strait of Hormuz, while Iran threatened a large-scale retaliatory operation against US military bases across the region. In Europe, data showed Germany’s trade surplus widened to €19.1 billion in May from €14.5 billion in April, as exports increased while imports declined. Meanwhile, there are no major corporate earnings releases scheduled across Europe today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures advanced 1.1% and 0.8%, respectively."
+    },
+    {
+      "id": "4978285",
+      "time": "2026-07-09 14:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長：在過去兩年半的時間裡，我們摧毀了真主黨的大部分作戰能力和領導層。我們無需許可即可留在黎巴嫩。"
+    },
+    {
+      "id": "mkt:019f457c-4ed4-7aab-8d0b-0f42ec44abf0",
+      "time": "2026-07-09 14:06:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's defense minister said over the past two and a half years Israel has destroyed most of Hezbollah's combat capability and leadership and that Israeli forces do not need permission to remain in Lebanon."
+    },
+    {
+      "id": "4978284",
+      "time": "2026-07-09 14:06:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "幣安聯合執行長理查德·滕：美國交易業務約一個月前啟動，成交額已突破30億美元。"
+    },
     {
       "id": "mkt:019f457b-1710-7aab-8d0b-01d6ef6b2633",
       "time": "2026-07-09 14:05:22",
@@ -73,6 +134,15 @@
         "XAUUSD"
       ],
       "text": "【More than 20 U.S. naval vessels patrolling Middle East waters】U.S. Central Command said on July 8 on social media that more than 20 U.S. Navy vessels are currently patrolling waters in the Middle East."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607093799884232",
+      "time": "2026-07-09 14:01:17",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【上半年我國新能源汽車產銷量雙超700萬輛】據中國汽車工業協會訊息，2026年上半年，我國新能源汽車產銷分別完成743.8萬輛和744.6萬輛，同比均實現增長，其中純電動汽車銷量佔比升至67%左右。6月，新能源汽車產銷分別完成159.8萬輛和164.3萬輛，同比增長均超兩成，新能源汽車新車銷量佔汽車新車總銷量的比例進一步提升，達到58.5%。上半年，我國汽車累計出口509.6萬輛，其中新能源汽車出口235.5萬輛。"
     },
     {
       "id": "mkt:019f4577-4ce1-7aab-8d0a-e8cd959ebc65",
