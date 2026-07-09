@@ -1,7 +1,63 @@
 {
   "date": "2026-07-09",
-  "count": 3262,
+  "count": 3268,
   "items": [
+    {
+      "id": "4979524",
+      "time": "2026-07-09 23:22:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所阿拉比卡咖啡期貨（KCC2 合約）受投機資金大舉買入推動，漲幅近 10%，報每磅 3.40 美元。"
+    },
+    {
+      "id": "mkt:019f4779-0ef0-7aab-8d1c-637eb31864e3",
+      "time": "2026-07-09 23:22:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Egypt kept its overnight lending rate unchanged at 20%."
+    },
+    {
+      "id": "4979523",
+      "time": "2026-07-09 23:22:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行維持基準利率 19% 不變，市場預期為 19.00%。"
+    },
+    {
+      "id": "mkt:019f4777-feff-7aab-8d1c-5c2cc90a87e0",
+      "time": "2026-07-09 23:21:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister said the military is prepared to launch a third round of strikes against Iran."
+    },
+    {
+      "id": "4979522",
+      "time": "2026-07-09 23:19:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：衝突尚未結束。現有挑戰之外，新的挑戰不斷顯現。我們對此心知肚明，並已做好應對各類局勢的準備。維繫以色列空中優勢是國家安全的根本支柱。"
+    },
+    {
+      "id": "mkt:019f4776-29d6-7aab-8d1c-519cfadb7050",
+      "time": "2026-07-09 23:19:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "NETANYAHU said maintaining Israel's air superiority is a fundamental pillar of national security."
+    },
     {
       "id": "4979521",
       "time": "2026-07-09 23:18:44",
