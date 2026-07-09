@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-09 22:35:10",
-  "count": 15928,
+  "updated": "2026-07-09 22:39:08",
+  "count": 15936,
   "items": [
+    {
+      "id": "te:economy:565734",
+      "time": "2026-07-09 22:38:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 61 billion cubic feet of natural gas to storage in the week ended July 3, exceeding market expectations for a 49 bcf injection, according to EIA data. The build also topped the 53 bcf increase recorded in the same week last year and the five-year average of 51 bcf. Total working gas in storage rose to 2.983 trillion cubic feet, standing about 0.5% below the level seen a year earlier but 6.6% above the five-year average for this time of year. The latest increase followed an 87 bcf injection in the previous week ended June 26."
+    },
+    {
+      "id": "4979470",
+      "time": "2026-07-09 22:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：AI訓練初創企業Mercor洽談200億美元估值融資事宜。"
+    },
+    {
+      "id": "4979469",
+      "time": "2026-07-09 22:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "安大略省發行10億加元2036年到期債券，漲幅44.5%。"
+    },
+    {
+      "id": "4979468",
+      "time": "2026-07-09 22:37:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川啟動自然災害四級救助應急響應，調撥6000件物資支援宜賓】7月8日，四川省宜賓市高縣先後發生兩次5.0級地震。根據《四川省自然災害救助應急預案》規定，結合當前災情及發展趨勢，經四川省防災減災救災委員會辦公室研判，決定啟動四川省自然災害四級救助應急響應。目前，四川省已調撥帳篷、夏涼被、摺疊床、應急手電等救災物資6000件支援當地做好救助工作。（央視新聞）"
+    },
+    {
+      "id": "4979467",
+      "time": "2026-07-09 22:36:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾(DELL.N)漲超5%。"
+    },
+    {
+      "id": "4979466",
+      "time": "2026-07-09 22:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：伊朗目前無意將以色列拖入衝突】兩名以色列訊息人士透露，伊朗目前無意將以色列捲入地區局勢升級之中。"
+    },
+    {
+      "id": "4979465",
+      "time": "2026-07-09 22:35:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總針對北京、天津啟動防汛四級應急響應】據氣象部門預報，7月9日至10日，北京、天津有大到暴雨，部分地區有短時強降雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月9日21時針對北京、天津啟動防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f474e-04c2-7aab-8d1b-baa8c5c9076c",
+      "time": "2026-07-09 22:35:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's Saratov refinery has suspended operations since Wednesday following a drone attack."
+    },
+    {
+      "id": "4979464",
+      "time": "2026-07-09 22:35:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯薩拉托夫煉油廠在遭遇無人機襲擊後，自週三起已暫停運營。"
+    },
+    {
+      "id": "4979463",
+      "time": "2026-07-09 22:34:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國SOFR與聯邦基金利率基差買入激增，7月利差首次轉正】在美國市場週四的交易中，大量買入7月份SOFR（有擔保隔夜融資利率）與聯邦基金利率的基差，使該利差首次轉為正值，表明在7月份合約中，1個月期SOFR利率低於聯邦基金利率。週三及週二早盤也出現了類似的買入活動。"
+    },
+    {
+      "id": "4979462",
+      "time": "2026-07-09 22:34:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會叫停芝加哥商業交易所全天候原油期貨交易計劃。"
+    },
     {
       "id": "mkt:019f474d-0b13-7aab-8d1b-b6176f8a5141",
       "time": "2026-07-09 22:34:19",
@@ -145513,38 +145612,6 @@
         "國際"
       ],
       "text": "【美國就業增長慢於預期，降低美聯儲加息機率】隨著6月份慢於預期的就業創造使該央行偏緊縮的理由減少，期貨市場中美聯儲加息的機率下降。根據芝商所的FedWatch工具，市場預期7月份加息的機率為18%，低於昨日的29%。年底前至少降息一次的機率從83%降至76%。美國勞工統計局報告6月份新增就業崗位5.7萬個，而接受《華爾街日報》調查的經濟學家預期為11.5萬個。聯博的Eric Winograd寫道：“勞動力市場資料更加疲軟，加上油價大幅下跌，應該會降低美聯儲加息的可能性。”"
-    },
-    {
-      "id": "4967966",
-      "time": "2026-07-02 22:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【廣島民間團體要求日政府堅持“無核三原則”】日本廣島縣內7個核爆受害者團體的代表7月2日在廣島市舉行會議，彙總擬於今年廣島核爆紀念日向首相高市早苗等提出的訴求，要求日本政府堅持“無核三原則”。訴求書說，日本政府和執政黨內部出現主張修改作為國策的“無核三原則”、甚至鼓吹“核共享”等論調，“這背離了我們的意願，絕對不能容許”。訴求書指出，高市主張的政策缺乏推動和平外交、核裁軍和廢除核武器的具體舉措，只會加劇地區緊張局勢。訴求書認為，降低核戰爭風險、推進核裁軍是日本當前的緊迫課題。（新華社）"
-    },
-    {
-      "id": "4967965",
-      "time": "2026-07-02 22:37:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "Coatue對沖基金 6 月收益大漲，2026 年累計收益率升至 24.5%。"
-    },
-    {
-      "id": "mkt:019f2341-6cd1-7aab-8c7e-af7647bf41e8",
-      "time": "2026-07-02 22:35:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Tesla (TSLA.O) shares extended losses, down 6.1%."
     }
   ]
 }
