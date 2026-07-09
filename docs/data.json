@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10 05:26:09",
-  "count": 15907,
+  "updated": "2026-07-10 05:30:04",
+  "count": 15902,
   "items": [
     {
       "id": "4979772",
@@ -145273,50 +145273,6 @@
         "NVDA.O"
       ],
       "text": "Trump said he holds a very small amount of NVIDIA (NVDA.O) stock."
-    },
-    {
-      "id": "4968299",
-      "time": "2026-07-03 05:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：人工智慧，無論好壞，我們都掌握這項技術。"
-    },
-    {
-      "id": "mkt:019f24bb-fc61-7aab-8c84-affa46f24d09",
-      "time": "2026-07-03 05:28:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump, asked about cryptocurrency gains, said he knows nothing about them."
-    },
-    {
-      "id": "4968298",
-      "time": "2026-07-03 05:28:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（ 當被問及加密貨幣相關收益時）我對此並不知情。 加密貨幣收益並不違法。"
-    },
-    {
-      "id": "mkt:019f24bb-17bc-7aab-8c84-a620a18e5ff2",
-      "time": "2026-07-03 05:27:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he was involved in cryptocurrency before taking office."
-    },
-    {
-      "id": "4968297",
-      "time": "2026-07-03 05:26:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及家族加密貨幣相關業務：該業務在我就任總統前就已存在。"
     }
   ]
 }
