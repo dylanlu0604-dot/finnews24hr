@@ -1,7 +1,128 @@
 {
   "date": "2026-07-09",
-  "count": 987,
+  "count": 1000,
   "items": [
+    {
+      "id": "4977882",
+      "time": "2026-07-09 09:18:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數上漲1%至5423.36點。"
+    },
+    {
+      "id": "mkt:019f4473-b41d-7aab-8d02-ed8a6f44f1ef",
+      "time": "2026-07-09 09:17:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China's lithium carbonate most-active futures contract extended losses, down more than 3% to 156,880 yuan/ton."
+    },
+    {
+      "id": "4977881",
+      "time": "2026-07-09 09:17:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯視界啟動IPO輔導】證監會網站披露，南京芯視界微電子科技股份有限公司於2026年7月8日在江蘇證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。輔導備案報告顯示，李成為該公司控股股東，直接持股比例為33.35%。"
+    },
+    {
+      "id": "mkt:019f4473-127f-7aab-8d02-e312646d05a5",
+      "time": "2026-07-09 09:16:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Nanjing Xinshijie Microelectronics launches IPO counseling】The CSRC website shows Nanjing Xinshijie Microelectronics Technology Co. registered for IPO counseling with the Jiangsu securities regulator on 8 July 2026, seeking an initial public offering and listing."
+    },
+    {
+      "id": "mkt:019f4473-090f-7aab-8d02-d8ed08f71207",
+      "time": "2026-07-09 09:16:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citigroup: Bank of Korea likely to hike next week; 25bp each quarter in H2 2026】Citigroup economist Jin-Wook Kim says the Bank of Korea will raise the policy rate from 2.50% to 2.75% at next week’s meeting and is likely to signal a gradual hiking path. He expects the governor to indicate 25bp hikes each quarter in H2 2026 while remaining data-dependent and offering no specific guidance for H1 2027. Citigroup forecasts further hikes in July and October this year and in January and April next year. Kim adds the Bank may flag upside risks to its 2026 growth forecast after an upward revision to Q1 growth and resilient Q2 activity."
+    },
+    {
+      "id": "mkt:019f4472-6178-7aab-8d02-d5bc2ffe8e4f",
+      "time": "2026-07-09 09:16:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China's crude oil futures main contract rallied intraday: Shanghai crude (SC) +6.01% at 483 yuan/barrel; low-sulfur fuel oil (LU) +6.37% at 4,156 yuan/ton; fuel oil +5.24% at 3,191 yuan/ton."
+    },
+    {
+      "id": "4977880",
+      "time": "2026-07-09 09:15:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至7月9日8時16分，影片《功夫女足》預售總票房突破4000萬。"
+    },
+    {
+      "id": "4977879",
+      "time": "2026-07-09 09:15:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8036，較上日調高41點】人民幣兌美元中間價報6.8036，較上日調高41點。"
+    },
+    {
+      "id": "4977877",
+      "time": "2026-07-09 09:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技正式啟動發行程式，7月16日申購】據上交所網站，7月9日，長鑫科技披露科創板上市招股意向書及《發行安排及初步詢價公告》，正式啟動科創板IPO發行程式。據公告，其證券程式碼及網下申購程式碼為688825，網上申購程式碼為787825。公司7月15日網上路演，新股網下申購日和網上申購日均為7月16日。7月17日將刊登網上發行申購情況及中籤率公告，確定網下初步配售結果。7月20日披露網下初步配售結果及網上中籤結果公告。"
+    },
+    {
+      "id": "mkt:019f4471-afed-7aab-8d02-cb960f90953b",
+      "time": "2026-07-09 09:15:28",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures opened the day session down 0.21% at 23,985 pts, trading 219 points below the cash Hang Seng index."
+    },
+    {
+      "id": "4977876",
+      "time": "2026-07-09 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.16%，報23996.89點，低水202.57點。"
+    },
+    {
+      "id": "4977875",
+      "time": "2026-07-09 09:15:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗：韓國央行或暗示下半年逐步加息】花旗集團的Jin-Wook Kim表示，韓國央行在下週的政策會議上將基準利率從2.50%上調至2.75%後，可能會暗示逐步加息的步伐。該經濟學家預計，韓國央行行長申鉉松將暗示在2026年下半年每個季度加息25個基點，同時保持視資料情況而定的策略，不對2027年上半年提供任何具體指引。花旗預計，韓國央行將在今年7月和10月加息，並在明年1月和4月再次加息。Kim補充道，韓國央行還可能強調其2026年增長預測的上行風險，理由是對第一季度增長的上修以及第二季度富有韌性的經濟活動。"
+    },
+    {
+      "id": "4977874",
+      "time": "2026-07-09 09:14:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報483.00元。"
+    },
     {
       "id": "4977873",
       "time": "2026-07-09 09:14:39",
