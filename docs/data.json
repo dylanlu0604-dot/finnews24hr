@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-10 04:51:07",
-  "count": 15911,
+  "updated": "2026-07-10 04:55:03",
+  "count": 15912,
   "items": [
+    {
+      "id": "4979755",
+      "time": "2026-07-10 04:51:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官方X：特朗普賬戶上線僅五天，美國家庭捐款總額已近 1.25 億美元。"
+    },
+    {
+      "id": "4979754",
+      "time": "2026-07-10 04:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "條款顯示，SK 海力士美國存託憑證發行吸引超 500 家機構下單認購。"
+    },
     {
       "id": "te:markets:565801",
       "time": "2026-07-10 04:49:32",
@@ -145366,18 +145382,6 @@
         "國際"
       ],
       "text": "【新興市場外匯市場受美國疲軟就業資料及美元走弱提振】週四，在美國公佈的就業資料表明勞動力市場降溫幅度超出預期後，多數新興市場貨幣對美元走強。該資料降低了美聯儲在10月份加息的機率，並提振了風險資產。MSCI新興市場貨幣指數漲幅一度達到0.3%，但在尾盤調整前漲幅有所收窄。"
-    },
-    {
-      "id": "te:markets:563884",
-      "time": "2026-07-03 04:51:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Closes Higher as Fed Hike Bets Ease — The Ibovespa rose 0.6% to close at 172,788 on Thursday after the release of the US payroll report, the Federal Reserve’s key gauge of labor market conditions, which came in much weaker than expected. Softer job creation reduced the likelihood of further Fed rate hikes in the coming months, improving global risk sentiment. Meanwhile, oil prices eased as the gradual normalization of shipping flows through the Strait of Hormuz raised expectations of higher supply, further easing concerns over energy-driven inflation and supporting expectations of a more dovish stance from major central banks. Financial stocks led gains, with Bradesco up 0.7% and Banco do Brasil rising 1.4%. Other notable gainers included Rede D'Or (+1.5%) and Embraer (+1.5%)."
     }
   ]
 }
