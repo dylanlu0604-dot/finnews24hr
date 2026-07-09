@@ -1,7 +1,84 @@
 {
   "date": "2026-07-09",
-  "count": 1260,
+  "count": 1269,
   "items": [
+    {
+      "id": "mkt:019f44bd-c654-7aab-8d06-13a7fe8cfe7d",
+      "time": "2026-07-09 10:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China long-term care insurance enrollment reaches 320 million】Liu Juan, deputy director of the Benefits and Protection Department at the National Healthcare Security Administration, said on July 9 at the 1H 2026 regular press briefing that 17 provinces including Hebei and Shanxi have issued provincial long-term care insurance implementation plans, about 100 pooled jurisdictions are operational, and enrollment has reached 320 million people."
+    },
+    {
+      "id": "4978033",
+      "time": "2026-07-09 10:38:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪藥業2.3類抗HIV改良型新藥ADC119片獲批臨床】近日，江蘇艾迪藥業集團收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，公司自主研發的2.3類改良型新藥ADC119片正式獲准開展臨床試驗，擬用於作為完整方案治療成人HIV1感染初治患者。"
+    },
+    {
+      "id": "4978032",
+      "time": "2026-07-09 10:38:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元走軟至33.565，為5月2日以來最低。"
+    },
+    {
+      "id": "4978031",
+      "time": "2026-07-09 10:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國1200餘萬人次用上2025年版醫保目錄新增藥品】從國家醫保局今天舉行的2026年上半年例行新聞釋出會上獲悉，2025年版醫保藥品目錄新增談判藥品在31萬家定點醫藥機構配備，已經有1200餘萬人次用上了2025年目錄新增品種。1—5月，全國醫保基金相關新藥支出26.36億元，帶動藥品銷售39.46億元，特別是一些群眾關注度高的產品放量明顯，比如治療高脂血症的英克司蘭已經進入近1700家定點醫療機構和零售藥店，大量患者享受到了新藥的便利；同時，為更好地服務患者，國家醫保局專門在官網、微信公眾號提供了“醫保找藥”查詢服務，群眾在手機上就能查到哪家醫院、哪個藥店開出過這些藥。商保創新藥目錄支援政策全面落地。首版商保創新藥目錄納入了19種臨床價值大、創新程度高、患者受益明顯但超出基本醫保保障範圍的藥品。截至5月底，商保創新藥目錄藥品已在1486家定點醫藥機構有配備，100餘個惠民保產品保障責任覆蓋了目錄內藥品。據介紹，商保創新藥目錄是一個推薦性的目錄，旨在明確基本醫保的保障邊界，併為商保的發展留出空間。國家醫保局介紹，今年醫保目錄和商保創新藥目錄調整已經啟動，申報階段，共收到818份申報材料，總體數量較2025年進一步增加。目前形式審查已結束，預計將於11月份釋出新版目錄。"
+    },
+    {
+      "id": "mkt:019f44bc-5807-7aab-8d06-0a59856c8665",
+      "time": "2026-07-09 10:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AI-augmented rare-event sampling cuts extreme-weather simulation compute by 1,000x】A US-France research team published in Physics World an AI-augmented rare-event sampling (RES) climate simulation framework that uses AI to pre-screen meteorological fields likely to spawn heatwaves or extreme cyclones and runs full physical simulations only for those high-risk windows, cutting compute to about 1/1,000 of full-domain simulation. Benchmarked on the PlaSim simplified climate model, the method produced mid-latitude heatwave frequency estimates closely matching full simulations and is applicable to analysis of current European heatwaves. ETH Zurich researchers say the approach remedies narrow screening in traditional RES, can be expanded to heavy rainfall and typhoon prediction, and is adaptable to higher-resolution climate models."
+    },
+    {
+      "id": "mkt:019f44bb-a6ba-7aab-8d06-071a9d5c7bfc",
+      "time": "2026-07-09 10:36:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand's prime minister says the government will consult with Australia and Fiji on the possibility of joining the Peaceful Seas Alliance."
+    },
+    {
+      "id": "mkt:019f44bb-a30e-7aab-8d05-fd96b137673c",
+      "time": "2026-07-09 10:36:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share lab-grown diamond sector weakened; Hengsheng Energy hit the daily down-limit, with Yeguangming, Henglin, Zhongbing Hongjian, Sifangda, Chujiang New Materials and Chaohongji also falling."
+    },
+    {
+      "id": "4978030",
+      "time": "2026-07-09 10:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4978029",
+      "time": "2026-07-09 10:34:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PEEK材料板塊震盪走弱，天賜材料觸及跌停】PEEK材料板塊震盪走弱，天賜材料觸及跌停，肇民科技跌超13%，中研股份、雙林股份、國恩股份、新瀚新材、雅運股份等跟跌。"
+    },
     {
       "id": "4978027",
       "time": "2026-07-09 10:34:37",

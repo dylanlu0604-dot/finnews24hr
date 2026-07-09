@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-09 10:35:23",
-  "count": 16156,
+  "updated": "2026-07-09 10:39:16",
+  "count": 16160,
   "items": [
+    {
+      "id": "mkt:019f44bd-c654-7aab-8d06-13a7fe8cfe7d",
+      "time": "2026-07-09 10:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China long-term care insurance enrollment reaches 320 million】Liu Juan, deputy director of the Benefits and Protection Department at the National Healthcare Security Administration, said on July 9 at the 1H 2026 regular press briefing that 17 provinces including Hebei and Shanxi have issued provincial long-term care insurance implementation plans, about 100 pooled jurisdictions are operational, and enrollment has reached 320 million people."
+    },
+    {
+      "id": "4978033",
+      "time": "2026-07-09 10:38:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪藥業2.3類抗HIV改良型新藥ADC119片獲批臨床】近日，江蘇艾迪藥業集團收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，公司自主研發的2.3類改良型新藥ADC119片正式獲准開展臨床試驗，擬用於作為完整方案治療成人HIV1感染初治患者。"
+    },
+    {
+      "id": "4978032",
+      "time": "2026-07-09 10:38:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元走軟至33.565，為5月2日以來最低。"
+    },
+    {
+      "id": "4978031",
+      "time": "2026-07-09 10:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國1200餘萬人次用上2025年版醫保目錄新增藥品】從國家醫保局今天舉行的2026年上半年例行新聞釋出會上獲悉，2025年版醫保藥品目錄新增談判藥品在31萬家定點醫藥機構配備，已經有1200餘萬人次用上了2025年目錄新增品種。1—5月，全國醫保基金相關新藥支出26.36億元，帶動藥品銷售39.46億元，特別是一些群眾關注度高的產品放量明顯，比如治療高脂血症的英克司蘭已經進入近1700家定點醫療機構和零售藥店，大量患者享受到了新藥的便利；同時，為更好地服務患者，國家醫保局專門在官網、微信公眾號提供了“醫保找藥”查詢服務，群眾在手機上就能查到哪家醫院、哪個藥店開出過這些藥。商保創新藥目錄支援政策全面落地。首版商保創新藥目錄納入了19種臨床價值大、創新程度高、患者受益明顯但超出基本醫保保障範圍的藥品。截至5月底，商保創新藥目錄藥品已在1486家定點醫藥機構有配備，100餘個惠民保產品保障責任覆蓋了目錄內藥品。據介紹，商保創新藥目錄是一個推薦性的目錄，旨在明確基本醫保的保障邊界，併為商保的發展留出空間。國家醫保局介紹，今年醫保目錄和商保創新藥目錄調整已經啟動，申報階段，共收到818份申報材料，總體數量較2025年進一步增加。目前形式審查已結束，預計將於11月份釋出新版目錄。"
+    },
+    {
+      "id": "mkt:019f44bc-5807-7aab-8d06-0a59856c8665",
+      "time": "2026-07-09 10:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AI-augmented rare-event sampling cuts extreme-weather simulation compute by 1,000x】A US-France research team published in Physics World an AI-augmented rare-event sampling (RES) climate simulation framework that uses AI to pre-screen meteorological fields likely to spawn heatwaves or extreme cyclones and runs full physical simulations only for those high-risk windows, cutting compute to about 1/1,000 of full-domain simulation. Benchmarked on the PlaSim simplified climate model, the method produced mid-latitude heatwave frequency estimates closely matching full simulations and is applicable to analysis of current European heatwaves. ETH Zurich researchers say the approach remedies narrow screening in traditional RES, can be expanded to heavy rainfall and typhoon prediction, and is adaptable to higher-resolution climate models."
+    },
+    {
+      "id": "mkt:019f44bb-a6ba-7aab-8d06-071a9d5c7bfc",
+      "time": "2026-07-09 10:36:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand's prime minister says the government will consult with Australia and Fiji on the possibility of joining the Peaceful Seas Alliance."
+    },
+    {
+      "id": "mkt:019f44bb-a30e-7aab-8d05-fd96b137673c",
+      "time": "2026-07-09 10:36:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share lab-grown diamond sector weakened; Hengsheng Energy hit the daily down-limit, with Yeguangming, Henglin, Zhongbing Hongjian, Sifangda, Chujiang New Materials and Chaohongji also falling."
+    },
+    {
+      "id": "4978030",
+      "time": "2026-07-09 10:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4978029",
+      "time": "2026-07-09 10:34:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PEEK材料板塊震盪走弱，天賜材料觸及跌停】PEEK材料板塊震盪走弱，天賜材料觸及跌停，肇民科技跌超13%，中研股份、雙林股份、國恩股份、新瀚新材、雅運股份等跟跌。"
+    },
     {
       "id": "4978027",
       "time": "2026-07-09 10:34:37",
@@ -147758,51 +147835,6 @@
         "市場"
       ],
       "text": "【PEEK材料概念股震盪走高 華密新材漲超7%】PEEK材料概念股震盪走高，華密新材漲超7%，凱盛新材、富春染織、沃特股份等股上漲。"
-    },
-    {
-      "id": "4966402",
-      "time": "2026-07-02 10:38:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【培育鑽石概念震盪回升 黃河旋風反包漲停】培育鑽石概念盤中震盪回升，黃河旋風反包漲停，惠豐鑽石、四方達、亞振家居、力量鑽石、中兵紅箭跟漲。"
-    },
-    {
-      "id": "te:markets:563613",
-      "time": "2026-07-02 10:37:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Extend Strength — Indonesian stocks jumped 57 points, or 1.0%, to 5,751 in early trading on Thursday, marking the second straight session of gains amid broad-based strength across major sectors. Markets moved further away from a three-week low as U.S. equity futures strengthened following indirect negotiations between the U.S. and Iran that began Tuesday in Doha. Locally, government policy support continued, including industrial LNG price cuts, food security programs, and capital market reform. However, gains were capped by fresh data showing Indonesia’s trade balance unexpectedly shifted to the deficit, the first monthly gap since April 2020 as exports fell while imports surged. Meanwhile, inflation hit a three-month high in June due to elevated food prices. Among standouts were Hartadinata Abadi (5.7%), Barito Pacific (4.7%), Elang Mahkota Teknologi (3.7%), and Bank Central Asia (3.1%)."
-    },
-    {
-      "id": "4966401",
-      "time": "2026-07-02 10:36:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【首爾警方調查韓國隊主帥任命是否違法】韓國國家足球隊在2026年美加墨世界盃小組賽階段遭淘汰後，韓國國內質疑洪明甫被任命為國家隊主教練的聲音再起。首爾警方7月1日就這一任命過程中是否存在違法行為啟動調查。據韓國媒體報道，自韓國足協2024年7月再次任命洪明甫為主教練以來，警方累計接到8起相關舉報，稱足協主席鄭夢奎等官員任命洪明甫的過程有“貓膩”，涉嫌瀆職等違法行為。洪明甫本人未被列為舉報物件。（新華社）"
-    },
-    {
-      "id": "4966399",
-      "time": "2026-07-02 10:36:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股貴金屬板塊異動拉昇】招金黃金、赤峰黃金觸及漲停，山金國際、曉程科技、四川黃金、中金黃金、山東黃金跟漲。"
-    },
-    {
-      "id": "4966398",
-      "time": "2026-07-02 10:35:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：支援並期盼兩岸影視活動越辦越多 越辦越好】國務院臺辦舉行例行新聞釋出會，總檯記者問：近日，第十七屆兩岸電影展之大陸電影展在臺灣舉辦，受到島內觀眾歡迎，請發言人介紹有關情況。發言人朱鳳蓮表示，第十七屆兩岸電影展之大陸電影展於6月22日至27日在臺北舉辦。《東極島》《長安的荔枝》等8部風格多樣的大陸影片集中展映，為島內觀眾帶來一場光影盛宴。影展期間，多位大陸電影人赴臺參加了多場交流活動，與臺灣觀眾熱情互動，分享創作心得。我們支援並期盼兩岸影視活動越辦越多，越辦越好，促進兩岸民眾的相互瞭解，增進情誼。"
     }
   ]
 }
