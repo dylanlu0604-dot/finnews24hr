@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-09 08:08:34",
-  "count": 16155,
+  "updated": "2026-07-09 08:12:28",
+  "count": 16159,
   "items": [
+    {
+      "id": "mkt:019f4437-5aa3-7aab-8d01-94048ca783ce",
+      "time": "2026-07-09 08:11:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "【Lei Jun on Xiaomi Auto's 'Pengcheng' series positioning】On July 9 Xiaomi unveiled its second vehicle series, SkyNomad (Pengcheng). Lei Jun said the SU7/YU7 line is a \"driver's car,\" while the Pengcheng series is an \"intelligent, configurable large-cabin SUV.\""
+    },
+    {
+      "id": "4977778",
+      "time": "2026-07-09 08:11:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家計算機病毒應急處理中心檢測發現72款違法違規收集使用個人資訊的移動應用】7月9日，國家網路安全通報中心釋出通報：根據中央網信辦、工業和資訊化部、公安部聯合釋出的《關於開展2026年個人資訊保護系列專項行動的公告》，依據《網路安全法》《個人資訊保護法》《網路資料安全管理條例》《App違法違規收集使用個人資訊行為認定方法》等法律法規和有關規定，經國家計算機病毒應急處理中心檢測，72款移動應用存在一項或者多項違法違規收集使用個人資訊情況。"
+    },
+    {
+      "id": "4977777",
+      "time": "2026-07-09 08:11:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上升1.0個基點，至1.440%。5年期日本國債收益率升至1.995%。"
+    },
+    {
+      "id": "mkt:019f4436-0c3c-7aab-8d01-8fd0669fb80f",
+      "time": "2026-07-09 08:10:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 75.30 points (-0.86%) at 8,709.80 on July 9 (Thursday)."
+    },
+    {
+      "id": "4977775",
+      "time": "2026-07-09 08:10:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空成立臨時管理委員會。"
+    },
+    {
+      "id": "4977774",
+      "time": "2026-07-09 08:09:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價上漲8%。"
+    },
+    {
+      "id": "mkt:019f4435-24e4-7aab-8d01-85fcfbf6bf56",
+      "time": "2026-07-09 08:09:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD"
+      ],
+      "text": "Venezuela's interim president Rodriguez has written to the UK government requesting the release of Venezuela's gold reserves frozen at the Bank of England."
+    },
+    {
+      "id": "4977773",
+      "time": "2026-07-09 08:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗一鐵路橋】據伊朗官方媒體報道，當地時間今天（7月9日）凌晨，伊朗東北部一鐵路橋遭襲。（CCTV國際時訊）"
+    },
     {
       "id": "4977772",
       "time": "2026-07-09 08:07:48",
@@ -147701,41 +147773,6 @@
         "其他"
       ],
       "text": "【我國成功發射海洋二號E衛星】北京時間2026年7月2日7時46分，我國在酒泉衛星發射中心使用長征四號乙運載火箭，成功將海洋二號E衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第654次飛行。"
-    },
-    {
-      "id": "4966088",
-      "time": "2026-07-02 08:11:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：功率器件二輪漲價趨勢確立 AI電源開啟長期增量空間】中信證券指出，功率器件板塊正迎來二輪漲價週期確認與AI電源需求爆發的雙重催化。中短期，根據各公司公告，國內外功率器件廠商將陸續啟動第二輪漲價，本輪上行週期進一步明確；中長期來看，預計AI電源對功率器件拉動會持續強化，HVDC/SST趨勢下長期增量空間將逐步開啟。預計本輪漲價趨勢有望延續至2027年，相關廠商有望開啟新一輪收入快速成長同時盈利能力顯著修復，看好功率器件板塊整體上行機遇。"
-    },
-    {
-      "id": "4966087",
-      "time": "2026-07-02 08:10:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百心安-B：國家藥監局批准BIOHEART生物可吸收藥物洗脫支架註冊】百心安-B(02185)釋出公告，於2029年6月29日，由本公司自主研發的Bioheart®生物可吸收藥物洗脫支架(BRS)，已獲中華人民共和國國家藥品監督管理局(國家藥監局)批准，用於治療因原生冠狀動脈病變所致的缺血性心臟病患者，以改善冠狀動脈管腔直徑。Bioheart®BRS關鍵性試驗的詳細結果已發表於《JACC: Cardiovascular Interventions》(2025年第18卷第1號)。"
-    },
-    {
-      "id": "4966086",
-      "time": "2026-07-02 08:09:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本丸紅株式會社股價逆勢上漲，現漲2.8%。"
-    },
-    {
-      "id": "mkt:019f2028-8290-7aab-8c67-d7c4eb4f7d61",
-      "time": "2026-07-02 08:09:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated a temporary halt mechanism, suspending programmatic trading on the KOSPI for 5 minutes."
     }
   ]
 }
