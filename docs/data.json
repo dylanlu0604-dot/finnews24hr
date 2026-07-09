@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-09 09:48:11",
-  "count": 16170,
+  "updated": "2026-07-09 09:52:03",
+  "count": 16165,
   "items": [
+    {
+      "id": "4977966",
+      "time": "2026-07-09 09:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "齊雲山食品(02797.HK)漲幅擴大至200%，成交額近1億港元。"
+    },
+    {
+      "id": "mkt:019f4492-2fdb-7aab-8d05-0404f340c7a7",
+      "time": "2026-07-09 09:50:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02797.HK",
+        "Impact bullish"
+      ],
+      "text": "Qi Yunshan Food (02797.HK) shares extended gains to 200% as trading turnover neared HK$100 million."
+    },
+    {
+      "id": "4977965",
+      "time": "2026-07-09 09:50:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊低開高走，成都先導盤中漲超10%】創新藥板塊低開高走，成都先導盤中漲超10%，凱萊英、康龍化成、美迪西、太極集團紛紛上揚。"
+    },
+    {
+      "id": "te:economy:565457",
+      "time": "2026-07-09 09:50:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "China Food Inflation Drops for 3rd Month — China's food prices fell 1.6% year-on-year in June 2026, following a 1.7% decline in the previous month, which was the steepest decline in seven months. It was the third consecutive monthly decrease, reflecting ample food supplies and weak consumer demand."
+    },
+    {
+      "id": "4977964",
+      "time": "2026-07-09 09:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光成立機器視覺技術公司，註冊資本5000萬元】企查查APP顯示，近日，歐菲機器視覺技術（江西）有限公司成立，法定代表人為海江，註冊資本為5000萬元，經營範圍包含：智慧基礎製造裝備製造，智慧機器人的研發，智慧機器人銷售，服務消費機器人制造，人工智慧硬體銷售等。企查查股權穿透顯示，該公司由歐菲光旗下歐菲微電子（南昌）有限公司、江西歐菲光學有限公司共同持股。"
+    },
+    {
+      "id": "4977963",
+      "time": "2026-07-09 09:50:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦概念再度走弱 融捷股份2連跌停】鋰礦概念再度走弱，融捷股份2連跌停，天華新能跌超11%，天齊鋰業、盛新鋰能、江特電機、贛鋒鋰業紛紛下挫。"
+    },
+    {
+      "id": "4977962",
+      "time": "2026-07-09 09:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：週四境內第二次拉響防空警報。"
+    },
+    {
+      "id": "4977961",
+      "time": "2026-07-09 09:49:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019f448f-8e84-7aab-8d04-ff8fa2b6dc67",
+      "time": "2026-07-09 09:48:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said domestic alarms have been activated."
+    },
+    {
+      "id": "4977960",
+      "time": "2026-07-09 09:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股電池化學品板塊短線走低】龍蟠科技觸及跌停，新宙邦、ST合縱、濱海能源跟跌。"
+    },
+    {
+      "id": "4977959",
+      "time": "2026-07-09 09:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股鋰板塊短線走低】融捷股份觸及跌停"
+    },
+    {
+      "id": "4977958",
+      "time": "2026-07-09 09:47:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停】能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停，盛新鋰能、天齊鋰業、永杉鋰業、永興材料跟跌。"
+    },
     {
       "id": "4977957",
       "time": "2026-07-09 09:47:10",
@@ -147759,160 +147870,6 @@
         "Importance 1"
       ],
       "text": "China Stocks Slide on Broad Tech Selloff — The Shanghai Composite slipped 1.4% to 4,054 on Thursday, snapping a three-day winning streak, while the Shenzhen Component tumbled 2.7% to 15,678, extending losses from the previous session. Both benchmarks were pressured by a broad selloff in technology stocks as investors reassessed the sustainability of the recent AI-driven rally amid concerns that valuations had risen too quickly. Sentiment was also weighed down by reports that Apple is in talks to source memory chips from Chinese manufacturers ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies Co. (YMTC), a move that could attract scrutiny from US policymakers amid heightened tensions between Washington and Beijing over advanced technology. Among the worst-performing technology stocks were Cambricon Technologies (-6.9%), SMIC (-2.7%), Hygon Information Technology (-5.5%), Zhongji Innolight (-3.7%), Eoptolink Technology (-5.2%), and Victory Giant Technology (-5.7%)."
-    },
-    {
-      "id": "4966319",
-      "time": "2026-07-02 09:51:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【陽光電源：歐盟個別銀行對使用中國逆變器專案的融資限制影響有限 公司參與此類專案較少】陽光電源7月1日在電話交流上表示，公司關注到近期市場傳聞及歐美市場關切，給大家做簡單的近況交流。今年全球儲能市場規模預計大幅增加，特別是歐洲市場超預期。公司近期參加了歐洲Intersolar展和中國SNEC展，客戶對公司非常認可，訂單比較飽滿，公司會努力做好研發、生產和交付工作。關於歐盟融資限制問題，歐盟個別銀行對使用中國逆變器專案的融資限制影響有限，該部分專案佔歐洲市場大約20%，且公司參與此類專案較少。"
-    },
-    {
-      "id": "4966318",
-      "time": "2026-07-02 09:51:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "新易盛成交額達100億元，現跌7.48%。"
-    },
-    {
-      "id": "mkt:019f2086-4c0f-7aab-8c69-e7606952cfe6",
-      "time": "2026-07-02 09:51:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "09637.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong-listed 09637.HK fell more than 50% at the open."
-    },
-    {
-      "id": "4966317",
-      "time": "2026-07-02 09:51:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【綠源電動車就“午休影片被指擦邊”致歉】7月2日，綠源電動車釋出致歉宣告：近日，我司電商在網際網路平臺釋出的在電動車上午休的短影片，引發廣泛的網路爭議與批評。對此，我們深感愧疚與自責，向廣大網友使用者，以及關心綠源的公眾致以真摯的歉意。我們承擔全部責任，絕不推諉。相關影片已第一時間全網下架，相關責任人已接受處罰。我們已啟動全平臺內容自查與整改，全面排查潛在問題，堅決杜絕類似情況再次發生。同時，我們著手完善稽核流程，建立更嚴格的多級稽核制度，整頓第三方管理。"
-    },
-    {
-      "id": "mkt:019f2085-3947-7aab-8c69-daeec947841e",
-      "time": "2026-07-02 09:50:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600115.SS"
-      ],
-      "text": "【China Eastern to make in-flight Wi‑Fi free on all widebody flights from July 3, 2026】China Eastern and subsidiary Shanghai Airlines said from July 3, 2026 all in-flight Wi‑Fi on their widebody aircraft will be free. Super Economy and Economy passengers will receive standard-tier data; Business and First passengers will receive high-speed tier. The carrier had previously waived charges on domestic widebody routes and some international routes; the new policy extends free access to all domestic and international widebody flights."
-    },
-    {
-      "id": "4966316",
-      "time": "2026-07-02 09:50:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東航宣佈寬體機航班上網全部免費】東航今日宣佈，自2026年7月3日起，東航及旗下上海航空所有寬體機航班空中Wi-Fi全免費。其中，超級經濟艙和經濟艙旅客可獲得標準版流量，公務艙及頭等艙旅客可獲得高速版流量。在此之前，東航陸續放開了寬體機執飛的所有國內航線和部分國際航線上網免費，此次也是不分國內國際航線全部免費。（一財）"
-    },
-    {
-      "id": "4966315",
-      "time": "2026-07-02 09:50:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數上漲1%至4051.55點。"
-    },
-    {
-      "id": "4966314",
-      "time": "2026-07-02 09:50:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量793億元。"
-    },
-    {
-      "id": "te:economy:563596",
-      "time": "2026-07-02 09:50:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "Australia Exports Hit 4-Month Low — Australia’s goods exports dropped 6.9% month-on-month to AUD 43.61 billion in May, reversing a 7.2% rise in April, primarily weighed down by lower shipments of non-monetary gold and metal ores and minerals."
-    },
-    {
-      "id": "4966313",
-      "time": "2026-07-02 09:49:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨跌逾2%。"
-    },
-    {
-      "id": "mkt:019f2084-8545-7aab-8c69-d4f6d2966895",
-      "time": "2026-07-02 09:49:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures fell over 2%."
-    },
-    {
-      "id": "4966312",
-      "time": "2026-07-02 09:49:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛入股原子量子計算研發商兩儀永珍】企查查APP顯示，近日，兩儀永珍（北京）科技有限公司發生工商變更，新增科大訊飛等為股東，同時註冊資本增至194.28萬元。據其官網，兩儀永珍孵化自清華大學原子量子計算團隊，專注於原子量子計算的整機研製、產品研發和技術創新。"
-    },
-    {
-      "id": "4966311",
-      "time": "2026-07-02 09:49:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【張虎會見上合銀行多邊磋商會各國代表】6月29日，廣東省委常委、常務副省長張虎在深圳會見吉爾吉斯斯坦財政部副部長阿克若洛夫等15個出席上海合作組織開發銀行多邊磋商第四次會議的國家代表，以及上海合作組織秘書處代表。張虎向各國代表介紹了廣東經濟社會發展情況，以及深圳市改革開放工作成效和在科技金融方面的業務優勢，表示期待加強與各國的交流合作。"
-    },
-    {
-      "id": "4966310",
-      "time": "2026-07-02 09:49:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國商飛C909醫療機將首次亮相中亞】今天（7月2日），第21屆哈薩克—中國商品展覽會在哈薩克阿拉木圖拉開帷幕，由中國商飛研製的C909醫療機將參展，在阿拉木圖國際機場進行靜態展示，這是C909醫療機首次亮相中亞。C909醫療機由C909基本型改裝而來，其艙內可根據不同需求靈活佈局，能夠滿足醫療救援隊伍出行、邊遠地區醫療救助、傷病員轉運等多場景應用。"
-    },
-    {
-      "id": "4966309",
-      "time": "2026-07-02 09:48:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "京東方A成交額超110億元，跌超8%。"
-    },
-    {
-      "id": "4966308",
-      "time": "2026-07-02 09:48:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "兆易創新成交額超100億元，跌超8%。"
-    },
-    {
-      "id": "4966307",
-      "time": "2026-07-02 09:48:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "海南自貿區板塊集體走強，海南瑞澤、欣龍控股、海馬汽車、海南海藥漲停，神農種業、海南發展漲超5%。"
     }
   ]
 }

@@ -1,7 +1,118 @@
 {
   "date": "2026-07-09",
-  "count": 1152,
+  "count": 1164,
   "items": [
+    {
+      "id": "4977966",
+      "time": "2026-07-09 09:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "齊雲山食品(02797.HK)漲幅擴大至200%，成交額近1億港元。"
+    },
+    {
+      "id": "mkt:019f4492-2fdb-7aab-8d05-0404f340c7a7",
+      "time": "2026-07-09 09:50:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02797.HK",
+        "Impact bullish"
+      ],
+      "text": "Qi Yunshan Food (02797.HK) shares extended gains to 200% as trading turnover neared HK$100 million."
+    },
+    {
+      "id": "4977965",
+      "time": "2026-07-09 09:50:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊低開高走，成都先導盤中漲超10%】創新藥板塊低開高走，成都先導盤中漲超10%，凱萊英、康龍化成、美迪西、太極集團紛紛上揚。"
+    },
+    {
+      "id": "te:economy:565457",
+      "time": "2026-07-09 09:50:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "China Food Inflation Drops for 3rd Month — China's food prices fell 1.6% year-on-year in June 2026, following a 1.7% decline in the previous month, which was the steepest decline in seven months. It was the third consecutive monthly decrease, reflecting ample food supplies and weak consumer demand."
+    },
+    {
+      "id": "4977964",
+      "time": "2026-07-09 09:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光成立機器視覺技術公司，註冊資本5000萬元】企查查APP顯示，近日，歐菲機器視覺技術（江西）有限公司成立，法定代表人為海江，註冊資本為5000萬元，經營範圍包含：智慧基礎製造裝備製造，智慧機器人的研發，智慧機器人銷售，服務消費機器人制造，人工智慧硬體銷售等。企查查股權穿透顯示，該公司由歐菲光旗下歐菲微電子（南昌）有限公司、江西歐菲光學有限公司共同持股。"
+    },
+    {
+      "id": "4977963",
+      "time": "2026-07-09 09:50:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦概念再度走弱 融捷股份2連跌停】鋰礦概念再度走弱，融捷股份2連跌停，天華新能跌超11%，天齊鋰業、盛新鋰能、江特電機、贛鋒鋰業紛紛下挫。"
+    },
+    {
+      "id": "4977962",
+      "time": "2026-07-09 09:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：週四境內第二次拉響防空警報。"
+    },
+    {
+      "id": "4977961",
+      "time": "2026-07-09 09:49:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019f448f-8e84-7aab-8d04-ff8fa2b6dc67",
+      "time": "2026-07-09 09:48:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said domestic alarms have been activated."
+    },
+    {
+      "id": "4977960",
+      "time": "2026-07-09 09:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股電池化學品板塊短線走低】龍蟠科技觸及跌停，新宙邦、ST合縱、濱海能源跟跌。"
+    },
+    {
+      "id": "4977959",
+      "time": "2026-07-09 09:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股鋰板塊短線走低】融捷股份觸及跌停"
+    },
+    {
+      "id": "4977958",
+      "time": "2026-07-09 09:47:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停】能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停，盛新鋰能、天齊鋰業、永杉鋰業、永興材料跟跌。"
+    },
     {
       "id": "4977957",
       "time": "2026-07-09 09:47:10",
