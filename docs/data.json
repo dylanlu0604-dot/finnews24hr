@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-10 04:39:29",
-  "count": 15913,
+  "updated": "2026-07-10 04:43:21",
+  "count": 15914,
   "items": [
+    {
+      "id": "4979752",
+      "time": "2026-07-10 04:41:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盧特尼克敦促SK海力士、三星擴大美國儲存晶片產能】美國商務部長盧特尼克呼籲三星電子和SK海力士加大在美國的儲存晶片擴產的力度，以協助緩解全球範圍內人工智慧發展關鍵零部件短缺問題。盧特尼克證實，他正在與這兩家韓國儲存晶片製造商進行商談，但未透露具體細節。他承認，美光執行長梅赫羅特拉可能不會歡迎競爭對手擴大在美國的佈局，但盧特尼克表示，為了讓美國晶片供應鏈更加穩固，有必要採取這一舉措。“你們知道，他（梅赫羅特拉）不會喜歡這樣，但我希望把他的競爭對手——三星和SK海力士——帶到美國來設廠”盧特尼克表示，“美光目前處於領先地位。其他公司難免會感到眼紅，對吧？所以它們也不得不跟進。”"
+    },
+    {
+      "id": "mkt:019f489d-0a64-7aab-8d21-7e1c02489d7a",
+      "time": "2026-07-10 04:41:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "MU.O"
+      ],
+      "text": "【Lutnick urges Samsung, SK Hynix to boost US memory-chip capacity】US Commerce Secretary Lutnick urged Samsung and SK Hynix to expand memory-chip production in the United States to help ease global shortages of AI-critical components. He confirmed he is in talks with the two Korean manufacturers but did not disclose details. Lutnick acknowledged Micron CEO Mehrotra may object to rivals expanding in the US, but said strengthening the US chip supply chain requires bringing Samsung and SK Hynix to build fabs onshore; he noted Micron currently leads and competitors will likely follow."
+    },
     {
       "id": "4979751",
       "time": "2026-07-10 04:37:28",
@@ -145384,18 +145407,6 @@
         "國際"
       ],
       "text": "市場訊息：巴林外交部稱，應巴林方面要求，聯合國安理會召開緊急會議，會議結束後，巴林外交大臣於週四在紐約會見了美國駐聯合國大使邁克・沃爾茨，巴林稱本國遭到伊朗襲擊。雙方探討了多項相關事宜：推動美伊談判達成全面和平協議、恢復霍爾木茲海峽國際航運通行、強化地區安全域性勢。"
-    },
-    {
-      "id": "te:markets:563880",
-      "time": "2026-07-03 04:40:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Rise on Softer Fed Outlook — The S&P/TSX Composite Index rose 0.3% to close at 34,967 on Thursday, as a weaker-than-expected US jobs report tempered expectations of further Fed rate hikes. US job growth slowed more than expected in June, pointing to a cooling labor market and prompting investors to scale back bets on near-term tightening. Meanwhile, Iran and the US concluded another round of indirect talks in Doha without a clear breakthrough toward a lasting peace agreement. Oil prices still declined as supply concerns around the Strait of Hormuz continued to ease, reducing energy-driven inflation pressures and reinforcing expectations that the BoC could adopt a more dovish stance. Financial stocks traded mixed, with Brookfield rising 1.7%, while RBC fell 1.1%. Mining shares advanced on higher gold prices, with Barrick up 4% and Franco-Nevada gaining 4.3%. Shopify jumped more than 4.5% after reaching a settlement with Shopline, a company owned by Joyy."
     }
   ]
 }
