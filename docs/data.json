@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10 05:10:36",
-  "count": 15915,
+  "updated": "2026-07-10 05:14:30",
+  "count": 15911,
   "items": [
     {
       "id": "4979766",
@@ -145364,46 +145364,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.38%，報14745點。"
-    },
-    {
-      "id": "4968289",
-      "time": "2026-07-03 05:14:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "Crusoe洽談按大約300億美元估值融資大約30億美元。該公司替Meta和甲骨文運營資料中心。"
-    },
-    {
-      "id": "mkt:019f24ad-762f-7aab-8c84-628489d7556f",
-      "time": "2026-07-03 05:12:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "【Meta says employee data not used in AI training after mouse-tracking review】Meta CTO Andrew Bosworth said at an internal all-hands that a review of a recent data-security incident linked to the company’s controversial mouse-tracking program found no employee data in AI training sets. Meta paused the project last month — which logged employees’ mouse movements and digital activity for AI training — and is investigating a sensitive data leak. Bosworth said any restart would be voluntary opt-in."
-    },
-    {
-      "id": "4968288",
-      "time": "2026-07-03 05:11:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "週四（7月2日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7888元，較週三紐約尾盤漲59點，日內整體交投於6.7966-6.7836元區間，美國非農就業報告時顯著反彈。"
-    },
-    {
-      "id": "4968286",
-      "time": "2026-07-03 05:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Citadel（城堡）旗下戰術交易基金至6月份（上半年）資產管理規模增長14.3%。"
     }
   ]
 }
