@@ -1,7 +1,145 @@
 {
   "date": "2026-07-09",
-  "count": 1707,
+  "count": 1722,
   "items": [
+    {
+      "id": "mkt:019f4594-5643-7aab-8d0b-c854fa156a06",
+      "time": "2026-07-09 14:32:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK",
+        "06166.HK"
+      ],
+      "text": "HK-listed chip and compute-capacity stocks rallied: 03986.HK up >20%, 06809.HK up 17.5%, 06166.HK up 12.8%, 00981.HK up >12%."
+    },
+    {
+      "id": "4978333",
+      "time": "2026-07-09 14:32:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股晶片股、算力股走強，兆易創新(03986.HK)漲超20%，瀾起科技(06809.HK)漲17.5%，劍橋科技(06166.HK)漲12.8%，中芯國際(00981.HK)漲超12%。"
+    },
+    {
+      "id": "4978332",
+      "time": "2026-07-09 14:32:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "迅銷集團預計全年營業收入為7300億日元，去年同期為7000億日元。"
+    },
+    {
+      "id": "mkt:019f4593-c4ee-7aab-8d0b-c0fd2f9490de",
+      "time": "2026-07-09 14:32:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【July 9: Agricultural Products Wholesale Price 200 Index up 0.03 points】Ministry of Agriculture and Rural Affairs monitoring: July 9 Agricultural Products Wholesale Price 200 Index 110.38, up 0.03 points from yesterday; basket-of-staple-produce wholesale price index 109.99, up 0.03 points. As of 14:00 Beijing time, national wholesale average prices: pork 15.51 yuan/kg (+0.5% vs yesterday); beef 66.31 yuan/kg (+0.8%); mutton 64.19 yuan/kg (-0.2%); eggs 9.61 yuan/kg (+1.3%); dressed chicken 17.31 yuan/kg (-0.2%)."
+    },
+    {
+      "id": "mkt:019f4593-c0e4-7aab-8d0b-bcefbe2972e5",
+      "time": "2026-07-09 14:32:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver traded above $59/oz, up 1.17% on the day."
+    },
+    {
+      "id": "mkt:019f4593-b6ac-7aab-8d0b-b040f6f1ffb3",
+      "time": "2026-07-09 14:32:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stocks rise on Thursday】Japan's Nikkei 225 closed up 924.80 points (+1.38%) at 67,743.85 on July 9. South Korea's KOSPI closed up 36.32 points (+0.50%) at 7,283.11 on July 9, after three consecutive sessions of declines."
+    },
+    {
+      "id": "4978331",
+      "time": "2026-07-09 14:32:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市週四收漲】日經225指數7月9日（週四）收盤上漲924.80點，漲幅1.38%，報67743.85點。韓國KOSPI指數7月9日（週四）收盤上漲36.32點，漲幅0.5%，報7283.11點，此前該指數連續三個交易日錄得收跌。"
+    },
+    {
+      "id": "4978330",
+      "time": "2026-07-09 14:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊衝突再起 聯合國秘書長呼籲降級緊張局勢】聯合國秘書長古特雷斯的發言人迪雅裡克8日表示，古特雷斯對美國和伊朗重啟戰端表示震驚、呼籲降級緊張局勢。迪雅裡克在當天的例行記者吹風會上說，美伊之間已取得的外交成果正面臨脫軌風險，雙方重回全面敵對狀態將給地區人民、國際和平與安全以及全球經濟帶來災難性後果。迪雅裡克說，古特雷斯敦促各方保持最大限度剋制，避免採取任何進一步升級緊張局勢的行動，並立即採取局勢降溫措施。同時，古特雷斯提醒各方有義務全面遵守國際法，敦促美伊緊急恢復談判，透過外交方式解決問題。（新華社）"
+    },
+    {
+      "id": "4978329",
+      "time": "2026-07-09 14:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月9日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，7月9日“農產品批發價格200指數”為110.38，比昨天上升0.03個點，“菜籃子”產品批發價格指數為109.99，比昨天上升0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.51元/公斤，比昨天上升0.5%；牛肉66.31元/公斤，比昨天上升0.8%；羊肉64.19元/公斤，比昨天下降0.2%；雞蛋9.61元/公斤，比昨天上升1.3%；白條雞17.31元/公斤，比昨天下降0.2%。重點監測的28種蔬菜平均價格為4.16元/公斤，比昨天上升1.2%；重點監測的6種水果平均價格為7.18元/公斤，與昨天持平。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.72元/公斤，比昨天上升2.6%；白鰱魚10.58元/公斤，比昨天上升3.5%；大帶魚41.52元/公斤，比昨天下降2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、韭菜、油菜、胡蘿蔔和白鰱魚，幅度分別為4.6%、3.8%、3.6%、3.6%和3.5%；價格降幅前五名的是大帶魚、巨峰葡萄、大黃花魚、洋白菜和菜花，幅度分別為2.5%、1.6%、1.5%、1.1%和1.0%。"
+    },
+    {
+      "id": "4978328",
+      "time": "2026-07-09 14:31:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達120億港元。"
+    },
+    {
+      "id": "4978327",
+      "time": "2026-07-09 14:31:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國移動北京公司原董事、副總經理劉南接受審查調查】中央紀委國家監委網站7月9日通報，據中央紀委國家監委駐中國移動紀檢監察組、北京市紀委監委訊息：中國行動通訊集團北京有限公司原黨委委員、董事、副總經理劉南涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國移動紀檢監察組紀律審查和北京市東城區監察委員會監察調查。"
+    },
+    {
+      "id": "4978326",
+      "time": "2026-07-09 14:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普當面問：你會去莫斯科嗎 澤連斯基：那邊飛了好多烏無人機 對我來說太危險了 全場一片鬨笑】7月8日，美國總統特朗普和烏克蘭總統澤連斯基在土耳其出席北約峰會時舉行了會晤，雙方談及俄烏談判問題。美國總統特朗普問澤連斯基：“你會去莫斯科（談判）嗎？”澤連斯基回答說：“這很難，因為那裡有很多烏克蘭的無人機，對我來說太危險了。”他的回答令在場人員發笑。（參考訊息）"
+    },
+    {
+      "id": "mkt:019f4591-d5d5-7aab-8d0b-a9b8f6160154",
+      "time": "2026-07-09 14:30:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "HSBC forecasts gold at $5,025 per ounce at end-2027."
+    },
+    {
+      "id": "te:markets:565549",
+      "time": "2026-07-09 14:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.68% Higher — The Nikkei 225 Index went up by 1126 points or 1.68 percent on Thursday to close at 67945 points. The rise was led by Advantest (6.06%), Tokyo Electron (5.33%) and Screen Holdings (5.15%)."
+    },
     {
       "id": "mkt:019f4591-9f84-7aab-8d0b-a58220bf9204",
       "time": "2026-07-09 14:29:59",
@@ -10,6 +148,14 @@
         "Important"
       ],
       "text": "HSBC cut its average gold forecasts to $4,560/oz for 2026 and $4,925/oz for 2027, down from prior forecasts of $4,864/oz and $5,000/oz."
+    },
+    {
+      "id": "4978325",
+      "time": "2026-07-09 14:29:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【算力租賃概念震盪回升 宏景科技漲超10%】午後算力租賃概念震盪回升，宏景科技漲超10%，軟通動力、利通電子、東陽光、億田智慧、優刻得跟漲。訊息面上，根據OpenRouter最新資料測算，6月29日至7月5日，全球AI大模型總呼叫量為46.7萬億詞元。其中，上榜的AI大模型中，中國AI大模型周呼叫量達23.45萬億詞元，環比增長15.01%，連續六週實現增長。"
     },
     {
       "id": "te:economy:565548",
