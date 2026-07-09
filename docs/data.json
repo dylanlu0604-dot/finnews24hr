@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-09 10:07:44",
-  "count": 16159,
+  "updated": "2026-07-09 10:11:37",
+  "count": 16160,
   "items": [
+    {
+      "id": "4977991",
+      "time": "2026-07-09 10:10:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將沙特股票評級下調至中性。"
+    },
+    {
+      "id": "4977990",
+      "time": "2026-07-09 10:10:14",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利將南非和埃及股票評級上調至“增持”。"
+    },
+    {
+      "id": "4977989",
+      "time": "2026-07-09 10:09:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元早盤走弱至18075。"
+    },
+    {
+      "id": "4977988",
+      "time": "2026-07-09 10:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大疆近期釋出新款無人機機型DJI EV50 可隨時起降又能百公里級飛行】大疆近期釋出新款無人機機型DJI EV50，是大疆專為百公里級、跨區域空中運載場景打造的首款垂直起降運載無人機。該機型實現全地形垂直起降。在效能上，最大載重50公斤，最大巡航速度可達160公里/小時，最遠有效航程為150公里。"
+    },
+    {
+      "id": "mkt:019f44a1-7be6-7aab-8d05-6b2acb2c0223",
+      "time": "2026-07-09 10:07:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DJI launches EV50 VTOL cargo drone with 150km range and 50kg payload】DJI has launched the EV50, its first vertical-takeoff-and-landing (VTOL) cargo drone designed for 100-km-class cross-region transport. The model features all-terrain VTOL capability, a maximum payload of 50 kg, a top cruise speed of 160 km/h and an effective range of up to 150 km."
+    },
+    {
+      "id": "4977987",
+      "time": "2026-07-09 10:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至5月底 全國基本醫保參保較去年同期增長超400萬人】國家醫保局召開例行新聞釋出會，介紹2026年上半年全國醫療保障工作情況。2026年基本醫保參保人數穩中有升，截至5月底，基本醫保參保人數較去年同期增長超過400萬人，參保率穩定在95%。國家醫保局相關負責人介紹，我國基本醫保參保結構不斷最佳化。截至2025年底，全國基本醫保參保13.31億人，同比增加407萬人，參保率鞏固在95%。其中，職工醫保參保3.89億人，比上年增加907.78萬人，增長2.4%。“十四五”期間職工醫保參保人數年均增加880萬人，年均增長2.4%。基金執行總體保持平穩。2025年全國基本醫保（含生育保險）基金總收入3.59萬億元，基金總支出3.01萬億元。其中，職工醫保統籌基金（含生育保險）收入1.83萬億元，支出1.36萬億元。居民醫保基金收入1.12萬億元，支出1.07萬億元。享受待遇人次持續增加。2025年，基本醫保參保人待遇享受人次為87.53億人次，同比增長4.9%。"
+    },
     {
       "id": "mkt:019f44a0-f392-7aab-8d05-62b65efde196",
       "time": "2026-07-09 10:07:06",
@@ -147757,50 +147807,6 @@
         "USDJPY"
       ],
       "text": "【Analyst: Reserve Bank of Australia faces multiple challenges before next rate decision】GSFM investment strategy adviser Stephen Miller said the Reserve Bank of Australia’s June meeting minutes and recent comments from Governor Bullock suggest policy rates may still need to rise. He said this reflects the government’s inability to aid the RBA’s fight against inflation via supportive structural policies. Miller added the RBA faces multiple challenges balancing structural inflation drivers and cyclical vulnerabilities."
-    },
-    {
-      "id": "4966351",
-      "time": "2026-07-02 10:11:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK海力士將於2029年在清州建成NAND快閃記憶體工廠 忠清地區投資額達170萬億韓元】SK海力士將在忠清南道清州新建一座大型NAND快閃記憶體晶圓廠，目標於2029年投入運營。包括該專案在內，SK集團計劃在忠清地區總投資170萬億韓元，涵蓋先進封裝和人工智慧資料中心領域，旨在打造全球AI樞紐。\"我們將在清州建設投資80萬億韓元的新NAND晶圓廠M17，以及投資20萬億韓元的先進封裝廠P&T7，\"SK海力士CEO郭魯正週二在忠清南道牙山舉行的忠清地區尖端產業發展願景國家報告會上表示。\"結合1GW級AI資料中心，我們在忠清地區的總投資將達到170萬億韓元。\"M17廠區佔地15.8萬平方米（約4.8萬坪），計劃明年動工，目標在2029年上半年竣工投產。SK海力士CEO郭魯正表示：\"隨著AI服務全面啟動，NAND與高頻寬儲存器（HBM）及DRAM的需求正在爆發式增長。另一方面，NAND供應出現短缺，因此必須擴大生產線。\"NAND已不再侷限於簡單資料儲存，而成為支援圖形處理器（GPU）和HBM、處理海量資料並提升AI運算效率的核心元件。"
-    },
-    {
-      "id": "4966350",
-      "time": "2026-07-02 10:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受熱帶低壓影響 瓊州海峽客滾運輸今日15時起全線停運】從交通運輸部珠江航務管理局瞭解到，由於受熱帶低壓影響，經相關部門及相關企業會商決定，瓊州海峽客滾運輸將於2026年7月2日15時起全線停運，預計停運將持續2-3天，具體復運時間將視天氣影響情況及時釋出。各港口將於7月2日13時起暫停售票，請具有過海需求的旅客和司機密切關注颱風動態及交通運輸部網站和“珠江航運”“瓊州海峽輪渡管家”“新海港”“徐聞港”“鐵路輪渡”等微信公眾號釋出的停復運資訊，及時購買船票，合理安排行程。停運期間，港口將關閉各入港通道，已在途中無法在停運前到達兩岸港口的旅客和司機可就近選擇沿途服務區休息等待，請勿前往港口。已預約尚未到港的旅客和司機，請留意港口傳送的航班動態簡訊通知。"
-    },
-    {
-      "id": "te:markets:563606",
-      "time": "2026-07-02 10:11:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Rebound on Bargain Hunting — The Hang Seng Index rose 1.5%, or 338 points, to 23,224 on Thursday, as gains in technology, financial, and retail stocks lifted the broader market. Buying was supported by bargain hunting after recent losses, despite a technology-driven selloff on Wall Street overnight. Investor sentiment toward technology shares remained positive amid growing optimism over the long-term outlook for Hong Kong-listed internet companies. In addition, sentiment was further supported by growing enthusiasm for AI after Chinese developer Zhipu briefly surpassed HK$1 trillion in market value last month. Meanwhile, according to reports Kevin Warsh said inflation expectations and inflation risks had eased in recent weeks while reaffirming the Federal Reserve's commitment to restoring price stability. Notable gainers were Tencent (3.0%), Xiaomi (3.5%), Meituan (2.0%), Kuaishou (6.5%), and Akeso (7.3%)."
-    },
-    {
-      "id": "4966349",
-      "time": "2026-07-02 10:08:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【違規收集個人資訊、過度索取許可權 32款APP及SDK被通報】工信部對APP、SDK違法違規收集使用個人資訊等問題開展治理。近期，經組織第三方檢測機構進行抽查，共發現32款APP及SDK存在侵害使用者權益行為。"
-    },
-    {
-      "id": "4966348",
-      "time": "2026-07-02 10:08:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳交所：正在調查使用者訪問澳交所線上平臺的問題。"
     }
   ]
 }
