@@ -1,7 +1,23 @@
 {
   "date": "2026-07-10",
-  "count": 260,
+  "count": 262,
   "items": [
+    {
+      "id": "4979702",
+      "time": "2026-07-10 03:42:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：EQT將收購領先的綜合電力與人工智慧基礎設施平臺Copia Power。"
+    },
+    {
+      "id": "mkt:019f4865-3d62-7aab-8d20-bc6a4a90fedb",
+      "time": "2026-07-10 03:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reported US officials said the US had not launched any new strikes against Iran in the past hour."
+    },
     {
       "id": "4979701",
       "time": "2026-07-10 03:38:59",
