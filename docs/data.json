@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-10 03:13:02",
-  "count": 15872,
+  "updated": "2026-07-10 03:16:55",
+  "count": 15874,
   "items": [
+    {
+      "id": "mkt:019f484e-e24d-7aab-8d20-9686274bee4c",
+      "time": "2026-07-10 03:15:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state TV reported that no explosions were recorded recently at Bandar Abbas port, Qeshm Island, Sirik or Jask."
+    },
+    {
+      "id": "4979689",
+      "time": "2026-07-10 03:15:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "凱雷集團股價隨成交量激增上揚，最新上漲2.3%，報每股44.06美元。"
+    },
+    {
+      "id": "4979688",
+      "time": "2026-07-10 03:15:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社訊息：阿巴斯港、格什姆、錫裡克及賈斯克暫無爆炸事件相關報道。"
+    },
+    {
+      "id": "4979687",
+      "time": "2026-07-10 03:13:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7910元，較週三夜盤收盤漲142點。成交量431.64億美元。"
+    },
+    {
+      "id": "mkt:019f484c-bb1b-7aab-8d20-8b03e077445c",
+      "time": "2026-07-10 03:13:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to Fox News, U.S. Commerce Secretary Howard Lutnick said Trump believes oil prices will remain low going forward."
+    },
+    {
+      "id": "4979686",
+      "time": "2026-07-10 03:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟股價在成交量飆升的過程中收窄跌幅，最新報每股381.70美元，跌幅0.42%。"
+    },
     {
       "id": "mkt:019f484b-bbd7-7aab-8d20-849ff60134a1",
       "time": "2026-07-10 03:12:30",
@@ -145024,48 +145083,6 @@
         "Brent"
       ],
       "text": "【U.S. officials feared Israel might target Iranian negotiators】U.S. intelligence and diplomatic officials feared during secret U.S.–Iran talks this spring that Israel might plan assassinations of senior Iranian figures involved in the negotiations, including negotiator Araghchi and parliament speaker Qalibaf. Washington alerted Tehran of the potential risk via regional partners, citing concern such strikes would directly undermine fragile ceasefire and interim peace talks. Israeli planning reportedly flagged multiple senior Iranians as possible targets early in the conflict, including moderates linked to dialogue. After April, U.S. engagement intensified — coordinated by Vice President Vance, U.S. Middle East envoy Witkoff and Jared Kushner — to protect the negotiations. Iran responded by tightening security for senior officials and using fighter escorts on some foreign trips to mitigate attack risk."
-    },
-    {
-      "id": "mkt:019f2442-4c5e-7aab-8c83-956c94e919bd",
-      "time": "2026-07-03 03:15:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO said he believes long-term trends remain consistent with the underlying objectives of the company’s departmental reorganization."
-    },
-    {
-      "id": "mkt:019f2442-0c23-7aab-8c83-8b38eab4235e",
-      "time": "2026-07-03 03:15:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Five Colorado wildfires burn nearly 506 sq km】Five wildfires in Colorado have burned nearly 506 sq km as of the morning of July 2, state officials said. The largest, the Aspen X fire, ignited on the morning of June 29 in southern Colorado and had expanded to about 194 sq km by the evening of July 1. The Pueblo County sheriff's office said Aspen X has destroyed more than 180 structures and injured one firefighter."
-    },
-    {
-      "id": "4968244",
-      "time": "2026-07-03 03:15:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長扎克伯格： 認為長期發展趨勢仍與公司此次重組的整體框架相契合。"
-    },
-    {
-      "id": "mkt:019f2441-2d26-7aab-8c83-844de7f7eb6c",
-      "time": "2026-07-03 03:14:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "The Information reported Tesla (TSLA.O) has capped employee AI spending at $200 per week."
     }
   ]
 }
