@@ -1,7 +1,132 @@
 {
   "date": "2026-07-10",
-  "count": 63,
+  "count": 76,
   "items": [
+    {
+      "id": "4979595",
+      "time": "2026-07-10 01:02:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣220億美元30年期國債，得標利率5.058%（6月11日為5.020%），投標倍數2.44（前次為2.30）。"
+    },
+    {
+      "id": "mkt:019f47d4-888c-7aab-8d1e-6c96ecafb22a",
+      "time": "2026-07-10 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 30-year Treasury auction on July 9: stop-out yield 5.058%, prior 5.02%."
+    },
+    {
+      "id": "mkt:019f47d4-7401-7aab-8d1e-665e2a6055c9",
+      "time": "2026-07-10 01:02:13",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 30-year Treasury auction on July 9: bid-cover ratio 2.44, prior 2.33."
+    },
+    {
+      "id": "mkt:019f47d4-71c9-7aab-8d1e-5b7fea4e9219",
+      "time": "2026-07-10 01:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "US 30-year Treasury auction as of July 9: percentage of awards at the high (stop-out) yield 7.13%, prior 32.36%."
+    },
+    {
+      "id": "4979594",
+      "time": "2026-07-10 01:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：全新 ChatGPT 桌面應用整合對話、辦公與程式碼工具三大功能。GPT-5.6 系列模型 SOL、TERRA、LUNA 將在 ChatGPT、Codex 及應用程式介面中逐步上線。"
+    },
+    {
+      "id": "mkt:019f47d4-4e6f-7aab-8d1e-55f37903a6dc",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bid/Cover Ratio (Jul.9) | actual 2.44 | previous 2.33"
+    },
+    {
+      "id": "mkt:019f47d4-4e66-7aab-8d1e-4e2eed147acf",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction Accepted at High (Jul.9) | actual 7.13% | previous 32.36%"
+    },
+    {
+      "id": "mkt:019f47d4-4e57-7aab-8d1e-441c6fee1029",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction High Yield Rate (Jul.9) | actual 5.058% | previous 5.02%"
+    },
+    {
+      "id": "mkt:019f47d4-0adf-7aab-8d1e-382bfb6d4e60",
+      "time": "2026-07-10 01:01:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI launched ChatGPT Work, powered by GPT-5.6, its latest frontier model series. The new ChatGPT desktop app integrates chat, work functions and CODEX."
+    },
+    {
+      "id": "4979593",
+      "time": "2026-07-10 01:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 釋出 ChatGPT Work，該產品由最新前沿模型系列 GPT-5.6 驅動。"
+    },
+    {
+      "id": "4979592",
+      "time": "2026-07-10 01:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：ChatGPT 桌面端的對話、辦公及程式碼工具現已面向全球所有 Mac 與 Windows 使用者逐步上線。 ChatGPT Work 功能將率先在網頁端與移動端面向專業版、企業版、教育版使用者分批推出，Plus 版與商業版使用者將在後續幾日陸續開放使用。"
+    },
+    {
+      "id": "4979591",
+      "time": "2026-07-10 01:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理：“不允許”伊朗擁核 擬大幅追加國防預算 】以色列總理內塔尼亞胡9日表示，無論美國和伊朗是否達成協議，以色列都“不允許”伊朗獲得核武器。同時，以色列計劃未來10年提高國防預算，著力發展空軍和本土軍工產業。內塔尼亞胡在以軍空軍飛行員畢業典禮上作出上述表態。他宣佈，未來10年將向國防預算追加3500億新謝克爾（約合1177億美元），其中相當一部分將用於空軍建設，同時發展本土軍工產業，以減少對海外採購的依賴。他稱，以色列有關伊朗核問題的政策“非常明確”，無論有沒有協議，都不允許伊朗擁有核武器。（新華社）"
+    },
+    {
+      "id": "4979590",
+      "time": "2026-07-10 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.69%，滬銅收漲1.58%，滬鋁收漲0.48%，滬鋅收漲1.26%，滬鉛收跌0.19%，滬鎳收漲1.08%，滬錫收漲2.26%。氧化鋁夜盤收漲0.29%，鋁合金收漲0.63%。不鏽鋼夜盤收跌0.59%。"
+    },
     {
       "id": "4979589",
       "time": "2026-07-10 00:57:13",

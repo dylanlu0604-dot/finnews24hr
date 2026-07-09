@@ -1,7 +1,132 @@
 {
-  "updated": "2026-07-10 01:00:10",
-  "count": 15877,
+  "updated": "2026-07-10 01:04:05",
+  "count": 15875,
   "items": [
+    {
+      "id": "4979595",
+      "time": "2026-07-10 01:02:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣220億美元30年期國債，得標利率5.058%（6月11日為5.020%），投標倍數2.44（前次為2.30）。"
+    },
+    {
+      "id": "mkt:019f47d4-888c-7aab-8d1e-6c96ecafb22a",
+      "time": "2026-07-10 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 30-year Treasury auction on July 9: stop-out yield 5.058%, prior 5.02%."
+    },
+    {
+      "id": "mkt:019f47d4-7401-7aab-8d1e-665e2a6055c9",
+      "time": "2026-07-10 01:02:13",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 30-year Treasury auction on July 9: bid-cover ratio 2.44, prior 2.33."
+    },
+    {
+      "id": "4979594",
+      "time": "2026-07-10 01:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：全新 ChatGPT 桌面應用整合對話、辦公與程式碼工具三大功能。GPT-5.6 系列模型 SOL、TERRA、LUNA 將在 ChatGPT、Codex 及應用程式介面中逐步上線。"
+    },
+    {
+      "id": "mkt:019f47d4-71c9-7aab-8d1e-5b7fea4e9219",
+      "time": "2026-07-10 01:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "US 30-year Treasury auction as of July 9: percentage of awards at the high (stop-out) yield 7.13%, prior 32.36%."
+    },
+    {
+      "id": "mkt:019f47d4-4e6f-7aab-8d1e-55f37903a6dc",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bid/Cover Ratio (Jul.9) | actual 2.44 | previous 2.33"
+    },
+    {
+      "id": "mkt:019f47d4-4e66-7aab-8d1e-4e2eed147acf",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction Accepted at High (Jul.9) | actual 7.13% | previous 32.36%"
+    },
+    {
+      "id": "mkt:019f47d4-4e57-7aab-8d1e-441c6fee1029",
+      "time": "2026-07-10 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction High Yield Rate (Jul.9) | actual 5.058% | previous 5.02%"
+    },
+    {
+      "id": "mkt:019f47d4-0adf-7aab-8d1e-382bfb6d4e60",
+      "time": "2026-07-10 01:01:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI launched ChatGPT Work, powered by GPT-5.6, its latest frontier model series. The new ChatGPT desktop app integrates chat, work functions and CODEX."
+    },
+    {
+      "id": "4979593",
+      "time": "2026-07-10 01:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 釋出 ChatGPT Work，該產品由最新前沿模型系列 GPT-5.6 驅動。"
+    },
+    {
+      "id": "4979592",
+      "time": "2026-07-10 01:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：ChatGPT 桌面端的對話、辦公及程式碼工具現已面向全球所有 Mac 與 Windows 使用者逐步上線。 ChatGPT Work 功能將率先在網頁端與移動端面向專業版、企業版、教育版使用者分批推出，Plus 版與商業版使用者將在後續幾日陸續開放使用。"
+    },
+    {
+      "id": "4979591",
+      "time": "2026-07-10 01:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理：“不允許”伊朗擁核 擬大幅追加國防預算 】以色列總理內塔尼亞胡9日表示，無論美國和伊朗是否達成協議，以色列都“不允許”伊朗獲得核武器。同時，以色列計劃未來10年提高國防預算，著力發展空軍和本土軍工產業。內塔尼亞胡在以軍空軍飛行員畢業典禮上作出上述表態。他宣佈，未來10年將向國防預算追加3500億新謝克爾（約合1177億美元），其中相當一部分將用於空軍建設，同時發展本土軍工產業，以減少對海外採購的依賴。他稱，以色列有關伊朗核問題的政策“非常明確”，無論有沒有協議，都不允許伊朗擁有核武器。（新華社）"
+    },
+    {
+      "id": "4979590",
+      "time": "2026-07-10 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.69%，滬銅收漲1.58%，滬鋁收漲0.48%，滬鋅收漲1.26%，滬鉛收跌0.19%，滬鎳收漲1.08%，滬錫收漲2.26%。氧化鋁夜盤收漲0.29%，鋁合金收漲0.63%。不鏽鋼夜盤收跌0.59%。"
+    },
     {
       "id": "4979589",
       "time": "2026-07-10 00:57:13",
@@ -144962,148 +145087,6 @@
         "國際"
       ],
       "text": "【AI債務洪流讓美國公司債市場看似更安全 實則風險暗湧】從表面看，越來越多高評級科技公司發行債券正在提升美國公司債市場的安全度。但許多投資者擔心，這種安全性最終只是一種幻覺。今年一些最大的公司債發行方，包括亞馬遜、微軟和Meta Platforms Inc.，評級為AA甚至AAA。它們發行更多債券，事實上推高了彭博美國投資級債券指數的平均評級：巴克萊截至6月底的分析顯示，AA和A評級債券佔該指數的52%，高於2021年的約46%。與此同時，BBB評級債券在指數中的佔比已從2021年的46%降至41%。這也是今年高評級公司債風險溢價相對較窄的部分原因，7月1日，其利差僅為0.74個百分點，接近數十年低點。"
-    },
-    {
-      "id": "4968145",
-      "time": "2026-07-03 01:03:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會（FTC）：旅遊應用Hopper將支付3500萬美元，了結聯邦貿易委員會對其提出的相關指控。"
-    },
-    {
-      "id": "4968144",
-      "time": "2026-07-03 01:03:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【費城半導體指數跌超6% 美光科技、Arm跌超6%】費城半導體指數跌超6%，科磊跌超12%，美光科技、Arm跌超6%，美國超微公司、英特爾、高通跌超5%。"
-    },
-    {
-      "id": "mkt:019f23c8-f4d9-7aab-8c81-8826d9de39d9",
-      "time": "2026-07-03 01:03:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total active rigs 580 in week to July 3, prior 573."
-    },
-    {
-      "id": "mkt:019f23c8-c99c-7aab-8c81-821019101d3f",
-      "time": "2026-07-03 01:03:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US gas-directed rig count rose to 126 in the week ended July 3, from 125 the prior week."
-    },
-    {
-      "id": "mkt:019f23c8-aa2e-7aab-8c81-78bcc213f51e",
-      "time": "2026-07-03 01:03:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.3) | actual 126 | previous 125"
-    },
-    {
-      "id": "mkt:019f23c8-9e55-7aab-8c81-77eeee286c05",
-      "time": "2026-07-03 01:02:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US oil rigs totaled 445 in the week to July 3, up from 440 a week earlier."
-    },
-    {
-      "id": "mkt:019f23c8-9677-7aab-8c81-6b9375ad618b",
-      "time": "2026-07-03 01:02:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jul.3) | actual 580 | previous 573"
-    },
-    {
-      "id": "mkt:019f23c8-83bf-7aab-8c81-626001665c14",
-      "time": "2026-07-03 01:02:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jul.3) | actual 445 | previous 440"
-    },
-    {
-      "id": "4968143",
-      "time": "2026-07-03 01:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國油服貝克休斯：美國能源企業鑽井機連增三週。"
-    },
-    {
-      "id": "4968142",
-      "time": "2026-07-03 01:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月3日當週石油鑽井數 445，前值 440。"
-    },
-    {
-      "id": "4968141",
-      "time": "2026-07-03 01:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月3日當週總鑽井數 580，前值 573。"
-    },
-    {
-      "id": "4968140",
-      "time": "2026-07-03 01:01:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯資料顯示，截至7月2日當週，美國各油氣盆地每週石油天然氣鑽井平臺數量變動如下：二疊紀盆地較一週前增加3座；伊格爾福德盆地不變；威利斯頓盆地減少1座；奈厄布拉勒盆地不變；海恩斯維爾盆地不變；尤蒂卡盆地不變。"
-    },
-    {
-      "id": "4968139",
-      "time": "2026-07-03 01:01:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯：截至7月2日當週，美國天然氣鑽井平臺數量增加1座，至126座。"
-    },
-    {
-      "id": "4968138",
-      "time": "2026-07-03 01:00:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯：截至7月2日當週，美國水平鑽井機數量增加33臺，至520臺。"
-    },
-    {
-      "id": "mkt:019f23c6-901d-7aab-8c81-5d7b4ad9bd90",
-      "time": "2026-07-03 01:00:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel defense minister Katz said in an assessment today that the IDF has destroyed about 83% of Hamas’s tunnel network within Gaza Strip areas under IDF control."
     }
   ]
 }
