@@ -1,7 +1,26 @@
 {
   "date": "2026-07-10",
-  "count": 396,
+  "count": 398,
   "items": [
+    {
+      "id": "te:markets:565802",
+      "time": "2026-07-10 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Rises by 1.05% — Top currency gainers are New Zealand Dollar (1.05%), Brazilian Real (1.02%), Norwegian Krone (0.38%), British Pound (0.15%), Euro (0.14%) and Japanese Yen (0.13%). Biggest losers are Polish Zloty (-0.39%), Turkish Lira (-0.26%) and Dollar Index (-0.07%)."
+    },
+    {
+      "id": "4979796",
+      "time": "2026-07-10 06:14:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：日東電工將擴大硬碟電路板產能。"
+    },
     {
       "id": "mkt:019f48ef-6158-7aab-8d21-f6f1763528fd",
       "time": "2026-07-10 06:11:15",

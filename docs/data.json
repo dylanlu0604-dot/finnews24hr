@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-10 06:12:54",
+  "updated": "2026-07-10 06:16:44",
   "count": 15866,
   "items": [
+    {
+      "id": "te:markets:565802",
+      "time": "2026-07-10 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Rises by 1.05% — Top currency gainers are New Zealand Dollar (1.05%), Brazilian Real (1.02%), Norwegian Krone (0.38%), British Pound (0.15%), Euro (0.14%) and Japanese Yen (0.13%). Biggest losers are Polish Zloty (-0.39%), Turkish Lira (-0.26%) and Dollar Index (-0.07%)."
+    },
+    {
+      "id": "4979796",
+      "time": "2026-07-10 06:14:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：日東電工將擴大硬碟電路板產能。"
+    },
     {
       "id": "mkt:019f48ef-6158-7aab-8d21-f6f1763528fd",
       "time": "2026-07-10 06:11:15",
@@ -144905,25 +144924,6 @@
         "Impact mixed"
       ],
       "text": "【Trump dodges question on potential US 5% OpenAI stake, highlights US 10% Intel holding】In a CNBC interview, Trump declined to say whether the US would take a 5% stake in OpenAI after a Financial Times report on a potential deal, instead highlighting the US government's stake in Intel. He cited last August's $8.9bn investment in Intel common stock that gave the US government a 10% holding and said he had demanded a 10% stake in return for fixing the company's problems."
-    },
-    {
-      "id": "4968337",
-      "time": "2026-07-03 06:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美東時間17:45，美國電網運營巨頭PJM Interconnection LLC在Dominion地區的實時電價飆漲至2588美元/MWh。"
-    },
-    {
-      "id": "te:markets:563888",
-      "time": "2026-07-03 06:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Rises by 0.90% — Top currency gainers are Japanese Yen (0.90%), South Korean Won (0.80%), Swiss Franc (0.76%), British Pound (0.55%) and Euro (0.50%). Biggest losers are Dollar Index (-0.52%) and Turkish Lira (-0.25%)."
     }
   ]
 }
