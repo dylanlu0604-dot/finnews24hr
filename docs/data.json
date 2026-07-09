@@ -1,7 +1,527 @@
 {
-  "updated": "2026-07-10 03:51:56",
-  "count": 15889,
+  "updated": "2026-07-10 04:31:35",
+  "count": 15909,
   "items": [
+    {
+      "id": "4979744",
+      "time": "2026-07-10 04:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將根據談判進展考量後續替代補救措施。"
+    },
+    {
+      "id": "4979743",
+      "time": "2026-07-10 04:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：必須透過談判調整噴氣發動機及零部件的進口。"
+    },
+    {
+      "id": "mkt:019f4892-3727-7aab-8d21-662443f2cc3b",
+      "time": "2026-07-10 04:29:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: Commerce secretary recommends not imposing tariffs under Section 232 at this time."
+    },
+    {
+      "id": "4979742",
+      "time": "2026-07-10 04:28:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：商務部不建議對飛機進口實施 232 條款關稅。"
+    },
+    {
+      "id": "4979741",
+      "time": "2026-07-10 04:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗航空局局長阿布扎爾・希魯迪週四表示，儘管遭遇其所稱的破壞活動與安全威脅，全國航班運營仍保持正常、未受中斷。"
+    },
+    {
+      "id": "4979740",
+      "time": "2026-07-10 04:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：沃特公司將於 7 月 16 日出席參議院銀行委員會聽證會作證。"
+    },
+    {
+      "id": "te:markets:565796",
+      "time": "2026-07-10 04:27:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Gold Miners Lead Gains — The S&P/TSX Composite Index gained 0.8% to close at 35,200 on Thursday, led by mining and financial stocks. Gold prices climbed as the US dollar weakened and investors sought safe-haven assets, boosting miners. Financials also advanced, with RBC rising 1.4% and TD Bank adding 1.1%. Elsewhere, Triple Flag gained 2.9% after reporting preliminary second-quarter revenue of $129.2 million, up from a year earlier. Firan Technology fell 2.8%, reversing earlier gains despite beating second-quarter revenue estimates. Meta also announced plans to build its first Canadian data center in Alberta, underscoring continued investment in AI infrastructure. Investors now await Canada's June employment report on Friday for further clues on the BoC's policy outlook. Markets widely expect the central bank to leave interest rates unchanged at its next meeting."
+    },
+    {
+      "id": "4979739",
+      "time": "2026-07-10 04:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：進口商品不得威脅損害美國國家安全。"
+    },
+    {
+      "id": "mkt:019f4890-0d36-7aab-8d21-5a240b0819ff",
+      "time": "2026-07-10 04:27:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The White House said Trump directed the commerce secretary and the U.S. Trade Representative to negotiate with trading partners to address issues that threaten U.S. national security."
+    },
+    {
+      "id": "4979738",
+      "time": "2026-07-10 04:26:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普指示商務部長與美國貿易代表辦公室同貿易伙伴談判達成協議，以解決國家安全面臨的潛在損害威脅。"
+    },
+    {
+      "id": "4979737",
+      "time": "2026-07-10 04:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮表示，商務部長已認定美國航空業過度依賴外國供應鏈。"
+    },
+    {
+      "id": "mkt:019f488e-ebd2-7aab-8d21-520fbefe796b",
+      "time": "2026-07-10 04:25:53",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish",
+        "RTX.O",
+        "LMT.O"
+      ],
+      "text": "U.S. White House: Commerce Secretary has determined the U.S. aviation industry is overly dependent on foreign supply chains."
+    },
+    {
+      "id": "4979736",
+      "time": "2026-07-10 04:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將持續監控商用飛機及噴氣發動機進口情況。"
+    },
+    {
+      "id": "mkt:019f488e-510a-7aab-8d21-4f57a39e024d",
+      "time": "2026-07-10 04:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House said the Commerce secretary has determined the US aerospace industry faces challenges and is unlikely to fully meet economic and national-security needs."
+    },
+    {
+      "id": "4979735",
+      "time": "2026-07-10 04:25:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮表示，美國商務部長認定美國航空製造業目前在充分滿足經濟與國家安全需求方面面臨挑戰。"
+    },
+    {
+      "id": "4979734",
+      "time": "2026-07-10 04:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：需透過談判調整商用飛機進口事宜。"
+    },
+    {
+      "id": "mkt:019f488e-06f5-7aab-8d21-40f1f6a566bc",
+      "time": "2026-07-10 04:24:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House to adjust import policy for commercial aircraft, jet engines and aircraft and engine parts."
+    },
+    {
+      "id": "4979733",
+      "time": "2026-07-10 04:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗科納拉克市長表示，相關部門已立即趕赴襲擊現場，目前正在調查事件規模及具體細節。"
+    },
+    {
+      "id": "4979732",
+      "time": "2026-07-10 04:23:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：正調整商用飛機、噴氣發動機以及飛機和發動機零部件的對美進口規則。"
+    },
+    {
+      "id": "mkt:019f488c-ab76-7aab-8d21-3f2c1c3b89d8",
+      "time": "2026-07-10 04:23:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported the mayor of Konarak, Iran, said authorities rushed to the attack site and are investigating the scale and details of the incident."
+    },
+    {
+      "id": "te:markets:565795",
+      "time": "2026-07-10 04:23:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Finish Higher — US stocks closed higher on Thursday, with the S&P 500 rising 0.8%, the Nasdaq advancing 1.3%, and the Dow Jones adding 139 points. Renewed strength in chipmakers helped offset uncertainty surrounding the economic outlook. Sentiment towards AI-linked stocks has been volatile lately amid concerns over high valuations, but was buoyed by strong demand for SK Hynix's US share offering, which was more than seven times oversubscribed. Micron and Sandisk gained 5.2% and 7.6%, respectively, while Applied Materials rose 3.2%. At the same time, oil prices and bond yields eased amid signs of continued tanker traffic through the Strait of Hormuz despite renewed US-Iran hostilities. This provided a boost to the financial sector, with Morgan Stanley (1.9%), Goldman Sachs (2.6%) and American Express (3.1%) all rising. Meta surged 4% after announcing it will target production of its own AI chip by September."
+    },
+    {
+      "id": "4979731",
+      "time": "2026-07-10 04:22:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮釋出關於飛機及噴氣發動機進口的公告。"
+    },
+    {
+      "id": "mkt:019f488b-6536-7aab-8d21-30d7de8a6f73",
+      "time": "2026-07-10 04:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu, Trump agree to maintain bilateral policy coordination in phone call】On the evening of the 9th local time, Israel’s Prime Minister’s Office said Prime Minister Netanyahu spoke by phone with US President Trump and the two agreed to continue policy coordination across all areas. The office said Trump briefed Netanyahu on recent US actions in the Gulf region."
+    },
+    {
+      "id": "4979730",
+      "time": "2026-07-10 04:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡與特朗普通話 商定保持兩國政策協調】當地時間9日晚間，以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。宣告表示，特朗普在通話中向內塔尼亞胡通報了美方在海灣地區的最新行動進展。（央視新聞）"
+    },
+    {
+      "id": "4979729",
+      "time": "2026-07-10 04:18:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股大類資產類ETF多數收漲，納指ETF漲超1.6%、與小盤股ETF、黃金ETF領跑】週四（7月9日），納指100 ETF收漲1.66%，羅素2000指數ETF漲1.28%，黃金ETF漲1%，巴克萊美國可轉債ETF、標普樸500 ETF至少漲0.85%，新興市場ETF漲0.83%，農產品基金、美國房地產ETF、道指ETF、美國國債20+年ETF至多漲0.33%。做多美元指數收平，歐元做多跌0.03%，大豆基金跌0.40%，恐慌指數做多跌1.95%，美國布倫特油價基金跌3.21%。"
+    },
+    {
+      "id": "4979728",
+      "time": "2026-07-10 04:17:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【油價回落提振風險偏好，拉美資產全面上漲】週四，隨著油價回落提振了市場風險情緒，拉美股市和貨幣雙雙反彈。不過，美伊敵對行動的再度升級仍令投資者保持警惕。在拉美地區，大多數貨幣兌美元升值，MSCI拉美貨幣指數漲0.7%。對應的拉美股票指數漲1.4%。哥倫比亞比索領漲，升值1.2%。然而，該國股市卻受到拖累。近期哥倫比亞資產普遍受到青睞，主要得益於市場寄望阿韋拉爾多·德拉埃斯普列拉（Abelardo De La Espriella）能在總統大選中獲勝。"
+    },
+    {
+      "id": "4979727",
+      "time": "2026-07-10 04:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行（全國協會）宣佈贖回 20 億美元票面利率 5.526% 高階銀行債券及 6 億美元浮動利率高階銀行債券，債券到期日均為 2026 年 8 月。"
+    },
+    {
+      "id": "mkt:019f4881-9878-7aab-8d21-2a6a950a4650",
+      "time": "2026-07-10 04:11:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's state news agency, citing local officials, said the Iranian naval base in Konarak was attacked by an \"enemy\"."
+    },
+    {
+      "id": "4979726",
+      "time": "2026-07-10 04:10:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方通訊社援引當地官員訊息稱，伊朗位於科納拉克的海軍基地遭“敵方”襲擊。"
+    },
+    {
+      "id": "mkt:019f487d-8b7e-7aab-8d21-24d42b3633c6",
+      "time": "2026-07-10 04:06:54",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI: GPT-5.6 is now the preferred model for Microsoft 365 Copilot."
+    },
+    {
+      "id": "mkt:019f487d-0c5a-7aab-8d21-1b33d8492be6",
+      "time": "2026-07-10 04:06:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lagarde says she does not currently intend to run in French presidential race, will continue to speak on Europe】ECB President Christine Lagarde said she does not currently intend to run in next year’s French presidential election but plans to voice her views on Europe’s future during the campaign. She said Europe must be protected and the EU remains an important framework for member states, including France. Lagarde acknowledged prior speculation she might leave the ECB early to enter French politics, but said she would not step down while the central bank faces major challenges."
+    },
+    {
+      "id": "4979725",
+      "time": "2026-07-10 04:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統佩特羅重申支援太平洋地區政治過渡程序。"
+    },
+    {
+      "id": "mkt:019f487a-41cc-7aab-8d21-17171e1898f3",
+      "time": "2026-07-10 04:03:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US equities closed higher on Thursday, July 9: Dow Jones Industrial Average +138.96 pts (+0.27%) to 52,487.35; S&P 500 +60.90 pts (+0.81%) to 7,543.61; Nasdaq Composite +336.24 pts (+1.30%) to 26,206.89."
+    },
+    {
+      "id": "4979724",
+      "time": "2026-07-10 04:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室預估：美國 6 月財政赤字達 1260 億美元。"
+    },
+    {
+      "id": "4979723",
+      "time": "2026-07-10 04:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西總統盧拉與哥倫比亞總統佩特羅通電話，商討哥倫比亞國內政局。"
+    },
+    {
+      "id": "mkt:019f4879-944a-7aab-8d21-0e3a58c77cdb",
+      "time": "2026-07-10 04:02:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI said Microsoft will access its models via API to offer GPT-5.6 to Microsoft 365 customers."
+    },
+    {
+      "id": "4979722",
+      "time": "2026-07-10 04:02:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE非官方收盤上漲264.65點，漲幅0.76%，報35,200.45點。"
+    },
+    {
+      "id": "4979721",
+      "time": "2026-07-10 04:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客收跌4.2%，創2025年4月份以來最差單日表現。"
+    },
+    {
+      "id": "4979720",
+      "time": "2026-07-10 04:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事公司財報不及預期，股價收跌 3.3%，創 5 月以來單日最大跌幅。"
+    },
+    {
+      "id": "mkt:019f4878-acda-7aab-8d21-072f9e6e2228",
+      "time": "2026-07-10 04:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Regions",
+        "Wall Street (US)",
+        "MU.O",
+        "Impact bullish",
+        "SNDK.O",
+        "WDC.O"
+      ],
+      "text": "【US close: major indexes higher; chip stocks lead gains】US stocks closed higher on Thursday: Nasdaq +1.3%, S&P 500 +0.8%, Dow Jones Industrial Average +0.26%. Semiconductor names led gains—Micron Technology (MU.O) +4.5%, SanDisk (SNDK.O) +7.5%, Western Digital (WDC.O) +5%. Meta Platforms (META.O) +4.7%. Nasdaq Golden Dragon China Index +0.56%; iQiyi (IQ.O) +8.5%, Alibaba (BABA.N) +2%."
+    },
+    {
+      "id": "4979719",
+      "time": "2026-07-10 04:01:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價收盤上漲4.7%，創5月29日以來最高水平。"
+    },
+    {
+      "id": "4979718",
+      "time": "2026-07-10 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.27%，標普500指數漲0.81%，納指漲1.30%。Lumentum Holdings Inc. Common Stock When Issued漲11.13%，慧與漲9.92%，Arm Holdings Plc漲9.20%，閃迪漲7.59%，挪威郵輪漲6.96%。“七姐妹”方面：Meta Platforms漲4.70%，特斯拉漲3.17%，亞馬遜漲1.40%，蘋果漲0.90%，微軟漲0.27%，英偉達跌0.66%，谷歌跌0.69%。"
+    },
+    {
+      "id": "4979717",
+      "time": "2026-07-10 04:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯工業平均指數非官方收盤上漲109.48點，漲幅0.21%，報52457.87點。"
+    },
+    {
+      "id": "4979716",
+      "time": "2026-07-10 04:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：微軟還將透過API直接訪問OPENAI模型，為微軟365客戶提供GPT-5.6。"
+    },
+    {
+      "id": "4979715",
+      "time": "2026-07-10 04:00:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6現已成為微軟365副駕駛（Microsoft 365 Copilot）的首選模型。"
+    },
+    {
+      "id": "4979714",
+      "time": "2026-07-10 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.55%】愛奇藝漲8.10%，優品車漲5.31%，Tims中國漲4.17%，聲網漲4.09%，虎牙漲3.51%。"
+    },
+    {
+      "id": "4979713",
+      "time": "2026-07-10 03:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Cursor 正在研發一款 AI 智慧助手，用以對標 Claude Cowork】兩名知情專案人士透露，Cursor 正在開發一款通用人工智慧智慧體，旨在對標 Anthropic 旗下 Claude Cowork 等熱門工具，這也是該公司跳出程式碼專用工具賽道、拓展多元業務佈局的舉措之一。知情人士稱，今年 4 月 Cursor 開始租用太空探索技術公司旗下人工智慧部門 SpaceX AI 的算力資源後，便啟動了這款全新智慧體的研發工作，該研發專案開展於太空探索技術公司計劃以 600 億美元收購 Cursor 交易落地之前。一旦這筆收購完成，這款新智慧體將助力 SpaceXAI 拓展企業端業務。此前兩家企業已聯合推出大模型 Grok 4.5，該模型既能完成工程類任務，也可處理通用知識類工作。兩名知情人士透露，Cursor 這款內部代號為 Sand 的新產品，是該公司首款面向普通 AI 使用者、而非程式設計師群體的產品。它將充當個性化助手，除處理工程相關工作外，還可完成回覆郵件、簡訊、整理表格等各類任務。一位訊息人士稱，Cursor 部分產品團隊正在對該專案進行測試與最佳化，這款產品已於 6 月下旬在公司內部上線試用。"
+    },
+    {
+      "id": "mkt:019f4876-dd82-7aab-8d20-fe9f32b94495",
+      "time": "2026-07-10 03:59:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's prime minister's office said Trump informed Netanyahu of US actions in the Gulf. Netanyahu referenced Turkish President Erdogan and his allies' hardline remarks on Israel's presence and stressed the need to maintain Israel's border security zone."
+    },
+    {
+      "id": "mkt:019f4876-772c-7aab-8d20-f0fb44857cda",
+      "time": "2026-07-10 03:59:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Information reports Cursor is developing an AI agent aimed at competing with Claude Cowork."
+    },
+    {
+      "id": "mkt:019f4875-d9b4-7aab-8d20-ee923d132971",
+      "time": "2026-07-10 03:58:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Dollar index edges down 0.09% to 100.904 at New York close】The dollar index, measuring the greenback against six major currencies, fell 0.09% to 100.904 at the New York close. EUR/USD 1.1434 (prev. 1.1426); GBP/USD 1.3416 (1.3400); USD/JPY 162.34 (162.48); USD/CHF 0.8066 (0.8076); USD/CAD 1.4167 (1.4169); USD/SEK 9.6602 (9.6903)."
+    },
+    {
+      "id": "4979712",
+      "time": "2026-07-10 03:58:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Cursor公司正開發一款人工智慧代理，對標Claude 3 Opus複製。"
+    },
+    {
+      "id": "4979711",
+      "time": "2026-07-10 03:56:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室宣告： 內塔尼亞胡總理與特朗普總統持續保持溝通，二人於今晚再次通電話，雙方同意兩國在多條戰線持續開展協同行動。特朗普總統向總理通報了美國在海灣地區採取的相關行動。以色列總理則提及埃爾多安及其幕僚發表諸多否定以色列國家生存權的激烈言論，並強調需沿以色列邊境設立安全緩衝區。"
+    },
+    {
+      "id": "4979710",
+      "time": "2026-07-10 03:56:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡與特朗普總統通話“以協調在各個領域的行動”，以色列總理辦公室表示。特朗普向內塔尼亞胡通報了美國針對伊朗的行動。"
+    },
+    {
+      "id": "mkt:019f4873-0144-7aab-8d20-e6c04dc6e706",
+      "time": "2026-07-10 03:55:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli Prime Minister's Office said Prime Minister Netanyahu and US President Trump spoke by phone and agreed to continue coordination across multiple areas."
+    },
+    {
+      "id": "4979709",
+      "time": "2026-07-10 03:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與內塔尼亞胡就伊朗問題展開會談。"
+    },
+    {
+      "id": "mkt:019f4871-7721-7aab-8d20-d91def40209c",
+      "time": "2026-07-10 03:53:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports the Israeli prime minister's office said Trump spoke with Netanyahu on Thursday to discuss the situation in Iran."
+    },
+    {
+      "id": "4979708",
+      "time": "2026-07-10 03:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美媒：特朗普週四與以色列總理內塔尼亞胡進行了通話。"
+    },
     {
       "id": "4979707",
       "time": "2026-07-10 03:50:43",
@@ -144842,367 +145362,6 @@
         "Important"
       ],
       "text": "United States | US Treasuries held by Foreign Central Banks (Jun.26) | actual -11064000000B | previous 5656000000B"
-    },
-    {
-      "id": "4968272",
-      "time": "2026-07-03 04:31:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）：颶風道格拉斯現於太平洋開闊海域向西北偏北行進，預計本週五減弱為殘餘低壓環流。"
-    },
-    {
-      "id": "mkt:019f2487-3b5b-7aab-8c84-22dde86a13c3",
-      "time": "2026-07-03 04:31:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports the U.S. plans to tighten workplace immigration enforcement."
-    },
-    {
-      "id": "4968271",
-      "time": "2026-07-03 04:28:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利給予海光資訊超配的初始評級，目標價480元人民幣。"
-    },
-    {
-      "id": "te:markets:563871",
-      "time": "2026-07-03 04:27:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Close Mixed — US equity indices closed mixed on Thursday, as tech volatility gripped trading ahead of the holiday, despite easing concerns over rate hikes. The S&P 500 was flat and the Nasdaq 100 fell 0.8%. Stocks of chipmakers fell for a second day, as investors questioned if AI optimism had pushed valuations beyond reasonable levels. Fresh developments included reports that OpenAI was in talks to sell a 5% stake to the U.S. government, while Meta (-4.9%) said it may monetize its excess compute capacity. Micron Technology sank 7%, Applied Materials slipped 7.4%, and Advanced Micro Devices dropped 4.3%. SanDisk (-14%) and Marvell (-9.8%) tanked. Tesla fell 7.5% despite a strong deliveries report. Still, the Dow climbed 595 points to a new record high amid strength in traditional sectors."
-    },
-    {
-      "id": "4968270",
-      "time": "2026-07-03 04:25:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國計劃加強工作場所移民執法力度。"
-    },
-    {
-      "id": "4968269",
-      "time": "2026-07-03 04:25:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西批准南方共同市場多項貿易協定，全面取消出口關稅】巴西又批准了另一項貿易協定。巴西政府發表宣告稱，巴西於6月30日批准了南方共同市場（Mercosur）與新加坡之間的自由貿易協定，這是該集團與東南亞國家達成的首項協議。宣告指出，該協定確保巴西對新加坡100%的出口商品實現零關稅，並將於8月1日正式生效。"
-    },
-    {
-      "id": "4968268",
-      "time": "2026-07-03 04:23:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta 技術長：若公司重新啟用滑鼠軌跡追蹤程式，將設定為使用者主動選擇加入模式。"
-    },
-    {
-      "id": "mkt:019f2480-119d-7aab-8c84-1db8f9846e7e",
-      "time": "2026-07-03 04:23:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Meta Platforms (META.O) CTO said any reinstatement of a mouse-tracking program would be opt-in."
-    },
-    {
-      "id": "mkt:019f247c-18cd-7aab-8c84-109025b54727",
-      "time": "2026-07-03 04:19:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CTO said a preliminary review of the mouse-tracking data security incident found no employee data were included in AI training."
-    },
-    {
-      "id": "4968267",
-      "time": "2026-07-03 04:18:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 技術長：針對滑鼠追蹤資料安全事件的初步核查顯示，暫無員工資料被用於人工智慧模型訓練。"
-    },
-    {
-      "id": "4968266",
-      "time": "2026-07-03 04:15:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：洛克希德・馬丁是收購海軍防務企業 Ultra Maritime 的頭號競標方，交易金額約 35 億美元。"
-    },
-    {
-      "id": "mkt:019f2476-a409-7aab-8c84-0ba11c547b7a",
-      "time": "2026-07-03 04:13:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Panama Canal Authority said it will lower the maximum lock draft for New Panamax vessels. Effective July 24 the maximum draft will be 49 ft; effective August 15 it will be 48.5 ft."
-    },
-    {
-      "id": "4968265",
-      "time": "2026-07-03 04:10:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴拿馬運河管理局公告：新巴拿馬型船閘船舶最大允許吃水深度將於 7 月 24 日下調至 49 英尺，8 月 15 日進一步降至 48.5 英尺。"
-    },
-    {
-      "id": "4968264",
-      "time": "2026-07-03 04:09:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬運河管理局釋出宣告稱，將在新巴拿馬型船閘實施吃水深度縮減管控。"
-    },
-    {
-      "id": "4968263",
-      "time": "2026-07-03 04:06:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 技術長：滑鼠軌跡追蹤軟體上線前已完成隱私、法務及其他多輪稽核。"
-    },
-    {
-      "id": "mkt:019f2470-62d2-7aab-8c84-02daff62f58b",
-      "time": "2026-07-03 04:06:12",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average closed up 594.18 points (+1.14%) at 52,899.42 on Thursday, July 2. S&P 500 closed down 0.49 points (-0.01%) at 7,482.74. Nasdaq Composite closed down 207.36 points (-0.80%) at 25,832.67."
-    },
-    {
-      "id": "mkt:019f2470-15af-7aab-8c83-fdeb75a2631e",
-      "time": "2026-07-03 04:05:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "i24News reports Israeli security officials, responding to a New York Times article, said \"if Israel wanted to eliminate anyone, it could.\" The NYT had earlier reported US officials feared Israel might assassinate key Iranian negotiators during US–Iran talks."
-    },
-    {
-      "id": "mkt:019f246f-ae6e-7aab-8c83-f5667a06e5c3",
-      "time": "2026-07-03 04:05:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CTO said the mouse-tracking software underwent privacy, legal and other reviews before release."
-    },
-    {
-      "id": "4968262",
-      "time": "2026-07-03 04:04:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會披露檔案：AdaptHealth 公司證實保險賬單密碼檔案遭外洩，健康記錄訪問門戶遭非法入侵， 截至 2026 年 7 月 2 日，該事件尚未對公司運營及患者服務造成重大影響。"
-    },
-    {
-      "id": "mkt:019f246d-39e0-7aab-8c83-ef06e1b6cbf8",
-      "time": "2026-07-03 04:02:45",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "This week the S&P 500 rose 1.75%, the Nasdaq rose 2.12% and the Dow Jones Industrial Average rose 1.97%. The Dow posted a fourth straight weekly gain, its longest winning streak since October 2024."
-    },
-    {
-      "id": "mkt:019f246c-eabf-7aab-8c83-e3d9038969fe",
-      "time": "2026-07-03 04:02:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) closed down 7.5%, its largest single-day decline in nearly a year."
-    },
-    {
-      "id": "4968261",
-      "time": "2026-07-03 04:02:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "“特斯拉勁敵”Rivian收漲78.4%，創1月13日以來收盤新高。"
-    },
-    {
-      "id": "4968260",
-      "time": "2026-07-03 04:01:55",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "特斯拉收跌7.5%，創將近一年來最差單日表現。"
-    },
-    {
-      "id": "4968259",
-      "time": "2026-07-03 04:01:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "非官方周度資料：標普 500 指數上漲 1.75%，納斯達克指數上漲 2.12%，道瓊斯工業平均指數上漲 1.97%。"
-    },
-    {
-      "id": "4968258",
-      "time": "2026-07-03 04:00:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.13%，標普500指數跌0.01%，納指跌0.87%。閃迪跌14.13%，泰瑞達跌13.63%，科磊跌11.55%，純正部件漲12.91%，Moderna漲10.01%，Strategy漲8.00%。“七姐妹”方面：蘋果漲4.75%，微軟漲1.54%，亞馬遜漲0.24%，谷歌跌0.47%，英偉達跌1.47%，Meta Platforms跌4.87%，特斯拉跌7.64%。"
-    },
-    {
-      "id": "mkt:019f246b-3180-7aab-8c83-df11f154d766",
-      "time": "2026-07-03 04:00:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said the company expects to start seeing greater benefits from its AI investments within the next 3-6 months."
-    },
-    {
-      "id": "4968257",
-      "time": "2026-07-03 04:00:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長扎克伯格：預計公司將在未來 3 至 6 個月逐步收穫 AI 投資帶來的更多收益。"
-    },
-    {
-      "id": "4968256",
-      "time": "2026-07-03 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.83%】海天網路跌22.47%，世紀互聯跌9.99%，新氧跌9.71%，阿特斯跌7.67%，億航跌6.18%。"
-    },
-    {
-      "id": "4968255",
-      "time": "2026-07-03 03:59:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Whale Rock旗艦基金今年盈利近73% 押注科技股帶來豐厚回報】Whale Rock Capital Management的旗艦對沖基金今年上漲72.5%，使這家專注科技領域、管理資產190億美元的公司成為業內最佳之一。據一位知情人士稱，該對沖基金6月份上漲9.2%。Whale Rock的單純做多基金上個月上漲9.4%，推動其年初至今回報達到82%。該人士稱，該公司的回報受到在半導體公司閃迪和SK海力士以及電路板製造商 TTM Technologies Inc.持倉的提振。今年上半年，閃迪飆升超過850%，SK海力士上漲逾300%，TTM上漲約170%。Whale Rock還受益於對人工智慧公司Anthropic PBC的押注。Anthropic在最新一輪融資中達到9650億美元估值，首次超過競爭對手OpenAI。"
-    },
-    {
-      "id": "te:markets:563869",
-      "time": "2026-07-03 03:58:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lowe's Companies Stock Price Hits 7-week High — Lowe's Companies shares increased to 227.32 USD, the highest since May 2026. Over the past 4 weeks, Lowe's Companies gained 9.38%, and in the last 12 months, it decreased 0.52%."
-    },
-    {
-      "id": "4968254",
-      "time": "2026-07-03 03:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "針對《紐約時報》有關美方官員認為以色列可能密謀刺殺伊朗首席談判代表的報道，一名不願具名的安全官員向以色列 i24 新聞臺回應稱：“只要以色列想除掉某人，就一定會動手。”"
-    },
-    {
-      "id": "mkt:019f2468-ac2f-7aab-8c83-d4f74dc78884",
-      "time": "2026-07-03 03:57:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【After hot demand, quick cooling — Invesco exec blasts SpaceX bond performance】Matt Brill, head of North America investment‑grade credit at Invesco, said SpaceX’s $25bn debut bond traded “very messy” in the secondary market, calling the deal “very disappointing” and a “red card.” The issue drew nearly $90bn of orders at pricing but weakened sharply on the break, surprising traders. Brill flagged possible underwriter mispricing or weak participation from long‑term buyers such as pension and insurance funds. He warned IG credit spreads are at multi‑year tights and that downside risk outweighs upside, and said Invesco is reducing concentration in the technology sector. Market participants view the volatility as evidence the gap between headline demand and real absorption capacity is widening."
-    },
-    {
-      "id": "mkt:019f2467-73a0-7aab-8c83-ca2d4509336f",
-      "time": "2026-07-03 03:56:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones extended gains to just over 1%; the S&P 500 and Nasdaq narrowed losses, down 0.12% and 0.89% respectively."
-    },
-    {
-      "id": "4968253",
-      "time": "2026-07-03 03:55:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報52832.340點；納指跌0.90%，現報25804.861點；標普500指數跌0.14%，現報7472.990點。"
-    },
-    {
-      "id": "4968252",
-      "time": "2026-07-03 03:53:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大總理：與不列顛哥倫比亞省達成的協議將維持西北海岸油輪禁令】不列顛哥倫比亞省（B.C.）宣佈，與加拿大聯邦政府達成協議，將維持針對該國西北海岸的聯邦油輪禁令。但此舉似乎也為鄰省阿爾伯塔省提出的一項新原油管道計劃敞開了大門，前提是該專案需提出一條不同的路線。該協議的宣佈時間，距離卡尼預計前往阿爾伯塔省、與該省省長丹妮爾·史密斯（Danielle Smith）共同宣佈一項新管道計劃僅剩數小時。該管道計劃旨在將每日100萬桶的阿爾伯塔原油輸送至不列顛哥倫比亞省海岸，以便出口海外。"
-    },
-    {
-      "id": "4968251",
-      "time": "2026-07-03 03:53:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長扎克伯格： 人工智慧相關開支給公司帶來不小壓力；若沒有這筆投入，公司股價本可以更高，但這屬於長期戰略投資。"
-    },
-    {
-      "id": "mkt:019f2464-7dfe-7aab-8c83-c2b35e53aabd",
-      "time": "2026-07-03 03:53:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said AI-related spending has weighed on the company and that, but for those costs, the stock would be higher; he described the outlay as a long-term investment."
     }
   ]
 }
