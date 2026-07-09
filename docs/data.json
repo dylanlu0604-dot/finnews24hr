@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-10 07:23:42",
+  "updated": "2026-07-10 07:27:31",
   "count": 15869,
   "items": [
+    {
+      "id": "4979853",
+      "time": "2026-07-10 07:26:42",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【華泰證券：A股有色超跌或存修復空間】華泰證券研報指出，本輪A股有色龍頭深跌實質為估值壓縮而非EPS受損。截至7月6日，相關公司26E EPS iFind一致預期近180天上調，公司盈利預期良好，板塊超跌或來自估值壓縮。截至7月3日，中證黃金、鋁、銅三板塊指數PE-TTM位於2020年以來11.7%/5.1%/42.1%分位，相對全A PE-TTM處於2020年以來0.2%/0.0%/0.1%低分位，疊加美伊衝突緩和，風險偏好邊際修復，我們認為A股有色板塊的商品景氣處於高位，但估值處於歷史低位。對比海外定價，A股有色龍頭下跌空間或有限、上行彈性或可觀，屬於典型高賠率交易視窗。"
+    },
+    {
+      "id": "4979852",
+      "time": "2026-07-10 07:26:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際足聯主席因凡蒂諾面臨多家機構投訴】因緩期執行美國隊球員紅牌停賽事件以及一系列爭議行為，國際足聯主席因凡蒂諾正面臨多家機構投訴。據美聯社報道，當地時間7月8日，總部位於倫敦的一家體育相關機構以“屢次違背政治中立原則”為由，向國際奧委會道德委員會正式投訴因凡蒂諾。該機構指出，因凡蒂諾自2020年起擔任國際奧委會委員，一直強調“政治中立”的國際奧委會有權對其啟動調查。"
+    },
+    {
+      "id": "4979850",
+      "time": "2026-07-10 07:24:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱外交努力仍在進行 如有必要將繼續打擊伊朗】當地時間9日，據美國方面訊息，一名美國官員表示，目前美伊衝突背後仍有外交努力在進行，以緩和緊張局勢。該官員稱，美國一直在有意進行打擊後暫停，以避免局勢升級，並給外交留下空間，同時保留目標清單作為籌碼。多名官員表示，如有必要，美方已為當晚可能對伊朗發動打擊做準備，但目前仍讓外交主導局勢。據瞭解，在部署於阿拉伯海的“亞伯拉罕·林肯”號航母上，機組人員當天為戰鬥機裝載武器，飛行員也進行了演練，為潛在打擊做準備。航母艦長告知艦上數千名官兵，局勢正在升溫，應保持戰備狀態。美國官員稱，伊朗方面關於當晚美軍已發動更多打擊的說法不準確。不過，局勢仍在變化，如有需要，美軍可能恢復打擊。"
+    },
+    {
+      "id": "mkt:019f4931-a157-7aab-8d22-566c73a3e888",
+      "time": "2026-07-10 07:23:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US official says diplomacy ongoing; strikes on Iran could resume if necessary】A US official said diplomatic efforts remain underway to defuse US‑Iran tensions and that Washington has been deliberately pausing strikes after attacks to avoid escalation and preserve space for diplomacy while keeping a target list as leverage. Multiple officials said US forces were prepared to strike Iran that night if needed but were allowing diplomacy to lead. Carrier Abraham Lincoln, deployed in the Arabian Sea, loaded weapons and conducted flight drills; the carrier captain told thousands aboard the situation was heating up and to maintain readiness. US officials said Iranian claims that US forces carried out additional strikes that night were inaccurate; the situation remains fluid and strikes could resume if necessary."
+    },
     {
       "id": "4979849",
       "time": "2026-07-10 07:22:24",
@@ -144893,40 +144931,6 @@
         "其他"
       ],
       "text": "【多地密集投放暑期文旅消費券】隨著暑假來臨，親子游、研學遊、畢業旅行等需求集中釋放。日前，多地密集上新文旅消費券，透過階梯滿減、跨境通用、數字人民幣配套等多元模式，精準啟用暑期文旅消費市場。（證券日報）"
-    },
-    {
-      "id": "4968390",
-      "time": "2026-07-03 07:26:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4130美元/盎司，日內漲0.13%。"
-    },
-    {
-      "id": "4968389",
-      "time": "2026-07-03 07:25:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Block Inc. 董事 Anthony Mathew Eisen出售了價值381萬美元的股票。"
-    },
-    {
-      "id": "4968388",
-      "time": "2026-07-03 07:24:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Meta打算出售富餘算力引發科技股回落 業內人士：算力租賃市場並未降溫】科技巨頭Meta（臉書）打算出售富餘算力的訊息，引發AI算力過剩恐慌，全球科技股普遍回落，A股儲存、光模組、PCB（印製電路板）、MLCC（多層片式陶瓷電容器）等熱門科技股紛紛下跌。與此同時，作為算力產業鏈上游鏈主，英偉達推出新型AI基礎設施合作模式，計劃透過收入分成和信用支援的合作模式，向快速增長的AI生態系統開放計算資源。有從業者向證券時報記者表示，當前算力租賃市場並未降溫，在手訂單充沛。"
-    },
-    {
-      "id": "4968387",
-      "time": "2026-07-03 07:24:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "北京五一視界在港交所公告，擬配售547萬股新股，每股73.20港元，配售價較最後收盤價每股83.15港元折讓12%。公司將使用配售所得款項用於建設人工智慧基礎設施及研發。"
     }
   ]
 }
