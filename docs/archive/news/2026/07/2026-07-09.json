@@ -1,7 +1,87 @@
 {
   "date": "2026-07-09",
-  "count": 1212,
+  "count": 1220,
   "items": [
+    {
+      "id": "4978000",
+      "time": "2026-07-09 10:18:09",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【華為高管確認明年實現高速 L3】據報道，華為智慧駕駛解決方案產品線總裁李文廣回答了有關華為乾崑智駕和行業的相關問題。 李文廣透露，從技術上來講，明年起碼在高速場景就可以進入 L3 自動駕駛時代，今年要做一些試點，試點完就會做常態化准入。此外，今年下半年釋出的部分高階車型，將為高速 L3 進行硬體預埋。 李文廣表示目前的輔助駕駛離自動駕駛的要求還差得很遠，自動駕駛起步至少幾十萬公里不出事故。 李文廣還透露，華為在自動駕駛領域今年投入大概 100 多億，明年肯定超過 200 億。（IT之家）"
+    },
+    {
+      "id": "mkt:019f44aa-2cb6-7aab-8d05-9e3931ae4056",
+      "time": "2026-07-09 10:17:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fujian starts Level IV typhoon emergency response】Per Fujian’s flood, drought and typhoon emergency plan, the provincial flood-control command activated a Level IV typhoon emergency response at 09:00 on July 9. The provincial command and the provincial emergency management department ordered coastal localities and relevant departments to closely monitor Typhoon Bavi, be ready to activate emergency measures, strengthen command and hazard inspections, organise timely evacuations and implement defensive measures."
+    },
+    {
+      "id": "4977999",
+      "time": "2026-07-09 10:16:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體材料板塊持續走強，上海合晶20cm漲停】半導體材料板塊持續走強，領先股份、有研矽盤中創新高，上海合晶20cm漲停，神工股份、恆坤新材漲超10%，有研新材、滬矽產業、華海誠科、臻寶科技、艾森股份跟漲。"
+    },
+    {
+      "id": "4977998",
+      "time": "2026-07-09 10:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建啟動防颱風Ⅳ級應急響應】根據《福建省防汛抗旱防颱風應急預案》，福建省防指於7月9日9時啟動防颱風Ⅳ級應急響應。福建省防指、省應急管理廳要求沿海各地各有關部門密切監視颱風“巴威”動態，適時啟動防颱風應急響應，強化組織指揮，加強隱患排查，及時組織群眾轉移，紮實做好防禦工作。"
+    },
+    {
+      "id": "mkt:019f44a9-232a-7aab-8d05-9773f8131455",
+      "time": "2026-07-09 10:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 20-year bond yield rose 1.5 bps to 3.885%."
+    },
+    {
+      "id": "mkt:019f44a8-b054-7aab-8d05-8f09fec9cc7b",
+      "time": "2026-07-09 10:15:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China Merchants Stock Connect Information Technology ETF rose over 5%."
+    },
+    {
+      "id": "mkt:019f44a8-758d-7aab-8d05-8684b31b443e",
+      "time": "2026-07-09 10:15:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "02166.HK",
+        "Impact bullish",
+        "03986.HK",
+        "01347.HK"
+      ],
+      "text": "Hang Seng Tech Index up about 2% in early trade; Hang Seng Index up 0.5%. Chip names led gains: Xinzhi Holdings (02166.HK) up over 17%, GigaDevice (03986.HK) up over 10%, Hua Hong Hongli (01347.HK) up over 8%, SMIC (00981.HK) up over 6%."
+    },
+    {
+      "id": "te:markets:565474",
+      "time": "2026-07-09 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Increases by 0.41% — Top currency gainers are New Zealand Dollar (0.41%), Chinese Yuan (0.09%) and Japanese Yen (0.08%). Meanwhile South Korean Won was little changed."
+    },
     {
       "id": "4977997",
       "time": "2026-07-09 10:14:26",
