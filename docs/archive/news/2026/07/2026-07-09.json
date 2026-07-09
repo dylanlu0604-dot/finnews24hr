@@ -1,7 +1,27 @@
 {
   "date": "2026-07-09",
-  "count": 3268,
+  "count": 3270,
   "items": [
+    {
+      "id": "mkt:019f477d-6973-7aab-8d1c-74e20b443634",
+      "time": "2026-07-09 23:27:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council condemns Iran's attacks on the Strait of Hormuz and on GCC member states."
+    },
+    {
+      "id": "mkt:019f477a-6c92-7aab-8d1c-684c8916adbf",
+      "time": "2026-07-09 23:23:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said the balance of power in the Middle East is shifting; Israel is closely monitoring developments and is prepared to respond to all contingencies."
+    },
     {
       "id": "4979524",
       "time": "2026-07-09 23:22:31",

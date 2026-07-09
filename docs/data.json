@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-09 23:23:42",
-  "count": 15921,
+  "updated": "2026-07-09 23:27:42",
+  "count": 15920,
   "items": [
+    {
+      "id": "mkt:019f477d-6973-7aab-8d1c-74e20b443634",
+      "time": "2026-07-09 23:27:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council condemns Iran's attacks on the Strait of Hormuz and on GCC member states."
+    },
+    {
+      "id": "mkt:019f477a-6c92-7aab-8d1c-684c8916adbf",
+      "time": "2026-07-09 23:23:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said the balance of power in the Middle East is shifting; Israel is closely monitoring developments and is prepared to respond to all contingencies."
+    },
     {
       "id": "4979524",
       "time": "2026-07-09 23:22:31",
@@ -145431,32 +145451,6 @@
         "其他"
       ],
       "text": "訊息人士稱，六月下旬過去十天裡，科威特原油產量已升至每日190萬桶。"
-    },
-    {
-      "id": "4968032",
-      "time": "2026-07-02 23:27:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭方面表示， 無人機持續執行偵察監測任務，統籌各類應急救援行動。目前基輔境內所有火情均已撲滅。"
-    },
-    {
-      "id": "mkt:019f2370-e93f-7aab-8c7f-920288c9a6a1",
-      "time": "2026-07-02 23:27:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "White House press secretary Leavitt said the June employment report shows the foreign-born labor force contracted sharply over the past year, suggesting President Trump's measures against illegal immigration are reshaping the US labor market composition."
-    },
-    {
-      "id": "4968031",
-      "time": "2026-07-02 23:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Jersey Mike's Subs 遞交IPO申請，計劃在紐交所掛牌上市。"
     }
   ]
 }
