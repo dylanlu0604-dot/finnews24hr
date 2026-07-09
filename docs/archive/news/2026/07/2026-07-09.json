@@ -1,7 +1,80 @@
 {
   "date": "2026-07-09",
-  "count": 3169,
+  "count": 3177,
   "items": [
+    {
+      "id": "mkt:019f474d-0b13-7aab-8d1b-b6176f8a5141",
+      "time": "2026-07-09 22:34:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Flood Control Headquarters launches level-4 emergency response for Beijing, Tianjin】Forecasts show heavy to torrential rain in Beijing and Tianjin on July 9–10, with localized short‑duration intense downpours and elevated risk of mountain floods, geological hazards, small‑ and medium‑river flooding and urban waterlogging. Under the national flood-control emergency plan, the National Flood Control and Drought Relief Headquarters launched a level‑4 flood-control emergency response for Beijing and Tianjin effective 21:00 on July 9."
+    },
+    {
+      "id": "mkt:019f474c-d9a4-7aab-8d1b-af9f15a2dbda",
+      "time": "2026-07-09 22:34:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Freeport LNG said its Texas facility has begun major maintenance work that will continue through late August."
+    },
+    {
+      "id": "mkt:019f474c-9e8b-7aab-8d1b-a5793f7c43ca",
+      "time": "2026-07-09 22:33:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell about 4% after the EIA reported a larger-than-expected storage build and Freeport LNG said its export facility entered maintenance."
+    },
+    {
+      "id": "te:markets:565732",
+      "time": "2026-07-09 22:33:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 4-week Low — Natural gas decreased to 3.07 USD/MMBtu, the lowest since June 2026. Over the past 4 weeks, Natural gas lost 3.28%, and in the last 12 months, it decreased 7.68%."
+    },
+    {
+      "id": "4979461",
+      "time": "2026-07-09 22:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普結束北約峰會後換專機離開】8日北約峰會閉幕後，特朗普乘坐舊的“空軍一號”從土耳其起飛，抵達英國米爾登霍爾空軍基地後再換乘卡達所贈飛機，返回美國。有輿論推測，此舉意在防範伊朗方面可能發動的襲擊。當被記者問及是否獲悉伊朗對美國總統專機構成任何“可信威脅”時，特朗普沒有正面回答，只是表示他“一直面對威脅”，是伊朗“頭號打擊目標”。（央視新聞）"
+    },
+    {
+      "id": "4979460",
+      "time": "2026-07-09 22:32:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會（CFTC）將維持原油期貨24小時不間斷交易的協議。"
+    },
+    {
+      "id": "4979459",
+      "time": "2026-07-09 22:31:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "NLIGHT公司在與美國政府的交易中獲得初始金額4400萬美元的訂單，該專案上限最高可達6.27億美元。"
+    },
+    {
+      "id": "4979458",
+      "time": "2026-07-09 22:30:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利表示，全球併購活動有望超越2021年的交易熱潮。"
+    },
     {
       "id": "4979457",
       "time": "2026-07-09 22:30:30",

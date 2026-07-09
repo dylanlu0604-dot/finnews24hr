@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-09 22:31:09",
-  "count": 15935,
+  "updated": "2026-07-09 22:35:10",
+  "count": 15928,
   "items": [
+    {
+      "id": "mkt:019f474d-0b13-7aab-8d1b-b6176f8a5141",
+      "time": "2026-07-09 22:34:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Flood Control Headquarters launches level-4 emergency response for Beijing, Tianjin】Forecasts show heavy to torrential rain in Beijing and Tianjin on July 9–10, with localized short‑duration intense downpours and elevated risk of mountain floods, geological hazards, small‑ and medium‑river flooding and urban waterlogging. Under the national flood-control emergency plan, the National Flood Control and Drought Relief Headquarters launched a level‑4 flood-control emergency response for Beijing and Tianjin effective 21:00 on July 9."
+    },
+    {
+      "id": "mkt:019f474c-d9a4-7aab-8d1b-af9f15a2dbda",
+      "time": "2026-07-09 22:34:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Freeport LNG said its Texas facility has begun major maintenance work that will continue through late August."
+    },
+    {
+      "id": "mkt:019f474c-9e8b-7aab-8d1b-a5793f7c43ca",
+      "time": "2026-07-09 22:33:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell about 4% after the EIA reported a larger-than-expected storage build and Freeport LNG said its export facility entered maintenance."
+    },
+    {
+      "id": "te:markets:565732",
+      "time": "2026-07-09 22:33:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 4-week Low — Natural gas decreased to 3.07 USD/MMBtu, the lowest since June 2026. Over the past 4 weeks, Natural gas lost 3.28%, and in the last 12 months, it decreased 7.68%."
+    },
+    {
+      "id": "4979461",
+      "time": "2026-07-09 22:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普結束北約峰會後換專機離開】8日北約峰會閉幕後，特朗普乘坐舊的“空軍一號”從土耳其起飛，抵達英國米爾登霍爾空軍基地後再換乘卡達所贈飛機，返回美國。有輿論推測，此舉意在防範伊朗方面可能發動的襲擊。當被記者問及是否獲悉伊朗對美國總統專機構成任何“可信威脅”時，特朗普沒有正面回答，只是表示他“一直面對威脅”，是伊朗“頭號打擊目標”。（央視新聞）"
+    },
+    {
+      "id": "4979460",
+      "time": "2026-07-09 22:32:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會（CFTC）將維持原油期貨24小時不間斷交易的協議。"
+    },
+    {
+      "id": "4979459",
+      "time": "2026-07-09 22:31:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "NLIGHT公司在與美國政府的交易中獲得初始金額4400萬美元的訂單，該專案上限最高可達6.27億美元。"
+    },
+    {
+      "id": "4979458",
+      "time": "2026-07-09 22:30:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利表示，全球併購活動有望超越2021年的交易熱潮。"
+    },
     {
       "id": "4979457",
       "time": "2026-07-09 22:30:30",
@@ -145472,148 +145545,6 @@
         "Nasdaq100"
       ],
       "text": "Tesla (TSLA.O) shares extended losses, down 6.1%."
-    },
-    {
-      "id": "4967964",
-      "time": "2026-07-02 22:34:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉股價跌幅擴大至6.1%。"
-    },
-    {
-      "id": "mkt:019f2340-4a1b-7aab-8c7e-a58d4fbde14f",
-      "time": "2026-07-02 22:34:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Labor data weakens but still grows; Fed pause reappraised】Analyst Eric Merlis said June nonfarm payrolls were significantly below expectations, a stark contrast with a string of upside surprises earlier this year, but the labor market is still adding jobs and wage growth shows little sign of accelerating. With participation falling and hiring cooling, the Fed’s decision to stand pat last month looks less like a policy mistake and more like prudent patience. Markets are repricing: as the inflation debate continues, the probability of further rate hikes is declining."
-    },
-    {
-      "id": "4967963",
-      "time": "2026-07-02 22:33:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【就業資料走弱但仍增長，美聯儲按兵不動獲重新評價】分析師Eric Merlis：“6月非農就業明顯不及預期，這與今年早些時候連續出現的上行意外形成鮮明對比，但勞動力市場仍在持續創造就業，工資增長也幾乎沒有顯示出加速跡象。”“隨著勞動力參與率走弱、招聘降溫，美聯儲上月選擇按兵不動的決定，看起來不再像是政策失誤，而更像是謹慎耐心的做法。與此同時，市場正在重新定價：隨著通脹討論持續，未來加息的可能性正在下降。”"
-    },
-    {
-      "id": "4967962",
-      "time": "2026-07-02 22:33:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍宣告：以軍在阿里・塔赫爾山脊一處地下恐怖設施外部擊斃一名真主黨武裝人員。"
-    },
-    {
-      "id": "mkt:019f233f-b9e0-7aab-8c7e-9938b6b6198d",
-      "time": "2026-07-02 22:33:26",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "HSBC cut Netflix (NFLX.O) PT to $104 from $113."
-    },
-    {
-      "id": "4967961",
-      "time": "2026-07-02 22:33:11",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場訊息：秘魯總統藤森任命埃爾默・庫瓦擔任財政部長。"
-    },
-    {
-      "id": "mkt:019f233f-63e3-7aab-8c7e-91952e2dd270",
-      "time": "2026-07-02 22:33:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell 1.6% after the EIA reported inventories rose by more than expected."
-    },
-    {
-      "id": "4967960",
-      "time": "2026-07-02 22:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果漲幅達4%。"
-    },
-    {
-      "id": "mkt:019f233f-11ab-7aab-8c7e-8971334a2d25",
-      "time": "2026-07-02 22:32:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O) shares rose 4%."
-    },
-    {
-      "id": "4967959",
-      "time": "2026-07-02 22:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行將NETFLIX目標價從113美元下調至104美元。"
-    },
-    {
-      "id": "4967958",
-      "time": "2026-07-02 22:32:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨延續微跌走勢，跌幅1.6%，此前EIA公佈庫存增幅超預期。"
-    },
-    {
-      "id": "4967957",
-      "time": "2026-07-02 22:31:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，道格拉斯正朝北向較冷水域移動，預計週五將減弱為殘留低氣壓。"
-    },
-    {
-      "id": "mkt:019f233e-013d-7aab-8c7e-813faa35372b",
-      "time": "2026-07-02 22:31:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO's top military commander said for a small number of areas where European allies currently lack replacement capabilities, NATO is studying alternative capabilities with equivalent effect."
-    },
-    {
-      "id": "4967956",
-      "time": "2026-07-02 22:31:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約最高軍事指揮官：目前歐洲盟友在少數領域尚無替代能力，我們正研究具備同等效力的替代方案。"
-    },
-    {
-      "id": "mkt:019f233d-a0f8-7aab-8c7e-7df75422145e",
-      "time": "2026-07-02 22:31:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq-100's decline widened to 0.5%."
     }
   ]
 }
