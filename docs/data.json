@@ -1,7 +1,113 @@
 {
-  "updated": "2026-07-09 13:30:27",
-  "count": 16129,
+  "updated": "2026-07-09 13:34:27",
+  "count": 16131,
   "items": [
+    {
+      "id": "4978240",
+      "time": "2026-07-09 13:33:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "MINIMAX-W(00100.HK)解禁首日大跌20%，股價觸及290港元，市值回落至910億港元。"
+    },
+    {
+      "id": "mkt:019f455d-f85f-7aab-8d09-eea4d2724885",
+      "time": "2026-07-09 13:33:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00100.HK",
+        "Impact bearish"
+      ],
+      "text": "MINIMAX-W (00100.HK) plunged 20% on the first trading day after lock-up expiry, hitting HK$290 and trimming market capitalization to about HK$91 bln."
+    },
+    {
+      "id": "mkt:019f455c-f073-7aab-8d09-e5523a681959",
+      "time": "2026-07-09 13:32:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Australia, India sign uranium export deal as India expands nuclear power】During Prime Minister Modi's visit to Australia, the two countries signed an agreement allowing Australia to sell uranium to India for power generation. India's foreign ministry said purchases will be used \"only for peaceful purposes.\" The statement gave no volumes or timing. Australian Prime Minister Albanese said an administrative arrangement was signed to facilitate uranium exports to help raise the share of non-fossil fuel power and provide an additional market for Australia's resources sector. Australia holds the world's largest uranium reserves but has only three operating mines, all in South Australia."
+    },
+    {
+      "id": "4978239",
+      "time": "2026-07-09 13:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量392億元。"
+    },
+    {
+      "id": "4978238",
+      "time": "2026-07-09 13:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江舟山嵊泗疏散旅客9000餘人 明起17條客運航線停航】今年第9號颱風“巴威”（超強颱風級）持續向浙閩沿海逼近，預計將給浙江舟山沿海帶來較大影響，舟山海事局已於7月8日上午8時啟動Ⅲ級防颱應急響應。浙江唯一全域海島縣舟山嵊泗縣提前部署旅客疏散工作，組織泗礁、花鳥、枸杞、嵊山等各海島旅客有序撤離，截至9日上午9時累計疏散旅客9000餘人。預計7月10日起，嵊泗17條水上客運航線、27艘客船將全線停航。"
+    },
+    {
+      "id": "4978237",
+      "time": "2026-07-09 13:31:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23925.760點；恒生科技指數現跌1.004%。"
+    },
+    {
+      "id": "4978236",
+      "time": "2026-07-09 13:31:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美銀：下調中石油目標價至11港元，維持“買入”評級】美銀證券發表報告指，下調中石油2026/2027財年盈利預測8%，以反映最新對2026下半年及2027全年布倫特原油價格假設分別為每桶77美元及70美元，目標價由12港元下調至11港元，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:019f455b-a34f-7aab-8d09-d860e1e0f891",
+      "time": "2026-07-09 13:31:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact mixed"
+      ],
+      "text": "【Citigroup cuts Alibaba PT to HKD191; maintains Buy】Citigroup said Alibaba (09988.HK) is likely to revise segment reporting, including folding Alibaba International Digital Commerce Group (AIDC) into China e-commerce because both are run by Jiang Fan and share similar supply chains. Citigroup cut valuation multiples on AIDC and the \"Other\" segment and lowered its PT to HKD191 from HKD207, while keeping a Buy rating."
+    },
+    {
+      "id": "4978235",
+      "time": "2026-07-09 13:30:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲3%，現報7284.00元。"
+    },
+    {
+      "id": "mkt:019f455a-fec3-7aab-8d09-d3ed1e0178b2",
+      "time": "2026-07-09 13:30:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMEC.O",
+        "Impact bullish"
+      ],
+      "text": "China Merchants semiconductor equipment ETF rose more than 5%; top holding Advanced Micro-Fabrication Equipment Inc. (AMEC) gained nearly 6%."
+    },
+    {
+      "id": "4978234",
+      "time": "2026-07-09 13:29:47",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "埃及6月城市CPI同比上漲14.3%。"
+    },
     {
       "id": "mkt:019f455a-67fb-7aab-8d09-cee7fc4363ff",
       "time": "2026-07-09 13:29:40",
@@ -147448,88 +147554,6 @@
         "焦點"
       ],
       "text": "滬深300指數期貨連續主力合約日內跌2%，現報4734.40點。"
-    },
-    {
-      "id": "4966624",
-      "time": "2026-07-02 13:34:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至3%。"
-    },
-    {
-      "id": "mkt:019f2152-0240-7aab-8c6d-5e8edc4dde0a",
-      "time": "2026-07-02 13:34:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Report: China embodied intelligence market to reach 1.09 tln yuan by 2026; 22–23% CAGR】A Shanghai industry report projects China’s embodied intelligence market will grow from about 213.3 bln yuan in 2018 to 1.09 tln yuan by 2026, a 22–23% CAGR, making it one of the fastest-growing global markets. The report highlights a complete domestic value chain — core sensors, servo motors, harmonic reducers, final assembly and algorithm integration — with concentrated component clusters in the Yangtze River and Pearl River deltas that speed prototype iteration versus US/EU peers and underpin a manufacturing cost advantage of roughly 30–50% versus overseas rivals."
-    },
-    {
-      "id": "4966623",
-      "time": "2026-07-02 13:34:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【興業科技午後觸及漲停 上演“地天板”】高位人氣股興業科技午後觸及漲停，上演“地天板”，成交近9億元。該股此前連續2日報收跌停，今早一度觸及跌停。"
-    },
-    {
-      "id": "4966622",
-      "time": "2026-07-02 13:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股晶片板塊午後持續走低 壁仞科技跌近19%】港股晶片板塊午後持續走低，壁仞科技跌近19%，兆易創新跌超15%，中芯國際、英諾賽科、晶門半導體等跟跌。"
-    },
-    {
-      "id": "4966621",
-      "time": "2026-07-02 13:33:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“遠山鮮河”系列特惠活動因配置失誤以0元上架，霸王茶姬致歉】7月2日，霸王茶姬湖北子公司釋出文稱，推出的“遠山鮮河”系列9.9元特惠活動因運營後臺配置失誤，產品意外以0元上架。將統一取消當天0時起因配置失誤生成的異常訂單，每位受影響使用者的賬戶將直接到賬3張 “遠山鮮河”系列無門檻0.01元兌換券。"
-    },
-    {
-      "id": "4966620",
-      "time": "2026-07-02 13:32:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：中國具身智慧市場規模年均複合增長率22%至23%】《中國具身智慧產業發展報告(2026)》2日在上海釋出。該報告稱，中國已成為全球增長最快的具身智慧市場之一，據多家研究機構測算，中國具身智慧市場規模從2018年的約2133億元人民幣到2026年預計的1.09萬億元，年均複合增長率為22%至23%。"
-    },
-    {
-      "id": "4966619",
-      "time": "2026-07-02 13:31:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【科創50跌超6% 創業板指跌近4.6%】指數午後再度走低，科創50跌超6%，創業板指跌近4.6%，滬指跌超1%。算力硬體、儲存晶片、證券等方向跌幅居前，滬深京三市下跌個股近2400只。"
-    },
-    {
-      "id": "4966618",
-      "time": "2026-07-02 13:31:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓國金融監督院發言人稱，韓國金融監督院院長李燦鎮預計將於7月13日會見國內資產管理公司的管理人員，預計討論將集中在加強與單隻槓桿ETF相關的投資者保護措施上。"
-    },
-    {
-      "id": "mkt:019f214f-241b-7aab-8c6d-50b633aaca49",
-      "time": "2026-07-02 13:31:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "06082.HK",
-        "Impact bearish",
-        "03986.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong chip stocks slid further in afternoon trade: 06082.HK down over 18%, 03986.HK down over 15%; 00981.HK, 02577.HK and 02878.HK also declined."
     }
   ]
 }
