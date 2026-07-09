@@ -1,7 +1,55 @@
 {
   "date": "2026-07-10",
-  "count": 182,
+  "count": 187,
   "items": [
+    {
+      "id": "mkt:019f4835-0ce5-7aab-8d20-08ea75a92ca1",
+      "time": "2026-07-10 02:47:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England chief economist Pill said policymakers will need to raise interest rates over the next year."
+    },
+    {
+      "id": "4979649",
+      "time": "2026-07-10 02:47:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家皮爾接受採訪時表示，未來一年仍有必要加息。"
+    },
+    {
+      "id": "4979648",
+      "time": "2026-07-10 02:46:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛新規允許員工參與體育、娛樂相關投注。"
+    },
+    {
+      "id": "4979647",
+      "time": "2026-07-10 02:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列 12 頻道記者援引美國高階官員訊息：過去數小時美軍未在伊朗境內發動任何襲擊。"
+    },
+    {
+      "id": "4979646",
+      "time": "2026-07-10 02:45:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "高盛禁止員工在預測交易市場對金融、戰爭相關事件下注。"
+    },
     {
       "id": "4979645",
       "time": "2026-07-10 02:41:47",
