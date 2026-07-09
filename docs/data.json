@@ -1,7 +1,317 @@
 {
-  "updated": "2026-07-09 21:02:47",
-  "count": 15988,
+  "updated": "2026-07-09 21:07:59",
+  "count": 15998,
   "items": [
+    {
+      "id": "4979276",
+      "time": "2026-07-09 21:06:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：相比部分人士，對穩定幣帶來的風險擔憂更少。我們對於調整準備金需求的方式已有良好認知。"
+    },
+    {
+      "id": "4979275",
+      "time": "2026-07-09 21:05:49",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭央行行長格拉平斯基：波蘭國家銀行持有黃金價值約3080億茲羅提。"
+    },
+    {
+      "id": "4979274",
+      "time": "2026-07-09 21:05:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗重申他國“無權干涉”霍爾木茲海峽事務】當地時間9日，伊朗伊斯蘭革命衛隊海軍發表宣告稱，其他國家“無權干涉”霍爾木茲海峽事務。宣告稱，伊朗過去兩週增加了該海峽船隻的放行數量，但美方行動嚴重擾亂了該海峽重新開放的程序，美國在霍爾木茲海峽航運通行問題上的“冒險和干涉”只會招致伊朗“壓倒性的回應”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f46fb-f5dc-7aab-8d18-24587c94f96f",
+      "time": "2026-07-09 21:05:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Williams said the Fed has a good understanding of how to adjust demand for reserves."
+    },
+    {
+      "id": "4979273",
+      "time": "2026-07-09 21:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗說霍爾木茲海峽通行能力已恢復至戰前50%】伊朗伊斯蘭革命衛隊海軍發表宣告說，過去兩週伊方已逐步開放霍爾木茲海峽，目前通行能力已恢復至戰前水平的約50%。宣告說，革命衛隊海軍正繼續提高船隻通行能力。相關船隻須遵守伊方安全規定，經伊朗指定航線通行，並向革命衛隊海軍申請許可。宣告警告，外國勢力無權干預霍爾木茲海峽事務。美軍若干預船隻通行路線，將遭伊方有力回擊，還將嚴重干擾海峽重開程序，危及海峽使用國利益。（新華社）"
+    },
+    {
+      "id": "4979272",
+      "time": "2026-07-09 21:05:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國擬探討允許無方向盤的無人駕駛汽車上路】美國最高汽車安全監管機構負責人表示，該機構“絕對”會考慮取消關於無人駕駛汽車必須配備方向盤的規定；此舉若落實，將利好特斯拉及其他正在重新構想傳統車輛設計的自動駕駛計程車公司。美國國家公路交通安全管理局（NHTSA）局長Jonathan Morrison週四在接受採訪時表示：“如果你開發的車輛從設計之初就不打算由人類駕駛員操作，那麼強制要求配備手動控制裝置就毫無意義了。”NHTSA已於上個月更新了聯邦安全標準，取消了自動駕駛車輛必須配備手動制動踏板的要求。這些變革是特朗普政府推動無人駕駛汽車法規現代化努力的一部分，可能為專用自動駕駛車輛（包括特斯拉的Cybercab，這是一款不設方向盤或腳踏板的兩座電動汽車）的推廣掃清障礙。"
+    },
+    {
+      "id": "4979271",
+      "time": "2026-07-09 21:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪李雲飛：騰勢Z英國古德伍德速度節上市，售價摺合人民幣約158萬元。"
+    },
+    {
+      "id": "mkt:019f46fa-f5fb-7aab-8d18-1ec75e63b94c",
+      "time": "2026-07-09 21:04:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "Fed's Williams said the Fed's ample-reserves framework is designed to be flexible and can accommodate the effects of stablecoins."
+    },
+    {
+      "id": "mkt:019f46fa-eb4b-7aab-8d18-120f2aff19e3",
+      "time": "2026-07-09 21:04:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said it remains unclear how stablecoins will affect reserve demand."
+    },
+    {
+      "id": "mkt:019f46fa-bfbc-7aab-8d18-0e4684ac2985",
+      "time": "2026-07-09 21:04:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports startup PrismML says it compressed a 27-billion-parameter AI model to run on an iPhone. Apple has held talks with PrismML about potential uses for the technology."
+    },
+    {
+      "id": "4979269",
+      "time": "2026-07-09 21:04:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zoom通訊推出可適配任意電話系統的獨立虛擬前臺客服。"
+    },
+    {
+      "id": "mkt:019f46fa-92d2-7aab-8d18-064f16430010",
+      "time": "2026-07-09 21:04:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Most-active SHFE silver contract rose over 2.00% intraday to 14,520.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019f46fa-8d6b-7aab-8d17-fe0b4dfb87d4",
+      "time": "2026-07-09 21:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China night futures session opened mixed; most-active contracts: Shanghai tin rose over 2%, Shanghai silver nearly 2%; Shanghai copper, Shanghai zinc, international copper, pulp and Shanghai gold rose over 1%; Shanghai nickel rose nearly 1%. On the downside, benzene fell more than 1% and asphalt nearly 1%."
+    },
+    {
+      "id": "mkt:019f46fa-5819-7aab-8d17-f5ee0fc3ecee",
+      "time": "2026-07-09 21:03:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【NHTSA to consider allowing driverless cars without steering wheels】NHTSA chief Jonathan Morrison told CNBC the agency 'absolutely' will consider removing the federal requirement that autonomous vehicles be equipped with a steering wheel, saying manual controls are pointless for vehicles designed not to be human-driven. The agency last month updated federal safety standards to drop the mandatory manual brake pedal. The changes are part of the Trump administration's push to modernize AV rules and could ease the path for Tesla and other companies building wheel- and pedal-free robotaxis, including Tesla's planned Cybercab."
+    },
+    {
+      "id": "4979268",
+      "time": "2026-07-09 21:03:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美聯儲的充裕儲備體系設計具備靈活性，可應對穩定幣帶來的影響。"
+    },
+    {
+      "id": "4979267",
+      "time": "2026-07-09 21:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "百事可樂盤前股價跌幅擴大至4%。"
+    },
+    {
+      "id": "4979266",
+      "time": "2026-07-09 21:03:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：目前尚不清楚穩定幣將對準備金需求產生何種影響。"
+    },
+    {
+      "id": "4979265",
+      "time": "2026-07-09 21:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江美大：籌劃控制權變更事項 股票停牌不超2個交易日】浙江美大公告稱，公司實際控制人夏志生、夏鼎正在籌劃涉及公司控制權變更相關事項，可能導致實際控制人發生變更。交易對手方屬跨境電商行業，股份轉讓比例在30%以內，不涉及事前審批。公司股票自2026年7月10日開市起停牌，預計不超2個交易日。停牌期間，公司將及時披露進展，待事項確定後申請復牌。該事項存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4979264",
+      "time": "2026-07-09 21:02:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐原藥業：控股股東一致行動人簽署股份轉讓意向協議 實控人變更為蚌埠市政府國有資產監督管理委員會】豐原藥業公告，公司控股股東安徽豐原集團有限公司的一致行動人與蚌埠投資集團有限公司簽署了《股份轉讓意向協議》，蚌埠投資集團擬以協議轉讓方式受讓豐原集團一致行動人持有的公司1.09億股股份，佔公司總股本的23.52%。本次股份轉讓事項涉及公司控股股東及實際控制人的變更，若最終實施完成，公司控股股東將由豐原集團變為蚌埠投資集團，公司實際控制人將由李榮傑先生變更為蚌埠市政府國有資產監督管理委員會。本次簽署的僅為股份轉讓意向協議，該事專案前僅處於意向階段，尚具有不確定性。"
+    },
+    {
+      "id": "4979263",
+      "time": "2026-07-09 21:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月9日，全球基金淨賣出53.3億印度盧比的印度股票。"
+    },
+    {
+      "id": "te:economy:565716",
+      "time": "2026-07-09 21:02:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Little Changed After Spike — The yield on the US 10-year Treasury note was little changed at 4.58% on Thursday, after climbing about 10bps over the previous two sessions to its highest level in roughly two months. Escalating tensions in the Middle East fueled a sharp rise in oil prices, as the US and Iran exchanged strikes. The developments also stoked concerns about another bout of inflation, reinforcing expectations that the Fed could keep interest rates higher for longer. On the data front, the latest jobless claims report continued to point to a resilient labor market. Meanwhile, minutes from the FOMC's June meeting showed that only a few policymakers favored a rate hike, although officials expressed growing concern about inflationary pressures. Markets continue to price in at least one Fed rate hike by the end of 2026, while the probability of a move at the September meeting currently stands at around 64%."
+    },
+    {
+      "id": "4979262",
+      "time": "2026-07-09 21:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：MiniMax發行65億港元2027年到期可轉換債券。"
+    },
+    {
+      "id": "4979261",
+      "time": "2026-07-09 21:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果已與 PrismML 洽談技術合作落地方案。"
+    },
+    {
+      "id": "4979260",
+      "time": "2026-07-09 21:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯：穩定幣不會對銀行存款構成威脅。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607093800283336",
+      "time": "2026-07-09 21:02:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲資料：7月8日美國有效聯邦基金利率為3.62%】美聯儲資料顯示，7月8日美國有效聯邦基金利率為3.62%，對應交易規模1310億美元。"
+    },
+    {
+      "id": "4979259",
+      "time": "2026-07-09 21:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預測中心（CPC）表示：10-12月發生極強厄爾尼諾事件的機率為81%，這一厄爾尼諾事件將躋身1950年有氣象記錄以來最強厄爾尼諾事件之列。"
+    },
+    {
+      "id": "4979258",
+      "time": "2026-07-09 21:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特吉斯哈雷戴維森將為第86屆斯特吉斯摩托車拉力賽提供超1200輛符合拉力賽標準的摩托車，庫存規模創紀錄。"
+    },
+    {
+      "id": "4979257",
+      "time": "2026-07-09 21:01:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月8日美國有效聯邦基金利率為3.62%，對應交易規模1310億美元。"
+    },
+    {
+      "id": "4979256",
+      "time": "2026-07-09 21:01:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【天孚通訊：泰國工廠下半年有源產品產量將逐月提升 目前相對緊缺的200G EML物料供應矛盾正在逐步緩解】天孚通訊(300394.SZ)釋出投資者關係活動記錄表公告，泰國工廠A棟廠房已於2024年透過客戶驗證實現無源產品投產，B棟廠房於2025年交付使用，有源產品也已透過客戶驗證。目前無源產品線處於穩步擴產階段，受2026年上半年200GEML晶片供應緊張影響，有源產品線僅小量生產，預計下半年物料供應改善後產量將逐月提升。泰國公司預計隨下半年交付量增加逐步扭虧為盈。目前，相對緊缺的200GEML物料供應矛盾正在逐步緩解，公司將保持與供應商的緊密溝通，爭取更多交付。公司為CPO產品配套的FAU和ELS產品，已在場地、關鍵裝置、人員、工藝等方面做好充分準備，可滿足客戶持續提產需求。公司具備矽光引擎平臺能力，可根據客戶需求定製開發。未來兩年資本性開支預計持續增加，主要用於蘇州新總部研發中心、江西生產基地廠房建設及裝置購置。"
+    },
+    {
+      "id": "mkt:019f46f7-ffd3-7aab-8d17-e9aabe24686d",
+      "time": "2026-07-09 21:01:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. weather forecasting agency says El Nifio is ongoing, will strengthen through year-end and has a 97% probability of persisting into early spring 2027."
+    },
+    {
+      "id": "4979255",
+      "time": "2026-07-09 21:01:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯原股份：國家積體電路基金擬減持不超過0.20%股份】芯原股份公告，股東國家積體電路產業投資基金股份有限公司持有公司2679.04萬股，佔總股本5.0941%。國家積體電路基金計劃於2026年7月31日至2026年10月30日，透過集中競價交易方式減持不超過105.18萬股，減持比例不超過0.20%，減持原因為自身經營管理需要。"
+    },
+    {
+      "id": "mkt:019f46f7-ebb2-7aab-8d17-e2fa39f512d6",
+      "time": "2026-07-09 21:01:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAGUSD",
+        "Impact bullish"
+      ],
+      "text": "New York silver futures rose 2.00% intraday to $59.87/oz."
+    },
+    {
+      "id": "4979254",
+      "time": "2026-07-09 21:01:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "百事公司盤前股價下跌幅度擴大至3%，原因是其美國業務疲軟。"
+    },
     {
       "id": "4979253",
       "time": "2026-07-09 21:00:51",
@@ -146029,246 +146339,6 @@
         "Impact bearish"
       ],
       "text": "【Tonight's jobs data not purely dovish】Markets had been pricing an earlier Fed hike on several consecutive strong payroll prints; this report breaks that continuity. The unemployment rate fell while labor force participation slipped to 61.5%, implying the lower jobless rate is not unambiguously demand-driven. Wage growth paired with low unemployment makes it hard for the Fed to justify pivoting to easing on the basis of a single weak payroll print. Market takeaway: the data delays pressure for earlier hikes rather than eliminating the possibility of further rate moves."
-    },
-    {
-      "id": "4967764",
-      "time": "2026-07-02 21:07:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "據媒體Semafor： 伊朗局勢衝突推高燃油價格，進而帶動非洲電動汽車銷量上漲。"
-    },
-    {
-      "id": "mkt:019f22f0-c993-7aab-8c7b-468877d3f331",
-      "time": "2026-07-02 21:07:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Department of Transportation has allocated $1.776 bln to FAA grant projects to upgrade airports nationwide."
-    },
-    {
-      "id": "mkt:019f22f0-54e3-7aab-8c7b-3bc7555fa4da",
-      "time": "2026-07-02 21:06:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Security sources said a drone strike hit a camp of an Iranian Kurdish opposition group north of Erbil, Iraq."
-    },
-    {
-      "id": "4967763",
-      "time": "2026-07-02 21:06:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【劉國中會見白俄羅斯第一副總理斯諾普科夫】中共中央政治局委員、國務院副總理劉國中7月2日在京會見白俄羅斯第一副總理斯諾普科夫。劉國中表示，6月29日，習近平主席同盧卡申科總統舉行了富有成果的會見，為中白全天候全面戰略伙伴關係發展注入新動力。雙方要落實好兩國元首重要共識，充分發揮中白政府間合作委員會等機制作用，推動互利合作走深走實，更好促進各自現代化建設和民族振興。斯諾普科夫表示，願同中方深化各領域務實合作，推動白中關係不斷邁上新臺階。（新華社）"
-    },
-    {
-      "id": "mkt:019f22f0-3afa-7aab-8c7b-364f333387da",
-      "time": "2026-07-02 21:06:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Nonfarm payrolls make Fed rate hike harder to justify, analyst says】Analyst Jersey said today's nonfarm payrolls make a Fed rate hike harder to implement. While markets still price the Fed's next move as a hike, the report highlights that a rate increase could threaten the employment side of the Fed's dual mandate. Although Walsh sought to downplay the employment mandate, Jersey expects an FOMC majority will worry a hike could hurt jobs; absent inflation sustainably above 3% and expected to remain there, they will hold the policy rate unchanged until a clear trend shift."
-    },
-    {
-      "id": "mkt:019f22f0-2edd-7aab-8c7b-2b38e8be2f3c",
-      "time": "2026-07-02 21:06:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Liu Guozhong meets Belarus First Deputy Prime Minister Snopkov】China Politburo member and Vice Premier Liu Guozhong met Belarus First Deputy Prime Minister Snopkov in Beijing on July 2. Liu said President Xi’s June 29 meeting with President Lukashenko had injected fresh momentum into the China‑Belarus all‑weather comprehensive strategic partnership and urged implementation of the leaders’ consensus, using the China‑Belarus Intergovernmental Cooperation Committee and other mechanisms to deepen mutually beneficial cooperation and support each side’s modernization. Snopkov said Belarus is willing to deepen pragmatic, cross‑sector cooperation and advance bilateral ties."
-    },
-    {
-      "id": "4967762",
-      "time": "2026-07-02 21:06:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：無人機襲擊擊中伊拉克埃爾比勒以北的伊朗庫爾德反對派組織營地。"
-    },
-    {
-      "id": "mkt:019f22ef-ba47-7aab-8c7b-2043b0e3232e",
-      "time": "2026-07-02 21:06:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Analyst: Weak nonfarm payrolls may still please Fed】Analyst Enda Curran said the weaker-than-expected nonfarm payrolls could still be welcomed by the Federal Reserve. Despite the miss, the labor market has improved year-on-year, and with oil prices down and signs of employment stabilizing, Curran said the Fed would likely be satisfied with the result."
-    },
-    {
-      "id": "4967761",
-      "time": "2026-07-02 21:05:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部披露聯邦航空管理局撥款規模達 17.76 億美元。"
-    },
-    {
-      "id": "4967760",
-      "time": "2026-07-02 21:05:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "LUCID股價在公佈第二季度交付資料後下跌1.8%。"
-    },
-    {
-      "id": "4967759",
-      "time": "2026-07-02 21:05:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "特斯拉盤前一度拉昇漲超2%，現回落至不足1%，Q2總交付量為480,126輛，高於市場預估。"
-    },
-    {
-      "id": "mkt:019f22ef-31af-7aab-8c7b-1ab13cded906",
-      "time": "2026-07-02 21:05:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) shares jumped as much as 2% premarket but have pared gains to under 1% after reporting Q2 total deliveries of 480,126 vehicles, above market expectations."
-    },
-    {
-      "id": "te:economy:563797",
-      "time": "2026-07-02 21:05:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Labor Force Participation Rate",
-        "Importance 0"
-      ],
-      "text": "US Labor Force Participation Rate Falls to 61.5% — The Labor Force Participation Rate in the United States decreased by 0.3 percentage points to 61.5% in June 2025. It is the lowest rate since February 2021, as 720,000 people left the labor force."
-    },
-    {
-      "id": "4967758",
-      "time": "2026-07-02 21:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "據敘利亞國家電視臺：大馬士革爆炸事件系炸彈引起。"
-    },
-    {
-      "id": "mkt:019f22ee-5ac3-7aab-8c7b-11de5863f343",
-      "time": "2026-07-02 21:04:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syrian state TV says a Damascus explosion was caused by a bomb."
-    },
-    {
-      "id": "4967757",
-      "time": "2026-07-02 21:04:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "行星公司與伊薩爾航天公司合作推出德國首個自主建造衛星火箭任務。"
-    },
-    {
-      "id": "4967756",
-      "time": "2026-07-02 21:04:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉(TSLA.O)：第二季度其他車型生產量為8,822輛，交付量為12,364輛。"
-    },
-    {
-      "id": "mkt:019f22ed-ca11-7aab-8c7b-09ff9236550f",
-      "time": "2026-07-02 21:03:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "Tesla (TSLA.O) deployed 13.5 GWh of energy storage products in Q2."
-    },
-    {
-      "id": "mkt:019f22ed-b206-7aab-8c7b-07988d1253e1",
-      "time": "2026-07-02 21:03:50",
-      "tags": [
-        "MKT News",
-        "TSLA.O"
-      ],
-      "text": "Tesla (TSLA.O) said second-quarter production of other models was 8,822 vehicles and deliveries were 12,364 vehicles."
-    },
-    {
-      "id": "4967755",
-      "time": "2026-07-02 21:03:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【非農資料和沃什近期講話提振金價】低於預期的美國非農就業資料提振了黃金價格，金價在報告發布前小幅下跌後，目前上漲2%。美國勞工統計局資料顯示，6月份僅新增5.7萬個非農就業崗位，低於分析師此前預測的11.5萬個。這一意外資料推動股市和大宗商品價格上漲，報告緩解了市場對未來加息的擔憂，美聯儲主席沃什的講話也淡化了市場對利率的擔憂。交投最活躍的白銀也上漲，漲幅達4%。"
-    },
-    {
-      "id": "mkt:019f22ed-7015-7aab-8c7a-fc6503e32522",
-      "time": "2026-07-02 21:03:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Weaker US nonfarm payrolls and Warsh remarks lift gold】US nonfarm payrolls rose 57,000 in June versus a 115,000 consensus, the U.S. Bureau of Labor Statistics said. The surprise miss cut market odds of further Fed tightening, helping gold to gain about 2% after an initial dip and lifting most-active silver roughly 4%. Equities and commodities rallied, and remarks from Fed Chair Kevin Warsh further tempered rate concerns."
-    },
-    {
-      "id": "mkt:019f22ed-44c1-7aab-8c7a-f205faee692c",
-      "time": "2026-07-02 21:03:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) Q2 deliveries 480,126 vehicles vs. market estimate 402,776; Q2 production 451,758 vehicles."
-    },
-    {
-      "id": "te:markets:563795",
-      "time": "2026-07-02 21:03:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rallies as Weak Jobs Data Cuts Fed Hike Odds — Silver prices climbed above $61 per ounce on Thursday, recovering from seven-month lows, as markets reduced bets on Federal Reserve rate hikes after disappointing US jobs data. The economy added just 57,000 jobs in June, the lowest in four months and far below the 110,000 forecast, with leisure and hospitality losing 61,000 jobs despite World Cup tourism. The unemployment rate unexpectedly dropped to 4.2% as workers exited the labor force, while wage growth ticked up to 3.5% year-over-year. Fed funds futures now show less than a 50% chance of a September hike, down from 67% before the report. On Wednesday, Fed Chair Kevin Warsh acknowledged easing inflation expectations but reiterated the Fed’s focus on price stability. Silver also drew support from rising oil shipments through the Strait of Hormuz and progress in indirect US-Iran talks, which lowered oil prices and further eased inflation pressures."
     }
   ]
 }
