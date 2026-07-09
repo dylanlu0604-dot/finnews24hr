@@ -1,7 +1,46 @@
 {
   "date": "2026-07-09",
-  "count": 1605,
+  "count": 1609,
   "items": [
+    {
+      "id": "4978268",
+      "time": "2026-07-09 13:57:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守73美元/桶，日內跌0.71%。"
+    },
+    {
+      "id": "4978267",
+      "time": "2026-07-09 13:55:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪反彈，光迅科技等多股漲停】CPO概念震盪反彈，光迅科技、華天科技、通富微電、長電科技漲停，天孚通訊、中富電路、羅博特科、源傑科技、華工科技、仕佳光子等跟漲。"
+    },
+    {
+      "id": "mkt:019f4571-9664-7aab-8d0a-aa1464a47b74",
+      "time": "2026-07-09 13:54:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude slipped below $73.00 per barrel, down 2.19% intraday. Brent crude fell 2.00% intraday to $77.36 per barrel."
+    },
+    {
+      "id": "4978266",
+      "time": "2026-07-09 13:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特5月工業產出同比下降18.7%。"
+    },
     {
       "id": "mkt:019f456f-e7bd-7aab-8d0a-a46bd5a8b887",
       "time": "2026-07-09 13:53:09",

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-09 13:54:18",
-  "count": 16139,
+  "updated": "2026-07-09 13:58:22",
+  "count": 16136,
   "items": [
+    {
+      "id": "4978268",
+      "time": "2026-07-09 13:57:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守73美元/桶，日內跌0.71%。"
+    },
+    {
+      "id": "4978267",
+      "time": "2026-07-09 13:55:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪反彈，光迅科技等多股漲停】CPO概念震盪反彈，光迅科技、華天科技、通富微電、長電科技漲停，天孚通訊、中富電路、羅博特科、源傑科技、華工科技、仕佳光子等跟漲。"
+    },
+    {
+      "id": "mkt:019f4571-9664-7aab-8d0a-aa1464a47b74",
+      "time": "2026-07-09 13:54:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude slipped below $73.00 per barrel, down 2.19% intraday. Brent crude fell 2.00% intraday to $77.36 per barrel."
+    },
+    {
+      "id": "4978266",
+      "time": "2026-07-09 13:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特5月工業產出同比下降18.7%。"
+    },
     {
       "id": "mkt:019f456f-e7bd-7aab-8d0a-a46bd5a8b887",
       "time": "2026-07-09 13:53:09",
@@ -147602,69 +147641,6 @@
         "Impact bullish"
       ],
       "text": "Hong Kong-listed Yingmei Holdings (02028.HK) jumped more than 110% in afternoon trade."
-    },
-    {
-      "id": "4966660",
-      "time": "2026-07-02 13:57:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華為海思概念走弱，北方華創跌停】華為海思概念走弱，北方華創跌停，芯源微、一博科技跌超10%，泰晶科技、德龍鐳射、盛劍科技、羅博特科、華天科技等跟跌。"
-    },
-    {
-      "id": "4966659",
-      "time": "2026-07-02 13:56:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀河期貨增資至50億，增幅約11%】天眼查App顯示，7月1日，銀河期貨有限公司發生工商變更，註冊資本由45億人民幣增至50億人民幣，增幅約11%。該公司成立於2006年12月，法定代表人為王東，經營範圍為商品期貨經紀、金融期貨經紀、期貨投資諮詢、資產管理、基金銷售，由中國銀河全資持股。"
-    },
-    {
-      "id": "4966658",
-      "time": "2026-07-02 13:55:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國報告呼籲儘快完善人工智慧治理】聯合國“人工智慧獨立國際科學小組”7月1日就人工智慧可能帶來的機遇、風險與影響釋出初步報告。報告在肯定人工智慧巨大潛在益處的同時，呼籲各國儘快採取行動，完善人工智慧治理。（新華社）"
-    },
-    {
-      "id": "4966657",
-      "time": "2026-07-02 13:54:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊午後回暖】創新藥板塊午後回暖，科倫藥業、澤璟製藥盤中創新高，海南海藥4連板，石藥景峰、聯化科技、京新藥業、華麗家族漲停，熱景生物漲超15%，石藥創新、萬邦醫藥、津藥藥業、康芝藥業、雙鷺藥業跟漲。"
-    },
-    {
-      "id": "mkt:019f2164-f088-7aab-8c6d-bc70e091302f",
-      "time": "2026-07-02 13:54:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "000733.SZ",
-        "Impact bearish"
-      ],
-      "text": "【Zhenhua Technology tumbles after prior-day limit-up; company says AI-MLCC price hikes unrelated】Zhenhua Technology shares fell sharply in early trade on July 2; at midday the stock was 58.97 yuan, down 5.35%. The previous trading day the stock hit the daily up limit after reports of MLCC suppliers raising prices. The company said MLCC price increases for AI servers are unrelated to its core business, noting AI-related MLCC hikes mainly involve a few large, consumer-facing suppliers and that Zhenhua’s MLCC business is very small and not separately quantified. It acknowledged some product price rises from higher raw-material costs but said increases were smaller than market expectations and that it is pursuing material substitution and other cost-saving measures."
-    },
-    {
-      "id": "4966656",
-      "time": "2026-07-02 13:54:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【前一日漲停，今日大跌 振華科技回應】7月2日早盤，振華科技股價大跌。截至午間收盤，公司股價報58.97元/股，跌幅為5.35%。前一個交易日，受MLCC行業巨頭漲價利好刺激，振華科技股價漲停。對於MLCC漲價，振華科技方面回應稱，用於AI伺服器的MLCC漲價和公司主業沒有關係。市場提到的AI領域MLCC漲價，主要是一些市場份額佔比較高的大廠，屬於民品領域。公司MLCC業務佔比很小，沒有做過統計。“受原材料漲價影響，公司部分產品確實有漲價，但漲價幅度沒有市場想象的那麼大。除漲價外，公司採取原材料替代、降本增效等舉措，以應對原材料漲價帶來的衝擊。”振華科技方面表示。（中證金牛座）"
-    },
-    {
-      "id": "4966655",
-      "time": "2026-07-02 13:54:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將雀巢目標價從74瑞士法郎上調至76瑞士法郎。"
     }
   ]
 }
