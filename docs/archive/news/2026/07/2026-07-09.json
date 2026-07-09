@@ -1,7 +1,113 @@
 {
   "date": "2026-07-09",
-  "count": 2283,
+  "count": 2295,
   "items": [
+    {
+      "id": "te:markets:565668",
+      "time": "2026-07-09 18:05:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PepsiCo earnings below expectations at 2.20 USD — PepsiCo (PEP) released earnings per share at 2.20 USD, compared to market expectations of 2.23 USD."
+    },
+    {
+      "id": "4978821",
+      "time": "2026-07-09 18:04:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南華生物：2026年上半年營收同比增384.57%-481.48% 扭虧為盈】南華生物公告稱，2026年1月1日至6月30日，公司預計營收2.5億元-3億元，同比上升384.57%-481.48%；歸屬於上市公司股東的淨利潤盈利420萬元–620萬元，上年同期虧損348.44萬元；扣除非經常性損益後的淨利潤盈利350萬元–450萬元，上年同期虧損665.62萬元。業績變動主要因碳酸鋰及再生資源業務開展使收入規模提升，且降本增效措施控制了成本費用。"
+    },
+    {
+      "id": "4978820",
+      "time": "2026-07-09 18:04:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "格林威治生命科學公司宣佈其量產的GP2獲歐盟批准用於FLAMINGO-01臨床試驗。"
+    },
+    {
+      "id": "4978819",
+      "time": "2026-07-09 18:04:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國公司Rivian預計本次發行淨募資約13.2億美元。"
+    },
+    {
+      "id": "4978818",
+      "time": "2026-07-09 18:03:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豆粕ETF 華夏：提示基金二級市場交易價格溢價風險】豆粕ETF 華夏公告稱，近期該基金二級市場交易價格明顯高於份額參考淨值，出現較大幅度溢價。7月9日，其二級市場收盤價2.157元，收盤時份額參考淨值2.0417元。若7月10日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金管理人提醒投資者關注產品風險，謹慎投資，目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4978817",
+      "time": "2026-07-09 18:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家衛健委：新版國家基本藥物目錄將創新藥納入遴選調整範圍】國家衛生健康委藥政司司長龔向光表示，近年來，我國藥品研發快速發展，大量創新藥上市應用，涉及腫瘤、神經系統疾病、免疫系統疾病等多個疾病領域，讓群眾用藥有了更多的選擇。這次國家基本藥物目錄更新調整，嘗試將創新藥納入遴選的調整範圍，為今後更多的創新藥進入基本藥物目錄探索一條可行的路子。在調整中，按照基本藥物功能定位，將臨床價值高、受眾人群較多、適宜各級醫療衛生機構配備使用作為基礎的遴選條件，經過專家的技術諮詢和評審論證的嚴格把關，最終調入國產的Ⅰ類新藥4種，其中化學藥品和生物製品3種，中成藥1種。下一步，國家衛生健康委將結合醫藥產業創新發展，推進創新藥規範應用，讓醫藥創新研發成果更好、更快惠及人民群眾。同時，根據《國家基本藥物目錄管理辦法》規定，將在基本藥物目錄定期動態調整和最佳化中，縮短創新藥從上市到進入基本藥物目錄的時間，支援創新藥發展。（澎湃）"
+    },
+    {
+      "id": "mkt:019f4654-ba19-7aab-8d12-b325dc7c6cd1",
+      "time": "2026-07-09 18:03:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Yuxin Technology, Beijing Silicon-Based Flow sign strategic AI partnership for financial sector】Yuxin Technology and Beijing Silicon-Based Flow Technology signed a strategic cooperation agreement to jointly develop large-model infrastructure and AI solutions tailored to the financial industry, aiming to accelerate institutional intelligent systems and application deployment. The partnership has rapidly moved into operational validation: together with a bank client they are adapting compute cards and conducting performance tests using Silicon-Based Flow inference-acceleration technology, completing initial verification of technical feasibility and efficiency gains in real financial scenarios."
+    },
+    {
+      "id": "4978816",
+      "time": "2026-07-09 18:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：德國最新改革方案長期而言對公共財政與經濟均屬利好，但稱不上具有顛覆性變革。"
+    },
+    {
+      "id": "mkt:019f4653-f74b-7aab-8d12-acfb1afb4748",
+      "time": "2026-07-09 18:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam's foreign ministry said a minister will attend an event in Bangkok."
+    },
+    {
+      "id": "4978815",
+      "time": "2026-07-09 18:02:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍蟠科技：股票交易異常波動 擬授776萬股限制性股票】龍蟠科技公告稱，公司股票於2026年7月8日、7月9日連續2個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。7月8日，公司擬向相關人員授予776萬股限制性股票，約佔公司股本總額的0.98%，該事項尚需股東會審議。經自查，公司生產經營正常，無應披露未披露重大資訊。公司提醒投資者注意二級市場風險。"
+    },
+    {
+      "id": "4978814",
+      "time": "2026-07-09 18:02:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海控：7月7 - 9日累計回購769.71萬股】中遠海控公告稱，7月7 - 9日公司累計回購股份7,697,060股，佔現有已發行股份的0.0613%。其中，7月7日回購300萬股，每股回購價13.79元；7月8日回購200萬股，每股回購價13.98元；7月9日回購2,697,060股，每股最高回購價13.99元、最低13.81元，付出價格總額3752.89萬元。"
+    },
+    {
+      "id": "4978812",
+      "time": "2026-07-09 18:01:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【記者現場質疑北約秘書長盲目迎合特朗普：你的自尊心呢？呂特這樣回答】7月8日，北約秘書長呂特北約峰會記者會上被質疑盲目迎合特朗普。對此，呂特沒有正面回應，但他表示，他在應該表揚別人的時候就會表揚。（澎湃）"
+    },
     {
       "id": "mkt:019f4653-2978-7aab-8d12-a65610cd199c",
       "time": "2026-07-09 18:01:22",
