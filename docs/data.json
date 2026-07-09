@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-09 13:42:22",
-  "count": 16128,
+  "updated": "2026-07-09 13:46:17",
+  "count": 16134,
   "items": [
+    {
+      "id": "mkt:019f4569-2139-7aab-8d0a-635bc2f1154e",
+      "time": "2026-07-09 13:45:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share memory and storage chip sector continued to rally. Youyan Silicon hit a 20% limit-up, Tianshan Electronics re-sealed its limit-up; Shenkeda and Aisen earlier hit limit-up. Shanghai Xinyang, Changchuan Technology, Hengkun New Materials and Montage Technology each gained over 10%."
+    },
+    {
+      "id": "te:economy:565519",
+      "time": "2026-07-09 13:45:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Egypt Inflation Rate at 4-Month Low of 14.3% — Egypt's annual urban inflation eased for the third consecutive month to 14.3% in June 2026 from 14.6% in May, below market expectations of 15.1%. It was the lowest inflation rate since February, as the impact of higher fuel prices continued to fade, with transport inflation slowing to 24.4% in June from 24.7% in May. Egypt raised fuel prices in early March by about 14% to 17% across a wide range of petroleum products, marking the first increase this year amid elevated global oil prices. On a monthly basis, the CPI fell 0.4%, reversing a 1.6% increase in the previous month and marking the first monthly decline since July 2025."
+    },
+    {
+      "id": "mkt:019f4568-4041-7aab-8d0a-5edd42cb676c",
+      "time": "2026-07-09 13:44:47",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Chip-focused ETFs rallied; chip ETFs from E Fund, Guotai and Fullgoal each rose more than 6%."
+    },
+    {
+      "id": "mkt:019f4567-ba83-7aab-8d0a-53083d058974",
+      "time": "2026-07-09 13:44:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Strait of Hormuz disruption prompts Pakistan urgent LNG tender】Pakistan State Oil posted an urgent tender for one LNG cargo for delivery July 15-16, with bids due Friday. Traders said the tender was approved Wednesday after a Qatar shipment scheduled for this month was canceled. Shipping through the Strait of Hormuz has been near-stalled following a second consecutive day of US strikes on Iran; earlier this week a vessel carrying Qatari gas to Pakistan halted transit. Pakistan sources almost all LNG via long-term contracts with Qatar and has faced energy shortfalls since the late-February Middle East conflict; it has purchased two costly spot cargoes in recent weeks to plug supply gaps."
+    },
+    {
+      "id": "4978254",
+      "time": "2026-07-09 13:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦本財年迄今為止的海外匯款為416億美元。"
+    },
+    {
+      "id": "4978253",
+      "time": "2026-07-09 13:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達將與Hugging Face合作開發機器人開源模型】英偉達宣佈與Hugging Face合作，聯合開發用於機器人的開源基礎模型，將GPU生態與CUDA堆疊，結合Hugging Face龐大模型庫及開發者社群，大幅降低機器人AI訓練與部署門檻。"
+    },
+    {
+      "id": "mkt:019f4566-35e4-7aab-8d0a-4d50e0aa05a9",
+      "time": "2026-07-09 13:42:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA to partner with Hugging Face on open‑source robotics foundation models】NVIDIA said it will partner with Hugging Face to develop open‑source foundation models for robotics, integrating NVIDIA’s GPU ecosystem and CUDA stack with Hugging Face’s model hub and developer community to significantly lower barriers to training and deploying robot AI."
+    },
+    {
+      "id": "mkt:019f4565-99ce-7aab-8d0a-45717cc680d0",
+      "time": "2026-07-09 13:41:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $78/bbl, down 1.22% intraday."
+    },
     {
       "id": "mkt:019f4565-6096-7aab-8d0a-3c41c8553441",
       "time": "2026-07-09 13:41:39",
@@ -147508,23 +147598,6 @@
         "其他"
       ],
       "text": "京東方Ａ成交額超400億元，現漲4.22%。"
-    },
-    {
-      "id": "4966642",
-      "time": "2026-07-02 13:46:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿達尼集團聯合阿布扎比IHC斥資115億美元在印度建鋁廠】7月2日，印度阿達尼集團與阿布扎比國際控股公司（IHC）宣佈將聯手投資115億美元，在印度奧里薩邦新建一座大型鋁廠。"
-    },
-    {
-      "id": "4966641",
-      "time": "2026-07-02 13:43:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將耐克目標價從67美元下調至52美元。"
     }
   ]
 }
