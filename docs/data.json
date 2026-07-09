@@ -1,7 +1,114 @@
 {
-  "updated": "2026-07-09 22:59:21",
-  "count": 15939,
+  "updated": "2026-07-09 23:03:28",
+  "count": 15933,
   "items": [
+    {
+      "id": "4979507",
+      "time": "2026-07-09 23:02:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨跌幅進一步擴大，受得州自由港液化天然氣設施檢修及庫存大幅增加影響，價格下跌 5%，創六週新低。"
+    },
+    {
+      "id": "4979506",
+      "time": "2026-07-09 23:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦羅布斯塔咖啡期貨漲幅超 5%，報每噸 3941 美元。"
+    },
+    {
+      "id": "4979505",
+      "time": "2026-07-09 23:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：IMF總裁格奧爾基耶娃本週與委內瑞拉臨時總統羅德里格斯進行了交談，討論了使用委內瑞拉3.5億美元特別提款權配額以滿足緊急人道主義需求的事宜。"
+    },
+    {
+      "id": "mkt:019f4765-1725-7aab-8d1c-173db980e514",
+      "time": "2026-07-09 23:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the 23:00 close, China's most-active futures contracts were mixed. Pulp rose over 2%; coking coal, benzene and coke fell more than 2%."
+    },
+    {
+      "id": "mkt:019f4764-ea1f-7aab-8d1c-0c3391c0e14b",
+      "time": "2026-07-09 23:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva this week spoke with Venezuela interim president Rodriguez about using Venezuela's $350 mln SDR allocation to meet urgent humanitarian needs."
+    },
+    {
+      "id": "4979504",
+      "time": "2026-07-09 23:00:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部將拍賣950億美元的六週期國庫券。"
+    },
+    {
+      "id": "te:markets:565745",
+      "time": "2026-07-09 23:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Increases by 0.89% — Top currency gainers are New Zealand Dollar (0.89%), Brazilian Real (0.81%), Norwegian Krone (0.36%), Euro (0.14%) and Japanese Yen (0.14%). Biggest losers are South Korean Won (-0.31%) and Dollar Index (-0.06%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "4979503",
+      "time": "2026-07-09 23:00:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部將拍賣790億美元的六個月期國庫券。"
+    },
+    {
+      "id": "4979502",
+      "time": "2026-07-09 23:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦煤連續跌2.79%，紙漿連續漲2.52%，焦炭連續跌2.15%，聚丙烯連續跌1.58%，燃料油連續跌1.42%。"
+    },
+    {
+      "id": "4979501",
+      "time": "2026-07-09 22:59:31",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊緊張局勢再度升溫 伊朗緊急運出約1100萬桶原油】隨著美伊緊張局勢再度升級、美國總統特朗普威脅恢復對伊朗港口實施封鎖，德黑蘭過去24小時緊急調派油輪，運出約1,100萬桶原油。根據油輪追蹤資料，五艘超大型油輪和一艘蘇伊士型油輪駛離伊朗港口。其中，四艘油輪在阿曼灣發出定位訊號，另一艘則於週四穿越霍爾木茲海峽。這支油輪船隊出航之際，美軍連續第二天對伊朗發動打擊，以回應德黑蘭近期襲擊船隻的行動。兩國之間本就脆弱的臨時停火協議面臨破裂風險。局勢再度惡化令其他航運公司更加謹慎，霍爾木茲海峽大部分可觀測船舶通行幾近陷入停滯。最新局勢也推動油價劇烈波動。倫敦布倫特原油價格週四維持在每桶79美元附近，本週累計上漲近9%。"
+    },
+    {
+      "id": "mkt:019f4764-19ad-7aab-8d1c-02dac132459b",
+      "time": "2026-07-09 22:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: India's Assam state will provide incentive support to Tata's semiconductor plant."
+    },
+    {
+      "id": "4979500",
+      "time": "2026-07-09 22:58:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿瑟·J·加拉格爾公司目標股價獲Cantor Fitzgerald上調，從每股285.00美元提高至300.00美元。"
+    },
     {
       "id": "4979499",
       "time": "2026-07-09 22:58:30",
@@ -145453,180 +145560,6 @@
         "MKT News"
       ],
       "text": "Danmarks Nationalbank intervened in FX markets last month, buying DKK700m."
-    },
-    {
-      "id": "mkt:019f235a-d287-7aab-8c7f-38324a2f6dd2",
-      "time": "2026-07-02 23:03:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. ambassador to the United Nations said President Trump’s patience with Iran is running out."
-    },
-    {
-      "id": "4968002",
-      "time": "2026-07-02 23:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約針對遠端辦公人員徵收的相關稅項在法律訴訟中勝訴，政策得以保留。"
-    },
-    {
-      "id": "mkt:019f235a-4ed5-7aab-8c7f-37c7456d8934",
-      "time": "2026-07-02 23:02:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US permanent representative to the UN called on Iran to return to dialogue and pursue peaceful efforts."
-    },
-    {
-      "id": "4968001",
-      "time": "2026-07-02 23:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "快手：投資者同意向AI模型可靈注資20億美元。"
-    },
-    {
-      "id": "4968000",
-      "time": "2026-07-02 23:02:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊斯資訊聯合中標福建省低空智慧網聯絡統專案（一期）】近日，萊斯資訊聯合福建省電子政務建設運營有限公司，成功中標福建省低空智慧網聯絡統（一期）專案，中標金額近3000萬元。"
-    },
-    {
-      "id": "4967999",
-      "time": "2026-07-02 23:01:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "丹麥央行上月開展外匯市場干預操作。"
-    },
-    {
-      "id": "4967998",
-      "time": "2026-07-02 23:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時100指數上漲2%，報10688.06點。"
-    },
-    {
-      "id": "mkt:019f2359-90ae-7aab-8c7f-2c6a5d2bfa2d",
-      "time": "2026-07-02 23:01:40",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "U.S. permanent representative to the United Nations said the United States will not accept any illegal levies in the Strait of Hormuz and that Iran does not respect the UN Charter."
-    },
-    {
-      "id": "mkt:019f2359-38b9-7aab-8c7f-241702c8d2dc",
-      "time": "2026-07-02 23:01:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "UK's FTSE 100 up 2.00% intraday."
-    },
-    {
-      "id": "mkt:019f2359-10cc-7aab-8c7f-1fd31581ff53",
-      "time": "2026-07-02 23:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "As of the 23:00 close, China's main futures contracts were mostly higher: LPG up about 3%, methanol over 2%. Propylene, polypropylene (monthly-average), asphalt, coke and plastics (monthly-average) rose more than 1%. Iron ore fell over 1% and palm oil slipped nearly 1%."
-    },
-    {
-      "id": "mkt:019f2358-edac-7aab-8c7f-1529484104a4",
-      "time": "2026-07-02 23:00:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. ambassador to the U.N. called on Iran to stop attacks and open the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f2358-c2bb-7aab-8c7f-0e2b9320fcf9",
-      "time": "2026-07-02 23:00:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. permanent representative to the U.N. said despite a memorandum of understanding, Iran continues to attack vessels and strike Bahrain and Kuwait."
-    },
-    {
-      "id": "te:markets:563842",
-      "time": "2026-07-02 23:00:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Increases by 0.94% — Top currency gainers are Japanese Yen (0.94%), Swiss Franc (0.90%), Norwegian Krone (0.83%), British Pound (0.75%) and Euro (0.58%). Biggest loser is Dollar Index (-0.62%)."
-    },
-    {
-      "id": "4967997",
-      "time": "2026-07-02 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續漲2.89%，甲醇連續漲2.10%，聚丙烯連續漲1.40%，鐵礦石連續跌1.34%，瀝青連續漲1.33%。"
-    },
-    {
-      "id": "mkt:019f2357-e256-7aab-8c7f-00fb63167e12",
-      "time": "2026-07-02 22:59:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The U.S. permanent representative to the United Nations said Iran is attempting to impose illegal fees in the Strait of Hormuz. The strait must remain open to all countries."
-    },
-    {
-      "id": "mkt:019f2357-a910-7aab-8c7e-fd10f4ba30dc",
-      "time": "2026-07-02 22:59:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "US permanent representative to the UN said Washington will not allow Iran to hold the global economy hostage. He said Iran has attacked civilian vessels and impeded freedom of navigation, affecting global agriculture."
-    },
-    {
-      "id": "4967996",
-      "time": "2026-07-02 22:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國常駐聯合國代表：我們不會允許伊朗將全球經濟作為人質。伊朗襲擊民用船隻並阻礙航行自由，對全球農業造成了影響。"
-    },
-    {
-      "id": "4967995",
-      "time": "2026-07-02 22:59:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【厄爾尼諾擾動全球農產品供給，倫敦白糖期貨價格創九個月新高】中國國家氣候中心副主任袁佳雙7月2日表示，6月以來，赤道中東太平洋海溫持續攀升。綜合國內外動力氣候模式和統計方法預測，夏秋季將形成一次東部型強至超強厄爾尼諾事件。世界氣象組織此前預計，7至9月出現強厄爾尼諾的機率已升至80%，持續至11月及以後的機率高達90%。7月2日，ICE倫敦白糖期貨延續漲勢，盤中一度觸及490美元/噸，創九個半月新高，成為本輪厄爾尼諾行情中價格反應最為敏感的品種之一。（澎湃新聞）"
     }
   ]
 }

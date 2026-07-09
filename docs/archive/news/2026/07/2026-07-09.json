@@ -1,7 +1,114 @@
 {
   "date": "2026-07-09",
-  "count": 3229,
+  "count": 3241,
   "items": [
+    {
+      "id": "4979507",
+      "time": "2026-07-09 23:02:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨跌幅進一步擴大，受得州自由港液化天然氣設施檢修及庫存大幅增加影響，價格下跌 5%，創六週新低。"
+    },
+    {
+      "id": "4979506",
+      "time": "2026-07-09 23:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦羅布斯塔咖啡期貨漲幅超 5%，報每噸 3941 美元。"
+    },
+    {
+      "id": "mkt:019f4765-1725-7aab-8d1c-173db980e514",
+      "time": "2026-07-09 23:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the 23:00 close, China's most-active futures contracts were mixed. Pulp rose over 2%; coking coal, benzene and coke fell more than 2%."
+    },
+    {
+      "id": "4979505",
+      "time": "2026-07-09 23:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：IMF總裁格奧爾基耶娃本週與委內瑞拉臨時總統羅德里格斯進行了交談，討論了使用委內瑞拉3.5億美元特別提款權配額以滿足緊急人道主義需求的事宜。"
+    },
+    {
+      "id": "mkt:019f4764-ea1f-7aab-8d1c-0c3391c0e14b",
+      "time": "2026-07-09 23:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva this week spoke with Venezuela interim president Rodriguez about using Venezuela's $350 mln SDR allocation to meet urgent humanitarian needs."
+    },
+    {
+      "id": "4979504",
+      "time": "2026-07-09 23:00:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部將拍賣950億美元的六週期國庫券。"
+    },
+    {
+      "id": "te:markets:565745",
+      "time": "2026-07-09 23:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Increases by 0.89% — Top currency gainers are New Zealand Dollar (0.89%), Brazilian Real (0.81%), Norwegian Krone (0.36%), Euro (0.14%) and Japanese Yen (0.14%). Biggest losers are South Korean Won (-0.31%) and Dollar Index (-0.06%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "4979503",
+      "time": "2026-07-09 23:00:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部將拍賣790億美元的六個月期國庫券。"
+    },
+    {
+      "id": "4979502",
+      "time": "2026-07-09 23:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦煤連續跌2.79%，紙漿連續漲2.52%，焦炭連續跌2.15%，聚丙烯連續跌1.58%，燃料油連續跌1.42%。"
+    },
+    {
+      "id": "4979501",
+      "time": "2026-07-09 22:59:31",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊緊張局勢再度升溫 伊朗緊急運出約1100萬桶原油】隨著美伊緊張局勢再度升級、美國總統特朗普威脅恢復對伊朗港口實施封鎖，德黑蘭過去24小時緊急調派油輪，運出約1,100萬桶原油。根據油輪追蹤資料，五艘超大型油輪和一艘蘇伊士型油輪駛離伊朗港口。其中，四艘油輪在阿曼灣發出定位訊號，另一艘則於週四穿越霍爾木茲海峽。這支油輪船隊出航之際，美軍連續第二天對伊朗發動打擊，以回應德黑蘭近期襲擊船隻的行動。兩國之間本就脆弱的臨時停火協議面臨破裂風險。局勢再度惡化令其他航運公司更加謹慎，霍爾木茲海峽大部分可觀測船舶通行幾近陷入停滯。最新局勢也推動油價劇烈波動。倫敦布倫特原油價格週四維持在每桶79美元附近，本週累計上漲近9%。"
+    },
+    {
+      "id": "mkt:019f4764-19ad-7aab-8d1c-02dac132459b",
+      "time": "2026-07-09 22:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: India's Assam state will provide incentive support to Tata's semiconductor plant."
+    },
+    {
+      "id": "4979500",
+      "time": "2026-07-09 22:58:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿瑟·J·加拉格爾公司目標股價獲Cantor Fitzgerald上調，從每股285.00美元提高至300.00美元。"
+    },
     {
       "id": "4979499",
       "time": "2026-07-09 22:58:30",
