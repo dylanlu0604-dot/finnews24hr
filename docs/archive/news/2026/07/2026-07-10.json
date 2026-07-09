@@ -1,7 +1,56 @@
 {
   "date": "2026-07-10",
-  "count": 130,
+  "count": 135,
   "items": [
+    {
+      "id": "4979626",
+      "time": "2026-07-10 01:53:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富蘭克林·鄧普頓：AI基礎設施看漲邏輯將延續至2027年】富蘭克林·鄧普頓（Franklin Templeton）的高階投資策略師達德利（Katrina Dudley）表示，人工智慧（AI）基礎設施支出的看漲論據正戰勝看跌論據，她認為這一投資主題在2027年及以後仍將保持韌性，甚至可能延續至更遠的年份。“我認為，韌性至少會持續到2026年。我們還有大約半年的時間，之後是2027年，甚至到2028年。”"
+    },
+    {
+      "id": "4979625",
+      "time": "2026-07-10 01:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 與波蘭總統納夫羅茨基的會談富有建設性，並補充稱維護雙邊關係、避免其遭到破壞至關重要。"
+    },
+    {
+      "id": "4979624",
+      "time": "2026-07-10 01:52:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲Logan：自願中央清算將有助於美聯儲的公開市場操作】美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）表示，若透過自願參與的中央清算機制開展公開市場操作，可能會為金融體系帶來益處。Logan在紐約聯儲舉辦的一場有關市場流動性的會議上表示，聯邦公開市場委員會（FOMC）“若在自願基礎上透過中央清算方式開展公開市場操作，將能夠使其公開市場操作更有效率、更具效果，並有助於增強美國金融市場整體的穩健性”。Logan還表示，市場中的槓桿水平需要得到謹慎管理。“維持強勁且高效的金融市場，需要市場參與者和官方部門在槓桿運用的收益與風險，以及槓桿與市場流動性之間的相互作用方面作出適當平衡。”"
+    },
+    {
+      "id": "4979623",
+      "time": "2026-07-10 01:51:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通於世界貿易中心二號大廈啟動新總部奠基工程。"
+    },
+    {
+      "id": "mkt:019f4801-b93f-7aab-8d1f-49e34b37e108",
+      "time": "2026-07-10 01:51:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Dallas Fed's Logan says voluntary central clearing could boost open market operations efficiency】Dallas Federal Reserve President Logan said the Federal Open Market Committee using a voluntary central clearing mechanism for open market operations would improve operational efficiency and effectiveness and bolster US financial-market stability. She said such arrangements could increase use of Fed tools, including the standing repo facility, which is intended to supply liquidity to eligible institutions but has seen low market take-up; simplifying clearing could raise its appeal, some participants say. Logan also urged careful management of market leverage, stressing the need to balance leverage-driven returns against risks and to preserve an appropriate leverage–liquidity trade-off."
+    },
     {
       "id": "mkt:019f47ff-c873-7aab-8d1f-4282195d75b6",
       "time": "2026-07-10 01:49:33",
