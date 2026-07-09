@@ -1,7 +1,95 @@
 {
   "date": "2026-07-09",
-  "count": 1269,
+  "count": 1278,
   "items": [
+    {
+      "id": "mkt:019f44c1-52f6-7aab-8d06-393810fe7a2b",
+      "time": "2026-07-09 10:42:28",
+      "tags": [
+        "MKT News",
+        "09988.HK",
+        "Impact mixed"
+      ],
+      "text": "【HSBC cuts Alibaba PT to HK$166, keeps Buy】HSBC Global Research cut its Hong Kong target price for Alibaba (09988.HK) to HK$166 from HK$172 after lowering its US target to US$170 from US$176, and kept a Buy rating. The bank trimmed its fiscal 2027 adjusted net profit forecast by 3.7% to CNY 99.4 bln. For the fiscal first quarter ending June, HSBC expects revenue to rise 8% YoY to CNY 267.9 bln and adjusted net profit to fall 41% YoY to CNY 20.9 bln. HSBC said if Alibaba’s China e‑commerce unit bottoms in Q1, the stock could be re‑rated."
+    },
+    {
+      "id": "4978036",
+      "time": "2026-07-09 10:42:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌1%，現報3740.00元。"
+    },
+    {
+      "id": "mkt:019f44bf-bfd1-7aab-8d06-35c042c7ed03",
+      "time": "2026-07-09 10:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump, South Korea's Lee agree to deepen naval shipbuilding cooperation】Trump and South Korea's Lee agreed to deepen bilateral naval shipbuilding cooperation and to continue working-level consultations after meeting Tuesday at the NATO summit in Turkey. The U.S. requested South Korean assistance on warship construction; Lee pledged cooperation and cited South Korean firms with advanced shipbuilding capabilities. Both sides said they will hold further technical and policy-level talks to study concrete measures."
+    },
+    {
+      "id": "mkt:019f44bf-b101-7aab-8d06-2d84a43b1743",
+      "time": "2026-07-09 10:40:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Thai baht weakened to 33.565 per US dollar, the weakest level since May 2."
+    },
+    {
+      "id": "te:markets:565481",
+      "time": "2026-07-09 10:40:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Shares Edge Higher — Indonesian equities firmed modestly on Thursday morning, with the IDX Composite Index adding 14 points or 0.2% to 5,883, clawing back steep losses from the prior session. The rebound tracked stronger U.S. futures after Wall Street closed mostly lower overnight, weighed by renewed U.S.–Iran tensions and higher oil prices. Locally, sentiment was lifted by an uptick in June forex reserves and quicker state budget execution in H1 2026. In top trading partner China, headline inflation eased to 1.1% in June, undershooting forecasts as food costs fell further. However, gains in Jakarta were capped by concerns over a possible downgrade to frontier-market status in 2027, flagged by S&P Dow Jones Indices. Meanwhile, consumer sentiment slipped for a second month in June, hitting its weakest since last September. Basic materials, energy, transport, and industry led strength, with notable movers from ESSA Industries (4.6%), Amman Mineral Intl. (3.0%), Bumi Resources (2.2%), and Medco Energi (1.3%)."
+    },
+    {
+      "id": "mkt:019f44bf-12da-7aab-8d06-20338af9a43c",
+      "time": "2026-07-09 10:40:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Axios, a US official said the duration and severity of any new US operations will depend entirely on Tehran’s next move. The current escalation could last one to two days, or extend to a week or a month if Iran continues attacks on commercial vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "4978035",
+      "time": "2026-07-09 10:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【28個省份推進住院分娩個人“無自付”】國家醫保局待遇保障司副司長劉娟7月9日在2026年上半年例行新聞釋出會上介紹，截至目前，全國28個省份推進住院分娩個人“無自付”，對參保女職工住院分娩發生的符合醫保目錄、定點支付等管理規定的醫療費用進行全額保障。江蘇、福建、寧夏等9個省份進一步將住院分娩個人“無自付”拓展到城鄉居民醫保。（新華社）"
+    },
+    {
+      "id": "mkt:019f44be-839b-7aab-8d06-19ec55c38da0",
+      "time": "2026-07-09 10:39:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Over 12 mln patient visits have used drugs added to China’s 2025 NRDL】The National Healthcare Security Administration said at its 1H 2026 briefing that drugs added to the 2025 national medical insurance drug list are stocked at about 310,000 designated medical institutions and have been used in more than 12.0 million patient visits. From Jan–May, the national medical insurance fund spent 2.636 bln yuan on these new drugs, supporting 3.946 bln yuan in drug sales. Uptake is pronounced for some high‑profile products: the hyperlipidemia treatment Yingkesilan is now available in nearly 1,700 designated medical institutions and retail pharmacies."
+    },
+    {
+      "id": "4978034",
+      "time": "2026-07-09 10:38:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國長護險參保人數達3.2億人】國家醫保局待遇保障司副司長劉娟7月9日在2026年上半年例行新聞釋出會上介紹，目前河北、山西等17個省份已出臺長護險省級實施方案，100個統籌地區落地執行，參保人數達3.2億人。（新華社）"
+    },
     {
       "id": "mkt:019f44bd-c654-7aab-8d06-13a7fe8cfe7d",
       "time": "2026-07-09 10:38:35",
