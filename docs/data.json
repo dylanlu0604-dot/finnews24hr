@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-09 08:55:16",
-  "count": 16170,
+  "updated": "2026-07-09 08:59:09",
+  "count": 16172,
   "items": [
+    {
+      "id": "4977831",
+      "time": "2026-07-09 08:58:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金財富期貨：真正壓制黃金的是流動性而非油價】油價上行對黃金形成一定壓制，但是目前金價對原油上漲逐漸脫敏，核心在於沃什想盡一切辦法降息的意圖被越來越多的投資者發現。真正壓制黃金的是流動性而非油價。我們仍認為這種背景下，黃金具備一定的反彈動能。"
+    },
+    {
+      "id": "4977830",
+      "time": "2026-07-09 08:57:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團高管將訪問美國，參加SK海力士在納斯達克的上市首秀。"
+    },
+    {
+      "id": "4977829",
+      "time": "2026-07-09 08:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Hy3呼叫激增，WorkBuddy：已緊急擴容】據騰訊混元訊息，Hy3在WorkBuddy首發上線以來，受到了使用者們的廣泛支援。7月8日上午10時開始，算力資源消耗達到峰值，並出現排隊情況，下午排隊率一度超過50%。為了提供更好的Hy3使用體驗和穩定服務，團隊第一時間排程可用資源進行補充，目前已擴容完畢。"
+    },
+    {
+      "id": "4977828",
+      "time": "2026-07-09 08:55:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華燦光電：目前公司與康寧沒有直接的合作關係】華燦光電7月9日在互動平臺表示，目前公司與康寧沒有直接的合作關係。"
+    },
+    {
+      "id": "mkt:019f445e-fa75-7aab-8d02-49a60bab0a07",
+      "time": "2026-07-09 08:55:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Mehr news agency reported a powerful explosion rocked the U.S. Fifth Fleet in Bahrain."
+    },
+    {
+      "id": "4977827",
+      "time": "2026-07-09 08:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴林境內美國第五艦隊總部發生劇烈爆炸。"
+    },
+    {
+      "id": "te:markets:565441",
+      "time": "2026-07-09 08:54:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index jumped 2% to above 68,000 while the broader Topix Index gained 0.4% to 4,022 on Thursday, as Japanese equities snapped a two-day losing streak on the back of a rebound in technology stocks. Domestic shares also took cues from gains in US chipmakers and memory-related stocks overnight. Market sentiment was further supported by reports that South Korean chipmaker SK Hynix’s US listing was more than seven times oversubscribed, highlighting strong investor demand for artificial intelligence infrastructure. Meanwhile, US private equity firm Bain Capital sold its entire stake in Japanese flash memory producer Kioxia Holdings, although the company’s shares surged more than 7% during the session. Among other major technology gainers, Murata Manufacturing climbed 4%, Advantest advanced 6.9%, Tokyo Electron rose 4%, and Fujikura gained 5.1%."
+    },
     {
       "id": "mkt:019f445e-7535-7aab-8d02-4060f3064546",
       "time": "2026-07-09 08:54:28",
@@ -147814,56 +147880,6 @@
         "其他"
       ],
       "text": "【均普智慧與國際製造巨頭達成工業具身智慧業務合作】據均普智慧訊息，近日，均普智慧與國際一製造業巨頭企業達成了在工業具身智慧業務方面的合作，雙方將透過合作共同推動全球智造新正規化的升級。此前，均普智慧的具身智慧業務已經和多家企業達成了合作，並已在場景驗證方面取得了系列階段性成果。"
-    },
-    {
-      "id": "4966134",
-      "time": "2026-07-02 08:58:27",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國財政部選定道富、貝萊德和先鋒基金作為特朗普賬戶投資標的】美國財政部週三公佈了特朗普賬戶的投資產品名單，其中包括道富(State Street)、貝萊德(BlackRock)和先鋒集團(Vanguard)旗下的交易所交易基金(ETF)。美國財政部表示，存入特朗普賬戶的所有資金都將投資於道富SPDR組合標普500指數ETF（SPYM），該基金將在計劃啟動階段作為預設投資選項。財政部還選定了貝萊德旗下iShares Core標普500指數ETF（IVV）和iShares Core標普美國整體股市ETF（ITOT）、道富SPDR組合標普1500綜合股市ETF（SPTM）以及先鋒全股市指數ETF（VTI）。"
-    },
-    {
-      "id": "mkt:019f2055-11ba-7aab-8c68-49691090c686",
-      "time": "2026-07-02 08:57:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS",
-        "MU.O"
-      ],
-      "text": "【South Korean stocks plunge over 6% as AI compute oversupply fears hit chipmakers】South Korean equities tumbled after Meta’s plan to sell computing capacity raised concerns of AI compute oversupply. The KOSPI fell more than 6%, sliding as much as nearly 7% in early trade on Thursday and briefly triggering a trading halt. SK hynix dropped about 9% and Samsung Electronics fell over 7%. Overnight U.S. peers Micron (MU.O) and SanDisk (SNDK.O) each fell more than 10%. The moves may intensify investor doubts about the sustainability of the chip rally driven by booming AI infrastructure demand; Korea’s major suppliers occupy a central position in that supply chain."
-    },
-    {
-      "id": "4966133",
-      "time": "2026-07-02 08:57:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度的Meta競爭對手ShareChat計劃明年IPO 融資4億美元】印度運營社交網路ShareChat、短影片平臺Moj以及訂閱制微劇應用QuickTV的Mohalla Tech Pvt.公司，正計劃於明年在公開市場進行上市，尋求最高達4億美元的資金。 該公司通常被稱為ShareChat，其首席財務官Manohar Charan本週在接受採訪時表示，自2026年4月起運營的第一個季度以來，公司已實現盈利。“我們的單位經濟現在已轉為正向，”他說道，“我們將在未來四到五個季度內完成上市。” 此次IPO計劃尚未最終確定，可能會有所調整。"
-    },
-    {
-      "id": "4966132",
-      "time": "2026-07-02 08:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雷曼光電與南方科技大學奈米科學與應用研究院達成戰略合作】據雷曼光電訊息，7月1日，雷曼光電與南方科技大學奈米科學與應用研究院簽署《產學研戰略合作框架協議》。雙方約定將致力於構建產學研深度融合的創新體系，力爭在TGV玻璃基Micro LED、量子點顯示、基於Micro LED的CPO光通訊等領域實現技術突破，提升自主創新能力與產業核心競爭力。雙方同時還商定將定期徵集並確定聯合研發課題，共同投入研發人員、實驗平臺及相關資源，推動技術成果的中試與產業化落地。"
-    },
-    {
-      "id": "4966131",
-      "time": "2026-07-02 08:55:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融捷股份：南沙正極材料專案尚未投產】就“公司的磷酸鐵鋰正極材料是否已經量產”問題，融捷股份(002192)7月2日在互動平臺回覆稱，公司南沙正極材料專案目前尚未投產。"
     }
   ]
 }

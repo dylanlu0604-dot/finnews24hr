@@ -1,7 +1,73 @@
 {
   "date": "2026-07-09",
-  "count": 924,
+  "count": 931,
   "items": [
+    {
+      "id": "4977831",
+      "time": "2026-07-09 08:58:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金財富期貨：真正壓制黃金的是流動性而非油價】油價上行對黃金形成一定壓制，但是目前金價對原油上漲逐漸脫敏，核心在於沃什想盡一切辦法降息的意圖被越來越多的投資者發現。真正壓制黃金的是流動性而非油價。我們仍認為這種背景下，黃金具備一定的反彈動能。"
+    },
+    {
+      "id": "4977830",
+      "time": "2026-07-09 08:57:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團高管將訪問美國，參加SK海力士在納斯達克的上市首秀。"
+    },
+    {
+      "id": "4977829",
+      "time": "2026-07-09 08:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Hy3呼叫激增，WorkBuddy：已緊急擴容】據騰訊混元訊息，Hy3在WorkBuddy首發上線以來，受到了使用者們的廣泛支援。7月8日上午10時開始，算力資源消耗達到峰值，並出現排隊情況，下午排隊率一度超過50%。為了提供更好的Hy3使用體驗和穩定服務，團隊第一時間排程可用資源進行補充，目前已擴容完畢。"
+    },
+    {
+      "id": "4977828",
+      "time": "2026-07-09 08:55:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華燦光電：目前公司與康寧沒有直接的合作關係】華燦光電7月9日在互動平臺表示，目前公司與康寧沒有直接的合作關係。"
+    },
+    {
+      "id": "mkt:019f445e-fa75-7aab-8d02-49a60bab0a07",
+      "time": "2026-07-09 08:55:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Mehr news agency reported a powerful explosion rocked the U.S. Fifth Fleet in Bahrain."
+    },
+    {
+      "id": "4977827",
+      "time": "2026-07-09 08:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴林境內美國第五艦隊總部發生劇烈爆炸。"
+    },
+    {
+      "id": "te:markets:565441",
+      "time": "2026-07-09 08:54:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index jumped 2% to above 68,000 while the broader Topix Index gained 0.4% to 4,022 on Thursday, as Japanese equities snapped a two-day losing streak on the back of a rebound in technology stocks. Domestic shares also took cues from gains in US chipmakers and memory-related stocks overnight. Market sentiment was further supported by reports that South Korean chipmaker SK Hynix’s US listing was more than seven times oversubscribed, highlighting strong investor demand for artificial intelligence infrastructure. Meanwhile, US private equity firm Bain Capital sold its entire stake in Japanese flash memory producer Kioxia Holdings, although the company’s shares surged more than 7% during the session. Among other major technology gainers, Murata Manufacturing climbed 4%, Advantest advanced 6.9%, Tokyo Electron rose 4%, and Fujikura gained 5.1%."
+    },
     {
       "id": "mkt:019f445e-7535-7aab-8d02-4060f3064546",
       "time": "2026-07-09 08:54:28",
