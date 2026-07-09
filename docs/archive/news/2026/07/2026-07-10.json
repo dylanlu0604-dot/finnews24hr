@@ -1,7 +1,17 @@
 {
   "date": "2026-07-10",
-  "count": 246,
+  "count": 247,
   "items": [
+    {
+      "id": "mkt:019f4852-fbdf-7aab-8d20-9ae9212a808e",
+      "time": "2026-07-10 03:20:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ICI: U.S. money market fund assets rose to $7.953 trillion, a record high."
+    },
     {
       "id": "4979691",
       "time": "2026-07-10 03:19:33",
