@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-10 00:56:04",
-  "count": 15883,
+  "updated": "2026-07-10 01:00:10",
+  "count": 15877,
   "items": [
+    {
+      "id": "4979589",
+      "time": "2026-07-10 00:57:13",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI CEO稱在與美國政府磋商期間對最新模型作出“許多調整”】OpenAI執行長Sam Altman表示，在推進向公眾釋出其最新人工智慧模型之前，該公司在與特朗普政府進行磋商期間作出“許多調整”。Altman週四接受採訪時表示，在GPT-5.6全面釋出前數週，OpenAI與美國高階官員進行了“合作性的反覆溝通”，其中包括美國商務部長霍華德·盧特尼克和財政部長斯科特·貝森特。在特朗普政府要求分階段釋出後，GPT-5.6最初僅向部分合作伙伴開放。在OpenAI表示獲得美國政府領導層批准後，GPT-5.6定於週四向公眾開放。Altman未透露OpenAI在過程中作出了哪些調整，但表示美國政府在測試新模型並尋找潛在問題。“我認為只要這個過程是可以理解的、公平的、快速的，那就很好，”他說。“政府似乎真的認同這些目標。我估計下次推出新模型時，整個過程會順暢得多。我們已經理解這一流程，也知道如何更好地配合。”"
+    },
     {
       "id": "mkt:019f47cd-f317-7aab-8d1e-3625b45cc2c0",
       "time": "2026-07-10 00:55:07",
@@ -145094,69 +145104,6 @@
         "MKT News"
       ],
       "text": "Israel defense minister Katz said in an assessment today that the IDF has destroyed about 83% of Hamas’s tunnel network within Gaza Strip areas under IDF control."
-    },
-    {
-      "id": "4968137",
-      "time": "2026-07-03 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.22%，滬銅收漲0.12%，滬鋁收漲0.09%，滬鋅收跌0.43%，滬鉛收漲0.19%，滬鎳收跌0.62%，滬錫收跌0.85%。氧化鋁夜盤收跌1.73%，鋁合金收漲0.67%。不鏽鋼夜盤收跌0.31%。"
-    },
-    {
-      "id": "4968136",
-      "time": "2026-07-03 00:59:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長伊斯雷爾・卡茨稱，今日一份評估簡報告知他，以軍已摧毀加沙地帶由以色列國防軍控制區域內 83% 的哈馬斯隧道。"
-    },
-    {
-      "id": "mkt:019f23c5-6ac8-7aab-8c81-51276eb40af0",
-      "time": "2026-07-03 00:59:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Israeli media reported the earlier air-raid alert was a false alarm, triggered after Israeli forces opened fire."
-    },
-    {
-      "id": "te:markets:563863",
-      "time": "2026-07-03 00:58:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Nasdaq Sinks, Dow Rises to Record High — Different sectors of the US stock market diverged on Thursday as fresh selling for the heavyweight tech sector weighed against support from short-dated rates. The S&P 500 dropped 0.4% and the Nasdaq 100 slipped more than 2%. Stocks in the AI trade tanked as markets continued to gauge for signs that the sector is overbought. The latest catalysts included reports that OpenAI started discussions about selling a 5% stake to the US government. Also, Meta (-5%) announced it may start selling excess compute capacity, a sign that its capital expenditures were overdone. Micron lost 7%, Marvell and Applied Materials dropped 10%, and Sandisk sank 13%. Tesla fell 8% despite a strong deliveries report. Still, the Dow rose 300 points to another record high amid strength on traditional sectors. Yields pulled back on a soft jobs report, pushing back expectations of a Fed hike. Apple gained 5%, while Visa and Walmart rose over 2%."
-    },
-    {
-      "id": "4968135",
-      "time": "2026-07-03 00:58:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌幅擴大至0.5%。"
-    },
-    {
-      "id": "4968134",
-      "time": "2026-07-03 00:57:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受熱帶低壓影響 海南多地釋出停課通知】7月2日晚，受熱帶低壓影響，海南省萬寧市、陵水黎族自治縣、三亞市和瓊海市教育局相繼釋出停課通知。其中，萬寧全市幼兒園將於7月3日停課1天，7月3日下午全市中小學校、校外培訓機構停課半天（含晚修）。陵水黎族自治縣各幼兒園將於7月3日停課，暫停線下教學及各類集體活動，復課時間另行通知。三亞全市幼兒園、托育機構從7月3日開始停課。復課時間另行通知。瓊海全市幼兒園7月3日停課一天，復課時間另行通知。"
-    },
-    {
-      "id": "4968133",
-      "time": "2026-07-03 00:56:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列當地訊息：以軍開火後，防空警報隨即響起。"
     }
   ]
 }
