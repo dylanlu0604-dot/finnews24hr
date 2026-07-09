@@ -1,7 +1,83 @@
 {
   "date": "2026-07-09",
-  "count": 3300,
+  "count": 3308,
   "items": [
+    {
+      "id": "mkt:019f4788-37cb-7aab-8d1d-3cfd4b92de1c",
+      "time": "2026-07-09 23:38:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Prime Minister Netanyahu said preemptive strikes against the enemy are unavoidable during the confrontation; Israel has carried out such strikes and will continue to do so."
+    },
+    {
+      "id": "4979538",
+      "time": "2026-07-09 23:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "玻利維亞能源部長：巴西國家石油公司有意合作推進油田重組工作。下週將成立工作組研究巴西石油公司重新進入玻利維亞的事宜。"
+    },
+    {
+      "id": "mkt:019f4787-f92b-7aab-8d1d-3521f177d23a",
+      "time": "2026-07-09 23:38:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolivia's energy minister said a working group will be set up next week to study the re-entry of a Brazilian oil company into Bolivia."
+    },
+    {
+      "id": "4979537",
+      "time": "2026-07-09 23:38:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：我們計劃將對美國以外地區的出口規模擴大一倍，目前該目標推進順利。我國就業崗位增速達到美國的兩倍。"
+    },
+    {
+      "id": "4979536",
+      "time": "2026-07-09 23:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克與土耳其輸油管道協議進入最終敲定階段。"
+    },
+    {
+      "id": "mkt:019f4786-c21b-7aab-8d1d-29da6027fc6f",
+      "time": "2026-07-09 23:37:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【OpenAI says it adjusted GPT-5.6 after consultations with Trump administration】OpenAI CEO Sam Altman said the company made several adjustments to GPT-5.6 following collaborative, two-way consultations with senior Trump administration officials. In the weeks before a full release Altman said OpenAI engaged with Commerce Secretary Lutnick and Treasury Secretary Bessent. Under government pressure to stage the rollout, the model was initially available only to select partners; after OpenAI said it had secured sign-off from US government leadership, GPT-5.6 was scheduled to open to the public on Thursday. Altman declined to detail the specific adjustments, saying government teams are testing the model for potential issues and that a transparent, fair and rapid process is preferable; he added OpenAI now better understands the process and expects future model rollouts to run more smoothly."
+    },
+    {
+      "id": "mkt:019f4786-8d96-7aab-8d1d-275668dc6ad4",
+      "time": "2026-07-09 23:37:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities on July 9: Germany’s DAX +238.80 pts (+0.96%) to 25,104.47; France’s CAC 40 +73.96 pts (+0.90%) to 8,326.62; Euro Stoxx 50 +73.55 pts (+1.19%) to 6,278.46; Spain’s IBEX 35 +263.43 pts (+1.38%) to 19,312.73; Italy’s FTSE MIB +536.25 pts (+1.03%) to 52,353.50; Britain’s FTSE 100 -17.52 pts (-0.17%) to 10,471.52."
+    },
+    {
+      "id": "4979535",
+      "time": "2026-07-09 23:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏兩地升級釋出暴雨紅色預警】寧夏吳忠市同心縣氣象臺7月9日22時55分升級暴雨藍色為暴雨紅色預警訊號：預計未來3小時，同心縣河西鎮累計降水量將達到70毫米以上，請相關部門和廣大群眾注意預防。寧夏中衛市沙坡頭區氣象臺7月9日23時14分升級暴雨黃色為紅色預警訊號：預計未來3小時內，沙坡頭區迎水橋鎮降雨量將達70毫米以上，請相關部門和廣大群眾注意預防。"
+    },
     {
       "id": "4979534",
       "time": "2026-07-09 23:34:18",
