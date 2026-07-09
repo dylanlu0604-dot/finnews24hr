@@ -1,7 +1,32 @@
 {
   "date": "2026-07-10",
-  "count": 400,
+  "count": 403,
   "items": [
+    {
+      "id": "4979800",
+      "time": "2026-07-10 06:24:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經股指期貨<NKC1>當前報價為69080點，而現貨收盤價為67743點。"
+    },
+    {
+      "id": "mkt:019f48fb-6ad8-7aab-8d21-ff7af7934758",
+      "time": "2026-07-10 06:24:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Mashhad kills two; motive, victims unknown】Iranian sources reported early on the 10th that a shooting in the northeastern holy city of Mashhad killed two people. An Iranian official said the shooting occurred in western Mashhad; the motive and the victims' identities remain unknown. The incident follows a burial ceremony for the late supreme leader Khamenei in Mashhad on the 9th."
+    },
+    {
+      "id": "4979799",
+      "time": "2026-07-10 06:24:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK海力士公司：對其首次公開發行1.779億股美國存托股份進行定價。"
+    },
     {
       "id": "4979798",
       "time": "2026-07-10 06:20:28",
