@@ -1,7 +1,144 @@
 {
   "date": "2026-07-09",
-  "count": 1137,
+  "count": 1152,
   "items": [
+    {
+      "id": "4977957",
+      "time": "2026-07-09 09:47:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽騰股份成立精密製造公司，含半導體器件業務】企查查APP顯示，近日，蘇州坤曜精密製造有限公司成立，經營範圍包含：半導體器件專用裝置製造；半導體器件專用裝置銷售；電子元器件批發；電子元器件製造；半導體分立器件製造等。企查查股權穿透顯示，該公司由賽騰股份全資持股。"
+    },
+    {
+      "id": "mkt:019f448e-9d58-7aab-8d04-f6c5d2cc422c",
+      "time": "2026-07-09 09:47:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share battery sector slipped intraday; Longpan Technology hit the daily down limit, while Tianhua New Energy, Dexin Technology, Tinci Materials, Xiongtai and Shanshan fell in follow-through."
+    },
+    {
+      "id": "4977956",
+      "time": "2026-07-09 09:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI應用端異動拉昇 歡瑞世紀6天3板】早盤AI應用端異動拉昇，歡瑞世紀6天3板，海天瑞聲、華凱易佰、福石控股、賽意資訊、中文線上跟漲。"
+    },
+    {
+      "id": "4977955",
+      "time": "2026-07-09 09:46:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體矽片概念走強 神工股份、有研矽均漲超12%】半導體矽片概念走強，神工股份、有研矽均漲超12%，滬矽產業、立昂微、西安奕材、TCL中環跟漲。"
+    },
+    {
+      "id": "mkt:019f448d-cd91-7aab-8d04-e92ef83d0b26",
+      "time": "2026-07-09 09:46:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-shares storage-chip sector surged. Tianshan Electronics hit a 20% limit-up; Zhongjing Electronics earlier reached a limit-up. Puran, Youyan Silicon, Hengkun New Materials, Shangluo Electronics, Shengong and Shanghai Sinyang all gained over 10%."
+    },
+    {
+      "id": "4977954",
+      "time": "2026-07-09 09:46:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊短線走低，龍蟠科技跌停】電池板塊短線走低，龍蟠科技跌停，天華新能、德新科技、天賜材料、雄韜股份、杉杉股份等跟跌。"
+    },
+    {
+      "id": "4977953",
+      "time": "2026-07-09 09:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局啟動重大氣象災害Ⅱ級應急響應】颱風“巴威”逐漸向臺灣東北部沿海靠近，受“巴威”登陸及遠距離水汽輸送影響，10日起，我國華東、華中、華北、東北地區將有大範圍強風雨過程，中央氣象臺於9日6時繼續釋出颱風藍色、暴雨黃色和強對流天氣黃色預警。經綜合研判和應急會商，中國氣象局啟動重大氣象災害（颱風、暴雨、強對流）Ⅱ級應急響應。"
+    },
+    {
+      "id": "4977952",
+      "time": "2026-07-09 09:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股晶片板塊盤初走高，兆易創新漲超13%】港股晶片板塊盤初走高，兆易創新漲超13%，瀾起科技漲超8%，天數智芯、納芯微、基本半導體跟漲。"
+    },
+    {
+      "id": "4977951",
+      "time": "2026-07-09 09:45:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【林業概念震盪反彈，豐林集團漲停】林業概念震盪反彈，豐林集團漲停，青山紙業、康欣新材、平潭發展、交投生態、林海股份等跟漲。"
+    },
+    {
+      "id": "mkt:019f448c-9d59-7aab-8d04-e38d75a3320a",
+      "time": "2026-07-09 09:44:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share storage chip sector strengthened; Guolian An Kechuang LOF rose more than 5%."
+    },
+    {
+      "id": "4977950",
+      "time": "2026-07-09 09:44:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊震盪反彈，歡瑞世紀觸及漲停】影視院線板塊震盪反彈，歡瑞世紀觸及漲停，幸福藍海、金逸影視、奧飛娛樂、華智數媒、中國電影、華策影視等跟漲。"
+    },
+    {
+      "id": "mkt:019f448c-1d24-7aab-8d04-de4f6a7a5549",
+      "time": "2026-07-09 09:44:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02797.HK",
+        "Impact bullish"
+      ],
+      "text": "Qi Yunshan Food (02797.HK) surged more than 150% on its first trading day, topping HK$20 after an IPO price of HK$8 per share."
+    },
+    {
+      "id": "4977949",
+      "time": "2026-07-09 09:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫩江支流洮兒河發生2026年第1號洪水】從水利部瞭解到，受近期降雨影響，嫩江支流洮兒河察爾森水庫今天（9日）8時入庫流量漲至594立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“洮兒河2026年第1號洪水”。（央視新聞）"
+    },
+    {
+      "id": "4977948",
+      "time": "2026-07-09 09:43:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念持續走強，山東玻纖漲停】玻纖概念持續走強，山東玻纖漲停，卓郎智慧、國際復材、金安國紀、長海股份、中國巨石、宏和科技等跟漲。"
+    },
     {
       "id": "4977947",
       "time": "2026-07-09 09:43:31",
@@ -116,6 +253,15 @@
         "其他"
       ],
       "text": "【科創50指數漲幅擴大至2%】科創50指數漲幅擴大至2%，現報2056.64點。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607093799390113",
+      "time": "2026-07-09 09:40:40",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【前日本央行官員稱本輪加息週期政策利率或升至2%以上】7月9日，據報道，一位前日本央行官員表示，隨著日本央行加緊應對通脹壓力，該行可能在今年晚些時候加快加息步伐，並最終將基準利率提高至2%以上。"
     },
     {
       "id": "mkt:019f4488-be3e-7aab-8d04-a9f99b008fdd",
