@@ -1,7 +1,60 @@
 {
   "date": "2026-07-09",
-  "count": 974,
+  "count": 981,
   "items": [
+    {
+      "id": "mkt:019f446d-57b3-7aab-8d02-b4a71c4308c7",
+      "time": "2026-07-09 09:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's 40-year bond yield rose 4.5 bps to 4.050%."
+    },
+    {
+      "id": "4977868",
+      "time": "2026-07-09 09:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【隆基綠能21GW ACM電池專案規模化投產】近日，隆基綠能ACM（奈米合金矩陣式接觸）電池21GW專案在西鹹生產基地正式投產，成為隆基新型電池技術規模化落地的關鍵里程碑。在效能表現上，經德國哈梅林太陽能研究所認證，隆基ACM電池效率達到27.6%；經TÜV萊茵認證，ACM元件功率達到672瓦。量產匯入資料顯示，ACM技術使量產轉換效率提升0.2%—0.3%，元件功率提升3—5瓦，已完成吉瓦級標杆性量產匯入，在穩定性與可靠性上均實現行業領先。"
+    },
+    {
+      "id": "mkt:019f446b-08f1-7aab-8d02-aa5ebecd5142",
+      "time": "2026-07-09 09:08:13",
+      "tags": [
+        "MKT News",
+        "NEM.O",
+        "Impact bullish",
+        "CMM.AX"
+      ],
+      "text": "【UBS: Australian gold miners' production strong but cost concerns persist】UBS said recent updates from Australian gold miners focused on FY2026 production and cash performance and were broadly ahead of its expectations. The bank said it has yet to see FY2027 guidance and, given high input prices, the Middle East conflict and persistent industry inflation, market cost expectations remain too low. UBS expects FY2027 industry all-in sustaining costs (AISC) to rise about A$150/oz and said cost inflation will be a key theme in upcoming annual guidance. UBS continues to favour Newmont and Capricorn Metals for high-quality, defensive exposure and stronger margins."
+    },
+    {
+      "id": "4977867",
+      "time": "2026-07-09 09:07:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【鑑於通脹上升經濟加速 韓國央行認為有必要加息】韓國央行重申，政策利率需要在適當的時候上調。這進一步強化了其鷹派立場，而就在一週後，政策制定者將開會決定是否恢復緊縮政策。週四提交給國會的報告顯示，韓國央行表示這一轉變反映出，經濟增長增強、通脹高於目標水平以及金融穩定風險不斷上升，這些因素越來越不利於維持借貸成本不變。該報告呼應了央行自5月份以來的鷹派轉變。當時，央行將2026年經濟增長預期上調至2.6%，並暗示通脹、增長、匯率和金融失衡等因素正日益指向同一政策方向。市場普遍預期韓國央行將在7月16日的會議上將基準利率上調至2.75%。"
+    },
+    {
+      "id": "4977866",
+      "time": "2026-07-09 09:07:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報2367.50點。"
+    },
+    {
+      "id": "4977865",
+      "time": "2026-07-09 09:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【明起颱風“巴威”攜強風雨來襲 臺灣福建等地將現大暴雨】今天（7月9日）中東部降雨將有所減弱，但遼寧、河北、山東等地局地有大暴雨。明天起，隨著今年第9號颱風“巴威”靠近，東南沿海風雨逐漸增強，臺灣將率先遭遇強降雨，隨後波及福建、浙江等地。同時，中東部高溫範圍將逐步擴大，明天從河北中南部到重慶、廣東等地將有大範圍高溫。"
+    },
     {
       "id": "4977864",
       "time": "2026-07-09 09:06:15",
@@ -81,6 +134,14 @@
         "焦點"
       ],
       "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2390.50點。"
+    },
+    {
+      "id": "4977857",
+      "time": "2026-07-09 09:04:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國馬里蘭州發生嚴重車禍 已致33人受傷】當地時間7月8日，美國馬里蘭州巴爾的摩縣消防部門表示，該縣派克斯維爾地區發生一起嚴重交通事故。一輛公交車與12輛汽車相撞，並撞及建築物，已造成33人受傷，目前所有傷者已被送往醫院。官方稱，事故涉及一輛馬里蘭州交通管理局公交車和多輛汽車。由於傷者較多，當局宣佈這是一起大規模傷亡事件，並調派15輛救護車、醫療救援直升機以及“休克創傷急救小組”趕赴現場。來自周邊縣的醫療救護巴士也參與救援。"
     },
     {
       "id": "4977856",

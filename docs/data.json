@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-09 09:07:38",
+  "updated": "2026-07-09 09:11:33",
   "count": 16184,
   "items": [
+    {
+      "id": "mkt:019f446d-57b3-7aab-8d02-b4a71c4308c7",
+      "time": "2026-07-09 09:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's 40-year bond yield rose 4.5 bps to 4.050%."
+    },
+    {
+      "id": "4977868",
+      "time": "2026-07-09 09:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【隆基綠能21GW ACM電池專案規模化投產】近日，隆基綠能ACM（奈米合金矩陣式接觸）電池21GW專案在西鹹生產基地正式投產，成為隆基新型電池技術規模化落地的關鍵里程碑。在效能表現上，經德國哈梅林太陽能研究所認證，隆基ACM電池效率達到27.6%；經TÜV萊茵認證，ACM元件功率達到672瓦。量產匯入資料顯示，ACM技術使量產轉換效率提升0.2%—0.3%，元件功率提升3—5瓦，已完成吉瓦級標杆性量產匯入，在穩定性與可靠性上均實現行業領先。"
+    },
+    {
+      "id": "mkt:019f446b-08f1-7aab-8d02-aa5ebecd5142",
+      "time": "2026-07-09 09:08:13",
+      "tags": [
+        "MKT News",
+        "NEM.O",
+        "Impact bullish",
+        "CMM.AX"
+      ],
+      "text": "【UBS: Australian gold miners' production strong but cost concerns persist】UBS said recent updates from Australian gold miners focused on FY2026 production and cash performance and were broadly ahead of its expectations. The bank said it has yet to see FY2027 guidance and, given high input prices, the Middle East conflict and persistent industry inflation, market cost expectations remain too low. UBS expects FY2027 industry all-in sustaining costs (AISC) to rise about A$150/oz and said cost inflation will be a key theme in upcoming annual guidance. UBS continues to favour Newmont and Capricorn Metals for high-quality, defensive exposure and stronger margins."
+    },
+    {
+      "id": "4977867",
+      "time": "2026-07-09 09:07:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【鑑於通脹上升經濟加速 韓國央行認為有必要加息】韓國央行重申，政策利率需要在適當的時候上調。這進一步強化了其鷹派立場，而就在一週後，政策制定者將開會決定是否恢復緊縮政策。週四提交給國會的報告顯示，韓國央行表示這一轉變反映出，經濟增長增強、通脹高於目標水平以及金融穩定風險不斷上升，這些因素越來越不利於維持借貸成本不變。該報告呼應了央行自5月份以來的鷹派轉變。當時，央行將2026年經濟增長預期上調至2.6%，並暗示通脹、增長、匯率和金融失衡等因素正日益指向同一政策方向。市場普遍預期韓國央行將在7月16日的會議上將基準利率上調至2.75%。"
+    },
+    {
+      "id": "4977866",
+      "time": "2026-07-09 09:07:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報2367.50點。"
+    },
+    {
+      "id": "4977865",
+      "time": "2026-07-09 09:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【明起颱風“巴威”攜強風雨來襲 臺灣福建等地將現大暴雨】今天（7月9日）中東部降雨將有所減弱，但遼寧、河北、山東等地局地有大暴雨。明天起，隨著今年第9號颱風“巴威”靠近，東南沿海風雨逐漸增強，臺灣將率先遭遇強降雨，隨後波及福建、浙江等地。同時，中東部高溫範圍將逐步擴大，明天從河北中南部到重慶、廣東等地將有大範圍高溫。"
+    },
     {
       "id": "4977864",
       "time": "2026-07-09 09:06:15",
@@ -81,6 +134,14 @@
         "焦點"
       ],
       "text": "集運指數歐線期貨連續主力合約日內跌6%，現報2390.50點。"
+    },
+    {
+      "id": "4977857",
+      "time": "2026-07-09 09:04:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國馬里蘭州發生嚴重車禍 已致33人受傷】當地時間7月8日，美國馬里蘭州巴爾的摩縣消防部門表示，該縣派克斯維爾地區發生一起嚴重交通事故。一輛公交車與12輛汽車相撞，並撞及建築物，已造成33人受傷，目前所有傷者已被送往醫院。官方稱，事故涉及一輛馬里蘭州交通管理局公交車和多輛汽車。由於傷者較多，當局宣佈這是一起大規模傷亡事件，並調派15輛救護車、醫療救援直升機以及“休克創傷急救小組”趕赴現場。來自周邊縣的醫療救護巴士也參與救援。"
     },
     {
       "id": "4977856",
@@ -147925,67 +147986,6 @@
         "焦點"
       ],
       "text": "雞蛋連續主力合約日內漲2%，現報4556.00元。"
-    },
-    {
-      "id": "4966165",
-      "time": "2026-07-02 09:10:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新宙邦：透過投資石磊氟材料和永晶科技佈局氫氟酸】新宙邦(300037)7月2日在互動平臺表示，公司透過戰略投資江西石磊氟材料有限責任公司（持股42.83%）和福建永晶科技股份有限公司（持股24.03%）完成對氫氟酸的佈局，石磊氟材料、福建永晶目前氫氟酸產能分別為5萬噸、6萬噸左右，其產品定價隨行就市。"
-    },
-    {
-      "id": "4966164",
-      "time": "2026-07-02 09:10:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【七匹狼在包頭成立房產運營服務公司】企查查APP顯示，近日，包頭尚盈房產運營服務有限公司成立，經營範圍包含住房租賃；非居住房地產租賃。企查查股權穿透顯示，該公司由七匹狼全資持股。"
-    },
-    {
-      "id": "4966163",
-      "time": "2026-07-02 09:10:17",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家養老服務消費補貼上線京東】7月1日起，國家養老服務消費補貼上線京東，全國電商首單在北京落地。在京東App搜尋“養老補貼”，符合條件的老年人，下單養老助浴、助潔、陪診、康復理療、短時照護等高頻居家養老服務，支付立減50%。該項補貼由民政部、財政部推行，面向中度及以上失能老人，針對居家養老、機構養老、喘息服務、日託服務等進行補貼。此次上線京東的為居家養老服務，補貼可抵扣服務金額的50%，每人每月最高800元。"
-    },
-    {
-      "id": "4966162",
-      "time": "2026-07-02 09:09:37",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲股市遭遇十六年來最大半年外資流出】在人工智慧（AI）推動股市強勁上漲後，外國投資者在2026年上半年以至少16年來最快速度拋售亞洲股票。倫敦證券交易所集團（LSEG）的資料顯示，今年前六個月，海外投資者從韓國、中國臺灣、印度、印尼、泰國、越南和菲律賓股市累計淨流出1373.6億美元，為2010年有記錄以來最大規模的半年度資金流出。其中韓國和中國臺灣首當其衝，分別遭遇708億美元和296億美元外資淨流出。"
-    },
-    {
-      "id": "4966161",
-      "time": "2026-07-02 09:09:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【7月4日美國獨立日假期美股市場何時休市？】今年，美國獨立日恰逢週六。美國股票和債券市場將於週五休市。債券市場也將於週四提前休市。具體來看，週五美股因美國獨⽴紀念⽇假期休市一日。芝商所旗下貴金屬、美國原油、外匯、股指期貨合約交易提前於北京時間4日01:00結束。洲際交易所旗下布倫特原油期貨合約交易提前於北京時間04日01:30結束。"
-    },
-    {
-      "id": "mkt:019f205e-b8f5-7aab-8c68-90cac88c7498",
-      "time": "2026-07-02 09:08:26",
-      "tags": [
-        "MKT News",
-        "JD.O",
-        "Impact bullish"
-      ],
-      "text": "【China’s national elderly-care subsidy goes live on JD; 50% off home-care services, 800 yuan/mo cap】From July 1 China’s national elderly-care consumption subsidy is available on JD.com, with the first e-commerce redemption executed in Beijing. The Ministry of Civil Affairs and Ministry of Finance will subsidize services for moderately disabled and more severely disabled elderly across home care, institutional care, respite and day-care; the JD rollout covers home-care services. Eligible seniors on the JD app receive a 50% reduction on purchases of high-frequency in-home services — assisted bathing, domestic help, hospital escort, rehab/physiotherapy and short-term care — with a maximum subsidy of 800 yuan per person per month."
-    },
-    {
-      "id": "4966160",
-      "time": "2026-07-02 09:08:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【隨著霍爾木茲海峽供應量增加，瑞銀下調油價預期】途經霍爾木茲海峽的能源運輸量不斷增加，促使瑞銀下調其2026-2027年油價預期。瑞銀目前預計，今年布倫特原油均價為每桶84美元，較早前預期下調每桶9美元。該行還將2027年油價預期從每桶85美元下調至75美元。瑞銀表示：“地緣政治風險降低以及供應量的快速反彈，導致價格下跌幅度超出我們的預期。“該行預計，隨著海灣地區的浮動儲備恢復正常且需求回升，今年下半年油價將小幅反彈至每桶80美元。瑞銀還認為風險溢價會更高，因為恢復正常的道路可能依然崎嶇。瑞銀表示：“補充庫存的需求應會在到2027年底前繼續支撐價格，但所需的庫存重建規模小於我們此前預期的10億桶。”"
     }
   ]
 }
