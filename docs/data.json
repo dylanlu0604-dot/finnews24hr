@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-10 01:07:58",
-  "count": 15879,
+  "updated": "2026-07-10 01:11:48",
+  "count": 15884,
   "items": [
+    {
+      "id": "mkt:019f47db-fef0-7aab-8d1e-99ac2106918b",
+      "time": "2026-07-10 01:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy said the issue of Patriot missile licenses has been resolved at the political level and follow-up negotiations will continue."
+    },
+    {
+      "id": "4979605",
+      "time": "2026-07-10 01:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署提議放寬重型車輛及發動機空氣汙染管控法規。"
+    },
+    {
+      "id": "4979604",
+      "time": "2026-07-10 01:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 愛國者防空系統授權相關問題已在政治層面達成解決，後續磋商仍將持續開展。"
+    },
+    {
+      "id": "4979603",
+      "time": "2026-07-10 01:08:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與美國總統特朗普詳細討論了愛國者導彈生產的許可證問題。烏克蘭將在未來幾天內從美國獲得PAC-3攔截器。"
+    },
+    {
+      "id": "mkt:019f47da-4ec0-7aab-8d1e-918290f244fe",
+      "time": "2026-07-10 01:08:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said Ukraine will receive PAC-3 interceptors from the United States within days."
+    },
+    {
+      "id": "mkt:019f47da-1444-7aab-8d1e-8947d6da326d",
+      "time": "2026-07-10 01:08:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he discussed licensing for Patriot missile production in detail with US President Trump."
+    },
+    {
+      "id": "mkt:019f47d9-badf-7aab-8d1e-8379ce923160",
+      "time": "2026-07-10 01:07:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "OpenAI has formally launched the GPT-5.6 series and opened the models for public use."
+    },
+    {
+      "id": "4979601",
+      "time": "2026-07-10 01:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6 分三款模型按百萬 token 計費定價， \nSOL：輸入 5 美元 / 百萬 token，輸出 30 美元 / 百萬 token；\n TERRA：輸入 2.5 美元 / 百萬 token，輸出 15 美元 / 百萬 token ；\nLUNA：輸入 1 美元 / 百萬 token，輸出 6 美元 / 百萬 token。"
+    },
     {
       "id": "4979600",
       "time": "2026-07-10 01:07:22",
@@ -145100,30 +145171,6 @@
         "MKT News"
       ],
       "text": "The US Department of Justice refused to recognize the International Criminal Court's jurisdiction over US citizens."
-    },
-    {
-      "id": "4968151",
-      "time": "2026-07-03 01:11:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗認為從當前價位來看，鋁並不具備吸引力的做空交易價值。"
-    },
-    {
-      "id": "4968150",
-      "time": "2026-07-03 01:10:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗認為，未來一個月鋁價將觸底，隨後在9月至12月期間回升至每噸3300至3500美元區間。"
-    },
-    {
-      "id": "4968149",
-      "time": "2026-07-03 01:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯大使表示，針對俄駐瑞典外交機構再次遭遇無人機襲擊一事，俄方已向瑞典外交部遞交照會。"
     }
   ]
 }
