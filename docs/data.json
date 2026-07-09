@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-10 05:33:58",
-  "count": 15893,
+  "updated": "2026-07-10 05:37:53",
+  "count": 15888,
   "items": [
+    {
+      "id": "4979776",
+      "time": "2026-07-10 05:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：美伊相關技術談判仍在繼續】總檯記者當地時間9日獲悉，一名美國官員表示，在伊朗問題上美國仍致力於尋求解決方案，相關技術談判仍在繼續。（央視新聞）"
+    },
+    {
+      "id": "4979775",
+      "time": "2026-07-10 05:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列向美方通報：伊朗策劃新一輪刺殺特朗普陰謀】知情人士透露，以色列已向美國提供最新情報，稱情報顯示伊朗策劃了新一輪刺殺特朗普總統的行動，此事意味著美伊雙方對抗進一步升級。特朗普首任總統任期內，美方擊殺伊朗伊斯蘭革命衛隊高階將領卡西姆・蘇萊曼尼，多年來伊朗一直公開宣稱要就此報復特朗普。以色列駐華盛頓大使館對此不予置評；伊朗常駐聯合國代表團暫未回應置評請求。白宮讓媒體參考總統週三發表的相關言論。"
+    },
+    {
+      "id": "mkt:019f48ce-d9af-7aab-8d21-c9b0b6e7addb",
+      "time": "2026-07-10 05:35:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Wall Street Journal, citing people familiar with the matter, reports Israel has provided the U.S. with new intelligence that Iran may be considering a new plot to assassinate Trump."
+    },
+    {
+      "id": "4979774",
+      "time": "2026-07-10 05:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列已向美國分享有關伊朗策劃刺殺特朗普的全新情報。"
+    },
     {
       "id": "mkt:019f48cb-5582-7aab-8d21-c0727b3d802f",
       "time": "2026-07-10 05:31:52",
@@ -145106,89 +145142,6 @@
         "國際"
       ],
       "text": "特朗普：我依舊會推行關稅政策，但如今的力度會更大。"
-    },
-    {
-      "id": "mkt:019f24c4-2396-7aab-8c84-ef671cb11f1f",
-      "time": "2026-07-03 05:37:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the housing bill contains many Democratic-leaning provisions and he is inclined not to sign it unless a voter ID requirement is added."
-    },
-    {
-      "id": "4968311",
-      "time": "2026-07-03 05:36:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空：美國航空執飛救援航班前往委內瑞拉加拉加斯。"
-    },
-    {
-      "id": "4968310",
-      "time": "2026-07-03 05:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及住房法案：這份法案本身沒什麼問題。這份住房法案裡有大量民主黨傾向的條款。 在選民身份核驗法案落地前，我寧願不簽署這份住房法案。"
-    },
-    {
-      "id": "mkt:019f24c2-7b86-7aab-8c84-e72ee977eadd",
-      "time": "2026-07-03 05:35:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US President Trump said artificial intelligence, whether good or bad, is already being used."
-    },
-    {
-      "id": "mkt:019f24c1-bdf4-7aab-8c84-dea1a89dcee4",
-      "time": "2026-07-03 05:35:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump on the housing bill: no problem."
-    },
-    {
-      "id": "mkt:019f24c1-1eed-7aab-8c84-d3046aba117a",
-      "time": "2026-07-03 05:34:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil edges higher on 2nd】As of the close, NYMEX August light sweet crude (WTI) rose $0.11 to $68.69/bbl, +0.16%; ICE September Brent gained $0.23 to $71.80/bbl, +0.32%."
-    },
-    {
-      "id": "4968309",
-      "time": "2026-07-03 05:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及住房法案：選民身份驗證法案才是重中之重。"
-    },
-    {
-      "id": "4968308",
-      "time": "2026-07-03 05:34:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及人工智慧監管約束：近期出現過存在安全隱患的相關案例。"
-    },
-    {
-      "id": "mkt:019f24c0-c353-7aab-8c84-ce7428bf24b8",
-      "time": "2026-07-03 05:34:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Trump to press on with effort to remove Federal Reserve governor Lisa Cook, says he'll 'win the case'】CNBC reports that despite a U.S. Supreme Court ruling the president currently lacks authority to remove Federal Reserve governor Lisa Cook, Trump said he will continue to seek her ouster from the Fed board. Asked how he would remove Cook, Trump said, By winning this case. He said the court remanded the matter on procedural grounds rather than the merits; the opinion left open the possibility Cook could be removed in future."
     }
   ]
 }
