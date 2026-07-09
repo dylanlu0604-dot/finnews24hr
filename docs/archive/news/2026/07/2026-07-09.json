@@ -1,7 +1,99 @@
 {
   "date": "2026-07-09",
-  "count": 2815,
+  "count": 2825,
   "items": [
+    {
+      "id": "mkt:019f46e8-f87e-7aab-8d17-18dffac9912a",
+      "time": "2026-07-09 20:45:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "European natural gas prices breached €50/MWh, reaching that level for the first time in nearly a month."
+    },
+    {
+      "id": "4979218",
+      "time": "2026-07-09 20:44:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST泉為：股票交易異常波動 重整受理存在不確定性】*ST泉為公告稱，公司股票2026年7月7日至7月9日收盤價跌幅偏離值累計超30%，屬異常波動。公司前期披露資訊無更正、補充之處，近期經營及內外部環境未變。公司處於預重整階段，後續將公告進展。公司及控股股東等不存在應披露未披露重大事項。此外，公司未收到重整正式受理文書，若受理，股票將被疊加實施退市風險警示。"
+    },
+    {
+      "id": "4979217",
+      "time": "2026-07-09 20:44:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲天然氣價格一個月來首次突破50歐元/兆瓦時。"
+    },
+    {
+      "id": "4979216",
+      "time": "2026-07-09 20:43:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“普洱茶第一股”瀾滄古茶自曝內控危機：前高管私挪千萬公款，庫存檔虧35噸茶葉】近日，港股“普洱茶第一股”瀾滄古茶連發兩條內幕訊息公告，披露了公司上市後爆發的一系列重大內控危機。兩名資深元老高管利用異地管理漏洞違規操作，致使上市公司捲入千萬元級民間借貸糾紛、3100萬元貿易擔保訴訟及大批茶葉庫存檔虧。系列重大治理漏洞引發港交所專項問詢，也讓市場對這家上市茶企的合規管控能力產生強烈質疑。7月9日，記者致電瀾滄古茶官方電話，對方稱公司內部正在整改，具體事宜尚不清楚。（紅星資本局）"
+    },
+    {
+      "id": "4979215",
+      "time": "2026-07-09 20:43:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤三九：獲國家科學技術進步獎二等獎】華潤三九(000999)7月9日公告，7月8日，2025年度國家科學技術獎勵大會在北京人民大會堂舉行。公司參與的《以功效物質為核心的中藥作用原理解析創新技術體系構建與應用》專案榮獲2025年度國家科學技術進步獎二等獎。"
+    },
+    {
+      "id": "4979214",
+      "time": "2026-07-09 20:43:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：卡達暫緩推進全球最大液化天然氣基地增產 基地運營將維持最低負荷】霍爾木茲海峽一艘卡達液化天然氣運輸船遇襲，市場擔憂這條關鍵航道通行風險居高不下，卡達已暫緩推進全球最大液化天然氣基地的快速增產工作。知情人士透露，週二運輸船遇襲事件發生後，卡達能源公司高管召開多場緊急會議，執行長薩阿德・卡比最終決定擱置拉斯拉凡工業綜合體的增產計劃。部分不願具名的知情人士稱，出於安全考量，該基地運營將維持最低負荷，未來數日安排停靠廠區的船舶數量也將縮減。相關資訊敏感度較高，知情人士因此要求匿名。本週霍爾木茲海峽附近多艘商船接連遇襲、美國連續兩日打擊伊朗，地區緊張局勢急劇升級，卡達此次暫停增產成為衝突發酵後最受市場關注的連鎖反應之一。特朗普總統週三甚至表態，不排除全面開戰的可能性；而對正逐步走出衝突衝擊的中東能源生產商而言，全面開戰是最壞局面。"
+    },
+    {
+      "id": "te:markets:565707",
+      "time": "2026-07-09 20:43:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Muted Amid Middle East Tensions — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors assessed the impact of renewed fighting in the Middle East on inflation. Oil prices remained firm after surging in the previous session, backing concerns energy-driven inflation and higher interest rates to pressure financial companies. Meanwhile, gold prices edged higher as the USD stabilized, lending support to mining stocks. Elsewhere, Triple Flag reported preliminary second-quarter revenue of $129.2 million, up from a year earlier. Firan Technology beat second-quarter revenue estimates. Meta announced plans to build its first Canadian data center in Alberta, highlighting continued investment in AI infrastructure. Investors now await Canada's June jobs report on Friday for further clues on the BoC's policy outlook. Markets widely expect the central bank to keep interest rates unchanged."
+    },
+    {
+      "id": "4979213",
+      "time": "2026-07-09 20:42:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家航司釋出受颱風“巴威”影響航線客票處置方案】記者7月9日從多家航空公司獲悉，為做好受颱風“巴威”影響航班的旅客服務，協助旅客更好地安排出行，國航、東航、南航等航空公司已釋出相關航線客票特殊處置方案。以國航為例，旅客在7月9日16時（含）前購買的，旅行日期為7月11日至12日的杭州、溫州、義烏、廈門、福州、泉州等機場進出港航線國航客票，可按特殊處置方案辦理免費變更或退票，具體規則以國航官網公告為準。根據氣象預報，今年第9號颱風“巴威”將於11日白天登陸或擦過臺灣島北部沿海，預計影響臺灣、福建、浙江等地航班執行。航空公司方面提醒相關旅客，密切留意天氣狀況和航班狀態，建議優先透過航空公司線上渠道辦理客票退改手續。（新華社）"
+    },
+    {
+      "id": "mkt:019f46e6-123e-7aab-8d17-103fd82e14f1",
+      "time": "2026-07-09 20:41:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Three Islamic Revolutionary Guard Corps (IRGC) members were killed in a U.S. military airstrike on Iran on Thursday, Iranian media outlet Mizan reported."
+    },
+    {
+      "id": "4979212",
+      "time": "2026-07-09 20:41:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊衝突加劇 週四霍爾木茲海峽僅三艘油輪通行】據報道援引船舶追蹤平臺 MarineTraffic，隨著美伊敵對態勢升級，週四僅有三艘燃油運輸船穿越霍爾木茲海峽。報道稱，其中兩艘油輪因涉嫌參與伊朗燃油運輸而遭到美國製裁；第三艘雖未被制裁，但其航行軌跡存在可疑跡象，疑似進行船對船燃油轉運作業。報道表示，兩艘離境油輪均行駛在伊朗劃定的北側航道；另有部分船隻或關閉船舶應答機，選擇阿曼沿岸南側航道航行。本週伊朗已對三艘取道該航線的船隻發動襲擊。"
+    },
     {
       "id": "mkt:019f46e5-4843-7aab-8d17-09adb1c8d65f",
       "time": "2026-07-09 20:40:59",
