@@ -1,7 +1,119 @@
 {
   "date": "2026-07-09",
-  "count": 1594,
+  "count": 1605,
   "items": [
+    {
+      "id": "mkt:019f456f-e7bd-7aab-8d0a-a46bd5a8b887",
+      "time": "2026-07-09 13:53:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "【China adds semaglutide for diabetes to 2026 essential medicines list, effective Sept. 1】On July 9 the National Health Commission and two other agencies published the 2026 National Essential Medicines List, effective Sept. 1. Semaglutide is included but restricted to diabetes treatment and does not cover weight‑loss indications. Novo Nordisk is currently the sole supplier in China; more than 10 domestic firms have filed marketing authorization applications for generic versions. Novo says the compound patent expired in China earlier this year but regulatory data exclusivity runs until Q2 next year, after which generics could legally enter the market."
+    },
+    {
+      "id": "4978265",
+      "time": "2026-07-09 13:53:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026版基本藥物目錄公佈：9月1日施行，降糖版司美格魯肽被納入】7月9日，國家衛生健康委等三部門釋出2026版《國家基本藥物目錄》，自9月1日起施行。司美格魯肽進入此次基本藥物目錄，但僅限於糖尿病治療，並不包括減重。目前，司美格魯肽僅有諾和諾德一家，但已經有超過10家本土藥企的仿製藥遞交上市申請。諾和諾德方面曾對外表示，雖然司美格魯肽的化合物專利確實已於今年年初在中國到期，但公司仍享有資料監管保護，使司美格魯肽的專利保護可持續到明年第二季度，屆時仿製藥才能合法進入市場。（澎湃）"
+    },
+    {
+      "id": "mkt:019f456f-7b85-7aab-8d0a-9dc2eca06e92",
+      "time": "2026-07-09 13:52:41",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Shenzhen Composite Index gained up to 2% intraday, Shanghai Composite rose 0.7%, ChiNext Index up 3.4%."
+    },
+    {
+      "id": "4978264",
+      "time": "2026-07-09 13:52:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4761.40點。"
+    },
+    {
+      "id": "4978263",
+      "time": "2026-07-09 13:52:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報15239.085點；上證指數漲0.70%，現報3998.605點；創業板指漲3.37%，現報3974.931點。"
+    },
+    {
+      "id": "mkt:019f456f-15e6-7aab-8d0a-937a5441f68b",
+      "time": "2026-07-09 13:52:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 (STAR 50) index rose over 6%; Semiconductor Manufacturing International Corp (SMIC) gained more than 10%."
+    },
+    {
+      "id": "4978262",
+      "time": "2026-07-09 13:51:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內漲2%，現報2925.60點。"
+    },
+    {
+      "id": "4978261",
+      "time": "2026-07-09 13:51:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達6％，成分股中，沐曦股份漲13.9％，摩爾執行緒漲11.7％，瀾起科技漲11.5％，滬矽產業漲10.6％。"
+    },
+    {
+      "id": "mkt:019f456e-5fef-7aab-8d0a-8e0889b9e7e0",
+      "time": "2026-07-09 13:51:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year bond yield fell 0.5 bps to 3.865%."
+    },
+    {
+      "id": "4978260",
+      "time": "2026-07-09 13:51:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額超300億元，現漲4.42%。"
+    },
+    {
+      "id": "mkt:019f456d-148f-7aab-8d0a-8771b22f9d69",
+      "time": "2026-07-09 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted May trade balance due in 10 minutes."
+    },
     {
       "id": "mkt:019f456c-01f1-7aab-8d0a-7c99f532c8b6",
       "time": "2026-07-09 13:48:53",

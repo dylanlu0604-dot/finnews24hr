@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-09 13:50:15",
-  "count": 16137,
+  "updated": "2026-07-09 13:54:18",
+  "count": 16139,
   "items": [
+    {
+      "id": "mkt:019f456f-e7bd-7aab-8d0a-a46bd5a8b887",
+      "time": "2026-07-09 13:53:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "【China adds semaglutide for diabetes to 2026 essential medicines list, effective Sept. 1】On July 9 the National Health Commission and two other agencies published the 2026 National Essential Medicines List, effective Sept. 1. Semaglutide is included but restricted to diabetes treatment and does not cover weight‑loss indications. Novo Nordisk is currently the sole supplier in China; more than 10 domestic firms have filed marketing authorization applications for generic versions. Novo says the compound patent expired in China earlier this year but regulatory data exclusivity runs until Q2 next year, after which generics could legally enter the market."
+    },
+    {
+      "id": "4978265",
+      "time": "2026-07-09 13:53:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026版基本藥物目錄公佈：9月1日施行，降糖版司美格魯肽被納入】7月9日，國家衛生健康委等三部門釋出2026版《國家基本藥物目錄》，自9月1日起施行。司美格魯肽進入此次基本藥物目錄，但僅限於糖尿病治療，並不包括減重。目前，司美格魯肽僅有諾和諾德一家，但已經有超過10家本土藥企的仿製藥遞交上市申請。諾和諾德方面曾對外表示，雖然司美格魯肽的化合物專利確實已於今年年初在中國到期，但公司仍享有資料監管保護，使司美格魯肽的專利保護可持續到明年第二季度，屆時仿製藥才能合法進入市場。（澎湃）"
+    },
+    {
+      "id": "mkt:019f456f-7b85-7aab-8d0a-9dc2eca06e92",
+      "time": "2026-07-09 13:52:41",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Shenzhen Composite Index gained up to 2% intraday, Shanghai Composite rose 0.7%, ChiNext Index up 3.4%."
+    },
+    {
+      "id": "4978264",
+      "time": "2026-07-09 13:52:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4761.40點。"
+    },
+    {
+      "id": "4978263",
+      "time": "2026-07-09 13:52:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報15239.085點；上證指數漲0.70%，現報3998.605點；創業板指漲3.37%，現報3974.931點。"
+    },
+    {
+      "id": "mkt:019f456f-15e6-7aab-8d0a-937a5441f68b",
+      "time": "2026-07-09 13:52:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 (STAR 50) index rose over 6%; Semiconductor Manufacturing International Corp (SMIC) gained more than 10%."
+    },
+    {
+      "id": "4978262",
+      "time": "2026-07-09 13:51:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內漲2%，現報2925.60點。"
+    },
+    {
+      "id": "4978261",
+      "time": "2026-07-09 13:51:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達6％，成分股中，沐曦股份漲13.9％，摩爾執行緒漲11.7％，瀾起科技漲11.5％，滬矽產業漲10.6％。"
+    },
+    {
+      "id": "mkt:019f456e-5fef-7aab-8d0a-8e0889b9e7e0",
+      "time": "2026-07-09 13:51:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year bond yield fell 0.5 bps to 3.865%."
+    },
+    {
+      "id": "4978260",
+      "time": "2026-07-09 13:51:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額超300億元，現漲4.42%。"
+    },
+    {
+      "id": "mkt:019f456d-148f-7aab-8d0a-8771b22f9d69",
+      "time": "2026-07-09 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted May trade balance due in 10 minutes."
+    },
     {
       "id": "mkt:019f456c-01f1-7aab-8d0a-7c99f532c8b6",
       "time": "2026-07-09 13:48:53",
@@ -147553,86 +147665,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將雀巢目標價從74瑞士法郎上調至76瑞士法郎。"
-    },
-    {
-      "id": "4966654",
-      "time": "2026-07-02 13:53:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【嘉士伯據悉已秘密提交印度子公司IPO申請，擬募資至多7億美元】7月2日，據報道，丹麥啤酒巨頭嘉士伯已為其印度業務秘密提交了首次公開募股（IPO）的草案檔案，計劃募資高達7億美元。據悉，本次上市預計將包含嘉士伯集團的二次股票發售，最快可能於今年晚些時候進行。"
-    },
-    {
-      "id": "mkt:019f2163-c5ca-7aab-8c6d-b37046625117",
-      "time": "2026-07-02 13:53:34",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【SFC: Hong Kong AUM up 20% y/y to record HKD 42.2 tln】SFC’s 2025 Asset and Wealth Management Activities Survey showed Hong Kong total AUM rose 20% y/y to a record HKD 42.2 tln (USD 5.4 tln), surpassing the 2021 peak of HKD 35.5 tln (USD 4.6 tln). Net inflows jumped 193% y/y to HKD 2.1 tln (USD 265 bln), the third consecutive year of inflow growth. Asset management and fund advisory AUM rose 19% y/y to HKD 31.0 tln (USD 4.0 tln); private banking and private wealth AUM increased 24% y/y to HKD 12.9 tln (USD 1.7 tln)."
-    },
-    {
-      "id": "4966653",
-      "time": "2026-07-02 13:53:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智度股份間接控股股東正在推進引入戰投 已有意向投資人】智度股份（000676.SZ）間接控股股東北京智度德正投資有限公司正在推進引入戰略投資人。意向產業投資人包括國資和非國資背景的。（澎湃新聞）"
-    },
-    {
-      "id": "4966652",
-      "time": "2026-07-02 13:52:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "嘉士伯據悉將提交印度IPO申請，擬籌集7億美元。"
-    },
-    {
-      "id": "mkt:019f2162-1258-7aab-8c6d-a9a06af55cc6",
-      "time": "2026-07-02 13:51:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "07747.HK",
-        "Impact bearish"
-      ],
-      "text": "In Hong Kong, Southern Asset Management’s 2x leveraged long position on Samsung Electronics (07747.HK) plunged more than 25% in afternoon trading."
-    },
-    {
-      "id": "4966651",
-      "time": "2026-07-02 13:51:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港證監會：香港管理資產總值同比升20%至歷史新高42.2萬億港元】香港證監會今天釋出《2025年資產及財富管理活動調查》，顯示香港作為領先的全球資產及財富管理樞紐於2025年表現出色，管理資產總值同比上升20%至42.2萬億港元（5.4萬億美元）的歷史高位。創紀錄的管理資產規模突破了2021年的35.5萬億港元（4.6萬億美元）高位，其中部分增長動力來自於淨資金流入，後者同比急漲193%至2.1萬億港元（2,650億美元），已連續第三年上升。在各大板塊中，資產管理及基金顧問業務的管理資產同比上升19%至31萬億港元（4萬億美元），而私人銀行及私人財富管理業務的管理資產更同比大升24%至12.9萬億港元（1.7萬億美元）。"
-    },
-    {
-      "id": "4966650",
-      "time": "2026-07-02 13:51:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度已確定未來幾個月內出售至多8家公司的股權。"
-    },
-    {
-      "id": "4966649",
-      "time": "2026-07-02 13:50:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度加快出售國有企業股份的計劃。"
-    },
-    {
-      "id": "4966648",
-      "time": "2026-07-02 13:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方兩倍做多海力士午後跌近24%。"
     }
   ]
 }
