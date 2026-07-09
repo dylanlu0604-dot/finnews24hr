@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-10 01:46:29",
-  "count": 15876,
+  "updated": "2026-07-10 01:50:17",
+  "count": 15878,
   "items": [
+    {
+      "id": "mkt:019f47ff-c873-7aab-8d1f-4282195d75b6",
+      "time": "2026-07-10 01:49:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【IAEA: Russia-Ukraine conflict continues to pose risks to nuclear plant safety】IAEA Director General Grossi said on the 9th that IAEA teams at Ukrainian nuclear power plants have repeatedly heard military activity recently, including drones and gunfire, but there are currently no reports of damage to the plants."
+    },
+    {
+      "id": "4979622",
+      "time": "2026-07-10 01:49:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國監管機構已結束對 iHeartMedia 的調查，相關指控為該公司要求藝人出席旗下活動演出，以此換取歌曲更多電臺播放量，卻未依法披露該交易安排。"
+    },
     {
       "id": "4979621",
       "time": "2026-07-10 01:45:20",
