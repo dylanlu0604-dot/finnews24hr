@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-09 09:55:58",
-  "count": 16168,
+  "updated": "2026-07-09 09:59:54",
+  "count": 16161,
   "items": [
+    {
+      "id": "4977972",
+      "time": "2026-07-09 09:57:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【油氣股持續拉昇，通源石油漲超14%】油氣股持續拉昇，通源石油漲超14%，ST洲際逼近漲停，潛能恆信、藍焰控股、中曼石油紛紛上揚。"
+    },
+    {
+      "id": "4977971",
+      "time": "2026-07-09 09:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲幅達1.00%。"
+    },
+    {
+      "id": "mkt:019f4497-df64-7aab-8d05-2f692c3e413c",
+      "time": "2026-07-09 09:57:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index rose 1.00% intraday."
+    },
     {
       "id": "mkt:019f4496-4048-7aab-8d05-27d858aa1c58",
       "time": "2026-07-09 09:55:25",
@@ -147794,106 +147820,6 @@
         "國際"
       ],
       "text": "【瑞銀：美元兌日元升至163至165區間或將觸發日元多頭止損盤】隨著日元匯率跌至1986年以來最低水平，瑞銀表示市場關注焦點已轉向美元兌日元163至165區間，“大量止損盤和敲出期權頭寸仍集中於這一水平，而許多策略師認為該區間對應的官方干預風險也將顯著上升。”一份瑞銀交易臺報告顯示，日本散戶外匯投資者仍普遍看漲日元，其中許多人已建立規模可觀的日元多頭頭寸，押注日本政府將再次出手干預匯市報告指出，當美元兌日元突破163後，市場止損活動可能開始增多。據信不少交易員已將更重要的風險控制區間設定在164至165附近。"
-    },
-    {
-      "id": "4966330",
-      "time": "2026-07-02 09:59:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國Celltrion製藥公司：將投資2萬億韓元，在忠清道建設全球蛋白填充劑及終灌裝（PFS）生產設施。"
-    },
-    {
-      "id": "mkt:019f208c-eef3-7aab-8c69-f81ea3e6cef8",
-      "time": "2026-07-02 09:58:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share photoresist stocks rebounded intraday. Xingye Shares posted a \"near-limit-up\", marking four limit-ups in five sessions; Baihehua recorded two limit-ups in three sessions. Tianlong Group, Nanda Optoelectronics, Tongcheng New Materials, Gelinda and Xilong Science also rallied."
-    },
-    {
-      "id": "4966329",
-      "time": "2026-07-02 09:58:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光刻膠概念震盪回升 興業股份5天4板】光刻膠概念盤中震盪回升，興業股份上演“準地天板”，走出5天4板，百合花3天2板，天龍集團、南大光電、彤程新材、格林達、西隴科學衝高。"
-    },
-    {
-      "id": "4966328",
-      "time": "2026-07-02 09:58:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "減速器板塊短線拉昇，韶能股份漲停, 宏昌科技、盛德鑫泰漲超10%，瑞迪智驅、瑜欣電子、光洋股份、豐光精密、易實精密等跟漲。"
-    },
-    {
-      "id": "4966327",
-      "time": "2026-07-02 09:57:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.86%，成分股中，中科飛測跌7.19%，華海清科跌6.47%，瀾起科技跌5.66%，中微公司跌4.69%。"
-    },
-    {
-      "id": "te:markets:563599",
-      "time": "2026-07-02 09:57:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Trades Near 7-Month Lows — Platinum futures traded around $1,600 an ounce, hovering near their lowest level since November 2025, as a stronger US dollar outweighed easing inflation concerns amid improving global energy supply. Oil prices returned near pre-war levels as crude shipments through the Strait of Hormuz continued to recover, while signs of progress in US-Iran peace talks further eased concerns over potential supply disruptions. However, the US dollar remained broadly firmed, making dollar-denominated commodities such as the platinum more expensive for buyers of other currencies. Despite Fed Chair Kevin Warsh saying inflation expectations had eased over the past month, markets continued to price in more than a 60% chance of a September rate hike as he reaffirmed the Fed's commitment to restoring price stability, while strong US data underscored the economy’s resilience. Meanwhile, the platinum market remains structurally tight, as output from major producers South Africa and Russia remains constrained."
-    },
-    {
-      "id": "mkt:019f208b-9050-7aab-8c69-f6a54a22c929",
-      "time": "2026-07-02 09:57:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share fluorochemicals sector outperformed, with Heyuan Gas posting a second consecutive daily limit-up; Tianyu Bio, Binhua Co. and Lianhua Technology hit daily upper limits, while Yongtai Technology, Jinshi Resources, Lianchuang Co., CSSC Special Gas and Haohua Technology also advanced."
-    },
-    {
-      "id": "4966326",
-      "time": "2026-07-02 09:56:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【預製菜概念震盪反彈，ST龍大、天地線上雙雙漲停】預製菜概念震盪反彈，ST龍大、天地線上雙雙漲停，中水漁業、國聯水產、晶雪節能、*ST福成、紫燕食品、大東方等跟漲。"
-    },
-    {
-      "id": "4966325",
-      "time": "2026-07-02 09:56:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲1%至6130.90點。"
-    },
-    {
-      "id": "4966324",
-      "time": "2026-07-02 09:56:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "港股石藥集團一度漲10%，現漲9%。"
     }
   ]
 }
