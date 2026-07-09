@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-10 02:56:49",
-  "count": 15847,
+  "updated": "2026-07-10 03:01:22",
+  "count": 15845,
   "items": [
+    {
+      "id": "4979657",
+      "time": "2026-07-10 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.33%，報24055.60點，高水25.42點。"
+    },
+    {
+      "id": "4979656",
+      "time": "2026-07-10 02:59:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：必須使生產網路產能匹配市場預期，並精簡組織架構與投資組合。"
+    },
+    {
+      "id": "4979655",
+      "time": "2026-07-10 02:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：將根據全球市場環境變化以及行業競爭大幅加劇的現狀，把年產能調整至 900 萬輛。"
+    },
+    {
+      "id": "4979654",
+      "time": "2026-07-10 02:57:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗阿巴斯港再次傳出爆炸聲】據伊朗邁赫爾通訊社9日報道，伊朗南部阿巴斯港當晚傳出數次爆炸聲。一些訊息來源和當地居民說，當晚阿巴斯港多次傳出爆炸聲。報道說，美軍接連兩晚對伊朗南部海岸線發動襲擊，造成多名漁民和軍事人員死亡，給阿巴斯港和錫裡克地區漁民造成較大損失。（新華社）"
+    },
+    {
+      "id": "4979653",
+      "time": "2026-07-10 02:56:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：品牌產品線將聚焦最具市場吸引力的細分領域，車型陣容逐步精簡最多五成，產品體系複雜程度最高削減 75%。"
+    },
     {
       "id": "mkt:019f483c-7561-7aab-8d20-25a8d43fbb05",
       "time": "2026-07-10 02:55:49",
@@ -144797,75 +144837,6 @@
         "公司"
       ],
       "text": "Meta 執行長：公司 2026 年組織架構重組 “本可以推進得更順暢，實際效果不盡人意”。"
-    },
-    {
-      "id": "mkt:019f2434-bb08-7aab-8c83-52780b8187dc",
-      "time": "2026-07-03 03:01:03",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.04% at 23,061, trading 6 points above spot."
-    },
-    {
-      "id": "4968235",
-      "time": "2026-07-03 03:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2008年以來最大波動率差距 科技牛市出現降溫訊號】近期科技股漲勢放緩，交易員對後市信心出現動搖。納斯達克100指數與標普500指數的波動率差距已擴大至2008年金融危機以來的最高水平。主要原因是投資者購買納斯達克看跌期權的意願明顯增強，顯示對科技股尤其是AI板塊潛在回撥的擔憂上升。週四，半導體ETF（SMH）下跌超過5%，進一步反映前期熱門科技股勢頭減弱。儘管如此，市場看漲期權的熱情雖有所回落，但仍處於較高水平。分析認為，夏季市場通常較為平靜，但科技股波動性預計仍將高於大盤。"
-    },
-    {
-      "id": "4968234",
-      "time": "2026-07-03 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.01%，報23053.32點，低水1.71點。"
-    },
-    {
-      "id": "mkt:019f2433-863c-7aab-8c83-48279980d04d",
-      "time": "2026-07-03 02:59:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "SMH"
-      ],
-      "text": "【Volatility gap between Nasdaq-100 and S&P 500 widest since 2008; tech rally shows cooling】The volatility gap between the Nasdaq‑100 and the S&P 500 has widened to its largest level since 2008 as investors ramp up purchases of Nasdaq puts, signaling heightened concern about a pullback in tech, particularly the AI sector. Semiconductor ETF SMH plunged more than 5% on Thursday, underscoring weakening momentum in recent tech leaders. Call demand has cooled but remains elevated. Analysts note summers are typically quieter, though tech volatility is expected to stay above the broad market."
-    },
-    {
-      "id": "4968233",
-      "time": "2026-07-03 02:59:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "法官裁定，摩根大通應繼續承擔賈維斯的法律相關費用。"
-    },
-    {
-      "id": "4968232",
-      "time": "2026-07-03 02:57:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta一度跌超5%。"
-    },
-    {
-      "id": "mkt:019f2431-5dbc-7aab-8c83-46b7645d8af5",
-      "time": "2026-07-03 02:57:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) slipped intraday, down 4.89%."
     }
   ]
 }
