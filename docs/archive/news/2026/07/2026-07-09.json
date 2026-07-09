@@ -1,7 +1,126 @@
 {
   "date": "2026-07-09",
-  "count": 1694,
+  "count": 1707,
   "items": [
+    {
+      "id": "mkt:019f4591-9f84-7aab-8d0b-a58220bf9204",
+      "time": "2026-07-09 14:29:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "HSBC cut its average gold forecasts to $4,560/oz for 2026 and $4,925/oz for 2027, down from prior forecasts of $4,864/oz and $5,000/oz."
+    },
+    {
+      "id": "te:economy:565548",
+      "time": "2026-07-09 14:29:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Romania GDP Contracts for First Time Since 2020 — The Romanian economy contracted 1.2% year-on-year in the first quarter of 2026, matching second estimates and reversing from a 0.2% expansion in the previous three-month period. This marked the first contraction since the fourth quarter of 2020, highlighting a sharp loss of momentum at the start of the year. Household spending declined 1.0%, while government spending (12.9%), gross fixed capital formation (2.2%), and net external demand contributed positively, as exports rose 1.3% and imports edged up 0.5%. On the production side, output fell mainly in mining and quarrying (-1.3%), wholesale and retail trade (-3.2%), information and communication (-4.1%), and professional, scientific and technical activities (-3.8%). On a seasonally adjusted quarterly basis, GDP was unchanged after contracting 1.9% in the preceding period."
+    },
+    {
+      "id": "mkt:019f4591-40b9-7aab-8d0b-9865fb188162",
+      "time": "2026-07-09 14:29:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "HSBC forecasts gold to trade between $3,800 and $4,700 per ounce for the remainder of 2026, with a year-end target of $4,750/oz."
+    },
+    {
+      "id": "mkt:019f4590-fdf3-7aab-8d0b-96f9b7c562b5",
+      "time": "2026-07-09 14:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "HSBC says gold prices will be volatile, driven by multiple factors that will at times offset one another."
+    },
+    {
+      "id": "4978324",
+      "time": "2026-07-09 14:28:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：將在流動性調節工具（LAF）項下開展規模為5000億盧比的隔夜可變利率回購（VRR）拍賣。"
+    },
+    {
+      "id": "mkt:019f458f-c08c-7aab-8d0b-8bb927df8be0",
+      "time": "2026-07-09 14:27:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's military says it has foiled an Iranian attack."
+    },
+    {
+      "id": "4978323",
+      "time": "2026-07-09 14:27:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐銀行預測，2027年末黃金價格將達到每盎司5025美元。"
+    },
+    {
+      "id": "4978322",
+      "time": "2026-07-09 14:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林軍方表示，其已於週四挫敗了伊朗發動的襲擊。"
+    },
+    {
+      "id": "4978321",
+      "time": "2026-07-09 14:27:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "4978320",
+      "time": "2026-07-09 14:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將2026年和2027年的平均金價預測分別從每盎司4864美元下調至4560美元、從每盎司5000美元下調至4925美元。"
+    },
+    {
+      "id": "4978319",
+      "time": "2026-07-09 14:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京釋出山洪橙色預警：請公眾暫停涉山涉水戶外活動】市水務局與市氣象局2026年7月9日13時30分聯合釋出山洪災害風險橙色預警：預計7月10日14時至7月12日8時，平谷區、密雲區、房山區發生山洪災害可能性大（橙色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，防範山洪災害。"
+    },
+    {
+      "id": "4978318",
+      "time": "2026-07-09 14:26:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐銀行預計2026年剩餘時間黃金價格區間將維持在每盎司3800-4700美元；年底金價目標為每盎司4750美元。"
+    },
+    {
+      "id": "4978317",
+      "time": "2026-07-09 14:26:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.59%。"
+    },
     {
       "id": "mkt:019f458d-7fac-7aab-8d0b-877429ba6605",
       "time": "2026-07-09 14:25:28",
