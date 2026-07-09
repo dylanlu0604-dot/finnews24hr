@@ -1,7 +1,85 @@
 {
   "date": "2026-07-09",
-  "count": 902,
+  "count": 910,
   "items": [
+    {
+      "id": "4977818",
+      "time": "2026-07-09 08:46:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【卡達境內拉響警報】卡達內政部9日在社交媒體上發表宣告說，該國境內拉響警報，政府呼籲市民保持冷靜並前往最近的安全地點。（新華社）"
+    },
+    {
+      "id": "te:markets:565437",
+      "time": "2026-07-09 08:45:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Slip for Fourth Session — Australian shares dipped 73 points or 0.8% to 8,711 in early deals on Thursday, sliding for the fourth straight session amid weakness in most sectors, notably non-energy minerals, healthcare, process industries, and financials. Nerves persisted ahead of June CPI and PPI data in main trading partner China later in the day. Locally, Reserve Bank Assistant Governor Sarah Hunter warned that if inflation expectations rise, restoring stability may require “some period of low inflation and higher unemployment.” Still, losses were capped by U.S. stock futures that edged higher following a mixed session on Wall Street overnight as geopolitical tensions and rising oil prices weighed on sentiment. The four big banks lost between 0.8% and 1.4% while other notable decliners included heavyweight BHP Group (-1.6%), Pro Medicus (-2.7%), Wisetech Global (-2.1%), and Sonic Healthcare (-1.8%). In contrast, energy names gained, such as Woodside Energy (1.2%) and Santos (0.9%)."
+    },
+    {
+      "id": "4977817",
+      "time": "2026-07-09 08:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特陸軍參謀部：科威特防空系統目前正在攔截敵方的導彈及無人機攻擊。聽到的任何爆炸聲均源自防空系統攔截了敵方攻擊。"
+    },
+    {
+      "id": "mkt:019f4456-5681-7aab-8d02-1beece0d6bcc",
+      "time": "2026-07-09 08:45:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait Army General Staff: Kuwait’s air defense systems are currently intercepting enemy missile and drone attacks. Any explosions heard are the result of those interceptions."
+    },
+    {
+      "id": "4977816",
+      "time": "2026-07-09 08:45:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上半年韓國農林畜水產品及食品價格兩位數上漲】韓國國家資料處7月9日釋出的消費者物價統計顯示，今年上半年黃花魚價格同比上漲16.9%，漲幅居主要農林畜水產品前列。分析認為，國際油價上漲推高了韓國漁船的燃油成本，部分漁船因此減少出海或暫停作業，導致國產黃花魚供應減少，價格隨之走高。與此同時，大米、人參和土豆價格同比分別上漲15.1%、14.6%和10.5%。進口芒果價格上漲13.1%，主要原因是異常天氣導致產量下降，加之韓元貶值推高了進口成本。不過，部分蔬菜價格明顯回落，胡蘿蔔、捲心菜、白蘿蔔、韭菜、梨、洋蔥和白菜價格同比分別下降37.8%、35%、33.7%、21.4%、20.9%、19.8%和18.5%。高油價和高匯率不僅推高了農產品價格，也帶動加工食品和餐飲價格上漲。加工食品中，鱈魚乾價格同比上漲15.1%，漲幅居首；韓式辣椒醬、醃海產品和醃蘿蔔價格分別上漲12.1%、10.5%和10.4%，大醬和醬油的漲幅也均超過8%。業內分析認為，進口原材料價格上漲、能源成本增加以及塑膠包裝成本上升，是加工食品漲價的主要原因。"
+    },
+    {
+      "id": "mkt:019f4455-0a41-7aab-8d02-1454f557ee1c",
+      "time": "2026-07-09 08:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alarms were sounded in Kuwait, Kuwaiti state media reported."
+    },
+    {
+      "id": "4977815",
+      "time": "2026-07-09 08:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗東北部鐵路橋遭襲】伊朗媒體9日報道，伊朗東北部戈爾甘-因切博倫鐵路線上的阿格泰凱橋遭美軍襲擊，暫無人員傷亡報告。報道說，救援力量和相關機構已抵達現場。襲擊造成的人員傷亡、設施損毀等具體細節，伊朗官方暫未公佈，調查仍在進行中。(新華社)"
+    },
+    {
+      "id": "mkt:019f4454-8ba4-7aab-8d02-0b0fc4f62b06",
+      "time": "2026-07-09 08:43:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 gained as much as 2.00% intraday."
+    },
     {
       "id": "mkt:019f4453-5d56-7aab-8d02-043eead8e1cf",
       "time": "2026-07-09 08:42:21",
