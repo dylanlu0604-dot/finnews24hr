@@ -1,7 +1,26 @@
 {
   "date": "2026-07-10",
-  "count": 403,
+  "count": 405,
   "items": [
+    {
+      "id": "te:markets:565803",
+      "time": "2026-07-10 06:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Tumbles by 6.38% — Top commodity losers are Natural gas (-6.38%), Propane (-3.31%), Heating Oil (-2.93%), Brent Crude Oil (-2.68%) and Crude Oil WTI (-2.39%). Gains are led by Natural Gas UK (3.33%), Germany Natural Gas THE (2.06%) and Natural Gas EU (0.53%)."
+    },
+    {
+      "id": "4979802",
+      "time": "2026-07-10 06:28:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從“市場參與者”向“基礎設施提供者”升級，商業銀行擴大離岸人民幣債券基準“版圖”】郵儲銀行聯合中信銀行、中誠信指數於近日釋出離岸人民幣債券估值與指數產品；建行與富時羅素聯合開發的“富時建行點心綠色債券指數”即將向全球投資者公開發布……近日，大型商業銀行接連落子離岸人民幣債券指數與估值領域。業內人士表示，隨著離岸人民幣債券市場擴容，商業銀行打出了一套“估值有據，業績可比”的組合拳，從“市場參與者”向“基礎設施提供者”升級。（上證報）"
+    },
     {
       "id": "4979800",
       "time": "2026-07-10 06:24:57",
