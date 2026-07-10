@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-11 00:30:54",
+  "updated": "2026-07-11 00:34:57",
   "count": 16109,
   "items": [
+    {
+      "id": "4981745",
+      "time": "2026-07-11 00:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“張雪機車”獲世界超級摩托車錦標賽多寧頓站杆位賽第7名】當地時間10日下午，在剛剛結束的2026世界超級摩托車錦標賽（WSBK）英國多寧頓站WorldSSP組別比賽中，中國摩托車製造商“張雪機車”車手瓦倫丁·德比斯位列超級杆位賽第7名。（央視新聞）"
+    },
+    {
+      "id": "4981744",
+      "time": "2026-07-11 00:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase全球公司：使用者在檢視或接收預測市場派息通知時，可能會遇到延遲或效能下降問題。"
+    },
+    {
+      "id": "4981743",
+      "time": "2026-07-11 00:31:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗議員喬卡爾表示，支援美國政策的地區國家將付出 “沉重且無法挽回的代價”。霍爾木茲海峽若無法恢復戰前狀態，海峽管控將按照伊朗制定的相關安排執行。"
+    },
+    {
+      "id": "te:economy:566112",
+      "time": "2026-07-11 00:31:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Inflation Rate Rises to 5-Month High — The headline inflation rate in Russia rose to 6.0% in June of 2026 from 5.3% in the previous month, the highest since January, and contrasting with most major economies that are seeing consumer inflation slow after the initial surge driven by the war in the Middle East. Inflation for motor gasoline was at 19.9% in the period, aligned with Russia's most aggressive fuel shortage since the end of the Soviet Union. The global supply shock due to export halts from the Middle East were magnified with a series of Ukrainian drone attacks on Russian refineries. In the meantime, inflation remained high for services at 10.6%. On the other hand, food inflation was low compared to other sectors of the economy, at 3.4%. From the previous month, the Russian CPI rose by 0.9%."
+    },
     {
       "id": "4981742",
       "time": "2026-07-11 00:30:08",
@@ -146867,42 +146903,6 @@
         "The Trump Trade"
       ],
       "text": "Axios reported President Trump spoke by phone with Israeli Prime Minister Netanyahu today; the Israeli prime minister’s office said they agreed to meet in the U.S. soon."
-    },
-    {
-      "id": "te:markets:564214",
-      "time": "2026-07-04 00:33:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Strengthens as Fed Rate Hike Bets Ease — The Brazilian real rose to 5.17 per USD from the three-month low of 5.22 on July 2nd as weak labor data from the US threatened to stretch the rate differential between the Fed and the BCB. The interest rate differential remains supportive for the real, with Brazil's benchmark Selic rate at 14.25% compared with the US policy range of 3.50%-3.75%. The wide yield gap continued to attract foreign inflows and support the Brazilian currency. Domestic gross public debt rose above forecasts in May, while primary deficit was wider than expected. The deterioration in fiscal accounts reinforced expectations of higher-for-longer borrowing costs and persistent upward pressure on interest rates. In addition, Brazil’s annual inflation rose past 4.8% in the first half of June, above the central bank's upper target band of 4.5%"
-    },
-    {
-      "id": "4970013",
-      "time": "2026-07-04 00:32:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國2/10年期國債收益率週五漲超3個基點】週五（7月3日）歐市尾盤，德國10年期國債收益率漲3.1個基點，報2.935%，本週累計上漲8.4個基點——週一持平、週二至週五持續上揚，整體交投於2.831%-2.936%區間。兩年期德債收益率漲3.6個基點，報2.536%，本週累漲1.9個基點，交投於2.492%-2.549%區間；30年期德債收益率漲2.0個基點，報3.509%。2/10年期德債收益率利差跌0.598個基點，報+39.612個基點，本週累漲6.464個基點。"
-    },
-    {
-      "id": "4970012",
-      "time": "2026-07-04 00:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡辦公室：內塔尼亞胡與特朗普於週五通電話，雙方同意近期在美國舉行會晤。"
-    },
-    {
-      "id": "mkt:019f28d1-b60a-7aab-8c99-6463156a4310",
-      "time": "2026-07-04 00:30:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHO: As of July 1, the Democratic Republic of the Congo has reported 1,460 cumulative confirmed cases, including 452 deaths."
     }
   ]
 }
