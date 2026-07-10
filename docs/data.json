@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-11 06:45:41",
+  "updated": "2026-07-11 06:49:33",
   "count": 16237,
   "items": [
+    {
+      "id": "te:markets:566141",
+      "time": "2026-07-11 06:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.76% — Top crypto gainers are Ether (2.76%), Bitcoin (1.38%) and Binance (1.27%)."
+    },
     {
       "id": "4981951",
       "time": "2026-07-11 06:41:03",
@@ -148150,14 +148161,6 @@
         "其他"
       ],
       "text": "以沙特為首的葉門聯軍發表宣告稱，胡塞武裝針對沙特王國的言論，是企圖“轉移外界注意力”，掩蓋其侵犯葉門人民的行徑。"
-    },
-    {
-      "id": "4970150",
-      "time": "2026-07-04 06:48:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利養老金監管機構就投資規則草案開展公眾諮詢。"
     }
   ]
 }
