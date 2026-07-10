@@ -1,7 +1,29 @@
 {
   "date": "2026-07-11",
-  "count": 282,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:019f4d97-57e4-7aab-8d39-96d32011c6d6",
+      "time": "2026-07-11 03:53:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Dollar index rises on 10th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.05% to 100.953 at the New York close. Crosses: EUR/USD 1.1416 (prev. 1.1434), GBP/USD 1.3398 (prev. 1.3416), USD/JPY 161.69 (prev. 162.34), USD/CHF 0.8085 (prev. 0.8066), USD/CAD 1.4152 (prev. 1.4167), USD/SEK 9.6638 (prev. 9.6602)."
+    },
+    {
+      "id": "4981892",
+      "time": "2026-07-11 03:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "《紐約時報》反訴美國平等就業機會委員會，稱該機構針對其多元化及招聘制度提起的訴訟違反憲法。"
+    },
     {
       "id": "mkt:019f4d96-3561-7aab-8d39-8fa8df546744",
       "time": "2026-07-11 03:51:57",

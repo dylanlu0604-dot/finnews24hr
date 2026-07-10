@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-11 03:52:22",
+  "updated": "2026-07-11 03:56:12",
   "count": 16203,
   "items": [
+    {
+      "id": "mkt:019f4d97-57e4-7aab-8d39-96d32011c6d6",
+      "time": "2026-07-11 03:53:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Dollar index rises on 10th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.05% to 100.953 at the New York close. Crosses: EUR/USD 1.1416 (prev. 1.1434), GBP/USD 1.3398 (prev. 1.3416), USD/JPY 161.69 (prev. 162.34), USD/CHF 0.8085 (prev. 0.8066), USD/CAD 1.4152 (prev. 1.4167), USD/SEK 9.6638 (prev. 9.6602)."
+    },
+    {
+      "id": "4981892",
+      "time": "2026-07-11 03:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "《紐約時報》反訴美國平等就業機會委員會，稱該機構針對其多元化及招聘制度提起的訴訟違反憲法。"
+    },
     {
       "id": "mkt:019f4d96-3561-7aab-8d39-8fa8df546744",
       "time": "2026-07-11 03:51:57",
@@ -147740,26 +147762,6 @@
         "GBPUSD"
       ],
       "text": "【Dollar set for biggest weekly drop since April as rate-cut odds rise after softer U.S. jobs】The dollar slid sharply this week and is poised for its largest weekly decline since April after U.S. June jobs softened and markets trimmed the near-term Fed rate path; the dollar index fell about 0.5% on the week. EUR/USD rose to 1.1440, up roughly 0.5% for the week. GBP/USD climbed to 1.3352, gaining about 1.1% and marking its best weekly performance in nearly three months. USD/JPY, having retreated from near a 40-year high, fell to around 161 but remains elevated. Japanese finance and cabinet officials reiterated close market monitoring and said they stand ready to intervene in FX markets. Analysts say the dollar is clearly tracking employment data and rate expectations; further weak economic releases could extend dollar pressure, while the yen’s sustainability depends on the U.S.-Japan rate differential and any Japanese policy action."
-    },
-    {
-      "id": "mkt:019f298a-7c12-7aab-8c9a-da4c3c0ee0bf",
-      "time": "2026-07-04 03:52:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela's information ministry says an earthquake has killed 2,645 people."
-    },
-    {
-      "id": "mkt:019f298a-22f4-7aab-8c9a-d07dd06beef8",
-      "time": "2026-07-04 03:52:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Putin appeared in military uniform and said Russian forces on the front lines hold \"strategic initiative\"."
     }
   ]
 }
