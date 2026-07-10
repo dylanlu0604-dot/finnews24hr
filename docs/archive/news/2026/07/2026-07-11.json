@@ -1,7 +1,18 @@
 {
   "date": "2026-07-11",
-  "count": 384,
+  "count": 385,
   "items": [
+    {
+      "id": "te:markets:566138",
+      "time": "2026-07-11 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.70% — Top commodity losers are Natural Gas UK (-3.70%), Natural Gas EU (-3.58%), Germany Natural Gas THE (-2.65%), Crude Oil WTI (-0.79%) and Brent Crude Oil (-0.39%). Gains are led by Ethanol (1.42%)."
+    },
     {
       "id": "4981950",
       "time": "2026-07-11 06:29:35",
