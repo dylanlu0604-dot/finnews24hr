@@ -1,7 +1,51 @@
 {
   "date": "2026-07-10",
-  "count": 1203,
+  "count": 1208,
   "items": [
+    {
+      "id": "4980380",
+      "time": "2026-07-10 13:22:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百億私募6月平均收益率達2.18%】私募排排網資料顯示，截至2026年6月30日，有業績記錄的100家百億私募，6月平均收益率達2.18%，跑贏同期滬深300指數1.78%的漲幅。"
+    },
+    {
+      "id": "mkt:019f4a79-bfe4-7aab-8d28-bcdb9ad70e5f",
+      "time": "2026-07-10 13:22:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【100 private fund managers with ≥¥10bn AUM average 2.18% return in June】Data from private fund tracker Simuwang show that as of June 30, 2026, 100 private fund managers with performance records and AUM ≥¥10bn posted an average June return of 2.18%, outperforming the CSI 300’s 1.78% gain."
+    },
+    {
+      "id": "mkt:019f4a79-7168-7aab-8d28-b2fe5ede1d6f",
+      "time": "2026-07-10 13:21:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ADNOC L&S has ordered four newbuild 175,000 m3 LNG carriers for about $900 million, with delivery scheduled in 2029. The order brings ADNOC L&S’s planned LNG carrier fleet to 18 vessels."
+    },
+    {
+      "id": "4980379",
+      "time": "2026-07-10 13:20:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天裝備板塊持續走強，多支衛星ETF逼近漲停】 航天裝備板塊持續走強，中國衛星、中國衛通等漲停。衛星ETF廣發（512630）、衛星ETF易方達（563530）、衛星ETF鵬華（563790）等多支ETF逼近漲停。訊息面上，據新華社報道，長征十號乙運載火箭在海南商業航天發射場發射升空，將衛星順利送入預定軌道。火箭一二級分離後，一子級垂直返回，在海上回收平臺透過網系捕獲方式回收，發射及一子級回收任務取得圓滿成功。此次任務是我國首次成功實施運載火箭一子級可控回收，標誌著我國重複使用火箭技術取得重大突破。"
+    },
+    {
+      "id": "4980378",
+      "time": "2026-07-10 13:19:54",
+      "tags": [],
+      "text": "【長征十號乙運載火箭預計年底前完成一子級火箭複用飛行】長征十號乙運載火箭7月10日成功實現一子級可控回收。後續，長征十號乙運載火箭研製團隊將持續最佳化火箭效能，加快重複使用火箭技術的迭代升級，預計將在今年年底前完成一子級火箭複用飛行。"
+    },
     {
       "id": "4980377",
       "time": "2026-07-10 13:19:32",
