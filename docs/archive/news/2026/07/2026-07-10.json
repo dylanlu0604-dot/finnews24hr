@@ -1,7 +1,116 @@
 {
   "date": "2026-07-10",
-  "count": 727,
+  "count": 738,
   "items": [
+    {
+      "id": "mkt:019f49ac-2c58-7aab-8d24-ba93cccaac5c",
+      "time": "2026-07-10 09:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's A-share fiber-optic sector jumped in early trade: Bichuang Technology up over 12%, Guangxun Technology up over 8%, Zhichun Technology up over 7%, Tianfu Communication and Juguang Technology up over 6%."
+    },
+    {
+      "id": "4980035",
+      "time": "2026-07-10 09:37:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長征十號乙已經開始燃料加註 今日中午有望首飛】記者獲悉，長征十號乙遙一火箭已開始燃料加註，有望在12點10分左右發射升空，挑戰全球首次火箭一子級海上網系回收驗證。如果本次驗證成功，我國將成為全球第二個掌握大運力可回收火箭技術的國家。（證券時報）"
+    },
+    {
+      "id": "4980034",
+      "time": "2026-07-10 09:36:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置概念持續走強，亞翔整合觸及漲停】半導體裝置概念持續走強，亞翔整合觸及漲停，深科達、國林科技、旭光電子、亞威股份、國力電子、茂萊光學等跟漲。"
+    },
+    {
+      "id": "mkt:019f49aa-f87c-7aab-8d24-b60ff6ba1a1d",
+      "time": "2026-07-10 09:36:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan urges pension funds to boost domestic investment; yen rises to 161.63 per dollar】Japan’s finance minister Katayama said on Friday the government wants pension funds, including the Government Pension Investment Fund (GPIF), to increase allocations to domestic financial assets to ensure the public directly benefits from Japan’s economic growth. Her remarks pushed the yen to a session high of 161.63 per dollar. Katayama said encouraging households and pensions to invest more in Japanese assets is a priority and that the government will implement policies to support that goal, signaling an intent to channel more household and institutional savings into domestic markets as Japan moves toward positive interest rates and gradual Bank of Japan policy normalization."
+    },
+    {
+      "id": "mkt:019f49aa-e736-7aab-8d24-a8834ec2e305",
+      "time": "2026-07-10 09:36:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bearish",
+        "03750.HK"
+      ],
+      "text": "CATL A-shares fell more than 3%; Hong Kong-listed shares (03750.HK) slipped over 1%."
+    },
+    {
+      "id": "4980033",
+      "time": "2026-07-10 09:35:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌9.5個基點至3.925%。"
+    },
+    {
+      "id": "4980031",
+      "time": "2026-07-10 09:35:15",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【PCB概念震盪拉昇 平安電工漲停】PCB概念震盪拉昇，平安電工漲停，迅捷興、鵬鼎控股、南亞新材、廣合科技、金安國紀跟漲。"
+    },
+    {
+      "id": "4980030",
+      "time": "2026-07-10 09:35:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "能源金屬板塊盤初調整，融捷股份跌停，雅化集團、永興材料、天齊鋰業、盛新鋰能、贛鋒鋰業、西藏礦業等跟跌。"
+    },
+    {
+      "id": "mkt:019f49a9-fb4a-7aab-8d24-a6325a1302ed",
+      "time": "2026-07-10 09:35:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "A-share energy metals sector opened lower in early trade; Rongjie hit the daily limit down. Yahua Group, Yongxing Materials, TTANQT LITHIUM, Shengxin Lithium Energy, Ganfeng Lithium and Tibet Mining also fell."
+    },
+    {
+      "id": "4980029",
+      "time": "2026-07-10 09:34:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光刻機概念股盤初拉昇，國林科技漲超10%】光刻機概念股盤初拉昇，國林科技漲超10%，茂萊光學、旭光電子、美埃科技、賽微電子、晶方科技跟漲。"
+    },
+    {
+      "id": "4980028",
+      "time": "2026-07-10 09:34:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅省將重大氣象保障（暴雨）應急響應升級為三級】甘肅省氣象局7月10日訊息，該局已將重大氣象保障（暴雨）IV級應急響應升級為III級應急響應。要求省局應急辦、應急與減災處、觀測與網路處、科技與預報處，氣象臺、氣候中心、氣象資料中心、氣象服務中心立即進入重大氣象保障（暴雨）III級應急響應狀態。甘南州、臨夏州、定西市、蘭州市、白銀市、隴南市、天水市、平涼市、慶陽市等市（州）氣象局根據實際情況研判，啟動或升級相應應急響應。各相關單位要嚴格按照應急響應流程做好各項工作，重點做好遞進式氣象服務。"
+    },
     {
       "id": "4980027",
       "time": "2026-07-10 09:33:39",
