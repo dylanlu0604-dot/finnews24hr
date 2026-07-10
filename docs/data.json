@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-10 21:42:42",
-  "count": 15893,
+  "updated": "2026-07-10 21:46:51",
+  "count": 15896,
   "items": [
+    {
+      "id": "te:markets:566069",
+      "time": "2026-07-10 21:45:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Dips as Oil Surge Fuels Fed Tightening Fears — Gold edged lower to $4,100 an ounce on Friday, ending the week down about 1.5%, as rising crude oil prices and escalating US-Iran tensions raised concerns that the Federal Reserve may maintain tight monetary policy for longer. Oil surged 5% this week after renewed strikes between US and Iranian forces, heightening inflation fears and prompting markets to price in a near 60% chance of a September Fed rate hike. Investors will closely watch US inflation data due next week and Fed Chair Kevin Warsh’s testimony for further policy cues. Minutes from the Fed’s June meeting revealed growing inflation concerns, with some policymakers having favored a rate hike before rates were left unchanged. Meanwhile, gold faced a wide discount in India this week due to price volatility, while demand in China remained steady. China’s central bank reported its largest monthly increase in gold reserves in over 2-1/2 years in June."
+    },
+    {
+      "id": "4981459",
+      "time": "2026-07-10 21:44:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金三江：可轉換公司債券“三江轉債”停牌核查】金三江公告稱，公司可轉換公司債券“三江轉債”自2026年7月3日上市，當日收盤漲幅57.3%。7月3日至10日，其收盤價格累計漲幅247.00%，累計換手率約888.36%，價格變動嚴重偏離正股走勢。鑑於價格波動較大，公司申請“三江轉債”自7月13日開市起停牌核查，期間公司股票正常交易。公司將盡快披露核查結果並申請復牌。"
+    },
+    {
+      "id": "4981458",
+      "time": "2026-07-10 21:43:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所原糖期貨價格下跌近3%，報每磅14.71美分。"
+    },
+    {
+      "id": "te:markets:566068",
+      "time": "2026-07-10 21:43:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the second session on Friday, rising about 1.2% to its highest since June 5 at 2,944 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also advanced for the second day, rising 1.9% to 4,655 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, was little changed at 2,253 points. Among smaller vessels, the supramax index increased by 0.4% to 1,706 points. The benchmark index rose about 8.4% for the week."
+    },
+    {
+      "id": "mkt:019f4c45-03d2-7aab-8d34-02e076f3f382",
+      "time": "2026-07-10 21:43:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran confirms Qatari delegation visit; China says Qatar should explain Strait of Hormuz accusation】Iran confirmed a Qatari political delegation arrived today for talks, with Doha said to be seeking to consolidate its mediator role. Qatar had earlier accused Iran over an incident in the Strait of Hormuz; US military forces subsequently carried out large-scale strikes on Iranian military and civilian targets on Wednesday and Thursday. A Chinese Foreign Ministry spokesman said he regretted Qatar’s accusations, calling them “questionable, contrary to the principle of good-neighborliness and unacceptable,” and said Qatar should, during the visit, explain why it sought to cooperate with the US to bypass Iran-designated shipping channels despite knowing Article 5 of the Islamabad memorandum, and why it rushed to accuse Iran before any direct communication."
+    },
+    {
+      "id": "4981457",
+      "time": "2026-07-10 21:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：一支卡達政治代表團抵達伊朗】伊朗方面訊息：一支卡達政治代表團於本週五抵達伊朗，與伊朗官員展開磋商。伊朗官員阿巴斯・阿拉格齊目前身處馬什哈德，這支包含卡達外交部一名顧問的代表團或將前往馬什哈德與其會面。 據悉此次訪問核心目的是鞏固卡達調停方身份。此前週二、週四接連發生相關事態：卡達指控伊朗牽涉霍爾木茲海峽相關事件後，美軍於週三、週四對伊朗多處軍民目標實施大規模打擊。"
+    },
+    {
+      "id": "4981456",
+      "time": "2026-07-10 21:42:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內跌幅達3.00%，現報2.921美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:019f4c43-a601-7aab-8d33-fa0a70db1ee3",
+      "time": "2026-07-10 21:42:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures slid as much as 3.00% intraday, trading at $2.921/MMBtu."
+    },
+    {
+      "id": "4981455",
+      "time": "2026-07-10 21:41:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【信捷電氣具身智慧及高階裝備核心部件研製專案簽約落地】據“無錫釋出”，7月10日，總投資超50億元的信捷電氣具身智慧及高階裝備核心部件研製專案簽約落地濱湖區。此次簽約的專案計劃分三期建設，主要用於伺服系統及控制器的擴產、高壓變頻系統及人形機器人核心零部件無框電機和高精度編碼器的研發生產等，建成投產後將為無錫具身智慧和智慧製造產業發展注入新活力。"
+    },
+    {
+      "id": "4981454",
+      "time": "2026-07-10 21:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 作為對俄方襲擊的反擊，我方還打擊了薩拉托夫州、羅斯托夫州、特維爾州、斯塔夫羅波爾邊疆區、克拉斯諾達爾邊疆區，以及韃靼斯坦、巴什科爾託斯坦境內的石油設施。沃羅涅日州一處機場和特維爾州一處戰略設施也遭打擊。無人機同時針對莫斯科州、列寧格勒州、布良斯克州的相關設施發起攻擊。"
+    },
     {
       "id": "4981453",
       "time": "2026-07-10 21:41:37",
@@ -45,6 +136,16 @@
         "市場"
       ],
       "text": "巴西基準股指伊博韋斯帕指數<.BVSP>上漲2%。"
+    },
+    {
+      "id": "4981449",
+      "time": "2026-07-10 21:40:21",
+      "tags": [
+        "宏觀",
+        "國際",
+        "兩會"
+      ],
+      "text": "【趙樂際分別會見奈米比亞總統恩代特瓦、朝鮮內閣總理樸泰成】全國人大常委會委員長趙樂際7月10日下午在北京分別會見奈米比亞總統恩代特瓦，朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成。在會見恩代特瓦時，趙樂際表示，中納是好朋友、好兄弟、好夥伴。中方願同納方一道，落實好兩國元首重要共識，弘揚傳統友誼，深化務實合作，不斷提升中納全面戰略合作伙伴關係水平，共築新時代全天候中非命運共同體。中國全國人大願同奈米比亞議會加強交往交流，深化在各國議會聯盟等多邊平臺的協作，助力共同發展。歡迎納方派員參加中國全國人大舉辦的非洲國家議員研討班。恩代特瓦表示，納中友誼源遠流長、歷久彌堅。納方恪守一箇中國原則，願同中方在經貿、基礎設施、農業、礦產等各領域開展強有力合作，加強立法機構交流，不斷增進兩國人民的友好情誼。（新華社）"
     },
     {
       "id": "te:markets:566065",
@@ -144888,81 +144989,6 @@
         "其他"
       ],
       "text": "市場訊息：委內瑞拉日產能64.5萬桶的阿穆艾煉油廠在停電後恢復運營。"
-    },
-    {
-      "id": "mkt:019f283a-35e7-7aab-8c97-0ee31b2a8ec8",
-      "time": "2026-07-03 21:45:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning — temporary traffic control on lower Yangtze】China Maritime Safety Administration posted that Huangshi Maritime Safety Administration issued a navigation warning: from July 8 10:00 to 14:00 a PLA unit will conduct military activity in waters near the Huanggang road-and-rail bridge on the lower Yangtze; Huangshi MSA will impose temporary traffic control on adjacent waters during the activity."
-    },
-    {
-      "id": "4969908",
-      "time": "2026-07-03 21:45:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！長江下游臨時交通管制】據中國海事局網站訊息，黃石海事局釋出航行警告，7月8日10時至14時，中國人民解放軍某部將在長江下游黃岡公鐵大橋附近水域進行軍事活動。軍事活動期間，黃石海事局將對附近水域實施臨時交通管制。"
-    },
-    {
-      "id": "4969907",
-      "time": "2026-07-03 21:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京樓市半年報：二手房成交超9.3萬套創五年同期新高，新房去化週期縮短】北京上半年樓市成績單出爐。機構監測資料顯示，今年上半年北京二手房量升價穩、交易規模創近五年新高，置換鏈條有所恢復；新房市場在3月後迎來改善性群體加速入市，市場開始修復，庫存下行。（澎湃）"
-    },
-    {
-      "id": "mkt:019f2839-9786-7aab-8c97-019c63126d73",
-      "time": "2026-07-03 21:44:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Iranian media: Saudi deputy foreign minister pays respects to Iran's deceased supreme leader】Iranian media reported Saudi Deputy Foreign Minister Walid al-Khereiji and his delegation paid respects to Iran's late Supreme Leader Ayatollah Ali Khamenei. Khamenei was killed on Feb. 28 in a war launched by Israel and the United States against Iran. The conflict prompted Iranian attacks on Gulf states hosting US military bases, including Saudi Arabia, and has killed thousands, primarily in Iran and Lebanon."
-    },
-    {
-      "id": "4969906",
-      "time": "2026-07-03 21:44:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【順威股份：目前銷往歐洲市場的風葉業務同比略增 但該業務佔營收比重較小】順威股份在互動平臺表示，目前公司銷往歐洲市場的風葉業務同比略增，但該業務佔營收比重較小。"
-    },
-    {
-      "id": "mkt:019f2839-668f-7aab-8c96-fac647ec74ab",
-      "time": "2026-07-03 21:44:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Nasdaq100",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Tech stock gains: earnings or liquidity?】Nasdaq movement shows a 97.5% correlation with global liquidity. Liquidity expansion compresses discount rates and risk premia, disproportionately boosting long-duration, high-valuation technology stocks and helping explain perceptions of overvaluation. Equity prices, however, remain a function of expected future cash flows and discount rates: liquidity mainly alters the discount rate, monetary policy can materially shift that rate, but corporate cash flows, earnings realization and industry networks determine whether elevated valuations are sustainable."
-    },
-    {
-      "id": "4969905",
-      "time": "2026-07-03 21:43:11",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【全球央行5月淨購金41噸！波蘭依舊是最大買家 金價大跌也未改儲備趨勢】儘管國際金價經歷了連續數月調整，但全球央行依然堅定增持黃金。世界黃金協會(WGC)週四釋出的報告顯示，2026年5月，全球央行官方黃金儲備淨增加41噸，較4月重新回升，購金力量依舊集中於波蘭、中國、烏茲別克和哈薩克等新興市場經濟體。"
-    },
-    {
-      "id": "4969904",
-      "time": "2026-07-03 21:42:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：德國政府完成收購電網運營商Tennet在德國分部的股權。"
     }
   ]
 }
