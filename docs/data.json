@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-10 10:28:10",
-  "count": 15812,
+  "updated": "2026-07-10 10:32:00",
+  "count": 15817,
   "items": [
+    {
+      "id": "mkt:019f49dd-81c1-7aab-8d26-54419e05f588",
+      "time": "2026-07-10 10:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SAMR holds seminar on AI-enabled credit supervision】July 3 — The State Administration for Market Regulation (SAMR) held a seminar on AI-enabled credit supervision focused on the 'build, aggregate, apply' links to deepen credit-regulation reform and support higher-quality market supervision. Vice administrator Bai Qingyuan attended and commented. iFlytek presented AI development trends, domestically controllable large-model technology, mature AI applications in government and market supervision, and proposed paths and scenarios for AI-enabled credit oversight. SAMR said new business models, enterprise digitalization and cross‑regional, multi‑entity operations have outpaced current supervisory tools; staff were urged to adopt AI concepts and technologies to improve regulatory effectiveness and accelerate construction of a unified national market."
+    },
+    {
+      "id": "4980158",
+      "time": "2026-07-10 10:31:18",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局舉辦AI賦能信用監管專題講座】7月3日，市場監管總局舉辦AI賦能信用監管專題講座，圍繞“建、歸、用”關鍵環節，持續深化信用監管改革，引智賦能市場監管業務高質量發展。市場監管總局副局長白清元出席講座並作點評。科大訊飛公司有關負責人重點介紹人工智慧發展態勢、國產自主可控大模型技術、AI在政務及市場監管領域的成熟應用案例，以及AI賦能信用監管的具體路徑與場景設想等情況。白清元指出，當前新業態不斷湧現，企業數字化、跨區域、多主體經營成為常態，現有監管手段明顯滯後。市場監管系統幹部要切實加強學習，主動將人工智慧的理念、技術運用到市場監管各領域，持續提升監管效能，更好履行職責使命，加快推進全國統一大市場建設。（市說新語）"
+    },
+    {
+      "id": "4980157",
+      "time": "2026-07-10 10:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報155350元/噸，較上日16:30價格下跌2250元/噸。"
+    },
+    {
+      "id": "4980156",
+      "time": "2026-07-10 10:30:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞股指上漲1%至1,694.43點。"
+    },
+    {
+      "id": "4980155",
+      "time": "2026-07-10 10:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股醫藥股走強 昭衍新藥漲超8%】截至發稿，昭衍新藥(06127.HK)漲8.45%，康龍化成(03759.HK)漲6.73%，凱萊英(06821.HK)漲4.94%。"
+    },
+    {
+      "id": "te:economy:565851",
+      "time": "2026-07-10 10:30:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Japan 10Y Bond Yield Drops by 11 bps — Government bonds yields are lower on Friday. Top losers are Japan 10Y (-11.30bps) and US 10Y (-1.50bps)."
+    },
+    {
+      "id": "4980154",
+      "time": "2026-07-10 10:29:56",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國監管層正密切跟蹤單一股票槓桿ETF帶來的市場影響】據報道，韓國總統政策首席秘書KimYong-beom週五在首爾向記者表示，韓國金融監管部門正嚴密監控單一股票槓桿ETF對市場造成的影響。KimYong-beom稱，韓國企劃財政部、韓國央行、金融委員會及金融監督院將全面評估自今年5月上市以來，單一股票ETF對市場產生的各類影響。監管機構還將研討並敲定是否需要出臺配套管控新規。"
+    },
+    {
+      "id": "mkt:019f49dc-1e6a-7aab-8d26-4ef30a13248f",
+      "time": "2026-07-10 10:29:50",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "Hang Seng Index"
+      ],
+      "text": "【Guangdong pushes computing-power network; big-data ETFs jump >5% intraday】Big-data ETFs strengthened intraday; Huaxia, Fuguo and Huabao big-data ETFs each rose more than 5%. Guangdong’s draft 15th Five-Year Plan for the information and communications industry calls for accelerating construction of a computing-power network and upgrading network services to create new industry growth poles. The draft seeks continued development of a national integrated computing-power network, including a Guangdong–Hong Kong–Macao Greater Bay Area national hub node, and supports telecom operators building real-time computing centers and edge-computing nodes."
+    },
+    {
+      "id": "4980153",
+      "time": "2026-07-10 10:29:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "大資料ETF盤中走強，大資料ETF華夏、大資料ETF富國、大資料ETF華寶均漲超5%。"
+    },
+    {
+      "id": "4980152",
+      "time": "2026-07-10 10:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津啟動洪澇災害防禦二級響應】記者從市水務局獲悉，根據氣象預報，7月10日至11日，受颱風“巴威”遠距離水汽輸送和副熱帶高壓相互作用影響，天津及海河流域有大範圍強降雨過程，部分地區有暴雨到大暴雨；12日夜間至14日，颱風“巴威”外圍雲系將給天津帶來強風雨天氣。市水務部門啟動洪澇災害防禦二級應急響應，重點從加強水情監測聯合會商、最大限度預騰調蓄空間、做好堤防巡查防守熱備、強化局域性洪澇災害防範四方面，全力做好颱風迎戰準備。（天津發布）"
+    },
+    {
+      "id": "mkt:019f49db-5406-7aab-8d26-44d0b5cf203a",
+      "time": "2026-07-10 10:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Mizuho says Takaichi may need more market-aware communication】Mizuho Securities economist Yusuke Matsuo said Prime Minister Takaichi may need more cautious, market‑aware communication on highly sensitive items, notably the funding source for a planned food consumption tax cut and her large investment program. JGB yields have jumped recently as markets fear political pressure could delay Bank of Japan (BOJ) tightening and lift inflation risks. Finance Minister Katayama on Friday stressed the BOJ's independence, saying specific monetary policy measures are decided by the Bank of Japan."
+    },
     {
       "id": "mkt:019f49d9-b088-7aab-8d26-3cf4d1be9f64",
       "time": "2026-07-10 10:27:10",
@@ -144329,60 +144434,6 @@
         "市場"
       ],
       "text": "截至早盤收盤，日經225指數漲0.7%，東證指數漲0.9%。"
-    },
-    {
-      "id": "4968742",
-      "time": "2026-07-03 10:31:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2081億元。"
-    },
-    {
-      "id": "4968741",
-      "time": "2026-07-03 10:31:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Paytm：Paytm歐洲公司獲授予支付機構牌照，自2026年7月2日起生效。"
-    },
-    {
-      "id": "4968740",
-      "time": "2026-07-03 10:29:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國泰航空正計劃陸續恢復中東航線】記者今日從國泰航空處獲悉，國泰航空正在計劃陸續恢復中東航線。其中，旗下國泰貨運計劃8月1日起，恢復往來利雅得的貨機航班。 (財聯社)"
-    },
-    {
-      "id": "te:economy:563967",
-      "time": "2026-07-03 10:29:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Vietnam Inflation Rate Eases to 4-Month Low — Vietnam’s annual inflation rate eased to 4.69% in June 2026 from 5.60% in the previous month. This marked the lowest reading since February 2025, as price growth moderated in food (4.89% vs 5.03% in May), alcoholic beverages and tobacco (4.21% vs 4.29%), clothing and footwear (2.19% vs 2.37%), housing utilities (7.17% vs 8.19%), transportation (5.29% vs 12.48%), and miscellaneous goods and services (4.08% vs 4.22%). In contrast, costs increased in furnishing and household equipment (3.17% vs 3.12%), health (1.20% vs 1.19%), information and communication (0.13% vs 0.07%), and recreation and culture (3.32% vs 2.91%), while inflation remained steady in education (at 3.39%). On a monthly basis, consumer prices fell 0.39% in May, following a 0.29% gain. Meanwhile, the annual inflation rose by 4.50%, easing from 4.67% in the preceding period."
-    },
-    {
-      "id": "4968739",
-      "time": "2026-07-03 10:28:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念震盪回落 通化金馬封跌停】創新藥概念日內震盪回落，通化金馬封跌停，新贛江、益諾思、雙鷺藥業、海思科、澤璟製藥、三生國健均跌超5%。"
-    },
-    {
-      "id": "4968738",
-      "time": "2026-07-03 10:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為技術有限公司增資至約411.4億元】天眼查App顯示，7月1日，華為技術有限公司發生工商變更，註冊資本由約410.4億人民幣增至約411.4億人民幣。該公司成立於1987年9月，法定代表人為趙明路，經營範圍包括資訊系統設計、整合、執行維護等，由華為投資控股有限公司全資持股。"
     }
   ]
 }
