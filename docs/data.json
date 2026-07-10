@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-10 13:51:56",
+  "updated": "2026-07-10 13:55:49",
   "count": 15804,
   "items": [
+    {
+      "id": "mkt:019f4a95-c48f-7aab-8d29-1e16345a6a3a",
+      "time": "2026-07-10 13:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Belgian prime minister says US strikes on Iran not a NATO issue】On July 8 at the NATO summit in Ankara, Belgian prime minister Bart De Wever said NATO cannot agree with the US on military strikes against Iran, calling the matter outside NATO’s remit and harmful to alliance unity. He noted Article 5 collective defense covers members being attacked but does not require other members to join unilateral offensive actions decided by one ally, and said expecting NATO partners to take part would be unreasonable and inconsistent with NATO’s spirit."
+    },
+    {
+      "id": "4980400",
+      "time": "2026-07-10 13:52:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維宏股份與鉅拓智慧簽署戰略合作協議 深耕液冷、人形機器人新賽道】據維宏股份訊息，7月9日，維宏股份與廣東鉅拓智慧裝備有限公司正式簽署戰略合作協議。雙方將聚焦鑽攻中心、五軸聯動加工中心等高階機型，在液冷散熱、人形機器人等新興行業展開深度協同。"
+    },
+    {
+      "id": "mkt:019f4a95-333c-7aab-8d29-164813b54e84",
+      "time": "2026-07-10 13:51:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【MIIT offers to push practical digital and AI cooperation in Asia‑Pacific】July 10 — At a press briefing on APEC 2026’s Digital and AI ministers’ meeting and Digital Week, China’s Ministry of Industry and Information Technology deputy minister Xiong Jijun said MIIT is willing to work with other economies to use the events as a forum for sharing policy and practice and to promote practical cooperation in digital and AI across the Asia‑Pacific, supporting openness, inclusion and win‑win collaboration and injecting digital momentum into an open, dynamic, resilient and peaceful Asia‑Pacific community."
+    },
+    {
+      "id": "4980399",
+      "time": "2026-07-10 13:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：願與各方一道，推動亞太地區數字和人工智慧領域務實合作】7月10日，工業和資訊化部舉行“亞太經合組織（APEC）2026年數字和人工智慧部長會議及數字周相關活動新聞通氣會”。工業和資訊化部副部長熊繼軍表示，我們願與各方一道，努力將本次數字和人工智慧部長會議及數字周相關活動辦成各經濟體分享政策主張和實踐經驗，推動亞太地區數字和人工智慧領域務實合作，引領亞太地區開放融通、普惠包容、合作共贏的盛會，為構建開放、活力、強韌、和平的亞太共同體注入強大數字動能。"
+    },
     {
       "id": "mkt:019f4a93-7142-7aab-8d29-0ab78835b66d",
       "time": "2026-07-10 13:50:04",
@@ -144280,41 +144316,6 @@
         "其他"
       ],
       "text": "【Github Copilot接入開源模型Kimi K2.7】7月3日，月之暗面宣佈，Github Copilot接入第一個開源模型Kimi K2.7。"
-    },
-    {
-      "id": "4968985",
-      "time": "2026-07-03 13:55:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦一客運巴士墜山 已致超30人死亡】巴基斯坦俾路支省災害管理局3日通報，位於開伯爾-普什圖省與俾路支省交界的達納薩爾地區，一輛客運巴士當天翻車墜落山谷，事故造成30人死亡，多人受傷。另據當地救援組織稱，死亡人數已升至39人。"
-    },
-    {
-      "id": "mkt:019f268a-81f1-7aab-8c8c-5acf04d39116",
-      "time": "2026-07-03 13:53:59",
-      "tags": [
-        "MKT News",
-        "006400.KS",
-        "Impact bullish"
-      ],
-      "text": "South Korea's Samsung SDI will invest 16 trillion won in R&D for next-generation batteries."
-    },
-    {
-      "id": "4968984",
-      "time": "2026-07-03 13:52:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華油惠博普印尼卡蘭巴天然氣專案正式投產】近日，由華油惠博普集團承建的印度尼西亞卡蘭巴天然氣集輸處理EPC專案（簡稱“卡蘭巴專案”）正式投入商業運營。隨著首氣（First Gas）順利實現，專案正式進入商業執行階段，所產天然氣將透過現有管網向巴釐巴板煉油廠穩定供氣。"
-    },
-    {
-      "id": "4968983",
-      "time": "2026-07-03 13:52:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星SDI將投資16萬億韓元研發下一代電池。"
     }
   ]
 }
