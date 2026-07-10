@@ -1,7 +1,59 @@
 {
   "date": "2026-07-10",
-  "count": 2359,
+  "count": 2366,
   "items": [
+    {
+      "id": "4981326",
+      "time": "2026-07-10 20:35:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紫光股份：股價連續三日漲幅偏離值累計超20% 提示投資風險】紫光股份公告稱，公司股票在2026年7月8日至7月10日連續三個交易日內，日收盤價格漲幅偏離值累計超過20%，屬股票交易異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營及環境無重大變化，控股股東等不存在應披露未披露事項，異常波動期間也無買賣公司股票行為。公司同日披露業績預告為初步測算，提醒投資者理性投資。"
+    },
+    {
+      "id": "4981325",
+      "time": "2026-07-10 20:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國計劃立法限定水務企業債務規模。"
+    },
+    {
+      "id": "mkt:019f4c05-f074-7aab-8d32-f0647a0a886b",
+      "time": "2026-07-10 20:34:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zloty tumbles as Polish central bank signals rate cuts】The Polish zloty slid to a 19-month low versus the euro and a two-and-a-half-year low versus the Czech koruna after Polish central bank governor Glapiński signaled future rate cuts at a Thursday press conference. The central bank had left the policy rate unchanged at 3.75% a day earlier, as expected. In a note, Deutsche Bank’s Tatha Ghose said the move was surprising amid renewed U.S.-Iran tensions and that the notion Iran could force the central bank to raise rates has evaporated."
+    },
+    {
+      "id": "4981322",
+      "time": "2026-07-10 20:33:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟理事會已批准匈牙利提交的新版復甦與韌性計劃（RRP）】歐盟理事會已批准解凍對匈牙利高達100億歐元的融資，據匈牙利駐歐盟代表團在社交媒體上釋出的訊息。 與此同時，歐盟理事會在另一則宣告中指出，該方案將為匈牙利提供65億歐元的贈款和35億歐元的優惠貸款。"
+    },
+    {
+      "id": "4981321",
+      "time": "2026-07-10 20:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會就中歐基金變更主要股東申請下發反饋意見】7月10日晚，證監會就中歐基金變更主要股東申請下發反饋意見，要求中歐基金在30個工作日內提交相關問題的書面回覆與電子文件；無法按期回覆的可提交延期申請，證監會收到回覆後將視情況決定是否再次出具反饋意見。本次反饋共涉及五項事項：一是要求華平亞太資產管理有限公司說明首次入股中歐基金以來定位、持牌情況是否發生變化；二是要求華平亞太資管的股東出具增資資產證明，確保其具備本次交易付款能力；三是說明華平投資集團自稱2021年至今信用評級未變、但兩次入股時資信證明評級結果存在差異的情況；四是提供近三年地產資管機構中華平投資集團的原始排名資料；五是提交華平亞太資管2025年度經審計的財務報告。據中歐基金官網，華平亞太資管在2023年入股為第一大股東。（第一財經）"
+    },
+    {
+      "id": "4981320",
+      "time": "2026-07-10 20:32:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "就業資料錄得增長後，加元兌美元上漲0.2%，報1加元兌換1.4145美元。"
+    },
     {
       "id": "4981319",
       "time": "2026-07-10 20:31:20",
@@ -18,6 +70,15 @@
         "其他"
       ],
       "text": "加拿大6月份小時工資同比增長3.7%；此前預期為增長3.6%。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202607103802106591",
+      "time": "2026-07-10 20:30:38",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大6月失業率6.5%】加拿大6月失業率6.5%，預期6.6%，前值6.6%。"
     },
     {
       "id": "mkt:019f4c01-d8fa-7aab-8d32-e8d952c874b3",
