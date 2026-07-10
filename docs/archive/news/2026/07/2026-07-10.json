@@ -1,7 +1,151 @@
 {
   "date": "2026-07-10",
-  "count": 738,
+  "count": 754,
   "items": [
+    {
+      "id": "4980050",
+      "time": "2026-07-10 09:41:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊反覆走強 深科達20cm2連板】半導體裝置板塊反覆走強，深科達20cm2連板，此前亞翔整合、旭光電子漲停，國林科技、茂萊光學、美埃科技、至純科技漲幅靠前。"
+    },
+    {
+      "id": "4980049",
+      "time": "2026-07-10 09:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報8587.60點。"
+    },
+    {
+      "id": "4980048",
+      "time": "2026-07-10 09:41:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.01%，成分股中，和輝光電漲10.50%，華海清科漲8.46%，滬矽產業漲7.41%，海光資訊漲5.92%。"
+    },
+    {
+      "id": "4980047",
+      "time": "2026-07-10 09:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明將於7月23日參加關於房地產問題的公開辯論。"
+    },
+    {
+      "id": "mkt:019f49af-0f4e-7aab-8d24-c94564acda07",
+      "time": "2026-07-10 09:40:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,110/oz intraday, down 0.34%."
+    },
+    {
+      "id": "te:markets:565832",
+      "time": "2026-07-10 09:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Retreat — European natural gas prices dropped more than 2% toward €49 per MWh on Friday, pulling back from a one-month high amid reports of continued US-Iran negotiations despite recent military exchanges. A US official reaffirmed Washington's commitment to pursuing a diplomatic resolution with Tehran, easing concerns that the conflict could escalate into a broader war and once again disrupt supplies from the Persian Gulf. Prices had surged more than 12% over the previous three sessions after the US carried out new strikes on Iranian targets in response to attacks on vessels in the Strait of Hormuz. Iran retaliated by targeting US bases in the region over the past two nights. While President Trump declared that the ceasefire had ended, he said he would not prevent talks from continuing. Investors remain focused on the security of energy flows through the strait, as any renewed disruption could complicate Europe's efforts to replenish gas inventories ahead of the winter."
+    },
+    {
+      "id": "4980046",
+      "time": "2026-07-10 09:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統政策室長：韓國將於7月14日至16日舉行房地產市場研討會。"
+    },
+    {
+      "id": "4980045",
+      "time": "2026-07-10 09:39:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4120美元/盎司，日內跌0.51%。"
+    },
+    {
+      "id": "4980044",
+      "time": "2026-07-10 09:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 劍橋科技漲超9%】截至發稿，劍橋科技(06166.HK)漲9.08%，長飛廣纖光纜(06869.HK)漲7.43%，匯聚科技(01729.HK)漲3.81%。"
+    },
+    {
+      "id": "4980042",
+      "time": "2026-07-10 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他電子Ⅲ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
+    },
+    {
+      "id": "4980041",
+      "time": "2026-07-10 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他電子Ⅱ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
+    },
+    {
+      "id": "4980040",
+      "time": "2026-07-10 09:38:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.17%，成分股中，滬矽產業漲6.85%，和輝光電漲6.30%，華海清科漲5.57%，海光資訊漲4.27%。"
+    },
+    {
+      "id": "4980039",
+      "time": "2026-07-10 09:38:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量1007億元。"
+    },
+    {
+      "id": "4980037",
+      "time": "2026-07-10 09:38:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念股盤初拉昇，崇達技術、寶鼎科技2連板】PCB概念股盤初拉昇，艾森股份盤中創新高，崇達技術、寶鼎科技2連板，平安電工漲停，泰金新能漲超10%。"
+    },
+    {
+      "id": "mkt:019f49ac-85a1-7aab-8d24-c6aec2c9686b",
+      "time": "2026-07-10 09:37:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Long March 10B begins propellant loading; maiden flight expected around midday】Long March 10B Yao-1 rocket has begun propellant loading and is expected to lift off at about 12:10 p.m. today, attempting the world’s first sea‑based net recovery validation of a rocket first stage. If successful, China would become the second country to master heavy‑lift reusable rocket technology."
+    },
+    {
+      "id": "4980036",
+      "time": "2026-07-10 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲2.1%，報69182.44點。"
+    },
     {
       "id": "mkt:019f49ac-2c58-7aab-8d24-ba93cccaac5c",
       "time": "2026-07-10 09:37:28",

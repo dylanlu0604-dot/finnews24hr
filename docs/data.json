@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-10 09:38:10",
-  "count": 15813,
+  "updated": "2026-07-10 09:42:02",
+  "count": 15805,
   "items": [
+    {
+      "id": "4980050",
+      "time": "2026-07-10 09:41:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊反覆走強 深科達20cm2連板】半導體裝置板塊反覆走強，深科達20cm2連板，此前亞翔整合、旭光電子漲停，國林科技、茂萊光學、美埃科技、至純科技漲幅靠前。"
+    },
+    {
+      "id": "4980049",
+      "time": "2026-07-10 09:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報8587.60點。"
+    },
+    {
+      "id": "4980048",
+      "time": "2026-07-10 09:41:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.01%，成分股中，和輝光電漲10.50%，華海清科漲8.46%，滬矽產業漲7.41%，海光資訊漲5.92%。"
+    },
+    {
+      "id": "4980047",
+      "time": "2026-07-10 09:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明將於7月23日參加關於房地產問題的公開辯論。"
+    },
+    {
+      "id": "mkt:019f49af-0f4e-7aab-8d24-c94564acda07",
+      "time": "2026-07-10 09:40:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,110/oz intraday, down 0.34%."
+    },
+    {
+      "id": "te:markets:565832",
+      "time": "2026-07-10 09:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Retreat — European natural gas prices dropped more than 2% toward €49 per MWh on Friday, pulling back from a one-month high amid reports of continued US-Iran negotiations despite recent military exchanges. A US official reaffirmed Washington's commitment to pursuing a diplomatic resolution with Tehran, easing concerns that the conflict could escalate into a broader war and once again disrupt supplies from the Persian Gulf. Prices had surged more than 12% over the previous three sessions after the US carried out new strikes on Iranian targets in response to attacks on vessels in the Strait of Hormuz. Iran retaliated by targeting US bases in the region over the past two nights. While President Trump declared that the ceasefire had ended, he said he would not prevent talks from continuing. Investors remain focused on the security of energy flows through the strait, as any renewed disruption could complicate Europe's efforts to replenish gas inventories ahead of the winter."
+    },
+    {
+      "id": "4980046",
+      "time": "2026-07-10 09:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統政策室長：韓國將於7月14日至16日舉行房地產市場研討會。"
+    },
+    {
+      "id": "4980045",
+      "time": "2026-07-10 09:39:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4120美元/盎司，日內跌0.51%。"
+    },
+    {
+      "id": "4980044",
+      "time": "2026-07-10 09:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 劍橋科技漲超9%】截至發稿，劍橋科技(06166.HK)漲9.08%，長飛廣纖光纜(06869.HK)漲7.43%，匯聚科技(01729.HK)漲3.81%。"
+    },
+    {
+      "id": "4980042",
+      "time": "2026-07-10 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他電子Ⅲ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
+    },
+    {
+      "id": "4980041",
+      "time": "2026-07-10 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股其他電子Ⅱ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
+    },
+    {
+      "id": "4980040",
+      "time": "2026-07-10 09:38:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.17%，成分股中，滬矽產業漲6.85%，和輝光電漲6.30%，華海清科漲5.57%，海光資訊漲4.27%。"
+    },
+    {
+      "id": "4980039",
+      "time": "2026-07-10 09:38:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量1007億元。"
+    },
+    {
+      "id": "4980037",
+      "time": "2026-07-10 09:38:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念股盤初拉昇，崇達技術、寶鼎科技2連板】PCB概念股盤初拉昇，艾森股份盤中創新高，崇達技術、寶鼎科技2連板，平安電工漲停，泰金新能漲超10%。"
+    },
+    {
+      "id": "mkt:019f49ac-85a1-7aab-8d24-c6aec2c9686b",
+      "time": "2026-07-10 09:37:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Long March 10B begins propellant loading; maiden flight expected around midday】Long March 10B Yao-1 rocket has begun propellant loading and is expected to lift off at about 12:10 p.m. today, attempting the world’s first sea‑based net recovery validation of a rocket first stage. If successful, China would become the second country to master heavy‑lift reusable rocket technology."
+    },
+    {
+      "id": "4980036",
+      "time": "2026-07-10 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲2.1%，報69182.44點。"
+    },
     {
       "id": "mkt:019f49ac-2c58-7aab-8d24-ba93cccaac5c",
       "time": "2026-07-10 09:37:28",
@@ -144169,238 +144313,6 @@
         "其他"
       ],
       "text": "【港股人工智慧股走低 迅策跌近13%】截至發稿，迅策(03317.HK)跌12.76%，五一視界(06651.HK)跌6.92%，劍橋科技(06166.HK)跌3.58%。"
-    },
-    {
-      "id": "4968638",
-      "time": "2026-07-03 09:42:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股氟化工板塊短線走低】多氟多跌9.76%"
-    },
-    {
-      "id": "4968637",
-      "time": "2026-07-03 09:42:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【氯鹼板塊短線走低】氯鹼板塊短線走低，濱化股份跌超7%，新金路、氯鹼化工、航錦科技、華塑股份等跟跌。"
-    },
-    {
-      "id": "4968636",
-      "time": "2026-07-03 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股航天裝備Ⅱ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。"
-    },
-    {
-      "id": "4968635",
-      "time": "2026-07-03 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股航天系板塊異動拉昇】航天發展觸及漲停，中國衛星、航天電器、航天電子、航天動力、航天智裝、中國衛通跟漲。"
-    },
-    {
-      "id": "4968634",
-      "time": "2026-07-03 09:42:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股航天裝備Ⅲ板塊異動拉昇】航天環宇漲9.75%，中國衛星、理工導航、航天電子、電科藍天、星網宇達、中國衛通跟漲。"
-    },
-    {
-      "id": "4968633",
-      "time": "2026-07-03 09:41:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統德爾西·羅德里格斯2日說，委內瑞拉強震遇難人數已升至2595人、受傷人數已超1.2萬人。（新華社）"
-    },
-    {
-      "id": "mkt:019f25a3-9145-7aab-8c88-7aab0ad9ac69",
-      "time": "2026-07-03 09:41:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02513.HK"
-      ],
-      "text": "Hang Seng Tech Index early gains widened to 2%; Zhipu (02513.HK) rose over 8%, leading constituents, while the Hang Seng Index was up 1.6%."
-    },
-    {
-      "id": "4968632",
-      "time": "2026-07-03 09:41:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超2%，現報4543.740點；恒生指數現漲1.622%。"
-    },
-    {
-      "id": "mkt:019f25a2-dbb0-7aab-8c88-756a60ebe8ff",
-      "time": "2026-07-03 09:40:57",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "China A-share military equipment sector extended gains; Hangfa Keji hit the daily up-limit. Aileda, Ligong Navigation, Longda, Hangtian Huanyu and Lihang Technology also rose."
-    },
-    {
-      "id": "4968631",
-      "time": "2026-07-03 09:40:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報7806.04點。個股方面，三星電子漲超5%，SK海力士漲超3%。"
-    },
-    {
-      "id": "mkt:019f25a2-756c-7aab-8c88-69ebe4c12cdd",
-      "time": "2026-07-03 09:40:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI climbed to 7,800, extending intraday gains to 2%."
-    },
-    {
-      "id": "4968630",
-      "time": "2026-07-03 09:40:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【軍工裝備持續走強 航發科技漲停】軍工裝備持續走強，航發科技漲停，愛樂達、理工導航、隆達股份、航天環宇、立航科技跟漲。"
-    },
-    {
-      "id": "4968629",
-      "time": "2026-07-03 09:39:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲4.6%，報29.9萬韓元。"
-    },
-    {
-      "id": "4968628",
-      "time": "2026-07-03 09:39:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.09%，成分股中，萬達軸承漲8.61%，納科諾爾漲7.22%，駿創科技漲4.14%，富士達漲3.66%。"
-    },
-    {
-      "id": "mkt:019f25a1-86ba-7aab-8c88-6707e96d447e",
-      "time": "2026-07-03 09:39:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan finance minister Katayama reiterates readiness to act on yen】Japan's finance minister Katayama said the government is prepared to take appropriate measures against yen volatility but would not comment on specific exchange-rate levels. She said Tokyo remains in close contact with US authorities on FX. On rising JGB yields, Katayama said the government will seek to implement fiscal measures to shore up market confidence. Monetary policy is for the Bank of Japan to decide; she expects the BoJ to maintain close communication with the government and take appropriate policy to stabilize progress toward its price target. There are no new details on the BoJ's economic blueprint."
-    },
-    {
-      "id": "mkt:019f25a1-6596-7aab-8c88-598ea63f6769",
-      "time": "2026-07-03 09:39:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "Tencent",
-        "01810.HK",
-        "Impact bullish",
-        "09888.HK",
-        "00700.HK"
-      ],
-      "text": "Hong Kong-listed tech stocks extended gains; Xiaomi Group (01810.HK) rose over 5%, JD Health (06618.HK) rose over 4%, and AliHealth (00241.HK), Baidu (09888.HK) and Tencent Holdings (00700.HK) also advanced."
-    },
-    {
-      "id": "4968627",
-      "time": "2026-07-03 09:39:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美總統去年總收入至少22億美元】“美國總統特朗普個人財富增長速度在現代史上前所未有。”當地時間1日，美國《華盛頓郵報》網站頭條的標題這樣寫道。當天，美國各大主流媒體紛紛報道稱，根據有關強制披露財務資訊的法律，白宮公佈了特朗普的個人年度財務報告，他在重返白宮的第一年就賺了至少 22 億美元，其中僅在加密貨幣方面就賺了14億美元。《紐約時報》稱，數額如此巨大，表明他重返白宮後獲得了巨大利益，他在白宮採取的一些政策，不僅使自己和家人受益，也使其親密朋友、高官及其他關聯人士受益，這可能涉嫌利益衝突。對此，特朗普表示，自己“從不插手”財務管理，他的財富增長“與任何擁有退休基金的美國人並無二致，因為股市上漲，且基金公司很好地管理著我的資金”。 白宮還在一份宣告中稱：“所有這些（指責）都是民主黨人和媒體十年來一直在鼓吹的陳舊、虛假的敘事。” (環球時報)"
-    },
-    {
-      "id": "4968626",
-      "time": "2026-07-03 09:39:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股交換機板塊異動拉昇】星網銳捷觸及漲停，銳捷網路、紫光股份、菲菱科思、天邑股份、歐陸通、共進股份跟漲。"
-    },
-    {
-      "id": "4968625",
-      "time": "2026-07-03 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股F5G板塊異動拉昇】星網銳捷觸及漲停，菲菱科思、天邑股份、共進股份、瑞斯康達、特發資訊、通宇通訊跟漲。"
-    },
-    {
-      "id": "4968624",
-      "time": "2026-07-03 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股毫米波板塊異動拉昇】鋮昌科技觸及漲停，天銀機電、ST臻鐳、國博電子、共進股份、航天發展、和而泰跟漲。"
-    },
-    {
-      "id": "mkt:019f25a1-0b0e-7aab-8c88-5641b31e3ab3",
-      "time": "2026-07-03 09:38:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xinghe Power Aerospace’s Zhishenxing-1 reusable rocket set for near-term maiden flight】July 3 — Xinghe Power Aerospace said its domestically developed Cangqiong-50 reusable LOX/kerosene engine completed its 163rd routine hot-fire on July 1 at the Niutoushan power-system test center. The company said it has completed 57 engine hot-fire runs to date, with cumulative test time of 20,088s and a single-unit maximum cumulative run time of 2,757s. The Cangqiong-50 is designed for at least 25 reuses; more than 40 engines of this type have been assembled and delivered. The Zhishenxing-1 mid-to-large reusable liquid launch vehicle, powered by Cangqiong-50, is scheduled for a near-term maiden flight and will begin staged recovery validation thereafter."
-    },
-    {
-      "id": "4968623",
-      "time": "2026-07-03 09:38:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量1263億元。"
-    },
-    {
-      "id": "4968622",
-      "time": "2026-07-03 09:38:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震已造成2595人死亡】據委內瑞拉代總統羅德里格斯當地時間7月2日晚對媒體稱，委內瑞拉地震造成的遇難人數升至2595人。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f25a0-8bbf-7aab-8c88-4eef91df2cb1",
-      "time": "2026-07-03 09:38:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share innovative drug sector firmed in early trade; Yuandong Bio jumped more than 10%, while Shenlian Bio, Rejing Bio, Yifang Bio, Wanze Co. and Weikang Pharma also advanced."
     }
   ]
 }
