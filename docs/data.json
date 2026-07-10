@@ -1,7 +1,176 @@
 {
-  "updated": "2026-07-10 10:12:58",
-  "count": 15801,
+  "updated": "2026-07-10 10:16:44",
+  "count": 15817,
   "items": [
+    {
+      "id": "mkt:019f49cf-89df-7aab-8d26-1b017841b197",
+      "time": "2026-07-10 10:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said Starlink can now provide reliable 10Gbps symmetric uplink and downlink connectivity anywhere in the world."
+    },
+    {
+      "id": "mkt:019f49cf-8755-7aab-8d26-14a462c06858",
+      "time": "2026-07-10 10:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong to plan integrated communications-navigation-remote sensing LEO constellation for Greater Bay Area】Guangdong’s draft 15th Five-Year Plan for the information and communications sector, released for public comment, proposes provincial support for satellite and space‑ground network development. The draft calls for organizing firms to join national satellite‑IoT commercial trials and planning an integrated communications‑navigation‑remote‑sensing LEO constellation for the Guangdong‑Hong Kong‑Macao Greater Bay Area. It seeks deployment of ground‑space interconnection centers and gateway stations as key fusion nodes, integration of satellite and terrestrial mobile infrastructure, and exploration of network coverage for low‑altitude airspace above 300m and for remote areas. The plan promotes direct‑to‑phone satellite services and satellite IoT, targeting a satellite‑communications user base of 1 mln, and launches a ‘Broadband Guangdong Sea’ initiative to build a maritime 5G/5G‑A + subsea fiber + satellite communications and sensing network."
+    },
+    {
+      "id": "mkt:019f49cf-322a-7aab-8d26-0aae2a4b19c2",
+      "time": "2026-07-10 10:15:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00020.HK",
+        "Impact bullish",
+        "01024.HK"
+      ],
+      "text": "Hang Seng Tech Index rose more than 2%; constituents SenseTime (00020.HK) and Kuaishou (01024.HK) gained over 4%."
+    },
+    {
+      "id": "4980135",
+      "time": "2026-07-10 10:15:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：擬推動5G-A網路規模部署 加快推進萬兆光網規模部署】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，擬推動5G-A網路規模部署。統籌推進全省5G-A規模化部署，深化載波聚合、上行增強、通智融合等技術應用，持續提升5G-A綜合網路供給能力，依託網路智慧迭代鞏固廣東5G全國領先優勢。持續監測廣東5G-A基站建設進展，推動產業園區、交通樞紐、場館等熱點區域具備10Gbps下行峰值速率能力，城市主城區可提供1Gbps上行峰值速率能力。加快推進萬兆光網規模部署。開展新一輪萬兆光網試點，從小區、工廠、園區逐步向商務樓宇、校園、醫院等場景延伸，遴選一批示範性試點專案，總結推廣試點成功經驗，由點及面推動具備萬兆接入能力的50G-PON網路部署。"
+    },
+    {
+      "id": "mkt:019f49ce-f164-7aab-8d26-01aa6f2879e8",
+      "time": "2026-07-10 10:15:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "A spokesman for the Government Pension Investment Fund (GPIF) said it had noted comments by Japan's finance minister Katayama but declined to comment."
+    },
+    {
+      "id": "4980134",
+      "time": "2026-07-10 10:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：擬探索推進300米以上低空空域及偏遠地區網路覆蓋】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，積極組織企業參與全國衛星物聯網業務商用試驗，謀劃粵港澳大灣區通導遙一體化低軌星座建設，積極推進星地互聯中心、信關站等天地網路融合重要節點設施落地佈局。推動衛星通訊與地面行動通訊基礎設施一體化發展，探索推進300米以上低空空域及偏遠地區網路覆蓋，開展手機直連衛星、衛星物聯網等應用，加快實現衛星通訊百萬使用者規模。實施“寬頻粵海”專項行動，逐步打造海洋“5G/5G-A+海底光纜+衛星”通訊感知網路。"
+    },
+    {
+      "id": "te:markets:565846",
+      "time": "2026-07-10 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Japanese Yen Appreciates by 0.56% — Top currency gainers are Japanese Yen (0.56%), New Zealand Dollar (0.53%) and Chinese Yuan (0.20%). Meanwhile South Korean Won was little changed."
+    },
+    {
+      "id": "mkt:019f49ce-845d-7aab-8d25-fa5892335744",
+      "time": "2026-07-10 10:14:58",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【Analyst says SK Hynix ADR to list on Nasdaq Friday; premium could hit 17%】Douglas Research Advisory analyst Douglas Kim said SK Hynix’s ADR, set to begin trading on Nasdaq on Friday, could trade at a short-term premium of up to 17% versus its South Korea-listed shares. The $26.5 bln issuance would be the largest foreign-company listing on record. Kim cited two drivers of the expected ADR premium: some large institutional mandates limit investors to US-listed securities, and a potential narrowing of SK Hynix’s valuation discount to Micron and NVIDIA as investors consider strategies from outright ADR purchases to long-short pair trades. In Thursday Seoul trade, SK Hynix’s Korean shares rose as much as 1.0% to 2.208 mln won."
+    },
+    {
+      "id": "4980133",
+      "time": "2026-07-10 10:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府養老投資基金（GPIF）發言人：已注意到片山財務大臣的相關言論，不予置評。"
+    },
+    {
+      "id": "mkt:019f49ce-4a4c-7aab-8d25-f47a1cf429e8",
+      "time": "2026-07-10 10:14:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【SK Hynix to list on Nasdaq Friday; opportunity but risks remain】Ex-hedge fund manager Jim Cramer said SK Hynix will list on Nasdaq on Friday, calling it a potential opportunity but warning of significant investment risk. He cited continued AI-driven demand for memory as the bullish thesis but flagged the sector’s strong cyclicality and the risk that rising supply could erode returns. Cramer noted the stock trades at only about 7x this year’s expected earnings and recommended establishing a small starter position while keeping cash to buy further on pullbacks. SK Hynix shares are roughly 25% below their June 25 high."
+    },
+    {
+      "id": "4980132",
+      "time": "2026-07-10 10:14:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4826.500點；恒生指數現漲1.528%。"
+    },
+    {
+      "id": "mkt:019f49ce-02b4-7aab-8d25-eefb1202d16f",
+      "time": "2026-07-10 10:14:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to build national compute-interconnect regional nodes and multiple industry-specific nodes】Guangdong’s draft 15th Five-Year plan for the information and communications sector, released for public comment, proposes measures to expand regional and industry compute infrastructure. The plan backs Shaoguan’s bid to host a compute-network hub interconnection center and calls for upgrading and innovating the MIIT Guangzhou Internet Exchange Center and the National (Shenzhen·Qianhai) New-type Internet Exchange Center. It urges acceleration of a Shenzhen–Guangzhou–Shaoguan data corridor to establish a compute-network base serving the Guangdong–Hong Kong–Macao Greater Bay Area, and to integrate into the national \"1+M+N\" compute interconnectivity system by creating national regional nodes and multiple sector-specific nodes. The draft directs continued city-level \"millisecond compute\" initiatives to develop benchmark compute-network cities, and promotes efficient coordination of data/compute, green power, grid and storage—encouraging coordinated construction of compute centers with new-energy sites and grid upgrades and strengthening compute interconnectivity, operational coordination and intelligent dispatch."
+    },
+    {
+      "id": "4980131",
+      "time": "2026-07-10 10:14:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1267.00美元/盎司。"
+    },
+    {
+      "id": "4980130",
+      "time": "2026-07-10 10:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）衛生部長：本輪埃博拉疫情仍處於“非常活躍”階段】剛果（金）衛生部長坎巴9日說，該國本輪埃博拉疫情仍處於“非常活躍”階段，尚未出現明確峰值。剛果（金）衛生部當天釋出的最新埃博拉疫情資料顯示，該國累計報告確診病例1792例，其中死亡625例，治癒295例。非洲疾病預防控制中心專家曼庫拉9日線上上記者會上說，本輪疫情是有記錄以來發展最快的埃博拉疫情，疫情擴散速度超過當前應對能力。（新華社）"
+    },
+    {
+      "id": "4980129",
+      "time": "2026-07-10 10:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：重點推動800G光傳輸系統和全光交叉連線裝置規模部署】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，有序推動珠三角城市5G-A網路規模部署和熱點區域連續覆蓋，積極參與工信部6G技術試驗，率先開展6G網路建設與商用部署，形成6G首發優勢。持續擴大萬兆光網試點建設，實現重點場景量質齊增，加快推動園區網路升級。推動G.654E等新型光纖光纜規模部署，重點推動800G光傳輸系統和全光交叉連線裝置規模部署，構建大頻寬、低時延、高可靠的全光承載底座。深化網際網路協議第六版（IPv6）單棧規模部署。積極部署量子通訊骨幹網，推進400G及以上高速量子通道建設。"
+    },
+    {
+      "id": "4980128",
+      "time": "2026-07-10 10:13:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元抹平跌幅。"
+    },
+    {
+      "id": "mkt:019f49cd-0119-7aab-8d25-e46f4f5f4260",
+      "time": "2026-07-10 10:13:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【Guangdong to prioritize large-scale deployment of 800G optical transmission and all-optical cross-connects】Guangdong’s draft provincial information and communications plan (15th Five-Year Plan) calls for orderly large-scale deployment of 5G-A in Pearl River Delta cities with continuous hotspot coverage and active participation in MIIT 6G trials, aiming to take an early lead in 6G construction and commercial roll-out. The draft seeks to expand 10G PON pilots, accelerate campus network upgrades and scale deployment of new fiber types including G.654E, with a specific push for large-scale deployment of 800G optical transmission systems and all-optical cross-connect equipment to build a high-bandwidth, low-latency, high-reliability all-optical bearer. It also calls for deepening IPv6 single‑stack rollout and actively deploying a quantum communication backbone, advancing 400G-plus high-speed quantum channels."
+    },
+    {
+      "id": "4980127",
+      "time": "2026-07-10 10:12:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Starlink 現在可以在全球任何地方提供可靠的 10Gbps 對稱傳送/接收連線。"
+    },
     {
       "id": "4980126",
       "time": "2026-07-10 10:11:48",
@@ -144264,23 +144433,6 @@
         "國際"
       ],
       "text": "【外交部部長助理劉彬舉行中俄蒙三國副外長磋商】2026年7月2日，外交部部長助理劉彬同俄羅斯外交部副部長魯登科、蒙古外交部副部長阿瑪爾圖布辛在烏蘭巴托舉行中俄蒙三國副外長磋商。劉彬表示，在三國元首戰略引領下，中俄蒙三方合作展現積極穩健發展勢頭，經貿投資、互聯互通等重點領域合作持續推進。中方願同俄、蒙兩方一道，進一步鞏固政治互信，不斷拓展三方合作的深度和廣度，用更多合作成果惠及三國人民，助力各自發展振興。俄、蒙兩方高度評價三方合作取得的積極成果，表示願以三國元首共識為遵循，推動三方合作不斷邁向更高水平。"
-    },
-    {
-      "id": "4968718",
-      "time": "2026-07-03 10:15:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特稱汽油價格“下跌過程中更具粘性”。"
-    },
-    {
-      "id": "4968717",
-      "time": "2026-07-03 10:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國法院裁定終止大型連鎖超市Homeplus的重整計劃。"
     }
   ]
 }
