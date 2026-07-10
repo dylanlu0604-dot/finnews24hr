@@ -1,7 +1,79 @@
 {
   "date": "2026-07-10",
-  "count": 594,
+  "count": 602,
   "items": [
+    {
+      "id": "mkt:019f4975-9337-7aab-8d23-59061b69b2e7",
+      "time": "2026-07-10 08:37:49",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said the Bank of Japan can act independently of government statements on monetary policy, and that specific measures are for the Bank of Japan to decide."
+    },
+    {
+      "id": "mkt:019f4974-e014-7aab-8d23-55f2c879f455",
+      "time": "2026-07-10 08:37:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will ensure fiscal sustainability to secure market confidence."
+    },
+    {
+      "id": "4979942",
+      "time": "2026-07-10 08:36:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：日本央行可自行調整貨幣政策，無需受政府言論影響。"
+    },
+    {
+      "id": "mkt:019f4974-7baa-7aab-8d23-4db4557ad85d",
+      "time": "2026-07-10 08:36:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she is closely monitoring economic indicators and market conditions."
+    },
+    {
+      "id": "mkt:019f4974-6125-7aab-8d23-41c8c2fd1975",
+      "time": "2026-07-10 08:36:31",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Japan's finance minister Katayama said it is important to ensure the government's stance secures market confidence."
+    },
+    {
+      "id": "4979941",
+      "time": "2026-07-10 08:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天華新能：對鋰價趨勢抱有積極預期】關於“公司如何展望後續需求情況和鋰價走勢”的問題，天華新能7月9日在機構線上會議表示，對於價格趨勢我們還是抱有積極預期。中長期，能源安全維度下儲能需求持續性較強，海外新興市場的需求不斷超預期，國內增長空間仍然廣闊，AI儲能增量可以期待。國內商用車電動化趨勢加速，海外新能源車市場滲透率快速提升。目前來看，下游的需求也是很旺盛的，從我們自己的生產訂單情況來看，也能加深對於需求景氣的判斷。同時，我們在資源和冶煉也同步做了很多擴產，也是擁抱新能源景氣的大趨勢。"
+    },
+    {
+      "id": "4979940",
+      "time": "2026-07-10 08:36:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將確保財政可持續性以贏得市場信任。"
+    },
+    {
+      "id": "4979939",
+      "time": "2026-07-10 08:35:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：關注磷資源戰略地位的持續提升】中信建投研報表示，市場對磷系材料的重點關注始於2021年的磷酸鐵鋰/磷酸鐵，彼時磷元素還是圍繞以磷礦石—磷肥/草甘膦為代表的產業鏈。而隨著磷所兼具的礦產資源+化肥保供+磷系材料的前沿產業競爭等重要性日益提升，標誌性事件就是今年2月和6月美、中先後將磷礦石及元素磷列為國家重點戰略資源，其戰略地位已被重估。如三氯化磷、五氯化磷、亞磷酸甲/乙酯等產品已被列入兩用物項出口管制清單。一方面“去日化”背景之下磷系新材料國產替代有望加速；另一方面AI&半導體&新能源需求有望形成共振，例如高純紅磷為磷化銦襯底核心原料，高純黃磷可用於生產電子級磷酸及電池級P2S5，電子級次磷酸鈉作為化學鍍鎳的核心還原劑，廣泛應用於儲存晶片、PCB及高階載板的製造中等。"
+    },
     {
       "id": "4979938",
       "time": "2026-07-10 08:35:34",
