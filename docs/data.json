@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-11 01:10:07",
-  "count": 16127,
+  "updated": "2026-07-11 01:13:57",
+  "count": 16128,
   "items": [
+    {
+      "id": "4981780",
+      "time": "2026-07-11 01:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列方面訊息：美國要求以色列不得在黎巴嫩南部採取任何非常規行動。為此，以色列高層已指示以色列國防軍暫停所有在黎巴嫩南部被認定為敏感的軍事行動。"
+    },
+    {
+      "id": "mkt:019f4d04-992f-7aab-8d37-e6eadf44376f",
+      "time": "2026-07-11 01:12:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Four U.S. senators said they have reached an agreement with the Trump administration to advance legislation imposing sanctions on Russia."
+    },
+    {
+      "id": "4981779",
+      "time": "2026-07-11 01:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpOpenAI總裁格雷格·布羅克曼：ChatGPT Work 實現智慧代理面向大眾規模化落地。該產品在易用性與使用門檻上均實現升級，使用者僅透過手機即可完成各類操作，無需電腦，兼顧個人生活與職場辦公場景。"
+    },
+    {
+      "id": "4981778",
+      "time": "2026-07-11 01:10:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：四名美國參議員稱已與特朗普政府達成協議，推進俄羅斯制裁相關立法。"
+    },
     {
       "id": "te:markets:566115",
       "time": "2026-07-11 01:07:32",
@@ -147021,38 +147057,6 @@
         "Impact bullish"
       ],
       "text": "JP Morgan expects gold to remain rangebound in the near term before rebounding, forecasting an average of $4,300/oz in Q3 2026 and $4,500/oz in Q4 2026."
-    },
-    {
-      "id": "te:economy:564216",
-      "time": "2026-07-04 01:12:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jul 6th — Tanker flows through the Strait of Hormuz picked up sharply in early July. Energy prices sank but long-term yields remain higher, shifting monetary policy back to the market's spotlight. The Federal Reserve will release minutes from its June meeting to unveil insights on a divided FOMC. On the data front, the US will release the ISM Services PMI, existing home sales, and its full trade balance. The ECB will also release monetary policy accounts. Germany and Italy will publish industrial output data, while Germany will join France in posting trade flows. A busy week of economic data in Japan will be headlined by consumer spending, machine tool orders, producer prices, and the current account at a time of pressure on the yen and JGBs. China will unveil its inflation rate. On policy decisions, the RBNZ will determine its interest rate. Elsewhere, OPEC will meet and define output levels on improved trade routes."
-    },
-    {
-      "id": "mkt:019f28f6-2ae5-7aab-8c99-d6bf95ebb310",
-      "time": "2026-07-04 01:10:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK prime minister candidate Burnham pledged to build closer ties with the EU, saying he would build on the previous government's progress."
-    },
-    {
-      "id": "4970030",
-      "time": "2026-07-04 01:10:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相候選人伯納姆：將在政府現有良好舉措基礎上進一步深化與歐盟的緊密聯絡。"
     }
   ]
 }
