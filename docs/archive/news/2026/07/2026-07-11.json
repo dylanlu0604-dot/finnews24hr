@@ -1,7 +1,43 @@
 {
   "date": "2026-07-11",
-  "count": 307,
+  "count": 311,
   "items": [
+    {
+      "id": "4981908",
+      "time": "2026-07-11 04:14:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：今日與盧拉通電話。"
+    },
+    {
+      "id": "te:markets:566129",
+      "time": "2026-07-11 04:13:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise as SK Hynix Soars in Debut — US stock indices closed higher on Friday ahead of the earnings season, with SK Hynix surging in its market debut. The S&P 500 gained 0.4%, the Nasdaq 100 advanced 0.3%, and the Dow added 150 points. SK Hynix American depositary receipts jumped 15% above their offering price after raising $26.5 billion in the largest-ever US listing by a foreign company. Peer chipmakers traded mixed, with Nvidia advancing 4% and AMD rising 2%, while Broadcom lost 0.3% and Intel shed 2.4%. In tech services, Meta jumped 6% after research firm SemiAnalysis published a positive report on its AI compute business. Meanwhile, financial stocks and other traditional sectors found support as oil prices halted their rebound, easing concerns over another Fed rate hike. JPMorgan added 0.3%, while Mastercard and Bank of America both gained 0.7%. In manufacturing, Applied Materials advanced 2.4%, while Caterpillar rose 1.5%."
+    },
+    {
+      "id": "4981907",
+      "time": "2026-07-11 04:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克交易所：6 月末空頭持倉較 6 月中旬上升 3.3%。"
+    },
+    {
+      "id": "4981906",
+      "time": "2026-07-11 04:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約證交所交易資料包告平臺自 12 月 6 日起延長運營時間。"
+    },
     {
       "id": "4981905",
       "time": "2026-07-11 04:10:34",
