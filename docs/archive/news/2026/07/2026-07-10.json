@@ -1,7 +1,113 @@
 {
   "date": "2026-07-10",
-  "count": 1191,
+  "count": 1203,
   "items": [
+    {
+      "id": "4980377",
+      "time": "2026-07-10 13:19:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "衛星ETF廣發、衛星ETF易方達雙雙觸達漲停。"
+    },
+    {
+      "id": "mkt:019f4a77-6380-7aab-8d28-a8dd68fc0ee5",
+      "time": "2026-07-10 13:19:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Guangfa Satellite ETF and E Fund Satellite ETF both hit their daily limit-up."
+    },
+    {
+      "id": "mkt:019f4a76-238f-7aab-8d28-a573a81a5096",
+      "time": "2026-07-10 13:18:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Long March 10B expected to complete first-stage reuse flight by year-end】Long March 10B achieved a controlled recovery of a first-stage booster on July 10. The rocket development team will continue optimizing performance and accelerating iterative upgrades to reusable-rocket technology, and expects to complete a first-stage reuse flight before year-end."
+    },
+    {
+      "id": "4980376",
+      "time": "2026-07-10 13:17:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀釋出首款與張雪機車聯名產品】7月10日，榮耀釋出首款與張雪機車聯名產品榮耀手錶6 Plus張雪機車聯名款，搭載專屬機車騎行模式，可實時檢視騎行速度、心率以及路線軌跡等，並內建專屬張雪機車影片錶盤，配備1000mAh青海湖大電池。"
+    },
+    {
+      "id": "4980375",
+      "time": "2026-07-10 13:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百億私募數量達142家 再次重新整理歷史紀錄】 私募排排網資料顯示，截至2026年6月30日，百億私募數量達142家，較5月末的139家增加3家，較去年底的113家增加29家，再次重新整理歷史紀錄。"
+    },
+    {
+      "id": "4980374",
+      "time": "2026-07-10 13:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【 外交部發言人點贊中國“預製房”：歡迎入住中國製造的家 】 7月9日，外交部發言人毛寧在海外社交平臺轉發點贊央視財經報道的中國模組化建築，並配文：“開箱從中國運來的全新公寓。在工廠全屋預製完工，在現場快速拼裝搭建，價效比高，綠色環保。歡迎入住中國製造的家。”（央視）"
+    },
+    {
+      "id": "4980373",
+      "time": "2026-07-10 13:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務部（ADNOC L&S）：最新訂單使其新建液化天然氣運輸船專案總規模達18艘。"
+    },
+    {
+      "id": "mkt:019f4a73-f522-7aab-8d28-9988e7d32ff9",
+      "time": "2026-07-10 13:15:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC lowers Microsoft (MSFT.O) PT to $567 from $571."
+    },
+    {
+      "id": "4980372",
+      "time": "2026-07-10 13:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將微軟目標價從571美元下調至567美元。"
+    },
+    {
+      "id": "te:markets:565899",
+      "time": "2026-07-10 13:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Rises by 0.52% — Top currency gainers are Japanese Yen (0.52%), New Zealand Dollar (0.34%), Swiss Franc (0.30%), British Pound (0.16%) and Euro (0.09%). Biggest losers are South Korean Won (-0.36%) and Dollar Index (-0.18%)."
+    },
+    {
+      "id": "mkt:019f4a73-6eef-7aab-8d28-927f015857ec",
+      "time": "2026-07-10 13:15:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share satellite navigation sector rallied in afternoon trade; Tianli Fuhe gained over 24%, Hangtian Huanyu over 19%, Huashi Technology over 18%, Xingchen Technology over 16%, Xingtu Cekong and Xice Testing each rose more than 13%."
+    },
+    {
+      "id": "4980371",
+      "time": "2026-07-10 13:15:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務部訂購的四艘新建17.5萬立方米液化天然氣運輸船定於2029年交付。"
+    },
     {
       "id": "4980370",
       "time": "2026-07-10 13:14:45",
