@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-10 14:19:31",
-  "count": 15792,
+  "updated": "2026-07-10 14:23:32",
+  "count": 15789,
   "items": [
+    {
+      "id": "mkt:019f4aaf-926b-7aab-8d29-c8fe07ea8ee8",
+      "time": "2026-07-10 14:20:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 30.30 points, or 0.35%, at 8,792.80 on Friday, July 10."
+    },
+    {
+      "id": "4980432",
+      "time": "2026-07-10 14:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科藍天增資至17.4億 增幅約11%】天眼查App顯示，近日，電科藍天（688818）發生工商變更，註冊資本由約15.6億人民幣增至約17.4億人民幣，增幅約11%。該公司成立於1992年10月，法定代表人為鄭宏宇，經營範圍包括新興能源技術研發、電池製造、光伏裝置及元器件製造等，由中國電子科技集團有限公司等共同持股。"
+    },
+    {
+      "id": "4980431",
+      "time": "2026-07-10 14:19:34",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【兆易創新成交超500億 創成交額歷史天量】兆易創新成交額突破500億，創該股歷史成交金額歷史天量，換手率超11%。該股今早一度漲6.7%，午後震盪回落一度跌超4%。"
+    },
+    {
+      "id": "mkt:019f4aae-4307-7aab-8d29-c031df7525f9",
+      "time": "2026-07-10 14:19:22",
+      "tags": [
+        "MKT News",
+        "GLEN.L",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs upgraded Glencore to 'Buy' from 'Neutral'."
+    },
+    {
+      "id": "4980430",
+      "time": "2026-07-10 14:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯鐵路對糧食出口貨運給予 38% 運量折扣。"
+    },
+    {
+      "id": "4980429",
+      "time": "2026-07-10 14:19:07",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SK海力士美國上市帶動槓桿ETF熱潮，六款產品下週推出】SK海力士創紀錄的美國上市，帶動新一輪掛鉤該股的槓桿產品登陸華爾街。ProShares、Leverage Shares和Rex Shares等發行商正籌備推出兩倍做多SK海力士ADR的產品，部分也在籌備反向產品。據發行商網站資訊，至少六款產品將於下週推出。SK海力士槓桿ETF在韓國市場極受歡迎。SK海力士、三星電子及掛鉤槓桿產品合計佔韓國股市交易額的70%以上，加劇了KOSPI指數的波動。摩根大通資產管理韓國股票基金經理John Cho表示：“散戶活動的部分元素似乎越來越受動量驅動，單隻股票ETF的增長放大了大盤股的交易量和波動性。槓桿ETF的出現並非健康訊號，可能預示著週期後期的散戶行為。”分析師表示，單隻股票槓桿產品的集中度已開始影響其旨在追蹤的股票。新一批美國上市槓桿ETP意味著每日再平衡資金流將擴大，可能加劇本已高企的波動性。"
+    },
+    {
+      "id": "mkt:019f4aae-0805-7aab-8d29-b9a021950866",
+      "time": "2026-07-10 14:19:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SK Hynix US listing sparks leveraged ETF rush; six products due next week】SK Hynix's record U.S. listing has spawned a new wave of U.S.-listed leveraged products tied to the stock. Issuers including ProShares, Leverage Shares and Rex Shares are preparing 2x long SK Hynix ADR ETPs and some inverse variants; issuer sites show at least six products slated to launch next week. Single-stock leveraged ETFs are already extremely popular in Korea: SK Hynix, Samsung Electronics and linked leveraged products account for more than 70% of Korean market trading volume, increasing KOSPI volatility. John Cho, Korea equity fund manager at J.P. Morgan Asset Management, said retail activity appears increasingly momentum-driven and single-stock ETFs have amplified large-cap trading and volatility, warning the emergence of leveraged ETFs can signal late-cycle retail behavior. Analysts add concentrated single-stock leverage is starting to affect the underlying names; new U.S.-listed leveraged ETPs will expand daily rebalancing flows and could further amplify already elevated volatility."
+    },
     {
       "id": "4980428",
       "time": "2026-07-10 14:18:25",
@@ -144135,97 +144197,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨上漲2%。"
-    },
-    {
-      "id": "4969040",
-      "time": "2026-07-03 14:23:18",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【巨量引擎釋出自研廣告治理大模型Mamoda2.5】7月3日，巨量引擎正式釋出自研廣告治理大模型Mamoda2.5版本。據介紹，從1.0版本的文字單點識別起步，Mamoda的能力邊界逐步擴充套件至圖片、短影片，本次2.5版本覆蓋影片全形態。"
-    },
-    {
-      "id": "4969039",
-      "time": "2026-07-03 14:23:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【報告：最新美國就業資料料表明美聯儲今年利率將維持不變】全球經濟學家Mohit Kumar在一份報告中表示，美國6月份就業資料（新增就業人數少於分析師預期）支援了Jefferies的觀點，即美聯儲今年不會加息。他寫道：“美國經濟依然充滿韌性，但就業資料還不夠強勁，不足以要求加息。“他表示，在未來幾個月，對於美聯儲的預期而言，通脹資料可能比就業資料更重要。“但除非通脹資料大幅超出預期，否則我們認為就業資料將為我們在未來幾周的首選交易開綠燈——做多股票、做多信用債和做多前端利率。”"
-    },
-    {
-      "id": "4969038",
-      "time": "2026-07-03 14:22:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業航天板塊持續上漲 盟升電子、龍溪股份等漲停】商業航天板塊持續上漲，盟升電子、龍溪股份等漲停，豪能股份、航天環宇等股漲幅靠前。"
-    },
-    {
-      "id": "4969037",
-      "time": "2026-07-03 14:22:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK集團：將在韓國新建人工智慧資料中心，投資規模達140萬億韓元。"
-    },
-    {
-      "id": "4969036",
-      "time": "2026-07-03 14:21:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【瑞銀：上調藥明生物目標價至51.1港元，重申“買入”評級】瑞銀髮表報告，該行主持了藥明生物的醫療保健線上巡迴會議，管理層在會上重申2026年收入同比增長13%至17%的指引(扣除匯率影響為16%至20%)，儘管面臨持續的匯率壓力，仍顯示出管理層對潛在需求和營運執行的信心。繼1月至4月的強勁表現後，5月至6月的新訂單動能維持健康，其中歐洲和美國市場持續增長，中國市場亦呈現穩健復甦趨勢。新技術平臺特別是雙特異性抗體(bispecifics)仍是主要驅動因素。該行指出，藥明生物的定價趨勢正變得更加有利，新合同價格上漲5%至15%，高於往年3%至5%的歷史漲幅。產能擴張方面，管理層透露中國區產能明年可能接近滿產，海外如新加坡及愛爾蘭等地的產能建設亦進展順利。該行上調藥明生物2027至2029財年的收入預測，因此將其基於現金流折現(DCF)計算的目標價由49.3港元升至51.1港元，並重申“買入”評級。"
-    },
-    {
-      "id": "mkt:019f26a3-a0ad-7aab-8c8c-eef47ceb1d4f",
-      "time": "2026-07-03 14:21:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N"
-      ],
-      "text": "【Alibaba bans internal use of Claude Code after reported backdoor risk】Following a comprehensive assessment after reports Claude Code may contain an implanted backdoor, Alibaba has placed the software on a high-risk list and will prohibit employees from using Claude Code in office environments from July 10. Alibaba recommends Qoder as the internal replacement."
-    },
-    {
-      "id": "mkt:019f26a2-d36d-7aab-8c8c-e23025f74835",
-      "time": "2026-07-03 14:20:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed up 115.80 points, or 1.33%, at 8,840.30 on Friday, July 3."
-    },
-    {
-      "id": "4969035",
-      "time": "2026-07-03 14:20:21",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【奧普特：與SIS-TA正式達成戰略合作 成為首家機器視覺入駐品牌】奧普特今日官微訊息，7月1日，奧普特與STEMMER IMAGING旗下數字化平臺SIS-TA正式達成戰略合作，奧普特全棧產品將全面接入SIS-TA。至此，奧普特成為SIS-TA首家機器視覺入駐品牌。SIS-TA是全球領先機器視覺方案提供商STEMMER IMAGING推出的全新數字化平臺，平臺上線初期聚焦機器視覺產品，後續將逐步拓展至協作機器人、自主移動機器人（AMR）、工業感測器、運動控制等更廣泛的智慧工業技術品類。"
-    },
-    {
-      "id": "4969034",
-      "time": "2026-07-03 14:20:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【業內：汽車仍要保留物理操作鍵】記者從多家車企研發工程師處瞭解到，暴雨天氣情況下，語音助手無響應、響應速度慢或識別能力欠佳的情況已是近年來行業智慧化的通病之一。 就在不久前，語音助手錯誤關閉車外大燈而導致撞車事故，也引起了廣泛關注。不僅如此，語音助手不響應、理解錯誤等情況，已成為車主投訴的新焦點。在汽車產業大變革時代，過度智慧化和物理機械安全保障正成為汽車質量的新課題。 行業人士認為，針對現階段語音作業系統存在的侷限性，保留物理按鍵仍有必要性。（第一財經）"
-    },
-    {
-      "id": "4969033",
-      "time": "2026-07-03 14:19:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：“通脹升溫“模式被視為上半年固定收益市場最顯著變化】Federated Hermes的Karen Manna在一份報告中表示，2026年上半年固定收益市場最顯著的變化是“通脹升溫“模式的重現。這位資深固定收益基金經理表示，從歷史上看，地緣政治衝突往往會引發向優質資產的轉移並推高美國國債，從而壓低收益率。她寫道：“然而，在涉及伊朗的衝突爆發後，通脹擔憂主導了市場，推高了收益率——尤其是收益率曲線的短端。“她說，因此，市場預期發生了劇烈轉變：市場原本反映了兩次以上的降息預期，現在則在討論加息一次甚至兩次的可能性。"
     }
   ]
 }
