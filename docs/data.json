@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-11 04:34:28",
-  "count": 16219,
+  "updated": "2026-07-11 04:38:17",
+  "count": 16222,
   "items": [
+    {
+      "id": "te:markets:566132",
+      "time": "2026-07-11 04:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.28% Higher — The Dow Jones Index gained 150 points or 0.28 percent on Friday to close at 52637 points. Gains were led by Nvidia (3.91%), Nike (3.74%) and Cisco Systems (2.53%). Biggest losers were IBM (-2.51%), UnitedHealth (-1.53%) and Merck (-1.22%)."
+    },
+    {
+      "id": "mkt:019f4dbd-46a7-7aab-8d3a-172a956f1c99",
+      "time": "2026-07-11 04:34:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran says it never sought talks with US; agrees mediators may visit】Iran Foreign Ministry spokesman Baghaei said on the 10th Iran never sought negotiations with the US but has agreed to allow mediators to visit. Earlier the same day President Trump posted on Truth Social that Iran wants to continue \"negotiations\" with the US and that the US has agreed to continue talks."
+    },
+    {
+      "id": "te:markets:566131",
+      "time": "2026-07-11 04:34:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Soars on Softer-Than-Expected Inflation — The Ibovespa jumped 3% to close at 177,866 on Friday after Brazil's inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading pushed bond yields lower and strengthened expectations that the central bank could adopt a more dovish stance. Financial stocks led the rally, with Itaú up 4%, Bradesco gaining 4.8%, and both Itaúsa and B3 advancing 4.3%. Utilities also moved higher, with Axia adding 4.6% and Sabesp rising 3.6%. Meanwhile, CSN Mineração soared 8.3% and CSN jumped 7.9% after Citi said the company should benefit from the stronger performance of its steel and cement segments."
+    },
     {
       "id": "4981916",
       "time": "2026-07-11 04:33:02",
