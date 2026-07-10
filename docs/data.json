@@ -1,7 +1,158 @@
 {
-  "updated": "2026-07-10 20:44:28",
-  "count": 15847,
+  "updated": "2026-07-10 20:48:29",
+  "count": 15849,
   "items": [
+    {
+      "id": "4981350",
+      "time": "2026-07-10 20:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：鴻海一名機構董事辭職。"
+    },
+    {
+      "id": "4981349",
+      "time": "2026-07-10 20:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商輪船：下屬子公司擬15.10億元關聯交易新建船舶】招商輪船公告稱，公司擬透過下屬全資子公司設立的境外單船公司，與關聯方招商船舶下屬公司簽署《船舶訂造協議》，新造1艘21萬載重噸紐卡斯爾型散貨船和4艘1,800TEU集裝箱船舶，專案總投資預計不超15.10億元，交船期為2028年。該交易已獲董事會透過，尚需股東會審議，關聯股東將回避表決。過去12個月內，公司與同一關聯人發生的關聯交易不超18億元。"
+    },
+    {
+      "id": "mkt:019f4c11-721b-7aab-8d33-30444049bfeb",
+      "time": "2026-07-10 20:47:19",
+      "tags": [
+        "MKT News",
+        "2317.TW"
+      ],
+      "text": "Market sources: an institutional-appointed director at Foxconn has resigned."
+    },
+    {
+      "id": "4981348",
+      "time": "2026-07-10 20:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大千生態：持股5%以上股東大千投資擬以17.02元/股轉讓5%股份給範荷娣】大千生態公告，公司持股5%以上股東江蘇大千投資發展有限公司於2026年7月10日與範荷娣女士簽署《股份轉讓協議》，擬將其持有的公司678.6萬股股份（佔公司股份總數的5.00%）協議轉讓給範荷娣，轉讓價格為17.02元/股，總價款1.15億元。本次轉讓屬於股東內部持股調整，不涉及向市場減持，不會導致公司控股股東及實際控制人發生變化。本次協議轉讓尚需經過上海證券交易所合規性確認，並在中國證券登記結算有限責任公司上海分公司辦理股份轉讓過戶登記手續，存在不確定性。"
+    },
+    {
+      "id": "4981346",
+      "time": "2026-07-10 20:46:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚合順：擬向實控人全資控股企業定增募資不超3億元】聚合順(605166)7月10日公告，公司擬向實控人傅昌寶全資控制的企業永昌控股、海南永昌，發行股票募資不超過3億元（含），用於補充流動資金。截至公告日，公司無控股股東，實控人傅昌寶與永昌控股、海南永昌合計控制公司31.98%股權。此次發行股票完成後，公司仍無控股股東，實控人傅昌寶及其一致行動人合計將持有的公司股份比例為38.16%。"
+    },
+    {
+      "id": "mkt:019f4c11-01e1-7aab-8d33-2f9c9c5ea0bc",
+      "time": "2026-07-10 20:46:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports that Iran will begin a three-night mourning ceremony tonight."
+    },
+    {
+      "id": "mkt:019f4c10-cacc-7aab-8d33-27d925e963f1",
+      "time": "2026-07-10 20:46:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【UBS: AI boom likely to boost long-term equity returns】UBS Global Wealth Management strategists said in a report they expect AI-driven industry growth to support higher long-term equity returns, but recommend investors take a diversified approach to AI exposure. They favor semiconductor equipment, foundries, CPU-related compute infrastructure and storage chips, and see defensive plays in data-center REITs and payment networks."
+    },
+    {
+      "id": "4981345",
+      "time": "2026-07-10 20:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖通告：伊斯蘭革命最高領袖將舉辦悼念伊斯蘭革命已故領袖及其家人殉難者的紀念儀式。"
+    },
+    {
+      "id": "mkt:019f4c10-905d-7aab-8d33-1c4048a44c29",
+      "time": "2026-07-10 20:46:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Lebanon's president said he will not abandon negotiations, but Israeli maneuvers and tensions between the US and Iran make progress difficult."
+    },
+    {
+      "id": "4981344",
+      "time": "2026-07-10 20:46:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖將為遇刺身亡的父親舉辦悼念儀式。"
+    },
+    {
+      "id": "mkt:019f4c10-2c72-7aab-8d33-120d4643106b",
+      "time": "2026-07-10 20:45:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China's national electricity load hits record high; NEA to deploy measures to secure supply】China's national electricity load reached a historic high as improving economic activity and persistent high temperatures drove rapid demand growth. Entering the critical summer power-supply period, the National Energy Administration (NEA) said it will coordinate with relevant parties to ensure flexible normal supply, implement measures to address local short-term tightness, maintain contingency plans for extreme conditions, enforce supplier accountability and protect residential and economic electricity needs."
+    },
+    {
+      "id": "4981343",
+      "time": "2026-07-10 20:45:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【影石聯手拓竹發起3D列印創意挑戰賽】此前一款磁吸兔子耳朵雲臺相機DIY配件，在影像與3D列印玩家中引發廣泛關注。7月10日，影石創新宣佈聯合拓竹科技發起創意挑戰賽，面向全球創作者徵集雲臺相機Luna Ultra的3D列印創意配件。"
+    },
+    {
+      "id": "4981342",
+      "time": "2026-07-10 20:45:18",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨漲0.15%，標普500指數期貨跌0.04%，納指期貨跌0.34%。\n②德國DAX指數漲0.04%，英國富時100指數漲0.17%，法國CAC40指數漲0.03%，歐洲斯托克50指數跌0.11%。\n③WTI原油漲0.36%，報72.34美元/桶。布倫特原油漲0.54%，報76.71美元/桶。\n④有知情人士透露，卡達談判代表已抵達伊朗，將與伊方官員會面，以緩和緊張局勢併為談判的持續創造條件，此輪會談系與美國協調進行。\n⑤美聯儲主席凱文·沃什公佈了五個工作組的負責人名單。這些工作組將審視美聯儲在政策制定關鍵領域的做法，並可能推動大範圍改革。工作組負責人包括知名學者、前央行官員和企業高管。\n⑥高盛集團稱，作為日成交9.5萬億美元的外匯市場中最常用的策略之一，套利交易當前享有二十多年來最佳環境。\n⑦Meta美股盤前漲超4%，現報657.19美元。\n⑧Circle網際網路金融公司（CIRCLE INTERNET）獲美國貨幣監理署（OCC）最終批准設立全國信託銀行，盤前股價上漲6.4%。\n⑨達美航空盤前股價下跌4%，聯合航空下跌1.5%。"
+    },
+    {
+      "id": "4981341",
+      "time": "2026-07-10 20:45:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全國用電負荷首創歷史新高 國家能源局多措並舉 全力保障電力供應平穩有序】7月10日，全國用電負荷今年首次創歷史新高，達到15.18億千瓦（歷史極值15.08億千瓦，2025年7月17日），較7月初上漲超1.5億千瓦，相當於增加一個日本的用電負荷。今年以來，全國用電需求保持旺盛增長態勢。華北、東北、西北、南方等4個區域，廣東、海南、寧夏、甘肅、陝西、福建等16個省（自治區）用電負荷累計59次創新高。目前，全國能源電力供需形勢總體平穩，各地均未出現需求響應和有序用電情況。\n\n經濟發展是用電增長的根本原因。今年1—5月，全社會用電量累計達4.2萬億千瓦時，同比增長5.7%。分月來看，3月增長3.5%，4月增長6.0%，5月增長約6.9%，呈現明顯的增速加快趨勢。分產業來看，第二產業用電量達2.73萬億千瓦，同比增長5.1%。其中，高技術及裝備製造業用電量增速達到9.7%，充分體現在“兩新”政策驅動、產業結構轉型等因素作用下，我國經濟發展韌性和內生後勁持續增強。第三產業用電量8055億千瓦時，同比增長8.6%。其中，充換電服務業、網際網路資料服務用電量增速分別達到56.8%、44.6%，直觀反映我國數字經濟、綠色低碳兩大新興賽道的強勁發展活力。\n\n高溫天氣是拉昇負荷上升的直接因素。7月初以來，受副熱帶高壓西伸北抬影響，全國大部分地區平均氣溫常年同期偏高0.5—1℃，西北地區高溫態勢尤為突出，疊加近期南方區域陸續出梅，空調降溫負荷集中釋放，全國用電負荷快速拉昇。據測算，今夏全國平均氣溫每升高1℃，將帶動用電負荷上漲4000—5000萬千瓦，連續高溫天氣還將進一步拉昇用電需求。\n\n當前已進入度夏電力保供關鍵期，國家能源局將會同有關方面，以常態供應有彈性、區域性短時緊張有措施、極端情況應對有預案為目標，壓實保供主體責任，嚴守民生用電底線，全力保障經濟社會發展和人民生活用電需求。"
+    },
+    {
+      "id": "te:economy:566049",
+      "time": "2026-07-10 20:44:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Canada Employment Tops Forecasts in June — Canada's employment increased by 18,000 in June 2026, above market expectations for a 10,000 gain, following an increase of 88,000 in May. Employment rose 0.1% from the previous month, driven by a 32,000 increase among private-sector employees after a 56,000 gain in May. Accommodation and food services added 15,000 jobs, marking a third consecutive monthly increase. In contrast, manufacturing employment fell by 17,000, reversing much of May's 15,000 increase. Public-sector employment declined by 31,000. Regionally, employment increased in Quebec (+14,000) for a second straight month, as well as in Nova Scotia (+4,800) and Saskatchewan (+2,900). Meanwhile, the employment rate edged up 0.1 percentage point to 60.8%."
+    },
+    {
+      "id": "4981340",
+      "time": "2026-07-10 20:43:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿布扎比國家石油公司子公司向江南造船廠增訂4艘LNG運輸船，總價9億美元】7月10日，阿布扎比國家石油公司(ADNOC)旗下物流與服務子公司ADNOC Logistics & Services宣佈，向上海江南造船廠增訂4艘新一代液化天然氣(LNG)運輸船，訂單總價值約9億美元(約合人民幣61億元)。該批船舶每艘容量為17.5萬立方米，預計於2029年交付。此前，江南造船廠已向該公司交付6艘17.5萬立方米LNG運輸船，價值12億美元(約合人民幣81億元)。"
+    },
     {
       "id": "te:economy:566048",
       "time": "2026-07-10 20:43:39",
@@ -13,6 +164,14 @@
         "Importance 1"
       ],
       "text": "Mexico Industrial Output Falls More than Expected — Mexico's industrial production fell 0.7% year-on-year in May 2026, reversing a 2.3% increase in April, lower than market expectations of a 0.1% drop as weakness was broad-based across sectors. The downturn was led by a contraction in manufacturing activity by 1.5% after a flat reading in the previous month, reflecting weaker output across industries, particularly in the manufacturing of computers and comunication related equipments (-7.5%). Utilities production declined further to 0.9% from 0.4%, while construction activity fell 0.3%, reversing a 10.4% gain despite a surge in civil engineering works (15.9%). Meanwhile, mining and quarrying output growth accelerated to 3.9% from 3.4%, supported by stronger growth in mining related services (51.3% vs 23.7%). On a seasonally adjusted monthly basis, industrial activity fell by 0.8% in May, reversing a 2.1% increase in the previous month."
+    },
+    {
+      "id": "4981339",
+      "time": "2026-07-10 20:43:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【張國清在廣西指導支援受災群眾生活保障和災後搶修恢復工作時強調 細緻做好受災群眾生活保障 全力支援受災地區搶修恢復】根據習近平總書記重要指示和李強總理要求，中共中央政治局委員、國務院副總理張國清代表黨中央、國務院，9日至10日率有關部門負責同志赴廣西貴港市、南寧市，指導支援受災群眾生活保障和災後搶修恢復工作。他強調，習近平總書記非常關心、非常掛念受災群眾，反覆叮囑要做好搶險救援、受災群眾生活保障、災後搶修恢復等工作。廣西和各有關方面要全面貫徹習近平總書記重要指示批示精神，落實李強總理要求，妥善安置受災群眾，保障群眾基本生活，全力支援受災地區搶修恢復，幫助災區儘快恢復正常生產生活秩序。（新華社）"
     },
     {
       "id": "4981338",
@@ -144457,131 +144616,6 @@
         "其他"
       ],
       "text": "市場訊息：阿曼議會議長悼念伊斯蘭革命已故領袖。"
-    },
-    {
-      "id": "4969845",
-      "time": "2026-07-03 20:48:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深水海納：公司控制權變更事項終止】深水海納公告，公司收到公司控股股東、實際控制人李海波先生通知，獲悉控股股東、實際控制人李海波先生及其一致行動人西藏海納博創管理有限公司、相關股東方安義深水投資合夥企業（有限合夥）與茂名市發展集團有限公司於2026年7月3日簽署《終止協議》，各方就終止股權轉讓及控制權變更事宜協商達成一致意見。"
-    },
-    {
-      "id": "4969844",
-      "time": "2026-07-03 20:48:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀾起科技接待多家機構調研 披露MRDIMM未來兩至三年迎來規模化上量】瀾起科技公告，2026年6月30日至7月2日，公司以現場會議結合電話會議形式開展特定物件調研活動，針對市場關注的MRDIMM及MRCD/MDB晶片業務，瀾起科技表示，MRDIMM是適配AI、高效能運算場景的標準化高頻寬伺服器記憶體模組，能夠有效解決AI推理帶來的記憶體頻寬瓶頸，行業當前處於第二代產品規模試用階段，預計未來兩至三年迎來行業規模化上量。"
-    },
-    {
-      "id": "4969843",
-      "time": "2026-07-03 20:48:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行預計2028年巴西SELIC利率將達到12.25%。"
-    },
-    {
-      "id": "mkt:019f2805-9c84-7aab-8c96-156c57b5268c",
-      "time": "2026-07-03 20:48:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BofA forecasts Brazil's SELIC rate will reach 12.25% in 2028."
-    },
-    {
-      "id": "4969842",
-      "time": "2026-07-03 20:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛洋科技：選舉葉利明為董事長 聘任多位高管】盛洋科技公告稱，2026年7月3日第六屆董事會第一次會議，選舉葉利明為董事長、代表公司執行事務的董事及法定代表人，任期三年；選舉葉利明等組成第六屆董事會專門委員會；聘任葉利明為總經理，申傑峰為董事會秘書，高璟琳為證券事務代表，安楓豐為內審部負責人，徐鳳娟、趙立峰、吳秋婷、申傑峰為副總經理，範月剛為財務總監，任期均至第六屆董事會屆滿。"
-    },
-    {
-      "id": "mkt:019f2804-8f93-7aab-8c96-0c85c548528a",
-      "time": "2026-07-03 20:46:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chile's central bank bought US$25 mln."
-    },
-    {
-      "id": "4969841",
-      "time": "2026-07-03 20:46:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行購入 2500 萬美元外匯。"
-    },
-    {
-      "id": "mkt:019f2804-6473-7aab-8c96-006715f72dc7",
-      "time": "2026-07-03 20:46:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Beijing signs institutional cooperation statement with UNIDO on industrial digitalization】On July 2, 2026, the Beijing Municipal Bureau of Economy and Information Technology and the United Nations Industrial Development Organization (UNIDO) signed a joint statement to institutionalize strategic cooperation on Beijing's industrial development, innovation and digitalization. The agreement creates a long-term framework focused on information exchange, experience sharing, industrial collaboration, capacity building and technology transfer, explicitly linking Beijing's industrial digitalization with UN sustainable industrial development efforts. Two priority tasks are establishing a Global Center of Excellence for Intelligent Manufacturing and Robotics and deepening participation in the Global Digital Economy Conference, including support for the Global Digital Economy Cities Alliance."
-    },
-    {
-      "id": "4969840",
-      "time": "2026-07-03 20:46:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美圖：執行長吳澤源增持1,600,000股公司股份】美圖(01357.HK)公告，公司董事會獲本公司創始人、董事長及執行長吳澤源先生告知，吳先生於二零二六年七月三日於香港聯合交易所有限公司公開市場以平均價每股4.023港元購入本公司股份1,600,000股。吳先生從未出售本公司的任何股份，並且自二零一八年五月十日起多次增持本公司的股份，體現其對本公司的持續信心。連同本次增持事項，吳先生已累計購買5,580,000股股份。緊隨本次增持事項後，吳先生於本公司的合計權益由593,196,670股股份增加至594,796,670股股份，佔本公司已發行股本的比例由約12.93%上升至約12.97%。"
-    },
-    {
-      "id": "4969839",
-      "time": "2026-07-03 20:46:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行業指數跌幅擴大，下跌4.2%。"
-    },
-    {
-      "id": "4969838",
-      "time": "2026-07-03 20:45:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市經濟和資訊化局與聯合國工業發展組織簽署聯合宣告】7月2日，在2026全球數字經濟大會主論壇現場，北京市經濟和資訊化局與工發組織正式簽署推動北京工業發展、創新及數字化轉型合作聯合宣告，這是雙方制度化戰略合作的開創性舉措，填補首都工業數字化領域對接聯合國可持續工業發展體系的合作空白。本次簽署的聯合宣告搭建起長期穩定的合作框架，明確以資訊互通、經驗共享、產業協作、能力建設、技術轉移為核心合作方向，重點推進兩大核心任務：一是落地全球智慧製造與機器人卓越中心；二是深度參與全球數字經濟大會、賦能全球數字經濟城市聯盟建設等工作。"
-    },
-    {
-      "id": "4969837",
-      "time": "2026-07-03 20:45:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界氣象組織：未來數月極端天氣可能性加大】世界氣象組織3日發表新聞公報稱，厄爾尼諾狀態已在熱帶太平洋地區發展，預計未來幾個月將迅速加強，從而增加世界許多地區出現熱浪、乾旱、強降雨和其他極端天氣事件的可能性。（新華社）"
-    },
-    {
-      "id": "mkt:019f2802-deef-7aab-8c95-fb97a532b13a",
-      "time": "2026-07-03 20:45:04",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Baltic Dry Index hits two-week high as Capesize freight leads gains】Baltic Dry Index closed up 67 pts (2.5%) at 2,717 on Friday, its highest level since June 19; weekly gain 7.6%. Capesize index rose 179 pts (4.6%) to 4,100, up 12% on the week — the largest weekly increase since mid‑April; Capesize average daily earnings increased $1,618 to $33,678. Panamax index gained 8 pts (0.4%) to 2,203, rising just over 4% for the week and recording a second consecutive weekly rise; Panamax average daily earnings rose $67 to $19,825. Supramax index slipped 2 pts (0.1%) to 1,673."
-    },
-    {
-      "id": "mkt:019f2802-6376-7aab-8c95-f106f4f4a3a8",
-      "time": "2026-07-03 20:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Shanghai Stock Exchange issued a supervisory letter concerning a change of control at Wuxi Akeli Technology Co., Ltd."
-    },
-    {
-      "id": "4969836",
-      "time": "2026-07-03 20:44:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "上交所釋出關於無錫阿科力科技股份有限公司控制權變更事項的監管工作函。"
     }
   ]
 }
