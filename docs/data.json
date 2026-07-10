@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-10 14:03:35",
-  "count": 15808,
+  "updated": "2026-07-10 14:07:53",
+  "count": 15795,
   "items": [
+    {
+      "id": "4980413",
+      "time": "2026-07-10 14:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本逾七成住宿設施勞動力短缺】日本政府10日就旅遊業釋出的年度白皮書說，日本逾七成住宿設施面臨勞動力短缺問題。據日本共同社報道，日本政府去年12月至今年1月期間對522家住宿設施發起調查，其中72.2%的調查物件報告人手不足。由於老齡化嚴重且生育率下降，日本各行業普遍存在勞動力短缺問題，其中服務業因薪酬較低而尤為突出。日本政府呼籲住宿業經營者加大技術投資，引進自助入住系統、送餐機器人等以緩解人手不足的壓力。（新華社）"
+    },
+    {
+      "id": "4980412",
+      "time": "2026-07-10 14:06:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈睿智芯完成新一輪數億元融資】近日，上海靈睿智芯計算技術有限公司宣佈完成數億元融資。本輪融資由張江高科、中科創星、東方富海、成為資本、石溪資本、壁仞科技、上海天使會、行業合作伙伴等產業投資機構共同參與，元禾璞華、上國投孚騰資本、華山資本等老股東同步持續加碼。資金將重點用於公司高效能RISC-V核心的應用和產業落地，加速公司智慧體CPU產品研發，以及深化AI原生融合計算架構的創新和佈局。"
+    },
+    {
+      "id": "4980411",
+      "time": "2026-07-10 14:06:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橫店企業管理（上海）有限公司成立，註冊資本1000萬】天眼查App顯示，7月8日，橫店企業管理（上海）有限公司成立，法定代表人為潘國峰，註冊資本1000萬人民幣，經營範圍為企業管理、企業管理諮詢，由橫店資本創業投資（浙江）有限公司全資持股。"
+    },
+    {
+      "id": "4980410",
+      "time": "2026-07-10 14:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅將以每股7.15英鎊收購易捷航空（EasyJet）。"
+    },
     {
       "id": "4980409",
       "time": "2026-07-10 14:02:44",
@@ -144207,156 +144239,6 @@
         "WTI"
       ],
       "text": "【Ukraine reports 30 dead after strikes on Kyiv】Ukraine's State Emergency Service said on July 3 that deaths from Russia's large-scale strikes on Kyiv on July 2 have risen to 30."
-    },
-    {
-      "id": "4969008",
-      "time": "2026-07-03 14:07:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱基輔遭襲已致30死】烏克蘭國家緊急情況服務局3日通報稱，7月2日俄羅斯對基輔發動的大規模襲擊造成的死亡人數已上升至30人。2日下午，在達爾尼茨基區遇襲現場，烏國家緊急情況局發言人表示，基輔市已投入130套裝置和500名救援人員在全市39處遇襲地點展開救援。基輔市市長克利奇科在社交媒體發文稱，基輔市這次同時遭到彈道導彈、巡航導彈和無人機襲擊，10個區遭波及，其中達爾尼茨基區一棟居民樓受損最嚴重，部分樓體坍塌。（央視新聞）"
-    },
-    {
-      "id": "4969007",
-      "time": "2026-07-03 14:07:15",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【半導體裝置板塊震盪回升】半導體裝置板塊震盪回升，早盤板塊指數一度跌超4%，屹唐股份漲超8%，華峰測控、中微公司、長川科技、先鋒精科、盛美上海跟漲。"
-    },
-    {
-      "id": "4969006",
-      "time": "2026-07-03 14:07:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將馬士基評級從賣出上調至中性，並將目標股價從13000丹麥克朗上調至16000丹麥克朗。"
-    },
-    {
-      "id": "4969005",
-      "time": "2026-07-03 14:07:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報8454.40點。"
-    },
-    {
-      "id": "4969004",
-      "time": "2026-07-03 14:06:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲2%至275.53點。"
-    },
-    {
-      "id": "4969003",
-      "time": "2026-07-03 14:06:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【預告：上海市政府新聞辦就2026世界人工智慧大會籌備進展情況舉行新聞釋出會】據上海市人民政府新聞辦公室訊息，2026世界人工智慧大會暨人工智慧全球治理高階別會議將於7月17日至20日在上海舉行。上海市政府新聞辦定於7月7日（星期二）上午10:00舉行新聞釋出會，邀請市領導及外交部、國家發展改革委、工業和資訊化部、市經濟資訊化委、東浩蘭生集團等相關負責人出席，介紹大會籌備進展情況，並回答記者提問。"
-    },
-    {
-      "id": "4969002",
-      "time": "2026-07-03 14:06:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：美國勞工資料減輕美聯儲加息壓力】駿利亨德森投資的Bradford Smith在一份報告中寫道，美國6月份就業報告減輕了美聯儲在近期加息的一些壓力。該基金經理指出，話雖如此，美聯儲主席凱文·沃什在其首次新聞釋出會上評論稱，就業資料只有在第三次修正後才變得有意義，而到那時就成了“歷史的回聲“。Smith說，在油價漲幅有所緩和的背景下，就業方面的一些疲軟可能會讓美聯儲按兵不動，至少在下一次會議上是這樣。美國經濟6月份新增5.7萬個就業崗位，少於分析師預期的11.5萬個。"
-    },
-    {
-      "id": "mkt:019f2695-b78d-7aab-8c8c-9b3b0adbfdf8",
-      "time": "2026-07-03 14:06:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korean authorities said they will prepare for foreign exchange inflows from SK Hynix ADRs."
-    },
-    {
-      "id": "te:economy:564022",
-      "time": "2026-07-03 14:05:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Services Sector Contracts the Most in 9 Months — The S&P Global Russia Services PMI declined to 48.2 in June 2026 from May's 49.7, marking the fourth consecutive month of contraction in the sector. The latest reading also marked the steepest contraction since last September, driven by sharper declines in both output and new orders. In line with lower new orders, firms reduced employment for the fifth consecutive month, with the pace of job shedding the steepest in three and a half years."
-    },
-    {
-      "id": "mkt:019f2695-35c3-7aab-8c8c-9736d6aa79cb",
-      "time": "2026-07-03 14:05:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【MOFCOM minister Raimondo chairs roundtable with Chinese-invested firms in UK】On July 2 in London, MOFCOM minister Raimondo chaired a roundtable with more than ten Chinese-invested firms operating in the UK. Participants from finance, insurance, new energy, autos, retail and telecoms, plus the China-Britain Chamber of Commerce, reported on UK operations and pressed for protection of overseas interests and expanded pragmatic cooperation. Raimondo said Sino‑UK trade has deepened and that Chinese firms in the UK have withstood pressure, deepened market presence and delivered solid economic returns. He called for continued cooperation in services, innovation and trilateral projects, and urged Chinese firms in the UK to strengthen self‑discipline, compete orderly, protect the overall image of Chinese companies, and raise international management and risk‑control capabilities."
-    },
-    {
-      "id": "mkt:019f2695-15f4-7aab-8c8c-8992ba8d6811",
-      "time": "2026-07-03 14:05:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hanwha Group said it will invest 55 trillion won in South Korea to develop satellites, space launch vehicles and a defense AI data center."
-    },
-    {
-      "id": "4969001",
-      "time": "2026-07-03 14:05:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股三大指數均漲超1%】上證指數漲1.01%，現報4069.677點；深證成指漲1.65%，現報15753.981點；創業板指漲1.50%，現報4077.425點。"
-    },
-    {
-      "id": "4969000",
-      "time": "2026-07-03 14:05:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓華集團：將在韓國投資55萬億韓元，用於製造衛星、運載火箭、國防人工智慧資料中心。"
-    },
-    {
-      "id": "mkt:019f2694-0368-7aab-8c8c-8049664acac7",
-      "time": "2026-07-03 14:04:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The IDF said yesterday its soldiers conducted an operation in the Mukhmas area, arresting eight suspects wanted for pursuing and assaulting Israeli civilians who entered the area."
-    },
-    {
-      "id": "4968999",
-      "time": "2026-07-03 14:04:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國方面表示將為SK海力士ADR帶來的外匯流入做好準備。"
-    },
-    {
-      "id": "4968998",
-      "time": "2026-07-03 14:03:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.38%，道瓊斯指數期貨漲0.2%。"
-    },
-    {
-      "id": "4968997",
-      "time": "2026-07-03 14:03:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商蛇口成立新公司 含商業綜合體管理服務業務】企查查APP顯示，近日，深圳招商匯港商業管理有限公司成立，法定代表人為陳雙，經營範圍包含物業管理；非居住房地產租賃；商業綜合體管理服務；餐飲管理；企業管理諮詢等。企查查股權穿透顯示，該公司由招商蛇口(001979)間接全資持股。"
     }
   ]
 }
