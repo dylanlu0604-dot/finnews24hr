@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-10 08:40:14",
+  "updated": "2026-07-10 08:44:07",
   "count": 15864,
   "items": [
+    {
+      "id": "mkt:019f497a-e7be-7aab-8d23-690e7d57aca7",
+      "time": "2026-07-10 08:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said she hopes to accelerate discussions on expanding household-targeted JGB products."
+    },
+    {
+      "id": "4979950",
+      "time": "2026-07-10 08:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬順集團（控股）有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4979949",
+      "time": "2026-07-10 08:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：支援養老基金（如GPIF）投資日本金融資產。"
+    },
+    {
+      "id": "4979948",
+      "time": "2026-07-10 08:42:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：希望加快面向家庭層面的日本國債產品擴容討論。"
+    },
+    {
+      "id": "4979947",
+      "time": "2026-07-10 08:42:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "【銀河證券：PPI年內高點或將臨近 價格傳導仍待修復】銀河證券認為，PPI年內高點或將臨近，價格傳導仍待修復：預計7月PPI極有可能為PPI同比讀數的階段性高點。一方面，當前原油價格已經接近衝突前水平，儘管仍受美伊局勢擾動而反覆，但若未出現原油供給和運輸通道的實質性中斷，地緣風險溢價對油價的支撐或更多表現為短期脈衝，石化產業鏈對PPI的拉動將邊際減弱，甚至轉為拖累。另一方面,PPI-CPI的剪刀差仍在擴大，反映上游漲價向下遊終端傳導不暢。本輪價格上行更多集中在成本端和部分景氣行業，終端需求承接能力仍然不足，企業向居民消費端轉嫁成本的能力有限，制約工業品價格的上行動能。"
+    },
+    {
+      "id": "4979946",
+      "time": "2026-07-10 08:41:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌0.5個基點，至2.025%。"
+    },
+    {
+      "id": "mkt:019f4978-bce6-7aab-8d23-66f2224e9030",
+      "time": "2026-07-10 08:41:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said interest rates are expected to rise gradually as the government actively implements fiscal measures."
+    },
+    {
+      "id": "4979945",
+      "time": "2026-07-10 08:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：預計利率將逐步上升，因政府正實施積極的財政政策。"
+    },
+    {
+      "id": "4979944",
+      "time": "2026-07-10 08:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "迅銷股價下跌4.25%。"
+    },
     {
       "id": "mkt:019f4975-9337-7aab-8d23-59061b69b2e7",
       "time": "2026-07-10 08:37:49",
@@ -144771,81 +144852,6 @@
         "Importance 1"
       ],
       "text": "Singapore Private Sector Growth Picks Up in June — Singapore’s S&P Global PMI rose to 57.4 in June 2026 from 56.7 in May, signaling another notable improvement in operating conditions. The expansion was primarily driven by sustained growth in new orders, supported by strong domestic demand, although output growth eased. The gap between output and new orders led to a significant increase in backlogs of work, which encouraged firms to expand their workforce, ending a two-month period of job shedding. Companies also increased their purchasing activity, allowing them to build up input inventories, resulting in a similarly sharp rise in pre-production stocks. In addition, vendors continued to keep pace with demand, as reflected in a third consecutive monthly improvement in suppliers’ delivery times. On the pricing front, input cost inflation reached a new survey high, while purchase price inflation eased for the first time in eight months. Finally, business confidence for the next 12 months improved noticeably."
-    },
-    {
-      "id": "4968493",
-      "time": "2026-07-03 08:44:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡尼：加拿大聯邦政府、阿爾伯塔省與油砂聯盟已就“路徑專案”（Pathways Project）的啟動條款達成一致。"
-    },
-    {
-      "id": "4968492",
-      "time": "2026-07-03 08:43:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST文峰等成立航天科技新公司】企查查APP顯示，近日，北京星峰航天科技有限公司成立，註冊資本1億元，經營範圍包含衛星導航多模增強應用服務系統整合；衛星遙感應用系統整合；衛星技術綜合應用系統整合；衛星行動通訊終端銷售等。企查查股權穿透顯示，該公司由ST文峰等共同持股。"
-    },
-    {
-      "id": "4968491",
-      "time": "2026-07-03 08:43:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic釋出Fable 5模型的安全防護措施及AI“越獄”行為評估框架】Anthropic釋出一套評估人工智慧“越獄”(jailbreak)行為嚴重程度的擬議框架，並詳細介紹了已在全球上線的Claude Fable 5模型所採用的網路安全防護措施。該公司將網路安全相關使用場景劃分為四類，從“禁止使用”到“無害用途”不等。被禁止的用途包括勒索軟體開發、惡意軟體開發以及網路—物理基礎設施破壞等活動。在建立更完善的控制機制之前，對於滲透測試等具有“雙重用途”屬性的高風險活動將予以攔截。Anthropic提出的網路越獄嚴重程度Cyber Jailbreak Severity評級體系，從CJS-0至CJS-4，共分五級，並依據四個維度進行評估。Anthropic還推出了HackerOne專案，邀請安全研究人員提交潛在的模型越獄案例。"
-    },
-    {
-      "id": "4968490",
-      "time": "2026-07-03 08:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：已與阿爾伯塔省達成共識，新輸油管道的最佳路線是向南經跨山輸油走廊抵達太平洋沿岸。"
-    },
-    {
-      "id": "4968489",
-      "time": "2026-07-03 08:42:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪汽車：2026年6月16日-6月30日，比亞迪新建336座閃充站。累計建成7018座閃充站，已覆蓋全國325座城市。"
-    },
-    {
-      "id": "4968488",
-      "time": "2026-07-03 08:42:14",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【半導體行業組織呼籲美國政府避免採取扭曲儲存晶片市場的舉措】一個半導體行業組織警告特朗普政府，政府試圖透過影響價格或產能來解決全球儲存晶片短缺問題，將會加劇人工智慧AI熱潮導致的歷史性供應緊張局面。在致美國政府高階官員的一封信中，行業協會SEMI呼籲美國允許企業繼續與客戶簽訂長期協議，並延長旨在提高美國產量的稅收優惠政策。三大儲存晶片製造商 —— 總部愛達荷州的美光科技公司，以及韓國的SK海力士和三星電子都是SEMI的會員。據媒體看到的信函副本，SEMI在信中表示：“雖然有針對性的政策可以支援加快國內供應韌性的提升，但扭曲定價或產能決策的干預措施可能會延長需求低迷期。”該組織補充說：“目前的市場狀況正透過投資美國製造業和日益重視長期採購協議來解決。”這封日期為7月1日的信函寫給財政部長斯科特·貝森特、國防部長皮特·海格塞斯、商務部長霍華德·盧特尼克和國務卿馬爾科·魯比奧。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607033792595483",
-      "time": "2026-07-03 08:42:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【特朗普談非農“爆冷”：沃什必須做他該乾的事 但FED理事會有點敵對！】在美國6月非農就業報告“爆冷”打壓了加息預期後，美國總統特朗普拒絕就此向美聯儲主席凱文·沃什提供建議，但他在最新採訪時表示，這位新主席“必須做他必須做的事情”。然後，他隨後補充稱，沃什可能無法強迫央行其他官員按照他的意願制定貨幣政策，因為他面臨著一個“有點敵對”的理事會。"
-    },
-    {
-      "id": "4968487",
-      "time": "2026-07-03 08:41:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【招金黃金：斐濟未對礦業企業設定強制性持股比例限制】7月2日，招金黃金在接待機構調研時表示，斐濟瓦圖科拉金礦現有員工超1000人，其中國內派駐管理、技術骨幹20餘人，其餘均為斐濟本地僱員。當地無強制本地用工比例約束。目前，斐濟未對礦業企業設定強制性持股比例限制。"
-    },
-    {
-      "id": "4968486",
-      "time": "2026-07-03 08:40:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高溫難耐 義大利葡萄酒莊調整員工勞作時間】近期，義大利遭遇罕見持續性熱浪襲擊，多地氣溫重新整理歷史紀錄。在義大利南部西西里島的一家葡萄酒莊，員工們從凌晨5時30分左右便開始了勞作。酒莊負責人蘭達佐表示，為避免高溫下作業，酒莊已調整工作時段。蘭達佐介紹，受高溫天氣影響，今年葡萄藤開花比以往提早了20多天，導致許多農事被迫提前，但這並非偶然，而是氣候變化持續影響下的直接結果。（央視）"
     }
   ]
 }

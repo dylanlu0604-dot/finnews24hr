@@ -1,7 +1,88 @@
 {
   "date": "2026-07-10",
-  "count": 602,
+  "count": 611,
   "items": [
+    {
+      "id": "mkt:019f497a-e7be-7aab-8d23-690e7d57aca7",
+      "time": "2026-07-10 08:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said she hopes to accelerate discussions on expanding household-targeted JGB products."
+    },
+    {
+      "id": "4979950",
+      "time": "2026-07-10 08:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬順集團（控股）有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4979949",
+      "time": "2026-07-10 08:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：支援養老基金（如GPIF）投資日本金融資產。"
+    },
+    {
+      "id": "4979948",
+      "time": "2026-07-10 08:42:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：希望加快面向家庭層面的日本國債產品擴容討論。"
+    },
+    {
+      "id": "4979947",
+      "time": "2026-07-10 08:42:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "【銀河證券：PPI年內高點或將臨近 價格傳導仍待修復】銀河證券認為，PPI年內高點或將臨近，價格傳導仍待修復：預計7月PPI極有可能為PPI同比讀數的階段性高點。一方面，當前原油價格已經接近衝突前水平，儘管仍受美伊局勢擾動而反覆，但若未出現原油供給和運輸通道的實質性中斷，地緣風險溢價對油價的支撐或更多表現為短期脈衝，石化產業鏈對PPI的拉動將邊際減弱，甚至轉為拖累。另一方面,PPI-CPI的剪刀差仍在擴大，反映上游漲價向下遊終端傳導不暢。本輪價格上行更多集中在成本端和部分景氣行業，終端需求承接能力仍然不足，企業向居民消費端轉嫁成本的能力有限，制約工業品價格的上行動能。"
+    },
+    {
+      "id": "4979946",
+      "time": "2026-07-10 08:41:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌0.5個基點，至2.025%。"
+    },
+    {
+      "id": "mkt:019f4978-bce6-7aab-8d23-66f2224e9030",
+      "time": "2026-07-10 08:41:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said interest rates are expected to rise gradually as the government actively implements fiscal measures."
+    },
+    {
+      "id": "4979945",
+      "time": "2026-07-10 08:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：預計利率將逐步上升，因政府正實施積極的財政政策。"
+    },
+    {
+      "id": "4979944",
+      "time": "2026-07-10 08:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "迅銷股價下跌4.25%。"
+    },
     {
       "id": "mkt:019f4975-9337-7aab-8d23-59061b69b2e7",
       "time": "2026-07-10 08:37:49",
