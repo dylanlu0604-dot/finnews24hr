@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-11 01:13:57",
-  "count": 16128,
+  "updated": "2026-07-11 01:17:47",
+  "count": 16130,
   "items": [
+    {
+      "id": "mkt:019f4d08-9afb-7aab-8d37-fff2dd8131eb",
+      "time": "2026-07-11 01:17:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baker Hughes' July 10 North America rig count release has been delayed."
+    },
+    {
+      "id": "mkt:019f4d07-e559-7aab-8d37-f2169e0084ab",
+      "time": "2026-07-11 01:16:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $545 mln from three counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4981781",
+      "time": "2026-07-11 01:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行7月10日接受了提交至逆回購工具的全部5.45億美元申請，申請規模總計也為5.45億美元。"
+    },
+    {
+      "id": "te:economy:566117",
+      "time": "2026-07-11 01:14:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Kosovo Inflation Slows in June — Kosovo's inflation rate eased to 6% year-on-year in June 2026, the lowest level since before the conflict in the Middle East, down from 6.8% in May. Price pressures eased across most sectors, slowing for transport (13.7% vs 14.1%), housing and utilities (11.1% vs 13.2%), alcoholic beverages and tobacco (5.1% vs 5.6%), restaurants and hotels (4.5% vs 5.3%), food (3.9% vs 5.1%), clothing and footwear (2.3% vs 2.4%) and recreation and culture (2% vs 2.7%). Meanwhile, price growth for health and furnishings remained unchanged at 4.1% and 3%, respectively. On a monthly basis, consumer prices edged down 0.1% in June, following a 0.4% decline in the previous month."
+    },
+    {
+      "id": "mkt:019f4d06-4018-7aab-8d37-ec6c66af142f",
+      "time": "2026-07-11 01:14:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli media report the US has asked Israel to refrain from any unusual actions in southern Lebanon. Israel’s political leadership has instructed the Israel Defense Forces to halt all operations in southern Lebanon that are deemed sensitive."
+    },
     {
       "id": "4981780",
       "time": "2026-07-11 01:13:13",
@@ -147026,37 +147076,6 @@
         "其他"
       ],
       "text": "【颱風影響減弱 海南環島高鐵、三亞鳳凰國際機場明日恢復執行】從海南鐵路獲悉，隨著颱風影響減弱，預計4日9時55分起，海南環島高鐵、海口市域列車、三樂旅遊鐵路列車將逐步恢復開行。此外。隨著今年第10號颱風“美莎克”（熱帶風暴級）的影響逐漸減弱，三亞鳳凰國際機場於7月4日6時起陸續恢復航班執行。"
-    },
-    {
-      "id": "4970032",
-      "time": "2026-07-04 01:17:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 9 月布倫特原油期貨結算價報每桶 72.12 美元。"
-    },
-    {
-      "id": "4970031",
-      "time": "2026-07-04 01:17:05",
-      "tags": [
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "摩根大通：預計黃金短期內將維持區間震盪走勢，隨後迎來回升；2026 年第三季度黃金均價為每盎司 4300 美元，2026 年第四季度均價為每盎司 4500 美元。"
-    },
-    {
-      "id": "mkt:019f28fb-c807-7aab-8c99-d86354af382c",
-      "time": "2026-07-04 01:16:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan expects gold to remain rangebound in the near term before rebounding, forecasting an average of $4,300/oz in Q3 2026 and $4,500/oz in Q4 2026."
     }
   ]
 }
