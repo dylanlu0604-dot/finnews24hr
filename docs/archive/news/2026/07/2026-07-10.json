@@ -1,7 +1,120 @@
 {
   "date": "2026-07-10",
-  "count": 785,
+  "count": 797,
   "items": [
+    {
+      "id": "4980077",
+      "time": "2026-07-10 09:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計出口商美元遠期銷售額將增加。"
+    },
+    {
+      "id": "4980076",
+      "time": "2026-07-10 09:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外匯當局表示，延長美元-韓元市場交易時間有助於提升其應對外匯市場穩定風險的能力。"
+    },
+    {
+      "id": "mkt:019f49b9-a193-7aab-8d25-3a76ec666aca",
+      "time": "2026-07-10 09:52:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index and Shenzhen Component Index rose more than 1%; Shanghai Composite up over 0.4%. Photolithography equipment, CPO and memory/storage sectors led gains."
+    },
+    {
+      "id": "4980075",
+      "time": "2026-07-10 09:51:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2972.0點。"
+    },
+    {
+      "id": "mkt:019f49b9-47d3-7aab-8d25-3201b0d400c8",
+      "time": "2026-07-10 09:51:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Promotion for 9th China International Import Expo and 'Export China' Thailand session held in Bangkok】Bangkok, July 9 — A promotional event for the 9th China International Import Expo (CIIE) and the 'Export China' Thailand session took place in Bangkok. MOFCOM vice minister Yan Dong, Chinese ambassador Zhang Jianwei and Thai Department of Trade Promotion director Sunanta attended; more than 200 Chinese and Thai business representatives participated. Yan said China has been Thailand's largest trading partner for 13 consecutive years and that Thailand remains an important ASEAN trade partner; Thai tropical fruit and seafood are selling well in China. He said 2026, the start year of China’s 15th Five-Year Plan, will see CIIE coordinate with 'Export China' activities to step up import expansion. Thailand is a 2026 'Export China' theme country and Thai firms are invited to participate in the 9th CIIE to deepen bilateral trade cooperation."
+    },
+    {
+      "id": "4980074",
+      "time": "2026-07-10 09:51:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報4058.850點；上證指數漲0.40%，現報4052.881點；深證成指漲1.07%，現報15562.811點。"
+    },
+    {
+      "id": "4980073",
+      "time": "2026-07-10 09:50:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報15553.701點；上證指數漲0.39%，現報4052.347點；創業板指漲0.88%，現報4053.458點。"
+    },
+    {
+      "id": "4980072",
+      "time": "2026-07-10 09:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長表示，當前匯率未能反映經濟基本面。"
+    },
+    {
+      "id": "te:markets:565837",
+      "time": "2026-07-10 09:50:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Closed Friday Due to Typhoon Bavi — Taiwan's financial markets will remain closed on Friday after the Taipei City Government ordered offices and schools to close in anticipation of Typhoon Bavi. The Taiwan Stock Exchange also confirmed that all trading will be suspended, with settlements originally scheduled for Friday postponed to the next business day. The closure is expected to temporarily halt trading activity and delay settlement across the island's capital markets. Ahead of the shutdown, Taiwan's benchmark stock index fell 0.8% to close at 45,352 on Thursday, extending its weekly loss to 3.0% amid cautious sentiment. The decline reflected broader risk aversion, with investors also weighing external uncertainties, including global trade developments and expectations for major central bank policy, before markets pause for the storm."
+    },
+    {
+      "id": "4980071",
+      "time": "2026-07-10 09:50:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊拉昇，華電遼能漲停】電力板塊拉昇，華電遼能漲停，大連熱電、華能蒙電、大唐發電、粵電力A紛紛上揚。"
+    },
+    {
+      "id": "mkt:019f49b7-af4e-7aab-8d25-2dd2a618ea1b",
+      "time": "2026-07-10 09:50:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan 10-year government bond yield fell 10 bps to 2.775%; 20-year yield fell 10 bps to 3.765%."
+    },
+    {
+      "id": "4980070",
+      "time": "2026-07-10 09:49:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大和證券：片山皋月關於GPIF的言論或將帶動日本股債匯“三重上漲”】大和證券表示，日本財務大臣片山皋月表示，日本希望鼓勵包括政府養老投資基金(GPIF)在內的養老基金增加對國內金融資產的投資，此番的言論可能有助於帶動日本股市、債市和日元的“三重上漲”。  其特意提及GPIF的投資組合管理，這引發了外界猜測，認為該基金可能會增加對日本資產的配置，鑑於GPIF管理資產規模龐大，其潛在的動向“不容忽視”。"
+    },
     {
       "id": "mkt:019f49b6-a8c8-7aab-8d25-260044fb05ba",
       "time": "2026-07-10 09:48:55",

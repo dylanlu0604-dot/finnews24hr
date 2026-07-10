@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-10 09:49:43",
-  "count": 15811,
+  "updated": "2026-07-10 09:53:31",
+  "count": 15812,
   "items": [
+    {
+      "id": "4980077",
+      "time": "2026-07-10 09:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計出口商美元遠期銷售額將增加。"
+    },
+    {
+      "id": "4980076",
+      "time": "2026-07-10 09:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外匯當局表示，延長美元-韓元市場交易時間有助於提升其應對外匯市場穩定風險的能力。"
+    },
+    {
+      "id": "mkt:019f49b9-a193-7aab-8d25-3a76ec666aca",
+      "time": "2026-07-10 09:52:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index and Shenzhen Component Index rose more than 1%; Shanghai Composite up over 0.4%. Photolithography equipment, CPO and memory/storage sectors led gains."
+    },
+    {
+      "id": "4980075",
+      "time": "2026-07-10 09:51:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2972.0點。"
+    },
+    {
+      "id": "mkt:019f49b9-47d3-7aab-8d25-3201b0d400c8",
+      "time": "2026-07-10 09:51:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Promotion for 9th China International Import Expo and 'Export China' Thailand session held in Bangkok】Bangkok, July 9 — A promotional event for the 9th China International Import Expo (CIIE) and the 'Export China' Thailand session took place in Bangkok. MOFCOM vice minister Yan Dong, Chinese ambassador Zhang Jianwei and Thai Department of Trade Promotion director Sunanta attended; more than 200 Chinese and Thai business representatives participated. Yan said China has been Thailand's largest trading partner for 13 consecutive years and that Thailand remains an important ASEAN trade partner; Thai tropical fruit and seafood are selling well in China. He said 2026, the start year of China’s 15th Five-Year Plan, will see CIIE coordinate with 'Export China' activities to step up import expansion. Thailand is a 2026 'Export China' theme country and Thai firms are invited to participate in the 9th CIIE to deepen bilateral trade cooperation."
+    },
+    {
+      "id": "4980074",
+      "time": "2026-07-10 09:51:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報4058.850點；上證指數漲0.40%，現報4052.881點；深證成指漲1.07%，現報15562.811點。"
+    },
+    {
+      "id": "4980073",
+      "time": "2026-07-10 09:50:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報15553.701點；上證指數漲0.39%，現報4052.347點；創業板指漲0.88%，現報4053.458點。"
+    },
+    {
+      "id": "4980072",
+      "time": "2026-07-10 09:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長表示，當前匯率未能反映經濟基本面。"
+    },
+    {
+      "id": "te:markets:565837",
+      "time": "2026-07-10 09:50:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Closed Friday Due to Typhoon Bavi — Taiwan's financial markets will remain closed on Friday after the Taipei City Government ordered offices and schools to close in anticipation of Typhoon Bavi. The Taiwan Stock Exchange also confirmed that all trading will be suspended, with settlements originally scheduled for Friday postponed to the next business day. The closure is expected to temporarily halt trading activity and delay settlement across the island's capital markets. Ahead of the shutdown, Taiwan's benchmark stock index fell 0.8% to close at 45,352 on Thursday, extending its weekly loss to 3.0% amid cautious sentiment. The decline reflected broader risk aversion, with investors also weighing external uncertainties, including global trade developments and expectations for major central bank policy, before markets pause for the storm."
+    },
+    {
+      "id": "4980071",
+      "time": "2026-07-10 09:50:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊拉昇，華電遼能漲停】電力板塊拉昇，華電遼能漲停，大連熱電、華能蒙電、大唐發電、粵電力A紛紛上揚。"
+    },
+    {
+      "id": "mkt:019f49b7-af4e-7aab-8d25-2dd2a618ea1b",
+      "time": "2026-07-10 09:50:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan 10-year government bond yield fell 10 bps to 2.775%; 20-year yield fell 10 bps to 3.765%."
+    },
+    {
+      "id": "4980070",
+      "time": "2026-07-10 09:49:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大和證券：片山皋月關於GPIF的言論或將帶動日本股債匯“三重上漲”】大和證券表示，日本財務大臣片山皋月表示，日本希望鼓勵包括政府養老投資基金(GPIF)在內的養老基金增加對國內金融資產的投資，此番的言論可能有助於帶動日本股市、債市和日元的“三重上漲”。  其特意提及GPIF的投資組合管理，這引發了外界猜測，認為該基金可能會增加對日本資產的配置，鑑於GPIF管理資產規模龐大，其潛在的動向“不容忽視”。"
+    },
     {
       "id": "mkt:019f49b6-a8c8-7aab-8d25-260044fb05ba",
       "time": "2026-07-10 09:48:55",
@@ -144261,109 +144374,6 @@
         "Importance 1"
       ],
       "text": "South Korean Shares Rebound on Bargain Hunting — The benchmark KOSPI rose more than 1% to around 7,760 on Friday, recovering part of the previous session's losses as bargain hunting lifted heavyweight semiconductor shares. Samsung Electronics and SK hynix rebounded nearly 4% and 2%, respectively, after suffering sharp declines a day earlier, helping lift the index despite continued weakness in global chip shares. Other gainers included Hanwha Aerospace (4.2%), KB Financial Group (3.4%), Shinhan Financial Group (4.9%), LG Energy Solution (1.3%), and Kia Corporation (1.5%). At the same time, Samsung Electronics remained in focus after reports that AI startup Anthropic is in talks with the company to develop custom AI chips, lending additional support to the semiconductor sector. Sentiment was also supported by weaker-than-expected US June jobs data, which strengthened expectations that the Federal Reserve could ease monetary policy in the coming months, boosting broader risk appetite."
-    },
-    {
-      "id": "4968663",
-      "time": "2026-07-03 09:52:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工業氣體概念股震盪走弱 金宏氣體跌超12%】工業氣體概念股震盪走弱，金宏氣體跌超12%，巨化股份、正帆科技、凱美特氣等股下跌。"
-    },
-    {
-      "id": "4968662",
-      "time": "2026-07-03 09:52:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【芬蘭解除核禁令 俄將其列為核打擊目標】俄羅斯聯邦安全會議副主席梅德韋傑夫2日表示，芬蘭解除在其領土上部署核武器的禁令後，它已成為俄羅斯核打擊的目標。梅德韋傑夫當天在社交媒體上發文說，芬蘭已解除在其領土上部署核武器的禁令，這給芬蘭人帶來一個變化，就是他們的國家現在已被俄羅斯列為核打擊目標。（新華社）"
-    },
-    {
-      "id": "4968661",
-      "time": "2026-07-03 09:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "同仁堂健康香港IPO定價5.50港元。（IFR）"
-    },
-    {
-      "id": "mkt:019f25ac-ff5b-7aab-8c88-cdee46103a11",
-      "time": "2026-07-03 09:52:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bullish",
-        "00100.HK",
-        "03896.HK"
-      ],
-      "text": "Hong Kong AI application stocks extended gains: Zhipu (02513.HK) up nearly 15%, MINIMAX-W (00100.HK) up over 6%; Kingsoft Cloud (03896.HK) and Horizon Robotics (09660.HK) also climbed."
-    },
-    {
-      "id": "mkt:019f25ac-ce2c-7aab-8c88-c673296bc4f9",
-      "time": "2026-07-03 09:51:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 20-year bond yield fell 1.5bps to 3.750%."
-    },
-    {
-      "id": "4968660",
-      "time": "2026-07-03 09:51:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震搜救仍在進行 拉瓜伊拉州政府官員幾乎全部遇難】當地時間2日，委內瑞拉代總統羅德里格斯召開震後一週新聞釋出會。羅德里格斯稱，委內瑞拉地震導致189座建築物完全倒塌，地震搜救仍在繼續。羅德里格斯表示，委內瑞拉在地震發生後立即部署了應急系統。重災區拉瓜伊拉州政府及市政廳的官員幾乎全部遇難，該州的軍事和警察部隊也有大量人員傷亡。"
-    },
-    {
-      "id": "4968659",
-      "time": "2026-07-03 09:51:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4968658",
-      "time": "2026-07-03 09:50:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率下跌1.5個基點至3.750%。"
-    },
-    {
-      "id": "te:economy:563937",
-      "time": "2026-07-03 09:50:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Services PMI",
-        "Importance 2"
-      ],
-      "text": "China Services Growth Beats Forecasts — The RatingDog China General Services PMI declined to 54.1 in June 2026 from May's three-month high of 54.4. However, the latest reading exceeded market forecasts of 53.0, supported by growth in new orders, although the pace of increase eased slightly while remaining above the trend seen during the current expansion period. Foreign demand supported the overall increase in new business, growing for the second consecutive month and at the fastest pace since October 2024."
-    },
-    {
-      "id": "4968657",
-      "time": "2026-07-03 09:50:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國第16次北冰洋考察啟航】7月3日，由自然資源部組織的中國第16次北冰洋考察隊“雪龍”號、“雪龍2”號、北海局“極地”號從大連啟航，這是“十五五”開局之年我國組織實施的首次北冰洋考察，由“雪龍”號、“雪龍2”號、北海局“極地”號、“探索三號”四船共同實施，預計10月上旬完成考察任務。"
-    },
-    {
-      "id": "mkt:019f25aa-e168-7aab-8c88-bd8bcca11d0d",
-      "time": "2026-07-03 09:49:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【EU to propose ban on social media use by minors】European media reported on July 2 that the European Commission is expected to unveil in September a proposal to ban minors from using social media across the EU. Commission President Ursula von der Leyen is slated to announce the recommendation in her State of the Union address on September 16; member states have been briefed. A child online safety advisory group will deliver a report on September 13 to inform the Commission. The proposed age threshold and enforcement details remain unclear; member states are debating options ranging from an outright ban for under‑age groups to requiring parental consent."
     }
   ]
 }
