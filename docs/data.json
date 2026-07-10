@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-10 22:11:37",
-  "count": 15926,
+  "updated": "2026-07-10 22:15:47",
+  "count": 15929,
   "items": [
+    {
+      "id": "mkt:019f4c61-c048-7aab-8d34-901002526b17",
+      "time": "2026-07-10 22:15:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK chairman Chey Tae-won said the group is willing to increase investment in the United States."
+    },
+    {
+      "id": "4981516",
+      "time": "2026-07-10 22:14:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團會長崔泰源在接受採訪時表示，對包括在美建廠生產晶片在內的更多投資持開放態度。"
+    },
+    {
+      "id": "4981515",
+      "time": "2026-07-10 22:14:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【聯合海上資訊中心：霍爾木茲海峽南部航道仍然開放】由美國主導的聯合海上資訊中心10日釋出通報說，由美軍提供通航協助的霍爾木茲海峽南部航道仍然處於開放狀態。但多家海事資訊平臺統計資料顯示，近日僅有零星船舶從南部航道透過海峽。 上述通報由英國海上貿易行動辦公室當天對外發布。通報說，霍爾木茲海峽海上安全威脅等級仍為“嚴重”，但“霍爾木茲海峽南部航道已得到擴充套件，並繼續向所有船舶開放”。 然而，溫沃德海事分析公司等機構的資料顯示，由於美伊持續交火，霍爾木茲海峽通航量近日急劇下降，南部航道基本被棄用，只有零星船舶通行。 美伊諒解備忘錄達成後，霍爾木茲海峽主要有兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。聯合海上資訊中心在通報中提到：“任何航道均不存在負責管理船舶通行的主管機構，也無需繳納任何通行費用。” 今年5月，伊朗宣佈成立管理霍爾木茲海峽的新機構“波斯灣海峽管理局”，要求在相關水域通行的船隻與伊方協調並取得許可。美國政府隨即將該機構列入制裁名單。(新華社)"
+    },
+    {
+      "id": "4981514",
+      "time": "2026-07-10 22:13:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團董事長崔泰源在接受採訪時表示，對在美國進一步投資持開放態度。"
+    },
+    {
+      "id": "mkt:019f4c5f-f9a0-7aab-8d34-8c368f70737d",
+      "time": "2026-07-10 22:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN Security Council holds meeting on Iran's nuclear programme."
+    },
+    {
+      "id": "4981513",
+      "time": "2026-07-10 22:12:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩納巴蒂耶省再遭兩起以色列無人機襲擊，一處發生在卡夫魯曼鎮，另一處位於上納巴蒂耶鎮。"
+    },
+    {
+      "id": "4981512",
+      "time": "2026-07-10 22:12:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【飛行中舷窗“脫落” 瑞安航空一客機緊急降落希臘】當地時間7月10日，歐洲最大廉價航空公司愛爾蘭瑞安航空公司表示，其一架客機在希臘塞薩洛尼基機場起飛後不久，因舷窗“脫落”被迫緊急降落。希臘方面訊息稱，飛機發動機部件脫落並砸碎了一扇舷窗，導致機艙失壓，一名乘客被部分吸出窗外。該航空公司表示，一名乘客接受了醫療救助，但未詳細說明事故原因。這架飛機原計劃從希臘塞薩洛尼基飛往德國梅明根機場。瑞安航空在一份宣告中表示：“飛機正常著陸，乘客已返回航站樓。”（央視新聞）"
+    },
+    {
+      "id": "4981511",
+      "time": "2026-07-10 22:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克總統邀請美國總統特朗普訪問哈薩克。"
+    },
+    {
+      "id": "4981510",
+      "time": "2026-07-10 22:10:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國聯邦參議院批准醫療改革，掃清了立法的最後障礙。"
+    },
     {
       "id": "4981509",
       "time": "2026-07-10 22:10:26",
@@ -320,6 +395,15 @@
         "國際"
       ],
       "text": "【NYMEX天然氣主力合約跌超4%】NYMEX天然氣主力合約跌超4%，現報2.88美元/百萬英熱。"
+    },
+    {
+      "id": "4981486",
+      "time": "2026-07-10 22:00:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【金融時報：AI的錢，開始流向英偉達之外了】SK海力士完成ADS發行定價的真正意義，不是一家韓國公司融了多少錢，而是AI投資邏輯正在發生轉變：過去聊AI，所有人只盯著英偉達；未來聊AI，必須看完整條產業鏈。高頻寬記憶體、先進封裝、伺服器、資料中心、電力裝置、半導體制造……這些AI底層基建的重要性正在急劇提升。資本也開始從少數明星企業，流向更長、更紮實的產業鏈環節。從阿里巴巴到SK海力士，兩項紀錄相隔12年，改變的不只是融資數字，更是全球科技產業的主線方向：2014年，市場追逐的是網際網路平臺；12年後，資本開始加速流向AI基礎設施。"
     },
     {
       "id": "te:markets:566075",
@@ -145183,71 +145267,6 @@
         "國際"
       ],
       "text": "波蘭銅業集團（KGHM Polska Miedz SA）：與濱海省就普克多水鉀鎂鹽礦專案合作簽署諒解備忘錄。普克專案基於米耶羅希諾礦床，估計地質資源量超過3.03億噸。將準備申請該礦床採礦特許權所需的檔案。獲得該專案的相關審批決定可能需要大約6年時間。"
-    },
-    {
-      "id": "4969934",
-      "time": "2026-07-03 22:15:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將7月4日盧布官方匯率定為1美元兌77.2264盧布（前值為77.9293）。"
-    },
-    {
-      "id": "te:economy:564191",
-      "time": "2026-07-03 22:15:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tanzania",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Tanzania Lifts Key Policy Rate to 6.25% — The Bank of Tanzania raised its key interest rate by 50 basis points to 6.25% on July 3rd, 2026, marking its first hike since April 2024. Policymakers said the decision was intended to ensure inflation remains within the 3%–5% target range while sustaining economic growth. The annual inflation rate inched up to 4.2% in May from 4% in April, marking the highest level since April 2023, on the back of higher fuel and fertilizer costs amid the Middle East crisis. Looking ahead, the central bank expects inflationary pressures to remain contained, supported by a strong harvest that should keep food prices stable and robust export earnings that are expected to cushion exchange rate pass-through to import prices. Meanwhile, the MPC said economic growth remained resilient despite external headwinds, including the ongoing Middle East conflict, with GDP projected to expand by around 6% in the first half of 2026."
-    },
-    {
-      "id": "mkt:019f2854-f9f8-7aab-8c97-7216c218df2f",
-      "time": "2026-07-03 22:14:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Toronto Stock Exchange index rose 1%."
-    },
-    {
-      "id": "mkt:019f2854-e496-7aab-8c97-69339a16430e",
-      "time": "2026-07-03 22:14:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guizhou launches three-year export push for baijiu】Guizhou provincial government office issued a 2026–2030 action plan to shift marketing “from selling liquor to selling a lifestyle” and to promote Guizhou baijiu overseas. The plan calls for a three-year outbound campaign, urging firms to innovate cooperation and export models, set up overseas exhibition-and-sales centres, and develop products tailored to international consumption habits and scenarios. It mandates at least six annual \"Qian Liquor Global Tour\" events leveraging embassies, consulates and trade associations to embed Guizhou baijiu in global consumer channels, and links outbound promotion with inbound tourism to support two-way growth."
-    },
-    {
-      "id": "4969933",
-      "time": "2026-07-03 22:14:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州：實施貴州白酒出海三年行動】貴州省人民政府辦公廳印發《貴州省打造“賣酒向賣生活方式”轉變升級版行動方案（2026—2030年）》，方案提出，推動貴州白酒出海。實施貴州白酒出海三年行動，鼓勵企業創新合作與出口模式，建立海外展銷中心，開發適配國際消費習慣和消費場景的新產品。每年統籌舉辦不少於6場“黔酒全球行”等活動，藉助使領館、商協會等渠道，讓貴州白酒融入全球生活，傳遞“醉美”文化魅力。聯動白酒出海與入境旅遊，推動雙向促進。"
-    },
-    {
-      "id": "te:economy:564188",
-      "time": "2026-07-03 22:12:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Swiss 10-Year Bond Yield Edges Up — Switzerland's 10-year bond yield rose to 0.33% at the start of July as easing geopolitical tensions improved risk appetite and reduced demand for safe-haven assets despite lingering uncertainty over a lasting agreement. Meanwhile, Swiss inflation slowed in June for the first time in eight months to 0.5%, remaining within the Swiss National Bank's 0-2% target range. The SNB kept interest rates at 0%, preferring to rely on currency interventions to curb excessive franc appreciation and pushing inflation too low through cheaper imports. The International Monetary Fund urged the SNB to remain ready to raise rates or cut them into negative territory if a stagflation scenario occurs, while the central bank reiterated its willingness to intervene in currency markets. Policymakers expect inflation to pick up modestly later this year but remain stable over the medium term, as energy supply disruptions ease, while the government trimmed its own 2026 domestic growth forecast to 0.9%."
-    },
-    {
-      "id": "4969931",
-      "time": "2026-07-03 22:12:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：挪威國家電網公司在投訴審查後撤銷對NORCONSULT的授標決定。"
     }
   ]
 }
