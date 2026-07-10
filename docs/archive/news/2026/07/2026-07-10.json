@@ -1,7 +1,87 @@
 {
   "date": "2026-07-10",
-  "count": 2295,
+  "count": 2305,
   "items": [
+    {
+      "id": "mkt:019f4bf1-0efc-7aab-8d32-3776938f5322",
+      "time": "2026-07-10 20:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it supports all efforts to ease tensions between the United States and Iran."
+    },
+    {
+      "id": "mkt:019f4bef-784c-7aab-8d32-286a9bbd98ea",
+      "time": "2026-07-10 20:10:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【AI voice startup Gradium raises $100m seed round reopened to new investors including NVIDIA】Paris-headquartered AI voice startup Gradium reopened its seed round to new investors and the round has reached $100m, with new backers including NVIDIA. Gradium will use proceeds to open a San Francisco Bay Area office to recruit local talent and said the move aims to consolidate its position in the core of the global AI ecosystem, reflecting the perceived benefits of proximity to Anthropic, Google, Meta and OpenAI."
+    },
+    {
+      "id": "4981288",
+      "time": "2026-07-10 20:10:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中控技術與南通星辰達成深度戰略合作】近日，中控技術與南通星辰合成材料有限公司（簡稱“南通星辰”）正式簽署全面深化的戰略合作協議。雙方將充分融合中控技術在流程工業自動化與工業AI領域的技術積澱，以及南通星辰在化工新材料行業的深厚場景經驗，以中控技術自主研發的時間序列大模型平臺TPT為核心技術底座，圍繞工廠“內操智慧化、外操無人化”兩大核心方向開展全方位深度協同，合力打造化工新材料行業工業AI智慧化示範標杆。(人民財訊)"
+    },
+    {
+      "id": "4981287",
+      "time": "2026-07-10 20:09:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：各方必須執行華盛頓與德黑蘭之間的諒解備忘錄。"
+    },
+    {
+      "id": "4981286",
+      "time": "2026-07-10 20:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰島6月份失業率降至4%。"
+    },
+    {
+      "id": "4981285",
+      "time": "2026-07-10 20:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【溫州防颱風應急響應提升至Ⅰ級】據“溫州釋出”訊息，今年9號颱風“巴威”今天19時位於溫州南偏東方向約817公里的洋麵上，中心附近最大風力13級，最大可能於11日白天掠過臺灣島北部沿海，並於11日晚上在福建霞浦至浙江玉環一帶沿海登陸。受其影響，10日夜裡溫州沿海海面風力10-12級，11日13-15級，11-12日我市有暴雨到大暴雨，部分特大暴雨，防汛防颱形勢嚴峻。根據《溫州市防汛防颱抗旱應急預案》，經會商研判，市防指決定於7月10日20時起將防颱風應急響應提升為Ⅰ級。請各地各部門按照市委市政府和市防指的工作部署，進一步加大防禦工作力度，全面落實各項防禦措施。"
+    },
+    {
+      "id": "4981284",
+      "time": "2026-07-10 20:08:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行官員：7月經濟預測為任何加息討論畫上句號。"
+    },
+    {
+      "id": "mkt:019f4bed-a1ac-7aab-8d32-232e08fcd1f7",
+      "time": "2026-07-10 20:08:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Qatar's foreign ministry said all parties must implement the memorandum of understanding between Washington and Tehran."
+    },
+    {
+      "id": "4981283",
+      "time": "2026-07-10 20:07:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行官員：有理由考慮在今年晚些時候降息。"
+    },
     {
       "id": "mkt:019f4bed-2d4e-7aab-8d32-1ec9b6729f2b",
       "time": "2026-07-10 20:07:42",
@@ -30,6 +110,14 @@
         "國際"
       ],
       "text": "訊息人士稱俄羅斯汽油產量已降至僅能滿足65%需求的水平。"
+    },
+    {
+      "id": "4981281",
+      "time": "2026-07-10 20:07:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中央層面整治形式主義為基層減負專項工作機制會議在京召開 蔡奇出席並講話】中央層面整治形式主義為基層減負專項工作機制會議7月10日在京召開。中共中央政治局常委、中央書記處書記蔡奇出席會議並講話。他強調，要深入學習貫徹習近平總書記“七一”重要講話精神，學習貫徹習近平黨建思想，把整治形式主義為基層減負同實現新時代新徵程黨的使命任務聯絡起來，和保持黨同人民群眾的血肉聯絡聯絡起來，結合開展樹立和踐行正確政績觀學習教育，持續深化拓展整治形式主義為基層減負工作，更好把減負成效轉化為治理效能。（新華社）"
     },
     {
       "id": "mkt:019f4beb-d010-7aab-8d32-0e19f025e7a2",
