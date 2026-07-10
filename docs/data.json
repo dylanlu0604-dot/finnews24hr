@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-11 02:40:11",
+  "updated": "2026-07-11 02:44:04",
   "count": 16201,
   "items": [
+    {
+      "id": "4981858",
+      "time": "2026-07-11 02:42:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美國、伊朗、巴基斯坦與卡達將舉行四方通話】總檯記者獲悉，沙特方面10日晚有資訊顯示，訊息人士稱，美國、伊朗、巴基斯坦和卡達將舉行四方通話。截至目前，相關內容暫未有任何相關方證實。（央視新聞）"
+    },
+    {
+      "id": "4981857",
+      "time": "2026-07-11 02:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊與沙特外交於週四晚間通電話，就美國近期對伊朗實施打擊後的地區局勢交換了意見。"
+    },
+    {
+      "id": "mkt:019f4d54-70ec-7aab-8d38-dc8318c39820",
+      "time": "2026-07-11 02:40:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CNN reports satellite imagery indicates Iran may be rebuilding parts of its nuclear facilities."
+    },
     {
       "id": "4981856",
       "time": "2026-07-11 02:38:22",
@@ -147672,36 +147701,6 @@
         "公司"
       ],
       "text": "【智利兩大礦企為鋰合資專案增產70%規劃路徑】智利化工礦業(SQM)和智利國家銅業(Codelco)正為其大型鋰合資專案增產逾70%鋪路，對電池需求進行長期押注。在一份關於30億美元業務改造計劃的環境影響研究中，該合資企業Novandino表示，其目標是年產量最高達到47萬噸。相比之下，今年的指引約為27萬噸。該公司沒有說明何時將達到這一新目標。除了電動汽車需求外，電網級電池儲能也在拉動需求，Novandino希望抓住全球鋰消費兩位數增長的機遇。隨著該行業走出全球供應過剩，這一擴張可能給成本較高的競爭對手帶來壓力。儘管如此，新增產量仍需數年時間才能實現。根據週五提交的檔案，在現有框架下，產量預計將逐步升至約30萬噸，之後該合資企業將開始為期七年的過渡，轉向納入直接鋰提取等技術的綜合生產系統。"
-    },
-    {
-      "id": "mkt:019f294a-32be-7aab-8c9a-59e365e37311",
-      "time": "2026-07-04 02:42:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Senior NATO commander says Europe has filled most of the gap created by U.S. cuts to its share within NATO."
-    },
-    {
-      "id": "te:economy:564222",
-      "time": "2026-07-04 02:42:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Holds at 3.44% — Canada's 10-year government bond yield held steady at 3.44% in July as lower oil prices and weaker-than-expected US jobs data reinforced expectations of a more accommodative monetary policy outlook. Oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation and supporting expectations that the BoC will keep interest rates unchanged if disinflation continues. Meanwhile, North American bond yields came under pressure after weak US labor market data reduced expectations of a near-term Federal Reserve rate hike. Uncertainty surrounding negotiations to revise the USMCA also weighed on Canada's economic outlook, dampening prospects for future BoC tightening. At the same time, the Bank of Canada's preferred core inflation measures remained close to the 2% target in May despite higher energy prices, supporting the view that the inflationary effects of the Iran conflict are likely to be temporary."
-    },
-    {
-      "id": "4970050",
-      "time": "2026-07-04 02:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯全國選舉委員會宣佈藤森慶子當選總統】秘魯全國選舉委員會於當地時間7月3日正式宣佈總統選舉結果，人民力量黨候選人藤森慶子在總統選舉第二輪投票中獲得50.135%的有效選票當選秘魯新一屆總統。當選總統將於本月28日宣誓就職，任期5年。"
     }
   ]
 }

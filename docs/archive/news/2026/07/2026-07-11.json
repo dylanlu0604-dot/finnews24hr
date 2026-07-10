@@ -1,7 +1,36 @@
 {
   "date": "2026-07-11",
-  "count": 222,
+  "count": 225,
   "items": [
+    {
+      "id": "4981858",
+      "time": "2026-07-11 02:42:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美國、伊朗、巴基斯坦與卡達將舉行四方通話】總檯記者獲悉，沙特方面10日晚有資訊顯示，訊息人士稱，美國、伊朗、巴基斯坦和卡達將舉行四方通話。截至目前，相關內容暫未有任何相關方證實。（央視新聞）"
+    },
+    {
+      "id": "4981857",
+      "time": "2026-07-11 02:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊與沙特外交於週四晚間通電話，就美國近期對伊朗實施打擊後的地區局勢交換了意見。"
+    },
+    {
+      "id": "mkt:019f4d54-70ec-7aab-8d38-dc8318c39820",
+      "time": "2026-07-11 02:40:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CNN reports satellite imagery indicates Iran may be rebuilding parts of its nuclear facilities."
+    },
     {
       "id": "4981856",
       "time": "2026-07-11 02:38:22",
