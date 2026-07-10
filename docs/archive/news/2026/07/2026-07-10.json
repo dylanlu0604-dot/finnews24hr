@@ -1,7 +1,108 @@
 {
   "date": "2026-07-10",
-  "count": 2591,
+  "count": 2603,
   "items": [
+    {
+      "id": "te:markets:566076",
+      "time": "2026-07-10 22:06:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher After Jobs Report — The S&P/TSX Composite Index edged up to trade above 35,000 on Friday, near its record amid a strong jobs report. Domestic employment in rose by 18,200 in June to extend the 88,000 addition in May, while the unemployment rate unexpectedly fell and tied the lowest level in nearly two years. Financials traded mixed as a strong economy balanced with less urgency for the BoC to cut rates, with Brookfield up nearly 2%, while TD Bank shed about 1%. In the tech sector, Shopify jumped 4%, following an earlier rally in the US after SK Hynix raised $26.5 billion in its American depositary receipt offering, powering through volatility to deliver the largest-ever US first-time stock sale by a foreign company. Elsewhere, Velan (-2%) reported an adjusted first-quarter net loss."
+    },
+    {
+      "id": "4981499",
+      "time": "2026-07-10 22:06:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長表示：過去七個季度，聯名信用卡的消費支出一直保持兩位數增長，其中我們的優質尊藍會籍卡持卡人貢獻的增長尤為強勁。"
+    },
+    {
+      "id": "mkt:019f4c59-79b0-7aab-8d34-6bb9e0b714a1",
+      "time": "2026-07-10 22:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kazakh President Tokayev held talks with U.S. President Trump."
+    },
+    {
+      "id": "4981498",
+      "time": "2026-07-10 22:05:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長：消費者如今更看重出行體驗，願意為對自身意義重大的美好時刻與人際往來消費，支撐行業需求持續向好"
+    },
+    {
+      "id": "4981497",
+      "time": "2026-07-10 22:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國安理會正式召開以 “防擴散” 為議題的會議，審議第 2231 號決議執行情況，該決議核准了伊朗核問題全面協議。"
+    },
+    {
+      "id": "4981496",
+      "time": "2026-07-10 22:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部表示，已提交與基斯通輸油管道所有者及運營方達成的擬議和解協議，以解決該管道2022年在堪薩斯州發生洩漏所引發的《清潔水法》違規問題。"
+    },
+    {
+      "id": "4981495",
+      "time": "2026-07-10 22:05:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "達美航空執行長表示，受強勁就業、家庭收入增長以及大規模財富顯著累積的支撐，美國經濟仍保持韌性。"
+    },
+    {
+      "id": "mkt:019f4c58-8f38-7aab-8d34-60bdf2d7f6bf",
+      "time": "2026-07-10 22:04:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's foreign minister will visit Thailand on July 12-13."
+    },
+    {
+      "id": "4981494",
+      "time": "2026-07-10 22:04:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡外交部長將於7月12日至13日訪問泰國。"
+    },
+    {
+      "id": "4981493",
+      "time": "2026-07-10 22:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外長菲丹：美國對北約費用分攤問題提出不滿是合理的。"
+    },
+    {
+      "id": "4981492",
+      "time": "2026-07-10 22:03:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股儲存概念股拉昇，希捷科技上漲1.7%，西部資料、閃迪抹去盤初跌幅轉漲，美光科技跌幅收窄至1.2%。"
+    },
+    {
+      "id": "4981491",
+      "time": "2026-07-10 22:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵：荷蘭檢方傳喚塔塔鋼鐵艾默伊登工廠，原因是該工廠涉嫌汙染相關刑事犯罪。"
+    },
     {
       "id": "mkt:019f4c56-3d42-7aab-8d34-5d5e438f239f",
       "time": "2026-07-10 22:02:27",
