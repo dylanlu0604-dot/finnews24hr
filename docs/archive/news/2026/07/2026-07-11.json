@@ -1,7 +1,51 @@
 {
   "date": "2026-07-11",
-  "count": 30,
+  "count": 35,
   "items": [
+    {
+      "id": "4981727",
+      "time": "2026-07-11 00:18:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "該知情人士在接受採訪時否認了有關伊斯蘭堡談判籌備工作已準備就緒、下週將繼續開展技術性磋商的相關報道，稱這些訊息均為不實資訊，沒有任何事實依據。"
+    },
+    {
+      "id": "4981726",
+      "time": "2026-07-11 00:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗赴伊斯蘭堡談判代表團成員表示，特朗普政府履行相關承諾前，不會開展任何談判。"
+    },
+    {
+      "id": "mkt:019f4cd1-8a3a-7aab-8d37-576e9735043e",
+      "time": "2026-07-11 00:17:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News cited people familiar with the matter denying reports that preparations for Iran-U.S. talks in Islamabad have been completed."
+    },
+    {
+      "id": "mkt:019f4cd1-1157-7aab-8d37-48807c83bc8f",
+      "time": "2026-07-11 00:16:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media Fars News, citing sources close to Iran’s negotiating team, said reports that Iran and the US will hold a new round of talks next week are not true."
+    },
+    {
+      "id": "4981725",
+      "time": "2026-07-11 00:16:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士ADR開盤較發行價上漲14% 高管稱未來可能增發】SK海力士美國存託憑證(ADR)上市首日開盤較發行價上漲14%。這家韓國儲存晶片製造商此次募股總計融資265億美元，創下外國企業赴美上市之最。SK海力士ADR週五在紐約以170美元開盤，高於149美元的發行價。此次大型上市交易打消了市場對近期晶片股劇烈波動的擔憂，另一方面也反映出投資者希望直接投資這家在人工智慧高頻寬儲存器(HBM)領域佔據領先地位的企業。由於韓國上市普通股轉換為ADR受到限制，SK海力士ADR目前較韓國上市普通股收盤價溢價約17%。崔泰源在接受採訪時暗示，如果公司能夠持續創造更好的回報、進一步激發投資者需求，未來可能再次在美國發行股票。他說：“前提是能夠帶來更好的回報。一旦回報改善，市場需求就會增加。我們首先要做的是保持股價穩定，長期來看，希望還能擁有進一步上漲的空間。”"
+    },
     {
       "id": "te:markets:566105",
       "time": "2026-07-11 00:14:08",
