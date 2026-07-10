@@ -1,7 +1,34 @@
 {
   "date": "2026-07-11",
-  "count": 356,
+  "count": 359,
   "items": [
+    {
+      "id": "mkt:019f4de0-b1b3-7aab-8d3a-699255c0d0e4",
+      "time": "2026-07-11 05:13:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior US official said they expect Iran to announce it will waive transit fees for passage through the Strait of Hormuz and pledge not to fire on vessels."
+    },
+    {
+      "id": "4981934",
+      "time": "2026-07-11 05:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：預計伊朗將宣佈霍爾木茲海峽不收通行費。"
+    },
+    {
+      "id": "4981933",
+      "time": "2026-07-11 05:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部（DHS）表示：各州必須推行合乎常理的選舉安全舉措，方可申領聯邦配套資金。"
+    },
     {
       "id": "4981932",
       "time": "2026-07-11 05:09:35",

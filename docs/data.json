@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-11 05:10:33",
-  "count": 16234,
+  "updated": "2026-07-11 05:14:26",
+  "count": 16236,
   "items": [
+    {
+      "id": "mkt:019f4de0-b1b3-7aab-8d3a-699255c0d0e4",
+      "time": "2026-07-11 05:13:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior US official said they expect Iran to announce it will waive transit fees for passage through the Strait of Hormuz and pledge not to fire on vessels."
+    },
+    {
+      "id": "4981934",
+      "time": "2026-07-11 05:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：預計伊朗將宣佈霍爾木茲海峽不收通行費。"
+    },
+    {
+      "id": "4981933",
+      "time": "2026-07-11 05:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部（DHS）表示：各州必須推行合乎常理的選舉安全舉措，方可申領聯邦配套資金。"
+    },
     {
       "id": "4981932",
       "time": "2026-07-11 05:09:35",
@@ -148106,14 +148133,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Rises on Stronger Services Data — The Ibovespa gained 0.7% to close at 174,070 on Friday as investors assessed May industrial production and June services PMI data. The S&P Global Services PMI showed the sector expanded at a slightly faster pace in June as demand improved, supporting domestically oriented stocks. Retail shares led gains, with Ultrapar rising 3.5% and Magazine Luiza advancing 4.2%. Financial stocks also moved higher, with Itaúsa adding 0.7% and B3 gaining 1%. Meanwhile, oil prices remained near pre-conflict levels amid optimism over US-Iran peace efforts, easing concerns about energy-driven inflation. Petrobras rose 0.8% despite lower crude prices after inaugurating the Pre-Salt Technology Center, a semi-industrial-scale research facility built with R$300 million in funding. Meanwhile, industrial production rose just 0.2% year-on-year in May, well below forecasts of a 1.3% increase. Investors also monitored the US decision to launch a public consultation on Brazil's trade policies and practices."
-    },
-    {
-      "id": "4970128",
-      "time": "2026-07-04 05:10:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三季度專項債發行或加碼】企業預警通資料顯示，截至7月3日，今年已經發行新增專項債20692億元，完成全年進度的47%；其中，6月發行5716億元，為今年以來月度發行高峰。 專家認為，當前專項債發行提速態勢已明確，後續發行與使用節奏有望加快。綜合立體交通、能源水利等領域有望成為專項債資金支援重點，為全年經濟穩增長蓄力。（中證報）"
     }
   ]
 }
