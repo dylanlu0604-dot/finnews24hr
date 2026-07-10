@@ -1,7 +1,61 @@
 {
   "date": "2026-07-10",
-  "count": 1226,
+  "count": 1232,
   "items": [
+    {
+      "id": "4980395",
+      "time": "2026-07-10 13:46:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3937.718點；上證指數跌0.02%，現報4035.634點；深證成指跌0.55%，現報15314.024點。"
+    },
+    {
+      "id": "mkt:019f4a90-5581-7aab-8d28-f05c6a360828",
+      "time": "2026-07-10 13:46:40",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "STAR Market 50 Index fell more than 2% after earlier gains of more than 2%."
+    },
+    {
+      "id": "mkt:019f4a8f-cde0-7aab-8d28-edcacdbe1aa7",
+      "time": "2026-07-10 13:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Indonesia hold 10th round of foreign policy consultations】July 9, 2026 — Chen Song, director of the Policy Planning Department at China’s Foreign Ministry, and Muhammad, director of the Foreign Policy Strategy Directorate at Indonesia’s Ministry of Foreign Affairs, held the 10th round of China-Indonesia foreign policy consultations, exchanging views on the international situation, the Asia-Pacific region, their respective foreign policies and other mutual concerns."
+    },
+    {
+      "id": "4980394",
+      "time": "2026-07-10 13:46:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.00%，成分股中，晶合整合跌13.11%，華潤微跌8.89%，芯聯整合跌6.97%，格科微跌6.67%。"
+    },
+    {
+      "id": "4980393",
+      "time": "2026-07-10 13:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中印尼舉行第十輪外交政策磋商】2026年7月9日，外交部政策規劃司司長陳松同印度尼西亞外交部外交政策戰略局局長穆罕默德舉行第十輪中印尼外交政策磋商。雙方重點就國際形勢、亞太地區形勢、各自外交政策及其他共同關心的問題深入交換了意見。（外交部）"
+    },
+    {
+      "id": "4980392",
+      "time": "2026-07-10 13:45:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲2%，現報4611.00元。"
+    },
     {
       "id": "4980391",
       "time": "2026-07-10 13:43:09",

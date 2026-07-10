@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-10 13:44:06",
+  "updated": "2026-07-10 13:48:05",
   "count": 15801,
   "items": [
+    {
+      "id": "4980395",
+      "time": "2026-07-10 13:46:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3937.718點；上證指數跌0.02%，現報4035.634點；深證成指跌0.55%，現報15314.024點。"
+    },
+    {
+      "id": "mkt:019f4a90-5581-7aab-8d28-f05c6a360828",
+      "time": "2026-07-10 13:46:40",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "STAR Market 50 Index fell more than 2% after earlier gains of more than 2%."
+    },
+    {
+      "id": "mkt:019f4a8f-cde0-7aab-8d28-edcacdbe1aa7",
+      "time": "2026-07-10 13:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Indonesia hold 10th round of foreign policy consultations】July 9, 2026 — Chen Song, director of the Policy Planning Department at China’s Foreign Ministry, and Muhammad, director of the Foreign Policy Strategy Directorate at Indonesia’s Ministry of Foreign Affairs, held the 10th round of China-Indonesia foreign policy consultations, exchanging views on the international situation, the Asia-Pacific region, their respective foreign policies and other mutual concerns."
+    },
+    {
+      "id": "4980394",
+      "time": "2026-07-10 13:46:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.00%，成分股中，晶合整合跌13.11%，華潤微跌8.89%，芯聯整合跌6.97%，格科微跌6.67%。"
+    },
+    {
+      "id": "4980393",
+      "time": "2026-07-10 13:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中印尼舉行第十輪外交政策磋商】2026年7月9日，外交部政策規劃司司長陳松同印度尼西亞外交部外交政策戰略局局長穆罕默德舉行第十輪中印尼外交政策磋商。雙方重點就國際形勢、亞太地區形勢、各自外交政策及其他共同關心的問題深入交換了意見。（外交部）"
+    },
+    {
+      "id": "4980392",
+      "time": "2026-07-10 13:45:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲2%，現報4611.00元。"
+    },
     {
       "id": "4980391",
       "time": "2026-07-10 13:43:09",
@@ -144225,62 +144279,6 @@
         "公司"
       ],
       "text": "【國軒高科旗下合肥電池技術公司增資至10億元，增幅25%】天眼查App顯示，7月1日，合肥國軒電池技術有限公司發生工商變更，註冊資本由8億人民幣增至10億人民幣，增幅25%。該公司成立於2022年8月，法定代表人為賈獨俊，經營範圍包括電池製造、電池銷售、新能源原動裝置製造、新能源汽車生產測試裝置銷售等，由合肥國軒高科動力能源有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019f2685-18b2-7aab-8c8c-50f79d79eabb",
-      "time": "2026-07-03 13:48:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Kioxia CEO says he has seen no signs of weakening data center demand."
-    },
-    {
-      "id": "mkt:019f2684-da85-7aab-8c8c-488feca71b55",
-      "time": "2026-07-03 13:47:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Belarus lower house speaker meets Iran parliament speaker Ghalibaf】Belarus House of Representatives speaker Igor Sergeyenko led a delegation to Iran for the funeral of the late Supreme Leader KHAMENEI and met with Iranian parliament speaker Ghalibaf on the morning of July 3 local time."
-    },
-    {
-      "id": "mkt:019f2683-45ef-7aab-8c8c-405639600593",
-      "time": "2026-07-03 13:46:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【TD Securities: Buy 10-year US Treasuries on weakness】TD Securities' rates strategist said investors should consider buying 10-year US Treasuries on price weakness, citing uncertainty about the Fed's policy path that could keep the 10-year yield in a 4.25%-4.66% range in the near term. TD expects the Fed will not raise rates but warned that the central bank's wait-for-data stance may keep market expectations for further hikes elevated."
-    },
-    {
-      "id": "4968981",
-      "time": "2026-07-03 13:45:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1859億元。"
-    },
-    {
-      "id": "4968980",
-      "time": "2026-07-03 13:45:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "鎧俠CEO：我們未看到資料中心需求疲軟的跡象。"
-    },
-    {
-      "id": "4968979",
-      "time": "2026-07-03 13:44:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星河動力航天增資至5.2億元，增幅約21%】天眼查App顯示，6月30日，北京星河動力航天科技股份有限公司發生工商變更，註冊資本由約4.3億人民幣增至約5.2億人民幣，增幅約21%。該公司成立於2018年2月，法定代表人為劉百奇，經營範圍包括航空航天的技術開發、技術轉讓、技術諮詢、技術服務等，由北京至遠探索管理諮詢中心（有限合夥）、劉百奇、劉建設等共同持股。"
     }
   ]
 }
