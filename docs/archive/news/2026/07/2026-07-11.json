@@ -1,7 +1,68 @@
 {
   "date": "2026-07-11",
-  "count": 300,
+  "count": 307,
   "items": [
+    {
+      "id": "4981905",
+      "time": "2026-07-11 04:10:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "可口可樂公司公佈 2026 年第三季度每股派息 0.25 美元，股息將於 2026 年 8 月 7 日發放。"
+    },
+    {
+      "id": "mkt:019f4da6-c457-7aab-8d39-dd95d19f65db",
+      "time": "2026-07-11 04:10:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister to visit Oman to discuss Strait of Hormuz】Iran's foreign minister Araghchi will lead a diplomatic delegation to Oman on the 11th to hold talks on bilateral ties and regional developments, with particular focus on the current situation in the Strait of Hormuz."
+    },
+    {
+      "id": "4981904",
+      "time": "2026-07-11 04:08:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴蓋伊：否認有關“伊朗請求與美國談判”的說法，表示伊朗方面從未提出此類請求。美國多次違反相關諒解備忘錄中的承諾，伊朗的政策仍基於“承諾換承諾”原則，任何來自華盛頓的違約行為都將遭到伊朗的對等回應。"
+    },
+    {
+      "id": "4981903",
+      "time": "2026-07-11 04:08:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長將訪阿曼 繼續溝通霍爾木茲海峽狀況】從伊朗方面獲悉，伊朗外交部長阿拉格齊將於11日率領外交代表團訪問阿曼。訪問期間，雙方計劃就雙邊關係和地區局勢，特別是霍爾木茲海峽當前狀況展開對話並交換意見。（央視新聞）"
+    },
+    {
+      "id": "4981902",
+      "time": "2026-07-11 04:07:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克交易所：截至 2026 年 6 月 30 日，納斯達克全部 5461 只證券空頭持倉總量為 226.8 億股， 納斯達克資本市場 1657 只證券空頭持倉總量達 42.3 億股。"
+    },
+    {
+      "id": "mkt:019f4da4-aebe-7aab-8d39-d1ada757ec1c",
+      "time": "2026-07-11 04:07:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iranian foreign ministry spokesman Bagheri said the US has repeatedly violated commitments in relevant memoranda of understanding. Iran’s policy remains based on the \"commitment for commitment\" principle, and any breach by Washington will be met with a reciprocal response from Tehran."
+    },
+    {
+      "id": "mkt:019f4da4-50f1-7aab-8d39-c924e7361b22",
+      "time": "2026-07-11 04:07:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian Foreign Ministry spokesman Baghaei denied reports that Iran had requested talks with the United States, saying Tehran never made such a request."
+    },
     {
       "id": "4981901",
       "time": "2026-07-11 04:06:59",
