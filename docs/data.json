@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-11 05:53:18",
+  "updated": "2026-07-11 05:57:13",
   "count": 16236,
   "items": [
+    {
+      "id": "mkt:019f4e05-db15-7aab-8d3a-a45be1e1152e",
+      "time": "2026-07-11 05:53:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【US demands Iran publicly pledge by Saturday to stop firing on commercial vessels in Strait of Hormuz】Axios reported the Trump administration has demanded Iran publicly, by Saturday, pledge to stop firing on commercial vessels and confirm the Strait of Hormuz will remain open. US officials said the request was conveyed via direct channels and regional intermediaries. Washington says recent Iranian attacks on commercial shipping in and around the strait breached a memorandum of understanding signed weeks earlier and risk collapsing a fragile ceasefire. Iran’s Araghchi is due to meet Omani Foreign Minister Badr al‑Busaidi in Muscat on Saturday; the US wants a public commitment after that meeting that attacks will cease and vessels will not be charged transit fees. US officials said nuclear talks with Iran had made some progress but the Hormuz incidents raise doubts about Tehran’s ability to implement more complex agreements. US warned it would take further action if Iran refuses."
+    },
+    {
+      "id": "4981942",
+      "time": "2026-07-11 05:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方要求伊朗週六前承諾停止向霍爾木茲海峽船隻開火】據Axios報道，特朗普政府要求伊朗最遲在週六公開宣告，確認霍爾木茲海峽保持開放，並承諾停止向商業船隻開火。美國官員表示，該要求已透過直接渠道以及地區調解方傳達給伊朗。美方認為，伊朗近期在霍爾木茲海峽及周邊對商業船隻發動襲擊，違反了雙方數週前簽署的諒解備忘錄，使脆弱的停火協議面臨破裂風險。報道稱，伊朗外長阿拉格齊與阿曼外長布賽迪預計將於週六在阿曼首都馬斯喀特會面，討論霍爾木茲海峽局勢。美方希望伊朗在此次會談後發表公開宣告，承諾停止襲擊，並確認海峽航道開放且免收通行費。美國官員稱，美伊核談判近期取得一定進展，但霍爾木茲危機引發美方對伊朗履行更復雜協議能力的擔憂。若伊朗拒絕相關要求，美方警告將採取進一步行動。"
+    },
     {
       "id": "mkt:019f4dfa-ab20-7aab-8d3a-9a97c4a36747",
       "time": "2026-07-11 05:41:41",
@@ -148127,22 +148146,6 @@
         "其他"
       ],
       "text": "中央氣象臺7月4日06時繼續釋出強對流天氣黃色預警。"
-    },
-    {
-      "id": "4970141",
-      "time": "2026-07-04 05:56:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：加強資料立法正當其時】國家資料局印發的《2026年數字經濟發展工作要點》提出，推進數字經濟促進法立法程序，持續推進資料安全管理，強化重要資料和核心資料識別與保護。伴隨資料產業快速發展，資料市場秩序的規範化要求與資料立法不足之間的張力越來越明顯，對資料產業發展產生了制約。例如，因資料權屬及使用邊界不清，資料從業者普遍存在“不敢、不願、不能”開發利用資料資源的問題。又如，因資料確權難、定價難、流通難，很多經營主體缺乏入場資料產業的積極性，資料市場難以形成資金、技術的聚集效應。加之近年來涉資料權益爭議不斷增多，這些爭議進一步顯示出我國資料保護基礎規則的發展進度明顯落後於資料利用開發的進度。"
-    },
-    {
-      "id": "4970140",
-      "time": "2026-07-04 05:55:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：AI讓低空經濟“飛”得更穩】以人工智慧融合低空經濟，並非單純以人工智慧為輔助工具，而是以其智慧技術為基底，重構智慧時代的低空經濟執行邏輯與發展模式。不久前，國家市場監督管理總局召開新聞釋出會，正式公佈《人工智慧 智慧體互聯》系列7項國家標準，預示著我國正在加快填補支撐智慧經濟的標準空白，以高標準引領人工智慧（AI）產業發展。全球人工智慧產業已進入強勁增長週期，“人工智慧+”正驅動數智技術與現代經濟社會邁向深度融合。作為新質生產力的典型代表，以人工智慧融合低空經濟，並非單純以人工智慧為輔助工具，而是以其智慧技術為基底，重構智慧時代的低空經濟執行邏輯與發展模式。"
     }
   ]
 }
