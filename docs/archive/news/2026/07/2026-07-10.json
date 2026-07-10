@@ -1,7 +1,145 @@
 {
   "date": "2026-07-10",
-  "count": 2578,
+  "count": 2591,
   "items": [
+    {
+      "id": "mkt:019f4c56-3d42-7aab-8d34-5d5e438f239f",
+      "time": "2026-07-10 22:02:27",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【BofA: Investors boost bets on Bank of England hikes as UK remains oil-price sensitive】A fresh US-Iran flare-up pushed oil prices higher, and investors this week raised expectations for Bank of England hikes in 2026, BofA strategists said. They flagged the UK’s continued high sensitivity to global oil-price shocks as prompting a repricing of rate expectations. London Stock Exchange Group data show the market now prices a total of 27bp of Bank of England hikes for 2026, up from 20bp a week earlier."
+    },
+    {
+      "id": "4981490",
+      "time": "2026-07-10 22:02:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：英國對全球油價衝擊依然高度敏感，這導致投資者重新對利率預期進行定價。"
+    },
+    {
+      "id": "4981489",
+      "time": "2026-07-10 22:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達總市值重回5萬億美元】英偉達股價上漲2.3%，報207.4美元/股，總市值報5.02萬億美元。"
+    },
+    {
+      "id": "mkt:019f4c55-5972-7aab-8d34-53886a3d6fe1",
+      "time": "2026-07-10 22:01:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "International Institute of Finance warns a more hawkish Federal Reserve, coupled with renewed oil-price volatility, could drain dollar liquidity and raise risk thresholds for emerging markets."
+    },
+    {
+      "id": "mkt:019f4c55-348f-7aab-8d34-4dcb70408790",
+      "time": "2026-07-10 22:01:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "International Institute of Finance (IIF) said June net equity outflows by nonresident investors from South Korea reached $30.5 billion, the largest on record in at least 26 years."
+    },
+    {
+      "id": "4981488",
+      "time": "2026-07-10 22:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際金融協會（IIF）資料顯示，韓國非居民投資者淨流出股票資金達305億美元，為至少26年來最高水平。今年上半年債務資金流入規模達1798億美元，高於2025年上半年的1417億美元。6月新興亞洲股市資金流出規模達到405億美元，6月份新興亞洲出現270億美元的資金淨流出，抵消了其他地區的資金淨流入。"
+    },
+    {
+      "id": "mkt:019f4c54-dee9-7aab-8d34-4302a4878c3d",
+      "time": "2026-07-10 22:00:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Institute of International Finance: Emerging-market sovereign bond issuance totaled about $170bn in 1H, with net issuance above $100bn."
+    },
+    {
+      "id": "mkt:019f4c54-aa34-7aab-8d34-3ea48e5eca9c",
+      "time": "2026-07-10 22:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "IIF: In June non-resident investors withdrew a net $17.8bn from emerging-market portfolios, led by large equity outflows."
+    },
+    {
+      "id": "mkt:019f4c54-8fe6-7aab-8d34-315522670f5a",
+      "time": "2026-07-10 22:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Institute of International Finance: Emerging-market Asia recorded $27 billion in net outflows in June."
+    },
+    {
+      "id": "4981487",
+      "time": "2026-07-10 22:00:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX天然氣主力合約跌超4%】NYMEX天然氣主力合約跌超4%，現報2.88美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:566075",
+      "time": "2026-07-10 21:59:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 11-week High — Danaher shares increased to 198.27 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 7.81%, and in the last 12 months, it decreased 3.67%."
+    },
+    {
+      "id": "mkt:019f4c53-169e-7aab-8d34-2987481bbc75",
+      "time": "2026-07-10 21:59:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Finance Minister Sitharaman will meet bank chiefs on Monday to review foreign-currency deposit levels."
+    },
+    {
+      "id": "4981485",
+      "time": "2026-07-10 21:58:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部長將會晤國有銀行行長，覆盤外匯存款相關情況。"
+    },
     {
       "id": "4981484",
       "time": "2026-07-10 21:58:07",

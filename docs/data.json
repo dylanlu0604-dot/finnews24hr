@@ -1,7 +1,145 @@
 {
-  "updated": "2026-07-10 21:59:09",
-  "count": 15907,
+  "updated": "2026-07-10 22:03:19",
+  "count": 15916,
   "items": [
+    {
+      "id": "mkt:019f4c56-3d42-7aab-8d34-5d5e438f239f",
+      "time": "2026-07-10 22:02:27",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【BofA: Investors boost bets on Bank of England hikes as UK remains oil-price sensitive】A fresh US-Iran flare-up pushed oil prices higher, and investors this week raised expectations for Bank of England hikes in 2026, BofA strategists said. They flagged the UK’s continued high sensitivity to global oil-price shocks as prompting a repricing of rate expectations. London Stock Exchange Group data show the market now prices a total of 27bp of Bank of England hikes for 2026, up from 20bp a week earlier."
+    },
+    {
+      "id": "4981490",
+      "time": "2026-07-10 22:02:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：英國對全球油價衝擊依然高度敏感，這導致投資者重新對利率預期進行定價。"
+    },
+    {
+      "id": "4981489",
+      "time": "2026-07-10 22:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達總市值重回5萬億美元】英偉達股價上漲2.3%，報207.4美元/股，總市值報5.02萬億美元。"
+    },
+    {
+      "id": "mkt:019f4c55-5972-7aab-8d34-53886a3d6fe1",
+      "time": "2026-07-10 22:01:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "International Institute of Finance warns a more hawkish Federal Reserve, coupled with renewed oil-price volatility, could drain dollar liquidity and raise risk thresholds for emerging markets."
+    },
+    {
+      "id": "mkt:019f4c55-348f-7aab-8d34-4dcb70408790",
+      "time": "2026-07-10 22:01:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "International Institute of Finance (IIF) said June net equity outflows by nonresident investors from South Korea reached $30.5 billion, the largest on record in at least 26 years."
+    },
+    {
+      "id": "4981488",
+      "time": "2026-07-10 22:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際金融協會（IIF）資料顯示，韓國非居民投資者淨流出股票資金達305億美元，為至少26年來最高水平。今年上半年債務資金流入規模達1798億美元，高於2025年上半年的1417億美元。6月新興亞洲股市資金流出規模達到405億美元，6月份新興亞洲出現270億美元的資金淨流出，抵消了其他地區的資金淨流入。"
+    },
+    {
+      "id": "mkt:019f4c54-dee9-7aab-8d34-4302a4878c3d",
+      "time": "2026-07-10 22:00:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Institute of International Finance: Emerging-market sovereign bond issuance totaled about $170bn in 1H, with net issuance above $100bn."
+    },
+    {
+      "id": "mkt:019f4c54-aa34-7aab-8d34-3ea48e5eca9c",
+      "time": "2026-07-10 22:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "IIF: In June non-resident investors withdrew a net $17.8bn from emerging-market portfolios, led by large equity outflows."
+    },
+    {
+      "id": "mkt:019f4c54-8fe6-7aab-8d34-315522670f5a",
+      "time": "2026-07-10 22:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Institute of International Finance: Emerging-market Asia recorded $27 billion in net outflows in June."
+    },
+    {
+      "id": "4981487",
+      "time": "2026-07-10 22:00:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX天然氣主力合約跌超4%】NYMEX天然氣主力合約跌超4%，現報2.88美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:566075",
+      "time": "2026-07-10 21:59:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 11-week High — Danaher shares increased to 198.27 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 7.81%, and in the last 12 months, it decreased 3.67%."
+    },
+    {
+      "id": "mkt:019f4c53-169e-7aab-8d34-2987481bbc75",
+      "time": "2026-07-10 21:59:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Finance Minister Sitharaman will meet bank chiefs on Monday to review foreign-currency deposit levels."
+    },
+    {
+      "id": "4981485",
+      "time": "2026-07-10 21:58:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部長將會晤國有銀行行長，覆盤外匯存款相關情況。"
+    },
     {
       "id": "4981484",
       "time": "2026-07-10 21:58:07",
@@ -145035,40 +145173,6 @@
         "市場"
       ],
       "text": "【ST葫蘆娃：股票交易異常波動 不存在應披露未披露重大事項】ST葫蘆娃公告稱，公司股票於2026年7月1日至7月3日連續3個交易日內收盤價格漲幅偏離值累計超過12%，屬於異常波動情形。經自查，公司目前生產經營正常，主營業務未變，不存在應披露而未披露的重大資訊，未發現對股價有影響的媒體報道或市場傳聞，相關人員在此期間也無買賣公司股票情況。此外，公司因收到行政處罰事先告知書，於2026年5月21日起疊加實施其他風險警示，最終結果以正式處罰決定為準。"
-    },
-    {
-      "id": "mkt:019f2849-9868-7aab-8c97-428c2ede5c92",
-      "time": "2026-07-03 22:02:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【European Commission proposes five major cross‑border defence projects】The European Commission on Friday proposed five major cross‑border defence projects, paving the way for EU funding. Designated as European Defence Projects of Common Interest (EDPCI), they include: a drone and counter‑drone programme involving 26 EU member states plus Norway and Ukraine; an Eastern Flank vigilance project with 13 EU members, Norway and Ukraine; an integrated maritime and undersea defence project; an air and missile defence and early‑warning project; and a space‑based defence project. EDPCI projects are seeded with an initial €325 mln allocation under the European Defence Industrial Programme (about $372 mln); additional funding may follow."
-    },
-    {
-      "id": "mkt:019f2849-7419-7aab-8c97-3bb3d5f7e9c5",
-      "time": "2026-07-03 22:02:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Venezuela's largest refinery resumes operations】Venezuela's largest refinery, the 645,000 b/d Amuay, resumed operations on Friday after a blackout and is processing about 140,000 b/d; its FCC has also restarted. Last week's earthquakes knocked out power at several Venezuelan refineries. The 146,000 b/d El Palito has had power restored, but staff have not yet restarted production units."
-    },
-    {
-      "id": "4969920",
-      "time": "2026-07-03 22:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟決策層拒絕英國在歐盟扮演“決策”角色的請求。"
-    },
-    {
-      "id": "4969919",
-      "time": "2026-07-03 21:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【熱浪期間歐洲3國超額死亡超3700人，法國家中死亡人數激增90%】上個月，歐洲遭遇了史上罕見的熱浪襲擊。根據法國、比利時和荷蘭衛生部門公佈的最新資料，在本輪熱浪期間，至少記錄了3700例超額死亡。 根據法國衛生部公佈的最新資料，在6月22日至28日熱浪高峰期間，所有年齡段的全因死亡人數為8973人，較前一週的6948人增加了2025人，增幅超過29%。其中45歲及以上人群的全因死亡人數增加，尤其是在家中死亡的人數增加超過90%，在養老院中的死亡人數也增長37%。 所謂全因死亡是指各種原因導致的死亡，無論是疾病、意外或自然原因。在特定時期內觀察到的死亡人數與正常情況下預期的死亡人數的差額被稱為超額死亡。 歐洲6月下旬經歷了史上最嚴重的熱浪。此輪熱浪從6月20日左右開始，一直持續至6月28日才有所緩解。法國氣象局6月22日監測到44度的極端高溫。（一財）"
     }
   ]
 }
