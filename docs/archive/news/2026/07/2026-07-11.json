@@ -1,7 +1,48 @@
 {
   "date": "2026-07-11",
-  "count": 35,
+  "count": 40,
   "items": [
+    {
+      "id": "mkt:019f4cd4-ed2d-7aab-8d37-5d6305565f81",
+      "time": "2026-07-11 00:20:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran denies reports of US-Iran talks next week】Iran denied media reports that it would hold a new round of talks with the United States next week. A source close to Iran’s negotiating team said claims that preparations in Islamabad are complete and that technical-level talks would continue next week are untrue and have no factual basis. The source added Tehran will announce any changes to the US-Iran negotiation process only via official channels and that foreign media reports are not reliable."
+    },
+    {
+      "id": "4981731",
+      "time": "2026-07-11 00:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度方面表示反傾銷稅有效期至 2027 年1月13日。"
+    },
+    {
+      "id": "4981730",
+      "time": "2026-07-11 00:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿爾及利亞重新向所有馬裡國際航班開放領空。"
+    },
+    {
+      "id": "4981729",
+      "time": "2026-07-11 00:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦常駐聯合國安理會代表：我們敦促伊朗與美國保持克制。"
+    },
+    {
+      "id": "4981728",
+      "time": "2026-07-11 00:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士強調：有關談判進展的任何訊息，若出現新動向，只會透過伊朗伊斯蘭共和國官方渠道對外發布，部分境外媒體刊發的相關說法並不可信。"
+    },
     {
       "id": "4981727",
       "time": "2026-07-11 00:18:03",
