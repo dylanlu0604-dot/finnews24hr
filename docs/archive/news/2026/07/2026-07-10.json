@@ -1,7 +1,62 @@
 {
   "date": "2026-07-10",
-  "count": 902,
+  "count": 908,
   "items": [
+    {
+      "id": "mkt:019f49d9-b088-7aab-8d26-3cf4d1be9f64",
+      "time": "2026-07-10 10:27:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bullish",
+        "02015.HK",
+        "01211.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks were mostly firmer: Chery Automobile (09973.HK), XPeng Inc (09868.HK), Leapmotor (09863.HK) and SERES (09927.HK) each rose more than 3%, while Li Auto Inc (02015.HK) and BYD Co Ltd (01211.HK) gained over 2%."
+    },
+    {
+      "id": "4980151",
+      "time": "2026-07-10 10:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：2026年第二季度全球PC市場同比下滑3.6%】Omdia最新研究，2026年第二季度全球檯式電腦、膝上型電腦及工作站出貨量同比下降3.6%，降至6570萬臺。其中，臺式電腦（含臺式工作站）出貨量為1390萬臺，同比下降1.3%；膝上型電腦（含移動工作站）出貨量為5170萬臺，同比下降4.2%。"
+    },
+    {
+      "id": "4980150",
+      "time": "2026-07-10 10:25:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上海釋出颱風藍色預警】上海市氣象臺7月10日10時釋出上海市颱風藍色預警訊號：受今年第9號颱風“巴威”影響，預計11-13日本市大部地區將出現陣風8-9級，高層建築和沿江沿海地區陣風9-11級，請注意防範颱風對高空作業、交通出行、農業生產等的不利影響。"
+    },
+    {
+      "id": "4980149",
+      "time": "2026-07-10 10:24:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI醫療概念震盪反彈 美年健康、東軟集團雙雙漲停】AI醫療概念盤中震盪反彈，美年健康、東軟集團漲停，迪安診斷、創業慧康漲超10%，衛寧健康、嘉和美康、塞力醫療跟漲。"
+    },
+    {
+      "id": "mkt:019f49d7-63a1-7aab-8d26-3297be48f902",
+      "time": "2026-07-10 10:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea finance ministry official: USD/KRW still misaligned with fundamentals】Moon Ji-sung, the finance ministry official responsible for exchange-rate policy, said Friday USD/KRW remains misaligned with economic fundamentals and the ministry has sufficient room to stabilise markets if needed. He expects domestic FX supply–demand to shift in H2 2026 and forecasts exporters’ dollar holdings will be returned to the market via FX forward settlements, generating dollar inflows."
+    },
+    {
+      "id": "4980148",
+      "time": "2026-07-10 10:23:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.6%，報161.40。"
+    },
     {
       "id": "4980147",
       "time": "2026-07-10 10:23:47",
