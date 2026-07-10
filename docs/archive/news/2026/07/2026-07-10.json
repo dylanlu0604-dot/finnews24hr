@@ -1,7 +1,144 @@
 {
   "date": "2026-07-10",
-  "count": 797,
+  "count": 811,
   "items": [
+    {
+      "id": "4980087",
+      "time": "2026-07-10 09:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "4980086",
+      "time": "2026-07-10 09:56:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24271.939點；恒生科技指數現漲1.717%。"
+    },
+    {
+      "id": "4980085",
+      "time": "2026-07-10 09:56:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量2073億元。"
+    },
+    {
+      "id": "mkt:019f49bc-bce0-7aab-8d25-5d12d5f68e07",
+      "time": "2026-07-10 09:55:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says it fired 10 ballistic missiles at US C2 centres and Azraq base on July 9】Iranian media reported multiple sites in southern Iran were struck on July 9. Iran’s Islamic Revolutionary Guard Corps (IRGC) said its Aerospace Force launched 10 ballistic missiles on July 9 in what it called a second-phase response to US military aggression, striking US command-and-control centers in West Asia and the Azraq air base in Jordan. The IRGC warned that further US military action would draw heavy strikes on other US bases in the region."
+    },
+    {
+      "id": "mkt:019f49bc-bb85-7aab-8d25-527ea4bc1c29",
+      "time": "2026-07-10 09:55:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06809.HK",
+        "Impact bullish",
+        "07747.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong storage names mostly firm: Montage Technology (06809.HK) rose over 5%, China Southern 2x Long Samsung Electronics (07747) gained more than 4%, GigaDevice (03986.HK) climbed over 3%, VSTECS (00856.HK) up more than 1%."
+    },
+    {
+      "id": "mkt:019f49bb-f75b-7aab-8d25-4aa8d6419fd6",
+      "time": "2026-07-10 09:54:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01888.HK",
+        "Impact bullish",
+        "03200.HK",
+        "00148.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks rose in choppy trading: 01888.HK up more than 10%, 03200.HK up more than 9%, 00148.HK up more than 7%, 01989.HK up about 4%."
+    },
+    {
+      "id": "4980084",
+      "time": "2026-07-10 09:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱推出外匯 24 小時交易機制後，外匯市場調控能力得到提升。"
+    },
+    {
+      "id": "4980083",
+      "time": "2026-07-10 09:54:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊震盪上揚，沃頓科技、川潤股份漲停】液冷伺服器板塊震盪上揚，沃頓科技、川潤股份漲停，傑創智慧、弘信電子、捷邦科技、力源資訊漲超10%，依米康、奕東電子、雙良節能、紫光股份、漢鍾精機跟漲。"
+    },
+    {
+      "id": "4980082",
+      "time": "2026-07-10 09:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【朝鮮勞動黨舉行第九屆中央軍事委員會第一次擴大會議】據朝中社10日報道，朝鮮勞動黨第九屆中央軍事委員會第一次擴大會議9日舉行。朝鮮勞動黨總書記、朝鮮勞動黨中央軍事委員會委員長、國務委員長金正恩指導會議。金正恩說，朝鮮人民軍不僅要捍衛社會主義，而且在推動國家全面發展的鬥爭中也要依然發揮主導作用、核心作用。報道說，擴大會議確定了更新戰鬥系統技術基礎設施，保質保量擴大和加強核武力，有遠見地執行落實有關軍事基地標準化、專業化、現代化的計劃等。擴大會議提出了多方面擴大偵察情報總局的職能和任務，還確定了加快推進現代化海軍基地建設和各級造船廠擴建及技術改造等任務。 (新華社)"
+    },
+    {
+      "id": "4980081",
+      "time": "2026-07-10 09:53:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念反覆活躍 華勝天成漲停】算力租賃概念反覆活躍，華勝天成漲停，億田智慧、弘信電子雙雙漲超10%，潤建股份逼近漲停，首都線上、中貝通訊、潤澤科技跟漲。"
+    },
+    {
+      "id": "4980080",
+      "time": "2026-07-10 09:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煌上煌等成立科技公司，含多項AI業務】企查查APP顯示，近日，浙江觀知科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧雙創服務平臺；軟體開發；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由煌上煌等共同持股。"
+    },
+    {
+      "id": "4980079",
+      "time": "2026-07-10 09:53:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月1日鐵路暑運啟動以來 全國鐵路累計傳送旅客已超1億人次】從國鐵集團瞭解到，自7月1日鐵路暑運啟動以來，截至9日，全國鐵路累計傳送旅客12366.3萬人次。京津冀、長三角、粵港澳大灣區、成渝地區客流量較為集中。國鐵成都局累計傳送旅客突破千萬人次，較去年同期大幅上漲，為應對即將到來的暑期出行高峰，今天（10日）至12日，加開夜間高鐵11對，輻射華北、華中、華南、西北、西南多地重點城市。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f49ba-be5b-7aab-8d25-432cdb6543ca",
+      "time": "2026-07-10 09:53:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share power sector traded higher; Huadian LiaoNeng and Fuchuan Environmental hit daily up-limits, Huadian Energy and GCL Technology rose over 5%, Hangzhou Thermal Power gained about 4%."
+    },
+    {
+      "id": "4980078",
+      "time": "2026-07-10 09:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱中東戰爭對外匯市場的影響已被市場消化。"
+    },
     {
       "id": "4980077",
       "time": "2026-07-10 09:52:50",
