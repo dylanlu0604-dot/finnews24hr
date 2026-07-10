@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-11 06:37:57",
+  "updated": "2026-07-11 06:41:49",
   "count": 16239,
   "items": [
+    {
+      "id": "4981951",
+      "time": "2026-07-11 06:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沙特王儲與特朗普就地區最新局勢交換意見，其中涵蓋美伊談判相關事宜。"
+    },
+    {
+      "id": "te:markets:566140",
+      "time": "2026-07-11 06:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%)."
+    },
     {
       "id": "te:markets:566139",
       "time": "2026-07-11 06:35:16",
@@ -148158,25 +148177,6 @@
         "其他"
       ],
       "text": "【今年1至5月 中國進出口銀行投放科技貸款超3400億元】今年1至5月，中國進出口銀行新發放科技貸款超3400億元，支援企業2500餘家。重點投向人工智慧、人形機器人、先進材料等領域，積極滿足科技企業在技術研發、成果轉化、產業化發展等環節融資需求。（央視新聞）"
-    },
-    {
-      "id": "te:markets:564232",
-      "time": "2026-07-04 06:40:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers are Wool (-2.01%) and Palm Oil (-0.58%). Gains are led by Butter (0.72%)."
-    },
-    {
-      "id": "4970148",
-      "time": "2026-07-04 06:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【山火蔓延 四千例超額死亡 歐洲陷入高溫熱浪危機】受持續熱浪影響，歐洲多國近期連續遭遇創紀錄的高溫天氣。總檯記者獲悉，高溫天氣已致法國、比利時等歐洲多國記錄到超4000例超額死亡。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。法國上週經歷了近80年來的最高溫，24小時全國平均氣溫連續兩天打破紀錄，包括巴黎在內的多地最高氣溫超過了40攝氏度。法國衛生部長里斯特3日表示，在法國本輪高溫期間，記錄到2025例超額死亡。資料顯示，法國在6月22日開始的一週內記錄到2025例超額死亡，較預期水平增加近30%。（央視新聞）"
     }
   ]
 }

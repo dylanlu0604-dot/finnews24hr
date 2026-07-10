@@ -1,7 +1,26 @@
 {
   "date": "2026-07-11",
-  "count": 386,
+  "count": 388,
   "items": [
+    {
+      "id": "4981951",
+      "time": "2026-07-11 06:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沙特王儲與特朗普就地區最新局勢交換意見，其中涵蓋美伊談判相關事宜。"
+    },
+    {
+      "id": "te:markets:566140",
+      "time": "2026-07-11 06:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%)."
+    },
     {
       "id": "te:markets:566139",
       "time": "2026-07-11 06:35:16",
