@@ -1,7 +1,119 @@
 {
   "date": "2026-07-10",
-  "count": 558,
+  "count": 570,
   "items": [
+    {
+      "id": "mkt:019f4961-eeba-7aab-8d23-041e50773626",
+      "time": "2026-07-10 08:16:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK Hynix shares retreated, gains narrowed to 0.5%."
+    },
+    {
+      "id": "mkt:019f4961-9b36-7aab-8d22-fedbc447c3fe",
+      "time": "2026-07-10 08:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kiuchi said close communication between the government and the Bank of Japan and regular exchange of views on the economy, inflation and financial conditions are essential."
+    },
+    {
+      "id": "mkt:019f4961-9776-7aab-8d22-f642ca2eb790",
+      "time": "2026-07-10 08:16:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【CSC Financial: Spot tightness and rising demand expectations point to higher rare-earth prices】CSC Financial says recycled feedstock has tightened and recycler operating rates have fallen, prompting a downgrade to overall rare-earth output. SMM estimates June praseodymium‑neodymium (PrNd) oxide production fell about 6%, and the share of recycled PrNd oxide in total output dropped from 44% in May to 37% in June. Supply is broadly tight with little near‑term upside. On the demand side, European heat waves have lifted air‑conditioner sales—each unit uses roughly 0.1–0.2kg of rare‑earth permanent magnet—and magnet‑material makers, running low inventories, are expected to increase purchases ahead of the air‑con peak and a strong Q3 auto season. Rare‑earth prices are therefore likely to trend higher."
+    },
+    {
+      "id": "4979923",
+      "time": "2026-07-10 08:15:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價回吐部分早前漲幅，現上漲1.5%。"
+    },
+    {
+      "id": "mkt:019f4961-48a8-7aab-8d22-ee96f60b5b6d",
+      "time": "2026-07-10 08:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's economy and finance minister Kiuchi said the government is revising its draft economic blueprint and has incorporated ruling-coalition lawmakers' views."
+    },
+    {
+      "id": "te:markets:565821",
+      "time": "2026-07-10 08:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Tech-Led Rally — US stock futures were little changed on Friday after the major indexes advanced in the previous session, supported by a strong rally in semiconductor stocks. During Thursday's regular session, the S&P 500 and Nasdaq Composite rose 0.81% and 1.3%, respectively, with both benchmarks remaining on track to post weekly gains. The Dow Jones also added 0.27%. Sentiment toward AI-related stocks has been volatile in recent weeks amid concerns over elevated valuations, though optimism was boosted by robust demand for SK Hynix's US share offering, which was oversubscribed by more than seven times. Leading Thursday's gains were Micron Technology (4.5%), Sandisk (7.6%), and AMD (5.7%). Stocks also drew support from easing oil prices as investors welcomed signs that the US and Iran will continue peace negotiations despite the recent escalation in hostilities."
+    },
+    {
+      "id": "4979922",
+      "time": "2026-07-10 08:14:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府與日本央行密切溝通，就經濟、物價和金融形勢交換意見至關重要。"
+    },
+    {
+      "id": "mkt:019f4960-0c2d-7aab-8d22-e4aaab39b266",
+      "time": "2026-07-10 08:14:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KIUCHI said the government will not preemptively convey to the Bank of Japan any preferences on the timing, pace or direction of its policy adjustments."
+    },
+    {
+      "id": "4979921",
+      "time": "2026-07-10 08:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：我們正在修訂政府經濟藍圖的草案，並將執政聯盟議員的意見納入考量。"
+    },
+    {
+      "id": "mkt:019f495f-8985-7aab-8d22-d9a3c90fb4bf",
+      "time": "2026-07-10 08:13:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's economic and fiscal minister Kiuchi said the Bank of Japan's independence must be respected."
+    },
+    {
+      "id": "4979920",
+      "time": "2026-07-10 08:13:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府關於具體貨幣政策手段由日本央行決定的立場沒有變化。"
+    },
+    {
+      "id": "4979919",
+      "time": "2026-07-10 08:13:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府不會提前向日本央行傳達其對央行政策調整時機、步伐及方向的偏好。"
+    },
     {
       "id": "4979918",
       "time": "2026-07-10 08:12:29",
