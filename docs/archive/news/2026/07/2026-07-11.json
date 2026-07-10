@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 370,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:019f4df0-b664-7aab-8d3a-947670a43466",
+      "time": "2026-07-11 05:30:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel curbs operations in southern Lebanon at US request, media says】Israeli public broadcaster reported on Oct. 10 that, at Washington’s request, Israel has ordered its military to suspend \"sensitive\" operations in southern Lebanon. The directive will remain in effect until further notice and is conditional on developments in the US–Iran military confrontation and progress in Israel–Lebanon negotiations. The report said US concern about escalation linked to its recent confrontation with Iran prompted the request; Israeli forces are to maintain restraint and will begin next week withdrawing from two areas of their designated south Lebanon security zone, a step tied to a late‑June framework agreement reached in Washington. Israel and Lebanon are expected to resume talks next week in Rome."
+    },
     {
       "id": "4981941",
       "time": "2026-07-11 05:28:49",

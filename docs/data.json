@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-11 05:30:01",
-  "count": 16240,
+  "updated": "2026-07-11 05:33:56",
+  "count": 16238,
   "items": [
+    {
+      "id": "mkt:019f4df0-b664-7aab-8d3a-947670a43466",
+      "time": "2026-07-11 05:30:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel curbs operations in southern Lebanon at US request, media says】Israeli public broadcaster reported on Oct. 10 that, at Washington’s request, Israel has ordered its military to suspend \"sensitive\" operations in southern Lebanon. The directive will remain in effect until further notice and is conditional on developments in the US–Iran military confrontation and progress in Israel–Lebanon negotiations. The report said US concern about escalation linked to its recent confrontation with Iran prompted the request; Israeli forces are to maintain restraint and will begin next week withdrawing from two areas of their designated south Lebanon security zone, a step tied to a late‑June framework agreement reached in Washington. Israel and Lebanon are expected to resume talks next week in Rome."
+    },
     {
       "id": "4981941",
       "time": "2026-07-11 05:28:49",
@@ -148151,33 +148163,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Inflation Rises to 4.25% — Uruguay’s annual inflation rate rose to 4.25% in June 2026 from 3.77% in the prior month. The increase was driven by rises in transport costs (7.6%), education (6.8%), restaurants and hotels (6.6%), healthcare (6%), personal care and social protection (5.6%), utilities (4.9%), and information and communication (4.3%). Food costs were 2.6% higher. In contrast, prices of clothing and footwear prices fell 5.2%. On a monthly basis, consumer prices rose 0.4%."
-    },
-    {
-      "id": "4970137",
-      "time": "2026-07-04 05:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【迦納首都及周邊地區強降雨已致34人死亡】迦納國家災害管理部門官員理查德·阿莫·亞爾泰3日對媒體表示，近日的強降雨及洪澇災情已導致全國34人死亡，僅首都阿克拉就有12人死亡，待核實完其他地區報告，死亡人數可能還會上升。（新華社）"
-    },
-    {
-      "id": "4970136",
-      "time": "2026-07-04 05:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部表示，俄軍已拿下烏克蘭東部的康斯坦丁諾夫卡。"
-    },
-    {
-      "id": "4970135",
-      "time": "2026-07-04 05:30:05",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【受AI熱潮與美聯儲樂觀預期提振，新興市場資產全線反彈】隨著韓國科技藍籌股反彈，新興市場股市創下自6月中旬以來的最大單日漲幅；同時，受美國勞動力市場資料弱於預期的影響，新興市場貨幣連續第二日走強。週五，MSCI新興市場股票指數上漲2.2%，創6月15日以來最大單日漲幅。韓國晶片製造商SK海力士和三星電子的強勁表現，抵消了臺積電股價下跌帶來的拖累。韓國綜合股價指數（Kospi）大漲5.8%，部分收復了此前兩個交易日近10%的跌幅。"
     }
   ]
 }
