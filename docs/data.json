@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-10 08:32:28",
-  "count": 15859,
+  "updated": "2026-07-10 08:36:21",
+  "count": 15863,
   "items": [
+    {
+      "id": "4979938",
+      "time": "2026-07-10 08:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：正密切關注經濟指標和市場狀況。"
+    },
+    {
+      "id": "4979937",
+      "time": "2026-07-10 08:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：重要的是確保政府立場已獲得市場信任。"
+    },
+    {
+      "id": "mkt:019f4972-6b50-7aab-8d23-3d4d7f53599d",
+      "time": "2026-07-10 08:34:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said specific monetary tools are decided by the Bank of Japan."
+    },
+    {
+      "id": "mkt:019f4972-5348-7aab-8d23-31c08f65546b",
+      "time": "2026-07-10 08:34:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said the ruling party is revising wording in its economic blueprint."
+    },
+    {
+      "id": "4979936",
+      "time": "2026-07-10 08:34:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：具體貨幣政策工具由日本央行決定。"
+    },
+    {
+      "id": "4979935",
+      "time": "2026-07-10 08:34:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：注意到執政黨正在調整經濟藍圖的措辭。"
+    },
+    {
+      "id": "4979934",
+      "time": "2026-07-10 08:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：不對具體債券收益率水平置評。"
+    },
+    {
+      "id": "mkt:019f4971-a64a-7aab-8d23-2fec2836c55f",
+      "time": "2026-07-10 08:33:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she would not comment on specific bond yield levels."
+    },
+    {
+      "id": "4979933",
+      "time": "2026-07-10 08:33:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：全球冷卻需求升維開啟暖通新空間】華泰證券指出，全球空調產業正迎來從“週期消費”向“長期冷卻基礎設施”的價值重估。需求端，全球升溫、城市熱島、收入提升與新興市場滲透率提升，共同推動家用及商用空調從可選消費逐步向剛性需求演進；供給端，環保冷媒、變頻節能、熱泵、智慧控制、資料中心液冷等技術迭代，正推動暖通產業進入新一輪裝置升級週期。華泰證券認為，中國暖通企業的機會不只在於傳統出口份額擴張，更在於依託製造成本、供應鏈效率、海外產能和產品升級能力，從窗機、分體機等優勢品類向熱泵、中央空調、資料中心冷源及液冷系統等高價值環節延伸。"
+    },
     {
       "id": "4979932",
       "time": "2026-07-10 08:30:52",
@@ -144764,50 +144841,6 @@
         "國際"
       ],
       "text": "韓國科斯達克指數下跌3.6%。"
-    },
-    {
-      "id": "4968480",
-      "time": "2026-07-03 08:35:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3%，至7418.25點。"
-    },
-    {
-      "id": "4968479",
-      "time": "2026-07-03 08:34:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐西蘭總理拉克森：印度總理納倫德拉·莫迪將於下週對紐西蘭進行首次正式訪問。"
-    },
-    {
-      "id": "4968478",
-      "time": "2026-07-03 08:34:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯原股份推出CPP2000攝像頭後處理IP】7月3日，芯原股份宣佈推出高效能CPP2000攝像頭後處理 (CPP) IP，據介紹，CPP2000能夠提升移動成像場景下的影象質量與視覺感知能力，為機器人、無人機及其他移動視覺應用提供更加穩定可靠的視覺處理效能。"
-    },
-    {
-      "id": "mkt:019f2565-c372-7aab-8c86-b2e4b6f32ffe",
-      "time": "2026-07-03 08:34:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【VeriSilicon launches CPP2000 camera post‑processing IP】July 3 — VeriSilicon launched the high‑performance CPP2000 camera post‑processing (CPP) IP, saying it improves image quality and visual perception in mobile‑imaging scenarios and targets robotics, drones and other mobile‑vision applications with more stable, more reliable visual processing."
-    },
-    {
-      "id": "4968477",
-      "time": "2026-07-03 08:33:53",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【日本6月標普全球服務業採購經理人指數(PMI)為52.2】標普全球釋出了日本6月份服務業綜合採購經理人指數（PMI）。服務業採購經理人指數升至52.2，低於5月份的50和去年6月份的51.7。綜合採購經理人指數升至52.8，低於5月份的51.1和去年6月份的51.5。擴張活動和收縮活動的分界線是50。"
     }
   ]
 }
