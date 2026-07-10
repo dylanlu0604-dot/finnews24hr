@@ -1,7 +1,85 @@
 {
   "date": "2026-07-10",
-  "count": 2376,
+  "count": 2385,
   "items": [
+    {
+      "id": "te:economy:566048",
+      "time": "2026-07-10 20:43:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Mexico Industrial Output Falls More than Expected — Mexico's industrial production fell 0.7% year-on-year in May 2026, reversing a 2.3% increase in April, lower than market expectations of a 0.1% drop as weakness was broad-based across sectors. The downturn was led by a contraction in manufacturing activity by 1.5% after a flat reading in the previous month, reflecting weaker output across industries, particularly in the manufacturing of computers and comunication related equipments (-7.5%). Utilities production declined further to 0.9% from 0.4%, while construction activity fell 0.3%, reversing a 10.4% gain despite a surge in civil engineering works (15.9%). Meanwhile, mining and quarrying output growth accelerated to 3.9% from 3.4%, supported by stronger growth in mining related services (51.3% vs 23.7%). On a seasonally adjusted monthly basis, industrial activity fell by 0.8% in May, reversing a 2.1% increase in the previous month."
+    },
+    {
+      "id": "4981338",
+      "time": "2026-07-10 20:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "荷蘭國際集團經濟學家Marieke Blom和Amrita Naik Nimbalkar：如果歐元區的儲蓄率降至疫情前水平，可能會釋放價值約佔GDP 1%的商品和服務需求。"
+    },
+    {
+      "id": "4981337",
+      "time": "2026-07-10 20:42:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所倫敦可可期貨價格近跌10%，至每噸4327英鎊。"
+    },
+    {
+      "id": "mkt:019f4c0c-f5ff-7aab-8d33-0d80928a4e6b",
+      "time": "2026-07-10 20:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia, IAEA hold 13th talks on Zaporizhzhia nuclear plant safety】Rosatom said on the 10th that Russia and an IAEA delegation met in Kaliningrad for the 13th round of talks on safety at the Zaporizhzhia nuclear plant. The delegations were led by Rosatom CEO Likhachev and IAEA Director General Grossi. Likhachev said Ukrainian forces have stepped up strikes on the plant, the adjoining city of Enerhodar and surrounding areas since late April, causing 7 deaths, including one plant employee, and 40 injuries. He urged the IAEA to publicly condemn Kyiv's actions."
+    },
+    {
+      "id": "4981336",
+      "time": "2026-07-10 20:42:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄方與國際原子能機構就扎波羅熱核電站安全問題舉行磋商】俄羅斯國家原子能公司當地時間10日訊息，俄羅斯與國際原子能機構代表團當天在加里寧格勒市舉行關於扎波羅熱核電站安全問題的第十三輪磋商。雙方分別由俄國家原子能公司執行長利哈喬夫和國際原子能機構總幹事格羅西率領。利哈喬夫在磋商中表示，4月底以來，烏軍升級了對扎波羅熱核電站和配套城市埃涅爾戈達爾市及周邊的打擊，造成7人死亡，其中1人為核電站員工，40人受傷。他呼籲國際原子能機構對基輔政權的上述行為作出公開譴責。（央視新聞）"
+    },
+    {
+      "id": "4981335",
+      "time": "2026-07-10 20:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST西發：撤銷其他風險警示 仍繼續被實施退市風險警示】*ST西發公告稱，公司觸及的其他風險警示情形已消除，提交的撤銷其他風險警示申請獲深交所稽核同意。此前，公司因原控股股東資金佔用、收到證監會處罰告知書，股票交易於2019年4月9日、2024年6月8日被實施其他風險警示。2026年4月24日，公司被法院裁定受理重整，股票自4月28日起被實施退市風險警示。本次撤銷其他風險警示後，公司仍繼續被實施退市風險警示，股票簡稱等不變，股票正常交易。若重整失敗，公司股票將面臨終止上市風險。"
+    },
+    {
+      "id": "4981334",
+      "time": "2026-07-10 20:41:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贊宇科技：股東方銀軍擬減持不超過0.21%股份】贊宇科技公告，持有5%以上股份的股東方銀軍先生持有公司股份2380.18萬股，佔公司總股本比例為5.06%。其計劃自本公告披露之日起15個交易日後的三個月內（2026年8月3日—2026年11月2日），以集中競價交易方式減持不超過100萬股，佔公司總股本比例為0.21%。"
+    },
+    {
+      "id": "4981333",
+      "time": "2026-07-10 20:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：加快完善綜合交通運輸法規體系 加強重點領域、新興領域、涉外領域立法】7月10日，交通運輸部召開黨組會，審議《交通運輸立法工作方案（2026—2030年）》。會議強調，要堅持科學立法、民主立法、依法立法，加快完善綜合交通運輸法規體系，加強重點領域、新興領域、涉外領域立法，加強不同運輸方式法律制度銜接協調，提高立法質量，為交通運輸高質量發展提供法治保障。"
+    },
+    {
+      "id": "4981332",
+      "time": "2026-07-10 20:40:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【AI投資狂潮之下 科技巨頭債務規模翻倍】全球大舉建設人工智慧資料中心的科技巨頭在過去五年將債務規模擴大了一倍。為了支撐一場前所未有的資本支出狂潮，這些公司紛紛舉債融資，並認為這是推動經濟轉型所必需的。資料顯示，美國資料中心投資規模最大的五家公司 ——Alphabet Inc.、亞馬遜、Meta Platforms微軟和甲骨文 —— 過去五年合計新增債務約3500億美元。這些公司押注，前沿人工智慧服務終將帶來可觀的新收入。投資者此前一直熱捧這些企業，積極認購其發行的各種幣種債券。不過，據知情人士透露，亞馬遜本週250億美元債券發行卻遭遇了不同尋常的冷遇，顯示資本市場承接科技巨頭持續融資以支援AI投資的能力並非無限。"
+    },
     {
       "id": "mkt:019f4c0a-9ea3-7aab-8d33-01fe1af64ab1",
       "time": "2026-07-10 20:39:52",
