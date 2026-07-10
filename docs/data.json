@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-11 04:00:02",
-  "count": 16204,
+  "updated": "2026-07-11 04:03:54",
+  "count": 16205,
   "items": [
+    {
+      "id": "mkt:019f4da0-acec-7aab-8d39-bc9b61d74c94",
+      "time": "2026-07-11 04:03:23",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Friday, July 10. Dow Jones Industrial Average rose 149.48 points, or 0.28%, to 52,636.89; S&P 500 gained 31.65 points, or 0.42%, to 7,575.29; Nasdaq Composite added 74.72 points, or 0.29%, to 26,281.61."
+    },
+    {
+      "id": "mkt:019f4da0-56c1-7aab-8d39-b32984ebdbc1",
+      "time": "2026-07-11 04:03:01",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bearish"
+      ],
+      "text": "Moderna (MRNA.O) shares closed down 11%, the largest one-day drop since May 2025."
+    },
+    {
+      "id": "mkt:019f4d9f-d92c-7aab-8d39-ad4ceac8aa5a",
+      "time": "2026-07-11 04:02:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Meta Platforms (META.O) rose 11% over two trading sessions, its largest two-day gain since April 2025."
+    },
+    {
+      "id": "4981897",
+      "time": "2026-07-11 04:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約證券交易所公佈，6 月末市場空頭持倉規模上升 2.1%，達 230.4 億股。"
+    },
+    {
+      "id": "4981896",
+      "time": "2026-07-11 04:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫德納股價下挫11%，為2025年5月以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019f4d9f-07db-7aab-8d39-a3025ca0f8cb",
+      "time": "2026-07-11 04:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "META.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indexes up modestly; SK Hynix U.S. debut up nearly 13%】U.S. equities closed modestly higher on Friday: Dow +0.29%, S&P 500 +0.42%, Nasdaq +0.29%. SK Hynix (SKHYV.O) jumped 12.76% in its U.S. debut, supporting semiconductor-related names; Meta Platforms (META.O) +5.97%, SanDisk (SNDK.O) +3.10%, NVIDIA (NVDA.O) +4.03%. The Nasdaq Golden Dragon China Index fell 0.23%."
+    },
+    {
+      "id": "te:markets:566128",
+      "time": "2026-07-11 04:01:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "MXN Strengthens with Emerging Market Currencies — The Mexican peso strengthened to 17.48 per USD in July from 17.63 earlier in the month, tracking gains across other emerging market currencies as the US dollar weakened. Risk appetite improved after signs that diplomatic talks between the US and Iran are continuing despite recent tensions, easing geopolitical concerns and reducing demand for safe-haven assets. Domestically, Mexico's annual inflation rate eased to 3.37% in June 2026 from 3.94% in May, the lowest reading since December 2020. The figure came in slightly below market expectations of 3.52% and remained within the Bank of Mexico's target tolerance range of one percentage point around 3%. Meanwhile, Mexico's industrial output contracted by more than expected in May, though the impact on the peso was limited as improving global risk sentiment outweighed weaker domestic data."
+    },
+    {
+      "id": "4981895",
+      "time": "2026-07-11 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.29%，標普500指數漲0.42%，納指漲0.29%。惠好漲4.16%，SBA通訊公司漲4.14%。“七姐妹”方面：Meta Platforms漲5.97%，英偉達漲4.03%，特斯拉漲0.30%，微軟漲0.19%，蘋果跌0.28%，谷歌跌0.34%，亞馬遜跌0.69%。"
+    },
+    {
+      "id": "4981894",
+      "time": "2026-07-11 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.19%】360數科跌11.22%，樂信跌8.51%，盛豐物流跌8.38%，網易有道跌5.15%，網易跌4.44%。"
+    },
     {
       "id": "mkt:019f4d9c-314e-7aab-8d39-9d66cd71526d",
       "time": "2026-07-11 03:58:29",
@@ -147707,71 +147808,6 @@
         "市場"
       ],
       "text": "瑞士寶盛銀行（Swissquote Bank）高階分析師Ipek Ozkardeskaya）表示：“最終將由通脹資料來決定這一轉變是否會持續……我們可能會看到美元鞏固近期的漲幅，未來幾天黃金和主要貨幣的上漲空間有限。”"
-    },
-    {
-      "id": "4970097",
-      "time": "2026-07-04 04:03:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西農業綜合企業Patria Agronegocios資料顯示，巴西農戶已完成2026年第二季玉米種植面積26.5%的收割作業，去年同期收割完成率為28.43%。"
-    },
-    {
-      "id": "4970096",
-      "time": "2026-07-04 04:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：以色列持續在約旦河西岸擴建定居點的行徑完全無法接受。"
-    },
-    {
-      "id": "mkt:019f2992-6fa5-7aab-8c9a-ee47b4c9b780",
-      "time": "2026-07-04 04:01:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VON DER LEYEN said Europe faces a housing crisis and the European Commission plans to establish a 'European Housing Alliance' and convene a high-level summit on housing."
-    },
-    {
-      "id": "4970095",
-      "time": "2026-07-04 04:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉祝賀秘魯當選總統藤森勝選。"
-    },
-    {
-      "id": "4970094",
-      "time": "2026-07-04 04:01:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行今日外匯儲備規模為482.4億美元。"
-    },
-    {
-      "id": "4970093",
-      "time": "2026-07-04 04:01:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票交易所標普/多倫多綜合指數非官方收盤上漲308.17點，漲幅0.88%，報35274.84點。"
-    },
-    {
-      "id": "4970092",
-      "time": "2026-07-04 04:00:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩： 歐洲正面臨住房危機。 我們旨在啟動一個歐洲住房聯盟，我們將召開一個高層歐洲住房峰會。"
-    },
-    {
-      "id": "4970091",
-      "time": "2026-07-04 04:00:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【極端高溫席捲美國中東部，建國 250 週年獨立日大量慶典取消】當地時間週五，一場極端高溫熱浪席捲美國中部與東部大片區域，嚴重打亂各地美國獨立日慶典安排。正值美國迎來建國 250 週年，多地官方被迫取消或推遲數十場遊行、音樂會與煙花燃放活動。華盛頓國家廣場舉辦的 “全美大型州立博覽會” 是特朗普總統主推的建國 250 週年核心紀念活動，同樣遭酷暑衝擊。週五午後當地氣溫升至 101 華氏度（38 攝氏度），博覽會臨時閉園。活動主辦方表示，若天氣條件允許，博覽會將於當日 17 時重新對外開放，並增設降溫帳篷、噴霧降溫站等防暑配套設施。美國國家氣象局稱，本週早些時候，創紀錄高溫從中西部蔓延至美國東部；週五全美超 1.85 億人處於高溫預警覆蓋範圍內，多地體感溫度峰值或將高達 115 華氏度（46 攝氏度）。"
     }
   ]
 }
