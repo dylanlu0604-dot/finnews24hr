@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-10 20:00:23",
+  "updated": "2026-07-10 20:04:25",
   "count": 15803,
   "items": [
+    {
+      "id": "4981272",
+      "time": "2026-07-10 20:03:23",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "英國金融行為監管局（FCA）：英國央行、審慎監管局及金融行為監管局將於7月13日起對首批關鍵第三方機構開展監管。財政部已將AWS、Google Cloud、Microsoft、Oracle指定為關鍵第三方機構。"
+    },
+    {
+      "id": "4981271",
+      "time": "2026-07-10 20:02:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【普萊得：擬以不超過4.23億元人民幣向泰國子公司增資】普萊得公告，公司及全資子公司擬以現有持股比例向普萊得電器（泰國）有限公司增資不超過4.23億元人民幣，並投資建設泰國新生產基地。專案擬新建生產廠房及配套設施，新增購置自動化、數字化生產線和資訊化配套裝置，達產後將形成年產700萬臺電動工具的生產能力。"
+    },
+    {
+      "id": "4981270",
+      "time": "2026-07-10 20:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總將針對浙江福建的防汛防颱風應急響應提升至二級】今年第9號颱風“巴威”7月10日18時中心位於浙閩交界東南方向約800公里的海面上，中心附近最大風力13級（40米每秒，颱風級）。預計颱風“巴威”將以每小時20～25公里的速度向西北方向移動，強度還將有所加強，並逐漸向浙閩沿海靠近，將於12日凌晨在福建霞浦至浙江溫嶺一帶沿海登陸（強颱風或颱風級，13～14級，38～45米每秒）。受其影響，預計10日至11日，浙江東南部、福建東北部等地有暴雨到大暴雨；未來三天華北、東北地區將有大到暴雨，河北東北部、遼寧北部局地有大暴雨到特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月10日18時將針對浙江、福建的防汛防颱風應急響應由三級提升至二級，19時針對河北、遼寧啟動防汛四級應急響應。國家防總辦公室已派出2個工作組分赴浙江、福建兩省一線協助指導防汛防颱風工作。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f4be8-21a6-7aab-8d31-f80784ef10c9",
+      "time": "2026-07-10 20:02:11",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact mixed",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "The Financial Conduct Authority said the Bank of England, Prudential Regulation Authority and the FCA will from July 13 begin regulating the first batch of designated critical third-party providers. The UK Treasury has named Amazon Web Services, Google Cloud, Microsoft and Oracle as critical third-party providers."
+    },
+    {
+      "id": "4981269",
+      "time": "2026-07-10 20:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌雲光：擬擇機出售不超過33.48萬股智譜股票】凌雲光(688400.SH)公告稱，公司董事會審議透過議案，擬授權管理層擇機出售凌雲光國際所持有的部分智譜股票，合計不超過33.48萬股，授權期限自股東會審議透過之日起12個月內。該議案尚需提交股東會審議。"
+    },
+    {
+      "id": "4981268",
+      "time": "2026-07-10 20:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "BITFUFU ：2026年6月產出125枚比特幣，環比下降29.4%。"
+    },
+    {
+      "id": "4981267",
+      "time": "2026-07-10 20:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱AMD將於本月釋出Venice CPU】據報道，AMD將於7月22日至23日舉行的Advancing AI活動上推出基於Zen 6架構的EPYC Venice CPU。據悉，EPYC Venice的效能和能效比其基於Zen 5的前代產品提升超過70%。"
+    },
+    {
+      "id": "4981266",
+      "time": "2026-07-10 20:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "景順六月總資產管理規模為2.47萬億美元，環比增長0.7%。"
+    },
+    {
+      "id": "mkt:019f4be7-81c9-7aab-8d31-f0ceb2fef4e7",
+      "time": "2026-07-10 20:01:30",
+      "tags": [
+        "MKT News",
+        "IVZ.O",
+        "Impact bullish"
+      ],
+      "text": "Invesco's total assets under management in June were $2.47 tln, up 0.7% MoM."
+    },
+    {
+      "id": "mkt:019f4be6-f85f-7aab-8d31-e98a8d0673f1",
+      "time": "2026-07-10 20:00:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.65% to 896.8 yuan/gram in early trade of the July 10 evening session; silver T+D gained 2.75% to 14,624 yuan/kg."
+    },
+    {
+      "id": "mkt:019f4be6-93f9-7aab-8d31-e4da26a72f9d",
+      "time": "2026-07-10 20:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil consumer prices rose 0.16% MoM in June, below the market expectation of a 0.31% rise."
+    },
+    {
+      "id": "4981265",
+      "time": "2026-07-10 20:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西6月消費者價格指數環比上漲0.16%；此前預期上漲0.31%。"
+    },
     {
       "id": "4981264",
       "time": "2026-07-10 19:58:54",
@@ -144054,115 +144162,6 @@
         "MKT News"
       ],
       "text": "USD/CAD hit 1.42, up 0.14% intraday."
-    },
-    {
-      "id": "4969790",
-      "time": "2026-07-03 20:03:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【交通運輸部：推動夜遊船高質量發展 不斷培育壯大夜遊船經濟】7月3日，交通運輸部黨組書記、部長劉偉主持召開部務會，進一步部署交通運輸安全生產工作，審議《鐵路工程建設失信管理辦法》《關於推動夜遊船高質量發展促進消費的若干措施》等。會議強調，要認真落實國務院常務會議精神，深入實施“人工智慧+交通運輸”行動，加快完善“人工智慧+交通運輸”發展和治理體系，守牢人工智慧安全底線。要落實好《“十五五”碳達峰行動方案》《國民健康“十五五”規劃》涉交通運輸各項工作。會議強調，要強化鐵路工程監督管理，進一步推進鐵路工程建設領域信用體系建設，維護公平有序的鐵路工程建設市場秩序。會議強調，要推動夜遊船高質量發展，完善基礎設施功能，提升服務品質，加強政策支援引導和統計監測，強化安全應急保障，不斷培育壯大夜遊船經濟，激發消費市場活力。"
-    },
-    {
-      "id": "4969789",
-      "time": "2026-07-03 20:03:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海好望角型船運價指數上漲 5.05%，報每日 33678 美元。"
-    },
-    {
-      "id": "4969788",
-      "time": "2026-07-03 20:03:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來法務部：有網路賬號長期在小紅書釋出涉蔚來各品牌虛假促銷資訊，多名嫌疑人已被依法採取刑事強制措施】7月3日，@蔚來法務部 發文稱，部分網路賬號長期持續在小紅書平臺釋出涉及蔚來公司各品牌虛假促銷資訊，編造話術誘導消費者留資，非法套取個人資訊。針對這類嚴重侵害使用者權益的違法行為，蔚來已正式向公安機關報案。目前公安部門已介入查辦，多名涉案嫌疑人依情節輕重，分別被採取刑事強制措施及行政處罰。"
-    },
-    {
-      "id": "4969787",
-      "time": "2026-07-03 20:02:41",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗正尋求向日本出售石油，但潛在買家希望獲得更長的制裁豁免期】三位伊朗和西方訊息人士稱，伊朗已開始與日本公司就出售石油進行談判，但潛在買家希望獲得美國更長的制裁豁免期，並就海灣地區的安全航行條件獲得保證。美國於今年6月批准伊朗石油買賣，此舉放鬆了長達數十年的制裁，旨在推動與德黑蘭達成最終和平協議，以換取伊朗在核檢查和霍爾木茲海峽航行自由方面的承諾。美國財政部目前的制裁豁免允許在8月21日之前的伊朗原油、石化產品和石油製品買賣。隨著美國總統特朗普於2018年退出伊朗核協議，近年來制裁力度加大，韓國、日本、印度和歐洲等國的客戶停止購買伊朗石油。"
-    },
-    {
-      "id": "mkt:019f27dc-0e27-7aab-8c95-845f827bac19",
-      "time": "2026-07-03 20:02:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran opens talks to sell oil to Japan; buyers seek longer US waivers and Gulf shipping guarantees】Iran has begun talks with Japanese firms to sell oil, three Iranian and Western sources said. Potential buyers are seeking longer US sanctions waivers and guarantees on secure shipping in the Gulf. In June the US approved limited purchases of Iranian crude to encourage a final agreement with Tehran in exchange for commitments on nuclear inspections and freedom of navigation in the Strait of Hormuz. The US Treasury’s current waiver covers Iranian crude, petrochemicals and oil products through Aug. 21. After President Trump withdrew from the 2015 nuclear deal in 2018, sanctions were tightened and buyers in South Korea, Japan, India and Europe largely stopped purchasing Iranian oil."
-    },
-    {
-      "id": "mkt:019f27db-d284-7aab-8c95-7a3b61000db5",
-      "time": "2026-07-03 20:02:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China Securities Depository and Clearing Corporation (ChinaClear) published trial essential clauses for the bond general pledge repo transaction settlement entrustment agreement and for the bond general pledge repo transaction settlement risk disclosure."
-    },
-    {
-      "id": "4969786",
-      "time": "2026-07-03 20:02:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國結算釋出《債券通用質押式回購交易結算委託協議必備條款（試行）》和《債券通用質押式回購交易結算風險揭示書必備條款（試行）》的通知。"
-    },
-    {
-      "id": "mkt:019f27db-5a0c-7aab-8c95-7603f5ae544f",
-      "time": "2026-07-03 20:01:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 2.61 pct to 910.29 yuan/gram at the opening of the July 3 (Friday) evening session. Shanghai Gold Exchange silver T+D rose 4.68 pct to 15,260 yuan/kg at the same session opening."
-    },
-    {
-      "id": "4969785",
-      "time": "2026-07-03 20:01:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "沈鼓集團股份有限公司滬市主機板IPO獲上市委會議透過。"
-    },
-    {
-      "id": "4969784",
-      "time": "2026-07-03 20:01:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局釋出多項宇航領域國家標準】記者今天瞭解到，市場監管總局近日批准釋出《平板式堆疊衛星星箭機械介面要求》《全球衛星導航系統（GNSS）定位增強中心要求》等多項宇航領域國家標準。"
-    },
-    {
-      "id": "mkt:019f27da-4efe-7aab-8c95-6d8084254dd1",
-      "time": "2026-07-03 20:00:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil May industrial production fell 0.2% MoM (market expected +0.3%) and rose 0.2% YoY (expected +1.2%)."
-    },
-    {
-      "id": "4969783",
-      "time": "2026-07-03 20:00:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪祺電氣：持股5%以上股東擬協議轉讓12.65%股份】雪祺電氣公告稱，持股5%以上股東志道投資於2026年7月3日與劉翔簽署《股份轉讓協議》，擬將2314.99萬股（佔總股本12.6481%）以12.8元/股、總價2.96億元轉讓給劉翔。本次轉讓不觸及要約收購，不涉及關聯交易，不會導致公司控股股東、實際控制人及控制權變更。受讓方承諾18個月內不減持，轉讓方承諾交割前解除1482萬股質押。本次轉讓尚需交易所確認及辦理過戶手續，存在不確定性。"
     }
   ]
 }

@@ -1,7 +1,115 @@
 {
   "date": "2026-07-10",
-  "count": 2271,
+  "count": 2283,
   "items": [
+    {
+      "id": "4981272",
+      "time": "2026-07-10 20:03:23",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "英國金融行為監管局（FCA）：英國央行、審慎監管局及金融行為監管局將於7月13日起對首批關鍵第三方機構開展監管。財政部已將AWS、Google Cloud、Microsoft、Oracle指定為關鍵第三方機構。"
+    },
+    {
+      "id": "4981271",
+      "time": "2026-07-10 20:02:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【普萊得：擬以不超過4.23億元人民幣向泰國子公司增資】普萊得公告，公司及全資子公司擬以現有持股比例向普萊得電器（泰國）有限公司增資不超過4.23億元人民幣，並投資建設泰國新生產基地。專案擬新建生產廠房及配套設施，新增購置自動化、數字化生產線和資訊化配套裝置，達產後將形成年產700萬臺電動工具的生產能力。"
+    },
+    {
+      "id": "4981270",
+      "time": "2026-07-10 20:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總將針對浙江福建的防汛防颱風應急響應提升至二級】今年第9號颱風“巴威”7月10日18時中心位於浙閩交界東南方向約800公里的海面上，中心附近最大風力13級（40米每秒，颱風級）。預計颱風“巴威”將以每小時20～25公里的速度向西北方向移動，強度還將有所加強，並逐漸向浙閩沿海靠近，將於12日凌晨在福建霞浦至浙江溫嶺一帶沿海登陸（強颱風或颱風級，13～14級，38～45米每秒）。受其影響，預計10日至11日，浙江東南部、福建東北部等地有暴雨到大暴雨；未來三天華北、東北地區將有大到暴雨，河北東北部、遼寧北部局地有大暴雨到特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月10日18時將針對浙江、福建的防汛防颱風應急響應由三級提升至二級，19時針對河北、遼寧啟動防汛四級應急響應。國家防總辦公室已派出2個工作組分赴浙江、福建兩省一線協助指導防汛防颱風工作。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f4be8-21a6-7aab-8d31-f80784ef10c9",
+      "time": "2026-07-10 20:02:11",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact mixed",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "The Financial Conduct Authority said the Bank of England, Prudential Regulation Authority and the FCA will from July 13 begin regulating the first batch of designated critical third-party providers. The UK Treasury has named Amazon Web Services, Google Cloud, Microsoft and Oracle as critical third-party providers."
+    },
+    {
+      "id": "4981269",
+      "time": "2026-07-10 20:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌雲光：擬擇機出售不超過33.48萬股智譜股票】凌雲光(688400.SH)公告稱，公司董事會審議透過議案，擬授權管理層擇機出售凌雲光國際所持有的部分智譜股票，合計不超過33.48萬股，授權期限自股東會審議透過之日起12個月內。該議案尚需提交股東會審議。"
+    },
+    {
+      "id": "4981268",
+      "time": "2026-07-10 20:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "BITFUFU ：2026年6月產出125枚比特幣，環比下降29.4%。"
+    },
+    {
+      "id": "4981267",
+      "time": "2026-07-10 20:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱AMD將於本月釋出Venice CPU】據報道，AMD將於7月22日至23日舉行的Advancing AI活動上推出基於Zen 6架構的EPYC Venice CPU。據悉，EPYC Venice的效能和能效比其基於Zen 5的前代產品提升超過70%。"
+    },
+    {
+      "id": "4981266",
+      "time": "2026-07-10 20:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "景順六月總資產管理規模為2.47萬億美元，環比增長0.7%。"
+    },
+    {
+      "id": "mkt:019f4be7-81c9-7aab-8d31-f0ceb2fef4e7",
+      "time": "2026-07-10 20:01:30",
+      "tags": [
+        "MKT News",
+        "IVZ.O",
+        "Impact bullish"
+      ],
+      "text": "Invesco's total assets under management in June were $2.47 tln, up 0.7% MoM."
+    },
+    {
+      "id": "mkt:019f4be6-f85f-7aab-8d31-e98a8d0673f1",
+      "time": "2026-07-10 20:00:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.65% to 896.8 yuan/gram in early trade of the July 10 evening session; silver T+D gained 2.75% to 14,624 yuan/kg."
+    },
+    {
+      "id": "mkt:019f4be6-93f9-7aab-8d31-e4da26a72f9d",
+      "time": "2026-07-10 20:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil consumer prices rose 0.16% MoM in June, below the market expectation of a 0.31% rise."
+    },
+    {
+      "id": "4981265",
+      "time": "2026-07-10 20:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西6月消費者價格指數環比上漲0.16%；此前預期上漲0.31%。"
+    },
     {
       "id": "4981264",
       "time": "2026-07-10 19:58:54",
