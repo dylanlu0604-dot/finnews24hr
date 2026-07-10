@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-11 06:13:14",
-  "count": 16236,
+  "updated": "2026-07-11 06:17:07",
+  "count": 16234,
   "items": [
+    {
+      "id": "te:markets:566136",
+      "time": "2026-07-11 06:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Increases by 0.99% — Top currency gainers are Polish Zloty (0.99%), Brazilian Real (0.50%), Mexican Peso (0.43%), Japanese Yen (0.41%) and Dollar Index (0.06%). Biggest losers are Norwegian Krone (-0.61%) and Euro (-0.14%). Meanwhile British Pound was little changed."
+    },
     {
       "id": "4981945",
       "time": "2026-07-11 06:09:02",
@@ -148119,34 +148130,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Gains by 2.60% — Top commodity gainers are Natural Gas UK (2.60%), Heating Oil (2.33%), Natural Gas EU (2.30%), Brent Crude Oil (0.42%) and Crude Oil WTI (0.11%)."
-    },
-    {
-      "id": "te:markets:564229",
-      "time": "2026-07-04 06:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 0.99% — Top currency gainers are Brazilian Real (0.99%) and South Korean Won (0.73%). Biggest loser is Japanese Yen (-0.16%). Meanwhile, Euro, British Pound and Dollar Index were little changed."
-    },
-    {
-      "id": "4970146",
-      "time": "2026-07-04 06:15:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普登上空軍一號前往南達科他州，當地時間週五他將在拉什莫爾山發表獨立日前夜講話。"
-    },
-    {
-      "id": "4970145",
-      "time": "2026-07-04 06:14:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國福克斯電視臺就傳播“抹黑”中國言論道歉】6月的最後一週，美國福克斯電視臺上演了一出罕見的“道歉劇”。福克斯旗下多檔節目的主持人就傳播“抹黑”中國言論道歉，這一幕在福克斯電視臺歷史上並不常見。福克斯電視臺主持人：凱文·奧利裡曾在5月11日參加節目，談及他在猶他州擬建的資料中心專案引發的持續爭議。當時，他針對反對者發表了部分言論，奧利裡先生現已更正相關表述，說明他沒有證據證明“更好猶他聯盟”、提升策略公司喬希·坎特、泰勒·克努特、加布裡埃爾·芬利森接受了中國或中國共產黨的資助。福克斯新聞傳媒同樣確認，沒有證據表明上述主體在反對奧利裡的專案時接受了中國的資助，受其指揮或與其配合。福克斯新聞傳媒為這一失誤致歉。（央視新聞）"
     }
   ]
 }
