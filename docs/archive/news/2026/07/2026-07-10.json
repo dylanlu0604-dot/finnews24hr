@@ -1,7 +1,100 @@
 {
   "date": "2026-07-10",
-  "count": 1913,
+  "count": 1923,
   "items": [
+    {
+      "id": "mkt:019f4b74-6d8d-7aab-8d2f-a5cd031028b9",
+      "time": "2026-07-10 17:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Clacton by-election set for August 13 after Reform UK leader Nigel Farage resigned his parliamentary seat."
+    },
+    {
+      "id": "4980988",
+      "time": "2026-07-10 17:54:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三和管樁：終止與專業機構共同投資並登出產業基金】三和管樁公告稱，2023年公司擬與恆健資產、中山發展基金共同投資設立產業基金，總認繳規模20.01億元，各合夥人已完成首期實繳出資。但受市場環境變化影響，基金投資專案推進未達預期。各方決定終止投資並登出基金。截至2026年7月1日，基金剩餘財產1026.09萬元，將按實繳出資比例分配。目前，該基金工商登出手續已辦理完畢，此次清算不構成重大資產重組，對公司無重大影響。"
+    },
+    {
+      "id": "mkt:019f4b73-1263-7aab-8d2f-9892144414b8",
+      "time": "2026-07-10 17:54:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Bandar Abbas port authority said a US strike on its pier destroyed 30 fishing vessels and caused about 600 billion Iranian rials in damage."
+    },
+    {
+      "id": "4980987",
+      "time": "2026-07-10 17:53:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方Ａ：公司第8.6代AMOLED生產線已於6月17日量產】京東方Ａ(000725)7月10日在互動平臺表示，公司第8.6代AMOLED生產線已於6月17日量產。"
+    },
+    {
+      "id": "4980986",
+      "time": "2026-07-10 17:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶銀行：涉5億元債權投資訴訟被最高法提審】重慶銀行公告稱，因認為重慶愛普地產債券發行披露檔案存在虛假陳述，該行此前已提起訴訟。近日，最高人民法院裁定提審本案，涉案債權投資本金5億元及按合同約定計算的利息和逾期利息等。該行已將該債權投資納入不良並計提減值準備，預計不會對本期或期後利潤造成重大影響。"
+    },
+    {
+      "id": "mkt:019f4b72-7b6f-7aab-8d2f-927d44a84174",
+      "time": "2026-07-10 17:53:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Institution: Consumption and pharmaceuticals are twin engines driving China's socioeconomic upgrade】CITIC Securities executive committee member Li Yongjin said China is in a cycle of shifting growth drivers. He warned of near-term domestic-demand pressure for consumption and the pharmaceuticals sector but said the rise of new productive forces and structural transformation should help stabilise China’s long-term potential growth. He flagged expanding total consumption and continued pharmaceutical innovation and internationalisation as clear long-term trends that sustain identifiable sectoral investment opportunities."
+    },
+    {
+      "id": "4980985",
+      "time": "2026-07-10 17:53:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【好萊客：股票交易異常波動 不存在應披露未披露重大資訊】好萊客公告稱，公司股票於2026年7月9日、7月10日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經自查及向大股東和實控人核實，截至公告披露日，公司生產經營正常，內外部環境無重大變化，不存在應披露而未披露的重大資訊，相關方在此期間未買賣公司股票。公司提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4980984",
+      "time": "2026-07-10 17:53:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京投發展：籌劃重大資產重組 尚處推進協商階段】京投發展公告稱，公司擬將房地產開發業務相關資產及負債轉讓給控股股東京投公司，採用現金支付，不涉及發行股份，不影響股權結構和控股股東變更，構成重大資產重組及關聯交易。截至公告披露日，公司持續推進整體工作，組織中介開展盡職調查、審計、評估等，與各方溝通協商。標的具體範圍、交易價格等未確定，雙方未籤協議，事項尚處籌劃階段，存在重大不確定性。"
+    },
+    {
+      "id": "mkt:019f4b71-ecc1-7aab-8d2f-8f48162175ce",
+      "time": "2026-07-10 17:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nanfang Pump said its pumps have been deployed in some water-conservancy projects; the company currently has no smart pumps or digital-twin pump-station products for water network construction."
+    },
+    {
+      "id": "4980983",
+      "time": "2026-07-10 17:52:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：佈局的玻璃基封裝載板是玻璃芯和ABF混合方案】京東方A在互動平臺表示，公司佈局的玻璃基封裝載板是玻璃芯（Glass Core）和ABF混合方案。"
+    },
     {
       "id": "te:economy:566019",
       "time": "2026-07-10 17:51:25",
