@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 02:59:30",
-  "count": 16210,
+  "updated": "2026-07-11 03:03:49",
+  "count": 16207,
   "items": [
+    {
+      "id": "4981868",
+      "time": "2026-07-11 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.35%，報24242.40點，高水67.28點。"
+    },
     {
       "id": "mkt:019f4d64-f103-7aab-8d39-08eca3dd38f2",
       "time": "2026-07-11 02:58:08",
@@ -147759,40 +147767,6 @@
         "國際"
       ],
       "text": "澤連斯基：我同荷蘭首相進行了一場極具實質內容的會談。對方願意持續向我國提供援助，對此我深表感激。"
-    },
-    {
-      "id": "mkt:019f295c-df99-7aab-8c9a-8270229d442d",
-      "time": "2026-07-04 03:03:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said the United States must \"accept the established realities in the field of trade\"."
-    },
-    {
-      "id": "mkt:019f295b-fb7b-7aab-8c9a-7b923badc9f2",
-      "time": "2026-07-04 03:02:01",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures fell 0.2% in the night session to 23,253, trading 97 points below the cash index."
-    },
-    {
-      "id": "4970055",
-      "time": "2026-07-04 03:01:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國電網運營巨頭PJM Interconnection LLC：我們無法提供預料的電力供應要求。"
-    },
-    {
-      "id": "4970054",
-      "time": "2026-07-04 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.20%，報23252.01點，低水98.02點。"
     }
   ]
 }
