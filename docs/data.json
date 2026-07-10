@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-11 02:44:04",
-  "count": 16201,
+  "updated": "2026-07-11 02:47:53",
+  "count": 16202,
   "items": [
+    {
+      "id": "4981859",
+      "time": "2026-07-11 02:47:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【衛星影象顯示伊朗或正在重建核設施，疑違反美伊協議】據報道，衛星影象顯示，伊朗可能正在重建部分疑似核設施和導彈相關設施。影象顯示，6月底至7月初，伊朗多個地點出現新的活動跡象，其中部分核設施的動向引發外界關注。媒體分析稱，位於帕爾欽軍事基地的塔勒甘2號設施出現修復和重建跡象。該設施被部分專家認為與核武器爆炸材料儲存有關，衛星影象顯示，美以此前空襲造成的多個彈坑正在進行修復。此外，疑似地下核設施“鎬山”的衛星影象顯示，在美伊6月17日簽署的諒解備忘錄生效期間，仍有車輛進出地下隧道。這一動向引發了疑問：伊朗是否違反了其在6月底與美國簽署的諒解備忘錄？時間甚至早於特朗普決定結束該諒解備忘錄，並對伊朗發動新一輪襲擊。"
+    },
+    {
+      "id": "mkt:019f4d59-c69c-7aab-8d38-eb430b9a6bb1",
+      "time": "2026-07-11 02:45:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Treasury Secretary Bessent said Iran's supreme leader is isolated and the US will continue to press to sever the Iranian leadership's links to the global financial system."
+    },
+    {
+      "id": "mkt:019f4d59-c4b4-7aab-8d38-e545208df24e",
+      "time": "2026-07-11 02:45:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CNN: Satellite images suggest Iran may be rebuilding suspected nuclear, missile sites】CNN reported satellite imagery showing Iran may be rebuilding suspected nuclear and missile-related facilities, with new activity at multiple sites in late June–early July. Images indicate repair and reconstruction at a facility called Taleghan‑2 at the Parchin military base — which some experts link to storage of nuclear explosive material — including restoration of craters from prior U.S./Israeli strikes. Imagery of a suspected underground site named Gaoshan shows vehicle movement into tunnels during the period the U.S.-Iran memorandum of understanding signed June 17 was in effect, raising questions whether Iran breached the late‑June MoU; the activity predates U.S. President Trump’s decision to terminate the MoU and order new strikes."
+    },
     {
       "id": "4981858",
       "time": "2026-07-11 02:42:54",
@@ -147685,22 +147718,6 @@
         "其他"
       ],
       "text": "洲際交易所柴油投機客在截至 6 月 30 日當週削減 2664 手淨多頭持倉，淨多頭持倉降至 57852 手。"
-    },
-    {
-      "id": "mkt:019f294c-4988-7aab-8c9a-6142b6ccacec",
-      "time": "2026-07-04 02:44:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Peru election body declares Keiko Fujimori president】Peru's National Elections Jury on July 3 (local time) declared Popular Force candidate Keiko Fujimori president after she won 50.135% of valid votes in the presidential runoff. She is due to be sworn in on July 28 for a five-year term."
-    },
-    {
-      "id": "4970051",
-      "time": "2026-07-04 02:44:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智利兩大礦企為鋰合資專案增產70%規劃路徑】智利化工礦業(SQM)和智利國家銅業(Codelco)正為其大型鋰合資專案增產逾70%鋪路，對電池需求進行長期押注。在一份關於30億美元業務改造計劃的環境影響研究中，該合資企業Novandino表示，其目標是年產量最高達到47萬噸。相比之下，今年的指引約為27萬噸。該公司沒有說明何時將達到這一新目標。除了電動汽車需求外，電網級電池儲能也在拉動需求，Novandino希望抓住全球鋰消費兩位數增長的機遇。隨著該行業走出全球供應過剩，這一擴張可能給成本較高的競爭對手帶來壓力。儘管如此，新增產量仍需數年時間才能實現。根據週五提交的檔案，在現有框架下，產量預計將逐步升至約30萬噸，之後該合資企業將開始為期七年的過渡，轉向納入直接鋰提取等技術的綜合生產系統。"
     }
   ]
 }
