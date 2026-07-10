@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-11 05:18:18_
-_本檔包含 3443 則快訊，約 612377 字_
+_更新時間：2026-07-11 06:37:57_
+_本檔包含 3412 則快訊，約 612771 字_
+
+---
+
+### 2026-07-10 03:58:26  #公司
+
+市場訊息：Cursor公司正開發一款人工智慧代理，對標Claude 3 Opus複製。
+
+---
+
+### 2026-07-10 03:56:50  #國際
+
+以色列總理辦公室宣告： 內塔尼亞胡總理與特朗普總統持續保持溝通，二人於今晚再次通電話，雙方同意兩國在多條戰線持續開展協同行動。特朗普總統向總理通報了美國在海灣地區採取的相關行動。以色列總理則提及埃爾多安及其幕僚發表諸多否定以色列國家生存權的激烈言論，並強調需沿以色列邊境設立安全緩衝區。
+
+---
+
+### 2026-07-10 03:56:01  #國際
+
+市場訊息：以色列總理內塔尼亞胡與特朗普總統通話“以協調在各個領域的行動”，以色列總理辦公室表示。特朗普向內塔尼亞胡通報了美國針對伊朗的行動。
+
+---
+
+### 2026-07-10 03:55:24  #MKT News
+
+The Israeli Prime Minister's Office said Prime Minister Netanyahu and US President Trump spoke by phone and agreed to continue coordination across multiple areas.
+
+---
+
+### 2026-07-10 03:53:58  #國際
+
+特朗普與內塔尼亞胡就伊朗問題展開會談。
+
+---
+
+### 2026-07-10 03:53:43  #MKT News
+
+Axios reports the Israeli prime minister's office said Trump spoke with Netanyahu on Thursday to discuss the situation in Iran.
+
+---
+
+### 2026-07-10 03:53:07  #國際
+
+美媒：特朗普週四與以色列總理內塔尼亞胡進行了通話。
+
+---
+
+### 2026-07-10 03:50:43  #公司
+
+紐約證券交易所買賣盤失衡：蘋果公司買方盤口多出430687.0股。
+
+---
+
+### 2026-07-10 03:48:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil prices fell on 9th】By the close, NYMEX August light sweet crude fell $1.44 to $72.08/bbl, down 1.96%. London Brent (ICE) September futures fell $1.72 to $76.30/bbl, down 2.20%.
+
+---
+
+### 2026-07-10 03:48:18  #MKT News
+
+【Reports of attacks on Iran false; explosions caused by air-defence activation】On the evening of July 9 local time, explosions were reported across multiple Iranian cities — southern coastal Bushehr, Choghadak and Bandar Abbas, and southeast coastal Konarak. Axios reported US officials said US forces were not involved. About an hour later Iranian state media denied the attack reports, saying the blasts were caused by the activation of air-defence systems. CNN confirmed the US had not struck Iran an hour earlier. US forces had earlier conducted strikes over two consecutive days, hitting about 170 military targets.
+
+---
+
+### 2026-07-10 03:47:50  #其他
+
+【安迪·伯納姆獲多數工黨議員支援，料將接任英國首相】英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，成為接替基爾·斯塔默、出任工黨新黨魁的唯一熱門人選。伯納姆表示，自己對同僚支援“深表感謝”，稱這反映出工黨希望為英國政治帶來新的方向。他提出的政治主張包括減少倫敦威斯敏斯特權力集中、重塑經濟模式，並推動更廣泛的經濟增長。由於競爭對手無法獲得參選所需的81份提名，伯納姆只需再獲得一份支援即可正式成為唯一候選人。按照安排，工黨黨魁選舉將於7月17日結束，伯納姆預計將在7月20日正式出任英國首相。現任黨魁斯塔默按照慣例不會參與提名投票。
+
+---
+
+### 2026-07-10 03:47:49  #MKT News #Market Regions #Europe & UK
+
+【Andy Burnham wins majority of Labour MPs' backing; likely to become UK prime minister】Andy Burnham secured nominations from 322 of Labour’s 403 MPs on the first day of the party’s leadership contest, making him the clear favorite to replace Keir Starmer and assume the role of UK prime minister. Burnham said he was grateful for colleagues’ support and outlined plans to devolve power away from Westminster, reshape the economic model and promote broader-based growth. Rival candidates failed to reach the 81-MP nomination threshold; Burnham needs one more nomination to become the sole candidate. The leadership contest closes July 17 and he is expected to take office July 20. Starmer will not participate in the nomination vote by convention.
+
+---
+
+### 2026-07-10 03:46:45  #市場 #國際
+
+【美國兩年期國債收益率跌超5個基點，投資者關注油價走勢】週四（7月9日）紐約尾盤，美國10年期國債收益率跌3.40個基點，報4.5451%，北京時間19:24微幅上漲至4.5892%重新整理日高，隨後持續走低、01:50重新整理日低至4.5271%。兩年期美債收益率跌5.21個基點，報4.1640%，亞太盤初至12:39維持微幅下跌狀態、持穩於4.21%附近，20:00以來持續擴大跌幅；30年期美債收益率跌1.95個基點，報5.0577%。2/10年期美債收益率利差漲2.211個基點，報+37.904個基點。10年期通脹保值國債（TIPS）收益率跌1.39個基點，至2.2874%；兩年期TIPS收益率漲1.05個基點，至2.1153%；30年期TIPS收益率跌1.13個基點，至2.8658%。
+
+---
+
+### 2026-07-10 03:46:00  #市場
+
+【國際油價9日下跌 】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌1.44美元，收於每桶72.08美元，跌幅為1.96%；9月交貨的倫敦布倫特原油期貨價格下跌1.72美元，收於每桶76.30美元，跌幅為2.2%。（新華社）
+
+---
+
+### 2026-07-10 03:43:46  #公司 #央行 #國際
+
+【沃什公佈五大工作組負責人 為改革美聯儲鋪路】美聯儲主席凱文·沃什公佈了五個工作組的負責人名單。這些工作組將審視美聯儲在政策制定關鍵領域的做法，並可能推動大範圍改革。工作組負責人包括知名學者、前央行官員和企業高管。五個工作組將分別研究溝通機制、資產負債表、美聯儲“現有資料來源的使用和依賴”、生產率與就業，以及央行的“通脹框架”。“每個工作組都將仔細考慮政策制定者的手段和方法、分析工具以及政策框架是否可以改進，”沃什週四在宣告中表示。“目標很明確：確保美聯儲在這個關鍵時期能夠處於最有利的位置，以實現我們的目標。”沃什在6月宣佈正設立這些工作組時表示，預計各小組將在年底前分享其結論，其外部專家將獲得美聯儲工作人員的支援。沃什週四稱，這些工作組負責人是“來自各個領域的頂尖人才”。前英國央行行長Mervyn King、華盛頓大學學者Peter Fisher以及前巴西央行行長Arminio Fraga將共同領導溝通機制工作組。哈佛大學的Karen Dynan、前印度央行行長Raghuram Rajan以及哈佛大學經濟學教授Jeremy Stein將共同領導資產負債表工作組。哈佛大學的Raj Chetty、沃爾瑪前執行長Doug McMillon以及芝加哥大學的Kevin Murphy將共同領導資料工作組。Andreessen Horowitz的Marc Andreessen、斯坦福大學的Charles I. Jones以及微軟執行副總裁兼Xbox執行長Asha Sharma將領導生產率與就業工作組。哈佛大學的Greg Mankiw、紐約大學的Thomas Sargent以及國際清算銀行前經濟顧問William White將領導通脹框架工作組。
+
+---
+
+### 2026-07-10 03:42:23  #其他
+
+市場訊息：EQT將收購領先的綜合電力與人工智慧基礎設施平臺Copia Power。
+
+---
+
+### 2026-07-10 03:40:22  #MKT News
+
+CNN reported US officials said the US had not launched any new strikes against Iran in the past hour.
+
+---
+
+### 2026-07-10 03:38:59  #國際
+
+美國媒體：截至一小時前，美國未對伊朗發動新打擊。
+
+---
+
+### 2026-07-10 03:37:47  #國際
+
+【巴勒斯坦將於11月28日舉行立法委員會選舉】據巴勒斯坦通訊社9日報道，巴總統阿巴斯9日釋出總統令，定於今年11月28日舉行巴勒斯坦立法委員會選舉，而總統選舉將於2027年第一季度舉行，具體日期另行宣佈。（新華社）
+
+---
+
+### 2026-07-10 03:37:42  #MKT News
+
+【Palestinian Legislative Council election set for Nov. 28】President Mahmoud Abbas issued a decree on the 9th scheduling the Palestinian Legislative Council election for Nov. 28 this year; the presidential election is slated for Q1 2027, date to be announced.
+
+---
+
+### 2026-07-10 03:37:29  #公司
+
+凱雷集團將以26億美元將資料中心電力業務出售給EQT，實現五倍回報。
+
+---
+
+### 2026-07-10 03:36:16  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Meta Stock Price Hits 4-week High — Meta shares increased to 628.40 USD, the highest since June 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 9.98%, and in the last 12 months, it decreased 13.65%.
+
+---
+
+### 2026-07-10 03:35:59  #MKT News #WTI #Impact bullish #Brent
+
+【Strait of Hormuz transits plunge, near standstill】UK-based maritime analytics firm Windward said on the 9th that ongoing exchanges of fire between the US and Iran have sharply reduced transits through the Strait of Hormuz, with merchant traffic leaving the Persian Gulf largely halted. Windward recorded 51 transits on the 7th, including 35 departures; on the 8th there were 35 transits and 18 departures, only two using the southern (Oman-side) channel, indicating operators avoided that route after a nighttime attack; between the night of the 8th and early 9th there were only five transits, with a single departure from the Gulf.
+
+---
+
+### 2026-07-10 03:35:15  #公司 #國際
+
+【霍爾木茲海峽通航量驟降 幾近停滯】總部位於英國的溫沃德海事分析公司9日釋出報告說，由於美伊持續交火，霍爾木茲海峽通航量急劇下降，經海峽駛離波斯灣的商船交通基本陷入停滯。報告說，霍爾木茲海峽通航量近日經歷大幅起伏。7日霍爾木茲海峽共記錄51次通行，駛離波斯灣的船舶數量激增，達到35艘；8日記錄35次通行，駛離的18艘中僅兩艘經南部航道駛離，說明前一夜襲擊發生後，船舶運營商選擇避開靠近阿曼一側航道；8日夜間至9日凌晨，霍爾木茲海峽僅記錄5次通行，只有一艘駛離波斯灣。報告指出，霍爾木茲海峽南部航道基本被棄用，商船駛離交通自6月中旬部分恢復以來首次陷入實質性關閉狀態。目前霍爾木茲海峽及周邊海域風險等級為“危急”。美國與伊朗持續交火、停火破裂、制裁恢復以及航道安全形勢不確定等因素疊加，使該地區風險進一步升級。美軍中央司令部美國東部時間8日在社交媒體釋出訊息說，美軍當天對伊朗實施更多打擊。這是美軍以回應伊朗近期襲擊霍爾木茲海峽商船為由，連續兩天對伊朗發動軍事打擊。作為回應，伊朗軍方對中東地區多個美軍目標發動打擊。美伊諒解備忘錄達成後，霍爾木茲海峽主要有兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。(新華社)
 
 ---
 
@@ -20432,335 +20576,5 @@ U.S. 10-year Treasury auction bid-cover ratio 2.59 at the July 8 auction, previo
 ### 2026-07-09 01:02:15  #MKT News
 
 Iran's foreign ministry spokesman said the country will steadfastly defend its national interests and exercise state sovereignty.
-
----
-
-### 2026-07-09 01:02:07  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Bid/Cover Ratio (Jul.8) | actual 2.59 | previous 2.57
-
----
-
-### 2026-07-09 01:02:07  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Accepted at High (Jul.8) | actual 40.29% | previous 71.34%
-
----
-
-### 2026-07-09 01:02:07  #MKT News #Economic Calendar #Important
-
-United States | 10-Year Note Auction High Yield Rate (Jul.8) | actual 4.58% | previous 4.54%
-
----
-
-### 2026-07-09 01:02:06  #其他
-
-OpenAI：推出GPT-Live實時互動服務。
-
----
-
-### 2026-07-09 01:01:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Foreign Ministry spokesperson said US unilateral measures and aggressive attacks against Iran have undermined the framework of the agreement.
-
----
-
-### 2026-07-09 01:00:15  #市場 #國際
-
-390億美元拍賣前，10年期美國國債收益率為4.586%。
-
----
-
-### 2026-07-09 01:00:10  #MKT News #WTI #Impact bullish #Brent
-
-Iran's foreign ministry spokesman said the US is creating challenges in the Strait of Hormuz and Iran will safeguard its interests.
-
----
-
-### 2026-07-09 01:00:01  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.95%，滬銅收跌0.84%，滬鋁收跌0.22%，滬鋅收跌0.65%，滬鉛收跌0.09%，滬鎳收漲0.51%，滬錫收跌1.43%。氧化鋁夜盤收漲0.22%，鋁合金收跌0.63%。不鏽鋼夜盤收跌1.03%。
-
----
-
-### 2026-07-09 00:59:02  #國際
-
-美國前威斯康星州法官因妨礙移民逮捕被定罪 但獲判無需入獄。
-
----
-
-### 2026-07-09 00:58:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Swiss National Bank chairman said a sharp rise in energy prices is the primary risk to global economic growth.
-
----
-
-### 2026-07-09 00:58:18  #央行 #市場
-
-瑞士央行行長：能源價格強勁上漲是全球經濟發展的主要風險。
-
----
-
-### 2026-07-09 00:58:02  #國際
-
-巴基斯坦外交部：呼籲各方恪守伊斯蘭堡諒解備忘錄項下作出的承諾。
-
----
-
-### 2026-07-09 00:57:30  #其他 #焦點
-
-【西江梧州水文站出現21.71米的洪峰水位 超警3.21米】記者從廣西梧州水文中心獲悉， 潯江龍圩水文站於7月8日21時出現22.55米的洪峰水位（警戒水位19.0米），超警3.55米；西江梧州水文站於7月8日23時25分出現21.71米的洪峰水位（警戒水位18.5米），超警3.21米，相應流量37900立方米每秒。（央視新聞）
-
----
-
-### 2026-07-09 00:57:12  #國際
-
-伊朗外交部發言人：美國正在霍爾木茲海峽製造事端，伊朗將維護自身利益。
-
----
-
-### 2026-07-09 00:56:55  #MKT News #Important
-
-Iran's Foreign Ministry spokesman said the memorandum of understanding with the United States is not based on trust but on an explicit 'commitment-for-commitment' mechanism.
-
----
-
-### 2026-07-09 00:56:55  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says oil supply glut will end; oil prices to fall】US President Trump said the US is facing an oil supply glut and that he wants to keep oil prices low. He said the glut will end soon and oil prices will fall, and pledged to make oil supplies more secure.
-
----
-
-### 2026-07-09 00:56:33  #MKT News
-
-Pakistan's Foreign Ministry said it remains prepared to continue playing a mediating role.
-
----
-
-### 2026-07-09 00:56:29  #MKT News
-
-Pakistan's foreign ministry said there is no alternative to continued engagement, dialogue and diplomacy to achieve the shared goal of regional peace.
-
----
-
-### 2026-07-09 00:56:27  #國際
-
-伊朗外交部發言人：伊朗與美國之間的諒解備忘錄並非建立在互信基礎之上，而是基於“以承諾換承諾”的明確機制。
-
----
-
-### 2026-07-09 00:55:52  #國際
-
-巴基斯坦外交部：巴方仍準備繼續在該事務中發揮自身作用。
-
----
-
-### 2026-07-09 00:55:21  #其他
-
-巴基斯坦：要實現地區和平這一共同目標，除了持續接觸、對話與外交斡旋之外別無他法。
-
----
-
-### 2026-07-09 00:55:17  #國際
-
-特朗普談及土耳其： 土耳其實力強勁，是北約內部綜合實力第二強的國家。
-
----
-
-### 2026-07-09 00:55:13  #MKT News
-
-Pakistan's foreign ministry urged all parties to exercise restraint and avoid actions that could further undermine regional peace and stability.
-
----
-
-### 2026-07-09 00:55:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Pakistan's foreign ministry expressed deep concern over escalating tensions in the Middle East.
-
----
-
-### 2026-07-09 00:55:02  #MKT News
-
-Pakistan's Foreign Ministry urged all parties to adhere to commitments in the memorandum of understanding.
-
----
-
-### 2026-07-09 00:54:58  #其他
-
-巴基斯坦：呼籲各方保持克制，避免採取任何可能進一步破壞地區和平與穩定的行動。
-
----
-
-### 2026-07-09 00:54:51  #國際
-
-巴基斯坦：對中東地區局勢緊張升級深表關切。
-
----
-
-### 2026-07-09 00:54:32  #國際
-
-巴基斯坦外交部：敦促各方遵守諒解備忘錄中的承諾。
-
----
-
-### 2026-07-09 00:53:41  #其他
-
-德國聯邦議院議員批准蒂森克虜伯海事系統120億歐元軍艦採購大單。
-
----
-
-### 2026-07-09 00:53:32  #公司
-
-德國聯邦議院議員批准赫爾辛公司2.23億歐元作戰雲專案合同。
-
----
-
-### 2026-07-09 00:53:23  #其他
-
-德國聯邦議院議員批准萊茵金屬4.62億歐元鐳射武器採購合同。
-
----
-
-### 2026-07-09 00:50:39  #國際
-
-【特朗普稱他不確定是否想與伊朗達成協議】美國總統特朗普在談及伊朗時表示：“我不確定自己還想不想和他們達成協議。”他還說：“我們可以繼續玩這些遊戲，但我不確定我還想達成協議，不如就把事情徹底解決。”
-
----
-
-### 2026-07-09 00:50:09  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-U.S. 10-year Treasury auction stop-out yield and bid-cover ratio to be announced in 10 minutes.
-
----
-
-### 2026-07-09 00:49:51  #公司 #國際
-
-【美銀向OpenAI提供5.2億美元授信額度 希望在IPO中爭取一席之地】據知情人士透露，美國銀行最近幾周向OpenAI提供了5.2億美元信貸額度，此前該行曾拒絕這家人工智慧巨頭的請求。這項交易顯示，這家美國第二大銀行及其對風險頗為謹慎的執行長Brian Moynihan，對持續虧損、卻正推動全球市場走勢的人工智慧初創企業的態度出現顯著轉變。就在去年，該行高管仍懷疑，資本支出規模如此驚人的這些公司能否維持其商業模式。
-
----
-
-### 2026-07-09 00:49:40  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) to launch a curated video service in the US, Canada, UK, Ireland, Australia and New Zealand.
-
----
-
-### 2026-07-09 00:49:34  #MKT News #Market Themes #AI Revolution #MSFT.O #Impact bullish
-
-OpenAI rolls out next-generation ChatGPT voice capability.
-
----
-
-### 2026-07-09 00:48:40  #MKT News
-
-Trump said Erdogan kept Turkey neutral at his request and did not take part in a war with Iran.
-
----
-
-### 2026-07-09 00:48:30  #國際
-
-奈飛：精選定製影片將在美國、加拿大、英國、愛爾蘭、澳大利亞及紐西蘭上線。
-
----
-
-### 2026-07-09 00:48:09  #其他
-
-奈飛：8月3日起，所有訂閱層級的奈飛會員均可觀看來自頂級數字媒體品牌的精選影片。
-
----
-
-### 2026-07-09 00:47:59  #國際
-
-特朗普：應我的請求，土耳其總統埃爾多安已讓土耳其置身伊朗戰爭之外。
-
----
-
-### 2026-07-09 00:47:19  #MKT News #Important
-
-【Trump: Will not enter a second war with Iran; not seeking a prolonged conflict】President Trump said he believes a war with Iran could break out again but any such conflict would end quickly; the U.S. is not seeking a long war. He warned the U.S. would retaliate if Iran attacked and said any military action would be carried out swiftly.
-
----
-
-### 2026-07-09 00:46:35  #其他
-
-OpenAI：全新一代ChatGPT語音功能正式上線。
-
----
-
-### 2026-07-09 00:45:29  #MKT News #Market Themes #The Trump Trade
-
-President Trump, on selling F-35 jets to Turkey, said he tends to think Erdogan has helped the United States in many ways.
-
----
-
-### 2026-07-09 00:45:27  #MKT News
-
-U.S. President Trump said he has not yet decided on supplying F-35 fighter jets to Turkey.
-
----
-
-### 2026-07-09 00:45:07  #國際
-
-特朗普：尚未決定是否向土耳其提供F-35戰鬥機。
-
----
-
-### 2026-07-09 00:44:57  #國際
-
-特朗普談及向土耳其出售F-35戰機的可能性：我傾向於認為埃爾多安在諸多方面都幫助過我們。
-
----
-
-### 2026-07-09 00:44:35  #焦點 #國際
-
-特朗普談及伊朗： 任何行動一旦展開，都會速戰速決。 我們不打算打持久戰。
-
----
-
-### 2026-07-09 00:44:29  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #Brent #US10Y
-
-U.S. President Trump said any military action, if taken, would be carried out swiftly.
-
----
-
-### 2026-07-09 00:44:26  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-President Trump said if Iran attacks, the United States will strike back.
-
----
-
-### 2026-07-09 00:44:22  #MKT News
-
-U.S. President Trump said Spain has performed very poorly.
-
----
-
-### 2026-07-09 00:44:15  #國際
-
-特朗普：資本主義才是最優制度，當然它也存在缺陷，任何事物難免都有一點不足，但資本主義帶來的發展成果有目共睹。
-
----
-
-### 2026-07-09 00:43:26  #國際
-
-特朗普：伊朗動手，我們就動手。
-
----
-
-### 2026-07-09 00:43:16  #國際
-
-特朗普：我不認為伊朗會再次爆發全面戰爭，（若真開戰）我認為戰事會很快結束。
-
----
-
-### 2026-07-09 00:43:13  #MKT News
-
-Trump says the U.S. is not seeking a long-term war.
-
----
-
-### 2026-07-09 00:42:53  #Trading Economics #Economy #Seychelles #Inflation Rate #Importance 0
-
-Seychelles Inflation Rate Accelerates — The annual inflation rate in Seychelles increased to 0.43% in June 2026, marking the highest level since September 2025, up from 0.29% in May. Fish prices rose 5.62%, reversing a 0.85% decline in the prior month while other food cost rose 0.09% following a 0.39% decline. Non-food prices rose 0.4%, unchanged from the previous month, with the largest increases recorded in alcoholic beverages (4.13%), restaurants and hotels (at 2.58%), transports (2.57%) and clothing and footwear (0.52%). In contrast, the largest decreases were recorded for recreation and culture (-3.31%), health (-2.5%), housing and utilities (-1.12%) and communication (-1.09%). Meanwhile, core inflation, which excludes fresh fish and energy items, rose to 0.52% from 0.48%. On a monthly basis, consumer prices increased 0.07% in June, easing from a 0.15% increase in May.
 
 ---

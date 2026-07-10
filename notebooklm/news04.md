@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-11 05:18:18_
-_本檔包含 3346 則快訊，約 612395 字_
+_更新時間：2026-07-11 06:37:57_
+_本檔包含 3333 則快訊，約 612919 字_
+
+---
+
+### 2026-07-08 04:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+U.S. API crude stocks for the week to July 3 due in 10 minutes.
+
+---
+
+### 2026-07-08 04:19:34  #其他
+
+蘋果推出iOS 26.6、macOS Tahoe 26.6等系統的第四個公開測試版。
+
+---
+
+### 2026-07-08 04:18:40  #MKT News
+
+Syrian presidential adviser said an agreement with France covers political, military and economic areas.
+
+---
+
+### 2026-07-08 04:18:05  #公司 #市場
+
+科蒂集團股價上漲8%，將因提前終止協議獲得約4億美元補償。
+
+---
+
+### 2026-07-08 04:15:24  #公司 #焦點
+
+開雲集團：古馳與歐萊雅提前一年達成一份為期50年的美妝獨家授權協議。
+
+---
+
+### 2026-07-08 04:14:00  #其他
+
+中國地震臺網正式測定：07月08日04時01分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.8級地震，震源深度6千米。
+
+---
+
+### 2026-07-08 04:13:54  #國際
+
+【伊朗最高領袖顧問稱，美國將把與伊朗的談判引向失敗】伊朗最高領袖顧問穆赫辛・雷扎伊表示，很明顯，美國將把與伊朗的談判引向失敗，美國正試圖在霍爾木茲海峽為其船隻開闢一條替代航道。
+
+---
+
+### 2026-07-08 04:13:16  #MKT News
+
+Syrian presidential adviser said today's incident in Damascus was not unexpected. The explosion did not affect the security perimeter around Macron's motorcade.
+
+---
+
+### 2026-07-08 04:06:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall on Chipmakers Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers. The S&P 500 fell 0.4%, the Nasdaq 100 dropped 1.8%, and the Dow Jones lost 131 points, pulling back from a record high. Semiconductor stocks came under pressure as investors questioned whether AI hyperscalers can justify elevated infrastructure spending. Samsung's 19-fold surge in quarterly profit failed to support market sentiment, which came under renewed pressure following reports that China's DeepSeek is developing its own AI chip. Broadcom fell 0.8%, Micron lost 4.7%, AMD retreated 6.5%, and Intel slumped 9.7%. Nvidia on the other hand, added 0.7%. Higher bond yields weighed on broader markets after attacks on tankers in the Strait of Hormuz renewed concerns over energy-driven inflation. Visa fell 1.4%, while Caterpillar lost 3.1%.
+
+---
+
+### 2026-07-08 04:06:09  #國際
+
+日本清水建設株式會社同時也在開發機械臂型機器人，用於完成噴漆與抹灰等專業性複雜作業。
+
+---
+
+### 2026-07-08 04:05:55  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. equity benchmarks closed lower on Tuesday, July 7: the Dow Jones Industrial Average fell 131.35 points, or 0.25%, to 52,924.56; the S&P 500 dropped 33.66 points, or 0.45%, to 7,503.77; the Nasdaq Composite slid 302.47 points, or 1.16%, to 25,818.69.
+
+---
+
+### 2026-07-08 04:03:19  #國際
+
+美方談判人員仍在積極推進磋商，力求（與伊朗）達成最終協議。
+
+---
+
+### 2026-07-08 04:03:08  #MKT News
+
+An adviser to Iran's supreme leader, Rezaei, told opponents of negotiations to be patient, saying the Americans will destroy the talks themselves.
+
+---
+
+### 2026-07-08 04:02:59  #其他
+
+中國地震臺網自動測定：07月08日04時01分在四川宜賓市高縣附近（北緯28.54度，東經104.68度）發生3.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-08 04:01:48  #市場
+
+RIVIAN汽車股價收盤下跌18%，創2024年2月以來最大跌幅。
+
+---
+
+### 2026-07-08 04:01:35  #MKT News #Important #Market Regions #Wall Street (US) #SNDK.O #Impact bearish #WDC.O #MU.O
+
+【U.S. stocks close lower; SanDisk down 7%】U.S. equities closed lower on Tuesday: the Dow fell 0.25%, the S&P 500 fell 0.45% and the Nasdaq fell 1.16%. Storage-chip names extended losses—SanDisk (SNDK.O) -7%, Western Digital (WDC.O) down nearly 8%, Micron Technology (MU.O) -4.7%. SpaceX (SPCX.O) slid about 7%. The Nasdaq Golden Dragon China Index fell 0.57%; iQiyi (IQ.O) dropped nearly 7%.
+
+---
+
+### 2026-07-08 04:01:33  #市場 #焦點
+
+SPACEX股價下跌6.8%，收於IPO以來最低。
+
+---
+
+### 2026-07-08 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.25%，標普500指數跌0.45%，納指跌1.15%。英特爾跌9.72%，泰瑞達跌9.59%，Generac控股跌8.56%，西部資料跌7.86%，邁威爾科技跌7.45%。“七姐妹”方面：Meta Platforms漲2.53%，亞馬遜漲0.73%，英偉達漲0.68%，微軟漲0.48%，谷歌跌0.41%，蘋果跌0.72%，特斯拉跌4.02%。
+
+---
+
+### 2026-07-08 04:00:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Adviser to Iran's supreme leader Rezai said the US is seeking to have its warships transit the Strait of Hormuz.
+
+---
+
+### 2026-07-08 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.64%】中比能源跌7.81%，禾賽科技跌7.58%，盛豐物流跌7.12%，中進醫療跌7.07%，嘉楠科技跌6.21%。
+
+---
+
+### 2026-07-08 03:59:24  #國際
+
+伊朗最高領袖顧問穆赫辛·禮薩伊表示：形勢十分明朗，美國會將這場談判引向失敗。
+
+---
+
+### 2026-07-08 03:58:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fars news agency reported Iran's Major General Razai said it is clear the US will cause the negotiations to fail.
+
+---
+
+### 2026-07-08 03:55:52  #MKT News
+
+【Pakistan cargo plane missing en route to Karachi】A K2Airways Boeing 737 cargo aircraft went missing on the evening of the 7th while flying from Sharjah, UAE, to Karachi. Pakistan airport authority said the aircraft reported a navigation-system fault at 21:18 Pakistan time and requested guidance from Karachi area control; radar at 21:21 showed a sudden rapid descent and abrupt heading change, and contact was lost about 155 nm (≈287 km) west of Karachi. Five crew were onboard. Pakistan’s search-and-rescue coordination centre launched an emergency response and is coordinating multi-agency searches in the area.
+
+---
+
+### 2026-07-08 03:54:42  #公司
+
+【巴基斯坦一貨機在飛往卡拉奇途中失聯】據巴基斯坦機場管理局當地時間7日晚通報，一架隸屬於巴基斯坦K2航空（K2 Airways）的波音737貨機當晚在執行從阿聯酋沙迦飛往巴基斯坦卡拉奇的貨運航班任務時，在距離卡拉奇以西約155海里（約287公里）處失聯。據巴基斯坦機場管理局的通報，巴基斯坦當地時間7日21時18分，該貨機報告導航系統出現故障，需要獲得卡拉奇區域管制中心的引導協助；之後在21時21分，雷達顯示飛機突然快速下降，並伴隨航向急劇改變。此後，飛機在距離卡拉奇以西約155海里處失聯。事故發生後，巴基斯坦搜救協調中心立即啟動應急響應，並協調多個部門在相關海域展開聯合搜救行動，尋找失聯飛機。據瞭解，失聯貨機上共有5名機組人員。K2航空是巴基斯坦一家民營貨運航空公司。（央視新聞）
+
+---
+
+### 2026-07-08 03:51:42  #公司
+
+委內瑞拉宣佈國有石化企業佩基文公司（Pequiven）和國家稅務管理局（Seniat）領導層人事變動。
+
+---
+
+### 2026-07-08 03:49:43  #其他
+
+加拿大總理卡尼對挪威首相表示： 下一屆世界盃，若能把哈蘭德借我們用一用，我們將不勝感激。
+
+---
+
+### 2026-07-08 03:49:09  #央行 #國際
+
+【美聯儲理事會就修訂銀行反洗錢制度相關監管規定的提案徵求公眾意見】美聯儲理事會週二釋出提案，徵求公眾意見，擬修訂針對銀行建立反洗錢合規體系的監管要求。本次修訂旨在與其餘四家監管機構各自提出的反洗錢制度新規保持統一標準。提案包含多項調整，核心要求銀行依據風險等級分配反洗錢核查資源，加大對高風險客戶與業務活動的審查力度。修訂方案同時規定，銀行需將美國金融犯罪執法網路劃定的反洗錢重點監管事項納入自身風險評估流程。依照該提案，銀行搭建起合規反洗錢體系後，美聯儲後續監管與執法工作將重點針對體系執行層面的重大疏漏開展。公眾可在《聯邦公報》刊登該提案後的60天內提交意見。
 
 ---
 
@@ -19938,245 +20100,5 @@ The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is falling 36 poin
 ### 2026-07-06 21:39:43  #MKT News
 
 Bank of Israel Governor Yaron said lower inflation expectations could accelerate rate cuts.
-
----
-
-### 2026-07-06 21:39:28  #公司
-
-【中航重機：聘任馮彥成為總經理】中航重機7月6日公告，公司董事會同意提名馮彥成為公司非獨立董事候選人，該議案尚需提交股東會審議。公司董事會同意聘任馮彥成為總經理；同意聘任魏志堅為公司副總經理。
-
----
-
-### 2026-07-06 21:39:17  #MKT News #Important #Market Themes #The Trump Trade #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-President Trump said markets will soar.
-
----
-
-### 2026-07-06 21:39:16  #國際
-
-市場訊息：印度儲備銀行宣佈將於 7 月 7 日開展 5000 億印度盧比的可變利率回購拍賣。
-
----
-
-### 2026-07-06 21:38:47  #國際
-
-特朗普稱，企業因關稅而減少在美國的投資。
-
----
-
-### 2026-07-06 21:38:37  #其他
-
-【美股機械硬碟廠商漲幅擴大】美股機械硬碟廠商漲幅擴大，西部資料現漲8.3%，希捷科技漲6.4%。
-
----
-
-### 2026-07-06 21:37:52  #國際
-
-特朗普：股市要暴漲了。
-
----
-
-### 2026-07-06 21:37:44  #國際
-
-特朗普讚揚其第二任期內股市表現。
-
----
-
-### 2026-07-06 21:37:44  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump praised the stock market's performance during his second term.
-
----
-
-### 2026-07-06 21:37:37  #其他
-
-微軟：遍佈科羅拉多州的工程團隊。同時也在不斷發展結構。
-
----
-
-### 2026-07-06 21:37:34  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Wells Fargo Stock Price Hits 18-week High — Wells Fargo shares increased to 87.09 USD, the highest since February 2026. Over the past 4 weeks, Wells Fargo gained 10.49%, and in the last 12 months, it increased 3.98%.
-
----
-
-### 2026-07-06 21:37:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Dow Rises to New Record, Chips Rebound — US stock indices were higher on Monday amid fresh support from the heavyweight chip sector. The S&P 500 added 0.4%, the Nasdaq 100 rose nearly 1%, and the Dow inched higher to over 53,000 for the first time on record. Memory chip producers were sharply higher ahead of Samsung sales updates and SK Hynix's ADR issuance on Friday. This extends the volatile momentum since last week as ambitious guidance upgrades weigh against concerns that AI sector is overbought, with Meta selling its spare compute capacity and new SpaceX bonds trading at high-yield levels shortly after its record-setting IPO. Micron and Sandisk rose over 2.5%. Meanwhile, Nvidia traded higher as its assembly partner Hon Hain Precision signaled AI demand is growing further. Broader sectors were steady after last-week's outperformance. Minutes from the meeting of a divided FOMC due Wednesday could unveil insights on how the committee balances inflation and job market risks.
-
----
-
-### 2026-07-06 21:37:28  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) said more changes are coming and other business units will require similar adjustments.
-
----
-
-### 2026-07-06 21:37:13  #市場
-
-微軟因裁員計劃股價下跌2%。
-
----
-
-### 2026-07-06 21:37:12  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish
-
-Microsoft (MSFT.O) shares fell 2% on news of plans for layoffs.
-
----
-
-### 2026-07-06 21:37:00  #國際
-
-俄羅斯外交官：讓我們看看美國在北約峰會後如何制定其對烏克蘭的立場。
-
----
-
-### 2026-07-06 21:36:40  #MKT News #Important #Market Themes #The Trump Trade #DELL.N #Impact bullish
-
-Dell (DELL.N) rose more than 3% in a brief intraday spike after Trump urged investors to buy the stock.
-
----
-
-### 2026-07-06 21:36:34  #其他
-
-微軟：過去一年中，已重新部署逾4000名員工至新崗位，本月另有500名員工完成轉崗。
-
----
-
-### 2026-07-06 21:36:22  #其他
-
-微軟：未來還將有更多變化。
-
----
-
-### 2026-07-06 21:36:12  #MKT News #Important #Market Themes #The Trump Trade #DELL.N #Impact bullish #MU.O
-
-U.S. President Trump urged buying Dell and thanked Micron.
-
----
-
-### 2026-07-06 21:36:00  #國際
-
-特朗普稱讚戴爾為特朗普賬戶專案捐款。
-
----
-
-### 2026-07-06 21:35:53  #公司 #市場 #國際
-
-特朗普稱讚戴爾公司後，戴爾股價上漲至3%。
-
----
-
-### 2026-07-06 21:35:48  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
-
-Microsoft (MSFT.O) said positions cut today were not replaced by AI.
-
----
-
-### 2026-07-06 21:35:46  #其他
-
-微軟：XBOX 的重組旨在實現長期成功。
-
----
-
-### 2026-07-06 21:35:39  #國際
-
-特朗普：感謝美光。
-
----
-
-### 2026-07-06 21:35:33  #國際
-
-特朗普：去買臺戴爾電腦吧。
-
----
-
-### 2026-07-06 21:35:23  #國際
-
-美國總統特朗普重申伊朗絕不能擁有核武器。
-
----
-
-### 2026-07-06 21:35:04  #MKT News #Important #DXY #Impact mixed #US10Y #S&P500
-
-Final S&P Global US Services PMI for June due in 10 minutes.
-
----
-
-### 2026-07-06 21:35:01  #其他
-
-微軟表示，被裁撤的崗位不會被人工智慧取代。
-
----
-
-### 2026-07-06 21:34:54  #MKT News
-
-A Russian diplomat said they expect high-level dialogue between Russia and the United States to continue.
-
----
-
-### 2026-07-06 21:34:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Trump reiterated that Iran must never be allowed to possess nuclear weapons.
-
----
-
-### 2026-07-06 21:34:39  #其他
-
-微軟(MSFT.O)：超過30%的員工參與退休計劃。
-
----
-
-### 2026-07-06 21:34:35  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
-
-Microsoft (MSFT.O): more than 30% of employees participate in its retirement plan.
-
----
-
-### 2026-07-06 21:34:32  #國際
-
-俄羅斯外交官：我們認為俄羅斯與美國之間的高層對話將會繼續。
-
----
-
-### 2026-07-06 21:34:28  #MKT News #WTI #Impact bearish #Brent
-
-Trump: relations with Venezuela are good; relations with Iran are also good.
-
----
-
-### 2026-07-06 21:33:50  #國際
-
-特朗普：與委內瑞拉相處融洽。
-
----
-
-### 2026-07-06 21:33:17  #公司
-
-TERAWULF股價飆升14.3%，此前該公司宣佈在Justified資料中心園區與Anthropic達成租賃協議，並向Fluidstack出售Abernathy合資企業50.1%的股權。
-
----
-
-### 2026-07-06 21:33:12  #其他
-
-惠譽確認CREDITO EMILIANO的評級為“BBB+”，展望穩定。
-
----
-
-### 2026-07-06 21:32:47  #公司 #市場
-
-【海南海藥：近期經營情況正常 經營環境未發生重大變化】海南海藥(000566)7月6日釋出股票交易異常波動公告稱，公司股票連續3個交易日收盤價格漲幅偏離值累計達到20%以上。公司對有關事項進行了核查，公司前期披露的資訊不存在需要更正、補充之處；未發現近期公共傳媒報道了可能或已經對本公司股票交易價格產生較大影響的未公開重大資訊；近期經營情況正常及內外部經營環境未發生重大變化。
-
----
-
-### 2026-07-06 21:32:28  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
-
-Microsoft (MSFT.O) said it will cut 6,400 jobs, roughly 2.8% of its workforce; about half of the reductions are tied to a restructuring of its Xbox gaming division. The company will sell five studios, including Compulsion and Double Fine.
-
----
-
-### 2026-07-06 21:32:16  #其他
-
-【擴圍後，上海（長三角）國際科技創新中心優勢明顯】“科技部會同有關部門，在相關建設方案和規劃中，支援長三角地區在人工智慧大模型訓練、創新藥及疫苗分段生產、發起設立國際科技組織等方面提出多條改革先行先試政策，著力打通科技創新和產業創新深度融合的堵點斷點。”7月6日，在“活力中國調研行”上海站主題採訪活動情況介紹會上，中國科學技術發展戰略研究院副研究員王偉楠介紹科技部等相關部門推動上海（長三角）國際科技創新中心建設的工作舉措。 2025年中央經濟工作會議明確，將上海國際科技創新中心擴圍至長三角。王偉楠表示，當前上海（長三角）國際科技創新中心有三大突出優勢。 一是創新資源最為雄厚。長三角地區的全社會研發投入已超過全國三成，全國重點實驗室、“雙一流”高校分別佔全國1/4，PCT國際專利申請數量超過了全國的1/4，每萬人研發人員數也接近全國平均值的2倍。二是產業實力最為強勁。長三角地區集聚了約全國35%的高新技術企業，40%以上的獨角獸企業，25%以上的瞪羚企業，累計培育的國家級先進製造業叢集佔全國32%以上。三是城市協同最為緊密。長三角地區是以上海為龍頭的高水平均衡結構，隨著《關於促進長三角科技創新協同發展的決定》正式實施，長三角在科技創新一體化方面走在了全國前列。（科技日報）
 
 ---

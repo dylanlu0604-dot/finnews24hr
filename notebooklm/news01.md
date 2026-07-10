@@ -1,7 +1,171 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-11 05:18:18_
-_本檔包含 3014 則快訊，約 612595 字_
+_更新時間：2026-07-11 06:37:57_
+_本檔包含 3014 則快訊，約 613129 字_
+
+---
+
+### 2026-07-11 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%) and Gold (-0.06%). Gains are led by Silicon (0.84%), Iron Ore CNY (0.80%) and Platinum (0.52%).
+
+---
+
+### 2026-07-11 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Drops by 3.70% — Top commodity losers are Natural Gas UK (-3.70%), Natural Gas EU (-3.58%), Germany Natural Gas THE (-2.65%), Crude Oil WTI (-0.79%) and Brent Crude Oil (-0.39%). Gains are led by Ethanol (1.42%).
+
+---
+
+### 2026-07-11 06:29:35  #其他
+
+OPENAI：我們仍專注於打造創新技術。
+
+---
+
+### 2026-07-11 06:29:22  #國際
+
+巴基斯坦外交部發言人：巴基斯坦代表團團長、商務部長賈瓦德・保羅稱此次會談進展積極。
+
+---
+
+### 2026-07-11 06:28:19  #國際
+
+巴基斯坦外交部發言人：7 月 9 日至 10 日，巴美互惠貿易協定相關談判於華盛頓舉行。
+
+---
+
+### 2026-07-11 06:28:00  #公司 #焦點 #國際
+
+OPENAI：我們對其他公司的商業秘密不感興趣。
+
+---
+
+### 2026-07-11 06:27:31  #Trading Economics #Markets #India #Earnings #Importance 0
+
+Tata Consultancy earnings above expectations at 38.30 INR — Tata Consultancy (TCS) released earnings per share at 38.30 INR, compared to market expectations of 37.27 INR.
+
+---
+
+### 2026-07-11 06:27:15  #公司 #市場
+
+【Elliott據悉已成為軟體公司CCC的大額投資方‌】Elliott投資管理公司已在正探索潛在出售方案的CCC智慧解決方案控股公司中積累了大額股份。目前Elliott的投資規模尚未對外披露，CCC的相關磋商仍處於早期階段，最終能否達成出售交易尚無定論。CCC主營車險行業軟體，用於輔助處理車險理賠與車輛維修相關業務，其股價在紐約週五交易中上漲10%，收於5.92美元。
+
+---
+
+### 2026-07-11 06:15:16  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Polish Zloty Increases by 0.99% — Top currency gainers are Polish Zloty (0.99%), Brazilian Real (0.50%), Mexican Peso (0.43%), Japanese Yen (0.41%) and Dollar Index (0.06%). Biggest losers are Norwegian Krone (-0.61%) and Euro (-0.14%). Meanwhile British Pound was little changed.
+
+---
+
+### 2026-07-11 06:09:02  #其他
+
+【委內瑞拉地震已致4118人遇難】當地時間7月10日傍晚，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國地震遇難人數上升至4118人。（CCTV國際時訊）
+
+---
+
+### 2026-07-11 06:00:05  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為66.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為31%，累計加息25個基點的機率為51.1%，累計加息50個基點的機率為18%。
+
+---
+
+### 2026-07-11 05:57:16  #國際
+
+【中方敦促維護中東地區停火止戰局面】中國常駐聯合國副代表孫磊10日在安理會伊朗核問題公開會上發言，敦促維護中東地區停火止戰局面。 孫磊說，美國和伊朗簽署諒解備忘錄，中東地區緊張局勢一度趨緩，但當前停火局面又出現反覆，談判前景複雜。伊核問題能否得到妥善解決，事關中東地區能否迴歸和平穩定，事關國際社會共同利益。相關當事方應以理性務實態度推進談判。美伊諒解備忘錄承諾尊重彼此主權和領土完整，永久停止所有戰線軍事活動，就談判及解除制裁設定路線圖。中方敦促相關各方排除干擾因素，摒棄訴諸武力或以武力相威脅，維護並落實諒解備忘錄成果，達成兼顧彼此關切的解決方案，儘快解除對伊朗制裁，推動政治解決程序取得實質性進展。 他說，處理好伊核問題必須尊重當事方的合理訴求和合法權益。伊朗應繼續堅持不發展核武器的承諾。伊朗享有和平利用核能的合法權利。美國應以實際行動為政治解決伊核問題創造條件。安理會的當務之急，是堅持客觀公正立場，為外交努力爭取時間和空間，為談判營造積極有利氛圍，避免成為個別國家推進自身政治議程、搞施壓的工具。 會議開始前，俄羅斯代表指出，核可伊核問題全面協議的安理會第2231號決議已失效，伊核問題已經從安理會議程中剔除。俄羅斯代表要求就會議議程進行程式性表決。(新華社)
+
+---
+
+### 2026-07-11 05:53:54  #MKT News #Brent #Impact bullish #WTI
+
+【US demands Iran publicly pledge by Saturday to stop firing on commercial vessels in Strait of Hormuz】Axios reported the Trump administration has demanded Iran publicly, by Saturday, pledge to stop firing on commercial vessels and confirm the Strait of Hormuz will remain open. US officials said the request was conveyed via direct channels and regional intermediaries. Washington says recent Iranian attacks on commercial shipping in and around the strait breached a memorandum of understanding signed weeks earlier and risk collapsing a fragile ceasefire. Iran’s Araghchi is due to meet Omani Foreign Minister Badr al‑Busaidi in Muscat on Saturday; the US wants a public commitment after that meeting that attacks will cease and vessels will not be charged transit fees. US officials said nuclear talks with Iran had made some progress but the Hormuz incidents raise doubts about Tehran’s ability to implement more complex agreements. US warned it would take further action if Iran refuses.
+
+---
+
+### 2026-07-11 05:53:36  #國際
+
+【美方要求伊朗週六前承諾停止向霍爾木茲海峽船隻開火】據Axios報道，特朗普政府要求伊朗最遲在週六公開宣告，確認霍爾木茲海峽保持開放，並承諾停止向商業船隻開火。美國官員表示，該要求已透過直接渠道以及地區調解方傳達給伊朗。美方認為，伊朗近期在霍爾木茲海峽及周邊對商業船隻發動襲擊，違反了雙方數週前簽署的諒解備忘錄，使脆弱的停火協議面臨破裂風險。報道稱，伊朗外長阿拉格齊與阿曼外長布賽迪預計將於週六在阿曼首都馬斯喀特會面，討論霍爾木茲海峽局勢。美方希望伊朗在此次會談後發表公開宣告，承諾停止襲擊，並確認海峽航道開放且免收通行費。美國官員稱，美伊核談判近期取得一定進展，但霍爾木茲危機引發美方對伊朗履行更復雜協議能力的擔憂。若伊朗拒絕相關要求，美方警告將採取進一步行動。
+
+---
+
+### 2026-07-11 05:41:41  #MKT News
+
+Axios cited a U.S. official: "If tomorrow they (Iran) do not make a related statement, tomorrow will not be a good day for them."
+
+---
+
+### 2026-07-11 05:30:48  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Israel curbs operations in southern Lebanon at US request, media says】Israeli public broadcaster reported on Oct. 10 that, at Washington’s request, Israel has ordered its military to suspend "sensitive" operations in southern Lebanon. The directive will remain in effect until further notice and is conditional on developments in the US–Iran military confrontation and progress in Israel–Lebanon negotiations. The report said US concern about escalation linked to its recent confrontation with Iran prompted the request; Israeli forces are to maintain restraint and will begin next week withdrawing from two areas of their designated south Lebanon security zone, a step tied to a late‑June framework agreement reached in Washington. Israel and Lebanon are expected to resume talks next week in Rome.
+
+---
+
+### 2026-07-11 05:28:49  #國際
+
+美國最大電網 PJM 表示，7 月 2 日下午 5 時至 6 時期間，電網峰值負荷達到預估 168158 兆瓦，創下歷史新高。
+
+---
+
+### 2026-07-11 05:28:03  #公司 #國際
+
+【以媒：以色列應美國要求限制在黎巴嫩軍事行動】據以色列公共廣播公司10日報道，應美國要求，以色列政府已下令軍方暫緩在黎巴嫩南部開展“被視為敏感”的軍事行動。報道說，這一指令將持續有效，直至另行通知，並視美國與伊朗局勢發展以及以色列與黎巴嫩談判進展而定。報道說，美國近期忙於與伊朗軍事對抗，擔心以色列行動導致局勢進一步升級。報道援引一名以色列安全部門訊息人士的話稱，以軍目前應美方要求保持克制。報道還稱，以軍最早將於下週開始從其在黎巴嫩南部劃定的所謂“安全區”中的兩個區域撤出。這一撤軍安排是以色列和黎巴嫩今年6月下旬在美國首都華盛頓達成框架協議的一部分。同時，雙方預計將於下週在義大利首都羅馬恢復談判。（新華社）
+
+---
+
+### 2026-07-11 05:26:44  #MKT News
+
+FITCH expects Saudi Arabia's real GDP growth to slow to 0.6% in 2026 and to rebound in 2027.
+
+---
+
+### 2026-07-11 05:24:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fitch says Saudi Arabia faces elevated geopolitical risk, but its economy and public finances showed resilience during the U.S.-Iran war.
+
+---
+
+### 2026-07-11 05:22:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Axios reports the U.S. has demanded Iran publicly state by Saturday at the latest that it will not attack the Strait of Hormuz.
+
+---
+
+### 2026-07-11 05:19:50  #國際
+
+阿爾及利亞外交部宣告：阿爾及利亞總統下令召回駐巴馬科大使，赴馬裡履新擔任駐該國特使。
+
+---
+
+### 2026-07-11 05:19:41  #公司 #國際
+
+【古巴一週內再次全國大停電】古巴電力聯盟10日發表宣告說，當地時間當天16時30分，古巴電力系統完全癱瘓。這是古巴一週內第二次發生全國範圍停電。此前，古巴電力聯盟6日在社交媒體釋出公告說，古巴電力系統發生全面斷電。8日，該聯盟稱，各省當天凌晨重新接入國家電力系統，全國電力供應恢復。受美國製裁影響，古巴長期以來難以進口燃料和維修嚴重老化的發電廠所需裝置，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（新華社）
+
+---
+
+### 2026-07-11 05:17:50  #公司 #市場 #央行 #國際
+
+【7月11日隔夜要聞一覽】
+1、美國中央司令部發言人蒂姆·霍金斯表示，在特朗普總統宣佈與伊朗停火結束後，目前“沒有行動更新”。
+2、針對有關“伊朗與美國將於下週舉行新一輪談判”的訊息，一名接近伊朗談判團隊的知情人士表示，上述說法並不屬實。
+3、伊朗議會議長卡利巴夫表示，伊朗從未尋求戰爭，但絕不會向外部壓力屈服。
+4、訊息人士稱，美國、伊朗、巴基斯坦和卡達將舉行四方通話。
+5、巴基斯坦、卡達和其他地區斡旋方力勸美國和伊朗降級緊張態勢並就伊朗核問題恢復談判。
+6、巴基斯坦總理呼籲落實美伊諒解備忘錄，維護地區和平。
+7、美國發布針對伊朗的新制裁措施。
+8、伊朗外交部發言人巴加埃10日表示，伊朗從未提出過與美國談判的訴求，但同意調解方訪問伊朗。
+9、伊朗外交部長阿拉格齊將於11日率領外交代表團訪問阿曼。訪問期間，雙方計劃就雙邊關係和地區局勢，特別是霍爾木茲海峽當前狀況展開對話並交換意見。
+10、美國國務卿魯比奧與沙特外交大臣舉行會談。
+11、歐盟成員國當天未能就對俄羅斯第21輪制裁方案達成一致，討論將繼續進行。
+12、美國參議員稱將推進俄羅斯石油制裁立法。
+13、烏克蘭總統澤連斯基表示，他已簽署命令，在烏克蘭武裝部隊內部設立一個新的遠端打擊司令部，併成立聯合快速反應部隊。
+14、特朗普政府計劃放寬對阿聯酋的出口限制，為其採購包括商業衛星和用於人工智慧的半導體在內的多種先進技術掃清障礙。
+15、歐盟批准匈牙利新版復甦與韌性計劃。
+16、美聯儲週五在華盛頓釋出提交國會的7月貨幣政策報告，其中強調將致力於實現價格穩定。
+17、SK海力士會長崔泰源稱計劃大幅擴大對美投資。
+18、SK海力士美國存託憑證(ADR)上市首日開盤較發行價上漲12.76%。這家韓國儲存晶片製造商此次募股總計融資265億美元，創下外國企業赴美上市之最。
+19、SK海力士正在考慮以新的方式銷售其記憶體晶片的使用權，包括所謂的“記憶體即服務”，這意味著客戶可以向這家韓國公司租用儲存資源，而無需購買晶片。
+20、蘋果起訴 OpenAI 及兩名前員工竊取商業機密。
 
 ---
 
@@ -18093,149 +18257,5 @@ The Information reports Cursor is developing an AI agent aimed at competing with
 ### 2026-07-10 03:58:30  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
 
 【Dollar index edges down 0.09% to 100.904 at New York close】The dollar index, measuring the greenback against six major currencies, fell 0.09% to 100.904 at the New York close. EUR/USD 1.1434 (prev. 1.1426); GBP/USD 1.3416 (1.3400); USD/JPY 162.34 (162.48); USD/CHF 0.8066 (0.8076); USD/CAD 1.4167 (1.4169); USD/SEK 9.6602 (9.6903).
-
----
-
-### 2026-07-10 03:58:26  #公司
-
-市場訊息：Cursor公司正開發一款人工智慧代理，對標Claude 3 Opus複製。
-
----
-
-### 2026-07-10 03:56:50  #國際
-
-以色列總理辦公室宣告： 內塔尼亞胡總理與特朗普總統持續保持溝通，二人於今晚再次通電話，雙方同意兩國在多條戰線持續開展協同行動。特朗普總統向總理通報了美國在海灣地區採取的相關行動。以色列總理則提及埃爾多安及其幕僚發表諸多否定以色列國家生存權的激烈言論，並強調需沿以色列邊境設立安全緩衝區。
-
----
-
-### 2026-07-10 03:56:01  #國際
-
-市場訊息：以色列總理內塔尼亞胡與特朗普總統通話“以協調在各個領域的行動”，以色列總理辦公室表示。特朗普向內塔尼亞胡通報了美國針對伊朗的行動。
-
----
-
-### 2026-07-10 03:55:24  #MKT News
-
-The Israeli Prime Minister's Office said Prime Minister Netanyahu and US President Trump spoke by phone and agreed to continue coordination across multiple areas.
-
----
-
-### 2026-07-10 03:53:58  #國際
-
-特朗普與內塔尼亞胡就伊朗問題展開會談。
-
----
-
-### 2026-07-10 03:53:43  #MKT News
-
-Axios reports the Israeli prime minister's office said Trump spoke with Netanyahu on Thursday to discuss the situation in Iran.
-
----
-
-### 2026-07-10 03:53:07  #國際
-
-美媒：特朗普週四與以色列總理內塔尼亞胡進行了通話。
-
----
-
-### 2026-07-10 03:50:43  #公司
-
-紐約證券交易所買賣盤失衡：蘋果公司買方盤口多出430687.0股。
-
----
-
-### 2026-07-10 03:48:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Oil prices fell on 9th】By the close, NYMEX August light sweet crude fell $1.44 to $72.08/bbl, down 1.96%. London Brent (ICE) September futures fell $1.72 to $76.30/bbl, down 2.20%.
-
----
-
-### 2026-07-10 03:48:18  #MKT News
-
-【Reports of attacks on Iran false; explosions caused by air-defence activation】On the evening of July 9 local time, explosions were reported across multiple Iranian cities — southern coastal Bushehr, Choghadak and Bandar Abbas, and southeast coastal Konarak. Axios reported US officials said US forces were not involved. About an hour later Iranian state media denied the attack reports, saying the blasts were caused by the activation of air-defence systems. CNN confirmed the US had not struck Iran an hour earlier. US forces had earlier conducted strikes over two consecutive days, hitting about 170 military targets.
-
----
-
-### 2026-07-10 03:47:50  #其他
-
-【安迪·伯納姆獲多數工黨議員支援，料將接任英國首相】英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，成為接替基爾·斯塔默、出任工黨新黨魁的唯一熱門人選。伯納姆表示，自己對同僚支援“深表感謝”，稱這反映出工黨希望為英國政治帶來新的方向。他提出的政治主張包括減少倫敦威斯敏斯特權力集中、重塑經濟模式，並推動更廣泛的經濟增長。由於競爭對手無法獲得參選所需的81份提名，伯納姆只需再獲得一份支援即可正式成為唯一候選人。按照安排，工黨黨魁選舉將於7月17日結束，伯納姆預計將在7月20日正式出任英國首相。現任黨魁斯塔默按照慣例不會參與提名投票。
-
----
-
-### 2026-07-10 03:47:49  #MKT News #Market Regions #Europe & UK
-
-【Andy Burnham wins majority of Labour MPs' backing; likely to become UK prime minister】Andy Burnham secured nominations from 322 of Labour’s 403 MPs on the first day of the party’s leadership contest, making him the clear favorite to replace Keir Starmer and assume the role of UK prime minister. Burnham said he was grateful for colleagues’ support and outlined plans to devolve power away from Westminster, reshape the economic model and promote broader-based growth. Rival candidates failed to reach the 81-MP nomination threshold; Burnham needs one more nomination to become the sole candidate. The leadership contest closes July 17 and he is expected to take office July 20. Starmer will not participate in the nomination vote by convention.
-
----
-
-### 2026-07-10 03:46:45  #市場 #國際
-
-【美國兩年期國債收益率跌超5個基點，投資者關注油價走勢】週四（7月9日）紐約尾盤，美國10年期國債收益率跌3.40個基點，報4.5451%，北京時間19:24微幅上漲至4.5892%重新整理日高，隨後持續走低、01:50重新整理日低至4.5271%。兩年期美債收益率跌5.21個基點，報4.1640%，亞太盤初至12:39維持微幅下跌狀態、持穩於4.21%附近，20:00以來持續擴大跌幅；30年期美債收益率跌1.95個基點，報5.0577%。2/10年期美債收益率利差漲2.211個基點，報+37.904個基點。10年期通脹保值國債（TIPS）收益率跌1.39個基點，至2.2874%；兩年期TIPS收益率漲1.05個基點，至2.1153%；30年期TIPS收益率跌1.13個基點，至2.8658%。
-
----
-
-### 2026-07-10 03:46:00  #市場
-
-【國際油價9日下跌 】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌1.44美元，收於每桶72.08美元，跌幅為1.96%；9月交貨的倫敦布倫特原油期貨價格下跌1.72美元，收於每桶76.30美元，跌幅為2.2%。（新華社）
-
----
-
-### 2026-07-10 03:43:46  #公司 #央行 #國際
-
-【沃什公佈五大工作組負責人 為改革美聯儲鋪路】美聯儲主席凱文·沃什公佈了五個工作組的負責人名單。這些工作組將審視美聯儲在政策制定關鍵領域的做法，並可能推動大範圍改革。工作組負責人包括知名學者、前央行官員和企業高管。五個工作組將分別研究溝通機制、資產負債表、美聯儲“現有資料來源的使用和依賴”、生產率與就業，以及央行的“通脹框架”。“每個工作組都將仔細考慮政策制定者的手段和方法、分析工具以及政策框架是否可以改進，”沃什週四在宣告中表示。“目標很明確：確保美聯儲在這個關鍵時期能夠處於最有利的位置，以實現我們的目標。”沃什在6月宣佈正設立這些工作組時表示，預計各小組將在年底前分享其結論，其外部專家將獲得美聯儲工作人員的支援。沃什週四稱，這些工作組負責人是“來自各個領域的頂尖人才”。前英國央行行長Mervyn King、華盛頓大學學者Peter Fisher以及前巴西央行行長Arminio Fraga將共同領導溝通機制工作組。哈佛大學的Karen Dynan、前印度央行行長Raghuram Rajan以及哈佛大學經濟學教授Jeremy Stein將共同領導資產負債表工作組。哈佛大學的Raj Chetty、沃爾瑪前執行長Doug McMillon以及芝加哥大學的Kevin Murphy將共同領導資料工作組。Andreessen Horowitz的Marc Andreessen、斯坦福大學的Charles I. Jones以及微軟執行副總裁兼Xbox執行長Asha Sharma將領導生產率與就業工作組。哈佛大學的Greg Mankiw、紐約大學的Thomas Sargent以及國際清算銀行前經濟顧問William White將領導通脹框架工作組。
-
----
-
-### 2026-07-10 03:42:23  #其他
-
-市場訊息：EQT將收購領先的綜合電力與人工智慧基礎設施平臺Copia Power。
-
----
-
-### 2026-07-10 03:40:22  #MKT News
-
-CNN reported US officials said the US had not launched any new strikes against Iran in the past hour.
-
----
-
-### 2026-07-10 03:38:59  #國際
-
-美國媒體：截至一小時前，美國未對伊朗發動新打擊。
-
----
-
-### 2026-07-10 03:37:47  #國際
-
-【巴勒斯坦將於11月28日舉行立法委員會選舉】據巴勒斯坦通訊社9日報道，巴總統阿巴斯9日釋出總統令，定於今年11月28日舉行巴勒斯坦立法委員會選舉，而總統選舉將於2027年第一季度舉行，具體日期另行宣佈。（新華社）
-
----
-
-### 2026-07-10 03:37:42  #MKT News
-
-【Palestinian Legislative Council election set for Nov. 28】President Mahmoud Abbas issued a decree on the 9th scheduling the Palestinian Legislative Council election for Nov. 28 this year; the presidential election is slated for Q1 2027, date to be announced.
-
----
-
-### 2026-07-10 03:37:29  #公司
-
-凱雷集團將以26億美元將資料中心電力業務出售給EQT，實現五倍回報。
-
----
-
-### 2026-07-10 03:36:16  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Meta Stock Price Hits 4-week High — Meta shares increased to 628.40 USD, the highest since June 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 9.98%, and in the last 12 months, it decreased 13.65%.
-
----
-
-### 2026-07-10 03:35:59  #MKT News #WTI #Impact bullish #Brent
-
-【Strait of Hormuz transits plunge, near standstill】UK-based maritime analytics firm Windward said on the 9th that ongoing exchanges of fire between the US and Iran have sharply reduced transits through the Strait of Hormuz, with merchant traffic leaving the Persian Gulf largely halted. Windward recorded 51 transits on the 7th, including 35 departures; on the 8th there were 35 transits and 18 departures, only two using the southern (Oman-side) channel, indicating operators avoided that route after a nighttime attack; between the night of the 8th and early 9th there were only five transits, with a single departure from the Gulf.
-
----
-
-### 2026-07-10 03:35:15  #公司 #國際
-
-【霍爾木茲海峽通航量驟降 幾近停滯】總部位於英國的溫沃德海事分析公司9日釋出報告說，由於美伊持續交火，霍爾木茲海峽通航量急劇下降，經海峽駛離波斯灣的商船交通基本陷入停滯。報告說，霍爾木茲海峽通航量近日經歷大幅起伏。7日霍爾木茲海峽共記錄51次通行，駛離波斯灣的船舶數量激增，達到35艘；8日記錄35次通行，駛離的18艘中僅兩艘經南部航道駛離，說明前一夜襲擊發生後，船舶運營商選擇避開靠近阿曼一側航道；8日夜間至9日凌晨，霍爾木茲海峽僅記錄5次通行，只有一艘駛離波斯灣。報告指出，霍爾木茲海峽南部航道基本被棄用，商船駛離交通自6月中旬部分恢復以來首次陷入實質性關閉狀態。目前霍爾木茲海峽及周邊海域風險等級為“危急”。美國與伊朗持續交火、停火破裂、制裁恢復以及航道安全形勢不確定等因素疊加，使該地區風險進一步升級。美軍中央司令部美國東部時間8日在社交媒體釋出訊息說，美軍當天對伊朗實施更多打擊。這是美軍以回應伊朗近期襲擊霍爾木茲海峽商船為由，連續兩天對伊朗發動軍事打擊。作為回應，伊朗軍方對中東地區多個美軍目標發動打擊。美伊諒解備忘錄達成後，霍爾木茲海峽主要有兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。(新華社)
 
 ---

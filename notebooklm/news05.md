@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 05:18:18_
-_本檔包含 2939 則快訊，約 612161 字_
+_更新時間：2026-07-11 06:37:57_
+_本檔包含 2960 則快訊，約 612834 字_
+
+---
+
+### 2026-07-06 21:39:28  #公司
+
+【中航重機：聘任馮彥成為總經理】中航重機7月6日公告，公司董事會同意提名馮彥成為公司非獨立董事候選人，該議案尚需提交股東會審議。公司董事會同意聘任馮彥成為總經理；同意聘任魏志堅為公司副總經理。
+
+---
+
+### 2026-07-06 21:39:17  #MKT News #Important #Market Themes #The Trump Trade #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+President Trump said markets will soar.
+
+---
+
+### 2026-07-06 21:39:16  #國際
+
+市場訊息：印度儲備銀行宣佈將於 7 月 7 日開展 5000 億印度盧比的可變利率回購拍賣。
+
+---
+
+### 2026-07-06 21:38:47  #國際
+
+特朗普稱，企業因關稅而減少在美國的投資。
+
+---
+
+### 2026-07-06 21:38:37  #其他
+
+【美股機械硬碟廠商漲幅擴大】美股機械硬碟廠商漲幅擴大，西部資料現漲8.3%，希捷科技漲6.4%。
+
+---
+
+### 2026-07-06 21:37:52  #國際
+
+特朗普：股市要暴漲了。
+
+---
+
+### 2026-07-06 21:37:44  #國際
+
+特朗普讚揚其第二任期內股市表現。
+
+---
+
+### 2026-07-06 21:37:44  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump praised the stock market's performance during his second term.
+
+---
+
+### 2026-07-06 21:37:37  #其他
+
+微軟：遍佈科羅拉多州的工程團隊。同時也在不斷發展結構。
+
+---
+
+### 2026-07-06 21:37:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Wells Fargo Stock Price Hits 18-week High — Wells Fargo shares increased to 87.09 USD, the highest since February 2026. Over the past 4 weeks, Wells Fargo gained 10.49%, and in the last 12 months, it increased 3.98%.
+
+---
+
+### 2026-07-06 21:37:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Dow Rises to New Record, Chips Rebound — US stock indices were higher on Monday amid fresh support from the heavyweight chip sector. The S&P 500 added 0.4%, the Nasdaq 100 rose nearly 1%, and the Dow inched higher to over 53,000 for the first time on record. Memory chip producers were sharply higher ahead of Samsung sales updates and SK Hynix's ADR issuance on Friday. This extends the volatile momentum since last week as ambitious guidance upgrades weigh against concerns that AI sector is overbought, with Meta selling its spare compute capacity and new SpaceX bonds trading at high-yield levels shortly after its record-setting IPO. Micron and Sandisk rose over 2.5%. Meanwhile, Nvidia traded higher as its assembly partner Hon Hain Precision signaled AI demand is growing further. Broader sectors were steady after last-week's outperformance. Minutes from the meeting of a divided FOMC due Wednesday could unveil insights on how the committee balances inflation and job market risks.
+
+---
+
+### 2026-07-06 21:37:28  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft (MSFT.O) said more changes are coming and other business units will require similar adjustments.
+
+---
+
+### 2026-07-06 21:37:13  #市場
+
+微軟因裁員計劃股價下跌2%。
+
+---
+
+### 2026-07-06 21:37:12  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish
+
+Microsoft (MSFT.O) shares fell 2% on news of plans for layoffs.
+
+---
+
+### 2026-07-06 21:37:00  #國際
+
+俄羅斯外交官：讓我們看看美國在北約峰會後如何制定其對烏克蘭的立場。
+
+---
+
+### 2026-07-06 21:36:40  #MKT News #Important #Market Themes #The Trump Trade #DELL.N #Impact bullish
+
+Dell (DELL.N) rose more than 3% in a brief intraday spike after Trump urged investors to buy the stock.
+
+---
+
+### 2026-07-06 21:36:34  #其他
+
+微軟：過去一年中，已重新部署逾4000名員工至新崗位，本月另有500名員工完成轉崗。
+
+---
+
+### 2026-07-06 21:36:22  #其他
+
+微軟：未來還將有更多變化。
+
+---
+
+### 2026-07-06 21:36:12  #MKT News #Important #Market Themes #The Trump Trade #DELL.N #Impact bullish #MU.O
+
+U.S. President Trump urged buying Dell and thanked Micron.
+
+---
+
+### 2026-07-06 21:36:00  #國際
+
+特朗普稱讚戴爾為特朗普賬戶專案捐款。
+
+---
+
+### 2026-07-06 21:35:53  #公司 #市場 #國際
+
+特朗普稱讚戴爾公司後，戴爾股價上漲至3%。
+
+---
+
+### 2026-07-06 21:35:48  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
+
+Microsoft (MSFT.O) said positions cut today were not replaced by AI.
+
+---
+
+### 2026-07-06 21:35:46  #其他
+
+微軟：XBOX 的重組旨在實現長期成功。
+
+---
+
+### 2026-07-06 21:35:39  #國際
+
+特朗普：感謝美光。
+
+---
+
+### 2026-07-06 21:35:33  #國際
+
+特朗普：去買臺戴爾電腦吧。
+
+---
+
+### 2026-07-06 21:35:23  #國際
+
+美國總統特朗普重申伊朗絕不能擁有核武器。
+
+---
+
+### 2026-07-06 21:35:04  #MKT News #Important #DXY #Impact mixed #US10Y #S&P500
+
+Final S&P Global US Services PMI for June due in 10 minutes.
+
+---
+
+### 2026-07-06 21:35:01  #其他
+
+微軟表示，被裁撤的崗位不會被人工智慧取代。
+
+---
+
+### 2026-07-06 21:34:54  #MKT News
+
+A Russian diplomat said they expect high-level dialogue between Russia and the United States to continue.
+
+---
+
+### 2026-07-06 21:34:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Trump reiterated that Iran must never be allowed to possess nuclear weapons.
+
+---
+
+### 2026-07-06 21:34:39  #其他
+
+微軟(MSFT.O)：超過30%的員工參與退休計劃。
+
+---
+
+### 2026-07-06 21:34:35  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7
+
+Microsoft (MSFT.O): more than 30% of employees participate in its retirement plan.
+
+---
+
+### 2026-07-06 21:34:32  #國際
+
+俄羅斯外交官：我們認為俄羅斯與美國之間的高層對話將會繼續。
+
+---
+
+### 2026-07-06 21:34:28  #MKT News #WTI #Impact bearish #Brent
+
+Trump: relations with Venezuela are good; relations with Iran are also good.
+
+---
+
+### 2026-07-06 21:33:50  #國際
+
+特朗普：與委內瑞拉相處融洽。
+
+---
+
+### 2026-07-06 21:33:17  #公司
+
+TERAWULF股價飆升14.3%，此前該公司宣佈在Justified資料中心園區與Anthropic達成租賃協議，並向Fluidstack出售Abernathy合資企業50.1%的股權。
+
+---
+
+### 2026-07-06 21:33:12  #其他
+
+惠譽確認CREDITO EMILIANO的評級為“BBB+”，展望穩定。
+
+---
+
+### 2026-07-06 21:32:47  #公司 #市場
+
+【海南海藥：近期經營情況正常 經營環境未發生重大變化】海南海藥(000566)7月6日釋出股票交易異常波動公告稱，公司股票連續3個交易日收盤價格漲幅偏離值累計達到20%以上。公司對有關事項進行了核查，公司前期披露的資訊不存在需要更正、補充之處；未發現近期公共傳媒報道了可能或已經對本公司股票交易價格產生較大影響的未公開重大資訊；近期經營情況正常及內外部經營環境未發生重大變化。
+
+---
+
+### 2026-07-06 21:32:28  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
+
+Microsoft (MSFT.O) said it will cut 6,400 jobs, roughly 2.8% of its workforce; about half of the reductions are tied to a restructuring of its Xbox gaming division. The company will sell five studios, including Compulsion and Double Fine.
+
+---
+
+### 2026-07-06 21:32:16  #其他
+
+【擴圍後，上海（長三角）國際科技創新中心優勢明顯】“科技部會同有關部門，在相關建設方案和規劃中，支援長三角地區在人工智慧大模型訓練、創新藥及疫苗分段生產、發起設立國際科技組織等方面提出多條改革先行先試政策，著力打通科技創新和產業創新深度融合的堵點斷點。”7月6日，在“活力中國調研行”上海站主題採訪活動情況介紹會上，中國科學技術發展戰略研究院副研究員王偉楠介紹科技部等相關部門推動上海（長三角）國際科技創新中心建設的工作舉措。 2025年中央經濟工作會議明確，將上海國際科技創新中心擴圍至長三角。王偉楠表示，當前上海（長三角）國際科技創新中心有三大突出優勢。 一是創新資源最為雄厚。長三角地區的全社會研發投入已超過全國三成，全國重點實驗室、“雙一流”高校分別佔全國1/4，PCT國際專利申請數量超過了全國的1/4，每萬人研發人員數也接近全國平均值的2倍。二是產業實力最為強勁。長三角地區集聚了約全國35%的高新技術企業，40%以上的獨角獸企業，25%以上的瞪羚企業，累計培育的國家級先進製造業叢集佔全國32%以上。三是城市協同最為緊密。長三角地區是以上海為龍頭的高水平均衡結構，隨著《關於促進長三角科技創新協同發展的決定》正式實施，長三角在科技創新一體化方面走在了全國前列。（科技日報）
 
 ---
 
@@ -17656,119 +17896,5 @@ Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers a
 ### 2026-07-04 06:39:12  #國際
 
 【山火蔓延 四千例超額死亡 歐洲陷入高溫熱浪危機】受持續熱浪影響，歐洲多國近期連續遭遇創紀錄的高溫天氣。總檯記者獲悉，高溫天氣已致法國、比利時等歐洲多國記錄到超4000例超額死亡。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。法國上週經歷了近80年來的最高溫，24小時全國平均氣溫連續兩天打破紀錄，包括巴黎在內的多地最高氣溫超過了40攝氏度。法國衛生部長里斯特3日表示，在法國本輪高溫期間，記錄到2025例超額死亡。資料顯示，法國在6月22日開始的一週內記錄到2025例超額死亡，較預期水平增加近30%。（央視新聞）
-
----
-
-### 2026-07-04 06:36:40  #國際
-
-【亞足聯9隊全部淘汰】北京時間7月4日，美加墨世界盃32進16淘汰賽，澳大利亞點球大戰不敵埃及。至此，本屆世界盃所有亞足聯參賽球隊全部遭到淘汰。隨著本屆世界盃擴軍，亞足聯參賽球隊也創紀錄地達到了9支，分別是日本、韓國、伊朗、澳大利亞、沙烏地阿拉伯、卡達、烏茲別克、約旦與伊拉克。最終，日本與澳大利亞2支隊伍從小組賽突圍，但都未能越過淘汰賽首輪。（北京日報）
-
----
-
-### 2026-07-04 06:35:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 2.24% — Top commodity gainers are Silver (2.24%), Lithium Carbonate (1.69%), Platinum (1.56%) and Gold (1.15%). Biggest loser is Iron Ore CNY (-0.81%).
-
----
-
-### 2026-07-04 06:30:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Gains by 2.60% — Top commodity gainers are Natural Gas UK (2.60%), Heating Oil (2.33%), Natural Gas EU (2.30%), Brent Crude Oil (0.42%) and Crude Oil WTI (0.11%).
-
----
-
-### 2026-07-04 06:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 0.99% — Top currency gainers are Brazilian Real (0.99%) and South Korean Won (0.73%). Biggest loser is Japanese Yen (-0.16%). Meanwhile, Euro, British Pound and Dollar Index were little changed.
-
----
-
-### 2026-07-04 06:15:02  #國際
-
-特朗普登上空軍一號前往南達科他州，當地時間週五他將在拉什莫爾山發表獨立日前夜講話。
-
----
-
-### 2026-07-04 06:14:45  #公司 #國際
-
-【美國福克斯電視臺就傳播“抹黑”中國言論道歉】6月的最後一週，美國福克斯電視臺上演了一出罕見的“道歉劇”。福克斯旗下多檔節目的主持人就傳播“抹黑”中國言論道歉，這一幕在福克斯電視臺歷史上並不常見。福克斯電視臺主持人：凱文·奧利裡曾在5月11日參加節目，談及他在猶他州擬建的資料中心專案引發的持續爭議。當時，他針對反對者發表了部分言論，奧利裡先生現已更正相關表述，說明他沒有證據證明“更好猶他聯盟”、提升策略公司喬希·坎特、泰勒·克努特、加布裡埃爾·芬利森接受了中國或中國共產黨的資助。福克斯新聞傳媒同樣確認，沒有證據表明上述主體在反對奧利裡的專案時接受了中國的資助，受其指揮或與其配合。福克斯新聞傳媒為這一失誤致歉。（央視新聞）
-
----
-
-### 2026-07-04 05:58:53  #其他
-
-中央氣象臺7月4日06時釋出颱風藍色預警。
-
----
-
-### 2026-07-04 05:58:45  #其他
-
-中央氣象臺7月4日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-07-04 05:58:39  #其他
-
-中央氣象臺7月4日06時繼續釋出強對流天氣黃色預警。
-
----
-
-### 2026-07-04 05:56:19  #其他
-
-【經濟日報：加強資料立法正當其時】國家資料局印發的《2026年數字經濟發展工作要點》提出，推進數字經濟促進法立法程序，持續推進資料安全管理，強化重要資料和核心資料識別與保護。伴隨資料產業快速發展，資料市場秩序的規範化要求與資料立法不足之間的張力越來越明顯，對資料產業發展產生了制約。例如，因資料權屬及使用邊界不清，資料從業者普遍存在“不敢、不願、不能”開發利用資料資源的問題。又如，因資料確權難、定價難、流通難，很多經營主體缺乏入場資料產業的積極性，資料市場難以形成資金、技術的聚集效應。加之近年來涉資料權益爭議不斷增多，這些爭議進一步顯示出我國資料保護基礎規則的發展進度明顯落後於資料利用開發的進度。
-
----
-
-### 2026-07-04 05:55:05  #其他
-
-【經濟日報：AI讓低空經濟“飛”得更穩】以人工智慧融合低空經濟，並非單純以人工智慧為輔助工具，而是以其智慧技術為基底，重構智慧時代的低空經濟執行邏輯與發展模式。不久前，國家市場監督管理總局召開新聞釋出會，正式公佈《人工智慧 智慧體互聯》系列7項國家標準，預示著我國正在加快填補支撐智慧經濟的標準空白，以高標準引領人工智慧（AI）產業發展。全球人工智慧產業已進入強勁增長週期，“人工智慧+”正驅動數智技術與現代經濟社會邁向深度融合。作為新質生產力的典型代表，以人工智慧融合低空經濟，並非單純以人工智慧為輔助工具，而是以其智慧技術為基底，重構智慧時代的低空經濟執行邏輯與發展模式。
-
----
-
-### 2026-07-04 05:44:58  #其他
-
-【巴西最高法院裁定延長前總統博索納羅居家監禁】當地時間3日，巴西最高法院大法官德莫賴斯裁決，延長前總統博索納羅的居家監禁。（央視新聞）
-
----
-
-### 2026-07-04 05:38:31  #其他
-
-馬斯克：（紐約市長）馬姆達尼一事無成，只會索取，從不創造。
-
----
-
-### 2026-07-04 05:37:16  #Trading Economics #Economy #Uruguay #Inflation Rate #Importance 1
-
-Uruguay Inflation Rises to 4.25% — Uruguay’s annual inflation rate rose to 4.25% in June 2026 from 3.77% in the prior month. The increase was driven by rises in transport costs (7.6%), education (6.8%), restaurants and hotels (6.6%), healthcare (6%), personal care and social protection (5.6%), utilities (4.9%), and information and communication (4.3%). Food costs were 2.6% higher. In contrast, prices of clothing and footwear prices fell 5.2%. On a monthly basis, consumer prices rose 0.4%.
-
----
-
-### 2026-07-04 05:31:29  #其他
-
-【迦納首都及周邊地區強降雨已致34人死亡】迦納國家災害管理部門官員理查德·阿莫·亞爾泰3日對媒體表示，近日的強降雨及洪澇災情已導致全國34人死亡，僅首都阿克拉就有12人死亡，待核實完其他地區報告，死亡人數可能還會上升。（新華社）
-
----
-
-### 2026-07-04 05:31:12  #國際
-
-俄羅斯國防部表示，俄軍已拿下烏克蘭東部的康斯坦丁諾夫卡。
-
----
-
-### 2026-07-04 05:30:05  #公司 #市場 #央行 #國際
-
-【受AI熱潮與美聯儲樂觀預期提振，新興市場資產全線反彈】隨著韓國科技藍籌股反彈，新興市場股市創下自6月中旬以來的最大單日漲幅；同時，受美國勞動力市場資料弱於預期的影響，新興市場貨幣連續第二日走強。週五，MSCI新興市場股票指數上漲2.2%，創6月15日以來最大單日漲幅。韓國晶片製造商SK海力士和三星電子的強勁表現，抵消了臺積電股價下跌帶來的拖累。韓國綜合股價指數（Kospi）大漲5.8%，部分收復了此前兩個交易日近10%的跌幅。
-
----
-
-### 2026-07-04 05:29:01  #國際
-
-【斯洛伐克稱不會承擔北約峰會上提出的任何援烏義務】當地時間7月3日，斯洛伐克總理菲佐表示，即將在土耳其安卡拉舉行的北約峰會所透過的決議，不會使斯洛伐克承擔參與向烏克蘭提供軍事援助財政機制的義務。菲佐表示，斯洛伐克政府始終認為，烏克蘭衝突沒有軍事解決方案，而“現在又有人提出，要透過一項政治宣告，為烏克蘭再提供700億歐元的支援”。菲佐說，斯洛伐克願意繼續向烏克蘭提供人道主義援助，並繼續透過斯烏政府雙邊磋商機制開展合作，但“不會參與任何旨在為烏克蘭提供軍事支援的財政機制”。（央視新聞）
-
----
-
-### 2026-07-04 05:21:13  #其他
-
-【智利中部近海發生5.5級地震】根據德國地學研究中心報告，當地時間7月3日16時43分，智利中部近海海域發生5.5級地震，震源深度10公里。目前暫無人員傷亡及財產損失報告。（央視新聞）
 
 ---
