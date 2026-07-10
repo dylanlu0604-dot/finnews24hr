@@ -1,7 +1,133 @@
 {
   "date": "2026-07-10",
-  "count": 2522,
+  "count": 2537,
   "items": [
+    {
+      "id": "4981453",
+      "time": "2026-07-10 21:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭無人機已飛抵西伯利亞，襲擊了距烏克蘭近 2500 公里的鄂木斯克煉油廠。如今，俄羅斯境內已沒有任何一座煉油廠能躲開烏克蘭武器的打擊範圍。"
+    },
+    {
+      "id": "4981452",
+      "time": "2026-07-10 21:41:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【三菱汽車將量產人形機器人】三菱汽車7月9日宣佈，將在日本工廠啟動人形機器人量產。三菱汽車與其投資的新興企業Highlanders共同開發的人形機器人將於2027年左右投入生產，並率先匯入自有工廠使用，未來還將考慮對外銷售。"
+    },
+    {
+      "id": "4981451",
+      "time": "2026-07-10 21:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【八馬茶業：預計上半年收入同比增長不少於30.0%】八馬茶業公告，預計截至2026年6月30日止六個月收入同比增長不少於30.0%，至約人民幣10.63億元；公司股東應占溢利同比增長不少於60.0%，至約人民幣1.2億元。"
+    },
+    {
+      "id": "te:markets:566066",
+      "time": "2026-07-10 21:40:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Waver on Friday — US stock indices were mixed on Friday with more volatility for heavyweight chip producers clashed against a pullback in Treasury yields, aiding traditional economic sectors. The S&P 500 and the Dow inched, higher, while the Nasdaq 100 fell 0.5%. The SK Hynix ADRs were due to begin trading in domestic stock exchanges for the largest first-time share sale by a foreign company. Reports that the offering was seven times oversubscribed lifted AI infrastructure companies, especially boosting memory producers after Micron increased its investment guidance. The speculative sector trimmed yesterday’s increase with Micron and Sandisk down over 2% each. In turn, the Dow inched higher as it is not directly exposed so chip producers. Financial companies and traditional economic sectors enjoyed some respite as oil prices halted their rebound and softened concerns of another rate hike by the Fed. Also, Delta added 2% on strong earnings and a dividend increase."
+    },
+    {
+      "id": "4981450",
+      "time": "2026-07-10 21:40:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西基準股指伊博韋斯帕指數<.BVSP>上漲2%。"
+    },
+    {
+      "id": "te:markets:566065",
+      "time": "2026-07-10 21:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 105 points or 0.20 percent on Friday. Gains are led by Microsoft (1.80%), American Express (1.16%) and Nike (1.15%). Biggest losers are Alphabet (-1.22%), UnitedHealth (-0.92%) and McDonalds (-0.78%)."
+    },
+    {
+      "id": "4981448",
+      "time": "2026-07-10 21:39:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【某長三角理財子因規模增速過快收到監管提示函】從多個獨立信源處獲悉，某長三角理財子因今年規模增速過快，收到監管單獨傳送的提示函，但並未要求採取具體的壓降措施或行政處罰。資料顯示，此次被髮函提示的理財公司整體規模並不算高，但近期增速較為突出，尤其短期產品規模增長明顯，上半年整體增速約16%，而行業內其他理財公司增速多在10%以內。分析認為，監管對短期產品增速過快的機構保持關注，流動性風險是其中一個重要考量。（21財經）"
+    },
+    {
+      "id": "mkt:019f4c41-44e6-7aab-8d33-f285bc217723",
+      "time": "2026-07-10 21:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze River Delta wealth-management subsidiary hit with regulatory notice over rapid asset growth】A Yangtze River Delta-based wealth-management subsidiary has received a separate regulatory notice for unusually rapid asset growth this year; regulators did not require immediate asset reductions or impose administrative penalties. The firm's total AUM is not large but expanded roughly 16% in 1H, well above peers’ growth mostly below 10%, driven by a marked jump in short-term product volumes. Regulatory attention appears focused on rapid short-term product expansion, with liquidity risk cited as the primary concern."
+    },
+    {
+      "id": "4981447",
+      "time": "2026-07-10 21:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究顯示地球過去溫暖時期氣溫低於此前估計】英國利茲大學9日釋出的一項新研究顯示，地球顯生宙以來較溫暖時期的氣溫可能比此前認為的更低，相關結論有助於更深入理解地球未來氣溫走向 。(新華社)"
+    },
+    {
+      "id": "mkt:019f4c40-6a6a-7aab-8d33-eda848035d32",
+      "time": "2026-07-10 21:38:37",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Samsung to unveil new foldables on July 22; U.S. price for Z Fold8 Ultra seen above $2,000】Samsung will announce new foldable models on July 22, expected to include the Galaxy Z Flip8, Galaxy Z Fold8 and Galaxy Z Fold8 Ultra. South Korean media, citing industry sources, report the Z Fold8 Ultra’s U.S. price will top $2,000, with $2,099 described as “very likely” versus the Z Fold7’s $1,999.99 launch price — implying about a $100 increase; pricing is not final as Samsung continues to review overall strategy. Reported drivers include a RAM supply strain and earlier price increases on the Galaxy S26 series."
+    },
+    {
+      "id": "4981446",
+      "time": "2026-07-10 21:38:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第九屆進博會推介會在泰國舉行】據新華社，第九屆中國國際進口博覽會（進博會）推介會暨“共享大市場·出口中國”泰國專場活動9日在曼谷舉行。中泰工商界代表200餘人參加，共同探討兩國經貿合作高質量發展。中國商務部副部長鄢東在致辭中表示，中國已連續13年穩居泰國最大貿易伙伴，泰國也是中國在東盟的重要貿易伙伴。2026年是中國“十五五”開局之年，進博會將與“出口中國”系列活動協同聯動，以更大力度擴大進口，與世界各國共享中國發展新機遇。泰國是2026年“出口中國”主題國之一，歡迎泰國企業積極參與第九屆進博會，對接中方合作伙伴，助推中泰經貿關係邁上新臺階。"
+    },
+    {
+      "id": "4981445",
+      "time": "2026-07-10 21:38:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普下令翻新白宮廊柱】據埃菲社7月9日報道，美國總統特朗普已下令對白宮北門廊的柱子進行翻新，增添新裝飾，使其風格比目前更為華麗。7月9日，建築工人用一塊印有北門廊實物大小影象的巨型帆布，覆蓋在門廊上搭建的腳手架之上。白宮北門廊採用新古典主義風格，擁有8根愛奧尼柱。然而，特朗普最近在社交媒體上釋出了一張科林斯柱的圖片，這種柱式以裝飾更繁複、更華麗著稱，符合他的審美品味。報道稱，身為前房地產大亨的特朗普決心在其第二個也是最後一個任期內在首都留下自己的建築印記。（參考訊息）"
+    },
+    {
+      "id": "te:markets:566064",
+      "time": "2026-07-10 21:37:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Surges on Softer-Than-Expected Inflation — The Ibovespa jumped nearly 2% to trade close to 176,000 on Friday after Brazil's inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading pushed bond yields lower and strengthened expectations that the central bank could adopt a more dovish stance. Financial stocks led the rally, with Itaú and Itaúsa gaining more than 2%, Bradesco rising over 2.5%, and B3 advancing more than 3%. Utilities also moved higher, with Axia and Sabesp up over 2%. Other notable gainers included Rede D'Or (+3%) and CSN (+4%)."
+    },
+    {
+      "id": "4981444",
+      "time": "2026-07-10 21:37:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：東道主美國何以輸掉世界盃人心】據美國《紐約時報》網站7月6日報道，6日，本就關係緊張的美國與歐洲出現新矛盾。在當晚美國對陣比利時的世界盃比賽中，一名遭禁賽的美國球員被恢復參賽資格，比利時官方及歐洲足壇人士對此表示強烈不滿。過去一年半以來，跨大西洋關係本就持續承壓，如今歐洲不少人士對美國總統插手足球事務感到憤慨。曾擔任足球裁判的比利時外交大臣馬克西姆·普雷沃6日表示，國際足聯的裁決恐將損害其一貫標榜的公平競賽原則。普雷沃說：“這一決定顯然存在諸多疑點。如果作出這個令人費解的決定確實是因為一通電話，那無疑是在踐踏足球乃至體育界秉持的基本原則。”歐洲足球協會聯盟在一份宣告中表示，國際足聯的改判“越過了紅線”，稱這是“一個史無前例、不可理解、毫無道理的決定”。比利時布魯蓋爾研究所分析師雅各布·豐克·柯克加德表示，歐洲政要可能將此次足球風波視為“特朗普治下的美國是一個無視法規、不受約束的國家”的又一明證。（參考訊息）"
+    },
     {
       "id": "4981443",
       "time": "2026-07-10 21:36:04",
@@ -249,6 +375,14 @@
         "Impact bearish"
       ],
       "text": "Spot gold fell below $4,090/oz, down 0.82% intraday. New York gold futures touched $4,100/oz, down 0.79% intraday."
+    },
+    {
+      "id": "4981421",
+      "time": "2026-07-10 21:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國海軍陸戰隊一架CH-53直升機正在阿拉伯海向一艘美國海軍艦艇運送補給。"
     },
     {
       "id": "4981420",
