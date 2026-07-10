@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-11 06:37:57_
-_本檔包含 3333 則快訊，約 612919 字_
+_更新時間：2026-07-11 07:34:23_
+_本檔包含 3336 則快訊，約 612573 字_
+
+---
+
+### 2026-07-08 04:34:42  #其他 #焦點
+
+韓美日簽署小型模組化反應堆部署合作諒解備忘錄。
+
+---
+
+### 2026-07-08 04:33:38  #國際
+
+【卡達就其運輸船遇襲向伊朗發出照會】卡達外交部7日召見伊朗駐卡達副大使，就卡方一艘運輸船日前在霍爾木茲海峽附近航行時遭襲，向伊方遞交抗議照會。卡達外交部當天發表宣告說，照會指出，襲擊卡達運輸船“阿爾-魯凱亞特”號嚴重危害國際海上航行安全，直接威脅全球能源供應安全，公然違反國際法。卡達要求伊朗儘快就此次襲擊作出說明。（新華社）
+
+---
+
+### 2026-07-08 04:33:24  #國際
+
+【伊拉克今天為哈梅內伊送葬】當地時間7月7日晚，伊朗總統佩澤希齊揚及其隨行代表團抵達伊拉克的什葉派聖城納傑夫。伊拉克總理扎伊迪到機場迎接。載有伊朗已故最高領袖阿里·哈梅內伊遺體的飛機也已抵達納傑夫。 據伊拉克總理辦公室釋出的宣告，佩澤希齊揚此行率代表團出席哈梅內伊的送葬儀式。扎伊迪就哈梅內伊遇害向伊朗人民和政府再次表示哀悼，強調兩國關係深厚，承諾將在各領域鞏固並深化雙邊合作。 根據伊朗方面此前公佈的哈梅內伊葬禮安排，在結束於德黑蘭為期三天的悼念及送葬儀式後，應伊拉克方面要求，今天（7月8日）將在伊拉克兩座什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式；7月9日，哈梅內伊及其多位遇害家人的送葬儀式將在伊朗聖城馬什哈德舉行。儀式結束後，哈梅內伊的遺體將被安葬。（CCTV國際時訊）
+
+---
+
+### 2026-07-08 04:32:46  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises as Energy Gains Offset Mining Losses — The S&P/TSX Composite Index gained 0.2% to close at 35,273 on Tuesday, supported by the energy sector and strong trade data. Canadian Natural rose 3.2%, Suncor added 3.2%, Imperial Oil gained 3%, and Cenovus advanced 3.5% as oil prices climbed after reports that the US would revoke the waiver allowing Iran to sell its oil following recent attacks on tankers in the Strait of Hormuz. Financials traded mixed as investors awaited the minutes from the Fed's June meeting for clues on monetary policy. RBC gained 0.5%, TD Bank rose 0.6%, and BMO added 1.2%, while Scotiabank and Brookfield lost 1%. Meanwhile, lower gold prices weighed on miners, with Agnico Eagle and WPM falling 3.2% and Barrick dropping 3.5%.
+
+---
+
+### 2026-07-08 04:32:17  #國際
+
+火箭實驗室（Rocket Lab）宣佈為美國太空軍執行的發射任務圓滿成功。
+
+---
+
+### 2026-07-08 04:29:59  #公司 #國際
+
+【沃倫就五角大樓人工智慧合作協議質詢英偉達、SpaceX與谷歌】美國參議員辦公室郵件宣告顯示，民主黨參議員伊麗莎白·沃倫已致函谷歌、SpaceX、英偉達、Reflection AI,、微軟、亞馬遜雲科技、甲骨文以及美國國防部，質詢五角大樓在軍事行動中運用人工智慧相關事宜。沃倫在聯名信函中要求上述各家企業完整公開其與五角大樓簽訂的全部合同文字。沃倫向相關企業表示，五角大樓稱相關合作協議允許政府將企業技術用於大規模監控行動、研發致命自主武器等場景，對此她深感擔憂。沃倫要求各方於7月20日前就以下問題作出答覆：1. 合同涵蓋範圍，包括哪些產品與服務被應用於涉密系統；2. 人工智慧技術的具體應用場景；3. 相關協議是否允許五角大樓將人工智慧用於前述監控活動或武器研發。
+
+---
+
+### 2026-07-08 04:28:27  #公司
+
+納斯達克釋出醫療資訊化服務商TruBridge合併相關公告，該公司股票預計7月8日為最後交易日。
+
+---
+
+### 2026-07-08 04:27:09  #公司
+
+亞馬遜雲科技AWS：為AWS開放資料登錄檔推出MCP伺服器。
+
+---
+
+### 2026-07-08 04:26:56  #市場 #國際
+
+受美國天氣擔憂以及市場需求回暖訊號推動，芝加哥期貨交易所（CBOT）大豆價格上漲。
+
+---
+
+### 2026-07-08 04:26:44  #國際
+
+埃克森美孚：預計第二季度其他中東因素對能源產品的影響為負1億至負3億美元。
+
+---
+
+### 2026-07-08 04:25:49  #其他
+
+T-Mobile：邁克·卡茨將卸任首席業務與產品官一職，將留任顧問至2026年12月。
+
+---
+
+### 2026-07-08 04:25:22  #其他
+
+T-Mobile任命克里斯·桑巴爾為首席企業官，並最佳化領導團隊架構，以推動下一階段戰略增長與創新發展。
+
+---
+
+### 2026-07-08 04:25:08  #國際
+
+埃克森美孚：預計第二季度其他中東因素對上游業務的影響區間為負1億美元至正1億美元。
+
+---
+
+### 2026-07-08 04:25:00  #國際
+
+埃克森美孚：預估2026年第二季度受伊朗戰事影響，將產生約12億美元收益損失。
+
+---
+
+### 2026-07-08 04:24:40  #MKT News
+
+Fox News reported U.S. Trade Representative GREER said Canada and Mexico have not fully fulfilled their commitments under the USMCA.
+
+---
+
+### 2026-07-08 04:23:58  #焦點 #國際
+
+美國貿易代表格里爾談及美墨加協定：加拿大與墨西哥並未完全履行全部承諾。
+
+---
+
+### 2026-07-08 04:23:09  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.17% to 101.023 at New York close on the 7th】The dollar index, which measures the currency against six major peers, rose 0.17% to 101.023 at the New York close. The euro traded at $1.1419, down from $1.1443; the pound at $1.3363, down from $1.3395. The dollar was ¥161.94, below ¥162.06 previously; it traded at 0.8076 Swiss francs, above 0.8050; at C$1.4195, below C$1.4209; and at 9.6784 Swedish krona, above 9.6255.
+
+---
+
+### 2026-07-08 04:22:57  #其他
+
+埃克森美孚：與第一季度相比，利潤率變動將對第二季度能源產品收益產生20億至24億美元的影響。
+
+---
+
+### 2026-07-08 04:22:48  #公司
+
+埃克森美孚：預計2026年第二季度油價將為公司帶來37億美元收益增量。
+
+---
+
+### 2026-07-08 04:22:31  #其他
+
+埃克森美孚：與第一季度相比，利潤率變動將令第二季度化工產品收益減少10億至12億美元。
+
+---
+
+### 2026-07-08 04:21:38  #市場
+
+【美元指數7日上漲】美元指數7日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.17%，在匯市尾市收於101.023。截至紐約匯市尾市，1歐元兌換1.1419美元，低於前一交易日的1.1443美元；1英鎊兌換1.3363美元，低於前一交易日的1.3395美元。1美元兌換161.94日元，低於前一交易日的162.06日元；1美元兌換0.8076瑞士法郎，高於前一交易日的0.8050瑞士法郎；1美元兌換1.4195加元，低於前一交易日的1.4209加元；1美元兌換9.6784瑞典克朗，高於前一交易日的9.6255瑞典克朗。
 
 ---
 
@@ -19992,113 +20118,5 @@ United States | Composite PMI Final (Jun) | actual 51.9 | previous 52.2
 ### 2026-07-06 21:44:03  #Trading Economics #Economy #Canada #Composite PMI #Importance 1
 
 Canada Private Sector Activity Contracts — The S&P Global Canada Composite PMI declined to 47.9 in June 2026, marking the first contraction in 6 months in private-sector business activity, down from 50.8 in May. The decline was driven by weaker services activity, which more than offset a solid expansion in manufacturing output. New orders also declined during the month, pointing to softer demand. Despite the downturn in activity, private-sector employment continued to grow, although optimism regarding the future deteriorated. On the price front, inflationary pressures eased.
-
----
-
-### 2026-07-06 21:43:49  #MKT News #ICE #NDAQ
-
-President Trump praised the CEO of Intercontinental Exchange and the heads of the New York Stock Exchange and Nasdaq.
-
----
-
-### 2026-07-06 21:42:59  #公司 #國際
-
-特朗普讚揚國際交易所執行長、紐約證券交易所和納斯達克的負責人。
-
----
-
-### 2026-07-06 21:42:37  #公司
-
-穆迪評級機構授予L&T沙特公司Baa1評級，展望穩定。
-
----
-
-### 2026-07-06 21:42:20  #公司 #市場
-
-Element Solutions股價下跌4.4%，Solstice Advanced Materials將以145億美元交易收購該公司。
-
----
-
-### 2026-07-06 21:41:52  #市場
-
-SOLSTICE股價下跌14.1%。
-
----
-
-### 2026-07-06 21:41:48  #MKT News #CNH #Impact bullish #Hang Seng Index
-
-【Hong Kong chief executive Lee Ka-chiu meets PBOC's Pan】Hong Kong chief executive Lee Ka-chiu met PBOC's Pan Gongsheng on July 6 to discuss economic and financial issues; Financial Secretary Paul Chan and Secretary for Financial Services and the Treasury Christopher Hui attended. Lee said China’s 15th Five-Year Plan supports measures to strengthen Hong Kong’s role as an international financial centre, explicitly citing development of a global offshore RMB hub, international asset and wealth management centre, international risk management centre and a commodities trading ecosystem. The HKSAR is drafting its first five‑year plan to align with those national priorities and said it will push greater mainland-market connectivity, promote two-way capital flows and enhance Hong Kong’s competitiveness as an international financial centre.
-
----
-
-### 2026-07-06 21:41:42  #央行 #其他
-
-【香港特區行政長官李家超與央行行長潘功勝會面】香港特區政府行政長官李家超今日（七月六日）與中國人民銀行行長潘功勝會面，就經濟金融議題交流意見。財政司司長陳茂波和財經事務及庫務局局長許正宇亦有出席。李家超歡迎潘功勝行長率團到訪香港。李家超表示，國家「十五五」規劃支援香港鞏固提升國際金融中心地位，強化全球離岸人民幣業務樞紐、國際資產及財富管理中心、國際風險管理中心功能，構建大宗商品交易生態圈。特區政府正全速編制香港第一個五年規劃，積極把握國家十五五規劃帶來的重大機遇，推動國際金融中心高質量發展。特區政府會繼續善用香港在一國兩制下背靠祖國、聯通世界的獨特優勢，持續推動與內地金融市場互聯互通，促進兩地資金雙向流動，進一步增強香港國際金融中心的競爭力。（香港特區政府）
-
----
-
-### 2026-07-06 21:41:37  #MKT News #Market Themes #The Trump Trade
-
-【BESSENT: Trump accounts to give next generation a stake in the American Dream】BESSENT, speaking in the WHITE HOUSE Oval Office, said Trump accounts — tax-advantaged savings accounts for children under 18 — will provide the next generation an economic foundation to share the American Dream. He said the administration is building an "ownership economy" to make citizens shareholders and that 6 million US children have registered the accounts.
-
----
-
-### 2026-07-06 21:41:33  #其他
-
-市場訊息：希爾頓度假俱樂部8.5億美元貸款再融資。
-
----
-
-### 2026-07-06 21:41:09  #MKT News
-
-President Trump said he is discussing with Congress a new account type aimed at adults.
-
----
-
-### 2026-07-06 21:41:05  #其他
-
-卡普託稱，阿根廷債務規模到 2031 年將降至國內生產總值的 37%。
-
----
-
-### 2026-07-06 21:40:25  #國際
-
-美國總統特朗普：財長貝森特表現出色。
-
----
-
-### 2026-07-06 21:40:25  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed #Nasdaq100 #S&P500
-
-【Microsoft to cut about 4,800 jobs, hits sales and Xbox units】Microsoft will cut roughly 4,800 roles, about 2.1% of its global workforce, primarily in sales and the Xbox gaming division. The company had more than 220,000 employees before the reduction. Microsoft is trimming costs while increasing AI infrastructure spending and faces investor concern that AI could disrupt traditional software revenue. Last year the firm cut about 6,000 jobs in May and a further 9,000 in July (around 4% of staff). Earlier this year Microsoft offered a voluntary retirement buyout in the U.S. to employees at or below grade 67 with long service; of roughly 9,000 eligible staff, about one-third accepted, helping keep this year's layoff rate below last year's level.
-
----
-
-### 2026-07-06 21:40:25  #MKT News #Market Themes #The Trump Trade
-
-President Trump said tariffs are prompting companies to invest in the United States.
-
----
-
-### 2026-07-06 21:40:19  #MKT News
-
-U.S. President Trump said Treasury Secretary Bessent has performed excellently.
-
----
-
-### 2026-07-06 21:40:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is falling 36 points. Losses were driven by Nike (-3.49%), Visa (-2.67%) and Microsoft (-2.14%). Biggest rises came from Goldman Sachs (2.63%), Caterpillar (2.23%) and JPMorgan (1.48%).
-
----
-
-### 2026-07-06 21:39:52  #央行 #其他
-
-以色列央行行長亞倫：通脹預期降低或將加速降息。
-
----
-
-### 2026-07-06 21:39:43  #MKT News
-
-Bank of Israel Governor Yaron said lower inflation expectations could accelerate rate cuts.
 
 ---

@@ -1,7 +1,80 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-11 06:37:57_
-_本檔包含 3014 則快訊，約 613129 字_
+_更新時間：2026-07-11 07:34:23_
+_本檔包含 3009 則快訊，約 612355 字_
+
+---
+
+### 2026-07-11 07:15:53  #其他
+
+市場訊息：紐約市已就曼哈頓一棟出現牆體變形的高層樓宇展開調查。
+
+---
+
+### 2026-07-11 07:12:20  #其他
+
+市場訊息：Meta在遭遇多日反對聲音後暫停AI影象功能。
+
+---
+
+### 2026-07-11 07:09:28  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、加快推進高水平科技自立自強——論學習貫徹習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話
+2、凝聚起建設科技強國的強大合力——習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話鼓舞科技工作者勇攀高峰
+3、全國夏糧產量首超3000億斤 比上年增長0.7%，22個夏糧產區增產
+4、第九屆進博會推介會在泰國舉行；
+5、肖捷強調 以法治力量保障旅遊業高質量發展
+6、張慶偉強調 不斷提升旅遊業發展法治化水平
+7、四部門印發意見 加快推進“人工智慧+人社”應用發展
+8、《能源領域節能降碳行動計劃（2026—2028年）》釋出 到2028年非化石能源消費比重年均提升約1個百分點
+9、6G：構築未來世界的神經網路（院士講科普·未來產業）
+10、中國超算重回世界第一，意味著什麼
+11、美髮射商業航天器抬昇天文衛星軌道
+12、一張“摺紙”攻克電子器件高溫難題
+
+---
+
+### 2026-07-11 07:09:21  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平同奈米比亞總統恩代特瓦會談
+2、習近平會見朝鮮內閣總理樸泰成
+3、李強主持召開國務院常務會議 進一步部署防汛抗洪救災工作 聽取數字中國建設情況彙報 聽取現代流通體系建設進展情況彙報 研究新興支柱產業培育有關工作 研究自然資源保護利用有關工作 審議透過《全民健身計劃（2026—2030年）》
+4、趙樂際分別會見奈米比亞總統恩代特瓦、朝鮮內閣總理樸泰成
+5、王滬寧出席建設現代化產業體系調研協商座談會
+6、中央層面整治形式主義為基層減負專項工作機制會議在京召開 蔡奇出席並講話
+
+---
+
+### 2026-07-11 06:57:43  #其他
+
+加拿大：戈登・豪國際大橋（美加邊境大橋）定於 7 月 27 日正式通車。
+
+---
+
+### 2026-07-11 06:55:47  #國際
+
+【俄稱在紅利曼方向繼續推進 烏稱打擊俄船隻及能源設施】俄羅斯國防部10日通報稱，俄軍過去一週對烏克蘭軍工企業、燃料能源設施及烏軍實施了一次密集打擊和六次叢集打擊。俄軍控制7個居民點，在紅利曼方向繼續排雷和搜尋清除剩餘烏軍人員，並向西推進。俄國防部還稱，10日在多個州及黑海水域上空攔截、摧毀了144架烏固定翼無人機。
+烏克蘭武裝部隊總參謀部10日通報稱，當天凌晨烏軍對俄羅斯境內及被俄方控制地區的多處目標實施打擊。據烏軍釋出的訊息，遭到打擊的目標包括煉油廠、石油終端、油庫、天然氣凝析油加工企業，以及包括油輪在內的共18艘船隻。（央視新聞）
+
+---
+
+### 2026-07-11 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Increases by 2.76% — Top crypto gainers are Ether (2.76%), Bitcoin (1.38%) and Binance (1.27%).
+
+---
+
+### 2026-07-11 06:41:03  #國際
+
+市場訊息：沙特王儲與特朗普就地區最新局勢交換意見，其中涵蓋美伊談判相關事宜。
+
+---
+
+### 2026-07-11 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%).
 
 ---
 
@@ -18173,89 +18246,5 @@ US equities closed higher on Thursday, July 9: Dow Jones Industrial Average +138
 ### 2026-07-10 04:02:35  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
 
 OpenAI said Microsoft will access its models via API to offer GPT-5.6 to Microsoft 365 customers.
-
----
-
-### 2026-07-10 04:02:26  #市場
-
-多倫多證券交易所指數.GSPTSE非官方收盤上漲264.65點，漲幅0.76%，報35,200.45點。
-
----
-
-### 2026-07-10 04:02:14  #其他
-
-開市客收跌4.2%，創2025年4月份以來最差單日表現。
-
----
-
-### 2026-07-10 04:01:42  #公司
-
-百事公司財報不及預期，股價收跌 3.3%，創 5 月以來單日最大跌幅。
-
----
-
-### 2026-07-10 04:01:35  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #Alibaba #Market Regions #Wall Street (US) #MU.O #Impact bullish #SNDK.O #WDC.O
-
-【US close: major indexes higher; chip stocks lead gains】US stocks closed higher on Thursday: Nasdaq +1.3%, S&P 500 +0.8%, Dow Jones Industrial Average +0.26%. Semiconductor names led gains—Micron Technology (MU.O) +4.5%, SanDisk (SNDK.O) +7.5%, Western Digital (WDC.O) +5%. Meta Platforms (META.O) +4.7%. Nasdaq Golden Dragon China Index +0.56%; iQiyi (IQ.O) +8.5%, Alibaba (BABA.N) +2%.
-
----
-
-### 2026-07-10 04:01:03  #市場
-
-META股價收盤上漲4.7%，創5月29日以來最高水平。
-
----
-
-### 2026-07-10 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.27%，標普500指數漲0.81%，納指漲1.30%。Lumentum Holdings Inc. Common Stock When Issued漲11.13%，慧與漲9.92%，Arm Holdings Plc漲9.20%，閃迪漲7.59%，挪威郵輪漲6.96%。“七姐妹”方面：Meta Platforms漲4.70%，特斯拉漲3.17%，亞馬遜漲1.40%，蘋果漲0.90%，微軟漲0.27%，英偉達跌0.66%，谷歌跌0.69%。
-
----
-
-### 2026-07-10 04:00:31  #市場
-
-道瓊斯工業平均指數非官方收盤上漲109.48點，漲幅0.21%，報52457.87點。
-
----
-
-### 2026-07-10 04:00:15  #其他
-
-OPENAI：微軟還將透過API直接訪問OPENAI模型，為微軟365客戶提供GPT-5.6。
-
----
-
-### 2026-07-10 04:00:04  #其他
-
-OpenAI：GPT-5.6現已成為微軟365副駕駛（Microsoft 365 Copilot）的首選模型。
-
----
-
-### 2026-07-10 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.55%】愛奇藝漲8.10%，優品車漲5.31%，Tims中國漲4.17%，聲網漲4.09%，虎牙漲3.51%。
-
----
-
-### 2026-07-10 03:59:43  #公司
-
-【Cursor 正在研發一款 AI 智慧助手，用以對標 Claude Cowork】兩名知情專案人士透露，Cursor 正在開發一款通用人工智慧智慧體，旨在對標 Anthropic 旗下 Claude Cowork 等熱門工具，這也是該公司跳出程式碼專用工具賽道、拓展多元業務佈局的舉措之一。知情人士稱，今年 4 月 Cursor 開始租用太空探索技術公司旗下人工智慧部門 SpaceX AI 的算力資源後，便啟動了這款全新智慧體的研發工作，該研發專案開展於太空探索技術公司計劃以 600 億美元收購 Cursor 交易落地之前。一旦這筆收購完成，這款新智慧體將助力 SpaceXAI 拓展企業端業務。此前兩家企業已聯合推出大模型 Grok 4.5，該模型既能完成工程類任務，也可處理通用知識類工作。兩名知情人士透露，Cursor 這款內部代號為 Sand 的新產品，是該公司首款面向普通 AI 使用者、而非程式設計師群體的產品。它將充當個性化助手，除處理工程相關工作外，還可完成回覆郵件、簡訊、整理表格等各類任務。一位訊息人士稱，Cursor 部分產品團隊正在對該專案進行測試與最佳化，這款產品已於 6 月下旬在公司內部上線試用。
-
----
-
-### 2026-07-10 03:59:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel's prime minister's office said Trump informed Netanyahu of US actions in the Gulf. Netanyahu referenced Turkish President Erdogan and his allies' hardline remarks on Israel's presence and stressed the need to maintain Israel's border security zone.
-
----
-
-### 2026-07-10 03:59:11  #MKT News #Market Themes #AI Revolution
-
-The Information reports Cursor is developing an AI agent aimed at competing with Claude Cowork.
-
----
-
-### 2026-07-10 03:58:30  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-【Dollar index edges down 0.09% to 100.904 at New York close】The dollar index, measuring the greenback against six major currencies, fell 0.09% to 100.904 at the New York close. EUR/USD 1.1434 (prev. 1.1426); GBP/USD 1.3416 (1.3400); USD/JPY 162.34 (162.48); USD/CHF 0.8066 (0.8076); USD/CAD 1.4167 (1.4169); USD/SEK 9.6602 (9.6903).
 
 ---

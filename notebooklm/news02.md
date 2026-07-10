@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-11 06:37:57_
-_本檔包含 3412 則快訊，約 612771 字_
+_更新時間：2026-07-11 07:34:23_
+_本檔包含 3397 則快訊，約 612428 字_
+
+---
+
+### 2026-07-10 04:02:26  #市場
+
+多倫多證券交易所指數.GSPTSE非官方收盤上漲264.65點，漲幅0.76%，報35,200.45點。
+
+---
+
+### 2026-07-10 04:02:14  #其他
+
+開市客收跌4.2%，創2025年4月份以來最差單日表現。
+
+---
+
+### 2026-07-10 04:01:42  #公司
+
+百事公司財報不及預期，股價收跌 3.3%，創 5 月以來單日最大跌幅。
+
+---
+
+### 2026-07-10 04:01:35  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Meta Platforms #Alibaba #Market Regions #Wall Street (US) #MU.O #Impact bullish #SNDK.O #WDC.O
+
+【US close: major indexes higher; chip stocks lead gains】US stocks closed higher on Thursday: Nasdaq +1.3%, S&P 500 +0.8%, Dow Jones Industrial Average +0.26%. Semiconductor names led gains—Micron Technology (MU.O) +4.5%, SanDisk (SNDK.O) +7.5%, Western Digital (WDC.O) +5%. Meta Platforms (META.O) +4.7%. Nasdaq Golden Dragon China Index +0.56%; iQiyi (IQ.O) +8.5%, Alibaba (BABA.N) +2%.
+
+---
+
+### 2026-07-10 04:01:03  #市場
+
+META股價收盤上漲4.7%，創5月29日以來最高水平。
+
+---
+
+### 2026-07-10 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.27%，標普500指數漲0.81%，納指漲1.30%。Lumentum Holdings Inc. Common Stock When Issued漲11.13%，慧與漲9.92%，Arm Holdings Plc漲9.20%，閃迪漲7.59%，挪威郵輪漲6.96%。“七姐妹”方面：Meta Platforms漲4.70%，特斯拉漲3.17%，亞馬遜漲1.40%，蘋果漲0.90%，微軟漲0.27%，英偉達跌0.66%，谷歌跌0.69%。
+
+---
+
+### 2026-07-10 04:00:31  #市場
+
+道瓊斯工業平均指數非官方收盤上漲109.48點，漲幅0.21%，報52457.87點。
+
+---
+
+### 2026-07-10 04:00:15  #其他
+
+OPENAI：微軟還將透過API直接訪問OPENAI模型，為微軟365客戶提供GPT-5.6。
+
+---
+
+### 2026-07-10 04:00:04  #其他
+
+OpenAI：GPT-5.6現已成為微軟365副駕駛（Microsoft 365 Copilot）的首選模型。
+
+---
+
+### 2026-07-10 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.55%】愛奇藝漲8.10%，優品車漲5.31%，Tims中國漲4.17%，聲網漲4.09%，虎牙漲3.51%。
+
+---
+
+### 2026-07-10 03:59:43  #公司
+
+【Cursor 正在研發一款 AI 智慧助手，用以對標 Claude Cowork】兩名知情專案人士透露，Cursor 正在開發一款通用人工智慧智慧體，旨在對標 Anthropic 旗下 Claude Cowork 等熱門工具，這也是該公司跳出程式碼專用工具賽道、拓展多元業務佈局的舉措之一。知情人士稱，今年 4 月 Cursor 開始租用太空探索技術公司旗下人工智慧部門 SpaceX AI 的算力資源後，便啟動了這款全新智慧體的研發工作，該研發專案開展於太空探索技術公司計劃以 600 億美元收購 Cursor 交易落地之前。一旦這筆收購完成，這款新智慧體將助力 SpaceXAI 拓展企業端業務。此前兩家企業已聯合推出大模型 Grok 4.5，該模型既能完成工程類任務，也可處理通用知識類工作。兩名知情人士透露，Cursor 這款內部代號為 Sand 的新產品，是該公司首款面向普通 AI 使用者、而非程式設計師群體的產品。它將充當個性化助手，除處理工程相關工作外，還可完成回覆郵件、簡訊、整理表格等各類任務。一位訊息人士稱，Cursor 部分產品團隊正在對該專案進行測試與最佳化，這款產品已於 6 月下旬在公司內部上線試用。
+
+---
+
+### 2026-07-10 03:59:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's prime minister's office said Trump informed Netanyahu of US actions in the Gulf. Netanyahu referenced Turkish President Erdogan and his allies' hardline remarks on Israel's presence and stressed the need to maintain Israel's border security zone.
+
+---
+
+### 2026-07-10 03:59:11  #MKT News #Market Themes #AI Revolution
+
+The Information reports Cursor is developing an AI agent aimed at competing with Claude Cowork.
+
+---
+
+### 2026-07-10 03:58:30  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+【Dollar index edges down 0.09% to 100.904 at New York close】The dollar index, measuring the greenback against six major currencies, fell 0.09% to 100.904 at the New York close. EUR/USD 1.1434 (prev. 1.1426); GBP/USD 1.3416 (1.3400); USD/JPY 162.34 (162.48); USD/CHF 0.8066 (0.8076); USD/CAD 1.4167 (1.4169); USD/SEK 9.6602 (9.6903).
 
 ---
 
@@ -20402,179 +20486,5 @@ Lebanon's National News Agency said an Israeli drone struck near a hospital in s
 ### 2026-07-09 01:11:15  #MKT News #Market Themes #The Trump Trade #Dow #Impact bearish #S&P500 #Nasdaq100
 
 After Trump's remarks, U.S. major indices pared losses: Dow down about 1%, S&P 500 down 0.41%, Nasdaq down 0.15%.
-
----
-
-### 2026-07-09 01:10:13  #其他
-
-【廣東：深圳以東海域所有海上作業漁船全部回港避風】廣東省防汛防旱防風總指揮部辦公室7月8日晚釋出通知，要求深圳以東海域於7月9日18時前落實防颱風“六個百分百”措施，所有海上作業漁船全部回港避風，所有漁排養殖和海洋牧場人員全部上岸避險，海上風電施工平臺人員全部撤離，海釣船、潛水等休閒船艇和鄉鎮船艇等禁止出海；濱海景區、跨海航線根據情況適時關停。深圳以西海域密切關注颱風路徑變化和颱風外圍風力影響，嚴格落實海上安全生產各項措施，無法確保安全的堅決提前撤離。在浙江、福建附近海域作業漁船就近進港避風，按照當地防風指令落實防風措施。
-
----
-
-### 2026-07-09 01:09:38  #國際
-
-【伊朗首次公開哈梅內伊官邸遭襲畫面】7月8日，伊朗國家電視臺首次公開伊朗已故最高領袖阿里·哈梅內伊官邸遭美以襲擊後的畫面。據稱影片中展示的為官邸區內一處宗教建築，是阿里·哈梅內伊生前舉行公開會見和發表演講的場所。畫面中，建築嚴重損毀，遍地瓦礫。 這處官邸區於2月28日遭襲，阿里·哈梅內伊遇害。該地區3月曾再次遇襲，以色列宣稱打擊了官邸下方一處龐大的地下指揮中心。（CCTV國際時訊）
-
----
-
-### 2026-07-09 01:09:08  #其他
-
-OpenAI：每週有超過1.5億人使用ChatGPT聊天。
-
----
-
-### 2026-07-09 01:08:05  #其他
-
-OpenAI：GPT-LIVE為新一代語音模型。
-
----
-
-### 2026-07-09 01:07:25  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Trump says U.S.-Iran escalation will soon subside】In Ankara on the 8th, Trump said the recent U.S.-Iran escalation will soon subside and he does not expect a renewed war with Iran.
-
----
-
-### 2026-07-09 01:07:23  #國際
-
-【特朗普：美伊之間的局勢升級會很快平息】美國總統特朗普8日在土耳其首都安卡拉表示，當前美國與伊朗之間的局勢升級會很快平息，他不認為會再度爆發與伊朗的戰爭。（新華社）
-
----
-
-### 2026-07-09 01:06:36  #市場
-
-英偉達低開高走，現漲2%。
-
----
-
-### 2026-07-09 01:06:18  #公司
-
-谷歌：影片混音功能今日起面向部分國家符合資格的谷歌AI Plus、Pro及Ultra訂閱使用者推出。
-
----
-
-### 2026-07-09 01:06:11  #公司
-
-谷歌：谷歌相簿推出由 Gemini Omni 模型驅動的影片混剪功能。
-
----
-
-### 2026-07-09 01:05:45  #國際
-
-美國股指跌幅收窄。
-
----
-
-### 2026-07-09 01:05:40  #市場
-
-標普500指數下跌0.4%，納斯達克指數下跌0.2%。
-
----
-
-### 2026-07-09 01:05:34  #其他
-
-【英國高階別防務官員力促伯納姆考慮放鬆財政規則 包括髮行戰爭債券】英國高階別防務官員正在力促安迪·伯納姆重新考慮放寬英國的財政規則，從而籌集軍費，其中包括髮行戰爭債券。據知情官員透露，有望於本月晚些時候接替基爾·斯塔默出任首相的伯納姆以及他團隊中的資深成員預計將探索一系列的融資機制，此前他們已在私底下向內閣大臣保證，他們希望提高國防開支。此前斯塔默多次給戰爭債券的想法潑冷水，認為它只是增加借款的另一種方式。伯納姆一直希望向債券投資者表明，他能夠負責任地管理公共財政，因此已經收回了早先關於應將國防支出排除在英國自我設定的借款上限之外的說法。
-
----
-
-### 2026-07-09 01:05:33  #MKT News #Macro & Rates #US10Y #Impact bearish
-
-US 10-year Treasury yield pared gains after the 10-year auction, trading up 5.22bps at 4.581%.
-
----
-
-### 2026-07-09 01:04:56  #公司 #觀點 #國際
-
-美國參議員沃倫就收購計劃質詢花旗集團。
-
----
-
-### 2026-07-09 01:04:39  #MKT News
-
-OpenAI will run GPT-5.5 in the background during GPT-Live's initial rollout. GPT-Live in ChatGPT will not support voice interactions that include video or screen sharing.
-
----
-
-### 2026-07-09 01:04:29  #市場 #國際
-
-美國10年期國債收益率在10年期美債標售過後漲幅收窄；最新報上漲5.22個基點，至4.581%。
-
----
-
-### 2026-07-09 01:04:17  #MKT News #Commodities #Energy
-
-Swiss National Bank chairman said energy prices have also pushed Swiss inflation, while the impact of other factors has been negligible.
-
----
-
-### 2026-07-09 01:03:50  #MKT News
-
-OpenAI said it is rolling out two versions of GPT-Live to global ChatGPT users starting today: GPT-Live-1 and GPT-Live-1 Mini.
-
----
-
-### 2026-07-09 01:03:39  #其他
-
-OpenAI：GPT-Live上線之初，ChatGPT將不支援語音功能搭配影片或螢幕共享。
-
----
-
-### 2026-07-09 01:03:30  #MKT News #Market Themes #AI Revolution
-
-OpenAI launches GPT-LIVE.
-
----
-
-### 2026-07-09 01:03:29  #其他
-
-OpenAI：GPT-Live上線後將在後臺採用GPT-5.5。
-
----
-
-### 2026-07-09 01:03:12  #央行 #其他
-
-瑞士央行行長：能源價格同樣推高瑞士通脹，其他因素影響微不足道。
-
----
-
-### 2026-07-09 01:02:40  #市場 #國際
-
-美國10年期國債收益率下降4.580%，低於預售時的4.586%。
-
----
-
-### 2026-07-09 01:02:32  #其他
-
-OpenAI：今日開始向全球ChatGPT使用者推出GPT-Live的兩個版本，GPT-Live-1與GPT-Live-1 Mini。
-
----
-
-### 2026-07-09 01:02:25  #MKT News
-
-Pakistan's foreign ministry said a renewed outbreak of conflict would not be in the interest of any party.
-
----
-
-### 2026-07-09 01:02:20  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-U.S. 10-year Treasury auction on July 8: 40.29% of awarded volume at the stop-out rate, versus 71.34% previously.
-
----
-
-### 2026-07-09 01:02:17  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. 10-year Treasury auction on July 8: stop-out yield 4.58% vs 4.54% prior (+4 bps).
-
----
-
-### 2026-07-09 01:02:15  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 10-year Treasury auction bid-cover ratio 2.59 at the July 8 auction, previous 2.57.
-
----
-
-### 2026-07-09 01:02:15  #MKT News
-
-Iran's foreign ministry spokesman said the country will steadfastly defend its national interests and exercise state sovereignty.
 
 ---

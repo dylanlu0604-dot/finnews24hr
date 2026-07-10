@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-11 06:37:57_
-_本檔包含 3520 則快訊，約 612965 字_
+_更新時間：2026-07-11 07:34:23_
+_本檔包含 3528 則快訊，約 612516 字_
+
+---
+
+### 2026-07-09 01:10:13  #其他
+
+【廣東：深圳以東海域所有海上作業漁船全部回港避風】廣東省防汛防旱防風總指揮部辦公室7月8日晚釋出通知，要求深圳以東海域於7月9日18時前落實防颱風“六個百分百”措施，所有海上作業漁船全部回港避風，所有漁排養殖和海洋牧場人員全部上岸避險，海上風電施工平臺人員全部撤離，海釣船、潛水等休閒船艇和鄉鎮船艇等禁止出海；濱海景區、跨海航線根據情況適時關停。深圳以西海域密切關注颱風路徑變化和颱風外圍風力影響，嚴格落實海上安全生產各項措施，無法確保安全的堅決提前撤離。在浙江、福建附近海域作業漁船就近進港避風，按照當地防風指令落實防風措施。
+
+---
+
+### 2026-07-09 01:09:38  #國際
+
+【伊朗首次公開哈梅內伊官邸遭襲畫面】7月8日，伊朗國家電視臺首次公開伊朗已故最高領袖阿里·哈梅內伊官邸遭美以襲擊後的畫面。據稱影片中展示的為官邸區內一處宗教建築，是阿里·哈梅內伊生前舉行公開會見和發表演講的場所。畫面中，建築嚴重損毀，遍地瓦礫。 這處官邸區於2月28日遭襲，阿里·哈梅內伊遇害。該地區3月曾再次遇襲，以色列宣稱打擊了官邸下方一處龐大的地下指揮中心。（CCTV國際時訊）
+
+---
+
+### 2026-07-09 01:09:08  #其他
+
+OpenAI：每週有超過1.5億人使用ChatGPT聊天。
+
+---
+
+### 2026-07-09 01:08:05  #其他
+
+OpenAI：GPT-LIVE為新一代語音模型。
+
+---
+
+### 2026-07-09 01:07:25  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+【Trump says U.S.-Iran escalation will soon subside】In Ankara on the 8th, Trump said the recent U.S.-Iran escalation will soon subside and he does not expect a renewed war with Iran.
+
+---
+
+### 2026-07-09 01:07:23  #國際
+
+【特朗普：美伊之間的局勢升級會很快平息】美國總統特朗普8日在土耳其首都安卡拉表示，當前美國與伊朗之間的局勢升級會很快平息，他不認為會再度爆發與伊朗的戰爭。（新華社）
+
+---
+
+### 2026-07-09 01:06:36  #市場
+
+英偉達低開高走，現漲2%。
+
+---
+
+### 2026-07-09 01:06:18  #公司
+
+谷歌：影片混音功能今日起面向部分國家符合資格的谷歌AI Plus、Pro及Ultra訂閱使用者推出。
+
+---
+
+### 2026-07-09 01:06:11  #公司
+
+谷歌：谷歌相簿推出由 Gemini Omni 模型驅動的影片混剪功能。
+
+---
+
+### 2026-07-09 01:05:45  #國際
+
+美國股指跌幅收窄。
+
+---
+
+### 2026-07-09 01:05:40  #市場
+
+標普500指數下跌0.4%，納斯達克指數下跌0.2%。
+
+---
+
+### 2026-07-09 01:05:34  #其他
+
+【英國高階別防務官員力促伯納姆考慮放鬆財政規則 包括髮行戰爭債券】英國高階別防務官員正在力促安迪·伯納姆重新考慮放寬英國的財政規則，從而籌集軍費，其中包括髮行戰爭債券。據知情官員透露，有望於本月晚些時候接替基爾·斯塔默出任首相的伯納姆以及他團隊中的資深成員預計將探索一系列的融資機制，此前他們已在私底下向內閣大臣保證，他們希望提高國防開支。此前斯塔默多次給戰爭債券的想法潑冷水，認為它只是增加借款的另一種方式。伯納姆一直希望向債券投資者表明，他能夠負責任地管理公共財政，因此已經收回了早先關於應將國防支出排除在英國自我設定的借款上限之外的說法。
+
+---
+
+### 2026-07-09 01:05:33  #MKT News #Macro & Rates #US10Y #Impact bearish
+
+US 10-year Treasury yield pared gains after the 10-year auction, trading up 5.22bps at 4.581%.
+
+---
+
+### 2026-07-09 01:04:56  #公司 #觀點 #國際
+
+美國參議員沃倫就收購計劃質詢花旗集團。
+
+---
+
+### 2026-07-09 01:04:39  #MKT News
+
+OpenAI will run GPT-5.5 in the background during GPT-Live's initial rollout. GPT-Live in ChatGPT will not support voice interactions that include video or screen sharing.
+
+---
+
+### 2026-07-09 01:04:29  #市場 #國際
+
+美國10年期國債收益率在10年期美債標售過後漲幅收窄；最新報上漲5.22個基點，至4.581%。
+
+---
+
+### 2026-07-09 01:04:17  #MKT News #Commodities #Energy
+
+Swiss National Bank chairman said energy prices have also pushed Swiss inflation, while the impact of other factors has been negligible.
+
+---
+
+### 2026-07-09 01:03:50  #MKT News
+
+OpenAI said it is rolling out two versions of GPT-Live to global ChatGPT users starting today: GPT-Live-1 and GPT-Live-1 Mini.
+
+---
+
+### 2026-07-09 01:03:39  #其他
+
+OpenAI：GPT-Live上線之初，ChatGPT將不支援語音功能搭配影片或螢幕共享。
+
+---
+
+### 2026-07-09 01:03:30  #MKT News #Market Themes #AI Revolution
+
+OpenAI launches GPT-LIVE.
+
+---
+
+### 2026-07-09 01:03:29  #其他
+
+OpenAI：GPT-Live上線後將在後臺採用GPT-5.5。
+
+---
+
+### 2026-07-09 01:03:12  #央行 #其他
+
+瑞士央行行長：能源價格同樣推高瑞士通脹，其他因素影響微不足道。
+
+---
+
+### 2026-07-09 01:02:40  #市場 #國際
+
+美國10年期國債收益率下降4.580%，低於預售時的4.586%。
+
+---
+
+### 2026-07-09 01:02:32  #其他
+
+OpenAI：今日開始向全球ChatGPT使用者推出GPT-Live的兩個版本，GPT-Live-1與GPT-Live-1 Mini。
+
+---
+
+### 2026-07-09 01:02:25  #MKT News
+
+Pakistan's foreign ministry said a renewed outbreak of conflict would not be in the interest of any party.
+
+---
+
+### 2026-07-09 01:02:20  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+U.S. 10-year Treasury auction on July 8: 40.29% of awarded volume at the stop-out rate, versus 71.34% previously.
+
+---
+
+### 2026-07-09 01:02:17  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 10-year Treasury auction on July 8: stop-out yield 4.58% vs 4.54% prior (+4 bps).
+
+---
+
+### 2026-07-09 01:02:15  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 10-year Treasury auction bid-cover ratio 2.59 at the July 8 auction, previous 2.57.
+
+---
+
+### 2026-07-09 01:02:15  #MKT News
+
+Iran's foreign ministry spokesman said the country will steadfastly defend its national interests and exercise state sovereignty.
 
 ---
 
@@ -21066,131 +21240,5 @@ U.S. Navy operations chief said the U.S. has accounted for the number of sea min
 ### 2026-07-08 04:35:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
 
 The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index dropped 131 points or 0.25 percent on Tuesday to close at 52925 points. Losses were led by Caterpillar (-3.14%), Honeywell International (-2.62%) and Sherwin-Williams (-1.87%). Offsetting the fall, top gainers were Chevron (3.50%), J&J (3.09%) and Salesforce (3.04%).
-
----
-
-### 2026-07-08 04:34:42  #其他 #焦點
-
-韓美日簽署小型模組化反應堆部署合作諒解備忘錄。
-
----
-
-### 2026-07-08 04:33:38  #國際
-
-【卡達就其運輸船遇襲向伊朗發出照會】卡達外交部7日召見伊朗駐卡達副大使，就卡方一艘運輸船日前在霍爾木茲海峽附近航行時遭襲，向伊方遞交抗議照會。卡達外交部當天發表宣告說，照會指出，襲擊卡達運輸船“阿爾-魯凱亞特”號嚴重危害國際海上航行安全，直接威脅全球能源供應安全，公然違反國際法。卡達要求伊朗儘快就此次襲擊作出說明。（新華社）
-
----
-
-### 2026-07-08 04:33:24  #國際
-
-【伊拉克今天為哈梅內伊送葬】當地時間7月7日晚，伊朗總統佩澤希齊揚及其隨行代表團抵達伊拉克的什葉派聖城納傑夫。伊拉克總理扎伊迪到機場迎接。載有伊朗已故最高領袖阿里·哈梅內伊遺體的飛機也已抵達納傑夫。 據伊拉克總理辦公室釋出的宣告，佩澤希齊揚此行率代表團出席哈梅內伊的送葬儀式。扎伊迪就哈梅內伊遇害向伊朗人民和政府再次表示哀悼，強調兩國關係深厚，承諾將在各領域鞏固並深化雙邊合作。 根據伊朗方面此前公佈的哈梅內伊葬禮安排，在結束於德黑蘭為期三天的悼念及送葬儀式後，應伊拉克方面要求，今天（7月8日）將在伊拉克兩座什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式；7月9日，哈梅內伊及其多位遇害家人的送葬儀式將在伊朗聖城馬什哈德舉行。儀式結束後，哈梅內伊的遺體將被安葬。（CCTV國際時訊）
-
----
-
-### 2026-07-08 04:32:46  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises as Energy Gains Offset Mining Losses — The S&P/TSX Composite Index gained 0.2% to close at 35,273 on Tuesday, supported by the energy sector and strong trade data. Canadian Natural rose 3.2%, Suncor added 3.2%, Imperial Oil gained 3%, and Cenovus advanced 3.5% as oil prices climbed after reports that the US would revoke the waiver allowing Iran to sell its oil following recent attacks on tankers in the Strait of Hormuz. Financials traded mixed as investors awaited the minutes from the Fed's June meeting for clues on monetary policy. RBC gained 0.5%, TD Bank rose 0.6%, and BMO added 1.2%, while Scotiabank and Brookfield lost 1%. Meanwhile, lower gold prices weighed on miners, with Agnico Eagle and WPM falling 3.2% and Barrick dropping 3.5%.
-
----
-
-### 2026-07-08 04:32:17  #國際
-
-火箭實驗室（Rocket Lab）宣佈為美國太空軍執行的發射任務圓滿成功。
-
----
-
-### 2026-07-08 04:29:59  #公司 #國際
-
-【沃倫就五角大樓人工智慧合作協議質詢英偉達、SpaceX與谷歌】美國參議員辦公室郵件宣告顯示，民主黨參議員伊麗莎白·沃倫已致函谷歌、SpaceX、英偉達、Reflection AI,、微軟、亞馬遜雲科技、甲骨文以及美國國防部，質詢五角大樓在軍事行動中運用人工智慧相關事宜。沃倫在聯名信函中要求上述各家企業完整公開其與五角大樓簽訂的全部合同文字。沃倫向相關企業表示，五角大樓稱相關合作協議允許政府將企業技術用於大規模監控行動、研發致命自主武器等場景，對此她深感擔憂。沃倫要求各方於7月20日前就以下問題作出答覆：1. 合同涵蓋範圍，包括哪些產品與服務被應用於涉密系統；2. 人工智慧技術的具體應用場景；3. 相關協議是否允許五角大樓將人工智慧用於前述監控活動或武器研發。
-
----
-
-### 2026-07-08 04:28:27  #公司
-
-納斯達克釋出醫療資訊化服務商TruBridge合併相關公告，該公司股票預計7月8日為最後交易日。
-
----
-
-### 2026-07-08 04:27:09  #公司
-
-亞馬遜雲科技AWS：為AWS開放資料登錄檔推出MCP伺服器。
-
----
-
-### 2026-07-08 04:26:56  #市場 #國際
-
-受美國天氣擔憂以及市場需求回暖訊號推動，芝加哥期貨交易所（CBOT）大豆價格上漲。
-
----
-
-### 2026-07-08 04:26:44  #國際
-
-埃克森美孚：預計第二季度其他中東因素對能源產品的影響為負1億至負3億美元。
-
----
-
-### 2026-07-08 04:25:49  #其他
-
-T-Mobile：邁克·卡茨將卸任首席業務與產品官一職，將留任顧問至2026年12月。
-
----
-
-### 2026-07-08 04:25:22  #其他
-
-T-Mobile任命克里斯·桑巴爾為首席企業官，並最佳化領導團隊架構，以推動下一階段戰略增長與創新發展。
-
----
-
-### 2026-07-08 04:25:08  #國際
-
-埃克森美孚：預計第二季度其他中東因素對上游業務的影響區間為負1億美元至正1億美元。
-
----
-
-### 2026-07-08 04:25:00  #國際
-
-埃克森美孚：預估2026年第二季度受伊朗戰事影響，將產生約12億美元收益損失。
-
----
-
-### 2026-07-08 04:24:40  #MKT News
-
-Fox News reported U.S. Trade Representative GREER said Canada and Mexico have not fully fulfilled their commitments under the USMCA.
-
----
-
-### 2026-07-08 04:23:58  #焦點 #國際
-
-美國貿易代表格里爾談及美墨加協定：加拿大與墨西哥並未完全履行全部承諾。
-
----
-
-### 2026-07-08 04:23:09  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.17% to 101.023 at New York close on the 7th】The dollar index, which measures the currency against six major peers, rose 0.17% to 101.023 at the New York close. The euro traded at $1.1419, down from $1.1443; the pound at $1.3363, down from $1.3395. The dollar was ¥161.94, below ¥162.06 previously; it traded at 0.8076 Swiss francs, above 0.8050; at C$1.4195, below C$1.4209; and at 9.6784 Swedish krona, above 9.6255.
-
----
-
-### 2026-07-08 04:22:57  #其他
-
-埃克森美孚：與第一季度相比，利潤率變動將對第二季度能源產品收益產生20億至24億美元的影響。
-
----
-
-### 2026-07-08 04:22:48  #公司
-
-埃克森美孚：預計2026年第二季度油價將為公司帶來37億美元收益增量。
-
----
-
-### 2026-07-08 04:22:31  #其他
-
-埃克森美孚：與第一季度相比，利潤率變動將令第二季度化工產品收益減少10億至12億美元。
-
----
-
-### 2026-07-08 04:21:38  #市場
-
-【美元指數7日上漲】美元指數7日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.17%，在匯市尾市收於101.023。截至紐約匯市尾市，1歐元兌換1.1419美元，低於前一交易日的1.1443美元；1英鎊兌換1.3363美元，低於前一交易日的1.3395美元。1美元兌換161.94日元，低於前一交易日的162.06日元；1美元兌換0.8076瑞士法郎，高於前一交易日的0.8050瑞士法郎；1美元兌換1.4195加元，低於前一交易日的1.4209加元；1美元兌換9.6784瑞典克朗，高於前一交易日的9.6255瑞典克朗。
 
 ---

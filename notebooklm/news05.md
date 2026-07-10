@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 06:37:57_
-_本檔包含 2960 則快訊，約 612834 字_
+_更新時間：2026-07-11 07:34:23_
+_本檔包含 2956 則快訊，約 611854 字_
+
+---
+
+### 2026-07-06 21:43:49  #MKT News #ICE #NDAQ
+
+President Trump praised the CEO of Intercontinental Exchange and the heads of the New York Stock Exchange and Nasdaq.
+
+---
+
+### 2026-07-06 21:42:59  #公司 #國際
+
+特朗普讚揚國際交易所執行長、紐約證券交易所和納斯達克的負責人。
+
+---
+
+### 2026-07-06 21:42:37  #公司
+
+穆迪評級機構授予L&T沙特公司Baa1評級，展望穩定。
+
+---
+
+### 2026-07-06 21:42:20  #公司 #市場
+
+Element Solutions股價下跌4.4%，Solstice Advanced Materials將以145億美元交易收購該公司。
+
+---
+
+### 2026-07-06 21:41:52  #市場
+
+SOLSTICE股價下跌14.1%。
+
+---
+
+### 2026-07-06 21:41:48  #MKT News #CNH #Impact bullish #Hang Seng Index
+
+【Hong Kong chief executive Lee Ka-chiu meets PBOC's Pan】Hong Kong chief executive Lee Ka-chiu met PBOC's Pan Gongsheng on July 6 to discuss economic and financial issues; Financial Secretary Paul Chan and Secretary for Financial Services and the Treasury Christopher Hui attended. Lee said China’s 15th Five-Year Plan supports measures to strengthen Hong Kong’s role as an international financial centre, explicitly citing development of a global offshore RMB hub, international asset and wealth management centre, international risk management centre and a commodities trading ecosystem. The HKSAR is drafting its first five‑year plan to align with those national priorities and said it will push greater mainland-market connectivity, promote two-way capital flows and enhance Hong Kong’s competitiveness as an international financial centre.
+
+---
+
+### 2026-07-06 21:41:42  #央行 #其他
+
+【香港特區行政長官李家超與央行行長潘功勝會面】香港特區政府行政長官李家超今日（七月六日）與中國人民銀行行長潘功勝會面，就經濟金融議題交流意見。財政司司長陳茂波和財經事務及庫務局局長許正宇亦有出席。李家超歡迎潘功勝行長率團到訪香港。李家超表示，國家「十五五」規劃支援香港鞏固提升國際金融中心地位，強化全球離岸人民幣業務樞紐、國際資產及財富管理中心、國際風險管理中心功能，構建大宗商品交易生態圈。特區政府正全速編制香港第一個五年規劃，積極把握國家十五五規劃帶來的重大機遇，推動國際金融中心高質量發展。特區政府會繼續善用香港在一國兩制下背靠祖國、聯通世界的獨特優勢，持續推動與內地金融市場互聯互通，促進兩地資金雙向流動，進一步增強香港國際金融中心的競爭力。（香港特區政府）
+
+---
+
+### 2026-07-06 21:41:37  #MKT News #Market Themes #The Trump Trade
+
+【BESSENT: Trump accounts to give next generation a stake in the American Dream】BESSENT, speaking in the WHITE HOUSE Oval Office, said Trump accounts — tax-advantaged savings accounts for children under 18 — will provide the next generation an economic foundation to share the American Dream. He said the administration is building an "ownership economy" to make citizens shareholders and that 6 million US children have registered the accounts.
+
+---
+
+### 2026-07-06 21:41:33  #其他
+
+市場訊息：希爾頓度假俱樂部8.5億美元貸款再融資。
+
+---
+
+### 2026-07-06 21:41:09  #MKT News
+
+President Trump said he is discussing with Congress a new account type aimed at adults.
+
+---
+
+### 2026-07-06 21:41:05  #其他
+
+卡普託稱，阿根廷債務規模到 2031 年將降至國內生產總值的 37%。
+
+---
+
+### 2026-07-06 21:40:25  #國際
+
+美國總統特朗普：財長貝森特表現出色。
+
+---
+
+### 2026-07-06 21:40:25  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed #Nasdaq100 #S&P500
+
+【Microsoft to cut about 4,800 jobs, hits sales and Xbox units】Microsoft will cut roughly 4,800 roles, about 2.1% of its global workforce, primarily in sales and the Xbox gaming division. The company had more than 220,000 employees before the reduction. Microsoft is trimming costs while increasing AI infrastructure spending and faces investor concern that AI could disrupt traditional software revenue. Last year the firm cut about 6,000 jobs in May and a further 9,000 in July (around 4% of staff). Earlier this year Microsoft offered a voluntary retirement buyout in the U.S. to employees at or below grade 67 with long service; of roughly 9,000 eligible staff, about one-third accepted, helping keep this year's layoff rate below last year's level.
+
+---
+
+### 2026-07-06 21:40:25  #MKT News #Market Themes #The Trump Trade
+
+President Trump said tariffs are prompting companies to invest in the United States.
+
+---
+
+### 2026-07-06 21:40:19  #MKT News
+
+U.S. President Trump said Treasury Secretary Bessent has performed excellently.
+
+---
+
+### 2026-07-06 21:40:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is falling 36 points. Losses were driven by Nike (-3.49%), Visa (-2.67%) and Microsoft (-2.14%). Biggest rises came from Goldman Sachs (2.63%), Caterpillar (2.23%) and JPMorgan (1.48%).
+
+---
+
+### 2026-07-06 21:39:52  #央行 #其他
+
+以色列央行行長亞倫：通脹預期降低或將加速降息。
+
+---
+
+### 2026-07-06 21:39:43  #MKT News
+
+Bank of Israel Governor Yaron said lower inflation expectations could accelerate rate cuts.
 
 ---
 
@@ -17734,167 +17842,5 @@ Claude： 正在排查多款模型出現大量報錯的問題。
 ### 2026-07-04 07:39:40  #其他
 
 【中國科協“十一大”召開在即，尹力勉勵北京代表團科技工作者：勇當高水平科技自立自強的排頭兵】中國科協第十一次全國代表大會召開在即。7月3日，北京市委書記尹力與出席大會的北京代表團科技工作者座談。他強調，要深入學習貫徹習近平總書記關於科技創新的重要論述，奮力創新爭先，勇當高水平科技自立自強的排頭兵，為我國科技事業發展貢獻智慧力量。市委副書記、市長殷勇主持。（北京日報）
-
----
-
-### 2026-07-04 07:32:25  #其他
-
-據發言人證實，泰勒·斯威夫特與特拉維斯·凱爾切已完婚。
-
----
-
-### 2026-07-04 07:29:39  #其他
-
-【河南省政府對鄭州市政府進行安全生產約談】根據《加強安全生產責任落實若干制度》等有關規定，6月30日，河南省政府對鄭州市政府進行安全生產約談。河南省委常委、常務副省長張敏指出，鄭州市近期生產安全事故多發頻發，暴露出安全意識淡薄、思想鬆懈，工作不嚴不實，查不到位、改不到位、吸取教訓不到位等突出問題。要高度警醒，堅決扛牢安全生產政治責任，守土有責、守土盡責，以最堅決的態度、最有力的舉措、最嚴實的作風，全力破解工作堵點、補齊監管漏洞，堅決扭轉安全生產被動落後局面。
-
----
-
-### 2026-07-04 07:20:27  #公司
-
-【京哈線普速鐵路蔡家溝站至瀋陽站間雨量超標，部分旅客列車晚點執行】據@瀋陽鐵路 訊息，7月4日6時20分許，受強對流天氣影響，京哈線普速鐵路蔡家溝站至瀋陽站雨量超標，鐵路部門立即啟動應急預案，臨時封鎖線路進行檢查。受此影響，途經該區段的部分旅客列車不同程度晚點執行。鐵路部門提醒廣大旅客關注站車廣播公告，或透過12306客服平臺查詢，及時掌握最新列車執行資訊，以免耽誤行程。由此給旅客出行帶來的不便，鐵路部門深表歉意。
-
----
-
-### 2026-07-04 07:18:38  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、國務院印發《美麗中國建設“十五五”規劃》
-2、中國在全球綠色低碳轉型程序中發揮重要作用（國際論壇）
-3、《迴圈經濟發展“十五五”規劃》印發 到2030年，主要資源產出率比2025年提高16%左右
-4、三部門調整節能汽車、新能源汽車車船稅優惠政策
-5、雄安新區開通首趟“雄石歐”中歐班列
-6、《限制快遞過度包裝要求》7月起正式實施 快遞包裝“瘦身”按下快進鍵
-7、國家醫保資訊平臺上線“醫保找藥”功能
-8、無創接入，腦機介面迎來更多可能（院士講科普·未來產業）
-9、新一代單芯級四米級重複使用運載火箭長十二乙首飛成功——新火箭有新看點（探一線）
-10、我國聚變堆超導磁體研製取得新突破 環向場超導磁體透過專家驗收，高溫超導中心螺管線圈磁體完成滿工況引數測試
-
----
-
-### 2026-07-04 07:18:31  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中央軍委舉行晉升上將軍銜儀式 習近平頒發命令狀並向晉銜的軍官表示祝賀
-2、習近平《在慶祝中國共產黨成立105週年大會上的講話》單行本出版
-3、《習近平談治國理政》第五卷中斯讀者會在斯里蘭卡首都科倫坡舉行
-4、“不斷創造無愧於時代和人民的新業績”——習近平總書記與“七一勳章”獲得者的故事
-5、李強主持召開國務院黨組會議 學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神和習近平黨建思想 丁薛祥出席
-6、全國人大常委會黨組舉行會議 學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神和習近平黨建思想 趙樂際主持並講話
-7、中共全國政協黨組理論學習中心組舉行2026年第三次集體學習 學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神和習近平黨建思想 王滬寧主持並講話
-8、中央和國家機關“兩優一先”表彰大會在京召開 蔡奇出席並講話
-9、李希主持召開中央紀委常委會會議 學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神和習近平黨建思想
-10、韓正出席第十四屆世界和平論壇開幕式並致辭
-
----
-
-### 2026-07-04 07:13:24  #其他
-
-【颱風“美莎克”將再次登陸，最新路徑公佈】今年第10號颱風“美莎克”（熱帶風暴級）的中心已於昨天（3日）傍晚6點20分前後在海南省陵水縣沿海登陸，登陸時中心附近最大風力有9級（23米/秒），中心最低氣壓為990百帕，並於昨天夜間穿過海南島移入北部灣。今天（4日）早晨5點鐘“美莎克”的中心位於北部灣海面，就是北緯19.9度、東經108.7度，中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑90-110公里。
-
----
-
-### 2026-07-04 07:07:01  #其他
-
-訊息人士：墨西哥隊對陣英格蘭隊的比賽仍將在當地時間18點進行。
-
----
-
-### 2026-07-04 07:06:50  #其他
-
-訊息人士稱，週日墨西哥對陣英格蘭的世界盃足球賽開球時間不變。
-
----
-
-### 2026-07-04 07:06:23  #公司
-
-【Apple Watch S12曝光】科技媒體 MacRumors 昨日（7 月 3 日）釋出博文，報道稱在 Apple Watch Series 12 智慧手錶錶帶上，蘋果公司可能會嵌入新的健康感測器。 報道稱 Apple Watch Series 12 這款錶帶將採用注塑方式，將感測器整合到矽膠錶帶中。且訊息稱由於受限於目前的錶帶工藝，該感測器僅限部署在矽膠錶帶。
-
----
-
-### 2026-07-04 07:05:26  #市場 #觀點 #國際
-
-【7月4日隔夜要聞一覽】
-1、法國總統馬克龍表示，決定調整法國在中東地區的軍事部署。法國“戴高樂”號航空母艦將返回母港土倫，法國掃雷力量及其護航兵力則繼續部署，並隨時準備與夥伴國家共同行動。
-2、當地時間3日，以色列總理辦公室發表宣告，否認美國媒體關於以色列計劃暗殺伊朗高階談判代表的報道，指責相關內容完全是“虛假新聞”和“徹底的捏造”。
-3、葉門胡塞武裝軍事發言人葉海亞發表宣告稱，當天凌晨5時20分，沙特戰機編隊進入葉門領空，試圖阻止一架伊朗民航客機降落在薩那國際機場。宣告稱，胡塞武裝防空部隊發射多枚防空導彈進行攔截，迫使戰機離開葉門領空。
-4、格陵蘭島自治政府總理延斯-弗雷德裡克·尼爾森3日在法國出席一場公開活動時表示，美國為取得格陵蘭島仍在持續施壓，但格陵蘭島“絕不出售”。
-5、俄羅斯安全會議副主席梅德韋傑夫在哈梅內伊葬禮結束後與伊朗總統佩澤希齊揚舉行會晤。
-6、英國首相候選人伯納姆表示，若接替基爾·斯塔默出任英國首相，他不會提前舉行英國大選。
-7、美國最大電網運營商PJM在高溫、機組故障、輸電過載三重壓力下觸發二級能源緊急警報，服務6700萬人口的電網已瀕臨極限。全球最大資料中心叢集所在地北弗吉尼亞現貨電價本週已突破2500美元/MWh，平時電價為40美元/MWh。
-8、路透調查顯示，歐佩克6月原油產量大幅回升，環比增加約330萬桶/日，至1943萬桶/日，從5月創下的二十多年低點明顯反彈，但仍遠低於配額水平。此次產量回升主要來自海灣地區國家恢復供應，其中科威特增幅最大，伊朗、沙特和伊拉克也同步增產。
-9、摩根大通表示，短期內黃金價格可能因需求走弱而受限，整體仍將維持區間震盪。預計2026年下半年黃金將逐步回升，三季度均價約為每盎司4300美元，四季度升至約4500美元。
-10、據報道，美國總統特朗普與以色列總理內塔尼亞胡通了電話。以色列總理辦公室表示，雙方同意近期在美國舉行會晤。
-
----
-
-### 2026-07-04 06:57:49  #國際
-
-【以軍再襲黎南部真主黨基礎設施】當地時間3日，以色列國防軍發表宣告稱，以軍在過去兩天內對黎南部的真主黨基礎設施等目標實施了打擊。黎巴嫩方面同一天有訊息稱，以軍當天對黎南部的無人機襲擊造成2人受傷。（央視新聞）
-
----
-
-### 2026-07-04 06:54:32  #國際
-
-【俄稱打擊烏軍工設施 烏稱打擊俄軍用機場】3日，俄羅斯國防部發布的戰報顯示，6月27日到7月3日的一週間，為回應烏方襲擊俄平民目標，俄軍摧毀了多處烏克蘭軍工設施、烏軍使用的能源和物流設施，以及烏方軍用機場、彈藥庫等目標。烏克蘭國家安全域性當地時間3日通報稱，其無人機對位於克里米亞的2個俄軍軍用機場實施了打擊。初步資訊顯示，襲擊造成至少7架戰機損毀。截至目前，俄方對這一訊息沒有作出回應。（央視新聞）
-
----
-
-### 2026-07-04 06:54:14  #國際
-
-【波蘭稱將謹慎考慮向烏作出新的財政支援承諾】波蘭總理圖斯克表示，他已要求出席北約峰會的波蘭代表不要輕易向烏克蘭作出新的財政支援承諾，這並不是因為烏克蘭不需要財政支援，而是因為波蘭對整個歐盟東部邊界負有非常重大的責任。（央視）
-
----
-
-### 2026-07-04 06:51:05  #其他
-
-沙特領導的葉門聯軍發表宣告稱，針對任何試圖襲擊沙特王國的行動，都將以“史無前例的武力”作出強硬回應。
-
----
-
-### 2026-07-04 06:51:00  #國際
-
-【伊朗稱將回應違反諒解備忘錄的行為】當地時間3日，伊朗方面警告美國不要違反伊美諒解備忘錄。據伊朗方面3日訊息，伊朗代理國防部長伊本·禮薩在與土耳其國防部長居萊爾通話時表示，伊朗方面接受美伊諒解備忘錄的停火安排是為了幫助地區恢復穩定，也是應友好鄰國的要求。鑑於美國違背承諾的歷史，伊方對美方沒有任何信任。伊朗武裝部隊仍處於高度戒備狀態，任何違反諒解備忘錄的行為都將得到回應。伊本·禮薩稱，外國軍隊在地區的存在不僅無法創造安全，還會增加不信任、不確定性和不安全感。（央視新聞）
-
----
-
-### 2026-07-04 06:50:01  #其他
-
-【吉林省釋出山洪災害氣象風險橙色預警】吉林省水利廳和吉林省氣象局2026年7月4日1時聯合釋出山洪災害氣象風險橙色預警：預計，7月4日凌晨至7月5日凌晨，吉林省撫松縣、渾江區、江源區、靖宇縣、輝南縣、臨江市、磐石市、東豐縣、柳河縣、通化縣、通化市本級、集安市、梅河口市發生山洪災害可能性大；東遼縣、長春新區、九臺區、吉林市本級、永吉縣、蛟河市、樺甸市、敦化市、安圖縣、長白縣、長白山管委會發生山洪災害較大；伊通縣可能發生山洪災害。其他地區也可能因局地短歷時強降水引發山洪災害。
-
----
-
-### 2026-07-04 06:49:52  #其他
-
-以沙特為首的葉門聯軍發表宣告稱，胡塞武裝針對沙特王國的言論，是企圖“轉移外界注意力”，掩蓋其侵犯葉門人民的行徑。
-
----
-
-### 2026-07-04 06:48:24  #其他
-
-智利養老金監管機構就投資規則草案開展公眾諮詢。
-
----
-
-### 2026-07-04 06:45:19  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Rises by 3.94% — Top crypto gainers are XRP (3.94%), Ether (3.40%), Binance (2.74%) and Bitcoin (1.71%).
-
----
-
-### 2026-07-04 06:44:48  #其他
-
-【今年1至5月 中國進出口銀行投放科技貸款超3400億元】今年1至5月，中國進出口銀行新發放科技貸款超3400億元，支援企業2500餘家。重點投向人工智慧、人形機器人、先進材料等領域，積極滿足科技企業在技術研發、成果轉化、產業化發展等環節融資需求。（央視新聞）
-
----
-
-### 2026-07-04 06:40:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers are Wool (-2.01%) and Palm Oil (-0.58%). Gains are led by Butter (0.72%).
-
----
-
-### 2026-07-04 06:39:12  #國際
-
-【山火蔓延 四千例超額死亡 歐洲陷入高溫熱浪危機】受持續熱浪影響，歐洲多國近期連續遭遇創紀錄的高溫天氣。總檯記者獲悉，高溫天氣已致法國、比利時等歐洲多國記錄到超4000例超額死亡。超額死亡數指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。法國上週經歷了近80年來的最高溫，24小時全國平均氣溫連續兩天打破紀錄，包括巴黎在內的多地最高氣溫超過了40攝氏度。法國衛生部長里斯特3日表示，在法國本輪高溫期間，記錄到2025例超額死亡。資料顯示，法國在6月22日開始的一週內記錄到2025例超額死亡，較預期水平增加近30%。（央視新聞）
 
 ---
