@@ -1,7 +1,161 @@
 {
   "date": "2026-07-10",
-  "count": 694,
+  "count": 708,
   "items": [
+    {
+      "id": "4980014",
+      "time": "2026-07-10 09:29:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "新股託倫斯上市首日開盤漲800%，現報203.40元。"
+    },
+    {
+      "id": "mkt:019f49a4-8773-7aab-8d24-6a3b23804d3e",
+      "time": "2026-07-10 09:29:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share lithography-equipment sector active in the early session: Xuguang Electronics up more than 7%, Han's Laser up over 6%, Meai Technology, Taijing Technology and Woge Optoelectronics also higher."
+    },
+    {
+      "id": "mkt:019f49a4-60da-7aab-8d24-62fb2fa011da",
+      "time": "2026-07-10 09:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【GBA launches domestic AI compute cluster with 11,520 Ascend cards, 9,000P compute】On the 9th a domestically built smart-compute cluster exceeding 10,000 accelerator cards went live in Shaoguan as part of the Guangdong–Hong Kong–Macao Greater Bay Area hub. Total investment is 5.5 billion yuan; the facility deploys 11,520 Ascend domestic AI accelerator cards, delivering aggregate compute of 9,000P and performance described as internationally leading. The cluster is part of the national integrated compute network’s GBA hub and is intended to serve the region’s AI industry by linking domestic chips, operating systems and algorithm frameworks to complete the compute-to-application ecosystem and promote scale adoption of domestic chips and training frameworks, a step the operator says marks big-model R&D entering a “compute autonomy” phase."
+    },
+    {
+      "id": "mkt:019f49a4-1d5e-7aab-8d24-5c53f894175b",
+      "time": "2026-07-10 09:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 7.5 bps to 2.800%."
+    },
+    {
+      "id": "4980013",
+      "time": "2026-07-10 09:28:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝概念反覆走強 華天科技4天3板續創歷史新高】早盤先進封裝概念再度走強，華天科技一字漲停，走出4天3板，續創歷史新高，深科達、同興達、深科技、朗迪集團、長電科技漲超5%。"
+    },
+    {
+      "id": "4980012",
+      "time": "2026-07-10 09:28:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“維科轉債”盤中臨時停牌】深交所公告，“維科轉債”（123274）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "mkt:019f49a3-8a13-7aab-8d24-5177e2181828",
+      "time": "2026-07-10 09:28:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite opened July 10 (Fri) down 5.05 points (-0.13%) at 4,031.54; Shenzhen Composite opened up 81.68 points (+0.53%) at 15,480.41; CSI 300 opened up 11.22 points (+0.23%) at 4,887.54; ChiNext opened up 23.68 points (+0.59%) at 4,041.86; STAR 50 opened up 4.35 points (+0.20%) at 2,190.18."
+    },
+    {
+      "id": "4980011",
+      "time": "2026-07-10 09:27:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "濱化股份港股上市首日低開超21%，報2.74港元/股。"
+    },
+    {
+      "id": "mkt:019f49a3-24d5-7aab-8d24-484104125034",
+      "time": "2026-07-10 09:27:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan minister KIUCHI says government will not pre-communicate preferences on BOJ policy, rebuffs political interference concerns】Economy and Finance Minister KIUCHI said on Friday the government will not pre-communicate its preferences on how the Bank of Japan should set interest rates and will not advise on timing or size of rate moves, reiterating that the BOJ decides specific monetary policy tools. His remarks sought to calm markets after a draft economic blueprint urged “appropriately guiding monetary policy” and cited a legal clause requiring the BOJ to align with the government’s economic agenda while omitting language on the bank’s legal independence—phrasing that had raised concern the dovish-leaning Prime Minister Sanae Takaichi government might pressure the BOJ to delay tightening. KIUCHI added the government and the BOJ should nonetheless share assessments of the economy, prices and financial conditions."
+    },
+    {
+      "id": "mkt:019f49a2-f803-7aab-8d24-45f454f8a7b0",
+      "time": "2026-07-10 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Zhejiang Oulun Electric Co. opened 42.16% above its issue price of 38.69 yuan on its Beijing Stock Exchange debut. The company manufactures environmental control equipment and offers integrated R&D, design, manufacturing, sales and services."
+    },
+    {
+      "id": "4980010",
+      "time": "2026-07-10 09:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI賽道ETF昨日大舉吸金 科創50ETF成為淨流入最多寬基】AI賽道ETF昨日大舉吸金。Choice資料顯示，20只科創50ETF昨天淨流入22.14億元，是市場淨流入最多的核心寬基，本月已經累計吸金96.38億元，逆轉了此前二季度持續淨流出的態勢。非貨ETF中，跟蹤半導體材料裝置指數的5只產品昨天吸金最多，單日流入59.4億元；其次是科創半導體材料裝置指數，3只掛鉤ETF昨天合計吸金30.76億元。半導體裝置ETF國泰是當日淨流入最多的非貨ETF，淨流入48.74億元，規模創新高至502.53億元；其次是科創半導體ETF華夏（淨流入21.72 億元）最新規模創新高至353.95億元；通訊ETF國泰則是吸金12.12億元、科創50ETF華夏吸金9.89億元。"
+    },
+    {
+      "id": "mkt:019f49a2-b807-7aab-8d24-3fe277fca295",
+      "time": "2026-07-10 09:27:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Huitianfu's Hong Kong Stock Connect information technology ETF rose more than 5%."
+    },
+    {
+      "id": "mkt:019f49a2-6a5f-7aab-8d24-34c1c6050f10",
+      "time": "2026-07-10 09:26:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO sector opened higher; Huatian Technology hit the daily limit, Shenkeda rose over 9%, Cambridge Technology up over 8%, Guangxun Technology and Changdian Technology gained more than 5%, Huagong Technology and Tianfu Communication also advanced."
+    },
+    {
+      "id": "mkt:019f49a2-1536-7aab-8d24-2eb501703cc8",
+      "time": "2026-07-10 09:26:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oil-themed funds opened lower: Global Oil & Gas Energy LOF fell more than 3%; Harvest Crude Oil LOF dropped over 2%; E Fund Crude Oil LOF, China Southern Crude Oil LOF and Petroleum Fund LOF each fell more than 1%."
+    },
     {
       "id": "4980009",
       "time": "2026-07-10 09:25:27",

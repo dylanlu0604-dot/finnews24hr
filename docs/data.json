@@ -1,7 +1,161 @@
 {
-  "updated": "2026-07-10 09:26:24",
-  "count": 15816,
+  "updated": "2026-07-10 09:30:29",
+  "count": 15815,
   "items": [
+    {
+      "id": "4980014",
+      "time": "2026-07-10 09:29:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "新股託倫斯上市首日開盤漲800%，現報203.40元。"
+    },
+    {
+      "id": "mkt:019f49a4-8773-7aab-8d24-6a3b23804d3e",
+      "time": "2026-07-10 09:29:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share lithography-equipment sector active in the early session: Xuguang Electronics up more than 7%, Han's Laser up over 6%, Meai Technology, Taijing Technology and Woge Optoelectronics also higher."
+    },
+    {
+      "id": "mkt:019f49a4-60da-7aab-8d24-62fb2fa011da",
+      "time": "2026-07-10 09:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【GBA launches domestic AI compute cluster with 11,520 Ascend cards, 9,000P compute】On the 9th a domestically built smart-compute cluster exceeding 10,000 accelerator cards went live in Shaoguan as part of the Guangdong–Hong Kong–Macao Greater Bay Area hub. Total investment is 5.5 billion yuan; the facility deploys 11,520 Ascend domestic AI accelerator cards, delivering aggregate compute of 9,000P and performance described as internationally leading. The cluster is part of the national integrated compute network’s GBA hub and is intended to serve the region’s AI industry by linking domestic chips, operating systems and algorithm frameworks to complete the compute-to-application ecosystem and promote scale adoption of domestic chips and training frameworks, a step the operator says marks big-model R&D entering a “compute autonomy” phase."
+    },
+    {
+      "id": "mkt:019f49a4-1d5e-7aab-8d24-5c53f894175b",
+      "time": "2026-07-10 09:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 7.5 bps to 2.800%."
+    },
+    {
+      "id": "4980013",
+      "time": "2026-07-10 09:28:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝概念反覆走強 華天科技4天3板續創歷史新高】早盤先進封裝概念再度走強，華天科技一字漲停，走出4天3板，續創歷史新高，深科達、同興達、深科技、朗迪集團、長電科技漲超5%。"
+    },
+    {
+      "id": "4980012",
+      "time": "2026-07-10 09:28:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“維科轉債”盤中臨時停牌】深交所公告，“維科轉債”（123274）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "mkt:019f49a3-8a13-7aab-8d24-5177e2181828",
+      "time": "2026-07-10 09:28:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite opened July 10 (Fri) down 5.05 points (-0.13%) at 4,031.54; Shenzhen Composite opened up 81.68 points (+0.53%) at 15,480.41; CSI 300 opened up 11.22 points (+0.23%) at 4,887.54; ChiNext opened up 23.68 points (+0.59%) at 4,041.86; STAR 50 opened up 4.35 points (+0.20%) at 2,190.18."
+    },
+    {
+      "id": "4980011",
+      "time": "2026-07-10 09:27:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "濱化股份港股上市首日低開超21%，報2.74港元/股。"
+    },
+    {
+      "id": "mkt:019f49a3-24d5-7aab-8d24-484104125034",
+      "time": "2026-07-10 09:27:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan minister KIUCHI says government will not pre-communicate preferences on BOJ policy, rebuffs political interference concerns】Economy and Finance Minister KIUCHI said on Friday the government will not pre-communicate its preferences on how the Bank of Japan should set interest rates and will not advise on timing or size of rate moves, reiterating that the BOJ decides specific monetary policy tools. His remarks sought to calm markets after a draft economic blueprint urged “appropriately guiding monetary policy” and cited a legal clause requiring the BOJ to align with the government’s economic agenda while omitting language on the bank’s legal independence—phrasing that had raised concern the dovish-leaning Prime Minister Sanae Takaichi government might pressure the BOJ to delay tightening. KIUCHI added the government and the BOJ should nonetheless share assessments of the economy, prices and financial conditions."
+    },
+    {
+      "id": "4980010",
+      "time": "2026-07-10 09:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI賽道ETF昨日大舉吸金 科創50ETF成為淨流入最多寬基】AI賽道ETF昨日大舉吸金。Choice資料顯示，20只科創50ETF昨天淨流入22.14億元，是市場淨流入最多的核心寬基，本月已經累計吸金96.38億元，逆轉了此前二季度持續淨流出的態勢。非貨ETF中，跟蹤半導體材料裝置指數的5只產品昨天吸金最多，單日流入59.4億元；其次是科創半導體材料裝置指數，3只掛鉤ETF昨天合計吸金30.76億元。半導體裝置ETF國泰是當日淨流入最多的非貨ETF，淨流入48.74億元，規模創新高至502.53億元；其次是科創半導體ETF華夏（淨流入21.72 億元）最新規模創新高至353.95億元；通訊ETF國泰則是吸金12.12億元、科創50ETF華夏吸金9.89億元。"
+    },
+    {
+      "id": "mkt:019f49a2-f803-7aab-8d24-45f454f8a7b0",
+      "time": "2026-07-10 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Zhejiang Oulun Electric Co. opened 42.16% above its issue price of 38.69 yuan on its Beijing Stock Exchange debut. The company manufactures environmental control equipment and offers integrated R&D, design, manufacturing, sales and services."
+    },
+    {
+      "id": "mkt:019f49a2-b807-7aab-8d24-3fe277fca295",
+      "time": "2026-07-10 09:27:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Huitianfu's Hong Kong Stock Connect information technology ETF rose more than 5%."
+    },
+    {
+      "id": "mkt:019f49a2-6a5f-7aab-8d24-34c1c6050f10",
+      "time": "2026-07-10 09:26:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO sector opened higher; Huatian Technology hit the daily limit, Shenkeda rose over 9%, Cambridge Technology up over 8%, Guangxun Technology and Changdian Technology gained more than 5%, Huagong Technology and Tianfu Communication also advanced."
+    },
+    {
+      "id": "mkt:019f49a2-1536-7aab-8d24-2eb501703cc8",
+      "time": "2026-07-10 09:26:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oil-themed funds opened lower: Global Oil & Gas Energy LOF fell more than 3%; Harvest Crude Oil LOF dropped over 2%; E Fund Crude Oil LOF, China Southern Crude Oil LOF and Petroleum Fund LOF each fell more than 1%."
+    },
     {
       "id": "4980009",
       "time": "2026-07-10 09:25:27",
@@ -144277,145 +144431,6 @@
         "國際"
       ],
       "text": "日本最大電力公司JERA旗下新能源部門JERA NEX收購了住友商事所持比利時西北二號海上風電場的30%股權，獲得該專案的全部所有權。"
-    },
-    {
-      "id": "4968597",
-      "time": "2026-07-03 09:30:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報23300.818點；恒生科技指數現漲0.926%。"
-    },
-    {
-      "id": "4968596",
-      "time": "2026-07-03 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.06%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4968595",
-      "time": "2026-07-03 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.17%， 滬深300指數期貨連續漲0.17%， 中證500指數期貨連續漲0.06%， 上證50指數期貨連續漲0.14%。"
-    },
-    {
-      "id": "4968594",
-      "time": "2026-07-03 09:29:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人形機器人概念盤初活躍 首開股份一字漲停】人形機器人概念盤初活躍，首開股份一字漲停，雷賽智慧2連板，景興紙業、中大力德、日盈電子、臥龍電驅跟漲。"
-    },
-    {
-      "id": "4968593",
-      "time": "2026-07-03 09:29:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.12%。三江轉債、藍曉轉02、大中轉債、金25轉債、金誠轉債漲幅居前，分別漲30.00%、5.74%、5.37%、4.00%、3.43%。宏微轉債、微導轉債、華辰轉債、三房轉債、京源轉債跌幅居前，分別跌2.71%、2.07%、1.77%、1.59%、1.54%。"
-    },
-    {
-      "id": "4968592",
-      "time": "2026-07-03 09:29:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“三江轉債”盤中臨時停牌】深交所公告，“三江轉債”（123273）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "4968591",
-      "time": "2026-07-03 09:29:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年上半年機構間REITs發行規模達330億元，國金資管發行規模居首】資料顯示，2026年上半年，交易所市場累計發行24單產品（含1單擴募發行產品），規模合計約330億元，規模較去年同期增長25倍。其中，國金資管在今年上半年的機構間REITs累計發行規模達93.66億元，位列全市場計劃管理人第一，佔全市場總髮行規模近三成。"
-    },
-    {
-      "id": "mkt:019f2598-7cd7-7aab-8c88-03e52ead6d34",
-      "time": "2026-07-03 09:29:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The China A-share precious metals sector opened sharply higher, with Chifeng Gold and Shanjin International up more than 6% at the open; Xiaocheng Technology, Zhaojin Gold and Shandong Gold also rose."
-    },
-    {
-      "id": "4968590",
-      "time": "2026-07-03 09:28:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊大幅高開 赤峰黃金、山金國際高開超6%】貴金屬板塊大幅高開，赤峰黃金、山金國際高開超6%，曉程科技、招金黃金、山東黃金跟漲。"
-    },
-    {
-      "id": "mkt:019f2597-78a2-7aab-8c87-ff052892332f",
-      "time": "2026-07-03 09:28:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said there is nothing new at present regarding the Bank of Japan's economic blueprint."
-    },
-    {
-      "id": "4968589",
-      "time": "2026-07-03 09:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新一輪國內成品油價格將迎來調整視窗】今天（3日）24點，新一輪國內成品油調價視窗將再次開啟。國內成品油價格機制規定，汽、柴油最高零售價格以國際市場原油價格為基礎，每10個工作日調整一次。"
-    },
-    {
-      "id": "mkt:019f2596-4f8b-7aab-8c87-f0796882b129",
-      "time": "2026-07-03 09:27:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "At the open on July 3 (Friday), China’s Shanghai Composite Index rose 2.43 points (+0.06%) to 4,031.34; Shenzhen Composite fell 18.69 points (-0.12%) to 15,480.12; CSI 300 Index fell 2.80 points (-0.06%) to 4,809.50; ChiNext Index fell 6.45 points (-0.16%) to 4,010.82; China STAR 50 Index fell 8.54 points (-0.43%) to 1,978.75."
-    },
-    {
-      "id": "mkt:019f2596-4498-7aab-8c87-e928511002b7",
-      "time": "2026-07-03 09:27:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama expects the Bank of Japan to maintain close communication with the government."
-    },
-    {
-      "id": "mkt:019f2596-0f48-7aab-8c87-e29501165a3b",
-      "time": "2026-07-03 09:26:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan's finance minister Katayama said he expects the Bank of Japan to adopt appropriate monetary policy to steadily achieve its price target."
-    },
-    {
-      "id": "te:markets:563935",
-      "time": "2026-07-03 09:26:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Poised to Reverse Prior Week’s Dip — Australian stocks climbed 82 points or 0.9% to 8,806 on Friday morning deals, rebounding from a subdued session the day before amid stronger U.S. equity futures after Wall Street ended mixed overnight after weak U.S. jobs data. An upward revision in Australia's private sector activity for June boosted sentiment, highlighting renewed growth in services. Gains, however, were capped by rate concerns, as the Reserve Bank's June meeting minutes and recent remarks from Governor Bullock signaled policy tightening may still be needed despite calmer Middle East tensions. Sector strength included consumer durables, healthcare, retail, and process industries. Three of four major banks rose between 0.3% and 1%. Mining giant BHP Group edged up 0.3% while other notable performers were Northern Star Resources (7.0%), Evolution Mining (4.8%), and Greatland Resources (2.6%). For the week, markets are on track to edge higher, up around 0.2% so far, reversing from a modest drop in the prior period."
     }
   ]
 }
