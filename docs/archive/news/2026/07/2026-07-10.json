@@ -1,7 +1,60 @@
 {
   "date": "2026-07-10",
-  "count": 1208,
+  "count": 1214,
   "items": [
+    {
+      "id": "4980384",
+      "time": "2026-07-10 13:27:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天航空板塊走強，航天環宇20%漲停】航天航空板塊走強，航天環宇20%漲停，中國衛星、中天火箭漲停，天微電子、航宇科技等跟漲。"
+    },
+    {
+      "id": "4980383",
+      "time": "2026-07-10 13:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "太陽紙業捐贈1000萬元馳援南寧橫州市抗洪救災。"
+    },
+    {
+      "id": "4980382",
+      "time": "2026-07-10 13:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年百億私募平均收益率達13.36%】私募排排網資料顯示，上半年百億私募平均收益率達13.36%，大幅跑贏同期滬深300指數7.55%的漲幅。"
+    },
+    {
+      "id": "4980381",
+      "time": "2026-07-10 13:24:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "衛星ETF全線漲停，衛星ETF鵬華、衛星ETF易方達、衛星ETF廣發、衛星ETF富國均漲停。"
+    },
+    {
+      "id": "mkt:019f4a7c-1876-7aab-8d28-ce496994f8f4",
+      "time": "2026-07-10 13:24:34",
+      "tags": [
+        "MKT News",
+        "01364.HK",
+        "Impact mixed"
+      ],
+      "text": "【HSBC trims Guming PT 7% to HK$27.1, retains Buy】HSBC cut its PT for Guming (01364.HK) by 7% to HK$27.1 from HK$29.1 and kept a Buy rating. After full adjustment of delivery subsidies and given healthy franchisee single-store economics, HSBC says the company’s earnings-revision cycle could improve in 2027. Demand for freshly made drinks remains strong; HSBC expects store expansion to resume in 2027 and estimates 15,554 outlets by end-2026."
+    },
+    {
+      "id": "mkt:019f4a7c-0efc-7aab-8d28-c5a3c6aac0bc",
+      "time": "2026-07-10 13:24:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Satellite ETFs all hit daily limit-up; Penghua, E Fund, GF and Fullgoal satellite ETFs were limit-up. The Long March 10B carrier rocket is expected to complete a reuse flight of one stage before year-end."
+    },
     {
       "id": "4980380",
       "time": "2026-07-10 13:22:09",
