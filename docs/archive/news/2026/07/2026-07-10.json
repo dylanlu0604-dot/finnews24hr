@@ -1,7 +1,230 @@
 {
   "date": "2026-07-10",
-  "count": 811,
+  "count": 834,
   "items": [
+    {
+      "id": "4980103",
+      "time": "2026-07-10 10:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【感測器概念持續走強，奮達科技漲停】感測器概念持續走強，奮達科技漲停，燦瑞科技、必創科技、賽微電子漲超10%，華燦光電、晶方科技、蘇州固鎝等跟漲。"
+    },
+    {
+      "id": "4980102",
+      "time": "2026-07-10 10:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4980101",
+      "time": "2026-07-10 10:00:09",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【雲南檢察機關依法對唐德智涉嫌受賄案提起公訴】貴州省政協原黨組成員、副主席唐德智涉嫌受賄案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對唐德智作出逮捕決定，並指定由雲南省昆明市人民檢察院審查起訴。近日，昆明市人民檢察院已向昆明市中級人民法院提起公訴。 檢察機關在審查起訴階段，依法告知了被告人唐德智享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人唐德智利用擔任貴州省政府辦公廳計劃建設處處長、辦公廳秘書五處處長、副秘書長、秘書長，貴州省黔南布依族苗族自治州委書記，貴州省政協黨組成員、副主席等職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "4980100",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股醫藥電商板塊異動拉昇】哈藥股份、雙鷺藥業、立方製藥觸及漲停，碩世生物、眾生藥業、怡亞通、盟科藥業跟漲。"
+    },
+    {
+      "id": "4980099",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股減肥藥板塊異動拉昇】雙鷺藥業觸及漲停，藍曉科技、美迪西、爭光股份、常山藥業、博騰股份、昊帆生物跟漲。"
+    },
+    {
+      "id": "4980098",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股幽門螺桿概念板塊異動拉昇】國投中魯、雙鷺藥業觸及漲停，眾生藥業、百誠醫藥、昂利康、歐林生物、悅康藥業跟漲。"
+    },
+    {
+      "id": "4980097",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股高血壓板塊異動拉昇】哈藥股份、立方製藥觸及漲停，昂利康、信立泰、吉貝爾、樂心醫療、華海藥業跟漲。"
+    },
+    {
+      "id": "4980096",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股幹細胞板塊異動拉昇】和元生物觸及漲停，益諾思、昭衍新藥、博騰股份、誠達藥業、百普賽斯、近岸蛋白跟漲。"
+    },
+    {
+      "id": "4980095",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股猴痘概念板塊異動拉昇】雙鷺藥業觸及漲停，碩世生物、眾生藥業、百普賽斯、迪安診斷、諾唯贊、拓新藥業跟漲。"
+    },
+    {
+      "id": "4980094",
+      "time": "2026-07-10 10:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股生物疫苗板塊異動拉昇】雙鷺藥業觸及漲停，藍曉科技、昭衍新藥、石藥創新、金迪克、泰格醫藥、歐林生物跟漲。"
+    },
+    {
+      "id": "mkt:019f49c0-9d4e-7aab-8d25-8f679203720b",
+      "time": "2026-07-10 09:59:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Xiaomi",
+        "01478.HK",
+        "Impact bullish",
+        "00001.HK",
+        "01810.HK"
+      ],
+      "text": "Hong Kong Xiaomi-related names climbed: Q Technology (01478.HK) rose more than 7%, CK Hutchison Holdings (00001.HK) gained over 5%, Kingsoft (03888.HK) and Xiaomi Group (01810.HK) rose over 1%."
+    },
+    {
+      "id": "4980093",
+      "time": "2026-07-10 09:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京密雲小時雨強將達40至50毫米】7月10日一早，北京部分地區已出現雷陣雨或陣雨天氣。北京市氣象臺介紹，當前較強降雨回波主要在房山、豐臺、密雲和順義等地區，過去一小時，最大降水量出現在平谷區楊家臺西溝（規自委），達62.8毫米。 預計未來1小時，需要重點關注密雲小時雨強40至50毫米。同時本市大部地區有分散性雷陣雨天氣，小時雨強5至10毫米。 全市暴雨橙色預警中，密雲等6區處於最高一級的暴雨紅色預警中。大家出行要注意防範。（北京日報）"
+    },
+    {
+      "id": "4980092",
+      "time": "2026-07-10 09:59:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部原黨組成員李建波被查】中央紀委國家監委網站通報，交通運輸部原黨組成員李建波涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4980091",
+      "time": "2026-07-10 09:59:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市解除分割槽雷電預警訊號】雷暴雲團已減弱，深圳市氣象臺2026年07月10日09時57分解除南山區、福田區、寶安區、珠江口和深圳灣雷電預警訊號。"
+    },
+    {
+      "id": "mkt:019f49c0-0f51-7aab-8d25-84a8f5836771",
+      "time": "2026-07-10 09:59:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Laos to become Shanghai Cooperation Organization dialogue partner】A memorandum granting Laos dialogue partner status with the Shanghai Cooperation Organization will be signed in Beijing on the 10th; Laos’ deputy foreign minister and the SCO secretary-general are expected to attend. Member heads agreed to admit Laos at last year’s Tianjin summit. The SCO now comprises 10 full members, 2 observers and 15 dialogue partners, including Laos."
+    },
+    {
+      "id": "mkt:019f49c0-0534-7aab-8d25-78099d126c45",
+      "time": "2026-07-10 09:59:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02359.HK",
+        "Impact bullish",
+        "03347.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong-listed pharmaceutical outsourcing/CRO names rallied: 06127.HK rose over 6%, 03759.HK rose over 5%, WuXi AppTec (02359.HK) and Tigermed (03347.HK) rose over 4%, and WuXi Biologics (02269.HK) rose over 3%."
+    },
+    {
+      "id": "4980090",
+      "time": "2026-07-10 09:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寮國將正式成為上合組織對話夥伴】今天（10日），上海合作組織授予寮國人民民主共和國對話夥伴地位備忘錄簽署儀式將在北京舉行。寮國副外長、上合組織秘書長等出席活動。在去年舉行的天津峰會上，成員國元首一致同意接收寮國為對話夥伴。截至目前，上合組織已擁有10個正式成員國、2個觀察員國和包括寮國在內的15個對話夥伴。"
+    },
+    {
+      "id": "4980089",
+      "time": "2026-07-10 09:58:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上緯新材新設子公司，含AI軟體開發業務】企查查APP顯示，近日，啟元新創（上海）科技有限公司成立，經營範圍包含：人工智慧基礎資源與技術平臺；人工智慧應用軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由上緯新材全資持股。"
+    },
+    {
+      "id": "mkt:019f49be-5bd5-7aab-8d25-719250d2ad17",
+      "time": "2026-07-10 09:57:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI rises more than 1%; Hang Seng Tech Index gains over 1.8%."
+    },
+    {
+      "id": "mkt:019f49be-3a8a-7aab-8d25-6917107c55f0",
+      "time": "2026-07-10 09:57:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "027154.HK",
+        "Impact bullish",
+        "00020.HK",
+        "09660.HK"
+      ],
+      "text": "Hong Kong-listed robotics-related stocks mostly rose; Estun (027154.HK) jumped over 6%, while Alibaba (09988.HK), SenseTime (00020.HK), SMIC (00981.HK) and Horizon Robotics (09660.HK) each rose more than 4%."
+    },
+    {
+      "id": "mkt:019f49be-2e2f-7aab-8d25-62f489ff73f7",
+      "time": "2026-07-10 09:57:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD intraday gain widened to 0.50%, trading at 0.5782."
+    },
+    {
+      "id": "te:markets:565840",
+      "time": "2026-07-10 09:56:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Set for a Muted Week — The Australian dollar rose to around $0.695 but was on track to finish the week largely unchanged as investors monitored developments surrounding the Strait of Hormuz following renewed tensions in the Middle East. The safe-haven US dollar strengthened, while oil prices climbed after the US and Iran carried out military strikes in the Gulf earlier this week. However, both countries are now set to resume peace talks despite the recent escalation. Meanwhile, the International Monetary Fund lowered its 2026 growth forecast for Australia to 1.9% from 2.0% and warned inflation would remain elevated at around 4% this year. The Reserve Bank of Australia will meet in August and is expected to keep its cash rate unchanged at 4.35%, though markets still price in a roughly 60% chance of one final rate hike later this year, depending on the movement of oil prices. Traders also await key employment and inflation data due later this month, which could offer fresh clues on the policy outlook."
+    },
+    {
+      "id": "4980088",
+      "time": "2026-07-10 09:56:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "東盟將與緬甸外交部長舉行非正式會晤。"
+    },
     {
       "id": "4980087",
       "time": "2026-07-10 09:56:37",
