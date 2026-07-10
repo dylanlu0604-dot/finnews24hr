@@ -1,7 +1,204 @@
 {
   "date": "2026-07-10",
-  "count": 2338,
+  "count": 2359,
   "items": [
+    {
+      "id": "4981319",
+      "time": "2026-07-10 20:31:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：本週共對197起證券異常交易行為採取了自律監管措施】深交所本週共對197起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形；共對5起上市公司重大事項進行核查，並上報證監會1起涉嫌違法違規案件線索。"
+    },
+    {
+      "id": "4981318",
+      "time": "2026-07-10 20:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月份小時工資同比增長3.7%；此前預期為增長3.6%。"
+    },
+    {
+      "id": "mkt:019f4c01-d8fa-7aab-8d32-e8d952c874b3",
+      "time": "2026-07-10 20:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June employment +18,200 vs +10,000 expected; May +87,800."
+    },
+    {
+      "id": "mkt:019f4c01-d360-7aab-8d32-e6613aa558e4",
+      "time": "2026-07-10 20:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June labour force participation rate 65.0% (consensus 65.0%; prior 65.0%)."
+    },
+    {
+      "id": "mkt:019f4c01-d108-7aab-8d32-db5094379b90",
+      "time": "2026-07-10 20:30:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June unemployment rate 6.5% vs 6.6% expected and 6.6% prior."
+    },
+    {
+      "id": "4981317",
+      "time": "2026-07-10 20:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月失業率降至6.5%，此前預計為6.6%。加拿大6月就業人數 1.82萬人，預期1萬人，前值8.78萬人。加拿大6月就業參與率 65%，預期65.00%，前值65.00%。加拿大6月兼職就業人數 1.75萬人，前值-6.62萬人。"
+    },
+    {
+      "id": "mkt:019f4c01-d0a4-7aab-8d32-d6be22de668f",
+      "time": "2026-07-10 20:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June part‑time employment +17.5k, prior -66.2k."
+    },
+    {
+      "id": "mkt:019f4c01-bf0e-7aab-8d32-cfa5e30da568",
+      "time": "2026-07-10 20:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Canada May building permits MoM -1.7% vs expected +2.4%; April revised from -7.6% to -6.6%."
+    },
+    {
+      "id": "mkt:019f4c01-beac-7aab-8d32-c378e4d89051",
+      "time": "2026-07-10 20:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada full-time employment rose by 600 in June, versus a 154,000 increase in the prior month."
+    },
+    {
+      "id": "mkt:019f4c01-99b8-7aab-8d32-bc28ee450277",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Unemployment Rate (Jun) | actual 6.5% | consensus 6.60% | previous 6.60%"
+    },
+    {
+      "id": "mkt:019f4c01-99b4-7aab-8d32-b63e48d22736",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Building Permits (MoM) (May) | actual -1.7% | consensus 2.4% | previous -7.60%"
+    },
+    {
+      "id": "mkt:019f4c01-994c-7aab-8d32-ad290e4f1a8e",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Part Time (Jun) | actual 17500K | previous -66200K"
+    },
+    {
+      "id": "mkt:019f4c01-994b-7aab-8d32-a2c791f4bbea",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change (Jun) | actual 18200K | consensus 10000K | previous 87800K"
+    },
+    {
+      "id": "mkt:019f4c01-993f-7aab-8d32-9949cbe7420c",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Full Time (Jun) | actual 600K | previous 154000K"
+    },
+    {
+      "id": "mkt:019f4c01-9933-7aab-8d32-95768909e688",
+      "time": "2026-07-10 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Labor Force Participation Rate (Jun) | actual 65% | consensus 65.00% | previous 65.00%"
+    },
+    {
+      "id": "4981316",
+      "time": "2026-07-10 20:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部中國氣象局釋出黃色橙色地災預警】自然資源部與中國氣象局10日釋出黃色橙色地質災害氣象風險預警：10日至13日北京北部和西部、河北中北部、山西西部、內蒙古南部區域性、遼寧西部區域性和東北區域性、吉林西部區域性、浙江南部、安徽南部、福建北部、江西東北部、廣西東部區域性和南部區域性、雲南西部和南部區域性、西藏東南區域性、陝西北部區域性、甘肅中南區域性、青海東部區域性發生地質災害的風險較高（黃色預警）；北京東北區域性和西南區域性、天津北部區域性、河北中部區域性和東北區域性、浙江南部、安徽南部區域性、福建北部、江西東北部區域性發生地質災害的風險高（橙色預警）。 兩部門要求各級政府及有關部門按照應急預案做好地質災害防禦工作，請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員，請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。(新華社)"
+    },
+    {
+      "id": "mkt:019f4c01-4535-7aab-8d32-8dc16a436a9d",
+      "time": "2026-07-10 20:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SZSE says it took self-regulatory action on 197 abnormal trading cases this week】Shenzhen Stock Exchange said it took self-regulatory measures against 197 abnormal trading cases from July 6-10, 2026, citing intraday price manipulation and false orders. The exchange probed five major events at listed companies and referred one suspected violation to the CSRC."
+    },
+    {
+      "id": "mkt:019f4c00-d212-7aab-8d32-81962de3dda7",
+      "time": "2026-07-10 20:29:09",
+      "tags": [
+        "MKT News",
+        "GS.O"
+      ],
+      "text": "Market sources say Goldman Sachs has reportedly hired Drummond Rice from Blackstone for an equity capital markets role."
+    },
+    {
+      "id": "4981315",
+      "time": "2026-07-10 20:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際航運中心排名上海首次躍升至第二位】《新華·波羅的海國際航運中心發展指數報告（2026）》10日在上海釋出，國際航運中心排名上海首次躍升至第二位，香港、寧波舟山也躋身前十。 在報告最新發布的國際航運中心排名中，新加坡繼續保持全球領先，上海超越倫敦首次升至第二位，排名前20名的我國港口還有香港、寧波舟山、廣州、青島、天津、深圳，分別位列第四位、第六位、第十一位、第十二位、第十七位、第十八位。 (新華社)"
+    },
+    {
+      "id": "4981314",
+      "time": "2026-07-10 20:28:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "莫三比克6月通脹年率為7.51%。"
+    },
+    {
+      "id": "4981312",
+      "time": "2026-07-10 20:28:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士本週五登陸納斯達克 募資265億美元躋身美股大型海外IPO】韓國晶片巨頭SK海力士將於本週五登陸科技股雲集的納斯達克交易所，此舉將為其打通一條強力全新融資渠道，方便全球投資者佈局高速增長的人工智慧基礎設施賽道。 這家全球第二大儲存晶片廠商計劃透過在納斯達克發行美國存託憑證（ADR）募資約40萬億韓元（摺合265億美元）。本次發行共計1.779億份美國存託憑證，發行價定為每份149美元，1份ADR對應其在韓國首爾交易所上市普通股的十分之一。 此次上市有望躋身美股史上規模最大的境外企業IPO行列，募資規模僅次於SpaceX，足以體現全球資本對AI產業鏈核心企業的旺盛投資意願。 業內分析人士表示，除了獲得鉅額資金注入，登陸納斯達克還將抬升SK海力士全球估值、拓寬國際資本市場融資路徑，夯實企業長期募資能力。 本週五納斯達克上市敲鐘儀式上，崔泰源及公司一眾高管將面向全球投資者介紹企業技術優勢與長期發展規劃。"
+    },
     {
       "id": "4981311",
       "time": "2026-07-10 20:25:57",
