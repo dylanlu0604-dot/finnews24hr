@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-10 22:40:31",
+  "updated": "2026-07-10 22:44:39",
   "count": 15985,
   "items": [
+    {
+      "id": "4981587",
+      "time": "2026-07-10 22:43:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： 客戶表示公司規劃的擴產規模仍無法滿足需求。"
+    },
+    {
+      "id": "mkt:019f4c7b-1d85-7aab-8d35-3b97c0ab2857",
+      "time": "2026-07-10 22:42:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Chairman Choi Tae-won said the boom in AI agents implies a need for substantially more memory."
+    },
+    {
+      "id": "4981586",
+      "time": "2026-07-10 22:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士就英國柴油排放裁決表態：對法院裁決“大體上”作出了對梅賽德斯-賓士有利的判決表示歡迎。"
+    },
+    {
+      "id": "4981585",
+      "time": "2026-07-10 22:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： AI 智慧代理爆發式發展將催生海量記憶體需求。"
+    },
+    {
+      "id": "4981584",
+      "time": "2026-07-10 22:40:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國SK集團會長崔泰源：對多輪發行美國存托股份（ADR）持開放態度。"
+    },
+    {
+      "id": "mkt:019f4c78-a061-7aab-8d35-340255576989",
+      "time": "2026-07-10 22:40:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump: US has agreed to continue talks with Iran】On July 10, US President Trump posted on Truth Social that Iran wants to continue talks and the US has agreed. He said Washington has told Tehran the ceasefire is over."
+    },
     {
       "id": "mkt:019f4c78-29b8-7aab-8d35-2f174d3df2b1",
       "time": "2026-07-10 22:39:31",
@@ -145706,58 +145765,6 @@
         "公司"
       ],
       "text": "格倫法恩全球大宗商品公司與保加利亞能源公司（BGN）簽署年液化天然氣交易量100萬噸的框架協議，擴充液化天然氣業務組合。"
-    },
-    {
-      "id": "4969957",
-      "time": "2026-07-03 22:43:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "南非國家電力公司(ESKOM)：2026年6月26日至7月2日期間，平均非計劃停運容量降至9,850兆瓦。"
-    },
-    {
-      "id": "4969956",
-      "time": "2026-07-03 22:43:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：由於海關平臺出現行政故障，剛果（金）主要鈷生產商可能無法完成上半年出口配額，從而面臨失去部分配額的風險。此次故障可能影響全球主要生產商的電池金屬鈷出口，按當前價格計算，最多可能導致約2萬噸鈷無法出口，涉及價值約11億美元。"
-    },
-    {
-      "id": "mkt:019f286e-e920-7aab-8c97-d811d4a9cb09",
-      "time": "2026-07-03 22:43:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Sources and correspondence indicate an administrative failure at the Democratic Republic of Congo's customs platform may prevent major Congolese cobalt producers from fulfilling 1H export quotas, risking loss of part of those quotas. The disruption could hit global battery-grade cobalt shipments; at current prices up to about 20,000 tonnes of cobalt — roughly $1.1 billion — may be unable to be exported."
-    },
-    {
-      "id": "4969955",
-      "time": "2026-07-03 22:42:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "標普將電信公司ILLIAD的評級上調至“BB+”；展望穩定。"
-    },
-    {
-      "id": "4969954",
-      "time": "2026-07-03 22:42:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀚銀科技被罰沒7445萬元】7月3日，中國人民銀行上海市分行釋出的行政處罰資訊公示表顯示，上海瀚銀資訊科技有限公司（簡稱“瀚銀科技”）因違反清算管理規定和商戶管理規定，被沒收違法所得6592萬元，並處罰款853萬元，合計罰沒7445萬元。"
-    },
-    {
-      "id": "4969953",
-      "time": "2026-07-03 22:41:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【白宮前顧問：特朗普政府不會設立AI審批監管機構】特朗普政府離任的人工智慧顧問表示，總統不會出臺一套正式的人工智慧許可監管體系；即便白宮正動用緊急行政權力，限制頂尖前沿大模型落地。斯里拉姆・克里希南上月卸任白宮相關職務後，首次接受深度專訪時稱：“美國不會設立類似食品藥品監督管理局（FDA）的人工智慧專職監管機構。”他補充道：“本屆政府、總統從上任第一天起，就反對繁重、苛刻、官僚化的繁文縟節。我們不會去充當行業裁判，人為劃定企業輸贏。”克里希南表示，如果設立集中式監管機構，要求企業配齊大量法務人員才能釋出 AI 模型，只會給人工智慧產業變革 “添堵、拖慢發展節奏”。“在特朗普總統任內，這種監管模式絕對不會落地。”此番表態釋出數週前，美國政府出於國家安全考量出臺前所未有的干預措施：強制 Anthropic 撤回其最強模型 Mythos，並暫緩 OpenAI 5.6 大模型的釋出計劃。"
     }
   ]
 }

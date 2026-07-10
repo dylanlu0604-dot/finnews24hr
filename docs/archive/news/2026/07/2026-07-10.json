@@ -1,7 +1,66 @@
 {
   "date": "2026-07-10",
-  "count": 2713,
+  "count": 2719,
   "items": [
+    {
+      "id": "4981587",
+      "time": "2026-07-10 22:43:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： 客戶表示公司規劃的擴產規模仍無法滿足需求。"
+    },
+    {
+      "id": "mkt:019f4c7b-1d85-7aab-8d35-3b97c0ab2857",
+      "time": "2026-07-10 22:42:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Chairman Choi Tae-won said the boom in AI agents implies a need for substantially more memory."
+    },
+    {
+      "id": "4981586",
+      "time": "2026-07-10 22:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士就英國柴油排放裁決表態：對法院裁決“大體上”作出了對梅賽德斯-賓士有利的判決表示歡迎。"
+    },
+    {
+      "id": "4981585",
+      "time": "2026-07-10 22:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： AI 智慧代理爆發式發展將催生海量記憶體需求。"
+    },
+    {
+      "id": "4981584",
+      "time": "2026-07-10 22:40:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國SK集團會長崔泰源：對多輪發行美國存托股份（ADR）持開放態度。"
+    },
+    {
+      "id": "mkt:019f4c78-a061-7aab-8d35-340255576989",
+      "time": "2026-07-10 22:40:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump: US has agreed to continue talks with Iran】On July 10, US President Trump posted on Truth Social that Iran wants to continue talks and the US has agreed. He said Washington has told Tehran the ceasefire is over."
+    },
     {
       "id": "mkt:019f4c78-29b8-7aab-8d35-2f174d3df2b1",
       "time": "2026-07-10 22:39:31",
