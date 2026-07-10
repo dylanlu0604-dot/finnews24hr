@@ -1,7 +1,72 @@
 {
   "date": "2026-07-10",
-  "count": 551,
+  "count": 558,
   "items": [
+    {
+      "id": "4979918",
+      "time": "2026-07-10 08:12:29",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：全球大模型商業化程序加速，CPU等算力硬體環節持續提價】中信建投研報表示，全球大模型呼叫量預計連續11周環比走高，國產模型憑高價效比佔據流量前列，海外頭部廠商營收預期上調。國內廠商商業化提速，DeepSeek將推出分時定價，豆包已上線多檔會員；Anthropic收緊Claude訪問限制，合規地緣因素下國產替代邏輯凸顯。算力硬體全線漲價，Intel上調消費、伺服器CPU售價，AMD下半年提價在即；預計三季度DRAM、NAND合約價持續上漲，伺服器儲存產能緊缺缺口延續至2027年。Agent AI改變算力成本結構，CPU、儲存需求激增，硬體漲價從GPU擴散至整條資料中心產業鏈。"
+    },
+    {
+      "id": "4979917",
+      "time": "2026-07-10 08:11:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府立場不變，具體貨幣政策手段交由日本央行決定。"
+    },
+    {
+      "id": "mkt:019f495c-fddd-7aab-8d22-d2dd4e34ed42",
+      "time": "2026-07-10 08:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 2.40 points (-0.03%) at 8,760.10 on Friday, July 10."
+    },
+    {
+      "id": "4979916",
+      "time": "2026-07-10 08:10:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：必須尊重日本央行的自主權。"
+    },
+    {
+      "id": "te:economy:565819",
+      "time": "2026-07-10 08:10:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Indonesia Car Sales Grow 12% YoY in June — New car sales in Indonesia rose 12.0% year-on-year to 77,550 units in June 2026, following a 14.0% increase in May and marking the third consecutive month of growth. According to data from the Association of Indonesian Automotive Industries (Gaikindo), first-half sales rose 15.9% from the same period a year earlier to 436,564 units, highlighting resilient consumer demand despite inflationary pressures and higher non-subsidized fuel prices. Market sentiment is expected to receive further support from upcoming major automotive events. Even so, industry participants remain cautious as macroeconomic challenges persist, notably elevated borrowing costs that weigh on vehicle financing demand, the primary purchase channel for most Indonesian buyers. At the same time, the weak rupiah continues to raise the cost of imported components and raw materials, adding pressure to production costs and vehicle prices. Meanwhile, retail new car sales surged 19.6% yoy to 74,507 units."
+    },
+    {
+      "id": "mkt:019f495c-180f-7aab-8d22-cc76074e471d",
+      "time": "2026-07-10 08:09:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Economy Minister Kiuchi said wholesale price rises reflect recent oil price increases, but consumer inflation growth remains moderate."
+    },
+    {
+      "id": "mkt:019f495b-75c0-7aab-8d22-c76d1edf151a",
+      "time": "2026-07-10 08:09:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Economy Minister Kiuchi said the weak yen's effect on domestic inf is lagged and its magnitude may not be large."
+    },
     {
       "id": "mkt:019f495a-89ff-7aab-8d22-bbab95758b1d",
       "time": "2026-07-10 08:08:18",
