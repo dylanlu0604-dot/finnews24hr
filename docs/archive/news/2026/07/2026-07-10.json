@@ -1,7 +1,19 @@
 {
   "date": "2026-07-10",
-  "count": 1221,
+  "count": 1222,
   "items": [
+    {
+      "id": "te:economy:565901",
+      "time": "2026-07-10 13:37:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Estonia Trade Gap Smallest in Nearly 2 Years — Estonia’s trade deficit narrowed to EUR 224 million in May 2026 from EUR 287 million in May 2025, marking the smallest trade gap since August 2024. Year-on-year, exports climbed 9% to EUR 1,720 million, driven by higher shipments to both EU countries (+13%) and non-EU countries (+14%). Export growth was led by mineral products (+64%), machinery and mechanical appliances (+25%), transport equipment (+6%), electrical equipment (+4%), and miscellaneous manufactured articles (+12%). Meanwhile, imports advanced 4% to EUR 1,945 million, supported by higher imports from EU countries (+9%) and non-EU countries (+8%). Import growth was driven by mineral products (+38%), electrical equipment (+18%), machinery and mechanical appliances (+15%), transport equipment (+8%), and raw materials and products of the chemical industry (+9%). In the first five months of the year, the country recorded a trade deficit of EUR 1,512 million, compared with EUR 1,546 million in the same period of 2025."
+    },
     {
       "id": "mkt:019f4a84-dd9e-7aab-8d28-e5e432a12f23",
       "time": "2026-07-10 13:34:09",
