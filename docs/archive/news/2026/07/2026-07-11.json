@@ -1,7 +1,35 @@
 {
   "date": "2026-07-11",
-  "count": 200,
+  "count": 203,
   "items": [
+    {
+      "id": "te:markets:566121",
+      "time": "2026-07-11 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%), Silver (-0.63%) and Gold (-0.50%). Gains are led by Silicon (0.84%) and Iron Ore CNY (0.80%)."
+    },
+    {
+      "id": "4981844",
+      "time": "2026-07-11 02:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：會見了美國國會眾議院外交事務委員會名譽主席，探討了俄烏前線戰況，以及烏克蘭遠端反擊行動。計劃持續深耕該領域，重點發展無人機相關技術。"
+    },
+    {
+      "id": "4981843",
+      "time": "2026-07-11 02:18:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國發布針對伊朗的新制裁措施】當地時間7月10日，美國財政部網站顯示，美國發布針對伊朗的新制裁措施。（央視新聞）"
+    },
     {
       "id": "te:markets:566120",
       "time": "2026-07-11 02:15:06",
