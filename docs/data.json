@@ -1,7 +1,153 @@
 {
-  "updated": "2026-07-10 22:44:39",
-  "count": 15985,
+  "updated": "2026-07-10 22:49:02",
+  "count": 15998,
   "items": [
+    {
+      "id": "mkt:019f4c7f-c15c-7aab-8d35-5f51460d014e",
+      "time": "2026-07-10 22:47:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian military says it struck an oil depot in Russia's Rostov region."
+    },
+    {
+      "id": "4981600",
+      "time": "2026-07-10 22:47:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷諾集團在英格蘭及威爾士“禁止減效裝置”柴油排放訴訟中勝訴。"
+    },
+    {
+      "id": "4981599",
+      "time": "2026-07-10 22:47:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱其襲擊了俄羅斯羅斯托夫地區的一處油庫。"
+    },
+    {
+      "id": "4981598",
+      "time": "2026-07-10 22:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方在前政府大臣安·威迪科姆去世後展開謀殺調查。"
+    },
+    {
+      "id": "mkt:019f4c7e-ded9-7aab-8d35-539441a78a40",
+      "time": "2026-07-10 22:46:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Ukrainian military said it struck 18 Russian vessels and hit the Ilsky refinery and an oil berth at Taganrog."
+    },
+    {
+      "id": "4981597",
+      "time": "2026-07-10 22:46:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長虹電源護航全球首次火箭網系回收任務】7月10日晚間，四川長虹控股集團官微訊息，今日，長征十號乙運載火箭於海南商業航天發射場順利升空，併成功實現回收。此次任務不僅實現了我國運載火箭一子級首次可控回收，更在全球範圍內首次實現運載火箭網系回收，在可重複使用航天領域鐫刻下嶄新里程碑。長虹電源為“領航者”網系回收平臺塔架配套研製了直流供配電系統與鎖緊平臺儲能單元。"
+    },
+    {
+      "id": "4981596",
+      "time": "2026-07-10 22:46:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱其打擊了俄羅斯塔甘羅格的石油碼頭。"
+    },
+    {
+      "id": "4981595",
+      "time": "2026-07-10 22:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱其襲擊了俄羅斯的伊爾斯基煉油廠。"
+    },
+    {
+      "id": "4981594",
+      "time": "2026-07-10 22:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防汛抗旱總指揮部：颱風“巴威”正在逼近浙閩沿海】7月10日，國家防汛抗旱總指揮部辦公室印發通知。通知指出，今年第9號颱風“巴威”正在逼近浙閩沿海，將於7月12日凌晨在福建霞浦至浙江溫嶺一帶沿海登陸（強颱風或颱風級，13～15級，40～48米每秒），登陸後向西北方向移動。受其影響，10日至13日，我國華東、華中、華北、東北等地預計將有大範圍強降雨過程，影響範圍廣、強度大，部分地區極端性顯著。（央視新聞）"
+    },
+    {
+      "id": "4981593",
+      "time": "2026-07-10 22:45:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面稱其擊毀18艘俄羅斯艦船。"
+    },
+    {
+      "id": "te:markets:566080",
+      "time": "2026-07-10 22:45:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Futures Stay Volatile — Arabica coffee futures oscillated between $3.20 and $3.50 per pound, as investors closely monitored weather conditions and harvest progress in top producer Brazil. Volatility has intensified recently as tight global supplies have increased the market's sensitivity to weather developments, prompting investors to rapidly adjust their positions in response to changes in the crop outlook."
+    },
+    {
+      "id": "4981591",
+      "time": "2026-07-10 22:44:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士集團股份公司：我們仍認為量子技術相關訴訟中提出的索賠主張毫無根據。"
+    },
+    {
+      "id": "mkt:019f4c7c-df87-7aab-8d35-4b6df7c82a22",
+      "time": "2026-07-10 22:44:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK chairman Choi Tae-won said he is confident in demand growth."
+    },
+    {
+      "id": "mkt:019f4c7c-bc5b-7aab-8d35-46805bee78cf",
+      "time": "2026-07-10 22:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's president says he intends to restore diplomatic relations with Peru."
+    },
+    {
+      "id": "4981590",
+      "time": "2026-07-10 22:44:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源：我對需求增長抱有一定信心。"
+    },
+    {
+      "id": "4981589",
+      "time": "2026-07-10 22:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統表示，墨西哥打算恢復與秘魯的外交關係。"
+    },
+    {
+      "id": "4981588",
+      "time": "2026-07-10 22:43:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "芯天下技術股份有限公司向港交所提交上市申請書，聯席保薦人為廣發證券、中信證券。"
+    },
     {
       "id": "4981587",
       "time": "2026-07-10 22:43:20",
@@ -145730,41 +145876,6 @@
         "GBPUSD"
       ],
       "text": "Bank of England Governor Bailey will speak in ten minutes on coordination between fiscal and monetary policy."
-    },
-    {
-      "id": "mkt:019f2874-1d5a-7aab-8c97-edcc2707f719",
-      "time": "2026-07-03 22:48:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Customs-system failure could delay DRC cobalt exports; up to 20,000 tonnes at risk】Industry sources and a letter seen by Refinitiv show a customs platform outage in the DRC could cause producers to lose part of their 1H cobalt export quotas after a new regulatory directive requires reclaiming unused allocations. The technical failure may delay up to about 20,000 tonnes of cobalt — roughly $1.1 bln at current prices — from shipping on schedule. The DRC accounts for about 70% of global cobalt production."
-    },
-    {
-      "id": "4969959",
-      "time": "2026-07-03 22:47:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "格倫法恩集團：旗下GGC公司與保加利亞能源公司（BGN）擬協商簽署一份為期20年的液化天然氣購銷協議，氣源來自得克薩斯液化天然氣專案。"
-    },
-    {
-      "id": "mkt:019f2871-af40-7aab-8c97-e7787cdc4824",
-      "time": "2026-07-03 22:46:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to an HKEX filing, Jingze Biomedicine (Hefei) Co., Ltd. -B has submitted a listing application."
-    },
-    {
-      "id": "4969958",
-      "time": "2026-07-03 22:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "格倫法恩全球大宗商品公司與保加利亞能源公司（BGN）簽署年液化天然氣交易量100萬噸的框架協議，擴充液化天然氣業務組合。"
     }
   ]
 }
