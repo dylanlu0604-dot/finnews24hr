@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-10 14:27:34",
-  "count": 15792,
+  "updated": "2026-07-10 14:31:29",
+  "count": 15793,
   "items": [
+    {
+      "id": "4980439",
+      "time": "2026-07-10 14:30:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蜂助手等成立互聯科技公司，含物聯網業務】企查查APP顯示，近日，廣州笙淼互聯科技有限公司成立，經營範圍包含：物聯網應用服務；物聯網技術服務；物聯網技術研發；地理遙感資訊服務等。企查查股權穿透顯示，該公司由蜂助手等共同持股。"
+    },
+    {
+      "id": "4980438",
+      "time": "2026-07-10 14:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4732.80點。"
+    },
+    {
+      "id": "te:markets:565928",
+      "time": "2026-07-10 14:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.59% Higher — The Nikkei 225 Index gained 1077 points or 1.59 percent on Friday to close at 68821 points. Gains were led by Sumco (15.23%), Softbank (11.38%) and Mitsubishi Motors (11.25%)."
+    },
+    {
+      "id": "4980437",
+      "time": "2026-07-10 14:29:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量4340億元。"
+    },
+    {
+      "id": "te:economy:565927",
+      "time": "2026-07-10 14:29:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Lithuania Trade Deficit Widens in May — Lithuania posted a trade deficit of EUR 855.2 million in May 2026, widening from EUR 615.5 million in the same month last year, still remaining as the largest trade shortfall since July 2025. Exports edged up by 1.4% year-on-year to EUR 3,113.8 million, mainly due to increased exports of mineral fuels, mineral oils and their distillation products (59.7%), land vehicles, their parts (7.7%), tobacco and processed tobacco substitutes (20.7%). Meanwhile, imports grew 7.7% to EUR 3,969.0 million due to increased imports of mineral fuels, mineral oils and their distillation products (68.3%), organic chemical products (69.0%), plastics and articles thereof (19.0%). In the January-May period, the country’s trade deficit narrowed slightly to EUR 2,813.1 million from EUR 2,835.1 million in the same period a year ago, as exports (3.0%) rose faster than imports (2.4%)."
+    },
+    {
+      "id": "4980436",
+      "time": "2026-07-10 14:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "ITS：馬來西亞7月1日至10日棕櫚油出口量預計為434,090噸，同比增長1.6%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607103801597817",
+      "time": "2026-07-10 14:27:23",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【AI投資已成通脹主要推手？美聯儲“三把手”：或被迫加息應對！】美聯儲“三把手”、紐約聯儲主席約翰·威廉姆斯週四表示，在推動美國通脹的諸多因素中，他目前最關注的是由人工智慧（AI）驅動的需求。如果這種需求持續存在，可能會迫使美聯儲提高利率。"
+    },
     {
       "id": "4980435",
       "time": "2026-07-10 14:26:12",
@@ -144174,65 +144241,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Head for Higher Open — European equity markets were set to open higher on Friday, extending their advance to fresh record highs after weaker-than-expected US jobs data lowered expectations for a near-term Federal Reserve interest rate hike. In Europe, investors also see roughly a one-third chance of a European Central Bank rate increase in July as easing inflation suggests the eurozone is moving closer to price stability. Attention now turns to the latest PMI readings from across the region for further clues on the strength of economic activity. Sentiment was supported further after Germany’s ruling coalition reached an agreement on Thursday over broad tax, labor, and pension reforms. In premarket trading, Euro Stoxx 50 futures rose 0.5%, while Stoxx 600 futures gained 0.3%."
-    },
-    {
-      "id": "te:markets:564037",
-      "time": "2026-07-03 14:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.01% Higher — The Nikkei 225 Index gained 695 points or 1.01 percent on Friday to close at 69428 points. Gains were led by Sumco (11.10%), Yaskawa Electric (6.99%) and Sumitomo Chemical (6.55%)."
-    },
-    {
-      "id": "te:economy:564035",
-      "time": "2026-07-03 14:29:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Jordan",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "Jordan Producer Inflation Rises Most in Over 3 Years — Producer prices in Jordan increased 6.6% year-on-year in May 2026 from 5.8% in the previous month. This marked the second consecutive annual increase since January 2025 and the highest reading since November 2022, driven by a sharp acceleration in mining and quarrying prices, which rose 17.18% from 8.98% in April. At the same time, manufacturing prices picked up to 6.43% from 5.93%, driven particularly by the manufacture of paper and paper products, refined petroleum products, and fabricated metal products, except machinery and equipment. Meanwhile, inflation eased in electricity, gas, steam, and air conditioning supply (0.55% vs. 1.12%). On a monthly basis, producer prices rose 0.60% in May, slowing sharply from 6.99% in the previous month."
-    },
-    {
-      "id": "4969050",
-      "time": "2026-07-03 14:29:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥板塊午後再度走強 太龍藥業直線漲停】午後醫藥板塊再度走強，太龍藥業直線漲停，石藥景峰迴封漲停走出2連板，迪哲醫藥、萬邦醫藥漲超10%，信立泰、維康藥業、歐林生物漲幅靠前。"
-    },
-    {
-      "id": "mkt:019f26aa-d943-7aab-8c8c-f43474ab41cf",
-      "time": "2026-07-03 14:29:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000725.SZ",
-        "Impact bearish"
-      ],
-      "text": "On the A-share market, BOE Technology (A shares) turnover hit 30 bln yuan; shares are down 6.59%."
-    },
-    {
-      "id": "4969049",
-      "time": "2026-07-03 14:28:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗已故最高領袖哈梅內伊遺體告別儀式3日在伊朗首都德黑蘭舉行，伊朗各界人士、宗教領袖以及多國官員出席。（新華社）"
-    },
-    {
-      "id": "4969047",
-      "time": "2026-07-03 14:27:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方Ａ成交額達300億元】7月3日下午，京東方Ａ成交額達300億元，現跌6.59%。"
     }
   ]
 }
