@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-11 02:55:35",
-  "count": 16208,
+  "updated": "2026-07-11 02:59:30",
+  "count": 16210,
   "items": [
+    {
+      "id": "mkt:019f4d64-f103-7aab-8d39-08eca3dd38f2",
+      "time": "2026-07-11 02:58:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $76.01 a barrel, down $0.29 or 0.38%."
+    },
+    {
+      "id": "4981867",
+      "time": "2026-07-11 02:57:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶76.01美元，下跌29美分，跌幅0.38%。"
+    },
+    {
+      "id": "4981866",
+      "time": "2026-07-11 02:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局將芝加哥奧黑爾國際機場的航班削減措施延長至2027年10月底。"
+    },
     {
       "id": "4981865",
       "time": "2026-07-11 02:52:53",
@@ -147765,14 +147793,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.20%，報23252.01點，低水98.02點。"
-    },
-    {
-      "id": "mkt:019f2959-7cd0-7aab-8c9a-7174add15148",
-      "time": "2026-07-04 02:59:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Burnham says he would not call early election, pledges policy continuity if PM】Labour politician Andy Burnham said that if he replaces Starmer as prime minister he would not call an early general election and would maintain Labour’s 2024 manifesto commitments, including the pensions triple lock. He supports stronger regulation in public services and did not rule out nationalization in some sectors. Burnham said he favors closer UK‑EU relations, electoral reform, guaranteed funding for defence investment and continued firm support for Ukraine. If unopposed for the party nomination he could become Labour leader and then prime minister in mid‑July."
     }
   ]
 }
