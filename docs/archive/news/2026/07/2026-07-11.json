@@ -1,7 +1,43 @@
 {
   "date": "2026-07-11",
-  "count": 233,
+  "count": 237,
   "items": [
+    {
+      "id": "4981865",
+      "time": "2026-07-11 02:52:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將穆迪展望上調至正面，確認其外幣長期發行人信用評級為 BBB+。"
+    },
+    {
+      "id": "mkt:019f4d60-0a2e-7aab-8d39-05f1d4dc6fdf",
+      "time": "2026-07-11 02:52:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Iran's foreign minister Araghchi will visit Oman on Saturday to lead a delegation for talks on the Strait of Hormuz and bilateral relations."
+    },
+    {
+      "id": "4981864",
+      "time": "2026-07-11 02:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊將於週六率代表團訪問阿曼，就霍爾木茲海峽問題及雙邊關係舉行會談。"
+    },
+    {
+      "id": "mkt:019f4d5e-dfde-7aab-8d38-fa0e961ffe8e",
+      "time": "2026-07-11 02:51:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean Copper Commission: May copper output at Escondida fell 17.6% YoY to 108,800 tonnes; Collahuasi output fell 19.3% YoY to 31,000 tonnes."
+    },
     {
       "id": "4981863",
       "time": "2026-07-11 02:50:18",
