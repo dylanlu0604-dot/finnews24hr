@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-10 13:48:05",
-  "count": 15801,
+  "updated": "2026-07-10 13:51:56",
+  "count": 15804,
   "items": [
+    {
+      "id": "mkt:019f4a93-7142-7aab-8d29-0ab78835b66d",
+      "time": "2026-07-10 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Germany's final June CPI MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f4a91-d981-7aab-8d29-06dd0bf822f3",
+      "time": "2026-07-10 13:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's FSB said it foiled a drone-based terrorist attack on a military airfield in Rostov Oblast."
+    },
+    {
+      "id": "4980396",
+      "time": "2026-07-10 13:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全域性：挫敗一起針對羅斯托夫州軍用機場的無人機恐怖襲擊。"
+    },
+    {
+      "id": "mkt:019f4a91-37d4-7aab-8d28-fa9b89e506c5",
+      "time": "2026-07-10 13:47:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share market turned negative in the afternoon: Shanghai Composite slipped into the red, Shenzhen Component fell more than 0.6% and ChiNext dropped over 2%. Leading sector declines were lab-grown diamonds, memory chips and fluorochemicals."
+    },
     {
       "id": "4980395",
       "time": "2026-07-10 13:46:47",
@@ -144271,14 +144315,6 @@
         "公司"
       ],
       "text": "三星SDI將投資16萬億韓元研發下一代電池。"
-    },
-    {
-      "id": "4968982",
-      "time": "2026-07-03 13:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國軒高科旗下合肥電池技術公司增資至10億元，增幅25%】天眼查App顯示，7月1日，合肥國軒電池技術有限公司發生工商變更，註冊資本由8億人民幣增至10億人民幣，增幅25%。該公司成立於2022年8月，法定代表人為賈獨俊，經營範圍包括電池製造、電池銷售、新能源原動裝置製造、新能源汽車生產測試裝置銷售等，由合肥國軒高科動力能源有限公司全資持股。"
     }
   ]
 }
