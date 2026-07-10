@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-10 14:11:45",
-  "count": 15787,
+  "updated": "2026-07-10 14:15:40",
+  "count": 15786,
   "items": [
+    {
+      "id": "4980424",
+      "time": "2026-07-10 14:14:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將阿斯麥目標價由 1600 歐元上調至 1800 歐元。"
+    },
+    {
+      "id": "4980423",
+      "time": "2026-07-10 14:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【口服降糖版司美格魯肽片中國說明書更新】7月10日，諾和諾德中國宣佈，中國國家藥品監督管理局（NMPA）批准更新司美格魯肽片（商品名：諾和忻）的說明書。諾和忻是全球首個口服胰高糖素樣肽-1受體激動劑（GLP-1RA），目前已在48個國家和地區上市，在中國獲批用於成人2型糖尿病患者的血糖控制。據公司介紹，此次更新基於SOUL研究的主要結果：在伴有心血管疾病（CVD）和/或慢性腎臟病（CKD）的成人2型糖尿病患者中，該藥可降低主要心血管不良事件發生風險14%。"
+    },
+    {
+      "id": "4980422",
+      "time": "2026-07-10 14:13:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "te:economy:565912",
+      "time": "2026-07-10 14:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Lithuania Producer Inflation at 3-Month Low — Producer prices in Lithuania rose 9.6% year-on-year in June 2026, easing from a revised 12.9% in the previous month and marking the lowest reading since March. Price growth slowed for manufacturing (9.1% vs. 13.4% in May), mainly due to a softer increase in coke and refined petroleum products (41.6% vs. 70.7%). Costs also moderated for mining and quarrying (2.1% vs. 6.1%). Meanwhile, inflation accelerated for electricity, gas, steam and air conditioning supply (15.8% vs. 7.9%), as well as for water supply, sewerage, waste management, and remediation activities (4.0% vs. 3.3%). On a monthly basis, producer prices declined 2.4% in June, following a 1.1% drop in the previous month, marking the second consecutive monthly decrease after four straight months of increases."
+    },
+    {
+      "id": "4980421",
+      "time": "2026-07-10 14:13:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【互換通境外投資者數量增至百家】7月10日自債券通公司獲悉，互換通自推出以來平穩執行，投資者數量和交易量穩步增長。截至2026年7月，互換通境外投資者數量增至百家。2026年第一季度交易量達到1.78萬億元人民幣，同比增長26%。互換通是2023年5月推出的創新互聯互通機制，允許境外投資者透過跨境基礎設施連線直接參與境內利率衍生品市場。（上證報）"
+    },
+    {
+      "id": "mkt:019f4aa8-bc28-7aab-8d29-9667552847e0",
+      "time": "2026-07-10 14:13:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Swap Connect overseas investor count rises to 100】On July 10 the Bonds Connect operator said Swap Connect has operated smoothly since its May 2023 launch and that the number of overseas investors using the scheme rose to about 100 as of July 2026. Q1 2026 trading volume reached 1.78 trillion yuan, up 26% YoY. Swap Connect is an interconnect mechanism allowing foreign investors to access China’s onshore interest-rate derivatives market via cross-border infrastructure."
+    },
+    {
+      "id": "4980420",
+      "time": "2026-07-10 14:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.5%，至8806點。"
+    },
+    {
+      "id": "4980419",
+      "time": "2026-07-10 14:12:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "易捷航空股價在TRADEGATE較前一交易日收盤價上漲10%。"
+    },
+    {
+      "id": "mkt:019f4aa7-ce07-7aab-8d29-88d0f5928569",
+      "time": "2026-07-10 14:12:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.2 earthquake at 14:05 on July 10 near Gaoxian, Yibin, Sichuan (28.53°N, 104.70°E); focal depth 6 km."
+    },
+    {
+      "id": "4980418",
+      "time": "2026-07-10 14:12:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊震盪走弱，華亞智慧跌停】半導體板塊震盪走弱，華亞智慧跌停，晶合整合、銀河微電、歐萊新材、華潤微等超10%。"
+    },
     {
       "id": "4980417",
       "time": "2026-07-10 14:10:53",
@@ -144073,104 +144160,6 @@
         "公司"
       ],
       "text": "【諾雲驅動完成天使+輪融資】7月3日，寧波諾雲驅動科技有限公司宣佈完成天使+輪融資。本輪融資由寧波交投鄞智低空經濟股權投資合夥企業（有限合夥）投資。本輪融資資金將主要用於諾雲Maya系列航空電推進產品的量產能力建設、適航取證推進及核心技術迭代。"
-    },
-    {
-      "id": "mkt:019f269d-e48e-7aab-8c8c-da6160885394",
-      "time": "2026-07-03 14:15:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【1H 2026 China sci‑tech bond issuance expands to 994.4 bln yuan; 206 first‑time issuers】Data from Enterprise Early Warning show that in 1H 2026 China issued 991 sci‑tech bonds totaling 994.37 bln yuan; 206 first‑time issuers raised more than 100 bln yuan."
-    },
-    {
-      "id": "4969028",
-      "time": "2026-07-03 14:15:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美獨立日燃放超85萬枚煙花引擔憂】美國計劃在本月4日建國250週年紀念日時，在首都華盛頓特區舉辦大規模煙花秀。這場煙花秀據稱要辦成“世界最大規模”，引發了環保乃至健康方面的擔憂。 據法新社報道，特朗普政府於2025年年底推出的白宮主導慶典組織“自由250”已聘請一家總部位於賓夕法尼亞州的專業焰火表演公司，計劃於4日晚10時30分開始，在林肯紀念堂和波托馬克河周邊的10個地點燃放超過85萬枚煙花。煙花秀預計持續40分鐘，用到的煙花數量比當前吉尼斯世界紀錄的810904枚多出約4萬枚，更是華盛頓特區往年紀念獨立日煙花秀的約50倍。（新華社）"
-    },
-    {
-      "id": "4969027",
-      "time": "2026-07-03 14:14:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年國內科創債發行顯著擴容 首次發行主體超200家】企業預警通的資料顯示，2026年上半年，國內科創債發行顯著擴容，共發行991只，規模達9943.73億元；首次發行主體206家，融資超1000億元。"
-    },
-    {
-      "id": "4969026",
-      "time": "2026-07-03 14:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【里昂：6月內地OEM銷售繼續復甦，仍視比亞迪及吉利汽車為首選】里昂發表報告指，6月內地各大汽車OEM銷售繼續復甦，主要受出口增長、國內需求改善及第二季較強的車型週期所支撐。主要大眾市場OEM銷售環比上升5%，但國內與海外銷量的差距擴大，顯示行業增長分化。出口銷售增速快於國內復甦，部分OEM在國內銷售下滑的情況下仍錄得出口環比正增長。儘管第二季成本通脹上升，該行仍視比亞迪及吉利汽車為首選，因為其不斷擴大的海外佈局、技術護城河及產品高階化策略，應能有效緩解毛利率壓力。"
-    },
-    {
-      "id": "mkt:019f269d-3264-7aab-8c8c-d2947d5cac72",
-      "time": "2026-07-03 14:14:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bearish"
-      ],
-      "text": "【Burry says he shorted Micron, sees 30% pullback in AI chip stocks】Prominent short seller Michael Burry said on Thursday he shorted Micron Technology at $1,051.87 and warned AI-related chip stocks could retrace about 30%. He said Micron's rally has reached historic extremes and that the company's valuation, technical setup and long-term industry cycle point to material downside risk."
-    },
-    {
-      "id": "4969025",
-      "time": "2026-07-03 14:13:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲1%，至6187.61點。"
-    },
-    {
-      "id": "4969024",
-      "time": "2026-07-03 14:13:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲1.4%，至8,844.30點。"
-    },
-    {
-      "id": "4969023",
-      "time": "2026-07-03 14:12:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴基斯坦央行行長表示，伊美停火後經濟增長動能正在增強。"
-    },
-    {
-      "id": "4969022",
-      "time": "2026-07-03 14:12:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光啟旗下子公司與震有科技達成戰略合作】近日，光啟技術旗下子公司深圳光啟商業航天技術有限公司（簡稱“光啟商業航天”）與震有科技簽署戰略合作協議。雙方將精準對接商業航天與新一代衛星網際網路產業化發展需求，整合技術優勢，聯合攻堅關鍵技術、加速產業化成果落地。在技術攻堅層面，雙方將聯合攻關衛星網際網路終端與系統的關鍵技術，重點突破輕量化高效能天線、星載與地面裝置一體化設計等行業痛點，旨在打破現有技術瓶頸；在業務融合層面，雙方將形成涵蓋聯合研發、供應鏈協同、生產製造到市場推廣的全鏈條合作體系，將聯合研發的產品與技術解決方案推向國內外衛星網際網路運營商，共同打造具備國際競爭力的商業航天產品與解決方案。"
-    },
-    {
-      "id": "mkt:019f269b-5457-7aab-8c8c-c93ffabab025",
-      "time": "2026-07-03 14:12:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKO issued a Yellow Rainstorm Warning for Hong Kong."
-    },
-    {
-      "id": "4969021",
-      "time": "2026-07-03 14:12:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴基斯坦央行公佈的資料顯示，第三季度GDP增長率為4%。"
     }
   ]
 }
