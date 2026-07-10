@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-11 00:34:57",
-  "count": 16109,
+  "updated": "2026-07-11 00:38:51",
+  "count": 16112,
   "items": [
+    {
+      "id": "4981750",
+      "time": "2026-07-11 00:37:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家石油銷售組織（SOMO）設定8月巴士拉中質原油對北美和南美官方售價，較阿加辛輕原油指數（ASCI）升水7.10美元/桶。"
+    },
+    {
+      "id": "mkt:019f4ce4-9598-7aab-8d37-748e3bf17cb2",
+      "time": "2026-07-11 00:37:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Iraq's state oil company set its August official selling price for Basrah Medium crude to Asia at a $6.50/bbl discount to the Oman/Dubai average."
+    },
+    {
+      "id": "4981749",
+      "time": "2026-07-11 00:37:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克國家石油銷售組織（SOMO）將8月出口歐洲的巴士拉中質原油官方售價定為較布倫特現貨每桶貼水7.35美元。"
+    },
+    {
+      "id": "4981748",
+      "time": "2026-07-11 00:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家石油銷售組織（SOMO）將8月出口至亞洲的巴士拉中質原油官方售價定為較阿曼/迪拜均價每桶貼水6.50美元。"
+    },
+    {
+      "id": "4981747",
+      "time": "2026-07-11 00:34:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜與InterDigital的訴訟因影片專利授權協議暫停審理】亞馬遜旗下一家子公司與InterDigital公司正敲定一份授權協議，該協議將解決針對亞馬遜FireTV裝置的專利侵權指控。法官週四批准了InterDigital與亞馬遜服務有限責任公司的聯合動議，在雙方推進協議期間，暫停特拉華州聯邦地區法院的這起訴訟。7月6日達成的仲裁協議要求雙方申請此次暫停。InterDigital於去年11月起訴亞馬遜，指控其FireTV裝置及其他影片流媒體硬體侵犯了5項涵蓋影片處理與壓縮技術的專利。"
+    },
     {
       "id": "4981745",
       "time": "2026-07-11 00:32:48",
@@ -146884,25 +146928,6 @@
         "Brent"
       ],
       "text": "FITCH says its 2026 benchmark oil-price assumption faces downside risk."
-    },
-    {
-      "id": "4970014",
-      "time": "2026-07-04 00:35:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“美莎克”登陸海南】據中央氣象臺訊息，颱風“美莎克”（熱帶風暴級）已於7月3日18時20分前後在海南省陵水黎族自治縣椰林鎮沿海地區登陸。受颱風“美莎克”外圍環流影響，未來24小時內，海南島西南部仍有強風雨影響。記者從廣西氣象部門獲悉，颱風“美莎克”預計於4日凌晨移入北部灣，並於4日晚在廣西沿海至越南北部一帶再次登陸。受其影響，3日至6日，廣西將有強風雨天氣，北部灣海面最大陣風10至11級，沿海及桂南地區局地有特大暴雨。目前，廣西已將重大氣象災害（颱風）應急響應提升至Ⅲ級。（新華社）"
-    },
-    {
-      "id": "mkt:019f28d5-68be-7aab-8c99-69c0e75aaa47",
-      "time": "2026-07-04 00:35:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Axios reported President Trump spoke by phone with Israeli Prime Minister Netanyahu today; the Israeli prime minister’s office said they agreed to meet in the U.S. soon."
     }
   ]
 }
