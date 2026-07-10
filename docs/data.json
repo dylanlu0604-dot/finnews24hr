@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-11 04:23:00",
-  "count": 16216,
+  "updated": "2026-07-11 04:26:49",
+  "count": 16219,
   "items": [
+    {
+      "id": "mkt:019f4db5-6a82-7aab-8d3a-04420b61267d",
+      "time": "2026-07-11 04:26:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Court filings show Apple (AAPL.O) has sued OpenAI, alleging misappropriation of trade secrets."
+    },
+    {
+      "id": "4981914",
+      "time": "2026-07-11 04:25:26",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "法庭檔案顯示，蘋果起訴OpenAI，指控其盜用商業機密。"
+    },
+    {
+      "id": "te:markets:566130",
+      "time": "2026-07-11 04:23:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High on Strong Jobs Report — The S&P/TSX Composite Index gained 0.3% to close at 35,305, nearing its record high after a stronger-than-expected jobs report. Employment in Canada rose by 18,200 in June following an increase of 88,000 in May, while the unemployment rate unexpectedly fell to its lowest level in nearly two years. Financials traded higher, with RBC up 1%, TD Bank adding 0.7%, BMO gaining 1.1%, and Brookfield rising 1.6%. Retailers also posted gains, with ATD up 0.8% and Loblaw adding 1.2%. In the tech sector, Constellation Software gained 2.4% after SK Hynix raised $26.5 billion in its American depositary receipt offering, delivering the largest-ever US first-time stock sale by a foreign company. In contrast, mining stocks declined as gold prices moved lower. Agnico Eagle lost 1.6%, Barrick shed 0.6%, and Franco-Nevada fell 1.4%."
+    },
+    {
+      "id": "mkt:019f4db3-20af-7aab-8d39-ff581da87a67",
+      "time": "2026-07-11 04:23:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Tehran, on a responsible basis, has not rejected a regional mediator's request to visit and hold talks on recent developments."
+    },
+    {
+      "id": "mkt:019f4db2-a942-7aab-8d39-f15cff9b547e",
+      "time": "2026-07-11 04:23:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Foreign Ministry spokesman Baqaei said Iran is determined to ensure maritime traffic safety in the Strait of Hormuz and will continue cooperating with Oman."
+    },
     {
       "id": "4981913",
       "time": "2026-07-11 04:22:25",
@@ -147895,23 +147951,6 @@
         "國際"
       ],
       "text": "【俄總統新聞秘書：普京宣佈俄軍“完全解放”盧甘斯克】俄羅斯總統新聞秘書佩斯科夫當地時間3日晚在臨時召開的新聞釋出會上介紹，俄總統普京宣佈俄軍已“完全解放”盧甘斯克並在頓涅茨克取得重大進展。 佩斯科夫當晚還宣佈，俄軍已完全佔領康斯坦丁諾夫卡市。（新華社）"
-    },
-    {
-      "id": "4970110",
-      "time": "2026-07-04 04:23:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：人工智慧（AI）是生產力和收益的來源。但該技術也構成了“重大風險”。大約十年來，我們一直在討論網路安全風險、駭客攻擊、資料盜竊等問題。但隨著AI模型的加速和深化，我們面臨的風險要嚴重得多，因為這一切發生得非常快，而且相應的防禦手段以及所需資金仍然沒有準備充分。"
-    },
-    {
-      "id": "4970109",
-      "time": "2026-07-04 04:23:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最大電網運營商PJM表示，7月2日電力需求或創歷史新高。"
     }
   ]
 }
