@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-10 08:04:30",
+  "updated": "2026-07-10 09:53:48",
   "items": [
+    {
+      "id": "2026071009",
+      "date": "2026-07-10",
+      "run_hour": 9,
+      "started_at": "2026-07-10 09:53:27",
+      "finished_at": "2026-07-10 09:53:48",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 8,
+      "failure_count": 4,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "factset",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉AI熱潮蓋過中東戰火 費半彈升超3% SK海力士赴美IPO受矚 | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6529743",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-09",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260710_Global_AI_Bubble_Markets_Equity.pdf",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=5szUR4eB7Pc! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. Ways to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-09",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/224071",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607100734552461.shtml",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-09-2026/",
+          "expected_date": "2026-07-09",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport10Jul2026.pdf",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260710.pdf",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        }
+      ]
+    },
     {
       "id": "2026071008",
       "date": "2026-07-10",
