@@ -1,7 +1,45 @@
 {
   "date": "2026-07-11",
-  "count": 330,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:019f4dc9-c87c-7aab-8d3a-254347b675a1",
+      "time": "2026-07-11 04:48:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple sues OpenAI alleging theft of trade secrets】Apple Inc. (AAPL.O) filed suit in U.S. court alleging OpenAI obtained unpublished product information — including design drawings, parts specifications and engineering documents — via former Apple employees to develop AI hardware. Apple says OpenAI and its head of hardware, Tang Tan, were involved and is seeking an injunction to stop the conduct and an order to destroy the alleged confidential materials. Tang, who led hardware development for iPhone, Apple Watch and AirPods, left Apple in 2024 to join AI hardware startup io Products, which OpenAI acquired for $6.5 billion. Apple said it had previously worked with OpenAI to integrate ChatGPT into Apple Intelligence and Siri but relations soured amid AI-hardware competition and talent recruitment; Apple says more than 400 former employees have joined OpenAI."
+    },
+    {
+      "id": "mkt:019f4dc7-c14a-7aab-8d3a-1b9562efa2cf",
+      "time": "2026-07-11 04:46:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department said Secretary of State Rubio spoke with Saudi foreign minister Faisal."
+    },
+    {
+      "id": "4981918",
+      "time": "2026-07-11 04:45:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴能源部：全國電力系統全面癱瘓。"
+    },
+    {
+      "id": "4981917",
+      "time": "2026-07-11 04:45:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧與沙特外交大臣舉行會談。"
+    },
     {
       "id": "te:economy:566133",
       "time": "2026-07-11 04:45:06",
