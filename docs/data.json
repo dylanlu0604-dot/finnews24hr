@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-10 14:07:53",
-  "count": 15795,
+  "updated": "2026-07-10 14:11:45",
+  "count": 15787,
   "items": [
+    {
+      "id": "4980417",
+      "time": "2026-07-10 14:10:53",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【新華社：韓國股市為何“漲得快、跌得也快”】首先，指數高度依賴少數龍頭企業。三星電子和SK海力士兩家公司市值佔KOSPI權重超過四成，意味著兩家公司股價漲跌，很大程度上決定指數走勢。當市場集中押注AI產業時，指數上漲速度明顯快於大多數個股；一旦資金撤離相關板塊，市場則易出現同步下跌。\n\n其次，近年來大量資金透過單一股票交易型開放式指數基金（ETF）進一步放大市場波動。這類產品在韓國市場追蹤三星電子或SK海力士單一股票，並將每日漲跌幅放大兩倍。例如，股票上漲5%，ETF產品理論上漲幅約為10%；反之亦然。業內人士指出，這類產品能夠在上漲行情中放大收益，但當市場反覆震盪時，由於每天都需調整倉位，即使標的股價和最初買入時持平，投資者也可能出現明顯虧損，遭受“波動損耗”。\n\n近期韓國市場震盪加劇後，多隻ETF價格跌破發行價，總規模較高點縮水近3萬億韓元（1美元約合1512韓元）。\n\n此外，本輪行情還吸引了大量個人投資者藉助融資融券和槓桿產品入市，使市場對訊息面的反應更加敏感，短期波動進一步放大。"
+    },
+    {
+      "id": "mkt:019f4aa5-8a54-7aab-8d29-81b31e79c050",
+      "time": "2026-07-10 14:09:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【ChiNext Index falls more than 3%】ChiNext Index fell more than 3%; Shenzhen Component down 1.29% and Shanghai Composite down 0.4%. STAR 50 Index fell over 3%. More than 1,500 stocks declined across the A-share market."
+    },
+    {
+      "id": "4980416",
+      "time": "2026-07-10 14:08:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.00%，現報3897.440點；上證指數跌0.36%，現報4022.081點；深證成指跌1.26%，現報15205.114點。"
+    },
+    {
+      "id": "4980415",
+      "time": "2026-07-10 14:08:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.03%，成分股中，晶合整合跌14.18%，華潤微跌9.95%，芯原股份跌8.37%，芯聯整合跌8.35%。"
+    },
+    {
+      "id": "te:economy:565908",
+      "time": "2026-07-10 14:07:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "German Inflation Confirmed at 4-Month Low of 2.6% in May — Germany’s annual inflation rate slowed to 2.3% in June 2026, confirming preliminary estimates and down from 2.6% in May. It was the lowest rate since February, as goods inflation fell to 1.7% from 2.2%, driven by easing energy price pressures (3.4% vs. 6.6%). Motor fuel costs rose 11.3% (vs. 18.0% in May), while heating oil prices climbed 29.4% (vs. 47.9%). Food inflation and services inflation remained steady at 0.4% and 3.1%, respectively, while core inflation, which excludes food and energy, held at 2.5%. On a monthly basis, consumer prices fell 0.3% in June, matching preliminary estimates. The EU-harmonized annual inflation rate also slowed to 2.4% from 2.7%, though it remained slightly above the ECB's 2% target."
+    },
+    {
+      "id": "mkt:019f4aa3-a58b-7aab-8d29-7ab27d6fb52f",
+      "time": "2026-07-10 14:07:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatically detected an earthquake of about magnitude 3.1 at 14:05 on July 10 near Gao County, Yibin, Sichuan (28.53°N, 104.67°E); final parameters are subject to the formal rapid report."
+    },
+    {
+      "id": "4980414",
+      "time": "2026-07-10 14:07:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晉江火災鞋廠樓頂大量鞋楦被完全燒焦】昨天（7月9日），福建晉江陳埭鎮江頭村輝騰鞋業有限公司廠房發生火災。記者今天從當地召開的新聞釋出會上瞭解到，目前事故已造成28人遇難，相關部門正全力調查事故原因。總檯記者在現場瞭解到，火災發生時，很多工廠工人被困輝騰鞋業工廠樓頂。目前，樓頂堆放的大量雜物已被燒到幾乎辨認不出形狀，透過殘存的單個鞋楦能看到燃燒完的鞋楦形狀，它們是製鞋中要用到的工具，現在已完全燒焦。（央視新聞）"
+    },
     {
       "id": "4980413",
       "time": "2026-07-10 14:06:50",
@@ -144103,142 +144171,6 @@
         "其他"
       ],
       "text": "巴基斯坦央行公佈的資料顯示，第三季度GDP增長率為4%。"
-    },
-    {
-      "id": "4969020",
-      "time": "2026-07-03 14:11:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翌晶能源完成數千萬元Pre-A輪融資】7月3日，上海翌晶能源技術有限公司（簡稱“翌晶能源”）宣佈完成數千萬元Pre-A輪融資，本輪戰略融資由萬幫數字能源旗下科創投資平臺創星聚能與Starcharge共同完成。本輪融資將主要用於翌晶能源常州生產基地產能擴建、上海總部及研發中心升級、團隊擴張以及國內外示範工程專案建設。"
-    },
-    {
-      "id": "mkt:019f269a-a0d0-7aab-8c8c-c276e0c74975",
-      "time": "2026-07-03 14:11:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's FTSE Straits Times Index rose 0.5% to a record high of 5,241.99."
-    },
-    {
-      "id": "mkt:019f269a-6cc2-7aab-8c8c-be37c4fb5f87",
-      "time": "2026-07-03 14:11:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "002594.SZ",
-        "Impact bullish",
-        "601633.SS",
-        "000957.SZ"
-      ],
-      "text": "A-share auto OEM sector firmed amid choppy trading; JAC Motors and BYD rose over 5%, Zhongtong Bus gained more than 3%, SERES and Great Wall Motor also advanced."
-    },
-    {
-      "id": "4969019",
-      "time": "2026-07-03 14:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "4969018",
-      "time": "2026-07-03 14:10:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國團隊憑電池回收新技術獲2026年歐洲發明家獎】總部設在德國慕尼黑的歐洲專利局2日在柏林舉行頒獎典禮，公佈2026年歐洲發明家獎獲獎名單。中國發明家餘海軍、謝英豪憑藉智慧電池回收相關發明，榮獲2026年歐洲發明家獎（“非歐洲專利局成員國獎”類別），並同時獲得本屆歐洲發明家獎“人氣獎”。（新華社）"
-    },
-    {
-      "id": "mkt:019f2699-a83b-7aab-8c8c-b3dafc110b28",
-      "time": "2026-07-03 14:10:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【French health minister: at least 2,025 excess deaths nationwide during June 18-28 heatwave】On July 3, French Health Minister Stéphanie Rist said preliminary data from Public Health France show at least 2,025 excess deaths nationwide during the June 18-28 heatwave. Rist cautioned the figure is provisional and does not yet include all regional data; a final assessment will be published after the summer."
-    },
-    {
-      "id": "4969017",
-      "time": "2026-07-03 14:10:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【汽車整車板塊震盪走強】汽車整車板塊震盪走強，江淮汽車、福田汽車、宇通客車、比亞迪、千里科技均漲超5%。相關ETF方面，智慧汽車ETF富國（515250）漲3.81%，成交額3047.23萬元，汽車零部件ETF華夏（562700）漲5.68%，成交額2959.39萬元。"
-    },
-    {
-      "id": "4969014",
-      "time": "2026-07-03 14:10:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴基斯坦央行行長賈米爾稱該國經濟正逐步好轉。"
-    },
-    {
-      "id": "4969013",
-      "time": "2026-07-03 14:09:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股指<.STI>一度上漲0.5%，觸及5,241.99點的紀錄高位。"
-    },
-    {
-      "id": "4969012",
-      "time": "2026-07-03 14:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國衛生部長：6月熱浪期間全法至少出現2025例超額死亡】當地時間7月3日，法國衛生部長斯特凡妮·里斯特表示，根據法國公共衛生署的初步統計，6月18日至28日熱浪期間，法國全國至少出現2025例超額死亡。里斯特表示，目前這一數字仍為初步統計結果，尚未彙總全部地區資料，最終評估結果將在今年夏季結束後公佈。（央視新聞）"
-    },
-    {
-      "id": "4969011",
-      "time": "2026-07-03 14:09:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電機：截至2040年將在釜山投資15萬億韓元，用於建設人工智慧資料中心封裝基板與多層瓷介電容器（MLCC）母生產線。"
-    },
-    {
-      "id": "4969010",
-      "time": "2026-07-03 14:09:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "現代汽車：將在韓國向自動駕駛出行、汽車零部件生產、製造業人工智慧以及航空航天領域投資42萬億韓元。"
-    },
-    {
-      "id": "4969009",
-      "time": "2026-07-03 14:09:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓元收復跌幅，韓國市場靜待海力士外匯資金流入。"
-    },
-    {
-      "id": "mkt:019f2698-1c22-7aab-8c8c-af5a02f196b0",
-      "time": "2026-07-03 14:08:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor equipment sector rebounded in the afternoon; Yitang shares jumped over 8%, while Huafeng Measurement & Control, Zhongwei (AMEC), Changchuan Technology, Xianfeng Jingke and Shengmei Shanghai also advanced."
-    },
-    {
-      "id": "mkt:019f2697-abad-7aab-8c8c-a54a783766b6",
-      "time": "2026-07-03 14:08:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Ukraine reports 30 dead after strikes on Kyiv】Ukraine's State Emergency Service said on July 3 that deaths from Russia's large-scale strikes on Kyiv on July 2 have risen to 30."
     }
   ]
 }
