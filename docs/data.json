@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-10 08:01:23",
-  "count": 15870,
+  "updated": "2026-07-10 08:05:16",
+  "count": 15876,
   "items": [
+    {
+      "id": "te:markets:565818",
+      "time": "2026-07-10 08:04:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Poised to End Week Little Changed — Gold steadied above $4,100 an ounce on Friday and was on track to finish the volatile week little changed, as investors continued to assess developments in the Middle East and their potential impact on inflation and monetary policy. Reports indicated that the US and Iran will continue peace talks despite a recent escalation in hostilities that disrupted energy flows through the Strait of Hormuz and renewed concerns over inflation. US forces carried out strikes on targets in Iran over two days in response to recent attacks on vessels in Hormuz, prompting retaliatory strikes by Tehran on US bases across the region. Markets continue to expect the Federal Reserve to raise interest rates at least once this year, although the policy outlook remains highly uncertain. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence."
+    },
+    {
+      "id": "4979904",
+      "time": "2026-07-10 08:04:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.1%，報8,756.90點。"
+    },
+    {
+      "id": "4979903",
+      "time": "2026-07-10 08:04:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "MINIMAX：債券可按初步轉換價每股A類股份335.00港元轉換為A類股份。"
+    },
+    {
+      "id": "4979902",
+      "time": "2026-07-10 08:03:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：CDU技術路徑演進 電子遮蔽泵迎歷史性替換拐點】中信證券指出，機櫃功率密度提升、液冷成標配、海外准入機制放寬及技術路線更迭，正共同驅動液冷泵行業發展。從產業鏈看，迴圈泵作為CDU的核心動力裝置，據測算其佔總BOM的20%—30%，直接決定系統的流量與執行穩定性。液冷泵並非基礎通用硬體製造，其准入門檻高度依賴多學科協同開發與長週期可靠性驗證，業內具備實質供應能力的企業有限。隨著機械泵向遮蔽泵的技術替代加速，具備絕對密封、高無故障執行時間、定製開發能力及核心客戶驗證履歷的供應商，將確立顯著的競爭優勢。"
+    },
+    {
+      "id": "4979901",
+      "time": "2026-07-10 08:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "MINIMAX：擬根據一般授權同步發行65億港元於2027年到期之零息有擔保可轉換債券。"
+    },
+    {
+      "id": "mkt:019f4955-834c-7aab-8d22-a9f0d2aa718a",
+      "time": "2026-07-10 08:02:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI opened on Friday, July 10, up 224.71 points, or 3.08%, at 7,516.62."
+    },
+    {
+      "id": "mkt:019f4955-6f71-7aab-8d22-a461dbcd4b57",
+      "time": "2026-07-10 08:02:43",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 528.06 points higher (+0.78%) at 68,271.91 on Friday, July 10."
+    },
+    {
+      "id": "4979900",
+      "time": "2026-07-10 08:02:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "MINIMAX：配售價為每股配售股份268.00港元。"
+    },
+    {
+      "id": "4979899",
+      "time": "2026-07-10 08:02:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SEVEN & I 股價在財報釋出後下跌 2.4%。"
+    },
+    {
+      "id": "4979898",
+      "time": "2026-07-10 08:02:12",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：建議關注核電核島裝置、閥門、特材、主泵等材料企業】中信證券指出，AI需求引發全球核電行業全面復興，國核心電已進入常態化核准及建設高峰期。先進反應堆為核電高成長方向，小堆有望成為資料中心供能最優解及電力出海最優解決方案之一，為核電板塊帶來估值重估。投資方向上建議關注核電核島裝置、閥門、特材、主泵等材料企業。"
+    },
+    {
+      "id": "4979897",
+      "time": "2026-07-10 08:01:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價漲幅超4%。"
+    },
+    {
+      "id": "4979896",
+      "time": "2026-07-10 08:01:11",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：預計在核心CPI出現超預期改善前 債市對通脹的定價可能難有增量】中信證券指出，原油價格下跌的影響逐漸顯現，6月PPI環比轉負，但同比讀數在低基數效應的作用下延續回升至+4.1%，PPI的表現基本符合市場預期。據計算，石油化工相關行業影響6月PPI環比下降0.3個百分點，但另一方面煤炭、電子、鋼鐵等行業貢獻了一定的向上增長動能形成對沖。6月CPI同比下滑至1.0%，低於市場一致預期，核心CPI連續兩個月下跌，原油與金價下跌或為當月CPI偏弱的核心驅動因素。核心CPI分項中，旅遊、酒類、家用器具CPI的表現偏弱，醫療服務、通訊工具CPI表現較強。向後看，6月PPI同比可能已經觸頂，後續PPI同比或將進入溫和下行通道，提示關注下半年工業企業利潤增速或將存在一定下行風險。債市策略方面，資料公佈後10年期國債活躍券收益率快速上行0.4bp，或是對PPI同比繼續上行的定價，但調整幅度整體有限。展望年內剩餘時段，預計在核心CPI出現超預期改善前，債市對通脹的定價可能難有增量。"
+    },
+    {
+      "id": "4979895",
+      "time": "2026-07-10 08:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士股價漲幅超5％，三星電子股價漲幅超4％。"
+    },
     {
       "id": "4979894",
       "time": "2026-07-10 08:00:41",
@@ -144892,68 +145005,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數早盤上漲0.4%，報8,759.60點。"
-    },
-    {
-      "id": "4968441",
-      "time": "2026-07-03 08:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "ANTHROPIC公佈關於FABLE 5網路防護的更多細節，稱無意阻礙網路安全相關活動。"
-    },
-    {
-      "id": "4968440",
-      "time": "2026-07-03 08:04:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報61.68美元/盎司。"
-    },
-    {
-      "id": "mkt:019f2549-c4de-7aab-8c86-15f3fef7088a",
-      "time": "2026-07-03 08:03:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI turned negative after an early-session gain of 1.4%."
-    },
-    {
-      "id": "4968439",
-      "time": "2026-07-03 08:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲各方避免刺激中東緊張局勢升級】當地時間2日，聯合國安理會舉行中東局勢緊急公開會。針對近期美國和伊朗軍事對抗再度升級，中方代表在會上呼籲各方避免威脅言論和軍事冒險行動，避免刺激緊張局勢升級。中國常駐聯合國代表傅聰在發言中表示，最近美國和伊朗發生新一輪相互襲擊，巴林和科威特境內目標遭到波及。中方一貫主張，各方都應遵守《聯合國憲章》宗旨和原則，反對在國際關係中使用或威脅使用武力。中方呼籲各方保持冷靜剋制，避免採取威脅言論和軍事冒險行動，避免刺激緊張局勢升級。中方同時強調，中東地區各國主權、安全和領土完整都應得到尊重，平民和非軍事目標都應得到保護。"
-    },
-    {
-      "id": "mkt:019f2548-579a-7aab-8c86-0d1e929f3260",
-      "time": "2026-07-03 08:02:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal, citing sources, reported U.S. Defense Secretary Hegseth intended to announce further cuts to U.S. forces in Europe at last month’s NATO defense ministers meeting in Brussels, but the plan was vetoed."
-    },
-    {
-      "id": "4968438",
-      "time": "2026-07-03 08:01:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“醫保找藥”功能上線 覆蓋全國所有定點醫療機構、零售藥店 】為進一步提升醫保服務便捷性，國家醫保局依託全國統一的醫保資訊平臺開發了“醫保找藥”功能，幫助參保群眾更便捷查詢醫保藥品及商保創新藥在哪裡可以買得到，讓參保群眾購藥更高效、更透明、更省心。 “醫保找藥”功能可以便捷查詢某種藥一個月內在哪家醫保定點醫療機構或定點藥店有過結算記錄，並實現每日資料更新。功能覆蓋了全國所有定點醫療機構和定點零售藥店，且支援醫保藥品及創新藥的模糊查詢和精準檢索。"
-    },
-    {
-      "id": "mkt:019f2548-16e9-7aab-8c86-032fe1527bba",
-      "time": "2026-07-03 08:01:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI opened 107.5 points higher, up 1.41%, at 7,755.59 on Friday, July 3. Samsung Electronics rose over 2%; SK Hynix gained about 1%."
     }
   ]
 }
