@@ -1,7 +1,120 @@
 {
   "date": "2026-07-11",
-  "count": 207,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:019f4d4c-e543-7aab-8d38-d1ed2984c436",
+      "time": "2026-07-11 02:31:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $71.41 a barrel, down $0.67 or 0.93%."
+    },
+    {
+      "id": "mkt:019f4d4c-d3ce-7aab-8d38-ccb288f9eb9e",
+      "time": "2026-07-11 02:31:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.56% to 896 yuan/gram, SHFE silver main contract fell 0.58% to 14,589 yuan/kg, and SC crude oil main contract fell 1.07% to 464 yuan/barrel."
+    },
+    {
+      "id": "4981853",
+      "time": "2026-07-11 02:31:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "WTI 8月原油期貨收跌0.67美元，跌幅0.93%，報71.41美元/桶。中東Abu Dhabi Murban原油期貨跌0.99%，報70.66美元/桶，本週累漲6.29%。NYMEX 8月天然氣期貨收報2.94美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9846美元/加侖，NYMEX 8月取暖油期貨收報3.5533美元/加侖。"
+    },
+    {
+      "id": "4981852",
+      "time": "2026-07-11 02:31:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部鎖定伊朗最高領袖核心資金支持者實施制裁。"
+    },
+    {
+      "id": "4981851",
+      "time": "2026-07-11 02:30:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶71.41美元，下跌67美分，跌幅0.93%。"
+    },
+    {
+      "id": "mkt:019f4d4b-8e04-7aab-8d38-c023929fc826",
+      "time": "2026-07-11 02:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.34% at 895.57 yuan/gram in the evening session on Friday, July 10; Shanghai Gold Exchange silver T+D closed down 0.69% at 14,535.0 yuan/kilogram."
+    },
+    {
+      "id": "te:markets:566123",
+      "time": "2026-07-11 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 2.53% — Top crypto gainers are Ether (2.53%), Binance (1.38%) and Bitcoin (1.05%)."
+    },
+    {
+      "id": "4981850",
+      "time": "2026-07-11 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.35%，報467.20元人民幣/桶。滬金夜盤收跌0.56%，滬銀收跌0.58%。"
+    },
+    {
+      "id": "4981849",
+      "time": "2026-07-11 02:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普背書扎克・萊恩參選艾奧瓦州州長。"
+    },
+    {
+      "id": "4981848",
+      "time": "2026-07-11 02:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：卡達傾向承辦下一輪瑞士談判。"
+    },
+    {
+      "id": "mkt:019f4d4a-633e-7aab-8d38-b8d8bec479cc",
+      "time": "2026-07-11 02:29:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Small refinery fire in western Iran】A small refinery in Pol-e Dokhtar, Lorestan province in western Iran caught fire at about 17:00 local time, producing heavy smoke. Large quantities of flammable materials on site made the blaze intense and impeded firefighting; rescue teams were unable to approach the core area in the first hours. Firefighters and emergency crews remain on scene and firefighting operations are ongoing."
+    },
+    {
+      "id": "mkt:019f4d4a-05a1-7aab-8d38-b5cc19831a68",
+      "time": "2026-07-11 02:28:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports Qatar prefers Switzerland as the venue for upcoming U.S.-Iran talks."
+    },
     {
       "id": "4981847",
       "time": "2026-07-11 02:25:50",
