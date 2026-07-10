@@ -1,7 +1,123 @@
 {
-  "updated": "2026-07-10 22:36:19",
-  "count": 15979,
+  "updated": "2026-07-10 22:40:31",
+  "count": 15985,
   "items": [
+    {
+      "id": "mkt:019f4c78-29b8-7aab-8d35-2f174d3df2b1",
+      "time": "2026-07-10 22:39:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK chairman Chey Tae-won said the group currently has sufficient funds to support SK Hynix."
+    },
+    {
+      "id": "mkt:019f4c78-0509-7aab-8d35-2732b52b2d8c",
+      "time": "2026-07-10 22:39:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The UK's permanent representative to the UN said the memorandum of understanding between the US and Iran means Iran will not acquire nuclear weapons."
+    },
+    {
+      "id": "4981583",
+      "time": "2026-07-10 22:39:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉漲。"
+    },
+    {
+      "id": "mkt:019f4c77-e271-7aab-8d35-1c1282bfdafc",
+      "time": "2026-07-10 22:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK Group chairman Choi Tae-won said he hopes to expand the firm's ADR issuance after achieving good returns."
+    },
+    {
+      "id": "4981582",
+      "time": "2026-07-10 22:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： 目前我們有充足資金支援 SK 海力士。"
+    },
+    {
+      "id": "4981581",
+      "time": "2026-07-10 22:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普10日稱，伊朗要求繼續談判，美方已同意。（新華社）"
+    },
+    {
+      "id": "4981580",
+      "time": "2026-07-10 22:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "薩巴集團正與兩家英國物業管理商洽談共享辦公合作模式。"
+    },
+    {
+      "id": "4981579",
+      "time": "2026-07-10 22:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰航空確認一航班上週五降落香港期間復飛時機尾觸地，所有人安全】據香港電臺7月10日報道，國泰航空確認，上週五一由東京成田機場飛往香港的航班，在天氣情況欠佳下，於香港降落期間進行復飛時，機身尾部接觸跑道表面。事件中所有乘客和機組人員均安全，無受傷報告。國泰說，有關客機屬空中巴士A330-300型，航班隨後安全降落香港國際機場，並如常滑行到停機位，所有乘客自行離開機艙。國泰表示，工程團隊正進行全面檢查，會在航機重新投入服務前完成所需的維修工作。"
+    },
+    {
+      "id": "4981578",
+      "time": "2026-07-10 22:38:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK集團董事長崔泰源：人工智慧行業擴張浪潮意味著“當下正是我們發展的黃金時期”。"
+    },
+    {
+      "id": "4981577",
+      "time": "2026-07-10 22:37:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團會長表示，待收益表現向好後計劃擴大美國存託憑證（ADR）發行規模。"
+    },
+    {
+      "id": "4981576",
+      "time": "2026-07-10 22:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國安理會成員國在緊急會議上譴責伊朗。"
+    },
+    {
+      "id": "4981575",
+      "time": "2026-07-10 22:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團會長：我們等待赴美上市已有15年。"
+    },
+    {
+      "id": "4981574",
+      "time": "2026-07-10 22:35:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "油價飆升，美國國債下跌。"
+    },
     {
       "id": "4981573",
       "time": "2026-07-10 22:35:33",
@@ -145642,75 +145758,6 @@
         "國際"
       ],
       "text": "【白宮前顧問：特朗普政府不會設立AI審批監管機構】特朗普政府離任的人工智慧顧問表示，總統不會出臺一套正式的人工智慧許可監管體系；即便白宮正動用緊急行政權力，限制頂尖前沿大模型落地。斯里拉姆・克里希南上月卸任白宮相關職務後，首次接受深度專訪時稱：“美國不會設立類似食品藥品監督管理局（FDA）的人工智慧專職監管機構。”他補充道：“本屆政府、總統從上任第一天起，就反對繁重、苛刻、官僚化的繁文縟節。我們不會去充當行業裁判，人為劃定企業輸贏。”克里希南表示，如果設立集中式監管機構，要求企業配齊大量法務人員才能釋出 AI 模型，只會給人工智慧產業變革 “添堵、拖慢發展節奏”。“在特朗普總統任內，這種監管模式絕對不會落地。”此番表態釋出數週前，美國政府出於國家安全考量出臺前所未有的干預措施：強制 Anthropic 撤回其最強模型 Mythos，並暫緩 OpenAI 5.6 大模型的釋出計劃。"
-    },
-    {
-      "id": "4969952",
-      "time": "2026-07-03 22:40:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國反壟斷機構：正密切監控石油市場有無價格操縱行為】據美國哥倫比亞廣播公司（CBS），美國反壟斷監管機構週五表示，他們正在密切監控石油市場是否存在潛在的價格操縱或市場壟斷行為，並敦促各州總檢察長協助調查違法行為。“近期原油價格的波動並不意味著反壟斷法或州消費者保護法可以被無視，也不可以允許企業操縱零售價格或與競爭對手串通，”司法部和聯邦貿易委員會官員在一封致各州的信函中表示。他們補充道：“企業不得利用市場波動作為掩護，從事反競爭行為、欺詐或其他任何損害美國民眾利益的違法行為。”在信中，負責反壟斷部門的司法部副部長斯坦利·伍德沃德和聯邦貿易委員會主席安德魯·弗格森還建議，各州可以協助打擊哄抬物價行為。"
-    },
-    {
-      "id": "mkt:019f286c-29f0-7aab-8c97-d774ee4b142d",
-      "time": "2026-07-03 22:40:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【US antitrust agencies monitoring oil market for potential price manipulation】CBS reported the DOJ and FTC said on Friday they are closely monitoring the oil market for possible price manipulation or monopolistic conduct and urged state attorneys general to assist investigations. In a letter to states, DOJ Deputy Assistant Attorney General Stanley Woodward and FTC Chair Andrew Ferguson said recent crude price volatility does not excuse violations of federal antitrust or state consumer protection laws, nor permit firms to manipulate retail prices or collude. They warned firms must not use market volatility as cover to engage in anti-competitive conduct, fraud or other illegal acts that harm Americans, and said states can help combat price-gouging."
-    },
-    {
-      "id": "4969951",
-      "time": "2026-07-03 22:39:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽授予Harvest CLO XXXII DAC再融資債券最終評級；確認F級債券評級。"
-    },
-    {
-      "id": "mkt:019f286a-65a1-7aab-8c97-cee5e2709576",
-      "time": "2026-07-03 22:38:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Saudi delegation led by the deputy foreign minister attended the funeral of former Iranian supreme leader Khamenei."
-    },
-    {
-      "id": "4969950",
-      "time": "2026-07-03 22:37:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "安盛集團（AXA Group）首席經濟學家Gilles Moec：美國勞動力市場的基本面尚可，儘管其對利率政策是否會出現分歧不太確定。“美國的通脹問題比歐洲嚴重得多。美國的貨幣政策已經具有限制性，而歐洲則不然。因此，你可以認為他們兩者要做的就是維持現狀。”"
-    },
-    {
-      "id": "mkt:019f2869-1a10-7aab-8c97-c28e6455adea",
-      "time": "2026-07-03 22:36:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "CBS reports U.S. officials urged state governments to crack down on oil-price fraud."
-    },
-    {
-      "id": "4969949",
-      "time": "2026-07-03 22:36:33",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "安聯集團首席經濟學家Ludovic Subran：美國6月非農就業資料確實疲軟，但我仍然認為通脹峰值將高於3.7%，而且美國經濟仍有AI、財政支出和能源因素的支撐。美聯儲可能不得不在9月份加息。所以我認為這才是歐洲和美國之間的真正分歧。"
     }
   ]
 }

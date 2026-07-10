@@ -1,7 +1,123 @@
 {
   "date": "2026-07-10",
-  "count": 2700,
+  "count": 2713,
   "items": [
+    {
+      "id": "mkt:019f4c78-29b8-7aab-8d35-2f174d3df2b1",
+      "time": "2026-07-10 22:39:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK chairman Chey Tae-won said the group currently has sufficient funds to support SK Hynix."
+    },
+    {
+      "id": "mkt:019f4c78-0509-7aab-8d35-2732b52b2d8c",
+      "time": "2026-07-10 22:39:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The UK's permanent representative to the UN said the memorandum of understanding between the US and Iran means Iran will not acquire nuclear weapons."
+    },
+    {
+      "id": "4981583",
+      "time": "2026-07-10 22:39:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉漲。"
+    },
+    {
+      "id": "mkt:019f4c77-e271-7aab-8d35-1c1282bfdafc",
+      "time": "2026-07-10 22:39:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK Group chairman Choi Tae-won said he hopes to expand the firm's ADR issuance after achieving good returns."
+    },
+    {
+      "id": "4981582",
+      "time": "2026-07-10 22:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： 目前我們有充足資金支援 SK 海力士。"
+    },
+    {
+      "id": "4981581",
+      "time": "2026-07-10 22:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普10日稱，伊朗要求繼續談判，美方已同意。（新華社）"
+    },
+    {
+      "id": "4981580",
+      "time": "2026-07-10 22:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "薩巴集團正與兩家英國物業管理商洽談共享辦公合作模式。"
+    },
+    {
+      "id": "4981579",
+      "time": "2026-07-10 22:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰航空確認一航班上週五降落香港期間復飛時機尾觸地，所有人安全】據香港電臺7月10日報道，國泰航空確認，上週五一由東京成田機場飛往香港的航班，在天氣情況欠佳下，於香港降落期間進行復飛時，機身尾部接觸跑道表面。事件中所有乘客和機組人員均安全，無受傷報告。國泰說，有關客機屬空中巴士A330-300型，航班隨後安全降落香港國際機場，並如常滑行到停機位，所有乘客自行離開機艙。國泰表示，工程團隊正進行全面檢查，會在航機重新投入服務前完成所需的維修工作。"
+    },
+    {
+      "id": "4981578",
+      "time": "2026-07-10 22:38:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK集團董事長崔泰源：人工智慧行業擴張浪潮意味著“當下正是我們發展的黃金時期”。"
+    },
+    {
+      "id": "4981577",
+      "time": "2026-07-10 22:37:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SK集團會長表示，待收益表現向好後計劃擴大美國存託憑證（ADR）發行規模。"
+    },
+    {
+      "id": "4981576",
+      "time": "2026-07-10 22:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國安理會成員國在緊急會議上譴責伊朗。"
+    },
+    {
+      "id": "4981575",
+      "time": "2026-07-10 22:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團會長：我們等待赴美上市已有15年。"
+    },
+    {
+      "id": "4981574",
+      "time": "2026-07-10 22:35:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "油價飆升，美國國債下跌。"
+    },
     {
       "id": "4981573",
       "time": "2026-07-10 22:35:33",
