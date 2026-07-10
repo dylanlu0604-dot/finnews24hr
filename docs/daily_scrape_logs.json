@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-09 09:55:58",
+  "updated": "2026-07-10 08:04:30",
   "items": [
+    {
+      "id": "2026071008",
+      "date": "2026-07-10",
+      "run_hour": 8,
+      "started_at": "2026-07-10 08:04:15",
+      "finished_at": "2026-07-10 08:04:30",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 5,
+      "failure_count": 7,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "westpac",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉AI熱潮蓋過中東戰火 費半彈升超3% SK海力士赴美IPO受矚 | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6529743",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-09",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-07-08，預期日期是 2026-07-09",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-09",
+          "actual_date": "2026-07-08"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/224071",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607100734552461.shtml",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-09-2026/",
+          "expected_date": "2026-07-09",
+          "actual_date": "2026-07-09"
+        },
+        {
+          "source": "westpac",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：403 Client Error: Forbidden for url: https://www.westpaciq.com.au/topic.morningreport",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": ""
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260710.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-09，預期日期是 2026-07-10",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-10",
+          "actual_date": "2026-07-09"
+        }
+      ]
+    },
     {
       "id": "2026070909",
       "date": "2026-07-09",
