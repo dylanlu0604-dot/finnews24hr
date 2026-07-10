@@ -1,7 +1,77 @@
 {
   "date": "2026-07-10",
-  "count": 518,
+  "count": 526,
   "items": [
+    {
+      "id": "4979894",
+      "time": "2026-07-10 08:00:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.6%，至7552.49點。"
+    },
+    {
+      "id": "4979893",
+      "time": "2026-07-10 08:00:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "MINIMAX-W：根據一般授權配售35,600,000新A類股份。"
+    },
+    {
+      "id": "4979892",
+      "time": "2026-07-10 08:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報68526.72點，漲幅1.16%。"
+    },
+    {
+      "id": "4979891",
+      "time": "2026-07-10 07:59:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾集團計劃最多削減50%車型陣容，降低產品複雜度】大眾集團當地時間7月9日表示，將推進“未來計劃”，逐步精簡車型陣容，最多減少50%的車型數量，並將產品配置複雜度最高降低75%，以提升效率並集中資源開發高回報市場。大眾稱，公司將進一步整合技術平臺、電子架構和軟體體系，減少重複研發，同時調整生產體系，目標將年產能匹配至約900萬輛。集團還將聚焦汽車核心業務，最佳化投資組合，以提升資本效率。大眾表示，過去三年已完成產品、技術和區域戰略調整，並透過跨品牌績效專案抵消數十億歐元外部成本壓力。未來計劃旨在應對地緣政治、關稅、成本上升以及全球汽車競爭加劇等挑戰。"
+    },
+    {
+      "id": "te:economy:565816",
+      "time": "2026-07-10 07:59:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Japan Producer Inflation Hits Highest Since March 2023 — Japan’s producer prices rose 7.1% year-on-year in June 2026, accelerating from an upwardly revised 6.6% increase in the previous month and exceeding market expectations of a 6.8% gain. It marked the fastest annual increase since March 2023, as persistent cost pressures were fueled by higher energy prices following supply chain disruptions linked to the war in Iran. On a monthly basis, producer prices climbed 0.4%, easing from an upwardly revised 1.1% increase in May and marking the slowest monthly pace of growth in four months."
+    },
+    {
+      "id": "4979890",
+      "time": "2026-07-10 07:59:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛禁止員工參與財經與政治類預測市場押注】當地時間7月9日訊息，高盛集團近日更新了個人交易政策，嚴厲禁止員工在預測市場上對特定公司、選舉結果或金融市場表現等“事件合同”進行交易。目前，該行僅允許員工參與體育和娛樂類的博弈押注。根據高盛的最新政策檔案，員工如果屢次違反該交易禁令，可能面臨被解僱或交易賬戶被強制關閉的處罰。此外，對於不當交易，高盛有權要求員工放棄超過200美元的利潤，或將其捐贈給慈善機構。"
+    },
+    {
+      "id": "mkt:019f4952-39e4-7aab-8d22-9d111eaac726",
+      "time": "2026-07-10 07:59:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Bavi weakened to strong typhoon overnight; orange warning remains】Typhoon Bavi, the ninth of the year, weakened from super typhoon to strong typhoon overnight. At 05:00 on the 10th its center was over the northwest Pacific about 830 km southeast of Keelung, Taiwan (20.4°N, 128.0°E); maximum winds near the center were force 14. China's Central Meteorological Observatory at 06:00 maintained an orange typhoon warning."
+    },
+    {
+      "id": "4979889",
+      "time": "2026-07-10 07:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“巴威”於昨晚減弱為強颱風級 多個預警持續生效中】今年第9號颱風“巴威”於昨晚由超強颱風級減弱為強颱風級，今天（10日）5時，其中心位於臺灣省基隆市東南方大約830公里的西北太平洋洋麵上，也就是北緯20.4度、東經128.0度，中心附近最大風力有14級。中央氣象臺今天6時繼續釋出颱風橙色預警。預計，“巴威”將以每小時15～20公里的速度向西北方向移動，逐漸向浙閩沿海靠近，將於11日晚上在福建福清至浙江溫嶺一帶沿海登陸，登陸時為強颱風級或颱風級，登陸後繼續向西北方向移動，強度逐漸減弱。中央氣象臺今天6時釋出暴雨黃色預警：預計，今天8時至明天8時，內蒙古、黑龍江、吉林、遼寧、河北、北京、天津、山西、陝西、寧夏、甘肅、青海、四川、西藏、雲南、廣西、海南、浙江、臺灣等地部分地區有大到暴雨。中央氣象臺今天6時繼續釋出強對流天氣藍色預警：預計今天8時到明天8時，新疆、內蒙古、陝西、遼寧、北京、天津、甘肅、四川、臺灣等地的部分地區將有8級以上雷暴大風或冰雹天氣。自然資源部與中國氣象局昨天18時聯合釋出黃色地質災害氣象風險預警：預計當前到今天20時，黃色預警覆蓋北京北部、河北西部、山西東北部、廣東西南部、廣西南部、雲南東南部和西部、甘肅中部、青海東部等地的部分地區，發生地質災害的氣象風險較高。"
+    },
     {
       "id": "4979888",
       "time": "2026-07-10 07:56:17",
