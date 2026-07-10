@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-11 02:20:56",
-  "count": 16191,
+  "updated": "2026-07-11 02:24:47",
+  "count": 16190,
   "items": [
+    {
+      "id": "4981845",
+      "time": "2026-07-11 02:22:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【倫敦股市10日上漲】英國倫敦股市《金融時報》100種股票平均價格指數10日報收於10497.29點，較前一交易日上漲24.84點，漲幅為0.24%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：沃達豐集團股價上漲12.62%，體育博彩公司恩坦股價上漲3.92%，約翰-戴維運動時裝公司股價上漲2.92%，斯皮拉克斯集團股價上漲2.50%，潘興廣場控股公司股價上漲1.94%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：金融投資企業聖詹姆斯廣場股價下跌8.55%，阿斯利康製藥公司股價下跌3.89%，希思科保險公司股價下跌2.26%，商業服務公司能多潔公司股價下跌2.05%，企業服務外包商巴布科克國際集團股價下跌1.61%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於8338.97點，較前一交易日上漲12.35點，漲幅為0.15%；德國法蘭克福股市DAX指數報收於25067.09點，較前一交易日下跌51.18點，跌幅為0.20%。（新華社）"
+    },
     {
       "id": "te:markets:566121",
       "time": "2026-07-11 02:20:06",
@@ -147593,24 +147603,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Wool Drops by 2.01% — Top commodity losers are Wool (-2.01%) and Palm Oil (-0.58%). Gains are led by Butter (0.72%)."
-    },
-    {
-      "id": "mkt:019f2937-12a2-7aab-8c9a-431933c0718e",
-      "time": "2026-07-04 02:21:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Lagarde to personally attend next week’s Eurogroup and Ecofin meetings】European Central Bank President Christine Lagarde will attend the Eurogroup on July 9 and the EU Economic and Financial Affairs Council (Ecofin) on July 10 in Brussels, the ECB’s weekly calendar shows. The moves are atypical—such meetings are usually represented by an ECB vice‑president. Vujcic, who took office as ECB vice‑president in early June and has attended Ecofin once, is scheduled to be in Athens next Friday. Lagarde has not ruled out an early resignation to pursue French politics."
-    },
-    {
-      "id": "4970046",
-      "time": "2026-07-04 02:21:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "PJM 表示，正在執行相關運營方案，要求轄區內電力企業削減用電負荷。該供電區域覆蓋美國中大西洋地區、南部地區以及華盛頓特區，服務人口達 6700 萬。"
     }
   ]
 }
