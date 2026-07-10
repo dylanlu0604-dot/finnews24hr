@@ -1,7 +1,54 @@
 {
   "date": "2026-07-10",
-  "count": 611,
+  "count": 616,
   "items": [
+    {
+      "id": "mkt:019f497e-431e-7aab-8d23-78f1ba9cab22",
+      "time": "2026-07-10 08:47:19",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【China margin financing balances fall 3.918 bln yuan】As of July 9, margin financing on the Shanghai Stock Exchange stood at 1.47925 tln yuan, down 1.202 bln yuan from the prior trading day; Shenzhen stood at 1.44586 tln yuan, down 2.716 bln yuan; combined balance 2.92511 tln yuan, down 3.918 bln yuan."
+    },
+    {
+      "id": "4979955",
+      "time": "2026-07-10 08:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少39.18億元】截至7月9日，上交所融資餘額報14792.47億元，較前一交易日減少12.02億元；深交所融資餘額報14458.61億元，較前一交易日減少27.16億元；兩市合計29251.08億元，較前一交易日減少39.18億元。"
+    },
+    {
+      "id": "4979952",
+      "time": "2026-07-10 08:44:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌3.0個基點，至2.845%。"
+    },
+    {
+      "id": "mkt:019f497b-9274-7aab-8d23-764722bc7854",
+      "time": "2026-07-10 08:44:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 3bps to 2.845%."
+    },
+    {
+      "id": "4979951",
+      "time": "2026-07-10 08:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：高市政府重視財政可持續性。"
+    },
     {
       "id": "mkt:019f497a-e7be-7aab-8d23-690e7d57aca7",
       "time": "2026-07-10 08:43:39",

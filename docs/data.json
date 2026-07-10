@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-10 08:44:07",
-  "count": 15864,
+  "updated": "2026-07-10 08:48:00",
+  "count": 15858,
   "items": [
+    {
+      "id": "mkt:019f497e-431e-7aab-8d23-78f1ba9cab22",
+      "time": "2026-07-10 08:47:19",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【China margin financing balances fall 3.918 bln yuan】As of July 9, margin financing on the Shanghai Stock Exchange stood at 1.47925 tln yuan, down 1.202 bln yuan from the prior trading day; Shenzhen stood at 1.44586 tln yuan, down 2.716 bln yuan; combined balance 2.92511 tln yuan, down 3.918 bln yuan."
+    },
+    {
+      "id": "4979955",
+      "time": "2026-07-10 08:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少39.18億元】截至7月9日，上交所融資餘額報14792.47億元，較前一交易日減少12.02億元；深交所融資餘額報14458.61億元，較前一交易日減少27.16億元；兩市合計29251.08億元，較前一交易日減少39.18億元。"
+    },
+    {
+      "id": "4979952",
+      "time": "2026-07-10 08:44:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌3.0個基點，至2.845%。"
+    },
+    {
+      "id": "mkt:019f497b-9274-7aab-8d23-764722bc7854",
+      "time": "2026-07-10 08:44:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 3bps to 2.845%."
+    },
+    {
+      "id": "4979951",
+      "time": "2026-07-10 08:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：高市政府重視財政可持續性。"
+    },
     {
       "id": "mkt:019f497a-e7be-7aab-8d23-690e7d57aca7",
       "time": "2026-07-10 08:43:39",
@@ -144744,114 +144791,6 @@
         "其他"
       ],
       "text": "加拿大阿爾伯塔省政府：新西海岸輸油管道的設計與施工最早將於2027年9月1日啟動。"
-    },
-    {
-      "id": "4968498",
-      "time": "2026-07-03 08:47:23",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金財富期貨：6月非農就業新增5.7萬人遠低預期 黃金市場迎來反彈契機】6月非農就業新增5.7萬人，遠低於市場預期，且前兩個月資料合計下修。失業率雖降至4.2%，但主要原因是勞動力人口減少，25至34歲勞動參與人數單月驟降70萬。資料公佈後，市場對美聯儲下一步動作的預期明顯轉向\"觀望\"，黃金大幅反彈。目前美聯儲面臨的形勢是就業不過熱、通脹預期趨於溫和，這意味著整個夏天加息的機率驟然降溫，黃金市場迎來反彈契機。"
-    },
-    {
-      "id": "mkt:019f2571-c4df-7aab-8c86-e7d1fa4f7237",
-      "time": "2026-07-03 08:47:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Barclays: Japan government bond yield curve steepens amid multiple headwinds】In Tokyo morning trade, two Barclays Japan analysts said the JGB yield curve has shown clear \"bear steepening\" this week, driven by market concern the Bank of Japan may be slow to act and by worries over Japan’s fiscal outlook. Analysts said investors are likely to continue awaiting details of fiscal spending; the cabinet may decide on a draft of the government’s Basic Policies on Economic and Fiscal Management and Reform."
-    },
-    {
-      "id": "mkt:019f2571-7a42-7aab-8c86-dcad45fea046",
-      "time": "2026-07-03 08:47:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China margin financing balances fall CNY6.445bn】As of July 2, Shanghai Stock Exchange margin balance was CNY1.515 tln, down CNY4.724bn from the previous trading day; Shenzhen was CNY1.476 tln, down CNY1.721bn. Combined margin balance was CNY2.991 tln, down CNY6.445bn."
-    },
-    {
-      "id": "4968497",
-      "time": "2026-07-03 08:46:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少64.45億元】截至7月2日，上交所融資餘額報15149.64億元，較前一交易日減少47.24億元；深交所融資餘額報14761.73億元，較前一交易日減少17.21億元；兩市合計29911.37億元，較前一交易日減少64.45億元。"
-    },
-    {
-      "id": "4968496",
-      "time": "2026-07-03 08:46:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "嘉士伯印度公司秘密提交印度IPO申請。"
-    },
-    {
-      "id": "te:economy:563917",
-      "time": "2026-07-03 08:45:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Services PMI Revised Higher — Japan’s S&P Global Services PMI Business Activity Index stood at 52.2 in June 2026, higher than the flash data of 51.8 and 50.0 in the prior month. The latest reading marked the 14th expansion in the past 15 months, although the pace of growth remained modest and slightly below the average over the past year. New business rose at one of the fastest rates in nearly two years, driven by stronger domestic demand, even as export orders fell sharply. Firms expanded hiring, with employment growth accelerating, while backlogs increased at the quickest pace since March, underscoring capacity pressures. Input cost inflation surged to a four-year high on higher oil, energy, food, and labor costs, yet selling price hikes slowed compared with May, hinting at softer pass-through. Finally, business confidence stayed subdued, among the weakest since the pandemic, as companies flagged uncertainty from Middle East tensions, persistent cost burdens, and labor shortages as key risks to the outlook."
-    },
-    {
-      "id": "mkt:019f2570-2b59-7aab-8c86-d6bd761ca376",
-      "time": "2026-07-03 08:45:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "【Everbright Securities: Meta renting compute is resource optimization; expansion plans unchanged】Everbright Securities says Meta’s pilot of external compute leasing aims to monetize its large AI infrastructure investment, signaling cloud services as the fastest, clearest route to recoup upfront costs and boost near-term returns. External monetization now serves as a cash-flow backstop for continued AI-capacity buildout; Everbright says Meta’s medium- to long-term plan to expand AI compute remains unchanged."
-    },
-    {
-      "id": "4968495",
-      "time": "2026-07-03 08:45:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【光大證券：Meta算力出租是資源最佳化手段 不改中長期擴產規劃】Meta試水外部算力租賃，光大證券最新研報表示，Meta進軍雲端計算的底層邏輯，是希望為鉅額的AI基礎設施投資創造新的變現通道，側面反映出雲端計算為當前最快、最明確的收回鉅額前期投入、提高當期回報率的方式，說明對外變現能力本身已成為支撐Meta持續擴大AI投資的現金流保證。Meta中長期持續加碼AI算力的整體規劃並未轉向。"
-    },
-    {
-      "id": "4968494",
-      "time": "2026-07-03 08:45:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：Trans Mountain Corporation將負責管道規劃與建設。"
-    },
-    {
-      "id": "mkt:019f256f-da25-7aab-8c86-cea52ba31fef",
-      "time": "2026-07-03 08:45:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Canada's prime minister Carney said he has reached an agreement with Alberta that the preferred route for a new pipeline is southbound through the mountain corridor to the Pacific coast. The Canadian government, Alberta and an oil-sands alliance have agreed terms to launch the 'Path Project'."
-    },
-    {
-      "id": "te:economy:563916",
-      "time": "2026-07-03 08:44:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Singapore Private Sector Growth Picks Up in June — Singapore’s S&P Global PMI rose to 57.4 in June 2026 from 56.7 in May, signaling another notable improvement in operating conditions. The expansion was primarily driven by sustained growth in new orders, supported by strong domestic demand, although output growth eased. The gap between output and new orders led to a significant increase in backlogs of work, which encouraged firms to expand their workforce, ending a two-month period of job shedding. Companies also increased their purchasing activity, allowing them to build up input inventories, resulting in a similarly sharp rise in pre-production stocks. In addition, vendors continued to keep pace with demand, as reflected in a third consecutive monthly improvement in suppliers’ delivery times. On the pricing front, input cost inflation reached a new survey high, while purchase price inflation eased for the first time in eight months. Finally, business confidence for the next 12 months improved noticeably."
     }
   ]
 }
