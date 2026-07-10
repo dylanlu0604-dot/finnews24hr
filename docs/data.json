@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-11 03:56:12",
-  "count": 16203,
+  "updated": "2026-07-11 04:00:02",
+  "count": 16204,
   "items": [
+    {
+      "id": "mkt:019f4d9c-314e-7aab-8d39-9d66cd71526d",
+      "time": "2026-07-11 03:58:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices slip on 10th】NYMEX August WTI light sweet crude futures fell $0.67 to $71.41/bbl (-0.93%) at the close; ICE September Brent futures fell $0.29 to $76.01/bbl (-0.38%)."
+    },
+    {
+      "id": "4981893",
+      "time": "2026-07-11 03:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價10日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌67美分，收於每桶71.41美元，跌幅為0.93%；9月交貨的倫敦布倫特原油期貨價格下跌29美分，收於每桶76.01美元，跌幅為0.38%。"
+    },
+    {
+      "id": "te:markets:566127",
+      "time": "2026-07-11 03:56:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 4-week Low — Lowe's Companies shares decreased to 212.04 USD, the lowest since June 2026. Over the past 4 weeks, Lowe's Companies lost 4.04%, and in the last 12 months, it decreased 5.35%."
+    },
     {
       "id": "mkt:019f4d97-57e4-7aab-8d39-96d32011c6d6",
       "time": "2026-07-11 03:53:11",
@@ -147739,29 +147772,6 @@
         "國際"
       ],
       "text": "【極端高溫席捲美國中東部，建國 250 週年獨立日大量慶典取消】當地時間週五，一場極端高溫熱浪席捲美國中部與東部大片區域，嚴重打亂各地美國獨立日慶典安排。正值美國迎來建國 250 週年，多地官方被迫取消或推遲數十場遊行、音樂會與煙花燃放活動。華盛頓國家廣場舉辦的 “全美大型州立博覽會” 是特朗普總統主推的建國 250 週年核心紀念活動，同樣遭酷暑衝擊。週五午後當地氣溫升至 101 華氏度（38 攝氏度），博覽會臨時閉園。活動主辦方表示，若天氣條件允許，博覽會將於當日 17 時重新對外開放，並增設降溫帳篷、噴霧降溫站等防暑配套設施。美國國家氣象局稱，本週早些時候，創紀錄高溫從中西部蔓延至美國東部；週五全美超 1.85 億人處於高溫預警覆蓋範圍內，多地體感溫度峰值或將高達 115 華氏度（46 攝氏度）。"
-    },
-    {
-      "id": "4970090",
-      "time": "2026-07-04 03:59:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽峰終止收購埃克賽爾科技的談判，談判未達成任何協議。"
-    },
-    {
-      "id": "mkt:019f298e-ddd3-7aab-8c9a-e0712c71f462",
-      "time": "2026-07-04 03:57:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "【Dollar set for biggest weekly drop since April as rate-cut odds rise after softer U.S. jobs】The dollar slid sharply this week and is poised for its largest weekly decline since April after U.S. June jobs softened and markets trimmed the near-term Fed rate path; the dollar index fell about 0.5% on the week. EUR/USD rose to 1.1440, up roughly 0.5% for the week. GBP/USD climbed to 1.3352, gaining about 1.1% and marking its best weekly performance in nearly three months. USD/JPY, having retreated from near a 40-year high, fell to around 161 but remains elevated. Japanese finance and cabinet officials reiterated close market monitoring and said they stand ready to intervene in FX markets. Analysts say the dollar is clearly tracking employment data and rate expectations; further weak economic releases could extend dollar pressure, while the yen’s sustainability depends on the U.S.-Japan rate differential and any Japanese policy action."
     }
   ]
 }
