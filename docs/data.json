@@ -1,7 +1,126 @@
 {
-  "updated": "2026-07-10 09:42:02",
-  "count": 15805,
+  "updated": "2026-07-10 09:45:56",
+  "count": 15804,
   "items": [
+    {
+      "id": "mkt:019f49b3-71d2-7aab-8d24-ea8ef947ea12",
+      "time": "2026-07-10 09:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign exchange regulator said USD/KRW remains misaligned with economic fundamentals."
+    },
+    {
+      "id": "4980058",
+      "time": "2026-07-10 09:45:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6正式上線。Codex現已在ChatGPT中上線。"
+    },
+    {
+      "id": "mkt:019f49b3-49a8-7aab-8d24-e1bf7e4f10db",
+      "time": "2026-07-10 09:45:14",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "OpenAI officially launches GPT-5.6; CODEX is now available in ChatGPT."
+    },
+    {
+      "id": "4980057",
+      "time": "2026-07-10 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股CRO概念板塊異動拉昇】和元生物漲16.00%，美迪西、益諾思、百奧賽圖、百誠醫藥、凱萊英、昭衍新藥跟漲。"
+    },
+    {
+      "id": "4980056",
+      "time": "2026-07-10 09:44:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌10個基點至2.775%。"
+    },
+    {
+      "id": "4980055",
+      "time": "2026-07-10 09:43:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃板塊反覆活躍，超訊科技漲停】算力租賃板塊反覆活躍，超訊科技漲停，弘信電子、天億馬、紫光股份、朗科科技、傑創智慧跟漲。"
+    },
+    {
+      "id": "4980054",
+      "time": "2026-07-10 09:43:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "te:markets:565835",
+      "time": "2026-07-10 09:42:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Gains — The benchmark KOSPI rose more than 4% to around 7,620 on Friday, extending gains from the previous session as chipmakers tracked an overnight rally in global semiconductor stocks. Tech shares led the advance, with Samsung Electronics climbing almost 4.0%, while Samsung Electro-Mechanics advanced over 9.0%. Other notable performers included SK hynix (1.1%), SK Square (5.2%), Hyundai Motor (3.3%), LG Energy Solution (4.3%), Kia Corporation (2.1%), KB Financial Group (7.2%), and Doosan Enerbility (7.9%). Investor confidence was also supported by easing oil prices despite renewed US-Iran tensions, as reports that Iran sought negotiations helped ease concerns about prolonged supply disruptions and inflationary pressures. Additionally, President Lee Jae Myung and Mongolian President Ukhnaa Khurelsukh agreed to deepen cooperation in critical minerals, trade, and advanced technologies, reinforcing optimism over South Korea's long-term supply chain security and high-tech industries."
+    },
+    {
+      "id": "4980053",
+      "time": "2026-07-10 09:42:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%】港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%，劍橋科技、建滔積層板、瀾起科技跟漲。"
+    },
+    {
+      "id": "4980052",
+      "time": "2026-07-10 09:42:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將必和必拓目標價下調4.5%，至63.00澳元。"
+    },
+    {
+      "id": "mkt:019f49b0-8266-7aab-8d24-da21d5832fad",
+      "time": "2026-07-10 09:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 Index rose over 2%; Hehui Optoelectronics surged more than 10%, leading constituent gains."
+    },
+    {
+      "id": "4980051",
+      "time": "2026-07-10 09:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資料中心電源概念反覆活躍 中恆電氣2連板】資料中心電源概念反覆活躍，中恆電氣2連板，麥格米特漲超8%，雄韜股份、歐陸通、科華資料跟漲。"
+    },
+    {
+      "id": "mkt:019f49b0-2c78-7aab-8d24-d2e96ae139fd",
+      "time": "2026-07-10 09:41:50",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact bullish",
+        "06166.HK",
+        "01347.HK"
+      ],
+      "text": "Hong Kong optical-communications stocks jumped in choppy trade: Yangtze Optical Fibre & Cable (06869.HK) rose over 12%, Cambridge Technology (06166.HK) rose over 9%, Hua Hong Hongli (01347.HK) rose over 7%, Haiguang Xinzhen (01191.HK) rose over 4%."
+    },
     {
       "id": "4980050",
       "time": "2026-07-10 09:41:24",
@@ -144185,134 +144304,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "mkt:019f25a7-5460-7aab-8c88-a4581f2e9c0e",
-      "time": "2026-07-03 09:45:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "STAR 50 Index bounced off session lows and turned positive after earlier falling nearly 2%. Components Guobo Electronics and Jinghe Integration rose over 6%."
-    },
-    {
-      "id": "4968648",
-      "time": "2026-07-03 09:45:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國6月RatingDog綜合PMI 53.6，前值54。"
-    },
-    {
-      "id": "mkt:019f25a7-03bc-7aab-8c88-9b9b4fa92b62",
-      "time": "2026-07-03 09:45:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China June RatingDog composite PMI 53.6, down from 54.0 previously."
-    },
-    {
-      "id": "mkt:019f25a6-e382-7aab-8c88-92c9354ef08d",
-      "time": "2026-07-03 09:45:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Composite PMI (Jun) | actual 53.6 | previous 54"
-    },
-    {
-      "id": "mkt:019f25a6-ac10-7aab-8c88-8b09e55d0967",
-      "time": "2026-07-03 09:45:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "China's June RatingDog services PMI stood at 54.1, down from 54.4 previously."
-    },
-    {
-      "id": "4968647",
-      "time": "2026-07-03 09:45:06",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國6月RatingDog服務業PMI 54.1，前值54.4。"
-    },
-    {
-      "id": "mkt:019f25a6-8e37-7aab-8c88-83738a9ab331",
-      "time": "2026-07-03 09:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Services PMI (Jun) | actual 54.1 | previous 54.4"
-    },
-    {
-      "id": "4968646",
-      "time": "2026-07-03 09:44:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50探底回升翻紅】科創50探底回升翻紅，此前一度跌近2%。成分股中，國博電子、晶合整合漲超6%。"
-    },
-    {
-      "id": "4968645",
-      "time": "2026-07-03 09:44:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念震盪回升 天山電子20cm漲停】早盤儲存晶片概念震盪回升，天山電子20cm漲停，杭州柯林、西測測試、北京君正、普冉股份、德明利等衝高。"
-    },
-    {
-      "id": "4968644",
-      "time": "2026-07-03 09:44:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾納生物任命王鵬為營運長】7月3日，諾納生物宣佈任命王鵬為營運長（COO）。王鵬將常駐中國蘇州，直接向諾納生物執行長洪滌彙報。加入諾納生物之前，他曾擔任冠科生物（Crown Bioscience）生物藥及體外檢測亞太區負責人。在此之前，他曾擔任藥明康德（WuXi AppTec）抗體藥團隊負責人，並曾在羅氏（Roche）擔任資深科學家。"
-    },
-    {
-      "id": "4968643",
-      "time": "2026-07-03 09:44:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國首艘數智化改造海事公務船艇投入試用】從交通運輸部海事局瞭解到，今天（7月3日），我國首艘數智化改造的海事公務船艇“海巡14102”在深圳投入試用。“海巡14102”是一艘12米級高速艇，最高航速36節，具備較強的抗傾覆能力，能夠快速接近水上目標，日常承擔複雜水域快速響應和應急救援等高強度任務。"
-    },
-    {
-      "id": "4968642",
-      "time": "2026-07-03 09:42:53",
-      "tags": [
-        "焦點"
-      ],
-      "text": "恒生科技指數盤初漲勢擴大至2％，恒指現漲1.6％，智譜漲超8％領漲成分股。"
-    },
-    {
-      "id": "4968641",
-      "time": "2026-07-03 09:42:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永鼎股份等成立光通訊裝置公司】企查查APP顯示，近日，安徽鼎嶽光通訊裝置有限公司成立，經營範圍包含通訊裝置製造；光電子器件製造；通訊裝置銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由永鼎股份(600105)等共同持股。"
-    },
-    {
-      "id": "4968640",
-      "time": "2026-07-03 09:42:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧股走低 迅策跌近13%】截至發稿，迅策(03317.HK)跌12.76%，五一視界(06651.HK)跌6.92%，劍橋科技(06166.HK)跌3.58%。"
     }
   ]
 }

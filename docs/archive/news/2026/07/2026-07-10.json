@@ -1,7 +1,126 @@
 {
   "date": "2026-07-10",
-  "count": 754,
+  "count": 767,
   "items": [
+    {
+      "id": "mkt:019f49b3-71d2-7aab-8d24-ea8ef947ea12",
+      "time": "2026-07-10 09:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign exchange regulator said USD/KRW remains misaligned with economic fundamentals."
+    },
+    {
+      "id": "4980058",
+      "time": "2026-07-10 09:45:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6正式上線。Codex現已在ChatGPT中上線。"
+    },
+    {
+      "id": "mkt:019f49b3-49a8-7aab-8d24-e1bf7e4f10db",
+      "time": "2026-07-10 09:45:14",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "OpenAI officially launches GPT-5.6; CODEX is now available in ChatGPT."
+    },
+    {
+      "id": "4980057",
+      "time": "2026-07-10 09:45:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股CRO概念板塊異動拉昇】和元生物漲16.00%，美迪西、益諾思、百奧賽圖、百誠醫藥、凱萊英、昭衍新藥跟漲。"
+    },
+    {
+      "id": "4980056",
+      "time": "2026-07-10 09:44:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌10個基點至2.775%。"
+    },
+    {
+      "id": "4980055",
+      "time": "2026-07-10 09:43:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃板塊反覆活躍，超訊科技漲停】算力租賃板塊反覆活躍，超訊科技漲停，弘信電子、天億馬、紫光股份、朗科科技、傑創智慧跟漲。"
+    },
+    {
+      "id": "4980054",
+      "time": "2026-07-10 09:43:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "te:markets:565835",
+      "time": "2026-07-10 09:42:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Gains — The benchmark KOSPI rose more than 4% to around 7,620 on Friday, extending gains from the previous session as chipmakers tracked an overnight rally in global semiconductor stocks. Tech shares led the advance, with Samsung Electronics climbing almost 4.0%, while Samsung Electro-Mechanics advanced over 9.0%. Other notable performers included SK hynix (1.1%), SK Square (5.2%), Hyundai Motor (3.3%), LG Energy Solution (4.3%), Kia Corporation (2.1%), KB Financial Group (7.2%), and Doosan Enerbility (7.9%). Investor confidence was also supported by easing oil prices despite renewed US-Iran tensions, as reports that Iran sought negotiations helped ease concerns about prolonged supply disruptions and inflationary pressures. Additionally, President Lee Jae Myung and Mongolian President Ukhnaa Khurelsukh agreed to deepen cooperation in critical minerals, trade, and advanced technologies, reinforcing optimism over South Korea's long-term supply chain security and high-tech industries."
+    },
+    {
+      "id": "4980053",
+      "time": "2026-07-10 09:42:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%】港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%，劍橋科技、建滔積層板、瀾起科技跟漲。"
+    },
+    {
+      "id": "4980052",
+      "time": "2026-07-10 09:42:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將必和必拓目標價下調4.5%，至63.00澳元。"
+    },
+    {
+      "id": "mkt:019f49b0-8266-7aab-8d24-da21d5832fad",
+      "time": "2026-07-10 09:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 Index rose over 2%; Hehui Optoelectronics surged more than 10%, leading constituent gains."
+    },
+    {
+      "id": "4980051",
+      "time": "2026-07-10 09:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資料中心電源概念反覆活躍 中恆電氣2連板】資料中心電源概念反覆活躍，中恆電氣2連板，麥格米特漲超8%，雄韜股份、歐陸通、科華資料跟漲。"
+    },
+    {
+      "id": "mkt:019f49b0-2c78-7aab-8d24-d2e96ae139fd",
+      "time": "2026-07-10 09:41:50",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact bullish",
+        "06166.HK",
+        "01347.HK"
+      ],
+      "text": "Hong Kong optical-communications stocks jumped in choppy trade: Yangtze Optical Fibre & Cable (06869.HK) rose over 12%, Cambridge Technology (06166.HK) rose over 9%, Hua Hong Hongli (01347.HK) rose over 7%, Haiguang Xinzhen (01191.HK) rose over 4%."
+    },
     {
       "id": "4980050",
       "time": "2026-07-10 09:41:24",
