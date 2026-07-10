@@ -1,7 +1,127 @@
 {
   "date": "2026-07-10",
-  "count": 1899,
+  "count": 1913,
   "items": [
+    {
+      "id": "te:economy:566019",
+      "time": "2026-07-10 17:51:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Greece Industrial Output Rises Faster in May — Industrial output in Greece advanced by 3.9% year-on-year in May 2026, extending a 2.1% rise in the prior month. This marked the ninth consecutive month of growth, driven by robust growth in electricity supply (7.1% vs 9.8% in April) and stronger manufacturing output (3.7% vs 1%). Notable growth was recorded for other transport equipment (69.2%), motor vehicles, trailers and semi-trailers (33.1%), coke and refined petroleum products (32.1%), computers, electronic and optical products (31.%), tobacco products (11.7%). On the other hand, output declined for mining & quarrying (-10.9% vs -2.8%) and water supply (-2.1% vs 0.1%). On a seasonally adjusted monthly basis, industrial activity increased by 1.9% in May, after a downwardly revised 3.2% slump in the previous month. Year-to-date, industrial output rose by 3.9% compared to the same period a year ago."
+    },
+    {
+      "id": "4980982",
+      "time": "2026-07-10 17:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商證券博愛基金捐贈100萬元馳援廣西洪澇災害救援】招商證券透過其在中國紅十字會總會設立的招商證券博愛基金向廣西受災同胞捐贈100萬元人民幣，善款將用於受災地區救災救援、災後恢復重建等。"
+    },
+    {
+      "id": "mkt:019f4b6f-a7dd-7aab-8d2f-875a87e05362",
+      "time": "2026-07-10 17:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's army commander Hatami said Iran will redouble efforts to realize the martyr leader's ideals."
+    },
+    {
+      "id": "4980981",
+      "time": "2026-07-10 17:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【捷邦科技：投資2000萬元設立控股子公司並取得營業執照】捷邦科技公告稱，為加強資料中心液冷散熱領域佈局，公司與深圳市烽嵐技術合夥企業、冉啟坤合資設立東莞市捷邦數能電子科技有限公司，註冊資本2000萬元，公司認繳1300萬元，佔比65%。近日，捷邦數能完成工商註冊登記並取得營業執照，成立日期為2026年7月9日。本次投資資金源於自有資金，不會影響公司經營，不過新公司可能面臨管理、市場開拓等風險。"
+    },
+    {
+      "id": "4980980",
+      "time": "2026-07-10 17:50:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭蕭鋼構：擬設立新加坡分公司拓展海外業務】杭蕭鋼構公告稱，公司第九屆董事會第十一次會議審議透過設立新加坡分公司的議案，授權管理層辦理相關工作。分公司不具獨立法人資格，經營範圍包括承包工程、鋼結構生產與安裝等。設立分公司系當地投標要求，利於承接專案、服務區域市場、促進國際業務發展，但面臨境外環境差異帶來的不確定性。相關事項尚需履行境外投資專案備案及部門審批程式。"
+    },
+    {
+      "id": "4980979",
+      "time": "2026-07-10 17:50:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將 百事可樂<PEP.O> 評級從買入下調至中性；目標價從170美元下調至145美元。"
+    },
+    {
+      "id": "mkt:019f4b6f-2c02-7aab-8d2f-79e97d2891fc",
+      "time": "2026-07-10 17:50:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's army commander Hatami said the former Supreme Leader's path will continue with greater strength."
+    },
+    {
+      "id": "4980978",
+      "time": "2026-07-10 17:49:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST發展：股票交易異常波動 預重整及後續情況存不確定性】*ST發展公告稱，公司股票於2026年7月8日、9日、10日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。2026年7月6日，重慶五中院對公司進行預重整備案登記，後續能否進入重整程式尚不確定。2025年度經審計的期末歸母淨資產為-2.00億元，扣非後淨利潤為-6.35億元，扣除後營收2.82億元，已被實施退市、其他風險警示。若法院受理重整申請，股票將疊加實施退市風險警示；若重整失敗，公司有被宣告破產及終止上市風險。"
+    },
+    {
+      "id": "4980977",
+      "time": "2026-07-10 17:49:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共進股份：累計回購股份比例達1.16% 金額1.18億元】共進股份公告稱，截至2026年7月10日，公司透過集中競價交易方式累計回購股份912.16萬股，佔總股本的1.16%，較上次披露增加1.06%。購買最高價為13.94元/股，最低價為11.74元/股，已支付總金額1.18億元。此次回購用於員工持股計劃或股權激勵，回購期限為2026年6月3日至2027年6月2日，預計回購金額1.5億-2億元。"
+    },
+    {
+      "id": "4980976",
+      "time": "2026-07-10 17:49:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領先股份：重大仲裁終局裁決 預計減2026年淨利潤113.26萬元】領先股份公告稱，公司此前因SF公司要求收購蘇州桔雲科技有限公司剩餘49%股權被仲裁。2026年7月9日收到終局裁決，需支付收購款1.44億元及資金佔用費、15萬元律師費、98.26萬元仲裁費等，並辦理解除質押登記手續，應在裁決作出之日起十五日內履行完畢。如按裁決履行，預計減少2026年度歸屬於上市公司股東的淨利潤113.26萬元，具體以審計結果為準。"
+    },
+    {
+      "id": "mkt:019f4b6e-aad7-7aab-8d2f-723e5721ba3d",
+      "time": "2026-07-10 17:49:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOE Technology (BOE A) says the glass-based packaging substrate it is deploying is a hybrid GlassCore–ABF solution."
+    },
+    {
+      "id": "4980975",
+      "time": "2026-07-10 17:49:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院任免國家工作人員 任命範必為國務院研究室副主任】據人社部訊息，國務院任免國家工作人員。任命範必為國務院研究室副主任；任命唐洪武為中山大學校長（副部長級）。"
+    },
+    {
+      "id": "4980974",
+      "time": "2026-07-10 17:48:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出海浪紅色警報、風暴潮橙色警報】國家海洋預報臺釋出海浪紅色警報及風暴潮橙色警報。今天下午，國家海洋預報臺釋出海浪紅色警報。預計7月10日下午到11日下午，東海南部將出現9到14米的狂濤到怒濤區，東海北部、臺灣海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為紅色；浙江、福建北部近岸海域將出現5到8米的巨浪到狂浪，該近岸海域海浪預警級別為紅色，上海近岸海域將出現3到4.5米的大浪到巨浪，該近岸海域海浪預警級別為橙色，福建南部近岸海域將出現3到4米的大浪到巨浪，該近岸海域海浪預警級別為黃色，江蘇南部近岸海域將出現2到3米的中浪到大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。國家海洋預報臺今天16時釋出風暴潮橙色警報。預計7月10日夜間至11日傍晚，江蘇南通到浙江寧波沿海將出現50到120釐米的風暴增水，浙江台州到溫州沿海將出現100到200釐米的風暴增水，福建沿海將出現70到150釐米的風暴增水。浙江省溫州市的風暴潮預警級別為橙色，福建省福州市的風暴潮預警級別為黃色，浙江省舟山市、寧波市、台州市和福建省寧德市的風暴潮預警級別為藍色。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4b6d-c762-7aab-8d2f-68cb8ca53952",
+      "time": "2026-07-10 17:48:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shangwei New Materials to debut transformable consumer robot Qiyuan T1 at WAIC】CEO Tian Hua said Shangwei New Materials will give the global public debut of its transformable, consumer-grade robot Qiyuan T1 at the World Artificial Intelligence Conference (WAIC). The company positions the T1 for home consumer use and away from traditional humanoid form factors. Shangwei has opened offline experience stores in Shanghai, Shenzhen, Xi'an, Xiamen and Guangzhou and said channel expansion is underway."
+    },
     {
       "id": "4980971",
       "time": "2026-07-10 17:46:57",
