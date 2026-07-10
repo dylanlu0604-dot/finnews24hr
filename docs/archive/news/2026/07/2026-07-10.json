@@ -1,7 +1,171 @@
 {
   "date": "2026-07-10",
-  "count": 1881,
+  "count": 1899,
   "items": [
+    {
+      "id": "4980971",
+      "time": "2026-07-10 17:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威GASSCO：OSEBERG非計劃停產影響預估從每日減產420萬立方米修正為每日減產120萬立方米。"
+    },
+    {
+      "id": "4980970",
+      "time": "2026-07-10 17:46:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所披露，7月6日，貝萊德所持贛鋒鋰業H股（程式碼：1772.HK）的多頭持倉佔比已從此前的8.02%降至6.92%。"
+    },
+    {
+      "id": "4980969",
+      "time": "2026-07-10 17:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業：2026年上半年淨利潤預增100.62%-117.34%】海正藥業公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為6億元到6.5億元，同比增加100.62%到117.34%；扣非淨利潤4.9億元到5.3億元，同比增加52.54%到64.99%。業績預增主要因各核心業務板塊經營平穩，創新藥等產品銷售增長，生產成本下降，產品結構最佳化；且對外轉讓浙江省醫藥工業有限公司100%股權，非經常性損益同比增加。"
+    },
+    {
+      "id": "4980968",
+      "time": "2026-07-10 17:46:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業：5個產品新增納入2026年版國家基藥目錄】海正藥業公告稱，2026年7月9日國家衛健委釋出通知，《國家基本藥物目錄（2026年版）》自9月1日起施行。公司及全資子公司瀚暉製藥共有5個產品新增納入該目錄，無產品退出。新增產品包括茚達特羅格隆溴銨吸入粉霧劑等，入選有助於拓展產品在基層醫療市場覆蓋範圍，對長期戰略佈局有積極意義，但不會對當期業績產生重大影響，銷售情況有不確定性。"
+    },
+    {
+      "id": "4980967",
+      "time": "2026-07-10 17:46:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【龍源電力：6月發電量同比下降7.48% 上半年累計降2.19%】龍源電力公告稱，2026年6月公司按合併報表口徑完成發電量534.88萬兆瓦時，同比下降7.48%，其中風電、太陽能發電分別同比降9.73%、0.63%。截至6月30日，2026年累計完成發電量3878.28萬兆瓦時，同比下降2.19%，其中風電同比降6.67%，太陽能發電同比增22.22%。烏克蘭專案因當地電網升壓站受損停運仍在維修，當月無法併網發電。"
+    },
+    {
+      "id": "te:economy:566017",
+      "time": "2026-07-10 17:45:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan Producer Inflation Rises Again — Producer prices in Kazakhstan increased 17.2% year-on-year in June 2026, accelerating from 16% in May. This marks the highest level since October 2022, as price growth accelerated for six consecutive months. Mining and quarrying prices surged 25.9%, accelerating again from 22.7% in the previous month, reflecting sharp increases in the prices of extraction of crude oil and natural gas (34.5%) and mining of metal ores (12%). Price growth also accelerated in the supply of electricity, gas, steam, hot water, and air conditioning, rising 12% from 11.4%. In contrast, inflation in manufacturing eased slightly to 11.8% from 12%, and water supply, sewerage, waste collection, treatment, and disposal and remediation activities rose 7.5%, easing form 7.6%. On a monthly basis, producer prices increase 0.5% in June, slowing sharply from a 3.2% rise in the previous month."
+    },
+    {
+      "id": "mkt:019f4b6b-4b59-7aab-8d2f-65739dc1313e",
+      "time": "2026-07-10 17:45:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The Kremlin says it will continue to expand a security zone along the Russia-Ukraine border, citing Ukrainian attempts to escalate the situation."
+    },
+    {
+      "id": "mkt:019f4b6b-457e-7aab-8d2f-5a2498f9e037",
+      "time": "2026-07-10 17:45:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Kremlin said it will continue its special military operation if Kyiv shows no willingness to negotiate."
+    },
+    {
+      "id": "mkt:019f4b6b-39f7-7aab-8d2f-535a5f0e1d69",
+      "time": "2026-07-10 17:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin declined to comment on reports that Turkey would transfer Russian S-400 missile systems to a third country."
+    },
+    {
+      "id": "4980966",
+      "time": "2026-07-10 17:45:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：由於烏克蘭正試圖升級局勢，我們將繼續在俄烏邊境沿線打造更廣闊的安全區。"
+    },
+    {
+      "id": "mkt:019f4b6b-2175-7aab-8d2f-480835a4fe66",
+      "time": "2026-07-10 17:45:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Kremlin said Kyiv's \"terror\" actions at the Zaporizhzhia nuclear plant are very dangerous."
+    },
+    {
+      "id": "mkt:019f4b6b-208c-7aab-8d2f-43b2a515e36c",
+      "time": "2026-07-10 17:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says a phone call between Russian President Putin and U.S. President Trump has not yet taken place."
+    },
+    {
+      "id": "4980965",
+      "time": "2026-07-10 17:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：但若基輔政權無意和談，我們將繼續開展特別軍事行動。"
+    },
+    {
+      "id": "mkt:019f4b6b-0e59-7aab-8d2f-3c0f62ebbdcb",
+      "time": "2026-07-10 17:45:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin, responding to a Reuters report that Putin may escalate the war in Ukraine, said Russia is willing to pursue its objectives through negotiations."
+    },
+    {
+      "id": "4980964",
+      "time": "2026-07-10 17:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮拒絕對土耳其將俄羅斯S-400導彈移交第三國的相關報道置評。"
+    },
+    {
+      "id": "mkt:019f4b6a-ca42-7aab-8d2f-3656ec48cfd4",
+      "time": "2026-07-10 17:45:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【10 bln-yuan private securities funds average 13.36% return in 1H; count rises to 142】Private fund tracker Simuwang said the number of private securities managers with at least 10 bln yuan AUM reached 142 as of June 30, up 29 from the end of last year and up 3 since end-May, a record high. Among 100 firms with performance records, average 1H return was 13.36%, versus a 7.55% rise in the CSI 300. Ninety-one percent posted positive 1H returns and 27 firms delivered gains above 20%."
+    },
+    {
+      "id": "4980963",
+      "time": "2026-07-10 17:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：基輔針對扎波羅熱核電站的“恐怖”行動極度危險。"
+    },
+    {
+      "id": "4980962",
+      "time": "2026-07-10 17:44:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽微電子：全資子公司6.24億元收購控股子公司19%股權】賽微電子公告稱，公司全資子公司賽萊克斯國際以6.24億元透過北京產權交易所進場摘牌，收購國家積體電路基金持有的控股子公司賽萊克斯北京19%股權。7月8日，賽萊克斯國際與國家積體電路基金簽署《產權交易合同》，截至公告披露日，已支付全部價款，並於7月10日收到《產權交易憑證》。本次交易尚需完成工商變更登記等手續。"
+    },
     {
       "id": "4980961",
       "time": "2026-07-10 17:43:32",
