@@ -1,7 +1,111 @@
 {
   "date": "2026-07-11",
-  "count": 340,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:019f4dd9-6c05-7aab-8d3a-51749f6847f2",
+      "time": "2026-07-11 05:05:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A senior U.S. official said Iran attributed recent attacks on vessels to a malfunction in its internal systems."
+    },
+    {
+      "id": "mkt:019f4dd8-4b0c-7aab-8d3a-4c89032802f8",
+      "time": "2026-07-11 05:04:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Senior U.S. official says the U.S. will not reach an agreement with Iran unless Tehran provides explicit commitments on its nuclear program."
+    },
+    {
+      "id": "4981929",
+      "time": "2026-07-11 05:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員： 美伊之間的磋商取得一定進展，但雙方能否達成協議尚無定論。"
+    },
+    {
+      "id": "mkt:019f4dd7-30a5-7aab-8d3a-410c18fafae9",
+      "time": "2026-07-11 05:02:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Senior U.S. official says the U.S. has military means to render Iranian nuclear facilities inoperable."
+    },
+    {
+      "id": "4981928",
+      "time": "2026-07-11 05:02:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員： 美方掌握軍事手段，可確保伊朗核設施無法投入使用。"
+    },
+    {
+      "id": "mkt:019f4dd7-121e-7aab-8d3a-3bbf8ae5ec37",
+      "time": "2026-07-11 05:02:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "A senior U.S. official said U.S.-Iran talks have made progress but will ultimately either result in an agreement or fail to do so."
+    },
+    {
+      "id": "4981927",
+      "time": "2026-07-11 05:02:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：伊朗方面向美方表示近期針對航運船隻的襲擊系其體系內失控分支所為。"
+    },
+    {
+      "id": "4981926",
+      "time": "2026-07-11 05:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員： 若無法獲取核相關材料，美伊就不可能達成協議。"
+    },
+    {
+      "id": "mkt:019f4dd6-447e-7aab-8d3a-3635c7de7a86",
+      "time": "2026-07-11 05:01:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Senior U.S. official: Washington has demanded Iran publicly commit to stop firing on vessels in the Strait of Hormuz and to confirm all shipping lanes remain open."
+    },
+    {
+      "id": "4981925",
+      "time": "2026-07-11 05:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金本週跌1.5%，紐約銅漲1.9%】週五（7月10日）紐約尾盤，現貨黃金跌0.23%，報4114.36美元/盎司，本週累跌1.51%，在持續震盪下行中、7月8日美股早盤曾跌至4021.92美元。COMEX黃金期貨本週累跌0.12%，報4120.70美元/盎司。現貨白銀跌0.21%，報59.8310美元/盎司，本週累跌4.13%，7月8日美股早盤曾跌至57.2260美元。COMEX白銀期貨本週累跌1.41%，報60.200美元/盎司。COMEX銅期貨累漲1.90%，報6.2865美元/磅。現貨鉑金累跌0.53%，報1634.25美元/盎司；現貨鈀金累漲0.48%，報1279.88美元/盎司。"
+    },
+    {
+      "id": "4981924",
+      "time": "2026-07-11 05:00:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：美方要求伊朗公開發表宣告，承諾停止在霍爾木茲海峽襲擊過往船隻。"
+    },
     {
       "id": "4981923",
       "time": "2026-07-11 04:56:23",
