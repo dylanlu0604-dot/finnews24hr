@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 329,
+  "count": 330,
   "items": [
+    {
+      "id": "te:economy:566133",
+      "time": "2026-07-11 04:45:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "El Salvador Producer Inflation Rises in June — Producer prices in El Salvador rose 3.2% year-on-year in June 2026, accelerating from a 2.8% increase in the previous month. The pickup was largely driven by higher costs for transport and warehousing (8.7% vs. 3.2%) and electricity, gas, steam, and air conditioning (15.2% vs. 10.3%). The increases reflected higher energy costs amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices also rose at a faster pace for manufacturing (2.8% vs. 2.3%), real estate (1.7% vs. 1.4%), professional, scientific, and technical activities (1.4% vs. 1.0%), and education (2.6%). Meanwhile, producer prices continued to decline for water supply, sewerage, waste management, and remediation activities, falling 0.15%, unchanged from the previous month."
+    },
     {
       "id": "te:markets:566132",
       "time": "2026-07-11 04:35:04",
