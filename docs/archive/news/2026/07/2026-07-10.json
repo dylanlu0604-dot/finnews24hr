@@ -1,7 +1,181 @@
 {
   "date": "2026-07-10",
-  "count": 1243,
+  "count": 1261,
   "items": [
+    {
+      "id": "4980409",
+      "time": "2026-07-10 14:02:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【真愛美家成立科技新公司，含AI及物聯網業務】企查查APP顯示，近日，深圳數則科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務；物聯網技術研發等。企查查股權穿透顯示，該公司由真愛美家間接全資持股。"
+    },
+    {
+      "id": "mkt:019f4a9e-5a0e-7aab-8d29-7397263eea3e",
+      "time": "2026-07-10 14:01:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's Shenzhen Component Index fell over 1%; Shanghai Composite fell 0.25%."
+    },
+    {
+      "id": "mkt:019f4a9e-4e14-7aab-8d29-6eeb8e0b64d2",
+      "time": "2026-07-10 14:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "STOXX Europe 50 futures fell 0.29%, Germany DAX 30 futures fell 0.15% and UK FTSE 100 futures rose 0.07%."
+    },
+    {
+      "id": "4980408",
+      "time": "2026-07-10 14:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "拜耳向阿波羅出售避孕業務股權，獲 30 億歐元資金。"
+    },
+    {
+      "id": "4980407",
+      "time": "2026-07-10 14:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Kimi首張AI原生信用卡敲定美國運通、農業銀行，未來將探索智慧體支付】7月10日，《每日經濟新聞》記者獨家獲悉，全球首張AI（人工智慧）原生信用卡“Kimi信用卡”合作方已經敲定美國運通、農業銀行，並將於當日正式對外發行。（每日經濟新聞）"
+    },
+    {
+      "id": "4980406",
+      "time": "2026-07-10 14:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報15244.254點；上證指數跌0.24%，現報4027.055點；創業板指跌2.66%，現報3911.381點。"
+    },
+    {
+      "id": "4980405",
+      "time": "2026-07-10 14:00:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨短線走低，現跌超1%。"
+    },
+    {
+      "id": "mkt:019f4a9d-3731-7aab-8d29-64baba5ad515",
+      "time": "2026-07-10 14:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures slipped intraday, now down more than 1%."
+    },
+    {
+      "id": "mkt:019f4a9c-c390-7aab-8d29-58d9067aa0db",
+      "time": "2026-07-10 14:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany June harmonized CPI (HICP) final, MoM -0.2% (exp -0.2%, prev -0.2%)"
+    },
+    {
+      "id": "mkt:019f4a9c-bf44-7aab-8d29-547e85cd4bf8",
+      "time": "2026-07-10 14:00:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany HICP final June YoY 2.4%, matching 2.4% estimate and unchanged from prior reading."
+    },
+    {
+      "id": "4980404",
+      "time": "2026-07-10 14:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月CPI月率終值 -0.3%，預期-0.30%，前值-0.30%。德國6月CPI年率終值 2.3%，預期2.30%，前值2.30%。"
+    },
+    {
+      "id": "mkt:019f4a9c-ba33-7aab-8d29-4af591ca3114",
+      "time": "2026-07-10 14:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany June CPI final YoY 2.3%, expected 2.3%, prior 2.3%."
+    },
+    {
+      "id": "mkt:019f4a9c-b9e9-7aab-8d29-477886c84cf3",
+      "time": "2026-07-10 14:00:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Germany June CPI final (MoM) -0.3%; expected -0.3%; prior -0.3%."
+    },
+    {
+      "id": "mkt:019f4a9c-98cd-7aab-8d29-3995b803d000",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (MoM) (Jun) | actual -0.2% | consensus -0.20% | previous -0.20%"
+    },
+    {
+      "id": "mkt:019f4a9c-98c8-7aab-8d29-30d619ac6990",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (YoY) (Jun) | actual 2.4% | consensus 2.40% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019f4a9c-9857-7aab-8d29-2e9978e4c7fc",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (MoM) (Jun) | actual -0.3% | consensus -0.30% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019f4a9c-984c-7aab-8d29-24404ae23a9e",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (YoY) (Jun) | actual 2.3% | consensus 2.30% | previous 2.30%"
+    },
+    {
+      "id": "4980403",
+      "time": "2026-07-10 13:59:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝通能源成立具身智慧科技新公司】企查查APP顯示，近日，合肥七騰具身智慧科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；工業設計服務；人工智慧基礎軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由勝通能源全資持股。"
+    },
     {
       "id": "4980402",
       "time": "2026-07-10 13:57:23",

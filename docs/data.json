@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-10 13:59:41",
-  "count": 15801,
+  "updated": "2026-07-10 14:03:35",
+  "count": 15808,
   "items": [
+    {
+      "id": "4980409",
+      "time": "2026-07-10 14:02:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【真愛美家成立科技新公司，含AI及物聯網業務】企查查APP顯示，近日，深圳數則科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務；物聯網技術研發等。企查查股權穿透顯示，該公司由真愛美家間接全資持股。"
+    },
+    {
+      "id": "mkt:019f4a9e-5a0e-7aab-8d29-7397263eea3e",
+      "time": "2026-07-10 14:01:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's Shenzhen Component Index fell over 1%; Shanghai Composite fell 0.25%."
+    },
+    {
+      "id": "mkt:019f4a9e-4e14-7aab-8d29-6eeb8e0b64d2",
+      "time": "2026-07-10 14:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "STOXX Europe 50 futures fell 0.29%, Germany DAX 30 futures fell 0.15% and UK FTSE 100 futures rose 0.07%."
+    },
+    {
+      "id": "4980408",
+      "time": "2026-07-10 14:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "拜耳向阿波羅出售避孕業務股權，獲 30 億歐元資金。"
+    },
+    {
+      "id": "4980407",
+      "time": "2026-07-10 14:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Kimi首張AI原生信用卡敲定美國運通、農業銀行，未來將探索智慧體支付】7月10日，《每日經濟新聞》記者獨家獲悉，全球首張AI（人工智慧）原生信用卡“Kimi信用卡”合作方已經敲定美國運通、農業銀行，並將於當日正式對外發行。（每日經濟新聞）"
+    },
+    {
+      "id": "4980406",
+      "time": "2026-07-10 14:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報15244.254點；上證指數跌0.24%，現報4027.055點；創業板指跌2.66%，現報3911.381點。"
+    },
+    {
+      "id": "4980405",
+      "time": "2026-07-10 14:00:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨短線走低，現跌超1%。"
+    },
+    {
+      "id": "mkt:019f4a9d-3731-7aab-8d29-64baba5ad515",
+      "time": "2026-07-10 14:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures slipped intraday, now down more than 1%."
+    },
+    {
+      "id": "mkt:019f4a9c-c390-7aab-8d29-58d9067aa0db",
+      "time": "2026-07-10 14:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany June harmonized CPI (HICP) final, MoM -0.2% (exp -0.2%, prev -0.2%)"
+    },
+    {
+      "id": "mkt:019f4a9c-bf44-7aab-8d29-547e85cd4bf8",
+      "time": "2026-07-10 14:00:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany HICP final June YoY 2.4%, matching 2.4% estimate and unchanged from prior reading."
+    },
+    {
+      "id": "4980404",
+      "time": "2026-07-10 14:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月CPI月率終值 -0.3%，預期-0.30%，前值-0.30%。德國6月CPI年率終值 2.3%，預期2.30%，前值2.30%。"
+    },
+    {
+      "id": "mkt:019f4a9c-ba33-7aab-8d29-4af591ca3114",
+      "time": "2026-07-10 14:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany June CPI final YoY 2.3%, expected 2.3%, prior 2.3%."
+    },
+    {
+      "id": "mkt:019f4a9c-b9e9-7aab-8d29-477886c84cf3",
+      "time": "2026-07-10 14:00:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Germany June CPI final (MoM) -0.3%; expected -0.3%; prior -0.3%."
+    },
+    {
+      "id": "mkt:019f4a9c-98cd-7aab-8d29-3995b803d000",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (MoM) (Jun) | actual -0.2% | consensus -0.20% | previous -0.20%"
+    },
+    {
+      "id": "mkt:019f4a9c-98c8-7aab-8d29-30d619ac6990",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (YoY) (Jun) | actual 2.4% | consensus 2.40% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019f4a9c-9857-7aab-8d29-2e9978e4c7fc",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (MoM) (Jun) | actual -0.3% | consensus -0.30% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019f4a9c-984c-7aab-8d29-24404ae23a9e",
+      "time": "2026-07-10 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (YoY) (Jun) | actual 2.3% | consensus 2.30% | previous 2.30%"
+    },
+    {
+      "id": "4980403",
+      "time": "2026-07-10 13:59:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝通能源成立具身智慧科技新公司】企查查APP顯示，近日，合肥七騰具身智慧科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；工業設計服務；人工智慧基礎軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由勝通能源全資持股。"
+    },
     {
       "id": "4980402",
       "time": "2026-07-10 13:57:23",
@@ -144183,111 +144357,6 @@
         "公司"
       ],
       "text": "【招商蛇口成立新公司 含商業綜合體管理服務業務】企查查APP顯示，近日，深圳招商匯港商業管理有限公司成立，法定代表人為陳雙，經營範圍包含物業管理；非居住房地產租賃；商業綜合體管理服務；餐飲管理；企業管理諮詢等。企查查股權穿透顯示，該公司由招商蛇口(001979)間接全資持股。"
-    },
-    {
-      "id": "4968996",
-      "time": "2026-07-03 14:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國汽車在歐洲市場銷量首超日本】歐洲汽車製造商協會最新的新車銷量統計資料顯示，五家中國汽車製造商今年5月在歐洲市場共計銷售近14萬輛汽車，同比增長65%，銷量上首次超過日系汽車。報道說，這五家中國汽車製造商分別是比亞迪、上汽、吉利、奇瑞及零跑。 （央視財經）"
-    },
-    {
-      "id": "4968995",
-      "time": "2026-07-03 14:02:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50股指期貨上漲0.39%，德國DAX股指期貨上漲0.52%，富時股指期貨上漲0.16%。"
-    },
-    {
-      "id": "te:economy:564021",
-      "time": "2026-07-03 14:02:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Composite PMI Lowest in 3 Months — Russia’s S&P Global Composite PMI inched down to 48.9 in June 2026 from 49.2 in the previous month, marking the lowest reading since March. The latest figure also marked the fourth straight month of decline in private-sector activity."
-    },
-    {
-      "id": "mkt:019f2691-b976-7aab-8c8c-7c3a42949629",
-      "time": "2026-07-03 14:01:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【GigaDevice and Desay SV agree strategic cooperation on domestic car-grade chips】July 3 — Chinese chipmaker GigaDevice and automotive electronics supplier Desay SV reached a strategic cooperation agreement to accelerate commercialization of domestically produced automotive-grade chips. The partners will leverage their car-grade chip and automotive-electronics design capabilities to foster upstream-downstream industry collaboration and support security and sustainable development of the China automotive electronics supply chain. Under the agreement they will deepen cooperation on memory and microcontroller product lines."
-    },
-    {
-      "id": "4968994",
-      "time": "2026-07-03 14:01:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【公平競爭審查制度實施十年 全國累計審查政策措施188萬件】從市場監管總局瞭解到，2016年6月，國務院印發《關於在市場體系建設中建立公平競爭審查制度的意見》，我國公平競爭審查制度正式建立。十年來，全國累計審查政策措施188萬件，廢止和修訂排除、限制競爭的政策措施12.3萬件，公平競爭審查制度在規範地方政府經濟促進行為、破除地方保護和市場分割、推動全國統一大市場建設等方面發揮了重要作用。（日月譚天）"
-    },
-    {
-      "id": "4968993",
-      "time": "2026-07-03 14:01:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2696.50點。"
-    },
-    {
-      "id": "mkt:019f2691-807d-7aab-8c8c-760ac22f7d6a",
-      "time": "2026-07-03 14:01:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan 40-year government bond yield rose 1.5 bps to 3.870%."
-    },
-    {
-      "id": "4968992",
-      "time": "2026-07-03 14:00:36",
-      "tags": [
-        "兩會"
-      ],
-      "text": "湖南省政協副主席張灼華涉嫌嚴重職務違法， 目前正接受國家監委監察調查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f2690-7aa8-7aab-8c8c-6ae1d4112eb2",
-      "time": "2026-07-03 14:00:30",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact mixed",
-        "WDC.O",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Kioxia CEO says capital expenditure could rise if market growth exceeds expectations."
-    },
-    {
-      "id": "4968991",
-      "time": "2026-07-03 14:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國推進開發前沿人工智慧模型並擴充套件基礎設施】韓國科學技術資訊通訊部副部長3日表示，韓國政府正在戰略性地重新審視其自主人工智慧基礎模式的構建。政府將推進以AI基礎設施、物理AI及自主模型能力建設為核心的大規模專案。副部長還指出，韓國為躋身全球前三AI強國，今年將AI預算提高至9.9萬億韓元，是去年的三倍。韓國政府正計劃擴大AI資料中心建設，預計到2029年建成8.4吉瓦的資料中心容量，到2035年再新增10吉瓦的資料中心容量。政府還設定目標，到2030年在物理AI領域躍居全球第一。同時，將推進“全民AI”專案，使所有公民都能使用AI服務。"
-    },
-    {
-      "id": "4968990",
-      "time": "2026-07-03 14:00:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新與德賽西威達成戰略合作】7月3日，兆易創新（GigaDevice）與德賽西威正式達成戰略合作。雙方將共同推進國產車規晶片的產業化落地。根據協議，德賽西威與兆易創新將深化在儲存和微控制器產品線的合作。"
     }
   ]
 }
