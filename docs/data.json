@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-10 21:46:51",
-  "count": 15896,
+  "updated": "2026-07-10 21:50:56",
+  "count": 15898,
   "items": [
+    {
+      "id": "mkt:019f4c4b-1c17-7aab-8d34-115cff38ad7c",
+      "time": "2026-07-10 21:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Reeves will unveil a new support package for small and medium-sized enterprises next week."
+    },
+    {
+      "id": "4981466",
+      "time": "2026-07-10 21:49:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國裡夫斯將於下週推出全新中小企業扶持一攬子政策。"
+    },
+    {
+      "id": "4981465",
+      "time": "2026-07-10 21:49:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【告別“失憶”！EverMind釋出自進化智慧體框架Raven，可重寫自身程式碼】近日，由盛大集團孵化的EverMind釋出了基於EverOS的深度自進化智慧體——Raven Agent（渡鴉），透過獨創的雙向記憶機制和可重寫自身程式碼的進化能力，試圖將AI從“被動響應的工具”推向“主動進化的數字生命”。據悉，Raven採用了EverOS底層的“四層仿生架構”將原始對話流切分為獨立的記憶單元，透過聚類演算法形成“記憶場景”，構建出包含使用者身份、偏好、技能及工作目標的深度畫像。這種記憶是雙向且動態的，不僅記錄使用者的偏好，更將其融入自身的認知模型中。更重要的是能從每次互動成敗中提煉經驗，反思並改進自身的響應策略。測試資料顯示，Raven能夠以傳統方案1/10的Token消耗，實現超越全量上下文的準確率。（新浪科技）"
+    },
+    {
+      "id": "4981464",
+      "time": "2026-07-10 21:49:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【告別“失憶”！EverMind釋出自進化智慧體框架Raven，可重寫自身程式碼】7月10日晚間訊息，近日，由盛大集團孵化的EverMind釋出了基於EverOS的深度自進化智慧體——Raven Agent（渡鴉），透過獨創的雙向記憶機制和可重寫自身程式碼的進化能力，試圖將AI從“被動響應的工具”推向“主動進化的數字生命”。據悉，Raven採用了EverOS底層的“四層仿生架構”將原始對話流切分為獨立的記憶單元，透過聚類演算法形成“記憶場景”，構建出包含使用者身份、偏好、技能及工作目標的深度畫像。這種記憶是雙向且動態的，不僅記錄使用者的偏好，更將其融入自身的認知模型中。更重要的是能從每次互動成敗中提煉經驗，反思並改進自身的響應策略。測試資料顯示，Raven能夠以傳統方案1/10的Token消耗，實現超越全量上下文的準確率。（新浪科技）"
+    },
+    {
+      "id": "4981463",
+      "time": "2026-07-10 21:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 俄羅斯緊急情況部否認了關於莫斯科煉油廠境內突發狀況的報道。（此前澤連斯基稱無人機針對莫斯科州的相關設施發起了打擊 ）"
+    },
+    {
+      "id": "mkt:019f4c49-5e36-7aab-8d34-095f4bee63de",
+      "time": "2026-07-10 21:48:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports Russia is shifting to import diesel from India."
+    },
+    {
+      "id": "4981462",
+      "time": "2026-07-10 21:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將輝瑞目標股價從27美元下調至26美元。"
+    },
+    {
+      "id": "4981461",
+      "time": "2026-07-10 21:47:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將禮來目標股價從1251美元上調至1334美元。"
+    },
+    {
+      "id": "4981460",
+      "time": "2026-07-10 21:47:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將強生目標股價從254美元上調至263美元。"
+    },
     {
       "id": "te:markets:566069",
       "time": "2026-07-10 21:45:13",
@@ -144924,71 +144996,6 @@
         "XAUUSD"
       ],
       "text": "CMA CGM's CEO said vessels struck by missiles in the Persian Gulf could be written off and that imposing surcharges on transits through the Strait of Hormuz would be catastrophic."
-    },
-    {
-      "id": "4969912",
-      "time": "2026-07-03 21:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【福克斯新聞就傳播抹黑中國言論道歉】近日，美國福克斯新聞臺旗下多檔節目的主持人就傳播“抹黑”中國言論道歉。這場公開道歉的起因是商人凱文·奧利裡在節目中曾公開對中國進行荒唐透頂的指控——奧利裡在美國猶他州推進一個大型資料中心專案，因高耗能和環境影響遭當地環保組織和居民強烈反對。今年5月，他在參加福克斯新聞節目討論時，並沒有直面質疑，而是選擇了“甩鍋中國”的套路，將反對者貼上“中國代理人”的標籤，點名“猶他更好聯盟”等具體組織和個人，甚至丟擲一連串煽動性提問。這些指控毫無事實依據，卻在福克斯新聞平臺上得到放大，迅速引發爭議。反對這一專案的當地組織也迅速發聲闢謠。 面對輿論壓力和潛在法律風險，奧利裡本人隨後在社交媒體上撤回言論，承認“沒有證據證明這些組織或個人受中國資助”。福克斯電視臺也隨即道歉。不過，有美國媒體評論說，福克斯新聞的道歉根本不是因為新聞良知，而是擔心遭到索賠起訴。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f283e-8d60-7aab-8c97-1dfc7c826fcf",
-      "time": "2026-07-03 21:50:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DesRosiers, a Canadian automotive market research firm, said Canadian motor vehicle sales rose 1.9% year-on-year in June."
-    },
-    {
-      "id": "4969911",
-      "time": "2026-07-03 21:49:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "據印度國家證券交易所（NSE）資料顯示，NEO APEX股票經紀有限責任合夥企業透過大宗交易，以每股42.42盧比的價格購入韋丹塔鋼鐵（Vedanta Iron and Steel）2089萬股股票。"
-    },
-    {
-      "id": "4969910",
-      "time": "2026-07-03 21:49:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證監會舉行“兩優一先”表彰大會暨學習教育專題黨課報告會】據證監會7月3日訊息，7月3日下午，證監會黨委召開“兩優一先”表彰大會，深入學習貫徹習近平黨建思想和習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話，傳達學習金融系統黨的建設工作會議精神，表彰中國證監會優秀共產黨員、優秀黨務工作者和先進基層黨組織。證監會黨委書記、主席吳清出席會議並圍繞牢固樹立和踐行正確政績觀作專題黨課報告。"
-    },
-    {
-      "id": "te:markets:564181",
-      "time": "2026-07-03 21:47:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Croatia",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4482.00 Index Points, the highest since February 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 3.95%, and in the last 12 months, it increased 25.61%."
-    },
-    {
-      "id": "mkt:019f283b-9c31-7aab-8c97-102a0d6be6c5",
-      "time": "2026-07-03 21:47:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources: Venezuela's Amuay refinery has resumed operations after a power outage; capacity 645,000 bpd."
-    },
-    {
-      "id": "4969909",
-      "time": "2026-07-03 21:46:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：委內瑞拉日產能64.5萬桶的阿穆艾煉油廠在停電後恢復運營。"
     }
   ]
 }
