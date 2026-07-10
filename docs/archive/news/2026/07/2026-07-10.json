@@ -1,7 +1,19 @@
 {
   "date": "2026-07-10",
-  "count": 580,
+  "count": 581,
   "items": [
+    {
+      "id": "mkt:019f4969-ff62-7aab-8d23-181128dac656",
+      "time": "2026-07-10 08:25:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI pared intraday gains to 2%; SK Hynix turned negative, down 0.7%."
+    },
     {
       "id": "4979930",
       "time": "2026-07-10 08:22:24",
