@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-10 13:28:21",
-  "count": 15815,
+  "updated": "2026-07-10 13:32:13",
+  "count": 15814,
   "items": [
+    {
+      "id": "4980386",
+      "time": "2026-07-10 13:31:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股商業航天概念股午後集體衝高，鈞達股份飆升逾30%，金風科技、亞太衛星升逾16%，航天控股升逾8%，中航科工升近7%。"
+    },
+    {
+      "id": "4980385",
+      "time": "2026-07-10 13:31:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商業航天、衛星導航板塊持續大漲，航天環宇等50餘股漲停】商業航天、衛星導航板塊持續大漲，航天環宇、海蘭信、高華科技、航天長峰、中國衛星、中天火箭等50餘股漲停。"
+    },
+    {
+      "id": "te:markets:565900",
+      "time": "2026-07-10 13:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.59% — Top crypto gainers are Ether (1.59%), Binance (1.34%) and Bitcoin (1.13%)."
+    },
     {
       "id": "4980384",
       "time": "2026-07-10 13:27:38",
@@ -144362,49 +144389,6 @@
         "其他"
       ],
       "text": "【僑批檔案資料庫共建啟動 粵閩兩省僑批已超42萬件】從國家檔案局獲悉，今天廣東省、福建省檔案部門在汕頭市簽署僑批檔案工作協作框架協議，啟動僑批檔案資料庫共建。目前，廣東各級檔案館、文博機構僑批總量已超34.2萬件，福建省各級檔案館現有僑批檔案數量8萬多件。兩省將從資源共享、史料徵集、編研開發三大維度搭建粵閩協同、海內外聯動的僑批活化與傳承的工作機制。"
-    },
-    {
-      "id": "te:markets:564019",
-      "time": "2026-07-03 13:31:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Flat, on Track for Modest Weekly Decline — The Indonesian rupiah traded around IDR 17,960 per U.S. dollar on Friday, little changed from the previous session as traders awaited key domestic data due next week, including June forex reserves, consumer confidence, and May retail sales. Sentiment remained cautious after Fitch Ratings warned that a prolonged decline in forex reserves could pressure Indonesia's credit profile, with figures having fallen to a nearly two-year low in May. Meanwhile, Bank Indonesia reaffirmed its commitment to deploying all available tools to support the currency even as strong foreign inflows into government bonds and Bank Indonesia securities continued in June. Globally, the U.S. dollar index edged lower after weaker-than-expected U.S. labor market data dampened expectations of further Fed tightening this year. For the week, the rupiah is heading for a modest weekly loss of around 0.3%, weighed by Indonesia's first trade gap since April 2020 and a sharp contraction in manufacturing activity."
-    },
-    {
-      "id": "mkt:019f2674-dfc0-7aab-8c8b-f36e353bcdd1",
-      "time": "2026-07-03 13:30:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share phosphate chemicals sector weakened in afternoon trading; Taihe Technology fell more than 11%, Xilong Science dropped over 9%, while Liuguo Chemical and Xingfa Group also declined."
-    },
-    {
-      "id": "mkt:019f2674-543f-7aab-8c8b-ebee9805306a",
-      "time": "2026-07-03 13:29:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【South Korean stocks rebound after AI-driven volatility】South Korea's KOSPI bounced after two trading days of nearly 10% declines, climbing as much as 5.5% on Friday; Samsung Electronics and SK Hynix each rallied more than 9%. A surge in KOSPI futures prompted the Korea Exchange to briefly suspend program trading. Foreign funds and retail investors were net sellers of KOSPI stocks while domestic funds increased holdings. Reports that ANTHROPIC PBC is in talks with Samsung to co-develop custom AI chips, together with elevated expectations ahead of Samsung's preliminary results, underpinned gains. Fibonacci Asset Management CEO Jung In-yoon said the ANTHROPIC-Samsung talks are early-stage and likely to have limited near-term earnings impact but are strategically positive for Samsung's AI-chip positioning and for Asia's role in the AI semiconductor supply chain."
-    },
-    {
-      "id": "4968965",
-      "time": "2026-07-03 13:28:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【石油化工板塊震盪走低 新鳳鳴觸及跌停】石油化工板塊午後震盪走低，新鳳鳴觸及跌停，昊華科技、桐昆股份、衛星化學等股下跌。"
     }
   ]
 }
