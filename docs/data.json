@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-10 13:32:13",
-  "count": 15814,
+  "updated": "2026-07-10 13:36:07",
+  "count": 15811,
   "items": [
+    {
+      "id": "mkt:019f4a84-dd9e-7aab-8d28-e5e432a12f23",
+      "time": "2026-07-10 13:34:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02865.HK",
+        "Impact bullish",
+        "01045.HK",
+        "02208.HK"
+      ],
+      "text": "Hong Kong-listed commercial space stocks rallied: Junda (02865.HK) up over 28%, Asia Pacific Satellite (01045.HK) up over 16%, Goldwind (02208.HK) up over 15%, China Aerospace International Holdings (00031.HK) up over 10%, China Technology Group (01725.HK) up over 9%."
+    },
+    {
+      "id": "mkt:019f4a84-79e8-7aab-8d28-daae059abed9",
+      "time": "2026-07-10 13:33:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: Fed unlikely to hike in July】Investors have raised bets that the Fed could deliver a 25bp hike as soon as this month, but Federated Hermes chief market strategist Phil Orlando said that is unlikely, expecting the Fed to look through a temporary energy-supply shock and keep rates unchanged. Last week’s weak US labour-market data pushed expectations for a final hike later into the year. London Stock Exchange Group data show money markets price a July 25bp hike at 22%."
+    },
+    {
+      "id": "mkt:019f4a82-e589-7aab-8d28-d47c37064d11",
+      "time": "2026-07-10 13:32:00",
+      "tags": [
+        "MKT News",
+        "300750.SZ",
+        "Impact bearish"
+      ],
+      "text": "CATL shares fall more than 5% on turnover exceeding 11.8 billion yuan."
+    },
+    {
+      "id": "4980387",
+      "time": "2026-07-10 13:31:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量5005億元。"
+    },
     {
       "id": "4980386",
       "time": "2026-07-10 13:31:28",
@@ -144318,77 +144365,6 @@
         "其他"
       ],
       "text": "法國衛生部長表示，近期熱浪過後，6月22日至28日當週出現2,025例超額死亡。"
-    },
-    {
-      "id": "mkt:019f267a-04e5-7aab-8c8c-11bf515e92e4",
-      "time": "2026-07-03 13:35:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Citigroup says oil could fall to $60/bbl as the Strait of Hormuz shock fades."
-    },
-    {
-      "id": "mkt:019f2679-db13-7aab-8c8c-08f97e92b111",
-      "time": "2026-07-03 13:35:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【KB Securities: SK Hynix to benefit from accelerated AI investment in H2】KB Securities analysts led by Jeff Kim say SK Hynix will benefit in H2 from accelerating AI infrastructure investment and from a storage-chip supply shortage expected to persist through end-2028. \"Under continued expansion of AI-related investment, SK Hynix's earnings and share-price uptrend is far from over,\" they said. KB forecasts global AI investment at $800 bln in 2026, $1.1 tln in 2027 and $1.5 tln in 2028, and raised its 2026 operating profit forecast for SK Hynix by 3.6% to 290 tln won."
-    },
-    {
-      "id": "mkt:019f2679-5d88-7aab-8c8c-07a37eef771c",
-      "time": "2026-07-03 13:35:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 36.46 points, or 0.08%, at 46,780.62 on Friday, July 3."
-    },
-    {
-      "id": "4968968",
-      "time": "2026-07-03 13:34:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本航空公司一架航班因液壓系統故障緊急迫降關西機場，事件中無人受傷。"
-    },
-    {
-      "id": "4968967",
-      "time": "2026-07-03 13:32:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數站上8100點，日內漲幅擴大至6%。"
-    },
-    {
-      "id": "mkt:019f2676-f75c-7aab-8c8b-fc86e762de9f",
-      "time": "2026-07-03 13:32:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index climbed above 8,100, extending intraday gains to 6%."
-    },
-    {
-      "id": "4968966",
-      "time": "2026-07-03 13:32:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【僑批檔案資料庫共建啟動 粵閩兩省僑批已超42萬件】從國家檔案局獲悉，今天廣東省、福建省檔案部門在汕頭市簽署僑批檔案工作協作框架協議，啟動僑批檔案資料庫共建。目前，廣東各級檔案館、文博機構僑批總量已超34.2萬件，福建省各級檔案館現有僑批檔案數量8萬多件。兩省將從資源共享、史料徵集、編研開發三大維度搭建粵閩協同、海內外聯動的僑批活化與傳承的工作機制。"
     }
   ]
 }

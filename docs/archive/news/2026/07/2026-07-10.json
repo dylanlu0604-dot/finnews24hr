@@ -1,7 +1,54 @@
 {
   "date": "2026-07-10",
-  "count": 1217,
+  "count": 1221,
   "items": [
+    {
+      "id": "mkt:019f4a84-dd9e-7aab-8d28-e5e432a12f23",
+      "time": "2026-07-10 13:34:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02865.HK",
+        "Impact bullish",
+        "01045.HK",
+        "02208.HK"
+      ],
+      "text": "Hong Kong-listed commercial space stocks rallied: Junda (02865.HK) up over 28%, Asia Pacific Satellite (01045.HK) up over 16%, Goldwind (02208.HK) up over 15%, China Aerospace International Holdings (00031.HK) up over 10%, China Technology Group (01725.HK) up over 9%."
+    },
+    {
+      "id": "mkt:019f4a84-79e8-7aab-8d28-daae059abed9",
+      "time": "2026-07-10 13:33:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: Fed unlikely to hike in July】Investors have raised bets that the Fed could deliver a 25bp hike as soon as this month, but Federated Hermes chief market strategist Phil Orlando said that is unlikely, expecting the Fed to look through a temporary energy-supply shock and keep rates unchanged. Last week’s weak US labour-market data pushed expectations for a final hike later into the year. London Stock Exchange Group data show money markets price a July 25bp hike at 22%."
+    },
+    {
+      "id": "mkt:019f4a82-e589-7aab-8d28-d47c37064d11",
+      "time": "2026-07-10 13:32:00",
+      "tags": [
+        "MKT News",
+        "300750.SZ",
+        "Impact bearish"
+      ],
+      "text": "CATL shares fall more than 5% on turnover exceeding 11.8 billion yuan."
+    },
+    {
+      "id": "4980387",
+      "time": "2026-07-10 13:31:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量5005億元。"
+    },
     {
       "id": "4980386",
       "time": "2026-07-10 13:31:28",
