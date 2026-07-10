@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-10 22:15:47",
-  "count": 15929,
+  "updated": "2026-07-10 22:19:56",
+  "count": 15936,
   "items": [
+    {
+      "id": "4981523",
+      "time": "2026-07-10 22:19:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部准許剛果民主共和國開展部分大宗商品及藥品相關業務。"
+    },
+    {
+      "id": "4981522",
+      "time": "2026-07-10 22:18:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "一份宣告顯示，6月巴拿馬運河通航日均船舶量從5月的日均37.06艘降至32.50艘。"
+    },
+    {
+      "id": "4981521",
+      "time": "2026-07-10 22:18:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部批准部分剛果民主共和國相關交易。"
+    },
+    {
+      "id": "mkt:019f4c64-c359-7aab-8d34-a82cf7e81b77",
+      "time": "2026-07-10 22:18:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Trump and Erdogan reaffirmed willingness to improve bilateral relations."
+    },
+    {
+      "id": "mkt:019f4c64-647c-7aab-8d34-a1272e37467c",
+      "time": "2026-07-10 22:17:55",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK chairman Chey Tae-won said he has not seen a contraction in demand for high-bandwidth memory (HBM)."
+    },
+    {
+      "id": "4981520",
+      "time": "2026-07-10 22:17:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外長菲丹：特朗普與埃爾多安重申改善雙邊關係的意願。"
+    },
+    {
+      "id": "4981519",
+      "time": "2026-07-10 22:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貿發會議官員：中國繼續保持全球雙向投資大國地位】聯合國貿易和發展會議（貿發會議）投資與企業司司長李楠日前接受記者採訪時表示，2025年中國繼續保持全球雙向投資大國地位，吸引外資正由規模擴張向結構最佳化和質量升級深化。聯合國貿發會議近日釋出的《2026年世界投資報告》顯示，2025年全球外國直接投資較上年增長6%至1.6萬億美元，發展中經濟體吸引了一半以上的全球外國直接投資。其中，中國繼續保持全球雙向投資大國地位，吸收外資和對外投資規模均位居世界前列。（新華社）"
+    },
+    {
+      "id": "4981518",
+      "time": "2026-07-10 22:16:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "SK集團董事長崔泰源在採訪中表示，未看到高頻寬儲存器（HBM）需求規模出現任何萎縮。"
+    },
+    {
+      "id": "4981517",
+      "time": "2026-07-10 22:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達首相與埃及外交部長商討落實美伊諒解備忘錄的相關途徑。"
+    },
+    {
+      "id": "mkt:019f4c62-55ec-7aab-8d34-9c9eee37482b",
+      "time": "2026-07-10 22:15:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Qatar leads talks with Iran; Trump unusually quiet】Al Jazeera reports Qatar is leading mediation talks with Iran; the US State Department and the White House have declined to comment on the reported discussions. Qatar and Pakistan have previously acted as intermediaries during earlier spikes in US-Iran tensions. Trump, who has praised Qatar’s role in past mediation, has made no public comment on these talks in the 24 hours since returning from the NATO summit in Turkey, posting only a social-media announcement renaming Palm International Airport after himself."
+    },
     {
       "id": "mkt:019f4c61-c048-7aab-8d34-901002526b17",
       "time": "2026-07-10 22:15:02",
@@ -145241,32 +145331,6 @@
         "國際"
       ],
       "text": "【法國經濟學家：美聯儲和歐洲央行的政策出現分歧】兩位法國首席經濟學家表示，由於美國面臨通脹壓力，美聯儲今年仍需提高利率。但歐洲中央銀行並不急於收緊貨幣政策，甚至可能已經完成了收緊，因為歐元區通脹率低於預期，僅為 2.8%。"
-    },
-    {
-      "id": "4969937",
-      "time": "2026-07-03 22:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "南非反壟斷監管機構將奧達泰克斯旗下子公司移交檢方起訴。"
-    },
-    {
-      "id": "4969936",
-      "time": "2026-07-03 22:18:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受私有化交易報道提振，加拿大廢物處理公司GFL環保股票上漲。"
-    },
-    {
-      "id": "4969935",
-      "time": "2026-07-03 22:16:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "波蘭銅業集團（KGHM Polska Miedz SA）：與濱海省就普克多水鉀鎂鹽礦專案合作簽署諒解備忘錄。普克專案基於米耶羅希諾礦床，估計地質資源量超過3.03億噸。將準備申請該礦床採礦特許權所需的檔案。獲得該專案的相關審批決定可能需要大約6年時間。"
     }
   ]
 }
