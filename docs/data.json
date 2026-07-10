@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-11 03:11:39",
-  "count": 16207,
+  "updated": "2026-07-11 03:15:34",
+  "count": 16204,
   "items": [
+    {
+      "id": "mkt:019f4d74-37ea-7aab-8d39-3cf38e8ef272",
+      "time": "2026-07-11 03:14:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's emir's office said the emir and Pakistan's prime minister emphasised that efforts should continue to ease tensions and resolve differences by peaceful means."
+    },
+    {
+      "id": "mkt:019f4d73-efce-7aab-8d39-36e5b99af13c",
+      "time": "2026-07-11 03:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The office of Qatar's emir said the emir and Pakistan's prime minister discussed regional developments, focusing on US-Iran diplomatic talks."
+    },
+    {
+      "id": "4981876",
+      "time": "2026-07-11 03:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾與巴基斯坦總理強調，各方需持續努力緩和緊張局勢，以和平方式化解分歧。"
+    },
+    {
+      "id": "4981875",
+      "time": "2026-07-11 03:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾與巴基斯坦總理審議當前地區局勢，重點討論美伊之間的外交行動與談判事宜。"
+    },
+    {
+      "id": "4981874",
+      "time": "2026-07-11 03:12:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【訊息人士：美國、伊朗、巴基斯坦與卡達將舉行四方通話】沙特方面10日晚有資訊顯示，訊息人士稱，美國、伊朗、巴基斯坦和卡達將舉行四方通話。截至目前，相關內容暫未有任何相關方證實。（央視新聞）"
+    },
+    {
+      "id": "4981873",
+      "time": "2026-07-11 03:11:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利計劃在今年剩餘時間於境外發行 52 億美元債務。"
+    },
     {
       "id": "mkt:019f4d70-1022-7aab-8d39-2e724d5d1407",
       "time": "2026-07-11 03:10:17",
@@ -147700,84 +147749,6 @@
         "市場"
       ],
       "text": "【特斯拉機器人量產在即 A股“朋友圈”聞風而動】7月3日，A股人形機器人板塊走強，其中T鏈（即特斯拉Optimus機器人供應鏈）概念股漲勢尤為顯著。訊息面上，7月1日，特斯拉CEO馬斯克釋出了一張大合照，配文稱“在弗裡蒙特工廠參觀Optimus擎天柱機器人生產線”。另據特斯拉高管透露，特斯拉首條正式量產Optimus的生產線已開始安裝，工程師計劃後續逐步擴建至40條產線。此前，馬斯克曾在人形機器人業務上多次“改口”，特斯拉Optimus量產節點也不斷延後，這也為其招致了不少爭議。此次量產，能否兌現馬斯克反覆推遲的承諾？一名機械行業分析師對記者表示，出於靈巧手效能有待精進、技術方案不成熟等因素，特斯拉Optimus量產多次“跳票”，但這次有所不同，產線開工說明特斯拉已將量產提上了日程。首條產線預計將承擔“開路”的作用，用於質量檢驗、技術方案確認，可視作正式量產前的最後衝刺。隨著後續更多產線的落地，中國供應商將獲得確定性訂單，人形機器人供應鏈有望復刻當年新能源汽車產業鏈的爆發式增長。（上證報）"
-    },
-    {
-      "id": "4970067",
-      "time": "2026-07-04 03:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【監管警示險企：嚴防“空殼公司套購團意險”黑灰產】記者近日從業內獲悉，上海金融監管局辦公室釋出一則關於團體保險業務有關風險提示的通知。通知稱，某保險公司承保的一單涉農團體意外傷害保險（下稱“團意險”）引發大量理賠相關司法案件，暴露出保險公司在業務經營過程中存在的諸多問題，包括核保管控流於形式、保全流程設定不合理、業務留痕和檔案管理不到位等。（上證報）"
-    },
-    {
-      "id": "te:economy:564223",
-      "time": "2026-07-04 03:15:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil Bond Yields Climb Amid Fiscal Concerns — Brazil's 10-year government bond yield rose to 14.6% in July as weaker-than-expected fiscal data heightened concerns over the country's public finances. Gross public debt climbed to 81.1% of GDP in May, above market expectations of 80.7%, while the primary deficit widened to R$56.1 billion, exceeding forecasts of a R$53.5 billion shortfall. The deterioration in fiscal accounts reinforced expectations that borrowing costs could remain elevated. Political developments also weighed, as an AtlasIntel/Bloomberg survey showed President Lula holding a 6.5-point lead over Flávio Bolsonaro in a hypothetical runoff, reinforcing expectations of a more expansionary fiscal stance. Meanwhile, annual inflation rose above the central bank's upper tolerance limit to exceed 4.8% in the first half of June. Offsetting some of the pressure, formal job creation slowed to about 73,000 positions in May, below forecasts of 115,000, pointing to a gradual cooling in the labor market."
-    },
-    {
-      "id": "4970066",
-      "time": "2026-07-04 03:14:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年銀行業罰單總額 超過10億元 資料包送與治理違規處罰增長較快】據企業預警通資料統計，今年上半年，監管部門共對522家銀行開出2951張罰單，相比去年同期的2827張增長4.39%；累計罰沒金額10.14億元，相比去年同期的8.08億元增長25.50%。從處罰內容來看，資料包送與治理違規增長較快，上半年開出罰單382張，相比去年的172張增長1.22倍，躍升第三，僅次於信貸業務違規和內控制度不健全。（上證報）"
-    },
-    {
-      "id": "mkt:019f2967-6f3e-7aab-8c9a-9de8e4acc75b",
-      "time": "2026-07-04 03:14:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "PJM Interconnection, the US's largest grid operator, says it cannot meet projected electricity demand and will implement a plan to curtail load across its service area, covering the Mid‑Atlantic, the South and Washington, D.C., serving about 67 million customers."
-    },
-    {
-      "id": "4970065",
-      "time": "2026-07-04 03:14:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“百基連發” 7月以來新發基金168只，權益類佔比近六成】下半年開局，公募基金便迎來了一波新發小高峰。資料顯示，7月基金新發數量達到168只，權益類產品佔比近六成，成為月度新發主力。此次權益賽道發行結構更趨均衡，佈局方向兼顧成長與價值兩大主線。（上證報）"
-    },
-    {
-      "id": "4970064",
-      "time": "2026-07-04 03:13:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【券商板塊 獲得機構密集調研，修復行情有望持續】6月下旬以來，沉寂許久的券商板塊驟然掀起行情浪潮。行情啟動前夕，機構調研風向已率先轉向券商賽道。Wind資料顯示，6月以來，有13家券商接受了證券、基金、外資等各類投資機構的調研，受訪券商數量較去年同期增長四成。展望半年報，多家機構預計上市券商淨利潤同比增速有望達50%。業內認為，本輪行情是基本面景氣與交易壓制出清共同作用的結果，當前板塊估值仍處於歷史偏低位置，隨著業績不斷驗證與資金面持續改善，券商板塊的估值修復行情具備較強持續性。（上證報）"
-    },
-    {
-      "id": "4970063",
-      "time": "2026-07-04 03:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長：在伊朗與阿曼對波斯灣及霍爾木茲海峽的“聯合管理”框架下，美國在地區的“干擾”將減少，從而為區域過境與交通合作創造更有利條件。"
-    },
-    {
-      "id": "4970062",
-      "time": "2026-07-04 03:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長：當前局勢較過去有所改善，美國已被迫接受新的地區格局。"
-    },
-    {
-      "id": "4970061",
-      "time": "2026-07-04 03:12:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【今年“兩新”資金已下達3875億元 政策效應持續顯現】時至年中，“兩新”（大規模裝置更新和消費品以舊換新）政策靠前發力，資金加速落地。截至目前，全年2000億元超長期特別國債支援裝置更新資金已全部下達，加上此前已經下達的三批消費品以舊換新資金，合計近4000億元“兩新”資金已到位。與此同時，“兩新”的政策效應也在持續顯現。記者從國家發展改革委獲悉，目前，全年2000億元超長期特別國債支援裝置更新資金總額已下達完畢，共支援22個領域約1.1萬個專案，對加快產業升級、促進綠色發展、改善民生福祉、強化安全保障提供有力支撐。今年以來，國家發展改革委會同有關部門，最佳化支援範圍，完善申報流程，強化稽核把關，加快工作節奏，分三批下達裝置更新資金。其中，第三批裝置更新專案清單和資金安排已於近日下達，支援能源電力、物流、教育、養老機構、線下消費商業設施、老舊營運貨車、住宅老舊電梯等領域裝置更新和老舊小區加裝電梯。記者還瞭解到，今年第三批625億元超長期特別國債支援消費品以舊換新資金已於5月中下旬下達。至此，今年上半年消費品以舊換新資金合計已經下達1875億元，加上已經下達的2000億元裝置更新資金，今年“兩新”資金已下達3875億元。下一步，國家發展改革委將會同有關部門，督促指導各方抓緊推進裝置更新專案建設，強化全過程閉環管理，加快形成更多實物工作量，充分發揮中央資金使用效益。（上證報）"
     }
   ]
 }
