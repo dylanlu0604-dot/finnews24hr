@@ -1,7 +1,92 @@
 {
   "date": "2026-07-10",
-  "count": 2636,
+  "count": 2646,
   "items": [
+    {
+      "id": "mkt:019f4c69-649c-7aab-8d34-c08c93e72dc1",
+      "time": "2026-07-10 22:23:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "International Maritime Organization says attempts by Iran to control the Strait of Hormuz should be rejected."
+    },
+    {
+      "id": "mkt:019f4c68-38cf-7aab-8d34-bd7d37c72387",
+      "time": "2026-07-10 22:22:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Turkey hopes to secure positive results soon on lifting US sanctions."
+    },
+    {
+      "id": "4981530",
+      "time": "2026-07-10 22:21:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：我們希望能儘快就解除美國製裁取得積極成果。"
+    },
+    {
+      "id": "4981529",
+      "time": "2026-07-10 22:21:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國法院表示，在大多數案件中，製藥商的策略並未破壞藥品專利連結制度，但也作出了一些不利認定。"
+    },
+    {
+      "id": "4981528",
+      "time": "2026-07-10 22:21:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國向拱心石輸油管道運營商提交和解協議草案。"
+    },
+    {
+      "id": "4981527",
+      "time": "2026-07-10 22:21:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海關總署：海關“綠色通道”持續擴容，非洲野生水產品實現區域一體准入】據“海關釋出”，7月10日，海關總署釋出《關於進口非洲野生水產品檢驗檢疫要求的公告》（2026年第98號公告），標誌著繼幹辣椒、腰果和咖啡豆之後，非洲地區建交國家的野生水產品也已全面實現檢疫准入。這是海關總署深入貫徹落實習近平總書記關於“透過升級‘綠色通道’等進一步擴大非洲輸華產品准入”重要指示精神，統籌發展和安全，實施風險分級管理，便利非洲產品輸華作出的新的特殊優待安排。非洲地區海洋資源豐富，漁業是多個國家的重要經濟支柱產業。目前，肯亞、坦尚尼亞、獅子山、烏干達、馬達加斯加、吉布提和莫三比克的野生水產品已獲輸華准入。摩洛哥、南非、塞內加爾、突尼西亞等10餘個非洲國家也相繼提出野生水產品輸華申請。海關總署依據相關法律法規和國際標準評估發現，非洲地區野生水產品有關檢疫風險、安全衛生風險和風險防控措施基本相同，因此制定併發布了統一的進口檢驗檢疫要求，無需再與相關國家主管部門逐一磋商簽署准入議定書。在牢守安全底線的同時，一攬子解決非洲野生水產品輸華准入，充分釋放中非漁業貿易潛力，助力中非特色農食領域經貿合作持續深化。下一步，海關總署將繼續加強與非洲建交國主管部門合作，全面落實升級後的“綠色通道”便利化措施，助力更多優質安全的非洲農食產品進入我國，豐富國內市場供給，更好滿足消費者多元化需求。"
+    },
+    {
+      "id": "mkt:019f4c66-2e90-7aab-8d34-b4f32f43628b",
+      "time": "2026-07-10 22:19:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【UNCTAD official: China to remain major two-way investor in 2025】UNCTAD Division on Investment and Enterprise director Li Nan said in an interview China will remain a major two-way investment economy in 2025, with inbound FDI shifting from scale expansion toward structural optimization and quality upgrades. UNCTAD’s World Investment Report 2026 shows global FDI rose 6% YoY to $1.6tn in 2025; developing economies captured more than half of global FDI, and China ranked among the world’s largest for both inward and outward investment."
+    },
+    {
+      "id": "4981526",
+      "time": "2026-07-10 22:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "加密貨幣恐慌貪婪指數：23 分（滿分 100）極度恐慌。"
+    },
+    {
+      "id": "4981525",
+      "time": "2026-07-10 22:19:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國法院就柴油排放訴訟作出裁決：“駁回了針對車企的大部分核心主張”。"
+    },
+    {
+      "id": "4981524",
+      "time": "2026-07-10 22:19:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO：GPT-5.6現已成為微軟365 Copilot的首選模型。"
+    },
     {
       "id": "4981523",
       "time": "2026-07-10 22:19:08",
