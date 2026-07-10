@@ -1,7 +1,28 @@
 {
   "date": "2026-07-11",
-  "count": 246,
+  "count": 248,
   "items": [
+    {
+      "id": "mkt:019f4d70-1022-7aab-8d39-2e724d5d1407",
+      "time": "2026-07-11 03:10:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Sources: US, Iran, Pakistan and Qatar to hold four-way call】Saudi sources said on the evening of the 10th that the US, Iran, Pakistan and Qatar are set to hold a four-way call; the report has not been confirmed by any party."
+    },
+    {
+      "id": "mkt:019f4d6e-c574-7aab-8d39-22ae6ae3c24d",
+      "time": "2026-07-11 03:08:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US sanctions Dubai-based banker Ali Ansari, targets Iranian forex exchange houses】The US on Friday announced a new round of sanctions after Iran resumed attacks on international shipping in the Strait of Hormuz. The Treasury designated Dubai-based Iranian banker and businessman Ali Ansari — previously sanctioned by the UK — as a key financier of Iran’s supreme leader Mojtaba, accusing him of moving public wealth into overseas real estate and commercial assets to benefit himself, regime elites and the IRGC. The Treasury’s Office of Foreign Assets Control also designated major Iranian currency exchange houses, which it said transfer tens of billions of dollars annually on behalf of sanctioned Iranian banks and use multi-layered shell companies to conceal the government’s illicit financial activity."
+    },
     {
       "id": "4981872",
       "time": "2026-07-11 03:05:48",
