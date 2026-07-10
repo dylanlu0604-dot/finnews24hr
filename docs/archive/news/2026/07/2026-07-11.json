@@ -1,7 +1,76 @@
 {
   "date": "2026-07-11",
-  "count": 46,
+  "count": 54,
   "items": [
+    {
+      "id": "4981742",
+      "time": "2026-07-11 00:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其總統埃爾多安會見黎巴嫩總理。"
+    },
+    {
+      "id": "4981741",
+      "time": "2026-07-11 00:29:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州白雲機場口岸啟用快捷通關人員資訊採集備案點 一地備案全國通行】記者從白雲邊檢站瞭解到，7月10日，廣州白雲機場口岸正式啟用快捷通關人員資訊採集備案點，實現“一地備案、全國通行”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4cdc-404b-7aab-8d37-6acf30837d2a",
+      "time": "2026-07-11 00:28:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Russia suspends shipping via Don River–Azov Sea waterway】Sources said Russia has temporarily suspended shipping via the Don River–Azov Sea waterway after Ukraine attacked an Azov Sea oil tanker. The move could affect nearly a quarter of Russia's wheat exports that transit the Azov Sea. Officials gave no timeframe for the suspension."
+    },
+    {
+      "id": "4981740",
+      "time": "2026-07-11 00:28:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價上漲3.6%。"
+    },
+    {
+      "id": "4981739",
+      "time": "2026-07-11 00:28:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防禦颱風“巴威” 福建寧德12時起實行“三停一休”】福建省寧德市防汛抗旱指揮部7月10日晚釋出防禦第9號颱風“巴威”防汛動員令，從11日中午12點開始，到防颱風Ⅱ級應急響應結束之前，在全市範圍，除防颱風應急搶險救援單位、民生保障、生活服務類行業以及需連續性生產企業保基本運轉外，實行停工（業）、停產、停課、休市等“三停一休”的措施，確保人民群眾生命安全。（央視新聞）"
+    },
+    {
+      "id": "4981738",
+      "time": "2026-07-11 00:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯官方尚未公佈暫停經頓河-亞速海運河的航運的具體時間安排。"
+    },
+    {
+      "id": "4981737",
+      "time": "2026-07-11 00:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯暫停經頓河-亞速海運河的航運是烏克蘭襲擊亞速海油輪之後作出的舉措。這一決定可能影響到經亞速海運輸的俄羅斯小麥出口中近四分之一的份額。"
+    },
+    {
+      "id": "4981736",
+      "time": "2026-07-11 00:26:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名業內訊息人士稱，俄羅斯已暫停經頓河-亞速海運河的航運。"
+    },
     {
       "id": "4981735",
       "time": "2026-07-11 00:26:02",
