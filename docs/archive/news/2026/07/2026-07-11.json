@@ -1,7 +1,34 @@
 {
   "date": "2026-07-11",
-  "count": 311,
+  "count": 314,
   "items": [
+    {
+      "id": "mkt:019f4dad-f243-7aab-8d39-e12b51aa494f",
+      "time": "2026-07-11 04:17:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said Araghchi will visit Oman to discuss and exchange views on establishing an appropriate mechanism to ensure safe passage of vessels through the Strait of Hormuz."
+    },
+    {
+      "id": "4981910",
+      "time": "2026-07-11 04:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，阿拉格齊將出訪阿曼，商討並交流霍爾木茲海峽船舶安全通行配套機制相關事宜。"
+    },
+    {
+      "id": "4981909",
+      "time": "2026-07-11 04:16:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款規模從前一週 19.382 萬億美元升至 19.435 萬億美元。"
+    },
     {
       "id": "4981908",
       "time": "2026-07-11 04:14:03",
