@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-11 01:06:12",
-  "count": 16131,
+  "updated": "2026-07-11 01:10:07",
+  "count": 16127,
   "items": [
+    {
+      "id": "te:markets:566115",
+      "time": "2026-07-11 01:07:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Gains on Strong Jobs Data — The Canadian dollar rebounded to 1.41 per USD from the 15-month low of 1.425 on June 28th after stronger-than-expected employment data. Canada added 18,200 jobs in June following an 88,000 increase in May, while the unemployment rate unexpectedly fell and tied its lowest level in nearly two years, reducing the risk that the Bank of Canada would cut rates to attend a weaker economy. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing some energy-driven inflation concerns. At the same time, the US dollar remained firm amid the possibility of a Federal Reserve rate hike later this year."
+    },
     {
       "id": "4981777",
       "time": "2026-07-11 01:05:27",
@@ -147041,52 +147053,6 @@
         "國際"
       ],
       "text": "英國首相候選人伯納姆：將在政府現有良好舉措基礎上進一步深化與歐盟的緊密聯絡。"
-    },
-    {
-      "id": "mkt:019f28f4-643a-7aab-8c99-cd0064f93c51",
-      "time": "2026-07-04 01:08:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "UK prime minister candidate Burnham says he will seek talks with the EU on a more \"ambitious\" agreement."
-    },
-    {
-      "id": "4970029",
-      "time": "2026-07-04 01:08:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "當被問及是否會提前舉行大選時，伯納姆予以否定。"
-    },
-    {
-      "id": "4970028",
-      "time": "2026-07-04 01:07:48",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【拉加德將親自出席下週的歐盟經濟和財政事務理事會會議】歐洲央行行長克里斯蒂娜·拉加德將親自出席下週在布魯塞爾舉行的歐盟財長會議，而不是由副行長代表與會。根據歐洲央行公佈的每週日程，拉加德不僅將於7月9日出席歐元集團會議，還將於次日出席歐盟經濟和財政事務理事會(Ecofin)會議。這一安排較為罕見，因為按照慣例，此類會議通常由歐洲央行副行長代表出席。Boris Vujcic自6月初出任歐洲央行副行長以來，已出席過一次Ecofin會議。而歐洲央行的日程顯示，他將於下週五前往雅典參加一場會議。拉加德將親自出席這兩場會議之際，此前她並未排除提前離任以投身法國政壇的可能性。"
-    },
-    {
-      "id": "mkt:019f28f3-477e-7aab-8c99-c20f749cbd9c",
-      "time": "2026-07-04 01:07:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK prime ministerial candidate Burnham confirms he will not call a snap general election."
-    },
-    {
-      "id": "4970027",
-      "time": "2026-07-04 01:06:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相候選人伯納姆： 我支援選舉改革，將努力說服黨內同僚。"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 105,
+  "count": 106,
   "items": [
+    {
+      "id": "te:markets:566115",
+      "time": "2026-07-11 01:07:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Gains on Strong Jobs Data — The Canadian dollar rebounded to 1.41 per USD from the 15-month low of 1.425 on June 28th after stronger-than-expected employment data. Canada added 18,200 jobs in June following an 88,000 increase in May, while the unemployment rate unexpectedly fell and tied its lowest level in nearly two years, reducing the risk that the Bank of Canada would cut rates to attend a weaker economy. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing some energy-driven inflation concerns. At the same time, the US dollar remained firm amid the possibility of a Federal Reserve rate hike later this year."
+    },
     {
       "id": "4981777",
       "time": "2026-07-11 01:05:27",
