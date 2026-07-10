@@ -1,7 +1,68 @@
 {
   "date": "2026-07-10",
-  "count": 570,
+  "count": 577,
   "items": [
+    {
+      "id": "4979927",
+      "time": "2026-07-10 08:19:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌0.5個基點至2.87%。"
+    },
+    {
+      "id": "mkt:019f4964-b1ab-7aab-8d23-16b8a8538af4",
+      "time": "2026-07-10 08:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese finance minister KIUCHI said long-term interest rates are determined by multiple factors, including inf, growth expectations and risk premia."
+    },
+    {
+      "id": "mkt:019f4964-4c8f-7aab-8d23-083ec2eea94d",
+      "time": "2026-07-10 08:18:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan's finance minister KIUCHI said exchange rates are determined by multiple factors, including interest-rate differentials, inf differentials between Japan and other countries, and current-account dynamics."
+    },
+    {
+      "id": "4979926",
+      "time": "2026-07-10 08:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者監管局（ACCC）：2026年第四季度東海岸天然氣市場供應將保持充足，但需要追加投資以滿足長期需求"
+    },
+    {
+      "id": "4979925",
+      "time": "2026-07-10 08:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：長期利率由通脹、增長預期以及風險溢價等多種因素決定。"
+    },
+    {
+      "id": "4979924",
+      "time": "2026-07-10 08:17:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本 日本經濟財政大臣城內實：  匯率由多種因素決定，包括利差、日本與其他國家通脹率差距以及經常賬戶動態。"
+    },
+    {
+      "id": "te:markets:565822",
+      "time": "2026-07-10 08:17:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Set to End Volatile Week Lower — Silver steadied near $60 an ounce on Friday, but was still on track to end the week lower as investors continued to assess developments in the Middle East and their potential impact on inflation and monetary policy. Reports indicated that the US and Iran will continue peace talks despite a recent escalation in hostilities that disrupted energy flows through the Strait of Hormuz and renewed concerns over inflation. US forces carried out strikes on targets in Iran over two days in response to recent attacks on vessels in Hormuz, prompting retaliatory strikes by Tehran on US bases across the region. Markets continue to expect the Federal Reserve to raise interest rates at least once this year, although the policy outlook remains highly uncertain. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence."
+    },
     {
       "id": "mkt:019f4961-eeba-7aab-8d23-041e50773626",
       "time": "2026-07-10 08:16:22",

@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-10 08:16:56",
-  "count": 15879,
+  "updated": "2026-07-10 08:20:50",
+  "count": 15874,
   "items": [
+    {
+      "id": "4979927",
+      "time": "2026-07-10 08:19:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌0.5個基點至2.87%。"
+    },
+    {
+      "id": "mkt:019f4964-b1ab-7aab-8d23-16b8a8538af4",
+      "time": "2026-07-10 08:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese finance minister KIUCHI said long-term interest rates are determined by multiple factors, including inf, growth expectations and risk premia."
+    },
+    {
+      "id": "mkt:019f4964-4c8f-7aab-8d23-083ec2eea94d",
+      "time": "2026-07-10 08:18:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan's finance minister KIUCHI said exchange rates are determined by multiple factors, including interest-rate differentials, inf differentials between Japan and other countries, and current-account dynamics."
+    },
+    {
+      "id": "4979926",
+      "time": "2026-07-10 08:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞競爭與消費者監管局（ACCC）：2026年第四季度東海岸天然氣市場供應將保持充足，但需要追加投資以滿足長期需求"
+    },
+    {
+      "id": "4979925",
+      "time": "2026-07-10 08:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：長期利率由通脹、增長預期以及風險溢價等多種因素決定。"
+    },
+    {
+      "id": "4979924",
+      "time": "2026-07-10 08:17:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本 日本經濟財政大臣城內實：  匯率由多種因素決定，包括利差、日本與其他國家通脹率差距以及經常賬戶動態。"
+    },
+    {
+      "id": "te:markets:565822",
+      "time": "2026-07-10 08:17:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Set to End Volatile Week Lower — Silver steadied near $60 an ounce on Friday, but was still on track to end the week lower as investors continued to assess developments in the Middle East and their potential impact on inflation and monetary policy. Reports indicated that the US and Iran will continue peace talks despite a recent escalation in hostilities that disrupted energy flows through the Strait of Hormuz and renewed concerns over inflation. US forces carried out strikes on targets in Iran over two days in response to recent attacks on vessels in Hormuz, prompting retaliatory strikes by Tehran on US bases across the region. Markets continue to expect the Federal Reserve to raise interest rates at least once this year, although the policy outlook remains highly uncertain. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence."
+    },
     {
       "id": "mkt:019f4961-eeba-7aab-8d23-041e50773626",
       "time": "2026-07-10 08:16:22",
@@ -144905,127 +144966,6 @@
         "公司"
       ],
       "text": "【芯原股份推出CPP2000攝像頭後處理IP】7月3日，芯原股份宣佈推出高效能CPP2000攝像頭後處理（CPP）IP。據其介紹，CPP2000能夠提升移動成像場景下的影象質量與視覺感知能力，為機器人、無人機及其他移動視覺應用提供更加穩定可靠的視覺處理效能。"
-    },
-    {
-      "id": "4968464",
-      "time": "2026-07-03 08:20:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "深交所港股通標的證券名單調入大金重工，7月3日起生效。"
-    },
-    {
-      "id": "4968463",
-      "time": "2026-07-03 08:20:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國總統特朗普稱住房法案“沒問題” 但仍暫緩簽署】美國總統唐納德·特朗普表示，自己拒絕簽署的一項獲得兩黨支援的住房法案“沒有問題”，似乎暗示該法案最終仍可能成為法律。不過，他仍在暫緩簽署，希望藉此推動自己認為更重要的選民身份識別立法。“住房法案沒問題。裡面有很多民主黨的內容，我甚至認為並不好，但法案本身沒問題，”特朗普當地時間週四接受採訪時表示，“不過，我已經表明立場，在《拯救美國法案》獲得透過之前，我寧願什麼都不籤。”"
-    },
-    {
-      "id": "mkt:019f2559-01e8-7aab-8c86-67de03b052fb",
-      "time": "2026-07-03 08:20:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shenzhen Stock Exchange added Dajin Heavy Industry to the list of Hong Kong Stock Connect eligible securities, effective July 3."
-    },
-    {
-      "id": "mkt:019f2557-f969-7aab-8c86-5ded3065d2b8",
-      "time": "2026-07-03 08:19:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【China International Capital Co: Cooler US nonfarm supports Fed holding rates this year (no hike, no cut)】China International Capital Co (CICC) says June US nonfarm payrolls rose 57k, below consensus, indicating a cooling in employment acceleration. After downward revisions the three‑month average gain remains 111k, showing continued labor‑market expansion; unemployment fell to 4.2% while labor‑force participation declined, consistent with firm demand and tighter supply and limited overall unemployment pressure. CICC maintains a call that the report gives the Fed room to wait, so it expects neither a rate hike nor a cut this year. Medium term, CICC attributes recent job gains more to an AI‑investment led cyclical recovery than to short‑lived factors; if AI drives sustained aggregate demand expansion, the Fed could resume hiking next year."
-    },
-    {
-      "id": "4968462",
-      "time": "2026-07-03 08:18:58",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，就業資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。中期來看，今年美國就業改善更多源於AI投資推動的經濟週期修復，而非世界盃等短期因素。這意味著如果經濟總需求在AI的拉動下持續擴張，則不排除明年美聯儲重啟加息的可能性。"
-    },
-    {
-      "id": "mkt:019f2557-22cd-7aab-8c86-519a2e2a7c17",
-      "time": "2026-07-03 08:18:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CITIC Securities expects bulk commodity prices to remain divergent in Q3 and favors copper, lithium carbonate, electrolytic aluminum and coal on clear demand-side support."
-    },
-    {
-      "id": "4968461",
-      "time": "2026-07-03 08:17:44",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "韓國財政部長：外匯波動和物價上漲加劇了民眾的生活困難。"
-    },
-    {
-      "id": "mkt:019f2556-9e66-7aab-8c86-4fa07d2593c7",
-      "time": "2026-07-03 08:17:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【CITIC Securities: China domestic AI compute theme clear; leaders' earnings likely to accelerate】CITIC Securities says Meituan on June 30, 2026 completed end-to-end training and inference of a trillion-parameter model on a 50,000-card China domestic compute cluster, marking a capability shift from inference to training. DeepSeekV4 final, due mid‑July, will introduce peak‑valley pricing with peak API call prices doubling, and domestic compute supply constraints are intensifying. CITIC says order visibility for domestic compute has materially improved; chip design firms with confirmed customer orders and priority capacity allocation should be first beneficiaries. The broker remains constructive on the China domestic compute supply chain, citing scale-up opportunities from scarce advanced process capacity to diverse design companies and super‑node operators, and expects strong growth momentum for advanced process, advanced packaging, advanced memory and supporting suppliers."
-    },
-    {
-      "id": "em:qqyh_mlc:202607033792589379",
-      "time": "2026-07-03 08:17:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，6月美國新增非農就業5.7萬人，低於市場預期，表明就業增長的加速勢頭有所降溫。前值下修後，近三個月平均新增就業仍達11.1萬人，顯示勞動力市場仍在擴張。與此同時，失業率降至4.2%，勞動參與率繼續回落，反映就業需求穩健與勞動力供給收縮並存，整體失業壓力不大。我們認為，這份資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607033792589379",
-      "time": "2026-07-03 08:17:40",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【中金：非農降溫支援聯儲不加息、不降息】中金公司研報指出，6月美國新增非農就業5.7萬人，低於市場預期，表明就業增長的加速勢頭有所降溫。前值下修後，近三個月平均新增就業仍達11.1萬人，顯示勞動力市場仍在擴張。與此同時，失業率降至4.2%，勞動參與率繼續回落，反映就業需求穩健與勞動力供給收縮並存，整體失業壓力不大。我們認為，這份資料給了美聯儲等待觀望的時間，因此維持年內既不加息、也不降息的判斷。"
-    },
-    {
-      "id": "4968460",
-      "time": "2026-07-03 08:17:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受與三星電機成立合資企業訊息提振，住友化學股價上漲7.8%。"
-    },
-    {
-      "id": "mkt:019f2555-f4a5-7aab-8c86-447dbf119e31",
-      "time": "2026-07-03 08:16:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan-listed Kioxia shares fall 9%."
     }
   ]
 }
