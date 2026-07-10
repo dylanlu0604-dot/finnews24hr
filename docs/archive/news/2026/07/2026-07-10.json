@@ -1,7 +1,116 @@
 {
   "date": "2026-07-10",
-  "count": 2736,
+  "count": 2749,
   "items": [
+    {
+      "id": "mkt:019f4c84-109d-7aab-8d35-71eb9ef14870",
+      "time": "2026-07-10 22:52:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's UN envoy said Iran's attacks on regional states have swiftly undermined the terms of the memorandum of understanding."
+    },
+    {
+      "id": "4981608",
+      "time": "2026-07-10 22:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士計劃在韓國建設約15吉瓦的資料中心，另有5吉瓦位於海外。"
+    },
+    {
+      "id": "mkt:019f4c82-f581-7aab-8d35-68ac04b3ca5d",
+      "time": "2026-07-10 22:51:18",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【National Flood Control and Drought Relief Headquarters: Typhoon Bavi approaching Zhejiang–Fujian coast】The office of the National Flood Control and Drought Relief Headquarters issued a notice on July 10 saying Typhoon Bavi is approaching the Zhejiang–Fujian coast and is expected to make landfall in the Xiapu (Fujian) to Wenling (Zhejiang) coastal area in the early hours of July 12 at strong-typhoon to typhoon strength (wind scale 13–15; 40–48 m/s). The system will move northwest after landfall. From July 10–13 widespread heavy to torrential rain is forecast across East, Central, North and Northeast China, with broad coverage, high intensity and extreme rainfall in some areas."
+    },
+    {
+      "id": "4981607",
+      "time": "2026-07-10 22:50:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "杜克能源公司：杜克能源佛羅里達分公司計劃建設140萬千瓦電池儲能專案，並將5億美元稅收抵免讓渡給客戶。"
+    },
+    {
+      "id": "4981606",
+      "time": "2026-07-10 22:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【分析稱霍爾木茲海峽通航量驟降 世界油閥幾近停滯】總部位於英國的溫沃德海事分析公司9日釋出報告說，由於美伊持續交火，霍爾木茲海峽通航量急劇下降，經海峽駛離波斯灣的商船交通基本陷入停滯。報告說，霍爾木茲海峽通航量近日經歷大幅起伏。7日霍爾木茲海峽共記錄51次通行，駛離波斯灣的船舶數量激增，達到35艘；8日記錄35次通行，駛離的18艘中僅兩艘經南部航道駛離，說明前一夜襲擊發生後，船舶運營商選擇避開靠近阿曼一側航道；8日夜間至9日凌晨，霍爾木茲海峽僅記錄5次通行，只有一艘駛離波斯灣。（央視財經）"
+    },
+    {
+      "id": "4981605",
+      "time": "2026-07-10 22:50:04",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "SK集團董事長崔泰源： SK 另一重點工作是佈局 AI 資料中心。"
+    },
+    {
+      "id": "4981604",
+      "time": "2026-07-10 22:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克生物科技指數一度跌超3%，成分股Kyverna Therapeutics目前跌12.45%，Prime Medicine跌12.29%，Regenxbio跌11.18%，Solid Biosciences跌10.28%，SIGA Tech則漲2.29%，Mesoblast漲3.81%，Aardvark Therapeutics漲4.20%，First Tracks Biotherapeutics漲16.42%。"
+    },
+    {
+      "id": "mkt:019f4c81-501e-7aab-8d35-604ae4666cb3",
+      "time": "2026-07-10 22:49:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's military said it also struck an oil refinery in Russia's Leningrad region."
+    },
+    {
+      "id": "te:markets:566085",
+      "time": "2026-07-10 22:49:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Thermo Fisher Scientific Stock Price Hits 11-week High — Thermo Fisher Scientific shares increased to 529.21 USD, the highest since April 2026. Over the past 4 weeks, Thermo Fisher Scientific gained 9.65%, and in the last 12 months, it increased 22.71%."
+    },
+    {
+      "id": "4981603",
+      "time": "2026-07-10 22:49:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源：若簽訂長期協議，儲存行業將不再具備週期性。"
+    },
+    {
+      "id": "4981602",
+      "time": "2026-07-10 22:49:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方表示，其襲擊了俄羅斯列寧格勒州的一處煉油廠。"
+    },
+    {
+      "id": "4981601",
+      "time": "2026-07-10 22:48:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長崔泰源： 客戶均希望簽訂長期供貨協議，以鎖定穩定貨源。"
+    },
     {
       "id": "mkt:019f4c7f-c15c-7aab-8d35-5f51460d014e",
       "time": "2026-07-10 22:47:48",
@@ -87,6 +196,14 @@
         "國際"
       ],
       "text": "烏克蘭方面稱其擊毀18艘俄羅斯艦船。"
+    },
+    {
+      "id": "4981592",
+      "time": "2026-07-10 22:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市委常委會傳達學習習近平總書記對防汛救災工作和安全生產工作作出的重要指示精神，研究老舊小區改造、審計工作等事項】會議指出，要認真學習領會習近平總書記重要指示精神，堅決杜絕麻痺思想和僥倖心理，強化底線思維和極限思維，著眼極端情況從最壞處打算、做最充分準備，堅決打好打贏颱風“巴威”防禦戰。要加強雨情汛情監測預警，及時精準做好資訊釋出。要落實落細避險排險措施，抓實風險隱患排查整治，抓緊備好備足防汛搶險物資，抓好各項預案的啟動落實，人員轉移安置要應轉盡轉、應轉早轉，發現險情要快速反映、果斷處置，確保城市正常生產生活秩序。要在實戰中鍛鍊隊伍，緊緊依靠各級黨組織的用心投入和每位市民的自覺自律，全力守護共同家園。要堅決守牢安全生產底線，緊盯薄弱環節、多發問題，壓實責任、嚴查隱患、嚴堵漏洞、嚴防事故。持續鞏固專項整治成果，建立完善監管長效機制，從根本上築牢發展的安全根基，提升本質安全水平。（上海釋出）"
     },
     {
       "id": "te:markets:566080",
