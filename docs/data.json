@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-11 02:01:31",
-  "count": 16172,
+  "updated": "2026-07-11 02:05:29",
+  "count": 16171,
   "items": [
+    {
+      "id": "4981828",
+      "time": "2026-07-11 02:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外長菲丹：我們解讀特朗普總統表態後認為，他並非真的宣佈停火已經失效。他此番言論主要是針對美伊之間一系列衝突事件引發的報復行動作出回應。美伊雙方在霍爾木茲海峽通航規則執行事宜上溝通不暢，產生了誤解。兩國需要加強溝通，並建立更完善的衝突規避機制。"
+    },
+    {
+      "id": "4981827",
+      "time": "2026-07-11 02:02:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其外長菲丹：土耳其向阿聯酋出口 S-400 防空系統的相關事宜仍在推進中，土耳其政府內部已開展多輪磋商。也必須與俄方開展妥善溝通，現階段無法透露涉及的國家、推進流程或是解決方案型別。"
+    },
+    {
+      "id": "4981826",
+      "time": "2026-07-11 02:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基宣佈成立烏軍遠端打擊司令部】烏克蘭總統澤連斯基10日表示，他已簽署命令，在烏克蘭武裝部隊內部設立一個新的遠端打擊司令部，併成立聯合快速反應部隊。澤連斯基說，新設立的遠端打擊司令部將集中現有資源，對俄進行深入打擊；聯合快速反應部隊將整合突擊部隊、無人機、炮兵等作戰力量，以提升前線快速反應能力，並建設一支現代化、技術化的突擊力量。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4d31-2bc4-7aab-8d38-7004b8236c8a",
+      "time": "2026-07-11 02:01:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports the US has sent a team to Beirut to press for a ceasefire between Israel and Hezbollah."
+    },
     {
       "id": "4981825",
       "time": "2026-07-11 01:59:35",
@@ -147391,58 +147423,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗總統與俄羅斯討論擴大合作的事宜。"
-    },
-    {
-      "id": "mkt:019f2927-d415-7aab-8c9a-32de42e30f35",
-      "time": "2026-07-04 02:05:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "AIR.PA",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Airbus CEO says political leaders in Berlin and Paris are eager to find a cooperative solution."
-    },
-    {
-      "id": "mkt:019f2927-bfac-7aab-8c9a-2ebee9be4ffd",
-      "time": "2026-07-04 02:04:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Brazilian government data show June crude oil exports were 8.48 mln tonnes, up from 7.95 mln tonnes a year earlier."
-    },
-    {
-      "id": "mkt:019f2927-be6b-7aab-8c9a-278d9a431256",
-      "time": "2026-07-04 02:04:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Brazilian government data: June soybean exports 14.50 mln tonnes, up 8.1% YoY from 13.42 mln tonnes; June iron ore exports 42.23 mln tonnes, up 17.7% YoY from 35.87 mln tonnes."
-    },
-    {
-      "id": "4970043",
-      "time": "2026-07-04 02:01:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客（AIR.PA）執行長： 柏林與巴黎的政界領導人都積極尋求合作解決方案。"
-    },
-    {
-      "id": "4970042",
-      "time": "2026-07-04 02:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西6月貿易順差擴大至97.58億美元，預期盈餘110億美元。\n6月出口達到362.77億美元，預期379億美元。\n6月進口增至265.20億美元，預期266億美元。\n1-6月貿易盈餘423.57億美元，1-5月順差326億美元。"
     }
   ]
 }
