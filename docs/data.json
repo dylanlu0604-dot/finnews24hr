@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-10 09:22:30",
-  "count": 15822,
+  "updated": "2026-07-10 09:26:24",
+  "count": 15816,
   "items": [
+    {
+      "id": "4980009",
+      "time": "2026-07-10 09:25:27",
+      "tags": [],
+      "text": "三大股指開盤漲跌不一，滬指跌0.13％，深成指漲0.53％，創業板漲0.59％。"
+    },
+    {
+      "id": "mkt:019f49a1-27ee-7aab-8d24-2153ddc9edac",
+      "time": "2026-07-10 09:25:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "A-shares open: Shanghai Composite down 0.13%, Shenzhen Composite Index up 0.53%, ChiNext Index up 0.59%. Semiconductor-equipment precision metal-parts \"little giant\" Tuolunsi jumped 800% on its debut."
+    },
+    {
+      "id": "mkt:019f49a0-d25f-7aab-8d24-1ec5dfbe5008",
+      "time": "2026-07-10 09:25:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC nets 43 bln yuan drain today; 416.5 bln yuan net drain this week】PBOC conducted CNY20 bln of 7-day reverse repos today while CNY63 bln matured, resulting in a net withdrawal of CNY43 bln. For the week the PBOC injected CNY62 bln via 7-day reverse repos and CNY1.0 tln via buyout repos; CNY678.5 bln of 7-day reverse repos and CNY800 bln of buyout repos matured, leaving a weekly net liquidity withdrawal of CNY416.5 bln."
+    },
+    {
+      "id": "4980008",
+      "time": "2026-07-10 09:24:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價回吐早盤漲幅，最新漲1.5%，報221.9萬韓元。"
+    },
+    {
+      "id": "4980007",
+      "time": "2026-07-10 09:23:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雪佛龍與Alinta Energy簽署天然氣供應協議，五年供應46PJ天然氣】雪佛龍澳大利亞公司7月10日宣佈，與澳大利亞能源企業Alinta Energy簽署長期天然氣銷售與採購協議，將從其西澳天然氣資產組合中供應天然氣。根據協議，雪佛龍將自2027年7月起，在五年內向Alinta Energy供應46拍焦（PJ）天然氣，氣源來自雪佛龍運營的Gorgon和Wheatstone液化天然氣專案權益以及西北大陸架專案。"
+    },
+    {
+      "id": "4980006",
+      "time": "2026-07-10 09:22:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌7.5個基點，至2.800%。"
+    },
+    {
+      "id": "4980005",
+      "time": "2026-07-10 09:22:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "晶合整合（Nexchip）香港上市首日開盤漲11.5%。"
+    },
     {
       "id": "4980004",
       "time": "2026-07-10 09:21:29",
@@ -28,6 +91,15 @@
         "Impact bullish"
       ],
       "text": "HSI opened up 183.26 points (0.76%) at 24,213.44 on Friday, July 10. Hang Seng Tech Index opened up 58.95 points (1.25%) at 4,790.51. Hang Seng China Enterprises Index (HSCEI) opened up 68.01 points (0.85%) at 8,065.30. Hang Seng Red Chip Index opened up 21.90 points (0.57%) at 3,846.01."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607103800941797",
+      "time": "2026-07-10 09:21:08",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展200億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019f499d-2b91-7aab-8d24-0eb749ca7c08",
@@ -144344,135 +144416,6 @@
         "Importance 1"
       ],
       "text": "Australia Shares Poised to Reverse Prior Week’s Dip — Australian stocks climbed 82 points or 0.9% to 8,806 on Friday morning deals, rebounding from a subdued session the day before amid stronger U.S. equity futures after Wall Street ended mixed overnight after weak U.S. jobs data. An upward revision in Australia's private sector activity for June boosted sentiment, highlighting renewed growth in services. Gains, however, were capped by rate concerns, as the Reserve Bank's June meeting minutes and recent remarks from Governor Bullock signaled policy tightening may still be needed despite calmer Middle East tensions. Sector strength included consumer durables, healthcare, retail, and process industries. Three of four major banks rose between 0.3% and 1%. Mining giant BHP Group edged up 0.3% while other notable performers were Northern Star Resources (7.0%), Evolution Mining (4.8%), and Greatland Resources (2.6%). For the week, markets are on track to edge higher, up around 0.2% so far, reversing from a modest drop in the prior period."
-    },
-    {
-      "id": "mkt:019f2595-0ce6-7aab-8c87-da06fcd6c711",
-      "time": "2026-07-03 09:25:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Retail cash yield snapshot】Tencent Licaitong (on-demand + 7-day) 7-day annualized yields ranged 0.7750–1.0700%. WeChat Lingqian Tong 7-day annualized yields ranged 0.9680–1.0040%. Alipay Yu'e Bao 7-day annualized yields ranged 1.0020–1.0240%."
-    },
-    {
-      "id": "4968588",
-      "time": "2026-07-03 09:25:30",
-      "tags": [],
-      "text": "三大股指開盤漲跌不一，滬指漲0.06％，深成指跌0.12％，創業板跌0.16％。"
-    },
-    {
-      "id": "mkt:019f2594-9d7f-7aab-8c87-d35da6cf9621",
-      "time": "2026-07-03 09:25:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "At the A-share open, the Shanghai Composite Index rose 0.06%; the Shenzhen Composite Index fell 0.12% and the ChiNext Index fell 0.16%."
-    },
-    {
-      "id": "4968587",
-      "time": "2026-07-03 09:25:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股快手高開超6%】港股快手高開超6%，訊息面上，據新京報報道，快手旗下影片生成大模型可靈AI落地近30億美元融資，投後估值有望達到180億美元。"
-    },
-    {
-      "id": "4968586",
-      "time": "2026-07-03 09:24:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4190美元/盎司，日內漲1.62%。"
-    },
-    {
-      "id": "4968585",
-      "time": "2026-07-03 09:24:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月講話之際，日元兌美元匯率升破161。"
-    },
-    {
-      "id": "4968584",
-      "time": "2026-07-03 09:24:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4200美元/盎司，日內漲1.80%。"
-    },
-    {
-      "id": "4968583",
-      "time": "2026-07-03 09:23:54",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）收復早盤失地，上漲1.2%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607033792778688",
-      "time": "2026-07-03 09:23:21",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展630億元7天逆回購操作】央行今日開展630億元7天逆回購操作，投標量630億元，中標量630億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f2592-ad73-7aab-8c87-ca04585096da",
-      "time": "2026-07-03 09:23:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "HSCEI"
-      ],
-      "text": "At the open in Hong Kong on July 3, the Hang Seng Index (HSI) rose 185.82 points, or 0.81%, to 23,240.85; the Hang Seng Tech Index gained 33.70 points, or 0.76%, to 4,487.98; the Hang Seng China Enterprises Index (HSCEI) added 62.07 points, or 0.82%, to 7,674.55; the Hang Seng Red Chip Index advanced 18.55 points, or 0.50%, to 3,754.15."
-    },
-    {
-      "id": "mkt:019f2592-8e3e-7aab-8c87-c1658960551a",
-      "time": "2026-07-03 09:23:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said specific monetary policy decisions should be made by the Bank of Japan."
-    },
-    {
-      "id": "4968582",
-      "time": "2026-07-03 09:22:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：經濟藍圖中關於日本央行的內容並無新意。"
-    },
-    {
-      "id": "4968581",
-      "time": "2026-07-03 09:22:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數日內漲約1%。"
-    },
-    {
-      "id": "mkt:019f2592-18fc-7aab-8c87-b8296781838c",
-      "time": "2026-07-03 09:22:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index is up about 1% intraday after earlier falling as much as 3%."
     }
   ]
 }
