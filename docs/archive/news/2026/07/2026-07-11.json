@@ -1,7 +1,57 @@
 {
   "date": "2026-07-11",
-  "count": 241,
+  "count": 246,
   "items": [
+    {
+      "id": "4981872",
+      "time": "2026-07-11 03:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗、巴基斯坦、美國與卡達預計將於近期舉行四方電話會談。"
+    },
+    {
+      "id": "4981871",
+      "time": "2026-07-11 03:04:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7770元，較週四夜盤收盤漲140點。成交量483.25億美元。"
+    },
+    {
+      "id": "mkt:019f4d6a-7f0e-7aab-8d39-1d26f8f9dd99",
+      "time": "2026-07-11 03:04:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Despite high valuation, NVIDIA remains Morgan Stanley's top semiconductor pick】Morgan Stanley analysts wrote after an investor meeting with NVIDIA management that despite a large market cap and recent relative underperformance, NVIDIA is still their preferred semiconductor stock. They said AI hyperscale cloud providers—about half of current data‑center revenue—are exploring custom‑chip alternatives but NVIDIA \"will retain a large portion of that business\" and both standard and custom categories should still grow. Demand from Neocloud, industrial and sovereign data centers remains strong and the Vera Rubin chip is expected to ship on schedule. The analysts warned valuation multiples may be capped by NVIDIA's size and index weight but said they expect the valuation gap to close over time and wrote, \"Our conviction remains strong.\""
+    },
+    {
+      "id": "mkt:019f4d6a-3044-7aab-8d39-16088734dbe5",
+      "time": "2026-07-11 03:03:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.33% at 24,238, a 63-point premium to the cash index."
+    },
+    {
+      "id": "4981870",
+      "time": "2026-07-11 03:03:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週芝加哥小麥期貨漲約6.6%，玉米期貨漲超4.2%】週五（7月10日）紐約尾盤，彭博穀物分類指數漲1.96%，報30.8965點，本週累計上漲4.66%。\n本週，CBOT玉米期貨累漲4.25%，報4.6025美元/蒲式耳。\nCBOT小麥期貨累漲6.59%，報6.3925美元/蒲式耳。\nCBOT大豆期貨累漲3.64%，報11.8950美元/蒲式耳，豆粕期貨累漲4.43%，豆油期貨累漲5.38%。\nCBOT瘦肉豬期貨累漲3.63%，活牛期貨累跌1.70%，飼牛期貨累跌1.73%。\nICE原糖期貨累漲0.07%，ICE白糖期貨累跌2.35%。ICE阿拉比卡咖啡期貨累漲1.06%，咖啡“C”期貨累漲12.13%。\n羅布斯塔咖啡期貨累漲3.61%。紐約可可期貨累漲18.61%，報5973美元/噸。倫敦可可期貨累漲17.14%。\n芝加哥WCE雙低油菜籽期貨累漲5.12%。ICE棉花期貨累漲5.74%。"
+    },
     {
       "id": "4981868",
       "time": "2026-07-11 03:00:02",

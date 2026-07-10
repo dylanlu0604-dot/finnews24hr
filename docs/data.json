@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-11 03:03:49",
+  "updated": "2026-07-11 03:07:44",
   "count": 16207,
   "items": [
+    {
+      "id": "4981872",
+      "time": "2026-07-11 03:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗、巴基斯坦、美國與卡達預計將於近期舉行四方電話會談。"
+    },
+    {
+      "id": "4981871",
+      "time": "2026-07-11 03:04:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7770元，較週四夜盤收盤漲140點。成交量483.25億美元。"
+    },
+    {
+      "id": "mkt:019f4d6a-7f0e-7aab-8d39-1d26f8f9dd99",
+      "time": "2026-07-11 03:04:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Despite high valuation, NVIDIA remains Morgan Stanley's top semiconductor pick】Morgan Stanley analysts wrote after an investor meeting with NVIDIA management that despite a large market cap and recent relative underperformance, NVIDIA is still their preferred semiconductor stock. They said AI hyperscale cloud providers—about half of current data‑center revenue—are exploring custom‑chip alternatives but NVIDIA \"will retain a large portion of that business\" and both standard and custom categories should still grow. Demand from Neocloud, industrial and sovereign data centers remains strong and the Vera Rubin chip is expected to ship on schedule. The analysts warned valuation multiples may be capped by NVIDIA's size and index weight but said they expect the valuation gap to close over time and wrote, \"Our conviction remains strong.\""
+    },
+    {
+      "id": "mkt:019f4d6a-3044-7aab-8d39-16088734dbe5",
+      "time": "2026-07-11 03:03:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.33% at 24,238, a 63-point premium to the cash index."
+    },
+    {
+      "id": "4981870",
+      "time": "2026-07-11 03:03:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週芝加哥小麥期貨漲約6.6%，玉米期貨漲超4.2%】週五（7月10日）紐約尾盤，彭博穀物分類指數漲1.96%，報30.8965點，本週累計上漲4.66%。\n本週，CBOT玉米期貨累漲4.25%，報4.6025美元/蒲式耳。\nCBOT小麥期貨累漲6.59%，報6.3925美元/蒲式耳。\nCBOT大豆期貨累漲3.64%，報11.8950美元/蒲式耳，豆粕期貨累漲4.43%，豆油期貨累漲5.38%。\nCBOT瘦肉豬期貨累漲3.63%，活牛期貨累跌1.70%，飼牛期貨累跌1.73%。\nICE原糖期貨累漲0.07%，ICE白糖期貨累跌2.35%。ICE阿拉比卡咖啡期貨累漲1.06%，咖啡“C”期貨累漲12.13%。\n羅布斯塔咖啡期貨累漲3.61%。紐約可可期貨累漲18.61%，報5973美元/噸。倫敦可可期貨累漲17.14%。\n芝加哥WCE雙低油菜籽期貨累漲5.12%。ICE棉花期貨累漲5.74%。"
+    },
     {
       "id": "4981868",
       "time": "2026-07-11 03:00:02",
@@ -147726,47 +147776,6 @@
         "MKT News"
       ],
       "text": "Macron says France is adjusting its Middle East deployment: aircraft carrier Charles de Gaulle will be withdrawn, while mine‑clearing and escort forces will remain on station and on standby."
-    },
-    {
-      "id": "4970060",
-      "time": "2026-07-04 03:05:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國電網運營巨頭PJM Interconnection LLC在緊急程式網站上釋出訊息，宣佈啟動EEA2（二級能源緊急警報）行動，原因是已無法滿足預期的能源需求。該公司表示，正在實施一項運營計劃，要求公用事業公司在其服務區域內削減電力需求。該區域覆蓋中大西洋地區、南部地區以及華盛頓特區，服務人口達6700萬。"
-    },
-    {
-      "id": "4970059",
-      "time": "2026-07-04 03:05:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國仍保持全面戰備，將持續根據地區局勢演變與安全需求靈活調整兵力配置。"
-    },
-    {
-      "id": "4970058",
-      "time": "2026-07-04 03:04:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國已向中東部署掃雷裝備，其中包含兩艘掃雷艦。這支力量由兩艘護衛艦與一架海上巡邏機配屬護航，將協同各方夥伴，全力推動航道航運全面恢復，並保障霍爾木茲海峽通航安全。"
-    },
-    {
-      "id": "4970057",
-      "time": "2026-07-04 03:04:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長：美國必須在貿易問題上 “接受既成現實”。"
-    },
-    {
-      "id": "4970056",
-      "time": "2026-07-04 03:03:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我同荷蘭首相進行了一場極具實質內容的會談。對方願意持續向我國提供援助，對此我深表感激。"
     }
   ]
 }
