@@ -1,7 +1,245 @@
 {
-  "updated": "2026-07-11 03:15:34",
-  "count": 16204,
+  "updated": "2026-07-11 03:48:28",
+  "count": 16201,
   "items": [
+    {
+      "id": "te:markets:566126",
+      "time": "2026-07-11 03:45:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Brent crude closed near $76 per barrel, recording a weekly gain of about 5%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
+    },
+    {
+      "id": "4981888",
+      "time": "2026-07-11 03:45:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽船舶通行量持續低迷】航運資料平臺 MarineTraffic 統計顯示，美伊雙方相互發動打擊的過去 24 小時內，僅有至少 15 艘商船駛過霍爾木茲海峽。 其中共計 11 艘船舶駛入波斯灣，包含 6 艘貨輪、5 艘油輪；另有 4 艘貨輪穿過海峽駛入阿曼灣。該資料與近幾周持續低迷的通航水平相符，僅在美伊談判期間出現過短暫回升。衝突爆發前，平均每日約有 110 艘船舶通行該海峽。這片海域已連續數月遭遇 GPS 訊號欺騙干擾，這類導航干擾會讓船舶對外播報的定位出現嚴重偏差。而本次通行船隻的定位訊號暫未發現遭篡改跡象。"
+    },
+    {
+      "id": "te:markets:566125",
+      "time": "2026-07-11 03:42:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Crude oil settled around $71 per barrel, recording a weekly gain of about 4%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
+    },
+    {
+      "id": "te:economy:566124",
+      "time": "2026-07-11 03:39:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Bond Yields Ease on Soft CPI — Brazil's 10-year government bond yield fell to 14.43% in July from 14.54% a week earlier after inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading reinforced expectations that the central bank could adopt a more dovish stance. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing energy-driven inflation concerns. At the same time, formal job creation slowed to about 73,000 positions in May, well below forecasts of 115,000, pointing to a gradual cooling in the labor market."
+    },
+    {
+      "id": "mkt:019f4d89-84d3-7aab-8d39-87ceadaf53d5",
+      "time": "2026-07-11 03:38:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said the USS George H.W. Bush is sailing in regional waters and its sailors are conducting night air-combat training onboard."
+    },
+    {
+      "id": "4981887",
+      "time": "2026-07-11 03:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：喬治・H・W・布什號航空母艦（CVN 77）在區域海域航行期間，美國海軍艦員於艦上開展夜間飛行作業。"
+    },
+    {
+      "id": "mkt:019f4d85-e1cd-7aab-8d39-7c7d1a09c108",
+      "time": "2026-07-11 03:34:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week to July 7, speculators increased net short positions in CBOT U.S. Treasury futures by 52,811 contracts to 143,591. Speculators raised net shorts in CBOT 5‑year Treasury futures by 38,606 contracts to 1,359,116, and in CBOT ultra‑long Treasury futures by 21,150 contracts to 307,819."
+    },
+    {
+      "id": "4981886",
+      "time": "2026-07-11 03:33:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，四大紐約商品交易所、洲際交易所天然氣市場投機者減持 1597 手淨多頭合約，淨多頭持倉降至 7366 手。"
+    },
+    {
+      "id": "mkt:019f4d85-ae84-7aab-8d39-7202412161f8",
+      "time": "2026-07-11 03:33:54",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC: In the week to July 7, speculators increased net short positions in CBOT U.S. 10‑year Treasury futures by 5,371 contracts to 814,262 contracts, and cut net short positions in CBOT U.S. 2‑year Treasury futures by 26,573 contracts to 1,261,008 contracts."
+    },
+    {
+      "id": "4981885",
+      "time": "2026-07-11 03:33:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，投機者削減 26573 手芝加哥期貨交易所美國 2 年期國債期貨淨空頭持倉，淨空頭持倉降至 1261008 手；\n增持 38606 手美國 5 年期國債期貨淨空頭合約，淨空頭持倉達 1359116 手；\n增持 5371 手美國 10 年期國債期貨淨空頭合約，淨空頭持倉增至 814262 手；\n增持 21150 手美國超長期國債期貨淨空頭合約，淨空頭持倉增至 307819 手。"
+    },
+    {
+      "id": "4981884",
+      "time": "2026-07-11 03:31:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，紐約商品交易所黃金投機者減持 1964 手淨多頭合約，淨多頭持倉降至 114854 手；\n銅投機者減持 970 手淨多頭合約，淨多頭持倉降至 60397 手；\n 白銀投機者減持 616 手淨多頭合約，淨多頭持倉降至 12131 手。"
+    },
+    {
+      "id": "mkt:019f4d83-919c-7aab-8d39-6935b5e02d16",
+      "time": "2026-07-11 03:31:35",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD"
+      ],
+      "text": "CFTC data for the week to July 7 show net short positions in the Japanese yen of 123,778 contracts, the euro 16,227 contracts, the pound sterling 87,903 contracts and the Swiss franc 37,414 contracts."
+    },
+    {
+      "id": "mkt:019f4d83-86c7-7aab-8d39-63ec56a31869",
+      "time": "2026-07-11 03:31:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US Commodity Futures Trading Commission data for the week ended July 7: COMEX gold speculators reduced net long positions by 1,964 contracts to 114,854; silver net longs fell 616 contracts to 12,131; copper net longs fell 970 contracts to 60,397."
+    },
+    {
+      "id": "mkt:019f4d83-2c92-7aab-8d39-5e9f59b83ce5",
+      "time": "2026-07-11 03:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: In the week to July 7, speculative net-long positions in four major natural gas contracts on NYMEX and ICE fell by 1,597 contracts to 7,366."
+    },
+    {
+      "id": "mkt:019f4d82-f9fd-7aab-8d39-51f287d6565b",
+      "time": "2026-07-11 03:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC data: For the week to July 7, speculators reduced WTI crude net-long positions by 19,507 contracts to 65,681 contracts."
+    },
+    {
+      "id": "4981883",
+      "time": "2026-07-11 03:30:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：7月7日當週，投機者所持WTI原油淨多頭頭寸減少19,507手合約，至65,681手合約。"
+    },
+    {
+      "id": "4981882",
+      "time": "2026-07-11 03:30:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，瑞郎淨空頭持倉 37414 手合約；英鎊淨空頭持倉 87903 手合約；歐元淨空頭持倉 16227 手合約；日元淨空頭持倉 123778 手合約。"
+    },
+    {
+      "id": "4981881",
+      "time": "2026-07-11 03:29:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，比特幣淨多頭持倉為 3500 手合約。"
+    },
+    {
+      "id": "4981880",
+      "time": "2026-07-11 03:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表：中方將繼續推動全球互聯互通】當地時間8日，在2026年聯合國可持續發展高階別政治論壇期間，“推進聯合國可持續交通十年”主題邊會在紐約聯合國總部舉行。中國常駐聯合國副代表孫磊表示，今年是《聯合國可持續交通十年實施計劃》開局之年。我們要抓住機遇，推進互聯互通、增進民心相通、共促綠色發展。中方表示，中國也是全球可持續交通事業的積極貢獻者。中國將繼續與世界相交、與時代相通，推動全球互聯互通，為全球可持續發展事業作出更大貢獻。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4d7c-9604-7aab-8d39-4ff252e11eec",
+      "time": "2026-07-11 03:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP reports the U.S.-Canada border bridge is expected to open before the end of July."
+    },
+    {
+      "id": "4981879",
+      "time": "2026-07-11 03:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美加邊境大橋定於 7 月末通車。"
+    },
+    {
+      "id": "4981878",
+      "time": "2026-07-11 03:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：將現行芝加哥奧黑爾機場定期航班運營限制延長至 2027 年 10 月 30 日。"
+    },
+    {
+      "id": "mkt:019f4d75-e4f1-7aab-8d39-465fb2f9b3e6",
+      "time": "2026-07-11 03:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar emir's office said the Qatar emir and Pakistan's prime minister confirmed they will continue cooperating to support regional security and safeguard shipping and sea lanes."
+    },
+    {
+      "id": "4981877",
+      "time": "2026-07-11 03:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾與巴基斯坦總理表示願持續開展合作，維護地區安全，保障海上航道航行安全。"
+    },
     {
       "id": "mkt:019f4d74-37ea-7aab-8d39-3cf38e8ef272",
       "time": "2026-07-11 03:14:49",
@@ -147506,249 +147744,6 @@
         "國際"
       ],
       "text": "市場訊息：普京稱俄軍已在前線掌握 “戰略主動權”。"
-    },
-    {
-      "id": "mkt:019f2986-7342-7aab-8c9a-cb9927227ddb",
-      "time": "2026-07-04 03:48:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russia launched a large-scale bombardment on Sumy in northern Ukraine, striking an apartment building and a shop and killing three people."
-    },
-    {
-      "id": "4970087",
-      "time": "2026-07-04 03:47:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭蘇梅州州長表示，俄軍對烏克蘭北部城市蘇梅發動大規模轟炸，襲擊命中一棟公寓樓和一家商鋪，造成三人死亡。"
-    },
-    {
-      "id": "4970086",
-      "time": "2026-07-04 03:46:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列稱其打擊了黎巴嫩南部多處真主黨據點。"
-    },
-    {
-      "id": "mkt:019f2982-d121-7aab-8c9a-c48c88eb1908",
-      "time": "2026-07-04 03:44:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Greenland authorities say US still pressing but island 'not for sale'】Greenland's self-rule premier Jens-Frederik Nielsen said on the 3rd in France that the United States continues pressing to acquire Greenland, but the island is 'not for sale'. He said direct talks with the US are the 'right direction' and that Greenland is willing to deepen cooperation with 'like-minded' European countries on critical minerals, energy and hydropower."
-    },
-    {
-      "id": "4970085",
-      "time": "2026-07-04 03:42:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【格陵蘭島當局：美國仍在施壓，但該島“絕不出售”】格陵蘭島自治政府總理延斯-弗雷德裡克·尼爾森3日在法國出席一場公開活動時表示，美國為取得格陵蘭島仍在持續施壓，但格陵蘭島“絕不出售”。尼爾森說，與美國展開直接對話是解決問題的“正確方向”，格陵蘭島願與“志同道合”的歐洲國家在關鍵礦產、能源、水力發電等方面加強合作。（新華社）"
-    },
-    {
-      "id": "mkt:019f2980-4fc8-7aab-8c9a-be4c33c0ffcd",
-      "time": "2026-07-04 03:41:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Kremlin spokesman Peskov said the Russian Federation had fully liberated Konstantinovka in central Donetsk Oblast, eastern Ukraine."
-    },
-    {
-      "id": "4970084",
-      "time": "2026-07-04 03:39:54",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通預計第四季度金價將達到4,500美元，並指出存在下行風險】摩根大通表示，主要行業的黃金需求將不如其預期般強勁，這將限制今年金價的漲幅，預計第三季度金價將升至每盎司4,300美元，第四季度升至每盎司4,500美元。該行表示，鑑於若今夏剩餘時間經濟資料表現強勁，美國聯邦儲備理事會可能提前加息，其預測面臨的風險偏向下行。就在6月9日，摩根大通還曾表示預計金價將在年底前升至6,000美元。該行維持長期看漲觀點 ，稱隨著央行購金和實物需求在持續的結構性積蓄驅動因素下增強，黃金價格在2027年可能延續漲勢。該行還預測，隨著市場擺脫去年實物供應緊張的局面，且金銀比價趨於正常化，在其展望期內白銀價格將平均維持在每盎司60至65美元之間。"
-    },
-    {
-      "id": "mkt:019f297e-5abb-7aab-8c9a-b43e1208bfeb",
-      "time": "2026-07-04 03:39:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian media reported President Putin on Friday inspected an auxiliary command post of the joint forces and received a briefing from Chief of the General Staff Gerasimov, who assessed the current situation in the special military operation area."
-    },
-    {
-      "id": "4970083",
-      "time": "2026-07-04 03:37:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧魯科索紙漿公司以 2.16 億美元出售林業資產。"
-    },
-    {
-      "id": "te:markets:564224",
-      "time": "2026-07-04 03:37:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Steady on Dovish Fed Expectations — The Mexican peso traded little changed at 17.5 per USD in July as broad US dollar weakness was offset by uncertainty surrounding the USMCA review. The dollar came under pressure after weaker-than-expected US nonfarm payrolls data for June reduced expectations of additional Federal Reserve rate hikes. The return of oil prices to pre-conflict levels also eased concerns about energy-driven inflation, reinforcing expectations that the Fed could remain on hold through year-end. Meanwhile, uncertainty surrounding negotiations to revise the USMCA continued to weigh on the economic outlook and reduced prospects for future rate hikes. Also, domestic data strengthened the case for dovish policymakers at Banxico. Mexico's annual headline inflation fell more than expected to a ten-month low of 3.55% in the first half of June, while core inflation also eased by more than forecast, supporting expectations of lower interest rates."
-    },
-    {
-      "id": "4970082",
-      "time": "2026-07-04 03:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京於週五視察了聯合部隊叢集一處前沿輔助指揮點。"
-    },
-    {
-      "id": "4970081",
-      "time": "2026-07-04 03:35:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "佩斯科夫通報，俄羅斯聯邦已完全“解放”康斯坦丁諾夫卡。"
-    },
-    {
-      "id": "4970080",
-      "time": "2026-07-04 03:34:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯正因天氣擾動風險，商討將世界盃英格蘭對陣墨西哥的比賽開球時間提前至週日更早時段。"
-    },
-    {
-      "id": "4970079",
-      "time": "2026-07-04 03:33:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "資料顯示，今年英偉達 Blackwell 200 晶片租賃價格上漲約 20%；而英偉達舊款晶片過去一年漲幅超 20%，近 30 天價格基本持平。"
-    },
-    {
-      "id": "4970078",
-      "time": "2026-07-04 03:33:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "定價資料服務商 Silicon Data 執行長：晶片離開英偉達後，雲服務商對外出租算力的定價邏輯，和原油等大宗商品市場一樣，完全受供需關係驅動。"
-    },
-    {
-      "id": "4970077",
-      "time": "2026-07-04 03:32:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【儲存緊缺推高英偉達 GB300 機架價格，零部件單週波動最高 40%】儲存晶片及其他零部件供給有限、需求暴漲，導致搭載這類晶片的英偉達 AI 伺服器價格快速走高，近幾個月漲勢尤為明顯。一名英偉達伺服器經銷商透露，搭載英偉達 GPU 顯示卡的伺服器機架，部分核心零部件單週價格波動幅度最高達 40%，波動品類涵蓋臺積電代工的晶圓、封裝配套元件、網路裝置、散熱模組，影響最大的則是各類儲存晶片。該經銷商稱，GPU 伺服器機架價格 “波動極其劇烈”：“所有零部件的行情兩到三週就會徹底變天，價格完全無法預判。企業只能在極短視窗期鎖定採購價，視窗期一過就無法規劃成本。”某 GPU 雲服務商高管表示，近期其採購的伺服器機架單週漲價 2% 至 3%；另一家競品雲廠商高管稱，其採購的英偉達 Grace Blackwell GB300 機架中，NVMe 固態硬碟是價格劇烈波動的主因，數月前漲價速度極快。這名高管透露，當前機架價格較其認定的常規基準價高出 10%~15%，GB300 機型每月漲幅已趨於平穩，約 1%。"
-    },
-    {
-      "id": "4970076",
-      "time": "2026-07-04 03:31:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "受美國獨⽴紀念⽇假期影響，CFTC周度持倉報告推遲至北京時間7月7日（週二）03:30公佈。"
-    },
-    {
-      "id": "4970075",
-      "time": "2026-07-04 03:29:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我知道這件事聽上去荒誕至極，但這確是事實，也是昏庸的喬・拜登執政整整四年間，我們國家被迫承受的政治工具化治理與荒唐亂象的縮影。我即刻釋放這六個人！"
-    },
-    {
-      "id": "mkt:019f2973-459b-7aab-8c9a-ac2cf866b69c",
-      "time": "2026-07-04 03:27:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【REUTERS SURVEY: OPEC output rebounds strongly from 20-plus-year low】REUTERS SURVEY: OPEC crude output rose sharply in June, up roughly 3.3 mln bpd MoM to about 19.43 mln bpd, rebounding from May’s 20-plus-year low but remaining well below quota levels. The increase was led by Gulf producers restoring supply—Kuwait the largest contributor—while Iran, Saudi Arabia and Iraq also added, with Nigeria and Libya posting smaller gains; the UAE exited OPEC on May 1 and is excluded from the figures. The report says prior conflict involving Iran and an effective Strait of Hormuz blockade had disrupted flows; the US then lifted restrictions on vessels calling at Iranian ports, allowing some output to return. OPEC+ had planned June increases but could not fully implement them due to the conflict; overall global oil supply is repairing but not yet back to normal."
-    },
-    {
-      "id": "mkt:019f2972-fd16-7aab-8c9a-a5e32248b810",
-      "time": "2026-07-04 03:27:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump pardoned six people prosecuted for \"fixing cars\"."
-    },
-    {
-      "id": "4970074",
-      "time": "2026-07-04 03:25:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：簽署赦免令，赦免那些因“修理”汽車而“遭受迫害”的人。"
-    },
-    {
-      "id": "4970073",
-      "time": "2026-07-04 03:24:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：剛剛簽署了六人的赦免令。"
-    },
-    {
-      "id": "4970072",
-      "time": "2026-07-04 03:24:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美元料創4月來最大周線跌幅，就業資料打擊美聯儲加息預期】美元週五下跌，且勢將創下12周來最大周線跌幅，週四公佈的美國就業報告表現疲軟，令市場對美聯儲近期加息的預期降溫，這也令日元獲得喘息之機。隨著美元全面走弱，歐元兌美元升至1.1440美元，此前一天曾觸及近兩週最高，本週累計上漲0.5%。芝商所（CME）FedWatch工具顯示，市場目前認為美聯儲9月會議加息的機率約為45%。美國公債市場週五因獨立日假期休市。“我們的預測中沒有升息，因此這符合我們的看法，即最終會出現轉向，美元會走弱，”SEB分析主管Karl Steiner表示。“如果我們看到美元進一步下行，我不會感到意外。”美元指數下跌約0.2%，報100.83，週四下跌0.5%，本週下跌0.5%，創4月初以來最大單週跌幅。"
-    },
-    {
-      "id": "4970071",
-      "time": "2026-07-04 03:18:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【未來產業基金密集“落子” 上市公司前瞻佈局搶佔風口】“僅上週五（6月26日），我們就接待了6波投資人。”近日，一家核聚變初創企業負責人對記者說。啟明創投主管合夥人胡旭波則在日前透露：“腦機介面會是下一個規模可觀的領域，最近相關公司的估值漲得很快。”今年以來，未來產業投融資、證券化均明顯升溫。一級市場上，具身智慧、量子科技、可控核聚變等多個未來產業賽道大額融資頻現。更有不少未來產業公司已進入上市輔導、IPO受理等階段。與此同時，北京、上海、四川等地密集“落子”未來產業基金；近期上市公司相繼參投設立產業投資基金，紛紛瞄準未來產業細分賽道。（上證報）"
-    },
-    {
-      "id": "4970070",
-      "time": "2026-07-04 03:17:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【資本押注可控核聚變賽道 產業鏈上下游或將提前受益】6月底，可控核聚變領域迎三重“利好”：政策層面，國家發展改革委、國家能源局印發《新型能源體系建設“十五五”規劃》，明確將可控核聚變列為未來能源技術創新發展重點方向；技術層面，國內“人造太陽”專案取得最新進展，兩套聚變堆關鍵超導磁體先後完成研製驗收與滿引數測試，核心技術實現100%國產化；資本層面，24家機構聯合“入局”，星核聚變完成8.3億元天使輪融資，重新整理國內民營核聚變企業首輪融資規模紀錄。（上證報）"
-    },
-    {
-      "id": "4970069",
-      "time": "2026-07-04 03:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "EXAIL ：與賽峰集團的談判已結束，雙方未達成任何具有約束力的協議。"
-    },
-    {
-      "id": "4970068",
-      "time": "2026-07-04 03:16:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【特斯拉機器人量產在即 A股“朋友圈”聞風而動】7月3日，A股人形機器人板塊走強，其中T鏈（即特斯拉Optimus機器人供應鏈）概念股漲勢尤為顯著。訊息面上，7月1日，特斯拉CEO馬斯克釋出了一張大合照，配文稱“在弗裡蒙特工廠參觀Optimus擎天柱機器人生產線”。另據特斯拉高管透露，特斯拉首條正式量產Optimus的生產線已開始安裝，工程師計劃後續逐步擴建至40條產線。此前，馬斯克曾在人形機器人業務上多次“改口”，特斯拉Optimus量產節點也不斷延後，這也為其招致了不少爭議。此次量產，能否兌現馬斯克反覆推遲的承諾？一名機械行業分析師對記者表示，出於靈巧手效能有待精進、技術方案不成熟等因素，特斯拉Optimus量產多次“跳票”，但這次有所不同，產線開工說明特斯拉已將量產提上了日程。首條產線預計將承擔“開路”的作用，用於質量檢驗、技術方案確認，可視作正式量產前的最後衝刺。隨著後續更多產線的落地，中國供應商將獲得確定性訂單，人形機器人供應鏈有望復刻當年新能源汽車產業鏈的爆發式增長。（上證報）"
     }
   ]
 }

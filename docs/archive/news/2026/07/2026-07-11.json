@@ -1,7 +1,245 @@
 {
   "date": "2026-07-11",
-  "count": 254,
+  "count": 278,
   "items": [
+    {
+      "id": "te:markets:566126",
+      "time": "2026-07-11 03:45:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Brent crude closed near $76 per barrel, recording a weekly gain of about 5%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
+    },
+    {
+      "id": "4981888",
+      "time": "2026-07-11 03:45:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽船舶通行量持續低迷】航運資料平臺 MarineTraffic 統計顯示，美伊雙方相互發動打擊的過去 24 小時內，僅有至少 15 艘商船駛過霍爾木茲海峽。 其中共計 11 艘船舶駛入波斯灣，包含 6 艘貨輪、5 艘油輪；另有 4 艘貨輪穿過海峽駛入阿曼灣。該資料與近幾周持續低迷的通航水平相符，僅在美伊談判期間出現過短暫回升。衝突爆發前，平均每日約有 110 艘船舶通行該海峽。這片海域已連續數月遭遇 GPS 訊號欺騙干擾，這類導航干擾會讓船舶對外播報的定位出現嚴重偏差。而本次通行船隻的定位訊號暫未發現遭篡改跡象。"
+    },
+    {
+      "id": "te:markets:566125",
+      "time": "2026-07-11 03:42:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Crude oil settled around $71 per barrel, recording a weekly gain of about 4%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
+    },
+    {
+      "id": "te:economy:566124",
+      "time": "2026-07-11 03:39:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Bond Yields Ease on Soft CPI — Brazil's 10-year government bond yield fell to 14.43% in July from 14.54% a week earlier after inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading reinforced expectations that the central bank could adopt a more dovish stance. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing energy-driven inflation concerns. At the same time, formal job creation slowed to about 73,000 positions in May, well below forecasts of 115,000, pointing to a gradual cooling in the labor market."
+    },
+    {
+      "id": "mkt:019f4d89-84d3-7aab-8d39-87ceadaf53d5",
+      "time": "2026-07-11 03:38:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said the USS George H.W. Bush is sailing in regional waters and its sailors are conducting night air-combat training onboard."
+    },
+    {
+      "id": "4981887",
+      "time": "2026-07-11 03:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：喬治・H・W・布什號航空母艦（CVN 77）在區域海域航行期間，美國海軍艦員於艦上開展夜間飛行作業。"
+    },
+    {
+      "id": "mkt:019f4d85-e1cd-7aab-8d39-7c7d1a09c108",
+      "time": "2026-07-11 03:34:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week to July 7, speculators increased net short positions in CBOT U.S. Treasury futures by 52,811 contracts to 143,591. Speculators raised net shorts in CBOT 5‑year Treasury futures by 38,606 contracts to 1,359,116, and in CBOT ultra‑long Treasury futures by 21,150 contracts to 307,819."
+    },
+    {
+      "id": "4981886",
+      "time": "2026-07-11 03:33:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，四大紐約商品交易所、洲際交易所天然氣市場投機者減持 1597 手淨多頭合約，淨多頭持倉降至 7366 手。"
+    },
+    {
+      "id": "mkt:019f4d85-ae84-7aab-8d39-7202412161f8",
+      "time": "2026-07-11 03:33:54",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC: In the week to July 7, speculators increased net short positions in CBOT U.S. 10‑year Treasury futures by 5,371 contracts to 814,262 contracts, and cut net short positions in CBOT U.S. 2‑year Treasury futures by 26,573 contracts to 1,261,008 contracts."
+    },
+    {
+      "id": "4981885",
+      "time": "2026-07-11 03:33:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，投機者削減 26573 手芝加哥期貨交易所美國 2 年期國債期貨淨空頭持倉，淨空頭持倉降至 1261008 手；\n增持 38606 手美國 5 年期國債期貨淨空頭合約，淨空頭持倉達 1359116 手；\n增持 5371 手美國 10 年期國債期貨淨空頭合約，淨空頭持倉增至 814262 手；\n增持 21150 手美國超長期國債期貨淨空頭合約，淨空頭持倉增至 307819 手。"
+    },
+    {
+      "id": "4981884",
+      "time": "2026-07-11 03:31:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，紐約商品交易所黃金投機者減持 1964 手淨多頭合約，淨多頭持倉降至 114854 手；\n銅投機者減持 970 手淨多頭合約，淨多頭持倉降至 60397 手；\n 白銀投機者減持 616 手淨多頭合約，淨多頭持倉降至 12131 手。"
+    },
+    {
+      "id": "mkt:019f4d83-919c-7aab-8d39-6935b5e02d16",
+      "time": "2026-07-11 03:31:35",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD"
+      ],
+      "text": "CFTC data for the week to July 7 show net short positions in the Japanese yen of 123,778 contracts, the euro 16,227 contracts, the pound sterling 87,903 contracts and the Swiss franc 37,414 contracts."
+    },
+    {
+      "id": "mkt:019f4d83-86c7-7aab-8d39-63ec56a31869",
+      "time": "2026-07-11 03:31:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US Commodity Futures Trading Commission data for the week ended July 7: COMEX gold speculators reduced net long positions by 1,964 contracts to 114,854; silver net longs fell 616 contracts to 12,131; copper net longs fell 970 contracts to 60,397."
+    },
+    {
+      "id": "mkt:019f4d83-2c92-7aab-8d39-5e9f59b83ce5",
+      "time": "2026-07-11 03:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: In the week to July 7, speculative net-long positions in four major natural gas contracts on NYMEX and ICE fell by 1,597 contracts to 7,366."
+    },
+    {
+      "id": "mkt:019f4d82-f9fd-7aab-8d39-51f287d6565b",
+      "time": "2026-07-11 03:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC data: For the week to July 7, speculators reduced WTI crude net-long positions by 19,507 contracts to 65,681 contracts."
+    },
+    {
+      "id": "4981883",
+      "time": "2026-07-11 03:30:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：7月7日當週，投機者所持WTI原油淨多頭頭寸減少19,507手合約，至65,681手合約。"
+    },
+    {
+      "id": "4981882",
+      "time": "2026-07-11 03:30:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，瑞郎淨空頭持倉 37414 手合約；英鎊淨空頭持倉 87903 手合約；歐元淨空頭持倉 16227 手合約；日元淨空頭持倉 123778 手合約。"
+    },
+    {
+      "id": "4981881",
+      "time": "2026-07-11 03:29:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，比特幣淨多頭持倉為 3500 手合約。"
+    },
+    {
+      "id": "4981880",
+      "time": "2026-07-11 03:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表：中方將繼續推動全球互聯互通】當地時間8日，在2026年聯合國可持續發展高階別政治論壇期間，“推進聯合國可持續交通十年”主題邊會在紐約聯合國總部舉行。中國常駐聯合國副代表孫磊表示，今年是《聯合國可持續交通十年實施計劃》開局之年。我們要抓住機遇，推進互聯互通、增進民心相通、共促綠色發展。中方表示，中國也是全球可持續交通事業的積極貢獻者。中國將繼續與世界相交、與時代相通，推動全球互聯互通，為全球可持續發展事業作出更大貢獻。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f4d7c-9604-7aab-8d39-4ff252e11eec",
+      "time": "2026-07-11 03:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP reports the U.S.-Canada border bridge is expected to open before the end of July."
+    },
+    {
+      "id": "4981879",
+      "time": "2026-07-11 03:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美加邊境大橋定於 7 月末通車。"
+    },
+    {
+      "id": "4981878",
+      "time": "2026-07-11 03:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：將現行芝加哥奧黑爾機場定期航班運營限制延長至 2027 年 10 月 30 日。"
+    },
+    {
+      "id": "mkt:019f4d75-e4f1-7aab-8d39-465fb2f9b3e6",
+      "time": "2026-07-11 03:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar emir's office said the Qatar emir and Pakistan's prime minister confirmed they will continue cooperating to support regional security and safeguard shipping and sea lanes."
+    },
+    {
+      "id": "4981877",
+      "time": "2026-07-11 03:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾與巴基斯坦總理表示願持續開展合作，維護地區安全，保障海上航道航行安全。"
+    },
     {
       "id": "mkt:019f4d74-37ea-7aab-8d39-3cf38e8ef272",
       "time": "2026-07-11 03:14:49",
