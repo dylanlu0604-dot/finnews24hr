@@ -1,7 +1,196 @@
 {
   "date": "2026-07-10",
-  "count": 1805,
+  "count": 1827,
   "items": [
+    {
+      "id": "mkt:019f4b5b-1a07-7aab-8d2e-c6db154999e5",
+      "time": "2026-07-10 17:28:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Vanke A expects a 1H26 net loss of 12–15 bln yuan, versus a 11.947 bln yuan loss in 1H25."
+    },
+    {
+      "id": "mkt:019f4b5a-bff4-7aab-8d2e-bc08ee7c8379",
+      "time": "2026-07-10 17:27:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI to stop Atlas browser development】OpenAI said it will stop development of its AI browser Atlas on Aug. 9 and will fold some Atlas features into the ChatGPT desktop app and a Chrome extension. The decision comes less than a year after OpenAI launched ChatGPT Atlas in Oct. 2025 and abandons its plan to offer a standalone AI browser to challenge Chrome; competitors including Perplexity (Comet) and The Browser Company (Dia) continue pursuing AI browser products."
+    },
+    {
+      "id": "4980922",
+      "time": "2026-07-10 17:27:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【海康威視與四川省市場監督管理局資料應用中心達成戰略合作】據海康威視訊息，7月9日，四川省市場監督管理局資料應用中心與海康威視舉行戰略合作簽約儀式。雙方將共建“市場監管視覺計算聯合實驗室”，聚焦食品安全“網際網路+AI監管”領域，打造全國優秀樣板案例，推動人工智慧在智慧市場監管領域的深度融合與應用。"
+    },
+    {
+      "id": "4980921",
+      "time": "2026-07-10 17:27:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛粵高速：控股子公司3000萬元參與設立投資基金】贛粵高速公告稱，公司控股子公司嘉融公司與上海沐騰等7位合夥人簽署合夥協議，共同設立淮安沐騰晨曦創業投資基金合夥企業，認繳出資總額2億元。嘉融公司作為有限合夥人認繳3000萬元，佔比15%。合夥企業存續期7年，前3年為投資期，主要投資沐曦股份上下游產業鏈優質企業。本次投資不構成關聯交易和重大資產重組，無需提交審議，但合夥企業尚未完成工商註冊和協會備案，存在不確定性和投資收益不及預期的風險。"
+    },
+    {
+      "id": "4980920",
+      "time": "2026-07-10 17:27:25",
+      "tags": [
+        "行業"
+      ],
+      "text": "【崔東樹：7月1-5日市場零售16.9萬輛，7月終端零售處於傳統淡季】乘聯分會崔東樹發文稱，7月1-5日市場零售16.9萬輛，同比去年同期下降15%，較上月同期增長4%；今年以來累計零售887萬輛，同比去年同期下降20%。7月終端零售處於傳統淡季，整體消費需求偏弱，成為批發資料走弱的核心根源。世界盃疊加盛夏高溫天氣導致線下到店客流銳減，無節假日消費加持，市場自然購車需求低迷，消費者觀望情緒濃厚，家庭換購週期拉長，新車剛需釋放不足。同時上半年終端價格戰持續透支市場，車企、經銷商優惠力度常態化，消費者持幣待購心態加劇，進一步壓制終端成交規模。受零售疲軟影響，經銷商庫存週轉效率降低，庫存壓力持續累積，倒逼渠道端減少向廠家拿貨，形成“零售弱—補庫弱—批發降”的連鎖傳導效應。"
+    },
+    {
+      "id": "4980919",
+      "time": "2026-07-10 17:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車企業監事會：變革唯有與員工攜手方能成功，逆勢而行絕無可能。"
+    },
+    {
+      "id": "4980918",
+      "time": "2026-07-10 17:26:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬科A：預計上半年淨虧損120億元-150億元，上年同期虧損119.5億元。"
+    },
+    {
+      "id": "mkt:019f4b59-d5ce-7aab-8d2e-b2b438d4e30a",
+      "time": "2026-07-10 17:26:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【SemiAnalysis: Storage faces multi-year structural shortage; large-scale CPO rollout pushed to late‑2028/2029】SemiAnalysis founder Dylan Patel said on a podcast that AI infrastructure faces a multi-year structural shortage in storage, with 2–3x upside potential. He said agents and reinforcement learning have raised CPU demand but vendor pricing appears elevated and recent CPU growth largely reflects historical catch-up; CPUs still represent far less absolute value in AI servers than GPUs. Patel said large-scale deployment of co-packaged optics (CPO) has been delayed to late‑2028 into 2029, extending the demand window for copper-cable connectors."
+    },
+    {
+      "id": "4980917",
+      "time": "2026-07-10 17:26:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大北農：6月商品肥豬銷售數量31.34萬頭，銷售收入3.66億元】大北農公告，2026年6月公司商品肥豬銷售數量為31.34萬頭，銷售收入3.66億元。其中銷售數量環比變動-6.95%，同比變動12.33%；銷售收入環比變動-7.58%，同比變動-25.91%；銷售均價9.44元/公斤。2026年1-6月，公司累計銷售商品肥豬210.16萬頭，同比變動26.43%。累計銷售收入26.79億元，同比變動-11.26%。"
+    },
+    {
+      "id": "4980916",
+      "time": "2026-07-10 17:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國證監會與香港證監會舉行第十七次兩地執法合作工作會議】按照中國證監會和香港證監會確立的執法部門主要負責人定期會晤機制，兩地證監會近日召開第十七次兩地執法合作工作會議，雙方執法部門主要負責人出席會議。會議期間，雙方相互通報了近期兩地資本市場執法工作情況、違法違規行為趨勢及案件辦理情況，總結兩地跨境執法合作工作成效，溝通雙方關注的重大案件辦理進展，討論打擊新型跨境違法違規行為、加強情報共享等議題，並就在現有框架下進一步合作開展探討，以持續增強跨境執法協作效能，切實提升監管執法的有效性和震懾力。下一步，中國證監會將繼續深入貫徹落實中央經濟工作會議、全國金融系統工作會議精神和新“國九條”部署，按照防風險、強監管、促高質量發展的工作要求，會同香港證監會持續完善跨境執法協作機制，依法從嚴打擊各類跨境違法違規行為，共同維護兩地資本市場穩定健康發展。"
+    },
+    {
+      "id": "4980915",
+      "time": "2026-07-10 17:26:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車勞資委員會：行薪資與工廠協議必須得到全面遵守。"
+    },
+    {
+      "id": "4980914",
+      "time": "2026-07-10 17:25:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國聯邦議院議員表決透過醫療改革法案。"
+    },
+    {
+      "id": "mkt:019f4b58-d244-7aab-8d2e-ae21f9dffdc9",
+      "time": "2026-07-10 17:25:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's CSRC and Hong Kong SFC hold 17th enforcement cooperation meeting】China Securities Regulatory Commission (CSRC) and Hong Kong’s Securities and Futures Commission (SFC) held their 17th enforcement cooperation meeting under the regular enforcement-leader consultation mechanism. Officials exchanged updates on recent enforcement activity, cross-border violation trends and case handling, reviewed cross-border cooperation outcomes and progress on major cases, and discussed combating new forms of cross-border misconduct and strengthening intelligence sharing. Both sides agreed to explore further cooperation within the existing framework to boost cross-border enforcement effectiveness and deterrence. The CSRC said it will continue to implement directives from the central economic work conference, the national financial system work meeting and the new \"Guo Jiu Tiao\" deployment, and will work with the SFC to refine cross-border enforcement mechanisms and strictly prosecute cross-border violations to help maintain stability in the two markets."
+    },
+    {
+      "id": "mkt:019f4b58-9cfc-7aab-8d2e-a38af3f40b81",
+      "time": "2026-07-10 17:25:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russia's air-defence systems destroyed nearly 5,000 drones over the past week."
+    },
+    {
+      "id": "4980913",
+      "time": "2026-07-10 17:25:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國恩股份：預計2026年半年度淨利潤6億元-7.5億元 同比增長73.48%-116.85%】國恩股份公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為6億元-7.5億元，同比增長73.48%-116.85%。業績變動主要系公司全產業鏈協同價值釋放，綠色石化新材料板塊業務規模快速擴容，有機高分子改性材料板塊量價齊升，複合材料板塊深耕新能源汽車賽道，產品放量成效顯著。"
+    },
+    {
+      "id": "4980912",
+      "time": "2026-07-10 17:25:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所同意浙江杭鋼國貿有限公司等調整鋼材期貨交割廠庫提貨地及可供貨品牌】據上海期貨交易所7月10日訊息，經研究決定：同意浙江杭鋼國貿有限公司增加惠龍港作為螺紋鋼期貨交割廠庫基準提貨地，增加長捷誠通庫、北京念頭西庫作為螺紋鋼期貨交割廠庫非基準提貨地及增加敬業等可供貨品牌。同意物產中大金屬增加惠龍港、物產中大期交唐山庫作為熱軋卷板期貨交割廠庫基準提貨地，增加馬鞍山鋼晨鋼鐵物流園作為熱軋卷板期貨交割廠庫非基準提貨地及增加紀馳等可供貨品牌。"
+    },
+    {
+      "id": "4980911",
+      "time": "2026-07-10 17:25:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【福石控股：股價連續三日漲幅偏離值超30% 提示投資風險】福石控股公告稱，公司股票於2026年7月8日、7月9日、7月10日連續3個交易日內收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動。公司2025年度淨虧損1216.09萬元，2026年第一季度淨虧損66.15萬元，目前業績虧損，整體經營表現弱於行業平均水平。公司提醒投資者，目前股票估值較高，短期漲幅過大，與當前業績不匹配，存在非理性炒作可能，注意投資風險。"
+    },
+    {
+      "id": "4980910",
+      "time": "2026-07-10 17:24:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村：2026年上半年淨虧損2500萬-3000萬元 同比下降164.42%-177.30%】中關村公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤為-3000萬元至-2500萬元，同比下降177.30%至164.42%；扣除非經常性損益後的淨利潤為-3300萬元至-2800萬元，同比下降189.54%至175.97%。業績下降主因心血管線核心產品鹽酸貝尼地平片進入集採執標期，銷售單價下調、銷量下滑。公司深耕非集採渠道市場，部分處方藥和OTC業務有進展。"
+    },
+    {
+      "id": "te:economy:566010",
+      "time": "2026-07-10 17:24:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Cyprus Trade Deficit Widens in May — Cyprus’ trade deficit widened to EUR 788.7 million in May 2026 from EUR 742.4 million in the same month a year earlier, according to preliminary estimates. Imports advanced 22.3% year-on-year to EUR 1,309.1 million, driven largely by higher purchases from both EU and non-EU countries, which rose 13.4% to EUR 705 million and 34.7% to EUR 604.1 million, respectively. Imports included the transfer of economic ownership of vessels valued at EUR 79.9 million, up from EUR 40.4 million in May last year. Meanwhile, total exports jumped 58.9% to EUR 520.4 million, lifted by an increase of shipments to both EU (+9.3% to EUR 127.3 million) and non-EU countries (+86.2% to EUR 393.1 million). Vessel transfers were valued at EUR 34.8 million from EUR 7.5 million in the corresponding period of 2025. For the January–May period, the trade shortfall increased to EUR 3,840.1 million from EUR 3,417.0 million a year earlier."
+    },
+    {
+      "id": "4980909",
+      "time": "2026-07-10 17:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大東方：擬以5000萬元-1億元回購公司股份】大東方公告，擬以5000萬元-1億元回購公司股份，回購價格不超過5.17元/股。"
+    },
+    {
+      "id": "4980908",
+      "time": "2026-07-10 17:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港聯交所：委任上市複核委員會成員】香港交易所全資附屬公司香港聯交所宣佈委任主機板及GEM上市複核委員會成員。八名新成員包括Matthew Emsley、賴志誠、劉志強、周國民、龍振國、陳覺忠、袁皚盈及盧彥。項安達、梁享英、林楚麗、楊逸芝、周怡菁、Mark Schwille、白思佳、劉國誠及梁思傑退任上市複核委員會。劉伯偉、韋安袓及餘嘉寶繼續擔任上市複核委員會主席小組成員。Matthew Emsley獲委任為上市複核委員會主席小組成員。"
+    },
+    {
+      "id": "4980907",
+      "time": "2026-07-10 17:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料：“總部大樓建設專案”募投專案延期至2027年6月】東鵬飲料公告稱，公司於2026年7月10日召開董事會會議，同意將“總部大樓建設專案”募投專案達到預定可使用狀態的日期延期至2027年6月。該專案原計劃2025年6月完工，首次調整後延期至2026年6月。截至2026年6月30日，專案累計投入13,049.95萬元，投入進度63.23%。延期主要因惡劣天氣、政策管控及聯合建設模式下多方協同複雜等因素。此次延期未改變投資內容等，不會對公司經營造成重大不利影響。"
+    },
     {
       "id": "4980906",
       "time": "2026-07-10 17:23:53",
