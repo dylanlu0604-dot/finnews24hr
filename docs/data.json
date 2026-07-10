@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-10 20:12:33",
-  "count": 15815,
+  "updated": "2026-07-10 20:16:36",
+  "count": 15826,
   "items": [
+    {
+      "id": "4981295",
+      "time": "2026-07-10 20:15:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【*ST英飛：擬掛牌轉讓全資子公司印度英飛拓100%股權】*ST英飛公告，公司擬在淘寶網資產競價網路平臺公開掛牌轉讓透過全資子公司英飛拓國際和英飛拓環球持有的印度英飛拓100%股權。掛牌交易底價為155萬元。截至2026年6月30日，印度英飛拓欠公司全資子公司英飛拓智慧貨款301萬美金，摺合人民幣約2050萬元，交易對方需在股權過戶前提供足額借款用於償還。本次交易尚需履行公開掛牌程式，尚未確定交易對方，無法確定是否構成關聯交易。本次交易不構成重大資產重組，公開掛牌轉讓能否成功摘牌存在不確定性。"
+    },
+    {
+      "id": "4981294",
+      "time": "2026-07-10 20:15:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行副行長：通脹率在年底年初時很有可能超過3%。"
+    },
+    {
+      "id": "4981293",
+      "time": "2026-07-10 20:14:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨轉為上漲。"
+    },
+    {
+      "id": "mkt:019f4bf3-59a6-7aab-8d32-59195a84cbac",
+      "time": "2026-07-10 20:14:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Refinitiv, citing sources, reported that a Qatari negotiating delegation has arrived in Iran to meet Iranian officials to ease tensions and create conditions for broader, ongoing talks; the visit is being coordinated with the United States."
+    },
+    {
+      "id": "4981292",
+      "time": "2026-07-10 20:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士表示，會談旨在討論美伊諒解備忘錄的執行情況，以及引發近期美伊緊張局勢升級的問題，包括有關霍爾木茲海峽航行權的爭議。"
+    },
+    {
+      "id": "te:economy:566044",
+      "time": "2026-07-10 20:14:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Annual Inflation Eases in June — Brazil's annual inflation rate eased to 4.64% in June 2026 from 4.72% in May, below market expectations of 4.80%. Price growth slowed for food and beverages (3.82% vs. 3.87%), housing (5.85% vs. 6.22%), clothing (3.99% vs. 4.60%), transport (3.95% vs. 4.05%), and education (6.33% vs. 6.36%). Meanwhile, inflation accelerated for household articles (0.69% vs. 0.54%), health and personal care (6.21% vs. 6.04%), personal expenses (5.79% vs. 5.77%), and communication (1.83% vs. 1.75%). Energy and fuel inflation remained elevated at 7.71%, reflecting supply disruptions linked to the closure of the Strait of Hormuz during the US-Iran conflict, although it eased from 8.90% in May as geopolitical tensions showed signs of moderating. On a monthly basis, consumer prices rose 0.16%, following a 0.58% increase in May."
+    },
+    {
+      "id": "4981291",
+      "time": "2026-07-10 20:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達談判代表已抵達伊朗，與伊朗官員會面，旨在緩和緊張局勢併為更廣泛的談判繼續推進創造條件；訊息人士向透露，相關會談是在與美方協調下進行的。"
+    },
+    {
+      "id": "mkt:019f4bf2-d597-7aab-8d32-5032f3b4dd92",
+      "time": "2026-07-10 20:13:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's state nuclear corporation Rosatom said the first six employees have begun returning to Iran's Bushehr nuclear power plant."
+    },
+    {
+      "id": "mkt:019f4bf2-5829-7aab-8d32-4c5968a390c9",
+      "time": "2026-07-10 20:13:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel Defense Forces said over the past week it conducted more than 20 strikes in Lebanon, carried out over 10 targeted operations in Gaza, and arrested about 70 people in Judea and Samaria."
+    },
+    {
+      "id": "mkt:019f4bf2-18bd-7aab-8d32-472d7a56c405",
+      "time": "2026-07-10 20:13:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Flood Control and Drought Relief Headquarters elevated flood and typhoon emergency responses to Level II for Zhejiang and Fujian, and initiated a Level IV flood emergency response for Hebei and Liaoning."
+    },
+    {
+      "id": "4981290",
+      "time": "2026-07-10 20:12:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司:國際原子能機構專家的報告並未充分反映扎波羅熱核電站面臨的威脅。"
+    },
+    {
+      "id": "mkt:019f4bf1-4fd0-7aab-8d32-3c2d01dc47b3",
+      "time": "2026-07-10 20:12:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Rosatom said the IAEA experts' report did not fully reflect the threats facing the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "4981289",
+      "time": "2026-07-10 20:11:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍利得：控股股東增持計劃完成 耗資約5601萬元增持2.6%股份】龍利得(300883)7月10日公告，控股股東上海龍爾利投資發展有限公司（簡稱“龍爾利”）增持公司股份計劃實施完成。截至7月9日，龍爾利以集中競價方式累計增持公司股份共898.39萬股，佔公司總股本的2.6%，累計增持金額為5601.11萬元(不含手續費），超過此次計劃增持金額的下限，未超過上限（5%）。"
+    },
     {
       "id": "mkt:019f4bf1-0efc-7aab-8d32-3776938f5322",
       "time": "2026-07-10 20:11:56",
@@ -144252,22 +144380,6 @@
         "公司"
       ],
       "text": "【康辰藥業：已回購199.88萬股，使用資金總額7843.39萬元】康辰藥業7月3日公告，截至2026年6月30日，公司已累計回購股份1,998,804股，佔公司總股本的比例為1.26%，購買的最高價為51.40元/股、最低價為28.36元/股，已支付的總金額為78,433,881.08元。本次股份回購符合法律法規的有關規定和公司股份回購方案的要求。"
-    },
-    {
-      "id": "4969801",
-      "time": "2026-07-03 20:15:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浦東金橋：設立的基金重點投向了積體電路裝置及零部件材料等專案】7月3日，浦東金橋董事長郭嶸在業績說明會上介紹，公司近年來主要透過設立主動管理型基金，積極佈局產業投資，目前已經設立浦東智慧智造一期基金、浦東智慧智造二期基金等，投資金額合計3.14億元，重點投向了積體電路裝置及零部件材料、新一代通訊技術等領域的科技專案。"
-    },
-    {
-      "id": "4969800",
-      "time": "2026-07-03 20:14:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家郵政局走訪調研5家快遞企業總部】6月29日至7月2日，國家郵政局黨組成員、副局長廖進榮帶隊赴上海調研，走訪快遞企業總部，瞭解企業發展情況，聽取意見和建議，並通報上半年監管工作情況，強調要進一步強化企業總部統一管理責任，持續深化治理“內卷式”競爭，強化快遞員群體合法權益保障，加強安全生產管理，維護快遞服務網路穩定，促進快遞業高質量發展。調研組分別走訪中通、圓通、韻達、申通、極兔等快遞企業總部，就推動快遞業高質量發展有關工作與企業總部負責人深入交換意見。(國家郵政局)"
     }
   ]
 }
