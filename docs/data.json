@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-10 09:18:34",
-  "count": 15830,
+  "updated": "2026-07-10 09:22:30",
+  "count": 15822,
   "items": [
+    {
+      "id": "4980004",
+      "time": "2026-07-10 09:21:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨回籠430.0億元人民幣。"
+    },
+    {
+      "id": "4980003",
+      "time": "2026-07-10 09:21:27",
+      "tags": [],
+      "text": "港股恒指高開漲0.76％，國企指數漲0.85％，科指開漲1.25%。聯想集團漲約9%，智譜跌約9%，MINIMAX-W跌超5%。"
+    },
+    {
+      "id": "mkt:019f499d-5917-7aab-8d24-148508c997ad",
+      "time": "2026-07-10 09:21:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI opened up 183.26 points (0.76%) at 24,213.44 on Friday, July 10. Hang Seng Tech Index opened up 58.95 points (1.25%) at 4,790.51. Hang Seng China Enterprises Index (HSCEI) opened up 68.01 points (0.85%) at 8,065.30. Hang Seng Red Chip Index opened up 21.90 points (0.57%) at 3,846.01."
+    },
+    {
+      "id": "mkt:019f499d-2b91-7aab-8d24-0eb749ca7c08",
+      "time": "2026-07-10 09:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng TECH Index",
+        "00992.HK"
+      ],
+      "text": "At the Hong Kong open, the Hang Seng Index rose 0.76% and the Hang Seng TECH Index gained 1.25%. Lenovo Group (00992.HK) was up about 9%, Baidu (09888.HK) up about 3%; Zhipu (02513.HK) fell about 9%, MINIMAX-W (00100.HK) fell more than 5%."
+    },
+    {
+      "id": "mkt:019f499c-bfb7-7aab-8d24-0291e0d294fc",
+      "time": "2026-07-10 09:20:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 200bn yuan 7-day reverse repo today; bids 200bn yuan, allotment 200bn yuan; rate 1.40%, unchanged from prior operation."
+    },
+    {
+      "id": "4980002",
+      "time": "2026-07-10 09:20:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展200億元7天逆回購操作，投標量200億元，中標量200億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4980001",
+      "time": "2026-07-10 09:20:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.1%至272.06點。"
+    },
+    {
+      "id": "4980000",
+      "time": "2026-07-10 09:20:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【MiniMax完成160億港元股權類融資】7月10日早間，MiniMax完成新一輪160億港元融資，多家國際主權基金、長線基金、中資機構和多策略基金參與，覆蓋亞太、歐洲和美國市場。本次交易共吸引百餘家機構參與，實現7倍認購覆蓋。最初發行規模約18億美元，在機構需求推動下最終擴大至20億美元以上。"
+    },
+    {
+      "id": "4979999",
+      "time": "2026-07-10 09:19:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵港澳大灣區國產智算超萬卡叢集釋出】粵港澳大灣區國產智算超萬卡叢集昨天（9日）在韶關上線啟用，重點服務於粵港澳大灣區人工智慧產業，標誌著國產大模型研發正式進入“算力自主”新階段。該叢集總投資55億元，總計部署11520張昇騰國產AI加速算力晶片卡，總算力達9000P，整體效能達國際領先水平，它是全國一體化算力網路粵港澳大灣區樞紐的組成部分。透過聯動國產晶片、作業系統、演算法框架等上下游企業，完善從基礎設施到產業應用的完整算力生態鏈，推動國產晶片、國產訓練框架的規模化應用。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f499a-96d4-7aab-8d23-fd444c3d14e1",
+      "time": "2026-07-10 09:18:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash yield tracker】Tencent Licaitong Current+ 7-day annualized yield ranged 0.7080%–1.1800%. WeChat Lingqian Tong 7-day annualized yield ranged 0.9330%–1.0060%. Alipay Yu’e Bao 7-day annualized yield ranged 1.0020%–1.0190%."
+    },
     {
       "id": "mkt:019f4999-5fda-7aab-8d23-f43e9cb5443f",
       "time": "2026-07-10 09:16:56",
@@ -144381,170 +144473,6 @@
         "Important"
       ],
       "text": "South Korea's KOSPI index is up about 1% intraday after earlier falling as much as 3%."
-    },
-    {
-      "id": "mkt:019f2591-c765-7aab-8c87-b5631773828d",
-      "time": "2026-07-03 09:22:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai silver 2608 contract rallied intraday, gains widening to 3.94% as price rose to 15,202 yuan/kg; turnover exceeded 123.0 bln yuan. Open interest increased by nearly 2,300 contracts intraday, with volume and OI activity rising in tandem."
-    },
-    {
-      "id": "4968580",
-      "time": "2026-07-03 09:22:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：期望日本央行在與政府協調的同時實施適當的貨幣政策。"
-    },
-    {
-      "id": "mkt:019f2591-9323-7aab-8c87-ab8d63b6e916",
-      "time": "2026-07-03 09:22:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Hong Kong-listed gold miners opened higher; Zhaojin Mining (01818.HK) rose over 7%, Lingbao Gold (03330.HK) rose over 6%, with Zijin Gold International (02259.HK) and Shandong Gold (01787.HK) also higher."
-    },
-    {
-      "id": "4968577",
-      "time": "2026-07-03 09:21:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠1,685.0億元人民幣。"
-    },
-    {
-      "id": "4968576",
-      "time": "2026-07-03 09:21:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財政大臣片山：具體貨幣政策由日本央行決定。"
-    },
-    {
-      "id": "4968575",
-      "time": "2026-07-03 09:21:21",
-      "tags": [],
-      "text": "港股恒指高開漲0.81％，國企指數漲0.82％，科指開漲0.76%。"
-    },
-    {
-      "id": "4968574",
-      "time": "2026-07-03 09:21:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨微升0.3%，納斯達克指數期貨上漲0.4%。"
-    },
-    {
-      "id": "mkt:019f2590-d203-7aab-8c87-a05a5887b5b3",
-      "time": "2026-07-03 09:21:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH"
-      ],
-      "text": "PBOC conducted a CNY63 bln 7-day reverse repo today; tendered CNY63 bln and accepted CNY63 bln at a 1.40% rate, unchanged from the prior operation."
-    },
-    {
-      "id": "4968573",
-      "time": "2026-07-03 09:21:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲4%，現報15212.00元。"
-    },
-    {
-      "id": "mkt:019f2590-c9e1-7aab-8c87-9f95223f6e97",
-      "time": "2026-07-03 09:21:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01024.HK",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Hang Seng Tech"
-      ],
-      "text": "Hong Kong open: Hang Seng +0.81%, Hang Seng Tech +0.76%. Kuaishou (01024.HK) +6.24% after the company said yesterday it will spin off Keling as a separately capitalized entity and investors agreed to inject $3 bln into Keling."
-    },
-    {
-      "id": "4968572",
-      "time": "2026-07-03 09:21:04",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行開展630億元人民幣7天期逆回購操作，利率1.40%，前次為1.40%。"
-    },
-    {
-      "id": "4968571",
-      "time": "2026-07-03 09:20:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報62.18美元/盎司。"
-    },
-    {
-      "id": "4968570",
-      "time": "2026-07-03 09:20:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.5%，英國富時指數期貨上漲0.2%。"
-    },
-    {
-      "id": "mkt:019f2590-2b63-7aab-8c87-94914d852b82",
-      "time": "2026-07-03 09:20:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 rose more than 1% to 8,820.90 points."
-    },
-    {
-      "id": "mkt:019f258f-c6b2-7aab-8c87-8cb9f4999f8f",
-      "time": "2026-07-03 09:20:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【National Australia Bank: RBA expected to cut in 2027; AUD outlook weak】National Australia Bank expects the Reserve Bank of Australia to begin easing by Q2 2027, amounting to 75bps. NAB now forecasts AUD/USD at 0.6700 by end-2027 (previously 0.7000) and sees the pair probing at least 0.6500 at some point. NAB adds that if the RBA cuts next year while the Federal Reserve remains on hold, AUD downside would deepen."
-    },
-    {
-      "id": "4968569",
-      "time": "2026-07-03 09:20:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1.1%，至8,820.90點。"
-    },
-    {
-      "id": "4968568",
-      "time": "2026-07-03 09:19:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數轉漲，此前一度跌超3.5%。"
-    },
-    {
-      "id": "4968567",
-      "time": "2026-07-03 09:18:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "片山皋月：外匯走勢可能反映日本國債招標需求疲弱和美國勞動力市場資料。"
     }
   ]
 }
