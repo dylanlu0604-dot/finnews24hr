@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 395,
+  "count": 396,
   "items": [
+    {
+      "id": "te:economy:566142",
+      "time": "2026-07-11 07:38:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.83%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 270.00 basis points."
+    },
     {
       "id": "4981957",
       "time": "2026-07-11 07:15:53",
