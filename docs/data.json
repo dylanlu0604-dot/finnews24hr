@@ -1,7 +1,520 @@
 {
-  "updated": "2026-07-10 08:51:51",
-  "count": 15856,
+  "updated": "2026-07-10 09:18:34",
+  "count": 15830,
   "items": [
+    {
+      "id": "mkt:019f4999-5fda-7aab-8d23-f43e9cb5443f",
+      "time": "2026-07-10 09:16:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session 0.85% higher at 24,180, trading about 150 points above the cash index."
+    },
+    {
+      "id": "4979998",
+      "time": "2026-07-10 09:16:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千方科技：公司鯤巢雙智路口、V2X成套裝置已在北京亦莊、望京等智慧網聯示範區域及相關專案中開展部署應用】千方科技10日在互動平臺表示，公司自研RSU、OBU等V2X產品基於C-V2XPC5（直連）和5G/Uu（蜂窩）雙模通訊架構，實現路側感知資料與車輛行駛狀態雙向互動。落地方面，公司鯤巢雙智路口、V2X成套裝置已在北京亦莊、望京等智慧網聯示範區域及相關專案中開展部署應用，相關專案進展請以公司公告為準。"
+    },
+    {
+      "id": "4979997",
+      "time": "2026-07-10 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7989元，較上日調高47點。"
+    },
+    {
+      "id": "4979996",
+      "time": "2026-07-10 09:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.46%，報24088.20點，高水58.02點。"
+    },
+    {
+      "id": "4979995",
+      "time": "2026-07-10 09:14:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【片山皋月講話之際日元走強 日本超長期國債收益率下跌】隨著日本財務大臣片山皋月發表講話，日本20年期和40年期國債收益率下跌，日元匯率走強。20年期收益率跌8.5個基點至3.78%；40年期收益率跌7個基點至3.965%；日本10年期國債收益率下跌6個基點至2.815%。日元兌美元漲0.3%至161.98。片山皋月稱，日本將透過降低債務佔GDP的比例來確保市場信任，並表示她支援日本政府養老金投資基金(GPIF)進行金融資產投資。"
+    },
+    {
+      "id": "mkt:019f4995-d14d-7aab-8d23-edebe169ccd6",
+      "time": "2026-07-10 09:13:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan 10-year government bond yield fell 6 bps to 2.815%."
+    },
+    {
+      "id": "4979994",
+      "time": "2026-07-10 09:11:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【滙豐：對黃金保持“積極姿態“  但將其2026年平均金價預測從每盎司4,864美元下調至每盎司4,560美元】滙豐環球投資研究的James Steel在一份研究報告中表示，金價的漲勢可能受到一些阻力的限制。這位首席貴金屬分析師表示，美聯儲加息前景仍可能限制任何漲勢，儘管這些預期已基本被消化。此外，Steel表示，強勢美元可能會“對漲勢構成相當大的阻力“。不過，該分析師補充道，“隨著在（中東）衝突前支撐黃金的結構性因素恢復，且其避險和投資組合多元化屬性吸引買家，大規模拋售可能會在一定程度上逆轉。“滙豐對黃金保持“積極姿態“，但將其2026年平均金價預測從每盎司4,864美元下調至每盎司4,560美元，將2027年預測從每盎司5,000美元下調至每盎司4,925美元。"
+    },
+    {
+      "id": "4979993",
+      "time": "2026-07-10 09:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美元兌日元小幅擴大跌幅，在日本財政大臣片山發表講話期間下挫0.3%。"
+    },
+    {
+      "id": "mkt:019f4990-b95d-7aab-8d23-e0a3bb740315",
+      "time": "2026-07-10 09:07:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Finance Minister Katayama said Tokyo will seek measures to encourage the GPIF and other pension funds to raise allocations to Japanese financial assets."
+    },
+    {
+      "id": "4979992",
+      "time": "2026-07-10 09:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：日本將尋求措施，鼓勵GPIF及其他養老基金增加對日本金融資產的投資。"
+    },
+    {
+      "id": "mkt:019f498f-28f5-7aab-8d23-dbaf83a8ee9d",
+      "time": "2026-07-10 09:05:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan stock market closed today for one day due to a typhoon."
+    },
+    {
+      "id": "4979990",
+      "time": "2026-07-10 09:04:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "提醒：今日臺股因颱風休市一日。"
+    },
+    {
+      "id": "te:markets:565831",
+      "time": "2026-07-10 09:04:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Poised for Weekly Losses — Australian equities edged down 0.1% to 8,751 on Friday morning, retreating for the fifth straight session as U.S. stock futures were slightly lower following gains on Wall Street overnight after President Trump said Iran wanted to make a deal after the U.S. launched fresh strikes against the country. Meanwhile, caution lingered after the International Monetary Fund cut its 2026 growth forecast for Australia to 1.9% from the previous projection of 2%, warning that annual inflation will remain stubbornly high this year at around 4%. Healthcare, retail trade, and transport dragged the ASX 200, though strength in non-energy minerals, communications, and industrial services capped declines. For the week, markets are on track to post a weekly decline, down around 1.0% so far after gaining in the prior period. Among notable laggards were Pro Medicus (-4.4%), Reece Ltd. (-2.1%), Lynas Rare Earths (-1.9%), and Ramsay Health Care (-1.4%)."
+    },
+    {
+      "id": "4979989",
+      "time": "2026-07-10 09:04:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本成長戰略大臣稱必須尊重日本央行的自主權】日本成長戰略大臣城內實表示，日本央行的獨立性必須得到尊重，具體的貨幣政策工具應由央行自行決定。“根據《日本銀行法》第三條的規定，必須尊重日本央行在貨幣和金融調節方面的自主權。”城內實高週五在東京舉行的記者會上說，“政府堅持認為，具體的貨幣政策方法應由日本央行決定。”他表示，政府將於本月晚些時候釋出的年度經濟指導方針仍在進行調整。城內說：“我們目前正在根據執政黨議員的反饋意見調整措辭。”媒體昨晚報道稱，經濟指導方針將包含一項註釋，規定《日本銀行法》要求尊重央行的自主權。"
+    },
+    {
+      "id": "4979988",
+      "time": "2026-07-10 09:03:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞星錨鏈成立科技新公司，含海洋工程裝備業務】企查查APP顯示，近日，天津星揚綠航科技有限公司成立，經營範圍包含：海洋工程關鍵配套系統開發；海洋工程裝備製造；海洋工程平臺裝備製造；海洋工程裝備銷售等。企查查股權穿透顯示，該公司由亞星錨鏈全資持股。"
+    },
+    {
+      "id": "4979987",
+      "time": "2026-07-10 09:03:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：韓國和蒙古央行簽署諒解備忘錄，以擴大合作。"
+    },
+    {
+      "id": "4979986",
+      "time": "2026-07-10 09:02:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲超過2%，一度達到69123.63點。"
+    },
+    {
+      "id": "4979985",
+      "time": "2026-07-10 09:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電宣佈將月度銷售業績公佈日期推遲至7月13日。"
+    },
+    {
+      "id": "te:markets:565827",
+      "time": "2026-07-10 09:02:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Extends Losses — US gasoline futures fell to around $3.0 per gallon, extending their retreat from a one-month high of $3.10 on July 8, as continued technical talks between the US and Iran despite renewed hostilities prompted markets to reassess the supply outlook. Both sides have stopped short of all-out war, and Washington said it remains committed to finding a solution, while some provisions of their interim agreement remain in effect. Although security conditions in the Strait of Hormuz have deteriorated and tanker traffic has slowed, investors expect the waterway to remain open. Selected laden tankers from the UAE continued to load and sail, reducing fears that exports from the region could come to a standstill. The prospect of a crude supply glut amid higher OPEC+ output also weighed on prices, though concerns remained over whether global refineries have sufficient capacity to process the additional supply."
+    },
+    {
+      "id": "4979984",
+      "time": "2026-07-10 09:02:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報7516.00元。"
+    },
+    {
+      "id": "4979983",
+      "time": "2026-07-10 09:02:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2451.00元。"
+    },
+    {
+      "id": "mkt:019f498b-8c93-7aab-8d23-d64b7fd39bea",
+      "time": "2026-07-10 09:01:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 intraday gain reached 2.00%."
+    },
+    {
+      "id": "te:markets:565826",
+      "time": "2026-07-10 09:01:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 1.5% to above 68,700, while the broader Topix Index advanced 0.8% to 4,052 on Friday, with Japanese shares rising for the second straight session and tracking gains on Wall Street overnight as a rally in semiconductor stocks lifted investor sentiment. Easing oil prices also supported the market by helping curb inflation concerns and reducing pressure on Japan’s import-dependent economy. Meanwhile, data showed Japan’s producer prices accelerated to their fastest pace in more than three years, reflecting persistent cost pressures stemming from the Middle East conflict. Technology stocks led the advance, with strong gains from Kioxia Holdings (5.4%), SoftBank Group (7.9%), Murata Manufacturing (5.5%), Tokyo Electron (2.2%), and Advantest (3.3%)."
+    },
+    {
+      "id": "4979982",
+      "time": "2026-07-10 09:01:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5568.00元。"
+    },
+    {
+      "id": "mkt:019f498b-2aa6-7aab-8d23-cdd21388e60d",
+      "time": "2026-07-10 09:01:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.2% at the morning open to 901.7 yuan/gram on July 10; Silver T+D climbed 3.23% to 14,692.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f498b-0db9-7aab-8d23-c6e3e6795898",
+      "time": "2026-07-10 09:01:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened down 379.8 points, or 0.83%, at 45,354.61 on Friday, July 9."
+    },
+    {
+      "id": "mkt:019f498a-f6f4-7aab-8d23-bed0194c9d20",
+      "time": "2026-07-10 09:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened 0.38% higher."
+    },
+    {
+      "id": "4979981",
+      "time": "2026-07-10 09:00:49",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，SC原油跌超3％，焦煤跌近3％，純苯、焦炭跌超2％，燃料油、低硫燃料油（LU）跌近2％，聚丙烯、聚丙烯月均跌超1％。漲幅方面，滬銀漲超3％，紙漿、滬錫漲超2％，鉑、鈀、多晶矽、國際銅、滬銅、滬鋅、滬金、雞蛋漲超1％。"
+    },
+    {
+      "id": "4979980",
+      "time": "2026-07-10 09:00:30",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本國債在東京市場走高 追隨隔夜美國國債價格的漲勢】日本國債和美國國債往往同步波動。日本國債價格可能也受到近期原油價格下跌的提振，這可能導致日本通脹壓力降低，並緩解對日本央行快速加息的擔憂。日本20年期收益率跌7.5個基點至3.79%。10年期日本國債收益率下跌4.5個基點，至2.830%。日本40年期國債收益率下跌7個基點至3.965%。與此同時，日元兌美元漲0.2%至162.11。"
+    },
+    {
+      "id": "4979979",
+      "time": "2026-07-10 09:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月9日498股獲融資買入超億元 中際旭創穫買入65.08億元居首】7月9日共有3464只個股獲融資資金買入，有498股買入金額超億元。其中，中際旭創、兆易創新、京東方Ａ融資買入金額排名前三，分別獲買入65.08億元、56.04億元、34.23億元。"
+    },
+    {
+      "id": "mkt:019f498a-340f-7aab-8d23-b285c97933ca",
+      "time": "2026-07-10 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "At the morning open, China’s most-active futures were mostly lower. Shanghai crude oil (SC) slid more than 3%; coking coal fell nearly 3%; benzene and coke dropped over 2%; fuel oil and low‑sulfur fuel oil (LU) fell about 2%; polypropylene and the polypropylene monthly‑average contract declined over 1%. On the upside, Shanghai silver rose more than 3%; pulp and Shanghai tin gained over 2%; platinum, palladium, polysilicon, international copper, Shanghai copper, Shanghai zinc, Shanghai gold and eggs were up more than 1%."
+    },
+    {
+      "id": "4979978",
+      "time": "2026-07-10 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續漲3.40%，上海原油連續跌3.10%，純苯連續跌3.02%，焦煤連續跌2.83%，紙漿連續漲2.52%。"
+    },
+    {
+      "id": "4979977",
+      "time": "2026-07-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14718.00元。"
+    },
+    {
+      "id": "4979976",
+      "time": "2026-07-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5594.00元。"
+    },
+    {
+      "id": "4979975",
+      "time": "2026-07-10 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.39%。"
+    },
+    {
+      "id": "4979974",
+      "time": "2026-07-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報3110.00元。"
+    },
+    {
+      "id": "4979973",
+      "time": "2026-07-10 08:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梅東公司：寧波梅山港區暫停集裝箱、商品車進提作業】寧波梅東集裝箱碼頭有限公司、寧波梅西滾裝碼頭有限公司7月10日釋出關於梅山港區暫停集裝箱、商品車進提作業的通知：受今年第9號颱風“巴威”影響，港區風力較大，我司計劃於7月10日12:00開始暫停集裝箱、商品車進提作業。恢復時間另行通知，請關注相關服務平臺通告。"
+    },
+    {
+      "id": "4979972",
+      "time": "2026-07-10 08:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凌激副部長兼國際貿易談判副代表與歐委會貿易和經濟安全總司雷東內副總司長舉行影片會談 】7月9日，商務部副部長兼國際貿易談判副代表凌激與歐委會貿易和經濟安全總司雷東內副總司長舉行影片會談，就中歐經貿關係交換意見。"
+    },
+    {
+      "id": "mkt:019f4988-4f86-7aab-8d23-ada6cb057d33",
+      "time": "2026-07-10 08:58:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "On July 9, MOFCOM Vice Minister and Deputy Representative for International Trade Negotiations Ling Ji held a video meeting with Lei Dongnei, Deputy Director-General of the European Commission’s Directorate-General for Trade and Economic Security, and exchanged views on China‑EU economic and trade relations."
+    },
+    {
+      "id": "mkt:019f4987-4a15-7aab-8d23-a76d1366a7c7",
+      "time": "2026-07-10 08:57:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "The Wall Street Journal reports President Trump seeks to deploy 20,000 peacekeeping troops to Gaza, with an initial dispatch of 10-20 personnel planned."
+    },
+    {
+      "id": "4979970",
+      "time": "2026-07-10 08:56:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌7個基點至3.965%。20年期收益率跌7.5個基點至3.79%。"
+    },
+    {
+      "id": "mkt:019f4986-9ab9-7aab-8d23-9e092c23d35c",
+      "time": "2026-07-10 08:56:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "XAUUSD"
+      ],
+      "text": "Japan's 10-year government bond yield fell 4.5 bps to 2.830%."
+    },
+    {
+      "id": "4979969",
+      "time": "2026-07-10 08:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江溫州海事部門啟動水上二級防颱風應急響應】面對即將到來的颱風“巴威”，浙江溫州海事局於昨天傍晚6點啟動水上二級防颱風應急響應。溫州港全面實施交通管制。浙江溫州海事部門對轄區船舶開展全覆蓋滾動排查，逐船核實船舶位置、擬避風水域、人員撤離計劃等，並抓住颱風影響轄區前的有限時間，利用海巡+空巡+電子巡航方式，開展全域風險再排查。"
+    },
+    {
+      "id": "4979968",
+      "time": "2026-07-10 08:55:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江溫州防颱風應急響應提升為Ⅱ級】今年第9號颱風“巴威”最大可能於11日白天掠過臺灣島北部沿海，並於11日夜間在浙江溫嶺至福建福清一帶沿海登陸。根據《溫州市防汛防颱抗旱應急預案》，經會商研判，浙江溫州市防指決定於7月10日8時起將防颱風應急響應提升為Ⅱ級。"
+    },
+    {
+      "id": "mkt:019f4985-cdb1-7aab-8d23-922b50067c1a",
+      "time": "2026-07-10 08:55:33",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY dipped to 162, down 0.22% intraday."
+    },
+    {
+      "id": "4979967",
+      "time": "2026-07-10 08:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構預測今年颱風季\"異常活躍\"，活動水平超均值40%】英國氣象預測機構“熱帶風暴風險”(Tropical Storm Risk，TSR)上調今年西北太平洋颱風活動預測，預計將迎來一個“異常活躍的颱風季”，活動水平將較1991-2020年均值高出約40%。7月份的最新預報顯示，6月至11月期間將出現28場熱帶風暴、19場颱風和12場強颱風，30年平均水平分別為25.5場、16.0場和9.3場。該機構表示，預計正在形成的強厄爾尼諾現象將在夏秋兩季對西北太平洋颱風活動產生“強烈增強效應”。"
+    },
+    {
+      "id": "4979966",
+      "time": "2026-07-10 08:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所公告，深港通下的港股通標的證券名單調入禾賽－Ｗ（02983）、濱化股份，調出合生創展集團、禾賽－Ｗ（02525）、中慧生物－Ｂ、MIRXES-B。"
+    },
+    {
+      "id": "4979965",
+      "time": "2026-07-10 08:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾院下週表決永久實施夏令時間法案】根據週四釋出的一份通知，美國眾議院下週將表決一項法案，擬將夏令時間永久化。今年5月，眾議院能源暨商業委員會以48票贊成、1票反對的結果透過陽光保護法案。參議院早在2022年3月便一致投票透過將夏令時間永久化，但眾議院在反對聲浪下始終未審議該議案。眾議院下週審議的提案，將允許各州選擇不實行夏令時間。夏令時間是指在一年中的夏季時段將時鐘撥快一小時。自1960年代以來，美國大部分地區一直實施夏令時間制度。這項眾議院議案的支持者表示，時間調整會導致睡眠障礙、增加職場受傷風險與交通事故發生率。他們也認為，若冬季傍晚保有較長日照時間，將有助於刺激更多經濟活動。"
+    },
+    {
+      "id": "4979964",
+      "time": "2026-07-10 08:53:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通打造的AI代理在回測中跑贏60/40投資組合】投資者如今正日益藉助人工智慧來執行從選股到風險管理的各種任務，摩根大通研究人員構建了一批AI投資代理，它們會根據不斷變化的市況在股票和債券之間切換。在針對過去二十年開展的回溯性測試中，表現最佳的系統每年跑贏傳統的60/40投資組合（六成股票四成債券）0.7個百分點，且波動率更低，同時也跑贏了摩根大通自有的基於規則的市場狀態模型。"
+    },
+    {
+      "id": "mkt:019f4983-4cc2-7aab-8d23-890d1b9ef656",
+      "time": "2026-07-10 08:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan to test-launch reusable rocket prototype in response to SpaceX technology】Japan Aerospace Exploration Agency (JAXA) will test-launch an experimental reusable rocket, the RV-X, on Saturday from its Noshiro Rocket Test Center in Akita prefecture to cut launch costs and respond to SpaceX technology. The flight, originally planned for March, was delayed by bad weather and equipment faults. JAXA has been developing reusable launchers since 2016 and carried out multiple engine burn tests last year; it aims to field a lower-cost reusable rocket in the early 2030s to replace the H3 as its primary launcher."
+    },
+    {
+      "id": "mkt:019f4982-fd8a-7aab-8d23-87cf24c02908",
+      "time": "2026-07-10 08:52:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "20-year Japanese government bond yield fell 7 bps to 3.795%."
+    },
+    {
+      "id": "4979963",
+      "time": "2026-07-10 08:51:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌7.0個基點，至3.795%。"
+    },
+    {
+      "id": "4979962",
+      "time": "2026-07-10 08:51:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元一度升至162.09。"
+    },
+    {
+      "id": "4979961",
+      "time": "2026-07-10 08:51:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三一重能投資成立風電裝備新公司】企查查APP顯示，近日，三一（五大連池）風電裝備有限公司成立，經營範圍包含：發電機及發電機組製造；發電機及發電機組銷售；風力發電機組及零部件銷售；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由三一重能全資持股。"
+    },
     {
       "id": "4979960",
       "time": "2026-07-10 08:50:23",
@@ -144032,744 +144545,6 @@
         "國際"
       ],
       "text": "片山皋月：外匯走勢可能反映日本國債招標需求疲弱和美國勞動力市場資料。"
-    },
-    {
-      "id": "4968566",
-      "time": "2026-07-03 09:18:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯表示，國際貨幣基金組織與世界銀行已為震後重建提供援助和信貸支援。"
-    },
-    {
-      "id": "mkt:019f258d-3680-7aab-8c87-86aaed658aa8",
-      "time": "2026-07-03 09:17:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "KATAYAMA, Japan's finance minister, said on rising JGB yields he will strive to implement fiscal policy to win market confidence."
-    },
-    {
-      "id": "4968565",
-      "time": "2026-07-03 09:16:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山在被問及日本國債收益率上升時表示，將推行財政政策並努力贏得市場信任。"
-    },
-    {
-      "id": "4968564",
-      "time": "2026-07-03 09:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉震區幾乎所有官員遇難】當地時間7月2日晚，委內瑞拉代總統羅德里格斯召開新聞釋出會表示，委內瑞拉在地震發生後立即啟動應急系統，震後搜救工作目前仍在持續。據羅德里格斯透露，重災區拉瓜伊拉州幾乎所有官員都在地震遇難。"
-    },
-    {
-      "id": "mkt:019f258b-ee2a-7aab-8c87-7ca1087a77f3",
-      "time": "2026-07-03 09:15:55",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened 0.62% higher at 23,178, trading 132 points above the spot index."
-    },
-    {
-      "id": "mkt:019f258b-e43c-7aab-8c87-724dfb87dcaa",
-      "time": "2026-07-03 09:15:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Gold rises after weaker-than-expected US jobs report】U.S. Labor Department reported June payrolls rose 57,000, below economists' 115,000 forecast. Spot gold climbed more than 1.3% in Asian morning trade as investors pared odds of a Fed rate hike in July; ANZ research said the weak labor market could ease pressure on the Fed to tighten at its next meeting. Higher interest rates typically weigh on non‑yielding assets such as gold, despite its inflation-hedge role."
-    },
-    {
-      "id": "4968563",
-      "time": "2026-07-03 09:15:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4180美元/盎司，日內漲1.40%。"
-    },
-    {
-      "id": "mkt:019f258b-93c7-7aab-8c87-6d9268f76500",
-      "time": "2026-07-03 09:15:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said Tokyo will continue close coordination with the United States on foreign-exchange matters during the U.S. holiday."
-    },
-    {
-      "id": "4968562",
-      "time": "2026-07-03 09:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8047元。"
-    },
-    {
-      "id": "4968561",
-      "time": "2026-07-03 09:15:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.31%，報23121.40點，高水66.37點。"
-    },
-    {
-      "id": "4968560",
-      "time": "2026-07-03 09:14:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：與美國就外匯問題保持密切協調，即便在美國假日期間也不例外。"
-    },
-    {
-      "id": "4968559",
-      "time": "2026-07-03 09:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：日本和韓國財務部門之間的關係非常好。"
-    },
-    {
-      "id": "4968558",
-      "time": "2026-07-03 09:13:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：盡最大努力進行經濟、財政管理。"
-    },
-    {
-      "id": "mkt:019f2589-a437-7aab-8c87-66cdfa1a0efe",
-      "time": "2026-07-03 09:13:25",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China NEA deputy meets EDF executive】On July 1 in Beijing, National Energy Administration deputy director He Yang met with EDF executive director Yu Yunsa. He said China’s 15th Five-Year Plan will prioritise rapid development of clean energy, expand investment in renewables and maintain an open, market-oriented, rule-of-law and international business environment, welcoming foreign firms including EDF to deepen cooperation across energy sectors. Yu said EDF views China as a core market and is prepared to partner with Chinese firms on nuclear, electrification, emerging technologies and third‑party market projects."
-    },
-    {
-      "id": "4968557",
-      "time": "2026-07-03 09:13:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1%，至8811.90。"
-    },
-    {
-      "id": "4968556",
-      "time": "2026-07-03 09:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將制定恰當的經濟政策，監控形勢變化。"
-    },
-    {
-      "id": "4968555",
-      "time": "2026-07-03 09:12:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內漲1.56%。"
-    },
-    {
-      "id": "mkt:019f2588-b98d-7aab-8c87-5cb08df9a027",
-      "time": "2026-07-03 09:12:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's finance minister Katayama said he is prepared to take appropriate measures to address currency volatility."
-    },
-    {
-      "id": "4968554",
-      "time": "2026-07-03 09:11:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【638股獲融資買入超億元，京東方A獲買入57.14億元居首】A股7月2日共有3784只個股獲融資資金買入，有638股買入金額超億元。其中，京東方A、中際旭創、新易盛融資買入金額排名前三，分別獲買入57.14億元、48.55億元、47.7億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中科匯股份、海馬汽車、中光學融資買入額佔成交額比重排名前三，分別為31.2%、30.07%、29.84%。從融資淨買入金額來看，有43只個股獲融資淨買入超億元。其中，新易盛、C華潤、多氟多融資淨買入金額排名前三，分別獲淨買入11.34億元、7.01億元、4.27億元。"
-    },
-    {
-      "id": "4968553",
-      "time": "2026-07-03 09:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：已準備好對匯率波動採取適當應對措施。"
-    },
-    {
-      "id": "mkt:019f2587-9098-7aab-8c87-51841c3dadd1",
-      "time": "2026-07-03 09:11:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she would not comment on specific exchange-rate levels."
-    },
-    {
-      "id": "4968552",
-      "time": "2026-07-03 09:10:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【澳大利亞國民銀行：澳大利亞央行料將於2027年降息，澳元前景黯淡】澳大利亞國民銀行對2027年的澳元前景持看跌態度，理由是預計澳大利亞央行將從2027年第二季度開始將官方隔夜拆款利率下調75個基點。澳大利亞國民銀行目前預計，澳元兌美元到2027年底將收於0.6700，低於此前預期的0.7000，但該機構認為澳元兌美元在某個時候至少會下探至0.6500。澳大利亞國民銀行補充稱，如果澳大利亞央行明年降息，而美聯儲按兵不動，澳元的前景將顯得愈發不妙。"
-    },
-    {
-      "id": "4968551",
-      "time": "2026-07-03 09:10:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南昌農商銀行獲批增加註冊資本1.37億元】7月3日，江西金融監管局網站釋出批覆，同意南昌農商銀行增加註冊資本1.37億元人民幣，由36.22億元人民幣變更為37.59億元人民幣。"
-    },
-    {
-      "id": "4968550",
-      "time": "2026-07-03 09:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉代總統：地震搜救仍在進行】當地時間2日，委內瑞拉代總統羅德里格斯召開震後一週新聞釋出會。羅德里格斯稱，委內瑞拉地震導致189座建築物完全倒塌，地震搜救仍在繼續。（央視新聞）"
-    },
-    {
-      "id": "4968549",
-      "time": "2026-07-03 09:09:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：印度納亞拉煉油廠汽油經貿易商轉售至俄羅斯】兩名知情人士週四透露，交易商已將印度煉油企業納亞拉能源生產的汽油銷往俄羅斯。當前俄羅斯因烏克蘭襲擊本國能源基礎設施面臨燃油短缺困境。媒體週三曾報道，俄羅斯已開始透過海運從印度進口汽油，但當時並未披露供貨方名稱。俄羅斯石油巨頭俄羅斯石油公司持有納亞拉能源 49% 的股份。"
-    },
-    {
-      "id": "mkt:019f2585-c1ec-7aab-8c87-4d058e3dab6f",
-      "time": "2026-07-03 09:09:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SASAC convenes meeting on penetrative supervision】The State-owned Assets Supervision and Administration Commission (SASAC) held a meeting to deploy penetrative (through-the-entity) supervision for SOEs, citing recent instructions from the CPC Central Committee and the State Council and national mobilization on deepening SOE reform. The meeting said penetrative supervision is a core task for improving state-asset oversight and promoting high-quality SOE development, and that central authorities have made it a priority this year. SASAC ordered accelerated construction of intelligent penetrative-supervision systems, reform of the supervisory framework, strengthened penetrative oversight in key sectors, and closure of supervisory loops. It also called for stronger leadership, resource guarantees and talent development to raise regulatory effectiveness."
-    },
-    {
-      "id": "mkt:019f2585-b4a1-7aab-8c87-46a5b3bc9830",
-      "time": "2026-07-03 09:09:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Spot gold up over 1% intraday at $4,165.20/oz; spot silver +1.5%】Spot gold rose over 1.00% intraday to $4,165.20 per ounce; spot silver gained 1.5%."
-    },
-    {
-      "id": "4968548",
-      "time": "2026-07-03 09:08:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4170美元/盎司，日內漲1.15%。"
-    },
-    {
-      "id": "4968547",
-      "time": "2026-07-03 09:08:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三和管樁與中鐵九局集團簽署全國戰略合作協議】據三和管樁訊息，6月26日，三和管樁與中鐵九局集團有限公司（簡稱“中鐵九局”）簽署全國戰略合作協議。雙方代表圍繞管樁專項物資集中供應、高階基建工程產品創新、預製構件協同開發等核心議題開展深度座談交流，正式建立長期、穩定、全方位戰略合作伙伴關係。"
-    },
-    {
-      "id": "4968546",
-      "time": "2026-07-03 09:08:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4166.39美元/盎司。"
-    },
-    {
-      "id": "4968545",
-      "time": "2026-07-03 09:08:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4180美元/盎司，日內漲1.32%。"
-    },
-    {
-      "id": "4968544",
-      "time": "2026-07-03 09:08:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參7月3日價格釋出：精品茅臺領漲 總價低位微幅回升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月3日整體自低位微漲。如果主要單品各取一瓶整體打包售賣，今日總售價為9879元，較昨日微幅上漲1元，連續兩日回升並創下三日以來最高。青花汾20、古井貢古20均創近一月最高價，洋河夢之藍M6+平近一月最高價紀錄，而飛天茅臺續創近一月最低，五糧液普五八代仍處於近八個月以來次低位。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒有限邊際改善，總價低位震盪格局仍未扭轉。今日11大白酒單品六漲四跌一平，贏家數量佔據優勢，但漲幅優勢有限。上漲方面，精品茅臺漲幅居前，上漲6元/瓶，連續兩日回升，升至2410元一線上方；青花汾20與習酒君品均上漲3元/瓶，其中前者創近一月最高價，後者成功鞏固630元一線；洋河夢之藍M6+與古井貢古20均上漲2元/瓶，其中前者平近一月最高價紀錄，後者創近一月最高價；水晶劍南春小幅上漲1元/瓶。下跌方面，五糧液1618、國窖1573與青花郎跌幅居前，均下跌5元/瓶，其中國窖1573連續三日回落，自近一月最高位持續回吐漲幅；青花郎亦是連續三日下滑，跌至690元關口。飛天茅臺小幅下跌1元/瓶，相對i茅臺官方定價的價差繼續收窄。五糧液普五八代價格環比保持不變，仍處於近八個月以來次低位。"
-    },
-    {
-      "id": "4968543",
-      "time": "2026-07-03 09:07:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅德里格斯稱，委內瑞拉將與國際貨幣基金組織共同設立規模2億美元的重建基金。"
-    },
-    {
-      "id": "4968542",
-      "time": "2026-07-03 09:07:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迅策：擬配售新H股淨籌7.71億港元，用於強化全鏈路AI資料基礎設施等】7月3日早間，迅策在港交所公告，於2026年7月2日（交易時段後），公司與配售代理訂立配售協議，同意以每股107.70港元配售股份。假設所有配售股份獲全數配售，配售事項所得款項總額預期合共約為7.84億港元，而配售事項所得款項淨額預期合共約為7.71億港元。公司擬將配售事項所得款項用於強化全鏈路AI資料基礎設施、擴大跨產業商業化及可擴充套件解決方案的部署、透過以客戶為導向的國際化策略拓展海外部署，以及用作營運資金及一般企業用途。於2026年7月2日（交易時段後），公司與經辦人訂立認購協議，公司同意發行，而經辦人同意按個別而非共同基準認購及支付或促使認購人認購及支付本金總額為人民幣13.6億元的債券。"
-    },
-    {
-      "id": "4968541",
-      "time": "2026-07-03 09:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建：積極培育跨境電商、海外倉等新業態新模式 支援企業加大力度開拓全球市場】7月2日，福建省省長趙龍主持召開省政府常務會議，審議福建省加快推進農業農村現代化、科技創新發展、現代綜合交通運輸體系等領域“十五五”規劃，聽取福建省2025年防範和懲治統計造假、弄虛作假工作情況彙報，研究進一步做好統計、促進外貿保穩提質等工作，討論並原則透過《〈福建省生態環境保護條例〉等十五項地方性法規修正草案》。會議強調，要進一步深挖對外貿易潛力，充分發揮自貿試驗區等開放平臺功能，積極培育跨境電商、海外倉等新業態新模式，大力發展數字貿易、綠色貿易、服務貿易，促進外貿保穩提質。要全力助企紓困，及時研究外貿領域新情況新問題，強化政策協同和服務保障，支援企業加大力度開拓全球市場，更好服務和融入新發展格局。"
-    },
-    {
-      "id": "4968540",
-      "time": "2026-07-03 09:06:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代理總統羅德里格斯：搜救階段仍在繼續。"
-    },
-    {
-      "id": "4968539",
-      "time": "2026-07-03 09:05:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "住友商事：決定出售比利時沿海三個海上風電專案的股權。"
-    },
-    {
-      "id": "4968538",
-      "time": "2026-07-03 09:04:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網信辦釋出關於開展“清朗・網路娛樂團播亂象整治”專項行動的通知】為加強娛樂團播領域問題治理，中央網信辦自即日起，在全國範圍內開展為期2個月的“清朗·網路娛樂團播亂象整治”專項行動。專項行動期間，重點圍繞娛樂團播整治以下6類問題。（一）團播賬號註冊使用違規。（二）團播之間或團播成員間違規PK刺激打賞。（三）運用不當團播玩法誘導打賞。（四）團播場景內容低俗不良。（五）團播侵害未成年人權益。（六）團播MCN機構管理失範。"
-    },
-    {
-      "id": "mkt:019f2581-d18b-7aab-8c87-3d9911685dd2",
-      "time": "2026-07-03 09:04:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Spot gold and silver tick higher; silver up over 1% intraday】Spot gold and silver rose in short-term trade. Spot gold breached $4,160/oz, up 0.88% intraday. Spot silver gained 1.00% intraday to $61.58/oz."
-    },
-    {
-      "id": "4968537",
-      "time": "2026-07-03 09:04:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4160美元/盎司，日內漲0.89%。"
-    },
-    {
-      "id": "4968536",
-      "time": "2026-07-03 09:04:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報62.30美元/盎司。"
-    },
-    {
-      "id": "4968535",
-      "time": "2026-07-03 09:04:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲5%，現報310.30元。"
-    },
-    {
-      "id": "mkt:019f2581-1937-7aab-8c87-3301c5387dde",
-      "time": "2026-07-03 09:04:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai gold main contract climbed 2.00% intraday to 908.22 yuan/gram."
-    },
-    {
-      "id": "4968534",
-      "time": "2026-07-03 09:03:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報61.55美元/盎司。"
-    },
-    {
-      "id": "4968533",
-      "time": "2026-07-03 09:03:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報15066.00元。"
-    },
-    {
-      "id": "4968532",
-      "time": "2026-07-03 09:03:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1286.00美元/盎司。"
-    },
-    {
-      "id": "4968531",
-      "time": "2026-07-03 09:03:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4170美元/盎司，日內漲1.09%。"
-    },
-    {
-      "id": "4968530",
-      "time": "2026-07-03 09:03:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正：需要監測並應對外匯波動對小型企業的影響。"
-    },
-    {
-      "id": "4968529",
-      "time": "2026-07-03 09:03:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲4%，現報413.40元。"
-    },
-    {
-      "id": "4968528",
-      "time": "2026-07-03 09:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉地震已造成189棟建築完全坍塌。"
-    },
-    {
-      "id": "mkt:019f2580-4864-7aab-8c87-2bfa4dc3eb47",
-      "time": "2026-07-03 09:03:11",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Cyberspace Administration launches two-month nationwide \"Qinglang\" action targeting online entertainment group live-streaming】The Cyberspace Administration of China has launched a nationwide, two-month \"Qinglang·rectification of chaotic practices in online entertainment group live broadcasts\" special action, starting immediately and conducted under the 2026 Qinglang special-action plan to strengthen governance of the online entertainment group live-streaming sector."
-    },
-    {
-      "id": "4968527",
-      "time": "2026-07-03 09:03:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯稱，拉瓜伊拉州幾乎所有官員都在地震中遇難。"
-    },
-    {
-      "id": "mkt:019f257e-7b36-7aab-8c87-22387dab8d61",
-      "time": "2026-07-03 09:01:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 1.95% in early trade on Friday, July 3, to 904.45 yuan/gram; Silver T+D gained 2.63% to 14,961 yuan/kg."
-    },
-    {
-      "id": "mkt:019f257e-7398-7aab-8c87-1852c1c96407",
-      "time": "2026-07-03 09:01:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "The Taiwan Stock Exchange Weighted Index opened down 770.95 points (1.65%) at 45,973.21 on Friday, July 3."
-    },
-    {
-      "id": "4968526",
-      "time": "2026-07-03 09:01:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【閃迪3D NAND快閃記憶體新品BiCS10 1Tb TLC開始提供樣品】當地時間7月2日，閃迪公司宣佈，其第10代3D NAND快閃記憶體技術BiCS10 1Tb TLC開始提供樣品。據閃迪介紹，BiCS10 TLC將儲存層數增加到332層，並整合了Toggle DDR6.0、SCA協議和PI-LTT技術，以支援高速、低功耗執行。"
-    },
-    {
-      "id": "4968525",
-      "time": "2026-07-03 09:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿爾伯塔省省長史密斯：計劃加大油砂投資以提高產量，從而充分利用新輸油管道。"
-    },
-    {
-      "id": "4968524",
-      "time": "2026-07-03 09:00:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內漲4%，現報171420.00元。"
-    },
-    {
-      "id": "mkt:019f257d-fb14-7aab-8c87-1526856ccb62",
-      "time": "2026-07-03 09:00:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened 0.19% higher."
-    },
-    {
-      "id": "4968523",
-      "time": "2026-07-03 09:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1.6%至46,003.72點。"
-    },
-    {
-      "id": "mkt:019f257d-a520-7aab-8c87-0ff27f20819f",
-      "time": "2026-07-03 09:00:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "At the morning open, China’s most-active futures were mostly higher. Palladium rose more than 4%; lithium carbonate and liquefied petroleum gas (LPG) gained over 3%; platinum, Shanghai silver and methanol climbed over 2%; bitumen and Shanghai gold were up about 2%. On the downside, alumina and polysilicon fell nearly 2%, iron ore dropped more than 1% and palm oil was down about 1%."
-    },
-    {
-      "id": "4968522",
-      "time": "2026-07-03 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.4%報46,545.14。"
-    },
-    {
-      "id": "4968521",
-      "time": "2026-07-03 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲2%，現報15020.00元。"
-    },
-    {
-      "id": "4968520",
-      "time": "2026-07-03 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.12%。"
-    },
-    {
-      "id": "4968519",
-      "time": "2026-07-03 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】鈀連續漲3.88%，液化石油氣連續漲3.41%，鉑連續漲3.36%，白銀連續漲2.71%，甲醇連續漲2.40%，碳酸鋰連續漲2.11%。"
-    },
-    {
-      "id": "4968518",
-      "time": "2026-07-03 08:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉羅德里格斯表示，我以委內瑞拉的名義感謝外國援助者、美國總統特朗普和薩爾瓦多總統布克爾。"
-    },
-    {
-      "id": "mkt:019f257c-56cb-7aab-8c87-048970939228",
-      "time": "2026-07-03 08:58:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Alberta provincial government: financing details for the proposed new West Coast oil pipeline remain under negotiation."
-    },
-    {
-      "id": "4968517",
-      "time": "2026-07-03 08:57:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大阿爾伯塔省省長史密斯：西海岸新管道專案的融資細節尚待談判。"
-    },
-    {
-      "id": "4968516",
-      "time": "2026-07-03 08:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正：影響外匯匯率的因素很多，對此不予置評。"
-    },
-    {
-      "id": "4968514",
-      "time": "2026-07-03 08:57:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銘普光磁：800G LPO已實現小批次出貨】銘普光磁7月3日在互動平臺表示，800G LPO已實現小批次出貨，客戶驗證與批次匯入有序開展，公司正按客戶計劃穩步推進量產爬坡。"
-    },
-    {
-      "id": "4968513",
-      "time": "2026-07-03 08:57:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普堅稱其鉅額加密貨幣收入“沒有任何不妥”】在財務披露顯示其家族企業透過加密貨幣業務斬獲鉅額收益後，美國總統特朗普週四稱他並不清楚自己持有的數字資產規模，但強調他參與相關業務不存在任何違法之處。 特朗普本週早些時候披露，2025年他從加密貨幣和迷因幣相關公司獲得了至少14億美元收入。已將商業運營交給長子和次子打理的特朗普在接受採訪時，被問及是否瞭解這些加密貨幣投資專案。“我本可以瞭解這些情況，”特朗普在白宮受訪時稱。“但我並沒有去了解。”“這沒有任何違法之處，沒有任何不妥，”特朗普在談到自己與家族企業的往來時說。"
-    },
-    {
-      "id": "mkt:019f257a-434e-7aab-8c86-f96a85983fae",
-      "time": "2026-07-03 08:56:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold touched $4,150/oz, up 0.63% intraday."
-    },
-    {
-      "id": "4968512",
-      "time": "2026-07-03 08:56:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4150美元/盎司，日內漲0.64%。"
-    },
-    {
-      "id": "4968511",
-      "time": "2026-07-03 08:56:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉臨時總統羅德里格斯表示，委內瑞拉發生地震後，已立即派出4000名官員（展開救援）。"
-    },
-    {
-      "id": "4968510",
-      "time": "2026-07-03 08:55:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沙特阿美改以現貨定價供油 以加快在亞洲的銷售】據貿易訊息人士和航運資料，至少有五艘從拉斯塔努拉港(Ras Tanura)裝載總計1,000萬桶沙特原油的超級油輪已駛離霍爾木茲海峽；與此同時，沙烏地阿拉伯國家石油公司(沙特阿美)已轉為採用現貨定價，以加快在亞洲的銷售。在停擺近四個月後，沙特阿美上週五恢復從全球最大石油港口拉斯塔努拉的裝船作業(Full Story)。該公司正在加大向亞洲的裝船和發運力度，加劇了現貨市場供應過剩局面。多位因事涉敏感而要求匿名的貿易訊息人士表示，除了利用沙特國家航運公司巴赫裡(Bahri)油輪船隊運輸原油外，沙特阿美還以現貨價格向亞洲客戶供應原油，以在競爭加劇的情況下吸引需求。其中一位訊息人士稱，沙特阿美已向其傳統亞洲客戶提供600萬桶7月裝船的原油。另一位訊息人士表示，其價格對中國買家而言“非常有吸引力”。沙特阿美拒絕置評。"
-    },
-    {
-      "id": "4968509",
-      "time": "2026-07-03 08:54:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "信能低碳有限公司在香港暫停交易。"
-    },
-    {
-      "id": "4968508",
-      "time": "2026-07-03 08:54:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉臨時總統羅德里格斯：地震發生後，應急系統已立即投入部署。"
-    },
-    {
-      "id": "4968507",
-      "time": "2026-07-03 08:53:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王予波會見中國上市公司協會商業航天與低空經濟專業委員會成立大會嘉賓】據“雲南釋出”，7月2日，中國上市公司協會商業航天與低空經濟專業委員會成立大會暨投資雲南·產融對接會在昆明舉行。會前，雲南省委副書記、省長王予波會見了中國民航局原黨組書記、局長李家祥，中國科學院院士吳一戎等嘉賓代表。王予波說，雲南區位優勢明顯、資源能源豐富、應用場景多元、政策支撐有力，商業航天與低空經濟發展條件得天獨厚。誠摯邀請更多企業來滇投資興業，與我們共享發展機遇、共拓廣闊市場，推動場景應用+先進製造協同發展，實現互利共贏。雲南將持續打造一流營商環境，全力支援來滇發展的企業。"
-    },
-    {
-      "id": "4968506",
-      "time": "2026-07-03 08:53:04",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗預計伊朗與美國諒解備忘錄得以維繫 布倫特油價年底在60-65美元】花旗集團7月2日的報告稱，預計美國-伊朗諒解備忘錄將在未來幾個月內繼續有效，並最終轉化為正式協議。Francesco Martoccia等分析師指出，給戰爭降級的動力蓋過重新對抗的代價。重申建議在夏季任何上漲行情時賣出，並預測布倫特原油價格將在年底前跌至每桶60-65美元。透過這份諒解備忘錄，伊朗基本實現了其訴求，而美國則獲得了可以接受的全球油價。隨著霍爾木茲海峽局勢的動盪逐漸消退，基本面正在迅速恢復，但由於霍爾木茲海峽的管理權和通行費爭議持續存在，這一程序仍然脆弱。"
-    },
-    {
-      "id": "4968505",
-      "time": "2026-07-03 08:52:36",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【鎧俠控股股價跌至一個月來的最低點 失去日本市值最高公司地位】3日在東京證券交易所上市的鎧俠控股該公司股價一度下跌12%，跌至近一個月來的最低點。此次拋售是對股價快速上漲的反應，原因是市場擔憂人工智慧相關資本投資放緩，以及半導體行業可能陷入過度投資的困境。該公司股價已從6月22日創下的歷史最高點下跌了40%。公司市值一度是日本最大，目前暫時跌至第三位。軟銀集團、東京電子、村田製作所等其他此前被大量買入的AI相關股票也全面大幅下跌。"
-    },
-    {
-      "id": "te:markets:563919",
-      "time": "2026-07-03 08:52:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 1.5% to below 67,800 on Friday, extending losses for a second consecutive session as technology stocks remained under pressure amid concerns that the artificial intelligence-driven rally has outpaced underlying fundamentals. Investors questioned whether heavy spending and intensifying competition in the AI sector can support elevated valuations and deliver sustainable profits. Japanese firms tied to the global AI infrastructure buildout posted another day of steep losses, including Kioxia Holdings (-4.6%), Taiyo Yuden (-8.5%), Tokyo Electron (-3.4%), Murata Manufacturing (-5.2%), and Fujikura (-5%). Domestic equities also weakened as the yen rallied nearly 1% on Thursday, fueled by speculation that Japanese authorities could intervene in the currency market at any time."
     }
   ]
 }
