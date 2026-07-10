@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-10 17:32:38",
-  "count": 15780,
+  "updated": "2026-07-10 17:36:35",
+  "count": 15781,
   "items": [
+    {
+      "id": "mkt:019f4b61-ee33-7aab-8d2e-ed77f3ae8bae",
+      "time": "2026-07-10 17:35:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Bright Data launches $1 mln bug bounty as scrutiny of web-data harvesting increases】Israeli startup Bright Data, one of the world’s largest web-data collection providers, is launching a $1 mln bug bounty to incentivize white-hat hackers to identify vulnerabilities, including in its own systems, the company said. The move follows heightened law-enforcement scrutiny of how firms harvest internet data and whether those methods pose legal or compliance risks for customers. Bright Data said demand for its services has surged as internet data becomes critical for AI model training; its CEO warned broader enforcement actions against data-collection services could hamper AI development."
+    },
+    {
+      "id": "4980940",
+      "time": "2026-07-10 17:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順鑫農業：推舉康濤代行董事長職責】順鑫農業公告，公司於2026年7月10日收到董事長宋立松的書面辭職報告，因工作調動申請辭去董事長、董事等職務。為保證公司運作，第十屆董事會第三次會議推舉董事康濤代行公司董事長、法定代表人及戰略投資與可持續發展委員會主任委員職責，原總經理、董事會秘書職務不變，代行期限至選舉產生新任董事長之日止。表決結果：同意8票，反對0票，棄權0票。"
+    },
+    {
+      "id": "4980939",
+      "time": "2026-07-10 17:35:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昆藥集團：三款血塞通產品新納入2026年版國家基藥目錄】昆藥集團公告稱，公司的絡泰®血塞通軟膠囊和控股子公司的理洫王®血塞通軟膠囊、絡泰®血塞通滴丸新納入《國家基本藥物目錄(2026年版)》。目前公司共有57個產品（84個品規）納入該目錄，其中新納入3個產品（5個品規）。2025年，公司血塞通軟膠囊及滴丸銷售收入約9.02億元，佔公司營收的13.72%。此次納入將助力產品市場拓展，但受多種因素影響，未來銷量仍有不確定性。"
+    },
+    {
+      "id": "4980938",
+      "time": "2026-07-10 17:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【繼峰股份：控股子公司格拉默2026年上半年經營性息稅前利潤約4170萬歐元，較上年同期增長17.2%】繼峰股份公告，控股子公司格拉默預計2026年半年度業績大幅增長。根據初步資料，格拉默2026年第二季度經營性息稅前利潤約為2340萬歐元，較上年同期大幅增長。2026年前6個月格拉默集團經營性息稅前利潤約4170萬歐元，較上年同期增長17.2%。格拉默預計2026年半年度的淨利潤約2430萬歐元，公司財務部門初步測算，格拉默2026年半年度歸屬於上市公司股東的淨利潤為人民幣1.72億元，盈利同比實現大幅增長。"
+    },
+    {
+      "id": "4980937",
+      "time": "2026-07-10 17:32:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麗島新材：預計2026年上半年淨利潤3300萬元到4500萬元】麗島新材公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為3300萬元到4500萬元。報告期內，鋁價處於高位執行區間。受下游市場需求增長拉動，子公司麗島新能源（安徽）有限公司產能得到進一步釋放，產能利用率上升，鋁箔高階產品佔比提升，帶動盈利能力改善。"
+    },
+    {
+      "id": "4980936",
+      "time": "2026-07-10 17:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平同奈米比亞總統恩代特瓦會談】7月10日下午，國家主席習近平在北京人民大會堂同來華進行國事訪問的奈米比亞總統恩代特瓦舉行會談。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f4b5e-cd38-7aab-8d2e-e0b20351d537",
+      "time": "2026-07-10 17:32:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Southbound Stock Connect recorded net outflows of CNY 5.995 billion today. On Shanghai-Hong Kong Stock Connect, Tracker Fund of Hong Kong and Tencent Holdings were net sold HKD 2.812 billion and HKD 1.82 billion respectively; Zhipu was the top net buy at HKD 1.465 billion. On Shenzhen-Hong Kong Stock Connect, Tracker Fund of Hong Kong and Tencent were net sold HKD 1.886 billion and HKD 1.044 billion; Zhipu led net buys at HKD 1.378 billion."
+    },
+    {
+      "id": "4980935",
+      "time": "2026-07-10 17:32:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "世茂集團：2026年6月合約銷售額12.57億元人民幣，銷售面積101,403平方米，平均售價每平方米12,399元人民幣。"
+    },
     {
       "id": "mkt:019f4b5e-940e-7aab-8d2e-d9dc6bdd26fe",
       "time": "2026-07-10 17:31:57",
@@ -143916,71 +143988,6 @@
         "MKT News"
       ],
       "text": "The Monaco prosecutor said the attacker in the Monaco explosion used a remote device to detonate the bomb."
-    },
-    {
-      "id": "mkt:019f2756-2484-7aab-8c92-8c3d8c3e80dc",
-      "time": "2026-07-03 17:36:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Russia plans to import Japanese jet fuel shipped in July via traders."
-    },
-    {
-      "id": "4969478",
-      "time": "2026-07-03 17:36:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲南鍺業：副總經理普世坤因工作調整辭職】雲南鍺業(002428.SZ)公告稱，公司副總經理普世坤因工作調整申請辭去副總經理職務，辭職後仍擔任公司技術中心主任等其他職務。截至公告日，普世坤未持有公司股票。"
-    },
-    {
-      "id": "4969477",
-      "time": "2026-07-03 17:35:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯計劃透過貿易商進口7月裝船的原產日本航煤。"
-    },
-    {
-      "id": "4969476",
-      "time": "2026-07-03 17:35:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海特：公司董事長、董事離任】中遠海特(600428)7月3日公告，因工作調動原因，張煒提出辭去公司董事長、董事及戰略決策委員會主任委員、提名委員會委員等職務，王威提出辭去公司董事、戰略決策委員會委員等職務。"
-    },
-    {
-      "id": "mkt:019f2754-06be-7aab-8c92-864af3bff1ad",
-      "time": "2026-07-03 17:34:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【BofA: U.S. stocks log largest outflow in three months】BofA says investors sold U.S. equities at the fastest pace since March. A Michael Hartnett-led team, citing EPFR Global, reports $17.2bn of outflows in the week to July 1 — the first weekly redemption in three months after strong inflows earlier this year. Flows favored international stocks: Japan saw the largest inflow in seven weeks at $1.9bn. Continued skepticism over AI-driven valuations weighed on chip names; the Philadelphia Semiconductor Index fell about 11% over the past two trading days."
-    },
-    {
-      "id": "4969475",
-      "time": "2026-07-03 17:34:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認淡馬錫 AAA/A-1 + 信用評級，展望穩定。"
-    },
-    {
-      "id": "4969474",
-      "time": "2026-07-03 17:33:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST章鼓：股票交易異常波動 近期無應披露未披露重大事項】ST章鼓公告稱，公司股票於2026年7月1日至7月3日連續3個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。公司於7月1日決定本次不向下修正“章鼓轉債”轉股價格，未來6個月內如觸發也不提出修正方案。經核查，公司目前無應披露而未披露的重大事項，近期經營正常，內外部環境無重大變化，控股股東和實控人無買賣公司股票行為。此外，公司股票已被實施其他風險警示，投資者需注意風險。"
     }
   ]
 }
