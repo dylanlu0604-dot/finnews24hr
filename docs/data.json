@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 18:52:34",
+  "updated": "2026-07-11 18:56:40",
   "count": 16288,
   "items": [
+    {
+      "id": "4982211",
+      "time": "2026-07-11 18:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月11日18時26分在南桑威奇群島地區[大西洋]（南緯55.25度，西經28.85度）發生6.4級地震，震源深度20千米。"
+    },
     {
       "id": "4982210",
       "time": "2026-07-11 18:50:18",
@@ -148596,14 +148604,6 @@
         "WTI"
       ],
       "text": "German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine."
-    },
-    {
-      "id": "4970390",
-      "time": "2026-07-04 18:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國方面發表宣告稱，德國總理默茨與烏克蘭總統澤連斯基通電話，討論了俄羅斯對基輔和烏克蘭其他地區的空襲。"
     }
   ]
 }
