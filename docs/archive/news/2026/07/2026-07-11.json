@@ -1,7 +1,28 @@
 {
   "date": "2026-07-11",
-  "count": 407,
+  "count": 409,
   "items": [
+    {
+      "id": "mkt:019f4e88-e113-7aab-8d3a-b18dbd585373",
+      "time": "2026-07-11 08:17:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Trump says Micron to invest USD 250 bln in US memory‑chip manufacturing】Trump said on social media Micron Technology is accelerating US spending and plans to invest USD 250 bln to manufacture memory chips domestically, citing supply‑chain security and job creation. He retweeted Micron CEO Sanjay Mehrotra, who said the company will today announce increasing its US manufacturing and R&D investment from USD 200 bln to USD 250 bln and expects to create 100,000 US jobs."
+    },
+    {
+      "id": "4981967",
+      "time": "2026-07-11 08:15:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，7月16日至7月17日每天9時至12時、15時至18時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
     {
       "id": "4981966",
       "time": "2026-07-11 08:09:41",
