@@ -1,7 +1,18 @@
 {
   "date": "2026-07-11",
-  "count": 577,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:019f4fcc-abb9-7aab-8d3b-edec84573526",
+      "time": "2026-07-11 14:10:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Saudi media Hadas reports unconfirmed accounts of loud explosions heard near Bakdasht and Balshahin in Iran."
+    },
     {
       "id": "4982101",
       "time": "2026-07-11 14:05:04",
