@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-11 21:48:12",
-  "count": 16324,
+  "updated": "2026-07-11 21:52:24",
+  "count": 16326,
   "items": [
+    {
+      "id": "4982269",
+      "time": "2026-07-11 21:50:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川啟動洪水災害防禦四級響應】據四川省水利廳網站，綜合考慮當前降雨情況及未來72小時雨情、汛情變化趨勢，按照《四川省水利廳水旱災害防禦應急預案（2024年度修訂）》規定，經分管副廳長批准，7月11日20時00分，四川省水利廳啟動洪水災害防禦四級響應，水旱災害防禦領導小組各成員單位、相關市（州）水利（水務）局按照職責分工，全力做好水旱災害防禦各項工作。"
+    },
+    {
+      "id": "mkt:019f5170-d31a-7aab-8d3e-863ef00d440d",
+      "time": "2026-07-11 21:49:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze Yibin-section flood peak to pass Hejiangmen at 02:00 on 12th】Yibin flood-control office said continuous upstream rain has driven water levels on the Minjiang and Yangtze main and tributary channels higher; latest assessment shows the Yangtze Yibin-section flood peak will pass Hejiangmen waters at 02:00 on the 12th."
+    },
+    {
+      "id": "4982268",
+      "time": "2026-07-11 21:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長江宜賓段洪峰明日凌晨2時過境】從四川省宜賓市防汛抗旱指揮部辦公室獲悉，受上游持續降雨影響，宜賓市岷江、長江干支流水位持續上漲，江河汛情形勢動態變化，最新研判顯示長江宜賓段洪峰將於12日凌晨2時過境合江門水域。"
+    },
+    {
+      "id": "4982267",
+      "time": "2026-07-11 21:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海東海大橋已封閉管控】受颱風“巴威”影響，為確保道路交通安全，自7月11日21時起，對東海大橋實施封閉管控措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f516f-7536-7aab-8d3e-78ce074150f6",
+      "time": "2026-07-11 21:48:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai Donghai Bridge closed to traffic】Affected by Typhoon Bavi, Shanghai's Donghai Bridge has been closed and placed under traffic control from 21:00 on July 11 to ensure road safety."
+    },
     {
       "id": "mkt:019f516c-cc5a-7aab-8d3e-75b6cf5ddcc1",
       "time": "2026-07-11 21:45:12",
@@ -148891,34 +148933,6 @@
         "Greater China"
       ],
       "text": "【Kaohsiung–Ningbo direct flights resume】Spring Airlines resumed direct Kaohsiung–Ningbo services on the 4th using an Airbus A320, operating one roundtrip weekly on Tuesdays and Saturdays. Flight 9C8685 departs Ningbo Lishe Airport 15:30, arrives Kaohsiung 17:35; 9C8686 departs Kaohsiung 18:35, arrives Ningbo Lishe 20:35. Spring said previous travel between the cities required transfers and typically exceeded five hours; the direct service cuts one-way flight time to about two hours. Several mainland carriers have also been restoring cross-strait direct routes: China Eastern resumed Taichung–Chengdu from the 1st of this month, and Shandong Airlines expects to resume Taichung–Qingdao from the 23rd."
-    },
-    {
-      "id": "mkt:019f2d65-7abf-7aab-8c9d-466e6493cdc6",
-      "time": "2026-07-04 21:50:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reports the Russian Defence Ministry says its forces are clearing Ukrainian troops from the town of Lyman."
-    },
-    {
-      "id": "mkt:019f2d65-5728-7aab-8c9d-3ca64b7aaf1e",
-      "time": "2026-07-04 21:50:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "TASS cited the Russian Defence Ministry saying Russian forces have captured five settlements in eastern Ukraine."
-    },
-    {
-      "id": "4970485",
-      "time": "2026-07-04 21:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部表示，其部隊正在清除利曼鎮的烏克蘭軍隊。"
     }
   ]
 }
