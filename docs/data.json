@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 05:13:29",
-  "count": 16273,
+  "updated": "2026-07-12 05:17:16",
+  "count": 16272,
   "items": [
+    {
+      "id": "4982363",
+      "time": "2026-07-12 05:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民眾集會反對修憲擴軍 擔憂民生受擠壓】當地時間11日傍晚，日本民眾自發在東京的新宿車站附近舉行集會，反對日本政府修改憲法、推動“再軍事化”等動向。（央視新聞）"
+    },
     {
       "id": "4982361",
       "time": "2026-07-12 05:01:12",
@@ -148441,22 +148449,6 @@
         "MKT News"
       ],
       "text": "Russian Defence Ministry says about 13,000 aerial targets were shot down over Russian airspace in June."
-    },
-    {
-      "id": "4970605",
-      "time": "2026-07-05 05:15:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基與特朗普通話 商定在北約峰會期間會談】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文表示，他於美國獨立日當天同美國總統特朗普通話。澤連斯基表示，通話期間，兩國總統圍繞俄烏衝突前線最新局勢、外交推進動態以及停戰的現實前景深入交換意見。雙方商定，將在安卡拉北約峰會期間舉行面對面會晤，繼續圍繞相關議題開展深入磋商。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f2efc-1985-7aab-8c9f-8c3fc3e2c06d",
-      "time": "2026-07-05 05:15:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy, Trump agree to meet at NATO summit in Ankara after July 4 call】On July 4 Ukrainian President Zelenskiy said he spoke by phone with US President Trump. They exchanged views on frontline developments in the Russia-Ukraine conflict, diplomatic progress and the realistic prospects for a ceasefire, and agreed to hold a face-to-face meeting during the NATO summit in Ankara to continue discussions."
     }
   ]
 }
