@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 00:39:41",
+  "updated": "2026-07-12 00:43:48",
   "count": 16326,
   "items": [
+    {
+      "id": "4982317",
+      "time": "2026-07-12 00:41:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效能最強的模型，但最有力的佐證是，埃隆（馬斯克）又一門心思盯著我了。"
+    },
     {
       "id": "4982316",
       "time": "2026-07-12 00:37:26",
@@ -148905,14 +148913,6 @@
         "MKT News"
       ],
       "text": "Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action."
-    },
-    {
-      "id": "mkt:019f2e34-a957-7aab-8c9e-1aefdefd024f",
-      "time": "2026-07-05 00:39:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision."
     }
   ]
 }
