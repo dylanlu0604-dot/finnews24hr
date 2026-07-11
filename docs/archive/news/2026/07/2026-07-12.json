@@ -1,7 +1,23 @@
 {
   "date": "2026-07-12",
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "mkt:019f51fb-42ea-7aab-8d3f-011b3ed3772b",
+      "time": "2026-07-12 00:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran."
+    },
+    {
+      "id": "4982308",
+      "time": "2026-07-12 00:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗、阿曼商討霍爾木茲海峽通航“相關機制”】伊朗外交部發布宣告稱，伊朗與阿曼外長於馬斯喀特舉行會晤，依據《伊斯蘭堡諒解備忘錄》第五條，就保障船舶安全通行霍爾木茲海峽的適宜機制交換了意見。"
+    },
     {
       "id": "mkt:019f51f7-c54c-7aab-8d3e-fb942dc7a44d",
       "time": "2026-07-12 00:17:00",

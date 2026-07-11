@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12 00:18:13",
-  "count": 16319,
+  "updated": "2026-07-12 00:22:13",
+  "count": 16320,
   "items": [
+    {
+      "id": "mkt:019f51fb-42ea-7aab-8d3f-011b3ed3772b",
+      "time": "2026-07-12 00:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran."
+    },
+    {
+      "id": "4982308",
+      "time": "2026-07-12 00:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗、阿曼商討霍爾木茲海峽通航“相關機制”】伊朗外交部發布宣告稱，伊朗與阿曼外長於馬斯喀特舉行會晤，依據《伊斯蘭堡諒解備忘錄》第五條，就保障船舶安全通行霍爾木茲海峽的適宜機制交換了意見。"
+    },
     {
       "id": "mkt:019f51f7-c54c-7aab-8d3e-fb942dc7a44d",
       "time": "2026-07-12 00:17:00",
@@ -148849,14 +148865,6 @@
         "MKT News"
       ],
       "text": "【India lifts gas supply restrictions as Middle East LNG flows resume】India's government said on Saturday it has revoked restrictions on natural gas suppliers after LNG supplies from the Middle East resumed. In March, following a disruption to LNG transport through the Strait of Hormuz, New Delhi ordered emergency measures to divert gas from non-priority users to critical consumers."
-    },
-    {
-      "id": "4970535",
-      "time": "2026-07-05 00:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊代理防長：應地區友國請求籤署停火諒解 違約將果斷回擊】伊朗代理國防部長馬吉德·伊本·禮薩表示，儘管伊朗對美國心存戒備，但應地區友好國家的請求，德黑蘭方面簽署了停火諒解檔案。他稱，若該諒解檔案中的相關承諾遭到違背，伊朗將作出“必要且堅決的”回應。"
     }
   ]
 }
