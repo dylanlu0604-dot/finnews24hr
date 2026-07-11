@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-11 20:07:58",
-  "count": 16310,
+  "updated": "2026-07-11 20:11:54",
+  "count": 16308,
   "items": [
+    {
+      "id": "mkt:019f5115-b677-7aab-8d3d-b8e800251a05",
+      "time": "2026-07-11 20:10:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Eni CEO: Prolonged Middle East conflict could push oil above $80–$100/bbl band by early 2027】Eni CEO Claudio Descalzi said if the Middle East conflict persists, the global oil market will break out of the current roughly $80–$100 per barrel range by Q1 2027 at the latest, boosting inflation and depressing energy demand. Strategic reserve releases have so far kept prices in that band, but reserves are finite and the approach faces rising risk. Iran-related disruptions since late February have driven average daily inventory draws of about 3.8 mln barrels, accelerating to 4.6 mln bpd in May. Descalzi called for diversification of supply sources and routes — highlighting North Africa, sub‑Saharan Africa, Latin America and Southeast Asia — and urged reduced reliance on sea lanes under concentrated control."
+    },
     {
       "id": "4982243",
       "time": "2026-07-11 20:04:32",
@@ -148765,30 +148778,6 @@
         "公司"
       ],
       "text": "【上海電氣與上海交大簽署戰略合作協議】7月3日下午，中國科學院院士、上海交通大學（以下簡稱“上海交大”）黨委副書記、校長丁奎嶺和上海電氣集團黨委書記、董事長吳磊共同見證雙方戰略合作協議簽署。丁奎嶺表示，當前新一輪科技革命和產業變革加速演進，高階裝備自主可控、綠色智慧轉型任務緊迫，為雙方深化校企協同創新提供了廣闊空間。希望雙方以此次合作簽約為新起點，緊扣服務國家重大需求，進一步拓展合作領域、深化合作內涵，共同佈局人工智慧、特種材料、未來能源等中長期前沿顛覆性技術，深化產教融合、科教融匯，合力產出更多自主可控的標誌性成果，共同為我國高階裝備產業高質量發展、服務國家戰略全域性作出新的更大貢獻。（上海電氣）"
-    },
-    {
-      "id": "mkt:019f2d09-54d8-7aab-8c9c-ef44b8ca4028",
-      "time": "2026-07-04 20:10:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Egyptian minister said Egypt expects to receive €1.5 bln under the EU aid package within days."
-    },
-    {
-      "id": "4970424",
-      "time": "2026-07-04 20:08:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工成套道路裝備，批次交付莫三比克】從徐工集團瞭解到，當地時間7月1日，徐工瀝青攪拌中心揭牌暨成套道路裝置交付儀式於莫三比克貝拉市舉辦。本次交付涵蓋瀝青攪拌站、瀝青攤鋪機、路面冷再生機等成套道路裝備，構建起“瀝青原料生產—道路攤鋪施工—舊路再生改造—路面壓實成型”的一體化閉環施工體系。一站式解決當地道路新建、改擴建、日常養護等全場景需求，精準補齊城市道路基建配套與養護能力的短板。（證券時報）"
-    },
-    {
-      "id": "4970423",
-      "time": "2026-07-04 20:08:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及部長表示，埃及預計未來幾日將獲得歐盟援助計劃的15億歐元資金。"
     }
   ]
 }
