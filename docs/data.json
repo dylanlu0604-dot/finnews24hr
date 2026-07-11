@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-12 02:56:28",
-  "count": 16298,
+  "updated": "2026-07-12 03:00:55",
+  "count": 16295,
   "items": [
+    {
+      "id": "mkt:019f528b-23dc-7aab-8d3f-737723713eaa",
+      "time": "2026-07-12 02:57:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized."
+    },
     {
       "id": "4982343",
       "time": "2026-07-12 02:55:27",
@@ -148641,38 +148650,6 @@
         "國際"
       ],
       "text": "知情人士透露，烏克蘭總統澤連斯基於週六與特朗普通電話，祝賀美國迎來建國250週年。"
-    },
-    {
-      "id": "mkt:019f2e81-3e73-7aab-8c9e-dd908585323d",
-      "time": "2026-07-05 03:00:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ali Ozmaei was officially appointed commander of the IRGC Navy."
-    },
-    {
-      "id": "4970576",
-      "time": "2026-07-05 03:00:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿里·奧茲馬伊正式被任命為伊朗革命衛隊海軍司令。"
-    },
-    {
-      "id": "4970575",
-      "time": "2026-07-05 02:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將於晚間十點（北京時間10:00）左右在林肯紀念堂發表講話。"
-    },
-    {
-      "id": "mkt:019f2e7d-819b-7aab-8c9e-d2c3c2f2618f",
-      "time": "2026-07-05 02:56:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Washington celebration drew unprecedented crowds, calls U.S. stronger than ever】President Trump posted that Washington’s Independence Day celebration drew unprecedented crowds despite the heat. He praised the air show and said he will speak at the Lincoln Memorial at about 10 p.m. He added that the reflecting pool, which was previously vandalized, will be drained and repaired after the weekend."
     }
   ]
 }

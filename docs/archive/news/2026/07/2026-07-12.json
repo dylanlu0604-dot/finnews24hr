@@ -1,7 +1,16 @@
 {
   "date": "2026-07-12",
-  "count": 60,
+  "count": 61,
   "items": [
+    {
+      "id": "mkt:019f528b-23dc-7aab-8d3f-737723713eaa",
+      "time": "2026-07-12 02:57:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized."
+    },
     {
       "id": "4982343",
       "time": "2026-07-12 02:55:27",
