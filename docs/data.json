@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 18:56:40",
-  "count": 16288,
+  "updated": "2026-07-11 19:00:34",
+  "count": 16287,
   "items": [
+    {
+      "id": "4982212",
+      "time": "2026-07-11 18:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海迪士尼度假區調整7月12日運營時間】7月11日，上海迪士尼度假區釋出公告：基於颱風“巴威”當前的路徑及最新的天氣預報，上海迪士尼度假區2026年7月12日（週日）的運營時間將有所調整。7月12日，上海迪士尼樂園的運營時間為中午12:00至21:30，迪士尼小鎮的運營時間為中午12:00至22:00。星願公園將於當日暫停對外開放。"
+    },
     {
       "id": "4982211",
       "time": "2026-07-11 18:52:15",
@@ -148582,28 +148590,6 @@
         "XAUUSD"
       ],
       "text": "【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank \"well placed.\" He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is \"very low\" versus other central banks, that June's hike was \"reasonable,\" and that ECB communication indicated the June increase did not mark the start of a new tightening cycle."
-    },
-    {
-      "id": "4970391",
-      "time": "2026-07-04 19:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南大理州賓川縣一小時3次四級以上地震：當地震感明顯，部分列車將晚點】中國地震臺網正式測定，2026年7月4日17時33分、18時07分、18時28分，雲南省大理州賓川縣先後發生4.4級、4.3級、4.3級地震。為確保旅客列車執行安全，中國鐵路昆明局集團有限公司第一時間啟動應急響應，對大理東至洱海、洱海至西邑區間實施封鎖，緊急叫停該區段內執行列車，並安排工務、電務、供電等部門上線對線路裝置進行全面檢查。受此影響，大理往返昆明、麗江、香格里拉方向的部分旅客列車將出現不同程度晚點。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點導致的退票不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。（人民日報）"
-    },
-    {
-      "id": "mkt:019f2cc6-7561-7aab-8c9c-c0a8e8256158",
-      "time": "2026-07-04 18:57:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine."
     }
   ]
 }
