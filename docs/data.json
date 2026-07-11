@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 04:00:01",
+  "updated": "2026-07-12 04:03:50",
   "count": 16276,
   "items": [
+    {
+      "id": "mkt:019f52c6-1f9c-7aab-8d3f-8ac64bd7069d",
+      "time": "2026-07-12 04:02:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. National Press Club urged the Department of Justice to immediately withdraw its subpoena for a New York Times reporter."
+    },
     {
       "id": "4982349",
       "time": "2026-07-12 03:56:18",
@@ -148481,14 +148489,6 @@
         "MKT News"
       ],
       "text": "Lebanese Health Ministry said the death toll has risen to 4,303 and injuries total 12,202 since hostilities resumed."
-    },
-    {
-      "id": "4970594",
-      "time": "2026-07-05 04:01:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，他在美國7月4日獨立日假期與特朗普進行了通話，澤連斯基稱美國的“果斷行動”有助於結束俄烏衝突。"
     }
   ]
 }
