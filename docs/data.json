@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 01:51:59",
-  "count": 16307,
+  "updated": "2026-07-12 01:55:53",
+  "count": 16306,
   "items": [
+    {
+      "id": "4982330",
+      "time": "2026-07-12 01:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國就空軍一號報道傳喚《紐約時報》記者】美國聯邦檢察官向四名《紐約時報》記者發出傳票，強制其披露兩篇報道的訊息來源。這兩篇報道曝光了卡達贈予美國的全新總統專機存在安全防護缺陷。檢方要求記者交代訊息源，相關報道稱，美國特勤局出於安全隱患考量，建議特朗普搭乘老式空軍一號從土耳其返程，新機缺少反導彈防護能力。《紐約時報》及多家媒體批評此次傳喚舉動，認為政府意在恐嚇媒體，阻撓公眾瞭解國內實情。"
+    },
     {
       "id": "4982329",
       "time": "2026-07-12 01:46:03",
@@ -148731,26 +148739,6 @@
         "國際"
       ],
       "text": "俄羅斯聯邦安全會議副主席梅德韋傑夫：俄羅斯願繼續同伊朗發展戰略伙伴關係。"
-    },
-    {
-      "id": "mkt:019f2e43-c716-7aab-8c9e-634842c14eb4",
-      "time": "2026-07-05 01:53:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action."
-    },
-    {
-      "id": "mkt:019f2e42-336c-7aab-8c9e-5c7a49d17d90",
-      "time": "2026-07-05 01:51:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's Channel 15, citing sources, reported that US President Trump has urged against escalation in Lebanon to avoid hindering his communications with Iran."
     }
   ]
 }
