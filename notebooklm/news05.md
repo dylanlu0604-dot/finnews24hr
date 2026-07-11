@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 04:26:28_
-_本檔包含 3151 則快訊，約 617371 字_
+_更新時間：2026-07-12 05:28:54_
+_本檔包含 3145 則快訊，約 616934 字_
+
+---
+
+### 2026-07-07 07:33:29  #其他
+
+【湖南資水發生2026年第2號洪水】受降雨影響，湖南資水邵陽站（湖南邵陽）7月7日5時30分水位漲至警戒水位（214.00米），依據主要江河洪水編號規定，此次洪水編號為“資水2026年第2號洪水”。
+
+---
+
+### 2026-07-07 07:32:53  #觀點
+
+【中信建投：2026年上半年A股在硬科技主線驅動下呈現極致的K型結構性行情】中信建投指出，2026年上半年，A股在硬科技主線驅動下呈現極致的K型結構性行情。在此背景下，公募基金整體業績亮眼，全市場74.4%的基金取得正收益，權益基金(股票型+混合型)平均回報15.93%，主動權益基金(普通股票型+偏股混合型)平均回報21.12%。發行市場延續回暖，1-6月新發基金髮行總規模5948.56億元，創近五年同期新高。被動指數基金數量領先，新發344只。但主動權益基金募集總規模佔據上風，新發229只1852.72億元。
+
+---
+
+### 2026-07-07 07:32:47  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Pressured by Rising Supply — Crude oil traded below $69 per barrel on Tuesday, hovering near its lowest level in more than four months as signs of rising supply continued to weigh on prices, while vessel traffic through the Strait of Hormuz kept recovering. Reports showed that at least eight Japan-linked ships exited the strategic waterway via a route near Iran, including five supertankers capable of carrying 2 million barrels of crude each. Meanwhile, Saudi Arabian oil giant Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 a barrel to a $1.50 discount against the regional benchmark, reflecting softer market conditions. The last two times the company offered the grade at a discount were during oil price wars in 2020 and 2015. The price cut came after OPEC+ members, led by Saudi Arabia, agreed over the weekend to increase production quotas for next month, reinforcing expectations of stronger global supply.
+
+---
+
+### 2026-07-07 07:32:10  #經濟數據 #日本
+
+日本5月加班工資同比增長2.9%，前值4.2%。
+
+---
+
+### 2026-07-07 07:31:42  #市場 #國際
+
+【日本5月實際工資連續第五個月上漲，通脹升溫拖累增速放緩】日本政府週二公佈資料顯示，5月實際工資同比上漲1.4%，實現連續五個月增長，但受消費通脹再度抬頭影響，薪資增幅有所回落。月度名義總現金薪資平均上漲3.2%，達311165日元（摺合1917.69美元），增速略低於4月修正後的3.6%。受美以對伊朗衝突帶來的物價傳導影響，消費通脹漲幅擴大，疊加上述名義薪資增速回落，5月實際工資漲幅收窄至1.4%，低於4月修正後的2%。員工固定基本工資同比上漲3.0%，4月修正增幅為3.3%；5月加班費同比增長2.9%，較4月修正後的4.8%明顯放緩。專項津貼多為一次性獎金，除夏、冬兩季外波動較大，該項5月同比上漲5.2%，4月修正增幅為10.3%。
+
+---
+
+### 2026-07-07 07:30:36  #經濟數據 #日本
+
+日本5月勞動現金收入同比增長3.2%，預期3.40%，前值由3.50%修正為3.60%。
+
+---
+
+### 2026-07-07 07:30:30  #國際
+
+日本總務省公佈資料顯示，5月家庭支出同比下降0.3%；此前媒體調查的市場預期為下降2.5%。
+
+---
+
+### 2026-07-07 07:30:28  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan May household spending (all households) +3.7% MoM; expected +1.4%, April +1.6%.
+
+---
+
+### 2026-07-07 07:30:20  #MKT News #Economic Calendar #Important
+
+Japan | Expenditures for Two-or-more-person Households (MoM) (May) | actual 3.7% | consensus 1.4% | previous 1.6%
+
+---
+
+### 2026-07-07 07:30:09  #MKT News
+
+Japan May total household spending YoY -0.3% (expected -2.5%; April -0.5%).
+
+---
+
+### 2026-07-07 07:30:08  #MKT News
+
+Japan May overtime pay YoY 2.9% vs 4.2% prior.
+
+---
+
+### 2026-07-07 07:30:07  #MKT News
+
+Japan May labor cash earnings YoY +3.2% (consensus +3.4%); April revised up to +3.6% from +3.5%.
+
+---
+
+### 2026-07-07 07:30:01  #MKT News #Economic Calendar #Important
+
+Japan | Expenditures for Two-or-more-person Households (YoY) (May) | actual -0.3% | consensus -2.5% | previous -0.50%
+
+---
+
+### 2026-07-07 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Overtime Earnings (YoY) (May) | actual 2.9% | previous 4.2%
+
+---
+
+### 2026-07-07 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Cash Earnings (YoY) (May) | actual 3.2% | consensus 3.40% | previous 3.50%
+
+---
+
+### 2026-07-07 07:27:34  #公司 #市場
+
+【三星財報釋出後股價下跌，或將拖累晶片行業其他競爭對手】三星電子公佈初步業績後，其股價在Nextrade交易所一度下跌4.7%。這一負面情緒可能會波及同行和供應商。該公司公佈的最新季度初步營業收入為89.4萬億韓元，高於分析師預期的84.2萬億韓元。同業公司SK海力士的股價一度下跌3.3%，之後跌幅收窄。
+
+---
+
+### 2026-07-07 07:26:54  #其他
+
+【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去1小時，光明區（光明、新湖、鳳凰街道）已出現強降雨，預計未來1-2小時還將出現30-40毫米降水，深圳市氣象臺2026年07月07日07時23分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域。
+
+---
+
+### 2026-07-07 07:26:41  #其他
+
+【今年1至5月我國機器人規上企業營業收入突破900億元】從7月6日舉行的2026世界機器人大會新聞釋出會上獲悉，今年1到5月，我國機器人規上企業營業收入突破900億元，同比增長26.9%。我國已經連續十三年成為全球最大工業機器人市場，自主品牌工業機器人在國內市場的佔有率突破50%。
+
+---
+
+### 2026-07-07 07:26:01  #國際
+
+當地時間6日，美國前鋒巴洛貢將在世界盃16強賽美國隊對陣比利時隊的比賽中首發，此前他的紅牌禁賽被國際足聯暫緩執行。（ CCTV國際時訊 ）
 
 ---
 
@@ -18922,155 +19036,5 @@ Ushakov said Putin and US President Trump spoke for 1 hour 25 minutes on Saturda
 ### 2026-07-05 05:29:49  #國際
 
 克里姆林宮助理烏沙科夫表示，普京與特朗普週六進行了時長1小時25分鐘的通話。
-
----
-
-### 2026-07-05 05:27:17  #焦點 #國際
-
-前美國眾議院議長南希・佩洛西的丈夫保羅・佩洛西在加利福尼亞州納帕縣撞上停放車輛，面臨肇事逃逸指控。
-
----
-
-### 2026-07-05 05:25:21  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-The Lebanese National News Agency reported Israeli strikes hit Mansouri and Talousa in southern Lebanon in the past few hours.
-
----
-
-### 2026-07-05 05:22:33  #MKT News
-
-Kremlin says Putin and Trump discussed Ukraine during their call.
-
----
-
-### 2026-07-05 05:22:18  #焦點 #國際
-
-黎巴嫩：以色列發動襲擊，打擊黎巴嫩南部的曼蘇里與塔盧薩兩地。
-
----
-
-### 2026-07-05 05:21:44  #國際
-
-克里姆林宮：普京與特朗普通話，雙方談及烏克蘭問題。
-
----
-
-### 2026-07-05 05:21:23  #MKT News
-
-Kremlin says Putin held a US-initiated phone call with President Trump lasting 1 hr 25 min; Putin congratulated Trump and the American people on the US Independence Day, marking the 250th anniversary.
-
----
-
-### 2026-07-05 05:19:48  #國際
-
-克里姆林宮：普京與特朗普通電話。
-
----
-
-### 2026-07-05 05:19:06  #MKT News
-
-【Iraq approves preliminary agreement to study strategic oil export pipeline project】Iraq's cabinet approved preliminary and confidentiality agreements for a feasibility study into a strategic oil export pipeline between Basra Oil Company and a consortium of US firm Capital TI, Chevron and Qatar's UCC Energy. The consortium will prepare technical and financial feasibility reports comparing proposed routes, including Basra–Haditha–Kirkuk–Ceyhan and Basra–Haditha–Baniyas. The cabinet said the agreements do not impose any final financial or contractual obligations on the Iraqi oil ministry and authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha pipeline.
-
----
-
-### 2026-07-05 05:18:43  #國際
-
-以色列國防部長以色列·卡茨週六在慶祝美國獨立日之際，強調了美國與以色列在中東的合作。卡茨表示，兩國正共同努力建設一個“更安全、更美好的中東”，同時捍衛自由並擊敗“恐怖勢力”，他將以色列與美國之間的聯盟描述為“牢不可破”且“比以往任何時候都更強大”。
-
----
-
-### 2026-07-05 05:18:11  #MKT News
-
-Russian Defence Ministry says about 13,000 aerial targets were shot down over Russian airspace in June.
-
----
-
-### 2026-07-05 05:15:07  #國際
-
-【澤連斯基與特朗普通話 商定在北約峰會期間會談】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文表示，他於美國獨立日當天同美國總統特朗普通話。澤連斯基表示，通話期間，兩國總統圍繞俄烏衝突前線最新局勢、外交推進動態以及停戰的現實前景深入交換意見。雙方商定，將在安卡拉北約峰會期間舉行面對面會晤，繼續圍繞相關議題開展深入磋商。（央視新聞）
-
----
-
-### 2026-07-05 05:15:01  #MKT News
-
-【Zelenskiy, Trump agree to meet at NATO summit in Ankara after July 4 call】On July 4 Ukrainian President Zelenskiy said he spoke by phone with US President Trump. They exchanged views on frontline developments in the Russia-Ukraine conflict, diplomatic progress and the realistic prospects for a ceasefire, and agreed to hold a face-to-face meeting during the NATO summit in Ankara to continue discussions.
-
----
-
-### 2026-07-05 05:12:52  #MKT News
-
-RIA reported Norway's Defence Ministry said it has not committed to supplying missiles to Kyiv.
-
----
-
-### 2026-07-05 05:09:46  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-Egyptian President Sisi called for immediate implementation of the Gaza ceasefire agreement and the US-Iran memorandum of understanding.
-
----
-
-### 2026-07-05 05:09:27  #國際
-
-埃及總統塞西呼籲立即落實加沙停火協議與美伊諒解備忘錄。
-
----
-
-### 2026-07-05 05:08:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An adviser to Ukraine's interior minister said Russia continued terrorist attacks on Zaporizhzhia, with the city struck at least five times.
-
----
-
-### 2026-07-05 05:06:13  #國際
-
-伊朗議會議長卡利巴夫：伊朗的抵抗力量在政治與軍事層面挫敗了美國和以色列。
-
----
-
-### 2026-07-05 04:51:48  #MKT News #Commodities #Energy
-
-Iraq's cabinet authorized Basra Oil Company to sign a consulting services contract with KBR for the Basra–Haditha oil pipeline project.
-
----
-
-### 2026-07-05 04:50:40  #公司
-
-伊拉克內閣授權巴士拉石油公司與KBR簽署巴士拉-哈迪塞石油管道專案諮詢服務合同。
-
----
-
-### 2026-07-05 04:47:28  #MKT News
-
-A senior White House official said Trump will deliver a historic speech tonight reviewing 250 years of United States history through the deeds of American heroes and said the address would be unique and unlike any of his previous speeches.
-
----
-
-### 2026-07-05 04:45:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #CVX.O #Impact bullish
-
-Iraq's cabinet approved Basra Oil Company to sign a preliminary agreement with a consortium made up of Chevron, Capital Energy TI and Qatar's UCC Energy for a strategic oil pipeline project.
-
----
-
-### 2026-07-05 04:44:46  #公司
-
-伊拉克內閣批准巴士拉石油公司與由雪佛龍、Capital Energy TI和卡達UCC能源組成的財團簽署戰略輸油管道專案初步協議。
-
----
-
-### 2026-07-05 04:44:14  #國際
-
-一名白宮高階官員透露：特朗普今晚將發表一篇具有歷史意義的演講，回顧美國建國二百五十年來的歷程，並透過美國英雄的事蹟娓娓道來。這篇演講風格獨特，和他以往所有講話都截然不同。
-
----
-
-### 2026-07-05 04:33:13  #MKT News
-
-The Jerusalem Post, citing Israeli sources, reports Israeli Prime Minister Netanyahu and U.S. President Trump have no meeting scheduled.
-
----
-
-### 2026-07-05 04:28:39  #國際
-
-以色列訊息人士：內塔尼亞胡與特朗普的會面尚未敲定相關安排。
 
 ---
