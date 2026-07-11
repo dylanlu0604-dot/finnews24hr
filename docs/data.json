@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-11 09:19:11",
-  "count": 16229,
+  "updated": "2026-07-11 09:23:06",
+  "count": 16230,
   "items": [
+    {
+      "id": "mkt:019f4ec2-8c26-7aab-8d3b-1094b8d40b2a",
+      "time": "2026-07-11 09:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting director of the Office of the Director of National Intelligence (ODNI) has launched a third round of reductions targeting redundant or non‑critical personnel."
+    },
+    {
+      "id": "4981991",
+      "time": "2026-07-11 09:19:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報局代理局長：啟動第三輪“減少冗餘或非關鍵人員”計劃。"
+    },
+    {
+      "id": "mkt:019f4ec1-fe10-7aab-8d3b-0c7028a22b5b",
+      "time": "2026-07-11 09:19:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a M4.2 earthquake in northern California, US, with a depth of 10.7 km."
+    },
     {
       "id": "4981990",
       "time": "2026-07-11 09:18:16",
@@ -148091,22 +148115,6 @@
         "MKT News"
       ],
       "text": "【CGN Taipingling Unit 2, Greater Bay Area's first Hualong One, achieves first grid synchronization】CGN's Guangdong Taipingling nuclear power Unit 2 — the Greater Bay Area's first Hualong One project — synchronized to the grid today and dispatched its first kWh, marking the unit's capability to supply power. The unit will undergo further performance verification and is scheduled for commercial operation in H2 2026."
-    },
-    {
-      "id": "4970204",
-      "time": "2026-07-04 09:22:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【每噸暴漲超450元！焦炭第十輪提漲來了 鋼廠牴觸情緒濃厚】記者獲悉，山東區域主流鋼廠上調焦炭採購價，溼熄焦上調50元/噸，幹熄焦上調55元/噸，本次調價省內外執行統一價格，調整後準一級溼熄冶金焦含稅採購價1845元/噸，準一級幹熄冶金焦含稅採購價2135元/噸。 同期，天津及河北邢臺、石家莊、唐山多地鋼廠落地同幅度漲價，溼熄、幹熄焦炭採購價分別上調50元/噸、55元/噸。 卓創資訊煤炭分析師劉璐璐告訴記者，3月下旬以來，焦炭價格進入連續提漲通道，截至目前累計提漲十輪，落地九輪，累計漲價450-515元/噸。她表示，焦炭價格第十輪提漲已經開啟，預計落地難度較大。（華夏時報）"
-    },
-    {
-      "id": "4970203",
-      "time": "2026-07-04 09:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵港澳大灣區首個“華龍一號”專案太平嶺核電2號機組首次併網發電】今天，粵港澳大灣區首個“華龍一號”核電專案——中廣核廣東太平嶺核電2號機組首次併網成功，發出第一度電。此次併網，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。後續，2號機組將按計劃進一步驗證機組效能，預計將在2026年下半年正式投產發電。（央視新聞）"
     }
   ]
 }

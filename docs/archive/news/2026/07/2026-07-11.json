@@ -1,7 +1,31 @@
 {
   "date": "2026-07-11",
-  "count": 440,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:019f4ec2-8c26-7aab-8d3b-1094b8d40b2a",
+      "time": "2026-07-11 09:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting director of the Office of the Director of National Intelligence (ODNI) has launched a third round of reductions targeting redundant or non‑critical personnel."
+    },
+    {
+      "id": "4981991",
+      "time": "2026-07-11 09:19:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報局代理局長：啟動第三輪“減少冗餘或非關鍵人員”計劃。"
+    },
+    {
+      "id": "mkt:019f4ec1-fe10-7aab-8d3b-0c7028a22b5b",
+      "time": "2026-07-11 09:19:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a M4.2 earthquake in northern California, US, with a depth of 10.7 km."
+    },
     {
       "id": "4981990",
       "time": "2026-07-11 09:18:16",
