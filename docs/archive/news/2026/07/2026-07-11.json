@@ -1,7 +1,24 @@
 {
   "date": "2026-07-11",
-  "count": 409,
+  "count": 411,
   "items": [
+    {
+      "id": "mkt:019f4e8b-6bf8-7aab-8d3a-bf9c086c30d3",
+      "time": "2026-07-11 08:19:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: live-fire exercises in parts of southern Yellow Sea; entry banned】Yancheng Maritime Safety Administration on the China Maritime Safety Administration website issued a navigation warning banning entry to parts of the southern Yellow Sea for live-fire exercises July 16–17, daily 09:00–12:00 and 15:00–18:00 CST."
+    },
+    {
+      "id": "4981968",
+      "time": "2026-07-11 08:19:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普宣佈美光將在美投資2500億美元製造儲存晶片】美國總統特朗普在社交平臺表示，美光正在加速在美支出，計劃投資2500億美元在美國本土製造儲存晶片。我們正將製造業帶回美國，並保障我們的供應鏈安全。這意味著全美各地勤勞的愛國者們將迎來成千上萬個優質就業崗位。此外他還轉發美光科技執行長桑賈伊·梅赫羅特拉的話：“上週，我向特朗普總統表示，得益於他的領導和政策，美光科技將於今天宣佈——我們不僅進度超前，還將把在美國的製造和研發投資從2000億美元增加到2500億美元，從而創造10萬個美國就業崗位。這是‘特朗普效應’推動歷史性私營部門投資、美國製造業和就業創造的又一例證。”"
+    },
     {
       "id": "mkt:019f4e88-e113-7aab-8d3a-b18dbd585373",
       "time": "2026-07-11 08:17:01",
