@@ -1,7 +1,37 @@
 {
   "date": "2026-07-12",
-  "count": 47,
+  "count": 50,
   "items": [
+    {
+      "id": "4982335",
+      "time": "2026-07-12 02:13:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國駐以色列大使：各方均不接受敘利亞介入黎巴嫩事務的設想，以色列同樣持反對態度。"
+    },
+    {
+      "id": "mkt:019f5262-7ada-7aab-8d3f-5d6e465e5b57",
+      "time": "2026-07-12 02:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. ambassador to Israel said HEZBOLLAH is a common enemy of Lebanon and Israel."
+    },
+    {
+      "id": "mkt:019f5262-67c7-7aab-8d3f-50d39e9447d9",
+      "time": "2026-07-12 02:13:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The U.S. ambassador to Israel said Israel has notified Washington of an Iranian plot to assassinate the U.S. president. He said Iran's threats are not new, its behavior has not changed, and there is no evidence of a genuine moderate faction in Iran."
+    },
     {
       "id": "mkt:019f5260-aeb4-7aab-8d3f-4d37607f98e7",
       "time": "2026-07-12 02:11:35",
