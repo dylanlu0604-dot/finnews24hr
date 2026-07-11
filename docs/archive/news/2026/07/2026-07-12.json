@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 94,
+  "count": 95,
   "items": [
+    {
+      "id": "mkt:019f5320-e8f6-7aab-8d3f-c10299c14d06",
+      "time": "2026-07-12 05:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Cuban leaders must implement broad reforms while there is still time."
+    },
     {
       "id": "4982368",
       "time": "2026-07-12 05:39:40",
