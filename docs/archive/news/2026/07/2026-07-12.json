@@ -1,7 +1,35 @@
 {
   "date": "2026-07-12",
-  "count": 85,
+  "count": 88,
   "items": [
+    {
+      "id": "mkt:019f530d-5698-7aab-8d3f-b39356ba6055",
+      "time": "2026-07-12 05:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-3.8 earthquake at 05:09 on July 12 in Arong Banner, Hulunbuir, Inner Mongolia; hypocenter depth 10 km."
+    },
+    {
+      "id": "mkt:019f530d-12e8-7aab-8d3f-abf1680052e3",
+      "time": "2026-07-12 05:19:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "An Elabe poll for BFM shows that if the first-round vote were held this Sunday, France's far-right National Rally candidate Le Pen would receive 34.0–35.5% of the vote."
+    },
+    {
+      "id": "mkt:019f530c-2547-7aab-8d3f-a1cc8b052f25",
+      "time": "2026-07-12 05:18:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After an appeals judge shortened a previous ban on Marine Le Pen's candidacy, clearing her to run for a fourth time, Le Pen has widened her lead in voter polls ahead of next April's French presidential election."
+    },
     {
       "id": "4982363",
       "time": "2026-07-12 05:13:23",
