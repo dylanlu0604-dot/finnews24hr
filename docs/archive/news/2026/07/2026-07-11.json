@@ -1,7 +1,35 @@
 {
   "date": "2026-07-11",
-  "count": 847,
+  "count": 850,
   "items": [
+    {
+      "id": "mkt:019f51a4-ca81-7aab-8d3e-d3c560304c25",
+      "time": "2026-07-11 22:46:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it will cease to abide by memorandum with US if Washington keeps breaching obligations】Iran's permanent UN envoy Iravani warned on the 11th that if the United States continues to violate its obligations, Iran will no longer abide by the memorandum of understanding with the United States."
+    },
+    {
+      "id": "4982284",
+      "time": "2026-07-11 22:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【票房突破26億，超百部影片激戰暑期檔】貓眼專業版顯示，截至7月11日21點，2026年度電影總票房（含預售）已突破183億元，其中暑期檔（6月1日至8月31日）總票房（含預售）已突破26億元。超過100部中外影片鎖定今年暑期檔，涵蓋歷史、科幻、動畫、喜劇等十餘種型別。檔期市場呈現“頭部穩盤、腰部承壓”的冷熱分化格局，伴隨《功夫女足》等熱門影片陸續上映，暑期檔看點十足。"
+    },
+    {
+      "id": "mkt:019f51a2-3fcb-7aab-8d3e-cfeb856d76c5",
+      "time": "2026-07-11 22:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian officials said they plan to launch a commercial logistics hub at a Syrian port in mid-July."
+    },
     {
       "id": "4982283",
       "time": "2026-07-11 22:43:16",

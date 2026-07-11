@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-11 22:43:58",
-  "count": 16331,
+  "updated": "2026-07-11 22:48:08",
+  "count": 16332,
   "items": [
+    {
+      "id": "mkt:019f51a4-ca81-7aab-8d3e-d3c560304c25",
+      "time": "2026-07-11 22:46:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it will cease to abide by memorandum with US if Washington keeps breaching obligations】Iran's permanent UN envoy Iravani warned on the 11th that if the United States continues to violate its obligations, Iran will no longer abide by the memorandum of understanding with the United States."
+    },
+    {
+      "id": "4982284",
+      "time": "2026-07-11 22:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【票房突破26億，超百部影片激戰暑期檔】貓眼專業版顯示，截至7月11日21點，2026年度電影總票房（含預售）已突破183億元，其中暑期檔（6月1日至8月31日）總票房（含預售）已突破26億元。超過100部中外影片鎖定今年暑期檔，涵蓋歷史、科幻、動畫、喜劇等十餘種型別。檔期市場呈現“頭部穩盤、腰部承壓”的冷熱分化格局，伴隨《功夫女足》等熱門影片陸續上映，暑期檔看點十足。"
+    },
+    {
+      "id": "mkt:019f51a2-3fcb-7aab-8d3e-cfeb856d76c5",
+      "time": "2026-07-11 22:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian officials said they plan to launch a commercial logistics hub at a Syrian port in mid-July."
+    },
     {
       "id": "4982283",
       "time": "2026-07-11 22:43:16",
@@ -148952,23 +148980,6 @@
         "Impact bullish"
       ],
       "text": "【He Xiaopeng: China leads in intelligent driving; UN approval of L2 rules to speed overseas deployment】Xpeng chairman and CEO He Xiaopeng said China leads globally in both ADAS technology and related regulation, and the United Nations has approved intelligent-driving rules that fully clear L2-level functions. He said the approval means that from December this year L2 features such as NGP and NOA can be used and deployed worldwide, marking an important implementation milestone. He added only China and the U.S. have achieved large-scale L2 rollout to date, most regions including the EU have not, and Xpeng—now a member of the UN traffic-regulations drafting group—is actively aligning products to the new requirements."
-    },
-    {
-      "id": "4970503",
-      "time": "2026-07-04 22:45:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及法老圖坦卡蒙展在巴黎舉行】近日，沉浸式展覽“圖坦卡蒙——陵墓與寶藏”在法國巴黎舉行。展覽用科學復原的複製品，再現1922年發現埃及法老圖坦卡蒙陵墓時的場景。（新華社）"
-    },
-    {
-      "id": "4970502",
-      "time": "2026-07-04 22:45:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【第二十三屆臺胞青年千人夏令營在武漢開營】營旗飄揚，歡歌笑語。4日晚，由中華全國臺灣同胞聯誼會主辦的第二十三屆臺胞青年千人夏令營在湖北武漢舉行開營儀式。300餘名臺灣大學生參與活動，與武漢大學、華中科技大學等大陸高校學子攜手開啟青春交流之旅。（新華社）"
     }
   ]
 }
