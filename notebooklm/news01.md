@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-12 03:26:02_
-_本檔包含 2921 則快訊，約 617846 字_
+_更新時間：2026-07-12 04:26:28_
+_本檔包含 2925 則快訊，約 618225 字_
+
+---
+
+### 2026-07-12 04:25:03  #公司
+
+OpenAI CEO奧特曼：至少到目前為止，我十分確定人工智慧整體上創造了更多就業崗位。這和我當初預想的不一樣——雖說我原本就比其他人樂觀不少，但我本以為當AI發展到如今這種能力水平時，就業市場已經能顯現出明顯衝擊。這種向好趨勢或許還會持續下去。
+
+---
+
+### 2026-07-12 04:23:04  #國際
+
+俄羅斯監測渠道稱，烏克蘭無人機再度在亞速海上空活動，疑似搜尋油輪及其他船隻。
+
+---
+
+### 2026-07-12 04:19:53  #國際
+
+【美官員稱美國團隊未前往阿曼參加與伊朗的談判】一名美國官員表示，美國談判人員並未前往阿曼參加與伊朗的談判。該官員稱，美國技術團隊不會在阿曼現場出席，但將隨著事態發展，與阿曼和卡達方面保持聯絡。據美方訊息，一名美國高階官員曾於7月10日表示，談判將在阿曼恢復，但未說明美方團隊是否會親自到場。另一名美國官員稱，美方原本預計伊朗會在會談後公開表示將停止襲擊霍爾木茲海峽船隻，但根據伊朗方面訊息，伊朗並未作出此類承諾。伊朗方面訊息表示，阿曼和伊朗官員討論了“船隻安全通行機制”，並強調阿曼主張“透過外交防止地區緊張局勢升級”。（央視新聞）
+
+---
+
+### 2026-07-12 04:15:58  #MKT News #WTI #XAUUSD #DXY
+
+【US official says US team did not travel to Oman for talks with Iran】A US official said US negotiators did not travel to Oman for talks with Iran and that a US technical team will not be present on-site; Washington will remain in contact with Oman and Qatar as events evolve. A US official said Washington had expected Iran to publicly commit to stop attacks on vessels in the Strait of Hormuz after the talks, but Iranian sources reported no such commitment. Iranian sources said Oman and Iran discussed a "mechanism for safe passage of vessels" and that Oman urged preventing regional escalation through diplomacy.
+
+---
+
+### 2026-07-12 04:13:45  #央行 #國際
+
+凱文·沃什即將以美聯儲主席身份首次出席國會聽證會，在為期兩天的質詢中，他將與眾議員探討最新的美國通脹資料。
+
+---
+
+### 2026-07-12 04:06:20  #國際
+
+波蘭國防部長表示，若基輔方面或盟國承擔相關費用，波蘭願意為烏克蘭升級米格-29戰鬥機。他還稱，烏克蘭可向支援其防務的合作伙伴分享該國無人機技術。
+
+---
+
+### 2026-07-12 04:02:23  #MKT News
+
+The U.S. National Press Club urged the Department of Justice to immediately withdraw its subpoena for a New York Times reporter.
+
+---
+
+### 2026-07-12 03:56:18  #國際
+
+【訊息人士：阿曼提議“雙航道”管理霍爾木茲海峽船隻通行】據阿曼外交部訊息，阿曼、伊朗雙方已同意繼續在技術和政治層面開展磋商。此外，據一名瞭解談判情況的訊息人士透露，阿曼已起草一項方案，擬透過兩條分別管理的航道，對霍爾木茲海峽的船舶通行進行管理。據透露，根據這項尚未最終敲定的協議，兩條航道都將保持開放。其中，穿越阿曼領海的南部航道將按照戰前條件實行自由通航。而經由伊朗領海的北部航道通行的船隻，則需要事先獲得伊朗批准，但根據該協議不會被收取通行費。另據一名知情外交人士表示，卡達官員也參與了當天在馬斯喀特舉行的相關磋商。同時，還有地區訊息人士透露，與會各方正在討論發表一份宣告，內容可能涉及全面開放霍爾木茲海峽位於國際水域的“中央航道”，保障船舶全面、自由通行。上述人士披露訊息尚未獲得阿曼、伊朗和卡達官方層面的證實。（央視新聞）
+
+---
+
+### 2026-07-12 03:48:03  #MKT News #Nasdaq100 #Impact bearish
+
+【US equity rally shows cracks as market breadth narrows】Independent researcher The Kobeissi Letter reports 48% of Nasdaq-100 constituents are at least 20% below their all-time highs, the highest since February–March’s selloff this year. That is below the roughly 60% level seen before the March 30 trough, roughly double the share from 12 months ago and well under the 80% peak in the 2022 bear market. Meanwhile 64% of Nasdaq-100 names trade above their 200-day moving average—near this year’s high versus 38% at the March 30 trough. The readings indicate the recent US rally is increasingly concentrated in a small number of large-cap tech stocks and market breadth is narrowing.
+
+---
+
+### 2026-07-12 03:33:58  #國際
+
+美國全國記者俱樂部：呼籲美國司法部立即撤回針對《紐約時報》記者的傳票。
 
 ---
 
@@ -17687,41 +17747,5 @@ Indonesia Stocks Edge Higher, Set for Modest Weekly Rise — Indonesia’s IDX C
 ### 2026-07-10 10:32:38  #Trading Economics #Markets #United States #Currency #Importance 2
 
 Dollar Falls for Third Straight Session — The dollar index fell toward 100.5 on Friday, extending losses for a third straight session as reports that the US and Iran will continue peace negotiations despite a recent escalation in hostilities dampened safe-haven demand for the currency. Lower oil prices also helped ease inflation concerns and reduce expectations of aggressive policy tightening, although markets still largely anticipate at least one Federal Reserve interest rate hike this year. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence. Separately, Fed Chair Kevin Warsh unveiled the leadership of five task forces to review the US central bank’s approach to key areas of policymaking, signaling the potential for changes in how the Fed conducts monetary policy. The dollar weakened broadly on Friday, posting its largest declines against the Japanese yen and the New Zealand dollar.
-
----
-
-### 2026-07-10 10:32:33  #其他
-
-【騰訊地圖上線“蛇傷救治地圖”】7月10日訊息，針對廣西洪水沖垮養蛇場導致險情加劇情況，騰訊地圖推出“蛇傷救治地圖”，可供使用者檢索附近的蛇傷救治點。使用者開啟騰訊地圖搜尋“蛇傷救治”，可檢視周邊具備蛇傷救治能力和儲備抗蛇毒血清的醫療機構分佈，為被毒蛇咬傷後的緊急救治爭取關鍵時間。據悉，目前該功能已覆蓋廣西省100家醫院，並將持續更新。
-
----
-
-### 2026-07-10 10:32:17  #其他
-
-【中科曙光宣佈國內首個全國產十萬卡AI超叢集曙光8000（登峰）落成投用】中科曙光在光合組織2026智慧計算應用大會上，正式宣佈我國首個全國產十萬卡AI超叢集——曙光8000（登峰）落成投用，並啟動第二套全國產十萬卡超智融合算力系統研製與建設。據介紹，曙光8000針對大模型、科學智慧對全精度、大規模算力需求，採用“超智融合”技術路線，支援FP64到INT8全精度覆蓋，打造覆蓋科學計算、大模型訓練、AI推理、工業模擬等多類科研和產業場景的算力叢集樣本。目前，曙光8000已依託國家超算網際網路接入全國一體化算網，在十萬卡核心節點上已完成300餘項超智融合應用最佳化，涵蓋大模型、機器人、量子計算、新材料等二十餘項前沿領域，超過70個應用實現萬卡規模擴充套件，驗證了核心節點在大規模、高負荷科研任務中的穩定性與可靠性。
-
----
-
-### 2026-07-10 10:32:07  #其他
-
-【海河防總、海委分別啟動防汛Ⅳ級應急響應和洪水防禦Ⅳ級應急響應】據預報，7月10日至14日，海河流域有中到大雨，區域性暴雨到大暴雨。受降雨影響，灤河及北三河等河系有明顯漲水過程。根據《海河防汛抗旱總指揮部防汛應急響應預案》和《水利部海河水利委員會水旱災害防禦應急響應工作規程》有關規定，經研究，自7月10日8時起，海河防總啟動防汛Ⅳ級應急響應，海委啟動洪水防禦Ⅳ級應急響應，請各有關部門、單位進一步壓實責任，加強值班值守和資訊報送，切實做好水旱災害防禦各項工作，確保人民群眾生命財產安全。
-
----
-
-### 2026-07-10 10:31:49  #市場
-
-日經225指數早盤收盤上漲1.8%，至68943.76點。東證指數早盤收盤上漲0.7%，至4048.57點。
-
----
-
-### 2026-07-10 10:31:21  #MKT News
-
-【SAMR holds seminar on AI-enabled credit supervision】July 3 — The State Administration for Market Regulation (SAMR) held a seminar on AI-enabled credit supervision focused on the 'build, aggregate, apply' links to deepen credit-regulation reform and support higher-quality market supervision. Vice administrator Bai Qingyuan attended and commented. iFlytek presented AI development trends, domestically controllable large-model technology, mature AI applications in government and market supervision, and proposed paths and scenarios for AI-enabled credit oversight. SAMR said new business models, enterprise digitalization and cross‑regional, multi‑entity operations have outpaced current supervisory tools; staff were urged to adopt AI concepts and technologies to improve regulatory effectiveness and accelerate construction of a unified national market.
-
----
-
-### 2026-07-10 10:31:18  #宏觀 #公司
-
-【市場監管總局舉辦AI賦能信用監管專題講座】7月3日，市場監管總局舉辦AI賦能信用監管專題講座，圍繞“建、歸、用”關鍵環節，持續深化信用監管改革，引智賦能市場監管業務高質量發展。市場監管總局副局長白清元出席講座並作點評。科大訊飛公司有關負責人重點介紹人工智慧發展態勢、國產自主可控大模型技術、AI在政務及市場監管領域的成熟應用案例，以及AI賦能信用監管的具體路徑與場景設想等情況。白清元指出，當前新業態不斷湧現，企業數字化、跨區域、多主體經營成為常態，現有監管手段明顯滯後。市場監管系統幹部要切實加強學習，主動將人工智慧的理念、技術運用到市場監管各領域，持續提升監管效能，更好履行職責使命，加快推進全國統一大市場建設。（市說新語）
 
 ---
