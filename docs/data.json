@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11 12:49:11",
-  "count": 16237,
+  "updated": "2026-07-11 12:53:08",
+  "count": 16235,
   "items": [
     {
       "id": "4982077",
@@ -148144,25 +148144,6 @@
         "國際"
       ],
       "text": "【特朗普在拉什莫爾山發表講話，熱浪擾亂美國獨立日活動】當地時間7月3日晚，美國總統特朗普在拉什莫爾山發表演講，拉開了美國建國250週年紀念週末的序幕。然而一系列慶祝活動正值熱浪席捲美國中部和東部的大片地區，迫使華盛頓及其他地區取消或推遲了數十場遊行、音樂會和煙花表演。據美媒報道，3日晚，特朗普在拉什莫爾山發表講話，開場便聲稱美國是“地球上最強大的國家”，隨後著重強調美國“文化”和國家的身份認同。在演講即將結束時，他還簡短地提到了與伊朗的戰爭，他聲稱：“他們渴望和解”，“我們給了他們一週假期去參加葬禮”。（澎湃新聞）"
-    },
-    {
-      "id": "4970283",
-      "time": "2026-07-04 12:51:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為何庭波釋出 V2 版“韜定律”論文 補充工程細節和實測資料】根據中國科學院科技論文預釋出平臺ChinaXiv最新公示論文，華為半導體負責人何庭波於7月3日釋出《面向多層級電子系統的時間縮微理論》（業內也稱“韜定律”）V2版本。相比較5月25日釋出的V1版本，新版論文在原有理論框架基礎上，補充了大量工程落地細節、實測量化資料與產品演進路線，進一步完善了以時間常數τ為核心的後摩爾時代縮放理論體系。"
-    },
-    {
-      "id": "mkt:019f2b77-7d27-7aab-8c9b-ccf4b5e23cc1",
-      "time": "2026-07-04 12:51:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Chip Wars"
-      ],
-      "text": "【Huawei semiconductor head He Tingbo publishes V2 of 'Time Miniaturization Theory' (industry 'Tao's Law') with engineering details and empirical data】The Chinese Academy of Sciences' preprint platform ChinaXiv shows Huawei semiconductor head He Tingbo released version 2 of \"Time Miniaturization Theory\" on July 3. Compared with the May 25 V1, the V2 paper adds extensive engineering implementation details, measured quantitative data and a product-evolution roadmap, further developing a post‑Moore-era scaling framework centered on the time constant τ."
     }
   ]
 }
