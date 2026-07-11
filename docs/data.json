@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-11 21:19:25",
-  "count": 16320,
+  "updated": "2026-07-11 21:23:37",
+  "count": 16321,
   "items": [
+    {
+      "id": "mkt:019f5155-505e-7aab-8d3e-42177442d8fa",
+      "time": "2026-07-11 21:19:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CVB: China satellite-channel TV dramas averaged 79 minutes per household daily in 1H 2026】China Audiovisual Big Data (CVB) said in 1H 2026 the average household daily viewing time for TV dramas on nationwide satellite channels was 79 minutes, with total audience scale of 112.3 bln person-views. Broadcasters aired 753 dramas totaling 121,000 episodes and 79,000 hours, up YoY 0.4%, 0.9% and 1.3% respectively, indicating continued strengthening of big‑screen content supply."
+    },
+    {
+      "id": "4982258",
+      "time": "2026-07-11 21:18:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CVB：上半年全國上星頻道電視劇每日戶均觀看時長79分鐘】據中國視聽大資料（CVB）統計，2026年上半年，全國上星頻道電視劇每日戶均觀看時長79分鐘，總收視規模1123億人次。上半年全國上星頻道共播出電視劇753部、12.1萬集、7.9萬小時，三項指標同比分別上漲0.4%、0.9%、1.3%，大屏端的內容供給正在持續夯實。"
+    },
     {
       "id": "4982257",
       "time": "2026-07-11 21:13:53",
@@ -148877,15 +148893,6 @@
         "Brent"
       ],
       "text": "【Saudi media: US-Iran talks in Pakistan on July 11 to discuss frozen funds, nuclear issue】Saudi outlets Hadath and Al Arabiya report US and Iran will hold talks in Pakistan on July 11 to discuss sanctions, frozen Iranian funds and nuclear issues. Iran’s delegation composition will be decided after Khamenei’s funeral."
-    },
-    {
-      "id": "mkt:019f2d4b-165f-7aab-8c9d-1b537127b9a1",
-      "time": "2026-07-04 21:22:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US and Iran will hold talks in Pakistan on July 11, Saudi outlets Hadas and Al Arabiya report."
     }
   ]
 }
