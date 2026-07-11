@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 22:07:55_
-_本檔包含 3176 則快訊，約 618511 字_
+_更新時間：2026-07-11 23:12:10_
+_本檔包含 3181 則快訊，約 618673 字_
+
+---
+
+### 2026-07-07 04:47:22  #MKT News
+
+【South32 $2bn Arizona zinc-manganese project set for U.S. approval】The Trump administration will approve South32’s $2 billion zinc‑manganese mine in Arizona, the U.S. Forest Service said, planning to issue a decision on Tuesday. The project, near the U.S.–Mexico border in the Patagonia Mountains about 80 km southeast of Tucson, was designated for expedited review by the Federal Permitting Improvement Steering Council and is the first mining project under USDA to receive accelerated treatment. South32, headquartered in Australia, says the site contains one of the world’s largest undeveloped zinc deposits and other minerals critical to steel production and large-format batteries; full production is targeted for 2029. The company plans to prioritise supplying mined copper to U.S. domestic smelters.
+
+---
+
+### 2026-07-07 04:47:21  #其他
+
+加拿大總理卡尼： 在採購潛艇的數量上，我們或許希望保留一定靈活調整空間。
+
+---
+
+### 2026-07-07 04:46:51  #MKT News #Market Themes #The Trump Trade #WMT.O
+
+Trump says Walmart will lower prices.
+
+---
+
+### 2026-07-07 04:46:50  #國際
+
+特朗普：沃爾瑪將把一磅碎牛肉的價格下調近 15%，多款其他商品也同步降價。
+
+---
+
+### 2026-07-07 04:46:31  #國際
+
+美國總統特朗普：沃爾瑪將按我的要求（對商品）降價。
+
+---
+
+### 2026-07-07 04:46:28  #國際
+
+加拿大總理卡尼： 加拿大與韓國目前已在諸多領域開展合作，雙方還有更多領域可進一步深化合作。
+
+---
+
+### 2026-07-07 04:46:06  #國際
+
+加拿大總理卡尼： 上週末與韓國總統進行了長時間友好會談。
+
+---
+
+### 2026-07-07 04:40:00  #MKT News
+
+Syrian President Shala said the government has signed energy-sector contracts to add about 5,000 MW of generation capacity and rebuild power plants, and is drafting plans to rebuild and modernize state institutions.
+
+---
+
+### 2026-07-07 04:39:04  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazil Stocks Slide Ahead of US Trade Hearing — The Ibovespa fell 0.9% to close at 172,447 on Monday as investors awaited a public hearing in Washington on the US trade investigation into Brazil, which could lead to additional tariffs on Brazilian exports. The hearing will consider a proposed 25% tariff after the USTR identified what it described as "unreasonable" trade practices. Exporters led the declines, with Vale down 1.3%, Petrobras losing 1.3%, and Minerva slipping 0.8%. Petrobras was also pressured by lower oil prices after OPEC+ agreed to raise output targets from August and shipping through the Strait of Hormuz continued to normalize. Elsewhere, Ambev dropped 2.5% on concerns that third-quarter sales in Latin America could miss expectations after Brazil and Mexico were eliminated from the FIFA World Cup.
+
+---
+
+### 2026-07-07 04:38:26  #公司
+
+明晟公司（MSCI）將於7月17日前確認提醒板（Alert Board）的處理方式。
+
+---
+
+### 2026-07-07 04:35:39  #MKT News
+
+MSCI said it will adjust how it treats stocks on warning/alert boards at Mumbai, the National Stock Exchange of India (NSE), and exchanges in Korea and Taiwan.
+
+---
+
+### 2026-07-07 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index went up by 156 points or 0.29 percent on Monday to close at 53056 points. The rise was led by Boeing (3.55%), IBM (3.43%) and Goldman Sachs (3.28%). On the downside, the weakerst performers were Amgen (-2.32%), Walt Disney (-2.13%) and Merck (-2.13%).
+
+---
+
+### 2026-07-07 04:34:28  #MKT News
+
+MSCI will shorten the monitoring period for watchlist companies in its global indices that no longer meet eligibility criteria.
+
+---
+
+### 2026-07-07 04:33:07  #市場 #國際
+
+美國芝加哥期貨交易所（CBOE）6月期貨日均成交量增長30.5%。指數期權日均成交量增長36.8%。跨交易所期權日均成交量增長40.5%。
+
+---
+
+### 2026-07-07 04:32:52  #公司
+
+明晟針對土耳其市場宣告：或將複核單隻證券自由流通股，並把部分股東（含特定基金持倉）從自由流通股份重新劃歸為非自由流通股份。
+
+---
+
+### 2026-07-07 04:32:32  #MKT News #Market Regions #Emerging Markets
+
+MSCI will suspend planned increases to the foreign inclusion factor (FIF) and share-count adjustments for Indonesian securities, and will stop adding Indonesian constituents to the MSCI Investable Market Index (IMI).
+
+---
+
+### 2026-07-07 04:31:50  #公司
+
+豐田北美汽車公司：擴建工廠將新增 2000 個就業崗位，2030 年前聖安東尼奧工廠規模擴大一倍。將在美國德克薩斯州建設價值36億美元的新工廠，並將部分卡車生產從墨西哥轉移至美國。
+
+---
+
+### 2026-07-07 04:31:02  #其他
+
+加拿大最遲將於 2027 年底完成潛艇專案合同簽訂工作。
+
+---
+
+### 2026-07-07 04:30:57  #MKT News
+
+Toyota announced it will build a US$3.6 billion plant in Texas and shift some truck production from Mexico to the United States.
+
+---
+
+### 2026-07-07 04:30:05  #國際
+
+明晟關於印尼市場宣告： 將繼續剔除印尼監管機構認定的、符合高股權集中度監管框架的相關證券。 將在適宜情況下，持續採用 1% 股東披露資料調整自由流通股估值。
+
+---
+
+### 2026-07-07 04:29:59  #MKT News
+
+MSCI said it will assess Turkish securities individually against its investability criteria.
+
+---
+
+### 2026-07-07 04:29:41  #MKT News
+
+XAI will rename its X account to SpaceXAI.
+
+---
+
+### 2026-07-07 04:28:45  #公司 #國際
+
+明晟印尼市場公告：MSCI 全球可投資市場指數中印尼與土耳其證券處理規則更新， 明晟將維持當前針對印尼證券實施的各項現行措施。
+
+---
+
+### 2026-07-07 04:27:57  #公司 #國際
+
+明晟公司（MSCI）關於印尼市場公告：MSCI 將暫停上調外資納入係數（FIF）及可納入股份數量（NOS)。
+
+---
+
+### 2026-07-07 04:26:36  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls as Miners and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.2% to close at 35,212 on Monday, pressured by declines in mining and energy stocks. Gold miners led losses as a stronger dollar weighed on bullion prices. Agnico Eagle fell 1.6%, Barrick lost 2.4%, WPM retreated 2.6%, and Franco-Nevada dropped 3.4%. Energy shares also traded lower after oil prices fell further below pre-conflict levels as OPEC+ agreed to raise output targets again from August, while exports through the Strait of Hormuz continued to recover, improving the global supply outlook. Canadian Natural fell 1.3%, Imperial Oil lost 1.6%, and Cenovus shed 1.9%. In contrast, financials outperformed as lower oil prices pushed bond yields lower and reinforced expectations that the BoC will keep interest rates on hold. RBC gained 1.7%, TD Bank rose 0.8%, BMO added 1.2%, and Brookfield advanced 1.4%.
+
+---
+
+### 2026-07-07 04:25:17  #其他
+
+xAI 將旗下 X 賬號更名為 SpaceXAI，並更換標識。
+
+---
+
+### 2026-07-07 04:24:37  #其他
+
+加拿大總理卡尼： TKMS將向加拿大投入數百億加元投資。
+
+---
+
+### 2026-07-07 04:24:14  #公司
+
+加拿大總理卡尼： 蒂森克虜伯海事系統公司（TKMS）提議調配德國與挪威訂單中的潛艇產能，從而實現首批 4 艘潛艇於 2034 年前提前交付。
+
+---
+
+### 2026-07-07 04:22:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+【Traders' dollar positioning most bullish since 2015】CFTC data show net bullish bets on the dollar rose to nearly $40bn as of June 30, the highest since 2015, extending a monthly rally led by interest-rate expectations. Markets are pricing a higher-for-longer Fed and a risk of further hikes, which helped the dollar gain about 2% in June. Analysts say Fed tightening expectations and US economic resilience support the move, but some institutions warn weaker recent employment data could cap further upside.
+
+---
+
+### 2026-07-07 04:19:16  #公司 #國際
+
+【加密貨幣暴跌之際 困境資產投資基金探討置換Strategy優先股持倉】逢低買入Strategy Inc.優先股的困境資產投資基金正與該公司一家投行顧問洽談，擬將所持優先股換成其他證券。隨著加密貨幣持續暴跌令這家大量囤積比特幣的公司處境日益艱難，這些基金將該方案稱作雙贏安排。知情人士稱，這些投資者已與Moelis & Co.商討將其持倉折價換成其他優先股，或者可能換成普通股。Strategy普通股過去一年已暴跌約75%。知情人士稱，任何潛在交易都可能透過所謂的3(a)(9)條款完成。該條款允許企業不經美國證券交易委員會（SEC）正式註冊，即可置換證券。
+
+---
+
+### 2026-07-07 04:14:33  #MKT News
+
+Prime Minister Carney said if talks with Germany's TKMS fail, Canada will reserve the right to open submarine cooperation negotiations with South Korea's Hanwha Group.
+
+---
+
+### 2026-07-07 04:13:54  #公司 #國際
+
+加拿大總理卡尼： 若與蒂森克虜伯海事系統公司（TKMS）談判失敗，加拿大保留與韓國韓華集團重啟洽談的權利。
+
+---
+
+### 2026-07-07 04:13:11  #MKT News #TKA.DE #Impact bullish
+
+Prime Minister Carney said German firm TKMS has been selected as the preferred supplier for Canada’s 12-submarine procurement program.
+
+---
+
+### 2026-07-07 04:12:49  #公司
+
+加拿大總理卡尼宣佈，德國蒂森克虜伯海事系統公司（TKMS）成為加拿大 12 艘潛艇建造專案的優先供應商。
+
+---
+
+### 2026-07-07 04:11:43  #其他
+
+市場訊息：Thrive Holdings融資大約20億美元。
+
+---
+
+### 2026-07-07 04:11:35  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise as Chipmakers Rally — US stock indices closed higher on Monday on strong gains in semiconductor stocks. The S&P 500 added 0.7%, the Nasdaq 100 rose 1.3%, and the Dow closed at a record high of 53,056. Chipmakers rallied ahead of Samsung's sales update and SK Hynix's ADR issuance on Friday. Broadcom rose 3.7% after extending its partnership with Apple (+1.3%). Nvidia gained 0.4% after its assembly partner Hon Hai Precision Industry signaled that AI demand continues to strengthen. Micron rose 0.9%, AMD surged 6.6%, and Intel added 1.5%. The gains extended a volatile period for chip stocks, as investors continue to weigh rising competition, potential overcapacity, and the returns on AI-related investments. On the data front, the US services sector expanded at a slightly slower pace in June, while firms increased hiring as cost pressures eased. Investors await minutes from the Fed's latest policy meeting on Wednesday for clues on how policymakers are balancing inflation and labor market risks.
+
+---
+
+### 2026-07-07 04:11:29  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【CFTC: Hedge funds' yen net shorts highest since 2007】CFTC data show hedge funds increased net short positions in yen futures and options to about 138,000 contracts in the week to June 30, the most bearish positioning since 2007. The yen fell to its weakest since 1986, slipping below 162 per dollar, fueling renewed expectations of Japanese FX intervention; Japan's finance minister reiterated authorities can intervene at any time and Tokyo deployed record-sized support in late April–May. Markets view a widening US–Japan rate gap as the main driver of yen pressure, and say recent BOJ rate hikes have not reversed the weakness.
 
 ---
 
@@ -18985,197 +19207,5 @@ Russian Defence Ministry says Ukrainian forces lost as many as 1,350 personnel i
 ### 2026-07-04 23:30:41  #其他
 
 巴基斯坦總理謝里夫於伊斯坦布林會見土耳其總統埃爾多安，洽談多領域合作，商定發力實現50億美元雙邊貿易目標，認為外交對話是化解爭端的唯一出路。
-
----
-
-### 2026-07-04 23:10:30  #市場 #焦點
-
-比特幣升破63000美元，日內漲0.68%。
-
----
-
-### 2026-07-04 23:08:26  #國際
-
-特朗普：你們誰見過快樂的民主黨人？
-
----
-
-### 2026-07-04 23:07:53  #國際
-
-黎巴嫩衛生部：自去年3月2日以來，以色列對黎巴嫩發動襲擊已造成4303人遇難、12202人受傷。
-
----
-
-### 2026-07-04 23:07:32  #國際
-
-【土耳其總統：以色列不得阻撓美伊協議】土耳其總統埃爾多安週六表示，缺少地區國家支援，中東和平程序便無法取得成效，絕不能任由以色列“摧毀”美伊和平協議。埃爾多安在伊斯坦布林與巴基斯坦總理夏巴茲·謝里夫共同出席活動時稱：“任何脫離地區國家意願與助力的解決方案，都不可能長久維繫。”土耳其身為北約成員國，同時也是伊朗鄰國，多次指責以色列企圖破壞由巴基斯坦斡旋達成的美伊協議，並譴責以色列在加沙、黎巴嫩與敘利亞開展軍事行動。埃爾多安表示：“我們密切關注以色列當局破壞（美伊）協議的種種舉動，絕不能讓如今好戰的以色列政府再度讓我們這片地區充斥硝煙與血腥。”
-
----
-
-### 2026-07-04 23:06:18  #國際
-
-土耳其總統埃爾多安稱，以色列不得阻撓美伊協議。
-
----
-
-### 2026-07-04 23:04:41  #其他
-
-德國總理默茨談及自身改革舉措：民眾本身並不排斥改革。他們願意配合、接受這類改革。但但凡要求民眾做出改變的人——我們如今就在提出改革要求——都必須坦誠說明，哪些方面將要調整、為何非改不可、又會波及哪些群體。改革必須秉持公平原則，所有人都要承擔相應責任、付出應有代價。
-
----
-
-### 2026-07-04 23:02:50  #MKT News #Market Regions #Greater China
-
-【China foreign minister meets Swedish foreign minister in Stockholm】July 4, 2026 — China foreign minister met Sweden’s foreign minister in Stockholm. Beijing said bilateral ties, which were strained in recent years, have warmed since the Swedish minister’s visit last year and signalled a push to improve mutual trust, expand pragmatic cooperation and focus on a positive agenda. China urged Sweden to continue upholding the One China principle to consolidate the political basis for the relationship.
-
----
-
-### 2026-07-04 23:02:21  #其他
-
-【英偉達將抽取部分客戶雲業務營收分成】英偉達正依託自身雄厚的資產負債表，助力更多企業採購價格高昂的人工智慧晶片，同時自身也有望從中賺取額外收益。據參與該新專案的GPU雲服務商菲爾穆斯（Firmus）、莎倫人工智慧（Sharon AI），以及另外三家與英偉達有業務往來的企業高管透露：英偉達承諾為新興雲廠商提供資金兜底支援。作為交換，英偉達將分得這些廠商的部分雲業務營收。兜底機制具體形式為：若雲服務商無法招攬到AI開發者租用顯示卡，英偉達承諾回購其閒置圖形處理器。
-
----
-
-### 2026-07-04 22:59:52  #國際
-
-烏克蘭總統澤連斯基：從收復蛇島開始，再到我們針對俄羅斯艦隊、俄方港口以及“盤踞”在烏克蘭克里米亞的佔領軍開展一系列行動，我們正在證明，黑海與亞速海這片海域，絕不會成為俄羅斯的安穩之地。
-
----
-
-### 2026-07-04 22:54:25  #國際
-
-【中國－獅子山護理培訓中心正式啟用】中國－獅子山護理培訓中心啟動儀式3日在位於塞首都弗里敦的中塞友好醫院舉行。該中心由第27批中國（湖南）援獅子山醫療隊主要負責。出席儀式的獅子山衛生部第一副部長塞內西高度評價中方長期援塞成果，認為培訓中心的啟動將彌補當地護理人才培養短板，是兩國深度務實合作的體現。（新華社）
-
----
-
-### 2026-07-04 22:54:06  #其他
-
-亞美尼亞最高法院駁回反對派要求撤銷選舉結果的申請。
-
----
-
-### 2026-07-04 22:53:34  #其他
-
-德國總理默茨：德國最好的時代並未遠去。只要我們走對道路，光明美好的歲月就在前方。
-
----
-
-### 2026-07-04 22:53:09  #國際
-
-【美副總統赴紐約出席獨立日海上慶典 不現身華盛頓國家廣場】搭載美國副總統萬斯的二號海軍陸戰隊直升機剛剛降落在紐約港的“奇爾沙治”號兩棲攻擊艦甲板上。副總統出席建國250週年“自由250”海空閱兵活動，以此慶祝7月4日獨立日。本次閱兵集結了來自55個國家的海軍艦艇、軍用飛機與仿古高桅帆船。萬斯將於上午11點15分在奇爾沙治號艦上發表講話。依據白宮旨在避免總統與副總統同場現身的安保規定，副總統不會前往國家廣場參與相關慶祝活動。
-
----
-
-### 2026-07-04 22:51:16  #國際
-
-以色列軍隊持續違反停火協議，在加沙地帶汗尤尼斯市東部和東北部地區對住宅和住宅樓實施4次大規模爆破行動。
-
----
-
-### 2026-07-04 22:50:57  #MKT News #Market Themes #China EV Leaders #AI Revolution #XPEV.O #Impact bullish
-
-【He Xiaopeng: China leads in intelligent driving; UN approval of L2 rules to speed overseas deployment】Xpeng chairman and CEO He Xiaopeng said China leads globally in both ADAS technology and related regulation, and the United Nations has approved intelligent-driving rules that fully clear L2-level functions. He said the approval means that from December this year L2 features such as NGP and NOA can be used and deployed worldwide, marking an important implementation milestone. He added only China and the U.S. have achieved large-scale L2 rollout to date, most regions including the EU have not, and Xpeng—now a member of the UN traffic-regulations drafting group—is actively aligning products to the new requirements.
-
----
-
-### 2026-07-04 22:45:49  #國際
-
-【埃及法老圖坦卡蒙展在巴黎舉行】近日，沉浸式展覽“圖坦卡蒙——陵墓與寶藏”在法國巴黎舉行。展覽用科學復原的複製品，再現1922年發現埃及法老圖坦卡蒙陵墓時的場景。（新華社）
-
----
-
-### 2026-07-04 22:45:00  #其他 #焦點
-
-【第二十三屆臺胞青年千人夏令營在武漢開營】營旗飄揚，歡歌笑語。4日晚，由中華全國臺灣同胞聯誼會主辦的第二十三屆臺胞青年千人夏令營在湖北武漢舉行開營儀式。300餘名臺灣大學生參與活動，與武漢大學、華中科技大學等大陸高校學子攜手開啟青春交流之旅。（新華社）
-
----
-
-### 2026-07-04 22:41:47  #宏觀 #國際
-
-【王毅同瑞典外交大臣斯蒂納加德會談】中共中央政治局委員、外交部長王毅4日在斯德哥爾摩同瑞典外交大臣斯蒂納加德舉行會談。王毅說，中瑞交往歷史悠久。瑞典是第一個同新中國建交的西方國家，正值鐵幕落下、冷戰初啟，體現了瑞方堅持獨立自主、摒棄陣營對抗的戰略眼光。改革開放後，瑞典企業在西方國家中率先進入中國市場並取得很好發展，兩國長期互為在亞洲和北歐地區的最大貿易伙伴。雙邊多年交往的有益經驗就是，要秉持客觀理性的認知、相互尊重的態度、聚同化異的精神，堅持互利共贏的目標。過去幾年中瑞關係遭受了波折，在雙方共同努力下，我們將分歧放到適當位置，著力改善雙邊互信，聚焦積極議程，拓展務實合作。去年外交大臣女士訪華後，中瑞關係持續轉暖向好，這一勢頭值得珍惜。中方願同瑞方共同推動雙邊關係健康穩定發展。希望瑞方繼續恪守一箇中國原則，鞏固雙邊關係政治基礎。（新華社）
-
----
-
-### 2026-07-04 22:40:15  #焦點 #國際
-
-特朗普：若《拯救美國法案》獲得透過，我們未來一百年都不會再輸掉選舉。
-
----
-
-### 2026-07-04 22:37:52  #焦點 #國際
-
-訊息人士：在哈梅內伊為期數日的葬禮結束後，美國與伊朗定於7月11日在巴基斯坦重啟談判。
-
----
-
-### 2026-07-04 22:36:22  #國際
-
-美國250週年慶典組委會正式封存“美國時光膠囊”，並於7月4日在費城舉辦下葬儀式前，對外公佈了膠囊內最終收納的全部物品。
-
----
-
-### 2026-07-04 22:36:05  #國際
-
-市場資訊：特朗普賬戶正式面向2025年至2028年間出生的子女開放。
-
----
-
-### 2026-07-04 22:34:35  #宏觀 #國際
-
-【瑞典首相克里斯特松會見王毅】瑞典首相克里斯特松4日在斯德哥爾摩會見中共中央政治局委員、外交部長王毅。 克里斯特松請王毅轉達對中國領導人的良好祝願，表示瑞中兩國和兩國人民的友好交往有著悠久歷史，瑞方欽佩中國文化和創新精神，讚賞中國取得的顯著發展成就。瑞政府堅持一箇中國政策，願同中方加強對話，擴大共識，推進各領域互利互惠、富有前景的合作。瑞方支援歐中加強對話，妥處分歧。（新華社）
-
----
-
-### 2026-07-04 22:32:43  #MKT News #Market Regions #Greater China
-
-【Sweden prime minister Kristersson met China foreign minister Wang Yi】Sweden prime minister Kristersson met China foreign minister Wang Yi in Stockholm on July 4. Wang conveyed greetings from Chinese leaders, said bilateral ties have faced difficulties and urged stronger dialogue, rebuilt mutual trust and improved mutual understanding. Wang also held talks with Sweden’s foreign minister and met Jacob Wallenberg, chairman of the Wallenberg group.
-
----
-
-### 2026-07-04 22:31:26  #宏觀 #公司 #國際
-
-【瑞典首相克里斯特松會見王毅】瑞典首相克里斯特松4日在斯德哥爾摩會見中共中央政治局委員、外交部長王毅。克里斯特松請王毅轉達對中國領導人的良好祝願，表示瑞中兩國和兩國人民的友好交往有著悠久歷史，瑞方欽佩中國文化和創新精神，讚賞中國取得的顯著發展成就。瑞政府堅持一箇中國政策，願同中方加強對話，擴大共識，推進各領域互利互惠、富有前景的合作。瑞方支援歐中加強對話，妥處分歧。王毅轉達中國領導人對克里斯特松首相的問候，表示中瑞交往史可以追溯到古絲綢之路時期。瑞典是第一個同新中國建交的西方國家，這展現了瑞方的獨立自主和戰略遠見，也在世界上發揮了示範作用。中瑞關係近年來遇到一些困難，加強對話、增進了解、重建互信對雙方尤顯重要，秉持正確的相互認知更是關鍵。王毅說，中國共產黨在長期執政中始終得到中國人民衷心擁護，保持內外政策的連續性穩定性，為世界注入寶貴的確定性。中國好，世界會更好，也將為包括瑞典在內的各國提供新機遇。中方願同瑞方加強各層級交往，發揮互補優勢，促進互利合作，推動中瑞關係走上健康、穩定、可持續發展之路。希望瑞方也能為促進中歐關係發揮建設性作用。訪問期間，王毅還同瑞典外交大臣斯蒂納加德會談，會見銀瑞達集團董事會主席雅各布·瓦倫堡。（新華社）
-
----
-
-### 2026-07-04 22:28:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【Shenzhen accounts for 25.5% of China’s robot exports; Jan–Apr shipments RMB 4.03 bln】Shenzhen Customs data: Jan–Apr robot exports reached RMB 4.03 bln, 25.5% of national robot export value—roughly one yuan in every four. Backed by a complete Greater Bay Area ecosystem that compresses core components, finished machines, control systems and integration services into a shortened value chain, Shenzhen firms achieve faster product iteration and flexible delivery. Shenzhen-made robots are now exported to more than 100 countries and regions.
-
----
-
-### 2026-07-04 22:16:49  #MKT News
-
-【Iran conservative bloc fractures; new supreme leader’s absolute authority reportedly diluted】The New York Times reports Iran’s traditional conservative–reformist divide has been upended after the assassination of former supreme leader Khamenei, with the conservative camp splitting into pragmatists who favor ending hostility with the U.S. and opening the economy, and hardliners who reject concessions (including on nuclear issues) and advocate prolonging the war. Four senior Iranian officials and two IRGC members told the paper that public disagreements mask deeper backstage ruptures as factions compete to win the allegiance of new supreme leader Mujtaba. Pragmatists — reportedly including senior IRGC generals, parliament speaker Qalibaf, President Pezeshkian and national security council secretary Gen. Zolghadr — have gained the upper hand and have pushed for accepting a ceasefire, direct talks with U.S. Vice President Vance and an agreement with Trump. IRGC commanders have consolidated de facto governing power since the war began, and Deputy Vice President for Administrative Affairs Mohammad-Jafar Ghaempanah said the new supreme leader does not have final decision authority, indicating a shift toward more collective decisionmaking.
-
----
-
-### 2026-07-04 22:15:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【US-Iran peace deal releases large crude volumes, reviving global oversupply concerns】Oil prices fell across the board after a US-Iran peace deal freed substantial crude supplies that demand cannot absorb. Less than three months ago global physical crude benchmarks hit record highs, and until weeks ago industry executives warned inventories were at extremely low levels amid the Iran crisis. Analysts from Morgan Stanley to Goldman Sachs this week warned of a risk of supply overhang next year; Energy Aspects head of oil research Kit Haines said market sentiment is overwhelmingly bearish. Persian Gulf suppliers had begun ramping shipments before the June MOU reopening the Strait of Hormuz, and in the weeks after the deal more than 60 mln barrels of oil that had been trapped by the war flowed into the market.
-
----
-
-### 2026-07-04 22:12:04  #MKT News #Market Regions #Emerging Markets
-
-Egypt central bank: M2 money supply rose 19.6% YoY in May.
-
----
-
-### 2026-07-04 22:11:53  #央行 #國際
-
-埃及央行：5月埃及廣義貨幣供應量（M2）同比增長19.6%。
-
----
-
-### 2026-07-04 22:10:07  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Iran's foreign minister Araghchi met separately in Tehran with representatives of HEZBOLLAH and Hamas.
-
----
-
-### 2026-07-04 22:08:14  #國際
-
-【伊朗外長會晤黎真主黨及哈馬斯代表】今天（7月4日），伊朗外交部長阿拉格齊在伊朗首都德黑蘭分別會晤黎巴嫩真主黨及巴勒斯坦伊斯蘭抵抗運動（哈馬斯）代表。（CCTV國際時訊）
 
 ---
