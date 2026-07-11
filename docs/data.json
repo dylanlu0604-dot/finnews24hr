@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-11 17:53:06",
-  "count": 16273,
+  "updated": "2026-07-11 17:57:04",
+  "count": 16274,
   "items": [
+    {
+      "id": "mkt:019f509a-07ad-7aab-8d3d-122935d9b2cb",
+      "time": "2026-07-11 17:54:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. and Iran at odds over talks; expert says resumption unlikely in short term】On July 10 President Trump posted on Truth Social that Iran wants to continue 'talks' and the U.S. has agreed to continue negotiations. Iranian foreign ministry spokesman BAGHAEI said Iran never sought talks but has agreed to allow mediator visits. A Middle East analyst said dialogue is unlikely to resume in the short term given ongoing hostilities, a fragile trust foundation and widespread public skepticism in both countries; U.S. strikes during the funeral period of former supreme leader Khamenei make rapid confidence-building difficult. Qatar, Oman and Pakistan continue mediation efforts to try to restore communication channels between Washington and Tehran."
+    },
+    {
+      "id": "4982186",
+      "time": "2026-07-11 17:53:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：伊朗拒絕與美國談判，除非華盛頓改變立場。"
+    },
+    {
+      "id": "mkt:019f5098-41ae-7aab-8d3d-0f520c3d5b3f",
+      "time": "2026-07-11 17:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former Pentagon official: Kyiv cannot produce \"Patriot\" missiles for years】Chas Freeman, a retired US diplomat and former assistant secretary of defense for international security affairs, said even with US production licenses Ukraine would be unable to assemble Patriot air-defense systems for several years. He said producing a complete Patriot system in the US takes about two years and that the US currently has no Patriots to supply Ukraine and will not have any for years. Freeman added, we expect the conflict will be over by then."
+    },
     {
       "id": "4982185",
       "time": "2026-07-11 17:47:19",
@@ -148455,22 +148483,6 @@
         "公司"
       ],
       "text": "【我國首架綜合航測飛機首飛成功】從中國航空工業集團獲悉，我國首架大氣環境綜合探測固定翼飛機平臺“運12F大氣綜合航測飛機”近日在哈爾濱平房機場首飛成功。據悉，該型機以運12F飛機為載機，圍繞大氣顆粒物、氣態汙染物、溫室氣體及雲水物理化學等多汙染物高靈敏立體探測需求，完成了60餘項任務裝置的整機大規模整合加改裝工作，具備多汙染物、溫室氣體與雲水探測的整合航測能力。該機的成功研製，將為我國區域大氣汙染監測提供重要的垂直探測手段。（新華社）"
-    },
-    {
-      "id": "mkt:019f2c8c-d6cc-7aab-8c9c-983cc3fd0e6f",
-      "time": "2026-07-04 17:54:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine denies Russian control of Konstantynivka】Ukraine's General Staff said on the 4th that reports Russian forces have taken control of Konstantynivka in Donetsk region are false. A General Staff spokesman said Russian forces are still attempting to seize the town; small Russian units have penetrated Ukrainian positions and Ukrainian troops are conducting clearing operations. The situation is severe but the town remains under Ukrainian control."
-    },
-    {
-      "id": "4970372",
-      "time": "2026-07-04 17:53:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦安全會議副主席梅德韋傑夫：霍爾木茲海峽已成為伊朗的一件武器，其威力不亞於核武器。"
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "date": "2026-07-11",
-  "count": 695,
+  "count": 698,
   "items": [
+    {
+      "id": "mkt:019f509a-07ad-7aab-8d3d-122935d9b2cb",
+      "time": "2026-07-11 17:54:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. and Iran at odds over talks; expert says resumption unlikely in short term】On July 10 President Trump posted on Truth Social that Iran wants to continue 'talks' and the U.S. has agreed to continue negotiations. Iranian foreign ministry spokesman BAGHAEI said Iran never sought talks but has agreed to allow mediator visits. A Middle East analyst said dialogue is unlikely to resume in the short term given ongoing hostilities, a fragile trust foundation and widespread public skepticism in both countries; U.S. strikes during the funeral period of former supreme leader Khamenei make rapid confidence-building difficult. Qatar, Oman and Pakistan continue mediation efforts to try to restore communication channels between Washington and Tehran."
+    },
+    {
+      "id": "4982186",
+      "time": "2026-07-11 17:53:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：伊朗拒絕與美國談判，除非華盛頓改變立場。"
+    },
+    {
+      "id": "mkt:019f5098-41ae-7aab-8d3d-0f520c3d5b3f",
+      "time": "2026-07-11 17:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former Pentagon official: Kyiv cannot produce \"Patriot\" missiles for years】Chas Freeman, a retired US diplomat and former assistant secretary of defense for international security affairs, said even with US production licenses Ukraine would be unable to assemble Patriot air-defense systems for several years. He said producing a complete Patriot system in the US takes about two years and that the US currently has no Patriots to supply Ukraine and will not have any for years. Freeman added, we expect the conflict will be over by then."
+    },
     {
       "id": "4982185",
       "time": "2026-07-11 17:47:19",
