@@ -1,7 +1,23 @@
 {
   "date": "2026-07-11",
-  "count": 724,
+  "count": 726,
   "items": [
+    {
+      "id": "mkt:019f50c5-d559-7aab-8d3d-55da874c3f9c",
+      "time": "2026-07-11 18:42:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.6 magnitude quake near South Sandwich Islands may trigger local tsunami; no threat to Chinese coast, tsunami centre says】The Ministry of Natural Resources' Tsunami Warning Center said a preliminary magnitude-6.6 earthquake struck at 18:26 BJT on July 11, 2026, in the South Sandwich Islands region (55.43°S, 29.10°W) in the South Atlantic, at a focal depth of 15 km. The centre judged the quake could generate a local tsunami near the epicentre but, because the epicentre lies outside the Pacific, it does not pose a threat to China's coast. Exact parameters will be confirmed by the China Earthquake Networks Center (CENC); the tsunami centre said it will continue to monitor and issue updates."
+    },
+    {
+      "id": "4982206",
+      "time": "2026-07-11 18:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士：美國不放棄現有立場就“免談”】當地時間11日，一名接近伊朗談判團隊的訊息人士稱，某些“親以色列媒體”釋出的伊朗請求與美國談判的報道是假訊息，伊朗並未提出任何與美國談判的請求。在美國放棄其現有立場前，伊朗不會與其進行任何談判。另據伊朗方面11日訊息，伊朗外交部發言人巴加埃說，伊朗已拒絕了與美國進行談判的請求。但他證實有卡達官員到訪，討論伊美停火現狀。（央視新聞）"
+    },
     {
       "id": "mkt:019f50c1-e5d7-7aab-8d3d-4b038d552e16",
       "time": "2026-07-11 18:38:32",
