@@ -1,7 +1,23 @@
 {
   "date": "2026-07-11",
-  "count": 520,
+  "count": 522,
   "items": [
+    {
+      "id": "mkt:019f4f4e-0e28-7aab-8d3b-818c7223ec7b",
+      "time": "2026-07-11 11:52:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple airports cancel all flights amid Typhoon Bavi】As of 11:00 on July 11, VariFlight's typhoon track and airport impact map shows 56 airports are expected to be affected by Typhoon Bavi between July 11-13. On July 11 Wenzhou Longwan, Fuzhou Changle, Taizhou Luqiao and Lishui airports had all arrivals and departures canceled. Taipei Taoyuan's cancellation rate reached 99% and Ningbo Lishe's 60%. As of 08:30 on July 11 airlines at Hangzhou planned to cancel 198 flights for the day; Shanghai's two airports planned nearly 400 cancellations."
+    },
+    {
+      "id": "4982057",
+      "time": "2026-07-11 11:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家機場航班全取消】截至7月11日11時，據飛常準颱風路徑與機場影響預報圖顯示，預計7月11日-7月13日受颱風“巴威”影響機場56座。7月11日，溫州龍灣機場、福州長樂機場、台州路橋機場、麗水機場進出港航班已全部取消。臺北桃園機場航班取消率達99%，寧波櫟社機場取消率達60%。截至7月11日08:30，杭州機場各航司計劃取消11日進出港航班198架次。上海兩機場計劃取消航班近400架次。（第一財經）"
+    },
     {
       "id": "4982056",
       "time": "2026-07-11 11:47:25",
