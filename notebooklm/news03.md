@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-12 05:28:54_
-_本檔包含 3629 則快訊，約 617193 字_
+_更新時間：2026-07-12 06:25:14_
+_本檔包含 3623 則快訊，約 616694 字_
+
+---
+
+### 2026-07-09 09:28:17  #MKT News
+
+Guide Infrared shares locked at the daily trading limit from the open after the company said 1H net profit is expected to exceed 1.2 bln yuan, up 6–7x YoY.
+
+---
+
+### 2026-07-09 09:28:06  #公司 #市場
+
+【高德紅外一字漲停】高德紅外一字漲停，公司上半年淨利潤預計超12億元，預增6至7倍。
+
+---
+
+### 2026-07-09 09:27:44
+
+【美伊衝突再起，石油主題LOF高開】今日早盤，石油主題LOF全線高開，嘉實原油LOF、原油LOF易方達、南方原油LOF漲超5％，石油LOF漲近3％，石油基金LOF、華寶油氣LOF等跟漲。據伊朗媒體報道，駐紮在科威特的美軍軍事基地遭到伊朗的報復性襲擊。美國總統特朗普表示，此前對伊朗的攻擊是為了報復昨天伊朗對船隻的轟炸。
+
+---
+
+### 2026-07-09 09:27:34  #其他
+
+【階躍星辰：將釋出全球首款智慧體手機】7月9日，介面新聞獲悉，國產AI大模型獨角獸階躍星辰即將釋出AI終端品牌、及智慧體系統，並表示將同步推出全球首款AI智慧體手機。據悉，階躍星辰計劃於7月13日釋出相關品牌和新一代智慧體戰略。
+
+---
+
+### 2026-07-09 09:27:31  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
+
+At the open on July 9, China's Shanghai Composite Index rose 6.67 pts (+0.17%) to 3,977.55; Shenzhen Composite Index rose 98.74 pts (+0.66%) to 15,038.47; CSI 300 Index rose 18.87 pts (+0.40%) to 4,774.40; ChiNext Index rose 46.77 pts (+1.22%) to 3,892.12; STAR 50 Index rose 31.01 pts (+1.54%) to 2,047.24.
+
+---
+
+### 2026-07-09 09:27:26  #國際
+
+泰國副財長桑蒂坦·薩提拉泰：在燃料問題上，我們正在考慮多元化選擇。
+
+---
+
+### 2026-07-09 09:27:21  #MKT News #Important #Market Regions #Greater China #WTI #Impact bullish #Brent
+
+【US-Iran tensions flare; China-listed oil-themed LOFs open sharply higher】In early trade, China-listed oil-themed LOFs opened sharply higher: Harvest Crude Oil LOF, E Fund Crude Oil LOF and Southern Crude Oil LOF rose over 5%, while a broader oil LOF was up nearly 3%; oil fund LOFs including Huabao Oil & Gas LOF also gained. Iranian media reported a retaliatory strike on a US military base in Kuwait. President Trump said an earlier attack on Iran was retaliation for Iran’s bombing of ships yesterday.
+
+---
+
+### 2026-07-09 09:27:07  #國際
+
+美國國務卿魯比奧將於週四美國東部時間中午12點會見沙特駐美國大使。
+
+---
+
+### 2026-07-09 09:25:39  #MKT News #Commodities #Precious Metals
+
+Spot silver slid to $58/oz, down 0.54% intraday.
+
+---
+
+### 2026-07-09 09:25:32  #MKT News #Important
+
+Bank of Korea Governor Shin said the central bank needs to raise interest rates at an appropriate time.
+
+---
+
+### 2026-07-09 09:25:27  #焦點
+
+三大股指高開，滬指漲0.17％，深成指漲0.66％，創業板漲1.22％。
+
+---
+
+### 2026-07-09 09:25:21  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+At the open, China’s A-share market: Shanghai Composite +0.17%, Shenzhen Composite Index +0.66%, ChiNext +1.22%; storage chip and oil and gas stocks led gains.
+
+---
+
+### 2026-07-09 09:25:19  #央行 #國際
+
+韓國央行行長：需要在適當時機加息。
+
+---
+
+### 2026-07-09 09:25:09  #公司 #市場
+
+【智譜高開近3%】智譜高開近3%，公司擬以每股1588港元配售最多1978萬股新H股，於收市價每股1825港元折讓約12.99%。
+
+---
+
+### 2026-07-09 09:24:31  #公司 #市場
+
+立訊精密港股上市首日低開0.05%，報63.25港元/股；三環集團港股上市首日平開，報100.3港元/股；鼎泰高科港股上市首日開盤跌超13%，報330港元/股。
+
+---
+
+### 2026-07-09 09:23:38  #MKT News #Market Regions #Greater China #00148.HK #Impact bullish #01888.HK #03200.HK
+
+Hong Kong PCB-related stocks opened higher: Kingboard Group (00148.HK) up 6.4%, Kingboard Laminates (01888.HK) up 4.5%, Han's CNC (03200.HK) up nearly 3%.
+
+---
+
+### 2026-07-09 09:22:19  #MKT News #Important #02475.HK #01377.HK #Impact bearish
+
+On debut, Luxshare Precision (02475.HK) opened down 0.05%; Dingtai High‑Tech (01377.HK) opened down 13.16%.
+
+---
+
+### 2026-07-09 09:21:51  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+The Hang Seng Index (HSI) opened on July 9 (Thu) down 18.12 pts (-0.07%) at 24,181.34; the Hang Seng TECH Index opened up 13.95 pts (+0.29%) at 4,744.97; the Hang Seng China Enterprises Index (HSCEI) opened up 0.27 pts (0.0%) at 8,083.95; the Red Chip Index opened down 9.41 pts (-0.24%) at 3,865.52.
+
+---
+
+### 2026-07-09 09:21:19
+
+港股恒指低開跌0.07％，國企指數平開，科指開漲0.29%，儲存概念回暖。
+
+---
+
+### 2026-07-09 09:21:16  #MKT News #Important #Market Regions #Greater China #03986.HK #Impact bullish #06809.HK #Hang Seng Index #Impact bearish
+
+Hong Kong open: Hang Seng Index down 0.07%, Hang Seng TECH Index up 0.29%. Storage names rebound: GigaDevice Semiconductor (03986.HK) +5.8%, Lanqi Technology (06809.HK) +4.4%.
+
+---
+
+### 2026-07-09 09:21:06  #央行 #中國央行
+
+央行今日開展100億元7天期逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-07-09 09:20:46  #央行 #其他
+
+央行今日開展100億元7天逆回購操作，投標量100億元，中標量100億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-07-09 09:20:45  #MKT News #Important #CNH
+
+PBOC conducted a 7-day reverse repo of 100 bln yuan today; bids 100 bln yuan, allotment 100 bln yuan, rate 1.40%, unchanged from the previous operation.
+
+---
+
+### 2026-07-09 09:20:13  #MKT News
+
+Market sources said the U.S. Treasury deputy assistant secretary for domestic finance, Maikena, is expected to depart next week.
+
+---
+
+### 2026-07-09 09:20:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed
+
+China's June CPI YoY due in 10 minutes.
+
+---
+
+### 2026-07-09 09:19:33  #MKT News #Macro & Rates #USDJPY #Impact bearish
+
+【Ex-BOJ official says terminal rate could exceed 2% in current tightening cycle】Former BOJ official Watanabe Tsutomu said on Wednesday the BOJ could accelerate rate hikes later this year and lift its policy rate above 2% to rein in inflation. He said the terminal peak will likely be higher than most expect, around 2% or slightly above. Watanabe urged a dynamic assessment of policy, saying the terminal rate depends not only on neutral-rate estimates but also on factors such as inflation overshooting before the BOJ clearly tightens. With core inflation approaching the 2% target, he warned the policy board may shift from a previously passive stance to a more proactive position to prevent an overshoot.
 
 ---
 
@@ -21661,197 +21817,5 @@ RBNZ Raises OCR, Flags Further Rate Hikes — The Reserve Bank of New Zealand ra
 ### 2026-07-08 10:06:20  #公司 #國際
 
 【北約公佈大規模軍購計劃】北大西洋公約組織（北約）7日在該組織峰會期間公佈多項總額達數百億美元的軍購和防務投資計劃，涉及反無人機能力建設、無人機採購等。北約秘書長呂特當天在峰會期間舉行的防務工業論壇上敦促北約成員國政府和西方軍工企業擴大投資、提升產能。他宣佈，北約成員國未來五年將投資超過400億美元用於反無人機能力建設，並計劃到2027年底將無人機操作員接受培訓的人數增加五倍。北約公佈的軍購計劃還包括丹麥、芬蘭、德國、挪威4國採購美國諾思羅普-格魯曼公司的“人魚海神”無人機，11個北約成員國還將採購瑞典薩博公司的“全球眼”預警機等。（新華社）
-
----
-
-### 2026-07-08 10:05:54  #央行 #其他
-
-紐西蘭央行：預計未來幾個季度通脹率將保持在目標以上。
-
----
-
-### 2026-07-08 10:05:52  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量827億元。
-
----
-
-### 2026-07-08 10:05:08  #市場 #國際
-
-印尼股指下跌0.8%，報5,941.685點。
-
----
-
-### 2026-07-08 10:04:38  #央行 #國際
-
-泰國央行會議紀要：不良貸款比率不太可能大幅上升。
-
----
-
-### 2026-07-08 10:04:35  #市場 #焦點
-
-深證成指跌2.00%，現報14920.092點；上證指數跌0.52%，現報3969.288點；創業板指跌2.16%，現報3827.420點。
-
----
-
-### 2026-07-08 10:04:32  #央行 #其他
-
-紐西蘭央行：GDP即時預測模型KIWI-GDP目前預測2026年9月季度增長0.6%。
-
----
-
-### 2026-07-08 10:04:22  #央行 #其他
-
-紐西蘭央行：燃料價格下降將支援支出復甦。
-
----
-
-### 2026-07-08 10:04:09  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Jump as Tech Leads Rally — The Hang Seng Index jumped 1.9%, or around 466 points, to 23,963 on Wednesday, advancing as technology stocks led broad-based gains despite renewed geopolitical tensions in the Middle East. Sentiment remained resilient after the US launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz, even as the escalation pushed oil prices higher. Risk appetite was supported by continued optimism surrounding artificial intelligence and technology sector, while Hong Kong's robust IPO market added to positive sentiment as Chinese autonomous driving firm Momenta Global was set to debut slightly above its offer price after raising HK$5.89 billion in its initial public offering, underscoring strong investor demand for technology listings. Investors also looked ahead to China's June consumer and producer inflation data due on Thursday. Among the top gainers were Tencent (2.4%), SMIC (2.9%), Lenovo (4.4%), Kuaishou (1.2%), and Xiaomi (2.9%)
-
----
-
-### 2026-07-08 10:04:07  #央行 #其他
-
-紐西蘭央行：貨幣政策委員會對通脹前景看法不一。
-
----
-
-### 2026-07-08 10:03:58  #央行 #其他
-
-紐西蘭央行：預計經濟增長將於9月季度恢復。
-
----
-
-### 2026-07-08 10:03:49  #央行 #國際
-
-泰國央行會議紀要：整體信貸增長步伐緩慢。
-
----
-
-### 2026-07-08 10:03:42  #央行 #其他
-
-紐西蘭央行會議記錄：當前的官方隔夜拆款利率水平仍具刺激性。
-
----
-
-### 2026-07-08 10:03:27  #央行 #國際
-
-泰國央行會議紀要：通脹將逐步回落，不太可能長期持續。
-
----
-
-### 2026-07-08 10:03:26  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Hit New 1-Month Low — The Shanghai Composite edged down 0.2% to around 3,984 on Wednesday, while the Shenzhen Component dropped 1.6% to 14,988, both extending losses for a third consecutive session and hitting new one-month lows, as renewed tensions in the Middle East weighed on broader Asian markets and dampened risk appetite. The US escalated pressure on Iran by conducting new airstrikes and rescinding a sanctions waiver permitting Tehran to export oil to global markets. The latest move was seen as the most significant threat yet to the interim agreement signed by US and Iranian leaders on June 17, casting doubt on ongoing negotiations aimed at securing a permanent peace deal within 60 days of the accord. Among individual stocks, losses were posted in Industrial and Commercial Bank of China (-0.6%), China Construction Bank (-0.6%), Zijin Mining Group (-1.8%), CATL (-1.2%), NAURA Technology (-2.4%), and Luxshare Precision Industry (-2.6%).
-
----
-
-### 2026-07-08 10:03:19  #市場 #焦點
-
-南向資金淨買入額達50億港元。
-
----
-
-### 2026-07-08 10:03:16  #央行 #其他
-
-紐西蘭央行：委員會注意到近幾周金融狀況有所緩解。
-
----
-
-### 2026-07-08 10:03:06  #央行 #其他
-
-紐西蘭央行：預計年度整體通脹率將在2026年6月當季達到3.9%的峰值，隨後在2026年9月當季回落至3.3%。
-
----
-
-### 2026-07-08 10:02:51  #央行 #資料
-
-紐西蘭央行：官方現金利率可能進一步提高，但時間尚不確定。
-
----
-
-### 2026-07-08 10:02:42
-
-創業板指跌超2％，深證成指跌1.9％，滬指跌0.49％，全市場超3400只個股下跌。
-
----
-
-### 2026-07-08 10:02:33  #市場 #焦點
-
-北證50日內跌幅達2.05%，成分股中，矽烷科技跌8.56%，三協電機跌7.22%，華嶺股份跌6.96%，奧迪威跌6.90%。
-
----
-
-### 2026-07-08 10:02:17  #央行 #國際
-
-泰國央行會議紀要：寬鬆的貨幣政策，加之經濟刺激措施，在短期內為經濟提供了支撐。
-
----
-
-### 2026-07-08 10:02:15  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Rises to 1-Month High — Australia’s 10-year government bond yield climbed to around 4.9%, hitting a four-week high as global oil prices jumped amid renewed US-Iran tensions. The US launched a fresh wave of strikes against Iran and revoked a license allowing the country to sell oil following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. Meanwhile, RBA Assistant Governor Sarah Hunter said recent oil price shocks had weakened consumer and business confidence but noted the Australian economy remained resilient. She also reiterated that the central bank would act as needed to return inflation to target and maintain sustainable full employment. Still, markets continued to expect the central bank to keep its cash rate unchanged in August after delivering three rate hikes this year, while the odds of a November hike has eased to around 40%.
-
----
-
-### 2026-07-08 10:02:08  #央行 #其他
-
-紐西蘭元延續漲勢，紐西蘭央行一如預期加息。
-
----
-
-### 2026-07-08 10:01:51  #央行 #國際
-
-泰國央行貨幣政策會議紀要：旅遊業預計將逐步復甦。
-
----
-
-### 2026-07-08 10:01:50  #市場 #焦點
-
-恒生指數漲超2%，現報23967.111點；恒生科技指數現漲2.065%。
-
----
-
-### 2026-07-08 10:01:49  #市場 #焦點
-
-創業板指跌2.01%，現報3833.437點；上證指數跌0.46%，現報3971.746點；深證成指跌1.93%，現報14931.009點。
-
----
-
-### 2026-07-08 10:01:44  #國際
-
-泰國貨幣政策委員會：當前政策利率有利於經濟復甦。
-
----
-
-### 2026-07-08 10:01:17  #央行 #其他
-
-紐西蘭央行宣告：儘管能源價格已有所下降，但衝擊的影響仍將持續一段時間，中期通脹壓力前景依然不確定。
-
----
-
-### 2026-07-08 10:01:08  #央行 #市場
-
-紐西蘭央行：中期通脹壓力前景取決於近期成本增加在多大程度上傳導至價格上漲。
-
----
-
-### 2026-07-08 10:00:57  #央行 #資料
-
-紐西蘭央行：未來的官方現金利率決定將取決於新資料、定價行為和經濟活動強度如何影響中期通脹壓力。
-
----
-
-### 2026-07-08 10:00:51  #央行 #其他
-
-紐西蘭央行：由於通脹仍高於目標且經濟活動預計將增強，可能需要進一步減少貨幣刺激措施，以使通脹回到2%的目標中點。
-
----
-
-### 2026-07-08 10:00:47  #MKT News #Important
-
-Hong Kong AI stocks extended gains: Kingdee International (00268.HK) rose over 10%, Shanghai Fudan (01385.HK) nearly 9%, Kingsoft Cloud (03896.HK) nearly 7%, and Lenovo Group (00992.HK) and Zhipu AI (02513.HK) rose more than 4%.
 
 ---

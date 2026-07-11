@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-12 05:28:54_
-_本檔包含 2932 則快訊，約 618123 字_
+_更新時間：2026-07-12 06:25:14_
+_本檔包含 2941 則快訊，約 617601 字_
+
+---
+
+### 2026-07-12 06:23:48  #國際
+
+美國高階官員：伊朗革命衛隊向透過霍爾木茲海峽的一艘商船發射導彈，該船受到打擊。
+
+---
+
+### 2026-07-12 06:21:03  #焦點 #國際
+
+伊朗伊斯蘭革命衛隊海軍表示，如果“敵方”以此事件為藉口採取任何錯誤行動，必將遭到“猛烈回擊”。
+
+---
+
+### 2026-07-12 06:19:50  #焦點 #國際
+
+伊朗伊斯蘭革命衛隊海軍表示，任何船隻都不得通行。
+
+---
+
+### 2026-07-12 06:19:04  #焦點 #國際
+
+伊朗伊斯蘭革命衛隊海軍表示，此次事件發生後，霍爾木茲海峽將關閉，直至另行通知，且直至美國停止在該地區的干涉活動為止。
+
+---
+
+### 2026-07-12 06:17:33  #焦點 #國際
+
+伊朗伊斯蘭革命衛隊海軍表示，一艘試圖在霍爾木茲海峽沿未經批准路線航行的船隻被警告彈“擊中”後停駛。
+
+---
+
+### 2026-07-12 06:14:17  #國際
+
+【古巴譴責美國石油封鎖致使古斷電頻發】古巴政府11日譴責美國對古實施的“種族滅絕式”石油封鎖致使古電力故障頻發。古巴國家主席迪亞斯-卡內爾在社交媒體表示，國家電力系統幾天內兩度崩潰，修復工作面臨壓力，但古巴電力工人並未放棄，目前已有部分機組重新執行。他說，在美國“種族滅絕式”石油封鎖之下，修復過程非常複雜。（新華社）
+
+---
+
+### 2026-07-12 06:13:15  #國際
+
+【埃及仍有意擴大與以色列的經濟合作】儘管雙邊政治關係陷入停滯，埃及仍有意擴大與以色列的經濟合作。開羅方面希望進一步發展雙邊貿易、接待以色列商務代表團，並爭取美國助力兩國商貿往來；與此同時，埃以之間的能源合作保持緊密態勢。
+
+---
+
+### 2026-07-12 06:10:46  #其他
+
+【“巴威”兩次登陸帶來急風暴雨！今晨減弱為強熱帶風暴】今早5點，“巴威”減弱為強熱帶風暴，中心最大風力11級，預計“巴威”將以每小時20—25公里的速度向西北方向移動，強度逐漸減弱。（央視新聞）
+
+---
+
+### 2026-07-12 06:05:42  #MKT News
+
+【China issues yellow typhoon warning for Bavi at 06:00 Jul 12】China's Central Meteorological Observatory at 06:00 on July 12 said Typhoon Bavi weakened overnight to a severe tropical storm. At 05:00 its center was over Yiwu, Jinhua, Zhejiang (29.3°N, 120.0°E). Peripheral maximum winds were 11 on the scale (≈30 m/s) and central pressure 970 hPa. Bavi is moving northwest at 20–25 km/h, is expected to continue weakening, turn northeast on July 13 over eastern Anhui, and on July 14 move from the Shandong peninsula into the northern Yellow Sea while gradually transitioning to an extratropical cyclone.
+
+---
+
+### 2026-07-12 06:04:09  #國際
+
+兩名美國官員透露，特朗普近期一直在聽取關於烏克蘭新型遠端打擊能力的情報簡報，並且對其打擊效果印象深刻。以上評估是特朗普相較於去年對烏克蘭態度轉向更為積極的核心原因。
+
+---
+
+### 2026-07-12 05:59:09  #其他
+
+中央氣象臺7月12日06時釋出颱風黃色預警。
+
+---
+
+### 2026-07-12 05:58:54  #其他
+
+中央氣象臺7月12日06時釋出暴雨橙色預警。
+
+---
+
+### 2026-07-12 05:58:35  #其他
+
+中央氣象臺7月12日06時釋出暴雨橙色預警。
+
+---
+
+### 2026-07-12 05:49:35  #MKT News #DHI.O #Impact bullish #LEN.O #TOL.O
+
+【Bipartisan housing bill becomes law despite Trump refusal to sign】The 21st Century Housing Pathways Act automatically took effect Saturday night despite President Trump declining to sign it. The law seeks to expand housing supply and boost homeownership to ease the U.S. housing shortage, loosening residential construction regulations and curbing Wall Street firms' purchases of single‑family homes to improve affordability.
+
+---
+
+### 2026-07-12 05:48:30  #其他
+
+【克羅埃西亞多地突發山火 科爾丘拉島火勢猛烈】當地時間7月11日，克羅埃西亞南部亞得里亞海沿岸多地發生森林火災，其中科爾丘拉島火情最為嚴重。島上部分地區火光沖天、濃煙瀰漫，大片植被受到影響，現場一度出現火勢迅速擴大的跡象。據當地訊息，火線長度已超過3公里且蔓延到附近松林和葡萄園。受火災影響，島上部分道路暫時關閉。克羅埃西亞消防部門迅速調集力量展開撲救，目前已有三架水上消防飛機投入滅火，島上消防人員以及從大陸調派的增援力量參與地面救援。由於島嶼地形複雜，加上海風影響，滅火工作面臨較大挑戰。同時，克羅埃西亞其他地區當天也報告發生火情。希貝尼克-克寧縣等沿海地區出現山火。（央視新聞）
+
+---
+
+### 2026-07-12 05:41:33  #MKT News
+
+US Secretary of State Rubio said Cuban leaders must implement broad reforms while there is still time.
+
+---
+
+### 2026-07-12 05:39:40  #國際
+
+伊朗革命衛隊週六釋出了最高領袖穆傑塔巴的全新照片，稱其身體狀況“一切良好”；有敵對勢力不斷散播有關其健康狀況的不實猜測。該照片由最高領袖辦公室官網對外發布。
+
+---
+
+### 2026-07-12 05:38:48  #國際
+
+【美國代表團與黎巴嫩軍方討論以軍從試點區撤軍】據黎巴嫩軍方訊息人士11日透露，一個美國軍事代表團已抵達黎巴嫩，開始與黎巴嫩軍方舉行會談，討論制定相關機制、以落實以色列軍隊從黎巴嫩南部劃定的所謂“安全區”中的兩個區域逐步撤軍。這名黎巴嫩軍方訊息人士稱，美國代表團與黎巴嫩軍隊領導層會談的主要目的是啟動第一個試點區，以色列軍隊將從該區域撤出，以便黎巴嫩軍隊部署到位。首個試點區域將在幾天內啟動，其餘試點區域也在規劃推進中。據此前訊息，黎巴嫩方面已告知美國，在以方完成約定撤軍前，不會參加即將在義大利羅馬舉行的新一輪黎以談判。
+
+---
+
+### 2026-07-12 05:35:03  #國際
+
+美國國務卿魯比奧：古巴領導人需實施廣泛改革，趁現在還來得及。
+
+---
+
+### 2026-07-12 05:34:32  #MKT News
+
+US President Trump said he would still win the presidential election in a landslide despite pervasive media smearing and fake news, arguing this shows mainstream media have no credibility.
 
 ---
 
@@ -17724,71 +17844,5 @@ US 10-Year Yield Slips for Second Session — The yield on the US 10-year Treasu
 ### 2026-07-10 10:48:55  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Yen Jumps on Intervention Fears — The Japanese yen strengthened past 161.5 per dollar on Friday, erasing all of its losses from earlier in the week as traders remained alert to the possibility of official intervention after the currency weakened to fresh 40-year lows. Market participants are now awaiting intervention data due later this month to determine whether Japanese authorities were behind the sharp but short-lived rallies seen in recent weeks. Investors also assessed data showing Japan’s producer prices climbed 7.1% in June, marking the fastest annual increase since March 2023 amid persistent cost pressures linked to the Middle East conflict and the yen’s sharp depreciation. Meanwhile, oil prices retreated after reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities. That weighed on the dollar and Treasury yields while easing pressure on the yen by reducing import cost concerns for Japan, which depends heavily on Middle Eastern oil.
-
----
-
-### 2026-07-10 10:48:52  #公司 #市場
-
-【有色板塊震盪反彈 神火股份漲停】有色板塊日內震盪反彈，工業金屬方向領漲，神火股份漲停，中孚實業、雲鋁股份、西部礦業、江西銅業、天山鋁業等跟漲。
-
----
-
-### 2026-07-10 10:47:55  #公司 #市場
-
-機器人概念股震盪走強，日盈電子、美格智慧、晉拓股份等多股漲停，步科股份、三瑞智慧漲超10%，飛龍股份、長盈精密、捷昌驅動跟漲。
-
----
-
-### 2026-07-10 10:46:27  #其他
-
-【雲南省安委會對一起裝載機翻墜事故查處實行掛牌督辦】從雲南省應急管理廳瞭解到，雲南省安全生產委員會日前決定對西雙版納州勐臘縣一起造成3人死亡的裝載機翻墜事故查處實行掛牌督辦。 據介紹，2026年6月30日，西雙版納州勐臘縣發生一起裝載機翻墜事故，造成3人死亡。雲南省安全生產委員會要求有關方面依照生產安全事故報告和調查處理條例等有關法律法規規定，組成事故調查組，抓緊開展事故調查，儘快查明事故原因，嚴格按事故調查規定要求研究提出處理意見。
-
----
-
-### 2026-07-10 10:45:37  #公司
-
-【西菱動力：公司能夠根據客戶需求開展諧波減速器定製開發】西菱動力(300733)在機構調研中表示，公司機器人零部件產品主要包括諧波減速器和旋轉關節模組，另外為了配合旋轉關節模組開發，公司子公司蕪湖西菱電磁機電科技有限公司自研開發了配套的無框力矩電機。公司在該業務領域仍處於專案開發階段。公司能夠根據客戶需求開展諧波減速器定製開發。第一條諧波減速器產線已經除錯完畢，產能約10萬臺/年，第二條產線正在建設當中。
-
----
-
-### 2026-07-10 10:45:26  #其他
-
-【杭州市提升防颱風應急響應至Ⅲ級】今天（7月10日）9時，杭州市人民政府防汛防颱抗旱（防低溫雨雪冰凍）指揮部提升防颱風應急響應至Ⅲ級。受颱風“巴威”影響，杭州今晚起出現大風和降雨，請大家提前做好應對措施。杭州市氣象臺7月10日8時50分發布的颱風訊息：今年第9號颱風“巴威”（強颱風級）今天08時中心位於杭州東南方向約1292公里的洋麵上（北緯20.8度、東經127.6度），中心附近最大風力14級，最低氣壓955百帕。預計“巴威”將以每小時20~25公里的速度向北偏西方向移動，強度變化不大，最大可能於11日白天掠過臺灣島北部沿海，並於11日夜間在浙江溫嶺至福建福清一帶沿海登陸。
-
----
-
-### 2026-07-10 10:43:50  #公司 #國際
-
-【日本福島核電站反恐機密資訊管理有漏洞】日本原子能規制委員會9日通報，東京電力公司福島第一和第二核電站對反恐機密資訊管理不當，導致非涉密人員能輕易接觸到相關資訊。日本原子能規制委員會說，這兩座核電站有多份涉及反恐對策的機密檔案，原本應按規定嚴格管理並存放於指定位置，僅供涉密人員查閱。但經檢查發現，反恐機密檔案儲存於多個部門電腦的共享資料夾中，原本無許可權接觸這些資訊的工作人員也可檢視。（新華社）
-
----
-
-### 2026-07-10 10:43:18  #國際
-
-韓國特別檢察官請求判處統一教教主13年有期徒刑。
-
----
-
-### 2026-07-10 10:42:13  #市場 #國際
-
-菲律賓股市指數上漲1%至6287.29點。
-
----
-
-### 2026-07-10 10:42:04  #Trading Economics #Markets #Singapore #Stock Market #Importance 1
-
-STI Hits Record High, Head for 2nd Weekly Gain — Singapore stocks rose 28 points, or 0.5%, to 5,462 in Friday morning trade, advancing for the seventh consecutive session and hitting a fresh peak, tracking a rally on Wall Street overnight driven by renewed strength in chipmaker stocks. Retail, industrial services, utilities, technology, and financial stocks mainly drove the broader index. However, traders awaited Singapore's preliminary Q2 GDP data, due next week, with the market expecting economic growth to ease to 5.3% after expanding 6.0% in the previous quarter, the strongest pace in 1-1/2 years. Investors also awaited the release of a slew of data from China, including Q2 GDP, industrial production, and June trade figures. Among the notable gainers were Yangzijiang Shipbuilding Holdings (5.9%), Keppel (4.4%), City Developments (1.9%), Hongkong Land Holdings (1.8%), and Sembcorp (1.3%). For the week, the index is on track for a 4.2% surge, which would mark its second consecutive weekly advance.
-
----
-
-### 2026-07-10 10:41:46  #公司 #市場
-
-【人形機器人概念股活躍，步科股份、三瑞智慧漲超10%】人形機器人概念股活躍，步科股份、三瑞智慧漲超10%，晉拓股份、美格智慧、奮達科技等股漲停。
-
----
-
-### 2026-07-10 10:40:40  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Edge Higher, Set for Modest Weekly Rise — Indonesia’s IDX Composite added 18 points, or 0.3%, to 5,932 in early Friday trade, extending momentum from the prior session as Wall Street’s rebound overnight in chip stocks spilled over. Meanwhile, the IMF maintained its April projection for Indonesia’s economy to grow 5% in 2026, even as global uncertainty lingers. On local data, June car sales rose 12% yoy, marking a third consecutive monthly rise and lifting first-half sales 15.9% from a year earlier. Yet optimism was tempered by May retail data, which showed the steepest annual drop in three years as higher non-subsidized fuel prices weighed on consumer spending. Mining services also struggled in H1 2026, pressured by reduced production quotas under current work plans, with contractors awaiting revisions. Still, the market is on track for its first weekly gain in three weeks, up about 0.7% so far. Leading movers included Pertamina Geothermal Energy (3.7%), Vale Indonesia (2.8%), Darma Henwa (2.4%), and Aneka Tambang (2.1%).
 
 ---

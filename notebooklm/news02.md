@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-12 05:28:54_
-_本檔包含 3269 則快訊，約 616202 字_
+_更新時間：2026-07-12 06:25:14_
+_本檔包含 3254 則快訊，約 615688 字_
+
+---
+
+### 2026-07-10 10:48:52  #公司 #市場
+
+【有色板塊震盪反彈 神火股份漲停】有色板塊日內震盪反彈，工業金屬方向領漲，神火股份漲停，中孚實業、雲鋁股份、西部礦業、江西銅業、天山鋁業等跟漲。
+
+---
+
+### 2026-07-10 10:47:55  #公司 #市場
+
+機器人概念股震盪走強，日盈電子、美格智慧、晉拓股份等多股漲停，步科股份、三瑞智慧漲超10%，飛龍股份、長盈精密、捷昌驅動跟漲。
+
+---
+
+### 2026-07-10 10:46:27  #其他
+
+【雲南省安委會對一起裝載機翻墜事故查處實行掛牌督辦】從雲南省應急管理廳瞭解到，雲南省安全生產委員會日前決定對西雙版納州勐臘縣一起造成3人死亡的裝載機翻墜事故查處實行掛牌督辦。 據介紹，2026年6月30日，西雙版納州勐臘縣發生一起裝載機翻墜事故，造成3人死亡。雲南省安全生產委員會要求有關方面依照生產安全事故報告和調查處理條例等有關法律法規規定，組成事故調查組，抓緊開展事故調查，儘快查明事故原因，嚴格按事故調查規定要求研究提出處理意見。
+
+---
+
+### 2026-07-10 10:45:37  #公司
+
+【西菱動力：公司能夠根據客戶需求開展諧波減速器定製開發】西菱動力(300733)在機構調研中表示，公司機器人零部件產品主要包括諧波減速器和旋轉關節模組，另外為了配合旋轉關節模組開發，公司子公司蕪湖西菱電磁機電科技有限公司自研開發了配套的無框力矩電機。公司在該業務領域仍處於專案開發階段。公司能夠根據客戶需求開展諧波減速器定製開發。第一條諧波減速器產線已經除錯完畢，產能約10萬臺/年，第二條產線正在建設當中。
+
+---
+
+### 2026-07-10 10:45:26  #其他
+
+【杭州市提升防颱風應急響應至Ⅲ級】今天（7月10日）9時，杭州市人民政府防汛防颱抗旱（防低溫雨雪冰凍）指揮部提升防颱風應急響應至Ⅲ級。受颱風“巴威”影響，杭州今晚起出現大風和降雨，請大家提前做好應對措施。杭州市氣象臺7月10日8時50分發布的颱風訊息：今年第9號颱風“巴威”（強颱風級）今天08時中心位於杭州東南方向約1292公里的洋麵上（北緯20.8度、東經127.6度），中心附近最大風力14級，最低氣壓955百帕。預計“巴威”將以每小時20~25公里的速度向北偏西方向移動，強度變化不大，最大可能於11日白天掠過臺灣島北部沿海，並於11日夜間在浙江溫嶺至福建福清一帶沿海登陸。
+
+---
+
+### 2026-07-10 10:43:50  #公司 #國際
+
+【日本福島核電站反恐機密資訊管理有漏洞】日本原子能規制委員會9日通報，東京電力公司福島第一和第二核電站對反恐機密資訊管理不當，導致非涉密人員能輕易接觸到相關資訊。日本原子能規制委員會說，這兩座核電站有多份涉及反恐對策的機密檔案，原本應按規定嚴格管理並存放於指定位置，僅供涉密人員查閱。但經檢查發現，反恐機密檔案儲存於多個部門電腦的共享資料夾中，原本無許可權接觸這些資訊的工作人員也可檢視。（新華社）
+
+---
+
+### 2026-07-10 10:43:18  #國際
+
+韓國特別檢察官請求判處統一教教主13年有期徒刑。
+
+---
+
+### 2026-07-10 10:42:13  #市場 #國際
+
+菲律賓股市指數上漲1%至6287.29點。
+
+---
+
+### 2026-07-10 10:42:04  #Trading Economics #Markets #Singapore #Stock Market #Importance 1
+
+STI Hits Record High, Head for 2nd Weekly Gain — Singapore stocks rose 28 points, or 0.5%, to 5,462 in Friday morning trade, advancing for the seventh consecutive session and hitting a fresh peak, tracking a rally on Wall Street overnight driven by renewed strength in chipmaker stocks. Retail, industrial services, utilities, technology, and financial stocks mainly drove the broader index. However, traders awaited Singapore's preliminary Q2 GDP data, due next week, with the market expecting economic growth to ease to 5.3% after expanding 6.0% in the previous quarter, the strongest pace in 1-1/2 years. Investors also awaited the release of a slew of data from China, including Q2 GDP, industrial production, and June trade figures. Among the notable gainers were Yangzijiang Shipbuilding Holdings (5.9%), Keppel (4.4%), City Developments (1.9%), Hongkong Land Holdings (1.8%), and Sembcorp (1.3%). For the week, the index is on track for a 4.2% surge, which would mark its second consecutive weekly advance.
+
+---
+
+### 2026-07-10 10:41:46  #公司 #市場
+
+【人形機器人概念股活躍，步科股份、三瑞智慧漲超10%】人形機器人概念股活躍，步科股份、三瑞智慧漲超10%，晉拓股份、美格智慧、奮達科技等股漲停。
+
+---
+
+### 2026-07-10 10:40:40  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Stocks Edge Higher, Set for Modest Weekly Rise — Indonesia’s IDX Composite added 18 points, or 0.3%, to 5,932 in early Friday trade, extending momentum from the prior session as Wall Street’s rebound overnight in chip stocks spilled over. Meanwhile, the IMF maintained its April projection for Indonesia’s economy to grow 5% in 2026, even as global uncertainty lingers. On local data, June car sales rose 12% yoy, marking a third consecutive monthly rise and lifting first-half sales 15.9% from a year earlier. Yet optimism was tempered by May retail data, which showed the steepest annual drop in three years as higher non-subsidized fuel prices weighed on consumer spending. Mining services also struggled in H1 2026, pressured by reduced production quotas under current work plans, with contractors awaiting revisions. Still, the market is on track for its first weekly gain in three weeks, up about 0.7% so far. Leading movers included Pertamina Geothermal Energy (3.7%), Vale Indonesia (2.8%), Darma Henwa (2.4%), and Aneka Tambang (2.1%).
 
 ---
 
@@ -19549,161 +19615,5 @@ Thailand's deputy finance minister said the government is considering diversifyi
 ### 2026-07-09 09:28:32  #央行 #日本央行
 
 【日本央行前官員：本輪加息週期終端利率或超2%】日本央行前官員渡邊努週三表示，日本央行可能在今年晚些時候加快加息步伐，並最終將基準利率推高至2%以上，以遏制通脹。
-
----
-
-### 2026-07-09 09:28:17  #MKT News
-
-Guide Infrared shares locked at the daily trading limit from the open after the company said 1H net profit is expected to exceed 1.2 bln yuan, up 6–7x YoY.
-
----
-
-### 2026-07-09 09:28:06  #公司 #市場
-
-【高德紅外一字漲停】高德紅外一字漲停，公司上半年淨利潤預計超12億元，預增6至7倍。
-
----
-
-### 2026-07-09 09:27:44
-
-【美伊衝突再起，石油主題LOF高開】今日早盤，石油主題LOF全線高開，嘉實原油LOF、原油LOF易方達、南方原油LOF漲超5％，石油LOF漲近3％，石油基金LOF、華寶油氣LOF等跟漲。據伊朗媒體報道，駐紮在科威特的美軍軍事基地遭到伊朗的報復性襲擊。美國總統特朗普表示，此前對伊朗的攻擊是為了報復昨天伊朗對船隻的轟炸。
-
----
-
-### 2026-07-09 09:27:34  #其他
-
-【階躍星辰：將釋出全球首款智慧體手機】7月9日，介面新聞獲悉，國產AI大模型獨角獸階躍星辰即將釋出AI終端品牌、及智慧體系統，並表示將同步推出全球首款AI智慧體手機。據悉，階躍星辰計劃於7月13日釋出相關品牌和新一代智慧體戰略。
-
----
-
-### 2026-07-09 09:27:31  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
-
-At the open on July 9, China's Shanghai Composite Index rose 6.67 pts (+0.17%) to 3,977.55; Shenzhen Composite Index rose 98.74 pts (+0.66%) to 15,038.47; CSI 300 Index rose 18.87 pts (+0.40%) to 4,774.40; ChiNext Index rose 46.77 pts (+1.22%) to 3,892.12; STAR 50 Index rose 31.01 pts (+1.54%) to 2,047.24.
-
----
-
-### 2026-07-09 09:27:26  #國際
-
-泰國副財長桑蒂坦·薩提拉泰：在燃料問題上，我們正在考慮多元化選擇。
-
----
-
-### 2026-07-09 09:27:21  #MKT News #Important #Market Regions #Greater China #WTI #Impact bullish #Brent
-
-【US-Iran tensions flare; China-listed oil-themed LOFs open sharply higher】In early trade, China-listed oil-themed LOFs opened sharply higher: Harvest Crude Oil LOF, E Fund Crude Oil LOF and Southern Crude Oil LOF rose over 5%, while a broader oil LOF was up nearly 3%; oil fund LOFs including Huabao Oil & Gas LOF also gained. Iranian media reported a retaliatory strike on a US military base in Kuwait. President Trump said an earlier attack on Iran was retaliation for Iran’s bombing of ships yesterday.
-
----
-
-### 2026-07-09 09:27:07  #國際
-
-美國國務卿魯比奧將於週四美國東部時間中午12點會見沙特駐美國大使。
-
----
-
-### 2026-07-09 09:25:39  #MKT News #Commodities #Precious Metals
-
-Spot silver slid to $58/oz, down 0.54% intraday.
-
----
-
-### 2026-07-09 09:25:32  #MKT News #Important
-
-Bank of Korea Governor Shin said the central bank needs to raise interest rates at an appropriate time.
-
----
-
-### 2026-07-09 09:25:27  #焦點
-
-三大股指高開，滬指漲0.17％，深成指漲0.66％，創業板漲1.22％。
-
----
-
-### 2026-07-09 09:25:21  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-At the open, China’s A-share market: Shanghai Composite +0.17%, Shenzhen Composite Index +0.66%, ChiNext +1.22%; storage chip and oil and gas stocks led gains.
-
----
-
-### 2026-07-09 09:25:19  #央行 #國際
-
-韓國央行行長：需要在適當時機加息。
-
----
-
-### 2026-07-09 09:25:09  #公司 #市場
-
-【智譜高開近3%】智譜高開近3%，公司擬以每股1588港元配售最多1978萬股新H股，於收市價每股1825港元折讓約12.99%。
-
----
-
-### 2026-07-09 09:24:31  #公司 #市場
-
-立訊精密港股上市首日低開0.05%，報63.25港元/股；三環集團港股上市首日平開，報100.3港元/股；鼎泰高科港股上市首日開盤跌超13%，報330港元/股。
-
----
-
-### 2026-07-09 09:23:38  #MKT News #Market Regions #Greater China #00148.HK #Impact bullish #01888.HK #03200.HK
-
-Hong Kong PCB-related stocks opened higher: Kingboard Group (00148.HK) up 6.4%, Kingboard Laminates (01888.HK) up 4.5%, Han's CNC (03200.HK) up nearly 3%.
-
----
-
-### 2026-07-09 09:22:19  #MKT News #Important #02475.HK #01377.HK #Impact bearish
-
-On debut, Luxshare Precision (02475.HK) opened down 0.05%; Dingtai High‑Tech (01377.HK) opened down 13.16%.
-
----
-
-### 2026-07-09 09:21:51  #MKT News #Market Regions #Greater China #Hang Seng Index
-
-The Hang Seng Index (HSI) opened on July 9 (Thu) down 18.12 pts (-0.07%) at 24,181.34; the Hang Seng TECH Index opened up 13.95 pts (+0.29%) at 4,744.97; the Hang Seng China Enterprises Index (HSCEI) opened up 0.27 pts (0.0%) at 8,083.95; the Red Chip Index opened down 9.41 pts (-0.24%) at 3,865.52.
-
----
-
-### 2026-07-09 09:21:19
-
-港股恒指低開跌0.07％，國企指數平開，科指開漲0.29%，儲存概念回暖。
-
----
-
-### 2026-07-09 09:21:16  #MKT News #Important #Market Regions #Greater China #03986.HK #Impact bullish #06809.HK #Hang Seng Index #Impact bearish
-
-Hong Kong open: Hang Seng Index down 0.07%, Hang Seng TECH Index up 0.29%. Storage names rebound: GigaDevice Semiconductor (03986.HK) +5.8%, Lanqi Technology (06809.HK) +4.4%.
-
----
-
-### 2026-07-09 09:21:06  #央行 #中國央行
-
-央行今日開展100億元7天期逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-07-09 09:20:46  #央行 #其他
-
-央行今日開展100億元7天逆回購操作，投標量100億元，中標量100億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-07-09 09:20:45  #MKT News #Important #CNH
-
-PBOC conducted a 7-day reverse repo of 100 bln yuan today; bids 100 bln yuan, allotment 100 bln yuan, rate 1.40%, unchanged from the previous operation.
-
----
-
-### 2026-07-09 09:20:13  #MKT News
-
-Market sources said the U.S. Treasury deputy assistant secretary for domestic finance, Maikena, is expected to depart next week.
-
----
-
-### 2026-07-09 09:20:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed
-
-China's June CPI YoY due in 10 minutes.
-
----
-
-### 2026-07-09 09:19:33  #MKT News #Macro & Rates #USDJPY #Impact bearish
-
-【Ex-BOJ official says terminal rate could exceed 2% in current tightening cycle】Former BOJ official Watanabe Tsutomu said on Wednesday the BOJ could accelerate rate hikes later this year and lift its policy rate above 2% to rein in inflation. He said the terminal peak will likely be higher than most expect, around 2% or slightly above. Watanabe urged a dynamic assessment of policy, saying the terminal rate depends not only on neutral-rate estimates but also on factors such as inflation overshooting before the BOJ clearly tightens. With core inflation approaching the 2% target, he warned the policy board may shift from a previously passive stance to a more proactive position to prevent an overshoot.
 
 ---

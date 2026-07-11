@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-12 05:28:54_
-_本檔包含 3292 則快訊，約 617035 字_
+_更新時間：2026-07-12 06:25:14_
+_本檔包含 3310 則快訊，約 616675 字_
+
+---
+
+### 2026-07-08 10:05:54  #央行 #其他
+
+紐西蘭央行：預計未來幾個季度通脹率將保持在目標以上。
+
+---
+
+### 2026-07-08 10:05:52  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量827億元。
+
+---
+
+### 2026-07-08 10:05:08  #市場 #國際
+
+印尼股指下跌0.8%，報5,941.685點。
+
+---
+
+### 2026-07-08 10:04:38  #央行 #國際
+
+泰國央行會議紀要：不良貸款比率不太可能大幅上升。
+
+---
+
+### 2026-07-08 10:04:35  #市場 #焦點
+
+深證成指跌2.00%，現報14920.092點；上證指數跌0.52%，現報3969.288點；創業板指跌2.16%，現報3827.420點。
+
+---
+
+### 2026-07-08 10:04:32  #央行 #其他
+
+紐西蘭央行：GDP即時預測模型KIWI-GDP目前預測2026年9月季度增長0.6%。
+
+---
+
+### 2026-07-08 10:04:22  #央行 #其他
+
+紐西蘭央行：燃料價格下降將支援支出復甦。
+
+---
+
+### 2026-07-08 10:04:09  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Jump as Tech Leads Rally — The Hang Seng Index jumped 1.9%, or around 466 points, to 23,963 on Wednesday, advancing as technology stocks led broad-based gains despite renewed geopolitical tensions in the Middle East. Sentiment remained resilient after the US launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz, even as the escalation pushed oil prices higher. Risk appetite was supported by continued optimism surrounding artificial intelligence and technology sector, while Hong Kong's robust IPO market added to positive sentiment as Chinese autonomous driving firm Momenta Global was set to debut slightly above its offer price after raising HK$5.89 billion in its initial public offering, underscoring strong investor demand for technology listings. Investors also looked ahead to China's June consumer and producer inflation data due on Thursday. Among the top gainers were Tencent (2.4%), SMIC (2.9%), Lenovo (4.4%), Kuaishou (1.2%), and Xiaomi (2.9%)
+
+---
+
+### 2026-07-08 10:04:07  #央行 #其他
+
+紐西蘭央行：貨幣政策委員會對通脹前景看法不一。
+
+---
+
+### 2026-07-08 10:03:58  #央行 #其他
+
+紐西蘭央行：預計經濟增長將於9月季度恢復。
+
+---
+
+### 2026-07-08 10:03:49  #央行 #國際
+
+泰國央行會議紀要：整體信貸增長步伐緩慢。
+
+---
+
+### 2026-07-08 10:03:42  #央行 #其他
+
+紐西蘭央行會議記錄：當前的官方隔夜拆款利率水平仍具刺激性。
+
+---
+
+### 2026-07-08 10:03:27  #央行 #國際
+
+泰國央行會議紀要：通脹將逐步回落，不太可能長期持續。
+
+---
+
+### 2026-07-08 10:03:26  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Hit New 1-Month Low — The Shanghai Composite edged down 0.2% to around 3,984 on Wednesday, while the Shenzhen Component dropped 1.6% to 14,988, both extending losses for a third consecutive session and hitting new one-month lows, as renewed tensions in the Middle East weighed on broader Asian markets and dampened risk appetite. The US escalated pressure on Iran by conducting new airstrikes and rescinding a sanctions waiver permitting Tehran to export oil to global markets. The latest move was seen as the most significant threat yet to the interim agreement signed by US and Iranian leaders on June 17, casting doubt on ongoing negotiations aimed at securing a permanent peace deal within 60 days of the accord. Among individual stocks, losses were posted in Industrial and Commercial Bank of China (-0.6%), China Construction Bank (-0.6%), Zijin Mining Group (-1.8%), CATL (-1.2%), NAURA Technology (-2.4%), and Luxshare Precision Industry (-2.6%).
+
+---
+
+### 2026-07-08 10:03:19  #市場 #焦點
+
+南向資金淨買入額達50億港元。
+
+---
+
+### 2026-07-08 10:03:16  #央行 #其他
+
+紐西蘭央行：委員會注意到近幾周金融狀況有所緩解。
+
+---
+
+### 2026-07-08 10:03:06  #央行 #其他
+
+紐西蘭央行：預計年度整體通脹率將在2026年6月當季達到3.9%的峰值，隨後在2026年9月當季回落至3.3%。
+
+---
+
+### 2026-07-08 10:02:51  #央行 #資料
+
+紐西蘭央行：官方現金利率可能進一步提高，但時間尚不確定。
+
+---
+
+### 2026-07-08 10:02:42
+
+創業板指跌超2％，深證成指跌1.9％，滬指跌0.49％，全市場超3400只個股下跌。
+
+---
+
+### 2026-07-08 10:02:33  #市場 #焦點
+
+北證50日內跌幅達2.05%，成分股中，矽烷科技跌8.56%，三協電機跌7.22%，華嶺股份跌6.96%，奧迪威跌6.90%。
+
+---
+
+### 2026-07-08 10:02:17  #央行 #國際
+
+泰國央行會議紀要：寬鬆的貨幣政策，加之經濟刺激措施，在短期內為經濟提供了支撐。
+
+---
+
+### 2026-07-08 10:02:15  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Rises to 1-Month High — Australia’s 10-year government bond yield climbed to around 4.9%, hitting a four-week high as global oil prices jumped amid renewed US-Iran tensions. The US launched a fresh wave of strikes against Iran and revoked a license allowing the country to sell oil following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. Meanwhile, RBA Assistant Governor Sarah Hunter said recent oil price shocks had weakened consumer and business confidence but noted the Australian economy remained resilient. She also reiterated that the central bank would act as needed to return inflation to target and maintain sustainable full employment. Still, markets continued to expect the central bank to keep its cash rate unchanged in August after delivering three rate hikes this year, while the odds of a November hike has eased to around 40%.
+
+---
+
+### 2026-07-08 10:02:08  #央行 #其他
+
+紐西蘭元延續漲勢，紐西蘭央行一如預期加息。
+
+---
+
+### 2026-07-08 10:01:51  #央行 #國際
+
+泰國央行貨幣政策會議紀要：旅遊業預計將逐步復甦。
+
+---
+
+### 2026-07-08 10:01:50  #市場 #焦點
+
+恒生指數漲超2%，現報23967.111點；恒生科技指數現漲2.065%。
+
+---
+
+### 2026-07-08 10:01:49  #市場 #焦點
+
+創業板指跌2.01%，現報3833.437點；上證指數跌0.46%，現報3971.746點；深證成指跌1.93%，現報14931.009點。
+
+---
+
+### 2026-07-08 10:01:44  #國際
+
+泰國貨幣政策委員會：當前政策利率有利於經濟復甦。
+
+---
+
+### 2026-07-08 10:01:17  #央行 #其他
+
+紐西蘭央行宣告：儘管能源價格已有所下降，但衝擊的影響仍將持續一段時間，中期通脹壓力前景依然不確定。
+
+---
+
+### 2026-07-08 10:01:08  #央行 #市場
+
+紐西蘭央行：中期通脹壓力前景取決於近期成本增加在多大程度上傳導至價格上漲。
+
+---
+
+### 2026-07-08 10:00:57  #央行 #資料
+
+紐西蘭央行：未來的官方現金利率決定將取決於新資料、定價行為和經濟活動強度如何影響中期通脹壓力。
+
+---
+
+### 2026-07-08 10:00:51  #央行 #其他
+
+紐西蘭央行：由於通脹仍高於目標且經濟活動預計將增強，可能需要進一步減少貨幣刺激措施，以使通脹回到2%的目標中點。
+
+---
+
+### 2026-07-08 10:00:47  #MKT News #Important
+
+Hong Kong AI stocks extended gains: Kingdee International (00268.HK) rose over 10%, Shanghai Fudan (01385.HK) nearly 9%, Kingsoft Cloud (03896.HK) nearly 7%, and Lenovo Group (00992.HK) and Zhipu AI (02513.HK) rose more than 4%.
 
 ---
 
@@ -19736,89 +19928,5 @@ LG能源第二季度營業利潤為1133億韓元，低於預期的2106.6億韓�
 ### 2026-07-07 07:44:51  #國際
 
 【日本將設“海外統籌局” 凸顯海外擴張企圖】據日本方面6日訊息，日本防衛省計劃設立全新的海外統籌局。該部門的設立預計將對日本海外相關防衛事務的協調、統籌運作產生直接影響，後續相關職能配置、人員安排等具體細節還有待官方進一步對外公佈。對此，中國社會科學院日本研究所研究員孟曉旭分析指出，海外統籌局的設立，將對地區安全格局與全球戰略穩定產生不容忽視的負面影響。
-
----
-
-### 2026-07-07 07:44:36  #觀點 #國際
-
-【熊貓債發行升溫 中國經濟獲投“信任票”】隨著中國國際經濟地位的穩步提升與國際貨幣向多元化趨勢逐漸演進，人民幣資產的融資吸引力正持續增強，集中體現在今年以來熊貓債市場發行熱度的顯著攀升。企業預警通資料顯示，截至7月6日，年內熊貓債累計發行規模已達1662.25億元，為去年全年發行總規模的九成。目前，業內人士普遍看好2026年全年熊貓債發行創歷史新高。當前，熊貓債發行主體廣泛覆蓋波蘭、葡萄牙、埃及、匈牙利等主權機構，亞開行、亞投行、新開發銀行等國際開發機構，德意志銀行、摩根士丹利、大華銀行等國際大型金融機構，賓士、拜耳等跨國企業。（證券時報）
-
----
-
-### 2026-07-07 07:43:32  #MKT News #Commodities #Energy
-
-MOODY'S Ratings says the Iran conflict further underscores Australia’s role as a key liquefied natural gas (LNG) supplier, though policy risk to that role is rising.
-
----
-
-### 2026-07-07 07:42:22  #國際
-
-穆迪評級：儘管政策風險上升，伊朗衝突仍鞏固了澳大利亞作為關鍵液化天然氣供應國的地位。
-
----
-
-### 2026-07-07 07:41:01  #市場
-
-Fiserv股價在盤後交易中上漲4.3%。
-
----
-
-### 2026-07-07 07:39:08  #宏觀 #市場 #觀點
-
-【華泰證券：看好受益AI產品迭代浪潮的二手消費電子細分賽道】華泰證券認為二手經濟並非消費降級催生的階段風口，而是經濟發展及消費理念趨於成熟後的時代趨向，當前正處於供需共振、政策支援與商業模式持續最佳化的黃金髮展期：供給端，過去30年經濟高速發展儲備的優質閒置商品，疊加宏觀經濟提質換擋期居民“斷舍離”意願增強，為市場提供了充裕供給和週轉效率。需求側，理性務實和質價比消費觀深化亦帶動了二手渠道滲透率提升。政策端，國家密集出臺“以舊換新”與迴圈經濟相關政策，為行業合規、高速發展注入強心劑。基於此，中觀維度看好受益AI產品迭代浪潮的二手消費電子細分賽道，具備全產業鏈平臺能力的龍頭有望憑藉品牌信任背書和規模壁壘實現強者恆強。
-
----
-
-### 2026-07-07 07:38:32  #Trading Economics #Economy #Japan #Household Spending #Importance 1
-
-Japan Personal Spending Drops the Least in 6 Months — Household spending in Japan fell 0.4% yoy in May 2026, following a 0.5% decline in the prior month and beating market expectations for a 2.5% fall. It marked the sixth straight month of contraction but the softest in the sequence, suggesting consumer spending was showing some resilience despite persistent inflation and weak real wage growth. On a seasonally adjusted monthly basis, household expenditure rose 3.7%, accelerating from 1.3% in April and exceeding forecasts of 1.4%. It was the fastest monthly rise since last November.
-
----
-
-### 2026-07-07 07:37:09  #宏觀 #國際
-
-【挪威首相斯特勒會見王毅】當地時間6日，挪威首相斯特勒在奧斯陸會見中共中央政治局委員、外交部長王毅。斯特勒請王毅轉達對中國領導人的良好祝願，表示挪中關係建立在相互尊重、坦誠相待基礎之上，建交以來總體發展順利。挪方欽佩中國近年來取得的巨大發展成就，特別是讓數億人擺脫貧困，這一成就得到國際社會高度評價。挪方高度重視中國的大國地位，期待同中方延續高層交往勢頭，拓展綠色經濟、人工智慧等新興領域合作，加強在國際和地區事務中的溝通協調，支援聯合國發揮核心作用，維護全球多邊體系。挪方多年來積極投身國際發展援助，願繼續為促進南北合作作出有力貢獻。（央視新聞）
-
----
-
-### 2026-07-07 07:36:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225
-
-【Japan May real wages rise for fifth month; pace slows】Japan's real wages rose 1.4% YoY in May, the fifth straight monthly increase, but slowed from April's revised 2.0% as consumer inflation accelerated. Nominal average cash earnings climbed 3.2% YoY to ¥311,165 (≈$1,918), below April's revised 3.6% gain. Regular wages rose 3.0% YoY (April revised 3.3%); overtime pay rose 2.9% (April revised 4.8%). The impact of the Iran war is beginning to feed into consumer prices; together with yen weakness and earlier energy-driven price rises, living costs may continue to rise. The Bank of Japan raised rates last month to a 31-year high and reiterated that sustained wage and price increases are a precondition for further tightening.
-
----
-
-### 2026-07-07 07:36:46  #其他
-
-【沃爾瑪與山姆會員店宣佈在全美降價】沃爾瑪及旗下的山姆會員店當地時間7月6日宣佈，將在全美範圍內對數千款夏季熱門商品及日常必需品實施降價。
-
----
-
-### 2026-07-07 07:35:18  #公司
-
-【全新自主品牌碳-14核電池釋出 】6日，由西北師範大學主辦、甘肅燭龍科技有限公司承辦的“千紀啟源·核能革新”自主可控碳-14核電池全鏈條技術成果釋出會在蘭州舉行。會上正式對外發布全新自主品牌“千紀源 天樞碳-14核電池”與“千紀源 能樞碳化矽換能器”兩大核心科研成果。據瞭解，相較於2024年11月釋出的“燭龍一號”微型核電池工程樣機，“千紀源”系列成果實現了五大突破，涵蓋全新放射源適配體系、高效換能技術、三維疊層封裝結構、智慧儲能電源管理系統、高精度感測與無線傳輸系統，構建了國產化自主可控的技術體系與智慧財產權體系。
-
----
-
-### 2026-07-07 07:34:33  #MKT News #Market Regions #Greater China
-
-【Zi River in Hunan records 2026 Flood No.2】Heavy rain pushed the water level at the Shaoyang gauge (Shaoyang, Hunan) on the Zi River to the warning level of 214.00 m at 05:30 on July 7. Under main-river flood numbering rules, the event is designated Zi River 2026 No.2 flood.
-
----
-
-### 2026-07-07 07:34:08  #觀點
-
-【中信建投：投資視窗可能出現在降息尾聲、寬鬆預期充分定價、DR007企穩或資金利率回升階段】中信建投指出，國內浮息債規模不大但結構集中，當前以政策性金融債為主，掛鉤基準以DR007和LPR為核心。浮息債相對固息債的優勢並非無條件成立，關鍵取決於無風險利率與掛鉤基準利率的組合變化：當DR007或LPR上行並帶動票息重定價時，浮息債相對佔優；若無風險利率上行而基準利率下行或低位執行，浮息債承壓加劇。當前LPR仍處降息週期、DR007缺乏明顯上行基礎，短期不宜高估浮息債配置價值。後續更順暢的投資視窗，可能出現在降息尾聲、寬鬆預期充分定價、DR007企穩或資金利率回升階段。
-
----
-
-### 2026-07-07 07:33:50  #Trading Economics #Economy #Japan #Wage Growth #Importance 1
-
-Japan Nominal Wage Growth Below Forecasts — Average cash earnings in Japan increased by 3.2% YoY in May 2026, slowing from an upwardly revised 3.6% rise in the previous month and coming in below market forecasts of 3.4%. It was the 53rd straight month of growth in nominal wages, though it slowed from the fastest pace in 16 months recorded in April.
-
----
-
-### 2026-07-07 07:33:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Pressured by Rising Supply — Brent traded around $72 per barrel on Tuesday, hovering near its lowest level in more than four months as signs of rising supply continued to weigh on prices, while vessel traffic through the Strait of Hormuz kept recovering. Reports showed that at least eight Japan-linked ships exited the strategic waterway via a route near Iran, including five supertankers capable of carrying 2 million barrels of crude each. Meanwhile, Saudi Arabian oil giant Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 a barrel to a $1.50 discount against the regional benchmark, reflecting softer market conditions. The last two times the company offered the grade at a discount were during oil price wars in 2020 and 2015. The price cut came after OPEC+ members, led by Saudi Arabia, agreed over the weekend to increase production quotas for next month, reinforcing expectations of stronger global supply.
 
 ---

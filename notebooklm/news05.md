@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 05:28:54_
-_本檔包含 3145 則快訊，約 616934 字_
+_更新時間：2026-07-12 06:25:14_
+_本檔包含 3133 則快訊，約 616539 字_
+
+---
+
+### 2026-07-07 07:44:36  #觀點 #國際
+
+【熊貓債發行升溫 中國經濟獲投“信任票”】隨著中國國際經濟地位的穩步提升與國際貨幣向多元化趨勢逐漸演進，人民幣資產的融資吸引力正持續增強，集中體現在今年以來熊貓債市場發行熱度的顯著攀升。企業預警通資料顯示，截至7月6日，年內熊貓債累計發行規模已達1662.25億元，為去年全年發行總規模的九成。目前，業內人士普遍看好2026年全年熊貓債發行創歷史新高。當前，熊貓債發行主體廣泛覆蓋波蘭、葡萄牙、埃及、匈牙利等主權機構，亞開行、亞投行、新開發銀行等國際開發機構，德意志銀行、摩根士丹利、大華銀行等國際大型金融機構，賓士、拜耳等跨國企業。（證券時報）
+
+---
+
+### 2026-07-07 07:43:32  #MKT News #Commodities #Energy
+
+MOODY'S Ratings says the Iran conflict further underscores Australia’s role as a key liquefied natural gas (LNG) supplier, though policy risk to that role is rising.
+
+---
+
+### 2026-07-07 07:42:22  #國際
+
+穆迪評級：儘管政策風險上升，伊朗衝突仍鞏固了澳大利亞作為關鍵液化天然氣供應國的地位。
+
+---
+
+### 2026-07-07 07:41:01  #市場
+
+Fiserv股價在盤後交易中上漲4.3%。
+
+---
+
+### 2026-07-07 07:39:08  #宏觀 #市場 #觀點
+
+【華泰證券：看好受益AI產品迭代浪潮的二手消費電子細分賽道】華泰證券認為二手經濟並非消費降級催生的階段風口，而是經濟發展及消費理念趨於成熟後的時代趨向，當前正處於供需共振、政策支援與商業模式持續最佳化的黃金髮展期：供給端，過去30年經濟高速發展儲備的優質閒置商品，疊加宏觀經濟提質換擋期居民“斷舍離”意願增強，為市場提供了充裕供給和週轉效率。需求側，理性務實和質價比消費觀深化亦帶動了二手渠道滲透率提升。政策端，國家密集出臺“以舊換新”與迴圈經濟相關政策，為行業合規、高速發展注入強心劑。基於此，中觀維度看好受益AI產品迭代浪潮的二手消費電子細分賽道，具備全產業鏈平臺能力的龍頭有望憑藉品牌信任背書和規模壁壘實現強者恆強。
+
+---
+
+### 2026-07-07 07:38:32  #Trading Economics #Economy #Japan #Household Spending #Importance 1
+
+Japan Personal Spending Drops the Least in 6 Months — Household spending in Japan fell 0.4% yoy in May 2026, following a 0.5% decline in the prior month and beating market expectations for a 2.5% fall. It marked the sixth straight month of contraction but the softest in the sequence, suggesting consumer spending was showing some resilience despite persistent inflation and weak real wage growth. On a seasonally adjusted monthly basis, household expenditure rose 3.7%, accelerating from 1.3% in April and exceeding forecasts of 1.4%. It was the fastest monthly rise since last November.
+
+---
+
+### 2026-07-07 07:37:09  #宏觀 #國際
+
+【挪威首相斯特勒會見王毅】當地時間6日，挪威首相斯特勒在奧斯陸會見中共中央政治局委員、外交部長王毅。斯特勒請王毅轉達對中國領導人的良好祝願，表示挪中關係建立在相互尊重、坦誠相待基礎之上，建交以來總體發展順利。挪方欽佩中國近年來取得的巨大發展成就，特別是讓數億人擺脫貧困，這一成就得到國際社會高度評價。挪方高度重視中國的大國地位，期待同中方延續高層交往勢頭，拓展綠色經濟、人工智慧等新興領域合作，加強在國際和地區事務中的溝通協調，支援聯合國發揮核心作用，維護全球多邊體系。挪方多年來積極投身國際發展援助，願繼續為促進南北合作作出有力貢獻。（央視新聞）
+
+---
+
+### 2026-07-07 07:36:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225
+
+【Japan May real wages rise for fifth month; pace slows】Japan's real wages rose 1.4% YoY in May, the fifth straight monthly increase, but slowed from April's revised 2.0% as consumer inflation accelerated. Nominal average cash earnings climbed 3.2% YoY to ¥311,165 (≈$1,918), below April's revised 3.6% gain. Regular wages rose 3.0% YoY (April revised 3.3%); overtime pay rose 2.9% (April revised 4.8%). The impact of the Iran war is beginning to feed into consumer prices; together with yen weakness and earlier energy-driven price rises, living costs may continue to rise. The Bank of Japan raised rates last month to a 31-year high and reiterated that sustained wage and price increases are a precondition for further tightening.
+
+---
+
+### 2026-07-07 07:36:46  #其他
+
+【沃爾瑪與山姆會員店宣佈在全美降價】沃爾瑪及旗下的山姆會員店當地時間7月6日宣佈，將在全美範圍內對數千款夏季熱門商品及日常必需品實施降價。
+
+---
+
+### 2026-07-07 07:35:18  #公司
+
+【全新自主品牌碳-14核電池釋出 】6日，由西北師範大學主辦、甘肅燭龍科技有限公司承辦的“千紀啟源·核能革新”自主可控碳-14核電池全鏈條技術成果釋出會在蘭州舉行。會上正式對外發布全新自主品牌“千紀源 天樞碳-14核電池”與“千紀源 能樞碳化矽換能器”兩大核心科研成果。據瞭解，相較於2024年11月釋出的“燭龍一號”微型核電池工程樣機，“千紀源”系列成果實現了五大突破，涵蓋全新放射源適配體系、高效換能技術、三維疊層封裝結構、智慧儲能電源管理系統、高精度感測與無線傳輸系統，構建了國產化自主可控的技術體系與智慧財產權體系。
+
+---
+
+### 2026-07-07 07:34:33  #MKT News #Market Regions #Greater China
+
+【Zi River in Hunan records 2026 Flood No.2】Heavy rain pushed the water level at the Shaoyang gauge (Shaoyang, Hunan) on the Zi River to the warning level of 214.00 m at 05:30 on July 7. Under main-river flood numbering rules, the event is designated Zi River 2026 No.2 flood.
+
+---
+
+### 2026-07-07 07:34:08  #觀點
+
+【中信建投：投資視窗可能出現在降息尾聲、寬鬆預期充分定價、DR007企穩或資金利率回升階段】中信建投指出，國內浮息債規模不大但結構集中，當前以政策性金融債為主，掛鉤基準以DR007和LPR為核心。浮息債相對固息債的優勢並非無條件成立，關鍵取決於無風險利率與掛鉤基準利率的組合變化：當DR007或LPR上行並帶動票息重定價時，浮息債相對佔優；若無風險利率上行而基準利率下行或低位執行，浮息債承壓加劇。當前LPR仍處降息週期、DR007缺乏明顯上行基礎，短期不宜高估浮息債配置價值。後續更順暢的投資視窗，可能出現在降息尾聲、寬鬆預期充分定價、DR007企穩或資金利率回升階段。
+
+---
+
+### 2026-07-07 07:33:50  #Trading Economics #Economy #Japan #Wage Growth #Importance 1
+
+Japan Nominal Wage Growth Below Forecasts — Average cash earnings in Japan increased by 3.2% YoY in May 2026, slowing from an upwardly revised 3.6% rise in the previous month and coming in below market forecasts of 3.4%. It was the 53rd straight month of growth in nominal wages, though it slowed from the fastest pace in 16 months recorded in April.
+
+---
+
+### 2026-07-07 07:33:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Pressured by Rising Supply — Brent traded around $72 per barrel on Tuesday, hovering near its lowest level in more than four months as signs of rising supply continued to weigh on prices, while vessel traffic through the Strait of Hormuz kept recovering. Reports showed that at least eight Japan-linked ships exited the strategic waterway via a route near Iran, including five supertankers capable of carrying 2 million barrels of crude each. Meanwhile, Saudi Arabian oil giant Saudi Aramco cut the price of its Arab Light crude for Asian buyers next month by $11 a barrel to a $1.50 discount against the regional benchmark, reflecting softer market conditions. The last two times the company offered the grade at a discount were during oil price wars in 2020 and 2015. The price cut came after OPEC+ members, led by Saudi Arabia, agreed over the weekend to increase production quotas for next month, reinforcing expectations of stronger global supply.
 
 ---
 
@@ -18880,161 +18964,5 @@ Trump said he would wait out the storm and would not allow rain to interrupt the
 ### 2026-07-05 06:34:52  #國際
 
 伊朗革命衛隊成員：穆傑塔巴要求參加其父在馬什哈德的葬禮，但其安保團隊出於擔心其行蹤被追蹤以及藏身之處暴露而拒絕了這一想法。
-
----
-
-### 2026-07-05 06:23:06  #其他 #焦點
-
-【今年前5個月“新三樣”出口同比增長27.7%】據青島海關統計，作為全國綠色低碳高質量發展先行區，今年前5個月，山東綠色低碳高質量發展先行區“新三樣”出口61.1億元，同比增長27.7%。其中，電動汽車、鋰離子蓄電池、光伏產品分別出口37億元、13億元、11.1億元，同比分別增長16%、28.8%、89.3%。
-
----
-
-### 2026-07-05 06:16:17  #MKT News
-
-【Israeli strikes in northern and central Gaza kill two Palestinians】State media reported two Palestinians were killed by Israeli drone strikes in Gaza City and the Jabalia refugee camp. Multiple strikes across northern and central Gaza wounded several others, some seriously.
-
----
-
-### 2026-07-05 06:14:56  #MKT News
-
-【New Jersey reports at least 19 suspected heat-related deaths since July 2, health commissioner says】New Jersey Health Commissioner Renard Washington said the state has reported at least 19 suspected heat-related deaths since July 2. Victims’ ages and locations varied; many were found in homes without air conditioning and several were discovered outdoors, on streets or in parked vehicles. Washington said the fatalities are not limited to the elderly and that heat-related emergency visits have risen this week. He urged residents to stay hydrated, seek cooling and avoid prolonged outdoor exposure.
-
----
-
-### 2026-07-05 06:14:38  #焦點 #國際
-
-【美國新澤西州報告19起“疑似高溫相關”死亡病例】當地時間7月4日，美國新澤西州衛生廳廳長雷納德·華盛頓表示，自7月2日以來，該州已報告至少19起“疑似高溫相關”死亡病例。雷納德·華盛頓稱，死者年齡和所處環境各不相同，其中許多人被發現時身處沒有空調的家中，也有少數人在住所外、街頭或停放的車輛內被發現。他強調，死者並非只有老年人，也包括較年輕的成年人。雷納德·華盛頓還表示，本週以來，新澤西州因高溫相關疾病就醫的人數也出現上升。他呼籲居民保持補水、避暑，避免長時間待在戶外。（央視新聞）
-
----
-
-### 2026-07-05 06:10:17  #國際
-
-以色列襲擊加沙北部和中部造成兩人死亡。
-
----
-
-### 2026-07-05 06:06:48  #公司
-
-英國考慮強制海外公司披露遊說活動。
-
----
-
-### 2026-07-05 06:03:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
-
-【China's express volume tops 100 billion items YTD, milestone hit nine days earlier than last year】State Post Bureau monitoring shows China's express delivery volume exceeded 100 billion items as of June 30, reaching the milestone nine days earlier than in 2025. Ongoing consumption-support measures have sustained retail growth and shifted spending patterns, expanding parcel demand. The bureau says the industry is refocusing from pure volume growth to quality improvement and sustainable scale; continued policy implementation and emerging new drivers should strengthen postal and courier services' role in logistics, supporting economic circulation and higher-quality growth.
-
----
-
-### 2026-07-05 05:59:14  #其他 #焦點
-
-中央氣象臺7月5日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-07-05 05:58:38  #其他
-
-中央氣象臺7月5日06時繼續釋出強對流天氣黃色預警。
-
----
-
-### 2026-07-05 05:56:24  #MKT News
-
-Politico reports Paul Pelosi, husband of former US House Speaker Nancy Pelosi, struck a parked vehicle in Napa County, California, and is facing hit-and-run charges.
-
----
-
-### 2026-07-05 05:50:11  #MKT News #DXY #Impact mixed #S&P500 #XAUUSD
-
-【Putin briefs Trump on battlefield; Trump offers to continue mediation】Russian presidential aide Ushakov said Putin briefed Trump on the battlefield, asserting Russian forces are steadily advancing along the front and liberating settlements, including Konstantinovka, which Ushakov called a key stage in reclaiming Donetsk People’s Republic territory. Ushakov said Kyiv and its European backers are betting on prolonging and escalating the conflict and accused them of conducting terrorist attacks against civilians. Trump said he is willing to help secure a swift, peaceful end to the fighting and that envoys Witkoff and son‑in‑law Kushner stand ready to travel to Moscow when appropriate to continue mediation.
-
----
-
-### 2026-07-05 05:39:12  #MKT News
-
-Kremlin says Putin invited Trump to visit Russia during a phone call.
-
----
-
-### 2026-07-05 05:36:59  #國際
-
-【以方稱內塔尼亞胡近期將與特朗普會面】以色列總理辦公室4日晚發表宣告稱，以總理內塔尼亞胡此前一天與美國總統特朗普通電話，雙方同意於近期在美國會面。 宣告說，內塔尼亞胡向特朗普祝賀美國獨立250週年，並稱以色列“非常珍視兩國之間的緊密聯絡”。 據以色列第12頻道電視臺4日報道，特朗普當天證實內塔尼亞胡請求在白宮與他會面，會面時間最早可能是下週。特朗普還說，他與內塔尼亞胡“相處很好”，而內塔尼亞胡也知道“誰是老大”。 報道稱，如果內塔尼亞胡最終成行，將是他自今年2月到訪白宮與特朗普會面、向美方提出對伊朗開戰計劃以來兩人再次見面。（新華社）
-
----
-
-### 2026-07-05 05:33:53  #MKT News
-
-Russian presidential aide USHAKOV said President Putin's talks with Trump were pragmatic and constructive.
-
----
-
-### 2026-07-05 05:33:35  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-Russian presidential aide Ushakov said US presidential envoy Witkoff and Trump son-in-law Kushner will continue to assist peace efforts and are prepared to visit Moscow.
-
----
-
-### 2026-07-05 05:33:03  #MKT News
-
-【Russia responds to Zelenskiy proposal to meet Putin】On the 4th, Russia said Ukrainian President Zelenskiy earlier suggested that if the Donetsk city of Konstantinovka were under Russian control, President Putin could meet him there. Kremlin spokesman Dmitry Peskov said Konstantinovka is now fully under Russian control and that Moscow welcomes Zelenskiy’s stated willingness to come to Russia. Peskov added that if Zelenskiy is prepared to make a "major and responsible decision," he may travel to Moscow, noting Russia’s capital is Moscow rather than Konstantinovka. Putin has previously said on multiple occasions he is willing to meet Zelenskiy in Moscow.
-
----
-
-### 2026-07-05 05:32:43  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Russian presidential aide Ushakov said Trump offered to help reach a solution to the Ukraine conflict ahead of the NATO summit.
-
----
-
-### 2026-07-05 05:32:37  #國際
-
-【俄方回應澤連斯基與普京會面提議】據俄羅斯方面4日訊息，烏克蘭總統澤連斯基當天稍早前稱，如果頓涅茨克重鎮康斯坦丁諾夫卡在俄方控制之下，俄羅斯總統普京可以在此與他見面。對此，俄總統新聞秘書佩斯科夫回應稱，康斯坦丁諾夫卡已完全轉由俄方控制，如果澤連斯基以這樣的方式表達來俄意願，俄方表示歡迎。佩斯科夫表示，一旦澤連斯基願意作出“重大且負責任的決定”，就可以前往莫斯科，因為俄羅斯首都是莫斯科，而不是康斯坦丁諾夫卡。普京此前已多次表示願在莫斯科與澤連斯基會面。（央視新聞）
-
----
-
-### 2026-07-05 05:32:16  #國際
-
-俄羅斯總統普京致電特朗普，並邀請其訪問俄羅斯。
-
----
-
-### 2026-07-05 05:31:50  #MKT News
-
-Russian presidential aide Ushakov said Putin provided Trump with an accurate assessment of the battlefield situation in the Ukraine conflict.
-
----
-
-### 2026-07-05 05:31:07  #MKT News
-
-Ushakov said Putin and US President Trump spoke for 1 hour 25 minutes on Saturday.
-
----
-
-### 2026-07-05 05:30:27  #國際
-
-克里姆林宮助理烏沙科夫：普京與特朗普的會談務實且富有建設性。
-
----
-
-### 2026-07-05 05:30:18  #國際
-
-克里姆林宮助理烏沙科夫：普京就烏克蘭衝突中的戰場局勢向特朗普作出了準確評估。
-
----
-
-### 2026-07-05 05:30:09  #國際
-
-克里姆林宮助理烏沙科夫：美國特使威特科夫與庫什納將繼續協助推進和平程序，二人已做好前往莫斯科的準備。
-
----
-
-### 2026-07-05 05:30:00  #國際
-
-克里姆林宮助理烏沙科夫：特朗普在土耳其北約峰會召開前主動提出願幫助促成烏克蘭衝突的和解方案。
-
----
-
-### 2026-07-05 05:29:49  #國際
-
-克里姆林宮助理烏沙科夫表示，普京與特朗普週六進行了時長1小時25分鐘的通話。
 
 ---
