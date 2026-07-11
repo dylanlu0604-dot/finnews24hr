@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-11 22:11:58",
-  "count": 16328,
+  "updated": "2026-07-11 22:15:57",
+  "count": 16331,
   "items": [
+    {
+      "id": "4982276",
+      "time": "2026-07-11 22:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《功夫女足》 預測票房上調，預測總票房18.65億。"
+    },
+    {
+      "id": "mkt:019f5187-c42b-7aab-8d3e-ace03d39d80f",
+      "time": "2026-07-11 22:14:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reported a regional source said parties are discussing a possible joint statement to fully open the Strait of Hormuz \"central corridor\" (in international waters) and affirm freedom of navigation."
+    },
+    {
+      "id": "mkt:019f5187-4b44-7aab-8d3e-a1b72eb674c8",
+      "time": "2026-07-11 22:14:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reports, citing diplomats, that Qatari officials are attending talks in Muscat between Iran and Oman on issues related to the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f5186-b437-7aab-8d3e-9c4725256080",
+      "time": "2026-07-11 22:13:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukrainian official: Russian refineries increasingly depleted, fighting spreading to sea】Ukrainian Interior Ministry adviser Anton Gerashchenko said Russia’s operating refineries are increasingly depleted and hostilities have spread to maritime routes. After a series of strikes on Russian vessels, Moscow has suspended navigation on the Azov-Don waterway and the Kerch Strait, cutting the link between the Sea of Azov and the Black Sea. Gerashchenko said the Azov-Don route is a key conduit for Russian military logistics, cargo transport, port maintenance and the circumvention of sanctions for oil products; its suspension disrupts a primary export and supply corridor used to ship seized goods and generate revenue that funds procurement of weapons including Iskander missiles and KAB-guided bombs. He identified Taganrog and Azov ports and a ‘shadow fleet’ network as implicated in the trade channel."
+    },
+    {
+      "id": "4982275",
+      "time": "2026-07-11 22:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：卡達官員正在參加伊朗和阿曼在馬斯喀特就霍爾木茲海峽問題舉行的會談。雙方正在討論一項可能發表的宣告，旨在全面開放霍爾木茲海峽位於國際水域的“中間航道”，以實現完全自由通行。"
+    },
     {
       "id": "4982274",
       "time": "2026-07-11 22:10:34",
@@ -148926,29 +148975,6 @@
         "MKT News"
       ],
       "text": "【Iran conservative bloc fractures; new supreme leader’s absolute authority reportedly diluted】The New York Times reports Iran’s traditional conservative–reformist divide has been upended after the assassination of former supreme leader Khamenei, with the conservative camp splitting into pragmatists who favor ending hostility with the U.S. and opening the economy, and hardliners who reject concessions (including on nuclear issues) and advocate prolonging the war. Four senior Iranian officials and two IRGC members told the paper that public disagreements mask deeper backstage ruptures as factions compete to win the allegiance of new supreme leader Mujtaba. Pragmatists — reportedly including senior IRGC generals, parliament speaker Qalibaf, President Pezeshkian and national security council secretary Gen. Zolghadr — have gained the upper hand and have pushed for accepting a ceasefire, direct talks with U.S. Vice President Vance and an agreement with Trump. IRGC commanders have consolidated de facto governing power since the war began, and Deputy Vice President for Administrative Affairs Mohammad-Jafar Ghaempanah said the new supreme leader does not have final decision authority, indicating a shift toward more collective decisionmaking."
-    },
-    {
-      "id": "mkt:019f2d7c-0dc9-7aab-8c9d-678bc90af148",
-      "time": "2026-07-04 22:15:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US-Iran peace deal releases large crude volumes, reviving global oversupply concerns】Oil prices fell across the board after a US-Iran peace deal freed substantial crude supplies that demand cannot absorb. Less than three months ago global physical crude benchmarks hit record highs, and until weeks ago industry executives warned inventories were at extremely low levels amid the Iran crisis. Analysts from Morgan Stanley to Goldman Sachs this week warned of a risk of supply overhang next year; Energy Aspects head of oil research Kit Haines said market sentiment is overwhelmingly bearish. Persian Gulf suppliers had begun ramping shipments before the June MOU reopening the Strait of Hormuz, and in the weeks after the deal more than 60 mln barrels of oil that had been trapped by the war flowed into the market."
-    },
-    {
-      "id": "mkt:019f2d78-e362-7aab-8c9d-58c6906348e6",
-      "time": "2026-07-04 22:12:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Egypt central bank: M2 money supply rose 19.6% YoY in May."
     }
   ]
 }
