@@ -1,7 +1,23 @@
 {
   "date": "2026-07-11",
-  "count": 458,
+  "count": 460,
   "items": [
+    {
+      "id": "4982005",
+      "time": "2026-07-11 09:51:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博思軟體完成雲南區域業務整合 博思智合揭牌】博思軟體集團旗下智合力興與雲南博思完成深度整合，全新經營主體博思智合在昆明揭牌。此次合併是集團深化西南區域戰略佈局的重要舉措，標誌著雲南屬地業務從分散協同邁向一體化運營。"
+    },
+    {
+      "id": "mkt:019f4ede-7033-7aab-8d3b-2b006f921af3",
+      "time": "2026-07-11 09:50:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Centers for Disease Control and Prevention says a U.S. citizen in the Democratic Republic of Congo has tested positive for Bundibugyo ebolavirus."
+    },
     {
       "id": "4982004",
       "time": "2026-07-11 09:49:41",
