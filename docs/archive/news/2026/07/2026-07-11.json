@@ -1,7 +1,23 @@
 {
   "date": "2026-07-11",
-  "count": 447,
+  "count": 449,
   "items": [
+    {
+      "id": "4981996",
+      "time": "2026-07-11 09:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“巴威”突然“二段進化”？中央氣象臺首席預報員解讀關鍵變數】颱風“巴威”為啥忽強忽弱？中央氣象臺首席預報員王皘表示，颱風“巴威”在減弱為颱風級後維持了一段時間。在此期間，其中心及其附近區域的對流結構開始重組，並逐漸形成雙眼牆結構。鑑於距離登陸尚有約一天時間，隨著外眼牆與內眼牆的相繼收縮，颱風整體強度預計將略有增強。與此同時，低層大氣中西南季風的持續匯入，為颱風提供了源源不斷的能量輸送；而溫暖的海洋下墊面亦對臺風的維持與發展起到了積極的促進作用。因此，颱風強度在未來時段內仍存在進一步增強的可能。需要特別指出的是，在雙眼牆結構維持期間，颱風強度往往呈現出一定的波動特徵。具體而言，強度將經歷一個先增強、隨後因內眼牆崩潰而減弱、最終伴隨內眼置換過程完成再度加強的階段性變化。"
+    },
+    {
+      "id": "mkt:019f4ecc-76cc-7aab-8d3b-1809598c185e",
+      "time": "2026-07-11 09:30:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: OpenAI security systems head to depart】Sources say Johannes Heidecke, head of OpenAI's security systems, informed his team this week he will leave amid a company reorganization to merge the safety and research divisions. An internal memo from Chief Research Officer Mark Chen says the safety team will report to Mia Glaese, vice president for research and integration, who will serve as vice president for research and safety; former security lead Saachi Jain will be acting head of security systems and report to Glaese."
+    },
     {
       "id": "4981995",
       "time": "2026-07-11 09:29:11",
