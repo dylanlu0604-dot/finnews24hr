@@ -1,7 +1,27 @@
 {
   "date": "2026-07-12",
-  "count": 95,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:019f5328-4235-7aab-8d3f-cf6d9d3b1e02",
+      "time": "2026-07-12 05:49:35",
+      "tags": [
+        "MKT News",
+        "DHI.O",
+        "Impact bullish",
+        "LEN.O",
+        "TOL.O"
+      ],
+      "text": "【Bipartisan housing bill becomes law despite Trump refusal to sign】The 21st Century Housing Pathways Act automatically took effect Saturday night despite President Trump declining to sign it. The law seeks to expand housing supply and boost homeownership to ease the U.S. housing shortage, loosening residential construction regulations and curbing Wall Street firms' purchases of single‑family homes to improve affordability."
+    },
+    {
+      "id": "4982369",
+      "time": "2026-07-12 05:48:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【克羅埃西亞多地突發山火 科爾丘拉島火勢猛烈】當地時間7月11日，克羅埃西亞南部亞得里亞海沿岸多地發生森林火災，其中科爾丘拉島火情最為嚴重。島上部分地區火光沖天、濃煙瀰漫，大片植被受到影響，現場一度出現火勢迅速擴大的跡象。據當地訊息，火線長度已超過3公里且蔓延到附近松林和葡萄園。受火災影響，島上部分道路暫時關閉。克羅埃西亞消防部門迅速調集力量展開撲救，目前已有三架水上消防飛機投入滅火，島上消防人員以及從大陸調派的增援力量參與地面救援。由於島嶼地形複雜，加上海風影響，滅火工作面臨較大挑戰。同時，克羅埃西亞其他地區當天也報告發生火情。希貝尼克-克寧縣等沿海地區出現山火。（央視新聞）"
+    },
     {
       "id": "mkt:019f5320-e8f6-7aab-8d3f-c10299c14d06",
       "time": "2026-07-12 05:41:33",
