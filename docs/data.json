@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-12 01:31:53",
-  "count": 16313,
+  "updated": "2026-07-12 01:35:52",
+  "count": 16311,
   "items": [
+    {
+      "id": "mkt:019f523c-bd14-7aab-8d3f-3da9ef5b2baf",
+      "time": "2026-07-12 01:32:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI releases GPT-5.6 as Musk and Altman trade public barbs】OpenAI released GPT-5.6 as Elon Musk and OpenAI founder Altman exchanged public insults on social media. Musk posted first, accusing Altman of having \"taken fraud to a whole new level,\" and reposted a screenshot of Altman's US congressional hearing remark \"I did this not out of enthusiasm,\" mocking that the \"this\" referred to fraud and alleging Altman's \"love of scamming\" is unmatched. Altman replied, accusing Musk of misleading public-market investors by promising to \"short-term build space data centers,\" then promoted the new ChatGPT model, saying multiple benchmarks show GPT-5.6 Sol is currently the world's best model and that Musk's renewed attacks are a reliable signal."
+    },
+    {
+      "id": "4982327",
+      "time": "2026-07-12 01:32:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【GPT-5.6釋出之際 馬斯克與奧特曼隔空互懟】GPT-5.6釋出之際，埃隆·馬斯克與OpenAI創始人奧特曼在社交平臺上爆發公開交鋒。馬斯克率先發文，稱“他把詐騙提升到了一個全新的高度”。不久後，又轉發奧特曼此前的美國國會聽證會發言截圖，該圖配文為“我做這件事並非出於熱衷”，馬斯克嘲諷稱“他說的‘這件事’指的就是詐騙”，“他對搞詐騙的熱愛，可能超過了任何一個活著的人”。對此，奧爾特曼發文回應，調侃稱“哥們兒，你才是真正拿‘短期內建太空資料中心’忽悠公開市場投資者的人。”隨後，奧特曼再次發帖，宣傳最新推出的ChatGPT模型的同時進一步反擊，“有很多基準測試表明GPT‑5.6 Sol是目前世界上最好的模型，但最可靠的判斷方式就是埃隆又開始針對我了。”"
+    },
     {
       "id": "4982326",
       "time": "2026-07-12 01:23:18",
@@ -148766,38 +148784,6 @@
         "國際"
       ],
       "text": "【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f2e33-5dee-7aab-8c9e-0ab5485ddbe2",
-      "time": "2026-07-05 01:35:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon."
-    },
-    {
-      "id": "4970556",
-      "time": "2026-07-05 01:35:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣重回63000美元關口。"
-    },
-    {
-      "id": "4970555",
-      "time": "2026-07-05 01:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。"
-    },
-    {
-      "id": "4970554",
-      "time": "2026-07-05 01:34:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。"
     }
   ]
 }
