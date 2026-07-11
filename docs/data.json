@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12 02:36:45",
-  "count": 16304,
+  "updated": "2026-07-12 02:40:46",
+  "count": 16301,
   "items": [
+    {
+      "id": "4982339",
+      "time": "2026-07-12 02:39:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：以色列情報部門向我方，也就是總統及相關官員通風報信，稱存在一項針對性極強的暗殺計劃，目標是除掉特朗普總統。"
+    },
+    {
+      "id": "4982338",
+      "time": "2026-07-12 02:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相兼外交大臣與阿聯酋外交大臣通電話，雙方商討協同舉措，緩和地區緊張局勢。"
+    },
     {
       "id": "mkt:019f5273-c843-7aab-8d3f-64711706f457",
       "time": "2026-07-12 02:32:27",
@@ -148685,56 +148701,6 @@
         "WTI"
       ],
       "text": "【Military expert: Putin betting on attrition to wear down Ukraine and the West】US Marine veteran and geopolitical analyst Brian Berletic says Russia, leveraging a large industrial base and the ability to sustain trained forces, is pursuing a war of attrition intended to exhaust Ukraine and its Western backers. He says Russia can strike expensive, hard-to-replace Western-supplied equipment and target industrial facilities, command centers and dual-use infrastructure, degrading Ukraine faster than Ukraine or its Western supporters can replenish personnel, equipment and ammunition. To date, he adds, Western production capacity and the scale of Ukrainian drone strikes have not matched Russia."
-    },
-    {
-      "id": "mkt:019f2e6e-94b4-7aab-8c9e-b4d394f5ec1a",
-      "time": "2026-07-05 02:40:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said under President Trump the U.S. is moving toward unprecedented economic growth, durable dollar dominance and robust fiscal health."
-    },
-    {
-      "id": "mkt:019f2e6d-d670-7aab-8c9e-af688436a545",
-      "time": "2026-07-05 02:39:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German regulator warns proposed major amendments to the Freedom of Information law would effectively abolish government transparency mechanisms."
-    },
-    {
-      "id": "4970569",
-      "time": "2026-07-05 02:38:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名白宮官員透露，第一夫人今晚將陪同特朗普，一同出席在國家廣場舉辦的 “致敬美國” 慶典活動。"
-    },
-    {
-      "id": "4970568",
-      "time": "2026-07-05 02:37:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國監管機構警示：擬議的資訊法重大修訂或將徹底廢除政務透明機制。"
-    },
-    {
-      "id": "mkt:019f2e6b-708e-7aab-8c9e-a01edb7f2e9f",
-      "time": "2026-07-05 02:37:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【Brazil finance minister Durigan says government credit measures will not weaken monetary policy】Finance Minister Durigan said the Lula government's credit measures are targeted industry support and will not undermine monetary policy. He said the measures did not prevent the Brazil central bank from delivering a larger rate cut at the recent MPC meeting. The government also unveiled a new credit and debt-restructuring program aimed at informal workers."
     }
   ]
 }
