@@ -1,7 +1,31 @@
 {
   "date": "2026-07-11",
-  "count": 460,
+  "count": 462,
   "items": [
+    {
+      "id": "4982007",
+      "time": "2026-07-11 10:03:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安聯銳視下屬公司中標國內網際網路企業算力租賃訂單】記者從安聯銳視獲悉，近日，安聯銳視下屬北京康銳聯安智算科技有限公司中標國內某網際網路企業算力租賃採購訂單，並計劃於近日交付首個約640 PFlops算力規模的訂單。該訂單是公司算力板塊佈局落地的首筆實質性商用專案，標誌著公司算力租賃業務正式完成商業化兌現。"
+    },
+    {
+      "id": "mkt:019f4ee9-97d9-7aab-8d3b-3018de85bec6",
+      "time": "2026-07-11 10:02:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Strong offshore demand at 30-year Treasury auction masks opportunistic buying】The U.S. Treasury sold $22.0bn of 30-year bonds at a stop-out yield of 5.058% (about 0.3bps below pre-auction levels) with a bid-to-cover of 2.44. Indirect bidders—predominantly offshore institutions—took 77.74% of the issue; direct (domestic) bidders accounted for just 12.24%, signalling relatively weak onshore demand. Analysts say this points to price-driven, opportunistic foreign buying—investors only re-enter when yields sufficiently compensate duration and fiscal risks—not a structural, broad-based return to Treasuries. Market implications: the auction eases near-term upside pressure on long-end yields and reduces tail-risk; for gold the effect is neutral-to-negative since high nominal yields keep holding costs elevated and limit durable gains absent a clear drop in real rates. Overall, recovery in long-end demand appears contingent on yield attraction rather than unconditional safe-haven flows."
+    },
     {
       "id": "4982005",
       "time": "2026-07-11 09:51:57",

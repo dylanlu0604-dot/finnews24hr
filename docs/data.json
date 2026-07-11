@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-11 10:02:33",
-  "count": 16231,
+  "updated": "2026-07-11 10:06:34",
+  "count": 16229,
   "items": [
+    {
+      "id": "4982007",
+      "time": "2026-07-11 10:03:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安聯銳視下屬公司中標國內網際網路企業算力租賃訂單】記者從安聯銳視獲悉，近日，安聯銳視下屬北京康銳聯安智算科技有限公司中標國內某網際網路企業算力租賃採購訂單，並計劃於近日交付首個約640 PFlops算力規模的訂單。該訂單是公司算力板塊佈局落地的首筆實質性商用專案，標誌著公司算力租賃業務正式完成商業化兌現。"
+    },
+    {
+      "id": "mkt:019f4ee9-97d9-7aab-8d3b-3018de85bec6",
+      "time": "2026-07-11 10:02:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Strong offshore demand at 30-year Treasury auction masks opportunistic buying】The U.S. Treasury sold $22.0bn of 30-year bonds at a stop-out yield of 5.058% (about 0.3bps below pre-auction levels) with a bid-to-cover of 2.44. Indirect bidders—predominantly offshore institutions—took 77.74% of the issue; direct (domestic) bidders accounted for just 12.24%, signalling relatively weak onshore demand. Analysts say this points to price-driven, opportunistic foreign buying—investors only re-enter when yields sufficiently compensate duration and fiscal risks—not a structural, broad-based return to Treasuries. Market implications: the auction eases near-term upside pressure on long-end yields and reduces tail-risk; for gold the effect is neutral-to-negative since high nominal yields keep holding costs elevated and limit durable gains absent a clear drop in real rates. Overall, recovery in long-end demand appears contingent on yield attraction rather than unconditional safe-haven flows."
+    },
     {
       "id": "4982005",
       "time": "2026-07-11 09:51:57",
@@ -148084,39 +148108,6 @@
         "其他"
       ],
       "text": "【豆包：智慧體功能將下線 10月15日後無法檢視相關資料】豆包釋出《智慧體下線通知》，由於產品功能調整，智慧體功能將於2026年7月15日下線。功能下線後，使用者仍可在一段時間內透過豆包檢視並自行儲存智慧體資訊及歷史對話資料。2026年10月15日後，豆包將根據《隱私政策》對智慧體相關資料進行處理，後續將無法在豆包內檢視或恢復。如有重要內容，建議使用者透過截圖或分享匯出文字的方式提前完成備份。通知內容還提到，位元組跳動旗下的貓箱APP可建立新的智慧體、開啟對話服務，如有需要，後續可在貓箱App開啟智慧體新體驗。"
-    },
-    {
-      "id": "4970219",
-      "time": "2026-07-04 10:06:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞對聯合國教科文組織將大堡礁移出瀕危名錄草案表示歡迎。"
-    },
-    {
-      "id": "mkt:019f2adf-5a77-7aab-8c9b-41d2b1d033ee",
-      "time": "2026-07-04 10:05:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Coast Guard conducts routine law-enforcement patrols east of Taiwan】China Coast Guard spokesperson Jiang Lue said on July 4 the Xiu Shan vessel relieved the Daishan vessel and continued law-enforcement patrols east of Taiwan. Since June the Daishan detachment has carried out patrols, inspections and fisheries protection and rescue operations to safeguard navigation and fishing activities and protect the lawful rights and safety of Chinese fishermen, including those from Taiwan. The coast guard said it will continue to strengthen enforcement in waters under Chinese jurisdiction and resolutely defend national territorial sovereignty and maritime rights."
-    },
-    {
-      "id": "4970218",
-      "time": "2026-07-04 10:04:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "老廟黃金足金飾品報1268元/克，較前一日1261元/克漲7元，已連漲四天，四天漲了56元；老鳳祥足金飾品報1260元/克，與前一日持平；周生生足金飾品報1263元/克，較前一日1266元/克降3元。"
-    },
-    {
-      "id": "4970217",
-      "time": "2026-07-04 10:02:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【中國海警位中國臺灣島以東海域開展常態化執法巡查】中國海警局新聞發言人姜略表示，7月4日，中國海警秀山艦編隊接替岱山艦編隊，繼續位中國臺灣島以東海域依法開展執法巡查。6月以來，岱山艦編隊持續在相關海域開展巡邏查證、護漁救援等行動，保障正常航行和作業秩序，維護包括臺灣同胞在內的中國漁民合法正當權益和生命財產安全。中國海警將持續加強在中國管轄海域執法巡查，堅決維護國家領土主權和海洋權益。"
     }
   ]
 }
