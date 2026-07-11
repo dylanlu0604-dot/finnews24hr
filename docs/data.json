@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-12 00:14:18",
+  "updated": "2026-07-12 00:18:13",
   "count": 16319,
   "items": [
+    {
+      "id": "mkt:019f51f7-c54c-7aab-8d3e-fb942dc7a44d",
+      "time": "2026-07-12 00:17:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Oman foreign ministers meet in Muscat to discuss Strait of Hormuz】Iran's foreign minister led a political and legal delegation to Muscat and met Omani foreign minister Sayyid Badr Albusaidi. The two discussed bilateral ties and regional developments, with a focus on the Strait of Hormuz, and exchanged views on using mechanisms under Article 5 of the Islamabad memorandum to ensure safe passage of vessels through the strait."
+    },
+    {
+      "id": "4982307",
+      "time": "2026-07-12 00:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長表示，伊朗與阿曼兩國外長已就根據伊斯蘭堡諒解備忘錄第五條，建立霍爾木茲海峽船舶安全通行“適當機制”交換了意見。"
+    },
+    {
+      "id": "4982306",
+      "time": "2026-07-12 00:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和阿曼外長就霍爾木茲海峽問題舉行會談。"
+    },
     {
       "id": "mkt:019f51f4-b74f-7aab-8d3e-f2f45a3fba9a",
       "time": "2026-07-12 00:13:39",
@@ -148833,34 +148857,6 @@
         "國際"
       ],
       "text": "【伊代理防長：應地區友國請求籤署停火諒解 違約將果斷回擊】伊朗代理國防部長馬吉德·伊本·禮薩表示，儘管伊朗對美國心存戒備，但應地區友好國家的請求，德黑蘭方面簽署了停火諒解檔案。他稱，若該諒解檔案中的相關承諾遭到違背，伊朗將作出“必要且堅決的”回應。"
-    },
-    {
-      "id": "4970534",
-      "time": "2026-07-05 00:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部拒絕遵照聯邦法院的指令，移交經過刪節處理的傑弗裡·愛潑斯坦調查卷宗。"
-    },
-    {
-      "id": "mkt:019f2dea-4045-7aab-8c9d-c2513eacff26",
-      "time": "2026-07-05 00:15:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Russia, Ukraine exchange large-scale strikes; Russia says it seized four populated localities】Russia and Ukraine each launched large-scale strikes overnight from the evening of the 3rd to the early hours of the 4th, both sides said. Russia said its forces had taken control of four populated localities in Kharkiv region. The Russian Defence Ministry said on the 4th that in the past 24 hours Russian strikes targeted Ukrainian fuel, energy and transport infrastructure in 142 locations, plus facilities producing and storing long-range UAVs, and temporary deployments of Ukrainian forces and foreign mercenaries. The ministry added that Russian air defences destroyed 10 \"Flamingo\" cruise missiles, nine HIMARS rockets, 16 guided aerial bombs and 893 fixed-wing drones."
-    },
-    {
-      "id": "4970533",
-      "time": "2026-07-05 00:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏大規模互襲 俄軍稱控制多個居民點】據俄羅斯和烏克蘭方面訊息，3日晚至4日凌晨，俄烏軍隊針對對方目標發動大規模襲擊。俄軍稱，在哈爾科夫州控制的居民點增加了4個。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。（新華社）"
     }
   ]
 }

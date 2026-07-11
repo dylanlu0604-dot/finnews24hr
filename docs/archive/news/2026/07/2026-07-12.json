@@ -1,7 +1,31 @@
 {
   "date": "2026-07-12",
-  "count": 7,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:019f51f7-c54c-7aab-8d3e-fb942dc7a44d",
+      "time": "2026-07-12 00:17:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Oman foreign ministers meet in Muscat to discuss Strait of Hormuz】Iran's foreign minister led a political and legal delegation to Muscat and met Omani foreign minister Sayyid Badr Albusaidi. The two discussed bilateral ties and regional developments, with a focus on the Strait of Hormuz, and exchanged views on using mechanisms under Article 5 of the Islamabad memorandum to ensure safe passage of vessels through the strait."
+    },
+    {
+      "id": "4982307",
+      "time": "2026-07-12 00:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長表示，伊朗與阿曼兩國外長已就根據伊斯蘭堡諒解備忘錄第五條，建立霍爾木茲海峽船舶安全通行“適當機制”交換了意見。"
+    },
+    {
+      "id": "4982306",
+      "time": "2026-07-12 00:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和阿曼外長就霍爾木茲海峽問題舉行會談。"
+    },
     {
       "id": "mkt:019f51f4-b74f-7aab-8d3e-f2f45a3fba9a",
       "time": "2026-07-12 00:13:39",
