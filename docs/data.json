@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-11 16:19:04",
+  "updated": "2026-07-11 16:23:15",
   "count": 16265,
   "items": [
+    {
+      "id": "mkt:019f5042-d8f5-7aab-8d3c-89ef61dc91f2",
+      "time": "2026-07-11 16:19:45",
+      "tags": [
+        "MKT News",
+        "META.O"
+      ],
+      "text": "【Tencent-led group in talks to buy Manus from Meta at about $2bn; Tencent to remain minority investor, sources say】Tencent is in talks to become the largest shareholder of AI agent firm Manus, with a Tencent-led Chinese investor group reportedly set to repurchase all Manus equity from Meta at an implied valuation of about US$2 billion. Tencent had no immediate comment; sources said Tencent would remain a minority shareholder and would not take control after the transaction."
+    },
+    {
+      "id": "4982159",
+      "time": "2026-07-11 16:19:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西橫州通往鎮龍鄉道路已實現車輛通行】7月6日，受今年第10號颱風“美莎克”帶來的持續強降雨影響，廣西橫州市鎮龍鄉遭遇嚴重洪澇災害，一度與外界聯絡中斷。經過多方救援力量持續奮戰，今天下午三點左右，廣西橫州通往鎮龍鄉的道路已實現車輛通行。群眾轉移和物資供給等各項工作將更加高效。（央視新聞）"
+    },
     {
       "id": "4982158",
       "time": "2026-07-11 16:14:54",
@@ -148358,26 +148375,6 @@
         "MKT News"
       ],
       "text": "Military says rebels launched attacks at five locations in Mali."
-    },
-    {
-      "id": "4970343",
-      "time": "2026-07-04 16:23:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬裡軍方稱，武裝叛亂分子在馬裡境內五處地點發動襲擊。"
-    },
-    {
-      "id": "mkt:019f2c36-8218-7aab-8c9c-66c9ffb2f03a",
-      "time": "2026-07-04 16:19:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS, citing Lebanese sources, said Israel carried out a drone strike near Sadikin."
     }
   ]
 }
