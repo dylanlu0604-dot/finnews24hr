@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-12 02:05:18_
-_本檔包含 2918 則快訊，約 618376 字_
+_更新時間：2026-07-12 03:26:02_
+_本檔包含 2921 則快訊，約 617846 字_
+
+---
+
+### 2026-07-12 03:18:03  #國際
+
+市場資訊：阿曼將在該國水域開放南部航道，船舶通行無需前置審批。伊朗將把阿曼的方案帶回德黑蘭商議。
+
+---
+
+### 2026-07-12 03:15:35  #國際
+
+【Meta緊急下線爭議AI生圖功能】社交媒體巨頭Meta本週推出一項允許使用者透過@提及公開Instagram賬號、利用他人公開內容生成AI影象的新功能。該功能上線時預設允許公開內容被引用，引發美國演員工會等機構對肖像權侵犯以及犯罪風險的強烈擔憂。Meta表示，相關功能“未能達到預期效果”，因此決定全面下線。
+
+---
+
+### 2026-07-12 03:10:29  #國際
+
+【美國放寬對阿聯酋出口管制，大幅深化雙方人工智慧與防務合作】美國週五放寬針對阿聯酋的出口管制，將這位海灣阿拉伯盟友升級為美國最受信賴的防務與技術合作夥伴之一。美國商務部工業與安全域性表示，鑑於阿聯酋作為美國主要防務合作伙伴發揮的作用，以及該國在維護美國國家安全利益（包括對抗伊朗相關事務）方面提供的支援，該局將依據《出口管理條例》大幅提升阿聯酋的待遇等級。此番調整落地後，經美方核准的阿聯酋機構可直接獲取先進人工智慧晶片、人工智慧伺服器、軍用及軍民兩用技術、商業衛星、無人機，以及油氣、民用核能領域相關技術，無需再走美國出口許可審批流程。
+
+---
+
+### 2026-07-12 03:02:53  #MKT News #Important #WTI #Impact mixed #Brent
+
+【Oman proposes dual-channel management for Strait of Hormuz; Iran-controlled channel to require prior approval】Oman has drafted a proposal to manage shipping through the Strait of Hormuz via two separately controlled channels; the draft is not final. Both channels would remain open. The southern channel, inside Omani territorial waters, would allow free navigation under pre-conflict patterns. The northern channel, inside Iranian territorial waters, would require vessels to obtain prior Iranian approval but — per the draft — would not carry transit fees. Iran’s foreign minister met Oman’s foreign minister in Muscat to discuss mechanisms to secure vessel passage.
+
+---
+
+### 2026-07-12 03:01:52  #焦點 #國際
+
+市場資訊：阿曼提出一項方案，計劃透過兩條受管控航運通道保障霍爾木茲海峽通航暢通，即船舶可經阿曼水域自由通行，若取道伊朗水域，則需事先獲得伊朗許可。
+
+---
+
+### 2026-07-12 02:57:58  #MKT News #Important
+
+CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized.
+
+---
+
+### 2026-07-12 02:55:27  #其他 #焦點
+
+阿曼提議霍爾木茲海峽航道由兩條獨立管控的航道分流管理，協議尚未最終敲定。
+
+---
+
+### 2026-07-12 02:54:07  #其他
+
+訊息人士：阿曼就霍爾木茲海峽航運航線提出一項協議。
+
+---
+
+### 2026-07-12 02:42:44  #MKT News #Important
+
+Omani state news agency said Oman and Iran agreed to continue technical and political talks to reach a Strait of Hormuz navigation agreement under international law.
+
+---
+
+### 2026-07-12 02:42:38  #其他
+
+巴斯夫：已控制住德國廠區化學品洩漏險情，酸液洩漏事故無人員受傷。
+
+---
+
+### 2026-07-12 02:41:48  #焦點 #國際
+
+阿曼媒體：阿曼與伊朗同意繼續開展技術及政治層面磋商，以期根據國際法就霍爾木茲海峽航行問題達成協議。
+
+---
+
+### 2026-07-12 02:39:21  #國際
+
+美國駐以色列大使：以色列情報部門向我方，也就是總統及相關官員通風報信，稱存在一項針對性極強的暗殺計劃，目標是除掉特朗普總統。
+
+---
+
+### 2026-07-12 02:37:29  #國際
+
+卡達外交部：首相兼外交大臣與阿聯酋外交大臣通電話，雙方商討協同舉措，緩和地區緊張局勢。
+
+---
+
+### 2026-07-12 02:32:27  #MKT News
+
+【Venezuela earthquake toll rises to 4,333】Jorge Rodríguez, president of Venezuela’s National Assembly, said at a Caracas press conference on the 11th that two strong earthquakes on June 24 have killed 4,333 people and injured 16,740. Official data show 1,202 aftershocks recorded since the quakes.
+
+---
+
+### 2026-07-12 02:30:25  #市場
+
+【大增42%！期市上半年成交額 超482萬億元！多個品種爆發】7月11日，中國期貨業協會（下稱中期協）公佈了6月全國期貨市場交易情況。資料顯示，以單邊計算，6月全國期貨交易市場成交量為9.39億手，成交額為80.62萬億元，同比分別增長27%和52.72%。1-6月全國期貨市場累計成交量為51.05億手，累計成交額為482.7萬億元，同比分別增長25.23%和42.08%。
+
+---
+
+### 2026-07-12 02:30:03  #國際
+
+卡達外交部：首相兼外交大臣強調，各方應堅持對話，並保障霍爾木茲海峽航行自由。
+
+---
+
+### 2026-07-12 02:13:36  #焦點 #國際
+
+美國駐以色列大使：各方均不接受敘利亞介入黎巴嫩事務的設想，以色列同樣持反對態度。
+
+---
+
+### 2026-07-12 02:13:33  #MKT News
+
+U.S. ambassador to Israel said HEZBOLLAH is a common enemy of Lebanon and Israel.
+
+---
+
+### 2026-07-12 02:13:28  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+The U.S. ambassador to Israel said Israel has notified Washington of an Iranian plot to assassinate the U.S. president. He said Iran's threats are not new, its behavior has not changed, and there is no evidence of a genuine moderate faction in Iran.
+
+---
+
+### 2026-07-12 02:11:35  #MKT News #EWY #Impact bearish #MU #Impact bullish #005930.KS #Impact mixed
+
+【Roundhill Memory ETF gathers $22bn in three months; AUM tops iShares MSCI Korea (EWY)】Roundhill Memory ETF (DRAM) has reached about $25bn AUM since launching on April 2, attracting a record $22bn of net inflows in roughly three months and surpassing the 26‑year‑old iShares MSCI Korea ETF (EWY). Over the same period EWY logged roughly $2bn of net outflows; earlier in 2026 EWY had drawn about $6bn of inflows. DRAM allocates more than 90% of its weight to memory names — Samsung Electronics, Micron Technology, SK Hynix, SanDisk, Seagate Technology, Western Digital and Kioxia — and its holdings overlap with EWY by roughly 46%.
+
+---
+
+### 2026-07-12 02:11:18  #國際
+
+美國駐以色列大使：真主黨是黎巴嫩與以色列共同的敵人。
+
+---
+
+### 2026-07-12 02:10:51  #國際
+
+美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。
+
+---
+
+### 2026-07-12 02:05:57  #MKT News
+
+Ukrainian President Zelenskiy urged Ukraine’s diplomatic efforts to focus on pressing allies to speed up implementation of weapons supply agreements.
 
 ---
 
@@ -17585,125 +17723,5 @@ Dollar Falls for Third Straight Session — The dollar index fell toward 100.5 o
 ### 2026-07-10 10:31:18  #宏觀 #公司
 
 【市場監管總局舉辦AI賦能信用監管專題講座】7月3日，市場監管總局舉辦AI賦能信用監管專題講座，圍繞“建、歸、用”關鍵環節，持續深化信用監管改革，引智賦能市場監管業務高質量發展。市場監管總局副局長白清元出席講座並作點評。科大訊飛公司有關負責人重點介紹人工智慧發展態勢、國產自主可控大模型技術、AI在政務及市場監管領域的成熟應用案例，以及AI賦能信用監管的具體路徑與場景設想等情況。白清元指出，當前新業態不斷湧現，企業數字化、跨區域、多主體經營成為常態，現有監管手段明顯滯後。市場監管系統幹部要切實加強學習，主動將人工智慧的理念、技術運用到市場監管各領域，持續提升監管效能，更好履行職責使命，加快推進全國統一大市場建設。（市說新語）
-
----
-
-### 2026-07-10 10:31:12  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報155350元/噸，較上日16:30價格下跌2250元/噸。
-
----
-
-### 2026-07-10 10:30:49  #市場 #國際
-
-馬來西亞股指上漲1%至1,694.43點。
-
----
-
-### 2026-07-10 10:30:20  #市場
-
-【港股醫藥股走強 昭衍新藥漲超8%】截至發稿，昭衍新藥(06127.HK)漲8.45%，康龍化成(03759.HK)漲6.73%，凱萊英(06821.HK)漲4.94%。
-
----
-
-### 2026-07-10 10:30:03  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Japan 10Y Bond Yield Drops by 11 bps — Government bonds yields are lower on Friday. Top losers are Japan 10Y (-11.30bps) and US 10Y (-1.50bps).
-
----
-
-### 2026-07-10 10:29:56  #宏觀 #央行 #國際
-
-【韓國監管層正密切跟蹤單一股票槓桿ETF帶來的市場影響】據報道，韓國總統政策首席秘書KimYong-beom週五在首爾向記者表示，韓國金融監管部門正嚴密監控單一股票槓桿ETF對市場造成的影響。KimYong-beom稱，韓國企劃財政部、韓國央行、金融委員會及金融監督院將全面評估自今年5月上市以來，單一股票ETF對市場產生的各類影響。監管機構還將研討並敲定是否需要出臺配套管控新規。
-
----
-
-### 2026-07-10 10:29:50  #MKT News #CSI300 #Impact bullish #SZSE Component #Hang Seng Index
-
-【Guangdong pushes computing-power network; big-data ETFs jump >5% intraday】Big-data ETFs strengthened intraday; Huaxia, Fuguo and Huabao big-data ETFs each rose more than 5%. Guangdong’s draft 15th Five-Year Plan for the information and communications industry calls for accelerating construction of a computing-power network and upgrading network services to create new industry growth poles. The draft seeks continued development of a national integrated computing-power network, including a Guangdong–Hong Kong–Macao Greater Bay Area national hub node, and supports telecom operators building real-time computing centers and edge-computing nodes.
-
----
-
-### 2026-07-10 10:29:48  #市場
-
-大資料ETF盤中走強，大資料ETF華夏、大資料ETF富國、大資料ETF華寶均漲超5%。
-
----
-
-### 2026-07-10 10:29:27  #其他
-
-【天津啟動洪澇災害防禦二級響應】記者從市水務局獲悉，根據氣象預報，7月10日至11日，受颱風“巴威”遠距離水汽輸送和副熱帶高壓相互作用影響，天津及海河流域有大範圍強降雨過程，部分地區有暴雨到大暴雨；12日夜間至14日，颱風“巴威”外圍雲系將給天津帶來強風雨天氣。市水務部門啟動洪澇災害防禦二級應急響應，重點從加強水情監測聯合會商、最大限度預騰調蓄空間、做好堤防巡查防守熱備、強化局域性洪澇災害防範四方面，全力做好颱風迎戰準備。（天津發布）
-
----
-
-### 2026-07-10 10:28:58  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-【Mizuho says Takaichi may need more market-aware communication】Mizuho Securities economist Yusuke Matsuo said Prime Minister Takaichi may need more cautious, market‑aware communication on highly sensitive items, notably the funding source for a planned food consumption tax cut and her large investment program. JGB yields have jumped recently as markets fear political pressure could delay Bank of Japan (BOJ) tightening and lift inflation risks. Finance Minister Katayama on Friday stressed the BOJ's independence, saying specific monetary policy measures are decided by the Bank of Japan.
-
----
-
-### 2026-07-10 10:27:10  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bullish #02015.HK #01211.HK
-
-Hong Kong-listed auto stocks were mostly firmer: Chery Automobile (09973.HK), XPeng Inc (09868.HK), Leapmotor (09863.HK) and SERES (09927.HK) each rose more than 3%, while Li Auto Inc (02015.HK) and BYD Co Ltd (01211.HK) gained over 2%.
-
----
-
-### 2026-07-10 10:27:00  #其他
-
-【Omdia：2026年第二季度全球PC市場同比下滑3.6%】Omdia最新研究，2026年第二季度全球檯式電腦、膝上型電腦及工作站出貨量同比下降3.6%，降至6570萬臺。其中，臺式電腦（含臺式工作站）出貨量為1390萬臺，同比下降1.3%；膝上型電腦（含移動工作站）出貨量為5170萬臺，同比下降4.2%。
-
----
-
-### 2026-07-10 10:25:37  #國際
-
-【上海釋出颱風藍色預警】上海市氣象臺7月10日10時釋出上海市颱風藍色預警訊號：受今年第9號颱風“巴威”影響，預計11-13日本市大部地區將出現陣風8-9級，高層建築和沿江沿海地區陣風9-11級，請注意防範颱風對高空作業、交通出行、農業生產等的不利影響。
-
----
-
-### 2026-07-10 10:24:48  #公司 #市場
-
-【AI醫療概念震盪反彈 美年健康、東軟集團雙雙漲停】AI醫療概念盤中震盪反彈，美年健康、東軟集團漲停，迪安診斷、創業慧康漲超10%，衛寧健康、嘉和美康、塞力醫療跟漲。
-
----
-
-### 2026-07-10 10:24:40  #MKT News
-
-【South Korea finance ministry official: USD/KRW still misaligned with fundamentals】Moon Ji-sung, the finance ministry official responsible for exchange-rate policy, said Friday USD/KRW remains misaligned with economic fundamentals and the ministry has sufficient room to stabilise markets if needed. He expects domestic FX supply–demand to shift in H2 2026 and forecasts exporters’ dollar holdings will be returned to the market via FX forward settlements, generating dollar inflows.
-
----
-
-### 2026-07-10 10:23:56  #市場
-
-美元兌日元下跌0.6%，報161.40。
-
----
-
-### 2026-07-10 10:23:47  #其他
-
-自然資源部將浙江和福建的海洋災害應急響應級別提升至二級，對上海啟動海洋災害四級應急響應。
-
----
-
-### 2026-07-10 10:23:34  #公司
-
-【福建晉江鞋廠火災搜救基本結束】7月9日，福建晉江陳埭鎮江頭村輝騰鞋業公司廠房發生火災，事故已造成28人死亡。目前，事故現場火災搜救基本結束。記者10日上午在事故現場看到，現場還有濃煙傳出，刺鼻氣味仍然殘留。（新華社）
-
----
-
-### 2026-07-10 10:22:55  #其他
-
-馬斯克稱扎克伯格關於Meta釋出多模態推理模型Muse Spark 1.1帖子在X上已免費獲得了超過1200萬次瀏覽。
-
----
-
-### 2026-07-10 10:22:55  #MKT News #Market Regions #Greater China
-
-【Ministry of Natural Resources raises Zhejiang and Fujian marine disaster response to Level II; Shanghai at Level IV】China’s Ministry of Natural Resources said it raised the marine disaster emergency-response level to II for Zhejiang and Fujian and activated a Level IV response for Shanghai at 0900 on the 10th.
-
----
-
-### 2026-07-10 10:21:28  #其他
-
-【廣西25條河流30個站超警 主要江河以退水為主】據廣西水文中心監測，7月9日8時至10日8時，防城港、崇左、欽州、梧州及玉林等市部分地區有大到暴雨，局地大暴雨，日雨量最大為防城港市防城區那良鎮105.0毫米。廣西全區共有西江、鬱江、潯江、清水河及大風江等25條河流30個站超警0.02～4.45米，超警最大為蒙江河南寧市橫州市橫州鎮河段。10日8時，廣西仍有鬱江、潯江及西江等16條河流19個站超警0.04～4.31米。鬱江貴港水文站水位43.21米（警戒水位41.2米），超警2.01米，流量10700立方米每秒；西江梧州水文站水位20.13米（警戒水位18.5米），超警1.63米，流量31500立方米每秒。廣西水文中心預測，未來24小時，全區各主要江河均以退水為主；鬱江貴港城區河段水位將於10日22時前後退至警戒水位以下，西江梧州城區河段水位將於11日5時前後退至警戒水位以下。
 
 ---

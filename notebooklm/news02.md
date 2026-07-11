@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-12 02:05:18_
-_本檔包含 3308 則快訊，約 618312 字_
+_更新時間：2026-07-12 03:26:02_
+_本檔包含 3285 則快訊，約 617446 字_
+
+---
+
+### 2026-07-10 10:31:12  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報155350元/噸，較上日16:30價格下跌2250元/噸。
+
+---
+
+### 2026-07-10 10:30:49  #市場 #國際
+
+馬來西亞股指上漲1%至1,694.43點。
+
+---
+
+### 2026-07-10 10:30:20  #市場
+
+【港股醫藥股走強 昭衍新藥漲超8%】截至發稿，昭衍新藥(06127.HK)漲8.45%，康龍化成(03759.HK)漲6.73%，凱萊英(06821.HK)漲4.94%。
+
+---
+
+### 2026-07-10 10:30:03  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Japan 10Y Bond Yield Drops by 11 bps — Government bonds yields are lower on Friday. Top losers are Japan 10Y (-11.30bps) and US 10Y (-1.50bps).
+
+---
+
+### 2026-07-10 10:29:56  #宏觀 #央行 #國際
+
+【韓國監管層正密切跟蹤單一股票槓桿ETF帶來的市場影響】據報道，韓國總統政策首席秘書KimYong-beom週五在首爾向記者表示，韓國金融監管部門正嚴密監控單一股票槓桿ETF對市場造成的影響。KimYong-beom稱，韓國企劃財政部、韓國央行、金融委員會及金融監督院將全面評估自今年5月上市以來，單一股票ETF對市場產生的各類影響。監管機構還將研討並敲定是否需要出臺配套管控新規。
+
+---
+
+### 2026-07-10 10:29:50  #MKT News #CSI300 #Impact bullish #SZSE Component #Hang Seng Index
+
+【Guangdong pushes computing-power network; big-data ETFs jump >5% intraday】Big-data ETFs strengthened intraday; Huaxia, Fuguo and Huabao big-data ETFs each rose more than 5%. Guangdong’s draft 15th Five-Year Plan for the information and communications industry calls for accelerating construction of a computing-power network and upgrading network services to create new industry growth poles. The draft seeks continued development of a national integrated computing-power network, including a Guangdong–Hong Kong–Macao Greater Bay Area national hub node, and supports telecom operators building real-time computing centers and edge-computing nodes.
+
+---
+
+### 2026-07-10 10:29:48  #市場
+
+大資料ETF盤中走強，大資料ETF華夏、大資料ETF富國、大資料ETF華寶均漲超5%。
+
+---
+
+### 2026-07-10 10:29:27  #其他
+
+【天津啟動洪澇災害防禦二級響應】記者從市水務局獲悉，根據氣象預報，7月10日至11日，受颱風“巴威”遠距離水汽輸送和副熱帶高壓相互作用影響，天津及海河流域有大範圍強降雨過程，部分地區有暴雨到大暴雨；12日夜間至14日，颱風“巴威”外圍雲系將給天津帶來強風雨天氣。市水務部門啟動洪澇災害防禦二級應急響應，重點從加強水情監測聯合會商、最大限度預騰調蓄空間、做好堤防巡查防守熱備、強化局域性洪澇災害防範四方面，全力做好颱風迎戰準備。（天津發布）
+
+---
+
+### 2026-07-10 10:28:58  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+【Mizuho says Takaichi may need more market-aware communication】Mizuho Securities economist Yusuke Matsuo said Prime Minister Takaichi may need more cautious, market‑aware communication on highly sensitive items, notably the funding source for a planned food consumption tax cut and her large investment program. JGB yields have jumped recently as markets fear political pressure could delay Bank of Japan (BOJ) tightening and lift inflation risks. Finance Minister Katayama on Friday stressed the BOJ's independence, saying specific monetary policy measures are decided by the Bank of Japan.
+
+---
+
+### 2026-07-10 10:27:10  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bullish #02015.HK #01211.HK
+
+Hong Kong-listed auto stocks were mostly firmer: Chery Automobile (09973.HK), XPeng Inc (09868.HK), Leapmotor (09863.HK) and SERES (09927.HK) each rose more than 3%, while Li Auto Inc (02015.HK) and BYD Co Ltd (01211.HK) gained over 2%.
+
+---
+
+### 2026-07-10 10:27:00  #其他
+
+【Omdia：2026年第二季度全球PC市場同比下滑3.6%】Omdia最新研究，2026年第二季度全球檯式電腦、膝上型電腦及工作站出貨量同比下降3.6%，降至6570萬臺。其中，臺式電腦（含臺式工作站）出貨量為1390萬臺，同比下降1.3%；膝上型電腦（含移動工作站）出貨量為5170萬臺，同比下降4.2%。
+
+---
+
+### 2026-07-10 10:25:37  #國際
+
+【上海釋出颱風藍色預警】上海市氣象臺7月10日10時釋出上海市颱風藍色預警訊號：受今年第9號颱風“巴威”影響，預計11-13日本市大部地區將出現陣風8-9級，高層建築和沿江沿海地區陣風9-11級，請注意防範颱風對高空作業、交通出行、農業生產等的不利影響。
+
+---
+
+### 2026-07-10 10:24:48  #公司 #市場
+
+【AI醫療概念震盪反彈 美年健康、東軟集團雙雙漲停】AI醫療概念盤中震盪反彈，美年健康、東軟集團漲停，迪安診斷、創業慧康漲超10%，衛寧健康、嘉和美康、塞力醫療跟漲。
+
+---
+
+### 2026-07-10 10:24:40  #MKT News
+
+【South Korea finance ministry official: USD/KRW still misaligned with fundamentals】Moon Ji-sung, the finance ministry official responsible for exchange-rate policy, said Friday USD/KRW remains misaligned with economic fundamentals and the ministry has sufficient room to stabilise markets if needed. He expects domestic FX supply–demand to shift in H2 2026 and forecasts exporters’ dollar holdings will be returned to the market via FX forward settlements, generating dollar inflows.
+
+---
+
+### 2026-07-10 10:23:56  #市場
+
+美元兌日元下跌0.6%，報161.40。
+
+---
+
+### 2026-07-10 10:23:47  #其他
+
+自然資源部將浙江和福建的海洋災害應急響應級別提升至二級，對上海啟動海洋災害四級應急響應。
+
+---
+
+### 2026-07-10 10:23:34  #公司
+
+【福建晉江鞋廠火災搜救基本結束】7月9日，福建晉江陳埭鎮江頭村輝騰鞋業公司廠房發生火災，事故已造成28人死亡。目前，事故現場火災搜救基本結束。記者10日上午在事故現場看到，現場還有濃煙傳出，刺鼻氣味仍然殘留。（新華社）
+
+---
+
+### 2026-07-10 10:22:55  #其他
+
+馬斯克稱扎克伯格關於Meta釋出多模態推理模型Muse Spark 1.1帖子在X上已免費獲得了超過1200萬次瀏覽。
+
+---
+
+### 2026-07-10 10:22:55  #MKT News #Market Regions #Greater China
+
+【Ministry of Natural Resources raises Zhejiang and Fujian marine disaster response to Level II; Shanghai at Level IV】China’s Ministry of Natural Resources said it raised the marine disaster emergency-response level to II for Zhejiang and Fujian and activated a Level IV response for Shanghai at 0900 on the 10th.
+
+---
+
+### 2026-07-10 10:21:28  #其他
+
+【廣西25條河流30個站超警 主要江河以退水為主】據廣西水文中心監測，7月9日8時至10日8時，防城港、崇左、欽州、梧州及玉林等市部分地區有大到暴雨，局地大暴雨，日雨量最大為防城港市防城區那良鎮105.0毫米。廣西全區共有西江、鬱江、潯江、清水河及大風江等25條河流30個站超警0.02～4.45米，超警最大為蒙江河南寧市橫州市橫州鎮河段。10日8時，廣西仍有鬱江、潯江及西江等16條河流19個站超警0.04～4.31米。鬱江貴港水文站水位43.21米（警戒水位41.2米），超警2.01米，流量10700立方米每秒；西江梧州水文站水位20.13米（警戒水位18.5米），超警1.63米，流量31500立方米每秒。廣西水文中心預測，未來24小時，全區各主要江河均以退水為主；鬱江貴港城區河段水位將於10日22時前後退至警戒水位以下，西江梧州城區河段水位將於11日5時前後退至警戒水位以下。
 
 ---
 
@@ -19681,263 +19801,5 @@ Japan's 40-year bond yield rose 4.5 bps to 4.050%.
 ### 2026-07-09 09:05:17  #其他
 
 澳大利亞審慎監管局：已完成對外部信用評估機構認可指南的審查。
-
----
-
-### 2026-07-09 09:05:06  #觀點
-
-國信證券：今年二季度北向資金整體流入A股2193億元人民幣，創下陸股通開通以來季度新高。北向資金增配出海鏈、算力晶片較多，減配消費、紅利較多。
-
----
-
-### 2026-07-09 09:04:41  #其他
-
-【格雷厄姆.普拉特納因性侵指控暫停緬因州參議員競選】民主黨候選人格雷厄姆.普拉特納(Graham Platner)表示，他將暫停緬因州參議員競選，從而結束了這場雖獲得廣泛基層支援卻飽受爭議的競選活動。普拉特納在週三晚間釋出的一段影片中宣佈了退選決定。他在影片中指責媒體和政治建制派充當了“法官、陪審團和劊子手”，並繼續強烈否認針對他的指控。“我們暫停競選活動，”普拉特納說。他還表示，他將提交檔案正式退選，從而使該黨能夠在選票上換上新的名字。就在普拉特納做出退選決定的幾天前，一名曾與普拉特納有過戀愛關係的女子公開指控他性侵。儘管普拉特納對此予以否認，但這一指控仍促使參議院高層議員和他的親密盟友撤回背書、切斷資金支援，並呼籲他退出競選。
-
----
-
-### 2026-07-09 09:04:39  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲6%，現報4142.00元。
-
----
-
-### 2026-07-09 09:04:39  #MKT News #Important #S&P500 #Impact bearish #DXY #Impact bullish #WTI
-
-Container shipping index (Europe route) front-month contract fell 6.00% intraday to 2,391.5 points.
-
----
-
-### 2026-07-09 09:04:31  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌6%，現報2390.50點。
-
----
-
-### 2026-07-09 09:04:11  #國際
-
-【美國馬里蘭州發生嚴重車禍 已致33人受傷】當地時間7月8日，美國馬里蘭州巴爾的摩縣消防部門表示，該縣派克斯維爾地區發生一起嚴重交通事故。一輛公交車與12輛汽車相撞，並撞及建築物，已造成33人受傷，目前所有傷者已被送往醫院。官方稱，事故涉及一輛馬里蘭州交通管理局公交車和多輛汽車。由於傷者較多，當局宣佈這是一起大規模傷亡事件，並調派15輛救護車、醫療救援直升機以及“休克創傷急救小組”趕赴現場。來自周邊縣的醫療救護巴士也參與救援。
-
----
-
-### 2026-07-09 09:03:49  #其他
-
-【解放軍和武警部隊官兵、民兵持續投入搶險救災】解放軍報南寧7月8日電 受今年第10號颱風“美莎克”影響，連日來廣西多地遭遇極端強降雨，引發洪澇災害。南寧、貴港等地多座水庫出現險情，部分鄉鎮及城區發生嚴重內澇。面對複雜災情，解放軍和武警部隊官兵、民兵持續投入搶險救災，並開展災後恢復工作。 8日0時至4時，貴港市港南區瓦塘鎮武思江水位持續超警，洪峰過境形勢嚴峻。南部戰區陸軍千餘名官兵緊急馳援，對堤壩展開不間斷巡查，封堵加固隱患點位。廣西軍區出動官兵、民兵4600餘名，搜尋被困人員，巡查堤壩、水庫等重點區域。武警貴港支隊連夜抽調兵力，聯合地方力量開展隱患排查、組織群眾撤離。 南寧橫州市洪峰過境後，針對六藍水庫下游相關區域道路受阻等情況，南寧警備區組織民兵清淤除障；武警廣西總隊抽調600餘名官兵，幫助轉移、安置受災群眾。目前，受災群眾生產生活秩序穩步恢復。
-
----
-
-### 2026-07-09 09:03:39  #公司
-
-【宏鑫科技成立機器人智慧製造公司】企查查APP顯示，近日，浙江宏鑫機器人智慧製造有限公司成立，註冊資本1億元，經營範圍包含：工業機器人制造；工業機器人銷售；工業機器人安裝、維修；特殊作業機器人制造等。企查查股權穿透顯示，該公司由宏鑫科技全資持股。
-
----
-
-### 2026-07-09 09:03:31  #MKT News
-
-Bank of Korea says inflation is expected to exceed the target; demand-side pressures are gradually increasing.
-
----
-
-### 2026-07-09 09:03:00  #市場 #焦點
-
-上海原油連續主力合約日內漲5%，現報478.60元。
-
----
-
-### 2026-07-09 09:02:51  #MKT News
-
-Bank of Korea says the won's depreciation has outpaced other major currencies.
-
----
-
-### 2026-07-09 09:02:49  #其他
-
-【第十七屆津臺投資合作洽談會開幕】7月8日，以“聚智新發展 共享新機遇”為主題的第十七屆津臺投資合作洽談會在天津開幕。兩岸政界、工商界人士及基層民眾代表約350人參加，圍繞人工智慧、生物醫藥、大健康等產業開展交流與合作。天津已成為兩岸經貿融合度最高的北方城市之一，2700多家臺企在津深耕，投資總額超過190億美元。本屆津臺會將持續至7月12日，還會舉辦產業對接活動及民間交流活動。（新華社）
-
----
-
-### 2026-07-09 09:02:46  #MKT News #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-Bank of Korea says it will continue to implement measures to stabilize markets.
-
----
-
-### 2026-07-09 09:02:22  #國際
-
-【中方代表：堅決反對一切衝突中的性暴力】當地時間8日，在安理會衝突中性暴力問題公開辯論會上，中國常駐聯合國代表傅聰表示，近年來，隨著國際局勢動盪加劇，衝突中的性暴力問題有所升溫，婦女和女童是主要的受害者。將性暴力用作戰爭和恐怖主義手段，嚴重違反安理會相關決議和國際法，嚴重侵犯受害者尊嚴和基本權利，給個人、家庭和社會帶來長期創傷。中方強烈譴責並堅決反對一切衝突中的性暴力，呼籲各國共同予以遏制和打擊。
-
----
-
-### 2026-07-09 09:02:08  #MKT News
-
-【Hy3 demand surge prompts WorkBuddy emergency capacity expansion】WorkBuddy said Hy3 traffic spiked after its initial launch; from 10:00 on July 8 compute consumption peaked and afternoon queuing exceeded 50%. The team immediately reallocated available compute resources and reports capacity expansion is complete.
-
----
-
-### 2026-07-09 09:02:01  #國際
-
-【伊朗再報復性打擊科威特美軍目標 】當地時間今天（7月9日）凌晨，科威特響起防空警報。科威特國防部稱正攔截來襲導彈和無人機。
-
----
-
-### 2026-07-09 09:01:52  #其他
-
-【未來5年，城鎮新增就業將保持相當規模 】《人力資源和社會保障事業發展“十五五”規劃》7月9日公佈，提出“十五五”時期人社事業發展的七大主要目標，並圍繞支撐目標實現、突出發展重點，提出了就業、社保、人才人事、勞動關係和公共服務五類18項量化指標。就業方面，規劃提出，“十五五”時期，城鎮新增就業人數保持相當規模，城鎮失業人員再就業人數2500萬人，就業困難人員就業人數650萬人，城鎮調查失業率控制在5.5%以內。開展補貼性職業技能培訓超過5000萬人次，其中農民工參加培訓1750萬人次。社保方面，規劃提出，“十五五”時期，基本養老保險參保率保持在95%以上，失業保險、工傷保險（含職業傷害保障）參保人數分別達到2.55億人、3.45億人，企業（職業）年金基金規模超9萬億元。
-
----
-
-### 2026-07-09 09:01:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange early trade July 9: gold T+D fell 1.21% to 891.93 yuan/gram; silver T+D fell 3.5% to 14,237 yuan/kg.
-
----
-
-### 2026-07-09 09:01:43  #MKT News #Important #Market Regions #Greater China
-
-【China plans to sustain sizable urban job creation over next five years】China’s 15th Five-Year Plan for human resources and social security, published July 9, says urban new employment will remain sizable over the next five years. Targets include re-employing 25.0 mln urban unemployed, placing 6.5 mln people with employment difficulties into jobs, and keeping the surveyed urban unemployment rate at or below 5.5%. The plan calls for more than 50.0 mln subsidized vocational-training enrollments, including 17.5 mln for migrant workers.
-
----
-
-### 2026-07-09 09:01:33  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 113.92 points higher (+0.25%) at 45,848.33 on July 9 (Thursday).
-
----
-
-### 2026-07-09 09:01:06  #央行 #國際
-
-韓國央行表示，考慮到包括價格在內的風險，升息勢在必行。
-
----
-
-### 2026-07-09 09:00:53  #央行 #國際
-
-韓國央行：預計通脹將超出目標水平，需求側壓力將逐步攀升。
-
----
-
-### 2026-07-09 09:00:48  #央行 #國際
-
-韓國央行：將繼續開展市場穩定措施。
-
----
-
-### 2026-07-09 09:00:42  #央行 #國際
-
-韓國央行：韓元貶值幅度大於其他主要貨幣。
-
----
-
-### 2026-07-09 09:00:42  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌5%，現報2418.00點。
-
----
-
-### 2026-07-09 09:00:33  #央行 #國際
-
-韓國央行表示，有必要在適當的時候提高利率。
-
----
-
-### 2026-07-09 09:00:26  #其他
-
-臺灣證交所加權股價指數開高0.2%報45,805.62。
-
----
-
-### 2026-07-09 09:00:26  #MKT News #Important #Commodities #Energy #Precious Metals #Industrial Metals #XAUUSD #Impact bearish
-
-At the morning open, China's front-month futures were mostly higher. Fuel oil, low-sulfur fuel oil (LU) and SC crude oil rose more than 5%; methanol gained over 3%; benzene, asphalt, propylene and liquefied petroleum gas (LPG) were up around 3%. On the downside, container freight on the Europe route fell over 4%, Shanghai silver dropped nearly 4%; platinum, palladium and polysilicon declined more than 2%; Shanghai gold, Shanghai tin and stainless steel (SS) were down over 1%.
-
----
-
-### 2026-07-09 09:00:20  #央行 #國際
-
-韓國央行將繼續採取各種措施穩定市場和外匯市場。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-白銀連續主力合約日內跌4%，現報14239.00元。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2509.00元。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲5%，現報4109.00元。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌4%，現報2440.00點。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-瀝青連續主力合約日內漲2%，現報3880.00元。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-上海原油連續主力合約日內漲4%，現報478.30元。
-
----
-
-### 2026-07-09 09:00:04  #市場 #焦點
-
-燃料油連續主力合約日內漲5%，現報3190.00元。
-
----
-
-### 2026-07-09 09:00:03  #市場
-
-【商品期貨開盤】燃料油連續漲5.44%，低硫燃料油連續漲5.40%，上海原油連續漲5.03%，白銀連續跌3.98%，集運指數歐線期貨連續跌3.77%。
-
----
-
-### 2026-07-09 09:00:02  #市場
-
-富時中國A50指數期貨開盤上漲0.13%。
-
----
-
-### 2026-07-09 08:59:59  #市場 #焦點
-
-WTI原油失守74美元/桶，日內漲0.65%。
-
----
-
-### 2026-07-09 08:59:59  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran has sent a letter to the United Nations protesting recent US strikes, state media reported. Iran's UN ambassador accused the US of attacking Iranian sovereignty and breaching the UN Charter.
-
----
-
-### 2026-07-09 08:58:00  #市場 #觀點
-
-【中金財富期貨：真正壓制黃金的是流動性而非油價】油價上行對黃金形成一定壓制，但是目前金價對原油上漲逐漸脫敏，核心在於沃什想盡一切辦法降息的意圖被越來越多的投資者發現。真正壓制黃金的是流動性而非油價。我們仍認為這種背景下，黃金具備一定的反彈動能。
-
----
-
-### 2026-07-09 08:57:13  #公司 #國際
-
-SK集團高管將訪問美國，參加SK海力士在納斯達克的上市首秀。
-
----
-
-### 2026-07-09 08:55:50  #其他
-
-【Hy3呼叫激增，WorkBuddy：已緊急擴容】據騰訊混元訊息，Hy3在WorkBuddy首發上線以來，受到了使用者們的廣泛支援。7月8日上午10時開始，算力資源消耗達到峰值，並出現排隊情況，下午排隊率一度超過50%。為了提供更好的Hy3使用體驗和穩定服務，團隊第一時間排程可用資源進行補充，目前已擴容完畢。
 
 ---

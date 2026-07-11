@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-12 02:05:18_
-_本檔包含 3291 則快訊，約 617370 字_
+_更新時間：2026-07-12 03:26:02_
+_本檔包含 3292 則快訊，約 617925 字_
+
+---
+
+### 2026-07-08 09:53:15  #公司 #市場
+
+【紡服行業板塊大幅調整，奧康國際跌停】紡服行業板塊大幅調整，奧康國際跌停，天創時尚、龍頭股份、*ST爾雅、金春股份、孚日股份、華升股份等跟跌。
+
+---
+
+### 2026-07-08 09:52:57  #國際
+
+【美軍稱完成對伊朗新一輪打擊】美軍中央司令部最新發宣告及影片稱，美軍對伊朗發動新一輪進攻性打擊，動用精確制導彈藥命中80餘個目標，以此“直接回應伊朗近期對在霍爾木茲海峽航行的商船發起的襲擊”。宣告稱，美軍此次打擊目標涵蓋伊朗防空系統、指揮控制網路、沿岸雷達站點及反艦導彈作戰能力；此外，在海峽及周邊水域擊毀逾60艘伊朗伊斯蘭革命衛隊小型艦艇。 美軍，此前伊朗先後襲擊三艘途經霍爾木茲海峽的商船，分別為馬紹爾群島籍“阿爾·雷卡亞特”號油輪、沙烏地阿拉伯籍“韋迪安”號油輪及賴比瑞亞籍“塞普勒斯繁榮”號油輪。美軍中央司令部部隊繼續保持戰備態勢，“一旦伊方不遵守或違背協議，美方將隨時追究其責任”。
+
+---
+
+### 2026-07-08 09:52:51  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報8238.00點。
+
+---
+
+### 2026-07-08 09:52:25  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite #CSI300
+
+China A-shares opened higher then reversed: ChiNext Index down 1.0%, Shenzhen Composite Index down 1.39%, Shanghai Composite Index down 0.23%.
+
+---
+
+### 2026-07-08 09:52:20  #公司 #市場 #國際
+
+【在美國隔夜拋售後，韓國晶片股反彈，因晶片供應依然緊張】週三，韓國晶片製造商三星電子和SK海力士 的股價在早盤下跌後反彈，此前受對人工智慧驅動的晶片熱潮可持續性擔憂影響，市場出現大幅拋售，投資者趁低吸納。早盤交易中，三星電子一度上漲1.4%，SK海力士一度上漲5.8%，此前兩家公司曾分別下跌4.4%和5%，最初是跟隨隔夜美國半導體股的下跌走勢。分析師表示，財報季才剛剛開始，市場對晶片製造商 將交出強勁業績的預期依然不變。他們補充稱，預計第三季度記憶體晶片供應仍將緊張，這支撐了週二拋售後出現的逢低買入。圍繞SK海力士計劃在美國上市的樂觀情緒也提振了投資者信心。儘管如此，分析師們提醒稱，雖然短期內記憶體價格預計仍將對供應商有利，但受基數效應影響，2026年下半年的價格漲幅可能較上半年有所放緩。
+
+---
+
+### 2026-07-08 09:51:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Vitol prepares Caracas office, betting on continuation of U.S.-Venezuela oil pact】Geneva-based trader Vitol is preparing to open a Caracas office to expand its role in Venezuelan oil exports following the U.S.-Venezuela oil pact reached earlier this year, sources said. Vitol and other traders have exported most of Venezuela’s output this year under agreements with state oil company PDVSA; the Caracas office would initially hire about 12 staff for trading roles, a move that signals confidence the oil arrangement will continue and could create additional commercial opportunities.
+
+---
+
+### 2026-07-08 09:51:52  #MKT News #Market Regions #Greater China
+
+A-share duty-free sector rallied; Zhongbai Group hit the daily price limit, Lingnan Holdings had earlier hit the limit, and Dongbai Group and Wangfujing also advanced.
+
+---
+
+### 2026-07-08 09:51:47  #市場 #國際
+
+【中證1000股指期貨(IM)主力合約日內跌超1%】中證1000股指期貨(IM)主力合約日內跌超1%，現報8021.8點。
+
+---
+
+### 2026-07-08 09:51:44  #其他
+
+【半導體板塊震盪回落，滬矽產業跌超10%】半導體板塊震盪回落，滬矽產業跌超10%，銀河微電、西安奕材、臻寶科技、長電科技跟跌。
+
+---
+
+### 2026-07-08 09:51:35  #市場 #焦點
+
+創業板指跌1.00%，現報3872.761點；上證指數跌0.19%，現報3982.716點；深證成指跌1.34%，現報15021.274點。
+
+---
+
+### 2026-07-08 09:51:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said Iranian forces recently attacked three commercial vessels transiting the strait: Marshall Islands-flagged tanker "Al Rukayat", Saudi-flagged tanker "Wedian" and Liberia-flagged "Cyprus Prosperity". CENTCOM described the actions as unprovoked aggression that clearly and dangerously violated the ceasefire agreement and undermined freedom of navigation.
+
+---
+
+### 2026-07-08 09:50:25  #市場 #焦點
+
+甲醇連續主力合約日內漲4%，現報2485.00元。
+
+---
+
+### 2026-07-08 09:50:14  #其他
+
+【港股雲端計算板塊走高，金蝶國際漲近10%】港股雲端計算板塊走高，金蝶國際漲近10%，金山雲漲超6%，浪潮數字企業、阿里巴巴-W、騰訊控股紛紛上揚。
+
+---
+
+### 2026-07-08 09:50:03  #MKT News #Important #DXY #Impact mixed #EURUSD
+
+RBNZ to announce interest rate decision in ten minutes.
+
+---
+
+### 2026-07-08 09:49:47  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said its forces remain at a state of readiness and are prepared to hold Iran accountable if Tehran fails to comply with or implement agreements. The US military earlier confirmed it carried out a series of strikes against Iran.
+
+---
+
+### 2026-07-08 09:49:22  #MKT News #002456.SZ #Impact bullish
+
+【Xin Feiguang at full production, targets 40 bln yuan annual revenue in about three years】Xin Feiguang’s optical-module plants are operating at full capacity. Guangming factory monthly output is about 100,000 800G modules and 40,000 1.6T modules; the North America plant produces roughly 10,000 1.6T modules per month. The company has won a major North American customer and plans further capacity expansion, targeting about 40 billion yuan in annual revenue within roughly three years. Founded by OFILM founder Cai Rongjun, Xin Feiguang is in a critical mass-production phase, seeking OFILM’s mass-production expertise and may pursue capital-level cooperation with OFILM to secure support.
+
+---
+
+### 2026-07-08 09:48:40  #MKT News #Important #WTI #Impact bullish #Brent
+
+CENTCOM said U.S. forces struck Iranian air-defense systems, command-and-control networks, coastal radar sites, anti-ship missile capabilities and more than 60 IRGC small boats in and around the strait, aiming to degrade Iran's ability to continue attacking international merchant vessels transiting the trade corridor.
+
+---
+
+### 2026-07-08 09:48:35  #市場 #焦點
+
+燃料油連續主力合約日內漲5%，現報3071.00元。
+
+---
+
+### 2026-07-08 09:48:07  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said on July 7 it carried out a new round of offensive strikes against Iran, using precision-guided weapons to hit more than 80 targets, in immediate response to recent Iranian attacks on commercial vessels transiting the Strait of Hormuz.
+
+---
+
+### 2026-07-08 09:47:55  #市場
+
+【培育鑽石板塊震盪走弱，恆盛能源跌停】培育鑽石板塊震盪走弱，恆盛能源跌停，中兵紅箭、沃爾德、晶盛機電、楚江新材、國機精工、奔朗新材等跟跌。
+
+---
+
+### 2026-07-08 09:47:25  #國際
+
+美國：在霍爾木茲海峽及其附近打擊60多艘伊朗伊斯蘭革命衛隊小型船隻。
+
+---
+
+### 2026-07-08 09:47:19  #MKT News
+
+【NDRC allocates 50 mln yuan central-budget funds for Hubei post-storm recovery】The National Development and Reform Commission (NDRC) has urgently allocated 50 mln yuan of central-budget investment to support emergency post-disaster recovery in Hubei after heavy rain, hail, and storms since July 6, including local tornadoes. The national disaster committee activated a level-4 emergency response on July 7. Funds will be used to rapidly restore damaged infrastructure—primarily roads—and public-service facilities such as schools, based on the national disaster relief plan and Hubei’s damage assessment, to expedite resumption of production and daily life.
+
+---
+
+### 2026-07-08 09:47:17  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+【South Korea finance ministry to closely monitor equity volatility risk】South Korea’s finance ministry said after a meeting between the finance minister, the central bank governor and financial regulators that they will closely monitor risks that could amplify stock-market volatility. The ministry cited foreign and institutional profit-taking, portfolio rebalancing and shifts in global AI-sector expectations as drivers. The KOSPI fell as much as 4% in early trade, touching its lowest level since May 20, before turning positive after a rebound in chip stocks. The ministry said rising concentration in the semiconductor industry is amplifying financial-market volatility and that chip-sector swings are increasingly affecting the broader market; regulators have issued prior warnings.
+
+---
+
+### 2026-07-08 09:46:56  #國際
+
+美國：若伊朗不遵守協議，美國準備追究其責任.
+
+---
+
+### 2026-07-08 09:46:37  #MKT News
+
+Sources say trading firm Vitol is preparing to open an office in Venezuela.
+
+---
+
+### 2026-07-08 09:46:33  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Holds Decline — The Australian dollar held its recent decline to around $0.694, moving back toward three-month lows as renewed US-Iran tensions dampened global risk sentiment. Traders flocked to the safe-haven US dollar, while oil prices jumped after the US launched a fresh wave of strikes against Iran and revoked a license allowing the country to sell oil following attacks on tankers in the Strait of Hormuz, fueling concerns over renewed disruptions in energy supplies. In Australia, markets continued to expect the Reserve Bank to keep its cash rate unchanged at 4.35% in August after delivering three rate hikes this year. The odds of another rise has also eased, with a November hike now priced at around 40%. Still, the country’s major banks said the RBA June minutes highlighted enduring inflationary pressures and warned they reinforced the risk of another hike in the months ahead. Investors now await remarks from RBA Assistant Governor Sarah Hunter later today for further clues on the policy outlook.
 
 ---
 
@@ -19664,178 +19820,5 @@ Oat Hits 6-year Low — Oat decreased to 250.00 USd/Bu, the lowest since March 2
 ### 2026-07-07 07:15:32  #其他
 
 【舊車險難兜新智駕 智駕兜底從“權益單”到“保單”待破局】設想一個情景：當一輛搭載高階別自動駕駛系統的汽車在城市快速路上疾馳，系統突然因演算法判斷失誤導致追尾，事故責任該由誰承擔？是坐在車內的駕駛員，是開發智駕系統的車企，還是提供感測器的硬體廠商？這一責任之問，在高階別自動駕駛從技術驗證進入商業化落地的關鍵時期，顯得尤為重要。業內人士表示，現有的傳統車險產品體系仍停留於“人駕”基本假設之上，難以覆蓋新型智駕帶來的風險。近期，華為系智慧汽車解決方案企業、比亞迪等主體推出智駕權益方案，其中一項重要內容便是為智駕兜底。從表面看，這是車企為智駕做的技術背書；從產業底層邏輯來看，車載系統深度介入駕駛場景，車險行業必須與時俱進加快變革。（中國證券報）
-
----
-
-### 2026-07-07 07:15:22  #公司
-
-【中報預增公司佔比走高 新興產業助力業績增長】A股半年報業績預告披露節奏加快。Wind資料顯示，截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中國證券報）
-
----
-
-### 2026-07-07 07:14:32  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、今年“兩重”建設專案清單全部下達 共安排8000億元支援1417個重大專案
-2、6月份製造業PMI為50.3% 連續4個月執行在50%及以上水平
-3、跨國企業持續加碼投資中國——“中國市場是‘必選項’”
-4、國際社會從縣域樣本中讀到的中國經濟韌性（和音）
-5、第九屆中國—亞歐博覽會規模再創新高 絲路新機遇 亞歐新活力
-6、劉國中在山東調研時強調 推動生物醫藥和農機裝備創新發展 加快推進現代化水網建設
-7、交通運輸部等聯合印發行動方案 到明年底農村客貨郵合作線路超兩萬條
-8、今年中歐班列中通道通行量突破2500列
-9、一季度完工量、新接訂單量、手持訂單量三大指標領跑全球 中國造船全產業鏈發展壯大（大資料觀察）
-10、我國算力網路技術標準研製取得突破
-11、銀川採煤沉陷區建起18萬畝光伏發電基地，請看——一架智慧無人機的“巡檢日誌”（經濟聚焦）
-12、江西上饒鄱陽縣延伸魚鉤產業鏈 小小魚鉤助力文體旅融合發展（高質量發展在一線·小城寶藏）
-13、前5月完成交通固定資產投資超1.1萬億元 貨運量、港口集裝箱吞吐量均保持增長
-14、雄安新區加入全球數字經濟城市聯盟
-15、三峽工程綜合效益持續充分發揮
-16、北京市機器人產業園（昌平）開園
-17、泰國加速佈局人工智慧產業。
-
----
-
-### 2026-07-07 07:14:23  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“建設社會主義現代化強國，關鍵在科技自立自強”（總書記的人民情懷）
-2、習近平致電祝賀藤森慶子當選秘魯總統
-3、習近平同黑山總統米拉托維奇就中國同黑山建交20週年互致賀電
-4、探訪雄安新區人工智慧產業——在“從0到1”的地方，做“從0到1”的創新（活力中國調研行）
-5、教育強國建設開新局見實效（“十五五”開好局起好步）
-6、前5月 電力市場交易電量同比增長24.8%。
-
----
-
-### 2026-07-07 07:13:58  #公司
-
-【“一人公司”跑出“千軍萬馬” 多地發力打通創業“獨木橋”】AI浪潮之下，OPC（一人公司）成為國內極具活力的新興創業模式。記者走訪北京中關村AI北緯社群、深圳模力營AI生態社群調研發現，大批OPC創業者深耕AI細分賽道，陸續落地商業化產品、進入穩定運營階段，部分優質專案已啟動融資程序。當前，各地針對OPC的算力保障、金融扶持政策持續落地完善，持續拓寬單人AI創業的發展空間，推動新型創業模式加速崛起。（中國證券報）
-
----
-
-### 2026-07-07 07:13:53  #公司 #市場
-
-【新能源、人工智慧產業帶動有色品類全線走強 上市公司盈利顯著修復】今年上半年，受新能源、人工智慧產業需求拉動，銅、鋁、鉬、鋰等主要有色金屬價格站上高位，有色金屬冶煉和壓延加工業利潤同比也出現顯著增長。行業上市公司及分析人士認為，新興產業成為本輪工業利潤增長的核心引擎。全球人工智慧技術快速迭代，帶動高階算力晶片、儲存晶片需求集中爆發，上市公司盈利顯著修復，行業供需格局迎來結構性重塑。
-
----
-
-### 2026-07-07 07:12:27  #公司 #市場
-
-【三星電子盈利超預期 得益於火爆的AI記憶體需求】由於人工智慧資料中心所需記憶體晶片的需求暴增，三星電子季度利潤飆升19倍，超出預期。該全球最大儲存器生產商公佈，在截至6月的三個月裡，其初步營業利潤為89.4萬億韓元（580億美元），超過了其2025年全年業績。分析師此前平均預期為84.2萬億韓元。營收為171萬億韓元，高於分析師平均預期的169.2萬億韓元。三星料將於月底前後釋出完整的財務報表，其中包括淨利潤和按部門細分的資料。包括英偉達執行長黃仁勳以及OpenAI營運長Brad Lightcap在內的高管曾表示，記憶體晶片短缺仍然是AI發展的關鍵瓶頸。製造商正在優先生產高階記憶體以滿足資料中心的需求，從而也導致傳統記憶體供應不足。分析師預計，這種短缺狀況至少會持續到2027年底，從而讓三星及其競爭對手SK海力士、美光掌控強大的定價權。滙豐稱，這已導致二季度動態隨機存取儲存器‌(DRAM)平均售價環比上漲逾40%，NAND快閃記憶體漲價超過50%。
-
----
-
-### 2026-07-07 07:10:05  #市場
-
-【低估值遇上高分紅 銀行板塊估值修復視窗正在開啟】今年以來，A股銀行板塊維持“低估值、高分紅”特徵，截至7月6日收盤，申萬銀行指數跌超9%，42家上市銀行全部“破淨”，僅9家銀行股價上漲。與二級市場走勢形成反差的是，銀行股分紅保持穩健，多家上市銀行的動態股息率超過5%。這引發了市場對於銀行股配置價值的討論。業內人士認為，低利率環境下，銀行股類固收屬性凸顯，板塊估值修復視窗正在開啟。（中國證券報）
-
----
-
-### 2026-07-07 07:07:48  #宏觀 #國際
-
-【王毅同挪威外交大臣艾德會談】當地時間7月6日，中共中央政治局委員、外交部長王毅在奧斯陸同挪威外交大臣艾德舉行會談。王毅說，挪威是最早承認新中國的西方國家之一，長期以來中挪關係保持穩定、可持續發展，為兩國人民帶來重要利益。近年來，在雙方努力下，兩國政治互信不斷增強，互利合作向深向實、向綠向新拓展，中挪綠色轉型對話機制已成為新時期兩國合作的重要平臺。無論國際局勢如何變化，中挪都應堅定做合作伙伴。中方願同挪方加強王室、政府、議會、政黨等各領域各層級交往，維護好雙邊關係政治基礎，拓展貿易、綠色經濟等務實合作，不斷豐富兩國關係的內涵。雙方要提升雙邊貿易水平，儘早簽訂中挪自貿協定，繼續深化清潔能源、電動汽車、綠色航運、迴圈經濟等領域互利合作，重點推動綠色轉型對話機制落地落實，打造國與國合作的範例。王毅表示，當前世界亂象叢生。挪威多次參與熱點問題和解程序。中挪應攜手用行動捍衛多邊主義，促進和平解決爭端，加強全球治理合作，推動構建更加公正合理的全球治理體系，為世界和平穩定與繁榮發展作出努力。
-
----
-
-### 2026-07-07 07:06:47  #MKT News #005930.KS #Impact bearish
-
-Samsung Electronics shares fell 4.5% in pre-market trade on Nextrade.
-
----
-
-### 2026-07-07 07:05:27  #其他
-
-【水利部：颱風“美莎克”影響預計仍將維持兩天】受颱風“美莎克”影響，廣西中部、南部降下暴雨到大暴雨、區域性特大暴雨。水利部密切監視颱風“美莎克”行進路徑和可能影響，滾動會商研判，預計本輪臺風影響仍將維持兩天。記者從水利部瞭解到，昨天8時至14時，廣西鬱江及支流派連河、西江支流清水河和蒙江等30條河流發生超警以上洪水，最大超警幅度3.09米。
-
----
-
-### 2026-07-07 07:05:04  #其他
-
-委內瑞拉代理總統羅德里格斯宣佈重啟商業航班計劃。
-
----
-
-### 2026-07-07 07:04:40  #公司 #市場
-
-三星釋出第二季度業績預期後，其股價在NEXTRADE交易所盤前交易中下跌4.5%。
-
----
-
-### 2026-07-07 07:02:56  #MKT News #JPM.N #Impact bullish #BAC.N #FISV.O
-
-The Wall Street Journal, citing people familiar with the matter, says several large US banks are exploring a payment network transaction that would allow acquirers to bypass debit card interchange fee caps. JP Morgan, BofA and other major banks have held preliminary talks with Fiserv about the deal.
-
----
-
-### 2026-07-07 07:02:45  #其他
-
-多家大型銀行已就收購富達國民資訊服務（FISERV）的一個支付網路展開初步磋商，該網路可幫助銀行繞過聯邦簽帳金融卡費率上限規定。
-
----
-
-### 2026-07-07 07:01:45  #觀點 #國際
-
-市場訊息： 摩根大通、美國銀行及多家銀行正籌劃一項交易，有望重塑全球支付行業格局。
-
----
-
-### 2026-07-07 06:57:57  #公司 #國際
-
-【美國“規模最大”資料中心計劃被叫停】“史上規模最大的資料中心專案正式宣告流產。”此前報道稱，華爾街資管巨頭黑石集團旗下的資料中心運營商QTS 日前正式宣佈，終止這一籌劃多年的超大型資料中心專案，並撤回全部規劃檔案。這一決定被輿論視為美國人工智慧基礎設施擴張遭遇重大挫折的標誌性事件。該專案原計劃在弗吉尼亞州威廉王子縣建設一個佔地約850公頃的園區。專案若完全建成，預計耗資高達1000億美元，並將成為全球最大的資料中心園區。
-
----
-
-### 2026-07-07 06:57:26  #其他
-
-【法國政府應對高溫不力不信任動議未獲透過】7日，法國國民議會未透過一項由在野黨提出的針對政府應對高溫天氣不力的不信任動議，由法國總理勒科爾尼領導的政府得以繼續執政。（央視）
-
----
-
-### 2026-07-07 06:57:25  #MKT News #Market Regions #Europe & UK
-
-【No-confidence motion over French government's heatwave response fails】On the 7th, the French National Assembly rejected an opposition no-confidence motion over the government's handling of the heatwave, leaving Prime Minister Le Cornu's government in place.
-
----
-
-### 2026-07-07 06:57:07  #公司
-
-【資本市場“應退盡退”生態日趨成熟，年內22家公司已摘牌或鎖定退市】7月6日，上海創興資源開發股份有限公司摘牌退市。至此，今年以來，已有16家公司摘牌退市，退市型別覆蓋財務類退市、重大違法強制退市、交易類退市、主動退市等情形。梳理上市公司公告發現，還有6家公司已鎖定退市。其中，5家A股公司觸及財務類退市指標，將於7月份集中摘牌退市；B股公司瓦房店軸承股份有限公司私有化退市正在流程中。綜合來看，年內已摘牌退市和鎖定退市公司的數量達到22家。此外，還有多家公司因涉嫌嚴重財務造假、未按期披露定期報告等原因面臨退市風險。（證券日報）
-
----
-
-### 2026-07-07 06:55:28  #國際
-
-【國際航運資訊平臺：近期共有108艘船透過霍爾木茲海峽】全球能源市場當前最關注的問題之一，當屬霍爾木茲海峽通航水平究竟恢復到什麼程度。據美國方面6日訊息，國際航運資訊平臺“海上交通網站”的最新資料顯示，本月3日至5日，共有108艘船隻透過了霍爾木茲海峽，通航規模仍遠低於衝突前日均138艘的平均水平。霍爾木茲海峽是全球最重要的能源運輸通道之一，其意義不僅在於每天透過多少油輪，更在於對全球能源供應鏈穩定的保障。當前海峽已由全面中斷轉向有限恢復，但距離恢復正常商業執行仍有相當距離。今後，海峽運輸恢復程度，將繼續受到地區安全形勢、航運企業風險偏好以及美伊之間相關談判的進展等多重因素影響。（央視新聞）
-
----
-
-### 2026-07-07 06:55:02  #公司
-
-三星電子將於 7 月 30 日釋出第二季度財報。
-
----
-
-### 2026-07-07 06:54:41  #MKT News #Important #SNDK.O #Impact bearish #MU.O
-
-After Samsung Electronics issued earnings guidance, SanDisk (SNDK.O) and Micron Technology (MU.O) fell in US after-hours trading, down 1.2% and 0.7% respectively.
-
----
-
-### 2026-07-07 06:53:42  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Extends Gains, Hits New High — The NZX 50 rose 13 points, or 0.1%, to 13,776 in Tuesday morning trade, marking the third consecutive session of gains and hitting a fresh record high, tracking a rally on Wall Street overnight buoyed by strong gains in semiconductor stocks. Easing oil prices continued to lift sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed's meeting minutes due later this week. Traders shrugged off expectations of an interest rate hike by the RBNZ at its meeting on Wednesday, with the market expecting the central bank to raise its policy rate by 25 bps to 2.5%. Consumer staples, financials, and healthcare mainly drove the index, with notable gains from A2 Milk (2.7%), AFT Pharmaceuticals (2.4%), Scales Corporation (0.8%), ANZ Group (0.5%), Summerset Group (0.6%), and Fisher & Paykel (0.4%).
-
----
-
-### 2026-07-07 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Rises by 1.36% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.36% increase.
-
----
-
-### 2026-07-07 06:43:56  #公司
-
-【中報預增公司佔比走高，新興產業助力業績增長】截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中證報）
 
 ---

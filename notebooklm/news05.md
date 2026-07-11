@@ -1,7 +1,180 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 02:05:18_
-_本檔包含 3171 則快訊，約 618296 字_
+_更新時間：2026-07-12 03:26:02_
+_本檔包含 3155 則快訊，約 617337 字_
+
+---
+
+### 2026-07-07 07:15:22  #公司
+
+【中報預增公司佔比走高 新興產業助力業績增長】A股半年報業績預告披露節奏加快。Wind資料顯示，截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中國證券報）
+
+---
+
+### 2026-07-07 07:14:32  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、今年“兩重”建設專案清單全部下達 共安排8000億元支援1417個重大專案
+2、6月份製造業PMI為50.3% 連續4個月執行在50%及以上水平
+3、跨國企業持續加碼投資中國——“中國市場是‘必選項’”
+4、國際社會從縣域樣本中讀到的中國經濟韌性（和音）
+5、第九屆中國—亞歐博覽會規模再創新高 絲路新機遇 亞歐新活力
+6、劉國中在山東調研時強調 推動生物醫藥和農機裝備創新發展 加快推進現代化水網建設
+7、交通運輸部等聯合印發行動方案 到明年底農村客貨郵合作線路超兩萬條
+8、今年中歐班列中通道通行量突破2500列
+9、一季度完工量、新接訂單量、手持訂單量三大指標領跑全球 中國造船全產業鏈發展壯大（大資料觀察）
+10、我國算力網路技術標準研製取得突破
+11、銀川採煤沉陷區建起18萬畝光伏發電基地，請看——一架智慧無人機的“巡檢日誌”（經濟聚焦）
+12、江西上饒鄱陽縣延伸魚鉤產業鏈 小小魚鉤助力文體旅融合發展（高質量發展在一線·小城寶藏）
+13、前5月完成交通固定資產投資超1.1萬億元 貨運量、港口集裝箱吞吐量均保持增長
+14、雄安新區加入全球數字經濟城市聯盟
+15、三峽工程綜合效益持續充分發揮
+16、北京市機器人產業園（昌平）開園
+17、泰國加速佈局人工智慧產業。
+
+---
+
+### 2026-07-07 07:14:23  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“建設社會主義現代化強國，關鍵在科技自立自強”（總書記的人民情懷）
+2、習近平致電祝賀藤森慶子當選秘魯總統
+3、習近平同黑山總統米拉托維奇就中國同黑山建交20週年互致賀電
+4、探訪雄安新區人工智慧產業——在“從0到1”的地方，做“從0到1”的創新（活力中國調研行）
+5、教育強國建設開新局見實效（“十五五”開好局起好步）
+6、前5月 電力市場交易電量同比增長24.8%。
+
+---
+
+### 2026-07-07 07:13:58  #公司
+
+【“一人公司”跑出“千軍萬馬” 多地發力打通創業“獨木橋”】AI浪潮之下，OPC（一人公司）成為國內極具活力的新興創業模式。記者走訪北京中關村AI北緯社群、深圳模力營AI生態社群調研發現，大批OPC創業者深耕AI細分賽道，陸續落地商業化產品、進入穩定運營階段，部分優質專案已啟動融資程序。當前，各地針對OPC的算力保障、金融扶持政策持續落地完善，持續拓寬單人AI創業的發展空間，推動新型創業模式加速崛起。（中國證券報）
+
+---
+
+### 2026-07-07 07:13:53  #公司 #市場
+
+【新能源、人工智慧產業帶動有色品類全線走強 上市公司盈利顯著修復】今年上半年，受新能源、人工智慧產業需求拉動，銅、鋁、鉬、鋰等主要有色金屬價格站上高位，有色金屬冶煉和壓延加工業利潤同比也出現顯著增長。行業上市公司及分析人士認為，新興產業成為本輪工業利潤增長的核心引擎。全球人工智慧技術快速迭代，帶動高階算力晶片、儲存晶片需求集中爆發，上市公司盈利顯著修復，行業供需格局迎來結構性重塑。
+
+---
+
+### 2026-07-07 07:12:27  #公司 #市場
+
+【三星電子盈利超預期 得益於火爆的AI記憶體需求】由於人工智慧資料中心所需記憶體晶片的需求暴增，三星電子季度利潤飆升19倍，超出預期。該全球最大儲存器生產商公佈，在截至6月的三個月裡，其初步營業利潤為89.4萬億韓元（580億美元），超過了其2025年全年業績。分析師此前平均預期為84.2萬億韓元。營收為171萬億韓元，高於分析師平均預期的169.2萬億韓元。三星料將於月底前後釋出完整的財務報表，其中包括淨利潤和按部門細分的資料。包括英偉達執行長黃仁勳以及OpenAI營運長Brad Lightcap在內的高管曾表示，記憶體晶片短缺仍然是AI發展的關鍵瓶頸。製造商正在優先生產高階記憶體以滿足資料中心的需求，從而也導致傳統記憶體供應不足。分析師預計，這種短缺狀況至少會持續到2027年底，從而讓三星及其競爭對手SK海力士、美光掌控強大的定價權。滙豐稱，這已導致二季度動態隨機存取儲存器‌(DRAM)平均售價環比上漲逾40%，NAND快閃記憶體漲價超過50%。
+
+---
+
+### 2026-07-07 07:10:05  #市場
+
+【低估值遇上高分紅 銀行板塊估值修復視窗正在開啟】今年以來，A股銀行板塊維持“低估值、高分紅”特徵，截至7月6日收盤，申萬銀行指數跌超9%，42家上市銀行全部“破淨”，僅9家銀行股價上漲。與二級市場走勢形成反差的是，銀行股分紅保持穩健，多家上市銀行的動態股息率超過5%。這引發了市場對於銀行股配置價值的討論。業內人士認為，低利率環境下，銀行股類固收屬性凸顯，板塊估值修復視窗正在開啟。（中國證券報）
+
+---
+
+### 2026-07-07 07:07:48  #宏觀 #國際
+
+【王毅同挪威外交大臣艾德會談】當地時間7月6日，中共中央政治局委員、外交部長王毅在奧斯陸同挪威外交大臣艾德舉行會談。王毅說，挪威是最早承認新中國的西方國家之一，長期以來中挪關係保持穩定、可持續發展，為兩國人民帶來重要利益。近年來，在雙方努力下，兩國政治互信不斷增強，互利合作向深向實、向綠向新拓展，中挪綠色轉型對話機制已成為新時期兩國合作的重要平臺。無論國際局勢如何變化，中挪都應堅定做合作伙伴。中方願同挪方加強王室、政府、議會、政黨等各領域各層級交往，維護好雙邊關係政治基礎，拓展貿易、綠色經濟等務實合作，不斷豐富兩國關係的內涵。雙方要提升雙邊貿易水平，儘早簽訂中挪自貿協定，繼續深化清潔能源、電動汽車、綠色航運、迴圈經濟等領域互利合作，重點推動綠色轉型對話機制落地落實，打造國與國合作的範例。王毅表示，當前世界亂象叢生。挪威多次參與熱點問題和解程序。中挪應攜手用行動捍衛多邊主義，促進和平解決爭端，加強全球治理合作，推動構建更加公正合理的全球治理體系，為世界和平穩定與繁榮發展作出努力。
+
+---
+
+### 2026-07-07 07:06:47  #MKT News #005930.KS #Impact bearish
+
+Samsung Electronics shares fell 4.5% in pre-market trade on Nextrade.
+
+---
+
+### 2026-07-07 07:05:27  #其他
+
+【水利部：颱風“美莎克”影響預計仍將維持兩天】受颱風“美莎克”影響，廣西中部、南部降下暴雨到大暴雨、區域性特大暴雨。水利部密切監視颱風“美莎克”行進路徑和可能影響，滾動會商研判，預計本輪臺風影響仍將維持兩天。記者從水利部瞭解到，昨天8時至14時，廣西鬱江及支流派連河、西江支流清水河和蒙江等30條河流發生超警以上洪水，最大超警幅度3.09米。
+
+---
+
+### 2026-07-07 07:05:04  #其他
+
+委內瑞拉代理總統羅德里格斯宣佈重啟商業航班計劃。
+
+---
+
+### 2026-07-07 07:04:40  #公司 #市場
+
+三星釋出第二季度業績預期後，其股價在NEXTRADE交易所盤前交易中下跌4.5%。
+
+---
+
+### 2026-07-07 07:02:56  #MKT News #JPM.N #Impact bullish #BAC.N #FISV.O
+
+The Wall Street Journal, citing people familiar with the matter, says several large US banks are exploring a payment network transaction that would allow acquirers to bypass debit card interchange fee caps. JP Morgan, BofA and other major banks have held preliminary talks with Fiserv about the deal.
+
+---
+
+### 2026-07-07 07:02:45  #其他
+
+多家大型銀行已就收購富達國民資訊服務（FISERV）的一個支付網路展開初步磋商，該網路可幫助銀行繞過聯邦簽帳金融卡費率上限規定。
+
+---
+
+### 2026-07-07 07:01:45  #觀點 #國際
+
+市場訊息： 摩根大通、美國銀行及多家銀行正籌劃一項交易，有望重塑全球支付行業格局。
+
+---
+
+### 2026-07-07 06:57:57  #公司 #國際
+
+【美國“規模最大”資料中心計劃被叫停】“史上規模最大的資料中心專案正式宣告流產。”此前報道稱，華爾街資管巨頭黑石集團旗下的資料中心運營商QTS 日前正式宣佈，終止這一籌劃多年的超大型資料中心專案，並撤回全部規劃檔案。這一決定被輿論視為美國人工智慧基礎設施擴張遭遇重大挫折的標誌性事件。該專案原計劃在弗吉尼亞州威廉王子縣建設一個佔地約850公頃的園區。專案若完全建成，預計耗資高達1000億美元，並將成為全球最大的資料中心園區。
+
+---
+
+### 2026-07-07 06:57:26  #其他
+
+【法國政府應對高溫不力不信任動議未獲透過】7日，法國國民議會未透過一項由在野黨提出的針對政府應對高溫天氣不力的不信任動議，由法國總理勒科爾尼領導的政府得以繼續執政。（央視）
+
+---
+
+### 2026-07-07 06:57:25  #MKT News #Market Regions #Europe & UK
+
+【No-confidence motion over French government's heatwave response fails】On the 7th, the French National Assembly rejected an opposition no-confidence motion over the government's handling of the heatwave, leaving Prime Minister Le Cornu's government in place.
+
+---
+
+### 2026-07-07 06:57:07  #公司
+
+【資本市場“應退盡退”生態日趨成熟，年內22家公司已摘牌或鎖定退市】7月6日，上海創興資源開發股份有限公司摘牌退市。至此，今年以來，已有16家公司摘牌退市，退市型別覆蓋財務類退市、重大違法強制退市、交易類退市、主動退市等情形。梳理上市公司公告發現，還有6家公司已鎖定退市。其中，5家A股公司觸及財務類退市指標，將於7月份集中摘牌退市；B股公司瓦房店軸承股份有限公司私有化退市正在流程中。綜合來看，年內已摘牌退市和鎖定退市公司的數量達到22家。此外，還有多家公司因涉嫌嚴重財務造假、未按期披露定期報告等原因面臨退市風險。（證券日報）
+
+---
+
+### 2026-07-07 06:55:28  #國際
+
+【國際航運資訊平臺：近期共有108艘船透過霍爾木茲海峽】全球能源市場當前最關注的問題之一，當屬霍爾木茲海峽通航水平究竟恢復到什麼程度。據美國方面6日訊息，國際航運資訊平臺“海上交通網站”的最新資料顯示，本月3日至5日，共有108艘船隻透過了霍爾木茲海峽，通航規模仍遠低於衝突前日均138艘的平均水平。霍爾木茲海峽是全球最重要的能源運輸通道之一，其意義不僅在於每天透過多少油輪，更在於對全球能源供應鏈穩定的保障。當前海峽已由全面中斷轉向有限恢復，但距離恢復正常商業執行仍有相當距離。今後，海峽運輸恢復程度，將繼續受到地區安全形勢、航運企業風險偏好以及美伊之間相關談判的進展等多重因素影響。（央視新聞）
+
+---
+
+### 2026-07-07 06:55:02  #公司
+
+三星電子將於 7 月 30 日釋出第二季度財報。
+
+---
+
+### 2026-07-07 06:54:41  #MKT News #Important #SNDK.O #Impact bearish #MU.O
+
+After Samsung Electronics issued earnings guidance, SanDisk (SNDK.O) and Micron Technology (MU.O) fell in US after-hours trading, down 1.2% and 0.7% respectively.
+
+---
+
+### 2026-07-07 06:53:42  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Extends Gains, Hits New High — The NZX 50 rose 13 points, or 0.1%, to 13,776 in Tuesday morning trade, marking the third consecutive session of gains and hitting a fresh record high, tracking a rally on Wall Street overnight buoyed by strong gains in semiconductor stocks. Easing oil prices continued to lift sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed's meeting minutes due later this week. Traders shrugged off expectations of an interest rate hike by the RBNZ at its meeting on Wednesday, with the market expecting the central bank to raise its policy rate by 25 bps to 2.5%. Consumer staples, financials, and healthcare mainly drove the index, with notable gains from A2 Milk (2.7%), AFT Pharmaceuticals (2.4%), Scales Corporation (0.8%), ANZ Group (0.5%), Summerset Group (0.6%), and Fisher & Paykel (0.4%).
+
+---
+
+### 2026-07-07 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Rises by 1.36% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.36% increase.
+
+---
+
+### 2026-07-07 06:43:56  #公司
+
+【中報預增公司佔比走高，新興產業助力業績增長】截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中證報）
 
 ---
 
@@ -18923,251 +19096,5 @@ European Commission President von der Leyen said no one has contributed more to 
 ### 2026-07-05 03:32:33  #國際
 
 歐盟委員會主席馮德萊恩聲稱，沒有誰比歐盟為加沙付出更多。
-
----
-
-### 2026-07-05 03:20:45  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-An Axios reporter said a Netanyahu visit to the White House would be his first meeting with Trump since a dramatic February Situation Room session in which he presented a plan to go to war with Iran.
-
----
-
-### 2026-07-05 03:20:03  #國際
-
-以色列一名高階官員表示，特朗普與內塔尼亞胡雙方會面的最終日期尚未確定，由於特朗普要前往土耳其，下週進行訪問為時過早。此次訪問或將安排在再下一週。
-
----
-
-### 2026-07-05 03:19:17  #MKT News
-
-Axios: an Israeli senior official said the meeting's final date is not yet set; because of Trump’s visit to Turkey, a visit next week would be premature. The official said, "The visit may take place the following week."
-
----
-
-### 2026-07-05 03:18:30  #國際
-
-美國Axios記者稱，若內塔尼亞胡抵達白宮，這將是自二人二月在白宮局勢研究室那場備受關注的會面以來，雙方的首次會晤，上一次內塔尼亞胡提交了一份對伊朗開戰的方案。
-
----
-
-### 2026-07-05 03:17:40  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli military said one person was killed inside a "security zone" in Lebanon.
-
----
-
-### 2026-07-05 03:06:03  #國際
-
-特朗普： 歐洲正在明白，接納第三世界犯罪分子，自己就會淪為第三世界國家。 這種變化轉瞬之間就會發生。我當選得正是時候。
-
----
-
-### 2026-07-05 03:04:38  #其他
-
-摩洛哥在世界盃十六強賽中以3-0擊敗共同東道主加拿大。
-
----
-
-### 2026-07-05 03:04:09  #國際
-
-伊朗外交部長阿拉格齊：伊朗十分欣慰迎來七十餘國代表，他們專程前來悼念最高領袖哈梅內伊。這場悼念活動將成為伊朗與這些國家交往中一段永恆的記憶。
-
----
-
-### 2026-07-05 03:03:50  #MKT News
-
-Egypt's foreign minister urged maintaining momentum and ensuring full implementation of all provisions of the U.S.-Iran memorandum of understanding.
-
----
-
-### 2026-07-05 03:02:55  #MKT News
-
-Ukrainian President ZELENSKIY spoke with US President Trump on Saturday and congratulated him on the 250th anniversary of the United States' founding, sources said.
-
----
-
-### 2026-07-05 03:01:37  #國際
-
-埃及外交部長呼籲保持推進勢頭，落實美伊諒解備忘錄各項條款。
-
----
-
-### 2026-07-05 03:01:29  #MKT News #Market Regions #Europe & UK
-
-Trump said Europe is learning that admitting criminals from the Third World effectively turns it into a Third World country, that this shift can happen very quickly, and that his election was timely.
-
----
-
-### 2026-07-05 03:01:04  #國際
-
-知情人士透露，烏克蘭總統澤連斯基於週六與特朗普通電話，祝賀美國迎來建國250週年。
-
----
-
-### 2026-07-05 03:00:49  #MKT News
-
-Ali Ozmaei was officially appointed commander of the IRGC Navy.
-
----
-
-### 2026-07-05 03:00:24  #國際
-
-阿里·奧茲馬伊正式被任命為伊朗革命衛隊海軍司令。
-
----
-
-### 2026-07-05 02:58:20  #國際
-
-特朗普：將於晚間十點（北京時間10:00）左右在林肯紀念堂發表講話。
-
----
-
-### 2026-07-05 02:56:44  #MKT News
-
-【Trump says Washington celebration drew unprecedented crowds, calls U.S. stronger than ever】President Trump posted that Washington’s Independence Day celebration drew unprecedented crowds despite the heat. He praised the air show and said he will speak at the Lincoln Memorial at about 10 p.m. He added that the reflecting pool, which was previously vandalized, will be drained and repaired after the weekend.
-
----
-
-### 2026-07-05 02:56:00  #國際
-
-特朗普：週末過後將排空倒影池積水並修復損毀設施。
-
----
-
-### 2026-07-05 02:55:54  #國際
-
-特朗普：華盛頓實際高溫不及此前預報的那般酷熱。
-
----
-
-### 2026-07-05 02:55:26  #國際
-
-【美國官員：霍爾木茲海峽南線航道目前仍在通行】兩名美國官員稱，霍爾木茲海峽的南線航道目前仍在通行。其中一名美國官員稱，大多數船隻在透過時都關閉了電子識別系統，因此開源平臺無法監測到它們。該官員證實，伊朗方面試圖透過甚高頻無線電對船隻進行恐嚇。另一名美國官員表示，近幾天南線航道的通行頻率有所增加（約有50艘船隻透過），且該航道依然暢通。
-
----
-
-### 2026-07-05 02:55:08  #MKT News #WTI #Impact bearish #Brent
-
-【U.S. officials say southern transit lane through Strait of Hormuz remains open】Axios reported two U.S. officials say the Strait of Hormuz southern transit lane remains open. One official said most vessels transit with AIS turned off, making them untrackable on open-source platforms, and confirmed Iran has used VHF radio to harass ships. A second official said roughly 50 vessels used the southern lane in recent days and it remains navigable.
-
----
-
-### 2026-07-05 02:54:14  #其他
-
-美方官員：霍爾木茲海峽南線航道維持通航。
-
----
-
-### 2026-07-05 02:52:00  #MKT News
-
-Iranian Foreign Minister Araghchi said Iran hosted delegations from more than 70 countries, including Arab delegations, at a mourning ceremony for its martyred Supreme Leader Khamenei, describing the event as a historic memorial that will endure in the development of bilateral ties.
-
----
-
-### 2026-07-05 02:45:46  #國際
-
-美國財長貝森特：想要銘記國家與特朗普取得的歷史性成就，沒有比發行印有他簽名的美元紙幣更具分量的方式；恰逢建國250週年推出這款具有里程碑意義的貨幣，再合適不過。
-
----
-
-### 2026-07-05 02:43:45  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-【Military expert: Putin betting on attrition to wear down Ukraine and the West】US Marine veteran and geopolitical analyst Brian Berletic says Russia, leveraging a large industrial base and the ability to sustain trained forces, is pursuing a war of attrition intended to exhaust Ukraine and its Western backers. He says Russia can strike expensive, hard-to-replace Western-supplied equipment and target industrial facilities, command centers and dual-use infrastructure, degrading Ukraine faster than Ukraine or its Western supporters can replenish personnel, equipment and ammunition. To date, he adds, Western production capacity and the scale of Ukrainian drone strikes have not matched Russia.
-
----
-
-### 2026-07-05 02:40:26  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-U.S. Treasury Secretary Bessent said under President Trump the U.S. is moving toward unprecedented economic growth, durable dollar dominance and robust fiscal health.
-
----
-
-### 2026-07-05 02:39:37  #MKT News
-
-German regulator warns proposed major amendments to the Freedom of Information law would effectively abolish government transparency mechanisms.
-
----
-
-### 2026-07-05 02:38:27  #國際
-
-一名白宮官員透露，第一夫人今晚將陪同特朗普，一同出席在國家廣場舉辦的 “致敬美國” 慶典活動。
-
----
-
-### 2026-07-05 02:37:52  #其他
-
-德國監管機構警示：擬議的資訊法重大修訂或將徹底廢除政務透明機制。
-
----
-
-### 2026-07-05 02:37:00  #MKT News #Macro & Rates
-
-【Brazil finance minister Durigan says government credit measures will not weaken monetary policy】Finance Minister Durigan said the Lula government's credit measures are targeted industry support and will not undermine monetary policy. He said the measures did not prevent the Brazil central bank from delivering a larger rate cut at the recent MPC meeting. The government also unveiled a new credit and debt-restructuring program aimed at informal workers.
-
----
-
-### 2026-07-05 02:35:00  #MKT News
-
-【Netanyahu to visit U.S. to meet Trump】President Trump said in a phone interview that Israeli Prime Minister Netanyahu has requested a White House meeting, which could take place as early as next week after Trump returns from the NATO summit. The Israeli prime minister's office said on July 3 that Netanyahu and Trump agreed in a phone call to meet in the United States soon. Trump also said the U.S. and Iran have agreed to pause negotiations for one week until funeral‑related events for Iran's late Supreme Leader Ali Khamenei conclude, and that neither side would open fire during that period.
-
----
-
-### 2026-07-05 02:34:56  #其他
-
-【委內瑞拉地震2954人遇難16592人傷】當地時間7月4日下午，據委內瑞拉政府通報，地震造成的遇難人數升至2954人，此外還有16592人受傷。
-
----
-
-### 2026-07-05 02:34:41  #國際
-
-【內塔尼亞胡近期將訪美與特朗普會晤】當地時間7月4日，美國總統特朗普在接受電話採訪時表示，以色列總理內塔尼亞胡已請求在白宮與他會面，雙方會晤最早可能在下週特朗普結束北約峰會行程後舉行。據以色列總理辦公室7月3日發表的宣告稱，以色列總理內塔尼亞胡和美國總統特朗普通電話，同意在不久的將來雙方在美國會面。此外，特朗普稱，美伊雙方決定在伊朗已故最高領袖阿里·哈梅內伊葬禮相關活動結束前暫停談判一週，期間雙方都不會開火。（央視新聞）
-
----
-
-### 2026-07-05 02:29:05  #國際
-
-美國副總統萬斯：我懇請大家，摒棄非黑即白、片面單薄的視角，既不要用這種眼光看待身邊同胞，也不要以此看待我們的國家。請摒棄零和博弈式的狹隘思維。不要只盯著國家過往的過錯，卻無視它的包容與輝煌。這個國家一路走來的所有成就，都是全體國民共同鑄就。我們從未彼此對立割裂，而是作為一個共同體，攜手奔赴共同的未來。
-
----
-
-### 2026-07-05 02:26:29  #MKT News
-
-Syrian president says he looks forward to establishing a relationship with the United States based on respect and cooperation.
-
----
-
-### 2026-07-05 02:26:28  #MKT News
-
-【China foreign minister Wang Yi meets Jacob Wallenberg, chairman of Sweden's Yinruida Group】On July 4 in Stockholm, China foreign minister Wang Yi met Jacob Wallenberg, chairman of the board of Sweden's Yinruida Group.
-
----
-
-### 2026-07-05 02:24:30  #MKT News
-
-【White supremacist demonstrators protest on Capitol Hill】On the 250th anniversary of US Independence, demonstrators wearing insignia of the white supremacist group "Patriot Front" staged protests at Eastern Market and around Capitol Hill. Participants, some wearing white masks, sunglasses and khaki caps bearing the group's emblem, marched near the Capitol and Union Station carrying Confederate flags, "Patriot Front" flags and inverted US flags, and chanted slogans including "Life, Liberty, Victory!" and "Take back America!"
-
----
-
-### 2026-07-05 02:17:18  #MKT News
-
-【Venezuela earthquake death toll rises to 2,954】Data released by Venezuelan authorities on the 4th show two recent strong earthquakes have killed 2,954 people.
-
----
-
-### 2026-07-05 02:17:17  #其他
-
-【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）
-
----
-
-### 2026-07-05 02:09:56  #MKT News
-
-【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the "security zone" in southern Lebanon.
-
----
-
-### 2026-07-05 02:09:42  #國際
-
-【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）
 
 ---
