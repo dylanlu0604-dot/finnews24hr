@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 52,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019f5273-c843-7aab-8d3f-64711706f457",
+      "time": "2026-07-12 02:32:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela earthquake toll rises to 4,333】Jorge Rodríguez, president of Venezuela’s National Assembly, said at a Caracas press conference on the 11th that two strong earthquakes on June 24 have killed 4,333 people and injured 16,740. Official data show 1,202 aftershocks recorded since the quakes."
+    },
     {
       "id": "4982337",
       "time": "2026-07-12 02:30:25",
