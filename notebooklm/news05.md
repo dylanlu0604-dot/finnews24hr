@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 16:56:04_
-_本檔包含 3124 則快訊，約 614339 字_
+_更新時間：2026-07-11 18:28:41_
+_本檔包含 3138 則快訊，約 616261 字_
+
+---
+
+### 2026-07-07 01:36:21  #其他
+
+SK海力士完成規模達280.7億美元的股票增發融資。
+
+---
+
+### 2026-07-07 01:32:18  #國際
+
+澤連斯基批評彈道導彈防禦武器儲備不足，稱防護民眾所需裝備的產能跟不上需求，這種狀況十分荒謬。
+
+---
+
+### 2026-07-07 01:32:07  #MKT News #Market Regions #Europe & UK
+
+Macron: France pledges support for a sovereign, unified Syria.
+
+---
+
+### 2026-07-07 01:31:31  #公司 #國際
+
+亨廷頓英格爾斯工業公司（HII）獲得可選年度合同，為美國海軍生產“獅子魚”無人潛航器。
+
+---
+
+### 2026-07-07 01:31:05  #其他
+
+【湖北黃石黃岡等地遭遇強對流天氣致8人死亡、1人失聯】據湖北省應急管理廳訊息，6日晚，湖北東部多地遭遇強對流天氣襲擊。19時至23時，黃石、黃岡、鄂州、咸寧等地出現雷暴大風，53個鄉鎮風力達8至13級，其中2個鄉鎮達到13級，部分鄉鎮出現龍捲風。截至6日23時許，此次強對流天氣已造成8人死亡、1人失聯。災情正在進一步核實中，救援工作已全面展開。
+
+---
+
+### 2026-07-07 01:30:58  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Ukrainian President Zelenskiy said there is a shortage of weapons to counter ballistic missiles and that air-defence production capacity cannot meet civilian protection needs, calling the situation "absurd to the extreme".
+
+---
+
+### 2026-07-07 01:29:30  #國際
+
+以色列官員：暫無計劃在黎巴嫩安全緩衝區腹地設立永久性軍事基地。
+
+---
+
+### 2026-07-07 01:28:35  #國際
+
+特朗普：已有50萬名兒童收到特朗普專屬賬戶的首筆1000美元啟動存款。
+
+---
+
+### 2026-07-07 01:27:59  #MKT News #Important
+
+Israeli official says it does not plan to establish permanent military bases in the southern Lebanon security zone.
+
+---
+
+### 2026-07-07 01:27:38  #其他
+
+孟加拉國電力短缺問題持續加劇，該國政府無力支付能源費用，過去兩週每日計劃性限電負荷最高達3350兆瓦。
+
+---
+
+### 2026-07-07 01:24:52  #MKT News #Commodities #Energy #MPC.O
+
+Marathon's Detroit refinery in Michigan restored power after an outage.
+
+---
+
+### 2026-07-07 01:23:34  #MKT News
+
+California Governor Newsom said anyone who assists Trump in interfering with California elections or vote counting will face criminal prosecution.
+
+---
+
+### 2026-07-07 01:22:47  #其他
+
+密歇根州底特律市馬拉松煉油廠停電後已恢復供電。
+
+---
+
+### 2026-07-07 01:22:05  #國際
+
+【國際足聯不受理比利時足協申訴】國際足聯上訴委員會當地時間6日決定不受理比利時足協的上訴。國際足聯將維持此前作出的“允許美國隊球員巴洛貢紅牌禁賽暫緩一年執行、可以繼續出戰”的裁決。 據稱，國際足聯上訴委員會裁定不受理比利時的上訴，理由是比利時並非原程式的當事方，因此不具備質疑該項裁決的法律資格。 比利時足協也釋出宣告，證實已收到國際足聯上訴委員會關於“不受理申訴”的裁定。比利時足協稱，截至目前未獲得其索要的相關材料——即國際足聯宣佈巴洛貢具備參賽資格的決定副本及依據，以及裁判報告。比利時足協指出，這已構成對國際足聯相關規定的違反。 比利時足協補充道：“現已告知美國足協，如果巴洛貢出現在球隊名單中，比利時足協將對其參賽資格提出異議，並保留採取一切後續行動的權利。”
+
+---
+
+### 2026-07-07 01:21:41  #MKT News
+
+TSA said US agencies have seized more than 600 drones near FIFA World Cup venues since June 12.
+
+---
+
+### 2026-07-07 01:21:24  #國際
+
+美國運輸安全管理局（TSA）表示，自6月12日以來，美國機構在世界盃舉辦場地周邊扣押了600多架無人機。
+
+---
+
+### 2026-07-07 01:20:00  #公司 #市場
+
+【英偉達回應Kyber延期傳聞：產品路線圖未受影響】英偉達發言人回應稱，公司產品路線圖未受影響。此前研究機構SemiAnalysis稱，英偉達下一代AI計算架構Kyber因研發受挫，釋出時間可能推遲12個月至2028年，該架構原計劃用於下一代RubinUltraGPU。瑞穗證券分析師JordanKlein表示，市場已多次出現類似英偉達新品延期傳聞，此類訊息更像是“吸引眼球的噪音”。受傳聞影響有限，英偉達股價週一盤中仍上漲約1.2%。Kyber被視為英偉達資料中心架構的重要升級，將採用全新的垂直機架設計，以提升計算密度並降低網路延遲，同時有望帶動資料中心共封裝光學（CPO）產業鏈需求。
+
+---
+
+### 2026-07-07 01:19:49  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.3% to close at 8,480 on Monday, weighed down by losses in the luxury and pharmaceutical sectors. Luxury stocks underperformed, with LVMH down 0.9%, L'Oréal losing 1.2%, and Hermès retreating 0.9%. In healthcare, Sanofi fell 1.7%. Industrials traded mixed, with Schneider Electric down 0.6% and Air Liquide losing 1.5%, while Airbus rose 1.6%, Stellantis gained 2%, and Thales advanced 1.2% after agreeing to acquire a stake in Exail Technologies. Vinci fell 2.1% after France's construction PMI declined to 38.2 in June from 39.6 in May, remaining deep in contraction territory and signaling that the sector has now been shrinking for four consecutive years. Meanwhile, financial stocks outperformed as lower oil prices eased inflation concerns and reinforced expectations of a more dovish ECB, with BNP Paribas up 0.9% and AXA gaining 1%.
+
+---
+
+### 2026-07-07 01:19:27  #公司
+
+市場資訊：三星人工智慧相關業務的盈利結果或將影響半導體股票的近期走勢。
+
+---
+
+### 2026-07-07 01:18:46  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted bids totaling $2.719 billion from 13 counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-07-07 01:17:12  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【NVIDIA denies Kyber delay rumors; product roadmap unaffected】A NVIDIA spokesperson denied reports of a delay to the Kyber AI compute architecture and said the company’s product roadmap is unaffected. Research firm SemiAnalysis had reported Kyber suffered R&D setbacks and could be delayed about 12 months to 2028; the architecture was slated for the next‑generation Rubin Ultra GPU. Mizuho analyst Jordan Klein characterized similar delay chatter as attention‑grabbing noise. The report had limited market impact: NVIDIA shares rose roughly 1.2% intraday on Monday. Kyber is viewed as a material data‑center upgrade, employing a vertical‑rack design to boost compute density and cut network latency, and could lift demand for co‑packaged optics (CPO) in data centers.
+
+---
+
+### 2026-07-07 01:16:53  #央行 #美聯儲
+
+【美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元】美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元，上個交易日報21.75億美元。
+
+---
+
+### 2026-07-07 01:16:16  #央行 #國際
+
+13 家交易對手在美聯儲逆回購操作中獲得 27.19 億美元。
+
+---
+
+### 2026-07-07 01:15:43  #國際
+
+美國《加密貨幣清晰法案》需在8月7日前完成表決透過，否則參議院將休會進入夏季休會期。
+
+---
+
+### 2026-07-07 01:13:41  #國際
+
+【因凡蒂諾：國際足聯獨立裁決涉巴洛貢紅牌禁賽延後處罰案件】當地時間6日，國際足聯主席因凡蒂諾就“美國隊球員巴洛貢紅牌禁賽處罰被延緩執行”一事發表宣告稱：“國際足聯的司法機構具有獨立性。它們自主運作，適用《國際足聯紀律準則》，並依據現行條例及呈於案前的客觀事實作出裁決。這種獨立性對於維護足球運動的公信力與誠信至關重要，必須始終予以尊重。”因凡蒂諾在宣告中承認自己“時常與美國總統特朗普就世界盃相關事宜交換意見”。關於巴洛貢紅牌一事，他也確實接到了特朗普的電話。因凡蒂諾稱，在通話中，他向特朗普闡明，此事“正由國際足聯獨立司法機構依程式進行審理，案件將由主管機構在適當時機依法作出裁決”。
+
+---
+
+### 2026-07-07 01:12:32  #其他
+
+香港撤銷紅色暴雨警告。
+
+---
+
+### 2026-07-07 01:08:51  #國際
+
+市場資訊：中國超越美國，成為全球金融科技專利申請第一大國。
+
+---
+
+### 2026-07-07 01:04:06  #MKT News
+
+Bank of Israel governor said failure by the government to comply with Supreme Court rulings could lead to economic uncertainty.
+
+---
+
+### 2026-07-07 01:03:56  #MKT News
+
+Bank of Israel governor said geopolitical uncertainty and potential fiscal easing warrant caution and could raise inflationary pressures.
+
+---
+
+### 2026-07-07 01:03:38  #MKT News
+
+Bank of Israel governor said a policy rate of 3% would help keep inflation around 2%.
+
+---
+
+### 2026-07-07 01:03:30  #MKT News
+
+Bank of Israel governor said interest rates can continue to decline so long as the inf environment does not change unexpectedly.
+
+---
+
+### 2026-07-07 01:03:28  #央行 #國際
+
+以色列央行行長：利率達到3%將有助於使通脹率保持在2%左右。
+
+---
+
+### 2026-07-07 01:03:21  #央行 #國際
+
+以色列央行行長：由於地緣政治不確定性和可能更寬鬆的財政政策可能導致通脹壓力，我們仍須謹慎行事。
+
+---
+
+### 2026-07-07 01:03:12  #央行 #國際
+
+以色列央行行長：如果政府不遵守最高法院的裁決，可能會造成經濟不確定性。
+
+---
+
+### 2026-07-07 01:03:03  #央行 #國際
+
+以色列央行行長：只要通脹環境沒有意外變化，利率就可以繼續下降。
+
+---
+
+### 2026-07-07 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.04%，滬銅收漲0.01%，滬鋁收漲0.28%，滬鋅收漲0.84%，滬鉛收跌0.06%，滬鎳收漲0.41%，滬錫收漲0.35%。氧化鋁夜盤收跌0.15%，鋁合金收漲0.24%。不鏽鋼夜盤收漲2.34%。
+
+---
+
+### 2026-07-07 00:59:26  #央行 #公司 #市場 #國際
+
+【機構：黃金可能在下半年反彈】根據Navellier & Associates的分析，由於央行購買和歐洲潛在的貨幣寬鬆政策支援需求，黃金可能在2026年下半年復甦。該公司預計黃金價格將在從1月創紀錄高點下跌約25%後，反彈至每盎司4500美元。
+
+---
+
+### 2026-07-07 00:57:46  #MKT News
+
+US ambassador to NATO said the United States has no intention of withdrawing from NATO but is actively studying reducing its level of involvement in the alliance.
+
+---
+
+### 2026-07-07 00:57:12  #焦點 #國際
+
+美國駐北約大使：美國無意退出北約，但正積極尋求減少對該聯盟事務介入程度的途徑。
+
+---
+
+### 2026-07-07 00:56:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. strategic petroleum reserve drops to lowest level since 1983】DOE data show U.S. SPR crude stocks fell about 6.2 mln barrels last week to 319.5 mln barrels, the lowest level since April 1983. The drawdown is part of a previously announced plan to cumulatively release 172 mln barrels from the reserve.
+
+---
+
+### 2026-07-07 00:54:12  #國際
+
+澤連斯基：我要求烏克蘭國家安全域性及各情報部門就維什涅韋鎮遭遇襲擊一事作出詳盡說明。
+
+---
+
+### 2026-07-07 00:54:12  #MKT News
+
+Ukraine's President Zelenskiy has asked the Security Service of Ukraine (SBU) and intelligence agencies to provide a detailed report on the incident in Vyshneve.
+
+---
+
+### 2026-07-07 00:53:48  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Ukraine President Zelenskiy said Russia's large-scale missile and drone strikes have killed 22 people and injured nearly 90, with Kyiv and surrounding areas hardest hit.
+
+---
+
+### 2026-07-07 00:52:25  #國際
+
+特朗普：美方有能力在“不到一個下午”的時間內摧毀伊朗所有電網、電站及橋樑等關鍵基礎設施，但更希望透過協議解決問題，以避免影響伊朗9100萬人口。
+
+---
+
+### 2026-07-07 00:52:23  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump says U.S. could destroy Iran's power grid 'in less than an afternoon'】President Trump said talks with Iran were close to an agreement but warned that if negotiations fail the U.S. would "finish the job." He asserted U.S. forces could destroy Iran's electricity grid, power plants and bridges "in less than an afternoon," but said he prefers a deal to avoid harming Iran's 91 million population. Trump reiterated Iran must not acquire nuclear weapons and said the U.S. would secure enriched nuclear material, while denying an objective of regime change. He also claimed U.S. forces have destroyed all 159 Iranian vessels and all Iranian military aircraft and radar systems. On oil, Trump said global crude is trading below pre-conflict levels and that U.S. forces covertly escorted tankers through the Strait of Hormuz during a blockade to maintain supply and prevent prices reaching $300–350 per barrel.
 
 ---
 
@@ -18672,191 +18942,5 @@ German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to d
 ### 2026-07-04 18:29:48  #其他
 
 【馬裡多地軍方陣地遭襲】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天清晨遭到襲擊，目前軍方正跟蹤局勢發展。 公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。公報未說明襲擊者身份、具體經過以及是否有人員傷亡。（新華社）
-
----
-
-### 2026-07-04 18:28:38  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-【Over 200 Ukrainian drones attack Moscow region; 62 downed near city】Moscow mayor Sergei Sobyanin said on July 4 that more than 200 Ukrainian military drones attacked the Moscow region in the past 24 hours. Most were intercepted at range and 62 were destroyed as they approached Moscow city. Russia called it one of the largest drone attacks on the Moscow region in roughly two years. Ukraine had no immediate comment.
-
----
-
-### 2026-07-04 18:26:41  #市場 #央行 #國際
-
-歐洲央行管委穆蘭週六表示，繼上月加息、且油價下跌帶動通脹回落的資料出爐後，歐洲央行目前處於 “有利地位”。
-
----
-
-### 2026-07-04 18:15:52  #國際
-
-烏克蘭農業綜合企業俱樂部(UCAB)表示，烏克蘭6月農產品出口下降7.5%，至480萬噸。
-
----
-
-### 2026-07-04 18:14:07  #MKT News
-
-Von der Leyen said the European Commission proposed ten months ago to suspend preferential trade treatment under the EU‑Israel Association Agreement.
-
----
-
-### 2026-07-04 18:13:46  #其他
-
-【颱風“美莎克”逼近廣西東興市 今晚將再次登陸】截至今天17點，今年第10號颱風“美莎克”的中心位於距離廣西東興市南偏東方向約75公里的海面上，中心附近最大風力有10級，強度為強熱帶風暴級。預計，“美莎克”將以每小時10~15公里的速度向北偏西移動，強度變化不大。預計颱風“美莎克”今晚將在廣西和越南北部交界附近沿海再次登陸，之後轉向偏北方向移動，強度逐漸減弱。將於6日在廣西北部減弱消散。受“美莎克”影響，今天，廣西中南部、廣東中部、海南島西部等地將有暴雨或大暴雨，廣西南部局地有特大暴雨。
-
----
-
-### 2026-07-04 18:09:07  #其他
-
-中國地震臺網自動測定：07月04日18時07分在雲南大理州賓川縣附近（北緯25.97度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-04 18:06:46  #國際
-
-【超200架無人機來襲 俄稱莫斯科再遭大規模襲擊】當地時間7月4日，俄羅斯莫斯科市長索比亞寧通報稱，過去24小時，有超過200架烏軍無人機襲擊莫斯科地區，其中大部分在遠處被攔截，有62架在接近莫斯科市時被摧毀。俄羅斯方面稱，這是近兩年來針對莫斯科地區最大規模的無人機襲擊之一。烏克蘭方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-07-04 18:03:13  #其他
-
-【颱風“美莎克”對瓊州海峽影響減弱 客滾船將於21時復運】從湛江海事局獲悉，隨著颱風“美莎克”影響持續減弱，瓊州海峽客滾船將於7月4日21時起正式復運。（央視新聞）
-
----
-
-### 2026-07-04 18:01:07  #公司
-
-【廣東太平嶺核電2號機組首次併網發電】從總部位於深圳的中國廣核集團有限公司獲悉，7月4日9時16分，中廣核廣東太平嶺核電專案2號機組首次併網成功，發出第一度電，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。太平嶺核電專案2號機組於2020年10月15日開工建設。併網後經現場確認，機組執行狀態良好，各項技術指標符合設計預期。後續將按計劃執行系列試驗，進一步驗證機組效能，預計將於2026年下半年正式投產發電。（新華社）
-
----
-
-### 2026-07-04 17:57:35  #公司
-
-【我國首架綜合航測飛機首飛成功】從中國航空工業集團獲悉，我國首架大氣環境綜合探測固定翼飛機平臺“運12F大氣綜合航測飛機”近日在哈爾濱平房機場首飛成功。據悉，該型機以運12F飛機為載機，圍繞大氣顆粒物、氣態汙染物、溫室氣體及雲水物理化學等多汙染物高靈敏立體探測需求，完成了60餘項任務裝置的整機大規模整合加改裝工作，具備多汙染物、溫室氣體與雲水探測的整合航測能力。該機的成功研製，將為我國區域大氣汙染監測提供重要的垂直探測手段。（新華社）
-
----
-
-### 2026-07-04 17:54:15  #MKT News
-
-【Ukraine denies Russian control of Konstantynivka】Ukraine's General Staff said on the 4th that reports Russian forces have taken control of Konstantynivka in Donetsk region are false. A General Staff spokesman said Russian forces are still attempting to seize the town; small Russian units have penetrated Ukrainian positions and Ukrainian troops are conducting clearing operations. The situation is severe but the town remains under Ukrainian control.
-
----
-
-### 2026-07-04 17:53:19  #國際
-
-俄羅斯聯邦安全會議副主席梅德韋傑夫：霍爾木茲海峽已成為伊朗的一件武器，其威力不亞於核武器。
-
----
-
-### 2026-07-04 17:49:07  #其他
-
-澳大利亞新南威爾士州確認一例H5禽流感病例。
-
----
-
-### 2026-07-04 17:48:33  #國際
-
-澤連斯基：普京聲稱俄羅斯軍隊已佔領頓巴斯的康斯坦丁諾夫卡。這不是真的。
-
----
-
-### 2026-07-04 17:48:23  #國際
-
-烏克蘭總統澤連斯基：我與德國總理默茨進行了交談。我非常感激他對我們人民和國家的支援與援助。現在的最優先事項是為愛國者系統提供導彈，以保護我們的人民免受俄羅斯彈道導彈襲擊。這也是我們談話的主要焦點：向我們的愛國者系統提供我們所需的導彈的可能性。
-
----
-
-### 2026-07-04 17:47:56  #其他
-
-訊息人士稱，德國內閣將批准借款規模超2030億歐元的預算草案。
-
----
-
-### 2026-07-04 17:38:56  #公司
-
-紐約聯合愛迪生公司（Con Edison）呼籲皇后區東南部的使用者節約能源。此前該公司表示，由於高溫導致裝置故障，2日至3日全市逾8萬使用者遭遇停電。
-
----
-
-### 2026-07-04 17:35:33  #MKT News
-
-【US West wildfires intensify; about 40 large blazes uncontrolled】About 40 large wildfires are currently uncontrolled across the United States, concentrated in the US West. Colorado’s Aspen Acres fire is the most severe: as of July 3 it had burned about 297 sq km, destroyed more than 160 structures, forced thousands to evacuate and is reported fully out of control. The fire ignited southwest of Denver and, driven by persistent drought and strong winds, has spread into Pueblo and Custer counties. The NWS has issued red-flag warnings for large areas of the western US.
-
----
-
-### 2026-07-04 17:35:19  #其他
-
-中國地震臺網自動測定：07月04日17時33分在雲南大理州賓川縣附近（北緯25.96度，東經100.58度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-04 17:35:04  #其他
-
-【總投資15億元，常州三大專案正式簽約】據常州釋出，近日，常州三大用地專案成功簽約，分別為：高階新型裝飾材料智慧研發生產專案、精密機床核心元件生產基地專案、塑編產裝一體化智慧製造專案。專案總投資超15億元，用地約130畝，達產後預計年新增工業產值超17億元。
-
----
-
-### 2026-07-04 17:34:23  #國際
-
-【火情嚴峻 全美約40處大規模山火失控】連日來，美國西部多州山火肆虐，其中科羅拉多州名為“阿斯彭英畝”的山火火情最為嚴峻。當地時間7月3日，該山火過火面積達到了297平方公里，超過160座建築被毀，數千居民被迫撤離。目前，火勢已完全失控。據悉，“阿斯彭英畝”山火從科羅拉多州丹佛市西南方向燃起，受持續乾旱、大風等天氣影響，火勢迅速蔓延至該州普韋布洛縣和卡斯特縣。“阿斯彭英畝”山火只是美國西部當前嚴峻火情的縮影。目前全美約有40處大規模山火處於失控狀態，主要分佈在西部地區。美國國家氣象局已對西部大片地區釋出紅色火災預警。（央視新聞）
-
----
-
-### 2026-07-04 17:26:16  #央行 #國際
-
-歐洲央行管委、法國央行行長穆蘭：我們並未承諾歐洲央行將進行新一輪加息。
-
----
-
-### 2026-07-04 17:25:37  #MKT News
-
-【Chinese naval flotilla to visit Vietnam】Early July, at the invitation of the Vietnamese navy, two PLA Navy ships, Qi Jiguang and Kunlunshan, will visit Ho Chi Minh City. China and Vietnam have stepped up naval exchanges and joint patrols in recent years, which officials say bolster mutual trust and regional stability.
-
----
-
-### 2026-07-04 17:24:14  #市場
-
-【Trendforce：傳統 DRAM價格Q3預計上漲13%至18%】Trendforce 預計，在 2026 年第三季度，傳統 DRAM 產品的合同價格將環比上漲 13%至 18%。
-
----
-
-### 2026-07-04 17:22:39  #其他
-
-【引導人形機器人產業健康發展 兩協會發布倡議】中國人形機器人百人會、中國機械工業聯合會機器人分會分別釋出倡議，呼籲共同打造安全可信、合規向善、可持續發展的人形機器人產業生態，推動機器人產業健康發展。中國人形機器人百人會提出，全行業要堅持科技向善，防範倫理和安全風險，把安全倫理規範要求融入產品設計、研發、廣告宣傳、應用全過程；保障產品使用安全，切實防範對使用者的人身傷害風險；加大基礎技術研發投入，立足實際應用場景推廣應用，協同搭建產業公共平臺。中國機械工業聯合會機器人分會表示，全行業應加強個人隱私保護，規範創新應用，自覺維護清朗健康的產業發展環境；全行業應團結協作，以開放姿態擁抱人工智慧等新技術，共同提升機器人產業核心競爭力。（新華社）
-
----
-
-### 2026-07-04 17:20:48  #國際
-
-美國地質調查局：印尼託貝洛以西64公里處發生5.0級地震。
-
----
-
-### 2026-07-04 17:17:46  #MKT News
-
-US Geological Survey said a magnitude-5.1 earthquake occurred about 264 km off Abepurasi, Indonesia.
-
----
-
-### 2026-07-04 17:16:32  #國際
-
-美國地質調查局：印尼阿貝普拉西側 264 公里處發生5.1級地震。
-
----
-
-### 2026-07-04 17:14:02  #國際
-
-【澤連斯基證實打擊俄聖彼得堡附近石油基礎設施】當地時間4日，烏克蘭總統澤連斯基在社交媒體發文證實，烏方於當日凌晨發起遠端打擊行動，擊中俄羅斯聖彼得堡附近港口的石油基礎設施。與此同時，烏國防力量還打擊了聖彼得堡附近喀琅施塔得的重要軍事目標。當天，俄聖彼得堡市市長別格洛夫稱，該市遭到烏軍大規模無人機襲擊。據他介紹，有72架無人機被攔截。別格洛夫稱，該市基洛夫區的石油碼頭區域被擊中，襲擊造成的影響已被消除，沒有造成人員傷亡。
-
----
-
-### 2026-07-04 17:04:44  #其他
-
-【西班牙東北部發生大規模森林火災】當地時間7月3日晚，西班牙東北部加泰羅尼亞自治區發生大規模森林火災，過火面積約2300公頃。目前，火勢尚未得到控制。近萬名居民被疏散或要求居家避險，多條公路臨時封閉。當地警方稱，已有一人因涉嫌縱火被拘留。初步調查顯示，火災可能是公路施工時使用裝置產生火花引發的，具體原因仍在調查中。（CCTV國際時訊）
-
----
-
-### 2026-07-04 17:04:30  #公司
-
-德國大陸集團 ：將向孤星基金出售康迪泰克集團（Contitech Group）業務板塊。本次交易企業價值為40億歐元，此外最高可獲得基於業績表現的2.5億歐元額外對價。出售康迪泰克後，集團將專注於核心輪胎業務。該交易尚待監管部門批准，有望在2026年底前完成
 
 ---
