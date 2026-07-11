@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-12 06:25:14_
-_本檔包含 3254 則快訊，約 615688 字_
+_更新時間：2026-07-12 07:32:43_
+_本檔包含 3247 則快訊，約 616860 字_
+
+---
+
+### 2026-07-10 11:09:33  #公司 #市場
+
+【電網裝置板塊震盪反彈 海興電力等多股漲停】電網裝置板塊震盪反彈，海興電力封漲停，此前大連電瓷、科陸電子、柘中股份漲停，良信股份、華菱線纜、金利華電、三星電氣跟漲。
+
+---
+
+### 2026-07-10 11:09:09  #市場 #焦點
+
+白銀連續主力合約日內漲4%，現報14805.00元。
+
+---
+
+### 2026-07-10 11:08:50  #公司
+
+【中國電信入股戴盟機器人，後者致力於觸覺靈巧手等產品研發】企查查APP顯示，近日，戴盟（深圳）機器人科技有限公司發生工商變更，新增中國電信集團投資有限公司等為股東，同時註冊資本增至191.74萬元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：智慧機器人的研發；智慧機器人銷售；物聯網應用服務；人工智慧應用軟體開發等。據其官網，該公司致力於研發高解析度多模態觸覺感知、觸覺靈巧手軟硬體產品及“以人為中心”的穿戴式遙運算元據採集系統。
+
+---
+
+### 2026-07-10 11:07:06  #市場
+
+現貨白銀日內漲1%，現報60.55美元/盎司。
+
+---
+
+### 2026-07-10 11:05:28  #宏觀 #國際
+
+【朝鮮內閣總理‌樸泰成抵達北京 開啟訪華行程】今天（10日）上午，朝鮮勞動黨中央委員會政治局常務委員會委員、朝鮮民主主義人民共和國國務委員會副委員長、內閣總理樸泰成率朝鮮民主主義人民共和國黨政代表團乘機抵達北京，開啟對華正式訪問行程。樸泰成總理此次訪華為期三天，將出席《中朝友好合作互助條約》簽訂65週年紀念活動。外交部發言人在談及此次訪問時表示，中方願同朝方一道，以兩黨兩國最高領導人重要共識為指引，加強戰略溝通，密切交往合作，推動中朝傳統友好合作關係不斷向前發展。
+
+---
+
+### 2026-07-10 11:04:40  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量4775億元。
+
+---
+
+### 2026-07-10 11:03:22  #公司
+
+【中信金融資產等成立特殊機遇私募基金】企查查APP顯示，近日，深圳信創煥星特殊機遇私募股權投資基金合夥企業（有限合夥）成立，出資額約100億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由中信金融資產、星火聚信（深圳）投資有限公司共同持股。
+
+---
+
+### 2026-07-10 11:02:20  #其他
+
+玻利維亞將燃油價格凍結至2027年1月。
+
+---
+
+### 2026-07-10 11:00:48  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Slips for Second Session — The yield on the US 10-year Treasury note eased to around 4.54% on Friday, marking a second consecutive session of declines as lower oil prices helped ease inflation concerns and reduced fears of aggressive policy tightening. The move followed reports that the US and Iran will continue peace negotiations despite a recent escalation in hostilities. Even so, markets continue to expect the Federal Reserve to raise interest rates at least once this year. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence. Separately, Fed Chair Kevin Warsh announced the leadership of five task forces to review the US central bank’s approach to key areas of policymaking, signaling potential changes in how the Federal Reserve conducts monetary policy.
+
+---
+
+### 2026-07-10 11:00:22  #市場 #焦點
+
+現貨黃金突破4130美元/盎司，日內漲0.16%。
+
+---
+
+### 2026-07-10 11:00:09  #市場 #焦點
+
+紐約期金突破4140美元/盎司，日內跌0.01%。
+
+---
+
+### 2026-07-10 10:58:16  #其他
+
+港股MINIMAX-W(00100.HK)跌超10%，MINIMAX-W完成新一輪160億港幣融資。
+
+---
+
+### 2026-07-10 10:58:05  #市場 #焦點
+
+北證50日內漲幅達1.05%，成分股中，XD連城數漲5.42%，青矩技術漲5.32%，國子軟體漲5.23%，萬達軸承漲5.21%。
+
+---
+
+### 2026-07-10 10:56:23  #公司
+
+【陽光電源：海外CSP廠商對公司SST產品認可度較高 預計2026年以小批次樣機和試驗驗證為主】陽光電源(300274)在投資者關係活動記錄表中表示，SST成為必然趨勢，主要源於AI算力爆發對資料中心供電架構提出的根本性挑戰。SST能夠消除中間多級變換損耗，是支撐AI算力持續擴張的基礎設施最優解。海外CSP廠商對公司SST產品認可度較高，公司未來會加強實驗設施建設，提高認可度，夯實可靠性。公司與北美頭部雲廠商均有溝通，共同定義產品規格。預計2026年以小批次樣機和試驗驗證為主，配合頭部客戶進行現場測試，2027年開始有批次訂單，2028年及以後規模化發展，匹配新一代算力晶片的擴容需求。
+
+---
+
+### 2026-07-10 10:56:12  #其他
+
+【螞蟻靈波釋出具身原生世界動作模型LingBot-VA 2.0】7月10日，螞蟻靈波釋出業界首個具身原生世界動作模型 LingBot-VA 2.0。據介紹，LingBot-VA 2.0不再沿用行業常見的“影片生成模型微調”路線，而是基於自迴歸架構從零開始預訓練，圍繞動態建模、因果預測和實時執行等機器人與真實環境互動的核心需求進行原生設計。
+
+---
+
+### 2026-07-10 10:55:48  #公司
+
+【法本資訊新設智慧科技公司，含AI軟體開發業務】企查查APP顯示，近日，杭州法本匯程智慧科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；資訊系統整合服務；計算機軟硬體及外圍裝置製造等。企查查股權穿透顯示，該公司由法本資訊全資持股。
+
+---
+
+### 2026-07-10 10:55:30  #其他
+
+市場訊息：騰訊正洽談成為Manus的最大股東，騰訊預計將持有少數股權。
+
+---
+
+### 2026-07-10 10:54:37  #公司
+
+【陽光電源：未來資料中心配儲是大勢所趨 公司爭取在2026年實現相關訂單落地】陽光電源在最新披露的投資者關係活動記錄表中表示，目前資料中心配儲出發點多樣，如併網優先權、負載友好、套利等，未來資料中心配儲是大勢所趨。公司會努力與國際頭部雲廠商、國內頭部的網際網路企業開展合作，開展產品立項和開發，爭取在2026年實現相關訂單落地。
+
+---
+
+### 2026-07-10 10:53:30  #公司 #市場
+
+【房地產板塊震盪走強，首開股份漲停】房地產板塊震盪走強，首開股份漲停，粵宏遠A、盈新發展此前封板，華髮股份、天健集團、深振業A、天地源、市北高新跟漲。
+
+---
+
+### 2026-07-10 10:51:40  #其他
+
+【小紅書：7月小紅書App使用時長環比增速相比6月提升2倍佘】從小紅書方面獲悉，在世界盃影響下，7月小紅書App使用時長環比增速相比6月提升2倍；日釋出筆記數量增速相比6月增加3倍；在互動直播場景中，小紅書長時間觀播使用者數量同比增長了5倍。（介面新聞）
+
+---
+
+### 2026-07-10 10:51:11  #市場 #焦點
+
+比特幣升破64000美元，日內漲1.23%。
+
+---
+
+### 2026-07-10 10:49:07  #其他
+
+【元壩氣田累計生產天然氣突破400億立方米】今天（10日），全球首個超深層高含硫生物礁大氣田——元壩氣田累計生產天然氣量突破400億立方米，透過“川氣東送”管道惠及長江沿線6省2市近2億居民，為保障國家能源安全、支撐長江經濟帶高質量發展注入了清潔能源動能。（央視新聞）
+
+---
+
+### 2026-07-10 10:48:56  #公司 #市場
+
+【豬肉產業概念震盪反彈，金新農、京基智農雙雙漲停】豬肉產業概念震盪反彈，金新農、京基智農雙雙漲停，邦基科技、大禹生物、華統股份、湘佳股份、益生股份、永順生物等跟漲。
+
+---
+
+### 2026-07-10 10:48:55  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Jumps on Intervention Fears — The Japanese yen strengthened past 161.5 per dollar on Friday, erasing all of its losses from earlier in the week as traders remained alert to the possibility of official intervention after the currency weakened to fresh 40-year lows. Market participants are now awaiting intervention data due later this month to determine whether Japanese authorities were behind the sharp but short-lived rallies seen in recent weeks. Investors also assessed data showing Japan’s producer prices climbed 7.1% in June, marking the fastest annual increase since March 2023 amid persistent cost pressures linked to the Middle East conflict and the yen’s sharp depreciation. Meanwhile, oil prices retreated after reports indicated that the US and Iran will continue peace negotiations despite a recent escalation in hostilities. That weighed on the dollar and Treasury yields while easing pressure on the yen by reducing import cost concerns for Japan, which depends heavily on Middle Eastern oil.
 
 ---
 
@@ -19429,191 +19573,5 @@ China Southern 2x Long Samsung Electronics (07747) rose 6.6%; China Southern 2x 
 ### 2026-07-09 09:31:10  #MKT News #CNH #Impact bearish
 
 【NBS: China June CPI down 0.3% MoM, up 1.0% YoY】The National Bureau of Statistics reported June CPI rose 1.0% YoY; urban +1.0%, rural +0.8%. Food prices fell 1.6% YoY, non-food +1.5%; consumer goods +1.1% YoY, services +0.8% YoY. Jan–Jun average CPI +1.0% YoY. Month-on-month June CPI declined 0.3% (urban -0.4%, rural -0.3%); food -0.4% MoM, non-food -0.3% MoM; consumer goods -0.6% MoM, services unchanged.
-
----
-
-### 2026-07-09 09:31:10  #MKT News #CSI300 #Impact bullish
-
-【Index futures morning open】CSI 300 index futures (IF) most-active contract up 0.20% at open; SSE 50 index futures (IH) most-active contract down 0.10%; CSI 500 index futures (IC) most-active contract up 0.50%; CSI 1000 index futures (IM) most-active contract up 0.35%.
-
----
-
-### 2026-07-09 09:31:04  #市場 #國際
-
-日本30年期國債收益率上升3個基點，至4.030%。
-
----
-
-### 2026-07-09 09:31:03
-
-國家統計局：2026年6月份，全國居民消費價格同比上漲1.0％。
-
----
-
-### 2026-07-09 09:31:02  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Stocks in China Hit 4-week Low — SHANGHAI decreased to 3968.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.32%, and in the last 12 months, it increased 13.41%.
-
----
-
-### 2026-07-09 09:31:00  #MKT News #Market Regions #Greater China #Copper #Impact bearish #WTI #CNH
-
-China June PPI fell 0.3% month-on-month, versus +0.5% in May.
-
----
-
-### 2026-07-09 09:30:57  #市場
-
-【國家統計局：2026年6月份居民消費價格同比上漲1.0%】2026年6月份，全國居民消費價格同比上漲1.0%。其中，城市上漲1.0%，農村上漲0.8%；食品價格下降1.6%，非食品價格上漲1.5%；消費品價格上漲1.1%，服務價格上漲0.8%。1—6月平均，全國居民消費價格比上年同期上漲1.0%。 6月份，全國居民消費價格環比下降0.3%。其中，城市下降0.4%，農村下降0.3%；食品價格下降0.4%，非食品價格下降0.3%；消費品價格下降0.6%，服務價格持平。
-
----
-
-### 2026-07-09 09:30:54  #MKT News #Economic Calendar #Important
-
-China | PPI (MoM) (Jun) | actual -0.3% | previous 0.5%
-
----
-
-### 2026-07-09 09:30:40  #公司 #市場
-
-【亞聯機械一字漲停】亞聯機械一字漲停，公司預計上半年業績增長近6成，海外高毛利專案發力。
-
----
-
-### 2026-07-09 09:30:38  #MKT News #Important #Market Regions #Greater China
-
-China's factory-gate producer price index (PPI) rose 4.1% YoY in June 2026 and fell 0.3% MoM, National Bureau of Statistics data showed.
-
----
-
-### 2026-07-09 09:30:30  #資料
-
-中國6月PPI年率 4.1%，預期4.1%，前值3.90%。
-
----
-
-### 2026-07-09 09:30:28  #資料
-
-中國6月CPI年率 1%，預期1.1%，前值1.20%。
-
----
-
-### 2026-07-09 09:30:27  #MKT News #Important #Market Regions #Greater China
-
-China's consumer price index rose 1.0% YoY in June 2026, the National Bureau of Statistics said.
-
----
-
-### 2026-07-09 09:30:23  #MKT News #Market Regions #Greater China #Copper #Impact bearish #WTI #Brent
-
-China June CPI m/m -0.3% (exp -0.2%, prev -0.1%).
-
----
-
-### 2026-07-09 09:30:22  #MKT News #Market Regions #Greater China
-
-China June PPI YoY 4.1%; expected 4.1%; prior 3.9%.
-
----
-
-### 2026-07-09 09:30:21  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH #Impact mixed
-
-China June CPI YoY 1.0% vs 1.1% consensus; May 1.2%.
-
----
-
-### 2026-07-09 09:30:16  #MKT News #Economic Calendar #Important
-
-China | CPI (MoM) (Jun) | actual -0.3% | consensus -0.2% | previous -0.1%
-
----
-
-### 2026-07-09 09:30:15  #MKT News #Economic Calendar #Important
-
-China | PPI (YoY) (Jun) | actual 4.1% | consensus 4.1% | previous 3.90%
-
----
-
-### 2026-07-09 09:30:15  #MKT News #Economic Calendar #Important
-
-China | CPI (YoY) (Jun) | actual 1% | consensus 1.1% | previous 1.20%
-
----
-
-### 2026-07-09 09:30:05  #MKT News
-
-Thailand deputy finance minister says government aims to raise investment share of GDP from 22-23% to 30%.
-
----
-
-### 2026-07-09 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-07-09 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.49%， 滬深300指數期貨連續跌0.02%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續跌0.21%。
-
----
-
-### 2026-07-09 09:30:02  #市場 #焦點
-
-科創50日內漲幅達1.54%，成分股中，沐曦股份漲5.70%，晶合整合漲5.54%，佰維儲存漲3.42%，盛美上海漲3.13%。
-
----
-
-### 2026-07-09 09:29:58  #國際
-
-泰國副財長：政府計劃將國內生產總值中的投資率從22-23%提高到30%。
-
----
-
-### 2026-07-09 09:29:54  #MKT News
-
-Shanghai Yashi shares hit the daily trading limit after the company said 1H net profit is expected to rise 407–515% year-on-year.
-
----
-
-### 2026-07-09 09:29:33  #MKT News
-
-Thailand's deputy finance minister said the government hopes to boost investment in the economy.
-
----
-
-### 2026-07-09 09:29:29  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-Mainland A-share fiber-optic sector opened higher; Xingwang Yuda hit the daily limit-up, Meishi Technology approached limit-up, and Shaanxi Huada, Tefa Information and Changyingtong opened higher.
-
----
-
-### 2026-07-09 09:29:25  #MKT News
-
-Thailand's deputy finance minister said the government is considering diversifying fuel sources.
-
----
-
-### 2026-07-09 09:29:19  #公司 #市場
-
-半導體產業鏈開盤活躍，合肥城建接近漲停，普冉股份、匯成股份、沐曦股份、晶合整合、神工股份紛紛高開。
-
----
-
-### 2026-07-09 09:29:12  #公司 #市場
-
-【上海雅仕一字漲停】上海雅仕一字漲停，公司上半年淨利潤預增407%到515%。
-
----
-
-### 2026-07-09 09:29:04  #公司
-
-【Meta將投資100億美元，在加拿大建設其首個資料中心】當地時間7月8日，Meta發表宣告稱，將投資130億加元（約合100億美元），建設其在加拿大的首個資料中心，以擴大基礎設施來支援其人工智慧發展目標。Meta在宣告中介紹，該資料中心位於艾伯塔省斯特金縣，電力容量將達到1吉瓦。Meta將為這一新的發電設施提供資金，該設施將接入艾伯塔省的電網。Meta稱，該設施建設期間需要3000名建築工人，建成後將創造300個全職工作崗位。此外，該公司還將投資約6000萬加元用於當地基礎設施改善，包括道路和供水設施。
-
----
-
-### 2026-07-09 09:28:32  #央行 #日本央行
-
-【日本央行前官員：本輪加息週期終端利率或超2%】日本央行前官員渡邊努週三表示，日本央行可能在今年晚些時候加快加息步伐，並最終將基準利率推高至2%以上，以遏制通脹。
 
 ---

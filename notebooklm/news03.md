@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-12 06:25:14_
-_本檔包含 3623 則快訊，約 616694 字_
+_更新時間：2026-07-12 07:32:43_
+_本檔包含 3640 則快訊，約 616557 字_
+
+---
+
+### 2026-07-09 09:31:10  #MKT News #CSI300 #Impact bullish
+
+【Index futures morning open】CSI 300 index futures (IF) most-active contract up 0.20% at open; SSE 50 index futures (IH) most-active contract down 0.10%; CSI 500 index futures (IC) most-active contract up 0.50%; CSI 1000 index futures (IM) most-active contract up 0.35%.
+
+---
+
+### 2026-07-09 09:31:04  #市場 #國際
+
+日本30年期國債收益率上升3個基點，至4.030%。
+
+---
+
+### 2026-07-09 09:31:03
+
+國家統計局：2026年6月份，全國居民消費價格同比上漲1.0％。
+
+---
+
+### 2026-07-09 09:31:02  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+Stocks in China Hit 4-week Low — SHANGHAI decreased to 3968.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.32%, and in the last 12 months, it increased 13.41%.
+
+---
+
+### 2026-07-09 09:31:00  #MKT News #Market Regions #Greater China #Copper #Impact bearish #WTI #CNH
+
+China June PPI fell 0.3% month-on-month, versus +0.5% in May.
+
+---
+
+### 2026-07-09 09:30:57  #市場
+
+【國家統計局：2026年6月份居民消費價格同比上漲1.0%】2026年6月份，全國居民消費價格同比上漲1.0%。其中，城市上漲1.0%，農村上漲0.8%；食品價格下降1.6%，非食品價格上漲1.5%；消費品價格上漲1.1%，服務價格上漲0.8%。1—6月平均，全國居民消費價格比上年同期上漲1.0%。 6月份，全國居民消費價格環比下降0.3%。其中，城市下降0.4%，農村下降0.3%；食品價格下降0.4%，非食品價格下降0.3%；消費品價格下降0.6%，服務價格持平。
+
+---
+
+### 2026-07-09 09:30:54  #MKT News #Economic Calendar #Important
+
+China | PPI (MoM) (Jun) | actual -0.3% | previous 0.5%
+
+---
+
+### 2026-07-09 09:30:40  #公司 #市場
+
+【亞聯機械一字漲停】亞聯機械一字漲停，公司預計上半年業績增長近6成，海外高毛利專案發力。
+
+---
+
+### 2026-07-09 09:30:38  #MKT News #Important #Market Regions #Greater China
+
+China's factory-gate producer price index (PPI) rose 4.1% YoY in June 2026 and fell 0.3% MoM, National Bureau of Statistics data showed.
+
+---
+
+### 2026-07-09 09:30:30  #資料
+
+中國6月PPI年率 4.1%，預期4.1%，前值3.90%。
+
+---
+
+### 2026-07-09 09:30:28  #資料
+
+中國6月CPI年率 1%，預期1.1%，前值1.20%。
+
+---
+
+### 2026-07-09 09:30:27  #MKT News #Important #Market Regions #Greater China
+
+China's consumer price index rose 1.0% YoY in June 2026, the National Bureau of Statistics said.
+
+---
+
+### 2026-07-09 09:30:23  #MKT News #Market Regions #Greater China #Copper #Impact bearish #WTI #Brent
+
+China June CPI m/m -0.3% (exp -0.2%, prev -0.1%).
+
+---
+
+### 2026-07-09 09:30:22  #MKT News #Market Regions #Greater China
+
+China June PPI YoY 4.1%; expected 4.1%; prior 3.9%.
+
+---
+
+### 2026-07-09 09:30:21  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH #Impact mixed
+
+China June CPI YoY 1.0% vs 1.1% consensus; May 1.2%.
+
+---
+
+### 2026-07-09 09:30:16  #MKT News #Economic Calendar #Important
+
+China | CPI (MoM) (Jun) | actual -0.3% | consensus -0.2% | previous -0.1%
+
+---
+
+### 2026-07-09 09:30:15  #MKT News #Economic Calendar #Important
+
+China | PPI (YoY) (Jun) | actual 4.1% | consensus 4.1% | previous 3.90%
+
+---
+
+### 2026-07-09 09:30:15  #MKT News #Economic Calendar #Important
+
+China | CPI (YoY) (Jun) | actual 1% | consensus 1.1% | previous 1.20%
+
+---
+
+### 2026-07-09 09:30:05  #MKT News
+
+Thailand deputy finance minister says government aims to raise investment share of GDP from 22-23% to 30%.
+
+---
+
+### 2026-07-09 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-07-09 09:30:03  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.49%， 滬深300指數期貨連續跌0.02%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續跌0.21%。
+
+---
+
+### 2026-07-09 09:30:02  #市場 #焦點
+
+科創50日內漲幅達1.54%，成分股中，沐曦股份漲5.70%，晶合整合漲5.54%，佰維儲存漲3.42%，盛美上海漲3.13%。
+
+---
+
+### 2026-07-09 09:29:58  #國際
+
+泰國副財長：政府計劃將國內生產總值中的投資率從22-23%提高到30%。
+
+---
+
+### 2026-07-09 09:29:54  #MKT News
+
+Shanghai Yashi shares hit the daily trading limit after the company said 1H net profit is expected to rise 407–515% year-on-year.
+
+---
+
+### 2026-07-09 09:29:33  #MKT News
+
+Thailand's deputy finance minister said the government hopes to boost investment in the economy.
+
+---
+
+### 2026-07-09 09:29:29  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+Mainland A-share fiber-optic sector opened higher; Xingwang Yuda hit the daily limit-up, Meishi Technology approached limit-up, and Shaanxi Huada, Tefa Information and Changyingtong opened higher.
+
+---
+
+### 2026-07-09 09:29:25  #MKT News
+
+Thailand's deputy finance minister said the government is considering diversifying fuel sources.
+
+---
+
+### 2026-07-09 09:29:19  #公司 #市場
+
+半導體產業鏈開盤活躍，合肥城建接近漲停，普冉股份、匯成股份、沐曦股份、晶合整合、神工股份紛紛高開。
+
+---
+
+### 2026-07-09 09:29:12  #公司 #市場
+
+【上海雅仕一字漲停】上海雅仕一字漲停，公司上半年淨利潤預增407%到515%。
+
+---
+
+### 2026-07-09 09:29:04  #公司
+
+【Meta將投資100億美元，在加拿大建設其首個資料中心】當地時間7月8日，Meta發表宣告稱，將投資130億加元（約合100億美元），建設其在加拿大的首個資料中心，以擴大基礎設施來支援其人工智慧發展目標。Meta在宣告中介紹，該資料中心位於艾伯塔省斯特金縣，電力容量將達到1吉瓦。Meta將為這一新的發電設施提供資金，該設施將接入艾伯塔省的電網。Meta稱，該設施建設期間需要3000名建築工人，建成後將創造300個全職工作崗位。此外，該公司還將投資約6000萬加元用於當地基礎設施改善，包括道路和供水設施。
+
+---
+
+### 2026-07-09 09:28:32  #央行 #日本央行
+
+【日本央行前官員：本輪加息週期終端利率或超2%】日本央行前官員渡邊努週三表示，日本央行可能在今年晚些時候加快加息步伐，並最終將基準利率推高至2%以上，以遏制通脹。
 
 ---
 
@@ -21733,89 +21919,5 @@ Asia FX Updates: Indian Rupee Rises by 0.38% — Top currency gainers are Indian
 ### 2026-07-08 10:09:55  #其他
 
 【德國：人工智慧推動德國初創企業創紀錄增長】據德國創業協會與資料分析機構Startupdetector最新發布的調研顯示，2026年上半年德國共有3053家初創企業成立，創下歷史同期最高紀錄，與2025年下半年相比增長52%。其中1038家企業擁有明確的人工智慧業務背景，佔新增初創企業總數的三分之一以上。報告顯示，人工智慧顯著降低了初創企業的門檻，使創始人能夠以更少的資金更快更輕鬆地啟動業務。其中軟體行業依然是最強勁的行業，達844家初創企業。
-
----
-
-### 2026-07-08 10:09:46  #央行 #國際
-
-泰國央行：與其他國家相比，泰國的通脹風險仍然相對有限。
-
----
-
-### 2026-07-08 10:09:28  #央行 #其他
-
-紐西蘭央行：貨幣政策立場經校準，旨在將通脹拉回目標水平，同時避免造成不必要的經濟不穩定。
-
----
-
-### 2026-07-08 10:09:00  #市場 #焦點
-
-【A股RISC概念板塊異動拉昇】飛利信漲12.13%，雲天勵飛、復旦微電、芯原股份、全志科技、樂鑫科技、中科藍訊跟漲。
-
----
-
-### 2026-07-08 10:09:00  #市場 #焦點
-
-【A股AI晶片板塊異動拉昇】瑞芯微漲8.02%，雲天勵飛、復旦微電、翱捷科技、崑崙萬維、晶晨股份、全志科技跟漲。
-
----
-
-### 2026-07-08 10:08:48  #國際
-
-【特朗普有望最快週三取消對敘利亞的恐怖主義認定】據報道，主張改善美敘關係的人士認為，美國總統特朗普有望最快週三撤銷對敘利亞“支援恐怖主義國家”的認定。一位美國國務院官員稱，特朗普去年6月指示對這一認定進行審查，相關評估仍在進行中。這名官員表示，在撤銷該認定之前還需完成多個步驟。
-
----
-
-### 2026-07-08 10:08:33  #市場
-
-【算力租賃板塊區域性活躍，網宿科技20cm漲停】算力租賃板塊區域性活躍，網宿科技20cm漲停，飛利信漲超10%，雲天勵飛、深信服、優刻得跟漲。
-
----
-
-### 2026-07-08 10:08:31  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Firms Up on Mideast Tensions — The dollar index held above 101 on Wednesday after advancing in the previous session, supported by renewed safe-haven demand as the US military carried out fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The latest escalation threatened the interim US-Iran peace deal to end the war and pushed oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for additional clues on the policy outlook after the central bank adopted a more hawkish tone at its June policy meeting. Markets are currently pricing in around a 50% chance of a Fed rate increase in September, up from about 46% a day prior. Elsewhere, data on Tuesday showed the US trade deficit widened to $77.6 billion in May, the largest since March 2025.
-
----
-
-### 2026-07-08 10:08:08  #市場 #焦點
-
-上海原油連續主力合約日內漲5%，現報461.40元。
-
----
-
-### 2026-07-08 10:07:41  #其他
-
-【新菲光光模組量產加速，不排除和歐菲光有更多資本層面合作可能】記者從新菲光處獲悉，目前新菲光處於光模組量產的關鍵時期，需要更多歐菲光過往量產經驗的賦能，也不排除跟歐菲光有更多資本層面合作的可能，以獲得歐菲光支援。（介面新聞）
-
----
-
-### 2026-07-08 10:07:34  #經濟數據 #美國
-
-【調查：美國6月消費者近中期通脹預期走高】紐約聯邦儲備銀行7月7日釋出的月度調查資料顯示，美國消費者6月份對近期和中期通脹預期回升，而長期通脹預期則保持不變。
-
----
-
-### 2026-07-08 10:07:23  #央行 #國際
-
-【日本銀行貸款增速創疫情以來最快，為央行加息路徑提供支撐】日本銀行6月貸款增速創新冠疫情以來最快水平，表明信貸渠道仍然暢通，日本央行仍有繼續加息的空間。據日本央行週三釋出報告，日本6月季調後除信託外銀行貸款同比增長6.3%，為2020年8月以來最強勁增長。央行表示，增長主要受併購、房地產和經濟復甦相關貸款推動。（新華財經）
-
----
-
-### 2026-07-08 10:07:15  #Trading Economics #Economy #New Zealand #Interest Rate #Importance 2
-
-RBNZ Raises OCR, Flags Further Rate Hikes — The Reserve Bank of New Zealand raised its cash rate by 25 bps to 2.50% at its July meeting, the first hike in three years and in line with expectations, as policymakers aimed to return inflation to the 2% target, while avoiding economic disruption. The central bank said the partial reopening of the Strait of Hormuz has lowered global oil, gas and petrochemical prices, easing near-term inflation pressures. Headline inflation is expected to decline from a peak of 3.9% in Q2 2026 to around 2% over the next 12 months. However, the Committee warned that the effects of the energy shock could persist, with medium-term risks tied to firms’ pricing behaviour, margin rebuilding and a weaker exchange rate. The economy lost momentum in the June quarter as higher energy costs weighed on activity, but growth is expected to recover in the September quarter as fuel prices ease and confidence improves. Policymakers noted that further increases remain possible, with the pace dependent on incoming data.
-
----
-
-### 2026-07-08 10:06:28  #央行 #國際
-
-泰國央行會議紀要：受能源和生產成本傳導影響，預計2026年剩餘時間通脹率將超出目標區間。
-
----
-
-### 2026-07-08 10:06:20  #公司 #國際
-
-【北約公佈大規模軍購計劃】北大西洋公約組織（北約）7日在該組織峰會期間公佈多項總額達數百億美元的軍購和防務投資計劃，涉及反無人機能力建設、無人機採購等。北約秘書長呂特當天在峰會期間舉行的防務工業論壇上敦促北約成員國政府和西方軍工企業擴大投資、提升產能。他宣佈，北約成員國未來五年將投資超過400億美元用於反無人機能力建設，並計劃到2027年底將無人機操作員接受培訓的人數增加五倍。北約公佈的軍購計劃還包括丹麥、芬蘭、德國、挪威4國採購美國諾思羅普-格魯曼公司的“人魚海神”無人機，11個北約成員國還將採購瑞典薩博公司的“全球眼”預警機等。（新華社）
 
 ---
