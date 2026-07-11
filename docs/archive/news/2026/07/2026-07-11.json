@@ -1,7 +1,23 @@
 {
   "date": "2026-07-11",
-  "count": 430,
+  "count": 432,
   "items": [
+    {
+      "id": "mkt:019f4eb9-f780-7aab-8d3a-fa0ce860d169",
+      "time": "2026-07-11 09:10:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangsu raises typhoon emergency response to Level III; coastal zones to face gusts near Beaufort 10】Jiangsu Meteorological Observatory issued a typhoon yellow warning at 06:06 on Jul 11, 2026. Typhoon Bavi is expected to affect the province Jul 11–14: Nanjing, Wuxi, Changzhou, Suzhou, Nantong, Yancheng, Yangzhou, Zhenjiang, Taizhou and Lianyungang sea areas forecast maximum gusts around Beaufort 10; Xuzhou, Lianyungang, Huai'an and Suqian around Beaufort 9; Nantong and Yancheng sea areas and rivers/lakes/reservoirs south of the Huai River around Beaufort 11. Jiangsu flood-control headquarters elevated the provincial typhoon emergency response to Level III effective 06:00 Jul 11, 2026."
+    },
+    {
+      "id": "4981983",
+      "time": "2026-07-11 09:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【FF：計登出近5000萬份認股權證並調整融資交割】法拉第未來宣佈，經與投資人協商一致，終止了合計5,359,525份A類普通股認股權證。繼2025年12月終止44,551,199份認股權證後,公司累計已消除約4,990萬份認股權證。公司對其日期為2025年7月14日的證券購買協議進行了修訂，旨在最佳化交割結構並加快資金到位速度；此後，公司在未來的後續交割中將不再向部分投資者發行認股權證，從而進一步降低潛在稀釋影響，並幫助減少公司的潛在負債。在公司機器人三位一體業務的放量關鍵時期，公司將繼續最佳化資產負債結構，綜合選擇最適合的融資方式，為公司長期價值釋放和引入戰略投資者打好基礎。"
+    },
     {
       "id": "4981982",
       "time": "2026-07-11 09:03:56",
