@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-11 21:40:08",
-  "count": 16324,
+  "updated": "2026-07-11 21:44:04",
+  "count": 16325,
   "items": [
+    {
+      "id": "mkt:019f516a-91b5-7aab-8d3e-6f567053d77e",
+      "time": "2026-07-11 21:42:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhongke Xingtu to Release Aerospace Innovation Product Matrix】Zhongke Xingtu said it will host the 2026 Aerospace Information Conference and Ecosystem Partners Summit in Wuxi on July 16-17. The company will unveil a suite of aerospace products covering low-altitude safety, low-altitude planning and applications, space management and aerospace information cloud services, positioned as infrastructure to support aerospace development."
+    },
+    {
+      "id": "4982266",
+      "time": "2026-07-11 21:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科星圖：空天創新產品矩陣即將釋出】據中科星圖訊息，7月16日—17日，2026空天資訊大會暨中科星圖生態合夥人大會將在無錫舉辦。此次大會，中科星圖將釋出空天領域一系列創新成果，涵蓋低空安全、低空規劃、低空應用、太空管理、空天資訊雲服務等前沿方向，助力構建空天發展“新基建”。"
+    },
+    {
+      "id": "mkt:019f5167-9e13-7aab-8d3e-61df68736c67",
+      "time": "2026-07-11 21:39:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's foreign minister said the country now needs firm, united action and must strip Russia of the ability to intimidate Ukrainian cities."
+    },
     {
       "id": "mkt:019f5167-46f8-7aab-8d3e-583a7d03f691",
       "time": "2026-07-11 21:39:10",
@@ -148899,26 +148927,6 @@
         "國際"
       ],
       "text": "以色列軍隊炸燬了加沙地帶城鎮汗尤尼斯東部其控制區內的多座建築物。"
-    },
-    {
-      "id": "mkt:019f2d5c-434f-7aab-8c9d-32b5c53bbc2d",
-      "time": "2026-07-04 21:40:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "【Iran says it dismantled multiple 'terrorist and extremist' cells linked to US and Israeli intelligence】Iran's Intelligence Ministry said on the 4th that security forces, working with the IRGC and national police, dismantled four cells it says were linked to US and Israeli intelligence agencies in Sistan‑Baluchestan province, including Zahedan. Five principal members were arrested and two armed suspects killed. Authorities also said they uncovered and dismantled an additional five‑person cell suspected of plotting attacks on military units and judicial institutions; those suspects were detained. Security forces seized firearms, multiple hand grenades, four radio units, a Starlink satellite communications kit and large quantities of ammunition. Iran said the suspects received military and explosives training abroad and had planned sabotage, assassinations and terrorist attacks but were arrested before acting and the network has been dismantled."
-    },
-    {
-      "id": "4970478",
-      "time": "2026-07-04 21:40:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高雄往返寧波等兩岸直飛航線陸續復航】由春秋航空運營的高雄往返寧波直飛航線4日正式復航，由空客A320機型執飛，每週二、六各開行一班。 該航線9C8685航班於15時30分從寧波櫟社機場起飛，17時35分抵達高雄機場；9C8686航班於18時35分從高雄機場起飛，20時35分抵達寧波櫟社機場。 春秋航空表示，此前旅客在兩地間往返需要中轉，單程在途時間通常超過5個小時，直航恢復後單程飛行時間縮短至約2小時，出行效率大幅提升。 近期，多家大陸航空公司接連恢復兩岸直飛航線。東方航空本月1日起恢復臺中往返成都直飛航線，山東航空預計23日起恢復臺中往返青島直飛航線。（新華社）"
     }
   ]
 }
