@@ -1,7 +1,23 @@
 {
   "date": "2026-07-12",
-  "count": 90,
+  "count": 92,
   "items": [
+    {
+      "id": "4982366",
+      "time": "2026-07-12 05:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴領導人需實施廣泛改革，趁現在還來得及。"
+    },
+    {
+      "id": "mkt:019f531a-7b86-7aab-8d3f-bb1179b5e8a0",
+      "time": "2026-07-12 05:34:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he would still win the presidential election in a landslide despite pervasive media smearing and fake news, arguing this shows mainstream media have no credibility."
+    },
     {
       "id": "4982365",
       "time": "2026-07-12 05:27:03",
