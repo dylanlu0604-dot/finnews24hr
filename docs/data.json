@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 03:16:40",
-  "count": 16291,
+  "updated": "2026-07-12 03:22:13",
+  "count": 16287,
   "items": [
+    {
+      "id": "4982347",
+      "time": "2026-07-12 03:18:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：阿曼將在該國水域開放南部航道，船舶通行無需前置審批。伊朗將把阿曼的方案帶回德黑蘭商議。"
+    },
     {
       "id": "4982346",
       "time": "2026-07-12 03:15:35",
@@ -148571,56 +148579,6 @@
         "國際"
       ],
       "text": "歐盟委員會主席馮德萊恩聲稱，沒有誰比歐盟為加沙付出更多。"
-    },
-    {
-      "id": "mkt:019f2e93-7cc4-7aab-8c9f-0d2f49cf6fe2",
-      "time": "2026-07-05 03:20:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An Axios reporter said a Netanyahu visit to the White House would be his first meeting with Trump since a dramatic February Situation Room session in which he presented a plan to go to war with Iran."
-    },
-    {
-      "id": "4970583",
-      "time": "2026-07-05 03:20:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名高階官員表示，特朗普與內塔尼亞胡雙方會面的最終日期尚未確定，由於特朗普要前往土耳其，下週進行訪問為時過早。此次訪問或將安排在再下一週。"
-    },
-    {
-      "id": "mkt:019f2e92-24bf-7aab-8c9f-03a55474b39a",
-      "time": "2026-07-05 03:19:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios: an Israeli senior official said the meeting's final date is not yet set; because of Trump’s visit to Turkey, a visit next week would be premature. The official said, \"The visit may take place the following week.\""
-    },
-    {
-      "id": "4970582",
-      "time": "2026-07-05 03:18:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國Axios記者稱，若內塔尼亞胡抵達白宮，這將是自二人二月在白宮局勢研究室那場備受關注的會面以來，雙方的首次會晤，上一次內塔尼亞胡提交了一份對伊朗開戰的方案。"
-    },
-    {
-      "id": "mkt:019f2e90-ac0f-7aab-8c9e-fb8580894ae9",
-      "time": "2026-07-05 03:17:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israeli military said one person was killed inside a \"security zone\" in Lebanon."
     }
   ]
 }
