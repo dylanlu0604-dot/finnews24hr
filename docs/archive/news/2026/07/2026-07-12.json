@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "mkt:019f51f4-b74f-7aab-8d3e-f2f45a3fba9a",
+      "time": "2026-07-12 00:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to AFP, a Lebanese military official said a US military delegation met with the Lebanese army in Beirut to discuss implementing Israel's withdrawal from a \"pilot zone\" in Israeli-occupied territory."
+    },
     {
       "id": "mkt:019f51f0-2782-7aab-8d3e-ea19dd42f9c4",
       "time": "2026-07-12 00:08:40",
