@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-12 00:47:45",
-  "count": 16324,
+  "updated": "2026-07-12 00:51:47",
+  "count": 16321,
   "items": [
+    {
+      "id": "4982318",
+      "time": "2026-07-12 00:48:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克社交媒體發文稱，OpenAI CEO奧特曼把詐騙提升到了一個全新的高度。奧特曼回應馬斯克：“是你一直在向公開市場投資者兜售短期太空資料中心專案。”"
+    },
+    {
+      "id": "mkt:019f5213-dcd4-7aab-8d3f-21e02341b78d",
+      "time": "2026-07-12 00:47:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reports explosions heard in Erbil and Sulaymaniyah in northern Iraq."
+    },
     {
       "id": "mkt:019f5212-1384-7aab-8d3f-1eb621ff53f6",
       "time": "2026-07-12 00:45:44",
@@ -148849,50 +148869,6 @@
         "國際"
       ],
       "text": "特朗普：美國和伊朗決定暫停會談一週。"
-    },
-    {
-      "id": "mkt:019f2e35-13bd-7aab-8c9e-4237267e8068",
-      "time": "2026-07-05 00:51:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Netanyahu may visit White House after NATO summit, Trump says】Axios reports President Trump said Israeli Prime Minister Netanyahu has requested a White House meeting, possibly as soon as next week after Trump finishes the NATO summit. Trump said “we get along well” and that Netanyahu “knows who’s boss.”"
-    },
-    {
-      "id": "4970541",
-      "time": "2026-07-05 00:49:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普對部分伊朗民眾在哈梅內伊葬禮上落淚一事感到意外。"
-    },
-    {
-      "id": "mkt:019f2e34-d662-7aab-8c9e-36687549a0c6",
-      "time": "2026-07-05 00:48:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY said Russia proposed a six-hour ceasefire in Konstantinovka on Monday to facilitate transfer of bodies and expects Ukraine to respond by Sunday midday."
-    },
-    {
-      "id": "4970540",
-      "time": "2026-07-05 00:48:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【內塔尼亞胡擬造訪白宮，特朗普稱其“清楚誰才是主事之人”】特朗普週六接受採訪時透露，以色列總理內塔尼亞胡主動請求前往白宮與他會晤；特朗普出席北約峰會歸國後，雙方最早下週便可會面。特朗普表示：“我們相處得很不錯，內塔尼亞胡心裡清楚誰才是主事的人。”"
-    },
-    {
-      "id": "4970539",
-      "time": "2026-07-05 00:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡“知道誰才是老大”。"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-07-12",
-  "count": 24,
+  "count": 26,
   "items": [
+    {
+      "id": "4982318",
+      "time": "2026-07-12 00:48:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克社交媒體發文稱，OpenAI CEO奧特曼把詐騙提升到了一個全新的高度。奧特曼回應馬斯克：“是你一直在向公開市場投資者兜售短期太空資料中心專案。”"
+    },
+    {
+      "id": "mkt:019f5213-dcd4-7aab-8d3f-21e02341b78d",
+      "time": "2026-07-12 00:47:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reports explosions heard in Erbil and Sulaymaniyah in northern Iraq."
+    },
     {
       "id": "mkt:019f5212-1384-7aab-8d3f-1eb621ff53f6",
       "time": "2026-07-12 00:45:44",
