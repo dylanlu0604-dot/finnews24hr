@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 838,
+  "count": 839,
   "items": [
+    {
+      "id": "mkt:019f5192-6750-7aab-8d3e-bf83abfb7676",
+      "time": "2026-07-11 22:26:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran supreme leader urges revenge over Khamenei death, clouds prospects for new talks】Al Jazeera reports Iran is taking a harder line after Supreme Leader Mujtaba called for revenge, saying whoever holds power must avenge the late Khamenei and those killed in US and Israeli military actions. The move complicates timing for diplomacy: the US says a new round of talks is imminent while Iranian media deny that. Foreign Ministry spokesman Bagai denied reports Iran has asked to resume negotiations. The Strait of Hormuz remains a flashpoint; Foreign Minister Araghchi is visiting Oman to arrange security of transit through the strait."
+    },
     {
       "id": "mkt:019f518f-bada-7aab-8d3e-b12a9d6a361a",
       "time": "2026-07-11 22:23:21",
