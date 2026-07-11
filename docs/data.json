@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 21:44:04",
-  "count": 16325,
+  "updated": "2026-07-11 21:48:12",
+  "count": 16324,
   "items": [
+    {
+      "id": "mkt:019f516c-cc5a-7aab-8d3e-75b6cf5ddcc1",
+      "time": "2026-07-11 21:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Foreign Ministry said the Saudi foreign minister spoke with Pakistan's foreign minister, confirming Saudi support for mediation efforts and the resumption of dialogue."
+    },
     {
       "id": "mkt:019f516a-91b5-7aab-8d3e-6f567053d77e",
       "time": "2026-07-11 21:42:46",
@@ -148911,22 +148919,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部表示，其部隊正在清除利曼鎮的烏克蘭軍隊。"
-    },
-    {
-      "id": "4970483",
-      "time": "2026-07-04 21:47:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱已控制烏克蘭東部五個定居點。"
-    },
-    {
-      "id": "4970482",
-      "time": "2026-07-04 21:45:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍隊炸燬了加沙地帶城鎮汗尤尼斯東部其控制區內的多座建築物。"
     }
   ]
 }

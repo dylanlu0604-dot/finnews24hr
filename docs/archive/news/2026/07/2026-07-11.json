@@ -1,7 +1,15 @@
 {
   "date": "2026-07-11",
-  "count": 819,
+  "count": 820,
   "items": [
+    {
+      "id": "mkt:019f516c-cc5a-7aab-8d3e-75b6cf5ddcc1",
+      "time": "2026-07-11 21:45:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Foreign Ministry said the Saudi foreign minister spoke with Pakistan's foreign minister, confirming Saudi support for mediation efforts and the resumption of dialogue."
+    },
     {
       "id": "mkt:019f516a-91b5-7aab-8d3e-6f567053d77e",
       "time": "2026-07-11 21:42:46",
