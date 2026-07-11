@@ -1,7 +1,70 @@
 {
   "date": "2026-07-11",
-  "count": 742,
+  "count": 749,
   "items": [
+    {
+      "id": "mkt:019f50e6-3d62-7aab-8d3d-795de8f753f8",
+      "time": "2026-07-11 19:18:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hebei will upgrade flood-control emergency response in Chengde and Tangshan from Level III to Level II."
+    },
+    {
+      "id": "mkt:019f50e5-e10a-7aab-8d3d-77ae6174d94a",
+      "time": "2026-07-11 19:17:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia will begin importing oil products this month, the deputy prime minister said."
+    },
+    {
+      "id": "4982226",
+      "time": "2026-07-11 19:17:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北將針對承德、唐山的防汛三級應急響應提升至二級】根據當前雨水情和汛情形勢，經研究，河北省防汛抗旱指揮部決定於7月11日18時將針對承德、唐山的防汛三級應急響應提升至二級。本次降雨夜雨特徵明顯，河北省防指要求，各級各部門要密切關注雨水情及汛情變化，強化各項防範措施，打足提前量，果斷擴面轉移危險區群眾，做好搶險救援救災工作，全力確保人民群眾生命財產安全。"
+    },
+    {
+      "id": "4982225",
+      "time": "2026-07-11 19:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理：國內燃料供應形勢依然嚴峻。"
+    },
+    {
+      "id": "4982224",
+      "time": "2026-07-11 19:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員稱：美國和伊朗將於週六在阿曼恢復談判。"
+    },
+    {
+      "id": "mkt:019f50e5-0acc-7aab-8d3d-6cd5616cd7bd",
+      "time": "2026-07-11 19:16:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said the ban on diesel exports is intended to meet domestic demand and that repairs to damaged refineries will be accelerated."
+    },
+    {
+      "id": "4982223",
+      "time": "2026-07-11 19:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理：本月我們將開始進口石油產品。"
+    },
     {
       "id": "4982222",
       "time": "2026-07-11 19:15:30",
