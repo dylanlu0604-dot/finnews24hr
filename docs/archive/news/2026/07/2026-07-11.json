@@ -1,7 +1,37 @@
 {
   "date": "2026-07-11",
-  "count": 416,
+  "count": 419,
   "items": [
+    {
+      "id": "4981973",
+      "time": "2026-07-11 08:36:08",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【多空因素交織 國際金價本週震盪加劇】本週，國際金價坐上“過山車”，在連跌三天後逐步企穩。截至7月10日，倫敦金現貨價格徘徊在4100美元/盎司附近。訊息面上，市場對美聯儲後續加息路徑的判斷分歧加大；與此同時，中東地緣局勢有所反覆，不確定因素增多，黃金市場多空博弈明顯加劇。業內人士認為，短期來看，美聯儲政策預期和中東局勢將主導金價波動節奏；中長期來看，全球央行持續購金、全球經濟不確定性上升等因素，仍將為黃金提供結構性支撐。（中國證券報）"
+    },
+    {
+      "id": "4981972",
+      "time": "2026-07-11 08:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，特朗普政府官員在遭解僱前就曾試圖尋找繞開選舉機構的方案。"
+    },
+    {
+      "id": "mkt:019f4e98-f4d2-7aab-8d3a-d2e64af1bff8",
+      "time": "2026-07-11 08:34:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【ETF count tops 1,600; equity ETFs attract nearly CNY100bn in month】New ETF listings have pushed China’s total ETF count past 1,600. Equity ETFs recorded net inflows of nearly CNY100 billion this month, with ETFs serving as a primary channel for funds entering the market. Multiple institutions say they remain constructive on equities for long-term allocation."
+    },
     {
       "id": "mkt:019f4e98-1050-7aab-8d3a-c99350ac26a2",
       "time": "2026-07-11 08:33:36",
