@@ -1,7 +1,18 @@
 {
   "date": "2026-07-12",
-  "count": 72,
+  "count": 73,
   "items": [
+    {
+      "id": "mkt:019f52d2-8f11-7aab-8d3f-9300509ed17e",
+      "time": "2026-07-12 04:15:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US official says US team did not travel to Oman for talks with Iran】A US official said US negotiators did not travel to Oman for talks with Iran and that a US technical team will not be present on-site; Washington will remain in contact with Oman and Qatar as events evolve. A US official said Washington had expected Iran to publicly commit to stop attacks on vessels in the Strait of Hormuz after the talks, but Iranian sources reported no such commitment. Iranian sources said Oman and Iran discussed a \"mechanism for safe passage of vessels\" and that Oman urged preventing regional escalation through diplomacy."
+    },
     {
       "id": "4982351",
       "time": "2026-07-12 04:13:45",
