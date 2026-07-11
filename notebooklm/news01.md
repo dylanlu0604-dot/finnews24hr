@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-11 23:12:10_
-_本檔包含 2892 則快訊，約 619364 字_
+_更新時間：2026-07-12 00:05:58_
+_本檔包含 2903 則快訊，約 618825 字_
+
+---
+
+### 2026-07-12 00:03:14  #其他
+
+【“張雪機車”獲WSBK多寧頓公園站首回合第八名】11日在2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組別首回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯取得第八名。凱旋車隊的英國車手布思-阿莫斯奪得冠軍。（新華社）
+
+---
+
+### 2026-07-12 00:02:41  #其他
+
+【高溫乾旱加劇火情 義大利多地林火持續】受持續高溫、乾旱及大風天氣影響，義大利北部皮埃蒙特大區以及西西里島、撒丁島等地森林火災仍在持續。相關部門已投入消防飛機、直升機及地面救援力量展開撲救。當地時間7月11日，皮埃蒙特大區釋出宣告稱，此輪森林火災已造成都靈、韋爾切利、諾瓦拉和韋巴諾-庫西奧-奧索拉等省約800至900公頃森林過火，約70萬棵樹木被毀，演變成一場“生態災難”。宣告表示，受損地區草本植物和灌木恢復預計需要2至5年，而森林生態系統恢復則可能需要50至70年。皮埃蒙特大區初步調查認為，此輪火災多由雷擊引發，在高溫、乾旱和強風作用下迅速蔓延。（央視新聞）
+
+---
+
+### 2026-07-12 00:01:14  #其他
+
+據貓眼專業版資料，電影 《小黃人與大怪獸》 上映10天， 總票房破2億。
+
+---
+
+### 2026-07-11 23:59:30  #國際
+
+美國空軍方面表示，軍方在一項晉升必考科目閱卷評分出現差錯後，135 名原本被告知獲得晉升資格的空軍人員將無法兌現此次晉升。
+
+---
+
+### 2026-07-11 23:45:33  #國際
+
+市場資訊：伊朗正試圖與阿曼就霍爾木茲海峽達成協議。
+
+---
+
+### 2026-07-11 23:42:15  #其他
+
+【應急管理部對河北啟動國家地質災害三級應急響應】記者從應急管理部獲悉，應急管理部11日將針對河北的國家地質災害四級應急響應提升至三級，針對安徽啟動國家地質災害四級應急響應。據氣象部門預測，受西南季風和颱風“巴威”影響，安徽南部、河北中部和東北部等部分地區大暴雨，局地特大暴雨。經應急管理部與自然資源部會商研判，安徽南部局地發生地質災害風險高，河北東北部發生地質災害風險很高。（新華社）
+
+---
+
+### 2026-07-11 23:39:41  #國際
+
+【伊朗方面公佈被導彈擊中的約旦美軍基地衛星影象】當地時間7月11日，伊朗方面公佈衛星影象，稱是伊朗導彈擊中的約旦美軍基地。伊朗方面訊息稱，衛星影象顯示，位於約旦的穆瓦法克·薩爾提空軍基地在美國多次違反停火後遭到打擊。影象顯示，基地內至少有兩處設施遭導彈擊中，據稱美軍戰機機庫被毀，但目前尚不清楚機庫內當時存放何種裝備。伊朗方面稱，此前美國和約旦方面均表示，來襲目標已全部被攔截。當地時間9日，美軍部署在約旦穆瓦法克·薩爾提的基地遭目標鎖定。約旦政府在一份宣告中稱，該國軍方已攔截來自伊朗方面的導彈，並將持續為維護國家安全做好準備。約旦軍方稱，攔截了8枚來自伊朗的導彈。（央視新聞）
+
+---
+
+### 2026-07-11 23:31:39  #其他 #焦點
+
+【颱風“巴威”在浙江台州玉環登陸】今年第9號颱風“巴威”(颱風級)的中心已於11日23時20分前後在臺州玉環登陸，登陸時中心附近最大風力13級(40米/秒)，中心最低氣壓為955百帕。（央視新聞）
+
+---
+
+### 2026-07-11 23:31:01  #國際
+
+以色列警方稱，四名以色列定居者因涉嫌襲擊美國有線電視新聞網（CNN）採訪團隊被逮捕。
+
+---
+
+### 2026-07-11 23:27:06  #其他
+
+【國內航司計劃取消12日進出港航班超2800架次】大資料顯示，7月11日，上海浦東機場、常州奔牛機場、上海虹橋機場、杭州蕭山機場、寧波櫟社機場、無錫碩放機場等約36個機場釋出了雷雨天氣預報。上海浦東機場、杭州蕭山機場、寧波櫟社機場、上海虹橋機場、北京首都機場當日臨時取消航班量位列國內前五。截至7月11日20:00，今天國內機場的延誤航班數量超1300架次。福州長樂、舟山普陀山、武夷山、梧州西江、安順黃果樹、義烏、寧波櫟社、瓊海博鰲等機場的航班大面積取消；北京首都、北京大興機場大面積延誤，最高延誤比例達96%。截至7月11日20:00，國內各航司計劃取消12日進出港航班超2800架次，建議旅客密切關注天氣狀況和航班動態，靈活調整出行安排。（央視新聞）
+
+---
+
+### 2026-07-11 23:26:09  #國際
+
+卡達外交部：首相強調，所有各方（美伊）有必要堅持外交途徑，執行諒解備忘錄，並確保航行自由。
+
+---
+
+### 2026-07-11 23:25:44  #國際
+
+黎巴嫩軍方訊息人士：軍方領導層與美國軍事代表團會晤，以建立在南部實施首個試點地區的機制。
+
+---
+
+### 2026-07-11 23:25:35  #國際
+
+美國官員：萬斯不會前往安曼，魯比奧、維特科夫和庫什納也不會參與那裡的會談。
+
+---
+
+### 2026-07-11 23:22:11  #其他
+
+【受颱風“巴威”影響 上海部分景區景點暫時關閉】記者從上海文旅部門及多個景區獲悉，受今年第9號颱風“巴威”影響，上海已有數十家景區暫時關閉或調整運營安排。 截至11日下午4時，暫時關閉的50餘家國家A級旅遊景區分佈在上海市崇明區、閔行區、金山區、奉賢區、嘉定區、浦東新區、寶山區、青浦區、松江區等，包括上海市崇明區西沙明珠湖景區、上海東灘溼地公園、金山城市沙灘景區、楓涇古鎮、上海花開海上生態園、上海閔行文化公園、上海國際賽車場旅遊景區、碧海金沙景區、上海佘山國家森林公園東佘山園及西佘山園等。（新華社）
+
+---
+
+### 2026-07-11 23:19:13  #國際
+
+美國官員：如果與伊朗談判失敗，特朗普有（其他）多個選項。
+
+---
+
+### 2026-07-11 23:12:44  #其他
+
+【湖北十堰釋出暴雨紅色預警】湖北十堰市氣象臺2026年7月11日20時38分發布暴雨紅色預警訊號：過去2小時，竹溪豐溪界梁村雨量已達60毫米。預計未來3小時，竹溪豐溪及周邊鄉鎮區域性累計雨量將達100毫米以上，山區山洪、地質災害、中小河流洪水、城鄉積澇風險極高，請注意防範。（央視新聞）
 
 ---
 
@@ -17508,35 +17604,5 @@ Asia FX Updates: Japanese Yen Appreciates by 0.56% — Top currency gainers are 
 ### 2026-07-10 10:13:32  #其他
 
 【廣東：重點推動800G光傳輸系統和全光交叉連線裝置規模部署】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，有序推動珠三角城市5G-A網路規模部署和熱點區域連續覆蓋，積極參與工信部6G技術試驗，率先開展6G網路建設與商用部署，形成6G首發優勢。持續擴大萬兆光網試點建設，實現重點場景量質齊增，加快推動園區網路升級。推動G.654E等新型光纖光纜規模部署，重點推動800G光傳輸系統和全光交叉連線裝置規模部署，構建大頻寬、低時延、高可靠的全光承載底座。深化網際網路協議第六版（IPv6）單棧規模部署。積極部署量子通訊骨幹網，推進400G及以上高速量子通道建設。
-
----
-
-### 2026-07-10 10:13:27  #市場
-
-韓元兌美元抹平跌幅。
-
----
-
-### 2026-07-10 10:13:19  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-【Guangdong to prioritize large-scale deployment of 800G optical transmission and all-optical cross-connects】Guangdong’s draft provincial information and communications plan (15th Five-Year Plan) calls for orderly large-scale deployment of 5G-A in Pearl River Delta cities with continuous hotspot coverage and active participation in MIIT 6G trials, aiming to take an early lead in 6G construction and commercial roll-out. The draft seeks to expand 10G PON pilots, accelerate campus network upgrades and scale deployment of new fiber types including G.654E, with a specific push for large-scale deployment of 800G optical transmission systems and all-optical cross-connect equipment to build a high-bandwidth, low-latency, high-reliability all-optical bearer. It also calls for deepening IPv6 single‑stack rollout and actively deploying a quantum communication backbone, advancing 400G-plus high-speed quantum channels.
-
----
-
-### 2026-07-10 10:12:46  #其他
-
-馬斯克：Starlink 現在可以在全球任何地方提供可靠的 10Gbps 對稱傳送/接收連線。
-
----
-
-### 2026-07-10 10:11:48  #國際
-
-【中泰經貿聯委會貿易投資分委會第四次會議在曼谷召開】7月9日，商務部副部長鄢東與泰國商業部副部長披婭努在泰國曼谷共同召開中泰經貿聯委會貿易投資分委會第四次會議。雙方就深化中泰貿易、投資、區域和多邊合作等議題深入交換意見。鄢東表示，在兩國元首戰略引領下，中泰經貿關係穩中有進，合作成果豐碩。“十五五”時期，中國將聚焦推動高質量發展，不斷擴大高水平對外開放，為包括泰國在內的世界各國提供更大機遇。中方願與泰方一道，加強經貿政策規劃對接，促進貿易投資合作高質量發展，深化區域和多邊經貿合作，為構建更為穩定、更加繁榮、更可持續的中泰命運共同體貢獻力量。披婭努表示，泰方讚賞雙方在經貿領域取得的積極成果，希同中方深化在農產品貿易、電子商務、中小企業等領域合作，透過中國國際進口博覽會、中國—東盟博覽會、“共享大市場·出口中國”系列活動等平臺擴大泰國對華出口，願為中國企業赴泰國投資創造良好營商環境。
-
----
-
-### 2026-07-10 10:11:41  #MKT News #Important #Market Regions #Greater China
-
-【Guangdong proposes accelerating R&D in 6G, optical and satellite communications】A Guangdong draft 15th Five-Year plan for the information and communications industry, released for public comment, proposes targeted support for basic telecom operators to join provincial R&D programs and directs strategic labs (including Pengcheng National Laboratory) and leading firms to build a full-process innovation ecosystem. The plan calls for accelerated technology development in 6G, optical communications, satellite communications, quantum communications and intelligent communication systems, and for research on new network architectures such as air-space-ground integrated networks and sensing‑compute‑communications integration. It prioritizes cultivating a 6G industry chain and advancing R&D and industrialization of core components — digital baseband chips, RF front-end chips, 6G modules — and next‑generation network equipment. The draft also pushes application research on integrating quantum encryption with information networks and fusing quantum and classical computing, targeting breakthroughs in quantum computing, quantum materials, precision measurement, quantum security and key core devices.
 
 ---

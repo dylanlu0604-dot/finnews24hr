@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-11 23:12:10_
-_本檔包含 3292 則快訊，約 618676 字_
+_更新時間：2026-07-12 00:05:58_
+_本檔包含 3293 則快訊，約 618213 字_
+
+---
+
+### 2026-07-08 09:33:53  #公司 #市場
+
+【半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%】半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%，芯原股份、瑞芯微、盛科通訊跟漲。
+
+---
+
+### 2026-07-08 09:33:15  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-07-08 09:32:38  #市場
+
+【旅遊概念表現活躍 西藏旅遊直線漲停】旅遊概念表現活躍，西藏旅遊直線漲停，錦江酒店、大連聖亞、張家界、陝西旅遊跟漲。
+
+---
+
+### 2026-07-08 09:32:24  #MKT News #Important #Market Regions #Greater China #HSI #Impact bullish #01347.HK #00981.HK
+
+Hong Kong stocks opened higher and extended gains. The Hang Seng Index rose about 1%, the Hang Seng Technology Index climbed more than 2%, with semiconductors leading — Huahong Hongli (01347.HK) up over 5% and SMIC (00981.HK) nearly 4%.
+
+---
+
+### 2026-07-08 09:32:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China index futures open higher】China's CSI 300 index futures (IF) front-month contract up 0.29% at the morning open; SSE 50 index futures (IH) up 0.25%; CSI 500 (IC) up 0.48%; CSI 1000 (IM) up 0.34%.
+
+---
+
+### 2026-07-08 09:32:06  #MKT News
+
+【Chinese government bond futures open】Chinese government bond futures opened: 2-year (TS) main contract unchanged, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.03%.
+
+---
+
+### 2026-07-08 09:31:52  #公司 #市場
+
+【交換機、通訊裝置方向盤初拉昇，紫光股份漲停】交換機、通訊裝置方向盤初拉昇，紫光股份漲停，銳捷網路、星網銳捷、菲菱科思、翱捷科技跟漲。
+
+---
+
+### 2026-07-08 09:31:50  #市場 #焦點
+
+恒生科技指數漲超2％，恒生指數現漲1％，半導體板塊走強。
+
+---
+
+### 2026-07-08 09:31:40  #市場 #焦點
+
+恒生指數漲超1%，現報23732.898點；恒生科技指數現漲1.775%。
+
+---
+
+### 2026-07-08 09:30:58  #公司 #市場
+
+【AI伺服器概念盤初活躍 浪潮資訊一字漲停】早盤AI伺服器概念活躍，浪潮資訊一字漲停，紫光股份7天3板，華勤技術、中科曙光、神州數碼漲幅靠前。
+
+---
+
+### 2026-07-08 09:30:58  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-share fiber-optic sector advanced; Meishi Technology posted a second consecutive limit-up to a fresh high, while Hangtian Electric, Changyingtong, Zhengfan Technology and Zhaochi each rose more than 5%.
+
+---
+
+### 2026-07-08 09:30:40  #公司
+
+【歐菲光創始人蔡榮軍企業新菲光進入北美頭部資料中心供應鏈，今年將迎關鍵客戶量產】記者獲悉，由歐菲光創始人蔡榮軍發起設立的新菲光，已經進入了北美多個頭部資料中心客戶的供應鏈，今年預計會有關鍵客戶實現量產。與此同時，新菲光已經與國內多家頭部通訊硬體廠商建立合作，幾家頭部網際網路平臺也都在公司的重點突破名單中。（介面新聞）
 
 ---
 
@@ -19799,71 +19871,5 @@ Rivian filed paperwork with the SEC proposing an offering of 75 million Class A 
 ### 2026-07-07 04:59:37  #市場
 
 週一（7月6日）紐約尾盤，現貨黃金跌0.32%，報4163.55美元/盎司。COMEX黃金期貨漲1.19%，報4175美元/盎司。現貨白銀跌0.62%，報62.0263美元/盎司。COMEX白銀期貨漲2.31%，報62.475美元/盎司。COMEX銅期貨漲1.41%，報6.2560美元/磅。現貨鉑金跌0.62%，現貨鈀金跌0.21%。
-
----
-
-### 2026-07-07 04:56:58  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact mixed
-
-【Dollar index edges up on the 6th】The dollar index, which measures the U.S. currency against six major peers, rose 0.01% to 100.853 at the New York close. EUR/USD 1.1443 (prev. 1.1439); GBP/USD 1.3395 (prev. 1.3356); USD/JPY 162.06 (prev. 161.36); USD/CHF 0.8050 (prev. 0.8035); USD/CAD 1.4209 (prev. 1.4198); USD/SEK 9.6255 (prev. 9.6436).
-
----
-
-### 2026-07-07 04:55:40  #市場
-
-【美元指數6日微漲】衡量美元對六種主要貨幣的美元指數當天上漲0.01%，在匯市尾市收於100.853。截至紐約匯市尾市，1歐元兌換1.1443美元，高於前一交易日的1.1439美元；1英鎊兌換1.3395美元，高於前一交易日的1.3356美元。1美元兌換162.06日元，高於前一交易日的161.36日元；1美元兌換0.8050瑞士法郎，高於前一交易日的0.8035瑞士法郎；1美元兌換1.4209加元，高於前一交易日的1.4198加元；1美元兌換9.6255瑞典克朗，低於前一交易日的9.6436瑞典克朗。
-
----
-
-### 2026-07-07 04:53:02  #MKT News #Market Themes #The Trump Trade #WMT.O
-
-TRUMP said Walmart is acting "boldly" and urged other retailers to follow the example of the "patriotic company".
-
----
-
-### 2026-07-07 04:52:44  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices slip on 6th】At the close, NYMEX August-delivery light crude futures fell $0.14 to $68.55/bbl, down 0.2%; ICE Brent September-delivery futures fell $0.13 to $71.99/bbl, down 0.18%.
-
----
-
-### 2026-07-07 04:52:13  #MKT News
-
-Central Bank of Argentina market expectations survey shows economists expect end-2026 inf at 30.0%, 0.5ppt below prior forecast; 2026 GDP growth seen at 3.0%, 0.1ppt above prior forecast.
-
----
-
-### 2026-07-07 04:51:51  #市場
-
-【國際油價6日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌14美分，收於每桶68.55美元，跌幅為0.2%；9月交貨的倫敦布倫特原油期貨價格下跌13美分，收於每桶71.99美元，跌幅為0.18%。
-
----
-
-### 2026-07-07 04:51:16  #公司 #市場 #觀點
-
-【7月7日美股成交額前20：SpaceX即將正式納入納斯達克100指數】第2名SpaceX收跌1.02%，成交296.98億美元。該公司將於7月7日美股開盤前正式納入納斯達克100指數，從6月12日登陸納斯達克到納入核心科技指數，僅15天，創下納斯達克100指數創立以來最快納入紀錄。摩根大通測算顯示，僅納指100一項，將吸引約43億美元被動資金強制買入SpaceX股票。如果計入同步納入MSCI和富時羅素全球指數體系的效應，全球被動基金在15個交易日內強制買入SpaceX的總規模可達約350億美元。
-
----
-
-### 2026-07-07 04:50:58  #央行 #其他
-
-央行市場預期調查顯示，阿根廷 2026 年末通脹預期為 30%，較此前預測值下調 0.5 個百分點。
-
----
-
-### 2026-07-07 04:50:51  #MKT News
-
-Canadian prime minister Carney said Ottawa may retain flexibility to adjust the final number of submarines it will procure.
-
----
-
-### 2026-07-07 04:48:58  #公司 #國際
-
-特朗普：沃爾瑪是一家真正愛國的公司，其他零售商應該效仿沃爾瑪的做法。
-
----
-
-### 2026-07-07 04:47:38  #MKT News #Market Themes #The Trump Trade #WMT.O
-
-Trump says Walmart will cut the price of a one-pound pack of ground beef by nearly 15% and lower prices on a range of other items.
 
 ---
