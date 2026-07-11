@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 03:33:36",
+  "updated": "2026-07-12 03:37:22",
   "count": 16284,
   "items": [
+    {
+      "id": "4982348",
+      "time": "2026-07-12 03:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國全國記者俱樂部：呼籲美國司法部立即撤回針對《紐約時報》記者的傳票。"
+    },
     {
       "id": "4982347",
       "time": "2026-07-12 03:18:03",
@@ -148545,14 +148553,6 @@
         "MKT News"
       ],
       "text": "【Zelenskiy says he discussed Ukrainian frontline with President Trump】Ukrainian President Zelenskiy said he spoke with President Trump, thanked the U.S. for aid — including Javelin anti-tank missiles and Patriot air-defence systems — and for political support. He said they discussed the frontline and diplomatic efforts, that an end to the war is a realistic prospect but U.S. resolve is crucial, and agreed to continue talks at the NATO summit in Ankara."
-    },
-    {
-      "id": "4970586",
-      "time": "2026-07-05 03:34:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱他與特朗普討論了烏克蘭前線局勢。"
     }
   ]
 }
