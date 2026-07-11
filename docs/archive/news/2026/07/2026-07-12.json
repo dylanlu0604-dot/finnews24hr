@@ -1,7 +1,28 @@
 {
   "date": "2026-07-12",
-  "count": 61,
+  "count": 63,
   "items": [
+    {
+      "id": "mkt:019f528f-a706-7aab-8d3f-7b3e9ac001df",
+      "time": "2026-07-12 03:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Oman proposes dual-channel management for Strait of Hormuz; Iran-controlled channel to require prior approval】Oman has drafted a proposal to manage shipping through the Strait of Hormuz via two separately controlled channels; the draft is not final. Both channels would remain open. The southern channel, inside Omani territorial waters, would allow free navigation under pre-conflict patterns. The northern channel, inside Iranian territorial waters, would require vessels to obtain prior Iranian approval but — per the draft — would not carry transit fees. Iran’s foreign minister met Oman’s foreign minister in Muscat to discuss mechanisms to secure vessel passage."
+    },
+    {
+      "id": "4982344",
+      "time": "2026-07-12 03:01:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：阿曼提出一項方案，計劃透過兩條受管控航運通道保障霍爾木茲海峽通航暢通，即船舶可經阿曼水域自由通行，若取道伊朗水域，則需事先獲得伊朗許可。"
+    },
     {
       "id": "mkt:019f528b-23dc-7aab-8d3f-737723713eaa",
       "time": "2026-07-12 02:57:58",

@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-12 03:00:55",
-  "count": 16295,
+  "updated": "2026-07-12 03:04:54",
+  "count": 16290,
   "items": [
+    {
+      "id": "mkt:019f528f-a706-7aab-8d3f-7b3e9ac001df",
+      "time": "2026-07-12 03:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Oman proposes dual-channel management for Strait of Hormuz; Iran-controlled channel to require prior approval】Oman has drafted a proposal to manage shipping through the Strait of Hormuz via two separately controlled channels; the draft is not final. Both channels would remain open. The southern channel, inside Omani territorial waters, would allow free navigation under pre-conflict patterns. The northern channel, inside Iranian territorial waters, would require vessels to obtain prior Iranian approval but — per the draft — would not carry transit fees. Iran’s foreign minister met Oman’s foreign minister in Muscat to discuss mechanisms to secure vessel passage."
+    },
+    {
+      "id": "4982344",
+      "time": "2026-07-12 03:01:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：阿曼提出一項方案，計劃透過兩條受管控航運通道保障霍爾木茲海峽通航暢通，即船舶可經阿曼水域自由通行，若取道伊朗水域，則需事先獲得伊朗許可。"
+    },
     {
       "id": "mkt:019f528b-23dc-7aab-8d3f-737723713eaa",
       "time": "2026-07-12 02:57:58",
@@ -148592,64 +148613,6 @@
         "國際"
       ],
       "text": "特朗普： 歐洲正在明白，接納第三世界犯罪分子，自己就會淪為第三世界國家。 這種變化轉瞬之間就會發生。我當選得正是時候。"
-    },
-    {
-      "id": "4970580",
-      "time": "2026-07-05 03:04:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥在世界盃十六強賽中以3-0擊敗共同東道主加拿大。"
-    },
-    {
-      "id": "4970579",
-      "time": "2026-07-05 03:04:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊：伊朗十分欣慰迎來七十餘國代表，他們專程前來悼念最高領袖哈梅內伊。這場悼念活動將成為伊朗與這些國家交往中一段永恆的記憶。"
-    },
-    {
-      "id": "mkt:019f2e84-014d-7aab-8c9e-f321552b80bc",
-      "time": "2026-07-05 03:03:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's foreign minister urged maintaining momentum and ensuring full implementation of all provisions of the U.S.-Iran memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f2e83-28ea-7aab-8c9e-ed951ee143cb",
-      "time": "2026-07-05 03:02:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President ZELENSKIY spoke with US President Trump on Saturday and congratulated him on the 250th anniversary of the United States' founding, sources said."
-    },
-    {
-      "id": "4970578",
-      "time": "2026-07-05 03:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及外交部長呼籲保持推進勢頭，落實美伊諒解備忘錄各項條款。"
-    },
-    {
-      "id": "mkt:019f2e81-daff-7aab-8c9e-e157ad77dd3b",
-      "time": "2026-07-05 03:01:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Trump said Europe is learning that admitting criminals from the Third World effectively turns it into a Third World country, that this shift can happen very quickly, and that his election was timely."
-    },
-    {
-      "id": "4970577",
-      "time": "2026-07-05 03:01:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士透露，烏克蘭總統澤連斯基於週六與特朗普通電話，祝賀美國迎來建國250週年。"
     }
   ]
 }
