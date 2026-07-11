@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 101,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:019f5337-0759-7aab-8d3f-d67fba215974",
+      "time": "2026-07-12 06:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues yellow typhoon warning for Bavi at 06:00 Jul 12】China's Central Meteorological Observatory at 06:00 on July 12 said Typhoon Bavi weakened overnight to a severe tropical storm. At 05:00 its center was over Yiwu, Jinhua, Zhejiang (29.3°N, 120.0°E). Peripheral maximum winds were 11 on the scale (≈30 m/s) and central pressure 970 hPa. Bavi is moving northwest at 20–25 km/h, is expected to continue weakening, turn northeast on July 13 over eastern Anhui, and on July 14 move from the Shandong peninsula into the northern Yellow Sea while gradually transitioning to an extratropical cyclone."
+    },
     {
       "id": "4982373",
       "time": "2026-07-12 06:04:09",
