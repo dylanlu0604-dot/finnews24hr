@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 20:00:03",
-  "count": 16309,
+  "updated": "2026-07-11 20:04:01",
+  "count": 16308,
   "items": [
+    {
+      "id": "4982242",
+      "time": "2026-07-11 20:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-2309.06億元，計算機裝置、IT服務Ⅱ板塊淨流入居前，個股華天科技、中興通訊淨流入最多。"
+    },
     {
       "id": "4982241",
       "time": "2026-07-11 19:59:10",
@@ -148758,25 +148766,6 @@
         "國際"
       ],
       "text": "埃及部長表示，埃及預計未來幾日將獲得歐盟援助計劃的15億歐元資金。"
-    },
-    {
-      "id": "mkt:019f2d01-47be-7aab-8c9c-e36e80dd8381",
-      "time": "2026-07-04 20:01:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran warns extra‑regional states against creating crisis in Strait of Hormuz】UK Prime Minister Starmer and French President Macron said on 3 July they will work with Oman to safeguard sovereign territorial waters. Iran deputy foreign minister Gharibabadi on 4 July responded that the Strait of Hormuz is not a venue for extra‑regional military displays and Tehran opposes any military action that could affect the waterway’s security. He said Iran, as a guarantor of Strait security, will monitor related military moves closely, that security should be maintained by littoral states, and that any party creating a crisis will bear the consequences; the warning was described as “serious.”"
-    },
-    {
-      "id": "4970421",
-      "time": "2026-07-04 20:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週大盤主力資金累計淨流入-1922.13億元，汽車零部件、化學制藥板塊淨流入居前，個股華潤新能源、三花智控淨流入最多。"
     }
   ]
 }
