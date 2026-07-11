@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-11 09:15:16",
-  "count": 16226,
+  "updated": "2026-07-11 09:19:11",
+  "count": 16229,
   "items": [
+    {
+      "id": "4981990",
+      "time": "2026-07-11 09:18:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OpenAI安全團隊現在將向研發副總裁彙報。"
+    },
+    {
+      "id": "4981989",
+      "time": "2026-07-11 09:17:06",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI安全系統主管海德克即將離職。"
+    },
+    {
+      "id": "mkt:019f4ebf-8bbd-7aab-8d3b-04ebde56849a",
+      "time": "2026-07-11 09:16:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analysts: U.S.-Iran exchanges center on Strait of Hormuz】A memorandum of understanding between the U.S. and Iran was signed less than a month ago, yet both sides have already carried out multiple rounds of reciprocal strikes and show signs of escalation, prompting concern over a breakdown in talks or a wider flare-up. Analysts say the confrontation is fundamentally a contest over the Strait of Hormuz: each side is seeking additional leverage for future negotiations while simultaneously having incentives to avoid a major escalation. Interaction is likely to remain a cycle of alternating strikes and talks, with limited attacks used to press bargaining positions rather than provoke full-scale war."
+    },
+    {
+      "id": "4981988",
+      "time": "2026-07-11 09:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【風暴潮橙色警報：浙江台州到溫州沿海將出現150到350釐米的風暴增水】國家海洋預報臺7月11日08時釋出風暴潮橙色警報：受今年第9號颱風“巴威”（強颱風級）的影響，預計：7月11日上午至12日上午，江蘇沿海將出現50到120釐米的風暴增水，上海到浙江寧波沿海將出現80到180釐米的風暴增水，浙江台州到溫州沿海將出現150到350釐米的風暴增水，福建沿海將出現80到150釐米的風暴增水。浙江省溫州市的風暴潮預警級別為橙色，上海市，浙江省寧波市、台州市和福建省福州市的風暴潮預警級別為黃色，浙江省嘉興市、舟山市和福建省寧德市的風暴潮預警級別為藍色。"
+    },
+    {
+      "id": "4981987",
+      "time": "2026-07-11 09:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "緬因州民主黨發出7月25日召開提名大會的呼籲。"
+    },
     {
       "id": "4981986",
       "time": "2026-07-11 09:12:13",
@@ -148062,27 +148107,6 @@
         "其他"
       ],
       "text": "【粵港澳大灣區首個“華龍一號”專案太平嶺核電2號機組首次併網發電】今天，粵港澳大灣區首個“華龍一號”核電專案——中廣核廣東太平嶺核電2號機組首次併網成功，發出第一度電。此次併網，標誌著該機組正式具備向電網輸送電力的能力，向著投產目標邁出關鍵一步。後續，2號機組將按計劃進一步驗證機組效能，預計將在2026年下半年正式投產發電。（央視新聞）"
-    },
-    {
-      "id": "4970202",
-      "time": "2026-07-04 09:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐巴塞羅那總領館提醒領區中國公民防範山火災害】7月3日，西班牙加泰羅尼亞自治區赫羅納省南部突發山火，受強風影響火勢尚未得到有效控制，已有4萬餘名居民居家避險，部分割槽域交通中斷。中國駐巴塞羅那總領館提醒領區中國公民注意防範應對山火災害。密切關注當地政府部門釋出的火情資訊，避免前往受山火影響的區域。積極配合當地政府防災避災措施，加強個人健康防護，確保人身財產安全。"
-    },
-    {
-      "id": "mkt:019f2ab3-4e1b-7aab-8c9b-219a7ba80b70",
-      "time": "2026-07-04 09:17:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Fujian aims for over 8% annual growth in core digital-economy value added over next five years】Fujian provincial government issued its 15th Five-Year Digital Fujian Plan, targeting a domestically leading level of digitalization by 2030 and positioning Digital Fujian as a benchmark for national digital development. The plan prioritizes market-based allocation of data, industrial digitalization, digital government and the digital development environment, and seeks to lift value added of core digital-economy industries by more than 8% annually over the next five years."
     }
   ]
 }
