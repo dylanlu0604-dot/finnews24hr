@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-11 14:19:41",
-  "count": 16249,
+  "updated": "2026-07-11 14:23:50",
+  "count": 16248,
   "items": [
+    {
+      "id": "4982105",
+      "time": "2026-07-11 14:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體FarsNews：幾分鐘前，帕克達什特和基亞姆達什特的居民從德黑蘭省東部方向聽到了爆炸聲。目前爆炸的來源和確切地點尚不清楚。"
+    },
+    {
+      "id": "mkt:019f4fd6-37fc-7aab-8d3b-f4166e935851",
+      "time": "2026-07-11 14:21:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News reported residents in Pakdasht and Qiamdasht, east of Tehran province, heard explosions minutes ago. The source and exact location of the blasts are unknown."
+    },
+    {
+      "id": "4982104",
+      "time": "2026-07-11 14:19:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科協新一屆領導機構選舉產生，王光謙當選主席】中國科協第十一屆全國委員會第一次會議7月11日上午在北京召開。會議選舉產生中國科協新一屆領導機構。王光謙當選中國科協第十一屆全國委員會主席，尤政、包為民、馮身洪、喬傑（女）、向巧（女）、李路明、吳驪珠（女）、陳衛、陳薇（女）、陳學東、陳建峰、賀軍科、莫則堯、徐濤、高鴻鈞、廖湘科等16人當選副主席。於俊清等56人當選中國科協第十一屆常務委員會委員。會議透過授予中國科協榮譽職務決定，授予萬鋼中國科協名譽主席、馬偉明等33人榮譽委員職務。"
+    },
     {
       "id": "4982103",
       "time": "2026-07-11 14:17:54",
@@ -148213,41 +148237,6 @@
         "其他"
       ],
       "text": "【海南平穩推進2030年禁售燃油車 新能源車佔比將達45%】海南省人民政府3日對外發布《“十五五”海南國家生態文明試驗區規劃(美麗海南建設“十五五”規劃)》(簡稱《規劃》)提出，平穩推進2030年禁售燃油車，預計屆時該省新能源汽車保有量佔比從2025年的23.75%提升至45%。"
-    },
-    {
-      "id": "4970301",
-      "time": "2026-07-04 14:23:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華是科技“三維鐳射哨兵周界安防關鍵技術與應用”透過專家組鑑定】據華是科技訊息，7月2日，由浙江省物聯網產業協會組織的“三維鐳射哨兵周界安防關鍵技術與應用”成果鑑定會在華是科技園召開。鑑定委員會經聽取、查閱、質詢和討論，一致認為：該專案整體技術達到國內領先水平，具備自主智慧財產權，應用效果顯著。華是科技自主研發的“三維鐳射哨兵系統”融合了高精度三維鐳射掃描、智慧AI分析和多感測器融合等核心技術，有效破解複雜場景下非法入侵目標難發現、難定位、難跟蹤的預警防衛難題。"
-    },
-    {
-      "id": "4970300",
-      "time": "2026-07-04 14:23:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“科學”號開啟第15次西太平洋科學考察任務】7月4日，“科學”號綜合考察船駛離位於山東青島的碼頭基地，執行2026年度西太平洋科學考察共享航次。 在國家自然科學基金委的支援下，西太平洋科學考察專案自2010年啟動以來已連續組織15次出海調查，透過共享航次的方式，逐步形成我國遠洋基礎研究和共享觀測的重要平臺。（新華社）"
-    },
-    {
-      "id": "4970299",
-      "time": "2026-07-04 14:23:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州空港口岸年內客流提前34天突破1000萬人次】記者4日從廣州邊檢總站白雲邊檢站獲悉，截至7月3日，今年廣州白雲機場口岸客流已超1000萬人次，較2025年提前34天實現目標。其中，入出境外國人超390萬人次，同比增長34%，增速高於全國平均水平8個百分點。目前，經白雲機場口岸出入境人員已覆蓋全球198個國家和地區。（新華社）"
-    },
-    {
-      "id": "mkt:019f2bcb-00b9-7aab-8c9b-f5c583917354",
-      "time": "2026-07-04 14:22:31",
-      "tags": [
-        "MKT News",
-        "PM.O",
-        "Impact bearish",
-        "BTI.O"
-      ],
-      "text": "【French health minister backs lifetime ban on tobacco sales to those born in or after 2009】French Health Minister Stéphanie Rist told France 2 on the 3rd she supports a lifetime ban on sales of tobacco products to people born in or after 2009. The French national health insurance fund said in its annual report on the 2nd that France is among Europe's highest smoking-rate countries and recommended systematic anti-smoking measures to improve public health and cut long-term public health spending, including prohibiting sales to those born in 2009 or later to create a smoke-free generation. Rist said she 'personally strongly supports' the fund's recommendation but stressed her personal view is not a government decision; the government will consult 'all stakeholders' before deciding."
     }
   ]
 }
