@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-11 17:20:20",
-  "count": 16273,
+  "updated": "2026-07-11 17:24:17",
+  "count": 16275,
   "items": [
+    {
+      "id": "mkt:019f507d-4f60-7aab-8d3c-eb513929ddee",
+      "time": "2026-07-11 17:23:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian forces have taken control of Bachivsk in Ukraine's Sumy region."
+    },
+    {
+      "id": "4982179",
+      "time": "2026-07-11 17:22:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄軍稱控制烏克蘭蘇梅地區的巴奇夫斯克。"
+    },
+    {
+      "id": "mkt:019f507a-bbdc-7aab-8d3c-e0d9ca0cf060",
+      "time": "2026-07-11 17:20:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Cui Dongshu says China auto market broadly stable in 2026】Cui Dongshu, secretary-general of the CPCA, said China’s strong macro backdrop and consumption-promotion measures should keep auto demand resilient and that the national auto market will be broadly stable in 2026. Trucks and buses backed by high production-materials subsidies are recovering strongly; the commercial-vehicle segment is exhibiting equipment-renewal-driven structural growth after recently implemented high subsidies, which are also accelerating electrification in logistics and keeping commercial-vehicle sentiment elevated. Following an outsized policy push in 2025, 2026 has seen a marked policy pullback on entry-level consumption support, contributing to Jan–Jun passenger-car retail declines and a collapse in gasoline passenger-car sales; export gains helped keep June OEM sales relatively stable. June NEV sales were muted, auto exports continued to strengthen, manufacturers’ inventories edged down modestly, and there is no broad industry destocking."
+    },
+    {
+      "id": "4982178",
+      "time": "2026-07-11 17:20:47",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【崔東樹：2026年全國汽車市場總體走勢較平穩】乘聯分會秘書長崔東樹發文表示，中國宏觀經濟保持較強增長，在國家促銷費政策推動下汽車市場保持強勢增長，2026年全國汽車市場總體走勢較平穩，在生產資料高補貼卡車市場和客車市場回暖明顯。2026年商用車市場出現裝置更新補貼推動的結構性增長特徵，剛落地的商用車高補貼帶來物流運輸類電動化加速，商用車景氣度較高。由於去年消費政策力度超強，2026年政策收縮明顯，入門級消費支援政策劇烈下降，導致今年1-6月乘用車零售持續負增長，尤其是燃油乘用車出現崩塌式下滑。但因出口增量，6月廠家銷量增速相對平穩。6月新能源車走勢不強，汽車出口市場持續走強，廠商庫存小幅收縮，行業壓庫存現象沒有出現。"
+    },
+    {
+      "id": "4982177",
+      "time": "2026-07-11 17:20:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏軍工企業和港口設施 烏稱攔截俄導彈並擊落上百架無人機】俄羅斯國防部今天（7月11日）通報，當天凌晨，俄羅斯使用遠端高精度武器及攻擊型無人機，針對烏克蘭軍工企業和一些港口基礎設施進行打擊。此外，俄國防部還稱，10日夜間到今天早上，俄防空力量攔截並摧毀了178架烏克蘭無人機。烏克蘭空軍今天（11日）通報，自10日下午起，烏克蘭遭到俄軍導彈和無人機襲擊，截至今天（11日）上午，烏克蘭空軍擊落和攔截了兩枚俄羅斯的導彈和111架無人機。（CCTV國際時訊）"
+    },
     {
       "id": "4982176",
       "time": "2026-07-11 17:18:59",
@@ -148442,30 +148485,6 @@
         "MKT News"
       ],
       "text": "【Chinese naval flotilla to visit Vietnam】Early July, at the invitation of the Vietnamese navy, two PLA Navy ships, Qi Jiguang and Kunlunshan, will visit Ho Chi Minh City. China and Vietnam have stepped up naval exchanges and joint patrols in recent years, which officials say bolster mutual trust and regional stability."
-    },
-    {
-      "id": "4970362",
-      "time": "2026-07-04 17:24:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Trendforce：傳統 DRAM價格Q3預計上漲13%至18%】Trendforce 預計，在 2026 年第三季度，傳統 DRAM 產品的合同價格將環比上漲 13%至 18%。"
-    },
-    {
-      "id": "4970361",
-      "time": "2026-07-04 17:22:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【引導人形機器人產業健康發展 兩協會發布倡議】中國人形機器人百人會、中國機械工業聯合會機器人分會分別釋出倡議，呼籲共同打造安全可信、合規向善、可持續發展的人形機器人產業生態，推動機器人產業健康發展。中國人形機器人百人會提出，全行業要堅持科技向善，防範倫理和安全風險，把安全倫理規範要求融入產品設計、研發、廣告宣傳、應用全過程；保障產品使用安全，切實防範對使用者的人身傷害風險；加大基礎技術研發投入，立足實際應用場景推廣應用，協同搭建產業公共平臺。中國機械工業聯合會機器人分會表示，全行業應加強個人隱私保護，規範創新應用，自覺維護清朗健康的產業發展環境；全行業應團結協作，以開放姿態擁抱人工智慧等新技術，共同提升機器人產業核心競爭力。（新華社）"
-    },
-    {
-      "id": "4970360",
-      "time": "2026-07-04 17:20:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：印尼託貝洛以西64公里處發生5.0級地震。"
     }
   ]
 }
