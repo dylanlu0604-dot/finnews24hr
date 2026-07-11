@@ -1,7 +1,34 @@
 {
   "date": "2026-07-12",
-  "count": 3,
+  "count": 6,
   "items": [
+    {
+      "id": "mkt:019f51f0-2782-7aab-8d3e-ea19dd42f9c4",
+      "time": "2026-07-12 00:08:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Typhoon Bavi makes second landfall on Qingjiang coast in Yueqing, Wenzhou, Zhejiang】Typhoon Bavi, the year’s ninth, made a second landfall around 00:00 on the 12th on the coast at Qingjiang town, Yueqing city, Wenzhou, Zhejiang province. Maximum winds near the center reached force 13 (38 m/s); central minimum pressure was 960 hPa."
+    },
+    {
+      "id": "4982305",
+      "time": "2026-07-12 00:05:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）"
+    },
+    {
+      "id": "4982304",
+      "time": "2026-07-12 00:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“巴威”登陸浙江，上海已組織轉移29.97萬人】據上海市氣象臺訊息，今年第9號颱風“巴威”（颱風級）的中心已於7月11日23點20分在浙江玉環沿海登陸，登陸時中心附近最大風力有13級（40米/秒），中心最低氣壓為955百帕。記者從上海市防汛指揮部獲悉，截至11日21時，全市共組織轉移 29.97 萬人，全市共啟用 905 處防汛避災安置場所。"
+    },
     {
       "id": "4982303",
       "time": "2026-07-12 00:03:14",
