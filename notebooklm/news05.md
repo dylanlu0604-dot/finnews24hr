@@ -1,7 +1,248 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 19:32:25_
-_本檔包含 3140 則快訊，約 616843 字_
+_更新時間：2026-07-11 20:37:07_
+_本檔包含 3164 則快訊，約 617398 字_
+
+---
+
+### 2026-07-07 03:12:02  #其他
+
+委內瑞拉全國代表大會主席羅德里格斯： 地震已造成 3535 人遇難。
+
+---
+
+### 2026-07-07 03:03:04  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7924元，較上週五夜盤收盤跌144點。成交量432.03億美元。
+
+---
+
+### 2026-07-07 03:00:54  #MKT News
+
+Hang Seng Index futures night session closed up 0.11% at 23,571, trading 45 points below the cash index.
+
+---
+
+### 2026-07-07 03:00:03  #市場
+
+恒指期貨夜盤收漲0.12%，報23572.12點，低水44.20點。
+
+---
+
+### 2026-07-07 02:58:11  #國際
+
+特朗普本週將前往土耳其出席北約領導人峰會，伊朗、烏克蘭以及國防預算是本次峰會的核心議題。
+
+---
+
+### 2026-07-07 02:48:27  #市場
+
+布倫特原油期貨結算價報每桶71.99美元，下跌13美分，跌幅0.18%。
+
+---
+
+### 2026-07-07 02:48:16  #國際
+
+美國副總統萬斯將於7月8日訪問密爾沃基。
+
+---
+
+### 2026-07-07 02:47:58  #國際
+
+伊朗議會議長卡利巴夫：殺害哈梅內伊的兇手必將受到懲罰，復仇的最終步驟將透過“解放耶路撒冷”來實現。
+
+---
+
+### 2026-07-07 02:47:31  #MKT News
+
+Iranian parliament speaker Ghalibaf said those responsible for attacks on Iran and the killing of Iranian citizens, particularly those targeting the Supreme Leader of the Islamic Revolution, will ultimately be held accountable.
+
+---
+
+### 2026-07-07 02:47:21  #MKT News
+
+Ghalibaf, speaker of Iran's parliament, said the world has witnessed that the Islamic Revolution and the Islamic Republic remain firmly standing and that, with popular support, Iran will neither fail nor fall into a stalemate.
+
+---
+
+### 2026-07-07 02:46:58  #國際
+
+伊朗議會議長卡利巴夫：今日世界親眼見證，伊朗根基穩固、歷久彌堅。背靠本國人民，伊朗絕不會遭遇挫敗，也不會陷入僵局。
+
+---
+
+### 2026-07-07 02:46:03  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish
+
+Financial Times reports hedge fund Situational Awareness, run by a former OpenAI researcher, and UK asset manager Baillie Gifford are among investors planning to subscribe about $7 billion of shares in SK Hynix's Nasdaq IPO.
+
+---
+
+### 2026-07-07 02:44:11  #其他
+
+美元現貨指數抹去漲幅，跌至日內低點。
+
+---
+
+### 2026-07-07 02:39:29  #MKT News
+
+【Macron visits Syria with TotalEnergies and CMA CGM chiefs】French President Macron arrived in Syria on July 7, becoming the first EU head of state to visit since the fall of the Assad regime in 2024. Reconstruction cooperation is the visit’s core focus; TotalEnergies and CMA CGM’s chief executive joined the delegation. Macron is expected to meet President Assad, reiterate French support for a free, pluralistic Syria, and press Syria not to deploy forces to Lebanon. The agenda also covers counterterrorism cooperation and upgrading Franco-Syrian diplomatic ties.
+
+---
+
+### 2026-07-07 02:39:17  #公司 #國際
+
+【美國微軟公司宣佈裁員4800人】美國微軟公司6日宣佈裁員4800人，約佔其全球員工總數的2.1%，其中涉及1600名Xbox遊戲機部門的員工。微軟表示，此舉旨在削減成本，是公司大規模重組計劃的一部分，預計今年還將有更多裁員。該計劃重點針對經營不佳的Xbox遊戲機部門。Xbox執行長阿莎·夏爾馬錶示，該部門目前利潤率比同行存在明顯差距。Xbox所處的行業正面臨嚴峻的“硬體危機”，原因是遊戲機零部件的成本急劇飆升。（央視新聞）
+
+---
+
+### 2026-07-07 02:36:46  #MKT News
+
+Ukraine President ZELENSKIY said Ukraine shot down all six Kalibr missiles and 31 cruise missiles overnight and urged the US to authorize Ukrainian production of Patriot interceptors to offset an interceptor shortfall.
+
+---
+
+### 2026-07-07 02:35:49  #其他
+
+阿聯酋酋長國富查伊拉達成協議，將連續十年採購阿提哈德煉油廠汽油。
+
+---
+
+### 2026-07-07 02:33:24  #國際
+
+Politico：塞爾維亞加入歐盟的推進計劃恐難如願。
+
+---
+
+### 2026-07-07 02:33:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Zelenskiy says Russia's large-scale strike on Ukraine killed 22】Ukrainian President Zelenskiy said on the 6th (local time) that Russia's large-scale strike that day killed 22 and injured nearly 90; rescue and recovery operations continue. He said Russian forces fired 68 missiles, including many ballistic missiles, and launched more than 350 drones of various types. He said the main targets were Kyiv and Kyiv region.
+
+---
+
+### 2026-07-07 02:31:22  #MKT News #Commodities #Energy
+
+Zimbabwe experienced a nationwide power outage caused by a technical fault.
+
+---
+
+### 2026-07-07 02:31:10  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
+
+【Night session main contracts close】At the 02:30 close, Shanghai gold main contract fell 0.15% to 910 yuan/gram; Shanghai silver main contract fell 0.47% to 15,126 yuan/kg; SC crude oil main contract rose 0.23% to 438 yuan/barrel.
+
+---
+
+### 2026-07-07 02:31:10  #MKT News #Commodities #Precious Metals
+
+Shanghai Gold Exchange (SGE) gold T+D closed down 0.06% at 909.0 yuan/gram in Monday evening trade; silver T+D closed up 0.03% at 15,125 yuan/kg.
+
+---
+
+### 2026-07-07 02:30:52  #市場 #焦點 #國際
+
+美國原油期貨結算價報每桶68.55美元，下跌14美分，跌幅0.20%。
+
+---
+
+### 2026-07-07 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.23%，報438.30元人民幣/桶。滬金夜盤收跌0.15%，滬銀收跌0.47%。
+
+---
+
+### 2026-07-07 02:29:22  #其他
+
+據Kraken交易所官網訊息，受BONK代幣相關突發事件影響，該平臺已臨時暫停BONK代幣的充提業務。
+
+---
+
+### 2026-07-07 02:29:08  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #EURUSD #Impact bearish
+
+YONHAP reports Trump reiterated tariffs have prompted South Korean, Japanese and other automakers to build plants in the U.S.
+
+---
+
+### 2026-07-07 02:27:23  #MKT News #AIR.PA #Impact bullish
+
+Syrian President Shala said Syria will order eight Airbus aircraft in the near term.
+
+---
+
+### 2026-07-07 02:27:08  #MKT News
+
+Syrian president Shala said France can play a role in Syria's reconstruction and other areas.
+
+---
+
+### 2026-07-07 02:27:03  #公司
+
+三菱日聯金融集團總裁稱，該集團計劃中長期將股本回報率提升至15%左右的區間中段。
+
+---
+
+### 2026-07-07 02:26:50  #國際
+
+【澤連斯基稱俄對烏大規模襲擊致22人死亡】烏克蘭總統澤連斯基當地時間6日表示，俄羅斯當天對烏克蘭發動的大規模襲擊已造成22人死亡、近90人受傷，目前救援和善後工作仍在繼續。澤連斯基稱，俄軍此次共發射68枚導彈，其中包括大量彈道導彈，併發射350多架不同型別無人機。他表示，此次襲擊的主要目標是基輔及基輔州。
+
+---
+
+### 2026-07-07 02:26:02  #央行 #其他
+
+加拿大央行調查顯示，美伊協議達成前加拿大民眾通脹預期持續走高。
+
+---
+
+### 2026-07-07 02:25:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Spikes by 14.94% — Top commodity gainers are Coffee (14.94%), Cocoa (14.07%) and Soybeans (4.16%). Biggest loser is Wool (-2.01%).
+
+---
+
+### 2026-07-07 02:24:00  #其他
+
+【3名登山者在新疆慕士塔格峰遇難 1人失聯】記者從新疆維吾爾自治區體育局瞭解到，7月3日—4日，兩支經國家體育總局審批的登山隊登頂慕士塔格峰，下撤至海拔約7300米時遭遇暴風雪，4名隊員失聯。險情發生後，國家體育總局、自治區體育局、克孜勒蘇柯爾克孜自治州立即組織專業人員、裝置全力搜救。截至6日22時，已找到3名失聯人員，發現時無生命體徵。目前，正全力搜救最後1名失聯人員。（央視新聞）
+
+---
+
+### 2026-07-07 02:20:12  #央行 #國際
+
+【美聯儲理事沃勒為前瞻指引辯護 稱運用得當能起到積極作用】美聯儲理事克里斯托弗·沃勒表示，如果運用得當，政策制定者就未來利率路徑釋放訊號的做法仍能起到積極作用。沃勒是在羅馬一場會議上發表上述講話的。此前，新任美聯儲主席凱文·沃什承諾，將減少美聯儲對所謂“前瞻指引”的依賴，轉而採取一種更注重根據經濟資料變化調整政策的方式。沃勒表示，前瞻指引仍是一項有價值的政策工具。在疫情時期通脹飆升期間，前瞻指引幫助央行向公眾傳遞了利率將上調的訊號。即使美聯儲尚未正式加息，金融環境也因此提前收緊。
+
+---
+
+### 2026-07-07 02:20:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 0.71% — Top commodity losers are Platinum (-0.71%) and Gold (-0.24%). Gains are led by Iron Ore CNY (0.55%) and Copper (0.52%).
+
+---
+
+### 2026-07-07 02:15:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Drops by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.06%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.37%) and Brent Crude Oil (-0.15%). Gains are led by Gasoline (1.43%) and Heating Oil (1.08%).
+
+---
+
+### 2026-07-07 02:13:16  #公司
+
+亞馬遜推出AWS SimuLearn學習方案徽章。
+注：學習方案徽章，完成對應學習路徑後發放的認證標識。
+
+---
+
+### 2026-07-07 02:13:12  #MKT News #Important
+
+Israel's ambassador to the United States said the next round of talks between Israel and Lebanon is scheduled for July 14-15 in Rome, Italy.
+
+---
+
+### 2026-07-07 02:12:27  #國際
+
+特朗普： 如果比利時贏了我們，那他們完全可以引以為傲。 可反過來講——只要他們贏了——我就說這是被操縱的，就跟2020年大選遭人為操控一模一樣。
+
+---
+
+### 2026-07-07 02:11:50  #MKT News
+
+Lebanese President Aoun said reports that a force would be formed to implement the "pilot area agreement" are unfounded.
 
 ---
 
@@ -18858,101 +19099,5 @@ DTEK said Russian forces struck a coal mine in eastern Ukraine, killing one mine
 ### 2026-07-04 20:39:10  #其他
 
 【馬裡軍方說擊退針對多地軍方陣地的襲擊】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天遭襲，所有襲擊均被擊退，遇襲陣地目前處於軍方“完全控制之下”。公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。在塞瓦雷，軍方擊斃20名恐怖分子；在加奧，軍方擊斃6名恐怖分子，軍方有1人喪生、4人受傷。軍方仍在開展清剿行動。
-
----
-
-### 2026-07-04 20:31:03  #其他
-
-【海口“三港”4日21時恢復運輸】據海口市交通運輸局4日18時通告，海口新海港、秀英港和鐵路南港定於7月4日21時恢復運輸。7月4日，颱風對瓊州海峽的影響趨弱。圖為4日下午海口海甸島北側海況。記者 王曉斌 攝 通告稱，海口“三港”復運後，港口將優先疏運停航前已在港口待渡的1200餘輛貨車，預計需要8個小時恢復正常秩序，請出島司機旅客避開疏運高峰延後到港。出島司機旅客可透過“瓊州海峽輪渡管家”或“鐵路輪渡”微信公眾號預約購票。未預約購票車輛不得進港。
-
----
-
-### 2026-07-04 20:25:51  #MKT News #CPNG.O
-
-【South Korea ruling party calls US report on Coupang 'inaccurate'】South Korea's ruling Democratic Party on the 4th said it 'strongly regrets' a recent US report on e-commerce firm Coupang, calling the findings 'seriously inaccurate' and accusing Coupang of trying to shift responsibility for a large-scale user data breach onto the US report. The US House Judiciary Committee earlier issued an interim report saying Coupang had long been a 'target' of the South Korean government and alleging South Korea has conducted 'compulsory investigations, excessive regulatory burdens and heavy fines and penalties' against US firms.
-
----
-
-### 2026-07-04 20:22:44  #公司
-
-【上海電氣與上海交大簽署戰略合作協議】7月3日下午，中國科學院院士、上海交通大學（以下簡稱“上海交大”）黨委副書記、校長丁奎嶺和上海電氣集團黨委書記、董事長吳磊共同見證雙方戰略合作協議簽署。丁奎嶺表示，當前新一輪科技革命和產業變革加速演進，高階裝備自主可控、綠色智慧轉型任務緊迫，為雙方深化校企協同創新提供了廣闊空間。希望雙方以此次合作簽約為新起點，緊扣服務國家重大需求，進一步拓展合作領域、深化合作內涵，共同佈局人工智慧、特種材料、未來能源等中長期前沿顛覆性技術，深化產教融合、科教融匯，合力產出更多自主可控的標誌性成果，共同為我國高階裝備產業高質量發展、服務國家戰略全域性作出新的更大貢獻。（上海電氣）
-
----
-
-### 2026-07-04 20:10:13  #MKT News
-
-An Egyptian minister said Egypt expects to receive €1.5 bln under the EU aid package within days.
-
----
-
-### 2026-07-04 20:08:39  #公司
-
-【徐工成套道路裝備，批次交付莫三比克】從徐工集團瞭解到，當地時間7月1日，徐工瀝青攪拌中心揭牌暨成套道路裝置交付儀式於莫三比克貝拉市舉辦。本次交付涵蓋瀝青攪拌站、瀝青攤鋪機、路面冷再生機等成套道路裝備，構建起“瀝青原料生產—道路攤鋪施工—舊路再生改造—路面壓實成型”的一體化閉環施工體系。一站式解決當地道路新建、改擴建、日常養護等全場景需求，精準補齊城市道路基建配套與養護能力的短板。（證券時報）
-
----
-
-### 2026-07-04 20:08:16  #國際
-
-埃及部長表示，埃及預計未來幾日將獲得歐盟援助計劃的15億歐元資金。
-
----
-
-### 2026-07-04 20:01:26  #MKT News #WTI #Impact bullish #Brent
-
-【Iran warns extra‑regional states against creating crisis in Strait of Hormuz】UK Prime Minister Starmer and French President Macron said on 3 July they will work with Oman to safeguard sovereign territorial waters. Iran deputy foreign minister Gharibabadi on 4 July responded that the Strait of Hormuz is not a venue for extra‑regional military displays and Tehran opposes any military action that could affect the waterway’s security. He said Iran, as a guarantor of Strait security, will monitor related military moves closely, that security should be maintained by littoral states, and that any party creating a crisis will bear the consequences; the warning was described as “serious.”
-
----
-
-### 2026-07-04 20:00:03  #市場
-
-本週大盤主力資金累計淨流入-1922.13億元，汽車零部件、化學制藥板塊淨流入居前，個股華潤新能源、三花智控淨流入最多。
-
----
-
-### 2026-07-04 19:54:55  #宏觀 #焦點
-
-【7月4日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.牢記初心使命 勇擔時代重任——習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話引發熱烈反響； 2.為中華民族偉大復興凝聚磅礴力量——習近平主席重要講話引發港澳臺人士熱烈反響； 3.《習近平談治國理政》第五卷中斯讀者會在斯里蘭卡首都科倫坡舉行； 4.“七一勳章”獲得者李連成：當幹部就應該能吃虧； 5.“七一”前後紅色文藝作品集中上演 傳承革命精神； 6.我國加快建設迴圈經濟高質量發展體系； 7.【活力中國調研行】天津：打通科研成果轉化“最後一公里”； 8.各地積極應對強降雨天氣； 9.【暖心一瞬】危急時刻伸援手 凡人善舉暖人心； 10.國內聯播快訊： （1）四部門延續實施失業保險穩崗擴崗政策舉措； （2）《國際科技組織成立登記指引》出臺； （3）西渝高鐵石家梁隧道貫通； （4）全球數字經濟首批燈塔案例在北京釋出； 11.多國人士高度評價習近平在慶祝中國共產黨成立105週年大會上的重要講話； 12.俄稱控制重鎮康斯坦丁諾夫卡 烏稱襲擊聖彼得堡； 13.國際聯播快訊： （1）伊朗舉行哈梅內伊遺體告別儀式； （2）用電超負荷 美國部分電力公司實施限電； （3）西班牙東北部發生林火 近萬人受影響。
-
----
-
-### 2026-07-04 19:52:07  #國際
-
-【6月海灣地區原油出口激增】隨著中東局勢趨於緩和以及霍爾木茲海峽航運逐步恢復，中東海灣地區原油出口6月大幅回升，日均出口量突破1000萬桶，但仍明顯低於衝突前水平。路透社3日援引市場服務機構克普勒的資料包道，6月沙烏地阿拉伯、阿拉伯聯合大公國、科威特、伊拉克和伊朗五國原油及凝析油日均出口量增至1007萬桶，較5月增加逾350萬桶。另據能源研究機構沃泰克薩估算，6月上述地區日均出口約1020萬桶，高於5月的約700萬桶，但仍較去年同期約1650萬桶的水平低40%。多家機構資料顯示，阿聯酋成為原油出口恢復最快的國家，6月日均出口量升至370萬至380萬桶，創歷史新高，較5月增加逾100萬桶。克普勒分析師說，自美國和伊朗簽署諒解備忘錄、霍爾木茲海峽通航逐步恢復以來，前期滯留海灣水域的大量原油被迅速消化，目前約有2300萬桶原油仍在等待透過海峽，而4月底這一數字一度高達9600萬桶。（新華社）
-
----
-
-### 2026-07-04 19:46:34  #公司 #國際
-
-【韓國執政黨批美涉酷澎報告“失實”】韓國執政黨共同民主黨4日對美國近日一份涉電商巨頭酷澎公司的報告表示“強烈遺憾”，稱報告內容“嚴重失實”，並批評酷澎試圖借美方報告轉嫁對大規模使用者資訊洩露事件的責任。美國眾議院司法委員會本週早些時候釋出一份中期報告，稱酷澎長期是韓國政府的“針對目標”，還稱韓國對美資企業實施了“強制調查、過於繁重的監管要求以及過重的罰款與處罰”。共同民主黨發言人張潤美（音譯）4日在書面簡報中說，美方報告“依據酷澎單方面說法和未經核實的資料，嚴重歪曲韓國政府立場”。她表示，韓國政府不會因企業的國籍而採取歧視性或不公平監管措施，酷澎應“停止為掩蓋自身過錯而向（韓國）政府轉嫁責任”。張潤美還說，酷澎在使用者個人資訊洩露事件上不應保持沉默，不應把自己塑造成受害者。韓國國會、總統府和外交部此前已分別表態，對美方報告內容表示遺憾，強調韓方圍繞酷澎資料洩露事件開展的調查和監管措施公平。（新華社）
-
----
-
-### 2026-07-04 19:42:05  #其他
-
-【雲南大理州賓川縣發生地震 中國地震局啟動四級應急響應】據中國地震局網站訊息，據中國地震臺網正式測定，2026年7月4日18時28分，在雲南大理州賓川縣(北緯25.95度，東經100.58度)發生4.3級地震，震源深度10公里。 地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、雲南省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。（中新網）
-
----
-
-### 2026-07-04 19:40:32  #MKT News
-
-Mali's military said the situation was 'fully under control' after insurgent attacks on five cities and towns.
-
----
-
-### 2026-07-04 19:40:11  #其他
-
-【水利部對遼寧吉林啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，水利部4日對遼寧、吉林2省份啟動洪水防禦Ⅳ級應急響應，派出2個工作組赴防汛一線協助指導。 據預報，受東北冷渦影響，7月4日至6日，遼寧北部西部、吉林大部等地累計降水量將達40毫米至60毫米，區域性可能超過100毫米；遼寧渾河中游幹流、蘇子河，吉林輝發河、小孤山河、鰲龍河等河流可能發生超警洪水。 為應對可能發生的汛情，水利部要求地方水利部門和流域管理機構滾動開展雨情、水情、汛情預測預報，加強會商研判，及時釋出預警資訊；科學精細排程水工程，做好水庫、堤防等工程巡查防守，及時發現並處置險情；重點抓好中小河流洪水和山洪災害防禦，全力保障人民群眾生命財產安全。(新華社)
-
----
-
-### 2026-07-04 19:40:00  #其他
-
-黎巴嫩軍方：陸軍司令接見聯合國駐黎巴嫩臨時部隊（聯黎部隊）特派團團長，討論如何在當前挑戰下加強合作。
-
----
-
-### 2026-07-04 19:34:11  #其他
-
-【雲南消費品以舊換新、購新補貼品類擴容】據雲南省商務廳4日訊息，自2026年7月起雲南省在現有家電以舊換新、數碼和智慧產品購新補貼品類基礎上，新增9類補貼產品，並同步開放商戶增補報名通道。 新增產品分為兩個渠道實施：數碼和智慧產品購新補貼渠道新增智慧門鎖、智慧影音(含投影儀、音箱／音響)、智慧掃地機器人(含洗地機)、無人機、數碼相機(含運動相機)5類；家電以舊換新補貼渠道新增吸油煙機、家用燃氣灶(含整合灶)、洗碗機、淨水器4類。 補貼標準方面，按產品最終銷售價格(剔除所有折扣優惠後)的15%給予補貼，每位消費者每類產品可補貼1件，每件補貼不超過1500元。 商戶報名不設定行業、規模、區域限制性門檻，支援不同經營主體參與。有意願參與的經營主體可透過“雲南省家電數碼產品購新補貼商戶申報”平臺線上提交相關報名資訊。（中新網）
 
 ---

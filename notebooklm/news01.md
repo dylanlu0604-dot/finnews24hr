@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-11 19:32:25_
-_本檔包含 2934 則快訊，約 617011 字_
+_更新時間：2026-07-11 20:37:07_
+_本檔包含 2903 則快訊，約 617933 字_
+
+---
+
+### 2026-07-11 20:34:39  #公司
+
+【共達電聲：與崑山瑪冀電子達成戰略合作 切入算力供應鏈體系】近日，共達電聲與崑山瑪冀電子股份有限公司（簡稱“崑山瑪冀電子”）正式簽署戰略合作框架協議，兩家企業發揮各自技術，產能與渠道優勢，達成戰略合作關係。此次戰略合作標誌著共達電聲正式切入算力供應鏈體系，在傳統電聲業務之外開闢AI電源全新賽道。
+
+---
+
+### 2026-07-11 20:26:16  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Russian Defence Ministry says strikes demonstrate ability to hit any target across Ukraine】Sputnik reported the Russian Defence Ministry said on Sunday that coordinated strikes on a Kyiv military‑industrial complex and maritime port infrastructure in Odesa region demonstrate Russian forces can reliably strike any target across Ukraine. The ministry said strikes on Ukrainian seaports and vessels ferrying weapons to the Zelenskiy administration produced significant results.
+
+---
+
+### 2026-07-11 20:25:33  #MKT News #Market Regions #Greater China
+
+【Muxi angel 50 mln yields >7.4 bln unrealised gain in five years; investor says China could spawn multiple trillion-yuan listed firms】The investment firm where Kong Lingguo works, which focuses on the semiconductor value chain, put about 250 mln yuan into Muxi starting at the angel round. Muxi listed on 17 Dec 2025; the 50 mln yuan angel stake has generated over 7.4 bln yuan of unrealised gains in five years and overall paper gains are substantial. An industry forecast projects domestic purchases of compute cards will reach 14.4 tln yuan by 2029, underpinning investor expectations that China could produce multiple listed companies with market capitalisations in the trillion- to ten-trillion-yuan range.
+
+---
+
+### 2026-07-11 20:24:28  #MKT News #Market Regions #Greater China
+
+【Hangzhou Metro to suspend entire network from 06:00 on July 12】Hangzhou Metro said on its official account that, due to Typhoon Bavi, the city has activated a Level I typhoon emergency response. From 06:00 on July 12 the entire metro network will suspend operations; resumption time will be announced.
+
+---
+
+### 2026-07-11 20:15:07  #國際
+
+【印尼北蘇拉威西省附近地區發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間7月11日17時51分，印尼北蘇拉威西省塔胡納鎮東北165公里處發生5.6級地震。震源深度10公里，暫無海嘯風險。（央視新聞）
+
+---
+
+### 2026-07-11 20:14:48  #公司
+
+【受颱風“巴威”影響，7月12日6時起杭州地鐵全線網停運】7月11日晚，杭州市地鐵集團有限責任公司釋出停運公告：受9號颱風“巴威”影響，我市已啟動防颱風Ⅰ級應急響應。自7月12日6時起，地鐵全線網將採取停運措施，恢復時間另行通知。
+
+---
+
+### 2026-07-11 20:10:05  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Eni CEO: Prolonged Middle East conflict could push oil above $80–$100/bbl band by early 2027】Eni CEO Claudio Descalzi said if the Middle East conflict persists, the global oil market will break out of the current roughly $80–$100 per barrel range by Q1 2027 at the latest, boosting inflation and depressing energy demand. Strategic reserve releases have so far kept prices in that band, but reserves are finite and the approach faces rising risk. Iran-related disruptions since late February have driven average daily inventory draws of about 3.8 mln barrels, accelerating to 4.6 mln bpd in May. Descalzi called for diversification of supply sources and routes — highlighting North Africa, sub‑Saharan Africa, Latin America and Southeast Asia — and urged reduced reliance on sea lanes under concentrated control.
+
+---
+
+### 2026-07-11 20:04:32  #公司
+
+【儲存晶片股過去數週跌超20% 底層邏輯面臨重估】業內人士表示，儲存晶片行業歷史上每逢景氣行情，廠商往往會同步擴大產能，導致新增產能集中釋放、價格暴跌，全行業陷入虧損；隨後廠商又集體收縮資本開支，等到需求回暖，又迎來景氣行情——這一迴圈構成了行業特有的週期性。美股儲存晶片股自6月下旬觸及高點以來，Meta公司出售算力等訊息引發了市場對算力過剩的擔憂，儲存晶片股遭遇集體回撥。資料顯示，閃迪、美光科技、希捷科技、西部資料等行業龍頭在過去數週內股價跌幅均超過20%。分析人士指出，當前支撐儲存晶片需求的行業底層邏輯正面臨重估，核心變數在於各家AI大模型之間的技術差距是否會持續縮小。分析人士還指出，儲存晶片行業正在經歷一次商業模式的深層變化：過去儲存更像大宗商品，價格隨行就市，合同也多以季度、年度為單位；現在，雲廠商和AI資料中心為了保障關鍵供應，正越來越多地和原廠簽下三到五年、帶價格區間、最低採購量和客戶保證金的長期供應協議。（央視財經）
+
+---
+
+### 2026-07-11 20:03:42  #MKT News #Market Themes #Chip Wars #AI Revolution #MU.O #Impact bearish #STX.O #WDC.O
+
+【Storage chip stocks fall over 20% in recent weeks as fundamentals are reassessed】Storage-chip names have tumbled more than 20% in recent weeks after peaking in late June, industry participants said. Meta’s sale of compute capacity stoked fears of excess compute and triggered a sectorwide pullback; SanDisk, Micron, Seagate and Western Digital are among leaders down over 20%. Traders note the industry’s long-standing cycle—capacity broadside expansion in booms, price collapses and industrywide losses, then capex retrenchment and eventual recovery—remains intact. Analysts say the key variable now is whether technical gaps between AI large models continue to narrow, which would materially affect incremental storage demand. Separately, commercial dynamics are shifting: cloud providers and AI data centers are increasingly signing three- to five-year supply agreements with price bands, minimum purchase commitments and customer deposits to secure critical supply, replacing shorter-term, spot or quarterly contracting.
+
+---
+
+### 2026-07-11 20:00:02  #市場
+
+本週大盤主力資金累計淨流入-2309.06億元，計算機裝置、IT服務Ⅱ板塊淨流入居前，個股華天科技、中興通訊淨流入最多。
+
+---
+
+### 2026-07-11 19:59:10  #公司 #觀點 #國際 #原創
+
+【埃尼集團CEO：石油市場可能在2027年初突破當前價格區間】義大利埃尼集團CEO克勞迪奧·德斯卡爾齊表示，如果中東衝突持續下去，全球石油市場最遲將於2027年第一季度突破每桶80至100美元的區間，這將推高通脹並降低能源需求。他在週六發表的的採訪中表示，迄今為止，原油庫存的釋放幫助原油價格基本維持在該區間內。他指出，由於全球石油儲備有限，這種策略存在越來越大的風險。他表示：“長期的解決方案是透過供應來源和路線的多元化來提高能源安全。”德斯卡爾齊表示，受2月底爆發的伊朗衝突影響，全球石油庫存平均每天下降380萬桶，5月份降幅更是加速至每天460萬桶/日。他表示，各國應重點關注北非和撒哈拉以南非洲、拉丁美洲和東南亞的能源生產國，同時減少對受控海上通道的依賴。
+
+---
+
+### 2026-07-11 19:57:58  #MKT News
+
+【Hangzhou Bay Cross-Sea Bridge closed both directions】Typhoon "Bavi", the year’s ninth, has closed the Hangzhou Bay Cross-Sea Bridge to all vehicles in both directions from 19:30 today.
+
+---
+
+### 2026-07-11 19:56:17  #其他
+
+【杭州灣跨海大橋雙向封閉】受今年第9號颱風“巴威”影響，杭州灣跨海大橋從今天19:30起雙向封閉，禁止所有車輛通行。
+
+---
+
+### 2026-07-11 19:55:57  #國際
+
+伊朗代理國防部長賽義德·馬吉德·伊本·禮薩表示，即使在伊朗遭受強加戰爭的高峰期，不僅國防生產沒有停止，而且無人機的生產能力還增加了兩倍。
+
+---
+
+### 2026-07-11 19:55:21  #MKT News #WTI #Impact bullish #Brent
+
+ENI CEO said if the Middle East conflict persists, oil markets could break out of the current trading range in early 2027.
+
+---
+
+### 2026-07-11 19:53:53  #國際
+
+美國官員：如果伊朗不發表宣告宣佈開放霍爾木茲海峽，後果將對其不利。
+
+---
+
+### 2026-07-11 19:52:08  #其他
+
+【自然資源部將河北地質災害防禦響應提至Ⅲ級，對安徽啟動Ⅳ級響應】據自然資源部訊息，第9號颱風“巴威”將於7月11日夜間至12日凌晨在浙江溫嶺至瑞安一帶登陸，並持續北上。據氣象部門預測和自然資源部地質災害技術指導中心研判，河北東北部發生地質災害的風險很高，安徽南部發生地質災害的風險高。自然資源部於7月11日17時將河北地質災害防禦響應等級由Ⅳ級提升為Ⅲ級，增派司局級同志帶隊的工作組赴河北指導地質災害防禦工作；於7月11日18時對安徽啟動地質災害防禦Ⅳ級響應。
+
+---
+
+### 2026-07-11 19:51:13  #其他
+
+【山西釋出地質災害、山洪災害雙預警】7月11日，山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警：預計7月11日20時至7月12日20時，太原市萬柏林區、晉源區、清徐縣、古交市、長治市屯留區、沁源縣、晉城市沁水縣、晉中市太谷區、祁縣、平遙縣、運城市鹽湖區、芮城縣、忻州市河曲縣、保德縣、偏關縣、臨汾市翼城縣、洪洞縣、古縣、安澤縣、浮山縣、蒲縣、呂梁市興縣、臨縣、柳林縣、石樓縣、方山縣、中陽縣部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高，上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警：預計7月11日15時至7月12日03時，受強降雨影響，忻州市東南部、太原市、陽泉市、晉中市、呂梁市東部、長治市、臨汾市、晉城市西部、運城市9個市68個縣可能發生山洪（藍色預警），其他地區也可能因局地短歷時強降水引發山洪災害， 各地應注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-07-11 19:46:20  #MKT News
+
+【Luanhe 2026 No.1 flood forms; Haihe flood control HQ activates Level III emergency response】The Ministry of Water Resources’ Haihe Water Resources Commission said heavy to torrential rain, locally extremely heavy, is expected in the Luanhe and Beisanhe basins on July 11–12, and rivers within the rainfall area will see significant rises. Under relevant emergency-response plans, Haihe flood control headquarters launched a Level III flood emergency response from 19:00 on July 11 and the Haihe Commission activated a Level III flood-defense response. At 18:00 on July 11 inflow to Panjiakou reservoir on the Luanhe system was 2,240 cubic meters per second; this meets the numbering criteria and is designated Luanhe 2026 No.1 flood under the Ministry of Water Resources’ national major rivers flood numbering list.
+
+---
+
+### 2026-07-11 19:46:16  #其他
+
+【北京朝陽站今日19時後傳送車輛及20時後到達車輛全部停運】從北京市重點站區管委會獲悉，北京朝陽站今日19時以後傳送車輛及20時以後到達車輛，全部停運，共停運33列，其中傳送9列、到達24列，共涉及旅客8825人。相關部門已透過12306、點對點簡訊、車站大屏和站內廣播通知旅客，請關注出行資訊。目前，北京朝陽站地區東、西廣場各配備兩把大雨傘供旅客避雨出行使用，降雨時段安排專人引導和服務有需要的旅客，保障順暢出行。同時，在樞紐內部“旅客身邊人”志願服務點位、問詢臺已更新指路板，放置最新制作的彩虹指路條。此外，記者從國鐵北京局獲悉，為應對本輪強降雨天氣，鐵路部門繼續對部分線路實施列車臨時停運措施，今天（7月11日）20時至明天（7月12日）12時京哈高鐵、今天（7月11日）18時之後的津山線部分旅客列車臨時停運。（央視新聞）
+
+---
+
+### 2026-07-11 19:44:54  #其他
+
+【“灤河2026年第1號洪水”形成 海河防總啟動防汛Ⅲ級應急響應】從水利部海河水利委員會獲悉，7月11日至12日，灤河、北三河將有大到暴雨，區域性大暴雨，降雨區內河流將發生明顯漲水過程。根據《海河防汛抗旱總指揮部防汛應急響應預案》和《水利部海河水利委員會水旱災害防禦應急響應工作規程》有關規定，經研究，自7月11日19時起，海河防總啟動防汛Ⅲ級應急響應，海委啟動洪水防禦Ⅲ級應急響應。7月11日18時，海河流域灤河系灤河潘家口水庫入庫流量為2240立方米每秒，為2026年灤河第一次達到編號標準的洪水，依據水利部《全國主要江河洪水編號清單》，確定此次洪水編號為“灤河2026年第1號洪水”。
+
+---
+
+### 2026-07-11 19:43:51  #MKT News #Star Stocks #JD.com
+
+【JD.com breaks ground on first RoboBase in Guangzhou's Huangpu】On July 11 Guangdong provincial government signed a comprehensive strategic cooperation agreement with JD.com; JD.com broke ground the same day on its first RoboBase in the core zone of Guangzhou’s Huangpu Science City. The project spans about 190,000 sq m of gross floor area and targets three segments—robotics core components, full-system manufacturing and high-end intelligent equipment—with emphasis on embodied intelligence, industrial robots, service robots and upstream/downstream supply‑chain firms.
+
+---
+
+### 2026-07-11 19:40:35  #MKT News #Market Regions #Greater China
+
+【Yangtze River Maritime Safety Administration raises typhoon emergency response to level II】Typhoon Bavi (No.9) is expected to affect eastern Hubei, Jiangxi and Anhui in the middle–lower Yangtze between July 11–13. The Yangtze River Maritime Safety Administration raised its typhoon emergency response to level II for the main Yangtze stretch from Anhui to Sichuan from 18:00 on July 11.
+
+---
+
+### 2026-07-11 19:37:14  #其他
+
+【長江海事局提升防颱應急響應至二級】今年第9號颱風“巴威”預計於7月11日至13日對長江中下游的湖北東部、江西、安徽等地造成影響。記者從長江海事局獲悉，為保障防颱安全，長江海事局按照“早研判、早預警、早部署、早排查、早轉移”的防颱要求，於7月11日18時起將長江干線安徽至四川段的防颱應急響應提升至二級。
+
+---
+
+### 2026-07-11 19:36:56  #其他
+
+【廣西向受災地區調撥救災物資約17.8萬件】近期，受今年第10號颱風“美莎克”影響，廣西多地遭遇持續性極端強降雨，引發系列災情。記者11日從廣西壯族自治區應急管理廳獲悉，近日自治區應急管理廳會同自治區糧食和物資儲備局分批向受災地區調撥中央和自治區救災物資，合計約17.8萬件，保障安置群眾住宿、日常生活等基本需求。自治區應急管理廳救災與物資保障處應急指揮專員陳靜介紹，首批1萬件救災物資調往防城港、欽州、北海等受災地區，包括帳篷、摺疊床、毛巾被、雨衣雨鞋、夏裝等。第二批、第三批分別調撥15萬件、1.8萬件救災物資，保障南寧和貴港等受災地區需求。（新華社）
+
+---
+
+### 2026-07-11 19:32:26  #其他
+
+【唐傑內部信稱將開啟 Touch High（摸高）計劃，“不登頂，就是失敗”】今日智譜創始人唐傑釋出內部信，闡述智譜對 AGI 接下來競爭的理解。唐傑在信中表示，智譜接下來將繼續延續所謂 “反直覺” 路線，開啟 “Touch High（摸高）計劃”，即繼續聚焦於 AGI 研究，而不是短期商業變現。通往 AGI 終點的道路上，有幾座必須翻越的山峰，它們也正是今天技術浪潮最洶湧的地方，唐傑列出的四座高峰分別是：長程任務（Long Horizon Task），自治智慧體系統（Autonomous Agent System），完全自我訓練（Fully Self Training），極致安全治理。其中，極致安全治理被特別強調，智譜計劃投入百億級資源攻堅機械可解釋性，這意味著釐清模型決策背後的神經元邏輯，推動黑盒系統向透明可解釋系統轉變。（晚點Latepost）
 
 ---
 
@@ -17448,347 +17604,5 @@ China A-share CRO sector continued to rally; Heyuan Bio rose over 17%, Medicilon
 ### 2026-07-10 09:47:33  #MKT News
 
 【Typhoon Bavi expected to make landfall on Zhejiang–Fujian coast tomorrow night】Typhoon Bavi, the ninth of the year, is approaching the Zhejiang–Fujian coast. At 05:00 it was a strong typhoon, with its center about 830 km southeast of Keelung, Taiwan, over the northwest Pacific. Bavi is expected to make landfall tomorrow night along the coast between Fuqing (Fujian) and Wenling (Zhejiang) at strong-typhoon or typhoon strength.
-
----
-
-### 2026-07-10 09:47:18  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲1%，現報8209.00點。
-
----
-
-### 2026-07-10 09:47:13  #市場
-
-【小金屬板塊異動走高，東方鋯業漲停】小金屬板塊異動走高，東方鋯業漲停，宜安科技、華陽新材、廈門鎢業、浩通科技、章源鎢業等紛紛走高。
-
----
-
-### 2026-07-10 09:47:05  #公司 #市場
-
-【玻璃基板概念震盪反彈 亞瑪頓、三峽新材雙雙漲停】早盤玻璃基板概念震盪反彈，亞瑪頓、三峽新材漲停，龍騰光電、彩虹股份、美迪凱、旗濱集團跟漲。
-
----
-
-### 2026-07-10 09:47:03  #MKT News #Market Themes #AI Revolution
-
-OpenAI said it will invite the Codex team to host an AMA on the r/Codex subreddit to address developer questions.
-
----
-
-### 2026-07-10 09:46:34  #公司
-
-【惠州國資成立人工智慧發展公司】企查查APP顯示，近日，惠州市人工智慧發展有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧基礎資源與技術平臺；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由惠州市國有資本投資集團有限公司等共同持股。
-
----
-
-### 2026-07-10 09:46:26  #公司 #市場
-
-【創新藥板塊短線拉昇，哈藥股份漲停】創新藥板塊短線拉昇，哈藥股份漲停，前沿生物、雙鷺藥業、新贛江、悅康藥業、舒泰神等跟漲。
-
----
-
-### 2026-07-10 09:46:26  #MKT News #Market Regions #Greater China
-
-China A-share pork stocks rallied briefly; Jingji Zhinong hit the daily limit, while Yisheng, Juxing Nongmu, New Wufeng, Xiangjia and Dongrui also advanced.
-
----
-
-### 2026-07-10 09:46:18  #公司
-
-【MiniMax閆俊傑：不再領取薪酬，個人拿出5%公司股份用於團隊激勵和開源支援】MiniMax創始人兼CEO閆俊傑釋出內部全員信，回應近期市場波動，並強調公司長期方向不變。閆俊傑在信中宣佈，從即日起，直到公司實現AGI的那一天，他將不再從公司領取任何薪酬。未來四年，他將拿出個人名下相當於公司總股本4%的股份，用於激勵長期與公司並肩作戰、共同創造價值的團隊成員；同時拿出1%的股份設立專項基金，持續支援相關開源社群的發展。
-
----
-
-### 2026-07-10 09:46:13  #MKT News
-
-【MiniMax CEO Yan Junjie to forgo salary, earmarks 5% of personal shares for staff incentives and open-source fund】In an internal all-staff letter addressing recent market volatility, MiniMax founder and CEO Yan Junjie said the company’s long-term direction is unchanged. Effective immediately and until the company achieves AGI, Yan will receive no salary. Over the next four years he will allocate from his personal holdings shares equal to 4% of the company’s total share capital to incentivize long-term team members, and set aside 1% to establish a dedicated fund to support related open-source communities.
-
----
-
-### 2026-07-10 09:46:10  #MKT News
-
-South Korea's foreign exchange regulator said extending USD/KRW trading hours will further broaden the scope for stabilizing the FX market.
-
----
-
-### 2026-07-10 09:45:57  #國際
-
-韓國正就個股槓桿ETF的市場形勢進行評估。
-
----
-
-### 2026-07-10 09:45:46  #國際
-
-韓國外匯當局：外匯市場供需格局將在2026年下半年最終轉變，預計出口商美元持倉將透過外匯遠期渠道形成資金流入。
-
----
-
-### 2026-07-10 09:45:46  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-South Korea's foreign exchange authority said FX market supply-demand dynamics will shift in H2 2026, and it expects exporters' dollar holdings to flow into the market via FX forward contracts.
-
----
-
-### 2026-07-10 09:45:40  #市場 #焦點
-
-現貨黃金失守4110美元/盎司，日內跌0.33%。
-
----
-
-### 2026-07-10 09:45:30  #市場 #國際
-
-日本20年期國債收益率下跌10個基點至3.765%。
-
----
-
-### 2026-07-10 09:45:24  #MKT News
-
-South Korea's foreign exchange regulator said USD/KRW remains misaligned with economic fundamentals.
-
----
-
-### 2026-07-10 09:45:15  #其他
-
-OpenAI：GPT-5.6正式上線。Codex現已在ChatGPT中上線。
-
----
-
-### 2026-07-10 09:45:14  #MKT News #MSFT.O #Impact bullish #NVDA.O
-
-OpenAI officially launches GPT-5.6; CODEX is now available in ChatGPT.
-
----
-
-### 2026-07-10 09:45:00  #市場 #焦點
-
-【A股CRO概念板塊異動拉昇】和元生物漲16.00%，美迪西、益諾思、百奧賽圖、百誠醫藥、凱萊英、昭衍新藥跟漲。
-
----
-
-### 2026-07-10 09:44:09  #市場 #國際
-
-日本10年期國債收益率下跌10個基點至2.775%。
-
----
-
-### 2026-07-10 09:43:48  #公司 #市場
-
-【算力租賃板塊反覆活躍，超訊科技漲停】算力租賃板塊反覆活躍，超訊科技漲停，弘信電子、天億馬、紫光股份、朗科科技、傑創智慧跟漲。
-
----
-
-### 2026-07-10 09:43:19  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-07-10 09:42:57  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Extend Gains — The benchmark KOSPI rose more than 4% to around 7,620 on Friday, extending gains from the previous session as chipmakers tracked an overnight rally in global semiconductor stocks. Tech shares led the advance, with Samsung Electronics climbing almost 4.0%, while Samsung Electro-Mechanics advanced over 9.0%. Other notable performers included SK hynix (1.1%), SK Square (5.2%), Hyundai Motor (3.3%), LG Energy Solution (4.3%), Kia Corporation (2.1%), KB Financial Group (7.2%), and Doosan Enerbility (7.9%). Investor confidence was also supported by easing oil prices despite renewed US-Iran tensions, as reports that Iran sought negotiations helped ease concerns about prolonged supply disruptions and inflationary pressures. Additionally, President Lee Jae Myung and Mongolian President Ukhnaa Khurelsukh agreed to deepen cooperation in critical minerals, trade, and advanced technologies, reinforcing optimism over South Korea's long-term supply chain security and high-tech industries.
-
----
-
-### 2026-07-10 09:42:37  #公司
-
-【港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%】港股算力硬體股盤初上揚，長飛光纖光纜、三環集團漲超10%，劍橋科技、建滔積層板、瀾起科技跟漲。
-
----
-
-### 2026-07-10 09:42:22  #觀點
-
-花旗將必和必拓目標價下調4.5%，至63.00澳元。
-
----
-
-### 2026-07-10 09:42:12  #MKT News
-
-China's Sci-Tech Innovation Board 50 Index rose over 2%; Hehui Optoelectronics surged more than 10%, leading constituent gains.
-
----
-
-### 2026-07-10 09:42:09  #公司
-
-【資料中心電源概念反覆活躍 中恆電氣2連板】資料中心電源概念反覆活躍，中恆電氣2連板，麥格米特漲超8%，雄韜股份、歐陸通、科華資料跟漲。
-
----
-
-### 2026-07-10 09:41:50  #MKT News #06869.HK #Impact bullish #06166.HK #01347.HK
-
-Hong Kong optical-communications stocks jumped in choppy trade: Yangtze Optical Fibre & Cable (06869.HK) rose over 12%, Cambridge Technology (06166.HK) rose over 9%, Hua Hong Hongli (01347.HK) rose over 7%, Haiguang Xinzhen (01191.HK) rose over 4%.
-
----
-
-### 2026-07-10 09:41:24  #市場
-
-【半導體裝置板塊反覆走強 深科達20cm2連板】半導體裝置板塊反覆走強，深科達20cm2連板，此前亞翔整合、旭光電子漲停，國林科技、茂萊光學、美埃科技、至純科技漲幅靠前。
-
----
-
-### 2026-07-10 09:41:23  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報8587.60點。
-
----
-
-### 2026-07-10 09:41:03  #市場 #焦點
-
-科創50日內漲幅達2.01%，成分股中，和輝光電漲10.50%，華海清科漲8.46%，滬矽產業漲7.41%，海光資訊漲5.92%。
-
----
-
-### 2026-07-10 09:40:59  #國際
-
-韓國總統李在明將於7月23日參加關於房地產問題的公開辯論。
-
----
-
-### 2026-07-10 09:40:37  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,110/oz intraday, down 0.34%.
-
----
-
-### 2026-07-10 09:40:33  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Prices Retreat — European natural gas prices dropped more than 2% toward €49 per MWh on Friday, pulling back from a one-month high amid reports of continued US-Iran negotiations despite recent military exchanges. A US official reaffirmed Washington's commitment to pursuing a diplomatic resolution with Tehran, easing concerns that the conflict could escalate into a broader war and once again disrupt supplies from the Persian Gulf. Prices had surged more than 12% over the previous three sessions after the US carried out new strikes on Iranian targets in response to attacks on vessels in the Strait of Hormuz. Iran retaliated by targeting US bases in the region over the past two nights. While President Trump declared that the ceasefire had ended, he said he would not prevent talks from continuing. Investors remain focused on the security of energy flows through the strait, as any renewed disruption could complicate Europe's efforts to replenish gas inventories ahead of the winter.
-
----
-
-### 2026-07-10 09:39:50  #國際
-
-韓國總統政策室長：韓國將於7月14日至16日舉行房地產市場研討會。
-
----
-
-### 2026-07-10 09:39:37  #市場 #焦點
-
-紐約期金失守4120美元/盎司，日內跌0.51%。
-
----
-
-### 2026-07-10 09:39:29  #市場
-
-【港股光通訊股走強 劍橋科技漲超9%】截至發稿，劍橋科技(06166.HK)漲9.08%，長飛廣纖光纜(06869.HK)漲7.43%，匯聚科技(01729.HK)漲3.81%。
-
----
-
-### 2026-07-10 09:39:00  #市場 #焦點
-
-【A股其他電子Ⅲ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。
-
----
-
-### 2026-07-10 09:39:00  #市場 #焦點
-
-【A股其他電子Ⅱ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。
-
----
-
-### 2026-07-10 09:38:33  #市場 #焦點
-
-科創50日內漲幅達1.17%，成分股中，滬矽產業漲6.85%，和輝光電漲6.30%，華海清科漲5.57%，海光資訊漲4.27%。
-
----
-
-### 2026-07-10 09:38:30  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時放量1007億元。
-
----
-
-### 2026-07-10 09:38:10  #公司 #市場
-
-【PCB概念股盤初拉昇，崇達技術、寶鼎科技2連板】PCB概念股盤初拉昇，艾森股份盤中創新高，崇達技術、寶鼎科技2連板，平安電工漲停，泰金新能漲超10%。
-
----
-
-### 2026-07-10 09:37:50  #MKT News #Important
-
-【Long March 10B begins propellant loading; maiden flight expected around midday】Long March 10B Yao-1 rocket has begun propellant loading and is expected to lift off at about 12:10 p.m. today, attempting the world’s first sea‑based net recovery validation of a rocket first stage. If successful, China would become the second country to master heavy‑lift reusable rocket technology.
-
----
-
-### 2026-07-10 09:37:41  #市場
-
-日經225指數上漲2.1%，報69182.44點。
-
----
-
-### 2026-07-10 09:37:28  #MKT News
-
-China's A-share fiber-optic sector jumped in early trade: Bichuang Technology up over 12%, Guangxun Technology up over 8%, Zhichun Technology up over 7%, Tianfu Communication and Juguang Technology up over 6%.
-
----
-
-### 2026-07-10 09:37:21  #其他
-
-【長征十號乙已經開始燃料加註 今日中午有望首飛】記者獲悉，長征十號乙遙一火箭已開始燃料加註，有望在12點10分左右發射升空，挑戰全球首次火箭一子級海上網系回收驗證。如果本次驗證成功，我國將成為全球第二個掌握大運力可回收火箭技術的國家。（證券時報）
-
----
-
-### 2026-07-10 09:36:36  #公司 #市場
-
-【半導體裝置概念持續走強，亞翔整合觸及漲停】半導體裝置概念持續走強，亞翔整合觸及漲停，深科達、國林科技、旭光電子、亞威股份、國力電子、茂萊光學等跟漲。
-
----
-
-### 2026-07-10 09:36:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
-
-【Japan urges pension funds to boost domestic investment; yen rises to 161.63 per dollar】Japan’s finance minister Katayama said on Friday the government wants pension funds, including the Government Pension Investment Fund (GPIF), to increase allocations to domestic financial assets to ensure the public directly benefits from Japan’s economic growth. Her remarks pushed the yen to a session high of 161.63 per dollar. Katayama said encouraging households and pensions to invest more in Japanese assets is a priority and that the government will implement policies to support that goal, signaling an intent to channel more household and institutional savings into domestic markets as Japan moves toward positive interest rates and gradual Bank of Japan policy normalization.
-
----
-
-### 2026-07-10 09:36:04  #MKT News #Market Themes #China EV Leaders #300750.SZ #Impact bearish #03750.HK
-
-CATL A-shares fell more than 3%; Hong Kong-listed shares (03750.HK) slipped over 1%.
-
----
-
-### 2026-07-10 09:35:47  #市場 #國際
-
-日本30年期國債收益率下跌9.5個基點至3.925%。
-
----
-
-### 2026-07-10 09:35:15  #市場 #觀點
-
-【PCB概念震盪拉昇 平安電工漲停】PCB概念震盪拉昇，平安電工漲停，迅捷興、鵬鼎控股、南亞新材、廣合科技、金安國紀跟漲。
-
----
-
-### 2026-07-10 09:35:10  #公司 #市場
-
-能源金屬板塊盤初調整，融捷股份跌停，雅化集團、永興材料、天齊鋰業、盛新鋰能、贛鋒鋰業、西藏礦業等跟跌。
-
----
-
-### 2026-07-10 09:35:04  #MKT News #Commodities #Energy #SSE Composite #Impact bearish #CSI300
-
-A-share energy metals sector opened lower in early trade; Rongjie hit the daily limit down. Yahua Group, Yongxing Materials, TTANQT LITHIUM, Shengxin Lithium Energy, Ganfeng Lithium and Tibet Mining also fell.
-
----
-
-### 2026-07-10 09:34:38  #市場
-
-【光刻機概念股盤初拉昇，國林科技漲超10%】光刻機概念股盤初拉昇，國林科技漲超10%，茂萊光學、旭光電子、美埃科技、賽微電子、晶方科技跟漲。
-
----
-
-### 2026-07-10 09:34:03  #市場
-
-【甘肅省將重大氣象保障（暴雨）應急響應升級為三級】甘肅省氣象局7月10日訊息，該局已將重大氣象保障（暴雨）IV級應急響應升級為III級應急響應。要求省局應急辦、應急與減災處、觀測與網路處、科技與預報處，氣象臺、氣候中心、氣象資料中心、氣象服務中心立即進入重大氣象保障（暴雨）III級應急響應狀態。甘南州、臨夏州、定西市、蘭州市、白銀市、隴南市、天水市、平涼市、慶陽市等市（州）氣象局根據實際情況研判，啟動或升級相應應急響應。各相關單位要嚴格按照應急響應流程做好各項工作，重點做好遞進式氣象服務。
-
----
-
-### 2026-07-10 09:33:39  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-07-10 09:33:16  #兩會
-
-【河南省鄭州市政協原副主席陳西川接受審查調查】據河南省紀委監委訊息：鄭州市政協原黨組副書記、副主席陳西川涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
 
 ---
