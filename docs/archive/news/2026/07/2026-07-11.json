@@ -1,7 +1,20 @@
 {
   "date": "2026-07-11",
-  "count": 663,
+  "count": 664,
   "items": [
+    {
+      "id": "mkt:019f506a-7a91-7aab-8d3c-a1f605d85706",
+      "time": "2026-07-11 17:03:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "The Kremlin said Ukrainian President Zelenskiy, who pledged on taking office to end the conflict, could still do so by responsibly withdrawing troops from the Donbas and from territories now annexed by Russia and by recognizing the resulting status quo as a legal fact."
+    },
     {
       "id": "4982166",
       "time": "2026-07-11 16:56:04",
