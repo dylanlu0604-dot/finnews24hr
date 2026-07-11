@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-12 04:11:21",
+  "updated": "2026-07-12 04:15:07",
   "count": 16276,
   "items": [
+    {
+      "id": "4982351",
+      "time": "2026-07-12 04:13:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "凱文·沃什即將以美聯儲主席身份首次出席國會聽證會，在為期兩天的質詢中，他將與眾議員探討最新的美國通脹資料。"
+    },
     {
       "id": "4982350",
       "time": "2026-07-12 04:06:20",
@@ -148479,16 +148488,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯稱，英國曆屆領導人辜負了國家，希望下一任首相能帶來變革。"
-    },
-    {
-      "id": "mkt:019f2ec3-3674-7aab-8c9f-4327d2228b58",
-      "time": "2026-07-05 04:12:53",
-      "tags": [
-        "MKT News",
-        "6472.T",
-        "Impact bullish"
-      ],
-      "text": "【MinebeaMitsumi to expand bearing output for AI data centers】MinebeaMitsumi will invest JPY 58 bln (about $360m) to expand precision-bearing capacity for AI data-center cooling equipment and storage devices, raising total capacity roughly 30% to over 500 mln sets/month. The company plans investment at Southeast Asia production bases and to install advanced equipment expected to boost production efficiency by about 60%. Construction is expected to begin this year; earliest production is fiscal 2028, Nikkei reports."
     }
   ]
 }
