@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-12 02:09:06",
-  "count": 16306,
+  "updated": "2026-07-12 02:13:04",
+  "count": 16307,
   "items": [
+    {
+      "id": "mkt:019f5260-aeb4-7aab-8d3f-4d37607f98e7",
+      "time": "2026-07-12 02:11:35",
+      "tags": [
+        "MKT News",
+        "EWY",
+        "Impact bearish",
+        "MU",
+        "Impact bullish",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Roundhill Memory ETF gathers $22bn in three months; AUM tops iShares MSCI Korea (EWY)】Roundhill Memory ETF (DRAM) has reached about $25bn AUM since launching on April 2, attracting a record $22bn of net inflows in roughly three months and surpassing the 26‑year‑old iShares MSCI Korea ETF (EWY). Over the same period EWY logged roughly $2bn of net outflows; earlier in 2026 EWY had drawn about $6bn of inflows. DRAM allocates more than 90% of its weight to memory names — Samsung Electronics, Micron Technology, SK Hynix, SanDisk, Seagate Technology, Western Digital and Kioxia — and its holdings overlap with EWY by roughly 46%."
+    },
+    {
+      "id": "4982334",
+      "time": "2026-07-12 02:11:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：真主黨是黎巴嫩與以色列共同的敵人。"
+    },
+    {
+      "id": "4982333",
+      "time": "2026-07-12 02:10:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。"
+    },
     {
       "id": "mkt:019f525b-87ee-7aab-8d3f-4116ed7ec27d",
       "time": "2026-07-12 02:05:57",
@@ -148723,22 +148753,6 @@
         "其他"
       ],
       "text": "【委內瑞拉地震死亡人數升至2954人】據委內瑞拉官方4日釋出的資料，該國近日發生的兩次強震已造成2954人死亡。（新華社）"
-    },
-    {
-      "id": "mkt:019f2e52-a73c-7aab-8c9e-76438f8322db",
-      "time": "2026-07-05 02:09:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says it killed one Hezbollah fighter in southern Lebanon】The Israel Defense Forces said on the 4th (local time) it discovered and shot dead a Hezbollah fighter who appeared near its forces in the \"security zone\" in southern Lebanon."
-    },
-    {
-      "id": "4970563",
-      "time": "2026-07-05 02:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）"
     }
   ]
 }

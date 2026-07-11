@@ -1,7 +1,37 @@
 {
   "date": "2026-07-12",
-  "count": 44,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:019f5260-aeb4-7aab-8d3f-4d37607f98e7",
+      "time": "2026-07-12 02:11:35",
+      "tags": [
+        "MKT News",
+        "EWY",
+        "Impact bearish",
+        "MU",
+        "Impact bullish",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Roundhill Memory ETF gathers $22bn in three months; AUM tops iShares MSCI Korea (EWY)】Roundhill Memory ETF (DRAM) has reached about $25bn AUM since launching on April 2, attracting a record $22bn of net inflows in roughly three months and surpassing the 26‑year‑old iShares MSCI Korea ETF (EWY). Over the same period EWY logged roughly $2bn of net outflows; earlier in 2026 EWY had drawn about $6bn of inflows. DRAM allocates more than 90% of its weight to memory names — Samsung Electronics, Micron Technology, SK Hynix, SanDisk, Seagate Technology, Western Digital and Kioxia — and its holdings overlap with EWY by roughly 46%."
+    },
+    {
+      "id": "4982334",
+      "time": "2026-07-12 02:11:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：真主黨是黎巴嫩與以色列共同的敵人。"
+    },
+    {
+      "id": "4982333",
+      "time": "2026-07-12 02:10:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。"
+    },
     {
       "id": "mkt:019f525b-87ee-7aab-8d3f-4116ed7ec27d",
       "time": "2026-07-12 02:05:57",
