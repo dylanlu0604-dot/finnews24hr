@@ -1,7 +1,15 @@
 {
   "date": "2026-07-11",
-  "count": 545,
+  "count": 546,
   "items": [
+    {
+      "id": "mkt:019f4f7d-5706-7aab-8d3b-aad33aaf0f98",
+      "time": "2026-07-11 12:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Drought persists in northern Italy; agricultural irrigation at risk of cutoffs】Italian authorities warned on the 10th that rivers, lakes and reservoirs in the north are rapidly depleting due to persistent drought, with main waterways nearly dry and agricultural irrigation facing supply cutoffs. Authorities called the situation \"extremely severe\" and said that if rainfall does not replenish supplies and current irrigation withdrawal levels continue, storage in the Po River basin could be exhausted within 10 days. Flows in the Po delta have fallen sharply and Adriatic seawater has intruded 20–25 km upstream, salinizing channels and preventing irrigation across large areas of farmland."
+    },
     {
       "id": "4982076",
       "time": "2026-07-11 12:36:54",
