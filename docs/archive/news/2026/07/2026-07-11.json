@@ -1,7 +1,19 @@
 {
   "date": "2026-07-11",
-  "count": 425,
+  "count": 426,
   "items": [
+    {
+      "id": "mkt:019f4eaa-c3d6-7aab-8d3a-e81484ee7898",
+      "time": "2026-07-11 08:54:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian authorities said Russia launched a missile strike on Kyiv."
+    },
     {
       "id": "4981979",
       "time": "2026-07-11 08:51:44",
