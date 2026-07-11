@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-11 12:21:15",
-  "count": 16238,
+  "updated": "2026-07-11 12:25:08",
+  "count": 16237,
   "items": [
+    {
+      "id": "4982070",
+      "time": "2026-07-11 12:23:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國籃協回應上海男籃外援興奮劑違規：將嚴肅處理】@中國籃球協會 7月11日訊息，中國反興奮劑中心於7月10日公佈的興奮劑違規資訊顯示，在2026年5月6日的賽內興奮劑檢查中，CBA聯賽上海久事籃球俱樂部外籍球員哈桑·懷特塞德（Hassan Niam Whiteside）的興奮劑檢測結果呈蛋白同化製劑(氧雄龍代謝物)陽性結果、激素及代謝調節劑(氯米芬)非典型性。"
+    },
+    {
+      "id": "mkt:019f4f69-1f34-7aab-8d3b-9d32f443ee02",
+      "time": "2026-07-11 12:21:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues revised standards for medical institutions' water pollutant discharges】China's Ministry of Ecology and Environment and the State Administration for Market Regulation (SAMR) jointly released revised Standards for the Discharge of Water Pollutants from Medical Institutions to address incomplete coverage in the existing standard and strengthen support for treating emerging pollutants and for water ecological risk prevention."
+    },
     {
       "id": "4982069",
       "time": "2026-07-11 12:19:23",
@@ -148140,35 +148156,6 @@
         "國際"
       ],
       "text": "【外媒：特朗普赦免11人，其中9人曾被判違反美國《清潔空氣法》】據路透社、美聯社報道，白宮方面稱，美國總統特朗普當地時間週五（3日）赦免了11人，其中9人均因改裝或禁用卡車的排放控制裝置而被判違反美國《清潔空氣法》。 特朗普當天在其社交媒體上發帖談及其中6名被赦免人。他聲稱，這6名男子在前總統拜登執政期間因“修理他們的汽車”而被起訴。但有網友表示，繞過有關車輛排放控制系統改裝禁令的行為，並非“修理”汽車這麼簡單，而是違法行為。 （環球網）"
-    },
-    {
-      "id": "mkt:019f2b5e-6a2e-7aab-8c9b-bdd8104d5cb5",
-      "time": "2026-07-04 12:23:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【Micron to spend $9.0 bln to expand western Japan chip plant】Micron has formally launched a 1.5 trillion yen (about $9.0 bln) expansion of its western Japan memory-chip factory to produce advanced memory chips. The move is part of Micron’s global capacity build to meet AI and autonomous-vehicle demand; the Japanese government will provide up to 500 billion yen in subsidies toward construction costs. The expansion is designed to improve energy efficiency and data-transfer performance for AI services and self‑driving systems, with new production lines expected to start shipping around summer 2028."
-    },
-    {
-      "id": "4970274",
-      "time": "2026-07-04 12:22:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音自營店鋪被指將翻新電腦按全新銷售，保修期2024年就被啟用】據媒體報道，有消費者反映抖音電商一家自營旗艦店銷售翻新電腦，機器2023年生產，並在2024年就被啟用保修期。針對此事，新浪科技諮詢抖音電商寧波慈溪自營旗艦店客服，店鋪客服對相關問詢已讀不回。抖音商城官方客服也僅表示“在平臺購買的商品都是有售後保障的”，並未對此事進行詳細回應。（新浪科技）"
-    },
-    {
-      "id": "4970273",
-      "time": "2026-07-04 12:22:19",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【黑龍江金融監管局：同意中融國際信託有限公司破產】記者從黑龍江金融監管局瞭解到，根據《中融國際信託有限公司關於申請破產清算的請示》，根據《中國銀保監會信託公司行政許可事項實施辦法》（中國銀行保險監督管理委員會令2020年第12號）等相關規定及國家金融監督管理總局授權，經稽核，批覆：同意中融國際信託有限公司依法進入破產程式。同時，要求中融國際信託有限公司嚴格按照有關法律法規要求開展後續工作，如遇重大情況，及時向國家金融監督管理總局黑龍江監管局報告。（央視新聞）"
     }
   ]
 }
