@@ -1,7 +1,26 @@
 {
   "date": "2026-07-11",
-  "count": 686,
+  "count": 688,
   "items": [
+    {
+      "id": "mkt:019f5080-6214-7aab-8d3c-f455b0578f67",
+      "time": "2026-07-11 17:26:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media say the Supreme Leader will deliver remarks within hours at the funeral for a slain former leader."
+    },
+    {
+      "id": "4982180",
+      "time": "2026-07-11 17:26:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊將在未來幾小時內就遇刺的前最高領袖的葬禮發表講話。"
+    },
     {
       "id": "mkt:019f507d-4f60-7aab-8d3c-eb513929ddee",
       "time": "2026-07-11 17:23:37",

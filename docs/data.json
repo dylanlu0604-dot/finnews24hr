@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-11 17:24:17",
+  "updated": "2026-07-11 17:28:21",
   "count": 16275,
   "items": [
+    {
+      "id": "mkt:019f5080-6214-7aab-8d3c-f455b0578f67",
+      "time": "2026-07-11 17:26:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media say the Supreme Leader will deliver remarks within hours at the funeral for a slain former leader."
+    },
+    {
+      "id": "4982180",
+      "time": "2026-07-11 17:26:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊將在未來幾小時內就遇刺的前最高領袖的葬禮發表講話。"
+    },
     {
       "id": "mkt:019f507d-4f60-7aab-8d3c-eb513929ddee",
       "time": "2026-07-11 17:23:37",
@@ -148468,23 +148487,6 @@
         "國際"
       ],
       "text": "【火情嚴峻 全美約40處大規模山火失控】連日來，美國西部多州山火肆虐，其中科羅拉多州名為“阿斯彭英畝”的山火火情最為嚴峻。當地時間7月3日，該山火過火面積達到了297平方公里，超過160座建築被毀，數千居民被迫撤離。目前，火勢已完全失控。據悉，“阿斯彭英畝”山火從科羅拉多州丹佛市西南方向燃起，受持續乾旱、大風等天氣影響，火勢迅速蔓延至該州普韋布洛縣和卡斯特縣。“阿斯彭英畝”山火只是美國西部當前嚴峻火情的縮影。目前全美約有40處大規模山火處於失控狀態，主要分佈在西部地區。美國國家氣象局已對西部大片地區釋出紅色火災預警。（央視新聞）"
-    },
-    {
-      "id": "4970363",
-      "time": "2026-07-04 17:26:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委、法國央行行長穆蘭：我們並未承諾歐洲央行將進行新一輪加息。"
-    },
-    {
-      "id": "mkt:019f2c72-a03c-7aab-8c9c-8ee9e950da92",
-      "time": "2026-07-04 17:25:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese naval flotilla to visit Vietnam】Early July, at the invitation of the Vietnamese navy, two PLA Navy ships, Qi Jiguang and Kunlunshan, will visit Ho Chi Minh City. China and Vietnam have stepped up naval exchanges and joint patrols in recent years, which officials say bolster mutual trust and regional stability."
     }
   ]
 }
