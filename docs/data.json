@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-11 09:23:06",
-  "count": 16230,
+  "updated": "2026-07-11 09:27:00",
+  "count": 16229,
   "items": [
+    {
+      "id": "4981992",
+      "time": "2026-07-11 09:24:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：如果在太空大規模利用太陽能進行有用工作，其價值將遠遠超過地球經濟，因為整個地球文明使用的只是我們太陽能量的一萬億分之一。"
+    },
     {
       "id": "mkt:019f4ec2-8c26-7aab-8d3b-1094b8d40b2a",
       "time": "2026-07-11 09:20:00",
@@ -148099,22 +148107,6 @@
         "MKT News"
       ],
       "text": "National Bureau of Statistics: In late June 2026 versus mid-June, prices for 13 products rose, 34 fell and 3 were unchanged."
-    },
-    {
-      "id": "4970205",
-      "time": "2026-07-04 09:24:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“美莎克”或將在廣西二次登陸 國家海洋預報臺升級風暴潮警報為黃色】記者從自然資源部獲悉，受颱風“美莎克”的影響，廣西沿海將出現70到120釐米的風暴增水，國家海洋預報臺根據《海洋災害應急預案》釋出海浪藍色警報，並將風暴潮警報升級為黃色。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f2ab9-3982-7aab-8c9b-287087961a54",
-      "time": "2026-07-04 09:23:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CGN Taipingling Unit 2, Greater Bay Area's first Hualong One, achieves first grid synchronization】CGN's Guangdong Taipingling nuclear power Unit 2 — the Greater Bay Area's first Hualong One project — synchronized to the grid today and dispatched its first kWh, marking the unit's capability to supply power. The unit will undergo further performance verification and is scheduled for commercial operation in H2 2026."
     }
   ]
 }
