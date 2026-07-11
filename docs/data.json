@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 06:01:56",
+  "updated": "2026-07-12 06:05:48",
   "count": 16258,
   "items": [
+    {
+      "id": "4982373",
+      "time": "2026-07-12 06:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名美國官員透露，特朗普近期一直在聽取關於烏克蘭新型遠端打擊能力的情報簡報，並且對其打擊效果印象深刻。以上評估是特朗普相較於去年對烏克蘭態度轉向更為積極的核心原因。"
+    },
     {
       "id": "4982372",
       "time": "2026-07-12 05:59:09",
@@ -148310,19 +148318,6 @@
         "公司"
       ],
       "text": "英國考慮強制海外公司披露遊說活動。"
-    },
-    {
-      "id": "mkt:019f2f28-5f52-7aab-8ca0-0768579580db",
-      "time": "2026-07-05 06:03:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China's express volume tops 100 billion items YTD, milestone hit nine days earlier than last year】State Post Bureau monitoring shows China's express delivery volume exceeded 100 billion items as of June 30, reaching the milestone nine days earlier than in 2025. Ongoing consumption-support measures have sustained retail growth and shifted spending patterns, expanding parcel demand. The bureau says the industry is refocusing from pure volume growth to quality improvement and sustainable scale; continued policy implementation and emerging new drivers should strengthen postal and courier services' role in logistics, supporting economic circulation and higher-quality growth."
     }
   ]
 }
