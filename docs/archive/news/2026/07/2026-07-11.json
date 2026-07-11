@@ -1,7 +1,15 @@
 {
   "date": "2026-07-11",
-  "count": 798,
+  "count": 799,
   "items": [
+    {
+      "id": "mkt:019f5144-22d8-7aab-8d3e-36f771e52ef4",
+      "time": "2026-07-11 21:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NYT reporters subpoenaed over disclosure of safety flaws on Trump’s new plane】The New York Times reported on the 11th that reporters who contributed to its story on safety defects in President Trump’s newly refurbished presidential plane were served subpoenas. Federal law enforcement officers reportedly went to the reporters’ homes on the 10th to deliver subpoenas requiring them to testify before a Manhattan federal grand jury on the 15th about possible violations of federal criminal law. The plane, donated by Qatar and recently refitted, carried Trump to this month’s NATO summit in Turkey; on the 8th he initially flew on the older Air Force One to RAF Mildenhall before switching to the new aircraft for the return. The Times, citing unnamed sources, said the switch was made at the request of the U.S. Secret Service because the new plane lacked some security features of the older aircraft."
+    },
     {
       "id": "mkt:019f513f-bcbf-7aab-8d3e-2baa99019735",
       "time": "2026-07-11 20:55:59",
