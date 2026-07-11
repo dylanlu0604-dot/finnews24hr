@@ -1,7 +1,17 @@
 {
   "date": "2026-07-11",
-  "count": 757,
+  "count": 758,
   "items": [
+    {
+      "id": "mkt:019f50fa-b530-7aab-8d3d-8d2d03ba881f",
+      "time": "2026-07-11 19:40:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Maritime Safety Administration raises typhoon emergency response to level II】Typhoon Bavi (No.9) is expected to affect eastern Hubei, Jiangxi and Anhui in the middle–lower Yangtze between July 11–13. The Yangtze River Maritime Safety Administration raised its typhoon emergency response to level II for the main Yangtze stretch from Anhui to Sichuan from 18:00 on July 11."
+    },
     {
       "id": "4982233",
       "time": "2026-07-11 19:37:14",

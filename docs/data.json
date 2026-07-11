@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-11 19:40:12",
-  "count": 16301,
+  "updated": "2026-07-11 19:44:04",
+  "count": 16300,
   "items": [
+    {
+      "id": "mkt:019f50fa-b530-7aab-8d3d-8d2d03ba881f",
+      "time": "2026-07-11 19:40:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Maritime Safety Administration raises typhoon emergency response to level II】Typhoon Bavi (No.9) is expected to affect eastern Hubei, Jiangxi and Anhui in the middle–lower Yangtze between July 11–13. The Yangtze River Maritime Safety Administration raised its typhoon emergency response to level II for the main Yangtze stretch from Anhui to Sichuan from 18:00 on July 11."
+    },
     {
       "id": "4982233",
       "time": "2026-07-11 19:37:14",
@@ -148689,22 +148699,6 @@
         "國際"
       ],
       "text": "【韓國執政黨批美涉酷澎報告“失實”】韓國執政黨共同民主黨4日對美國近日一份涉電商巨頭酷澎公司的報告表示“強烈遺憾”，稱報告內容“嚴重失實”，並批評酷澎試圖借美方報告轉嫁對大規模使用者資訊洩露事件的責任。美國眾議院司法委員會本週早些時候釋出一份中期報告，稱酷澎長期是韓國政府的“針對目標”，還稱韓國對美資企業實施了“強制調查、過於繁重的監管要求以及過重的罰款與處罰”。共同民主黨發言人張潤美（音譯）4日在書面簡報中說，美方報告“依據酷澎單方面說法和未經核實的資料，嚴重歪曲韓國政府立場”。她表示，韓國政府不會因企業的國籍而採取歧視性或不公平監管措施，酷澎應“停止為掩蓋自身過錯而向（韓國）政府轉嫁責任”。張潤美還說，酷澎在使用者個人資訊洩露事件上不應保持沉默，不應把自己塑造成受害者。韓國國會、總統府和外交部此前已分別表態，對美方報告內容表示遺憾，強調韓方圍繞酷澎資料洩露事件開展的調查和監管措施公平。（新華社）"
-    },
-    {
-      "id": "4970411",
-      "time": "2026-07-04 19:42:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南大理州賓川縣發生地震 中國地震局啟動四級應急響應】據中國地震局網站訊息，據中國地震臺網正式測定，2026年7月4日18時28分，在雲南大理州賓川縣(北緯25.95度，東經100.58度)發生4.3級地震，震源深度10公里。 地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、雲南省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。（中新網）"
-    },
-    {
-      "id": "mkt:019f2cee-264c-7aab-8c9c-dfee4e47e12e",
-      "time": "2026-07-04 19:40:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mali's military said the situation was 'fully under control' after insurgent attacks on five cities and towns."
     }
   ]
 }
