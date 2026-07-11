@@ -1,7 +1,29 @@
 {
   "date": "2026-07-11",
-  "count": 402,
+  "count": 404,
   "items": [
+    {
+      "id": "em:qqyh_mlc:202607113802429640",
+      "time": "2026-07-11 08:04:25",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲半年度政策報告：關稅和中東推高通脹 AI成雙刃劍】當地時間週五，美聯儲在官網釋出了向國會提交的半年度貨幣政策報告，重申了聯邦公開市場委員會（FOMC）實現價格穩定的決心，警惕能源與AI雙重通脹壓力。市場焦點將放在美聯儲主席凱文·沃什下週以美聯儲主席身份出席國會聽證會的發言上。"
+    },
+    {
+      "id": "mkt:019f4e7c-ee1d-7aab-8d3a-ab1b1917ea2e",
+      "time": "2026-07-11 08:03:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China futures market H1 turnover up 42.08% YoY; volume up 25.23%】China Futures Association: Jan–Jun cumulative futures volume 5.105 billion contracts and turnover 482.7 trillion yuan, up 25.23% and 42.08% YoY, respectively. Aggregate market capital repeatedly hit record highs. Expanded turnover and liquidity provided effective hedging tools and supported steady operation of the real economy."
+    },
     {
       "id": "4981963",
       "time": "2026-07-11 08:00:25",

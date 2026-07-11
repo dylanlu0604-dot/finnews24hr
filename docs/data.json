@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-11 08:02:58",
-  "count": 16223,
+  "updated": "2026-07-11 08:06:53",
+  "count": 16222,
   "items": [
+    {
+      "id": "em:qqyh_mlc:202607113802429640",
+      "time": "2026-07-11 08:04:25",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲半年度政策報告：關稅和中東推高通脹 AI成雙刃劍】當地時間週五，美聯儲在官網釋出了向國會提交的半年度貨幣政策報告，重申了聯邦公開市場委員會（FOMC）實現價格穩定的決心，警惕能源與AI雙重通脹壓力。市場焦點將放在美聯儲主席凱文·沃什下週以美聯儲主席身份出席國會聽證會的發言上。"
+    },
+    {
+      "id": "mkt:019f4e7c-ee1d-7aab-8d3a-ab1b1917ea2e",
+      "time": "2026-07-11 08:03:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China futures market H1 turnover up 42.08% YoY; volume up 25.23%】China Futures Association: Jan–Jun cumulative futures volume 5.105 billion contracts and turnover 482.7 trillion yuan, up 25.23% and 42.08% YoY, respectively. Aggregate market capital repeatedly hit record highs. Expanded turnover and liquidity provided effective hedging tools and supported steady operation of the real economy."
+    },
     {
       "id": "4981963",
       "time": "2026-07-11 08:00:25",
@@ -148027,30 +148049,6 @@
         "國際"
       ],
       "text": "【特朗普：美財政部將接受股票捐贈，用以充實特朗普專項賬戶】特朗普在真實社交平臺發文稱，美國財政部將接受可隨時交易的上市公司股票作為慈善捐贈，為特朗普專項賬戶提供資金支援。他補充道：“此舉為美國優秀企業、慈善人士以及就業創造型企業開闢了渠道，讓他們能夠直接投資我們下一代的未來。”他表示，社會對特朗普專項賬戶的反響 “十分熱烈”，該計劃尚未正式推出，申請開通賬戶的人數就已超 600 萬。"
-    },
-    {
-      "id": "4970180",
-      "time": "2026-07-04 08:06:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將接受公眾股票的慈善捐款。"
-    },
-    {
-      "id": "4970179",
-      "time": "2026-07-04 08:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交媒體上釋出了關於其賬戶慈善捐款的資訊。"
-    },
-    {
-      "id": "4970178",
-      "time": "2026-07-04 08:05:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國建材總院與北方華創簽署戰略合作協議】中國建材總院與北方華創科技集團股份有限公司（簡稱“北方華創”）戰略合作協議簽約儀式近日在北京舉行。雙方一致認為，此次戰略合作協議的簽署，是未來持續深化協同創新，拓寬合作領域，合力打造裝備與材料協同發展新格局的里程碑，必將為我國半導體產業鏈自主可控和核心競爭力提升貢獻力量。"
     }
   ]
 }
