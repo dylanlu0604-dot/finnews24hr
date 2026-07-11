@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-11 21:02:46",
-  "count": 16320,
+  "updated": "2026-07-11 21:06:54",
+  "count": 16321,
   "items": [
+    {
+      "id": "mkt:019f5147-a11e-7aab-8d3e-38a2fd3e46f3",
+      "time": "2026-07-11 21:04:36",
+      "tags": [
+        "MKT News",
+        "2007.HK",
+        "Impact mixed"
+      ],
+      "text": "【Country Garden: H2 a critical window for operational turnaround】Country Garden held a July 10 management meeting and said H2 will be a critical window for its operational transition. Management ordered a focus on stabilizing financing and debt and sustaining development, directing regional project teams to ensure completion and handover of homes and to execute an orderly strategic shift back to normal operations. The company reviewed H1 progress and prioritized quality delivery, product upgrades, safety, organizational control and AI-driven operations. Joint chairman Mo Bin said the market warming trend is established; ongoing policy support and concentrated release of pent-up demand should drive recovery from Tier‑1/2 to Tier‑3/4 cities, a process that will take time and requires patience."
+    },
+    {
+      "id": "4982254",
+      "time": "2026-07-11 21:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州蕭山國際機場已取消11日進出港航班214架次】受今年第9號颱風“巴威”影響，7月11日，杭州蕭山國際機場已取消當日進出港航班214架次。同時，機場方面還部署航空器繫留、設施排查、人員轉移、旅客保障等一系列舉措，築牢機場執行安全屏障。（新華社）"
+    },
     {
       "id": "mkt:019f5144-22d8-7aab-8d3e-36f771e52ef4",
       "time": "2026-07-11 21:00:47",
@@ -148876,15 +148894,6 @@
         "MKT News"
       ],
       "text": "【Ali Azmaei appointed commander of IRGC Navy】Ali Azmaei has been appointed commander of the Islamic Revolutionary Guard Corps Navy. He previously served as deputy commander and has long held posts within the IRGC Navy."
-    },
-    {
-      "id": "4970462",
-      "time": "2026-07-04 21:04:05",
-      "tags": [
-        "行業",
-        "公司"
-      ],
-      "text": "【何小鵬：中國智駕領先全球，L2級輔助駕駛將加速出海】“我認為中國的輔助駕駛，無論是企業的技術產品，還是相關法律法規的制定，都走在全球前面。最近，聯合國透過了關於智慧駕駛的法規，其中L2級別的相關法規全面獲批。這意味著今年12月起，NGP、NOA等L2級駕駛輔助功能可以在全球範圍內使用和落地，這是一個非常重要的節點。”近日，小鵬汽車董事長、CEO何小鵬在接受採訪時如是說。他表示，過去只有中國和美國真正實現了L2級輔助駕駛的大規模落地，包括歐盟在內的全球大部分地區尚未跟進。小鵬不僅是中國智慧汽車製造商，也是聯合國交通法規制定組委會的成員之一，正在積極跟進法規要求，持續提升相關能力。（第一財經）"
     }
   ]
 }
