@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-12 01:11:58",
-  "count": 16311,
+  "updated": "2026-07-12 01:16:05",
+  "count": 16310,
   "items": [
+    {
+      "id": "mkt:019f522b-2f77-7aab-8d3f-354ec90eeb48",
+      "time": "2026-07-12 01:13:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China origin-based student credit loans total 620.7 bln yuan; 68.21 mln student person-times aided】China’s origin-based student credit loan program entered its 20th year this year. Over nearly two decades it has cumulatively disbursed 620.7 bln yuan and supported 68.21 mln student person-times, the Ministry of Education said."
+    },
     {
       "id": "4982322",
       "time": "2026-07-12 01:09:29",
@@ -148764,22 +148774,6 @@
         "國際"
       ],
       "text": "【數百名疑似白人至上組織愛國者陣線成員在華盛頓遊行】數百名身著統一制服、疑似白人至上主義組織 “愛國者陣線” 的成員在華盛頓特區遊行，朝著國會大廈行進。這群男子全都戴著白色面罩，手持各式旗幟 —— 部分旗幟倒置，還有邦聯旗幟，同時高喊口號：“奪回美國！”"
-    },
-    {
-      "id": "mkt:019f2e20-2ee6-7aab-8c9e-024ad44eaf69",
-      "time": "2026-07-05 01:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time."
-    },
-    {
-      "id": "mkt:019f2e1e-9440-7aab-8c9d-fa483bd17518",
-      "time": "2026-07-05 01:13:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan."
     }
   ]
 }

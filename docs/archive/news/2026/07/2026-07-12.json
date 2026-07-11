@@ -1,7 +1,17 @@
 {
   "date": "2026-07-12",
-  "count": 31,
+  "count": 32,
   "items": [
+    {
+      "id": "mkt:019f522b-2f77-7aab-8d3f-354ec90eeb48",
+      "time": "2026-07-12 01:13:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China origin-based student credit loans total 620.7 bln yuan; 68.21 mln student person-times aided】China’s origin-based student credit loan program entered its 20th year this year. Over nearly two decades it has cumulatively disbursed 620.7 bln yuan and supported 68.21 mln student person-times, the Ministry of Education said."
+    },
     {
       "id": "4982322",
       "time": "2026-07-12 01:09:29",
