@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-11 07:34:23_
-_本檔包含 3009 則快訊，約 612355 字_
+_更新時間：2026-07-11 09:02:01_
+_本檔包含 2992 則快訊，約 612105 字_
+
+---
+
+### 2026-07-11 08:58:52  #市場
+
+【商業航天板塊引爆ETF行情，有ETF單日淨申購近21億元】7月10日，A股商業航天板塊爆發，多隻衛星ETF集體大漲。截至收盤，衛星ETF廣發、衛星ETF富國、通用航空ETF南方漲幅均超過8%。衛星ETF易方達、衛星ETF鵬華、衛星ETF招商等漲幅超過7%。而根據最新ETF申購資料，資金也在湧入相關主題ETF。Wind資料顯示，7月10日，衛星ETF永贏淨申購金額達到20.94億元，衛星ETF富國、衛星ETF易方達、衛星ETF廣發等淨申購金額也超過3億元。
+
+---
+
+### 2026-07-11 08:54:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian authorities said Russia launched a missile strike on Kyiv.
+
+---
+
+### 2026-07-11 08:51:44  #公司 #觀點
+
+【券商業績迎高光時刻 最高預增693.5%】7月剛過10天，已有9家上市券商釋出2026年半年度業績預告，無一例外實現高增長，招商證券等更是直言經營業績已創歷史新高。具體來看，從絕對值計，中信證券、國泰海通雙雙淨利潤超200億元；從增幅計，天風證券以最高693.5%的增幅領跑。更為亮眼的是，多家券商在第二季度實現業績爆發，5家單季淨利增幅翻倍。非銀分析師研判，隨著財報陸續披露，市場對2026年證券業務的預期差有望逐步修復，券商板塊估值修復空間顯著。
+
+---
+
+### 2026-07-11 08:49:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+AFP reports at least five explosions were heard in Kyiv.
+
+---
+
+### 2026-07-11 08:48:06  #公司 #市場
+
+【北向資金最新持股公佈 大幅加倉績優股僅9只】2026年二季度北向資金持股已公佈，與此前相比，持股市值大幅增加。整體來看，截至2026年二季度末（6月30日），北向資金持股數量合計超過1078億股，環比增加超過40億股。按照二季度末收盤價計算，北向資金持股市值超過3萬億元，達到3.13萬億元，持股市值創互聯互通機制開通以來季度新高。北向資金持股市值的大幅提升，既與持股數量的提升有關，同時也與陸股通標的股價上漲緊密相連。從單家公司來看，截至2026年二季度末，16家公司獲北向資金持股市值超過300億元，持股市值前10名公司中，硬科技行業公司多達7家；前3名首次被硬科技包攬，分別是寧德時代、中際旭創及北方華創。相比之下，大消費公司的持股市值明顯減退。貴州茅臺、美的集團作為曾經北向資金第一、第二大重倉股，截至2026年二季度末，兩股的持股市值環比均有下降，其中貴州茅臺的持股市值環比下降超25%。從持股比例（持股數量/總股本）來看，截至2026年二季度末，23家公司持股比例超過10%，華測檢測、宏發股份、思源電氣、匯川技術及寧德時代持股比例位居前5名，其中前2家公司持股比例超過20%。值得一提的是，上述23家持股比例居前公司中，有17家持股比例環比增加，包括恆立液壓、應流股份、東方雨虹等。進一步來看，百餘家獲北向資金環比加倉超過2個百分點的公司中，已披露2026年半年報預告的公司有9家，業績全部預喜（預增、扭虧、略增）。
+
+---
+
+### 2026-07-11 08:42:31  #MKT News #Market Regions #Emerging Markets
+
+Democratic Republic of the Congo: confirmed Ebola cases rise to 1,830, including 648 deaths.
+
+---
+
+### 2026-07-11 08:42:26  #公司 #觀點
+
+【349家上市公司已披露 169家預計淨利潤最大增幅超100%】7月11日，A股共126家上市公司披露2026年半年度業績預告，61家報喜，佔比48.41%，65家報憂。從預告淨利潤金額來看，51家公司預計上半年淨利潤超1億元。中信證券、洛陽鉬業、宏橋控股排名居前，預計淨利潤分別為233.43億元、155.00億元、150.00億元。從預告淨利潤增幅來看，65家公司預計上半年淨利潤最大增幅超50%。翔鷺鎢業、夏農芯創、億道資訊排名居前，預計淨利潤最大增幅分別為3435.76%、2434.34%、1792.48%。截至7月11日，已有349家上市公司披露半年度業績預告，其中196家預增，19家略增，3家續盈，37家扭虧，合計255家公司報喜，佔比73.07%。業績報喜公司中，有202家預計淨利潤超億元，169家預計淨利潤最大增幅超100%。從行業分佈來看，業績報喜公司主要分佈在化工、金屬、非金屬與採礦、電子裝置、儀器和元件行業，報喜公司數量分別為52家、31家、27家。
+
+---
+
+### 2026-07-11 08:41:07  #其他
+
+剛果民主共和國稱，埃博拉確診病例數已升至1830例，其中648例死亡。
+
+---
+
+### 2026-07-11 08:36:08  #市場 #央行 #國際
+
+【多空因素交織 國際金價本週震盪加劇】本週，國際金價坐上“過山車”，在連跌三天後逐步企穩。截至7月10日，倫敦金現貨價格徘徊在4100美元/盎司附近。訊息面上，市場對美聯儲後續加息路徑的判斷分歧加大；與此同時，中東地緣局勢有所反覆，不確定因素增多，黃金市場多空博弈明顯加劇。業內人士認為，短期來看，美聯儲政策預期和中東局勢將主導金價波動節奏；中長期來看，全球央行持續購金、全球經濟不確定性上升等因素，仍將為黃金提供結構性支撐。（中國證券報）
+
+---
+
+### 2026-07-11 08:35:54  #國際
+
+訊息人士稱，特朗普政府官員在遭解僱前就曾試圖尋找繞開選舉機構的方案。
+
+---
+
+### 2026-07-11 08:34:34  #MKT News #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
+
+【ETF count tops 1,600; equity ETFs attract nearly CNY100bn in month】New ETF listings have pushed China’s total ETF count past 1,600. Equity ETFs recorded net inflows of nearly CNY100 billion this month, with ETFs serving as a primary channel for funds entering the market. Multiple institutions say they remain constructive on equities for long-term allocation.
+
+---
+
+### 2026-07-11 08:33:36  #MKT News
+
+【Lithium hexafluorophosphate demand surges; industry profitability improves】Demand has pushed China’s lithium hexafluorophosphate (LiPF6) market out of prior production losses in 2026, with spot prices briefly exceeding 160,000 yuan/ton. Prices in 1H showed a spike-then-retreat pattern, but industry margins have risen materially. Several listed producers, including Tinci Materials and Do‑Fluoride New Materials, have issued positive profit previews. Market expectations for a tighter future supply‑demand balance are broadly bullish.
+
+---
+
+### 2026-07-11 08:33:13  #其他
+
+【ETF數量突破1600只 月內股票型ETF“吸金”近千億元】產品擴容，規模勁增，ETF已經成為資金入市重要工具。從產品情況看，隨著近期新發ETF密整合立，ETF總數突破1600只。從資金情況看，大量資金借道ETF入市，月內股票型ETF資金淨流入近千億元。多家機構表示，當前依然看好權益資產長期配置價值。（上海證券報）
+
+---
+
+### 2026-07-11 08:30:36  #公司
+
+【六氟磷酸鋰需求旺盛 行業盈利能力顯著提升】需求拉動下，2026年國內六氟磷酸鋰市場結束前期生產虧損狀態，價格一度衝破16萬元/噸。雖然上半年市場價格總體呈現衝高回落狀態，但行業企業盈利水平已顯著提升。近日，天賜材料、多氟多等多家上市公司業績預喜。對於六氟磷酸鋰未來的市場供需格局，當前市場給予看多預期。
+
+---
+
+### 2026-07-11 08:25:32  #市場 #國際
+
+【市場發行熱度大幅升溫 熊貓債存量規模首超5000億元】今年以來，熊貓債發行熱度顯著上升。Wind資料顯示，截至7月9日，以繳款截止日為統計口徑，年內熊貓債發行規模已突破1700億元，同比增長超七成；市場存量規模首次邁上5000億元。與此同時，熊貓債發行主體結構持續最佳化，境外主權機構、跨國龍頭企業、多邊開發機構紛紛入場，為市場發展注入新動能。受訪業內人士表示，熊貓債市場發行火熱，主要受益於中美利差倒掛、人民幣融資成本優勢突出、人民幣匯率趨穩等因素。熊貓債市場規模穩步擴張，將有助於推動人民幣從貿易結算貨幣向國際投融資貨幣轉型，持續提升人民幣在全球資本市場的話語權，也是我國推進金融高水平對外開放的成果。
+
+---
+
+### 2026-07-11 08:24:02  #MKT News #Market Themes #The Trump Trade
+
+Axios reported President Trump met with the Saudi crown prince on Friday to discuss regional issues, including US‑Iran talks.
+
+---
+
+### 2026-07-11 08:19:47  #MKT News
+
+【Navigation warning: live-fire exercises in parts of southern Yellow Sea; entry banned】Yancheng Maritime Safety Administration on the China Maritime Safety Administration website issued a navigation warning banning entry to parts of the southern Yellow Sea for live-fire exercises July 16–17, daily 09:00–12:00 and 15:00–18:00 CST.
+
+---
+
+### 2026-07-11 08:19:20  #公司 #國際
+
+【特朗普宣佈美光將在美投資2500億美元製造儲存晶片】美國總統特朗普在社交平臺表示，美光正在加速在美支出，計劃投資2500億美元在美國本土製造儲存晶片。我們正將製造業帶回美國，並保障我們的供應鏈安全。這意味著全美各地勤勞的愛國者們將迎來成千上萬個優質就業崗位。此外他還轉發美光科技執行長桑賈伊·梅赫羅特拉的話：“上週，我向特朗普總統表示，得益於他的領導和政策，美光科技將於今天宣佈——我們不僅進度超前，還將把在美國的製造和研發投資從2000億美元增加到2500億美元，從而創造10萬個美國就業崗位。這是‘特朗普效應’推動歷史性私營部門投資、美國製造業和就業創造的又一例證。”
+
+---
+
+### 2026-07-11 08:17:01  #MKT News #Important #Market Themes #Chip Wars #MU.O #Impact bullish
+
+【Trump says Micron to invest USD 250 bln in US memory‑chip manufacturing】Trump said on social media Micron Technology is accelerating US spending and plans to invest USD 250 bln to manufacture memory chips domestically, citing supply‑chain security and job creation. He retweeted Micron CEO Sanjay Mehrotra, who said the company will today announce increasing its US manufacturing and R&D investment from USD 200 bln to USD 250 bln and expects to create 100,000 US jobs.
+
+---
+
+### 2026-07-11 08:15:14  #其他
+
+【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，7月16日至7月17日每天9時至12時、15時至18時，黃海南部部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-07-11 08:09:41  #公司 #國際
+
+【SK海力士CEO：美國在未來晶圓廠選址候選名單中，尚未做出決定】SK海力士CEO郭魯正表示，從供應角度來看，2027年將是記憶體短缺週期中最糟糕的一年，預計客戶需求在2030年後仍將超過供應能力。郭魯正表示，美國在未來晶圓廠選址候選名單中，但公司尚未做出決定。郭魯正稱，SK海力士將優先選擇能夠以具有競爭力單製造成本提供足夠土地、電力、水和技術工人的地點，“如果滿足這些條件，美國、日本和東南亞都在考慮範圍內”。
+
+---
+
+### 2026-07-11 08:07:16  #公司 #國際
+
+【中國貿促會會長任鴻斌率團赴泰國出席2026年APEC工商諮詢理事會第三次會議】7月8日至10日，應亞太經合組織（APEC）工商諮詢理事會（ABAC）泰國秘書處邀請，中國貿促會會長任鴻斌率中國企業家代表團赴曼谷出席2026年ABAC第三次會議，並在閉幕全會致辭。任鴻斌作為2026年APEC工商領導人峰會主席，在閉幕全會上介紹APEC工商領導人峰會相關情況，邀請亞太工商界11月相聚深圳，共襄盛舉、共話合作、共謀發展，共同推動亞太工商合作結出更加豐碩的成果，為APEC“中國年”留下濃墨重彩的“工商印記”。會議期間，任鴻斌會見美國、泰國、紐西蘭等經濟體ABAC代表，就共同推動深化APEC“中國年”各項合作、為領導人會議貢獻高質量工商界成果等議題進行交流。訪泰期間，任鴻斌還分別會見泰國中華總商會主席林楚欽、泰中商務委員會主席邱威功、正大集團資深董事長謝國民等政商界人士，並與泰國能源部部長艾格納·彭潘、商業部副部長基麗達·包披集、農業與合作社部副部長柴·瓦查隆克等進行工作交流，積極宣介APEC“中國年”辦會理念，強調中方願與泰方攜手，推動兩國產業鏈供應鏈融合、拓展綠色能源與數智技術協同，共同維護自由貿易和多邊主義，實現更高水平互利共贏。
+
+---
+
+### 2026-07-11 08:06:58  #其他
+
+習近平同朝鮮勞動黨總書記、國務委員會委員長金正恩就《中朝友好合作互助條約》簽訂65週年互致賀電。 （新華社）
+
+---
+
+### 2026-07-11 08:04:25  #央行 #美聯儲
+
+【美聯儲半年度政策報告：關稅和中東推高通脹 AI成雙刃劍】當地時間週五，美聯儲在官網釋出了向國會提交的半年度貨幣政策報告，重申了聯邦公開市場委員會（FOMC）實現價格穩定的決心，警惕能源與AI雙重通脹壓力。市場焦點將放在美聯儲主席凱文·沃什下週以美聯儲主席身份出席國會聽證會的發言上。
+
+---
+
+### 2026-07-11 08:03:57  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【China futures market H1 turnover up 42.08% YoY; volume up 25.23%】China Futures Association: Jan–Jun cumulative futures volume 5.105 billion contracts and turnover 482.7 trillion yuan, up 25.23% and 42.08% YoY, respectively. Aggregate market capital repeatedly hit record highs. Expanded turnover and liquidity provided effective hedging tools and supported steady operation of the real economy.
+
+---
+
+### 2026-07-11 08:00:25  #市場
+
+【上半年我國期貨市場成交額同比增長超四成】今年上半年，我國期貨市場成交規模持續擴大，資金總量屢創新高，為各類經營主體提供了有效避險工具，有力支撐了實體經濟穩健執行。中國期貨業協會統計資料顯示，1-6月全國期貨市場累計成交量為51.05億手，累計成交額為482.7萬億元，同比分別增長25.23%和42.08%。期貨市場服務實體經濟的廣度和深度持續拓展。（央視新聞）
+
+---
+
+### 2026-07-11 07:58:45  #其他
+
+【國家海洋預報臺釋出海浪紅色警報】國家海洋預報臺7月11日08時釋出海浪紅色警報:受今年第9號颱風“巴威”(強颱風級)的影響，預計：7月11日上午到12日上午，東海南部將出現9到13米的狂濤區，東海北部將出現5到8米的巨浪到狂浪區，臺灣海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為橙色；浙江、福建北部近岸海域將出現5到8米的巨浪到狂浪，該近岸海域海浪預警級別為紅色，上海近岸海域將出現3到5米的大浪到巨浪，該近岸海域海浪預警級別為橙色，江蘇南部近岸海域將出現3到4米的大浪到巨浪，福建南部近岸海域將出現2.5到3.5米的大浪該近岸海域海浪預警級別為黃色，山東南部、江蘇北部近岸海域將出現1.5到2.5米的中浪到大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。
+
+---
+
+### 2026-07-11 07:53:03  #其他
+
+【鄭州市氣象臺繼續釋出高溫橙色預警訊號】鄭州市氣象臺2026年7月11日6時26分繼續釋出高溫橙色預警訊號：預計今天12時至17時，鄭州市主城區、上街區、航空港區所轄鄉鎮及街道最高氣溫將升至37℃以上，請注意防範高溫天氣帶來的不利影響。
+
+---
+
+### 2026-07-11 07:51:32  #經濟數據 #歐元區
+
+【法國6月CPI同比上漲1.8% 能源價格漲幅收窄】法國國家統計和經濟研究所7月10日公佈的最終資料顯示，今年6月法國消費者價格指數（CPI）同比上漲1.8%，較5月2.4%的漲幅有所放緩。
+
+---
+
+### 2026-07-11 07:46:31  #國際
+
+【沙特王儲與特朗普通電話 談及美伊談判】沙烏地阿拉伯王儲兼首相穆罕默德當地時間11日凌晨與美國總統特朗普通電話，雙方通話中談及美國與伊朗談判情況。 據沙特通訊社11日報道，除討論兩國合作外，沙特王儲與特朗普還在通話中討論了地區當前局勢，其中包括美伊談判。雙方強調確保海上航行安全和保護海上通道安全的重要性，並表示支援一切有助於地區安全與穩定的努力。（新華社）
+
+---
+
+### 2026-07-11 07:42:38  #其他
+
+【巴哈馬一小型飛機墜毀致10人遇難】總檯記者獲悉，當地時間7月10日，巴哈馬北安德羅斯島一架小型飛機墜毀，機上10人全部遇難。巴哈馬警察總監香塔·諾爾斯證實，機上共有10人。巴哈馬航空事故調查局通報稱，涉事飛機為一架塞斯納402型飛機。飛機於當天下午從拿騷林登·平德林國際機場起飛，原計劃飛往聖安德羅斯機場，飛行途中出現異常，在接近降落時墜入機場附近灌木叢。（央視新聞）
+
+---
+
+### 2026-07-11 07:38:28  #Trading Economics #Economy #Zambia #Government Bond 10Y #Importance 0
+
+Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.83%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 270.00 basis points.
 
 ---
 
@@ -17952,299 +18144,5 @@ CENTCOM said Iran does not control the Strait of Hormuz. Since early May the US 
 ### 2026-07-10 04:49:32  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Climbs as Global Stocks Rebound — The Ibovespa gained 1.2% to close at 172,742 on Thursday, tracking the positive tone across global equity markets. A rebound in major chipmakers lifted global stocks, while declining oil prices helped improve risk sentiment as investors looked past renewed hostilities between the US and Iran. Financials led gains, with Itaú and Bradesco rising 1.7%, Itaúsa adding 1.9%, and Banco do Brasil advancing 2.4%. Most utilities also moved higher, with Sabesp up 2.6%. Axia was the exception, falling 2.7% after Goldman Sachs lowered its adjusted EBITDA estimates for the second quarter. Other notable gainers included Rede D'Or (+3.1%) and Embraer (+2.9%). Petrobras fell 1.4% as oil prices retreated from earlier highs.
-
----
-
-### 2026-07-10 04:47:52  #國際
-
-條款顯示，SK 海力士美股發行認購需求接近 2000 億美元，SK 海力士本次美國存託憑證發行份額中，前 25 大客戶認購佔比約 67%。
-
----
-
-### 2026-07-10 04:41:22  #公司 #國際
-
-【盧特尼克敦促SK海力士、三星擴大美國儲存晶片產能】美國商務部長盧特尼克呼籲三星電子和SK海力士加大在美國的儲存晶片擴產的力度，以協助緩解全球範圍內人工智慧發展關鍵零部件短缺問題。盧特尼克證實，他正在與這兩家韓國儲存晶片製造商進行商談，但未透露具體細節。他承認，美光執行長梅赫羅特拉可能不會歡迎競爭對手擴大在美國的佈局，但盧特尼克表示，為了讓美國晶片供應鏈更加穩固，有必要採取這一舉措。“你們知道，他（梅赫羅特拉）不會喜歡這樣，但我希望把他的競爭對手——三星和SK海力士——帶到美國來設廠”盧特尼克表示，“美光目前處於領先地位。其他公司難免會感到眼紅，對吧？所以它們也不得不跟進。”
-
----
-
-### 2026-07-10 04:41:19  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS #MU.O
-
-【Lutnick urges Samsung, SK Hynix to boost US memory-chip capacity】US Commerce Secretary Lutnick urged Samsung and SK Hynix to expand memory-chip production in the United States to help ease global shortages of AI-critical components. He confirmed he is in talks with the two Korean manufacturers but did not disclose details. Lutnick acknowledged Micron CEO Mehrotra may object to rivals expanding in the US, but said strengthening the US chip supply chain requires bringing Samsung and SK Hynix to build fabs onshore; he noted Micron currently leads and competitors will likely follow.
-
----
-
-### 2026-07-10 04:37:28  #國際
-
-【沙特PIF接受卡尼邀請赴多倫多，沙特資本將目光投向加拿大】加拿大總理馬克·卡尼表示，沙特投資者對加拿大的能源、礦業和基礎設施領域感興趣。沙烏地阿拉伯規模達1萬億美元的主權財富基金——公共投資基金（PIF），將出席他將於9月在多倫多主辦的投資峰會。週四，卡尼結束了此次訪問，這是最近26年來加拿大領導人首次造訪該中東王國。
-
----
-
-### 2026-07-10 04:36:39  #其他
-
-【伯納姆獲多數英國工黨議員支援 基本鎖定黨魁職位】當地時間9日，英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，已基本鎖定黨魁職位，並有望接任英國首相。根據工黨黨魁選舉規則，候選人需獲得至少81名工黨議員提名，方可進入下一階段競選。目前，除伯納姆外，尚無其他工黨議員獲得提名。目前，伯納姆距離鎖定黨魁職位僅一步之遙。他已獲得322個提名，只需再獲得1名議員提名，其他潛在競爭者將無法獲得參選所需的81份提名，伯納姆將成為唯一候選人。儘管獲得壓倒性支援，根據選舉程式，伯納姆仍需待7月17日完成相關程式後，才會被正式宣佈當選工黨黨魁。隨後，他將接受國王任命並出任英國首相。（央視新聞）
-
----
-
-### 2026-07-10 04:35:49  #央行 #市場 #國際
-
-美國至7月3日當週外國央行持有美國國債 -286.05億美元，前值-110.64億美元。
-
----
-
-### 2026-07-10 04:35:49  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Foreign central banks' holdings of U.S. Treasuries fell by $28.605 bln in the week through July 3, versus a $11.064 bln decline the prior week.
-
----
-
-### 2026-07-10 04:35:38  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (Jul.3) | actual -28605000000B | previous -11064000000B
-
----
-
-### 2026-07-10 04:35:32  #公司 #國際
-
-【印尼Alamtri公司啟動鋁出口，向美國發運金屬】根據貿易資料平臺Export Genius的資訊，印尼礦業與能源集團PT Alamtri Resources Indonesia旗下的一家冶煉廠於6月完成了首批鋁出口，發貨目的地為美國和韓國。最新一批運往美國的鋁由貿易商Mercuria購買，運往韓國的貨物由Vitol購買。Export Genius資料顯示，位於婆羅洲島的PT Kalimantan Aluminium Industry公司於去年年底開始除錯其一期專案，上個月向美國發運了31,494噸原鋁，並向韓國發運了3,569噸。由於美以對伊朗的戰爭導致海灣地區主要供應商交貨中斷，美國正積極尋求鋁的替代來源。
-
----
-
-### 2026-07-10 04:35:10  #其他 #焦點
-
-據訊息稱，SK 海力士美股發行定價為每股 149 美元。
-
----
-
-### 2026-07-10 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.18% Higher — The Dow Jones Index went up by 96 points or 0.18 percent on Thursday to close at 52444 points. The rise was led by Cisco Systems (3.77%), American Express (2.94%) and Goldman Sachs (2.51%). On the downside, the weakerst performers were Salesforce (-2.73%), IBM (-2.41%) and J&J (-1.63%).
-
----
-
-### 2026-07-10 04:33:33  #觀點
-
-據SEC檔案披露：摩根士丹利直接放貸基金髮行3.5億美元2031年到期6.1%利率票據。
-
----
-
-### 2026-07-10 04:31:04  #其他
-
-白宮指示商務部和貿易代表辦公室推進談判。
-
----
-
-### 2026-07-10 04:29:47  #國際
-
-美國將根據談判進展考量後續替代補救措施。
-
----
-
-### 2026-07-10 04:29:29  #其他
-
-白宮：必須透過談判調整噴氣發動機及零部件的進口。
-
----
-
-### 2026-07-10 04:29:29  #MKT News
-
-White House: Commerce secretary recommends not imposing tariffs under Section 232 at this time.
-
----
-
-### 2026-07-10 04:28:51  #國際
-
-美國：商務部不建議對飛機進口實施 232 條款關稅。
-
----
-
-### 2026-07-10 04:28:33  #國際
-
-伊朗航空局局長阿布扎爾・希魯迪週四表示，儘管遭遇其所稱的破壞活動與安全威脅，全國航班運營仍保持正常、未受中斷。
-
----
-
-### 2026-07-10 04:28:20  #公司
-
-市場訊息：沃特公司將於 7 月 16 日出席參議院銀行委員會聽證會作證。
-
----
-
-### 2026-07-10 04:27:35  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises as Gold Miners Lead Gains — The S&P/TSX Composite Index gained 0.8% to close at 35,200 on Thursday, led by mining and financial stocks. Gold prices climbed as the US dollar weakened and investors sought safe-haven assets, boosting miners. Financials also advanced, with RBC rising 1.4% and TD Bank adding 1.1%. Elsewhere, Triple Flag gained 2.9% after reporting preliminary second-quarter revenue of $129.2 million, up from a year earlier. Firan Technology fell 2.8%, reversing earlier gains despite beating second-quarter revenue estimates. Meta also announced plans to build its first Canadian data center in Alberta, underscoring continued investment in AI infrastructure. Investors now await Canada's June employment report on Friday for further clues on the BoC's policy outlook. Markets widely expect the central bank to leave interest rates unchanged at its next meeting.
-
----
-
-### 2026-07-10 04:27:07  #國際
-
-白宮：進口商品不得威脅損害美國國家安全。
-
----
-
-### 2026-07-10 04:27:07  #MKT News #Market Themes #The Trump Trade
-
-The White House said Trump directed the commerce secretary and the U.S. Trade Representative to negotiate with trading partners to address issues that threaten U.S. national security.
-
----
-
-### 2026-07-10 04:26:00  #國際
-
-白宮：特朗普指示商務部長與美國貿易代表辦公室同貿易伙伴談判達成協議，以解決國家安全面臨的潛在損害威脅。
-
----
-
-### 2026-07-10 04:25:55  #國際
-
-白宮表示，商務部長已認定美國航空業過度依賴外國供應鏈。
-
----
-
-### 2026-07-10 04:25:53  #MKT News #BA.O #Impact bullish #RTX.O #LMT.O
-
-U.S. White House: Commerce Secretary has determined the U.S. aviation industry is overly dependent on foreign supply chains.
-
----
-
-### 2026-07-10 04:25:17  #國際
-
-美國將持續監控商用飛機及噴氣發動機進口情況。
-
----
-
-### 2026-07-10 04:25:14  #MKT News
-
-White House said the Commerce secretary has determined the US aerospace industry faces challenges and is unlikely to fully meet economic and national-security needs.
-
----
-
-### 2026-07-10 04:25:01  #國際
-
-白宮表示，美國商務部長認定美國航空製造業目前在充分滿足經濟與國家安全需求方面面臨挑戰。
-
----
-
-### 2026-07-10 04:24:55  #其他
-
-白宮：需透過談判調整商用飛機進口事宜。
-
----
-
-### 2026-07-10 04:24:55  #MKT News #Macro & Rates #US Economy
-
-White House to adjust import policy for commercial aircraft, jet engines and aircraft and engine parts.
-
----
-
-### 2026-07-10 04:23:46  #國際
-
-市場訊息：伊朗科納拉克市長表示，相關部門已立即趕赴襲擊現場，目前正在調查事件規模及具體細節。
-
----
-
-### 2026-07-10 04:23:27  #其他
-
-白宮：正調整商用飛機、噴氣發動機以及飛機和發動機零部件的對美進口規則。
-
----
-
-### 2026-07-10 04:23:26  #MKT News
-
-Al Jazeera reported the mayor of Konarak, Iran, said authorities rushed to the attack site and are investigating the scale and details of the incident.
-
----
-
-### 2026-07-10 04:23:16  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Finish Higher — US stocks closed higher on Thursday, with the S&P 500 rising 0.8%, the Nasdaq advancing 1.3%, and the Dow Jones adding 139 points. Renewed strength in chipmakers helped offset uncertainty surrounding the economic outlook. Sentiment towards AI-linked stocks has been volatile lately amid concerns over high valuations, but was buoyed by strong demand for SK Hynix's US share offering, which was more than seven times oversubscribed. Micron and Sandisk gained 5.2% and 7.6%, respectively, while Applied Materials rose 3.2%. At the same time, oil prices and bond yields eased amid signs of continued tanker traffic through the Strait of Hormuz despite renewed US-Iran hostilities. This provided a boost to the financial sector, with Morgan Stanley (1.9%), Goldman Sachs (2.6%) and American Express (3.1%) all rising. Meta surged 4% after announcing it will target production of its own AI chip by September.
-
----
-
-### 2026-07-10 04:22:36  #公司
-
-白宮釋出關於飛機及噴氣發動機進口的公告。
-
----
-
-### 2026-07-10 04:22:02  #MKT News
-
-【Netanyahu, Trump agree to maintain bilateral policy coordination in phone call】On the evening of the 9th local time, Israel’s Prime Minister’s Office said Prime Minister Netanyahu spoke by phone with US President Trump and the two agreed to continue policy coordination across all areas. The office said Trump briefed Netanyahu on recent US actions in the Gulf region.
-
----
-
-### 2026-07-10 04:21:41  #國際
-
-【內塔尼亞胡與特朗普通話 商定保持兩國政策協調】當地時間9日晚間，以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。宣告表示，特朗普在通話中向內塔尼亞胡通報了美方在海灣地區的最新行動進展。（央視新聞）
-
----
-
-### 2026-07-10 04:18:41  #市場 #國際
-
-【美股大類資產類ETF多數收漲，納指ETF漲超1.6%、與小盤股ETF、黃金ETF領跑】週四（7月9日），納指100 ETF收漲1.66%，羅素2000指數ETF漲1.28%，黃金ETF漲1%，巴克萊美國可轉債ETF、標普樸500 ETF至少漲0.85%，新興市場ETF漲0.83%，農產品基金、美國房地產ETF、道指ETF、美國國債20+年ETF至多漲0.33%。做多美元指數收平，歐元做多跌0.03%，大豆基金跌0.40%，恐慌指數做多跌1.95%，美國布倫特油價基金跌3.21%。
-
----
-
-### 2026-07-10 04:17:35  #市場
-
-【油價回落提振風險偏好，拉美資產全面上漲】週四，隨著油價回落提振了市場風險情緒，拉美股市和貨幣雙雙反彈。不過，美伊敵對行動的再度升級仍令投資者保持警惕。在拉美地區，大多數貨幣兌美元升值，MSCI拉美貨幣指數漲0.7%。對應的拉美股票指數漲1.4%。哥倫比亞比索領漲，升值1.2%。然而，該國股市卻受到拖累。近期哥倫比亞資產普遍受到青睞，主要得益於市場寄望阿韋拉爾多·德拉埃斯普列拉（Abelardo De La Espriella）能在總統大選中獲勝。
-
----
-
-### 2026-07-10 04:15:43  #國際
-
-美國銀行（全國協會）宣佈贖回 20 億美元票面利率 5.526% 高階銀行債券及 6 億美元浮動利率高階銀行債券，債券到期日均為 2026 年 8 月。
-
----
-
-### 2026-07-10 04:11:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's state news agency, citing local officials, said the Iranian naval base in Konarak was attacked by an "enemy".
-
----
-
-### 2026-07-10 04:10:00  #焦點 #國際
-
-伊朗官方通訊社援引當地官員訊息稱，伊朗位於科納拉克的海軍基地遭“敵方”襲擊。
-
----
-
-### 2026-07-10 04:06:54  #MKT News #MSFT.O #Impact bullish
-
-OpenAI: GPT-5.6 is now the preferred model for Microsoft 365 Copilot.
-
----
-
-### 2026-07-10 04:06:22  #MKT News
-
-【Lagarde says she does not currently intend to run in French presidential race, will continue to speak on Europe】ECB President Christine Lagarde said she does not currently intend to run in next year’s French presidential election but plans to voice her views on Europe’s future during the campaign. She said Europe must be protected and the EU remains an important framework for member states, including France. Lagarde acknowledged prior speculation she might leave the ECB early to enter French politics, but said she would not step down while the central bank faces major challenges.
-
----
-
-### 2026-07-10 04:05:55  #其他
-
-哥倫比亞總統佩特羅重申支援太平洋地區政治過渡程序。
-
----
-
-### 2026-07-10 04:03:19  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-US equities closed higher on Thursday, July 9: Dow Jones Industrial Average +138.96 pts (+0.27%) to 52,487.35; S&P 500 +60.90 pts (+0.81%) to 7,543.61; Nasdaq Composite +336.24 pts (+1.30%) to 26,206.89.
-
----
-
-### 2026-07-10 04:03:13  #國際
-
-美國國會預算辦公室預估：美國 6 月財政赤字達 1260 億美元。
-
----
-
-### 2026-07-10 04:02:59  #其他
-
-市場訊息：巴西總統盧拉與哥倫比亞總統佩特羅通電話，商討哥倫比亞國內政局。
-
----
-
-### 2026-07-10 04:02:35  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-OpenAI said Microsoft will access its models via API to offer GPT-5.6 to Microsoft 365 customers.
 
 ---

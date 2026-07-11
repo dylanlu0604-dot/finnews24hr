@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-11 07:34:23_
-_本檔包含 3397 則快訊，約 612428 字_
+_更新時間：2026-07-11 09:02:01_
+_本檔包含 3355 則快訊，約 611958 字_
+
+---
+
+### 2026-07-10 04:47:52  #國際
+
+條款顯示，SK 海力士美股發行認購需求接近 2000 億美元，SK 海力士本次美國存託憑證發行份額中，前 25 大客戶認購佔比約 67%。
+
+---
+
+### 2026-07-10 04:41:22  #公司 #國際
+
+【盧特尼克敦促SK海力士、三星擴大美國儲存晶片產能】美國商務部長盧特尼克呼籲三星電子和SK海力士加大在美國的儲存晶片擴產的力度，以協助緩解全球範圍內人工智慧發展關鍵零部件短缺問題。盧特尼克證實，他正在與這兩家韓國儲存晶片製造商進行商談，但未透露具體細節。他承認，美光執行長梅赫羅特拉可能不會歡迎競爭對手擴大在美國的佈局，但盧特尼克表示，為了讓美國晶片供應鏈更加穩固，有必要採取這一舉措。“你們知道，他（梅赫羅特拉）不會喜歡這樣，但我希望把他的競爭對手——三星和SK海力士——帶到美國來設廠”盧特尼克表示，“美光目前處於領先地位。其他公司難免會感到眼紅，對吧？所以它們也不得不跟進。”
+
+---
+
+### 2026-07-10 04:41:19  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS #MU.O
+
+【Lutnick urges Samsung, SK Hynix to boost US memory-chip capacity】US Commerce Secretary Lutnick urged Samsung and SK Hynix to expand memory-chip production in the United States to help ease global shortages of AI-critical components. He confirmed he is in talks with the two Korean manufacturers but did not disclose details. Lutnick acknowledged Micron CEO Mehrotra may object to rivals expanding in the US, but said strengthening the US chip supply chain requires bringing Samsung and SK Hynix to build fabs onshore; he noted Micron currently leads and competitors will likely follow.
+
+---
+
+### 2026-07-10 04:37:28  #國際
+
+【沙特PIF接受卡尼邀請赴多倫多，沙特資本將目光投向加拿大】加拿大總理馬克·卡尼表示，沙特投資者對加拿大的能源、礦業和基礎設施領域感興趣。沙烏地阿拉伯規模達1萬億美元的主權財富基金——公共投資基金（PIF），將出席他將於9月在多倫多主辦的投資峰會。週四，卡尼結束了此次訪問，這是最近26年來加拿大領導人首次造訪該中東王國。
+
+---
+
+### 2026-07-10 04:36:39  #其他
+
+【伯納姆獲多數英國工黨議員支援 基本鎖定黨魁職位】當地時間9日，英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，已基本鎖定黨魁職位，並有望接任英國首相。根據工黨黨魁選舉規則，候選人需獲得至少81名工黨議員提名，方可進入下一階段競選。目前，除伯納姆外，尚無其他工黨議員獲得提名。目前，伯納姆距離鎖定黨魁職位僅一步之遙。他已獲得322個提名，只需再獲得1名議員提名，其他潛在競爭者將無法獲得參選所需的81份提名，伯納姆將成為唯一候選人。儘管獲得壓倒性支援，根據選舉程式，伯納姆仍需待7月17日完成相關程式後，才會被正式宣佈當選工黨黨魁。隨後，他將接受國王任命並出任英國首相。（央視新聞）
+
+---
+
+### 2026-07-10 04:35:49  #央行 #市場 #國際
+
+美國至7月3日當週外國央行持有美國國債 -286.05億美元，前值-110.64億美元。
+
+---
+
+### 2026-07-10 04:35:49  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Foreign central banks' holdings of U.S. Treasuries fell by $28.605 bln in the week through July 3, versus a $11.064 bln decline the prior week.
+
+---
+
+### 2026-07-10 04:35:38  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (Jul.3) | actual -28605000000B | previous -11064000000B
+
+---
+
+### 2026-07-10 04:35:32  #公司 #國際
+
+【印尼Alamtri公司啟動鋁出口，向美國發運金屬】根據貿易資料平臺Export Genius的資訊，印尼礦業與能源集團PT Alamtri Resources Indonesia旗下的一家冶煉廠於6月完成了首批鋁出口，發貨目的地為美國和韓國。最新一批運往美國的鋁由貿易商Mercuria購買，運往韓國的貨物由Vitol購買。Export Genius資料顯示，位於婆羅洲島的PT Kalimantan Aluminium Industry公司於去年年底開始除錯其一期專案，上個月向美國發運了31,494噸原鋁，並向韓國發運了3,569噸。由於美以對伊朗的戰爭導致海灣地區主要供應商交貨中斷，美國正積極尋求鋁的替代來源。
+
+---
+
+### 2026-07-10 04:35:10  #其他 #焦點
+
+據訊息稱，SK 海力士美股發行定價為每股 149 美元。
+
+---
+
+### 2026-07-10 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.18% Higher — The Dow Jones Index went up by 96 points or 0.18 percent on Thursday to close at 52444 points. The rise was led by Cisco Systems (3.77%), American Express (2.94%) and Goldman Sachs (2.51%). On the downside, the weakerst performers were Salesforce (-2.73%), IBM (-2.41%) and J&J (-1.63%).
+
+---
+
+### 2026-07-10 04:33:33  #觀點
+
+據SEC檔案披露：摩根士丹利直接放貸基金髮行3.5億美元2031年到期6.1%利率票據。
+
+---
+
+### 2026-07-10 04:31:04  #其他
+
+白宮指示商務部和貿易代表辦公室推進談判。
+
+---
+
+### 2026-07-10 04:29:47  #國際
+
+美國將根據談判進展考量後續替代補救措施。
+
+---
+
+### 2026-07-10 04:29:29  #其他
+
+白宮：必須透過談判調整噴氣發動機及零部件的進口。
+
+---
+
+### 2026-07-10 04:29:29  #MKT News
+
+White House: Commerce secretary recommends not imposing tariffs under Section 232 at this time.
+
+---
+
+### 2026-07-10 04:28:51  #國際
+
+美國：商務部不建議對飛機進口實施 232 條款關稅。
+
+---
+
+### 2026-07-10 04:28:33  #國際
+
+伊朗航空局局長阿布扎爾・希魯迪週四表示，儘管遭遇其所稱的破壞活動與安全威脅，全國航班運營仍保持正常、未受中斷。
+
+---
+
+### 2026-07-10 04:28:20  #公司
+
+市場訊息：沃特公司將於 7 月 16 日出席參議院銀行委員會聽證會作證。
+
+---
+
+### 2026-07-10 04:27:35  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises as Gold Miners Lead Gains — The S&P/TSX Composite Index gained 0.8% to close at 35,200 on Thursday, led by mining and financial stocks. Gold prices climbed as the US dollar weakened and investors sought safe-haven assets, boosting miners. Financials also advanced, with RBC rising 1.4% and TD Bank adding 1.1%. Elsewhere, Triple Flag gained 2.9% after reporting preliminary second-quarter revenue of $129.2 million, up from a year earlier. Firan Technology fell 2.8%, reversing earlier gains despite beating second-quarter revenue estimates. Meta also announced plans to build its first Canadian data center in Alberta, underscoring continued investment in AI infrastructure. Investors now await Canada's June employment report on Friday for further clues on the BoC's policy outlook. Markets widely expect the central bank to leave interest rates unchanged at its next meeting.
+
+---
+
+### 2026-07-10 04:27:07  #國際
+
+白宮：進口商品不得威脅損害美國國家安全。
+
+---
+
+### 2026-07-10 04:27:07  #MKT News #Market Themes #The Trump Trade
+
+The White House said Trump directed the commerce secretary and the U.S. Trade Representative to negotiate with trading partners to address issues that threaten U.S. national security.
+
+---
+
+### 2026-07-10 04:26:00  #國際
+
+白宮：特朗普指示商務部長與美國貿易代表辦公室同貿易伙伴談判達成協議，以解決國家安全面臨的潛在損害威脅。
+
+---
+
+### 2026-07-10 04:25:55  #國際
+
+白宮表示，商務部長已認定美國航空業過度依賴外國供應鏈。
+
+---
+
+### 2026-07-10 04:25:53  #MKT News #BA.O #Impact bullish #RTX.O #LMT.O
+
+U.S. White House: Commerce Secretary has determined the U.S. aviation industry is overly dependent on foreign supply chains.
+
+---
+
+### 2026-07-10 04:25:17  #國際
+
+美國將持續監控商用飛機及噴氣發動機進口情況。
+
+---
+
+### 2026-07-10 04:25:14  #MKT News
+
+White House said the Commerce secretary has determined the US aerospace industry faces challenges and is unlikely to fully meet economic and national-security needs.
+
+---
+
+### 2026-07-10 04:25:01  #國際
+
+白宮表示，美國商務部長認定美國航空製造業目前在充分滿足經濟與國家安全需求方面面臨挑戰。
+
+---
+
+### 2026-07-10 04:24:55  #其他
+
+白宮：需透過談判調整商用飛機進口事宜。
+
+---
+
+### 2026-07-10 04:24:55  #MKT News #Macro & Rates #US Economy
+
+White House to adjust import policy for commercial aircraft, jet engines and aircraft and engine parts.
+
+---
+
+### 2026-07-10 04:23:46  #國際
+
+市場訊息：伊朗科納拉克市長表示，相關部門已立即趕赴襲擊現場，目前正在調查事件規模及具體細節。
+
+---
+
+### 2026-07-10 04:23:27  #其他
+
+白宮：正調整商用飛機、噴氣發動機以及飛機和發動機零部件的對美進口規則。
+
+---
+
+### 2026-07-10 04:23:26  #MKT News
+
+Al Jazeera reported the mayor of Konarak, Iran, said authorities rushed to the attack site and are investigating the scale and details of the incident.
+
+---
+
+### 2026-07-10 04:23:16  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Finish Higher — US stocks closed higher on Thursday, with the S&P 500 rising 0.8%, the Nasdaq advancing 1.3%, and the Dow Jones adding 139 points. Renewed strength in chipmakers helped offset uncertainty surrounding the economic outlook. Sentiment towards AI-linked stocks has been volatile lately amid concerns over high valuations, but was buoyed by strong demand for SK Hynix's US share offering, which was more than seven times oversubscribed. Micron and Sandisk gained 5.2% and 7.6%, respectively, while Applied Materials rose 3.2%. At the same time, oil prices and bond yields eased amid signs of continued tanker traffic through the Strait of Hormuz despite renewed US-Iran hostilities. This provided a boost to the financial sector, with Morgan Stanley (1.9%), Goldman Sachs (2.6%) and American Express (3.1%) all rising. Meta surged 4% after announcing it will target production of its own AI chip by September.
+
+---
+
+### 2026-07-10 04:22:36  #公司
+
+白宮釋出關於飛機及噴氣發動機進口的公告。
+
+---
+
+### 2026-07-10 04:22:02  #MKT News
+
+【Netanyahu, Trump agree to maintain bilateral policy coordination in phone call】On the evening of the 9th local time, Israel’s Prime Minister’s Office said Prime Minister Netanyahu spoke by phone with US President Trump and the two agreed to continue policy coordination across all areas. The office said Trump briefed Netanyahu on recent US actions in the Gulf region.
+
+---
+
+### 2026-07-10 04:21:41  #國際
+
+【內塔尼亞胡與特朗普通話 商定保持兩國政策協調】當地時間9日晚間，以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。宣告表示，特朗普在通話中向內塔尼亞胡通報了美方在海灣地區的最新行動進展。（央視新聞）
+
+---
+
+### 2026-07-10 04:18:41  #市場 #國際
+
+【美股大類資產類ETF多數收漲，納指ETF漲超1.6%、與小盤股ETF、黃金ETF領跑】週四（7月9日），納指100 ETF收漲1.66%，羅素2000指數ETF漲1.28%，黃金ETF漲1%，巴克萊美國可轉債ETF、標普樸500 ETF至少漲0.85%，新興市場ETF漲0.83%，農產品基金、美國房地產ETF、道指ETF、美國國債20+年ETF至多漲0.33%。做多美元指數收平，歐元做多跌0.03%，大豆基金跌0.40%，恐慌指數做多跌1.95%，美國布倫特油價基金跌3.21%。
+
+---
+
+### 2026-07-10 04:17:35  #市場
+
+【油價回落提振風險偏好，拉美資產全面上漲】週四，隨著油價回落提振了市場風險情緒，拉美股市和貨幣雙雙反彈。不過，美伊敵對行動的再度升級仍令投資者保持警惕。在拉美地區，大多數貨幣兌美元升值，MSCI拉美貨幣指數漲0.7%。對應的拉美股票指數漲1.4%。哥倫比亞比索領漲，升值1.2%。然而，該國股市卻受到拖累。近期哥倫比亞資產普遍受到青睞，主要得益於市場寄望阿韋拉爾多·德拉埃斯普列拉（Abelardo De La Espriella）能在總統大選中獲勝。
+
+---
+
+### 2026-07-10 04:15:43  #國際
+
+美國銀行（全國協會）宣佈贖回 20 億美元票面利率 5.526% 高階銀行債券及 6 億美元浮動利率高階銀行債券，債券到期日均為 2026 年 8 月。
+
+---
+
+### 2026-07-10 04:11:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's state news agency, citing local officials, said the Iranian naval base in Konarak was attacked by an "enemy".
+
+---
+
+### 2026-07-10 04:10:00  #焦點 #國際
+
+伊朗官方通訊社援引當地官員訊息稱，伊朗位於科納拉克的海軍基地遭“敵方”襲擊。
+
+---
+
+### 2026-07-10 04:06:54  #MKT News #MSFT.O #Impact bullish
+
+OpenAI: GPT-5.6 is now the preferred model for Microsoft 365 Copilot.
+
+---
+
+### 2026-07-10 04:06:22  #MKT News
+
+【Lagarde says she does not currently intend to run in French presidential race, will continue to speak on Europe】ECB President Christine Lagarde said she does not currently intend to run in next year’s French presidential election but plans to voice her views on Europe’s future during the campaign. She said Europe must be protected and the EU remains an important framework for member states, including France. Lagarde acknowledged prior speculation she might leave the ECB early to enter French politics, but said she would not step down while the central bank faces major challenges.
+
+---
+
+### 2026-07-10 04:05:55  #其他
+
+哥倫比亞總統佩特羅重申支援太平洋地區政治過渡程序。
+
+---
+
+### 2026-07-10 04:03:19  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+US equities closed higher on Thursday, July 9: Dow Jones Industrial Average +138.96 pts (+0.27%) to 52,487.35; S&P 500 +60.90 pts (+0.81%) to 7,543.61; Nasdaq Composite +336.24 pts (+1.30%) to 26,206.89.
+
+---
+
+### 2026-07-10 04:03:13  #國際
+
+美國國會預算辦公室預估：美國 6 月財政赤字達 1260 億美元。
+
+---
+
+### 2026-07-10 04:02:59  #其他
+
+市場訊息：巴西總統盧拉與哥倫比亞總統佩特羅通電話，商討哥倫比亞國內政局。
+
+---
+
+### 2026-07-10 04:02:35  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+OpenAI said Microsoft will access its models via API to offer GPT-5.6 to Microsoft 365 customers.
 
 ---
 
@@ -19933,558 +20227,5 @@ Turkey's President Erdogan said he had previously discussed with Trump equipping
 ### 2026-07-09 01:57:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran accuses U.S. of breaching MOU on Strait of Hormuz】BAGHAEI said the U.S. violated the memorandum of understanding by questioning safe-passage arrangements for ships in the Strait of Hormuz and carrying out “aggressive attacks” on Iran. He said the MOU was not founded on mutual trust but on a “commitment-for-commitment” mechanism; Article 5 assigns Iran responsibility for drafting navigation safety arrangements for the Strait and U.S. unilateral actions challenge that clause. He added Iran will firmly defend its national interests and sovereignty.
-
----
-
-### 2026-07-09 01:57:31  #其他
-
-xAI：推出Grok 4.5。
-
----
-
-### 2026-07-09 01:56:49  #國際
-
-北約峰會落幕，特朗普離開土耳其。
-
----
-
-### 2026-07-09 01:56:24  #MKT News
-
-Erdogan says US President Trump offers help within 24 hours whenever problems arise.
-
----
-
-### 2026-07-09 01:56:11  #MKT News
-
-ERDOGAN said U.S. sanctions have not affected Turkey and that the issue does not exist.
-
----
-
-### 2026-07-09 01:56:07  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-【Key market takeaways from the Federal Reserve's June minutes】Primary market focuses: whether the Fed remains hawkish on the projected interest-rate path; the Fed’s views on forward guidance — including a risk of reduced overall communication transparency — and on the balance sheet; assessments of inf, the labor market and geopolitical risk from the Middle East. Note the minutes’ lag: oil declined and market inf expectations cooled after the meeting.
-
----
-
-### 2026-07-09 01:56:05  #MKT News
-
-Turkey's President Erdogan said the United States has largely lifted defense sanctions on Turkey.
-
----
-
-### 2026-07-09 01:54:50  #國際
-
-土耳其總統埃爾多安：無論何時出現問題，特朗普都能在24小時內聯絡上。
-
----
-
-### 2026-07-09 01:54:27  #國際
-
-土耳其總統埃爾多安：土耳其並未受到美國製裁，不存在這一問題。
-
----
-
-### 2026-07-09 01:54:08  #國際
-
-【伊朗外長稱以行動回應特朗普惡言】當地時間7月8日，伊朗外長阿拉格齊就美國總統特朗普有關言論在社交媒體平臺發文表示，“（特朗普）用貶損之詞針對文明勇武的伊朗，無損伊朗之偉大。伊朗人以彬彬有禮、底蘊深厚和高尚品德著稱。我們不以粗鄙回應粗鄙，而是以行動作答：無畏無懼，充滿勇氣。”
-
----
-
-### 2026-07-09 01:54:01  #國際
-
-土耳其總統埃爾多安：美國目前已基本解除對土耳其的國防制裁。
-
----
-
-### 2026-07-09 01:53:49  #其他
-
-微軟Xbox將讓黑曜石工作室開發全新《輻射》電子遊戲。
-
----
-
-### 2026-07-09 01:53:30  #焦點 #國際
-
-【美國法官裁定特朗普向E·吉恩·卡羅爾支付500萬美元賠償金】美國紐約聯邦法官劉易斯·卡普蘭週三下達裁定，要求特朗普履行對E·吉恩·卡羅爾的賠付義務，此前陪審團已判定特朗普對她實施性侵併構成誹謗。該法官下令特朗普需賠付500萬美元判決賠償金，另加近80萬美元利息。另一起關聯案件的陪審團裁定，特朗普還需向卡羅爾額外支付8300萬美元損害賠償金，該案件目前仍處於上訴流程中。
-
----
-
-### 2026-07-09 01:52:07  #焦點 #國際
-
-美國紐約一名聯邦法官裁定，因陪審團認定特朗普對E·吉恩·卡羅爾存在性侵及誹謗行為，特朗普需向其支付500萬美元賠償金，外加近80萬美元利息。
-
----
-
-### 2026-07-09 01:50:10  #國際
-
-土耳其總統埃爾多安：特朗普對向土耳其出售F-35戰鬥機持積極態度，希望各界能看到美國信守承諾。
-
----
-
-### 2026-07-09 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve will release minutes from its monetary policy meeting in 10 minutes.
-
----
-
-### 2026-07-09 01:49:54  #其他
-
-土耳其總統埃爾多安：土美之間最重要的分歧之一是F-35戰機問題。
-
----
-
-### 2026-07-09 01:49:54  #MKT News
-
-Turkey's President Erdogan said one of the most important issues with the United States is the F-35 fighter jet issue.
-
----
-
-### 2026-07-09 01:49:52  #MKT News
-
-A senior US official said the US has decided to remove Syria from the list of state sponsors of terrorism; Congress will begin a 45-day review before the revocation can take effect.
-
----
-
-### 2026-07-09 01:49:28  #國際
-
-以色列自3月2日以來在黎巴嫩各地的襲擊已造成4,321人死亡，12,203人受傷。
-
----
-
-### 2026-07-09 01:48:58  #國際
-
-特朗普告知敘利亞領導人，國會目前將開展為期45天的審查，以最終敲定此事。
-
----
-
-### 2026-07-09 01:48:14  #國際
-
-特朗普告知敘利亞領導人其撤銷“支援恐怖主義國家”認定相關舉措的決定。
-
----
-
-### 2026-07-09 01:47:56  #MKT News
-
-A senior U.S. government official said the U.S. has notified congressional leaders of a decision to remove Syria from the State Sponsors of Terrorism list.
-
----
-
-### 2026-07-09 01:46:53  #國際
-
-一名美國政府高階官員表示，美國已就撤銷敘利亞“支援恐怖主義國家”認定的決定通報國會領導層。
-
----
-
-### 2026-07-09 01:45:59  #MKT News #Important #Market Themes #AI Revolution
-
-【SpaceX AI, Cursor launch Grok 4.5 targeting legal and financial sectors】SpaceX AI has released Grok 4.5, developed with AI coding startup Cursor, positioning the model to narrow the gap with Anthropic and OpenAI. Grok 4.5 is designed to handle complex, long-duration tasks across software engineering, legal and financial services and includes enhanced cybersecurity capabilities.
-
----
-
-### 2026-07-09 01:45:37  #MKT News
-
-Turkey's President Erdogan said his meeting with US President Trump was very productive and that he was highly satisfied.
-
----
-
-### 2026-07-09 01:45:31  #國際
-
-土耳其總統埃爾多安：與特朗普舉行的會談成果頗豐，特朗普對此次會晤非常滿意。
-
----
-
-### 2026-07-09 01:44:11  #其他
-
-土耳其總統埃爾多安：土耳其與希臘應依託兩國領導層溝通與外交途徑解決愛琴海爭端。
-
----
-
-### 2026-07-09 01:41:37  #其他
-
-土耳其總統埃爾多安：作為土耳其與希臘的領導人，我們的責任是解決愛琴海地區的問題。
-
----
-
-### 2026-07-09 01:39:16  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq reversed into positive territory, up 0.1% after an earlier slide of more than 1%.
-
----
-
-### 2026-07-09 01:38:37  #MKT News
-
-Turkey's President Erdogan, responding to Trump's remarks on the F-35 and how Turkey will handle Russia's S-400 air-defence system, said 'We'll see.'
-
----
-
-### 2026-07-09 01:38:00  #其他
-
-傑富瑞表示，露露樂蒙產品品類佈局有所改善。
-
----
-
-### 2026-07-09 01:37:40  #市場
-
-墨西哥沃拉里斯航空股價跌幅擴大，下跌逾7%。
-
----
-
-### 2026-07-09 01:37:34  #國際
-
-土耳其總統埃爾多安在被問及特朗普關於F-35的言論以及土耳其將如何處理俄羅斯S-400系統時表示：繼續關注我們。
-
----
-
-### 2026-07-09 01:37:16  #宏觀 #國際
-
-【美國部分新生兒父母在開設特朗普賬戶時受阻】面向兒童的新型投資專案“特朗普賬戶”(Trump Accounts)於週六正式啟動，但美國部分新生兒父母目前仍無法開戶。美國財政部發言人表示，開戶延誤主要影響的是2026年出生、且剛剛拿到新發放社會安全號碼的部分兒童。延誤的影響範圍似乎有限。
-
----
-
-### 2026-07-09 01:36:50  #MKT News
-
-ERDOGAN said Turkey has the right to buy fighter jets and defense equipment and is negotiating purchases.
-
----
-
-### 2026-07-09 01:35:54  #其他
-
-土耳其總統埃爾多安：土耳其有權購買戰機與國防裝備，目前正就此進行談判。
-
----
-
-### 2026-07-09 01:35:28  #市場
-
-納斯達克指數轉跌為漲，上漲0.1%。
-
----
-
-### 2026-07-09 01:35:26  #MKT News
-
-ERDOGAN said "Remarks by Israel and Greece opposing Turkey's purchase of F-35s have no place in my world."
-
----
-
-### 2026-07-09 01:35:21  #其他
-
-土耳其總統埃爾多安：希臘總理米佐塔基斯不應犯下反對土耳其採購噴氣式戰機這一錯誤。
-
----
-
-### 2026-07-09 01:34:40  #國際
-
-土耳其總統埃爾多安：以色列和希臘反對土耳其購買F-35戰機“在我這裡行不通”。
-
----
-
-### 2026-07-09 01:34:18  #MKT News
-
-Turkish President ERDOGAN said NATO must be an alliance of mutually reinforcing allies, not one in which member states are dependent on each other.
-
----
-
-### 2026-07-09 01:33:24  #國際
-
-土耳其總統埃爾多安談及伊朗相關事宜： 我們當然清楚談判程序充滿重重阻礙。 當下關鍵是要保留尋求解決方案的意願。儘管局勢反覆拉鋸，但我相信理性終將佔據上風。 全世界都期盼能給和平一次機會。
-
----
-
-### 2026-07-09 01:33:15  #央行 #歐洲央行
-
-【瑞士央行行長表示 目前利率為0% 進入負利率的門檻很高】瑞士央行行長表示，目前利率為0%，進入負利率的門檻很高，但如有必要我們會採取行動。目前沒有推出零售型中央銀行數字貨幣的必要；私人債務在國際層面上被廣泛討論，但在瑞士卻是邊緣現象。
-
----
-
-### 2026-07-09 01:32:53  #公司
-
-OpenAI CEO奧特曼：GPT-live（新一代語音模型）今日在ChatGPT正式上線。體驗十分奇妙，對話質感非常真實。我以前一直更喜歡打字和AI交流，但現在我覺得這種習慣要改變了。
-
----
-
-### 2026-07-09 01:32:21  #MKT News
-
-SNB chair: private debt is widely discussed internationally but remains a marginal phenomenon in Switzerland.
-
----
-
-### 2026-07-09 01:31:57  #其他 #焦點
-
-SpaceX AI與Cursor釋出面向法律、金融場景的Grok人工智慧模型。
-
----
-
-### 2026-07-09 01:31:26  #央行 #其他
-
-瑞士央行行長：私人債務在國際層面被廣泛討論，但在瑞士只是邊緣現象。
-
----
-
-### 2026-07-09 01:30:50  #市場 #焦點 #國際
-
-【特朗普在北約峰會期間的講話要點總結】以下是美國總統特朗普在北約峰會期間講話的要點。
-1、特朗普加大對伊朗施壓，威脅今晚將再次對伊朗發動打擊，重新對伊朗實施封鎖，並佔領哈爾克島；
-2、特朗普表示，他預計戰爭不會重啟；
-3、特朗普稱與伊朗的談判“純屬浪費時間”，但他補充說，談判代表可以繼續進行討論。美國還撤銷了此前允許伊朗在全球市場出售石油的制裁豁免；
-4、伊朗最高領袖的助手Ali Akbar Velayati在社交媒體表示，伊朗“隨時準備扣動扳機”，並警告說“冒險行為將立即遭到回應”；
-5、受特朗普言論的影響，布倫特原油期貨價格一度飆升，後來漲幅有所收窄；
-6、特朗普表示，美國將向烏克蘭提供生產“愛國者”防空導彈的許可；
-7、特朗普稱，烏克蘭戰後需要安全保障，而且他認為衝突結束後俄羅斯不會再次攻擊烏克蘭。
-
----
-
-### 2026-07-09 01:30:48  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-Turkish President Erdogan said Turkey will deploy F-16 fighters to Estonia from August as part of NATO's air policing mission.
-
----
-
-### 2026-07-09 01:30:44  #MKT News
-
-Erdogan said Turkey is one of the few NATO allies able to independently produce combat aircraft, manufacture tanks, build warships and develop its own air-defense systems.
-
----
-
-### 2026-07-09 01:30:38  #MKT News
-
-Turkey's President ERDOGAN said amid Middle East tensions it is important to maintain a willingness to resolve problems.
-
----
-
-### 2026-07-09 01:30:01  #MKT News
-
-Swiss National Bank chairman said a retail CBDC is unnecessary but sees potential in a wholesale CBDC.
-
----
-
-### 2026-07-09 01:29:22  #其他
-
-瑞銀維持康菲石油的買入評級，將康菲石油的目標股價從每股155.00美元下調至每股143.00美元。
-
----
-
-### 2026-07-09 01:28:59  #國際
-
-土耳其總統埃爾多安：中東緊張局勢中，最重要的是保持解決問題的意願。
-
----
-
-### 2026-07-09 01:28:27  #市場 #國際
-
-美國電力協會（EEI）行業組織表示，美國周度發電量同比上漲7.7%。
-
----
-
-### 2026-07-09 01:28:12  #央行 #其他
-
-瑞士央行行長：目前沒有推出零售型中央銀行數字貨幣的必要。
-
----
-
-### 2026-07-09 01:27:21  #其他
-
-土耳其總統埃爾多安： 作為北約空中警戒任務的一環，我方F-16戰機將於8月起部署至愛沙尼亞。 我國自去年10月接管北約科索沃維和部隊（KFOR）指揮權，該指揮工作將持續至2026年9月底。
-
----
-
-### 2026-07-09 01:26:49  #MKT News
-
-NATO Secretary-General RUTTE said raising defense industrial output is vital and much work remains.
-
----
-
-### 2026-07-09 01:26:46  #MKT News
-
-NATO Secretary-General Rutte said there is no need to change how NATO deals with Trump, adding allies knew what they were getting when they chose him.
-
----
-
-### 2026-07-09 01:26:21  #MKT News
-
-NATO Secretary-General Rutte said allies, after a brief dispute at the Ankara summit, have restored unity.
-
----
-
-### 2026-07-09 01:25:40  #MKT News
-
-NATO Secretary-General RUTTE said open discussion strengthens NATO and that Russian President Putin should try the same in Russia.
-
----
-
-### 2026-07-09 01:25:22  #央行 #其他
-
-瑞士央行行長：綜合考量之下，央行目前已滿足政府提出的要求，因此相關要求並不算苛刻。
-
----
-
-### 2026-07-09 01:25:17  #其他
-
-北約秘書長呂特：擴大國防工業產能“至關重要”，仍有大量工作有待推進。
-
----
-
-### 2026-07-09 01:25:06  #國際
-
-北約秘書長呂特：無需調整與特朗普打交道的風格，盟友“當初選擇我時就清楚我是什麼樣的風格”。
-
----
-
-### 2026-07-09 01:24:44  #其他
-
-北約秘書長呂特：盟友們在經歷“一番爭執”後，在安卡拉峰會上凝聚共識、重新團結。
-
----
-
-### 2026-07-09 01:24:32  #市場
-
-納斯達克100指數轉漲，此前一度跌1.2%。
-
----
-
-### 2026-07-09 01:24:23  #國際
-
-北約秘書長呂特：開放討論讓北約更強大，普京應該在俄羅斯也這麼做。
-
----
-
-### 2026-07-09 01:24:16  #央行 #其他
-
-瑞士央行行長：瑞士央行對瑞銀全額資本支援的分析基於公開資料。
-
----
-
-### 2026-07-09 01:22:07  #MKT News #Macro & Rates #DXY #Impact bullish
-
-Swiss National Bank chairman said the policy rate is currently 0%; the threshold for moving into negative territory is high, but the bank will act if necessary.
-
----
-
-### 2026-07-09 01:21:58  #其他
-
-土耳其總統埃爾多安：我們已準備好承擔更多責任，以在北約內部實現更公平的責任分擔。
-
----
-
-### 2026-07-09 01:21:25  #央行 #其他 #焦點
-
-瑞士央行行長：我們當前的政策利率為零，進入負利率區間的門檻很高，但如有必要，我們仍會採取這一舉措。
-
----
-
-### 2026-07-09 01:20:43  #國際
-
-伊朗外長：用貶損言辭去談論伊朗民族，絲毫無法削弱這個國家的偉大。伊朗人民素來以溫文有禮、底蘊深厚的文化與崇高的道德品格著稱。我們不會以粗鄙回擊粗鄙，而是付諸行動。
-
----
-
-### 2026-07-09 01:20:39  #央行 #美聯儲
-
-美聯儲週三隔夜逆回購協議（RRP）使用規模為33.47億美元，上個交易日報44.84億美元。
-
----
-
-### 2026-07-09 01:20:32  #MKT News #Market Themes #The Trump Trade
-
-Turkey's President Erdogan said US President Trump emphasized the friendship between Turkey and the US, which Turkey values, and Turkey thanked him.
-
----
-
-### 2026-07-09 01:20:03  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $3.347 billion from eight counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-07-09 01:19:59  #國際
-
-土耳其總統埃爾多安：特朗普強調我們兩國的友誼對我們而言彌足珍貴，我們對此向他表示感謝。
-
----
-
-### 2026-07-09 01:19:45  #公司
-
-埃克森美孚奈及利亞分公司將於8月啟動烏桑油田開採，日產原油4萬桶。
-
----
-
-### 2026-07-09 01:19:30  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's foreign minister said Iran will not respond to vulgarity with vulgarity and will instead respond with action.
-
----
-
-### 2026-07-09 01:19:22  #央行 #國際
-
-8 家交易對手在美聯儲逆回購操作中獲得 33.47 億美元。
-
----
-
-### 2026-07-09 01:19:12  #其他
-
-土耳其總統埃爾多安：與會盟國之間的團結在峰會上體現得十分明顯。
-
----
-
-### 2026-07-09 01:19:06  #MKT News
-
-Erdogan said Turkey has laid a stronger NATO foundation in Ankara.
-
----
-
-### 2026-07-09 01:17:40  #焦點 #國際
-
-伊朗外交部長：我們不會以粗俗對粗俗，而是會以行動回應。
-
----
-
-### 2026-07-09 01:17:33  #其他
-
-土耳其總統埃爾多安：我們已在安卡拉為更強大的北約奠定了基礎。
-
----
-
-### 2026-07-09 01:17:00  #其他
-
-惠譽：預計2026年全球伊斯蘭債券發行量將低於2025年水平。
-
----
-
-### 2026-07-09 01:16:47  #其他
-
-土耳其總統埃爾多安在安卡拉就北約峰會發表講話稱：我們此次完成了一場成功的北約峰會。
-
----
-
-### 2026-07-09 01:15:50  #其他
-
-惠譽評級：全球伊斯蘭債券發行復甦取決於區域穩定性。
-
----
-
-### 2026-07-09 01:14:57  #MKT News
-
-【Pakistan foreign ministry: escalation in U.S.-Iran tensions not in any party's interest】On the evening of the 8th (local time) Pakistan's foreign ministry said it is concerned about rising U.S.-Iran tensions, saying renewed conflict would be against the interests of any party. It urged restraint and called on all sides to avoid actions that could further damage regional peace and stability. Pakistan said diplomatic engagement and dialogue remain the only path to regional peace, urged parties to honor commitments under the memorandum of understanding framework, and reiterated it is willing to play a constructive role in promoting regional stability.
-
----
-
-### 2026-07-09 01:13:16  #國際
-
-黎巴嫩：以色列無人機空襲黎巴嫩南部一家醫院附近區域，造成兩人死亡。
-
----
-
-### 2026-07-09 01:13:00  #國際
-
-【巴基斯坦外交部：美伊局勢升級不符合任何一方利益】當地時間8日晚，巴基斯坦外交部發表宣告，對當前美伊緊張局勢升級表示關切，並指出，衝突再度升級不符合任何一方利益。巴基斯坦呼籲各方保持克制，避免採取任何可能進一步損害地區和平與穩定的行動。巴方強調，實現地區和平這一共同目標，除了持續開展外交接觸與對話之外，別無選擇。巴基斯坦敦促各方切實履行在諒解備忘錄框架下作出的各項承諾。巴方表示，該諒解備忘錄仍然是促進相互理解、相互尊重以及實現地區乃至更廣泛範圍共同繁榮的持久基礎。巴基斯坦重申，願繼續在推動地區和平與穩定方面發揮建設性作用。（央視新聞）
-
----
-
-### 2026-07-09 01:11:24  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Lebanon's National News Agency said an Israeli drone struck near a hospital in southern Lebanon, killing two.
-
----
-
-### 2026-07-09 01:11:15  #MKT News #Market Themes #The Trump Trade #Dow #Impact bearish #S&P500 #Nasdaq100
-
-After Trump's remarks, U.S. major indices pared losses: Dow down about 1%, S&P 500 down 0.41%, Nasdaq down 0.15%.
 
 ---
