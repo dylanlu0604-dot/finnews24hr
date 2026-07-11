@@ -1,7 +1,17 @@
 {
   "date": "2026-07-11",
-  "count": 853,
+  "count": 854,
   "items": [
+    {
+      "id": "mkt:019f51b2-17ab-7aab-8d3e-e5c5a7ada75a",
+      "time": "2026-07-11 23:00:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chinese airports to cancel over 1,000 flights on July 12】As of 20:00 on July 11, Hanglv Zongheng, the civil aviation authority's official direct‑sales platform, showed Chinese airports and carriers had planned to cancel more than 1,000 inbound and outbound flights scheduled for July 12. On July 11 domestic delays exceeded 1,300 flights. Shanghai Pudong, Hangzhou Xiaoshan, Ningbo Lishe, Shanghai Hongqiao and Beijing Capital airports recorded the highest temporary cancellation counts that day."
+    },
     {
       "id": "4982286",
       "time": "2026-07-11 22:50:26",

@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-11 23:00:10",
-  "count": 16328,
+  "updated": "2026-07-11 23:04:16",
+  "count": 16327,
   "items": [
+    {
+      "id": "mkt:019f51b2-17ab-7aab-8d3e-e5c5a7ada75a",
+      "time": "2026-07-11 23:00:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chinese airports to cancel over 1,000 flights on July 12】As of 20:00 on July 11, Hanglv Zongheng, the civil aviation authority's official direct‑sales platform, showed Chinese airports and carriers had planned to cancel more than 1,000 inbound and outbound flights scheduled for July 12. On July 11 domestic delays exceeded 1,300 flights. Shanghai Pudong, Hangzhou Xiaoshan, Ningbo Lishe, Shanghai Hongqiao and Beijing Capital airports recorded the highest temporary cancellation counts that day."
+    },
     {
       "id": "4982286",
       "time": "2026-07-11 22:50:26",
@@ -148928,24 +148938,6 @@
         "其他"
       ],
       "text": "德國總理默茨談及自身改革舉措：民眾本身並不排斥改革。他們願意配合、接受這類改革。但但凡要求民眾做出改變的人——我們如今就在提出改革要求——都必須坦誠說明，哪些方面將要調整、為何非改不可、又會波及哪些群體。改革必須秉持公平原則，所有人都要承擔相應責任、付出應有代價。"
-    },
-    {
-      "id": "mkt:019f2da7-5ab2-7aab-8c9d-8cc0ad4bd383",
-      "time": "2026-07-04 23:02:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China foreign minister meets Swedish foreign minister in Stockholm】July 4, 2026 — China foreign minister met Sweden’s foreign minister in Stockholm. Beijing said bilateral ties, which were strained in recent years, have warmed since the Swedish minister’s visit last year and signalled a push to improve mutual trust, expand pragmatic cooperation and focus on a positive agenda. China urged Sweden to continue upholding the One China principle to consolidate the political basis for the relationship."
-    },
-    {
-      "id": "4970510",
-      "time": "2026-07-04 23:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達將抽取部分客戶雲業務營收分成】英偉達正依託自身雄厚的資產負債表，助力更多企業採購價格高昂的人工智慧晶片，同時自身也有望從中賺取額外收益。據參與該新專案的GPU雲服務商菲爾穆斯（Firmus）、莎倫人工智慧（Sharon AI），以及另外三家與英偉達有業務往來的企業高管透露：英偉達承諾為新興雲廠商提供資金兜底支援。作為交換，英偉達將分得這些廠商的部分雲業務營收。兜底機制具體形式為：若雲服務商無法招攬到AI開發者租用顯示卡，英偉達承諾回購其閒置圖形處理器。"
     }
   ]
 }
