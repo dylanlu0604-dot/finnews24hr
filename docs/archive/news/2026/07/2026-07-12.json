@@ -1,7 +1,18 @@
 {
   "date": "2026-07-12",
-  "count": 26,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:019f521d-ed4c-7aab-8d3f-2d1eb5441dd9",
+      "time": "2026-07-12 00:58:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate."
+    },
     {
       "id": "4982318",
       "time": "2026-07-12 00:48:06",

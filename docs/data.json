@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-12 00:55:48",
-  "count": 16318,
+  "updated": "2026-07-12 00:59:51",
+  "count": 16313,
   "items": [
+    {
+      "id": "mkt:019f521d-ed4c-7aab-8d3f-2d1eb5441dd9",
+      "time": "2026-07-12 00:58:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate."
+    },
     {
       "id": "4982318",
       "time": "2026-07-12 00:48:06",
@@ -148790,55 +148801,6 @@
         "XAUUSD"
       ],
       "text": "【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks."
-    },
-    {
-      "id": "4970550",
-      "time": "2026-07-05 00:59:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "在伊朗領袖哈梅內伊的葬禮現場，出現一塊手寫標語牌，上面寫著： “我們要殺死特朗普。”"
-    },
-    {
-      "id": "4970549",
-      "time": "2026-07-05 00:59:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方一名官員透露： 特朗普身邊多位核心幕僚都認為，內塔尼亞胡在所有事務上都判斷失誤。"
-    },
-    {
-      "id": "4970548",
-      "time": "2026-07-05 00:58:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱伊朗正“迫切想要達成協議”，但雙方商定暫停核談判一週，待哈梅內伊葬禮相關事宜全部結束後再重啟。 他補充表示，休談期間雙方不會互相發動襲擊。"
-    },
-    {
-      "id": "mkt:019f2e10-fb12-7aab-8c9d-d5a4d13516b7",
-      "time": "2026-07-05 00:58:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran said it thanked national delegations for resisting external \"pressure and intimidation\" and attending the funeral of Supreme Leader Khamenei."
-    },
-    {
-      "id": "4970547",
-      "time": "2026-07-05 00:57:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗駐華大使：計劃按國際通行標準對霍爾木茲海峽通航收服務費】伊朗駐華大使阿卜杜勒雷扎·拉赫馬尼·法茲裡4日在北京出席第十四屆世界和平論壇期間接受媒體採訪時表示，伊朗計劃按照國際通行標準對霍爾木茲海峽通航收取服務費。法茲裡表示，在美以伊戰爭爆發前，霍爾木茲海峽通航一直暢通無阻。目前，伊朗也沒有說要收(通行)費或關稅，而是計劃按照國際通行標準收取服務費，用於保障通航安全、導航以及環境保護等常規開支，此舉與世界上其他水道的做法一致。關於霍爾木茲海峽當前狀況，法茲裡說，目前該海峽通航正逐步恢復正常，伊朗與阿曼共同管理的通道正在重建秩序。"
-    },
-    {
-      "id": "4970546",
-      "time": "2026-07-05 00:56:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗感謝各國代表團不懼“施壓與恐嚇”，出席領袖哈梅內伊的葬禮。"
     }
   ]
 }
