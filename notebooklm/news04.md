@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-12 01:11:58_
-_本檔包含 3296 則快訊，約 618422 字_
+_更新時間：2026-07-12 02:05:18_
+_本檔包含 3291 則快訊，約 617370 字_
+
+---
+
+### 2026-07-08 09:46:29  #其他
+
+【國家發展改革委緊急安排5000萬元中央預算內投資支援湖北風雹等災害災後應急恢復】7月6日以來，湖北省多地遭遇強降雨和雷暴大風，局地發生龍捲風，造成人員傷亡和財產損失。7月7日，國家防災減災救災委員會啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和湖北省災害損失情況，國家發展改革委緊急安排中央預算內投資5000萬元，支援湖北省做好風雹等災害災後應急恢復，重點用於災區受損道路等基礎設施和學校等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（發改委）
+
+---
+
+### 2026-07-08 09:46:17  #國際
+
+美國軍方稱打擊了80多個目標.
+
+---
+
+### 2026-07-08 09:45:35  #市場 #焦點
+
+苯乙烯連續主力合約日內漲4%，現報7735.00元。
+
+---
+
+### 2026-07-08 09:45:32  #市場 #焦點
+
+北證50日內跌幅達1.13%，成分股中，三協電機跌7.74%，萬達軸承跌6.31%，鼎智科技跌4.58%，安達科技跌4.12%。
+
+---
+
+### 2026-07-08 09:45:22  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報8030.40點。
+
+---
+
+### 2026-07-08 09:45:07  #Trading Economics #Economy #Australia #Building Permits MoM #Importance 1
+
+Australia Confirms Steeper Decline in Building Permits — Australia's seasonally adjusted dwelling approvals fell 1.1% month-on-month to a four-month low of 17,019 units in May 2026, following a 0.2% decline in the previous month and in line with preliminary estimates. The weakness was driven by a sharp drop in approvals for private sector dwellings excluding houses, which slumped 10.4% after rising 4.0% in the previous month. By contrast, approvals for private sector houses rebounded 2.8%, reversing April's 0.4% decline. Across the states, approvals decreased in Victoria (-3.0%), Queensland (-8.8%), and Western Australia (-1.3%), while increasing in New South Wales (2.2%), South Australia (10.9%), and Tasmania (4.8%). Compared with a year earlier, total dwelling approvals rose 5.3%, easing sharply from April's 10.9% surge.
+
+---
+
+### 2026-07-08 09:45:03  #焦點 #國際
+
+美國軍方：完成對伊朗的新一輪打擊，擊中伊朗的防空系統和控制系統.
+
+---
+
+### 2026-07-08 09:44:44  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Hit One-Month Low — The benchmark KOSPI fell nearly 1% to around 7,590 on Wednesday, hitting its lowest level in a month as a broad sell-off in semiconductor stocks tracked overnight losses on Wall Street. Chipmakers came under pressure after investors questioned the sustainability of the AI-driven spending boom despite Samsung Electronics' strong quarterly earnings, dragging global semiconductor shares lower. Investors also remained cautious as escalating tensions in the Middle East boosted oil prices and dampened global risk appetite following fresh U.S. strikes on Iran and attacks near the Strait of Hormuz. Losses were led by Samsung Electronics (-0.9%), LG Energy Solution (-2.8%), HD Hyundai Heavy Industries (-4.2%), Hanwha Aerospace (-6.0%), and Doosan Enerbility (-3.9%). Meanwhile, South Korean authorities said they would closely monitor risks to market stability as heightened volatility in heavyweight chip stocks and single-stock leveraged ETFs continued to fuel sharp market swings.
 
 ---
 
@@ -19789,96 +19837,5 @@ Crypto Updates: Ether Rises by 1.36% — Today's cryptos market is characterized
 ### 2026-07-07 06:43:56  #公司
 
 【中報預增公司佔比走高，新興產業助力業績增長】截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中證報）
-
----
-
-### 2026-07-07 06:43:12  #其他
-
-【上半年IPO申報放量升溫，科創賽道擴容與從嚴稽核並行】2026年上半年的IPO市場，在6月迎來了集中交卷。Wind資料顯示，上半年三大交易所合計新增受理IPO企業242家，同比增長37%。其中，僅6月單月就貢獻了198家。分板塊看，6月受理的198家中，北交所95家、創業板51家、科創板36家、上交所主機板8家、深交所主機板8家。人工智慧、商業航天、腦機介面等新興產業企業明顯增多，成為本輪申報中較為突出的特徵。6月最後三個交易日——26日、29日、30日，滬深北交易所合計受理企業達113家，呈現逐日放量之勢。（中證報）
-
----
-
-### 2026-07-07 06:41:25  #MKT News #Important #005930.KS #Impact mixed
-
-Samsung Electronics reported preliminary Q2 results: revenue 171 trillion won, below consensus 173.9 trillion won; Q1 revenue was 133.9 trillion won, year-ago 74.6 trillion won. Q2 operating profit 89.4 trillion won, above consensus 87.3 trillion won; Q1 operating profit 57.2 trillion won, year-ago 4.7 trillion won.
-
----
-
-### 2026-07-07 06:40:02  #公司 #焦點
-
-三星電子第二季度營業利潤 89.40 萬億韓元，市場預期 84.2 萬億韓元。
-
----
-
-### 2026-07-07 06:40:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Spikes by 14.93% — Top commodity gainers are Coffee (14.93%), Cocoa (13.95%) and Soybeans (4.46%). Biggest losers are Rice (-9.25%) and Wool (-2.01%).
-
----
-
-### 2026-07-07 06:35:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 0.57% — Top commodity loser is Platinum (-0.57%). Gains are led by Copper (0.55%) and Iron Ore CNY (0.55%). Meanwhile Gold was little changed.
-
----
-
-### 2026-07-07 06:34:38  #觀點
-
-【高盛：AI投資重心邁向實體產業，未來6年資本開支或達7.6萬億美元】高盛在最新報告中稱，人工智慧(AI)投資的重心已開始向更廣闊的實體經濟延伸，算力、電力和資料中心仍在高速建設之際，AI已同步進入製造、能源、物流、國防、生命科學和機器人等現實場景。2026年至2031年，全球圍繞計算、資料中心和電力的AI資本開支將達到約7.6萬億美元，年度投入將從2026年的7650億美元升至2031年的1.64萬億美元。超大規模雲廠商到2030年的AI投資或超過6萬億美元。未來競爭的關鍵不只是模型或晶片，而是資本結構、能源供給、產業資料、工程能力和部署能力。
-
----
-
-### 2026-07-07 06:34:11  #其他
-
-【前5月機器人規上企業營收超900億元】7月6日，2026世界機器人大會新聞釋出會召開。工信部裝備工業一司副司長郝立順介紹，今年1至5月，我國機器人規模以上企業營業收入突破900億元，同比增長26.9%，近五年年均增速超20%，較“十三五”時期年均增速提升約5個百分點。當前，人形機器人逐步從展示性演示轉向實用性落地，產業商業化程序持續提速。（中證報）
-
----
-
-### 2026-07-07 06:31:38  #公司 #國際
-
-【玻璃基板進入關鍵驗證期，良率決定產業化拐點】玻璃基板大訊息不斷。三星電機於7月2日宣佈，公司已與日本住友化學集團全資子公司東宇精細化學簽署主合同，共同成立一家名為“Glassem”的合資企業，用於生產玻璃基板的關鍵材料“玻璃芯”（Glass Core）。同日，在2026年投資日活動上，京東方玻璃基封裝載板業務首次面向市場公開亮相。受訪人士表示，在傳統有機基板逐漸逼近效能與可靠性邊界的背景下，玻璃基板產業化程序明顯加快。目前全球半導體行業巨頭紛紛佈局押注玻璃基板賽道，但玻璃基板產業整體仍處於早期階段。多位受訪專家認為，玻璃基板的產業價值取決於能否把樣品能力穩定轉化為量產良率和客戶訂單。其中，TGV工藝被認為是決定產業能否進入規模化量產的核心環節。（上證報）
-
----
-
-### 2026-07-07 06:31:31  #公司 #央行 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】
-① 08:55 中國央行行長潘功勝將出席香港固定收益及貨幣論壇；
-② 10:00 上海市政府舉行釋出會，介紹2026世界人工智慧大會籌備進展；
-③ 時間待定 中國6月外匯儲備；
-④ 14:00 德國5月工業產出；
-⑤ 時間待定 歐洲首屆物理AI峰會MACHINA Summit；
-⑥ 15:30 歐洲央行管委Fabio Panetta在“變化世界中貨幣政策傳導機制面臨的挑戰”（ChaMP）會議閉幕式講話；
-⑦ 17:30 英國央行釋出金融穩定性報告；
-⑧ 18:15 歐洲央行管理委員會成員Martin Kocher在義大利羅馬講話；
-⑨ 19:00 美聯儲理事、負責金融監管事務的副主席鮑曼在金融穩定性委員會線上活動發表開場白講話；
-⑩ 時間待定 美國貿易代表辦公室舉行聽證會，審議對60個經濟體加徵關稅；
-⑪ 20:30 美國5月貿易帳，加拿大5月貿易帳；
-⑫ 時間待定 太陽谷年度峰會，OpenAI、蘋果、Meta等CEO出席；
-⑬ 次日00:00 美國能源資訊署（EIA）釋出月度短期能源展望報告（STEO）。
-
----
-
-### 2026-07-07 06:30:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Falls by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.01%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.16%) and Brent Crude Oil (-0.07%). Gains are led by Gasoline (1.67%), Heating Oil (1.46%) and Ethanol (1.32%).
-
----
-
-### 2026-07-07 06:27:18  #市場
-
-【低估值遇上高分紅 銀行板塊估值修復視窗正在開啟 】今年以來，A股銀行板塊維持“低估值、高分紅”特徵，截至7月6日收盤，申萬銀行指數跌超9%，42家上市銀行全部“破淨”，僅9家銀行股價上漲。與二級市場走勢形成反差的是，銀行股分紅保持穩健，多家上市銀行的動態股息率超過5%。這引發了市場對於銀行股配置價值的討論。業內人士認為，低利率環境下，銀行股類固收屬性凸顯，板塊估值修復視窗正在開啟。（中證報）
-
----
-
-### 2026-07-07 06:25:57  #市場
-
-【記憶體價格一路上漲 硬碟價格水漲船高】在被譽為“中國電子第一街”的深圳華強北，遊戲發燒友徐紹安最近準備玩一款3A遊戲，計劃升級一下電腦，他諮詢發現，一套32GB的DDR5記憶體套裝目前已經漲到近4000元，比去年貴了三四倍，於是他決定降低配置，改用24GB配置，等以後價格下降再做升級。 記者調查瞭解到，除了記憶體價格一路上漲以外，硬碟價格同樣水漲船高，以某款1TB固態硬碟為例，目前已經漲到900多元，不少電腦裝機商表示，目前零部件和整機的價格處於高位，導致不少裝機客戶選擇觀望。 記者統計發現，跟去年對比，主流型號的儲存產品價格漲幅皆超過100%。其中：1TB固態硬碟去年410元，現在950元，漲幅132%；16G DDR5記憶體去年450元，現在1800元，漲幅300%；32G DDR5記憶體去年900元，現在3800元，漲幅322%。 (央視財經)
-
----
-
-### 2026-07-07 06:25:51  #央行 #其他
-
-【萬億買斷式逆回購落地 流動性呵護力度持續提升 】7月6日，中國人民銀行開展10000億元3個月期買斷式逆回購操作，同步投放70億元7天期逆回購。據Wind資料，當日有8000億元買斷式逆回購、1575億元7天期逆回購到期，市場實現淨投放495億元。專家表示，當前央行呵護市場流動性的力度持續提升，若後續政府債券供給等因素階段性擾動資金面，央行將綜合運用各類工具加大流動性投放，維護資金面平穩執行。（中證報）
 
 ---

@@ -1,7 +1,82 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-12 01:11:58_
-_本檔包含 2915 則快訊，約 618624 字_
+_更新時間：2026-07-12 02:05:18_
+_本檔包含 2918 則快訊，約 618376 字_
+
+---
+
+### 2026-07-12 02:04:24  #國際
+
+澤連斯基呼籲烏克蘭外交部門將工作重心放在推動盟友更快落實軍供協議上。
+
+---
+
+### 2026-07-12 01:58:39  #國際
+
+烏克蘭發動襲擊後，塔甘羅格港口持續起火。該港口承擔貨運與燃料轉運的關鍵職能，為俄方戰事提供物資支撐。
+
+---
+
+### 2026-07-12 01:53:11  #國際
+
+【美國就空軍一號報道傳喚《紐約時報》記者】美國聯邦檢察官向四名《紐約時報》記者發出傳票，強制其披露兩篇報道的訊息來源。這兩篇報道曝光了卡達贈予美國的全新總統專機存在安全防護缺陷。檢方要求記者交代訊息源，相關報道稱，美國特勤局出於安全隱患考量，建議特朗普搭乘老式空軍一號從土耳其返程，新機缺少反導彈防護能力。《紐約時報》及多家媒體批評此次傳喚舉動，認為政府意在恐嚇媒體，阻撓公眾瞭解國內實情。
+
+---
+
+### 2026-07-12 01:46:03  #其他
+
+【長江海事局提升防禦颱風應急響應至二級】為全力應對今年第9號颱風“巴威”，保障長江干線水上交通安全，11日18時起，長江海事局將防禦颱風應急響應提升至二級。
+根據預測，11日至13日，颱風“巴威”將給長江中下游的湖北東部、江西、安徽等地帶來強風雨。
+長江海事局表示，二級應急響應期間，船舶應合理選擇安全水域錨泊，切勿冒險航行；錨泊時應加強值班瞭望，加固錨鏈纜繩，及時檢查關鍵裝置狀況；涉客船舶、施工船舶、“五小船舶”等重點船舶務必嚴格執行“應停盡停、應關盡關、應撤盡撤”要求。
+長江海事部門已加密與氣象部門會商研判，依託智慧管理平臺、電話、簡訊等多渠道開展預警叫應，把颱風動態、安全避險提示精準推送到相關船舶和港航企業。（新華社）
+
+---
+
+### 2026-07-12 01:42:52  #其他
+
+【民政部部署各地民政部門全力做好民政領域防汛救災工作】記者7月11日從民政部獲悉，民政部近日印發通知，要求各地民政部門全力做好民政領域防汛救災工作，著力強化養老機構、兒童福利機構、精神衛生福利機構等民政服務機構汛期安全防範工作，堅持“以防為主”，抓緊對民政服務機構進行全覆蓋隱患排查，強化閉環整改整治，將安全隱患消除在成災前。（新華社）
+
+---
+
+### 2026-07-12 01:32:19  #MKT News #Market Themes #AI Revolution
+
+【OpenAI releases GPT-5.6 as Musk and Altman trade public barbs】OpenAI released GPT-5.6 as Elon Musk and OpenAI founder Altman exchanged public insults on social media. Musk posted first, accusing Altman of having "taken fraud to a whole new level," and reposted a screenshot of Altman's US congressional hearing remark "I did this not out of enthusiasm," mocking that the "this" referred to fraud and alleging Altman's "love of scamming" is unmatched. Altman replied, accusing Musk of misleading public-market investors by promising to "short-term build space data centers," then promoted the new ChatGPT model, saying multiple benchmarks show GPT-5.6 Sol is currently the world's best model and that Musk's renewed attacks are a reliable signal.
+
+---
+
+### 2026-07-12 01:32:09  #國際
+
+【GPT-5.6釋出之際 馬斯克與奧特曼隔空互懟】GPT-5.6釋出之際，埃隆·馬斯克與OpenAI創始人奧特曼在社交平臺上爆發公開交鋒。馬斯克率先發文，稱“他把詐騙提升到了一個全新的高度”。不久後，又轉發奧特曼此前的美國國會聽證會發言截圖，該圖配文為“我做這件事並非出於熱衷”，馬斯克嘲諷稱“他說的‘這件事’指的就是詐騙”，“他對搞詐騙的熱愛，可能超過了任何一個活著的人”。對此，奧爾特曼發文回應，調侃稱“哥們兒，你才是真正拿‘短期內建太空資料中心’忽悠公開市場投資者的人。”隨後，奧特曼再次發帖，宣傳最新推出的ChatGPT模型的同時進一步反擊，“有很多基準測試表明GPT‑5.6 Sol是目前世界上最好的模型，但最可靠的判斷方式就是埃隆又開始針對我了。”
+
+---
+
+### 2026-07-12 01:23:18  #其他
+
+黎巴嫩官方訊息人士：黎巴嫩代表團僅由外交人員組成，不會安排軍方代表參會。
+
+---
+
+### 2026-07-12 01:23:10  #國際
+
+市場資訊：黎巴嫩已通知華盛頓，其將參與在羅馬與以色列舉行的新一輪談判。
+
+---
+
+### 2026-07-12 01:18:11  #其他
+
+【委內瑞拉強震遇難人數上升至4333人】當地時間11日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯召開新聞釋出會，通報該國日前發生的強震遇難人數已上升至4333人。此外，地震造成16740人受傷，發生餘震超過1200次。（央視新聞）
+
+---
+
+### 2026-07-12 01:17:02  #國際
+
+【伊朗與阿曼兩國舉行會談 討論霍爾木茲海峽航運】當地時間11日，伊朗外交部長阿拉格齊率團訪問阿曼首都馬斯喀特，並與阿曼外交大臣巴德爾舉行會談。總檯記者獲悉，雙方重點討論了伊朗與阿曼雙邊關係、地區局勢以及霍爾木茲海峽問題。阿曼方面表示，希望伊朗與美國能夠全面落實美伊諒解備忘錄，透過外交途徑緩和地區緊張局勢，推動地區安全形勢改善。會談中，雙方還圍繞該諒解備忘錄第五條，就建立確保船舶安全透過霍爾木茲海峽的相關機制交換了意見。（央視新聞）
+
+---
+
+### 2026-07-12 01:13:09  #MKT News #Market Regions #Greater China
+
+【China origin-based student credit loans total 620.7 bln yuan; 68.21 mln student person-times aided】China’s origin-based student credit loan program entered its 20th year this year. Over nearly two decades it has cumulatively disbursed 620.7 bln yuan and supported 68.21 mln student person-times, the Ministry of Education said.
 
 ---
 
@@ -17630,59 +17705,5 @@ Hong Kong-listed auto stocks were mostly firmer: Chery Automobile (09973.HK), XP
 ### 2026-07-10 10:21:28  #其他
 
 【廣西25條河流30個站超警 主要江河以退水為主】據廣西水文中心監測，7月9日8時至10日8時，防城港、崇左、欽州、梧州及玉林等市部分地區有大到暴雨，局地大暴雨，日雨量最大為防城港市防城區那良鎮105.0毫米。廣西全區共有西江、鬱江、潯江、清水河及大風江等25條河流30個站超警0.02～4.45米，超警最大為蒙江河南寧市橫州市橫州鎮河段。10日8時，廣西仍有鬱江、潯江及西江等16條河流19個站超警0.04～4.31米。鬱江貴港水文站水位43.21米（警戒水位41.2米），超警2.01米，流量10700立方米每秒；西江梧州水文站水位20.13米（警戒水位18.5米），超警1.63米，流量31500立方米每秒。廣西水文中心預測，未來24小時，全區各主要江河均以退水為主；鬱江貴港城區河段水位將於10日22時前後退至警戒水位以下，西江梧州城區河段水位將於11日5時前後退至警戒水位以下。
-
----
-
-### 2026-07-10 10:21:00  #其他
-
-【廣東：培育形成覆蓋算力、模型、應用、安全的全鏈條詞元產業生態 加快推動相關產品規模化推廣落地】《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》近日向社會公開徵求意見。其中提到，聚焦6G、人工智慧、網路和資料安全等新領域新賽道，開展規模化應用示範，加快推動創新成果產業化落地，促進創新鏈與產業鏈深度融合。牽頭組建立足廣東、聯動港澳的6G產業創新發展聯盟，整合全省產學研用優質資源，凝聚6G產業發展合力，全面提升6G產業綜合競爭力與行業影響力。全力參與6G創新發展部省協同試點，加快形成廣東省6G試驗組網及產業培育先發優勢。鼓勵基礎電信企業加快完善詞元計價標準，透過服務體系構建與平臺能力開放，培育形成覆蓋算力、模型、應用、安全的全鏈條詞元產業生態，加快推動相關產品規模化推廣落地。紮實推進國家網路安全產業園區建立申報工作，構建具有廣東特色的網路安全產業生態體系，加強網路安全企業梯度培育，推動網路安全新模式新服務發展。
-
----
-
-### 2026-07-10 10:20:18  #MKT News #Market Regions #Greater China
-
-【Green hydrogen breakthrough: China achieves ultra-fast preparation of platinum-group catalysts】A Tianjin University team led by Professor Hu Wenbin reported a “transient assembly” strategy using millisecond-scale periodic thermal pulses to synthesize and precisely control core–shell platinum-group metal catalysts, enabling atom-level precision and ultra-fast production. The authors say the method opens a new technical pathway for platinum-group catalyst manufacturing. Results were published online in Science on July 10 (Beijing time). Platinum-group catalysts are core materials for modern energy, chemical and environmental industries.
-
----
-
-### 2026-07-10 10:20:07  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Stocks in China Hit 8-week High — SHANGHAI 50 increased to 3019.00 Index Points, the highest since May 2026. Over the past 4 weeks, Shanghai 50 gained 6.08%, and in the last 12 months, it increased 9.51%.
-
----
-
-### 2026-07-10 10:19:50  #其他
-
-【位元組跳動公益基金會捐贈2000萬元，支援廣西、湖北、甘肅災區】7月10日，北京位元組跳動公益基金會宣佈捐贈2000萬元，支援廣西、湖北、甘肅災區，用於開展應急救助、過渡安置、災後重建等工作。
-
----
-
-### 2026-07-10 10:19:46  #公司
-
-【北極芯微完成億元A+輪融資】近日，深圳北極芯微電子有限公司宣佈成功完成億元A+輪融資，本輪融資由中青恆輝基金領投，老股東光谷科創投、瑞江投資跟投。本輪融資所獲資金將主要用於產品量產交付與核心技術、產品迭代，推動dToF產品交付規模持續擴大，加速PCI產品商業化落地程序。
-
----
-
-### 2026-07-10 10:19:41  #其他
-
-【綠色氫能新突破：我國實現鉑族催化劑分鐘級製備】鉑族催化劑是支撐現代能源、化工、環境等產業的核心關鍵材料。近日，天津大學胡文彬教授團隊提出了“瞬態組裝”策略，研發出毫秒級週期熱脈衝技術，實現了鉑族金屬核殼結構催化劑的超快合成與精準調控，為鉑族催化劑的原子級精準製備開闢了全新技術路徑。相關成果於北京時間7月10日線上刊發於國際學術期刊《科學》上。（新華社）
-
----
-
-### 2026-07-10 10:18:32  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Hits Near 3-Week High — China’s offshore yuan strengthened to around 6.78 per dollar on Friday, extending gains from the previous session to its strongest level in nearly three weeks after the People’s Bank of China signaled greater tolerance for currency appreciation. The central bank set the yuan’s daily reference rate at 6.7989 per dollar, stronger than Thursday’s fixing of 6.8036 and below the closely watched 6.80 threshold for the first time since 2023. A fixing below 6.80 per dollar is widely viewed by investors as an indication that authorities are not seeking to restrain the yuan’s recent appreciation. Attention is now turning to a packed slate of Chinese economic releases due next week, including trade data, second-quarter GDP, industrial production, retail sales, and the unemployment rate. The figures are expected to provide fresh insight into the strength of the economy and could shape expectations for the yuan’s near-term direction.
-
----
-
-### 2026-07-10 10:18:18  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量4090億元。
-
----
-
-### 2026-07-10 10:17:29  #其他
-
-【廣東：擬推動構建高速大容量、確定低時延、泛在廣覆蓋的城域算力網路】《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》近日向社會公開徵求意見。其中提到，推進城域“毫秒用算”專項行動。推動構建高速大容量、確定低時延、泛在廣覆蓋的城域算力網路，實現“算力中心毫秒互連、算力資源毫秒接入、算力應用毫秒可達”。
 
 ---

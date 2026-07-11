@@ -1,7 +1,98 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 01:11:58_
-_本檔包含 3176 則快訊，約 618516 字_
+_更新時間：2026-07-12 02:05:18_
+_本檔包含 3171 則快訊，約 618296 字_
+
+---
+
+### 2026-07-07 06:43:12  #其他
+
+【上半年IPO申報放量升溫，科創賽道擴容與從嚴稽核並行】2026年上半年的IPO市場，在6月迎來了集中交卷。Wind資料顯示，上半年三大交易所合計新增受理IPO企業242家，同比增長37%。其中，僅6月單月就貢獻了198家。分板塊看，6月受理的198家中，北交所95家、創業板51家、科創板36家、上交所主機板8家、深交所主機板8家。人工智慧、商業航天、腦機介面等新興產業企業明顯增多，成為本輪申報中較為突出的特徵。6月最後三個交易日——26日、29日、30日，滬深北交易所合計受理企業達113家，呈現逐日放量之勢。（中證報）
+
+---
+
+### 2026-07-07 06:41:25  #MKT News #Important #005930.KS #Impact mixed
+
+Samsung Electronics reported preliminary Q2 results: revenue 171 trillion won, below consensus 173.9 trillion won; Q1 revenue was 133.9 trillion won, year-ago 74.6 trillion won. Q2 operating profit 89.4 trillion won, above consensus 87.3 trillion won; Q1 operating profit 57.2 trillion won, year-ago 4.7 trillion won.
+
+---
+
+### 2026-07-07 06:40:02  #公司 #焦點
+
+三星電子第二季度營業利潤 89.40 萬億韓元，市場預期 84.2 萬億韓元。
+
+---
+
+### 2026-07-07 06:40:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Spikes by 14.93% — Top commodity gainers are Coffee (14.93%), Cocoa (13.95%) and Soybeans (4.46%). Biggest losers are Rice (-9.25%) and Wool (-2.01%).
+
+---
+
+### 2026-07-07 06:35:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 0.57% — Top commodity loser is Platinum (-0.57%). Gains are led by Copper (0.55%) and Iron Ore CNY (0.55%). Meanwhile Gold was little changed.
+
+---
+
+### 2026-07-07 06:34:38  #觀點
+
+【高盛：AI投資重心邁向實體產業，未來6年資本開支或達7.6萬億美元】高盛在最新報告中稱，人工智慧(AI)投資的重心已開始向更廣闊的實體經濟延伸，算力、電力和資料中心仍在高速建設之際，AI已同步進入製造、能源、物流、國防、生命科學和機器人等現實場景。2026年至2031年，全球圍繞計算、資料中心和電力的AI資本開支將達到約7.6萬億美元，年度投入將從2026年的7650億美元升至2031年的1.64萬億美元。超大規模雲廠商到2030年的AI投資或超過6萬億美元。未來競爭的關鍵不只是模型或晶片，而是資本結構、能源供給、產業資料、工程能力和部署能力。
+
+---
+
+### 2026-07-07 06:34:11  #其他
+
+【前5月機器人規上企業營收超900億元】7月6日，2026世界機器人大會新聞釋出會召開。工信部裝備工業一司副司長郝立順介紹，今年1至5月，我國機器人規模以上企業營業收入突破900億元，同比增長26.9%，近五年年均增速超20%，較“十三五”時期年均增速提升約5個百分點。當前，人形機器人逐步從展示性演示轉向實用性落地，產業商業化程序持續提速。（中證報）
+
+---
+
+### 2026-07-07 06:31:38  #公司 #國際
+
+【玻璃基板進入關鍵驗證期，良率決定產業化拐點】玻璃基板大訊息不斷。三星電機於7月2日宣佈，公司已與日本住友化學集團全資子公司東宇精細化學簽署主合同，共同成立一家名為“Glassem”的合資企業，用於生產玻璃基板的關鍵材料“玻璃芯”（Glass Core）。同日，在2026年投資日活動上，京東方玻璃基封裝載板業務首次面向市場公開亮相。受訪人士表示，在傳統有機基板逐漸逼近效能與可靠性邊界的背景下，玻璃基板產業化程序明顯加快。目前全球半導體行業巨頭紛紛佈局押注玻璃基板賽道，但玻璃基板產業整體仍處於早期階段。多位受訪專家認為，玻璃基板的產業價值取決於能否把樣品能力穩定轉化為量產良率和客戶訂單。其中，TGV工藝被認為是決定產業能否進入規模化量產的核心環節。（上證報）
+
+---
+
+### 2026-07-07 06:31:31  #公司 #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】
+① 08:55 中國央行行長潘功勝將出席香港固定收益及貨幣論壇；
+② 10:00 上海市政府舉行釋出會，介紹2026世界人工智慧大會籌備進展；
+③ 時間待定 中國6月外匯儲備；
+④ 14:00 德國5月工業產出；
+⑤ 時間待定 歐洲首屆物理AI峰會MACHINA Summit；
+⑥ 15:30 歐洲央行管委Fabio Panetta在“變化世界中貨幣政策傳導機制面臨的挑戰”（ChaMP）會議閉幕式講話；
+⑦ 17:30 英國央行釋出金融穩定性報告；
+⑧ 18:15 歐洲央行管理委員會成員Martin Kocher在義大利羅馬講話；
+⑨ 19:00 美聯儲理事、負責金融監管事務的副主席鮑曼在金融穩定性委員會線上活動發表開場白講話；
+⑩ 時間待定 美國貿易代表辦公室舉行聽證會，審議對60個經濟體加徵關稅；
+⑪ 20:30 美國5月貿易帳，加拿大5月貿易帳；
+⑫ 時間待定 太陽谷年度峰會，OpenAI、蘋果、Meta等CEO出席；
+⑬ 次日00:00 美國能源資訊署（EIA）釋出月度短期能源展望報告（STEO）。
+
+---
+
+### 2026-07-07 06:30:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Falls by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.01%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.16%) and Brent Crude Oil (-0.07%). Gains are led by Gasoline (1.67%), Heating Oil (1.46%) and Ethanol (1.32%).
+
+---
+
+### 2026-07-07 06:27:18  #市場
+
+【低估值遇上高分紅 銀行板塊估值修復視窗正在開啟 】今年以來，A股銀行板塊維持“低估值、高分紅”特徵，截至7月6日收盤，申萬銀行指數跌超9%，42家上市銀行全部“破淨”，僅9家銀行股價上漲。與二級市場走勢形成反差的是，銀行股分紅保持穩健，多家上市銀行的動態股息率超過5%。這引發了市場對於銀行股配置價值的討論。業內人士認為，低利率環境下，銀行股類固收屬性凸顯，板塊估值修復視窗正在開啟。（中證報）
+
+---
+
+### 2026-07-07 06:25:57  #市場
+
+【記憶體價格一路上漲 硬碟價格水漲船高】在被譽為“中國電子第一街”的深圳華強北，遊戲發燒友徐紹安最近準備玩一款3A遊戲，計劃升級一下電腦，他諮詢發現，一套32GB的DDR5記憶體套裝目前已經漲到近4000元，比去年貴了三四倍，於是他決定降低配置，改用24GB配置，等以後價格下降再做升級。 記者調查瞭解到，除了記憶體價格一路上漲以外，硬碟價格同樣水漲船高，以某款1TB固態硬碟為例，目前已經漲到900多元，不少電腦裝機商表示，目前零部件和整機的價格處於高位，導致不少裝機客戶選擇觀望。 記者統計發現，跟去年對比，主流型號的儲存產品價格漲幅皆超過100%。其中：1TB固態硬碟去年410元，現在950元，漲幅132%；16G DDR5記憶體去年450元，現在1800元，漲幅300%；32G DDR5記憶體去年900元，現在3800元，漲幅322%。 (央視財經)
+
+---
+
+### 2026-07-07 06:25:51  #央行 #其他
+
+【萬億買斷式逆回購落地 流動性呵護力度持續提升 】7月6日，中國人民銀行開展10000億元3個月期買斷式逆回購操作，同步投放70億元7天期逆回購。據Wind資料，當日有8000億元買斷式逆回購、1575億元7天期逆回購到期，市場實現淨投放495億元。專家表示，當前央行呵護市場流動性的力度持續提升，若後續政府債券供給等因素階段性擾動資金面，央行將綜合運用各類工具加大流動性投放，維護資金面平穩執行。（中證報）
 
 ---
 
@@ -19078,113 +19169,5 @@ Syrian president says he looks forward to establishing a relationship with the U
 ### 2026-07-05 02:09:42  #國際
 
 【以軍稱在黎南部打死一名黎真主黨武裝人員】當地時間4日，以色列國防軍發表宣告稱，以軍當天在黎巴嫩南部的“安全區”發現並打死了一名出現在其部隊附近的黎巴嫩真主黨武裝人員。（央視新聞）
-
----
-
-### 2026-07-05 02:04:32  #國際
-
-伊朗最高領袖辦公室親信、強硬派阿里雷扎·帕納希安稱，德黑蘭應當不惜犧牲全部國家利益，為哈梅內伊復仇。
-
----
-
-### 2026-07-05 02:02:07  #MKT News
-
-Russia's Security Council deputy chairman Medvedev says Russia is willing to continue developing a strategic partnership with Iran.
-
----
-
-### 2026-07-05 02:01:28  #國際
-
-俄羅斯聯邦安全會議副主席梅德韋傑夫：俄羅斯願繼續同伊朗發展戰略伙伴關係。
-
----
-
-### 2026-07-05 01:53:41  #MKT News
-
-【Russian Defence Ministry says Zelensky's attempts to damage Russian civilian infrastructure will not be ignored】The Russian Defence Ministry said early July 4 that Kyiv staged a combined strike on Russian territory using long-range “Flamingo” cruise missiles, Hamas multiple-launch rockets and drones to divert attention from a Ukrainian defensive failure at Konstantinovka. The ministry said Russian air defences shot down more than 500 aerial targets, including 10 Flamingo cruise missiles and nine Hamas rockets. It warned Zelensky’s alleged attempts to damage civilian infrastructure in the Russian Federation will not be ignored and said Russian forces will take appropriate retaliatory action.
-
----
-
-### 2026-07-05 01:51:58  #MKT News #Brent #Impact bearish #XAUUSD #DXY
-
-Israel's Channel 15, citing sources, reported that US President Trump has urged against escalation in Lebanon to avoid hindering his communications with Iran.
-
----
-
-### 2026-07-05 01:51:18  #MKT News
-
-【Immersive 'Jinlv Shiguang' tourism train adds July service linking Beijing, Tianjin, Hebei】From July 4, the immersive cultural-tourism train Jinlv Shiguang will operate a new Beijing–Tianjin–Hebei route, adding Guangyang station (Langfang, Hebei) and Tanggu station (Tianjin Binhai New Area) to the existing Beijing–Tianjin service. The weekend-and-holiday service is jointly run by Tianjin Tourism (Holding) Group and China Railway Beijing Group and is presented as part of efforts to advance Jing-Jin-Ji coordinated development and deepen transport–tourism integration.
-
----
-
-### 2026-07-05 01:51:12  #市場 #焦點
-
-以太坊升破1800美元，日內漲2.43%。
-
----
-
-### 2026-07-05 01:50:12  #國際
-
-訊息人士：特朗普要求以色列不要激化黎巴嫩局勢，以免阻礙其與伊朗開展的溝通。
-
----
-
-### 2026-07-05 01:49:39  #公司
-
-【“津旅時光號”7月線路上新串聯京津冀】為深度服務京津冀文旅協同發展，7月4日起，沉浸式文旅專列“津旅時光號”正式開行京津冀全新線路。 新線路在已開通京津線路的基礎上，增加廣陽站（位於河北省廊坊市）及塘沽站（位於天津市濱海新區），每週末及節假日開行，實現京津冀三地文旅資源互通互聯。 這條新線路由天津市旅遊（控股）集團有限公司與中國鐵路北京局集團有限公司聯合打造，是落實京津冀協同發展戰略、推動交通與文旅深度融合的創新實踐。（新華社）
-
----
-
-### 2026-07-05 01:44:41  #MKT News
-
-【Russia offers to hand over bodies of fallen Ukrainian soldiers, asks Ukraine to halt shelling of Konstantinovka】On the 4th local time the Russian Defence Ministry said it was prepared to carry out a humanitarian operation to hand over bodies of Ukrainian soldiers killed in action and proposed Ukraine suspend shelling of Konstantinovka from 12:00 to 18:00 Moscow time on the 6th. Russia said Ukraine must decide on the handover by 12:00 Moscow time on the 5th; Ukraine had made no immediate response.
-
----
-
-### 2026-07-05 01:42:59  #國際
-
-【俄稱願移交烏軍陣亡人員遺體 要求烏停止炮擊康斯坦丁諾夫卡】當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。目前，烏克蘭方面對此暫無回應。俄羅斯總統普京3日表示，俄軍已控制康斯坦丁諾夫卡。烏克蘭武裝部隊總參謀部4日否認俄軍控制康斯坦丁諾夫卡的訊息，稱該居民點仍由烏軍掌控。（央視新聞）
-
----
-
-### 2026-07-05 01:35:46  #MKT News
-
-Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump yesterday and has agreed to meet him in the US soon.
-
----
-
-### 2026-07-05 01:35:43  #市場
-
-比特幣重回63000美元關口。
-
----
-
-### 2026-07-05 01:34:59  #國際
-
-以色列總理內塔尼亞胡稱昨天與美國總統特朗普通了電話。
-
----
-
-### 2026-07-05 01:34:42  #國際
-
-以色列總理內塔尼亞胡表示，已同意很快在美國與特朗普會面。
-
----
-
-### 2026-07-05 01:17:36  #國際
-
-【數百名疑似白人至上組織愛國者陣線成員在華盛頓遊行】數百名身著統一制服、疑似白人至上主義組織 “愛國者陣線” 的成員在華盛頓特區遊行，朝著國會大廈行進。這群男子全都戴著白色面罩，手持各式旗幟 —— 部分旗幟倒置，還有邦聯旗幟，同時高喊口號：“奪回美國！”
-
----
-
-### 2026-07-05 01:14:48  #MKT News
-
-【Australia's New South Wales confirms first detection of H5N1 HPAI】The New South Wales government confirmed on the 4th that the state has detected H5N1 highly pathogenic avian influenza for the first time.
-
----
-
-### 2026-07-05 01:13:03  #MKT News
-
-【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan.
 
 ---
