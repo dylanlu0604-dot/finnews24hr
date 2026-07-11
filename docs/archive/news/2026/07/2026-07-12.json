@@ -1,7 +1,33 @@
 {
   "date": "2026-07-12",
-  "count": 55,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:019f527d-3132-7aab-8d3f-6fb5c9a45bfb",
+      "time": "2026-07-12 02:42:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Omani state news agency said Oman and Iran agreed to continue technical and political talks to reach a Strait of Hormuz navigation agreement under international law."
+    },
+    {
+      "id": "4982341",
+      "time": "2026-07-12 02:42:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫：已控制住德國廠區化學品洩漏險情，酸液洩漏事故無人員受傷。"
+    },
+    {
+      "id": "4982340",
+      "time": "2026-07-12 02:41:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿曼媒體：阿曼與伊朗同意繼續開展技術及政治層面磋商，以期根據國際法就霍爾木茲海峽航行問題達成協議。"
+    },
     {
       "id": "4982339",
       "time": "2026-07-12 02:39:21",

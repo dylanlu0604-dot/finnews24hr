@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-12 02:40:46",
-  "count": 16301,
+  "updated": "2026-07-12 02:44:40",
+  "count": 16303,
   "items": [
+    {
+      "id": "mkt:019f527d-3132-7aab-8d3f-6fb5c9a45bfb",
+      "time": "2026-07-12 02:42:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Omani state news agency said Oman and Iran agreed to continue technical and political talks to reach a Strait of Hormuz navigation agreement under international law."
+    },
+    {
+      "id": "4982341",
+      "time": "2026-07-12 02:42:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫：已控制住德國廠區化學品洩漏險情，酸液洩漏事故無人員受傷。"
+    },
+    {
+      "id": "4982340",
+      "time": "2026-07-12 02:41:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿曼媒體：阿曼與伊朗同意繼續開展技術及政治層面磋商，以期根據國際法就霍爾木茲海峽航行問題達成協議。"
+    },
     {
       "id": "4982339",
       "time": "2026-07-12 02:39:21",
@@ -148689,18 +148715,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：想要銘記國家與特朗普取得的歷史性成就，沒有比發行印有他簽名的美元紙幣更具分量的方式；恰逢建國250週年推出這款具有里程碑意義的貨幣，再合適不過。"
-    },
-    {
-      "id": "mkt:019f2e71-9f4d-7aab-8c9e-bac2e8a5a87b",
-      "time": "2026-07-05 02:43:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "【Military expert: Putin betting on attrition to wear down Ukraine and the West】US Marine veteran and geopolitical analyst Brian Berletic says Russia, leveraging a large industrial base and the ability to sustain trained forces, is pursuing a war of attrition intended to exhaust Ukraine and its Western backers. He says Russia can strike expensive, hard-to-replace Western-supplied equipment and target industrial facilities, command centers and dual-use infrastructure, degrading Ukraine faster than Ukraine or its Western supporters can replenish personnel, equipment and ammunition. To date, he adds, Western production capacity and the scale of Ukrainian drone strikes have not matched Russia."
     }
   ]
 }
