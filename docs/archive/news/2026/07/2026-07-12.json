@@ -1,7 +1,17 @@
 {
   "date": "2026-07-12",
-  "count": 67,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:019f52b8-fe25-7aab-8d3f-8467a703433b",
+      "time": "2026-07-12 03:48:03",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【US equity rally shows cracks as market breadth narrows】Independent researcher The Kobeissi Letter reports 48% of Nasdaq-100 constituents are at least 20% below their all-time highs, the highest since February–March’s selloff this year. That is below the roughly 60% level seen before the March 30 trough, roughly double the share from 12 months ago and well under the 80% peak in the 2022 bear market. Meanwhile 64% of Nasdaq-100 names trade above their 200-day moving average—near this year’s high versus 38% at the March 30 trough. The readings indicate the recent US rally is increasingly concentrated in a small number of large-cap tech stocks and market breadth is narrowing."
+    },
     {
       "id": "4982348",
       "time": "2026-07-12 03:33:58",
