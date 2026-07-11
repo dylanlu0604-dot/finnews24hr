@@ -1,7 +1,244 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 00:05:58_
-_本檔包含 3178 則快訊，約 618814 字_
+_更新時間：2026-07-12 01:11:58_
+_本檔包含 3176 則快訊，約 618516 字_
+
+---
+
+### 2026-07-07 06:23:45  #市場
+
+【新版交易規則施行首日，ST板塊表現分化】7月6日，滬深北交易所新版交易規則正式施行。其中，最受市場關注的變化之一，是滬深市主機板風險警示股票（ST、*ST）漲跌幅限制從5%放寬至10%，與主機板其他股票實現統一。新規實施首日，ST板塊（包括ST、*ST股）表現分化。截至當日收盤，東財編制的ST板塊指數收跌1.31%，ST星農、ST海王、ST瑞茂等個股收穫10%漲停。記者注意到，新規落地前，ST板塊已經歷了一輪“先抑後揚”的走勢：板塊指數自4月底持續回撥，6月29日觸及近一年新低，隨後開啟反彈，最近5個交易日累計漲幅超過5%。（上證報）
+
+---
+
+### 2026-07-07 06:15:41  #公司 #市場 #國際
+
+【7月7日隔夜要聞一覽】
+1、美股三大股指集體收漲。道指漲0.30%，標普500指數漲0.73%，納指漲1.12%。Arista Networks漲8.25%，西部資料漲7.14%，AMD漲6.61%。“七姐妹”方面：特斯拉漲6.69%，Meta Platforms漲3.03%，谷歌漲2.38%，蘋果漲1.33%，亞馬遜漲0.61%，英偉達漲0.34%，微軟跌0.92%。
+2、油價跌至五個月低點。WTI期貨收於每桶69美元下方，為2月底以來最低水平。布倫特收盤也接近五個月低點。
+3、美國總統特朗普：沃爾瑪將按我的要求對商品降價。
+4、SpaceX即將正式納入納斯達克100指數，歷時15天，創下納斯達克100指數創立以來最快納入紀錄。
+5、微軟宣佈裁員4800人，約佔其全球員工總數的2.1%，其中涉及1600名Xbox遊戲機部門的員工。
+6、英偉達回應Kyber延期傳聞：產品路線圖未受影響。
+7、阿拉比卡咖啡價格飆升18%，創2000年7月以來最大盤中漲幅。
+8、國際足聯主席因凡蒂諾：國際足聯獨立裁決涉巴洛貢紅牌禁賽延後處罰案件。
+9、加拿大選定德國軍工企業為加海軍潛艇艦隊首選供應商。
+
+---
+
+### 2026-07-07 06:15:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 1.19% — Top currency gainers are Brazilian Real (1.19%), Norwegian Krone (0.65%), Mexican Peso (0.48%), British Pound (0.31%) and Euro (0.07%). Biggest loser is Japanese Yen (-0.44%). Meanwhile Dollar Index was little changed.
+
+---
+
+### 2026-07-07 06:14:05  #公司
+
+【A股市場重要股東減持渠道“一降兩升”】基於最新統計分析發現，A股市場重要股東減持渠道呈現“一降兩升”態勢：曾經作為主要退出路徑的協議轉讓交易規模大幅萎縮，而市場化與透明度更佳的大宗交易和詢價轉讓渠道快速崛起。據統計，截至2026年6月30日，A股市場年內重要股東累計減持金額為4894.47億元。與上年同期相比：協議轉讓交易規模佔比由51.56%降至24.45%；大宗交易佔比由17.79%升至20.63%，同比增長51.35%；詢價轉讓佔比由5%升至11.83%，同比增長209%。（上證報）
+
+---
+
+### 2026-07-07 06:13:56  #央行 #其他
+
+秘魯（當選總統）Fujimori：Velarde將繼續擔任央行行長。
+
+---
+
+### 2026-07-07 06:11:37  #MKT News #PETR4.SA #Impact bullish
+
+Petrobras said it received 2.7 bln reais related to Brazil's diesel subsidy program.
+
+---
+
+### 2026-07-07 06:11:35  #公司
+
+巴西國家石油公司：已收到與巴西柴油補貼計劃相關的 27 億雷亞爾款項。
+
+---
+
+### 2026-07-07 06:10:33  #MKT News
+
+Peru president-elect Keiko Fujimori has appointed Julio Velarde to remain governor of the Central Reserve Bank of Peru.
+
+---
+
+### 2026-07-07 06:02:47  #MKT News
+
+【Canada selects Thyssenkrupp Marine Systems as preferred supplier for next‑gen submarines】Canada's prime minister Carney said Ottawa has named Germany's Thyssenkrupp Marine Systems (TKMS) as the preferred supplier for its next‑generation submarine fleet and will begin negotiations. The federal budget has earmarked an estimated cost for 12 submarines; the procurement is projected to raise Canadian defence spending to about 4% of GDP by 2030. Canada aims to sign a contract with the preferred bidder by end‑2027, with the first four submarines scheduled for early delivery in 2034. If negotiations with TKMS fail, Ottawa may open talks with South Korea's Hanwha Ocean. TKMS is a leading German naval shipbuilder and a core supplier in the global conventional‑submarine market.
+
+---
+
+### 2026-07-07 06:02:23  #其他
+
+淡水河谷董事會主席Daniel Stieler離職。
+
+---
+
+### 2026-07-07 06:02:20  #公司 #國際
+
+【加拿大選定德國軍工企業為加海軍潛艇艦隊首選供應商】當地時間6日，加拿大總理卡尼宣佈，已選定德國蒂森克虜伯海洋系統公司（TKMS）為加海軍下一代潛艇艦隊的首選供應商，將開始相關談判。卡尼表示，此次採購將是“加拿大歷史上規模最大的一次”，加方正在聯邦預算中為12艘潛艇的採購預留預估費用。據悉，此次採購將使加拿大到2030年時，國防支出達到其國內生產總值的4%。加拿大最遲將於2027年底完成合同簽訂，首批四艘潛艇將於2034年提前交付。如果與首選供應商的談判失敗，加拿大可能與韓國企業韓華海洋展開談判。蒂森克虜伯海洋系統公司是德國領先的海軍艦艇建造企業，全球常規潛艇市場的核心供應商之一。（央視新聞）
+
+---
+
+### 2026-07-07 06:00:08  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為74.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.3%，累計加息25個基點的機率為25.7%。 美聯儲到9月維持利率不變的機率為42.9%，累計加息25個基點的機率為46.2%，累計加息50個基點的機率為10.8%。
+
+---
+
+### 2026-07-07 05:57:40  #國際
+
+【美國專利商標局撤銷“和平委員會”商標申請】美國專利商標局（USPTO）撤銷了針對總統特朗普發起的“和平委員會”（Board of Peace）專案的商標申請，該申請原本試圖獲取“Board of Peace”一詞及一款風格化標誌的品牌權。相關申請由專利商標局局長約翰·斯夸爾斯（John Squires）親自提交。他表示此舉是為了應對針對該專案域名的“搶注圈地”行為，但這些申請被指可能違反商標法而備受批評。眾議員傑米·拉斯金（Jamie Raskin）將撤銷申請稱為“值得歡迎且必要的糾偏”，同時繼續對“和平委員會”專案及其資金來源缺乏透明度提出質疑。
+
+---
+
+### 2026-07-07 05:41:10  #MKT News
+
+【Russian deputy foreign minister: Russia will maintain contact with US on Ukraine】Russian Deputy Foreign Minister Ryabkov said on the 6th Moscow will continue contact with Washington on Ukraine despite what he called increasing US departures from agreements reached between the two sides. Earlier, US President Trump said a settlement could come "much faster than people think." Ryabkov added that if the US is prepared to act on proposals put forward by Moscow, the conflict could indeed be resolved quickly.
+
+---
+
+### 2026-07-07 05:35:15  #國際
+
+【俄副外長：俄方將與美國在烏克蘭問題上保持接觸】俄羅斯副外長里亞布科夫6日表示，儘管美國越來越背離其同俄方在烏克蘭問題上達成的協議，但俄方不會中斷同美方在該問題上的接觸。美國總統特朗普當天早些時候稱，解決俄烏衝突將“比人們認為的要快得多”。里亞布科夫就此回應說，如果美國準備在俄方向美方提出的方案基礎上採取行動，衝突確實很快能得到解決。（新華社）
+
+---
+
+### 2026-07-07 05:33:33  #其他
+
+【西江發生2026年第2號洪水】受降雨及干支流來水影響，珠江流域西江中游幹流大藤峽水利樞紐（廣西桂平）7月7日1時入庫流量漲至25200立方米每秒，依據水利部《全國主要江河洪水編號規定》，此次洪水編號為“西江2026年第2號洪水”。
+
+---
+
+### 2026-07-07 05:32:48  #MKT News #Market Themes #The Trump Trade
+
+A Democratic state attorney general has opposed Trump’s proposal to impose import tariffs of up to 12.5% on goods from 60 countries.
+
+---
+
+### 2026-07-07 05:31:56  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-07-07 05:31:03  #MKT News #Commodities #Energy #WTI #Impact bearish #DXY #Impact bullish #S&P500 #Impact mixed
+
+【U.S. earnings season to start; investors expect solid Q2 results but worry about oil-price hit】Summit Place Financial Advisors says markets expect broadly solid Q2 corporate results, but investors will focus on high oil prices’ impact on costs, margins and final product prices. The firm adds inflationary pressure from rising energy costs may take months to fully transmit, leaving the Fed limited room to cut rates in the near term and likely on the sidelines.
+
+---
+
+### 2026-07-07 05:28:26  #公司 #觀點 #國際
+
+Syntiant Corp：持股比例不低於 5% 的股東包括英特爾投資公司、微軟全球金融以及樓氏電子。 花旗集團、美國銀行證券、瑞銀投行、尼達姆公司以及斯蒂費爾是其首次公開募股的承銷商。
+
+---
+
+### 2026-07-07 05:22:59  #MKT News
+
+【Armenian PM says seeks constructive resolution with Russia, wants continued EAEU participation】Armenian Prime Minister Pashinyan said on the 6th in Yekaterinburg that Armenia is willing to further develop ties with Russia and is keen to continue participating in Eurasian Economic Union (EAEU) activities. He acknowledged recent problems in Armenia-Russia relations, said Yerevan favors constructive talks and hopes the meeting with Russian Prime Minister Mishustin will resolve those issues, and said Armenia wants EAEU mechanisms to continue functioning to support the union’s development.
+
+---
+
+### 2026-07-07 05:21:47  #MKT News
+
+TKMS CEO says extent of the firm's backlog increase will depend on the effective date of the Canadian submarine contract.
+
+---
+
+### 2026-07-07 05:20:49  #國際
+
+【亞美尼亞總理：希望以建設性方式解決同俄羅斯的問題】亞美尼亞總理帕什尼揚6日表示，亞方有意願同俄羅斯進一步發展關係，並對繼續參加歐亞經濟聯盟的活動抱“濃厚興趣”，希望以建設性方式解決同俄方之間的問題。帕什尼揚6日在俄羅斯葉卡捷琳堡市同俄總理米舒斯京舉行會談時說，最近亞俄兩國關係出現一些問題，亞方致力於同俄方進行建設性討論，希望此次會談能解決這些問題。他說，亞方願意繼續參加歐亞經濟聯盟的活動，確保聯盟機制繼續有效運作，這有利於聯盟進一步發展。（新華社）
+
+---
+
+### 2026-07-07 05:19:37  #MKT News #TKA.DE #Impact bullish
+
+TKMS CEO says the company aims to secure a formal contract for the Canadian submarine order by end-2026.
+
+---
+
+### 2026-07-07 05:19:36  #MKT News #RIVN.O
+
+Rivian expects Q2 revenue of $1.55–1.65 billion.
+
+---
+
+### 2026-07-07 05:19:28  #MKT News #WMT.O #Impact bearish
+
+Walmart cut prices on multiple categories, including groceries, household goods and apparel.
+
+---
+
+### 2026-07-07 05:19:25  #MKT News #WMT.O
+
+Walmart cuts ground-beef price to $5.94 per lb from $6.74 per lb.
+
+---
+
+### 2026-07-07 05:15:24  #市場
+
+富時A50期指連續夜盤收平，報14951點。
+
+---
+
+### 2026-07-07 05:15:09  #央行 #其他
+
+阿根廷央行調查顯示，該國未來12個月通脹預期為22.3%。
+
+---
+
+### 2026-07-07 05:11:55  #MKT News #Commodities #Energy #WMT.O #Impact bullish
+
+Walmart's Sam's Club will continue offering competitive fuel prices and has reduced prices on more than 250 items to boost consumer value.
+
+---
+
+### 2026-07-07 05:11:39  #公司
+
+沃爾瑪公司：山姆會員店持續推出極具競爭力的燃油價格，為顧客帶來實惠油價，同時下調 250 餘種商品售價。消費者可在食品雜貨、家居日用品、戶外用品、玩具及服飾品類享受優惠，各類日常必需品全面降價。
+
+---
+
+### 2026-07-07 05:11:35  #MKT News #RIVN.O #Impact bearish
+
+Rivian filed paperwork with the SEC proposing an offering of 75 million Class A common shares.
+
+---
+
+### 2026-07-07 05:11:12  #其他
+
+沃爾瑪：碎牛肉售價由 6.74 美元下調至 5.94 美元。
+
+---
+
+### 2026-07-07 05:09:12  #市場 #焦點
+
+比特幣升破64000美元，日內漲1.01%。
+
+---
+
+### 2026-07-07 05:08:51  #其他
+
+“特斯拉勁敵”Rivian二季度營收初步估算為15.5億-16.5億美元，分析師預期14.4億美元。
+
+---
+
+### 2026-07-07 05:05:36  #國際
+
+【法國稱已撤回所有駐布吉納法索外交人員】法國外交部當地時間6日表示，該國所有駐布吉納法索的外交官均已回國，布吉納法索駐法外交人員也須於當天晚間前離開法國。布吉納法索政府6月26日晚釋出公報宣佈，決定即日起斷絕與法國的外交關係。公報稱，這一決定是在對布法兩國當前雙邊關係狀況進行深入評估之後作出的。布方認為，布法兩國關係應建立在相互尊重國家主權、相互信任以及互不干涉內政的基礎上，但現在雙邊關係的基礎已不復存在。法國外交部6月26日釋出公報說，法國對這一“敵對且毫無根據的決定”表示遺憾，這反映了布吉納法索當局的傾向“令人擔憂”。 (央視新聞)
+
+---
+
+### 2026-07-07 05:03:38  #其他
+
+明晟（MSCI）：調整全球標準指數的極端股價異動篩選規則，2026 年 8 月正式實施。
+
+---
+
+### 2026-07-07 04:59:37  #市場
+
+週一（7月6日）紐約尾盤，現貨黃金跌0.32%，報4163.55美元/盎司。COMEX黃金期貨漲1.19%，報4175美元/盎司。現貨白銀跌0.62%，報62.0263美元/盎司。COMEX白銀期貨漲2.31%，報62.475美元/盎司。COMEX銅期貨漲1.41%，報6.2560美元/磅。現貨鉑金跌0.62%，現貨鈀金跌0.21%。
 
 ---
 
@@ -18949,245 +19186,5 @@ Israeli Prime Minister Netanyahu said he spoke by phone with US President Trump 
 ### 2026-07-05 01:13:03  #MKT News
 
 【Iran intelligence ministry says it eliminated four groups linked to US, Israeli intelligence】Iran’s Ministry of Intelligence said it discovered and eliminated four organized terrorist and separatist groups it said were linked to US and Israeli intelligence agencies. The ministry said IRGC members and police carried out operations in Zahedan, Chabahar, Iranshahr, Hash and Taftan.
-
----
-
-### 2026-07-05 01:11:13  #MKT News
-
-A US official said several senior aides to Trump believe Netanyahu has misjudged every issue.
-
----
-
-### 2026-07-05 01:10:15  #MKT News
-
-U.S. President Trump said he was surprised Iranians were crying at Khamenei's funeral because he had expected people to dislike him, and suggested the displays might be fake tears.
-
----
-
-### 2026-07-05 01:05:47  #公司
-
-【若伯納姆出任英國首相 米利班德的去向或成定義其執政路線的關鍵】隨著安迪·伯納姆權衡，一旦出任英國首相將如何任命核心團隊，一項頗具爭議的決定可能會定義他的任期：埃德·米利班德將擔任怎樣的角色。米利班德曾任工黨領袖，工黨在他帶領下於2015年敗選，如今在基爾·斯塔默政府中擔任頗具影響力的能源大臣。他在推動伯納姆逼近權力頂峰的過程中發揮了關鍵作用，協助促成斯塔默出局，並就經濟政策向這位可能的繼任者提供建議。這使米利班德成為博彩公司眼中接替蕾切爾·裡夫斯出任英國財政大臣的頭號熱門，也引發投資者不安。他們擔心，米利班德會推動政府向左轉，並增加借貸規模。此外，許多工黨議員也擔心，把政府中權力第二大的職位交給一位曾帶領工黨敗選、且與淨零政策聯絡緊密的人，可能帶來政治後果，而這些淨零政策已在一定程度上促使部分選民轉向英國改革黨。埃克塞特大學政治經濟學教授Harry Pitts表示，任命米利班德將被視為爭取左翼選民、而非民粹右翼選民的一項戰略舉措。“這是一個關鍵決定，”他說，“最終可能會成為外界定義伯納姆整體路線的關鍵。”
-
----
-
-### 2026-07-05 01:02:14  #MKT News #Important
-
-【Iran envoy in Beijing says Tehran will charge Strait of Hormuz transit service fees under international norms】Abdolreza Rahmani Fazli told media in Beijing during the World Peace Forum that Iran plans to levy service fees for Strait of Hormuz transit in line with international practice. He said transit had been unimpeded prior to the outbreak of hostilities involving the US, Israel and Iran; Tehran has not announced tariffs but intends fees to cover navigation safety, pilotage and environmental protection costs, consistent with other international waterways. Fazli added the strait's traffic is gradually returning to normal and the Iran‑Oman jointly managed channel is restoring order.
-
----
-
-### 2026-07-05 01:01:35  #國際
-
-特朗普政府為數百萬18歲以下美國兒童推出新型投資賬戶：符合條件的新生兒可一次性獲得1000美元聯邦撥款，同時家庭與企業僱主可後續持續追加存入資金。
-
----
-
-### 2026-07-05 01:00:41  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Trump: U.S. and Iran to refrain from firing until Khamenei's funeral ends】Trump said the U.S. and Iran have agreed to pause hostilities and negotiations for one week until Khamenei's funeral concludes. He added Iran is seeking a deal and that neither side will attack during the pause, noting a single strike could eliminate the other side but they are refraining to preserve talks.
-
----
-
-### 2026-07-05 00:59:47  #國際
-
-在伊朗領袖哈梅內伊的葬禮現場，出現一塊手寫標語牌，上面寫著： “我們要殺死特朗普。”
-
----
-
-### 2026-07-05 00:59:05  #國際
-
-美方一名官員透露： 特朗普身邊多位核心幕僚都認為，內塔尼亞胡在所有事務上都判斷失誤。
-
----
-
-### 2026-07-05 00:58:31  #國際
-
-特朗普稱伊朗正“迫切想要達成協議”，但雙方商定暫停核談判一週，待哈梅內伊葬禮相關事宜全部結束後再重啟。 他補充表示，休談期間雙方不會互相發動襲擊。
-
----
-
-### 2026-07-05 00:58:12  #MKT News
-
-Iran said it thanked national delegations for resisting external "pressure and intimidation" and attending the funeral of Supreme Leader Khamenei.
-
----
-
-### 2026-07-05 00:57:39  #焦點 #國際
-
-【伊朗駐華大使：計劃按國際通行標準對霍爾木茲海峽通航收服務費】伊朗駐華大使阿卜杜勒雷扎·拉赫馬尼·法茲裡4日在北京出席第十四屆世界和平論壇期間接受媒體採訪時表示，伊朗計劃按照國際通行標準對霍爾木茲海峽通航收取服務費。法茲裡表示，在美以伊戰爭爆發前，霍爾木茲海峽通航一直暢通無阻。目前，伊朗也沒有說要收(通行)費或關稅，而是計劃按照國際通行標準收取服務費，用於保障通航安全、導航以及環境保護等常規開支，此舉與世界上其他水道的做法一致。關於霍爾木茲海峽當前狀況，法茲裡說，目前該海峽通航正逐步恢復正常，伊朗與阿曼共同管理的通道正在重建秩序。
-
----
-
-### 2026-07-05 00:56:38  #國際
-
-伊朗感謝各國代表團不懼“施壓與恐嚇”，出席領袖哈梅內伊的葬禮。
-
----
-
-### 2026-07-05 00:54:01  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
-
-Trump: US and Iran have agreed to pause talks for one week. Until matters related to Khamenei's funeral conclude, the US and Iran will not fire on each other.
-
----
-
-### 2026-07-05 00:52:21  #焦點 #國際
-
-特朗普：哈梅內伊葬禮相關事宜結束前，美伊雙方互不交火。
-
----
-
-### 2026-07-05 00:51:58  #國際
-
-特朗普：美國和伊朗決定暫停會談一週。
-
----
-
-### 2026-07-05 00:51:25  #MKT News #Important
-
-【Netanyahu may visit White House after NATO summit, Trump says】Axios reports President Trump said Israeli Prime Minister Netanyahu has requested a White House meeting, possibly as soon as next week after Trump finishes the NATO summit. Trump said “we get along well” and that Netanyahu “knows who’s boss.”
-
----
-
-### 2026-07-05 00:49:34  #國際
-
-市場資訊：特朗普對部分伊朗民眾在哈梅內伊葬禮上落淚一事感到意外。
-
----
-
-### 2026-07-05 00:48:56  #MKT News #Market Regions #Europe & UK
-
-RUSSIAN DEFENCE MINISTRY said Russia proposed a six-hour ceasefire in Konstantinovka on Monday to facilitate transfer of bodies and expects Ukraine to respond by Sunday midday.
-
----
-
-### 2026-07-05 00:48:40  #焦點 #國際
-
-【內塔尼亞胡擬造訪白宮，特朗普稱其“清楚誰才是主事之人”】特朗普週六接受採訪時透露，以色列總理內塔尼亞胡主動請求前往白宮與他會晤；特朗普出席北約峰會歸國後，雙方最早下週便可會面。特朗普表示：“我們相處得很不錯，內塔尼亞胡心裡清楚誰才是主事的人。”
-
----
-
-### 2026-07-05 00:47:47  #國際
-
-特朗普：內塔尼亞胡“知道誰才是老大”。
-
----
-
-### 2026-07-05 00:47:19  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump and Netanyahu could meet as early as next week.
-
----
-
-### 2026-07-05 00:46:20  #焦點 #國際
-
-特朗普與內塔尼亞胡或最早於下週舉行會晤。
-
----
-
-### 2026-07-05 00:46:12  #MKT News
-
-Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action.
-
----
-
-### 2026-07-05 00:39:48  #MKT News
-
-TASS reported Kremlin spokesman Peskov said Ukrainian President Zelenskiy can come to Moscow to meet Russian President Putin at any time once he is prepared to make an important and responsible decision.
-
----
-
-### 2026-07-05 00:30:50  #其他
-
-市場資訊：金融資料企業基本打消了市場對於人工智慧工具將取代自身的擔憂。如今投資者關心的是，當人工智慧智慧體消耗的資料量遠超人類分析師時，誰來承擔資料呼叫的計費成本。
-
----
-
-### 2026-07-05 00:30:16  #MKT News
-
-【European Parliament proposes deregistering EU group affiliated with German far-right Choice party】The European Parliament is considering a proposal that could strip the EU parliamentary group led by Germany's far-right Choice party, "Sovereign States of Europe," of its registration and EU funding for alleged breaches of EU core values.
-
----
-
-### 2026-07-05 00:28:36  #國際
-
-【歐洲議會擬取締德國極右翼政黨選擇黨所屬歐盟黨團】歐洲議會正審議一項舉措，因涉嫌違背歐盟核心價值觀，該方案可能撤銷由德國選擇黨領導的 “主權國家歐洲” 黨團註冊資格，並剝奪其歐盟撥款。
-
----
-
-### 2026-07-05 00:26:58  #MKT News
-
-【India lifts gas supply restrictions as Middle East LNG flows resume】India's government said on Saturday it has revoked restrictions on natural gas suppliers after LNG supplies from the Middle East resumed. In March, following a disruption to LNG transport through the Strait of Hormuz, New Delhi ordered emergency measures to divert gas from non-priority users to critical consumers.
-
----
-
-### 2026-07-05 00:20:49  #國際
-
-【伊代理防長：應地區友國請求籤署停火諒解 違約將果斷回擊】伊朗代理國防部長馬吉德·伊本·禮薩表示，儘管伊朗對美國心存戒備，但應地區友好國家的請求，德黑蘭方面簽署了停火諒解檔案。他稱，若該諒解檔案中的相關承諾遭到違背，伊朗將作出“必要且堅決的”回應。
-
----
-
-### 2026-07-05 00:16:33  #國際
-
-美國司法部拒絕遵照聯邦法院的指令，移交經過刪節處理的傑弗裡·愛潑斯坦調查卷宗。
-
----
-
-### 2026-07-05 00:15:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Russia, Ukraine exchange large-scale strikes; Russia says it seized four populated localities】Russia and Ukraine each launched large-scale strikes overnight from the evening of the 3rd to the early hours of the 4th, both sides said. Russia said its forces had taken control of four populated localities in Kharkiv region. The Russian Defence Ministry said on the 4th that in the past 24 hours Russian strikes targeted Ukrainian fuel, energy and transport infrastructure in 142 locations, plus facilities producing and storing long-range UAVs, and temporary deployments of Ukrainian forces and foreign mercenaries. The ministry added that Russian air defences destroyed 10 "Flamingo" cruise missiles, nine HIMARS rockets, 16 guided aerial bombs and 893 fixed-wing drones.
-
----
-
-### 2026-07-05 00:14:18  #國際
-
-【俄烏大規模互襲 俄軍稱控制多個居民點】據俄羅斯和烏克蘭方面訊息，3日晚至4日凌晨，俄烏軍隊針對對方目標發動大規模襲擊。俄軍稱，在哈爾科夫州控制的居民點增加了4個。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。（新華社）
-
----
-
-### 2026-07-05 00:12:05  #MKT News
-
-【Russian drones continue destroying Ukrainian military fuel infrastructure】Operators of the "Geranium-4" drone destroyed a fuel storage facility in Ukraine's Kharkiv region, a depot previously used to supply Ukrainian forces.
-
----
-
-### 2026-07-05 00:11:54  #國際
-
-特朗普賬戶（Trump Accounts）正式上線。
-
----
-
-### 2026-07-05 00:11:06  #MKT News
-
-The U.S. Treasury announced it has activated full functionality for President Trump's account and app.
-
----
-
-### 2026-07-05 00:08:56  #MKT News #WTI #Impact bearish #Brent
-
-Indian government lifts emergency controls on gas supply that were imposed after LNG supply disruptions triggered by the Middle East crisis.
-
----
-
-### 2026-07-05 00:07:39  #國際
-
-印度解除中東危機引發液化天然氣供應中斷後實施的天然氣供應緊急管控。
-
----
-
-### 2026-07-05 00:07:11  #MKT News #Commodities #Energy
-
-【Turkey's Erdogan, Pakistan's Shehbaz hold talks on multi‑sector cooperation】On the 4th Turkish President Erdogan met Pakistan Prime Minister Shehbaz Sharif at the presidential palace and held a joint press conference. Erdogan said Turkey is closely monitoring developments in the Middle East. The leaders discussed expanding trade and investment ties, with Erdogan saying Turkey seeks deeper cooperation with Pakistan in energy, transport, critical minerals and information technology.
-
----
-
-### 2026-07-05 00:06:34  #MKT News #Important #Market Themes #Chip Wars #005930.KS
-
-ANTHROPIC has begun early-stage R&D on a proprietary AI chip and is in talks with Samsung Electronics to consider Samsung as a potential chip foundry partner. The move, mirroring OpenAI, aims to boost control over the high-cost compute hardware that supports its large models.
-
----
-
-### 2026-07-05 00:06:15  #國際
-
-法國總統釋出照片祝賀美國建國250週年。
 
 ---
