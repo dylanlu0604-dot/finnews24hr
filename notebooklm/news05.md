@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-11 18:28:41_
-_本檔包含 3138 則快訊，約 616261 字_
+_更新時間：2026-07-11 19:32:25_
+_本檔包含 3140 則快訊，約 616843 字_
+
+---
+
+### 2026-07-07 02:11:37  #MKT News
+
+Lebanese President Aoun said there is no rupture in his relationship with Parliament Speaker Nabih Berri.
+
+---
+
+### 2026-07-07 02:09:34  #MKT News
+
+【Lithuanian president approves new cabinet list】President Gitanas Nausėda on the 6th approved a new cabinet list led by Prime Minister Mindaugas Sinkevičius, the presidential office said. The list retains some incumbents, including Foreign Minister Kęstutis Budrys, and reshuffles several portfolios. The Ruginienė government resigned on June 23 and is serving as a caretaker; parliament on June 30 approved Sinkevičius as prime minister and Social Democrats chair. Under Lithuanian law, following formal appointment (the parliamentary vote), Sinkevičius has 15 days to submit the president‑approved cabinet list and policy program to parliament; the new government takes office after parliamentary approval.
+
+---
+
+### 2026-07-07 02:07:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Waller: inflation risks now outweigh employment risks; markets eye July CPI】Fed governor Waller said the US labor market has stabilized while inflation has re-accelerated, and that inflation risks now exceed employment risks—a full reversal from a year ago when weak jobs supported rate-cut bets. He said policy focus should shift back to containing inflation. Markets are focused on June CPI due July 14, the last major inflation print before the Fed's July 28-29 meeting. International oil has fallen to roughly $70/bbl, but Fed officials still expect year-end inflation to be materially above the 2% target. Markets price a hike by September at the latest; July hike probability is about 25%, and several officials have signaled further tightening.
+
+---
+
+### 2026-07-07 02:06:21  #MKT News
+
+Lebanon's President Aoun said he will not meet Netanyahu.
+
+---
+
+### 2026-07-07 02:04:20  #國際
+
+【立陶宛總統批准新內閣名單】立陶宛總統瑙塞達6日批准由總理明道加斯·辛克維丘斯領導的新一屆內閣名單。根據總統府當天釋出的訊息，新內閣保留包括外交部長凱斯圖蒂斯·佈德里斯在內的部分原班人馬，調整多個部長職位。魯吉尼埃內政府6月23日宣佈辭職，現為看守政府。立陶宛議會6月30日舉行投票，批准立陶宛社會民主黨主席辛克維丘斯為政府總理。按照立陶宛法律，自獲得正式任命（即議會投票批准）之日起，辛克維丘斯須在15天內將經總統批准的新內閣名單和施政綱領提交議會審議，獲議會批准後新政府即正式履職。（央視新聞）
+
+---
+
+### 2026-07-07 02:03:00  #其他
+
+英國ITV與康卡斯特旗下天空電視臺達成 21 億美元交易。
+
+---
+
+### 2026-07-07 02:02:52  #MKT News
+
+Politico reports U.S. Secretary of State Rubio said the U.S. may discuss the decision to issue red cards to U.S. players with allies including Belgium at tomorrow's NATO meeting.
+
+---
+
+### 2026-07-07 01:57:45  #MKT News
+
+The US Supreme Court declined to block a Texas law requiring age verification and parental consent before minors may download apps.
+
+---
+
+### 2026-07-07 01:54:33  #國際
+
+法國與敘利亞將於明日簽署多項雙邊協議。
+
+---
+
+### 2026-07-07 01:54:02  #MKT News
+
+French presidency said President Macron and Syrian President Shala will co-chair an economic conference on Syria’s reconstruction tomorrow.
+
+---
+
+### 2026-07-07 01:53:52  #MKT News
+
+French presidency says Macron and Syrian President Shala will sign multiple bilateral agreements tomorrow.
+
+---
+
+### 2026-07-07 01:49:43  #市場 #觀點 #央行 #國際
+
+【摩根士丹利建議押注美聯儲加息預期消退】摩根士丹利的利率策略師建議，隨著美聯儲加息預期減弱，投資者應押注較短期限美國國債收益率相對於較長期限品種下行。其結果將是美國國債收益率曲線趨陡，即較短期限與較長期限之間利差擴大。具體而言，摩根士丹利7月2日建議押注7年期與30年期美國國債利差擴大。該利差週一美國交易時段接近65個基點，而摩根士丹利提出建議時為63個基點。該行將利差目標設在100個基點。儘管7月2日釋出的6月就業資料疲軟，促使美國利率市場下調對美聯儲收緊幅度的定價，但Matthew Hornbach等策略師寫道，市場定價仍然過高。“就業資料趨弱疊加當前市場定價，為投資者重新佈局美債曲線趨陡交易創造了機會，”他們寫道。
+
+---
+
+### 2026-07-07 01:47:42  #市場
+
+【美股太空概念股持續走低】美股太空概念持續走低，SpaceX跌近3%，即將納入納指100；Rocket Lab跌超7%，AST SpaceMobile跌超5%。
+
+---
+
+### 2026-07-07 01:46:56  #MKT News
+
+U.S. House Speaker Johnson said Republicans, working with President Trump and accusing Democrats of ignoring, denying or even enabling fraud, will root out alleged waste, fraud and abuse in Democratic-led states to prevent misuse of taxpayer funds.
+
+---
+
+### 2026-07-07 01:45:56  #公司
+
+【宇樹科技科創板IPO註冊生效 有望衝擊A股“人形機器人第一股”】7月6日，上交所官網顯示，宇樹科技股份有限公司（以下簡稱“宇樹科技”）科創板IPO稽核狀態於7月2日變更為“註冊生效”。
+
+---
+
+### 2026-07-07 01:45:26  #焦點 #國際
+
+【老齡化未必拖累經濟 新研究表明人口萎縮反而有助繁榮】全球出生率下降令許多人擔心其經濟影響，有人預測增長將放緩，創新將減少。但一篇新論文指出，事實可能恰恰相反。根據Daron Acemoglu、David Autor、Keelan Beirne和Andrew Scott的一項新研究，從歷史上看，老齡化和人口萎縮會提高經濟體的人均產出，並沒有對整體國內生產總值產生抑制作用。研究發現，工人和企業會轉向利用技術來彌補勞動力減少，從而提高每名工人的生產率。Acemoglu曾獲得2024年諾貝爾經濟學獎。“我們的研究結果挑戰了普遍的悲觀看法。較低的出生率，以及由此產生的人口老齡化和人口萎縮，提高而不是降低了人均GDP，”作者們在美國國家經濟研究局釋出的一篇論文中寫道。這一增益“已經大到足以完全抵消人口下降的負面影響，使總國內生產總值基本不受影響”。Acemoglu和Autor是麻省理工學院經濟學教授，Beirne是該校經濟學博士研究生，Scott是倫敦商學院經濟學教授。
+
+---
+
+### 2026-07-07 01:45:07  #其他
+
+【湖北黃岡遭遇強對流天氣 城區部分割槽域一度斷電】6日晚8時許，湖北黃岡黃州區出現強對流天氣，造成城區部分割槽域一度斷電，樹木折斷，社群出現車輛損壞、店鋪受損等災情。災情發生後，當地組織救援力量投入搶險救災。據氣象部門預計，7月7日上午，黃岡市有大雨到暴雨、北部局地大暴雨並伴有雷暴大風、短時強降水等強對流天氣，累計雨量50~80毫米，局地150毫米左右，最大小時雨強40~70毫米。後面出現10級以上大風可能性較小，陣風7~9級為主。（央視新聞）
+
+---
+
+### 2026-07-07 01:43:26  #MKT News
+
+Sources said Israeli Prime Minister Benjamin Netanyahu asked US President Donald Trump to block US sales of weapons to Turkey that could enhance its air force.
+
+---
+
+### 2026-07-07 01:42:58  #國際
+
+以色列總理內塔尼亞胡請求特朗普阻止美國向土耳其出售可升級其空軍戰力的軍備。
+
+---
+
+### 2026-07-07 01:41:38  #MKT News
+
+【France says it has withdrawn all diplomatic staff from Burkina Faso】French media reported on the 6th that the French foreign ministry said all its diplomatic staff in Burkina Faso have been withdrawn to France. The ministry said Burkina Faso’s diplomats must leave France by the evening of the 6th. Burkina Faso’s government said in a June 26 communiqué it had immediately severed diplomatic relations with France, saying bilateral ties should be founded on mutual respect for sovereignty, trust and non‑interference and that foundation no longer exists. The French foreign ministry on June 26 called the decision “hostile and unfounded” and said it reflected “worrying” tendencies in Burkina Faso’s authorities.
+
+---
+
+### 2026-07-07 01:39:52  #國際
+
+【法國稱已撤回所有駐布吉納法索外交人員】據法國媒體6日報道，法國外交部說，該國所有駐布吉納法索的外交官均已回國。 法國外交部同時表示，布吉納法索的外交人員必須在6日晚之前離開法國。 布吉納法索政府6月26日晚釋出公報宣佈，決定即日起斷絕與法國的外交關係。公報稱，這一決定是在對布法兩國當前雙邊關係狀況進行深入評估之後作出的。布方認為，布法兩國關係應建立在相互尊重國家主權、相互信任以及互不干涉內政的基礎上，但現在雙邊關係的基礎已不復存在。 法國外交部6月26日釋出公報說，法國對這一“敵對且毫無根據的決定”表示遺憾，這反映了布吉納法索當局的傾向“令人擔憂”。(新華社)
 
 ---
 
@@ -18828,119 +18954,5 @@ Mali's military said the situation was 'fully under control' after insurgent att
 ### 2026-07-04 19:34:11  #其他
 
 【雲南消費品以舊換新、購新補貼品類擴容】據雲南省商務廳4日訊息，自2026年7月起雲南省在現有家電以舊換新、數碼和智慧產品購新補貼品類基礎上，新增9類補貼產品，並同步開放商戶增補報名通道。 新增產品分為兩個渠道實施：數碼和智慧產品購新補貼渠道新增智慧門鎖、智慧影音(含投影儀、音箱／音響)、智慧掃地機器人(含洗地機)、無人機、數碼相機(含運動相機)5類；家電以舊換新補貼渠道新增吸油煙機、家用燃氣灶(含整合灶)、洗碗機、淨水器4類。 補貼標準方面，按產品最終銷售價格(剔除所有折扣優惠後)的15%給予補貼，每位消費者每類產品可補貼1件，每件補貼不超過1500元。 商戶報名不設定行業、規模、區域限制性門檻，支援不同經營主體參與。有意願參與的經營主體可透過“雲南省家電數碼產品購新補貼商戶申報”平臺線上提交相關報名資訊。（中新網）
-
----
-
-### 2026-07-04 19:27:10  #公司
-
-【德才股份與香港利達建築集團簽署戰略合作協議】7月3日，香港利達建築集團董事長張偉儒、煙臺東昌供熱與新能源集團董事長楊永業、香港利達建築集團總監康志鋼一行蒞臨德才股份參觀交流。雙方圍繞業務協同、市場拓展等議題深入座談，並簽署戰略合作框架協議。
-
----
-
-### 2026-07-04 19:26:03  #國際
-
-【巴基斯坦一檢查站遭汽車炸彈襲擊 多人死傷】巴基斯坦官方訊息人士4日說，該國西南部俾路支省一個海岸警衛隊檢查站3日遭到汽車炸彈襲擊和武裝攻擊，造成4名安全人員死亡、16人受傷。有訊息人士披露，恐怖組織“俾路支解放武裝”宣稱制造了此次襲擊。（新華社）
-
----
-
-### 2026-07-04 19:25:20  #其他
-
-【中越會商研判颱風“美莎克”風雨影響 雲端氣象早期預警業務平臺首次應用於跨境颱風會商】從中國氣象局瞭解到，7月3日19時，世界氣象中心（北京）聯合越南氣象和水文局，並組織中央氣象臺、廣西壯族自治區氣象局等單位，就今年第10號颱風“美莎克”開展會商，國家衛星氣象中心等單位提供技術支援。中越雙方依託全民早期預警中國方案“媽祖（MAZU）”的雲端氣象早期預警業務平臺（以下簡稱早期預警平臺），共同研判颱風路徑、風雨影響及防禦服務重點。這也是該平臺首次應用於中越颱風會商。早期預警平臺是中國氣象局面向全球推出的公共產品，也是全球首個響應並推動落實聯合國全民早期預警倡議的系統。
-
----
-
-### 2026-07-04 19:23:48  #MKT News #Market Regions #Greater China
-
-【China successfully launches 13 Qianfan polar-orbit satellites】At 17:30 Beijing time on July 4, 2026, China launched 13 Qianfan polar-orbit satellites from Taiyuan Satellite Launch Center aboard a modified Long March-6 carrier rocket; all satellites reached their planned orbits and the mission was declared successful.
-
----
-
-### 2026-07-04 19:22:49  #其他
-
-【我國成功發射千帆極軌13組衛星】北京時間2026年7月4日17時30分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌13組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次任務是長征系列運載火箭的第655次飛行。（央視）
-
----
-
-### 2026-07-04 19:22:21  #其他
-
-馬裡軍方表示，在五座城鎮遭叛亂分子襲擊後，局勢“已完全得到控制”。
-
----
-
-### 2026-07-04 19:09:53  #國際
-
-烏克蘭稱俄羅斯在2026年損壞了超過200臺鐵路機車。
-
----
-
-### 2026-07-04 19:09:20  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-【ECB policymaker Moulin: inflation improving, central bank 'well placed'】ECB policymaker Moulin said on Saturday that following last month’s rate hike inflation has eased with a sharp fall in oil prices, leaving the central bank "well placed." He said the ECB does not give forward guidance and therefore will not signal what it will do in July. Moulin added the ECB's 2.25% policy rate is "very low" versus other central banks, that June's hike was "reasonable," and that ECB communication indicated the June increase did not mark the start of a new tightening cycle.
-
----
-
-### 2026-07-04 19:00:19  #其他
-
-【雲南大理州賓川縣一小時3次四級以上地震：當地震感明顯，部分列車將晚點】中國地震臺網正式測定，2026年7月4日17時33分、18時07分、18時28分，雲南省大理州賓川縣先後發生4.4級、4.3級、4.3級地震。為確保旅客列車執行安全，中國鐵路昆明局集團有限公司第一時間啟動應急響應，對大理東至洱海、洱海至西邑區間實施封鎖，緊急叫停該區段內執行列車，並安排工務、電務、供電等部門上線對線路裝置進行全面檢查。受此影響，大理往返昆明、麗江、香格里拉方向的部分旅客列車將出現不同程度晚點。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點導致的退票不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。（人民日報）
-
----
-
-### 2026-07-04 18:57:11  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-German Chancellor Merz held a phone call with Ukrainian President Zelenskiy to discuss Russian airstrikes on Kyiv and other parts of Ukraine.
-
----
-
-### 2026-07-04 18:56:14  #國際
-
-德國方面發表宣告稱，德國總理默茨與烏克蘭總統澤連斯基通電話，討論了俄羅斯對基輔和烏克蘭其他地區的空襲。
-
----
-
-### 2026-07-04 18:48:00  #宏觀
-
-【國家資料局局長劉烈宏：將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準】7月3日，2026全球數字經濟大會資料要素髮展論壇在京舉辦。國家資料局局長劉烈宏在致辭中表示，下一步將加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。劉烈宏表示，當前，行業資料價值釋放進入縱深推進的新階段，重點問題解決路徑更加明晰。“談到資料流通利用，大家經常提到資料資源分散、資料不出域、資料標準不統一等難點問題，在‘531’工作體系下，這些問題已在實踐中形成基本解決思路和路徑。”關於資料標準不統一的問題，劉烈宏提到：“我們提出以語義貫通破解格式壁壘，加快提升資料流通利用的效率，資料格式不統一是資訊化發展的產物，在數智化發展日新月異的今天，若要求所有的部門、行業、企業統一底層資料儲存的格式，代價是十分高昂的，效率也是不高的，在很多領域、很多場景下不具備現實的可行性。”他表示，解決這一問題，我們要逐步跳出原有的工作思路，要從重格式統一向語義貫通轉變，真正需要的是可互操作的規則層，而非底層儲存格式的大一統。在技術實現上要從靜態對齊向動態適配轉變，依託後設資料的掛載、語義對映等機制，實現資料自帶標準化語義，支撐機器自動識別上下文。“下一步我們將採取分類施策、分級推進的策略，在國家層面充分考慮資料與人工智慧發展雙向賦能需求，研究制定物件標準後設資料語義、介面協議等多方面的統一標準，加快出臺高質量資料集格式要求、質量評測、資料標註等國家標準。”劉烈宏說。（每經）
-
----
-
-### 2026-07-04 18:47:41  #MKT News
-
-【15-20 mln expected at Tehran farewell for late Supreme Leader Khamenei, July 4-6】Iran is holding public farewell and mourning ceremonies for the late Supreme Leader Khamenei in Tehran from July 4 to July 6; attendance is expected at 15-20 million.
-
----
-
-### 2026-07-04 18:47:35  #國際
-
-【上千萬伊朗人參與哈梅內伊告別儀式】今天（7月4日）開始到6日，伊朗已故最高領袖哈梅內伊的公眾告別與悼念儀式在伊朗首都德黑蘭舉行，預計將有1500萬至2000萬伊朗民眾前來為哈梅內伊送別。（CCTV國際時訊）
-
----
-
-### 2026-07-04 18:45:54  #國際
-
-【烏克蘭南部兩車相撞 已致12死6傷】當地時間4日，烏克蘭總統澤連斯基通報稱，烏南部尼古拉耶夫州發生一起交通事故，目前死亡人數已升至12人，另有6人受傷。
-
----
-
-### 2026-07-04 18:41:53  #宏觀
-
-【諶貽琴在陝西調研時強調 促進養老事業和養老產業發展 持續做強做大文旅產業】國務委員諶貽琴2日至4日在陝西調研民政、文旅等工作。她強調，要深入學習貫徹習近平總書記在慶祝中國共產黨成立105週年大會上的重要講話精神，堅決落實黨中央、國務院決策部署，大力促進養老事業和養老產業發展，持續做強做大文旅產業。諶貽琴先後來到咸陽市、西安市，深入企業、產業園、民俗村等，詳細瞭解穩崗擴崗、銀髮經濟、鄉村旅遊等情況，並與地方政府、企業家和專家座談。她指出，銀髮經濟涉及面廣、產業鏈長、業態多元、潛力巨大，要聚焦老年人的多樣化需求，擴大產品供給，提升質量水平，壯大經營主體，提高群眾生活品質。要加快健全分級分類、普惠可及、覆蓋城鄉、持續發展的養老服務體系，充分發揮消費補貼等政策牽引作用，著力打造一批銀髮消費新場景新業態，不斷把人口老齡化挑戰轉化為經濟發展的新機遇新動能。諶貽琴強調，要用好地方文化和旅遊資源，深入挖掘傳統節慶民俗特色，加力推出更多優質文化產品、精品旅遊線路，促進文旅消費均衡發展。要積極推進“文旅+百業”、“百業+文旅”，加大對文旅體、農文旅、文商旅等融合發展的支援力度，因勢利導打造經濟新增長點，助力經濟社會高質量發展。（新華社）
-
----
-
-### 2026-07-04 18:38:28  #其他
-
-中國地震臺網正式測定：07月04日18時28分在雲南大理州賓川縣（北緯25.95度，東經100.58度）發生4.3級地震，震源深度10千米。雲南省大理州賓川縣在一個小時內接連發生3次四級以上地震，造成當地震感明顯。
-
----
-
-### 2026-07-04 18:33:16  #MKT News
-
-【Multiple Malian military positions attacked】Malian armed forces said on the 4th multiple army positions were attacked in the early morning and that authorities are tracking developments. Positions hit were in the north at Aguelhok, Anefis and Gao, and in the central town of Sevare. The statement gave no details on the attackers, the sequence of events or casualties. Mali has faced persistent insecurity since 2012, with frequent terrorist attacks and armed clashes; the military has said it will continue operations against armed groups.
-
----
-
-### 2026-07-04 18:29:48  #其他
-
-【馬裡多地軍方陣地遭襲】馬裡武裝部隊4日釋出公報說，馬裡多地軍方陣地當天清晨遭到襲擊，目前軍方正跟蹤局勢發展。 公報說，遭襲陣地位於該國北部阿蓋洛克、阿內菲斯、加奧以及中部塞瓦雷等地。公報未說明襲擊者身份、具體經過以及是否有人員傷亡。（新華社）
 
 ---

@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-11 18:28:41_
-_本檔包含 3271 則快訊，約 616236 字_
+_更新時間：2026-07-11 19:32:25_
+_本檔包含 3281 則快訊，約 617028 字_
+
+---
+
+### 2026-07-08 08:41:37  #國際
+
+據伊朗媒體報道，當地時間今天（7月8日）凌晨4點左右，伊朗最大島嶼格什姆島再次發生爆炸，重要石油出口樞紐哈爾克島也傳出數次爆炸聲。（央視）
+
+---
+
+### 2026-07-08 08:39:40  #市場 #焦點
+
+現貨黃金突破4120美元/盎司，日內漲0.37%。
+
+---
+
+### 2026-07-08 08:39:36  #公司
+
+【澳大利亞Telstra網路中斷影響火車和支付 正恢復服務】Telstra表示，在澳大利亞這家最大的網路運營商遭遇間歇性中斷，導致火車停運和支付服務受到影響後，該公司正在努力恢復移動和資料服務。Telstra週三表示，這一全國性問題於悉尼時間凌晨4:30左右開始，是由該公司位於悉尼和墨爾本的資料中心的伺服器問題引起的。Telstra首席財務官邁克爾·阿克蘭(Michael Ackland)表示，這些伺服器（或稱節點）負責幫助整個網路保持時間同步，但當時未能按預期執行。阿克蘭表示，這家在澳交所上市的公司尚不清楚問題原因，但沒有證據表明該問題是駭客攻擊所致。阿克蘭說：“目前沒有任何跡象表明存在惡意活動。我們對此會繼續探究。”Telstra表示，已恢復約90%的通話和資料服務。
+
+---
+
+### 2026-07-08 08:39:00  #其他
+
+【英矽智慧首款AI藥物進入III期臨床研究】業界首款完成AI藥物臨床藥效驗證的候選藥物Rentosertib（ISM001-055）正式啟動III期臨床試驗（CTR20262475，NCT07687459），相關資訊已在中國國家藥品監督管理局藥品審評中心（CDE）平臺公示，並於ClinicalTrials.gov網站登記。這是英矽智慧旗下首款由自有生成式AI平臺Pharma.AI驅動的候選藥物，其創新靶點和新穎結構均由AI輔助發現，並具有“全球首創”潛力用於特發性肺纖維化（IPF）治療。
+
+---
+
+### 2026-07-08 08:38:46  #市場 #焦點
+
+紐約期金突破4130美元/盎司，日內跌0.66%。
+
+---
+
+### 2026-07-08 08:38:46  #其他
+
+【國內首套變壓器故障主動防禦裝置正式投入執行】國內首套投跳閘變壓器故障主動防禦裝置在特高壓天津南變電站成功投運。此次主動防禦裝置正式投入執行，標誌著我國變壓器故障主動防禦原創技術，取得從理論研究、實驗探索到產業化應用落地的重大階段性應用成果，實現電力安全防護領域關鍵技術突破。變壓器作為電力傳輸與分配的核心樞紐，其安全穩定執行直接關係到電網可靠性、能源供應安全性和社會經濟可持續發展。（經參報）
+
+---
+
+### 2026-07-08 08:37:14  #央行 #宏觀 #市場 #國際
+
+【韓國誓言加大力度穩定金融市場和經濟 並將制定“韓元國際化路線圖”】韓國財政部發布宣告稱，在包括匯市在內的高波動環境中，韓國將加大力度穩定經濟和金融市場。受外國和機構投資者獲利了結、再平衡相關拋盤以及全球人工智慧行業展望的影響，股市回撥，波動加劇；監管機構將密切關注可能引發市場過度動盪的風險因素。韓國將密切關注債券市場，並根據供求情況調整長期國債的發行量，以確保市場穩定。外匯市場方面，鑑於韓元的24小時交易制已經實施，官員們將加強24小時監測系統，以應對潛在夜間波動韓國將於7月最終確定並公佈“韓元國際化路線圖”，旨在增強韓元可兌換性及其在經常賬戶和資本賬戶交易中的應用。該宣告釋出於韓國財政經濟部長官具潤哲與央行行長申鉉松及金融監管機構官員開會之後。
+
+---
+
+### 2026-07-08 08:36:51  #國際
+
+【South32的Hermosa鋅錳專案獲得美國批准】美國林務局(U.S. Forest Service)已批准South32位於亞利桑那州南部的Hermosa鋅、銀和錳專案，為特朗普政府提振國內礦物產量的努力提供了支援。該林務局週二釋出了Hermosa專案的最終決定記錄，結束了在公共土地上進行基礎設施開發所需的環境審查程式。美國農業部長布魯克·羅林斯(Brooke Rollins)表示：“Hermosa關鍵礦物專案表明，增加國內產量可以減少我們對不穩定的海外供應來源的依賴，併為現代工業、先進技術和關鍵基礎設施提供動力。”
+
+---
+
+### 2026-07-08 08:36:06  #其他
+
+【“巴威”維持超強颱風級強度 逐漸趨向臺灣以東洋麵】今年第9號颱風“巴威”（超強颱風級）的中心今天（8日）早晨5點鐘位於臺灣基隆市東偏南方向約1650公里的洋麵上，就是北緯16.8度、東經134.9度，中心附近最大風力有17級（60米/秒），中心最低氣壓為920百帕，七級風圈半徑為350-500公里，十級風圈半徑280-300公里，十二級風圈半徑100-150公里。預計，“巴威”將以每小時20-25公里的速度向偏西方向移動，今天夜間逐漸轉向西北方向移動，強度變化不大，逐漸趨向臺灣以東洋麵。
+
+---
+
+### 2026-07-08 08:35:49  #MKT News #Star Stocks #Xiaomi
+
+【Xiaomi Auto names new product series SKYNOMAD】July 8 — Xiaomi Auto posted a SKYNOMAD-themed poster on its official Weibo announcing a new product series; the poster includes the Xiaomi logo and denotes 'SKY' as sky and 'NOMAD' as nomad.
+
+---
+
+### 2026-07-08 08:35:09  #市場 #焦點
+
+現貨黃金突破4110美元/盎司，日內漲0.11%。
+
+---
+
+### 2026-07-08 08:34:59  #市場 #焦點
+
+紐約期金突破4120美元/盎司，日內跌0.89%。
+
+---
+
+### 2026-07-08 08:34:40  #公司
+
+【OpenAI首席未來學家宣佈離職】大模型頭部廠商OpenAI首席未來學家（Chief Futurist）約書亞·阿奇亞姆（Joshua Achiam）發文表示，將於本月底離開這家他效力了近九年的公司。區別於首席科學家崗位主攻模型、演算法、技術研發落地，首席未來學家主要聚焦AI長期社會、政策、安全、宏觀影響。 對於此次離職，阿奇亞姆表示，離開沒有具體原因，而是他長久以來深思熟慮的結果。現在全世界都已經知道了AI發展潛力這個“秘密”，那麼到頂級前沿實驗室圍牆之外，似乎也同樣可以實現這一使命。他強調，自己依然堅信人類可以走向一個充滿和平、空前繁榮以及充滿無限社會與科學可能的未來，無論下一步去往何方，他都將繼續致力於推動這一願景的實現。阿奇亞姆的作別，是OpenAI近年來安全派系“離職潮”的又一典型案例。此前，OpenAI內部負責技術安全與對齊的多位頂尖人才相繼流失。包括前首席科學家伊利亞·蘇茨克維爾（Ilya Sutskever）、超對齊團隊負責人揚·雷克（Jan Leike）、前CTO米拉·穆拉蒂等。
+
+---
+
+### 2026-07-08 08:33:22  #市場 #國際
+
+韓國首爾綜指盤中一度接近轉漲，目前跌幅1.2%。
+
+---
+
+### 2026-07-08 08:33:17  #其他
+
+【颱風“巴威”正向我國靠近 預計在東南沿海登陸】今天（7月8日）早晨5點，今年第9號颱風“巴威”的中心位於臺灣基隆市東偏南方向約1650公里的洋麵上，預計，未來“巴威”將以每小時20至25公里的速度向偏西方向移動。目前來看，"巴威"登陸我國沒有懸念，具體登陸時間和地點仍需保持關注。颱風“巴威”個頭巨大，帶來的風雨影響力大，波及面廣，未來還將會疊加季風氣流輸入，不僅是東南沿海要嚴陣以待，內陸地區同樣不可忽視颱風可能導致的強降雨。
+
+---
+
+### 2026-07-08 08:32:44  #市場 #國際
+
+5年期日本國債收益率上升1.5個基點，至1.970%。
+
+---
+
+### 2026-07-08 08:31:57  #公司
+
+【9股獲券商買入評級，藏格礦業目標漲幅達75.22%】Wind資料顯示，7月7日，共有9只個股獲券商買入評級，其中2只個股公佈了目標價格。按最高目標價計算，藏格礦業、雅化集團目標漲幅排名居前，漲幅分別達75.22%、70.39%。從評級調整方向來看，7只個股評級維持不變，2只個股為首次評級。從獲買入評級個股所屬Wind行業來看，材料Ⅱ、半導體與半導體生產裝置、多元金融買入評級個股數量最多，分別有3只、1只、1只。
+
+---
+
+### 2026-07-08 08:31:44  #國際
+
+市場訊息：美國官員稱空襲針對伊朗防空和導彈系統。
+
+---
+
+### 2026-07-08 08:30:39  #MKT News #Macro & Rates #USDJPY #Impact mixed #DXY #XAUUSD
+
+【BOJ policymaker Asada: must see demand-driven inflation before backing rate hikes】BOJ policy board member Asada said he must see signs that demand is driving inflation before he would support further rate hikes, though he noted cost pass-through is occurring "relatively quickly," implying he could back hikes in future. Asada, the lone dissenter on the BOJ's June move to lift rates to 1% (a 31-year high), said he opposed that decision because Middle East uncertainty could weigh on output and employment. He said any future tightening requires inflation sustainably near 2% underpinned by wage growth and demand, conditions he judged not yet met. While oil prices have fallen and consumer inflation is easing, Asada warned earlier oil-driven price increases are transmitting relatively fast and could push broad goods prices higher.
+
+---
+
+### 2026-07-08 08:30:06  #焦點 #國際
+
+伊朗新聞電視臺稱，有報道稱格什姆島再次發生爆炸， 哈爾克島也傳出數次爆炸聲。
+
+---
+
+### 2026-07-08 08:30:01  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran's Press TV said Qeshm Island was hit by another explosion and several blasts were heard on Kharg Island off southern Iran.
+
+---
+
+### 2026-07-08 08:28:09  #宏觀 #市場 #國際
+
+【原油價格大漲 此前美國因霍爾木茲海峽船隻遇襲而打擊伊朗目標】原油價格大漲，此前美國對伊朗發動一波打擊，以報復伊朗在霍爾木茲海峽對船隻發動的一系列襲擊。布倫特原油價格上漲2.8%，突破每桶76美元，而WTI原油油價格也處於每桶72美元上方。美國中央司令部表示，美軍開始“強力打擊”，讓伊朗為其襲擊商船付出沉重代價。伊朗邁赫爾通訊社報道稱，霍爾木茲海峽附近一座島嶼傳出爆炸聲；伊朗外交部副部長Kazem Gharibabadi表示，德黑蘭將作出回應。美國財政部還撤銷了一項允許德黑蘭在全球出售石油的制裁豁免，此舉意味著美伊臨時和平協議的一項關鍵安排出現逆轉。週二有三艘船隻在這條水道遇襲，包括一艘天然氣運輸船和一艘沙特油輪，意味著事故次數達到協議上個月生效以來最多。歐洲天然氣期貨價格也大幅上漲，漲幅高達4.9%。
+
+---
+
+### 2026-07-08 08:27:28  #其他
+
+市場訊息：蘋果已開始測試長鑫儲存（CXMT）的記憶體晶片，用於在中國銷售的裝置。
+
+---
+
+### 2026-07-08 08:26:26  #公司 #市場 #國際
+
+SK海力士股價抹去跌幅，現漲1%。受美國市場因對人工智慧熱潮的擔憂而隔夜拋售影響，韓國晶片股盤初下跌，三星電子和SK海力士股價分別一度下跌4.4%和5%。
+
+---
+
+### 2026-07-08 08:24:53  #公司
+
+【英漢思總部落戶光谷 研發國產化“造光母機”】據中國光谷公眾號，7月7日，英漢思技術有限公司（簡稱“英漢思”）簽約落戶武漢未來科技城，英漢思成立於2024年，專注研發生產MOCVD裝置。MOCVD是化合物半導體光電子器件的關鍵外延裝置，透過化學氣相沉積，在襯底上生長出決定晶片光電效能的單晶薄膜——沒有這層“地基”，晶片就“長”不出來，因此MOCVD也被稱為“造光母機”。
+
+---
+
+### 2026-07-08 08:22:54  #市場 #國際
+
+30年期日本國債收益率上漲1.0個基點，至3.950%。
+
+---
+
+### 2026-07-08 08:22:39  #其他
+
+【四川宜賓高縣連續發生多次地震 途經這些區段的列車將晚點】據宜賓車務段訊息，成貴高鐵、成宜高鐵、渝昆高鐵、內六鐵路沿線部分車站均有不同程度震感。為確保旅客列車執行安全，鐵路部門迅速啟動應急預案，全面巡檢行車裝置，排查安全隱患。受此影響，途經這些區段的旅客列車將不同程度晚點，可能影響接續的始發列車晚點。
+
+---
+
+### 2026-07-08 08:21:55  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【Chen Guo: Korean memory downturn wouldn’t end global tech bull】Chen Guo, deputy director and chief strategist at East Money Research Institute, said a downturn in the Korean memory-chip sector would not signal the end of the global tech bull and may simply reflect intra-tech rebalancing. He said the move would not imply the end of an A-share re-rating; RMB assets still have room to be re-rated, with particularly large upside for high-quality carbon-based assets in China’s A-share market.
+
+---
+
+### 2026-07-08 08:21:11  #國際
+
+【陳果：韓儲存若走熊，並不能代表全球科技牛結束】東方財富研究所副所長、首席策略官陳果表示，韓國儲存若走熊，並不能代表全球科技牛結束，也可以是科技產業內部再平衡。更重要的是，其更不能代表A股重估牛結束。認為當前人民幣資產依然有一定重估空間，尤其當前中國股市的優質碳基資產重估空間依然巨大。
+
+---
+
+### 2026-07-08 08:21:07  #MKT News #000660.KS #Impact bullish
+
+SK Hynix shares turned positive intraday after earlier falling as much as 5%.
+
+---
+
+### 2026-07-08 08:20:33  #國際
+
+【中方代表在聯合國人工智慧治理全球對話首次會議上發言 】在聯合國人工智慧治理全球對話首次會議上，中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德就“彌合人工智慧鴻溝”專題作發言。 賈桂德表示，人工智慧正深刻重塑各國發展格局和全球治理架構，各方應以普惠包容為立足點、以聯合國為主渠道、以能力建設為著力點，塑造包容、開放、可持續、公平、安全和可靠的數智未來。數字主權意味著各國有權自主選擇人工智慧產品，不應被脅迫選邊站隊。 賈桂德強調，中國是人工智慧能力建設的倡導者、推動者和先行者，提出《全球人工智慧治理倡議》，助力各國共享智慧紅利。中國將舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待各方積極參與，彌合人工智慧鴻溝。
 
 ---
 
@@ -19620,131 +19806,5 @@ Israel's ambassador to the United States said the next round of talks between Is
 ### 2026-07-07 02:11:50  #MKT News
 
 Lebanese President Aoun said reports that a force would be formed to implement the "pilot area agreement" are unfounded.
-
----
-
-### 2026-07-07 02:11:37  #MKT News
-
-Lebanese President Aoun said there is no rupture in his relationship with Parliament Speaker Nabih Berri.
-
----
-
-### 2026-07-07 02:09:34  #MKT News
-
-【Lithuanian president approves new cabinet list】President Gitanas Nausėda on the 6th approved a new cabinet list led by Prime Minister Mindaugas Sinkevičius, the presidential office said. The list retains some incumbents, including Foreign Minister Kęstutis Budrys, and reshuffles several portfolios. The Ruginienė government resigned on June 23 and is serving as a caretaker; parliament on June 30 approved Sinkevičius as prime minister and Social Democrats chair. Under Lithuanian law, following formal appointment (the parliamentary vote), Sinkevičius has 15 days to submit the president‑approved cabinet list and policy program to parliament; the new government takes office after parliamentary approval.
-
----
-
-### 2026-07-07 02:07:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Waller: inflation risks now outweigh employment risks; markets eye July CPI】Fed governor Waller said the US labor market has stabilized while inflation has re-accelerated, and that inflation risks now exceed employment risks—a full reversal from a year ago when weak jobs supported rate-cut bets. He said policy focus should shift back to containing inflation. Markets are focused on June CPI due July 14, the last major inflation print before the Fed's July 28-29 meeting. International oil has fallen to roughly $70/bbl, but Fed officials still expect year-end inflation to be materially above the 2% target. Markets price a hike by September at the latest; July hike probability is about 25%, and several officials have signaled further tightening.
-
----
-
-### 2026-07-07 02:06:21  #MKT News
-
-Lebanon's President Aoun said he will not meet Netanyahu.
-
----
-
-### 2026-07-07 02:04:20  #國際
-
-【立陶宛總統批准新內閣名單】立陶宛總統瑙塞達6日批准由總理明道加斯·辛克維丘斯領導的新一屆內閣名單。根據總統府當天釋出的訊息，新內閣保留包括外交部長凱斯圖蒂斯·佈德里斯在內的部分原班人馬，調整多個部長職位。魯吉尼埃內政府6月23日宣佈辭職，現為看守政府。立陶宛議會6月30日舉行投票，批准立陶宛社會民主黨主席辛克維丘斯為政府總理。按照立陶宛法律，自獲得正式任命（即議會投票批准）之日起，辛克維丘斯須在15天內將經總統批准的新內閣名單和施政綱領提交議會審議，獲議會批准後新政府即正式履職。（央視新聞）
-
----
-
-### 2026-07-07 02:03:00  #其他
-
-英國ITV與康卡斯特旗下天空電視臺達成 21 億美元交易。
-
----
-
-### 2026-07-07 02:02:52  #MKT News
-
-Politico reports U.S. Secretary of State Rubio said the U.S. may discuss the decision to issue red cards to U.S. players with allies including Belgium at tomorrow's NATO meeting.
-
----
-
-### 2026-07-07 01:57:45  #MKT News
-
-The US Supreme Court declined to block a Texas law requiring age verification and parental consent before minors may download apps.
-
----
-
-### 2026-07-07 01:54:33  #國際
-
-法國與敘利亞將於明日簽署多項雙邊協議。
-
----
-
-### 2026-07-07 01:54:02  #MKT News
-
-French presidency said President Macron and Syrian President Shala will co-chair an economic conference on Syria’s reconstruction tomorrow.
-
----
-
-### 2026-07-07 01:53:52  #MKT News
-
-French presidency says Macron and Syrian President Shala will sign multiple bilateral agreements tomorrow.
-
----
-
-### 2026-07-07 01:49:43  #市場 #觀點 #央行 #國際
-
-【摩根士丹利建議押注美聯儲加息預期消退】摩根士丹利的利率策略師建議，隨著美聯儲加息預期減弱，投資者應押注較短期限美國國債收益率相對於較長期限品種下行。其結果將是美國國債收益率曲線趨陡，即較短期限與較長期限之間利差擴大。具體而言，摩根士丹利7月2日建議押注7年期與30年期美國國債利差擴大。該利差週一美國交易時段接近65個基點，而摩根士丹利提出建議時為63個基點。該行將利差目標設在100個基點。儘管7月2日釋出的6月就業資料疲軟，促使美國利率市場下調對美聯儲收緊幅度的定價，但Matthew Hornbach等策略師寫道，市場定價仍然過高。“就業資料趨弱疊加當前市場定價，為投資者重新佈局美債曲線趨陡交易創造了機會，”他們寫道。
-
----
-
-### 2026-07-07 01:47:42  #市場
-
-【美股太空概念股持續走低】美股太空概念持續走低，SpaceX跌近3%，即將納入納指100；Rocket Lab跌超7%，AST SpaceMobile跌超5%。
-
----
-
-### 2026-07-07 01:46:56  #MKT News
-
-U.S. House Speaker Johnson said Republicans, working with President Trump and accusing Democrats of ignoring, denying or even enabling fraud, will root out alleged waste, fraud and abuse in Democratic-led states to prevent misuse of taxpayer funds.
-
----
-
-### 2026-07-07 01:45:56  #公司
-
-【宇樹科技科創板IPO註冊生效 有望衝擊A股“人形機器人第一股”】7月6日，上交所官網顯示，宇樹科技股份有限公司（以下簡稱“宇樹科技”）科創板IPO稽核狀態於7月2日變更為“註冊生效”。
-
----
-
-### 2026-07-07 01:45:26  #焦點 #國際
-
-【老齡化未必拖累經濟 新研究表明人口萎縮反而有助繁榮】全球出生率下降令許多人擔心其經濟影響，有人預測增長將放緩，創新將減少。但一篇新論文指出，事實可能恰恰相反。根據Daron Acemoglu、David Autor、Keelan Beirne和Andrew Scott的一項新研究，從歷史上看，老齡化和人口萎縮會提高經濟體的人均產出，並沒有對整體國內生產總值產生抑制作用。研究發現，工人和企業會轉向利用技術來彌補勞動力減少，從而提高每名工人的生產率。Acemoglu曾獲得2024年諾貝爾經濟學獎。“我們的研究結果挑戰了普遍的悲觀看法。較低的出生率，以及由此產生的人口老齡化和人口萎縮，提高而不是降低了人均GDP，”作者們在美國國家經濟研究局釋出的一篇論文中寫道。這一增益“已經大到足以完全抵消人口下降的負面影響，使總國內生產總值基本不受影響”。Acemoglu和Autor是麻省理工學院經濟學教授，Beirne是該校經濟學博士研究生，Scott是倫敦商學院經濟學教授。
-
----
-
-### 2026-07-07 01:45:07  #其他
-
-【湖北黃岡遭遇強對流天氣 城區部分割槽域一度斷電】6日晚8時許，湖北黃岡黃州區出現強對流天氣，造成城區部分割槽域一度斷電，樹木折斷，社群出現車輛損壞、店鋪受損等災情。災情發生後，當地組織救援力量投入搶險救災。據氣象部門預計，7月7日上午，黃岡市有大雨到暴雨、北部局地大暴雨並伴有雷暴大風、短時強降水等強對流天氣，累計雨量50~80毫米，局地150毫米左右，最大小時雨強40~70毫米。後面出現10級以上大風可能性較小，陣風7~9級為主。（央視新聞）
-
----
-
-### 2026-07-07 01:43:26  #MKT News
-
-Sources said Israeli Prime Minister Benjamin Netanyahu asked US President Donald Trump to block US sales of weapons to Turkey that could enhance its air force.
-
----
-
-### 2026-07-07 01:42:58  #國際
-
-以色列總理內塔尼亞胡請求特朗普阻止美國向土耳其出售可升級其空軍戰力的軍備。
-
----
-
-### 2026-07-07 01:41:38  #MKT News
-
-【France says it has withdrawn all diplomatic staff from Burkina Faso】French media reported on the 6th that the French foreign ministry said all its diplomatic staff in Burkina Faso have been withdrawn to France. The ministry said Burkina Faso’s diplomats must leave France by the evening of the 6th. Burkina Faso’s government said in a June 26 communiqué it had immediately severed diplomatic relations with France, saying bilateral ties should be founded on mutual respect for sovereignty, trust and non‑interference and that foundation no longer exists. The French foreign ministry on June 26 called the decision “hostile and unfounded” and said it reflected “worrying” tendencies in Burkina Faso’s authorities.
-
----
-
-### 2026-07-07 01:39:52  #國際
-
-【法國稱已撤回所有駐布吉納法索外交人員】據法國媒體6日報道，法國外交部說，該國所有駐布吉納法索的外交官均已回國。 法國外交部同時表示，布吉納法索的外交人員必須在6日晚之前離開法國。 布吉納法索政府6月26日晚釋出公報宣佈，決定即日起斷絕與法國的外交關係。公報稱，這一決定是在對布法兩國當前雙邊關係狀況進行深入評估之後作出的。布方認為，布法兩國關係應建立在相互尊重國家主權、相互信任以及互不干涉內政的基礎上，但現在雙邊關係的基礎已不復存在。 法國外交部6月26日釋出公報說，法國對這一“敵對且毫無根據的決定”表示遺憾，這反映了布吉納法索當局的傾向“令人擔憂”。(新華社)
 
 ---
