@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-11 09:38:53",
-  "count": 16231,
+  "updated": "2026-07-11 09:42:50",
+  "count": 16234,
   "items": [
+    {
+      "id": "mkt:019f4ed5-4515-7aab-8d3b-2273ea40fb63",
+      "time": "2026-07-11 09:40:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【LNG-derived methane used on Long March 10B; 98.7% purity, domestically supplied】Sinopec said the Long March 10B, successfully net-recovered in Hainan, used at scale high-purity methane produced from liquefied natural gas as aerospace fuel for the first time, marking a key technology breakthrough in fuel diversification for China’s commercial space sector. The two-stage reusable rocket, developed for the commercial market, has a 5‑metre core diameter and core components are 100% domestically produced. The LOX‑methane propellant used in this launch had 98.7% methane purity and was entirely domestically supplied."
+    },
+    {
+      "id": "4982001",
+      "time": "2026-07-11 09:40:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院安委會對福建泉州“7·9”重大火災查處掛牌督辦】7月9日，福建省泉州市晉江市陳埭鎮一鞋廠發生重大火災，造成28人死亡。國務院安委會決定對該起重大火災查處掛牌督辦，並派出國家消防救援局牽頭的現場督辦組，督促指導福建省開展調查處理工作，要求福建省依照有關法律法規及規章規定，抓緊組織開展調查，儘快查明起火原因和管理原因，精準確定火災性質，查清責任，嚴肅提出處理意見和整改措施。（央視新聞）"
+    },
     {
       "id": "4982000",
       "time": "2026-07-11 09:36:56",
@@ -9,6 +27,14 @@
         "其他"
       ],
       "text": "【《醫療機構水汙染物排放標準》修改單釋出】近日，生態環境部與國家市場監督管理總局聯合釋出了《醫療機構水汙染物排放標準》修改單。《醫療標準》修改單聚焦現行標準存在的問題和當前環境管理的需求，一是擴大了適用範圍，明確適用於重大疫情防控期間具有隔離功能或應急醫療服務功能的“平急兩用”公共基礎設施，並規定其排放控制要求，切實提高應對突發公共衛生事件能力；二是針對直接排放的醫療機構增加了斑馬魚卵急性毒性作為綜合毒性控制專案，協同支撐新汙染物治理，加強環境風險防控和水生態保護能力；三是明確小型醫院界定與消毒要求、綜合醫療機構和其他醫療機構傳染病區汙水預消毒要求，完善醫療機構汙泥管理規定，強化標準執行的規範性與可操作性；四是調整明確標準監督管理部門，釐清衛生健康、疾病預防控制、生態環境主管部門監管職責。"
+    },
+    {
+      "id": "4981999",
+      "time": "2026-07-11 09:36:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多元化突破！液化天然氣制甲烷首次應用於長征系列火箭】記者昨天(10日)從中國石化獲悉，在海南成功實現網系回收的長征十號乙運載火箭，首次規模化應用了液化天然氣製備的高純甲烷新型航天燃料，標誌著我國商業航天在燃料多元化供給領域取得關鍵性技術突破。長征十號乙是我國專門面向商業航天市場研發的兩級可重複使用運載火箭，芯級直徑5米，核心部件實現100%國產化。作為我國首枚採用液氧甲烷推進劑的商用可回收運載火箭，本次發射所用甲烷燃料純度達98.7%，全部實現國內自主供應。（央視新聞）"
     },
     {
       "id": "4981998",
