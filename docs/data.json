@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-11 08:30:16",
-  "count": 16225,
+  "updated": "2026-07-11 08:34:09",
+  "count": 16226,
   "items": [
+    {
+      "id": "mkt:019f4e98-1050-7aab-8d3a-c99350ac26a2",
+      "time": "2026-07-11 08:33:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithium hexafluorophosphate demand surges; industry profitability improves】Demand has pushed China’s lithium hexafluorophosphate (LiPF6) market out of prior production losses in 2026, with spot prices briefly exceeding 160,000 yuan/ton. Prices in 1H showed a spike-then-retreat pattern, but industry margins have risen materially. Several listed producers, including Tinci Materials and Do‑Fluoride New Materials, have issued positive profit previews. Market expectations for a tighter future supply‑demand balance are broadly bullish."
+    },
+    {
+      "id": "4981971",
+      "time": "2026-07-11 08:33:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF數量突破1600只 月內股票型ETF“吸金”近千億元】產品擴容，規模勁增，ETF已經成為資金入市重要工具。從產品情況看，隨著近期新發ETF密整合立，ETF總數突破1600只。從資金情況看，大量資金借道ETF入市，月內股票型ETF資金淨流入近千億元。多家機構表示，當前依然看好權益資產長期配置價值。（上海證券報）"
+    },
+    {
+      "id": "4981970",
+      "time": "2026-07-11 08:30:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六氟磷酸鋰需求旺盛 行業盈利能力顯著提升】需求拉動下，2026年國內六氟磷酸鋰市場結束前期生產虧損狀態，價格一度衝破16萬元/噸。雖然上半年市場價格總體呈現衝高回落狀態，但行業企業盈利水平已顯著提升。近日，天賜材料、多氟多等多家上市公司業績預喜。對於六氟磷酸鋰未來的市場供需格局，當前市場給予看多預期。"
+    },
     {
       "id": "4981969",
       "time": "2026-07-11 08:25:32",
@@ -148059,22 +148083,6 @@
         "其他"
       ],
       "text": "【北京市釋出雷電黃色預警】北京市氣象臺7月4日8時釋出雷電黃色預警訊號：預計，7月4日12時至5日5時，北京市自西北向東南將先後出現雷陣雨天氣，延慶、懷柔、密雲、房山、門頭溝、大興、海淀局地短時雨強較大，並伴有8級以上陣風和冰雹，請注意防範。4日上午有分散性雷陣雨天氣。"
-    },
-    {
-      "id": "mkt:019f2a8a-ad61-7aab-8c9b-06a8469f4f3f",
-      "time": "2026-07-04 08:32:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Claude is investigating anomalous errors appearing in multiple models."
-    },
-    {
-      "id": "4970185",
-      "time": "2026-07-04 08:31:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“美莎克”攜強降雨持續影響華南 北方多地氣溫超40℃】受今年第10號颱風“美莎克”影響，7月4日至6日，華南沿海等地雨勢猛烈，局地或遭遇極端降雨，同時，長江中下游等地和華北、東北一帶將繼續維持多雨格局。受強盛的大陸高壓影響，北方高溫範圍廣泛，新疆、甘肅等地酷熱程度同期罕見。在南方，江西、浙江、福建一帶在副熱帶高壓掌控下，高溫悶熱天氣頻繁。（央視新聞）"
     }
   ]
 }
