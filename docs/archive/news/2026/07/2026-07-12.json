@@ -1,7 +1,31 @@
 {
   "date": "2026-07-12",
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:019f5201-54b5-7aab-8d3f-1672e98225b0",
+      "time": "2026-07-12 00:27:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he completed a perfect physical at Walter Reed Hospital, undergoes a physical every six months, requested an additional cognitive test—he said he is the only president to do so—and passed three cognitive tests, answering every question correctly."
+    },
+    {
+      "id": "4982311",
+      "time": "2026-07-12 00:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位伊朗高階情報人士表示，美國正在對伊朗發動一場協調的壓力、威脅和媒體虛假資訊運動。"
+    },
+    {
+      "id": "mkt:019f5200-0506-7aab-8d3f-0e5a5a8c4507",
+      "time": "2026-07-12 00:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US, Lebanon discuss forming security-management committee to push Israel withdrawal from 'pilot zones'】Al Arabiya, citing sources, reported a US delegation is in Lebanon discussing creation of a committee to handle security and administrative matters and to implement a plan for Israel to withdraw from 'pilot zones'. Lebanon had said it would only join mediation in Rome if Israel withdrew from two trial areas; it has agreed to attend the Rome meeting on the condition the committee is established."
+    },
     {
       "id": "4982310",
       "time": "2026-07-12 00:24:36",
