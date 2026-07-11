@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 23,
+  "count": 24,
   "items": [
+    {
+      "id": "mkt:019f5212-1384-7aab-8d3f-1eb621ff53f6",
+      "time": "2026-07-12 00:45:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz."
+    },
     {
       "id": "4982317",
       "time": "2026-07-12 00:41:58",

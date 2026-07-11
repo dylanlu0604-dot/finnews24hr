@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 00:43:48",
-  "count": 16326,
+  "updated": "2026-07-12 00:47:45",
+  "count": 16324,
   "items": [
+    {
+      "id": "mkt:019f5212-1384-7aab-8d3f-1eb621ff53f6",
+      "time": "2026-07-12 00:45:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz."
+    },
     {
       "id": "4982317",
       "time": "2026-07-12 00:41:58",
@@ -148885,34 +148893,6 @@
         "國際"
       ],
       "text": "特朗普：內塔尼亞胡“知道誰才是老大”。"
-    },
-    {
-      "id": "mkt:019f2e34-baf5-7aab-8c9e-2ca46a2b8ed7",
-      "time": "2026-07-05 00:47:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump and Netanyahu could meet as early as next week."
-    },
-    {
-      "id": "4970538",
-      "time": "2026-07-05 00:46:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普與內塔尼亞胡或最早於下週舉行會晤。"
-    },
-    {
-      "id": "mkt:019f2e34-b635-7aab-8c9e-23fda3e94e51",
-      "time": "2026-07-05 00:46:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sputnik reports Russia is preparing a humanitarian operation in Konstantinovka to hand over the bodies of Ukrainian armed forces personnel killed in action."
     }
   ]
 }
