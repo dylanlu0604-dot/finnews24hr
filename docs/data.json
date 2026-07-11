@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-12 05:57:31",
-  "count": 16257,
+  "updated": "2026-07-12 06:01:56",
+  "count": 16258,
   "items": [
+    {
+      "id": "4982372",
+      "time": "2026-07-12 05:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月12日06時釋出颱風黃色預警。"
+    },
+    {
+      "id": "4982371",
+      "time": "2026-07-12 05:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月12日06時釋出暴雨橙色預警。"
+    },
+    {
+      "id": "4982370",
+      "time": "2026-07-12 05:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月12日06時釋出暴雨橙色預警。"
+    },
     {
       "id": "mkt:019f5328-4235-7aab-8d3f-cf6d9d3b1e02",
       "time": "2026-07-12 05:49:35",
@@ -148299,23 +148323,6 @@
         "Hang Seng Index"
       ],
       "text": "【China's express volume tops 100 billion items YTD, milestone hit nine days earlier than last year】State Post Bureau monitoring shows China's express delivery volume exceeded 100 billion items as of June 30, reaching the milestone nine days earlier than in 2025. Ongoing consumption-support measures have sustained retail growth and shifted spending patterns, expanding parcel demand. The bureau says the industry is refocusing from pure volume growth to quality improvement and sustainable scale; continued policy implementation and emerging new drivers should strengthen postal and courier services' role in logistics, supporting economic circulation and higher-quality growth."
-    },
-    {
-      "id": "4970643",
-      "time": "2026-07-05 05:59:14",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中央氣象臺7月5日06時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "4970642",
-      "time": "2026-07-05 05:58:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月5日06時繼續釋出強對流天氣黃色預警。"
     }
   ]
 }
