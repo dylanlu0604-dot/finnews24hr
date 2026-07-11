@@ -1,7 +1,55 @@
 {
   "date": "2026-07-11",
-  "count": 719,
+  "count": 724,
   "items": [
+    {
+      "id": "mkt:019f50c1-e5d7-7aab-8d3d-4b038d552e16",
+      "time": "2026-07-11 18:38:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's supreme leader Mujtaba vowed to avenge \"the blood of the martyred leader and all martyrs in the two wars\" against \"the shameful perpetrators who committed the crimes.\""
+    },
+    {
+      "id": "4982205",
+      "time": "2026-07-11 18:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：我們誓言要為您和這兩場戰爭中所有殉難者的鮮血復仇，將他們從罪惡滔天的兇手手中奪回。這是我們國家的呼聲，必須予以伸張。這些罪犯，名單很長，他們想要在床上安詳死去的願望，終將帶進墳墓。他們必須明白，這並非取決於我的存在，也並非取決於其他官員的存在。無論我們是否在場，這終將實現。不久之後，來自世界各地熱愛自由的人們都將各自承擔起這項神聖使命的一部分。"
+    },
+    {
+      "id": "mkt:019f50c1-404e-7aab-8d3d-4649a22ee085",
+      "time": "2026-07-11 18:37:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ: A magnitude 6.6 earthquake occurred in the South Sandwich Islands region."
+    },
+    {
+      "id": "mkt:019f50c0-7eda-7aab-8d3d-39d0f5f8ce8c",
+      "time": "2026-07-11 18:37:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's supreme leader Mujtaba said in a written statement that avenging his assassinated predecessor and father is a requirement of the state and nation and will \"certainly\" be achieved."
+    },
+    {
+      "id": "4982204",
+      "time": "2026-07-11 18:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊稱，為他被殺害的前任和父親復仇是國家的訴求，而且“必須”進行。"
+    },
     {
       "id": "4982203",
       "time": "2026-07-11 18:34:20",
