@@ -1,7 +1,730 @@
 {
   "date": "2026-07-12",
-  "count": 346,
+  "count": 430,
   "items": [
+    {
+      "id": "4982636",
+      "time": "2026-07-12 12:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室訊息：阿曼附近受損集裝箱船上船員已獲救。"
+    },
+    {
+      "id": "mkt:019f54a2-5ec7-7aab-8d42-078799e10dc1",
+      "time": "2026-07-12 12:42:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Galaxy Securities: Anchor on earnings, seize structural opportunities amid volatility】Galaxy Securities says China’s A-share market remains in wide-range volatility with event-driven leadership and faster sector rotation; the market is undergoing style rebalancing as crowding unwinds and expectations are being tested. Short-term outlook: continued choppy trading with structural themes persisting. July 15 is the mandatory deadline for A-share half-year report previews; focus will shift toward fundamental verification—prioritize segment leaders with visible orders and earnings visibility. SK Hynix’s Nasdaq listing and progress on ChangXin Technology’s IPO reinforce the memory-chip upcycle case, boosting attention on memory, advanced packaging and semiconductor materials; after prior valuation digestion, positioning windows in these chains have widened. Overall recommended approach: anchor on earnings and capture structure-specific opportunities amid volatility."
+    },
+    {
+      "id": "4982635",
+      "time": "2026-07-12 12:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京首都、大興機場均已解除大面積航班延誤黃色響應】記者從北京兩機場瞭解到，目前，首都機場已經結束運管委協同執行一級響應機制，並同步解除首都機場大面積航班延誤黃色響應機制；大興機場已解除前期釋出的大面積航班延誤黃色響應，但維持大面積航班延誤預警，預計12時前仍有小到中陣雨。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f54a1-a93e-7aab-8d41-ffe608af44d9",
+      "time": "2026-07-12 12:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ghalibaf says era of unilateral agreements is over】Iran's parliament speaker Ghalibaf posted on social media saying the era of unilateral agreements is over. He said Iran had previously demanded relevant parties fulfill commitments and obligations or would pay a price, adding \"now should face reality.\" He attached part of clause five from 14 memoranda of understanding, which calls for restoring navigation through the Strait of Hormuz provided counterparties comply with \"Iranian side arrangements.\""
+    },
+    {
+      "id": "4982634",
+      "time": "2026-07-12 12:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【颱風“巴威”影響有變 京滬高鐵等多條線路列車陸續恢復開行】記者從國鐵上海局獲悉，根據颱風“巴威”路徑變化和影響情況，鐵路部門計劃：7月12日14時起對途經京滬高鐵、滬寧城際高鐵、滬杭高鐵、京港高鐵、杭臺高鐵、杭深鐵路、滬蘇通鐵路、寧啟鐵路等線路旅客列車陸續恢復開行；7月12日16時起對途經杭長高鐵等線路旅客列車陸續恢復開行。下一步，鐵路部門將密切關注颱風路徑變化，根據風速雨量和災害影響程度等實際，適時採取限速執行、加開、恢復開行等措施，動態調整列車開行方案，確保旅客安全出行需要。廣大旅客可關注車站公告或登入12306網站（含App），及時瞭解列車開行資訊，妥善安排行程。（央視新聞）"
+    },
+    {
+      "id": "4982633",
+      "time": "2026-07-12 12:40:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林拉響警報。"
+    },
+    {
+      "id": "mkt:019f54a0-1748-7aab-8d41-f68f56b785f9",
+      "time": "2026-07-12 12:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said an alarm had sounded and urged citizens and residents to remain calm and proceed to the nearest safe location."
+    },
+    {
+      "id": "4982632",
+      "time": "2026-07-12 12:38:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長說單方面協議時代已結束】今天（7月12日），伊朗議會議長卡利巴夫在社交媒體上發文表示，單方面協議的時代已經結束。他表示，此前伊方曾要求有關方面履行承諾和義務，否則將為此付出代價，“現在應該面對現實”。卡利巴夫還附上此前14項諒解備忘錄中第五條的部分內容。根據其公佈的內容，該條款強調，在遵守“伊朗方面安排”的前提下，恢復霍爾木茲海峽通航。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982631",
+      "time": "2026-07-12 12:33:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱摧毀美軍在中東多處軍事設施】據伊朗伊斯蘭通訊社12日報道，伊朗伊斯蘭革命衛隊當天宣佈用導彈打擊了美軍卡達烏代德空軍基地，該基地的戰鬥機維修保養中心和指揮中心被摧毀。報道稱，革命衛隊還摧毀了位於阿曼杜庫姆港的美國航母后勤保障中心和加油平臺。伊朗伊斯蘭革命衛隊公共關係部門當天早些時候稱，革命衛隊打擊了美軍在約旦的一個空軍基地，摧毀了該基地的指揮控制中心和MQ－9無人機機庫。（新華社）"
+    },
+    {
+      "id": "4982630",
+      "time": "2026-07-12 12:33:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方發言人：美軍必須遵守諒解備忘錄相關條款。美方插手開闢霍爾木茲海峽非法通航通道的行為，破壞了地區安全。武裝部隊將堅決捍衛伊朗民眾在霍爾木茲海峽的相關權益。"
+    },
+    {
+      "id": "mkt:019f5497-2072-7aab-8d41-ec979b39d02f",
+      "time": "2026-07-12 12:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's chief negotiator Ghalibaf said the era of unilateral agreements is over, warned parties must honor commitments or face consequences, and said reality is issuing a warning."
+    },
+    {
+      "id": "mkt:019f5495-588a-7aab-8d41-e7c0126a2f96",
+      "time": "2026-07-12 12:28:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck US targets at Duqm port in Oman】On July 12 local time, Iran's Islamic Revolutionary Guard Corps public relations office said the IRGC Aerospace Force launched a large-scale raid in the third-phase response targeting US forces, striking a US naval logistics support center and an aircraft carrier fuel replenishment platform at Duqm port, Oman."
+    },
+    {
+      "id": "4982629",
+      "time": "2026-07-12 12:27:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱打擊阿曼杜庫姆港美軍目標】當地時間7月12日，伊朗伊斯蘭革命衛隊公共關係部門發表宣告稱，在針對美軍行動的第三階段回應中，伊朗伊斯蘭革命衛隊航空航天部隊對位於阿曼杜庫姆港的美軍艦艇後勤保障中心以及航空母艦燃料補給平臺發動襲擊。宣告稱，此次行動採取了大規模突襲方式。（央視新聞）"
+    },
+    {
+      "id": "4982628",
+      "time": "2026-07-12 12:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達方面表示，當地仍在持續攔截來襲導彈。"
+    },
+    {
+      "id": "4982627",
+      "time": "2026-07-12 12:24:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長：單方面協定的時代已經落幕。我們早就有言在先：信守承諾，否則就要付出代價。現實已然擺在眼前。"
+    },
+    {
+      "id": "mkt:019f548d-542c-7aab-8d41-de1c259d5f99",
+      "time": "2026-07-12 12:19:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Iran says it struck a second \"unauthorized vessel\" and attacked US base in Qatar】On the 12th the IRGC public relations office said Iran struck a second \"unauthorized vessel\" in the Strait of Hormuz and forced it to stop, saying the action was in response to continued US strikes on Iranian coastal military bases. The statement said that in a second-stage reprisal Iran used ballistic missiles to strike the US Al Udeid Air Base in Qatar, targeting the base's fighter maintenance support center and its command-and-control center."
+    },
+    {
+      "id": "4982626",
+      "time": "2026-07-12 12:18:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱再次打擊“違規船隻” 並對卡達美軍基地發動襲擊】當地時間12日，伊朗伊斯蘭革命衛隊公共關係部門發表宣告稱，為回應美軍持續對伊朗武裝力量沿海基地發動襲擊，伊方在霍爾木茲海峽對第二艘“違規船隻”實施打擊並使其停止航行。宣告稱，在第二階段報復行動中，伊朗使用彈道導彈打擊了位於卡達的美軍烏代德空軍基地。宣告稱，此次襲擊目標包括該基地的戰鬥機維修保障中心和指揮控制中心。（央視新聞）"
+    },
+    {
+      "id": "4982625",
+      "time": "2026-07-12 12:18:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南啟動赤潮災害Ⅲ級應急響應】鑑於赤潮災害造成新增經濟損失、災害複雜走勢和防災減災救災需要，根據自然資源部《赤潮災害應急預案》和《海南省海洋災害應急預案》相關規定，海南省海洋災害應急專項工作辦公室決定2026年7月12日11時啟動赤潮災害Ⅲ級應急響應，請沿海市縣和省直有關部門嚴格按照三級響應行動落實好各項赤潮應急處置和防災減災措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5489-6c56-7aab-8d41-d03bf06a0fa6",
+      "time": "2026-07-12 12:15:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it destroyed a U.S. Navy aircraft carrier logistical support center and a refueling platform at Duqm Port, Oman."
+    },
+    {
+      "id": "4982624",
+      "time": "2026-07-12 12:15:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，其已摧毀位於阿曼杜庫姆港的美國航母后勤支援中心與加油平臺。"
+    },
+    {
+      "id": "4982623",
+      "time": "2026-07-12 12:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗再次對巴林、卡達、阿聯酋和科威特發起攻擊。"
+    },
+    {
+      "id": "mkt:019f5488-06e6-7aab-8d41-caa949c051d4",
+      "time": "2026-07-12 12:13:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reports Iran has again launched attacks on Bahrain, Qatar, the UAE and Kuwait."
+    },
+    {
+      "id": "4982622",
+      "time": "2026-07-12 12:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省級中試平臺加速科創成果落地】貴州提出，到2027年，初步實現中試服務能力對全省重點工業產業領域全覆蓋，建成一批示範作用大、輻射範圍廣、轉化能力強、發展機制好的省級製造業中試平臺，並在優勢產業領域爭創一批國家級製造業中試平臺。屆時，製造業中試公共服務能力和水平將明顯提升，中試產業生態更加健全，有力支撐全省製造業高質量發展。（貴州日報）"
+    },
+    {
+      "id": "4982621",
+      "time": "2026-07-12 12:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊科威特巴林的美軍設施】今天（7月12日），伊朗軍方公共關係部門發表宣告稱，為回應美軍持續對伊朗南部部分地區發動的襲擊，伊朗軍方當天早些時候出動攻擊型無人機，對美軍位於科威特的“愛國者”防空系統、彈藥庫和雷達站發動襲擊。宣告稱，在另一輪無人機行動中，伊朗軍方還對美軍位於巴林的通訊系統和雷達站發動襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982620",
+      "time": "2026-07-12 12:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南省再添5個省級中小企業特色產業叢集】雲南省工業和資訊化廳日前公佈2026年度省級中小企業特色產業叢集名單，5個叢集入選。 開展省級中小企業特色產業叢集申報認定，旨在促進中小企業高質量發展，提升產業叢集專業化、特色化、叢集化水平。經申報推薦、稽核和公示等程式，省工業和資訊化廳確定了2026年度省級中小企業特色產業叢集名單。 此次入選的5個叢集分別為：嵩明縣先進裝備製造產業叢集、富源縣綠色鋁一體化特色產業叢集、水富市新能源電池產業叢集、姚安縣花卉產業叢集、箇舊市有色稀貴金屬及新材料產業叢集。（雲南日報）"
+    },
+    {
+      "id": "mkt:019f5482-e144-7aab-8d41-c7c68540840c",
+      "time": "2026-07-12 12:08:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti Armed Forces said it is currently intercepting hostile aerial targets in Kuwaiti airspace."
+    },
+    {
+      "id": "4982619",
+      "time": "2026-07-12 12:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特武裝部隊表示，目前正在科威特領空內攔截敵方空中目標。"
+    },
+    {
+      "id": "4982618",
+      "time": "2026-07-12 12:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省防指將防颱風應急響應調整為Ⅱ級】颱風“巴威”中心已移出浙江省，12日11時位於安徽省寧國市境內，最大風力10級（強熱帶風暴），繼續向西北方向移動，強度逐漸減弱。浙江省氣象臺已將颱風緊急警報調整為颱風警報。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，浙江省防指決定於7月12日12時將防颱風應急響應調整為Ⅱ級。當前颱風殘留雲系對浙江省影響還在持續，部分地區仍有強降雨，溫黃平原、杭嘉湖區等部分江河湖庫水位較高。請各地各部門高效執行“1833”聯合指揮體系，前期降雨較大的地區要充分考慮地質災害的滯後性，繼續毫不鬆懈抓好預報預警、風險管控等工作；從嚴做好已轉移人員安全管理，做到不安全不返回。（浙江省應急管理廳）"
+    },
+    {
+      "id": "4982617",
+      "time": "2026-07-12 12:07:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南寧市慈善總會發布關於暫停接收生活物資捐贈的公告】7月11日，南寧市慈善總會發布關於暫停接收生活物資捐贈的公告，內容如下：\n\n廣大市民朋友、社會各界愛心單位及愛心人士：\n\n自我市遭遇颱風“美莎克”侵襲以來，全市人民眾志成城、共克時艱，社會各界紛紛伸出援手，一批批愛心物資、一份份暖心支援持續匯聚南寧。在此，我們謹代表全市受災群眾，向所有關心、支援、參與我市防汛救災工作的愛心單位和個人，致以最誠摯的謝意和最崇高的敬意！\n\n在大家的鼎力相助下，目前我市礦泉水、泡麵、糧油等生活類物資已基本能保障當前救災工作和受災群眾安置的需要。考慮到倉儲、轉運和調配等實際情況，經研究決定，自本公告發布之日起，全市範圍內暫停接收生活物資類捐贈。\n\n對於前期已接收的捐贈物資，我們將嚴格按照物資接收、分類登記、統籌調配等流程進行規範管理，建立完整臺賬，全程公開透明，主動接受社會監督，確保每一份愛心物資都能及時、準確地發放到受災群眾和一線救災人員手中，切實發揮救災實效，不辜負每一份善意與託付。"
+    },
+    {
+      "id": "4982616",
+      "time": "2026-07-12 12:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北繼續釋出暴雨黃色預警 局地24小時雨量將超100毫米】河北省氣象臺2026年7月12日10時35分繼續釋出暴雨黃色預警訊號：預計12日白天到夜間，承德南部、唐山北部、秦皇島北部、廊坊北部、石家莊東部和南部有大到暴雨，部分地區1小時雨量可達30～50毫米或6小時累計雨量可達50～70毫米，個別地點24小時累計雨量超過100毫米。降雨落區與前期重合疊加，請注意防範降水後續可能引發的山洪、滑坡、泥石流等次生災害。（央視新聞）"
+    },
+    {
+      "id": "4982615",
+      "time": "2026-07-12 12:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東多國啟動防空系統、拉響警報】伊朗12日開始對美國在中東地區的目標發動一系列打擊，中東多國啟動防空系統、拉響防空警報。阿聯酋國防部當天在社交媒體上發文說，該國防空部隊正在攔截導彈和無人機。卡達內政部12日釋出安全警報，稱安全威脅升級。首都多哈隨後響起連續爆炸聲。稍早時候，巴林內政部稱拉響防空警報。另據媒體報道，約旦已啟動防空系統。（新華社）"
+    },
+    {
+      "id": "4982614",
+      "time": "2026-07-12 12:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1903年創辦以來首次 環法腳踏車賽因高溫縮短賽段】法國正經歷5月以來的第三輪熱浪，多地再次出現高溫天氣。環法腳踏車賽組織方11日宣佈，鑑於天氣異常，定於12日舉行的第九賽段賽程縮短30公里。這是環法腳踏車賽自1903年創辦以來首次因高溫縮短賽程。（新華社）"
+    },
+    {
+      "id": "4982613",
+      "time": "2026-07-12 12:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今天12時起杭州地鐵逐步恢復運營】據杭州地鐵官方最新訊息，根據主城區防颱風應急響應等級調整，自7月12日12時起，除地鐵6號線富陽段、16號線臨安段停運外，地鐵其他線路逐步恢復運營。其中，地鐵9、19號線高架段採用公交車接駁提供服務。"
+    },
+    {
+      "id": "4982612",
+      "time": "2026-07-12 12:02:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗襲擊了位於阿曼杜庫姆港的美國軍事設施。"
+    },
+    {
+      "id": "4982611",
+      "time": "2026-07-12 12:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界盃考慮擴軍至64隊】北京時間7月12日，國際足聯主席因凡蒂諾接受媒體採訪時再次談到世界盃擴軍，認為賽事擴軍至48隊百分之百正確。 他表示，48支球隊的比賽模式取得了巨大成功。每支球隊都展現了高水平，來自各大洲的球隊都有進球，且至少獲得一分。十支非洲球隊中有九支晉級淘汰賽。上屆世界盃，非洲只有五支球隊。這恰恰說明了讓所有球隊參與的重要性，應給予他們參賽的機會。 因凡蒂諾提到，有人已經在說，球隊數量應該增加到64支。他認為，這肯定是一個在本屆世界盃之後，可由相關委員會審議和討論的問題。 他強調，世界盃是為全世界而辦，不僅僅是歐洲和南美洲，而是真正面向全世界。每個國家都應該被允許夢想參加世界盃。"
+    },
+    {
+      "id": "4982610",
+      "time": "2026-07-12 11:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廖林拜會黑龍江省委副書記、省長梁惠玲】7月10日，工商銀行黨委書記、董事長廖林在哈爾濱拜會黑龍江省委副書記、省長梁惠玲，雙方就深化政銀合作、更好服務黑龍江高質量發展及東北全面振興等話題進行交流。黑龍江省副省長韓聖健等參加會談。（中國工商銀行）"
+    },
+    {
+      "id": "4982609",
+      "time": "2026-07-12 11:51:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊稱，他們在霍爾木茲海峽襲擊了第二艘船隻。"
+    },
+    {
+      "id": "4982608",
+      "time": "2026-07-12 11:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部分地區將升至40℃以上 河南繼續釋出高溫橙色預警】河南省氣象臺7月12日9時30分繼續釋出高溫橙色預警：預計7月12日至14日，河南省淮河以北大部將持續高溫天氣。安陽、濮陽北部、鶴壁、新鄉中西部、焦作、濟源、洛陽、鄭州北中部、開封南部、商丘、平頂山、許昌、漯河、周口、南陽、駐馬店最高氣溫將升至37℃以上，其中安陽中部、焦作南部、濟源、洛陽北部、平頂山南部、周口、南陽、駐馬店部分縣（市、區）最高氣溫將升至40℃以上。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5473-95f3-7aab-8d41-baed35d85bb4",
+      "time": "2026-07-12 11:51:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it targeted Qatar's Al Udeid Air Base, destroying a fighter maintenance facility and a command-and-control center, and in a retaliatory action also targeted a U.S. military base in Kuwait."
+    },
+    {
+      "id": "4982607",
+      "time": "2026-07-12 11:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，他們已在報復性行動中襲擊了美國駐科威特的美軍雷達站。（注：訊息源更正為雷達站，並非軍事基地）"
+    },
+    {
+      "id": "4982606",
+      "time": "2026-07-12 11:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：若美方持續發動打擊，伊朗將採取更為強硬的反擊行動。"
+    },
+    {
+      "id": "4982605",
+      "time": "2026-07-12 11:50:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱其襲擊了卡達烏代德空軍基地，摧毀了戰機維修中心與指揮控制中心。"
+    },
+    {
+      "id": "4982604",
+      "time": "2026-07-12 11:49:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部11日在社交媒體上釋出訊息稱，美軍當天完成了本週對伊朗的第三次打擊。美軍打擊了約140個伊朗軍事目標，包括導彈和無人機發射陣地、海軍裝備、彈藥儲存設施、通訊網路及海岸監視站點等。（新華社）"
+    },
+    {
+      "id": "mkt:019f5470-ed3a-7aab-8d41-b449b07ff71e",
+      "time": "2026-07-12 11:48:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's military warned the United States and Israel will bear the consequences of U.S. actions and their damage to regional security."
+    },
+    {
+      "id": "4982603",
+      "time": "2026-07-12 11:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷晉級4強】2026世界盃1/4決賽，阿根廷vs瑞士。第10分鐘，阿根廷球員麥卡利斯特頭球破門；第68分鐘，瑞士隊球員恩多耶進球，雙方在常規時間1:1戰平。第112分鐘，阿根廷隊阿爾瓦雷斯兜射破門，一記世界波實現反超；隨後，勞塔羅再進一球，徹底鎖定勝局！最終，阿根廷3:1晉級，贏得四強最後一張入場券！（央視新聞）"
+    },
+    {
+      "id": "4982602",
+      "time": "2026-07-12 11:46:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河證券A股策略：建議以業績為錨 在波動中把握結構性機會】銀河證券研報稱，A股市場延續寬幅震盪走勢，存量博弈特徵顯著，市場熱點呈現事件驅動主導、輪動速度加快的特點。市場處於擁擠度消化、預期驗證下的風格再平衡階段。短期來看，市場大機率將延續震盪格局，結構特徵仍是主旋律。7月15日是A股上市公司半年報預告的強制披露截止日，市場核心博弈焦點將向基本面驗證傾斜，優先佈局有真實訂單和盈利預期的細分龍頭。同時，SK海力士登陸納斯達克疊加長鑫科技IPO程序推進，強化儲存晶片行業景氣邏輯，帶動儲存晶片、先進封裝、半導體材料等細分產業鏈關注度持續提升。經過前期估值消化，相關賽道佈局視窗進一步顯現。整體策略上，建議以業績為錨，在波動中把握結構性機會。"
+    },
+    {
+      "id": "4982601",
+      "time": "2026-07-12 11:45:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿曼6月消費者物價指數同比上漲2.8%。"
+    },
+    {
+      "id": "4982600",
+      "time": "2026-07-12 11:45:20",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【世界盃4強名單出爐】目前，世界盃四強全部誕生，分別是法國、西班牙、英格蘭和阿根廷。半決賽中，法國將對戰西班牙，英格蘭迎戰阿根廷。"
+    },
+    {
+      "id": "4982599",
+      "time": "2026-07-12 11:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧浙江雲南等地42條河流發生超警以上洪水】記者從水利部瞭解到，受降雨影響，11日8時到12日8時，河北薊運河及支流泃河、遼寧大淩河及灤河支流青龍河、吉林松花江吉林段支流蛟河等42條河流發生超警以上洪水，最大超警幅度2.93米，其中遼寧青龍河，浙江大田河、義城港、好溪、小楠溪，雲南沙河等6條中小河流超過保證水位0.04～1.15米。今天8時，浙江上海沿海15個潮位站及太湖周邊河網區5站超警0.04～0.47米。（央視新聞）"
+    },
+    {
+      "id": "4982598",
+      "time": "2026-07-12 11:40:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家機場今日取消全部航班】記者綜合航班管家、航旅縱橫等多家航班動態平臺的資訊發現，今日荷澤牡丹機場、信陽明港機場、三沙永興機場、鞍山騰鰲機場、朝陽機場、富蘊可可托海、安順黃果樹、布林津喀納斯等機場的航班全部取消。（第一財經）"
+    },
+    {
+      "id": "4982597",
+      "time": "2026-07-12 11:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【恢復供電要交高額搶修費是謠言】近日，受颱風影響，廣西多地持續強降雨，部分割槽域出現停電。期間，網路上出現不少涉電力的傳言。記者梳理發現，颱風期間流傳的涉電謠言主要有三類：誇大停電範圍、曲解斷電行為、編造收費名目。針對“恢復供電要交高額搶修費”的說法，供電部門回應：純屬謠言。電力搶修、恢復供電都是供電部門的本職服務，不會向居民收取任何“恢復費”或“搶修費”，電費嚴格按照國家標準結算。要是遇到陌生人以此索要費用，可撥打供電服務熱線核實，切勿轉賬。關於“颱風及強降雨導致全城停電”的傳言，供電部門表示，貴港、欽州等地相關說法已被闢謠，不會出現全域同時停電。颱風通常只可能導致區域性線路故障。 “電錶泡水後走字加快”也不屬實，電錶浸水後通常直接停機，不會加速走字，使用者如有疑問可申請驗表。至於“供電局能順著電線遙控損壞家電”的說法，技術上也並不可能實現。（央視財經）"
+    },
+    {
+      "id": "mkt:019f5466-3450-7aab-8d41-aae59ccfb573",
+      "time": "2026-07-12 11:36:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said commercial vessel traffic through the Strait of Hormuz, a key international maritime corridor, continues."
+    },
+    {
+      "id": "mkt:019f5465-c5e4-7aab-8d41-a0d2ee3b3fd9",
+      "time": "2026-07-12 11:36:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM said it had struck more than 300 targets under orders."
+    },
+    {
+      "id": "4982596",
+      "time": "2026-07-12 11:36:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【披露特朗普新專機安全缺陷的美國記者收到傳票】美國《紐約時報》11日報道，該報參與報道美國總統特朗普新“空軍一號”專機有安全缺陷的多名記者收到了傳票。據報道，聯邦政府執法部門人員10日前往這些記者的住所送交傳票，要求他們就“涉嫌違反聯邦刑法的相關事宜”，於15日在紐約曼哈頓向一個聯邦大陪審團作證。特朗普本月早些時候前往土耳其參加北約峰會時，乘坐由卡達贈送、近期剛完成改裝的新專機。但8日返回美國期間，特朗普先乘坐舊“空軍一號”前往英國米爾登霍爾空軍基地，隨後才換乘新專機回國。（新華社）"
+    },
+    {
+      "id": "mkt:019f5465-8be6-7aab-8d41-98f09f71aae0",
+      "time": "2026-07-12 11:36:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said it completed its third round of strikes on Iran this week on July 11. U.S. forces used land- and carrier-based fighter aircraft, drones and naval vessels, employing precision munitions to strike about 140 Iranian military targets, including missile and drone bases, naval assets, ammunition storage facilities, communications networks and coastal surveillance sites."
+    },
+    {
+      "id": "4982595",
+      "time": "2026-07-12 11:35:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：本週三晚連續打擊行動中，遵照最高統帥指令，美軍累計打擊超300處目標，旨在削弱伊朗襲擊正常通航海峽民用船隻、商船的能力。目前這條關鍵國際航道仍有商船正常通行。"
+    },
+    {
+      "id": "4982594",
+      "time": "2026-07-12 11:35:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍完成最新一輪針對伊朗的打擊。"
+    },
+    {
+      "id": "mkt:019f5464-de27-7aab-8d41-95c3c00fdc40",
+      "time": "2026-07-12 11:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the radical left 'lunatics', often dubbed 'Democrat idiots', have lost control of the party and are being led by a noisy, uncharismatic group that is completely directionless."
+    },
+    {
+      "id": "4982593",
+      "time": "2026-07-12 11:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍本週對伊朗實施第三輪打擊，以此追究伊朗武裝襲擊霍爾木茲海峽另一艘商船的責任。美軍依託陸基、海基戰鬥機、無人機及海軍艦艇發射精確彈藥，打擊了約 140 處伊朗軍事目標，涵蓋伊朗導彈與無人機發射陣地、海軍作戰設施、彈藥庫、通訊網路以及海岸監控點位。"
+    },
+    {
+      "id": "4982592",
+      "time": "2026-07-12 11:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：自 5 月初以來，美軍已保障超 800 艘商船、4 億桶原油順利經由霍爾木茲海峽通行。"
+    },
+    {
+      "id": "4982591",
+      "time": "2026-07-12 11:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍隊襲擊了位於巴林和科威特的美國軍事目標。"
+    },
+    {
+      "id": "mkt:019f5461-c977-7aab-8d41-8ba4ff0e89dd",
+      "time": "2026-07-12 11:32:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Al Arabiya reports Bahrain has lifted its danger alert."
+    },
+    {
+      "id": "4982590",
+      "time": "2026-07-12 11:29:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊指責美國對阿曼強加自身意志。"
+    },
+    {
+      "id": "4982589",
+      "time": "2026-07-12 11:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受強降雨影響 山西釋出多地山洪災害氣象風險預警】2026年7月12日上午，山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警，預計7月12日8時至7月13日8時，受強降雨影響，山西省晉中市東南部1個縣發生山洪的可能性較大（黃色預警）；忻州市東南部、陽泉市、晉中市東部、長治市、晉城市、臨汾市東部、運城市東部7個市26個縣可能發生山洪（藍色預警）；其他地區也可能因局地短歷時強降水引發山洪災害，各地應注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
+    },
+    {
+      "id": "4982588",
+      "time": "2026-07-12 11:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，伊朗多枚導彈已“成功擊中卡達與阿聯酋境內目標”，並補充道兩國境內美軍基地持續發生多起爆炸。"
+    },
+    {
+      "id": "4982587",
+      "time": "2026-07-12 11:27:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇多地釋出倡議：非必要不出門，在家宅一天，儘量別點外賣】據“江蘇新聞”，江蘇多地釋出倡議：非必要不出門，在家宅一天，儘量別點外賣。"
+    },
+    {
+      "id": "4982586",
+      "time": "2026-07-12 11:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特大暴雨！“巴威”即將進入安徽 今明兩天為颱風雨最強時段】今年第9號颱風“巴威”登陸後深入內陸，將攜大量水汽影響安徽，今明兩天（7月12日至13日）為颱風雨核心影響時段。其中今天，強降雨範圍最大，江南地區普遍將出現暴雨，部分地區有大暴雨，區域性或遭遇特大暴雨，明天沿淮淮河以南地區仍有強降雨，局地大暴雨，公眾需注意防範。（央視新聞）"
+    },
+    {
+      "id": "4982585",
+      "time": "2026-07-12 11:25:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【1元國補撬動10元消費 家電數碼迎新一輪更新潮】進入7月，全國多地迎來持續高溫天氣，家電進入傳統銷售旺季。與此同時，2026年第三批625億元超長期特別國債支援消費品以舊換新資金於6月30日全額下達至全國29個省區市，瞄準夏季家電置換、暑期學生數碼換新兩大剛性需求。政策效應正在加速顯現。國家發展改革委釋出的資料顯示，補貼資金撬動比由2025年的1∶7.8提升至1∶10.3，意味著每投入1元補貼資金，即帶動10.3元的居民消費。截至6月20日，2026年消費品以舊換新已惠及1.36億人次，帶動銷售額超1萬億元。（新華社）"
+    },
+    {
+      "id": "4982584",
+      "time": "2026-07-12 11:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京現今年入汛以來最強降雨過程 今明天仍有雷陣雨】北京市氣象臺提醒，北京地區12日至13日有雷陣雨，大興、通州、朝陽、平谷、房山雷雨時局地短時雨強較大，伴有7級左右短時大風，公眾需注意防範。（央視新聞）"
+    },
+    {
+      "id": "4982583",
+      "time": "2026-07-12 11:23:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【iPhone 17單週狂賣81萬臺】7月12日，iPhone 17系列上市已接近一年，但市場熱度依然維持在較高水平，近期單週銷量仍超過81萬臺。 據博主“RD觀測”公佈的資料，截至2026年第27周（6月29日至7月5日），iPhone 17系列累計銷量約為3711.92萬臺。 作為對比，截至第26周，iPhone 17系列累計銷量約3630.44萬臺。 以此計算，該系列第27周單週新增約81.48萬臺，展現出較強的銷售後勁。 從近期走勢來看，截至第25周，iPhone 17系列累計銷量約3538.55萬臺，第26周單週新增約91.89萬臺，最近兩週，該系列合計賣出超過173萬臺。"
+    },
+    {
+      "id": "4982582",
+      "time": "2026-07-12 11:21:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年高頻資料折射我國經濟穩中向優】記者12日從國家發展改革委國家資訊中心瞭解到，今年上半年，線下商圈人流熱度同比增長5.7%，消費延續向好態勢；戰略性新興產業相關專利授權量同比增長15.6%，人工智慧、人形機器人等前沿領域的資本投資金額同比增長118.4%，經濟高質量發展的創新引擎動力不斷增強。線下消費大資料顯示，1至6月份，線下消費支付金額同比增長2.7%，其中商品消費、服務消費同比分別增長4.0%、0.8%。電子商品需求較高，同比增長9.5%；文旅相關的交通、餐飲相關消費熱度持續高漲，同比分別增長6.1%、4.9%；線下商圈人流熱度同比增長5.7%。（新華社）"
+    },
+    {
+      "id": "4982581",
+      "time": "2026-07-12 11:21:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "大型旅行社JTB公司預計，今年夏季假期期間，日本出境遊累計人數將達217萬人次，同比下降8.8%，為2023年疫情後復甦以來的首次同比下滑。"
+    },
+    {
+      "id": "4982580",
+      "time": "2026-07-12 11:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍第五艦隊在巴林的設施發生火災。"
+    },
+    {
+      "id": "mkt:019f5457-6fad-7aab-8d41-84a477d3cd64",
+      "time": "2026-07-12 11:20:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A fire broke out at the U.S. Navy Fifth Fleet facility in Bahrain after an Iranian missile attack in the area."
+    },
+    {
+      "id": "4982579",
+      "time": "2026-07-12 11:19:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部發布紅色山洪災害預警 浙江西部安徽南部等地需防範】記者從水利部瞭解到，據預報，受颱風“巴威”影響，7月12日至13日，太湖及浙閩地區、長江下游青弋江水陽江滁河、海河流域永定河北三河及灤河、松遼流域遼河渾河及松花江吉林段等流域水系內河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生較大洪水。7月12日8時至7月13日8時，浙江西部、安徽南部、福建北部、江西東北部等地部分地區發生山洪災害可能性大（橙色預警），其中，浙江西部、安徽南部局地發生山洪災害可能性很大（紅色預警）。水利部今天釋出紅色山洪災害氣象預警，提醒浙江、安徽、福建、江西、北京、天津、河北、內蒙古、遼寧、吉林、黑龍江、四川、雲南等省份有關地區社會公眾注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5455-8762-7aab-8d41-78e583b53281",
+      "time": "2026-07-12 11:18:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yen weakness trims Japanese outbound summer travel nearly 9% — JTB】JTB forecasts 2.17 mln outbound trips for this summer (Jul 15–Aug 31), down 8.8% YoY and the first YoY decline since the 2023 post‑pandemic recovery, citing yen weakness and rising costs. Per‑trip outbound spending is seen rising 6.3% to ¥323,000 (~$2,000), as higher airfares and fuel surcharges after the Middle East crisis raise overseas travel costs and push travelers away from long‑haul markets (North America, Australia) toward cheaper nearby destinations; South Korea accounts for 26.2% of outbound bookings. Domestic travel is projected to fall 4.4% to 69.0 mln trips, though per‑trip domestic spending is expected to rise 3.2% to ¥48,500; JTB warns domestic demand may be further pressured by consumer thrift amid inflation."
+    },
+    {
+      "id": "4982578",
+      "time": "2026-07-12 11:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊約旦哈桑王子空軍基地】今天（7月12日），伊朗伊斯蘭革命衛隊公共關係部門釋出宣告稱，美國前一晚試圖透過向霍爾木茲海峽南部非法航道派遣多艘艦船製造事端，但遭到伊朗海軍阻止。宣告稱，此後，美軍對伊朗南部沿海部分基地和通訊設施發動空襲。宣告表示，作為對美軍行動的回應，伊朗伊斯蘭革命衛隊航空航天部隊對美軍位於約旦的哈桑王子空軍基地發動打擊。據悉，在第一階段行動中，伊方使用數枚彈道導彈打擊了該基地的重要軍事基礎設施，包括指揮控制中心及MQ-9無人機機庫。宣告還稱，如果美國繼續採取軍事行動，伊朗將作出“更為嚴厲”的回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982577",
+      "time": "2026-07-12 11:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【下週儲存巨頭來了，中籤機率高】根據目前的發行安排，下週有2只新股申購，北交所、科創板各有1只。日程安排上，週一（7月13日）可申購北交所新股維琪科技，週四（7月16日）可申購科創板新股長鑫科技。其中，長鑫科技是國產儲存晶片巨頭，公司計劃募資295億元，是今年以來A股最大IPO專案，也是科創板歷史上第二大IPO，其中籤率預計較高。（中證網）"
+    },
+    {
+      "id": "4982576",
+      "time": "2026-07-12 11:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "船舶追蹤資料顯示：受美伊再度緊張局勢影響，霍爾木茲海峽航運通行放緩，海峽西側等候的商船數量已降至 700 艘以下。"
+    },
+    {
+      "id": "4982575",
+      "time": "2026-07-12 11:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川多地迎來暴雨 緊急轉移6萬人】7月11日8時—7月12日8時，四川樂山、雅安、綿陽、宜賓、眉山、涼山、德陽、攀枝花等地降大雨到暴雨，局地降大暴雨，最大降雨量為樂山市峨眉山市大為站154毫米。11日17時，四川自然資源廳聯合四川氣象局釋出地質災害氣象風險黃色預警，涉及成都市、攀枝花市、德陽市、綿陽市、樂山市、眉山市、宜賓市、雅安市、阿壩州、甘孜州、涼山州等11市（州）51縣（市、區）。目前，強降雨造成四川甘孜發生8處、雅安市發生1處地質災害，無人員傷亡，當地已採取防範措施。7月11日7時至7月12日7時，四川12個市（州）72個縣（市、區）共提前轉移避險62319人。據統計，入汛以來，四川全省共提前轉移避險362197人次。（央視新聞）"
+    },
+    {
+      "id": "4982574",
+      "time": "2026-07-12 11:11:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【培育壯大高成長創新型企業 石家莊公開徵求企業培育管理辦法意見】石家莊市發展改革委近日釋出公告，就《石家莊市高成長創新型企業培育管理辦法（徵求意見稿）》（以下簡稱《徵求意見稿》）面向社會公開徵求意見，截止時間為2026年7月31日。《徵求意見稿》明確，高成長創新型企業包含瞪羚企業和獨角獸企業兩類。重點面向全市生物醫藥、新一代電子資訊、高階裝備、現代食品等主導產業，以及合成生物製造、新材料、第六代行動通訊、腦機介面、具身智慧等未來產業。"
+    },
+    {
+      "id": "4982573",
+      "time": "2026-07-12 11:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林再發生多起爆炸。"
+    },
+    {
+      "id": "mkt:019f544d-42c4-7aab-8d41-7540cb7263da",
+      "time": "2026-07-12 11:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Ministry of Water Resources launches Level‑IV flood emergency response for Jiangsu, Anhui, Jiangxi, Shandong】China's Ministry of Water Resources at 10:00 on July 12 activated a Level‑IV flood defense emergency for Jiangsu, Anhui, Jiangxi and Shandong. It ordered local water authorities and basin management agencies to reinforce duty rosters and joint assessments, closely monitor typhoon movements, intensify rainfall and hydrological monitoring with rolling forecasts, and issue timely warnings. The ministry directed scientific, targeted operation of flood‑control projects to maximise retention and peak reduction; organised reservoir and dike patrols for early detection and handling of risks; prioritised defence of small rivers and mountain torrents; and tightened control of hazard zones, urging timely relocation of threatened people to protect life and property."
+    },
     {
       "id": "4982572",
       "time": "2026-07-12 11:06:53",
@@ -179,6 +902,14 @@
         "DXY"
       ],
       "text": "【US and Iran failed to reach real consensus; conflict may persist through US midterms in November】Atlantic Council senior fellow Thomas Warrick said the U.S. and Iran have “very different” objectives, deep mutual mistrust and “complete misunderstanding,” and did not reach a genuine consensus in recent talks. He said Iran is unwilling to relinquish its claim to control the Strait of Hormuz, complicating any negotiated settlement. Warrick does not expect an immediate large-scale U.S. strike; he predicts a recurring pattern of episodic attacks (often Thurs–Sat), U.S. speeches aimed at calming tensions (Sun–Mon), brief lulls (Tue–Wed) and renewed flare-ups, a cycle he said could continue for weeks or months, potentially through the Nov. 3 U.S. midterm elections."
+    },
+    {
+      "id": "4982560",
+      "time": "2026-07-12 10:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：伊朗打擊美在中東目標 回應美軍襲擊】伊朗新聞電視臺12日報道說，伊朗對美國在中東地區的目標發動一系列打擊，以回應美軍當天早些時候對伊朗發動的襲擊。報道說，約旦啟動了防空系統，科威特有爆炸聲傳出。巴林內政部說，巴林拉響防空警報。另據多家伊朗媒體當天早些時候報道，除南部格什姆島和恰巴哈爾港外，伊朗西南部胡齊斯坦省和南部布什爾省多地當天也遭美國襲擊。美軍中央司令部11日在社交媒體發文稱，美軍於美國東部時間11日19時15分開始對伊朗發起打擊。這是美軍本週內第三次對伊朗發動打擊。(新華社)"
     },
     {
       "id": "4982559",

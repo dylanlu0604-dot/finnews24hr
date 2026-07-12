@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-12 11:08:09",
+  "updated": "2026-07-12 12:44:42",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 390,
+  "count": 395,
   "history_summary": {
     "cached": 390,
-    "fetched": 0,
+    "fetched": 5,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 219,
+      "count": 224,
       "dates": [
         {
           "date": "2026-07-13",
@@ -3050,8 +3050,124 @@
         },
         {
           "date": "2026-07-15",
-          "count": 80,
+          "count": 82,
           "events": [
+            {
+              "id": "capital:1180915",
+              "fid": "1180915",
+              "interval": "this_week",
+              "date": "2026-07-15",
+              "time": "00:00",
+              "datetime": "2026-07-15 00:00:00",
+              "display_time": "07/15 00:00",
+              "country": "中國",
+              "title": "中國6月全社會用電量(億千瓦時)",
+              "importance": 2,
+              "previous": "8671",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180915",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/18",
+                  "actual": "8671",
+                  "forecast": "-",
+                  "previous": "8205"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "8205",
+                  "forecast": "-",
+                  "previous": "8595"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "8595",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "8356",
+                  "forecast": "-",
+                  "previous": "8572"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "8572",
+                  "forecast": "-",
+                  "previous": "8886"
+                },
+                {
+                  "date": "10/23",
+                  "actual": "8886",
+                  "forecast": "-",
+                  "previous": "10154"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-12 12:44:39"
+            },
+            {
+              "id": "capital:1180914",
+              "fid": "1180914",
+              "interval": "this_week",
+              "date": "2026-07-15",
+              "time": "00:00",
+              "datetime": "2026-07-15 00:00:00",
+              "display_time": "07/15 00:00",
+              "country": "中國",
+              "title": "中國6月全社會用電量同比",
+              "importance": 3,
+              "previous": "6.9 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180914",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/18",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "6"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "6.2",
+                  "forecast": "-",
+                  "previous": "10.4"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "10.4",
+                  "forecast": "-",
+                  "previous": "4.5"
+                },
+                {
+                  "date": "10/23",
+                  "actual": "4.5",
+                  "forecast": "-",
+                  "previous": "5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-12 12:44:39"
+            },
             {
               "id": "capital:1173838",
               "fid": "1173838",
@@ -6138,7 +6254,7 @@
               "title": "美國6月PPI月率",
               "importance": 2,
               "previous": "1.1 %",
-              "forecast": "0 %",
+              "forecast": "0.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173864",
@@ -7696,7 +7812,7 @@
         },
         {
           "date": "2026-07-16",
-          "count": 55,
+          "count": 58,
           "events": [
             {
               "id": "capital:1173919",
@@ -7987,6 +8103,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-05 00:01:54"
+            },
+            {
+              "id": "capital:1180418",
+              "fid": "1180418",
+              "interval": "this_week",
+              "date": "2026-07-16",
+              "time": "08:40",
+              "datetime": "2026-07-16 08:40:00",
+              "display_time": "07/16 08:40",
+              "country": "韓國",
+              "title": "韓國至7月16日央行利率決定",
+              "importance": 1,
+              "previous": "2.5 %",
+              "forecast": "2.75 %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180418",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/28",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "04/10",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "02/26",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "11/27",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                },
+                {
+                  "date": "10/23",
+                  "actual": "2.5",
+                  "forecast": "2.5",
+                  "previous": "2.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-12 12:44:39"
             },
             {
               "id": "capital:1177503",
@@ -8625,6 +8799,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-05 00:01:54"
+            },
+            {
+              "id": "capital:1180912",
+              "fid": "1180912",
+              "interval": "this_week",
+              "date": "2026-07-16",
+              "time": "14:00",
+              "datetime": "2026-07-16 14:00:00",
+              "display_time": "07/16 14:00",
+              "country": "英國",
+              "title": "英國5月服務業指數年率",
+              "importance": 1,
+              "previous": "1.7 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180912",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/12",
+                  "actual": "1.7",
+                  "forecast": "1.7",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "1.5",
+                  "forecast": "0.9",
+                  "previous": "1.4"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "1.4",
+                  "forecast": "0.9",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "0.9",
+                  "forecast": "1",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "02/12",
+                  "actual": "0.8",
+                  "forecast": "1",
+                  "previous": "1.4"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "1.4",
+                  "forecast": "1.4",
+                  "previous": "1.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-12 12:44:39"
             },
             {
               "id": "capital:1173888",
@@ -10657,6 +10889,64 @@
               "history_checked_at": "2026-07-05 00:07:08"
             },
             {
+              "id": "capital:1180913",
+              "fid": "1180913",
+              "interval": "this_week",
+              "date": "2026-07-16",
+              "time": "23:30",
+              "datetime": "2026-07-16 23:30:00",
+              "display_time": "07/16 23:30",
+              "country": "美國",
+              "title": "美國至7月16日4周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "26.29 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180913",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/25",
+                  "actual": "24.04",
+                  "forecast": "-",
+                  "previous": "64.65"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "64.65",
+                  "forecast": "-",
+                  "previous": "70.32"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "70.32",
+                  "forecast": "-",
+                  "previous": "27.64"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "27.64",
+                  "forecast": "-",
+                  "previous": "41.91"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "41.91",
+                  "forecast": "-",
+                  "previous": "62.57"
+                },
+                {
+                  "date": "05/21",
+                  "actual": "62.57",
+                  "forecast": "-",
+                  "previous": "25.82"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-12 12:44:39"
+            },
+            {
               "id": "capital:1173916",
               "fid": "1173916",
               "interval": "this_week",
@@ -11254,7 +11544,7 @@
               "title": "歐元區6月CPI年率終值",
               "importance": 2,
               "previous": "2.8 %",
-              "forecast": "-- %",
+              "forecast": "2.8 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173923",
@@ -11369,7 +11659,7 @@
               "country": "歐元區",
               "title": "歐元區6月核心CPI年率終值",
               "importance": 1,
-              "previous": "2.3 %",
+              "previous": "2.2 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -11427,7 +11717,7 @@
               "country": "歐元區",
               "title": "歐元區6月核心CPI月率終值",
               "importance": 1,
-              "previous": "0.3 %",
+              "previous": "0.2 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -12593,7 +12883,7 @@
               "country": "美國",
               "title": "美國至7月17日當週天然氣鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "126",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -12651,7 +12941,7 @@
               "country": "美國",
               "title": "美國至7月17日當週石油鑽井總數(口)",
               "importance": 2,
-              "previous": "--",
+              "previous": "445",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -12709,7 +12999,7 @@
               "country": "美國",
               "title": "美國至7月17日當週總鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "581",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -25735,6 +26025,122 @@
       "history_checked_at": "2026-07-05 00:01:54"
     },
     {
+      "id": "capital:1180915",
+      "fid": "1180915",
+      "interval": "this_week",
+      "date": "2026-07-15",
+      "time": "00:00",
+      "datetime": "2026-07-15 00:00:00",
+      "display_time": "07/15 00:00",
+      "country": "中國",
+      "title": "中國6月全社會用電量(億千瓦時)",
+      "importance": 2,
+      "previous": "8671",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180915",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/18",
+          "actual": "8671",
+          "forecast": "-",
+          "previous": "8205"
+        },
+        {
+          "date": "05/19",
+          "actual": "8205",
+          "forecast": "-",
+          "previous": "8595"
+        },
+        {
+          "date": "04/20",
+          "actual": "8595",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "8356",
+          "forecast": "-",
+          "previous": "8572"
+        },
+        {
+          "date": "11/21",
+          "actual": "8572",
+          "forecast": "-",
+          "previous": "8886"
+        },
+        {
+          "date": "10/23",
+          "actual": "8886",
+          "forecast": "-",
+          "previous": "10154"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-12 12:44:39"
+    },
+    {
+      "id": "capital:1180914",
+      "fid": "1180914",
+      "interval": "this_week",
+      "date": "2026-07-15",
+      "time": "00:00",
+      "datetime": "2026-07-15 00:00:00",
+      "display_time": "07/15 00:00",
+      "country": "中國",
+      "title": "中國6月全社會用電量同比",
+      "importance": 3,
+      "previous": "6.9 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180914",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/18",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "6"
+        },
+        {
+          "date": "05/19",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "04/20",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "6.2",
+          "forecast": "-",
+          "previous": "10.4"
+        },
+        {
+          "date": "11/21",
+          "actual": "10.4",
+          "forecast": "-",
+          "previous": "4.5"
+        },
+        {
+          "date": "10/23",
+          "actual": "4.5",
+          "forecast": "-",
+          "previous": "5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-12 12:44:39"
+    },
+    {
       "id": "capital:1173838",
       "fid": "1173838",
       "interval": "this_week",
@@ -28820,7 +29226,7 @@
       "title": "美國6月PPI月率",
       "importance": 2,
       "previous": "1.1 %",
-      "forecast": "0 %",
+      "forecast": "0.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173864",
@@ -30665,6 +31071,64 @@
       "history_checked_at": "2026-07-05 00:01:54"
     },
     {
+      "id": "capital:1180418",
+      "fid": "1180418",
+      "interval": "this_week",
+      "date": "2026-07-16",
+      "time": "08:40",
+      "datetime": "2026-07-16 08:40:00",
+      "display_time": "07/16 08:40",
+      "country": "韓國",
+      "title": "韓國至7月16日央行利率決定",
+      "importance": 1,
+      "previous": "2.5 %",
+      "forecast": "2.75 %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180418",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/28",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        },
+        {
+          "date": "04/10",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        },
+        {
+          "date": "02/26",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        },
+        {
+          "date": "01/15",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        },
+        {
+          "date": "11/27",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        },
+        {
+          "date": "10/23",
+          "actual": "2.5",
+          "forecast": "2.5",
+          "previous": "2.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-12 12:44:39"
+    },
+    {
       "id": "capital:1177503",
       "fid": "1177503",
       "interval": "this_week",
@@ -31301,6 +31765,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-05 00:01:54"
+    },
+    {
+      "id": "capital:1180912",
+      "fid": "1180912",
+      "interval": "this_week",
+      "date": "2026-07-16",
+      "time": "14:00",
+      "datetime": "2026-07-16 14:00:00",
+      "display_time": "07/16 14:00",
+      "country": "英國",
+      "title": "英國5月服務業指數年率",
+      "importance": 1,
+      "previous": "1.7 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180912",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/12",
+          "actual": "1.7",
+          "forecast": "1.7",
+          "previous": "1.5"
+        },
+        {
+          "date": "05/14",
+          "actual": "1.5",
+          "forecast": "0.9",
+          "previous": "1.4"
+        },
+        {
+          "date": "04/16",
+          "actual": "1.4",
+          "forecast": "0.9",
+          "previous": "0.9"
+        },
+        {
+          "date": "03/13",
+          "actual": "0.9",
+          "forecast": "1",
+          "previous": "0.8"
+        },
+        {
+          "date": "02/12",
+          "actual": "0.8",
+          "forecast": "1",
+          "previous": "1.4"
+        },
+        {
+          "date": "01/15",
+          "actual": "1.4",
+          "forecast": "1.4",
+          "previous": "1.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-12 12:44:39"
     },
     {
       "id": "capital:1173888",
@@ -33333,6 +33855,64 @@
       "history_checked_at": "2026-07-05 00:07:08"
     },
     {
+      "id": "capital:1180913",
+      "fid": "1180913",
+      "interval": "this_week",
+      "date": "2026-07-16",
+      "time": "23:30",
+      "datetime": "2026-07-16 23:30:00",
+      "display_time": "07/16 23:30",
+      "country": "美國",
+      "title": "美國至7月16日4周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "26.29 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180913",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/25",
+          "actual": "24.04",
+          "forecast": "-",
+          "previous": "64.65"
+        },
+        {
+          "date": "06/18",
+          "actual": "64.65",
+          "forecast": "-",
+          "previous": "70.32"
+        },
+        {
+          "date": "06/11",
+          "actual": "70.32",
+          "forecast": "-",
+          "previous": "27.64"
+        },
+        {
+          "date": "06/04",
+          "actual": "27.64",
+          "forecast": "-",
+          "previous": "41.91"
+        },
+        {
+          "date": "05/28",
+          "actual": "41.91",
+          "forecast": "-",
+          "previous": "62.57"
+        },
+        {
+          "date": "05/21",
+          "actual": "62.57",
+          "forecast": "-",
+          "previous": "25.82"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-12 12:44:39"
+    },
+    {
       "id": "capital:1173916",
       "fid": "1173916",
       "interval": "this_week",
@@ -33924,7 +34504,7 @@
       "title": "歐元區6月CPI年率終值",
       "importance": 2,
       "previous": "2.8 %",
-      "forecast": "-- %",
+      "forecast": "2.8 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173923",
@@ -34039,7 +34619,7 @@
       "country": "歐元區",
       "title": "歐元區6月核心CPI年率終值",
       "importance": 1,
-      "previous": "2.3 %",
+      "previous": "2.2 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -34097,7 +34677,7 @@
       "country": "歐元區",
       "title": "歐元區6月核心CPI月率終值",
       "importance": 1,
-      "previous": "0.3 %",
+      "previous": "0.2 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -35257,7 +35837,7 @@
       "country": "美國",
       "title": "美國至7月17日當週天然氣鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "126",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -35315,7 +35895,7 @@
       "country": "美國",
       "title": "美國至7月17日當週石油鑽井總數(口)",
       "importance": 2,
-      "previous": "--",
+      "previous": "445",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -35373,7 +35953,7 @@
       "country": "美國",
       "title": "美國至7月17日當週總鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "581",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
