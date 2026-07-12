@@ -1,7 +1,15 @@
 {
   "date": "2026-07-12",
-  "count": 910,
+  "count": 911,
   "items": [
+    {
+      "id": "mkt:019f5708-c311-7aab-8d45-fc3cb575e536",
+      "time": "2026-07-12 23:53:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel to hold Oct. 27 parliamentary election; first on-schedule vote in nearly 40 years】Knesset House Committee chair Ofir Katz said elections will be held on Oct. 27. The current Knesset completes its four‑year statutory term on July 17; Knesset legal adviser Sagit Afik said the Knesset will serve its full term and will not be dissolved early, so no early‑dissolution bill is required. This would be the first Israeli parliamentary election held on its legal date in nearly 40 years and the first government in more than 50 years to complete a full term."
+    },
     {
       "id": "4982998",
       "time": "2026-07-12 23:48:53",
