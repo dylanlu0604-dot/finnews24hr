@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-12 08:02:47",
-  "count": 16293,
+  "updated": "2026-07-12 08:06:30",
+  "count": 16300,
   "items": [
+    {
+      "id": "mkt:019f53a5-2960-7aab-8d40-1d01ea92c720",
+      "time": "2026-07-12 08:06:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US forces strike multiple sites in southern Iran, CENTCOM confirms】Local early hours of July 12: explosions reported on Qeshm Island, Bandar Abbas and Sirik in Hormozgan province, and in Bushehr city and Asaluyeh in Bushehr province. US Central Command confirmed the strikes, saying they were the third round of US attacks on Iran this week."
+    },
+    {
+      "id": "4982430",
+      "time": "2026-07-12 08:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿曼附近海域一艘集裝箱船遇襲起火】據英國海上貿易行動辦公室11日通報，一艘集裝箱船當天在阿曼附近海域遭遇襲擊，船尾受損且船上發生火災。（新華社）"
+    },
+    {
+      "id": "4982429",
+      "time": "2026-07-12 08:04:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗恰巴哈爾港附近傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f53a3-691a-7aab-8d40-1573fd82fc3b",
+      "time": "2026-07-12 08:04:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iranian state TV reported explosions were heard near Chabahar."
+    },
+    {
+      "id": "4982428",
+      "time": "2026-07-12 08:03:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗南部多地遭美軍襲擊】當地時間今天（7月12日）凌晨，伊朗南部霍爾木茲甘省的格什姆島、阿巴斯港、錫裡克，以及布什爾省的布什爾市、阿薩盧耶等多地均傳出爆炸聲。美軍中央司令部證實，美軍對伊朗發動本週第三輪襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f53a2-9744-7aab-8d40-0c70407df152",
+      "time": "2026-07-12 08:03:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports: US Secretary of Defense says Iran is paying the price for its \"wrong choices\"."
+    },
+    {
+      "id": "4982427",
+      "time": "2026-07-12 08:03:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭、甬地鐵全線網臨時停運，南京地鐵地面及高架區段暫停運營】受今年第9號颱風“巴威”影響，自7月12日運營時起，南京地鐵全線網地面及高架區段暫停運營。南京地鐵集團當天凌晨釋出的公告稱，恢復時間另行通知。據南京市氣象臺12日00時02分發布的颱風橙色預警，受“巴威”影響，預計12日全市最大陣風陸上可達9～10級、水面可達10～12級，並可能伴有短時強降水。當天1時，南京市防汛抗旱指揮部將防颱風應急響應提升至Ⅱ級，提醒市民非必要不外出。此外，杭州市地鐵集團全線網7月12日6時起採取停運措施。7月11日12時起，寧波地鐵1、2、3、4號線高架區段及部分地下車站暫停運營；19時起，全線網暫停運營。杭州、寧波分別於7月11日18時、7月10日21時提升防颱風應急響應至Ⅰ級。7月11日深夜和12日凌晨，“巴威”先後在浙江台州玉環坎門、溫州樂清市清江鎮沿海登陸，兩次登陸時，其中心附近最大風力均達13級，是今年以來登陸我國的最強颱風。（澎湃新聞）"
+    },
+    {
+      "id": "4982426",
+      "time": "2026-07-12 08:03:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國首筆！藥品追溯碼無追索權保理業務在溫州落地】近日，在溫州市醫保局的積極推動下，全國首筆基於藥品追溯碼的無追索權保理業務成功落地。國藥控股溫州有限公司憑藉藥品追溯碼形成的真實交易記錄，將其對溫州醫科大學附屬眼視光醫院的應收賬款轉讓給招商銀行溫州分行，順利獲得900餘萬元融資。這種“買斷式保理”模式，讓醫藥企業無需等待回款賬期即可提前獲得資金，銀行不保留追索權，風險由銀行自行承擔。（國家醫保局）"
+    },
     {
       "id": "4982425",
       "time": "2026-07-12 08:01:49",
@@ -148610,14 +148683,6 @@
         "MKT News"
       ],
       "text": "【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring."
-    },
-    {
-      "id": "4970746",
-      "time": "2026-07-05 08:05:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普計劃在國家廣場舉辦集會，紀念美國獨立 250 週年，但強風暴天氣令該計劃受阻。"
     }
   ]
 }
