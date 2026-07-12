@@ -1,7 +1,30 @@
 {
   "date": "2026-07-12",
-  "count": 820,
+  "count": 822,
   "items": [
+    {
+      "id": "4982933",
+      "time": "2026-07-12 21:27:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta面臨1.4萬億美元罰款，被指控侵害未成年人權益】美國4州聯合指控“元”公司（Meta）利用成癮演算法誘導未成年人，並隱瞞其對青少年心理健康的負面影響，索賠高達1.4萬億美元；全美已有29州就此提起訴訟。與此同時，歐盟委員會依據《數字服務法》釋出初步報告，要求Meta修改“自動播放”“無限滾動”等成癮性設計，否則面臨全球年收入6%的鉅額罰款。Meta否認指控，並表示將繼續抗辯。（環球網）"
+    },
+    {
+      "id": "mkt:019f5681-c2cc-7aab-8d45-377e61b277f4",
+      "time": "2026-07-12 21:26:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【U.S. military rebuts Iranian claim of control over Strait of Hormuz, says strait is international waterway】CENTCOM said on social media that a recent claim by Iran’s Islamic Revolutionary Guard Corps navy commander — that foreign vessels may not transit the Strait of Hormuz without identification, tracking and monitoring by Iranian forces — is false. Iran does not control the Strait of Hormuz; it remains an international waterway. U.S. forces are deployed and ready to maintain that status and ensure freedom of navigation, and shipping in the strait is continuing normally."
+    },
     {
       "id": "4982932",
       "time": "2026-07-12 21:21:42",

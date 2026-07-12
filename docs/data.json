@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-12 21:24:30",
-  "count": 16620,
+  "updated": "2026-07-12 21:28:36",
+  "count": 16621,
   "items": [
+    {
+      "id": "4982933",
+      "time": "2026-07-12 21:27:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta面臨1.4萬億美元罰款，被指控侵害未成年人權益】美國4州聯合指控“元”公司（Meta）利用成癮演算法誘導未成年人，並隱瞞其對青少年心理健康的負面影響，索賠高達1.4萬億美元；全美已有29州就此提起訴訟。與此同時，歐盟委員會依據《數字服務法》釋出初步報告，要求Meta修改“自動播放”“無限滾動”等成癮性設計，否則面臨全球年收入6%的鉅額罰款。Meta否認指控，並表示將繼續抗辯。（環球網）"
+    },
+    {
+      "id": "mkt:019f5681-c2cc-7aab-8d45-377e61b277f4",
+      "time": "2026-07-12 21:26:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【U.S. military rebuts Iranian claim of control over Strait of Hormuz, says strait is international waterway】CENTCOM said on social media that a recent claim by Iran’s Islamic Revolutionary Guard Corps navy commander — that foreign vessels may not transit the Strait of Hormuz without identification, tracking and monitoring by Iranian forces — is false. Iran does not control the Strait of Hormuz; it remains an international waterway. U.S. forces are deployed and ready to maintain that status and ensure freedom of navigation, and shipping in the strait is continuing normally."
+    },
     {
       "id": "4982932",
       "time": "2026-07-12 21:21:42",
@@ -151439,14 +151462,6 @@
         "其他"
       ],
       "text": "【中國政府援助委內瑞拉首批緊急人道主義救災物資啟運】7月5日晚間，中國政府向委內瑞拉提供的首批緊急人道主義地震救災援助物資從北京首都國際機場啟運。據瞭解，首批物資重80餘噸，主要包括20臺發電機、8套淨水車、200個消毒機、200套太陽能照明裝置、1700餘件帳篷和6700餘條毛毯等，由1架民航包機運往委內瑞拉首都加拉加斯。其餘批次物資將陸續發運。委內瑞拉6月24日發生強烈地震，造成嚴重人員傷亡和財產損失。地震發生後，中國政府已第一時間向委方提供緊急人道主義地震救災現匯援助。（新華社）"
-    },
-    {
-      "id": "mkt:019f3275-5116-7aab-8ca2-f25f6b70a0ab",
-      "time": "2026-07-05 21:26:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports Israeli Prime Minister Netanyahu today refused to comply with a Supreme Court ruling. The move is the first such occurrence in Israeli history and sharply escalates the constitutional crisis ahead of October's election."
     }
   ]
 }
