@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 03:53:36",
+  "updated": "2026-07-13 03:57:28",
   "count": 16618,
   "items": [
+    {
+      "id": "4983062",
+      "time": "2026-07-13 03:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特外交大臣與地區多國外交大臣通話磋商】沙特外交大臣分別與卡達、阿曼、巴林及約旦外交大臣通電話，磋商地區局勢、緩和緊張局勢的相關舉措，以及霍爾木茲海峽航行自由問題。各方官員重申譴責伊朗多次襲擊地區國家的行為，反對任何可能侵犯國家主權、威脅地區安全與穩定的舉動。"
+    },
     {
       "id": "mkt:019f57e3-d29f-7aab-8d46-d3871c892237",
       "time": "2026-07-13 03:52:56",
@@ -151461,14 +151469,6 @@
         "國際"
       ],
       "text": "伊朗媒體：卡達魯韋斯港與伊朗各港口間海上貿易即刻恢復通航。"
-    },
-    {
-      "id": "mkt:019f33d9-556e-7aab-8ca5-2b9eb5a517db",
-      "time": "2026-07-06 03:55:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses."
     }
   ]
 }
