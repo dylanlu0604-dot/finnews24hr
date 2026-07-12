@@ -1,7 +1,44 @@
 {
   "date": "2026-07-13",
-  "count": 103,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:019f582e-8e36-7aab-8d47-0ea6c028c6db",
+      "time": "2026-07-13 05:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syrian People's Assembly holds first transitional session, elects speaker】The Syrian People's Assembly met on the 12th for its first session since the 2024 political upheaval, MPs were sworn in before transitional government president Ahmad Shala and voted Abdul Hamid Awak as speaker; two deputy speakers and a secretary were also elected."
+    },
+    {
+      "id": "4983076",
+      "time": "2026-07-13 05:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞人民議會舉行過渡時期首次會議 選出議長】敘利亞人民議會12日舉行自2024年敘政局劇變以來的首次會議，選舉產生議長、兩名副議長和一名秘書。在本次會議上，議員們在敘過渡政府總統艾哈邁德·沙拉麵前集體宣誓就職，隨後投票選舉阿卜杜勒·哈米德·阿瓦克為議長。（新華社）"
+    },
+    {
+      "id": "4983075",
+      "time": "2026-07-13 05:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗錫裡克附近發生多起爆炸。"
+    },
+    {
+      "id": "mkt:019f582c-a4f6-7aab-8d47-01c40c3146b3",
+      "time": "2026-07-13 05:12:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported explosions heard again in southern Iran."
+    },
     {
       "id": "mkt:019f582b-7a44-7aab-8d46-ffb0a116e5f3",
       "time": "2026-07-13 05:11:12",
