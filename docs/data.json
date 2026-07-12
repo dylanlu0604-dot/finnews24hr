@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 01:44:25",
+  "updated": "2026-07-13 01:48:54",
   "count": 16622,
   "items": [
+    {
+      "id": "4983042",
+      "time": "2026-07-13 01:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗霍爾木茲甘省多地遭美襲擊 致1死2傷】當地時間12日，據伊朗霍爾木茲甘省政府知情人士訊息，美國當天對該省部分地區發動新一輪襲擊，包括格什姆島在內的多個地點遭襲，當地傳出數次爆炸聲。另有訊息稱，霍爾木茲甘省首府阿巴斯港也傳出爆炸聲。知情人士稱，襲擊造成1人死亡、2人受傷。目前傷者正在接受治療。"
+    },
     {
       "id": "mkt:019f5769-9520-7aab-8d46-73d7e28ce587",
       "time": "2026-07-13 01:39:24",
@@ -151474,14 +151482,6 @@
         "其他"
       ],
       "text": "市場資訊：隨著英國唐寧街10號權力交接談判升級，安迪·伯納姆因內閣席位空缺問題遭到警示。"
-    },
-    {
-      "id": "mkt:019f3364-231e-7aab-8ca4-b5c07d93d963",
-      "time": "2026-07-06 01:47:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Trump called Putin and Zelensky seeking to restart stalled peace talks and offered to help mediate a Russia-Ukraine settlement ahead of the NATO summit in Turkey."
     }
   ]
 }
