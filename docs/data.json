@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-12 09:20:58",
-  "count": 16338,
+  "updated": "2026-07-12 09:24:48",
+  "count": 16340,
   "items": [
+    {
+      "id": "4982488",
+      "time": "2026-07-12 09:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市平谷區釋出暴雨紅色預警 請注意防範】記者從北京市氣象局瞭解到，目前平谷區已經出現200毫米以上降水，預計降雨將持續至12時，山區及淺山區出現山洪、泥石流、滑坡等次生災害風險較高，低窪地區易出現積水，請注意防範。（央視新聞）"
+    },
+    {
+      "id": "4982487",
+      "time": "2026-07-12 09:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美軍成功打擊伊朗軍事目標】據美國阿克西奧斯新聞網站11日援引一名美國高階官員的話報道，美軍當天成功打擊了伊朗的空中監視雷達、導彈和無人機儲存設施、導彈和無人機發射陣地、海上監視雷達和地對空導彈發射裝置。美軍中央司令部11日在社交媒體發文稱，美軍於美國東部時間11日19時15分開始對伊朗發起打擊。這是美軍本週內第三次對伊朗發動打擊。（新華社）"
+    },
+    {
+      "id": "4982486",
+      "time": "2026-07-12 09:21:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚焦衛星鐳射通訊 氦星光聯研發中心簽約落戶光谷】據“中國光谷”訊息，7月9日，東湖高新區與氦星光聯科技（深圳）有限公司（簡稱“氦星光聯”）簽署協議。此次簽約後，氦星光聯將在光谷建設鐳射通訊研發中心，聚焦衛星鐳射通訊終端研發，將有效承接並轉化本地高校與科研院所光電成果，與綜保區內光迅科技及中信科移動等龍頭企業形成星間鐳射通訊裝置上下游聯動，共同帶動上游高精密光學元件、下游衛星應用相關企業聚集，加速構建光谷空天資訊產業的完整生態閉環。"
+    },
     {
       "id": "4982485",
       "time": "2026-07-12 09:19:26",
@@ -149021,14 +149045,6 @@
         "DXY"
       ],
       "text": "【Trump administration plans to rescind 702 federal rules, steps up deregulation】The Trump administration released a regulatory-reform plan on Friday proposing the rescission of 702 federal rules, a record for the White House semiannual regulatory agenda and about double the scale of reforms pursued during his first term. It says it has finalized or implemented 752 deregulatory actions since the start of the federal fiscal year on Oct. 1, 2025. Measures slated for removal by fiscal year-end Sept. 30 include environmental review requirements for energy projects, energy-efficiency standards and rules tied to diversity, equity and inclusion. The administration projects $1.5 trillion in cost savings to the U.S. economy if all planned rollbacks are completed by Sept. 30."
-    },
-    {
-      "id": "4970772",
-      "time": "2026-07-05 09:23:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“美莎克”二次登陸越南北部 當地大範圍斷電斷網】當地時間4日晚，颱風“美莎克”在越南廣寧省沿海二次登陸。總檯記者在廣寧省芒街看到，當地出現大風和強降雨天氣，很多房屋的房頂被風掀翻。目前，越南政府已經對沿海和山區存在風險地區的居民進行了轉移，也對斷電和斷網地區的電力與通訊設施加緊搶修。北部沿岸地區的船隻都已被要求入港靠泊，當地居民也被要求儘量避免外出。（央視新聞）"
     }
   ]
 }
