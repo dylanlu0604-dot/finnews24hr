@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-13 06:11:14",
-  "count": 16646,
+  "updated": "2026-07-13 06:15:02",
+  "count": 16649,
   "items": [
+    {
+      "id": "mkt:019f5864-ef40-7aab-8d47-8180be4fbe57",
+      "time": "2026-07-13 06:13:57",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "USD/JPY traded above 162, up 0.18% intraday."
+    },
+    {
+      "id": "4983116",
+      "time": "2026-07-13 06:13:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨報69100點，現貨收盤價為68557點。"
+    },
+    {
+      "id": "4983115",
+      "time": "2026-07-13 06:13:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報58.63美元/盎司。"
+    },
+    {
+      "id": "mkt:019f5864-4f68-7aab-8d47-7fc1c67977c0",
+      "time": "2026-07-13 06:13:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose past $74/bbl, up 3.63% intraday."
+    },
+    {
+      "id": "4983114",
+      "time": "2026-07-13 06:12:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4090美元/盎司，日內跌0.58%。"
+    },
     {
       "id": "mkt:019f585e-f977-7aab-8d47-729bbbb8fb2b",
       "time": "2026-07-13 06:07:26",
@@ -151722,22 +151770,6 @@
         "Precious Metals"
       ],
       "text": "Australian gold producer Regis Resources reported FY2026 gold production of 379,000 oz, at the top end of its guidance. Fourth-quarter production was 79,099 oz."
-    },
-    {
-      "id": "4971140",
-      "time": "2026-07-06 06:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國紐約州州長霍楚爾：今晚開始下雨，夜間雨勢將加大。"
-    },
-    {
-      "id": "4971139",
-      "time": "2026-07-06 06:12:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國紐約州州長霍楚爾：洪水風險可能在早高峰時段達到峰值。"
     }
   ]
 }
