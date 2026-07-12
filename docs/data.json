@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-12 16:15:48",
-  "count": 16542,
+  "updated": "2026-07-12 16:19:54",
+  "count": 16546,
   "items": [
+    {
+      "id": "4982794",
+      "time": "2026-07-12 16:19:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會成員阿拉丁·布魯傑迪（Alaeddin Boroujerdi）發表強硬言論：“特朗普、內塔尼亞胡及其執行人員必須時刻警惕。他們應該知道，世界上沒有任何地方是安全的，即使是白宮也不例外。這種報復遲早會實現。“"
+    },
+    {
+      "id": "mkt:019f5568-4822-7aab-8d43-736f69d4630c",
+      "time": "2026-07-12 16:18:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NDRC allocates CNY100 mln central budget to Zhejiang for Typhoon Bavi emergency recovery】Typhoon Bavi, the ninth storm of the year, made landfall in Yuhuan (Taizhou) on the night of July 11 and in Yueqing (Wenzhou) in the early hours of July 12, bringing severe winds and heavy rain across Zhejiang. The National Disaster Reduction and Relief Committee launched a national level-4 emergency response on July 12. Based on the national natural disaster relief emergency plan and Zhejiang’s damage assessment, the NDRC has urgently allocated CNY100 mln of central budget investment to support post-typhoon emergency restoration in Zhejiang, prioritizing repair of damaged roads, water-conservancy infrastructure and restoration of public-service facilities including schools and hospitals to help restore normal production and daily life."
+    },
+    {
+      "id": "4982793",
+      "time": "2026-07-12 16:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委安排1億元中央預算內投資支援浙江颱風災害災後應急恢復】7月11日夜間和12日凌晨，今年第9號颱風“巴威”先後在浙江台州玉環市、溫州樂清市兩次登陸，浙江省多地出現暴風、強降雨等災害，對當地生產生活造成嚴重影響。7月12日，國家防災減災救災委員會啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和浙江省災害損失情況，國家發展改革委緊急安排中央預算內投資1億元，支援浙江省做好颱風災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（央視新聞）"
+    },
+    {
+      "id": "4982792",
+      "time": "2026-07-12 16:18:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【柘中股份：股價連續兩日異動 提醒多項業務及投資風險】柘中股份公告稱，公司股票在2026年7月9日、7月10日連續兩個交易日內日收盤價格漲幅偏離值累計達20%以上，屬於異常波動。經核查，公司前期資訊無需補充更正，近期經營正常，控股股東及實控人未買賣公司股票、無應披露未披露事項。公司提醒，主營訂單實施週期長、營收近三年下滑，2025年淨利潤4.25億元主要源於投資收益；2026年一季度業績下降因金融資產公允價值變動，投資存在多項風險。"
+    },
+    {
+      "id": "4982791",
+      "time": "2026-07-12 16:15:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星星科技：子公司因災停產 去年營收佔比超兩成】星星科技公告稱，受超強颱風“美莎克”影響，全資子公司廣西立馬位於廣西貴港的生產廠區被淹，生產經營臨時暫停。2025年，廣西立馬總資產1.96億元、淨資產0.76億元，營收3.18億元、淨利潤0.27億元，營收佔公司合併報表營收的20.79%。公司其餘生產基地運營正常，整體穩定。公司已啟動應急預案，將及時披露後續進展。"
+    },
+    {
+      "id": "mkt:019f5565-5a5f-7aab-8d43-69098b000ad6",
+      "time": "2026-07-12 16:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Egypt said tourism receipts in fiscal year 2025/26 from July to March totaled $14.4 bln, up from $12.5 bln in the same period a year earlier."
+    },
+    {
+      "id": "mkt:019f5565-2eab-7aab-8d43-626ca2502d08",
+      "time": "2026-07-12 16:15:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian central bank said net foreign direct investment inflows for July–March of fiscal 2025/26 were $13.0 bln, up from $9.8 bln a year earlier."
+    },
+    {
+      "id": "4982790",
+      "time": "2026-07-12 16:15:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行資料顯示，2025/26財年7月至3月旅遊收入為144億美元，上年同期為125億美元。"
+    },
     {
       "id": "4982789",
       "time": "2026-07-12 16:14:56",
@@ -150734,38 +150800,6 @@
         "市場"
       ],
       "text": "【7天3板*ST亞士：股價短期上漲幅度較大 未來存在快速下跌的風險】7天3板*ST亞士(603378)7月5日釋出股票交易異常波動公告稱，公司股價短期上漲幅度較大，高於同期行業及上證指數漲幅，且偏離上市公司基本面，存在市場情緒過熱、非理性炒作風險，未來存在快速下跌的風險。經公司自查，公司內外部經營環境和主營業務未發生重大變化。受房地產和建築行業持續疲軟和訂單大幅下滑影響，公司下屬重慶工廠、石家莊工廠、滁州防水工廠目前處於停產停工狀態。同時，鑑於當前產能利用率處於較低水平，廣州工廠也已停止建設。後續公司將根據經營發展情況的變化，對上述停工停產及停建工廠進行妥善安排與處置。"
-    },
-    {
-      "id": "mkt:019f315c-1c18-7aab-8ca1-e22315e7903d",
-      "time": "2026-07-05 16:19:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yongding Co.: 1H 2026 net profit attributable to parent expected up 57%–120% YoY】Yongding Co. expects 1H 2026 net profit attributable to parent of 500–700 mln yuan, up 57%–120% YoY. Prior-year period included an investment gain from an associate’s disposal of a subsidiary; no comparable item occurred in the current period. Profits at the automotive wiring-harness and overseas engineering segments declined YoY. The profit increase is chiefly driven by the optical communications unit, which benefited from accelerated digital-economy rollout and a surge in AI compute demand that lifted fiber volumes and prices, producing sizable margin gains."
-    },
-    {
-      "id": "4970908",
-      "time": "2026-07-05 16:18:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油集團董事長戴厚良會見殼牌公司執行長】當地時間7月4日，中國石油集團董事長戴厚良在倫敦會見了殼牌公司執行長魏斯旺。戴厚良表示，殼牌是中國石油合作歷史最久、合作領域最廣的戰略伙伴之一，雙方在海外6個國家7個專案上開展合作，整體合作良好，體現了雙方著眼長遠、互利共贏的理念。希望雙方充分發揮各自優勢，攜手執行好現有合作專案，進一步拓寬合作領域，實現互利共贏。"
-    },
-    {
-      "id": "4970907",
-      "time": "2026-07-05 16:18:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列襲擊黎巴嫩南部多地】據黎巴嫩國家通訊社4日報道，以色列當天空襲了黎巴嫩南部多個城鎮，造成一人受傷。以色列國防軍當天晚間發表宣告說，以軍當天早些時候在黎巴嫩南部“安全區”內打死一名武裝人員。（新華社）"
-    },
-    {
-      "id": "4970906",
-      "time": "2026-07-05 16:16:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國紐約康尼島發生槍擊案，共計 8 人中槍，其中包含 4 名兒童。"
     }
   ]
 }
