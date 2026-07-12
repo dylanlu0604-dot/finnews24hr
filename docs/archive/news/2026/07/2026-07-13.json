@@ -1,7 +1,47 @@
 {
   "date": "2026-07-13",
-  "count": 34,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:019f574e-13cd-7aab-8d46-586a2eb7a814",
+      "time": "2026-07-13 01:09:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuwait reports border posts, offshore platform damaged; Iran claims strikes on US systems in Kuwait】On the evening of the 12th, Kuwait's defense ministry reported three land border posts in northern Kuwait were attacked, with some facilities damaged. A drilling platform operated by a Kuwaiti state oil company was struck by drones, injuring one worker and sustaining damage; the injured is receiving medical treatment. The Kuwaiti military statement made no mention of US bases or facilities. Iran's military public relations arm said earlier it deployed attack drones against US Patriot air-defence systems, an ammunition depot and a radar site in Kuwait, a claim not reflected in the Kuwaiti statement."
+    },
+    {
+      "id": "mkt:019f574d-7059-7aab-8d46-52dff87ff7a0",
+      "time": "2026-07-13 01:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.8 earthquake at 01:03 on July 13 in Xiaojin County, Aba Prefecture, Sichuan; focal depth 9 km."
+    },
+    {
+      "id": "4983029",
+      "time": "2026-07-13 01:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月13日01時03分在四川阿壩州小金縣（北緯31.51度，東經102.42度）發生3.8級地震，震源深度9千米。"
+    },
+    {
+      "id": "4983028",
+      "time": "2026-07-13 01:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特美軍基地遭襲倖存者控訴軍方決策失職】六名在科威特遭遇伊朗無人機襲擊後倖存的美軍士兵表示，軍方高層無視多次預警，該基地防禦薄弱，極易成為襲擊目標。他們指控高階指揮官將部隊部署至缺乏完善反無人機防禦設施的危險區域；襲擊發生後，指揮官非但未組織救援，反而撤離建築；事後傷員轉運救治工作也處置失當。此次襲擊造成六名美軍士兵遇難，三十餘人受傷。一份內部調查報告未認定相關人員責任，也未提出任何懲處建議，令多名倖存士兵倍感失望，擔憂同類失誤或將重演。"
+    },
+    {
+      "id": "4983027",
+      "time": "2026-07-13 01:05:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude：將把Claude Fable 5在所有付費套餐中的開放使用期限延長至7月19日，同時繼續將Claude Code 的每週使用額度提高50%，這一政策也將持續至7月19日。"
+    },
     {
       "id": "4983026",
       "time": "2026-07-13 01:05:29",
