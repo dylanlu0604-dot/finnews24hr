@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-13 01:13:59_
-_本檔包含 3173 則快訊，約 628449 字_
+_更新時間：2026-07-13 02:34:05_
+_本檔包含 3168 則快訊，約 628288 字_
+
+---
+
+### 2026-07-13 02:30:07  #MKT News #WTI #Impact bullish #Brent
+
+【Canada says it "stands with Gulf states" over Iran attack】Foreign Minister Anand said Canada will stand with Gulf states to confront another round of heavy attacks from Iran, saying the strikes undermined efforts to restore regional security and that attacks on vessels transiting the Strait of Hormuz violate international law.
+
+---
+
+### 2026-07-13 02:15:54  #MKT News #WTI #Impact bullish #Brent
+
+【Analyst: Trump has 'nothing to sell' U.S. voters on Iran war】With the November U.S. midterms approaching, time is running out for President Trump, an analyst said. The U.S. is engaged in a costly, unpopular war with Iran, former Austrian defense attaché Wolfgang Pustai said. He said talks Trump hoped to launch under a memorandum of understanding have failed; Iran has resumed nuclear‑related work and continued attacks on ships in the Strait of Hormuz, leaving Trump with nothing to present to U.S. voters. Pustai added that if Trump makes concessions now the political fallout could worsen for him and cost Republicans in the midterms.
+
+---
+
+### 2026-07-13 02:11:33  #國際
+
+【日本民眾舉行集會 反對政府擴軍修憲】當地時間12日，日本民眾自發在東京澀谷街頭舉行集會，反對日本政府擴軍修憲。參加者表示，日本政府不斷擴大軍備、推動修改和平憲法，背離戰後和平發展道路，令人感到擔憂。（央視新聞）
+
+---
+
+### 2026-07-13 02:01:24  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Security sources said a drone strike targeted a camp of the Iranian Kurdish opposition in Sulaimaniyah in eastern Iraq.
+
+---
+
+### 2026-07-13 02:00:55  #國際
+
+安全訊息人士：無人機襲擊襲擊了伊拉克蘇萊曼尼亞東部的伊朗庫爾德反對派營地。
+
+---
+
+### 2026-07-13 01:59:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran lawmaker: control of Strait of Hormuz is Iran's "final" policy】Hassan Kashkavi, a member of Iran’s parliament National Security and Foreign Policy Committee, told state Press TV on Sunday that Iran prefers to manage the Strait of Hormuz through cooperation with regional states, particularly Oman, and that "the clear official position is that future management of the Strait will be arranged by Iran." A former long‑time Foreign Ministry diplomat, he said UNCLOS permits coastal states in wartime to take measures to ensure safe maritime passage and protect their maritime security, and described recent US strikes linked to Hormuz disputes as violations of the UN Charter and infringements of national sovereignty.
+
+---
+
+### 2026-07-13 01:57:46  #國際
+
+黎巴嫩衛生部表示，自3月2日以來，以色列對黎巴嫩的襲擊已造成至少4,322人死亡和12,219人受傷。
+
+---
+
+### 2026-07-13 01:49:09  #MKT News #WTI #Impact bullish #XAUUSD
+
+【U.S. strikes multiple sites in Iran's Hormozgan province; one killed, two wounded】Local government sources in Iran's Hormozgan province said on the 12th the U.S. launched strikes on multiple locations, including Qeshm Island, and explosions were reported in several areas including the provincial capital Bandar Abbas. Sources said the strikes killed one person and wounded two, who are receiving medical treatment.
+
+---
+
+### 2026-07-13 01:47:59  #國際
+
+【伊朗霍爾木茲甘省多地遭美襲擊 致1死2傷】當地時間12日，據伊朗霍爾木茲甘省政府知情人士訊息，美國當天對該省部分地區發動新一輪襲擊，包括格什姆島在內的多個地點遭襲，當地傳出數次爆炸聲。另有訊息稱，霍爾木茲甘省首府阿巴斯港也傳出爆炸聲。知情人士稱，襲擊造成1人死亡、2人受傷。目前傷者正在接受治療。
+
+---
+
+### 2026-07-13 01:39:24  #MKT News #LMT.O #Impact bullish
+
+U.S. ambassador to NATO Whitaker said Turkey's F-35 sale will proceed if legal conditions are met.
+
+---
+
+### 2026-07-13 01:35:16  #國際
+
+【以色列宣佈將於10月27日舉行大選】當地時間12日，以色列執政聯盟宣佈，以色列第26屆議會選舉將於10月27日舉行。
+
+---
+
+### 2026-07-13 01:32:46  #MKT News
+
+【EU again fails to agree on 21st round of Russia sanctions】On the 12th (local time) the EU again failed to reach agreement on a 21st package of sanctions against Russia. After an ambassadors' meeting on July 10 failed to secure consensus, the EU rotating presidency held intensive consultations with member states; negotiations on the 12th ended without result.
+
+---
+
+### 2026-07-13 01:32:20  #國際
+
+【歐盟再次未就第21輪對俄製裁方案達成一致】當地時間12日，歐盟再次未就對俄羅斯第21輪制裁方案達成一致。據瞭解，在7月10日歐盟成員國大使會議未能就第21輪對俄製裁達成一致後，歐盟輪值主席國仍在與各成員國密集磋商。經過12日一天的談判，最終無果而終。歐盟委員會主席馮德萊恩6月9日說，已向各成員國提交第21輪對俄羅斯制裁措施，主要涉及能源、金融、漁業等領域。根據歐盟相關程式，新一輪制裁措施須經27個成員國一致同意後方可生效。
+
+---
+
+### 2026-07-13 01:31:30  #國際
+
+俄羅斯國防部：防空系統在12小時內擊落了220架烏克蘭武裝部隊的無人機。
+
+---
+
+### 2026-07-13 01:28:26  #國際
+
+美國駐北約大使馬修·惠特克：只要滿足相關法律條件，土耳其引進F-35戰機的交易就能夠落地。
+
+---
+
+### 2026-07-13 01:27:20  #國際
+
+伊朗媒體：兩枚炮彈擊中霍爾木茲海峽附近的阿布穆薩島。
+
+---
+
+### 2026-07-13 01:26:17  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian outlet Fars News reported the Islamic Revolutionary Guard Corps (IRGC) earlier targeted a U.S. rocket-launch system in a drone operation in Kuwait.
+
+---
+
+### 2026-07-13 01:25:33  #焦點 #國際
+
+伊朗媒體：革命衛隊在無人機行動中打擊了位於科威特境內的美軍火箭炮系統。
+
+---
+
+### 2026-07-13 01:25:17  #公司 #國際
+
+伊朗媒體：美伊衝突再度爆發，伊朗南部海灣霍爾木茲甘省遭遇“敵方襲擊”，一名電信公司員工遇難，另有兩人受傷。
+
+---
+
+### 2026-07-13 01:22:10  #國際
+
+以色列國防軍：委內瑞拉國家地震災後重建計劃也已開始實施。該計劃由以色列後方司令部的專家團隊制定，並已獲委內瑞拉代總統、基礎設施部長以及負責該專案的當地團隊批准。
+
+---
+
+### 2026-07-13 01:21:54  #國際
+
+以色列國防軍：過去一週，後方司令部專家代表團繼續在委內瑞拉開展工作，對建築物進行結構分類並評估其穩定性，以確保搜救與災後恢復工作的安全推進。作為任務的一部分，代表團成員開展了實地考察，向居民通報建築物的現狀，並實施工程評估。
 
 ---
 
@@ -19133,161 +19259,5 @@ Onshore RMB closed at 6.7784 per USD at 16:30 on July 10, up 151 pips versus the
 ### 2026-07-10 16:31:14  #公司 #國際
 
 【錫裝股份：為韓國全資子公司提供1.13億元擔保額度】錫裝股份公告稱，公司第四屆董事會第二十三次會議審議透過為韓國全資子公司提供擔保的議案。公司作為履約保證人向其客戶提供母公司連帶責任保證，並利用自有銀行授信額度為其申請開立分離式保函，包括合同金額10%的預付款保函和10%的質量保函。本次擔保總額度為1658.37萬美元，摺合人民幣約1.13億元，若合同金額變動，擔保額度可相應調整，有效期和期限以銷售合同實際需要為準。該擔保額度在董事會審批許可權內，無需提交股東會審議。
-
----
-
-### 2026-07-10 16:31:04  #公司
-
-【撫順特鋼：預計2026年上半年淨虧損2.3億-2.7億元】撫順特鋼公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為-2.70億元至-2.30億元，扣除非經常性損益的淨利潤為-2.80億元至-2.40億元。上年同期淨利潤為-2.78億元。業績預虧主要因特鋼市場中高階材料競爭激烈，公司核心產品競爭加劇，傳統領域需求疲軟，部分產能未完全釋放，規模效益尚未體現。
-
----
-
-### 2026-07-10 16:30:51  #其他
-
-【受颱風“巴威”影響機場將達52座】據飛常準颱風路徑與機場影響預報圖顯示，7月10日至7月13日，預計受颱風“巴威”影響的機場將有52座。
-
----
-
-### 2026-07-10 16:30:37  #央行 #國際
-
-訊息人士：日本央行計劃在7月維持利率不變，但將維持政策指引，承諾繼續推進加息程序。
-
----
-
-### 2026-07-10 16:30:30  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
-
-Sources say the Bank of Japan plans to keep interest rates unchanged in July but will maintain its policy guidance and commit to continuing to advance rate hikes.
-
----
-
-### 2026-07-10 16:30:23  #MKT News
-
-Goldman Sachs expects the South African Reserve Bank to hold rates in July following the central bank's earlier dovish remarks.
-
----
-
-### 2026-07-10 16:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Rises by 2.31% — Top crypto gainers are Ether (2.31%), Bitcoin (1.68%) and Binance (1.28%).
-
----
-
-### 2026-07-10 16:29:56  #MKT News #Market Regions #Greater China
-
-【CHINA meets N. KOREA premier Pak Tae-song in Beijing】On July 10 afternoon, CHINA’s General Secretary and state president met at the Great Hall of the People in Beijing with N. KOREA Politburo Standing Committee member, vice chairman of the State Affairs Commission and premier Pak Tae-song, who is on an official visit to China.
-
----
-
-### 2026-07-10 16:29:27  #MKT News #Market Themes #AI Revolution #6954.T #Impact bullish #1802.T
-
-【AI reshapes logistics: Taisei and Fanuc build 'super warehouse' with double storage capacity】Japanese builder Taisei and industrial-robot maker Fanuc have developed an AI-driven automated warehouse that doubles storage capacity versus traditional facilities. The system uses Fanuc's physical AI to enable robots to identify and accurately pick mixed-SKU pallets with varying sizes and shapes, automating loading and unloading across different-sized goods where previously single-SKU pallets or manual handling were needed. The developers say the warehouse could help ease the logistics sector's chronic driver shortage and enable denser, space-saving facilities closer to consumers, reducing last-mile delivery pressure.
-
----
-
-### 2026-07-10 16:29:10  #宏觀
-
-【習近平會見朝鮮內閣總理樸泰成】7月10日下午，中共中央總書記、國家主席習近平在北京人民大會堂會見來華進行正式訪問的朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成。（央視新聞）
-
----
-
-### 2026-07-10 16:28:29  #公司
-
-【梅花生物：2026年上半年淨利潤預降55%-66%】梅花生物公告稱，預計2026年半年度實現歸屬於母公司所有者的淨利潤6億元到8億元，與上年同期17.68億元相比，預計減少9.70億元到11.70億元，同比減少55%到66%；扣除非經常性損益的淨利潤4.30億元到6.30億元，同比減少61%到74%。業績預減主要因行業供應增加，公司主要產品價格同比下降。
-
----
-
-### 2026-07-10 16:28:11  #公司
-
-【三六零：2026年上半年淨利潤1.8億-2.6億 實現扭虧為盈】三六零公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤約為1.8億元至2.6億元，上年同期為淨虧損2.82億元；扣非淨利潤約為1.3億元至1.9億元，上年同期為淨虧損2.97億元，實現扭虧為盈。業績預盈主要因公司迭代產品驅動營收增長、毛利提升，且調整推廣策略使市場推廣費用下降。
-
----
-
-### 2026-07-10 16:28:05  #公司
-
-【捨得酒業：2026年上半年淨利潤預降60.52%-69.55%】捨得酒業公告稱，預計2026年半年度歸屬母公司所有者的淨利潤1.35億元-1.75億元，同比減少69.55%-60.52%；扣非淨利潤1.23億元-1.63億元，同比減少72.00%-62.90%。營收較上年同期下降16%左右。主要因白酒行業處於深度調整期，公司主動控發貨、消化庫存，且階段性提高市場投入，銷售費用較高。
-
----
-
-### 2026-07-10 16:28:01  #其他
-
-【珍寶島與新迅達舉行戰略交流座談】據珍寶島訊息，7月10日，新迅達董事長吳成華一行赴珍寶島調研，珍寶島董事長方福鑫攜高管團隊同吳成華董事長一行開展深入交流。雙方圍繞醫藥產業轉型升級、人工智慧與算力技術賦能新藥研發等議題展開探討。座談中，雙方圍繞AI賦能醫藥研發、量子計算等開展深入交流。共同認為“量子計算+AI”有望重塑製藥研發正規化，為醫藥產業帶來新的增長空間。
-
----
-
-### 2026-07-10 16:28:00  #公司
-
-【盤江股份：聘任董事會秘書並擬為子公司融資提供擔保】盤江股份公告稱，公司第七屆董事會2026年第九次臨時會議於7月10日召開，審議透過兩項議案。一是同意聘任鄧麗茶女士為公司第七屆董事會董事會秘書，任期至第七屆董事會屆滿；二是同意為貴州盤江恆普煤業有限公司8.04億元額度的融資提供全額連帶責任保證擔保，該子公司以發耳二礦（一期）採礦權抵押給公司提供反擔保，此議案將提交股東會審議。
-
----
-
-### 2026-07-10 16:27:52  #公司 #市場
-
-【盤江股份：2026年上半年淨利潤扭虧為盈 預計達0.57-0.68億元】盤江股份公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為5700萬元到6800萬元，與上年同期的-509.51萬元相比，實現扭虧為盈；扣非淨利潤為6800萬元到8100萬元，上年同期為-1836.21萬元。業績預盈主要因煤炭行業需求回暖、煤價上行，公司精煤銷售價格同比上漲，且持續最佳化商品煤結構，降本增效。本次業績預告未經審計，具體資料以半年度報告為準。
-
----
-
-### 2026-07-10 16:27:49  #公司
-
-【九州通：2025年營收1613.90億元 同比增長6.31%】九州通公告稱，公司於2026年7月9日參加投資者集體接待日活動。2025年，公司實現營業收入1613.90億元，同比增長6.31%；歸母淨利潤22.55億元；經營活動現金流淨額34.41億元。2026年第一季度，營收447.83億元，同比增長6.58%；扣非歸母淨利潤5.43億元，同比增長7.12%。公司制定了2026 - 2028年“四新兩化”戰略規劃，還介紹了各業務板塊發展情況，如CSO業務、醫藥工業業務、好藥師“萬店加盟”等。
-
----
-
-### 2026-07-10 16:27:45  #國際
-
-以色列國家檢察院向貝爾謝巴地區法院提交起訴書，指控四名來自塞格夫沙洛姆及海外的青年犯下恐怖主義罪行，其中一項核心指控為四人圖謀組建恐怖組織。
-
----
-
-### 2026-07-10 16:27:40  #市場
-
-紐約期銀日內跌1%，現報60.08美元/盎司。
-
----
-
-### 2026-07-10 16:27:35  #其他
-
-華宇軟體收到深交所監管函。
-
----
-
-### 2026-07-10 16:27:34  #國際
-
-【美國佛州棕櫚灘機場正式以特朗普冠名】經美國聯邦航空局批准，佛羅里達州棕櫚灘國際機場9日正式更名為“唐納德·特朗普國際機場”。特朗普隨後在社交媒體上發文，對機場更名錶達讚賞，稱該機場是“全世界最偉大、最壯觀的機場之一”。（新華社）
-
----
-
-### 2026-07-10 16:25:50  #其他
-
-九龍倉置業據悉計劃出售位於新加坡價值10億美元的購物中心。
-
----
-
-### 2026-07-10 16:25:28  #市場
-
-【貝肯能源今日漲停，4家機構專用席位淨買入1.08億元】貝肯能源今日漲停，成交額5.90億元，換手率22.64%，盤後龍虎榜資料顯示，4家機構專用席位淨買入1.08億元，有1家機構專用席位淨賣出21.56萬元。
-
----
-
-### 2026-07-10 16:25:27  #國際
-
-歐盟臨時限制向幾內亞公民發放簽證。
-
----
-
-### 2026-07-10 16:24:41  #公司
-
-【英媒曝騰訊正洽談成為Manus最大股東 ，騰訊：不予置評】據英國《金融時報》7月10日訊息，騰訊正在洽談成為中國人工智慧企業Manus的最大股東。 根據兩名知情人士的說法，包括騰訊、真格基金和紅杉中國在內的Manus現有投資者，正就支援一項交易，以20億美元的估值撤銷臉書母公司Meta對Manus的收購，進行洽談。 報道稱，騰訊預計將在此次交易中收購最大股份，但仍將保留少數股東身份。 知情人士還透露，相關討論仍在進行中，交易可能還會引入新的投資者。由於談判仍在進行中，具體細節尚未最終敲定。 觀察者網已尋求騰訊方面對上述訊息做出回應。騰訊僅表示不予置評。 （觀察者網）
-
----
-
-### 2026-07-10 16:24:16  #央行 #觀點
-
-高盛預計南非央行將在7月份維持利率不變。
-
----
-
-### 2026-07-10 16:24:10  #市場
-
-【託倫斯今日漲858.85%，3家機構專用席位淨買入4.05億元】託倫斯今日漲858.85%，成交額59.44億元，換手率81.35%，盤後龍虎榜資料顯示，3家機構專用席位淨買入4.05億元。
 
 ---

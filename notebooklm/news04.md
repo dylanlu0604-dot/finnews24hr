@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 01:13:59_
-_本檔包含 3411 則快訊，約 628771 字_
+_更新時間：2026-07-13 02:34:05_
+_本檔包含 3410 則快訊，約 628072 字_
+
+---
+
+### 2026-07-08 14:52:10  #其他
+
+【曝特斯拉Cybercab搭載更強FSD】特斯拉正傾盡全部資源，為其專屬無人駕駛計程車搭載當下效能頂尖的車載晶片。Cybercab 不僅取消了傳統車載內飾硬體，據 Notateslaapp 報道，這款車型的算力平臺相位元斯拉現有量產家用車型，還完成了一次大規模效能升級。 報道援引一位非常可靠的訊息來源透露，即將量產的 Cybercab，搭載的 FSD 計算機效能，要強於目前 Model 3、Model Y 全系家用車所配備的版本。
+
+---
+
+### 2026-07-08 14:51:28  #市場
+
+【紅利股逆勢活躍 山東高速觸及漲停創歷史新高】部分紅利股盤中逆勢活躍，山東高速觸及漲停，粵高速A漲近2%，雙雙創歷史新高，晉控煤業、山煤國際、廈門國貿、中國銀行、皖通高速漲幅靠前。
+
+---
+
+### 2026-07-08 14:51:26  #國際
+
+【特朗普再次威脅接管格陵蘭島 丹麥首相回應：誓言捍衛北約每一寸領土】丹麥首相弗雷澤裡克森表示，丹麥已做好保衛格陵蘭島這塊領土的準備。此前，美國總統特朗普重申希望美國控制格陵蘭島，並聲稱該島對美國安全具有戰略重要性。在北約峰會召開前夕，丹麥首相說道：“遺憾的是，美國在這一問題上的立場非常明確，而我們的立場也一如既往地明確。”“格陵蘭島當然是非賣品。”這位丹麥領導人提到了北約的核心原則——即《北大西洋公約》第五條款，該條款規定對一個成員國的攻擊即被視為對所有成員國的攻擊。她說：“如果我們當中的任何一方遭遇不測，大家都應當挺身而出，相互支援。”“我們已做好準備，捍衛北約的每一寸領土，包括我們自己的領土。”
+
+---
+
+### 2026-07-08 14:50:48  #其他
+
+【江蘇上半年財政收入逼近6000億】經濟大省江蘇財政實力雄厚，近年來財政收入穩居全國第二，僅次於廣東。江蘇近日率先披露當地今年上半年財政收支情況。 江蘇省財政廳資料顯示，2026年上半年，全省一般公共預算收入完成5941億元，增長1.8%。這一增速略高於去年同期（1.1%）。 根據今年江蘇省預算報告，江蘇今年全年一般公共預算收入預期目標為10450億元，增長2%。從實際執行情況看，上半年當地一般公共預算收入完成年初預算的57%，實現“時間過半、進度過半”，好於年初預期。毫無懸念，今年上半年江蘇省這一收入規模預計繼續穩居全國第二。 一般公共預算收入由稅收收入和非稅收入組成，其中與經濟關聯最為密切的稅收收入又是核心。（第一財經）
+
+---
+
+### 2026-07-08 14:50:29  #國際
+
+【古巴外長痛斥美國代表是騙子】當地時間7月7日，聯合國大會就“必須終止美國對古巴實施的經濟、商業和金融封鎖”議題展開公開辯論，美國常駐聯合國代表華爾茲和古巴外長羅德里格斯爆發了激烈交鋒。華爾茲在發言中公然譏諷古巴革命，面對古巴代表團的現場敲桌抗議，華爾茲稱“這裡是美利堅合眾國，這裡是聯合國，我們要被聽見，你想敲就敲”。古巴外長羅德里格斯則在發言中痛斥華爾茲是“騙子”，並嚴厲譴責美國代表團此前試圖阻撓聯合國大會舉行本場辯論。（CCTV國際時訊）
+
+---
+
+### 2026-07-08 14:50:11  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【Trump renews Greenland takeover threat; Danish PM vows to defend NATO territory】On the eve of the NATO summit, US President Trump reiterated he wants the United States to control Greenland, saying the island is strategically important to US security. Danish Prime Minister Mette Frederiksen responded that Greenland is not for sale, invoked NATO Article 5 and said Denmark stands ready to defend every inch of NATO territory, including Greenland.
+
+---
+
+### 2026-07-08 14:50:04  #國際
+
+【中東硝煙再起 美再以“商船遭襲”為由襲擊伊朗 伊議長痛斥美“違約”】當地時間8日凌晨，伊朗南部多地傳出爆炸聲。美軍中央司令部隨後釋出宣告稱，已完成對伊朗新一輪打擊；伊朗伊斯蘭革命衛隊表示，作為對美國“侵略”行為的“初步回應”，其在行動中打擊了85處美軍重要軍事設施。這是繼6月27日、28日後，美軍時隔10天再以“商船遭襲”為由襲擊伊朗。海灣國家巴林和科威特當天也拉響防空警報，霍爾木茲海峽戰火再起。伊朗伊斯蘭議會議長卡利巴夫8日在社交媒體上發文，強烈譴責美國“嚴重違反”伊美諒解備忘錄。卡利巴夫說，美國違反伊美諒解備忘錄的行為共有五項，分別是：破壞伊朗在霍爾木茲海峽的調整安排；持續威脅對伊朗發動進一步打擊；恢復石油制裁；對伊朗南部發動襲擊；以色列持續侵略黎巴嫩。卡利巴夫寫道：“霸凌與敲詐的時代已經結束。這條路走不通。我們不會屈服。”（央視新聞）
+
+---
+
+### 2026-07-08 14:49:58  #MKT News #Market Themes #AI Revolution
+
+【Some Chinese large AI models up to 90% cheaper than U.S. rivals; U.S. enterprise usage rising】CNBC reported on the 7th that rising pricing from leading U.S. AI vendors is prompting rapid uptake of Chinese large AI models in U.S. enterprise deployments on cost grounds. Industry sources say top Chinese open-source and open-weight models lag frontier U.S. models (OpenAI, Anthropic) by roughly 6–9 months on performance but are priced about 60%–90% lower and cover most routine AI tasks. Aggregator OpenRouter data shows Chinese models have accounted for over 30% of tokens called by U.S. firms each week since Feb. 8, peaking at 46%; the prior 12‑month token-share average was 11%.
+
+---
+
+### 2026-07-08 14:49:54  #公司 #觀點 #國際
+
+【三星投資的AI晶片公司Rebellions計劃明年在韓國進行首次公開募股】Rebellions公司執行長透露，公司計劃於明年第一季度或第二季度在韓國進行首次公開募股（IPO），以期抓住投資者對人工智慧晶片領域的巨大投資熱情。Rebellions執行長Sunghyun Park表示，公司傾向於在韓國主機板市場KOSPI上市，而非KOSDAQ。"實際營收現已產生。這正是我們與承銷商摩根大通及三星證券籌備IPO的原因，"Sunghyun Park週三表示。"我們的投資者更傾向於韓國市場，特別是KOSPI市場，因為我們與韓國政府超級專案高度契合——該專案是全球規模最大的人工智慧基礎設施投資之一，"他補充道。Park表示，公司也在評估其他上市方案，例如美國市場，目前正與紐約證券交易所和納斯達克進行談判。此前媒體曾報道Rebellions正計劃上市，但Park的表態首次披露了該計劃的具體細節。
+
+---
+
+### 2026-07-08 14:49:11  #MKT News #WTI #Impact mixed #Brent
+
+【Market implications if US reimposes sanctions on Iranian oil】If the US reimposes sanctions but buyers remain willing, Iran can still sell crude by discounting; revenue losses from lower prices could be offset by higher global oil prices from any new hostile actions. Since the blockade was lifted, Iran has sold about 100 mln barrels at roughly $65–70/bbl, netting approximately $4 bln. Only a renewed US naval blockade would likely stop those exports, but that would risk a wider military conflict.
+
+---
+
+### 2026-07-08 14:48:57  #公司 #觀點
+
+【東吳證券：首予冰輪環境“買入”評級，AIDC冷源賽道開啟成長空間】東吳證券研報指出，冰輪環境是中國製冷工業奠基企業，AIDC冷源賽道開啟成長空間。未來隨著AIDC冷水機組需求持續釋放，冰輪有望依託高階冷源產品+國內供應鏈協同，進一步強化業績彈性。公司作為國內製冷龍頭，食品冷鏈、能源化工、中央空調基本盤穩健，透過核心壓縮機自主配套+非標系統整合+海外本地化交付能力構築顯著競爭壁壘，有望持續受益AIDC驅動的冷源需求上行趨勢。預計公司2026-2028年歸母淨利潤為8.3/12.2/17.0億元，當前市值對應PE分別為63/43/31X，首次覆蓋給予“買入”評級。
+
+---
+
+### 2026-07-08 14:48:41  #公司 #市場 #國際
+
+【分析師：石油公司利用高油價的機會轉瞬即逝】隆奧的Robin Haworth表示，在中東衝突之際，石油公司利用原油價格上漲的機會轉瞬即逝。這位股票研究分析師表示，由於投資者認為利潤增加是暫時的，主要油氣公司的股票估值並未出現實質性擴張。Haworth在一份研究報告中稱，在油價上限可能在每桶100美元的情況下，股價進一步上漲的空間似乎有限。Haworth說，不過，在修復中東衝突造成的破壞方面，油田服務公司仍有機會。他補充說，結構性產能削減以及烏克蘭對俄羅斯煉油廠的襲擊正在支撐煉油行業的利潤率。Haworth補充說，然而，隨著石油產量和價格恢復正常，其他領域出現了更具吸引力的機會，即金融、公用事業和醫療健康板塊。
+
+---
+
+### 2026-07-08 14:48:25  #公司
+
+【伯納天純涉多起糾紛 伯納天純對外投資6家企業】天眼查App顯示，伯納天純關聯公司上海依蘊寵物用品有限公司成立於2009年6月，法定代表人為趙海明，註冊資本4099.8萬人民幣，經營範圍包括寵物用品、寵物飼料的銷售等，由趙海明、吳曉倩、汪耀等共同持股。對外投資資訊顯示，該公司對外投資6家企業。法律訴訟資訊顯示，該公司曾涉及多起糾紛。
+
+---
+
+### 2026-07-08 14:48:02  #市場
+
+【必和必拓黑德蘭港部分員工將舉行罷工】工會週三表示，必和必拓位於澳大利亞西澳大利亞州黑德蘭港鐵礦石碼頭的員工將於7月16日舉行持續8小時的罷工。此舉將升級工會與這家礦業巨頭之間的緊張關係，並可能使部分鐵礦石供應面臨風險。此次工業行動將涉及黑德蘭港這一全球最大鐵礦石出口港的操作員及維修人員，他們由聯合港口工會代表。工會週三在一份宣告中表示，員工尋求達成一項新的協議，以認可其專業技能、艱苦的工作環境以及所承擔的重大個人成本。
+
+---
+
+### 2026-07-08 14:47:05  #市場 #國際
+
+印度國家證券交易所Nifty 50指數跌幅擴大，最新下跌0.76%。
+
+---
+
+### 2026-07-08 14:46:52  #公司 #國際
+
+三星投資的人工智慧晶片公司Rebellions計劃明年在韓國進行首次公開募股。
+
+---
+
+### 2026-07-08 14:46:42  #MKT News
+
+Iran's Foreign Ministry said the armed forces will, as before, continue to defend the country's territorial integrity, sovereignty and national security and repel aggression.
 
 ---
 
@@ -20437,113 +20539,5 @@ President Trump said the U.S. military has never been stronger or more formidabl
 ### 2026-07-07 12:55:37  #公司
 
 伯恩斯坦首次覆蓋太空探索技術公司（ SPACEX  ）股票，給予跑贏大盤評級，目標價為239美元。
-
----
-
-### 2026-07-07 12:55:23  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell as much as 2.00% intraday.
-
----
-
-### 2026-07-07 12:55:01  #MKT News #SPCX.O #Impact bullish
-
-BERNSTEIN initiates coverage on SpaceX (SPCX.O), assigns Outperform rating and PT $239.
-
----
-
-### 2026-07-07 12:55:00  #其他
-
-【甘肅隴南宕昌縣山體滑坡已有18人獲救】7月7日早上，甘肅省隴南市宕昌縣南河鎮任藏村岷江林業總場發生山體滑坡，造成33人被困，目前已成功救出18人，其中13人生命體徵正常，5人正在搶救中。
-
----
-
-### 2026-07-07 12:54:21  #其他
-
-【法國檢方：拉利克博物館被盜，損失超450萬歐元】法國媒體6日援引當地檢方訊息稱，位於法國東北部莫代河畔的拉利克博物館5日清晨遭遇入室盜竊，共計被盜走價值超450萬歐元的27件展品。法媒援引檢察官弗朗索瓦·安東納的話說，失竊案發生在5日清晨5時25分許，三名戴著面罩和手套的竊賊在強行開啟一道緊急出口和一扇防火門後，進入拉利克博物館主展廳。竊賊砸碎了六個展櫃並盜走27件展品。據初步估算，被盜物品的價值超過450萬歐元。（新華社）
-
----
-
-### 2026-07-07 12:53:17  #其他
-
-傑富瑞將貝萊德目標價從1,199美元上調至1,222美元。
-
----
-
-### 2026-07-07 12:52:16  #MKT News #Important #Market Regions #Japan & APAC #KOSPI #Impact bearish
-
-Korea Exchange halted trading for 20 minutes after the KOSPI index fell 8%, triggering a circuit breaker.
-
----
-
-### 2026-07-07 12:52:06  #市場 #國際
-
-韓國綜合股價指數(KOSPI)下跌8%後，韓國交易所啟動熔斷機制，暫停交易20分鐘。
-
----
-
-### 2026-07-07 12:52:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Moscow mayor says over 430 drones headed to Moscow overnight; most intercepted, 36 destroyed near city】Moscow Mayor Sobyanin said on social media that between the evening of July 6 and 0600 on July 7 local time more than 430 drones flew toward the Moscow region; most were intercepted at long range by air defenses and 36 hostile drones were destroyed as they neared the city.
-
----
-
-### 2026-07-07 12:51:41  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Shares Reverse After Early Gains — The Hang Seng Index fell 0.4%, or 99 points, to 23,518 on Tuesday, reversing earlier gains as property stocks led declines and investors turned cautious ahead of key US and Chinese economic events. Sentiment weakened after the World Bank projected China's economic growth would slow to 4.4% in 2026 and 4.3% in 2027, citing the prolonged property downturn and subdued consumer demand. Investors also awaited the US Federal Reserve's latest policy meeting and China's June CPI and PPI data due this week for clues on the policy outlook. Property developers led losses after the sector index dropped more than 3%, while technology shares also traded lower. Meanwhile, Beijing and Hong Kong announced new measures to expand currency, bond, and gold trading, aiming to strengthen the city's role as a leading offshore yuan hub. Among notable losers were Kuaishou (-9.5%), Kingboard Laminates (-8.9%), Pop Mart (-4.8%), SMIC (-3.2%), and AIA (-2.2%).
-
----
-
-### 2026-07-07 12:51:10  #MKT News #Market Regions #Greater China #01888.HK #Impact bullish
-
-【Citigroup raises Kingboard Laminates PT to HK$130, keeps Buy】Citigroup said Kingboard Laminates (01888.HK) announced price increases above expectations and raised earnings forecasts, lifting its PT to HK$130 from HK$120 while retaining a Buy rating. The bank said recent share weakness reflects rotation out of high-valuation AI hardware into non-tech, Meta selling excess compute and a sell-down by largest shareholder Hallgain, but views the pullback as a buying opportunity. Key catalysts include potentially stronger-than-expected average selling prices for electronic fiberglass cloth, which could produce a 1H earnings beat and prompt upward revisions after 1H results. Citigroup raised 2026-28 profit forecasts by 11-12% to about 9.61 bln yuan, 14.28 bln yuan and 19.52 bln yuan. The stock is on Citigroup’s upside-catalyst watchlist, expiring Aug. 2.
-
----
-
-### 2026-07-07 12:50:56  #國際
-
-【俄稱一夜擊落400餘架飛往莫斯科無人機】  7月7日，俄羅斯首都莫斯科市長索比亞寧透過社交媒體通報，從當地時間6日傍晚至7日清晨6時期間，飛向莫斯科地區的無人機超過430架。大部分已在遠距離被防空部隊攔截。36架敵方無人機在接近莫斯科時被摧毀。
-
----
-
-### 2026-07-07 12:50:22  #央行 #公司 #國際
-
-【荷蘭國際：儘管通脹放緩，菲律賓央行仍可能加息】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管6月份通脹放緩，但菲律賓央行仍可能進一步加息。上個月價格有所回落，讓人們對通脹已經見頂感到些許安心。然而，核心價格壓力依然居高不下，這可能會讓菲律賓央行在政策立場上保持謹慎。Bhargava補充說，整體通脹也可能保持波動，因為潛在的強厄爾尼諾現象可能會在未來幾個月推高食品價格。荷蘭國際集團預計，菲律賓央行將在下半年再加息50個基點。
-
----
-
-### 2026-07-07 12:49:05  #其他
-
-【安徽：打造“免申貸”“免申保”“免申擔”等金融產品矩陣 豐富完善“基金叢林”】7月7日上午，在《安徽省財政金融協同實施方案》政策解讀新聞釋出會上，安徽省委金融辦副主任馬先先表示，下一步，我們將抓好《實施方案》貫徹落實，強化金融政策與財政政策銜接配合，持續完善貼息、貼費、風險補償等支援措施，發揮政府性融資擔保體系增信、分險和引領作用，打造“免申貸”“免申保”“免申擔”等金融產品矩陣，豐富完善“基金叢林”，透過“投、貸、擔、保、補”一體化機制，形成財政引導、金融放大、市場運作的傳導鏈條，構建覆蓋科技創新全鏈條、科技企業全生命週期的金融服務體系，更好促進“科技—產業—金融”良性迴圈。
-
----
-
-### 2026-07-07 12:49:01  #MKT News #Important #Market Regions #Emerging Markets #000660.KS #Impact bearish #005930.KS
-
-【South Korea's KOSPI plunges 8%】South Korea's KOSPI fell 8.00% intraday to 7,405.11 points. SK Hynix and Samsung Electronics dropped about 10%.
-
----
-
-### 2026-07-07 12:48:25  #公司 #國際
-
-【韓國綜指跌幅擴大至8%】韓國綜指跌幅擴大至8%，現報7405.11點。個股方面，SK海力士跌超10%，三星電子跌超9%。
-
----
-
-### 2026-07-07 12:48:14  #MKT News
-
-【Anhui to build 'no-application' loan, guarantee and insurance product matrix; expand fund ecosystem】Anhui provincial financial office deputy director Ma Xianxian said the province will implement its fiscal-financial coordination plan, tightening alignment between fiscal and financial policy and expanding support measures including interest/fee subsidies and risk compensation. The province will leverage government financing guarantees to enhance credit and risk-sharing, launch a product matrix of 'no-application' lending, guarantees and insurance, and broaden its fund ecosystem. An integrated invest–lend–guarantee–insure–subsidize mechanism is intended to create a fiscal-led, finance-amplified, market-operated transmission chain and a financial services system covering the full tech-innovation chain and technology firms' lifecycle.
-
----
-
-### 2026-07-07 12:47:33  #其他
-
-【提前34天 廣州白雲機場口岸客流突破千萬人次】截至7月3日，今年白雲機場口岸出入境人員已超1000萬人次，同比增長19.6%，較2025年提前34天突破千萬大關，重新整理了口岸歷史最快紀錄。（廣州廣播電視臺）
-
----
-
-### 2026-07-07 12:46:27  #MKT News
-
-【Anhui explores 'fund + technology loan + investment‑guarantee linkage + IP pledge' combined financing tool for tech innovation】At a July 7 press briefing on the Anhui Province Fiscal‑Financial Coordination Implementation Plan, Anhui finance department deputy director Zhang Feng said the plan explores financing-innovation pilots: for technology innovation, a combined "fund + technology loan + investment‑guarantee linkage + intellectual‑property pledge" tool; for major project financing, a "special bond + bank credit + REITs" model; for industry cultivation, an "investment‑loan linkage + guarantee credit enhancement + interest‑subsidy and reward" mechanism; and for consumption, "loan interest subsidies + consumer subsidies + receipt lottery." The plan seeks to build a multi‑product, complementary financing ecosystem.
 
 ---

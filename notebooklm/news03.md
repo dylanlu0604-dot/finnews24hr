@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-13 01:13:59_
-_本檔包含 3673 則快訊，約 628230 字_
+_更新時間：2026-07-13 02:34:05_
+_本檔包含 3666 則快訊，約 628001 字_
+
+---
+
+### 2026-07-09 15:12:47  #其他
+
+默茨稱極右勢力會將德國“送入深淵”。
+
+---
+
+### 2026-07-09 15:11:00  #公司
+
+【中郵證券：首予中富電路“買入”評級，結構最佳化驅動營收與盈利雙高增】中郵證券研報指出，中富電路結構最佳化驅動營收與盈利雙高增。公司2025年實現營業收入18.79億元，同比增長29.24%；歸母淨利潤0.29億元。2026年一季度公司業績延續高增長態勢，實現營業收入5.20億元，同比增長37.81%；歸母淨利潤0.19億元，同比增長89.32%，盈利端增速顯著高於收入增速。客戶資源優質穩定，海外佈局加速落地；產能技術雙發力，把握AI機遇。未來公司將堅持“技術領先、細分應用”的發展路線，持續深耕AI電源領域，重點突破晶片封裝電源核心技術，推進高頻高速、大電流高導熱、埋晶片/電感/磁材/電容等新型產品研發，加速向下一代光模組、MEMS、AI電源模組等高階場景匯入，並佈局機器人、感測器等前沿領域技術開發，持續為營收增長注入技術動能，豐富產品儲備。預計公司2026/2027/2028年分別實現收入27/37/49億元，實現歸母淨利潤分別為2.1/5.3/8.7億元，首次覆蓋給予“買入”評級。
+
+---
+
+### 2026-07-09 15:10:39  #其他
+
+華碩6月銷售額1,067億元新臺幣，同比增長56%。
+
+---
+
+### 2026-07-09 15:10:14  #其他
+
+【國防部：“臺獨”是絕路 統一是正道】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。據報道，賴清德在出席臺軍校畢業典禮時稱，臺將持續加強對外軍購和防衛自主。近期，臺海軍還調整組建“濱海作戰指揮部”。請問有何評論？陳曦表示，賴清德鼓譟“以武謀獨”、“倚外謀獨”，再次暴露其“和平破壞者”、“戰爭煽動者”的真實面目。無論賴清德說什麼、做什麼，都改變不了兩岸軍力對比態勢，更阻擋不了祖國必然統一的歷史大勢。“臺獨”是絕路，統一是正道。希望廣大臺灣同胞看清民進黨當局頑固堅持“臺獨”分裂路線的極端危險性、危害性，與我們一道堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，共同維護臺海和平穩定。（大灣區之聲）
+
+---
+
+### 2026-07-09 15:09:20  #兩會
+
+【貴州省政協文化文史與學習委員會原副主任王德玉被開除黨籍】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省政協文化文史與學習委員會原副主任王德玉嚴重違紀違法問題進行了立案審查調查。經查，王德玉喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，不如實報告個人有關事項；違反廉潔紀律，接受可能影響公正執行公務的宴請；違反工作紀律，違規干預和插手司法活動；貪慾膨脹，大搞權錢交易，利用職務便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受鉅額財物。王德玉嚴重違反黨的政治紀律、組織紀律、廉潔紀律和工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予王德玉開除黨籍處分；按規定取消其享受的待遇；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-07-09 15:09:00  #其他
+
+日月光投控第二季度營收1,910.6億元新臺幣，預估1,886.5億元新臺幣。
+
+---
+
+### 2026-07-09 15:08:22  #公司 #國際
+
+【國防部：日本明目張膽將太空作為作戰領域】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。記者：據報道，日本參議院近日透過《防衛省設定法》修正案，將航空自衛隊更名為“航空宇宙自衛隊”，並配套組建“宇宙作戰集團”。請問對此有何評論？陳曦：近年來，日本明目張膽將太空作為作戰領域，把軍事擴張野心伸向太空，相關領域軍事投入5年內增長10倍，作戰兵力擴張30餘倍，這些舉動加速推動太空武器化、戰場化，刺激太空軍備競賽，也再次證明日本“新型軍國主義”已成為赤裸裸的現實威脅。太空的持久和平與安全關乎各國的安全、發展和繁榮，愛好和平的人們應高度警惕日方在太空領域的危險動向，堅決遏阻日本右翼勢力加速“再軍事化”，維護好全人類的共同家園。
+
+---
+
+### 2026-07-09 14:57:32  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Extends Losing Streak to Four — The ASX 200 fell 23 points or 0.3% to end at 8,762 on Thursday, down for the fourth session after U.S. President Trump dismissed further talks with Iran and warned of additional strikes, eroding hopes for Middle East stability. Meanwhile, the International Monetary Fund trimmed its 2026 growth forecast for Australia to 1.9% from the previous projection of 2%, adding that consumer price inflation will remain stubbornly high, likely around 4% for 2026. Process industries, non-energy minerals, healthcare, and consumer non-durables weighed, partly offset by strength in consumer durables, energy minerals, retail trade, and industrial services. Heavyweight BHP Group slipped 1.1% while Rio Tinto tumbled 3.3%, weighed by lower copper prices. Gold stocks also fell, with Evolution Mining and Northern Star Resources slipping 1.7% and 0.9%, respectively. Three of four big banks lost between 0.1% and 0.8%.
+
+---
+
+### 2026-07-09 14:54:29  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Ends at Record High, Posts 2nd Straight Weekly Gain — The NZX 50 rose 120 points, or 0.9%, to close at a record high of 13,786 on Thursday, recovering from a decline in the previous session, mainly buoyed by gains in financials, industrials, and healthcare. Fresh data boosted sentiment, as New Zealand's manufacturing sector recorded its strongest growth since July 2021 despite facing high fuel prices. However, traders continued to assess Wednesday's RBNZ decision to raise interest rates by 25 bps and signal further tightening ahead to bring inflation back to target. Rising oil prices also capped gains, as inflation concerns raised expectations of further interest rate hikes. Fletcher Building surged 5.6% as the company raised its full-year earnings forecast and reported stronger-than-expected sales; Infratil jumped 3.1%, Ebos Group rose 1.8%, and Fisher & Paykel gained 1.2%. For the week, the index rose 1.2%, marking its second consecutive weekly advance. The market will be closed on Friday for a local holiday.
+
+---
+
+### 2026-07-09 14:45:49  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Lose Momentum — The Hang Seng Index fell 0.7%, or 169 points, to close at 24,030 on Thursday, reversing early gains as weakness and volatility in regional technology shares weighed on market sentiment. Knowledge Atlas Technology, also known as Zhipu AI, surged more than 11.3% as volatility surrounding its recent IPO share lock-up expiration eased, while rival MiniMax slumped nearly 18% during its first major lock-up expiry. Meanwhile, Smart-Core Holdings jumped more than 23%, bucking the broader market decline. The weakness in Hong Kong came despite rebounds elsewhere in Asia, with renewed US-Iran tensions pushing oil prices higher and adding pressure to regional risk sentiment. Notable laggards were Tencent (-1.9%), Xiaomi (-1.2%), Meituan (-3.0%), Kuaishou (4.3%), and Pop Mart International (-2.5%). In contrast, Semiconductor Manufacturing International Corporation surged 10.2%.
 
 ---
 
@@ -22010,107 +22070,5 @@ Zhonggong Education shares closed at the daily down-limit late in the session, w
 ### 2026-07-08 14:52:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 【Analyst: Oil producers' window to monetize Middle East price spike is brief】Longode Bank analyst Robin Haworth says the window for oil companies to capitalize on higher prices linked to the Middle East conflict is very short. Major oil and gas stocks have not rerated significantly as investors view elevated profits as temporary. Haworth warns oil may be capped around $100/bbl, leaving limited upside. He sees opportunities in oilfield services to repair conflict damage. Structural capacity declines and Ukrainian strikes on Russian refineries are supporting refining margins, but as output and prices normalize he prefers financials, utilities and healthcare for more attractive opportunities.
-
----
-
-### 2026-07-08 14:52:10  #其他
-
-【曝特斯拉Cybercab搭載更強FSD】特斯拉正傾盡全部資源，為其專屬無人駕駛計程車搭載當下效能頂尖的車載晶片。Cybercab 不僅取消了傳統車載內飾硬體，據 Notateslaapp 報道，這款車型的算力平臺相位元斯拉現有量產家用車型，還完成了一次大規模效能升級。 報道援引一位非常可靠的訊息來源透露，即將量產的 Cybercab，搭載的 FSD 計算機效能，要強於目前 Model 3、Model Y 全系家用車所配備的版本。
-
----
-
-### 2026-07-08 14:51:28  #市場
-
-【紅利股逆勢活躍 山東高速觸及漲停創歷史新高】部分紅利股盤中逆勢活躍，山東高速觸及漲停，粵高速A漲近2%，雙雙創歷史新高，晉控煤業、山煤國際、廈門國貿、中國銀行、皖通高速漲幅靠前。
-
----
-
-### 2026-07-08 14:51:26  #國際
-
-【特朗普再次威脅接管格陵蘭島 丹麥首相回應：誓言捍衛北約每一寸領土】丹麥首相弗雷澤裡克森表示，丹麥已做好保衛格陵蘭島這塊領土的準備。此前，美國總統特朗普重申希望美國控制格陵蘭島，並聲稱該島對美國安全具有戰略重要性。在北約峰會召開前夕，丹麥首相說道：“遺憾的是，美國在這一問題上的立場非常明確，而我們的立場也一如既往地明確。”“格陵蘭島當然是非賣品。”這位丹麥領導人提到了北約的核心原則——即《北大西洋公約》第五條款，該條款規定對一個成員國的攻擊即被視為對所有成員國的攻擊。她說：“如果我們當中的任何一方遭遇不測，大家都應當挺身而出，相互支援。”“我們已做好準備，捍衛北約的每一寸領土，包括我們自己的領土。”
-
----
-
-### 2026-07-08 14:50:48  #其他
-
-【江蘇上半年財政收入逼近6000億】經濟大省江蘇財政實力雄厚，近年來財政收入穩居全國第二，僅次於廣東。江蘇近日率先披露當地今年上半年財政收支情況。 江蘇省財政廳資料顯示，2026年上半年，全省一般公共預算收入完成5941億元，增長1.8%。這一增速略高於去年同期（1.1%）。 根據今年江蘇省預算報告，江蘇今年全年一般公共預算收入預期目標為10450億元，增長2%。從實際執行情況看，上半年當地一般公共預算收入完成年初預算的57%，實現“時間過半、進度過半”，好於年初預期。毫無懸念，今年上半年江蘇省這一收入規模預計繼續穩居全國第二。 一般公共預算收入由稅收收入和非稅收入組成，其中與經濟關聯最為密切的稅收收入又是核心。（第一財經）
-
----
-
-### 2026-07-08 14:50:29  #國際
-
-【古巴外長痛斥美國代表是騙子】當地時間7月7日，聯合國大會就“必須終止美國對古巴實施的經濟、商業和金融封鎖”議題展開公開辯論，美國常駐聯合國代表華爾茲和古巴外長羅德里格斯爆發了激烈交鋒。華爾茲在發言中公然譏諷古巴革命，面對古巴代表團的現場敲桌抗議，華爾茲稱“這裡是美利堅合眾國，這裡是聯合國，我們要被聽見，你想敲就敲”。古巴外長羅德里格斯則在發言中痛斥華爾茲是“騙子”，並嚴厲譴責美國代表團此前試圖阻撓聯合國大會舉行本場辯論。（CCTV國際時訊）
-
----
-
-### 2026-07-08 14:50:11  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【Trump renews Greenland takeover threat; Danish PM vows to defend NATO territory】On the eve of the NATO summit, US President Trump reiterated he wants the United States to control Greenland, saying the island is strategically important to US security. Danish Prime Minister Mette Frederiksen responded that Greenland is not for sale, invoked NATO Article 5 and said Denmark stands ready to defend every inch of NATO territory, including Greenland.
-
----
-
-### 2026-07-08 14:50:04  #國際
-
-【中東硝煙再起 美再以“商船遭襲”為由襲擊伊朗 伊議長痛斥美“違約”】當地時間8日凌晨，伊朗南部多地傳出爆炸聲。美軍中央司令部隨後釋出宣告稱，已完成對伊朗新一輪打擊；伊朗伊斯蘭革命衛隊表示，作為對美國“侵略”行為的“初步回應”，其在行動中打擊了85處美軍重要軍事設施。這是繼6月27日、28日後，美軍時隔10天再以“商船遭襲”為由襲擊伊朗。海灣國家巴林和科威特當天也拉響防空警報，霍爾木茲海峽戰火再起。伊朗伊斯蘭議會議長卡利巴夫8日在社交媒體上發文，強烈譴責美國“嚴重違反”伊美諒解備忘錄。卡利巴夫說，美國違反伊美諒解備忘錄的行為共有五項，分別是：破壞伊朗在霍爾木茲海峽的調整安排；持續威脅對伊朗發動進一步打擊；恢復石油制裁；對伊朗南部發動襲擊；以色列持續侵略黎巴嫩。卡利巴夫寫道：“霸凌與敲詐的時代已經結束。這條路走不通。我們不會屈服。”（央視新聞）
-
----
-
-### 2026-07-08 14:49:58  #MKT News #Market Themes #AI Revolution
-
-【Some Chinese large AI models up to 90% cheaper than U.S. rivals; U.S. enterprise usage rising】CNBC reported on the 7th that rising pricing from leading U.S. AI vendors is prompting rapid uptake of Chinese large AI models in U.S. enterprise deployments on cost grounds. Industry sources say top Chinese open-source and open-weight models lag frontier U.S. models (OpenAI, Anthropic) by roughly 6–9 months on performance but are priced about 60%–90% lower and cover most routine AI tasks. Aggregator OpenRouter data shows Chinese models have accounted for over 30% of tokens called by U.S. firms each week since Feb. 8, peaking at 46%; the prior 12‑month token-share average was 11%.
-
----
-
-### 2026-07-08 14:49:54  #公司 #觀點 #國際
-
-【三星投資的AI晶片公司Rebellions計劃明年在韓國進行首次公開募股】Rebellions公司執行長透露，公司計劃於明年第一季度或第二季度在韓國進行首次公開募股（IPO），以期抓住投資者對人工智慧晶片領域的巨大投資熱情。Rebellions執行長Sunghyun Park表示，公司傾向於在韓國主機板市場KOSPI上市，而非KOSDAQ。"實際營收現已產生。這正是我們與承銷商摩根大通及三星證券籌備IPO的原因，"Sunghyun Park週三表示。"我們的投資者更傾向於韓國市場，特別是KOSPI市場，因為我們與韓國政府超級專案高度契合——該專案是全球規模最大的人工智慧基礎設施投資之一，"他補充道。Park表示，公司也在評估其他上市方案，例如美國市場，目前正與紐約證券交易所和納斯達克進行談判。此前媒體曾報道Rebellions正計劃上市，但Park的表態首次披露了該計劃的具體細節。
-
----
-
-### 2026-07-08 14:49:11  #MKT News #WTI #Impact mixed #Brent
-
-【Market implications if US reimposes sanctions on Iranian oil】If the US reimposes sanctions but buyers remain willing, Iran can still sell crude by discounting; revenue losses from lower prices could be offset by higher global oil prices from any new hostile actions. Since the blockade was lifted, Iran has sold about 100 mln barrels at roughly $65–70/bbl, netting approximately $4 bln. Only a renewed US naval blockade would likely stop those exports, but that would risk a wider military conflict.
-
----
-
-### 2026-07-08 14:48:57  #公司 #觀點
-
-【東吳證券：首予冰輪環境“買入”評級，AIDC冷源賽道開啟成長空間】東吳證券研報指出，冰輪環境是中國製冷工業奠基企業，AIDC冷源賽道開啟成長空間。未來隨著AIDC冷水機組需求持續釋放，冰輪有望依託高階冷源產品+國內供應鏈協同，進一步強化業績彈性。公司作為國內製冷龍頭，食品冷鏈、能源化工、中央空調基本盤穩健，透過核心壓縮機自主配套+非標系統整合+海外本地化交付能力構築顯著競爭壁壘，有望持續受益AIDC驅動的冷源需求上行趨勢。預計公司2026-2028年歸母淨利潤為8.3/12.2/17.0億元，當前市值對應PE分別為63/43/31X，首次覆蓋給予“買入”評級。
-
----
-
-### 2026-07-08 14:48:41  #公司 #市場 #國際
-
-【分析師：石油公司利用高油價的機會轉瞬即逝】隆奧的Robin Haworth表示，在中東衝突之際，石油公司利用原油價格上漲的機會轉瞬即逝。這位股票研究分析師表示，由於投資者認為利潤增加是暫時的，主要油氣公司的股票估值並未出現實質性擴張。Haworth在一份研究報告中稱，在油價上限可能在每桶100美元的情況下，股價進一步上漲的空間似乎有限。Haworth說，不過，在修復中東衝突造成的破壞方面，油田服務公司仍有機會。他補充說，結構性產能削減以及烏克蘭對俄羅斯煉油廠的襲擊正在支撐煉油行業的利潤率。Haworth補充說，然而，隨著石油產量和價格恢復正常，其他領域出現了更具吸引力的機會，即金融、公用事業和醫療健康板塊。
-
----
-
-### 2026-07-08 14:48:25  #公司
-
-【伯納天純涉多起糾紛 伯納天純對外投資6家企業】天眼查App顯示，伯納天純關聯公司上海依蘊寵物用品有限公司成立於2009年6月，法定代表人為趙海明，註冊資本4099.8萬人民幣，經營範圍包括寵物用品、寵物飼料的銷售等，由趙海明、吳曉倩、汪耀等共同持股。對外投資資訊顯示，該公司對外投資6家企業。法律訴訟資訊顯示，該公司曾涉及多起糾紛。
-
----
-
-### 2026-07-08 14:48:02  #市場
-
-【必和必拓黑德蘭港部分員工將舉行罷工】工會週三表示，必和必拓位於澳大利亞西澳大利亞州黑德蘭港鐵礦石碼頭的員工將於7月16日舉行持續8小時的罷工。此舉將升級工會與這家礦業巨頭之間的緊張關係，並可能使部分鐵礦石供應面臨風險。此次工業行動將涉及黑德蘭港這一全球最大鐵礦石出口港的操作員及維修人員，他們由聯合港口工會代表。工會週三在一份宣告中表示，員工尋求達成一項新的協議，以認可其專業技能、艱苦的工作環境以及所承擔的重大個人成本。
-
----
-
-### 2026-07-08 14:47:05  #市場 #國際
-
-印度國家證券交易所Nifty 50指數跌幅擴大，最新下跌0.76%。
-
----
-
-### 2026-07-08 14:46:52  #公司 #國際
-
-三星投資的人工智慧晶片公司Rebellions計劃明年在韓國進行首次公開募股。
-
----
-
-### 2026-07-08 14:46:42  #MKT News
-
-Iran's Foreign Ministry said the armed forces will, as before, continue to defend the country's territorial integrity, sovereignty and national security and repel aggression.
 
 ---

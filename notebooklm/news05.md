@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 01:13:59_
-_本檔包含 3212 則快訊，約 627797 字_
+_更新時間：2026-07-13 02:34:05_
+_本檔包含 3188 則快訊，約 628052 字_
+
+---
+
+### 2026-07-07 12:55:23  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 fell as much as 2.00% intraday.
+
+---
+
+### 2026-07-07 12:55:01  #MKT News #SPCX.O #Impact bullish
+
+BERNSTEIN initiates coverage on SpaceX (SPCX.O), assigns Outperform rating and PT $239.
+
+---
+
+### 2026-07-07 12:55:00  #其他
+
+【甘肅隴南宕昌縣山體滑坡已有18人獲救】7月7日早上，甘肅省隴南市宕昌縣南河鎮任藏村岷江林業總場發生山體滑坡，造成33人被困，目前已成功救出18人，其中13人生命體徵正常，5人正在搶救中。
+
+---
+
+### 2026-07-07 12:54:21  #其他
+
+【法國檢方：拉利克博物館被盜，損失超450萬歐元】法國媒體6日援引當地檢方訊息稱，位於法國東北部莫代河畔的拉利克博物館5日清晨遭遇入室盜竊，共計被盜走價值超450萬歐元的27件展品。法媒援引檢察官弗朗索瓦·安東納的話說，失竊案發生在5日清晨5時25分許，三名戴著面罩和手套的竊賊在強行開啟一道緊急出口和一扇防火門後，進入拉利克博物館主展廳。竊賊砸碎了六個展櫃並盜走27件展品。據初步估算，被盜物品的價值超過450萬歐元。（新華社）
+
+---
+
+### 2026-07-07 12:53:17  #其他
+
+傑富瑞將貝萊德目標價從1,199美元上調至1,222美元。
+
+---
+
+### 2026-07-07 12:52:16  #MKT News #Important #Market Regions #Japan & APAC #KOSPI #Impact bearish
+
+Korea Exchange halted trading for 20 minutes after the KOSPI index fell 8%, triggering a circuit breaker.
+
+---
+
+### 2026-07-07 12:52:06  #市場 #國際
+
+韓國綜合股價指數(KOSPI)下跌8%後，韓國交易所啟動熔斷機制，暫停交易20分鐘。
+
+---
+
+### 2026-07-07 12:52:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Moscow mayor says over 430 drones headed to Moscow overnight; most intercepted, 36 destroyed near city】Moscow Mayor Sobyanin said on social media that between the evening of July 6 and 0600 on July 7 local time more than 430 drones flew toward the Moscow region; most were intercepted at long range by air defenses and 36 hostile drones were destroyed as they neared the city.
+
+---
+
+### 2026-07-07 12:51:41  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Shares Reverse After Early Gains — The Hang Seng Index fell 0.4%, or 99 points, to 23,518 on Tuesday, reversing earlier gains as property stocks led declines and investors turned cautious ahead of key US and Chinese economic events. Sentiment weakened after the World Bank projected China's economic growth would slow to 4.4% in 2026 and 4.3% in 2027, citing the prolonged property downturn and subdued consumer demand. Investors also awaited the US Federal Reserve's latest policy meeting and China's June CPI and PPI data due this week for clues on the policy outlook. Property developers led losses after the sector index dropped more than 3%, while technology shares also traded lower. Meanwhile, Beijing and Hong Kong announced new measures to expand currency, bond, and gold trading, aiming to strengthen the city's role as a leading offshore yuan hub. Among notable losers were Kuaishou (-9.5%), Kingboard Laminates (-8.9%), Pop Mart (-4.8%), SMIC (-3.2%), and AIA (-2.2%).
+
+---
+
+### 2026-07-07 12:51:10  #MKT News #Market Regions #Greater China #01888.HK #Impact bullish
+
+【Citigroup raises Kingboard Laminates PT to HK$130, keeps Buy】Citigroup said Kingboard Laminates (01888.HK) announced price increases above expectations and raised earnings forecasts, lifting its PT to HK$130 from HK$120 while retaining a Buy rating. The bank said recent share weakness reflects rotation out of high-valuation AI hardware into non-tech, Meta selling excess compute and a sell-down by largest shareholder Hallgain, but views the pullback as a buying opportunity. Key catalysts include potentially stronger-than-expected average selling prices for electronic fiberglass cloth, which could produce a 1H earnings beat and prompt upward revisions after 1H results. Citigroup raised 2026-28 profit forecasts by 11-12% to about 9.61 bln yuan, 14.28 bln yuan and 19.52 bln yuan. The stock is on Citigroup’s upside-catalyst watchlist, expiring Aug. 2.
+
+---
+
+### 2026-07-07 12:50:56  #國際
+
+【俄稱一夜擊落400餘架飛往莫斯科無人機】  7月7日，俄羅斯首都莫斯科市長索比亞寧透過社交媒體通報，從當地時間6日傍晚至7日清晨6時期間，飛向莫斯科地區的無人機超過430架。大部分已在遠距離被防空部隊攔截。36架敵方無人機在接近莫斯科時被摧毀。
+
+---
+
+### 2026-07-07 12:50:22  #央行 #公司 #國際
+
+【荷蘭國際：儘管通脹放緩，菲律賓央行仍可能加息】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管6月份通脹放緩，但菲律賓央行仍可能進一步加息。上個月價格有所回落，讓人們對通脹已經見頂感到些許安心。然而，核心價格壓力依然居高不下，這可能會讓菲律賓央行在政策立場上保持謹慎。Bhargava補充說，整體通脹也可能保持波動，因為潛在的強厄爾尼諾現象可能會在未來幾個月推高食品價格。荷蘭國際集團預計，菲律賓央行將在下半年再加息50個基點。
+
+---
+
+### 2026-07-07 12:49:05  #其他
+
+【安徽：打造“免申貸”“免申保”“免申擔”等金融產品矩陣 豐富完善“基金叢林”】7月7日上午，在《安徽省財政金融協同實施方案》政策解讀新聞釋出會上，安徽省委金融辦副主任馬先先表示，下一步，我們將抓好《實施方案》貫徹落實，強化金融政策與財政政策銜接配合，持續完善貼息、貼費、風險補償等支援措施，發揮政府性融資擔保體系增信、分險和引領作用，打造“免申貸”“免申保”“免申擔”等金融產品矩陣，豐富完善“基金叢林”，透過“投、貸、擔、保、補”一體化機制，形成財政引導、金融放大、市場運作的傳導鏈條，構建覆蓋科技創新全鏈條、科技企業全生命週期的金融服務體系，更好促進“科技—產業—金融”良性迴圈。
+
+---
+
+### 2026-07-07 12:49:01  #MKT News #Important #Market Regions #Emerging Markets #000660.KS #Impact bearish #005930.KS
+
+【South Korea's KOSPI plunges 8%】South Korea's KOSPI fell 8.00% intraday to 7,405.11 points. SK Hynix and Samsung Electronics dropped about 10%.
+
+---
+
+### 2026-07-07 12:48:25  #公司 #國際
+
+【韓國綜指跌幅擴大至8%】韓國綜指跌幅擴大至8%，現報7405.11點。個股方面，SK海力士跌超10%，三星電子跌超9%。
+
+---
+
+### 2026-07-07 12:48:14  #MKT News
+
+【Anhui to build 'no-application' loan, guarantee and insurance product matrix; expand fund ecosystem】Anhui provincial financial office deputy director Ma Xianxian said the province will implement its fiscal-financial coordination plan, tightening alignment between fiscal and financial policy and expanding support measures including interest/fee subsidies and risk compensation. The province will leverage government financing guarantees to enhance credit and risk-sharing, launch a product matrix of 'no-application' lending, guarantees and insurance, and broaden its fund ecosystem. An integrated invest–lend–guarantee–insure–subsidize mechanism is intended to create a fiscal-led, finance-amplified, market-operated transmission chain and a financial services system covering the full tech-innovation chain and technology firms' lifecycle.
+
+---
+
+### 2026-07-07 12:47:33  #其他
+
+【提前34天 廣州白雲機場口岸客流突破千萬人次】截至7月3日，今年白雲機場口岸出入境人員已超1000萬人次，同比增長19.6%，較2025年提前34天突破千萬大關，重新整理了口岸歷史最快紀錄。（廣州廣播電視臺）
+
+---
+
+### 2026-07-07 12:46:27  #MKT News
+
+【Anhui explores 'fund + technology loan + investment‑guarantee linkage + IP pledge' combined financing tool for tech innovation】At a July 7 press briefing on the Anhui Province Fiscal‑Financial Coordination Implementation Plan, Anhui finance department deputy director Zhang Feng said the plan explores financing-innovation pilots: for technology innovation, a combined "fund + technology loan + investment‑guarantee linkage + intellectual‑property pledge" tool; for major project financing, a "special bond + bank credit + REITs" model; for industry cultivation, an "investment‑loan linkage + guarantee credit enhancement + interest‑subsidy and reward" mechanism; and for consumption, "loan interest subsidies + consumer subsidies + receipt lottery." The plan seeks to build a multi‑product, complementary financing ecosystem.
 
 ---
 
@@ -19141,262 +19249,5 @@ Ghalibaf said hostile forces now recognize that Iran's participation is indispen
 ### 2026-07-06 02:35:01  #MKT News #Market Themes #Chip Wars #XAUUSD #Impact bullish #Nasdaq100 #S&P500
 
 【ETF margin balances continue to rise; leveraged funds balance offense and defense】ETF margin financing accelerated in June as A-share turnover picked up. Wind data show ETF margin balances on the Shanghai and Shenzhen markets reached 116.09 bln yuan as of June 30, up 5.26 bln yuan from end‑May. Semiconductor and telecom thematic ETFs were the main recipients of new leverage, while gold ETF financing remains the largest single exposure, suggesting leveraged investors are adding growth bets while keeping hedge positions.
-
----
-
-### 2026-07-06 02:33:58  #市場
-
-【ETF兩融餘額持續增長 槓桿資金“攻防兼備”】6月以來，A股成交活躍度持續提升，融資資金加速借道ETF參與市場。Wind資料顯示，截至6月30日，滬深兩市ETF兩融餘額達到1160.88億元，較5月末增加52.58億元。其中，半導體、通訊等主題ETF成為融資資金加倉重點。不過，黃金ETF融資餘額仍居首位，表明槓桿資金在積極佈局成長機會的同時，仍保留一定的避險倉位。
-
----
-
-### 2026-07-06 02:33:42  #國際
-
-伊朗議會議長卡利巴夫：敵人已然認清，想要實現黎巴嫩乃至整個中東地區的和平，離不開伊朗的參與。
-
----
-
-### 2026-07-06 02:33:22  #國際
-
-伊朗議會議長卡利巴夫在會見黎巴嫩真主黨高層官員時表示：自己首先是一名戰士，其次才是外交官，德黑蘭必須在保持“戰備狀態”的前提下開展談判。
-
----
-
-### 2026-07-06 02:30:00  #國際
-
-【特朗普敦促共和黨推進選民身份核驗、廢除冗長議事規則】美國總統特朗普發文稱：“美國人幾乎無所不能，卻偏偏辦不到這幾件事：落實選民身份核驗、出具公民身份證明；而其中最關鍵的一件事，就是廢除冗長髮言阻撓議事規則（冗長辯論制）。”他表示：“一旦民主黨掌權，他們會立刻廢掉這項規則，還會新增2個州、多出 4 名參議員、8名眾議員，至少新增20張選舉人票。到那時，共和黨人將再也沒有機會當選美國總統。我可不想成為最後一位共和黨總統！共和黨人清醒一點！再不行動，你們的執政席位很快就保不住了！”
-
----
-
-### 2026-07-06 02:26:55  #國際
-
-美國聯邦航空管理局：週日發生硬著陸事故的水上飛機機上共載有8人。
-
----
-
-### 2026-07-06 02:19:16  #MKT News
-
-【Mumbai building collapse kills at least six】A building collapsed in Mumbai, India, on the 5th (local time), killing at least six people.
-
----
-
-### 2026-07-06 02:19:10  #國際
-
-【印度孟買一建築物倒塌 致至少6人死亡】總檯記者獲悉，當地時間5日，印度孟買一建築物倒塌，已造成至少6人死亡。（央視新聞）
-
----
-
-### 2026-07-06 02:16:04  #國際
-
-美國聯邦航空管理局：水上飛機硬著陸時機翼支柱斷裂。
-
----
-
-### 2026-07-06 02:14:28  #國際
-
-美國聯邦航空管理局將調查紐約東河水上飛機硬著陸事故。
-
----
-
-### 2026-07-06 01:56:13  #MKT News
-
-Russia's Defense Ministry said its air defenses intercepted and destroyed 116 Ukrainian drones that flew over multiple Russian regions within a single day.
-
----
-
-### 2026-07-06 01:52:55  #其他
-
-市場資訊：隨著英國唐寧街10號權力交接談判升級，安迪·伯納姆因內閣席位空缺問題遭到警示。
-
----
-
-### 2026-07-06 01:47:08  #MKT News
-
-Sources say Trump called Putin and Zelensky seeking to restart stalled peace talks and offered to help mediate a Russia-Ukraine settlement ahead of the NATO summit in Turkey.
-
----
-
-### 2026-07-06 01:42:49  #國際
-
-特朗普分別致電普京與澤連斯基，意在重啟陷入停滯的和平談判；在土耳其北約峰會召開前夕，美方主動提出牽頭斡旋俄烏衝突的和平解決方案。
-
----
-
-### 2026-07-06 01:39:30  #MKT News
-
-【Iran supreme leader reappoints Mohseni Ejei as judiciary chief】Iran's supreme leader Mujtaba Khamenei issued a decree on the 5th reappointing Mohseni Ejei as head of the judiciary, the Supreme Leader's Office said.
-
----
-
-### 2026-07-06 01:39:24  #國際
-
-【伊朗最高領袖任命埃傑伊繼續擔任司法總監】據伊朗最高領袖辦公室5日訊息，伊朗最高領袖穆傑塔巴·哈梅內伊釋出任免令，再次任命穆赫辛尼·埃傑伊為伊朗司法總監。（新華社）
-
----
-
-### 2026-07-06 01:36:35  #國際
-
-德國國防部長：烏克蘭已不再需要 “金牛座” 巡航導彈，烏軍自研無人機已能成功打擊俄羅斯境內深處的煉油廠與軍用後勤設施。
-
----
-
-### 2026-07-06 01:36:10  #MKT News
-
-Sources say French President Macron will visit Damascus soon, becoming the first Western head of state to visit Syria since the fall of the Assad regime; he will be accompanied by a delegation of investors and firms.
-
----
-
-### 2026-07-06 01:35:55  #國際
-
-馬克龍大馬士革之行將率領投資者與企業代表團出訪，法國意在敘利亞重建專案中攫取大量核心投資份額。
-
----
-
-### 2026-07-06 01:35:11  #國際
-
-法國總統馬克龍將於近期訪問敘利亞首都大馬士革。
-
----
-
-### 2026-07-06 01:34:42  #MKT News #Market Regions #Greater China
-
-【Sichuan quake prompts immediate full closure of G545 Mian‑Mao Highway (Mianzhu–Maoxian)】Sichuan authorities have ordered immediate, temporary full traffic control on the G545 Mian‑Mao Highway between Mianzhu and Maoxian after the Mianzhu earthquake, citing landslide and rockfall risks. The closure is effective on release and will remain until road‑hazard inspections, emergency response and road‑safety assessments are completed; reopening will be announced separately. Both directions are closed to all civilian motor vehicles, non‑motorized vehicles and pedestrians. Only credentialed emergency rescue, fire, medical, engineering clearance and official command/assurance vehicles may transit. Road users should plan alternative routes and follow on‑site personnel instructions.
-
----
-
-### 2026-07-06 01:34:11  #其他
-
-【受四川綿竹地震影響 G545綿茂公路實施全線交通管制】記者從綿竹市相關部門瞭解到，受綿竹地震影響，G545綿茂公路沿線存在山體滑坡、落石等安全風險。當地相關部門決定對綿茂公路全線（綿竹段至茂縣段）實施臨時性全域交通管制，自通告發布即時起實施，解除時間將根據道路隱患排查、應急處置及路況安全評估結果另行通告。
-
-管制期間，綿茂公路全線雙向封閉，禁止所有社會機動車、非機動車及行人通行。僅允許應急救援車輛、消防搶險車輛、醫療急救車輛、工程排險作業車輛、公務指揮保障車輛等專用車輛憑證通行。
-
-途經該路段的社會車輛請提前規劃繞行路線，自覺服從現場執勤人員指揮。（央視新聞）
-
----
-
-### 2026-07-06 01:29:04  #MKT News #WTI #Impact bullish #Brent
-
-【US official: Trump to raise Strait of Hormuz navigation at NATO summit】A senior US official said Trump will discuss navigation in the Strait of Hormuz at the NATO summit; allies are prepared to participate in protecting shipping security in the strait.
-
----
-
-### 2026-07-06 01:28:01  #焦點 #國際
-
-白宮：特朗普將出席週三北約領導人晚宴。
-
----
-
-### 2026-07-06 01:27:51  #國際
-
-訊息人士：特朗普透過模因幣相關專案獲利6.36億美元，而近100萬名散戶投資者合計虧損38.1億美元。
-
----
-
-### 2026-07-06 01:27:34  #國際
-
-美國高階官員：今年暫無重新審議《華盛頓條約》的計劃。
-
----
-
-### 2026-07-06 01:26:47  #國際
-
-市場資訊：特朗普要求所有北約盟友增加國防預算。
-
----
-
-### 2026-07-06 01:26:27  #MKT News
-
-A senior U.S. official said the Washington Treaty is not expected to be reopened this year.
-
----
-
-### 2026-07-06 01:24:52  #國際
-
-白宮官員談及歐洲駐軍規模：防長赫格塞思受命開展相關評估審查。
-
----
-
-### 2026-07-06 01:22:20  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-A US senior official said Trump believes the Russia-Ukraine conflict must end quickly and that front lines have been stalemated for months. The official added the US is likely to make progress toward ending the war in Ukraine.
-
----
-
-### 2026-07-06 01:20:52  #國際
-
-特朗普：感謝國際足聯做出公正之舉，糾正了這一巨大不公。
-注：FIFA宣佈，Folarin Balogun將可參加美國隊週一對陣比利時的16強比賽。國際足聯紀律委員會已暫停對美國前鋒在32強賽擊敗波斯尼亞和黑塞哥維那比賽中出示的紅牌。
-
----
-
-### 2026-07-06 01:20:37  #MKT News
-
-A senior U.S. official said they expect Trump to hold further communications with Russian President Vladimir Putin.
-
----
-
-### 2026-07-06 01:19:35  #國際
-
-白宮官員：美方有望在結束烏克蘭戰事方面取得進展。
-
----
-
-### 2026-07-06 01:19:13  #國際
-
-白宮官員：特朗普認為必須儘快結束俄烏衝突，俄烏前線戰局已僵持數月。
-
----
-
-### 2026-07-06 01:18:23  #國際
-
-【達美航空客機在芝加哥降落時遭煙花擊中】當地時間週六晚間，達美航空一架載有52名乘客、6名機組人員的航班，在即將降落芝加哥某機場時被煙花擊中。達美航空發言人表示，這架從亞特蘭大哈茨菲爾德-傑克遜國際機場飛往芝加哥中途國際機場的航班，“據稱在下降階段撞上了煙花”。發言人補充道：“航班已安全落地並滑行至登機口。本次事件無人受傷，相關情況已上報航空管理部門。”事發時，全美數百萬人燃放煙花慶祝美國建國250週年。
-
----
-
-### 2026-07-06 01:17:42  #MKT News
-
-A senior U.S. official said Trump will discuss with Ukrainian President Zelenskiy how to end the war.
-
----
-
-### 2026-07-06 01:17:38  #國際
-
-白宮官員：特朗普在與澤連斯基會晤後，或將與普京展開後續溝通。
-
----
-
-### 2026-07-06 01:16:58  #其他
-
-達美航空一架客機在芝加哥降落時被煙花擊中。
-
----
-
-### 2026-07-06 01:16:19  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-A U.S. senior official said Trump will announce a plan involving tens of billions of dollars at the NATO summit.
-
----
-
-### 2026-07-06 01:15:13  #MKT News
-
-【H1 bond underwriting ranking: top five brokers hold over 50%】H1 bond underwriting rankings released. Wind data show CITIC Securities retained the top spot by total underwriting; Guotai Haitong and CSC Financial ranked second and third. The top five brokers accounted for more than half of total underwriting, underscoring rising market concentration. Brokers are targeting expansion in Sci‑tech innovation bonds and industrial bonds to channel financial liquidity into the real economy.
-
----
-
-### 2026-07-06 01:14:49  #國際
-
-白宮官員：（特朗普北約之行）場外或將達成數十億美元軍售協議。
-
----
-
-### 2026-07-06 01:14:19  #MKT News
-
-White House official said Trump will meet Turkish President ERDOGAN during his NATO trip.
-
----
-
-### 2026-07-06 01:14:07  #觀點
-
-【上半年券商債券承銷榜出爐 前五名包攬五成份額】上半年券商債券承銷排行榜正式揭曉。Wind資料顯示，從總承銷金額來看，中信證券蟬聯榜首，國泰海通、中信建投分列第二、三位。市場格局方面，前五名券商合計佔據券商承銷金額的五成以上，行業馬太效應持續深化。在業務發力方向上，券商正積極把握科創債、產業債擴容機遇，引導金融活水精準澆灌實體經濟。
 
 ---

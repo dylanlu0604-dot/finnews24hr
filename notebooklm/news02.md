@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 01:13:59_
-_本檔包含 3171 則快訊，約 628555 字_
+_更新時間：2026-07-13 02:34:05_
+_本檔包含 3187 則快訊，約 628018 字_
+
+---
+
+### 2026-07-10 16:31:04  #公司
+
+【撫順特鋼：預計2026年上半年淨虧損2.3億-2.7億元】撫順特鋼公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為-2.70億元至-2.30億元，扣除非經常性損益的淨利潤為-2.80億元至-2.40億元。上年同期淨利潤為-2.78億元。業績預虧主要因特鋼市場中高階材料競爭激烈，公司核心產品競爭加劇，傳統領域需求疲軟，部分產能未完全釋放，規模效益尚未體現。
+
+---
+
+### 2026-07-10 16:30:51  #其他
+
+【受颱風“巴威”影響機場將達52座】據飛常準颱風路徑與機場影響預報圖顯示，7月10日至7月13日，預計受颱風“巴威”影響的機場將有52座。
+
+---
+
+### 2026-07-10 16:30:37  #央行 #國際
+
+訊息人士：日本央行計劃在7月維持利率不變，但將維持政策指引，承諾繼續推進加息程序。
+
+---
+
+### 2026-07-10 16:30:30  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+Sources say the Bank of Japan plans to keep interest rates unchanged in July but will maintain its policy guidance and commit to continuing to advance rate hikes.
+
+---
+
+### 2026-07-10 16:30:23  #MKT News
+
+Goldman Sachs expects the South African Reserve Bank to hold rates in July following the central bank's earlier dovish remarks.
+
+---
+
+### 2026-07-10 16:30:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Rises by 2.31% — Top crypto gainers are Ether (2.31%), Bitcoin (1.68%) and Binance (1.28%).
+
+---
+
+### 2026-07-10 16:29:56  #MKT News #Market Regions #Greater China
+
+【CHINA meets N. KOREA premier Pak Tae-song in Beijing】On July 10 afternoon, CHINA’s General Secretary and state president met at the Great Hall of the People in Beijing with N. KOREA Politburo Standing Committee member, vice chairman of the State Affairs Commission and premier Pak Tae-song, who is on an official visit to China.
+
+---
+
+### 2026-07-10 16:29:27  #MKT News #Market Themes #AI Revolution #6954.T #Impact bullish #1802.T
+
+【AI reshapes logistics: Taisei and Fanuc build 'super warehouse' with double storage capacity】Japanese builder Taisei and industrial-robot maker Fanuc have developed an AI-driven automated warehouse that doubles storage capacity versus traditional facilities. The system uses Fanuc's physical AI to enable robots to identify and accurately pick mixed-SKU pallets with varying sizes and shapes, automating loading and unloading across different-sized goods where previously single-SKU pallets or manual handling were needed. The developers say the warehouse could help ease the logistics sector's chronic driver shortage and enable denser, space-saving facilities closer to consumers, reducing last-mile delivery pressure.
+
+---
+
+### 2026-07-10 16:29:10  #宏觀
+
+【習近平會見朝鮮內閣總理樸泰成】7月10日下午，中共中央總書記、國家主席習近平在北京人民大會堂會見來華進行正式訪問的朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成。（央視新聞）
+
+---
+
+### 2026-07-10 16:28:29  #公司
+
+【梅花生物：2026年上半年淨利潤預降55%-66%】梅花生物公告稱，預計2026年半年度實現歸屬於母公司所有者的淨利潤6億元到8億元，與上年同期17.68億元相比，預計減少9.70億元到11.70億元，同比減少55%到66%；扣除非經常性損益的淨利潤4.30億元到6.30億元，同比減少61%到74%。業績預減主要因行業供應增加，公司主要產品價格同比下降。
+
+---
+
+### 2026-07-10 16:28:11  #公司
+
+【三六零：2026年上半年淨利潤1.8億-2.6億 實現扭虧為盈】三六零公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤約為1.8億元至2.6億元，上年同期為淨虧損2.82億元；扣非淨利潤約為1.3億元至1.9億元，上年同期為淨虧損2.97億元，實現扭虧為盈。業績預盈主要因公司迭代產品驅動營收增長、毛利提升，且調整推廣策略使市場推廣費用下降。
+
+---
+
+### 2026-07-10 16:28:05  #公司
+
+【捨得酒業：2026年上半年淨利潤預降60.52%-69.55%】捨得酒業公告稱，預計2026年半年度歸屬母公司所有者的淨利潤1.35億元-1.75億元，同比減少69.55%-60.52%；扣非淨利潤1.23億元-1.63億元，同比減少72.00%-62.90%。營收較上年同期下降16%左右。主要因白酒行業處於深度調整期，公司主動控發貨、消化庫存，且階段性提高市場投入，銷售費用較高。
+
+---
+
+### 2026-07-10 16:28:01  #其他
+
+【珍寶島與新迅達舉行戰略交流座談】據珍寶島訊息，7月10日，新迅達董事長吳成華一行赴珍寶島調研，珍寶島董事長方福鑫攜高管團隊同吳成華董事長一行開展深入交流。雙方圍繞醫藥產業轉型升級、人工智慧與算力技術賦能新藥研發等議題展開探討。座談中，雙方圍繞AI賦能醫藥研發、量子計算等開展深入交流。共同認為“量子計算+AI”有望重塑製藥研發正規化，為醫藥產業帶來新的增長空間。
+
+---
+
+### 2026-07-10 16:28:00  #公司
+
+【盤江股份：聘任董事會秘書並擬為子公司融資提供擔保】盤江股份公告稱，公司第七屆董事會2026年第九次臨時會議於7月10日召開，審議透過兩項議案。一是同意聘任鄧麗茶女士為公司第七屆董事會董事會秘書，任期至第七屆董事會屆滿；二是同意為貴州盤江恆普煤業有限公司8.04億元額度的融資提供全額連帶責任保證擔保，該子公司以發耳二礦（一期）採礦權抵押給公司提供反擔保，此議案將提交股東會審議。
+
+---
+
+### 2026-07-10 16:27:52  #公司 #市場
+
+【盤江股份：2026年上半年淨利潤扭虧為盈 預計達0.57-0.68億元】盤江股份公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為5700萬元到6800萬元，與上年同期的-509.51萬元相比，實現扭虧為盈；扣非淨利潤為6800萬元到8100萬元，上年同期為-1836.21萬元。業績預盈主要因煤炭行業需求回暖、煤價上行，公司精煤銷售價格同比上漲，且持續最佳化商品煤結構，降本增效。本次業績預告未經審計，具體資料以半年度報告為準。
+
+---
+
+### 2026-07-10 16:27:49  #公司
+
+【九州通：2025年營收1613.90億元 同比增長6.31%】九州通公告稱，公司於2026年7月9日參加投資者集體接待日活動。2025年，公司實現營業收入1613.90億元，同比增長6.31%；歸母淨利潤22.55億元；經營活動現金流淨額34.41億元。2026年第一季度，營收447.83億元，同比增長6.58%；扣非歸母淨利潤5.43億元，同比增長7.12%。公司制定了2026 - 2028年“四新兩化”戰略規劃，還介紹了各業務板塊發展情況，如CSO業務、醫藥工業業務、好藥師“萬店加盟”等。
+
+---
+
+### 2026-07-10 16:27:45  #國際
+
+以色列國家檢察院向貝爾謝巴地區法院提交起訴書，指控四名來自塞格夫沙洛姆及海外的青年犯下恐怖主義罪行，其中一項核心指控為四人圖謀組建恐怖組織。
+
+---
+
+### 2026-07-10 16:27:40  #市場
+
+紐約期銀日內跌1%，現報60.08美元/盎司。
+
+---
+
+### 2026-07-10 16:27:35  #其他
+
+華宇軟體收到深交所監管函。
+
+---
+
+### 2026-07-10 16:27:34  #國際
+
+【美國佛州棕櫚灘機場正式以特朗普冠名】經美國聯邦航空局批准，佛羅里達州棕櫚灘國際機場9日正式更名為“唐納德·特朗普國際機場”。特朗普隨後在社交媒體上發文，對機場更名錶達讚賞，稱該機場是“全世界最偉大、最壯觀的機場之一”。（新華社）
+
+---
+
+### 2026-07-10 16:25:50  #其他
+
+九龍倉置業據悉計劃出售位於新加坡價值10億美元的購物中心。
+
+---
+
+### 2026-07-10 16:25:28  #市場
+
+【貝肯能源今日漲停，4家機構專用席位淨買入1.08億元】貝肯能源今日漲停，成交額5.90億元，換手率22.64%，盤後龍虎榜資料顯示，4家機構專用席位淨買入1.08億元，有1家機構專用席位淨賣出21.56萬元。
+
+---
+
+### 2026-07-10 16:25:27  #國際
+
+歐盟臨時限制向幾內亞公民發放簽證。
+
+---
+
+### 2026-07-10 16:24:41  #公司
+
+【英媒曝騰訊正洽談成為Manus最大股東 ，騰訊：不予置評】據英國《金融時報》7月10日訊息，騰訊正在洽談成為中國人工智慧企業Manus的最大股東。 根據兩名知情人士的說法，包括騰訊、真格基金和紅杉中國在內的Manus現有投資者，正就支援一項交易，以20億美元的估值撤銷臉書母公司Meta對Manus的收購，進行洽談。 報道稱，騰訊預計將在此次交易中收購最大股份，但仍將保留少數股東身份。 知情人士還透露，相關討論仍在進行中，交易可能還會引入新的投資者。由於談判仍在進行中，具體細節尚未最終敲定。 觀察者網已尋求騰訊方面對上述訊息做出回應。騰訊僅表示不予置評。 （觀察者網）
+
+---
+
+### 2026-07-10 16:24:16  #央行 #觀點
+
+高盛預計南非央行將在7月份維持利率不變。
+
+---
+
+### 2026-07-10 16:24:10  #市場
+
+【託倫斯今日漲858.85%，3家機構專用席位淨買入4.05億元】託倫斯今日漲858.85%，成交額59.44億元，換手率81.35%，盤後龍虎榜資料顯示，3家機構專用席位淨買入4.05億元。
 
 ---
 
@@ -19076,65 +19232,5 @@ The Shangai Composite Index Closes 1.66% Higher — The Shangai Composite Index 
 ### 2026-07-09 15:14:08  #其他
 
 【武漢：颱風過境時，所有專案工地全面停工，非必要不外出】據長江日報，7月11日至14日，受颱風“巴威”登陸影響，武漢市可能遭遇新一輪大風極端天氣。今天（7月9日），武漢市自然資源和城建局印發關於全市房屋建築工程加強防範大風極端天氣工作的緊急通知。通知要求：颱風來臨前，全市專案應暫停所有腳手架搭拆、建築起重機械安拆作業的工作計劃安排。當日風力等級大於5級時，全市所有專案應停止所有腳手架和起重吊裝的高處作業、戶外作業。風力達到6級以上及颱風天氣過境期間(7月11日至14日期間），所有專案工地全面停工：建築外立面、臨牆空間禁止一切非固定設施和物料懸掛堆置，易受風力影響的地面物料堆置應覆壓攔網和壓放重物；所有升降機轎廂、吊籃停放地面固定，吊索吊鉤可靠繫留加固；場地內車輛應保持最小迎風面、整齊停放，採取必要措施地面加固；工地人員非必要不外出，嚴禁一切冒險施工。
-
----
-
-### 2026-07-09 15:12:47  #其他
-
-默茨稱極右勢力會將德國“送入深淵”。
-
----
-
-### 2026-07-09 15:11:00  #公司
-
-【中郵證券：首予中富電路“買入”評級，結構最佳化驅動營收與盈利雙高增】中郵證券研報指出，中富電路結構最佳化驅動營收與盈利雙高增。公司2025年實現營業收入18.79億元，同比增長29.24%；歸母淨利潤0.29億元。2026年一季度公司業績延續高增長態勢，實現營業收入5.20億元，同比增長37.81%；歸母淨利潤0.19億元，同比增長89.32%，盈利端增速顯著高於收入增速。客戶資源優質穩定，海外佈局加速落地；產能技術雙發力，把握AI機遇。未來公司將堅持“技術領先、細分應用”的發展路線，持續深耕AI電源領域，重點突破晶片封裝電源核心技術，推進高頻高速、大電流高導熱、埋晶片/電感/磁材/電容等新型產品研發，加速向下一代光模組、MEMS、AI電源模組等高階場景匯入，並佈局機器人、感測器等前沿領域技術開發，持續為營收增長注入技術動能，豐富產品儲備。預計公司2026/2027/2028年分別實現收入27/37/49億元，實現歸母淨利潤分別為2.1/5.3/8.7億元，首次覆蓋給予“買入”評級。
-
----
-
-### 2026-07-09 15:10:39  #其他
-
-華碩6月銷售額1,067億元新臺幣，同比增長56%。
-
----
-
-### 2026-07-09 15:10:14  #其他
-
-【國防部：“臺獨”是絕路 統一是正道】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。據報道，賴清德在出席臺軍校畢業典禮時稱，臺將持續加強對外軍購和防衛自主。近期，臺海軍還調整組建“濱海作戰指揮部”。請問有何評論？陳曦表示，賴清德鼓譟“以武謀獨”、“倚外謀獨”，再次暴露其“和平破壞者”、“戰爭煽動者”的真實面目。無論賴清德說什麼、做什麼，都改變不了兩岸軍力對比態勢，更阻擋不了祖國必然統一的歷史大勢。“臺獨”是絕路，統一是正道。希望廣大臺灣同胞看清民進黨當局頑固堅持“臺獨”分裂路線的極端危險性、危害性，與我們一道堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，共同維護臺海和平穩定。（大灣區之聲）
-
----
-
-### 2026-07-09 15:09:20  #兩會
-
-【貴州省政協文化文史與學習委員會原副主任王德玉被開除黨籍】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省政協文化文史與學習委員會原副主任王德玉嚴重違紀違法問題進行了立案審查調查。經查，王德玉喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，不如實報告個人有關事項；違反廉潔紀律，接受可能影響公正執行公務的宴請；違反工作紀律，違規干預和插手司法活動；貪慾膨脹，大搞權錢交易，利用職務便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受鉅額財物。王德玉嚴重違反黨的政治紀律、組織紀律、廉潔紀律和工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予王德玉開除黨籍處分；按規定取消其享受的待遇；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-07-09 15:09:00  #其他
-
-日月光投控第二季度營收1,910.6億元新臺幣，預估1,886.5億元新臺幣。
-
----
-
-### 2026-07-09 15:08:22  #公司 #國際
-
-【國防部：日本明目張膽將太空作為作戰領域】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。記者：據報道，日本參議院近日透過《防衛省設定法》修正案，將航空自衛隊更名為“航空宇宙自衛隊”，並配套組建“宇宙作戰集團”。請問對此有何評論？陳曦：近年來，日本明目張膽將太空作為作戰領域，把軍事擴張野心伸向太空，相關領域軍事投入5年內增長10倍，作戰兵力擴張30餘倍，這些舉動加速推動太空武器化、戰場化，刺激太空軍備競賽，也再次證明日本“新型軍國主義”已成為赤裸裸的現實威脅。太空的持久和平與安全關乎各國的安全、發展和繁榮，愛好和平的人們應高度警惕日方在太空領域的危險動向，堅決遏阻日本右翼勢力加速“再軍事化”，維護好全人類的共同家園。
-
----
-
-### 2026-07-09 14:57:32  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Extends Losing Streak to Four — The ASX 200 fell 23 points or 0.3% to end at 8,762 on Thursday, down for the fourth session after U.S. President Trump dismissed further talks with Iran and warned of additional strikes, eroding hopes for Middle East stability. Meanwhile, the International Monetary Fund trimmed its 2026 growth forecast for Australia to 1.9% from the previous projection of 2%, adding that consumer price inflation will remain stubbornly high, likely around 4% for 2026. Process industries, non-energy minerals, healthcare, and consumer non-durables weighed, partly offset by strength in consumer durables, energy minerals, retail trade, and industrial services. Heavyweight BHP Group slipped 1.1% while Rio Tinto tumbled 3.3%, weighed by lower copper prices. Gold stocks also fell, with Evolution Mining and Northern Star Resources slipping 1.7% and 0.9%, respectively. Three of four big banks lost between 0.1% and 0.8%.
-
----
-
-### 2026-07-09 14:54:29  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Ends at Record High, Posts 2nd Straight Weekly Gain — The NZX 50 rose 120 points, or 0.9%, to close at a record high of 13,786 on Thursday, recovering from a decline in the previous session, mainly buoyed by gains in financials, industrials, and healthcare. Fresh data boosted sentiment, as New Zealand's manufacturing sector recorded its strongest growth since July 2021 despite facing high fuel prices. However, traders continued to assess Wednesday's RBNZ decision to raise interest rates by 25 bps and signal further tightening ahead to bring inflation back to target. Rising oil prices also capped gains, as inflation concerns raised expectations of further interest rate hikes. Fletcher Building surged 5.6% as the company raised its full-year earnings forecast and reported stronger-than-expected sales; Infratil jumped 3.1%, Ebos Group rose 1.8%, and Fisher & Paykel gained 1.2%. For the week, the index rose 1.2%, marking its second consecutive weekly advance. The market will be closed on Friday for a local holiday.
-
----
-
-### 2026-07-09 14:45:49  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Lose Momentum — The Hang Seng Index fell 0.7%, or 169 points, to close at 24,030 on Thursday, reversing early gains as weakness and volatility in regional technology shares weighed on market sentiment. Knowledge Atlas Technology, also known as Zhipu AI, surged more than 11.3% as volatility surrounding its recent IPO share lock-up expiration eased, while rival MiniMax slumped nearly 18% during its first major lock-up expiry. Meanwhile, Smart-Core Holdings jumped more than 23%, bucking the broader market decline. The weakness in Hong Kong came despite rebounds elsewhere in Asia, with renewed US-Iran tensions pushing oil prices higher and adding pressure to regional risk sentiment. Notable laggards were Tencent (-1.9%), Xiaomi (-1.2%), Meituan (-3.0%), Kuaishou (4.3%), and Pop Mart International (-2.5%). In contrast, Semiconductor Manufacturing International Corporation surged 10.2%.
 
 ---
