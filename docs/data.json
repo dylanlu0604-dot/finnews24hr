@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-13 01:21:43",
+  "updated": "2026-07-13 01:25:33",
   "count": 16627,
   "items": [
+    {
+      "id": "4983033",
+      "time": "2026-07-13 01:22:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：委內瑞拉國家地震災後重建計劃也已開始實施。該計劃由以色列後方司令部的專家團隊制定，並已獲委內瑞拉代總統、基礎設施部長以及負責該專案的當地團隊批准。"
+    },
+    {
+      "id": "4983032",
+      "time": "2026-07-13 01:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：過去一週，後方司令部專家代表團繼續在委內瑞拉開展工作，對建築物進行結構分類並評估其穩定性，以確保搜救與災後恢復工作的安全推進。作為任務的一部分，代表團成員開展了實地考察，向居民通報建築物的現狀，並實施工程評估。"
+    },
     {
       "id": "4983031",
       "time": "2026-07-13 01:13:00",
@@ -151504,27 +151520,6 @@
         "MKT News"
       ],
       "text": "A senior U.S. official said the Washington Treaty is not expected to be reopened this year."
-    },
-    {
-      "id": "4971072",
-      "time": "2026-07-06 01:24:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮官員談及歐洲駐軍規模：防長赫格塞思受命開展相關評估審查。"
-    },
-    {
-      "id": "mkt:019f334d-6f29-7aab-8ca4-86fcec0d67e6",
-      "time": "2026-07-06 01:22:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "A US senior official said Trump believes the Russia-Ukraine conflict must end quickly and that front lines have been stalemated for months. The official added the US is likely to make progress toward ending the war in Ukraine."
     }
   ]
 }
