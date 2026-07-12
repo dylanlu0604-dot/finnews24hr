@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-12 21:32:43",
-  "count": 16623,
+  "updated": "2026-07-12 21:36:48",
+  "count": 16621,
   "items": [
+    {
+      "id": "mkt:019f5689-6e89-7aab-8d45-3b13a1da1ede",
+      "time": "2026-07-12 21:34:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Russian Defence Ministry says forces carried out large-scale strikes on Ukrainian facilities】The Russian Defence Ministry said on the 12th that overnight from the 11th to early the 12th Russian forces carried out large-scale strikes that damaged Ukrainian fuel, power and transport infrastructure, long-range drone storage sites, ammunition depots and temporary deployment points for Ukrainian troops and foreign mercenaries at 158 locations. The ministry said Russian forces destroyed 585 Ukrainian-launched drones and 11 aerial bombs in the past 24 hours. Belgorod acting governor Shuvaev said on social media that over the same 24-hour period Ukraine struck 11 districts of the region with more than 100 attacks, killing one and wounding seven; Russian authorities said 111 drones were intercepted. Russian media reported that drone attacks prompted temporary restrictions on civilian flights overnight in multiple Russian cities, delaying dozens of flights."
+    },
     {
       "id": "4982935",
       "time": "2026-07-12 21:28:39",
@@ -151452,32 +151464,6 @@
         "其他"
       ],
       "text": "【清華火神隊衛冕RoboCup人形組冠軍 加速進化機器人包攬雙足人形組別金牌】7月5日，在RoboCup機器人世界盃上，中國戰隊清華火神隊搭載加速進化Booster T1，衛冕人形組世界冠軍。"
-    },
-    {
-      "id": "4970994",
-      "time": "2026-07-05 21:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026 中國（南京）具身智慧機器人產業展將於7月10-12日舉行】2026年7月10日-12日，中國（南京）具身智慧機器人產業展將在南京舉行。本次展會預計吸引450+海內外參展企業、35000+專業觀眾。從核心零部件（感測器、執行器、AI晶片）到整機系統（人形機器人、服務機器人、特種機器人），再到行業解決方案，構建了“技術-產品-應用”的完整生態鏈。"
-    },
-    {
-      "id": "mkt:019f327e-76a1-7aab-8ca2-f94d583075a4",
-      "time": "2026-07-05 21:36:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【2026 China (Nanjing) Embodied Intelligence Robotics Industry Expo to run July 10-12】The 2026 China (Nanjing) Embodied Intelligence Robotics Industry Expo will run July 10-12 in Nanjing. Organizers expect 450+ domestic and international exhibitors and 35,000+ professional visitors; the show spans core components (sensors, actuators, AI chips), full systems (humanoid, service and special-purpose robots) and industry solutions, forming a complete technology–product–application ecosystem."
-    },
-    {
-      "id": "4970993",
-      "time": "2026-07-05 21:36:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國政府援助委內瑞拉首批緊急人道主義救災物資啟運】7月5日晚間，中國政府向委內瑞拉提供的首批緊急人道主義地震救災援助物資從北京首都國際機場啟運。據瞭解，首批物資重80餘噸，主要包括20臺發電機、8套淨水車、200個消毒機、200套太陽能照明裝置、1700餘件帳篷和6700餘條毛毯等，由1架民航包機運往委內瑞拉首都加拉加斯。其餘批次物資將陸續發運。委內瑞拉6月24日發生強烈地震，造成嚴重人員傷亡和財產損失。地震發生後，中國政府已第一時間向委方提供緊急人道主義地震救災現匯援助。（新華社）"
     }
   ]
 }

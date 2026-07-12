@@ -1,7 +1,19 @@
 {
   "date": "2026-07-12",
-  "count": 824,
+  "count": 825,
   "items": [
+    {
+      "id": "mkt:019f5689-6e89-7aab-8d45-3b13a1da1ede",
+      "time": "2026-07-12 21:34:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Russian Defence Ministry says forces carried out large-scale strikes on Ukrainian facilities】The Russian Defence Ministry said on the 12th that overnight from the 11th to early the 12th Russian forces carried out large-scale strikes that damaged Ukrainian fuel, power and transport infrastructure, long-range drone storage sites, ammunition depots and temporary deployment points for Ukrainian troops and foreign mercenaries at 158 locations. The ministry said Russian forces destroyed 585 Ukrainian-launched drones and 11 aerial bombs in the past 24 hours. Belgorod acting governor Shuvaev said on social media that over the same 24-hour period Ukraine struck 11 districts of the region with more than 100 attacks, killing one and wounding seven; Russian authorities said 111 drones were intercepted. Russian media reported that drone attacks prompted temporary restrictions on civilian flights overnight in multiple Russian cities, delaying dozens of flights."
+    },
     {
       "id": "4982935",
       "time": "2026-07-12 21:28:39",
