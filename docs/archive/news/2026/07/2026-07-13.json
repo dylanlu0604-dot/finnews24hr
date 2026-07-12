@@ -1,7 +1,21 @@
 {
   "date": "2026-07-13",
-  "count": 98,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:019f5820-ffa2-7aab-8d46-e88b79d086f3",
+      "time": "2026-07-13 04:59:45",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【UK incoming PM Burnham may unveil larger budget later this year】Incoming UK prime minister Andy Burnham is weighing a larger-than-usual budget later this year, with allies and advisers pushing proposals including a land tax, utilities nationalization and more ambitious devolution. Burnham is expected to replace Starmer on July 20. Treasury officials, after initial team consultations, are considering combining the annual budget (normally in Oct/Nov) with the departmental spending review, which are usually separate. Chancellor Reeves moved last year to set department budgets a year early to boost education and health funding. Officials say accelerating spending decisions would help Burnham lock in policy priorities ahead of the 2029 election and map a clearer route to his pledged 3.5% of GDP defence target, but would compress timetables and increase pressure on future chancellors amid near-term spending uncertainty."
+    },
     {
       "id": "4983072",
       "time": "2026-07-13 04:53:17",
