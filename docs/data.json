@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-12 15:26:28",
-  "count": 16526,
+  "updated": "2026-07-12 15:30:44",
+  "count": 16527,
   "items": [
+    {
+      "id": "4982734",
+      "time": "2026-07-12 15:29:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿曼海域出事船隻船員已獲救】英國海上貿易行動辦公室12日更新通報說，此前在阿曼以東海域因船尾受損起火的集裝箱船船員已被當地政府救起。通報說，當地有關機構正對這一事件進行調查，並建議所有船舶謹慎透過該海域。根據英國海上貿易行動辦公室此前通報，這艘集裝箱船事發時位於阿曼以東9海里處，在船尾受損起火後，船員棄船並登上救生艇。通報沒有透露船名。（新華社）"
+    },
+    {
+      "id": "4982733",
+      "time": "2026-07-12 15:28:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部特命全權大使羅季翁·米羅什尼克在接受採訪時表示，歐洲國家將繼續為烏克蘭提供資金，直到它“耗盡”為止。他還指出，之後其他歐洲國家也會被“排上隊”（面臨同樣的命運）。"
+    },
+    {
+      "id": "4982732",
+      "time": "2026-07-12 15:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外長呼籲美伊保持克制】巴基斯坦外交部12日釋出宣告表示，巴副總理兼外交部長達爾呼籲美國和伊朗保持克制，遵循美伊諒解備忘錄內容，推動局勢降溫。宣告說，達爾當天與伊朗外長阿拉格齊通電話，兩國外長就當前地區局勢交換了意見。達爾強調，對話和外交依然是解決爭端、實現地區持久和平與穩定的唯一途徑。（新華社）"
+    },
+    {
+      "id": "4982731",
+      "time": "2026-07-12 15:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金山辦公：WPS已完成初步儲存管理能力最佳化，正式穩定版本預計7月底陸續推送】據金山辦公訊息，為提升使用者體驗，改善“C盤佔用、清理入口不清晰”等情況，WPS已完成初步儲存管理能力最佳化，並先在WPS社群開放體驗版。正式穩定版本預計7月底陸續推送。本次體驗版主要包括兩項最佳化：1.新增“儲存管理”入口原先分散的磁碟佔用檢視、快取清理、儲存路徑調整等功能，現已整合至同一頁面。使用者可檢視WPS相關本地佔用，並按需清理快取、調整儲存位置，幫助減少WPS相關檔案對系統盤的空間壓力。2.安裝路徑可分別設定在安裝環節，軟體安裝路徑、文件備份路徑、雲文件快取路徑支援分開設定。使用者可根據裝置空間情況，選擇不同檔案的存放位置。"
+    },
     {
       "id": "mkt:019f5537-9e92-7aab-8d43-122bec545f08",
       "time": "2026-07-12 15:25:36",
@@ -150618,43 +150650,6 @@
         "其他"
       ],
       "text": "【9號颱風“巴威”7月10日靠近我國東部海區】今年第9號颱風“巴威”（超強颱風級）的中心今天（5日）14時位於距離關島塞班東南方向約335公里。預計將以每小時15-20公里的速度向西偏北方向移動，強度變化不大。7月8日前“巴威”對我國海域無影響，7月10日靠近我國東部海區。"
-    },
-    {
-      "id": "4970870",
-      "time": "2026-07-05 15:30:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：卡達表示，海上活動將立即恢復。"
-    },
-    {
-      "id": "mkt:019f312d-1951-7aab-8ca1-764c66ba07f9",
-      "time": "2026-07-05 15:27:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China Galaxy Securities: Tech-manufacturing leadership shifts to semiconductors, AI and aerospace】China Galaxy Securities says tech-manufacturing leadership rotated from May’s AI+new energy to June’s semiconductors+AI+aerospace, with sector rotation slowing and market leadership narrowing. Combining macro, style and industry signals, it assesses the current backdrop as macro under pressure but with clear structural themes; despite constrained risk appetite, capital is concentrating on manufacturing upgrades, energy security and AI, driving sustained inflows into sci‑tech innovation, semiconductors, aerospace and manufacturing — which the firm flags as the sectors with the strongest relative-return potential while growth-style remains dominant."
-    },
-    {
-      "id": "mkt:019f312c-835d-7aab-8ca1-6bab1a1fee10",
-      "time": "2026-07-05 15:27:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【OPEC+ in principle agrees to raise production quotas from August】OPEC+ is due to hold its monthly meeting later today. A source said the group has in principle agreed to raise crude oil production quotas by 188,000 bpd from August; two other sources said that increase is the likeliest outcome."
     }
   ]
 }
