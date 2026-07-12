@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-12 18:05:55",
-  "count": 16585,
+  "updated": "2026-07-12 18:09:57",
+  "count": 16586,
   "items": [
+    {
+      "id": "mkt:019f55cd-6d92-7aab-8d44-50682026389e",
+      "time": "2026-07-12 18:09:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister will sign multiple oil and gas memoranda of understanding during a Washington visit, a government spokesman said."
+    },
+    {
+      "id": "4982856",
+      "time": "2026-07-12 18:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克政府發言人表示，總理訪問華盛頓期間將簽署多項石油和天然氣諒解備忘錄。"
+    },
+    {
+      "id": "4982855",
+      "time": "2026-07-12 18:06:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀建立協同防控機制 綜合研判次生災害風險】受第9號颱風“巴威”遠距離水汽輸送影響，近日京津冀多地出現持續性強降雨天氣。記者12日從北京市規劃和自然資源委員會獲悉，為應對地質災害誘發風險，京津冀已建立協同防控機制，實時共享三地資料，提高地災防控工作能力。 據瞭解，京津冀三地依託整合全域監測資源，部署18類3649臺套監測裝置，共享京津冀8133臺雨量站資料，可結合雨情、水情、土壤飽和度綜合研判災害風險。同時，13臺無人機、3臺邊坡雷達、2臺三維鐳射掃描器等高科技應急監測裝備助力一線精準排查、高效處置險情。 目前，北京市降級釋出地質災害氣象風險預警等級，密雲、平谷為黃色預警，房山、門頭溝、昌平、延慶、石景山、海淀、豐臺、懷柔為藍色預警。（新華社）"
+    },
     {
       "id": "mkt:019f55c8-438f-7aab-8d44-4d2d5007ea1f",
       "time": "2026-07-12 18:03:35",
@@ -151143,24 +151170,6 @@
         "Industrial Metals"
       ],
       "text": "【Industrial Securities: Relative sector momentum and relative earnings revisions remain core allocation cues】Industrial Securities says as July ushers in the U.S.-China earnings season, relative sector momentum and relative earnings revisions remain the primary allocation signals. Sectors with strong consensus on AI compute and upstream materials — notably non-ferrous metals, chemicals and fiberglass tied to AI demand — could re-enter reallocation after earlier overseas-driven volatility as Chinese 1H earnings previews arrive. Several companies in memory/storage, fiber-optic cable, liquid cooling and specialty electronic gases have issued strong 1H previews, confirming high Q2 AI-chain momentum; further previews from leading firms could be stronger catalysts. For the North American compute chain (represented by optical comms and PCB), the prior compute rally narrowed into storage and has fallen more sharply recently under overseas pressure; the A-share valuation gap between North America-linked compute leaders and domestic compute leaders has retraced to June last-year levels, a configuration signal to watch. Ahead of the U.S. earnings wave in mid-late July, the market may seek domestic low-base, quality sectors for catch-up, notably the lithium battery supply chain, innovative drugs, brokerages, agrochemicals, refining & petrochemicals, and poultry (broilers)."
-    },
-    {
-      "id": "4970946",
-      "time": "2026-07-05 18:06:46",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【興業證券：景氣的相對強弱、業績的相對變化依然是配置的核心線索】興業證券表示，7月進入中美業績期，景氣的相對強弱、業績的相對變化依然是配置的核心線索。對於市場景氣共識較強的AI算力、上游資源品（尤其是有色、化工、玻纖等AI相關材料）而言，前期受海外波動影響較大之後，隨著國內中報業績預告披露，有望逐步進入再配置區間。儲存、光纖光纜、液冷、電子特氣板塊中，已有幾家公司披露亮眼中報業績預告，驗證二季度AI產業鏈高景氣度。後續龍頭核心公司的業績預告，有望是更加強勁的催化。其中，對於光通訊、PCB為代表的北美算力鏈，前期算力行情“縮圈”至儲存產業鏈，且近期受海外影響下跌較多，當前A股北美算力鏈與國產算力鏈龍頭比價已經加速回落至去年6月的水平，其帶來的配置訊號意義需要重視。另外，在7月中下旬美股業績期到來之前，市場可能仍會尋找國內自身的一些低位績優行業作補漲。當前來看主要包括：鋰電產業鏈、創新藥、券商、農化、煉化、肉雞等。"
-    },
-    {
-      "id": "4970945",
-      "time": "2026-07-05 18:06:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗已故最高領袖哈梅內伊三子現身】今天（7月5日），在伊朗首都德黑蘭舉行的已故最高領袖阿里·哈梅內伊的公眾告別與悼念儀式進入第二天。當地時間上午8時許，數千民眾聚集在德黑蘭的伊瑪目霍梅尼大清真寺，為哈梅內伊及其遇害的四名親屬舉行葬禮禮拜。據路透社等媒體報道，阿里·哈梅內伊的長子、第三子與第四子均出席儀式。伊朗政府、軍方官員以及部分外國代表團出席該儀式。伊朗革命衛隊總司令瓦希迪也出現在現場。（CCTV國際時訊）"
     }
   ]
 }
