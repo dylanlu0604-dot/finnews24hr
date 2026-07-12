@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 05:34:26",
-  "count": 16627,
+  "updated": "2026-07-13 05:38:13",
+  "count": 16625,
   "items": [
+    {
+      "id": "4983090",
+      "time": "2026-07-13 05:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國國會議員預計本週公佈更新版加密貨幣市場結構法案。"
+    },
     {
       "id": "4983089",
       "time": "2026-07-13 05:31:18",
@@ -151537,36 +151545,6 @@
         "國際"
       ],
       "text": "日本防衛省將新設海外統籌局。"
-    },
-    {
-      "id": "4971131",
-      "time": "2026-07-06 05:36:09",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【烏無人機持續打擊俄煉油設施，單月最高16次】自2026年初以來，烏克蘭已對俄羅斯煉油廠發動至少194次襲擊，襲擊數量較2025年同期翻了11倍。美國情報部門持續為烏方提供協助，包括繪製俄羅斯防空系統詳細分佈圖、規劃無人機飛行路線、開展戰損評估，以此幫助烏克蘭無人機規避防空攔截，並對修復完畢的煉油設施實施二次打擊。2026年5月，烏克蘭單月成功襲擊煉油廠次數創下紀錄，達16次。這一系列打擊行動一度造成俄羅斯20%至40%的煉油產能停運，引發國內燃油短缺、俄方出臺燃油出口禁令，同時迫使俄羅斯將大量防空兵力調離其他戰線。"
-    },
-    {
-      "id": "mkt:019f3434-cb05-7aab-8ca5-5408ac6f7f93",
-      "time": "2026-07-06 05:35:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Kuo: Foldable iPhone assembly ~7–8 mln in H2 2026; Q3 ~0.5–1.0 mln; likely simultaneous launch but later sales; supply tightness into year‑end】TF International Securities analyst Ming‑Chi Kuo says his supply‑chain survey shows foldable iPhone assembly shipments of about 7–8 million in H2 2026, with Q3 shipments of 0.5–1.0 million (around 10% of H2). By contrast, iPhone 18 Pro/Pro Max are estimated at about 20–22 million in Q3 and are already stocked for a September retail launch. Kuo says, based on Q3 stocking, the foldable model is likely to mirror the 2017 iPhone X pattern — announced with other models but opening pre‑orders and official sales later — and expects supply tightness to persist through year‑end."
-    },
-    {
-      "id": "4971130",
-      "time": "2026-07-06 05:34:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郭明錤稱蘋果摺疊手機或與其他機型同場釋出、較晚開賣，供應緊張延續至年底】天風國際證券分析師郭明錤發文，據其最新產業調查，摺疊 iPhone 在 2H26（2026 年下半年）的組裝出貨量約 700‒800 萬部，其中 3Q26（2026 年第三季度）出貨量為 50‒100 萬部（佔比約 10%）。相較之下，iPhone 18 Pro / Pro Max 在 3Q26 的預估總出貨量約 2000‒2200 萬部，顯著高於摺疊 iPhone 並已達 9 月正式發售的備貨要求。郭明錤表示，從 3Q26 備貨量的角度，摺疊 iPhone 很有可能會重演 2017 年 iPhone X 當時的狀況：與其他機種一起釋出，但開放預購與正式發售的時間均更晚。"
     }
   ]
 }
