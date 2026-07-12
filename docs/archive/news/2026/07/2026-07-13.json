@@ -1,7 +1,31 @@
 {
   "date": "2026-07-13",
-  "count": 31,
+  "count": 34,
   "items": [
+    {
+      "id": "4983026",
+      "time": "2026-07-13 01:05:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯敦促美國與伊朗停止海灣地區再度升級的軍事行動，並警告稱，一旦爆發全面衝突，將給該地區、全球安全與經濟帶來“災難性後果”。"
+    },
+    {
+      "id": "4983025",
+      "time": "2026-07-13 01:04:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月13日01時03分在四川阿壩州小金縣附近（北緯31.50度，東經102.42度）發生3.8級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:019f5749-43bb-7aab-8d46-4e2f10264449",
+      "time": "2026-07-13 01:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude will extend open access for Claude Fable 5 across all paid plans until July 19 and maintain a 50% increase to Claude Code's weekly usage quota through the same date."
+    },
     {
       "id": "4983024",
       "time": "2026-07-13 01:00:48",
