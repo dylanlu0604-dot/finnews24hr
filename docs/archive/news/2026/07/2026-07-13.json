@@ -1,7 +1,18 @@
 {
   "date": "2026-07-13",
-  "count": 61,
+  "count": 62,
   "items": [
+    {
+      "id": "mkt:019f5798-0257-7aab-8d46-9e772e9a4ebe",
+      "time": "2026-07-13 02:30:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Canada says it \"stands with Gulf states\" over Iran attack】Foreign Minister Anand said Canada will stand with Gulf states to confront another round of heavy attacks from Iran, saying the strikes undermined efforts to restore regional security and that attacks on vessels transiting the Strait of Hormuz violate international law."
+    },
     {
       "id": "mkt:019f578a-fd86-7aab-8d46-97ff29f10c60",
       "time": "2026-07-13 02:15:54",
