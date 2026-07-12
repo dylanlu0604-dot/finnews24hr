@@ -1,7 +1,43 @@
 {
   "date": "2026-07-12",
-  "count": 553,
+  "count": 557,
   "items": [
+    {
+      "id": "mkt:019f5537-9e92-7aab-8d43-122bec545f08",
+      "time": "2026-07-12 15:25:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's foreign ministry strongly condemned Iran's malicious attack on Kuwait this morning."
+    },
+    {
+      "id": "4982730",
+      "time": "2026-07-12 15:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林國際機場附近傳來爆炸聲。"
+    },
+    {
+      "id": "4982729",
+      "time": "2026-07-12 15:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：林賽·格雷厄姆參議員，我所認識的最偉大的人和參議員之一，已經去世！他總是在工作，是一位真正的美國愛國者。林賽將被深深懷念！"
+    },
+    {
+      "id": "mkt:019f5535-57be-7aab-8d43-0d582aa8e033",
+      "time": "2026-07-12 15:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Senator Lindsey Graham, whom he called one of the greatest people and senators he had known, has died. He described Graham as always working and a true American patriot and said he would be deeply missed."
+    },
     {
       "id": "4982728",
       "time": "2026-07-12 15:19:51",

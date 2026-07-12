@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-12 15:22:22",
-  "count": 16524,
+  "updated": "2026-07-12 15:26:28",
+  "count": 16526,
   "items": [
+    {
+      "id": "mkt:019f5537-9e92-7aab-8d43-122bec545f08",
+      "time": "2026-07-12 15:25:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's foreign ministry strongly condemned Iran's malicious attack on Kuwait this morning."
+    },
+    {
+      "id": "4982730",
+      "time": "2026-07-12 15:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林國際機場附近傳來爆炸聲。"
+    },
+    {
+      "id": "4982729",
+      "time": "2026-07-12 15:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：林賽·格雷厄姆參議員，我所認識的最偉大的人和參議員之一，已經去世！他總是在工作，是一位真正的美國愛國者。林賽將被深深懷念！"
+    },
+    {
+      "id": "mkt:019f5535-57be-7aab-8d43-0d582aa8e033",
+      "time": "2026-07-12 15:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Senator Lindsey Graham, whom he called one of the greatest people and senators he had known, has died. He described Graham as always working and a true American patriot and said he would be deeply missed."
+    },
     {
       "id": "4982728",
       "time": "2026-07-12 15:19:51",
@@ -150619,22 +150655,6 @@
         "Brent"
       ],
       "text": "【OPEC+ in principle agrees to raise production quotas from August】OPEC+ is due to hold its monthly meeting later today. A source said the group has in principle agreed to raise crude oil production quotas by 188,000 bpd from August; two other sources said that increase is the likeliest outcome."
-    },
-    {
-      "id": "4970869",
-      "time": "2026-07-05 15:26:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀河證券：結構突圍聚焦科創制造 主線切換至半導體、AI與航空航天三大方向】中國銀河證券釋出研報稱，科技製造內部主線由5月的“AI+新能源”明確切換至6月的“半導體+AI+航空航天”三大方向，主題輪動較5月有所減緩，市場主線更為聚焦。綜合宏觀、風格、行業三層訊號，當前市場呈現“宏觀承壓+結構性主線明確”的格局。整體環境雖對風險偏好形成制約，但資金在製造升級、能源安全與AI產業趨勢上形成高度共識，持續湧入科創、半導體、航空航天與製造幾大賽道，使其成為市場中相對收益潛力最強的方向。風格層面延續成長佔優格局，與科創制造主線的結構性強勢相互印證，共同構成現階段的核心配置邏輯。"
-    },
-    {
-      "id": "mkt:019f3129-e640-7aab-8ca1-646e7b699bcb",
-      "time": "2026-07-05 15:24:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mali army repels renewed coordinated attacks by armed groups】On the 4th Mali’s army said multiple positions came under a new wave of coordinated attacks by armed groups but were repelled and remain under full military control. Attacks hit northern Aguelhok, Anefis and Gao and central Sevare; a local official said fighters struck before dawn with small arms and rockets, prompting road closures and intense gunfire in affected towns."
     }
   ]
 }
