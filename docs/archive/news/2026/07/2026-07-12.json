@@ -1,7 +1,27 @@
 {
   "date": "2026-07-12",
-  "count": 446,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:019f54ba-6da4-7aab-8d42-2da49b2c9aac",
+      "time": "2026-07-12 13:08:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar's Ministry of Defence said Qatar was hit by multiple ballistic missiles."
+    },
+    {
+      "id": "4982649",
+      "time": "2026-07-12 13:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美議員“控訴”在約旦河西岸遭以方扣留】美國一名聯邦眾議員11日說，他幾天前訪問巴勒斯坦約旦河西岸時一度遭猶太定居者和以色列軍方扣留，在美國駐以色列大使館介入後才獲釋。按照美聯社說法，這一事件再度凸顯美以之間不斷加深的政治裂痕。（新華社）"
+    },
     {
       "id": "mkt:019f54b8-2da7-7aab-8d42-27624ab0aaa1",
       "time": "2026-07-12 13:06:24",
