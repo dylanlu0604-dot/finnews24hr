@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-12 16:03:38",
-  "count": 16528,
+  "updated": "2026-07-12 16:07:40",
+  "count": 16531,
   "items": [
+    {
+      "id": "4982778",
+      "time": "2026-07-12 16:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 阿斯塔納航空通報，一架由阿斯塔納飛往迪拜的航班因當地局勢升級，已備降起飛機場。"
+    },
+    {
+      "id": "4982777",
+      "time": "2026-07-12 16:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 咖啡機品牌世家蘭鐸將於 7 月底前接收收購報價。"
+    },
+    {
+      "id": "4982776",
+      "time": "2026-07-12 16:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭 6 月向債權人償還 4.412 億美元，為本年度最大單筆還款規模。其中，烏克蘭 6 月向世界銀行償還 2.115 億美元，向國際貨幣基金組織償還 1.715 億美元，向其他債權人償還 5100 萬美元，另有 720 萬美元用於償付國家外幣債券利息。"
+    },
+    {
+      "id": "4982775",
+      "time": "2026-07-12 16:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家糧食和儲備局向浙江等地調運7萬件救災物資】記者12日從國家糧食和物資儲備局獲悉，7月12日，針對颱風“巴威”影響，根據浙江、天津、安徽等地防汛防颱風救災工作需要，按照應急管理部調令，國家糧食和物資儲備局向浙江、天津、安徽調運摺疊床、毛巾被、夏涼被、褥子、家庭應急包等7萬件中央救災物資，全力支援做好受災群眾轉移安置和救災救助工作。（新華社）"
+    },
+    {
+      "id": "4982774",
+      "time": "2026-07-12 16:03:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英國郵政執行長警告，拆分分支機構網路或將導致資產貶值。"
+    },
     {
       "id": "4982773",
       "time": "2026-07-12 16:00:50",
@@ -150632,30 +150672,6 @@
         "其他"
       ],
       "text": "【三部門調撥1.5萬件中央救災物資至廣西、遼寧】針對廣西、遼寧等地臺風、暴雨洪澇、風雹等災害情況，7月5日，國家防災減災救災委員會辦公室、應急管理部派出工作組赴兩省（自治區）實地檢視災情，協助和指導地方做好救災工作。根據防汛防颱風救災工作需要，會同國家糧食和物資儲備局向廣西、遼寧等災區調撥帳篷、摺疊床、夏涼被、家庭應急包、家庭照明燈等中央救災物資1.5萬件，支援地方妥善做好受災群眾基本生活救助工作。（央視新聞）"
-    },
-    {
-      "id": "4970903",
-      "time": "2026-07-05 16:06:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【石藥景峰：連續2個交易日收盤價漲幅偏離值累超23.21%】石藥景峰釋出股票交易異常波動公告，公司股票於2026年7月2日、3日連續2個交易日收盤價格漲幅偏離值累計達23.21%，根據《深圳證券交易所交易規則》的有關規定，屬於股票交易異常波動情況。"
-    },
-    {
-      "id": "mkt:019f314f-696f-7aab-8ca1-d4baaf048418",
-      "time": "2026-07-05 16:05:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Citic Securities: Two factors could catalyze recovery in some non‑AI sectors with earnings support】Citic Securities says two recent narrative shifts could catalyze a recovery in some non‑AI sectors with earnings support. First, markets are re‑examining Fed policy assumptions and are no longer uniformly pricing a pre‑set hawkish tightening path; a reversal of the tightening/strong‑dollar narrative has eased negative sentiment in non‑AI names. Second, controversy around Meta underscores low market tolerance for negative AI news and suggests downstream players need richer monetization models to justify aggressive upstream investment. Citic also expects outflows from broad A‑share ETFs to ease materially — a key liquidity margin change. The combination of a softer rate‑hike narrative and improved liquidity could spur selective recovery in fundamentally supported non‑AI sectors."
     }
   ]
 }
