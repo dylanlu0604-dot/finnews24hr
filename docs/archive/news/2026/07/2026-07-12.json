@@ -1,7 +1,44 @@
 {
   "date": "2026-07-12",
-  "count": 903,
+  "count": 907,
   "items": [
+    {
+      "id": "4982995",
+      "time": "2026-07-12 23:41:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總統內塔尼亞胡：特朗普希望與伊朗達成協議，尤其是核問題相關協議；但如果伊朗不遵守自身承諾，特朗普會毫不猶豫動用武力。"
+    },
+    {
+      "id": "4982994",
+      "time": "2026-07-12 23:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：在局勢恢復正常之前，不會允許任何船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f56fc-ead3-7aab-8d45-f0802da7cd0e",
+      "time": "2026-07-12 23:40:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said the country is engaged in a complex economic war and that overcoming this phase requires active public participation."
+    },
+    {
+      "id": "mkt:019f56fb-b72b-7aab-8d45-eec0938121a6",
+      "time": "2026-07-12 23:39:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran’s Press TV reported an attack on an ATACMS missile system facility at a US military base in Kuwait, with thick smoke seen on site."
+    },
     {
       "id": "mkt:019f56f9-d391-7aab-8d45-e21a25b9b1c6",
       "time": "2026-07-12 23:37:20",
