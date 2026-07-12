@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-13 05:26:51",
-  "count": 16625,
+  "updated": "2026-07-13 05:30:39",
+  "count": 16627,
   "items": [
+    {
+      "id": "4983088",
+      "time": "2026-07-13 05:29:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美中央司令部：已對伊朗發動新一輪打擊】當地時間7月12日，美軍中央司令部稱，美國東部時間當日17時，美軍開始對伊朗發動新一輪打擊，“旨在繼續削弱其攻擊在霍爾木茲海峽自由通行船隻的能力”。"
+    },
+    {
+      "id": "mkt:019f583a-5bd0-7aab-8d47-353281aeff25",
+      "time": "2026-07-13 05:27:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said Saturday's talks in Muscat focused on managing the Strait of Hormuz, but the U.S. pressured Oman to block any outcome."
+    },
+    {
+      "id": "4983087",
+      "time": "2026-07-13 05:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部譴責美軍打擊行動屬於戰爭罪行，並警告此舉會破壞地區和平程序。 伊方誓言將打擊所有用於襲擊伊朗的發射陣地，同時敦促聯合國對美方採取相關措施。"
+    },
     {
       "id": "4983086",
       "time": "2026-07-13 05:25:09",
@@ -151541,14 +151569,6 @@
         "AI Revolution"
       ],
       "text": "【UK regulator says AI in finance is an \"arms race\", urges broader powers and LLM oversight】FCA executive director Sheldon Mills said regulators are in an \"arms race\" to keep pace with AI adoption in financial services and need broader powers, the FT reported. He urged UK regulators to assess whether large language models such as ChatGPT, Claude and Gemini should be brought within regulatory rules. Mills said regulators must themselves adopt AI to match the technology’s \"speed, tempo and scale\" and to \"monitor, detect and respond to risks.\" A report by Mills warned that heavy personalization can improve product fit but may also produce algorithmic bias, opaque pricing and targeted manipulation. It recommends the FCA conduct a review within three to six months of risks from firms providing financial services outside the regulatory perimeter and potential consumer harm from rising use of AI in personal finance."
-    },
-    {
-      "id": "4971129",
-      "time": "2026-07-06 05:28:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "肯亞航空：7月5日，從內羅畢飛往紐約的KQ 002D航班在飛經查德上空時發生飛行控制擾流板故障。"
     }
   ]
 }
