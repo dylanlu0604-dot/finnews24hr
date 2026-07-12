@@ -1,7 +1,156 @@
 {
   "date": "2026-07-13",
-  "count": 135,
+  "count": 151,
   "items": [
+    {
+      "id": "mkt:019f585a-a5ea-7aab-8d47-63e2bb6f1cee",
+      "time": "2026-07-13 06:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTI crude up 3.00% intraday at $73.57/bbl."
+    },
+    {
+      "id": "4983109",
+      "time": "2026-07-13 06:02:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨下跌5個跳動點，聯邦基金期貨走低。"
+    },
+    {
+      "id": "4983108",
+      "time": "2026-07-13 06:02:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報78.38美元/桶。"
+    },
+    {
+      "id": "mkt:019f5859-ecce-7aab-8d47-5bdf1fe827a3",
+      "time": "2026-07-13 06:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At Monday open, spot gold opened about $20 lower, slipping below $4,100/oz. Spot silver opened down 0.8%."
+    },
+    {
+      "id": "4983107",
+      "time": "2026-07-13 06:01:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨亞洲開盤上漲3%，美伊衝突升級。"
+    },
+    {
+      "id": "4983106",
+      "time": "2026-07-13 06:01:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "4983105",
+      "time": "2026-07-13 06:01:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨下跌0.2%，標普500期貨下跌0.1%。"
+    },
+    {
+      "id": "4983104",
+      "time": "2026-07-13 06:01:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內跌0.05%。"
+    },
+    {
+      "id": "4983103",
+      "time": "2026-07-13 06:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國海軍一名失蹤海員已被證實死亡。"
+    },
+    {
+      "id": "mkt:019f5858-b7ab-7aab-8d47-52b1912dfac4",
+      "time": "2026-07-13 06:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude hit $73/bbl in early Monday trade, up 2.49% intraday."
+    },
+    {
+      "id": "mkt:019f5858-8bed-7aab-8d47-48f048f9dce7",
+      "time": "2026-07-13 06:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Futures for the three major US stock indices opened lower on Monday; Nasdaq futures fell 0.3%."
+    },
+    {
+      "id": "4983102",
+      "time": "2026-07-13 06:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲3%，現報73.67美元/桶。"
+    },
+    {
+      "id": "4983101",
+      "time": "2026-07-13 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報59.40美元/盎司。"
+    },
+    {
+      "id": "4983100",
+      "time": "2026-07-13 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "4983099",
+      "time": "2026-07-13 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報73.28美元/桶。"
+    },
+    {
+      "id": "4983098",
+      "time": "2026-07-13 06:00:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報78.00美元/桶。"
+    },
     {
       "id": "4983097",
       "time": "2026-07-13 05:58:28",
