@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 00:42:38",
-  "count": 16634,
+  "updated": "2026-07-13 00:46:43",
+  "count": 16633,
   "items": [
+    {
+      "id": "4983016",
+      "time": "2026-07-13 00:44:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會社會委員會成員沙赫魯赫·拉敏：伊朗最高領袖與各權力機構負責人及國家安全最高委員會成員的會議均以線上方式舉行，但議會迄今尚未獲得以線上形式立法的許可；而要透過有關舉行網路會議的議事規則，至少還需召開一次線下會議。"
+    },
     {
       "id": "mkt:019f5735-0faf-7aab-8d46-43a45aa06999",
       "time": "2026-07-13 00:42:02",
@@ -151572,22 +151580,6 @@
         "MKT News"
       ],
       "text": "Iranian parliament speaker Ghalibaf said the United States is an unreliable negotiating partner, so we have set clear limits in negotiations and have consistently upheld them."
-    },
-    {
-      "id": "mkt:019f332b-4411-7aab-8ca4-28a436aac2de",
-      "time": "2026-07-06 00:45:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's president, responding to the government's decision not to comply with the Supreme Court's ruling, said disrespecting judicial rulings is an absolute red line."
-    },
-    {
-      "id": "4971057",
-      "time": "2026-07-06 00:42:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總統就政府拒不執行最高法院裁決的表態作出回應：“不尊重司法裁決是絕對不可逾越的紅線。”"
     }
   ]
 }
