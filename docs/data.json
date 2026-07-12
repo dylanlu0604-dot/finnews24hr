@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-13 06:03:35",
-  "count": 16644,
+  "updated": "2026-07-13 06:07:26",
+  "count": 16646,
   "items": [
+    {
+      "id": "4983113",
+      "time": "2026-07-13 06:06:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破74美元/桶，日內漲3.63%。"
+    },
+    {
+      "id": "4983112",
+      "time": "2026-07-13 06:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中央氣象臺7月13日06時繼續釋出暴雨橙色預警】中央氣象臺7月13日06時繼續釋出暴雨橙色預警:預計，7月13日08時至14日08時，遼寧大部、吉林中東部、山東北部和南部、江蘇中北部、安徽中部和南部、江西東北部及青海東部、甘肅東部、寧夏中西部、廣東東南部沿海、海南島南部等地部分地區有大到暴雨，其中，遼寧中北部和南部、吉林中南部等地部分地區有大暴雨，遼寧東北部、吉林中南部等地局地特大暴雨(250~300毫米)。上述部分地區伴有短時強降水(最大小時降雨量20~50毫米，局地可超過80毫米)，局地有雷暴大風等強對流天氣。"
+    },
+    {
+      "id": "4983111",
+      "time": "2026-07-13 06:03:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "基本半導體公司：自2026年第三季度起，將適度上調部分產品售價。"
+    },
+    {
+      "id": "mkt:019f585a-f4b7-7aab-8d47-69f4d1d5553f",
+      "time": "2026-07-13 06:03:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury futures fell five points; fed funds futures slipped slightly."
+    },
     {
       "id": "mkt:019f585a-a5ea-7aab-8d47-63e2bb6f1cee",
       "time": "2026-07-13 06:02:43",
@@ -9,6 +46,14 @@
         "MKT News"
       ],
       "text": "WTI crude up 3.00% intraday at $73.57/bbl."
+    },
+    {
+      "id": "4983110",
+      "time": "2026-07-13 06:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "基礎半導體公司：部分產品價格最高上調25%。"
     },
     {
       "id": "4983109",
@@ -151691,30 +151736,6 @@
         "國際"
       ],
       "text": "特朗普發圖調侃義大利總理梅洛尼，“需要下達限制令”。"
-    },
-    {
-      "id": "mkt:019f3451-2010-7aab-8ca5-6d29a1c87d65",
-      "time": "2026-07-06 06:05:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【KRW edges higher on first day of 24-hour trading】The South Korean won (KRW) edged higher against the dollar on the first day of 24-hour trading. The around-the-clock mechanism was introduced to improve foreign investor access to South Korea’s markets and support a push for MSCI developed-market inclusion, reflecting a shift toward greater offshore investment. Deputy Finance Minister Moon Ji-chung said on Friday regulators will step up monitoring of night-session trading ahead of formal implementation on Monday. The won has been one of Asia’s weakest currencies this year, briefly hitting its weakest level since 2009 last week, pressured by higher energy prices from the Iran war and foreign investors selling Korean equities to rebalance after a sharp rally."
-    },
-    {
-      "id": "4971137",
-      "time": "2026-07-06 06:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【挪威晉級世界盃8強】北京時間7月6日，2026美加墨世界盃1/8決賽，挪威隊2比1戰勝巴西隊，晉級世界盃8強。"
-    },
-    {
-      "id": "4971136",
-      "time": "2026-07-06 06:05:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。"
     }
   ]
 }
