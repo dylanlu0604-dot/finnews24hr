@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-13 00:21:06",
-  "count": 16626,
+  "updated": "2026-07-13 00:25:05",
+  "count": 16630,
   "items": [
+    {
+      "id": "mkt:019f5723-b1ea-7aab-8d46-2291a859fca4",
+      "time": "2026-07-13 00:23:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. officials told Axios the U.S. military struck missile and air-defense systems and small vessels of Iran's Islamic Revolutionary Guard Corps at several locations around the Strait of Hormuz about an hour ago."
+    },
+    {
+      "id": "4983009",
+      "time": "2026-07-13 00:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國還在霍爾木茲海峽周邊的幾處地點打擊了伊朗革命衛隊的小型船隻。"
+    },
+    {
+      "id": "4983008",
+      "time": "2026-07-13 00:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國一小時前在霍爾木茲周邊發動數輪打擊。"
+    },
+    {
+      "id": "4983007",
+      "time": "2026-07-13 00:20:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱有10至11枚導彈射向格什姆島。"
+    },
     {
       "id": "mkt:019f5721-43e8-7aab-8d46-1918a0d6e9b0",
       "time": "2026-07-13 00:20:25",
