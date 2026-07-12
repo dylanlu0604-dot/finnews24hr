@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 00:09:04_
-_本檔包含 3221 則快訊，約 627468 字_
+_更新時間：2026-07-13 01:13:59_
+_本檔包含 3212 則快訊，約 627797 字_
+
+---
+
+### 2026-07-07 12:45:42  #公司
+
+【安徽：在科技創新方面探索打造“基金+科技貸+投擔聯動+智慧財產權質押”組合融資工具】7月7日上午，在《安徽省財政金融協同實施方案》政策解讀新聞釋出會上，安徽省財政廳副廳長張豐表示，《實施方案》就財金協同工具創新進行了探索，主要是三個方面。一是提升現有政策效能。以落實國家財金協同促內需一攬子政策為契機，推動貼息政策與擔保、再貸款工具協同；進一步發揮政府投資基金引導帶動作用；深化專項債自審自發試點，推廣債貸組合模式；推動保險機構建立覆蓋科技創新全鏈條、全週期的科技保險產品和服務體系，深化農業保險+改革；持續提升政府性融資擔保機構實力和資本規模，設立江淮糧倉擔保公司，做強做優農業擔保體系。二是推動工具協調聯動。在科技創新方面，探索打造“基金+科技貸+投擔聯動+智慧財產權質押”組合融資工具；在重大專案投融資方面，探索打造“專項債+信貸+REITs”模式；在產業培育方面，探索建立“投貸聯動+擔保增信+貼息獎補”機制；在促進消費方面，探索建立“貸款貼息+消費補貼+有獎發票”機制。在多個領域，積極構建多品類工具銜接配合的良性互動生態。三是挖潛轉化財金資源。推動政策資源的標準化應用，歸集整合財政獎補、農業保險、政府採購等資源，引導金融機構推廣免申貸、政保貸、政採貸等專屬金融產品；探索將企業研發投入、智慧財產權等技術流要素，轉化為金融機構可識別、可定價、可授信的資金流信用，促進科創價值信用化融資；探索撥改投試點；推進適宜的國有資產資本化運作。下一步，我們將持續深化協同工具創新供給，引導各地、各部門用好用足協同政策工具，放大政策組合效應。
+
+---
+
+### 2026-07-07 12:44:57  #公司 #國際
+
+【卡達LNG船駛出霍爾木茲海峽時遇襲 美國和伊朗的停火安排面臨考驗】一艘滿載液化天然氣(LNG)的運輸船在駛出霍爾木茲海峽時，於阿曼海岸附近遭到彈體擊中。這起事件加劇了航運業對該航道安全的擔憂，同時也考驗著美國與伊朗之間旨在制止襲擊事件的協議。據知情人士透露，Al Rekayyat號於週二凌晨遭到襲擊。由於事件敏感，知情人士不願具名。安全諮詢公司EOS Risk Group釋出的警報證實，襲擊發生在阿曼Limah以東約8海里（15公里）處，隨後船上發生火災，並將事件定性為無人機或導彈襲擊。船舶追蹤資料顯示，這艘由卡達國有航運公司Nakilat擁有的船舶事發時似乎未開啟應答器。英國海上貿易行動辦公室此前曾釋出警報，但未披露涉事船隻名稱。卡達能源公司及Nakilat均未回應置評請求。
+
+---
+
+### 2026-07-07 12:44:43  #其他
+
+【機構：雲可能仍是中國企業AI最顯著的變現模式】美銀證券預計，雲將繼續是中國企業AI服務“最大、最顯著的變現模式“。該機構分析師在一份研究報告中表示，AI訓練和推理不斷增長的計算需求可能會支撐這一需求。美銀表示，“模型即服務”(Model as a Service)的日益普及也可能有助於提振需求，這是一種基於雲的模式，允許使用者透過API訪問AI模型。他們補充說，與企業相關的需求可能會在短期內支撐整體的AI變現。
+
+---
+
+### 2026-07-07 12:44:00  #經濟數據 #美國
+
+【通脹有望降溫？紐約聯儲：美伊戰爭影響開始消退 6月供應鏈壓力緩解！】紐約聯邦儲備銀行週一表示，隨著中東戰爭的影響開始消退，全球供應鏈壓力在6月份有所緩解。據悉，該行的全球供應鏈壓力指數（GSCPI）從5月份向上修正後的1.81降至1.25。這一水平已接近2022年底疫情擾動逐步消退時的讀數，遠低於2021年12月創下的4.44的峰值。
+
+---
+
+### 2026-07-07 12:43:51  #Trading Economics #Economy #Netherlands #Inflation Rate #Importance 1
+
+Dutch June Inflation Confirmed at 2.9% — The annual inflation rate in the Netherlands eased to 2.9% in June 2026, confirming preliminary estimates and down from a one-year high of 3.5% in May. The slowdown was largely driven by transport inflation, which eased to 6.9% from 9.9% amid lower motor fuel prices as global oil prices declined. Inflation also moderated for health (0.7% vs. 0.8%), recreation and culture (2.6% vs. 2.8%), and restaurants and hotels (4.2% vs. 6.5%). Meanwhile, prices declined for food and non-alcoholic beverages (-0.5% vs. 0.1%), clothing and footwear (-0.5% vs. 0.4%), and information and communication (-1.4% vs. -0.8%). In contrast, price growth edged up for housing and utilities (3.6% vs. 3.5%) and rebounded for household goods and services (0.3% vs. -0.3%). On a monthly basis, consumer prices fell 0.6%, the first decline since January, following a 0.1% increase in May. Annual HICP inflation, which excludes owner-occupied housing, eased to 2.5% from 3.4% in May.
+
+---
+
+### 2026-07-07 12:43:27  #其他
+
+【江蘇釋出強對流黃色預警 】江蘇省氣象臺7日釋出強對流黃色預警：預計今天白天，徐州、宿遷、連雲港、淮安、鹽城、揚州、泰州等地將出現8至10級雷暴大風和30至50毫米/小時的短時強降水。其中，連雲港和鹽城北部地區需特別警惕，可能出現EF0級龍捲風。 據悉，未來三天全省多降水天氣，其中7日白天江淮之間北部和淮北地區有大到暴雨，並伴隨短時強降水、8至11級雷暴大風，局地可能出現冰雹和龍捲風。
+
+---
+
+### 2026-07-07 12:42:42  #其他
+
+【生態環境部發布新規 規範工業園區汙水處理標準】生態環境部近日釋出《工業園區汙水集中處理設施水汙染物排放標準制訂技術導則》，為各地工業園區汙水排放標準提供明確技術指引。新規明確地方制定排放標準需堅持分類管理、全面防控、科學可行、依法合規原則。將工業園區分為單一行業型和綜合型兩類，綜合型工業園區可再細分行業類似型、主導型、差異型三個小類。地方根據實際情況和環境管理需要，篩選排放量大、有毒有害水汙染物種類多、對受納水體水生態環境風險高且現行排放標準不適用的一類園區，開展園區排放標準的制訂；行業差異型園區優先考慮制訂“一園一策”管控要求。
+
+---
+
+### 2026-07-07 12:41:52  #市場 #國際
+
+【機構：澳大利亞超市的通脹紅利可能受限】Jefferies分析師警告稱，澳大利亞超市可能不會像過去那樣可靠地從通脹中獲益。他們將該投資銀行專有超市調查所顯示的近期包裝商品價格上漲歸因於伊朗衝突，並認為化肥和柴油價格高企將在中期內推動食品價格繼續上漲。他們在一份報告中告訴客戶，超市歷來受益於通脹，但目前政治和媒體的密切關注可能會阻礙其擴大毛利率的能力。調查顯示，與一年前相比，超市打折的商品範圍縮小了，但降價幅度更大了。
+
+---
+
+### 2026-07-07 12:41:42  #MKT News #BX.N #Impact bearish
+
+Jefferies cut Blackstone (BX.N) PT to $145 from $152.
+
+---
+
+### 2026-07-07 12:41:27  #公司
+
+傑富瑞將黑石集團目標價從152美元下調至145美元。
+
+---
+
+### 2026-07-07 12:41:00  #其他
+
+加拿大皇家銀行（RBC）將特斯拉目標股價從475美元上調至500美元。
+
+---
+
+### 2026-07-07 12:40:47  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+RBC raised Tesla (TSLA.O) price target to $500 from $475.
+
+---
+
+### 2026-07-07 12:40:40  #市場
+
+【光通訊模組製造商中際旭創一度漲3.3% 野村上調目標價】中際旭創週二早盤一度升3.3%，報1,135元，午間收盤上漲1.6%。野村在報告中表示，將中際旭創目標價由1,015元上調至1,325元，市場雖存在零部件供貨緊缺、大型雲AI（人工智慧）客戶重複下單的擔憂，但高階光通訊器件依舊是AI資料中心的關鍵瓶頸。中際旭創今年迄今暴漲83%，同期滬深300指數上揚3.7%。中證5G通訊主題指數早盤收跌1.3%。
+
+---
+
+### 2026-07-07 12:40:26  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Climbs for Fifth Straight Day — India’s BSE Sensex edged up about 0.2% to 78,412, marking a fifth consecutive session of gains, as continued foreign fund inflows and upbeat corporate business updates offset caution ahead of the June-quarter earnings season. Sentiment remained supported by sustained foreign portfolio investor inflows, with overseas investors net buyers for a fourth straight session, alongside easing crude oil prices and favourable monsoon progress. Stock-specific moves were in focus following pre-earnings business updates. Titan advanced 3.4% after reporting robust growth in its consumer business, driven by strong jewellery sales, while Jubilant FoodWorks gained 3.2% after posting higher consolidated revenue. On the downside, Trent fell 11.1% and came under pressure after its quarterly revenue growth came in below some market expectations. Other notable gainers were IOL Chemicals (18.9%), RITES (8.3%), and Ramco (6.3%), while the biggest losers included Kalyan (-6.8%), Apollo (-5.0%), and BSE (-3.8%).
 
 ---
 
@@ -19314,143 +19398,5 @@ White House official said Trump will meet Turkish President ERDOGAN during his N
 ### 2026-07-06 01:14:07  #觀點
 
 【上半年券商債券承銷榜出爐 前五名包攬五成份額】上半年券商債券承銷排行榜正式揭曉。Wind資料顯示，從總承銷金額來看，中信證券蟬聯榜首，國泰海通、中信建投分列第二、三位。市場格局方面，前五名券商合計佔據券商承銷金額的五成以上，行業馬太效應持續深化。在業務發力方向上，券商正積極把握科創債、產業債擴容機遇，引導金融活水精準澆灌實體經濟。
-
----
-
-### 2026-07-06 01:13:45  #其他
-
-兩名石油行業官員透露：伊拉克6月石油出口總量約2450萬桶。
-
----
-
-### 2026-07-06 01:13:25  #國際
-
-白宮官員：特朗普將在北約之行期間與埃爾多安舉行會晤。
-
----
-
-### 2026-07-06 01:09:42  #MKT News
-
-Trump will hold bilateral meetings with the leaders of Ukraine and Syria during the NATO summit.
-
----
-
-### 2026-07-06 01:08:58  #國際
-
-特朗普將在北約峰會期間與烏克蘭、敘利亞領導人舉行雙邊會晤。
-
----
-
-### 2026-07-06 01:08:16  #MKT News
-
-White House says Trump will meet Zelenskiy during the NATO summit.
-
----
-
-### 2026-07-06 01:07:46  #國際
-
-白宮：特朗普將在北約峰會期間會見澤連斯基。
-
----
-
-### 2026-07-06 01:05:16  #MKT News #DXY #Impact bullish #XAUUSD #Impact mixed
-
-【Israel says it has full control of Beaufort Ridge in southern Lebanon】On the 5th, IDF chief of staff Zamir visited Beaufort Ridge in southern Lebanon and said that after its capture the IDF now fully controls the position’s surface area and its underground tunnel network. He said the military will continue operations to eliminate threats from Lebanon. The Beaufort position overlooks large parts of southern Lebanon. On May 31, Prime Minister Netanyahu said the IDF had seized the site.
-
----
-
-### 2026-07-06 00:59:07  #國際
-
-【以軍稱已全面控制黎巴嫩南部博福特嶺】5日，以色列國防軍總參謀長扎米爾前往黎巴嫩南部的博福特嶺。扎米爾說，在攻佔博福特嶺後，目前以軍已全面控制了這一地區的地面部分及地下隧道網路。他還表示，以軍將繼續採取行動消除來自黎巴嫩的威脅。博福特嶺據點是黎南部的一處戰略要地，在此可俯瞰黎南部大片地區。5月31日，以色列總理內塔尼亞胡稱，以軍已攻佔博福特嶺據點。
-
----
-
-### 2026-07-06 00:56:46  #國際
-
-伊朗議會議長：美國是不可靠的談判方，因此我們在談判中劃定了清晰底線並始終堅守。抵抗陣線與黎巴嫩相關問題，是我們劃定的紅線之一。
-
----
-
-### 2026-07-06 00:56:27  #MKT News
-
-Iranian parliament speaker Ghalibaf said the resistance front and Lebanon-related issues are among Iran's red lines.
-
----
-
-### 2026-07-06 00:56:13  #MKT News
-
-Iranian parliament speaker Ghalibaf said the United States is an unreliable negotiating partner, so we have set clear limits in negotiations and have consistently upheld them.
-
----
-
-### 2026-07-06 00:45:01  #MKT News
-
-Israel's president, responding to the government's decision not to comply with the Supreme Court's ruling, said disrespecting judicial rulings is an absolute red line.
-
----
-
-### 2026-07-06 00:42:40  #國際
-
-以色列總統就政府拒不執行最高法院裁決的表態作出回應：“不尊重司法裁決是絕對不可逾越的紅線。”
-
----
-
-### 2026-07-06 00:41:30  #國際
-
-美國紐約市東河發生飛機墜機事故，至少10人已獲救。
-
----
-
-### 2026-07-06 00:39:53  #國際
-
-知情人士：以色列多名高階官員將於未來數日至數週內前往華盛頓參加高層會談，針對伊朗採取軍事行動的選項仍擺在檯面上。
-
----
-
-### 2026-07-06 00:39:19  #公司 #國際
-
-英國石油公司考慮退出其與日本合作伙伴共同開發的日本北部近海風電專案。
-
----
-
-### 2026-07-06 00:38:03  #MKT News #BP.L #Impact bearish #8002.T #Impact mixed
-
-【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry.
-
----
-
-### 2026-07-06 00:33:44  #國際
-
-黎巴嫩官方部門：自3月以來，以色列對黎巴嫩發動的襲擊已造成4304人遇難。
-
----
-
-### 2026-07-06 00:25:31  #公司
-
-【易捷航空同意卡斯爾萊克52億英鎊收購要約】易捷航空已原則上接受卡斯爾萊克的第五輪現金收購要約，收購價每股6.9英鎊。此前易捷航空已四次拒絕對方收購提議，本次新報價估值52億英鎊（摺合69億美元），高於此前每股6.5英鎊的出價。過去一個月雙方就收購事宜分歧不斷。這家低成本航司曾指責前幾輪收購提議“投機性極強”，稱卡斯爾萊克想低價收購公司；而這家投資機構則表示，易捷航空董事會不願開展實質性談判，因此直接向全體股東丟擲收購方案。
-
----
-
-### 2026-07-06 00:16:59  #MKT News
-
-【Majority of US voters say Trump's conflict with Iran not worth economic, strategic cost】An FT nationwide poll shows 58% of US voters say the Trump administration's military confrontation with Iran is not worth the economic and strategic cost. With inflation high and war spending mounting, Republicans' midterm prospects have dimmed. The White House has asked Congress for an additional $670 billion in federal appropriations to cover accumulated war costs. Only 31% of respondents said recent skirmishes strengthened US negotiating position, while 44% said they weakened US leverage. Voters also cited the conflict as a material factor pushing up consumer goods and gasoline prices year-to-date.
-
----
-
-### 2026-07-06 00:16:20  #國際
-
-【多數美國選民認為特朗普對伊朗開戰得不償失】英國《金融時報》最新一項全國民意調查顯示，58%的美國選民認為，特朗普政府與伊朗爆發的軍事衝突，所付出的經濟與戰略代價完全不值。伴隨通脹高企、戰爭開支援續增加，共和黨在即將到來的國會中期選舉前景堪憂。絕大多數美國選民認為，當前與伊朗的軍事衝突在戰略、財政層面均得不償失，這也給本屆政府留下嚴重政治軟肋。這份民調結果出爐之際，白宮正向國會申請新增6700億美元聯邦撥款，用以支付累積的戰爭開銷。民眾情緒充分體現出公眾對政府危機處置方式的深度質疑。僅31%受訪者認為，一系列交火行動讓美國的談判地位變得更強。與之相反，44%民眾表示，這場衝突實實在在削弱了美國對伊朗的施壓籌碼。全年以來，這場軍事行動大幅推高了國內消費品與汽油價格。
-
----
-
-### 2026-07-06 00:12:05  #MKT News
-
-【China foreign minister Wang Yi holds talks with Finland's Valtonen】China's foreign minister Wang Yi met Finland's foreign minister Valtonen in Helsinki on the 5th. Wang said Finland was among the first Western states to establish diplomatic ties with China and the first to sign an intergovernmental trade agreement. He highlighted 76 years of close China–Finland ties and the 2017 establishment of a future-oriented cooperation partnership, and said China is willing to continue mutual respect and equal treatment and remain a trusted partner despite shifting international conditions.
-
----
-
-### 2026-07-06 00:11:49  #宏觀 #國際
-
-【王毅同芬蘭外長瓦爾託寧會談】中共中央政治局委員、外交部長王毅5日在赫爾辛基同芬蘭外長瓦爾託寧舉行會談。王毅說，芬蘭是最早同新中國建交的西方國家之一，也是第一個同中國簽訂政府間貿易協定的西方國家。建交76年來，中芬關係一直走在中國同北歐國家關係的前列，樹立了國與國之間超越制度和文化差異、開展平等交往的典範。2017年中芬建立面向未來的新型合作伙伴關係，充分體現兩國關係的前瞻性、創新性。無論國際風雲如何變幻，中方願同芬方相互尊重、平等相待，繼續做彼此信任的合作伙伴。（新華社）
 
 ---

@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 00:09:04_
-_本檔包含 3402 則快訊，約 628553 字_
+_更新時間：2026-07-13 01:13:59_
+_本檔包含 3411 則快訊，約 628771 字_
+
+---
+
+### 2026-07-08 14:46:25  #市場 #國際
+
+【中國部分AI大模型比美國便宜90%】據美國CNBC網站7日報道，受美國頭部AI廠商模型定價持續上漲影響，中國AI大模型憑藉價效比優勢，在美國企業端的應用規模正快速擴大。業內人士指出，目前中國部分頭部開源及開放權重模型的效能與OpenAI、Anthropic等美國頂尖前沿模型的技術差距約6至9個月，而定價卻低60%至90%，並且可覆蓋絕大多數常規AI工作任務，因此深受美國企業的青睞。 據AI模型聚合平臺OpenRouter統計，自今年2月8日起，美國企業呼叫中國AI模型的詞元佔比每週均超過30%，最高時已經達到46%；而此前12個月該佔比均值為11%。業內另一統計資料顯示，智譜最新發布的大模型GLM 5.2上線首周，日均詞元呼叫量就增長了27倍、客戶數增長80倍，是2026年在該平臺落地速度最快的模型；美國AI初創企業Lindy將所有AI業務切換至DeepSeek模型後成本大幅下降，預計數月內可節省數百萬美元。（央視財經）
+
+---
+
+### 2026-07-08 14:46:08  #MKT News
+
+Iran's foreign ministry said all states, especially neighbors on the Persian Gulf's southern shore, have an international-law obligation to prevent aggressors from using their territory or facilities to launch aggression against Iran, and warned that any assistance enabling such actions would constitute complicity.
+
+---
+
+### 2026-07-08 14:45:37  #MKT News
+
+Iran's foreign ministry said the United States bears responsibility for the dangerous consequences of this escalation, calling the U.S. regime treacherous.
+
+---
+
+### 2026-07-08 14:45:32  #焦點 #國際
+
+伊朗外交部再次警告地區國家，不得允許美國利用本國領土對伊朗發動打擊。
+
+---
+
+### 2026-07-08 14:45:18  #其他
+
+AI晶片初創企業Sambanova完成融資，估值達110億美元。
+
+---
+
+### 2026-07-08 14:45:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry said Iran's arrangements in the Strait of Hormuz have been violated and that Israel's continued strikes in Lebanon are rendering the temporary agreement ineffective.
+
+---
+
+### 2026-07-08 14:44:26  #國際
+
+伊朗外交部在一份宣告中表示，他國違反伊朗在霍爾木茲海峽的相關安排，加之以色列持續對黎巴嫩發動襲擊，正導致伊核臨時協議失效。
+
+---
+
+### 2026-07-08 14:43:56  #公司
+
+【Piper Sandler：甲骨文雲業務2027財年有望超預期】投行Piper Sandler釋出報告稱，甲骨文雲基礎設施(OCI)業務在2027財年的收入有望超越當前市場預期，主要得益於資本開支加速轉化為實際營收。分析師認為，該公司大規模資本性支出(CapEx)正逐步轉化為實際產能與收入，這一轉化效率可能被投資者低估。Piper Sandler維持對甲骨文的“超配”評級，目標價定為225美元。
+
+---
+
+### 2026-07-08 14:43:25  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Rallies on Planned BHP Worker Strike — Iron ore futures rose above CNY 740 per ton, extending their rebound from near one-year lows after reports that workers at BHP Group’s Port Hedland iron ore terminal in Western Australia will stage an eight-hour strike on July 16, raising concerns over potential supply disruptions. The industrial action will involve operators and maintenance workers at the world’s largest iron ore export hub, as employees push for an agreement that better reflects their specialist skills, challenging working conditions, and significant personal costs. Port Hedland exported 51 million tons of iron ore in May and a record 575 million tons last year, with China accounting for the bulk of shipments. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to global iron ore supply.
+
+---
+
+### 2026-07-08 14:43:14  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+Iran's foreign ministry said the United States "blatantly violated" the temporary agreement reached between the two sides.
+
+---
+
+### 2026-07-08 14:42:51  #公司
+
+【東風汽車張微：計劃年底推出100輛固態電池示範執行汽車】在今日舉行的第二十一屆上海國際汽車製造技術與裝備及材料展覽會（AMTS 2026）上，東風汽車集團研發總院、先行技術研究院新型電池運營經理張微介紹了公司固態電池落地進展及後續規劃：東風汽車目標今年年底推出100輛固態電池示範執行汽車；2030年左右實現固態電池配套車輛小規模量產；2035年左右達成固態電池大規模量產及普及應用。其表示，東風已於2026年1月完成350Wh/kg固態電池裝車冬測，計劃2026年Q4實現搭載應用。2027年市場目標交付50000臺自研固態電池車型，同年推進快充型固態電池整車落地，啟動350Wh/kg快充型固態電池中試。
+
+---
+
+### 2026-07-08 14:42:43  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active futures contract fell 2.00% intraday, trading at 159,840 yuan/ton.
+
+---
+
+### 2026-07-08 14:42:18  #國際
+
+伊朗外交部發表宣告譴責美國公然違反與華盛頓達成的伊核臨時協議。
+
+---
+
+### 2026-07-08 14:42:10  #焦點 #國際
+
+伊朗：美國應對局勢升級的後果負責。
+
+---
+
+### 2026-07-08 14:42:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Pares Losses at Close — The ASX 200 lost 19 points or 0.2% to finish at 8,785 on Wednesday, down for the third session amid weaker U.S. stock futures following renewed tensions in the Middle East after Washington started a series of strikes against Iran Tuesday in response to attacks against three commercial vessels in the Strait of Hormuz. Nerves also persisted as top trading partner China is set to release key data Thursday, including CPI and PPI figures for June. Still, early losses were trimmed by RBA Assistant Governor Sarah Hunter, who noted economic activity stays resilient despite weaker consumer and business mood after the oil shock. Sectoral pressure was broad, with electronic tech, non-energy minerals, and industrial services dragging. BHP fell 2.3% after workers announced plans to strike on July 16 at its WA iron ore terminal, demanding recognition of specialist skills and costs. Other notable laggards included Evolution Mining (-4.2%), Mineral Resources (-3.4%), and Greatland Resources (-2.8%).
+
+---
+
+### 2026-07-08 14:41:29  #國際
+
+伊朗：美國的行為使停火協議的關鍵部分失效。
+
+---
+
+### 2026-07-08 14:41:25  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+LSEG data showed German 10-year bond yield rose to a four-week high at 3.032%.
+
+---
+
+### 2026-07-08 14:40:15  #資料 #市場 #央行 #國際
+
+【FOMC會議紀要將令市場繼續聚焦通脹 並提振美元】儘管美國6月新增非農就業遠遜預期，但投資者仍不願放棄整體前景長期上行的觀點。美國商品期貨交易委員會的倉位顯示，在資料釋出前，美元多頭頭寸達到十多年來的最高水平，但隨後的美元拋售幅度相對溫和。部分原因是，鑑於整體勞動力市場依然具有韌性且失業率處於低位，美聯儲可能會忽略一份疲軟的非農就業報告。這將使市場關注點繼續集中在通脹上，從而使下週公佈的CPI成為預測政策路徑的關鍵因素。
+
+---
+
+### 2026-07-08 14:39:59  #其他
+
+荷蘭檢察院傳喚塔塔鋼鐵。
+
+---
+
+### 2026-07-08 14:39:50  #其他
+
+美元指數DXY回落至101下方，日內跌0.09%。
+
+---
+
+### 2026-07-08 14:39:46  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+US dollar index DXY fell below 101, down 0.09% intraday.
+
+---
+
+### 2026-07-08 14:39:44  #公司
+
+【澳最大電信商網路故障影響交通和電子支付】澳大利亞電信公司8日發生大規模網路故障，導致不少列車停駛、電子支付無法進行、大量手機通訊受到影響。澳大利亞電信公司是該國最大電信企業，有大約2500萬移動使用者。由於這次故障，維多利亞州地區列車全部暫停執行，導致數千名乘客在高峰時段滯留。新南威爾士州也有部分列車停運。相關運營商建議乘客儘可能推遲出行。故障還導致電子支付平臺癱瘓，許多乘客無法支付計程車費，司機也無法繼續正常工作。（新華社）
+
+---
+
+### 2026-07-08 14:38:34  #其他
+
+【水利部對四川宜賓高縣啟動水利抗震救災排程指揮機制】2026年7月8日6時12分和10時8分，四川省宜賓市高縣連續發生2次5.0級地震，震源深度分別為8千米和6千米。水利部迅即啟動水利抗震救災排程指揮機制，及時組織專題會商，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。（央視新聞）
 
 ---
 
@@ -20407,89 +20545,5 @@ Hong Kong Shares Reverse After Early Gains — The Hang Seng Index fell 0.4%, or
 ### 2026-07-07 12:46:27  #MKT News
 
 【Anhui explores 'fund + technology loan + investment‑guarantee linkage + IP pledge' combined financing tool for tech innovation】At a July 7 press briefing on the Anhui Province Fiscal‑Financial Coordination Implementation Plan, Anhui finance department deputy director Zhang Feng said the plan explores financing-innovation pilots: for technology innovation, a combined "fund + technology loan + investment‑guarantee linkage + intellectual‑property pledge" tool; for major project financing, a "special bond + bank credit + REITs" model; for industry cultivation, an "investment‑loan linkage + guarantee credit enhancement + interest‑subsidy and reward" mechanism; and for consumption, "loan interest subsidies + consumer subsidies + receipt lottery." The plan seeks to build a multi‑product, complementary financing ecosystem.
-
----
-
-### 2026-07-07 12:45:42  #公司
-
-【安徽：在科技創新方面探索打造“基金+科技貸+投擔聯動+智慧財產權質押”組合融資工具】7月7日上午，在《安徽省財政金融協同實施方案》政策解讀新聞釋出會上，安徽省財政廳副廳長張豐表示，《實施方案》就財金協同工具創新進行了探索，主要是三個方面。一是提升現有政策效能。以落實國家財金協同促內需一攬子政策為契機，推動貼息政策與擔保、再貸款工具協同；進一步發揮政府投資基金引導帶動作用；深化專項債自審自發試點，推廣債貸組合模式；推動保險機構建立覆蓋科技創新全鏈條、全週期的科技保險產品和服務體系，深化農業保險+改革；持續提升政府性融資擔保機構實力和資本規模，設立江淮糧倉擔保公司，做強做優農業擔保體系。二是推動工具協調聯動。在科技創新方面，探索打造“基金+科技貸+投擔聯動+智慧財產權質押”組合融資工具；在重大專案投融資方面，探索打造“專項債+信貸+REITs”模式；在產業培育方面，探索建立“投貸聯動+擔保增信+貼息獎補”機制；在促進消費方面，探索建立“貸款貼息+消費補貼+有獎發票”機制。在多個領域，積極構建多品類工具銜接配合的良性互動生態。三是挖潛轉化財金資源。推動政策資源的標準化應用，歸集整合財政獎補、農業保險、政府採購等資源，引導金融機構推廣免申貸、政保貸、政採貸等專屬金融產品；探索將企業研發投入、智慧財產權等技術流要素，轉化為金融機構可識別、可定價、可授信的資金流信用，促進科創價值信用化融資；探索撥改投試點；推進適宜的國有資產資本化運作。下一步，我們將持續深化協同工具創新供給，引導各地、各部門用好用足協同政策工具，放大政策組合效應。
-
----
-
-### 2026-07-07 12:44:57  #公司 #國際
-
-【卡達LNG船駛出霍爾木茲海峽時遇襲 美國和伊朗的停火安排面臨考驗】一艘滿載液化天然氣(LNG)的運輸船在駛出霍爾木茲海峽時，於阿曼海岸附近遭到彈體擊中。這起事件加劇了航運業對該航道安全的擔憂，同時也考驗著美國與伊朗之間旨在制止襲擊事件的協議。據知情人士透露，Al Rekayyat號於週二凌晨遭到襲擊。由於事件敏感，知情人士不願具名。安全諮詢公司EOS Risk Group釋出的警報證實，襲擊發生在阿曼Limah以東約8海里（15公里）處，隨後船上發生火災，並將事件定性為無人機或導彈襲擊。船舶追蹤資料顯示，這艘由卡達國有航運公司Nakilat擁有的船舶事發時似乎未開啟應答器。英國海上貿易行動辦公室此前曾釋出警報，但未披露涉事船隻名稱。卡達能源公司及Nakilat均未回應置評請求。
-
----
-
-### 2026-07-07 12:44:43  #其他
-
-【機構：雲可能仍是中國企業AI最顯著的變現模式】美銀證券預計，雲將繼續是中國企業AI服務“最大、最顯著的變現模式“。該機構分析師在一份研究報告中表示，AI訓練和推理不斷增長的計算需求可能會支撐這一需求。美銀表示，“模型即服務”(Model as a Service)的日益普及也可能有助於提振需求，這是一種基於雲的模式，允許使用者透過API訪問AI模型。他們補充說，與企業相關的需求可能會在短期內支撐整體的AI變現。
-
----
-
-### 2026-07-07 12:44:00  #經濟數據 #美國
-
-【通脹有望降溫？紐約聯儲：美伊戰爭影響開始消退 6月供應鏈壓力緩解！】紐約聯邦儲備銀行週一表示，隨著中東戰爭的影響開始消退，全球供應鏈壓力在6月份有所緩解。據悉，該行的全球供應鏈壓力指數（GSCPI）從5月份向上修正後的1.81降至1.25。這一水平已接近2022年底疫情擾動逐步消退時的讀數，遠低於2021年12月創下的4.44的峰值。
-
----
-
-### 2026-07-07 12:43:51  #Trading Economics #Economy #Netherlands #Inflation Rate #Importance 1
-
-Dutch June Inflation Confirmed at 2.9% — The annual inflation rate in the Netherlands eased to 2.9% in June 2026, confirming preliminary estimates and down from a one-year high of 3.5% in May. The slowdown was largely driven by transport inflation, which eased to 6.9% from 9.9% amid lower motor fuel prices as global oil prices declined. Inflation also moderated for health (0.7% vs. 0.8%), recreation and culture (2.6% vs. 2.8%), and restaurants and hotels (4.2% vs. 6.5%). Meanwhile, prices declined for food and non-alcoholic beverages (-0.5% vs. 0.1%), clothing and footwear (-0.5% vs. 0.4%), and information and communication (-1.4% vs. -0.8%). In contrast, price growth edged up for housing and utilities (3.6% vs. 3.5%) and rebounded for household goods and services (0.3% vs. -0.3%). On a monthly basis, consumer prices fell 0.6%, the first decline since January, following a 0.1% increase in May. Annual HICP inflation, which excludes owner-occupied housing, eased to 2.5% from 3.4% in May.
-
----
-
-### 2026-07-07 12:43:27  #其他
-
-【江蘇釋出強對流黃色預警 】江蘇省氣象臺7日釋出強對流黃色預警：預計今天白天，徐州、宿遷、連雲港、淮安、鹽城、揚州、泰州等地將出現8至10級雷暴大風和30至50毫米/小時的短時強降水。其中，連雲港和鹽城北部地區需特別警惕，可能出現EF0級龍捲風。 據悉，未來三天全省多降水天氣，其中7日白天江淮之間北部和淮北地區有大到暴雨，並伴隨短時強降水、8至11級雷暴大風，局地可能出現冰雹和龍捲風。
-
----
-
-### 2026-07-07 12:42:42  #其他
-
-【生態環境部發布新規 規範工業園區汙水處理標準】生態環境部近日釋出《工業園區汙水集中處理設施水汙染物排放標準制訂技術導則》，為各地工業園區汙水排放標準提供明確技術指引。新規明確地方制定排放標準需堅持分類管理、全面防控、科學可行、依法合規原則。將工業園區分為單一行業型和綜合型兩類，綜合型工業園區可再細分行業類似型、主導型、差異型三個小類。地方根據實際情況和環境管理需要，篩選排放量大、有毒有害水汙染物種類多、對受納水體水生態環境風險高且現行排放標準不適用的一類園區，開展園區排放標準的制訂；行業差異型園區優先考慮制訂“一園一策”管控要求。
-
----
-
-### 2026-07-07 12:41:52  #市場 #國際
-
-【機構：澳大利亞超市的通脹紅利可能受限】Jefferies分析師警告稱，澳大利亞超市可能不會像過去那樣可靠地從通脹中獲益。他們將該投資銀行專有超市調查所顯示的近期包裝商品價格上漲歸因於伊朗衝突，並認為化肥和柴油價格高企將在中期內推動食品價格繼續上漲。他們在一份報告中告訴客戶，超市歷來受益於通脹，但目前政治和媒體的密切關注可能會阻礙其擴大毛利率的能力。調查顯示，與一年前相比，超市打折的商品範圍縮小了，但降價幅度更大了。
-
----
-
-### 2026-07-07 12:41:42  #MKT News #BX.N #Impact bearish
-
-Jefferies cut Blackstone (BX.N) PT to $145 from $152.
-
----
-
-### 2026-07-07 12:41:27  #公司
-
-傑富瑞將黑石集團目標價從152美元下調至145美元。
-
----
-
-### 2026-07-07 12:41:00  #其他
-
-加拿大皇家銀行（RBC）將特斯拉目標股價從475美元上調至500美元。
-
----
-
-### 2026-07-07 12:40:47  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-RBC raised Tesla (TSLA.O) price target to $500 from $475.
-
----
-
-### 2026-07-07 12:40:40  #市場
-
-【光通訊模組製造商中際旭創一度漲3.3% 野村上調目標價】中際旭創週二早盤一度升3.3%，報1,135元，午間收盤上漲1.6%。野村在報告中表示，將中際旭創目標價由1,015元上調至1,325元，市場雖存在零部件供貨緊缺、大型雲AI（人工智慧）客戶重複下單的擔憂，但高階光通訊器件依舊是AI資料中心的關鍵瓶頸。中際旭創今年迄今暴漲83%，同期滬深300指數上揚3.7%。中證5G通訊主題指數早盤收跌1.3%。
-
----
-
-### 2026-07-07 12:40:26  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Climbs for Fifth Straight Day — India’s BSE Sensex edged up about 0.2% to 78,412, marking a fifth consecutive session of gains, as continued foreign fund inflows and upbeat corporate business updates offset caution ahead of the June-quarter earnings season. Sentiment remained supported by sustained foreign portfolio investor inflows, with overseas investors net buyers for a fourth straight session, alongside easing crude oil prices and favourable monsoon progress. Stock-specific moves were in focus following pre-earnings business updates. Titan advanced 3.4% after reporting robust growth in its consumer business, driven by strong jewellery sales, while Jubilant FoodWorks gained 3.2% after posting higher consolidated revenue. On the downside, Trent fell 11.1% and came under pressure after its quarterly revenue growth came in below some market expectations. Other notable gainers were IOL Chemicals (18.9%), RITES (8.3%), and Ramco (6.3%), while the biggest losers included Kalyan (-6.8%), Apollo (-5.0%), and BSE (-3.8%).
 
 ---

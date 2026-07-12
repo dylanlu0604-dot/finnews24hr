@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 00:09:04_
-_本檔包含 3170 則快訊，約 627337 字_
+_更新時間：2026-07-13 01:13:59_
+_本檔包含 3171 則快訊，約 628555 字_
+
+---
+
+### 2026-07-10 16:23:48  #市場
+
+【金風科技今日漲停，3家機構專用席位淨買入3.50億元】金風科技今日漲停，成交額58.10億元，換手率7.96%，盤後龍虎榜資料顯示，深股通專用席位買入5.12億元並賣出8437.52萬元，3家機構專用席位淨買入3.50億元。
+
+---
+
+### 2026-07-10 16:23:28  #公司 #國際
+
+【中東局勢加劇導致霍爾木茲海峽船舶戰爭險費率大幅飆升】受近期美以對伊朗發動襲擊、德黑蘭方面封鎖霍爾木茲海峽等因素影響，中東地區海上航運風險急劇上升，倫敦勞合社等國際主要航運保險市場日前大幅提高了行經該海峽的船舶戰爭險費率。國際主流航運保險經紀公司達信（Marsh）全球海事與貨運負責人馬庫斯·貝克（Marcus Baker）指出，在美以發動襲擊、德黑蘭關閉霍爾木茲海峽後，透過該海峽的船舶險費率已從衝突爆發前的0.25%至0.5%，一度飆升至船舶自身價值的10%。貝克舉例強調，以一艘價值1億美元的油輪計算，單次航程的保費支出就曾高達1000萬美元。儘管目前涵蓋船體衝突損失的“船體戰爭險”費率已高位回落至1%至3%，但保費成本較常態而言依然高企。倫敦保險經紀公司McGill and Partners海事業務負責人大衛·史密斯（David Smith）表示，鑑於本週中東地區再度爆發多輪襲擊，核保商正重新嚴格審查航運價格與個別風險因素，大批既有的戰爭險保單已被迅速取消，並在大幅調高保費後重新簽訂。
+
+---
+
+### 2026-07-10 16:23:26  #公司
+
+【羅牛山：2026年6月生豬銷售收入7828.71萬元，同比降11.19%】羅牛山公告稱，2026年6月銷售生豬8.31萬頭，環比降19.92%，同比增63.04%；銷售收入7828.71萬元，環比降22.88%，同比降11.19%。1 - 6月累計銷售生豬45.62萬頭，同比增43.75%；累計銷售收入5.60億元，同比降7.61%。銷售數量同比增幅大因部分豬場產能增加。生豬價格波動或影響業績，提醒投資者注意風險。
+
+---
+
+### 2026-07-10 16:23:20  #公司
+
+【中晶科技：控股股東部分股份質押及解除質押】中晶科技公告稱，控股股東、實際控制人徐一俊將450萬股（佔其所持股份10.15%，佔總股本2.40%）質押給中國銀河證券長興金陵北路證券營業部，用於置換前期質押融資，質押期從2026年7月8日至2028年7月7日；同時解除696萬股（佔其所持股份15.70%，佔總股本3.71%）質押。截至公告披露日，徐一俊及其一致行動人累計質押783.5萬股，佔其所持股份17.67%，佔總股本4.17%，所質押股份不存在平倉風險。
+
+---
+
+### 2026-07-10 16:23:17  #市場
+
+【露笑科技今日跌停，有3家機構專用席位淨賣出1.23億元】露笑科技今日跌停，成交額29.39億元，換手率17.43%，盤後龍虎榜資料顯示，深股通專用席位買入1.46億元並賣出2.12億元，有3家機構專用席位淨賣出1.23億元。
+
+---
+
+### 2026-07-10 16:23:10  #其他
+
+【天津發布地質災害紅色預警】天津市規劃和自然資源局與天津市氣象局2026年7月10日15時聯合將地質災害氣象風險橙色預警升級為紅色預警：2026年7月10日16時至7月11日16時，受強降雨和前期降雨疊加效應影響，北部山區發生滑坡、崩塌等地質災害的氣象風險很高，請相關部門和人員嚴密防範，請廣大市民注意出行安全。
+
+---
+
+### 2026-07-10 16:23:08  #其他
+
+【北京處於防汛二級應急響應】據北京市氣象臺訊息，受颱風“巴威”遠距離水汽輸送影響，7月10日下午至11日夜間北京市有暴雨，部分地區大暴雨，相對明顯時段為10日下午至夜間和11日傍晚至夜間。目前，北京處於暴雨橙色預警訊號中。（央視新聞）
+
+---
+
+### 2026-07-10 16:22:42  #其他
+
+【長征十號乙運載火箭首飛，所用液態甲烷來自中國石化】7月10日，介面新聞從中國石化新聞辦獲悉，長征十號乙運載火箭在海南商業航天發射場發射升空，成功實現一子級可控回收。其使用的液態甲烷燃料，由中國石化供應的LNG（液化天然氣）資源製備而成，這是中國石化首次將清潔能源應用於航天領域，成功實現LNG資源從交通、工業等傳統領域向航天領域的關鍵跨越，推動了產業鏈向高階延伸。
+
+---
+
+### 2026-07-10 16:22:17  #Trading Economics #Economy #Italy #Industrial Production Mom #Importance 1
+
+Italy Industrial Output Falls 0.3% in May — Italy’s industrial production fell 0.3% month-on-month in May 2026, slightly more than market expectations of a 0.2% decline, and reversing a revised 0.4% increase in the previous month. This marked the first contraction since January, as output declined in capital goods (-0.1% vs 1.0% in April) and intermediate goods (-0.8% vs 0.8%), while the fall in consumer goods deepened (-0.5% vs -0.1%). In contrast, energy production rebounded sharply (4.6% vs -0.2%). On an annual basis, industrial output rose 1.1%, unchanged from the revised April reading. Growth eased for capital goods (5.0% vs. 6.4%) and intermediate goods (0.8% vs. 1.8%), while the decline in consumer goods moderated (-3.2% vs. -4.1%), and energy output returned to growth (1.9% vs. -2.7%). By industry, the strongest growth was recorded in transportation equipment (11.6%), basic pharmaceutical products and pharmaceutical preparations (3.5%), and chemical products (3.3%).
+
+---
+
+### 2026-07-10 16:21:45  #MKT News #CSI300 #Impact mixed #SSE Composite
+
+【Chinese banks' Tier-2 perpetual issuance splits; small banks tap multi-channel recapitalization, push asset-quality upgrades】After a rare zero issuance in Q1, Chinese banks' Tier-2 perpetual bond issuance accelerated sharply in Q2, exceeding CNY1 trillion in aggregate. Issuance has concentrated with large state-owned banks as the dominant issuers while small- and medium-sized banks have slowed issuance amid downward pressure on capital adequacy ratios. Smaller banks are pursuing alternate recapitalization channels—convertible-bond conversions, injections via local government special bonds and other innovative tools are accelerating. Market participants say the issuer split reflects credit stratification and a reworking of regulatory logic, highlighting more granular risk pricing and the urgency for smaller banks to both raise capital and improve asset quality.
+
+---
+
+### 2026-07-10 16:21:42  #公司
+
+【北京文化：預計2026年上半年虧損3300萬-4500萬元，上年同期虧損2.33億元】北京文化公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損3300萬元-4500萬元，上年同期虧損2.33億元，同比減虧；扣除非經常性損益後的淨利潤虧損3500萬元-4700萬元，上年同期虧損2.44億元；基本每股收益虧損0.0461元/股-0.0629元/股，上年同期虧損0.3250元/股。業績變動主要繫上年同期上映電影票房不及預期導致虧損較大，本期同比減虧。
+
+---
+
+### 2026-07-10 16:21:39  #國際
+
+【墨西哥要求調查美執法致墨移民死亡】7月7日，美國移民與海關執法局特工在美國得克薩斯州休斯敦市執法行動中槍殺墨西哥籍男子薩爾加多。這一事件除了在當地引發抗議外，墨西哥政府方面也表達了不滿。7月9日，墨西哥官方表示，將就美國移民與海關執法局行動和拘押致死墨西哥公民相關事件，向美國檢方以及司法部提出要求，呼籲追究相關事件責任人的刑事責任。（CCTV國際時訊）
+
+---
+
+### 2026-07-10 16:21:34  #國際
+
+【俄羅斯聯邦航空局局長：俄羅斯航空客運量預計不會出現明顯下滑】俄羅斯聯邦航空局局長德米特里·亞德羅夫表示，各機場的航空燃油供應正由交通運輸部和能源部嚴格監管，航班時刻表也得以正常執行。 今年，儘管多項因素正在影響這一指標，但俄羅斯聯邦航空局並未預計航空客運量將較2025年出現明顯下滑。
+
+---
+
+### 2026-07-10 16:21:19  #公司
+
+【三峽旅遊：登出1892.19萬股回購股份 總股本減少】三峽旅遊公告稱，截至2026年7月10日，公司已辦理完畢1892.19萬股回購股份的登出手續，佔登出前總股本的2.61%。登出後，公司總股本由72460.14萬股減至70567.95萬股。公司實控人宜昌市國資委間接持股比例由34.27%被動增至35.19%，未導致其他持股5%以上股東持股比例觸及或跨越關鍵整數倍。此次登出不會對公司產生重大不利影響，後續將辦理工商變更登記及章程備案。
+
+---
+
+### 2026-07-10 16:21:08  #公司
+
+【愛爾眼科：2025年度擬派發現金紅利9.27億元】愛爾眼科公告稱，2025年年度利潤分配方案已獲股東會透過。將以92.68億股為基數，向全體股東每10股派1元（含稅），合計派發現金9.27億元，不送紅股、不轉增股本。股權登記日為2026年7月16日，除權除息日為7月17日。愛爾醫療投資集團有限公司等3家股東的現金紅利由公司自行派發，其餘A股股東紅利將於7月17日透過託管機構劃入賬戶。
+
+---
+
+### 2026-07-10 16:20:35  #市場 #國際
+
+【部分美國晶片製造商股價在盤前交易中下跌】部分美國晶片製造商股價在盤前交易中下跌。美光科技股價下跌2.8%，閃迪股價下跌3.9%，西部資料股價下跌2.3%。英特爾下跌3.2%，超威半導體下跌1.1%，英偉達下跌0.4%，博通下跌0.8%。
+
+---
+
+### 2026-07-10 16:20:13  #公司
+
+【光輪智慧與山東發展科創達成戰略合作 將推進山東具身智慧訓練場建設】據光輪智慧訊息，7月9日，圍繞山東具身智慧與機器人產業生態建設，光輪智慧（北京）科技股份有限公司（簡稱“光輪智慧”）與山東發展科創投資有限公司（簡稱“山東發展科創”）簽署戰略合作協議，雙方將共同推進山東具身智慧訓練場建設。
+
+---
+
+### 2026-07-10 16:19:25  #市場
+
+【銀行發債分化，中小銀行多渠道“補血”“提質”】繼一季度罕見零發行後，二季度以來，銀行二永債發行大幅提速，合計發行規模超萬億元。同時，市場分化明顯，國有大行為絕對發行主力，中小銀行發行節奏放緩。銀行密集發行二永債的背後，是資本充足率下行的壓力。雖然中小銀行債券融資節奏放緩，但也積極探索多元化的“補血”渠道，可轉債轉股、地方政府專項債注資等創新工具正在加速落地。業內人士認為，二永債發行主體分化的本質是市場信用分層與監管邏輯重構的雙重結果，這既反映了市場風險定價機制成熟，也凸顯了中小銀行轉型的緊迫性。中小銀行要想增強可持續發展能力，除了增資“補血”，還應注重“提質”。(中國基金報)
+
+---
+
+### 2026-07-10 16:18:25  #公司
+
+【貴廣網路：提名龔媛媛為非獨立董事並聘任其為總經理】貴廣網路公告稱，公司第六屆董事會2026年第三次臨時會議審議透過多項議案。同意提名龔媛媛為第六屆董事會非獨立董事候選人，任期自股東會審議透過至第六屆董事會屆滿；聘任龔媛媛為公司總經理，任期與第六屆董事會一致。此外，公司定於2026年7月27日召開2026年第三次臨時股東會，股權登記日為2026年7月20日。
+
+---
+
+### 2026-07-10 16:18:21  #Trading Economics #Economy #Bulgaria #Balance of Trade #Importance 1
+
+Bulgaria Trade Deficit Widens in May — Bulgaria’s trade deficit widened to EUR 957.9 million in May 2026, compared with EUR 532.7 million in the same month a year earlier. Imports climbed 17.4% year-on-year to EUR 4,675.9 million, reflecting stronger demand for goods from both EU (+6.1%) and non-EU (+34.6%) countries. Purchases of crude materials recorded the sharpest increase (+58.8%), followed by mineral fuels and related products (+39.6%). Exports also increased, rising 7.8% to EUR 3,718.0 million, as shipments to the EU (+11.9%) and non-EU markets (+0.7%) expanded. The strongest export growth was seen in fats, oils, and waxes of animal and vegetable origin (+50.1%), while exports of mineral fuels and related products rose 52.6%. During the January-May 2026 period, the country posted a cumulative trade deficit of EUR 5,402.1 million, compared with EUR 3,935.9 million in the same period a year earlier, with exports rose 7.4%, while imports increased 12.8%.
 
 ---
 
@@ -19016,119 +19136,5 @@ NZX 50 Ends at Record High, Posts 2nd Straight Weekly Gain — The NZX 50 rose 1
 ### 2026-07-09 14:45:49  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
 
 Hong Kong Stocks Lose Momentum — The Hang Seng Index fell 0.7%, or 169 points, to close at 24,030 on Thursday, reversing early gains as weakness and volatility in regional technology shares weighed on market sentiment. Knowledge Atlas Technology, also known as Zhipu AI, surged more than 11.3% as volatility surrounding its recent IPO share lock-up expiration eased, while rival MiniMax slumped nearly 18% during its first major lock-up expiry. Meanwhile, Smart-Core Holdings jumped more than 23%, bucking the broader market decline. The weakness in Hong Kong came despite rebounds elsewhere in Asia, with renewed US-Iran tensions pushing oil prices higher and adding pressure to regional risk sentiment. Notable laggards were Tencent (-1.9%), Xiaomi (-1.2%), Meituan (-3.0%), Kuaishou (4.3%), and Pop Mart International (-2.5%). In contrast, Semiconductor Manufacturing International Corporation surged 10.2%.
-
----
-
-### 2026-07-09 14:40:14  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Hold Advance — UK natural gas prices dropped below 115 pence a therm on Thursday but held on to most of the recent gains, as the latest escalation in US-Iran tensions heightened concerns over fresh disruptions to LNG supplies from the Persian Gulf. US forces carried out additional strikes on Iran on Wednesday night, shortly after President Trump declared the end of the eight-week ceasefire. In response, Tehran launched a large-scale wave of missile and drone strikes against American bases in Kuwait, Qatar, and Bahrain. The flare-up in tensions followed Iranian attacks on vessels in the Strait of Hormuz, which prompted the US to reimpose sanctions on Iranian oil sales. Any renewed disruption to energy flows through the strait, a key transit route for roughly one-fifth of global oil and LNG trade, could make it more difficult for Europe to replenish gas storage facilities to adequate levels ahead of the heating season.
-
----
-
-### 2026-07-09 14:32:57  #MKT News #Important #Market Themes #Chip Wars #03986.HK #Impact bullish #06809.HK #06166.HK
-
-HK-listed chip and compute-capacity stocks rallied: 03986.HK up >20%, 06809.HK up 17.5%, 06166.HK up 12.8%, 00981.HK up >12%.
-
----
-
-### 2026-07-09 14:32:50  #市場
-
-港股晶片股、算力股走強，兆易創新(03986.HK)漲超20%，瀾起科技(06809.HK)漲17.5%，劍橋科技(06166.HK)漲12.8%，中芯國際(00981.HK)漲超12%。
-
----
-
-### 2026-07-09 14:32:24  #公司
-
-迅銷集團預計全年營業收入為7300億日元，去年同期為7000億日元。
-
----
-
-### 2026-07-09 14:32:19  #MKT News #Market Regions #Greater China
-
-【July 9: Agricultural Products Wholesale Price 200 Index up 0.03 points】Ministry of Agriculture and Rural Affairs monitoring: July 9 Agricultural Products Wholesale Price 200 Index 110.38, up 0.03 points from yesterday; basket-of-staple-produce wholesale price index 109.99, up 0.03 points. As of 14:00 Beijing time, national wholesale average prices: pork 15.51 yuan/kg (+0.5% vs yesterday); beef 66.31 yuan/kg (+0.8%); mutton 64.19 yuan/kg (-0.2%); eggs 9.61 yuan/kg (+1.3%); dressed chicken 17.31 yuan/kg (-0.2%).
-
----
-
-### 2026-07-09 14:32:18  #MKT News #Commodities #Precious Metals
-
-Spot silver traded above $59/oz, up 1.17% on the day.
-
----
-
-### 2026-07-09 14:32:16  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【Japan, South Korea stocks rise on Thursday】Japan's Nikkei 225 closed up 924.80 points (+1.38%) at 67,743.85 on July 9. South Korea's KOSPI closed up 36.32 points (+0.50%) at 7,283.11 on July 9, after three consecutive sessions of declines.
-
----
-
-### 2026-07-09 14:32:13  #市場 #國際
-
-【日韓股市週四收漲】日經225指數7月9日（週四）收盤上漲924.80點，漲幅1.38%，報67743.85點。韓國KOSPI指數7月9日（週四）收盤上漲36.32點，漲幅0.5%，報7283.11點，此前該指數連續三個交易日錄得收跌。
-
----
-
-### 2026-07-09 14:31:50  #國際
-
-【美伊衝突再起 聯合國秘書長呼籲降級緊張局勢】聯合國秘書長古特雷斯的發言人迪雅裡克8日表示，古特雷斯對美國和伊朗重啟戰端表示震驚、呼籲降級緊張局勢。迪雅裡克在當天的例行記者吹風會上說，美伊之間已取得的外交成果正面臨脫軌風險，雙方重回全面敵對狀態將給地區人民、國際和平與安全以及全球經濟帶來災難性後果。迪雅裡克說，古特雷斯敦促各方保持最大限度剋制，避免採取任何進一步升級緊張局勢的行動，並立即採取局勢降溫措施。同時，古特雷斯提醒各方有義務全面遵守國際法，敦促美伊緊急恢復談判，透過外交方式解決問題。（新華社）
-
----
-
-### 2026-07-09 14:31:30  #其他
-
-【7月9日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，7月9日“農產品批發價格200指數”為110.38，比昨天上升0.03個點，“菜籃子”產品批發價格指數為109.99，比昨天上升0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.51元/公斤，比昨天上升0.5%；牛肉66.31元/公斤，比昨天上升0.8%；羊肉64.19元/公斤，比昨天下降0.2%；雞蛋9.61元/公斤，比昨天上升1.3%；白條雞17.31元/公斤，比昨天下降0.2%。重點監測的28種蔬菜平均價格為4.16元/公斤，比昨天上升1.2%；重點監測的6種水果平均價格為7.18元/公斤，與昨天持平。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.72元/公斤，比昨天上升2.6%；白鰱魚10.58元/公斤，比昨天上升3.5%；大帶魚41.52元/公斤，比昨天下降2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、韭菜、油菜、胡蘿蔔和白鰱魚，幅度分別為4.6%、3.8%、3.6%、3.6%和3.5%；價格降幅前五名的是大帶魚、巨峰葡萄、大黃花魚、洋白菜和菜花，幅度分別為2.5%、1.6%、1.5%、1.1%和1.0%。
-
----
-
-### 2026-07-09 14:31:25  #市場 #焦點
-
-南向資金淨買入額達120億港元。
-
----
-
-### 2026-07-09 14:31:03  #公司
-
-【中國移動北京公司原董事、副總經理劉南接受審查調查】中央紀委國家監委網站7月9日通報，據中央紀委國家監委駐中國移動紀檢監察組、北京市紀委監委訊息：中國行動通訊集團北京有限公司原黨委委員、董事、副總經理劉南涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國移動紀檢監察組紀律審查和北京市東城區監察委員會監察調查。
-
----
-
-### 2026-07-09 14:30:35  #國際
-
-【特朗普當面問：你會去莫斯科嗎 澤連斯基：那邊飛了好多烏無人機 對我來說太危險了 全場一片鬨笑】7月8日，美國總統特朗普和烏克蘭總統澤連斯基在土耳其出席北約峰會時舉行了會晤，雙方談及俄烏談判問題。美國總統特朗普問澤連斯基：“你會去莫斯科（談判）嗎？”澤連斯基回答說：“這很難，因為那裡有很多烏克蘭的無人機，對我來說太危險了。”他的回答令在場人員發笑。（參考訊息）
-
----
-
-### 2026-07-09 14:30:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-HSBC forecasts gold at $5,025 per ounce at end-2027.
-
----
-
-### 2026-07-09 14:30:04  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 1.68% Higher — The Nikkei 225 Index went up by 1126 points or 1.68 percent on Thursday to close at 67945 points. The rise was led by Advantest (6.06%), Tokyo Electron (5.33%) and Screen Holdings (5.15%).
-
----
-
-### 2026-07-09 14:29:59  #MKT News #Important
-
-HSBC cut its average gold forecasts to $4,560/oz for 2026 and $4,925/oz for 2027, down from prior forecasts of $4,864/oz and $5,000/oz.
-
----
-
-### 2026-07-09 14:29:58  #其他
-
-【算力租賃概念震盪回升 宏景科技漲超10%】午後算力租賃概念震盪回升，宏景科技漲超10%，軟通動力、利通電子、東陽光、億田智慧、優刻得跟漲。訊息面上，根據OpenRouter最新資料測算，6月29日至7月5日，全球AI大模型總呼叫量為46.7萬億詞元。其中，上榜的AI大模型中，中國AI大模型周呼叫量達23.45萬億詞元，環比增長15.01%，連續六週實現增長。
-
----
-
-### 2026-07-09 14:29:36  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
-
-Romania GDP Contracts for First Time Since 2020 — The Romanian economy contracted 1.2% year-on-year in the first quarter of 2026, matching second estimates and reversing from a 0.2% expansion in the previous three-month period. This marked the first contraction since the fourth quarter of 2020, highlighting a sharp loss of momentum at the start of the year. Household spending declined 1.0%, while government spending (12.9%), gross fixed capital formation (2.2%), and net external demand contributed positively, as exports rose 1.3% and imports edged up 0.5%. On the production side, output fell mainly in mining and quarrying (-1.3%), wholesale and retail trade (-3.2%), information and communication (-4.1%), and professional, scientific and technical activities (-3.8%). On a seasonally adjusted quarterly basis, GDP was unchanged after contracting 1.9% in the preceding period.
-
----
-
-### 2026-07-09 14:29:34  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-HSBC forecasts gold to trade between $3,800 and $4,700 per ounce for the remainder of 2026, with a year-end target of $4,750/oz.
 
 ---

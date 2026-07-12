@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-13 00:09:04_
-_本檔包含 3677 則快訊，約 628039 字_
+_更新時間：2026-07-13 01:13:59_
+_本檔包含 3673 則快訊，約 628230 字_
+
+---
+
+### 2026-07-09 14:40:14  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Hold Advance — UK natural gas prices dropped below 115 pence a therm on Thursday but held on to most of the recent gains, as the latest escalation in US-Iran tensions heightened concerns over fresh disruptions to LNG supplies from the Persian Gulf. US forces carried out additional strikes on Iran on Wednesday night, shortly after President Trump declared the end of the eight-week ceasefire. In response, Tehran launched a large-scale wave of missile and drone strikes against American bases in Kuwait, Qatar, and Bahrain. The flare-up in tensions followed Iranian attacks on vessels in the Strait of Hormuz, which prompted the US to reimpose sanctions on Iranian oil sales. Any renewed disruption to energy flows through the strait, a key transit route for roughly one-fifth of global oil and LNG trade, could make it more difficult for Europe to replenish gas storage facilities to adequate levels ahead of the heating season.
+
+---
+
+### 2026-07-09 14:32:57  #MKT News #Important #Market Themes #Chip Wars #03986.HK #Impact bullish #06809.HK #06166.HK
+
+HK-listed chip and compute-capacity stocks rallied: 03986.HK up >20%, 06809.HK up 17.5%, 06166.HK up 12.8%, 00981.HK up >12%.
+
+---
+
+### 2026-07-09 14:32:50  #市場
+
+港股晶片股、算力股走強，兆易創新(03986.HK)漲超20%，瀾起科技(06809.HK)漲17.5%，劍橋科技(06166.HK)漲12.8%，中芯國際(00981.HK)漲超12%。
+
+---
+
+### 2026-07-09 14:32:24  #公司
+
+迅銷集團預計全年營業收入為7300億日元，去年同期為7000億日元。
+
+---
+
+### 2026-07-09 14:32:19  #MKT News #Market Regions #Greater China
+
+【July 9: Agricultural Products Wholesale Price 200 Index up 0.03 points】Ministry of Agriculture and Rural Affairs monitoring: July 9 Agricultural Products Wholesale Price 200 Index 110.38, up 0.03 points from yesterday; basket-of-staple-produce wholesale price index 109.99, up 0.03 points. As of 14:00 Beijing time, national wholesale average prices: pork 15.51 yuan/kg (+0.5% vs yesterday); beef 66.31 yuan/kg (+0.8%); mutton 64.19 yuan/kg (-0.2%); eggs 9.61 yuan/kg (+1.3%); dressed chicken 17.31 yuan/kg (-0.2%).
+
+---
+
+### 2026-07-09 14:32:18  #MKT News #Commodities #Precious Metals
+
+Spot silver traded above $59/oz, up 1.17% on the day.
+
+---
+
+### 2026-07-09 14:32:16  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japan, South Korea stocks rise on Thursday】Japan's Nikkei 225 closed up 924.80 points (+1.38%) at 67,743.85 on July 9. South Korea's KOSPI closed up 36.32 points (+0.50%) at 7,283.11 on July 9, after three consecutive sessions of declines.
+
+---
+
+### 2026-07-09 14:32:13  #市場 #國際
+
+【日韓股市週四收漲】日經225指數7月9日（週四）收盤上漲924.80點，漲幅1.38%，報67743.85點。韓國KOSPI指數7月9日（週四）收盤上漲36.32點，漲幅0.5%，報7283.11點，此前該指數連續三個交易日錄得收跌。
+
+---
+
+### 2026-07-09 14:31:50  #國際
+
+【美伊衝突再起 聯合國秘書長呼籲降級緊張局勢】聯合國秘書長古特雷斯的發言人迪雅裡克8日表示，古特雷斯對美國和伊朗重啟戰端表示震驚、呼籲降級緊張局勢。迪雅裡克在當天的例行記者吹風會上說，美伊之間已取得的外交成果正面臨脫軌風險，雙方重回全面敵對狀態將給地區人民、國際和平與安全以及全球經濟帶來災難性後果。迪雅裡克說，古特雷斯敦促各方保持最大限度剋制，避免採取任何進一步升級緊張局勢的行動，並立即採取局勢降溫措施。同時，古特雷斯提醒各方有義務全面遵守國際法，敦促美伊緊急恢復談判，透過外交方式解決問題。（新華社）
+
+---
+
+### 2026-07-09 14:31:30  #其他
+
+【7月9日：“農產品批發價格200指數”比昨天上升0.03個點】據農業農村部監測，7月9日“農產品批發價格200指數”為110.38，比昨天上升0.03個點，“菜籃子”產品批發價格指數為109.99，比昨天上升0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.51元/公斤，比昨天上升0.5%；牛肉66.31元/公斤，比昨天上升0.8%；羊肉64.19元/公斤，比昨天下降0.2%；雞蛋9.61元/公斤，比昨天上升1.3%；白條雞17.31元/公斤，比昨天下降0.2%。重點監測的28種蔬菜平均價格為4.16元/公斤，比昨天上升1.2%；重點監測的6種水果平均價格為7.18元/公斤，與昨天持平。鯽魚20.44元/公斤，比昨天上升0.5%；鯉魚14.72元/公斤，比昨天上升2.6%；白鰱魚10.58元/公斤，比昨天上升3.5%；大帶魚41.52元/公斤，比昨天下降2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白蘿蔔、韭菜、油菜、胡蘿蔔和白鰱魚，幅度分別為4.6%、3.8%、3.6%、3.6%和3.5%；價格降幅前五名的是大帶魚、巨峰葡萄、大黃花魚、洋白菜和菜花，幅度分別為2.5%、1.6%、1.5%、1.1%和1.0%。
+
+---
+
+### 2026-07-09 14:31:25  #市場 #焦點
+
+南向資金淨買入額達120億港元。
+
+---
+
+### 2026-07-09 14:31:03  #公司
+
+【中國移動北京公司原董事、副總經理劉南接受審查調查】中央紀委國家監委網站7月9日通報，據中央紀委國家監委駐中國移動紀檢監察組、北京市紀委監委訊息：中國行動通訊集團北京有限公司原黨委委員、董事、副總經理劉南涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國移動紀檢監察組紀律審查和北京市東城區監察委員會監察調查。
+
+---
+
+### 2026-07-09 14:30:35  #國際
+
+【特朗普當面問：你會去莫斯科嗎 澤連斯基：那邊飛了好多烏無人機 對我來說太危險了 全場一片鬨笑】7月8日，美國總統特朗普和烏克蘭總統澤連斯基在土耳其出席北約峰會時舉行了會晤，雙方談及俄烏談判問題。美國總統特朗普問澤連斯基：“你會去莫斯科（談判）嗎？”澤連斯基回答說：“這很難，因為那裡有很多烏克蘭的無人機，對我來說太危險了。”他的回答令在場人員發笑。（參考訊息）
+
+---
+
+### 2026-07-09 14:30:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+HSBC forecasts gold at $5,025 per ounce at end-2027.
+
+---
+
+### 2026-07-09 14:30:04  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 1.68% Higher — The Nikkei 225 Index went up by 1126 points or 1.68 percent on Thursday to close at 67945 points. The rise was led by Advantest (6.06%), Tokyo Electron (5.33%) and Screen Holdings (5.15%).
+
+---
+
+### 2026-07-09 14:29:59  #MKT News #Important
+
+HSBC cut its average gold forecasts to $4,560/oz for 2026 and $4,925/oz for 2027, down from prior forecasts of $4,864/oz and $5,000/oz.
+
+---
+
+### 2026-07-09 14:29:58  #其他
+
+【算力租賃概念震盪回升 宏景科技漲超10%】午後算力租賃概念震盪回升，宏景科技漲超10%，軟通動力、利通電子、東陽光、億田智慧、優刻得跟漲。訊息面上，根據OpenRouter最新資料測算，6月29日至7月5日，全球AI大模型總呼叫量為46.7萬億詞元。其中，上榜的AI大模型中，中國AI大模型周呼叫量達23.45萬億詞元，環比增長15.01%，連續六週實現增長。
+
+---
+
+### 2026-07-09 14:29:36  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
+
+Romania GDP Contracts for First Time Since 2020 — The Romanian economy contracted 1.2% year-on-year in the first quarter of 2026, matching second estimates and reversing from a 0.2% expansion in the previous three-month period. This marked the first contraction since the fourth quarter of 2020, highlighting a sharp loss of momentum at the start of the year. Household spending declined 1.0%, while government spending (12.9%), gross fixed capital formation (2.2%), and net external demand contributed positively, as exports rose 1.3% and imports edged up 0.5%. On the production side, output fell mainly in mining and quarrying (-1.3%), wholesale and retail trade (-3.2%), information and communication (-4.1%), and professional, scientific and technical activities (-3.8%). On a seasonally adjusted quarterly basis, GDP was unchanged after contracting 1.9% in the preceding period.
+
+---
+
+### 2026-07-09 14:29:34  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+HSBC forecasts gold to trade between $3,800 and $4,700 per ounce for the remainder of 2026, with a year-end target of $4,750/oz.
 
 ---
 
@@ -21998,143 +22112,5 @@ Zhonggong Education shares closed at the daily down-limit late in the session, w
 ### 2026-07-08 14:46:42  #MKT News
 
 Iran's Foreign Ministry said the armed forces will, as before, continue to defend the country's territorial integrity, sovereignty and national security and repel aggression.
-
----
-
-### 2026-07-08 14:46:25  #市場 #國際
-
-【中國部分AI大模型比美國便宜90%】據美國CNBC網站7日報道，受美國頭部AI廠商模型定價持續上漲影響，中國AI大模型憑藉價效比優勢，在美國企業端的應用規模正快速擴大。業內人士指出，目前中國部分頭部開源及開放權重模型的效能與OpenAI、Anthropic等美國頂尖前沿模型的技術差距約6至9個月，而定價卻低60%至90%，並且可覆蓋絕大多數常規AI工作任務，因此深受美國企業的青睞。 據AI模型聚合平臺OpenRouter統計，自今年2月8日起，美國企業呼叫中國AI模型的詞元佔比每週均超過30%，最高時已經達到46%；而此前12個月該佔比均值為11%。業內另一統計資料顯示，智譜最新發布的大模型GLM 5.2上線首周，日均詞元呼叫量就增長了27倍、客戶數增長80倍，是2026年在該平臺落地速度最快的模型；美國AI初創企業Lindy將所有AI業務切換至DeepSeek模型後成本大幅下降，預計數月內可節省數百萬美元。（央視財經）
-
----
-
-### 2026-07-08 14:46:08  #MKT News
-
-Iran's foreign ministry said all states, especially neighbors on the Persian Gulf's southern shore, have an international-law obligation to prevent aggressors from using their territory or facilities to launch aggression against Iran, and warned that any assistance enabling such actions would constitute complicity.
-
----
-
-### 2026-07-08 14:45:37  #MKT News
-
-Iran's foreign ministry said the United States bears responsibility for the dangerous consequences of this escalation, calling the U.S. regime treacherous.
-
----
-
-### 2026-07-08 14:45:32  #焦點 #國際
-
-伊朗外交部再次警告地區國家，不得允許美國利用本國領土對伊朗發動打擊。
-
----
-
-### 2026-07-08 14:45:18  #其他
-
-AI晶片初創企業Sambanova完成融資，估值達110億美元。
-
----
-
-### 2026-07-08 14:45:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry said Iran's arrangements in the Strait of Hormuz have been violated and that Israel's continued strikes in Lebanon are rendering the temporary agreement ineffective.
-
----
-
-### 2026-07-08 14:44:26  #國際
-
-伊朗外交部在一份宣告中表示，他國違反伊朗在霍爾木茲海峽的相關安排，加之以色列持續對黎巴嫩發動襲擊，正導致伊核臨時協議失效。
-
----
-
-### 2026-07-08 14:43:56  #公司
-
-【Piper Sandler：甲骨文雲業務2027財年有望超預期】投行Piper Sandler釋出報告稱，甲骨文雲基礎設施(OCI)業務在2027財年的收入有望超越當前市場預期，主要得益於資本開支加速轉化為實際營收。分析師認為，該公司大規模資本性支出(CapEx)正逐步轉化為實際產能與收入，這一轉化效率可能被投資者低估。Piper Sandler維持對甲骨文的“超配”評級，目標價定為225美元。
-
----
-
-### 2026-07-08 14:43:25  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Rallies on Planned BHP Worker Strike — Iron ore futures rose above CNY 740 per ton, extending their rebound from near one-year lows after reports that workers at BHP Group’s Port Hedland iron ore terminal in Western Australia will stage an eight-hour strike on July 16, raising concerns over potential supply disruptions. The industrial action will involve operators and maintenance workers at the world’s largest iron ore export hub, as employees push for an agreement that better reflects their specialist skills, challenging working conditions, and significant personal costs. Port Hedland exported 51 million tons of iron ore in May and a record 575 million tons last year, with China accounting for the bulk of shipments. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to global iron ore supply.
-
----
-
-### 2026-07-08 14:43:14  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Iran's foreign ministry said the United States "blatantly violated" the temporary agreement reached between the two sides.
-
----
-
-### 2026-07-08 14:42:51  #公司
-
-【東風汽車張微：計劃年底推出100輛固態電池示範執行汽車】在今日舉行的第二十一屆上海國際汽車製造技術與裝備及材料展覽會（AMTS 2026）上，東風汽車集團研發總院、先行技術研究院新型電池運營經理張微介紹了公司固態電池落地進展及後續規劃：東風汽車目標今年年底推出100輛固態電池示範執行汽車；2030年左右實現固態電池配套車輛小規模量產；2035年左右達成固態電池大規模量產及普及應用。其表示，東風已於2026年1月完成350Wh/kg固態電池裝車冬測，計劃2026年Q4實現搭載應用。2027年市場目標交付50000臺自研固態電池車型，同年推進快充型固態電池整車落地，啟動350Wh/kg快充型固態電池中試。
-
----
-
-### 2026-07-08 14:42:43  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate most-active futures contract fell 2.00% intraday, trading at 159,840 yuan/ton.
-
----
-
-### 2026-07-08 14:42:18  #國際
-
-伊朗外交部發表宣告譴責美國公然違反與華盛頓達成的伊核臨時協議。
-
----
-
-### 2026-07-08 14:42:10  #焦點 #國際
-
-伊朗：美國應對局勢升級的後果負責。
-
----
-
-### 2026-07-08 14:42:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Pares Losses at Close — The ASX 200 lost 19 points or 0.2% to finish at 8,785 on Wednesday, down for the third session amid weaker U.S. stock futures following renewed tensions in the Middle East after Washington started a series of strikes against Iran Tuesday in response to attacks against three commercial vessels in the Strait of Hormuz. Nerves also persisted as top trading partner China is set to release key data Thursday, including CPI and PPI figures for June. Still, early losses were trimmed by RBA Assistant Governor Sarah Hunter, who noted economic activity stays resilient despite weaker consumer and business mood after the oil shock. Sectoral pressure was broad, with electronic tech, non-energy minerals, and industrial services dragging. BHP fell 2.3% after workers announced plans to strike on July 16 at its WA iron ore terminal, demanding recognition of specialist skills and costs. Other notable laggards included Evolution Mining (-4.2%), Mineral Resources (-3.4%), and Greatland Resources (-2.8%).
-
----
-
-### 2026-07-08 14:41:29  #國際
-
-伊朗：美國的行為使停火協議的關鍵部分失效。
-
----
-
-### 2026-07-08 14:41:25  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-LSEG data showed German 10-year bond yield rose to a four-week high at 3.032%.
-
----
-
-### 2026-07-08 14:40:15  #資料 #市場 #央行 #國際
-
-【FOMC會議紀要將令市場繼續聚焦通脹 並提振美元】儘管美國6月新增非農就業遠遜預期，但投資者仍不願放棄整體前景長期上行的觀點。美國商品期貨交易委員會的倉位顯示，在資料釋出前，美元多頭頭寸達到十多年來的最高水平，但隨後的美元拋售幅度相對溫和。部分原因是，鑑於整體勞動力市場依然具有韌性且失業率處於低位，美聯儲可能會忽略一份疲軟的非農就業報告。這將使市場關注點繼續集中在通脹上，從而使下週公佈的CPI成為預測政策路徑的關鍵因素。
-
----
-
-### 2026-07-08 14:39:59  #其他
-
-荷蘭檢察院傳喚塔塔鋼鐵。
-
----
-
-### 2026-07-08 14:39:50  #其他
-
-美元指數DXY回落至101下方，日內跌0.09%。
-
----
-
-### 2026-07-08 14:39:46  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-US dollar index DXY fell below 101, down 0.09% intraday.
-
----
-
-### 2026-07-08 14:39:44  #公司
-
-【澳最大電信商網路故障影響交通和電子支付】澳大利亞電信公司8日發生大規模網路故障，導致不少列車停駛、電子支付無法進行、大量手機通訊受到影響。澳大利亞電信公司是該國最大電信企業，有大約2500萬移動使用者。由於這次故障，維多利亞州地區列車全部暫停執行，導致數千名乘客在高峰時段滯留。新南威爾士州也有部分列車停運。相關運營商建議乘客儘可能推遲出行。故障還導致電子支付平臺癱瘓，許多乘客無法支付計程車費，司機也無法繼續正常工作。（新華社）
-
----
-
-### 2026-07-08 14:38:34  #其他
-
-【水利部對四川宜賓高縣啟動水利抗震救災排程指揮機制】2026年7月8日6時12分和10時8分，四川省宜賓市高縣連續發生2次5.0級地震，震源深度分別為8千米和6千米。水利部迅即啟動水利抗震救災排程指揮機制，及時組織專題會商，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。（央視新聞）
 
 ---

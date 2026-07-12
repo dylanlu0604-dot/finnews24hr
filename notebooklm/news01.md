@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-13 00:09:04_
-_本檔包含 3153 則快訊，約 628808 字_
+_更新時間：2026-07-13 01:13:59_
+_本檔包含 3173 則快訊，約 628449 字_
+
+---
+
+### 2026-07-13 01:13:00  #其他
+
+市場資訊：科威特一處美軍基地發生爆炸。
+
+---
+
+### 2026-07-13 01:12:40  #國際
+
+受戰事損毀影響，伊朗電網供電容量減少4200兆瓦。
+
+---
+
+### 2026-07-13 01:09:22  #MKT News
+
+【Kuwait reports border posts, offshore platform damaged; Iran claims strikes on US systems in Kuwait】On the evening of the 12th, Kuwait's defense ministry reported three land border posts in northern Kuwait were attacked, with some facilities damaged. A drilling platform operated by a Kuwaiti state oil company was struck by drones, injuring one worker and sustaining damage; the injured is receiving medical treatment. The Kuwaiti military statement made no mention of US bases or facilities. Iran's military public relations arm said earlier it deployed attack drones against US Patriot air-defence systems, an ammunition depot and a radar site in Kuwait, a claim not reflected in the Kuwaiti statement.
+
+---
+
+### 2026-07-13 01:08:40  #MKT News
+
+CENC measured a magnitude-3.8 earthquake at 01:03 on July 13 in Xiaojin County, Aba Prefecture, Sichuan; focal depth 9 km.
+
+---
+
+### 2026-07-13 01:08:08  #其他
+
+中國地震臺網正式測定：07月13日01時03分在四川阿壩州小金縣（北緯31.51度，東經102.42度）發生3.8級地震，震源深度9千米。
+
+---
+
+### 2026-07-13 01:07:22  #國際
+
+【科威特美軍基地遭襲倖存者控訴軍方決策失職】六名在科威特遭遇伊朗無人機襲擊後倖存的美軍士兵表示，軍方高層無視多次預警，該基地防禦薄弱，極易成為襲擊目標。他們指控高階指揮官將部隊部署至缺乏完善反無人機防禦設施的危險區域；襲擊發生後，指揮官非但未組織救援，反而撤離建築；事後傷員轉運救治工作也處置失當。此次襲擊造成六名美軍士兵遇難，三十餘人受傷。一份內部調查報告未認定相關人員責任，也未提出任何懲處建議，令多名倖存士兵倍感失望，擔憂同類失誤或將重演。
+
+---
+
+### 2026-07-13 01:05:54  #其他
+
+Claude：將把Claude Fable 5在所有付費套餐中的開放使用期限延長至7月19日，同時繼續將Claude Code 的每週使用額度提高50%，這一政策也將持續至7月19日。
+
+---
+
+### 2026-07-13 01:05:29  #國際
+
+聯合國秘書長古特雷斯敦促美國與伊朗停止海灣地區再度升級的軍事行動，並警告稱，一旦爆發全面衝突，將給該地區、全球安全與經濟帶來“災難性後果”。
+
+---
+
+### 2026-07-13 01:04:52  #其他
+
+中國地震臺網自動測定：07月13日01時03分在四川阿壩州小金縣附近（北緯31.50度，東經102.42度）發生3.8級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-13 01:04:06  #MKT News
+
+Claude will extend open access for Claude Fable 5 across all paid plans until July 19 and maintain a 50% increase to Claude Code's weekly usage quota through the same date.
+
+---
+
+### 2026-07-13 01:00:48  #國際
+
+【美軍再次對伊朗實施打擊】當地時間7月12日，美軍於約一個小時前“對（伊朗）導彈及防空系統實施了數次打擊”，美軍還在霍爾木茲海峽周邊的數個地點“針對伊朗伊斯蘭革命衛隊的小型船隻採取了行動”。伊朗方面12日稍早時表示，自當天下午以來，格什姆島遭到敵方多枚發射物襲擊。據瞭解，所有遭襲物件均為軍事目標，襲擊未造成人員傷亡。當天，伊朗阿巴斯港東部方向及格什姆島海域傳出多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-07-13 01:00:23  #公司
+
+法國電力公司已暫停三座核反應堆的執行，並降低了另外八座的發電功率。
+
+---
+
+### 2026-07-13 00:59:16  #公司 #國際
+
+【科威特稱邊境哨所及鑽井平臺遭襲】科威特國防部當地時間7月12日晚通報當天遭襲情況。通告顯示，科威特北部三個陸地邊境哨所遭襲，部分設施受損；科威特國家石油公司的一處海上鑽井平臺遭無人機襲擊，一名工人受傷，並有設施受損。科威特軍方在通告中並未提及美軍基地或設施遭襲的相關情況。伊朗軍方此前發表宣告稱，當天早些時候出動攻擊型無人機，對美軍位於科威特的“愛國者”導彈防禦系統、彈藥庫和雷達站發動報復性襲擊。
+
+---
+
+### 2026-07-13 00:59:01  #國際
+
+伊朗國家數學奧林匹克代表隊斬獲第四屆上海國際數學競賽（IMSC 2026）總冠軍。
+
+---
+
+### 2026-07-13 00:58:28  #國際
+
+獨立投資研究平臺HFI Research：伊朗一側航道仍有一些船隻通行，但整體航運十分冷清。
+
+---
+
+### 2026-07-13 00:57:58  #國際
+
+特朗普發文悼念格雷厄姆參議員：（全美所有）國旗降半旗，哀悼持續至週六傍晚六點。
+
+---
+
+### 2026-07-13 00:51:07  #其他
+
+科威特武裝部隊總司令部強調，該國武裝力量仍處於全面戰備狀態，並已採取一切必要措施和行動，以維護國家安全和領土完整。
+
+---
+
+### 2026-07-13 00:48:16  #國際
+
+【伊朗官員：格什姆島軍事目標遭襲】當地時間12日，伊朗格什姆島相關負責人表示，自當天下午以來，格什姆島遭到敵方多枚發射物襲擊。該官員表示，所有遭襲目標均為軍事目標，襲擊未造成人員傷亡。另據美國方面訊息，美軍“對（伊朗）導彈及防空系統實施了數次打擊”，美軍還在霍爾木茲海峽周邊的數個地點“針對伊朗伊斯蘭革命衛隊的小型船隻採取了行動”。
+
+---
+
+### 2026-07-13 00:44:27  #國際
+
+伊朗議會社會委員會成員沙赫魯赫·拉敏：伊朗最高領袖與各權力機構負責人及國家安全最高委員會成員的會議均以線上方式舉行，但議會迄今尚未獲得以線上形式立法的許可；而要透過有關舉行網路會議的議事規則，至少還需召開一次線下會議。
+
+---
+
+### 2026-07-13 00:42:02  #MKT News #WTI #Impact bullish #Brent
+
+Kuwaiti military said a drilling platform owned by Kuwait Oil Company was struck in a drone attack, suffered major damage and one worker was injured.
+
+---
+
+### 2026-07-13 00:41:49  #公司
+
+科威特軍方表示，科威特石油公司所屬的一座鑽井平臺遭到無人機襲擊，事故造成設施物資損壞，並有一名工人受傷。
+
+---
+
+### 2026-07-13 00:40:28  #MKT News
+
+Kuwait's military said three border posts were attacked, causing material damage.
+
+---
+
+### 2026-07-13 00:40:14  #其他
+
+科威特軍方表示，三處邊境據點遭襲擊，造成設施損毀。
+
+---
+
+### 2026-07-13 00:38:17  #公司 #國際
+
+德國將為烏克蘭採購5萬架攻擊型無人機，這些無人機為烏克蘭SkyFall公司生產的Shrike型號，配備了美國Auterion公司的軟體。
+
+---
+
+### 2026-07-13 00:37:33  #國際
+
+美國眾議員梅斯談角逐格雷厄姆參議員席位：不排除參選可能，已致信州長，自薦出任格雷厄姆席位臨時繼任者。
+
+---
+
+### 2026-07-13 00:32:15  #其他
+
+【亞洲U23田徑錦標賽：中國隊獲52枚獎牌】在內蒙古自治區鄂爾多斯市舉行的2026第一屆亞洲U23田徑錦標賽12日閉幕，中國隊共獲23枚金牌、17枚銀牌、12枚銅牌，實現金牌榜、獎牌榜“雙第一”。
+
+---
+
+### 2026-07-13 00:29:56  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Israeli artillery conducts further shelling in southern Lebanon】Lebanon’s National News Agency reported two Israeli shells struck Kfar Taabunit in Nabatieh district, saying the fire originated from Israeli army positions in the occupied border area. It added Israeli artillery also shelled Zawtar Sharqiya near Mayfadun.
+
+---
+
+### 2026-07-13 00:28:35  #國際
+
+【一小時前美軍在霍爾木茲周邊實施多輪打擊】美軍約一小時前對多處導彈與防空設施發動數次打擊。美軍同時在霍爾木茲海峽周邊多處地點打擊了伊朗革命衛隊小型船隻。
+
+---
+
+### 2026-07-13 00:25:44  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【U.S.-Iran standoff over Strait of Hormuz nearing dangerous tipping point】Military and diplomatic analyst Alexandru Hudistianu said the U.S.-Iran contest over the Strait of Hormuz is not new but carries a serious escalation risk. He argued February U.S.-Israeli strikes on Iran gave Tehran favorable conditions to try to assert control of the Strait as a coercive tool, with Tehran claiming near-absolute authority over the waterway. The U.S. Navy has been escorting multiple vessels via the southern Oman route and has launched broad strikes on Iranian coastal areas in response to attacks on commercial ships. Hudistianu warned the current pattern is unlikely to hold and estimated the two-to-three months since a de facto ceasefire in April may be one of the highest-risk periods, saying continued hardline brinkmanship could tip the confrontation into a more active conflict phase.
+
+---
+
+### 2026-07-13 00:23:04  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. officials told Axios the U.S. military struck missile and air-defense systems and small vessels of Iran's Islamic Revolutionary Guard Corps at several locations around the Strait of Hormuz about an hour ago.
+
+---
+
+### 2026-07-13 00:22:24  #國際
+
+市場資訊：美國還在霍爾木茲海峽周邊的幾處地點打擊了伊朗革命衛隊的小型船隻。
+
+---
+
+### 2026-07-13 00:20:58  #國際
+
+市場資訊：美國一小時前在霍爾木茲周邊發動數輪打擊。
+
+---
+
+### 2026-07-13 00:20:38  #國際
+
+伊朗稱有10至11枚導彈射向格什姆島。
+
+---
+
+### 2026-07-13 00:20:25  #MKT News #Important
+
+【Local official: Qeshm Island hit by missile attack】A Qeshm Island official, Hossein Amir Teymouri, said Sunday afternoon local time that enemy forces fired 10–11 missiles at the island. He said all struck targets were military facilities and there were no casualties reported.
+
+---
+
+### 2026-07-13 00:18:59  #國際
+
+伊朗媒體：針對伊朗格什姆島的最新導彈襲擊未造成人員傷亡
+
+---
+
+### 2026-07-13 00:18:21  #焦點 #國際
+
+伊朗媒體：敵方於週日向伊朗格什姆島發射了多枚導彈。
+
+---
+
+### 2026-07-13 00:13:49  #其他 #焦點
+
+【郭涵煜/姆拉德諾維奇奪得2026年溫網女雙冠軍】2026年溫布林登網球錦標賽12日迎來女雙決賽，28歲的中國選手郭涵煜搭檔法國選手姆拉德諾維奇以6:3、7:5擊敗達布勞斯基/史蒂芬妮。郭涵煜職業生涯首次奪得大滿貫賽事女雙冠軍，姆拉德諾維奇則收穫職業生涯第七個大滿貫女雙冠軍。這也是中國網協選手第三次在溫布林登球場捧起女雙大滿貫獎盃。
+
+---
+
+### 2026-07-13 00:09:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The Israel Defense Forces said it struck and destroyed a Hamas weapons-production facility in northern Gaza City in the Gaza Strip.
+
+---
+
+### 2026-07-13 00:09:32  #國際
+
+以色列國防軍：以軍空襲加沙城一處哈馬斯武裝分子的武器製造據點。
+
+---
+
+### 2026-07-13 00:09:04  #MKT News #Brent #Impact bullish #XAUUSD
+
+【Qatar says it will hold Iran legally responsible for attacks】Al Jazeera reported Iran struck Qatar and five other states today — Oman, Bahrain, Kuwait, Jordan and the UAE — and claimed it hit US military targets in those countries; the governments have not formally confirmed the claims. Qatar's foreign ministry called the strike a blatant violation of its sovereignty and international law and said Iran should bear legal responsibility for the aggression and its consequences. Oman earlier summoned Iran's ambassador to protest.
 
 ---
 
@@ -19049,125 +19289,5 @@ Crypto Updates: Ether Rises by 2.31% — Top crypto gainers are Ether (2.31%), B
 ### 2026-07-10 16:24:10  #市場
 
 【託倫斯今日漲858.85%，3家機構專用席位淨買入4.05億元】託倫斯今日漲858.85%，成交額59.44億元，換手率81.35%，盤後龍虎榜資料顯示，3家機構專用席位淨買入4.05億元。
-
----
-
-### 2026-07-10 16:23:48  #市場
-
-【金風科技今日漲停，3家機構專用席位淨買入3.50億元】金風科技今日漲停，成交額58.10億元，換手率7.96%，盤後龍虎榜資料顯示，深股通專用席位買入5.12億元並賣出8437.52萬元，3家機構專用席位淨買入3.50億元。
-
----
-
-### 2026-07-10 16:23:28  #公司 #國際
-
-【中東局勢加劇導致霍爾木茲海峽船舶戰爭險費率大幅飆升】受近期美以對伊朗發動襲擊、德黑蘭方面封鎖霍爾木茲海峽等因素影響，中東地區海上航運風險急劇上升，倫敦勞合社等國際主要航運保險市場日前大幅提高了行經該海峽的船舶戰爭險費率。國際主流航運保險經紀公司達信（Marsh）全球海事與貨運負責人馬庫斯·貝克（Marcus Baker）指出，在美以發動襲擊、德黑蘭關閉霍爾木茲海峽後，透過該海峽的船舶險費率已從衝突爆發前的0.25%至0.5%，一度飆升至船舶自身價值的10%。貝克舉例強調，以一艘價值1億美元的油輪計算，單次航程的保費支出就曾高達1000萬美元。儘管目前涵蓋船體衝突損失的“船體戰爭險”費率已高位回落至1%至3%，但保費成本較常態而言依然高企。倫敦保險經紀公司McGill and Partners海事業務負責人大衛·史密斯（David Smith）表示，鑑於本週中東地區再度爆發多輪襲擊，核保商正重新嚴格審查航運價格與個別風險因素，大批既有的戰爭險保單已被迅速取消，並在大幅調高保費後重新簽訂。
-
----
-
-### 2026-07-10 16:23:26  #公司
-
-【羅牛山：2026年6月生豬銷售收入7828.71萬元，同比降11.19%】羅牛山公告稱，2026年6月銷售生豬8.31萬頭，環比降19.92%，同比增63.04%；銷售收入7828.71萬元，環比降22.88%，同比降11.19%。1 - 6月累計銷售生豬45.62萬頭，同比增43.75%；累計銷售收入5.60億元，同比降7.61%。銷售數量同比增幅大因部分豬場產能增加。生豬價格波動或影響業績，提醒投資者注意風險。
-
----
-
-### 2026-07-10 16:23:20  #公司
-
-【中晶科技：控股股東部分股份質押及解除質押】中晶科技公告稱，控股股東、實際控制人徐一俊將450萬股（佔其所持股份10.15%，佔總股本2.40%）質押給中國銀河證券長興金陵北路證券營業部，用於置換前期質押融資，質押期從2026年7月8日至2028年7月7日；同時解除696萬股（佔其所持股份15.70%，佔總股本3.71%）質押。截至公告披露日，徐一俊及其一致行動人累計質押783.5萬股，佔其所持股份17.67%，佔總股本4.17%，所質押股份不存在平倉風險。
-
----
-
-### 2026-07-10 16:23:17  #市場
-
-【露笑科技今日跌停，有3家機構專用席位淨賣出1.23億元】露笑科技今日跌停，成交額29.39億元，換手率17.43%，盤後龍虎榜資料顯示，深股通專用席位買入1.46億元並賣出2.12億元，有3家機構專用席位淨賣出1.23億元。
-
----
-
-### 2026-07-10 16:23:10  #其他
-
-【天津發布地質災害紅色預警】天津市規劃和自然資源局與天津市氣象局2026年7月10日15時聯合將地質災害氣象風險橙色預警升級為紅色預警：2026年7月10日16時至7月11日16時，受強降雨和前期降雨疊加效應影響，北部山區發生滑坡、崩塌等地質災害的氣象風險很高，請相關部門和人員嚴密防範，請廣大市民注意出行安全。
-
----
-
-### 2026-07-10 16:23:08  #其他
-
-【北京處於防汛二級應急響應】據北京市氣象臺訊息，受颱風“巴威”遠距離水汽輸送影響，7月10日下午至11日夜間北京市有暴雨，部分地區大暴雨，相對明顯時段為10日下午至夜間和11日傍晚至夜間。目前，北京處於暴雨橙色預警訊號中。（央視新聞）
-
----
-
-### 2026-07-10 16:22:42  #其他
-
-【長征十號乙運載火箭首飛，所用液態甲烷來自中國石化】7月10日，介面新聞從中國石化新聞辦獲悉，長征十號乙運載火箭在海南商業航天發射場發射升空，成功實現一子級可控回收。其使用的液態甲烷燃料，由中國石化供應的LNG（液化天然氣）資源製備而成，這是中國石化首次將清潔能源應用於航天領域，成功實現LNG資源從交通、工業等傳統領域向航天領域的關鍵跨越，推動了產業鏈向高階延伸。
-
----
-
-### 2026-07-10 16:22:17  #Trading Economics #Economy #Italy #Industrial Production Mom #Importance 1
-
-Italy Industrial Output Falls 0.3% in May — Italy’s industrial production fell 0.3% month-on-month in May 2026, slightly more than market expectations of a 0.2% decline, and reversing a revised 0.4% increase in the previous month. This marked the first contraction since January, as output declined in capital goods (-0.1% vs 1.0% in April) and intermediate goods (-0.8% vs 0.8%), while the fall in consumer goods deepened (-0.5% vs -0.1%). In contrast, energy production rebounded sharply (4.6% vs -0.2%). On an annual basis, industrial output rose 1.1%, unchanged from the revised April reading. Growth eased for capital goods (5.0% vs. 6.4%) and intermediate goods (0.8% vs. 1.8%), while the decline in consumer goods moderated (-3.2% vs. -4.1%), and energy output returned to growth (1.9% vs. -2.7%). By industry, the strongest growth was recorded in transportation equipment (11.6%), basic pharmaceutical products and pharmaceutical preparations (3.5%), and chemical products (3.3%).
-
----
-
-### 2026-07-10 16:21:45  #MKT News #CSI300 #Impact mixed #SSE Composite
-
-【Chinese banks' Tier-2 perpetual issuance splits; small banks tap multi-channel recapitalization, push asset-quality upgrades】After a rare zero issuance in Q1, Chinese banks' Tier-2 perpetual bond issuance accelerated sharply in Q2, exceeding CNY1 trillion in aggregate. Issuance has concentrated with large state-owned banks as the dominant issuers while small- and medium-sized banks have slowed issuance amid downward pressure on capital adequacy ratios. Smaller banks are pursuing alternate recapitalization channels—convertible-bond conversions, injections via local government special bonds and other innovative tools are accelerating. Market participants say the issuer split reflects credit stratification and a reworking of regulatory logic, highlighting more granular risk pricing and the urgency for smaller banks to both raise capital and improve asset quality.
-
----
-
-### 2026-07-10 16:21:42  #公司
-
-【北京文化：預計2026年上半年虧損3300萬-4500萬元，上年同期虧損2.33億元】北京文化公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損3300萬元-4500萬元，上年同期虧損2.33億元，同比減虧；扣除非經常性損益後的淨利潤虧損3500萬元-4700萬元，上年同期虧損2.44億元；基本每股收益虧損0.0461元/股-0.0629元/股，上年同期虧損0.3250元/股。業績變動主要繫上年同期上映電影票房不及預期導致虧損較大，本期同比減虧。
-
----
-
-### 2026-07-10 16:21:39  #國際
-
-【墨西哥要求調查美執法致墨移民死亡】7月7日，美國移民與海關執法局特工在美國得克薩斯州休斯敦市執法行動中槍殺墨西哥籍男子薩爾加多。這一事件除了在當地引發抗議外，墨西哥政府方面也表達了不滿。7月9日，墨西哥官方表示，將就美國移民與海關執法局行動和拘押致死墨西哥公民相關事件，向美國檢方以及司法部提出要求，呼籲追究相關事件責任人的刑事責任。（CCTV國際時訊）
-
----
-
-### 2026-07-10 16:21:34  #國際
-
-【俄羅斯聯邦航空局局長：俄羅斯航空客運量預計不會出現明顯下滑】俄羅斯聯邦航空局局長德米特里·亞德羅夫表示，各機場的航空燃油供應正由交通運輸部和能源部嚴格監管，航班時刻表也得以正常執行。 今年，儘管多項因素正在影響這一指標，但俄羅斯聯邦航空局並未預計航空客運量將較2025年出現明顯下滑。
-
----
-
-### 2026-07-10 16:21:19  #公司
-
-【三峽旅遊：登出1892.19萬股回購股份 總股本減少】三峽旅遊公告稱，截至2026年7月10日，公司已辦理完畢1892.19萬股回購股份的登出手續，佔登出前總股本的2.61%。登出後，公司總股本由72460.14萬股減至70567.95萬股。公司實控人宜昌市國資委間接持股比例由34.27%被動增至35.19%，未導致其他持股5%以上股東持股比例觸及或跨越關鍵整數倍。此次登出不會對公司產生重大不利影響，後續將辦理工商變更登記及章程備案。
-
----
-
-### 2026-07-10 16:21:08  #公司
-
-【愛爾眼科：2025年度擬派發現金紅利9.27億元】愛爾眼科公告稱，2025年年度利潤分配方案已獲股東會透過。將以92.68億股為基數，向全體股東每10股派1元（含稅），合計派發現金9.27億元，不送紅股、不轉增股本。股權登記日為2026年7月16日，除權除息日為7月17日。愛爾醫療投資集團有限公司等3家股東的現金紅利由公司自行派發，其餘A股股東紅利將於7月17日透過託管機構劃入賬戶。
-
----
-
-### 2026-07-10 16:20:35  #市場 #國際
-
-【部分美國晶片製造商股價在盤前交易中下跌】部分美國晶片製造商股價在盤前交易中下跌。美光科技股價下跌2.8%，閃迪股價下跌3.9%，西部資料股價下跌2.3%。英特爾下跌3.2%，超威半導體下跌1.1%，英偉達下跌0.4%，博通下跌0.8%。
-
----
-
-### 2026-07-10 16:20:13  #公司
-
-【光輪智慧與山東發展科創達成戰略合作 將推進山東具身智慧訓練場建設】據光輪智慧訊息，7月9日，圍繞山東具身智慧與機器人產業生態建設，光輪智慧（北京）科技股份有限公司（簡稱“光輪智慧”）與山東發展科創投資有限公司（簡稱“山東發展科創”）簽署戰略合作協議，雙方將共同推進山東具身智慧訓練場建設。
-
----
-
-### 2026-07-10 16:19:25  #市場
-
-【銀行發債分化，中小銀行多渠道“補血”“提質”】繼一季度罕見零發行後，二季度以來，銀行二永債發行大幅提速，合計發行規模超萬億元。同時，市場分化明顯，國有大行為絕對發行主力，中小銀行發行節奏放緩。銀行密集發行二永債的背後，是資本充足率下行的壓力。雖然中小銀行債券融資節奏放緩，但也積極探索多元化的“補血”渠道，可轉債轉股、地方政府專項債注資等創新工具正在加速落地。業內人士認為，二永債發行主體分化的本質是市場信用分層與監管邏輯重構的雙重結果，這既反映了市場風險定價機制成熟，也凸顯了中小銀行轉型的緊迫性。中小銀行要想增強可持續發展能力，除了增資“補血”，還應注重“提質”。(中國基金報)
-
----
-
-### 2026-07-10 16:18:25  #公司
-
-【貴廣網路：提名龔媛媛為非獨立董事並聘任其為總經理】貴廣網路公告稱，公司第六屆董事會2026年第三次臨時會議審議透過多項議案。同意提名龔媛媛為第六屆董事會非獨立董事候選人，任期自股東會審議透過至第六屆董事會屆滿；聘任龔媛媛為公司總經理，任期與第六屆董事會一致。此外，公司定於2026年7月27日召開2026年第三次臨時股東會，股權登記日為2026年7月20日。
-
----
-
-### 2026-07-10 16:18:21  #Trading Economics #Economy #Bulgaria #Balance of Trade #Importance 1
-
-Bulgaria Trade Deficit Widens in May — Bulgaria’s trade deficit widened to EUR 957.9 million in May 2026, compared with EUR 532.7 million in the same month a year earlier. Imports climbed 17.4% year-on-year to EUR 4,675.9 million, reflecting stronger demand for goods from both EU (+6.1%) and non-EU (+34.6%) countries. Purchases of crude materials recorded the sharpest increase (+58.8%), followed by mineral fuels and related products (+39.6%). Exports also increased, rising 7.8% to EUR 3,718.0 million, as shipments to the EU (+11.9%) and non-EU markets (+0.7%) expanded. The strongest export growth was seen in fats, oils, and waxes of animal and vegetable origin (+50.1%), while exports of mineral fuels and related products rose 52.6%. During the January-May 2026 period, the country posted a cumulative trade deficit of EUR 5,402.1 million, compared with EUR 3,935.9 million in the same period a year earlier, with exports rose 7.4%, while imports increased 12.8%.
 
 ---
