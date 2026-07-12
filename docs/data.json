@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-12 08:21:31",
-  "count": 16312,
+  "updated": "2026-07-12 08:25:17",
+  "count": 16315,
   "items": [
+    {
+      "id": "4982444",
+      "time": "2026-07-12 08:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦下一次發射目標定於週四。"
+    },
+    {
+      "id": "4982443",
+      "time": "2026-07-12 08:23:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【威剛董事長：三季度儲存晶片繼續漲價】儲存晶片漲價潮仍在持續。據券商中國，研究機構DigiTimes在最新發布的報告中指出，受AI需求激增、產能結構性瓶頸影響，高頻寬記憶體（HBM）價格預計2027年實現翻倍。與此同時，SK海力士CEO郭魯正(Kwak Noh-jung)表示，預計2027年將成為儲存晶片行業供應短缺最嚴重的一年。種種跡象表明，儲存晶片行業的漲價潮正愈演愈烈。儲存模組大廠威剛的董事長近日透露，2026年第三季度，儲存晶片繼續漲價。瑞銀在7月釋出的最新報告中大幅上調儲存晶片價格預期，稱DRAM報價會在第三季度上漲32%（此前預期17%）、第四季度再漲18%（此前預期12%）；NAND Flash報價預計會在第三季度上漲30%，第四季度將再漲12%。"
+    },
+    {
+      "id": "4982442",
+      "time": "2026-07-12 08:21:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗馬赫沙赫爾防空系統已啟動。"
+    },
+    {
+      "id": "4982441",
+      "time": "2026-07-12 08:21:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【二〇二六年服貿會倒計時六十天】昨天，2026年服貿會進入倒計時60天，第一批論壇會議名單、洽談推介名單及配套活動出爐。 2026年服貿會將於9月9日至13日在首鋼園舉辦。據介紹，目前已確定舉辦41場論壇會議，包括開放融合板塊10場、合作共贏板塊13場、數智創新板塊10場、綠色發展板塊8場，內容涵蓋數字貿易、金融服務、體育服務、醫療健康等服務貿易領域。（北京日報）"
+    },
     {
       "id": "mkt:019f53b1-b652-7aab-8d40-42658daa1db5",
       "time": "2026-07-12 08:19:43",
@@ -148784,16 +148817,6 @@
         "公司"
       ],
       "text": "【美伊衝突後聚丙烯價格大幅上升 德冠新材：能實現有效的價格傳導】德冠新材7月4日在分析師會議表示，目前公司原材料庫存能有效滿足生產需要，公司整體經營正常。面對美伊衝突後聚丙烯價格大幅上升，公司憑藉產品競爭力和供應鏈改革措施，能實現有效的價格傳導。在價格有效傳導的基礎上，產品還具備較高的技術和品牌溢價，進而反映在公司一季度毛利率的穩步提升中。近年來，公司持續開展的供應鏈改革措施，包括落實多方面開拓國內外供應渠道、關鍵原材料自產自用、採購規劃與在手訂單規模適配等舉措，有效控制整體風險敞口，能夠應對未來原材料價格大幅波動的情況，以降低對公司銷售和運營的影響。"
-    },
-    {
-      "id": "mkt:019f2fa7-90de-7aab-8ca0-23f492f3516e",
-      "time": "2026-07-05 08:22:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Everbright Securities: Semiconductor and AI waves push fluorinated new materials into rapid growth】Everbright Securities says leading Chinese fluorochemical firms are accelerating deployment of fluorinated new materials to build a second growth curve. In semiconductors, domestic high‑purity (G5) electronic‑grade hydrofluoric acid — long dominated by Japanese and US suppliers — has cleared certification at leading domestic and international wafer foundries and moved into volume production. Rapidly rising compute from AI, HPC and hyperscale data centers is increasing heat density, weakening air‑cooling effectiveness and boosting liquid‑cooling adoption, supporting demand for perfluoropolyether (PFPE) and other high‑performance fluorinated coolants. PFPE’s insulating, non‑flammable and superior thermal properties make it essential for immersion and other high‑safety, high‑power cooling applications. These trends are driving fluorochemical companies toward higher‑tech, higher‑margin product mixes."
     }
   ]
 }
