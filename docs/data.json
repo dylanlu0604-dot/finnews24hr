@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-13 07:35:24",
-  "count": 16656,
+  "updated": "2026-07-13 07:39:20",
+  "count": 16655,
   "items": [
+    {
+      "id": "4983183",
+      "time": "2026-07-13 07:37:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週2只新股申購，A股年內最大IPO來了】根據Wind及公開資訊梳理統計，本週（7月13日至7月17日）有2只新股安排申購，分別為深圳市維琪科技股份有限公司（下稱“維琪科技”，920176）、長鑫科技集團股份有限公司（下稱“長鑫科技”，688825）。其中，長鑫科技系國內DRAM（動態隨機存取儲存器，Dynamic Random Access Memory，DRAM）龍頭企業。公司已實現DDR4、DDR5、LPDDR4X、LPDDR5/5X全系列DRAM產品量產，核心產品技術達國際先進水平，覆蓋伺服器、移動裝置、智慧汽車等主流市場。"
+    },
+    {
+      "id": "4983182",
+      "time": "2026-07-13 07:37:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首款智慧體手機呼之欲出 大規模商用需邁幾道坎】全球首款AI智慧體手機即將在2026世界人工智慧大會上展出，該訊息令智慧體手機再度成為輿論關注焦點。接受證券時報記者採訪的專家表示，智慧體手機短期內仍將屬於“高階輔助執行”階段，無法完全跳過人機確認實現全流程自動執行，長期而言，智慧體手機要實現大規模商用，仍需邁過技術驗證、隱私安全、與網際網路企業之間的利益分配等多道坎。"
+    },
+    {
+      "id": "4983181",
+      "time": "2026-07-13 07:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江下游支流水陽江發生2026年第2號洪水】據水利部訊息，受降雨影響，長江下游支流水陽江新河莊水文站（安徽宣城）7月13日1時20分水位漲至警戒水位（11.50米），依據主要江河洪水編號規定，此次洪水編號為“水陽江2026年第2號洪水”。水利部緊盯汛情發展態勢，加強雨水情監測預報預警，提前啟動針對安徽、江蘇的洪水防禦Ⅳ級應急響應，督促指導做好港口灣水庫等骨幹水工程科學排程，落實落細水陽江洪水防禦各項措施，全力確保人民群眾生命財產安全。目前，水利部工作組正在安徽省洪水防禦一線協助指導。"
+    },
+    {
+      "id": "4983180",
+      "time": "2026-07-13 07:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列推進在被佔領東耶路撒冷建設450個定居點單元的計劃。"
+    },
     {
       "id": "4983179",
       "time": "2026-07-13 07:34:39",
@@ -151771,49 +151803,6 @@
         "觀點"
       ],
       "text": "【中信建投：算力硬體高波動期 等待財報指引落地】中信建投研報表示，Meta宣佈出售部分過剩算力資源，市場初期反應偏向負面，擔憂此舉是否預示著AI算力需求見頂或行業景氣度下行。但從行業供需格局來看，AI算力需求的中長期驅動邏輯並未因Meta的單一行為而受損，關鍵環節也仍然制約著有效供給的釋放。Meta的個案不應被過度解讀為行業拐點訊號，隨著財報季臨近，投資者更應關注英偉達等核心供應商的訂單指引、雲廠商的資本開支計劃以及下游應用商業化進展等更具代表性的行業指標。"
-    },
-    {
-      "id": "mkt:019f34a5-fcc7-7aab-8ca5-dca2fa813fdb",
-      "time": "2026-07-06 07:38:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Westpac: RBNZ has time to wait for more data】Westpac expects the RBNZ to leave the official cash rate (OCR) unchanged at 2.25% at Wednesday's policy meeting. It said developments over the past six weeks—most notably a faster-than-expected fall in oil prices that has eased related inflationary pressure—give the RBNZ more time to assess economic momentum, particularly with a large slate of key data due after the July meeting. Westpac still expects the RBNZ's forward guidance to retain a bias toward raising the OCR this year."
-    },
-    {
-      "id": "4971200",
-      "time": "2026-07-06 07:38:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財長稱，韓元實現24小時交易是韓元全球飛躍的起點，這反映出韓國對經濟的信心。"
-    },
-    {
-      "id": "4971199",
-      "time": "2026-07-06 07:37:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【亞市早盤油價下跌，受歐佩克+再次決定增產拖累】亞市早盤油價下跌，受歐佩克+再次決定增產拖累。在週日舉行線上會議後，該組織表示將在8月份每天增產約18.8萬桶，標誌著連續第五個月增產。然而，澳新銀行研究部分析師在一份報告中表示：“即使在霍爾木茲海峽重新開放之際，由於船隻面臨持續風險，成員國可能難以利用這些新增產能。“澳新銀行研究部的分析師指出：“週末期間，有人看到幾艘船隻在試圖沿著阿曼航線駛過海峽時突然掉頭。“近月西得州中質油期貨下跌0.6%，報每桶68.29美元；近月布倫特原油期貨下跌0.7%，報每桶71.64美元。"
-    },
-    {
-      "id": "4971198",
-      "time": "2026-07-06 07:37:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證券日報：三季度專項債有望迎來年內發行高峰】從新增專項債來看，Wind資料顯示，截至7月5日，今年已發行新增專項債20692.27億元，完成全年進度的47%。進入二季度後，專項債發行明顯加快，4月份至6月份分別發行新增專項債券1743.57億元、1607.96億元、5716.40億元。其中，6月份發行新增專項債同比增長8.45%。財信研究院副院長伍超明認為，專項債發行將更注重穩增長與資金使用效率並重。綜合考慮剩餘額度空間與專案推進節奏，三季度有望迎來年內發行高峰，預計7月份至9月份專項債發行規模月均超過6000億元。重點在於將資金儘快轉化為實物工作量，確保全年經濟社會發展目標順利實現。"
-    },
-    {
-      "id": "te:markets:564247",
-      "time": "2026-07-06 07:36:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Decline on Supply Glut Worries — Brent traded near $71 per barrel on Monday, hovering at its lowest levels since late February as recovering energy flows through the Strait of Hormuz and expectations of higher OPEC+ output fueled concerns over a potential supply glut. OPEC+ members approved another modest increase in collective production quotas for next month, with seven countries led by Saudi Arabia and Russia agreeing to raise output by 188,000 barrels per day. The decision reflects the group’s confidence in boosting production as conditions across the Middle East continue to stabilize. Major Persian Gulf producers have also been increasing supply, with Saudi Arabia’s exports climbing close to pre-war levels, while the UAE, which left OPEC during the conflict, has likewise restored shipments. Meanwhile, oil and gas tanker traffic through the Strait of Hormuz showed signs of normalizing on Sunday, a day after several vessels made unexplained U-turns and detours along the critical energy route."
     }
   ]
 }
