@@ -1,7 +1,50 @@
 {
   "date": "2026-07-12",
-  "count": 223,
+  "count": 227,
   "items": [
+    {
+      "id": "mkt:019f53db-3fca-7aab-8d40-9aee75492cb3",
+      "time": "2026-07-12 09:05:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "According to Axios, U.S. officials said targets for strikes on Iran include rocket and drone launch sites, air-surveillance radars and missile storage sites."
+    },
+    {
+      "id": "4982473",
+      "time": "2026-07-12 09:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【賽迪（江蘇）先進製造業研究中心落地】7月9日，江蘇省工業和資訊化廳與中國電子資訊產業發展研究院（賽迪研究院）在南京簽署戰略合作協議，賽迪（江蘇）先進製造業研究中心正式落地。省長劉小濤見證簽約。根據協議，雙方透過共建賽迪（江蘇）先進製造業研究中心，將形成一批高質量的產業發展研究成果，持續為江蘇落實製造強國、網路強國、數字中國等國家戰略提供長效決策支撐。（新華日報）"
+    },
+    {
+      "id": "mkt:019f53d9-d688-7aab-8d40-90c19208b446",
+      "time": "2026-07-12 09:03:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Fox News reports artificial intelligence has been cited as the primary reason for U.S. layoffs for a third consecutive month."
+    },
+    {
+      "id": "4982472",
+      "time": "2026-07-12 09:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "據加拿大媒體11日報道，多倫多發生槍擊事件，已致2死5傷。（新華社）"
+    },
     {
       "id": "4982471",
       "time": "2026-07-12 08:59:27",
