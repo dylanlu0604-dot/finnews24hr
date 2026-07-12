@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-13 02:34:05_
-_本檔包含 3666 則快訊，約 628001 字_
+_更新時間：2026-07-13 03:45:54_
+_本檔包含 3671 則快訊，約 627781 字_
+
+---
+
+### 2026-07-09 15:21:00  #公司
+
+【金融監管總局：做好近期防汛救災和災後恢復重建有關金融保險服務工作】國家金融監督管理總局辦公廳釋出關於做好近期防汛救災和災後恢復重建有關金融保險服務工作的通知。各保險公司要密切跟蹤災情進展，科學合理調配查勘救援車輛、理賠人員和大額賠付資金等資源，做好應急保障工作。要在做好自身安全防護前提下，科學開展現場查勘救援等工作，嚴防次生災害。要堅持“特事特辦、急事急辦”原則，簡化理賠流程和手續，暢通綠色通道，在受災程度較重地區，建立集中理賠點，方便災區群眾辦理理賠手續，切實做到能賠快賠、應賠盡賠、合理預賠。
+
+---
+
+### 2026-07-09 15:20:49  #國際
+
+伊朗召見英國大使，抗議倫敦提出“毫無根據的指控”並收容反德黑蘭“組織網路”。
+
+---
+
+### 2026-07-09 15:20:41  #其他
+
+【北京釋出地質災害氣象風險橙色預警】北京市規劃自然資源委聯合市氣象局2026年7月9日13時30分發布地質災害氣象風險橙色預警：7月10日14時至7月11日14時，北京市房山大部、門頭溝東部、豐臺西北部、昌平大部、懷柔、密雲、平谷發生崩塌、滑坡、泥石流、地面塌陷等地質災害的風險高（橙色預警）；門頭溝大部、石景山北部、海淀西部、昌平西北部、延慶發生崩塌、滑坡、泥石流、地面塌陷等地質災害的風險較高（黃色預警）；請注意防範。
+
+---
+
+### 2026-07-09 15:20:24  #央行 #日本央行
+
+【日本央行大阪分行：日企成本轉嫁提速 今夏或傳導至消費端】日本央行大阪分行行長稱，日本企業成本轉嫁提速，今夏或傳導至消費端，政府關注通脹對消費影響；企業盈利穩健，將持續加薪緩解用工缺口，不過消費品能否漲價仍取決於內需力度。
+
+---
+
+### 2026-07-09 15:20:13  #其他
+
+Rapidus：晶片價格差異巨大，波動幅度較大。
+
+---
+
+### 2026-07-09 15:19:54  #國際
+
+日本內閣官房長官表示：長期利率由市場根據各類因素決定。
+
+---
+
+### 2026-07-09 15:19:46  #公司 #國際
+
+【AI晶片製造商Cerebras計劃年內啟用歐洲首座資料中心】人工智慧晶片製造商Cerebras Systems當地時間7月9日釋出宣告稱，計劃2027年年底前將其歐洲AI基礎設施的算力總容量擴充套件至200兆瓦，並於今年年內啟用在歐洲的首座資料中心。該公司稱，正為2027年儲備大量資源，計劃在挪威和芬蘭建設資料中心。
+
+---
+
+### 2026-07-09 15:19:36  #公司
+
+【阿里第一財季財報前瞻：阿里雲收入增長加速至45%左右超預期 電商利潤恢復】7月9日，記者獲悉，根據市場訊息，阿里巴巴2027財年Q1財報前瞻顯示，阿里雲收入增長加速至45%左右，大超市場預期；整體電商業務利潤恢復，同比持平，好於市場預期；淘寶閃購減虧快於市場預期。阿里雲EBITA margin持續改善，從往季的9.1%左右加速提升至低雙位數，兌現此前指引。（證券時報）
+
+---
+
+### 2026-07-09 15:19:24  #Trading Economics #Economy #Czech Republic #Construction Output #Importance 1
+
+Czechia Construction Output Rises 4.4% — Construction output in the Czech Republic increased by 4.4% year-on-year in May 2026, easing from a 7.7% rise in April but extending its expansion to a nineteenth consecutive month. Growth was supported by both major segments, with building construction rising 3.3% and civil engineering works advancing 6.6%. A total of 5,784 building permits were granted, up 11.6% from a year earlier, driven by increases in both new building and civil engineering projects, while the floor area of new building construction surged 74.2%. Meanwhile, housing starts jumped 48.3% to 3,968 units, and completed dwellings rose 13.5% to 2,811 units. On a monthly basis, construction output edged up 0.2% in May, following a 0.6% increase in April.
+
+---
+
+### 2026-07-09 15:17:43  #央行 #國際
+
+馬來西亞林吉特<MYR=>在央行按預期維持利率後基本持平，最新成交價為1美元兌4.0760林吉特。
+
+---
+
+### 2026-07-09 15:17:40  #公司 #市場
+
+大眾汽車：大眾汽車股份公司監事會與管理董事會今日正在討論計劃的確切細節。
+
+---
+
+### 2026-07-09 15:17:21  #Trading Economics #Economy #Czech Republic #Industrial Production #Importance 1
+
+Czech Industrial Output Hits 4-Month High — Industrial production in the Czech Republic increased 2.0% year-on-year in May 2026, marking its strongest growth in four months after a 1.5% rise in April. Manufacturing output accelerated (2.2% vs 1.8% in April), supported by a sharp increase in the manufacture of leather and related products (38.4% vs 1.2%). Other key contributors included the manufacture of wearing apparel (14.7% vs 0.2%), basic pharmaceutical products and preparations (6.0% vs -8.9%), and computer, electronic and optical products (16.7% vs 11.0%). Electricity, gas, steam and air conditioning supply rose further 2.1% from a 0.9% increase in April. Meanwhile, mining and quarrying output continued to contract, though the decline eased to 8.3% from 12.9% in the previous month. On a monthly basis, industrial production fell 0.4% in May 2026, reversing a 1.4% increase in the previous month.
+
+---
+
+### 2026-07-09 15:16:48  #公司
+
+【超聲電子：公司沒有研發或生產玻璃基板產品】超聲電子7月9日在互動平臺表示，公司沒有研發或生產玻璃基板產品。
+
+---
+
+### 2026-07-09 15:16:40  #其他
+
+大眾汽車：將根據計劃削減過剩產能。
+
+---
+
+### 2026-07-09 15:16:06  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 1.66% Higher — The Shangai Composite Index gained 66 points or 1.66 percent on Thursday to close at 4037 points. Gains were led by China Merchants Securities (7.13%), Sanan Optoelectron (5.95%) and Jiangsu Hengrui (2.61%).
+
+---
+
+### 2026-07-09 15:15:44  #公司
+
+大眾汽車：公司理解員工希望公開發表觀點，其中也包括透過今日發生的行動表達訴求。
+
+---
+
+### 2026-07-09 15:15:02  #市場
+
+【國債期貨收盤】 30年期主力合約跌0.04%， 10年期主力合約跌0.03%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-07-09 15:14:08  #其他
+
+【武漢：颱風過境時，所有專案工地全面停工，非必要不外出】據長江日報，7月11日至14日，受颱風“巴威”登陸影響，武漢市可能遭遇新一輪大風極端天氣。今天（7月9日），武漢市自然資源和城建局印發關於全市房屋建築工程加強防範大風極端天氣工作的緊急通知。通知要求：颱風來臨前，全市專案應暫停所有腳手架搭拆、建築起重機械安拆作業的工作計劃安排。當日風力等級大於5級時，全市所有專案應停止所有腳手架和起重吊裝的高處作業、戶外作業。風力達到6級以上及颱風天氣過境期間(7月11日至14日期間），所有專案工地全面停工：建築外立面、臨牆空間禁止一切非固定設施和物料懸掛堆置，易受風力影響的地面物料堆置應覆壓攔網和壓放重物；所有升降機轎廂、吊籃停放地面固定，吊索吊鉤可靠繫留加固；場地內車輛應保持最小迎風面、整齊停放，採取必要措施地面加固；工地人員非必要不外出，嚴禁一切冒險施工。
 
 ---
 
@@ -21992,83 +22100,5 @@ A股收盤，上證指數跌0.49%，深證成指跌1.87%，創業板指跌1.70%�
 ### 2026-07-08 14:56:27  #Trading Economics #Markets #Commodity #Importance 1
 
 Steel Advances on Signs of Stronger Demand — Steel rebar futures climbed toward CNY 3,080 per ton, rebounding from eight-month lows as improving property demand in top consumer China lifted the outlook for steel consumption. Industry data showed that transactions of newly built commercial homes across 10 major Chinese cities increased 19.2% year-on-year in the week ended July 5. China’s warehousing index also returned to expansion territory in June, supported by stronger demand for bulk commodity storage as infrastructure projects gathered pace nationwide. On the supply side, a planned strike by BHP workers at the Port Hedland iron ore terminal in Western Australia raised the risk of disruptions to iron ore shipments, a key raw material for steel production. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to iron ore supply.
-
----
-
-### 2026-07-08 14:55:02  #公司
-
-【五大快遞巨頭退出蜂網投資】工商登記資訊顯示，蜂網投資有限公司發生工商變更，上海韻達貨運有限公司、上海圓通蛟龍投資發展（集團）有限公司、申通快遞有限公司退出股東行列。蜂網投資是2013年由圓通、韻達、中通、申通及順豐五家快遞企業各持股20%共同出資設立，定位為整合快遞上下游產業鏈的投資平臺。企查查資訊顯示，上個月順豐和中通已經退出股東行列。目前公司股東是由自然人持股的一家上海公司。（第一財經）
-
----
-
-### 2026-07-08 14:54:50  #市場 #焦點
-
-滬深兩市成交額超2.5萬億元，較上日此時縮量260億元。
-
----
-
-### 2026-07-08 14:54:35  #國際
-
-【烏克蘭防空火力攔截俄軍彈道導彈再次脫靶 澤連斯基借北約峰會緊急索要“愛國者”系統】烏克蘭軍方週三證實，在防空部隊應對俄軍新一輪徹夜空襲中，未能成功攔截任何一枚俄方發射的彈道導彈。這是烏方防空火力本週內第二次對俄軍彈道導彈攔截脫靶。鑑於防空攔截彈藥出現嚴重短缺，烏克蘭總統澤連斯基在土耳其安卡拉舉行的北約峰會期間，正緊急敦促西方盟友向烏方追加提供“愛國者”防空導彈防禦系統。根據烏克蘭空軍釋出的戰報，俄軍在當晚的聯合空襲中，共向烏方目標發射了5枚彈道導彈、2枚反輻射導彈，並密集出動了169架次無人機。儘管烏方實施了防空交戰，但5枚彈道導彈最終全部突破烏軍防空網。由於基輔方面目前正面臨極為嚴峻的“愛國者”防空攔截彈藥枯竭危機，這直接導致其難以有效抵禦俄軍的高烈度空中打擊——烏克蘭總統弗拉基米爾·澤連斯基在今天土耳其安卡拉舉行的北約峰會前夕一直強調這一點。
-
----
-
-### 2026-07-08 14:54:26  #公司 #市場
-
-【納指年內漲18%後漲勢熄火？預測平臺多空博弈五五開】納斯達克100指數在2026年已上漲約18%，但預測市場平臺 Kalshi 上的交易員認為該指數在2026年下半年不會再走高太多。投機者認為，這一科技股權重很高的指數在2026年收盤突破30000點的機率大約是五五開(50對50)，這一關口是該指數在5月下旬首次跨越的。截至週二盤中交易，該指數僅比30000點低1%左右。在 Kalshi 上，合約要求投機者進行“是”或“否”的交易，以此支援或反對納斯達克100指數年底是否會落在某個特定的點數區間內。該合約將根據谷歌提供的12月31日該指數的價格進行結算。
-
----
-
-### 2026-07-08 14:53:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Two oil tankers damaged in drone attack in Russia's Rostov region】Rostov region governor said on social media the region was hit by a large-scale drone attack in the early hours of the 8th, damaging two oil tankers bound for Rostov-on-Don in Taganrog Bay and leaving two people lightly injured. The governor warned of an ongoing drone threat and urged residents to stay indoors and away from windows.
-
----
-
-### 2026-07-08 14:53:29  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-【Iran foreign ministry says US flagrantly breached interim ceasefire】Iran's foreign ministry said the US flagrantly breached an interim ceasefire by striking multiple monitoring and surveillance centres on Iran's southern coast, revoking a US Treasury licence for Iranian oil sales last night, and violating Iran's arrangements in the Strait of Hormuz. It said repeated illegal attacks on Iran, together with Israeli military action in Lebanon, are nullifying the ceasefire and warned the US bears responsibility for the dangerous escalation. The ministry urged all states, especially Gulf littoral neighbours, to prevent their territory or facilities being used to attack Iran, warned that assisting such attacks would constitute complicity, and said Iran's armed forces will defend its territorial integrity, sovereignty and security and repel aggression.
-
----
-
-### 2026-07-08 14:53:20  #宏觀 #國際
-
-【伊朗外交部：譴責美國對臨時停戰協議的公然違反】伊朗外交部發布宣告，譴責美國“公然違反”雙方達成的初步停戰協議。伊朗外交部稱，美對伊朗南部海岸的多個監測和監視中心發動的軍事襲擊，公然違反了停戰解備忘錄的第一條，該條款規定應停止軍事行動。針對伊朗的屢次非法襲擊，加上美國財政部昨晚決定撤銷伊朗石油銷售許可證，以及違反伊朗在霍爾木茲海峽的安排，還有以色列政權對黎巴嫩持續的軍事行動，正在使停火協議失效。此次局勢升級所造成的危險後果，責任在於背信棄義的美國政權。外交部強調，所有國家，特別是波斯灣南岸的鄰國，負有國際法義務，必須防止侵略方利用其領土和設施對伊朗實施侵略行為，並重申，任何協助實施針對伊朗的侵略罪行的行為，均構成對該罪行的共謀和參與。外交部強烈譴責美國一再發動侵略性襲擊和違反條約的行為，強調伊朗強大的武裝力量將一如既往地捍衛伊朗的領土完整、國家主權和國家安全，並會抵禦侵略。
-
----
-
-### 2026-07-08 14:53:12  #MKT News
-
-Zhonggong Education shares closed at the daily down-limit late in the session, with turnover exceeding CNY1.0 bln, after the CSRC opened a formal investigation into a person surnamed An for fabricating and disseminating false information about the company.
-
----
-
-### 2026-07-08 14:53:07  #市場
-
-中公教育尾盤跌停，成交額超10億元。
-
----
-
-### 2026-07-08 14:53:01  #其他
-
-緯創：6月銷售額3,218.2億元臺幣。
-
----
-
-### 2026-07-08 14:52:53  #公司
-
-月球航天公司ispace將藉助SpaceX運載艙開展月球運輸業務。
-
----
-
-### 2026-07-08 14:52:44  #國際
-
-【俄羅斯兩艘油輪遭無人機襲擊受損】俄羅斯西南部羅斯托夫州州長斯柳薩里8日在社交媒體平臺發文說，該州當天凌晨遭遇大規模無人機襲擊，導致兩艘油輪船體受損，兩人受輕傷。斯柳薩里表示，兩艘前往頓河畔羅斯托夫的油輪在塔甘羅格灣遭無人機襲擊，目前羅斯托夫州仍面臨無人機威脅，居民應留在室內並遠離窗戶。俄羅斯國防部8日在社交媒體上說，莫斯科時間7日晚8時至8日早8時，俄防空系統在多地攔截並摧毀415架無人機。俄武裝部隊8日凌晨對烏克蘭軍工設施實施打擊，擊中烏一家導彈零部件生產企業和一個無人機組裝車間。（新華社）
-
----
-
-### 2026-07-08 14:52:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Analyst: Oil producers' window to monetize Middle East price spike is brief】Longode Bank analyst Robin Haworth says the window for oil companies to capitalize on higher prices linked to the Middle East conflict is very short. Major oil and gas stocks have not rerated significantly as investors view elevated profits as temporary. Haworth warns oil may be capped around $100/bbl, leaving limited upside. He sees opportunities in oilfield services to repair conflict damage. Structural capacity declines and Ukrainian strikes on Russian refineries are supporting refining margins, but as output and prices normalize he prefers financials, utilities and healthcare for more attractive opportunities.
 
 ---

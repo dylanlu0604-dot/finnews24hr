@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 02:34:05_
-_本檔包含 3187 則快訊，約 628018 字_
+_更新時間：2026-07-13 03:45:54_
+_本檔包含 3183 則快訊，約 627639 字_
+
+---
+
+### 2026-07-10 16:33:29  #公司
+
+【三孚股份：2026年上半年淨利潤預增191.22% - 222.43%】三孚股份公告稱，2026年上半年，公司預計實現歸屬於上市公司股東的淨利潤1.12億元 - 1.24億元，同比增加7354.16萬元 - 8554.16萬元，增幅為191.22% - 222.43%；扣非淨利潤為1.081億元 - 1.201億元，同比增加7474.91萬元 - 8674.91萬元，增幅為224.13% - 260.11%。業績預增主要因各產品穩定執行，迴圈經濟產業一體化執行、產能釋放及市場開拓等提升了綜合盈利能力。
+
+---
+
+### 2026-07-10 16:33:23  #公司
+
+【創世紀：因未及時披露重大訴訟進展 公司及兩人被出具警示函】創世紀公告稱，公司近日收到廣東證監局下發的警示函，因2025年12月全資子公司深圳創世紀專利侵權二審被判賠償3.82億元，未按期履行賠償義務致賬戶被凍結、資金被劃扣，公司未及時披露相關情況，且未在2025年年報披露執行情況。公司董事長夏軍、董事會秘書伍永兵對違規行為負主要責任。公司應30日內完成整改並報送報告，已就案件申請再審。
+
+---
+
+### 2026-07-10 16:33:15  #其他
+
+【國家海洋預報臺7月10日16時釋出風暴潮橙色警報】國家海洋預報臺7月10日16時釋出風暴潮橙色警報。
+
+---
+
+### 2026-07-10 16:32:42  #公司 #市場
+
+【時代萬恆：2026年上半年預計淨虧損1150萬元-1400萬元】時代萬恆公告稱，經初步測算，2026年1月1日至6月30日，公司歸屬於母公司所有者的淨利潤為-1400萬元到-1150萬元，上年同期為423.32萬元；扣除非經常性損益後的淨利潤為-1500萬元到-1250萬元，上年同期為281.85萬元。業績預虧主因是鋰電池業務毛利率大幅下降，一方面下調銷售單價，另一方面原材料價格上漲致成本增加。
+
+---
+
+### 2026-07-10 16:32:37  #公司
+
+【上海滬工：擬登出全資孫公司南昌誠航工業】上海滬工公告稱，公司於2026年7月10日召開董事會，審議透過登出全資孫公司南昌誠航工業的議案。該公司成立於2019年2月，註冊資本3億元，2026年3月31日總資產1.12億元、淨資產1.04億元，2026年1 - 3月營收155.85萬元、淨虧損303.25萬元。鑑於公司2025年12月終止相關募投專案，為降本增效，擬登出該公司。登出後合併報表範圍減少，但對公司無實質影響。
+
+---
+
+### 2026-07-10 16:32:33  #MKT News
+
+【14 Japanese institutions form consortium to scale up sodium‑ion batteries】According to Yomiuri, 14 Japanese universities, companies and research institutes have formed a consortium to accelerate mass production and commercialization of sodium‑ion batteries. The group plans a roughly ¥760 million budget to develop mass‑production technology for stationary energy‑storage batteries aimed at utilities and energy firms. Tokyo University of Science said sodium‑ion chemistry has been validated at lab scale and the project is intended to advance it to practical application. Sodium‑ion batteries do not use rare metals, a strategic advantage given Japan’s constrained access to key minerals. The consortium says production processes are similar to ternary lithium‑ion cells, allowing sodium‑ion cells to share existing production lines and potentially speed adoption once mass‑production techniques are established. Yomiuri also noted about one in four new cars sold globally is electric, supporting rising storage‑battery demand, while separate Japanese efforts to commercialize solid‑state lithium‑ion batteries continue to advance.
+
+---
+
+### 2026-07-10 16:32:32  #其他
+
+【中汽協：上半年我國汽車行業執行總體平穩】據中國汽車工業協會分析，上半年，我國汽車行業執行總體平穩，產銷累計降幅逐月收窄。市場流向主要呈現出三個分化：一是內需承壓明顯，銷量兩位數下降；出口超預期增長，形成穩定支撐。二是乘用車市場表現欠佳，出現小幅下滑；商用車市場延續向好態勢，銷量保持增長。三是產業新舊動能持續轉換，傳統燃油車市場進一步萎縮，新能源汽車穩定增長。
+
+---
+
+### 2026-07-10 16:32:22  #公司
+
+【新巨豐：為子公司1.5億元綜合授信額度債務提供擔保】新巨豐公告稱，公司近日和中國銀行新泰支行簽署《最高額保證合同》，為全資子公司泰東包裝1.5億元綜合授信額度內的債務提供連帶責任保證。截至公告披露日，公司及子公司對外擔保總額54.84億元，實際提供擔保總餘額19.81億元，佔公司最近一期經審計淨資產的75.44%。公司目前無逾期及違規擔保情況。
+
+---
+
+### 2026-07-10 16:32:21  #MKT News #Market Regions #Greater China
+
+Onshore RMB closed at 6.7784 per USD at 16:30 on July 10, up 151 pips versus the previous trading day.
+
+---
+
+### 2026-07-10 16:32:16  #市場
+
+在岸人民幣兌美元7月10日16:30收盤報6.7784，較上一交易日上漲151點。
+
+---
+
+### 2026-07-10 16:31:59  #宏觀 #市場
+
+【財政部擬第二次續發行2026年超長期特別國債（四期）】據財政部訊息，財政部擬第二次續發行2026年超長期特別國債（四期）。本次續發行國債為30年期固定利率附息債。本次續發行國債競爭性招標面值總額800億元，不進行甲類成員追加投標。招標時間為2026年7月15日上午10:35至11:35。招標結束至2026年7月16日進行分銷，7月20日起與之前發行的同期國債合併上市交易。
+
+---
+
+### 2026-07-10 16:31:29  #公司
+
+【江蘇新能：預計2026年上半年淨利潤同比減少53%】江蘇新能公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.33億元左右，與上年同期相比，將減少1.49億元左右，同比減少53%左右。報告期內江蘇省內風資源同比偏弱，疊加限電率提高及電價小幅下行的不利影響，公司營業收入同比減少。由於行業稅收政策調整，陸上風電專案自2025年11月起不再享受增值稅即徵即退50%的優惠政策。
+
+---
+
+### 2026-07-10 16:31:26  #央行 #日本央行
+
+【日本央行計劃在7月維持利率不變】日本央行計劃在7月維持利率不變，但將維持政策指引，承諾繼續推進加息程序。
+
+---
+
+### 2026-07-10 16:31:14  #公司 #國際
+
+【錫裝股份：為韓國全資子公司提供1.13億元擔保額度】錫裝股份公告稱，公司第四屆董事會第二十三次會議審議透過為韓國全資子公司提供擔保的議案。公司作為履約保證人向其客戶提供母公司連帶責任保證，並利用自有銀行授信額度為其申請開立分離式保函，包括合同金額10%的預付款保函和10%的質量保函。本次擔保總額度為1658.37萬美元，摺合人民幣約1.13億元，若合同金額變動，擔保額度可相應調整，有效期和期限以銷售合同實際需要為準。該擔保額度在董事會審批許可權內，無需提交股東會審議。
 
 ---
 
@@ -19124,113 +19208,5 @@ Malaysia Holds Rates Steady as Expected — The Central Bank of Malaysia kept it
 ### 2026-07-09 15:21:14  #公司
 
 【陽光電源：固態變壓器（SST）首先應用場景是面向AIDC】從陽光電源方面獲悉，公司今日釋出自研EnerNeo固態變壓器，核心引數顯示，產品輸入電壓等級10~13.8KV， 輸出電壓等級為800Vdc，額定功率為3MW，最小功率顆粒度1.5MW，可按需拓展配置3MW、4.5MW規格機型，系統轉換效率98.5%。該公司表示，算力晶片技術高速迭代，新一代800V直流架構是適配AIDC的主流方案，而固態變壓器（SST）作為實現“直轉800V直流”的核心載體，被視作解決AIDC供電行業痛點的重要方案。
-
----
-
-### 2026-07-09 15:21:00  #公司
-
-【金融監管總局：做好近期防汛救災和災後恢復重建有關金融保險服務工作】國家金融監督管理總局辦公廳釋出關於做好近期防汛救災和災後恢復重建有關金融保險服務工作的通知。各保險公司要密切跟蹤災情進展，科學合理調配查勘救援車輛、理賠人員和大額賠付資金等資源，做好應急保障工作。要在做好自身安全防護前提下，科學開展現場查勘救援等工作，嚴防次生災害。要堅持“特事特辦、急事急辦”原則，簡化理賠流程和手續，暢通綠色通道，在受災程度較重地區，建立集中理賠點，方便災區群眾辦理理賠手續，切實做到能賠快賠、應賠盡賠、合理預賠。
-
----
-
-### 2026-07-09 15:20:49  #國際
-
-伊朗召見英國大使，抗議倫敦提出“毫無根據的指控”並收容反德黑蘭“組織網路”。
-
----
-
-### 2026-07-09 15:20:41  #其他
-
-【北京釋出地質災害氣象風險橙色預警】北京市規劃自然資源委聯合市氣象局2026年7月9日13時30分發布地質災害氣象風險橙色預警：7月10日14時至7月11日14時，北京市房山大部、門頭溝東部、豐臺西北部、昌平大部、懷柔、密雲、平谷發生崩塌、滑坡、泥石流、地面塌陷等地質災害的風險高（橙色預警）；門頭溝大部、石景山北部、海淀西部、昌平西北部、延慶發生崩塌、滑坡、泥石流、地面塌陷等地質災害的風險較高（黃色預警）；請注意防範。
-
----
-
-### 2026-07-09 15:20:24  #央行 #日本央行
-
-【日本央行大阪分行：日企成本轉嫁提速 今夏或傳導至消費端】日本央行大阪分行行長稱，日本企業成本轉嫁提速，今夏或傳導至消費端，政府關注通脹對消費影響；企業盈利穩健，將持續加薪緩解用工缺口，不過消費品能否漲價仍取決於內需力度。
-
----
-
-### 2026-07-09 15:20:13  #其他
-
-Rapidus：晶片價格差異巨大，波動幅度較大。
-
----
-
-### 2026-07-09 15:19:54  #國際
-
-日本內閣官房長官表示：長期利率由市場根據各類因素決定。
-
----
-
-### 2026-07-09 15:19:46  #公司 #國際
-
-【AI晶片製造商Cerebras計劃年內啟用歐洲首座資料中心】人工智慧晶片製造商Cerebras Systems當地時間7月9日釋出宣告稱，計劃2027年年底前將其歐洲AI基礎設施的算力總容量擴充套件至200兆瓦，並於今年年內啟用在歐洲的首座資料中心。該公司稱，正為2027年儲備大量資源，計劃在挪威和芬蘭建設資料中心。
-
----
-
-### 2026-07-09 15:19:36  #公司
-
-【阿里第一財季財報前瞻：阿里雲收入增長加速至45%左右超預期 電商利潤恢復】7月9日，記者獲悉，根據市場訊息，阿里巴巴2027財年Q1財報前瞻顯示，阿里雲收入增長加速至45%左右，大超市場預期；整體電商業務利潤恢復，同比持平，好於市場預期；淘寶閃購減虧快於市場預期。阿里雲EBITA margin持續改善，從往季的9.1%左右加速提升至低雙位數，兌現此前指引。（證券時報）
-
----
-
-### 2026-07-09 15:19:24  #Trading Economics #Economy #Czech Republic #Construction Output #Importance 1
-
-Czechia Construction Output Rises 4.4% — Construction output in the Czech Republic increased by 4.4% year-on-year in May 2026, easing from a 7.7% rise in April but extending its expansion to a nineteenth consecutive month. Growth was supported by both major segments, with building construction rising 3.3% and civil engineering works advancing 6.6%. A total of 5,784 building permits were granted, up 11.6% from a year earlier, driven by increases in both new building and civil engineering projects, while the floor area of new building construction surged 74.2%. Meanwhile, housing starts jumped 48.3% to 3,968 units, and completed dwellings rose 13.5% to 2,811 units. On a monthly basis, construction output edged up 0.2% in May, following a 0.6% increase in April.
-
----
-
-### 2026-07-09 15:17:43  #央行 #國際
-
-馬來西亞林吉特<MYR=>在央行按預期維持利率後基本持平，最新成交價為1美元兌4.0760林吉特。
-
----
-
-### 2026-07-09 15:17:40  #公司 #市場
-
-大眾汽車：大眾汽車股份公司監事會與管理董事會今日正在討論計劃的確切細節。
-
----
-
-### 2026-07-09 15:17:21  #Trading Economics #Economy #Czech Republic #Industrial Production #Importance 1
-
-Czech Industrial Output Hits 4-Month High — Industrial production in the Czech Republic increased 2.0% year-on-year in May 2026, marking its strongest growth in four months after a 1.5% rise in April. Manufacturing output accelerated (2.2% vs 1.8% in April), supported by a sharp increase in the manufacture of leather and related products (38.4% vs 1.2%). Other key contributors included the manufacture of wearing apparel (14.7% vs 0.2%), basic pharmaceutical products and preparations (6.0% vs -8.9%), and computer, electronic and optical products (16.7% vs 11.0%). Electricity, gas, steam and air conditioning supply rose further 2.1% from a 0.9% increase in April. Meanwhile, mining and quarrying output continued to contract, though the decline eased to 8.3% from 12.9% in the previous month. On a monthly basis, industrial production fell 0.4% in May 2026, reversing a 1.4% increase in the previous month.
-
----
-
-### 2026-07-09 15:16:48  #公司
-
-【超聲電子：公司沒有研發或生產玻璃基板產品】超聲電子7月9日在互動平臺表示，公司沒有研發或生產玻璃基板產品。
-
----
-
-### 2026-07-09 15:16:40  #其他
-
-大眾汽車：將根據計劃削減過剩產能。
-
----
-
-### 2026-07-09 15:16:06  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 1.66% Higher — The Shangai Composite Index gained 66 points or 1.66 percent on Thursday to close at 4037 points. Gains were led by China Merchants Securities (7.13%), Sanan Optoelectron (5.95%) and Jiangsu Hengrui (2.61%).
-
----
-
-### 2026-07-09 15:15:44  #公司
-
-大眾汽車：公司理解員工希望公開發表觀點，其中也包括透過今日發生的行動表達訴求。
-
----
-
-### 2026-07-09 15:15:02  #市場
-
-【國債期貨收盤】 30年期主力合約跌0.04%， 10年期主力合約跌0.03%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-07-09 15:14:08  #其他
-
-【武漢：颱風過境時，所有專案工地全面停工，非必要不外出】據長江日報，7月11日至14日，受颱風“巴威”登陸影響，武漢市可能遭遇新一輪大風極端天氣。今天（7月9日），武漢市自然資源和城建局印發關於全市房屋建築工程加強防範大風極端天氣工作的緊急通知。通知要求：颱風來臨前，全市專案應暫停所有腳手架搭拆、建築起重機械安拆作業的工作計劃安排。當日風力等級大於5級時，全市所有專案應停止所有腳手架和起重吊裝的高處作業、戶外作業。風力達到6級以上及颱風天氣過境期間(7月11日至14日期間），所有專案工地全面停工：建築外立面、臨牆空間禁止一切非固定設施和物料懸掛堆置，易受風力影響的地面物料堆置應覆壓攔網和壓放重物；所有升降機轎廂、吊籃停放地面固定，吊索吊鉤可靠繫留加固；場地內車輛應保持最小迎風面、整齊停放，採取必要措施地面加固；工地人員非必要不外出，嚴禁一切冒險施工。
 
 ---

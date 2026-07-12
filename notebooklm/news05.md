@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 02:34:05_
-_本檔包含 3188 則快訊，約 628052 字_
+_更新時間：2026-07-13 03:45:54_
+_本檔包含 3192 則快訊，約 627277 字_
+
+---
+
+### 2026-07-07 13:06:03  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the Save America Act, together with full funding for the Department of Defense, is likely to pass quickly and will ensure the United States remains free for generations.
+
+---
+
+### 2026-07-07 13:05:21  #MKT News #SZSE Component #Impact bearish #CSI300 #SSE Composite
+
+China A-share PCB-related stocks weakened in afternoon trade; Shennan Circuits hit the daily limit down, while China Jushi, Xingsen Technology, Baoding Technology and Hongban Technology declined.
+
+---
+
+### 2026-07-07 13:05:10  #市場 #國際
+
+【印度股市連續第五個交易日上漲 銀行股和科技股領漲】印度股市連續第五個交易日小幅上漲，權重股HDFC銀行和Infosys的上漲提振了市場。印度 Nifty 50 指數上漲0.3%至24,490.25， SENSEX 上漲0.3%。儘管油價回落，且市場再次出現復甦跡象，但當地股市卻逆勢上漲，並未受到整個地區普遍拋售的影響。HDFC銀行是NSE Nifty 50指數上漲的主要貢獻個股之一，漲幅達0.9%。該指數的50只成分股中，27只上漲，23只下跌。
+
+---
+
+### 2026-07-07 13:04:46  #其他
+
+【杭州1宗宅地溢價26.68%成交】7月7日，杭州1宗蕭山世紀城核心單元宅地出讓，土地出讓面積34167.00㎡，規劃建築面積95667.60㎡，容積率2.8，起始價36.35億元，起始樓面價38000元/㎡。經過98輪競價，最終保利發展以總價46.05億元競得該地塊，成交樓面價48139元/㎡，溢價率26.68%。
+
+---
+
+### 2026-07-07 13:04:43  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
+
+Japan Leading Economic Index Nears 5-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the months ahead using indicators such as job offers and consumer sentiment, increased to 116.8 in May 2026 from 116.1 in April, but came in slightly below market estimates of 116.9. It was the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, unemployment stood at 2.5% in May, remaining at its lowest level since July 2025, while employment hit a record high, pointing to resilient labor market conditions. Consumer confidence also improved to a three-month high, amid optimism about employment prospects and a growing willingness to buy.
+
+---
+
+### 2026-07-07 13:04:33  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+Trump urged House and Senate leaders to make this a top priority and to ensure $350 billion is sent to the budget committees for review as soon as Congress reconvenes.
+
+---
+
+### 2026-07-07 13:04:24  #公司 #觀點
+
+【橫店資本2億元戰略投資天兵科技】7月3日，橫店集團旗下橫店資本宣佈完成對民營商業火箭企業天兵科技的2億元戰略投資。天兵科技現有股東包含中金資本、中國東方等國家級資本。橫店資本稱，此次投資看好商業航天長期發展與企業技術壁壘，後續將聯動橫店集團內部產業資源，以產業協同賦能火箭研發量產與集團產業升級。橫店資本立足於橫店集團電氣電子、醫藥健康、影視文旅、現代服務四大產業，本次投資也是其佈局商業航天鏈主企業的重要舉措。
+
+---
+
+### 2026-07-07 13:03:23  #MKT News #Important #Commodities #Precious Metals #DXY #Impact bullish #XAUUSD #Impact bearish
+
+Spot silver fell more than 2% intraday to $60.78/oz.
+
+---
+
+### 2026-07-07 13:02:58  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
+
+Japan Coincident Index Hits 6-Year High — Japan's coincident economic index, a key gauge of current economic activity based on indicators such as industrial production, employment, and retail sales, rose to 118.5 in May 2026 from a final 118.1 in April, flash data showed. It was the highest level since May 2019, amid continued resilience in domestic conditions. Private consumption showed signs of strengthening, supported by improving employment and income conditions, while exports and imports were broadly unchanged, reflecting cautious business sentiment amid ongoing geopolitical uncertainties. Fiscal support also remained robust following the approval of a record-high budget for fiscal 2026, marking a second straight year of record spending despite risks stemming from tensions in the Middle East. On the monetary policy front, the Bank of Japan kept its short-term policy rate unchanged at 0.75% in April while raising its inflation outlook, citing higher energy costs and persistent underlying price pressures.
+
+---
+
+### 2026-07-07 13:02:14  #MKT News
+
+U.S. President Trump said Congress must pass Budget Reconciliation Act 3.0 after it reconvenes.
+
+---
+
+### 2026-07-07 13:02:10  #國際
+
+伊朗外交部長表示，只有在威脅停止並尊重簽署協議的情況下，最終協議談判才會開始。
+
+---
+
+### 2026-07-07 13:02:05  #市場
+
+現貨白銀日內跌2%，現報60.76美元/盎司。
+
+---
+
+### 2026-07-07 13:01:39  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian foreign minister Araghchi said if threats persist, negotiations on a final agreement will not start and called on parties to honor their commitments.
+
+---
+
+### 2026-07-07 13:00:58  #MKT News #Market Regions #Japan & APAC
+
+Japan's coincident index preliminary for May was 118.5, up from 118.1 previously.
+
+---
+
+### 2026-07-07 13:00:50  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (May) | actual 118.5 | previous 118.1
+
+---
+
+### 2026-07-07 13:00:49  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan May preliminary Leading Index 116.8, prior 116.1.
+
+---
+
+### 2026-07-07 13:00:46  #市場
+
+【日經225指數日內下跌2%】日經225指數日內下跌2%。科技和晶片相關股領跌，鎧俠股價跌超10%，Lasertec跌超7%。
+
+---
+
+### 2026-07-07 13:00:43  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (May) | actual 116.8 | previous 116.1
+
+---
+
+### 2026-07-07 13:00:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed #Nikkei 225 #Impact bullish
+
+Japan May coincident index preliminary MoM +0.4%; prior +1.3%.
+
+---
+
+### 2026-07-07 13:00:07  #MKT News #Market Regions #Japan & APAC
+
+Japan May leading economic index preliminary MoM +0.7%; prior +0.7%.
+
+---
+
+### 2026-07-07 13:00:01  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (MoM) (May) | actual 0.4% | previous 1.3%
+
+---
+
+### 2026-07-07 13:00:00  #國際
+
+特朗普：國會復會時，我們必須透過3.0版和解法案，包含3500億美元國防撥款，外加《拯救美國法案》！呼籲眾議院和參議院領導層將此作為首要任務，確保在國會復會後，儘快將第三階段經濟刺激方案中的3500億美元從預算委員會撥出。
+
+---
+
+### 2026-07-07 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (MoM) (May) | actual 0.7% | previous 0.7%
+
+---
+
+### 2026-07-07 12:59:34  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the U.S. military has never been stronger or more formidable and that no other country can match it.
+
+---
+
+### 2026-07-07 12:58:10  #其他
+
+【西班牙多地山火蔓延加泰羅尼亞地區逾4萬人受影響】受持續熱浪影響，5日至6日，西班牙發生多起山火併蔓延，其中加泰羅尼亞自治區逾4萬人受影響。 據西班牙媒體報道，加泰羅尼亞自治區6日下午同時發生多起較大山火，其中巴塞羅那省兩處山火一度失控，共導致超過4萬人就地避險；列伊達省塞格雷河畔阿爾特薩附近的火災已於當晚得到控制。加泰羅尼亞自治區民防部門已在多個地區啟動最高階別森林火險預警。
+
+---
+
+### 2026-07-07 12:55:37  #公司
+
+伯恩斯坦首次覆蓋太空探索技術公司（ SPACEX  ）股票，給予跑贏大盤評級，目標價為239美元。
 
 ---
 
@@ -19117,137 +19273,5 @@ WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl.
 ### 2026-07-06 03:51:13  #國際
 
 【禁賽暫緩執行 美國隊巴洛貢將出戰世界盃16強賽】國際足聯5日宣佈，對在與波黑隊比賽中被紅牌罰下的美國隊球員福拉林·巴洛貢作出禁賽一場處罰，並暫緩一年執行。這使得這位美國隊頭號射手得以出戰與比利時隊的世界盃16強賽。（新華社）
-
----
-
-### 2026-07-06 03:45:14  #國際
-
-特朗普：露天集會當晚七點零五分到場約42萬人，因雷擊天氣疏散人群。叫停了取消活動的安排，等待民眾折返，最終至少15萬人重回現場。
-
----
-
-### 2026-07-06 03:43:50  #MKT News
-
-【Iran judiciary chief says US, Israel seek talks from defeat; will hold assassination suspects to account】Iran judiciary chief Mohseni-Eje'i said the US and Israel have committed unforgivable crimes in their campaign against Iran. He accused Washington of taking the initiative to seek talks with Tehran and said Israel, driven into a corner, proposed a ceasefire. Mohseni-Eje'i added Iran will hold the US and those responsible for the assassination of former Supreme Leader Khamenei to account and will not relent.
-
----
-
-### 2026-07-06 03:42:39  #MKT News
-
-【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians.
-
----
-
-### 2026-07-06 03:37:25  #國際
-
-【伊朗司法總監：美以求和源於潰敗 刺殺高層罪責必清算】伊朗司法總監穆赫辛尼·埃傑伊表示，美國與以色列在針對伊朗的戰事中犯下的種種罪行永難饒恕；他稱美方主動尋求與德黑蘭談判，以色列則是走投無路才提出停火。他稱：“他們如今迫於絕境，才跑來提議談判、呼籲停火。是誰主動要求談判？是美國。是誰主動要求停火？是以色列。”埃傑伊還補充，伊朗必將追究美國以及刺殺前最高領袖哈梅內伊相關責任人的罪責，對此絕不退讓。
-
----
-
-### 2026-07-06 03:35:26  #MKT News
-
-Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing.
-
----
-
-### 2026-07-06 03:33:12  #其他
-
-中國地震臺網正式測定：07月06日03時23分在新疆喀什地區伽師縣（北緯39.45度，東經77.49度）發生3.0級地震，震源深度26千米。
-
----
-
-### 2026-07-06 03:29:56  #公司 #國際
-
-特朗普在真相社交平臺上誇讚Pyrotecnico煙花公司的煙花表演。
-
----
-
-### 2026-07-06 03:07:43  #其他
-
-英國GB新聞將裁員超三分之一員工。
-
----
-
-### 2026-07-06 03:05:54  #國際
-
-烏克蘭總統澤連斯基：情報再次顯示俄羅斯正準備發起新一輪大規模打擊。
-
----
-
-### 2026-07-06 03:03:34  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
-
-Reuters survey: 22 of 28 economists expect the RBNZ to raise the policy rate 25bps to 2.50% on July 8.
-
----
-
-### 2026-07-06 03:02:00  #MKT News #DXY #Impact bearish
-
-Reuters survey: After the July monetary policy meeting, 14 of 26 economists expect the RBNZ to raise rates by a further 25bps before end-September, taking the terminal policy rate to 2.75%.
-
----
-
-### 2026-07-06 03:00:58  #MKT News
-
-【Wildfire in southern France spreads; about 10,000 ordered to evacuate】Authorities in France's Pyrénées-Orientales said a wildfire continued to spread, prompting evacuation orders affecting about 10,000 people. Officials said the blaze in the Trévillach area has burned roughly 1,650 hectares and is threatening the town of Bouleternère. Organizers said Stage 3 of the Tour de France on the 6th will go ahead with a modified route and no spectators allowed.
-
----
-
-### 2026-07-06 03:00:47  #央行
-
-路透調查：七月貨幣政策會議後，26位經濟學家中有14位預計紐西蘭聯儲將在九月底前再加息25個基點，最終利率達到2.75%。
-
----
-
-### 2026-07-06 03:00:42  #其他
-
-【法國南部山火持續蔓延 約1萬人被要求撤離】當地時間7月5日，法國東比利牛斯省政府表示，隨著當地山火繼續蔓延，臨近市鎮開始疏散居民。目前，受撤離措施影響的人數約1萬人。當天東比利牛斯省省長德拉莫特表示，該省特雷維拉克地區山火過火面積已擴大至約1650公頃，並正威脅布勒泰內爾市鎮。受山火持續蔓延影響，6日即將舉行的環法腳踏車賽第三賽段將按計劃進行，但賽段將作出調整，並禁止公眾現場觀賽。（央視新聞）
-
----
-
-### 2026-07-06 03:00:30  #資料 #央行
-
-路透調查：28位經濟學家中有22位認為，紐西蘭聯儲將於7月8日將現金利率上調25個基點至2.50%。
-
----
-
-### 2026-07-06 02:48:04  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukraine President Zelenskiy said intelligence again indicates Russia is preparing a new large-scale strike and urged people to stay safe and heed air-raid alerts.
-
----
-
-### 2026-07-06 02:45:07  #MKT News
-
-【Trump to meet Ukrainian and Syrian leaders at NATO summit】A senior U.S. official said Trump will arrive Tuesday for the NATO summit. His first meeting will be with summit host Turkish president Erdogan. The White House said he will also meet Syrian president Shala and hold a press conference. Trump will meet Ukrainian president Zelenskiy on Wednesday to discuss ending the Russia-Ukraine war; the official said the battlefield has largely reached a stalemate and the president intends to push for a ceasefire as soon as possible. The official added Trump will urge NATO allies to increase defence spending.
-
----
-
-### 2026-07-06 02:43:55  #MKT News
-
-【About 20 jewels stolen from French museum; losses could reach several million euros】On July 5 local time the Lalique Museum in Bas-Rhin, eastern France, was robbed; about 20 jewellery pieces were taken and preliminary losses are estimated at several million euros. Investigators said the theft occurred around 0600. The museum alarm was triggered and a cleaner who arrived first called police. Officers found at least six display cases smashed and suspects had fled. Police are reviewing CCTV footage. The museum has been closed temporarily. The Lalique Museum, opened in 2011, houses glass art and jewellery by René Lalique.
-
----
-
-### 2026-07-06 02:43:35  #其他 #焦點
-
-【法國一博物館約20件珠寶被盜 損失或達數百萬歐元】當地時間7月5日，法國東部下萊茵省萊儷博物館遭遇盜竊，約20件館藏珠寶被盜，初步估計損失達數百萬歐元。調查人員表示，案件發生於當天6時左右。博物館警報系統曾被觸發，一名最先抵達現場的保潔人員隨後報警。警方到場後發現至少6個展櫃被砸毀，嫌疑人已逃離現場。目前，警方正調取監控錄影展開調查。博物館已宣佈臨時閉館。萊儷博物館於2011年開放，收藏法國著名玻璃藝術家、珠寶設計師勒內·萊儷創作的玻璃藝術及珠寶作品。
-
----
-
-### 2026-07-06 02:35:47  #MKT News #WTI #Impact bullish #XAUUSD
-
-Iranian parliament speaker Ghalibaf said he is first a warrior and only then a diplomat, and that Tehran must conduct negotiations while maintaining "combat readiness".
-
----
-
-### 2026-07-06 02:35:11  #MKT News
-
-Ghalibaf said hostile forces now recognize that Iran's participation is indispensable for achieving peace and stability in Lebanon and the broader Middle East.
-
----
-
-### 2026-07-06 02:35:01  #MKT News #Market Themes #Chip Wars #XAUUSD #Impact bullish #Nasdaq100 #S&P500
-
-【ETF margin balances continue to rise; leveraged funds balance offense and defense】ETF margin financing accelerated in June as A-share turnover picked up. Wind data show ETF margin balances on the Shanghai and Shenzhen markets reached 116.09 bln yuan as of June 30, up 5.26 bln yuan from end‑May. Semiconductor and telecom thematic ETFs were the main recipients of new leverage, while gold ETF financing remains the largest single exposure, suggesting leveraged investors are adding growth bets while keeping hedge positions.
 
 ---

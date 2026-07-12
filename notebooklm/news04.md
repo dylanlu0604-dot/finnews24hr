@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 02:34:05_
-_本檔包含 3410 則快訊，約 628072 字_
+_更新時間：2026-07-13 03:45:54_
+_本檔包含 3397 則快訊，約 627410 字_
+
+---
+
+### 2026-07-08 14:55:02  #公司
+
+【五大快遞巨頭退出蜂網投資】工商登記資訊顯示，蜂網投資有限公司發生工商變更，上海韻達貨運有限公司、上海圓通蛟龍投資發展（集團）有限公司、申通快遞有限公司退出股東行列。蜂網投資是2013年由圓通、韻達、中通、申通及順豐五家快遞企業各持股20%共同出資設立，定位為整合快遞上下游產業鏈的投資平臺。企查查資訊顯示，上個月順豐和中通已經退出股東行列。目前公司股東是由自然人持股的一家上海公司。（第一財經）
+
+---
+
+### 2026-07-08 14:54:50  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時縮量260億元。
+
+---
+
+### 2026-07-08 14:54:35  #國際
+
+【烏克蘭防空火力攔截俄軍彈道導彈再次脫靶 澤連斯基借北約峰會緊急索要“愛國者”系統】烏克蘭軍方週三證實，在防空部隊應對俄軍新一輪徹夜空襲中，未能成功攔截任何一枚俄方發射的彈道導彈。這是烏方防空火力本週內第二次對俄軍彈道導彈攔截脫靶。鑑於防空攔截彈藥出現嚴重短缺，烏克蘭總統澤連斯基在土耳其安卡拉舉行的北約峰會期間，正緊急敦促西方盟友向烏方追加提供“愛國者”防空導彈防禦系統。根據烏克蘭空軍釋出的戰報，俄軍在當晚的聯合空襲中，共向烏方目標發射了5枚彈道導彈、2枚反輻射導彈，並密集出動了169架次無人機。儘管烏方實施了防空交戰，但5枚彈道導彈最終全部突破烏軍防空網。由於基輔方面目前正面臨極為嚴峻的“愛國者”防空攔截彈藥枯竭危機，這直接導致其難以有效抵禦俄軍的高烈度空中打擊——烏克蘭總統弗拉基米爾·澤連斯基在今天土耳其安卡拉舉行的北約峰會前夕一直強調這一點。
+
+---
+
+### 2026-07-08 14:54:26  #公司 #市場
+
+【納指年內漲18%後漲勢熄火？預測平臺多空博弈五五開】納斯達克100指數在2026年已上漲約18%，但預測市場平臺 Kalshi 上的交易員認為該指數在2026年下半年不會再走高太多。投機者認為，這一科技股權重很高的指數在2026年收盤突破30000點的機率大約是五五開(50對50)，這一關口是該指數在5月下旬首次跨越的。截至週二盤中交易，該指數僅比30000點低1%左右。在 Kalshi 上，合約要求投機者進行“是”或“否”的交易，以此支援或反對納斯達克100指數年底是否會落在某個特定的點數區間內。該合約將根據谷歌提供的12月31日該指數的價格進行結算。
+
+---
+
+### 2026-07-08 14:53:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Two oil tankers damaged in drone attack in Russia's Rostov region】Rostov region governor said on social media the region was hit by a large-scale drone attack in the early hours of the 8th, damaging two oil tankers bound for Rostov-on-Don in Taganrog Bay and leaving two people lightly injured. The governor warned of an ongoing drone threat and urged residents to stay indoors and away from windows.
+
+---
+
+### 2026-07-08 14:53:29  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran foreign ministry says US flagrantly breached interim ceasefire】Iran's foreign ministry said the US flagrantly breached an interim ceasefire by striking multiple monitoring and surveillance centres on Iran's southern coast, revoking a US Treasury licence for Iranian oil sales last night, and violating Iran's arrangements in the Strait of Hormuz. It said repeated illegal attacks on Iran, together with Israeli military action in Lebanon, are nullifying the ceasefire and warned the US bears responsibility for the dangerous escalation. The ministry urged all states, especially Gulf littoral neighbours, to prevent their territory or facilities being used to attack Iran, warned that assisting such attacks would constitute complicity, and said Iran's armed forces will defend its territorial integrity, sovereignty and security and repel aggression.
+
+---
+
+### 2026-07-08 14:53:20  #宏觀 #國際
+
+【伊朗外交部：譴責美國對臨時停戰協議的公然違反】伊朗外交部發布宣告，譴責美國“公然違反”雙方達成的初步停戰協議。伊朗外交部稱，美對伊朗南部海岸的多個監測和監視中心發動的軍事襲擊，公然違反了停戰解備忘錄的第一條，該條款規定應停止軍事行動。針對伊朗的屢次非法襲擊，加上美國財政部昨晚決定撤銷伊朗石油銷售許可證，以及違反伊朗在霍爾木茲海峽的安排，還有以色列政權對黎巴嫩持續的軍事行動，正在使停火協議失效。此次局勢升級所造成的危險後果，責任在於背信棄義的美國政權。外交部強調，所有國家，特別是波斯灣南岸的鄰國，負有國際法義務，必須防止侵略方利用其領土和設施對伊朗實施侵略行為，並重申，任何協助實施針對伊朗的侵略罪行的行為，均構成對該罪行的共謀和參與。外交部強烈譴責美國一再發動侵略性襲擊和違反條約的行為，強調伊朗強大的武裝力量將一如既往地捍衛伊朗的領土完整、國家主權和國家安全，並會抵禦侵略。
+
+---
+
+### 2026-07-08 14:53:12  #MKT News
+
+Zhonggong Education shares closed at the daily down-limit late in the session, with turnover exceeding CNY1.0 bln, after the CSRC opened a formal investigation into a person surnamed An for fabricating and disseminating false information about the company.
+
+---
+
+### 2026-07-08 14:53:07  #市場
+
+中公教育尾盤跌停，成交額超10億元。
+
+---
+
+### 2026-07-08 14:53:01  #其他
+
+緯創：6月銷售額3,218.2億元臺幣。
+
+---
+
+### 2026-07-08 14:52:53  #公司
+
+月球航天公司ispace將藉助SpaceX運載艙開展月球運輸業務。
+
+---
+
+### 2026-07-08 14:52:44  #國際
+
+【俄羅斯兩艘油輪遭無人機襲擊受損】俄羅斯西南部羅斯托夫州州長斯柳薩里8日在社交媒體平臺發文說，該州當天凌晨遭遇大規模無人機襲擊，導致兩艘油輪船體受損，兩人受輕傷。斯柳薩里表示，兩艘前往頓河畔羅斯托夫的油輪在塔甘羅格灣遭無人機襲擊，目前羅斯托夫州仍面臨無人機威脅，居民應留在室內並遠離窗戶。俄羅斯國防部8日在社交媒體上說，莫斯科時間7日晚8時至8日早8時，俄防空系統在多地攔截並摧毀415架無人機。俄武裝部隊8日凌晨對烏克蘭軍工設施實施打擊，擊中烏一家導彈零部件生產企業和一個無人機組裝車間。（新華社）
+
+---
+
+### 2026-07-08 14:52:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Analyst: Oil producers' window to monetize Middle East price spike is brief】Longode Bank analyst Robin Haworth says the window for oil companies to capitalize on higher prices linked to the Middle East conflict is very short. Major oil and gas stocks have not rerated significantly as investors view elevated profits as temporary. Haworth warns oil may be capped around $100/bbl, leaving limited upside. He sees opportunities in oilfield services to repair conflict damage. Structural capacity declines and Ukrainian strikes on Russian refineries are supporting refining margins, but as output and prices normalize he prefers financials, utilities and healthcare for more attractive opportunities.
 
 ---
 
@@ -20383,161 +20461,5 @@ MSCI亞太指數下跌2%至270.00點。
 ### 2026-07-07 13:06:47  #公司 #市場 #國際
 
 【韓國Kospi指數下跌8% 股市暫停交易20分鐘】據韓國交易所，Kospi指數下跌超過8%，於當地時間下午1點51分觸發熔斷機制。交易將暫停20分鐘。三星和SK海力士股價均下跌超過10%。外國投資者賣出價值3.3萬億韓元（21.7億美元）的Kospi股票，而散戶投資者則買入了數額相近的股票。“我認為盈利表現強勁，但股價反應看起來像是典型的‘賣事實’行為，”Eugene Asset Management首席投資官Ha SeokKeun表示，“這種模式在韓國相當常見，因為市場預期在公告發布前就已經被消化了。所以我認為現在還不至於是根本性的負面走勢。”注：自2000年以來，韓國交易所已對Kospi指數啟動了12次熔斷，其中6次是在2026年發生的。
-
----
-
-### 2026-07-07 13:06:03  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the Save America Act, together with full funding for the Department of Defense, is likely to pass quickly and will ensure the United States remains free for generations.
-
----
-
-### 2026-07-07 13:05:21  #MKT News #SZSE Component #Impact bearish #CSI300 #SSE Composite
-
-China A-share PCB-related stocks weakened in afternoon trade; Shennan Circuits hit the daily limit down, while China Jushi, Xingsen Technology, Baoding Technology and Hongban Technology declined.
-
----
-
-### 2026-07-07 13:05:10  #市場 #國際
-
-【印度股市連續第五個交易日上漲 銀行股和科技股領漲】印度股市連續第五個交易日小幅上漲，權重股HDFC銀行和Infosys的上漲提振了市場。印度 Nifty 50 指數上漲0.3%至24,490.25， SENSEX 上漲0.3%。儘管油價回落，且市場再次出現復甦跡象，但當地股市卻逆勢上漲，並未受到整個地區普遍拋售的影響。HDFC銀行是NSE Nifty 50指數上漲的主要貢獻個股之一，漲幅達0.9%。該指數的50只成分股中，27只上漲，23只下跌。
-
----
-
-### 2026-07-07 13:04:46  #其他
-
-【杭州1宗宅地溢價26.68%成交】7月7日，杭州1宗蕭山世紀城核心單元宅地出讓，土地出讓面積34167.00㎡，規劃建築面積95667.60㎡，容積率2.8，起始價36.35億元，起始樓面價38000元/㎡。經過98輪競價，最終保利發展以總價46.05億元競得該地塊，成交樓面價48139元/㎡，溢價率26.68%。
-
----
-
-### 2026-07-07 13:04:43  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
-
-Japan Leading Economic Index Nears 5-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the months ahead using indicators such as job offers and consumer sentiment, increased to 116.8 in May 2026 from 116.1 in April, but came in slightly below market estimates of 116.9. It was the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, unemployment stood at 2.5% in May, remaining at its lowest level since July 2025, while employment hit a record high, pointing to resilient labor market conditions. Consumer confidence also improved to a three-month high, amid optimism about employment prospects and a growing willingness to buy.
-
----
-
-### 2026-07-07 13:04:33  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #US10Y #Impact bearish #XAUUSD
-
-Trump urged House and Senate leaders to make this a top priority and to ensure $350 billion is sent to the budget committees for review as soon as Congress reconvenes.
-
----
-
-### 2026-07-07 13:04:24  #公司 #觀點
-
-【橫店資本2億元戰略投資天兵科技】7月3日，橫店集團旗下橫店資本宣佈完成對民營商業火箭企業天兵科技的2億元戰略投資。天兵科技現有股東包含中金資本、中國東方等國家級資本。橫店資本稱，此次投資看好商業航天長期發展與企業技術壁壘，後續將聯動橫店集團內部產業資源，以產業協同賦能火箭研發量產與集團產業升級。橫店資本立足於橫店集團電氣電子、醫藥健康、影視文旅、現代服務四大產業，本次投資也是其佈局商業航天鏈主企業的重要舉措。
-
----
-
-### 2026-07-07 13:03:23  #MKT News #Important #Commodities #Precious Metals #DXY #Impact bullish #XAUUSD #Impact bearish
-
-Spot silver fell more than 2% intraday to $60.78/oz.
-
----
-
-### 2026-07-07 13:02:58  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
-
-Japan Coincident Index Hits 6-Year High — Japan's coincident economic index, a key gauge of current economic activity based on indicators such as industrial production, employment, and retail sales, rose to 118.5 in May 2026 from a final 118.1 in April, flash data showed. It was the highest level since May 2019, amid continued resilience in domestic conditions. Private consumption showed signs of strengthening, supported by improving employment and income conditions, while exports and imports were broadly unchanged, reflecting cautious business sentiment amid ongoing geopolitical uncertainties. Fiscal support also remained robust following the approval of a record-high budget for fiscal 2026, marking a second straight year of record spending despite risks stemming from tensions in the Middle East. On the monetary policy front, the Bank of Japan kept its short-term policy rate unchanged at 0.75% in April while raising its inflation outlook, citing higher energy costs and persistent underlying price pressures.
-
----
-
-### 2026-07-07 13:02:14  #MKT News
-
-U.S. President Trump said Congress must pass Budget Reconciliation Act 3.0 after it reconvenes.
-
----
-
-### 2026-07-07 13:02:10  #國際
-
-伊朗外交部長表示，只有在威脅停止並尊重簽署協議的情況下，最終協議談判才會開始。
-
----
-
-### 2026-07-07 13:02:05  #市場
-
-現貨白銀日內跌2%，現報60.76美元/盎司。
-
----
-
-### 2026-07-07 13:01:39  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian foreign minister Araghchi said if threats persist, negotiations on a final agreement will not start and called on parties to honor their commitments.
-
----
-
-### 2026-07-07 13:00:58  #MKT News #Market Regions #Japan & APAC
-
-Japan's coincident index preliminary for May was 118.5, up from 118.1 previously.
-
----
-
-### 2026-07-07 13:00:50  #MKT News #Economic Calendar #Important
-
-Japan | Coincident Index Flash (May) | actual 118.5 | previous 118.1
-
----
-
-### 2026-07-07 13:00:49  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan May preliminary Leading Index 116.8, prior 116.1.
-
----
-
-### 2026-07-07 13:00:46  #市場
-
-【日經225指數日內下跌2%】日經225指數日內下跌2%。科技和晶片相關股領跌，鎧俠股價跌超10%，Lasertec跌超7%。
-
----
-
-### 2026-07-07 13:00:43  #MKT News #Economic Calendar #Important
-
-Japan | Leading Index Flash (May) | actual 116.8 | previous 116.1
-
----
-
-### 2026-07-07 13:00:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed #Nikkei 225 #Impact bullish
-
-Japan May coincident index preliminary MoM +0.4%; prior +1.3%.
-
----
-
-### 2026-07-07 13:00:07  #MKT News #Market Regions #Japan & APAC
-
-Japan May leading economic index preliminary MoM +0.7%; prior +0.7%.
-
----
-
-### 2026-07-07 13:00:01  #MKT News #Economic Calendar #Important
-
-Japan | Coincident Index Flash (MoM) (May) | actual 0.4% | previous 1.3%
-
----
-
-### 2026-07-07 13:00:00  #國際
-
-特朗普：國會復會時，我們必須透過3.0版和解法案，包含3500億美元國防撥款，外加《拯救美國法案》！呼籲眾議院和參議院領導層將此作為首要任務，確保在國會復會後，儘快將第三階段經濟刺激方案中的3500億美元從預算委員會撥出。
-
----
-
-### 2026-07-07 13:00:00  #MKT News #Economic Calendar #Important
-
-Japan | Leading Index Flash (MoM) (May) | actual 0.7% | previous 0.7%
-
----
-
-### 2026-07-07 12:59:34  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the U.S. military has never been stronger or more formidable and that no other country can match it.
-
----
-
-### 2026-07-07 12:58:10  #其他
-
-【西班牙多地山火蔓延加泰羅尼亞地區逾4萬人受影響】受持續熱浪影響，5日至6日，西班牙發生多起山火併蔓延，其中加泰羅尼亞自治區逾4萬人受影響。 據西班牙媒體報道，加泰羅尼亞自治區6日下午同時發生多起較大山火，其中巴塞羅那省兩處山火一度失控，共導致超過4萬人就地避險；列伊達省塞格雷河畔阿爾特薩附近的火災已於當晚得到控制。加泰羅尼亞自治區民防部門已在多個地區啟動最高階別森林火險預警。
-
----
-
-### 2026-07-07 12:55:37  #公司
-
-伯恩斯坦首次覆蓋太空探索技術公司（ SPACEX  ）股票，給予跑贏大盤評級，目標價為239美元。
 
 ---

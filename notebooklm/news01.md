@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-13 02:34:05_
-_本檔包含 3168 則快訊，約 628288 字_
+_更新時間：2026-07-13 03:45:54_
+_本檔包含 3171 則快訊，約 627682 字_
+
+---
+
+### 2026-07-13 03:42:49  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+The UAE Foreign Ministry strongly condemned aggressive attacks on Kuwaiti border posts and offshore oil platforms.
+
+---
+
+### 2026-07-13 03:41:22  #國際
+
+特朗普明日將參加印地賽車大獎賽展示活動。
+
+---
+
+### 2026-07-13 03:36:21  #國際
+
+伊朗外長：伊朗支援黎巴嫩主權，要求結束以色列佔領。
+
+---
+
+### 2026-07-13 03:31:38  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【Why lower oil prices have not yet reduced inflation】Falling crude has not produced equivalent drops in consumer fuel costs because refined-product supplies—not crude—are tight. The 3-2-1 crack spread has jumped to a record $65/bbl, implying refiners can buy crude at roughly $71/bbl and sell finished products valued around $136. The gap reflects refinery feed shortages—firms running cautious inventories and disruptions around the Strait of Hormuz, where refiners account for over 10% of global product output—rather than raw crude scarcity. Market models that tie consumer fuel costs directly to crude risk understating near-term energy inflation. Diesel remains elevated, keeping transport costs high and sustaining upward pressure on other consumer prices; the price gap has also attracted political attention, with Trump threatening action against oil companies.
+
+---
+
+### 2026-07-13 03:30:27  #市場
+
+悉尼早盤交易中，美元兌G10貨幣走強。
+
+---
+
+### 2026-07-13 03:30:02  #MKT News
+
+Jorge Rodríguez, president of Venezuela’s National Assembly, said the earthquake death toll has risen to 4,490.
+
+---
+
+### 2026-07-13 03:28:17  #國際
+
+【美國司法部調查針對全美汽車工人聯合會主席肖恩·費恩的多項指控】美國司法部已啟動大陪審團調查，指控全美汽車工人聯合會主席施壓另一名工會高層，為其未婚妻及未婚妻的妹妹謀取福利。聯邦大陪審團已向法院指派的工會監察官發出傳票，以此調查針對工會主席肖恩·費恩的相關指控。費恩在宣告中稱相關指控純屬捏造，並指責工會副主席裡奇·博耶企圖干預即將到來的全美汽車工人聯合會選舉。
+
+---
+
+### 2026-07-13 03:26:15  #國際
+
+美國司法部正對全美汽車工人聯合會主席肖恩·費恩的指控展開調查。
+
+---
+
+### 2026-07-13 03:24:53  #其他
+
+【委內瑞拉強震遇難人數上升至4490人】當地時間12日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國日前發生的強震造成的遇難人數上升至4490人，受傷人數累計為16740人。此外，120794個家庭被救助，強震過後發生餘震1222次。
+
+---
+
+### 2026-07-13 03:18:09  #國際
+
+以色列媒體：以色列官方目前研判伊朗不會主動襲擊以色列；以方認為，此類行動會讓衝突重回高強度交戰狀態，局勢存在徹底失控升級的風險。
+
+---
+
+### 2026-07-13 03:17:49  #國際
+
+以色列媒體：某西方情報機構向美國發出預警，稱伊朗計劃在土耳其境內刺殺特朗普，美方因此臨時更換了專機。伊朗高層將特朗普此次出訪視作一次難得的下手機會，而情報機構提前向美方通報了這一風險。
+
+---
+
+### 2026-07-13 03:16:11  #其他
+
+曼谷一家酒吧發生火災，造成至少27人死亡。
+
+---
+
+### 2026-07-13 03:15:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's foreign ministry reiterated that, in the face of ongoing US and Israeli aggression, Yemen will continue to support Iran.
+
+---
+
+### 2026-07-13 02:58:37  #其他
+
+市場資訊：西班牙批准80億美元住房計劃，未來四年公共住房投資將提高三倍。
+
+---
+
+### 2026-07-13 02:58:26  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+【Spain approves $8 billion housing plan; public housing investment to triple over four years】Spain has approved an $8 billion housing plan that will triple government investment in public housing over the next four years to address a worsening housing shortage. The shortfall, which has left many Spaniards unable to buy or afford rentals, is being driven by rising immigration, record tourism and rapid growth in short-term rental platforms such as Airbnb; Spain expects to receive more than 100 million tourists this year. Increased tourist demand and short-term lets have tightened housing supply, forcing some residents into campervans or mobile homes.
+
+---
+
+### 2026-07-13 02:48:42  #國際
+
+法國總統馬克龍將於7月13日星期一會見“意願聯盟”各國領導人。屆時將有至少25位國家元首和政府首腦齊聚一堂，討論對烏克蘭的支援問題。
+
+---
+
+### 2026-07-13 02:40:26  #國際
+
+美國國防部表示，最新一輪打擊行動是針對伊朗襲擊霍爾木茲海峽民用集裝箱船隻一事展開的直接報復。
 
 ---
 
@@ -19175,89 +19277,5 @@ USD/JPY little changed in short-term trade, trading at 161.66.
 ### 2026-07-10 16:33:46  #MKT News #XAUUSD #Impact bullish #Brent #DXY
 
 Israel Defense Forces (IDF) said it recently destroyed five Hamas tunnels totaling about 2 km in northern Gaza on the Israeli side of the ceasefire line.
-
----
-
-### 2026-07-10 16:33:29  #公司
-
-【三孚股份：2026年上半年淨利潤預增191.22% - 222.43%】三孚股份公告稱，2026年上半年，公司預計實現歸屬於上市公司股東的淨利潤1.12億元 - 1.24億元，同比增加7354.16萬元 - 8554.16萬元，增幅為191.22% - 222.43%；扣非淨利潤為1.081億元 - 1.201億元，同比增加7474.91萬元 - 8674.91萬元，增幅為224.13% - 260.11%。業績預增主要因各產品穩定執行，迴圈經濟產業一體化執行、產能釋放及市場開拓等提升了綜合盈利能力。
-
----
-
-### 2026-07-10 16:33:23  #公司
-
-【創世紀：因未及時披露重大訴訟進展 公司及兩人被出具警示函】創世紀公告稱，公司近日收到廣東證監局下發的警示函，因2025年12月全資子公司深圳創世紀專利侵權二審被判賠償3.82億元，未按期履行賠償義務致賬戶被凍結、資金被劃扣，公司未及時披露相關情況，且未在2025年年報披露執行情況。公司董事長夏軍、董事會秘書伍永兵對違規行為負主要責任。公司應30日內完成整改並報送報告，已就案件申請再審。
-
----
-
-### 2026-07-10 16:33:15  #其他
-
-【國家海洋預報臺7月10日16時釋出風暴潮橙色警報】國家海洋預報臺7月10日16時釋出風暴潮橙色警報。
-
----
-
-### 2026-07-10 16:32:42  #公司 #市場
-
-【時代萬恆：2026年上半年預計淨虧損1150萬元-1400萬元】時代萬恆公告稱，經初步測算，2026年1月1日至6月30日，公司歸屬於母公司所有者的淨利潤為-1400萬元到-1150萬元，上年同期為423.32萬元；扣除非經常性損益後的淨利潤為-1500萬元到-1250萬元，上年同期為281.85萬元。業績預虧主因是鋰電池業務毛利率大幅下降，一方面下調銷售單價，另一方面原材料價格上漲致成本增加。
-
----
-
-### 2026-07-10 16:32:37  #公司
-
-【上海滬工：擬登出全資孫公司南昌誠航工業】上海滬工公告稱，公司於2026年7月10日召開董事會，審議透過登出全資孫公司南昌誠航工業的議案。該公司成立於2019年2月，註冊資本3億元，2026年3月31日總資產1.12億元、淨資產1.04億元，2026年1 - 3月營收155.85萬元、淨虧損303.25萬元。鑑於公司2025年12月終止相關募投專案，為降本增效，擬登出該公司。登出後合併報表範圍減少，但對公司無實質影響。
-
----
-
-### 2026-07-10 16:32:33  #MKT News
-
-【14 Japanese institutions form consortium to scale up sodium‑ion batteries】According to Yomiuri, 14 Japanese universities, companies and research institutes have formed a consortium to accelerate mass production and commercialization of sodium‑ion batteries. The group plans a roughly ¥760 million budget to develop mass‑production technology for stationary energy‑storage batteries aimed at utilities and energy firms. Tokyo University of Science said sodium‑ion chemistry has been validated at lab scale and the project is intended to advance it to practical application. Sodium‑ion batteries do not use rare metals, a strategic advantage given Japan’s constrained access to key minerals. The consortium says production processes are similar to ternary lithium‑ion cells, allowing sodium‑ion cells to share existing production lines and potentially speed adoption once mass‑production techniques are established. Yomiuri also noted about one in four new cars sold globally is electric, supporting rising storage‑battery demand, while separate Japanese efforts to commercialize solid‑state lithium‑ion batteries continue to advance.
-
----
-
-### 2026-07-10 16:32:32  #其他
-
-【中汽協：上半年我國汽車行業執行總體平穩】據中國汽車工業協會分析，上半年，我國汽車行業執行總體平穩，產銷累計降幅逐月收窄。市場流向主要呈現出三個分化：一是內需承壓明顯，銷量兩位數下降；出口超預期增長，形成穩定支撐。二是乘用車市場表現欠佳，出現小幅下滑；商用車市場延續向好態勢，銷量保持增長。三是產業新舊動能持續轉換，傳統燃油車市場進一步萎縮，新能源汽車穩定增長。
-
----
-
-### 2026-07-10 16:32:22  #公司
-
-【新巨豐：為子公司1.5億元綜合授信額度債務提供擔保】新巨豐公告稱，公司近日和中國銀行新泰支行簽署《最高額保證合同》，為全資子公司泰東包裝1.5億元綜合授信額度內的債務提供連帶責任保證。截至公告披露日，公司及子公司對外擔保總額54.84億元，實際提供擔保總餘額19.81億元，佔公司最近一期經審計淨資產的75.44%。公司目前無逾期及違規擔保情況。
-
----
-
-### 2026-07-10 16:32:21  #MKT News #Market Regions #Greater China
-
-Onshore RMB closed at 6.7784 per USD at 16:30 on July 10, up 151 pips versus the previous trading day.
-
----
-
-### 2026-07-10 16:32:16  #市場
-
-在岸人民幣兌美元7月10日16:30收盤報6.7784，較上一交易日上漲151點。
-
----
-
-### 2026-07-10 16:31:59  #宏觀 #市場
-
-【財政部擬第二次續發行2026年超長期特別國債（四期）】據財政部訊息，財政部擬第二次續發行2026年超長期特別國債（四期）。本次續發行國債為30年期固定利率附息債。本次續發行國債競爭性招標面值總額800億元，不進行甲類成員追加投標。招標時間為2026年7月15日上午10:35至11:35。招標結束至2026年7月16日進行分銷，7月20日起與之前發行的同期國債合併上市交易。
-
----
-
-### 2026-07-10 16:31:29  #公司
-
-【江蘇新能：預計2026年上半年淨利潤同比減少53%】江蘇新能公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.33億元左右，與上年同期相比，將減少1.49億元左右，同比減少53%左右。報告期內江蘇省內風資源同比偏弱，疊加限電率提高及電價小幅下行的不利影響，公司營業收入同比減少。由於行業稅收政策調整，陸上風電專案自2025年11月起不再享受增值稅即徵即退50%的優惠政策。
-
----
-
-### 2026-07-10 16:31:26  #央行 #日本央行
-
-【日本央行計劃在7月維持利率不變】日本央行計劃在7月維持利率不變，但將維持政策指引，承諾繼續推進加息程序。
-
----
-
-### 2026-07-10 16:31:14  #公司 #國際
-
-【錫裝股份：為韓國全資子公司提供1.13億元擔保額度】錫裝股份公告稱，公司第四屆董事會第二十三次會議審議透過為韓國全資子公司提供擔保的議案。公司作為履約保證人向其客戶提供母公司連帶責任保證，並利用自有銀行授信額度為其申請開立分離式保函，包括合同金額10%的預付款保函和10%的質量保函。本次擔保總額度為1658.37萬美元，摺合人民幣約1.13億元，若合同金額變動，擔保額度可相應調整，有效期和期限以銷售合同實際需要為準。該擔保額度在董事會審批許可權內，無需提交股東會審議。
 
 ---
