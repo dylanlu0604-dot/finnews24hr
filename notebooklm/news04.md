@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-12 18:58:33_
-_本檔包含 3381 則快訊，約 625885 字_
+_更新時間：2026-07-12 20:03:37_
+_本檔包含 3400 則快訊，約 626771 字_
+
+---
+
+### 2026-07-08 14:07:10  #其他
+
+【支付寶“碰一下”使用者數破4億】7月8日，記者從支付寶碰一下2026生態大會上獲悉，支付寶“碰一下”使用者數已破4億，部署線下點位超3000萬個，“碰一下”合作生態夥伴數目已經超過2300家。基於線下超3000萬物理點位的AI化升級，“碰一下”2026年將重點開放Agent（智慧體）服務網路。（上證報）
+
+---
+
+### 2026-07-08 14:06:38  #其他
+
+【創世界紀錄！廈金大橋（廈門段）觀音山互通主線橋拱肋合龍】今天（8日），廈金大橋（廈門段）建設再迎關鍵性節點——觀音山互通主線橋重達10400噸的中段拱肋，完成30米整體精準提升，順利與邊段拱肋對接合龍。這標誌著專案建設取得突破性進展，為後續橋樑吊杆安裝、橋面鋪裝等工序施工奠定堅實基礎。（央視新聞）
+
+---
+
+### 2026-07-08 14:06:27  #其他
+
+【2026年1-5月中國出口到“一帶一路”沿線國家的汽車商品累計金額達到670.0億美元，同比增長27.9%】據中國汽車工業協會整理的海關總署資料顯示，2026年1-5月，中國出口到“一帶一路”沿線國家的汽車商品累計金額達到670.0億美元，同比增長27.9%，佔汽車商品出口總額的57.2%。其中：出口汽車整車447.2萬輛，同比增長42.6%；出口新能源汽車154.0萬輛，同比增長50.6%。
+
+---
+
+### 2026-07-08 14:05:04  #其他
+
+【浙江啟動海上防颱風應急響應】今年第9號颱風“巴威”7月8日8時位於臺灣基隆市東偏南方向約1580公里的洋麵上，中心附近最大風力17級（超強颱風）。預計“巴威”將以每小時15~20公里左右的速度向偏西方向移動，今天夜間逐漸轉向西北方向移動，之後趨向臺灣以東洋麵，強度變化不大。受“巴威”影響，9日夜裡東海南部海域風力逐漸增大到8~11級。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，省防指決定於7月8日12時啟動海上防颱風應急響應。
+
+---
+
+### 2026-07-08 14:04:25  #國際
+
+匈牙利總理毛焦爾：同意近期與澤連斯基舉行雙邊會晤。
+
+---
+
+### 2026-07-08 14:03:17  #其他
+
+毛焦爾：匈牙利希望重塑可靠盟友形象。
+
+---
+
+### 2026-07-08 14:02:57  #其他
+
+匈牙利：將於2035年達成北約5%防務開支目標。
+
+---
+
+### 2026-07-08 14:02:40  #公司
+
+巴克萊將沃爾沃目標股價從280瑞典克朗上調至290瑞典克朗。
+
+---
+
+### 2026-07-08 14:02:13  #焦點 #國際
+
+伊朗方面稱，只有伊朗指定的路線才是安全的霍爾木茲海峽航線。
+
+---
+
+### 2026-07-08 14:02:01  #其他
+
+瑞典統計局資料：5月國內生產總值環比增長0.9%。
+
+---
+
+### 2026-07-08 14:01:42  #國際
+
+伊朗表示不會允許干涉霍爾木茲海峽事務。
+
+---
+
+### 2026-07-08 14:00:48  #市場
+
+迪拜股票指數下跌0.7%。
+
+---
+
+### 2026-07-08 13:56:50  #MKT News #Market Regions #Greater China
+
+【June: 132 city investment bonds cut coupons】According to a corporate early-warning service, in June 2026 125 city investment companies (LGFVs) exercised options to lower coupon rates on 132 bonds, covering 94.328 billion yuan of outstanding issuance—up more than 13 billion yuan month-on-month.
+
+---
+
+### 2026-07-08 13:55:50  #MKT News #Important #Market Regions #Greater China
+
+【MIIT issues risk alert on backdoor in AI coding tool Claude Code】China's Ministry of Industry and Information Technology said its Network Security Threat and Vulnerability Database (NVDB) detected a backdoor vulnerability in AI coding tool Claude Code and characterized the risk as serious. Claude Code, developed by US firm ANTHROPIC, can autonomously generate and repair code from text prompts. NVDB said the tool contains a built-in monitoring mechanism that can transmit sensitive data — including user location and identity markers — to remote servers without user consent. Affected versions: 2.1.91–2.1.196.
+
+---
+
+### 2026-07-08 13:55:21  #MKT News #Market Regions #Greater China
+
+【Hong Kong approves two new captive insurers, total rises to nine】July 8 — The Hong Kong Insurance Authority approved licences for HSH Captive Limited, set up by The Hongkong and Shanghai Hotels, Limited, and SF Insurance Company Limited, set up by SF Holding Co., Ltd., bringing Hong Kong's captive insurers to nine. Captives are typically used by large corporates to insure defined intra‑group risks; lower administrative and compliance requirements can boost group cost efficiency and productivity.
+
+---
+
+### 2026-07-08 13:55:17  #公司
+
+【快手高階副總裁馬宏彬：數字技術不能只停留在實驗室程式碼與引數裡，核心價值在於落地實體經濟】2026中國網際網路大會今日開幕，快手科技黨委書記、高階副總裁馬宏彬發表題為《築牢數智生命線，AI賦能新市井 讓新質生產力紮根千行百業》的主題演講。他表示，數字技術不能只停留在實驗室程式碼與引數裡，核心價值在於落地實體經濟，為廣大中小企業、普通群眾啟用生存與發展內生動力。（新浪科技）
+
+---
+
+### 2026-07-08 13:55:11  #公司 #焦點 #國際
+
+【工信部發布關於防範AI程式設計工具Claude Code安全後門隱患的風險提示】近日，工業和資訊化部網路安全威脅和漏洞資訊共享平臺（NVDB）監測發現，AI程式設計工具Claude Code存在安全後門隱患，危害嚴重。Claude Code是美國Anthropic公司開發的AI程式設計工具，可根據文字需求自主完成程式碼編寫、修復等工作。由於其內建了監控機制，未經使用者同意即可向遠端伺服器回傳使用者地域、身份標識等敏感資訊，受影響的Claude Code為2.1.91至2.1.196版本。建議相關單位和使用者立即開展全面排查，對於安裝上述受影響版本的開發終端，立即解除安裝或升級至已清除相關後門程式碼的最新安全版本；加強核心業務網段內開發工具外聯許可權管控與流量監測，防止敏感資料違規外傳。
+
+---
+
+### 2026-07-08 13:54:25  #公司
+
+【香港新增兩家專屬自保保險公司 總數增至9家】7月8日，香港保監局批出新的授權予香港上海大酒店有限公司成立的HSH Captive Limited，以及順豐控股股份有限公司成立的順豐保險有限公司，令在香港成立的專屬自保保險公司總數增加至9家。據悉，自保保險公司一般由大型企業成立，根據劃定的承保範圍管理其集團的內部風險。自保保險公司的行政成本及合規門檻較低，可以提高集團的成本效益和生產力。
+
+---
+
+### 2026-07-08 13:52:53  #公司 #觀點
+
+【上海合晶經營範圍新增電子專用材料、新材料技術研發等】企查查APP顯示，近日，上海合晶發生工商變更，經營範圍新增電子專用材料研發；電子專用材料製造；新材料技術研發等，同時註冊資本增至6.69億元。企查查資訊顯示，上海合晶成立於1994年，由中電中金（廈門）智慧產業股權投資基金合夥企業（有限合夥）等共同持股。
+
+---
+
+### 2026-07-08 13:52:37  #公司
+
+【科創資訊等在西藏成立科技新公司，含AI業務】企查查APP顯示，近日，西藏天擎科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧公共服務平臺技術諮詢服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由科創資訊等共同持股。
+
+---
+
+### 2026-07-08 13:52:34  #MKT News #Market Regions #Europe & UK
+
+Poland's president said maintaining dialogue with Ukraine is natural because the two countries share a common enemy.
+
+---
+
+### 2026-07-08 13:52:27  #國際
+
+波蘭總統納夫羅茨基：我們與烏克蘭保持對話是自然而然的，因為我們有共同的敵人。
+
+---
+
+### 2026-07-08 13:52:26  #MKT News
+
+Poland's president said he spoke briefly with U.S. President Trump yesterday; as usual, the discussion centered on a permanent U.S. military presence in Poland.
+
+---
+
+### 2026-07-08 13:51:32  #國際
+
+波蘭總統納夫羅茨基：我昨天與特朗普進行了簡短交談，一如既往，我們的討論聚焦於美國在波蘭的永久軍事存在。
+
+---
+
+### 2026-07-08 13:51:17  #國際
+
+俄羅斯方面稱，烏克蘭無人機襲擊造成1人死亡，兩艘空載油輪受損。
+
+---
+
+### 2026-07-08 13:50:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Poland's president said Putin could use force at any time against NATO countries on the alliance's eastern flank.
+
+---
+
+### 2026-07-08 13:50:03  #其他
+
+【全國24條河流發生超警以上洪水】從水利部瞭解到，目前，西江2號洪水洪峰正在透過大湟江口江段，鬱江1號洪水洪峰已透過貴港江段。受降雨影響，昨天8時到今天8時，廣東西江下游幹流封開江口至德慶江段、東江支流石馬河，廣西鬱江支流武思江、桂南沿海南流江，雲南南盤江支流巴江等24條河流發生超警以上洪水，最大超警幅度5.68米，其中吉林沐石河超保0.12米。
+
+---
+
+### 2026-07-08 13:49:58  #國際
+
+保加利亞總理：我們已經用盡保加利亞的庫存來支援烏克蘭。我們倉庫裡已經沒有任何東西可以支援烏克蘭了。
+
+---
+
+### 2026-07-08 13:49:31  #MKT News
+
+Poland's president said he will work to ensure NATO's pipeline extends to the eastern defensive line.
+
+---
+
+### 2026-07-08 13:48:21  #市場 #焦點
+
+南向資金淨買入額達130億港元。
+
+---
+
+### 2026-07-08 13:48:10  #其他
+
+英國通訊管理局因維珍傳媒多次阻止使用者取消合同，對其罰款2800萬英鎊。
+
+---
+
+### 2026-07-08 13:47:48  #市場
+
+韓元兌美元匯率漲幅擴大至0.8%。
+
+---
+
+### 2026-07-08 13:47:16  #MKT News
+
+【Zhejiang launches maritime typhoon emergency response】As Typhoon Bavi, the ninth storm of the year, approaches China, the Zhejiang Provincial Flood Control and Drought Relief Headquarters, citing the provincial flood-control and typhoon emergency plan, activated a maritime typhoon emergency response at 12:00 on July 8.
+
+---
+
+### 2026-07-08 13:47:15  #公司 #市場
+
+【電池板塊午後延續弱勢，恩捷股份等股跌停】電池板塊午後延續弱勢，恩捷股份、龍蟠科技、雄韜股份、德新科技跌停，天華新能、石大勝華、諾德股份跌幅居前。
+
+---
+
+### 2026-07-08 13:47:10  #市場 #焦點
+
+上海原油連續主力合約日內漲6%，現報465.80元。
+
+---
+
+### 2026-07-08 13:45:57  #Trading Economics #Markets #South Korea #currency #Importance 1
+
+South Korean Won Hits 5-week High — The South Korean Won touched 1504.00 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar South Korean Won lost 1.27%, and in the last 12 months, it increased 9.43%.
+
+---
+
+### 2026-07-08 13:44:53  #國際
+
+【三菱化學與日本製鋼所計劃擴產氮化鎵 產能擴充幅度50%】三菱化學和日本製鋼所（JSW）計劃，到2027年擴充用於下一代功率半導體襯底的氮化鎵（GaN）產能，較2026年提高50%。據悉，三菱化學正與JSW合作研發功率半導體用GaN襯底，目前三菱化學/JSW 4英寸襯底仍處於客戶驗證階段。隨著需求增加，雙方決定進一步擴增產能，且目標在2026年度開始提供6英寸、2028年度提供8英寸襯底樣品。
+
+---
+
+### 2026-07-08 13:44:26  #MKT News #Important #Market Themes #China Tech Giants #Star Stocks #Alibaba #Xiaomi #Hang Seng Index #Impact bullish #02513.HK #09988.HK
+
+Hang Seng TECH Index extended afternoon gains to about 5%; Hang Seng Index up 3.10%. Tech and chip names led the advance: Zhipu (02513.HK) up over 14%, Alibaba Group (09988.HK) up over 12%, Lenovo Group (00992.HK) up over 8%, Kuaishou Technology (01024.HK) and SenseTime (00020.HK) up over 7%, Xiaomi Group (01810.HK) up over 8%.
+
+---
+
+### 2026-07-08 13:44:02  #MKT News
+
+Danish prime minister said she could not guarantee her country's security without NATO and believes the same is true for the United States.
+
+---
+
+### 2026-07-08 13:44:00  #市場 #焦點
+
+恒生科技指數漲超5%，現報4732.410點；恒生指數現漲3.099%。
+
+---
+
+### 2026-07-08 13:43:12  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+HSI rises more than 3%; chipmakers and internet/tech stocks lead gains.
+
+---
+
+### 2026-07-08 13:43:08  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Retreats from Record High After RBNZ Decision — The NZX 50 fell 98 points, or 0.7%, to close at 13,665 on Wednesday, after being flat in the previous session, pulling back from a record high reached over the previous two consecutive sessions, following the RBNZ's decision to raise interest rates by 25 bps to 2.5%. The central bank raised its cash rate for the first time in more than three years and signalled further tightening ahead to bring inflation back to target. Traders also anticipated the release of the Fed's June meeting minutes for guidance on the outlook for interest rates. Rising oil prices further pressured sentiment, as inflation concerns raised expectations of further interest rate hikes. The broader index tracked Wall Street's overnight decline, amid a sell-off in chipmaker stocks. Healthcare, financials, technology, and communication services mainly weighed on the index, with notable losses from Ventia Services Group (-2.8%), Fisher & Paykel (-2.6%), Infratil (-2.3%), and Freightways Group (-1.8%).
+
+---
+
+### 2026-07-08 13:42:34  #市場 #焦點
+
+恒生指數漲超3％，恒生科技指數現漲4.7％，科技股、晶片股持續走強，智譜漲超14%，阿里巴巴漲超12%，聯想集團漲超8%。
 
 ---
 
@@ -20210,149 +20468,5 @@ Palladium Steadies Ahead of Fed Minutes — Palladium hovered near $1,260 per ou
 ### 2026-07-07 11:19:04  #其他
 
 【阿爾及利亞執政黨在國民議會選舉中領先】阿爾及利亞全國獨立選舉委員會6日公佈國民議會（眾議院）選舉初步結果，執政黨民族解放陣線在全部407個席位中獲得90席，位居第一。全國獨立選舉委員會代理主席卡里姆·赫爾法內當天在釋出會上說，民族民主聯盟以73席位居第二，未來陣線獲得59席，此外，社會和平運動等黨派、獨立候選人等也獲得部分席位。阿爾及利亞2日舉行國民議會選舉。赫爾法內表示，本次選舉阿境內投票率為21.2%，約有420萬張有效選票，此外還有7.9萬張來自境外的有效選票。根據阿爾及利亞選舉程式，初步結果仍需經憲法法院審查，並由憲法法院宣佈最終結果。（新華社）
-
----
-
-### 2026-07-07 11:18:18  #公司
-
-【流金科技等成立數智智慧科技公司】企查查APP顯示，近日，上海星鹿數智智慧科技有限公司成立，法定代表人為孫良軍，經營範圍包含：人工智慧公共資料平臺；人工智慧應用軟體開發；人工智慧基礎軟體開發；智慧機器人的研發等。企查查股權穿透顯示，該公司由流金科技全資子公司上海雲活科技有限公司、上海靈鵲智算科技合夥企業（有限合夥）共同持股。
-
----
-
-### 2026-07-07 11:18:14  #央行 #其他
-
-【潘功勝：支援香港金管局將人民幣業務資金安排規模增至5000億元】中國人民銀行行長潘功勝7月7日在“香港固定收益及貨幣峰會暨債券通論壇”上表示，前期，中國人民銀行與香港金管局簽訂了8000億元人民幣常備互換安排，還升級設立人民幣業務資金安排共2000億元，為在港商業銀行提供穩定且成本較低的中長期人民幣資金來源。潘功勝表示，將在此基礎上，支援香港金管局將人民幣業務資金安排規模由目前的2000億元增加至5000億元，延長使用期限至不超過三年。潘功勝還在會上表示，將持續完善跨境人民幣結算等方面政策措施。將深化內地與香港快速支付系統互聯互通，並將繼續常態化在香港發行央行票據。（上證報）
-
----
-
-### 2026-07-07 11:17:52  #市場
-
-【算力租賃概念震盪下挫 利通電子觸及跌停】算力租賃概念盤中震盪下挫，利通電子觸及跌停，此前中科金財跌停，群興玩具、佳力圖、東方材料、東陽光、青雲科技均跌超5%。
-
----
-
-### 2026-07-07 11:17:25  #其他
-
-新加坡將於7月14日上午8點公佈第二季度GDP初步估算資料。
-
----
-
-### 2026-07-07 11:14:50  #國際
-
-【幾十個國家和國際組織將派高階別代表出席2026世界人工智慧大會】2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日至20日在上海舉行。外交部人工智慧事務協調員孫曉波在7月7日的上海市新聞釋出會上表示，今年將邀請幾十個國家和國際組織派高階別代表出席大會，在人工智慧全球治理高階別會議期間圍繞人工智慧發展和治理的前沿性焦點議題深入交換意見。外交部還將為各國和國際組織代表團安排一次集體巡展，讓各國與會代表親身體驗中國人工智慧發展和治理成就，直觀感受上海作為國際大都市的活力和脈動。
-
----
-
-### 2026-07-07 11:10:42  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量5469億元。
-
----
-
-### 2026-07-07 11:10:28  #央行 #中國央行
-
-【中國人民銀行行長潘功勝：堅定維護香港的金融穩定與金融安全】中國人民銀行行長潘功勝7月7日在“香港固定收益及貨幣峰會暨債券通論壇”上表示，下一步中國人民銀行將配合香港特區政府和金融管理部門聚焦4個重點方向，繼續建設好、鞏固好、發展好香港國際金融中心。潘功勝表示，當前中國經濟金融實力更加強大，外匯儲備規模穩居全球第一。將一如既往地為香港深化金融改革發展，維護金融穩定安全提供充分的支援和保障。
-
----
-
-### 2026-07-07 11:10:03  #公司
-
-【國星光電：公司有基於AM驅動玻璃基Mini和Micro LED顯示的相關技術儲備】國星光電(002449)7月6日在機構調研中表示，光耦是公司重點培育的戰略型產品，也是國產替代核心賽道之一。目前公司光耦產品已穩定量產，國產替代程序加快，公司將繼續加大投入，力爭提升出貨佔比。玻璃基板方面，公司有基於AM驅動玻璃基Mini和Micro LED顯示的相關技術儲備，研發的1.84英寸Micro LED全綵顯示屏--nStar Ⅲ，採用LTPS-TFT玻璃基驅動背板技術，具備高解析度、高亮度和強光下的清晰顯示能力。MicroLED光互聯方面，公司在Micro LED光互連賽道具備豐富的技術儲備與產業基礎。目前公司內部Micro LED光互聯團隊正在穩步推進產品的製造與送樣測試工作。
-
----
-
-### 2026-07-07 11:09:22  #宏觀 #焦點
-
-【中國人民銀行行長潘功勝：堅定維護香港的金融穩定與金融安全】中國人民銀行行長潘功勝7月7日在“香港固定收益及貨幣峰會暨債券通論壇”上表示，下一步中國人民銀行將配合香港特區政府和金融管理部門聚焦4個重點方向，繼續建設好、鞏固好、發展好香港國際金融中心。其中一個方向是堅定維護香港的金融穩定與金融安全。潘功勝表示，金融安全是香港國際金融中心長期繁榮發展的基石。多年來，在國家大力支援下，香港成功應對了上世紀90年代末期的亞洲金融危機和2008年國際金融危機考驗，在防範化解外部衝擊風險方面積累了豐富經驗。潘功勝表示，當前中國經濟金融實力更加強大，外匯儲備規模穩居全球第一。將一如既往地為香港深化金融改革發展，維護金融穩定安全提供充分的支援和保障。（上證報）
-
----
-
-### 2026-07-07 11:09:19  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
-
-Indonesia Forex Reserves Rise in June — Indonesia’s foreign exchange reserves increased to USD 145.6 billion in June 2026 from a near two-year low of USD 144.9 billion in the previous month. The modest increase was primarily supported by tax and services receipts, which more than offset government external debt repayments and Bank Indonesia’s rupiah stabilization measures amid continued uncertainty in global financial markets. The reserve position remained strong, equivalent to 5.5 months of imports or 5.4 months of imports and government external debt servicing, well above the international adequacy standard of around three months. Bank Indonesia stated that the current level of reserves is sufficient to support external sector resilience and safeguard macroeconomic and financial system stability. Looking ahead, the central bank expects external resilience to remain intact, underpinned by adequate reserve assets and sustained foreign capital inflows.
-
----
-
-### 2026-07-07 11:07:49  #公司
-
-【中國信通院牽頭的“企業智慧化成熟度評估模型”行業標準正式釋出】2026年6月，工業和資訊化部公告（2026年第12號）批准釋出了多項行業標準，由工業和資訊化部人工智慧標準化技術委員會提出，中國資訊通訊研究院牽頭制定的YD/T 6919—2026《人工智慧 基礎共性 企業智慧化成熟度評估模型》標準正式釋出，並將於2026年9月1日起實施。該標準進一步完善企業智慧化成熟度評估體系，為企業科學識別智慧化發展階段、系統規劃轉型路徑、持續提升智慧化水平提供標準依據和實踐指引。
-
----
-
-### 2026-07-07 11:07:16  #市場
-
-【香港黃金中央清算及結算系統今日開展試營運 全套精準措施同步對接】香港特區政府財經事務及庫務局（財庫局）今日（7日）宣佈，全新的香港黃金中央清算及結算系統正式開展試營運。一系列精準的配套措施也同步推出，以建立現代化及全鏈條的黃金交易生態圈。配套措施包括與上海黃金交易所推出首階段“實物聯通”、推出全新“HAU”價格程式碼、擴充倉儲容量及提升精煉產能、豐富黃金投資產品、研究稅務優惠、協調保險安排、增加強制性公積金（強積金）投資黃金交易所買賣基金（ETF）的彈性，以及成立業界主導的行業協會。這些措施將共同提升香港作為備受信賴的國際黃金交易、清算及儲備樞紐的角色。 財政司司長陳茂波表示，國家“十五五”規劃綱要明確提出支援香港構建大宗商品交易生態圈。今日黃金中央清算及結算系統開展試營運，是發展香港黃金交易基礎設施的重要一步。配合一系列推動實體交割、發展投資產品、衍生產品及風險管理工具、提供稅務優惠，以及深化與內地黃金市場互聯互通的措施，特區政府致力構建蓬勃的黃金交易生態圈，進一步提升香港金融市場的內涵、深度和廣度，為海內外投資者創造新的投資機遇，也為金融業發展注入新動能。（大灣區之聲）
-
----
-
-### 2026-07-07 11:05:38  #國際
-
-泰國上半年企業債券銷售額增長2.7%至4097億泰銖。
-
----
-
-### 2026-07-07 11:05:15  #國際
-
-【SK海力士擬於7月15日前後將ADR募資引入韓國】7月7日，據報道，韓國晶片巨頭SK海力士預計將於7月15日前後向韓國國內引入美元資金，並將部分透過發行美國存託憑證（ADR）籌集的資金兌換為韓元。SK海力士於6日啟動了美國股票發行計劃，擬籌資43萬億韓元（約合280.7億美元）。儘管該ADR發行以美元計價，但SK海力士此前表示，將把至少部分募資用於在韓國本土建造兩座新工廠並採購晶片製造裝置。
-
----
-
-### 2026-07-07 11:03:50  #國際
-
-【以色列外長：以方堅持解除哈馬斯武裝】以色列外交部長薩爾6日在社交媒體上發文稱，以方堅持“全面執行”解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）及其他武裝組織的武裝、徹底實現加沙地帶非軍事化的計劃。 哈馬斯當天宣佈移交加沙地帶行政管理權。薩爾說，哈馬斯願意“騰出空間”建立一個技術官僚政府，目的是防止自身被解除武裝，而只要哈馬斯保留武器，就能繼續對以色列發動襲擊。 另據以色列《國土報》6日報道，關於加沙停火第二階段的談判草案文字顯示，哈馬斯將“放下”武器，這與之前“交出”武器的措辭有所不同，預計哈馬斯不會直接向以色列交出武器，而是將其移交給一個雙方認可的巴勒斯坦機構。 以色列國防軍6日發表宣告說，以軍當天凌晨對加沙地帶北部發動空襲並打死一名哈馬斯軍事訓練部門指揮官，以軍將繼續開展行動，消除任何“迫在眉睫的威脅”。 由哈馬斯控制的加沙地帶政府媒體辦公室6日宣佈，解散由哈馬斯在加沙地帶運作的緊急委員會，為將加沙地帶行政管理權移交給加沙國家行政委員會作準備。(新華社)
-
----
-
-### 2026-07-07 11:03:24  #公司
-
-【豐田紡織、華勤技術在上海成立汽車電子公司 註冊資本1000萬】天眼查App顯示，近日，豐田紡織華勤（上海）汽車電子有限公司成立，法定代表人為八百市信一，註冊資本1000萬人民幣，經營範圍包括汽車零部件研發、技術進出口、貨物進出口、軟體開發等。股東資訊顯示，該公司由豐田紡織（中國）有限公司、華勤技術股份有限公司共同持股。
-
----
-
-### 2026-07-07 11:03:08  #公司 #國際
-
-【美國ITC釋出對用於液晶顯示器的玻璃基板及其下游產品和製造此類基板的方法II的337部分終裁】據中國貿易救濟資訊網，2026年7月6日，美國國際貿易委員會（ITC）釋出公告稱，對特定用於液晶顯示器的玻璃基板及其下游產品和製造此類基板的方法II（Certain Glass Substrates for Liquid Crystal Displays, Products Containing the Same, and Methods for Manufacturing the Same II，調查編碼：337-TA-1441）作出337部分終裁：在複審了本案調查記錄和相關提交材料後，ITC決定部分批准申請方提出的動議，具體為刪除（strike）中國陝西Caihong Display Devices Co., Ltd., d/b/a Irico Display Devices Co., Ltd. of China彩虹顯示器件股份有限公司和中國陝西Xianyang CaiHong Optoelectronics Technology Co., Ltd. of China咸陽彩虹光電科技有限公司在開庭陳述（opening submission）中關於救濟措施、公共利益和保證金的部分，因為這些部分涉及正在審查的議題；ITC決定駁回申請方提出的一項動議，即要求刪除中國廣東TCL China Star Optoelectronics Technology Co., Ltd. of China TCL華星光電技術有限公司、美國TTE Technology, Inc., d/b/a TCL North America of Irvine, CA在開庭陳述中關於救濟措施、公共利益和保證金的部分。
-
----
-
-### 2026-07-07 11:03:03  #市場 #國際
-
-【日本實際家庭消費連續6個月同比下滑】日本總務省7日公佈的調查結果顯示，日本家庭消費持續承壓，5月實際家庭消費支出連續第6個月同比下滑。 資料顯示，5月日本兩人及以上家庭月平均消費支出同比下降0.4%。在消費支出的10個大類中，有3個類別支出同比下降。 具體來看，交通通訊、水電燃氣、文化娛樂等支出明顯下滑。其中，交通通訊費支出同比下降15.8%，主要原因是購置汽車等相關支出同比大幅下降。 食品類支出時隔4個月首次轉為同比增長。不過據《日本經濟新聞》報道，日本總務省表示，在食品價格持續上漲背景下，居民節約消費的傾向依然明顯。(新華社)
-
----
-
-### 2026-07-07 11:02:52  #其他
-
-【2025年上海規上AI企業產業規模超6370億元 同比增長39.5%】上海市委常委、副市長陳杰7月7日在上海市政府新聞釋出會上介紹了上海人工智慧產業發展的最新情況。據介紹，2025年，上海全市394家規上人工智慧企業產業規模超6370億元，同比增長39.5%，已成為上海市經濟增長的新動能。當前，上海已搭建起自主創新、應用牽引、開放合作、生態協同、安全治理一體貫通的完整發展生態。
-
----
-
-### 2026-07-07 11:02:31  #國際
-
-截至6月底，印尼外匯儲備增至1456億美元。
-
----
-
-### 2026-07-07 11:02:12  #其他
-
-訊息人士稱，德國計劃斥資高達15億歐元建立緊急天然氣儲備。
-
----
-
-### 2026-07-07 11:00:35  #其他
-
-陝西省委原常委、西安市委原書記方紅衛嚴重違紀違法被開除黨籍和公職。（央視新聞）
-
----
-
-### 2026-07-07 10:58:33  #宏觀 #市場
-
-【財政部擬發行2026年記賬式貼現（四十一期）國債】據財政部7月7日訊息，財政部擬發行2026年記賬式貼現（四十一期）國債。本期國債為期限63天的貼現債。本期國債競爭性招標面值總額300億元，進行甲類成員追加投標。招標時間為2026年7月8日上午10:35至11:35。招標結束至2026年7月9日進行分銷，7月13日起上市交易。
-
----
-
-### 2026-07-07 10:58:17  #宏觀 #市場
-
-【財政部擬發行2026年記賬式附息（十四期）國債】據財政部7月7日訊息，財政部擬發行2026年記賬式附息（十四期）國債。本期國債為1年期固定利率附息債。本期國債競爭性招標面值總額1300億元，進行甲類成員追加投標。招標時間為2026年7月14日上午10:35至11:35。招標結束至2026年7月15日進行分銷，7月17日起上市交易。
 
 ---
