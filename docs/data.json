@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 22:24:02",
-  "count": 16634,
+  "updated": "2026-07-12 22:27:50",
+  "count": 16633,
   "items": [
+    {
+      "id": "mkt:019f56b8-c74a-7aab-8d45-80a338396056",
+      "time": "2026-07-12 22:26:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian academic says Tehran seeks to push new management framework for Strait of Hormuz】Tehran University senior researcher Mohammad Eslami said under Article 5 of a memorandum of understanding the United States has accepted arrangements for Iran and neighboring states to jointly manage the Strait of Hormuz. He said Iran's position is \"very clear\" — to advance a \"new management\" model — and stressed Tehran does not seek to close the strait. Eslami added Iran has engaged the US, Oman and several European countries on the framework and said if Washington disputes its interpretation of Article 5 it should consult Tehran."
+    },
     {
       "id": "4982956",
       "time": "2026-07-12 22:21:22",
@@ -151569,23 +151577,6 @@
         "國際"
       ],
       "text": "伊朗議會議長：與美國實施協議是困難但可能的。"
-    },
-    {
-      "id": "4971005",
-      "time": "2026-07-05 22:24:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰海通：看好漲價確定性較強的CCL/高階MLCC/磷化銦等】國泰海通研報認為，主題投資再次興起。1、機器人：物理AI模型加速迭代，場景落地與成本下降推動規模化量產，看好新技術應用與核心整機廠商及供應鏈。2、商業航天：長征十號乙有望7月初發射，千帆星座組網加快，新技術突破與發射場站補短板，看好航天基礎設施建設與新技術。3、AI新材料：供需矛盾推動上游瓶頸資產重估，看好漲價確定性較強的CCL/高階MLCC/磷化銦等。4、新疆振興：構建具有新疆特色優勢的現代化產業體系，看好清潔能源開發、口岸物流等。"
-    },
-    {
-      "id": "mkt:019f32aa-aae2-7aab-8ca3-2cadb8e730f1",
-      "time": "2026-07-05 22:24:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China launches 15 Qianfan polar-orbit satellites】At 21:43 on the 5th a Long March 8A rocket launched from the Hainan commercial space launch site and successfully placed 15 Qianfan polar-orbit satellites into their planned orbit; the mission was declared a complete success."
     }
   ]
 }
