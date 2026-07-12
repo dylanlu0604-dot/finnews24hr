@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-13 05:04:06",
-  "count": 16612,
+  "updated": "2026-07-13 05:07:54",
+  "count": 16614,
   "items": [
+    {
+      "id": "mkt:019f5826-d8b3-7aab-8d46-f64e6905e42b",
+      "time": "2026-07-13 05:06:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc's automatic system estimated a magnitude ~3.8 earthquake at 05:02 on July 13 near Gaoxian County, Yibin, Sichuan; final magnitude pending confirmation in a formal rapid report."
+    },
+    {
+      "id": "4983073",
+      "time": "2026-07-13 05:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月13日05時02分在四川宜賓市高縣附近（北緯28.54度，東經104.69度）發生3.8級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "mkt:019f5820-ffa2-7aab-8d46-e88b79d086f3",
       "time": "2026-07-13 04:59:45",
