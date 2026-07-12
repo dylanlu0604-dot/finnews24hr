@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 20:53:50",
+  "updated": "2026-07-12 20:58:01",
   "count": 16610,
   "items": [
+    {
+      "id": "4982917",
+      "time": "2026-07-12 20:55:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江省釋出地質災害氣象風險預警】“黑龍江政務”7月12日訊息，黑龍江省自然資源廳和黑龍江省氣象局聯合釋出地質災害氣象風險黃色和藍色預警：預計7月12日20時至7月13日20時，五常市、尚志市、寧安市、海林市發生地質災害風險較高（黃色預警），牡丹江市、穆稜市、東寧市、阿城區、延壽縣有一定風險發生地質災害（藍色預警）。請注意防範強降雨引發的崩塌、滑坡、泥石流等地質災害，做好監測預警和轉移避險等工作。"
+    },
     {
       "id": "4982916",
       "time": "2026-07-12 20:52:42",
@@ -151362,21 +151370,6 @@
         "其他"
       ],
       "text": "【幾內亞比索確認首例猴痘病例】比紹訊息：幾內亞比索公共衛生部部長吉寧·南托特4日晚宣佈，該國確認首例猴痘病例，衛生部門已啟動國家應對機制，民眾應提高警惕。（新華社）"
-    },
-    {
-      "id": "mkt:019f3259-39bc-7aab-8ca2-dd1ce7fc1b12",
-      "time": "2026-07-05 20:55:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Germany to raise 2027 net borrowing to EUR118bn as tax receipts fall and rates lift debt costs】Germany plans to increase 2027 net new borrowing to EUR118.0bn (about $135bn), roughly 7% above April projections, a finance ministry official said. The rise reflects weaker-than-expected tax receipts, higher interest rates raising debt-servicing costs, and additional funding needs at the Federal Employment Agency for unemployment benefits. Chancellor Friedrich Merz and Finance Minister Lars Klingbeil have proposed a reform package covering pensions, healthcare and taxes; the cabinet is expected to approve the package and the 2027 budget on Monday."
     }
   ]
 }
