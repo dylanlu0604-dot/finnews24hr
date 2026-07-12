@@ -1,7 +1,38 @@
 {
   "date": "2026-07-13",
-  "count": 1,
+  "count": 4,
   "items": [
+    {
+      "id": "mkt:019f5717-54d8-7aab-8d46-103c2c7a5bc8",
+      "time": "2026-07-13 00:09:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Israel Defense Forces said it struck and destroyed a Hamas weapons-production facility in northern Gaza City in the Gaza Strip."
+    },
+    {
+      "id": "4983003",
+      "time": "2026-07-13 00:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：以軍空襲加沙城一處哈馬斯武裝分子的武器製造據點。"
+    },
+    {
+      "id": "mkt:019f5716-ded2-7aab-8d46-0a4c80c21bea",
+      "time": "2026-07-13 00:09:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Qatar says it will hold Iran legally responsible for attacks】Al Jazeera reported Iran struck Qatar and five other states today — Oman, Bahrain, Kuwait, Jordan and the UAE — and claimed it hit US military targets in those countries; the governments have not formally confirmed the claims. Qatar's foreign ministry called the strike a blatant violation of its sovereignty and international law and said Iran should bear legal responsibility for the aggression and its consequences. Oman earlier summoned Iran's ambassador to protest."
+    },
     {
       "id": "4983002",
       "time": "2026-07-13 00:01:06",

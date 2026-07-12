@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-13 00:09:04",
-  "count": 16623,
+  "updated": "2026-07-13 00:13:02",
+  "count": 16624,
   "items": [
+    {
+      "id": "mkt:019f5717-54d8-7aab-8d46-103c2c7a5bc8",
+      "time": "2026-07-13 00:09:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Israel Defense Forces said it struck and destroyed a Hamas weapons-production facility in northern Gaza City in the Gaza Strip."
+    },
+    {
+      "id": "4983003",
+      "time": "2026-07-13 00:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：以軍空襲加沙城一處哈馬斯武裝分子的武器製造據點。"
+    },
+    {
+      "id": "mkt:019f5716-ded2-7aab-8d46-0a4c80c21bea",
+      "time": "2026-07-13 00:09:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Qatar says it will hold Iran legally responsible for attacks】Al Jazeera reported Iran struck Qatar and five other states today — Oman, Bahrain, Kuwait, Jordan and the UAE — and claimed it hit US military targets in those countries; the governments have not formally confirmed the claims. Qatar's foreign ministry called the strike a blatant violation of its sovereignty and international law and said Iran should bear legal responsibility for the aggression and its consequences. Oman earlier summoned Iran's ambassador to protest."
+    },
     {
       "id": "4983002",
       "time": "2026-07-13 00:01:06",
@@ -151462,23 +151493,6 @@
         "國際"
       ],
       "text": "【多數美國選民認為特朗普對伊朗開戰得不償失】英國《金融時報》最新一項全國民意調查顯示，58%的美國選民認為，特朗普政府與伊朗爆發的軍事衝突，所付出的經濟與戰略代價完全不值。伴隨通脹高企、戰爭開支援續增加，共和黨在即將到來的國會中期選舉前景堪憂。絕大多數美國選民認為，當前與伊朗的軍事衝突在戰略、財政層面均得不償失，這也給本屆政府留下嚴重政治軟肋。這份民調結果出爐之際，白宮正向國會申請新增6700億美元聯邦撥款，用以支付累積的戰爭開銷。民眾情緒充分體現出公眾對政府危機處置方式的深度質疑。僅31%受訪者認為，一系列交火行動讓美國的談判地位變得更強。與之相反，44%民眾表示，這場衝突實實在在削弱了美國對伊朗的施壓籌碼。全年以來，這場軍事行動大幅推高了國內消費品與汽油價格。"
-    },
-    {
-      "id": "mkt:019f330d-1ec7-7aab-8ca4-127185aa5d07",
-      "time": "2026-07-06 00:12:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi holds talks with Finland's Valtonen】China's foreign minister Wang Yi met Finland's foreign minister Valtonen in Helsinki on the 5th. Wang said Finland was among the first Western states to establish diplomatic ties with China and the first to sign an intergovernmental trade agreement. He highlighted 76 years of close China–Finland ties and the 2017 establishment of a future-oriented cooperation partnership, and said China is willing to continue mutual respect and equal treatment and remain a trusted partner despite shifting international conditions."
-    },
-    {
-      "id": "4971050",
-      "time": "2026-07-06 00:11:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同芬蘭外長瓦爾託寧會談】中共中央政治局委員、外交部長王毅5日在赫爾辛基同芬蘭外長瓦爾託寧舉行會談。王毅說，芬蘭是最早同新中國建交的西方國家之一，也是第一個同中國簽訂政府間貿易協定的西方國家。建交76年來，中芬關係一直走在中國同北歐國家關係的前列，樹立了國與國之間超越制度和文化差異、開展平等交往的典範。2017年中芬建立面向未來的新型合作伙伴關係，充分體現兩國關係的前瞻性、創新性。無論國際風雲如何變幻，中方願同芬方相互尊重、平等相待，繼續做彼此信任的合作伙伴。（新華社）"
     }
   ]
 }
