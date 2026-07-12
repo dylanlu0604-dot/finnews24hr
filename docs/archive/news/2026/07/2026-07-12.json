@@ -1,7 +1,56 @@
 {
   "date": "2026-07-12",
-  "count": 204,
+  "count": 209,
   "items": [
+    {
+      "id": "mkt:019f53c5-50a4-7aab-8d40-7b0d5bf9563c",
+      "time": "2026-07-12 08:41:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel Hayom reports Oman notified the US that Iran rejected proposed terms on the Strait of Hormuz. The diplomatic deadlock prompted the US to immediately reinstate sanctions and reimpose a maritime blockade in the strait."
+    },
+    {
+      "id": "4982459",
+      "time": "2026-07-12 08:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍戰機轟炸伊朗南部布什爾境內多處機場。"
+    },
+    {
+      "id": "mkt:019f53c3-84c6-7aab-8d40-751deccaeaf8",
+      "time": "2026-07-12 08:39:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera quoted Iranian officials saying US strikes against Iran 'will not go unanswered'."
+    },
+    {
+      "id": "4982458",
+      "time": "2026-07-12 08:38:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綿陽將建國內規模最大醫用同位素陣列工廠】7月10日，國產醫用同位素產業發展研討會暨陣列工廠專案簽約儀式在綿陽舉行。綿陽經開區所屬國有企業鑫耀產融集團與四川玖誼源粒子科技有限公司將共建國內規模最大的醫用同位素陣列工廠。"
+    },
+    {
+      "id": "4982457",
+      "time": "2026-07-12 08:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 阿曼已向美國通報，德黑蘭方面拒絕接受美方提出的霍爾木茲海峽相關條款。"
+    },
     {
       "id": "4982456",
       "time": "2026-07-12 08:36:56",
