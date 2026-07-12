@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13 01:36:54",
-  "count": 16624,
+  "updated": "2026-07-13 01:40:39",
+  "count": 16623,
   "items": [
+    {
+      "id": "mkt:019f5769-9520-7aab-8d46-73d7e28ce587",
+      "time": "2026-07-13 01:39:24",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. ambassador to NATO Whitaker said Turkey's F-35 sale will proceed if legal conditions are met."
+    },
     {
       "id": "4983041",
       "time": "2026-07-13 01:35:16",
@@ -151480,22 +151490,6 @@
         "國際"
       ],
       "text": "特朗普分別致電普京與澤連斯基，意在重啟陷入停滯的和平談判；在土耳其北約峰會召開前夕，美方主動提出牽頭斡旋俄烏衝突的和平解決方案。"
-    },
-    {
-      "id": "mkt:019f335d-28b8-7aab-8ca4-ab08a70a43ef",
-      "time": "2026-07-06 01:39:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran supreme leader reappoints Mohseni Ejei as judiciary chief】Iran's supreme leader Mujtaba Khamenei issued a decree on the 5th reappointing Mohseni Ejei as head of the judiciary, the Supreme Leader's Office said."
-    },
-    {
-      "id": "4971081",
-      "time": "2026-07-06 01:39:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖任命埃傑伊繼續擔任司法總監】據伊朗最高領袖辦公室5日訊息，伊朗最高領袖穆傑塔巴·哈梅內伊釋出任免令，再次任命穆赫辛尼·埃傑伊為伊朗司法總監。（新華社）"
     }
   ]
 }
