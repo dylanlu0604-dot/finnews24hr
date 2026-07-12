@@ -1,7 +1,28 @@
 {
   "date": "2026-07-13",
-  "count": 64,
+  "count": 66,
   "items": [
+    {
+      "id": "4983048",
+      "time": "2026-07-13 02:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：西班牙批准80億美元住房計劃，未來四年公共住房投資將提高三倍。"
+    },
+    {
+      "id": "mkt:019f57b1-f095-7aab-8d46-a4cf06c04172",
+      "time": "2026-07-13 02:58:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Spain approves $8 billion housing plan; public housing investment to triple over four years】Spain has approved an $8 billion housing plan that will triple government investment in public housing over the next four years to address a worsening housing shortage. The shortfall, which has left many Spaniards unable to buy or afford rentals, is being driven by rising immigration, record tourism and rapid growth in short-term rental platforms such as Airbnb; Spain expects to receive more than 100 million tourists this year. Increased tourist demand and short-term lets have tightened housing supply, forcing some residents into campervans or mobile homes."
+    },
     {
       "id": "4983047",
       "time": "2026-07-13 02:48:42",
