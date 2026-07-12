@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-12 17:56:57",
-  "count": 16577,
+  "updated": "2026-07-12 18:01:55",
+  "count": 16580,
   "items": [
+    {
+      "id": "4982851",
+      "time": "2026-07-12 18:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "未來一週將有沃華醫藥、優彩資源等4家AB股公司披露業績。"
+    },
+    {
+      "id": "mkt:019f55c4-7650-7aab-8d44-31ae3d7c8b9a",
+      "time": "2026-07-12 17:59:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "【Kaiyuan Securities: Risk Unwinding Underway, Search for Next Wave of Tech Leaders】Kaiyuan Securities says markets underwent a correction this week: tech staged a strong rebound on Thursday but fell again on Friday, boosting volatility. The broker views the pullback not as the end of the tech trend but as a concentrated short-term risk release amid high growth, high valuations and crowded positioning; the market is digesting valuations and crowding. Looking ahead, technology remains the primary theme and the adjustment is seen as a reset for a healthier relaunch. Tech is still deemed the most attractive sector with marginally improving fundamentals; the STAR Market and ChiNext retain higher relative earnings advantages. After the current phase of rebalancing, the market will hunt for the next cohort that can absorb risk appetite while showing marginal fundamental improvement — a further tech re‑selection."
+    },
+    {
+      "id": "4982850",
+      "time": "2026-07-12 17:59:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬對菲律賓出口二手護衛艦 引發強烈質疑和批評】據日本方面訊息，日本防衛大臣小泉進次郎近日就日本向菲律賓出口海上自衛隊二手護衛艦一事表示，希望“與菲律賓國防部長加快討論”。對此，一些日本媒體表達強烈質疑和批評。對此，一些日本主流媒體表達強烈質疑，認為日本政府此舉違背了和平憲法精神。《朝日新聞》評論認為，一旦完成交付，將開創戰後日本對外出口殺傷性武器的先例。愛知縣和平委員會也在社交媒體發文表示，堅決反對日本透過武器出口加劇地區衝突風險的舉動。（央視新聞）"
+    },
+    {
+      "id": "4982849",
+      "time": "2026-07-12 17:57:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【香港展開亞太經合組織財政部長會議宣傳工作】香港特區政府財經事務及庫務局今日（12日）表示，2026年亞太經合組織財政部長會議踏入倒數100天，局方的宣傳工作正式展開。會議相關的大型宣傳掛畫已於7月初在灣仔特區政府大樓外牆懸掛，中環行人天橋的電子顯示屏也同步展示，為會議揭開序幕。財經事務及庫務局接下來會繼續與各相關政策局及部門緊密協作，全力辦好、辦妥會議，迎接各亞太經合組織成員代表蒞臨香港，共同推進亞太經濟合作，向世界展現香港作為國際金融中心的獨特優勢。（大灣區之聲）"
+    },
+    {
+      "id": "4982848",
+      "time": "2026-07-12 17:56:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：內塔尼亞胡或將出席格雷厄姆的葬禮】據報道，內塔尼亞胡目前正在考慮飛往美國南卡羅來納州，參加格雷厄姆參議員的葬禮。報道稱，如果內塔尼亞胡前往參加格雷厄姆的葬禮，他極有可能在此次行程中會見美國總統唐納德·特朗普。"
+    },
     {
       "id": "4982847",
       "time": "2026-07-12 17:54:13",
@@ -151073,22 +151119,6 @@
         "其他"
       ],
       "text": "【颱風環流北上 國家防總持續部署防汛防颱風工作】7月5日上午，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、住房和城鄉建設部、交通運輸部等部門開展聯合會商，進一步研究部署重點地區防汛防颱風工作。在國家防總辦公室赴廣西防汛防颱風工作組的基礎上，應急管理部增派兩個救災工作組分赴廣西、遼寧協助指導地方做好救災救助工作。"
-    },
-    {
-      "id": "4970943",
-      "time": "2026-07-05 18:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：國際游泳聯賽將支付拖欠運動員的700萬美元獎金。"
-    },
-    {
-      "id": "4970942",
-      "time": "2026-07-05 17:57:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【奈米比亞總統恩代特瓦抵達廣州開始訪華】應國家主席習近平邀請，奈米比亞共和國總統內通博·南迪－恩代特瓦7月5日抵達廣州，開始對中國進行為期一週的國事訪問。 中國和奈米比亞是傳統友好的全面戰略合作伙伴，此次訪問是恩代特瓦總統就任以來首次訪華。外交部發言人日前表示，相信此訪將推動中納關係邁上新臺階，為構建新時代全天候中非命運共同體、促進全球南方聯合自強作出貢獻。（新華社）"
     }
   ]
 }
