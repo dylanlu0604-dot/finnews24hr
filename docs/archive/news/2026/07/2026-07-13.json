@@ -1,7 +1,19 @@
 {
   "date": "2026-07-13",
-  "count": 176,
+  "count": 177,
   "items": [
+    {
+      "id": "te:economy:566146",
+      "time": "2026-07-13 06:44:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Return to Growth — New Zealand’s BusinessNZ Performance of Services Index rose to 50.6 in June 2026 from an upwardly revised 48.0 in May, marking the first expansion in the services sector since January."
+    },
     {
       "id": "mkt:019f587d-b76b-7aab-8d47-a6569e477ee2",
       "time": "2026-07-13 06:41:01",
