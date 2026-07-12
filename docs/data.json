@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-12 18:01:55",
-  "count": 16580,
+  "updated": "2026-07-12 18:05:55",
+  "count": 16585,
   "items": [
+    {
+      "id": "mkt:019f55c8-438f-7aab-8d44-4d2d5007ea1f",
+      "time": "2026-07-12 18:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq government spokesman says the Iraqi prime minister will travel to Washington on Monday."
+    },
+    {
+      "id": "4982854",
+      "time": "2026-07-12 18:03:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "市場訊息：以色列6月消費者信心指數跌至84。"
+    },
+    {
+      "id": "mkt:019f55c7-d06e-7aab-8d44-44a9adb6cd05",
+      "time": "2026-07-12 18:03:06",
+      "tags": [
+        "MKT News",
+        "600660.SS"
+      ],
+      "text": "【Fuyao Glass chairman Cao Hui visits Aolide to discuss in‑vehicle optoelectronics cooperation】Fuyao Glass Industry Group Co. chairman Cao Hui led a delegation to Aolide on July 12 to discuss in‑vehicle optoelectronics applications. The companies held in‑depth talks on supply‑chain collaboration, joint technology R&D and commercialization of application scenarios."
+    },
+    {
+      "id": "4982853",
+      "time": "2026-07-12 18:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福耀玻璃董事長曹暉一行到奧來德考察交流】據奧來德訊息，7月12日，福耀玻璃工業集團股份有限公司董事長曹暉一行到奧來德考察交流。雙方圍繞車載光電前沿應用展開深度研討，就產業鏈協同、技術聯合創新、場景拓展落地等方向充分交換意見，共謀合作發展新路徑。"
+    },
+    {
+      "id": "mkt:019f55c5-f1dd-7aab-8d44-3f8da6ffe594",
+      "time": "2026-07-12 18:01:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong begins publicity for 2026 APEC finance ministers meeting】HONG KONG GOVT Financial Services and the Treasury Bureau said July 12 the 2026 APEC finance ministers meeting has entered its 100-day countdown and official publicity has begun. Large promotional banners were installed on the Wan Chai government building in early July and electronic displays on Central pedestrian overpasses are running. The bureau said it will continue coordinating with relevant departments to finalise arrangements ahead of the meeting and to receive APEC delegations, aiming to showcase Hong Kong as an international financial centre."
+    },
+    {
+      "id": "4982852",
+      "time": "2026-07-12 18:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美議員遭以色列定居者扣留影片公佈】當地時間7月11日，美國民主黨籍聯邦眾議員羅·卡納的團隊公佈了此前他在約旦河西岸遭以色列定居者扣留的影片。影片顯示，羅·卡納所在的車隊遭到手持步槍的以色列定居者圍堵。羅·卡納表示，他在訪問巴勒斯坦村莊途中遭到了攔截，並被扣留約一小時。他同時表示，如果不願為巴勒斯坦人的人權發聲，不願譴責加沙的種族滅絕和約旦河西岸的種族隔離，這就是道德淪喪。（CCTV國際時訊）"
+    },
     {
       "id": "4982851",
       "time": "2026-07-12 18:00:02",
@@ -151111,14 +151161,6 @@
         "國際"
       ],
       "text": "【伊朗已故最高領袖哈梅內伊三子現身】今天（7月5日），在伊朗首都德黑蘭舉行的已故最高領袖阿里·哈梅內伊的公眾告別與悼念儀式進入第二天。當地時間上午8時許，數千民眾聚集在德黑蘭的伊瑪目霍梅尼大清真寺，為哈梅內伊及其遇害的四名親屬舉行葬禮禮拜。據路透社等媒體報道，阿里·哈梅內伊的長子、第三子與第四子均出席儀式。伊朗政府、軍方官員以及部分外國代表團出席該儀式。伊朗革命衛隊總司令瓦希迪也出現在現場。（CCTV國際時訊）"
-    },
-    {
-      "id": "4970944",
-      "time": "2026-07-05 18:04:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風環流北上 國家防總持續部署防汛防颱風工作】7月5日上午，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、住房和城鄉建設部、交通運輸部等部門開展聯合會商，進一步研究部署重點地區防汛防颱風工作。在國家防總辦公室赴廣西防汛防颱風工作組的基礎上，應急管理部增派兩個救災工作組分赴廣西、遼寧協助指導地方做好救災救助工作。"
     }
   ]
 }
