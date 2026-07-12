@@ -1,7 +1,65 @@
 {
   "date": "2026-07-12",
-  "count": 316,
+  "count": 322,
   "items": [
+    {
+      "id": "4982556",
+      "time": "2026-07-12 10:43:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地時間今天（7月12日）早間，巴林境內拉響防空警報。同一天，阿聯酋國防部稱正在應對導彈威脅。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982555",
+      "time": "2026-07-12 10:42:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據報道，伊朗向卡達、阿聯酋、約旦發動導彈及無人機襲擊。"
+    },
+    {
+      "id": "mkt:019f5433-5d4b-7aab-8d41-28457899f77a",
+      "time": "2026-07-12 10:41:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "UAE Defense Ministry says air defense systems are intercepting missiles and drones originating from Iran."
+    },
+    {
+      "id": "4982553",
+      "time": "2026-07-12 10:41:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特境內傳來巨大爆炸聲，爆炸聲威力極大，伊拉克部分地區均可聽見。另有多家媒體報道約旦境內發生多起爆炸。"
+    },
+    {
+      "id": "mkt:019f5432-c89e-7aab-8d41-23214b3b0c62",
+      "time": "2026-07-12 10:40:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Witnesses reported explosions in Doha, Qatar, and the Qatari government issued emergency alerts to mobile phones."
+    },
+    {
+      "id": "4982552",
+      "time": "2026-07-12 10:40:28",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "目擊者稱，多哈傳出爆炸聲，政府向手機使用者傳送安全警報。"
+    },
     {
       "id": "4982551",
       "time": "2026-07-12 10:39:12",
