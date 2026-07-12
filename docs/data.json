@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-12 21:50:55",
-  "count": 16632,
+  "updated": "2026-07-12 21:55:04",
+  "count": 16634,
   "items": [
+    {
+      "id": "mkt:019f5698-edd3-7aab-8d45-6291cccf7f82",
+      "time": "2026-07-12 21:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it killed two Hamas militants in the northern Gaza Strip."
+    },
+    {
+      "id": "mkt:019f5698-7a32-7aab-8d45-58c3e92c59ad",
+      "time": "2026-07-12 21:51:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alibaba",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index",
+        "Impact bullish",
+        "BABA.N"
+      ],
+      "text": "【China Merchants Securities: Overseas tech volatility lifts A‑share swings; flag domestic compute opportunity】China Merchants Securities says recent A‑share volatility has risen partly from spillovers of overseas tech turbulence, with leverage in Korea and comments from Meta driving sharp moves. At the industry level it highlights domestic compute as a near‑term catalyst ahead of a major AI conference where Huawei will first demonstrate the Atlas 950 SuperPoD — billed as the industry’s largest super‑node. The recent Hong Kong rebound, led by Alibaba’s earnings preview, may reflect an oversold bounce; further upside depends on upward revisions to aggregate Hong Kong earnings and a higher AI revenue share at leading tech firms, to be tested in upcoming interim results."
+    },
+    {
+      "id": "4982947",
+      "time": "2026-07-12 21:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“張雪機車”車手獲世界超級摩托車錦標賽多寧頓站次回合第十名】當地時間7月12日，2026世界超級摩托車錦標賽（WSBK）英國站WorldSSP組別第二回合正賽在英國多寧頓公園賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終獲得第十名。在前一天的第一回合比賽中，德比斯位列第八名。WSBK英國多寧頓站比賽結束，賽事將進入休賽期，下一站比賽將於當地時間9月4日在法國舉行。（央視新聞）"
+    },
     {
       "id": "mkt:019f5697-aed0-7aab-8d45-521340b87753",
       "time": "2026-07-12 21:50:08",
@@ -151553,14 +151589,6 @@
         "Impact bullish"
       ],
       "text": "【China Merchants Securities: After short-term shock, focus on tech recovery and mid-year earnings】China Merchants Securities says the recent sharp market adjustment following Meta's compute sale is a tactical move to lift ROIC in a high‑CapEx phase, not evidence of broad compute overcapacity. The firm views the industry as shifting from pure CapEx expansion into a ROIC‑verification stage; the pullback was amplified by prior outsized gains in generalized compute names and leveraged flows, creating a short‑term liquidity‑driven negative feedback loop. After the liquidity shock, the bank judges the AI structural trend intact: storage chip supply‑demand gaps remain, MLCC price increases persist, and indium phosphide shortages continue, supporting scope for a tech recovery. It also recommends selectively targeting mispricings between mid‑year earnings and share prices."
-    },
-    {
-      "id": "4970997",
-      "time": "2026-07-05 21:54:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商證券：短期衝擊後關注科技修復與中報業績雙主線】招商證券釋出研報稱，短期衝擊後關注科技修復與中報業績雙主線。Meta出售算力導致的市場大幅調整，但這並非算力過剩的訊號，而是高資本開支階段提升資產回報率的必然選擇。行業當前從單純的Capex擴張進入ROIC驗證階段，而非進入算力過剩階段。而市場目前的調整，主要由於短期泛算力板塊漲幅較大，疊加槓桿資金放大波動，悲觀敘事容易引起市場短期的資金負反饋，此前多次的AI泡沫論與蘋果漲價，都是相同的劇情。但在流動性衝擊後，該行認為AI的產業趨勢仍然沒有證偽，儲存晶片的供需缺口沒有變、MLCC的漲價沒有變、磷化銦的缺口沒有變，科技方向有望修復。除了科技方向之外，也可適度關注中報業績與股價錯配的方向。"
     }
   ]
 }

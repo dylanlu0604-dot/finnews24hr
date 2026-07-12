@@ -1,7 +1,43 @@
 {
   "date": "2026-07-12",
-  "count": 838,
+  "count": 841,
   "items": [
+    {
+      "id": "mkt:019f5698-edd3-7aab-8d45-6291cccf7f82",
+      "time": "2026-07-12 21:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it killed two Hamas militants in the northern Gaza Strip."
+    },
+    {
+      "id": "mkt:019f5698-7a32-7aab-8d45-58c3e92c59ad",
+      "time": "2026-07-12 21:51:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alibaba",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index",
+        "Impact bullish",
+        "BABA.N"
+      ],
+      "text": "【China Merchants Securities: Overseas tech volatility lifts A‑share swings; flag domestic compute opportunity】China Merchants Securities says recent A‑share volatility has risen partly from spillovers of overseas tech turbulence, with leverage in Korea and comments from Meta driving sharp moves. At the industry level it highlights domestic compute as a near‑term catalyst ahead of a major AI conference where Huawei will first demonstrate the Atlas 950 SuperPoD — billed as the industry’s largest super‑node. The recent Hong Kong rebound, led by Alibaba’s earnings preview, may reflect an oversold bounce; further upside depends on upward revisions to aggregate Hong Kong earnings and a higher AI revenue share at leading tech firms, to be tested in upcoming interim results."
+    },
+    {
+      "id": "4982947",
+      "time": "2026-07-12 21:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“張雪機車”車手獲世界超級摩托車錦標賽多寧頓站次回合第十名】當地時間7月12日，2026世界超級摩托車錦標賽（WSBK）英國站WorldSSP組別第二回合正賽在英國多寧頓公園賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終獲得第十名。在前一天的第一回合比賽中，德比斯位列第八名。WSBK英國多寧頓站比賽結束，賽事將進入休賽期，下一站比賽將於當地時間9月4日在法國舉行。（央視新聞）"
+    },
     {
       "id": "mkt:019f5697-aed0-7aab-8d45-521340b87753",
       "time": "2026-07-12 21:50:08",
