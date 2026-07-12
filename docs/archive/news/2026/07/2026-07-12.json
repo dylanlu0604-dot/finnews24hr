@@ -1,7 +1,26 @@
 {
   "date": "2026-07-12",
-  "count": 725,
+  "count": 727,
   "items": [
+    {
+      "id": "4982862",
+      "time": "2026-07-12 18:23:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體：一名伊朗海軍軍官在週日襲擊中身亡。"
+    },
+    {
+      "id": "mkt:019f55da-6ac2-7aab-8d44-746f35447b92",
+      "time": "2026-07-12 18:23:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A maritime advisory said the southern channel of the Strait of Hormuz remained open to shipping on Sunday despite reciprocal US‑Iran attacks and Iran's announcement that it had closed the strait."
+    },
     {
       "id": "mkt:019f55d7-a324-7aab-8d44-69ca6f53e163",
       "time": "2026-07-12 18:20:23",
