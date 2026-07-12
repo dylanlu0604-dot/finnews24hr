@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-12 18:17:58",
-  "count": 16582,
+  "updated": "2026-07-12 18:22:01",
+  "count": 16585,
   "items": [
+    {
+      "id": "mkt:019f55d7-a324-7aab-8d44-69ca6f53e163",
+      "time": "2026-07-12 18:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's foreign ministry reiterated that national sovereignty must be respected and its stability not undermined to help consolidate regional security."
+    },
+    {
+      "id": "mkt:019f55d7-2013-7aab-8d44-65df0a0fde6b",
+      "time": "2026-07-12 18:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Water Resources and China Meteorological Administration issue red flash-flood warning at 18:00 on July 12】The Ministry of Water Resources and the China Meteorological Administration issued a red mountain flash-flood meteorological warning at 18:00 on July 12. Forecast for 20:00 July 12–20:00 July 13: parts of northeastern Liaoning, southwestern Jilin, southern Anhui and northeastern Jiangxi face a high likelihood of mountain flash floods (orange warning); northeastern Liaoning, southwestern Jilin and southern Anhui carry a very high likelihood (red warning). County-level areas are listed in the bulletin. Other areas may see localized, short-duration intense rainfall that could trigger flash floods. Authorities urged real-time monitoring, flood-control warnings and relocation/evacuation measures."
+    },
+    {
+      "id": "4982861",
+      "time": "2026-07-12 18:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局7月12日18時聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局7月12日18時聯合釋出紅色山洪災害氣象預警：預計，7月12日20時至7月13日20時，遼寧東北部、吉林西南部、安徽南部、江西東北部等地部分地區發生山洪災害可能性大（橙色預警），其中，遼寧東北部、吉林西南部、安徽南部局地發生山洪災害可能性很大（紅色預警），預警區域涉及的縣（市、區）見下表。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
+    },
+    {
+      "id": "4982860",
+      "time": "2026-07-12 18:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報：俄羅斯武裝力量對敖德薩州一艘渡輪實施打擊。"
+    },
     {
       "id": "4982859",
       "time": "2026-07-12 18:16:55",
@@ -151111,14 +151143,6 @@
         "其他"
       ],
       "text": "【遼寧大連啟動防汛四級應急響應】7月5日16時30分，大連市氣象臺釋出暴雨藍色預警，根據《大連市防汛抗旱應急預案》有關規定並結合氣象預報，經會商研判，大連市防汛抗旱指揮部決定自7月5日16時50分起，釋出防汛藍色預警，啟動全市防汛四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "4970949",
-      "time": "2026-07-05 18:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗伊斯蘭革命衛隊船隻從阿曼海峽改道了6艘船隻。"
     }
   ]
 }
