@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-13 03:30:32",
-  "count": 16615,
+  "updated": "2026-07-13 03:34:22",
+  "count": 16616,
   "items": [
+    {
+      "id": "mkt:019f57d0-532c-7aab-8d46-bc8d513e815c",
+      "time": "2026-07-13 03:31:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Why lower oil prices have not yet reduced inflation】Falling crude has not produced equivalent drops in consumer fuel costs because refined-product supplies—not crude—are tight. The 3-2-1 crack spread has jumped to a record $65/bbl, implying refiners can buy crude at roughly $71/bbl and sell finished products valued around $136. The gap reflects refinery feed shortages—firms running cautious inventories and disruptions around the Strait of Hormuz, where refiners account for over 10% of global product output—rather than raw crude scarcity. Market models that tie consumer fuel costs directly to crude risk understating near-term energy inflation. Diesel remains elevated, keeping transport costs high and sustaining upward pressure on other consumer prices; the price gap has also attracted political attention, with Trump threatening action against oil companies."
+    },
+    {
+      "id": "4983055",
+      "time": "2026-07-13 03:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10貨幣走強。"
+    },
     {
       "id": "mkt:019f57ce-df18-7aab-8d46-b2141b4ce3b8",
       "time": "2026-07-13 03:30:02",
@@ -151421,14 +151442,6 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing."
-    },
-    {
-      "id": "4971099",
-      "time": "2026-07-06 03:33:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月06日03時23分在新疆喀什地區伽師縣（北緯39.45度，東經77.49度）發生3.0級地震，震源深度26千米。"
     }
   ]
 }

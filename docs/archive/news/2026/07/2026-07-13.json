@@ -1,7 +1,28 @@
 {
   "date": "2026-07-13",
-  "count": 74,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:019f57d0-532c-7aab-8d46-bc8d513e815c",
+      "time": "2026-07-13 03:31:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Why lower oil prices have not yet reduced inflation】Falling crude has not produced equivalent drops in consumer fuel costs because refined-product supplies—not crude—are tight. The 3-2-1 crack spread has jumped to a record $65/bbl, implying refiners can buy crude at roughly $71/bbl and sell finished products valued around $136. The gap reflects refinery feed shortages—firms running cautious inventories and disruptions around the Strait of Hormuz, where refiners account for over 10% of global product output—rather than raw crude scarcity. Market models that tie consumer fuel costs directly to crude risk understating near-term energy inflation. Diesel remains elevated, keeping transport costs high and sustaining upward pressure on other consumer prices; the price gap has also attracted political attention, with Trump threatening action against oil companies."
+    },
+    {
+      "id": "4983055",
+      "time": "2026-07-13 03:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10貨幣走強。"
+    },
     {
       "id": "mkt:019f57ce-df18-7aab-8d46-b2141b4ce3b8",
       "time": "2026-07-13 03:30:02",
