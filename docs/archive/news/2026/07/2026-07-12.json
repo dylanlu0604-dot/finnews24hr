@@ -1,7 +1,29 @@
 {
   "date": "2026-07-12",
-  "count": 780,
+  "count": 782,
   "items": [
+    {
+      "id": "4982899",
+      "time": "2026-07-12 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：恆尚節能兩融餘額：1.26億元，餘額增幅：239.47%；屹唐股份兩融餘額：11.47億元，餘額增幅：56.62%"
+    },
+    {
+      "id": "mkt:019f5643-0a9b-7aab-8d45-016ac5699127",
+      "time": "2026-07-12 20:17:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The U.S. military says the Strait of Hormuz is open to all vessels seeking lawful transit of international waterways. U.S. forces are deployed and ready to ensure freedom of navigation."
+    },
     {
       "id": "4982898",
       "time": "2026-07-12 20:15:52",

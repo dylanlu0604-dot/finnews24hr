@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-12 20:17:23",
+  "updated": "2026-07-12 20:21:31",
   "count": 16594,
   "items": [
+    {
+      "id": "4982899",
+      "time": "2026-07-12 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：恆尚節能兩融餘額：1.26億元，餘額增幅：239.47%；屹唐股份兩融餘額：11.47億元，餘額增幅：56.62%"
+    },
+    {
+      "id": "mkt:019f5643-0a9b-7aab-8d45-016ac5699127",
+      "time": "2026-07-12 20:17:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The U.S. military says the Strait of Hormuz is open to all vessels seeking lawful transit of international waterways. U.S. forces are deployed and ready to ensure freedom of navigation."
+    },
     {
       "id": "4982898",
       "time": "2026-07-12 20:15:52",
@@ -151212,22 +151234,6 @@
         "MKT News"
       ],
       "text": "【Egypt opens national strategic command center in new administrative capital】President Sisi inaugurated Egypt’s national strategic command center in the new administrative capital on the 4th. The facility is equipped with advanced technical infrastructure, secure communications and enhanced intelligence collection and analysis capabilities, and is intended to integrate leadership and operational levels into a unified command-and-control system for faster, more precise response."
-    },
-    {
-      "id": "4970985",
-      "time": "2026-07-05 20:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週兩融餘額增幅最大：銀河微電兩融餘額：4.19億元，餘額增幅：172.61%；明志科技兩融餘額：0.73億元，餘額增幅：123.31%"
-    },
-    {
-      "id": "4970984",
-      "time": "2026-07-05 20:19:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及國家戰略指揮中心在新行政首都啟用】埃及總統塞西4日在該國新行政首都為國家戰略指揮中心揭幕，宣佈該中心正式啟用。根據埃及總統府4日發表的宣告，塞西在啟用儀式上發表講話時說，國家戰略指揮中心的落成，標誌著埃及在指揮、控制和作戰管理領域實現重大飛躍。該中心配備先進的技術基礎設施、安全通訊系統，具有卓越的情報收集與分析能力，將領導層與執行層納入統一框架，實現指揮體系的高度一體化和精準快速響應。（央視新聞）"
     }
   ]
 }
