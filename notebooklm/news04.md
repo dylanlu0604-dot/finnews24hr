@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 06:03:35_
-_本檔包含 3381 則快訊，約 627740 字_
+_更新時間：2026-07-13 07:03:19_
+_本檔包含 3362 則快訊，約 627146 字_
+
+---
+
+### 2026-07-08 15:08:37  #其他
+
+【人社部：搭建人工智慧應用平臺 建設行業高質量資料集和人工智慧語料庫】人力資源社會保障部、國家發展改革委、工業和資訊化部、國家資料局近日聯合印發《關於加快推進“人工智慧＋人社”應用發展的實施意見》。人力資源社會保障部有關負責同志就《實施意見》回答記者提問。《實施意見》圍繞場景建設和應用，從平臺、資料、演算法、生態4個方面，提出基礎設施構建要求。一是搭建人工智慧應用平臺。構建“1（部級）＋N（國家人工智慧應用中試基地）＋32（省級人力資源社會保障部門）”的人社行業領域人工智慧協同發展格局，會同國家人工智慧應用中試基地統籌建設全國人社人工智慧應用平臺，打造安全可信的“人工智慧＋人社”應用基礎設施。二是建設行業高質量資料集和人工智慧語料庫。以場景應用為導向，在部省兩級統籌建設政策檔案庫、業務知識庫、案件案例庫等高質量資料集，協同開展資料治理、標註等工作，有效服務模型訓練和場景應用。三是建設人社行業演算法模型。聯合各有關方面協同推進人社行業大模型、智慧體、工具等開發應用，支援各地人力資源社會保障部門及人力資源服務機構、技術技能培訓和評價機構等按需選擇使用。四是建立制度標準和發展生態。制定人社行業領域人工智慧應用場景、高質量資料集等配套制度措施，建設人社行業領域人工智慧應用標準體系。鼓勵各有關方面開展聯合研究、社會賦能、能力評估、建設應用等工作，形成發展生態。
+
+---
+
+### 2026-07-08 15:08:23  #公司 #國際
+
+菲律賓總統通訊辦公室稱，亞馬遜雲科技或將最高投資50億美元。
+
+---
+
+### 2026-07-08 15:08:15  #市場
+
+富時100指數必需性週期消費品板塊開盤交易下跌1.3%。
+
+---
+
+### 2026-07-08 15:08:08  #公司
+
+【協創資料成立雲算技術公司】企查查APP顯示，近日，安徽協創雲算技術有限公司成立，法定代表人為潘文俊，註冊資本為1000萬元，經營範圍包含：資料處理服務；資訊保安裝置銷售；雲端計算裝置銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由協創資料間接全資持股。
+
+---
+
+### 2026-07-08 15:07:50  #國際
+
+美國國家公路交通安全管理局：克萊斯勒提交召回申請，涉及11980輛美國在售車輛。
+
+---
+
+### 2026-07-08 15:07:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state media reported the IRGC navy said on Wednesday morning one of its members was killed by an "enemy drone".
+
+---
+
+### 2026-07-08 15:07:26  #市場
+
+受油價上漲影響，英國國債與歐元區其他債券同步下跌。
+
+---
+
+### 2026-07-08 15:07:18  #公司
+
+【PCB概念港股跌幅擴大 建滔集團跌14%較最高價已腰斬】截至發稿，建滔集團(00148.HK)跌14%報72.65港元，較6月22日最高151.8港元已腰斬；建滔積層板(01888.HK)跌6%。訊息面上，建滔集團大股東張國榮家族關聯的Hallgain Management於7月2日至7月6日三個交易日，累計減持建滔集團合計涉資25.6億港元，持股量由34.3%降至31.98%。
+
+---
+
+### 2026-07-08 15:07:11  #其他
+
+【人社部：到2030年人社行業大模型成熟完備 人工智慧應用體系基本健全】人力資源社會保障部、國家發展改革委、工業和資訊化部、國家資料局近日聯合印發《關於加快推進“人工智慧＋人社”應用發展的實施意見》。人力資源社會保障部有關負責同志就《實施意見》回答記者提問。在工作推動方面，將用5年時間，完成“三步走”的工作目標。一是搭建基礎。以今年（2026年）為節點，推動人社行業領域人工智慧應用體系、標準體系、保障體系等初步成形，“人工智慧＋人社”應用基礎設施落地部署，培育一批高效能人社行業大模型和智慧體應用，打造20個左右基於人社行業大模型建設的應用場景及相應高質量資料集，形成算力、模型、資料、場景應用協同發展生態。二是普及推廣。到明確（2027年），普及應用一批人社行業大模型和智慧體，探索50個左右高價值應用場景賦能路徑，智慧化發展取得明顯成效。三是普遍應用。到2030年，高質量資料集有效供給，人社行業大模型成熟完備，人工智慧應用體系基本健全，形成人社行業領域人工智慧普遍應用的創新局面。
+
+---
+
+### 2026-07-08 15:07:00  #國際
+
+伊朗官方媒體：伊朗伊斯蘭革命衛隊海軍表示，一名成員週三晨間遭“敵方無人機”擊殺。
+
+---
+
+### 2026-07-08 15:06:52  #MKT News
+
+Spain's IBEX 35 fell as much as 1.00% intraday.
+
+---
+
+### 2026-07-08 15:06:51  #公司 #國際
+
+【押注半導體，韓國國民年金炒股暴賺8500億】據韓聯社報道，隨著第二季度KOSPI指數歷史上首次突破9000點大關並持續高位執行，韓國國民年金持有的股票估值在三個月內增加了189.5684萬億韓元（摺合人民幣約8500億元）。這一增幅較第一季度增加額高出100萬億韓元以上，創下季度基準歷史最高紀錄。據金融資訊企業FnGuide8日披露，以本月6日為基準，韓國國民年金持股5%以上並公示的上市企業（270家）股票評估總額合計為486.0118萬億韓元（摺合人民幣約2.18萬億元）。該金額較3月底的296.4433萬億韓元（摺合人民幣約1.33萬億元）增加189.5684萬億韓元（摺合人民幣約8500億元），收益率高達63.9%。其中，僅三星電子和SK海力士的持有評估額就增加了151萬億韓元（摺合人民幣約6770億元），佔整體增加額的79.8%。與第一季度不同，SK海力士的評估額增幅超過了三星電子。（中新經緯）
+
+---
+
+### 2026-07-08 15:06:40  #公司
+
+【密爾克衛在西安成立化工物流新公司】企查查APP顯示，近日，西安密爾克衛化工物流有限公司成立，經營範圍包含：航空國際貨物運輸代理；陸路國際貨物運輸代理；海上國際貨物運輸代理；國際貨物運輸代理等。企查查股權穿透顯示，該公司由密爾克衛全資持股。
+
+---
+
+### 2026-07-08 15:06:30  #MKT News #Market Regions #Greater China
+
+【China orders tighter power-supply safety for key industrial users】The Office of the State Council Work Safety Committee issued a notice directing regions, relevant ministries and central SOEs to tighten power-supply safety for critical electricity users. It requires comprehensive inspections and rectification of risks including simultaneous outages of dual-circuit supply systems. Mines, chemical plants, metal smelters and rail operators must carry out special self-checks of their supply systems, log defects in issue registers and complete rectifications within set deadlines. The notice mandates stronger supply-reliability management, strict implementation of dual-circuit supply and on-site emergency generators, and regular changeover drills for switching devices. It also orders enhanced inspection and maintenance of lines and equipment vulnerable to extreme weather, intensified safety training for key staff to improve fault detection and emergency response, and stepped-up supervision to enforce power-safety rules.
+
+---
+
+### 2026-07-08 15:06:17  #公司 #國際
+
+美國國家公路交通安全管理局表示，本田（美國本田汽車公司）將召回部分美國市場車輛。故障車輛後視影像無法正常顯示，會縮小駕駛員後方視野，進而提升車輛碰撞風險。
+
+---
+
+### 2026-07-08 15:06:14  #公司 #國際
+
+美國國家公路交通安全管理局訊息：本田（美國本田汽車公司）將在美國召回 325588 輛汽車。
+
+---
+
+### 2026-07-08 15:05:07  #公司
+
+【四會富仕：在玻璃基板領域有技術積累並申請專利，但尚未量產出貨】四會富仕7月8日在互動平臺表示，公司在玻璃基板方面有一定的技術積累，並申請了相關的發明專利，但目前未有玻璃基板量產出貨。
+
+---
+
+### 2026-07-08 15:04:56  #市場 #國際
+
+美國原油期貨因美伊脆弱停火協議引發市場擔憂，漲幅超3%。
+
+---
+
+### 2026-07-08 15:04:37  #宏觀
+
+【國務院安委會辦公室部署加強重要電力使用者供用電安全工作】日前，國務院安委會辦公室印發通知，部署各地區、各有關部門和中央企業認真貫徹落實習近平總書記關於安全生產和防災減災救災工作的重要指示精神，加強重要電力使用者供用電安全工作，全面排查整治重要電力使用者雙迴路系統同時斷電等新型衍生風險隱患，切實採取有力措施，堅決防範突發斷電引發安全生產險情事故。通知要求，要督促礦山、化工、金屬冶煉、鐵路運輸等重要電力使用者開展供電系統專項自查，建立問題臺賬，限期閉環整改。強化供電可靠性管理，嚴格落實雙迴路供電和自備應急電源配置要求，定期開展切換裝置操作演練。加強對易受極端天氣影響的薄弱線路、裝置巡檢維護，強化重點崗位從業人員安全培訓，提升供電故障識別和應急處置能力。各地區、各有關部門要加強監督檢查，督促嚴格落實電力安全管理有關制度要求。要督促供電企業因地制宜立即組織對重點使用者供電線路、變電站、配電設施開展檢查，加固、更新、增設相關設施裝置，提升抗災能力。建立健全極端天氣供電風險監測預警機制，加密重點線路和裝置巡檢頻次，密切跟蹤氣象變化、提前釋出預警資訊。配齊配強應急搶修隊伍、裝備和物資，制定專項搶修預案，適時開展應急演練。主動對接重要電力使用者，協同做好供電故障防範應對。要切實做好事故應對處置，嚴格落實24小時值班、領導帶班制度和事故報告制度，嚴禁遲報、謊報、瞞報。及時將極端天氣預報預警傳遞到基層單位和作業人員，做到早預警、早準備、早處置。一旦發生險情事故第一時間啟動應急預案，採取迅速撤人、啟動應急電源等針對性措施，高效應急處置，嚴防次生、衍生事故。
+
+---
+
+### 2026-07-08 15:04:06  #公司 #市場
+
+義大利萊昂納多公司股價早盤上漲2%。
+
+---
+
+### 2026-07-08 15:03:58  #其他
+
+【欽州將防汛防颱風二級應急響應調整為防汛二級應急響應】受西南季風影響，7月8日欽州市仍有強降雨天氣，全市大部地區有大雨到暴雨、局地大暴雨，累計降雨量大部40-80毫米，局地150毫米以上。目前江河水體高位執行，多座水庫高水位執行，土壤含水量飽和，地質災害風險疊加升高。
+
+---
+
+### 2026-07-08 15:03:55  #其他
+
+【黑龍江省釋出山洪災害、中小河流洪水氣象風險預警】黑龍江省水利廳和黑龍江省氣象局7月8日14時聯合釋出山洪災害氣象風險黃色和藍色預警：預計7月8日14時至7月9日14時，豐林縣、伊美區、南岔縣、金林區、大箐山縣、鐵力市、蘿北縣、湯原縣、郊區、依蘭縣、通河縣、方正縣、延壽縣、尚志市、五常市發生山洪災害風險較高（黃色預警），友好區、烏翠區、湯旺縣、樺川縣、慶安縣有一定風險發生山洪災害（藍色預警）。中小河流洪水氣象風險黃色和藍色預警：預計7月8日14時至7月9日14時，豐林縣、伊美區、南岔縣、大箐山縣、鐵力市、金林區、蘿北縣、湯原縣、郊區、通河縣、方正縣、延壽縣、尚志市、五常市、依蘭縣發生中小河流洪水風險較高（黃色預警），友好區、烏翠區、慶安縣、湯旺縣、樺川縣有一定風險發生中小河流洪水（藍色預警）。
+
+---
+
+### 2026-07-08 15:03:45  #公司 #國際
+
+【穆迪：銀行主導地位和較高風險料將限制東南亞私募信貸】穆迪評級(Moody's Ratings)的Sally Yim在接受採訪時表示，在銀行佔據主導地位，且私募信貸機構擔心回報無法與較高的運營風險相匹配的情況下，東南亞的私募信貸尚未真正起飛。按本幣計算，更廣泛的亞太地區的私募信貸增速可能快於美國和歐洲。然而，東南亞的私募信貸增長似乎更為有限，主要集中在中端市場或陷入困境的公司。她說，東南亞的銀行通常流動性很強、資本充足，並且能夠提供定價合理的融資解決方案。她補充說，儘管如此，隨著該地區經濟的增長，一些行業將出現私募信貸可以填補的資金缺口，例如透過提供期限更長的融資。
 
 ---
 
@@ -20113,257 +20251,5 @@ WTI crude is trading up more than 1.00% intraday at $69.56/bbl.
 ### 2026-07-07 13:51:54  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
 
 China 10Y Yield Rebounds as Growth Outlook Dims — China's 10-year government bond yield rose to around 1.73% on Tuesday, rebounding after two consecutive sessions of declines as investors assessed the latest economic outlook from the World Bank. The lender forecasts China's economic growth to moderate to 4.4% in 2026 and 4.3% in 2027, citing a prolonged property market downturn and subdued consumer demand. It also cautioned that a deeper housing-market correction could further weigh on consumption, real estate investment, and related sectors. China's economy expanded 5.0% year-on-year in the first quarter of 2026, accelerating from 4.5% in the previous quarter and surpassing market expectations of 4.8%. The reading marked the strongest annual growth in three quarters, underpinned by resilient export activity. Separately, China and Hong Kong unveiled a package of measures to strengthen collaboration across currency, bond, and gold markets, further cementing Hong Kong's status as a leading offshore yuan hub.
-
----
-
-### 2026-07-07 13:51:01  #MKT News
-
-Japan 20-year bond yield rose 0.5 bps to 3.810%.
-
----
-
-### 2026-07-07 13:50:57  #市場 #國際
-
-20年期日本國債收益率<JP20YTN=JBTC>上漲0.5個基點，至3.810%。
-
----
-
-### 2026-07-07 13:50:05  #MKT News #Important
-
-Germany's May seasonally adjusted industrial production (m/m) and the UK's June Halifax seasonally adjusted house price index (m/m) are due in 10 minutes.
-
----
-
-### 2026-07-07 13:49:01  #其他
-
-突尼西亞總統稱通貨膨脹已得到控制。
-
----
-
-### 2026-07-07 13:48:44  #其他
-
-【第140屆廣交會迎來開幕倒計時100天】從中國對外貿易中心瞭解到，第140屆廣交會將於今年10月15日至11月4日在廣州舉辦，今天是第140屆廣交會倒計時100天。第140屆廣交會展覽總面積155萬平方米，展位總數7.57萬個，繼續保持全球第一大展的規模，設54個專業展區，三期主題分別為先進製造、品質家居、美好生活。服務機器人、智慧醫療、無人機、智慧穿戴、整合房屋等一批代表新質生產力發展成果的產品將集中亮相。（央視新聞）
-
----
-
-### 2026-07-07 13:48:40  #MKT News #Market Regions #Greater China
-
-【140th Canton Fair enters 100-day countdown】The 140th Canton Fair will be held Oct. 15–Nov. 4 in Guangzhou. The exposition covers 1.55 million sq m with 75,700 booths across 54 specialized zones, maintaining its status as the world's largest trade fair. The three phases focus on advanced manufacturing, quality home furnishings and lifestyle products. Exhibits will highlight service robots, smart medical devices, drones, wearable electronics and modular/prefab housing.
-
----
-
-### 2026-07-07 13:46:20  #公司
-
-【華勤技術等在上海成立汽車電子公司】企查查APP顯示，近日，豐田紡織華勤（上海）汽車電子有限公司成立，經營範圍包含：汽車零部件研發；技術進出口；貨物進出口；軟體開發等。企查查股權穿透顯示，該公司由華勤技術等共同持股。
-
----
-
-### 2026-07-07 13:45:14  #MKT News #SPCX.O #Impact bullish
-
-MORGAN STANLEY starts coverage of SpaceX (SPCX.O), assigns Overweight rating and $300 price target.
-
----
-
-### 2026-07-07 13:44:46  #Trading Economics #Economy #Finland #Industrial Production #Importance 1
-
-Finnish Industrial Output Slows to 4-Month Low — Industrial production in Finland grew by 0.6% year-on-year in May 2026, slowing from an upwardly revised 3.0% in the previous month, marking the softest pace of growth since a contraction in January. Production growth eased in the manufacturing sector (0.7% vs 2.3%), reflecting weaker output in food products (2.6% vs 7.2%), chemical industry (-7.8% vs 5.0%), and printing and reproduction of recorded media (-12.0% vs -5.6%). At the same time, output in mining and quarrying posted a steeper decline (-10.7% vs -5.0%), while electricity, gas, steam, and air-conditioning supply slipped into negative territory (-0.1% vs 8.9%). On a seasonally adjusted monthly basis, industrial output fell1.4% in May, easing slightly from a 1.9% drop in the previous month, the sharpest monthly drop in nine months.
-
----
-
-### 2026-07-07 13:43:56  #MKT News #ASML.AS #Impact bullish
-
-MORGAN STANLEY raises ASML PT to €1,830 from €1,660.
-
----
-
-### 2026-07-07 13:40:44  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時縮量5009億元。
-
----
-
-### 2026-07-07 13:40:43  #國際
-
-印尼和印度將簽署布拉莫斯導彈合同。
-
----
-
-### 2026-07-07 13:40:35  #國際
-
-莫迪：印度和印尼將在不鏽鋼和稀土領域開展合作。
-
----
-
-### 2026-07-07 13:40:19  #其他
-
-【全國62條河流發生超警以上洪水】水利部7月7日訊息，受降雨影響，昨天到今天，廣西西江干流桂平至梧州江段及支流清水河蒙江、鬱江及支流武思江、柳江支流洛清江、桂江及支流桃花江、桂南沿海南流江欽江，廣東北江支流水邊河，湖南資水及支流蓼水等62條河流發生超警以上洪水，其中廣西清水河發生有實測資料以來最大洪水。此外，太湖周邊杭嘉湖河網區4站超警0.02～0.07米。
-
----
-
-### 2026-07-07 13:40:05  #觀點
-
-摩根士丹利將阿斯麥目標價從1660歐元上調至1830歐元。
-
----
-
-### 2026-07-07 13:40:03  #市場 #焦點
-
-紐約期金失守4130美元/盎司，日內跌0.91%。
-
----
-
-### 2026-07-07 13:39:50  #其他
-
-智譜(02513.HK)漲幅擴大至10%。
-
----
-
-### 2026-07-07 13:39:47  #MKT News #Important #Market Regions #Greater China #02513.HK #Impact bullish
-
-Zhipu (02513.HK) extended gains to 10% after the company said a media report that it had withdrawn its A-share guidance filing was false.
-
----
-
-### 2026-07-07 13:39:37  #MKT News #Commodities #Industrial Metals #Copper #Impact mixed
-
-Prime Minister Modi said India and Indonesia have signed an agreement to strengthen supply chains for critical minerals and steel.
-
----
-
-### 2026-07-07 13:39:30  #國際
-
-印度總理莫迪：印度與印尼簽署協議，加強關鍵礦產及鋼鐵供應鏈合作。
-
----
-
-### 2026-07-07 13:39:21  #市場 #焦點
-
-現貨黃金失守4120美元/盎司，日內跌1.08%。
-
----
-
-### 2026-07-07 13:39:17  #國際
-
-莫迪：印度和印尼將連線支付系統。
-
----
-
-### 2026-07-07 13:38:15  #MKT News
-
-South Korea's foreign ministry said it will hold a trilateral foreign ministers' meeting with the US and Japan on Tuesday during the NATO summit to discuss regional and global issues.
-
----
-
-### 2026-07-07 13:37:39  #國際
-
-莫迪：印度和印尼將深化在初創企業領域的合作。
-
----
-
-### 2026-07-07 13:37:13  #國際
-
-韓國外交部表示，韓國將於週二在北約峰會期間同美國、日本舉行三邊外長會議。
-
----
-
-### 2026-07-07 13:36:29  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌6%，現報2420.50點。
-
----
-
-### 2026-07-07 13:36:13  #其他
-
-【機構：受颱風外圍環流影響，珠三角機場執行承壓，深圳、珠海延誤率均超70%】根據航班管家DAST，國內主要機場實時執行情況來看，截至今日13:15分，深圳寶安機場、珠海金灣機場出港延誤率分別達到73.13%和75%，均位居全國主要機場前列。其中，深圳寶安機場出港已有109架次航班取消，珠海金灣機場取消航班40架次。深圳作為國內重要航空樞紐，當前仍有376架次待執行航班，與此同時，珠海機場待執行航班89架次。
-
----
-
-### 2026-07-07 13:35:30  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Weighted Index closed down 1,077.28 points (-2.31%) at 45,479.11 on Tuesday, July 7.
-
----
-
-### 2026-07-07 13:35:08  #其他
-
-臺灣證交所加權股價指數收低2.3%報45,479.11。
-
----
-
-### 2026-07-07 13:34:59  #市場
-
-阿斯麥在TRADEGATE平臺下跌4.5%。
-
----
-
-### 2026-07-07 13:34:44  #公司
-
-【霸王茶姬：廣西洪澇對業務暫無明顯影響】霸王茶姬方面表示，廣西洪澇對業務暫無明顯影響。公司已第一時間啟動備災資金，協助受災區域開展應急救助、災後恢復等工作。會密切關注救災進展，後續根據當地情況啟動相應預案。
-
----
-
-### 2026-07-07 13:33:13  #國際
-
-菲律賓財長稱富士康有意在當地建AI資料中心。
-
----
-
-### 2026-07-07 13:31:23  #MKT News
-
-Philippine finance minister says he hopes to sign a Pax Silica framework agreement with the United States within the year.
-
----
-
-### 2026-07-07 13:31:12  #公司
-
-【深圳智慧眼鏡公司逸文科技完成1.5億美元融資，投後估值超10億美元】7月6日，深圳智慧眼鏡公司逸文科技（Even Realities）宣佈完成1.5億美元Pre-B輪融資，投後估值超過10億美元，正式躋身獨角獸行列。本輪由美團龍珠及美團戰投領投，老股東源一資本和騰訊超額跟投。今年年初，逸文科技還曾完成A++輪融資，由光合創投與源一資本聯合領投，達晨等老股東超額追投。
-
----
-
-### 2026-07-07 13:31:08  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #S&P500
-
-【WBG: China growth remains resilient】WBG said in a China economic brief released July 7 that despite strong supply, weak demand and a global energy-supply shock, China’s growth has remained resilient. Year-to-date through May, high-tech industry investment rose 4.5% YoY, driven by strong domestic and external AI-related demand. Robust external demand for tech‑intensive goods sustained export momentum, while tech-related imports expanded materially, reflecting accelerated AI capex and higher demand for components for tech‑intensive export production. WBG said China has largely mitigated the energy shock via diversified energy import sources, a relatively high share of renewables and temporary retail fuel price controls.
-
----
-
-### 2026-07-07 13:30:55  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 10-year government bond yield rose 2.0 bps to 2.850%.
-
----
-
-### 2026-07-07 13:30:42  #市場 #國際
-
-10年期日本國債收益率上漲2.0個基點至2.850%。
-
----
-
-### 2026-07-07 13:30:26  #公司
-
-谷歌和RWE以24億歐元的估值投資Proxima Fusion。
-
----
-
-### 2026-07-07 13:30:21  #市場 #焦點
-
-白銀連續主力合約日內跌3%，現報14737.00元。
-
----
-
-### 2026-07-07 13:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 2.03% — Top crypto losers are Ether (-2.03%), XRP (-1.85%) and Bitcoin (-1.74%).
-
----
-
-### 2026-07-07 13:28:48  #其他
-
-【世界銀行：中國經濟增長保持韌性】世界銀行7月7日在京釋出最新一期中國經濟簡報。報告稱，儘管面臨供強需弱和全球能源供應衝擊，中國經濟增長總體保持韌性。報告顯示，今年前5個月，受國內外人工智慧相關的強勁需求推動，中國高技術產業投資同比增長4.5%。從出口側來看，中國技術密集型產品的強勁外需支撐中國出口保持景氣。與此同時，中國科技相關進口顯著擴張，反映人工智慧相關資本開支加速以及對技術密集型出口生產所需零部件的需求增長。（新華社）
-
----
-
-### 2026-07-07 13:26:34  #MKT News #Commodities #Energy #DAX #Impact mixed #EURUSD #Impact bearish
-
-【Sources: Germany to spend up to €1.5 bln to build state strategic gas reserve】Germany's economics ministry plans a state-owned strategic natural gas reserve to guard against extreme disruptions, a person familiar with the plan said. The reserve would hold about 24 TWh—roughly 10% of Germany's gas storage. Initial build, gas procurement and injection costs are estimated at €1.2–1.5 bln, to be incurred in 2027–28, with annual operating costs of €150–180m. The cabinet is expected to consider the proposal in mid‑August. Funding would be raised via a surcharge on gas consumers.
 
 ---

@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 06:03:35_
-_本檔包含 3199 則快訊，約 627135 字_
+_更新時間：2026-07-13 07:03:19_
+_本檔包含 3210 則快訊，約 627275 字_
+
+---
+
+### 2026-07-07 13:51:01  #MKT News
+
+Japan 20-year bond yield rose 0.5 bps to 3.810%.
+
+---
+
+### 2026-07-07 13:50:57  #市場 #國際
+
+20年期日本國債收益率<JP20YTN=JBTC>上漲0.5個基點，至3.810%。
+
+---
+
+### 2026-07-07 13:50:05  #MKT News #Important
+
+Germany's May seasonally adjusted industrial production (m/m) and the UK's June Halifax seasonally adjusted house price index (m/m) are due in 10 minutes.
+
+---
+
+### 2026-07-07 13:49:01  #其他
+
+突尼西亞總統稱通貨膨脹已得到控制。
+
+---
+
+### 2026-07-07 13:48:44  #其他
+
+【第140屆廣交會迎來開幕倒計時100天】從中國對外貿易中心瞭解到，第140屆廣交會將於今年10月15日至11月4日在廣州舉辦，今天是第140屆廣交會倒計時100天。第140屆廣交會展覽總面積155萬平方米，展位總數7.57萬個，繼續保持全球第一大展的規模，設54個專業展區，三期主題分別為先進製造、品質家居、美好生活。服務機器人、智慧醫療、無人機、智慧穿戴、整合房屋等一批代表新質生產力發展成果的產品將集中亮相。（央視新聞）
+
+---
+
+### 2026-07-07 13:48:40  #MKT News #Market Regions #Greater China
+
+【140th Canton Fair enters 100-day countdown】The 140th Canton Fair will be held Oct. 15–Nov. 4 in Guangzhou. The exposition covers 1.55 million sq m with 75,700 booths across 54 specialized zones, maintaining its status as the world's largest trade fair. The three phases focus on advanced manufacturing, quality home furnishings and lifestyle products. Exhibits will highlight service robots, smart medical devices, drones, wearable electronics and modular/prefab housing.
+
+---
+
+### 2026-07-07 13:46:20  #公司
+
+【華勤技術等在上海成立汽車電子公司】企查查APP顯示，近日，豐田紡織華勤（上海）汽車電子有限公司成立，經營範圍包含：汽車零部件研發；技術進出口；貨物進出口；軟體開發等。企查查股權穿透顯示，該公司由華勤技術等共同持股。
+
+---
+
+### 2026-07-07 13:45:14  #MKT News #SPCX.O #Impact bullish
+
+MORGAN STANLEY starts coverage of SpaceX (SPCX.O), assigns Overweight rating and $300 price target.
+
+---
+
+### 2026-07-07 13:44:46  #Trading Economics #Economy #Finland #Industrial Production #Importance 1
+
+Finnish Industrial Output Slows to 4-Month Low — Industrial production in Finland grew by 0.6% year-on-year in May 2026, slowing from an upwardly revised 3.0% in the previous month, marking the softest pace of growth since a contraction in January. Production growth eased in the manufacturing sector (0.7% vs 2.3%), reflecting weaker output in food products (2.6% vs 7.2%), chemical industry (-7.8% vs 5.0%), and printing and reproduction of recorded media (-12.0% vs -5.6%). At the same time, output in mining and quarrying posted a steeper decline (-10.7% vs -5.0%), while electricity, gas, steam, and air-conditioning supply slipped into negative territory (-0.1% vs 8.9%). On a seasonally adjusted monthly basis, industrial output fell1.4% in May, easing slightly from a 1.9% drop in the previous month, the sharpest monthly drop in nine months.
+
+---
+
+### 2026-07-07 13:43:56  #MKT News #ASML.AS #Impact bullish
+
+MORGAN STANLEY raises ASML PT to €1,830 from €1,660.
+
+---
+
+### 2026-07-07 13:40:44  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時縮量5009億元。
+
+---
+
+### 2026-07-07 13:40:43  #國際
+
+印尼和印度將簽署布拉莫斯導彈合同。
+
+---
+
+### 2026-07-07 13:40:35  #國際
+
+莫迪：印度和印尼將在不鏽鋼和稀土領域開展合作。
+
+---
+
+### 2026-07-07 13:40:19  #其他
+
+【全國62條河流發生超警以上洪水】水利部7月7日訊息，受降雨影響，昨天到今天，廣西西江干流桂平至梧州江段及支流清水河蒙江、鬱江及支流武思江、柳江支流洛清江、桂江及支流桃花江、桂南沿海南流江欽江，廣東北江支流水邊河，湖南資水及支流蓼水等62條河流發生超警以上洪水，其中廣西清水河發生有實測資料以來最大洪水。此外，太湖周邊杭嘉湖河網區4站超警0.02～0.07米。
+
+---
+
+### 2026-07-07 13:40:05  #觀點
+
+摩根士丹利將阿斯麥目標價從1660歐元上調至1830歐元。
+
+---
+
+### 2026-07-07 13:40:03  #市場 #焦點
+
+紐約期金失守4130美元/盎司，日內跌0.91%。
+
+---
+
+### 2026-07-07 13:39:50  #其他
+
+智譜(02513.HK)漲幅擴大至10%。
+
+---
+
+### 2026-07-07 13:39:47  #MKT News #Important #Market Regions #Greater China #02513.HK #Impact bullish
+
+Zhipu (02513.HK) extended gains to 10% after the company said a media report that it had withdrawn its A-share guidance filing was false.
+
+---
+
+### 2026-07-07 13:39:37  #MKT News #Commodities #Industrial Metals #Copper #Impact mixed
+
+Prime Minister Modi said India and Indonesia have signed an agreement to strengthen supply chains for critical minerals and steel.
+
+---
+
+### 2026-07-07 13:39:30  #國際
+
+印度總理莫迪：印度與印尼簽署協議，加強關鍵礦產及鋼鐵供應鏈合作。
+
+---
+
+### 2026-07-07 13:39:21  #市場 #焦點
+
+現貨黃金失守4120美元/盎司，日內跌1.08%。
+
+---
+
+### 2026-07-07 13:39:17  #國際
+
+莫迪：印度和印尼將連線支付系統。
+
+---
+
+### 2026-07-07 13:38:15  #MKT News
+
+South Korea's foreign ministry said it will hold a trilateral foreign ministers' meeting with the US and Japan on Tuesday during the NATO summit to discuss regional and global issues.
+
+---
+
+### 2026-07-07 13:37:39  #國際
+
+莫迪：印度和印尼將深化在初創企業領域的合作。
+
+---
+
+### 2026-07-07 13:37:13  #國際
+
+韓國外交部表示，韓國將於週二在北約峰會期間同美國、日本舉行三邊外長會議。
+
+---
+
+### 2026-07-07 13:36:29  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌6%，現報2420.50點。
+
+---
+
+### 2026-07-07 13:36:13  #其他
+
+【機構：受颱風外圍環流影響，珠三角機場執行承壓，深圳、珠海延誤率均超70%】根據航班管家DAST，國內主要機場實時執行情況來看，截至今日13:15分，深圳寶安機場、珠海金灣機場出港延誤率分別達到73.13%和75%，均位居全國主要機場前列。其中，深圳寶安機場出港已有109架次航班取消，珠海金灣機場取消航班40架次。深圳作為國內重要航空樞紐，當前仍有376架次待執行航班，與此同時，珠海機場待執行航班89架次。
+
+---
+
+### 2026-07-07 13:35:30  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Weighted Index closed down 1,077.28 points (-2.31%) at 45,479.11 on Tuesday, July 7.
+
+---
+
+### 2026-07-07 13:35:08  #其他
+
+臺灣證交所加權股價指數收低2.3%報45,479.11。
+
+---
+
+### 2026-07-07 13:34:59  #市場
+
+阿斯麥在TRADEGATE平臺下跌4.5%。
+
+---
+
+### 2026-07-07 13:34:44  #公司
+
+【霸王茶姬：廣西洪澇對業務暫無明顯影響】霸王茶姬方面表示，廣西洪澇對業務暫無明顯影響。公司已第一時間啟動備災資金，協助受災區域開展應急救助、災後恢復等工作。會密切關注救災進展，後續根據當地情況啟動相應預案。
+
+---
+
+### 2026-07-07 13:33:13  #國際
+
+菲律賓財長稱富士康有意在當地建AI資料中心。
+
+---
+
+### 2026-07-07 13:31:23  #MKT News
+
+Philippine finance minister says he hopes to sign a Pax Silica framework agreement with the United States within the year.
+
+---
+
+### 2026-07-07 13:31:12  #公司
+
+【深圳智慧眼鏡公司逸文科技完成1.5億美元融資，投後估值超10億美元】7月6日，深圳智慧眼鏡公司逸文科技（Even Realities）宣佈完成1.5億美元Pre-B輪融資，投後估值超過10億美元，正式躋身獨角獸行列。本輪由美團龍珠及美團戰投領投，老股東源一資本和騰訊超額跟投。今年年初，逸文科技還曾完成A++輪融資，由光合創投與源一資本聯合領投，達晨等老股東超額追投。
+
+---
+
+### 2026-07-07 13:31:08  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #S&P500
+
+【WBG: China growth remains resilient】WBG said in a China economic brief released July 7 that despite strong supply, weak demand and a global energy-supply shock, China’s growth has remained resilient. Year-to-date through May, high-tech industry investment rose 4.5% YoY, driven by strong domestic and external AI-related demand. Robust external demand for tech‑intensive goods sustained export momentum, while tech-related imports expanded materially, reflecting accelerated AI capex and higher demand for components for tech‑intensive export production. WBG said China has largely mitigated the energy shock via diversified energy import sources, a relatively high share of renewables and temporary retail fuel price controls.
+
+---
+
+### 2026-07-07 13:30:55  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 10-year government bond yield rose 2.0 bps to 2.850%.
+
+---
+
+### 2026-07-07 13:30:42  #市場 #國際
+
+10年期日本國債收益率上漲2.0個基點至2.850%。
+
+---
+
+### 2026-07-07 13:30:26  #公司
+
+谷歌和RWE以24億歐元的估值投資Proxima Fusion。
+
+---
+
+### 2026-07-07 13:30:21  #市場 #焦點
+
+白銀連續主力合約日內跌3%，現報14737.00元。
+
+---
+
+### 2026-07-07 13:30:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Drops by 2.03% — Top crypto losers are Ether (-2.03%), XRP (-1.85%) and Bitcoin (-1.74%).
+
+---
+
+### 2026-07-07 13:28:48  #其他
+
+【世界銀行：中國經濟增長保持韌性】世界銀行7月7日在京釋出最新一期中國經濟簡報。報告稱，儘管面臨供強需弱和全球能源供應衝擊，中國經濟增長總體保持韌性。報告顯示，今年前5個月，受國內外人工智慧相關的強勁需求推動，中國高技術產業投資同比增長4.5%。從出口側來看，中國技術密集型產品的強勁外需支撐中國出口保持景氣。與此同時，中國科技相關進口顯著擴張，反映人工智慧相關資本開支加速以及對技術密集型出口生產所需零部件的需求增長。（新華社）
+
+---
+
+### 2026-07-07 13:26:34  #MKT News #Commodities #Energy #DAX #Impact mixed #EURUSD #Impact bearish
+
+【Sources: Germany to spend up to €1.5 bln to build state strategic gas reserve】Germany's economics ministry plans a state-owned strategic natural gas reserve to guard against extreme disruptions, a person familiar with the plan said. The reserve would hold about 24 TWh—roughly 10% of Germany's gas storage. Initial build, gas procurement and injection costs are estimated at €1.2–1.5 bln, to be incurred in 2027–28, with annual operating costs of €150–180m. The cabinet is expected to consider the proposal in mid‑August. Funding would be raised via a surcharge on gas consumers.
 
 ---
 
@@ -19123,197 +19375,5 @@ Brazil Trade Surplus Widens Sharply in June — Brazil’s trade surplus widened
 ### 2026-07-06 07:03:41  #公司 #國際
 
 【伊拉克批准研究戰略石油出口管道專案的初步協議】據伊拉克內閣宣告稱，伊拉克內閣已批准巴士拉石油公司與一個由美國Capital TI、雪佛龍及卡達UCC等組成的財團，簽署“協議綱要”（即初步協議）和保密協議，以研究戰略石油出口管道專案。該財團將準備技術和財務可行性研究報告，比較多條擬議路線，包括巴士拉-哈迪薩-基爾庫克-傑伊漢，以及巴士拉-哈迪薩-巴尼亞斯。內閣表示，這些協議並不意味著伊拉克石油部將承擔任何最終的財務或合同義務。內閣還授權巴士拉石油公司與KBR公司簽署諮詢服務合同，用於巴士拉-哈迪薩輸油管道專案。
-
----
-
-### 2026-07-06 07:02:52  #市場
-
-【A股交易新規今起實施 盤後固定價格交易機制擴容 滬深主機板風險警示股票漲跌幅限制由5%調整至10%】7月6日起，A股交易新規正式施行。對投資者而言，兩大方面變化值得關注。第一，盤後固定價格交易方式適用證券範圍由科創板、創業板股票擴充套件至全部A股（北交所股票7月6日暫不實施）和ETF；第二，滬深主機板風險警示股票（ST、*ST股票）漲跌幅限制由5%調整至10%。業內人士認為，交易規則變化，事關投資者利益，投資者需積極關注變化，注意盤後固定價格交易活躍度、交易安排與連續競價階段存在差異，同時審慎參與滬深主機板風險警示股票交易。（中國證券報）
-
----
-
-### 2026-07-06 06:56:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An adviser to Ukraine’s interior minister said roughly 15 explosions occurred in Kyiv within 10 minutes; air-raid sirens remain active and further cruise missile and additional ballistic missile strikes are possible.
-
----
-
-### 2026-07-06 06:56:24  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Extends Gains to Start the Week — The NZX 50 climbed 23 points, or 0.2%, to 13,642 in Monday morning deals, extending gains from the previous session, hitting its highest level since February 27 and tracking a rise in US futures as Wall Street looks to extend its rally after the Dow Jones posted a record high. Easing oil prices also fueled sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed meeting minutes due this week. However, traders remained cautious ahead of the RBNZ's monetary policy decision on Wednesday, with the market expecting the RBNZ to raise its policy rate by 25 bps to 2.5%. Financials, energy, materials, and consumer staples mainly drove the index, with notable gains from Infratil (3.0%), Vulcan Steel (1.9%), Delegat Group (1.5%), Chorus (1.0%), and A2 Milk (0.9%).
-
----
-
-### 2026-07-06 06:55:21  #國際
-
-【“殭屍國會”正阻礙特朗普施政議程】隨著中期選舉逐步臨近，越來越多共和黨籍眾議員無心履職、不願恪守黨內統一投票立場，多項關鍵立法前景岌岌可危。已有議員私下將本屆國會稱作殭屍國會。多名議員及國會幕僚透露，共和黨高層愈發擔憂：議員參會意願持續低迷；即便到場參會，也可能當眾倒戈反對黨內提案，大量法案或將陷入擱置、徹底夭折。此前黨內分歧主要集中在參議院，如今眾議院也將迎來動盪的夏秋兩季：大量即將卸任、初選落敗或心懷不滿的議員行事愈發不受黨內約束，出勤率持續下滑，這一系列問題足以顛覆共和黨整套施政議程。
-
----
-
-### 2026-07-06 06:54:46  #其他
-
-【四川綿竹地震目前未造成人員傷亡和房屋倒損】據中國地震臺網正式測定，5日23時03分、23時20分、23時30分，德陽綿竹市先後發生4.5級地震（北緯31.58度，東經103.98度）、4.0級地震（北緯31.55度，東經103.98度）、4.5級地震（北緯31.58度，東經104.00度），震源深度分別為20公里、15公里、18公里。地震發生後，德陽市和綿竹市兩級抗震救災指揮部啟動應急響應，組織開展災情排查等相關工作。經多輪排查，截至6日5時，地震未造成人員傷亡和房屋倒損，未發現交通、電力、通訊等設施受損情況。目前，排查工作仍在持續開展。（央視新聞）
-
----
-
-### 2026-07-06 06:51:52  #MKT News
-
-【Netanyahu says he will continue opposing Iran's nuclear program】Netanyahu said on the 5th (local time) he will continue to oppose Iran's nuclear program regardless of whether the US and Iran reach an agreement. He said the Israeli government will never allow Iran to obtain nuclear weapons to defend Israel's core interests.
-
----
-
-### 2026-07-06 06:50:50  #資料 #央行 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 15:00 瑞士6月失業率；
-② 16:30 歐元區7月Sentix投資者信心指數；
-③ 17:00 歐元區5月PPI，歐元區5月零售銷售；
-④ 21:45 美國6月標普全球服務業PMI終值；
-⑤ 22:00 美國6月ISM非製造業指數；
-⑥ 23:00 美聯儲理事沃勒等發表講話。
-
----
-
-### 2026-07-06 06:50:12  #國際
-
-美國商務部長盧特尼克曾就美國球員巴洛貢紅牌一事與國際足聯展開溝通。
-
----
-
-### 2026-07-06 06:49:13  #國際
-
-【內塔尼亞胡稱印度非常支援以色列】以色列總理內塔尼亞胡7月5日接受美國福克斯新聞採訪。在談及與美國總統特朗普的關係時，內塔尼亞胡稱，他“不認為”與特朗普之間“存在裂痕”，並稱以色列“正與美國並肩作戰”。內塔尼亞胡還反駁了美國副總統萬斯6月18日在白宮記者會上關於“特朗普是目前唯一同情以色列的國家元首”的說法。他堅稱。儘管國際社會對以色列的批評日益增多，但以色列在國際上仍然擁有“許多朋友”，尤其是“14億人口的‘小國’印度”。內塔尼亞胡還說，很多國家領導人都給他打電話“求合作”，“求教以軍戰術”，“求分享以色列在人工智慧和網路領域的專長”。（CCTV國際時訊）
-
----
-
-### 2026-07-06 06:47:22  #公司
-
-【登出式回購引關注 上市公司打出“組合拳”】資料顯示，截至7月5日19時，剔除定向回購影響，今年以來A股共有297家上市公司對外披露回購方案，擬回購金額約為1113.97億元。從回購目的看，約六成公司用於實施股權激勵或員工持股計劃，其餘公司基本用於市值管理、維護公司價值及股東權益。不少上市公司近期將回購用途更改為登出。
-
----
-
-### 2026-07-06 06:46:21  #國際
-
-烏克蘭方面稱，俄羅斯向烏克蘭首都基輔發射多枚彈道導彈，愛國者防空導彈連在基輔上空成功攔截多枚來襲導彈。
-
----
-
-### 2026-07-06 06:45:12  #國際
-
-烏克蘭首都基輔傳出爆炸聲。
-
----
-
-### 2026-07-06 06:44:49  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An adviser to Ukraine's interior minister said Kyiv is currently under multiple rounds of Russian ballistic missile strikes, with explosions reported across the city.
-
----
-
-### 2026-07-06 06:43:08  #市場 #焦點
-
-【今起，A股交易規則重要調整】以前，只有科創板、創業板有15:05—15:30的“盤後固定價格交易”，按“當天收盤統一價”成交，現在A股主機板和ETF也同步實行。這意味著什麼？第一，ETF尾盤交易時間延長，操作更從容。以前是3分鐘尾盤集合競價，時間短、流動性有限，大單容易造成價格異動。現在多了25分鐘固定價格交易，你可以按收盤價掛單，不必在最後幾分鐘匆忙決策，尤其對定投或需要按收盤價買入或賣出ETF策略的朋友更友好。第二，尾盤價格更穩，不易被“畫線”。還有一個變化，部分ST股的投資者要注意了。主機板ST股和*ST股漲跌幅，從5%調整為10%。（央視財經）
-
----
-
-### 2026-07-06 06:42:38  #公司 #焦點
-
-【A股交易新規今起施行，券商配套更新風險揭示書】滬深北交易所新版交易規則今日正式施行。為匹配新版交易規則，券商釋出公告，同步修訂風險揭示書，新版檔案7月6日正式啟用。公告明確，存量已開通對應板塊許可權的投資者無須重新簽署，新開通許可權投資者必須簽署新版檔案方可參與交易。多家券商提醒投資者，在參與股票投資前，仔細閱讀交易所規則、券商新版風險揭示書，合理調整交易策略，規避因規則不熟悉引發的操作風險與投資虧損。（上證報）
-
----
-
-### 2026-07-06 06:37:43  #市場 #焦點
-
-現貨黃金突破4190美元/盎司，日內漲0.38%。
-
----
-
-### 2026-07-06 06:37:41  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose above $4,190/oz, up 0.37% on the day.
-
----
-
-### 2026-07-06 06:34:00  #MKT News
-
-Republican Rep. Nancy Mace said she will introduce a bill to bar immigration from Somalia, South Sudan and Sudan.
-
----
-
-### 2026-07-06 06:33:35  #MKT News #XAUUSD #Impact bullish
-
-New York gold futures rose to $4,200/oz, up 1.80% intraday.
-
----
-
-### 2026-07-06 06:31:55  #市場
-
-紐約期銀日內漲4%，現報63.54美元/盎司。
-
----
-
-### 2026-07-06 06:29:45  #MKT News
-
-Spot silver climbed above $63/oz, up 1.03% on the day.
-
----
-
-### 2026-07-06 06:29:27  #市場 #焦點
-
-現貨白銀突破63美元/盎司，日內漲1.03%。
-
----
-
-### 2026-07-06 06:28:52  #市場
-
-現貨白銀日內漲1%，現報62.99美元/盎司。
-
----
-
-### 2026-07-06 06:28:10  #MKT News #Commodities #Precious Metals #Industrial Metals
-
-Greatland Resource reported Q4 gold production of 79,099 oz and copper production of 3,573 t. For FY2026, gold output was 328,986 oz and copper 14,594 t; gold exceeded the company's guidance range of 260,000–310,000 oz.
-
----
-
-### 2026-07-06 06:26:08  #MKT News #Commodities #Precious Metals
-
-Australian gold producer Regis Resources reported FY2026 gold production of 379,000 oz, at the top end of its guidance. Fourth-quarter production was 79,099 oz.
-
----
-
-### 2026-07-06 06:12:29  #國際
-
-美國紐約州州長霍楚爾：今晚開始下雨，夜間雨勢將加大。
-
----
-
-### 2026-07-06 06:12:12  #國際
-
-美國紐約州州長霍楚爾：洪水風險可能在早高峰時段達到峰值。
-
----
-
-### 2026-07-06 06:09:49  #國際
-
-特朗普發圖調侃義大利總理梅洛尼，“需要下達限制令”。
-
----
-
-### 2026-07-06 06:05:59  #MKT News
-
-【KRW edges higher on first day of 24-hour trading】The South Korean won (KRW) edged higher against the dollar on the first day of 24-hour trading. The around-the-clock mechanism was introduced to improve foreign investor access to South Korea’s markets and support a push for MSCI developed-market inclusion, reflecting a shift toward greater offshore investment. Deputy Finance Minister Moon Ji-chung said on Friday regulators will step up monitoring of night-session trading ahead of formal implementation on Monday. The won has been one of Asia’s weakest currencies this year, briefly hitting its weakest level since 2009 last week, pressured by higher energy prices from the Iran war and foreign investors selling Korean equities to rebalance after a sharp rally.
-
----
-
-### 2026-07-06 06:05:44  #其他
-
-【挪威晉級世界盃8強】北京時間7月6日，2026美加墨世界盃1/8決賽，挪威隊2比1戰勝巴西隊，晉級世界盃8強。
-
----
-
-### 2026-07-06 06:05:14  #市場
-
-美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。
 
 ---

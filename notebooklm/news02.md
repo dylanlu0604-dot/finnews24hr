@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 06:03:35_
-_本檔包含 3203 則快訊，約 627543 字_
+_更新時間：2026-07-13 07:03:19_
+_本檔包含 3191 則快訊，約 627173 字_
+
+---
+
+### 2026-07-10 16:48:06  #其他
+
+天津市薊州區啟動防汛一級應急響應。（新華社）
+
+---
+
+### 2026-07-10 16:47:45  #公司
+
+【東貝集團：預計2026年上半年淨利潤為虧損5800萬元到虧損4840萬元】東貝集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為虧損5800萬元到虧損4840萬元，與上年同期相比，將出現虧損。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為虧損7800萬元到虧損6500萬元。
+
+---
+
+### 2026-07-10 16:47:23  #公司
+
+【天奇股份與國技智聯達成具身智慧產教融合合作】據天奇股份訊息，7月9日，天奇股份與國技智聯正式簽訂具身智慧產教融合領域的合作框架協議。雙方將充分發揮各自技術、渠道資源優勢，攜手打通教育鏈、產業鏈、創新鏈、人才鏈，實現從專業頂層設計到產品研發、科研創新、市場覆蓋全維度協同佈局，響應國家產教融合、科教融匯戰略部署，打造具身智慧高等教育產教融合標杆樣板。
+
+---
+
+### 2026-07-10 16:47:04  #MKT News
+
+【Ministry of Natural Resources activates Level III geological disaster response for Fujian, Zhejiang】The Ministry of Natural Resources has activated a Level III geological disaster defense response for Zhejiang and Fujian and dispatched working groups to the field to guide preparedness. Meteorological forecasts say Typhoon No.9 Bavi (super-typhoon) will bring 150–300 mm of cumulative rain to parts of southern Zhejiang and northeastern Fujian from July 10–13, with localized totals of 500–600 mm in southeastern Zhejiang and parts of northeastern Fujian. The ministry’s Geohazard Technical Guidance Center judged the rainfall will create a high risk of geological disasters in the affected areas.
+
+---
+
+### 2026-07-10 16:46:59  #Trading Economics #Economy #Slovenia #Industrial Production #Importance 1
+
+Slovenia Industrial Activity Slows in May — Industrial production in Slovenia eased to 4.2% year-on-year in May 2026, down from 4.4% in the previous month. Production in electricity, gas and steam supply declined 4.3%, reversing a 1.1% gain in the previous month, while mining and quarrying output contracted further, falling by 36.3% from 35.2%. In contrast, manufacturing output accelerated to 5.6% from 5%. By product category, production eased for intermediate products to 1.1% from 2.5%, reflecting a steeper 7.4% decline in energy products, while raw materials output remained unchanged at 3.0%. Production of investment goods also moderated, increasing 6.3% after an 8.1% rise. Meanwhile, consumer goods production strengthened to 8.1% from 4.9%, supported by a sharp acceleration in non-durable consumer goods to 15.0% from 5.1%, while consumer durables output slowed its decline to 8.3% from 9.9%. On a monthly basis, industrial activity rose 0.9% in May, accelerating from 0.3% in the previous month.
+
+---
+
+### 2026-07-10 16:46:53  #公司
+
+【中央商場：預計2026年上半年淨利潤為-3750萬元到-2500萬元】中央商場公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為-3750萬元到-2500萬元。報告期內，消費復甦節奏不及預期，居民消費信心與線下實體消費意願整體偏弱，大眾消費更趨保守理性，到店客流、客單價同步走弱，公司各百貨門店銷售規模持續承壓，板塊營收規模有所收縮；同時零售行業同質化競爭日趨白熱化，線上電商平臺、社群即時零售、直播帶貨等新業態持續搶佔消費市場份額，多渠道長期分流線下實體客流，持續壓縮傳統百貨門店經營空間，進一步拖累百貨板塊營業收入同比下滑。
+
+---
+
+### 2026-07-10 16:46:37  #公司
+
+【*ST天喻：再次延期至7月17日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所下發的2025年年報問詢函，原要求5月21日前回復，後因部分問題需進一步瞭解、核實，延期至7月10日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將再次延期至7月17日前完成回覆並披露。
+
+---
+
+### 2026-07-10 16:46:00  #MKT News
+
+【China's Ministry of Agriculture and Rural Affairs mobilizes emergency response to Typhoon Bawei】On the 10th, the Ministry of Agriculture and Rural Affairs said it has made preparedness for Typhoon Bawei a priority, mobilizing flood and typhoon defenses to limit damage. The ministry warned Bawei's wide reach, strong winds and heavy rain may adversely affect autumn grain and broader agricultural production, and urged local agricultural authorities to closely monitor rainfall, floods and winds, issue timely agrometeorological disaster warnings, and implement direct-to-frontline call-and-response pre-disaster warning systems. The ministry and the China Meteorological Administration have already issued warnings for field waterlogging and wind damage and circulated an emergency notice to coordinate responses.
+
+---
+
+### 2026-07-10 16:45:52  #其他
+
+【農業農村部緊急部署做好颱風“巴威”防範應對工作】農業農村部把防範應對臺風“巴威”作為當前農業農村工作的重要任務，全力以赴做好防汛防颱風各項工作，最大程度減輕災害損失。農業農村部有關負責人表示，颱風“巴威”影響範圍廣，風大雨強，可能對秋糧和農業生產帶來不利影響。這位負責人強調，各有關地區農業農村部門要密切監測雨情汛情風情，及時釋出農業氣象災害預警，嚴格落實直達基層一線的臨災預警“叫應”機制。要指導受災地區抓緊搶收成熟作物，疏通農田溝渠防止內澇，加固大棚、養殖圈舍、漁排等農業設施，及時組織漁船回港、漁民上岸。做好災情排程工作，備好種子、農藥等救災物資，動員區域農業應急救災中心、農機應急作業服務隊等做好救災準備。加強因災返貧致貧風險監測，及時啟動“綠色通道”，落實精準幫扶措施，堅決守牢不發生規模性返貧致貧底線。（新華社）
+
+---
+
+### 2026-07-10 16:45:25  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【IEA monthly report: UAE June crude output hits record high】The IEA says UAE June crude production averaged 4.10 mln b/d, a record above the 4.00 mln b/d peak reached in 2020 during its brief price war with Saudi Arabia. The report frames Abu Dhabi’s response as bolder than any Persian Gulf peer in offsetting supply disruptions linked to hostilities involving Iran. Measures cited include deploying a large national tanker fleet and chartering additional vessels from South Korea’s Sinokor, which now operates the world’s largest VLCC fleet; many ships reportedly ran with AIS transponders off to move crude out of the Gulf. The UAE announced its exit from OPEC at end-April to remove output constraints and pursue expansion; most of the recent production ramp-up occurred before this week’s attacks on merchant vessels in the Strait of Hormuz.
+
+---
+
+### 2026-07-10 16:44:36  #公司
+
+【龍佰集團：子公司受讓鑫潤礦業55.10%股權完成工商變更】龍佰集團公告稱，公司全資子公司龍佰礦冶擬受讓河南振興釩鈦低碳發展私募股權投資基金中心持有的鑫潤礦業55.10%股權，該事項於2026年4月25日獲公司第九屆董事會第二次會議審議透過。近日，鑫潤礦業已完成相關工商變更登記，並取得鹽邊縣市場監督管理局換髮的《營業執照》。股權劃轉完成後，龍佰礦冶持有鑫潤礦業55.10%股權，公司另一全資子公司攀枝花龍佰豐源礦業有限公司持有44.90%股權。
 
 ---
 
@@ -19190,143 +19256,5 @@ WTI原油日內跌1%，現報72.78美元/桶。
 ### 2026-07-09 15:38:33  #宏觀 #國際
 
 【外交部：敦促美方停止利用涉藏問題干涉中國內政】7月9日，外交部發言人毛寧主持例行記者會。 路透社記者提問，美國國務院在一份宣告呼籲中國恢復與達賴喇嘛的對話。外交部對美方的言論有何評論？ 毛寧表示，西藏事務純屬中國內政，任何外國無權干涉。我們敦促美方恪守承認西藏是中國一部分、不支援“藏獨”的承諾，停止利用涉藏問題干涉中國內政。 （北京日報）
-
----
-
-### 2026-07-09 15:37:49  #公司
-
-迅銷集團首席財務官表示：少數情況下我們別無選擇，只能提價。
-
----
-
-### 2026-07-09 15:37:11  #市場
-
-布倫特原油日內跌1%，現報77.24美元/桶。
-
----
-
-### 2026-07-09 15:36:34  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Rebound — European stocks traded higher on Thursday, with the STOXX 50 gaining 1% and the STOXX 600 advancing 0.5%, rebounding after three consecutive sessions of losses. The recovery was supported by easing oil prices, following a nearly 7% surge in crude over the previous two sessions. Despite the decline in oil, the situation in the Middle East remains highly fragile, as hopes for de-escalation faded following fresh strikes by both the US and Iran. Shipping traffic through the Strait of Hormuz continued, although volumes remained below normal. The tech sector was among the strongest performers, with semiconductor stocks benefiting from upbeat global sentiment after demand for SK Hynix's US share offering exceeded the available shares by more than seven times. ASML Holding rose 2.6%, Infineon Technologies gained 3.1%, and STMicroelectronics climbed 3.7%. Meanwhile, AstraZeneca plunged more than 9% after its Wainua drug failed to meet its primary goal of reducing cardiovascular deaths.
-
----
-
-### 2026-07-09 15:36:07  #公司
-
-【哈藥股份：2026年上半年淨利潤預增46.40%-68.36%】哈藥股份公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為3.80億元到4.37億元，同比增加46.40%到68.36%；扣非淨利潤為3.29億元到3.79億元，同比增加34.93%到55.17%。業績預增主要因醫藥工業板塊業績提升，主要產品銷售大幅增長，且哈藥集團製藥總廠轉讓閒置裝置預計產生資產處置收益約3569萬元，致非經常性損益同比增長。
-
----
-
-### 2026-07-09 15:36:06  #公司
-
-【錦和商管：控股股東2450萬股股份解除質押】錦和商管公告稱，公司控股股東錦和集團持有公司股份2.74億股，佔總股本58.00%。7月9日，錦和集團解除質押股份2450萬股，佔其所持股份比例8.94%，佔公司總股本比例5.19%。本次解除質押後，錦和集團累計質押數量4950萬股，佔其持股數量18.06%，佔公司總股本的10.48%。目前，錦和集團質押風險可控，不會對公司產生重大影響。
-
----
-
-### 2026-07-09 15:35:56  #公司
-
-【上海建工：2026年上半年新籤合同金額1215.07億元】上海建工公告稱，2026年1月至6月，公司及下屬子公司累計新籤合同金額1215.07億元，同比下降6.71%。其中，建築施工、設計諮詢等業務新籤合同金額分別為995.36億元、66.68億元等，各業務專案數量及金額同比有不同變動。此外，公司上半年中標19個重大工程施工專案（中標金額5億元以上），合計金額227.27億元。
-
----
-
-### 2026-07-09 15:35:32  #公司
-
-【北方稀土：副總經理劉見強因工作調整離任】北方稀土公告稱，近日董事會收到副總經理劉見強書面辭任報告，因工作調整，其於7月8日離任，原定任期至2028年3月13日。離任後劉見強不再擔任公司任何職務，其不存在未履行完畢的公開承諾，未持有公司股票，已完成工作交接，離任不會影響公司正常經營。
-
----
-
-### 2026-07-09 15:35:29  #公司
-
-【達仁堂：證券事務代表王健因個人原因辭職】達仁堂公告稱，公司董事會近日收到證券事務代表王健的書面辭呈，其因個人原因申請辭職，申請自送達董事會之日起生效。辭職后王健不再擔任公司任何職務，其離職不影響公司正常運營。截至公告披露日，王健未持股，無應履行未履行的承諾事項。
-
----
-
-### 2026-07-09 15:35:23  #公司
-
-【環旭電子：2026年6月營收48.03億元 同比增長4.72%】環旭電子公告稱，2026年6月，公司合併營業收入48.03億元，同比增加4.72%，環比增加6.63%。1-6月，合併營業收入273.36億元，同比增加0.45%。第二季度（4-6月），合併營業收入139.87億元，同比增加3.11%，環比增加4.78%。
-
----
-
-### 2026-07-09 15:35:19  #公司
-
-【恆順醋業：財務總監劉欣因退休離任】恆順醋業公告稱，公司董事會近日收到財務總監劉欣的書面辭職報告，因其到法定退休年齡，於2026年7月9日辭去該職務，原定任期至2027年5月20日，辭職後將不再擔任公司任何職務。截至公告披露日，劉欣未持有公司股票，無未履行完畢的公開承諾，且已做好交接工作，其辭職不影響公司正常經營，公司將盡快選聘新任財務總監。
-
----
-
-### 2026-07-09 15:35:16  #公司 #焦點
-
-【北方稀土：2026年第三季度稀土精礦交易價格調整為38565元/噸】北方稀土公告稱，公司與關聯方內蒙古包鋼鋼聯股份有限公司約定，每季度首月上旬調整稀土精礦價格。根據定價方法及2026年第二季度稀土氧化物價格，經測算和審議，2026年第三季度稀土精礦交易價格調整為不含稅38565元/噸（乾量，REO=50%），REO每增減1%、不含稅價格增減771.30元/噸。
-
----
-
-### 2026-07-09 15:34:55  #公司 #市場 #國際
-
-【貝恩資本高位出清日本快閃記憶體晶片廠商鎧俠】當地時間7月9日，貝恩資本管理合夥人David Gross表示，該私募股權投資公司已不再持有任何鎧俠股份，“這對所有利益相關方來說都非常成功”。得益於全球AI投資熱潮，鎧俠股價自其上市以來上漲超4800%，使其成為日本市值最高的公司之一。
-
----
-
-### 2026-07-09 15:34:16  #公司 #市場
-
-迅銷集團首席財務官岡崎：日元持續走弱的影響愈發難以應對，我們一直透過遠期合約來對沖相關影響。
-
----
-
-### 2026-07-09 15:34:04  #公司 #市場 #國際
-
-【日本航天公司ispace攜手SpaceX佈局月球載荷運輸，股價大漲近20%】日本太空探索公司ispace股價週四大漲近19%，創六個月來最大單日漲幅。此前公司宣佈與SpaceX合作，計劃利用其星艦火箭提供月球載荷運輸服務。該公司將開發一套移動貨物系統，可在月球表面將500公斤以下的客戶載荷運輸數公里。該系統預計不早於2030年由星艦發射，ispace已為此購買了500公斤的載荷空間。公司CEO袴田武史表示：“對於運輸服務的潛在需求很大，這正是我們希望抓住的機會。”他同時承諾，公司將確保下一次著陸成功。此前，ispace兩次登月嘗試均告失敗——2023年因軟體問題，2025年因硬體故障。根據公司計劃，其下一次月球著陸任務定於2028年，在此之前的2027年計劃發射一顆軌道衛星。
-
----
-
-### 2026-07-09 15:33:47  #市場 #焦點 #原創
-
-【7月9日滬深兩市漲停分析】科創50指數大漲8.41%、創業板指漲4.49%，半導體、算力硬體股全線爆發。恆尚節能8連板，一圖看懂>>
-
----
-
-### 2026-07-09 15:33:03  #國際
-
-印尼：可能需要1600萬至1800萬千升棕櫚生物柴油用於B50專案。
-
----
-
-### 2026-07-09 15:32:46  #其他
-
-【北京市房山區啟動防汛一級應急響應，市民非必要不外出】北京房山區氣象局於7月9日14時釋出暴雨紅色預警訊號，經綜合分析洪水、地質災害氣象風險、山洪災害風險、積水內澇風險等預警級別、發展態勢及危害程度，全區於7月9日14時啟動防汛一級應急響應。請各有關單位按照預案落實降雨防範應對措施，密切關注局地短時強降雨過程，做好防汛相關工作。企事業單位除保障城市執行、民生服務等外，非必要不要求員工到崗上班。請市民非必要不外出。遇有積水路段，請勿涉水行車；不要在低窪路段和區域停放車輛。半地下室居住人員要密切關注降雨內澇風險，及時避險，遇有緊急情況請及時撥打110或119。
-
----
-
-### 2026-07-09 15:32:42  #國際
-
-【外媒稱泰國有人就湄公河支流汙染問題在中方使領館門口抗議，外交部回應】7月9日，外交部發言人毛寧主持例行記者會。法新社記者提問，我們瞭解到，最近泰國有一些人就湄公河支流汙染問題在中方使領館門口抗議。使館方面已釋出宣告，提出會加快跟泰國方面和緬甸方面聯合調查。中方對此有何回應？毛寧表示，你已經注意到了中國駐泰國使館發表的宣告。我想強調的是，中方願同泰國等湄公河國家加強水資源和生態環境保護合作，支援泰緬雙方加強溝通協調，本著客觀、科學、負責任的態度開展調查，透過友好協商解決問題。
-
----
-
-### 2026-07-09 15:32:31  #國際
-
-【特朗普稱自己是伊朗的“頭號暗殺目標”】美國總統特朗普於週三證實，他將搭乘舊版空軍一號從土耳其返回美國，同時迴避了記者針對卡達捐贈的新款專機存在安全隱患的相關提問。 特朗普稱，這架價值4億美元的新式空軍一號將途經歐洲飛回美國本土，方便美軍官兵一睹該機風采。當被問及更換專機的緣由時，他坦言自己是伊朗方面的。 在安卡拉出席北約峰會並召開新聞釋出會、即將動身返程前，特朗普對現場媒體表示：“我在伊朗的暗殺名單上位列榜首。” 他說道：“我其實並不在意，因為我只是在履行本職工作。”同時還打趣稱，自己反倒更樂意登上TikTok熱度榜單第一名。 隨後他補充道：“但在暗殺名單裡，我確實是頭號目標。” 有記者追問為何放棄搭乘新專機返程，特朗普回應，新飛機將飛往多處軍事基地，“讓將士們近距離參觀體驗”。 在北約峰會的多場發言中，特朗普多次提及自己身處伊朗的暗殺名單首位。 他表示：“伊朗前幾任高層人物都已不復掌權，如今換了新一屆領導層，這批人未來命運如何尚且未知，而我或許也會遭遇不測，畢竟我是他們首要的刺殺目標。”
-
----
-
-### 2026-07-09 15:32:22  #國際
-
-【外交部：美方應立即停止對古巴封鎖制裁】7月9日，外交部發言人毛寧主持例行記者會。當地時間7月7日，聯合國大會以壓倒性多數決定繼續就“必須終止美國對古巴的經濟、商業和金融封鎖”舉行辯論，結果為136票贊成，30票棄權，美國等9國投下反對票。請問中方對此有何評論？毛寧表示，過去60多年來，美國對古巴封鎖制裁，近來還一再升級相關舉措、製造能源危機，嚴重違反《聯合國憲章》宗旨和原則等國際關係基本準則，嚴重侵犯古巴的生存權和發展權，給古巴人民造成深重災難。“美方應當認真傾聽國際社會的正義呼聲，立即停止對古巴的封鎖制裁和任何形式的脅迫施壓、軍事威脅。中方願同國際社會一道，堅決捍衛國際公平正義，堅定支援古巴維護國家主權和尊嚴、反對外來干涉。”毛寧說。（北京日報）
-
----
-
-### 2026-07-09 15:32:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.39% Lower — The FTSE 100 Index is losing 41 points. Losses were led by AstraZeneca (-8.81%), BP (-1.41%) and Coca-Cola Europacific Partners (-1.31%). Offsetting the fall, top gainers were Computacenter (12.43%), Antofagasta (3.63%) and Anglo American (3.02%).
-
----
-
-### 2026-07-09 15:31:10  #國際
-
-【紐西蘭總理稱將致力於加入澳斐新軍事聯盟，中方表態】7月9日，外交部發言人毛寧主持例行記者會。 彭博社記者提問，紐西蘭總理表示，紐西蘭將致力於加入本週澳大利亞與斐濟之間簽署的一項新軍事聯盟。外交部對此有何評論？ 毛寧表示，中方始終認為應當堅持共同安全、綜合安全、合作安全，國與國之間的安全合作應當開放包容，真正有利於維護地區的和平與穩定。（北京日報）
-
----
-
-### 2026-07-09 15:31:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.53% Higher — The DAX Index is up by 132 points or 0.53 percent on Thursday. Top gainers are Infineon (2.89%), Siemens (2.22%) and Bayer (2.18%). Biggest losses came from Deutsche Telekom (-1.84%), Rheinmetall (-1.45%) and Beiersdorf (-0.99%).
 
 ---

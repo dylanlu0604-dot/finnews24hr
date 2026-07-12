@@ -1,13 +1,273 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-13 06:03:35_
-_本檔包含 3198 則快訊，約 627598 字_
+_更新時間：2026-07-13 07:03:19_
+_本檔包含 3230 則快訊，約 627455 字_
+
+---
+
+### 2026-07-13 06:59:26  #國際
+
+伊朗指責美國違反停火協議與《聯合國憲章》，稱美方導彈襲擊了伊朗交通基礎設施。 德黑蘭同時警告阿拉伯鄰國，若允許本國領土被用於襲擊伊朗，其將被視作合法打擊目標。
+
+---
+
+### 2026-07-13 06:58:45  #國際
+
+一名美國官員稱，美軍在襲擊中瞄準了伊朗革命衛隊的導彈系統、防空系統以及軍用艦艇。
+
+---
+
+### 2026-07-13 06:58:15  #國際
+
+【新型器件實現熱輻射“可程式設計”】據新一期《自然·通訊》雜誌報道，日本大阪市立大學領銜的國際研究團隊開發出一種新型熱輻射器件，能夠像計算機晶片儲存和控制資料一樣讓熱輻射“可程式設計”，實現了熱輻射的方向調控、工作模式切換，並在斷電後保持設定狀態。這項創新有望催生更智慧的紅外感測器、更先進的能源技術，以及利用光和熱而非電荷的儲存裝置。
+
+---
+
+### 2026-07-13 06:57:53  #國際
+
+一名美國官員稱，繼週日早些時候發動打擊後，美軍預計將於夜間對伊朗軍事目標展開新一輪強度更大的空襲。
+
+---
+
+### 2026-07-13 06:57:12  #國際
+
+當地媒體報道，伊朗漢達卜附近傳來兩聲爆炸聲。
+
+---
+
+### 2026-07-13 06:56:34  #國際
+
+【通用生物醫學AI智慧體可自主執行科研任務】美國斯坦福研究團隊近日在《科學》雜誌上報告了一種名為Biomni的通用生物醫學AI智慧體，其能夠自主執行從資料分析到實驗設計的多種研究任務。團隊在多個案例研究中測試了該工具，認為其效能穩定，多項任務表現接近人類專家。該成果意味著AI智慧體可與人類研究人員協作，加速推進生物醫學從基礎研究邁向應用轉化。
+
+---
+
+### 2026-07-13 06:53:48  #市場 #國際
+
+受伊朗局勢緊張局勢刺激油價上漲的影響，澳大利亞債券價格下跌。
+
+---
+
+### 2026-07-13 06:53:37  #其他
+
+英國、法國和德國呼籲（美伊）恢復停火和談判。
+
+---
+
+### 2026-07-13 06:53:25  #國際
+
+英國、法國和德國譴責伊朗襲擊霍爾木茲海峽的船隻。
+
+---
+
+### 2026-07-13 06:52:45  #市場
+
+【塔里木油田西氣東輸供氣超4000億立方米】記者今天（13日）從中國石油獲悉，位於西氣東輸主力氣源地的塔里木油田累計向西氣東輸管網供氣突破4000億立方米，為下游近5億人口生產生活用氣提供了保障。（央視新聞）
+
+---
+
+### 2026-07-13 06:52:39  #MKT News #Commodities #Energy
+
+CNPC said on the 13th the Tarim oilfield, the main gas source for the West–East Gas Pipeline, has cumulatively delivered over 400 billion cubic meters to the pipeline network, helping secure industrial and household gas supplies for nearly 500 million downstream people.
+
+---
+
+### 2026-07-13 06:51:19  #國際
+
+【美國否認伊朗襲擊致3名美軍士兵死亡】當地時間7月12日，美軍中央司令部發布宣告稱，伊朗方面此前稱3名美國軍人在伊朗對科威特的襲擊中被打死，此說法不實。宣告表示，該地區沒有美國士兵死亡或受傷的報告。所有人員均已清點完畢。當天稍早時，伊朗方面有訊息稱，伊朗當天使用無人機對美軍位於科威特的目標發動襲擊，造成3名美國士兵死亡。
+
+---
+
+### 2026-07-13 06:50:34  #央行 #國際
+
+【週一重要財經資訊提醒（以下均為北京時間）】 
+① 待定 OPEC公佈月度原油報告；
+② 次日00:30 美聯儲理事沃勒發表講話。
+
+---
+
+### 2026-07-13 06:49:25  #MKT News #WTI #Impact bearish #Brent
+
+Axios, citing U.S. officials, said that in the past 24 hours roughly 20 commercial vessels transited the Strait of Hormuz in coordination with the U.S. military; several other vessels transited without coordinating.
+
+---
+
+### 2026-07-13 06:48:45  #市場 #焦點
+
+紐約期金失守4080美元/盎司，日內跌0.84%。
+
+---
+
+### 2026-07-13 06:48:44  #市場
+
+紐約期銀日內跌2%，現報58.94美元/盎司。
+
+---
+
+### 2026-07-13 06:48:08  #焦點 #國際
+
+一名美國官員稱，過去24小時內，約20艘民用船隻在美軍協調下通行霍爾木茲海峽，另有數艘船隻未經過美方協調自行透過該海峽。
+
+---
+
+### 2026-07-13 06:44:26  #Trading Economics #Economy #New Zealand #Services PMI #Importance 1
+
+New Zealand Services Return to Growth — New Zealand’s BusinessNZ Performance of Services Index rose to 50.6 in June 2026 from an upwardly revised 48.0 in May, marking the first expansion in the services sector since January.
+
+---
+
+### 2026-07-13 06:41:01  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,080/oz, down nearly 1% on the day.
+
+---
+
+### 2026-07-13 06:40:41  #市場 #焦點
+
+現貨黃金失守4080美元/盎司，日內跌0.97%。
+
+---
+
+### 2026-07-13 06:39:01  #Trading Economics #Economy #New Zealand #Composite PMI #Importance 1
+
+New Zealand Composite PMI Rises to 6-Month High — The BusinessNZ Performance of Composite Index increased to 53.6 in June 2026 from an upwardly revised 49.9 in the previous month. It was the first expansion in the private sector since January and the most since December 2025, as the services sector returned to expansion, while manufacturing grew at its fastest pace since July 2021.
+
+---
+
+### 2026-07-13 06:37:40  #MKT News #DXY #Impact bearish #USDJPY #EURUSD #Impact bullish
+
+New Zealand June Services Performance Index 50.6, prior 47.5.
+
+---
+
+### 2026-07-13 06:37:31  #MKT News #Economic Calendar #Important
+
+New Zealand | Performance of Services Index (Jun) | actual 50.6 | previous 47.5
+
+---
+
+### 2026-07-13 06:37:09  #公司
+
+【券商另類子三年投資科創逾200億元，中證協發文建言拓寬發展空間】在“科創券商”敘事的發酵下，證券公司另類投資子公司的行業價值愈發受到市場關注。近期，中證協最新一期內部刊物《傳導》釋出了《證券公司另類投資子公司高質量發展研究》一文。文章指出，另類子已成長為具備“百億級”造血能力的重要子公司，近三年50餘家另類子直接投資於非上市非掛牌的科技型企業金額合計達200多億元。針對行業現存發展堵點，文章提出“科創債”置換、試點放寬“先投後保”限制等多項舉措。（上證報）
+
+---
+
+### 2026-07-13 06:36:03  #國際
+
+【美軍稱伊朗向霍爾木茲海峽商船開火】美軍中央司令部於伊朗時間今天（7月13日）凌晨零點30分對伊朗南部多地發起新一輪打擊。據美國有線電視新聞網報道，美軍中央司令部發言人稱，在美軍發起襲擊前一小時內，“伊朗伊斯蘭革命衛隊向途經霍爾木茲海峽的商船開火”。伊朗方面對這一報道暫無回應。美國東部時間7月12日下午，美國總統特朗普在接受路透社電話採訪時稱：“我們正在狠狠打擊他們（伊朗）。” （CCTV國際時訊）
+
+---
+
+### 2026-07-13 06:34:04  #其他
+
+馬斯克：在部分軟體基準測試中，Grok 4.5的得分甚至小幅領先效能極強的Fable大模型。
+
+---
+
+### 2026-07-13 06:33:04  #市場 #焦點 #國際
+
+【美伊接連爆發新一輪衝突，亞洲能源股或隨油價走強】美伊雙方互相發起新一輪打擊，且兩國就霍爾木茲海峽通航許可權釋出相互矛盾的表態，受此影響，亞洲能源板塊個股或將跟隨油價一同上漲。布倫特原油上週漲幅達5.4%，當前突破每桶78美元；WTI原油交投於每桶74美元附近，歐洲天然氣漲幅最高達2.7%。上週末伊朗方面宣稱霍爾木茲海峽即日起“無限期關閉”，但美國中央司令部表示該航道仍對所有船隻開放。
+
+---
+
+### 2026-07-13 06:31:22  #國際
+
+伊朗胡齊斯坦省官員稱，當地時間週一凌晨1時40分左右，貝赫巴漢與迪茲富勒地區遭到美軍彈藥襲擊。目前相關損毀評估工作正在開展，後續詳情有待公佈。
+
+---
+
+### 2026-07-13 06:28:24  #MKT News
+
+【U.S. Senator Lindsey Graham dies; preliminary autopsy cites aortic dissection】Senator Lindsey Graham died suddenly, and his spokesperson said on the afternoon of July 12 local time that preliminary medical examiner findings list the cause of death as atherosclerotic cardiovascular disease leading to an aortic dissection. The medical examiner’s office said toxicology and microscopic pathology remain incomplete. Aortic dissection is a life‑threatening emergency involving a tear in the aortic wall.
+
+---
+
+### 2026-07-13 06:27:57  #市場
+
+鈀金期貨日內跌1%，現報1261.72美元/盎司。
+
+---
+
+### 2026-07-13 06:21:00  #焦點 #國際
+
+伊朗副外長卡齊姆·加里巴巴迪表示，國家最高國家安全委員會或議會應當批准一項預案，提前明確伊朗在最高領袖穆傑塔巴或軍方、政府高階官員遭遇暗殺圖謀時的應對方案。
+
+---
+
+### 2026-07-13 06:14:51  #國際
+
+【美參議員格雷厄姆死因】據美國媒體報道，圍繞猝死的美國共和黨參議員林賽·格雷厄姆的死因，其發言人當地時間7月12日下午表示，據法醫部門的初步調查結果，格雷厄姆的死因為“動脈粥樣硬化性心血管疾病引發主動脈夾層”。據介紹，主動脈夾層是一種危及生命的急症，表現為主動脈血管壁撕裂。 據報道，當地時間7月11日晚，急救人員接警前往格雷厄姆位於華盛頓的住所——排程中心當時接報的是一起“心臟驟停事件”。美國總統特朗普稱，他當晚與剛剛從烏克蘭回國的格雷厄姆通了電話，對方“顯得有些疲憊”。（CCTV國際時訊）
+
+---
+
+### 2026-07-13 06:13:57  #MKT News #USDJPY #Impact bullish #DXY
+
+USD/JPY traded above 162, up 0.18% intraday.
+
+---
+
+### 2026-07-13 06:13:29  #市場
+
+日經指數期貨報69100點，現貨收盤價為68557點。
+
+---
+
+### 2026-07-13 06:13:18  #市場
+
+現貨白銀日內跌2%，現報58.63美元/盎司。
+
+---
+
+### 2026-07-13 06:13:16  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose past $74/bbl, up 3.63% intraday.
+
+---
+
+### 2026-07-13 06:12:48  #市場 #焦點
+
+紐約期金失守4090美元/盎司，日內跌0.58%。
+
+---
+
+### 2026-07-13 06:07:26  #MKT News #Commodities #Precious Metals
+
+Spot silver fell more than 2.00% intraday to $58.65/oz.
+
+---
+
+### 2026-07-13 06:06:25  #市場 #焦點
+
+WTI原油突破74美元/桶，日內漲3.63%。
+
+---
+
+### 2026-07-13 06:04:45  #國際
+
+【中央氣象臺7月13日06時繼續釋出暴雨橙色預警】中央氣象臺7月13日06時繼續釋出暴雨橙色預警:預計，7月13日08時至14日08時，遼寧大部、吉林中東部、山東北部和南部、江蘇中北部、安徽中部和南部、江西東北部及青海東部、甘肅東部、寧夏中西部、廣東東南部沿海、海南島南部等地部分地區有大到暴雨，其中，遼寧中北部和南部、吉林中南部等地部分地區有大暴雨，遼寧東北部、吉林中南部等地局地特大暴雨(250~300毫米)。上述部分地區伴有短時強降水(最大小時降雨量20~50毫米，局地可超過80毫米)，局地有雷暴大風等強對流天氣。
+
+---
+
+### 2026-07-13 06:03:03  #公司
+
+基本半導體公司：自2026年第三季度起，將適度上調部分產品售價。
+
+---
+
+### 2026-07-13 06:03:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 10-year Treasury futures fell five points; fed funds futures slipped slightly.
 
 ---
 
 ### 2026-07-13 06:02:43  #MKT News
 
 WTI crude up 3.00% intraday at $73.57/bbl.
+
+---
+
+### 2026-07-13 06:02:39  #公司
+
+基礎半導體公司：部分產品價格最高上調25%。
 
 ---
 
@@ -19373,71 +19633,5 @@ New York silver futures fell 1.00% intraday to $59.75/oz.
 ### 2026-07-10 16:48:12  #MKT News #XAUUSD #Impact mixed
 
 【US official says strikes paired with diplomacy; pauses to preserve diplomatic space】According to CNN, a US official said Washington has been conducting strikes but intentionally pauses afterward to avoid escalation and preserve room for diplomacy, while keeping a target list as leverage. Multiple US officials said strike options remain prepared, but diplomacy is being prioritized for now.
-
----
-
-### 2026-07-10 16:48:06  #其他
-
-天津市薊州區啟動防汛一級應急響應。（新華社）
-
----
-
-### 2026-07-10 16:47:45  #公司
-
-【東貝集團：預計2026年上半年淨利潤為虧損5800萬元到虧損4840萬元】東貝集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為虧損5800萬元到虧損4840萬元，與上年同期相比，將出現虧損。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為虧損7800萬元到虧損6500萬元。
-
----
-
-### 2026-07-10 16:47:23  #公司
-
-【天奇股份與國技智聯達成具身智慧產教融合合作】據天奇股份訊息，7月9日，天奇股份與國技智聯正式簽訂具身智慧產教融合領域的合作框架協議。雙方將充分發揮各自技術、渠道資源優勢，攜手打通教育鏈、產業鏈、創新鏈、人才鏈，實現從專業頂層設計到產品研發、科研創新、市場覆蓋全維度協同佈局，響應國家產教融合、科教融匯戰略部署，打造具身智慧高等教育產教融合標杆樣板。
-
----
-
-### 2026-07-10 16:47:04  #MKT News
-
-【Ministry of Natural Resources activates Level III geological disaster response for Fujian, Zhejiang】The Ministry of Natural Resources has activated a Level III geological disaster defense response for Zhejiang and Fujian and dispatched working groups to the field to guide preparedness. Meteorological forecasts say Typhoon No.9 Bavi (super-typhoon) will bring 150–300 mm of cumulative rain to parts of southern Zhejiang and northeastern Fujian from July 10–13, with localized totals of 500–600 mm in southeastern Zhejiang and parts of northeastern Fujian. The ministry’s Geohazard Technical Guidance Center judged the rainfall will create a high risk of geological disasters in the affected areas.
-
----
-
-### 2026-07-10 16:46:59  #Trading Economics #Economy #Slovenia #Industrial Production #Importance 1
-
-Slovenia Industrial Activity Slows in May — Industrial production in Slovenia eased to 4.2% year-on-year in May 2026, down from 4.4% in the previous month. Production in electricity, gas and steam supply declined 4.3%, reversing a 1.1% gain in the previous month, while mining and quarrying output contracted further, falling by 36.3% from 35.2%. In contrast, manufacturing output accelerated to 5.6% from 5%. By product category, production eased for intermediate products to 1.1% from 2.5%, reflecting a steeper 7.4% decline in energy products, while raw materials output remained unchanged at 3.0%. Production of investment goods also moderated, increasing 6.3% after an 8.1% rise. Meanwhile, consumer goods production strengthened to 8.1% from 4.9%, supported by a sharp acceleration in non-durable consumer goods to 15.0% from 5.1%, while consumer durables output slowed its decline to 8.3% from 9.9%. On a monthly basis, industrial activity rose 0.9% in May, accelerating from 0.3% in the previous month.
-
----
-
-### 2026-07-10 16:46:53  #公司
-
-【中央商場：預計2026年上半年淨利潤為-3750萬元到-2500萬元】中央商場公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為-3750萬元到-2500萬元。報告期內，消費復甦節奏不及預期，居民消費信心與線下實體消費意願整體偏弱，大眾消費更趨保守理性，到店客流、客單價同步走弱，公司各百貨門店銷售規模持續承壓，板塊營收規模有所收縮；同時零售行業同質化競爭日趨白熱化，線上電商平臺、社群即時零售、直播帶貨等新業態持續搶佔消費市場份額，多渠道長期分流線下實體客流，持續壓縮傳統百貨門店經營空間，進一步拖累百貨板塊營業收入同比下滑。
-
----
-
-### 2026-07-10 16:46:37  #公司
-
-【*ST天喻：再次延期至7月17日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所下發的2025年年報問詢函，原要求5月21日前回復，後因部分問題需進一步瞭解、核實，延期至7月10日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將再次延期至7月17日前完成回覆並披露。
-
----
-
-### 2026-07-10 16:46:00  #MKT News
-
-【China's Ministry of Agriculture and Rural Affairs mobilizes emergency response to Typhoon Bawei】On the 10th, the Ministry of Agriculture and Rural Affairs said it has made preparedness for Typhoon Bawei a priority, mobilizing flood and typhoon defenses to limit damage. The ministry warned Bawei's wide reach, strong winds and heavy rain may adversely affect autumn grain and broader agricultural production, and urged local agricultural authorities to closely monitor rainfall, floods and winds, issue timely agrometeorological disaster warnings, and implement direct-to-frontline call-and-response pre-disaster warning systems. The ministry and the China Meteorological Administration have already issued warnings for field waterlogging and wind damage and circulated an emergency notice to coordinate responses.
-
----
-
-### 2026-07-10 16:45:52  #其他
-
-【農業農村部緊急部署做好颱風“巴威”防範應對工作】農業農村部把防範應對臺風“巴威”作為當前農業農村工作的重要任務，全力以赴做好防汛防颱風各項工作，最大程度減輕災害損失。農業農村部有關負責人表示，颱風“巴威”影響範圍廣，風大雨強，可能對秋糧和農業生產帶來不利影響。這位負責人強調，各有關地區農業農村部門要密切監測雨情汛情風情，及時釋出農業氣象災害預警，嚴格落實直達基層一線的臨災預警“叫應”機制。要指導受災地區抓緊搶收成熟作物，疏通農田溝渠防止內澇，加固大棚、養殖圈舍、漁排等農業設施，及時組織漁船回港、漁民上岸。做好災情排程工作，備好種子、農藥等救災物資，動員區域農業應急救災中心、農機應急作業服務隊等做好救災準備。加強因災返貧致貧風險監測，及時啟動“綠色通道”，落實精準幫扶措施，堅決守牢不發生規模性返貧致貧底線。（新華社）
-
----
-
-### 2026-07-10 16:45:25  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【IEA monthly report: UAE June crude output hits record high】The IEA says UAE June crude production averaged 4.10 mln b/d, a record above the 4.00 mln b/d peak reached in 2020 during its brief price war with Saudi Arabia. The report frames Abu Dhabi’s response as bolder than any Persian Gulf peer in offsetting supply disruptions linked to hostilities involving Iran. Measures cited include deploying a large national tanker fleet and chartering additional vessels from South Korea’s Sinokor, which now operates the world’s largest VLCC fleet; many ships reportedly ran with AIS transponders off to move crude out of the Gulf. The UAE announced its exit from OPEC at end-April to remove output constraints and pursue expansion; most of the recent production ramp-up occurred before this week’s attacks on merchant vessels in the Strait of Hormuz.
-
----
-
-### 2026-07-10 16:44:36  #公司
-
-【龍佰集團：子公司受讓鑫潤礦業55.10%股權完成工商變更】龍佰集團公告稱，公司全資子公司龍佰礦冶擬受讓河南振興釩鈦低碳發展私募股權投資基金中心持有的鑫潤礦業55.10%股權，該事項於2026年4月25日獲公司第九屆董事會第二次會議審議透過。近日，鑫潤礦業已完成相關工商變更登記，並取得鹽邊縣市場監督管理局換髮的《營業執照》。股權劃轉完成後，龍佰礦冶持有鑫潤礦業55.10%股權，公司另一全資子公司攀枝花龍佰豐源礦業有限公司持有44.90%股權。
 
 ---
