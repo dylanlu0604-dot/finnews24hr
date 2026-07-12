@@ -1,7 +1,26 @@
 {
   "date": "2026-07-12",
-  "count": 630,
+  "count": 632,
   "items": [
+    {
+      "id": "mkt:019f5569-f720-7aab-8d43-7c6ad1e2b66d",
+      "time": "2026-07-12 16:20:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK maritime authority warns the security threat in the Strait of Hormuz is extremely serious."
+    },
+    {
+      "id": "4982795",
+      "time": "2026-07-12 16:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委：追加1億元支援廣西災後恢復】近期，受今年第10號颱風“美莎克”影響，廣西多地發生嚴重暴雨、洪澇災害。國家發展改革委在7月6日緊急安排中央預算內投資1億元基礎上，追加安排1億元，支援廣西進一步做好災區災後應急恢復，推動儘快恢復正常生產生活秩序。（央視新聞）"
+    },
     {
       "id": "4982794",
       "time": "2026-07-12 16:19:01",
