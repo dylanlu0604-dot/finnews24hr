@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-12 23:14:23",
-  "count": 16638,
+  "updated": "2026-07-12 23:18:27",
+  "count": 16640,
   "items": [
+    {
+      "id": "4982982",
+      "time": "2026-07-12 23:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會委員哈桑·卡什卡維表示，霍爾木茲海峽的管理狀況將不會恢復到以往的狀態，該海域的管理權已歸伊朗所有。"
+    },
+    {
+      "id": "4982981",
+      "time": "2026-07-12 23:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "在伊拉克與科威特的邊境地區觀測到濃密的煙柱。"
+    },
+    {
+      "id": "mkt:019f56e5-8364-7aab-8d45-c570ad8d3e57",
+      "time": "2026-07-12 23:15:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reported preliminary accounts that Iran attacked a U.S. missile-launch site in Kuwait."
+    },
     {
       "id": "4982980",
       "time": "2026-07-12 23:13:27",
@@ -151611,14 +151635,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：特朗普總統是美國的領袖，做對美國利益有利的事，而我是以色列的領袖，做對以色列利益有利的事。"
-    },
-    {
-      "id": "mkt:019f32d8-5578-7aab-8ca3-8356c4cac592",
-      "time": "2026-07-05 23:14:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude-4.5 quake hits Mianzhu, Sichuan; depth 20 km】CENC said a magnitude-4.5 earthquake struck Mianzhu, Deyang, Sichuan at 23:03 Beijing time (31.58N, 103.98E); hypocenter depth 20 km."
     }
   ]
 }
