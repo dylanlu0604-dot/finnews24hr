@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-12 10:36:43",
-  "count": 16383,
+  "updated": "2026-07-12 10:40:38",
+  "count": 16385,
   "items": [
+    {
+      "id": "4982551",
+      "time": "2026-07-12 10:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國防部表示，全國各處傳來的聲響，均為防空部隊攔截導彈、無人機作戰產生。"
+    },
+    {
+      "id": "4982549",
+      "time": "2026-07-12 10:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴林拉響防空警報】當地時間12日早間，巴林境內拉響防空警報。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f542f-e38d-7aab-8d41-1cfe61e113c6",
+      "time": "2026-07-12 10:37:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UAE National Emergency Crisis and Disaster Management Authority: air-defence systems are currently responding to missile threats."
+    },
+    {
+      "id": "4982548",
+      "time": "2026-07-12 10:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋稱其防空系統目前正在應對一起導彈威脅。"
+    },
+    {
+      "id": "4982547",
+      "time": "2026-07-12 10:36:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日系車在華銷量集體大跌】據日本共同社報道，日本三大車商2026年1至6月在中國市場的新車銷量10日全部出爐，三家公司均較上年同期下滑。具體來看，豐田汽車銷量為69.47萬輛，同比減少17.1%；日產汽車為23.70萬輛，下滑15.0%；本田為20.58萬輛，減少34.7%。新車型投放滯後的本田表現尤為低迷。報道稱，中東局勢惡化導致燃料價格上漲，受此影響汽油車需求減少，拖累了銷量。儘管近期燃料價格上漲勢頭暫歇，但日本車商認為汽油車需求短期內不會恢復。報道還提到，6月單月銷量方面，三家公司也均低於上年同期。其中，本田連續29個月同比下滑。（中新經緯）"
+    },
     {
       "id": "4982546",
       "time": "2026-07-12 10:35:39",
@@ -149390,34 +149436,6 @@
         "The Trump Trade"
       ],
       "text": "Trump said he had arrived at the National Mall in Washington to attend a celebration honoring the United States."
-    },
-    {
-      "id": "mkt:019f3024-a9e3-7aab-8ca0-87e4564fcf6e",
-      "time": "2026-07-05 10:38:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【AI+ OPC supply-demand ecosystem matchmaking held in Zhuhai】On July 2 the Bay Area Industry Accelerator launched and an AI+ OPC supply-demand ecosystem matchmaking event was held at Zhuhai Huafa International Industrial Park. Over 130 industry experts and representatives from government, investors and AI firms attended as the accelerator was formally announced. The program targets AI, integrated circuits, biopharma and new materials via four modules—qualification cultivation, technology matching, scenario commercialization and Guangdong–Hong Kong–Macao linkage—and will run year-round activities including high-tech enterprise incubation, sector-specific matchings, scenario releases and a Guangdong–Hong Kong–Macao entrepreneurship tour to provide full-cycle support. In an order-capability showcase five smart-health firms including Huazhishu Group and Xiaosuan Intelligence, and seven OPC AI firms including Shuying Zhike and Qiji Technology, presented mature products and order-taking capabilities across AI vision, digital humans and intelligent systems, highlighting diversified activity in the Bay Area AI sector."
-    },
-    {
-      "id": "4970796",
-      "time": "2026-07-05 10:37:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【葉門副總理在德黑蘭會見伊朗外長】伊朗外交部發文稱，葉門副總理訪問德黑蘭，參加向伊朗前最高領袖哈梅內伊葬禮，並於週六下午會見了伊朗外交部長阿拉格齊。伊朗外長阿拉格齊對葉門政府和人民堅定譴責美以對伊軍事侵略、並向伊朗人民表達聲援所展現出的勇敢和堅定立場表示感謝。阿拉格齊還強調，伊朗已準備好利用一切外交渠道，推動解除對葉門的封鎖，並全面落實葉門和平路線圖。"
-    },
-    {
-      "id": "mkt:019f3023-4718-7aab-8ca0-7bbab8d7e49f",
-      "time": "2026-07-05 10:37:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen deputy prime minister meets Iranian foreign minister in Tehran】Yemen’s deputy prime minister visited Tehran to attend the funeral of Iran’s former supreme leader Khamenei and met Iranian foreign minister Araghchi on Saturday afternoon. Araghchi thanked Yemen for condemning US–Israeli military action and said Iran is prepared to use all diplomatic channels to push for lifting the blockade on Yemen and to fully implement the Yemen peace roadmap."
     }
   ]
 }
