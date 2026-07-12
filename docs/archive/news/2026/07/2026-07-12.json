@@ -1,7 +1,39 @@
 {
   "date": "2026-07-12",
-  "count": 640,
+  "count": 644,
   "items": [
+    {
+      "id": "mkt:019f5577-7caf-7aab-8d43-afeac2b32c80",
+      "time": "2026-07-12 16:35:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WPS responds to C: drive occupancy issue; storage optimization complete, stable release due end-July】On July 12 Kingsoft Office said it has completed initial debugging of storage-management optimizations addressing user reports of excessive system-drive (C:) usage, scattered cache-cleaning entry points and inflexible storage paths. A beta has been released to the WPS community for testing and feedback. Changes consolidate disk-usage view, cache-clean and path-modification tools into a unified storage-management page, add one-click redundant-cache cleanup and allow custom paths for software install, backups and cloud cache. The stable, fully tested build is scheduled for phased push to all users by end-July."
+    },
+    {
+      "id": "4982801",
+      "time": "2026-07-12 16:35:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽大學回應“擬錄用被期刊認定學術不端博士”：公示結束就啟動調查】近日，一名被核心期刊認定存在學術不端行為並撤稿的博士研究生，將入職安徽大學的訊息在國內學術圈持續引起討論。記者注意到，引發討論的是2026年7月6日安徽大學人事處網站釋出的一份《安徽大學2026年擬錄用人員名單公示》。該名單27名擬錄用人員中，有一位來自中國人民大學比較文學與世界文學專業的博士研究生惠某某，擬錄用安徽大學文學院教學科研崗。公示期共7天，即2026年7月6日至2026年7月12日。記者從多方信源核實到，安大公示入職文學院教學科研崗的惠某某，與稍早前被核心期刊《戲劇藝術》釋出撤稿宣告提到存在學術不端的惠某某系同一人。 對此，記者致電安徽大學人事處，相關工作人員表示，安徽大學人事部門和紀檢部門已經注意到了對惠某某學術不端行為的反饋。惠某某錄用一事目前正處於公示期，公示期間主要是接受各種反饋資訊，待公示期結束之後，會對各個渠道反饋的資訊啟動核查程式。（澎湃新聞）"
+    },
+    {
+      "id": "4982800",
+      "time": "2026-07-12 16:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受“巴威”影響局地有特大暴雨 安徽池州轉移群眾超萬人】今年第9號颱風“巴威”今天（12日）中午進入安徽，氣象部門監測顯示，今天8時至明天8時，安徽中南部有暴雨，南部局地有特大暴雨。池州市防指昨天晚上10時將防汛防颱風應急響應提升為二級，全市轉移群眾超萬人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5574-65ab-7aab-8d43-a5c0863fbcdb",
+      "time": "2026-07-12 16:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea issues first top-level heat alert under upgraded warning system】The Korea Meteorological Administration at 10:00 on the morning of the 12th issued its first top-level heat alert under last month’s upgrade, covering Gyeongsan and Pohang in North Gyeongsang Province and advising residents to suspend outdoor activity. The upgrade, effective June 1, added a top-tier severe heatwave alert; the threshold is two consecutive days with maximum apparent temperature ≥35°C in an area plus an expected apparent temperature ≥38°C or an actual maximum temperature ≥39°C."
+    },
     {
       "id": "mkt:019f5572-c47c-7aab-8d43-99e0c1645815",
       "time": "2026-07-12 16:30:12",
