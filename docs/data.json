@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-12 13:20:56",
-  "count": 16464,
+  "updated": "2026-07-12 13:25:01",
+  "count": 16465,
   "items": [
+    {
+      "id": "4982654",
+      "time": "2026-07-12 13:23:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本將推動其鉅額養老基金增加另類資產配置】據報道，日本旨在提高其全球最大養老基金——日本政府養老金投資基金（GPIF）投資組合中未上市股票、房地產及其他另類投資的比例。日本財務大臣加藤勝信一直試圖提振疲軟的日元，他於週五表示，政府旨在引導這支規模達1.8萬億美元的GPIF及其他國家養老基金“大幅”增加對國內資產的投資，此言引發日元和日本國債價格跳漲。另類投資（區別於上市股票和債券等傳統資產）在3月份佔GPIF資產的1.7%，遠低於5%的允許上限。一個政府小組將很快編制一份報告，規定將該比例提高至接近5%，此舉旨在擴大養老金資產管理範圍並降低整體投資風險。"
+    },
+    {
+      "id": "mkt:019f54c7-bd78-7aab-8d42-3516f2ae619a",
+      "time": "2026-07-12 13:23:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan to push giant pension fund to raise alternative asset allocation】Japan will press the Government Pension Investment Fund (GPIF), the world’s largest pension fund, to lift allocations to unlisted equities, real estate and other alternatives. Finance Minister Kato said the government aims to steer the about $1.8 trillion GPIF and other national pension funds to significantly increase domestic asset holdings to support the weak yen; his comments on Friday pushed the yen higher and boosted Japanese government bond prices. Alternatives made up 1.7% of GPIF assets in March, well below the 5% cap; a government panel will soon issue a report recommending raising the share toward 5% to broaden asset management scope and reduce overall portfolio risk."
+    },
     {
       "id": "4982653",
       "time": "2026-07-12 13:19:03",
@@ -150128,14 +150150,6 @@
         "國際"
       ],
       "text": "俄羅斯外交部稱，歐洲未能拿出可行的烏克蘭和平解決方案。"
-    },
-    {
-      "id": "4970838",
-      "time": "2026-07-05 13:24:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【包承超入職中信證券，任研究部策略大組長】中國證券業協會執業資訊顯示，國聯民生證券研究所前常務副總經理兼策略首席分析師包承超已於7月2日正式加盟中信證券，出任研究部策略大組長一職。公開資料顯示，包承超畢業於‌復旦大學經濟學院‌，獲‌數理經濟學學士‌、‌西方經濟學碩士‌學位。在國聯民生證券任研究所‌常務副總經理‌兼‌首席策略分析師‌。2014年-2016年‌入職‌光大保德信基金‌，擔任研究員，開啟金融職業生涯（買方經歷）。2016年—2023年10月‌加入‌長江證券‌策略組；2017年起升任‌首席策略分析師‌，覆蓋大類資產配置、組合管理與主題策略研究。2023年10月-2026年7月‌：隨團隊加入‌國聯證券‌；後因國聯證券與民生證券合併整合，轉任‌國聯民生證券研究所常務副總經理‌兼首席策略分析師 。‌‌在長江證券及後續任職期間，帶領團隊多次獲得行業權威獎項，包括2022年‌新財富最佳策略分析師‌第二名‌、水晶球公募組策略‌第一名‌、新浪金麒麟策略‌第二名‌。2021年‌水晶球策略‌第一名‌、新財富策略‌第三名。"
     }
   ]
 }
