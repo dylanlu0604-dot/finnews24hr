@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-12 08:06:30",
-  "count": 16300,
+  "updated": "2026-07-12 08:10:16",
+  "count": 16304,
   "items": [
+    {
+      "id": "mkt:019f53a8-6344-7aab-8d40-2a4eda09647a",
+      "time": "2026-07-12 08:09:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran state television reported two explosions near Chabahar and five explosions in Deyr county, Bushehr province."
+    },
+    {
+      "id": "4982433",
+      "time": "2026-07-12 08:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月12日08時釋出海浪橙色警報：受今年第9號颱風“巴威”（強熱帶風暴級）的影響，預計：7月12日上午到13日上午，東海將出現4到6.5米的巨浪到狂浪區，黃海南部將出現3.5到5.5米的大浪到巨浪區，臺灣海峽將出現2.5到4米的大浪到巨浪區。"
+    },
+    {
+      "id": "4982432",
+      "time": "2026-07-12 08:07:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府將敦促日本政府養老金投資基金（GPIF）增加另類資產投資。"
+    },
+    {
+      "id": "4982431",
+      "time": "2026-07-12 08:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：到2029年中國國內算力卡採購額將達到1.44萬億元 將誕生多家市值萬億甚至十萬億的上市企業】有機構預測，到2029年，中國國內算力卡採購額將達到1.44萬億元。龐大的算力需求讓投資機構相信，中國將誕生多家市值萬億甚至十萬億的上市企業。 (央視財經)"
+    },
+    {
+      "id": "mkt:019f53a5-b7b6-7aab-8d40-2327735ef703",
+      "time": "2026-07-12 08:06:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Container ship attacked and caught fire off Oman】UK Maritime Trade Operations reported on the 11th that a container ship was attacked in waters off Oman, sustaining stern damage and a fire aboard."
+    },
     {
       "id": "mkt:019f53a5-2960-7aab-8d40-1d01ea92c720",
       "time": "2026-07-12 08:06:00",
@@ -148675,14 +148723,6 @@
         "觀點"
       ],
       "text": "【光大證券：半導體與AI浪潮驅動含氟新材料進入高速成長期】光大證券研報認為，國內氟化工領軍企業正加速佈局含氟新材料，聚焦打造第二成長曲線。在半導體領域，高純度（如G5級）電子級氫氟酸作為晶片製造不可或缺的關鍵溼電子化學品，過去長期被日美企業壟斷。近年來，國內企業憑藉產業鏈一體化優勢突破了超淨高純工藝瓶頸，電子級氫氟酸順利透過國內外一線晶圓代工廠的嚴苛認證，並進入規模化放量階段。與此同時，AI、HPC和超大規模資料中心算力的快速攀升致使資料中心的熱密度不斷提高，傳統風冷方案在高功率密度場景下已逐漸難以滿足需求，液冷正在成為高效散熱的必選方案。氟化工企業順應高效散熱趨勢，積極佈局全氟聚醚（PFPE）等高效能含氟冷卻液，憑藉其絕緣、不燃及優異的熱管理效能，在浸沒式液冷等高安全性、高功率場景中佔據不可替代的地位。含氟新材料正推動氟化工企業向高技術壁壘、高附加值方向深度轉型。"
-    },
-    {
-      "id": "mkt:019f2f99-97a5-7aab-8ca0-1d3707fab81c",
-      "time": "2026-07-05 08:07:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring."
     }
   ]
 }

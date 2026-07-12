@@ -1,7 +1,55 @@
 {
   "date": "2026-07-12",
-  "count": 168,
+  "count": 173,
   "items": [
+    {
+      "id": "mkt:019f53a8-6344-7aab-8d40-2a4eda09647a",
+      "time": "2026-07-12 08:09:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran state television reported two explosions near Chabahar and five explosions in Deyr county, Bushehr province."
+    },
+    {
+      "id": "4982433",
+      "time": "2026-07-12 08:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月12日08時釋出海浪橙色警報：受今年第9號颱風“巴威”（強熱帶風暴級）的影響，預計：7月12日上午到13日上午，東海將出現4到6.5米的巨浪到狂浪區，黃海南部將出現3.5到5.5米的大浪到巨浪區，臺灣海峽將出現2.5到4米的大浪到巨浪區。"
+    },
+    {
+      "id": "4982432",
+      "time": "2026-07-12 08:07:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府將敦促日本政府養老金投資基金（GPIF）增加另類資產投資。"
+    },
+    {
+      "id": "4982431",
+      "time": "2026-07-12 08:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：到2029年中國國內算力卡採購額將達到1.44萬億元 將誕生多家市值萬億甚至十萬億的上市企業】有機構預測，到2029年，中國國內算力卡採購額將達到1.44萬億元。龐大的算力需求讓投資機構相信，中國將誕生多家市值萬億甚至十萬億的上市企業。 (央視財經)"
+    },
+    {
+      "id": "mkt:019f53a5-b7b6-7aab-8d40-2327735ef703",
+      "time": "2026-07-12 08:06:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Container ship attacked and caught fire off Oman】UK Maritime Trade Operations reported on the 11th that a container ship was attacked in waters off Oman, sustaining stern damage and a fire aboard."
+    },
     {
       "id": "mkt:019f53a5-2960-7aab-8d40-1d01ea92c720",
       "time": "2026-07-12 08:06:00",
