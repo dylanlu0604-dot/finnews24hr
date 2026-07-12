@@ -1,7 +1,46 @@
 {
   "date": "2026-07-12",
-  "count": 742,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:019f5605-2c30-7aab-8d44-b62a990130aa",
+      "time": "2026-07-12 19:10:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported the Islamic Revolutionary Guard Corps' air-defense system intercepted an enemy cruise missile near Khorramabad in Lorestan province in western Iran."
+    },
+    {
+      "id": "4982873",
+      "time": "2026-07-12 19:08:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：港股擾動趨緩賣空料將收斂 短期推薦創新藥、航空、機器人及工業金屬】中信證券最新研報指出，目前港股未平倉賣空佔市值比例雖已從6月中旬的高點小幅回落至2.43%，但仍接近歷史均值三倍標準差以上的水平，內外部擾動因素逐步緩和下，預計未來將有較大的回落空間。但近期港股也有較為明顯的pair trading跡象，短期我們仍建議關注基本面確定性較高和有事件催化的方向，包括：創新藥、航空、機器人和強工業屬性金屬。"
+    },
+    {
+      "id": "mkt:019f5604-0bff-7aab-8d44-a946a328e669",
+      "time": "2026-07-12 19:08:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【CICC: Hong Kong short-selling stress easing; near-term picks — innovative drugs, airlines, robotics, industrial metals】CICC said in a research note that outstanding short positions in Hong Kong as a share of market value have fallen from a mid‑June peak to 2.43% but remain roughly more than three standard deviations above the historical mean. As domestic and external shocks ease, CICC expects significant further unwinding of shorts. Trading shows notable pair‑trading activity; near term CICC recommends focusing on high-fundamental-certainty, event‑driven sectors: innovative drugs, airlines, robotics and industrial metals."
+    },
+    {
+      "id": "4982872",
+      "time": "2026-07-12 19:07:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存鋰電中報業績預告高增，利好落地股價反跌】#截至目前，A股共計349家上市公司釋出2026年半年度業績預告。從預告型別分佈來看，預增公司196家，佔比56.2%；扭虧37家，續虧33家，首虧31家，預減24家，略增19家，略減6家，續盈3家。 在今年上半年科技極致行情背景下，科技龍頭股的業績表現尤為引人關注，儲存板塊的江波龍（301308.SZ）、兆易創新（603986.SH）、夏農芯創（300475.SZ）三家公司預計淨利潤同比增長下限均超過10倍。半導體裝置龍頭長川科技（300604.SZ），晶片設計企業復旦微電（688385.SH）、瑞芯微（603893.SH），以及萬億市值的工業富聯（601138.SH）均披露了亮眼業績。 電子行業以外，鋰電、化工板塊的多隻個股淨利潤也同比翻倍。不過，業績高增並未同步帶動股價上行。江波龍、兆易創新等儲存龍頭披露預告後衝高回落，三日累計回撤約10%；天賜材料（002709.SZ）、天華新能（300390.SZ）等鋰電股同樣出現“利好落地即下跌”，高景氣板塊集體面臨獲利盤兌現壓力。 （一財）"
+    },
     {
       "id": "4982871",
       "time": "2026-07-12 19:04:39",
