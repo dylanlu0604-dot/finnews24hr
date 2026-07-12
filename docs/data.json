@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 00:34:57",
+  "updated": "2026-07-13 00:38:47",
   "count": 16632,
   "items": [
+    {
+      "id": "4983012",
+      "time": "2026-07-13 00:37:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議員梅斯談角逐格雷厄姆參議員席位：不排除參選可能，已致信州長，自薦出任格雷厄姆席位臨時繼任者。"
+    },
     {
       "id": "4983011",
       "time": "2026-07-13 00:32:15",
@@ -151561,18 +151569,6 @@
         "國際"
       ],
       "text": "英國石油公司考慮退出其與日本合作伙伴共同開發的日本北部近海風電專案。"
-    },
-    {
-      "id": "mkt:019f3324-e4a6-7aab-8ca4-26dcfbe4410b",
-      "time": "2026-07-06 00:38:03",
-      "tags": [
-        "MKT News",
-        "BP.L",
-        "Impact bearish",
-        "8002.T",
-        "Impact mixed"
-      ],
-      "text": "【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry."
     }
   ]
 }
