@@ -1,7 +1,43 @@
 {
   "date": "2026-07-12",
-  "count": 844,
+  "count": 848,
   "items": [
+    {
+      "id": "4982952",
+      "time": "2026-07-12 22:04:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：蘋果公司將於明年春季推出新的 Apple Pencil，包括 Apple Pencil Pro 的新版本和低端 USB-C Apple Pencil。這些產品將與下一代 iPad Pro 一起首次亮相。"
+    },
+    {
+      "id": "mkt:019f56a4-769a-7aab-8d45-7166528dc3e3",
+      "time": "2026-07-12 22:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC auto-determined a magnitude ~3.1 earthquake at 22:01 on July 12 near Xinghua, Taizhou, Jiangsu (32.69N, 120.10E). Final parameters subject to formal quick bulletin."
+    },
+    {
+      "id": "mkt:019f56a4-3da4-7aab-8d45-6ddcdd332c04",
+      "time": "2026-07-12 22:03:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: Iran agreed to 'perfect deal' yesterday, then launched drone attack on ship】Trump said in an interview that Iran agreed to a \"perfect deal\" yesterday, including no nuclear weapons and abandoning all conditions. He said they left the room and, less than an hour later, used drones to attack a vessel."
+    },
+    {
+      "id": "4982951",
+      "time": "2026-07-12 22:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯發文：我將為格雷厄姆及其家人祈禱】林賽・格雷厄姆出身平凡，最終躋身全球最強國家最具影響力的議員之列，他的人生是典型的美國式奮鬥故事。 我們之間固然存在諸多分歧，但我打心底裡欣賞他。他是政壇獨一無二的人物。我會為他及其家人祈禱。"
+    },
     {
       "id": "4982950",
       "time": "2026-07-12 22:00:34",
