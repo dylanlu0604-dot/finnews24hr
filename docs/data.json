@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 20:25:41",
-  "count": 16597,
+  "updated": "2026-07-12 20:29:43",
+  "count": 16596,
   "items": [
+    {
+      "id": "4982903",
+      "time": "2026-07-12 20:25:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，德國將為烏克蘭提供資金，採購5萬架攻擊型無人機。"
+    },
     {
       "id": "4982902",
       "time": "2026-07-12 20:24:19",
@@ -151242,22 +151250,6 @@
         "Energy"
       ],
       "text": "Iraq's June oil exports totaled about 24.5 mln barrels, two Iraqi oil officials said."
-    },
-    {
-      "id": "4970986",
-      "time": "2026-07-05 20:28:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩位石油官員稱，伊拉克6月石油出口總量約為2450萬桶。"
-    },
-    {
-      "id": "mkt:019f323f-546f-7aab-8ca2-c83674d32fd0",
-      "time": "2026-07-05 20:27:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Egypt opens national strategic command center in new administrative capital】President Sisi inaugurated Egypt’s national strategic command center in the new administrative capital on the 4th. The facility is equipped with advanced technical infrastructure, secure communications and enhanced intelligence collection and analysis capabilities, and is intended to integrate leadership and operational levels into a unified command-and-control system for faster, more precise response."
     }
   ]
 }
