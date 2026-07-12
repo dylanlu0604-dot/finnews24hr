@@ -1,7 +1,75 @@
 {
   "date": "2026-07-12",
-  "count": 187,
+  "count": 194,
   "items": [
+    {
+      "id": "mkt:019f53b9-d0e1-7aab-8d40-6af308100ee9",
+      "time": "2026-07-12 08:28:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, a U.S. official said the cargo ship attacked by Iran's Islamic Revolutionary Guard Corps was transiting the Oman‑proposed southern corridor, which was meant to be an unrestricted passage."
+    },
+    {
+      "id": "mkt:019f53b9-1bcd-7aab-8d40-61402261390f",
+      "time": "2026-07-12 08:27:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran state TV reports more than 10 explosions heard in Jask."
+    },
+    {
+      "id": "mkt:019f53b8-ac08-7aab-8d40-5dc493e16748",
+      "time": "2026-07-12 08:27:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state TV reported explosions were heard in the southern cities of Bushehr, Deyr, Kangan and Asaluyeh."
+    },
+    {
+      "id": "4982446",
+      "time": "2026-07-12 08:26:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海河流域薊運河發生2026年第1號洪水】據水利部海河水利委員會訊息，7月12日7時10分，海河流域北三河系薊運河九王莊閘上水位為7.18米（大沽高程基準），為2026年薊運河第一次達到編號標準的洪水，依據水利部《全國主要江河洪水編號清單》，確定此次洪水編號為“薊運河2026年第1號洪水”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f53b7-5444-7aab-8d40-55e8de7a17bf",
+      "time": "2026-07-12 08:25:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said SpaceX's next Starship launch is targeted for Thursday."
+    },
+    {
+      "id": "mkt:019f53b6-e398-7aab-8d40-4b70e702c97a",
+      "time": "2026-07-12 08:25:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr news agency reported an air-defence system was activated at Mahshahr port, south of Ahvaz."
+    },
+    {
+      "id": "4982445",
+      "time": "2026-07-12 08:24:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國已建成投運47條特高壓通道】面對用電需求快速增長態勢，我國電源裝機、輸電通道、電網排程保障能力全面升級，全方位築牢迎峰度夏電力保供堅實底氣。目前，我國已建成投運47條特高壓通道，國家電網區域168項迎峰度夏重點工程全部按期投產，有效增強了跨省跨區輸電能力，提升了省間電力互濟和應急支援水平。"
+    },
     {
       "id": "4982444",
       "time": "2026-07-12 08:24:14",
