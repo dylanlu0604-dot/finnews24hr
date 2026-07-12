@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-12 17:32:45",
-  "count": 16577,
+  "updated": "2026-07-12 17:36:50",
+  "count": 16581,
   "items": [
+    {
+      "id": "4982842",
+      "time": "2026-07-12 17:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊因霍爾木茲海峽問題再起衝突】圍繞著霍爾木茲海峽問題，美國和伊朗今天（7月12日）再起衝突。據總檯記者觀察，這背後反映的是雙方對霍爾木茲海峽規則的根本分歧：美國希望推動船隻使用靠近阿曼一側的國際航線，並透過軍事力量保障通行，削弱伊朗對海峽的控制。伊朗則不接受任何繞開伊朗的“平行航道”。在伊朗看來，美國以所謂“船隻通航事件”為藉口進行打擊，違反了此前雙方達成的諒解安排。雖然目前雙方仍保留外交空間，但互信已經嚴重受損。伊朗目前並沒有表現出急於恢復談判的姿態。這實際上體現了伊朗的一種判斷，美國雖然擁有強大的軍事打擊能力，但特朗普倘若長期對伊朗維持軍事行動也會面臨成本，包括地區盟友壓力、能源市場風險以及國內國際政治壓力。伊朗認為自己的韌性更強，也相信時間會站在伊朗這一方。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982841",
+      "time": "2026-07-12 17:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特寶生物：生物技術創新融合及產業化基地專案主體結構封頂】據特寶生物訊息，7月12日，特寶生物生物技術創新融合及產業化基地專案主體結構封頂儀式順利舉行。該專案是集規模化藥物生產、人才安居於一體的多功能產業園區，更好地滿足企業持續發展的需要。"
+    },
+    {
+      "id": "mkt:019f55ac-1035-7aab-8d44-203590928b62",
+      "time": "2026-07-12 17:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "A Wall Street Journal survey showed the probability of a US recession fell to 25% from 33% in April."
+    },
+    {
+      "id": "mkt:019f55ab-e172-7aab-8d44-1ef89e4c3d2a",
+      "time": "2026-07-12 17:32:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Wall Street Journal survey: Economists expect US GDP to expand 2.1% this year, up from 2.0% in April's survey."
+    },
+    {
+      "id": "mkt:019f55ab-b534-7aab-8d44-11671fa9200b",
+      "time": "2026-07-12 17:32:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal survey: economists expect US CPI inflation of 3.4% this year, up from 3.2% in April."
+    },
     {
       "id": "4982840",
       "time": "2026-07-12 17:30:22",
@@ -151063,20 +151122,6 @@
         "MKT News"
       ],
       "text": "Iranian government spokesman said authorities are proceeding with legal steps to lodge a complaint over the assassination of the former supreme leader and have entered the evidence‑collection phase."
-    },
-    {
-      "id": "mkt:019f31a2-c3ae-7aab-8ca2-12dd2d9bb880",
-      "time": "2026-07-05 17:36:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "【Wall Street Journal: NATO funding in place but industrial capacity lags; massive arms orders test defense industry】Rutte, who became NATO secretary-general in 2024, told the Wall Street Journal that the immediate challenge has shifted from securing pledges to delivering weapons and combat-ready forces as hundreds of billions of dollars flow into European militaries. A year ago it was about commitments to raise spending, he said; this year the key is delivery. He said roughly $300 billion of equipment has been ordered from US firms and warned NATO is essentially hitting its absorption limit. Governments face two bottlenecks: industrial capacity — strained by restocking after the Ukraine conflict and heavy ammunition use by the US and allies in the war with Iran — and the ability to recruit and train personnel to expand operational forces."
     }
   ]
 }
