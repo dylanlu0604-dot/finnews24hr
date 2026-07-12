@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12 10:44:33",
+  "updated": "2026-07-12 10:48:31",
   "count": 16391,
   "items": [
+    {
+      "id": "mkt:019f5436-d170-7aab-8d41-33a29530f9a7",
+      "time": "2026-07-12 10:45:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar raises security threat level, urges residents to stay indoors】Al Jazeera reports Qatar's Interior Ministry says the country's security threat level is at high and urges everyone to remain indoors or at a safe location, follow safety instructions and avoid non-essential travel."
+    },
+    {
+      "id": "4982557",
+      "time": "2026-07-12 10:44:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央氣象臺7月12日10時繼續釋出颱風黃色預警】今年第9號颱風“巴威”（強熱帶風暴級）的中心今天上午10點鐘位於浙江省杭州市臨安區境內，就是北緯30.3度、東經119.3度，外圍最大風力有10級（28米/秒），中心最低氣壓為985百帕。預計，“巴威”將以每小時15-20公里的速度向西北方向移動，強度逐漸減弱，將於13日在安徽東部轉向東北方向移動，14日由山東半島移入黃海北部海面，並逐漸變性為溫帶氣旋。"
+    },
     {
       "id": "4982556",
       "time": "2026-07-12 10:43:36",
@@ -29,6 +45,14 @@
         "XAUUSD"
       ],
       "text": "UAE Defense Ministry says air defense systems are intercepting missiles and drones originating from Iran."
+    },
+    {
+      "id": "4982554",
+      "time": "2026-07-12 10:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國沙塵天氣呈次數減少、強度減弱趨勢】7月12日是國際防治沙塵暴日。記者從國家林業和草原局獲悉，近20年來，我國春季沙塵天氣總體呈次數減少、強度減弱趨勢，沙塵天氣由年均12.5次減少到近年的9.6次。今春我國共發生8次沙塵天氣過程。近年來，我國堅持山水林田湖草沙一體化保護和系統治理，以打好“三北”工程攻堅戰為重點，全面推進荒漠化綜合防治。“十四五”時期，全國完成沙化土地治理面積1.52億畝。自2023年6月“三北”工程攻堅戰三大標誌性戰役打響以來，累計完成建設任務2.44億畝，一批重點治理專案加快實施。今年以來，已下達中央投資277億元，計劃實施重點專案328個，安排建設任務9500餘萬畝。（新華社）"
     },
     {
       "id": "4982553",
@@ -149467,33 +149491,6 @@
         "MKT News"
       ],
       "text": "【PLA Navy task force arrives in Vietnam for visit】On the morning of the 5th local time, at the invitation of the Vietnam Navy, a People's Liberation Army Navy task force including the frigate Qi Jiguang and the amphibious ship Kunlunshan arrived in Ho Chi Minh City for a port visit. In recent years the two navies have expanded ship exchanges and joint patrols."
-    },
-    {
-      "id": "mkt:019f302c-2bc0-7aab-8ca0-94cd69585f81",
-      "time": "2026-07-05 10:47:08",
-      "tags": [
-        "MKT News",
-        "CPNG.O"
-      ],
-      "text": "【South Korea's ruling party rejects U.S. report as inaccurate, accuses Coupang of blame-shifting】South Korea's ruling Democratic Party on the 4th strongly rejected a recent U.S. House Judiciary Committee midterm report on e‑commerce firm Coupang, calling its findings seriously inaccurate and saying Coupang is attempting to shift blame for a large-scale user data leak. The U.S. report said Coupang had long been a target of the South Korean government and accused Seoul of carrying out forced investigations, imposing overly burdensome regulatory requirements and excessive fines. Party spokesperson Jang Yun‑mi said the U.S. report relied on Coupang's unilateral claims and unverified data and seriously distorted the government's position, adding South Korea will not apply discriminatory or unfair regulation based on a company's nationality and that Coupang should stop shifting responsibility onto the government."
-    },
-    {
-      "id": "4970797",
-      "time": "2026-07-05 10:46:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普總統宣佈已抵達國家廣場，出席致敬美國慶典活動。"
-    },
-    {
-      "id": "mkt:019f302b-1e7c-7aab-8ca0-8ca97647c949",
-      "time": "2026-07-05 10:45:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he had arrived at the National Mall in Washington to attend a celebration honoring the United States."
     }
   ]
 }
