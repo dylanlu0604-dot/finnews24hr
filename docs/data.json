@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-12 18:30:02",
-  "count": 16586,
+  "updated": "2026-07-12 18:34:01",
+  "count": 16587,
   "items": [
+    {
+      "id": "mkt:019f55e1-051f-7aab-8d44-8b7ce8472317",
+      "time": "2026-07-12 18:30:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian state media reported one Iranian military officer was killed on Sunday in US-Israeli strikes on Iran."
+    },
+    {
+      "id": "4982865",
+      "time": "2026-07-12 18:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "東盟緬甸問題特使：緬甸外長向部長們通報昂山素季健康狀況良好，將對她予以照顧。"
+    },
+    {
+      "id": "mkt:019f55e0-72ca-7aab-8d44-800c9663d87b",
+      "time": "2026-07-12 18:30:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US-led maritime information center: southern route of Strait of Hormuz remains open】On the 12th local time, a US-led maritime information center said the southern route of the Strait of Hormuz off Oman's coast remains open to two-way traffic despite Iranian claims the strait had been closed. The center said US forces are prepared, under international law, to defend freedom of navigation and lawful commercial activity. It added the security threat level in and around the strait remains \"serious\"."
+    },
+    {
+      "id": "4982864",
+      "time": "2026-07-12 18:29:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【外交部發言人就日本外務大臣炒作“南海仲裁案裁決”出臺十年發表談話】7月12日，日本外務大臣茂木敏充就“南海仲裁案裁決”出臺十年發表談話，公然為非法“裁決”張目，攻擊指責中國合法主張，妄稱日本是南海事務的利益攸關方。中方對此表示強烈譴責和堅決反對。日本不是南海當事國，沒有資格對中國在南海的領土主權和海洋權益說三道四。二戰時，日本在中國犯下累累罪行，其中就包括非法侵佔中國南海島礁，給中國和中國人民帶來了深重災難。現在日本打著所謂“利益攸關方”旗號，再次妄圖介入南海，這隻會讓世界人民再次想起日本對外侵略擴張的歷史，更加警惕日本“再軍事化”圖謀。我們奉勸日本停止汙衊攻擊中國，停止在南海問題上搬弄是非，停止破壞南海和平穩定。中國將繼續堅定捍衛自身在南海的領土主權和海洋權益。任何試圖挑戰中國合法權益、破壞南海和平穩定的圖謀都註定破產。（外交部）"
+    },
     {
       "id": "4982863",
       "time": "2026-07-12 18:29:19",
@@ -151133,32 +151173,6 @@
         "公司"
       ],
       "text": "伊拉克石油部長表示，與哈里伯頓公司達成的協議期限為五年。"
-    },
-    {
-      "id": "4970954",
-      "time": "2026-07-05 18:33:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝襲擊政府軍致14人死亡】亞丁訊息：葉門軍方和醫療部門訊息人士5日說，胡塞武裝4日在紅海沿岸的荷臺達省發動襲擊，造成至少14名葉門政府軍士兵死亡，另有多人受傷。一名不願透露姓名的葉門政府軍官員表示，胡塞武裝的襲擊目標是政府軍位於荷臺達省的兩座營房，雙方隨即爆發激烈交火。襲擊發生後，政府軍將多個戰線的戰備等級提升至最高階別。當地醫院的醫療人員向新華社記者證實，此次襲擊造成至少14名葉門政府軍士兵死亡，另有多人仍在醫院接受治療，部分傷者傷勢嚴重。胡塞武裝尚未對此發表任何宣告或表態。（新華社）"
-    },
-    {
-      "id": "4970953",
-      "time": "2026-07-05 18:31:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】預計，7月5日20時至6日20時，湖南西南部、廣西東部等地部分地區發生山洪災害可能性大（橙色預警），其中，廣西東部部分地區發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "mkt:019f31d4-9693-7aab-8ca2-625f1d3f258a",
-      "time": "2026-07-05 18:30:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iraq signed an agreement and a statement with Halliburton to manage two oilfields, market sources said."
     }
   ]
 }
