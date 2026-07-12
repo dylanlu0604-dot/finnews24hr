@@ -1,7 +1,95 @@
 {
   "date": "2026-07-13",
-  "count": 265,
+  "count": 275,
   "items": [
+    {
+      "id": "4983212",
+      "time": "2026-07-13 07:54:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【 長江下游支流水陽江發生2026年第2號洪水 】 受降雨影響，長江下游支流水陽江新河莊水文站7月13日1時20分水位漲至警戒水位（11.50米），依據主要江河洪水編號規定，此次洪水編號為“水陽江2026年第2號洪水”。目前，水利部工作組正在安徽省洪水防禦一線協助指導。（央視）"
+    },
+    {
+      "id": "mkt:019f58bf-11d3-7aab-8d47-ec27df3ec450",
+      "time": "2026-07-13 07:52:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CITIC Securities: Supply-loosening expectations weigh on lithium prices; off-season may stay firm and rebound】CITIC Securities research said lithium prices plunged this week as expectations of marginally looser supply weighed, driven mainly by restarts at Jiangxi lithium mines and Zimbabwe spodumene cargoes due in July. Concentrates remain tight; several lithium-salt makers cut output amid feedstock constraints and maintenance, while spodumene and mica production fell and weekly output continued to decline. Inventories are still being drawn down, though some spot parcels are being withheld to support prices. Demand shows no major weakness: new upstream capacity will begin commissioning and ramp in H2, amplifying downstream restocking, and a planned 2027 EV subsidy step-down is encouraging installations this year and lifting H2 production expectations. Commercial vehicle volumes rose 36% YoY in 1H; Jan–May pure-electric vehicle exports were 1.833 mln units, up 114.4% YoY. CITIC expects July and August production schedules to post MoM gains — off-season not weak, with peak season likely."
+    },
+    {
+      "id": "mkt:019f58be-eecf-7aab-8d47-e7bfd2b636b9",
+      "time": "2026-07-13 07:52:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield fell 2.5 bps to 2.735%."
+    },
+    {
+      "id": "4983211",
+      "time": "2026-07-13 07:52:00",
+      "tags": [
+        "央行"
+      ],
+      "text": "【本週中國央行公開市場共620億元7天期逆回購到期】 其中，週一至週五逆回購分別到期70億元、100億元、150億元、100億元、200億元。此外，週三將有9000億元181天期買斷式逆回購到期，週五將有1200億元國庫現金定存到期。"
+    },
+    {
+      "id": "4983210",
+      "time": "2026-07-13 07:51:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌2.5個基點，至2.735%。"
+    },
+    {
+      "id": "4983209",
+      "time": "2026-07-13 07:51:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內FOF業績分化明顯 多元資產配置重要性持續提升】 近期基金業績波動加大，作為專業基金買手的FOF（基金中的基金）產品業績表現受到市場關注。Wind資料顯示，截至7月10日，全市場FOF產品今年以來平均收益率為4.22%，中位數為2.76%，產品整體取得正收益，但不同產品之間的業績分化也進一步加大，科技成長行情成為推動部分產品業績領先的重要因素。展望下半年，哪些大類資產仍具備配置價值？組合配置思路是否需要調整？近日，多位FOF基金經理在接受證券時報記者採訪時表示，AI產業趨勢仍在延續，科技成長仍是市場主線，但隨著市場進入業績驗證階段，更應堅持多資產、多策略配置，在控制回撤的同時把握結構性投資機會。"
+    },
+    {
+      "id": "4983208",
+      "time": "2026-07-13 07:51:23",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：北美電力缺口仍在，板塊回撥本質是長期供需能見度的擔憂】中信建投研報稱，今年4月底至6月，北美缺電板塊個股調整幅度約15-40%，本質是在此次下跌之前，市場對燃氣輪機板塊的定價邏輯已經完成了對2028年景氣度的充分預期，估值向2030年切換遇阻，系①長期AI資本開支的能見度較弱，②SOFC、內燃機產能釋放後市場對北美市場供電格局的擔憂，“燃機訂單見頂”的說法只是回撥過程的加速器。中信建投認為2028年前電力缺口仍在，有望在26H2看到2030年的燃機短缺情況。"
+    },
+    {
+      "id": "4983207",
+      "time": "2026-07-13 07:51:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：供給寬鬆預期壓制鋰價，淡季不淡有望反彈】中信建投研報稱，本週鋰價大幅下行，供給邊際寬鬆預期給予壓制，主要是江西鋰礦復產及辛巴威鋰精礦到港均將在7月兌現，但精礦維持緊現實格局，部分鋰鹽廠因原料偏緊及檢修等因素出現減量，輝石及雲母產量下降，周內產量維持降勢；同時庫存方面依然維持去化，部分散單惜售挺價。需求側無過多擔憂，初端消費側，下半年將有較多新產能初步建成並爬產，放大下游補庫效應，帶來消費的邊際增量，終端需求側，2027年新能源車補貼退坡將夯實年內搶裝，推高下半年排產預期，商用車增速樂觀，上半年同比增長36%，1-5月純電動車出口183.3萬輛，同比增長114.4%。三季度看，預計7月、8月排產環比均保持正增長，淡季不淡，旺季可期。"
+    },
+    {
+      "id": "4983206",
+      "time": "2026-07-13 07:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江省螞蟻河發生2026年第1號洪水】受降雨影響，黑龍江省松花江支流螞蟻河延壽水文站7月13日2時36分水位漲至警戒水位（149.82米），依據主要江河洪水編號規定，此次洪水編號為“螞蟻河2026年第1號洪水”。目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。"
+    },
+    {
+      "id": "4983205",
+      "time": "2026-07-13 07:50:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉第未來賈躍亭： FF機器人“三位一體”戰略升級為“四核全智”生態戰略，它由EAI大腦、EAI本體、行業生產力解決方案與開發者平臺、EAI資料工廠組成； 啟動四核全智生態戰略Q3實用化戰役，率先打響戰略升級子戰役，使用者生態戰役和銷售爬坡戰役； 啟動首屆FF EAI機器人生產力實用聯賽，以競賽形式全方位展現機器人在真實場景下的實用性與功用性，助力銷售和交付快速爬坡，儘快實現全年2000臺的出貨目標，併為Q4與明年的業務爆發夯實基礎； FF再登出536萬份認股權證，已累計永久登出近5000萬份，並調整2025年7月融資交割結構，兩項舉措進一步最佳化公司資本結構、提升資本效率。"
+    },
     {
       "id": "4983204",
       "time": "2026-07-13 07:49:19",
