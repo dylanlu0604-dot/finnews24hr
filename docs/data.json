@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-13 03:42:02",
-  "count": 16616,
+  "updated": "2026-07-13 03:45:54",
+  "count": 16614,
   "items": [
+    {
+      "id": "mkt:019f57da-9096-7aab-8d46-c12c4f17dbfc",
+      "time": "2026-07-13 03:42:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The UAE Foreign Ministry strongly condemned aggressive attacks on Kuwaiti border posts and offshore oil platforms."
+    },
     {
       "id": "4983057",
       "time": "2026-07-13 03:41:22",
@@ -151418,30 +151430,6 @@
         "國際"
       ],
       "text": "【禁賽暫緩執行 美國隊巴洛貢將出戰世界盃16強賽】國際足聯5日宣佈，對在與波黑隊比賽中被紅牌罰下的美國隊球員福拉林·巴洛貢作出禁賽一場處罰，並暫緩一年執行。這使得這位美國隊頭號射手得以出戰與比利時隊的世界盃16強賽。（新華社）"
-    },
-    {
-      "id": "4971101",
-      "time": "2026-07-06 03:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：露天集會當晚七點零五分到場約42萬人，因雷擊天氣疏散人群。叫停了取消活動的安排，等待民眾折返，最終至少15萬人重回現場。"
-    },
-    {
-      "id": "mkt:019f33ce-fba0-7aab-8ca5-26c09f4b2e38",
-      "time": "2026-07-06 03:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran judiciary chief says US, Israel seek talks from defeat; will hold assassination suspects to account】Iran judiciary chief Mohseni-Eje'i said the US and Israel have committed unforgivable crimes in their campaign against Iran. He accused Washington of taking the initiative to seek talks with Tehran and said Israel, driven into a corner, proposed a ceasefire. Mohseni-Eje'i added Iran will hold the US and those responsible for the assassination of former Supreme Leader Khamenei to account and will not relent."
-    },
-    {
-      "id": "mkt:019f33cd-e768-7aab-8ca5-1f39f259bf2a",
-      "time": "2026-07-06 03:42:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians."
     }
   ]
 }
