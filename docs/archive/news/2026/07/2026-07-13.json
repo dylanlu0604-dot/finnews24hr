@@ -1,7 +1,87 @@
 {
   "date": "2026-07-13",
-  "count": 110,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:019f5835-7742-7aab-8d47-2db8170dbf40",
+      "time": "2026-07-13 05:22:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "McConnell said he is still unable to return to the Senate chamber to vote and will return to the Senate as soon as possible."
+    },
+    {
+      "id": "4983084",
+      "time": "2026-07-13 05:21:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "康士伯海事將透過收購博格推進器公司強化船舶推進系統業務。"
+    },
+    {
+      "id": "4983083",
+      "time": "2026-07-13 05:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院議員麥康奈爾：我目前尚無法返回參議院參議院會議廳參與投票。"
+    },
+    {
+      "id": "4983082",
+      "time": "2026-07-13 05:21:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員麥康奈爾：我將繼續努力，爭取儘快重返參議院議事廳參與議事。"
+    },
+    {
+      "id": "mkt:019f5834-5b6a-7aab-8d47-257360f8fa97",
+      "time": "2026-07-13 05:20:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【CENTCOM says US forces began new strikes on Iran】CENTCOM said US forces began additional strikes against Iran at 5:00 p.m. ET today (05:00 Beijing) to continue degrading Iran’s ability to attack civilian mariners and merchant vessels transiting the Strait of Hormuz."
+    },
+    {
+      "id": "4983081",
+      "time": "2026-07-13 05:20:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美方稱，已於美國東部時間下午5點（北京時間5:00）對伊朗發動新一輪打擊。"
+    },
+    {
+      "id": "4983080",
+      "time": "2026-07-13 05:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方訊息：本次打擊旨在削弱伊朗襲擊民用航運船隻的能力。"
+    },
+    {
+      "id": "4983079",
+      "time": "2026-07-13 05:19:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部證實已對伊朗發起新一輪打擊。"
+    },
+    {
+      "id": "4983078",
+      "time": "2026-07-13 05:18:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美方訊息：三軍統帥已下令實施打擊行動。"
+    },
     {
       "id": "mkt:019f5832-512e-7aab-8d47-1d44fd88bc90",
       "time": "2026-07-13 05:18:40",
