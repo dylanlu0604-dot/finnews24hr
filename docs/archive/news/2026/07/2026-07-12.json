@@ -1,7 +1,44 @@
 {
   "date": "2026-07-12",
-  "count": 213,
+  "count": 217,
   "items": [
+    {
+      "id": "4982465",
+      "time": "2026-07-12 08:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美軍發動打擊，布什爾省一處軍事設施遭襲。"
+    },
+    {
+      "id": "4982464",
+      "time": "2026-07-12 08:50:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "報道稱，伊朗東南部賈斯克發生更多起爆炸。"
+    },
+    {
+      "id": "mkt:019f53cd-8ed1-7aab-8d40-88a446c496d7",
+      "time": "2026-07-12 08:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran official says US strikes 'will not go unanswered'】Al Jazeera cited Ali Safari, adviser to Iran's foreign ministry spokesman, saying recent US strikes \"will not go unanswered\" and accusing Washington of failing to honour a June 16 MoU that assigns Iran responsibility for future arrangements in the Strait of Hormuz and requires consultation with Oman and other states. He said a southern shipping route opened under US pressure is obstructing the MoU, creating serious safety risks including collision risk, and criticised vessels switching off navigation systems to transit the route as irresponsible. He warned the US must either comply with the MoU signed 23 days ago or abandon it, and said Iran is stronger than expected and prepared for war."
+    },
+    {
+      "id": "4982463",
+      "time": "2026-07-12 08:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員稱美國對伊朗的襲擊“不會沒有回應”】據報道，伊朗外交部發言人顧問阿里·薩法裡（Ali Safari）。他表示，美國近期的打擊“不會沒有回應”，並指責美國未能履行其在6月16日簽署的諒解備忘錄（MoU）中所做的承諾。薩法裡堅稱，該備忘錄將“霍爾木茲海峽未來安排”的責任賦予了伊朗，並需與阿曼及其他國家協商制定。“在美方壓力下開闢的南部航運路線，阻礙了協議的執行，並已造成嚴重的安全風險，包括髮生碰撞事故的可能性。讓船隻關閉導航系統透過該路線，是不負責任的行為，”他說。“美國必須做出選擇：要麼遵守它23天前簽署的協議，要麼徹底背棄承諾。伊朗遠比你們想象的要強大，並且已為戰爭做好準備，”他補充道。"
+    },
     {
       "id": "4982462",
       "time": "2026-07-12 08:48:21",
