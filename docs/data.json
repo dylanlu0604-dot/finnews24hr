@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-13 06:53:28",
+  "updated": "2026-07-13 06:57:18",
   "count": 16652,
   "items": [
+    {
+      "id": "4983135",
+      "time": "2026-07-13 06:56:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【通用生物醫學AI智慧體可自主執行科研任務】美國斯坦福研究團隊近日在《科學》雜誌上報告了一種名為Biomni的通用生物醫學AI智慧體，其能夠自主執行從資料分析到實驗設計的多種研究任務。團隊在多個案例研究中測試了該工具，認為其效能穩定，多項任務表現接近人類專家。該成果意味著AI智慧體可與人類研究人員協作，加速推進生物醫學從基礎研究邁向應用轉化。"
+    },
+    {
+      "id": "4983134",
+      "time": "2026-07-13 06:53:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗局勢緊張局勢刺激油價上漲的影響，澳大利亞債券價格下跌。"
+    },
+    {
+      "id": "4983133",
+      "time": "2026-07-13 06:53:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國、法國和德國呼籲（美伊）恢復停火和談判。"
+    },
+    {
+      "id": "4983132",
+      "time": "2026-07-13 06:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國、法國和德國譴責伊朗襲擊霍爾木茲海峽的船隻。"
+    },
     {
       "id": "4983131",
       "time": "2026-07-13 06:52:45",
@@ -151765,46 +151798,6 @@
         "市場"
       ],
       "text": "【A股交易新規今起實施 盤後固定價格交易機制擴容 滬深主機板風險警示股票漲跌幅限制由5%調整至10%】7月6日起，A股交易新規正式施行。對投資者而言，兩大方面變化值得關注。第一，盤後固定價格交易方式適用證券範圍由科創板、創業板股票擴充套件至全部A股（北交所股票7月6日暫不實施）和ETF；第二，滬深主機板風險警示股票（ST、*ST股票）漲跌幅限制由5%調整至10%。業內人士認為，交易規則變化，事關投資者利益，投資者需積極關注變化，注意盤後固定價格交易活躍度、交易安排與連續競價階段存在差異，同時審慎參與滬深主機板風險警示股票交易。（中國證券報）"
-    },
-    {
-      "id": "mkt:019f347f-ce82-7aab-8ca5-b7d707769ff6",
-      "time": "2026-07-06 06:56:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "An adviser to Ukraine’s interior minister said roughly 15 explosions occurred in Kyiv within 10 minutes; air-raid sirens remain active and further cruise missile and additional ballistic missile strikes are possible."
-    },
-    {
-      "id": "te:markets:564243",
-      "time": "2026-07-06 06:56:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Gains to Start the Week — The NZX 50 climbed 23 points, or 0.2%, to 13,642 in Monday morning deals, extending gains from the previous session, hitting its highest level since February 27 and tracking a rise in US futures as Wall Street looks to extend its rally after the Dow Jones posted a record high. Easing oil prices also fueled sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed meeting minutes due this week. However, traders remained cautious ahead of the RBNZ's monetary policy decision on Wednesday, with the market expecting the RBNZ to raise its policy rate by 25 bps to 2.5%. Financials, energy, materials, and consumer staples mainly drove the index, with notable gains from Infratil (3.0%), Vulcan Steel (1.9%), Delegat Group (1.5%), Chorus (1.0%), and A2 Milk (0.9%)."
-    },
-    {
-      "id": "4971154",
-      "time": "2026-07-06 06:55:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“殭屍國會”正阻礙特朗普施政議程】隨著中期選舉逐步臨近，越來越多共和黨籍眾議員無心履職、不願恪守黨內統一投票立場，多項關鍵立法前景岌岌可危。已有議員私下將本屆國會稱作殭屍國會。多名議員及國會幕僚透露，共和黨高層愈發擔憂：議員參會意願持續低迷；即便到場參會，也可能當眾倒戈反對黨內提案，大量法案或將陷入擱置、徹底夭折。此前黨內分歧主要集中在參議院，如今眾議院也將迎來動盪的夏秋兩季：大量即將卸任、初選落敗或心懷不滿的議員行事愈發不受黨內約束，出勤率持續下滑，這一系列問題足以顛覆共和黨整套施政議程。"
-    },
-    {
-      "id": "4971153",
-      "time": "2026-07-06 06:54:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川綿竹地震目前未造成人員傷亡和房屋倒損】據中國地震臺網正式測定，5日23時03分、23時20分、23時30分，德陽綿竹市先後發生4.5級地震（北緯31.58度，東經103.98度）、4.0級地震（北緯31.55度，東經103.98度）、4.5級地震（北緯31.58度，東經104.00度），震源深度分別為20公里、15公里、18公里。地震發生後，德陽市和綿竹市兩級抗震救災指揮部啟動應急響應，組織開展災情排查等相關工作。經多輪排查，截至6日5時，地震未造成人員傷亡和房屋倒損，未發現交通、電力、通訊等設施受損情況。目前，排查工作仍在持續開展。（央視新聞）"
     }
   ]
 }
