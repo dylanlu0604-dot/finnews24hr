@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-13 03:49:46",
-  "count": 16616,
+  "updated": "2026-07-13 03:53:36",
+  "count": 16618,
   "items": [
+    {
+      "id": "mkt:019f57e3-d29f-7aab-8d46-d3871c892237",
+      "time": "2026-07-13 03:52:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Slovak President Pellegrini said Slovakia will not participate in the new €70 billion aid package for Ukraine, nor will it supply weapons to Ukraine or fund further rearmament."
+    },
+    {
+      "id": "mkt:019f57e3-878a-7aab-8d46-cfbfe7f3fe09",
+      "time": "2026-07-13 03:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies attack on Bushehr nuclear plant area】Islamic Republic of Iran Broadcasting on the 12th quoted a Bushehr provincial official denying social-media reports that the Bushehr nuclear power plant area had been attacked. The Atomic Energy Organization of Iran said all units and facilities continue to operate normally and the plant is in a safe, stable condition; reports of an attack are false."
+    },
+    {
+      "id": "4983061",
+      "time": "2026-07-13 03:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認布什爾核電站區域遭襲】據伊朗伊斯蘭共和國廣播電視臺12日報道，伊朗布什爾省相關負責人否認社交媒體上有關布什爾核電站區域遭到襲擊的訊息。另據報道，伊朗原子能組織釋出訊息說，布什爾核電站所有機組和設施均未中斷執行，正按正常程式開展工作。該核電站目前處於安全和穩定狀態，所謂遭到襲擊的說法不屬實。（新華社）"
+    },
+    {
+      "id": "4983060",
+      "time": "2026-07-13 03:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普週一將在白宮舉辦印地賽車活動】特朗普將於週一在白宮舉辦一場印地賽車“大獎賽展示活動”。該活動旨在為下月華盛頓舉辦的街道賽造勢，車手阿萊克斯·帕洛烏等知名印地賽車手將出席本次活動。"
+    },
     {
       "id": "4983059",
       "time": "2026-07-13 03:48:31",
@@ -151430,22 +151469,6 @@
         "MKT News"
       ],
       "text": "【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses."
-    },
-    {
-      "id": "4971103",
-      "time": "2026-07-06 03:53:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉震後心理諮詢師工作繁重 民眾心理創傷需長期修復】委內瑞拉6月24日發生強震後，一家餐廳被改造成臨時醫療中心，來自委內瑞拉多地的醫生、護士、心理諮詢師等志願者輪班值守，為受災民眾提供免費醫療服務。相比其他疾病，民眾的心理創傷修復需要長期、持續的專業治療。（央視新聞）"
-    },
-    {
-      "id": "4971102",
-      "time": "2026-07-06 03:51:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【禁賽暫緩執行 美國隊巴洛貢將出戰世界盃16強賽】國際足聯5日宣佈，對在與波黑隊比賽中被紅牌罰下的美國隊球員福拉林·巴洛貢作出禁賽一場處罰，並暫緩一年執行。這使得這位美國隊頭號射手得以出戰與比利時隊的世界盃16強賽。（新華社）"
     }
   ]
 }

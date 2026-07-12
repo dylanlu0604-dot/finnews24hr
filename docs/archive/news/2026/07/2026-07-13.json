@@ -1,7 +1,46 @@
 {
   "date": "2026-07-13",
-  "count": 81,
+  "count": 85,
   "items": [
+    {
+      "id": "mkt:019f57e3-d29f-7aab-8d46-d3871c892237",
+      "time": "2026-07-13 03:52:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Slovak President Pellegrini said Slovakia will not participate in the new €70 billion aid package for Ukraine, nor will it supply weapons to Ukraine or fund further rearmament."
+    },
+    {
+      "id": "mkt:019f57e3-878a-7aab-8d46-cfbfe7f3fe09",
+      "time": "2026-07-13 03:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies attack on Bushehr nuclear plant area】Islamic Republic of Iran Broadcasting on the 12th quoted a Bushehr provincial official denying social-media reports that the Bushehr nuclear power plant area had been attacked. The Atomic Energy Organization of Iran said all units and facilities continue to operate normally and the plant is in a safe, stable condition; reports of an attack are false."
+    },
+    {
+      "id": "4983061",
+      "time": "2026-07-13 03:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗否認布什爾核電站區域遭襲】據伊朗伊斯蘭共和國廣播電視臺12日報道，伊朗布什爾省相關負責人否認社交媒體上有關布什爾核電站區域遭到襲擊的訊息。另據報道，伊朗原子能組織釋出訊息說，布什爾核電站所有機組和設施均未中斷執行，正按正常程式開展工作。該核電站目前處於安全和穩定狀態，所謂遭到襲擊的說法不屬實。（新華社）"
+    },
+    {
+      "id": "4983060",
+      "time": "2026-07-13 03:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普週一將在白宮舉辦印地賽車活動】特朗普將於週一在白宮舉辦一場印地賽車“大獎賽展示活動”。該活動旨在為下月華盛頓舉辦的街道賽造勢，車手阿萊克斯·帕洛烏等知名印地賽車手將出席本次活動。"
+    },
     {
       "id": "4983059",
       "time": "2026-07-13 03:48:31",
