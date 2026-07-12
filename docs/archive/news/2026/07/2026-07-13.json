@@ -1,7 +1,27 @@
 {
   "date": "2026-07-13",
-  "count": 101,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:019f582b-7a44-7aab-8d46-ffb0a116e5f3",
+      "time": "2026-07-13 05:11:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry strongly condemned what it described as US aggressive attacks on Iran in the past 24 hours, saying they flagrantly violate the UN Charter, pose a serious threat to international peace and security, and have undone months of efforts to reduce tensions and build peace in West Asia."
+    },
+    {
+      "id": "4983074",
+      "time": "2026-07-13 05:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月13日05時02分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.9級地震，震源深度6千米。"
+    },
     {
       "id": "mkt:019f5826-d8b3-7aab-8d46-f64e6905e42b",
       "time": "2026-07-13 05:06:08",

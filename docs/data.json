@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-13 05:07:54",
+  "updated": "2026-07-13 05:11:42",
   "count": 16614,
   "items": [
+    {
+      "id": "mkt:019f582b-7a44-7aab-8d46-ffb0a116e5f3",
+      "time": "2026-07-13 05:11:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry strongly condemned what it described as US aggressive attacks on Iran in the past 24 hours, saying they flagrantly violate the UN Charter, pose a serious threat to international peace and security, and have undone months of efforts to reduce tensions and build peace in West Asia."
+    },
+    {
+      "id": "4983074",
+      "time": "2026-07-13 05:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月13日05時02分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.9級地震，震源深度6千米。"
+    },
     {
       "id": "mkt:019f5826-d8b3-7aab-8d46-f64e6905e42b",
       "time": "2026-07-13 05:06:08",
@@ -151427,22 +151447,6 @@
         "國際"
       ],
       "text": "【芬蘭總統斯圖佈會見王毅】當地時間7月5日，芬蘭總統斯圖布在圖爾庫會見中共中央政治局委員、外交部長王毅。（新華社）"
-    },
-    {
-      "id": "4971122",
-      "time": "2026-07-06 05:10:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普據悉計劃在土耳其會見澤連斯基後與普京通話】一名美國高階官員表示，美國總統特朗普計劃於7月8日在北約峰會期間與烏克蘭總統澤連斯基會晤，討論烏克蘭衝突的解決方案，並將在會後與俄羅斯總統普京通話。特朗普迫切希望推動這場衝突儘快結束。"
-    },
-    {
-      "id": "mkt:019f341c-bb47-7aab-8ca5-3a7a6c83c57b",
-      "time": "2026-07-06 05:08:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump plans to meet Zelenskiy in Turkey, likely to call Putin afterward】Refinitiv, citing a US senior official, said President Trump plans to meet Ukrainian President Zelenskiy on July 8 at the NATO summit in Turkey to discuss ending the war and is likely to call Russian President Putin after the meeting; the official said Trump is eager to press for a quick resolution. Russian presidential aide Ushakov said earlier that Putin told Trump Russia is prepared to pursue a diplomatic settlement based on a Russian proposal, and that the two discussed the resolution process and Trump’s upcoming trip to the summit."
     }
   ]
 }
