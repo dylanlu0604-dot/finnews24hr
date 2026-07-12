@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12 21:55:04",
-  "count": 16634,
+  "updated": "2026-07-12 21:59:12",
+  "count": 16633,
   "items": [
     {
       "id": "mkt:019f5698-edd3-7aab-8d45-6291cccf7f82",
@@ -151575,20 +151575,6 @@
         "市場"
       ],
       "text": "市場訊息：突尼西亞6月消費者價格指數同比上漲5.3%。"
-    },
-    {
-      "id": "mkt:019f328f-e47d-7aab-8ca3-01c8b759d026",
-      "time": "2026-07-05 21:55:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact mixed",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "【China Merchants Securities: After short-term shock, focus on tech recovery and mid-year earnings】China Merchants Securities says the recent sharp market adjustment following Meta's compute sale is a tactical move to lift ROIC in a high‑CapEx phase, not evidence of broad compute overcapacity. The firm views the industry as shifting from pure CapEx expansion into a ROIC‑verification stage; the pullback was amplified by prior outsized gains in generalized compute names and leveraged flows, creating a short‑term liquidity‑driven negative feedback loop. After the liquidity shock, the bank judges the AI structural trend intact: storage chip supply‑demand gaps remain, MLCC price increases persist, and indium phosphide shortages continue, supporting scope for a tech recovery. It also recommends selectively targeting mispricings between mid‑year earnings and share prices."
     }
   ]
 }
