@@ -1,7 +1,34 @@
 {
   "date": "2026-07-12",
-  "count": 691,
+  "count": 694,
   "items": [
+    {
+      "id": "4982840",
+      "time": "2026-07-12 17:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列部長稱，以摩（摩納哥）直飛航班將於8月26日恢復運營。"
+    },
+    {
+      "id": "4982839",
+      "time": "2026-07-12 17:28:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧釋出地質災害氣象風險紅色預警】根據持續降雨和颱風“巴威”影響，遼寧省自然資源廳與遼寧省氣象局聯合釋出地質災害氣象風險預警。7月12日20時至7月13日20時，錦州市、鐵嶺市等部分地區地質災害氣象風險預警等級為一級（紅色預警），撫順市、朝陽市、葫蘆島市等部分地區地質災害氣象風險預警等級為二級（橙色預警），瀋陽市等部分地區地質災害氣象風險預警等級為三級（黃色預警），上述地區氣象因素致地質災害發生的風險較高，請注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f55a7-d4b8-7aab-8d44-086c5fd5bbf8",
+      "time": "2026-07-12 17:28:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Qatar's foreign ministry said ongoing Iranian attacks constitute a serious escalation and will complicate efforts to contain tensions in the region."
+    },
     {
       "id": "4982838",
       "time": "2026-07-12 17:27:46",
