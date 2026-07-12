@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 04:20:31",
-  "count": 16617,
+  "updated": "2026-07-13 04:26:11",
+  "count": 16616,
   "items": [
+    {
+      "id": "4983067",
+      "time": "2026-07-13 04:24:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克對霍爾木茲海峽近期緊張局勢下的海上安全形勢表示擔憂，呼籲各方保持克制，避免採取可能危及商船航行安全的行動。 巴格達方面稱，伊拉克支援一切旨在緩和緊張局勢的舉措。"
+    },
     {
       "id": "4983066",
       "time": "2026-07-13 04:11:30",
@@ -151442,23 +151450,6 @@
         "其他"
       ],
       "text": "【科技行情“縮圈”與切換並行 基金靜候半年報檢驗成色】7月份伊始，A股科技板塊正經歷一場劇烈的結構性切換，前期領漲的熱門AI賽道在基金“中考”後遭遇顯著回撥，而沉寂多時的機器人板塊則借多重利好逆勢爆發，帶動相關主題基金淨值大幅反彈。 除了行情切換以外，近期科技投資也已告別“凡AI必漲”的普漲時代，並呈現出明顯的“縮圈”特徵與資金的高低位博弈現象。多家公募指出，隨著半年報披露視窗開啟，市場定價邏輯正加速從前期的主題催化轉向真實的訂單與盈利兌現能力，業績成色已成為甄別科技“真假龍頭”的唯一試金石。（央視新聞）"
-    },
-    {
-      "id": "4971110",
-      "time": "2026-07-06 04:25:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【9只ETF上市在即 個人投資者包攬近八成份額】個人投資者在ETF中的“戲碼”仍在持續增加。 根據證券時報記者統計，本週（7月6日至7月10日）上市的9只ETF，個人投資者持有份額比例接近八成，在個別產品上的持有比例甚至達到了98%。這樣的情況並非偶然，從記者統計的今年6月和今年上半年資料看，這種情況作為一種趨勢在持續加強。資料還顯示，個人投資者偏好熱門主題ETF，但操作也較為頻繁。 基金業內人士認為，個人投資者在ETF中的參與度仍會持續提升，但只有對ETF認知不斷提高，才能帶來更好的持有體驗，這將對基金公司投教提出更高要求。（證券時報）"
-    },
-    {
-      "id": "mkt:019f33f1-ef2c-7aab-8ca5-314deca5a2d5",
-      "time": "2026-07-06 04:22:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【NYT: Trump phoned FIFA over U.S. forward’s red-card suspension; ban deferred】The New York Times, citing three people familiar with the matter, reports President Trump called FIFA president Gianni Infantino on July 1 asking a review of the red-card suspension of U.S. leading scorer Balogun after he was sent off for stamping in the U.S. 2-0 win over Bosnia in the round of 32. On July 5 FIFA said its disciplinary committee found Balogun in breach of Articles 14 and 66 and imposed a one-match ban but invoked Article 27 to suspend that ban for one year, making him eligible for Monday’s match against Belgium — the first time since 1962 FIFA has allowed a player originally due to be suspended to play. Trump welcomed the decision on social media but did not disclose the call or claim credit."
     }
   ]
 }
