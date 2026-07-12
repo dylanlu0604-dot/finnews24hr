@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-12 23:34:42",
+  "updated": "2026-07-12 23:38:42",
   "count": 16629,
   "items": [
+    {
+      "id": "mkt:019f56f9-d391-7aab-8d45-e21a25b9b1c6",
+      "time": "2026-07-12 23:37:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【UN envoy Jean Arnault meets Iran foreign minister Araghchi】UN envoy to Lebanon Jean Arnault met Iran foreign minister Araghchi in Tehran to consult on Lebanese affairs and the UN’s role in consolidating the ceasefire and ending the regional war. Arnault reviewed Lebanon’s situation and called for implementation of the US‑Iran ceasefire memorandum and enhanced regional cooperation to secure lasting peace, including in Lebanon. Araghchi strongly condemned what he called illegal US attacks on Iran, breaches of arrangements in the Strait of Hormuz, and Israel’s ongoing military actions in Lebanon, saying the US is responsible for escalation risk and urging the UN to adopt a clear, firm stance. He reiterated Iran’s full support for the Lebanese people, Lebanon’s territorial integrity and sovereignty, and said Iran will continue efforts to end Israeli aggression and occupation of Lebanese territory."
+    },
+    {
+      "id": "4982993",
+      "time": "2026-07-12 23:34:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國駐黎巴嫩事務特使與伊朗外交部長會晤。"
+    },
+    {
+      "id": "mkt:019f56f7-08b2-7aab-8d45-da465d0d1cb8",
+      "time": "2026-07-12 23:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian foreign minister said he discussed with Saudi Arabia's foreign minister the implementation of agreements reached during President Zelenskiy's spring visit to Saudi Arabia."
+    },
+    {
+      "id": "4982992",
+      "time": "2026-07-12 23:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使邁克·沃爾茨：伊朗仍然企圖利用全球經濟作為施壓手段，聯合國中已有143個國家認為伊朗的行為違反了國際法。"
+    },
+    {
+      "id": "4982991",
+      "time": "2026-07-12 23:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使邁克·沃爾茨：對伊朗方面聲稱德黑蘭在襲擊經由霍爾木茲海峽的船隻一事上“犯了錯誤”的說法表示質疑，無論是否捲入爭端，任何國家都不應“四處開火，攻擊鄰國、民用船隻和民用基礎設施，在國際水域佈設水雷，以一種不負責任的方式行事。"
+    },
     {
       "id": "4982990",
       "time": "2026-07-12 23:33:20",
@@ -151495,48 +151539,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：07月05日23時30分在四川德陽市綿竹市（北緯31.58度，東經104.00度）發生4.5級地震，震源深度18千米。"
-    },
-    {
-      "id": "mkt:019f32ee-87e7-7aab-8ca3-cb418169549d",
-      "time": "2026-07-05 23:38:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Mount Etna continues erupting; Catania airport flights disrupted】On the 5th local time, Mount Etna on Sicily continued erupting, sending volcanic ash that disrupted operations at Catania-Fontanarossa airport. The airport briefly suspended inbound flights and limited arrivals to five per hour; departures were routed and scheduled based on on-site conditions. Mount Etna, one of Europe’s most active volcanoes, is being monitored for changes in activity and ash dispersion; further operational adjustments will follow airspace safety assessments."
-    },
-    {
-      "id": "4971038",
-      "time": "2026-07-05 23:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利埃特納火山持續噴發 卡塔尼亞機場航班受影響】當地時間5日，位於義大利西西里島的埃特納火山持續噴發，伴隨噴出的火山灰飄散，卡塔尼亞機場部分航班執行受到影響。當天，卡塔尼亞機場一度暫停進港航班，機場管理方將進港航班限制為每小時5架次，離港航班則根據現場情況安排執行。埃特納火山是歐洲最活躍的火山之一。當地監測機構正持續關注火山活動變化及火山灰擴散情況。機場後續執行安排將根據火山活動和空域安全評估進行調整。"
-    },
-    {
-      "id": "mkt:019f32ee-572a-7aab-8ca3-c294966255fb",
-      "time": "2026-07-05 23:38:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU said he is concerned about an anti-Israel current within the US Democratic Party and will do whatever he can to counter it. He added that those who hate Israel will ultimately hate the United States."
-    },
-    {
-      "id": "4971037",
-      "time": "2026-07-05 23:37:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：民主黨內部存在一股反以色列勢力，這一點令我十分擔憂。對此我深感憂慮，只要有辦法修復雙方關係，我顯然會付諸行動。那些仇視以色列的人，到頭來也會仇視美國。"
-    },
-    {
-      "id": "4971036",
-      "time": "2026-07-05 23:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴再次任命侯賽因·穆赫辛尼·埃傑伊為司法機構主席。"
     }
   ]
 }
