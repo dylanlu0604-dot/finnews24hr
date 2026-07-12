@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-13 02:15:18",
+  "updated": "2026-07-13 02:19:03",
   "count": 16625,
   "items": [
+    {
+      "id": "mkt:019f578a-fd86-7aab-8d46-97ff29f10c60",
+      "time": "2026-07-13 02:15:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Analyst: Trump has 'nothing to sell' U.S. voters on Iran war】With the November U.S. midterms approaching, time is running out for President Trump, an analyst said. The U.S. is engaged in a costly, unpopular war with Iran, former Austrian defense attaché Wolfgang Pustai said. He said talks Trump hoped to launch under a memorandum of understanding have failed; Iran has resumed nuclear‑related work and continued attacks on ships in the Strait of Hormuz, leaving Trump with nothing to present to U.S. voters. Pustai added that if Trump makes concessions now the political fallout could worsen for him and cost Republicans in the midterms."
+    },
     {
       "id": "4983045",
       "time": "2026-07-13 02:11:33",
@@ -151509,14 +151520,6 @@
         "國際"
       ],
       "text": "【印度孟買一建築物倒塌 致至少6人死亡】總檯記者獲悉，當地時間5日，印度孟買一建築物倒塌，已造成至少6人死亡。（央視新聞）"
-    },
-    {
-      "id": "4971085",
-      "time": "2026-07-06 02:16:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局：水上飛機硬著陸時機翼支柱斷裂。"
     }
   ]
 }

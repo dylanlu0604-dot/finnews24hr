@@ -1,7 +1,18 @@
 {
   "date": "2026-07-13",
-  "count": 60,
+  "count": 61,
   "items": [
+    {
+      "id": "mkt:019f578a-fd86-7aab-8d46-97ff29f10c60",
+      "time": "2026-07-13 02:15:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Analyst: Trump has 'nothing to sell' U.S. voters on Iran war】With the November U.S. midterms approaching, time is running out for President Trump, an analyst said. The U.S. is engaged in a costly, unpopular war with Iran, former Austrian defense attaché Wolfgang Pustai said. He said talks Trump hoped to launch under a memorandum of understanding have failed; Iran has resumed nuclear‑related work and continued attacks on ships in the Strait of Hormuz, leaving Trump with nothing to present to U.S. voters. Pustai added that if Trump makes concessions now the political fallout could worsen for him and cost Republicans in the midterms."
+    },
     {
       "id": "4983045",
       "time": "2026-07-13 02:11:33",
