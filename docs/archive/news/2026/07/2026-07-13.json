@@ -1,7 +1,54 @@
 {
   "date": "2026-07-13",
-  "count": 172,
+  "count": 176,
   "items": [
+    {
+      "id": "mkt:019f587d-b76b-7aab-8d47-a6569e477ee2",
+      "time": "2026-07-13 06:41:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,080/oz, down nearly 1% on the day."
+    },
+    {
+      "id": "4983125",
+      "time": "2026-07-13 06:40:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4080美元/盎司，日內跌0.97%。"
+    },
+    {
+      "id": "te:economy:566144",
+      "time": "2026-07-13 06:39:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Composite PMI Rises to 6-Month High — The BusinessNZ Performance of Composite Index increased to 53.6 in June 2026 from an upwardly revised 49.9 in the previous month. It was the first expansion in the private sector since January and the most since December 2025, as the services sector returned to expansion, while manufacturing grew at its fastest pace since July 2021."
+    },
+    {
+      "id": "mkt:019f587a-a43a-7aab-8d47-9d57d9c05e6b",
+      "time": "2026-07-13 06:37:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "New Zealand June Services Performance Index 50.6, prior 47.5."
+    },
     {
       "id": "mkt:019f587a-842b-7aab-8d47-95618380debb",
       "time": "2026-07-13 06:37:31",
