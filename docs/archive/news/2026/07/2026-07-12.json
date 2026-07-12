@@ -1,7 +1,35 @@
 {
   "date": "2026-07-12",
-  "count": 787,
+  "count": 790,
   "items": [
+    {
+      "id": "mkt:019f5653-8812-7aab-8d45-0e1ccc20205e",
+      "time": "2026-07-12 20:35:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【US official denies major damage at US base in Jordan after Iranian strike】On July 12 local time a US official denied Iranian claims that US facilities at a Jordanian base were hit, saying there were no US casualties, the vast majority of missiles and drones fired by Iran were intercepted or shot down, and there are no reports of significant damage to US facilities. Earlier, Iran’s Islamic Revolutionary Guard Corps said its strike on the Prince Hassan Airbase in Jordan destroyed the base’s command-and-control center and an MQ-9 drone hangar."
+    },
+    {
+      "id": "4982907",
+      "time": "2026-07-12 20:35:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員否認約旦境內美軍基地遭嚴重破壞】央視記者獲悉，一名美國官員否認了伊朗方面關於約旦境內美軍基地設施遭受損毀的說法。這名美國官員表示，美軍沒有人員傷亡，伊朗發射的絕大多數導彈和無人機均被攔截或擊落，目前也沒有關於美軍設施遭受重大損毀的報告。稍早前，伊朗伊斯蘭革命衛隊曾表示，其針對美軍位於約旦的哈桑王子空軍基地的襲擊已摧毀該基地的指揮控制中心和MQ-9無人機機庫。（央視新聞）"
+    },
+    {
+      "id": "4982906",
+      "time": "2026-07-12 20:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯維裡堅科證實，她將辭去烏克蘭總理一職。"
+    },
     {
       "id": "4982904",
       "time": "2026-07-12 20:29:38",
