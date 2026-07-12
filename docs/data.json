@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-12 18:34:01",
-  "count": 16587,
+  "updated": "2026-07-12 18:38:03",
+  "count": 16586,
   "items": [
+    {
+      "id": "mkt:019f55e7-6095-7aab-8d44-9ca6bc06eff5",
+      "time": "2026-07-12 18:37:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's government said Iran's drone and missile attack flagrantly violated Jordanian sovereignty, threatened its security, stability and territorial integrity, represented a dangerous escalation, and violated international law and the UN Charter."
+    },
+    {
+      "id": "mkt:019f55e5-fc6a-7aab-8d44-9115c8179e1a",
+      "time": "2026-07-12 18:36:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Bahrain military says Iran continues 'systemic aggression'】Al Jazeera reported Bahrain's military said Iran has launched missile and drone attacks targeting civilians and that Bahrain's air defences intercepted the strikes. The military said its forces are at highest readiness and described Iran's actions as \"systemic aggression\" that violate international humanitarian law. US forces carried out overnight strikes on multiple Iranian cities earlier. Kuwait, Bahrain, Jordan, Qatar and Oman said Iran's Islamic Revolutionary Guard Corps attacked their territory."
+    },
+    {
+      "id": "4982867",
+      "time": "2026-07-12 18:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：在嫌疑人因涉嫌謀殺被捕後，無跡象表明前保守黨議員安·威德科姆之死有政治動機。"
+    },
+    {
+      "id": "4982866",
+      "time": "2026-07-12 18:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一名伊朗海軍軍官在美軍襲擊中身亡】據伊朗媒體12日報道，一名伊朗海軍軍官在當天上午的美軍襲擊中身亡。（新華社）"
+    },
     {
       "id": "mkt:019f55e1-051f-7aab-8d44-8b7ce8472317",
       "time": "2026-07-12 18:30:37",
@@ -151125,54 +151161,6 @@
         "其他"
       ],
       "text": "【一艘貨船在葉門附近海域遭襲】英國海上貿易行動辦公室5日釋出通報說，一艘貨船當天在葉門附近海域遭不明身份武裝人員襲擊。根據通報，這艘貨船在協調世界時5日7時19分（北京時間5日15時19分）發出遇險警報，事發地點位於葉門荷臺達西南約30海里處。近期，葉門附近海域海上安全形勢持續緊張，國際航運安全風險持續受到關注。（新華社）"
-    },
-    {
-      "id": "4970957",
-      "time": "2026-07-05 18:37:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：德國計劃將2027年淨新增借款規模提高至1180億歐元，較4月預期增加約7%。"
-    },
-    {
-      "id": "mkt:019f31da-9192-7aab-8ca2-7483988d073a",
-      "time": "2026-07-05 18:37:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany plans to raise 2027 net new borrowing to €118 billion, about 7% higher than the April projection."
-    },
-    {
-      "id": "4970956",
-      "time": "2026-07-05 18:37:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長:協議將使賓烏馬爾油田原油產量提升至每日15萬桶，伴生氣產量增至每日3億標準立方英尺。"
-    },
-    {
-      "id": "mkt:019f31d8-c397-7aab-8ca2-6d2b10670d9f",
-      "time": "2026-07-05 18:35:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraq's oil minister said a five-year deal with Halliburton will raise Bin Umar oilfield crude output to 150,000 barrels per day and associated gas to 300 million standard cubic feet per day."
-    },
-    {
-      "id": "4970955",
-      "time": "2026-07-05 18:34:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "伊拉克石油部長表示，與哈里伯頓公司達成的協議期限為五年。"
     }
   ]
 }
