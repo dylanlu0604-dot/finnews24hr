@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-12 23:06:05",
-  "count": 16641,
+  "updated": "2026-07-12 23:10:15",
+  "count": 16639,
   "items": [
+    {
+      "id": "4982976",
+      "time": "2026-07-12 23:07:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普接受採訪時表示：霍爾木茲海峽航道暢通。"
+    },
+    {
+      "id": "4982975",
+      "time": "2026-07-12 23:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問：敵人企圖在民眾與政府之間製造隔閡，團結一致是我們抵禦各類壓力的核心關鍵。"
+    },
+    {
+      "id": "4982974",
+      "time": "2026-07-12 23:06:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大外長：伊朗對穿越霍爾木茲海峽船隻的持續攻擊違反了國際法。"
+    },
     {
       "id": "4982973",
       "time": "2026-07-12 23:04:19",
@@ -151604,47 +151629,6 @@
         "Europe & UK"
       ],
       "text": "Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026."
-    },
-    {
-      "id": "mkt:019f32d3-be28-7aab-8ca3-6dc26051d573",
-      "time": "2026-07-05 23:09:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Approx M4.7 earthquake near Mianzhu, Sichuan】CENC automatic determination: at 23:03 today a magnitude-4.7 earthquake occurred near Mianzhu, Deyang, Sichuan (31.59°N, 104.00°E). Final parameters to be confirmed in the official rapid bulletin."
-    },
-    {
-      "id": "4971018",
-      "time": "2026-07-05 23:08:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我和特朗普交換看法時都直言不諱，他是什麼風格，我便是什麼風格。"
-    },
-    {
-      "id": "mkt:019f32d2-1a23-7aab-8ca3-645939003a11",
-      "time": "2026-07-05 23:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli cabinet unanimously votes to defy Supreme Court ruling】Prime Minister NETANYAHU’s cabinet voted unanimously to refuse recognition of any decisions by the Second Authority for Television and Radio, the regulator for commercial broadcasting, directly contravening a Supreme Court order that the authority continue operating despite falling below its statutory quorum after a wave of resignations. The court said the resignations may have been orchestrated by the communications minister’s office. This is the first time the Israeli government has formally announced it will not comply with a Supreme Court ruling."
-    },
-    {
-      "id": "4971017",
-      "time": "2026-07-05 23:06:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月05日23時03分在四川德陽市綿竹市附近（北緯31.59度，東經104.00度）發生4.7級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4971016",
-      "time": "2026-07-05 23:06:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：只要我還是總理，伊朗就不會擁有核武器，無論是否達成協議。"
     }
   ]
 }
