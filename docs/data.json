@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 17:36:50",
-  "count": 16581,
+  "updated": "2026-07-12 17:40:52",
+  "count": 16578,
   "items": [
+    {
+      "id": "4982843",
+      "time": "2026-07-12 17:38:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京解除全市防汛應急響應】據北京市防汛辦釋出的提示，7月12日14時，解除大興、通州、順義、平谷等4區防汛一級應急響應。全市解除防汛應急響應。12日8時30分，已解除房山、密雲、懷柔、門頭溝、豐臺等5區防汛一級應急響應，東城、西城、朝陽、海淀、石景山、昌平、延慶等7區防汛二級應急響應。同日，北京解除積水內澇風險黃色預警。（新華社）"
+    },
     {
       "id": "4982842",
       "time": "2026-07-12 17:35:31",
@@ -151086,42 +151094,6 @@
         "公司"
       ],
       "text": "市場訊息：Ari Real Estate 同意從 Norstar 手中收購 G City Ltd. 26% 的股份，交易金額約為 6.61 億謝克爾。"
-    },
-    {
-      "id": "4970938",
-      "time": "2026-07-05 17:37:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍隊：我們繼續清除受以色列侵略影響地區的未爆彈藥，呼籲在遭受以色列襲擊的地區採取最大程度的預防措施。"
-    },
-    {
-      "id": "mkt:019f31a4-4b7b-7aab-8ca2-2681ed976392",
-      "time": "2026-07-05 17:37:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Lebanese army says it is continuing to clear unexploded ordnance in areas affected by Israeli aggression and urges maximum precautions in areas struck by Israel."
-    },
-    {
-      "id": "4970937",
-      "time": "2026-07-05 17:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗政府發言人：我們正在依法推進就前最高領袖遇刺案提起申訴的相關程式，目前已從證據收集階段開始。"
-    },
-    {
-      "id": "mkt:019f31a3-e95d-7aab-8ca2-1946e3929e77",
-      "time": "2026-07-05 17:37:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian government spokesman said authorities are proceeding with legal steps to lodge a complaint over the assassination of the former supreme leader and have entered the evidence‑collection phase."
     }
   ]
 }
