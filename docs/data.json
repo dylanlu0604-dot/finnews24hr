@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-13 00:25:05",
-  "count": 16630,
+  "updated": "2026-07-13 00:30:52",
+  "count": 16632,
   "items": [
+    {
+      "id": "mkt:019f5729-f9ef-7aab-8d46-342f48b6f2fe",
+      "time": "2026-07-13 00:29:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli artillery conducts further shelling in southern Lebanon】Lebanon’s National News Agency reported two Israeli shells struck Kfar Taabunit in Nabatieh district, saying the fire originated from Israeli army positions in the occupied border area. It added Israeli artillery also shelled Zawtar Sharqiya near Mayfadun."
+    },
+    {
+      "id": "4983010",
+      "time": "2026-07-13 00:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一小時前美軍在霍爾木茲周邊實施多輪打擊】美軍約一小時前對多處導彈與防空設施發動數次打擊。美軍同時在霍爾木茲海峽周邊多處地點打擊了伊朗革命衛隊小型船隻。"
+    },
+    {
+      "id": "mkt:019f5726-2395-7aab-8d46-2b12b748ede2",
+      "time": "2026-07-13 00:25:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【U.S.-Iran standoff over Strait of Hormuz nearing dangerous tipping point】Military and diplomatic analyst Alexandru Hudistianu said the U.S.-Iran contest over the Strait of Hormuz is not new but carries a serious escalation risk. He argued February U.S.-Israeli strikes on Iran gave Tehran favorable conditions to try to assert control of the Strait as a coercive tool, with Tehran claiming near-absolute authority over the waterway. The U.S. Navy has been escorting multiple vessels via the southern Oman route and has launched broad strikes on Iranian coastal areas in response to attacks on commercial ships. Hudistianu warned the current pattern is unlikely to hold and estimated the two-to-three months since a de facto ceasefire in April may be one of the highest-risk periods, saying continued hardline brinkmanship could tip the confrontation into a more active conflict phase."
+    },
     {
       "id": "mkt:019f5723-b1ea-7aab-8d46-2291a859fca4",
       "time": "2026-07-13 00:23:04",
@@ -151541,14 +151573,6 @@
         "國際"
       ],
       "text": "黎巴嫩官方部門：自3月以來，以色列對黎巴嫩發動的襲擊已造成4304人遇難。"
-    },
-    {
-      "id": "4971052",
-      "time": "2026-07-06 00:25:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易捷航空同意卡斯爾萊克52億英鎊收購要約】易捷航空已原則上接受卡斯爾萊克的第五輪現金收購要約，收購價每股6.9英鎊。此前易捷航空已四次拒絕對方收購提議，本次新報價估值52億英鎊（摺合69億美元），高於此前每股6.5英鎊的出價。過去一個月雙方就收購事宜分歧不斷。這家低成本航司曾指責前幾輪收購提議“投機性極強”，稱卡斯爾萊克想低價收購公司；而這家投資機構則表示，易捷航空董事會不願開展實質性談判，因此直接向全體股東丟擲收購方案。"
     }
   ]
 }
