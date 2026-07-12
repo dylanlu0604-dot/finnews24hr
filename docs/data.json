@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-12 23:10:15",
-  "count": 16639,
+  "updated": "2026-07-12 23:14:23",
+  "count": 16638,
   "items": [
+    {
+      "id": "4982980",
+      "time": "2026-07-12 23:13:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：科威特港口發生爆炸。"
+    },
+    {
+      "id": "4982979",
+      "time": "2026-07-12 23:13:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛巴威總統埃默森·姆南加古瓦表示，透過憲法修正案將其任期再延長兩年是集體作出的決定。"
+    },
+    {
+      "id": "4982978",
+      "time": "2026-07-12 23:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地醫護人員稱，以色列在加沙的襲擊造成六人死亡，其中包括一名女童。"
+    },
+    {
+      "id": "4982977",
+      "time": "2026-07-12 23:10:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【暑運運力再升級！西寧至烏魯木齊每日加開直達動車組】2026年暑運大客流持續攀升，青海、新疆雙向旅遊流、探親務工客流疊加，為滿足廣大旅客跨西北長途出行需求，7月12日至7月18日，中國鐵路青藏集團有限公司每日增開西寧往返烏魯木齊直達動車組，加密青疆直達運力，縮短兩地時空距離，暢通絲路黃金旅遊通道。（央視新聞）"
+    },
     {
       "id": "4982976",
       "time": "2026-07-12 23:07:39",
@@ -151586,49 +151619,6 @@
         "MKT News"
       ],
       "text": "【Magnitude-4.5 quake hits Mianzhu, Sichuan; depth 20 km】CENC said a magnitude-4.5 earthquake struck Mianzhu, Deyang, Sichuan at 23:03 Beijing time (31.58N, 103.98E); hypocenter depth 20 km."
-    },
-    {
-      "id": "4971021",
-      "time": "2026-07-05 23:13:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列內塔尼亞胡談及與特朗普的關係：我不認為我們之間有裂痕。與其他盟友不同，我們與美國肩並肩作戰，在99%的情況下，我和特朗普看法一致。"
-    },
-    {
-      "id": "4971020",
-      "time": "2026-07-05 23:12:45",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中國地震臺網正式測定：07月05日23時03分在四川德陽市綿竹市（北緯31.58度，東經103.98度）發生4.5級地震，震源深度20千米。"
-    },
-    {
-      "id": "mkt:019f32d5-d1d5-7aab-8ca3-7e1e97139987",
-      "time": "2026-07-05 23:11:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu, on his relationship with President Trump: I do not believe there is a rift between us. Unlike other allies, we stand with the US 99% of the time, and the president and I are aligned."
-    },
-    {
-      "id": "4971019",
-      "time": "2026-07-05 23:11:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川德陽地震多地網友收到預警】7月5日23點左右，四川多地網友收到地震預警資訊，成都、樂山、瀘州、自貢等多地網友表示震感強烈。（四川觀察）"
-    },
-    {
-      "id": "mkt:019f32d4-c638-7aab-8ca3-768091443ced",
-      "time": "2026-07-05 23:10:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026."
     }
   ]
 }
