@@ -1,7 +1,52 @@
 {
   "date": "2026-07-12",
-  "count": 858,
+  "count": 863,
   "items": [
+    {
+      "id": "4982961",
+      "time": "2026-07-12 22:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國國會議員安迪·伯納姆考慮舉行規模更大的秋季預算案。"
+    },
+    {
+      "id": "mkt:019f56c2-0c22-7aab-8d45-a161b54511e8",
+      "time": "2026-07-12 22:36:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says attack on Zaporizhzhia nuclear plant satellite city kills 4, injures 4】Rosatom CEO Likhachov said on the 12th that Energodar, the satellite city serving the Zaporizhzhia nuclear plant, was struck by Ukrainian forces, causing 4 deaths and 4 injuries. Separately, Russian-appointed Energodar mayor Pukhov said a drone struck a bus stop that morning, killing 1 and wounding 4. Russian sources say attacks since April 27 have killed 11 and injured dozens. Ukraine has not responded."
+    },
+    {
+      "id": "4982960",
+      "time": "2026-07-12 22:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱扎波羅熱核電站衛星城遭襲 造成4死4傷】俄羅斯國家原子能公司執行長利哈喬夫12日表示，扎波羅熱核電站衛星城市埃涅爾戈達爾市遭烏軍襲擊，共有4人死亡、4人受傷。另據俄方任命的埃涅爾戈達爾市市長普霍夫通報，當天清晨，烏軍無人機襲擊了市內一座公交站，造成1人死亡、4人受傷。俄羅斯方面訊息稱，自4月27日以來，烏軍襲擊已造成該市11人死亡、數十人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f56c1-73e9-7aab-8d45-9f180835a69e",
+      "time": "2026-07-12 22:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry urged all parties to exercise restraint, take measures to de-escalate and honour commitments under the memorandum of understanding."
+    },
+    {
+      "id": "mkt:019f56c1-5ab3-7aab-8d45-9288c88b9bff",
+      "time": "2026-07-12 22:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry reiterated support for the sovereignty and territorial integrity of all brother countries in the region."
+    },
     {
       "id": "mkt:019f56c0-6bf5-7aab-8d45-8afe3351698b",
       "time": "2026-07-12 22:34:38",

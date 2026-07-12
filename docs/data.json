@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-12 22:35:56",
-  "count": 16633,
+  "updated": "2026-07-12 22:39:57",
+  "count": 16635,
   "items": [
+    {
+      "id": "4982961",
+      "time": "2026-07-12 22:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國國會議員安迪·伯納姆考慮舉行規模更大的秋季預算案。"
+    },
+    {
+      "id": "mkt:019f56c2-0c22-7aab-8d45-a161b54511e8",
+      "time": "2026-07-12 22:36:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says attack on Zaporizhzhia nuclear plant satellite city kills 4, injures 4】Rosatom CEO Likhachov said on the 12th that Energodar, the satellite city serving the Zaporizhzhia nuclear plant, was struck by Ukrainian forces, causing 4 deaths and 4 injuries. Separately, Russian-appointed Energodar mayor Pukhov said a drone struck a bus stop that morning, killing 1 and wounding 4. Russian sources say attacks since April 27 have killed 11 and injured dozens. Ukraine has not responded."
+    },
+    {
+      "id": "4982960",
+      "time": "2026-07-12 22:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱扎波羅熱核電站衛星城遭襲 造成4死4傷】俄羅斯國家原子能公司執行長利哈喬夫12日表示，扎波羅熱核電站衛星城市埃涅爾戈達爾市遭烏軍襲擊，共有4人死亡、4人受傷。另據俄方任命的埃涅爾戈達爾市市長普霍夫通報，當天清晨，烏軍無人機襲擊了市內一座公交站，造成1人死亡、4人受傷。俄羅斯方面訊息稱，自4月27日以來，烏軍襲擊已造成該市11人死亡、數十人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f56c1-73e9-7aab-8d45-9f180835a69e",
+      "time": "2026-07-12 22:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry urged all parties to exercise restraint, take measures to de-escalate and honour commitments under the memorandum of understanding."
+    },
+    {
+      "id": "mkt:019f56c1-5ab3-7aab-8d45-9288c88b9bff",
+      "time": "2026-07-12 22:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry reiterated support for the sovereignty and territorial integrity of all brother countries in the region."
+    },
     {
       "id": "mkt:019f56c0-6bf5-7aab-8d45-8afe3351698b",
       "time": "2026-07-12 22:34:38",
@@ -151555,30 +151600,6 @@
         "Brent"
       ],
       "text": "【Guotai Haitong: Oil price drop, summer travel starts; family travel demand remains inelastic】Guotai Haitong said international oil prices have fallen and domestic fuel prices are set to be reduced month-by-month. The broker notes school summer breaks are slightly later in 2026, presales have accelerated since late June, hotel and rail bookings are up YoY while air ticket presales lag 2025 amid higher fares, and parent-child travel has remained strong over the past three years and is viewed as inelastic. It expects student-driven passenger traffic to rise from early July, pushing air fares back into positive territory; higher flight completion rates versus Q2, together with peak-season supply-demand support and reduced destructive price competition, should materially improve airline operating performance."
-    },
-    {
-      "id": "4971010",
-      "time": "2026-07-05 22:37:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭可儀器曹佶：MLCC等國產元器件向高可靠性場景放量 驅動裝置需求快速增長】杭可儀器總經理曹佶近期在接受財聯社、《科創板日報》記者專訪時表示，公司自1984年起專注於電子元器件可靠性測試，目前業務主要聚焦三條產品線：一是功率半導體，覆蓋矽基、碳化矽、氮化鎵等；二是MLCC（多層片式陶瓷電容器），可廣泛應用於車載、資料中心、變壓器等領域；三是SoC的可靠性測試。“隨著MLCC等國產元器件向車規級、伺服器等高可靠性場景放量，驅動裝置需求快速增長。”"
-    },
-    {
-      "id": "mkt:019f32b6-854e-7aab-8ca3-3e0558062065",
-      "time": "2026-07-05 22:37:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu says Gaza reconstruction barred until Hamas fully disarmed and Gaza demilitarized】On the 5th local time, Israeli Prime Minister Benjamin Netanyahu said at a weekly cabinet meeting he will not permit Gaza reconstruction to begin unless the Palestinian Islamic Resistance Movement (Hamas) is fully disarmed and the Gaza Strip is demilitarized."
-    },
-    {
-      "id": "4971009",
-      "time": "2026-07-05 22:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱解除哈馬斯武裝前絕不允許重建加沙】當地時間5日，以色列總理內塔尼亞胡在每週內閣會議上表示，除非徹底解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武裝並實現加沙地帶的去軍事化，否則絕不會允許啟動加沙重建工作。此前有訊息稱，美國政府已決定不再將“哈馬斯解除武裝”作為加沙重建的前提條件，內塔尼亞胡當天對此未予以直接否認，但明確強調在加沙沒有實現非軍事化的情況下，以方絕不接受重建加沙。他表示，以色列正在加沙內部打造一個新的所謂“環加沙地帶”，以方傾向於將這些由其控制的加沙內部區域作為“緩衝區”。（央視新聞）"
     }
   ]
 }
