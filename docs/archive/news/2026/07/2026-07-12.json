@@ -1,7 +1,21 @@
 {
   "date": "2026-07-12",
-  "count": 702,
+  "count": 703,
   "items": [
+    {
+      "id": "mkt:019f55bb-f8b8-7aab-8d44-2bdac627e4e7",
+      "time": "2026-07-12 17:50:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【BOC Securities: Short-term equilibrium does not alter growth-led trend】BOC Securities says debate over a \"growth-to-value rotation\" has intensified but concludes K-shaped fundamental divergence has not reversed and conditions for a style switch are insufficient. Cloud providers' capex remains on an upward path and global semiconductor sales continue to expand, indicating the AI cycle is still trending higher. Recovery in traditional cyclical sectors is heavily policy-dependent; current macro policy is focused on \"consolidating fundamentals\" with limited urgency or room for broad aggregate stimulus, leaving traditional sectors without systemic earnings elasticity. Growth therefore retains a relative earnings advantage, and the market is in a consolidation phase rather than at a bull–bear regime turning point."
+    },
     {
       "id": "4982846",
       "time": "2026-07-12 17:47:10",

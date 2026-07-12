@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-12 17:48:54",
+  "updated": "2026-07-12 17:52:54",
   "count": 16577,
   "items": [
+    {
+      "id": "mkt:019f55bb-f8b8-7aab-8d44-2bdac627e4e7",
+      "time": "2026-07-12 17:50:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【BOC Securities: Short-term equilibrium does not alter growth-led trend】BOC Securities says debate over a \"growth-to-value rotation\" has intensified but concludes K-shaped fundamental divergence has not reversed and conditions for a style switch are insufficient. Cloud providers' capex remains on an upward path and global semiconductor sales continue to expand, indicating the AI cycle is still trending higher. Recovery in traditional cyclical sectors is heavily policy-dependent; current macro policy is focused on \"consolidating fundamentals\" with limited urgency or room for broad aggregate stimulus, leaving traditional sectors without systemic earnings elasticity. Growth therefore retains a relative earnings advantage, and the market is in a consolidation phase rather than at a bull–bear regime turning point."
+    },
     {
       "id": "4982846",
       "time": "2026-07-12 17:47:10",
@@ -151075,14 +151089,6 @@
         "MKT News"
       ],
       "text": "【Shooting at US Independence Day event in Brooklyn injures 8】A shooting during July 4 Independence Day celebrations at Coney Island in Brooklyn injured eight people, the New York Police Department said. The incident occurred at about 10:35 p.m. local time as crowds watched fireworks. Four of the wounded are minors; a 21-year-old woman is in critical condition with a chest gunshot wound. All victims were taken to local hospitals. Police recovered a firearm at the scene; no suspect has been arrested."
-    },
-    {
-      "id": "4970941",
-      "time": "2026-07-05 17:52:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【盒馬門店被曝員工穿皮鞋踩烤架 客服回應：已對違規人員嚴肅處理，檔口停業整頓全面消殺】7月5日下午訊息，有消費者在社交媒體發文稱，在一家盒馬門店內，看到有工作人員穿著皮鞋站在用於製作熟食的鐵板和鐵架上。消費者第一時間拿著照片聯絡店內工作人員，對方表示“生蠔有殼。”消費者還表示，事件發生後線上上聯絡了盒馬，其後收到門店回覆稱，已經重新培訓員工，並且會更換鐵板以及鐵架。“後續門店聯絡我，說是已經開除涉事員工，店內在入職時就進行了培訓，是員工的個人行為。”“晚上9點，還有很多顧客在店內，就這麼明目張膽。在照片範圍之外，燒烤架旁邊的區域還有不少工作人員，每個人做著自己的手頭工作，對於此員工行為沒有一絲訝異，似乎司空見慣。”該消費者發文提到。對此，盒馬客服表示，針對網友反映的門店員工違規操作問題，我們第一時間定位涉事門店並核實情況。該行為嚴重違背盒馬食品安全底線，我們已對違規人員嚴肅處理。同時，涉事門店檔口停業整頓，全面消殺並對整套烤爐裝置進行更換，杜絕衛生隱患。我們已啟動全部門店自查並加強巡檢和員工培訓，堅決杜絕此類問題再發生。（新浪科技）"
     }
   ]
 }
