@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 05:00:19_
-_本檔包含 3204 則快訊，約 627319 字_
+_更新時間：2026-07-13 06:03:35_
+_本檔包含 3199 則快訊，約 627135 字_
+
+---
+
+### 2026-07-07 13:26:28  #宏觀
+
+【習近平對防汛救災工作作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平對防汛救災工作作出重要指示。習近平指出，近日，廣西、湖北、甘肅等地因降雨大風天氣，接連發生水庫潰壩、山體滑坡等災情，造成重大人員傷亡和經濟損失。要全力組織搶險救援、傷員救治、群眾安置等工作，最大限度減少人員傷亡，防範次生災害。習近平強調，當前防汛形勢嚴峻複雜，各地各有關部門要抓好既定部署措施落實，堅決克服麻痺思想和僥倖心理，盯緊壓實防災救災責任，深入開展江河湖泊、病險水庫、地質災害易發區等風險隱患排查整治，強化監測預警和應急救援準備，紮實做好防災救災各項工作，確保人民群眾生命財產安全。中共中央政治局常委、國務院總理李強作出批示指出，近期極端天氣多發，國家防辦、國家防減救災辦要指導各地密切關注雨情汛情，加強險情監測預警，全力開展搶險救援，深入排查災害風險隱患，落實落細各項防汛救災措施，嚴防發生重大次生災害。（央視新聞）
+
+---
+
+### 2026-07-07 13:24:23  #MKT News #Commodities #Industrial Metals #300750.SZ #Impact bullish
+
+【CATL's Jianxiawo lithium mine granted safety production permit】CATL's Jianxiawo lithium mine has been granted a safety production permit issued to Yichun Times New Energy Mining Co. by the Yichun Emergency Management Bureau. The administrative decision was dated 29 June 2026; the permit is effective from 28 February 2025 to 27 February 2028 and authorizes a change to the non-coal mine safety production permit for the Jianxiawo lithium mine covering Zhenkouli (Yifeng County) and Fengxin County in Jiangxi province.
+
+---
+
+### 2026-07-07 13:24:19  #公司
+
+【信用中國官網顯示，寧德時代梘下窩鋰礦已獲安全生產許可證】從信用中國官網查詢到，宜春時代新能源礦業有限公司已經獲得安全生產許可證。其中，許可單位為宜春市應急管理局，行政許可決定文書號為宜應急礦山許決字〔2026〕第009號，行政許可決定文書名稱為非煤礦礦山企業安全生產企業變更許可，許可編號為（贛）FM安許證字〔2025〕C054號。該許可決定日期為2026年6月29日，有效期自2025年2月28日至2028年2月27日。安全生產許可證許可內容為宜春時代新能源礦業有限公司江西省宜豐縣圳口裡-奉新縣梘下窩鋰礦變更。（每經）
+
+---
+
+### 2026-07-07 13:23:45  #公司 #市場
+
+【電梯板塊震盪走弱，快意電梯跌停】電梯板塊震盪走弱，快意電梯跌停，廣日股份、展鵬科技、世嘉科技、同力天啟、上海電氣等跟跌。
+
+---
+
+### 2026-07-07 13:22:32  #公司
+
+【哥倫比亞對原產於中國的成條訂書釘啟動反傾銷調查】據中國貿易救濟資訊網，6月22日，哥倫比亞貿工旅遊部在官方公報釋出2026年第305號公告稱，應哥倫比亞生產商申請，對原產於中國的成條訂書釘啟動反傾銷調查。本案傾銷調查期為2025年4月9日至2026年4月8日。涉案產品的哥倫比亞稅號為8305.20.00.00。公告自發布次日起生效。
+
+---
+
+### 2026-07-07 13:21:42  #MKT News #USDJPY #Impact bearish
+
+Japan's 2-year bond yield rose 1.0bp to 1.400%; the 5-year yield rose 3.5bp to 1.975%.
+
+---
+
+### 2026-07-07 13:21:35  #市場 #國際
+
+5年期日本國債收益率<JP5YTN=JBTC>上漲3.5個基點，至1.975%.
+
+---
+
+### 2026-07-07 13:21:29  #市場 #國際
+
+2年期日本國債收益率上漲1.0個基點，至1.400%。
+
+---
+
+### 2026-07-07 13:21:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran's foreign minister says final talks won't start if threats continue】On the 7th Iran's foreign minister Araghchi said on social media that under the terms of the Iran‑US memorandum of understanding, final agreement negotiations will not begin if threats persist.
+
+---
+
+### 2026-07-07 13:20:53  #國際
+
+伊朗外交部長阿拉格齊7日在社交媒體發文說，根據伊美簽署的諒解備忘錄條款，若威脅持續，最終協議談判將不會啟動。
+
+---
+
+### 2026-07-07 13:20:41  #公司
+
+【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，凡拓物理智慧科技（深圳）有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；衛星遙感應用系統整合；地理遙感資訊服務等。企查查股權穿透顯示，該公司由凡拓數創全資持股。
+
+---
+
+### 2026-07-07 13:20:09  #公司
+
+【農夫山泉開放橫州廠區安置受災群眾並捐贈1000萬元】7月6日，農夫山泉方面對介面新聞表示，公司全面放開南寧區域全部飲用水庫存，聯動內部員工與各地經銷商分批、持續運送天然飲用水直達救災一線。同時，公司已開放剛建成的橫州茉莉花生產廠區，作為臨時災民安置點，為受災群眾提供避風港。此外，農夫山泉將捐贈現金 1000 萬元，專項用於廣西災區災後家園重建、農業生產恢復工作。（介面新聞）
+
+---
+
+### 2026-07-07 13:19:40  #MKT News #DXY #Impact bearish
+
+【KRW 24‑hour trading launches orderly; turnover ~6% below 30‑day average】South Korea launched a 24‑hour FX trading mechanism for the won; first‑day trading was orderly. Broker data showed USD/KRW spot turnover around $15.1 bln, roughly 6% below the 30‑day daily average. Trading hours were extended from 17 to 24 hours to close the previous gap with New York; volume concentrated in Seoul’s regular session while London and New York remained thin. The won is still more than 2% stronger than its weakest level since 2009. The change represents an unprecedented loosening of won controls and signals a policy shift away from the post‑1997 framework as Seoul seeks to shed emerging‑market status and attract more global capital.
+
+---
+
+### 2026-07-07 13:19:39  #國際
+
+烏克蘭州長稱，無人機襲擊引發俄羅斯卡盧加州一處工業設施起火。
+
+---
+
+### 2026-07-07 13:19:27  #宏觀 #市場 #觀點 #國際
+
+【摩根大通：美國三年期國債拍賣的估值支撐減弱】摩根大通策略師在一份報告中表示，在美國財政部週二進行580億美元三年期國債拍賣之前，估值的支撐力度似乎有所減弱。鑑於估值支撐減弱以及更廣泛的宏觀環境，他們認為此次拍賣“可能需要做出更多讓步才能被順利消化“。策略師們表示，過去一個月，三年期國債收益率在一個相當偏窄的區間內交易，目前的交易水平僅比6月份拍賣時的水平低5個基點。不過他們表示，與其他期限相比，該期限國債的估值已變得更高，在對過去三到六個月的利率水平和收益率曲線形狀進行調整後，目前看來其估值大致合理至略微偏高。
+
+---
+
+### 2026-07-07 13:18:56  #其他
+
+比亞迪在過去兩年曾兩次與雷諾接洽，商討入股事宜，雷諾在兩次情況下均決定不予推進。（法國回聲報）
+
+---
+
+### 2026-07-07 13:18:46  #Trading Economics #Economy #Estonia #Inflation Rate #Importance 1
+
+Estonia June Inflation Lowest Since 2020 — The annual inflation rate in Estonia slowed to 2.3% in June 2026 from a four-month high of 3.7% in the previous month. This marked the softest rise since April 2020, driven largely by declines in prices for food and non-alcoholic beverages (-1.5% vs 0.9% in May), clothing and footwear (-6.2% vs -3.9%), and household goods (-0.5% vs 1.5%). Costs also decreased for recreation, sport and culture (-0.2% vs 4.2%), restaurants and accommodation services (-2% vs 3.2%), and insurance and financial services (-7.2% vs -11.1%). In contrast, inflation remained elevated for housing (7.6% vs 5.4%) and transport (7.5% vs 10.4%), driven by higher electricity, natural gas, gasoline, and diesel prices. Costs also rose for alcoholic beverages and tobacco (8.9% vs 8.1%), partly due to excise duty increases and higher tobacco taxes. On a monthly basis, consumer prices fell by 0.5% in June, marking the first decline in six months and reversing a 0.4% gain in the preceding period.
 
 ---
 
@@ -19213,137 +19315,5 @@ Australian gold producer Regis Resources reported FY2026 gold production of 379,
 ### 2026-07-06 06:05:14  #市場
 
 美股期貨亞市盤初走高，標普500指數期貨漲0.4%，納斯達克100指數期貨漲1.2%。
-
----
-
-### 2026-07-06 06:01:39  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold opened nearly $10 higher on Monday before retreating to $4,178.75/oz.
-
----
-
-### 2026-07-06 06:01:09  #市場 #焦點
-
-現貨黃金突破4180美元/盎司，日內漲0.11%。
-
----
-
-### 2026-07-06 06:00:54  #MKT News #Commodities #Energy #WTI
-
-WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl.
-
----
-
-### 2026-07-06 06:00:03  #市場
-
-紐約期銀日內漲3%，現報63.06美元/盎司。
-
----
-
-### 2026-07-06 05:57:18  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為77%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為77%，累計加息25個基點的機率為23%。 美聯儲到9月維持利率不變的機率為41.9%，累計加息25個基點的機率為47.6%，累計加息50個基點的機率為10.5%。
-
----
-
-### 2026-07-06 05:52:52  #國際
-
-日本防衛省將新設海外統籌局。
-
----
-
-### 2026-07-06 05:36:09  #宏觀 #國際
-
-【烏無人機持續打擊俄煉油設施，單月最高16次】自2026年初以來，烏克蘭已對俄羅斯煉油廠發動至少194次襲擊，襲擊數量較2025年同期翻了11倍。美國情報部門持續為烏方提供協助，包括繪製俄羅斯防空系統詳細分佈圖、規劃無人機飛行路線、開展戰損評估，以此幫助烏克蘭無人機規避防空攔截，並對修復完畢的煉油設施實施二次打擊。2026年5月，烏克蘭單月成功襲擊煉油廠次數創下紀錄，達16次。這一系列打擊行動一度造成俄羅斯20%至40%的煉油產能停運，引發國內燃油短缺、俄方出臺燃油出口禁令，同時迫使俄羅斯將大量防空兵力調離其他戰線。
-
----
-
-### 2026-07-06 05:35:02  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Kuo: Foldable iPhone assembly ~7–8 mln in H2 2026; Q3 ~0.5–1.0 mln; likely simultaneous launch but later sales; supply tightness into year‑end】TF International Securities analyst Ming‑Chi Kuo says his supply‑chain survey shows foldable iPhone assembly shipments of about 7–8 million in H2 2026, with Q3 shipments of 0.5–1.0 million (around 10% of H2). By contrast, iPhone 18 Pro/Pro Max are estimated at about 20–22 million in Q3 and are already stocked for a September retail launch. Kuo says, based on Q3 stocking, the foldable model is likely to mirror the 2017 iPhone X pattern — announced with other models but opening pre‑orders and official sales later — and expects supply tightness to persist through year‑end.
-
----
-
-### 2026-07-06 05:34:57  #其他
-
-【郭明錤稱蘋果摺疊手機或與其他機型同場釋出、較晚開賣，供應緊張延續至年底】天風國際證券分析師郭明錤發文，據其最新產業調查，摺疊 iPhone 在 2H26（2026 年下半年）的組裝出貨量約 700‒800 萬部，其中 3Q26（2026 年第三季度）出貨量為 50‒100 萬部（佔比約 10%）。相較之下，iPhone 18 Pro / Pro Max 在 3Q26 的預估總出貨量約 2000‒2200 萬部，顯著高於摺疊 iPhone 並已達 9 月正式發售的備貨要求。郭明錤表示，從 3Q26 備貨量的角度，摺疊 iPhone 很有可能會重演 2017 年 iPhone X 當時的狀況：與其他機種一起釋出，但開放預購與正式發售的時間均更晚。
-
----
-
-### 2026-07-06 05:32:57  #MKT News #Market Themes #AI Revolution
-
-【UK regulator says AI in finance is an "arms race", urges broader powers and LLM oversight】FCA executive director Sheldon Mills said regulators are in an "arms race" to keep pace with AI adoption in financial services and need broader powers, the FT reported. He urged UK regulators to assess whether large language models such as ChatGPT, Claude and Gemini should be brought within regulatory rules. Mills said regulators must themselves adopt AI to match the technology’s "speed, tempo and scale" and to "monitor, detect and respond to risks." A report by Mills warned that heavy personalization can improve product fit but may also produce algorithmic bias, opaque pricing and targeted manipulation. It recommends the FCA conduct a review within three to six months of risks from firms providing financial services outside the regulatory perimeter and potential consumer harm from rising use of AI in personal finance.
-
----
-
-### 2026-07-06 05:28:35  #其他
-
-肯亞航空：7月5日，從內羅畢飛往紐約的KQ 002D航班在飛經查德上空時發生飛行控制擾流板故障。
-
----
-
-### 2026-07-06 05:24:22  #其他
-
-英國金融行為監管局（FCA）稱，全球各國監管機構需協同合作，共同應對人工智慧帶來的各類風險。
-
----
-
-### 2026-07-06 05:20:46  #其他
-
-英國金融行為監管局（FCA）表示，自身需要更大監管許可權，才能有效管控人工智慧相關風險。
-
----
-
-### 2026-07-06 05:20:10  #行業
-
-【三季度公募基金調查顯示：科技成長仍是“心頭好” 極致分化後打法生變】今年上半年，A股走出了一波極致分化的行情，大量資金湧向科技賽道。如今，公募基金的偏好已有所變化。調查顯示，高景氣、科技成長賽道仍是三季度公募基金最為看好的方向，獲票數超過七成，遠超其他板塊。排名第二的為低估值藍籌、高股息類價值資產，關注度較上次調查顯著提升，佔比近三成。科技賽道內部的“打法”亟待變化。光大保德信基金有關人士對記者直言：從戰略上看，產業趨勢不結束、增量資金不逆轉、流動性條件不改變，就不能輕言主線結束；但從戰術上，短期快速累積的漲幅會帶來技術面調整，季度末也提供了配置再平衡的契機；與此同時，在趨勢不改的前提下，市場回撥或仍蘊含細分投資機會。（上證報）
-
----
-
-### 2026-07-06 05:19:01  #公司
-
-【上週逾百億資金迴流股票ETF 硬科技板塊熱度居高不下】在A股近期的震盪調整行情中，資金借道ETF逆勢佈局。上週股票型ETF獲得資金淨流入超過110億元。從資金流向看，資金大舉加倉以半導體為代表的硬科技板塊，同時部分資金減持了消費電子等賽道。在業內人士看來，近期科技板塊成交熱度持續攀升，交易擁擠度較高，資金正在從“泛科技”向“AI業績兌現”集中。（上證報）
-
----
-
-### 2026-07-06 05:18:33  #其他
-
-【上半年基金新開戶數超過180萬 為6年來同期新高】公募基金正在成為資金入市的重要渠道，越來越多的投資者選擇透過場內公募基金把握投資機會。上交所官網資料顯示，2026年6月全市場基金新開戶數為23.36萬戶，而2025年6月開戶數為20.04萬戶。2026年上半年基金新開戶數合計達183.15萬戶，為6年來新高，較2025年上半年的150.45萬戶，同比增長21.73%。（上證報）
-
----
-
-### 2026-07-06 05:15:57  #MKT News #Market Regions #Greater China
-
-【Finland's Stubb meets China's foreign minister Wang Yi in Turku】On July 5 local time in Turku, Finland's president Stubb met Politburo member and China's foreign minister Wang Yi.
-
----
-
-### 2026-07-06 05:15:53  #宏觀 #國際
-
-【芬蘭總統斯圖佈會見王毅】當地時間7月5日，芬蘭總統斯圖布在圖爾庫會見中共中央政治局委員、外交部長王毅。（新華社）
-
----
-
-### 2026-07-06 05:10:23  #國際
-
-【特朗普據悉計劃在土耳其會見澤連斯基後與普京通話】一名美國高階官員表示，美國總統特朗普計劃於7月8日在北約峰會期間與烏克蘭總統澤連斯基會晤，討論烏克蘭衝突的解決方案，並將在會後與俄羅斯總統普京通話。特朗普迫切希望推動這場衝突儘快結束。
-
----
-
-### 2026-07-06 05:08:45  #MKT News
-
-【Trump plans to meet Zelenskiy in Turkey, likely to call Putin afterward】Refinitiv, citing a US senior official, said President Trump plans to meet Ukrainian President Zelenskiy on July 8 at the NATO summit in Turkey to discuss ending the war and is likely to call Russian President Putin after the meeting; the official said Trump is eager to press for a quick resolution. Russian presidential aide Ushakov said earlier that Putin told Trump Russia is prepared to pursue a diplomatic settlement based on a Russian proposal, and that the two discussed the resolution process and Trump’s upcoming trip to the summit.
-
----
-
-### 2026-07-06 05:02:45  #市場 #焦點
-
-24小時交易時段開啟，韓元小幅上漲0.2%。
-
----
-
-### 2026-07-06 05:00:29  #其他
-
-【委內瑞拉地震3342人遇難16740人傷】當地時間7月5日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報稱，委內瑞拉地震遇難人數升至3342人，受傷16740人。
 
 ---

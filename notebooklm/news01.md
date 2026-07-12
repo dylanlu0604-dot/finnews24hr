@@ -1,7 +1,319 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-13 05:00:19_
-_本檔包含 3165 則快訊，約 627632 字_
+_更新時間：2026-07-13 06:03:35_
+_本檔包含 3198 則快訊，約 627598 字_
+
+---
+
+### 2026-07-13 06:02:43  #MKT News
+
+WTI crude up 3.00% intraday at $73.57/bbl.
+
+---
+
+### 2026-07-13 06:02:23  #市場 #國際
+
+美國10年期國債期貨下跌5個跳動點，聯邦基金期貨走低。
+
+---
+
+### 2026-07-13 06:02:02  #市場
+
+布倫特原油日內漲3%，現報78.38美元/桶。
+
+---
+
+### 2026-07-13 06:01:56  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+At Monday open, spot gold opened about $20 lower, slipping below $4,100/oz. Spot silver opened down 0.8%.
+
+---
+
+### 2026-07-13 06:01:51  #市場
+
+布倫特原油期貨亞洲開盤上漲3%，美伊衝突升級。
+
+---
+
+### 2026-07-13 06:01:17  #市場 #焦點
+
+現貨黃金突破4100美元/盎司，日內跌0.43%。
+
+---
+
+### 2026-07-13 06:01:15  #市場
+
+納斯達克期貨下跌0.2%，標普500期貨下跌0.1%。
+
+---
+
+### 2026-07-13 06:01:09  #市場 #焦點
+
+紐約期金突破4110美元/盎司，日內跌0.05%。
+
+---
+
+### 2026-07-13 06:00:38  #國際
+
+韓國海軍一名失蹤海員已被證實死亡。
+
+---
+
+### 2026-07-13 06:00:36  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude hit $73/bbl in early Monday trade, up 2.49% intraday.
+
+---
+
+### 2026-07-13 06:00:25  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+Futures for the three major US stock indices opened lower on Monday; Nasdaq futures fell 0.3%.
+
+---
+
+### 2026-07-13 06:00:05  #市場 #焦點
+
+WTI原油日內漲3%，現報73.67美元/桶。
+
+---
+
+### 2026-07-13 06:00:03  #市場
+
+紐約期銀日內跌1%，現報59.40美元/盎司。
+
+---
+
+### 2026-07-13 06:00:03  #市場 #焦點
+
+紐約期銀突破60美元/盎司，日內跌0.82%。
+
+---
+
+### 2026-07-13 06:00:02  #市場
+
+WTI原油日內漲2%，現報73.28美元/桶。
+
+---
+
+### 2026-07-13 06:00:00  #市場
+
+布倫特原油日內漲2%，現報78.00美元/桶。
+
+---
+
+### 2026-07-13 05:58:28  #其他
+
+曼谷市長：酒吧火災致63人受傷，其中22人傷勢危重。
+
+---
+
+### 2026-07-13 05:58:27  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM spokesman Capt. Hawkins said within the past hour Iran's Islamic Revolutionary Guard Corps fired on commercial vessels transiting the Strait of Hormuz. U.S. aircraft have so far shot down an Iranian cruise missile and a one-way attack drone.
+
+---
+
+### 2026-07-13 05:57:10  #國際
+
+【伊朗外交部譴責美軍襲擊 稱將堅定抵禦軍事侵略】伊朗外交部當地時間13日發表宣告，強烈譴責過去24小時內美國針對伊朗發動的襲擊。宣告稱，這些襲擊不僅嚴重違反《聯合國憲章》基本原則，尤其是第2條第4款規定，同時也對國際和平與安全構成嚴重威脅，並使近期為緩解緊張局勢、實現地區和平穩定所作出的全部努力作廢。宣告表示，距離美伊諒解備忘錄簽署僅過去25天，美國政府幾乎公然違反了該協議的全部內容。美國透過襲擊伊朗交通基礎設施、漁船和貨船、氣象設施及其他建築，犯下了最為嚴重的戰爭罪行。
+
+---
+
+### 2026-07-13 05:56:45  #國際
+
+過去一小時內，伊朗革命衛隊部隊對航行透過霍爾木茲海峽的商船開火。美國戰機擊落了一枚伊朗巡航導彈和一架自殺式攻擊無人機。
+
+---
+
+### 2026-07-13 05:51:35  #國際
+
+美國參議員米奇·麥康奈爾釋出照片，稱他還活著。
+
+---
+
+### 2026-07-13 05:49:02  #公司 #市場
+
+【千億龍頭 利好來了！週五直線漲停】7月12日晚，衛星製造龍頭公司中國衛星釋出業績預告稱，預計2026年上半年歸屬於母公司所有者的淨利潤為3050萬元—3650萬元，上年同期，公司淨利潤虧損3049.15萬元，同比扭虧為盈；預計實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為2670萬元—3200萬元。
+
+---
+
+### 2026-07-13 05:48:52  #國際
+
+美國媒體：過去一小時內，伊朗革命衛隊向民用航運船隻發動襲擊。
+
+---
+
+### 2026-07-13 05:46:49  #國際
+
+伊朗媒體稱，有初步報告顯示布什爾省部分地區聽到爆炸聲。
+
+---
+
+### 2026-07-13 05:46:01  #MKT News
+
+Iran's Mehr News Agency reports preliminary accounts of sounds of explosions in parts of Bushehr province.
+
+---
+
+### 2026-07-13 05:35:03  #國際
+
+市場資訊：美國國會議員預計本週公佈更新版加密貨幣市場結構法案。
+
+---
+
+### 2026-07-13 05:31:18  #國際
+
+【伊朗多地再次傳出爆炸聲】總檯記者當地時間13日獲悉，當天凌晨0時30分左右，伊朗南部阿巴斯港和錫裡克地區傳出超過10次爆炸聲。此外，伊朗南部賈斯克傳出5次爆炸聲，格什姆島也響起多聲爆炸聲。（央視新聞）
+
+---
+
+### 2026-07-13 05:29:14  #焦點 #國際
+
+【美中央司令部：已對伊朗發動新一輪打擊】當地時間7月12日，美軍中央司令部稱，美國東部時間當日17時，美軍開始對伊朗發動新一輪打擊，“旨在繼續削弱其攻擊在霍爾木茲海峽自由通行船隻的能力”。
+
+---
+
+### 2026-07-13 05:27:27  #MKT News #WTI #Impact bullish #Brent
+
+Iran's foreign ministry said Saturday's talks in Muscat focused on managing the Strait of Hormuz, but the U.S. pressured Oman to block any outcome.
+
+---
+
+### 2026-07-13 05:27:07  #國際
+
+伊朗外交部譴責美軍打擊行動屬於戰爭罪行，並警告此舉會破壞地區和平程序。 伊方誓言將打擊所有用於襲擊伊朗的發射陣地，同時敦促聯合國對美方採取相關措施。
+
+---
+
+### 2026-07-13 05:25:09  #焦點 #國際
+
+伊朗外交部表示，週六在馬斯喀特舉行的會談核心議題是霍爾木茲海峽管控，但美國向阿曼施壓，導致該議題未能達成成果。
+
+---
+
+### 2026-07-13 05:24:09  #國際
+
+伊朗國家電視臺：伊朗格什姆島與賈斯克地區發生爆炸。
+
+---
+
+### 2026-07-13 05:22:06  #MKT News
+
+McConnell said he is still unable to return to the Senate chamber to vote and will return to the Senate as soon as possible.
+
+---
+
+### 2026-07-13 05:21:38  #公司
+
+康士伯海事將透過收購博格推進器公司強化船舶推進系統業務。
+
+---
+
+### 2026-07-13 05:21:13  #國際
+
+美國參議院議員麥康奈爾：我目前尚無法返回參議院參議院會議廳參與投票。
+
+---
+
+### 2026-07-13 05:21:04  #國際
+
+美國參議員麥康奈爾：我將繼續努力，爭取儘快重返參議院議事廳參與議事。
+
+---
+
+### 2026-07-13 05:20:53  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+【CENTCOM says US forces began new strikes on Iran】CENTCOM said US forces began additional strikes against Iran at 5:00 p.m. ET today (05:00 Beijing) to continue degrading Iran’s ability to attack civilian mariners and merchant vessels transiting the Strait of Hormuz.
+
+---
+
+### 2026-07-13 05:20:50  #焦點 #國際
+
+美方稱，已於美國東部時間下午5點（北京時間5:00）對伊朗發動新一輪打擊。
+
+---
+
+### 2026-07-13 05:19:50  #國際
+
+美方訊息：本次打擊旨在削弱伊朗襲擊民用航運船隻的能力。
+
+---
+
+### 2026-07-13 05:19:16  #焦點 #國際
+
+美國中央司令部證實已對伊朗發起新一輪打擊。
+
+---
+
+### 2026-07-13 05:18:56  #其他 #焦點
+
+美方訊息：三軍統帥已下令實施打擊行動。
+
+---
+
+### 2026-07-13 05:18:40  #MKT News
+
+Iran's state broadcaster IRIB said three explosions were heard in Jask, Hormozgan province, Iran.
+
+---
+
+### 2026-07-13 05:17:50  #國際
+
+伊朗國家電視臺報道，阿巴斯港以西傳出多起爆炸聲。
+
+---
+
+### 2026-07-13 05:17:43  #MKT News #WTI #Impact bullish #Brent
+
+Fars news agency reported that around 00:30 local time (05:00 Beijing) today more than 10 explosions were heard at Iran’s Bandar Abbas and Sirik ports; exact locations remain unclear.
+
+---
+
+### 2026-07-13 05:14:33  #MKT News
+
+【Syrian People's Assembly holds first transitional session, elects speaker】The Syrian People's Assembly met on the 12th for its first session since the 2024 political upheaval, MPs were sworn in before transitional government president Ahmad Shala and voted Abdul Hamid Awak as speaker; two deputy speakers and a secretary were also elected.
+
+---
+
+### 2026-07-13 05:14:18  #國際
+
+【敘利亞人民議會舉行過渡時期首次會議 選出議長】敘利亞人民議會12日舉行自2024年敘政局劇變以來的首次會議，選舉產生議長、兩名副議長和一名秘書。在本次會議上，議員們在敘過渡政府總統艾哈邁德·沙拉麵前集體宣誓就職，隨後投票選舉阿卜杜勒·哈米德·阿瓦克為議長。（新華社）
+
+---
+
+### 2026-07-13 05:12:31  #國際
+
+伊朗國家電視臺：伊朗錫裡克附近發生多起爆炸。
+
+---
+
+### 2026-07-13 05:12:28  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Islamic Republic of Iran Broadcasting (IRIB) reported explosions heard again in southern Iran.
+
+---
+
+### 2026-07-13 05:11:12  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's foreign ministry strongly condemned what it described as US aggressive attacks on Iran in the past 24 hours, saying they flagrantly violate the UN Charter, pose a serious threat to international peace and security, and have undone months of efforts to reduce tensions and build peace in West Asia.
+
+---
+
+### 2026-07-13 05:09:30  #其他
+
+中國地震臺網正式測定：07月13日05時02分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.9級地震，震源深度6千米。
+
+---
+
+### 2026-07-13 05:06:08  #MKT News
+
+cenc's automatic system estimated a magnitude ~3.8 earthquake at 05:02 on July 13 near Gaoxian County, Yibin, Sichuan; final magnitude pending confirmation in a formal rapid report.
+
+---
+
+### 2026-07-13 05:04:03  #其他
+
+中國地震臺網自動測定：07月13日05時02分在四川宜賓市高縣附近（北緯28.54度，東經104.69度）發生3.8級左右地震，最終結果以正式速報為準。
 
 ---
 
@@ -19127,119 +19439,5 @@ Slovenia Industrial Activity Slows in May — Industrial production in Slovenia 
 ### 2026-07-10 16:44:36  #公司
 
 【龍佰集團：子公司受讓鑫潤礦業55.10%股權完成工商變更】龍佰集團公告稱，公司全資子公司龍佰礦冶擬受讓河南振興釩鈦低碳發展私募股權投資基金中心持有的鑫潤礦業55.10%股權，該事項於2026年4月25日獲公司第九屆董事會第二次會議審議透過。近日，鑫潤礦業已完成相關工商變更登記，並取得鹽邊縣市場監督管理局換髮的《營業執照》。股權劃轉完成後，龍佰礦冶持有鑫潤礦業55.10%股權，公司另一全資子公司攀枝花龍佰豐源礦業有限公司持有44.90%股權。
-
----
-
-### 2026-07-10 16:44:30  #公司
-
-【中信金融資產等在深圳成立私募股權投資基金 出資額100.01億】天眼查App顯示，近日，深圳信創煥星特殊機遇私募股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為星火聚信（深圳）投資有限公司，出資額100.01億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由中信金融資產（02799.HK）、星火聚信（深圳）投資有限公司共同出資。
-
----
-
-### 2026-07-10 16:44:16  #MKT News
-
-【Beijing Daxing International Airport issues large-scale flight-delay warning】Beijing Daxing International Airport warned of large-scale flight delays from 17:30 local time after forecasts of intermittent thunderstorms with intense short-duration rainfall and heavy accumulated precipitation. The airport operations committee has issued a blue flood alert and a widescale flight-delay advisory and is coordinating with air traffic control and airlines to manage flight operations and passenger services.
-
----
-
-### 2026-07-10 16:44:12  #公司
-
-【民和股份：2026年6月雞苗銷售收入6391.03萬元，同比增長25.84%】民和股份公告，2026年6月公司銷售商品代雞苗2557.41萬隻，同比變動5.16%，環比變動-10.28%；銷售收入6391.03萬元，同比變動25.84%，環比變動-33.47%。銷售收入環比下降主要因本期雞苗售價下降及銷量下降所致。
-
----
-
-### 2026-07-10 16:44:09  #公司 #市場
-
-【三星將釋出三款全新Galaxy Z8摺疊手機 售價最高漲20萬韓元】三星電子將於 7 月 22 日在倫敦舉辦釋出會，正式釋出旗艦摺疊屏手機 Galaxy Z8 系列新品。本次產品線擴充至三款機型，主打面向智慧自主人工智慧時代打造的全新 Galaxy 生態使用體驗。全新 Galaxy Z8 系列預計 8 月 7 日正式開售；預售時段大機率為 7 月 28 日至 8 月 3 日，8 月 4 日起開啟搶先啟用使用。 受零部件成本上漲影響，新機售價相較上一代最高上調 20 萬韓元。據爆料資訊，256GB 版本定價參考如下：Galaxy Z Fold8 Ultra 約 257 萬韓元，Galaxy Z Fold8 約 227 萬韓元，Galaxy Z Flip8 約 168 萬韓元。三星大機率會延續經典的儲存翻倍福利活動，使用者在預售期下單可免費升級高一檔機身儲存。
-
----
-
-### 2026-07-10 16:44:08  #公司
-
-【天沃科技：預計2026年上半年淨虧損6500萬元-8500萬元】天沃科技公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為6500萬元-8500萬元，基本每股收益虧損0.08元/股-0.1元/股。扣除非經常性損益後的淨利潤虧損2700萬元-4000萬元，基本每股收益虧損0.01元/股。報告期內，公司歸屬於上市公司股東的淨利潤出現虧損，主要原因如下：受國際環境不確定性影響，大型石油化工、煤化工投資專案放緩，傳統石化裝備市場需求不足，市場競爭加劇，公司高階裝備製造業務年初在手訂單同比有所減少，毛利率有所下滑，使得報告期內可實現的銷售業務規模同比出現一定幅度下降，盈利不及預期；同時疊加投資者索賠事項計提預計負債，導致歸屬於上市公司股東的淨利潤出現虧損。
-
----
-
-### 2026-07-10 16:44:03  #公司
-
-【北京大興機場釋出大面積航班延誤預警】據北京大興國際機場官方微博訊息，據氣象部門預測，大興機場今日17時30分起將有間歇性雷雨，短時雨強較大，過程累計降水量大雨。目前，大興機場運管委已釋出汛情藍色預警和大面積航班延誤預警，會同空管部門、航空公司等各保障單位全力做好航班執行和旅客服務保障工作。請廣大旅客及時關注天氣變化和所乘航班動態，合理調整出行計劃。（央視新聞）
-
----
-
-### 2026-07-10 16:43:42  #MKT News #CSI300 #Impact bullish
-
-【Commercial aerospace sector active today; Guotai Haitong buys Hailanxin】China's commercial aerospace sector was active today: Hailanxin, Hangtian Huanyu, Shenjian and China Satcom were among stocks that hit daily limit-ups. Post-close data show Hailanxin turnover at 3.279 billion yuan; Guotai Haitong Securities' Beijing Zhichun Road brokerage purchased 120 million yuan of Hailanxin.
-
----
-
-### 2026-07-10 16:43:36  #國際
-
-【地區多國緊急斡旋 美官員稱美伊緊張態勢趨緩】美國阿克西奧斯新聞網站9日援引知情人士訊息報道，巴基斯坦、卡達和其他地區斡旋方力勸美國和伊朗降級緊張態勢並就伊朗核問題恢復談判。美國官員稱，局勢9日“平靜多了”。美軍7日和8日以回應伊朗近期襲擊透過霍爾木茲海峽的商船為由，連續兩天對伊朗發動軍事打擊，伊朗則向美方在巴林、科威特、卡達和約旦等國的設施發動導彈和無人機襲擊。美國總統特朗普8日在土耳其首都安卡拉參加北約峰會時說，他認為美國和伊朗達成的諒解備忘錄“已終結”，美軍“今晚很可能再次狠狠打擊伊朗”。（新華社）
-
----
-
-### 2026-07-10 16:43:09  #其他
-
-市場訊息：軟銀考慮收購7&I控股部分股權。
-
----
-
-### 2026-07-10 16:43:02  #公司
-
-【動力源：籌劃控制權變更事項取得進展 股票7月13日起復牌】動力源公告稱，公司控股股東及實際控制人何振亞籌劃控制權變更事項取得重大進展。7月10日，何振亞與深圳灣紅棉科創有限公司簽署《股份轉讓協議》，完成後控股股東將變更為深圳灣紅棉科創，實控人將變更為陳志茂。公司股票自7月6日起停牌，將於7月13日開市起復牌。該事項尚需上交所合規確認，並辦理股份過戶登記，能否完成及時間存在不確定性。
-
----
-
-### 2026-07-10 16:42:47  #公司 #市場
-
-【巨化股份：2026年上半年營收125.35億元 同比增長7.03%】巨化股份公告稱，2026年上半年公司營收125.35億元，同比增長7.03%。主要產品中，製冷劑營收71.01億元，同比增長16.67%；含氟聚合物材料營收11.62億元，同比增長32.31%；含氟精細化學品營收2.84億元，同比增長52.81%。氟化工原料、石化材料、基礎化工產品及其它營收同比下降。主要產品價格多數上漲，主要原材料採購價格漲跌互現。
-
----
-
-### 2026-07-10 16:42:41  #公司
-
-【深圳燃氣：2026年上半年淨利潤7.78億元，同比增長22.02%】深圳燃氣公告，2026年上半年營業收入147.88億元，同比減少4.17%。歸屬於上市公司股東的淨利潤7.78億元，同比增長22.02%。扣除非經常性損益後歸屬於上市公司股東的淨利潤7.59億元，同比增長22.99%。
-
----
-
-### 2026-07-10 16:42:24  #公司
-
-【焦作萬方：2026年上半年淨利潤預增118.35%-137.01%】焦作萬方公告稱，預計2026年上半年歸屬於上市公司股東的淨利潤為11.70億元-12.70億元，同比增長118.35%-137.01%；扣除非經常性損益後的淨利潤為11.58億元-12.58億元，同比增長116.93%-135.66%。業績增長主要因電解鋁價格高位執行，公司加強銷售管理，營收同比增長；主要原材料氧化鋁採購價下降，公司最佳化採購策略、降低能耗，有效降低生產成本。
-
----
-
-### 2026-07-10 16:42:21  #公司
-
-【長盈精密：為子公司崑山長盈3000萬元融資貸款提供擔保】長盈精密公告稱，公司此前已審議透過為子公司融資提供不超82.60億元擔保額度的議案。近日，公司與交通銀行崑山分行簽署《保證合同》，為全資子公司崑山長盈不超3000萬元融資貸款提供連帶責任保證。截至2026年7月8日，公司及子公司累計實際對外擔保餘額23.98億元，佔最近一期經審計歸母權益的28.73%，無逾期對外擔保等情形。
-
----
-
-### 2026-07-10 16:41:54  #公司
-
-【盛和資源：2026年上半年淨利潤預增112.25%-146.75%】盛和資源公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為8億元-9.3億元，與上年同期相比增加4.23億元-5.53億元，同比增加112.25%-146.75%；扣除非經常性損益的淨利潤為7.9億元-9.2億元，同比增加117.32%-153.09%。業績增長因稀土主要產品市場需求向好，價格漲幅較大，公司最佳化產銷結構，加強管理與成本管控。
-
----
-
-### 2026-07-10 16:41:31  #MKT News #Important #600030.SS #Impact bullish
-
-CITIC Securities expects H1 2026 net profit of RMB 23.343 billion, up 70.15% YoY.
-
----
-
-### 2026-07-10 16:41:19  #公司
-
-【興發集團：擬變更557.62萬股回購股份用途並登出】興發集團公告稱，公司擬將存放於回購專用證券賬戶中的557.62萬股股份的回購用途，由“用於維護公司價值及股東權益”變更為“用於登出並減少註冊資本”。2026年1月27日至4月19日，公司累計回購股份557.62萬股，佔總股本的0.46%，支付資金22094.52萬元。本次變更已獲董事會透過，尚需股東會審議批准。登出完成後，公司總股本將由12.02億股減至11.96億股。
-
----
-
-### 2026-07-10 16:40:54  #其他
-
-廣州富力2026年6月份總銷售收入約23.7億元人民幣，銷售面積達約679,100平方米。
-
----
-
-### 2026-07-10 16:40:13  #公司 #國際
-
-【ST人福：尼達尼布軟膠囊獲得美國FDA批准文號】ST人福公告，全資子公司人福普克藥業（武漢）有限公司近日收到美國食品藥品監督管理局（FDA）關於尼達尼布軟膠囊的批准文號。藥品名稱為Nintedanib Capsules，劑型為軟膠囊，規格為100 mg和150 mg，被批准用於治療成人特發性肺纖維化（IPF）和具有進行性表型的慢性纖維化性間質性肺疾病。武漢普克於2023年9月向美國FDA遞交了尼達尼布軟膠囊ANDA申請並獲受理，截至目前累計研發投入約為700萬元人民幣。
 
 ---

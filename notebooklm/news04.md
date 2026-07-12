@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 05:00:19_
-_本檔包含 3380 則快訊，約 627643 字_
+_更新時間：2026-07-13 06:03:35_
+_本檔包含 3381 則快訊，約 627740 字_
+
+---
+
+### 2026-07-08 15:03:33  #公司 #市場
+
+道達爾能源公司股價上漲1.9%，位居法國CAC 40指數漲幅榜首位。
+
+---
+
+### 2026-07-08 15:03:27  #公司 #市場 #觀點
+
+漢莎航空股價下跌6.4%，此前花旗集團將漢莎航空評級下調至“賣出”。
+
+---
+
+### 2026-07-08 15:03:17  #宏觀 #市場 #國際
+
+【光大期貨：地緣再起波瀾，燃料油開盤大漲】週三，能化板塊開盤異動，大多數品種開盤後價格快速拉昇。其中，燃料油漲幅居前，日內最大漲幅超6%，並伴隨主力增倉。地緣衝突再起，美軍中央司令部7日在社交媒體上釋出訊息說，美軍已開始對伊朗發起一系列有力的打擊，以回應此前伊朗襲擊三艘在霍爾木茲海峽通行的商船。由於霍爾木茲海峽局勢再生變化，美國財政部取消了允許開採、運輸、銷售和進口伊朗石油、石油產品及相關服務的許可證。該許可證於6月22日簽發，期限為60天，但在霍爾木茲海峽附近發生的三艘油輪遇襲事件後被撤銷。在原油供應格局產生擾動的背景下，燃料油價格再獲支撐。基本面來看，低硫方面，新加坡來自西方市場的低硫燃料油到貨量將在未來幾周增加。7月新加坡將從西方接收約120萬-130萬噸低硫燃料油，高於6月的約50萬-60萬噸，不過低硫供應至少在7月上半月仍將相對有限。高硫方面，受中東供應增加和殘渣級油品原料需求疲軟的影響，亞洲高硫燃料油市場短期內可能承壓；但發電行業的季節性需求逐步回升可能為基本面提供一定支撐。短期海外成品油結構性緊張恢復速度較慢，低硫供應受此影響供應仍然相對高硫偏緊，整體預計LU對FU價差或將維持偏高位水平。（光大期貨）
+
+---
+
+### 2026-07-08 15:03:15  #其他
+
+【淡馬錫：目標到2031年將AI敞口從目前的6%提高至最高15%】淡馬錫表示，目標到2031年將人工智慧（AI）敞口從目前的6%提高至最高15%，投資組合價值升至創紀錄的5180億新元。
+
+---
+
+### 2026-07-08 15:03:00  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Commander of Kyiv’s drone unit said Ukrainian drones struck nine oil tankers belonging to Russia’s "shadow fleet" in the Sea of Azov last night.
+
+---
+
+### 2026-07-08 15:02:48  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
+
+China stocks closed mixed on Wednesday, July 8: China's Shanghai Composite fell 0.49% to 3,970.88; Shenzhen Composite dropped 1.87% to 14,939.73; CSI 300 Index declined 0.77% to 4,755.53; ChiNext Index slid 1.70% to 3,845.35; STAR 50 Index rose 0.73% to 2,016.23.
+
+---
+
+### 2026-07-08 15:02:24  #國際
+
+基輔無人機部隊指揮官稱，烏克蘭無人機昨夜在亞速海襲擊了俄羅斯“影子艦隊”的九艘油輪。
+
+---
+
+### 2026-07-08 15:02:16  #其他
+
+農發行發行10年期債券，規模50億元，發行利率1.7924%，預期1.8100%，投標倍數10.25倍。
+
+---
+
+### 2026-07-08 15:02:11  #其他 #熱點2
+
+【北約公佈大規模軍購計劃】當地時間7日，北大西洋公約組織（北約）在該組織峰會期間公佈多項總額達數百億美元的軍購和防務投資計劃，涉及反無人機能力建設、無人機採購等。
+
+---
+
+### 2026-07-08 15:02:06  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
+
+France Forex Reserves Drop to 8-Month Low — France’s official reserve assets fell to €355.39 billion at the end of June 2026 from €381.30 billion in May, marking the lowest level since October 2025, primarily due to a sharp decline in gold reserves. Gold holdings decreased by €27.81 billion from the previous month to €277.03 billion. Meanwhile, claims on the IMF increased to €39.46 billion from €38.85 billion in May, foreign currency reserves rose to €32.42 billion from €31.15 billion, and other reserve assets edged up to €6.48 billion from €6.46 billion. In June 2025, total reserve assets stood at €294.72 billion.
+
+---
+
+### 2026-07-08 15:01:41  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities opened lower on Wednesday, July 8: DAX down 177.15 points (-0.69%) at 25,312.11; FTSE 100 down 33.71 points (-0.32%) at 10,632.17; CAC 40 down 49.27 points (-0.58%) at 8,386.97; Euro Stoxx 50 down 32.61 points (-0.52%) at 6,287.25; IBEX 35 down 131.27 points (-0.67%) at 19,508.93; FTSE MIB down 202.94 points (-0.39%) at 52,252.50.
+
+---
+
+### 2026-07-08 15:01:39  #宏觀 #公司 #市場
+
+【A股收評：創業板指延續調整跌1.7%，算力租賃、AI伺服器方向逆勢走強】A股三大指數今日集體下跌，截至收盤，上證指數跌0.49%，深證成指跌1.87%，創業板指跌1.7%，北證50跌2.59%，科創50指數漲0.73%。全市場成交額25826億元，較上日成交額縮量159億元，全市場超3700只個股下跌。板塊題材上，油氣開採及服務、資料安全、雲端計算、旅遊及酒店、銀行、計算機裝置、ST板塊漲幅居前；能源金屬、電池、小金屬、培育鑽石、氟化工、工程機械、PCB概念、人形機器人、超級電容板塊跌幅居前。盤面上，今日市場炒作重點轉向交換機、AI伺服器、算力租賃方向，深信服、浪潮資訊、網宿科技等股收穫漲停，紫光股份、銳捷網路、星網銳捷漲幅居前。軟體板塊同樣表現活躍，綠盟科技20cm漲停，安恆資訊、金山辦公、亞信安全紛紛上漲。旅遊板塊表現出色，嶺南控股、西藏旅遊封死漲停，此前國務院原則同意《旅遊強國建設“十五五”規劃》。另一方面，新能源產業鏈集體下跌，上游鋰礦方向跌幅居前，天齊鋰業、盛新鋰能、永杉鋰業等股盤中跌停，龍蟠科技、石大勝華、恩捷股份等電池材料端同樣表現低迷。人形機器人概念股同樣表現不佳，綠的諧波大跌15%，奧比中光、昊志機電、斯菱智驅多股跟隨大跌。
+
+---
+
+### 2026-07-08 15:01:39  #MKT News
+
+【China stock turnover CNY 2.56tn on July 8; Zhongji Xuchuang leads by turnover】Shanghai and Shenzhen turnover totaled CNY 2.56 trillion on July 8, down CNY 17.63 billion from the previous session. Shanghai turnover was CNY 1.19 trillion (previous CNY 1.196 trillion), trading volume 496 mln lots (prev 514 mln). Shenzhen turnover was CNY 1.37 trillion (previous CNY 1.385 trillion), trading volume 655 mln lots (prev 678 mln). Zhongji Xuchuang ranked first by turnover at CNY 36.32 billion, followed by Zhaoyi Innovation CNY 35.49 billion, BOE Technology A CNY 25.35 billion, Xinyisheng CNY 23.03 billion and Dongshan Precision CNY 22.80 billion.
+
+---
+
+### 2026-07-08 15:01:35  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
+
+【China index futures midday close】Midday: China stock index futures main contracts — CSI 300 (IF) down 0.78%, SSE 50 (IH) down 0.12%, CSI 500 (IC) down 0.72%, CSI 1000 (IM) down 1.58%.
+
+---
+
+### 2026-07-08 15:01:31  #市場
+
+【ETF收評：資訊保安ETF領漲6.82%，機器人ETF領跌6.98%】ETF收盤漲跌不一，資訊保安ETF（159613）領漲6.82%，雲端計算ETF（159739）漲6.56%，港股通網際網路ETF（520790）漲6.39%，機器人ETF（159278）領跌6.98%，機器人ETF（159050）跌6.93%，機器人ETF（159272）跌6.81%。
+
+---
+
+### 2026-07-08 15:01:29  #其他
+
+斯洛伐克5月貿易順差為5.806億歐元，路透調查預期為2.529億歐元，4月貿易資料修正後為2470萬歐元。
+
+---
+
+### 2026-07-08 15:01:27  #MKT News #Important #Commodities #Energy #Industrial Metals #CNH #Impact bullish #WTI #Copper #Impact mixed
+
+At midday close, China’s main futures contracts were mostly higher. SC crude, low-sulfur fuel oil (LU) and fuel oil rose over 6%; benzene gained more than 5%; styrene (EB) and methanol climbed over 4%; propylene was up nearly 4% and polypropylene rose over 3%. On the downside, industrial silicon, stainless steel (SS) and lithium carbonate fell more than 2%; apples and cotton lost over 1%; Shanghai nickel, white sugar and cotton yarn were about 1% lower.
+
+---
+
+### 2026-07-08 15:01:20  #國際
+
+【微軟裁員補償方案曝光：美國員工最高能拿39周基本工資遣散費】據《商業內幕》8日（今天）援引離職補償檔案稱，微軟將向被裁美國員工提供最高39周基本工資的遣散補償，這一上限適用於多數美國員工。
 
 ---
 
@@ -20257,107 +20365,5 @@ Crypto Updates: Ether Drops by 2.03% — Top crypto losers are Ether (-2.03%), X
 ### 2026-07-07 13:26:34  #MKT News #Commodities #Energy #DAX #Impact mixed #EURUSD #Impact bearish
 
 【Sources: Germany to spend up to €1.5 bln to build state strategic gas reserve】Germany's economics ministry plans a state-owned strategic natural gas reserve to guard against extreme disruptions, a person familiar with the plan said. The reserve would hold about 24 TWh—roughly 10% of Germany's gas storage. Initial build, gas procurement and injection costs are estimated at €1.2–1.5 bln, to be incurred in 2027–28, with annual operating costs of €150–180m. The cabinet is expected to consider the proposal in mid‑August. Funding would be raised via a surcharge on gas consumers.
-
----
-
-### 2026-07-07 13:26:28  #宏觀
-
-【習近平對防汛救災工作作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平對防汛救災工作作出重要指示。習近平指出，近日，廣西、湖北、甘肅等地因降雨大風天氣，接連發生水庫潰壩、山體滑坡等災情，造成重大人員傷亡和經濟損失。要全力組織搶險救援、傷員救治、群眾安置等工作，最大限度減少人員傷亡，防範次生災害。習近平強調，當前防汛形勢嚴峻複雜，各地各有關部門要抓好既定部署措施落實，堅決克服麻痺思想和僥倖心理，盯緊壓實防災救災責任，深入開展江河湖泊、病險水庫、地質災害易發區等風險隱患排查整治，強化監測預警和應急救援準備，紮實做好防災救災各項工作，確保人民群眾生命財產安全。中共中央政治局常委、國務院總理李強作出批示指出，近期極端天氣多發，國家防辦、國家防減救災辦要指導各地密切關注雨情汛情，加強險情監測預警，全力開展搶險救援，深入排查災害風險隱患，落實落細各項防汛救災措施，嚴防發生重大次生災害。（央視新聞）
-
----
-
-### 2026-07-07 13:24:23  #MKT News #Commodities #Industrial Metals #300750.SZ #Impact bullish
-
-【CATL's Jianxiawo lithium mine granted safety production permit】CATL's Jianxiawo lithium mine has been granted a safety production permit issued to Yichun Times New Energy Mining Co. by the Yichun Emergency Management Bureau. The administrative decision was dated 29 June 2026; the permit is effective from 28 February 2025 to 27 February 2028 and authorizes a change to the non-coal mine safety production permit for the Jianxiawo lithium mine covering Zhenkouli (Yifeng County) and Fengxin County in Jiangxi province.
-
----
-
-### 2026-07-07 13:24:19  #公司
-
-【信用中國官網顯示，寧德時代梘下窩鋰礦已獲安全生產許可證】從信用中國官網查詢到，宜春時代新能源礦業有限公司已經獲得安全生產許可證。其中，許可單位為宜春市應急管理局，行政許可決定文書號為宜應急礦山許決字〔2026〕第009號，行政許可決定文書名稱為非煤礦礦山企業安全生產企業變更許可，許可編號為（贛）FM安許證字〔2025〕C054號。該許可決定日期為2026年6月29日，有效期自2025年2月28日至2028年2月27日。安全生產許可證許可內容為宜春時代新能源礦業有限公司江西省宜豐縣圳口裡-奉新縣梘下窩鋰礦變更。（每經）
-
----
-
-### 2026-07-07 13:23:45  #公司 #市場
-
-【電梯板塊震盪走弱，快意電梯跌停】電梯板塊震盪走弱，快意電梯跌停，廣日股份、展鵬科技、世嘉科技、同力天啟、上海電氣等跟跌。
-
----
-
-### 2026-07-07 13:22:32  #公司
-
-【哥倫比亞對原產於中國的成條訂書釘啟動反傾銷調查】據中國貿易救濟資訊網，6月22日，哥倫比亞貿工旅遊部在官方公報釋出2026年第305號公告稱，應哥倫比亞生產商申請，對原產於中國的成條訂書釘啟動反傾銷調查。本案傾銷調查期為2025年4月9日至2026年4月8日。涉案產品的哥倫比亞稅號為8305.20.00.00。公告自發布次日起生效。
-
----
-
-### 2026-07-07 13:21:42  #MKT News #USDJPY #Impact bearish
-
-Japan's 2-year bond yield rose 1.0bp to 1.400%; the 5-year yield rose 3.5bp to 1.975%.
-
----
-
-### 2026-07-07 13:21:35  #市場 #國際
-
-5年期日本國債收益率<JP5YTN=JBTC>上漲3.5個基點，至1.975%.
-
----
-
-### 2026-07-07 13:21:29  #市場 #國際
-
-2年期日本國債收益率上漲1.0個基點，至1.400%。
-
----
-
-### 2026-07-07 13:21:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran's foreign minister says final talks won't start if threats continue】On the 7th Iran's foreign minister Araghchi said on social media that under the terms of the Iran‑US memorandum of understanding, final agreement negotiations will not begin if threats persist.
-
----
-
-### 2026-07-07 13:20:53  #國際
-
-伊朗外交部長阿拉格齊7日在社交媒體發文說，根據伊美簽署的諒解備忘錄條款，若威脅持續，最終協議談判將不會啟動。
-
----
-
-### 2026-07-07 13:20:41  #公司
-
-【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，凡拓物理智慧科技（深圳）有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；衛星遙感應用系統整合；地理遙感資訊服務等。企查查股權穿透顯示，該公司由凡拓數創全資持股。
-
----
-
-### 2026-07-07 13:20:09  #公司
-
-【農夫山泉開放橫州廠區安置受災群眾並捐贈1000萬元】7月6日，農夫山泉方面對介面新聞表示，公司全面放開南寧區域全部飲用水庫存，聯動內部員工與各地經銷商分批、持續運送天然飲用水直達救災一線。同時，公司已開放剛建成的橫州茉莉花生產廠區，作為臨時災民安置點，為受災群眾提供避風港。此外，農夫山泉將捐贈現金 1000 萬元，專項用於廣西災區災後家園重建、農業生產恢復工作。（介面新聞）
-
----
-
-### 2026-07-07 13:19:40  #MKT News #DXY #Impact bearish
-
-【KRW 24‑hour trading launches orderly; turnover ~6% below 30‑day average】South Korea launched a 24‑hour FX trading mechanism for the won; first‑day trading was orderly. Broker data showed USD/KRW spot turnover around $15.1 bln, roughly 6% below the 30‑day daily average. Trading hours were extended from 17 to 24 hours to close the previous gap with New York; volume concentrated in Seoul’s regular session while London and New York remained thin. The won is still more than 2% stronger than its weakest level since 2009. The change represents an unprecedented loosening of won controls and signals a policy shift away from the post‑1997 framework as Seoul seeks to shed emerging‑market status and attract more global capital.
-
----
-
-### 2026-07-07 13:19:39  #國際
-
-烏克蘭州長稱，無人機襲擊引發俄羅斯卡盧加州一處工業設施起火。
-
----
-
-### 2026-07-07 13:19:27  #宏觀 #市場 #觀點 #國際
-
-【摩根大通：美國三年期國債拍賣的估值支撐減弱】摩根大通策略師在一份報告中表示，在美國財政部週二進行580億美元三年期國債拍賣之前，估值的支撐力度似乎有所減弱。鑑於估值支撐減弱以及更廣泛的宏觀環境，他們認為此次拍賣“可能需要做出更多讓步才能被順利消化“。策略師們表示，過去一個月，三年期國債收益率在一個相當偏窄的區間內交易，目前的交易水平僅比6月份拍賣時的水平低5個基點。不過他們表示，與其他期限相比，該期限國債的估值已變得更高，在對過去三到六個月的利率水平和收益率曲線形狀進行調整後，目前看來其估值大致合理至略微偏高。
-
----
-
-### 2026-07-07 13:18:56  #其他
-
-比亞迪在過去兩年曾兩次與雷諾接洽，商討入股事宜，雷諾在兩次情況下均決定不予推進。（法國回聲報）
-
----
-
-### 2026-07-07 13:18:46  #Trading Economics #Economy #Estonia #Inflation Rate #Importance 1
-
-Estonia June Inflation Lowest Since 2020 — The annual inflation rate in Estonia slowed to 2.3% in June 2026 from a four-month high of 3.7% in the previous month. This marked the softest rise since April 2020, driven largely by declines in prices for food and non-alcoholic beverages (-1.5% vs 0.9% in May), clothing and footwear (-6.2% vs -3.9%), and household goods (-0.5% vs 1.5%). Costs also decreased for recreation, sport and culture (-0.2% vs 4.2%), restaurants and accommodation services (-2% vs 3.2%), and insurance and financial services (-7.2% vs -11.1%). In contrast, inflation remained elevated for housing (7.6% vs 5.4%) and transport (7.5% vs 10.4%), driven by higher electricity, natural gas, gasoline, and diesel prices. Costs also rose for alcoholic beverages and tobacco (8.9% vs 8.1%), partly due to excise duty increases and higher tobacco taxes. On a monthly basis, consumer prices fell by 0.5% in June, marking the first decline in six months and reversing a 0.4% gain in the preceding period.
 
 ---

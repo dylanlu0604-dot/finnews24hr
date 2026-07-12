@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 05:00:19_
-_本檔包含 3202 則快訊，約 628072 字_
+_更新時間：2026-07-13 06:03:35_
+_本檔包含 3203 則快訊，約 627543 字_
+
+---
+
+### 2026-07-10 16:44:30  #公司
+
+【中信金融資產等在深圳成立私募股權投資基金 出資額100.01億】天眼查App顯示，近日，深圳信創煥星特殊機遇私募股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為星火聚信（深圳）投資有限公司，出資額100.01億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由中信金融資產（02799.HK）、星火聚信（深圳）投資有限公司共同出資。
+
+---
+
+### 2026-07-10 16:44:16  #MKT News
+
+【Beijing Daxing International Airport issues large-scale flight-delay warning】Beijing Daxing International Airport warned of large-scale flight delays from 17:30 local time after forecasts of intermittent thunderstorms with intense short-duration rainfall and heavy accumulated precipitation. The airport operations committee has issued a blue flood alert and a widescale flight-delay advisory and is coordinating with air traffic control and airlines to manage flight operations and passenger services.
+
+---
+
+### 2026-07-10 16:44:12  #公司
+
+【民和股份：2026年6月雞苗銷售收入6391.03萬元，同比增長25.84%】民和股份公告，2026年6月公司銷售商品代雞苗2557.41萬隻，同比變動5.16%，環比變動-10.28%；銷售收入6391.03萬元，同比變動25.84%，環比變動-33.47%。銷售收入環比下降主要因本期雞苗售價下降及銷量下降所致。
+
+---
+
+### 2026-07-10 16:44:09  #公司 #市場
+
+【三星將釋出三款全新Galaxy Z8摺疊手機 售價最高漲20萬韓元】三星電子將於 7 月 22 日在倫敦舉辦釋出會，正式釋出旗艦摺疊屏手機 Galaxy Z8 系列新品。本次產品線擴充至三款機型，主打面向智慧自主人工智慧時代打造的全新 Galaxy 生態使用體驗。全新 Galaxy Z8 系列預計 8 月 7 日正式開售；預售時段大機率為 7 月 28 日至 8 月 3 日，8 月 4 日起開啟搶先啟用使用。 受零部件成本上漲影響，新機售價相較上一代最高上調 20 萬韓元。據爆料資訊，256GB 版本定價參考如下：Galaxy Z Fold8 Ultra 約 257 萬韓元，Galaxy Z Fold8 約 227 萬韓元，Galaxy Z Flip8 約 168 萬韓元。三星大機率會延續經典的儲存翻倍福利活動，使用者在預售期下單可免費升級高一檔機身儲存。
+
+---
+
+### 2026-07-10 16:44:08  #公司
+
+【天沃科技：預計2026年上半年淨虧損6500萬元-8500萬元】天沃科技公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為6500萬元-8500萬元，基本每股收益虧損0.08元/股-0.1元/股。扣除非經常性損益後的淨利潤虧損2700萬元-4000萬元，基本每股收益虧損0.01元/股。報告期內，公司歸屬於上市公司股東的淨利潤出現虧損，主要原因如下：受國際環境不確定性影響，大型石油化工、煤化工投資專案放緩，傳統石化裝備市場需求不足，市場競爭加劇，公司高階裝備製造業務年初在手訂單同比有所減少，毛利率有所下滑，使得報告期內可實現的銷售業務規模同比出現一定幅度下降，盈利不及預期；同時疊加投資者索賠事項計提預計負債，導致歸屬於上市公司股東的淨利潤出現虧損。
+
+---
+
+### 2026-07-10 16:44:03  #公司
+
+【北京大興機場釋出大面積航班延誤預警】據北京大興國際機場官方微博訊息，據氣象部門預測，大興機場今日17時30分起將有間歇性雷雨，短時雨強較大，過程累計降水量大雨。目前，大興機場運管委已釋出汛情藍色預警和大面積航班延誤預警，會同空管部門、航空公司等各保障單位全力做好航班執行和旅客服務保障工作。請廣大旅客及時關注天氣變化和所乘航班動態，合理調整出行計劃。（央視新聞）
+
+---
+
+### 2026-07-10 16:43:42  #MKT News #CSI300 #Impact bullish
+
+【Commercial aerospace sector active today; Guotai Haitong buys Hailanxin】China's commercial aerospace sector was active today: Hailanxin, Hangtian Huanyu, Shenjian and China Satcom were among stocks that hit daily limit-ups. Post-close data show Hailanxin turnover at 3.279 billion yuan; Guotai Haitong Securities' Beijing Zhichun Road brokerage purchased 120 million yuan of Hailanxin.
+
+---
+
+### 2026-07-10 16:43:36  #國際
+
+【地區多國緊急斡旋 美官員稱美伊緊張態勢趨緩】美國阿克西奧斯新聞網站9日援引知情人士訊息報道，巴基斯坦、卡達和其他地區斡旋方力勸美國和伊朗降級緊張態勢並就伊朗核問題恢復談判。美國官員稱，局勢9日“平靜多了”。美軍7日和8日以回應伊朗近期襲擊透過霍爾木茲海峽的商船為由，連續兩天對伊朗發動軍事打擊，伊朗則向美方在巴林、科威特、卡達和約旦等國的設施發動導彈和無人機襲擊。美國總統特朗普8日在土耳其首都安卡拉參加北約峰會時說，他認為美國和伊朗達成的諒解備忘錄“已終結”，美軍“今晚很可能再次狠狠打擊伊朗”。（新華社）
+
+---
+
+### 2026-07-10 16:43:09  #其他
+
+市場訊息：軟銀考慮收購7&I控股部分股權。
+
+---
+
+### 2026-07-10 16:43:02  #公司
+
+【動力源：籌劃控制權變更事項取得進展 股票7月13日起復牌】動力源公告稱，公司控股股東及實際控制人何振亞籌劃控制權變更事項取得重大進展。7月10日，何振亞與深圳灣紅棉科創有限公司簽署《股份轉讓協議》，完成後控股股東將變更為深圳灣紅棉科創，實控人將變更為陳志茂。公司股票自7月6日起停牌，將於7月13日開市起復牌。該事項尚需上交所合規確認，並辦理股份過戶登記，能否完成及時間存在不確定性。
+
+---
+
+### 2026-07-10 16:42:47  #公司 #市場
+
+【巨化股份：2026年上半年營收125.35億元 同比增長7.03%】巨化股份公告稱，2026年上半年公司營收125.35億元，同比增長7.03%。主要產品中，製冷劑營收71.01億元，同比增長16.67%；含氟聚合物材料營收11.62億元，同比增長32.31%；含氟精細化學品營收2.84億元，同比增長52.81%。氟化工原料、石化材料、基礎化工產品及其它營收同比下降。主要產品價格多數上漲，主要原材料採購價格漲跌互現。
+
+---
+
+### 2026-07-10 16:42:41  #公司
+
+【深圳燃氣：2026年上半年淨利潤7.78億元，同比增長22.02%】深圳燃氣公告，2026年上半年營業收入147.88億元，同比減少4.17%。歸屬於上市公司股東的淨利潤7.78億元，同比增長22.02%。扣除非經常性損益後歸屬於上市公司股東的淨利潤7.59億元，同比增長22.99%。
+
+---
+
+### 2026-07-10 16:42:24  #公司
+
+【焦作萬方：2026年上半年淨利潤預增118.35%-137.01%】焦作萬方公告稱，預計2026年上半年歸屬於上市公司股東的淨利潤為11.70億元-12.70億元，同比增長118.35%-137.01%；扣除非經常性損益後的淨利潤為11.58億元-12.58億元，同比增長116.93%-135.66%。業績增長主要因電解鋁價格高位執行，公司加強銷售管理，營收同比增長；主要原材料氧化鋁採購價下降，公司最佳化採購策略、降低能耗，有效降低生產成本。
+
+---
+
+### 2026-07-10 16:42:21  #公司
+
+【長盈精密：為子公司崑山長盈3000萬元融資貸款提供擔保】長盈精密公告稱，公司此前已審議透過為子公司融資提供不超82.60億元擔保額度的議案。近日，公司與交通銀行崑山分行簽署《保證合同》，為全資子公司崑山長盈不超3000萬元融資貸款提供連帶責任保證。截至2026年7月8日，公司及子公司累計實際對外擔保餘額23.98億元，佔最近一期經審計歸母權益的28.73%，無逾期對外擔保等情形。
+
+---
+
+### 2026-07-10 16:41:54  #公司
+
+【盛和資源：2026年上半年淨利潤預增112.25%-146.75%】盛和資源公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為8億元-9.3億元，與上年同期相比增加4.23億元-5.53億元，同比增加112.25%-146.75%；扣除非經常性損益的淨利潤為7.9億元-9.2億元，同比增加117.32%-153.09%。業績增長因稀土主要產品市場需求向好，價格漲幅較大，公司最佳化產銷結構，加強管理與成本管控。
+
+---
+
+### 2026-07-10 16:41:31  #MKT News #Important #600030.SS #Impact bullish
+
+CITIC Securities expects H1 2026 net profit of RMB 23.343 billion, up 70.15% YoY.
+
+---
+
+### 2026-07-10 16:41:19  #公司
+
+【興發集團：擬變更557.62萬股回購股份用途並登出】興發集團公告稱，公司擬將存放於回購專用證券賬戶中的557.62萬股股份的回購用途，由“用於維護公司價值及股東權益”變更為“用於登出並減少註冊資本”。2026年1月27日至4月19日，公司累計回購股份557.62萬股，佔總股本的0.46%，支付資金22094.52萬元。本次變更已獲董事會透過，尚需股東會審議批准。登出完成後，公司總股本將由12.02億股減至11.96億股。
+
+---
+
+### 2026-07-10 16:40:54  #其他
+
+廣州富力2026年6月份總銷售收入約23.7億元人民幣，銷售面積達約679,100平方米。
+
+---
+
+### 2026-07-10 16:40:13  #公司 #國際
+
+【ST人福：尼達尼布軟膠囊獲得美國FDA批准文號】ST人福公告，全資子公司人福普克藥業（武漢）有限公司近日收到美國食品藥品監督管理局（FDA）關於尼達尼布軟膠囊的批准文號。藥品名稱為Nintedanib Capsules，劑型為軟膠囊，規格為100 mg和150 mg，被批准用於治療成人特發性肺纖維化（IPF）和具有進行性表型的慢性纖維化性間質性肺疾病。武漢普克於2023年9月向美國FDA遞交了尼達尼布軟膠囊ANDA申請並獲受理，截至目前累計研發投入約為700萬元人民幣。
 
 ---
 
@@ -19214,113 +19328,5 @@ The FTSE 100 Index Opens 0.39% Lower — The FTSE 100 Index is losing 41 points.
 ### 2026-07-09 15:31:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 The DAX Index Opens 0.53% Higher — The DAX Index is up by 132 points or 0.53 percent on Thursday. Top gainers are Infineon (2.89%), Siemens (2.22%) and Bayer (2.18%). Biggest losses came from Deutsche Telekom (-1.84%), Rheinmetall (-1.45%) and Beiersdorf (-0.99%).
-
----
-
-### 2026-07-09 15:30:42  #其他
-
-英國皇家郵政：因一項必要的技術升級，客戶支援服務將於7月11日下午3點至7月13日上午8點暫停運營。
-
----
-
-### 2026-07-09 15:30:39  #其他
-
-【378項兩岸共通標準落地 助力產業融合發展】今天（7月9日）上午，國家市場監督管理總局召開新聞釋出會，介紹海峽兩岸融合發展最新情況。國家市場監督管理總局標準創新司司長魏宏表示，兩年多來，兩岸產學研企各相關方聚焦產業和經貿發展需求，共同研製實施兩岸共通標準達378項，涉及特色農產品、現代服務業、食品、新能源、文化旅遊等多個領域。（央視新聞）
-
----
-
-### 2026-07-09 15:30:10  #國際
-
-【北約峰會關切中國軍事活動，外交部：北約應端正對華認知】7月9日，外交部發言人毛寧主持例行記者會。有外媒記者提問，在近期舉行的北約峰會上，各方就中國在技術、軍事活動以及與俄羅斯關係方面的問題提出了安全關切。中方對此有何回應？毛寧表示，北約的定位是區域性防禦性聯盟，具有明確的職責範圍和地理界限，不要總是拿中國說事兒。毛寧強調，中國始終是世界的和平力量，從未威脅任何國家，更不會對歐洲大西洋地區的安全構成挑戰。北約應當摒棄冷戰思維，端正對華認知，停止渲染中國威脅。（澎湃新聞）
-
----
-
-### 2026-07-09 15:30:06  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is gaining 36 points or 0.44 percent on Thursday. Leading the gains are STMicroelectronics (3.53%), Societe Generale (2.57%) and ArcelorMittal (2.31%). Top losers are Capgemini (-2.71%), Pernod Ricard (-1.22%) and Thales (-1.01%).
-
----
-
-### 2026-07-09 15:29:46  #國際
-
-【外交部：美對中方導彈試射說三道四 是典型的雙重標準】7月9日，外交部發言人毛寧主持例行記者會，有記者就美國對中方導彈試射言論提問。毛寧表示，正如中方多次強調，這次試射活動是年度軍事訓練的例行安排，旨在驗證有關武器系統的可靠性、安全性和有效性，符合國際法和國際慣例，不針對任何特定的國家和目標。中方及時釋出了相關資訊，事先向美國等進行了通報，體現了中國軍隊的開放和透明。美國作為世界上唯一一個真正用核的國家，也是擁有世界上最龐大、最先進核武庫的國家，對中國正常的導彈發射說三道四，這是典型的雙重標準和霸權主義。（央視新聞）
-
----
-
-### 2026-07-09 15:29:27  #國際
-
-【外交部：願以2026世界人工智慧大會為契機推動人工智慧普惠向善】7月9日，外交部發言人毛寧主持例行記者會。有記者就中國與全球南方國家在人工智慧領域合作提問。毛寧表示，中國開源模型大幅降低了人工智慧使用的門檻與成本，有效助力各方特別是發展中國家在智慧浪潮中平等受益。中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，我們願意以此次大會為契機，同各方一道共商技術創新，共促成果賦能，共建包容生態，推動人工智慧普惠向善，為全球人工智慧發展注入新的動力。（央視新聞）
-
----
-
-### 2026-07-09 15:29:12  #國際
-
-德國總理默茨：已與美國就“戰斧”巡航導彈的採購與部署達成協議。
-
----
-
-### 2026-07-09 15:29:01  #國際
-
-【外交部：中方願同朝方一道加強戰略溝通 密切交往合作】7月9日，外交部發言人毛寧主持例行記者會。有記者提問，發言人可否介紹下朝鮮內閣總理樸泰成訪華的背景和中方的期待？毛寧表示，中朝是傳統友好鄰邦，維護好、鞏固好、發展好中朝關係，始終是中國黨和政府堅定不移的戰略方針。今年是《中朝友好合作互助條約》簽訂65週年，雙方商定將共同隆重舉辦紀念活動。中方願同朝方一道，以兩黨、兩國最高領導人重要共識為指引，加強戰略溝通，密切交往合作，推動中朝傳統友好合作關係不斷向前發展。（央視新聞）
-
----
-
-### 2026-07-09 15:28:58  #公司
-
-【東陽光等成立化工公司】企查查APP顯示，近日，乳源東鑫化工有限公司成立，法定代表人為鄒建生，註冊資本為1000萬元，經營範圍包含：專用化學產品製造（不含危險化學品）；食品新增劑銷售；食品新增劑生產；消毒劑生產等。企查查股權穿透顯示，該公司由瀘州鑫福化工股份有限公司、東陽光全資子公司乳源東陽光電化廠共同持股。
-
----
-
-### 2026-07-09 15:28:28  #其他
-
-德國總理默茨：加拿大潛艇交易將創造1000億歐元價值。
-
----
-
-### 2026-07-09 15:28:10  #國際
-
-美國駐黎巴嫩大使：黎以談判轉移至羅馬系出於技術原因。
-
----
-
-### 2026-07-09 15:27:54  #央行 #宏觀 #國際
-
-【馬來西亞央行維持利率不變 稱通脹溫和且經濟增長具有韌性】馬來西亞連續第六次會議維持基準利率不變，稱儘管中東衝突不斷，但物價壓力依然可控，因此目前的利率水平是合適的。馬來西亞央行週四將隔夜政策利率維持在2.75%，與彭博調查的25位經濟學家中24位的預期一致。央行上一次調整利率是在2025年7月，當時降息0.25個百分點。該央行表示，“全球經濟增長仍面臨下行風險，主要源於衝突帶來的持續不確定性、全球金融環境趨緊以及對金融市場估值過高的擔憂。上行潛力包括供應鏈狀況復甦速度快於預期、科技支出增加以及主要經濟體出臺的促增長政策。”
-
----
-
-### 2026-07-09 15:27:35  #其他
-
-【商務部：6000餘個消費“三新”試點專案有望帶動超3000億元投資】7月9日，商務部服貿司副司長左曉玻表示，50個消費新業態新模式新場景試點（即消費“三新”試點）城市已基本完成資金專案管理辦法制定、首批專案徵集等工作，各地消費創新專案申報積極踴躍，已收集相關專案超過6000個，有望帶動社會投資超過3000億元。首批86億元支援資金正陸續撥付，一大批消費新業態新模式新場景專案正加快落地，消費帶動作用明顯。去年9月，消費“三新”試點正式啟動，支援50個城市開展試點工作，主要向人口基數大、帶動作用強、發展潛力好的超大特大城市傾斜。政策實施期為兩年。
-
----
-
-### 2026-07-09 15:27:16  #Trading Economics #Economy #Slovakia #Industrial Production #Importance 1
-
-Slovakia Industrial Output Falls at Softer Pace — Industrial production in Slovakia decreased by 2.0% year-on-year in May 2026, easing from a 3.2% drop in the previous month but still worse than market expectations of a 0.3% fall. This was the fourth consecutive month of decline, amid lower output in 11 out of the 15 monitored industrial sectors. A smaller decline was observed in the manufacture of transport equipment (-2.4% vs -5.4% in April), which continued to have the largest impact on overall production. At the same time, the manufacture of chemicals and chemical products rose 17.8%, accelerating from a 4.6% increase in the previous month. On the other hand, output in electricity and gas supply fell further (-3.7% vs -0.6%), and the manufacture of computer, electronic, and optical products dropped sharply (-10.3% vs 4.3%). On a seasonally adjusted monthly basis, industrial production was unchanged. In the first five months of 2026, industrial production was 1.3% lower than in the same period a year earlier.
-
----
-
-### 2026-07-09 15:26:26  #其他
-
-德國總理默茨：北約峰會成果遠超我的所有預期。
-
----
-
-### 2026-07-09 15:26:10  #公司
-
-【長城汽車在天津成立研發公司】企查查APP顯示，近日，天津長城汽車研發有限公司成立，法定代表人為吳會肖，經營範圍包含：新材料技術研發；汽車零部件研發；新能源汽車整車銷售；汽車銷售；動漫遊戲開發等。企查查股權穿透顯示，該公司由長城汽車間接全資持股。
-
----
-
-### 2026-07-09 15:25:51  #公司 #市場 #觀點
-
-【大摩：“美股七巨頭”估值溢價創十年新低 或迎來買入視窗】根據摩根士丹利財富管理全球投資委員會的資料，“美股七巨頭”相對於標普500指數中另外493只股票的估值溢價目前僅為10%，創下了十多年來的最低水平。“相比之下，我們認為這些超大規模雲巨頭現在看起來簡直太便宜了。” 摩根士丹利財富管理首席投資官Lisa Shalett在週二的一份報告中寫道。鑑於這一現狀，這位投資主管表示，她將逐步減持半導體股票的倉位，並選擇性地重新買入那些在這場AI競賽中最有望勝出的“七巨頭”公司。
-
----
-
-### 2026-07-09 15:25:39  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls Led by AstraZeneca — The FTSE 100 traded lower on Thursday, extending a 1.7% loss in the previous session, amid weakness in healthcare and energy stocks. AstraZeneca slumped 9% after its gene-silencing drug Wainua, developed with Ionis Pharmaceuticals, failed in a late-stage clinical trial to reduce heart complications in patients with a rare and potentially fatal cardiac disease. Energy majors also pressured the market, with Shell falling 0.8% and BP losing 1.3% as oil prices reversed earlier gains despite renewed tensions between the US and Iran. Concerns over the conflict, alongside uncertainty surrounding the durability of the ceasefire, have revived fears that higher energy prices could fuel inflation. Elsewhere, Severn Trent said trading remained in line with expectations after a strong start to its 2027 financial year. Meanwhile, the latest RICS survey showed UK house prices continued to decline in June, although the pace of falls eased slightly, suggesting the housing market may be stabilising.
 
 ---

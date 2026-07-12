@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-13 05:00:19_
-_本檔包含 3663 則快訊，約 626936 字_
+_更新時間：2026-07-13 06:03:35_
+_本檔包含 3663 則快訊，約 627263 字_
+
+---
+
+### 2026-07-09 15:30:42  #其他
+
+英國皇家郵政：因一項必要的技術升級，客戶支援服務將於7月11日下午3點至7月13日上午8點暫停運營。
+
+---
+
+### 2026-07-09 15:30:39  #其他
+
+【378項兩岸共通標準落地 助力產業融合發展】今天（7月9日）上午，國家市場監督管理總局召開新聞釋出會，介紹海峽兩岸融合發展最新情況。國家市場監督管理總局標準創新司司長魏宏表示，兩年多來，兩岸產學研企各相關方聚焦產業和經貿發展需求，共同研製實施兩岸共通標準達378項，涉及特色農產品、現代服務業、食品、新能源、文化旅遊等多個領域。（央視新聞）
+
+---
+
+### 2026-07-09 15:30:10  #國際
+
+【北約峰會關切中國軍事活動，外交部：北約應端正對華認知】7月9日，外交部發言人毛寧主持例行記者會。有外媒記者提問，在近期舉行的北約峰會上，各方就中國在技術、軍事活動以及與俄羅斯關係方面的問題提出了安全關切。中方對此有何回應？毛寧表示，北約的定位是區域性防禦性聯盟，具有明確的職責範圍和地理界限，不要總是拿中國說事兒。毛寧強調，中國始終是世界的和平力量，從未威脅任何國家，更不會對歐洲大西洋地區的安全構成挑戰。北約應當摒棄冷戰思維，端正對華認知，停止渲染中國威脅。（澎湃新聞）
+
+---
+
+### 2026-07-09 15:30:06  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is gaining 36 points or 0.44 percent on Thursday. Leading the gains are STMicroelectronics (3.53%), Societe Generale (2.57%) and ArcelorMittal (2.31%). Top losers are Capgemini (-2.71%), Pernod Ricard (-1.22%) and Thales (-1.01%).
+
+---
+
+### 2026-07-09 15:29:46  #國際
+
+【外交部：美對中方導彈試射說三道四 是典型的雙重標準】7月9日，外交部發言人毛寧主持例行記者會，有記者就美國對中方導彈試射言論提問。毛寧表示，正如中方多次強調，這次試射活動是年度軍事訓練的例行安排，旨在驗證有關武器系統的可靠性、安全性和有效性，符合國際法和國際慣例，不針對任何特定的國家和目標。中方及時釋出了相關資訊，事先向美國等進行了通報，體現了中國軍隊的開放和透明。美國作為世界上唯一一個真正用核的國家，也是擁有世界上最龐大、最先進核武庫的國家，對中國正常的導彈發射說三道四，這是典型的雙重標準和霸權主義。（央視新聞）
+
+---
+
+### 2026-07-09 15:29:27  #國際
+
+【外交部：願以2026世界人工智慧大會為契機推動人工智慧普惠向善】7月9日，外交部發言人毛寧主持例行記者會。有記者就中國與全球南方國家在人工智慧領域合作提問。毛寧表示，中國開源模型大幅降低了人工智慧使用的門檻與成本，有效助力各方特別是發展中國家在智慧浪潮中平等受益。中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，我們願意以此次大會為契機，同各方一道共商技術創新，共促成果賦能，共建包容生態，推動人工智慧普惠向善，為全球人工智慧發展注入新的動力。（央視新聞）
+
+---
+
+### 2026-07-09 15:29:12  #國際
+
+德國總理默茨：已與美國就“戰斧”巡航導彈的採購與部署達成協議。
+
+---
+
+### 2026-07-09 15:29:01  #國際
+
+【外交部：中方願同朝方一道加強戰略溝通 密切交往合作】7月9日，外交部發言人毛寧主持例行記者會。有記者提問，發言人可否介紹下朝鮮內閣總理樸泰成訪華的背景和中方的期待？毛寧表示，中朝是傳統友好鄰邦，維護好、鞏固好、發展好中朝關係，始終是中國黨和政府堅定不移的戰略方針。今年是《中朝友好合作互助條約》簽訂65週年，雙方商定將共同隆重舉辦紀念活動。中方願同朝方一道，以兩黨、兩國最高領導人重要共識為指引，加強戰略溝通，密切交往合作，推動中朝傳統友好合作關係不斷向前發展。（央視新聞）
+
+---
+
+### 2026-07-09 15:28:58  #公司
+
+【東陽光等成立化工公司】企查查APP顯示，近日，乳源東鑫化工有限公司成立，法定代表人為鄒建生，註冊資本為1000萬元，經營範圍包含：專用化學產品製造（不含危險化學品）；食品新增劑銷售；食品新增劑生產；消毒劑生產等。企查查股權穿透顯示，該公司由瀘州鑫福化工股份有限公司、東陽光全資子公司乳源東陽光電化廠共同持股。
+
+---
+
+### 2026-07-09 15:28:28  #其他
+
+德國總理默茨：加拿大潛艇交易將創造1000億歐元價值。
+
+---
+
+### 2026-07-09 15:28:10  #國際
+
+美國駐黎巴嫩大使：黎以談判轉移至羅馬系出於技術原因。
+
+---
+
+### 2026-07-09 15:27:54  #央行 #宏觀 #國際
+
+【馬來西亞央行維持利率不變 稱通脹溫和且經濟增長具有韌性】馬來西亞連續第六次會議維持基準利率不變，稱儘管中東衝突不斷，但物價壓力依然可控，因此目前的利率水平是合適的。馬來西亞央行週四將隔夜政策利率維持在2.75%，與彭博調查的25位經濟學家中24位的預期一致。央行上一次調整利率是在2025年7月，當時降息0.25個百分點。該央行表示，“全球經濟增長仍面臨下行風險，主要源於衝突帶來的持續不確定性、全球金融環境趨緊以及對金融市場估值過高的擔憂。上行潛力包括供應鏈狀況復甦速度快於預期、科技支出增加以及主要經濟體出臺的促增長政策。”
+
+---
+
+### 2026-07-09 15:27:35  #其他
+
+【商務部：6000餘個消費“三新”試點專案有望帶動超3000億元投資】7月9日，商務部服貿司副司長左曉玻表示，50個消費新業態新模式新場景試點（即消費“三新”試點）城市已基本完成資金專案管理辦法制定、首批專案徵集等工作，各地消費創新專案申報積極踴躍，已收集相關專案超過6000個，有望帶動社會投資超過3000億元。首批86億元支援資金正陸續撥付，一大批消費新業態新模式新場景專案正加快落地，消費帶動作用明顯。去年9月，消費“三新”試點正式啟動，支援50個城市開展試點工作，主要向人口基數大、帶動作用強、發展潛力好的超大特大城市傾斜。政策實施期為兩年。
+
+---
+
+### 2026-07-09 15:27:16  #Trading Economics #Economy #Slovakia #Industrial Production #Importance 1
+
+Slovakia Industrial Output Falls at Softer Pace — Industrial production in Slovakia decreased by 2.0% year-on-year in May 2026, easing from a 3.2% drop in the previous month but still worse than market expectations of a 0.3% fall. This was the fourth consecutive month of decline, amid lower output in 11 out of the 15 monitored industrial sectors. A smaller decline was observed in the manufacture of transport equipment (-2.4% vs -5.4% in April), which continued to have the largest impact on overall production. At the same time, the manufacture of chemicals and chemical products rose 17.8%, accelerating from a 4.6% increase in the previous month. On the other hand, output in electricity and gas supply fell further (-3.7% vs -0.6%), and the manufacture of computer, electronic, and optical products dropped sharply (-10.3% vs 4.3%). On a seasonally adjusted monthly basis, industrial production was unchanged. In the first five months of 2026, industrial production was 1.3% lower than in the same period a year earlier.
+
+---
+
+### 2026-07-09 15:26:26  #其他
+
+德國總理默茨：北約峰會成果遠超我的所有預期。
+
+---
+
+### 2026-07-09 15:26:10  #公司
+
+【長城汽車在天津成立研發公司】企查查APP顯示，近日，天津長城汽車研發有限公司成立，法定代表人為吳會肖，經營範圍包含：新材料技術研發；汽車零部件研發；新能源汽車整車銷售；汽車銷售；動漫遊戲開發等。企查查股權穿透顯示，該公司由長城汽車間接全資持股。
+
+---
+
+### 2026-07-09 15:25:51  #公司 #市場 #觀點
+
+【大摩：“美股七巨頭”估值溢價創十年新低 或迎來買入視窗】根據摩根士丹利財富管理全球投資委員會的資料，“美股七巨頭”相對於標普500指數中另外493只股票的估值溢價目前僅為10%，創下了十多年來的最低水平。“相比之下，我們認為這些超大規模雲巨頭現在看起來簡直太便宜了。” 摩根士丹利財富管理首席投資官Lisa Shalett在週二的一份報告中寫道。鑑於這一現狀，這位投資主管表示，她將逐步減持半導體股票的倉位，並選擇性地重新買入那些在這場AI競賽中最有望勝出的“七巨頭”公司。
+
+---
+
+### 2026-07-09 15:25:39  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls Led by AstraZeneca — The FTSE 100 traded lower on Thursday, extending a 1.7% loss in the previous session, amid weakness in healthcare and energy stocks. AstraZeneca slumped 9% after its gene-silencing drug Wainua, developed with Ionis Pharmaceuticals, failed in a late-stage clinical trial to reduce heart complications in patients with a rare and potentially fatal cardiac disease. Energy majors also pressured the market, with Shell falling 0.8% and BP losing 1.3% as oil prices reversed earlier gains despite renewed tensions between the US and Iran. Concerns over the conflict, alongside uncertainty surrounding the durability of the ceasefire, have revived fears that higher energy prices could fuel inflation. Elsewhere, Severn Trent said trading remained in line with expectations after a strong start to its 2027 financial year. Meanwhile, the latest RICS survey showed UK house prices continued to decline in June, although the pace of falls eased slightly, suggesting the housing market may be stabilising.
 
 ---
 
@@ -21944,113 +22052,5 @@ Spain's IBEX 35 fell as much as 1.00% intraday.
 ### 2026-07-08 15:03:45  #公司 #國際
 
 【穆迪：銀行主導地位和較高風險料將限制東南亞私募信貸】穆迪評級(Moody's Ratings)的Sally Yim在接受採訪時表示，在銀行佔據主導地位，且私募信貸機構擔心回報無法與較高的運營風險相匹配的情況下，東南亞的私募信貸尚未真正起飛。按本幣計算，更廣泛的亞太地區的私募信貸增速可能快於美國和歐洲。然而，東南亞的私募信貸增長似乎更為有限，主要集中在中端市場或陷入困境的公司。她說，東南亞的銀行通常流動性很強、資本充足，並且能夠提供定價合理的融資解決方案。她補充說，儘管如此，隨著該地區經濟的增長，一些行業將出現私募信貸可以填補的資金缺口，例如透過提供期限更長的融資。
-
----
-
-### 2026-07-08 15:03:33  #公司 #市場
-
-道達爾能源公司股價上漲1.9%，位居法國CAC 40指數漲幅榜首位。
-
----
-
-### 2026-07-08 15:03:27  #公司 #市場 #觀點
-
-漢莎航空股價下跌6.4%，此前花旗集團將漢莎航空評級下調至“賣出”。
-
----
-
-### 2026-07-08 15:03:17  #宏觀 #市場 #國際
-
-【光大期貨：地緣再起波瀾，燃料油開盤大漲】週三，能化板塊開盤異動，大多數品種開盤後價格快速拉昇。其中，燃料油漲幅居前，日內最大漲幅超6%，並伴隨主力增倉。地緣衝突再起，美軍中央司令部7日在社交媒體上釋出訊息說，美軍已開始對伊朗發起一系列有力的打擊，以回應此前伊朗襲擊三艘在霍爾木茲海峽通行的商船。由於霍爾木茲海峽局勢再生變化，美國財政部取消了允許開採、運輸、銷售和進口伊朗石油、石油產品及相關服務的許可證。該許可證於6月22日簽發，期限為60天，但在霍爾木茲海峽附近發生的三艘油輪遇襲事件後被撤銷。在原油供應格局產生擾動的背景下，燃料油價格再獲支撐。基本面來看，低硫方面，新加坡來自西方市場的低硫燃料油到貨量將在未來幾周增加。7月新加坡將從西方接收約120萬-130萬噸低硫燃料油，高於6月的約50萬-60萬噸，不過低硫供應至少在7月上半月仍將相對有限。高硫方面，受中東供應增加和殘渣級油品原料需求疲軟的影響，亞洲高硫燃料油市場短期內可能承壓；但發電行業的季節性需求逐步回升可能為基本面提供一定支撐。短期海外成品油結構性緊張恢復速度較慢，低硫供應受此影響供應仍然相對高硫偏緊，整體預計LU對FU價差或將維持偏高位水平。（光大期貨）
-
----
-
-### 2026-07-08 15:03:15  #其他
-
-【淡馬錫：目標到2031年將AI敞口從目前的6%提高至最高15%】淡馬錫表示，目標到2031年將人工智慧（AI）敞口從目前的6%提高至最高15%，投資組合價值升至創紀錄的5180億新元。
-
----
-
-### 2026-07-08 15:03:00  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Commander of Kyiv’s drone unit said Ukrainian drones struck nine oil tankers belonging to Russia’s "shadow fleet" in the Sea of Azov last night.
-
----
-
-### 2026-07-08 15:02:48  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
-
-China stocks closed mixed on Wednesday, July 8: China's Shanghai Composite fell 0.49% to 3,970.88; Shenzhen Composite dropped 1.87% to 14,939.73; CSI 300 Index declined 0.77% to 4,755.53; ChiNext Index slid 1.70% to 3,845.35; STAR 50 Index rose 0.73% to 2,016.23.
-
----
-
-### 2026-07-08 15:02:24  #國際
-
-基輔無人機部隊指揮官稱，烏克蘭無人機昨夜在亞速海襲擊了俄羅斯“影子艦隊”的九艘油輪。
-
----
-
-### 2026-07-08 15:02:16  #其他
-
-農發行發行10年期債券，規模50億元，發行利率1.7924%，預期1.8100%，投標倍數10.25倍。
-
----
-
-### 2026-07-08 15:02:11  #其他 #熱點2
-
-【北約公佈大規模軍購計劃】當地時間7日，北大西洋公約組織（北約）在該組織峰會期間公佈多項總額達數百億美元的軍購和防務投資計劃，涉及反無人機能力建設、無人機採購等。
-
----
-
-### 2026-07-08 15:02:06  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
-
-France Forex Reserves Drop to 8-Month Low — France’s official reserve assets fell to €355.39 billion at the end of June 2026 from €381.30 billion in May, marking the lowest level since October 2025, primarily due to a sharp decline in gold reserves. Gold holdings decreased by €27.81 billion from the previous month to €277.03 billion. Meanwhile, claims on the IMF increased to €39.46 billion from €38.85 billion in May, foreign currency reserves rose to €32.42 billion from €31.15 billion, and other reserve assets edged up to €6.48 billion from €6.46 billion. In June 2025, total reserve assets stood at €294.72 billion.
-
----
-
-### 2026-07-08 15:01:41  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities opened lower on Wednesday, July 8: DAX down 177.15 points (-0.69%) at 25,312.11; FTSE 100 down 33.71 points (-0.32%) at 10,632.17; CAC 40 down 49.27 points (-0.58%) at 8,386.97; Euro Stoxx 50 down 32.61 points (-0.52%) at 6,287.25; IBEX 35 down 131.27 points (-0.67%) at 19,508.93; FTSE MIB down 202.94 points (-0.39%) at 52,252.50.
-
----
-
-### 2026-07-08 15:01:39  #宏觀 #公司 #市場
-
-【A股收評：創業板指延續調整跌1.7%，算力租賃、AI伺服器方向逆勢走強】A股三大指數今日集體下跌，截至收盤，上證指數跌0.49%，深證成指跌1.87%，創業板指跌1.7%，北證50跌2.59%，科創50指數漲0.73%。全市場成交額25826億元，較上日成交額縮量159億元，全市場超3700只個股下跌。板塊題材上，油氣開採及服務、資料安全、雲端計算、旅遊及酒店、銀行、計算機裝置、ST板塊漲幅居前；能源金屬、電池、小金屬、培育鑽石、氟化工、工程機械、PCB概念、人形機器人、超級電容板塊跌幅居前。盤面上，今日市場炒作重點轉向交換機、AI伺服器、算力租賃方向，深信服、浪潮資訊、網宿科技等股收穫漲停，紫光股份、銳捷網路、星網銳捷漲幅居前。軟體板塊同樣表現活躍，綠盟科技20cm漲停，安恆資訊、金山辦公、亞信安全紛紛上漲。旅遊板塊表現出色，嶺南控股、西藏旅遊封死漲停，此前國務院原則同意《旅遊強國建設“十五五”規劃》。另一方面，新能源產業鏈集體下跌，上游鋰礦方向跌幅居前，天齊鋰業、盛新鋰能、永杉鋰業等股盤中跌停，龍蟠科技、石大勝華、恩捷股份等電池材料端同樣表現低迷。人形機器人概念股同樣表現不佳，綠的諧波大跌15%，奧比中光、昊志機電、斯菱智驅多股跟隨大跌。
-
----
-
-### 2026-07-08 15:01:39  #MKT News
-
-【China stock turnover CNY 2.56tn on July 8; Zhongji Xuchuang leads by turnover】Shanghai and Shenzhen turnover totaled CNY 2.56 trillion on July 8, down CNY 17.63 billion from the previous session. Shanghai turnover was CNY 1.19 trillion (previous CNY 1.196 trillion), trading volume 496 mln lots (prev 514 mln). Shenzhen turnover was CNY 1.37 trillion (previous CNY 1.385 trillion), trading volume 655 mln lots (prev 678 mln). Zhongji Xuchuang ranked first by turnover at CNY 36.32 billion, followed by Zhaoyi Innovation CNY 35.49 billion, BOE Technology A CNY 25.35 billion, Xinyisheng CNY 23.03 billion and Dongshan Precision CNY 22.80 billion.
-
----
-
-### 2026-07-08 15:01:35  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-【China index futures midday close】Midday: China stock index futures main contracts — CSI 300 (IF) down 0.78%, SSE 50 (IH) down 0.12%, CSI 500 (IC) down 0.72%, CSI 1000 (IM) down 1.58%.
-
----
-
-### 2026-07-08 15:01:31  #市場
-
-【ETF收評：資訊保安ETF領漲6.82%，機器人ETF領跌6.98%】ETF收盤漲跌不一，資訊保安ETF（159613）領漲6.82%，雲端計算ETF（159739）漲6.56%，港股通網際網路ETF（520790）漲6.39%，機器人ETF（159278）領跌6.98%，機器人ETF（159050）跌6.93%，機器人ETF（159272）跌6.81%。
-
----
-
-### 2026-07-08 15:01:29  #其他
-
-斯洛伐克5月貿易順差為5.806億歐元，路透調查預期為2.529億歐元，4月貿易資料修正後為2470萬歐元。
-
----
-
-### 2026-07-08 15:01:27  #MKT News #Important #Commodities #Energy #Industrial Metals #CNH #Impact bullish #WTI #Copper #Impact mixed
-
-At midday close, China’s main futures contracts were mostly higher. SC crude, low-sulfur fuel oil (LU) and fuel oil rose over 6%; benzene gained more than 5%; styrene (EB) and methanol climbed over 4%; propylene was up nearly 4% and polypropylene rose over 3%. On the downside, industrial silicon, stainless steel (SS) and lithium carbonate fell more than 2%; apples and cotton lost over 1%; Shanghai nickel, white sugar and cotton yarn were about 1% lower.
-
----
-
-### 2026-07-08 15:01:20  #國際
-
-【微軟裁員補償方案曝光：美國員工最高能拿39周基本工資遣散費】據《商業內幕》8日（今天）援引離職補償檔案稱，微軟將向被裁美國員工提供最高39周基本工資的遣散補償，這一上限適用於多數美國員工。
 
 ---
