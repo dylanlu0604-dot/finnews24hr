@@ -1,7 +1,36 @@
 {
   "date": "2026-07-13",
-  "count": 92,
+  "count": 95,
   "items": [
+    {
+      "id": "4983069",
+      "time": "2026-07-13 04:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟與巴林將在安全和貿易領域密切合作。"
+    },
+    {
+      "id": "4983068",
+      "time": "2026-07-13 04:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗宣傳機構今日宣稱，美軍三名軍人在科威特遭伊朗打擊身亡。此訊息不實。目前沒有任何報告顯示美軍人員在該地區出現傷亡，所有人員均已清點確認安全。"
+    },
+    {
+      "id": "mkt:019f5806-ec0f-7aab-8d46-e4ae8f0a39b7",
+      "time": "2026-07-13 04:31:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【CENTCOM: Iran's claim that three U.S. service members were killed in Kuwait is false】CENTCOM said today Iran's claim that three U.S. service members were killed in Kuwait is false. There have been no reports of U.S. casualties in the region; all personnel have been accounted for and are safe."
+    },
     {
       "id": "4983067",
       "time": "2026-07-13 04:24:48",

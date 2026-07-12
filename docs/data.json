@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-13 04:30:00",
-  "count": 16615,
+  "updated": "2026-07-13 04:33:47",
+  "count": 16617,
   "items": [
+    {
+      "id": "4983069",
+      "time": "2026-07-13 04:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟與巴林將在安全和貿易領域密切合作。"
+    },
+    {
+      "id": "4983068",
+      "time": "2026-07-13 04:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗宣傳機構今日宣稱，美軍三名軍人在科威特遭伊朗打擊身亡。此訊息不實。目前沒有任何報告顯示美軍人員在該地區出現傷亡，所有人員均已清點確認安全。"
+    },
+    {
+      "id": "mkt:019f5806-ec0f-7aab-8d46-e4ae8f0a39b7",
+      "time": "2026-07-13 04:31:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【CENTCOM: Iran's claim that three U.S. service members were killed in Kuwait is false】CENTCOM said today Iran's claim that three U.S. service members were killed in Kuwait is false. There have been no reports of U.S. casualties in the region; all personnel have been accounted for and are safe."
+    },
     {
       "id": "4983067",
       "time": "2026-07-13 04:24:48",
@@ -151434,14 +151463,6 @@
         "其他"
       ],
       "text": "【德國上調2027年舉債規模至1180億歐元】德國計劃將2027年新增淨髮債規模提升至1180億歐元，理由是稅收收入下滑、債務付息成本走高，同時勞動力市場配套資金需求增加。德國政府稱將透過嚴控開支、削減補貼、上調菸酒及塑膠製品相關稅費來緩解財政壓力；國防與基建支出不受舉債上限約束。"
-    },
-    {
-      "id": "4971112",
-      "time": "2026-07-06 04:31:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：在英國經歷多年“失敗的領導層治理”後，希望安迪·伯納姆能夠扭轉英國當下的局面。英國政壇已經出現嚴重問題，民眾迫切期待大刀闊斧的結構性改革。"
     }
   ]
 }
