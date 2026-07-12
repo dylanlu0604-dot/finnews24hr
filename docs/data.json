@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-13 06:49:37",
-  "count": 16650,
+  "updated": "2026-07-13 06:53:28",
+  "count": 16652,
   "items": [
+    {
+      "id": "4983131",
+      "time": "2026-07-13 06:52:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【塔里木油田西氣東輸供氣超4000億立方米】記者今天（13日）從中國石油獲悉，位於西氣東輸主力氣源地的塔里木油田累計向西氣東輸管網供氣突破4000億立方米，為下游近5億人口生產生活用氣提供了保障。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5888-5ee5-7aab-8d47-b452c4c4dc87",
+      "time": "2026-07-13 06:52:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CNPC said on the 13th the Tarim oilfield, the main gas source for the West–East Gas Pipeline, has cumulatively delivered over 400 billion cubic meters to the pipeline network, helping secure industrial and household gas supplies for nearly 500 million downstream people."
+    },
+    {
+      "id": "4983130",
+      "time": "2026-07-13 06:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國否認伊朗襲擊致3名美軍士兵死亡】當地時間7月12日，美軍中央司令部發布宣告稱，伊朗方面此前稱3名美國軍人在伊朗對科威特的襲擊中被打死，此說法不實。宣告表示，該地區沒有美國士兵死亡或受傷的報告。所有人員均已清點完畢。當天稍早時，伊朗方面有訊息稱，伊朗當天使用無人機對美軍位於科威特的目標發動襲擊，造成3名美國士兵死亡。"
+    },
+    {
+      "id": "4983129",
+      "time": "2026-07-13 06:50:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 OPEC公佈月度原油報告；\n② 次日00:30 美聯儲理事沃勒發表講話。"
+    },
+    {
+      "id": "mkt:019f5885-692a-7aab-8d47-aca6992dc976",
+      "time": "2026-07-13 06:49:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios, citing U.S. officials, said that in the past 24 hours roughly 20 commercial vessels transited the Strait of Hormuz in coordination with the U.S. military; several other vessels transited without coordinating."
+    },
     {
       "id": "4983128",
       "time": "2026-07-13 06:48:45",
@@ -151759,32 +151805,6 @@
         "其他"
       ],
       "text": "【四川綿竹地震目前未造成人員傷亡和房屋倒損】據中國地震臺網正式測定，5日23時03分、23時20分、23時30分，德陽綿竹市先後發生4.5級地震（北緯31.58度，東經103.98度）、4.0級地震（北緯31.55度，東經103.98度）、4.5級地震（北緯31.58度，東經104.00度），震源深度分別為20公里、15公里、18公里。地震發生後，德陽市和綿竹市兩級抗震救災指揮部啟動應急響應，組織開展災情排查等相關工作。經多輪排查，截至6日5時，地震未造成人員傷亡和房屋倒損，未發現交通、電力、通訊等設施受損情況。目前，排查工作仍在持續開展。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f347b-20e0-7aab-8ca5-aaf14a79c56f",
-      "time": "2026-07-06 06:51:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu says he will continue opposing Iran's nuclear program】Netanyahu said on the 5th (local time) he will continue to oppose Iran's nuclear program regardless of whether the US and Iran reach an agreement. He said the Israeli government will never allow Iran to obtain nuclear weapons to defend Israel's core interests."
-    },
-    {
-      "id": "4971152",
-      "time": "2026-07-06 06:50:50",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 15:00 瑞士6月失業率；\n② 16:30 歐元區7月Sentix投資者信心指數；\n③ 17:00 歐元區5月PPI，歐元區5月零售銷售；\n④ 21:45 美國6月標普全球服務業PMI終值；\n⑤ 22:00 美國6月ISM非製造業指數；\n⑥ 23:00 美聯儲理事沃勒等發表講話。"
-    },
-    {
-      "id": "4971151",
-      "time": "2026-07-06 06:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克曾就美國球員巴洛貢紅牌一事與國際足聯展開溝通。"
     }
   ]
 }

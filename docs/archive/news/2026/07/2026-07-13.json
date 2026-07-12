@@ -1,7 +1,53 @@
 {
   "date": "2026-07-13",
-  "count": 180,
+  "count": 185,
   "items": [
+    {
+      "id": "4983131",
+      "time": "2026-07-13 06:52:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【塔里木油田西氣東輸供氣超4000億立方米】記者今天（13日）從中國石油獲悉，位於西氣東輸主力氣源地的塔里木油田累計向西氣東輸管網供氣突破4000億立方米，為下游近5億人口生產生活用氣提供了保障。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5888-5ee5-7aab-8d47-b452c4c4dc87",
+      "time": "2026-07-13 06:52:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CNPC said on the 13th the Tarim oilfield, the main gas source for the West–East Gas Pipeline, has cumulatively delivered over 400 billion cubic meters to the pipeline network, helping secure industrial and household gas supplies for nearly 500 million downstream people."
+    },
+    {
+      "id": "4983130",
+      "time": "2026-07-13 06:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國否認伊朗襲擊致3名美軍士兵死亡】當地時間7月12日，美軍中央司令部發布宣告稱，伊朗方面此前稱3名美國軍人在伊朗對科威特的襲擊中被打死，此說法不實。宣告表示，該地區沒有美國士兵死亡或受傷的報告。所有人員均已清點完畢。當天稍早時，伊朗方面有訊息稱，伊朗當天使用無人機對美軍位於科威特的目標發動襲擊，造成3名美國士兵死亡。"
+    },
+    {
+      "id": "4983129",
+      "time": "2026-07-13 06:50:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 OPEC公佈月度原油報告；\n② 次日00:30 美聯儲理事沃勒發表講話。"
+    },
+    {
+      "id": "mkt:019f5885-692a-7aab-8d47-aca6992dc976",
+      "time": "2026-07-13 06:49:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios, citing U.S. officials, said that in the past 24 hours roughly 20 commercial vessels transited the Strait of Hormuz in coordination with the U.S. military; several other vessels transited without coordinating."
+    },
     {
       "id": "4983128",
       "time": "2026-07-13 06:48:45",
