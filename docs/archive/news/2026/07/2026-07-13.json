@@ -1,7 +1,18 @@
 {
   "date": "2026-07-13",
-  "count": 54,
+  "count": 55,
   "items": [
+    {
+      "id": "mkt:019f5772-801e-7aab-8d46-7ea08ab57887",
+      "time": "2026-07-13 01:49:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. strikes multiple sites in Iran's Hormozgan province; one killed, two wounded】Local government sources in Iran's Hormozgan province said on the 12th the U.S. launched strikes on multiple locations, including Qeshm Island, and explosions were reported in several areas including the provincial capital Bandar Abbas. Sources said the strikes killed one person and wounded two, who are receiving medical treatment."
+    },
     {
       "id": "4983042",
       "time": "2026-07-13 01:47:59",
