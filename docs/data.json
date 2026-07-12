@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-12 19:30:44",
+  "updated": "2026-07-12 19:34:48",
   "count": 16589,
   "items": [
+    {
+      "id": "mkt:019f5619-4c75-7aab-8d44-e5bb6d730731",
+      "time": "2026-07-12 19:32:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says responsibility for Strait of Hormuz traffic rests with Tehran, accuses US of imposing unauthorized southern route】Iran’s military spokesman said the Islamabad memorandum assigns responsibility for maritime traffic management in the Strait of Hormuz to Iran and accused the US of attempting to impose an unauthorized shipping route in the southern Strait, which would violate that memorandum. He said Tehran is coordinating a joint navigational arrangement with Oman for the strategic waterway. He warned that US strikes on Iranian islands, coasts or facilities have been met with decisive responses and said Saturday night’s US action was immediately retaliated. He added Iran’s armed forces have continued to strengthen readiness during and after the ceasefire, using the pause to enhance capabilities and update operational plans."
+    },
     {
       "id": "4982881",
       "time": "2026-07-12 19:26:16",
@@ -151177,15 +151189,6 @@
         "Impact bullish"
       ],
       "text": "【Peskov: Russia open to peace talks, expects U.S. mediation】Kremlin spokesman Peskov said Russia remains open to peace talks and expects the United States to play a mediating role; Moscow has welcomed visits by U.S. presidential envoys Witkov and Jared Kushner and, despite their prolonged absence, continues U.S. contact via existing channels. He said Ukrainian forces, citing front-line deterioration, have stepped up attacks on Russian infrastructure; Russian forces are creating a border security buffer with visible effects and are advancing steadily in the special military operation area. Peskov added that the EU’s shift into a military-political bloc has worsened the Ukraine situation and Russia hopes the EU will not undermine prospects for negotiations."
-    },
-    {
-      "id": "4970971",
-      "time": "2026-07-05 19:30:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【佩斯科夫：俄對和平談判持開放態度 期待美國進行調解】當地時間5日，俄羅斯總統新聞秘書佩斯科夫在當日播出的一檔節目中表示，烏克蘭武裝力量因前線局勢惡化，加大了對俄羅斯基礎設施的攻擊力度。俄軍正在邊境建立安全緩衝地帶，已可見具體成效。他還稱，俄軍在特別軍事行動區域按計劃穩步推進。佩斯科夫表示，歐盟轉變為軍事政治集團，使烏克蘭問題進一步惡化。俄方希望歐盟不要破壞和平談判的前景。佩斯科夫還表示，俄羅斯對和平談判仍持開放態度，並期待美國發揮調解作用。俄始終歡迎美總統特使威特科夫和特朗普的女婿庫什納到訪。在二人較長時間未到訪的情況下，俄羅斯仍透過現有渠道與美國保持接觸。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-07-12",
-  "count": 759,
+  "count": 760,
   "items": [
+    {
+      "id": "mkt:019f5619-4c75-7aab-8d44-e5bb6d730731",
+      "time": "2026-07-12 19:32:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says responsibility for Strait of Hormuz traffic rests with Tehran, accuses US of imposing unauthorized southern route】Iran’s military spokesman said the Islamabad memorandum assigns responsibility for maritime traffic management in the Strait of Hormuz to Iran and accused the US of attempting to impose an unauthorized shipping route in the southern Strait, which would violate that memorandum. He said Tehran is coordinating a joint navigational arrangement with Oman for the strategic waterway. He warned that US strikes on Iranian islands, coasts or facilities have been met with decisive responses and said Saturday night’s US action was immediately retaliated. He added Iran’s armed forces have continued to strengthen readiness during and after the ceasefire, using the pause to enhance capabilities and update operational plans."
+    },
     {
       "id": "4982881",
       "time": "2026-07-12 19:26:16",
