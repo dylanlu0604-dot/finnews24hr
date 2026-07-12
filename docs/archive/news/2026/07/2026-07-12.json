@@ -1,7 +1,25 @@
 {
   "date": "2026-07-12",
-  "count": 756,
+  "count": 758,
   "items": [
+    {
+      "id": "mkt:019f5611-ccbd-7aab-8d44-db7fa405c9d8",
+      "time": "2026-07-12 19:23:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Container ship attacked near Oman; 23 rescued from Cyprus‑flagged merchant vessel, one missing】UK Maritime Trade Operations said on the evening of the 11th a container ship in waters near Oman was attacked, suffering stern damage and an onboard fire; UKMTO said on the 12th the vessel's crew were rescued by local authorities. On the 12th, the Oman Maritime Safety Centre said a Cyprus‑flagged merchant ship suffered an incident about 4.4 nm off Musandam, near the Strait of Hormuz; Omani rescue units recovered 23 crew and provided emergency medical aid, and search continues for one crew member still missing."
+    },
+    {
+      "id": "mkt:019f5610-b08e-7aab-8d44-d3b10625b443",
+      "time": "2026-07-12 19:22:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zelenskiy orders political-strategy shift, cabinet reshuffle; PM Svyrydenko to lead key partner portfolio】President Zelenskiy said Ukraine is adjusting its political strategy and will assign experienced officials to lead priority foreign-policy areas including US relations and a Patriot manufacturing license, bilateral security cooperation, a European missile-defence project, EU accession, ties with neighbours (notably Poland and Hungary), Middle East/Gulf engagement and coordination with international actors that can help end the war. Domestically, Kyiv will boost frontline and border defenses, increase deliveries of weapons including multiple drone types and prioritise winter preparedness. Zelenskiy said state-owned enterprise reform and speedier implementation of reconstruction agreements will be accelerated. He signalled a personnel reshuffle, including a cabinet reorganisation, appointing Prime Minister Svyrydenko to oversee the new partner-focused portfolio and replacing heads of law-enforcement agencies."
+    },
     {
       "id": "4982880",
       "time": "2026-07-12 19:20:49",

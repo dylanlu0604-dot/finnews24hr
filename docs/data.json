@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-12 19:22:42",
-  "count": 16589,
+  "updated": "2026-07-12 19:26:45",
+  "count": 16588,
   "items": [
+    {
+      "id": "mkt:019f5611-ccbd-7aab-8d44-db7fa405c9d8",
+      "time": "2026-07-12 19:23:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Container ship attacked near Oman; 23 rescued from Cyprus‑flagged merchant vessel, one missing】UK Maritime Trade Operations said on the evening of the 11th a container ship in waters near Oman was attacked, suffering stern damage and an onboard fire; UKMTO said on the 12th the vessel's crew were rescued by local authorities. On the 12th, the Oman Maritime Safety Centre said a Cyprus‑flagged merchant ship suffered an incident about 4.4 nm off Musandam, near the Strait of Hormuz; Omani rescue units recovered 23 crew and provided emergency medical aid, and search continues for one crew member still missing."
+    },
+    {
+      "id": "mkt:019f5610-b08e-7aab-8d44-d3b10625b443",
+      "time": "2026-07-12 19:22:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zelenskiy orders political-strategy shift, cabinet reshuffle; PM Svyrydenko to lead key partner portfolio】President Zelenskiy said Ukraine is adjusting its political strategy and will assign experienced officials to lead priority foreign-policy areas including US relations and a Patriot manufacturing license, bilateral security cooperation, a European missile-defence project, EU accession, ties with neighbours (notably Poland and Hungary), Middle East/Gulf engagement and coordination with international actors that can help end the war. Domestically, Kyiv will boost frontline and border defenses, increase deliveries of weapons including multiple drone types and prioritise winter preparedness. Zelenskiy said state-owned enterprise reform and speedier implementation of reconstruction agreements will be accelerated. He signalled a personnel reshuffle, including a cabinet reorganisation, appointing Prime Minister Svyrydenko to oversee the new partner-focused portfolio and replacing heads of law-enforcement agencies."
+    },
     {
       "id": "4982880",
       "time": "2026-07-12 19:20:49",
@@ -151160,34 +151178,6 @@
         "國際"
       ],
       "text": "【佩斯科夫：俄對和平談判持開放態度 期待美國進行調解】當地時間5日，俄羅斯總統新聞秘書佩斯科夫在當日播出的一檔節目中表示，烏克蘭武裝力量因前線局勢惡化，加大了對俄羅斯基礎設施的攻擊力度。俄軍正在邊境建立安全緩衝地帶，已可見具體成效。他還稱，俄軍在特別軍事行動區域按計劃穩步推進。佩斯科夫表示，歐盟轉變為軍事政治集團，使烏克蘭問題進一步惡化。俄方希望歐盟不要破壞和平談判的前景。佩斯科夫還表示，俄羅斯對和平談判仍持開放態度，並期待美國發揮調解作用。俄始終歡迎美總統特使威特科夫和特朗普的女婿庫什納到訪。在二人較長時間未到訪的情況下，俄羅斯仍透過現有渠道與美國保持接觸。（央視新聞）"
-    },
-    {
-      "id": "4970970",
-      "time": "2026-07-05 19:25:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【張國清在新疆調研時強調 強化產業賦能 突出就業導向 提升中央企業援疆綜合效益】中共中央政治局委員、國務院副總理張國清2日至5日在新疆調研中央企業支援新疆產業發展和促進就業有關工作。他強調，要深入貫徹落實習近平總書記關於新疆工作的重要講話精神，完整準確全面貫徹新時代黨的治疆方略，強化產業賦能，突出就業導向，提升中央企業援疆綜合效益，為建設社會主義現代化新疆作出新的更大貢獻。（新華社）"
-    },
-    {
-      "id": "mkt:019f3204-ee7c-7aab-8ca2-a38d88877841",
-      "time": "2026-07-05 19:23:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said US President Trump did not ask Israel to halt operations targeting Hezbollah tunnels."
-    },
-    {
-      "id": "mkt:019f3204-ccb6-7aab-8ca2-99fbc577a450",
-      "time": "2026-07-05 19:23:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said reconstruction of Gaza must proceed only after armed groups are disarmed, and Gaza residents must be allowed to choose whether to remain in the Gaza Strip or leave."
     }
   ]
 }
