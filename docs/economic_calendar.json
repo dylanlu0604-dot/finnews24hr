@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-12 12:44:42",
+  "updated": "2026-07-12 12:48:42",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 395,
   "history_summary": {
-    "cached": 390,
-    "fetched": 5,
+    "cached": 395,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -3107,7 +3107,7 @@
                   "previous": "10154"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-07-12 12:44:39"
             },
             {
@@ -3165,7 +3165,7 @@
                   "previous": "5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-07-12 12:44:39"
             },
             {
@@ -8159,7 +8159,7 @@
                   "previous": "2.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-07-12 12:44:39"
             },
             {
@@ -8855,7 +8855,7 @@
                   "previous": "1.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-07-12 12:44:39"
             },
             {
@@ -10943,7 +10943,7 @@
                   "previous": "25.82"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-07-12 12:44:39"
             },
             {
@@ -26079,7 +26079,7 @@
           "previous": "10154"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-07-12 12:44:39"
     },
     {
@@ -26137,7 +26137,7 @@
           "previous": "5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-07-12 12:44:39"
     },
     {
@@ -31125,7 +31125,7 @@
           "previous": "2.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-07-12 12:44:39"
     },
     {
@@ -31821,7 +31821,7 @@
           "previous": "1.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-07-12 12:44:39"
     },
     {
@@ -33909,7 +33909,7 @@
           "previous": "25.82"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-07-12 12:44:39"
     },
     {
