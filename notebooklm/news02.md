@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-12 23:10:15_
-_本檔包含 3183 則快訊，約 628712 字_
+_更新時間：2026-07-13 00:09:04_
+_本檔包含 3170 則快訊，約 627337 字_
+
+---
+
+### 2026-07-10 16:17:41  #公司 #焦點
+
+【夏農芯創：預計2026年上半年淨利潤同比增長2117.54%～2434.34%】夏農芯創公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨利潤為35億元至40億元，比上年同期增長2,117.54%至2,434.34%。扣除非經常性損益後的淨利潤為33.9億元至38.9億元，比上年同期增長2,073.15%至2,393.67%。
+
+---
+
+### 2026-07-10 16:17:24  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+【Reports: Israel willing to join strikes on Iran; awaiting Trump decision】Israeli sources on the 10th told the US Israel is willing to participate in further military action against Iran and is awaiting a decision from US President Trump. Sources said a new round of US-Iran military clashes could last several days. The Israeli air force, air defenses and intelligence services are on high alert and are coordinating closely with US forces.
+
+---
+
+### 2026-07-10 16:15:49  #公司
+
+【雲維股份：重大資產重組仍在推進 最終實施存在不確定性】雲維股份公告稱，公司擬透過發行股份及支付現金的方式購買雲南電投、小龍潭礦務局、雲南合和（集團）股份有限公司合計持有的雲南能投紅河發電有限公司100%股權，該交易構成關聯交易及重大資產重組，不會導致公司實際控制人變更。公司股票於2024年12月9日起停牌，2024年12月23日起復牌。截至公告披露日，公司正積極推進相關工作，但交易各方尚未簽署正式協議，最終能否實施仍存在重大不確定性。
+
+---
+
+### 2026-07-10 16:14:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. aims to turn Strait of Hormuz disputes into broader security pressure on Iran】Zayden al-Kinani, founder of the Arab Perspectives Institute, said the Strait of Hormuz situation will become more complex as Iran seeks to strengthen sovereignty around the strait while the U.S. both seeks to contain that expansion and deepen its influence there. He said both sides are sidelining the strait’s trade and commercial dynamics in favor of military posturing, and that the U.S. intends to ensure any challenge to its presence in the strait is transformed into a direct security threat to Iran—an explicit strategy to prevent disputes remaining confined to the shipping lane and to place Iran itself at direct risk.
+
+---
+
+### 2026-07-10 16:14:38  #公司
+
+【電科院：控股股東胡醇國籍變更為加拿大】電科院公告稱，公司控股股東、實際控制人胡醇於2026年7月8日完成加拿大國籍入籍手續，個人身份資訊由“中國”變更為“加拿大”。其直接持有公司股份248,474,691股，佔總股本比例33.17%，截止公告日，尚未完成證券賬戶資料變更登記，完成後“持有人類別”將由“境內自然人”變為“境外自然人”，持股份額不變。公司企業性質仍為內資企業，控股股東、實控人不變。
+
+---
+
+### 2026-07-10 16:14:36  #公司
+
+【岱勒新材：實際控制人部分股份解除質押並再質押】岱勒新材公告稱，公司實際控制人段志明近日辦理部分股份解除質押及質押業務。2026年7月8日，其解除質押2600萬股，佔所持股份比例52%，佔總股本6.55%；7月9日，質押960萬股，佔所持股份19.2%，佔總股本2.42%，用於續貸償還債務。截至公告披露日，實際控制人及其一致行動人累計質押股份7525.37萬股，佔其所持股份比例59.71%，佔公司總股本18.95%。本次質押不影響公司經營，不存在平倉等風險。
+
+---
+
+### 2026-07-10 16:14:22  #公司
+
+【愛思開江蘇電池材料科技公司增資至32.4億 增幅約51%】天眼查App顯示，近日，愛思開電池材料科技（江蘇）有限公司發生工商變更，註冊資本由約21.4億人民幣增至約32.4億人民幣，增幅約51%。該公司成立於2018年9月，法定代表人為KIM CHEOL JOONG，經營範圍包括鋰離子電池隔膜和塗布薄膜的研發、製造、銷售及技術服務等，由SK ie technology Co.,Ltd.全資持股。
+
+---
+
+### 2026-07-10 16:14:09  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #Star Stocks #Xiaomi #Hang Seng Index #Impact bullish #01810.HK #00981.HK #Impact bearish
+
+【Hong Kong close: HSI up 0.6%, Hang Seng Tech down 0.21%】Hong Kong stocks closed with the HSI up 0.6% and the Hang Seng Tech Index down 0.21%. Market turnover was HKD 339.6 billion. Sector movers: chips, optical communications, PCB-related names and mobile gaming led declines; pharma outsourcing (CRO), defence, pork producers and autos were among the gainers. Stock moves: Zhipu (02513.HK) fell more than 19%; MINIMAX-W (00100.HK) down over 9%; Hua Hong (01347.HK) down over 8%; CATL (03750.HK) down nearly 8%; SMIC (00981.HK) down over 4%. Winners included Goldwind (02208.HK) up more than 8%; CK Hutchison (00001.HK) up over 7%; Leapmotor (09863.HK) up about 6%; WuXi AppTec (02359.HK) up over 4%; Xiaomi Group (01810.HK) up over 3%.
+
+---
+
+### 2026-07-10 16:13:44  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report projects OPEC+ production will increase by 5.3 mln b/d by 2027.
+
+---
+
+### 2026-07-10 16:13:14  #Trading Economics #Economy #Bulgaria #Construction Output #Importance 1
+
+Bulgaria Construction Output at 4-Month Low — Construction output in Bulgaria increased 5.6% year-on-year in May 2026, slowing from an upwardly revised 6.9% growth in the previous month and marking the weakest expansion since January. Growth moderated across most segments, notably in building construction (9.6% vs 12.3% in April) and civil engineering (2.7% vs 5.0%), while specialized construction activities grew at a slightly faster pace (3.4% vs 2.4%). On a seasonally adjusted monthly basis, construction output fell 0.8%, slipping further from a 0.1% drop in April. The monthly contraction was driven by declines in building construction (-0.9% vs -0.6%), civil engineering (-1.2% vs 0.8%), and specialized construction activities (-0.3% vs 0%).
+
+---
+
+### 2026-07-10 16:12:37  #公司
+
+【七彩化學：控股股東及其一致行動人補充質押280萬股】七彩化學公告稱，近日控股股東惠豐投資及臧婕將部分股份在紅塔證券辦理補充質押業務，惠豐投資質押90萬股，臧婕質押190萬股，合計280萬股，佔公司總股本0.70%，質押起始日為2026年7月9日，解除質押日期分別為9月1日和9月2日。截至公告披露日，控股股東及其一致行動人累計質押6412萬股，佔公司總股本16.07%，質押風險可控，不會對公司產生重大影響。
+
+---
+
+### 2026-07-10 16:12:20  #國際
+
+印度股票基金6月份連續第64個月實現資金流入。
+
+---
+
+### 2026-07-10 16:12:16  #Trading Economics #Economy #Bulgaria #Industrial Production #Importance 1
+
+Bulgaria Industrial Production Drops 4.8% — Bulgaria’s industrial production fell 4.8% year-on-year in May 2026, deepening from a downwardly revised 3.8% decline in April. Manufacturing output contracted more sharply (-3.9% vs. -0.3% in April), driven mainly by declines in fabricated metal products, except machinery and equipment (-32.1%), leather and related products (-31.8%), and motor vehicles, trailers and semi-trailers (-23.7%). Mining and quarrying activity also remained weak (-33.0% vs. -33.6%). In contrast, output from electricity, gas, steam and air conditioning supply rebounded (8.8% vs. -10.3%). By main industrial grouping, declines deepened for investment goods (-18.2% vs. -11.8%), intermediate goods (-6.2% vs. -5.9%), and consumer durables (-12.5% vs. -3.2%), while growth accelerated for energy goods (9.1% vs. 6.6%). Consumer non-durables rose at a broadly steady pace (0.4% vs. 0.7%). On a monthly basis, industrial output fell 0.2% in May, marking a second consecutive decline after a 4.6% drop in April.
 
 ---
 
@@ -19052,161 +19130,5 @@ Romania GDP Contracts for First Time Since 2020 — The Romanian economy contrac
 ### 2026-07-09 14:29:34  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
 
 HSBC forecasts gold to trade between $3,800 and $4,700 per ounce for the remainder of 2026, with a year-end target of $4,750/oz.
-
----
-
-### 2026-07-09 14:29:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-HSBC says gold prices will be volatile, driven by multiple factors that will at times offset one another.
-
----
-
-### 2026-07-09 14:28:02  #國際
-
-印度儲備銀行：將在流動性調節工具（LAF）項下開展規模為5000億盧比的隔夜可變利率回購（VRR）拍賣。
-
----
-
-### 2026-07-09 14:27:56  #MKT News
-
-Bahrain's military says it has foiled an Iranian attack.
-
----
-
-### 2026-07-09 14:27:44  #市場
-
-滙豐銀行預測，2027年末黃金價格將達到每盎司5025美元。
-
----
-
-### 2026-07-09 14:27:31  #國際
-
-巴林軍方表示，其已於週四挫敗了伊朗發動的襲擊。
-
----
-
-### 2026-07-09 14:27:26  #市場
-
-大盤主力淨流入超100億。
-
----
-
-### 2026-07-09 14:27:17  #其他
-
-滙豐銀行將2026年和2027年的平均金價預測分別從每盎司4864美元下調至4560美元、從每盎司5000美元下調至4925美元。
-
----
-
-### 2026-07-09 14:26:45  #其他
-
-【北京釋出山洪橙色預警：請公眾暫停涉山涉水戶外活動】市水務局與市氣象局2026年7月9日13時30分聯合釋出山洪災害風險橙色預警：預計7月10日14時至7月12日8時，平谷區、密雲區、房山區發生山洪災害可能性大（橙色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，防範山洪災害。
-
----
-
-### 2026-07-09 14:26:22  #市場
-
-滙豐銀行預計2026年剩餘時間黃金價格區間將維持在每盎司3800-4700美元；年底金價目標為每盎司4750美元。
-
----
-
-### 2026-07-09 14:26:03  #市場 #焦點
-
-現貨黃金突破4100美元/盎司，日內漲0.59%。
-
----
-
-### 2026-07-09 14:25:28  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Industry Association: China auto aftermarket consumption likely to see new incremental opportunities in H2】The Industry Association said two new policy measures will continue to be implemented in H2, supporting fresh incremental demand in the China auto aftermarket. New-product supply is expanding and market prices are relatively stable, underpinning further improvement in sector operating conditions. Risks include a volatile external environment, rising uncertainty and persistently weak domestic demand, leaving the industry under significant pressure. The association called for stabilizing policy expectations, strengthening regulatory guidance, closely monitoring international developments, managing risks and steadily expanding overseas markets.
-
----
-
-### 2026-07-09 14:25:12  #其他
-
-滙豐銀行表示，金價將呈現波動走勢，並受到諸多有時會相互抵消的因素影響。
-
----
-
-### 2026-07-09 14:24:58  #其他
-
-【百勝中國攜旗下品牌肯德基、必勝客等捐贈300萬元支援救災】近日，廣西、湖北等多地遭遇暴雨洪澇災害。百勝中國攜旗下品牌肯德基、必勝客、塔可鍾、小肥羊、黃記煌、拉瓦薩，透過中國鄉村發展基金會捐贈300萬元，用於支援災區緊急救援、受災群眾過渡安置階段生活保障及災後重建。
-
----
-
-### 2026-07-09 14:24:55  #公司 #國際
-
-【美國對進口自中國的金屬儲物櫃及其零部件發起第一次雙反日落複審調查】近日，美國商務部發布公告，對進口自中國的金屬儲物櫃及其零部件發起第一次反傾銷和反補貼日落複審調查。與此同時，美國國際貿易委員會（ITC）對上述涉案產品發起第一次反傾銷和反補貼日落複審產業損害調查，審查若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業構成的實質性損害是否將繼續或再度發生。利益相關方應於本公告發布之日起10日內向美國商務部進行應訴登記。利益相關方應於2026年7月31日前向美國國際貿易委員會提交回複意見，並最晚於2026年9月8日就該案回覆意見的充分性向美國國際貿易委員會提交評述意見。
-
----
-
-### 2026-07-09 14:24:33  #MKT News #Market Regions #Greater China #CSI300 #Impact mixed #Hang Seng Index
-
-【China Index Academy: property market still bottoming; recovery to remain uneven】China Index Academy said the property market remains in a bottoming phase and recovery will continue to be uneven. Looking to H2, second‑hand markets in core cities are likely to retain some activity; ongoing transaction improvement and stabilizing listings should further narrow price declines and strengthen price‑stability in some cities. For new homes, a low year‑earlier base in 2025 should help narrow national new‑home sales’ YoY declines in H2, but full market repair will take time. Continued launches of higher‑quality projects in core cities and supportive measures such as housing provident fund policies will provide some support; however, supply is likely to remain constrained under policies aimed at limiting new additions and reducing inventories, so recovery is expected to be structural and led by quality supply. On construction and investment, developer cash‑flow pressure and sales‑driven investment strategies mean new starts and real estate development investment are expected to remain at low levels.
-
----
-
-### 2026-07-09 14:24:31  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver up 1.00% intraday at $58.90/oz.
-
----
-
-### 2026-07-09 14:24:15  #Trading Economics #Markets #Thailand #Stock Market #Importance 1
-
-Thailand Stocks Rally on Investment Boost, Rising Consumer Mood — Thailand’s SET50 Index climbed 13 points, or 1.2%, to 1,053 on Thursday afternoon, snapping a three-day losing streak as stronger U.S. futures lifted sentiment after Wall Street’s mixed close and Fed minutes underscored caution. Locally, momentum was buoyed by the Board of Investment’s approval of nine projects worth nearly USD 2 billion spanning AI, advanced electronics, aviation, clean energy, and food to support long-term competitiveness. June consumer sentiment hit a three-month high, reversing a four-month slide, aided by easing Middle East tensions and Bangkok’s sweeping subsidy plan to curb costs. Producer manufacturing and electronic tech led gains, followed by utilities, industrial services, and retail. Still, warnings from Bank of Thailand board members highlighted risks that prolonged easing could erode fiscal and monetary space and weigh on credit ratings. Standouts included Asset World Corp. (3.2%), Bangkok Bank (2.4%), and Cal-Comp Electronics (3.6%).
-
----
-
-### 2026-07-09 14:23:25  #MKT News #CNH #Impact mixed #CSI300 #Hang Seng Index
-
-【Industry Association: June domestic passenger vehicle sales 1.497 mln units, MoM +3.7%】Industry Association data: June domestic passenger vehicle sales 1.497 mln units, up 3.7% MoM and down 26.4% YoY. Conventional-fuel passenger car sales 490,000 units, down 1.3% MoM and 49.9% YoY (−489,000 units). Jan–Jun domestic passenger vehicle sales 8.288 mln units, down 24.3% YoY; Jan–Jun conventional-fuel passenger car sales 3.694 mln units, down 31.9% YoY (−1.732 mln units).
-
----
-
-### 2026-07-09 14:23:23  #市場
-
-現貨白銀日內漲1%，現報58.86美元/盎司。
-
----
-
-### 2026-07-09 14:23:22  #觀點
-
-【分析師：德國兩年期國債收益率上升空間料有限】Metzler分析師Leon Ferdinand Bost和Uwe Hohmann在一份報告中表示，新一輪能源價格衝擊可能會對德國國債收益率曲線的短端造成進一步壓力。不過，他們認為在目前水平下，德國兩年期國債收益率的上升空間有限。“它們嚴重滯後於油價的下跌，這意味著我們已經在接近年度高點的位置交易，“這些分析師表示。他們認為，即使在負面情境下，高於3%的10年期德國國債收益率也具有吸引力。根據Tradeweb的資料。根據倫敦證券交易所集團的資料，開盤後不久，兩年期德國國債收益率下跌1.8個基點，至2.681%，而10年期德國國債收益率下跌1.9個基點，至3.065%。
-
----
-
-### 2026-07-09 14:22:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold reached $4,100/oz, up 0.55% intraday.
-
----
-
-### 2026-07-09 14:22:24  #市場 #焦點
-
-紐約期金突破4110美元/盎司，日內漲0.68%。
-
----
-
-### 2026-07-09 14:22:20  #公司 #市場
-
-【三連板後提示風險，大恆科技股價早盤大跌，公司回應】7月9日上午，大恆科技股價大跌，盤中跌幅一度超過7%。此前，公司曾連續三個交易日漲停。對於股價大幅波動，大恆科技方面回應，經公司核實，沒有什麼特殊的情況。公司機器視覺及資訊科技業務不和終端機器人廠商直接有合作，公司是供應鏈的中上游，給供應鏈廠商提供一些零部件以及解決方案和監測裝置。訂單及業務情況以公司公告為準。對於電視數字網路編輯及播放系統業務，大恆科技方面表示，中科大洋主要做一些廣播電臺的招投標，傳統廣播業務景氣度欠佳，還是要看市場整體的情況。（中證金牛座）
-
----
-
-### 2026-07-09 14:21:57  #MKT News
-
-New York silver futures rose 1.00% intraday to $59.32/oz.
-
----
-
-### 2026-07-09 14:21:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says two days of U.S. strikes killed 14, injured 78】Iran’s health ministry said in a statement on the 9th local time that U.S. military airstrikes on the 8th and 9th across five Iranian provinces killed 14 and injured 78.
-
----
-
-### 2026-07-09 14:21:51  #Trading Economics #Economy #Germany #Balance of Trade #Importance 3
-
-German Trade Surplus Largest in 3 Months — Germany's trade surplus widened to €19.1 billion in May 2026 from an upwardly revised €14.7 billion in April, surpassing market expectations of €14.8 billion. It was the largest trade surplus since February, as exports rose while imports fell. Exports unexpectedly increased by 0.9% month-on-month to an over 3½-year high of €137.9 billion in May 2026, accelerating from a downwardly revised 0.8% increase in April and beating market expectations of a 0.3% decline. Exports to third countries rose 3.6%, supported by a 23.1% surge in shipments to the US, Germany's largest export market. Meanwhile, imports fell 2.5% month-on-month to a three-month low of €118.8 billion in May 2026, reversing a marginally revised 1.1% increase in the previous month and missing market expectations of a 0.1% increase. Imports from EU member states fell 2.5%, while those from non-EU countries dropped 2.6%, amid a decline in shipments from China (-2.0%).
 
 ---

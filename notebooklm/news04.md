@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-12 23:10:15_
-_本檔包含 3409 則快訊，約 629165 字_
+_更新時間：2026-07-13 00:09:04_
+_本檔包含 3402 則快訊，約 628553 字_
+
+---
+
+### 2026-07-08 14:38:22  #其他
+
+希臘總理：希臘將大幅提前完成北約5%防務開支目標。
+
+---
+
+### 2026-07-08 14:37:44  #MKT News #Commodities #Industrial Metals #09696.HK #Impact bearish
+
+TTANQT LITHIUM A-shares hit the daily down limit; turnover exceeded CNY3.5 bln. Its H-shares (09696.HK) fell more than 7.5%.
+
+---
+
+### 2026-07-08 14:37:38  #市場
+
+A股ST板塊震盪反彈，ST達華、ST星農、*ST發展、ST洲際、*ST中巖、ST西王等多隻ST股午後封漲停板。
+
+---
+
+### 2026-07-08 14:37:28  #公司
+
+【浙商證券：維持兆馳股份“買入”評級，正式切入AI算力應用廣闊空間】浙商證券研報指出，兆馳股份800G光模組量產專案開工，正式切入AI算力應用廣闊空間。以月產交付140萬隻高速光模組的規模為假設，按常規800G左右的光模組價值量，並且以常規代工毛利率來估算，兆馳如果接下來實現規模量產交付的話，其利潤彈性增量會非常可觀。隨著2026年海外生產基地智慧化改造升級落地逐漸完成，生產成本的階段上升即將告一段落，公司傳統ODM的業績拖累有望得到改善。在關鍵客戶的認可與扶持下，兆馳一體化佈局的優勢會伴隨規模的提升逐漸明晰，向行業頭部競對靠攏指日可待。看好公司傳統業務在下半年LED漲價的背景下逐漸復甦，高速光模組業務Q4開始逐漸起量，明年有望延續這一發展趨勢，維持公司“買入”評級。
+
+---
+
+### 2026-07-08 14:37:02  #國際
+
+日本評級機構JCR確認尼康A+評級，展望下調至負面。
+
+---
+
+### 2026-07-08 14:36:43  #公司 #市場
+
+【大洋電機：實控人離婚案可能對港股IPO有影響】7月7日晚間，大洋電機公告稱，其董事長魯楚平之妻彭惠已訴請離婚並要求進行財產分割。魯楚平與彭惠合計持有大洋電機股權約26.82%，若按公告當日收盤價計算，兩人合計持股對應市值約54.8億元。7月8日下午，介面新聞以投資者身份致電大洋電機，相關工作人員表示，其實控人離婚案可能會對港股IPO有影響，目前公司還在綜合判斷。
+
+---
+
+### 2026-07-08 14:36:41  #公司
+
+【與華潤新能源完成併購重組合力衝刺深交所上市？中國政企合作基金回應】近日，中國政企合作投資基金股份有限公司（簡稱“中國政企合作基金”）釋出宣告稱，近日，公司關注到網路上流傳題為《華潤新能源控股有限公司與中國政企合作投資基金股份有限公司完成併購重組合力衝刺深交所上市》的不實報道。該報道全部內容均為虛假資訊，與公司實際情況嚴重不符。據中國政企合作基金介紹，自成立之日起，公司的一切經營活動均嚴格遵守國家法律法規及監管要求，從未開展或授權任何主體開展上述不實報道中所稱的任何活動。公司暫未籌劃併購重組、上市申報等資本運作事宜，亦未制定對應實施計劃。中國政企合作基金還表示，針對任何主體偽造、變造公司印章、營業執照、授權文書，或冒用公司及公司員工名義釋出虛假資訊、從事詐騙及其他一切侵犯公司合法權益的非法行為，公司將保留追究有關主體法律責任的權利。
+
+---
+
+### 2026-07-08 14:36:39  #市場
+
+【天齊鋰業觸及跌停】天齊鋰業觸及跌停，成交額35.02億元。
+
+---
+
+### 2026-07-08 14:36:37  #MKT News #Market Regions #Greater China
+
+【July 8: Agricultural Products Wholesale Price 200 Index down 0.08 points】The Ministry of Agriculture and Rural Affairs said the Agricultural Products Wholesale Price 200 Index was 110.35 on July 8, down 0.08 points from the previous day; the "vegetable basket" wholesale price index was 109.96, down 0.09 points. As of 14:00, national wholesale prices were: pork 15.43 yuan/kg (-0.1%); beef 65.78 yuan/kg (-1.1%); mutton 64.30 yuan/kg (+0.1%); eggs 9.49 yuan/kg (+0.2%); dressed chicken 17.34 yuan/kg (+0.2%).
+
+---
+
+### 2026-07-08 14:36:34  #公司
+
+【順豐獲批在港設立順豐保險，香港自保公司增至9家】記者從香港保險業監管局（以下簡稱“香港保監局”）獲悉，該局已向總部位於深圳、全球物流服務商順豐控股股份有限公司設立的順豐保險有限公司發出授權。至此，香港成立的專屬自保保險公司總數增至9家。（每經）
+
+---
+
+### 2026-07-08 14:36:17  #MKT News
+
+30-year government bond futures (TL) main contract rose 0.30% intraday to 113.96 yuan.
+
+---
+
+### 2026-07-08 14:36:06  #Trading Economics #Economy #Sweden #Household Spending MoM #Importance 1
+
+Swedish Household Spending Edges Down 0.1% — Household spending in Sweden edged down 0.1% month-on-month in May 2026, compared to the previous week's indicator of 0.7%, following a 0.7% fall in the previous month. Consumption declined for health (-4.5%), furnishings, household equipment and routine household maintenance (-1.7%), transport (-4.5%), alcoholic beverages, tobacco and narcotics (-2.1%), personal care, social protection and miscellaneous goods and services (-4.0%), and recreation, sport and culture (-0.1%). On a yearly basis, household consumption increased 2.1% in May, following a 1.7% rise in the preceding period.
+
+---
+
+### 2026-07-08 14:35:20  #公司
+
+【華夏幸福等被執行15.1億】天眼查法律訴訟資訊顯示，近日，華夏幸福基業股份有限公司等新增一則被執行人資訊，執行標的15.1億餘元，執行法院為河北省廊坊市中級人民法院。華夏幸福基業股份有限公司成立於1993年5月，法定代表人為王文學，註冊資本約39.1億人民幣，經營範圍包括房地產中介服務、提供施工裝置服務、企業管理諮詢等，由華夏幸福基業控股股份公司、香港中央結算有限公司等共同持股。
+
+---
+
+### 2026-07-08 14:34:49  #Trading Economics #Economy #Thailand #Government Bond 10Y #Importance 1
+
+Thailand 10Y Yield Nears 4-Month Low — Thailand's government bond yield fell to around 1.94% in early July, nearing its lowest level in four months, after the Bank of Thailand reaffirmed its accommodative policy stance. Minutes from its June meeting indicated policymakers would keep interest rates unchanged until the economy returns to its potential growth rate of at least 2.7%. The central bank said current monetary settings continue to support the recovery, with inflation contained within its 1%–3% target range and no immediate need for tightening. However, officials reiterated that rate hikes could be warranted if inflation becomes unanchored, financial stability risks intensify, or the economy reaches its growth potential. The BOT expects the economy to grow 2.3% this year before slowing to 1.8% in 2027, while warning that inflation risks persist from a potential El Niño event and geopolitical tensions in the Middle East.
+
+---
+
+### 2026-07-08 14:34:39  #公司 #國際
+
+【印尼新興市場地位面臨可能被下調的新威脅】由於全球指數提供商標普道瓊斯指數公司(S&P Dow Jones Indices)對印尼的市場透明度提出擔憂，該國的新興市場地位面臨可能被下調的新威脅。標普道瓊斯指數公司週二晚間表示，已將印尼列入觀察名單，此舉可能導致該國被降級至前沿市場，給這個已因投資者信心受挫而承壓的市場又蒙上了一層陰影。該指數提供商呼應了其一些同業先前曾提出的擔憂，特別指出了不透明的股權結構和市場流動性問題。該指數提供商稱：“如果情況惡化，標普道瓊斯指數公司可能會考慮對印尼證券實施特殊處理。”
+
+---
+
+### 2026-07-08 14:34:17  #其他
+
+【7月8日：“農產品批發價格200指數”比昨天下降0.08個點】據農業農村部監測，7月8日“農產品批發價格200指數”為110.35，比昨天下降0.08個點，“菜籃子”產品批發價格指數為109.96，比昨天下降0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.43元/公斤，比昨天下降0.1%；牛肉65.78元/公斤，比昨天下降1.1%；羊肉64.30元/公斤，比昨天上升0.1%；雞蛋9.49元/公斤，比昨天上升0.2%；白條雞17.34元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.11元/公斤，比昨天下降0.7%；重點監測的6種水果平均價格為7.18元/公斤，與昨天持平。鯽魚20.34元/公斤，比昨天上升0.5%；鯉魚14.35元/公斤，比昨天下降0.8%；白鰱魚10.22元/公斤，比昨天下降1.4%；大帶魚42.60元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大黃花魚、菜花、蓮藕、洋白菜和巨峰葡萄，幅度分別為5.7%、2.4%、1.2%、1.1%和0.8%；價格降幅前五名的是白蘿蔔、胡蘿蔔、韭菜、冬瓜和菠菜，幅度分別為4.4%、3.8%、3.2%、2.8%和2.7%。
+
+---
+
+### 2026-07-08 14:34:07  #公司
+
+【真愛美家成立科技新公司，含AI及物聯網業務】企查查APP顯示，近日，廣東數則科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；大資料服務；物聯網技術研發；物聯網技術服務等。企查查股權穿透顯示，該公司由真愛美家全資持股。
+
+---
+
+### 2026-07-08 14:33:57  #MKT News
+
+【Bahrain sounds air-defence alarm for third time in a day】On the morning of the 8th (local time), Bahrain sounded an air-defence alarm for the third time that day. The Interior Ministry urged residents to remain calm and seek the nearest shelter. No casualties have been reported so far.
+
+---
+
+### 2026-07-08 14:33:48  #市場
+
+首爾股市綜合股價指數（KOSPI）創2020年5月以來最低收盤點位。
+
+---
+
+### 2026-07-08 14:33:38  #其他
+
+【巴林一日內第三次拉響防空警報】總檯記者獲悉，當地時間8日上午，巴林境內再次拉響防空警報。這是巴林當天拉響的第三輪防空警報。巴林內政部門提醒民眾保持冷靜並前往最近的安全地點。目前暫無人員傷亡訊息。（央視新聞）
+
+---
+
+### 2026-07-08 14:33:29  #其他
+
+【斷網后里程還在增長？華為乾崑回應：資料真實，展示時做了平滑處理】7月8日，華為乾崑方面釋出了《關於乾崑智駕累計輔助駕駛里程顯示的說明》，對近期社交媒體上關於乾崑智駕累計輔助駕駛的討論進行了回應。華為乾崑方面稱：“當前官網上展示的‘乾崑智駕累計輔助駕駛里程’‘搭載乾崑智駕車輛累計行駛總里程’等資料，均來源於搭載了乾崑智駕ADS車輛（包含所有車型）的實際里程資料，並基於匿名化資料進行彙總。”對於累計輔助駕駛里程在斷網後仍顯示的問題，華為乾崑方面表示，乾崑智駕累計輔助駕駛里程、搭載乾崑智駕車輛累計行駛總里程等資料系基於真實里程資料動態展示。後臺里程資料每隔數秒傳輸至前端展示頁面，為避免網際網路傳輸時延及網路效能下降導致引入資料卡頓問題，在相關頁面展示資料時做了平滑處理，以連續滾動方式呈現，使頁面展示效果符合實際資料更新狀態，還原資料增長邏輯。即前端展示頁面每數秒從後臺獲取最新資料，此後將最新獲取資料與上一次獲取資料之間的變化過程用連續滾動的方式展示。“因此，如果網路中途短暫波動或中斷，前端展示頁面的資料滾動不會立刻停住，而是會基於波動或中斷前從後臺獲取到的最新資料繼續滾動，滾動時長與所獲取最新資料的增長量相關。如未收到最新資料，前端展示頁面會逐步停止滾動。”華為乾崑方面補充道。
+
+---
+
+### 2026-07-08 14:33:03  #MKT News
+
+Czech prime minister says the country will not meet this year’s 2% of GDP defence-spending target.
+
+---
+
+### 2026-07-08 14:32:59  #其他
+
+捷克總理巴比什表示，捷克今年將無法實現國防支出佔GDP 2%的目標。
+
+---
+
+### 2026-07-08 14:32:34  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+【Japan and South Korea stocks fall; KOSPI down over 5%】Japan's Nikkei 225 fell 1,437.91 points (-2.11%) to 66,819.05 on July 8. South Korea's KOSPI dropped 409.53 points (-5.35%) to 7,246.78 on July 8; the index briefly triggered an intraday temporary suspension mechanism. KOSPI is about 20% below its June high and is approaching a technical bear market.
+
+---
+
+### 2026-07-08 14:32:20  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Extend Rally — UK natural gas prices rose further to above 114 pence a therm on Wednesday, the highest in almost a month, as renewed tensions in the Middle East stoked fears of a new wave of supply disruptions. The US military launched strikes against Iran and revoked a license permitting the country to sell oil after three merchant vessels were struck in the Strait of Hormuz, including a Qatari LNG tanker. The fresh attacks threaten the interim deal reached last month that had reopened the vital shipping route. Additional support came from forecasts of an intense heatwave across parts of Northwest Europe, which is expected to boost electricity demand for air conditioning and increase gas-fired power generation. This comes amid a slower-than-usual pace of seasonal storage replenishment. Moreover, flows from Norway, currently the region's largest single pipeline supplier, fell slightly after seasonal maintenance was extended.
 
 ---
 
@@ -20341,197 +20491,5 @@ RBC raised Tesla (TSLA.O) price target to $500 from $475.
 ### 2026-07-07 12:40:26  #Trading Economics #Markets #India #Stock Market #Importance 1
 
 Sensex Climbs for Fifth Straight Day — India’s BSE Sensex edged up about 0.2% to 78,412, marking a fifth consecutive session of gains, as continued foreign fund inflows and upbeat corporate business updates offset caution ahead of the June-quarter earnings season. Sentiment remained supported by sustained foreign portfolio investor inflows, with overseas investors net buyers for a fourth straight session, alongside easing crude oil prices and favourable monsoon progress. Stock-specific moves were in focus following pre-earnings business updates. Titan advanced 3.4% after reporting robust growth in its consumer business, driven by strong jewellery sales, while Jubilant FoodWorks gained 3.2% after posting higher consolidated revenue. On the downside, Trent fell 11.1% and came under pressure after its quarterly revenue growth came in below some market expectations. Other notable gainers were IOL Chemicals (18.9%), RITES (8.3%), and Ramco (6.3%), while the biggest losers included Kalyan (-6.8%), Apollo (-5.0%), and BSE (-3.8%).
-
----
-
-### 2026-07-07 12:38:52  #公司
-
-【交通運輸部：優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段搶通保通】7月7日，交通運輸部影片排程廣西、廣東、海南、湖北、安徽、江蘇、遼寧、吉林、山東、內蒙古、雲南省(區)交通運輸主管部門及省交投、高速集團，山東、廣西、長江海事局，要求各單位要提高思想認識，樹牢底線思維，極限思維，始終把保障人民生命財產安全放在首位，重點做好交通運輸領域防汛工作，優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段的搶通保通。
-
----
-
-### 2026-07-07 12:38:17  #MKT News
-
-【Zhongfu Information wins contract to supply endpoint confidentiality inspection systems to specialized industrial unit】Zhongfu Information has won a procurement contract to deploy its Computer Confidentiality Security Inspection System and Confidentiality Guard system at a specialized industrial unit. The project implements Zhongfu’s computer confidentiality inspection solution in a business‑network environment.
-
----
-
-### 2026-07-07 12:37:25  #國際
-
-【俄稱將與美在烏問題上保持接觸】當地時間6日，美國總統特朗普在出席活動時稱，解決俄烏衝突將“比人們認為的要快得多”。俄羅斯副外長里亞布科夫當天對此回應說，如果美國準備在俄方向美方提出的方案基礎上採取行動，那麼衝突確實有可能很快得到解決。美方最近種種言行表明，他們傾向於放棄透過和平談判以及尋求妥協的方式來解決俄烏衝突。反對和平解決俄烏衝突的國家正試圖利用這一點，英法德以及北約和歐盟領導人試圖拉攏美國，這加劇了衝突緊張局勢。 里亞布科夫還表示，即便如此，俄方任何情況下也不會中斷俄美在烏克蘭問題上的接觸，俄美兩國工作層面的對話幾乎“每天都在進行”，兩國總統也保持著溝通。
-
----
-
-### 2026-07-07 12:37:14  #其他
-
-【四川為高溫戶外作業劃出三道“紅線”】近日，四川部分地區持續出現高溫天氣。7月6日，省人力資源社會保障廳釋出通知，要求各地把保護勞動者生命安全擺在首位，充分認識到高溫對環衛工人、快遞員、外賣員等戶外作業勞動者的危害，切實維護好高溫作業勞動者的合法權益，全力保障勞動者生命安全和身體健康。維護勞動者的休息權利，用人單位應合理安排高溫天氣下戶外工作時間，儘量避開酷熱時段作業，適當增加勞動者休息時間和輪換班次。日最高氣溫達到40攝氏度以上時，停止安排室外露天作業；日最高氣溫達到37攝氏度以上、40攝氏度以下時，室外露天作業時間累計不得超過6小時，不得安排在當日氣溫最高時段3小時內室外露天作業；日最高氣溫達到35攝氏度以上、37攝氏度以下時，採取換班輪休等方式，縮短室外露天作業連續工作時間，並不得安排加班。（四川日報）
-
----
-
-### 2026-07-07 12:35:34  #公司
-
-【軟通動力與曙光汽車集團攜手打造無人駕駛Robobus產品】7月2日，軟通動力旗下無錫軟通天馳智行科技有限公司（簡稱“軟通天馳”）與遼寧曙光汽車集團股份有限公司（簡稱“曙光汽車集團”）旗下丹東黃海汽車有限責任公司（簡稱“黃海汽車”）正式簽署合作協議，建立全面戰略合作關係，重點圍繞無人駕駛Robobus打造具備行業競爭力產品，共同推動智慧駕駛技術在商用車領域的規模化應用。此次全面合作，雙方將聚焦文旅接駁、園區通勤、城市微迴圈等核心場景，分階段完成無人駕駛Robobus的開發、測試與交付，逐步探索從示範執行到規模化商用的路徑。
-
----
-
-### 2026-07-07 12:35:14  #其他
-
-香港金管局總裁餘偉文：研究推出7天期離岸人民幣流動資金投標機制。
-
----
-
-### 2026-07-07 12:34:14  #其他
-
-【中孚資訊成功中標某特種工業單位終端保密檢查採購專案】近日，中孚資訊成功中標某特種工業單位終端保密檢查採購專案，專案將部署中孚計算機保密安全檢查系統及中孚密保衛士系統。值得關注的是，本專案成功實現中孚計算機保密安全檢查系統在業務網場景中的落地應用。
-
----
-
-### 2026-07-07 12:34:11  #市場
-
-巴基斯坦KSE-100指數開盤後上漲0.2%，至187,978.70點。
-
----
-
-### 2026-07-07 12:34:01  #MKT News
-
-India's NIFTY IT index rose 2%.
-
----
-
-### 2026-07-07 12:33:42  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Rises Further Ahead of MPOB Monthly Report — Malaysian palm oil futures extended gains, hovering above MYR 4,500 per tonne as firmer edible oil markets in China's Dalian and Chicago exchanges provided support. Stronger export demand also lifted prices, with cargo surveyors estimating July 1–5 palm oil shipments rose between 10.6% and 11.1% from the same period in June. However, further gains were capped by a stronger ringgit, alongside reports that imports by top buyer India fell to a 14-month low in June amid sluggish demand and narrowing price discounts compared with competing vegetable oils. Meanwhile, Reuters forecast that Malaysian palm oil inventories likely rose in June to their highest level on record for the month, as stronger production outpaced demand. Investors also remained cautious ahead of the Malaysian Palm Oil Board's monthly report due later this week. Meanwhile, upcoming June CPI and PPI data from China, another key buyer, will be closely watched for clues on demand.
-
----
-
-### 2026-07-07 12:32:57  #公司
-
-【國泰海通證券：維持騰訊控股“增持”評級 目標價619港元】國泰海通證券釋出研報稱，維持騰訊控股(00700)"增持"評級。騰訊作為最大的社交流量入口，AI有望重構平臺價值。該行預計騰訊26-28年營業收入為8270/8979/9710億元，經調整淨利潤為2713/3007/3277億元。參考可比公司估值，考慮到AI投入的短期不確定性，給予26年18xPE，對應目標價619港元。
-
----
-
-### 2026-07-07 12:32:55  #MKT News #HSBA.L
-
-【HSBC suspends lending to higher-risk private credit clients】Reportedly, HSBC in recent weeks told some clients it would not renew their loan agreements. The bank had earlier stopped lending to private credit funds that failed to deliver returns sufficient to compensate for their risk. HSBC said it will concentrate on supporting its most important clients globally and on transactions in regions it regards as having the greatest growth potential.
-
----
-
-### 2026-07-07 12:31:03  #其他
-
-【洪災已致廣西橫州4死8失聯】記者從7日中午舉行的南寧市防汛救災新聞釋出會獲悉，截至7日10時，南寧橫州市死亡4人、失聯8人。（新華社）
-
----
-
-### 2026-07-07 12:29:54  #公司
-
-【快粼光電完成千萬級天使輪融資，推動超高速光探測晶片量產落地】7月7日訊息，介面新聞獲悉，快粼光電已於6月完成數千萬元人民幣的天使輪融資。本輪融資由小苗朗程領投，一村資本跟投。此次募集資金將用於公司超高速光探測晶片的研發迭代、推動國產單波200G/400G PD晶片量產落地以及企業高階人才引進。自2024年成立以來，快粼光電卡位AI算力叢集與DCI（資料中心互聯）對光電器件的迫切需求，專注於高速、高功率III-V族光電探測晶片的研發，產品可應用於 800G、1.6T、3.2T 高速光互連，以及 LPO/LRO、NPO/CPO 等下一代資料中心網路架構。
-
----
-
-### 2026-07-07 12:28:16  #公司
-
-【滙豐暫停向風險較高的私募信貸客戶提供貸款】根據媒體援引三位知情人士的話報道，滙豐最近幾周告知部分客戶，將不再續簽其貸款協議；滙豐此前停止向那些未能提供足夠回報以彌補風險的私募信貸基金提供貸款。滙豐將專注於向風險較低的私募信貸基金提供貸款。滙豐表示，將聚焦在全球範圍內為最重要的客戶在該公司認為最具增長潛力的地區支援相關交易。
-
----
-
-### 2026-07-07 12:27:01  #Trading Economics #Economy #Egypt #Manufacturing PMI #Importance 1
-
-Egypt Non-Oil Private Sector Activity Lowest Since 2023 — The S&P Global Egypt PMI fell to 46.0 in June 2026 from 47.1 in May, signaling the sharpest contraction in the non-oil private sector in nearly three and a half years. Business conditions weakened as new orders fell at the fastest pace since November 2022, pressured by weak liquidity, supply disruptions, raw material shortages, and the Middle East conflict. Output, purchasing activity, and employment all contracted, although job losses eased slightly from May. Supply chain pressures remained elevated, with delivery times lengthening further due to shipping disruptions in the Strait of Hormuz, raw material shortages, and higher fuel costs. Meanwhile, input cost and output price inflation moderated from May's near-record highs, though fuel, raw material, and wage pressures remained significant. Looking ahead, business confidence stayed positive despite easing slightly from May, supported by expectations of reduced geopolitical disruptions and stronger government support.
-
----
-
-### 2026-07-07 12:26:40  #公司
-
-【螞蟻靈波釋出空間感知模型LingBot-Depth 2.0 聯合奧比中光加速產業落地】螞蟻集團旗下具身智慧公司靈波科技釋出空間感知模型LingBot-Depth2.0，基於1.5億規模資料進行訓練。此次還同步推出了LingBot-Depth2.0的視覺基座模型——LingBot-Vision。據瞭解，奧比中光最新推出的無本體資料採集產品矩陣中，RGB-D版本的EGO裝置會適配靈波科技專門為數採場景最佳化的LingBot-Depth版本，後續還將進一步整合更高階別商業版本模型。
-
----
-
-### 2026-07-07 12:25:28  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #SSE Composite
-
-【China State Planner says AI-related industry to grow over 30% this year】Deputy director Wang Ruomeng of the China State Planner’s Department of Innovation and High Technology Development said China’s AI-related industry exceeded CNY1 trillion last year and is preliminarily forecast to grow by more than 30% this year.
-
----
-
-### 2026-07-07 12:25:23  #MKT News
-
-Taiwan Weighted Index fell more than 2%.
-
----
-
-### 2026-07-07 12:24:25  #市場
-
-臺灣證交所加權股價指數下跌2%至45,622.91點。
-
----
-
-### 2026-07-07 12:23:31  #公司 #觀點
-
-【花旗再從摩根大通挖來一位高管 聘請Anuja Desai負責評級顧問業務】花旗集團挖來摩根大通訊用評級顧問Anuja Desai，該行在近期的招聘程序中從競爭對手那裡挖走了一系列高階銀行家。據媒體看到的一份內部備忘錄顯示，Desai將於9月下旬加入花旗，擔任董事總經理兼評級諮詢主管，常駐紐約。她將為全球客戶提供評級策略方面的諮詢，並與公司投資銀行業務的各個團隊緊密合作。Desai將向David Friedland彙報工作，後者是北美投資銀行業務聯席主管。自2022年以來，Desai一直擔任摩根大通評級諮詢業務的董事總經理。花旗集團的一位代表證實了備忘錄的內容。
-
----
-
-### 2026-07-07 12:23:01  #國際
-
-【加拿大告知阿聯酋當下不宜投資 境內可落地專案不足】英國《金融時報》援引三位不願具名官員訊息稱，加拿大重大專案辦公室於6月中旬向阿聯酋官方代表團表示，現階段並不適合阿聯酋赴加投資。阿聯酋代表團成員前來尋求投資合作，但加拿大重大專案辦公室予以婉拒，原因是境內暫無足夠可即時落地投建的專案。加拿大總理馬克・卡尼去年11月促成阿聯酋承諾的500億加元投資，目前資金尚未實際落地一分。阿聯酋外交部未回應置評請求；加拿大重大專案辦公室亦未作出回應。加拿大國際貿易部長曼德爾・錫杜發言人在答覆問詢時稱：“我們珍視與阿聯酋穩固且持續深化的雙邊關係。”
-
----
-
-### 2026-07-07 12:21:27  #國際
-
-【歐洲高溫引發山火，數萬人被迫緊急撤離】本週，歐洲多國迎來今夏第三波極端高溫，熱浪引發的山火在法國、希臘、葡萄牙和西班牙等國快速蔓延。受持續的高溫與乾旱影響，不僅數以萬計的居民被迫緊急撤離，歐洲脆弱的電力和核能供應系統也正面臨嚴峻“烤問”。（澎湃新聞）
-
----
-
-### 2026-07-07 12:21:02  #其他
-
-傑富瑞將盈透證券目標價從90美元上調至102美元。
-
----
-
-### 2026-07-07 12:19:41  #MKT News #LLY.O #Impact bullish
-
-JP Morgan raises Eli Lilly (LLY.N) PT to $1,400 from $1,300.
-
----
-
-### 2026-07-07 12:19:26  #其他
-
-【重慶釋出高溫橙色預警訊號，日最高氣溫將升至37℃以上】重慶市氣象臺2026年7月7日11時40分發布“高溫橙色預警訊號”，預計7日13:00-19:00，渝中、沙坪壩、大渡口、九龍坡、南岸、兩江新區、高新區、北碚、巴南、潼南、合川、大足、銅梁、璧山、榮昌、永川、江津、萬州、開州、雲陽、奉節、巫溪、巫山、彭水等24個區縣，日最高氣溫將升至37℃以上。
-
----
-
-### 2026-07-07 12:19:24  #公司 #觀點
-
-摩根大通將禮來公司目標股價從1300美元上調至1400美元。
-
----
-
-### 2026-07-07 12:19:08  #其他
-
-【強對流天氣已致湖北11人死亡 救援救災正有序開展】記者7日上午從湖北省相關部門獲悉，7月6日晚，湖北東部多地遭遇強對流天氣襲擊，發生強降雨和雷暴大風，部分鄉鎮出現龍捲風。截至目前，雷暴大風已造成1.46萬人受災，11人死亡，1人失聯，救援救災工作正有序開展，相關災情還在進一步核實。 (新華社)
-
----
-
-### 2026-07-07 12:18:08  #其他
-
-【河北釋出暴雨黃色預警訊號】河北省氣象臺2026年07月07日12時04分發布暴雨黃色預警訊號：過去6小時唐山、秦皇島南部已經出現50毫米以上的降水。預計7日下午到夜間，承德南部、唐山、秦皇島及上述地區的沿岸海域仍將有較強降水，部分地區6小時降水量可達50～70毫米或1小時降水量可達30～50毫米，個別地點超過100毫米，上述地區的山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險，請注意防範。
-
----
-
-### 2026-07-07 12:18:04  #國際
-
-【新加坡就301條款調查結論與美國展開磋商】新加坡在回應美國貿易代表辦公室(USTR)的301條款調查時，以書面評論的形式表示，新加坡沒有采取任何不合理或歧視性的行為、政策和做法，也沒有對美國商業造成負擔或限制。新加坡貿易與工業部在7月6日的信函中表示，沒有證據表明新加坡參與了與強迫勞動相關的、出口到美國的商品供應鏈。新加坡表示，正在就調查結果和擬議行動與美國貿易代表辦公室進行溝通。
-
----
-
-### 2026-07-07 12:15:22  #央行 #觀點 #國際
-
-【調查顯示馬來西亞央行料將按兵不動】接受媒體調查的九位經濟學家均預計，馬來西亞央行週四將再次把基準政策利率維持在2.75%不變。高盛在一份報告中表示，馬來西亞的通貨膨脹依然受到控制，這得益於政府的燃料補貼，這些補貼緩衝了全球能源成本上升對該國經濟的影響。該機構表示，最近下調補貼柴油價格預計也將進一步緩解價格壓力。高盛補充說，在此背景下，馬來西亞央行可能會保持貨幣政策設定不變。
-
----
-
-### 2026-07-07 12:14:30  #國際
-
-【日本輿論批評高市早苗“輕視國會”】多家日本媒體和各界人士近日對日本首相高市早苗出席國會審議及答辯情況提出批評，質疑其“輕視國會”。據日本《每日新聞》報道，截至6日，高市在本屆國會出席集中審議8次，累計29小時36分鐘，僅為過去5年間前首相菅義偉、岸田文雄、石破茂平均出席時間的40%左右。此外，根據日本朝野2025年達成的協議，在4月至6月例行國會會期內，應每月舉行一次黨首討論，但高市僅在今年5月出席過一次。在野黨方面6日在國會指出，本屆國會立法程序明顯放緩：2023年至2025年三屆例行國會期間，政府提交法案的透過率均接近98%；而本屆國會會期臨近結束，法案透過率只有73%。（新華社）
 
 ---

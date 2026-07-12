@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-12 23:10:15_
-_本檔包含 3676 則快訊，約 628628 字_
+_更新時間：2026-07-13 00:09:04_
+_本檔包含 3677 則快訊，約 628039 字_
+
+---
+
+### 2026-07-09 14:29:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+HSBC says gold prices will be volatile, driven by multiple factors that will at times offset one another.
+
+---
+
+### 2026-07-09 14:28:02  #國際
+
+印度儲備銀行：將在流動性調節工具（LAF）項下開展規模為5000億盧比的隔夜可變利率回購（VRR）拍賣。
+
+---
+
+### 2026-07-09 14:27:56  #MKT News
+
+Bahrain's military says it has foiled an Iranian attack.
+
+---
+
+### 2026-07-09 14:27:44  #市場
+
+滙豐銀行預測，2027年末黃金價格將達到每盎司5025美元。
+
+---
+
+### 2026-07-09 14:27:31  #國際
+
+巴林軍方表示，其已於週四挫敗了伊朗發動的襲擊。
+
+---
+
+### 2026-07-09 14:27:26  #市場
+
+大盤主力淨流入超100億。
+
+---
+
+### 2026-07-09 14:27:17  #其他
+
+滙豐銀行將2026年和2027年的平均金價預測分別從每盎司4864美元下調至4560美元、從每盎司5000美元下調至4925美元。
+
+---
+
+### 2026-07-09 14:26:45  #其他
+
+【北京釋出山洪橙色預警：請公眾暫停涉山涉水戶外活動】市水務局與市氣象局2026年7月9日13時30分聯合釋出山洪災害風險橙色預警：預計7月10日14時至7月12日8時，平谷區、密雲區、房山區發生山洪災害可能性大（橙色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，防範山洪災害。
+
+---
+
+### 2026-07-09 14:26:22  #市場
+
+滙豐銀行預計2026年剩餘時間黃金價格區間將維持在每盎司3800-4700美元；年底金價目標為每盎司4750美元。
+
+---
+
+### 2026-07-09 14:26:03  #市場 #焦點
+
+現貨黃金突破4100美元/盎司，日內漲0.59%。
+
+---
+
+### 2026-07-09 14:25:28  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Industry Association: China auto aftermarket consumption likely to see new incremental opportunities in H2】The Industry Association said two new policy measures will continue to be implemented in H2, supporting fresh incremental demand in the China auto aftermarket. New-product supply is expanding and market prices are relatively stable, underpinning further improvement in sector operating conditions. Risks include a volatile external environment, rising uncertainty and persistently weak domestic demand, leaving the industry under significant pressure. The association called for stabilizing policy expectations, strengthening regulatory guidance, closely monitoring international developments, managing risks and steadily expanding overseas markets.
+
+---
+
+### 2026-07-09 14:25:12  #其他
+
+滙豐銀行表示，金價將呈現波動走勢，並受到諸多有時會相互抵消的因素影響。
+
+---
+
+### 2026-07-09 14:24:58  #其他
+
+【百勝中國攜旗下品牌肯德基、必勝客等捐贈300萬元支援救災】近日，廣西、湖北等多地遭遇暴雨洪澇災害。百勝中國攜旗下品牌肯德基、必勝客、塔可鍾、小肥羊、黃記煌、拉瓦薩，透過中國鄉村發展基金會捐贈300萬元，用於支援災區緊急救援、受災群眾過渡安置階段生活保障及災後重建。
+
+---
+
+### 2026-07-09 14:24:55  #公司 #國際
+
+【美國對進口自中國的金屬儲物櫃及其零部件發起第一次雙反日落複審調查】近日，美國商務部發布公告，對進口自中國的金屬儲物櫃及其零部件發起第一次反傾銷和反補貼日落複審調查。與此同時，美國國際貿易委員會（ITC）對上述涉案產品發起第一次反傾銷和反補貼日落複審產業損害調查，審查若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業構成的實質性損害是否將繼續或再度發生。利益相關方應於本公告發布之日起10日內向美國商務部進行應訴登記。利益相關方應於2026年7月31日前向美國國際貿易委員會提交回複意見，並最晚於2026年9月8日就該案回覆意見的充分性向美國國際貿易委員會提交評述意見。
+
+---
+
+### 2026-07-09 14:24:33  #MKT News #Market Regions #Greater China #CSI300 #Impact mixed #Hang Seng Index
+
+【China Index Academy: property market still bottoming; recovery to remain uneven】China Index Academy said the property market remains in a bottoming phase and recovery will continue to be uneven. Looking to H2, second‑hand markets in core cities are likely to retain some activity; ongoing transaction improvement and stabilizing listings should further narrow price declines and strengthen price‑stability in some cities. For new homes, a low year‑earlier base in 2025 should help narrow national new‑home sales’ YoY declines in H2, but full market repair will take time. Continued launches of higher‑quality projects in core cities and supportive measures such as housing provident fund policies will provide some support; however, supply is likely to remain constrained under policies aimed at limiting new additions and reducing inventories, so recovery is expected to be structural and led by quality supply. On construction and investment, developer cash‑flow pressure and sales‑driven investment strategies mean new starts and real estate development investment are expected to remain at low levels.
+
+---
+
+### 2026-07-09 14:24:31  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver up 1.00% intraday at $58.90/oz.
+
+---
+
+### 2026-07-09 14:24:15  #Trading Economics #Markets #Thailand #Stock Market #Importance 1
+
+Thailand Stocks Rally on Investment Boost, Rising Consumer Mood — Thailand’s SET50 Index climbed 13 points, or 1.2%, to 1,053 on Thursday afternoon, snapping a three-day losing streak as stronger U.S. futures lifted sentiment after Wall Street’s mixed close and Fed minutes underscored caution. Locally, momentum was buoyed by the Board of Investment’s approval of nine projects worth nearly USD 2 billion spanning AI, advanced electronics, aviation, clean energy, and food to support long-term competitiveness. June consumer sentiment hit a three-month high, reversing a four-month slide, aided by easing Middle East tensions and Bangkok’s sweeping subsidy plan to curb costs. Producer manufacturing and electronic tech led gains, followed by utilities, industrial services, and retail. Still, warnings from Bank of Thailand board members highlighted risks that prolonged easing could erode fiscal and monetary space and weigh on credit ratings. Standouts included Asset World Corp. (3.2%), Bangkok Bank (2.4%), and Cal-Comp Electronics (3.6%).
+
+---
+
+### 2026-07-09 14:23:25  #MKT News #CNH #Impact mixed #CSI300 #Hang Seng Index
+
+【Industry Association: June domestic passenger vehicle sales 1.497 mln units, MoM +3.7%】Industry Association data: June domestic passenger vehicle sales 1.497 mln units, up 3.7% MoM and down 26.4% YoY. Conventional-fuel passenger car sales 490,000 units, down 1.3% MoM and 49.9% YoY (−489,000 units). Jan–Jun domestic passenger vehicle sales 8.288 mln units, down 24.3% YoY; Jan–Jun conventional-fuel passenger car sales 3.694 mln units, down 31.9% YoY (−1.732 mln units).
+
+---
+
+### 2026-07-09 14:23:23  #市場
+
+現貨白銀日內漲1%，現報58.86美元/盎司。
+
+---
+
+### 2026-07-09 14:23:22  #觀點
+
+【分析師：德國兩年期國債收益率上升空間料有限】Metzler分析師Leon Ferdinand Bost和Uwe Hohmann在一份報告中表示，新一輪能源價格衝擊可能會對德國國債收益率曲線的短端造成進一步壓力。不過，他們認為在目前水平下，德國兩年期國債收益率的上升空間有限。“它們嚴重滯後於油價的下跌，這意味著我們已經在接近年度高點的位置交易，“這些分析師表示。他們認為，即使在負面情境下，高於3%的10年期德國國債收益率也具有吸引力。根據Tradeweb的資料。根據倫敦證券交易所集團的資料，開盤後不久，兩年期德國國債收益率下跌1.8個基點，至2.681%，而10年期德國國債收益率下跌1.9個基點，至3.065%。
+
+---
+
+### 2026-07-09 14:22:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold reached $4,100/oz, up 0.55% intraday.
+
+---
+
+### 2026-07-09 14:22:24  #市場 #焦點
+
+紐約期金突破4110美元/盎司，日內漲0.68%。
+
+---
+
+### 2026-07-09 14:22:20  #公司 #市場
+
+【三連板後提示風險，大恆科技股價早盤大跌，公司回應】7月9日上午，大恆科技股價大跌，盤中跌幅一度超過7%。此前，公司曾連續三個交易日漲停。對於股價大幅波動，大恆科技方面回應，經公司核實，沒有什麼特殊的情況。公司機器視覺及資訊科技業務不和終端機器人廠商直接有合作，公司是供應鏈的中上游，給供應鏈廠商提供一些零部件以及解決方案和監測裝置。訂單及業務情況以公司公告為準。對於電視數字網路編輯及播放系統業務，大恆科技方面表示，中科大洋主要做一些廣播電臺的招投標，傳統廣播業務景氣度欠佳，還是要看市場整體的情況。（中證金牛座）
+
+---
+
+### 2026-07-09 14:21:57  #MKT News
+
+New York silver futures rose 1.00% intraday to $59.32/oz.
+
+---
+
+### 2026-07-09 14:21:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says two days of U.S. strikes killed 14, injured 78】Iran’s health ministry said in a statement on the 9th local time that U.S. military airstrikes on the 8th and 9th across five Iranian provinces killed 14 and injured 78.
+
+---
+
+### 2026-07-09 14:21:51  #Trading Economics #Economy #Germany #Balance of Trade #Importance 3
+
+German Trade Surplus Largest in 3 Months — Germany's trade surplus widened to €19.1 billion in May 2026 from an upwardly revised €14.7 billion in April, surpassing market expectations of €14.8 billion. It was the largest trade surplus since February, as exports rose while imports fell. Exports unexpectedly increased by 0.9% month-on-month to an over 3½-year high of €137.9 billion in May 2026, accelerating from a downwardly revised 0.8% increase in April and beating market expectations of a 0.3% decline. Exports to third countries rose 3.6%, supported by a 23.1% surge in shipments to the US, Germany's largest export market. Meanwhile, imports fell 2.5% month-on-month to a three-month low of €118.8 billion in May 2026, reversing a marginally revised 1.1% increase in the previous month and missing market expectations of a 0.1% increase. Imports from EU member states fell 2.5%, while those from non-EU countries dropped 2.6%, amid a decline in shipments from China (-2.0%).
 
 ---
 
@@ -21980,155 +22136,5 @@ US dollar index DXY fell below 101, down 0.09% intraday.
 ### 2026-07-08 14:38:34  #其他
 
 【水利部對四川宜賓高縣啟動水利抗震救災排程指揮機制】2026年7月8日6時12分和10時8分，四川省宜賓市高縣連續發生2次5.0級地震，震源深度分別為8千米和6千米。水利部迅即啟動水利抗震救災排程指揮機制，及時組織專題會商，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。（央視新聞）
-
----
-
-### 2026-07-08 14:38:22  #其他
-
-希臘總理：希臘將大幅提前完成北約5%防務開支目標。
-
----
-
-### 2026-07-08 14:37:44  #MKT News #Commodities #Industrial Metals #09696.HK #Impact bearish
-
-TTANQT LITHIUM A-shares hit the daily down limit; turnover exceeded CNY3.5 bln. Its H-shares (09696.HK) fell more than 7.5%.
-
----
-
-### 2026-07-08 14:37:38  #市場
-
-A股ST板塊震盪反彈，ST達華、ST星農、*ST發展、ST洲際、*ST中巖、ST西王等多隻ST股午後封漲停板。
-
----
-
-### 2026-07-08 14:37:28  #公司
-
-【浙商證券：維持兆馳股份“買入”評級，正式切入AI算力應用廣闊空間】浙商證券研報指出，兆馳股份800G光模組量產專案開工，正式切入AI算力應用廣闊空間。以月產交付140萬隻高速光模組的規模為假設，按常規800G左右的光模組價值量，並且以常規代工毛利率來估算，兆馳如果接下來實現規模量產交付的話，其利潤彈性增量會非常可觀。隨著2026年海外生產基地智慧化改造升級落地逐漸完成，生產成本的階段上升即將告一段落，公司傳統ODM的業績拖累有望得到改善。在關鍵客戶的認可與扶持下，兆馳一體化佈局的優勢會伴隨規模的提升逐漸明晰，向行業頭部競對靠攏指日可待。看好公司傳統業務在下半年LED漲價的背景下逐漸復甦，高速光模組業務Q4開始逐漸起量，明年有望延續這一發展趨勢，維持公司“買入”評級。
-
----
-
-### 2026-07-08 14:37:02  #國際
-
-日本評級機構JCR確認尼康A+評級，展望下調至負面。
-
----
-
-### 2026-07-08 14:36:43  #公司 #市場
-
-【大洋電機：實控人離婚案可能對港股IPO有影響】7月7日晚間，大洋電機公告稱，其董事長魯楚平之妻彭惠已訴請離婚並要求進行財產分割。魯楚平與彭惠合計持有大洋電機股權約26.82%，若按公告當日收盤價計算，兩人合計持股對應市值約54.8億元。7月8日下午，介面新聞以投資者身份致電大洋電機，相關工作人員表示，其實控人離婚案可能會對港股IPO有影響，目前公司還在綜合判斷。
-
----
-
-### 2026-07-08 14:36:41  #公司
-
-【與華潤新能源完成併購重組合力衝刺深交所上市？中國政企合作基金回應】近日，中國政企合作投資基金股份有限公司（簡稱“中國政企合作基金”）釋出宣告稱，近日，公司關注到網路上流傳題為《華潤新能源控股有限公司與中國政企合作投資基金股份有限公司完成併購重組合力衝刺深交所上市》的不實報道。該報道全部內容均為虛假資訊，與公司實際情況嚴重不符。據中國政企合作基金介紹，自成立之日起，公司的一切經營活動均嚴格遵守國家法律法規及監管要求，從未開展或授權任何主體開展上述不實報道中所稱的任何活動。公司暫未籌劃併購重組、上市申報等資本運作事宜，亦未制定對應實施計劃。中國政企合作基金還表示，針對任何主體偽造、變造公司印章、營業執照、授權文書，或冒用公司及公司員工名義釋出虛假資訊、從事詐騙及其他一切侵犯公司合法權益的非法行為，公司將保留追究有關主體法律責任的權利。
-
----
-
-### 2026-07-08 14:36:39  #市場
-
-【天齊鋰業觸及跌停】天齊鋰業觸及跌停，成交額35.02億元。
-
----
-
-### 2026-07-08 14:36:37  #MKT News #Market Regions #Greater China
-
-【July 8: Agricultural Products Wholesale Price 200 Index down 0.08 points】The Ministry of Agriculture and Rural Affairs said the Agricultural Products Wholesale Price 200 Index was 110.35 on July 8, down 0.08 points from the previous day; the "vegetable basket" wholesale price index was 109.96, down 0.09 points. As of 14:00, national wholesale prices were: pork 15.43 yuan/kg (-0.1%); beef 65.78 yuan/kg (-1.1%); mutton 64.30 yuan/kg (+0.1%); eggs 9.49 yuan/kg (+0.2%); dressed chicken 17.34 yuan/kg (+0.2%).
-
----
-
-### 2026-07-08 14:36:34  #公司
-
-【順豐獲批在港設立順豐保險，香港自保公司增至9家】記者從香港保險業監管局（以下簡稱“香港保監局”）獲悉，該局已向總部位於深圳、全球物流服務商順豐控股股份有限公司設立的順豐保險有限公司發出授權。至此，香港成立的專屬自保保險公司總數增至9家。（每經）
-
----
-
-### 2026-07-08 14:36:17  #MKT News
-
-30-year government bond futures (TL) main contract rose 0.30% intraday to 113.96 yuan.
-
----
-
-### 2026-07-08 14:36:06  #Trading Economics #Economy #Sweden #Household Spending MoM #Importance 1
-
-Swedish Household Spending Edges Down 0.1% — Household spending in Sweden edged down 0.1% month-on-month in May 2026, compared to the previous week's indicator of 0.7%, following a 0.7% fall in the previous month. Consumption declined for health (-4.5%), furnishings, household equipment and routine household maintenance (-1.7%), transport (-4.5%), alcoholic beverages, tobacco and narcotics (-2.1%), personal care, social protection and miscellaneous goods and services (-4.0%), and recreation, sport and culture (-0.1%). On a yearly basis, household consumption increased 2.1% in May, following a 1.7% rise in the preceding period.
-
----
-
-### 2026-07-08 14:35:20  #公司
-
-【華夏幸福等被執行15.1億】天眼查法律訴訟資訊顯示，近日，華夏幸福基業股份有限公司等新增一則被執行人資訊，執行標的15.1億餘元，執行法院為河北省廊坊市中級人民法院。華夏幸福基業股份有限公司成立於1993年5月，法定代表人為王文學，註冊資本約39.1億人民幣，經營範圍包括房地產中介服務、提供施工裝置服務、企業管理諮詢等，由華夏幸福基業控股股份公司、香港中央結算有限公司等共同持股。
-
----
-
-### 2026-07-08 14:34:49  #Trading Economics #Economy #Thailand #Government Bond 10Y #Importance 1
-
-Thailand 10Y Yield Nears 4-Month Low — Thailand's government bond yield fell to around 1.94% in early July, nearing its lowest level in four months, after the Bank of Thailand reaffirmed its accommodative policy stance. Minutes from its June meeting indicated policymakers would keep interest rates unchanged until the economy returns to its potential growth rate of at least 2.7%. The central bank said current monetary settings continue to support the recovery, with inflation contained within its 1%–3% target range and no immediate need for tightening. However, officials reiterated that rate hikes could be warranted if inflation becomes unanchored, financial stability risks intensify, or the economy reaches its growth potential. The BOT expects the economy to grow 2.3% this year before slowing to 1.8% in 2027, while warning that inflation risks persist from a potential El Niño event and geopolitical tensions in the Middle East.
-
----
-
-### 2026-07-08 14:34:39  #公司 #國際
-
-【印尼新興市場地位面臨可能被下調的新威脅】由於全球指數提供商標普道瓊斯指數公司(S&P Dow Jones Indices)對印尼的市場透明度提出擔憂，該國的新興市場地位面臨可能被下調的新威脅。標普道瓊斯指數公司週二晚間表示，已將印尼列入觀察名單，此舉可能導致該國被降級至前沿市場，給這個已因投資者信心受挫而承壓的市場又蒙上了一層陰影。該指數提供商呼應了其一些同業先前曾提出的擔憂，特別指出了不透明的股權結構和市場流動性問題。該指數提供商稱：“如果情況惡化，標普道瓊斯指數公司可能會考慮對印尼證券實施特殊處理。”
-
----
-
-### 2026-07-08 14:34:17  #其他
-
-【7月8日：“農產品批發價格200指數”比昨天下降0.08個點】據農業農村部監測，7月8日“農產品批發價格200指數”為110.35，比昨天下降0.08個點，“菜籃子”產品批發價格指數為109.96，比昨天下降0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.43元/公斤，比昨天下降0.1%；牛肉65.78元/公斤，比昨天下降1.1%；羊肉64.30元/公斤，比昨天上升0.1%；雞蛋9.49元/公斤，比昨天上升0.2%；白條雞17.34元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.11元/公斤，比昨天下降0.7%；重點監測的6種水果平均價格為7.18元/公斤，與昨天持平。鯽魚20.34元/公斤，比昨天上升0.5%；鯉魚14.35元/公斤，比昨天下降0.8%；白鰱魚10.22元/公斤，比昨天下降1.4%；大帶魚42.60元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大黃花魚、菜花、蓮藕、洋白菜和巨峰葡萄，幅度分別為5.7%、2.4%、1.2%、1.1%和0.8%；價格降幅前五名的是白蘿蔔、胡蘿蔔、韭菜、冬瓜和菠菜，幅度分別為4.4%、3.8%、3.2%、2.8%和2.7%。
-
----
-
-### 2026-07-08 14:34:07  #公司
-
-【真愛美家成立科技新公司，含AI及物聯網業務】企查查APP顯示，近日，廣東數則科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；大資料服務；物聯網技術研發；物聯網技術服務等。企查查股權穿透顯示，該公司由真愛美家全資持股。
-
----
-
-### 2026-07-08 14:33:57  #MKT News
-
-【Bahrain sounds air-defence alarm for third time in a day】On the morning of the 8th (local time), Bahrain sounded an air-defence alarm for the third time that day. The Interior Ministry urged residents to remain calm and seek the nearest shelter. No casualties have been reported so far.
-
----
-
-### 2026-07-08 14:33:48  #市場
-
-首爾股市綜合股價指數（KOSPI）創2020年5月以來最低收盤點位。
-
----
-
-### 2026-07-08 14:33:38  #其他
-
-【巴林一日內第三次拉響防空警報】總檯記者獲悉，當地時間8日上午，巴林境內再次拉響防空警報。這是巴林當天拉響的第三輪防空警報。巴林內政部門提醒民眾保持冷靜並前往最近的安全地點。目前暫無人員傷亡訊息。（央視新聞）
-
----
-
-### 2026-07-08 14:33:29  #其他
-
-【斷網后里程還在增長？華為乾崑回應：資料真實，展示時做了平滑處理】7月8日，華為乾崑方面釋出了《關於乾崑智駕累計輔助駕駛里程顯示的說明》，對近期社交媒體上關於乾崑智駕累計輔助駕駛的討論進行了回應。華為乾崑方面稱：“當前官網上展示的‘乾崑智駕累計輔助駕駛里程’‘搭載乾崑智駕車輛累計行駛總里程’等資料，均來源於搭載了乾崑智駕ADS車輛（包含所有車型）的實際里程資料，並基於匿名化資料進行彙總。”對於累計輔助駕駛里程在斷網後仍顯示的問題，華為乾崑方面表示，乾崑智駕累計輔助駕駛里程、搭載乾崑智駕車輛累計行駛總里程等資料系基於真實里程資料動態展示。後臺里程資料每隔數秒傳輸至前端展示頁面，為避免網際網路傳輸時延及網路效能下降導致引入資料卡頓問題，在相關頁面展示資料時做了平滑處理，以連續滾動方式呈現，使頁面展示效果符合實際資料更新狀態，還原資料增長邏輯。即前端展示頁面每數秒從後臺獲取最新資料，此後將最新獲取資料與上一次獲取資料之間的變化過程用連續滾動的方式展示。“因此，如果網路中途短暫波動或中斷，前端展示頁面的資料滾動不會立刻停住，而是會基於波動或中斷前從後臺獲取到的最新資料繼續滾動，滾動時長與所獲取最新資料的增長量相關。如未收到最新資料，前端展示頁面會逐步停止滾動。”華為乾崑方面補充道。
-
----
-
-### 2026-07-08 14:33:03  #MKT News
-
-Czech prime minister says the country will not meet this year’s 2% of GDP defence-spending target.
-
----
-
-### 2026-07-08 14:32:59  #其他
-
-捷克總理巴比什表示，捷克今年將無法實現國防支出佔GDP 2%的目標。
-
----
-
-### 2026-07-08 14:32:34  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-【Japan and South Korea stocks fall; KOSPI down over 5%】Japan's Nikkei 225 fell 1,437.91 points (-2.11%) to 66,819.05 on July 8. South Korea's KOSPI dropped 409.53 points (-5.35%) to 7,246.78 on July 8; the index briefly triggered an intraday temporary suspension mechanism. KOSPI is about 20% below its June high and is approaching a technical bear market.
-
----
-
-### 2026-07-08 14:32:20  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Extend Rally — UK natural gas prices rose further to above 114 pence a therm on Wednesday, the highest in almost a month, as renewed tensions in the Middle East stoked fears of a new wave of supply disruptions. The US military launched strikes against Iran and revoked a license permitting the country to sell oil after three merchant vessels were struck in the Strait of Hormuz, including a Qatari LNG tanker. The fresh attacks threaten the interim deal reached last month that had reopened the vital shipping route. Additional support came from forecasts of an intense heatwave across parts of Northwest Europe, which is expected to boost electricity demand for air conditioning and increase gas-fired power generation. This comes amid a slower-than-usual pace of seasonal storage replenishment. Moreover, flows from Norway, currently the region's largest single pipeline supplier, fell slightly after seasonal maintenance was extended.
 
 ---

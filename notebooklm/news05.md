@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 23:10:15_
-_本檔包含 3240 則快訊，約 628718 字_
+_更新時間：2026-07-13 00:09:04_
+_本檔包含 3221 則快訊，約 627468 字_
+
+---
+
+### 2026-07-07 12:38:52  #公司
+
+【交通運輸部：優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段搶通保通】7月7日，交通運輸部影片排程廣西、廣東、海南、湖北、安徽、江蘇、遼寧、吉林、山東、內蒙古、雲南省(區)交通運輸主管部門及省交投、高速集團，山東、廣西、長江海事局，要求各單位要提高思想認識，樹牢底線思維，極限思維，始終把保障人民生命財產安全放在首位，重點做好交通運輸領域防汛工作，優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段的搶通保通。
+
+---
+
+### 2026-07-07 12:38:17  #MKT News
+
+【Zhongfu Information wins contract to supply endpoint confidentiality inspection systems to specialized industrial unit】Zhongfu Information has won a procurement contract to deploy its Computer Confidentiality Security Inspection System and Confidentiality Guard system at a specialized industrial unit. The project implements Zhongfu’s computer confidentiality inspection solution in a business‑network environment.
+
+---
+
+### 2026-07-07 12:37:25  #國際
+
+【俄稱將與美在烏問題上保持接觸】當地時間6日，美國總統特朗普在出席活動時稱，解決俄烏衝突將“比人們認為的要快得多”。俄羅斯副外長里亞布科夫當天對此回應說，如果美國準備在俄方向美方提出的方案基礎上採取行動，那麼衝突確實有可能很快得到解決。美方最近種種言行表明，他們傾向於放棄透過和平談判以及尋求妥協的方式來解決俄烏衝突。反對和平解決俄烏衝突的國家正試圖利用這一點，英法德以及北約和歐盟領導人試圖拉攏美國，這加劇了衝突緊張局勢。 里亞布科夫還表示，即便如此，俄方任何情況下也不會中斷俄美在烏克蘭問題上的接觸，俄美兩國工作層面的對話幾乎“每天都在進行”，兩國總統也保持著溝通。
+
+---
+
+### 2026-07-07 12:37:14  #其他
+
+【四川為高溫戶外作業劃出三道“紅線”】近日，四川部分地區持續出現高溫天氣。7月6日，省人力資源社會保障廳釋出通知，要求各地把保護勞動者生命安全擺在首位，充分認識到高溫對環衛工人、快遞員、外賣員等戶外作業勞動者的危害，切實維護好高溫作業勞動者的合法權益，全力保障勞動者生命安全和身體健康。維護勞動者的休息權利，用人單位應合理安排高溫天氣下戶外工作時間，儘量避開酷熱時段作業，適當增加勞動者休息時間和輪換班次。日最高氣溫達到40攝氏度以上時，停止安排室外露天作業；日最高氣溫達到37攝氏度以上、40攝氏度以下時，室外露天作業時間累計不得超過6小時，不得安排在當日氣溫最高時段3小時內室外露天作業；日最高氣溫達到35攝氏度以上、37攝氏度以下時，採取換班輪休等方式，縮短室外露天作業連續工作時間，並不得安排加班。（四川日報）
+
+---
+
+### 2026-07-07 12:35:34  #公司
+
+【軟通動力與曙光汽車集團攜手打造無人駕駛Robobus產品】7月2日，軟通動力旗下無錫軟通天馳智行科技有限公司（簡稱“軟通天馳”）與遼寧曙光汽車集團股份有限公司（簡稱“曙光汽車集團”）旗下丹東黃海汽車有限責任公司（簡稱“黃海汽車”）正式簽署合作協議，建立全面戰略合作關係，重點圍繞無人駕駛Robobus打造具備行業競爭力產品，共同推動智慧駕駛技術在商用車領域的規模化應用。此次全面合作，雙方將聚焦文旅接駁、園區通勤、城市微迴圈等核心場景，分階段完成無人駕駛Robobus的開發、測試與交付，逐步探索從示範執行到規模化商用的路徑。
+
+---
+
+### 2026-07-07 12:35:14  #其他
+
+香港金管局總裁餘偉文：研究推出7天期離岸人民幣流動資金投標機制。
+
+---
+
+### 2026-07-07 12:34:14  #其他
+
+【中孚資訊成功中標某特種工業單位終端保密檢查採購專案】近日，中孚資訊成功中標某特種工業單位終端保密檢查採購專案，專案將部署中孚計算機保密安全檢查系統及中孚密保衛士系統。值得關注的是，本專案成功實現中孚計算機保密安全檢查系統在業務網場景中的落地應用。
+
+---
+
+### 2026-07-07 12:34:11  #市場
+
+巴基斯坦KSE-100指數開盤後上漲0.2%，至187,978.70點。
+
+---
+
+### 2026-07-07 12:34:01  #MKT News
+
+India's NIFTY IT index rose 2%.
+
+---
+
+### 2026-07-07 12:33:42  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Rises Further Ahead of MPOB Monthly Report — Malaysian palm oil futures extended gains, hovering above MYR 4,500 per tonne as firmer edible oil markets in China's Dalian and Chicago exchanges provided support. Stronger export demand also lifted prices, with cargo surveyors estimating July 1–5 palm oil shipments rose between 10.6% and 11.1% from the same period in June. However, further gains were capped by a stronger ringgit, alongside reports that imports by top buyer India fell to a 14-month low in June amid sluggish demand and narrowing price discounts compared with competing vegetable oils. Meanwhile, Reuters forecast that Malaysian palm oil inventories likely rose in June to their highest level on record for the month, as stronger production outpaced demand. Investors also remained cautious ahead of the Malaysian Palm Oil Board's monthly report due later this week. Meanwhile, upcoming June CPI and PPI data from China, another key buyer, will be closely watched for clues on demand.
+
+---
+
+### 2026-07-07 12:32:57  #公司
+
+【國泰海通證券：維持騰訊控股“增持”評級 目標價619港元】國泰海通證券釋出研報稱，維持騰訊控股(00700)"增持"評級。騰訊作為最大的社交流量入口，AI有望重構平臺價值。該行預計騰訊26-28年營業收入為8270/8979/9710億元，經調整淨利潤為2713/3007/3277億元。參考可比公司估值，考慮到AI投入的短期不確定性，給予26年18xPE，對應目標價619港元。
+
+---
+
+### 2026-07-07 12:32:55  #MKT News #HSBA.L
+
+【HSBC suspends lending to higher-risk private credit clients】Reportedly, HSBC in recent weeks told some clients it would not renew their loan agreements. The bank had earlier stopped lending to private credit funds that failed to deliver returns sufficient to compensate for their risk. HSBC said it will concentrate on supporting its most important clients globally and on transactions in regions it regards as having the greatest growth potential.
+
+---
+
+### 2026-07-07 12:31:03  #其他
+
+【洪災已致廣西橫州4死8失聯】記者從7日中午舉行的南寧市防汛救災新聞釋出會獲悉，截至7日10時，南寧橫州市死亡4人、失聯8人。（新華社）
+
+---
+
+### 2026-07-07 12:29:54  #公司
+
+【快粼光電完成千萬級天使輪融資，推動超高速光探測晶片量產落地】7月7日訊息，介面新聞獲悉，快粼光電已於6月完成數千萬元人民幣的天使輪融資。本輪融資由小苗朗程領投，一村資本跟投。此次募集資金將用於公司超高速光探測晶片的研發迭代、推動國產單波200G/400G PD晶片量產落地以及企業高階人才引進。自2024年成立以來，快粼光電卡位AI算力叢集與DCI（資料中心互聯）對光電器件的迫切需求，專注於高速、高功率III-V族光電探測晶片的研發，產品可應用於 800G、1.6T、3.2T 高速光互連，以及 LPO/LRO、NPO/CPO 等下一代資料中心網路架構。
+
+---
+
+### 2026-07-07 12:28:16  #公司
+
+【滙豐暫停向風險較高的私募信貸客戶提供貸款】根據媒體援引三位知情人士的話報道，滙豐最近幾周告知部分客戶，將不再續簽其貸款協議；滙豐此前停止向那些未能提供足夠回報以彌補風險的私募信貸基金提供貸款。滙豐將專注於向風險較低的私募信貸基金提供貸款。滙豐表示，將聚焦在全球範圍內為最重要的客戶在該公司認為最具增長潛力的地區支援相關交易。
+
+---
+
+### 2026-07-07 12:27:01  #Trading Economics #Economy #Egypt #Manufacturing PMI #Importance 1
+
+Egypt Non-Oil Private Sector Activity Lowest Since 2023 — The S&P Global Egypt PMI fell to 46.0 in June 2026 from 47.1 in May, signaling the sharpest contraction in the non-oil private sector in nearly three and a half years. Business conditions weakened as new orders fell at the fastest pace since November 2022, pressured by weak liquidity, supply disruptions, raw material shortages, and the Middle East conflict. Output, purchasing activity, and employment all contracted, although job losses eased slightly from May. Supply chain pressures remained elevated, with delivery times lengthening further due to shipping disruptions in the Strait of Hormuz, raw material shortages, and higher fuel costs. Meanwhile, input cost and output price inflation moderated from May's near-record highs, though fuel, raw material, and wage pressures remained significant. Looking ahead, business confidence stayed positive despite easing slightly from May, supported by expectations of reduced geopolitical disruptions and stronger government support.
+
+---
+
+### 2026-07-07 12:26:40  #公司
+
+【螞蟻靈波釋出空間感知模型LingBot-Depth 2.0 聯合奧比中光加速產業落地】螞蟻集團旗下具身智慧公司靈波科技釋出空間感知模型LingBot-Depth2.0，基於1.5億規模資料進行訓練。此次還同步推出了LingBot-Depth2.0的視覺基座模型——LingBot-Vision。據瞭解，奧比中光最新推出的無本體資料採集產品矩陣中，RGB-D版本的EGO裝置會適配靈波科技專門為數採場景最佳化的LingBot-Depth版本，後續還將進一步整合更高階別商業版本模型。
+
+---
+
+### 2026-07-07 12:25:28  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #SSE Composite
+
+【China State Planner says AI-related industry to grow over 30% this year】Deputy director Wang Ruomeng of the China State Planner’s Department of Innovation and High Technology Development said China’s AI-related industry exceeded CNY1 trillion last year and is preliminarily forecast to grow by more than 30% this year.
+
+---
+
+### 2026-07-07 12:25:23  #MKT News
+
+Taiwan Weighted Index fell more than 2%.
+
+---
+
+### 2026-07-07 12:24:25  #市場
+
+臺灣證交所加權股價指數下跌2%至45,622.91點。
+
+---
+
+### 2026-07-07 12:23:31  #公司 #觀點
+
+【花旗再從摩根大通挖來一位高管 聘請Anuja Desai負責評級顧問業務】花旗集團挖來摩根大通訊用評級顧問Anuja Desai，該行在近期的招聘程序中從競爭對手那裡挖走了一系列高階銀行家。據媒體看到的一份內部備忘錄顯示，Desai將於9月下旬加入花旗，擔任董事總經理兼評級諮詢主管，常駐紐約。她將為全球客戶提供評級策略方面的諮詢，並與公司投資銀行業務的各個團隊緊密合作。Desai將向David Friedland彙報工作，後者是北美投資銀行業務聯席主管。自2022年以來，Desai一直擔任摩根大通評級諮詢業務的董事總經理。花旗集團的一位代表證實了備忘錄的內容。
+
+---
+
+### 2026-07-07 12:23:01  #國際
+
+【加拿大告知阿聯酋當下不宜投資 境內可落地專案不足】英國《金融時報》援引三位不願具名官員訊息稱，加拿大重大專案辦公室於6月中旬向阿聯酋官方代表團表示，現階段並不適合阿聯酋赴加投資。阿聯酋代表團成員前來尋求投資合作，但加拿大重大專案辦公室予以婉拒，原因是境內暫無足夠可即時落地投建的專案。加拿大總理馬克・卡尼去年11月促成阿聯酋承諾的500億加元投資，目前資金尚未實際落地一分。阿聯酋外交部未回應置評請求；加拿大重大專案辦公室亦未作出回應。加拿大國際貿易部長曼德爾・錫杜發言人在答覆問詢時稱：“我們珍視與阿聯酋穩固且持續深化的雙邊關係。”
+
+---
+
+### 2026-07-07 12:21:27  #國際
+
+【歐洲高溫引發山火，數萬人被迫緊急撤離】本週，歐洲多國迎來今夏第三波極端高溫，熱浪引發的山火在法國、希臘、葡萄牙和西班牙等國快速蔓延。受持續的高溫與乾旱影響，不僅數以萬計的居民被迫緊急撤離，歐洲脆弱的電力和核能供應系統也正面臨嚴峻“烤問”。（澎湃新聞）
+
+---
+
+### 2026-07-07 12:21:02  #其他
+
+傑富瑞將盈透證券目標價從90美元上調至102美元。
+
+---
+
+### 2026-07-07 12:19:41  #MKT News #LLY.O #Impact bullish
+
+JP Morgan raises Eli Lilly (LLY.N) PT to $1,400 from $1,300.
+
+---
+
+### 2026-07-07 12:19:26  #其他
+
+【重慶釋出高溫橙色預警訊號，日最高氣溫將升至37℃以上】重慶市氣象臺2026年7月7日11時40分發布“高溫橙色預警訊號”，預計7日13:00-19:00，渝中、沙坪壩、大渡口、九龍坡、南岸、兩江新區、高新區、北碚、巴南、潼南、合川、大足、銅梁、璧山、榮昌、永川、江津、萬州、開州、雲陽、奉節、巫溪、巫山、彭水等24個區縣，日最高氣溫將升至37℃以上。
+
+---
+
+### 2026-07-07 12:19:24  #公司 #觀點
+
+摩根大通將禮來公司目標股價從1300美元上調至1400美元。
+
+---
+
+### 2026-07-07 12:19:08  #其他
+
+【強對流天氣已致湖北11人死亡 救援救災正有序開展】記者7日上午從湖北省相關部門獲悉，7月6日晚，湖北東部多地遭遇強對流天氣襲擊，發生強降雨和雷暴大風，部分鄉鎮出現龍捲風。截至目前，雷暴大風已造成1.46萬人受災，11人死亡，1人失聯，救援救災工作正有序開展，相關災情還在進一步核實。 (新華社)
+
+---
+
+### 2026-07-07 12:18:08  #其他
+
+【河北釋出暴雨黃色預警訊號】河北省氣象臺2026年07月07日12時04分發布暴雨黃色預警訊號：過去6小時唐山、秦皇島南部已經出現50毫米以上的降水。預計7日下午到夜間，承德南部、唐山、秦皇島及上述地區的沿岸海域仍將有較強降水，部分地區6小時降水量可達50～70毫米或1小時降水量可達30～50毫米，個別地點超過100毫米，上述地區的山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險，請注意防範。
+
+---
+
+### 2026-07-07 12:18:04  #國際
+
+【新加坡就301條款調查結論與美國展開磋商】新加坡在回應美國貿易代表辦公室(USTR)的301條款調查時，以書面評論的形式表示，新加坡沒有采取任何不合理或歧視性的行為、政策和做法，也沒有對美國商業造成負擔或限制。新加坡貿易與工業部在7月6日的信函中表示，沒有證據表明新加坡參與了與強迫勞動相關的、出口到美國的商品供應鏈。新加坡表示，正在就調查結果和擬議行動與美國貿易代表辦公室進行溝通。
+
+---
+
+### 2026-07-07 12:15:22  #央行 #觀點 #國際
+
+【調查顯示馬來西亞央行料將按兵不動】接受媒體調查的九位經濟學家均預計，馬來西亞央行週四將再次把基準政策利率維持在2.75%不變。高盛在一份報告中表示，馬來西亞的通貨膨脹依然受到控制，這得益於政府的燃料補貼，這些補貼緩衝了全球能源成本上升對該國經濟的影響。該機構表示，最近下調補貼柴油價格預計也將進一步緩解價格壓力。高盛補充說，在此背景下，馬來西亞央行可能會保持貨幣政策設定不變。
+
+---
+
+### 2026-07-07 12:14:30  #國際
+
+【日本輿論批評高市早苗“輕視國會”】多家日本媒體和各界人士近日對日本首相高市早苗出席國會審議及答辯情況提出批評，質疑其“輕視國會”。據日本《每日新聞》報道，截至6日，高市在本屆國會出席集中審議8次，累計29小時36分鐘，僅為過去5年間前首相菅義偉、岸田文雄、石破茂平均出席時間的40%左右。此外，根據日本朝野2025年達成的協議，在4月至6月例行國會會期內，應每月舉行一次黨首討論，但高市僅在今年5月出席過一次。在野黨方面6日在國會指出，本屆國會立法程序明顯放緩：2023年至2025年三屆例行國會期間，政府提交法案的透過率均接近98%；而本屆國會會期臨近結束，法案透過率只有73%。（新華社）
 
 ---
 
@@ -19260,313 +19452,5 @@ Israel's president, responding to the government's decision not to comply with t
 ### 2026-07-06 00:11:49  #宏觀 #國際
 
 【王毅同芬蘭外長瓦爾託寧會談】中共中央政治局委員、外交部長王毅5日在赫爾辛基同芬蘭外長瓦爾託寧舉行會談。王毅說，芬蘭是最早同新中國建交的西方國家之一，也是第一個同中國簽訂政府間貿易協定的西方國家。建交76年來，中芬關係一直走在中國同北歐國家關係的前列，樹立了國與國之間超越制度和文化差異、開展平等交往的典範。2017年中芬建立面向未來的新型合作伙伴關係，充分體現兩國關係的前瞻性、創新性。無論國際風雲如何變幻，中方願同芬方相互尊重、平等相待，繼續做彼此信任的合作伙伴。（新華社）
-
----
-
-### 2026-07-06 00:02:57  #其他 #焦點
-
-【國家防總辦公室向廣西調撥物資 支援做好防汛搶險工作】5日，應廣西壯族自治區防汛抗旱指揮部請求，國家防總辦公室會同國家糧食和物資儲備局調撥衝鋒舟、橡皮舟、排澇裝置、照明裝置等500餘件中央防汛抗旱物資，支援廣西做好防汛搶險工作。
-
----
-
-### 2026-07-05 23:56:35  #MKT News #Important #XAUUSD #Impact bearish #WTI #S&P500 #Impact bullish
-
-Israeli Prime Minister Netanyahu says Iran will not obtain nuclear weapons while he remains in office.
-
----
-
-### 2026-07-05 23:56:34  #其他 #焦點
-
-【廣西柳州各城區暴雨預警訊號提升為紅色】受今年第10號颱風“美莎克”影響，廣西柳州市出現強降雨天氣。柳州市氣象臺於今日22時44分將各城區暴雨橙色預警訊號提升為紅色。20時以來，柳北石碑坪已出現91毫米的強降雨，目前強降雨雲團正向偏北方向移動，強度維持，預計3小時內柳州市各城區還將有40~70毫米、局地90毫米以上的降雨，並伴有雷電、短時大風等，城區積澇氣象風險很大，請防範。（央視新聞）
-
----
-
-### 2026-07-05 23:55:47  #MKT News #Market Regions #Greater China #000895.SZ
-
-Macquarie downgraded Shuanghui Development to Neutral, PT 23 yuan.
-
----
-
-### 2026-07-05 23:55:22  #MKT News #XAUUSD #Impact mixed #DXY #Impact bullish #Brent
-
-Israeli Prime Minister NETANYAHU said Israeli forces will continue to remain in Lebanon.
-
----
-
-### 2026-07-05 23:54:45  #其他
-
-麥格理將雙匯發展評級下調至中性，目標價23元人民幣。
-
----
-
-### 2026-07-05 23:53:27  #國際
-
-特朗普：雕塑《英勇》的重新貼金工程已全部完工，雕塑《犧牲》的貼金修繕工作也正在緊鑼密鼓推進。完成《犧牲》的貼金作業後，團隊將啟動兩座《和平之藝》雕塑的翻新貼金工程。這兩座雕塑均高19英尺，矗立在12.5英尺高的整塊花崗岩基座之上。這四尊雕塑已有逾半個世紀未曾重新貼金，本次修繕總共將使用55磅金箔。下方第一組照片是完工後的《英勇》貼金成品，第二組照片則是尚在施工中的《犧牲》雕塑。
-
----
-
-### 2026-07-05 23:52:52  #MKT News
-
-【U.S. halts active search for sailor missing after MH-60S ditching in Arabian Sea】U.S. Naval Forces Central Command said on social media that the U.S. Navy suspended active search at 1500 local time on July 5 for a sailor assigned to Sea Combat Helicopter Squadron 5 who was embarked on the USS George H. W. Bush. The sailor went missing after an MH-60S Seahawk made an emergency water landing in the Arabian Sea on July 1. U.S. Navy and Air Force units conducted a large-scale joint search-and-rescue within CENTCOM’s area of responsibility for more than 102 hours, covering over 14,000 square miles, before ending active search efforts.
-
----
-
-### 2026-07-05 23:52:22  #國際
-
-【美軍暫停搜尋在阿拉伯海因直升機事故失蹤計程車兵】當地時間5日，美國海軍中央司令部在社交平臺上釋出訊息稱，美國海軍已於當地時間5日15時暫停對一名失蹤海軍士兵的主動搜尋行動。訊息稱，這名失蹤人員隸屬於海上戰鬥直升機第5中隊，事發時部署在“喬治·H·W·布什”號航空母艦上。當地時間7月1日，一架MH-60S“海鷹”直升機在阿拉伯海實施緊急水上迫降後，該士兵失蹤。
-
----
-
-### 2026-07-05 23:48:41  #MKT News #Important
-
-【Three earthquakes hit Mianzhu, Sichuan】CENC reported a magnitude 4.5 quake at 23:30 on July 5 in Mianzhu, Deyang, Sichuan (31.58°N, 104.00°E); focal depth 18 km. Two earlier shocks were recorded in the same area, magnitude 4.5 and 4.0.
-
----
-
-### 2026-07-05 23:46:40  #MKT News
-
-WHITE HOUSE press secretary LEAVITT said the Treasury has formally launched the Trump Accounts program, which the administration hopes will raise financial literacy among the next generation and help them understand the value of investing.
-
----
-
-### 2026-07-05 23:45:41  #宏觀 #國際
-
-白宮新聞秘書萊維特：財政部已正式推出特朗普賬戶專案，本屆政府希望藉助該專案提升下一代民眾的金融素養，幫助他們理解投資的價值。
-
----
-
-### 2026-07-05 23:44:20  #市場
-
-【颱風持續影響 廣西仍有29條河流36個站超警】記者從廣西壯族自治區水文中心瞭解到，受今年第10號颱風“美莎克”影響，7月5日8時至20時，南寧、欽州、北海、貴港、來賓及防城港等市部分地區遭遇大到暴雨，局地大暴雨至特大暴雨。5日11時，防城河防城水文站出現9.89米的洪峰水位（警戒水位5.5米），超警4.39米，為1982年建站以來最大洪水。截至5日20時，廣西仍有大風江、防城河、明江、江平江、北侖河等29條河流36個站超警0.11米至4.10米。
-鑑於當前的颱風暴雨洪水防禦形勢，7月5日9時，自治區水利廳將洪水防禦四級應急響應提升為三級應急響應。15時，自治區水文中心繼續釋出洪水黃色預警。
-據自治區水文中心預測，未來12小時，鬱江、左江及支流明江，茅嶺江、大風江、平陸運河等江河將繼續上漲0.5米至6米。南寧、玉林、貴港、北海、欽州、防城港、柳州、河池、來賓及桂林等市部分中小河流可能出現較大洪水。（新華社）
-
----
-
-### 2026-07-05 23:43:58  #MKT News
-
-【CENC: M4.5 quake in Mianzhu, Sichuan; depth 18 km】CENC reported a magnitude 4.5 earthquake at 23:30 in Mianzhu, Deyang, Sichuan (31.58°N, 104.00°E). Focal depth 18 km.
-
----
-
-### 2026-07-05 23:43:09  #宏觀 #公司 #焦點
-
-【河南鎮平縣通報兩家企業涉“健字號”滴眼液調查情況】7月5日晚，河南省南陽市鎮平縣聯合調查組釋出通報，7月5日，媒體報道網售“健字號”滴眼液市場亂象，涉及鎮平縣創璽實業有限公司、澳福來實業有限責任公司兩家企業。該縣第一時間成立由市場監管、公安、紀檢監察等部門組成的聯合調查組，迅速開展調查處置。關於“諧醫堂七葉洋地黃雙咁滴眼液”產品，經初步核查，該商標“諧醫堂”為外省徐某註冊持有，創璽實業有限公司接受徐某委託提供“諧醫堂七葉洋地黃雙咁滴眼液”產品的包裝盒，包裝盒上顯示的生產廠家為創璽實業有限公司，涉案金額0.8萬元，截至目前暫未發現該企業有生產行為。關於“藍莓葉黃素滴眼液”及“飛蚊靈護眼液”產品，經初步核查，系澳福來實業有限責任公司受外省某企業委託，分別於2025年6月、9月分兩批違規生產，涉案金額6萬元。目前，已依法控制兩家涉事企業的法定代表人和實際控制人袁某某、王某、李某某，對企業涉嫌違法違規行為立案調查；依法查封相關生產裝置、材料和臺賬資料等；向涉事外省企業所在地市場監管部門發函協查；協調網路銷售平臺下架相關產品。下一步，鎮平縣將依據調查結果，對相關涉事責任主體依法依規嚴肅處理，對有關部門和個人在監管過程中的失職失責行為嚴肅追責問責。
-
----
-
-### 2026-07-05 23:41:25  #MKT News
-
-Israeli Channel 14, citing sources, reported the Israeli military carried out two operations that struck two Hezbollah members it said posed a threat to its forces in southern Lebanon.
-
----
-
-### 2026-07-05 23:40:42  #其他 #焦點
-
-【綿竹半小時三震】中國地震臺網正式測定：07月05日23時30分在四川德陽市綿竹市（北緯31.58度，東經104.00度）發生4.5級地震，震源深度18千米。（人民日報）
-
----
-
-### 2026-07-05 23:40:19  #國際
-
-美國衛生部長小羅伯特·F·肯尼迪大力提倡用牛脂替代植物油，但部分心臟病專家表示，這種動物脂肪未必更有益健康。
-
----
-
-### 2026-07-05 23:40:02  #其他
-
-中國地震臺網正式測定：07月05日23時30分在四川德陽市綿竹市（北緯31.58度，東經104.00度）發生4.5級地震，震源深度18千米。
-
----
-
-### 2026-07-05 23:38:40  #MKT News #Market Regions #Europe & UK
-
-【Mount Etna continues erupting; Catania airport flights disrupted】On the 5th local time, Mount Etna on Sicily continued erupting, sending volcanic ash that disrupted operations at Catania-Fontanarossa airport. The airport briefly suspended inbound flights and limited arrivals to five per hour; departures were routed and scheduled based on on-site conditions. Mount Etna, one of Europe’s most active volcanoes, is being monitored for changes in activity and ash dispersion; further operational adjustments will follow airspace safety assessments.
-
----
-
-### 2026-07-05 23:38:28  #國際
-
-【義大利埃特納火山持續噴發 卡塔尼亞機場航班受影響】當地時間5日，位於義大利西西里島的埃特納火山持續噴發，伴隨噴出的火山灰飄散，卡塔尼亞機場部分航班執行受到影響。當天，卡塔尼亞機場一度暫停進港航班，機場管理方將進港航班限制為每小時5架次，離港航班則根據現場情況安排執行。埃特納火山是歐洲最活躍的火山之一。當地監測機構正持續關注火山活動變化及火山灰擴散情況。機場後續執行安排將根據火山活動和空域安全評估進行調整。
-
----
-
-### 2026-07-05 23:38:28  #MKT News
-
-NETANYAHU said he is concerned about an anti-Israel current within the US Democratic Party and will do whatever he can to counter it. He added that those who hate Israel will ultimately hate the United States.
-
----
-
-### 2026-07-05 23:37:56  #國際
-
-以色列總理內塔尼亞胡：民主黨內部存在一股反以色列勢力，這一點令我十分擔憂。對此我深感憂慮，只要有辦法修復雙方關係，我顯然會付諸行動。那些仇視以色列的人，到頭來也會仇視美國。
-
----
-
-### 2026-07-05 23:37:25  #國際
-
-伊朗最高領袖穆傑塔巴再次任命侯賽因·穆赫辛尼·埃傑伊為司法機構主席。
-
----
-
-### 2026-07-05 23:33:37  #其他 #焦點
-
-中國地震臺網自動測定：07月05日23時30分在四川德陽市綿竹市附近（北緯31.58度，東經104.02度）發生4.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-05 23:32:01  #其他
-
-世界盃歷史射手榜更新，姆巴佩19場19球。
-
----
-
-### 2026-07-05 23:30:30  #國際
-
-以色列總理內塔尼亞胡：我們並不處於永久的戰爭狀態。我本人與特朗普總統一起，推動了四項和平協議。
-
----
-
-### 2026-07-05 23:29:59  #其他
-
-煙花燃放疊加熱浪，華盛頓特區空氣質量達到“紫色預警”級別。
-
----
-
-### 2026-07-05 23:28:26  #MKT News #Market Themes #The Trump Trade
-
-NETANYAHU said Israel is not in a permanent state of war and that, together with US President TRUMP, he helped secure four peace agreements. He said those seeking Israel’s protection include Lebanese Christians, Druze, Sunni Muslims and a significant number of Shi'ite Muslims.
-
----
-
-### 2026-07-05 23:27:54  #MKT News
-
-【Netanyahu defends settlement construction around occupied Jerusalem】Israeli Prime Minister Netanyahu defended building settlements around occupied Jerusalem, saying the measures aim "to safeguard Jerusalem's territorial unity." The United Nations has long held that settlement construction on occupied Palestinian territory, including East Jerusalem, violates international law; such unilateral steps undermine the two-state framework, impede the peace process and lack legal force or broad international recognition. The final status of Jerusalem must be resolved through equal negotiations under international law, the statement said, and unilateral changes to its status have no legal effect.
-
----
-
-### 2026-07-05 23:27:42  #MKT News
-
-【M4.0 earthquake strikes Mianzhu, Sichuan; depth 15 km】CENC recorded a magnitude-4.0 earthquake at 23:20 local time near Mianzhu, Deyang, Sichuan (31.55N, 103.98E). Focal depth 15 km.
-
----
-
-### 2026-07-05 23:26:45  #焦點 #國際
-
-以色列總理內塔尼亞胡：我們還有其他一些友邦，比如印度這個小國（small country）。印度有14億人口，說實話，我們在當地收穫了極大的支援。臉書上全是來自那裡一邊倒的聲援，除此之外我們還有不少其他支援我們的國家。不少國家領導人主動致電我說，雖然本國輿論層面存在壓力，但希望我知曉他們是支援我方的。他們會問能否和我們開展合作、希望我方分享軍方相關作戰經驗，同時還希望引進我們的人工智慧與網路安全領域專業技術。
-
----
-
-### 2026-07-05 23:25:59  #MKT News #SAAB-B.ST #Impact bearish
-
-German defense minister PISTORIUS said Ukraine no longer needs "Taurus" cruise missiles because Ukrainian drones have successfully struck Russian refineries and military logistics facilities.
-
----
-
-### 2026-07-05 23:24:39  #其他
-
-中國地震臺網正式測定：07月05日23時20分在四川德陽市綿竹市（北緯31.55度，東經103.98度）發生4.0級地震，震源深度15千米。
-
----
-
-### 2026-07-05 23:23:48  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israel's Channel 12 reports the military struck the Ali Tahir Heights in southern Lebanon. The Upper Galilee Regional Council warned residents they may hear explosions due to attacks from southern Lebanon.
-
----
-
-### 2026-07-05 23:23:41  #國際
-
-以色列總理內塔尼亞胡為在被佔領的耶路撒冷周邊修建定居點的行為辯護，稱採取相關舉措是 “為保障耶路撒冷的完整統一”。
-
----
-
-### 2026-07-05 23:22:41  #MKT News
-
-Israeli Prime Minister Netanyahu said he and Trump are aligned on vision; although disagreements may arise, they discuss them candidly and publicly and typically reach solutions.
-
----
-
-### 2026-07-05 23:22:35  #其他
-
-中國地震臺網自動測定：07月05日23時20分在四川德陽市綿竹市附近（北緯31.56度，東經103.99度）發生4.0級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-05 23:22:25  #國際
-
-以色列軍隊在黎巴嫩南部的阿里·塔希爾高地地區發動了攻擊。
-
----
-
-### 2026-07-05 23:21:43  #國際
-
-以色列上加利利地區委員會告知當地居民，黎巴嫩南部的軍事襲擊會帶來爆炸聲。
-
----
-
-### 2026-07-05 23:21:20  #國際
-
-以色列總理內塔尼亞胡：我和特朗普在願景上意見一致，可能會出現分歧，我們坦率而公開地討論它們，並且通常能達成解決方案。
-
----
-
-### 2026-07-05 23:21:10  #MKT News
-
-【Russia says Ukraine rejected proposal to receive bodies of fallen soldiers from Konstantinovka】The Russian Defence Ministry said on June 5 that Russian and Ukrainian intelligence services discussed transferring the bodies of Ukrainian soldiers killed in Konstantinovka, and that Kyiv rejected Moscow’s proposal. Moscow had on June 4 offered a humanitarian operation to hand over the remains and requested Ukrainian forces to halt shelling of Konstantinovka on June 6 between 12:00 and 18:00 Moscow time; Kyiv was asked to decide by 12:00 Moscow time on June 5. Ukraine has not responded.
-
----
-
-### 2026-07-05 23:20:55  #國際
-
-【俄稱烏方拒絕接收康斯坦丁諾夫卡烏軍陣亡人員遺體提議】俄羅斯國防部當地時間5日釋出訊息稱，俄烏雙方情報部門就移交康斯坦丁諾夫卡烏軍陣亡人員遺體問題進行了溝通，烏方拒絕了俄方的提議。目前，烏克蘭方面對此暫無回應。當地時間4日，俄羅斯國防部發布訊息稱，俄方準備開展人道主義行動，向烏方移交烏軍陣亡人員遺體，因此提議烏方於莫斯科時間6日12時至18時停止對康斯坦丁諾夫卡的炮擊。烏方需在莫斯科時間5日12時前就遺體移交事宜作出決定。（央視新聞）
-
----
-
-### 2026-07-05 23:20:39  #國際
-
-以色列總理內塔尼亞胡：不認為與特朗普的關係存在裂痕。
-
----
-
-### 2026-07-05 23:20:21  #國際
-
-以色列總理內塔尼亞胡：特朗普總統是美國的領袖，做對美國利益有利的事，而我是以色列的領袖，做對以色列利益有利的事。
-
----
-
-### 2026-07-05 23:14:26  #MKT News
-
-【Magnitude-4.5 quake hits Mianzhu, Sichuan; depth 20 km】CENC said a magnitude-4.5 earthquake struck Mianzhu, Deyang, Sichuan at 23:03 Beijing time (31.58N, 103.98E); hypocenter depth 20 km.
-
----
-
-### 2026-07-05 23:13:50  #國際
-
-以色列內塔尼亞胡談及與特朗普的關係：我不認為我們之間有裂痕。與其他盟友不同，我們與美國肩並肩作戰，在99%的情況下，我和特朗普看法一致。
-
----
-
-### 2026-07-05 23:12:45  #其他 #焦點
-
-中國地震臺網正式測定：07月05日23時03分在四川德陽市綿竹市（北緯31.58度，東經103.98度）發生4.5級地震，震源深度20千米。
-
----
-
-### 2026-07-05 23:11:41  #MKT News
-
-Israeli Prime Minister Netanyahu, on his relationship with President Trump: I do not believe there is a rift between us. Unlike other allies, we stand with the US 99% of the time, and the president and I are aligned.
-
----
-
-### 2026-07-05 23:11:33  #其他
-
-【四川德陽地震多地網友收到預警】7月5日23點左右，四川多地網友收到地震預警資訊，成都、樂山、瀘州、自貢等多地網友表示震感強烈。（四川觀察）
-
----
-
-### 2026-07-05 23:10:32  #MKT News #Market Regions #Europe & UK
-
-Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026.
 
 ---
