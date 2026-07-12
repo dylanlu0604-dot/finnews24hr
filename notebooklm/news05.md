@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 07:32:43_
-_本檔包含 3139 則快訊，約 616690 字_
+_更新時間：2026-07-12 09:09:30_
+_本檔包含 3162 則快訊，約 617996 字_
+
+---
+
+### 2026-07-07 08:31:56  #公司 #國際
+
+【美國CISA使用Anthropic的Mythos排查政府程式碼漏洞】三位知情人士週一表示，美國網路安全與基礎設施安全域性(CISA)正在使用Anthropic公司的人工智慧(AI)模型Mythos對政府軟體進行審查。這再次表明，在該公司與白宮關係持續緊張之際，政府仍熱衷於採用這家AI初創企業的工具。訊息人士稱，CISA正在利用Mythos掃描政府程式碼庫，以排查可能讓外國間諜和網路犯罪分子有機可乘的漏洞。其中兩位訊息人士稱，審查工作已發現大量漏洞，但未作詳細說明。
+
+---
+
+### 2026-07-07 08:31:25  #公司 #市場 #國際
+
+【韓國股指Kospi下跌 三星構成最大拖累】受三星電子股價下跌拖累，韓國股市基準指數KOSPI一度下跌4.1%。儘管這家儲存晶片製造商的利潤飆升了18倍，但其股票依然遭到拋售，分析師稱業績預期之前已被計入股價。三星一度跌6.3%，SK海力士一度跌3.8%。韓華海洋下跌逾20%，此前該公司未能獲得加拿大潛艇交易。
+
+---
+
+### 2026-07-07 08:29:29  #MKT News #WTI #Brent
+
+Data show two Japan-owned supertankers carrying Saudi crude are transiting toward the Strait of Hormuz to exit the Gulf region.
+
+---
+
+### 2026-07-07 08:29:11  #國際
+
+資料顯示：兩艘日本所有、裝載沙特原油的超級油輪正途經霍爾木茲海峽準備駛出海灣。
+
+---
+
+### 2026-07-07 08:28:54  #國際
+
+市場訊息：一名美國官員稱，伊斯蘭革命衛隊向透過霍爾木茲海峽的商船至少發射了兩枚導彈。該美國官員表示，兩艘商船被擊中並遭受重大損壞，但沒有人員傷亡。
+
+---
+
+### 2026-07-07 08:28:14  #公司 #國際
+
+【LG新能源預計第二季度營業利潤將因電動汽車需求疲軟而下降77%  計劃於7月30日公佈詳細業績】韓國電池製造商LG能源解決方案週二表示，預計4月至6月的營業利潤將下降77%，至1,130億韓元(7,391萬美元)，原因是電動汽車(EV) 需求疲軟繼續拖累電池銷售。LGES（其客戶包括特斯拉、通用汽車和現代汽車等）一直面臨著電動汽車需求長期疲軟的困境。據報道，其主要客戶之一通用汽車正無限期推遲其下一代全尺寸電動卡車專案。今年5月，路透報道稱，LGES與通用汽車在俄亥俄州成立的電池合資企業Ultium Cells，因電動汽車需求持續疲軟，正推遲數百名員工的復工。公司營收預計將同比增長24.8%，達到7.6萬億韓元。LGES表示，計劃於7月30日公佈詳細業績。
+
+---
+
+### 2026-07-07 08:28:10  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+A U.S. official told Axios that Iran fired at least two missiles at vessels in the Strait of Hormuz. Two merchant ships were struck and heavily damaged; no casualties reported.
+
+---
+
+### 2026-07-07 08:26:57  #公司
+
+【綠的諧波與斯凱孚（SKF）成立合資公司 聚焦高精密軸承部件研發與規模化供應】據綠的諧波訊息，近日，綠的諧波與全球領先的軸承、密封、潤滑系統、狀態監測等創新產品及解決方案的供應商斯凱孚（SKF）正式簽署協議，宣佈在中國成立合資公司，聚焦高精密軸承部件研發與規模化供應，攜手賦能具身智慧機器人行業場景落地。公司表示，雙方能力互補，將有效縮短產品上市週期，併為具身智慧機器人市場的規模化量產做好準備。
+
+---
+
+### 2026-07-07 08:23:44  #MKT News #373220.KS #Impact bearish
+
+【LG Energy Solution forecasts Q2 operating profit down 77% on weak EV demand】Korean battery maker LG Energy Solution (LGES) said on Tuesday it expects Q2 operating profit to fall 77% to 113 billion won, citing continued weak electric-vehicle demand dragging battery sales. The company’s figure misses the market forecast of 249 billion won. Revenue is projected to rise 24.8% YoY to 7.6 trillion won, LGES told regulators. Guidance incorporates tax credits under the US Inflation Reduction Act for the company’s US battery output; excluding those credits LGES would have recorded an operating loss of 128 billion won.
+
+---
+
+### 2026-07-07 08:23:37  #公司 #市場 #國際
+
+【日經指數下跌0.5%，科技和晶片相關股領跌】日本股市早盤走低，科技和晶片相關股領跌。美銀證券日本公司的兩名策略師在一份近期研究報告中表示：“AI投資的盈利能力仍是一個需要監測的風險因素。“他們補充說：“我們還需要評估美國就業的基本軌跡。“在基準指數表現最差的成分股中，鎧俠下跌6.2%，Lasertec下跌5.2%，Sumco Corp.下跌4.4%。美元報162.12日元，紐約市場週一尾盤報162.09日元。日經指數下跌0.5%，報69386.29點。
+
+---
+
+### 2026-07-07 08:23:07  #公司
+
+【面臨罷免投票壓力，淡水河谷董事會主席宣佈辭職】淡水河谷當地時間7月6日宣佈，公司董事會已於當日收到Daniel André Stieler的辭職信，Stieler宣佈辭去公司董事會成員及董事會主席的職務，該辭職即刻生效。Stieler自2021年起擔任淡水河谷董事會成員，並於2023年起出任董事會主席。此次辭職事件發生在該公司董事會內鬥升級的背景之下。上個月，持有淡水河谷7%股份的股東——巴西養老基金Previ發起了一項特別投票，要求罷免董事會主席。
+
+---
+
+### 2026-07-07 08:23:03  #市場 #國際
+
+日本銀行業指數上漲超過3%。
+
+---
+
+### 2026-07-07 08:22:23  #公司 #市場
+
+對沖基金Petra Capital Management執行合夥人Albert Yong：三星電子“本次業績表現強勁，說明儲存晶片市場基本面依舊向好。這將進一步提振市場信心，市場看好人工智慧相關需求持續放量、儲存晶片價格保持堅挺，行業中長期前景向好。”公司股價此番下跌表明 “投資者或許早已充分消化亮眼業績，如今愈發關注儲存晶片行業週期的長期走勢”。
+
+---
+
+### 2026-07-07 08:21:53  #觀點 #國際
+
+【中信證券：鋁行業悲觀預期定價過度，板塊有望理性修復】中信證券研報表示，當前對中國電解鋁超產以及印尼電解鋁產能放量擔憂或已集中過度體現。考慮供給擾動以及需求改善跡象，中信證券認為2026年和2027年上半年鋁價仍然可期，2027年下半年後鋁價仍然具備3000美元/噸的成本曲線和激勵價格支撐。中信證券認為作為中國優勢產業，中資鋁企投資價值仍然值得持續關注。
+
+---
+
+### 2026-07-07 08:21:51  #市場 #國際
+
+30年期日本國債收益率上漲1.0個基點，至4.085%。
+
+---
+
+### 2026-07-07 08:20:36  #公司
+
+【盛閱春會見聯想集團執行副總裁劉軍】據長江日報，7月6日，湖北省委常委、武漢市委書記盛閱春會見聯想集團執行副總裁兼中國區總裁劉軍。盛閱春表示，希望聯想集團繼續深耕武漢，加大在漢投資佈局力度，在智慧終端產品研發製造、城市智慧體創新應用等方面拓展合作，發揮鏈主企業引領作用，帶動更多產業鏈供應鏈上下游企業和人才在漢集聚。劉軍表示，聯想集團堅定看好武漢，將發揮自身優勢，加大投資佈局力度、鞏固拓展合作成果，帶動更多優質智慧終端產品和資源“走出去、引進來”，為武漢高質量發展作出新的更大貢獻。
+
+---
+
+### 2026-07-07 08:20:07  #其他
+
+【湖北多地遭強對流天氣致8人死亡】7月6日晚，湖北東部多地遭遇強對流天氣襲擊。19時至23時，黃石、黃岡、鄂州、咸寧等地出現雷暴大風，53個鄉鎮風力達8至13級，其中2個鄉鎮達到13級，部分鄉鎮出現龍捲風。記者從湖北省應急管理廳獲悉，截至6日23時許，此次強對流天氣已造成8人死亡、1人失聯。災情正在進一步核實中。應急、消防、衛健等部門相關救援工作已全面展開，黃石、鄂州、咸寧等地集結省市縣救援人員3500餘人，在一線全力開展救災救治工作。（新華社）
+
+---
+
+### 2026-07-07 08:19:25  #MKT News #Important #Commodities #Precious Metals
+
+Shanghai Gold Exchange agreed to admit Hong Kong Precious Metals Central Clearing System Co., Ltd. as an international member.
+
+---
+
+### 2026-07-07 08:19:20  #公司 #市場 #焦點
+
+上金所：同意吸收香港貴金屬中央結算系統有限公司成為上海黃金交易所國際會員。
+
+---
+
+### 2026-07-07 08:19:11  #公司 #觀點
+
+【中金公司：2026H1國內機器人估值整體縮水 看好下半年風格再平衡機會】中金公司研報表示，7月份全球人形機器人板塊催化密集：1）優必選釋出仿生機器人，填補家庭陪伴空白；2）海外Agility Robotics（美）、NEURA Robotics（德）資本程序加快；3）2026H2起Optimus進入小批次產階段；4）證監會同意宇樹科技科創板IPO註冊申請。我們認為2026H1國內機器人估值整體縮水，看好下半年風格再平衡機會。
+
+---
+
+### 2026-07-07 08:17:57  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Toyota Motor Stock Price Hits 5-week High — Toyota Motor shares increased to 2950.00 JPY, the highest since June 2026. Over the past 4 weeks, Toyota Motor gained 3.97%, and in the last 12 months, it increased 19.6%.
+
+---
+
+### 2026-07-07 08:17:38  #MKT News #Important
+
+South Korea's KOSPI index plunged 4.00% intraday to 7,717.82 points.
+
+---
+
+### 2026-07-07 08:17:33  #公司 #市場 #國際
+
+【三星股價在財報釋出後下跌 拖累了記憶體晶片行業的競爭對手】三星電子公佈初步業績後，其股價在韓國交易所下跌高達5%。儘管業績好於預期，但負面反應拖累了近幾個月人工智慧驅動股價大幅上漲的同行。三星供應商股價漲跌互現，供應商在韓國市場普遍上漲，而日本市場則普遍下跌。該公司公佈的最新季度初步營業收入為89.4萬億韓元，高於分析師預期的84.2萬億韓元。三星競爭對手儲存器製造商SK海力士股價一度下跌2.4%，之後跌幅收窄。資料顯示，在三星供應商中，三星SDS股價上漲高達6.3%；Eugene Technology上漲6.4%，Wonik IPS上漲3.5%，Global Standard Technology上漲2.6%；這三家公司超過50%的銷售額都來自三星電子。日本儲存器製造商鎧俠(Kioxia)股價下跌高達4.9%。三星供應商中，Lasertec 跌4.1%，Kokusai Electric 跌3.3%，Micronics Japan 下跌3%，Advantest 跌1.5%。
+
+---
+
+### 2026-07-07 08:17:07  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌4.1%，至7717.82點。
+
+---
+
+### 2026-07-07 08:16:24  #MKT News #Copper #Impact bullish #CSI300 #CNH
+
+【June China Warehousing Index Back in Expansionary Territory】The China Federation of Logistics and Purchasing said the June China Warehousing Index rose to 50.2, up 0.6 ppt MoM, returning to expansionary territory as a wave of major national infrastructure project starts and a synchronized rebound in manufacturing supply-demand boosted warehousing demand.
+
+---
+
+### 2026-07-07 08:15:47  #公司
+
+三星電子股價延續跌勢，跌幅達6%。
+
+---
+
+### 2026-07-07 08:15:31  #其他
+
+【6月中國倉儲指數重回擴張區間 行業執行恢復向好】中國物流與採購聯合會今天公佈6月份中國倉儲指數。隨著全國重大基建專案集中開工、製造業供需同步回暖，倉儲業務需求明顯改善，指數重回擴張區間。6月份中國倉儲指數為50.2%，較上月上升0.6個百分點。從分項指數看，新訂單指數明顯回升，基建相關大宗商品倉儲需求表現較好。6月份新訂單指數為54%，較上月上升2.3個百分點，達到較高水平，倉儲業務需求加快增長。分品種來看，鋼材、建材、機械裝置等與重大工程專案開工相關的大宗商品品種新訂單指數有所回升，倉儲業務活動較為活躍。消費品方面，受端午假期消費需求釋放和電商促銷活動推動，食品、家電等品種的新訂單指數保持在擴張區間。
+
+---
+
+### 2026-07-07 08:12:56  #公司 #觀點
+
+【中信證券：建議關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商】中信證券研報表示，再融資新規徵求意見稿緊扣服務實體經濟、提升資本市場包容性與適應性、防範系統性風險核心導向，圍繞"鬆綁、約束"雙線推進，推出儲架發行制度、修改小額快速融資上限，構建市價定價機制，有望降低優質公司融資成本與時間成本。此次修訂是2023年2月全面註冊制實施以來，首次對再融資制度進行系統性最佳化，有望持續強化證券公司投行業務復甦持續性。建議關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商。
+
+---
+
+### 2026-07-07 08:11:38  #市場 #國際
+
+30年期日本國債收益率下跌0.5個基點，至4.070%。
+
+---
+
+### 2026-07-07 08:10:55  #MKT News #Important #005930.KS #Impact bearish
+
+【KOSPI down 3%; Samsung Electronics down 5%】South Korea's KOSPI extended intraday losses to 3% as Samsung Electronics, which earlier issued earnings guidance, fell 5%.
+
+---
+
+### 2026-07-07 08:10:40  #市場 #焦點 #國際
+
+韓國綜合股價指數（KOSPI）下跌3%，至7806.25點。三星電子擴大跌幅至5%。
+
+---
+
+### 2026-07-07 08:10:26  #公司 #市場
+
+三星電子股價下跌4.4%，報30.4萬韓元。
+
+---
+
+### 2026-07-07 08:10:21  #MKT News #Market Regions #Japan & APAC
+
+Australia's S&P/ASX 200 opened down 10.70 points (-0.12%) at 8,820.30 on Tuesday, July 7.
+
+---
+
+### 2026-07-07 08:10:09  #觀點
+
+【中信證券：全球主要可投資產正在面臨空間、配置和波動的不可能三角】中信證券研報表示，今年二季度以來，隨著全球資產價格和估值中樞的系統性走高，以及全球貨幣週期的轉向，全球主要可投資產正在面臨空間、配置和波動的不可能三角，資產配置的整體難度正在提升。從宏觀經濟視角看，經濟K型分化的格局並未出現鬆動跡象，但金融資產可能更需要關注全球宏觀流動性轉向的風險和全球股市極度同步的罕見現象。
+
+---
+
+### 2026-07-07 08:09:16  #其他
+
+【浙江部署防禦超強颱風“巴威”：立足最不利局面做最充分準備】2026年7月2日在太平洋麵上生成的今年第9號颱風“巴威”（超強颱風級），因個頭大、發展快、強度高、風力極端，連日來備受關注。據氣象部門預報，“巴威”可能10日夜裡到11日早晨緊擦臺灣北部或登陸臺灣，向浙閩沿海靠近。為做好颱風防禦準備工作，浙江省應急管理廳、省水利廳已先後下發通知，要求各地立足“超強颱風正面登陸、貫穿全省”的最不利局面，全面做好風險隱患排查。與此同時，浙江的沿海城市已集體啟動Ⅳ級防颱應急響應。（澎湃）
+
+---
+
+### 2026-07-07 08:08:26  #公司 #觀點 #國際
+
+【中信證券：韓國未來有望成為物理AI時代的重要參與者】中信證券研報表示，物理AI持續火熱，其本質是具身智慧以及機器人概念的不同表達方式，韓國近期提出了物理AI超級專案且我們近期調研了韓國機器人產業鏈，我們認為韓國未來有望成為物理AI時代的重要參與者。韓國機器人產業鏈基礎雄厚，主要集中在硬體層面，主要由現代集團等巨頭財閥擔綱，已初步具備從上游零部件到下游各類整機制造的完整產業鏈，但在具身模型及供應鏈降本能力上仍與中美有差距。我們看好物理AI時代下全球及韓國機器人的發展趨勢，韓國機器人企業及其相關的中國上市公司均值得關注，韓國投資者非常關注智慧機器人產業鏈投資機會，我們認為國內投資者也應該重視具身智慧機器人板塊的投資機會。
+
+---
+
+### 2026-07-07 08:07:45  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.2%，至8,814.90點。
+
+---
+
+### 2026-07-07 08:07:23  #國際
+
+韓國韓華海洋未能拿下加拿大潛艇訂單，股價大跌 21%。
+
+---
+
+### 2026-07-07 08:05:42  #公司
+
+【新產業：擬1億元—2億元回購公司股份】新產業(300832)7月7日早間公告，擬1億元—2億元回購公司股份，用於員工持股計劃或股權激勵，回購價格不超過60元/股。
+
+---
+
+### 2026-07-07 08:05:11  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DAX
+
+【Germany cabinet approves 2027 budget; defence outlays rise to €109.7bln】Germany’s federal cabinet on the 6th approved a draft 2027 federal budget that plans total spending of €555.4bln, up from €524.5bln in 2026. The draft raises federal defence spending to about €109.7bln in 2027, roughly one-third higher than 2026. The plan drew criticism: The Left said it prioritises defence over household relief and disaster aid; industry groups warned spending and debt growth are too rapid and fiscal planning lacks prudence; environmental organisations criticised reallocations from the climate and transformation fund, saying the move would weaken support for climate protection.
+
+---
+
+### 2026-07-07 08:05:09  #市場
+
+韓華海洋股價下跌20%。
+
+---
+
+### 2026-07-07 08:04:52  #其他
+
+【德國內閣批准新財政預算草案 大幅增加軍費】德國聯邦內閣當地時間6日透過2027年聯邦財政預算草案。根據預算草案，2027年德國聯邦財政支出計劃為5554億歐元，高於2026年的5245億歐元；值得注意的是，2027年德國聯邦國防預算將增至約1097億歐元，較2026年增長約三分之一。這份預算草案引發多方批評。德國左翼黨認為，政府將更多資金用於國防支出，而對減輕民眾負擔和災害救助投入不足；德國工業界認為，預算支出和債務規模增長過快，財政規劃缺乏穩健性；部分環保組織則批評政府調整氣候與轉型基金資金安排，認為此舉將削弱對氣候保護的支援。
+
+---
+
+### 2026-07-07 08:04:16  #公司
+
+【半年報預增公司佔比走高 新興產業助力業績增長】A股半年報業績預告披露節奏加快。Wind資料顯示，截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中國證券報）
+
+---
+
+### 2026-07-07 08:02:50  #市場 #國際
+
+五年期日本國債收益率下跌0.5個基點，至1.935%。
+
+---
+
+### 2026-07-07 08:02:21  #國際
+
+韓國綜合股價指數擴大跌幅至2%，報7888.00點。
+
+---
+
+### 2026-07-07 08:02:11  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+South Korea's KOSPI fell as much as 2.00% intraday.
+
+---
+
+### 2026-07-07 08:02:01  #MKT News #Important #005930.KS #Impact bearish #000660.KS
+
+South Korea's KOSPI opened down 96.78 points, or 1.2%, at 7,954.55 on Tuesday, July 7; Samsung Electronics fell 3% and SK Hynix fell 1%.
+
+---
+
+### 2026-07-07 08:01:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 108.77 points, or 0.16%, at 69,628.92 on Tuesday, July 7.
+
+---
+
+### 2026-07-07 08:01:10  #公司 #市場
+
+三星電子股價下跌3%。
+
+---
+
+### 2026-07-07 08:00:39  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌1.6%，至7919.20點。
+
+---
+
+### 2026-07-07 08:00:22  #市場
+
+日經225指數上午開盤報69460.08點，跌幅0.40%。
+
+---
+
+### 2026-07-07 07:59:55  #公司
+
+【亞馬遜雲服務釋出AWS SimuLearn學習計劃徽章，提供雲端實踐技能可信驗證】亞馬遜雲服務（AWS）當地時間7月6日宣佈推出AWS SimuLearn學習計劃徽章，旨在為學習者提供一種全新且可驗證的憑證，以證明其具備設計、構建和驗證雲端解決方案的實操經驗。亞馬遜稱，學習者只要完成某個SimuLearn學習計劃中的所有實操任務併成功透過驗證，即可獲得官方頒發的AWS徽章，作為其溝通、決策及全面技術能力的有力證明。
+
+---
+
+### 2026-07-07 07:58:53  #國際
+
+【日本財務省：截至6月底日本外匯儲備穩定在1.09萬億美元】日本財務省週二公佈的資料顯示，截至6月底，日本外匯儲備為1.09萬億美元，與上月基本持平。注：日本通常動用外匯儲備干預市場以支撐日元匯率。日本持有的外國證券價值為9290億美元，較上月的9320億美元略有下降。外匯存款規模 1620 億美元，與上月大體持平。
+
+---
+
+### 2026-07-07 07:56:34  #其他
+
+【廣西水文中心升級釋出洪水紅色預警】廣西壯族自治區水文中心於7月7日7時00分升級釋出洪水紅色預警，提請貴港、南寧、梧州、欽州、北海、防城港、玉林及桂林等市沿江區域有關單位及社會公眾加強防範，及時避險。
+
+---
+
+### 2026-07-07 07:55:23  #市場 #國際
+
+日本10年期國債收益率下跌1.0個基點，至2.820%。
+
+---
+
+### 2026-07-07 07:55:14  #公司 #市場 #國際
+
+【美股儲存晶片股盤後普跌 此前三星電子股價在盤前交易中下跌】美股儲存晶片股盤後普跌，閃迪跌逾3%，美光科技、西部資料跌超2%。韓國領先的半導體儲存器公司三星電子股票盤前在交易中一度下跌4.7%。該公司公佈了2026年4月至6月季度（第二季度）的初步收益報告，顯示營業利潤較去年同期增長19倍，主要得益於人工智慧資料中心對記憶體需求的不斷增長。競爭對手SK海力士股市一度下跌3.3%。
+
+---
+
+### 2026-07-07 07:55:02  #Trading Economics #Economy #Japan #Foreign Exchange Reserves #Importance 1
+
+Japan Forex Reserves Extend Decline in June — Japan’s foreign reserves fell by USD 18.40 billion to USD 1.287 trillion at the end of June 2026 from USD 1.306 trillion in May, extending the previous month’s sharp decline. Foreign currency reserves stood at USD 1.091 trillion, comprising USD 928.58 billion in securities and USD 161.93 billion in deposits. Of the deposits, USD 161.50 billion were held with foreign central banks and the Bank for International Settlements (BIS), while deposits with banks headquartered in Japan totaled USD 405 million and those with foreign banks amounted to USD 25 million. Japan’s IMF reserve position was USD 11.31 billion, SDR holdings were valued at USD 60.39 billion, and gold reserves stood at USD 109.51 billion. Other reserve assets totaled USD 15.76 billion, while other foreign currency assets came in at USD 34.12 billion.
+
+---
+
+### 2026-07-07 07:54:22  #其他
+
+【廣西橫州市娘山水庫開閘洩水調洪】橫州市北灘水庫服務站7月6日晚釋出通知，娘山水庫2026年7月6日21:00水位達88.15米，且水位繼續升高，為確保安全運營，經研究，定於2026年7月7日2:30時開啟放水塔放水閘門洩水調洪。請橫州鎮、蓮塘鎮及有關單位通知涉及的村莊群眾遠離河道，提前做好防範，同時密切關注排水資訊，及時採取防範措施確保安全度汛。
+
+---
+
+### 2026-07-07 07:54:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Slip After Record-Setting Rally — US stock futures edged lower on Tuesday after Wall Street kicked off the week with solid gains, led by another record close for the Dow. In Monday’s regular session, the Dow rose 0.29% to finish above the 53,000 mark for the first time. The S&P 500 and Nasdaq Composite also advanced 0.72% and 1.12%, respectively, supported by strength in technology shares. Among the top gainers were Tesla (+6.7%), AMD (+6.6%), Meta Platforms (+3%), Broadcom (+3.7%), and Western Digital (+7.1%). In after-hours trading, Rivian plunged more than 9% after the electric vehicle maker launched a public offering of 75 million common shares. Meanwhile, Samsung Electronics shares fell in pre-market trading in South Korea despite posting stronger-than-expected profits, driven by solid demand for AI data center memory chips.
 
 ---
 
@@ -18757,229 +19111,5 @@ President Trump is expected to speak at a U.S. 250th anniversary event at 11:00 
 ### 2026-07-05 09:10:17  #其他
 
 【中英服務貿易協定聯合可行性研究技術磋商在倫敦舉行】6月30日-7月1日，中英服務貿易協定聯合可行性研究技術磋商在英國倫敦舉行，取得實質性進展。雙方同意加快推進後續工作，爭取早日完成聯合可研。今年1月，雙方簽署諒解備忘錄，正式啟動中英服務貿易協定聯合可行性研究。此前，雙方已舉行2次線上技術磋商，就聯合可研有關事項深入交換意見。（商務部）
-
----
-
-### 2026-07-05 09:08:05  #其他
-
-【北京市釋出雷電黃色預警】7月5日9時，北京市釋出雷電黃色預警：預計，7月5日14時至23時，我市自西北向東南將先後出現雷陣雨天氣，影響城區的主要時段為17時至20時。延慶、昌平、懷柔、密雲、平谷、順義、門頭溝、房山等區短時雨強較大，並伴有7級以上陣風和冰雹，請注意防範。
-
----
-
-### 2026-07-05 09:07:31  #MKT News
-
-US President Trump says he will speak regardless.
-
----
-
-### 2026-07-05 09:07:15  #MKT News
-
-Trump said he would wait out the storm and would not allow rain to interrupt the 250th anniversary events.
-
----
-
-### 2026-07-05 09:06:40  #國際
-
-特朗普：我很快就要離開白宮了（啟程去250週年紀念活動）。
-
----
-
-### 2026-07-05 09:06:14  #國際
-
-特朗普：絕不會讓一場雨打斷 250 週年紀念活動。
-
----
-
-### 2026-07-05 09:06:10  #國際
-
-特朗普：我們會靜待這場風暴過去。
-
----
-
-### 2026-07-05 09:04:07  #公司 #國際
-
-【俄羅斯缺油加劇！民眾搶購中國電動車 插混車銷量已翻倍】7月5日訊息，據報道，連日來俄羅斯大部分地區加油站排起長龍，汽油和柴油供應持續緊張，多數地區已實施限油措施。燃油短缺正意外催熱俄羅斯新能源汽車市場，中國品牌成為最大受益者。 專門銷售中國品牌汽車的EN Cars公司創始人扎別林向媒體透露，自燃油形勢變得複雜以來，市場需求已成倍增長，無論是經濟型車型還是高階車型，消費者興趣都在上升。 另據一家莫斯科經銷商反映，中國電動車銷量已從每月寥寥幾臺躍升至每天數臺。 分析機構Autostat和俄羅斯工業貿易部資料顯示，今年前五個月，俄羅斯售出約24600輛新型插電式混合動力車，同比增長125%；純電動汽車新車銷量增長19%，達到4460輛。
-
----
-
-### 2026-07-05 09:03:22  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【June China logistics prosperity index rises to 50.6; balanced regional recovery】China's logistics prosperity index rose to 50.6 in June, up 0.3 ppt MoM and remaining in the expansion range, with a balanced recovery across regions. Nine of 12 sub-indexes were in expansion; the business volume index was 50.6 (+0.3 ppt MoM) and the new orders index 50.3 (+0.1 ppt MoM). Manufacturing logistics demand firmed — strongest gains in electronic/mechanical equipment, communications equipment, transportation equipment and energy‑saving home appliances — while household consumption logistics were stable, with holiday spending boosting wholesale, retail chains and some supermarkets.
-
----
-
-### 2026-07-05 09:02:47  #市場
-
-【酒價內參7月5日價格釋出：飛天茅臺國窖1573領漲 總價創18天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月5日整體明顯反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9920元，較昨日大幅上漲37元，重上9900元關口，連續四日回升並創下18天以來最高。今日除水晶劍南春小跌外，其餘品種均上漲或平盤，市場修復力度強勁，終端交投情緒環比改善。今日11大白酒單品八漲一跌二平，贏家數量佔據絕對優勢。上漲方面，國窖1573與青花郎漲幅居前，均上漲8元/瓶，其中前者連續兩日回升，升至近一月次高位，後者平近一月最大單日漲幅，自690元關口反彈，重新逼近700元大關；五糧液普五八代與習酒君品均上漲6元/瓶，其中前者重上800元關口，後者創下近一月最高價；飛天茅臺上漲4元/瓶，終結此前三連陰走勢，自前一日創下的近一月最低位溫和修復；青花汾20與古井貢古20均上漲3元/瓶，其中前者升至近一月次高位，後者四連陽續創近一月最高價；洋河夢之藍M6+小幅上漲1元/瓶，仍處於近一月次高區間。下跌方面，水晶劍南春為唯一輸家，下跌2元/瓶，平近一月最低價。精品茅臺與五糧液1618價格環比保持不變。
-
----
-
-### 2026-07-05 09:01:57  #其他
-
-【6月份中國物流業景氣指數升至50.6% 各區域均衡增長】中國物流與採購聯合會今天（5日）釋出6月份中國物流業景氣指數。指數在擴張區間繼續加快，呈現各區域均衡回升的良好態勢。6月份中國物流業景氣指數為50.6%，較上月上升0.3個百分點。從分項指數看，12個分項指數中，有9項位於擴張區間。其中，業務總量指數和新訂單指數均連續多月環比回升。6月份，業務總量指數為50.6%，較上月上升0.3個百分點；新訂單指數為50.3%，較上月上升0.1個百分點。製造業物流需求穩中有進，電子機械裝置製造、通訊裝置製造、交通運輸裝置製造、節能家電製造等回升勢頭較好。居民消費物流需求平穩，假日消費推動商貿批發、零售連鎖和部分商超業務回升。（央視新聞）
-
----
-
-### 2026-07-05 08:59:40  #國際
-
-【俄烏繼續互相發動大規模襲擊】據俄羅斯和烏克蘭方面訊息，當地時間3日晚至4日凌晨，俄烏雙方針對對方目標發動大規模襲擊。俄羅斯國防部4日發表宣告說，過去24小時內，俄軍襲擊了烏軍在142個地區的燃料、能源和運輸基礎設施，以及遠端無人機生產和儲存設施，並對烏軍和外國僱傭兵的臨時部署地點進行了打擊。此外，俄軍還在哈爾科夫地區又控制了4個居民點。烏克蘭武裝部隊總參謀部4日通報稱，3日至4日夜間，共記錄268次交火。過去24小時內，烏軍打擊了俄軍3個指揮所、5個無人機指揮所等。俄方兩枚導彈和17架無人機擊中了16個目標。（央視新聞）
-
----
-
-### 2026-07-05 08:58:09  #國際
-
-市場訊息：特朗普政府公佈方案，擬廢除現行 702 項 聯邦法規  。
-
----
-
-### 2026-07-05 08:57:14  #公司
-
-【AI資料中心耗水量遠超企業披露 發電間接用水成巨大隱形消耗】微軟、谷歌、亞馬遜等科技巨頭，今明兩年預計合計投入 1 萬億美元（現匯率約合 6.79 萬億元人民幣）用於人工智慧基礎設施建設。受資料中心供電方式影響，部分地區企業實際耗水量遠高於其對外披露數值，且未來數年，這類企業的用水需求還將快速攀升。 這些企業每年都會發布可持續發展報告，其中會披露旗下資料中心的現場用水量。但在一眾行業巨頭裡，只有 Meta 除統計廠區直接用水外，還核算為其供電的發電站產生的間接耗水量。
-
----
-
-### 2026-07-05 08:54:24  #MKT News #0753.HK #Impact mixed #0670.HK
-
-【Domestic route fuel surcharge cut from July 5, 2026; up to 50 yuan per segment】Air China, China Eastern, China Southern and other carriers said fuel surcharges on domestic tickets sold from July 5, 2026 (inclusive) will be reduced: segments up to 800 km will carry a 50 yuan fuel surcharge per segment (down 30 yuan); segments over 800 km will carry a 100 yuan fuel surcharge per segment (down 50 yuan).
-
----
-
-### 2026-07-05 08:53:00  #其他
-
-市場訊息：川崎重工與豐田正分別研發氫燃料發電機和氫動力跑車，氫內燃機由此成為燃料電池的低成本替代方案。
-
----
-
-### 2026-07-05 08:51:03  #國際
-
-市場訊息：特朗普政府推出新版美元紙幣設計，新版鈔票印有特朗普的簽名。
-
----
-
-### 2026-07-05 08:50:53  #國際
-
-市場訊息：特朗普稱無論如何都將發表7月4日獨立日演講。
-
----
-
-### 2026-07-05 08:50:13  #市場 #央行 #國際
-
-【6月份中國大宗商品價格指數小幅回落】
-
-中國物流與採購聯合會今天（5日）公佈6月份中國大宗商品價格指數。從指數執行情況看，受中東局勢緩和、美聯儲加息預期升溫，以及部分產業進入傳統淡季等影響，指數小幅回落，企業原材料成本壓力繼續緩解。同時，國內外市場需求有所恢復，大宗商品市場總體持穩執行，展現較好韌性。
-
-6月份中國大宗商品價格指數為130.3點，環比回落1.7%，同比增長17.6%。在中國物流與採購聯合會重點監測的50種大宗商品中，6月份價格環比上漲的大宗商品有11種。其中，焦煤、焦炭和瓦楞紙漲幅居前，環比分別上漲20.3%、11.2%和5.3%。
-
-分行業看，隨著中東局勢緩和，國際油價大幅回落，化工價格指數降幅明顯，環比下跌4.8%。能源價格指數則受焦煤、焦炭階段性供應收緊以及夏季能源消費季節性提升等因素影響，環比上漲0.8%。
-
-分析認為，6月份大宗商品價格多數較上月有所回落，企業原材料成本壓力繼續緩解，同時，生產活動擴張有所加快，國內外需求也在趨穩回升。總體來看，積極因素正在集聚增強，下半年有望延續穩中向好執行態勢。當前全球經濟、地緣政治與金融市場仍存在較多不確定因素，外部輸入性風險依然較高。維護產業鏈、供應鏈穩定，仍需加快新舊動能轉換，著力擴大內需、最佳化供給，進一步提高風險甄別與化解能力。（央視新聞）
-
----
-
-### 2026-07-05 08:36:43  #其他
-
-【南非副總統：與中國合作 非洲收穫的是技術和尊嚴】南非副總統保羅·馬沙蒂萊日前接受總檯《高階訪談》欄目專訪。採訪中，馬沙蒂萊力挺中非合作，駁斥外界對中非合作的歪曲和抹黑。他強調：“我們看到的是積極的成果，並沒有看到他們所說的負面後果。”他直言西方批評從未間斷，但非洲收穫的是技術和尊嚴。（央視新聞）
-
----
-
-### 2026-07-05 08:32:10  #公司
-
-市場訊息：微軟持有 OpenAI 約 27% 的股份，雙方達成投資協議時，OpenAI 估值約 1350 億美元。
-
----
-
-### 2026-07-05 08:32:05  #其他
-
-市場訊息：OpenAI 證實已於 6 月秘密遞交 IPO 申請，據報道其傾向於 2027 年上市，目標估值 1 萬億美元。
-
----
-
-### 2026-07-05 08:28:59  #公司
-
-【美伊衝突後聚丙烯價格大幅上升 德冠新材：能實現有效的價格傳導】德冠新材7月4日在分析師會議表示，目前公司原材料庫存能有效滿足生產需要，公司整體經營正常。面對美伊衝突後聚丙烯價格大幅上升，公司憑藉產品競爭力和供應鏈改革措施，能實現有效的價格傳導。在價格有效傳導的基礎上，產品還具備較高的技術和品牌溢價，進而反映在公司一季度毛利率的穩步提升中。近年來，公司持續開展的供應鏈改革措施，包括落實多方面開拓國內外供應渠道、關鍵原材料自產自用、採購規劃與在手訂單規模適配等舉措，有效控制整體風險敞口，能夠應對未來原材料價格大幅波動的情況，以降低對公司銷售和運營的影響。
-
----
-
-### 2026-07-05 08:22:18  #MKT News #Market Themes #AI Revolution
-
-【Everbright Securities: Semiconductor and AI waves push fluorinated new materials into rapid growth】Everbright Securities says leading Chinese fluorochemical firms are accelerating deployment of fluorinated new materials to build a second growth curve. In semiconductors, domestic high‑purity (G5) electronic‑grade hydrofluoric acid — long dominated by Japanese and US suppliers — has cleared certification at leading domestic and international wafer foundries and moved into volume production. Rapidly rising compute from AI, HPC and hyperscale data centers is increasing heat density, weakening air‑cooling effectiveness and boosting liquid‑cooling adoption, supporting demand for perfluoropolyether (PFPE) and other high‑performance fluorinated coolants. PFPE’s insulating, non‑flammable and superior thermal properties make it essential for immersion and other high‑safety, high‑power cooling applications. These trends are driving fluorochemical companies toward higher‑tech, higher‑margin product mixes.
-
----
-
-### 2026-07-05 08:20:51  #國際
-
-市場訊息 ：美國6月勞動力人口減少約 70 萬人，2025 年初至今累計減少約130萬人。
-
----
-
-### 2026-07-05 08:17:44  #觀點
-
-【光大證券：半導體與AI浪潮驅動含氟新材料進入高速成長期】光大證券研報認為，國內氟化工領軍企業正加速佈局含氟新材料，聚焦打造第二成長曲線。在半導體領域，高純度（如G5級）電子級氫氟酸作為晶片製造不可或缺的關鍵溼電子化學品，過去長期被日美企業壟斷。近年來，國內企業憑藉產業鏈一體化優勢突破了超淨高純工藝瓶頸，電子級氫氟酸順利透過國內外一線晶圓代工廠的嚴苛認證，並進入規模化放量階段。與此同時，AI、HPC和超大規模資料中心算力的快速攀升致使資料中心的熱密度不斷提高，傳統風冷方案在高功率密度場景下已逐漸難以滿足需求，液冷正在成為高效散熱的必選方案。氟化工企業順應高效散熱趨勢，積極佈局全氟聚醚（PFPE）等高效能含氟冷卻液，憑藉其絕緣、不燃及優異的熱管理效能，在浸沒式液冷等高安全性、高功率場景中佔據不可替代的地位。含氟新材料正推動氟化工企業向高技術壁壘、高附加值方向深度轉型。
-
----
-
-### 2026-07-05 08:07:02  #MKT News
-
-【China's first integrated atmospheric survey fixed‑wing aircraft completes maiden flight】Aviation Industry Corporation of China said its first fixed‑wing atmospheric survey platform, the Yun‑12F atmospheric integrated survey aircraft, completed a maiden flight at Harbin Pingfang Airport. Built on the Yun‑12F airframe, the platform integrates more than 60 mission systems to deliver high‑sensitivity, three‑dimensional detection of atmospheric particulates, gaseous pollutants, greenhouse gases and cloud water microphysical/chemical properties. The aircraft provides integrated multi‑pollutant, greenhouse‑gas and cloud‑water vertical survey capabilities to support regional air‑pollution monitoring.
-
----
-
-### 2026-07-05 08:05:24  #國際
-
-市場訊息：特朗普計劃在國家廣場舉辦集會，紀念美國獨立 250 週年，但強風暴天氣令該計劃受阻。
-
----
-
-### 2026-07-05 08:01:04  #公司 #國際
-
-【“30+非洲國家以北斗為主，部分棄用GPS”】據香港《南華早報》7月4日報道，美國國防部下屬智庫“非洲戰略研究中心”（ACSS）近日釋出研究報告稱，透過“一帶一路”倡議，中國在非洲建立起一套“深度整合”且“難以替代”的海洋網路體系。 報告稱，中資企業不僅運營、融資或持有非洲約三分之一港口的股份，如今還在這些基礎設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。 而且，這種影響力遠不止於碼頭。中方同時融資並運營著連線這些港口及非洲大陸其他涉海專案的公路、鐵路和倉儲網路，使非洲貿易與中國自身的貿易體系緊密交織。 （觀察者網）
-
----
-
-### 2026-07-05 07:55:43  #其他
-
-【廣西東興市將防禦颱風三級應急響應提升為二級應急響應】根據東興市氣象資訊，受今年第10號颱風“美莎克”影響，2026年7月4日20時至7月5日03時，東興鎮出現大暴雨，江平鎮、馬路鎮出現特大暴雨，最大降雨出現在江平鎮城區（363.8毫米）。預計7月5日，全市大部仍有暴雨，區域性大暴雨。7月6日，全市大部有暴雨，區域性大暴雨。本次降雨持續時間長，降雨範圍廣，累計雨量大，致災風險高。東興市氣象局已於7月5日3時40分提升重大氣象災害（颱風）Ⅳ級應急響應為Ⅱ級應急響應。按照《東興市防禦颱風應急預案》的規定，經防汛抗旱指揮部領導批准，決定於7月5日4時將東興市防禦颱風三級應急響應提升為二級應急響應。請各成員單位按照職責分工落實好各項防禦措施，確保防汛防颱安全。（央視新聞）
-
----
-
-### 2026-07-05 07:51:50  #其他
-
-【多家券商成出資人，新業務視窗開啟】近日，交易所公示了債券質押式協議回購業務出資人資訊。其中，首批有5家券商資管，包括東方財富證券資管、華福證券資管、首創證券資管、申萬宏源資管以及中郵證券資管。它們將作為出資人，以各類債券為抵押將資金融出給資金需求方。“交易所的做法，破解了傳統協議回購交易中融資方尋找資金對手渠道有限、多方反覆詢價溝通成本高、交易對接效率偏低等行業痛點，依託平臺集中展示實現供需匹配，進一步啟用優質債券擔保品融資功能。”
-
----
-
-### 2026-07-05 07:49:00  #公司 #國際
-
-【美國國防部啟動碳酸鋰戰略收儲，五年擬採購1.62萬噸補充國防儲備】當地時間7月2日，美國國防部後勤局（DLA）釋出招標公告，計劃透過一項為期五年的固定價格合同採購電池級碳酸鋰，用於補充美國國家國防儲備。這是美國首次將鋰納入國家國防儲備的大規模採購行動。根據招標檔案，本次採購總量上限為1.6167萬噸電池級碳酸鋰，合同最高金額達3億美元。DLA將於7月17日前接受投標，計劃向技術方案符合要求且報價最低的供應商授予合同，最低保證採購金額為100萬美元。（澎湃）
-
----
-
-### 2026-07-05 07:47:35  #公司
-
-【近一週京東方A、水晶光電獲超200家機構調研】近一週機構調研個股有170多隻，京東方A獲調研機構數最多。京東方A(000725)有238家機構調研。對於投資者廣泛關注的玻璃基板業務，京東方A表示，玻璃基封裝載板的商業化離不開整個行業的協同推進，一方面是產業上游的裝置和材料，另一方面是需要和客戶一起深度協同，推進玻璃基封裝載板在封裝級和系統級的突破。其次，圍繞著客戶對產品的技術需求，公司將不斷進行技術探索和突破，同時深挖不良機理，固化改善措施，不斷提升產品良率水平。玻璃基板概念近期火熱，也是機構調研的重點方向，水晶光電近一週也獲得超200家機構調研。
-
----
-
-### 2026-07-05 07:40:55  #市場
-
-【PC及記憶體硬碟價格持續高位：硬碟一天三個價 經銷商喊出“非剛需別買”】數碼終端市場正在經歷一場看不到盡頭的結構性震盪。記者走訪上海多個數碼城，多位PC（個人電腦）經銷商表示，目前零部件和整機的價格已經處於極端高位，但未來還要漲價，且至少在一年內看不到（漲價）盡頭。這輪價格持續上漲已經持續相當長一段時間，最近的導火索就是蘋果高調官宣漲價。一位PC經銷商則更加坦誠，建議記者“不是剛需就先別買”，儘管不知道什麼時候才能降價：“（整機）這個月還要漲，特別是遊戲本，漲得最厲害。我覺得至少在一年之內都不會降，會漲到明年這個時候。不急的話建議不要買，不是剛需就先別買。”在這種一眼望不到頭的看漲行情下，不僅品牌整機價格居高不下，DIY裝機市場和配件價格更是每天都在經歷劇烈的波動。一位組裝機商家介紹，自己在5天前為客戶裝了一臺電腦，安裝同配置電腦的價格在這5天內就要漲300元。不僅是電腦，硬碟更是“早上一個價，下午、晚上一個價”。一款閃迪1TB的SSD硬碟，可能早上標價820元，當晚就漲到860元。 (澎湃新聞)
-
----
-
-### 2026-07-05 07:39:28  #市場 #國際
-
-【今年上半年全國共新開國際航空貨運航線92條】從中國物流與採購聯合會瞭解到，我國國際航空貨運網路建設持續提速，截至6月30日，今年全國新開國際航空貨運航線超過90條。據中國物流與採購聯合會航空物流分會統計，6月份全國共新開12條國際航空貨運航線。今年上半年，全國共新開92條國際航空貨運航線，每週增加往返航班超過217個。航向結構仍以亞歐為主，其中，亞洲航線41條，歐洲航線38條，北美洲航線11條，南美洲航線1條，非洲航線1條。貨物結構方面，以跨境電商貨物、高階製造業貨物、高附加值貨物、電子產品、汽車配件為主。今年以來，我國國際航空貨運網路建設持續提速。航線佈局深耕歐亞核心通道，穩步拓展跨洋及遠域航線，全球物流通達版圖不斷延展。國內航空企業成為開闢空中貨運通道的主力軍，自主航空運力保障能力穩步夯實。貨運貨源持續向高時效、高附加值品類集中，跨境電商、高階製造相關貨品成為運輸主力，航空物流精準匹配外貿高質量發展需求，聯通全球的空中貨運樞紐體系日趨完善。（央視新聞）
-
----
-
-### 2026-07-05 07:39:20  #其他
-
-【國家級海水淡化公共測試平臺正式投用】7月2日，由自然資源部天津海水淡化與綜合利用研究所打造的國家級海水淡化公共測試平臺，在天津港保稅區臨港片區正式投入執行。
-
----
-
-### 2026-07-05 07:35:01  #公司 #國際
-
-【德勤戴耀華：AI是長期紅利，企業數字化進入“智慧體協同”階段】美國東部時間6月24日，美光科技釋出2026財年Q3財報，營收、毛利率、前瞻指引全面超出市場預期，為“AI驅動全球擴產”提供了產業端驗證。同日，英偉達年度股東大會上，黃仁勳宣告智慧體時代正式到來。標普全球也曾提出，全球科技巨頭2026年計劃向資料中心和AI基礎設施投入約6350億美元，圍繞算力和能源的戰略博弈進入白熱化階段。“這一現象反映出當前AI商業化程序中典型的供需錯配，也是技術爆發初期常見的階段性困境。”德勤亞太管理委員會主席、德勤亞太首席戰略與創新官戴耀華在夏季達沃斯論壇期間接受採訪時指出，AI對經濟增長的賦能是深刻且長期的，我們正處於“數字化之後的智慧化初期”，生產力層面的全面躍升將在未來五至十年逐步顯現。而算力基礎設施建設與智慧服務發展實際處於同步推進之中，智慧服務的規模化落地預計在2028年後步入爆發期。在AI重塑全球經濟版圖的背景下，戴耀華留意到，中國企業的出海模式也出現了變化，從以往以營銷渠道構建為主的產品輸出型出海，轉變為真正意義上的“國際化”發展戰略。戴耀華表示，“中國企業不僅力求在海外目標市場紮根，實現供應鏈與運營機制的本土化自成體系，更在各國間統籌佈局研發、生產製造乃至智慧財產權等多重功能。在滿足各國產業保護與技術主權要求的前提下，它們以全球化視野為指引，致力於構建適應國際化發展目標的全球生態。”（21財經）
 
 ---
