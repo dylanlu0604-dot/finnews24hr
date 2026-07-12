@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 03:34:22",
-  "count": 16616,
+  "updated": "2026-07-13 03:38:11",
+  "count": 16615,
   "items": [
+    {
+      "id": "4983056",
+      "time": "2026-07-13 03:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗支援黎巴嫩主權，要求結束以色列佔領。"
+    },
     {
       "id": "mkt:019f57d0-532c-7aab-8d46-bc8d513e815c",
       "time": "2026-07-13 03:31:38",
@@ -151426,22 +151434,6 @@
         "MKT News"
       ],
       "text": "【Dozens of Israeli settlers detained by IDF after attempting to cross into Syria】The Israeli Defense Forces said earlier today it detained dozens of settlement activists who tried to cross into Syria and handed them to police for questioning. The activists, who call themselves 'Bashan Pioneers', have made repeated crossing attempts over the past year and press for establishing settlements in the area; they have support from some lawmakers. The IDF described the incident as a serious criminal act that endangered soldiers and civilians."
-    },
-    {
-      "id": "4971100",
-      "time": "2026-07-06 03:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗司法總監：美以求和源於潰敗 刺殺高層罪責必清算】伊朗司法總監穆赫辛尼·埃傑伊表示，美國與以色列在針對伊朗的戰事中犯下的種種罪行永難饒恕；他稱美方主動尋求與德黑蘭談判，以色列則是走投無路才提出停火。他稱：“他們如今迫於絕境，才跑來提議談判、呼籲停火。是誰主動要求談判？是美國。是誰主動要求停火？是以色列。”埃傑伊還補充，伊朗必將追究美國以及刺殺前最高領袖哈梅內伊相關責任人的罪責，對此絕不退讓。"
-    },
-    {
-      "id": "mkt:019f33c7-48c9-7aab-8ca5-12ffbd4ae035",
-      "time": "2026-07-06 03:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said earlier today dozens of Israeli citizens attempted to cross the border into Syria. The IDF responded quickly, prevented the crossings and handed the intercepted individuals to police for further processing."
     }
   ]
 }
