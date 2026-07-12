@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 00:30:52",
+  "updated": "2026-07-13 00:34:57",
   "count": 16632,
   "items": [
+    {
+      "id": "4983011",
+      "time": "2026-07-13 00:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞洲U23田徑錦標賽：中國隊獲52枚獎牌】在內蒙古自治區鄂爾多斯市舉行的2026第一屆亞洲U23田徑錦標賽12日閉幕，中國隊共獲23枚金牌、17枚銀牌、12枚銅牌，實現金牌榜、獎牌榜“雙第一”。"
+    },
     {
       "id": "mkt:019f5729-f9ef-7aab-8d46-342f48b6f2fe",
       "time": "2026-07-13 00:29:56",
@@ -151565,14 +151573,6 @@
         "Impact mixed"
       ],
       "text": "【BP considering exit from northern Japan offshore wind project】Nikkei reports BP is weighing exit from a jointly developed offshore wind project off northern Japan. A Marubeni Corp-led consortium is expected to continue; multiple sources say BP has discussed an exit with consortium partners. BP's UK headquarters says no final decision has been made. BP's potential exit would be a setback for Japan's offshore wind industry."
-    },
-    {
-      "id": "4971053",
-      "time": "2026-07-06 00:33:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩官方部門：自3月以來，以色列對黎巴嫩發動的襲擊已造成4304人遇難。"
     }
   ]
 }
