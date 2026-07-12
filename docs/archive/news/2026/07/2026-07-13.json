@@ -1,7 +1,23 @@
 {
   "date": "2026-07-13",
-  "count": 50,
+  "count": 52,
   "items": [
+    {
+      "id": "4983041",
+      "time": "2026-07-13 01:35:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列宣佈將於10月27日舉行大選】當地時間12日，以色列執政聯盟宣佈，以色列第26屆議會選舉將於10月27日舉行。"
+    },
+    {
+      "id": "mkt:019f5763-81b9-7aab-8d46-6aaa32e8d106",
+      "time": "2026-07-13 01:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU again fails to agree on 21st round of Russia sanctions】On the 12th (local time) the EU again failed to reach agreement on a 21st package of sanctions against Russia. After an ambassadors' meeting on July 10 failed to secure consensus, the EU rotating presidency held intensive consultations with member states; negotiations on the 12th ended without result."
+    },
     {
       "id": "4983040",
       "time": "2026-07-13 01:32:20",
