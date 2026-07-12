@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-12 15:59:33",
+  "updated": "2026-07-12 16:03:38",
   "count": 16528,
   "items": [
+    {
+      "id": "4982773",
+      "time": "2026-07-12 16:00:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總統：格雷厄姆的離世讓我心碎，以色列人民正在為他的離去而哀悼，我將無比懷念我這位偉大的朋友。在這個悲痛的時刻，我向林賽（格雷厄姆）的家人和朋友表達最深切的慰問。願他的靈魂安息。"
+    },
+    {
+      "id": "4982772",
+      "time": "2026-07-12 15:59:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨力索具：因資訊披露違法違規 公司及相關人員遭處罰】巨力索具公告稱，公司於2026年7月10日收到河北證監局下發的《行政處罰決定書》。經查明，2025年12月16日以來，公司多次在深交所互動易平臺的回覆未準確完整披露相關資訊，構成誤導性陳述的違法行為。時任董事會秘書張雲、時任總經理楊超為直接負責的主管人員。河北證監局決定對公司責令改正，給予警告，並處以450萬元罰款；對張雲、楊超分別給予警告，並處以300萬元、200萬元罰款。公司未觸及重大違法強制退市情形。"
+    },
     {
       "id": "mkt:019f5552-ef5a-7aab-8d43-45316f6936b8",
       "time": "2026-07-12 15:55:26",
@@ -150640,22 +150656,6 @@
         "CSI300"
       ],
       "text": "【Citic Securities: Two factors could catalyze recovery in some non‑AI sectors with earnings support】Citic Securities says two recent narrative shifts could catalyze a recovery in some non‑AI sectors with earnings support. First, markets are re‑examining Fed policy assumptions and are no longer uniformly pricing a pre‑set hawkish tightening path; a reversal of the tightening/strong‑dollar narrative has eased negative sentiment in non‑AI names. Second, controversy around Meta underscores low market tolerance for negative AI news and suggests downstream players need richer monetization models to justify aggressive upstream investment. Citic also expects outflows from broad A‑share ETFs to ease materially — a key liquidity margin change. The combination of a softer rate‑hike narrative and improved liquidity could spur selective recovery in fundamentally supported non‑AI sectors."
-    },
-    {
-      "id": "4970902",
-      "time": "2026-07-05 16:01:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永鼎股份：預計上半年淨利潤同比增長57%-120% 光纖市場量價齊升板塊利潤大幅增長】永鼎股份(600105.SH)公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為5.00億元-7.00億元，同比增長57%-120%。業績變動主要系光通訊板塊受益於數字經濟推進和AI算力需求爆發，光纖市場量價齊升，板塊利潤大幅增長。公司Q2淨利潤預計3.41億-5.41億，Q1淨利潤1.59億，據此計算，Q2淨利潤預計環比變動114%-240%。"
-    },
-    {
-      "id": "4970901",
-      "time": "2026-07-05 16:00:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "好利來中國電子(002729.SZ)：控股股東計劃以5.971億元人民幣轉讓18%股份，公司控制權將發生變更。"
     }
   ]
 }
