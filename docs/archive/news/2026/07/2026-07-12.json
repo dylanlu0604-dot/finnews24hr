@@ -1,7 +1,31 @@
 {
   "date": "2026-07-12",
-  "count": 455,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:019f54cf-53aa-7aab-8d42-405c207750e1",
+      "time": "2026-07-12 13:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran and Oman held talks on Saturday that focused on traffic and shipping management arrangements in the Strait of Hormuz."
+    },
+    {
+      "id": "4982656",
+      "time": "2026-07-12 13:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與阿曼週六的會談圍繞霍爾木茲海峽通航與航運管控安排展開。"
+    },
+    {
+      "id": "mkt:019f54cc-f9ef-7aab-8d42-38d1432b570e",
+      "time": "2026-07-12 13:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO says crew of a vessel involved in an incident 9 nm east of Oman have been rescued by local authorities."
+    },
     {
       "id": "4982655",
       "time": "2026-07-12 13:25:56",

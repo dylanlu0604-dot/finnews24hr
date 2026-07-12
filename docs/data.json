@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-12 13:29:09",
-  "count": 16461,
+  "updated": "2026-07-12 13:33:15",
+  "count": 16463,
   "items": [
+    {
+      "id": "mkt:019f54cf-53aa-7aab-8d42-405c207750e1",
+      "time": "2026-07-12 13:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran and Oman held talks on Saturday that focused on traffic and shipping management arrangements in the Strait of Hormuz."
+    },
+    {
+      "id": "4982656",
+      "time": "2026-07-12 13:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與阿曼週六的會談圍繞霍爾木茲海峽通航與航運管控安排展開。"
+    },
+    {
+      "id": "mkt:019f54cc-f9ef-7aab-8d42-38d1432b570e",
+      "time": "2026-07-12 13:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO says crew of a vessel involved in an incident 9 nm east of Oman have been rescued by local authorities."
+    },
     {
       "id": "4982655",
       "time": "2026-07-12 13:25:56",
@@ -150106,14 +150130,6 @@
         "XAUUSD"
       ],
       "text": "【Vessel traffic on Strait of Hormuz Oman‑coast route plunges as Iran tightens control】Institutional reports show a sharp drop in ships using the Oman‑coast transit of the Strait of Hormuz on Sunday as Iran continues to reinforce control of the waterway. Multiple vessels suddenly turned back while exiting the strait on Saturday and Sunday. A products tanker that turned back on Saturday appears to have re‑attempted the transit and has passed the northern tip of Oman's Musandam peninsula; an earlier products tanker on the same route broadcasted its sailing intent and is now broadcasting positions in the Gulf of Oman. Some vessels are opting for dark transits. A Suezmax crude tanker last broadcast in the Persian Gulf on Saturday and was recorded in the Gulf of Oman on Sunday. At least eight ships turned back on the Oman route on Friday and Saturday; four of those then altered course north to exit via the Iran‑side channel. There has been no official explanation for the turnbacks; Iran has previously said ships must use Iran‑designated, authorized channels through the strait. Kpler data show 19 bidirectional transits of the Strait on Saturday, but only one vessel publicly indicated it would enter via the Oman‑coast route; Friday traffic via that route was 13 vessels. These statistics cover only observable vessel movements."
-    },
-    {
-      "id": "4970843",
-      "time": "2026-07-05 13:32:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩總統呼籲美國繼續做黎巴嫩堅定的盟友。"
     }
   ]
 }
