@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-13 05:30:39",
+  "updated": "2026-07-13 05:34:26",
   "count": 16627,
   "items": [
+    {
+      "id": "4983089",
+      "time": "2026-07-13 05:31:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地再次傳出爆炸聲】總檯記者當地時間13日獲悉，當天凌晨0時30分左右，伊朗南部阿巴斯港和錫裡克地區傳出超過10次爆炸聲。此外，伊朗南部賈斯克傳出5次爆炸聲，格什姆島也響起多聲爆炸聲。（央視新聞）"
+    },
     {
       "id": "4983088",
       "time": "2026-07-13 05:29:14",
@@ -151559,16 +151567,6 @@
         "其他"
       ],
       "text": "【郭明錤稱蘋果摺疊手機或與其他機型同場釋出、較晚開賣，供應緊張延續至年底】天風國際證券分析師郭明錤發文，據其最新產業調查，摺疊 iPhone 在 2H26（2026 年下半年）的組裝出貨量約 700‒800 萬部，其中 3Q26（2026 年第三季度）出貨量為 50‒100 萬部（佔比約 10%）。相較之下，iPhone 18 Pro / Pro Max 在 3Q26 的預估總出貨量約 2000‒2200 萬部，顯著高於摺疊 iPhone 並已達 9 月正式發售的備貨要求。郭明錤表示，從 3Q26 備貨量的角度，摺疊 iPhone 很有可能會重演 2017 年 iPhone X 當時的狀況：與其他機種一起釋出，但開放預購與正式發售的時間均更晚。"
-    },
-    {
-      "id": "mkt:019f3432-e237-7aab-8ca5-4be1bdff0168",
-      "time": "2026-07-06 05:32:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【UK regulator says AI in finance is an \"arms race\", urges broader powers and LLM oversight】FCA executive director Sheldon Mills said regulators are in an \"arms race\" to keep pace with AI adoption in financial services and need broader powers, the FT reported. He urged UK regulators to assess whether large language models such as ChatGPT, Claude and Gemini should be brought within regulatory rules. Mills said regulators must themselves adopt AI to match the technology’s \"speed, tempo and scale\" and to \"monitor, detect and respond to risks.\" A report by Mills warned that heavy personalization can improve product fit but may also produce algorithmic bias, opaque pricing and targeted manipulation. It recommends the FCA conduct a review within three to six months of risks from firms providing financial services outside the regulatory perimeter and potential consumer harm from rising use of AI in personal finance."
     }
   ]
 }
