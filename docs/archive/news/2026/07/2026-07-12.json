@@ -1,7 +1,35 @@
 {
   "date": "2026-07-12",
-  "count": 326,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:019f5440-65cd-7aab-8d41-41a3211a8b9f",
+      "time": "2026-07-12 10:55:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Disaster Reduction and Relief Committee launches national fourth-level disaster emergency response for Zhejiang】On July 12, under the national emergency plan for natural disaster relief, the National Disaster Reduction and Relief Committee launched a national fourth-level disaster emergency response for Zhejiang after this year’s ninth typhoon, Bavi, caused serious damage. The committee dispatched a disaster relief workgroup to the affected areas to guide and assist local authorities with evacuation, resettlement and basic livelihood support."
+    },
+    {
+      "id": "mkt:019f543f-ea7e-7aab-8d41-3e4e4b8e2870",
+      "time": "2026-07-12 10:55:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US and Iran failed to reach real consensus; conflict may persist through US midterms in November】Atlantic Council senior fellow Thomas Warrick said the U.S. and Iran have “very different” objectives, deep mutual mistrust and “complete misunderstanding,” and did not reach a genuine consensus in recent talks. He said Iran is unwilling to relinquish its claim to control the Strait of Hormuz, complicating any negotiated settlement. Warrick does not expect an immediate large-scale U.S. strike; he predicts a recurring pattern of episodic attacks (often Thurs–Sat), U.S. speeches aimed at calming tensions (Sun–Mon), brief lulls (Tue–Wed) and renewed flare-ups, a cycle he said could continue for weeks or months, potentially through the Nov. 3 U.S. midterm elections."
+    },
+    {
+      "id": "4982559",
+      "time": "2026-07-12 10:52:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前中東特使丹尼斯・羅斯稱美國近期對伊朗發動的軍事打擊很難起到震懾德黑蘭的效果。他稱伊朗高層認為，襲擊商船能鞏固其對霍爾木茲海峽的掌控力。"
+    },
     {
       "id": "4982558",
       "time": "2026-07-12 10:51:19",

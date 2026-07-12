@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-12 10:52:25",
-  "count": 16392,
+  "updated": "2026-07-12 10:56:20",
+  "count": 16393,
   "items": [
+    {
+      "id": "mkt:019f5440-65cd-7aab-8d41-41a3211a8b9f",
+      "time": "2026-07-12 10:55:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Disaster Reduction and Relief Committee launches national fourth-level disaster emergency response for Zhejiang】On July 12, under the national emergency plan for natural disaster relief, the National Disaster Reduction and Relief Committee launched a national fourth-level disaster emergency response for Zhejiang after this year’s ninth typhoon, Bavi, caused serious damage. The committee dispatched a disaster relief workgroup to the affected areas to guide and assist local authorities with evacuation, resettlement and basic livelihood support."
+    },
+    {
+      "id": "mkt:019f543f-ea7e-7aab-8d41-3e4e4b8e2870",
+      "time": "2026-07-12 10:55:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US and Iran failed to reach real consensus; conflict may persist through US midterms in November】Atlantic Council senior fellow Thomas Warrick said the U.S. and Iran have “very different” objectives, deep mutual mistrust and “complete misunderstanding,” and did not reach a genuine consensus in recent talks. He said Iran is unwilling to relinquish its claim to control the Strait of Hormuz, complicating any negotiated settlement. Warrick does not expect an immediate large-scale U.S. strike; he predicts a recurring pattern of episodic attacks (often Thurs–Sat), U.S. speeches aimed at calming tensions (Sun–Mon), brief lulls (Tue–Wed) and renewed flare-ups, a cycle he said could continue for weeks or months, potentially through the Nov. 3 U.S. midterm elections."
+    },
+    {
+      "id": "4982559",
+      "time": "2026-07-12 10:52:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前中東特使丹尼斯・羅斯稱美國近期對伊朗發動的軍事打擊很難起到震懾德黑蘭的效果。他稱伊朗高層認為，襲擊商船能鞏固其對霍爾木茲海峽的掌控力。"
+    },
     {
       "id": "4982558",
       "time": "2026-07-12 10:51:19",
@@ -149483,22 +149511,6 @@
         "國際"
       ],
       "text": "【華強北提前拿到iPhone18Pro圖紙 ：開始研究實體卡槽改裝方案了】近期蘋果在印度的核心代工廠塔塔電子遭遇了一起嚴重的資料洩露事件，洩露檔案包含大量尚未釋出的iPhone 18 Pro與Pro Max的敏感資訊，引發了全球科技圈的廣泛關注。 就在業界還在討論洩密影響時，華強北的商家已經率先行動。相關博主在社交平臺上釋出影片稱，他們已經提前拿到了iPhone 18 Pro的內部資料，工程師已經開始著手研究如何給美版手機加裝實體卡槽，進度比往年快了很多。 據悉，今年的iPhone 18 Pro系列依然沿用了分割槽域供應的策略，分為eSIM版和實體卡槽版兩種版本。其中美版iPhone僅支援eSIM，無法在國內直接插卡使用，這也導致其二手平臺價格長期低於國行版本。 以iPhone Air為例，美版與國行之間的差價超過1000元，巨大的價差催生了華強北的“魔改”生意——商家透過精密開模，在主機板底部開闢區域安裝SIM卡槽，並在機身邊框上鑽孔。改裝後的機型可正常插入實體SIM卡，能夠相容國內三大運營商的網路。"
-    },
-    {
-      "id": "4970798",
-      "time": "2026-07-05 10:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國海軍艦艇編隊抵達越南進行訪問】當地時間5日上午，應越南海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊抵達越南胡志明市訪問。近年來，中越海軍在艦艇互訪、聯合巡邏等領域深化合作，為增進兩國互信、維護地區穩定發揮積極作用。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f3032-bf21-7aab-8ca0-99734f3332d9",
-      "time": "2026-07-05 10:54:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PLA Navy task force arrives in Vietnam for visit】On the morning of the 5th local time, at the invitation of the Vietnam Navy, a People's Liberation Army Navy task force including the frigate Qi Jiguang and the amphibious ship Kunlunshan arrived in Ho Chi Minh City for a port visit. In recent years the two navies have expanded ship exchanges and joint patrols."
     }
   ]
 }
