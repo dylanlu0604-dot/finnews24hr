@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-13 00:17:05",
-  "count": 16623,
+  "updated": "2026-07-13 00:21:06",
+  "count": 16626,
   "items": [
+    {
+      "id": "mkt:019f5721-43e8-7aab-8d46-1918a0d6e9b0",
+      "time": "2026-07-13 00:20:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Local official: Qeshm Island hit by missile attack】A Qeshm Island official, Hossein Amir Teymouri, said Sunday afternoon local time that enemy forces fired 10–11 missiles at the island. He said all struck targets were military facilities and there were no casualties reported."
+    },
+    {
+      "id": "4983006",
+      "time": "2026-07-13 00:18:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：針對伊朗格什姆島的最新導彈襲擊未造成人員傷亡"
+    },
+    {
+      "id": "4983005",
+      "time": "2026-07-13 00:18:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體：敵方於週日向伊朗格什姆島發射了多枚導彈。"
+    },
     {
       "id": "4983004",
       "time": "2026-07-13 00:13:49",
