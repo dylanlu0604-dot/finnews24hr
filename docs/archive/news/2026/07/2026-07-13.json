@@ -1,7 +1,23 @@
 {
   "date": "2026-07-13",
-  "count": 164,
+  "count": 166,
   "items": [
+    {
+      "id": "mkt:019f5872-2a66-7aab-8d47-8b50c19c34b5",
+      "time": "2026-07-13 06:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Senator Lindsey Graham dies; preliminary autopsy cites aortic dissection】Senator Lindsey Graham died suddenly, and his spokesperson said on the afternoon of July 12 local time that preliminary medical examiner findings list the cause of death as atherosclerotic cardiovascular disease leading to an aortic dissection. The medical examiner’s office said toxicology and microscopic pathology remain incomplete. Aortic dissection is a life‑threatening emergency involving a tear in the aortic wall."
+    },
+    {
+      "id": "4983119",
+      "time": "2026-07-13 06:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1261.72美元/盎司。"
+    },
     {
       "id": "4983118",
       "time": "2026-07-13 06:21:00",

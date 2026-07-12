@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-13 06:26:32",
-  "count": 16650,
+  "updated": "2026-07-13 06:30:22",
+  "count": 16648,
   "items": [
+    {
+      "id": "mkt:019f5872-2a66-7aab-8d47-8b50c19c34b5",
+      "time": "2026-07-13 06:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Senator Lindsey Graham dies; preliminary autopsy cites aortic dissection】Senator Lindsey Graham died suddenly, and his spokesperson said on the afternoon of July 12 local time that preliminary medical examiner findings list the cause of death as atherosclerotic cardiovascular disease leading to an aortic dissection. The medical examiner’s office said toxicology and microscopic pathology remain incomplete. Aortic dissection is a life‑threatening emergency involving a tear in the aortic wall."
+    },
+    {
+      "id": "4983119",
+      "time": "2026-07-13 06:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1261.72美元/盎司。"
+    },
     {
       "id": "4983118",
       "time": "2026-07-13 06:21:00",
@@ -151741,42 +151757,6 @@
         "市場"
       ],
       "text": "紐約期銀日內漲4%，現報63.54美元/盎司。"
-    },
-    {
-      "id": "mkt:019f3466-e05c-7aab-8ca5-865c15214b0f",
-      "time": "2026-07-06 06:29:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot silver climbed above $63/oz, up 1.03% on the day."
-    },
-    {
-      "id": "4971142",
-      "time": "2026-07-06 06:29:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破63美元/盎司，日內漲1.03%。"
-    },
-    {
-      "id": "4971141",
-      "time": "2026-07-06 06:28:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報62.99美元/盎司。"
-    },
-    {
-      "id": "mkt:019f3465-6d89-7aab-8ca5-7c058896160e",
-      "time": "2026-07-06 06:28:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals"
-      ],
-      "text": "Greatland Resource reported Q4 gold production of 79,099 oz and copper production of 3,573 t. For FY2026, gold output was 328,986 oz and copper 14,594 t; gold exceeded the company's guidance range of 260,000–310,000 oz."
     }
   ]
 }
