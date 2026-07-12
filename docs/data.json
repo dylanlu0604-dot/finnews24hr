@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-12 08:14:01",
-  "count": 16306,
+  "updated": "2026-07-12 08:17:44",
+  "count": 16310,
   "items": [
+    {
+      "id": "mkt:019f53ae-acea-7aab-8d40-3c6882ca1b69",
+      "time": "2026-07-12 08:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nanjing Metro suspends surface and elevated service July 12 as Typhoon Bavi approaches】Nanjing metro has suspended service on all surface and elevated sections from the start of operations on July 12 until further notice, after the Nanjing meteorological observatory issued an orange typhoon warning for Typhoon Bavi. The observatory forecasts maximum gusts of force 9–10 on land and 10–12 over water, with possible short-duration heavy rain."
+    },
+    {
+      "id": "mkt:019f53ac-e943-7aab-8d40-33ead9b1d506",
+      "time": "2026-07-12 08:14:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran activated an air-defense system in Tehran."
+    },
+    {
+      "id": "4982437",
+      "time": "2026-07-12 08:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞民防部門表示，一艘載有逾35人的渡輪在代爾祖爾與橋樑相撞後，已有超過15名平民獲救。"
+    },
+    {
+      "id": "4982436",
+      "time": "2026-07-12 08:13:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍空襲伊朗南部賈斯克港，另有訊息稱首都德黑蘭上空出現美軍戰機；德黑蘭啟用空中防禦系統。"
+    },
     {
       "id": "4982435",
       "time": "2026-07-12 08:13:12",
