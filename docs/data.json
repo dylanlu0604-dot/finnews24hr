@@ -1,7 +1,361 @@
 {
-  "updated": "2026-07-12 16:40:25",
-  "count": 16550,
+  "updated": "2026-07-12 17:24:25",
+  "count": 16572,
   "items": [
+    {
+      "id": "4982836",
+      "time": "2026-07-12 17:22:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華百貨：控股股東終止向兩家企業協議轉讓10%股份】新華百貨公告稱，公司控股股東物美科技於2026年1月13日分別與杭州景祺、廈門聯芯美簽署《股份轉讓協議》，擬各轉讓公司5%股份。7月11日，物美科技與兩方簽署《<股份轉讓協議>之終止協議》，一致同意《股份轉讓協議》即時完全終止，不構成違約。本次終止不會導致公司控股股東、實際控制人及控制權變更，對財務及經營無影響。"
+    },
+    {
+      "id": "4982835",
+      "time": "2026-07-12 17:22:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津發布地質災害氣象風險紅色預警！】天津市規劃和自然資源局與天津市氣象局2026年7月12日15時聯合釋出地質災害氣象風險紅色預警：2026年7月12日16時至7月13日16時，受強降雨和前期降雨疊加效應影響，北部山區發生滑坡、崩塌等地質災害的氣象風險很高，請相關部門和人員嚴密防範，請廣大市民注意出行安全。（天津發布）"
+    },
+    {
+      "id": "4982834",
+      "time": "2026-07-12 17:21:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【AI熱潮太費電燃氣輪機賣爆了 燃氣輪機價格3年漲了300%】人工智慧熱潮持續升溫，圍繞算力展開的競爭也不斷向產業鏈上游延伸。隨著大型資料中心加速建設，燃氣輪機這一傳統裝置也迎來了新的發展機遇。幾周前，微軟剛剛向能源巨頭GE Vernova採購了7臺大型燃氣輪機，來為其得州的資料中心供電。儘管單臺燃氣輪機的售價超過2.5億美元，但這種複雜裝置的市場需求依然遠遠超過供應。根據美國投資研究機構Melius Research的估算，過去三年，燃氣輪機的價格累計上漲了約300%。GE Vernova的股價也在過去六個月累計上漲了超過70%，甚至它的行業競爭對手，如卡特彼勒、西門子等，也都實現了快速增長。但也有多位專家表示，燃氣輪機並不足以滿足AI時代的全部能源需求，未來資料中心仍需要多種能源方案來一同支撐。從宏觀層面看，如何構建一個更加穩定、高效的能源體系，也將成為AI產業發展面臨的重要課題。 （央視財經）"
+    },
+    {
+      "id": "4982833",
+      "time": "2026-07-12 17:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【450美元一份！國際足聯發售世界盃決賽賽場草皮】美加墨世界盃接近尾聲之際，國際足聯開始出售決賽賽場草皮，價格為每份450美元。 國際足聯在官網商店開始發售這款商品。樣品圖片顯示，一小片綠色草皮封裝在有機玻璃立方體中，上面印著“紐約新澤西體育場”“2026年7月19日”等字樣。外包裝是一個黑色盒子。該套裝還包括一個隨身碟，裡面有一段認證影片。 國際足聯官方商店將該商品的尺寸標註為“17.5×17.5×17.5”，但沒有標註單位，也沒有說明這是草皮、有機玻璃立方體還是外包裝的尺寸。 國際足聯說，該商品將在世界盃決賽結束後開始發貨，目前僅面向美國、歐洲發貨。（新華社）"
+    },
+    {
+      "id": "mkt:019f559f-d1fc-7aab-8d43-fc521639a567",
+      "time": "2026-07-12 17:19:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Senator Lindsey Graham has died, described him as hardworking and a patriot, and said further details and arrangements will be announced."
+    },
+    {
+      "id": "4982832",
+      "time": "2026-07-12 17:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建省終止防颱風應急響應】今年第9號颱風“巴威”中心已離開福建省颱風警戒區，福建省防指於12日16時終止防颱風應急響應。受颱風殘餘環流影響，當前福建省部分地區仍有降雨，福建省防指要求各地各有關部門要做好各項防禦工作。（央視新聞）"
+    },
+    {
+      "id": "4982831",
+      "time": "2026-07-12 17:13:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威GASSCO公司：阿斯加德氣田7月12日至13日非計劃停產，日減產1080萬立方米。"
+    },
+    {
+      "id": "4982830",
+      "time": "2026-07-12 17:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津發布風暴潮藍色預警 漁港和沿海景區全部關停】天津市海洋環境監測預報中心2026年7月12日15時釋出風暴潮Ⅳ級警報（藍色），疊加近日來天津北部地區上游來水的洩洪工作，天津濱海新區迅速響應，保障洩洪的同時嚴防海水頂託倒灌。記者從天津市海洋環境監測預報中心瞭解到，受今年第9號颱風“巴威”（強熱帶風暴級）影響，預計7月13日下午，天津沿海將出現30釐米至60釐米的風暴增水。部分岸段將出現接近或達到當地藍色警戒潮位的高潮位。天津市海洋環境監測預報中心預報預警室主任王魯寧介紹，風暴潮預計發生在13日下午兩點半，最高潮位達480釐米，接近或達到天津藍色警戒級別高潮位。（央視新聞）"
+    },
+    {
+      "id": "4982829",
+      "time": "2026-07-12 17:08:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 海灣埃及集團將向南西奈旅遊專案投資 200 億埃及鎊。"
+    },
+    {
+      "id": "4982828",
+      "time": "2026-07-12 17:07:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖顧問：我們將守護霍爾木茲海峽】武裝部隊總司令顧問雷扎伊少將表示：我們將守護霍爾木茲海峽。因為這一戰略通道是我國威懾力的核心要素之一，在保障國家安全和國家利益方面發揮著決定性作用。霍爾木茲海峽發揮著戰略威懾力量的作用。伊朗將依靠自身的防禦能力和國家實力，捍衛國家利益與安全。"
+    },
+    {
+      "id": "mkt:019f5594-773f-7aab-8d43-f69b567f2e82",
+      "time": "2026-07-12 17:07:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces shot down 585 drones launched by the Ukrainian armed forces in the past 24 hours."
+    },
+    {
+      "id": "mkt:019f5594-440d-7aab-8d43-eb6942a6ed01",
+      "time": "2026-07-12 17:06:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine says it struck Rosneft refinery in Samara Oblast, hit 10 tankers and 4 ferries in Sea of Azov】The Ukrainian General Staff said on the 12th that Ukrainian forces struck the Sezlan refinery in Samara Oblast at dawn, triggering explosions and fire; damage is being verified. The facility is one of Rosneft's largest and was previously attacked by Ukrainian forces in August. The General Staff also said Ukrainian forces hit 10 oil tankers and four ferries in the Sea of Azov that Russia uses to move oil and logistical supplies. It said recent successive large-scale strikes in the Azov Sea aim to further degrade Russian combat capability."
+    },
+    {
+      "id": "4982827",
+      "time": "2026-07-12 17:06:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報稱，俄羅斯防空力量在過去24小時內擊落了585架烏克蘭武裝部隊的無人機。"
+    },
+    {
+      "id": "mkt:019f5593-15ab-7aab-8d43-e6897d1208e3",
+      "time": "2026-07-12 17:05:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatari authorities advised, for public safety, that all vessels and fishing boats temporarily suspend navigation until further notice."
+    },
+    {
+      "id": "4982826",
+      "time": "2026-07-12 17:05:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達交通部：為保障公共安全，建議所有海船、漁船使用者暫停航行，直至另行通知。"
+    },
+    {
+      "id": "4982825",
+      "time": "2026-07-12 17:04:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏軍襲擊俄船隻和煉油廠】烏克蘭武裝部隊總參謀部12日在社交媒體發文稱，當天凌晨，烏軍襲擊了俄羅斯薩馬拉州塞茲蘭煉油廠，此外，烏方還襲擊了俄方在亞速海水域的10艘油輪和4艘渡輪。烏武裝部隊總參謀部稱，襲擊導致塞茲蘭煉油廠爆炸起火，受損情況正在核實中。該煉油廠是俄羅斯石油公司旗下最大煉油廠之一，去年8月曾遭烏軍襲擊。烏方還說，烏軍對亞速海水域的10艘油輪和4艘渡輪實施打擊，俄方使用這些油輪和渡輪運輸石油和後勤物資。近期，烏軍在亞速海水域接連對俄油輪等目標發動大規模襲擊，試圖進一步削弱俄作戰能力。(新華社）"
+    },
+    {
+      "id": "4982824",
+      "time": "2026-07-12 17:04:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東全球首個RoboBase落地廣州】7月11日，京東集團全球首個落地的RoboBase專案，在廣州黃埔科學城正式開工。RoboBase專案位於廣州黃埔科學城核心片區，定位為\"高階製造+科技創新+生態服務\"融合載體，打造大灣區集機器人研發中試、柔性智造、場景示範、產業展銷及企業配套於一體的創新中心與智慧製造示範基地。專案預計2028年底全面建成，2029年竣工投產，達產後年產值約17.5億元。（廣州釋出）"
+    },
+    {
+      "id": "4982823",
+      "time": "2026-07-12 17:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南通報“常德西湖國企老闆收禮金”問題：已免職處理】湖南常德西湖管理區聯合調查組釋出情況通報，全文如下：近日，網傳“湖南常德西湖國企老闆張祥端午期間收受工程老闆禮品禮金”問題。西湖管理區黨委成立由區紀委監工委、區委辦、區委組宣統部等多部門組成的聯合調查組開展調查。經初步調查，相關情況基本屬實。根據《中國共產黨組織處理規定(試行)》第三條、第五條、第七條相關規定，經研究，已於7月12日上午對涉事人張祥進行免職處理。目前，調查正在進行中，相關問題將依規依紀依法給予嚴肅處理，絕不姑息，後續調查處理結果將及時向社會公佈。（央視新聞）"
+    },
+    {
+      "id": "4982822",
+      "time": "2026-07-12 17:02:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場價格溢價 7月13日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月10日收盤價為2.624元，收盤時基金份額參考淨值為2.2682元。為保護投資者利益，基金於7月13日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月13日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
+    },
+    {
+      "id": "4982821",
+      "time": "2026-07-12 17:02:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國投白銀LOF：提示A類基金份額二級市場交易價格溢價風險】國投白銀LOF公告稱，近期該基金A類基金份額二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。7月10日收盤價為1.871元，截至7月9日基金份額淨值為1.6135元。若7月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金主要投資白銀期貨，投資者可在二級市場交易或申贖，交易價格受多種因素影響。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4982820",
+      "time": "2026-07-12 17:02:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：提示二級市場交易價格溢價風險】納指ETF匯添富公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月10日，其二級市場收盤價為2.325元，收盤時基金份額參考淨值為2.2041元。若7月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "4982819",
+      "time": "2026-07-12 17:02:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月10日，收盤價2.010元，收盤時基金份額參考淨值為1.8773元。若7月13日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4982818",
+      "time": "2026-07-12 17:02:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月10日，收盤價為2.053元，收盤時基金份額參考淨值為1.8948元。若7月13日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖，交易價格受多種因素影響。目前基金運作正常，無應披露未披露資訊。"
+    },
+    {
+      "id": "4982817",
+      "time": "2026-07-12 17:02:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF大成：提示基金二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月10日，其二級市場收盤價為1.779元，收盤時基金份額參考淨值為1.6875元。若7月13日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。投資者可在二級市場交易或申贖該基金，其交易價格受多種因素影響，可能面臨損失。目前基金運作正常，無應披露未披露資訊。"
+    },
+    {
+      "id": "4982815",
+      "time": "2026-07-12 17:01:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【800現金流ETF招商：2026年度第六次分紅 每10份派0.03元】800現金流ETF招商公告稱，本次分紅為2026年度第六次分紅，收益分配基準日為6月30日，分紅方案為每10份基金份額派0.03元。權益登記日為7月15日，除息日為7月16日，現金紅利發放日為7月20日。基金將於7月13日上午開市至10:30停牌，10:30起復牌。"
+    },
+    {
+      "id": "4982814",
+      "time": "2026-07-12 17:01:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創債ETF景順：7月13日起調整申購替代金額處理程式】科創債ETF景順公告稱，自7月13日起調整基金申購替代金額處理程式，包括將買入被替代證券時間從T+2日調整為T+1日，相關估值全價計算日期也從T+2日調整為T+1日等。7月10日15:00前提出的申購贖回申請按原規則辦理，之後的適用新規則。此次修改符合規定，對原持有人利益無實質性不利影響，無需召開持有人大會審議。投資者可登陸公司網站查詢或電話諮詢。"
+    },
+    {
+      "id": "4982813",
+      "time": "2026-07-12 17:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊連續發生衝突 霍爾木茲海峽爭奪趨於白熱化】美伊衝突再起，美國本週內連續三輪對伊朗的軍事打擊，都是圍繞霍爾木茲海峽通航的問題。這種藉口通航問題發動打擊的狀況，是否已經成為一種“新常態”？美伊雙方目前在霍爾木茲海峽問題上，究竟在爭什麼？美伊霍爾木茲海峽控制權爭奪進一步升級。中國國際問題研究院助理研究員李子昕表示，短期之內，美國和伊朗圍繞霍爾木茲海峽的軍事衝突恐怕還會繼續發生。從根本上說，這是雙方對海峽控制權及當前政治趨勢主導權爭奪趨於白熱化的表現。（央視新聞）"
+    },
+    {
+      "id": "4982812",
+      "time": "2026-07-12 17:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：美國未曾遵守停火協議】伊朗議會國家安全委員會成員阿里·赫茲裡安在批評阿巴斯·阿拉格齊關於伊朗與美國之間諒解備忘錄的言論時寫道，這位外交部長的言論——即美國重新實施制裁違反了該諒解備忘錄——表明他“沒有跟上每日新聞”。赫茲裡安補充說，美國不僅從伊斯蘭堡諒解備忘錄達成後的第一天起就持續違反它，而且在上週也已經退出了該協議。他還寫道，這些立場表明，這位外交機構的高階官員“至少在時事關係上落後了一週”，因為唐納德·特朗普在多次違反該諒解備忘錄後，已於上週宣佈其終結，並且美國在7月17日和18日對伊朗伊斯蘭共和國的襲擊中，造成超過100人受傷，17人死亡。這位議會國家安全與外交政策委員會的成員補充說，在這種情況下，討論違反諒解備忘錄是“毫無意義的”，而堅持伊朗伊斯蘭共和國遵守一份“從一開始就沒有付諸實施”的文字則更加毫無意義。"
+    },
+    {
+      "id": "4982811",
+      "time": "2026-07-12 16:58:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【賽力斯：2026年上半年預虧15億-18億元】賽力斯公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為-18.00億元到-15.00億元，上年同期盈利29.41億元；扣非淨利潤為-25.00億元到-22.00億元，上年同期為24.74億元。其中，問界汽車預計淨利潤-13.00億元到-10.50億元，扣非淨利潤-19.50億元到-17.00億元。業績預虧主要因原材料價格上漲致成本增加，且對部分存量資產調整賬面價值。"
+    },
+    {
+      "id": "mkt:019f558c-11c2-7aab-8d43-d93a5e2776f0",
+      "time": "2026-07-12 16:57:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE Defense Ministry said after Iran launched attacks across the Middle East its monitoring and tracking systems are operating \"at the highest state of readiness and running efficiently around the clock\"."
+    },
+    {
+      "id": "mkt:019f558b-b6e7-7aab-8d43-d4bbb0ad5f9d",
+      "time": "2026-07-12 16:57:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Strait of Hormuz commercial traffic plunges after Iran announces closure】On the 12th (local time), Iran announced a temporary closure of the Strait of Hormuz after the Islamic Revolutionary Guard Corps fired warning shots at a vessel. Iran cited shipping-tracking data showing just 11 commercial vessels transited the strait in the past 24 hours — eight tankers and three cargo ships. The IRGC said the closure, which it attributed to illegal foreign interference, will remain until further notice and that no vessels may transit until the US ends its intervention."
+    },
+    {
+      "id": "4982810",
+      "time": "2026-07-12 16:51:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科恆泰：泰康人壽擬減持不超3%公司股份】國科恆泰(301370)7月12日公告，股東泰康人壽保險有限責任公司（簡稱“泰康人壽”）擬減持公司股份不超過3%(透過集中競價方式減持不超過1%、透過大宗交易方式減持不超過2%)。"
+    },
+    {
+      "id": "4982809",
+      "time": "2026-07-12 16:50:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“巨浪已來”！大模型雙雄齊發聲】在完成新一輪再融資、首輪限售股解禁的時點，“大模型雙雄”同時丟擲重磅表態。 記者獲悉，7月11日，智譜創始人唐傑釋出題為《巨浪已來》的內部信，系統闡述公司在上市後的戰略方向。他在信中宣佈，智譜將啟動名為“Touch High（摸高）”的戰略計劃，在未來兩年戰略性投入，直指AGI（通用人工智慧）下一高地，而非追求短期應用變現。 前一日，MiniMax創始人閆俊傑同樣釋出了一篇內部信，以個人行動展示了對公司及AGI事業的“All in”姿態。他本人即日起至實現AGI，不再領取任何薪酬。 在業內看來，大模型是公認的重資產、長週期賽道，這決定了其既要資源、資金的持續投入，也需要長期信心。在AI產業在應用變現全面提速的背景下，兩家企業將“衝擊AGI”重新置於優先位置，這一訊號也說明了基礎模型的競賽遠未結束，模型能力差距仍是拉開競爭力的關鍵。（上證報）"
+    },
+    {
+      "id": "mkt:019f5585-10df-7aab-8d43-cfba2f850e78",
+      "time": "2026-07-12 16:50:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Venezuela seeks to unfreeze seized overseas assets for post-quake reconstruction】Acting President Delcy Rodríguez is seeking to unfreeze Venezuelan assets seized abroad, including gold reserves frozen at the Bank of England, to fund reconstruction after two June 24 earthquakes. National Assembly President Jorge Rodríguez said on July 11 in Caracas the quakes killed 4,333 people, injured 16,740 and left about 25,000 homes requiring repairs."
+    },
+    {
+      "id": "4982808",
+      "time": "2026-07-12 16:49:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【委內瑞拉要求解凍海外被扣押資產用於災後重建】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯7月11日在委首都加拉加斯舉行的新聞釋出會上說，該國6月24日發生的兩次強震已造成4333人死亡、16740人受傷。豪爾赫·羅德里格斯表示，災後重建工作耗資巨大，僅待修繕的房屋就有約2.5萬棟。委內瑞拉代總統德爾西·羅德里格斯正爭取解凍該國在海外被扣押的資產，其中包括被凍結在英格蘭銀行的委內瑞拉黃金儲備，以便用於災後重建。（央視新聞）"
+    },
+    {
+      "id": "4982807",
+      "time": "2026-07-12 16:48:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江調整防颱風應急響應為Ⅲ級】今年第9號颱風“巴威”7月12日14時中心位於安徽省蕪湖市灣沚區境內，預計將以10-15公里的速度向北偏西方向移動，強度逐漸減弱，對浙江影響進一步減少，全省汛情總體平穩。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，省防指決定於7月12日16時將防颱風應急響應調整為Ⅲ級。當前浙西、浙北仍有強降雨過程，部分水庫、平原河道水位較高，山體土壤含水量飽和，山洪、滑坡、泥石流等次生災害風險突出。各地各部門要繼續高效執行“1833”聯合指揮體系，緊盯次生災害防範，加強已轉移人員的安全管理，慎終如始落實各項防颱舉措。（浙江釋出）"
+    },
+    {
+      "id": "mkt:019f557f-4bbd-7aab-8d43-c202106c7c16",
+      "time": "2026-07-12 16:43:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel defense minister Katz says will turn southern Lebanon into Gaza】Israel's defense minister Katz told an Israeli programme he intends to turn southern Lebanon into Gaza, saying the military will use the Rafah-style tactics applied to southern Gaza to \"destroy everything there.\" Katz said Israeli forces have destroyed local infrastructure and flattened about 90% of buildings in southern Lebanon. He added that \"security zones\" in Gaza, Lebanon and Syria are now part of Israel's national security policy and represent an \"extremely significant achievement.\""
+    },
+    {
+      "id": "mkt:019f557e-f415-7aab-8d43-b89eca5c8ca5",
+      "time": "2026-07-12 16:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Amiri Diwan announced a four-day national mourning period effective immediately for former Emir Hamad bin Khalifa Al Thani."
+    },
+    {
+      "id": "4982806",
+      "time": "2026-07-12 16:42:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長稱要將黎南部變成加沙】以色列國防部長卡茨近日在一檔以色列節目中宣稱，要將黎巴嫩南部變成加沙。他說，以軍將使用打擊加沙南部城市拉法的模式“摧毀那裡的一切”。卡茨稱，以軍已摧毀當地基礎設施，並夷平了黎南部九成的建築。 卡茨還稱，“安全區”現在已成為以色列國家安全政策的一部分，以軍在加沙、黎巴嫩和敘利亞劃定的“安全區”是以軍取得的“極其重大成就”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4982805",
+      "time": "2026-07-12 16:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會成員費達侯賽因·馬利基（Feda Hossein Maleki）表示：“國家的防禦態勢處於非常理想的狀態，軍事指揮官們已明確表示，即使進行任何形式的談判或停火，也絕不會‘把手從扳機上拿開’。作為對美國任何行動的回應，我們將大幅加強自身的行動。”他補充道：“在不久的將來，我們將見證新的防禦裝備和系統的亮相，它們將直接用於應對美國的進攻。”"
+    },
     {
       "id": "4982804",
       "time": "2026-07-12 16:38:41",
@@ -150676,175 +151030,6 @@
         "公司"
       ],
       "text": "【普源精電：2026年上半年營收預增34.44%-41.30%】普源精電公告稱，預計2026年半年度營收4.77億元至5.02億元，同比增長34.44%至41.30%；歸屬於母公司所有者的淨利潤3458.39萬元-4262.23萬元，同比增長113.27%至162.84%；扣除非經常性損益的淨利潤2147.38萬元-2646.50萬元。業績增長主要因新品及解決方案推出、在核心行業深化應用、全球化業務佈局推進等。"
-    },
-    {
-      "id": "mkt:019f3191-f09b-7aab-8ca2-0bc7ebda141e",
-      "time": "2026-07-05 17:17:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Analyst: Persistent labor-market slowdown without Fed cuts would pressure risk assets】Craig Shapiro, senior macro strategist and cross-asset trader at Ninja Trader Live, says Fed chair Kevin Warsh sounded optimistic on growth—largely citing AI—while falling oil has pushed down inflation breakevens. Shapiro adds that although the bar for further hikes may be higher than markets expect, the bar for cuts is even higher; with Warsh hinting that balance-sheet reduction may take longer, meaningful labor-market deterioration would likely be required to trigger easing. He cautions that if evidence of a labor slowdown mounts while the Fed delays policy easing amid still-elevated inflation, risk assets would likely come under pressure, making rotations from AI into higher-beta cyclical names or small caps harder and favoring defensive sectors and possibly gold."
-    },
-    {
-      "id": "4970935",
-      "time": "2026-07-05 17:07:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國投白銀LOF釋出二級市場溢價風險提示公告】國投瑞銀基金管理有限公司公告，公司旗下國投瑞銀白銀期貨證券投資基金（LOF）A類基金份額二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年7月3日，本基金二級市場的收盤價為1.948元，截至2026年7月2日，本基金基金份額淨值為1.6579元。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。"
-    },
-    {
-      "id": "4970934",
-      "time": "2026-07-05 17:06:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：提示二級市場交易價格溢價風險】納指ETF易方達公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。7月3日，本基金二級市場收盤價為2.020元，收盤時基金份額參考淨值（IOPV）為1.8539元。若7月6日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖本基金，投資有風險。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4970933",
-      "time": "2026-07-05 17:05:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰基金：旗下兩ETF自7月6日起新增西部證券為流動性服務商】國泰基金公告稱，為促進創業板新能源ETF國泰、家電ETF國泰的市場流動性和平穩執行，自2026年7月6日起，新增西部證券為創業板新能源ETF國泰（程式碼：159387）、家電ETF國泰（程式碼：159996）的流動性服務商。"
-    },
-    {
-      "id": "4970932",
-      "time": "2026-07-05 17:04:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：提示二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月3日，收盤價為1.6220元，收盤時基金份額參考淨值為1.4937元。若7月6日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者密切關注溢價風險，審慎投資。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4970931",
-      "time": "2026-07-05 17:03:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【標普生物科技ETF嘉實：二級市場交易價格溢價 提醒投資風險】標普生物科技ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月3日，收盤價為1.729元，收盤時基金份額參考淨值為1.6150元。若7月6日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4970930",
-      "time": "2026-07-05 17:03:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：二級市場價格溢價 7月6日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月3日收盤價為2.616元，收盤時基金份額參考淨值為2.2130元。為保護投資者利益，基金於7月6日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月6日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。"
-    },
-    {
-      "id": "4970929",
-      "time": "2026-07-05 17:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "據我的鋼鐵網統計，今日13家鋼廠下調廢鋼採購價10-30元。"
-    },
-    {
-      "id": "mkt:019f3181-c0dd-7aab-8ca2-01517b2505f2",
-      "time": "2026-07-05 17:00:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report of an incident 30 nm southwest of Hodeidah, Yemen. A merchant vessel activated a distress alert reporting it was under attack by unknown armed assailants."
-    },
-    {
-      "id": "4970928",
-      "time": "2026-07-05 16:55:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國泰海通：執行董事、總裁李俊傑離任 董事長代行總裁職責】國泰海通公告稱，7月5日公司董事會收到執行董事、總裁李俊傑的書面辭職報告，其因工作調動辭去相關職務。李俊傑曾承諾2026年2月12日起12個月內不減持公司A股股票，該承諾在其離任後仍有效。同日，公司董事會同意由董事長朱健自7月5日起代行總裁職責，直至新任總裁到崗，公司將盡快選聘新任總裁。"
-    },
-    {
-      "id": "4970927",
-      "time": "2026-07-05 16:54:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室 (UKMTO)稱，一艘貨船發出遇險警報，稱其正遭到不明武裝襲擊者的攻擊。"
-    },
-    {
-      "id": "4970926",
-      "time": "2026-07-05 16:51:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江下游支流水陽江發生2026年第1號洪水】受降雨影響，長江下游支流水陽江新河莊水文站（安徽宣城）5日14時25分水位漲至警戒水位（11.50米），依據主要江河洪水編號規定，此次洪水編號為“水陽江2026年第1號洪水”。"
-    },
-    {
-      "id": "mkt:019f3178-142c-7aab-8ca1-fd2853f3ac5d",
-      "time": "2026-07-05 16:49:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【South Korea plans Future Fund financed by semiconductor tax windfall】South Korean presidential chief of staff Kang Hoon-sik said the government plans to use additional tax revenue from the semiconductor boom to establish a Future Fund to finance major national investment projects, bolster long-term competitiveness and support 20–39-year-olds with housing, entrepreneurship and employment measures. Kang said the fund will back the government's three \"super projects\", address K-shaped economic polarization and serve as a cornerstone of President Lee's drive to make South Korea globally irreplaceable, urging rapid coordination with the ruling party."
-    },
-    {
-      "id": "4970925",
-      "time": "2026-07-05 16:48:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民德電子：晶圓代工廠廣芯微電子6月漲價10%-20% 晶睿電子7月漲價約15%】民德電子釋出投資者關係活動記錄表公告，公司控股晶圓代工廠廣芯微電子於2026年6月開始對代工價格上調，漲價幅度在10-20%。廣芯微電子產能及訂單均處於飽滿狀態，一期生產廠房規劃產能為月產10萬片6英寸矽基晶圓加工，公司正透過引進社會資本、新增銀行融資、啟動10億元定增等渠道增強資金實力，裝置逐步進場除錯，將盡快推進一期專案滿產，並在適當時機啟動二期專案建設。公司參股晶圓原材料企業晶睿電子2026年6月釋出漲價函，漲價幅度約15%，7月1日起執行。晶睿電子今年已完成約2億元股權融資，並新建單晶棒專案，預計年底或明年初投產，投產後將成為國內較少實現矽片全產業鏈佈局的企業。晶睿電子是國內少數實現SOI產品量產的半導體材料企業，下游主要覆蓋MEMS感測器、航空航天抗輻照器件、高階功率器件等領域。公司控股功率半導體設計公司廣微整合核心產品MOS場效應二極體(MFER)銷量持續提升，從2025年初月銷量約1千片提升至目前1萬多片/月，並有望持續增長。"
-    },
-    {
-      "id": "mkt:019f3175-bc2e-7aab-8ca1-f7941669647e",
-      "time": "2026-07-05 16:47:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【China Galaxy Securities: oil prices easing; Q3 travel chain likely to recover】China Galaxy Securities said in a research note that oil prices have retreated since mid‑June and civil aviation passenger declines in weeks 24–25 of 2026 have narrowed to single digits. With July domestic aviation fuel surcharges and gasoline prices expected to fall back toward pre‑war levels and autumn holidays imminent, Q3 travel passenger growth is likely to turn positive, supporting marginal earnings improvement across the travel sector."
-    },
-    {
-      "id": "4970924",
-      "time": "2026-07-05 16:46:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀河證券：油價逐步回落 Q3出行鏈有望迎來修復】中國銀河證券釋出研報稱，隨著6月中旬油價逐步回落，26W24-25民航客運人次降幅已收窄至個位數區間。考慮7月國內民航燃油附加費、汽油價格將進一步回落至美以伊戰爭前水平，以及秋假實施在即，Q3出行人次增速有望轉正，出行鏈整體將迎來業績邊際改善。"
-    },
-    {
-      "id": "4970923",
-      "time": "2026-07-05 16:41:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱瑞德：8000萬元認購艾可薩11.7647%股權】凱瑞德公告稱，公司以自有資金8000萬元認購艾可薩科技（成都）有限公司新增註冊資本，對應增資後11.7647%股權。其中152.1789萬元認購新增註冊資本，7847.8211萬元計入資本公積。本次投資不構成控制，不納入合併報表。標的公司目前未盈利，預期2026年仍虧損，投資回報和經濟效益存在不確定性，提醒投資者注意風險。"
-    },
-    {
-      "id": "mkt:019f3170-7452-7aab-8ca1-ed6481c294dc",
-      "time": "2026-07-05 16:41:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran begins national mourning for Khamenei; new supreme leader Mujtaba Khamenei has not appeared publicly】The Hill reports Iran has declared national mourning ahead of the burial of the late supreme leader Khamenei on July 9. The new supreme leader, Mujtaba Khamenei, has not attended his father’s funeral and has not appeared publicly since taking power in March; he was reportedly wounded in the first round of strikes and has issued few public statements. The New York Times says it is unclear whether he plans to attend any memorial events."
     }
   ]
 }
