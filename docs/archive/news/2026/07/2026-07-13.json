@@ -1,7 +1,23 @@
 {
   "date": "2026-07-13",
-  "count": 126,
+  "count": 128,
   "items": [
+    {
+      "id": "4983091",
+      "time": "2026-07-13 05:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，有初步報告顯示布什爾省部分地區聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:019f584b-5c9f-7aab-8d47-3c2fa2453156",
+      "time": "2026-07-13 05:46:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr News Agency reports preliminary accounts of sounds of explosions in parts of Bushehr province."
+    },
     {
       "id": "4983090",
       "time": "2026-07-13 05:35:03",
