@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-13 03:45:54_
-_本檔包含 3671 則快訊，約 627781 字_
+_更新時間：2026-07-13 05:00:19_
+_本檔包含 3663 則快訊，約 626936 字_
+
+---
+
+### 2026-07-09 15:24:17  #國際
+
+【韓國“全職主夫”數量增加】韓國統計廳資料顯示，今年第一季度，因育兒或家務而被歸類為“非經濟活動人口”的男性達到27.4萬人，為有記錄以來最高值，較去年同期增加16.6%。（新華社）
+
+---
+
+### 2026-07-09 15:23:51  #觀點
+
+【摩根士丹利：7月底至8月將是中國市場實現可持續復甦的關鍵時期】摩根士丹利中國首席股票策略師王瀅釋出最新觀點認為，7月底至8月將是中國市場實現可持續復甦的關鍵時期，原因在於電商板塊二季度業績將確認價格競爭對盈利的衝擊正趨於消失，以及AI商業化前景取得進一步進展。短期波動可能持續，全球市場仍在尋求企穩，對中國股票顯著低配的投資者，可考慮利用此機會逢低吸納基本面穩健的優質標的。 在韓股大幅波動之際，高盛更是釋出題為《交易想法：做多中國AI價值鏈》報告。報告指出，中國AI已正式進入我們的視野。高盛推薦客戶買入其自建的“GS中國AI價值鏈”籃子產品，覆蓋電力、半導體、AI基礎設施、AI模型及AI應用等整條產業鏈。高盛認為，自2022年底以來，全球AI相關股票合計創造了34萬億美元的市值，中國的佔比極小。目前中國AI相關市值約為4萬億美元——分析師認為這個數字相對於中國在全球AI產業中的實際地位而言“明顯偏低”。（券商中國）
+
+---
+
+### 2026-07-09 15:23:05  #公司 #國際
+
+【美司法部內部擔憂幣安提高執法協助門檻 幣安否認減少合作】據報道，今年6月初，美國司法部向負責數字貨幣案件的檢察官傳送了一份內部備忘錄，提醒他們：今後辦理案件時，全球最大加密貨幣交易所幣安（Binance）的配合度或將大幅下降。 這封郵件由司法部數字貨幣顧問Rachel Jones發出，並抄送給包括Kevin Mosley在內的多名高階檢察官。2023年，Mosley曾負責起訴幣安，當時司法部指控該交易所及其執行長趙長鵬涉嫌洗錢以及違反《銀行保密法》（Bank Secrecy Act）。郵件顯示，Jones表示，幣安將針對檢察官在其平臺上提出的資產凍結和扣押請求實施一系列新的、更為繁瑣的要求。 在回應置評請求時，幣安發言人否認公司將實施備忘錄中列出的任何新程式。發言人在宣告中表示：“幣安與美國執法機構的合作過去沒有變化，未來也不會發生變化。任何聲稱幣安已經或正在減少與執法部門合作的說法都是錯誤的。”
+
+---
+
+### 2026-07-09 15:22:08  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Falls as Foreign Inflows Persist — The yield on India’s 10-year G-Sec fell to around 6.75%, retreating from a one-week high as investors bought back government bonds after the previous session’s sharp selloff, with sustained foreign inflows continuing to support demand. Still, sentiment remained cautious as renewed Middle East tensions kept Brent crude near $79 per barrel, while elevated US Treasury yields weighed on fixed-income markets. Expectations of tighter US monetary policy also lingered after the Federal Reserve’s latest meeting minutes highlighted persistent inflation concerns, reinforcing the likelihood of another rate hike later this year. In spite of these pressures, overseas investors remained net buyers of Indian government bonds, purchasing INR 365 billion ($3.82 billion) through the Fully Accessible Route since the start of June, driven by growing expectations that India’s debt will be included in Bloomberg’s Global Aggregate Index.
+
+---
+
+### 2026-07-09 15:22:07  #Trading Economics #Economy #Malaysia #Interest Rate #Importance 2
+
+Malaysia Holds Rates Steady as Expected — The Central Bank of Malaysia kept its key interest rate unchanged at 2.75% at its July 2026 policy meeting, in line with market expectations. The Monetary Policy Committee said the current policy stance remains well suited to preserving price stability while supporting steady economic growth. Additionally, the central bank said Malaysia's economic activity remained resilient in the second quarter, backed by solid domestic demand and stronger-than-expected exports, while keeping its 2026 growth forecast at 4% to 5%. Headline and core inflation averaged 1.7% and 2.1%, respectively, in the first five months of 2026, with price pressures expected to stay manageable despite higher global commodity prices linked to tensions in the Middle East. Finally, the MPC said it will continue to closely monitor economic developments and evaluate risks to the domestic inflation and growth outlook.
+
+---
+
+### 2026-07-09 15:21:21  #國際
+
+日本內閣官房長官木原稔表示：希望透過穩步降低政府債務與國內生產總值之比來維持市場信心。
+
+---
+
+### 2026-07-09 15:21:14  #公司
+
+【陽光電源：固態變壓器（SST）首先應用場景是面向AIDC】從陽光電源方面獲悉，公司今日釋出自研EnerNeo固態變壓器，核心引數顯示，產品輸入電壓等級10~13.8KV， 輸出電壓等級為800Vdc，額定功率為3MW，最小功率顆粒度1.5MW，可按需拓展配置3MW、4.5MW規格機型，系統轉換效率98.5%。該公司表示，算力晶片技術高速迭代，新一代800V直流架構是適配AIDC的主流方案，而固態變壓器（SST）作為實現“直轉800V直流”的核心載體，被視作解決AIDC供電行業痛點的重要方案。
 
 ---
 
@@ -22010,95 +22052,5 @@ At midday close, China’s main futures contracts were mostly higher. SC crude, 
 ### 2026-07-08 15:01:20  #國際
 
 【微軟裁員補償方案曝光：美國員工最高能拿39周基本工資遣散費】據《商業內幕》8日（今天）援引離職補償檔案稱，微軟將向被裁美國員工提供最高39周基本工資的遣散補償，這一上限適用於多數美國員工。
-
----
-
-### 2026-07-08 15:01:07  #宏觀 #市場
-
-【財政部第一次續發行2026年記賬式附息（十三期）國債】財政部擬第一次續發行2026年記賬式附息（十三期）國債。現就本次續發行工作有關事宜通知如下： （一）品種。本次續發行國債為2年期固定利率附息債。 （二）發行數量。本次續發行國債競爭性招標面值總額1300億元，進行甲類成員追加投標。 （三）票面利率。本次續發行國債票面利率與之前發行的同期國債相同，為1.21%。 （四）本息兌付日期。本次續發行國債的起息日、兌付安排與之前發行的同期國債相同。自2026年6月25日開始計息，按年付息，每年6月25日（節假日順延，下同）支付利息，2028年6月25日償還本金並支付最後一次利息。
-
----
-
-### 2026-07-08 15:01:02  #市場 #焦點
-
-A股收盤，上證指數跌0.49%，深證成指跌1.87%，創業板指跌1.70%。
-
----
-
-### 2026-07-08 15:00:55  #公司 #市場 #觀點
-
-義大利倍耐力集團股價因花旗集團將其評級從“買入”下調至“中性”下跌2.6%。
-
----
-
-### 2026-07-08 15:00:33  #其他
-
-淡馬錫投資組合淨值增至5180億新元，上一財年股東一年總回報率10.5%。
-
----
-
-### 2026-07-08 15:00:02  #市場
-
-【商品期貨收盤】上海原油連續漲6.24%，低硫燃料油連續漲6.18%，燃料油連續漲6.16%，純苯連續漲5.43%，苯乙烯連續漲4.57%，甲醇連續漲4.14%，丙烯連續漲3.88%，聚丙烯連續漲3.62%，液化石油氣連續漲3.39%。
-
----
-
-### 2026-07-08 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌1.59%， 滬深300指數期貨連續跌0.74%， 中證500指數期貨連續跌0.75%， 上證50指數期貨連續跌0.12%。
-
----
-
-### 2026-07-08 15:00:02  #市場
-
-歐股開盤漲跌不一，德國DAX指數跌1.37%，英國富時100指數漲0.13%，法國CAC40指數跌0.51%，歐洲斯托克50指數跌1.22%，義大利富時MIB指數跌0.95%。
-
----
-
-### 2026-07-08 14:59:43  #宏觀 #國際
-
-【伊朗外交部：譴責美方襲擊和多次違約行為】當地時間8日，伊朗外交部發表宣告稱，美國軍方當天凌晨對伊朗南部沿海數個監測和監管中心發動軍事襲擊，違反《聯合國憲章》相關規定，也嚴重違反美伊此前簽署的諒解備忘錄中關於停止軍事行動的條款。宣告稱，美國近期對伊朗的襲擊，以及美國財政部決定取消伊朗石油銷售許可、違反伊朗在霍爾木茲海峽相關安排等行為，使已簽署的諒解備忘錄的重要內容失去效力。伊朗外交部表示，美國應對由此造成的緊張局勢升級及其危險後果承擔責任。宣告還強調，各國特別是波斯灣南岸鄰國負有國際法義務，應防止有關方面利用其領土和設施對伊朗實施“侵略行動”。任何協助此類行動的行為，都將被伊方視為參與對伊朗的“侵略”。伊朗外交部強烈譴責美國的襲擊和多次違約行為，並表示伊朗武裝部隊將依據《聯合國憲章》第五十一條，在面對美國軍事襲擊時維護國家主權、領土完整和國家安全，並將打擊襲擊來源。（央視新聞）
-
----
-
-### 2026-07-08 14:59:23  #國際
-
-【韓國上半年生物醫藥出口45億美元創同期新高】韓國食品醫藥品安全處8日釋出統計資料，初步核實今年上半年生物醫藥出口額同比增長15.3%，達45億美元，創下歷年同期最高紀錄。今年上半年生物醫藥出口佔整體醫藥出口（52億美元）的86.5%。分季度看，今年第一和第二季度出口同比分增11.1%和15.3%，分別為20億美元和25億美元。從出口目的地看，今年上半年共向163個國家和地區出口，其中對瑞士出口額最高，為7.7億美元，佔整體出口額的17.1%，美國（6.1億美元）、匈牙利（6億美元）排在其後。
-
----
-
-### 2026-07-08 14:58:55  #MKT News #LMT.O #Impact bullish #NOC.O #RHM.DE
-
-【NATO unveils multibillion-dollar procurement and $40bn-plus counter-UAV plan】NATO announced a package of arms purchases and defence investments during its summit, including a plan to spend more than $40bn over the next five years on counter‑UAV capabilities and to increase trained drone operators fivefold by end‑2027. Secretary‑General Rutte urged member governments and Western defence firms to expand investment and boost industrial capacity. Procurement details include Denmark, Finland, Germany and Norway buying unmanned systems from Northrop Grumman and 11 members acquiring Saab’s GlobalEye airborne early‑warning aircraft. Separately, Lockheed Martin and Rheinmetall signed an MoU to jointly produce the Army Tactical Missile System in Germany, the first production of that short‑range missile outside the United States.
-
----
-
-### 2026-07-08 14:58:46  #其他
-
-【遼寧釋出地質災害氣象風險黃色預警】遼寧省自然資源廳與遼寧省氣象局8日聯合釋出地質災害氣象風險預警，7月8日8時至7月9日8時，本溪、丹東、鞍山部分地區地質災害氣象風險預警等級為三級（黃色預警），氣象因素致地質災害發生的風險較高，提示注意防範。
-
----
-
-### 2026-07-08 14:58:00  #公司 #觀點
-
-【開源證券：首予長江電力“買入”評級，低利率環境配置價值凸顯】開源證券研報指出，長江電力水電龍頭資產稀缺，低利率環境配置價值凸顯。公司隸屬於三峽集團，擁有葛洲壩、三峽、向家壩、溪洛渡、烏東德、白鶴灘六座梯級電站，國內水電裝機規模7169.5萬千瓦。烏東德、白鶴灘資產注入後，公司收入和利潤上升，盈利穩定性和現金流質量較高，低利率環境下具備配置價值。預計公司2026-2028年歸母淨利潤分別為345.3/348.7/362.6億元，當前股價對應PE分別為19.2/19.0/18.3倍。首次覆蓋，給予“買入”評級。
-
----
-
-### 2026-07-08 14:57:53  #公司
-
-【儲存原廠賺爆 Mac與Xbox被迫漲價 谷歌Pixel手機取消128GB】有報道稱，預計將於今年夏末釋出的谷歌Pixel 11 AI智慧手機將擁有更高起售價，並且將不再包括較低儲存容量的128GB儲存機型。谷歌的這一最新舉措類似於消費電子領軍者蘋果公司(AAPL.US)，後者已將其最新款iPhone切換為最低256GB儲存配置，並且將標準版iPhone 18推遲到2027年上半年，旗下Mac/iPad系列消費電子產品則實施全球提價，蘋果與谷歌可謂為上游儲存晶片成本向終端傳導提供了最直接的印證。
-
----
-
-### 2026-07-08 14:56:37  #公司 #國際
-
-【特朗普重要“票倉”利益受損：資料中心大幅推高美國鐵鏽帶工業電力成本】由於資料中心數量和規模的增加，美國傳統製造業正面臨能源成本大幅升高的困境。美國鋼鐵製造商協會警告稱，集中在PJM電網覆蓋的“鐵鏽地帶”的美國鋼鐵公司，每年要支付數千萬美元的額外電力成本。鐵鏽帶核心地區是指美國五大湖及周邊老工業衰退區‌地區，原本是民主黨的鐵票倉，但因為特朗普重振美國製造業的口號而變成了關鍵搖擺州。這可能將衝擊特朗普重要票倉的利益，並影響到他本人的支援率。
-
----
-
-### 2026-07-08 14:56:27  #Trading Economics #Markets #Commodity #Importance 1
-
-Steel Advances on Signs of Stronger Demand — Steel rebar futures climbed toward CNY 3,080 per ton, rebounding from eight-month lows as improving property demand in top consumer China lifted the outlook for steel consumption. Industry data showed that transactions of newly built commercial homes across 10 major Chinese cities increased 19.2% year-on-year in the week ended July 5. China’s warehousing index also returned to expansion territory in June, supported by stronger demand for bulk commodity storage as infrastructure projects gathered pace nationwide. On the supply side, a planned strike by BHP workers at the Port Hedland iron ore terminal in Western Australia raised the risk of disruptions to iron ore shipments, a key raw material for steel production. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to iron ore supply.
 
 ---

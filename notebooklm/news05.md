@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-13 03:45:54_
-_本檔包含 3192 則快訊，約 627277 字_
+_更新時間：2026-07-13 05:00:19_
+_本檔包含 3204 則快訊，約 627319 字_
+
+---
+
+### 2026-07-07 13:18:06  #市場 #國際
+
+美國10年期公債收益率上漲1.8個基點至4.497%。
+
+---
+
+### 2026-07-07 13:17:57  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #DXY #Impact bullish
+
+US 10-year Treasury yield rose 1.8 bps to 4.497%.
+
+---
+
+### 2026-07-07 13:15:48  #央行 #其他
+
+【機構：對激進加息的擔憂緩解】天利投資的Anthony Willis在一份報告中表示，央行的前景再次發生轉變。這位高階經濟學家說，今年早些時候，隨著美伊衝突後油價飆升，市場擔心決策者將被迫採取更激進的加息措施。“隨著油價回落至每桶70美元附近，能源市場帶來的短期壓力減輕，這些擔憂已經緩解，“他說。他表示，到目前為止，通脹衝動並未指向廣泛的第二波通脹。“雖然能源推高了整體指標，但幾乎沒有證據表明它正明顯傳導至更廣泛的定價行為中。”Willis說，這一情況對投資者很重要。
+
+---
+
+### 2026-07-07 13:15:47  #MKT News #Commodities #Precious Metals
+
+New York silver futures fell more than 2.0% intraday to $61.08/oz.
+
+---
+
+### 2026-07-07 13:15:41  #市場 #焦點
+
+紐約期銀失守61美元/盎司，日內跌2.19%。
+
+---
+
+### 2026-07-07 13:15:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell 1.00% intraday to $4,122.52/oz.
+
+---
+
+### 2026-07-07 13:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Australian Dollar Drops by 0.25% — Top currency losers are Australian Dollar (-0.25%) and Euro (-0.06%). Gains are led by Japanese Yen (0.18%). Meanwhile, British Pound and Dollar Index were little changed.
+
+---
+
+### 2026-07-07 13:14:56  #其他
+
+丹斯克銀行將諾和諾德目標價從355丹麥克朗上調至365丹麥克朗。
+
+---
+
+### 2026-07-07 13:14:36  #市場
+
+紐約期銀日內跌2%，現報61.08美元/盎司。
+
+---
+
+### 2026-07-07 13:14:11  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
+
+【JP Morgan: Robotics, autonomous driving may be next AI winners】JP Morgan Asset Management global markets strategist Raisah Rasid said robotics and autonomous-driving firms could be the next winners in AI-driven trades as large-scale adoption accelerates, particularly in generative AI. She said AI gains are spreading beyond hyperscalers and that earnings growth — especially in hardware — has been a key driver of major market returns. Rasid added KOSPI’s triple-digit 1H rally is unlikely to repeat in H2, with growth set to moderate as companies may struggle to sustain strong pricing power in hardware.
+
+---
+
+### 2026-07-07 13:13:47  #市場 #焦點
+
+深證成指跌2.00%，現報15108.226點；上證指數跌1.63%，現報3975.260點；創業板指跌2.06%，現報3867.610點。
+
+---
+
+### 2026-07-07 13:13:45  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan-listed Kioxia shares extended losses, down 12%.
+
+---
+
+### 2026-07-07 13:13:39  #其他
+
+哈薩克計劃在2030年前建成卡沙甘油田25億立方米天然氣處理廠。
+
+---
+
+### 2026-07-07 13:13:20  #市場
+
+鎧俠股價跌幅擴大，最新下跌12%。
+
+---
+
+### 2026-07-07 13:13:12  #市場 #焦點
+
+比特幣跌破63000美元，日內跌1.74%。
+
+---
+
+### 2026-07-07 13:12:51  #MKT News #1368.HK #Impact bearish
+
+【Daiwa cuts Xtep PT to HKD3.9, downgrades to Hold】Daiwa said channel checks show sporting-goods retail sales value (RSV) slowed QoQ in Q2 and monthly volatility rose, reducing Xtep’s (1368.HK) near-term predictability. The bank flagged that a core-brand transformation will disrupt wholesale channels and require upfront investment, likely diluting near-term revenue and margins; Saucony can sustain high growth but Xtep’s core brand faces slowing growth and intensifying competition. Daiwa trims EPS forecasts by about 12%, lowers its PT to HKD3.9 from HKD5.2 and downgrades the stock to Hold from Outperform.
+
+---
+
+### 2026-07-07 13:11:50  #國際
+
+韓國綜合股價指數（KOSPI）在熔斷機制解除後恢復交易。
+
+---
+
+### 2026-07-07 13:11:10  #公司
+
+【拼多多雄安公司員工已超1200人，成為新區員工規模最大的民營企業】7月7日訊息，拼多多雄安公司員工數量已突破1200人，成為新區員工規模最大的民營企業。拼多多相關負責人表示，集團初步計劃將雄安公司打造為資料處理服務中心和傳統製造業高質量發展中心，未來一年的員工規模將達到5000人，推動更多的優秀人才深入參與到雄安新區的建設中。
+
+---
+
+### 2026-07-07 13:10:59  #MKT News #9984.T #Impact bearish
+
+SoftBank Group shares pared earlier gains and were down 4%.
+
+---
+
+### 2026-07-07 13:10:28  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's TOPIX fell 1%.
+
+---
+
+### 2026-07-07 13:10:15
+
+A股三大股指午後持續下挫，創業板指跌2％，深證成指跌1.9％，滬指跌1.5％。
+
+---
+
+### 2026-07-07 13:10:12  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China
+
+China A-share storage-chip sector weakened in afternoon trade; Beijing Junzheng fell more than 10%, with Puran Co., Demingli, Jiangbolong, Shannon Xinchuang and Baiwei Storage among the largest decliners.
+
+---
+
+### 2026-07-07 13:09:59  #公司 #市場
+
+軟銀集團股價回吐早盤漲幅，最新下跌4%。
+
+---
+
+### 2026-07-07 13:09:42  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+A-shares extended losses in afternoon trade; ChiNext down 2%, Shenzhen Composite down 1.9% and Shanghai Composite down 1.5%.
+
+---
+
+### 2026-07-07 13:09:29  #市場 #焦點
+
+創業板指跌2.00%，現報3869.743點；上證指數跌1.53%，現報3979.414點；深證成指跌1.92%，現報15120.729點。
+
+---
+
+### 2026-07-07 13:09:16  #觀點 #國際
+
+【摩根大通：機器人和自動駕駛汽車或成為下一個AI贏家】摩根資產管理全球市場策略師Raisah Rasid在一場吹風會上表示，機器人和自動駕駛汽車概念股可能成為人工智慧(AI)交易的下一個贏家。”AI是一個將長期存在的主題，”Rasid說。“大規模採用的速度真的非常非常快，尤其是在生成式AI方面。“她補充說，隨著與AI相關的贏家從超大規模雲服務提供商向外擴充套件，盈利增長（尤其是硬體領域的盈利增長）一直在推動主要市場的回報。不過她表示，韓國綜合指數在上半年實現的三位數百分比回報率不太可能在下半年重演，而是可能會有所放緩，因為企業不太可能維持其在硬體方面的強勁定價權。
+
+---
+
+### 2026-07-07 13:08:59  #MKT News
+
+Indian government officials said India will supply Indonesia with BrahMos cruise missile systems and Astra air-to-air missiles.
+
+---
+
+### 2026-07-07 13:08:57  #市場
+
+【富時中國A50指數期貨跌1%】富時中國A50指數期貨跌幅擴大至1%。
+
+---
+
+### 2026-07-07 13:08:51  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
+
+FTSE China A50 futures fell 1%.
+
+---
+
+### 2026-07-07 13:08:29  #國際
+
+印度政府官員：印度將向印度尼西亞出口布拉莫斯巡航導彈系統與阿斯特拉空空導彈。
+
+---
+
+### 2026-07-07 13:07:15  #市場
+
+MSCI亞太指數下跌2%至270.00點。
+
+---
+
+### 2026-07-07 13:06:47  #公司 #市場 #國際
+
+【韓國Kospi指數下跌8% 股市暫停交易20分鐘】據韓國交易所，Kospi指數下跌超過8%，於當地時間下午1點51分觸發熔斷機制。交易將暫停20分鐘。三星和SK海力士股價均下跌超過10%。外國投資者賣出價值3.3萬億韓元（21.7億美元）的Kospi股票，而散戶投資者則買入了數額相近的股票。“我認為盈利表現強勁，但股價反應看起來像是典型的‘賣事實’行為，”Eugene Asset Management首席投資官Ha SeokKeun表示，“這種模式在韓國相當常見，因為市場預期在公告發布前就已經被消化了。所以我認為現在還不至於是根本性的負面走勢。”注：自2000年以來，韓國交易所已對Kospi指數啟動了12次熔斷，其中6次是在2026年發生的。
 
 ---
 
@@ -19153,125 +19345,5 @@ WTI crude opened 0.3% lower on Monday, trading at $68.54/bbl.
 ### 2026-07-06 05:00:29  #其他
 
 【委內瑞拉地震3342人遇難16740人傷】當地時間7月5日下午，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯通報稱，委內瑞拉地震遇難人數升至3342人，受傷16740人。
-
----
-
-### 2026-07-06 05:00:01  #市場
-
-紐約期銀日內漲2%，現報62.87美元/盎司。
-
----
-
-### 2026-07-06 04:53:39  #國際
-
-美國紐約州州長霍楚爾：部分地區小時降雨量最高可達3英寸（76.2毫米）。
-
----
-
-### 2026-07-06 04:51:49  #市場 #觀點
-
-【電子布價格連漲 產業鏈上游高階織機緊缺】如果說PCB（印製電路板）是AI晶片等電子元件的“神經系統”，那麼電子布就是為PCB提供強度的“骨架”。東吳證券研究所研報稱，銅箔、電子布和樹脂三種材料共同構成PCB的物理基礎。其中，電子布由極細的玻璃纖維編織而成，主要為電路板提供機械強度和剛性，防止PCB出現彎曲與形變。近期，隨著下游AI需求爆發，國內電子紗市場主流產品G75及7628型號電子布的價格再次上行，漲幅明顯。卓創資訊資料顯示，月初電子紗平均漲幅為2500元/噸，電子布價格上漲1.2元/米左右，細紗、超細紗價格亦有明顯提漲。現階段供需錯配格局暫難緩解，電子布貨源緊俏仍將持續。
-
----
-
-### 2026-07-06 04:51:35  #國際
-
-美國紐約州州長霍楚爾下令州屬各機構做好強降雨應對準備。
-
----
-
-### 2026-07-06 04:47:41  #國際
-
-加拿大總理加拿大總理卡尼將於週一公佈潛艇建造合同中標方，中標方將承建12艘新型潛艇，預計在德國、韓國兩家競標方中二選一。
-
----
-
-### 2026-07-06 04:44:00  #其他
-
-【人形機器人產業迎來催化 資金借道ETF入場】7月2日，證監會正式同意宇樹科技首次公開發行股票並在科創板上市的註冊申請，人形機器人產業再迎重要催化。受訊息提振，市場資金持續借道ETF佈局機器人賽道。最近一週，十餘隻機器人ETF全部實現資金淨流入，相關產品整體取得正收益，機器人主題投資熱度開始升溫。 展望後市，多家機構認為，未來機器人行業催化有望持續釋放，人形機器人商業化程序不斷推進，板塊有望迎來估值修復與產業成長共振，中長期配置價值值得關注。（央視新聞）
-
----
-
-### 2026-07-06 04:38:59  #其他
-
-【德國上調2027年舉債規模至1180億歐元】德國計劃將2027年新增淨髮債規模提升至1180億歐元，理由是稅收收入下滑、債務付息成本走高，同時勞動力市場配套資金需求增加。德國政府稱將透過嚴控開支、削減補貼、上調菸酒及塑膠製品相關稅費來緩解財政壓力；國防與基建支出不受舉債上限約束。
-
----
-
-### 2026-07-06 04:31:44  #國際
-
-美國副總統萬斯：在英國經歷多年“失敗的領導層治理”後，希望安迪·伯納姆能夠扭轉英國當下的局面。英國政壇已經出現嚴重問題，民眾迫切期待大刀闊斧的結構性改革。
-
----
-
-### 2026-07-06 04:26:28  #其他
-
-【科技行情“縮圈”與切換並行 基金靜候半年報檢驗成色】7月份伊始，A股科技板塊正經歷一場劇烈的結構性切換，前期領漲的熱門AI賽道在基金“中考”後遭遇顯著回撥，而沉寂多時的機器人板塊則借多重利好逆勢爆發，帶動相關主題基金淨值大幅反彈。 除了行情切換以外，近期科技投資也已告別“凡AI必漲”的普漲時代，並呈現出明顯的“縮圈”特徵與資金的高低位博弈現象。多家公募指出，隨著半年報披露視窗開啟，市場定價邏輯正加速從前期的主題催化轉向真實的訂單與盈利兌現能力，業績成色已成為甄別科技“真假龍頭”的唯一試金石。（央視新聞）
-
----
-
-### 2026-07-06 04:25:48  #公司
-
-【9只ETF上市在即 個人投資者包攬近八成份額】個人投資者在ETF中的“戲碼”仍在持續增加。 根據證券時報記者統計，本週（7月6日至7月10日）上市的9只ETF，個人投資者持有份額比例接近八成，在個別產品上的持有比例甚至達到了98%。這樣的情況並非偶然，從記者統計的今年6月和今年上半年資料看，這種情況作為一種趨勢在持續加強。資料還顯示，個人投資者偏好熱門主題ETF，但操作也較為頻繁。 基金業內人士認為，個人投資者在ETF中的參與度仍會持續提升，但只有對ETF認知不斷提高，才能帶來更好的持有體驗，這將對基金公司投教提出更高要求。（證券時報）
-
----
-
-### 2026-07-06 04:22:01  #MKT News #Important
-
-【NYT: Trump phoned FIFA over U.S. forward’s red-card suspension; ban deferred】The New York Times, citing three people familiar with the matter, reports President Trump called FIFA president Gianni Infantino on July 1 asking a review of the red-card suspension of U.S. leading scorer Balogun after he was sent off for stamping in the U.S. 2-0 win over Bosnia in the round of 32. On July 5 FIFA said its disciplinary committee found Balogun in breach of Articles 14 and 66 and imposed a one-match ban but invoked Article 27 to suspend that ban for one year, making him eligible for Monday’s match against Belgium — the first time since 1962 FIFA has allowed a player originally due to be suspended to play. Trump welcomed the decision on social media but did not disclose the call or claim credit.
-
----
-
-### 2026-07-06 04:18:23  #央行 #公司 #焦點
-
-【央行今日開展1萬億元買斷式逆回購操作】中國人民銀行近日釋出公告稱，將在7月6日以固定數量、利率招標、多重價位中標方式開展1萬億元買斷式逆回購操作，期限為3個月（91天）。鑑於該期限品種當月有8000億元到期量，此次3個月期買斷式逆回購操作將實現加量續作，結束了該期限品種連續3個月的縮量程序。（證券時報）
-
----
-
-### 2026-07-06 04:17:48  #公司
-
-【公募調研緊盯業績兌現 醫藥板塊關注程度提升】近期，公募基金圍繞景氣度較高、產業邏輯清晰的領域展開深度調研。從行業分佈來看，電子板塊仍穩居調研熱度榜首位，醫藥生物板塊關注度則明顯提升，創新藥、CXO等細分方向獲得機構重點關注。業內人士認為，隨著上市公司半年報的披露，公募機構調研思路聚焦於產業趨勢明確、業績兌現能力較強的細分賽道。
-
----
-
-### 2026-07-06 04:16:46  #其他
-
-【南蘇丹人民國防軍基地遭襲 5名士兵死亡】當地時間5日，位於上尼羅州的南蘇丹人民國防軍基地遭襲，造成5名士兵死亡。據悉，襲擊者已被擊退，其身份尚不明。南蘇丹政府對此予以譴責，稱襲擊是“為了破壞即將到來的大選”。此前南蘇丹全國選舉委員會宣佈將於今年12月22日舉行全國大選。（央視新聞）
-
----
-
-### 2026-07-06 04:14:41  #國際
-
-石油輸出國組織（OPEC）：沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞、阿曼共七個參與國將執行每日18.8萬桶的產量調整；各方重申維護市場穩定的承諾，下一次會議定於8月2日召開。
-
----
-
-### 2026-07-06 04:11:50  #公司
-
-【上市公司半年報披露開啟 下半年機構緊盯業績主線】7至8月，A股上市公司將陸續進入半年報業績披露期，市場交易主線逐步向景氣驗證與業績高增方向聚焦。多家公募基金認為，當前產業趨勢與產能週期位置對市場構成有力支撐，但結構性分化已充分演繹，短期風格再平衡壓力顯現，AI產業鏈的業績確定性與非AI板塊的低估修復機會並存。
-
----
-
-### 2026-07-06 04:06:48  #國際
-
-伊朗媒體：卡達魯韋斯港與伊朗各港口間海上貿易即刻恢復通航。
-
----
-
-### 2026-07-06 03:55:08  #MKT News
-
-【Venezuela post-quake: counselors stretched as psychological trauma requires long-term care】After a strong earthquake struck Venezuela on June 24, a restaurant was converted into a temporary medical center. Volunteer doctors, nurses and psychological counselors from across the country are working shifts to provide free medical services to affected residents. Officials say psychological trauma will require long-term, continuous professional treatment compared with other illnesses.
-
----
-
-### 2026-07-06 03:53:16  #其他
-
-【委內瑞拉震後心理諮詢師工作繁重 民眾心理創傷需長期修復】委內瑞拉6月24日發生強震後，一家餐廳被改造成臨時醫療中心，來自委內瑞拉多地的醫生、護士、心理諮詢師等志願者輪班值守，為受災民眾提供免費醫療服務。相比其他疾病，民眾的心理創傷修復需要長期、持續的專業治療。（央視新聞）
-
----
-
-### 2026-07-06 03:51:13  #國際
-
-【禁賽暫緩執行 美國隊巴洛貢將出戰世界盃16強賽】國際足聯5日宣佈，對在與波黑隊比賽中被紅牌罰下的美國隊球員福拉林·巴洛貢作出禁賽一場處罰，並暫緩一年執行。這使得這位美國隊頭號射手得以出戰與比利時隊的世界盃16強賽。（新華社）
 
 ---

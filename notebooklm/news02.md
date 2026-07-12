@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-13 03:45:54_
-_本檔包含 3183 則快訊，約 627639 字_
+_更新時間：2026-07-13 05:00:19_
+_本檔包含 3202 則快訊，約 628072 字_
+
+---
+
+### 2026-07-10 16:40:09  #公司
+
+【誠志股份：預計2026年上半年淨利潤同比增長1259.43%-1573.15%】誠志股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為2.6億元-3.2億元，與上年同期增長1259.43%-1573.15%。扣除非經常性損益後的淨利潤為3.2億元-3.8億元，與上年同期增長977.72%-1179.79%。主要驅動因素來自兩大核心業務板塊的盈利端協同改善：一是受益於國際局勢及原油市場帶動下大宗化工原料價格反彈，公司清潔能源業務核心產品自2026年3月起售價顯著上行，公司搶抓機遇調升產線負荷、釋放產能，該板塊盈利能力大幅提升，貢獻主要業績增量；二是化工新材料業務的液晶顯示材料持續鞏固核心競爭力，產銷穩增、盈利持續提升，兩大板塊共同推動公司整體業績大幅改善。
+
+---
+
+### 2026-07-10 16:40:06  #觀點 #焦點
+
+【中信證券：預計2026年上半年淨利潤233.43億元，同比增長69.59%】中信證券公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤人民幣233.43億元，同比增長69.59%；預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤人民幣236.1億元，同比增長73.40%。2026年上半年，資本市場穩中向好，市場活躍度維持高位。
+
+---
+
+### 2026-07-10 16:39:54  #市場
+
+【中期協釋出《中國期貨業協會自律規則制定辦法》】為更好履行中國期貨業協會“制定和實施行業自律規則”的法定職責，進一步規範協會自律規則立改廢釋程式，提高自律規則建設工作效率，中國期貨業協會組織修訂了《中國期貨業協會自律規則制定辦法》。《辦法》已經第六屆理事會第二十八次會議審議透過，現予釋出，自發布之日起實施。
+
+---
+
+### 2026-07-10 16:39:05  #公司
+
+【創維光伏旗下海南公司增資至5億 增幅150%】天眼查App顯示，近日，海南創維新能源投資有限公司發生工商變更，註冊資本由2億人民幣增至5億人民幣，增幅150%。該公司成立於2025年9月，法定代表人為範瑞武，經營範圍包括以自有資金從事投資活動、光伏發電裝置租賃、光伏裝置及元器件製造、太陽能發電技術服務等，由深圳創維光伏科技股份有限公司全資持股。
+
+---
+
+### 2026-07-10 16:38:50  #其他
+
+【美圖 RoboNeo 接入Seedream 5.0 Pro】美圖旗下RoboNeo宣佈接入Seedream 5.0 Pro。官方資訊顯示，目前的RoboNeo互動式編輯實現精準控制，支援箭頭圈畫精準選區，實現類似PSD的分層編輯體驗，同時具備更強的指令遵循能力，無需複雜、冗長的提示詞。資訊圖渲染也做到專業精細，可更精準呈現文字細節與畫面資訊，增強資訊圖的專業性與完整性。（新浪科技）
+
+---
+
+### 2026-07-10 16:38:18  #公司
+
+【聯合水務：投資1.9億沙特里亞爾設立專案公司】聯合水務公告，公司作為牽頭人組成的聯合體已中標沙特國家水務公司市政汙水處理廠長期運維合同第10包（北部區域）專案。專案總投資金額1.9億沙特里亞爾，約合人民幣3.44億元。公司透過全資子公司United Water Service Company出資3135萬沙特里亞爾，與Armada Holding Company共同設立專案公司，持股比例55%。專案內容包括9座汙水處理廠的修復升級、汙泥深度處理設施建設及15年的全週期運營維護。
+
+---
+
+### 2026-07-10 16:38:15  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,100/oz, down 0.58% intraday.
+
+---
+
+### 2026-07-10 16:38:14  #公司
+
+【華納藥廠：7個品種新進入國家基本藥物目錄】華納藥廠公告，公司本次共有7個品種新進入國家基藥目錄。其中，膠體果膠鉍膠囊（100mg（以鉍計））、吸入用乙醯半胱氨酸溶液、吸入用異丙託溴銨溶液、硝苯地平緩釋片等4個產品在2025年實現銷售收入合計1.32億元，佔公司2025年營業收入的8.78%；2026年第一季度實現銷售收入合計2180.37萬元，佔公司2026年第一季度營業收入的6.72%。其他產品在2025年及2026年第一季度暫無銷售收入。
+
+---
+
+### 2026-07-10 16:37:45  #公司
+
+【中礦資源：預計上半年淨利潤同比增長1078.07%-1302.46%】中礦資源公告，預計2026年上半年淨利潤為10.5億元-12.5億元，同比增長1,078.07%-1,302.46%。2026年上半年，公司預計歸屬於上市公司股東的淨利潤較上年同期實現較大幅度增長，主要變動原因如下：受益於下游儲能及動力電池行業的發展，鋰鹽產品價格同比上行，公司鋰電新能源原料開發與利用板塊經營效益改善，利潤實現同比增長，公司整體盈利水平提升。公司所屬奈米比亞Tsumeb冶煉廠因業務轉型，與上年同期相比大幅減虧。
+
+---
+
+### 2026-07-10 16:37:31  #市場
+
+【現貨黃金失守4100美元/盎司】現貨黃金失守4100美元/盎司，日內跌0.57%。
+
+---
+
+### 2026-07-10 16:37:19  #其他
+
+西班牙經濟大臣：我們將傳遞我們是可靠合作伙伴的訊號。
+
+---
+
+### 2026-07-10 16:37:14  #市場 #焦點
+
+現貨黃金失守4100美元/盎司，日內跌0.57%。
+
+---
+
+### 2026-07-10 16:37:10  #央行 #日本央行
+
+日本央行表示，或將調高經濟增長預期。
+
+---
+
+### 2026-07-10 16:36:44  #行業
+
+乘聯分會： 7月1-5日，全國乘用車市場新能源零售滲透率60.5%；7月1-5日，全國乘用車廠商新能源批發滲透率65.5%。
+
+---
+
+### 2026-07-10 16:36:35  #市場 #焦點
+
+紐約期金失守4110美元/盎司，日內跌0.75%。
+
+---
+
+### 2026-07-10 16:36:34  #行業
+
+乘聯分會： 7月1-5日，全國乘用車市場新能源零售10.3萬輛，同比去年7月同期下降9%，較上月同期下降6%，今年以來累計零售480.7萬輛，同比下降14%；7月1-5日，全國乘用車廠商新能源批發8.3萬輛，同比去年7月同期下降20%，較上月同期下降15%，今年以來累計批發687.1萬輛，同比增長5%。
+
+---
+
+### 2026-07-10 16:36:32  #MKT News
+
+Iranian reports say flight operations at Mashhad airport are currently unaffected.
+
+---
+
+### 2026-07-10 16:36:26  #行業
+
+乘聯分會： 7月1-5日，全國乘用車市場零售16.9萬輛，同比去年7月同期下降15%，較上月同期增長4%，今年以來累計零售887萬輛，同比下降20%；7月1-5日，全國乘用車廠商批發12.7萬輛，同比去年7月同期下降35%，較上月同期下降13%，今年以來累計批發1,267.3萬輛，同比下降6%。
+
+---
+
+### 2026-07-10 16:35:51  #公司
+
+【魯信創投：轉讓彼岸電力14.46%股權交易完成，價格5600.79萬元】魯信創投公告，公司及全資子公司山東省高新技術創業投資有限公司此前公開掛牌轉讓持有的山東彼岸電力科技有限公司全部14.46%股權（1012萬元註冊資本），掛牌底價5600.79萬元，最終由山東省魯新工業高質量發展基金合夥企業（有限合夥）以5600.79萬元受讓。2026年7月3日，公司及山東高新投收到全部股權轉讓款；2026年7月9日，彼岸電力完成工商變更登記手續。
+
+---
+
+### 2026-07-10 16:35:01  #公司
+
+【復星醫藥：HLX37聯合HLX43獲臨床試驗批准，研發投入859萬元】復星醫藥公告，公司控股子公司復宏漢霖近日收到國家藥品監督管理局批准，同意HLX37注射液（重組人源化抗PD-L1與抗VEGF雙特異性抗體）聯合HLX43（靶向PD-L1抗體偶聯藥物）用於晚期/轉移性實體瘤治療開展Ⅰ期臨床試驗。截至本公告日期，全球範圍內尚無同類聯合用藥治療方案獲批上市。截至2026年6月，本集團針對該治療方案的累計研發投入約為人民幣859萬元（未經審計）。復宏漢霖擬於條件具備後在中國境內開展相關臨床研究。
+
+---
+
+### 2026-07-10 16:34:56  #央行 #國際
+
+日本央行或上調經濟增長預期。
+
+---
+
+### 2026-07-10 16:34:30  #公司
+
+【安孚科技：預計2026年半年度淨利潤同比增長68.94%到97.10%】安孚科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.8億元到2.1億元，與上年同期相比，將增加7345.4萬元到1.03億元，同比增加68.94%到97.10%。公司預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤1.72億元到2.06億元，與上年同期相比，將增加6923.68萬元到1.03億元，同比增加67.38%到100.46%。
+
+---
+
+### 2026-07-10 16:34:24  #MKT News #USDJPY
+
+USD/JPY little changed in short-term trade, trading at 161.66.
+
+---
+
+### 2026-07-10 16:33:50  #市場
+
+【SpaceX美股盤前跌超2%】SpaceX美股盤前跌超2%，現報149.26美元。
+
+---
+
+### 2026-07-10 16:33:47  #公司
+
+【陝建股份：預計上半年歸母淨利潤同比減少71.77%至81.18%】陝建股份7月10日公告，預計2026年上半年歸母淨利潤1.98億元至2.97億元，同比減少71.77%至81.18%。該公司稱，受行業週期調整等因素影響，市場需求釋放節奏有所放緩，公司營業收入同比出現一定回落。公司業績雖出現階段性下滑，但生產經營有序運轉，預計半年度實現利潤總額達到上年全年利潤總額半數水平。
+
+---
+
+### 2026-07-10 16:33:46  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israel Defense Forces (IDF) said it recently destroyed five Hamas tunnels totaling about 2 km in northern Gaza on the Israeli side of the ceasefire line.
 
 ---
 
@@ -19166,47 +19322,5 @@ Slovakia Industrial Output Falls at Softer Pace — Industrial production in Slo
 ### 2026-07-09 15:25:39  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Falls Led by AstraZeneca — The FTSE 100 traded lower on Thursday, extending a 1.7% loss in the previous session, amid weakness in healthcare and energy stocks. AstraZeneca slumped 9% after its gene-silencing drug Wainua, developed with Ionis Pharmaceuticals, failed in a late-stage clinical trial to reduce heart complications in patients with a rare and potentially fatal cardiac disease. Energy majors also pressured the market, with Shell falling 0.8% and BP losing 1.3% as oil prices reversed earlier gains despite renewed tensions between the US and Iran. Concerns over the conflict, alongside uncertainty surrounding the durability of the ceasefire, have revived fears that higher energy prices could fuel inflation. Elsewhere, Severn Trent said trading remained in line with expectations after a strong start to its 2027 financial year. Meanwhile, the latest RICS survey showed UK house prices continued to decline in June, although the pace of falls eased slightly, suggesting the housing market may be stabilising.
-
----
-
-### 2026-07-09 15:24:17  #國際
-
-【韓國“全職主夫”數量增加】韓國統計廳資料顯示，今年第一季度，因育兒或家務而被歸類為“非經濟活動人口”的男性達到27.4萬人，為有記錄以來最高值，較去年同期增加16.6%。（新華社）
-
----
-
-### 2026-07-09 15:23:51  #觀點
-
-【摩根士丹利：7月底至8月將是中國市場實現可持續復甦的關鍵時期】摩根士丹利中國首席股票策略師王瀅釋出最新觀點認為，7月底至8月將是中國市場實現可持續復甦的關鍵時期，原因在於電商板塊二季度業績將確認價格競爭對盈利的衝擊正趨於消失，以及AI商業化前景取得進一步進展。短期波動可能持續，全球市場仍在尋求企穩，對中國股票顯著低配的投資者，可考慮利用此機會逢低吸納基本面穩健的優質標的。 在韓股大幅波動之際，高盛更是釋出題為《交易想法：做多中國AI價值鏈》報告。報告指出，中國AI已正式進入我們的視野。高盛推薦客戶買入其自建的“GS中國AI價值鏈”籃子產品，覆蓋電力、半導體、AI基礎設施、AI模型及AI應用等整條產業鏈。高盛認為，自2022年底以來，全球AI相關股票合計創造了34萬億美元的市值，中國的佔比極小。目前中國AI相關市值約為4萬億美元——分析師認為這個數字相對於中國在全球AI產業中的實際地位而言“明顯偏低”。（券商中國）
-
----
-
-### 2026-07-09 15:23:05  #公司 #國際
-
-【美司法部內部擔憂幣安提高執法協助門檻 幣安否認減少合作】據報道，今年6月初，美國司法部向負責數字貨幣案件的檢察官傳送了一份內部備忘錄，提醒他們：今後辦理案件時，全球最大加密貨幣交易所幣安（Binance）的配合度或將大幅下降。 這封郵件由司法部數字貨幣顧問Rachel Jones發出，並抄送給包括Kevin Mosley在內的多名高階檢察官。2023年，Mosley曾負責起訴幣安，當時司法部指控該交易所及其執行長趙長鵬涉嫌洗錢以及違反《銀行保密法》（Bank Secrecy Act）。郵件顯示，Jones表示，幣安將針對檢察官在其平臺上提出的資產凍結和扣押請求實施一系列新的、更為繁瑣的要求。 在回應置評請求時，幣安發言人否認公司將實施備忘錄中列出的任何新程式。發言人在宣告中表示：“幣安與美國執法機構的合作過去沒有變化，未來也不會發生變化。任何聲稱幣安已經或正在減少與執法部門合作的說法都是錯誤的。”
-
----
-
-### 2026-07-09 15:22:08  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Falls as Foreign Inflows Persist — The yield on India’s 10-year G-Sec fell to around 6.75%, retreating from a one-week high as investors bought back government bonds after the previous session’s sharp selloff, with sustained foreign inflows continuing to support demand. Still, sentiment remained cautious as renewed Middle East tensions kept Brent crude near $79 per barrel, while elevated US Treasury yields weighed on fixed-income markets. Expectations of tighter US monetary policy also lingered after the Federal Reserve’s latest meeting minutes highlighted persistent inflation concerns, reinforcing the likelihood of another rate hike later this year. In spite of these pressures, overseas investors remained net buyers of Indian government bonds, purchasing INR 365 billion ($3.82 billion) through the Fully Accessible Route since the start of June, driven by growing expectations that India’s debt will be included in Bloomberg’s Global Aggregate Index.
-
----
-
-### 2026-07-09 15:22:07  #Trading Economics #Economy #Malaysia #Interest Rate #Importance 2
-
-Malaysia Holds Rates Steady as Expected — The Central Bank of Malaysia kept its key interest rate unchanged at 2.75% at its July 2026 policy meeting, in line with market expectations. The Monetary Policy Committee said the current policy stance remains well suited to preserving price stability while supporting steady economic growth. Additionally, the central bank said Malaysia's economic activity remained resilient in the second quarter, backed by solid domestic demand and stronger-than-expected exports, while keeping its 2026 growth forecast at 4% to 5%. Headline and core inflation averaged 1.7% and 2.1%, respectively, in the first five months of 2026, with price pressures expected to stay manageable despite higher global commodity prices linked to tensions in the Middle East. Finally, the MPC said it will continue to closely monitor economic developments and evaluate risks to the domestic inflation and growth outlook.
-
----
-
-### 2026-07-09 15:21:21  #國際
-
-日本內閣官房長官木原稔表示：希望透過穩步降低政府債務與國內生產總值之比來維持市場信心。
-
----
-
-### 2026-07-09 15:21:14  #公司
-
-【陽光電源：固態變壓器（SST）首先應用場景是面向AIDC】從陽光電源方面獲悉，公司今日釋出自研EnerNeo固態變壓器，核心引數顯示，產品輸入電壓等級10~13.8KV， 輸出電壓等級為800Vdc，額定功率為3MW，最小功率顆粒度1.5MW，可按需拓展配置3MW、4.5MW規格機型，系統轉換效率98.5%。該公司表示，算力晶片技術高速迭代，新一代800V直流架構是適配AIDC的主流方案，而固態變壓器（SST）作為實現“直轉800V直流”的核心載體，被視作解決AIDC供電行業痛點的重要方案。
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-13 03:45:54_
-_本檔包含 3397 則快訊，約 627410 字_
+_更新時間：2026-07-13 05:00:19_
+_本檔包含 3380 則快訊，約 627643 字_
+
+---
+
+### 2026-07-08 15:01:07  #宏觀 #市場
+
+【財政部第一次續發行2026年記賬式附息（十三期）國債】財政部擬第一次續發行2026年記賬式附息（十三期）國債。現就本次續發行工作有關事宜通知如下： （一）品種。本次續發行國債為2年期固定利率附息債。 （二）發行數量。本次續發行國債競爭性招標面值總額1300億元，進行甲類成員追加投標。 （三）票面利率。本次續發行國債票面利率與之前發行的同期國債相同，為1.21%。 （四）本息兌付日期。本次續發行國債的起息日、兌付安排與之前發行的同期國債相同。自2026年6月25日開始計息，按年付息，每年6月25日（節假日順延，下同）支付利息，2028年6月25日償還本金並支付最後一次利息。
+
+---
+
+### 2026-07-08 15:01:02  #市場 #焦點
+
+A股收盤，上證指數跌0.49%，深證成指跌1.87%，創業板指跌1.70%。
+
+---
+
+### 2026-07-08 15:00:55  #公司 #市場 #觀點
+
+義大利倍耐力集團股價因花旗集團將其評級從“買入”下調至“中性”下跌2.6%。
+
+---
+
+### 2026-07-08 15:00:33  #其他
+
+淡馬錫投資組合淨值增至5180億新元，上一財年股東一年總回報率10.5%。
+
+---
+
+### 2026-07-08 15:00:02  #市場
+
+【商品期貨收盤】上海原油連續漲6.24%，低硫燃料油連續漲6.18%，燃料油連續漲6.16%，純苯連續漲5.43%，苯乙烯連續漲4.57%，甲醇連續漲4.14%，丙烯連續漲3.88%，聚丙烯連續漲3.62%，液化石油氣連續漲3.39%。
+
+---
+
+### 2026-07-08 15:00:02  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌1.59%， 滬深300指數期貨連續跌0.74%， 中證500指數期貨連續跌0.75%， 上證50指數期貨連續跌0.12%。
+
+---
+
+### 2026-07-08 15:00:02  #市場
+
+歐股開盤漲跌不一，德國DAX指數跌1.37%，英國富時100指數漲0.13%，法國CAC40指數跌0.51%，歐洲斯托克50指數跌1.22%，義大利富時MIB指數跌0.95%。
+
+---
+
+### 2026-07-08 14:59:43  #宏觀 #國際
+
+【伊朗外交部：譴責美方襲擊和多次違約行為】當地時間8日，伊朗外交部發表宣告稱，美國軍方當天凌晨對伊朗南部沿海數個監測和監管中心發動軍事襲擊，違反《聯合國憲章》相關規定，也嚴重違反美伊此前簽署的諒解備忘錄中關於停止軍事行動的條款。宣告稱，美國近期對伊朗的襲擊，以及美國財政部決定取消伊朗石油銷售許可、違反伊朗在霍爾木茲海峽相關安排等行為，使已簽署的諒解備忘錄的重要內容失去效力。伊朗外交部表示，美國應對由此造成的緊張局勢升級及其危險後果承擔責任。宣告還強調，各國特別是波斯灣南岸鄰國負有國際法義務，應防止有關方面利用其領土和設施對伊朗實施“侵略行動”。任何協助此類行動的行為，都將被伊方視為參與對伊朗的“侵略”。伊朗外交部強烈譴責美國的襲擊和多次違約行為，並表示伊朗武裝部隊將依據《聯合國憲章》第五十一條，在面對美國軍事襲擊時維護國家主權、領土完整和國家安全，並將打擊襲擊來源。（央視新聞）
+
+---
+
+### 2026-07-08 14:59:23  #國際
+
+【韓國上半年生物醫藥出口45億美元創同期新高】韓國食品醫藥品安全處8日釋出統計資料，初步核實今年上半年生物醫藥出口額同比增長15.3%，達45億美元，創下歷年同期最高紀錄。今年上半年生物醫藥出口佔整體醫藥出口（52億美元）的86.5%。分季度看，今年第一和第二季度出口同比分增11.1%和15.3%，分別為20億美元和25億美元。從出口目的地看，今年上半年共向163個國家和地區出口，其中對瑞士出口額最高，為7.7億美元，佔整體出口額的17.1%，美國（6.1億美元）、匈牙利（6億美元）排在其後。
+
+---
+
+### 2026-07-08 14:58:55  #MKT News #LMT.O #Impact bullish #NOC.O #RHM.DE
+
+【NATO unveils multibillion-dollar procurement and $40bn-plus counter-UAV plan】NATO announced a package of arms purchases and defence investments during its summit, including a plan to spend more than $40bn over the next five years on counter‑UAV capabilities and to increase trained drone operators fivefold by end‑2027. Secretary‑General Rutte urged member governments and Western defence firms to expand investment and boost industrial capacity. Procurement details include Denmark, Finland, Germany and Norway buying unmanned systems from Northrop Grumman and 11 members acquiring Saab’s GlobalEye airborne early‑warning aircraft. Separately, Lockheed Martin and Rheinmetall signed an MoU to jointly produce the Army Tactical Missile System in Germany, the first production of that short‑range missile outside the United States.
+
+---
+
+### 2026-07-08 14:58:46  #其他
+
+【遼寧釋出地質災害氣象風險黃色預警】遼寧省自然資源廳與遼寧省氣象局8日聯合釋出地質災害氣象風險預警，7月8日8時至7月9日8時，本溪、丹東、鞍山部分地區地質災害氣象風險預警等級為三級（黃色預警），氣象因素致地質災害發生的風險較高，提示注意防範。
+
+---
+
+### 2026-07-08 14:58:00  #公司 #觀點
+
+【開源證券：首予長江電力“買入”評級，低利率環境配置價值凸顯】開源證券研報指出，長江電力水電龍頭資產稀缺，低利率環境配置價值凸顯。公司隸屬於三峽集團，擁有葛洲壩、三峽、向家壩、溪洛渡、烏東德、白鶴灘六座梯級電站，國內水電裝機規模7169.5萬千瓦。烏東德、白鶴灘資產注入後，公司收入和利潤上升，盈利穩定性和現金流質量較高，低利率環境下具備配置價值。預計公司2026-2028年歸母淨利潤分別為345.3/348.7/362.6億元，當前股價對應PE分別為19.2/19.0/18.3倍。首次覆蓋，給予“買入”評級。
+
+---
+
+### 2026-07-08 14:57:53  #公司
+
+【儲存原廠賺爆 Mac與Xbox被迫漲價 谷歌Pixel手機取消128GB】有報道稱，預計將於今年夏末釋出的谷歌Pixel 11 AI智慧手機將擁有更高起售價，並且將不再包括較低儲存容量的128GB儲存機型。谷歌的這一最新舉措類似於消費電子領軍者蘋果公司(AAPL.US)，後者已將其最新款iPhone切換為最低256GB儲存配置，並且將標準版iPhone 18推遲到2027年上半年，旗下Mac/iPad系列消費電子產品則實施全球提價，蘋果與谷歌可謂為上游儲存晶片成本向終端傳導提供了最直接的印證。
+
+---
+
+### 2026-07-08 14:56:37  #公司 #國際
+
+【特朗普重要“票倉”利益受損：資料中心大幅推高美國鐵鏽帶工業電力成本】由於資料中心數量和規模的增加，美國傳統製造業正面臨能源成本大幅升高的困境。美國鋼鐵製造商協會警告稱，集中在PJM電網覆蓋的“鐵鏽地帶”的美國鋼鐵公司，每年要支付數千萬美元的額外電力成本。鐵鏽帶核心地區是指美國五大湖及周邊老工業衰退區‌地區，原本是民主黨的鐵票倉，但因為特朗普重振美國製造業的口號而變成了關鍵搖擺州。這可能將衝擊特朗普重要票倉的利益，並影響到他本人的支援率。
+
+---
+
+### 2026-07-08 14:56:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Steel Advances on Signs of Stronger Demand — Steel rebar futures climbed toward CNY 3,080 per ton, rebounding from eight-month lows as improving property demand in top consumer China lifted the outlook for steel consumption. Industry data showed that transactions of newly built commercial homes across 10 major Chinese cities increased 19.2% year-on-year in the week ended July 5. China’s warehousing index also returned to expansion territory in June, supported by stronger demand for bulk commodity storage as infrastructure projects gathered pace nationwide. On the supply side, a planned strike by BHP workers at the Port Hedland iron ore terminal in Western Australia raised the risk of disruptions to iron ore shipments, a key raw material for steel production. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to iron ore supply.
 
 ---
 
@@ -20269,197 +20359,5 @@ Japan's 2-year bond yield rose 1.0bp to 1.400%; the 5-year yield rose 3.5bp to 1
 ### 2026-07-07 13:18:46  #Trading Economics #Economy #Estonia #Inflation Rate #Importance 1
 
 Estonia June Inflation Lowest Since 2020 — The annual inflation rate in Estonia slowed to 2.3% in June 2026 from a four-month high of 3.7% in the previous month. This marked the softest rise since April 2020, driven largely by declines in prices for food and non-alcoholic beverages (-1.5% vs 0.9% in May), clothing and footwear (-6.2% vs -3.9%), and household goods (-0.5% vs 1.5%). Costs also decreased for recreation, sport and culture (-0.2% vs 4.2%), restaurants and accommodation services (-2% vs 3.2%), and insurance and financial services (-7.2% vs -11.1%). In contrast, inflation remained elevated for housing (7.6% vs 5.4%) and transport (7.5% vs 10.4%), driven by higher electricity, natural gas, gasoline, and diesel prices. Costs also rose for alcoholic beverages and tobacco (8.9% vs 8.1%), partly due to excise duty increases and higher tobacco taxes. On a monthly basis, consumer prices fell by 0.5% in June, marking the first decline in six months and reversing a 0.4% gain in the preceding period.
-
----
-
-### 2026-07-07 13:18:06  #市場 #國際
-
-美國10年期公債收益率上漲1.8個基點至4.497%。
-
----
-
-### 2026-07-07 13:17:57  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #DXY #Impact bullish
-
-US 10-year Treasury yield rose 1.8 bps to 4.497%.
-
----
-
-### 2026-07-07 13:15:48  #央行 #其他
-
-【機構：對激進加息的擔憂緩解】天利投資的Anthony Willis在一份報告中表示，央行的前景再次發生轉變。這位高階經濟學家說，今年早些時候，隨著美伊衝突後油價飆升，市場擔心決策者將被迫採取更激進的加息措施。“隨著油價回落至每桶70美元附近，能源市場帶來的短期壓力減輕，這些擔憂已經緩解，“他說。他表示，到目前為止，通脹衝動並未指向廣泛的第二波通脹。“雖然能源推高了整體指標，但幾乎沒有證據表明它正明顯傳導至更廣泛的定價行為中。”Willis說，這一情況對投資者很重要。
-
----
-
-### 2026-07-07 13:15:47  #MKT News #Commodities #Precious Metals
-
-New York silver futures fell more than 2.0% intraday to $61.08/oz.
-
----
-
-### 2026-07-07 13:15:41  #市場 #焦點
-
-紐約期銀失守61美元/盎司，日內跌2.19%。
-
----
-
-### 2026-07-07 13:15:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell 1.00% intraday to $4,122.52/oz.
-
----
-
-### 2026-07-07 13:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Australian Dollar Drops by 0.25% — Top currency losers are Australian Dollar (-0.25%) and Euro (-0.06%). Gains are led by Japanese Yen (0.18%). Meanwhile, British Pound and Dollar Index were little changed.
-
----
-
-### 2026-07-07 13:14:56  #其他
-
-丹斯克銀行將諾和諾德目標價從355丹麥克朗上調至365丹麥克朗。
-
----
-
-### 2026-07-07 13:14:36  #市場
-
-紐約期銀日內跌2%，現報61.08美元/盎司。
-
----
-
-### 2026-07-07 13:14:11  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
-
-【JP Morgan: Robotics, autonomous driving may be next AI winners】JP Morgan Asset Management global markets strategist Raisah Rasid said robotics and autonomous-driving firms could be the next winners in AI-driven trades as large-scale adoption accelerates, particularly in generative AI. She said AI gains are spreading beyond hyperscalers and that earnings growth — especially in hardware — has been a key driver of major market returns. Rasid added KOSPI’s triple-digit 1H rally is unlikely to repeat in H2, with growth set to moderate as companies may struggle to sustain strong pricing power in hardware.
-
----
-
-### 2026-07-07 13:13:47  #市場 #焦點
-
-深證成指跌2.00%，現報15108.226點；上證指數跌1.63%，現報3975.260點；創業板指跌2.06%，現報3867.610點。
-
----
-
-### 2026-07-07 13:13:45  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan-listed Kioxia shares extended losses, down 12%.
-
----
-
-### 2026-07-07 13:13:39  #其他
-
-哈薩克計劃在2030年前建成卡沙甘油田25億立方米天然氣處理廠。
-
----
-
-### 2026-07-07 13:13:20  #市場
-
-鎧俠股價跌幅擴大，最新下跌12%。
-
----
-
-### 2026-07-07 13:13:12  #市場 #焦點
-
-比特幣跌破63000美元，日內跌1.74%。
-
----
-
-### 2026-07-07 13:12:51  #MKT News #1368.HK #Impact bearish
-
-【Daiwa cuts Xtep PT to HKD3.9, downgrades to Hold】Daiwa said channel checks show sporting-goods retail sales value (RSV) slowed QoQ in Q2 and monthly volatility rose, reducing Xtep’s (1368.HK) near-term predictability. The bank flagged that a core-brand transformation will disrupt wholesale channels and require upfront investment, likely diluting near-term revenue and margins; Saucony can sustain high growth but Xtep’s core brand faces slowing growth and intensifying competition. Daiwa trims EPS forecasts by about 12%, lowers its PT to HKD3.9 from HKD5.2 and downgrades the stock to Hold from Outperform.
-
----
-
-### 2026-07-07 13:11:50  #國際
-
-韓國綜合股價指數（KOSPI）在熔斷機制解除後恢復交易。
-
----
-
-### 2026-07-07 13:11:10  #公司
-
-【拼多多雄安公司員工已超1200人，成為新區員工規模最大的民營企業】7月7日訊息，拼多多雄安公司員工數量已突破1200人，成為新區員工規模最大的民營企業。拼多多相關負責人表示，集團初步計劃將雄安公司打造為資料處理服務中心和傳統製造業高質量發展中心，未來一年的員工規模將達到5000人，推動更多的優秀人才深入參與到雄安新區的建設中。
-
----
-
-### 2026-07-07 13:10:59  #MKT News #9984.T #Impact bearish
-
-SoftBank Group shares pared earlier gains and were down 4%.
-
----
-
-### 2026-07-07 13:10:28  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's TOPIX fell 1%.
-
----
-
-### 2026-07-07 13:10:15
-
-A股三大股指午後持續下挫，創業板指跌2％，深證成指跌1.9％，滬指跌1.5％。
-
----
-
-### 2026-07-07 13:10:12  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China
-
-China A-share storage-chip sector weakened in afternoon trade; Beijing Junzheng fell more than 10%, with Puran Co., Demingli, Jiangbolong, Shannon Xinchuang and Baiwei Storage among the largest decliners.
-
----
-
-### 2026-07-07 13:09:59  #公司 #市場
-
-軟銀集團股價回吐早盤漲幅，最新下跌4%。
-
----
-
-### 2026-07-07 13:09:42  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-A-shares extended losses in afternoon trade; ChiNext down 2%, Shenzhen Composite down 1.9% and Shanghai Composite down 1.5%.
-
----
-
-### 2026-07-07 13:09:29  #市場 #焦點
-
-創業板指跌2.00%，現報3869.743點；上證指數跌1.53%，現報3979.414點；深證成指跌1.92%，現報15120.729點。
-
----
-
-### 2026-07-07 13:09:16  #觀點 #國際
-
-【摩根大通：機器人和自動駕駛汽車或成為下一個AI贏家】摩根資產管理全球市場策略師Raisah Rasid在一場吹風會上表示，機器人和自動駕駛汽車概念股可能成為人工智慧(AI)交易的下一個贏家。”AI是一個將長期存在的主題，”Rasid說。“大規模採用的速度真的非常非常快，尤其是在生成式AI方面。“她補充說，隨著與AI相關的贏家從超大規模雲服務提供商向外擴充套件，盈利增長（尤其是硬體領域的盈利增長）一直在推動主要市場的回報。不過她表示，韓國綜合指數在上半年實現的三位數百分比回報率不太可能在下半年重演，而是可能會有所放緩，因為企業不太可能維持其在硬體方面的強勁定價權。
-
----
-
-### 2026-07-07 13:08:59  #MKT News
-
-Indian government officials said India will supply Indonesia with BrahMos cruise missile systems and Astra air-to-air missiles.
-
----
-
-### 2026-07-07 13:08:57  #市場
-
-【富時中國A50指數期貨跌1%】富時中國A50指數期貨跌幅擴大至1%。
-
----
-
-### 2026-07-07 13:08:51  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-FTSE China A50 futures fell 1%.
-
----
-
-### 2026-07-07 13:08:29  #國際
-
-印度政府官員：印度將向印度尼西亞出口布拉莫斯巡航導彈系統與阿斯特拉空空導彈。
-
----
-
-### 2026-07-07 13:07:15  #市場
-
-MSCI亞太指數下跌2%至270.00點。
-
----
-
-### 2026-07-07 13:06:47  #公司 #市場 #國際
-
-【韓國Kospi指數下跌8% 股市暫停交易20分鐘】據韓國交易所，Kospi指數下跌超過8%，於當地時間下午1點51分觸發熔斷機制。交易將暫停20分鐘。三星和SK海力士股價均下跌超過10%。外國投資者賣出價值3.3萬億韓元（21.7億美元）的Kospi股票，而散戶投資者則買入了數額相近的股票。“我認為盈利表現強勁，但股價反應看起來像是典型的‘賣事實’行為，”Eugene Asset Management首席投資官Ha SeokKeun表示，“這種模式在韓國相當常見，因為市場預期在公告發布前就已經被消化了。所以我認為現在還不至於是根本性的負面走勢。”注：自2000年以來，韓國交易所已對Kospi指數啟動了12次熔斷，其中6次是在2026年發生的。
 
 ---
