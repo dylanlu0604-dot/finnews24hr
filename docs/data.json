@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-12 22:31:53",
-  "count": 16635,
+  "updated": "2026-07-12 22:35:56",
+  "count": 16633,
   "items": [
+    {
+      "id": "mkt:019f56c0-6bf5-7aab-8d45-8afe3351698b",
+      "time": "2026-07-12 22:34:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ZELENSKIY weighs replacing Ukraine prime minister; may tap state oil & gas chief or ex-PM】Ukraine President ZELENSKIY is considering replacing the prime minister as part of a political-strategy shift and may nominate the head of the state oil and gas company, Serhiy Kolyetsky, or former prime minister and current energy minister Denys Shmyhal. ZELENSKIY met both candidates and has asked incumbent Prime Minister Yuliia Svyrydenko to take responsibility for new strategic partnership work. He said winter preparedness is a top priority and called for accelerated transformation of state-owned enterprises."
+    },
     {
       "id": "4982959",
       "time": "2026-07-12 22:29:37",
@@ -151571,30 +151579,6 @@
         "國際"
       ],
       "text": "【內塔尼亞胡稱解除哈馬斯武裝前絕不允許重建加沙】當地時間5日，以色列總理內塔尼亞胡在每週內閣會議上表示，除非徹底解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武裝並實現加沙地帶的去軍事化，否則絕不會允許啟動加沙重建工作。此前有訊息稱，美國政府已決定不再將“哈馬斯解除武裝”作為加沙重建的前提條件，內塔尼亞胡當天對此未予以直接否認，但明確強調在加沙沒有實現非軍事化的情況下，以方絕不接受重建加沙。他表示，以色列正在加沙內部打造一個新的所謂“環加沙地帶”，以方傾向於將這些由其控制的加沙內部區域作為“緩衝區”。（央視新聞）"
-    },
-    {
-      "id": "4971008",
-      "time": "2026-07-05 22:33:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長：我們向華盛頓確認了這樣一個必要性，即維護該地區各國領土的統一以及結束與我們盟友的戰爭必須成為諒解的一部分。"
-    },
-    {
-      "id": "4971007",
-      "time": "2026-07-05 22:32:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日聯科技：擬7328.85萬元認購境外公司10%股份 提示多項風險】日聯科技公告稱，公司全資子公司擬使用7328.85萬元認購QES Group Berhad定向增發的10%股份。本次交易尚不確定，需完成境內外相關審批、備案及登記，完成後對目標公司持股9.1%，不構成控制，對經營業績無重大影響。此外，目標公司業績等因素或影響投資收益；交易實施可能延期、變更或終止；公司股價近60日漲182.13%，市盈率顯著高於行業，提示投資風險。"
-    },
-    {
-      "id": "mkt:019f32b1-9384-7aab-8ca3-3717f2581bdf",
-      "time": "2026-07-05 22:32:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi media Hadas reports Iranian parliament speaker Ghalibaf said Iran believes an agreement with the US is possible despite difficulties."
     }
   ]
 }
