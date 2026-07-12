@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-12 07:59:01",
-  "count": 16288,
+  "updated": "2026-07-12 08:02:47",
+  "count": 16293,
   "items": [
+    {
+      "id": "4982425",
+      "time": "2026-07-12 08:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約原油暗盤與布倫特原油暗盤均漲超2%。"
+    },
+    {
+      "id": "4982424",
+      "time": "2026-07-12 08:00:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三星電子計劃於2029年啟用龍仁在建全新半導體產業園區六座晶圓廠中的首座。"
+    },
+    {
+      "id": "mkt:019f53a0-0433-7aab-8d40-0002ddbde2ff",
+      "time": "2026-07-12 08:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reports explosions heard on Kish Island."
+    },
+    {
+      "id": "mkt:019f539f-6cb3-7aab-8d3f-f9ffa10cb70f",
+      "time": "2026-07-12 07:59:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian state TV said three explosions were heard at the Port of Hormuz in Hormozgan province and two explosions were heard in Sirik."
+    },
+    {
+      "id": "mkt:019f539f-474b-7aab-8d3f-f655a0b2a646",
+      "time": "2026-07-12 07:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO says it has received a report of an incident 9 nautical miles off eastern Oman."
+    },
+    {
+      "id": "mkt:019f539f-32e0-7aab-8d3f-ec0a6241d773",
+      "time": "2026-07-12 07:59:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said a civilian crewmember is missing after a fire onboard and severe engine-room damage left the vessel unable to continue sailing."
+    },
     {
       "id": "4982423",
       "time": "2026-07-12 07:56:49",
@@ -148566,15 +148618,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普計劃在國家廣場舉辦集會，紀念美國獨立 250 週年，但強風暴天氣令該計劃受阻。"
-    },
-    {
-      "id": "4970745",
-      "time": "2026-07-05 08:01:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“30+非洲國家以北斗為主，部分棄用GPS”】據香港《南華早報》7月4日報道，美國國防部下屬智庫“非洲戰略研究中心”（ACSS）近日釋出研究報告稱，透過“一帶一路”倡議，中國在非洲建立起一套“深度整合”且“難以替代”的海洋網路體系。 報告稱，中資企業不僅運營、融資或持有非洲約三分之一港口的股份，如今還在這些基礎設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。設施所依賴的軟體、自動化和人工智慧工具中發揮重要作用。 而且，這種影響力遠不止於碼頭。中方同時融資並運營著連線這些港口及非洲大陸其他涉海專案的公路、鐵路和倉儲網路，使非洲貿易與中國自身的貿易體系緊密交織。 （觀察者網）"
     }
   ]
 }

@@ -1,7 +1,59 @@
 {
   "date": "2026-07-12",
-  "count": 154,
+  "count": 160,
   "items": [
+    {
+      "id": "4982425",
+      "time": "2026-07-12 08:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約原油暗盤與布倫特原油暗盤均漲超2%。"
+    },
+    {
+      "id": "4982424",
+      "time": "2026-07-12 08:00:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三星電子計劃於2029年啟用龍仁在建全新半導體產業園區六座晶圓廠中的首座。"
+    },
+    {
+      "id": "mkt:019f53a0-0433-7aab-8d40-0002ddbde2ff",
+      "time": "2026-07-12 08:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reports explosions heard on Kish Island."
+    },
+    {
+      "id": "mkt:019f539f-6cb3-7aab-8d3f-f9ffa10cb70f",
+      "time": "2026-07-12 07:59:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian state TV said three explosions were heard at the Port of Hormuz in Hormozgan province and two explosions were heard in Sirik."
+    },
+    {
+      "id": "mkt:019f539f-474b-7aab-8d3f-f655a0b2a646",
+      "time": "2026-07-12 07:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO says it has received a report of an incident 9 nautical miles off eastern Oman."
+    },
+    {
+      "id": "mkt:019f539f-32e0-7aab-8d3f-ec0a6241d773",
+      "time": "2026-07-12 07:59:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said a civilian crewmember is missing after a fire onboard and severe engine-room damage left the vessel unable to continue sailing."
+    },
     {
       "id": "4982423",
       "time": "2026-07-12 07:56:49",
