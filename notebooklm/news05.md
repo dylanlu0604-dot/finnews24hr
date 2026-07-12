@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-12 21:50:55_
-_本檔包含 3244 則快訊，約 628171 字_
+_更新時間：2026-07-12 23:10:15_
+_本檔包含 3240 則快訊，約 628718 字_
+
+---
+
+### 2026-07-07 12:14:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+【Omdia: China semiconductor market seen at $812.1bn in 2026; memory market revised to $449.6bn (+262.9%)】Omdia's AMFT Q2 2026 China report projects the Chinese semiconductor market will expand 92.9% YoY to $812.1bn in 2026, an upward revision of $265.6bn (48.6%) versus its prior AMFT Q4 2025 update, which forecast $546.5bn (31.26% growth). Omdia also raised its 2026 China memory market forecast to 262.9% growth, taking market size to $449.6bn.
+
+---
+
+### 2026-07-07 12:13:32  #其他
+
+【Omdia：中國半導體市場規模將在2026年超過8000億美金 儲存晶片市場總額暴漲262.9%】根據Omdia 《2026年第二季度，半導體應用領域市場預測工具（AMFT）- 中國地區》最新報告資料顯示，2026年中國半導體市場預計同比增長率將大幅上修至92.9%，達8120.8億美元，相較於《AMFT出貨量：中國——2025年四季度更新》版本 (2026年中國半導體市場預計增長31.26%，市場規模將達到5465億美元)整體上調了2656億美金，增幅達到48.6%。根據Omdia 2026年二季度最新資料顯示，2026年中國半導體儲存市場預計增長率大幅上修至262.9%，達4496億美元。
+
+---
+
+### 2026-07-07 12:12:56  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish
+
+【CMB International Securities: Tencent's Hunyuan Hy3 Enters Top Tier, Accelerates AI Product Rollout】CMB International Securities says Tencent (00700.HK) has formally released the Hunyuan Hy3 large model. Hy3’s 21B active parameters allow it to run at materially lower compute cost versus comparable flagship models; API input pricing has been cut to 1 yuan and internal WorkBuddy data show token use about 47–49% lower than GLM-5.2, directly reducing Tencent Cloud AI marginal costs and enabling scalable consumer deployments for Yuanbao, ima and WeRead. CMBI maintains an overweight rating and HK$632 target, saying the Hy3 release validates Tencent’s execution on post-training reliability improvements and will prompt the market to reassess the implied value of Tencent’s AI assets.
+
+---
+
+### 2026-07-07 12:12:41  #觀點
+
+摩根大通在倫敦熱浪期間放寬返崗規定。
+
+---
+
+### 2026-07-07 12:12:03  #MKT News
+
+India's Nifty IT index extended gains, trading up 1.4%.
+
+---
+
+### 2026-07-07 12:11:45  #其他
+
+【廣西南寧水文中心升級釋出洪水紅色預警】7月7日8時，南寧水文中心升級釋出洪水紅色預警。南寧水文中心預計，未來6～18小時，受颱風強降雨影響，清水河賓陽縣鄒圩鎮河段將出現超警戒水位（88.0米）4.5米左右的洪水，鬱江橫州市城區河段將出現超警戒水位（54.2米）1.8米左右的洪水，鬱江南寧城區河段將出現超設防水位（69.4米）1.5米左右的洪水。
+
+---
+
+### 2026-07-07 12:11:45  #MKT News #Macro & Rates #Market Regions #USDJPY #Impact bearish
+
+Japan 5-year government bond yield fell 1 bp to 1.930%.
+
+---
+
+### 2026-07-07 12:11:16  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields
+
+【Japan 30-year bond auction draws strongest demand since 2019】Japan's 30-year government bond auction drew its strongest demand since 2019, with a bid-cover ratio of 4.55, versus 2.94 at the prior auction and a 12-month average of 3.41. Auction results lifted JGBs: 10‑year JGB futures rose and 30‑year bond prices climbed, sending the 30‑year yield down about 5bps to 4.025%. The strength came despite market concerns about fiscal policy and inflation, as high yields attracted buyers. SMBC Nikko Securities senior rates strategist Miki Den said: "Yields are at historically high levels; this morning's further rise boosted demand. The ultra-long end's steepening may pause temporarily, or mark a turn toward curve flattening."
+
+---
+
+### 2026-07-07 12:10:39  #市場 #國際
+
+5年期日本國債收益率下跌1.0個基點，至1.930%。
+
+---
+
+### 2026-07-07 12:10:26  #公司
+
+【兆科眼科：老花眼創新藥YUVEZZI獲批准】兆科眼科公告，於2026年6月26日，公司老花眼創新藥YUVEZZI（卡巴膽鹼及酒石酸溴莫尼丁滴眼液（2.75%/0.1%））已獲海南省藥品監督管理局批准，於博鰲超級醫院作為臨床急需進口藥品使用。YUVEZZI為中國首款獲批准用於治療老花眼的創新藥。
+
+---
+
+### 2026-07-07 12:09:52  #國際
+
+印度6月份燃料消耗量較上月下滑3.7%。
+
+---
+
+### 2026-07-07 12:09:38  #市場
+
+【機構：騰訊Hy3模型料將是朝著正確方向邁出的一步】Bernstein分析師在一份研究報告中表示，騰訊最新推出的Hy3模型是朝著正確方向邁出的一步。他們表示，雖然Hy3並非處於最前沿，但它具備騰訊在其整個生態系統中構建智慧體化服務所需的能力。他們指出，最新模型的改進是對騰訊近期重組後的新AI團隊的肯定。Bernstein的分析師認為，騰訊模型在2026年底或2027年初的下一次迭代，代表了向前邁出下一步的合理基本情況。Bernstein預計，騰訊的智慧體化AI將逐步推出，而變現將透過商家訂閱新的智慧體化AI服務以獲取更多流量來實現。該股最新上漲2.7%，報464.20港元。
+
+---
+
+### 2026-07-07 12:09:15  #公司
+
+【百度旗下基金等入股無界智航】天眼查App顯示，近日，深圳無界智航科技有限公司發生工商變更，新增百度旗下三亞百川致新私募股權投資基金合夥企業（有限合夥）、深圳鼎暉泰科天使創業投資合夥企業（有限合夥）、杭州初者之心股權投資合夥企業（有限合夥）等為股東，穆世龍卸任法定代表人，由熊祺接任，同時，註冊資本由60萬人民幣增至約564.4萬人民幣。該公司成立於2025年6月，經營範圍包括人工智慧基礎軟體開發、智慧機器人的研發、人工智慧應用軟體開發等，現由穆世龍及上述新增股東共同持股。
+
+---
+
+### 2026-07-07 12:08:45  #其他
+
+【滙豐收縮高風險私人信貸業務】據英國《金融時報》週二援引知情人士訊息，多家知名企業破產引發市場對行業信貸稽核標準的質疑，各大銀行紛紛縮減相關風險敞口，滙豐銀行現已停止向高風險私人信貸客戶發放貸款。
+
+---
+
+### 2026-07-07 12:07:35  #其他
+
+據報道，滙豐銀行收縮高風險私人信貸放貸業務。
+
+---
+
+### 2026-07-07 12:07:19  #公司
+
+【川恆股份：HX005產品已批次正常供貨】川恆股份7月7日在互動平臺表示，HX005產品為公司與合作方共同開發的三代半及以上磷酸鐵產品，已批次正常供貨；新一代磷酸鐵產品為更高壓實磷酸鐵鋰儲備的小顆粒產品，下游客戶已進行小試和噸級測試，現處於產線升級和改造階段。
+
+---
+
+### 2026-07-07 12:06:50  #公司
+
+【光弘科技：已涉及各類伺服器算力板卡、算力節點及散熱元件的製造】光弘科技7月7日在互動平臺表示，公司已涉及各類伺服器算力板卡、算力節點及散熱元件的製造。目前相關業務在公司整體業務中的佔比較低，但預計後續將以較快速度增長。
+
+---
+
+### 2026-07-07 12:06:29  #其他
+
+【山東省工業和資訊化廳副廳長龐松濤接受審查調查】據山東省紀委監委訊息：山東省工業和資訊化廳黨組成員、副廳長龐松濤涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-07-07 12:06:14  #公司
+
+【阿布扎比國家石油公司分銷部門擬10億美元收購殼牌南非下游業務100%股權】7月7日，阿布扎比國家石油公司旗下ADNOC Distribution宣佈，擬以約10億美元企業價值收購殼牌南非下游業務100%股權，交易完成後將向當地賦權合作伙伴及員工持股計劃出售28%股權。公司預計，該交易將在完成後的第一年推動EBITDA增長約13%、每股收益增長約6%，交易預計於2027年完成。
+
+---
+
+### 2026-07-07 12:05:11  #公司 #市場
+
+【騰訊邁向近一年來首次六連漲 擬套現快手疊加場內資金輪動助力反彈】騰訊在香港市場勢將創下去年7月以來首次六連漲的紀錄。公司套現快手及在AI領域的積極進展，疊加股市的風格切換均給予其上漲動力。騰訊週二早盤一度漲逾6%，帶動恒生科技指數逆市上漲，其股價自6月末的低點已累計反彈約14%。騰訊公佈擬減持快手，套現最高約16億美元，此前釋出了新模型混元Hy3，且近期市場對其微信內建的AI智慧體WorkBuddy的樂觀解讀也一度使其股價大漲。
+
+---
+
+### 2026-07-07 12:04:42  #市場 #國際
+
+印度BSE Sensex指數回吐日內漲幅，最新下跌0.02%。
+
+---
+
+### 2026-07-07 12:04:22  #MKT News #Important #Market Regions #Greater China #Star Stocks #Meituan #Tencent #01024.HK #Impact bearish #Hang Seng Index #03690.HK #Impact bullish
+
+【Hong Kong midday: Tech index reverses to close down 0.28%; Kuaishou down 9.5%】Hong Kong stocks opened lower and briefly rallied before reversing. The Hang Seng Index fell 0.42% to 23,517.7. The Hang Seng Tech Index closed down 0.28% at 4,528.55 after an intraday rise of over 2%. Internet and e-sports names outperformed while memory chips, nuclear power and nonferrous metals lagged. Movers: Nuobikan (02635.HK) +8%, Zhipu (02513.HK) +5%, Meituan (03690.HK) +4.3%, Tencent Holdings (00700.HK) +2.8%. Decliners: Lanqi Technology (06809.HK) -10.5%, Yangtze Optical Fibre & Cable (06869.HK) ~-10%, Kuaishou Technology (01024.HK) -9.5%, Kingboard Laminates (01888.HK) ~-9%, GigaDevice (03986.HK) -8.4%, China Life Insurance (02628.HK) -4.6%, Mengniu Dairy (02319.HK) and Nongfu Spring (09633.HK) down over 4%.
+
+---
+
+### 2026-07-07 12:03:52  #其他
+
+【中國紅十字會總會救災物資已抵達廣西受災地區 開始分發】從中國紅十字會總會瞭解到，針對第10號颱風“美莎克”對廣西造成的嚴重影響，中國紅十字會總會向廣西受災地區緊急調撥賑濟家庭包5000個，支援當地受災群眾轉移安置和生活保障工作。目前，物資已抵達受災地區開始分發。
+
+---
+
+### 2026-07-07 12:03:23  #市場 #國際
+
+20年期日本國債收益率下跌4.0個基點，至3.765%；30年期日本國債收益率下跌7.0個基點，至4.005%；10年期日本國債收益率下跌2.5個基點，至2.805%。
+
+---
+
+### 2026-07-07 12:03:23  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield fell 2.5 bps to 2.805%.
+
+---
+
+### 2026-07-07 12:03:01  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Inches Higher After Forex Reserve Data — The Indonesian rupiah hovered near IDR 17,980 per U.S. dollar on Tuesday, slightly firmer after briefly weakening to around IDR 18,050 in the prior session. The modest upturn came as the U.S. dollar remained under pressure ahead of the release of the Federal Reserve's June meeting minutes. Domestically, Indonesia's forex reserves edged up in June after falling to a near two-year low in May, easing concerns over the country's external position following a recent warning from Fitch Ratings. Meanwhile, the government is pursuing further cuts to allocations for President Prabowo's free meal program to improve fiscal efficiency, with the House Budget Committee reportedly proposing to trim the program's 2027 budget. Easing global oil prices and the upgrade of the biodiesel program also continue to help curb overseas headwinds. However, overall sentiment stayed guarded after weak May trade data. Investors now await June consumer confidence and May retail sales for signals on domestic demand.
+
+---
+
+### 2026-07-07 12:01:25  #公司 #市場
+
+【香港交易所：場外結算公司擬於2026年底前提交成為CIPS直接參與者的申請】香港交易所公告，已與人民幣跨境支付系統（CIPS）的營運機構—跨境銀行間支付清算有限責任公司（跨境清算公司）簽署合作備忘錄，共同探討深化跨境人民幣業務合作，支援香港固定收益及貨幣生態圈的長遠發展。香港交易所旗下附屬公司香港場外結算有限公司（場外結算公司）擬於2026年底前提交成為CIPS直接參與者的申請，跨境清算公司將為該申請提供必要的輔導及培訓。成為CIPS直接參與者後，場外結算公司將可透過CIPS直接進行人民幣資金結算，為其參與者提供更高效的跨境人民幣清算及結算服務。
+
+---
+
+### 2026-07-07 12:01:14  #市場
+
+【港股午評：恒生指數跌0.42%，恒生科技指數跌0.28%】港股午間收盤，恒生指數跌0.42%，恒生科技指數跌0.28%。恒指港股通ETF銀華（159318）漲0.16%，港股通科技ETF鵬華（159751）漲0.23%。板塊方面，通訊裝置、地面運輸板塊漲幅靠前；能源裝置與服務、金屬與採礦板塊跌幅靠前。個股方面，果下科技漲21.98%，深演智慧漲19.71%，海光芯正漲15.97%，來福諧波漲13.96%，嘉耀控股漲9.56%；佳鑫國際資源跌10.57%，瀾起科技跌10.49%，貴州銀行跌10.0%，長飛光纖光纜跌9.85%，快手-W跌9.48%。
+
+---
+
+### 2026-07-07 12:00:51  #MKT News #Market Regions #Japan & APAC
+
+Japan 20-year government bond yield fell 4 bps to 3.765%.
+
+---
+
+### 2026-07-07 11:59:55  #MKT News #Important #Market Themes #AI Revolution #CSI300 #Impact bullish #CNH #Hang Seng Index
+
+China's National Development and Reform Commission (NDRC) outlined five priority workstreams for the AI industry under the 15th Five-Year Plan, emphasizing intensified R&D on core technologies—models, computing power and data—expanded basic research and the production of more original innovations to contribute Chinese expertise to global AI development.
+
+---
+
+### 2026-07-07 11:59:47  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+Hong Kong Monetary Authority chief Eddie Yue said the HKMA will expand renminbi funding arrangements on July 10, adding 9-month, 2-year and 3-year tenors. He said the HKMA is studying a 7-day offshore renminbi liquidity tender mechanism and the possibility of issuing offshore renminbi short-term debt instruments.
+
+---
+
+### 2026-07-07 11:59:43  #其他
+
+【國家發展改革委披露人工智慧產業“十五五”五大工作思路】7月7日，在上海市政府新聞釋出會上，國家發展改革委創新和高技術發展司副司長王若蒙披露了我國人工智慧產業“十五五”期間的工作思路。一是加快自主創新，二是強化應用牽引，三是深化生態協同，四是堅持開放共贏，五是確保安全可控。
 
 ---
 
@@ -19376,221 +19568,5 @@ Israeli Prime Minister Netanyahu, on his relationship with President Trump: I do
 ### 2026-07-05 23:10:32  #MKT News #Market Regions #Europe & UK
 
 Poland's defence minister said after consulting Prime Minister Tusk he has ordered the declassification of all information on Poland's military assistance to Ukraine from 2022 to 2026.
-
----
-
-### 2026-07-05 23:09:25  #MKT News
-
-【Approx M4.7 earthquake near Mianzhu, Sichuan】CENC automatic determination: at 23:03 today a magnitude-4.7 earthquake occurred near Mianzhu, Deyang, Sichuan (31.59°N, 104.00°E). Final parameters to be confirmed in the official rapid bulletin.
-
----
-
-### 2026-07-05 23:08:03  #國際
-
-以色列總理內塔尼亞胡：我和特朗普交換看法時都直言不諱，他是什麼風格，我便是什麼風格。
-
----
-
-### 2026-07-05 23:07:37  #MKT News
-
-【Israeli cabinet unanimously votes to defy Supreme Court ruling】Prime Minister NETANYAHU’s cabinet voted unanimously to refuse recognition of any decisions by the Second Authority for Television and Radio, the regulator for commercial broadcasting, directly contravening a Supreme Court order that the authority continue operating despite falling below its statutory quorum after a wave of resignations. The court said the resignations may have been orchestrated by the communications minister’s office. This is the first time the Israeli government has formally announced it will not comply with a Supreme Court ruling.
-
----
-
-### 2026-07-05 23:06:54  #其他
-
-中國地震臺網自動測定：07月05日23時03分在四川德陽市綿竹市附近（北緯31.59度，東經104.00度）發生4.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-05 23:06:11  #焦點 #國際
-
-以色列總理內塔尼亞胡：只要我還是總理，伊朗就不會擁有核武器，無論是否達成協議。
-
----
-
-### 2026-07-05 23:04:14  #國際
-
-【以色列內閣全票拒服最高法院裁決】內塔尼亞胡內閣全票表決拒絕服從最高法院裁決，此舉在以色列史上尚屬首次。內塔尼亞胡政府經全體投票一致決定，拒不承認以色列第二廣播電視管理局作出的任何決議——該機構是以色列商業廣播電視臺的監管主管部門。此前最高法院已下達裁定，要求該監管委員會繼續履職。此前多名委員集中辭職，致使委員會參會法定人數不足，法院認定這一波辭職風波大機率是通訊部長辦公室暗中策劃，因此作出上述維持機構運轉的判決。
-
----
-
-### 2026-07-05 23:02:19  #MKT News
-
-【5.8-magnitude quake 336 km ESE of Suva, Fiji — EMSC】The European-Mediterranean Seismological Centre reported a 5.8-magnitude earthquake in the sea 336 km east-southeast of Suva, Fiji at 02:22 local time on July 6. Hypocentre depth 685.7 km; epicentre at 19.9807°S, 179.03°W.
-
----
-
-### 2026-07-05 23:01:27  #國際
-
-波蘭國防部長宣佈，經與總理圖斯克磋商後，已下令解密2022至2026年間波蘭向烏克蘭提供的全部軍事援助物資相關檔案。
-
----
-
-### 2026-07-05 23:01:07  #國際
-
-【斐濟首都蘇瓦附近海域發生5.8級地震】據歐洲與地中海地震中心測定，當地時間7月6日2時22分，斐濟首都蘇瓦東南偏東336公里處海域發生5.8級地震，震源深度685.7公里，震中位於南緯19.9807度，西經179.03度。
-
----
-
-### 2026-07-05 22:57:52  #國際
-
-市場訊息：以色列對黎巴嫩南部的納布提亞發起空襲。
-
----
-
-### 2026-07-05 22:57:24  #MKT News #Brent #Impact bullish #XAUUSD
-
-Al Arabiya reports Israel carried out an airstrike on Nabatieh in southern Lebanon.
-
----
-
-### 2026-07-05 22:47:31  #MKT News #Commodities #Energy #Brent #WTI
-
-Kuwait's oil minister stressed the importance of coordination and consultation among oil-producing countries to address shifts in the energy market, Kuwait News Agency reported.
-
----
-
-### 2026-07-05 22:47:17  #其他
-
-科威特方面訊息：科威特石油部長強調石油生產國之間開展協調磋商，以應對能源市場變化至關重要。
-
----
-
-### 2026-07-05 22:42:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Guotai Haitong: Oil price drop, summer travel starts; family travel demand remains inelastic】Guotai Haitong said international oil prices have fallen and domestic fuel prices are set to be reduced month-by-month. The broker notes school summer breaks are slightly later in 2026, presales have accelerated since late June, hotel and rail bookings are up YoY while air ticket presales lag 2025 amid higher fares, and parent-child travel has remained strong over the past three years and is viewed as inelastic. It expects student-driven passenger traffic to rise from early July, pushing air fares back into positive territory; higher flight completion rates versus Q2, together with peak-season supply-demand support and reduced destructive price competition, should materially improve airline operating performance.
-
----
-
-### 2026-07-05 22:37:49  #公司
-
-【杭可儀器曹佶：MLCC等國產元器件向高可靠性場景放量 驅動裝置需求快速增長】杭可儀器總經理曹佶近期在接受財聯社、《科創板日報》記者專訪時表示，公司自1984年起專注於電子元器件可靠性測試，目前業務主要聚焦三條產品線：一是功率半導體，覆蓋矽基、碳化矽、氮化鎵等；二是MLCC（多層片式陶瓷電容器），可廣泛應用於車載、資料中心、變壓器等領域；三是SoC的可靠性測試。“隨著MLCC等國產元器件向車規級、伺服器等高可靠性場景放量，驅動裝置需求快速增長。”
-
----
-
-### 2026-07-05 22:37:30  #MKT News
-
-【Netanyahu says Gaza reconstruction barred until Hamas fully disarmed and Gaza demilitarized】On the 5th local time, Israeli Prime Minister Benjamin Netanyahu said at a weekly cabinet meeting he will not permit Gaza reconstruction to begin unless the Palestinian Islamic Resistance Movement (Hamas) is fully disarmed and the Gaza Strip is demilitarized.
-
----
-
-### 2026-07-05 22:36:50  #國際
-
-【內塔尼亞胡稱解除哈馬斯武裝前絕不允許重建加沙】當地時間5日，以色列總理內塔尼亞胡在每週內閣會議上表示，除非徹底解除巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武裝並實現加沙地帶的去軍事化，否則絕不會允許啟動加沙重建工作。此前有訊息稱，美國政府已決定不再將“哈馬斯解除武裝”作為加沙重建的前提條件，內塔尼亞胡當天對此未予以直接否認，但明確強調在加沙沒有實現非軍事化的情況下，以方絕不接受重建加沙。他表示，以色列正在加沙內部打造一個新的所謂“環加沙地帶”，以方傾向於將這些由其控制的加沙內部區域作為“緩衝區”。（央視新聞）
-
----
-
-### 2026-07-05 22:33:35  #國際
-
-伊朗議會議長：我們向華盛頓確認了這樣一個必要性，即維護該地區各國領土的統一以及結束與我們盟友的戰爭必須成為諒解的一部分。
-
----
-
-### 2026-07-05 22:32:42  #公司
-
-【日聯科技：擬7328.85萬元認購境外公司10%股份 提示多項風險】日聯科技公告稱，公司全資子公司擬使用7328.85萬元認購QES Group Berhad定向增發的10%股份。本次交易尚不確定，需完成境內外相關審批、備案及登記，完成後對目標公司持股9.1%，不構成控制，對經營業績無重大影響。此外，目標公司業績等因素或影響投資收益；交易實施可能延期、變更或終止；公司股價近60日漲182.13%，市盈率顯著高於行業，提示投資風險。
-
----
-
-### 2026-07-05 22:32:06  #MKT News
-
-Saudi media Hadas reports Iranian parliament speaker Ghalibaf said Iran believes an agreement with the US is possible despite difficulties.
-
----
-
-### 2026-07-05 22:31:19  #國際
-
-伊朗議會議長：與美國實施協議是困難但可能的。
-
----
-
-### 2026-07-05 22:24:49  #其他
-
-【國泰海通：看好漲價確定性較強的CCL/高階MLCC/磷化銦等】國泰海通研報認為，主題投資再次興起。1、機器人：物理AI模型加速迭代，場景落地與成本下降推動規模化量產，看好新技術應用與核心整機廠商及供應鏈。2、商業航天：長征十號乙有望7月初發射，千帆星座組網加快，新技術突破與發射場站補短板，看好航天基礎設施建設與新技術。3、AI新材料：供需矛盾推動上游瓶頸資產重估，看好漲價確定性較強的CCL/高階MLCC/磷化銦等。4、新疆振興：構建具有新疆特色優勢的現代化產業體系，看好清潔能源開發、口岸物流等。
-
----
-
-### 2026-07-05 22:24:33  #MKT News #Important
-
-【China launches 15 Qianfan polar-orbit satellites】At 21:43 on the 5th a Long March 8A rocket launched from the Hainan commercial space launch site and successfully placed 15 Qianfan polar-orbit satellites into their planned orbit; the mission was declared a complete success.
-
----
-
-### 2026-07-05 22:22:51  #其他 #焦點
-
-【我國成功發射千帆極軌15組衛星】5日21時43分，在海南商業航天發射場，長征八號甲運載火箭將千帆極軌15組衛星準確送入預定軌道，發射任務獲得圓滿成功。（新華社）
-
----
-
-### 2026-07-05 22:18:11  #公司
-
-卡達能源公司：商業與工業部將主導投資者接洽、機會發掘及生態系統協調工作。卡達能源公司將就資源配置與利用提供技術及商業評估專業服務。
-
----
-
-### 2026-07-05 22:17:46  #MKT News #Commodities #Energy
-
-QatarEnergy will provide technical and commercial assessment expertise on resource allocation and utilization.
-
----
-
-### 2026-07-05 22:17:40  #MKT News #Commodities #Energy
-
-QatarEnergy said Qatar’s Ministry of Commerce and Industry will lead investor engagement, opportunity identification and ecosystem coordination.
-
----
-
-### 2026-07-05 22:15:41  #MKT News #Commodities #Energy
-
-QatarEnergy said it has reached an agreement setting terms for valuation and allocation of hydrocarbons, natural gas, power and related resources to support downstream industrial investment.
-
----
-
-### 2026-07-05 22:15:39  #MKT News #Commodities #Energy
-
-QatarEnergy will develop a new mid-scale industrial zone in Mesaieed Industrial City and will work with Qatar's Ministry of Industry to assess and allocate hydrocarbon-derived feedstock to support eligible industrial investments.
-
----
-
-### 2026-07-05 22:14:00  #公司
-
-卡達能源公司：擬在梅賽義德工業城開發一座新的中型工業區。
-
----
-
-### 2026-07-05 22:09:12  #公司 #市場 #國際
-
-【近三日美方護航透過霍爾木茲海峽的船舶僅70艘】由美國主導的聯合海上資訊中心5日公佈的資料顯示，7月2日至4日的72小時內，由美方護航透過霍爾木茲海峽的商船合計70艘，通航規模遠低於衝突前日均138艘的平均水平。這份資料由英國海上貿易行動辦公室當日對外發布。公告顯示，美方協調護航船舶單日通行量持續走低：7月2日33艘、7月3日29艘、7月4日僅18艘。霍爾木茲海峽現有兩條通行航道，分別為靠近阿曼一側的南部航道和伊朗管控的北部航道。由美方護航的南部航道通航量未出現持續上漲，而北部航道實際通航總量難以精準統計。公告將霍爾木茲海峽全域威脅等級評定為“較高”。伊朗伊斯蘭革命衛隊持續對過境商船開展甚高頻無線電喊話、無人機抵近偵察與跟蹤監視，對海峽航道實施常態化管控；持續開啟船舶自動識別系統訊號的船舶，可能收到要求改道至伊朗管控航道的喊話警示。公告還說，海峽水域仍存在水雷風險，相關掃雷勘測作業正在全域開展；全域對全球導航衛星系統的干擾常態化，將持續對船舶航行安全構成隱患。（新華社）
-
----
-
-### 2026-07-05 22:04:26  #國際
-
-美國：一架直升機墜毀後，一名水兵於7月1日失蹤。
-
----
-
-### 2026-07-05 22:02:26  #國際
-
-美國：暫停對阿拉伯海失蹤水手的搜尋。
-
----
-
-### 2026-07-05 21:59:12  #市場
-
-市場訊息：突尼西亞6月消費者價格指數同比上漲5.3%。
-
----
-
-### 2026-07-05 21:55:18  #MKT News #Market Themes #AI Revolution #META.O #Impact mixed #Nasdaq100 #Impact bullish
-
-【China Merchants Securities: After short-term shock, focus on tech recovery and mid-year earnings】China Merchants Securities says the recent sharp market adjustment following Meta's compute sale is a tactical move to lift ROIC in a high‑CapEx phase, not evidence of broad compute overcapacity. The firm views the industry as shifting from pure CapEx expansion into a ROIC‑verification stage; the pullback was amplified by prior outsized gains in generalized compute names and leveraged flows, creating a short‑term liquidity‑driven negative feedback loop. After the liquidity shock, the bank judges the AI structural trend intact: storage chip supply‑demand gaps remain, MLCC price increases persist, and indium phosphide shortages continue, supporting scope for a tech recovery. It also recommends selectively targeting mispricings between mid‑year earnings and share prices.
-
----
-
-### 2026-07-05 21:54:43  #其他
-
-【招商證券：短期衝擊後關注科技修復與中報業績雙主線】招商證券釋出研報稱，短期衝擊後關注科技修復與中報業績雙主線。Meta出售算力導致的市場大幅調整，但這並非算力過剩的訊號，而是高資本開支階段提升資產回報率的必然選擇。行業當前從單純的Capex擴張進入ROIC驗證階段，而非進入算力過剩階段。而市場目前的調整，主要由於短期泛算力板塊漲幅較大，疊加槓桿資金放大波動，悲觀敘事容易引起市場短期的資金負反饋，此前多次的AI泡沫論與蘋果漲價，都是相同的劇情。但在流動性衝擊後，該行認為AI的產業趨勢仍然沒有證偽，儲存晶片的供需缺口沒有變、MLCC的漲價沒有變、磷化銦的缺口沒有變，科技方向有望修復。除了科技方向之外，也可適度關注中報業績與股價錯配的方向。
 
 ---

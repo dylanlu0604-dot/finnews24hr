@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-12 21:50:55_
-_本檔包含 3168 則快訊，約 628092 字_
+_更新時間：2026-07-12 23:10:15_
+_本檔包含 3183 則快訊，約 628712 字_
+
+---
+
+### 2026-07-10 16:12:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: global oil demand fell by 4.8 mln bpd in Q2.
+
+---
+
+### 2026-07-10 16:12:07  #公司
+
+【宏橋控股：預計2026年上半年淨利潤為150億元～160億元，同比上升69.72%～81.04%】宏橋控股公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利150億元～160億元，上年同期為盈利88.38億元，同比上升69.72%～81.04%。扣除非經常性損益後的淨利潤為盈利149億元～159億元，上年同期為虧損1.25億元。基本每股收益為1.15元/股～1.23元/股，上年同期為0.6782元/股。公司業績增長的主要原因為：2026年上半年，電解鋁市場銷售價格同比大幅上漲，相關業務毛利實現顯著提升；同時，公司本期借款規模較上年同期明顯縮減，財務利息支出大幅減少，進一步增厚利潤。
+
+---
+
+### 2026-07-10 16:11:53  #公司 #市場
+
+【宏橋控股：預計2026年上半年淨利潤為150億元～160億元，同比上升69.72%～81.04%】宏橋控股公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利150億元～160億元，上年同期為盈利88.38億元，同比上升69.72%～81.04%。扣除非經常性損益後的淨利潤為盈利149億元～159億元，上年同期為虧損1.25億元。基本每股收益為1.15元/股～1.23元/股，上年同期為0.6782元/股。公司業績增長的主要原因為：2026年上半年，電解鋁市場銷售價格同比大幅上漲，相關業務毛利實現顯著提升；同時，公司本期借款規模較上年同期明顯縮減，財務利息支出大幅減少，進一步增厚利潤。
+
+---
+
+### 2026-07-10 16:11:34  #公司
+
+【東安動力：2025年度擬派發現金紅利513.12萬元】東安動力公告稱，公司2025年度利潤分配方案經2026年6月26日股東會審議透過。本次以總股本466,476,161股為基數，每股派現金紅利0.011元（含稅），共計派發現金紅利5,131,237.77元。股權登記日為2026年7月16日，除權（息）日和現金紅利發放日為7月17日。
+
+---
+
+### 2026-07-10 16:11:26  #其他
+
+【2026年APEC數字和人工智慧部長會議將在成都舉行】記者從工業和資訊化部瞭解到，以“數字和人工智慧技術賦能亞太共同體”為主題的亞太經合組織（APEC）數字和人工智慧部長會議將於7月23日在四川成都舉辦。（央視新聞）
+
+---
+
+### 2026-07-10 16:11:21  #MKT News #Market Regions #Greater China #HSI #Impact bullish #HSCEI #Hang Seng Tech Index #Impact bearish
+
+July 10 (Fri) close: Hang Seng Index (HSI) +144.94 pts (+0.60%) to 24,175.12; Hang Seng TECH Index -9.90 pts (-0.21%) to 4,721.66; Hang Seng China Enterprises Index (HSCEI) +41.90 pts (+0.52%) to 8,039.19; Hang Seng Red Chip Index +26.93 pts (+0.70%) to 3,851.04.
+
+---
+
+### 2026-07-10 16:11:14  #公司
+
+【工信部：Meta、谷歌、微軟、松下等企業報名參會參展APEC數字和人工智慧部長會議】7月10日，工業和資訊化部舉行亞太經合組織（APEC）2026年數字和人工智慧部長會議及數字周相關活動新聞通氣會。工業和資訊化部副部長熊繼軍在通氣會上介紹了本次部長會議的亮點。一是多形式搭建交流平臺，各界積極響應、廣泛參與。本次會議在政府閉門討論的基礎上，同步配套了數智賦能高階別對話、專案研討會等一系列活動，設立數智賦能專題展示區，以“議題發言+典型案例+企業展示”三位一體，搭建亞太各經濟體政產學研用深度交流的平臺和務實合作的載體。發出邀請以來，得到積極響應，吸引了Meta、谷歌、微軟、松下、騰訊、中興、百度、自變數機器人等30餘家國內外知名企業報名參會參展。
+
+---
+
+### 2026-07-10 16:10:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Drops by 3.72% — Top commodity losers are Oat (-3.72%), Palm Oil (-1.68%) and Wheat (-1.12%). Gains are led by Rice (2.25%).
+
+---
+
+### 2026-07-10 16:10:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【IEA cuts Russia oil output forecasts as Ukrainian strikes persist】The IEA said sustained Ukrainian attacks on refineries, storage and transport infrastructure have weakened Russia's output outlook, prompting cuts to Russia supply forecasts of 85,000 b/d for this year and 150,000 b/d for next year; the agency now sees an average of 8.8 mln b/d over the forecast period. It projects Russian oil output of 8.9 mln b/d this year and 8.8 mln b/d in 2027, down from 9.2 mln b/d in 2025. The IEA noted June crude output rose 120,000 b/d from May to 8.86 mln b/d, roughly 0.9 mln b/d below the OPEC+ quota.
+
+---
+
+### 2026-07-10 16:10:06  #公司 #觀點
+
+【軟銀選定前高盛交易員掌舵願景基金財務和技術事務】據知情人士稱，軟銀集團已選定前高盛交易員Mark Agne負責願景基金的財務和技術事務。在此之前，軟銀已進行一系列人員調整，隨著創始人孫正義對人工智慧服務底層技術的探索，其業務重心也隨之轉移。今年4月，軟銀任命Arm Holdings Plc執行長Rene Haas來領導其國際業務，孫正義加大力度推動集團進軍半導體領域。據知情人士透露，在願景基金首席財務官Navneet Govil近期離職後，Agne接任職責擴充後的職位。知情人士要求匿名。其中一位知情人士表示，他還將負責內部審計和企業風險管理，並繼續領導資本戰略。知情人士還表示，Agne已接手Govil的職責，公司已將此事告知員工和主要利益相關者。
+
+---
+
+### 2026-07-10 16:09:41  #其他
+
+Kraken：目前正在調查一起影響Kraken Embed使用者的故障。
+
+---
+
+### 2026-07-10 16:09:26  #MKT News #Important #Hang Seng Index #Impact bullish #03986.HK #Impact bearish #09903.HK
+
+Hong Kong shares closed with the Hang Seng up 0.6% and the Hang Seng Tech down 0.21%. Chip stocks were weaker: GigaDevice Semiconductor (03986.HK) down about 21%, Tianshu AI (09903.HK) down over 18%, Montage Technology (06809.HK) down about 9%.
+
+---
+
+### 2026-07-10 16:09:17  #MKT News
+
+A Polish central bank official said that, if any, there would be at most one rate cut this year.
+
+---
+
+### 2026-07-10 16:09:02  #市場 #焦點
+
+【港股收盤：恒生指數漲0.560%，恒生科技指數跌0.308%】長和漲7.373%，零跑汽車漲6.961%，中國生物製藥漲4.200%，藥明康德漲4.094%，華虹宏力跌8.771%，MINIMAX-W跌9.886%，智譜跌19.193%。
+
+---
+
+### 2026-07-10 16:09:02  #公司
+
+【信通電子：2025年度權益分派將實施 每10股送4.8股派5元】信通電子公告稱，2025年年度權益分派方案已獲股東會透過，將以現有總股本1.58億股為基數，向全體股東每10股送紅股4.8股，派5元現金（含稅）。調整後共計派發現金紅利7897.5萬元（含稅），送紅股7581.6萬股（含稅）。股權登記日為2026年7月16日，除權除息日為7月17日。分紅後總股本將增至2.34億股。
+
+---
+
+### 2026-07-10 16:08:50  #公司
+
+【華新建材：預計2026年上半年淨利潤同比增長50%至60%】華新建材公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為人民幣16.5億元至17.6億元，與上年同期相比，將增加人民幣5.5億元至6.6億元，同比增加50%至60%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為人民幣16.2億元至17.3億元，與上年同期相比，將增加人民幣5.5億元至6.6億元，同比增加51.4%至61.7%。報告期內，國內一體化業務在市場競爭中保持穩定，所有海外業務均呈現穩定增長及實現高效運營，公司業績穩健提升。
+
+---
+
+### 2026-07-10 16:08:25  #公司
+
+【普瑞眼科：聘任高文為公司總經理】普瑞眼科公告稱，公司於2026年7月10日召開第四屆董事會第五次會議，審議透過聘任高文為公司總經理的議案，任期至第四屆董事會任期屆滿。高文曾任上海恆川投資管理有限公司合規風控總監等職，歷任公司審計風控中心總監等職，就任總經理後不再兼任副總經理。截至公告披露日，高文未持股，無關聯關係，任職資格符合規定。
+
+---
+
+### 2026-07-10 16:08:21  #公司
+
+【匯綠生態：重大資產重組正推進 尚需多項審批】匯綠生態公告稱，公司擬發行股份及支付現金購買彭開盛等合計持有的武漢鈞恆科技有限公司49%股權，並募集配套資金，該交易構成關聯交易和重大資產重組。公司股票於2025年7月22日起停牌，7月28日起復牌。截至公告披露日，公司及相關各方正積極推進交易，除已披露風險外，未發現導致交易終止或方案變更事項。本次交易尚需深交所稽核透過並經中國證監會註冊，存在不確定性。
+
+---
+
+### 2026-07-10 16:08:18  #公司
+
+【天山鋁業：完成29999.96萬元股份回購 佔總股本0.57%】天山鋁業公告稱，截至公告日，公司本次股份回購已實施完畢。公司以集中競價方式累計回購2636.32萬股，佔總股本0.57%，最高成交價12.1元/股，最低成交價10.75元/股，使用資金29999.96萬元。本次回購符合既定方案，不會對公司財務等方面產生重大影響。回購股份將用於員工持股或股權激勵計劃，若36個月內未使用，未用部分將登出。
+
+---
+
+### 2026-07-10 16:08:08  #公司
+
+【一家支付機構被罰沒超900萬元】近日，根據人民銀行山西省分行公示資訊，山西易聯支付資料處理有限公司因未履行風險管理措施，未落實有關合規管理制度、內部控制制度、業務管理制度、風險管理制度、突發事件應急預案或者使用者權益保障機制，未按照規定報送、儲存相關資訊、資料或者公示相關事項、履行報告要求等原因被警告、通報批評，沒收違法所得3744975.07元，並處罰款572萬元。
+
+---
+
+### 2026-07-10 16:07:35  #央行 #國際
+
+波蘭央行行長維諾羅夫斯基：即便今年會降息，我認為降息次數也不會超過一次。
+
+---
+
+### 2026-07-10 16:07:29  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Escalating hostilities between the U.S. and Iran cloud the outlook and could threaten the IEA’s forecast of a global oil supply surplus in 2027.
+
+---
+
+### 2026-07-10 16:07:18  #國際
+
+世界動物衛生組織（WOAH）：菲律賓報告在家禽散養戶的禽群中爆發H5N1禽流感。
+
+---
+
+### 2026-07-10 16:07:14  #市場 #觀點
+
+【大摩：資金重新配置中資股 預計8月港股將迎來流動性改善 建議逢低吸納】摩根士丹利釋出報告稱，融資空頭回補和南向資金流入幫助港股重拾動能；預期8月市場環境將進一步改善，帶動更好的復甦，當前的極端低配倉位意味著現正是逐步加倉的時機。大摩指出，全球投資者對中國股票的興趣正在上升，故預期在未來幾個月內，資金將逐漸重新配置到中資股。考慮到倉位為極度低配，建議目前可逐步吸納。
+
+---
+
+### 2026-07-10 16:06:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report forecasts non‑OPEC oil production will rise by 2.2 mln barrels per day in 2027.
+
+---
+
+### 2026-07-10 16:06:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【IEA warns US-Iran escalation could upend 2027 oil oversupply forecast】The IEA warned on Friday that a recent escalation in US‑Iran hostilities could overturn its projection that oil markets will move into a substantial supply surplus in 2027. After the Strait of Hormuz reopened in June following a US‑Iran agreement, global supply rose by 4.10 mln b/d but remains 9.40 mln b/d below pre‑conflict levels; at the peak of the crisis the strait’s effective closure cut flows by as much as 14.00 mln b/d. The agency forecasts a 7.50 mln b/d supply increase next year but says that outlook depends on improved transit through Hormuz. The July 7‑8 escalation has clouded that view and could negate the expected shift to surplus.
+
+---
+
+### 2026-07-10 16:06:38  #央行 #國際
+
+波蘭央行行長沃諾夫斯基：我認為，目前就暗示9月可能降息還為時過早。
+
+---
+
+### 2026-07-10 16:06:34  #其他
+
+【IEA警告：美伊衝突升級或威脅2027年油市供應過剩預期】國際能源署（IEA）週五表示，美伊敵對行動近期升級可能顛覆該機構對明年石油市場將出現顯著供應過剩的預測。6月霍爾木茲海峽重新開放後全球供應激增，但仍低於戰前水平。上月，美伊和平協議促成霍爾木茲海峽開放，全球石油市場獲得些許喘息。該海峽的實質關閉在歷史上最大石油供應危機高峰期間曾使每日原油流量減少高達1400萬桶。IEA表示，6月全球石油供應增加410萬桶/日，但仍較戰前水平低940萬桶/日。該機構預測明年供應將增加750萬桶/日，但這取決於霍爾木茲海峽通行的改善。“然而，7月7日至8日敵對行動的升級使前景蒙上陰影，可能顛覆明年市場將轉為供應過剩的預測，”該機構表示。
+
+---
+
+### 2026-07-10 16:06:28  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: Global observed oil inventories rose in June, the first increase in four months.
+
+---
+
+### 2026-07-10 16:06:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Advances for the 2nd Day — The DAX 40 edged up 0.3% toward 25,200 on Friday, marking the second session of gains, mirroring cautious movements across European markets. Expectations that negotiations between the US and Iran would continue despite the recent exchange of fire continued to support investor sentiment. According to some sources, the White House is preparing for a "prolonged but controlled escalation" with Tehran rather than a full-scale conflict. Meanwhile, the tech sector came under renewed pressure, with traders focused on the highly anticipated US market debut of South Korean chipmaker SK Hynix. Telecommunication companies stood out, with Deutsche Telekom rising 2.9% after receiving a "buy" rating from JP Morgan. Bayer gained 2.6% after agreeing to sell a minority stake in its contraceptives business to Apollo Global Management for €3 billion. Conversely, chipmaker Infineon Technologies (-2.7%) and AI-related Siemens Energy (-1.6%) lagged. For the week, the index was poised to decline over 2%.
+
+---
+
+### 2026-07-10 16:06:05  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: forecasts global oil demand will decline by 1.0 mln b/d in 2026, revised from a prior estimate of a 1.1 mln b/d drop.
+
+---
+
+### 2026-07-10 16:05:55  #觀點 #國際
+
+【烏克蘭自產愛國者導彈難救近火 專家：美方或藉機放緩彈藥援助】防務領域專家提醒，特朗普總統授權烏克蘭本土生產愛國者防空導彈的提議落地尚需數年之久，且無法解決烏方當下緊迫的防空彈藥缺口。 美國保衛民主基金會是一家聚焦外交與國家安全的無黨派非營利智庫，該機構研究員布拉德利·鮑曼表示：“這件事絕非按下開關就能立刻見效。即便足額撥付所需資金，產能擴充也需要漫長週期，無法短期內兌現。” 美國戰略與國際問題研究中心高階顧問馬克·坎西恩評價：“白宮偏愛這類標誌性的重大表態，但現實不會如宣傳一般，短短幾個月工廠就能產出導彈。” 部分專家觀點更為尖銳，認為這份生產許可反而會損害烏克蘭利益，讓美國藉機推脫短期內直接輸送愛國者導彈彈藥的援助義務。 美國防務優先順序智庫軍事分析師詹妮弗·卡瓦納表示，表面看授權生產是美烏雙贏，實際結果很可能兩敗俱傷。 卡瓦納解釋：“倘若美方以授權本土生產作為烏克蘭防空問題的解決方案，那麼美國直接加急輸送愛國者彈藥的迫切性會大幅下降，最終反而不利於烏克蘭近階段國土防空安全。”
+
+---
+
+### 2026-07-10 16:05:52  #央行 #國際
+
+波蘭央行行長：9月降息的討論只是理論上的。
+
+---
+
+### 2026-07-10 16:05:43  #MKT News
+
+【CHINA to meet N. KOREA premier Pak Thae-song】CHINA will meet N. KOREA premier Pak Thae-song at the Great Hall of the People in Beijing on the afternoon of July 10. Pak is a member of the WPK Politburo Standing Committee and vice chairman of the State Affairs Commission.
+
+---
+
+### 2026-07-10 16:05:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report forecasts 2026 global oil supply will be 860,000 b/d below demand, narrower than the prior report's 920,000 b/d shortfall estimate.
+
+---
+
+### 2026-07-10 16:05:19  #宏觀
+
+【習近平將會見朝鮮內閣總理樸泰成】7月10日下午，中共中央總書記、國家主席習近平將在北京人民大會堂會見來華進行正式訪問的朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成。（央視新聞）
+
+---
+
+### 2026-07-10 16:05:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report: Refining operations and product supplies lagged the crude market's response to the Strait of Hormuz reopening in June, tightening fuel markets during the summer demand peak.
+
+---
+
+### 2026-07-10 16:05:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Drops by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%) and Gold (-0.46%). Gains are led by Silicon (0.84%) and Iron Ore CNY (0.54%).
+
+---
+
+### 2026-07-10 16:05:04  #國際
+
+【俄稱能源設施因襲擊起火 烏稱遭俄無人機襲擊】10日，俄羅斯羅斯托夫州州長通報稱，該州兩處儲油設施因無人機襲擊起火。同一天，克拉斯諾達爾邊疆區行動指揮部通報稱，伊利斯基煉油廠區域因無人機殘骸墜落起火。據俄羅斯國防部10日早間通報，過去一夜，376架烏克蘭無人機在多地及亞速海水域上空被攔截摧毀。10日，烏克蘭空軍通報稱，自9日18時起，俄軍用137架各型無人機襲擊烏克蘭。（央視新聞）
+
+---
+
+### 2026-07-10 16:05:04  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Turkey's central bank opened a one-week gold-for-lira sell-side swap auction via conventional procedures, sized at 10 tonnes.
+
+---
+
+### 2026-07-10 16:04:46  #Trading Economics #Economy #Moldova #Inflation Rate #Importance 1
+
+Moldova Inflation Rate Eases in June — The annual inflation rate in Moldova rose to 6.5% in June 2026, easing from a 6.8% increase in each of the previous two months. Price growth moderated in non-food products (6.5% vs 7.2% in May), as fuel and motor fuel inflation eased, although prices continued to rise strongly. At the same time, inflation in services edged down (7.4% vs 7.5%), reflecting slower increases in passenger transport, regulated electricity tariffs, rent, education, and public catering services. Meanwhile, inflation for food products remained unchanged at 5.7%, as lower prices for sugar partly offset continued increases in eggs, vegetables, bread, dairy products, fruit, meat products, and vegetable oil. On a monthly basis, consumer prices fell 0.1% in June, reversing a 0.4% increase in the previous month.
 
 ---
 
@@ -18962,161 +19208,5 @@ New York silver futures rose 1.00% intraday to $59.32/oz.
 ### 2026-07-09 14:21:51  #Trading Economics #Economy #Germany #Balance of Trade #Importance 3
 
 German Trade Surplus Largest in 3 Months — Germany's trade surplus widened to €19.1 billion in May 2026 from an upwardly revised €14.7 billion in April, surpassing market expectations of €14.8 billion. It was the largest trade surplus since February, as exports rose while imports fell. Exports unexpectedly increased by 0.9% month-on-month to an over 3½-year high of €137.9 billion in May 2026, accelerating from a downwardly revised 0.8% increase in April and beating market expectations of a 0.3% decline. Exports to third countries rose 3.6%, supported by a 23.1% surge in shipments to the US, Germany's largest export market. Meanwhile, imports fell 2.5% month-on-month to a three-month low of €118.8 billion in May 2026, reversing a marginally revised 1.1% increase in the previous month and missing market expectations of a 0.1% increase. Imports from EU member states fell 2.5%, while those from non-EU countries dropped 2.6%, amid a decline in shipments from China (-2.0%).
-
----
-
-### 2026-07-09 14:21:49  #國際
-
-伊朗衛生部今天（7月9日）發表宣告稱，美軍在8日、9日兩天針對伊朗境內5省發動的空襲已造成14人死亡，78人受傷。（CCTV國際時訊）
-
----
-
-### 2026-07-09 14:21:39  #MKT News
-
-Australia S&P/ASX 200 closed down 29.50 points (-0.34%) at 8,755.60 on Thursday, July 9.
-
----
-
-### 2026-07-09 14:21:10  #公司 #國際
-
-【美國對口自中國的鎂碳磚發起第三次雙反日落複審調查】近日，美國商務部發布公告，對進口自中國的鎂碳磚發起第三次反傾銷和反補貼日落複審調查、對進口自墨西哥的鎂碳磚發起第三次反傾銷日落複審調查。與此同時，美國國際貿易委員會（ITC）對上述涉案產品發起第三次反傾銷和反補貼日落複審產業損害調查，審查若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業構成的實質性損害是否將繼續或再度發生。利益相關方應於本公告發布之日起10日內向美國商務部進行應訴登記。利益相關方應於2026年7月31日前向美國國際貿易委員會提交回複意見，並最晚於2026年9月8日就該案回覆意見的充分性向美國國際貿易委員會提交評述意見。
-
----
-
-### 2026-07-09 14:21:09  #市場 #焦點
-
-滬深兩市成交額超2.5萬億元，較上日此時放量2785億元。
-
----
-
-### 2026-07-09 14:20:56  #其他
-
-【中指研究院：預計全年新建商品房銷售面積同比下降7.8% 下半年市場延續分化築底特徵】中指研究院釋出《2026上半年中國房地產市場總結&下半年趨勢展望》，預計下半年供需兩端政策將繼續發力，穩房價或成為重要著力點。總體來看，房地產市場仍處於築底過程中，市場修復將延續分化特徵。展望下半年，核心城市二手房市場有望保持一定活躍度，成交持續改善疊加掛牌趨穩將進一步帶動價格跌幅收窄，部分城市價格企穩基礎逐步增強。新房方面，在2025年同期基數較低影響下，下半年全國新房銷售同比降幅有望逐步收窄，但市場全面修復仍需時間。核心城市“好房子”專案持續入市、公積金等支援政策持續發力，將繼續對市場形成一定支撐；但“控增量、去庫存”導向下，新房供應或將延續縮量態勢，市場修復仍將以優質供給帶動的結構性改善為主。開工投資端來看，受房企銷售回款承壓和“以銷定投”策略影響，新開工及房地產開發投資預計仍將在低位執行。整體來看，隨著2025年同期基數回落，下半年全國新房銷售同比降幅有望有所收窄。預計全年新建商品房銷售面積約8.1億平米，同比下降7.8%。
-
----
-
-### 2026-07-09 14:20:15  #公司
-
-幣安聯合執行長：我們將大舉擴張佈局。
-
----
-
-### 2026-07-09 14:19:57  #宏觀
-
-【市場監管總局徵求《認證機構資質許可審查通則（徵求意見稿）》意見】為規範認證機構資質許可審查實施，統一審批標準和工作程式，市場監管總局起草了《認證機構資質許可審查通則（徵求意見稿）》，現向社會公開徵求意見，意見反饋截止日期為2026年8月8日。
-
----
-
-### 2026-07-09 14:19:39  #國際
-
-幣安聯合創始人：我們正在亞洲申請獲取更多牌照，包括菲律賓、日本和韓國。
-
----
-
-### 2026-07-09 14:19:19  #Trading Economics #Economy #Finland #Balance of Trade #Importance 1
-
-Finnish Trade Gap Largest in 3 Months — Finland posted a trade deficit of EUR 0.91 billion in May 2026, widening sharply from EUR 0.05 billion in the corresponding month of the previous year, preliminary estimates showed. This marked the largest trade gap since February, as exports rose less than imports. Exports grew by a modest 7.5% year-on-year to EUR 6.39 billion, as sales rose to non-EU countries (+19.2%), while shipments fell to EU markets (-0.3%). Sales to Sweden (+5.8%), Germany (+2.1%), the US (+28.6%), Norway (+24.5%), and China (+20.2%) saw the largest increases. Meanwhile, imports rose faster at 22.7% to EUR 7.3 billion. It should be noted that imports from EU countries are now compiled using a new methodology starting January 2026, so only total values are comparable with those of 2025. Considering the first five months of 2026, the country’s trade shortfall expanded to EUR 2.95 billion from EUR 1.04 billion in the same period a year ago.
-
----
-
-### 2026-07-09 14:19:12  #公司 #國際
-
-【美國對熨衣架及其零部件發起第四次反傾銷日落複審調查】近日，美國商務部發布公告，對進口自中國的熨衣架及其零部件發起第四次反傾銷日落複審調查。與此同時，美國國際貿易委員會（ITC）對上述涉案產品發起第四次反傾銷日落複審產業損害調查，審查若取消現行反傾銷措施，在合理可預見期間內，涉案產品的進口對美國國內產業構成的實質性損害是否將繼續或再度發生。利益相關方應於本公告發布之日起10日內向美國商務部進行應訴登記。利益相關方應於2026年7月31日前向美國國際貿易委員會提交回複意見，並最晚於2026年9月8日就該案回覆意見的充分性向美國國際貿易委員會提交評述意見。
-
----
-
-### 2026-07-09 14:19:10  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran details strikes on US base facilities】Iranian media on July 9, citing the Iranian Army public relations department, said Iran carried out further strikes that morning against US bases in the region in response to US attacks on multiple Iranian sites and military units. Military drones struck a Patriot air-defense system at a US base in Kuwait, a satellite-communications early-warning facility at a US base in Qatar, and a fuel depot at a US base in Bahrain.
-
----
-
-### 2026-07-09 14:18:37  #焦點 #國際
-
-【伊朗公佈打擊美軍基地設施細節】伊朗媒體今天（7月9日）援引伊朗陸軍公共關係部宣告稱，鑑於美軍對伊朗多地及軍事單位發動襲擊，伊朗軍隊於當天上午繼續對該地區的美軍基地進行打擊，使用軍用無人機對科威特美軍基地的“愛國者”導彈防禦系統、卡達美軍基地的衛星通訊預警設施及巴林的美軍基地燃料庫等目標發動了打擊。美國軍方此前表示，在新一輪對伊朗的打擊中攻擊了約90個伊朗軍事目標，包括防空系統、海岸監視設施、導彈與無人機儲存點、海軍作戰裝備以及沿海軍事後勤基礎設施。（CCTV國際時訊）
-
----
-
-### 2026-07-09 14:18:37  #Trading Economics #Economy #Saudi Arabia #Industrial Production #Importance 1
-
-Saudi Arabia Industrial Output Down 18.7% in May — Industrial production in Saudi Arabia fell 18.7% year-on-year in May 2026, easing slightly from a 19.2% decline in April. The downturn was driven by a 26.3% slump in oil-related activities, reflecting sharp contractions in crude petroleum and natural gas extraction (-28.6%) and coke and refined petroleum products (-16.7%). Meanwhile, non-oil activities edged down 0.5%, as manufacturing slipped 0.6%, weighed by declines in chemicals (-4.0%) and food products (-3.5%), partly offset by gains in basic metals (12.8%). Other economic activities expanded 3.3%, supported by growth in water supply, sewerage, waste management and remediation activities (5.7%), although electricity, gas, steam and air-conditioning supply fell 1.4%. On a monthly basis, industrial output rose 3.2% in May, rebounding from a 6.5% drop in April.
-
----
-
-### 2026-07-09 14:18:22  #Trading Economics #Economy #Denmark #Current Account #Importance 1
-
-Denmark Current Account Surplus Eases to 3-Month Low — Denmark’s seasonally adjusted current account surplus rose to DKK 30.7 billion in May 2026, easing from a downwardly revised DKK 32.5 billion in the previous month. This marked the smallest surplus in three months, as the goods account surplus narrowed to DKK 24.8 billion from DKK 31.3 billion, weighed down by a 2.4% decline in exports while imports increased 5.7%. Additionally, the primary income surplus moderated to DKK 4.1 billion from DKK 5.9 billion in April. Meanwhile, the services account shifted to a DKK 4.1 billion surplus from a DKK 2.1 billion deficit, while the secondary income deficit shrank to DKK 2.2 billion from DKK 2.6 billion.
-
----
-
-### 2026-07-09 14:17:50  #公司 #國際
-
-幣安聯席執行長騰：將繼續與歐盟監管機構密切合作，目前確定接任人選仍為時過早。
-
----
-
-### 2026-07-09 14:17:44  #市場
-
-【電子化學品板塊震盪反彈，江化微觸及漲停】電子化學品板塊震盪反彈，江化微觸及漲停，菲沃泰、上海新陽漲超15%，珂瑪科技、瑞聯新材、晶瑞電材、南大光電等跟漲。
-
----
-
-### 2026-07-09 14:17:41  #國際
-
-【美國國際貿易委員會對蘑菇罐頭作出第五次反傾銷日落複審產業損害終裁】7月7日，美國國際貿易委員會（ITC）投票對進口自智利、印度、印度尼西亞和中國的蘑菇罐頭（Preserved Mushrooms）作出第五次反傾銷日落複審產業損害肯定性終裁，裁定若取消現行反傾銷措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷措施繼續有效。
-
----
-
-### 2026-07-09 14:17:41  #MKT News
-
-【Memory and component cost rises push mainstream business laptop prices up over 1,000 yuan this year】Rising memory and other component costs have driven up consumer electronics prices, lifting mainstream business laptop prices by more than 1,000 yuan year-to-date. Value office notebooks that once sold for about 3,000–4,000 yuan are thinning; mainstream thin‑and‑light models in the 3,500–4,500 yuan band have broadly increased. Gaming laptops with high‑performance CPUs and discrete GPUs have been hit hardest, with some flagship models up over 40%. Models that were around 3,000 yuan are migrating to the 3,500–4,000+ yuan range, and many mainstream office notebooks priced near 3,500 yuan last year now exceed 4,000 yuan. Industry sources say core component supply‑demand tightness is unlikely to improve materially in the near term, keeping PC prices elevated and increasing the risk that sub‑3,000‑yuan high‑value office models will continue to disappear while thin‑and‑light price bands move higher.
-
----
-
-### 2026-07-09 14:17:33  #公司
-
-幣安聯合執行長騰：已提交完全合規的申請，不清楚審批為何一再延遲。
-
----
-
-### 2026-07-09 14:17:02  #其他
-
-【機構：上游電池片價格呈現下行態勢，導致元件成本支撐力減弱】據集邦諮詢，光伏元件環節受產業鏈成本坍塌及終端需求疲軟影響，行情持續承壓執行。目前終端需求持續不及預期，市場採購仍以低價貨源為主，行業成交基本依靠剛需補庫與前期中標訂單交付支撐。上游電池片價格呈現下行態勢，導致元件成本支撐力減弱。市場觀望情緒濃厚，部分頭部企業主動大幅下調報價，價格普遍來到0.67-0.70元/W，二三線企業報價普遍降至0.65-0.67元/W，部分積壓低效庫存更是低價拋售回籠現金流。當前行業處於價格下行通道，下游採購觀望情緒濃厚，拿貨節奏放緩，市場整體交投清淡。上游成本持續走弱、終端需求疲軟雙重影響下，預計元件價格後續仍將維持承壓走勢。
-
----
-
-### 2026-07-09 14:16:32  #公司
-
-【萬達影視傳媒更名儒意前程】天眼查App顯示，近日，萬達影視傳媒有限公司發生工商變更，企業名稱變更為儒意前程影視傳媒有限公司。該公司成立於2009年7月，法定代表人為陳曦，註冊資本7.5億人民幣，經營範圍包括廣播電視節目製作經營、電影發行、演出經紀、以自有資金從事投資活動等，由儒意電影（002739）、珠海祥意企業管理有限公司等共同持股。
-
----
-
-### 2026-07-09 14:16:19  #Trading Economics #Economy #Lithuania #Inflation Rate #Importance 1
-
-Lithuania Inflation Rate Highest in Nearly 3 Years — Lithuania’s annual inflation rate rose to 5.7% in June 2026 from 5.5% in the previous month, marking the highest level since September 2023. Prices increased at a faster pace for housing and utilities (12.0% vs 8.3% in May), alcoholic beverages and tobacco (7.8% vs 7.7%), furnishings, household equipment, and routine household maintenance (1.2% vs 0.8%), food and non-alcoholic beverages (0.1% vs 0.0%), health (3.8% vs 3.6%), education (5.0% vs 4.4%), insurance and financial services (5.6% vs 5.0%), and miscellaneous goods and services (5.8% vs 4.7%). Additionally, clothing and footwear prices rebounded (1.7% vs -0.6%). Meanwhile, inflation eased in transport (13.4% vs 16.2%), information and communication (3.1% vs 3.6%), recreation, sport, and culture (5.8% vs 6.1%), and restaurants and accommodation (6.1% vs 6.5%). On a monthly basis, consumer prices increased 0.5% in June after falling 0.1% in the previous month.
-
----
-
-### 2026-07-09 14:14:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-SSE 50 Index and CSI 300 Index both rose more than 2%.
-
----
-
-### 2026-07-09 14:14:40  #市場
-
-【記憶體等持續漲價 年內主流商務筆記本漲價超千元】受到記憶體等零配件價格持續上漲，消費電子終端產品價格不斷上漲。近期，不少消費者注意到，國內膝上型電腦市場正在經歷新一輪漲價潮。記者透過得物App價格趨勢圖發現，多款熱門入門及主流辦公本市場成交均價均出現明顯上漲，包括榮耀X16 銳龍版、小米Redmi Book 16等主力機型，半年內漲價幅度基本在1000元以上。（上證報）
-
----
-
-### 2026-07-09 14:14:11  #Trading Economics #Economy #Denmark #Balance of Trade #Importance 1
-
-Denmark Trade Surplus Narrows in May — Denmark’s seasonally adjusted trade surplus narrowed to DKK 28.9 billion in May 2026 from a downwardly revised DKK 29.2 billion in April. Exports ticked up to 1.3% month-over-month to DKK 189.3 billion, as a 5.8% increase in services exports more than offset a 1.6% decline in goods exports. Imports climbed 1.8% to DKK 160.4 billion, driven by a 5.7% rise in goods imports despite a 2.5% decrease in services imports. For the January-May of 2026, Denmark recorded a trade surplus of DKK 144.4 billion, up from DKK 124.4 billion over the same period in the previous year.
-
----
-
-### 2026-07-09 14:13:33  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300
-
-【Morgan Stanley: End-July to August Likely Crucial for Sustained Recovery in Hong Kong and Mainland Stocks】Morgan Stanley China equity chief strategist Wang Ying said in a note that late July through August could be a key window for a sustained rebound in Hong Kong and mainland Chinese equities. She noted recent outperformance versus major global peers has been partly driven by continued southbound Stock Connect inflows. Wang said Q2 results from e-commerce firms may show the profit hit from price wars has peaked, and further improvement in AI commercialization could underpin related names. She advised investors significantly underweight Hong Kong and mainland equities to consider using recent volatility to gradually add fundamentally stronger stocks.
 
 ---
