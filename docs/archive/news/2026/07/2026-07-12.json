@@ -1,7 +1,19 @@
 {
   "date": "2026-07-12",
-  "count": 600,
+  "count": 601,
   "items": [
+    {
+      "id": "mkt:019f5552-ef5a-7aab-8d43-45316f6936b8",
+      "time": "2026-07-12 15:55:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Mehr News Agency reports a U.S. strike damaged communications infrastructure in Iran's Kerman province."
+    },
     {
       "id": "4982769",
       "time": "2026-07-12 15:54:36",
