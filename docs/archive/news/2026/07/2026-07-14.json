@@ -1,7 +1,170 @@
 {
   "date": "2026-07-14",
-  "count": 155,
+  "count": 171,
   "items": [
+    {
+      "id": "4985226",
+      "time": "2026-07-14 01:21:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：我們將從各專項工作組中收穫大量經驗。"
+    },
+    {
+      "id": "mkt:019f5c7f-97ce-7aab-8d61-c384658943fb",
+      "time": "2026-07-14 01:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Waller said \"institutional change\" means the existing system should not be put in charge of running one of the working groups, and that the Fed will learn a great deal from those working groups."
+    },
+    {
+      "id": "mkt:019f5c7f-952b-7aab-8d61-bc06b7868a02",
+      "time": "2026-07-14 01:21:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed governor WALLER: another high inf print would be a 'signal'】Fed governor WALLER said on Monday that when reviewing this week’s inf data he would give more weight to another high print than to a lower one. He said the U.S. has seen 'higher, higher, higher, higher' readings for roughly five to six months. He added that another higher print would be treated as a signal rather than noise, but if inf falls he would likely need one or two more months of data before regarding the decline as a signal."
+    },
+    {
+      "id": "4985225",
+      "time": "2026-07-14 01:21:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 政權更迭意味著不能讓現政權牽頭專項工作組。"
+    },
+    {
+      "id": "mkt:019f5c7f-1784-7aab-8d61-b44e62e2ea0b",
+      "time": "2026-07-14 01:21:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Waller said setting a single point estimate as a target can be too harsh when judging whether policy has succeeded or failed."
+    },
+    {
+      "id": "4985224",
+      "time": "2026-07-14 01:20:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 在評判政策成效得失時，單一數值目標有時侷限性過大。"
+    },
+    {
+      "id": "mkt:019f5c7e-e458-7aab-8d61-a973f32893e3",
+      "time": "2026-07-14 01:20:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed governor WALLER said setting an inf target in the 1.5%-2.5% range appears reasonable."
+    },
+    {
+      "id": "mkt:019f5c7e-8634-7aab-8d61-a6de79eb2503",
+      "time": "2026-07-14 01:20:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "WALLER: I personally prefer targeting an inf range."
+    },
+    {
+      "id": "4985223",
+      "time": "2026-07-14 01:20:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：我個人更傾向採用區間式通脹目標，將通脹目標設定在 1.5%-2.5% 區間看起來較為合理。"
+    },
+    {
+      "id": "4985222",
+      "time": "2026-07-14 01:19:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 我個人傾向將通脹區間設為政策目標。"
+    },
+    {
+      "id": "4985221",
+      "time": "2026-07-14 01:19:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 不能把通脹比作色情事物 —— 不能僅憑直觀感受判斷，央行官員不該持有這種思維。"
+    },
+    {
+      "id": "4985220",
+      "time": "2026-07-14 01:19:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 樂見我們擁有清晰的物價指數作為政策基準。"
+    },
+    {
+      "id": "4985219",
+      "time": "2026-07-14 01:18:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：無意進行象徵性加息。"
+    },
+    {
+      "id": "mkt:019f5c7c-d0db-7aab-8d61-9b641815ab11",
+      "time": "2026-07-14 01:18:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Waller said he is not interested in symbolic rate hikes."
+    },
+    {
+      "id": "mkt:019f5c7c-c436-7aab-8d61-94b952d6f785",
+      "time": "2026-07-14 01:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Waller said the Fed's credibility is intact and markets expect it will fulfill its responsibilities."
+    },
+    {
+      "id": "4985218",
+      "time": "2026-07-14 01:18:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：市場相信美聯儲能將通脹降至 2%，我們具備政策公信力。"
+    },
     {
       "id": "mkt:019f5c7c-a198-7aab-8d61-8ae171a04515",
       "time": "2026-07-14 01:18:19",
