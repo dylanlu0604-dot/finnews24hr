@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-14 01:14:50",
-  "count": 17138,
+  "updated": "2026-07-14 01:18:49",
+  "count": 17145,
   "items": [
+    {
+      "id": "mkt:019f5c7c-a198-7aab-8d61-8ae171a04515",
+      "time": "2026-07-14 01:18:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WALLER said markets expect the Fed to bring inf to 2% and that the Fed has credibility."
+    },
+    {
+      "id": "4985217",
+      "time": "2026-07-14 01:18:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 我認為美聯儲公信力並未受損，市場相信我們會履行職責。"
+    },
+    {
+      "id": "te:markets:566491",
+      "time": "2026-07-14 01:17:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bristol-Myers Squibb Stock Price Hits 6-week High — Bristol-Myers Squibb shares increased to 58.89 USD, the highest since May 2026. Over the past 4 weeks, Bristol-Myers Squibb gained 4.66%, and in the last 12 months, it increased 24.33%."
+    },
+    {
+      "id": "mkt:019f5c7b-eea8-7aab-8d61-820c31193c98",
+      "time": "2026-07-14 01:17:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "WALLER said uncertainty in parts of the labor market earlier this year has been resolved and the situation has seen a remarkable reversal."
+    },
+    {
+      "id": "4985216",
+      "time": "2026-07-14 01:17:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 今年勞動力市場部分不確定性已自行消散，形勢出現驚人反轉。"
+    },
+    {
+      "id": "mkt:019f5c7b-190c-7aab-8d61-7c07cb621378",
+      "time": "2026-07-14 01:16:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $795 million from two counterparties in fixed-rate reverse repurchase operations."
+    },
+    {
+      "id": "4985215",
+      "time": "2026-07-14 01:16:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（7月13日），美聯儲隔夜逆回購協議（RRP）使用規模為7.95億美元（交易對手2家），上個交易日報5.45億美元。"
+    },
+    {
+      "id": "mkt:019f5c79-e8f4-7aab-8d61-7182c603aa8b",
+      "time": "2026-07-14 01:15:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【WALLER on inflation noise: next print in either direction will be a useful signal】Fed Governor WALLER said individual inflation prints contain noise but recent months have been worse than expected. He said if data have been rising for roughly six months he treats that as a signal, and the next inflation release, whichever direction it moves, will be a useful signal."
+    },
+    {
+      "id": "4985214",
+      "time": "2026-07-14 01:14:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 美聯儲還需要十年時間才能清完抵押貸款支援證券（MBS）持倉。"
+    },
+    {
+      "id": "mkt:019f5c79-7460-7aab-8d61-6980b6b4a605",
+      "time": "2026-07-14 01:14:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed Governor Waller said he wished the Fed had never purchased mortgage-backed securities."
+    },
+    {
+      "id": "4985213",
+      "time": "2026-07-14 01:14:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 真希望美聯儲當初從未購入抵押貸款支援證券（MBS）。"
+    },
+    {
+      "id": "te:markets:566490",
+      "time": "2026-07-14 01:14:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rebounds — US gasoline prices rose above $3.1 per gallon on Monday after briefly dipping toward $2.98 in the previous session, as renewed geopolitical tensions heightened concerns over global supply disruptions. President Donald Trump announced plans to restore a blockade on Iranian vessels passing through the Strait of Hormuz while also imposing a 20% charge on all other cargo using the waterway, raising fears of disruptions to energy supplies. Meanwhile, Ukraine intensified attacks on Russia's energy infrastructure, targeting oil depots in the Stavropol region and storage facilities at the port of Kavkaz in an effort to disrupt Moscow's war efforts. Kazakhstan's Caspian Pipeline Consortium also reported a 7% decline in June shipments due to maintenance at the Tengiz oilfield and lower Russian flows. Adding to the pressure, reduced refining activity, at roughly 65% of seasonal average consumption, contributed to fuel shortages across Russia, which introduced a ban on exports of gasoline."
+    },
     {
       "id": "4985212",
       "time": "2026-07-14 01:13:58",
@@ -156526,57 +156656,6 @@
         "公司"
       ],
       "text": "市場資訊：三星人工智慧相關業務的盈利結果或將影響半導體股票的近期走勢。"
-    },
-    {
-      "id": "mkt:019f3870-8588-7aab-8cba-2ff6a35ea5fb",
-      "time": "2026-07-07 01:18:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted bids totaling $2.719 billion from 13 counterparties in a fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "mkt:019f386f-17c8-7aab-8cba-2205937503e9",
-      "time": "2026-07-07 01:17:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA denies Kyber delay rumors; product roadmap unaffected】A NVIDIA spokesperson denied reports of a delay to the Kyber AI compute architecture and said the company’s product roadmap is unaffected. Research firm SemiAnalysis had reported Kyber suffered R&D setbacks and could be delayed about 12 months to 2028; the architecture was slated for the next‑generation Rubin Ultra GPU. Mizuho analyst Jordan Klein characterized similar delay chatter as attention‑grabbing noise. The report had limited market impact: NVIDIA shares rose roughly 1.2% intraday on Monday. Kyber is viewed as a material data‑center upgrade, employing a vertical‑rack design to boost compute density and cut network latency, and could lift demand for co‑packaged optics (CPO) in data centers."
-    },
-    {
-      "id": "em:qqyh_mlc:202607073795534450",
-      "time": "2026-07-07 01:16:53",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元】美聯儲週一隔夜逆回購協議（RRP）使用規模為27.19億美元，上個交易日報21.75億美元。"
-    },
-    {
-      "id": "4972929",
-      "time": "2026-07-07 01:16:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "13 家交易對手在美聯儲逆回購操作中獲得 27.19 億美元。"
-    },
-    {
-      "id": "4972928",
-      "time": "2026-07-07 01:15:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國《加密貨幣清晰法案》需在8月7日前完成表決透過，否則參議院將休會進入夏季休會期。"
     }
   ]
 }
