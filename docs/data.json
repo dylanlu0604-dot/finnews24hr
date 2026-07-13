@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-13 13:28:15",
-  "count": 16762,
+  "updated": "2026-07-13 13:32:19",
+  "count": 16764,
   "items": [
+    {
+      "id": "mkt:019f59f5-b5f5-7aab-8d4f-df726346f32f",
+      "time": "2026-07-13 13:31:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TSMC June revenue NT$442.68 billion, up 67.9% YoY; May NT$416.98 billion."
+    },
+    {
+      "id": "4983726",
+      "time": "2026-07-13 13:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：6月銷售額4426.8億臺幣。"
+    },
+    {
+      "id": "mkt:019f59f5-53e9-7aab-8d4f-d113cdd4ec19",
+      "time": "2026-07-13 13:31:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index losses widen to 4%, now at 1,981.81."
+    },
+    {
+      "id": "mkt:019f59f5-4eb2-7aab-8d4f-cb83f5aceaf0",
+      "time": "2026-07-13 13:31:16",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share oil and gas sector rallied in afternoon trade; Shandong Molong approached its daily limit-up, and Keli, Tongyuan Petroleum, CNOOC and Blue Flame Holdings also advanced."
+    },
+    {
+      "id": "mkt:019f59f5-2409-7aab-8d4f-c7b2bb273973",
+      "time": "2026-07-13 13:31:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI fell 9.07% intraday to 6,800 points, with SK Hynix down 14.5% and Samsung Electronics down 11%."
+    },
+    {
+      "id": "4983725",
+      "time": "2026-07-13 13:31:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數向下觸及6800點，日內跌9.07%。SK海力士現跌14.5%，三星電子跌11%。"
+    },
+    {
+      "id": "mkt:019f59f4-8e03-7aab-8d4f-bfb3f7d9dbf7",
+      "time": "2026-07-13 13:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Most-active international copper contract fell 1,000 yuan intraday to 91,120 yuan/ton, down 1.09%."
+    },
+    {
+      "id": "4983724",
+      "time": "2026-07-13 13:30:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報58.34美元/盎司。"
+    },
+    {
+      "id": "te:markets:566244",
+      "time": "2026-07-13 13:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 1.84% — Top crypto losers are Bitcoin (-1.84%), Ether (-1.56%) and Binance (-1.07%)."
+    },
+    {
+      "id": "4983723",
+      "time": "2026-07-13 13:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌3%，現報8052.80點。"
+    },
+    {
+      "id": "4983722",
+      "time": "2026-07-13 13:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報7722.60點。"
+    },
+    {
+      "id": "4983721",
+      "time": "2026-07-13 13:29:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣概念午後震盪拉昇 山東墨龍逼近漲停】油氣概念午後震盪拉昇，山東墨龍逼近漲停，科力股份、通源石油、中國海油、藍焰控股跟漲。"
+    },
+    {
+      "id": "mkt:019f59f2-c7bf-7aab-8d4f-b0be6e632c77",
+      "time": "2026-07-13 13:28:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "Nikkei 225"
+      ],
+      "text": "MSCI Asia Pacific index fell 2% to 265.92."
+    },
+    {
+      "id": "4983720",
+      "time": "2026-07-13 13:28:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止13:28，兩市101只個股跌停。"
+    },
+    {
+      "id": "mkt:019f59f2-9e80-7aab-8d4f-af8570b042bb",
+      "time": "2026-07-13 13:28:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran IRGC says it launched fifth-stage strike on US forces】Iran's Islamic Revolutionary Guard Corps said on the morning of July 13 it carried out a fifth-stage retaliatory strike on US regional targets, claiming it \"precisely struck\" a US facility in Bahrain's Juffair, causing heavy damage, and destroyed FPS radar and ship-detection radar in Oman."
+    },
+    {
+      "id": "4983718",
+      "time": "2026-07-13 13:27:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌2%至265.92點。"
+    },
     {
       "id": "4983717",
       "time": "2026-07-13 13:26:28",
@@ -152817,135 +152975,6 @@
         "Impact bullish"
       ],
       "text": "【Analog Devices says some product lead times extended to six months, urges customers to order six months ahead】Analog Devices (ADI) told customers demand has rebounded and tightened supply, extending lead times for some analog products up to six months. ADI warned that customers who do not place orders six months in advance may face even longer delivery times."
-    },
-    {
-      "id": "4971703",
-      "time": "2026-07-06 13:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【模擬晶片大廠亞德諾發通知信：部分產品交期拉長 提醒客戶提前半年下單】模擬晶片大廠亞德諾半導體（ADI）日前再度向客戶發出通知書，表示需求回升帶動供應吃緊，部分產品交期最長達六個月，若客戶未能提前六個月下單，未來可能面臨更長交付時間。"
-    },
-    {
-      "id": "4971702",
-      "time": "2026-07-06 13:31:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債<JP20YTN=JBTC>收益率上漲5個基點，至3.800%。"
-    },
-    {
-      "id": "4971701",
-      "time": "2026-07-06 13:31:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守62美元/盎司，日內漲1.52%。"
-    },
-    {
-      "id": "4971700",
-      "time": "2026-07-06 13:31:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債<JP30YTN=JBTC>收益率上升4個基點，至4.065%。"
-    },
-    {
-      "id": "mkt:019f35e8-a643-7aab-8cac-2bc596f22fda",
-      "time": "2026-07-06 13:31:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 20-year bond yield rose 5bp to 3.800%; 30-year bond yield rose 4bp to 4.065%."
-    },
-    {
-      "id": "mkt:019f35e8-4dfb-7aab-8cac-26ba4b985321",
-      "time": "2026-07-06 13:30:44",
-      "tags": [
-        "MKT News",
-        "UNH.N",
-        "Impact bullish"
-      ],
-      "text": "HSBC raised its price target on UnitedHealth (UNH.N) to $380 from $300."
-    },
-    {
-      "id": "4971699",
-      "time": "2026-07-06 13:30:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "滙豐銀行將聯合健康集團目標股價從300美元上調至380美元。"
-    },
-    {
-      "id": "mkt:019f35e8-4438-7aab-8cac-1a6a47ceabe5",
-      "time": "2026-07-06 13:30:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Syria could become Israel's next target】A framework agreement signed by the US, Israel and Lebanon has not resolved the Lebanon conflict and mainly bought time for strategic repositioning. Hezbollah’s refusal to disarm and Israel’s stance of “no disarmament, no withdrawal” leave any ceasefire fragile. Israel is refocusing on Syria: recent artillery strikes in Daraa and stepped-up operations near the Golan Heights point to construction of a security buffer from southern Lebanon into southern Syria to sustain pressure on Iran and Iran-backed militias and to retain a preemptive posture. Syria is increasingly the new front for containing Iran; even if Lebanon cools, regional contest could shift to Syria and become the next flashpoint."
-    },
-    {
-      "id": "mkt:019f35e8-056a-7aab-8cac-16674afb7785",
-      "time": "2026-07-06 13:30:25",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year government bond yield rose 5.5 bps to 2.825%."
-    },
-    {
-      "id": "4971698",
-      "time": "2026-07-06 13:30:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債<JP10YTN=JBTC>收益率上升5.5個基點，至2.825%"
-    },
-    {
-      "id": "te:markets:564342",
-      "time": "2026-07-06 13:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.60% — Top crypto losers are XRP (-1.60%), Binance (-1.01%), Bitcoin (-0.93%) and Ether (-0.93%)."
-    },
-    {
-      "id": "4971697",
-      "time": "2026-07-06 13:28:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將默沙東目標價從135美元上調至150美元。"
-    },
-    {
-      "id": "4971696",
-      "time": "2026-07-06 13:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【廣西將自然災害救助四級應急響應提升為三級】針對今年第10號颱風“美莎克”造成的災情，根據《廣西自然災害救助應急預案》有關規定，廣西防災減災救災委員會辦公室決定於7月6日13時將自治區自然災害救助四級應急響應提升為三級，請各市、各有關單位按照預案要求做好救災救助工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f35e6-2d25-7aab-8cac-0917415ebf87",
-      "time": "2026-07-06 13:28:24",
-      "tags": [
-        "MKT News",
-        "MRK.N",
-        "Impact bullish"
-      ],
-      "text": "HSBC raised Merck (MRK.N) PT to $150 from $135."
     }
   ]
 }
