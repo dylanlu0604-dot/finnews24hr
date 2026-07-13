@@ -1,7 +1,38 @@
 {
   "date": "2026-07-13",
-  "count": 935,
+  "count": 938,
   "items": [
+    {
+      "id": "4983671",
+      "time": "2026-07-13 12:59:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將英國資產評級從“增持”下調至“減持”。"
+    },
+    {
+      "id": "4983670",
+      "time": "2026-07-13 12:59:24",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團將日本股票評級從低配上調至超配。"
+    },
+    {
+      "id": "mkt:019f59d7-f2c4-7aab-8d4e-89c491cc5259",
+      "time": "2026-07-13 12:59:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raised its Japan equity rating to overweight from underweight."
+    },
     {
       "id": "4983669",
       "time": "2026-07-13 12:54:03",

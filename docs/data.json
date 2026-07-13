@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-13 12:56:40",
-  "count": 16753,
+  "updated": "2026-07-13 13:00:42",
+  "count": 16743,
   "items": [
+    {
+      "id": "4983671",
+      "time": "2026-07-13 12:59:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將英國資產評級從“增持”下調至“減持”。"
+    },
+    {
+      "id": "4983670",
+      "time": "2026-07-13 12:59:24",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團將日本股票評級從低配上調至超配。"
+    },
+    {
+      "id": "mkt:019f59d7-f2c4-7aab-8d4e-89c491cc5259",
+      "time": "2026-07-13 12:59:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raised its Japan equity rating to overweight from underweight."
+    },
     {
       "id": "4983669",
       "time": "2026-07-13 12:54:03",
@@ -152714,121 +152745,6 @@
         "國際"
       ],
       "text": "俄羅斯列寧格勒州州長稱，無人機殘骸墜落在該州烏斯季盧加石油港口區域。"
-    },
-    {
-      "id": "4971655",
-      "time": "2026-07-06 13:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【99萬機器人伴侶續航撐不過一晚?優必選回應：行業普遍續航2-4小時，U1 Ultra面向商業場景】今日，優必選最新發布的超仿生人形機器人續航問題引發廣泛關注，“99萬機器人伴侶續航撐不過一晚”相關話題登上熱搜榜單。在與新浪科技溝通中，優必選方面最新回應稱：“目前全尺寸人形機器人續航基本上都在2-4小時，這個是行業普遍情況。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019f35cc-49b7-7aab-8cab-68b383b1520b",
-      "time": "2026-07-06 13:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore May seasonally adjusted retail sales MoM -2.3%; prior value revised from 0.30% to 0.4%."
-    },
-    {
-      "id": "mkt:019f35cc-4954-7aab-8cab-6304121a71a9",
-      "time": "2026-07-06 13:00:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Singapore May retail sales YoY 3.0%, versus 5.40% prior."
-    },
-    {
-      "id": "mkt:019f35cc-29a0-7aab-8cab-5a9cc49f75c2",
-      "time": "2026-07-06 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | Retail Sales (YoY) (May) | actual 3% | previous 5.40%"
-    },
-    {
-      "id": "mkt:019f35cc-2995-7aab-8cab-54105efbdde2",
-      "time": "2026-07-06 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | Retail Sales SA (MoM) (May) | actual -2.3% | previous 0.30%"
-    },
-    {
-      "id": "4971654",
-      "time": "2026-07-06 12:59:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲副總統彈劾審判啟動前又一參議員遭逮捕】菲律賓副總統莎拉·杜特爾特參議院彈劾審判啟動前，當地媒體報道菲參議員羅丹特·馬科萊塔6日上午遭逮捕，被指控涉嫌貪汙腐敗。 菲反貪法院第三分庭6日簽發相關逮捕令。菲調查官辦公室3日向反貪法院提起訴訟，指控馬科萊塔在2025年競選參議員時未申報7500萬比索(約合822萬元人民幣)政治捐款。 日前，大批菲民眾聚集在首都大馬尼拉地區聲援馬科萊塔。當地警方說，參與人數高峰時約1.5萬人。(新華社)"
-    },
-    {
-      "id": "4971652",
-      "time": "2026-07-06 12:59:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟CEO納德拉：量子計算不會取代經典計算，二者結合才能成事】近日，微軟董事長兼執行長納德拉做客斯坦福大學，在談及量子計算時，納德拉表示，量子不會取代經典計算，而是要將兩者結合起來才能真正做成事情。此外，微軟預計將在2030年前建成實用規模的量子計算機，徹底改寫材料科學與醫藥化學。"
-    },
-    {
-      "id": "4971651",
-      "time": "2026-07-06 12:58:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州一小區火災致5死1傷】7月6日，鄭州市消防救援局釋出通報：2026年7月6日7時51分，惠濟區劉寨街道北三環和昌瓏悅小區A座628房間發生火情，過火面積約15平方米。截至8時06分，現場明火已撲滅。經全面搜救，現場5人死亡，1人受傷（經搶救，生命體徵正常），具體原因正在調查中。"
-    },
-    {
-      "id": "te:markets:564331",
-      "time": "2026-07-06 12:58:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Thailand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Thailand Stocks Steady After Inflation Data — Thailand’s SET50 Index was little changed around midday on Monday, hovering near 1,059 after two sessions of gains. Traders reacted to fresh data showing June inflation easing to 2.42%, a three-month low that kept price growth within the central bank’s target, after a year of deflation. Markets held at their highest level since January 2020, as business sentiment strengthened in June, aided by moderating Middle East tensions, softer energy costs, and ongoing government support. In the U.S., equity futures were mixed following a strong week on Wall Street, with traders bracing for minutes from the Fed’s June meeting due later this week. Strength in commercial services, non-energy minerals, and industrial services was offset by weakness in communications, consumer services, and transport. Notable gainers included Banpu (0.9%), Bangchak Corp. (0.7%), and Charoen Pokphand (3.4%). In contrast, Advanced Info (-0.3%), Bangkok Bank (-1.8%), and Bangkok Dusit Medical Services (-2.0%) declined."
-    },
-    {
-      "id": "4971650",
-      "time": "2026-07-06 12:57:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利埃特納火山噴發影響航班】義大利西西里島東岸的埃特納火山5日噴出大量火山灰，導致飛往島上卡塔尼亞機場的航班執行受到干擾。義大利國家地球物理學與火山學研究所監測顯示，埃特納火山從5日清晨開始噴發火山灰，後續火山活動加劇，火山灰雲升騰至距山頂約1500米的空中並隨風向南飄散，而卡塔尼亞機場正好位於這一方位。卡塔尼亞機場方面5日說，受火山灰影響，部分空域臨時關閉，管控持續至當地時間5日19時（北京時間6日1時）。機場規定，5日21時前，該機場每小時僅允許5架航班降落。（新華社）"
-    },
-    {
-      "id": "4971649",
-      "time": "2026-07-06 12:57:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【淨利預增近10倍後跌停，光纖牛股杭電股份回應：股價波動系市場行為，公司生產經營正常】上週釋出業績利好的杭電股份快速跌停，截至午間收盤仍封死跌停板，報44.1元/股，總市值為305億元。針對二級市場的表現，杭電股份公司接線工作人員表示：“目前公司生產經營正常，客戶合作穩定，（股價波動）這是市場行為，可能一些投資者覺得公司要做得更好或者其他原因。”（21財經）"
-    },
-    {
-      "id": "4971648",
-      "time": "2026-07-06 12:57:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受“美莎克”影響降雨持續 廣西防城港排澇清淤正在進行】昨晚至今天上午，廣西防城港市出現持續性降雨，導致防城港市部分割槽域出現積水內澇。據記者現場瞭解到，防城港市出現的持續性強降雨導致城區低窪地段出現內澇積水的情況，從今天凌晨開始降雨逐漸減小。位於老城區的人民醫院部分積水內澇消退，醫院工作人員開始清淤工作。從昨天到今天，醫院陸續轉運危重症病人，因醫院處於停電狀態，一切等待清淤結束後，電力部門進行保供電維修工作。城區其他低窪地帶內澇嚴重，搶險部門進行應急搶修抽排。（央視）"
-    },
-    {
-      "id": "mkt:019f35c9-64a2-7aab-8cab-49777607fff3",
-      "time": "2026-07-06 12:56:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hangdian locked at limit-down after forecasting nearly 10x net profit rise; company says operations normal】Hangdian plunged to and remained locked at its daily trading limit at the midday close after the company last week issued a profit-positive forecast projecting an almost 10x rise in net profit. Shares were 44.1 yuan, valuing the company at about 30.5 bln yuan. Company staff told callers production and customer relationships are normal and attributed the price move to market behavior and investor expectations."
     }
   ]
 }
