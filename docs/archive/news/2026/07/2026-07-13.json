@@ -1,7 +1,54 @@
 {
   "date": "2026-07-13",
-  "count": 333,
+  "count": 338,
   "items": [
+    {
+      "id": "4983261",
+      "time": "2026-07-13 08:22:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，三星電子計劃將韓國龍仁晶圓廠的投產時間從原計劃的2030-2031年提前至2029年。"
+    },
+    {
+      "id": "4983260",
+      "time": "2026-07-13 08:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡交易所：6月證券市場成交額同比飆升72%，達446億新加坡元。"
+    },
+    {
+      "id": "4983259",
+      "time": "2026-07-13 08:21:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞證券和投資委員會：德意志銀行因交易申報違規繳納200萬澳元罰款】澳大利亞證券和投資委員會（ASIC）表示，德意志銀行因26萬餘筆場外衍生品交易申報不實，已繳納這筆罰金。監管機構核查發現該行在2024年10月至2025年8月期間違反衍生品交易相關監管規定，隨即向德意志銀行開具違規處罰通知書。澳證監會稱，在208個營業日內，該行未能採取一切合理措施準確申報20483筆未了結交易、244091筆已平倉或到期交易的“交易方向”欄位資料。澳證監會表示，德意志銀行全程配合調查、足額繳納罰款，並正在落實整改措施，杜絕後續申報差錯。簽收並履行處罰通知書不代表承認存在過錯或法律責任，德意志銀行此舉不視作其違反澳證監會監管條例。"
+    },
+    {
+      "id": "mkt:019f58d9-6afa-7aab-8d48-5599f603fdf8",
+      "time": "2026-07-13 08:21:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "Nasdaq100"
+      ],
+      "text": "【Zhongji Xuchuang says 1.6T 2027 demand remains strong; no overall decline】Zhongji Xuchuang said on July 12 that industry demand for 1.6T in 2027 remains strong and within its previously expected quantity range, and that customer count has increased. 800G demand is rising more sharply than earlier expected. The company has not observed an overall drop in customer demand; 1.6T volumes for next year are broadly unchanged versus prior forecasts but have shifted structurally — some customers reduced orders while new cloud and AI large‑model customers increased 1.6T demand."
+    },
+    {
+      "id": "4983258",
+      "time": "2026-07-13 08:18:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【市場擔心1.6T需求延遲 中際旭創回應】關於“市場擔心1.6T的需求延遲，目前公司看到的需求情況如何”等問題，中際旭創7月12日稱，2027年整體行業的1.6T需求依然保持強勁，與此前預期的數量區間相比沒有變化，客戶數量也有所增加。2027年800G行業需求增長較此前預期更為顯著。從整體客戶需求來看，沒有看到需求下降的情況。1.6T明年的需求數量與此前預期基本一致，主要變化體現在結構上。部分客戶需求確實有所下調，但同時也有新增雲廠商及AI大模型客戶上調了1.6T需求。整體來看，1.6T需求並未下滑，僅呈現結構性調整。"
+    },
     {
       "id": "4983257",
       "time": "2026-07-13 08:18:26",
