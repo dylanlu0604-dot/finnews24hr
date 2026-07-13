@@ -1,7 +1,85 @@
 {
   "date": "2026-07-13",
-  "count": 1104,
+  "count": 1112,
   "items": [
+    {
+      "id": "mkt:019f5a13-0f14-7aab-8d50-adf6a77ba658",
+      "time": "2026-07-13 14:03:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Dubai's main stock index fell 1% in early trading."
+    },
+    {
+      "id": "4983775",
+      "time": "2026-07-13 14:02:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨<STXEc1>下跌0.84%，德國DAX指數期貨<FDXc1>下跌0.88%，富時指數期貨<FFIc1>下跌0.53%。"
+    },
+    {
+      "id": "mkt:019f5a11-5a83-7aab-8d50-a27310260be6",
+      "time": "2026-07-13 14:01:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan says no plan to change GPIF target allocation; may boost domestic investments】Sources told Refinitiv the Government Pension Investment Fund (GPIF) has no plan to change its target asset allocation but may, within existing permitted ranges, shift more funds into Japanese assets as the government studies options. Japan's finance minister Katayama last Friday said the government will seek to encourage pension funds, including GPIF, to substantially increase investment in Japanese financial assets; the remarks lifted the yen and JGBs. GPIF managed ¥293.6 tln (about $1.81 tln) as of March. Officials said any increase would be implemented within the current benchmark limits and would not immediately alter GPIF's medium-term targets; GPIF is legally required to invest solely in beneficiaries' interests and cannot deploy assets to advance government policy. Under its current strategic plan, GPIF allocates 25% each to domestic bonds, overseas bonds, domestic equities and overseas equities."
+    },
+    {
+      "id": "4983774",
+      "time": "2026-07-13 14:01:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿布扎比指數<.FTFADGI>早盤下跌0.3%；迪拜主要股指<.DFMGI>早盤下跌1%。"
+    },
+    {
+      "id": "4983773",
+      "time": "2026-07-13 14:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨<STXEc1>下跌0.84%，德國DAX指數期貨<FDXc1>下跌0.88%，富時指數期貨<FFIc1>下跌0.53%。"
+    },
+    {
+      "id": "mkt:019f5a10-0c56-7aab-8d50-9bbbe85acd0a",
+      "time": "2026-07-13 14:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Coking coal main contract down 2.00% intraday, trading at 1,236 yuan/ton."
+    },
+    {
+      "id": "4983772",
+      "time": "2026-07-13 14:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1236.00元。"
+    },
+    {
+      "id": "4983771",
+      "time": "2026-07-13 14:00:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡凱德集團解散特殊機遇團隊。"
+    },
     {
       "id": "mkt:019f5a0e-c5c4-7aab-8d50-94d508e8f8c3",
       "time": "2026-07-13 13:59:05",
