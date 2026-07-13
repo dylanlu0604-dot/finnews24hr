@@ -1,7 +1,99 @@
 {
   "date": "2026-07-13",
-  "count": 2520,
+  "count": 2530,
   "items": [
+    {
+      "id": "4984998",
+      "time": "2026-07-13 22:03:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌1.95%。"
+    },
+    {
+      "id": "4984997",
+      "time": "2026-07-13 22:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：審計報告顯示，美國五角大樓在邊境行動上至少花費了26億美元。"
+    },
+    {
+      "id": "4984996",
+      "time": "2026-07-13 22:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：不會允許美國干涉霍爾木茲海峽管理】據伊朗媒體13日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人當天表示，絕不允許美國干涉霍爾木茲海峽的管理。這名發言人說，伊朗武裝部隊將對美軍未經伊朗授權、擅自闖入指定航道、干擾商船和油輪通行的行為予以強力回擊。“伊朗伊斯蘭革命衛隊和伊朗伊斯蘭共和國軍隊近期的行動就是明證。”（新華社）"
+    },
+    {
+      "id": "4984995",
+      "time": "2026-07-13 22:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士表示，伊朗因美以打擊行動封鎖霍爾木茲海峽後，區域第一大集裝箱港傑貝阿里港貨運量暴跌90%至95%，這也倒逼港口運營商尋找替代航運通道。"
+    },
+    {
+      "id": "mkt:019f5bc8-d2d9-7aab-8d5d-377dd5015039",
+      "time": "2026-07-13 22:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil proposes opening uranium mining to private partners; state to keep at least 20% stake】Brazil plans to open uranium mining to private capital, allowing partnerships with private firms provided the state nuclear fuel-cycle company retains at least a 20% equity stake in each project. A draft regulation would permit the state monopoly on the nuclear fuel cycle to publicly tender joint mineral-exploration projects and to collaborate with private companies on uranium and other nuclear-mineral extraction, processing, industrialisation and sales. The proposal is under review at the presidential civil office and the Ministry of Mines and Energy and may be amended, Agência iNFRA reported late last month."
+    },
+    {
+      "id": "mkt:019f5bc8-c576-7aab-8d5d-2ca0bdd56e69",
+      "time": "2026-07-13 22:01:52",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Switzerland and the UK have ended talks to strengthen their free trade agreement."
+    },
+    {
+      "id": "mkt:019f5bc8-2f28-7aab-8d5d-23eac3557c57",
+      "time": "2026-07-13 22:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,040/oz, down 1.92% on the day."
+    },
+    {
+      "id": "4984994",
+      "time": "2026-07-13 22:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士和英國結束了關於加強自由貿易協定的談判。"
+    },
+    {
+      "id": "mkt:019f5bc6-ffe0-7aab-8d5d-19f2093ac22b",
+      "time": "2026-07-13 21:59:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures fell below $4,050/oz, down 1.92% intraday."
+    },
+    {
+      "id": "4984993",
+      "time": "2026-07-13 21:59:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌1.56%。"
+    },
     {
       "id": "mkt:019f5bc4-b51b-7aab-8d5d-14e2a537212e",
       "time": "2026-07-13 21:57:25",
