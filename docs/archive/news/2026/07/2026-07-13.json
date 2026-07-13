@@ -1,7 +1,110 @@
 {
   "date": "2026-07-13",
-  "count": 2510,
+  "count": 2520,
   "items": [
+    {
+      "id": "mkt:019f5bc4-b51b-7aab-8d5d-14e2a537212e",
+      "time": "2026-07-13 21:57:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "A Russian official said Russia and Ukraine will carry out a new prisoner exchange soon; the date has not been announced."
+    },
+    {
+      "id": "4984992",
+      "time": "2026-07-13 21:57:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄無人機襲擊了烏克蘭敖德薩地區港口的兩艘散貨船。"
+    },
+    {
+      "id": "mkt:019f5bc4-5e47-7aab-8d5d-0d63e5efb6c4",
+      "time": "2026-07-13 21:57:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "President Putin said Russia is studying a system to supply petroleum products to Crimea that would be sited to make it extremely difficult for adversaries to strike."
+    },
+    {
+      "id": "mkt:019f5bc4-2c64-7aab-8d5d-0585860c9bcb",
+      "time": "2026-07-13 21:56:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian drones struck two bulk carriers in Ukraine's Odesa region."
+    },
+    {
+      "id": "4984991",
+      "time": "2026-07-13 21:56:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海誼眾：披露回購股份事項前十大股東和前十大無限售條件股東持股情況】上海誼眾公告稱，公司於2026年7月1日召開第三屆董事會第三次會議，審議透過以集中競價交易方式回購公司股份的議案。根據相關規定，需披露審議回購方案股東會股權登記日（2026年7月13日）登記在冊的前十大股東和前十大無限售條件股東持股情況。前十大股東中，周勁松持股40127058股，佔比19.41%居首；前十大無限售條件股東持股情況與前十大股東一致。"
+    },
+    {
+      "id": "4984990",
+      "time": "2026-07-13 21:56:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月13日增減持彙總】據不完全統計，7月13日盤後，賽力斯、今天國際、愛施德、泓淋電力等4家公司披露增持情況。迪安診斷、實益達、江鹽集團、優德精密、太極實業等5家A股公司披露擬減持情況。"
+    },
+    {
+      "id": "4984989",
+      "time": "2026-07-13 21:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將META <META.O>目標價從865美元下調至766美元。"
+    },
+    {
+      "id": "mkt:019f5bc3-2a62-7aab-8d5c-fdeb2bb7efda",
+      "time": "2026-07-13 21:55:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "UBS cuts PT for ALPHABET (GOOG.O) to $400 from $410."
+    },
+    {
+      "id": "mkt:019f5bc2-d4ad-7aab-8d5c-f301d516f2da",
+      "time": "2026-07-13 21:55:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "UBS cuts price target for Meta Platforms (META.O) to $766 from $865."
+    },
+    {
+      "id": "4984988",
+      "time": "2026-07-13 21:54:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團將英特爾目標價從83美元上調至121美元。"
+    },
     {
       "id": "4984987",
       "time": "2026-07-13 21:54:12",
