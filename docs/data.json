@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-14 04:35:42",
+  "updated": "2026-07-14 04:39:43",
   "count": 17217,
   "items": [
+    {
+      "id": "4985353",
+      "time": "2026-07-14 04:36:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：疑似伊朗深層地下核設施的“鎬頭山”有可能成為軍事打擊目標。"
+    },
+    {
+      "id": "4985352",
+      "time": "2026-07-14 04:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美已故參議員格雷厄姆的妹妹獲任命接替其剩餘任期】當地時間7月13日，美國南卡羅來納州州長亨利·麥克馬斯特宣佈，已故共和黨籍聯邦參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆·諾多內將完成格雷厄姆剩餘任期。參議員林賽·格雷厄姆與他的妹妹達琳·格雷厄姆·諾多內 資料圖諾多內將任職至2027年1月3日，除非她決定參加今年11月的選舉並贏得這一參議院席位。格雷厄姆去世時正在競選連任。南卡羅來納州將於下月舉行特別選舉，以決定由誰接替他成為共和黨在11月選舉中的候選人。（央視新聞）"
+    },
     {
       "id": "te:markets:566507",
       "time": "2026-07-14 04:35:04",
@@ -157425,26 +157442,6 @@
         "MKT News"
       ],
       "text": "Syrian President Shala said the government has signed energy-sector contracts to add about 5,000 MW of generation capacity and rebuild power plants, and is drafting plans to rebuild and modernize state institutions."
-    },
-    {
-      "id": "te:markets:564570",
-      "time": "2026-07-07 04:39:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazil Stocks Slide Ahead of US Trade Hearing — The Ibovespa fell 0.9% to close at 172,447 on Monday as investors awaited a public hearing in Washington on the US trade investigation into Brazil, which could lead to additional tariffs on Brazilian exports. The hearing will consider a proposed 25% tariff after the USTR identified what it described as \"unreasonable\" trade practices. Exporters led the declines, with Vale down 1.3%, Petrobras losing 1.3%, and Minerva slipping 0.8%. Petrobras was also pressured by lower oil prices after OPEC+ agreed to raise output targets from August and shipping through the Strait of Hormuz continued to normalize. Elsewhere, Ambev dropped 2.5% on concerns that third-quarter sales in Latin America could miss expectations after Brazil and Mexico were eliminated from the FIFA World Cup."
-    },
-    {
-      "id": "4973010",
-      "time": "2026-07-07 04:38:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）將於7月17日前確認提醒板（Alert Board）的處理方式。"
     }
   ]
 }
