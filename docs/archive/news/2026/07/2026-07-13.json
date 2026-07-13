@@ -1,7 +1,88 @@
 {
   "date": "2026-07-13",
-  "count": 2501,
+  "count": 2510,
   "items": [
+    {
+      "id": "4984987",
+      "time": "2026-07-13 21:54:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調ALPHABET INC <GOOGL.O>目標價至400美元，此前為410美元。"
+    },
+    {
+      "id": "4984986",
+      "time": "2026-07-13 21:53:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將西部資料公司<WDC.O>目標價從375美元上調至560美元。"
+    },
+    {
+      "id": "4984985",
+      "time": "2026-07-13 21:52:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞博生物：於公開市場購回18.66萬股H股，總代價為930.12萬港元】瑞博生物公告，董事會宣佈，根據股份購回授權，公司於2026年7月13日在公開市場購回合共18.66萬股H股，總代價為930.12萬港元。所有該等購回的H股均作為庫存股份持有。"
+    },
+    {
+      "id": "mkt:019f5bbf-bc73-7aab-8d5c-ecc15955e6ff",
+      "time": "2026-07-13 21:51:59",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "UBS raised its PT on Intel (INTC.O) to $121 from $83."
+    },
+    {
+      "id": "4984984",
+      "time": "2026-07-13 21:51:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：派拉蒙與華納兄弟探索公司(WBD.O)合併預計將面臨多個州的訴訟。"
+    },
+    {
+      "id": "mkt:019f5bbf-81fc-7aab-8d5c-e07bb6f44099",
+      "time": "2026-07-13 21:51:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq Composite losses widened to 1%."
+    },
+    {
+      "id": "mkt:019f5bbf-44b4-7aab-8d5c-de70c6d0dffd",
+      "time": "2026-07-13 21:51:29",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "Sources say Paramount's proposed merger with Warner Bros. Discovery (WBD.O) is expected to face lawsuits in multiple states."
+    },
+    {
+      "id": "4984983",
+      "time": "2026-07-13 21:51:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.01%，現報26015.927點；道指漲0.16%，現報52723.691點；標普500指數跌0.32%，現報7551.140點。"
+    },
+    {
+      "id": "4984982",
+      "time": "2026-07-13 21:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將艾伯維目標價從230美元上調至260美元。"
+    },
     {
       "id": "mkt:019f5bbe-776e-7aab-8d5c-d1a52ec336f7",
       "time": "2026-07-13 21:50:36",
