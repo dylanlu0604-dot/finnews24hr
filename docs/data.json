@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-13 10:28:21",
-  "count": 16751,
+  "updated": "2026-07-13 10:32:23",
+  "count": 16732,
   "items": [
+    {
+      "id": "4983490",
+      "time": "2026-07-13 10:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌1.1%，至67786.86點；東證指數早盤收盤下跌0.2%，至4027.82點。"
+    },
+    {
+      "id": "4983489",
+      "time": "2026-07-13 10:29:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【沐曦股份漲超12%創歷史新高 總市值突破4000億】科創算力晶片概念股沐曦股份擴大漲幅至12%，總市值突破4000億元，較其發行價累計上漲超870%。"
+    },
+    {
+      "id": "mkt:019f594e-562d-7aab-8d4b-d063ed980416",
+      "time": "2026-07-13 10:28:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Muxi Co. shares hit an intraday record high, trading up 10.63% at 1,006 yuan, with a market capitalization of 395.33 bln yuan."
+    },
+    {
+      "id": "4983488",
+      "time": "2026-07-13 10:27:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗襲擊巴林約旦科威特美軍目標】當地時間7月13日凌晨，伊朗伊斯蘭革命衛隊發宣告稱，革命衛隊海軍部隊7月12日晚阻攔了兩艘違規船隻——這兩艘船隻關閉應答裝置並沿非法路線航行，危及了霍爾木茲海峽的航運。而美國再次透過襲擊伊朗沿海的軍事基地，暴露了其野蠻本性。 革命衛隊宣告稱，作為對這些侵略的回應，伊朗在第一階段透過導彈和無人機襲擊，“點燃了位於約旦的哈桑王子空軍基地多個大型導彈庫和燃料庫”。伊朗的報復行動仍在繼續。（CCTV國際時訊）"
+    },
     {
       "id": "4983487",
       "time": "2026-07-13 10:27:14",
@@ -152502,229 +152536,6 @@
         "國際"
       ],
       "text": "【投行：馬來西亞股市第三季度料將橫盤整理】Kenanga Investment Bank分析師Peter Kong及其團隊在一份報告中表示，隨著經濟增長在經歷了上半年的強勁擴張後有所放緩，馬來西亞基準吉隆坡綜合指數預計將在第三季度橫盤整理。他們預計，在更強的股息可見度和政府有針對性的財政援助的支援下，投資者將輪動至銀行業和消費類股。得益於政府的市場改革舉措和擴張性的2027年預算，他們還預計該股指將在今年晚些時候上漲。Kenanga維持其吉隆坡綜合指數2026年底1770點的目標位，看好銀行業、種植業、消費、可再生能源和建築板塊。吉隆坡綜合指數上漲0.3%，報1684.68點。"
-    },
-    {
-      "id": "4971451",
-      "time": "2026-07-06 10:32:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "4971450",
-      "time": "2026-07-06 10:31:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國IPO市場降溫，投資者湧向三星電子和SK海力士】韓國IPO市場在經歷上半年強勁表現後迅速降溫，新上市公司在上市後股價大幅下跌，因市場不確定性加劇及投資者情緒轉變。韓國交易所週日資料顯示，今年上市的18家公司中有14家目前股價低於發行價，科技和時尚領域的明星新股領跌。市場分析師認為，這源於IPO定價虛高、短期投機資金上市後快速出逃。儘管監管層近期加強了對機構投資者的鎖定期要求，但宏觀衝擊和供需失衡令新上市的中小盤股尤為脆弱。觀察人士指出，國內流動性仍高度集中於大盤人工智慧和半導體產業鏈股票，資金難以流向較新、尚不成熟的上市公司。韓國金融業目前寄望於下半年一批大型企業和高估值公司上市，以帶動市場復甦，同時新的雙重上市指引也已釋出。"
-    },
-    {
-      "id": "mkt:019f3544-7e2b-7aab-8ca9-0c9d25a99bc2",
-      "time": "2026-07-06 10:31:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "ChiNext Index fell 2.0%, Shenzhen Composite Index fell 1.2% and Shanghai Composite Index fell 0.55%; MicroLED, optical-fiber and PCB concept sectors led declines. More than 3,300 stocks fell across the market."
-    },
-    {
-      "id": "4971449",
-      "time": "2026-07-06 10:31:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.02%，現報3938.766點；上證指數跌0.55%，現報4021.569點；深證成指跌1.23%，現報15405.057點。"
-    },
-    {
-      "id": "4971448",
-      "time": "2026-07-06 10:31:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數早盤收跌 1.2%，報 68919.14 點。"
-    },
-    {
-      "id": "mkt:019f3544-059b-7aab-8ca9-04febbdbc290",
-      "time": "2026-07-06 10:31:18",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【Korean IPO market cools as investors flock to Samsung Electronics, SK Hynix】Korean IPO market has cooled sharply after a strong 1H. Korea Exchange said on Sunday 14 of 18 companies listed this year are trading below their issue price, with newly listed tech and fashion names leading declines. Analysts point to inflated IPO pricing and rapid exits by short-term speculative funds; regulators have recently tightened lock-up periods for institutional investors, but macro shocks and a supply-demand imbalance leave small- and mid-cap new listings especially vulnerable. Domestic liquidity is concentrated in large-cap AI and semiconductor-chain names including Samsung Electronics and SK Hynix, limiting capital flow to newer issuers. The financial industry is banking on a H2 pipeline of large, high-valuation listings to revive activity; new dual-listing guidelines have also been issued."
-    },
-    {
-      "id": "4971447",
-      "time": "2026-07-06 10:31:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數早盤收漲 0.2%，報 4071.77 點。"
-    },
-    {
-      "id": "4971446",
-      "time": "2026-07-06 10:30:36",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "韓國財政部發售三年期國債，收益率為3.765%。"
-    },
-    {
-      "id": "4971445",
-      "time": "2026-07-06 10:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股算力硬體股持續下挫，長飛光纖光纜跌超15%】港股算力硬體股持續下挫，長飛光纖光纜跌超15%，建滔積層板跌超10%，勝宏科技、兆易創新、劍橋科技紛紛下挫。"
-    },
-    {
-      "id": "mkt:019f3542-fe73-7aab-8ca8-f8c108ce985b",
-      "time": "2026-07-06 10:30:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "STAR 50 Index fell 2%, after earlier rising over 2% intraday."
-    },
-    {
-      "id": "4971444",
-      "time": "2026-07-06 10:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報8433.40點。"
-    },
-    {
-      "id": "4971443",
-      "time": "2026-07-06 10:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8276.20點。"
-    },
-    {
-      "id": "te:markets:564294",
-      "time": "2026-07-06 10:29:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Remains Near 3-Week High — European natural gas prices fell toward €45 per MWh but remained close to a three-week high amid persistent concerns over the sluggish pace of storage refilling. The region’s storage outlook remains tight, with inventories currently at around 48% of capacity, well below the 56% recorded during the same period last year and the five-year seasonal average of 61%. The relatively low inventory levels have reinforced concerns about the region’s ability to build adequate reserves ahead of winter. Also providing near-term support for prices, high temperatures across much of Europe accelerated gas-fired power generation to meet air-conditioning demand. Moreover, market participants noted that LNG deliveries to Europe have yet to increase sufficiently to ease regional supply constraints, despite a pickup in shipping activity through the Strait of Hormuz following progress in US-Iran diplomatic talks."
-    },
-    {
-      "id": "mkt:019f3542-b028-7aab-8ca8-f6d2c9abc328",
-      "time": "2026-07-06 10:29:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI extended intraday losses to 2.00%; SK Hynix fell 4.6% and Samsung Electronics was down 0.64%."
-    },
-    {
-      "id": "4971442",
-      "time": "2026-07-06 10:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國 3 年期企業債收益率上行 2 個基點，報 4.451%。"
-    },
-    {
-      "id": "mkt:019f3542-97f2-7aab-8ca8-e9bf38e162f1",
-      "time": "2026-07-06 10:29:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China A-share market extended losses: Shenzhen Composite Index down 1.00%, ChiNext Index down 1.76%, Shanghai Composite Index down 0.41%; more than 3,100 stocks declined."
-    },
-    {
-      "id": "4971441",
-      "time": "2026-07-06 10:29:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.00%，成分股中，晶合整合跌8.71%，格科微跌7.51%，生益電子跌6.11%，沐曦股份跌5.35%。"
-    },
-    {
-      "id": "4971440",
-      "time": "2026-07-06 10:29:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士勢將重新整理外國公司赴美上市規模紀錄 或改變股票折價局面】SK海力士本週的290億美元美國上市交易，或重新整理外國公司赴美募股的紀錄，但這不僅僅事關籌資規模，而且也關乎在AI所需記憶體晶片這個全球股市最熱板塊中的競爭。“現階段市場對晶片股的熱情極度高漲，”Synovus Trust Co.的高階投資組合經理Daniel Morgan表示。“這是去美國上市的好時機。”Synovus Trust持有美光的股票。SK海力士料將於7月10日登陸納斯達克，上述局面屆時將得到改變。目前，該公司基於未來12個月預期盈利的估值倍數約為6.2倍。美光在上週股價下挫14%後，相應市盈率約為7倍，但在6月22日時還超過了11倍。美光今年在標普500指數成份股漲幅榜上位居第二，累計上漲242%。“本次發行交易的目標投資者是目前缺乏進入韓國股市渠道的群體，”Thornburg Investment Management投資組合經理Di Zhou表示。“SK海力士在納斯達克上市，將讓投資者有機會直接、順暢地獲取最具吸引力的純AI記憶體週期概念股之一的敞口。”"
-    },
-    {
-      "id": "te:economy:564292",
-      "time": "2026-07-06 10:29:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10Y Yield Eases Ahead of FOMC Minutes — The yield on the US 10-year Treasury note eased to around 4.47% on Monday, giving back some of last week’s gains as investors cautiously awaited the minutes of the Federal Reserve’s June policy meeting for further clues on the interest rate outlook. Data released last week showed US nonfarm payrolls increased by just 57,000 in June, the smallest gain in four months and well below forecasts of 110,000, prompting traders to reduce bets on a September rate hike. Meanwhile, the unemployment rate unexpectedly edged down to 4.2%, largely due to a drop in the labor force participation rate to its lowest level since 2021. Oil prices also moved lower as recovering energy flows through the Strait of Hormuz and the prospect of higher OPEC+ output fueled concerns about a potential supply glut. That has helped ease inflationary pressures that had previously reinforced expectations of further rate hikes."
-    },
-    {
-      "id": "mkt:019f3541-bcec-7aab-8ca8-e759f4411a1d",
-      "time": "2026-07-06 10:28:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea's Lee orders fast-track for major chip and AI projects, demands pre-secured power and water】South Korea's Lee on Monday instructed officials to rapidly advance last week's major chip and AI projects, warning that delays in permitting, land acquisition or securing power and water could undermine the country's push to lead advanced industries. He ordered a shift from sequential to parallel processing of approvals, demanded shorter environmental assessments and other permit timelines, and required pre-provisioning of electricity and water infrastructure, saying power will be especially critical for chip plants. Lee cited the Yongin industrial park—which took six years from site confirmation to groundbreaking—as a relative speed benchmark and told officials to resolve firms' concerns about baseload supply despite expanding renewable capacity."
-    },
-    {
-      "id": "4971439",
-      "time": "2026-07-06 10:28:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌幅擴大至2%，SK海力士跌超4%。"
-    },
-    {
-      "id": "4971438",
-      "time": "2026-07-06 10:28:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.00%，現報15441.025點；上證指數跌0.36%，現報4029.055點；創業板指跌1.70%，現報3951.739點。"
-    },
-    {
-      "id": "mkt:019f3541-8ad9-7aab-8ca8-dbc9dea55b30",
-      "time": "2026-07-06 10:28:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Flood Control and Drought Relief Headquarters activates level-4 flood emergency for Anhui, Shandong】The National Flood Control and Drought Relief Headquarters activated a level-4 flood emergency for Anhui and Shandong at 08:00 on July 6, citing meteorological forecasts for heavy rain from July 6–7. Forecast: parts of central-northern Anhui and central-southern Shandong will receive heavy rain; northern Anhui and southern Shandong may see torrential downpours and short-duration intense rainfall, with peak hourly rates of 30–60 mm and local maxima above 90 mm."
     }
   ]
 }
