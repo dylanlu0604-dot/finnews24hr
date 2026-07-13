@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-13 13:08:46",
-  "count": 16758,
+  "updated": "2026-07-13 13:12:49",
+  "count": 16754,
   "items": [
+    {
+      "id": "mkt:019f59e2-497b-7aab-8d4f-078ab2fef5e2",
+      "time": "2026-07-13 13:10:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "005930.KS",
+        "Impact bullish",
+        "TSLA.O"
+      ],
+      "text": "【Samsung begins preparations to manufacture Tesla AI5 chip】South Korean media, citing industry sources, said on Monday Samsung Electronics has begun preparing to manufacture Tesla's next-generation AI chip, AI5. A Samsung executive posted on LinkedIn that AI5 has completed tape-out, indicating the chip's final design is done ahead of mass production. AI5 is a Tesla-designed processor intended to power Full Self-Driving (FSD), the Optimus humanoid robot and Tesla AI data centers."
+    },
+    {
+      "id": "4983693",
+      "time": "2026-07-13 13:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國首個禁售燃油車省份確認：海南】近日，海南省人民政府對外發布《“十五五”海南國家生態文明試驗區規劃（美麗海南建設“十五五”規劃）》（簡稱《規劃》）提出，平穩推進2030年禁售燃油車，預計屆時海南新能源汽車保有量佔比從2025年的23.75%提升至45%。這意味著海南將成為中國第一個不再賣燃油車的省份。（中新網）"
+    },
+    {
+      "id": "4983692",
+      "time": "2026-07-13 13:09:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫能科成立鑫算產投合夥企業】企查查APP顯示，近日，蘇州鑫算產業投資合夥企業（有限合夥）成立，出資額1億元，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動；企業管理諮詢；財務諮詢。企查查股權穿透顯示，該合夥企業由協鑫能科旗下協鑫智慧能源（蘇州）有限公司及寧波梅山保稅港區鑫能股權投資基金管理有限公司共同持股。"
+    },
+    {
+      "id": "4983691",
+      "time": "2026-07-13 13:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統李在明：將引導政府支援晶片、人工智慧資料中心和物理人工智慧三大超級專案】韓國總統李在明表示，預計晶片稅收將帶來前所未有的額外收入。將引導政府支援晶片、人工智慧資料中心和物理人工智慧三大超級專案。"
+    },
+    {
+      "id": "4983690",
+      "time": "2026-07-13 13:09:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安潔科技：公司全資子公司持有安捷利美維6%股權】安潔科技在互動平臺表示，截至目前，公司全資子公司持有安捷利美維6%股權，公司將與安捷利美維深化產業合作。"
+    },
+    {
+      "id": "4983689",
+      "time": "2026-07-13 13:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "北歐銀行將諾基亞目標股價從每股15.7歐元下調至14.8歐元。"
+    },
     {
       "id": "mkt:019f59df-3a29-7aab-8d4e-f84b0d951357",
       "time": "2026-07-13 13:07:09",
@@ -152811,102 +152867,6 @@
         "其他"
       ],
       "text": "【華為Mate90系列有望搭載基於韜定律的新麒麟晶片】從知情人士處獲悉，將於今年秋季釋出的華為Mate90系列，計劃搭載基於韜定律的新麒麟晶片。華為於今年5月發表了指導半導體產業發展的新原則——韜(τ)定律，其目標是以系統性降低時間常數τ為核心，透過邏輯摺疊等技術，持續壓縮晶片內部的訊號傳播時延，從而不斷提升電晶體密度，實現半導體與電子系統的持續演進。而將於2026年秋季面世的麒麟晶片，率先採用了邏輯摺疊技術，效能大幅提升。"
-    },
-    {
-      "id": "mkt:019f35d7-30f5-7aab-8cab-ae9e32ba4ee6",
-      "time": "2026-07-06 13:12:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000333.SZ",
-        "Impact bullish",
-        "000651.SZ",
-        "WHR.O"
-      ],
-      "text": "China A-share white-goods sector posted patchy gains; Xingshuai'er hit its daily limit-up, while Changhong Meiling, Midea Group, Kangsheng, Whirlpool and Gree Electric Appliances also rose."
-    },
-    {
-      "id": "4971673",
-      "time": "2026-07-06 13:11:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【白色家電板塊區域性震盪走高，星帥爾觸及漲停】白色家電板塊區域性震盪走高，星帥爾觸及漲停，長虹美菱、美的集團、康盛股份、惠而浦、格力電器跟漲。"
-    },
-    {
-      "id": "4971672",
-      "time": "2026-07-06 13:11:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【檢驗檢測機構超5300家 一組資料看我國特種裝置“硬實力”】記者今天瞭解到，市場監管總局指導，中國特種裝置檢測研究院編制的《特種裝置檢驗檢測行業發展藍皮書（2021—2025）》近日釋出。特種裝置包括鍋爐、壓力容器（含氣瓶）、壓力管道、電梯、起重機械、客運索道、大型遊樂設施和場（廠）內專用機動車輛等八大類裝置。截至2025年年底，全國特種裝置總量達2441.69萬臺，比2024年底上升6.43%，另有氣瓶3.15億隻、壓力管道129.46萬公里（在冊）。電梯以1231.59萬臺佔據特種裝置總量的50.4%，成為推動總量增長的首要因素。場（廠）內專用機動車輛達254.24萬臺。我國已成為特種裝置世界第一生產大國和使用大國。資料顯示，全國特種裝置檢驗檢測機構從2021年的4585家增長至2025年的5341家，年均增長率為4.8%。從業人員約20.45萬人，其中檢驗人員持證12.73萬張，從業人員數量趨於穩定。《特種裝置檢驗檢測行業發展藍皮書（2021—2025）》研判，未來特種裝置檢驗技術層面，正從人工經驗轉向智慧裝備與資料驅動，機器人、大資料、人工智慧及新無損檢測技術加速應用，推動行業正規化重塑。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f35d6-3d0e-7aab-8cab-a6508559067a",
-      "time": "2026-07-06 13:11:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "【SMBC Nikko: Japan output gap stays positive, could support further BOJ hikes】SMBC Nikko Securities economist Maruyama said BOJ Q1 output gap estimates show a sustained positive trend, supporting higher inflation and providing a rationale for further rate hikes. He added the positive gap has not widened, so there is no immediate need to accelerate tightening; any faster or larger hikes would likely stem from a delayed but material pass-through of Middle East-related inflation or from rising inflation expectations."
-    },
-    {
-      "id": "4971671",
-      "time": "2026-07-06 13:10:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西南寧橫州市六藍水庫發生嚴重險情 】記者6日從廣西南寧市相關部門獲悉，南寧橫州市六藍水庫6日上午發生嚴重險情，壩體出現缺口。 據瞭解，六藍水庫為當地中型水庫。當前，當地應急、消防、水利等相關部門正開展搶險救援、群眾轉移工作。 （新華社）"
-    },
-    {
-      "id": "4971670",
-      "time": "2026-07-06 13:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重磅！周小全任上海市國資委主任】7月6日訊息，金融一線從“上海國資”獲悉，當日上午，市國資委召開系統幹部大會，市委常委、組織部部長張為出席會議並講話，市委組織部副部長周虎主持會議並宣讀市委有關決定。會議宣佈了市委關於市國資委主要領導調整的決定：周小全同志任中共上海市國有資產監督管理委員會委員會書記，批准其任上海市國有資產監督管理委員會主任。（金融一線）"
-    },
-    {
-      "id": "4971669",
-      "time": "2026-07-06 13:09:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西橫州應急局回應“六藍水庫發生險情”：不是坍塌，正緊急處理】7月6日，多位網友釋出影片反映，廣西南寧橫州市六藍水庫“疑似發生坍塌”，影片顯示，大壩一段出現缺口，水流奔湧洩下。廣西橫州市應急管理局應急指揮中心回應，非水庫坍塌，正緊急處理。（澎湃）"
-    },
-    {
-      "id": "4971668",
-      "time": "2026-07-06 13:09:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "午後EDA概念持續走高，華大九天逼近20cm漲停，此前概倫電子20cm漲停，廣立微、安路科技、申通地鐵跟漲。"
-    },
-    {
-      "id": "4971667",
-      "time": "2026-07-06 13:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "律師稱菲律賓副總統薩拉·杜特爾特將缺席彈劾審判。"
-    },
-    {
-      "id": "mkt:019f35d4-6318-7aab-8cab-9e1a6201f54f",
-      "time": "2026-07-06 13:08:59",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share property sector showed pockets of strength; Jingneng Real Estate hit the daily limit, Wantong Development had earlier been limit-up, and Shoukai Co., Zhongzhou Holdings, Shanghai Lingang, China World Trade and Yangguang Co. also rose."
     }
   ]
 }
