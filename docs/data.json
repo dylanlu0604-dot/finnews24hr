@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-13 10:20:22",
-  "count": 16739,
+  "updated": "2026-07-13 10:24:19",
+  "count": 16744,
   "items": [
+    {
+      "id": "mkt:019f5949-7d42-7aab-8d4b-ade79af9f2c4",
+      "time": "2026-07-13 10:23:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps said the strike was a first-stage response to a US attack on Iran's coastal bases."
+    },
+    {
+      "id": "mkt:019f5949-22a3-7aab-8d4b-a14af9cdf81a",
+      "time": "2026-07-13 10:23:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it struck Jordan's Prince Hassan Airbase with missiles and drones, igniting fuel tanks and ammunition depots."
+    },
+    {
+      "id": "mkt:019f5949-1078-7aab-8d4b-9de5acbcac86",
+      "time": "2026-07-13 10:23:08",
+      "tags": [
+        "MKT News",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "Semiconductor Manufacturing International Corp (00981.HK) shares extended gains to 5%."
+    },
+    {
+      "id": "te:markets:566197",
+      "time": "2026-07-13 10:22:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Decline Further — US natural gas prices dropped further to $2.90 per MMBtu, the lowest in seven weeks, amid a milder weather outlook, expectations of reduced gas flows to LNG export facilities, and comfortable supply conditions. Forecasts shifted toward cooler temperatures in the coming weeks, likely curbing demand for gas-fired power generation as air-conditioning usage declines. Additionally, Freeport LNG announced that scheduled maintenance at its pre-treatment and liquefaction facilities would begin on July 10 and continue through late August, temporarily lowering feedgas demand. Moreover, the latest EIA weekly report showed that domestic gas inventories were 6.6% above the five-year average as of July 3, highlighting a well-supplied market."
+    },
+    {
+      "id": "mkt:019f5948-7933-7aab-8d4b-92e106345f8e",
+      "time": "2026-07-13 10:22:29",
+      "tags": [
+        "MKT News",
+        "603986.SS",
+        "Impact bearish"
+      ],
+      "text": "On China A-share market, Zhaoyi Innovation recorded turnover of 20 bln yuan; shares are down 7.14%."
+    },
+    {
+      "id": "4983479",
+      "time": "2026-07-13 10:22:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊稱，使用導彈和無人機擊中約旦哈桑王子空軍基地，導致該基地的燃料儲罐和彈藥庫起火。此次打擊是對美國襲擊伊朗沿海基地回應的第一階段。"
+    },
+    {
+      "id": "mkt:019f5948-4675-7aab-8d4b-8ffceef97aa8",
+      "time": "2026-07-13 10:22:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share computing-power chip sector rose amid volatile trading; Muxi Co. jumped nearly 10%, while Cambricon, Wantong Development, China's CPU maker Haiguang and Moore Threads also advanced."
+    },
+    {
+      "id": "4983478",
+      "time": "2026-07-13 10:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額達200億元，現跌7.14%。"
+    },
+    {
+      "id": "4983477",
+      "time": "2026-07-13 10:20:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力晶片概念震盪拉昇 沐曦股份漲近10%】算力晶片概念震盪拉昇，沐曦股份漲近10%，寒武紀、萬通發展、海光資訊、摩爾執行緒跟漲。"
+    },
+    {
+      "id": "4983476",
+      "time": "2026-07-13 10:20:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧全省轉移17萬餘人 多地停課停業停工】7月12日，遼寧省防汛抗旱指揮部辦公室通報，受降雨影響，遼河、渾河、太子河、蒲河等河流出現明顯漲水過程。應對本輪降雨，截至13日6時，全省共轉移171412人。各地全力應戰，瀋陽、撫順、錦州、鐵嶺、盤錦等多地13日停課、停業、停工。（遼寧釋出）"
+    },
+    {
+      "id": "mkt:019f5946-85af-7aab-8d4b-81b17e850a1b",
+      "time": "2026-07-13 10:20:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600685.SS",
+        "Impact bearish"
+      ],
+      "text": "China shipbuilding-related A-shares slid; Jiuzhiyang fell over 10%, with Zhongchuan Defense, China Shipbuilding and China Shipbuilding Technology among the largest decliners."
+    },
     {
       "id": "4983475",
       "time": "2026-07-13 10:19:15",
@@ -152541,62 +152652,6 @@
         "Impact bullish"
       ],
       "text": "【Weak commodities, import surge could push Australia into annual trade deficit】Weakening commodity prices and a surge in imports tied to data-centre construction have narrowed Australia’s goods trade surplus and could produce the first annual trade deficit since 2016. Fuel and equipment imports have jumped while exports have stalled; the government forecasts major commodity export receipts will rise only 3% in the current fiscal year. After years of mining-driven export gains, softer commodity prices are expected to weigh on export income. A return to deficit would likely pressure the AUD and tighten fiscal space."
-    },
-    {
-      "id": "4971433",
-      "time": "2026-07-06 10:23:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光學光電子板塊震盪走弱，華體科技跌停】光學光電子板塊震盪走弱，華體科技跌停，彩虹股份、萊寶高科、奧比中光-W、民爆光電、沃格光電、乾照光電等跟跌。"
-    },
-    {
-      "id": "4971432",
-      "time": "2026-07-06 10:23:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯想創投、晶泰控股入股植髮機器人公司磅策醫療】 企查查APP顯示，近日，原磅客策（上海）智慧醫療科技有限公司發生工商變更，企業名稱變更為磅策（上海）醫療科技有限公司，新增晶泰控股、安徽省聯想強鏈補鏈創業投資基金合夥企業（有限合夥）等為股東，公司註冊資本增至4499.9萬元。企查查資訊顯示，該公司成立於2019年，經營範圍包含：人工智慧硬體銷售；人工智慧應用軟體開發；物聯網技術研發；計算機軟硬體及輔助裝置批發等。公開資訊顯示，其為AI植髮手術機器人公司。"
-    },
-    {
-      "id": "4971431",
-      "time": "2026-07-06 10:22:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊控股漲超4%。"
-    },
-    {
-      "id": "4971430",
-      "time": "2026-07-06 10:21:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於當地時間週三下午 3 點 30 分在土耳其會見敘利亞總統。"
-    },
-    {
-      "id": "4971429",
-      "time": "2026-07-06 10:21:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.03%，成分股中，晶合整合跌6.63%，格科微跌6.47%，生益電子跌5.70%，沐曦股份跌4.79%。"
-    },
-    {
-      "id": "mkt:019f353a-2bdb-7aab-8ca8-c863e0c1c8d4",
-      "time": "2026-07-06 10:20:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "ChiNext Index fell 1% after earlier rising more than 1%; Shenzhen Composite Index down 0.62% and Shanghai Composite Index down 0.14%. PCB sector slid amid volatility."
     }
   ]
 }
