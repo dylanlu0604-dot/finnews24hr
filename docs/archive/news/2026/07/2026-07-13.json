@@ -1,7 +1,73 @@
 {
   "date": "2026-07-13",
-  "count": 589,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:019f592f-747c-7aab-8d4a-c68d5745290a",
+      "time": "2026-07-13 09:55:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran launches large-scale strike on U.S. military targets in Gulf】Early hours of July 13 local time, Bahrain again sounded air‑defence alerts. Iranian media reported drones and missiles were launched from multiple locations inside Iran in a large retaliatory strike against U.S. military targets in the Gulf, reportedly aimed at positions identified after U.S. military movements over the past 48 hours."
+    },
+    {
+      "id": "4983431",
+      "time": "2026-07-13 09:54:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗大規模襲擊地區美軍目標】當地時間今天（7月13日）凌晨，巴林再次拉響防空警報。據伊朗媒體報道，伊朗境內不同地區發射無人機和導彈對美國在海灣地區的軍事目標發動大規模報復性襲擊——襲擊針對的是在過去48小時內，美方最新軍事調動後被識別出的目標。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f592f-103f-7aab-8d4a-bcfdb5611041",
+      "time": "2026-07-13 09:54:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share biologics sector slid intraday; Oulin Bio fell more than 8%, while Wanze Co., Sihuan Biotech, Jindik and Shenzhou Cell also traded lower."
+    },
+    {
+      "id": "4983430",
+      "time": "2026-07-13 09:54:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "生物製品板塊短線走低，歐林生物跌超8%，萬澤股份、四環生物、金迪克、神州細胞等跟跌。"
+    },
+    {
+      "id": "mkt:019f592e-3bd0-7aab-8d4a-b108e9993550",
+      "time": "2026-07-13 09:53:49",
+      "tags": [
+        "MKT News",
+        "02715.HK",
+        "Impact bearish",
+        "02238.HK",
+        "06600.HK"
+      ],
+      "text": "Hong Kong-listed robotics stocks were mostly weaker: Estun Automation (02715.HK) fell 8.96%, GAC Group (02238.HK) dropped 5.02%, Woan Robot (06600.HK) declined 3.31%."
+    },
+    {
+      "id": "mkt:019f592d-7cbe-7aab-8d4a-a9e6bfe4cd41",
+      "time": "2026-07-13 09:53:00",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China Index Academy: 1H 2026 judicial auction market volume up, prices down; structural divergence】China Index Academy's CIBuddy Jan–Jun 2026 National Judicial Auction Market Monitor: the court-ordered property auction market saw higher volume but lower prices and growing structural divergence in 1H. Transactions rose to about 103,000 units, up 29.8% YoY; transaction value increased to RMB151.5 bln, up 17.6% YoY. Average price for judicially auctioned residential properties fell to about 8,165 yuan/sq m YoY, reflecting price-for-volume concessions. Residentials made up roughly 71% of units and 53% of value. Commercial auctions remained weak, with a clearance rate of just 15.6%, indicating significant market disposal pressure."
+    },
     {
       "id": "mkt:019f592c-7200-7aab-8d4a-a3eda5c2759b",
       "time": "2026-07-13 09:51:52",
