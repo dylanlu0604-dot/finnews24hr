@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-14 01:02:46",
-  "count": 17123,
+  "updated": "2026-07-14 01:06:51",
+  "count": 17121,
   "items": [
+    {
+      "id": "mkt:019f5c71-3cc9-7aab-8d61-1f42d91ef09e",
+      "time": "2026-07-14 01:05:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Waller: If inflation data rises again, I would treat it as a trend signal rather than short-term noise."
+    },
+    {
+      "id": "4985201",
+      "time": "2026-07-14 01:05:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 如果通脹資料再度走高，我會將其視作趨勢訊號，而非短期雜音。"
+    },
+    {
+      "id": "mkt:019f5c6f-f4c0-7aab-8d61-14c5ba658fe2",
+      "time": "2026-07-14 01:04:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "All flights at Saudi Arabia's Abha airport have been fully suspended following an attack originating from Yemen."
+    },
+    {
+      "id": "mkt:019f5c6f-624e-7aab-8d61-082c92714da1",
+      "time": "2026-07-14 01:03:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor WALLER said it is unclear whether monetary policy can effectively address demand driven by artificial intelligence."
+    },
+    {
+      "id": "4985200",
+      "time": "2026-07-14 01:03:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 尚不清楚寬鬆貨幣政策該如何應對人工智慧相關需求。"
+    },
+    {
+      "id": "te:markets:566489",
+      "time": "2026-07-14 01:02:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall Further — US stock indices fell further on Monday amid weakness for chip producers and a deteriorating macroeconomic backdrop. The S&P 500 fell 0.6%, the Nasdaq 100 lost 2% and the Dow dropped over 150 points. Chip producers sank on persistent concerns that AI hyperscalers will be forced to ease spending on AI infrastructure. SK Hynix ADRs were 8% down after surging 13% on its issue on Friday as a Korean broker stated it could miss its next earnings. Nvidia, AMD, and Intel fell over 3% while memory producers Sandisk and Micron lost 5% and 12%, respectively. Equities in other sectors fell together with US Treasuries after President Trump said the US would reinstate the blockade of Iranian ships in the Strait of Hormuz, escalating the conflict and risking more inflationary energy shortages. Major banks were mostly lower ahead of their earnings whit week, with both JPMorgan and Bank of America dropping 0.5%, while Citi fell 1.5%."
+    },
     {
       "id": "mkt:019f5c6c-d9b7-7aab-8d61-0729fab2bf09",
       "time": "2026-07-14 01:01:05",
@@ -156337,74 +156404,6 @@
         "國際"
       ],
       "text": "市場資訊：中國超越美國，成為全球金融科技專利申請第一大國。"
-    },
-    {
-      "id": "mkt:019f3863-1b9b-7aab-8cba-1f35e436d0ac",
-      "time": "2026-07-07 01:04:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor said failure by the government to comply with Supreme Court rulings could lead to economic uncertainty."
-    },
-    {
-      "id": "mkt:019f3862-f3dc-7aab-8cba-1718d48f5060",
-      "time": "2026-07-07 01:03:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor said geopolitical uncertainty and potential fiscal easing warrant caution and could raise inflationary pressures."
-    },
-    {
-      "id": "mkt:019f3862-acb7-7aab-8cba-083dd939b282",
-      "time": "2026-07-07 01:03:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor said a policy rate of 3% would help keep inflation around 2%."
-    },
-    {
-      "id": "mkt:019f3862-8dcf-7aab-8cba-00b229450032",
-      "time": "2026-07-07 01:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor said interest rates can continue to decline so long as the inf environment does not change unexpectedly."
-    },
-    {
-      "id": "4972924",
-      "time": "2026-07-07 01:03:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長：利率達到3%將有助於使通脹率保持在2%左右。"
-    },
-    {
-      "id": "4972923",
-      "time": "2026-07-07 01:03:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長：由於地緣政治不確定性和可能更寬鬆的財政政策可能導致通脹壓力，我們仍須謹慎行事。"
-    },
-    {
-      "id": "4972922",
-      "time": "2026-07-07 01:03:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長：如果政府不遵守最高法院的裁決，可能會造成經濟不確定性。"
-    },
-    {
-      "id": "4972921",
-      "time": "2026-07-07 01:03:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長：只要通脹環境沒有意外變化，利率就可以繼續下降。"
     }
   ]
 }
