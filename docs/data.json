@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-14 00:38:26",
-  "count": 17107,
+  "updated": "2026-07-14 00:42:28",
+  "count": 17108,
   "items": [
+    {
+      "id": "4985180",
+      "time": "2026-07-14 00:41:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊衝突持續 船舶戰爭險費率再次上漲】美以伊衝突爆發後，戰爭險費率成為對霍爾木茲海峽安全形勢最敏感的市場指標之一。衝突前，船體戰爭險保費通常僅佔船舶本身價值的0.25%左右。隨著軍事衝突升級、霍爾木茲海峽安全風險驟增，戰爭險費率迅速飆升，最高一度達到船舶價值的約10%。6月美伊達成諒解備忘錄後，局勢一度趨緩。據保險經紀商訊息，戰爭險費率一度降至2%左右。然而，7月8日美軍以“商船遭襲”為由襲擊伊朗，伊朗回擊以來，保險費率再次上漲。綜合多家國際保險經紀機構資訊，目前，船體戰爭險費率已升至船舶價值的約5%。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5c5a-e597-7aab-8d60-84007bb3e9aa",
+      "time": "2026-07-14 00:41:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Markets now price a 50% chance of a Fed rate hike this month."
+    },
+    {
+      "id": "mkt:019f5c59-db78-7aab-8d60-7ae04d5d4d24",
+      "time": "2026-07-14 00:40:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US short-term interest rate futures imply about a 45% chance of a Fed rate hike in July, up from roughly 35% earlier on Monday."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143804285570",
+      "time": "2026-07-14 00:37:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲理事沃勒表示，如果核心通脹繼續走低仍屬合理情形，將繼續支援維持利率不變。"
+    },
     {
       "id": "4985179",
       "time": "2026-07-14 00:37:14",
@@ -156179,33 +156228,6 @@
         "Importance 1"
       ],
       "text": "Intuitive Surgical Stock Price Hits 5-week High — Intuitive Surgical shares increased to 430.87 USD, the highest since May 2026. Over the past 4 weeks, Intuitive Surgical gained 2.87%, and in the last 12 months, it decreased 19.47%."
-    },
-    {
-      "id": "mkt:019f384d-4913-7aab-8cb9-b442ba802a4e",
-      "time": "2026-07-07 00:40:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says it killed Hamas military training commander】The Israel Defense Forces said an airstrike in northern Gaza late on the 5th into the early hours of the 6th killed Fadi Farah Ashour Dagmaish, a commander in the Palestinian Islamic Resistance Movement (Hamas) responsible for its military training wing. The IDF said he oversaw multiple training programs, including pre-October 7, 2023 training of Hamas’s Nukhba elite units, and had helped direct operations against Israeli forces in Gaza. Hamas had no immediate comment."
-    },
-    {
-      "id": "te:markets:564557",
-      "time": "2026-07-07 00:40:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Futures Edge Up — Cotton futures rose to around 78 cents per pound, as adverse weather conditions in key regions supported higher prices. As of July 1, 97% of the U.S. cotton crop had been planted, although a record-breaking heat dome across the eastern U.S. raised concerns over crop conditions. India is likely to see below average monsoon rainfall after recording its fifth driest June since 1901 causing planting lags. Meanwhile, Brazil's cotton exports remained strong, up 10.6% compared to a year earlier. Prices are expected to stay between 75-80 cents in the near-term, according to the U.S. Department of Agriculture's weakly export sales report, despite showing weaker demand for U.S. cotton. The US plans to impose tariffs on countries violating forced labor regulations, although it allows countries to avoid these new tariffs if they increase the use of US-origin inputs. India has waived duty on cotton imports until October, although a decision beyond October is still pending."
-    },
-    {
-      "id": "mkt:019f384c-2bf1-7aab-8cb9-ade17c0da2d9",
-      "time": "2026-07-07 00:39:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: World Economic Forum founder Klaus Schwab reported discovering covert listening devices in his home."
     }
   ]
 }

@@ -1,7 +1,56 @@
 {
   "date": "2026-07-14",
-  "count": 77,
+  "count": 81,
   "items": [
+    {
+      "id": "4985180",
+      "time": "2026-07-14 00:41:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊衝突持續 船舶戰爭險費率再次上漲】美以伊衝突爆發後，戰爭險費率成為對霍爾木茲海峽安全形勢最敏感的市場指標之一。衝突前，船體戰爭險保費通常僅佔船舶本身價值的0.25%左右。隨著軍事衝突升級、霍爾木茲海峽安全風險驟增，戰爭險費率迅速飆升，最高一度達到船舶價值的約10%。6月美伊達成諒解備忘錄後，局勢一度趨緩。據保險經紀商訊息，戰爭險費率一度降至2%左右。然而，7月8日美軍以“商船遭襲”為由襲擊伊朗，伊朗回擊以來，保險費率再次上漲。綜合多家國際保險經紀機構資訊，目前，船體戰爭險費率已升至船舶價值的約5%。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5c5a-e597-7aab-8d60-84007bb3e9aa",
+      "time": "2026-07-14 00:41:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Markets now price a 50% chance of a Fed rate hike this month."
+    },
+    {
+      "id": "mkt:019f5c59-db78-7aab-8d60-7ae04d5d4d24",
+      "time": "2026-07-14 00:40:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US short-term interest rate futures imply about a 45% chance of a Fed rate hike in July, up from roughly 35% earlier on Monday."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143804285570",
+      "time": "2026-07-14 00:37:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲理事沃勒表示，如果核心通脹繼續走低仍屬合理情形，將繼續支援維持利率不變。"
+    },
     {
       "id": "4985179",
       "time": "2026-07-14 00:37:14",
