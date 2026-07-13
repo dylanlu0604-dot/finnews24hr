@@ -1,7 +1,81 @@
 {
   "date": "2026-07-13",
-  "count": 300,
+  "count": 309,
   "items": [
+    {
+      "id": "4983239",
+      "time": "2026-07-13 08:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“張雪機車”透露最遲明年在臺灣設門店】日前在2026世界超級摩托車錦標賽拿下賽季第六冠的張雪機車董事長張雪在接受臺灣《聯合報》專訪時表示，他非常想在臺灣開店，現在正在對接，最晚不超過明年，“開幕時我一定要親自到場”。 據臺灣《聯合報》11日報道，張雪在接受採訪時透露，目前已經在推進在臺開店的對接工作，只是代理商還沒有籤協議，“想要讓門店真正站穩腳跟，車型的豐富度是關鍵，店裡不能只有單一品類，得有復古車、跑車，也有踏板車（速克達），讓不同喜好的車友都能找到自己的選擇，這樣門店的經營才能更穩”。他承諾，未來臺灣的車主，將和大陸車主享受完全一樣的售後保障服務，還會給大家配套贈送貼膜、車殼等周邊福利，也隨時邀請臺灣車友到大陸參觀工廠。(環球網)"
+    },
+    {
+      "id": "4983238",
+      "time": "2026-07-13 08:06:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,811.80點。"
+    },
+    {
+      "id": "4983237",
+      "time": "2026-07-13 08:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創：2027年光模組價格正在確定，市場傳言的降價幅度過於誇大】關於目前光模組產品價格，中際旭創7月12日稱，現階段2027年的價格正在確定，市場傳言的降價幅度是過於誇大的。實際上目前能大批次交付1.6T和800G的廠商並不多，涉及到技術門檻、市場準入、良率等，客戶實際拿到的交付量也並不多。2027年行業依然面臨交付緊張，大規模交付能力才是最寶貴的。高階光模組並不是一個惡性競爭的行業。"
+    },
+    {
+      "id": "mkt:019f58ca-e269-7aab-8d48-22d048a1aa47",
+      "time": "2026-07-13 08:05:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhongji Xuchuang: 2027 optical-module pricing being set; rumored price cuts exaggerated】On July 12 Zhongji Xuchuang said 2027 pricing for optical modules is still being determined and market rumors of steep markdowns are exaggerated. Only a handful of suppliers can mass-deliver 1.6T and 800G modules because of technical barriers, market access and yield constraints, leaving customer deliveries limited. The company said delivery tightness will persist in 2027, making large-scale delivery capacity the primary value driver; high-end optical modules are not a low-price, cutthroat segment."
+    },
+    {
+      "id": "4983236",
+      "time": "2026-07-13 08:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月13日08時釋出風暴潮橙色警報：受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月13日上午至14日上午，遼東半島南部沿海將出現40到80釐米的風暴增水，遼東灣將出現30到50釐米的風暴增水，渤海灣和萊州灣將出現30到70釐米的風暴增水。"
+    },
+    {
+      "id": "mkt:019f58c9-9443-7aab-8d48-1e2547d7a771",
+      "time": "2026-07-13 08:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rapidly rallied into positive territory after earlier sliding more than 1%."
+    },
+    {
+      "id": "4983235",
+      "time": "2026-07-13 08:03:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【穆迪：韓國央行預期的加息可能是緊縮週期的開始】穆迪分析在一份報告中表示，預計韓國央行本週將把基準利率上調25個基點，至2.75%。該機構認為，7月份的加息將是漸進緊縮週期的開始。該機構表示，通貨膨脹遠高於目標水平，並且只有在能源價格回落時才會下降。韓圓疲軟、家庭債務再度激增以及首爾房價不斷上漲，增強了加息的理由。該機構補充道，在半導體出口帶動經濟繁榮增長的背景下，該貨幣政策委員會有充分的理由加息。韓國央行的利率制定會議定於週四舉行。"
+    },
+    {
+      "id": "4983234",
+      "time": "2026-07-13 08:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券和投資委員會（ASIC）：有合理依據認為，德意志銀行未能採取所有合理措施準確申報“交易方向”欄位資料。"
+    },
+    {
+      "id": "4983233",
+      "time": "2026-07-13 08:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券投資委員會(ASIC) ：德意志銀行因錯誤報告逾26萬筆場外衍生品交易，已支付200萬澳元罰款。"
+    },
     {
       "id": "4983232",
       "time": "2026-07-13 08:02:58",
