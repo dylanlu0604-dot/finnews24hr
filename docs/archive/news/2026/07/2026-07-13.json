@@ -1,7 +1,217 @@
 {
   "date": "2026-07-13",
-  "count": 2187,
+  "count": 2207,
   "items": [
+    {
+      "id": "mkt:019f5b5d-87e7-7aab-8d5a-179dedaa85a8",
+      "time": "2026-07-13 20:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintained its global economic growth forecast at 3.1% for 2026 and 3.2% for 2027."
+    },
+    {
+      "id": "4984786",
+      "time": "2026-07-13 20:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英特爾投資50億歐元擴大歐洲製造產能。"
+    },
+    {
+      "id": "mkt:019f5b5d-3566-7aab-8d5a-0de9d81ab89d",
+      "time": "2026-07-13 20:04:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "OPEC monthly report leaves U.S. GDP growth forecast at 2.2% for 2026 and 2.0% for 2027."
+    },
+    {
+      "id": "4984785",
+      "time": "2026-07-13 20:04:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：STRATEGY7月6日至7月12日期間未買賣任何比特幣。"
+    },
+    {
+      "id": "4984784",
+      "time": "2026-07-13 20:03:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.54%，報2960點。"
+    },
+    {
+      "id": "mkt:019f5b5c-94fa-7aab-8d5a-03be61f5a69f",
+      "time": "2026-07-13 20:03:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OECD oil stocks fell 21.8 mln barrels in May to 2.77 bln barrels."
+    },
+    {
+      "id": "4984783",
+      "time": "2026-07-13 20:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：CIRCLE8公司獲得兩份價值2000萬美元的荷蘭公共部門合同延期。"
+    },
+    {
+      "id": "mkt:019f5b5c-70e6-7aab-8d59-ffab86a6be20",
+      "time": "2026-07-13 20:03:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report cuts its 2026 forecast for demand for OPEC crude by 200,000 b/d to 42.30 mln b/d; leaves the 2027 forecast unchanged at 43.60 mln b/d."
+    },
+    {
+      "id": "mkt:019f5b5c-41c3-7aab-8d59-f626fec80c5b",
+      "time": "2026-07-13 20:03:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【OPEC secondary-source data: June output changes for major producers】OPEC secondary-source data for June: total OPEC crude output rose 3,051,000 b/d to 22,002,000 b/d. Largest month-on-month moves: United Arab Emirates +1,642,000 b/d to 3,809,000 b/d; Kuwait +880,000 b/d to 1,452,000 b/d; Iraq +446,000 b/d to 1,970,000 b/d; Iran +155,000 b/d to 2,441,000 b/d. Saudi Arabia -99,000 b/d to 6,847,000 b/d. Other changes: Libya +22,000 b/d to 1,325,000 b/d; Nigeria +5,000 b/d to 1,559,000 b/d; Algeria +5,000 b/d to 987,000 b/d; Gabon +10,000 b/d to 224,000 b/d; Congo -7,000 b/d to 274,000 b/d; Guinea -7,000 b/d to 44,000 b/d; Venezuela -1,000 b/d to 1,070,000 b/d."
+    },
+    {
+      "id": "mkt:019f5b5c-2e66-7aab-8d59-eb373c1aad50",
+      "time": "2026-07-13 20:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report projects global oil demand at 105.94 mln b/d in 2026 and 107.88 mln b/d in 2027."
+    },
+    {
+      "id": "mkt:019f5b5b-7866-7aab-8d59-e3b8ca54d087",
+      "time": "2026-07-13 20:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada national economic confidence index 52.6 as of July 10, up from 51.2 previously."
+    },
+    {
+      "id": "mkt:019f5b5b-5868-7aab-8d59-dc8033a60054",
+      "time": "2026-07-13 20:02:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (Jul.10) | actual 52.6 | previous 51.2"
+    },
+    {
+      "id": "4984782",
+      "time": "2026-07-13 20:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克月報：下調2026年全球石油需求增長預測至每日78萬桶（此前預測為每日97萬桶），上調2027年全球石油需求增長預測至每日194萬桶（此前預測為每日173萬桶）。"
+    },
+    {
+      "id": "mkt:019f5b5b-3112-7aab-8d59-d47b9e31482c",
+      "time": "2026-07-13 20:02:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 1.45% to 885.6 yuan/gram at the open of the evening session on July 13 (Mon); Silver T+D rose 0.17% to 14,240 yuan/kg in the same session."
+    },
+    {
+      "id": "mkt:019f5b5b-2066-7aab-8d59-c9e57bfe70e0",
+      "time": "2026-07-13 20:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 0.54% to 2,960 points."
+    },
+    {
+      "id": "mkt:019f5b5b-2058-7aab-8d59-c70b50fb0396",
+      "time": "2026-07-13 20:02:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OPEC+ oil production (including the former member the UAE) averaged 36.28 mln b/d in June 2026, up about 3.0 mln b/d from May, mainly driven by higher output from Gulf producers."
+    },
+    {
+      "id": "mkt:019f5b5a-f9ff-7aab-8d59-b9cf28f63776",
+      "time": "2026-07-13 20:01:56",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): investment began earlier this year and will upgrade and maximize capacity at its fabs by end-2027."
+    },
+    {
+      "id": "mkt:019f5b5a-bfc2-7aab-8d59-b76a78e64a64",
+      "time": "2026-07-13 20:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): investment will add hundreds of jobs in its Ireland operations."
+    },
+    {
+      "id": "mkt:019f5b5a-55c0-7aab-8d59-ab88cb1cd3dc",
+      "time": "2026-07-13 20:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "OPEC monthly report cut its 2026 global oil demand growth forecast to 780,000 b/d from 970,000 b/d and raised its 2027 growth forecast to 1.94 mln b/d from 1.73 mln b/d."
+    },
+    {
+      "id": "4984781",
+      "time": "2026-07-13 20:00:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "衣索比亞央行將基準利率上調至 16%。"
+    },
     {
       "id": "4984780",
       "time": "2026-07-13 20:00:36",

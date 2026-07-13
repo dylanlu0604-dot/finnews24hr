@@ -1,7 +1,217 @@
 {
-  "updated": "2026-07-13 20:01:26",
-  "count": 17100,
+  "updated": "2026-07-13 20:05:29",
+  "count": 17106,
   "items": [
+    {
+      "id": "mkt:019f5b5d-87e7-7aab-8d5a-179dedaa85a8",
+      "time": "2026-07-13 20:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintained its global economic growth forecast at 3.1% for 2026 and 3.2% for 2027."
+    },
+    {
+      "id": "4984786",
+      "time": "2026-07-13 20:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英特爾投資50億歐元擴大歐洲製造產能。"
+    },
+    {
+      "id": "mkt:019f5b5d-3566-7aab-8d5a-0de9d81ab89d",
+      "time": "2026-07-13 20:04:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "OPEC monthly report leaves U.S. GDP growth forecast at 2.2% for 2026 and 2.0% for 2027."
+    },
+    {
+      "id": "4984785",
+      "time": "2026-07-13 20:04:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：STRATEGY7月6日至7月12日期間未買賣任何比特幣。"
+    },
+    {
+      "id": "4984784",
+      "time": "2026-07-13 20:03:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.54%，報2960點。"
+    },
+    {
+      "id": "mkt:019f5b5c-94fa-7aab-8d5a-03be61f5a69f",
+      "time": "2026-07-13 20:03:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OECD oil stocks fell 21.8 mln barrels in May to 2.77 bln barrels."
+    },
+    {
+      "id": "4984783",
+      "time": "2026-07-13 20:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：CIRCLE8公司獲得兩份價值2000萬美元的荷蘭公共部門合同延期。"
+    },
+    {
+      "id": "mkt:019f5b5c-70e6-7aab-8d59-ffab86a6be20",
+      "time": "2026-07-13 20:03:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report cuts its 2026 forecast for demand for OPEC crude by 200,000 b/d to 42.30 mln b/d; leaves the 2027 forecast unchanged at 43.60 mln b/d."
+    },
+    {
+      "id": "mkt:019f5b5c-41c3-7aab-8d59-f626fec80c5b",
+      "time": "2026-07-13 20:03:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【OPEC secondary-source data: June output changes for major producers】OPEC secondary-source data for June: total OPEC crude output rose 3,051,000 b/d to 22,002,000 b/d. Largest month-on-month moves: United Arab Emirates +1,642,000 b/d to 3,809,000 b/d; Kuwait +880,000 b/d to 1,452,000 b/d; Iraq +446,000 b/d to 1,970,000 b/d; Iran +155,000 b/d to 2,441,000 b/d. Saudi Arabia -99,000 b/d to 6,847,000 b/d. Other changes: Libya +22,000 b/d to 1,325,000 b/d; Nigeria +5,000 b/d to 1,559,000 b/d; Algeria +5,000 b/d to 987,000 b/d; Gabon +10,000 b/d to 224,000 b/d; Congo -7,000 b/d to 274,000 b/d; Guinea -7,000 b/d to 44,000 b/d; Venezuela -1,000 b/d to 1,070,000 b/d."
+    },
+    {
+      "id": "mkt:019f5b5c-2e66-7aab-8d59-eb373c1aad50",
+      "time": "2026-07-13 20:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report projects global oil demand at 105.94 mln b/d in 2026 and 107.88 mln b/d in 2027."
+    },
+    {
+      "id": "mkt:019f5b5b-7866-7aab-8d59-e3b8ca54d087",
+      "time": "2026-07-13 20:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada national economic confidence index 52.6 as of July 10, up from 51.2 previously."
+    },
+    {
+      "id": "mkt:019f5b5b-5868-7aab-8d59-dc8033a60054",
+      "time": "2026-07-13 20:02:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (Jul.10) | actual 52.6 | previous 51.2"
+    },
+    {
+      "id": "4984782",
+      "time": "2026-07-13 20:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克月報：下調2026年全球石油需求增長預測至每日78萬桶（此前預測為每日97萬桶），上調2027年全球石油需求增長預測至每日194萬桶（此前預測為每日173萬桶）。"
+    },
+    {
+      "id": "mkt:019f5b5b-3112-7aab-8d59-d47b9e31482c",
+      "time": "2026-07-13 20:02:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 1.45% to 885.6 yuan/gram at the open of the evening session on July 13 (Mon); Silver T+D rose 0.17% to 14,240 yuan/kg in the same session."
+    },
+    {
+      "id": "mkt:019f5b5b-2066-7aab-8d59-c9e57bfe70e0",
+      "time": "2026-07-13 20:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 0.54% to 2,960 points."
+    },
+    {
+      "id": "mkt:019f5b5b-2058-7aab-8d59-c70b50fb0396",
+      "time": "2026-07-13 20:02:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OPEC+ oil production (including the former member the UAE) averaged 36.28 mln b/d in June 2026, up about 3.0 mln b/d from May, mainly driven by higher output from Gulf producers."
+    },
+    {
+      "id": "mkt:019f5b5a-f9ff-7aab-8d59-b9cf28f63776",
+      "time": "2026-07-13 20:01:56",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): investment began earlier this year and will upgrade and maximize capacity at its fabs by end-2027."
+    },
+    {
+      "id": "mkt:019f5b5a-bfc2-7aab-8d59-b76a78e64a64",
+      "time": "2026-07-13 20:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): investment will add hundreds of jobs in its Ireland operations."
+    },
+    {
+      "id": "mkt:019f5b5a-55c0-7aab-8d59-ab88cb1cd3dc",
+      "time": "2026-07-13 20:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "OPEC monthly report cut its 2026 global oil demand growth forecast to 780,000 b/d from 970,000 b/d and raised its 2027 growth forecast to 1.94 mln b/d from 1.73 mln b/d."
+    },
+    {
+      "id": "4984781",
+      "time": "2026-07-13 20:00:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "衣索比亞央行將基準利率上調至 16%。"
+    },
     {
       "id": "4984780",
       "time": "2026-07-13 20:00:36",
@@ -155823,125 +156033,6 @@
         "其他"
       ],
       "text": "Strategy第二季度數字資產虧損 83.2 億美元。"
-    },
-    {
-      "id": "4972480",
-      "time": "2026-07-06 20:05:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "Strategy抹去了漲幅，盤前下跌1%。"
-    },
-    {
-      "id": "4972479",
-      "time": "2026-07-06 20:04:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞美尼亞總理帕希尼揚：我們最近出現了一些分歧，我希望我們能解決這些問題。"
-    },
-    {
-      "id": "4972478",
-      "time": "2026-07-06 20:04:35",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "Strategy第二季度未實現虧損達83.1億美元。"
-    },
-    {
-      "id": "4972477",
-      "time": "2026-07-06 20:04:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至7月5日，Strategy美元儲備餘額為25.5億美元。"
-    },
-    {
-      "id": "4972476",
-      "time": "2026-07-06 20:04:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "Strategy於6月29日至6月30日賣出價值8080萬美元的比特幣。"
-    },
-    {
-      "id": "4972475",
-      "time": "2026-07-06 20:03:46",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "Strategy7月1日至7月5日賣出2225枚比特幣，拋售價值1.352億美元。"
-    },
-    {
-      "id": "4972474",
-      "time": "2026-07-06 20:03:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破62000美元，日內跌2.65%。"
-    },
-    {
-      "id": "4972473",
-      "time": "2026-07-06 20:03:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨指數上漲 2.94%，報 2797 點。"
-    },
-    {
-      "id": "4972472",
-      "time": "2026-07-06 20:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Strategy 在 6 月 29 日至 6 月 30 日間拋售 1363 枚比特幣。"
-    },
-    {
-      "id": "4972471",
-      "time": "2026-07-06 20:02:44",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "博通公司與蘋果簽訂新多年期協議，將技術合作拓展至2031年。"
-    },
-    {
-      "id": "4972470",
-      "time": "2026-07-06 20:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "Robinhood將於2026年7月6日推出特朗普賬戶。"
-    },
-    {
-      "id": "4972469",
-      "time": "2026-07-06 20:01:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【今年“兩重”建設專案清單全部下達完畢】國家發展改革委訊息，2026年第三批“兩重”建設專案近日已下達，共安排超長期特別國債資金1935億元。至此，今年“兩重”建設專案清單已全部下達完畢。今年以來，國家發展改革委聯合有關行業主管部門，共安排8000億元支援了1417個重大專案建設，涉及科技創新、長江流域生態保護修復、長江沿線重大交通基礎設施、城市地下管網、重大水利工程、西部陸海新通道、高等教育提質升級、“三北”工程等重點領域。同時，加快推進規劃編制、政策制定、體制機制創新等措施，包括完善鐵路投融資和價費機制，支援長江沿線城市開展汙水處理收費模式改革，研究制定各類防洪工程設施穩定運用年限標準，深化農業水價綜合改革等，高質量推進“兩重”建設各項任務。"
-    },
-    {
-      "id": "4972468",
-      "time": "2026-07-06 20:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總理：我們希望亞美尼亞新政府將推動兩國關係發展。"
-    },
-    {
-      "id": "4972467",
-      "time": "2026-07-06 20:01:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：“量化30”年內銷量近100億元，“ETF30”“公募30”保有規模均近300億元】7月6日，中泰證券舉辦“中泰財富30·指數與量化投資研討會”。中泰證券董事、總經理馮藝東在會上表示，作為成立25年的全國性大型綜合上市券商，中泰證券已服務全市場5300萬客戶，管理客戶資產規模超過2.5萬億元。旗下財富管理品牌“中泰財富30”自推出以來，快速整合公司零售、機構、自營、研究、資管等全鏈條業務資源，推動買方投顧核心能力迭代升級。其中，子品牌“量化30”業務增長勢頭強勁，2026年開年以來銷量近100億元；與此同時，“ETF30”“公募30”兩大子品牌保有規模雙雙近300億元，三大子品牌持續得到市場認可。"
     }
   ]
 }
