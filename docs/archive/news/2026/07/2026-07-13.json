@@ -1,7 +1,91 @@
 {
   "date": "2026-07-13",
-  "count": 625,
+  "count": 634,
   "items": [
+    {
+      "id": "4983456",
+      "time": "2026-07-13 10:07:11",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率觸及17個月高點4.2393%，美聯儲基金期貨暗示12月前將加息39個基點。"
+    },
+    {
+      "id": "mkt:019f5939-f873-7aab-8d4b-2c7f738aa546",
+      "time": "2026-07-13 10:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preview: State Council Information Office to hold press briefing on 1H 2026 national economy at 10:00 a.m. on Wednesday, July 15, 2026】The State Council Information Office will hold a press briefing at 10:00 a.m. on July 15, 2026. National Bureau of Statistics deputy director Mao Shengyong will present 1H 2026 national economic performance and take questions."
+    },
+    {
+      "id": "mkt:019f5939-628f-7aab-8d4b-2386583a639c",
+      "time": "2026-07-13 10:06:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KYODO reports one quarter of Japan's municipalities have experienced population declines exceeding 10%."
+    },
+    {
+      "id": "4983455",
+      "time": "2026-07-13 10:05:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "安東尼廢物處理公司證實，其垃圾填埋場事故造成9人死亡。"
+    },
+    {
+      "id": "4983454",
+      "time": "2026-07-13 10:05:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升0.5個基點至2.765%。"
+    },
+    {
+      "id": "mkt:019f5938-2b8a-7aab-8d4b-1ef44e933b1c",
+      "time": "2026-07-13 10:04:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI fell 6%; SK Hynix down 10.7%; Samsung Electronics down 6.6%."
+    },
+    {
+      "id": "4983453",
+      "time": "2026-07-13 10:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "據當地媒體報道，巴林境內美軍基地附近發生爆炸，巴林內政部稱防空系統已啟動。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f5937-ea72-7aab-8d4b-14d035c65555",
+      "time": "2026-07-13 10:04:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share-listed Juli Rigging hit the daily limit-down after initially opening nearly 4% higher."
+    },
+    {
+      "id": "4983452",
+      "time": "2026-07-13 10:04:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室將於2026年7月15日（星期三）上午10時舉行新聞釋出會，請國家統計局副局長毛盛勇介紹2026年上半年國民經濟執行情況，並答記者問。"
+    },
     {
       "id": "4983451",
       "time": "2026-07-13 10:03:45",
