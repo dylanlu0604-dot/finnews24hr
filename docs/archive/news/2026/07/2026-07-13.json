@@ -1,7 +1,137 @@
 {
   "date": "2026-07-13",
-  "count": 956,
+  "count": 969,
   "items": [
+    {
+      "id": "mkt:019f59df-3a29-7aab-8d4e-f84b0d951357",
+      "time": "2026-07-13 13:07:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "SOUTH KOREA'S LEE said he will direct government support to three priority projects: semiconductors, AI data centers and physical artificial intelligence."
+    },
+    {
+      "id": "mkt:019f59df-1f7f-7aab-8d4e-f22c07e3ca4e",
+      "time": "2026-07-13 13:07:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Middle East tensions raise jet-fuel disruption risk; European stocks cover under one month】Rising Middle East tensions have increased the risk of further jet-fuel supply disruption, leaving Europe particularly exposed. Energy Aspects (June 18) estimates Europe faces a Q3 jet-fuel shortfall of about 600,000 b/d, while the US and Asia show surpluses of roughly 116,000 b/d and 425,000 b/d respectively. European jet inventories were about 38 mln barrels in early June — Reuters calculations indicate under 30 days of demand, the tightest among major markets. An IEA monthly report (end-May) shows jet inventories prelim +10% YoY and refinery output +30%, but Europe’s available buffer remains roughly one month. Energy analyst Janiv Shah expects market tightness to persist through August."
+    },
+    {
+      "id": "4983688",
+      "time": "2026-07-13 13:06:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝倫貝格銀行將阿斯利康目標股價從每股17000便士下調至16000便士。"
+    },
+    {
+      "id": "mkt:019f59de-2d88-7aab-8d4e-eb8bdd71094f",
+      "time": "2026-07-13 13:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said he will direct tax revenue above trend into youth initiatives, growth engines, regional development and talent."
+    },
+    {
+      "id": "4983687",
+      "time": "2026-07-13 13:05:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：將發起設立未來應對基金，將額外稅收收入引導用於面向未來的生產性投資。將把超出趨勢的稅收收入投資於青年、增長引擎、地區發展和人才培養。"
+    },
+    {
+      "id": "mkt:019f59de-0d84-7aab-8d4e-e584cf871d3b",
+      "time": "2026-07-13 13:05:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee will set up a \"Future Response Fund\" to channel additional tax revenue into productive, future-oriented investment projects."
+    },
+    {
+      "id": "mkt:019f59de-0199-7aab-8d4e-daeb6ba7cb9d",
+      "time": "2026-07-13 13:05:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Japan's largest power company JERA signed a memorandum of understanding with Samsung C&T to strengthen resilience and supply security across hydrogen and ammonia value chains."
+    },
+    {
+      "id": "4983686",
+      "time": "2026-07-13 13:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱在阿巴斯港擊落一架美製無人機】伊朗方面表示，在阿巴斯港攔截並擊落一架敵方無人機。該無人機為美製“盧卡斯”無人機。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019f59dd-3972-7aab-8d4e-d69c2c2e121e",
+      "time": "2026-07-13 13:04:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Guotai Haitong's Fang Yi: Hong Kong equity liquidity relief window opens】Guotai Haitong chief strategist Fang Yi says Hong Kong equities are likely to enter a liquidity relief window from mid‑late July through mid‑September. He cites an IPO lull lasting into end‑September and the early‑July lock‑up peak having passed, though large subsequent share unlocks of more than HKD30bn remain. He also sees rising odds of downward revisions to overseas rate‑hike expectations as Strait of Hormuz shipping has improved since June and oil prices have retreated, easing US imported‑inflation pressure. Key risks: an unexpectedly stronger dollar; the Hong Kong dollar hitting the weak‑side Convertibility Undertaking or prompting HKMA intervention (which would tighten liquidity); and persistent US‑Iran conflict uncertainty."
+    },
+    {
+      "id": "4983685",
+      "time": "2026-07-13 13:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦稱攔截並擊落4枚自伊朗方向進入其領空導彈】約旦武裝部隊總司令部當地時間13日表示，約旦防空系統當天凌晨成功攔截並擊落4枚自伊朗方向進入約旦領空的導彈。（央視）"
+    },
+    {
+      "id": "mkt:019f59dc-b5ff-7aab-8d4e-c8ae18bca345",
+      "time": "2026-07-13 13:04:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Jordan says it intercepted and shot down four missiles entering its airspace from direction of Iran】Jordan Armed Forces General Command said on the 13th (local time) its air-defence systems intercepted and shot down four missiles that entered Jordanian airspace from the direction of Iran in the early hours. The command said the operation was completed efficiently; there were no casualties or property damage. The Jordanian Royal Engineers disposed of missile debris at multiple sites under technical and safety procedures and secured the areas."
+    },
+    {
+      "id": "4983684",
+      "time": "2026-07-13 13:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北汽集團上半年累計銷量79.5萬輛，自主品牌同比增長14.2%】今年上半年，北汽集團累計銷量79.5萬輛；其中，自主品牌累計銷量53.5萬輛，同比增長14.2%；新能源汽車銷量18.1萬輛，同比增長22.6%；出口18.4萬輛，同比增長30.8%。"
+    },
+    {
+      "id": "4983683",
+      "time": "2026-07-13 13:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI驅動的蛋白質研發平臺企業天鶩科技完成數億元A++輪融資】7月13日，AI驅動的蛋白質研發平臺企業上海天鶩科技有限公司（以下簡稱“天鶩科技”）宣佈完成數億元A++輪融資。本輪融資由上海國投先導、國投創新聯合領投，聚傑微纖、寧波甬元興侖君金創投、金景新研、孚騰資本、財鑫資本跟投，老股東啟明創投、湧鏵投資、金沙江聯合資本潤璞醫療基金、本草資本、上海科創基金持續加註。本輪融資將主要用於人工智慧技術迭代，包括公司核心產品——“乾溼閉環”蛋白質科研智慧體MatwingVenus™（曉鶩™）的持續研發與迭代升級，並加速AI驅動的蛋白質設計能力在迴圈經濟、創新藥、大健康、醫藥耗材等領域的規模化應用，進一步推動AI for Science成果從實驗室走向產業化。"
+    },
     {
       "id": "4983682",
       "time": "2026-07-13 13:03:52",
