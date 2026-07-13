@@ -1,7 +1,125 @@
 {
   "date": "2026-07-13",
-  "count": 2550,
+  "count": 2563,
   "items": [
+    {
+      "id": "4985016",
+      "time": "2026-07-13 22:15:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國對古巴旅遊部及其他實體實施制裁。"
+    },
+    {
+      "id": "4985015",
+      "time": "2026-07-13 22:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國試圖阻止向無證移民發放貸款。"
+    },
+    {
+      "id": "4985014",
+      "time": "2026-07-13 22:15:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯外交部召見德國大使 就德方支援烏克蘭襲擊俄民用設施提出嚴正交涉】俄羅斯外交部13日緊急召見德國駐俄羅斯大使，就德國政府參與烏克蘭軍隊針對俄羅斯國內民用基礎設施的恐怖襲擊、持續升級對烏軍事支援等倒退行徑，提出嚴正交涉與強烈抗議。俄羅斯外交部在隨後發表的官方宣告中指出，俄方向德國大使明確闡明瞭柏林當局直接參與基輔政權襲擊的實質證據。俄方強調，德國持續擴大對烏克蘭現有軍事和物資援助的舉動完全不可接受，其行為正在將兩國關係推向更危險的邊緣。"
+    },
+    {
+      "id": "mkt:019f5bd5-3931-7aab-8d5d-8a97498355ab",
+      "time": "2026-07-13 22:15:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury says it has imposed sanctions on Cuba."
+    },
+    {
+      "id": "4985013",
+      "time": "2026-07-13 22:15:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "蘋果股價上漲1.7%，花旗集團上調目標價。"
+    },
+    {
+      "id": "4985012",
+      "time": "2026-07-13 22:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "PAPER TRANSPORT：與特斯拉合作，在芝加哥市場專項運營中評估特斯拉Semi長續航版。"
+    },
+    {
+      "id": "mkt:019f5bd3-cce0-7aab-8d5d-81f66cafdcad",
+      "time": "2026-07-13 22:13:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【Switzerland, UK reach updated free trade deal to deepen post‑Brexit ties】Switzerland and the United Kingdom agreed an updated free trade agreement, aiming to deepen economic ties between the two largest non‑EU West European economies. Negotiations, launched more than three years ago, were declared concluded and the accord was signed in Bern on Monday by UK Business and Trade Secretary Peter Kyle and Swiss Federal President and Minister of Economic Affairs Guy Parmelin. The pact builds on a 2023 financial services agreement and targets easier cross‑border operations for financial, technology, pharmaceutical and legal services through improved market access, reduced administrative barriers, strengthened data sharing and measures to facilitate labor mobility. The UK said bilateral trade exceeded £50bn last year (~$67bn), with roughly £30bn in goods. Officials estimate services trade could expand by about £5.2bn annually over the long term under the agreement."
+    },
+    {
+      "id": "te:markets:566453",
+      "time": "2026-07-13 22:13:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 32-week Low — Orange Juice decreased to 139.50 USd/Lbs, the lowest since November 2025. Over the past 4 weeks, Orange Juice lost 9.07%, and in the last 12 months, it decreased 55.18%."
+    },
+    {
+      "id": "4985011",
+      "time": "2026-07-13 22:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：要為傷亡的伊朗人復仇】當地時間7月13日，伊朗外交部發言人巴加埃表示，要為遇害的伊朗最高領袖阿里·哈梅內伊及所有在美以襲擊中傷亡的伊朗人復仇，“這是基本原則和公眾的共同訴求”——而伊朗外交部正透過國際法律機制記錄罪行、尋求正義。此外，巴加埃提到，伊朗原計劃與阿曼合作建立“霍爾木茲海峽聯合管理機制”，但由於美國對阿曼的施壓，導致這項機制未能實現。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5bd3-99f1-7aab-8d5d-7a7a1437b2e2",
+      "time": "2026-07-13 22:13:41",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Baltic Dry Index hits highest in over a month】On Monday the Baltic Dry Index rose 16 points, or 0.54%, to 2,960 — its highest level since early June — led by gains in capesize and supramax freight. The capesize index (BCI) gained 47 points, or 1%, to 4,702, a more-than-one-month high; capesize average daily earnings rose $427 to $39,138. The panamax index (BPI) slipped 3 points, or 0.1%, to 2,250; panamax daily earnings fell $19 to $20,254. The supramax index (BSI) ticked up 1 point to 1,707, its highest since June 22. The handysize index (BHSI) eased 1 point to 914."
+    },
+    {
+      "id": "mkt:019f5bd3-453e-7aab-8d5d-75c11398ac83",
+      "time": "2026-07-13 22:13:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's president sheinbaum said the US increase in imports of Mexican sugar is 'great'."
+    },
+    {
+      "id": "4985010",
+      "time": "2026-07-13 22:13:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門最高政治委員會成員：美國及沙特應對侵略、封鎖以及對包括薩那機場在內的民用設施的轟炸負責。"
+    },
+    {
+      "id": "4985009",
+      "time": "2026-07-13 22:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆：美國增加墨西哥糖進口“極好”。"
+    },
     {
       "id": "mkt:019f5bd0-ae53-7aab-8d5d-6a76172fef08",
       "time": "2026-07-13 22:10:30",
