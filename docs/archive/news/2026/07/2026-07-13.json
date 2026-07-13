@@ -1,7 +1,130 @@
 {
   "date": "2026-07-13",
-  "count": 1063,
+  "count": 1077,
   "items": [
+    {
+      "id": "mkt:019f5a04-6463-7aab-8d50-40e152259798",
+      "time": "2026-07-13 13:47:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's CSI 1000 index futures (IM) most-active contract breached 7,700 points, down 4.90% intraday."
+    },
+    {
+      "id": "4983753",
+      "time": "2026-07-13 13:47:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌4%，現報7698.60點。"
+    },
+    {
+      "id": "4983752",
+      "time": "2026-07-13 13:47:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全域性：挫敗烏克蘭武裝部隊利用無人機針對軍事基礎設施、國防工業企業及軍事人員發動的一系列大規模恐怖襲擊。"
+    },
+    {
+      "id": "4983751",
+      "time": "2026-07-13 13:47:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林內政部13日在社交媒體上說，巴林再次拉響防空警報。這是該國當天第三次拉響防空警報。當天早些時候，伊朗對位於巴林的美軍設施實施了報復性打擊。（新華社）"
+    },
+    {
+      "id": "4983750",
+      "time": "2026-07-13 13:47:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【二季度業績環比大幅下滑，多氟多股價跌停，公司回應】7月13日早盤，多氟多股價跌停。截至午間收盤，公司股價報36.99元/股，跌幅為10%。訊息面上，7月10日晚，多氟多對外披露2026年半年度業績預告。公司預計2026年上半年實現歸屬於上市公司股東的淨利潤為4.5億元至5.6億元，同比增長776.68%至990.98%。但業績主要由一季度業績貢獻。根據公司此前披露的一季報。2026年一季度，多氟多共實現歸母淨利潤約3.76億元，同比增長480.14%。由此計算，多氟多第二季度歸母淨利潤預計僅為0.74億元至1.84億元，環比大幅下滑51%至80%。對此，多氟多方面回應記者，公司所在行業確實有季節性波動，價格和出貨量都有波動。二季度屬於鋰電行業的淡季。上游碳酸鋰漲價對公司有影響。為了應對原材料漲價，公司產品也會考慮漲價。從三方報價看，六氟磷酸鋰目前價格在10萬元/噸左右。公司具體產品情況以正式半年報為準。(中證金牛座)"
+    },
+    {
+      "id": "mkt:019f5a03-3cde-7aab-8d50-3aaa9e123cf9",
+      "time": "2026-07-13 13:46:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Zhongji Xuchuang recorded turnover of 30.0 bln yuan; shares currently up 1.28%."
+    },
+    {
+      "id": "4983749",
+      "time": "2026-07-13 13:46:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達300億元，現漲1.28%。"
+    },
+    {
+      "id": "4983748",
+      "time": "2026-07-13 13:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省啟動自然災害救助應急預案四級響應】7月10日-12日，河北省部分地區出現雷陣雨天氣，雷雨時局地伴有短時強降水、短時大風等強對流天氣，河北省部分地區遭受洪澇災害。根據《河北省自然災害救助應急預案》有關要求，省防災減災救災委員會辦公室決定，自7月13日14時起啟動河北省自然災害救助應急預案四級響應。請承德、唐山市和省防災減災救災委員會有關成員單位按照職責分工做好自然災害應急救助工作，確保受災群眾生命財產安全。"
+    },
+    {
+      "id": "4983747",
+      "time": "2026-07-13 13:45:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡拉斯：歐盟向敘利亞提供了機構建設方面的幫助。"
+    },
+    {
+      "id": "mkt:019f5a02-298f-7aab-8d50-3323fd839255",
+      "time": "2026-07-13 13:45:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures broke above $75/barrel, up 4.88% intraday."
+    },
+    {
+      "id": "4983746",
+      "time": "2026-07-13 13:45:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破75美元/桶，日內漲5.04%。"
+    },
+    {
+      "id": "4983745",
+      "time": "2026-07-13 13:45:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報74.98美元/桶。"
+    },
+    {
+      "id": "te:markets:566245",
+      "time": "2026-07-13 13:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Eases from Record High, Ends 0.5% Lower — The NZX 50 dropped 62 points, or 0.5%, to close at 13,723 on Monday, mainly weighed down by losses in the consumer staples, consumer discretionary, real estate, and technology sectors. Traders took profits after the index hit a record high in the previous session, with the market resuming after Friday's holiday closure. Rising oil prices due to the escalating conflict in the Middle East also weighed on sentiment, as inflation concerns fueled expectations of further interest rate hikes. Investors also anticipated the release of US inflation data for clues on the Fed's interest rate decision, along with key Chinese economic data, including Q2 GDP, due later this week. However, fresh domestic data helped limit the decline, as New Zealand's private sector recorded its strongest growth since December 2025, with services sectors back in growth. Delegat Group plunged 4.2%, A2 Milk fell 2.3%, Freightways Group shed 1.4%, Australian Foundation dropped 1.0%, and Fisher & Paykel declined 0.8%."
+    },
+    {
+      "id": "4983744",
+      "time": "2026-07-13 13:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯將於7月14日至16日對新加坡進行工作訪問。"
+    },
     {
       "id": "4983743",
       "time": "2026-07-13 13:43:43",
