@@ -1,7 +1,18 @@
 {
   "date": "2026-07-14",
-  "count": 502,
+  "count": 503,
   "items": [
+    {
+      "id": "te:markets:566511",
+      "time": "2026-07-14 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 3.66% — Top commodity losers are Silver (-3.66%), Gold (-2.84%) and Iron Ore CNY (-0.93%)."
+    },
     {
       "id": "4985428",
       "time": "2026-07-14 06:31:40",

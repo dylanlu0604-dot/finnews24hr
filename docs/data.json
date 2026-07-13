@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-14 06:32:45",
-  "count": 17276,
+  "updated": "2026-07-14 06:36:40",
+  "count": 17274,
   "items": [
+    {
+      "id": "te:markets:566511",
+      "time": "2026-07-14 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 3.66% — Top commodity losers are Silver (-3.66%), Gold (-2.84%) and Iron Ore CNY (-0.93%)."
+    },
     {
       "id": "4985428",
       "time": "2026-07-14 06:31:40",
@@ -157950,33 +157961,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Coffee Spikes by 14.93% — Top commodity gainers are Coffee (14.93%), Cocoa (13.95%) and Soybeans (4.46%). Biggest losers are Rice (-9.25%) and Wool (-2.01%)."
-    },
-    {
-      "id": "te:markets:564573",
-      "time": "2026-07-07 06:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 0.57% — Top commodity loser is Platinum (-0.57%). Gains are led by Copper (0.55%) and Iron Ore CNY (0.55%). Meanwhile Gold was little changed."
-    },
-    {
-      "id": "4973050",
-      "time": "2026-07-07 06:34:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛：AI投資重心邁向實體產業，未來6年資本開支或達7.6萬億美元】高盛在最新報告中稱，人工智慧(AI)投資的重心已開始向更廣闊的實體經濟延伸，算力、電力和資料中心仍在高速建設之際，AI已同步進入製造、能源、物流、國防、生命科學和機器人等現實場景。2026年至2031年，全球圍繞計算、資料中心和電力的AI資本開支將達到約7.6萬億美元，年度投入將從2026年的7650億美元升至2031年的1.64萬億美元。超大規模雲廠商到2030年的AI投資或超過6萬億美元。未來競爭的關鍵不只是模型或晶片，而是資本結構、能源供給、產業資料、工程能力和部署能力。"
-    },
-    {
-      "id": "4973049",
-      "time": "2026-07-07 06:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前5月機器人規上企業營收超900億元】7月6日，2026世界機器人大會新聞釋出會召開。工信部裝備工業一司副司長郝立順介紹，今年1至5月，我國機器人規模以上企業營業收入突破900億元，同比增長26.9%，近五年年均增速超20%，較“十三五”時期年均增速提升約5個百分點。當前，人形機器人逐步從展示性演示轉向實用性落地，產業商業化程序持續提速。（中證報）"
     }
   ]
 }
