@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-14 02:22:44",
-  "count": 17191,
+  "updated": "2026-07-14 02:26:30",
+  "count": 17193,
   "items": [
+    {
+      "id": "mkt:019f5cba-1466-7aab-8d62-d29a09403fef",
+      "time": "2026-07-14 02:25:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ebrahim Azizi, head of the Iranian parliament’s National Security and Foreign Policy Committee, said Iran sets the rules for the Strait of Hormuz and urged foreign actors who interfere in other countries and have repeatedly failed to stop empty rhetoric and disclose the true scale of their casualties and economic losses."
+    },
+    {
+      "id": "mkt:019f5cb9-f199-7aab-8d62-ce2abdacda9b",
+      "time": "2026-07-14 02:25:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "Market sources: Andy Burnham, Labour leadership candidate, has secured sufficient nominations and is likely to become UK prime minister."
+    },
+    {
+      "id": "te:markets:566497",
+      "time": "2026-07-14 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.24% — Top commodity losers are Cocoa (-4.24%) and Oat (-2.04%). Gains are led by Rapeseed (2.32%) and Canola (1.48%)."
+    },
+    {
+      "id": "4985271",
+      "time": "2026-07-14 02:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍宣佈於美東時間14日開始對伊朗實施海上封鎖】據美軍中央司令部訊息，美軍將於美國東部時間14日16時開始執行對伊朗的海上封鎖。（新華社）"
+    },
+    {
+      "id": "4985270",
+      "time": "2026-07-14 02:22:20",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "英國工黨領袖候選人安迪·伯納姆已獲得足夠提名，有望出任英國首相。"
+    },
     {
       "id": "mkt:019f5cb6-dbea-7aab-8d62-c434ab179c4e",
       "time": "2026-07-14 02:21:55",
@@ -157144,34 +157197,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱俄對烏大規模襲擊致22人死亡】烏克蘭總統澤連斯基當地時間6日表示，俄羅斯當天對烏克蘭發動的大規模襲擊已造成22人死亡、近90人受傷，目前救援和善後工作仍在繼續。澤連斯基稱，俄軍此次共發射68枚導彈，其中包括大量彈道導彈，併發射350多架不同型別無人機。他表示，此次襲擊的主要目標是基輔及基輔州。"
-    },
-    {
-      "id": "4972956",
-      "time": "2026-07-07 02:26:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行調查顯示，美伊協議達成前加拿大民眾通脹預期持續走高。"
-    },
-    {
-      "id": "te:markets:564565",
-      "time": "2026-07-07 02:25:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Spikes by 14.94% — Top commodity gainers are Coffee (14.94%), Cocoa (14.07%) and Soybeans (4.16%). Biggest loser is Wool (-2.01%)."
-    },
-    {
-      "id": "4972955",
-      "time": "2026-07-07 02:24:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【3名登山者在新疆慕士塔格峰遇難 1人失聯】記者從新疆維吾爾自治區體育局瞭解到，7月3日—4日，兩支經國家體育總局審批的登山隊登頂慕士塔格峰，下撤至海拔約7300米時遭遇暴風雪，4名隊員失聯。險情發生後，國家體育總局、自治區體育局、克孜勒蘇柯爾克孜自治州立即組織專業人員、裝置全力搜救。截至6日22時，已找到3名失聯人員，發現時無生命體徵。目前，正全力搜救最後1名失聯人員。（央視新聞）"
     }
   ]
 }

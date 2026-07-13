@@ -1,7 +1,60 @@
 {
   "date": "2026-07-14",
-  "count": 248,
+  "count": 253,
   "items": [
+    {
+      "id": "mkt:019f5cba-1466-7aab-8d62-d29a09403fef",
+      "time": "2026-07-14 02:25:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ebrahim Azizi, head of the Iranian parliament’s National Security and Foreign Policy Committee, said Iran sets the rules for the Strait of Hormuz and urged foreign actors who interfere in other countries and have repeatedly failed to stop empty rhetoric and disclose the true scale of their casualties and economic losses."
+    },
+    {
+      "id": "mkt:019f5cb9-f199-7aab-8d62-ce2abdacda9b",
+      "time": "2026-07-14 02:25:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "Market sources: Andy Burnham, Labour leadership candidate, has secured sufficient nominations and is likely to become UK prime minister."
+    },
+    {
+      "id": "te:markets:566497",
+      "time": "2026-07-14 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.24% — Top commodity losers are Cocoa (-4.24%) and Oat (-2.04%). Gains are led by Rapeseed (2.32%) and Canola (1.48%)."
+    },
+    {
+      "id": "4985271",
+      "time": "2026-07-14 02:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍宣佈於美東時間14日開始對伊朗實施海上封鎖】據美軍中央司令部訊息，美軍將於美國東部時間14日16時開始執行對伊朗的海上封鎖。（新華社）"
+    },
+    {
+      "id": "4985270",
+      "time": "2026-07-14 02:22:20",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "英國工黨領袖候選人安迪·伯納姆已獲得足夠提名，有望出任英國首相。"
+    },
     {
       "id": "mkt:019f5cb6-dbea-7aab-8d62-c434ab179c4e",
       "time": "2026-07-14 02:21:55",
