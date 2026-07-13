@@ -1,7 +1,98 @@
 {
   "date": "2026-07-13",
-  "count": 2492,
+  "count": 2501,
   "items": [
+    {
+      "id": "mkt:019f5bbe-776e-7aab-8d5c-d1a52ec336f7",
+      "time": "2026-07-13 21:50:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin vowed to take stronger, increasingly forceful responses to attacks on Ukraine."
+    },
+    {
+      "id": "4984981",
+      "time": "2026-07-13 21:49:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿克蘇諾貝爾公司：俄羅斯業務佔公司營收比例不足2%，對公司整體財務表現不構成重大影響。"
+    },
+    {
+      "id": "4984980",
+      "time": "2026-07-13 21:48:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊摩擦加劇 霍爾木茲海峽航道通行量跌至月內最低】伊朗於週六襲擊一艘塞普勒斯籍集裝箱貨輪後，美伊雙方隨即展開多輪相互打擊，霍爾木茲海峽航運通行量斷崖式暴跌。 航運資料機構克普勒（Kpler）統計資料顯示，週日僅有14艘船舶穿越該航道，創下一個月以來單日通行新低。其中駛出波斯灣、滿載原油、化工品及其他大宗商品的油輪僅3艘，且這三艘全部屬於掛靠灰色航線或遭制裁的船隻。而在2月末衝突爆發前，霍爾木茲海峽日均通航船舶超130艘。全球最大航運協會波羅的海國際航運公會（BIMCO）首席安全官雅各布・拉森表示，美伊兩國6月17日簽署的諒解備忘錄存在明顯弊端，該協議弱化了規範海上航運的國際公約效力，而國際公約明確規定船舶可在國際水道享有無害通行權。他同時指出，這份協議並未化解兩國之間的核心分歧。 拉森判斷，只要伊朗方面的威懾打擊能力沒有解除，海峽航運流量大機率會持續維持在低位。"
+    },
+    {
+      "id": "4984979",
+      "time": "2026-07-13 21:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅多地釋出暴雨預警 省水利廳啟動洪水防禦Ⅳ級應急響應】7月13日晚，甘肅多地遭遇強降雨。甘肅省氣象臺釋出暴雨藍色預警；甘南州夏河縣釋出暴雨紅色預警；臨夏州釋出暴雨橙色預警；甘肅省水利廳已啟動洪水防禦Ⅳ級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5bbc-5a68-7aab-8d5c-ce444330429b",
+      "time": "2026-07-13 21:48:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's ambassador to the UK said the security of the Strait of Hormuz is a two-way street and that those who have created the dangerous situation in the region must reconsider their positions if they truly wish to transit the strait safely and without harm."
+    },
+    {
+      "id": "te:markets:566437",
+      "time": "2026-07-13 21:47:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Amid Middle East Tensions — The Ibovespa edged lower to trade near the 177,000 mark on Monday after military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Energy-driven inflation concerns reinforced expectations that interest rates will remain higher for longer. Meanwhile, the Focus survey showed lower inflation forecasts for 2026. Financials traded mixed, with Bradesco gaining 0.5% and Itaú trading near flat, while Itaúsa and Banco do Brasil edged lower. Utilities posted losses, with Axia edging down and Sabesp losing nearly 1%. Vale fell nearly 1% on lower iron ore prices. Other notable laggards included WEG (-2%), Rede D'Or (-1%), and Embraer (-1%). In contrast, Petrobras advanced more than 2% on higher oil prices."
+    },
+    {
+      "id": "mkt:019f5bbb-752a-7aab-8d5c-c6235dfff32a",
+      "time": "2026-07-13 21:47:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Putin said actions by Ukrainian armed forces are creating disruptions to Russia's oil-product supplies, but he said conditions would gradually improve."
+    },
+    {
+      "id": "mkt:019f5bbb-3de6-7aab-8d5c-bd354d9a6f0f",
+      "time": "2026-07-13 21:47:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Bank of America raised its price target on AMD (AMD.O) to $620 from $550."
+    },
+    {
+      "id": "4984978",
+      "time": "2026-07-13 21:47:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：阿克蘇諾貝爾俄羅斯子公司被置於臨時外部管理之下。"
+    },
     {
       "id": "mkt:019f5bba-94e7-7aab-8d5c-b63a3557ce61",
       "time": "2026-07-13 21:46:22",
