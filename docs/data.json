@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-13 12:52:25",
-  "count": 16752,
+  "updated": "2026-07-13 12:56:40",
+  "count": 16753,
   "items": [
+    {
+      "id": "4983669",
+      "time": "2026-07-13 12:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科信技術：公司與浙江富特科技股份有限公司不存在任何關係】有投資者在互動平臺提問科信技術(300565)：聽說公司子公司富特科技在佈局車載OBC車載充電機、800V高壓電源、氮化鎵車載電源產品，是否屬實？對此，科信技術回覆：公司與浙江富特科技股份有限公司（富特科技）不存在任何關係。"
+    },
+    {
+      "id": "4983668",
+      "time": "2026-07-13 12:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏中衛釋出山洪災害、地質災害雙預警】7月13日，寧夏中衛市釋出山洪災害氣象風險二級預警（橙色預警）、地質災害氣象風險二級預警（橙色預警）。據氣象資料分析，預計13日夜間到14日白天，中衛市有一次強降水天氣過程，主要降水時段在13日後半夜到14日上午，沙坡頭區北部、中寧縣北部個別鄉鎮累積雨量可達70～100毫米。"
+    },
+    {
+      "id": "te:markets:566232",
+      "time": "2026-07-13 12:52:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from Over 1-Month High — The South Korean won fell to around 1,507 per dollar, easing from a more than one-month high near 1,498, amid renewed US-Iran military strikes and rising oil prices. The two countries exchanged fresh attacks over the weekend, while Tehran claimed it had closed the Strait of Hormuz, raising concerns over disruptions to global oil supplies and fueling fears of higher energy costs. The escalation also dampened global risk sentiment, prompting investors to favor safe-haven assets and the US dollar as crude prices climbed. Meanwhile, expectations that SK Hynix will convert a substantial portion of the proceeds from its $26.5 billion Nasdaq listing into won for domestic investments helped temper pressure on the currency by boosting dollar supply in the domestic foreign exchange market. Investors also looked ahead to this week's Bank of Korea policy decision for further guidance on the interest-rate outlook and policymakers' assessment of inflation, economic growth, and financial conditions."
+    },
+    {
+      "id": "4983667",
+      "time": "2026-07-13 12:51:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅隴中隴東局地有暴雨】記者從甘肅省氣象局獲悉，13日下午至14日，甘肅隴中、隴東局地有暴雨，最大小時雨強40至70毫米。此次強降水過程與前期降水落區重疊度高，需防範強降水可能引發的次生災害。甘肅省氣象臺預計，13日下午至14日，甘肅省臨夏回族自治州、蘭州市、白銀市、武威市南部、慶陽市北部有暴雨，並伴有雷暴大風和短時強降水；強降水時段主要集中在13日傍晚到14日，過程最大累積降水量60至80毫米，局地超過100毫米。甘肅相繼釋出山洪災害氣象風險藍色預警和地質災害氣象風險黃色預警。甘肅省氣象局提示，此次強降水將呈現出局地性強、小時雨強大、累積雨量大、與前期降水落區重疊度高的特點，致災風險較高，各地需加強防範因強降水可能引發的中小河流洪水、山洪、地質災害及城市內澇等災害。（新華社）"
+    },
     {
       "id": "4983666",
       "time": "2026-07-13 12:50:16",
@@ -152793,36 +152829,6 @@
         "MKT News"
       ],
       "text": "【Hangdian locked at limit-down after forecasting nearly 10x net profit rise; company says operations normal】Hangdian plunged to and remained locked at its daily trading limit at the midday close after the company last week issued a profit-positive forecast projecting an almost 10x rise in net profit. Shares were 44.1 yuan, valuing the company at about 30.5 bln yuan. Company staff told callers production and customer relationships are normal and attributed the price move to market behavior and investor expectations."
-    },
-    {
-      "id": "4971647",
-      "time": "2026-07-06 12:56:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列政府公開違抗最高法 遭國內多方抨擊】以色列內閣5日投票拒絕承認最高法院一項涉及媒體監管的裁決，首次公開違抗最高法院。這一行為招致總統、多名前總理、現任總理內塔尼亞胡的競選對手、反對黨以及記者協會群起炮轟，他們批評內塔尼亞胡領導的政府“踐踏紅線”。這一爭議由監管商業媒體的以色列第二廣播電視管理局引起。該管理局委員會15名委員中，7人集體辭職，使得決策需要投票的法定人數不足。政府由此認定該管理局無權批准人事任命或履行其他職責。不過以色列最高法院6月17日裁定，該管理局可繼續履職。（新華社）"
-    },
-    {
-      "id": "mkt:019f35c5-e97f-7aab-8cab-415cf5bfebe4",
-      "time": "2026-07-06 12:53:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Russian military confirms large-scale strikes on multiple Ukrainian military targets】The Russian Defence Ministry said early on the 6th Russian forces launched a large-scale strike using air-, land- and sea-launched long-range precision weapons and attack drones, striking military-industrial facilities and fuel-energy sites in Kyiv city and Kyiv region, and military airfield infrastructure in Dnipropetrovsk, Poltava, Cherkasy, Chernihiv and Kyiv regions. The ministry said the strikes were carried out in response to Ukrainian attacks on Russian civilian infrastructure."
-    },
-    {
-      "id": "mkt:019f35c5-7c75-7aab-8cab-38cad984577e",
-      "time": "2026-07-06 12:52:42",
-      "tags": [
-        "MKT News",
-        "00175.HK",
-        "Impact bullish"
-      ],
-      "text": "【Citigroup adds Geely Automobile to Pan-Asia Focus List】Citigroup said in a research note it has added Geely Automobile (00175.HK) to its \"Pan-Asia Focus List\", citing a breakthrough in premium brand Zeekr’s sales, strong export momentum and a more attractive risk-reward profile versus peers. The bank rates Geely Buy with a PT of HK$30 and an expected dividend yield of 4%."
     }
   ]
 }

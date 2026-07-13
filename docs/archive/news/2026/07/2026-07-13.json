@@ -1,7 +1,43 @@
 {
   "date": "2026-07-13",
-  "count": 931,
+  "count": 935,
   "items": [
+    {
+      "id": "4983669",
+      "time": "2026-07-13 12:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科信技術：公司與浙江富特科技股份有限公司不存在任何關係】有投資者在互動平臺提問科信技術(300565)：聽說公司子公司富特科技在佈局車載OBC車載充電機、800V高壓電源、氮化鎵車載電源產品，是否屬實？對此，科信技術回覆：公司與浙江富特科技股份有限公司（富特科技）不存在任何關係。"
+    },
+    {
+      "id": "4983668",
+      "time": "2026-07-13 12:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏中衛釋出山洪災害、地質災害雙預警】7月13日，寧夏中衛市釋出山洪災害氣象風險二級預警（橙色預警）、地質災害氣象風險二級預警（橙色預警）。據氣象資料分析，預計13日夜間到14日白天，中衛市有一次強降水天氣過程，主要降水時段在13日後半夜到14日上午，沙坡頭區北部、中寧縣北部個別鄉鎮累積雨量可達70～100毫米。"
+    },
+    {
+      "id": "te:markets:566232",
+      "time": "2026-07-13 12:52:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from Over 1-Month High — The South Korean won fell to around 1,507 per dollar, easing from a more than one-month high near 1,498, amid renewed US-Iran military strikes and rising oil prices. The two countries exchanged fresh attacks over the weekend, while Tehran claimed it had closed the Strait of Hormuz, raising concerns over disruptions to global oil supplies and fueling fears of higher energy costs. The escalation also dampened global risk sentiment, prompting investors to favor safe-haven assets and the US dollar as crude prices climbed. Meanwhile, expectations that SK Hynix will convert a substantial portion of the proceeds from its $26.5 billion Nasdaq listing into won for domestic investments helped temper pressure on the currency by boosting dollar supply in the domestic foreign exchange market. Investors also looked ahead to this week's Bank of Korea policy decision for further guidance on the interest-rate outlook and policymakers' assessment of inflation, economic growth, and financial conditions."
+    },
+    {
+      "id": "4983667",
+      "time": "2026-07-13 12:51:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅隴中隴東局地有暴雨】記者從甘肅省氣象局獲悉，13日下午至14日，甘肅隴中、隴東局地有暴雨，最大小時雨強40至70毫米。此次強降水過程與前期降水落區重疊度高，需防範強降水可能引發的次生災害。甘肅省氣象臺預計，13日下午至14日，甘肅省臨夏回族自治州、蘭州市、白銀市、武威市南部、慶陽市北部有暴雨，並伴有雷暴大風和短時強降水；強降水時段主要集中在13日傍晚到14日，過程最大累積降水量60至80毫米，局地超過100毫米。甘肅相繼釋出山洪災害氣象風險藍色預警和地質災害氣象風險黃色預警。甘肅省氣象局提示，此次強降水將呈現出局地性強、小時雨強大、累積雨量大、與前期降水落區重疊度高的特點，致災風險較高，各地需加強防範因強降水可能引發的中小河流洪水、山洪、地質災害及城市內澇等災害。（新華社）"
+    },
     {
       "id": "4983666",
       "time": "2026-07-13 12:50:16",
