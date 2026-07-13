@@ -1,7 +1,219 @@
 {
-  "updated": "2026-07-14 06:04:09",
-  "count": 17231,
+  "updated": "2026-07-14 06:08:03",
+  "count": 17255,
   "items": [
+    {
+      "id": "mkt:019f5d85-6a64-7aab-8d65-2c04a1ace71f",
+      "time": "2026-07-14 06:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Conway said the bank will respond if inf pressure from the Middle East conflict proves more persistent than expected."
+    },
+    {
+      "id": "mkt:019f5d85-5107-7aab-8d65-25a43224b6cf",
+      "time": "2026-07-14 06:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Paul Conway said monetary stimulus may need to be reduced further."
+    },
+    {
+      "id": "4985404",
+      "time": "2026-07-14 06:07:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱美國最終將控制霍爾木茲海峽】美國總統特朗普在橢圓形辦公室表示，美國正在“摧毀”伊朗所有與霍爾木茲海峽有關的能力，稱美國“最終將控制”霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f5d85-20ee-7aab-8d65-1e2cf2c5bfc8",
+      "time": "2026-07-14 06:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Paul Conway said spare capacity in the economy should help limit pass-through effects."
+    },
+    {
+      "id": "mkt:019f5d84-e690-7aab-8d65-16103bb39583",
+      "time": "2026-07-14 06:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist CONWAY said monetary policy can prevent first-round price effects from becoming second-round inflationary pressure."
+    },
+    {
+      "id": "mkt:019f5d84-dab9-7aab-8d65-085af38083a1",
+      "time": "2026-07-14 06:06:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist CONWAY: Encouragingly, medium-term inflation expectations remain well anchored."
+    },
+    {
+      "id": "mkt:019f5d84-c791-7aab-8d65-03eb083ea2e7",
+      "time": "2026-07-14 06:06:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Paul Conway said developments in the Middle East over the past week present upside risk to the bank’s September-quarter forecasts."
+    },
+    {
+      "id": "mkt:019f5d84-c3f1-7aab-8d64-ff6da17aa864",
+      "time": "2026-07-14 06:06:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "RBNZ chief economist Conway said oil prices have retreated, but the oil-price shock will continue to affect the economy for some time."
+    },
+    {
+      "id": "4985403",
+      "time": "2026-07-14 06:06:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：週一晚間將再次發動大規模襲擊。"
+    },
+    {
+      "id": "mkt:019f5d84-abfe-7aab-8d64-f70c1745f770",
+      "time": "2026-07-14 06:06:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RBNZ chief economist Conway said the Middle East conflict, like all supply shocks, complicates monetary policy."
+    },
+    {
+      "id": "mkt:019f5d84-9e84-7aab-8d64-ef11411206ea",
+      "time": "2026-07-14 06:06:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist Conway said understanding how firms respond to cost shocks is critical to keeping inf low and stable."
+    },
+    {
+      "id": "4985402",
+      "time": "2026-07-14 06:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：若中東衝突引發的通脹壓力持續性強於預期，我們將採取應對措施。"
+    },
+    {
+      "id": "mkt:019f5d83-c287-7aab-8d64-e4e6c9edc699",
+      "time": "2026-07-14 06:05:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he hopes countries the U.S. assists in the Strait of Hormuz will pay the U.S. for protection."
+    },
+    {
+      "id": "4985401",
+      "time": "2026-07-14 06:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：可能需要進一步縮減貨幣刺激力度。"
+    },
+    {
+      "id": "4985400",
+      "time": "2026-07-14 06:05:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：經濟中的閒置產能應有助於限制通脹傳導。"
+    },
+    {
+      "id": "4985399",
+      "time": "2026-07-14 06:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：令人鼓舞的是，中期通脹預期仍保持在良好錨定狀態。"
+    },
+    {
+      "id": "4985398",
+      "time": "2026-07-14 06:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：貨幣政策可防止第一輪價格效應演變為第二輪通脹壓力。"
+    },
+    {
+      "id": "4985397",
+      "time": "2026-07-14 06:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：儘管油價已有所回落，但此次衝擊的影響仍將在未來一段時間內持續對經濟產生波及效應。"
+    },
+    {
+      "id": "4985396",
+      "time": "2026-07-14 06:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：中東衝突與所有供給衝擊一樣，令貨幣政策複雜化。"
+    },
+    {
+      "id": "4985395",
+      "time": "2026-07-14 06:04:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：理解企業如何應對成本衝擊，是維持通脹低位穩定的核心基礎。"
+    },
+    {
+      "id": "4985394",
+      "time": "2026-07-14 06:03:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們與伊朗的對抗還會持續一段時間。"
+    },
+    {
+      "id": "mkt:019f5d81-f6e1-7aab-8d64-df135223b4ed",
+      "time": "2026-07-14 06:03:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump: We will be fighting Iran for some time."
+    },
+    {
+      "id": "4985393",
+      "time": "2026-07-14 06:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我們保護霍爾木茲海峽的相關國家，希望這些國家為我們提供補償。"
+    },
+    {
+      "id": "4985392",
+      "time": "2026-07-14 06:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽如今暢通，往後也會一直暢通。"
+    },
     {
       "id": "mkt:019f5d80-005c-7aab-8d64-d0f44c60c682",
       "time": "2026-07-14 06:01:37",
