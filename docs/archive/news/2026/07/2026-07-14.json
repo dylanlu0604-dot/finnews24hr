@@ -1,7 +1,63 @@
 {
   "date": "2026-07-14",
-  "count": 353,
+  "count": 359,
   "items": [
+    {
+      "id": "mkt:019f5d21-dc69-7aab-8d63-e8df6c4e063e",
+      "time": "2026-07-14 04:18:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House official: Trump to back Graham-led Russia sanctions bill】A White House official said President Trump will support passage of a bipartisan Russia sanctions bill led by the late Senator Lindsey Graham. The announcement, made days after Graham’s unexpected death, could remove a key political obstacle to legislation Graham and Democratic Senator Richard Blumenthal had said the administration was prepared to back; negotiators said last Friday an agreement had been reached after extensive talks. Senate Republican leader John Thune said the White House worked closely with Graham on the measure and expressed optimism it can pass, noting it will be a central part of Graham’s political legacy."
+    },
+    {
+      "id": "4985340",
+      "time": "2026-07-14 04:18:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長呼籲保障霍爾木茲海峽航行自由。"
+    },
+    {
+      "id": "4985339",
+      "time": "2026-07-14 04:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國重申禁止赴伊旅行警告，雙重國籍者拘留風險極高】英國於週一再次釋出警告，勸阻民眾切勿前往伊朗，稱英國公民以及英伊雙重國籍人士面臨極高的被捕、傳訊或拘留風險。英國外交部表示，已身處伊朗境內的英國公民應當審慎考量自身處境以及繼續停留的潛在風險。英國外交部補充稱，儘管美伊雙方簽署了諒解備忘錄，但該地區局勢依舊充滿變數，並警告衝突襲擊可能隨時再度爆發。"
+    },
+    {
+      "id": "mkt:019f5d21-0f39-7aab-8d63-e49a23a46c2a",
+      "time": "2026-07-14 04:17:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it shot down a US MQ-1 drone over the Strait of Hormuz."
+    },
+    {
+      "id": "te:economy:566504",
+      "time": "2026-07-14 04:17:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Balance Rebounds in June — Paraguay's trade balance rebounded to a $47.09 million surplus in June 2026 from a $160.11 million deficit in the same month a year earlier. Exports rose 25.1% year-on-year to $1.74 billion, driven mainly by higher shipments of soybeans, soybean oil, and beverages, alcoholic liquids, and vinegar. Imports increased 9.2% to $1.70 billion, with fuels and lubricants, automobiles, SUVs and pickup trucks, and electrical equipment contributing the most to the increase. As a result, Paraguay posted a trade surplus of $746.6 million in the first half of 2026, compared with a $373.8 million deficit in the same period a year earlier."
+    },
+    {
+      "id": "4985338",
+      "time": "2026-07-14 04:17:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲10%，現報78.55美元/桶。"
+    },
     {
       "id": "mkt:019f5d1e-27ac-7aab-8d63-dcbfe5d9bc5f",
       "time": "2026-07-14 04:14:45",
