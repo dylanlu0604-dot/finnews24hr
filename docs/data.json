@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-14 05:32:39",
-  "count": 17211,
+  "updated": "2026-07-14 05:36:31",
+  "count": 17209,
   "items": [
+    {
+      "id": "mkt:019f5d65-8064-7aab-8d64-7a316522ab60",
+      "time": "2026-07-14 05:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio says charging ships in Strait of Hormuz 'not feasible'】CNN reported President Trump said the US may impose a 20% security transit fee on ships transiting the Strait of Hormuz. Last month, US Secretary of State Rubio, on a late‑June visit to three Gulf states, said the Strait is an international waterway and charging ships \"is fundamentally not feasible,\" questioning how payments would be enforced and warning that using force against non‑payers would make such a mechanism impractical and dangerous. Iran has said it would not levy a transit fee but might charge for related services."
+    },
     {
       "id": "4985374",
       "time": "2026-07-14 05:29:00",
@@ -157367,32 +157375,6 @@
         "MKT News"
       ],
       "text": "【Russian deputy foreign minister: Russia will maintain contact with US on Ukraine】Russian Deputy Foreign Minister Ryabkov said on the 6th Moscow will continue contact with Washington on Ukraine despite what he called increasing US departures from agreements reached between the two sides. Earlier, US President Trump said a settlement could come \"much faster than people think.\" Ryabkov added that if the US is prepared to act on proposals put forward by Moscow, the conflict could indeed be resolved quickly."
-    },
-    {
-      "id": "4973034",
-      "time": "2026-07-07 05:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄副外長：俄方將與美國在烏克蘭問題上保持接觸】俄羅斯副外長里亞布科夫6日表示，儘管美國越來越背離其同俄方在烏克蘭問題上達成的協議，但俄方不會中斷同美方在該問題上的接觸。美國總統特朗普當天早些時候稱，解決俄烏衝突將“比人們認為的要快得多”。里亞布科夫就此回應說，如果美國準備在俄方向美方提出的方案基礎上採取行動，衝突確實很快能得到解決。（新華社）"
-    },
-    {
-      "id": "4973033",
-      "time": "2026-07-07 05:33:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西江發生2026年第2號洪水】受降雨及干支流來水影響，珠江流域西江中游幹流大藤峽水利樞紐（廣西桂平）7月7日1時入庫流量漲至25200立方米每秒，依據水利部《全國主要江河洪水編號規定》，此次洪水編號為“西江2026年第2號洪水”。"
-    },
-    {
-      "id": "mkt:019f3959-1b30-7aab-8cbc-b92f034c3a99",
-      "time": "2026-07-07 05:32:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "A Democratic state attorney general has opposed Trump’s proposal to impose import tariffs of up to 12.5% on goods from 60 countries."
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-07-14",
-  "count": 414,
+  "count": 415,
   "items": [
+    {
+      "id": "mkt:019f5d65-8064-7aab-8d64-7a316522ab60",
+      "time": "2026-07-14 05:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio says charging ships in Strait of Hormuz 'not feasible'】CNN reported President Trump said the US may impose a 20% security transit fee on ships transiting the Strait of Hormuz. Last month, US Secretary of State Rubio, on a late‑June visit to three Gulf states, said the Strait is an international waterway and charging ships \"is fundamentally not feasible,\" questioning how payments would be enforced and warning that using force against non‑payers would make such a mechanism impractical and dangerous. Iran has said it would not levy a transit fee but might charge for related services."
+    },
     {
       "id": "4985374",
       "time": "2026-07-14 05:29:00",
