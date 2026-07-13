@@ -1,7 +1,154 @@
 {
   "date": "2026-07-14",
-  "count": 96,
+  "count": 109,
   "items": [
+    {
+      "id": "4985195",
+      "time": "2026-07-14 00:57:59",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "據胡塞武裝關聯媒體報道，沙特南部阿卜哈機場遭導彈襲擊。"
+    },
+    {
+      "id": "4985194",
+      "time": "2026-07-14 00:57:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場訊息：胡塞武裝政治局成員阿里・布海提表示，作為對葉門薩那機場遭襲的報復，該組織將打擊沙烏地阿拉伯的 “關鍵基礎設施”。"
+    },
+    {
+      "id": "mkt:019f5c69-0116-7aab-8d60-e5c12dac94cd",
+      "time": "2026-07-14 00:56:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Waller said he does not see the current size of the Fed's balance sheet causing any problems."
+    },
+    {
+      "id": "mkt:019f5c68-fbcb-7aab-8d60-df97414db76e",
+      "time": "2026-07-14 00:56:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller said there remains significant debate over determining how much the Fed's balance sheet can be reduced if based solely on banks' reserve demand."
+    },
+    {
+      "id": "mkt:019f5c68-f940-7aab-8d60-d715cc06be9b",
+      "time": "2026-07-14 00:56:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Waller said if a way can be found to allow banks to operate with fewer reserve balances, a corresponding reduction in the Fed's balance sheet would be appropriate."
+    },
+    {
+      "id": "mkt:019f5c68-e63e-7aab-8d60-cd84a7f5e2ad",
+      "time": "2026-07-14 00:56:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Waller said a working group will study whether and to what extent the Fed's balance sheet can be further reduced."
+    },
+    {
+      "id": "mkt:019f5c68-b4d5-7aab-8d60-c36551798207",
+      "time": "2026-07-14 00:56:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fed Governor WALLER said he sees no reason to let bank reserves become scarce again."
+    },
+    {
+      "id": "mkt:019f5c68-7eda-7aab-8d60-ba49c197708c",
+      "time": "2026-07-14 00:56:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose more than 6% intraday after reports that Yemeni Houthi militants attacked a Saudi airport."
+    },
+    {
+      "id": "4985193",
+      "time": "2026-07-14 00:56:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 很難看出當前規模的資產負債表會引發任何問題。"
+    },
+    {
+      "id": "4985192",
+      "time": "2026-07-14 00:55:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：我認為完全沒有必要採用準備金稀缺制度。 若能找到讓銀行無需持有高額準備金的辦法，那麼相應縮減資產負債表便不存在障礙。"
+    },
+    {
+      "id": "4985191",
+      "time": "2026-07-14 00:55:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3990美元/盎司，日內跌3.19%。"
+    },
+    {
+      "id": "4985190",
+      "time": "2026-07-14 00:55:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 認為沒有任何理由長期維持準備金稀缺機制。"
+    },
+    {
+      "id": "mkt:019f5c67-2dbb-7aab-8d60-b5d20cc84067",
+      "time": "2026-07-14 00:54:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reports an attack on Abha International Airport in Saudi Arabia."
+    },
     {
       "id": "4985189",
       "time": "2026-07-14 00:53:13",
