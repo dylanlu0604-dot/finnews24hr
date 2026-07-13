@@ -1,7 +1,51 @@
 {
   "date": "2026-07-14",
-  "count": 491,
+  "count": 496,
   "items": [
+    {
+      "id": "mkt:019f5d97-2e29-7aab-8d65-69531d7b8383",
+      "time": "2026-07-14 06:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Chief Economist CONWAY said the MPC reached consensus last week and no vote was required."
+    },
+    {
+      "id": "mkt:019f5d97-236f-7aab-8d65-65d5eb4d2f32",
+      "time": "2026-07-14 06:26:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Trump says Middle East allies should pay for U.S. protection】On July 13, Trump said the United States is protecting several wealthy Middle Eastern countries—naming Saudi Arabia, the UAE, Qatar, Bahrain and Kuwait—and should be reimbursed for those costs. He said the U.S. spends money in the region and the protected states should bear related expenses. Trump also claimed that, counting oil from places like Venezuela, the U.S. controls more than half of global oil supplies and therefore is not dependent on Middle Eastern oil; he said U.S. actions in the region are primarily to protect allies."
+    },
+    {
+      "id": "4985424",
+      "time": "2026-07-14 06:26:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱中東盟友應支付保護費】當地時間7月13日，美國總統特朗普表示，美國正在保護中東多個富裕國家，因此應獲得相關國家的費用補償。特朗普點名沙烏地阿拉伯、阿聯酋、卡達、巴林和科威特等國，稱美國正在維護這些國家以及以色列的安全。他稱，美國在當地投入資金，因此由受保護國家分擔相關成本是適當的。 特朗普還表示，美國擁有豐富的石油資源，“將委內瑞拉等地的石油計算在內，美國掌握的石油供應量超過全球一半”，因此美國自身“並不依賴中東的石油”——美國在中東採取行動“主要是為了保護盟友”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985423",
+      "time": "2026-07-14 06:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國對古新一輪制裁】當地時間7月13日，古巴國家主席迪亞斯-卡內爾與外交部長羅德里格斯分別在社交媒體上發文，強烈譴責美國當天宣佈的新一輪制裁措施。古巴國家主席迪亞斯-卡內爾指出，又一份針對古巴的“制裁”清單，是美國急於扼殺古巴經濟的施壓升級，企圖對人民造成更大傷害。他提到，這一計劃“不到一週前剛在聯合國遭到譴責”。（央視新聞）"
+    },
+    {
+      "id": "4985422",
+      "time": "2026-07-14 06:25:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署公告，旨在對特定固定汙染源減免監管要求。"
+    },
     {
       "id": "4985421",
       "time": "2026-07-14 06:22:11",

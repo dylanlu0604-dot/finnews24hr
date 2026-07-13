@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-14 06:23:39",
-  "count": 17272,
+  "updated": "2026-07-14 06:27:34",
+  "count": 17273,
   "items": [
+    {
+      "id": "mkt:019f5d97-2e29-7aab-8d65-69531d7b8383",
+      "time": "2026-07-14 06:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Chief Economist CONWAY said the MPC reached consensus last week and no vote was required."
+    },
+    {
+      "id": "mkt:019f5d97-236f-7aab-8d65-65d5eb4d2f32",
+      "time": "2026-07-14 06:26:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Trump says Middle East allies should pay for U.S. protection】On July 13, Trump said the United States is protecting several wealthy Middle Eastern countries—naming Saudi Arabia, the UAE, Qatar, Bahrain and Kuwait—and should be reimbursed for those costs. He said the U.S. spends money in the region and the protected states should bear related expenses. Trump also claimed that, counting oil from places like Venezuela, the U.S. controls more than half of global oil supplies and therefore is not dependent on Middle Eastern oil; he said U.S. actions in the region are primarily to protect allies."
+    },
+    {
+      "id": "4985424",
+      "time": "2026-07-14 06:26:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱中東盟友應支付保護費】當地時間7月13日，美國總統特朗普表示，美國正在保護中東多個富裕國家，因此應獲得相關國家的費用補償。特朗普點名沙烏地阿拉伯、阿聯酋、卡達、巴林和科威特等國，稱美國正在維護這些國家以及以色列的安全。他稱，美國在當地投入資金，因此由受保護國家分擔相關成本是適當的。 特朗普還表示，美國擁有豐富的石油資源，“將委內瑞拉等地的石油計算在內，美國掌握的石油供應量超過全球一半”，因此美國自身“並不依賴中東的石油”——美國在中東採取行動“主要是為了保護盟友”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985423",
+      "time": "2026-07-14 06:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國對古新一輪制裁】當地時間7月13日，古巴國家主席迪亞斯-卡內爾與外交部長羅德里格斯分別在社交媒體上發文，強烈譴責美國當天宣佈的新一輪制裁措施。古巴國家主席迪亞斯-卡內爾指出，又一份針對古巴的“制裁”清單，是美國急於扼殺古巴經濟的施壓升級，企圖對人民造成更大傷害。他提到，這一計劃“不到一週前剛在聯合國遭到譴責”。（央視新聞）"
+    },
+    {
+      "id": "4985422",
+      "time": "2026-07-14 06:25:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署公告，旨在對特定固定汙染源減免監管要求。"
+    },
     {
       "id": "4985421",
       "time": "2026-07-14 06:22:11",
@@ -157912,39 +157956,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Falls by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.01%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.16%) and Brent Crude Oil (-0.07%). Gains are led by Gasoline (1.67%), Heating Oil (1.46%) and Ethanol (1.32%)."
-    },
-    {
-      "id": "4973046",
-      "time": "2026-07-07 06:27:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【低估值遇上高分紅 銀行板塊估值修復視窗正在開啟 】今年以來，A股銀行板塊維持“低估值、高分紅”特徵，截至7月6日收盤，申萬銀行指數跌超9%，42家上市銀行全部“破淨”，僅9家銀行股價上漲。與二級市場走勢形成反差的是，銀行股分紅保持穩健，多家上市銀行的動態股息率超過5%。這引發了市場對於銀行股配置價值的討論。業內人士認為，低利率環境下，銀行股類固收屬性凸顯，板塊估值修復視窗正在開啟。（中證報）"
-    },
-    {
-      "id": "4973045",
-      "time": "2026-07-07 06:25:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【記憶體價格一路上漲 硬碟價格水漲船高】在被譽為“中國電子第一街”的深圳華強北，遊戲發燒友徐紹安最近準備玩一款3A遊戲，計劃升級一下電腦，他諮詢發現，一套32GB的DDR5記憶體套裝目前已經漲到近4000元，比去年貴了三四倍，於是他決定降低配置，改用24GB配置，等以後價格下降再做升級。 記者調查瞭解到，除了記憶體價格一路上漲以外，硬碟價格同樣水漲船高，以某款1TB固態硬碟為例，目前已經漲到900多元，不少電腦裝機商表示，目前零部件和整機的價格處於高位，導致不少裝機客戶選擇觀望。 記者統計發現，跟去年對比，主流型號的儲存產品價格漲幅皆超過100%。其中：1TB固態硬碟去年410元，現在950元，漲幅132%；16G DDR5記憶體去年450元，現在1800元，漲幅300%；32G DDR5記憶體去年900元，現在3800元，漲幅322%。 (央視財經)"
-    },
-    {
-      "id": "4973044",
-      "time": "2026-07-07 06:25:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【萬億買斷式逆回購落地 流動性呵護力度持續提升 】7月6日，中國人民銀行開展10000億元3個月期買斷式逆回購操作，同步投放70億元7天期逆回購。據Wind資料，當日有8000億元買斷式逆回購、1575億元7天期逆回購到期，市場實現淨投放495億元。專家表示，當前央行呵護市場流動性的力度持續提升，若後續政府債券供給等因素階段性擾動資金面，央行將綜合運用各類工具加大流動性投放，維護資金面平穩執行。（中證報）"
-    },
-    {
-      "id": "4973043",
-      "time": "2026-07-07 06:23:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新版交易規則施行首日，ST板塊表現分化】7月6日，滬深北交易所新版交易規則正式施行。其中，最受市場關注的變化之一，是滬深市主機板風險警示股票（ST、*ST）漲跌幅限制從5%放寬至10%，與主機板其他股票實現統一。新規實施首日，ST板塊（包括ST、*ST股）表現分化。截至當日收盤，東財編制的ST板塊指數收跌1.31%，ST星農、ST海王、ST瑞茂等個股收穫10%漲停。記者注意到，新規落地前，ST板塊已經歷了一輪“先抑後揚”的走勢：板塊指數自4月底持續回撥，6月29日觸及近一年新低，隨後開啟反彈，最近5個交易日累計漲幅超過5%。（上證報）"
     }
   ]
 }
