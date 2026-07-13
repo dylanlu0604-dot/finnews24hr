@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-14 05:44:14",
-  "count": 17209,
+  "updated": "2026-07-14 05:48:08",
+  "count": 17210,
   "items": [
+    {
+      "id": "mkt:019f5d72-4ab0-7aab-8d64-8c2d3ed75559",
+      "time": "2026-07-14 05:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reports multiple explosions heard in Jam County, Bushehr province."
+    },
     {
       "id": "mkt:019f5d6a-9cdf-7aab-8d64-8185215e4bd1",
       "time": "2026-07-14 05:38:15",
