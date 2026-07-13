@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-13 08:38:41",
-  "count": 16708,
+  "updated": "2026-07-13 08:42:32",
+  "count": 16711,
   "items": [
+    {
+      "id": "4983287",
+      "time": "2026-07-13 08:41:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌2.1%，至7322.27。"
+    },
+    {
+      "id": "4983286",
+      "time": "2026-07-13 08:41:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌2.1%，收於7322.27。"
+    },
+    {
+      "id": "mkt:019f58ec-2406-7aab-8d48-799ee3beb8e0",
+      "time": "2026-07-13 08:41:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended losses to about 2%, with SK Hynix down nearly 7% and Samsung Electronics off just over 1%."
+    },
+    {
+      "id": "mkt:019f58eb-cc7f-7aab-8d48-777c93deb089",
+      "time": "2026-07-13 08:41:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported a US airstrike on the port of Mahshahr in southwest Iran killed one and wounded four."
+    },
+    {
+      "id": "4983285",
+      "time": "2026-07-13 08:41:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報74.27美元/桶。"
+    },
+    {
+      "id": "4983284",
+      "time": "2026-07-13 08:40:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（IRNA）訊息：美國空襲伊朗馬赫沙赫爾一座抽水站，造成1人死亡、4人受傷。"
+    },
+    {
+      "id": "4983283",
+      "time": "2026-07-13 08:40:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價延續跌勢，下跌6.4%。"
+    },
+    {
+      "id": "4983282",
+      "time": "2026-07-13 08:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：三星電子擬將龍仁晶片廠啟用時間提前至2029年】一位訊息人士週一表示，三星電子計劃將龍仁晶片廠啟用時間從2030-2031年提前至2029年，以滿足人工智慧(AI)基礎設施對記憶體晶片激增的需求。"
+    },
+    {
+      "id": "4983281",
+      "time": "2026-07-13 08:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：半導體大廠擴產將直接帶動潔淨室相關裝置及零部件需求】新萊應材7月13日在互動平臺稱，半導體大廠擴產將直接帶動潔淨室相關裝置及零部件的市場需求。公司主營產品為真空腔體、管道、管件、泵閥、法蘭等，屬於高潔淨流體管路系統、超高真空系統和超高潔淨氣體管路系統的關鍵元件，是潔淨室配套建設的重要組成部分。在潔淨室領域，公司的潔淨應用材料產品可滿足泛半導體工藝過程中對真空度、潔淨度的要求，可應用於半導體、生物醫藥等行業的潔淨室相關場景。"
+    },
     {
       "id": "4983280",
       "time": "2026-07-13 08:37:57",
@@ -152185,66 +152267,6 @@
         "Importance 1"
       ],
       "text": "Australia Stocks Edge Down as Week Opens — Australian equities slipped in early Monday trade, easing 20 points or 0.2% to 8,825 and unwinding part of the prior session’s rally. The retreat pulled the market back from a one-week high as investors booked profits and turned cautious ahead of fresh job ads data and the June inflation gauge due later today. Concerns over further cash rate tightening also resurfaced, underscored by the Reserve Bank’s June minutes and Governor Michele Bullock’s recent remarks. In China, June CPI and PPI figures are expected later this week, with May showing steady consumer inflation but faster producer price gains. Sector moves were mixed: industrial services, consumer durables, and manufacturing weakened, though healthcare, electronic tech, and consumer non-durables provided some offset. The major banks lost between 0.3% and 0.9%, while Genesis Minerals tumbled 6.7%, Suncorp shed 3.5%, and Greatland Resources fell 2.6%."
-    },
-    {
-      "id": "4971250",
-      "time": "2026-07-06 08:42:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔遭到俄羅斯彈道導彈襲擊 此次襲擊發生在土耳其即將舉行關鍵北約峰會的前夕】烏克蘭空軍通報，當地時間週一凌晨，俄羅斯使用彈道導彈襲擊烏克蘭首都基輔。此次空襲發生在土耳其北約峰會開幕前夕，美國總統唐納德・特朗普計劃出席本次關鍵峰會。凌晨時分，全城各處接連傳來爆炸聲，俄軍同步出動無人機、巡航導彈發起複合打擊，空襲仍在持續。基輔市市長維塔利・克利奇科在社交平臺釋出宣告稱，市內至少兩個轄區出現起火情況，建築遭導彈殘骸損毀。爆炸聲響起前不久，基輔全市拉響防空警報。此次空襲落地前，烏克蘭總統弗拉基米爾・澤連斯基於週日發出預警，情報顯示俄羅斯正籌備新一輪大規模打擊。"
-    },
-    {
-      "id": "mkt:019f34de-829f-7aab-8ca6-6b103db76350",
-      "time": "2026-07-06 08:40:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Huatai Securities: Korea's strong AI-driven exports point to sustained gains for Asian AI supply chains】Huatai Securities said robust AI supply-chain demand pushed South Korea's June exports well above expectations and lifted the trade surplus to a record high. Leading indicators show AI-related trade remains in a high-growth phase, implying Korea's export strength could persist and support elevated nominal GDP growth. The Philadelphia Semiconductor Index, which leads Korean semiconductor exports by about four months, remains high YoY, signaling continued chip export momentum. Rising memory prices amid strong AI demand are further supporting nominal export values. Huatai concludes the export surge indicates the global AI supply chain is still on an upward path and that Asian suppliers, including Korea and China, are likely to keep benefiting."
-    },
-    {
-      "id": "4971249",
-      "time": "2026-07-06 08:40:11",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：韓國出口高增表明全球AI鏈貿易仍處上行通道 亞洲AI供應鏈有望持續受益】華泰證券研報指出，AI鏈出口高景氣繼續推動韓國6月出口大超預期，貿易順差再創歷史新高。展望後續，領先指標顯示AI鏈貿易維持高增，韓國出口有望延續亮眼表現，或推動韓國名義GDP維持較高增速。短期看，領先韓國半導體出口約四個月的費城半導體指數同比仍處高位，指向韓國半導體出口景氣有望延續；同時，在AI需求強勁的背景下，儲存價格仍在上漲，價格將繼續支撐名義出口。韓國出口高增表明全球AI鏈貿易仍處上行通道，韓國、中國等亞洲AI供應鏈有望持續受益。"
-    },
-    {
-      "id": "4971248",
-      "time": "2026-07-06 08:39:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【賈躍亭宣佈FF機器人Q3戰役：與洛杉磯兩大公立學區合辦夏令營】賈躍亭今日發文宣佈，FF機器人正式打響Q3戰役，Q3是其在美國市場夯實基礎的關鍵階段，公司將圍繞教育、工業、巡檢安防等場景加快商業化落地。 7月6日起，FF機器人首批三大示範機器人夏令營同步開營。 其中兩場分別與洛杉磯的Lynwood學區和El Segundo學區合作——後者也是FF矽灘新總部所在地。 另一場則與美國全週期教育機構Triple I合作，夏令營將圍繞產品、技術、課件和教育生態展開。 此外，繼Lynwood學區之後，FF近期也與El Segundo學區正式簽署了戰略合作諒解備忘錄，進一步擴大與公立學區的合作範圍。"
-    },
-    {
-      "id": "mkt:019f34dd-efcc-7aab-8ca6-6219eeff2bca",
-      "time": "2026-07-06 08:39:47",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bullish"
-      ],
-      "text": "【NZIER shadow MPC narrowly backs RBNZ hold at 2.25% for July】NZIER’s shadow monetary policy committee was nearly split but narrowly preferred the RBNZ leave the OCR at 2.25% in July, describing the hold as a close call versus a 25bp hike. Those favoring an earlier lift to neutral cited rising inflation; opponents flagged weak demand and elevated unemployment as reasons for caution. Committee members were divided on the oil-price shock—some saw its inflationary impact as transitory and fading, others warned of more persistent price pressure. Several members said the next key policy assessment point is the Q2 CPI release. The panel unanimously judged the OCR should reach 3.0–3.25% over the next year and advocated a gradual return of policy to neutral, while noting weak demand and high unemployment argue for cautious tightening."
-    },
-    {
-      "id": "4971247",
-      "time": "2026-07-06 08:38:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【從“跟隨者”轉向“定義者” 深圳積體電路產業持續深化全產業鏈佈局】由深圳市半導體行業協會發布的《深圳積體電路產業發展研究報告（2025年度）》顯示，2025年，深圳積體電路產業銷售收入為3610.4億元，同比增長27.1%，居全國前列。其中，設計業銷售收入達2421.3億元，同比增長26.5%，佔全國積體電路設計產值的29.3%。這個數字，讓深圳自2021年部分頭部企業受外部打壓後，重新回到全國城市設計業首位。長久以來，高階手機晶片的競爭陷入固化思維：要提升效能，唯有依賴高階的EUV光刻機，向更先進的製程節點不斷突進。然而，今年秋季即將面世的麒麟2026晶片，將徹底打破這條“行業鐵律”。今年5月，華為半導體業務部總裁何庭波在國際電路與系統研討會上透露，該晶片將首次採用“邏輯摺疊”技術，以“時間縮微”替代“幾何縮微”，透過雙層垂直堆疊架構，在不依賴先進光刻的前提下提升效能與能效，“未來十年，我們會持續走向全面摺疊，甚至走向更多層的摺疊”。“這是中國在全球半導體領域，首次提出指導產業發展的新原則。” 深圳市半導體行業協會會長盧國建表示，當摩爾定律逼近物理極限，中國晶片企業開始從“跟隨者”轉向“定義者”。"
     }
   ]
 }
