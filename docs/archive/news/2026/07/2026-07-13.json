@@ -1,7 +1,152 @@
 {
   "date": "2026-07-13",
-  "count": 2207,
+  "count": 2223,
   "items": [
+    {
+      "id": "4984798",
+      "time": "2026-07-13 20:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度儲備銀行召開內部監察專員第三次年度會議。"
+    },
+    {
+      "id": "4984797",
+      "time": "2026-07-13 20:08:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST麥趣：債權人擬申請公司破產清算 後續情況存重大不確定性】ST麥趣公告稱，債權人銘慧機械向昌吉州中院申請對公司進行破產清算，其對公司債權為剩餘貨款595.49萬元。公司2025年度營收6.00億元，淨虧損1.03億元；2026年1-3月營收1.28億元，淨虧損0.13億元。目前公司經營正常，未達破產清演算法定條件。後續是否進入破產清算程式尚不確定，若法院受理申請，公司股票可能被實施退市風險警示。"
+    },
+    {
+      "id": "4984796",
+      "time": "2026-07-13 20:08:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯瞳完成數億元戰略融資】近日，芯瞳半導體技術（廈門）有限公司（簡稱“芯瞳”）正式完成A股上市公司浙江大勝達包裝股份有限公司（簡稱“大勝達”）數億元戰略投資交割。本輪戰略級投資由大勝達以實質性資金投入國產算力賽道，彰顯其深耕GPU產業、推動算力國產化的堅定戰略決心。雙方將合力補齊國產高階算力供給短板，系統性解決國內大算力叢集及專業高效能渲染領域長期對外依賴的難題，為數字經濟基礎設施自主可控提供核心硬體支撐。"
+    },
+    {
+      "id": "mkt:019f5b60-2d0c-7aab-8d5a-36fa28e7a3fa",
+      "time": "2026-07-13 20:07:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【OPEC monthly report: four takeaways】OPEC crude output revised to 18.952 mb/d in May and 22.002 mb/d in June, up 3.051 mb/d MoM. China refined-product net imports fell 1.55 mb/d in May to 8.10 mb/d (April: -2.90 mb/d). India refined-product net imports rose 0.32 mb/d in May to 4.97 mb/d (April: +0.51 mb/d). US refined-product net imports rose 0.57 mb/d in June to -4.99 mb/d (May: -0.11 mb/d)."
+    },
+    {
+      "id": "4984795",
+      "time": "2026-07-13 20:07:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2600餘件中央防汛物資緊急調撥遼寧】7月13日，應遼寧省防汛抗旱指揮部請求，國家防辦會同國家糧食和儲備局緊急調撥復膜編織布等2600餘件中央防汛物資，支援遼寧省做好防汛搶險工作。（澎湃）"
+    },
+    {
+      "id": "4984794",
+      "time": "2026-07-13 20:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：若冗長辯論規則不終止，政府或於9月停擺。"
+    },
+    {
+      "id": "mkt:019f5b5f-8d99-7aab-8d5a-2884a6efc223",
+      "time": "2026-07-13 20:06:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "President Trump said the government could shut down in September if the Senate filibuster rule is not ended."
+    },
+    {
+      "id": "4984793",
+      "time": "2026-07-13 20:06:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋向OPEC通報，上月其石油產量激增80%】OPEC月報：阿聯酋告知OPEC，其石油產量上月激增80%，原因是阿布扎比找到了應對伊朗戰爭的變通辦法，且在退出該產油國組織後可以自由增產。阿聯酋告知OPEC，其6月原油日產量為380萬桶，較5月增加171萬桶/日。"
+    },
+    {
+      "id": "4984792",
+      "time": "2026-07-13 20:06:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【每秒520萬億次浮點運算 我國自研AI晶片取得架構突破】7月13日，我國首顆採用軟體定義與三維近存計算技術的AI晶片在上海正式亮相。這顆晶片在14奈米制程工藝上，實現了每秒520萬億次浮點運算的算力，其最大特點是透過底層架構創新，走出了一條不依賴先進製程的高階算力發展路徑。據瞭解，該晶片採用了軟體定義與三維垂直堆疊技術，將計算單元與儲存單元緊密整合在一起，訪存頻寬達到每秒6.4TB，從架構上緩解了長期困擾晶片設計的“儲存牆”瓶頸。由於不再單純依賴製程微縮來提升效能，這條技術路線的供應鏈更加穩定可控。同步釋出的還有與該晶片配套的全棧軟體工具鏈，相容主流深度學習框架，並形成了從單張加速卡、AI伺服器，到液冷超節點、大規模智算叢集的完整產品體系，能夠為大模型訓練與推理提供規模化、可落地的算力支撐。（央視新聞）"
+    },
+    {
+      "id": "4984791",
+      "time": "2026-07-13 20:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍：12日夜間打擊140個伊朗目標】美國中央司令部當地時間13日表示，美軍12日夜間打擊了140個目標，而9日和8日夜間分別打擊了90個和80個目標。對於13日凌晨的行動，美軍表示僅襲擊了多個地點的“數十個目標”。據美國方面分析稱，美軍近期對伊朗的空襲次數持續增加，打擊範圍已從霍爾木茲海峽沿岸擴大至伊朗內陸地區，顯示本輪衝突進一步升級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5b5f-04a5-7aab-8d5a-26dd43a05d85",
+      "time": "2026-07-13 20:06:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM: US struck 140 Iranian targets overnight on 12th】CENTCOM said on the local date of the 13th the US struck 140 targets overnight on the 12th, following strikes on 90 and 80 targets on the nights of the 9th and 8th respectively. In pre-dawn action on the 13th the US said it hit \"dozens of targets\" at multiple locations. US assessments say the tempo of strikes has increased and the strike zone has expanded from the Strait of Hormuz coast into inland Iran, indicating the current round of conflict has further escalated."
+    },
+    {
+      "id": "4984790",
+      "time": "2026-07-13 20:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗一農用水泵站，致1死4傷】7月12日至13日，美軍對伊朗多處發動打擊。伊朗方面訊息稱胡齊斯坦省一處農用水泵站被擊中，導致1人死亡、4人受傷。美方稱其打擊旨在削弱伊朗攻擊霍爾木茲海峽商船的能力。（澎湃）"
+    },
+    {
+      "id": "4984789",
+      "time": "2026-07-13 20:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門首都薩那國際機場遭空襲】總檯記者當地時間13日獲悉，葉門首都薩那國際機場當天遭空襲。據悉，襲擊發生在當地時間下午2點左右，機場被4枚炸彈擊中，空襲目標主要為機場跑道。葉門胡塞武裝透過其控制的馬西拉電視臺表示，此次襲擊是沙特所為。在空襲發生前，胡塞武裝不願具名的內部訊息人士透露，前往伊朗參加伊朗已故最高領袖哈梅內伊悼念活動的葉門胡塞武裝高階代表團計劃在當地時間13日中午乘坐伊朗方面的飛機抵達葉門薩那國際機場。（澎湃）"
+    },
+    {
+      "id": "4984788",
+      "time": "2026-07-13 20:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克將2026年全球經濟增長預測維持在3.1%，將2027年全球經濟增長預測維持在3.2%。"
+    },
+    {
+      "id": "mkt:019f5b5d-e388-7aab-8d5a-1d629f3abb0f",
+      "time": "2026-07-13 20:05:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "OPEC monthly report maintained Eurozone GDP growth forecasts at 1.0% for 2026 and 1.2% for 2027."
+    },
+    {
+      "id": "4984787",
+      "time": "2026-07-13 20:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克將2026年美國經濟增長維持在2.2%；將2027年美國經濟增長預測維持在2%。"
+    },
     {
       "id": "mkt:019f5b5d-87e7-7aab-8d5a-179dedaa85a8",
       "time": "2026-07-13 20:04:43",
