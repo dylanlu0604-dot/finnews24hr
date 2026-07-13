@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-14 01:27:01",
-  "count": 17158,
+  "updated": "2026-07-14 01:30:58",
+  "count": 17159,
   "items": [
+    {
+      "id": "mkt:019f5c86-d110-7aab-8d61-ea0c173768a5",
+      "time": "2026-07-14 01:29:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Waller suggests delaying dot-plot release to day after FOMC meeting】Fed Governor Waller said he cannot speak for the full FOMC but can clarify the median rate projection, and proposed shifting publication of the Fed's dot plot to the day after FOMC meetings rather than releasing it the same day."
+    },
+    {
+      "id": "4985232",
+      "time": "2026-07-14 01:29:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破81美元/桶，日內漲6.57%。"
+    },
+    {
+      "id": "mkt:019f5c86-6a83-7aab-8d61-e0e191ea339e",
+      "time": "2026-07-14 01:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry strongly condemned the attack on Sanaa International Airport, calling it a blatant violation of international law and the UN Charter."
+    },
+    {
+      "id": "4985231",
+      "time": "2026-07-14 01:28:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破76美元/桶，日內漲6.43%。"
+    },
+    {
+      "id": "mkt:019f5c84-9309-7aab-8d61-de75d95ad48e",
+      "time": "2026-07-14 01:26:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WALLER: Setting a clear inflation range would provide a defined price metric to serve as the policy benchmark."
+    },
     {
       "id": "4985230",
       "time": "2026-07-14 01:25:14",
@@ -156762,39 +156810,6 @@
         "Impact bearish"
       ],
       "text": "Ukrainian President Zelenskiy said there is a shortage of weapons to counter ballistic missiles and that air-defence production capacity cannot meet civilian protection needs, calling the situation \"absurd to the extreme\"."
-    },
-    {
-      "id": "4972937",
-      "time": "2026-07-07 01:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：暫無計劃在黎巴嫩安全緩衝區腹地設立永久性軍事基地。"
-    },
-    {
-      "id": "4972936",
-      "time": "2026-07-07 01:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已有50萬名兒童收到特朗普專屬賬戶的首筆1000美元啟動存款。"
-    },
-    {
-      "id": "mkt:019f3878-f634-7aab-8cba-4bbd8a950287",
-      "time": "2026-07-07 01:27:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israeli official says it does not plan to establish permanent military bases in the southern Lebanon security zone."
-    },
-    {
-      "id": "4972935",
-      "time": "2026-07-07 01:27:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "孟加拉國電力短缺問題持續加劇，該國政府無力支付能源費用，過去兩週每日計劃性限電負荷最高達3350兆瓦。"
     }
   ]
 }
