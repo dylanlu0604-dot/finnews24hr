@@ -1,7 +1,349 @@
 {
-  "updated": "2026-07-14 00:30:15",
-  "count": 17078,
+  "updated": "2026-07-14 00:34:21",
+  "count": 17104,
   "items": [
+    {
+      "id": "4985174",
+      "time": "2026-07-14 00:33:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員預計美聯儲本月加息的可能性為50%。"
+    },
+    {
+      "id": "4985173",
+      "time": "2026-07-14 00:33:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌3%，現報3994.41美元/盎司。"
+    },
+    {
+      "id": "4985172",
+      "time": "2026-07-14 00:33:27",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "委內瑞拉央行：該國 6 月通脹率上漲 13.8% 。"
+    },
+    {
+      "id": "4985171",
+      "time": "2026-07-14 00:33:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4000美元/盎司，日內跌2.92%。"
+    },
+    {
+      "id": "mkt:019f5c53-4adb-7aab-8d60-4bf3874769d5",
+      "time": "2026-07-14 00:33:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "WALLER said he is determined to avoid repeating the Fed's 2021 mistakes, but the labor market is no longer as tight as it was then and inflation expectations remain stable."
+    },
+    {
+      "id": "mkt:019f5c53-2366-7aab-8d60-40bd75920c35",
+      "time": "2026-07-14 00:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Waller said the economy's underlying condition is solid."
+    },
+    {
+      "id": "mkt:019f5c53-1a80-7aab-8d60-3d4fc600ff5f",
+      "time": "2026-07-14 00:32:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed Governor WALLER said household and business spending remain strong despite tariffs pushing up goods costs and energy-price spikes from the Middle East conflict."
+    },
+    {
+      "id": "mkt:019f5c53-0db2-7aab-8d60-320e97962e50",
+      "time": "2026-07-14 00:32:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "WALLER said tariffs, energy prices and AI-related construction demand are factors pushing inf higher."
+    },
+    {
+      "id": "mkt:019f5c52-f257-7aab-8d60-2b93ad9d9c18",
+      "time": "2026-07-14 00:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "WALLER: labor market is not a source of inflationary pressure, nor does it affect the strength of economic expansion."
+    },
+    {
+      "id": "mkt:019f5c52-f006-7aab-8d60-213b36cefc2c",
+      "time": "2026-07-14 00:32:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Waller said he is also concerned monetary policy may still need to tighten further."
+    },
+    {
+      "id": "4985170",
+      "time": "2026-07-14 00:32:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 若本週核心通脹資料再度大幅走高，美國央行將需考慮在短期內加息。"
+    },
+    {
+      "id": "4985169",
+      "time": "2026-07-14 00:32:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 需要連續數月看到核心通脹走低，才能認定通脹正朝著目標方向回落。"
+    },
+    {
+      "id": "4985168",
+      "time": "2026-07-14 00:32:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 對核心通脹居高不下的增速感到擔憂。"
+    },
+    {
+      "id": "mkt:019f5c52-1b4c-7aab-8d60-1dd2401f8ef4",
+      "time": "2026-07-14 00:31:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Governor WALLER said inflation can return to 2% without further rate hikes, and that assessment remains credible."
+    },
+    {
+      "id": "4985167",
+      "time": "2026-07-14 00:31:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 無需進一步加息，通脹仍有可信的回落至 2% 目標的路徑。"
+    },
+    {
+      "id": "4985166",
+      "time": "2026-07-14 00:31:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 致力於將通脹回落至 2% 的目標水平，同時避免過度收緊貨幣政策而引發衰退風險。"
+    },
+    {
+      "id": "4985165",
+      "time": "2026-07-14 00:31:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 存在另一種同等可能性的情形，即後續需要收緊貨幣政策，對此我心存擔憂。"
+    },
+    {
+      "id": "mkt:019f5c51-be24-7aab-8d60-16c149b797fe",
+      "time": "2026-07-14 00:31:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Federal Reserve governor WALLER said he is committed to returning inf to the 2% target while avoiding excessive tightening that could raise the risk of recession."
+    },
+    {
+      "id": "4985164",
+      "time": "2026-07-14 00:31:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 預計從本週公佈的通脹資料開始，總體通脹將出現回落，但他將重點關注核心通脹指標。"
+    },
+    {
+      "id": "4985163",
+      "time": "2026-07-14 00:30:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 實體經濟基本面狀況良好。"
+    },
+    {
+      "id": "4985162",
+      "time": "2026-07-14 00:30:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：決心避免美聯儲重蹈 2021 年的覆轍；不過當前勞動力市場不再那麼緊張，且通脹預期已趨於穩定。"
+    },
+    {
+      "id": "mkt:019f5c50-ed8c-7aab-8d60-0df285bfe49a",
+      "time": "2026-07-14 00:30:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "WALLER: US labor market stable and close to the Fed's maximum-employment objective."
+    },
+    {
+      "id": "4985161",
+      "time": "2026-07-14 00:30:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 儘管關稅推高商品成本、中東衝突導致能源價格飆升，但居民與企業支出依舊具備韌性。"
+    },
+    {
+      "id": "mkt:019f5c50-d44b-7aab-8d60-06d018b773dc",
+      "time": "2026-07-14 00:30:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Waller said earlier concerns that high oil prices could spur broader inflationary pressures have eased significantly."
+    },
+    {
+      "id": "4985160",
+      "time": "2026-07-14 00:30:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 關稅、能源價格、人工智慧產業擴張帶來的需求，均是推高通脹的影響因素。"
+    },
+    {
+      "id": "mkt:019f5c50-947e-7aab-8d5f-fc3c1fa714bf",
+      "time": "2026-07-14 00:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Waller said if core inflation prints high again this week, the Fed will need to consider near-term rate hikes."
+    },
+    {
+      "id": "4985159",
+      "time": "2026-07-14 00:30:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：此前市場擔憂高油價或將大範圍推升各類物價，目前該擔憂已大幅緩解。"
+    },
+    {
+      "id": "4985158",
+      "time": "2026-07-14 00:29:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 勞動力市場保持穩定，已接近美聯儲充分就業目標。"
+    },
+    {
+      "id": "4985157",
+      "time": "2026-07-14 00:29:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 預計居民消費支出將穩健增長，與人工智慧相關的強勁投資勢頭將延續。"
+    },
+    {
+      "id": "4985156",
+      "time": "2026-07-14 00:29:35",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 勞動力市場既不會帶來通脹壓力，也無需擔憂其拖累經濟擴張勢頭。"
+    },
     {
       "id": "mkt:019f5c4c-d0e4-7aab-8d5f-f5675783f20e",
       "time": "2026-07-14 00:26:05",
@@ -155803,39 +156145,6 @@
         "國際"
       ],
       "text": "特朗普：多年來，華盛頓政客留給我們後代的只有鉅額債務。如今，有今天在場諸位（美國各大巨頭公司負責人）的鼎力支援，我們正助力美國年輕人開啟財富自由之路，幫他們打造理應擁有的美好未來。"
-    },
-    {
-      "id": "mkt:019f3847-ad84-7aab-8cb9-82a910d785c3",
-      "time": "2026-07-07 00:34:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Arabica coffee futures rose 18%, their largest intraday gain since July 2000."
-    },
-    {
-      "id": "4972906",
-      "time": "2026-07-07 00:33:41",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【動量策略失靈，量化對沖基金遭遇2023年以來最嚴重回撤】在牛市行情持續之際，市場內部卻出現劇烈風格輪動，導致量化對沖基金遭遇自2023年以來最嚴重的一輪迴撤。高盛主經紀商業務資料顯示，截至上週四，以系統化交易為主的多空對沖基金上週下跌2.1%，此前五個交易日已下跌3.1%，創下自2023年12月以來最差表現。與此同時，由於對沖基金降低槓桿，基本面驅動型管理人的業績上週也出現下滑，其中科技股成為遭拋售最多的板塊之一。"
-    },
-    {
-      "id": "4972905",
-      "time": "2026-07-07 00:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：目前已有超過600萬美國（未成年）人註冊特朗普專屬投資賬戶，而這項計劃才剛剛起步。不少註冊者將獲得1000美元的一次性啟動資金。等到這些孩子年滿18歲時，這筆特朗普賬戶內的資產有望增值至數十萬美元。"
-    },
-    {
-      "id": "4972904",
-      "time": "2026-07-07 00:31:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿拉比卡咖啡價格飆升18%，創2000年7月以來最大盤中漲幅。"
     }
   ]
 }
