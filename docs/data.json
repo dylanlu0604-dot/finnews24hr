@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-13 10:12:27",
-  "count": 16740,
+  "updated": "2026-07-13 10:16:26",
+  "count": 16741,
   "items": [
+    {
+      "id": "mkt:019f5942-712b-7aab-8d4b-65393dcf9ccd",
+      "time": "2026-07-13 10:15:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【One-quarter of Japan's municipalities saw population fall over 10% between 2020 and 2025】An analysis of census data by KYODO published last Sunday shows that between 2020 and 2025 one-quarter of Japan's municipalities experienced population declines exceeding 10%. The number of municipalities with such falls rose to 477 in 2020–25 from 247 in 2015–20. Suzu in Ishikawa prefecture recorded the largest drop, 34%; the city was heavily damaged by a 2024 earthquake. In Iwate and Akita prefectures in northeastern Japan, and in Kochi prefecture in western Japan, more than half of municipalities saw declines of this magnitude."
+    },
+    {
+      "id": "mkt:019f5941-ef14-7aab-8d4b-5c6a9b3ffa1e",
+      "time": "2026-07-13 10:15:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Luotu Technology: Branded TV shipments in mainland China 1H 2026 14.947 mln units, down 10.1% YoY】According to a Luotu Technology report, branded finished-set TV shipments in mainland China totaled 14.947 mln units in 1H 2026, down 10.1% YoY. Q1 shipments were 8.065 mln (-8.8% YoY) and Q2 were 6.882 mln (-11.6% YoY). Shipments have fallen YoY for five consecutive quarters since Q2 2025."
+    },
+    {
+      "id": "te:markets:566196",
+      "time": "2026-07-13 10:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Depreciates by 0.37% — Top currency losers are South Korean Won (-0.37%), Australian Dollar (-0.32%), Indian Rupee (-0.32%) and Japanese Yen (-0.21%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "4983472",
+      "time": "2026-07-13 10:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我駐泰使館：暫無中國公民在曼谷酒吧火災中遇難】我駐泰國使館表示，根據目前掌握的訊息，暫未發現中國公民在曼谷12日深夜發生的酒吧火災中遇難。當地時間12日23時57分許，曼谷乍都乍區拉拋路附近一家酒吧發生火災，造成27人死亡，包括18名女性、9名男性。（央視新聞）"
+    },
+    {
+      "id": "4983471",
+      "time": "2026-07-13 10:14:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026上半年中國大陸電視市場品牌整機出貨量為1494.7萬臺 同比下降10.1%】據洛圖科技報告顯示，2026年上半年中國大陸電視市場品牌整機的出貨量為1494.7萬臺，較2025年同期下降10.1%。其中第一季度的出貨量為806.5萬臺，同比下降8.8%；第二季度出貨量為688.2萬臺，同比下降11.6%。自2025年第二季度起，市場已連續五個季度的出貨量同比下降。"
+    },
+    {
+      "id": "4983470",
+      "time": "2026-07-13 10:14:06",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券板塊異動拉昇 中泰證券觸及漲停】證券板塊盤中異動拉昇，中泰證券觸及漲停，天風證券、長江證券、華鑫證券、方正證券跟漲。"
+    },
+    {
+      "id": "4983469",
+      "time": "2026-07-13 10:13:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔：波斯灣仍有4艘與日本有關的船隻。"
+    },
+    {
+      "id": "4983468",
+      "time": "2026-07-13 10:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據颱風態勢及走向，浙江海事局於7月13日9時起結束防颱應急響應。"
+    },
+    {
+      "id": "4983467",
+      "time": "2026-07-13 10:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間今天（7月13日）凌晨，據當地媒體報道，約旦美軍基地發生爆炸，首都安曼的機場航班已暫停。另據報道，科威特美軍基地遭襲。據伊朗媒體訊息，巴林的美軍基地也再次遭到襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607133803041524",
+      "time": "2026-07-13 10:12:17",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【一週流動性觀察 | 稅期遇上大額政府債繳款 預計央行呵護延續 壓力總體可控】業內人士指出，若本週資金壓力增大，央行可能也會同步加大逆回購投放予以呵護。同時，恰逢9000億元6M買斷式逆回購到期視窗，央行有望適當淨投放。此外，隔夜逆回購工具也不排除在稅期重啟，平抑資金面階段性波動。此前該工具已在跨季時點投入使用（6月29-30日分別投放3000、6000億元），以平滑跨季前後資金利率的凸點。"
+    },
     {
       "id": "mkt:019f593e-7ff2-7aab-8d4b-558083dd43b1",
       "time": "2026-07-13 10:11:35",
@@ -152523,96 +152610,6 @@
         "國際"
       ],
       "text": "【美光啟動日本廣島工廠擴建 以進一步提高先進儲存晶片產能】美光科技週六啟動日本廣島工廠的擴建，以進一步提高先進儲存晶片的產能，滿足不斷增長的人工智慧(AI)算力硬體需求。該擴建工程的投資額達到1.5萬億日元（約合93億美元），日本經濟產業省為該專案提供不超過5000億日元的補貼支援。該工廠將生產高頻寬記憶體等AI基建急需的晶片。製造裝置的交付和安裝計劃於2028年下半年開始。儲存晶片公司競相在全球擴大產能。美光正在Boise建設兩座先進晶圓廠，今年1月為位於紐約州的千億美元生產基地舉行奠基儀式，以提高美國本土DRAM產量。韓國SK海力士和三星電子也在積極擴大產能。"
-    },
-    {
-      "id": "mkt:019f3536-1f2a-7aab-8ca8-b80275bc551f",
-      "time": "2026-07-06 10:16:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01888.HK",
-        "Impact bearish",
-        "00148.HK"
-      ],
-      "text": "Hong Kong PCB-related shares slid; Kingboard Laminates (01888.HK) fell over 10%, Kingboard Group (00148.HK) fell more than 5%."
-    },
-    {
-      "id": "4971421",
-      "time": "2026-07-06 10:16:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於當地時間週二下午 3 點 15 分在土耳其會見埃爾多安。"
-    },
-    {
-      "id": "4971420",
-      "time": "2026-07-06 10:15:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛成立智慧科技新公司，含機器人業務】企查查APP顯示，近日，安徽爻方智慧科技有限公司成立，註冊資本3億元，經營範圍包含：人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；智慧機器人的研發；服務消費機器人制造；智慧機器人銷售等。企查查股權穿透顯示，該公司由科大訊飛全資持股。"
-    },
-    {
-      "id": "4971419",
-      "time": "2026-07-06 10:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南 VN 指數開盤微幅震盪，報 1862.08 點。"
-    },
-    {
-      "id": "te:markets:564286",
-      "time": "2026-07-06 10:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Drops by 0.40% — Top currency losers are New Zealand Dollar (-0.40%), South Korean Won (-0.30%), Japanese Yen (-0.29%) and Chinese Yuan (-0.07%)."
-    },
-    {
-      "id": "4971418",
-      "time": "2026-07-06 10:14:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新港股跌超5%】兆易創新港股跌5.89%，報863.50港元。"
-    },
-    {
-      "id": "mkt:019f3534-4ae9-7aab-8ca8-b03b6813424d",
-      "time": "2026-07-06 10:14:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
-    },
-    {
-      "id": "mkt:019f3534-2346-7aab-8ca8-ae7bcf7fa6fb",
-      "time": "2026-07-06 10:13:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01177.HK",
-        "Impact bullish",
-        "09995.HK",
-        "01530.HK"
-      ],
-      "text": "Hong Kong stocks opened higher and extended gains; Hang Seng up 1.00%, Hang Seng Tech up 1.43%. Innovative-drug names led the rally: China Biopharma (01177.HK) up >10%, Rongchang Biotech (09995.HK) up >7%, 3SBio (01530.HK) up >6%."
-    },
-    {
-      "id": "4971417",
-      "time": "2026-07-06 10:12:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數下跌 1%，報 69046.03 點。"
     }
   ]
 }
