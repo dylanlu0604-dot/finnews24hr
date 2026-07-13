@@ -1,7 +1,70 @@
 {
   "date": "2026-07-13",
-  "count": 326,
+  "count": 333,
   "items": [
+    {
+      "id": "4983257",
+      "time": "2026-07-13 08:18:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.1%，德國DAX指數期貨下跌0.2%，富時指數期貨持平。"
+    },
+    {
+      "id": "4983256",
+      "time": "2026-07-13 08:17:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數轉升，一度上漲0.5%。"
+    },
+    {
+      "id": "4983255",
+      "time": "2026-07-13 08:17:03",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示，由於柔佛州選舉結果出爐後，市場關注現任政府各執政聯盟政黨之間的關係，馬來西亞令吉短期內可能出現波動。"
+    },
+    {
+      "id": "mkt:019f58d5-1bfd-7aab-8d48-4a45c45b058f",
+      "time": "2026-07-13 08:16:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CITIC Securities: Controlled-recovery breakthrough lays groundwork for surge in commercial space infrastructure investment】CITIC Securities research note: Long March-10B maiden flight on July 10, 2026 achieved the world’s first sea-net controlled recovery of a rocket first stage. The breakthrough could materially cut satellite launch costs, accelerate constellation deployment and trigger substantial capex in China’s commercial space sector. Recommend focus on private reusable-rocket firms’ recovery-technology validation, pace of satellite-manufacturing capacity scale-up, and private commercial-space IPO activity in 2026–27."
+    },
+    {
+      "id": "4983254",
+      "time": "2026-07-13 08:15:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯迪克：公司MLCC離型膜產銷保持平穩執行，中高階產品佔比穩步提升】斯迪克7月13日在互動平臺表示，公司MLCC離型膜產銷保持平穩執行，現階段持續最佳化產品結構，中高階產品佔比穩步提升。近期上游化工原材料漲價，公司已同步對產品價格做相應調整。"
+    },
+    {
+      "id": "mkt:019f58d3-fef8-7aab-8d48-43846e32f0f0",
+      "time": "2026-07-13 08:15:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year government bond yield fell 4 bps to 3.71%."
+    },
+    {
+      "id": "4983253",
+      "time": "2026-07-13 08:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：2025年泛半導體業務營收9.56億元，淮安生產基地正按計劃推進產能釋放】新萊應材7月13日在互動平臺表示，2025年度公司泛半導體業務實現營業收入9.56億元，同比增長11.07%，佔公司總營收的31.89%。淮安子公司自建廠房已正式進入量產階段，透過產能轉移最佳化佈局，使母公司更聚焦於泛半導體業務。目前淮安生產基地正按計劃持續推進產能釋放。"
+    },
     {
       "id": "4983252",
       "time": "2026-07-13 08:14:42",

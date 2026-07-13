@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-13 08:15:22",
-  "count": 16695,
+  "updated": "2026-07-13 08:19:14",
+  "count": 16698,
   "items": [
+    {
+      "id": "4983257",
+      "time": "2026-07-13 08:18:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.1%，德國DAX指數期貨下跌0.2%，富時指數期貨持平。"
+    },
+    {
+      "id": "4983256",
+      "time": "2026-07-13 08:17:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數轉升，一度上漲0.5%。"
+    },
+    {
+      "id": "4983255",
+      "time": "2026-07-13 08:17:03",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示，由於柔佛州選舉結果出爐後，市場關注現任政府各執政聯盟政黨之間的關係，馬來西亞令吉短期內可能出現波動。"
+    },
+    {
+      "id": "mkt:019f58d5-1bfd-7aab-8d48-4a45c45b058f",
+      "time": "2026-07-13 08:16:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CITIC Securities: Controlled-recovery breakthrough lays groundwork for surge in commercial space infrastructure investment】CITIC Securities research note: Long March-10B maiden flight on July 10, 2026 achieved the world’s first sea-net controlled recovery of a rocket first stage. The breakthrough could materially cut satellite launch costs, accelerate constellation deployment and trigger substantial capex in China’s commercial space sector. Recommend focus on private reusable-rocket firms’ recovery-technology validation, pace of satellite-manufacturing capacity scale-up, and private commercial-space IPO activity in 2026–27."
+    },
+    {
+      "id": "4983254",
+      "time": "2026-07-13 08:15:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯迪克：公司MLCC離型膜產銷保持平穩執行，中高階產品佔比穩步提升】斯迪克7月13日在互動平臺表示，公司MLCC離型膜產銷保持平穩執行，現階段持續最佳化產品結構，中高階產品佔比穩步提升。近期上游化工原材料漲價，公司已同步對產品價格做相應調整。"
+    },
+    {
+      "id": "mkt:019f58d3-fef8-7aab-8d48-43846e32f0f0",
+      "time": "2026-07-13 08:15:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year government bond yield fell 4 bps to 3.71%."
+    },
+    {
+      "id": "4983253",
+      "time": "2026-07-13 08:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：2025年泛半導體業務營收9.56億元，淮安生產基地正按計劃推進產能釋放】新萊應材7月13日在互動平臺表示，2025年度公司泛半導體業務實現營業收入9.56億元，同比增長11.07%，佔公司總營收的31.89%。淮安子公司自建廠房已正式進入量產階段，透過產能轉移最佳化佈局，使母公司更聚焦於泛半導體業務。目前淮安生產基地正按計劃持續推進產能釋放。"
+    },
     {
       "id": "4983252",
       "time": "2026-07-13 08:14:42",
@@ -152099,47 +152162,6 @@
         "其他"
       ],
       "text": "【委內瑞拉強震已致3342人遇難，記錄到近千次餘震】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯5日透過社交媒體發文稱，該國近日發生的兩次強震已造成3342人死亡、16740人受傷。委官方最新統計資料顯示，截至目前已有6462人獲救，仍有17345人無家可歸。自6月24日強震發生以來，已記錄到995次餘震。（新華社）"
-    },
-    {
-      "id": "mkt:019f34ca-6e34-7aab-8ca6-416ed91ad3af",
-      "time": "2026-07-06 08:18:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung results to test AI-chip rally; Q2 operating profit seen up 18-fold】Samsung Electronics, the world’s largest memory-chip maker, is due to report Q2 results Tuesday. Analysts’ consensus: preliminary operating profit ~KRW84.3 trillion (~$55.1bn), up about 18x YoY and exceeding Samsung’s entire 2025 profit; revenue seen up 127% to a record KRW169 trillion. Since June, chip stocks have repeatedly sold off on concerns about intensifying competition, potential capacity overhang and returns from large AI investments, raising the stakes for Samsung’s print. With expectations already high, the company has limited room to disappoint. Roundhill Financial CEO Dave Mazza said results close to expectations would help calm the supply-demand dispute and be positive for Samsung."
-    },
-    {
-      "id": "te:markets:564250",
-      "time": "2026-07-06 08:18:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Soybeans Hits 4-week High — Soybeans increased to 1143.00 USd/Bu, the highest since June 2026. Over the past 4 weeks, Soybeans gained 2.41%, and in the last 12 months, it increased 10.74%."
-    },
-    {
-      "id": "4971233",
-      "time": "2026-07-06 08:17:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【畢馬威釋出報告：88%的受訪企業已開始融入代理式AI】日前，畢馬威釋出《畢馬威2026全球技術報告》。資料顯示，88%的受訪企業已開始融入代理式 AI，預計2025—2027年數字員工在核心技術團隊佔比將從28%升至36%。而中國企業級AI應用目前呈現出“L1輔助級、L2執行級、L3系統級”的三階段演進特徵。"
-    },
-    {
-      "id": "4971232",
-      "time": "2026-07-06 08:16:28",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國SK海力士將啟動280億美元美國上市計劃 以順應全球人工智慧浪潮】據監管檔案顯示，韓國晶片製造商SK海力士將於週一啟動其約280億美元的美國上市計劃，這將是全球規模最大的新股發行之一，該公司正藉此把握全球人工智慧熱潮的機遇。該公司將在納斯達克市場透過存託憑證發行1779萬股新股，這將使其躋身全球市值最高的科技公司之列。每10股美國存託憑證（ADR）將代表1股普通股，股票將根據SK海力士在首爾的交易價格，在週一公佈的定價區間內進行發售。受全球投資者對AI股票需求激增的推動，SK海力士股價上漲1%，今年以來累計漲幅約為273%。週一早盤，韓國綜合股價指數(KOSPI)上漲0.2%。SK海力士是人工智慧熱潮中全球最大的受益者之一，其表現優於主要競爭對手三星電子和美光科技。監管檔案顯示，紐約上市的最終定價將於週四確定，股票將於週五開始交易。該公司管理層將於本週透過路演與全球投資者會面。預計此次募資規模將僅次於上月SpaceX創紀錄的857億美元首次公開募股（IPO），超過沙特阿美2019年256億美元的IPO，以及阿里巴巴2014年規模相近的IPO。"
     }
   ]
 }
