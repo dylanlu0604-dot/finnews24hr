@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-14 04:47:35",
-  "count": 17214,
+  "updated": "2026-07-14 04:51:34",
+  "count": 17212,
   "items": [
+    {
+      "id": "4985358",
+      "time": "2026-07-14 04:50:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美移民執法人員在緬因州行動中開槍致1人死亡】當地時間7月13日，美國移民與海關執法局（ICE）執法人員在緬因州比迪福德執行驅逐行動時開槍致一名男子身亡。據美國國土安全部長馬克韋恩·馬林介紹，執法人員試圖攔截一名收到最終驅逐令的男子，該男子駕車衝向執法人員後，遭ICE特工槍擊身亡。聯邦調查局（FBI）已接手調查此事。（央視新聞）"
+    },
+    {
+      "id": "4985357",
+      "time": "2026-07-14 04:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方宣稱已使用無人機打擊科威特境內美軍設施與裝備，併發射巡航導彈擊中一艘美方敵對艦船。"
+    },
+    {
+      "id": "te:economy:566508",
+      "time": "2026-07-14 04:47:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Uruguay Industrial Production Contracts in May — Uruguay's industrial production fell 3.5% year-on-year in May 2026 after rising 4.0% in the previous month, marking the sharpest decline since October 2025. The contraction was driven primarily by a 4.5% drop in food manufacturing. Other major drags included motor vehicle manufacturing, which fell 41.2%, and chemicals production, down 12.2%. On the upside, paper manufacturing rose 15.0%, beverage production increased 16.9%, and electrical equipment manufacturing climbed 29.1%. Hours worked in the industrial sector declined 6.1% from a year earlier. Industrial employment also weakened, with the occupied personnel index falling 2.1% year-on-year."
+    },
     {
       "id": "mkt:019f5d3a-38a4-7aab-8d64-27d487159635",
       "time": "2026-07-14 04:45:24",
@@ -157374,53 +157402,6 @@
         "市場"
       ],
       "text": "【國際油價6日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌14美分，收於每桶68.55美元，跌幅為0.2%；9月交貨的倫敦布倫特原油期貨價格下跌13美分，收於每桶71.99美元，跌幅為0.18%。"
-    },
-    {
-      "id": "4973018",
-      "time": "2026-07-07 04:51:16",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【7月7日美股成交額前20：SpaceX即將正式納入納斯達克100指數】第2名SpaceX收跌1.02%，成交296.98億美元。該公司將於7月7日美股開盤前正式納入納斯達克100指數，從6月12日登陸納斯達克到納入核心科技指數，僅15天，創下納斯達克100指數創立以來最快納入紀錄。摩根大通測算顯示，僅納指100一項，將吸引約43億美元被動資金強制買入SpaceX股票。如果計入同步納入MSCI和富時羅素全球指數體系的效應，全球被動基金在15個交易日內強制買入SpaceX的總規模可達約350億美元。"
-    },
-    {
-      "id": "4973017",
-      "time": "2026-07-07 04:50:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行市場預期調查顯示，阿根廷 2026 年末通脹預期為 30%，較此前預測值下調 0.5 個百分點。"
-    },
-    {
-      "id": "mkt:019f3932-b257-7aab-8cbc-4858582dcca4",
-      "time": "2026-07-07 04:50:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian prime minister Carney said Ottawa may retain flexibility to adjust the final number of submarines it will procure."
-    },
-    {
-      "id": "4973016",
-      "time": "2026-07-07 04:48:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：沃爾瑪是一家真正愛國的公司，其他零售商應該效仿沃爾瑪的做法。"
-    },
-    {
-      "id": "mkt:019f392f-c118-7aab-8cbc-469f6f889e27",
-      "time": "2026-07-07 04:47:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WMT.O"
-      ],
-      "text": "Trump says Walmart will cut the price of a one-pound pack of ground beef by nearly 15% and lower prices on a range of other items."
     }
   ]
 }
