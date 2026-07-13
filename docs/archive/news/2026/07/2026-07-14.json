@@ -1,7 +1,96 @@
 {
   "date": "2026-07-14",
-  "count": 87,
+  "count": 96,
   "items": [
+    {
+      "id": "4985189",
+      "time": "2026-07-14 00:53:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：人工智慧或正在影響金融環境。"
+    },
+    {
+      "id": "4985188",
+      "time": "2026-07-14 00:53:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 倘若人工智慧板塊泡沫破裂或行情大幅回撤，金融環境或將出現劇烈變動。"
+    },
+    {
+      "id": "4985187",
+      "time": "2026-07-14 00:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲56美元，報13541美元/噸。LME期鋁收漲30美元，報3170美元/噸。LME期鋅收跌50美元，報3566美元/噸。LME期鉛收跌28美元，報1868美元/噸。LME期鎳收漲25美元，報16766美元/噸。LME期錫收跌527美元，報52598美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "4985186",
+      "time": "2026-07-14 00:52:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯境內發生多起爆炸。"
+    },
+    {
+      "id": "mkt:019f5c64-dd4e-7aab-8d60-af1d2f57564d",
+      "time": "2026-07-14 00:52:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "WALLER said recent employment reports have consistently beaten expectations and remain strong."
+    },
+    {
+      "id": "4985185",
+      "time": "2026-07-14 00:51:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 就業資料持續向好、表現強勁。"
+    },
+    {
+      "id": "4985184",
+      "time": "2026-07-14 00:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲6%，現報80.59美元/桶。"
+    },
+    {
+      "id": "4985183",
+      "time": "2026-07-14 00:50:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲6%，現報75.70美元/桶。"
+    },
+    {
+      "id": "mkt:019f5c62-fb13-7aab-8d60-a29b9f3f66ce",
+      "time": "2026-07-14 00:50:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Waller: Fed should avoid premature hikes that trigger recession, but not repeat past delays】Federal Reserve Governor Waller said he does not want premature rate hikes that could trigger a recession, but warned the Fed should avoid repeating the mistake of delaying action while price pressures rise. He said the labor market is far less overheated than during the 2022–23 tightening and there are credible reasons to expect inflation to continue falling without additional tightening, but evidence that firms and investors expect that decline is insufficient to justify waiting. Waller warned that if the Fed waits until confidence fades it will have to raise rates more aggressively and said the central bank cannot afford to ignore inflation until it disappears."
+    },
     {
       "id": "mkt:019f5c60-edf3-7aab-8d60-9be11769415d",
       "time": "2026-07-14 00:48:03",

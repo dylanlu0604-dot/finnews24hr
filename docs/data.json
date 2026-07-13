@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-14 00:50:41",
-  "count": 17104,
+  "updated": "2026-07-14 00:54:36",
+  "count": 17107,
   "items": [
+    {
+      "id": "4985189",
+      "time": "2026-07-14 00:53:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：人工智慧或正在影響金融環境。"
+    },
+    {
+      "id": "4985188",
+      "time": "2026-07-14 00:53:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 倘若人工智慧板塊泡沫破裂或行情大幅回撤，金融環境或將出現劇烈變動。"
+    },
+    {
+      "id": "4985187",
+      "time": "2026-07-14 00:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲56美元，報13541美元/噸。LME期鋁收漲30美元，報3170美元/噸。LME期鋅收跌50美元，報3566美元/噸。LME期鉛收跌28美元，報1868美元/噸。LME期鎳收漲25美元，報16766美元/噸。LME期錫收跌527美元，報52598美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "4985186",
+      "time": "2026-07-14 00:52:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯境內發生多起爆炸。"
+    },
+    {
+      "id": "mkt:019f5c64-dd4e-7aab-8d60-af1d2f57564d",
+      "time": "2026-07-14 00:52:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "WALLER said recent employment reports have consistently beaten expectations and remain strong."
+    },
+    {
+      "id": "4985185",
+      "time": "2026-07-14 00:51:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 就業資料持續向好、表現強勁。"
+    },
+    {
+      "id": "4985184",
+      "time": "2026-07-14 00:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲6%，現報80.59美元/桶。"
+    },
+    {
+      "id": "4985183",
+      "time": "2026-07-14 00:50:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲6%，現報75.70美元/桶。"
+    },
+    {
+      "id": "mkt:019f5c62-fb13-7aab-8d60-a29b9f3f66ce",
+      "time": "2026-07-14 00:50:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Waller: Fed should avoid premature hikes that trigger recession, but not repeat past delays】Federal Reserve Governor Waller said he does not want premature rate hikes that could trigger a recession, but warned the Fed should avoid repeating the mistake of delaying action while price pressures rise. He said the labor market is far less overheated than during the 2022–23 tightening and there are credible reasons to expect inflation to continue falling without additional tightening, but evidence that firms and investors expect that decline is insufficient to justify waiting. Waller warned that if the Fed waits until confidence fades it will have to raise rates more aggressively and said the central bank cannot afford to ignore inflation until it disappears."
+    },
     {
       "id": "mkt:019f5c60-edf3-7aab-8d60-9be11769415d",
       "time": "2026-07-14 00:48:03",
@@ -156139,64 +156228,6 @@
         "Brent"
       ],
       "text": "【U.S. strategic petroleum reserve drops to lowest level since 1983】DOE data show U.S. SPR crude stocks fell about 6.2 mln barrels last week to 319.5 mln barrels, the lowest level since April 1983. The drawdown is part of a previously announced plan to cumulatively release 172 mln barrels from the reserve."
-    },
-    {
-      "id": "4972917",
-      "time": "2026-07-07 00:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我要求烏克蘭國家安全域性及各情報部門就維什涅韋鎮遭遇襲擊一事作出詳盡說明。"
-    },
-    {
-      "id": "mkt:019f385a-097a-7aab-8cb9-e9a0c216f628",
-      "time": "2026-07-07 00:54:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's President Zelenskiy has asked the Security Service of Ukraine (SBU) and intelligence agencies to provide a detailed report on the incident in Vyshneve."
-    },
-    {
-      "id": "mkt:019f3859-aa46-7aab-8cb9-e42cc8d07828",
-      "time": "2026-07-07 00:53:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukraine President Zelenskiy said Russia's large-scale missile and drone strikes have killed 22 people and injured nearly 90, with Kyiv and surrounding areas hardest hit."
-    },
-    {
-      "id": "4972916",
-      "time": "2026-07-07 00:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美方有能力在“不到一個下午”的時間內摧毀伊朗所有電網、電站及橋樑等關鍵基礎設施，但更希望透過協議解決問題，以避免影響伊朗9100萬人口。"
-    },
-    {
-      "id": "mkt:019f3858-5e13-7aab-8cb9-de83c9316e6f",
-      "time": "2026-07-07 00:52:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says U.S. could destroy Iran's power grid 'in less than an afternoon'】President Trump said talks with Iran were close to an agreement but warned that if negotiations fail the U.S. would \"finish the job.\" He asserted U.S. forces could destroy Iran's electricity grid, power plants and bridges \"in less than an afternoon,\" but said he prefers a deal to avoid harming Iran's 91 million population. Trump reiterated Iran must not acquire nuclear weapons and said the U.S. would secure enriched nuclear material, while denying an objective of regime change. He also claimed U.S. forces have destroyed all 159 Iranian vessels and all Iranian military aircraft and radar systems. On oil, Trump said global crude is trading below pre-conflict levels and that U.S. forces covertly escorted tankers through the Strait of Hormuz during a blockade to maintain supply and prevent prices reaching $300–350 per barrel."
-    },
-    {
-      "id": "4972915",
-      "time": "2026-07-07 00:51:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：俄軍發動大規模空襲，投射68枚導彈、350餘架無人機，主攻基輔及周邊，造成22人遇難、近90人受傷。"
     }
   ]
 }
