@@ -1,7 +1,104 @@
 {
-  "updated": "2026-07-13 13:12:49",
-  "count": 16754,
+  "updated": "2026-07-13 13:20:11",
+  "count": 16745,
   "items": [
+    {
+      "id": "te:economy:566240",
+      "time": "2026-07-13 13:16:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Finland Current Account Swings to Deficit — Finland’s current account recorded a deficit of EUR 563 million in May 2026, shifting from a surplus of EUR 367 million in the corresponding month of the previous year. The goods account surplus narrowed to EUR 328 million from EUR 678 million a year earlier, as exports rose 10% year-on-year to EUR 7. 1billion, while imports climbed 17% to EUR 6.7 billion. Additionally, the shortfall on the services account expanded to EUR 838 million from EUR 186 million, as well as the income redistribution to EUR 206 million from EUR 176 million. Meanwhile, the primary income posted a surplus of EUR 154 million, nearly three times wider than EUR 52 million a year ago."
+    },
+    {
+      "id": "mkt:019f59e6-ef22-7aab-8d4f-1ca32037afdd",
+      "time": "2026-07-13 13:15:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister said the 2027 budget is expected to exceed 800 trillion won."
+    },
+    {
+      "id": "te:markets:566239",
+      "time": "2026-07-13 13:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.53% — Top currency losers are Indian Rupee (-0.53%), Polish Zloty (-0.40%), South Korean Won (-0.38%), Japanese Yen (-0.17%), British Pound (-0.17%) and Euro (-0.06%). Gains are led by Brazilian Real (0.33%) and Dollar Index (0.09%)."
+    },
+    {
+      "id": "4983698",
+      "time": "2026-07-13 13:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計2027年韓國國家稅收收入將超過500萬億韓元，超過此前預測的412萬億韓元。韓國將把超額稅收用於“未來應對基金”。"
+    },
+    {
+      "id": "mkt:019f59e6-3c45-7aab-8d4f-1515c05ce345",
+      "time": "2026-07-13 13:14:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【After U.S.-Iran clashes, vessels switch off AIS for dark transits through Strait of Hormuz】After U.S.-Iran fighting resumed, several ships have completed dark transits of the Strait of Hormuz by switching off AIS transponders while visible traffic has fallen sharply. Bloomberg-cited Kpler preliminary data show six bulk commodity carriers that crossed the strait last Sunday had AIS turned off. Over the past three days dark transits outnumbered visible passages; AIS tracking showed no recorded transits early Monday. Some vessels reappeared on both sides of the strait after last publicly reporting positions on the opposite side, consistent with transit with AIS disabled. Visible passage along the southern Oman-coast route has effectively stopped since last Wednesday; Iran-designated northern safety corridor still saw a small number of vessels through last Saturday. Iran has recently attacked ships using the Oman route, including vessels that had switched off transponders, which appears to have reduced activity on that corridor."
+    },
+    {
+      "id": "4983697",
+      "time": "2026-07-13 13:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計2027年國家稅收收入將超過500萬億韓元。"
+    },
+    {
+      "id": "mkt:019f59e5-53a8-7aab-8d4f-0faf6fb9e965",
+      "time": "2026-07-13 13:13:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 1.5 bps to 2.775%."
+    },
+    {
+      "id": "4983696",
+      "time": "2026-07-13 13:13:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.5個基點，至2.775%。"
+    },
+    {
+      "id": "4983695",
+      "time": "2026-07-13 13:13:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星啟動特斯拉AI5晶片生產籌備工作】業內訊息人士週一透露，三星電子已著手籌備代工特斯拉下一代人工智慧晶片AI5。此前三星一名高管在領英發文稱，特斯拉AI5晶片已完成流片，這代表晶片量產前的最終設計工作全部收尾。流片是晶片設計的最後環節，無晶圓晶片設計企業將定稿晶片設計檔案交付晶圓廠，用於後續量產。AI5是特斯拉自研定製晶片，將為公司全自動駕駛（FSD）系統、Optimus人形機器人以及人工智慧資料中心提供算力支撐。該帖文顯示，AI5晶片將採用三星2奈米制程，在三星位於美國得克薩斯州泰勒市的工廠投產，預計不久後搭載於特斯拉新一代產品。此次訊息披露，是市場首次獲知三星代工特斯拉AI5晶片的詳細生產時間規劃。泰勒晶圓廠預計今年晚些時候啟動試產，2027年正式為特斯拉等核心大客戶開展大規模生產。"
+    },
+    {
+      "id": "4983694",
+      "time": "2026-07-13 13:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "EDA概念逆勢活躍，概倫電子、華大九天漲超10%，廣立微漲超3%，安路科技回升收窄跌幅。"
+    },
     {
       "id": "mkt:019f59e2-497b-7aab-8d4f-078ab2fef5e2",
       "time": "2026-07-13 13:10:29",
@@ -152678,195 +152775,6 @@
         "Japan & APAC"
       ],
       "text": "Japan 5-year government bond yield rose 2.0 bps to 1.940%."
-    },
-    {
-      "id": "te:markets:564339",
-      "time": "2026-07-06 13:20:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in New Zealand Hit All-time High — NZX 50 increased to an all-time high of 13763.00 Index Points. Over the past 4 weeks, NZX 50 INDEX GROSS gained 5.56%, and in the last 12 months, it increased 7.82%."
-    },
-    {
-      "id": "4971685",
-      "time": "2026-07-06 13:19:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將輝瑞目標股價從32美元下調至28美元，將評級從買入下調至持有。"
-    },
-    {
-      "id": "4971684",
-      "time": "2026-07-06 13:19:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將諾和諾德目標價從280丹麥克朗上調至300丹麥克朗。"
-    },
-    {
-      "id": "te:economy:564338",
-      "time": "2026-07-06 13:17:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Singapore Retail Sales Hit 4-Month Low — Retail sales in Singapore increased 3% year-on-year in May 2026, slowing from a 5.4% rise in the previous month. The reading marked the weakest annual growth since January, as sales tumbled for food and alcohol (-3.7% vs 0.6% in April) and motor vehicles, parts and accessories (-0.8% vs 10.7%), while department store sales remained in contraction (-3.3% vs -0.4%). Growth also softened across several categories, including supermarkets and hypermarkets (1.1% vs 5.9%), minimarts and convenience stores (1.4% vs 2.7%), petrol service stations (9.5% vs 14.4%), cosmetics, toiletries and medical goods (4.9% vs 6%), wearing apparel and footwear (0.1% vs 5.3%), and optical goods and books (4.6% vs 5.4%). In contrast, sales accelerated for furniture and household equipment (4.5% vs 1.8%) and recreational goods (23.6% vs 13.7%). On a seasonally adjusted monthly basis, retail activity slipped 2.3% in May, reversing an upwardly revised 0.4% increase in the previous month."
-    },
-    {
-      "id": "4971683",
-      "time": "2026-07-06 13:17:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國決定將在光州興建一處新的晶片產業園區】韓國總統秘書室室長姜勳植週一表示，韓國已決定在該國西南部的光州一處軍用機場舊址建設一個晶片產業園區。"
-    },
-    {
-      "id": "4971682",
-      "time": "2026-07-06 13:17:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【唯萬密封漲超10% 控股子公司已成為北方華創供應商】7月6日早盤，唯萬密封一度漲超10%，最高報42.90元/股，創近60日新高。日前，唯萬密封在深交所互動易平臺回覆投資者提問時表示，上海嘉諾已成為半導體裝置商北方華創的合格供應商，主要供應泛塞密封。"
-    },
-    {
-      "id": "4971681",
-      "time": "2026-07-06 13:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄軍襲擊基輔致9人死亡，多棟居民樓受損】烏克蘭官方稱，週一凌晨，俄軍動用導彈與無人機襲擊基輔，造成至少9人死亡，多棟居民樓及其他建築嚴重損毀。此次襲擊距離今年針對烏克蘭首都傷亡最慘重的一輪空襲僅過去數日。基輔市長維塔利・克利奇科在社交平臺電報上表示，救援人員正從夜間轟炸損毀的樓宇中轉移被困居民。基輔市軍事管理局局長季穆爾・季先科通報，首都遇難人數已升至9人，全市共有46人受傷。救援工作仍在持續，他稱：“遺憾的是，傷亡數字還會更新。”應急部門表示，本次襲擊至少損毀、摧毀15棟居民住宅，其中包含波迪爾斯基老城區一棟九層居民樓。"
-    },
-    {
-      "id": "te:economy:564337",
-      "time": "2026-07-06 13:16:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Estonia Industrial Output Falls at Softer Pace — Industrial production in Estonia fell 3.0% year-on-year in May 2026, marking a fourth consecutive month of contraction in industrial activity, though the pace eased from 3.8% decline in the previous month. Output in electricity, gas, steam, and air conditioning supply remained a major drag (-22.9% vs. -14.9% in April). Manufacturing output also weakened further (-3.5% vs. -3.2%), weighed down by repair and installation of machinery and equipment (-40.5%), coke and refined petroleum products (-38.7%), computers and peripheral equipment (-75.0%), and grain mill products, starches and starch products (-13.9%). In contrast, mining and quarrying surged 39.9%, accelerating from 15.7% in April. On a monthly basis, industrial activity slipped by 0.2%, reversing an upwardly revised 1.3% increase in the previous month."
-    },
-    {
-      "id": "mkt:019f35db-100c-7aab-8cab-c631f553b1a4",
-      "time": "2026-07-06 13:16:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan 10-year government bond yield rose 5bps to 2.820%."
-    },
-    {
-      "id": "4971680",
-      "time": "2026-07-06 13:15:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中公教育：內外部經營環境未發生且未預計將要發生重大變化】中公教育公告，公司股票價格短期波動較大；經關注、核實，公司近期生產經營情況正常，內外部經營環境未發生且未預計將要發生重大變化，不存在應予以披露而未披露事項，公司前期披露的資訊不存在需要更正、補充之處。"
-    },
-    {
-      "id": "4971679",
-      "time": "2026-07-06 13:15:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達110億港元。"
-    },
-    {
-      "id": "te:markets:564336",
-      "time": "2026-07-06 13:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Drops by 0.41% — Top currency losers are New Zealand Dollar (-0.41%), Japanese Yen (-0.36%), Indian Rupee (-0.29%) and British Pound (-0.09%). Gains are led by Dollar Index (0.11%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "4971678",
-      "time": "2026-07-06 13:14:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4160美元/盎司，日內漲0.83%。"
-    },
-    {
-      "id": "mkt:019f35d9-9b41-7aab-8cab-bc67aab3ea5b",
-      "time": "2026-07-06 13:14:41",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Society of Motor Manufacturers and Traders (SMMT): UK new car registrations rose about 11% YoY in June."
-    },
-    {
-      "id": "4971677",
-      "time": "2026-07-06 13:14:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國汽車製造商和貿易商協會（SMMT）初步資料顯示，6月英國新車註冊量同比上漲約11%。"
-    },
-    {
-      "id": "mkt:019f35d8-bea7-7aab-8cab-b18c415aec01",
-      "time": "2026-07-06 13:13:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Japan 10-year government bond yield rose to 2.815%, its highest level since 1996."
-    },
-    {
-      "id": "4971676",
-      "time": "2026-07-06 13:13:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率升至2.815%，為1996年以來最高。"
-    },
-    {
-      "id": "4971675",
-      "time": "2026-07-06 13:13:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法國泰雷茲集團將以每股134歐元的價格收購Exail Technologies】泰雷茲與 Gorgé 家族簽署具有約束力的協議，擬收購 Exail Technologies 35.51% 的股份，並透過強制性要約收購，以每股 134 歐元的價格收購 Exail 100% 的股份。該交易意味著Exail的企業價值為39億歐元。該價格較Exail截至6月25日未受影響的股價溢價44%。"
-    },
-    {
-      "id": "4971674",
-      "time": "2026-07-06 13:13:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為Mate90系列有望搭載基於韜定律的新麒麟晶片】從知情人士處獲悉，將於今年秋季釋出的華為Mate90系列，計劃搭載基於韜定律的新麒麟晶片。華為於今年5月發表了指導半導體產業發展的新原則——韜(τ)定律，其目標是以系統性降低時間常數τ為核心，透過邏輯摺疊等技術，持續壓縮晶片內部的訊號傳播時延，從而不斷提升電晶體密度，實現半導體與電子系統的持續演進。而將於2026年秋季面世的麒麟晶片，率先採用了邏輯摺疊技術，效能大幅提升。"
     }
   ]
 }

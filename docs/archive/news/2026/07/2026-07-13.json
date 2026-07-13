@@ -1,7 +1,104 @@
 {
   "date": "2026-07-13",
-  "count": 975,
+  "count": 985,
   "items": [
+    {
+      "id": "te:economy:566240",
+      "time": "2026-07-13 13:16:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Finland Current Account Swings to Deficit — Finland’s current account recorded a deficit of EUR 563 million in May 2026, shifting from a surplus of EUR 367 million in the corresponding month of the previous year. The goods account surplus narrowed to EUR 328 million from EUR 678 million a year earlier, as exports rose 10% year-on-year to EUR 7. 1billion, while imports climbed 17% to EUR 6.7 billion. Additionally, the shortfall on the services account expanded to EUR 838 million from EUR 186 million, as well as the income redistribution to EUR 206 million from EUR 176 million. Meanwhile, the primary income posted a surplus of EUR 154 million, nearly three times wider than EUR 52 million a year ago."
+    },
+    {
+      "id": "mkt:019f59e6-ef22-7aab-8d4f-1ca32037afdd",
+      "time": "2026-07-13 13:15:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister said the 2027 budget is expected to exceed 800 trillion won."
+    },
+    {
+      "id": "te:markets:566239",
+      "time": "2026-07-13 13:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.53% — Top currency losers are Indian Rupee (-0.53%), Polish Zloty (-0.40%), South Korean Won (-0.38%), Japanese Yen (-0.17%), British Pound (-0.17%) and Euro (-0.06%). Gains are led by Brazilian Real (0.33%) and Dollar Index (0.09%)."
+    },
+    {
+      "id": "4983698",
+      "time": "2026-07-13 13:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計2027年韓國國家稅收收入將超過500萬億韓元，超過此前預測的412萬億韓元。韓國將把超額稅收用於“未來應對基金”。"
+    },
+    {
+      "id": "mkt:019f59e6-3c45-7aab-8d4f-1515c05ce345",
+      "time": "2026-07-13 13:14:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【After U.S.-Iran clashes, vessels switch off AIS for dark transits through Strait of Hormuz】After U.S.-Iran fighting resumed, several ships have completed dark transits of the Strait of Hormuz by switching off AIS transponders while visible traffic has fallen sharply. Bloomberg-cited Kpler preliminary data show six bulk commodity carriers that crossed the strait last Sunday had AIS turned off. Over the past three days dark transits outnumbered visible passages; AIS tracking showed no recorded transits early Monday. Some vessels reappeared on both sides of the strait after last publicly reporting positions on the opposite side, consistent with transit with AIS disabled. Visible passage along the southern Oman-coast route has effectively stopped since last Wednesday; Iran-designated northern safety corridor still saw a small number of vessels through last Saturday. Iran has recently attacked ships using the Oman route, including vessels that had switched off transponders, which appears to have reduced activity on that corridor."
+    },
+    {
+      "id": "4983697",
+      "time": "2026-07-13 13:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預計2027年國家稅收收入將超過500萬億韓元。"
+    },
+    {
+      "id": "mkt:019f59e5-53a8-7aab-8d4f-0faf6fb9e965",
+      "time": "2026-07-13 13:13:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 1.5 bps to 2.775%."
+    },
+    {
+      "id": "4983696",
+      "time": "2026-07-13 13:13:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.5個基點，至2.775%。"
+    },
+    {
+      "id": "4983695",
+      "time": "2026-07-13 13:13:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星啟動特斯拉AI5晶片生產籌備工作】業內訊息人士週一透露，三星電子已著手籌備代工特斯拉下一代人工智慧晶片AI5。此前三星一名高管在領英發文稱，特斯拉AI5晶片已完成流片，這代表晶片量產前的最終設計工作全部收尾。流片是晶片設計的最後環節，無晶圓晶片設計企業將定稿晶片設計檔案交付晶圓廠，用於後續量產。AI5是特斯拉自研定製晶片，將為公司全自動駕駛（FSD）系統、Optimus人形機器人以及人工智慧資料中心提供算力支撐。該帖文顯示，AI5晶片將採用三星2奈米制程，在三星位於美國得克薩斯州泰勒市的工廠投產，預計不久後搭載於特斯拉新一代產品。此次訊息披露，是市場首次獲知三星代工特斯拉AI5晶片的詳細生產時間規劃。泰勒晶圓廠預計今年晚些時候啟動試產，2027年正式為特斯拉等核心大客戶開展大規模生產。"
+    },
+    {
+      "id": "4983694",
+      "time": "2026-07-13 13:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "EDA概念逆勢活躍，概倫電子、華大九天漲超10%，廣立微漲超3%，安路科技回升收窄跌幅。"
+    },
     {
       "id": "mkt:019f59e2-497b-7aab-8d4f-078ab2fef5e2",
       "time": "2026-07-13 13:10:29",
