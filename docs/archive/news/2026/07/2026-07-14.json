@@ -1,7 +1,25 @@
 {
   "date": "2026-07-14",
-  "count": 267,
+  "count": 269,
   "items": [
+    {
+      "id": "mkt:019f5ccd-c7d7-7aab-8d63-172b93fcaf26",
+      "time": "2026-07-14 02:46:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【President Trump to deliver national address 9:00 p.m. ET Thursday (0900 Beijing Friday)】President Trump will deliver a nationwide address at 9:00 p.m. ET Thursday (9:00 a.m. Beijing Friday)."
+    },
+    {
+      "id": "4985278",
+      "time": "2026-07-14 02:45:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：將於美國東部時間週四晚9點（北京時間週五上午9點）向全國發表講話。"
+    },
     {
       "id": "mkt:019f5ccb-43fd-7aab-8d63-0e69353592e3",
       "time": "2026-07-14 02:44:12",
