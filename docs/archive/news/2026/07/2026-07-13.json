@@ -1,7 +1,80 @@
 {
   "date": "2026-07-13",
-  "count": 1096,
+  "count": 1104,
   "items": [
+    {
+      "id": "mkt:019f5a0e-c5c4-7aab-8d50-94d508e8f8c3",
+      "time": "2026-07-13 13:59:05",
+      "tags": [
+        "MKT News",
+        "MSCI",
+        "Impact bullish",
+        "UBS"
+      ],
+      "text": "【MSCI and UBS form strategic partnership to boost private markets transparency】MSCI and UBS announced a strategic partnership to improve transparency in the private markets. The parties will expand MSCI’s AI-enabled platform to tackle long-standing issues of fragmented data and limited transparency in private markets. UBS will be an early adopter and will collaborate with MSCI to promote broad industry uptake of the platform and accelerate private-market standardization."
+    },
+    {
+      "id": "4983770",
+      "time": "2026-07-13 13:58:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛外長：對俄羅斯制裁一攬子計劃中未就液化天然氣和海上禁令作出決定。"
+    },
+    {
+      "id": "4983769",
+      "time": "2026-07-13 13:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026暑期檔總票房破30億】據燈塔專業版實時資料，截至7月13日，2026年暑期檔（6.1-8.31）檔期總票房（含預售）突破30億！《給阿嬤的情書》《功夫女足》《玩具總動員5》《四渡》《小黃人與大怪獸》暫列檔期票房前5名。"
+    },
+    {
+      "id": "4983768",
+      "time": "2026-07-13 13:57:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛外長：未就最新對俄製裁方案達成一致。"
+    },
+    {
+      "id": "4983767",
+      "time": "2026-07-13 13:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華僑銀行：日本政府養老金投資基金調整配置難以迅速提振日元】華僑銀行集團研究部的兩位策略師表示，考慮到日本財務大臣片山皋月上週五的言論，日本政府養老金投資基金（GPIF）資產配置的任何改變都不太可能很快發生。策略師在報告中表示，這種調整將“需要廣泛的政府協調”。（新華財經）"
+    },
+    {
+      "id": "mkt:019f5a0c-7232-7aab-8d50-885cbe091ece",
+      "time": "2026-07-13 13:56:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China CUSTOMS deputy head Zhang Baofeng meets Namibian tax commissioner Shivite】On July 10, China's CUSTOMS deputy head Zhang Baofeng met Namibian tax commissioner Shivite to advance implementation of bilateral leaders' consensus and deepen cooperation on smart customs, AEO mutual recognition, customs-to-customs collaboration and capacity building."
+    },
+    {
+      "id": "4983766",
+      "time": "2026-07-13 13:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署副署長張寶峰在署會見奈米比亞稅務局局長希維特】7月10日，海關總署副署長張寶峰在署會見奈米比亞稅務局局長希維特一行，雙方就落實兩國元首重要共識，深化中納在智慧海關、AEO互認、關際合作、能力建設等領域合作進行交流。（海關釋出）"
+    },
+    {
+      "id": "mkt:019f5a0c-0c44-7aab-8d50-86a7853e6e09",
+      "time": "2026-07-13 13:56:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC Q sales rise 36% as AI chip demand stays strong】TSMC reported quarterly revenue up 36% YoY to NT$1.27 trillion in the quarter to June (US$39.6 billion), matching analyst consensus. June sales jumped 68% YoY and drove the quarter. CEO Wei Zhejia warned that even if the US adds manufacturing capacity in coming years, TSMC will be unable to meet US-customer-led demand for years. SK Hynix says the current memory-chip shortage is likely to extend beyond 2030. TSMC will publish full results on Thursday and is expected to update its full-year outlook and capex plan."
+    },
     {
       "id": "mkt:019f5a0b-8836-7aab-8d50-792dd1bbe4c8",
       "time": "2026-07-13 13:55:32",
