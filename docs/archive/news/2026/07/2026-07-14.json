@@ -1,7 +1,62 @@
 {
   "date": "2026-07-14",
-  "count": 262,
+  "count": 267,
   "items": [
+    {
+      "id": "mkt:019f5ccb-43fd-7aab-8d63-0e69353592e3",
+      "time": "2026-07-14 02:44:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Yemen's Houthi militia warned airlines not to fly through Saudi Arabian airspace."
+    },
+    {
+      "id": "4985277",
+      "time": "2026-07-14 02:43:49",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝警告各航空公司勿飛越沙烏地阿拉伯領空。"
+    },
+    {
+      "id": "mkt:019f5cca-39f6-7aab-8d63-037f6f0e9859",
+      "time": "2026-07-14 02:43:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Houthi movement says it attacked Abha International Airport in Saudi Arabia with ballistic missiles and drones."
+    },
+    {
+      "id": "4985276",
+      "time": "2026-07-14 02:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱其使用彈道導彈襲擊了沙烏地阿拉伯阿卜哈機場。"
+    },
+    {
+      "id": "mkt:019f5cc8-9e74-7aab-8d62-fd1744edcf64",
+      "time": "2026-07-14 02:41:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【U.S. media: Trump notifies Congress that hostilities with Iran have resumed】The New York Times reported on the 13th that President Trump formally notified congressional leaders in a letter dated the 10th, saying U.S. forces carried out \"defensive strikes\" on targets in Iran on the 7th. The notice intensifies a dispute between Congress and the White House: lawmakers have voted to require the president to end military action or obtain congressional authorization. The Senate on June 23 approved a resolution limiting presidential war powers—demanding an end to U.S. military action against Iran and requiring future congressional approval; the House had already passed the measure. The White House says Trump, as commander-in-chief, acted within his constitutional authority."
+    },
     {
       "id": "4985275",
       "time": "2026-07-14 02:39:02",
