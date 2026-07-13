@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-14 05:13:08",
-  "count": 17208,
+  "updated": "2026-07-14 05:17:02",
+  "count": 17211,
   "items": [
+    {
+      "id": "mkt:019f5d56-b2e5-7aab-8d64-50e1c37fe33f",
+      "time": "2026-07-14 05:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says it struck US forces in Kuwait and fired cruise missiles at US naval vessels】Early on the 14th local time, Iran's military said it launched suicide drones hours earlier to strike US positions in Kuwait, hitting communications systems, fuel storage, a Patriot air-defence battery, a control tower and ammunition depots. The statement added that, in response to recent US missile strikes on parts of Iran's military, the Iranian navy fired cruise missiles at US warships. Iran said its defensive strikes would be calibrated to the severity of enemy actions and would continue."
+    },
+    {
+      "id": "4985368",
+      "time": "2026-07-14 05:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊駐科威特美軍 並向美軍艦艇發射巡航導彈】當地時間14日凌晨，伊朗軍隊發表宣告稱，針對美國近期對伊朗持續實施的挑釁和侵略行為，伊朗軍隊數小時前出動自殺式無人機，對駐科威特美軍的通訊系統、燃料儲存設施、“愛國者”防空系統、控制塔以及彈藥庫實施打擊。此外，作為美國導彈襲擊伊朗部分軍事設施的回應，伊朗海軍發射了巡航導彈，對美軍艦艇實施打擊。伊朗軍隊在宣告中表示，針對違背承諾的敵人的侵略行為，伊朗的防禦性打擊將根據敵方惡行程度進行調整，並將繼續強力展開。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5d56-2498-7aab-8d64-48ebf241158d",
+      "time": "2026-07-14 05:15:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC) approved a final rule amending margin requirements for uncleared swaps."
+    },
+    {
+      "id": "4985367",
+      "time": "2026-07-14 05:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺表示，伊朗南部阿巴斯港聽到多次爆炸聲。"
+    },
+    {
+      "id": "mkt:019f5d54-4819-7aab-8d64-44e333b80651",
+      "time": "2026-07-14 05:13:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian state TV reports explosions heard at Bandar Abbas port in southern Iran."
+    },
     {
       "id": "mkt:019f5d51-6568-7aab-8d64-3df6c2ca2690",
       "time": "2026-07-14 05:10:43",
@@ -157351,23 +157392,6 @@
         "WMT.O"
       ],
       "text": "Walmart cuts ground-beef price to $5.94 per lb from $6.74 per lb."
-    },
-    {
-      "id": "4973029",
-      "time": "2026-07-07 05:15:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收平，報14951點。"
-    },
-    {
-      "id": "4973028",
-      "time": "2026-07-07 05:15:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行調查顯示，該國未來12個月通脹預期為22.3%。"
     }
   ]
 }
