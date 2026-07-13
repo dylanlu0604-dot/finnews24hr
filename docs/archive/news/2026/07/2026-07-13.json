@@ -1,7 +1,153 @@
 {
   "date": "2026-07-13",
-  "count": 2094,
+  "count": 2114,
   "items": [
+    {
+      "id": "4984715",
+      "time": "2026-07-13 19:32:21",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊：油價上漲或促英國央行官員釋放加息訊號】巴克萊分析師在一份報告中指出，鑑於油價上漲，英國央行貨幣政策委員會成員可能會在未來幾個月釋放出傾向於加息的訊號。此前，美國於週末打擊了伊朗目標，而伊朗也對途經霍爾木茲海峽的船隻發動了襲擊。分析師表示：“我們認為，中東局勢的緊張升級以及本週油價的上漲，將使通脹壓力進一步加劇的風險成為貨幣政策委員會成員關注的焦點。”LSEG資料顯示，市場已完全消化了英國央行將在2026年加息25個基點的預期，並預計年底前再次加息25個基點的機率為28%。"
+    },
+    {
+      "id": "mkt:019f5b3f-dcd6-7aab-8d59-4a251b0c5ecf",
+      "time": "2026-07-13 19:32:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Yemen government says Sanaa airport runway struck to stop Iranian plane; Houthis blame Saudi】Around 1400 local time on July 13 Sanaa International Airport was hit by an airstrike. Houthi forces controlling Sanaa accused Saudi Arabia; Yemen’s defense ministry said government forces struck the airport runway to prevent an Iranian aircraft from landing. Sanaa is held by the Houthi movement; the internationally recognized government, backed by Saudi Arabia and other Gulf states, is based in Aden."
+    },
+    {
+      "id": "4984714",
+      "time": "2026-07-13 19:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生益電子：預計2026年上半年淨利潤同比增長104%到114%】生益電子公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤10.82億元到11.37億元，與上年同期相比，將增加5.51億元到6.06億元，同比增加104%到114%。"
+    },
+    {
+      "id": "4984713",
+      "time": "2026-07-13 19:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱胡齊斯坦省遭美方襲擊 有人員死傷】當地時間7月13日，伊朗胡齊斯坦省政府表示，當天下午，該省阿巴丹市遭美軍炮彈襲擊，已造成2人死亡、3人受傷。（央視新聞）"
+    },
+    {
+      "id": "4984712",
+      "time": "2026-07-13 19:31:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間今天（7月13日）下午2點左右，葉門首都薩那國際機場遭空襲。儘管控制薩那的葉門胡塞武裝指責空襲是沙特所為，但據葉門政府國防部稱，葉門武裝部隊對薩那國際機場跑道實施了打擊，以阻止一架伊朗飛機降落。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f5b3f-2f6d-7aab-8d59-47a09bab45aa",
+      "time": "2026-07-13 19:31:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Barclays: oil rise may prompt Bank of England officials to signal hikes】Barclays analysts said rising oil prices — after US strikes on Iranian targets and Iranian attacks on ships transiting the Strait of Hormuz at the weekend — could prompt Bank of England MPC members to signal a bias toward rate hikes in coming months. They warned escalating Middle East tensions and this week’s oil gains raise the risk of stronger inflationary pressure, a focus for MPC members. LSEG data shows markets have fully priced a 25bp hike in 2026 and assign a 28% probability of an additional 25bp by year-end."
+    },
+    {
+      "id": "4984711",
+      "time": "2026-07-13 19:31:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門內閣召開特別會議，以應對胡塞武裝的升級。"
+    },
+    {
+      "id": "4984710",
+      "time": "2026-07-13 19:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "LTM與Anthropic達成合作，加快Claude大模型的市場推廣落地，拓展企業級交付能力。"
+    },
+    {
+      "id": "mkt:019f5b3e-d44f-7aab-8d59-3c527964d269",
+      "time": "2026-07-13 19:31:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's cabinet held an extraordinary meeting to respond to an escalation by Houthi forces, the Yemen News Agency reports."
+    },
+    {
+      "id": "te:markets:566387",
+      "time": "2026-07-13 19:31:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pull Back — Futures tracking US equity indices were firmly lower on Monday, pressured by fresh weakness for AI companies and more macroeconomic uncertainty. Contracts for the S&P 500 fell 0.3% and those for the Nasdaq 100 fell over 1%, while the Dow was only marginally below the flatline. Chip producers were under fresh pressure to indicate persistent uncertainty on whether the sector will deliver the ambitious guidance that backed its speculative rally. SK Hynix was due to be tested after its ADR surged 13% after being issued Friday. Nvidia, AMD, and Intel fell over 1% premarket while memory producers Sandisk and Micron lost more than 3%. Meanwhile, other sectors were also under pressure as repeated strikes between the US and Iran continued to hamper energy exports out of the Middle East, risking inflation and lifting credit costs. Major banks were mixed ahead of their earnings reports tomorrow, with JPMorgan and Bank of America both hovering near the flatline."
+    },
+    {
+      "id": "4984709",
+      "time": "2026-07-13 19:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2600餘件中央防汛物資緊急調撥遼寧】7月13日，應遼寧省防汛抗旱指揮部請求，國家防辦會同國家糧食和物資儲備局緊急調撥復膜編織布等2600餘件中央防汛物資，支援遼寧省做好防汛搶險工作。（央視新聞）"
+    },
+    {
+      "id": "4984708",
+      "time": "2026-07-13 19:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立航科技：預計2026年上半年淨虧損2200萬元到2700萬元】立航科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-2200萬元到-2700萬元，與上年同期相比繼續虧損。報告期內，公司主營業務受行業市場環境等因素影響，產品銷售價格下降，導致產品綜合毛利率及盈利能力下降；計提信用減值損失影響淨利潤約720萬元。"
+    },
+    {
+      "id": "4984707",
+      "time": "2026-07-13 19:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上線僅半年多，位元組旗下付費小說App“紅燭故事”將關停】位元組跳動旗下付費小說APP“紅燭故事”即將停止運營。7月12日，“紅燭故事”釋出《站內停服通知》，宣佈自7月9日起至8月17日逐步停止運營。根據公告，7月9日起停止會員充值、書幣購買等付費服務，7月10日起停止內容更新並啟動使用者資產自動退款，8月17日伺服器正式關閉。7月13日，記者開啟該APP，發現上面的內容正常顯示，而點選“會員充值”，則顯示為“系統維護中，暫不支援充值”。（介面）"
+    },
+    {
+      "id": "mkt:019f5b3c-0845-7aab-8d59-365e29e84de1",
+      "time": "2026-07-13 19:28:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "UK government says it will designate Iran's Islamic Revolutionary Guard Corps (IRGC) as a national security threat."
+    },
+    {
+      "id": "4984706",
+      "time": "2026-07-13 19:27:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 英國政府將伊朗革命衛佇列為國家安全威脅。"
+    },
+    {
+      "id": "4984705",
+      "time": "2026-07-13 19:27:42",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行調查：經濟學家預計 2027 年末巴西雷亞爾兌美元匯率為 5.28，與此前預期值持平。"
+    },
     {
       "id": "4984704",
       "time": "2026-07-13 19:26:46",
@@ -56,6 +202,14 @@
       "text": "巴西央行調查：經濟學家預測2026年巴西GDP將增長1.99%，與此前預測值持平。"
     },
     {
+      "id": "4984698",
+      "time": "2026-07-13 19:26:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部對“巴威”過境前後地質災害防範工作進行再部署】7月13日，自然資源部召開臺風“巴威”影響省份地質災害防範應對工作影片會，加密研判地質災害風險形勢，對“巴威”過境前後地質災害防範應對工作進行再部署、再要求。 會議強調，目前，部分南方省份要堅決摒棄“雨停無災”的麻痺思想，高度重視地質災害的降雨滯後性，全力做好防範。北方省份要深刻認識氣候變化影響，克服僥倖心理，加快補短板、強弱項，動員組織各方力量，盯緊看牢重點部位，加密巡查排查頻次，打出臨災預警和防禦響應的“提前量”；強化偏遠山區和夜間的預警“叫應”，做到應轉早轉、應轉盡轉、應轉快轉，同時加強覆盤分析和總結提高。 會議要求，各地各級自然資源主管部門要深刻學習領會習近平總書記重要指示批示精神，堅決貫徹落實黨中央決策部署，採取有力有效措施做好地質災害防範應對各項工作。要持續加強風險分析研判和預報預警，進一步提高監測預警精準度，及時向社會公眾及有關部門、單位滾動釋出預警資訊；要指導做好轉移避險，發揮地方組織力量、加強部門協同聯動，提前組織做好人員撤離；要緊緊扭住“誰組織、轉移誰、何時轉、轉何處、不擅返”等五個關鍵環節，形成工作閉環。對轉移避險群眾，要在專業技術人員確認安全後才能返回。 會上，浙江、福建、安徽、河北、遼寧自然資源主管部門分管負責同志分別彙報了本省地質災害防範應對工作情況。自然資源部派往浙江、福建、河北的地質災害防禦響應工作組組長彙報了防禦響應工作情況。自然資源部地質災害技術指導中心介紹了颱風登陸前後地質災害風險研判情況，預計7月13日8時至16日8時，河北東北區域性、遼寧東北區域性、吉林南部區域性發生地質災害的風險高（橙色預警），並提出了針對性防範措施建議。（自然資源部）"
+    },
+    {
       "id": "4984697",
       "time": "2026-07-13 19:25:52",
       "tags": [
@@ -63,6 +217,18 @@
         "資料"
       ],
       "text": "巴西央行調查：經濟學家預測2026年巴西IPCA通脹指數年率將達5.16%，此前預測為5.30%。"
+    },
+    {
+      "id": "4984696",
+      "time": "2026-07-13 19:25:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨齊跌。截至發稿，道指期貨跌0.07%，標普500指數期貨跌0.30%，納指期貨跌1.01%。\n②德國DAX指數漲0.18%，英國富時100指數跌0.08%，法國CAC40指數漲0.05%，歐洲斯托克50指數漲0.04%。\n③WTI原油漲3.59%，報73.97美元/桶。布倫特原油漲3.51%，報78.68美元/桶。此前伊朗外交部發言人在新聞釋出會上表示伊朗與美國此前達成的諒解備忘錄“無疑已進入危機階段”。\n④最新報告指出，美國高技能人才短缺問題正持續加劇，這一問題可能拖累全國投資數千億美元的半導體工廠的建設進度，制約未來晶片產能。除非產業界加強協同、政府持續提供資金支援，否則美國重振本土晶片製造的計劃將面臨重大挑戰。\n⑤美股知名大空頭、摩根士丹利首席策略師邁克爾·威爾遜（Michael Wilson）及其團隊在最新研報中指出，美股市場的邏輯正在發生深刻轉變：盈利增長的接力棒正由科技巨頭傳遞給更廣泛的成分股。\n⑥高盛集團本利·斯奈德（Ben Snider）研究團隊最新發布的策略報告指出，美股中長期走勢仍將由企業盈利增長主導，但若美聯儲未來啟動加息，股市短期內將面臨階段性回撥壓力。\n⑦SK海力士ADR盤前跌9.4%,，此前在韓國市場上市股票亦暴跌。\n⑧儲存晶片製造商股價盤前下跌。美光科技下跌6.6%，閃迪下跌6.5%，希捷科技下跌5.4%，西部資料下跌6.6%。投資者越來越擔心，由人工智慧熱潮推動的科技股漲勢已出現過熱跡象。\n⑨美股大型科技股盤前大多下跌，微軟漲0.5%，蘋果持平，亞馬遜跌0.1%，谷歌A跌0.3%，Meta、SpaceX、特斯拉、英偉達跌1%。"
     },
     {
       "id": "4984695",
@@ -103,6 +269,15 @@
         "國際"
       ],
       "text": "波蘭國防部長：居住在波蘭的烏克蘭適齡男性須返回烏克蘭，以補充烏克蘭武裝部隊的兵力。"
+    },
+    {
+      "id": "4984691",
+      "time": "2026-07-13 19:24:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【不參與資料中心“軍備競賽”反成優勢 蘋果今年表現雄踞七巨頭之首】隨著對人工智慧相關支出的擔憂拖累晶片製造商和雲端計算巨頭股價，投資者正重新湧向蘋果公司。蘋果上月披露的AI平臺令人失望後股價下挫，但自6月25日觸底以來已反彈15%，市值增加近6000億美元，並推動股價重返紀錄高點區域。同期，費城半導體指數下跌7%，標普500指數上漲3%，科技股權重較高的納斯達克100指數僅上漲1.3%。蘋果股價的反轉反映出，市場對大規模AI支出能否帶來回報的前景愈發不安。儘管蘋果的AI產品多次令投資者沮喪，但該公司不參與資料中心“軍備競賽”的決定，正越來越多地被視為一項優勢，而非劣勢。Rye Strategic Partners首席投資策略師Mark Bronzo表示：“市場上正在發生一場較量，而眼下蘋果正在受益，因為它沒有捲入其他AI交易所處的風暴之中。人們擔心超大規模雲服務商能從AI支出中獲得怎樣的回報，同時也有人認為晶片股已經漲過頭。因此，投資者重新轉向蘋果，將其視為不面臨這些風險的穩健型股票。”儘管近期市場因擔心AI計算支出的可持續性而出現回撥，但半導體指數2026年迄今仍上漲83%，有望創下1999年以來最佳年度表現。但蘋果今年上漲了16%，使其成為科技“七巨頭”中表現最佳的股票。“"
     },
     {
       "id": "4984690",
@@ -177,6 +352,14 @@
         "公司"
       ],
       "text": "【優德精密：兩股東擬減持不超1.045%股份】優德精密公告稱，股東東發精密持有公司4.71%股份，計劃自公告披露之日起15個交易日後的3個月內（2026年8月4日至11月3日），以集中競價方式減持不超133.34萬股，佔總股本1%；股東崑山凌瑞持有公司0.18%股份，擬在同一時期以集中競價方式減持不超6萬股，佔總股本0.045%。本次減持計劃存在不確定性，不會導致公司控制權變更。"
+    },
+    {
+      "id": "4984682",
+      "time": "2026-07-13 19:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【跨界合作 尚品宅配啟元機器人華南首店落地廣州】7月13日，尚品宅配官方公眾號釋出內容稱，尚品宅配攜手啟元機器人跨界合作，官宣啟元機器人華南首店正式落地廣州。據瞭解，體驗店將依託家居綜合體場景，打造人形機器人全屋沉浸式體驗空間，使用者可近距離實操Q1人形機器人，在真實的居家環境中感受其在家庭陪伴、智慧互動、趣味程式設計等方面的實際功能。根據規劃，8月廣州正佳門店400平方米展廳將率先亮相，10月金融城總部800平方米展廳將啟幕，打造啟元機器人全球最大體驗店。"
     },
     {
       "id": "4984681",
