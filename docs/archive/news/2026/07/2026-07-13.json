@@ -1,7 +1,72 @@
 {
   "date": "2026-07-13",
-  "count": 309,
+  "count": 316,
   "items": [
+    {
+      "id": "mkt:019f58cf-8ab1-7aab-8d48-30ba5af21dc8",
+      "time": "2026-07-13 08:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 15.1 points (0.17%) at 8,821.10 on Monday, July 13."
+    },
+    {
+      "id": "4983244",
+      "time": "2026-07-13 08:10:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國央行下場唱多 稱AI超級週期還將持續】韓國央行週一釋出報告稱，全球半導體市場仍供不應求，預計當前由人工智慧驅動的超級週期還將持續一段時間，試圖打消投資者對晶片週期已見頂的擔憂。韓國央行在提交給國會議員的一份報告中表示：“儘管AI基礎設施相關投資大幅推高了半導體需求，但產能擴張進度一直較為緩慢，” 並補充稱，半導體行業週期尚未出現放緩跡象。韓國央行指出，本輪晶片週期與以往不同，其核心驅動力是各大企業競相加大投資，各方預判人工智慧普及將給產業生態帶來根本性變革。韓國央行表示：“當前市場以高頻寬儲存器（HBM）等定製化晶片產品為主，產能擴張的約束條件比以往更多。全球半導體市場的增長擴張態勢預計還將維持相當長一段時間。”"
+    },
+    {
+      "id": "mkt:019f58cf-3058-7aab-8d48-2d0ba2b4918a",
+      "time": "2026-07-13 08:10:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【CITIC Securities: Still bullish on US tech theme】CITIC Securities says that in AI diffusion end users often avoid the most compute‑intensive models due to token‑budget constraints. Q2 strength in compute hardware was driven mainly by price rises rather than volume; as market focus shifts from scarcity to sustainability, markets such as Korean equities have adjusted. Compute is not in surplus, but the evolution of supplier bargaining power is becoming decisive. US corporate AI adoption is rising and enterprise tech investment intensity remains in line with long‑run trends; CITIC expects competition to drive firms to deploy AI for productivity gains, creating demand for compute services, AI models and applications. The firm remains constructive on the US tech theme, preferring mid‑to‑downstream segments of the overseas compute chain and viewing US equities as more attractive than Japanese and Korean peers."
+    },
+    {
+      "id": "4983243",
+      "time": "2026-07-13 08:09:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：中國航天邁入“重複使用火箭”大門 關注航天板塊投資機會】華泰證券研報稱，據中國航天科技集團官方訊息，7月10日12時15分，長征十號乙運載火箭在海南商業航天發射場發射升空，火箭一二級分離約6分鐘後，一子級轉入返回程式，先後完成滑行調姿、動力減速、氣動減速和著陸捕獲，最終精準落入海上平臺的網索之間。此次火箭一級成功回收意味著中國航天從“一次性火箭”邁入“重複使用火箭”大門，為中國商業航天走向具備低成本、高頻次的天地往返能力奠定了基礎。華泰證券認為，國內可回收火箭技術已實現從0到1的歷史性突破，隨著後續可回收技術的持續進步，多型可回收火箭有望進入常態化、航班化的發射階段，而可回收火箭帶來的降本效應和發射頻次提升將惠及整個航天產業，帶動我國航天產業快速發展。建議關注航天板塊投資機會。"
+    },
+    {
+      "id": "4983242",
+      "time": "2026-07-13 08:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱約20艘商船透過霍爾木茲海峽 】美國媒體12日援引一名美國官員的話報道說，在過去24小時，約20艘商船在美軍協調下透過了霍爾木茲海峽，另有數艘商船未經美軍協調透過該海峽。（新華社）"
+    },
+    {
+      "id": "4983241",
+      "time": "2026-07-13 08:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬推動政府養老金投資基金增加另類投資比例】據報道，日本計劃提高日本政府養老金投資基金（GPIF）投資組合中非上市股票、房地產及其他另類投資的比例。截至今年3月，另類投資佔GPIF資產總額的1.7%，遠低於5%的允許上限。"
+    },
+    {
+      "id": "4983240",
+      "time": "2026-07-13 08:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月13日08時釋出海浪藍色警報：受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月13日上午到14日上午，黃海將出現3到4.5米的大浪到巨浪區；遼寧東部、山東東部、南部、江蘇近岸海域將出現2到3.4米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
+    },
     {
       "id": "4983239",
       "time": "2026-07-13 08:06:42",

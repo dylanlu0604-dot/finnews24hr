@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-13 08:07:36",
-  "count": 16685,
+  "updated": "2026-07-13 08:11:30",
+  "count": 16688,
   "items": [
+    {
+      "id": "mkt:019f58cf-8ab1-7aab-8d48-30ba5af21dc8",
+      "time": "2026-07-13 08:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 15.1 points (0.17%) at 8,821.10 on Monday, July 13."
+    },
+    {
+      "id": "4983244",
+      "time": "2026-07-13 08:10:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國央行下場唱多 稱AI超級週期還將持續】韓國央行週一釋出報告稱，全球半導體市場仍供不應求，預計當前由人工智慧驅動的超級週期還將持續一段時間，試圖打消投資者對晶片週期已見頂的擔憂。韓國央行在提交給國會議員的一份報告中表示：“儘管AI基礎設施相關投資大幅推高了半導體需求，但產能擴張進度一直較為緩慢，” 並補充稱，半導體行業週期尚未出現放緩跡象。韓國央行指出，本輪晶片週期與以往不同，其核心驅動力是各大企業競相加大投資，各方預判人工智慧普及將給產業生態帶來根本性變革。韓國央行表示：“當前市場以高頻寬儲存器（HBM）等定製化晶片產品為主，產能擴張的約束條件比以往更多。全球半導體市場的增長擴張態勢預計還將維持相當長一段時間。”"
+    },
+    {
+      "id": "mkt:019f58cf-3058-7aab-8d48-2d0ba2b4918a",
+      "time": "2026-07-13 08:10:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【CITIC Securities: Still bullish on US tech theme】CITIC Securities says that in AI diffusion end users often avoid the most compute‑intensive models due to token‑budget constraints. Q2 strength in compute hardware was driven mainly by price rises rather than volume; as market focus shifts from scarcity to sustainability, markets such as Korean equities have adjusted. Compute is not in surplus, but the evolution of supplier bargaining power is becoming decisive. US corporate AI adoption is rising and enterprise tech investment intensity remains in line with long‑run trends; CITIC expects competition to drive firms to deploy AI for productivity gains, creating demand for compute services, AI models and applications. The firm remains constructive on the US tech theme, preferring mid‑to‑downstream segments of the overseas compute chain and viewing US equities as more attractive than Japanese and Korean peers."
+    },
+    {
+      "id": "4983243",
+      "time": "2026-07-13 08:09:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：中國航天邁入“重複使用火箭”大門 關注航天板塊投資機會】華泰證券研報稱，據中國航天科技集團官方訊息，7月10日12時15分，長征十號乙運載火箭在海南商業航天發射場發射升空，火箭一二級分離約6分鐘後，一子級轉入返回程式，先後完成滑行調姿、動力減速、氣動減速和著陸捕獲，最終精準落入海上平臺的網索之間。此次火箭一級成功回收意味著中國航天從“一次性火箭”邁入“重複使用火箭”大門，為中國商業航天走向具備低成本、高頻次的天地往返能力奠定了基礎。華泰證券認為，國內可回收火箭技術已實現從0到1的歷史性突破，隨著後續可回收技術的持續進步，多型可回收火箭有望進入常態化、航班化的發射階段，而可回收火箭帶來的降本效應和發射頻次提升將惠及整個航天產業，帶動我國航天產業快速發展。建議關注航天板塊投資機會。"
+    },
+    {
+      "id": "4983242",
+      "time": "2026-07-13 08:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱約20艘商船透過霍爾木茲海峽 】美國媒體12日援引一名美國官員的話報道說，在過去24小時，約20艘商船在美軍協調下透過了霍爾木茲海峽，另有數艘商船未經美軍協調透過該海峽。（新華社）"
+    },
+    {
+      "id": "4983241",
+      "time": "2026-07-13 08:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬推動政府養老金投資基金增加另類投資比例】據報道，日本計劃提高日本政府養老金投資基金（GPIF）投資組合中非上市股票、房地產及其他另類投資的比例。截至今年3月，另類投資佔GPIF資產總額的1.7%，遠低於5%的允許上限。"
+    },
+    {
+      "id": "4983240",
+      "time": "2026-07-13 08:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月13日08時釋出海浪藍色警報：受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月13日上午到14日上午，黃海將出現3到4.5米的大浪到巨浪區；遼寧東部、山東東部、南部、江蘇近岸海域將出現2到3.4米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
+    },
     {
       "id": "4983239",
       "time": "2026-07-13 08:06:42",
@@ -152009,44 +152074,6 @@
         "Japan & APAC"
       ],
       "text": "Australia's S&P/ASX 200 opened down 9.80 points (-0.11%) at 8,834.60 on Monday, July 6."
-    },
-    {
-      "id": "4971229",
-      "time": "2026-07-06 08:11:16",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：OpenAI有望維持大模型領域領先地位】中信證券報告稱，我們認為OpenAI以全球最大使用者基礎、深厚的開發者生態與強品牌認知為底座，有望維持大模型領域領先地位。過去公司多條產品線並行導致資源分散，Coding等關鍵賽道出現相對落後，隨著2026年戰略聚焦調整落地，有望快速追趕。我們判斷OpenAI有望憑藉Codex維持在B端市場行業Top 2水準，而OpenAI的2C使用者基礎與品牌壁壘有望在2027年後隨硬體落地與新場景成熟逐步貨幣化，帶來遠期成長期權。OpenAI與Anthropic兩者並非零和競爭關係，而是處於不同成長節奏的標的，可在不同階段分別提供投資機會。後續核心關注OpenAI商業化能力、現金流壓力以及2C進展。"
-    },
-    {
-      "id": "4971228",
-      "time": "2026-07-06 08:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：油價逐步回落，第三季度出行鏈有望迎來修復】中國銀河證券研報表示，油價逐步回落，第三季度出行鏈有望迎來修復。受油價大幅上行導致居民出行成本上升影響，第二季度出行鏈上下游整體受損嚴重。從高頻資料看，5—6月初油價與天氣因素影響尤為顯著，2026年第22至23周‌（約5月下旬至6月初）航司運力減少致國內民航出行人次出現雙位數下滑。但隨著6月中旬油價逐步回落，2026年第24至25周‌（即2026年6月中下旬）民航客運人次降幅已收窄至個位數區間。考慮7月國內民航燃油附加費、汽油價格將進一步回落至美以伊衝突前水平，以及秋假實施在即，第三季度出行人次增速有望轉正，出行鏈整體將迎來業績邊際改善。"
-    },
-    {
-      "id": "mkt:019f34c1-ef45-7aab-8ca6-34ddcf4d76f0",
-      "time": "2026-07-06 08:09:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: Gold sector at cycle low; valuation and earnings-driven rerating expected】CITIC Securities says gold prices and gold stocks have been sharply oversold since the US–Iran conflict; gold equities now carry a wide margin of safety on PE and resource-based valuation metrics. It forecasts gold at USD 4,000–4,500/oz in Q3 2026; if market rate‑hike expectations are fully repriced, gold could return to USD 4,500–5,000/oz. The firm expects the gold sector to benefit from a simultaneous recovery in earnings and valuations and recommends broad allocation to the sector."
-    },
-    {
-      "id": "mkt:019f34c0-bc11-7aab-8ca6-2ee8217082ec",
-      "time": "2026-07-06 08:07:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI rose as much as 2.00% intraday."
     }
   ]
 }
