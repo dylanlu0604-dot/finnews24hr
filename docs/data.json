@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-14 05:28:45",
-  "count": 17212,
+  "updated": "2026-07-14 05:32:39",
+  "count": 17211,
   "items": [
+    {
+      "id": "4985374",
+      "time": "2026-07-14 05:29:00",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲表示，儲備管理購債操作具備靈活性，可根據市場情況調整。美國財政部計劃將現金餘額重新提升至1萬億美元以上，此舉預計會收緊金融體系流動性。"
+    },
     {
       "id": "mkt:019f5d5e-949d-7aab-8d64-7546c406c1d2",
       "time": "2026-07-14 05:25:07",
@@ -157383,30 +157393,6 @@
         "The Trump Trade"
       ],
       "text": "A Democratic state attorney general has opposed Trump’s proposal to impose import tariffs of up to 12.5% on goods from 60 countries."
-    },
-    {
-      "id": "4973032",
-      "time": "2026-07-07 05:31:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "mkt:019f3957-7fd1-7aab-8cbc-b17881d7506a",
-      "time": "2026-07-07 05:31:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【U.S. earnings season to start; investors expect solid Q2 results but worry about oil-price hit】Summit Place Financial Advisors says markets expect broadly solid Q2 corporate results, but investors will focus on high oil prices’ impact on costs, margins and final product prices. The firm adds inflationary pressure from rising energy costs may take months to fully transmit, leaving the Fed limited room to cut rates in the near term and likely on the sidelines."
     }
   ]
 }
