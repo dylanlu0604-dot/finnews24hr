@@ -1,7 +1,80 @@
 {
   "date": "2026-07-14",
-  "count": 371,
+  "count": 378,
   "items": [
+    {
+      "id": "te:markets:566507",
+      "time": "2026-07-14 04:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.26% Lower — The Dow Jones Index decreased 138 points or 0.26 percent on Monday to close at 52499 points. The decline was led by Nvidia (-3.24%), Boeing (-2.94%) and Honeywell International (-2.29%). On the upside, the strongest performers were Salesforce (4.47%), Chevron (3.21%) and Visa (2.28%)."
+    },
+    {
+      "id": "te:markets:566506",
+      "time": "2026-07-14 04:34:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slides on Geopolitical Risks — The Ibovespa lost 1.2% to close at 175,739 on Monday following military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Energy-driven inflation concerns reinforced expectations that interest rates will remain higher for longer. Financials traded lower, with Itaú losing 1.8%, Itaúsa down 2.5%, and Banco do Brasil shedding 1.6%. Utilities also posted losses, with Axia down 3% and Sabesp retreating 2.4%. Vale fell 1.8% on lower iron ore prices. Other notable laggards included WEG (-4.6%), Rede D'Or (-1.3%), and Embraer (-1.9%). In contrast, Petrobras advanced 2.5% on higher oil prices. Meanwhile, the Focus survey showed lower inflation forecasts for 2026."
+    },
+    {
+      "id": "4985351",
+      "time": "2026-07-14 04:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：以色列國內有比內塔尼亞胡更合適的人選嗎？\n特朗普：他們當中大多數人我都不瞭解。我覺得我和比比（內塔尼亞胡）相處得很好。倘若執掌以色列的不是比比，換成一個軟弱的人，以色列如今恐怕早已不復存在。"
+    },
+    {
+      "id": "4985350",
+      "time": "2026-07-14 04:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 今晚我們會狠狠打擊他們，明天也會持續重拳出擊。 他們對此完全束手無策。 除了放狠話，他們一無是處。"
+    },
+    {
+      "id": "4985349",
+      "time": "2026-07-14 04:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數13日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.28%，在匯市尾市收於101.235。截至紐約匯市尾市，1歐元兌換1.1387美元，低於前一交易日的1.1416美元；1英鎊兌換1.3360美元，低於前一交易日的1.3398美元。1美元兌換162.36日元，高於前一交易日的161.69日元；1美元兌換0.8141瑞士法郎，高於前一交易日的0.8085瑞士法郎；1美元兌換1.4151加元，低於前一交易日的1.4152加元；1美元兌換9.7079瑞典克朗，高於前一交易日的9.6638瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f5d2d-af79-7aab-8d64-13c3d589b955",
+      "time": "2026-07-14 04:31:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.28% to 101.235 on 13th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.28% to 101.235 at the New York FX close on the 13th. The euro fell to $1.1387 from $1.1416; the pound to $1.3360 from $1.3398. The dollar strengthened to 162.36 yen from 161.69 and to 0.8141 Swiss franc from 0.8085. The dollar traded at 1.4151 Canadian dollars versus 1.4152 at the prior close, and at 9.7079 Swedish krona versus 9.6638."
+    },
+    {
+      "id": "mkt:019f5d2d-633d-7aab-8d64-0b2b7a10af29",
+      "time": "2026-07-14 04:31:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump on Iran: We will destroy Pickaxe Mountain."
+    },
     {
       "id": "4985348",
       "time": "2026-07-14 04:30:42",

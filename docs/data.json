@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-14 04:31:45",
+  "updated": "2026-07-14 04:35:42",
   "count": 17217,
   "items": [
+    {
+      "id": "te:markets:566507",
+      "time": "2026-07-14 04:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.26% Lower — The Dow Jones Index decreased 138 points or 0.26 percent on Monday to close at 52499 points. The decline was led by Nvidia (-3.24%), Boeing (-2.94%) and Honeywell International (-2.29%). On the upside, the strongest performers were Salesforce (4.47%), Chevron (3.21%) and Visa (2.28%)."
+    },
+    {
+      "id": "4985351",
+      "time": "2026-07-14 04:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：以色列國內有比內塔尼亞胡更合適的人選嗎？\n特朗普：他們當中大多數人我都不瞭解。我覺得我和比比（內塔尼亞胡）相處得很好。倘若執掌以色列的不是比比，換成一個軟弱的人，以色列如今恐怕早已不復存在。"
+    },
+    {
+      "id": "te:markets:566506",
+      "time": "2026-07-14 04:34:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slides on Geopolitical Risks — The Ibovespa lost 1.2% to close at 175,739 on Monday following military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Energy-driven inflation concerns reinforced expectations that interest rates will remain higher for longer. Financials traded lower, with Itaú losing 1.8%, Itaúsa down 2.5%, and Banco do Brasil shedding 1.6%. Utilities also posted losses, with Axia down 3% and Sabesp retreating 2.4%. Vale fell 1.8% on lower iron ore prices. Other notable laggards included WEG (-4.6%), Rede D'Or (-1.3%), and Embraer (-1.9%). In contrast, Petrobras advanced 2.5% on higher oil prices. Meanwhile, the Focus survey showed lower inflation forecasts for 2026."
+    },
+    {
+      "id": "4985350",
+      "time": "2026-07-14 04:32:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 今晚我們會狠狠打擊他們，明天也會持續重拳出擊。 他們對此完全束手無策。 除了放狠話，他們一無是處。"
+    },
+    {
+      "id": "4985349",
+      "time": "2026-07-14 04:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數13日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.28%，在匯市尾市收於101.235。截至紐約匯市尾市，1歐元兌換1.1387美元，低於前一交易日的1.1416美元；1英鎊兌換1.3360美元，低於前一交易日的1.3398美元。1美元兌換162.36日元，高於前一交易日的161.69日元；1美元兌換0.8141瑞士法郎，高於前一交易日的0.8085瑞士法郎；1美元兌換1.4151加元，低於前一交易日的1.4152加元；1美元兌換9.7079瑞典克朗，高於前一交易日的9.6638瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f5d2d-af79-7aab-8d64-13c3d589b955",
+      "time": "2026-07-14 04:31:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.28% to 101.235 on 13th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.28% to 101.235 at the New York FX close on the 13th. The euro fell to $1.1387 from $1.1416; the pound to $1.3360 from $1.3398. The dollar strengthened to 162.36 yen from 161.69 and to 0.8141 Swiss franc from 0.8085. The dollar traded at 1.4151 Canadian dollars versus 1.4152 at the prior close, and at 9.7079 Swedish krona versus 9.6638."
+    },
+    {
+      "id": "mkt:019f5d2d-633d-7aab-8d64-0b2b7a10af29",
+      "time": "2026-07-14 04:31:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump on Iran: We will destroy Pickaxe Mountain."
+    },
     {
       "id": "4985348",
       "time": "2026-07-14 04:30:42",
@@ -157372,69 +157445,6 @@
         "公司"
       ],
       "text": "明晟公司（MSCI）將於7月17日前確認提醒板（Alert Board）的處理方式。"
-    },
-    {
-      "id": "mkt:019f3924-c7ae-7aab-8cbc-26834d88ba73",
-      "time": "2026-07-07 04:35:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI said it will adjust how it treats stocks on warning/alert boards at Mumbai, the National Stock Exchange of India (NSE), and exchanges in Korea and Taiwan."
-    },
-    {
-      "id": "te:markets:564569",
-      "time": "2026-07-07 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index went up by 156 points or 0.29 percent on Monday to close at 53056 points. The rise was led by Boeing (3.55%), IBM (3.43%) and Goldman Sachs (3.28%). On the downside, the weakerst performers were Amgen (-2.32%), Walt Disney (-2.13%) and Merck (-2.13%)."
-    },
-    {
-      "id": "mkt:019f3923-b167-7aab-8cbc-1cf04a1e9bdd",
-      "time": "2026-07-07 04:34:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI will shorten the monitoring period for watchlist companies in its global indices that no longer meet eligibility criteria."
-    },
-    {
-      "id": "4973009",
-      "time": "2026-07-07 04:33:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國芝加哥期貨交易所（CBOE）6月期貨日均成交量增長30.5%。指數期權日均成交量增長36.8%。跨交易所期權日均成交量增長40.5%。"
-    },
-    {
-      "id": "4973008",
-      "time": "2026-07-07 04:32:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟針對土耳其市場宣告：或將複核單隻證券自由流通股，並把部分股東（含特定基金持倉）從自由流通股份重新劃歸為非自由流通股份。"
-    },
-    {
-      "id": "mkt:019f3921-eda6-7aab-8cbc-15f523af059c",
-      "time": "2026-07-07 04:32:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "MSCI will suspend planned increases to the foreign inclusion factor (FIF) and share-count adjustments for Indonesian securities, and will stop adding Indonesian constituents to the MSCI Investable Market Index (IMI)."
-    },
-    {
-      "id": "4973007",
-      "time": "2026-07-07 04:31:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田北美汽車公司：擴建工廠將新增 2000 個就業崗位，2030 年前聖安東尼奧工廠規模擴大一倍。將在美國德克薩斯州建設價值36億美元的新工廠，並將部分卡車生產從墨西哥轉移至美國。"
     }
   ]
 }
