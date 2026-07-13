@@ -1,7 +1,29 @@
 {
   "date": "2026-07-14",
-  "count": 383,
+  "count": 385,
   "items": [
+    {
+      "id": "mkt:019f5d3a-38a4-7aab-8d64-27d487159635",
+      "time": "2026-07-14 04:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state TV, citing the military, said Iran deployed drones to strike US military facilities and equipment in Kuwait. The military said it used a cruise missile to target a \"hostile\" US vessel."
+    },
+    {
+      "id": "4985356",
+      "time": "2026-07-14 04:45:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺援引伊朗軍方的話稱，伊朗軍方已用巡航導彈打擊了一艘“敵對”美國船隻。"
+    },
     {
       "id": "4985355",
       "time": "2026-07-14 04:42:49",

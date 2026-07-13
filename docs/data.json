@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-14 04:43:37",
-  "count": 17219,
+  "updated": "2026-07-14 04:47:35",
+  "count": 17214,
   "items": [
+    {
+      "id": "mkt:019f5d3a-38a4-7aab-8d64-27d487159635",
+      "time": "2026-07-14 04:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state TV, citing the military, said Iran deployed drones to strike US military facilities and equipment in Kuwait. The military said it used a cruise missile to target a \"hostile\" US vessel."
+    },
+    {
+      "id": "4985356",
+      "time": "2026-07-14 04:45:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺援引伊朗軍方的話稱，伊朗軍方已用巡航導彈打擊了一艘“敵對”美國船隻。"
+    },
     {
       "id": "4985355",
       "time": "2026-07-14 04:42:49",
@@ -157399,65 +157421,6 @@
         "WMT.O"
       ],
       "text": "Trump says Walmart will cut the price of a one-pound pack of ground beef by nearly 15% and lower prices on a range of other items."
-    },
-    {
-      "id": "mkt:019f392f-817f-7aab-8cbc-383b749eab3d",
-      "time": "2026-07-07 04:47:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South32 $2bn Arizona zinc-manganese project set for U.S. approval】The Trump administration will approve South32’s $2 billion zinc‑manganese mine in Arizona, the U.S. Forest Service said, planning to issue a decision on Tuesday. The project, near the U.S.–Mexico border in the Patagonia Mountains about 80 km southeast of Tucson, was designated for expedited review by the Federal Permitting Improvement Steering Council and is the first mining project under USDA to receive accelerated treatment. South32, headquartered in Australia, says the site contains one of the world’s largest undeveloped zinc deposits and other minerals critical to steel production and large-format batteries; full production is targeted for 2029. The company plans to prioritise supplying mined copper to U.S. domestic smelters."
-    },
-    {
-      "id": "4973015",
-      "time": "2026-07-07 04:47:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼： 在採購潛艇的數量上，我們或許希望保留一定靈活調整空間。"
-    },
-    {
-      "id": "mkt:019f392f-098a-7aab-8cbc-31f2ac64f601",
-      "time": "2026-07-07 04:46:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WMT.O"
-      ],
-      "text": "Trump says Walmart will lower prices."
-    },
-    {
-      "id": "4973014",
-      "time": "2026-07-07 04:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沃爾瑪將把一磅碎牛肉的價格下調近 15%，多款其他商品也同步降價。"
-    },
-    {
-      "id": "4973013",
-      "time": "2026-07-07 04:46:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：沃爾瑪將按我的要求（對商品）降價。"
-    },
-    {
-      "id": "4973012",
-      "time": "2026-07-07 04:46:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼： 加拿大與韓國目前已在諸多領域開展合作，雙方還有更多領域可進一步深化合作。"
-    },
-    {
-      "id": "4973011",
-      "time": "2026-07-07 04:46:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼： 上週末與韓國總統進行了長時間友好會談。"
     }
   ]
 }
