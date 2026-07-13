@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-13 22:53:43",
-  "count": 17101,
+  "updated": "2026-07-13 22:57:49",
+  "count": 17099,
   "items": [
+    {
+      "id": "4985079",
+      "time": "2026-07-13 22:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍稱將追加360億歐元國防投入】法國總統馬克龍今天（7月13日）宣佈，法國將在2026年至2030年期間追加360億歐元（約合2783億元人民幣）國防投入。據稱，新增投入將主要用於增加彈藥儲備、加強軍隊戰備水平、提升法國國防自主能力以及增強核威懾能力。馬克龍同時稱，法國已兌現將國防投入提高至國內生產總值的2.5%的承諾，並重申，將在其第二個總統任期結束時實現軍費預算較2017年翻一番的目標。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f5bf9-2ae4-7aab-8d5e-3f21a59c2bb8",
+      "time": "2026-07-13 22:54:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Market near fully pricing Fed hike before September】Market pricing indicates at least one Fed rate hike before September is nearly fully priced in, and two hikes are fully priced by end-March next year. Earlier, Trump said on social media the US will resume a blockade of Iran and plans to levy a 20% fee on any goods transiting the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:566457",
+      "time": "2026-07-13 22:53:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Holds Rebound from 4-Month Low — Aluminum futures in the UK were at $3,150,holding most of their rebound from the four-month low of $3,085 from earlier in July amid fresh threats to supply. US President Trump stated he would reinstate the blockade of commercial vessels out of the Strait of Hormuz following the exchange of strikes with Iran. The move dented prospect that supply from the key region would be restored. Pre-war exports from the GCC were responsible for 9% of global aluminum consumption. On top of that, the surge in natural gas prices due to the shortage from the Middle East lifted operating costs for power-hungry aluminum smelters in Europe and Asia. This added to constraints as the 45 million ton supply cap for China was due to become restricting this year. Consequently, stocks of primary aluminum at the LME sank by 43% tonnes this year to 285,000 tonnes. Also, industry giant Macquarie forecasted a global aluminum shortfall of around 930,000 tonnes."
+    },
+    {
+      "id": "4985078",
+      "time": "2026-07-13 22:53:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛亞蒂群島東南發生6.01級地震。"
+    },
     {
       "id": "mkt:019f5bf6-add1-7aab-8d5e-32953a555dca",
       "time": "2026-07-13 22:52:00",
@@ -155966,60 +156009,6 @@
         "國際"
       ],
       "text": "市場訊息：美國財政部報告草案擬警示人工智慧泡沫風險。"
-    },
-    {
-      "id": "4972787",
-      "time": "2026-07-06 22:57:42",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【快手：騰訊減持不會對本集團營運產生任何重大不利影響】快手公告稱，已獲悉騰訊於2026年7月6日，透過場外大宗交易方式向若干買方出售合共272,947,700股本公司B類股份，該等買方為若干獨立第三方且與本公司及其關連人士並無關連。出售事項完成後，騰訊持股比例將由約15.68%下降至9.37%，並不再為本公司主要股東。騰訊表示，其對本集團長遠發展前景擁有信心，雙方亦會繼續維持共贏關係，包括延續雙方的戰略合作。本公司預期出售事項將不會對本集團營運產生任何重大不利影響。"
-    },
-    {
-      "id": "4972786",
-      "time": "2026-07-06 22:56:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月第二週對出口小麥進行了133,652噸的檢驗。對出口大豆進行了528,350噸的檢驗。對出口玉米進行了164.2萬噸的檢驗。"
-    },
-    {
-      "id": "mkt:019f37ed-89ff-7aab-8cb7-c312f7684e3e",
-      "time": "2026-07-06 22:55:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) will cut 57 jobs in Seattle and Bellevue effective Aug. 3, 2026."
-    },
-    {
-      "id": "4972785",
-      "time": "2026-07-06 22:55:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中韓業界探討擴大人民幣國際使用新機遇】由中國銀行主辦的“擴大人民幣全球使用及中韓金融合作新機遇”路演活動6日在韓國首爾舉行，中韓兩國政商界、金融界近120名嘉賓參加活動。與會人士認為，近年來人民幣國際使用水平持續提升，在貿易結算、跨境投融資、國際儲備等領域的應用不斷拓展。中國金融市場高水平開放持續推進，為中韓金融合作帶來新的發展機遇。（新華社）"
-    },
-    {
-      "id": "4972784",
-      "time": "2026-07-06 22:54:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：亞馬遜將於2026年8月3日起在西雅圖和貝爾維尤永久裁員57人。"
-    },
-    {
-      "id": "4972783",
-      "time": "2026-07-06 22:53:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【具身智慧初創公司至簡動力完成首批百臺機器人交付】7月6日，介面新聞獲悉，具身智慧初創公司至簡動力首款機器人完成首批百臺交付，並落成全球首條CNC（數控機床）智慧化具身機器人產線。至簡動力稱，公司從成立到實現百臺交付用時不到一年，創下行業最快百臺交付紀錄。公開資料顯示，至簡動力成立於2025年7月，核心團隊來自於理想汽車。成立半年內，至簡動力連續完成5輪融資，累計金額20億元，投後估值超10億美元。"
     }
   ]
 }
