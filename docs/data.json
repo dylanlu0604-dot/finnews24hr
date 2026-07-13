@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-13 13:52:35",
-  "count": 16790,
+  "updated": "2026-07-13 13:56:42",
+  "count": 16792,
   "items": [
+    {
+      "id": "mkt:019f5a0b-8836-7aab-8d50-792dd1bbe4c8",
+      "time": "2026-07-13 13:55:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China futures market trading in June 2026】China Futures Association data show that on a single-count basis June nationwide futures market volume was 939,261,565 contracts and turnover 80.625 tln yuan, up 27% and 52.72% YoY, respectively. Jan–Jun cumulative volume was 5,104,871,182 contracts and cumulative turnover 482.701 tln yuan, up 25.23% and 42.08% YoY."
+    },
+    {
+      "id": "4983765",
+      "time": "2026-07-13 13:55:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2026年6月全國期貨市場交易情況】中國期貨業協會最新統計資料表明，以單邊計算，6月全國期貨交易市場成交量為939261565手，成交額為806246.55億元，同比分別增長27%和52.72%。1—6月全國期貨市場累計成交量為5104871182手，累計成交額為4827013.23億元，同比分別增長25.23%和42.08%。"
+    },
+    {
+      "id": "4983764",
+      "time": "2026-07-13 13:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國能源部長佈雷容：法國電網沒有出現緊張局勢。"
+    },
+    {
+      "id": "4983763",
+      "time": "2026-07-13 13:53:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈康生命：正圍繞帕金森病等五大病種 持續打造腦科學創新應用平臺】關於腦機介面方面進展，盈康生命(300143)近日在路演活動中表示，公司聚焦腦科學領域，以臨床價值為導向，正圍繞帕金森病、阿爾茨海默病等五大病種，持續打造腦科學創新應用平臺。在技術能力方面，公司已建立覆蓋DBS手術全流程的管理方案，並推動該技術在體系內複製。四川友誼醫院、青島盈海醫院分別入選帕金森病SCAN環路刺激治療全國合作醫療機構名單。未來，公司將緊跟產業政策與臨床需求變化，根據業務發展需要審慎評估產業鏈佈局的可行性與節奏。目前相關業務尚處早期臨床階段，對公司短期業績不構成重大影響，請投資者注意投資風險。"
+    },
+    {
+      "id": "4983762",
+      "time": "2026-07-13 13:52:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特銳德等投資成立充電網運營新能源公司】企查查APP顯示，近日，山西成豐特來電充電網運營新能源有限公司成立，經營範圍包含：電動汽車充電基礎設施運營；新能源汽車電附件銷售；集中式快速充電站等。企查查股權穿透顯示，該公司由特銳德旗下特來電新能源股份有限公司等共同持股。"
+    },
+    {
+      "id": "4983761",
+      "time": "2026-07-13 13:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英飛凌與LS電氣簽署資料中心基礎設施諒解備忘錄。"
+    },
+    {
+      "id": "4983760",
+      "time": "2026-07-13 13:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高溫肆虐 歐洲6月下旬“超額死亡人數”破萬】歐洲死亡率監測網13日釋出的資料顯示，6月下旬，創紀錄高溫天氣席捲歐洲多國，27個國家“超額死亡人數”共計超過1萬人。其中超過9000人為65歲及以上人群。監測網指出，法國和比利時“超額死亡人數”在歐洲各國中最多。“超額死亡人數”是指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額；全因指不區分具體死因，涵蓋所有死亡病例。（新華社）"
+    },
     {
       "id": "mkt:019f5a07-d2cd-7aab-8d50-72b3ebd622ec",
       "time": "2026-07-13 13:51:29",
@@ -153167,50 +153224,6 @@
         "DXY"
       ],
       "text": "【USD/JPY again touches 162】USD/JPY touched 162.00 intraday, up 0.40%."
-    },
-    {
-      "id": "4971728",
-      "time": "2026-07-06 13:55:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國產創新藥對外授權持續活躍，港股醫藥ETF平安漲超2%】截至2026年7月6日13:37，中證港股通醫藥衛生綜合指數(930965)強勢上漲2.64%，港股醫藥ETF平安(159718)上漲2.46%，衝擊4連漲。最新價報0.83元。"
-    },
-    {
-      "id": "4971727",
-      "time": "2026-07-06 13:55:50",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【小摩：首予BOSS直聘“增持”評級，預期AI長遠可推動平臺ARPU提升】摩根大通發表研報，首次給予BOSS直聘“增持”評級，認為其是中國線上垂直領域企業中的首選，H股目標價78港元，美股目標價則為20美元。該行看好BOSS直聘擁有龐大的專有招聘資料及推薦系統，是企業及求職者的首選平臺，預期AI長遠可推動平臺ARPU提升，目前預測今年第二季收入同比增長將由首季的8%加快至15%，2026至2027年經營利潤年均複合增長率料達16%。"
-    },
-    {
-      "id": "4971726",
-      "time": "2026-07-06 13:55:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將拜耳目標股價從55歐元上調至62.50歐元。"
-    },
-    {
-      "id": "te:markets:564343",
-      "time": "2026-07-06 13:54:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX Hits Record High at Close — The NZX 50 climbed 145 points, or 1.1%, to close at 13,763 on Monday, extending gains from the previous session and hitting a record high, mainly buoyed by gains in the consumer staples, financials, technology, and healthcare sectors. The broader index tracked a rise in US futures as Wall Street looked to extend its rally after the Dow Jones posted a record-setting week. Easing oil prices also fueled sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed's meeting minutes due this week. However, traders remained cautious ahead of the RBNZ's monetary policy decision on Wednesday, with the market expecting the central bank to raise its policy rate by 25 bps to 2.5%. A2 Milk gained 2.8%, Ebos Group climbed 2.7%, Infratil rose 2.0%, and Fisher & Paykel increased 1.6%."
-    },
-    {
-      "id": "4971725",
-      "time": "2026-07-06 13:53:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米手機部人事調整：原深圳區域總經理葛維嚴調任手機相機部總經理】小米集團手機部近日迎來人事調整，原深圳區域總經理葛維嚴調任手機相機部總經理。據悉，葛維嚴後續將向小米手機部副總裁、硬體工程部總經理許春利彙報。資料顯示，葛維嚴曾在高通與蘋果任職，2014年加入小米，先後擔任手機測試部總經理、深圳區域總部總經理併兼任深圳手機研究院院長。（新浪科技）"
     }
   ]
 }
