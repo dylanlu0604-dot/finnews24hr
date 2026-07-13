@@ -1,7 +1,62 @@
 {
   "date": "2026-07-13",
-  "count": 1036,
+  "count": 1042,
   "items": [
+    {
+      "id": "4983730",
+      "time": "2026-07-13 13:35:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數收盤變動不大，報45,380.52。"
+    },
+    {
+      "id": "mkt:019f59f8-b411-7aab-8d4f-e86e81c53021",
+      "time": "2026-07-13 13:34:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kuwait set its August official selling price (OSP) for extra-light crude to Asia at a $5/bbl discount to the Oman/Dubai average."
+    },
+    {
+      "id": "4983729",
+      "time": "2026-07-13 13:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數跌幅擴大至4%】科創50指數跌幅擴大至4%，現報1981.81點。"
+    },
+    {
+      "id": "mkt:019f59f6-cc06-7aab-8d4f-e5341dac3ae0",
+      "time": "2026-07-13 13:32:53",
+      "tags": [
+        "MKT News",
+        "2330.TW",
+        "Impact bullish"
+      ],
+      "text": "TSMC said sales in the first six months of the year were NT$2.4 trillion, up 35.6% YoY."
+    },
+    {
+      "id": "4983728",
+      "time": "2026-07-13 13:32:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電上半年累計銷售額2.40萬億元臺幣，同比增長35.6%。"
+    },
+    {
+      "id": "4983727",
+      "time": "2026-07-13 13:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季度營收據計算達1.27萬億臺幣。"
+    },
     {
       "id": "mkt:019f59f5-b5f5-7aab-8d4f-df726346f32f",
       "time": "2026-07-13 13:31:42",
