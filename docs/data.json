@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-13 13:36:34",
-  "count": 16766,
+  "updated": "2026-07-13 13:40:30",
+  "count": 16769,
   "items": [
+    {
+      "id": "mkt:019f59fc-5bb0-7aab-8d50-0714024f2dee",
+      "time": "2026-07-13 13:38:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said the Strait of Hormuz must not levy any transit fees or charges."
+    },
+    {
+      "id": "mkt:019f59fc-1130-7aab-8d4f-fc4fe79bd23f",
+      "time": "2026-07-13 13:38:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said there remain unresolved issues with a proposed new sanctions package on Russia."
+    },
+    {
+      "id": "mkt:019f59fb-8b1c-7aab-8d4f-f6806ce05d6b",
+      "time": "2026-07-13 13:38:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said she hopes EU foreign ministers will agree on Monday on 250 additional sanctions targets against Russia; no agreement has been reached yet on the 21st sanctions package."
+    },
+    {
+      "id": "4983733",
+      "time": "2026-07-13 13:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟卡拉斯：霍爾木茲海峽不得收取任何通行費或費用。"
+    },
+    {
+      "id": "4983732",
+      "time": "2026-07-13 13:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策高階代表卡拉斯：希望歐盟外長週一就新增250項對俄製裁清單達成一致，第21輪制裁方案尚未達成協議。"
+    },
+    {
+      "id": "4983731",
+      "time": "2026-07-13 13:37:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗策略師將英國股票評級下調至減持。"
+    },
     {
       "id": "4983730",
       "time": "2026-07-13 13:35:23",
@@ -152970,31 +153029,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超2.5萬億元，較上日此時放量323億元。"
-    },
-    {
-      "id": "4971708",
-      "time": "2026-07-06 13:40:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "滙豐將默克評級從買入下調至持有後，盤前交易預估股價下跌2.5%。"
-    },
-    {
-      "id": "4971707",
-      "time": "2026-07-06 13:38:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2554.00點。"
-    },
-    {
-      "id": "4971706",
-      "time": "2026-07-06 13:38:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新加坡期待與中國深化綠色轉型、人工智慧等合作】新加坡國家發展部長徐芳達6日在新加坡舉行的新中論壇發表主旨演講時表示，新加坡期待和中國深化在綠色轉型、人工智慧，以及應對人口老齡化等方面的合作。 徐芳達說，中國在可再生能源、清潔能源技術領域處於全球領先地位，中國在這些領域積累的豐富經驗對加強區域能源韌性、推進脫碳程序具有重要意義。新加坡可發揮在可持續城市規劃和綜合開發方面的專長。雙方攜手合作，“不僅有助於實現各自的氣候目標，也將為地區其他國家邁向更加可持續的未來作出貢獻”。 他表示，中國在人工智慧、機器人和智慧製造領域處於領先地位，並在建築、物流、城市基礎設施等領域大規模應用這些技術，為提升各行業效率提供了寶貴經驗。他認為，透過深化政府、產業界和學術界之間的交流合作，新加坡與中國能夠將創新理念轉化為切實可行的解決方案，同時確保科技進步始終以改善民生、拓展發展機遇為目標。 在人口老齡化方面，徐芳達表示，新加坡和中國都面臨人口老齡化帶來的挑戰。新加坡在居家適老化改造、社群適老化建設等方面積累了經驗，中國近年來則持續推動互助養老模式。雙方可在建設適應長壽社會的宜居環境、運用科技支援長者獨立生活，以及加強社群聯絡、完善社會支援體系等方面相互借鑑、共同探索。 新中論壇由新加坡《聯合早報》自2017年起主辦，邀請兩國政、商、學界人士探討共同關心的議題，已先後在新加坡和中國多個城市舉行。(新華社)"
     }
   ]
 }
