@@ -1,7 +1,65 @@
 {
   "date": "2026-07-14",
-  "count": 297,
+  "count": 303,
   "items": [
+    {
+      "id": "mkt:019f5cea-4522-7aab-8d63-6de2e1fa4fa9",
+      "time": "2026-07-14 03:18:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "IRNA said four missiles struck an area near the southern Iranian port city of Konarak. A US aircraft is flying over Konarak."
+    },
+    {
+      "id": "4985303",
+      "time": "2026-07-14 03:18:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【法國興業銀行建議買入2年期至5年期美國國債】法國興業銀行的利率策略師建議，逐步建立2至5年期美國國債多頭倉位，理由是“短端收益率接近年內高點，持有收益仍具吸引力”。隨著上週美國對伊朗戰爭停火協議破裂引發油價最新一輪飆升，2至5年期美債收益率週一升至2026年新高。"
+    },
+    {
+      "id": "4985302",
+      "time": "2026-07-14 03:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國通訊管理局：理查德·艾倫已決定辭去通訊管理局董事會職務。"
+    },
+    {
+      "id": "mkt:019f5ce8-90c6-7aab-8d63-633ba1226153",
+      "time": "2026-07-14 03:16:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported strikes on multiple 'unauthorized' vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "4985301",
+      "time": "2026-07-14 03:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普政府與人工智慧行業一直在商討一套適用於美國開源模型的能力管控框架。"
+    },
+    {
+      "id": "4985300",
+      "time": "2026-07-14 03:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士：多艘“違規”船隻在霍爾木茲海峽遭到打擊。"
+    },
     {
       "id": "4985299",
       "time": "2026-07-14 03:14:04",
