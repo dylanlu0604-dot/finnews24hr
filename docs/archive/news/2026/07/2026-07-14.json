@@ -1,7 +1,29 @@
 {
   "date": "2026-07-14",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "4985327",
+      "time": "2026-07-14 04:06:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑克丹尼威士忌生產商布朗福曼集團執行長即將卸任。"
+    },
+    {
+      "id": "mkt:019f5d15-dfbd-7aab-8d63-b613857eae38",
+      "time": "2026-07-14 04:05:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average fell 138.25 points (-0.26%) to 52,498.76 on Monday, July 13. S&P 500 fell 59.61 points (-0.79%) to 7,515.78. Nasdaq Composite fell 408.43 points (-1.55%) to 25,873.18."
+    },
     {
       "id": "mkt:019f5d13-b80f-7aab-8d63-ad6c743a9bc0",
       "time": "2026-07-14 04:03:21",

@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-14 04:04:01",
-  "count": 17206,
+  "updated": "2026-07-14 04:07:55",
+  "count": 17203,
   "items": [
+    {
+      "id": "4985327",
+      "time": "2026-07-14 04:06:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑克丹尼威士忌生產商布朗福曼集團執行長即將卸任。"
+    },
+    {
+      "id": "mkt:019f5d15-dfbd-7aab-8d63-b613857eae38",
+      "time": "2026-07-14 04:05:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average fell 138.25 points (-0.26%) to 52,498.76 on Monday, July 13. S&P 500 fell 59.61 points (-0.79%) to 7,515.78. Nasdaq Composite fell 408.43 points (-1.55%) to 25,873.18."
+    },
     {
       "id": "mkt:019f5d13-b80f-7aab-8d63-ad6c743a9bc0",
       "time": "2026-07-14 04:03:21",
@@ -157285,59 +157307,6 @@
         "Impact bullish"
       ],
       "text": "【CFTC: Hedge funds' yen net shorts highest since 2007】CFTC data show hedge funds increased net short positions in yen futures and options to about 138,000 contracts in the week to June 30, the most bearish positioning since 2007. The yen fell to its weakest since 1986, slipping below 162 per dollar, fueling renewed expectations of Japanese FX intervention; Japan's finance minister reiterated authorities can intervene at any time and Tokyo deployed record-sized support in late April–May. Markets view a widening US–Japan rate gap as the main driver of yen pressure, and say recent BOJ rate hikes have not reversed the weakness."
-    },
-    {
-      "id": "4972995",
-      "time": "2026-07-07 04:06:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "維特生物將以每股85美元的現金對價收購Crinetics製藥公司。"
-    },
-    {
-      "id": "4972994",
-      "time": "2026-07-07 04:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國鋼鐵協會（AISI）：截至 7 月 4 日當週，美國鋼鐵產能利用率為 80.4%。"
-    },
-    {
-      "id": "mkt:019f3909-556d-7aab-8cbb-d329cb3090ae",
-      "time": "2026-07-07 04:05:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An Israeli official said Israel would retain the option to carry out military strikes against Iran even if the U.S. reaches an agreement with Tehran."
-    },
-    {
-      "id": "mkt:019f3908-876b-7aab-8cbb-c9388a78cf73",
-      "time": "2026-07-07 04:04:47",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "CFTC: Traders' overall positioning toward the dollar has risen to its most optimistic level since 2015."
-    },
-    {
-      "id": "te:economy:564566",
-      "time": "2026-07-07 04:04:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Colombia PPI Growth Slows in June — Colombia's Producer Price Index rose 3.3% year-on-year in June 2026, easing sharply from a 6.8% increase in May and marking the slowest annual producer inflation since February. Prices of goods produced for domestic consumption increased 4.99% from a year earlier, while export prices fell 1.86%. Among the main sectors, agriculture, livestock, and fishing recorded the strongest annual increase, rising 8.46%, while mining and manufacturing prices advanced 1.95% and 1.94%, respectively. The largest upward contributions came from pome and stone fruits (23.88%), raw, semi-manufactured or powdered gold (18.22%), and citrus fruits (78.03%). In contrast, coffee (-30.73%), green coffee (-21.97%), and ethyl alcohol and other denatured alcohols (-27.75%) were the main drags on the index. On a monthly basis, producer prices fell 3.49% in June."
     }
   ]
 }
