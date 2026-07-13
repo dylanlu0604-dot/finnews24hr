@@ -1,7 +1,15 @@
 {
   "date": "2026-07-14",
-  "count": 415,
+  "count": 416,
   "items": [
+    {
+      "id": "mkt:019f5d6a-9cdf-7aab-8d64-8185215e4bd1",
+      "time": "2026-07-14 05:38:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reports explosions heard on Qeshm Island in southern Iran."
+    },
     {
       "id": "mkt:019f5d65-8064-7aab-8d64-7a316522ab60",
       "time": "2026-07-14 05:32:40",
