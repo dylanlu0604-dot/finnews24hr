@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-14 06:40:30",
-  "count": 17277,
+  "updated": "2026-07-14 06:44:23",
+  "count": 17280,
   "items": [
+    {
+      "id": "mkt:019f5da6-37f2-7aab-8d65-8b210bed1afa",
+      "time": "2026-07-14 06:43:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "RBNZ chief economist CONWAY said recent PMI readings were very strong, prompting an upward revision to the GDPNow nowcast."
+    },
+    {
+      "id": "4985435",
+      "time": "2026-07-14 06:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：“烏克蘭多國部隊”數月內將在烏鄰國演習】法國總統馬克龍13日在巴黎表示，“烏克蘭多國部隊”數月內將在烏克蘭部分鄰國進行演習。馬克龍說，俄烏停火後，該部隊將作為一支“完全防禦性”力量部署在烏克蘭，向烏克蘭提供安全保障。他強調，烏克蘭安全保障的“第一支柱”是烏克蘭軍隊。（新華社）"
+    },
+    {
+      "id": "4985434",
+      "time": "2026-07-14 06:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：近期採購經理人指數資料非常樂觀，推高了我們的GDPNow即時預測。"
+    },
+    {
+      "id": "te:markets:566512",
+      "time": "2026-07-14 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.34% — Top commodity losers are Cocoa (-4.34%) and Rice (-1.31%). Gains are led by Barley (3.99%) and Rapeseed (2.32%)."
+    },
+    {
+      "id": "4985433",
+      "time": "2026-07-14 06:40:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 伊朗原本配備大量雷達設施，現在全都被摧毀了。"
+    },
+    {
+      "id": "4985432",
+      "time": "2026-07-14 06:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 當初雙方達成了協議，而伊朗單方面撕毀協議的次數恐怕不下十次。"
+    },
     {
       "id": "mkt:019f5da1-4543-7aab-8d65-82ebdc7d83f5",
       "time": "2026-07-14 06:37:57",
@@ -157967,33 +158025,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Rises by 1.36% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.36% increase."
-    },
-    {
-      "id": "4973053",
-      "time": "2026-07-07 06:43:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中報預增公司佔比走高，新興產業助力業績增長】截至7月6日17時，A股共有72家上市公司對外披露2026年半年度業績預告，64家預增，預增比例約為88.89%。已披露業績預告的上市公司整體保持了較好的盈利能力。從釋出業績預告的上市公司所屬行業看，生物醫藥、化工、半導體等行業上市公司大幅預增數量較多。部分公司在業績預告中表示，透過AI賦能業務轉型，提升了運營效率，帶動業績提升。不少上市公司釋出業績預告後，獲機構密集調研。機構普遍對上市公司業績未來的增長點、下半年業績展望等內容較為關注。（中證報）"
-    },
-    {
-      "id": "4973052",
-      "time": "2026-07-07 06:43:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年IPO申報放量升溫，科創賽道擴容與從嚴稽核並行】2026年上半年的IPO市場，在6月迎來了集中交卷。Wind資料顯示，上半年三大交易所合計新增受理IPO企業242家，同比增長37%。其中，僅6月單月就貢獻了198家。分板塊看，6月受理的198家中，北交所95家、創業板51家、科創板36家、上交所主機板8家、深交所主機板8家。人工智慧、商業航天、腦機介面等新興產業企業明顯增多，成為本輪申報中較為突出的特徵。6月最後三個交易日——26日、29日、30日，滬深北交易所合計受理企業達113家，呈現逐日放量之勢。（中證報）"
-    },
-    {
-      "id": "mkt:019f3997-ebbe-7aab-8cbc-e7189bbf9c72",
-      "time": "2026-07-07 06:41:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "Samsung Electronics reported preliminary Q2 results: revenue 171 trillion won, below consensus 173.9 trillion won; Q1 revenue was 133.9 trillion won, year-ago 74.6 trillion won. Q2 operating profit 89.4 trillion won, above consensus 87.3 trillion won; Q1 operating profit 57.2 trillion won, year-ago 4.7 trillion won."
     }
   ]
 }

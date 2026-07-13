@@ -1,7 +1,65 @@
 {
   "date": "2026-07-14",
-  "count": 508,
+  "count": 514,
   "items": [
+    {
+      "id": "mkt:019f5da6-37f2-7aab-8d65-8b210bed1afa",
+      "time": "2026-07-14 06:43:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "RBNZ chief economist CONWAY said recent PMI readings were very strong, prompting an upward revision to the GDPNow nowcast."
+    },
+    {
+      "id": "4985435",
+      "time": "2026-07-14 06:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：“烏克蘭多國部隊”數月內將在烏鄰國演習】法國總統馬克龍13日在巴黎表示，“烏克蘭多國部隊”數月內將在烏克蘭部分鄰國進行演習。馬克龍說，俄烏停火後，該部隊將作為一支“完全防禦性”力量部署在烏克蘭，向烏克蘭提供安全保障。他強調，烏克蘭安全保障的“第一支柱”是烏克蘭軍隊。（新華社）"
+    },
+    {
+      "id": "4985434",
+      "time": "2026-07-14 06:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：近期採購經理人指數資料非常樂觀，推高了我們的GDPNow即時預測。"
+    },
+    {
+      "id": "te:markets:566512",
+      "time": "2026-07-14 06:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.34% — Top commodity losers are Cocoa (-4.34%) and Rice (-1.31%). Gains are led by Barley (3.99%) and Rapeseed (2.32%)."
+    },
+    {
+      "id": "4985433",
+      "time": "2026-07-14 06:40:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 伊朗原本配備大量雷達設施，現在全都被摧毀了。"
+    },
+    {
+      "id": "4985432",
+      "time": "2026-07-14 06:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 當初雙方達成了協議，而伊朗單方面撕毀協議的次數恐怕不下十次。"
+    },
     {
       "id": "mkt:019f5da1-4543-7aab-8d65-82ebdc7d83f5",
       "time": "2026-07-14 06:37:57",
