@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-14 02:30:15",
-  "count": 17187,
+  "updated": "2026-07-14 02:33:59",
+  "count": 17188,
   "items": [
+    {
+      "id": "mkt:019f5cbf-78cd-7aab-8d62-f09ea6b19330",
+      "time": "2026-07-14 02:31:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $78.14/bbl, up $6.73 or 9.42%."
+    },
+    {
+      "id": "mkt:019f5cbf-6cc3-7aab-8d62-eb4583d958a7",
+      "time": "2026-07-14 02:31:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 2.12% to 873 yuan/gram; SHFE silver main contract fell 2.84% to 14,015 yuan/kg; SC crude oil main contract rose 6.20% to 500 yuan/barrel."
+    },
+    {
+      "id": "4985274",
+      "time": "2026-07-14 02:31:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收漲6.73美元，漲幅9.42%，報78.14美元/桶。NYMEX 8月天然氣期貨收報2.8970美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.1663美元/加侖，NYMEX 8月取暖油期貨收報3.8236美元/加侖。"
+    },
+    {
+      "id": "mkt:019f5cbf-00d8-7aab-8d62-e1dbdb0e9c8c",
+      "time": "2026-07-14 02:30:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the close of the July 13 (Monday) evening session, Shanghai Gold Exchange gold T+D fell 1.82% to 872.01 yuan/gram; silver T+D fell 1.64% to 13,983.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:566498",
+      "time": "2026-07-14 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 3.01% — Top crypto losers are Bitcoin (-3.01%), Ether (-2.76%) and Binance (-1.77%)."
+    },
+    {
+      "id": "4985273",
+      "time": "2026-07-14 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲5.59%，報504.00元人民幣/桶。滬金夜盤收跌2.12%，滬銀收跌2.84%。"
+    },
+    {
+      "id": "4985272",
+      "time": "2026-07-14 02:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：委內瑞拉日處理 14.6 萬桶的埃爾帕利托煉油廠重啟流化催化裂化裝置。"
+    },
     {
       "id": "mkt:019f5cbb-6ca9-7aab-8d62-d8148f6fc84f",
       "time": "2026-07-14 02:26:54",
@@ -157080,71 +157158,6 @@
         "其他"
       ],
       "text": "阿聯酋酋長國富查伊拉達成協議，將連續十年採購阿提哈德煉油廠汽油。"
-    },
-    {
-      "id": "4972962",
-      "time": "2026-07-07 02:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "Politico：塞爾維亞加入歐盟的推進計劃恐難如願。"
-    },
-    {
-      "id": "mkt:019f38b4-8b2e-7aab-8cba-ffc3d09952a5",
-      "time": "2026-07-07 02:33:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Zelenskiy says Russia's large-scale strike on Ukraine killed 22】Ukrainian President Zelenskiy said on the 6th (local time) that Russia's large-scale strike that day killed 22 and injured nearly 90; rescue and recovery operations continue. He said Russian forces fired 68 missiles, including many ballistic missiles, and launched more than 350 drones of various types. He said the main targets were Kyiv and Kyiv region."
-    },
-    {
-      "id": "mkt:019f38b2-fd38-7aab-8cba-f49819e370b0",
-      "time": "2026-07-07 02:31:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Zimbabwe experienced a nationwide power outage caused by a technical fault."
-    },
-    {
-      "id": "mkt:019f38b2-d1ac-7aab-8cba-ec36e543f63f",
-      "time": "2026-07-07 02:31:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract fell 0.15% to 910 yuan/gram; Shanghai silver main contract fell 0.47% to 15,126 yuan/kg; SC crude oil main contract rose 0.23% to 438 yuan/barrel."
-    },
-    {
-      "id": "mkt:019f38b2-d01a-7aab-8cba-e5c02f8ec43b",
-      "time": "2026-07-07 02:31:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.06% at 909.0 yuan/gram in Monday evening trade; silver T+D closed up 0.03% at 15,125 yuan/kg."
-    },
-    {
-      "id": "4972961",
-      "time": "2026-07-07 02:30:52",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶68.55美元，下跌14美分，跌幅0.20%。"
     }
   ]
 }
