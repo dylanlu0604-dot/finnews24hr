@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-14 00:46:26",
-  "count": 17108,
+  "updated": "2026-07-14 00:50:41",
+  "count": 17104,
   "items": [
+    {
+      "id": "mkt:019f5c60-edf3-7aab-8d60-9be11769415d",
+      "time": "2026-07-14 00:48:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures broke above $80.00/bbl, up 5.35% intraday."
+    },
     {
       "id": "mkt:019f5c5d-a7cb-7aab-8d60-92ed89d58dd8",
       "time": "2026-07-14 00:44:29",
@@ -156184,50 +156197,6 @@
         "國際"
       ],
       "text": "澤連斯基：俄軍發動大規模空襲，投射68枚導彈、350餘架無人機，主攻基輔及周邊，造成22人遇難、近90人受傷。"
-    },
-    {
-      "id": "mkt:019f3856-5cdb-7aab-8cb9-d0da4c7d96b2",
-      "time": "2026-07-07 00:50:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FIFA Appeals Committee dismissed Belgium’s appeal against a one-year suspension of Folarin Balogun, ruling the appeal inadmissible because Belgium is not a party to the proceedings and therefore lacks standing to appeal."
-    },
-    {
-      "id": "4972914",
-      "time": "2026-07-07 00:48:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "國際足聯表示，由於比利時不是本案的當事方，也不具備對該裁決提起上訴的訴訟主體資格，因此該申請被認定為不可受理。"
-    },
-    {
-      "id": "4972913",
-      "time": "2026-07-07 00:48:49",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "國際足聯上訴委員會駁回了比利時就福拉林·巴洛貢禁賽被暫停一年一事提起的上訴。"
-    },
-    {
-      "id": "mkt:019f3853-5450-7aab-8cb9-cc034df19305",
-      "time": "2026-07-07 00:46:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Syrian state news agency SANA said French President Macron arrived in Syria, the first visit by an EU head of state since the fall of the Assad regime."
-    },
-    {
-      "id": "4972912",
-      "time": "2026-07-07 00:46:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統候選人羅伯託·桑切斯已承認在選舉中不敵藤森慶子。"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
   "date": "2026-07-14",
-  "count": 86,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:019f5c60-edf3-7aab-8d60-9be11769415d",
+      "time": "2026-07-14 00:48:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures broke above $80.00/bbl, up 5.35% intraday."
+    },
     {
       "id": "mkt:019f5c5d-a7cb-7aab-8d60-92ed89d58dd8",
       "time": "2026-07-14 00:44:29",
