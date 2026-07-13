@@ -1,7 +1,60 @@
 {
   "date": "2026-07-14",
-  "count": 503,
+  "count": 508,
   "items": [
+    {
+      "id": "mkt:019f5da1-4543-7aab-8d65-82ebdc7d83f5",
+      "time": "2026-07-14 06:37:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump says deal with Iran still possible】On July 13 at the White House, Trump said a U.S.-Iran deal remains possible, adding Iran wants a deal and has re-engaged with U.S. He also said U.S. forces will continue heavy strikes to significantly degrade Iran’s ability to affect Strait of Hormuz transit and that Washington is restoring an \"Iran-only blockade,\" under which vessels doing business with Iran would be barred from passage while other countries’ ships would be allowed to transit."
+    },
+    {
+      "id": "4985431",
+      "time": "2026-07-14 06:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱仍可能與伊朗達成協議】當地時間7月13日，美國總統特朗普在白宮對媒體表示，他仍認為美國與伊朗有可能達成協議，“伊朗希望達成協議，並已重新與美方接觸”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985430",
+      "time": "2026-07-14 06:36:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行首席經濟學家康韋：將在中期內把通脹回落至2%的目標水平。"
+    },
+    {
+      "id": "4985429",
+      "time": "2026-07-14 06:36:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普： 委內瑞拉擁有海量石油資源，如今這些資源由我們掌控。"
+    },
+    {
+      "id": "mkt:019f5d9f-e32c-7aab-8d65-7df3d5f6d4cd",
+      "time": "2026-07-14 06:36:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Axios, citing U.S. officials, reported that Trump supports Saudi Crown Prince Mohammed bin Salman taking an unusually rare military action against Yemen's Houthi movement."
+    },
     {
       "id": "te:markets:566511",
       "time": "2026-07-14 06:35:17",
