@@ -1,7 +1,116 @@
 {
   "date": "2026-07-13",
-  "count": 474,
+  "count": 485,
   "items": [
+    {
+      "id": "mkt:019f5916-a858-7aab-8d49-842207e32ee3",
+      "time": "2026-07-13 09:28:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share semiconductor sector opened lower; Zhichun Technology hit the daily limit-down. Youyan Silicon, Zhenbao Technology, Demingli, Jingyi Equipment and GigaDevice declined."
+    },
+    {
+      "id": "4983364",
+      "time": "2026-07-13 09:27:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股新華百貨開盤跌停，此前公告稱控股股東物美科技與杭州景祺電子資訊合夥企業（有限合夥）、廈門聯芯美企業管理合夥企業（有限合夥）簽署的《股份轉讓協議》已終止。"
+    },
+    {
+      "id": "mkt:019f5916-1d40-7aab-8d49-7a658b22688d",
+      "time": "2026-07-13 09:27:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened down 30.14 points (-0.75%) at 3,966.02 on Monday, July 13. Shenzhen Composite Index opened down 137.69 points (-0.92%) at 14,908.98. CSI 300 Index opened down 35.35 points (-0.74%) at 4,745.44. ChiNext Index opened down 32.87 points (-0.86%) at 3,809.86. STAR Market 50 Index opened down 26.62 points (-1.29%) at 2,038.36."
+    },
+    {
+      "id": "4983363",
+      "time": "2026-07-13 09:27:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【部分港股人工智慧股走強 五一視界漲超5%】截至發稿，五一視界(06651.HK)漲5.20%，智譜(02513.HK)漲5%，天數智芯(09903.HK)漲3.69%。"
+    },
+    {
+      "id": "4983362",
+      "time": "2026-07-13 09:27:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊低開，至純科技觸及跌停】半導體板塊低開，至純科技觸及跌停，有研矽、臻寶科技、德明利、京儀裝備、兆易創新跟跌。"
+    },
+    {
+      "id": "4983361",
+      "time": "2026-07-13 09:27:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4%，至7176.67點。"
+    },
+    {
+      "id": "mkt:019f5915-b679-7aab-8d49-72c25b63d75c",
+      "time": "2026-07-13 09:27:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI fell 4%, breaching 7,200 points; SK Hynix slid 8.3% and Samsung Electronics dropped 4.2%."
+    },
+    {
+      "id": "4983360",
+      "time": "2026-07-13 09:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順網科技：截至一季度末已構建超330個節點機房高效協同的分散式算力網路】順網科技(300113)7月13日在互動平臺表示，公司高度重視雲遊戲及算力服務業務的發展。截至2026年第一季度末，公司已構建超330個節點機房高效協同的分散式算力網路，為近82萬終端提供服務，可運營算力規模達5.3萬路，並透過自研排程平臺持續最佳化算力資源的納管與高效排程。在技術儲備方面，公司推出的“全光毫秒算網”服務透過低時延、高可靠的邊緣算力網路，技術層面能夠有效支援雲遊戲等領域的實時算力需求。"
+    },
+    {
+      "id": "mkt:019f5914-e57e-7aab-8d49-6d8d8a6b42ee",
+      "time": "2026-07-13 09:26:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened: Shanghai Composite down 0.75%, Shenzhen Composite Index down 0.92%, ChiNext down 0.86%. China Satellite up 3.87% at the open; Jiufeng Energy opened at the daily limit-up."
+    },
+    {
+      "id": "4983359",
+      "time": "2026-07-13 09:26:07",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.75％，深成指跌0.92％，創業板跌0.86％。"
+    },
+    {
+      "id": "4983358",
+      "time": "2026-07-13 09:25:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子特氣概念大幅高開 九豐能源一字漲停】早盤電子特氣概念大幅高開，九豐能源一字漲停，封單額超24億元，華特氣體、杭氧股份、凱美特氣、蜀道裝備、廣鋼氣體、金宏氣體跟漲。"
+    },
     {
       "id": "mkt:019f5912-d51e-7aab-8d49-614dc112dbc3",
       "time": "2026-07-13 09:23:54",
