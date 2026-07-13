@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-14 00:42:28",
+  "updated": "2026-07-14 00:46:26",
   "count": 17108,
   "items": [
+    {
+      "id": "mkt:019f5c5d-a7cb-7aab-8d60-92ed89d58dd8",
+      "time": "2026-07-14 00:44:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian parliamentary speaker says Prime Minister Svyrydenko has submitted his resignation."
+    },
+    {
+      "id": "4985182",
+      "time": "2026-07-14 00:43:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議會議長：該國總理斯維裡登科已遞交辭呈。"
+    },
+    {
+      "id": "4985181",
+      "time": "2026-07-14 00:42:38",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【沃勒定調週二CPI含金量：通脹火熱將支援近期加息】美聯儲理事沃勒週一表示，如果未來資料表明通脹率仍遠高於2%的目標，美聯儲“短期內”可能需要提高利率。他稱當前貨幣政策正處於“十字路口”。沃勒表示，這一方向將由週二釋出的CPI報告等新資訊決定，如果資料走勢出現不利變化，美聯儲目前處於不應“懈怠”的階段。沃勒表示：“在當前的政策水平下，通脹仍有可能逐步回落至2%的目標。但我同樣擔心可能出現另一種同樣情況，即未來幾周的資料將顯示通脹仍會維持在較高水平，甚至繼續上升，這將在短期內要求採取更緊的貨幣政策。”他特別表示，自己擔心最近的通脹報告顯示出價格壓力似乎正在整個經濟中擴大，超出了去年進口關稅上調或近期能源成本上升的影響，可能反映出更廣泛的系統性通脹，這將需要採取更緊縮的貨幣政策。沃勒表示，“如果本週核心通脹率再次表現火熱，FOMC將不得不考慮在短期內收緊貨幣政策。需要數月內看到通脹資料持續走低，才能認為通脹正朝著正確的方向發展。”"
+    },
+    {
+      "id": "mkt:019f5c5b-cecb-7aab-8d60-8d8245ae5844",
+      "time": "2026-07-14 00:42:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Waller: Tuesday CPI will decide next move; hot inflation could prompt near-term hikes】Federal Reserve Governor Waller said Tuesday's CPI and incoming data will determine policy direction, warning that if inflation remains well above the 2% target the Fed may need to raise rates in the short term. He described policy as at a crossroads and expressed concern recent reports show price pressures broadening beyond tariffs and energy — potentially signaling more entrenched, systemic inflation that would require tighter policy. If core CPI prints hot again this week, the FOMC would have to consider near-term tightening; Waller said it would take months of sustained declines in inflation data to be confident the trend is moving toward 2%."
+    },
     {
       "id": "4985180",
       "time": "2026-07-14 00:41:42",
@@ -25,6 +68,15 @@
         "EURUSD"
       ],
       "text": "Markets now price a 50% chance of a Fed rate hike this month."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143804285758",
+      "time": "2026-07-14 00:40:36",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國短期利率期貨顯示，美聯儲7月加息機率約為45%，較週一早些時候的35%有所上升。"
     },
     {
       "id": "mkt:019f5c59-db78-7aab-8d60-7ae04d5d4d24",
@@ -156176,58 +156228,6 @@
         "其他"
       ],
       "text": "秘魯總統候選人羅伯託·桑切斯已承認在選舉中不敵藤森慶子。"
-    },
-    {
-      "id": "mkt:019f3852-1a38-7aab-8cb9-c5f744018bc9",
-      "time": "2026-07-07 00:45:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The governor of Russia’s Yaroslavl region said Russian forces on Monday repelled what he described as the largest-to-date Ukrainian attack on the Yaroslavl oil refinery."
-    },
-    {
-      "id": "4972911",
-      "time": "2026-07-07 00:44:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯州長：俄羅斯週一擊退了烏克蘭對雅羅斯拉夫爾煉油廠迄今為止規模最大的襲擊。"
-    },
-    {
-      "id": "4972910",
-      "time": "2026-07-07 00:43:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場資訊：美聯儲今年不降息的機率為77%。"
-    },
-    {
-      "id": "mkt:019f384f-d770-7aab-8cb9-bbe0af55d3fa",
-      "time": "2026-07-07 00:43:04",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Chile's finance minister said the Chilean economy is very likely to have expanded in June."
-    },
-    {
-      "id": "te:markets:564558",
-      "time": "2026-07-07 00:42:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuitive Surgical Stock Price Hits 5-week High — Intuitive Surgical shares increased to 430.87 USD, the highest since May 2026. Over the past 4 weeks, Intuitive Surgical gained 2.87%, and in the last 12 months, it decreased 19.47%."
     }
   ]
 }
