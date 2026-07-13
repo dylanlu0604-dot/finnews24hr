@@ -1,7 +1,166 @@
 {
-  "updated": "2026-07-13 22:16:44",
-  "count": 17091,
+  "updated": "2026-07-13 22:20:50",
+  "count": 17096,
   "items": [
+    {
+      "id": "4985032",
+      "time": "2026-07-13 22:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：北約盟國譴責俄羅斯“持續惡意網路活動”。"
+    },
+    {
+      "id": "4985031",
+      "time": "2026-07-13 22:19:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【二手車交易量首次追平新車銷量】在近日的2026年中國二手車大會上，一組資料備受市場關注：中國新車消費與二手車交易比例首次達到1:1。資料顯示，今年前5個月，國內新車零售銷量為814.8萬輛，同比下滑超20%。同期，二手車展現出逆勢上揚的姿態，前5個月交易量達809.5萬輛，同比增長2.3%。從二手車使用年限來看，車齡在3～6年的二手車交易量最多，佔比為43.6%，較去年同期下降2.3個百分點；車齡3年內二手車佔比為30%，較去年同期增長了3.1個百分點；車齡10年以上的車型佔比為10%，較去年同期下降了0.6個百分點。（第一財經）"
+    },
+    {
+      "id": "4985030",
+      "time": "2026-07-13 22:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐洲天然氣價格創下5月20日以來的最高水平。"
+    },
+    {
+      "id": "4985029",
+      "time": "2026-07-13 22:18:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債跌幅擴大，兩年期國債收益率上漲11個基點至4.33%。"
+    },
+    {
+      "id": "4985028",
+      "time": "2026-07-13 22:18:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4985027",
+      "time": "2026-07-13 22:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽開放，無論伊朗是否參與，都將繼續開放。"
+    },
+    {
+      "id": "4985026",
+      "time": "2026-07-13 22:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：程式和組建工作將立即開始。"
+    },
+    {
+      "id": "4985025",
+      "time": "2026-07-13 22:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他所有國家都將公平、公開地使用海峽。"
+    },
+    {
+      "id": "mkt:019f5bd7-3bb1-7aab-8d5d-9afc2fa2177e",
+      "time": "2026-07-13 22:17:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped briefly below $4,020/oz, down 2.50% intraday."
+    },
+    {
+      "id": "4985024",
+      "time": "2026-07-13 22:17:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國將按20%的比例獲得補償。"
+    },
+    {
+      "id": "4985023",
+      "time": "2026-07-13 22:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：恢復對伊朗的封鎖。"
+    },
+    {
+      "id": "mkt:019f5bd6-dddf-7aab-8d5d-93f0627b52e2",
+      "time": "2026-07-13 22:17:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump says he will restore a blockade against Iran."
+    },
+    {
+      "id": "4985022",
+      "time": "2026-07-13 22:17:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌2.66%。"
+    },
+    {
+      "id": "4985021",
+      "time": "2026-07-13 22:17:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4020美元/盎司，日內跌2.63%。"
+    },
+    {
+      "id": "4985020",
+      "time": "2026-07-13 22:16:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4020美元/盎司，日內跌2.31%。"
+    },
+    {
+      "id": "4985019",
+      "time": "2026-07-13 22:16:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守58美元/盎司，日內跌3.67%。"
+    },
+    {
+      "id": "4985018",
+      "time": "2026-07-13 22:16:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4028.75美元/盎司。"
+    },
+    {
+      "id": "4985017",
+      "time": "2026-07-13 22:16:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4030美元/盎司，日內跌2.07%。"
+    },
     {
       "id": "4985016",
       "time": "2026-07-13 22:15:51",
@@ -155771,119 +155930,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：國際足聯做出了正確的決定。"
-    },
-    {
-      "id": "mkt:019f37cd-8859-7aab-8cb7-57b06f4833b9",
-      "time": "2026-07-06 22:20:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said FIFA made the right decision."
-    },
-    {
-      "id": "mkt:019f37cd-71b3-7aab-8cb7-4a5fd2976cac",
-      "time": "2026-07-06 22:20:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he did not tell FIFA what to do."
-    },
-    {
-      "id": "4972736",
-      "time": "2026-07-06 22:20:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我從未對國際足聯發號施令。"
-    },
-    {
-      "id": "4972735",
-      "time": "2026-07-06 22:20:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿根廷預計到2027年，私有化將帶來15億美元的收入。"
-    },
-    {
-      "id": "4972734",
-      "time": "2026-07-06 22:20:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷財政秘書：阿根廷能否在 2027 年登陸全球資本市場融資取決於利率水平。"
-    },
-    {
-      "id": "4972733",
-      "time": "2026-07-06 22:18:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿爾及利亞公佈國民議會選舉初步結果】當地時間6日，阿爾及利亞全國獨立選舉委員會代理主席卡里姆·赫爾法內宣佈，民族解放陣線在本月2日舉行的國民議會（眾議院）選舉中獲得90個席位，再次成為議會最大黨；民族民主聯盟獲得73個席位，位居第二；未來陣線獲得59個席位，位居第三。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f37cb-3f0c-7aab-8cb7-409caacc883b",
-      "time": "2026-07-06 22:18:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump asked FIFA to review Balogun's red card."
-    },
-    {
-      "id": "4972732",
-      "time": "2026-07-06 22:17:59",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "據訊息人士透露，HUB還曾與蒙特利爾銀行和摩根大通接洽，為其在美國的IPO做準備。"
-    },
-    {
-      "id": "mkt:019f37ca-bbae-7aab-8cb7-3c89cbe3c80f",
-      "time": "2026-07-06 22:17:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【Trump: Early investing is key, predicts markets will \"soar\"】At a launch event for a new account he is promoting, Trump said newborns using the account would gain a significant financial advantage by age 18. He called early investing the route to long-term wealth, cited recent gains in the Dow, Nasdaq and S&P 500, said \"I think the market will soar,\" and urged households to keep investing rather than cashing out."
-    },
-    {
-      "id": "mkt:019f37ca-9a1c-7aab-8cb7-33a81a8b3b4a",
-      "time": "2026-07-06 22:17:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he watched the match and that Balogun did not commit a foul."
-    },
-    {
-      "id": "4972731",
-      "time": "2026-07-06 22:17:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已要求對國際足聯展開審查。"
-    },
-    {
-      "id": "4972730",
-      "time": "2026-07-06 22:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：國際足聯禁賽美國頂級球員的做法有失公平。"
-    },
-    {
-      "id": "4972729",
-      "time": "2026-07-06 22:16:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "據悉，由HELLMAN & FRIEDMAN支援的該中心計劃透過IPO募集30億美元。"
     }
   ]
 }
