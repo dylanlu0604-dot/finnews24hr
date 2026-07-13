@@ -1,7 +1,116 @@
 {
   "date": "2026-07-13",
-  "count": 2223,
+  "count": 2235,
   "items": [
+    {
+      "id": "mkt:019f5b64-c60c-7aab-8d5a-5aa5d2418099",
+      "time": "2026-07-13 20:12:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran received nothing."
+    },
+    {
+      "id": "4984805",
+      "time": "2026-07-13 20:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林稱攔截伊朗導彈和無人機襲擊】麥納麥訊息：巴林國防軍總司令部13日發表宣告說，伊朗繼續對巴林發動空襲，巴林防空系統當天上午多次攔截來自伊朗的導彈和無人機襲擊。宣告強調，巴林國防軍各作戰部門和部隊均處於最高戒備狀態，已做好充分防禦準備。伊朗伊斯蘭革命衛隊公共關係部門13日發表最新宣告說，革命衛隊還打擊了位於巴林的一處美軍設施和基礎設施，並摧毀位於阿曼境內的一部遠端空中監視雷達和一部船隻探測雷達。（新華社）"
+    },
+    {
+      "id": "mkt:019f5b64-b8fb-7aab-8d5a-54b3b82b73f5",
+      "time": "2026-07-13 20:12:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【OPEC cuts 2026 global oil-demand growth forecast for third time】OPEC's monthly report on Monday lowered its 2026 global oil-demand growth forecast to 780,000 bpd, marking the third consecutive downgrade. The group said the Iran war will have a smaller impact on oil consumption than other agencies expect; the IEA projects a demand decline in 2026. OPEC raised its 2027 global demand growth forecast."
+    },
+    {
+      "id": "mkt:019f5b64-4c99-7aab-8d5a-4a4dbcab57d6",
+      "time": "2026-07-13 20:12:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran currently has nothing."
+    },
+    {
+      "id": "4984804",
+      "time": "2026-07-13 20:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗一無所有。"
+    },
+    {
+      "id": "4984803",
+      "time": "2026-07-13 20:11:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受降雨影響 遼寧省26個高速公路收費站關閉】降雨對遼寧全省高速公路（包括省交投集團管轄路網、中鐵管轄本桓高速、中鐵建管轄凌綏高速）路網車輛通行產生一定影響，為了確保行車安全，瀋陽、大連、撫順、鞍山、本溪、盤錦、鐵嶺、葫蘆島地區等遼寧中部、北部地區部分高速公路收費站和路段採取管制措施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5b63-b10b-7aab-8d5a-4031b07d5183",
+      "time": "2026-07-13 20:11:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the United States is taking control of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f5b63-784c-7aab-8d5a-3abd1a61fc56",
+      "time": "2026-07-13 20:11:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media said several hours ago a U.S. drone described as hostile was intercepted and destroyed by Iran's army air-defense surface-to-air missile system."
+    },
+    {
+      "id": "4984802",
+      "time": "2026-07-13 20:10:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國內政部長：楓丹白露森林大火疑似人為】法國內政部長努內茲13日對媒體表示，法國楓丹白露森林大火疑似是人為引發。努內茲說，事發區域1000米範圍內發現約10處起火點，與人為縱火特徵較為吻合。消防部門將力爭在13日控制火情，但徹底完成消防作業仍需幾天甚至幾周時間。據法國媒體報道，巴黎東南方向約60公里處的楓丹白露森林於12日夜間起火，截至13日上午過火面積已達800公頃，佔該森林總面積約5%。有關部門疏散了約900名居民，並派出包括400名消防員、2架消防飛機開展滅火作業。另據法國內政部資料，今年以來，法國各地山火過火總面積已達3.2萬公頃。不少火情繫人為引起，截至目前已有44名涉案人員被捕。（新華社）"
+    },
+    {
+      "id": "4984801",
+      "time": "2026-07-13 20:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍隊公共關係部宣告：數小時前，在伊朗全國一體化防空網路的指揮下，伊朗空軍利用地對空導彈系統成功實施攔截與射擊，在阿巴斯港擊中並摧毀了一架美國的敵方無人機。"
+    },
+    {
+      "id": "4984800",
+      "time": "2026-07-13 20:10:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合精密：預計2026年上半年淨虧損880萬元–1200萬元】聯合精密公告，預計2026年1月1日—2026年6月30日歸屬於上市公司股東的淨虧損為880萬元–1200萬元，上年同期為盈利5138.05萬元，同比下降117.13%–123.36%。報告期內，受產品銷售價格下降、固定成本上升、期間費用增加及下游訂單階段性承壓等因素綜合影響，歸屬於上市公司股東的淨利潤同比下降。"
+    },
+    {
+      "id": "4984799",
+      "time": "2026-07-13 20:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：ADI鏈獲得5000萬美元戰略投資，加速為政府及機構構建主權數字基礎設施。"
+    },
     {
       "id": "4984798",
       "time": "2026-07-13 20:08:47",
