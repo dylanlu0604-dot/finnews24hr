@@ -1,7 +1,116 @@
 {
   "date": "2026-07-13",
-  "count": 1726,
+  "count": 1738,
   "items": [
+    {
+      "id": "4984246",
+      "time": "2026-07-13 17:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：印美協定將擇機簽署。"
+    },
+    {
+      "id": "4984245",
+      "time": "2026-07-13 17:10:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副總理表示，俄羅斯襲擊一艘掛多哥國旗的民用商船，造成三名船員死亡，五人受傷。"
+    },
+    {
+      "id": "mkt:019f5abd-96ba-7aab-8d56-23803804b02c",
+      "time": "2026-07-13 17:10:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's deputy prime minister said a Russian attack on a Togo-flagged civilian merchant vessel killed 3 crew and injured 5."
+    },
+    {
+      "id": "4984241",
+      "time": "2026-07-13 17:09:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海汽集團：預計2026年上半年淨虧損4300萬元-5400萬元】海汽集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為人民幣-5400萬元到-4300萬元，與上年同期（法定披露資料）相比下降94.42%到54.81%。預計公司2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為人民幣-5800萬元到-4600萬元，與上年同期（法定披露資料）相比下降67.22%到32.62%。"
+    },
+    {
+      "id": "4984240",
+      "time": "2026-07-13 17:09:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：強化科技賦能，推動養老服務領域數智化升級】國務院批覆《擴大消費“十五五”規劃》，其中提到，擴大養老消費。加快健全縣鄉村三級養老服務網路，最佳化居家為基礎、社群為依託、機構為專業支撐、醫養相結合的養老服務供給格局，健全失能失智老年人照護體系。支援鼓勵社會力量參與擴大普惠養老服務供給。推動銀髮經濟高質量發展。實施縣域養老服務提升計劃專案。強化科技賦能，推動養老服務領域數智化升級。支援依法依規按需利用空置場地改擴建養老機構。加快推進養老服務技能人才職業技能等級認定工作，建立養老服務師職業資格制度。"
+    },
+    {
+      "id": "4984239",
+      "time": "2026-07-13 17:09:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：實施服務消費提質惠民行動，圍繞重點領域開展服務消費促進活動】國務院批覆《擴大消費“十五五”規劃》，其中提到，完善生活服務消費。實施服務消費提質惠民行動，圍繞重點領域開展服務消費促進活動。提升餐飲服務品質，壓實經營者食品安全主體責任，實施地域餐飲品牌培育工程，鼓勵地方打造美食集聚區和特色小吃產業叢集。促進住宿業高質量發展，培育一批特色優質酒店品牌和民宿品牌。擴大優質家政服務供給，提升家政服務人員技能，健全家政服務標準體系，培育一批家政領域龍頭企業和知名品牌。"
+    },
+    {
+      "id": "mkt:019f5abc-8bfe-7aab-8d56-1f1041f1d039",
+      "time": "2026-07-13 17:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "SSE Composite"
+      ],
+      "text": "【State Council targets about CNY60 trillion in retail sales of consumer goods by 2030】The State Council approved an 'expand consumption' 15th Five‑Year plan targeting total retail sales of consumer goods of about CNY60 trillion by 2030. The plan aims to raise the household consumption rate and strengthen consumption's contribution to growth, shift consumption toward services and digital channels, expand development‑and‑upgrade consumption, and narrow urban‑rural, regional and group consumption gaps. It also targets higher‑quality full employment, income growth aligned with economic expansion, and a more sustainable social‑security framework to support stronger household spending and steadier consumption expectations."
+    },
+    {
+      "id": "mkt:019f5abb-445c-7aab-8d56-10e30791de00",
+      "time": "2026-07-13 17:07:29",
+      "tags": [
+        "MKT News",
+        "MRO.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raised its PT on Marathon Oil (MRO.N) to $300 from $257."
+    },
+    {
+      "id": "4984238",
+      "time": "2026-07-13 17:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月13日16時53分在巴布亞紐幾內亞附近海域附近（南緯2.57度，東經148.41度）發生6.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4984237",
+      "time": "2026-07-13 17:07:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工商銀行：600億元二級資本債券（第四期）發行完畢】工商銀行公告稱，經監管機構批准，2026年二級資本債券（第四期）（債券通）近日在全國銀行間債券市場發行完畢。本期債券規模為600億元，為10年期固定利率債券，第5年末附有條件的發行人贖回權，票面利率1.88%。募集資金扣除發行費用後，將補充該行二級資本。"
+    },
+    {
+      "id": "4984236",
+      "time": "2026-07-13 17:07:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團與埃尼達成協議，根據該協議，義大利企業車隊中的寶馬車輛將全部使用由加氫處理植物油製成的Hvolution生物燃料。"
+    },
+    {
+      "id": "4984235",
+      "time": "2026-07-13 17:06:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委緊急安排3000萬元中央預算內投資支援河北暴雨洪澇災害災後應急恢復】近期，河北省部分地區遭遇強降雨過程，引發洪澇災害。7月13日，國家防災減災救災委員會啟動國家四級救災應急響應。根據《國家自然災害救助應急預案》和河北災害損失情況，國家發展改革委緊急安排中央預算內投資3000萬元，支援河北做好暴雨洪澇災害災後應急恢復，重點用於災區受損道路等基礎設施和學校等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（央視新聞）"
+    },
     {
       "id": "mkt:019f5aba-a8bb-7aab-8d56-0ab250910176",
       "time": "2026-07-13 17:06:50",
