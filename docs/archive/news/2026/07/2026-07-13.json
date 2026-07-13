@@ -1,7 +1,99 @@
 {
   "date": "2026-07-13",
-  "count": 2541,
+  "count": 2550,
   "items": [
+    {
+      "id": "mkt:019f5bd0-ae53-7aab-8d5d-6a76172fef08",
+      "time": "2026-07-13 22:10:30",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares fell as much as 4.9% to an intraday low."
+    },
+    {
+      "id": "4985008",
+      "time": "2026-07-13 22:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：近期廣西洪水未對公司造成重大資產損失】溫氏股份在投資者關係活動記錄表上表示，經統計，近期廣西洪水未對公司造成重大資產損失，公司目前生產經營正常。公司前期針對自然災害天氣，已提前釋出預警，並前置做好相關工作部署和應急預案。災害天氣發生期間，公司迅速響應，堅持安全第一、預防為主、科學搶險、降損保產的核心原則，第一時間成立救災應急指揮小組，啟動應急預案，積極組織人力、物力做好應對工作，有序安排部署搶險工作，盡最大努力保障合作農戶與公司的人身安全和資產安全，最大限度壓降災害損失。目前，公司人員、物資已得到妥善安置。公司也及時聯絡保險公司，第一時間到現場開展財產受損勘察評估及理賠工作。"
+    },
+    {
+      "id": "mkt:019f5bcf-fc7c-7aab-8d5d-65f8fa66e4d0",
+      "time": "2026-07-13 22:09:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Chinese EV firms' overseas investment outpaces US automakers】US think tank Atlas Public Policy data show Chinese companies announced about $101.0bn of overseas EV and battery project investment for 2019-2025, versus roughly $38.0bn by US automakers — about 2.7x. Chinese brands account for roughly 80% of new electric-vehicle sales in Latin America; growth is also strong in Europe and Australia."
+    },
+    {
+      "id": "mkt:019f5bcf-6a10-7aab-8d5d-5fff8bab3b86",
+      "time": "2026-07-13 22:09:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Asset manager Carmignac says the ECB may raise rates at least once and possibly twice."
+    },
+    {
+      "id": "mkt:019f5bcf-6270-7aab-8d5d-5614b6cf6462",
+      "time": "2026-07-13 22:09:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Carmignac said the U.S. 10-year Treasury yield at roughly 4.50% is neither a strong buy nor a strong sell."
+    },
+    {
+      "id": "te:economy:566445",
+      "time": "2026-07-13 22:08:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Russia Trade Surplus Widens in May — The Russian trade surplus widened to $14.2 billion in May of 2026 from $7.4 billion in the corresponding period of the previous year. Exports surged by 32.4% annually to $42.8 billion, the highest this year and the sharpest increase in four years. Sales were supported by larger energy sales after the outbreak of war in the Middle East halted tanker flows from the Persian Gulf and lifted oil and gas prices across the globe. Besides higher prices, Russian oil companies also benefited from the loosened sanctions from the US as Washington attempted to tame the surge in energy costs. Meanwhile, imports rose by 14.8% to $28.7 billion."
+    },
+    {
+      "id": "4985007",
+      "time": "2026-07-13 22:08:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌：交易預計將於2026年底前完成。"
+    },
+    {
+      "id": "te:markets:566444",
+      "time": "2026-07-13 22:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for the third session on Monday, rising about 0.5% to a fresh high since June 5 at 2,960 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the third day, rising by 1% to its highest in over a month at 4,702 points; and the supramax index went up by 0.1% to its highest since June 22 at 1,707 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 0.1% to 2,250 points."
+    },
+    {
+      "id": "4985006",
+      "time": "2026-07-13 22:07:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價跌至盤中低點4.9%。"
+    },
     {
       "id": "4985005",
       "time": "2026-07-13 22:07:21",

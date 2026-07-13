@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-13 22:08:29",
-  "count": 17097,
+  "updated": "2026-07-13 22:12:37",
+  "count": 17091,
   "items": [
+    {
+      "id": "mkt:019f5bd0-ae53-7aab-8d5d-6a76172fef08",
+      "time": "2026-07-13 22:10:30",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares fell as much as 4.9% to an intraday low."
+    },
+    {
+      "id": "4985008",
+      "time": "2026-07-13 22:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：近期廣西洪水未對公司造成重大資產損失】溫氏股份在投資者關係活動記錄表上表示，經統計，近期廣西洪水未對公司造成重大資產損失，公司目前生產經營正常。公司前期針對自然災害天氣，已提前釋出預警，並前置做好相關工作部署和應急預案。災害天氣發生期間，公司迅速響應，堅持安全第一、預防為主、科學搶險、降損保產的核心原則，第一時間成立救災應急指揮小組，啟動應急預案，積極組織人力、物力做好應對工作，有序安排部署搶險工作，盡最大努力保障合作農戶與公司的人身安全和資產安全，最大限度壓降災害損失。目前，公司人員、物資已得到妥善安置。公司也及時聯絡保險公司，第一時間到現場開展財產受損勘察評估及理賠工作。"
+    },
+    {
+      "id": "mkt:019f5bcf-fc7c-7aab-8d5d-65f8fa66e4d0",
+      "time": "2026-07-13 22:09:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Chinese EV firms' overseas investment outpaces US automakers】US think tank Atlas Public Policy data show Chinese companies announced about $101.0bn of overseas EV and battery project investment for 2019-2025, versus roughly $38.0bn by US automakers — about 2.7x. Chinese brands account for roughly 80% of new electric-vehicle sales in Latin America; growth is also strong in Europe and Australia."
+    },
+    {
+      "id": "mkt:019f5bcf-6a10-7aab-8d5d-5fff8bab3b86",
+      "time": "2026-07-13 22:09:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Asset manager Carmignac says the ECB may raise rates at least once and possibly twice."
+    },
+    {
+      "id": "mkt:019f5bcf-6270-7aab-8d5d-5614b6cf6462",
+      "time": "2026-07-13 22:09:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Carmignac said the U.S. 10-year Treasury yield at roughly 4.50% is neither a strong buy nor a strong sell."
+    },
+    {
+      "id": "te:economy:566445",
+      "time": "2026-07-13 22:08:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Russia Trade Surplus Widens in May — The Russian trade surplus widened to $14.2 billion in May of 2026 from $7.4 billion in the corresponding period of the previous year. Exports surged by 32.4% annually to $42.8 billion, the highest this year and the sharpest increase in four years. Sales were supported by larger energy sales after the outbreak of war in the Middle East halted tanker flows from the Persian Gulf and lifted oil and gas prices across the globe. Besides higher prices, Russian oil companies also benefited from the loosened sanctions from the US as Washington attempted to tame the surge in energy costs. Meanwhile, imports rose by 14.8% to $28.7 billion."
+    },
+    {
+      "id": "4985007",
+      "time": "2026-07-13 22:08:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌：交易預計將於2026年底前完成。"
+    },
+    {
+      "id": "te:markets:566444",
+      "time": "2026-07-13 22:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for the third session on Monday, rising about 0.5% to a fresh high since June 5 at 2,960 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the third day, rising by 1% to its highest in over a month at 4,702 points; and the supramax index went up by 0.1% to its highest since June 22 at 1,707 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 0.1% to 2,250 points."
+    },
+    {
+      "id": "4985006",
+      "time": "2026-07-13 22:07:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價跌至盤中低點4.9%。"
+    },
     {
       "id": "4985005",
       "time": "2026-07-13 22:07:21",
@@ -155784,142 +155876,6 @@
         "市場"
       ],
       "text": "納斯達克100指數漲幅擴大至1.5%，創盤中新高。"
-    },
-    {
-      "id": "4972720",
-      "time": "2026-07-06 22:12:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲：6月全球供應鏈壓力指數為1.25，5月為1.81。"
-    },
-    {
-      "id": "4972719",
-      "time": "2026-07-06 22:11:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【傳網易雲音樂人運營團隊全員被裁 客服回應：內容失實，部分外包崗位系正常調整】有市場訊息稱，網易雲音樂原創音樂部音樂人平臺運營組整組40多人被裁，上週二last day。訊息稱，這個團隊早前不少崗位已經替換成外包人員，但在這次業務調整中，外包崗位也不再續約，整體全部清退。對此訊息，網易雲音樂客服回應稱，相關內容失實。相關團隊人員正常在崗，部分外包崗位系正常調整。（新浪科技）"
-    },
-    {
-      "id": "4972718",
-      "time": "2026-07-06 22:11:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AMD漲幅擴大至10%】AMD股價持續走高，漲幅擴大至10%，總市值達9280億美元。"
-    },
-    {
-      "id": "mkt:019f37c4-2d27-7aab-8cb7-0bacfca3b0ce",
-      "time": "2026-07-06 22:10:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the US has not provided any funds to Iran."
-    },
-    {
-      "id": "mkt:019f37c4-1407-7aab-8cb7-0604a5cf16b5",
-      "time": "2026-07-06 22:10:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "President Trump on Iran: either reach a deal or finish the job; he prefers reaching a deal."
-    },
-    {
-      "id": "4972717",
-      "time": "2026-07-06 22:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們沒有給伊朗任何錢。"
-    },
-    {
-      "id": "4972716",
-      "time": "2026-07-06 22:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：寧願達成協議。"
-    },
-    {
-      "id": "4972715",
-      "time": "2026-07-06 22:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：要麼我們達成協議，要麼我們完成任務。"
-    },
-    {
-      "id": "4972714",
-      "time": "2026-07-06 22:09:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛：AI投資重心邁向實體產業 未來6年資本開支或達7.6萬億美元】高盛在最新報告中稱，人工智慧（AI）投資的重心已開始向更廣闊的實體經濟延伸，算力、電力和資料中心仍在高速建設之際，AI已同步進入製造、能源、物流、國防、生命科學和機器人等現實場景。2026年至2031年，全球圍繞計算、資料中心和電力的AI資本開支將達到約7.6萬億美元，年度投入將從2026年的7650億美元升至2031年的1.64萬億美元。超大規模雲廠商到2030年的AI投資或超過6萬億美元。未來競爭的關鍵不只是模型或晶片，而是資本結構、能源供給、產業資料、工程能力和部署能力。"
-    },
-    {
-      "id": "4972713",
-      "time": "2026-07-06 22:09:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海事資料顯示，穿越霍爾木茲海峽的船隻中約有三分之一使用了阿曼航線】海上追蹤機構 MarineTraffic 週一釋出的最新更新資料表明，從週五到週一，共有 108 艘船隻透過該海峽。在這些船隻中，有 30 艘（包括原油和液化石油氣（LPG）油輪）採用了阿曼航線。MarineTraffic 的資料顯示，霍爾木茲海峽的船隻流量在週五最高，通行次數達到43次。週六和週日則分別透過了34 次和 31 次。MarineTraffic 表示，分析人士將當前的航運活動描述為“處於運營狀態但呈現碎片化”，並補充稱，這一模式“應結合目前依然脆弱的安全與外交背景來進行解讀”。"
-    },
-    {
-      "id": "mkt:019f37c3-370a-7aab-8cb6-fb14ce9a33a4",
-      "time": "2026-07-06 22:09:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US ISM Services PMI 54 in June; 24th month of expansion】US ISM services PMI edged down to 54 in June from 54.5 in May, marking the 24th consecutive month of expansion, the ISM services report showed. The business activity index fell to 55.4 from 57.7. The prices index declined to 67.7 from 71.3, slipping below 70 for the first time since February; it has stayed above 60 for 19 months and its 12-month average is 68. Diesel, gasoline and oil were again the most-cited input-price risers, though some respondents reported price declines—attributed to differing contract terms across firms—and a subset said gasoline and diesel purchase prices have fallen, not universally. The ISM committee said oil-price pass-through to supply chains is likely to persist for several months but could ease by autumn if recent improvements in Strait of Hormuz shipping hold."
-    },
-    {
-      "id": "4972712",
-      "time": "2026-07-06 22:09:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "7 月 6 日印度國內資金淨買入印度股票 379 億印度盧比。全球基金淨買入印度股票24.3億印度盧比。"
-    },
-    {
-      "id": "4972711",
-      "time": "2026-07-06 22:08:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：不尋求政權更迭。"
-    },
-    {
-      "id": "mkt:019f37c2-8207-7aab-8cb6-f1efa246c6b0",
-      "time": "2026-07-06 22:08:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the U.S. is not seeking regime change in Iran."
-    },
-    {
-      "id": "te:economy:564521",
-      "time": "2026-07-06 22:08:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Non Manufacturing PMI",
-        "Importance 3"
-      ],
-      "text": "US Services Growth Eases in June — The ISM Services PMI in the US fell to 54.0 in June 2026, down from 54.5 in May, matching market expectations. The reading still indicates solid expansion in US services activity, though at a softer pace, driven by a slowdown in business activity growth (55.4 vs. 57.7 in May) and new orders (55.1 vs. 57.3). Employment levels rose for the first time since February (51.2 vs. 47.9), and price inflation eased to a four-month low (67.7 vs. 71.3). Survey respondents expressed ongoing concerns about persistent inflation due to the Middle East war but noted that business conditions remain strong."
     }
   ]
 }
