@@ -1,7 +1,95 @@
 {
   "date": "2026-07-13",
-  "count": 448,
+  "count": 457,
   "items": [
+    {
+      "id": "mkt:019f590e-fdc5-7aab-8d49-24bbfee41119",
+      "time": "2026-07-13 09:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Barclays: Oil shock has passed but inflation persists】Barclays says oil prices have retreated sharply from peaks during the Iran conflict, but its inflation outlook has worsened. In a client note the bank said the odds of the Fed holding rates this year rather than hiking have narrowed noticeably in recent months, though that remains its base case. Barclays cited strong US economic momentum, saying the oil decline alone is unlikely to relieve US inflationary pressures or materially change Fed policy expectations."
+    },
+    {
+      "id": "4983349",
+      "time": "2026-07-13 09:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電A：公司未參與“易儲數智慧源”相關專案】有投資者在互動平臺提問深南電A(000037)：公司是否牽頭拿下了東莞液冷儲能EPC易儲數智慧源？深南電A回覆：截至目前，公司未參與“易儲數智慧源”的相關專案。"
+    },
+    {
+      "id": "4983348",
+      "time": "2026-07-13 09:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柯力感測戰略投資雲幕智造】近日，柯力感測宣佈完成對江蘇雲幕智造科技有限公司（下稱 “雲幕智造”）數千萬元戰略投資，持續加碼具身智慧賽道，進一步拓寬 “感測器森林” 戰略佈局深度。據柯力感測介紹，未來，雙方將深度聯動，合力推進人形機器人與具身智慧技術規模化商用落地。"
+    },
+    {
+      "id": "mkt:019f590d-644e-7aab-8d49-1e318ff3ca09",
+      "time": "2026-07-13 09:17:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Keli Sensing makes strategic investment in Yunmu Zhizao】Keli Sensing said it completed a strategic investment of several tens of millions of yuan in Jiangsu Yunmu Zhizao Technology Co., boosting exposure to the embodied intelligence sector and widening its \"sensor forest\" strategic footprint. The companies said they will deepen cooperation to advance large-scale commercial deployment of humanoid robots and embodied-intelligence technologies."
+    },
+    {
+      "id": "mkt:019f590d-6384-7aab-8d49-13f6f6379878",
+      "time": "2026-07-13 09:17:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Midland Realty: Weekend trades in Hong Kong top-10 estates ~5, up 25% WoW】Midland Realty branch data show about 5 transactions across Hong Kong's top-10 second‑hand housing estates last weekend, a 25% week-on-week increase. It was the sixth consecutive weekend with single-digit trades, though the low appears to be stabilizing. Using a top-15 estate sample, Midland recorded about 6 deals, up 50% WoW. Midland said the summer rental season and family travel have curbed viewings and transactions, but strong new-home sales could rekindle sentiment and release pent-up buying power, benefiting the secondary market."
+    },
+    {
+      "id": "4983347",
+      "time": "2026-07-13 09:17:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電2奈米工藝谷歌搶先搭載，新機8月釋出，打破蘋果首發慣例】據報道，臺積電2奈米工藝正式量產，拉開智慧手機2奈米處理器市場競爭大幕。出乎意料的是，谷歌拿下首款搭載臺積電2奈米晶片手機的首發資格，將於8月中旬推出搭載自研Tensor G6處理器的Pixel11系列機型，比蘋果新品早一個月；聯發科、高通等手機晶片巨頭的2奈米旗艦晶片最快要到9月之後才會亮相。以往臺積電推出全新先進製程時，蘋果始終是首家將其用於自有移動裝置的客戶，今年這一慣例被打破，谷歌成為臺積電2奈米手機晶片的首發客戶，引發行業熱議。業內分析認為，無論哪家廠商率先推出2奈米處理器，一旦旗艦手機普遍搭載2奈米晶片，臺積電都將成為最大受益者。"
+    },
+    {
+      "id": "te:markets:566179",
+      "time": "2026-07-13 09:16:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Gains on Fresh US-Iran Strikes — The dollar index climbed above 101 on Monday, rising for the second straight session as escalating tensions in the Middle East fueled safe-haven demand for the currency. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, pushing oil prices higher and reinforcing expectations of interest-rate hikes to contain inflation. Investors are also awaiting key US inflation data this week for further clues on the Federal Reserve's policy outlook. Markets currently expect the Fed to deliver one rate increase before the end of the year. Minutes from the Fed’s June meeting, released last week, showed that a few policymakers saw a case for raising rates, though they ultimately supported keeping policy unchanged. Meanwhile, Fed Chair Kevin Warsh is scheduled to make his first appearance before the US Congress on Tuesday and Wednesday."
+    },
+    {
+      "id": "mkt:019f590b-9dd0-7aab-8d49-0e8bfb1c105e",
+      "time": "2026-07-13 09:16:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "【TSMC 2nm enters mass production; Google named first customer for 2nm mobile chip】TSMC has begun mass production of its 2nm process. Google is the launch customer for TSMC’s 2nm mobile chip and will roll out a new handset in mid‑August, about one month earlier than Apple."
+    },
+    {
+      "id": "4983346",
+      "time": "2026-07-13 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7972，較上日調高17點】人民幣兌美元中間價報6.7972，較上日調高17點。"
+    },
     {
       "id": "4983345",
       "time": "2026-07-13 09:15:23",
