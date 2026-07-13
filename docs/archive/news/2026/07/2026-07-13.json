@@ -1,7 +1,106 @@
 {
   "date": "2026-07-13",
-  "count": 275,
+  "count": 286,
   "items": [
+    {
+      "id": "4983223",
+      "time": "2026-07-13 07:59:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "由於美國與伊朗軍事衝突持續引發國際市場對原油供應的擔憂，國際原油期貨價格12日在新一週交易開始後顯著上漲，漲幅超3%。（新華社）"
+    },
+    {
+      "id": "4983221",
+      "time": "2026-07-13 07:58:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩大熱門ETF規模分化加劇 行業探尋兩大破局方向】近日，此前發行一度火爆的自由現金流、中證A500兩大指數基金接連亮起清盤預警紅燈，背後是賽道同質化競爭加劇、市場資金風向切換帶來的劇烈規模分化。證券時報基金研究院統計最新資料發現，兩類熱門指數基金中場外產品超七成在成立後遭遇規模縮水，大量尾部產品持續失血淪為迷你基金，而頭部標的規模卻逆勢大幅擴張。公募業內人士分析，年內資金持續湧向AI科技主題基金，非科技類產品普遍遭遇規模縮水；賽道競爭白熱化之下，同類產品的規模分化也成為常態。與此同時，各家機構也在實踐中持續挖掘差異化路徑，指數基金的生態搭建與策略創新，已然成為行業公認的兩大發展方向。"
+    },
+    {
+      "id": "te:markets:566159",
+      "time": "2026-07-13 07:58:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Declines on Renewed US-Iran Strikes — Silver dropped below $59 an ounce on Monday, extending losses from last week as renewed missile strikes between the US and Iran drove oil prices higher, fueling expectations of interest-rate hikes to curb inflation. The US carried out its fourth strike in a week against Iran on Sunday in retaliation for an Iranian attack on a Cyprus-flagged container ship. Tehran declared that the Strait of Hormuz would be closed \"until further notice,\" though the claim was dismissed by the US Central Command. Investors are also awaiting key US inflation data due this week for further clues on the Federal Reserve's policy outlook. Markets currently expect the Fed to deliver one more interest-rate hike before the end of the year. Meanwhile, Fed Chair Kevin Warsh is scheduled to make his first appearance before the US Congress on Tuesday."
+    },
+    {
+      "id": "4983220",
+      "time": "2026-07-13 07:58:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：港股建議對平空行情略降關注，對基本面主線增加關注】華泰證券指出，上週港股在偏低情緒位置上急漲修復，由政策預期、市場對阿里季報預期樂觀、AI硬體行情虹吸緩解及沽空回補共同驅動。往後看，華泰建議對平空行情略降關注，對基本面主線增加關注。平空行情對上漲連貫性有所要求，但上週後半周市場走勢和南向流入連續性不強。此外外圍尤其是韓國股市負螺旋暫緩，海力士美股ADR上市“靴子落地”後套利交易止盈或有正向支援，全球資金多空平倉的緊迫性也有所下降。因此，我們更建議在當下聚焦基本面因子，尤其是考慮到近期地緣升溫、美債利率走強等擾動依然存在，盈利可見度而非估值可能是主導季度行情的核心因素。配置上，短期重點關注盈利預期上修，且沽空比例仍處於歷史高分位的行業，如非銀、交運、電力公用事業、電子、通訊等以及創新藥和AI軟體業績期前後的Alpha機會。"
+    },
+    {
+      "id": "mkt:019f58c3-e741-7aab-8d47-f151233479c2",
+      "time": "2026-07-13 07:57:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Zhongji Xuchuang rebuts rumors of severe Q2 earnings miss and deliberate stock suppression】Zhongji Xuchuang on July 12 denied market rumors that its Q2 results would be materially below expectations and that the company has been deliberately suppressing its share price. The company said the Q2-miss allegation is baseless, noted it has not yet issued an earnings preview or its H1 2026 report, and said it is confident in H1 2026 operating performance and industry demand. It also denied intentionally delaying revenue recognition or manipulating results and said it routinely protects its capital-market image and investors’ interests."
+    },
+    {
+      "id": "te:markets:566158",
+      "time": "2026-07-13 07:57:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Falls on Renewed US-Iran Strikes — Gold slipped below $4,100 an ounce on Monday, remaining under pressure as renewed missile strikes between the US and Iran drove oil prices higher, fueling expectations of interest-rate hikes to curb inflation. The US carried out its fourth strike in a week against Iran on Sunday in retaliation for an Iranian attack on a Cyprus-flagged container ship. Tehran declared that the Strait of Hormuz would be closed \"until further notice,\" though the claim was dismissed by the US Central Command. Investors are also awaiting key US inflation data due this week for further clues on the Federal Reserve's policy outlook. Markets currently expect the Fed to deliver one more interest-rate hike before the end of the year. Meanwhile, Fed Chair Kevin Warsh is scheduled to make his first appearance before the US Congress on Tuesday."
+    },
+    {
+      "id": "4983218",
+      "time": "2026-07-13 07:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍再次對伊朗發動打擊 伊朗多地遭襲】多家伊朗媒體當地時間12日報道，伊朗南部阿巴斯港和格什姆島南部以及附近海域當天19時20分左右傳出數次爆炸聲。格什姆島地方官員表示，格什姆島遭到10至11枚投射物襲擊，所有遭襲目標均為軍事目標，襲擊造成當地一人死亡、兩人受傷。當地時間13日凌晨，阿巴斯港和格什姆島再次發生爆炸，伊朗南部霍爾木茲甘省的錫裡克地區和伊朗主要海上進出口樞紐之一的賈斯克，以及伊朗南部布什爾省部分地區也都傳出爆炸聲。據美國方面訊息，美軍12日晚對伊朗導彈及防空系統實施了數次打擊。美軍還在霍爾木茲海峽周邊的數個地點針對伊朗伊斯蘭革命衛隊的小型船隻採取了行動。美軍中央司令部12日在社交媒體釋出訊息說，當天美軍對伊朗發起新一輪打擊，旨在“繼續削弱其攻擊霍爾木茲海峽商船的能力”。 這是美軍在過去幾天內第四次對伊朗發動打擊。（央視）"
+    },
+    {
+      "id": "4983217",
+      "time": "2026-07-13 07:55:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創澄清二季度業績嚴重不及預期和故意壓制股價傳言】中際旭創7月12日稱，近期市場針對公司及行業的小作文較多，主要澄清如下：1、關於二季度業績嚴重不及預期的傳言：該傳言沒有任何依據，給投資者帶來恐慌。公司目前還沒有釋出業績預告和半年報，但公司對2026年半年度經營情況和行業需求都非常有信心。2、關於公司故意壓制股價的傳言：公司不存在故意壓制股價、收入延遲等情況，也不會刻意調整業績。公司一貫注重資本市場形象和保護投資者利益，此類傳言是對公司極大誤解。"
+    },
+    {
+      "id": "4983216",
+      "time": "2026-07-13 07:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西部漲幅明顯 消費旺季帶動6月份電商物流指數繼續回升】中國物流與採購聯合會今天（13日）公佈6月份中國電商物流指數。消費旺季帶動電商物流指數進一步回升，供給端相關指數全面回升。從地區看，西部地區漲幅最為明顯。6月份，中國電商物流指數為111.4點，較上月上升0.4點。9個分項指數與上月相比，均有不同程度的回升。具體來看，電商物流總業務量指數持續回升。6月份，電商物流總業務量指數為128.6點，較上月上升0.3點。分地區來看，中部地區受高溫暴雨影響較大，環比回落0.3點，其他地區電商物流總業務量指數均有所回升，其中，西部地區環比回升1.3點，漲幅最為明顯。"
+    },
+    {
+      "id": "4983214",
+      "time": "2026-07-13 07:54:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國和伊朗展開新一輪相互攻擊後油價上漲】亞洲早盤油價上漲。近月西得州中質油期貨上漲3.2%，至每桶73.70美元；近月布倫特原油期貨上漲3.1%，至每桶78.38美元。美國週日對伊朗軍事目標進行了多波打擊，同時伊朗軍隊向透過霍爾木茲海峽的商船開火，霍爾木茲海峽是一條關鍵水道，全球五分之一的石油都要經過這裡運輸。澳新銀行研究部的分析師在一份研究報告中說，這些襲擊“引發了人們對脆弱的和平協議可能破裂的擔憂“。澳新銀行研究部的分析師指出：“根據該協議，穿過霍爾木茲海峽的油輪數量有所增加。“"
+    },
+    {
+      "id": "4983213",
+      "time": "2026-07-13 07:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國對伊朗進行新一輪襲擊 雙方就霍爾木茲海峽通行狀態說法不一】美國週日對伊朗發動了新一輪飛彈襲擊，雙方襲擊和反擊已陷入迴圈，華盛頓和德黑蘭之間就霍爾木茲海峽是否對航運開放發表了相互矛盾的宣告。週日下午發生的襲擊是美國一週內發動的第四次襲擊。美國中央司令部稱，週末的空襲是對伊朗襲擊一艘懸掛塞普勒斯國旗的貨櫃船的回應。據CNN報導，伊斯蘭革命衛隊再次向商船開火，美國飛機攔截了一枚伊朗巡航飛彈和一架攻擊無人機。隨後，伊朗對美國在中東的盟友發動了無人機和飛彈報復性襲擊，其中包括科威特、約旦和卡達。美國中央司令部在社交媒體上發帖表示，此次襲擊旨在限制伊朗在霍爾木茲海峽襲擊民用船隻的能力，並補充說，特朗普“下令發動襲擊，以追究伊朗軍隊的責任。”針鋒相對的攻擊日益激烈，使旨在解決伊朗核計畫等關鍵問題並結束戰爭局面的美伊談判前景蒙上陰影。週末，伊朗宣佈霍爾木茲海峽將關閉“直至另行通知”。美國中央司令部對此反駁道，該水道仍對所有船隻開放，美軍已做好準備確保航行自由。全球監測機構聯合海上資訊中心週日報告稱，船隻仍可經由海峽南線通行。"
+    },
     {
       "id": "4983212",
       "time": "2026-07-13 07:54:06",
