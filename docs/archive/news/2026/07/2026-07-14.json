@@ -1,7 +1,68 @@
 {
   "date": "2026-07-14",
-  "count": 235,
+  "count": 241,
   "items": [
+    {
+      "id": "4985266",
+      "time": "2026-07-14 02:14:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們正在拿捏伊朗。"
+    },
+    {
+      "id": "4985265",
+      "time": "2026-07-14 02:13:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破78美元/桶，日內漲9.23%。"
+    },
+    {
+      "id": "te:markets:566494",
+      "time": "2026-07-14 02:12:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits 4-week High — Brent increased to 83.01 USD/Bbl, the highest since June 2026. Over the past 4 weeks, Brent Crude Oil lost 0.29%, and in the last 12 months, it increased 19.82%."
+    },
+    {
+      "id": "mkt:019f5cad-c180-7aab-8d62-b1ab359b86e7",
+      "time": "2026-07-14 02:11:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi militants threaten attacks on Saudi targets】Yemeni Houthi militants posted a social-media video on the evening of July 13 local time threatening attacks on multiple Saudi targets. The video included aerial images and coordinates for King Khalid International Airport (Riyadh), King Abdulaziz International Airport (Jeddah), King Fahd International Airport (Dammam) and ports and other key facilities, and was captioned \"retaliation is coming\"."
+    },
+    {
+      "id": "4985264",
+      "time": "2026-07-14 02:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破83美元/桶，日內漲9.20%。"
+    },
+    {
+      "id": "mkt:019f5cad-055a-7aab-8d62-ab21d35fb9af",
+      "time": "2026-07-14 02:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's IRGC says it shot down two US-made Lucas drones】Iran's Islamic Revolutionary Guard Corps said on the evening of July 13 local time that its air-defence systems shot down two US-made Lucas drones earlier over Bandar Abbas port and the city of Lar in Fars province."
+    },
     {
       "id": "4985263",
       "time": "2026-07-14 02:09:19",

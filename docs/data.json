@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-14 02:11:22",
+  "updated": "2026-07-14 02:15:11",
   "count": 17186,
   "items": [
+    {
+      "id": "4985266",
+      "time": "2026-07-14 02:14:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們正在拿捏伊朗。"
+    },
+    {
+      "id": "4985265",
+      "time": "2026-07-14 02:13:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破78美元/桶，日內漲9.23%。"
+    },
+    {
+      "id": "te:markets:566494",
+      "time": "2026-07-14 02:12:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits 4-week High — Brent increased to 83.01 USD/Bbl, the highest since June 2026. Over the past 4 weeks, Brent Crude Oil lost 0.29%, and in the last 12 months, it increased 19.82%."
+    },
+    {
+      "id": "mkt:019f5cad-c180-7aab-8d62-b1ab359b86e7",
+      "time": "2026-07-14 02:11:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi militants threaten attacks on Saudi targets】Yemeni Houthi militants posted a social-media video on the evening of July 13 local time threatening attacks on multiple Saudi targets. The video included aerial images and coordinates for King Khalid International Airport (Riyadh), King Abdulaziz International Airport (Jeddah), King Fahd International Airport (Dammam) and ports and other key facilities, and was captioned \"retaliation is coming\"."
+    },
+    {
+      "id": "4985264",
+      "time": "2026-07-14 02:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破83美元/桶，日內漲9.20%。"
+    },
+    {
+      "id": "mkt:019f5cad-055a-7aab-8d62-ab21d35fb9af",
+      "time": "2026-07-14 02:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's IRGC says it shot down two US-made Lucas drones】Iran's Islamic Revolutionary Guard Corps said on the evening of July 13 local time that its air-defence systems shot down two US-made Lucas drones earlier over Bandar Abbas port and the city of Lar in Fars province."
+    },
     {
       "id": "4985263",
       "time": "2026-07-14 02:09:19",
@@ -157060,58 +157121,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Falls by 0.71% — Top commodity losers are Platinum (-0.71%) and Gold (-0.24%). Gains are led by Iron Ore CNY (0.55%) and Copper (0.52%)."
-    },
-    {
-      "id": "te:markets:564563",
-      "time": "2026-07-07 02:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.49% — Top commodity losers are Natural Gas UK (-2.49%), Natural Gas EU (-2.06%), Germany Natural Gas THE (-1.39%), Crude Oil WTI (-0.37%) and Brent Crude Oil (-0.15%). Gains are led by Gasoline (1.43%) and Heating Oil (1.08%)."
-    },
-    {
-      "id": "4972953",
-      "time": "2026-07-07 02:13:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜推出AWS SimuLearn學習方案徽章。\n注：學習方案徽章，完成對應學習路徑後發放的認證標識。"
-    },
-    {
-      "id": "mkt:019f38a2-5d37-7aab-8cba-c6a66c5871a8",
-      "time": "2026-07-07 02:13:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israel's ambassador to the United States said the next round of talks between Israel and Lebanon is scheduled for July 14-15 in Rome, Italy."
-    },
-    {
-      "id": "4972952",
-      "time": "2026-07-07 02:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 如果比利時贏了我們，那他們完全可以引以為傲。 可反過來講——只要他們贏了——我就說這是被操縱的，就跟2020年大選遭人為操控一模一樣。"
-    },
-    {
-      "id": "mkt:019f38a1-1b5c-7aab-8cba-b8e674525a94",
-      "time": "2026-07-07 02:11:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President Aoun said reports that a force would be formed to implement the \"pilot area agreement\" are unfounded."
-    },
-    {
-      "id": "mkt:019f38a0-e8ab-7aab-8cba-b6c441c93b05",
-      "time": "2026-07-07 02:11:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President Aoun said there is no rupture in his relationship with Parliament Speaker Nabih Berri."
     }
   ]
 }
