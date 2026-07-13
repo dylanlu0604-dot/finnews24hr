@@ -1,7 +1,96 @@
 {
   "date": "2026-07-14",
-  "count": 425,
+  "count": 435,
   "items": [
+    {
+      "id": "4985386",
+      "time": "2026-07-14 05:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若古巴境記憶體有伊朗無人機，我方會出手解決。"
+    },
+    {
+      "id": "4985385",
+      "time": "2026-07-14 05:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在核查古巴是否囤積伊朗無人機。"
+    },
+    {
+      "id": "4985384",
+      "time": "2026-07-14 05:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月14日06時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "4985383",
+      "time": "2026-07-14 05:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月14日06時繼續釋出高溫黃色預警。"
+    },
+    {
+      "id": "mkt:019f5d7c-b2f6-7aab-8d64-b8915a88dd8c",
+      "time": "2026-07-14 05:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he believes the US will ultimately control the situation."
+    },
+    {
+      "id": "4985382",
+      "time": "2026-07-14 05:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗局勢：美方打擊目標為伊朗所有可威脅霍爾木茲海峽的軍事力量。"
+    },
+    {
+      "id": "mkt:019f5d7a-f101-7aab-8d64-b526778562ba",
+      "time": "2026-07-14 05:56:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars News Agency, citing the Hormozgan provincial government, said a projectile struck the western area of Bandar Abbas port; no casualties reported so far."
+    },
+    {
+      "id": "4985381",
+      "time": "2026-07-14 05:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗霍爾木茲甘省省長辦公室：一枚炮彈擊中阿巴斯港西部，目前無人員傷亡。"
+    },
+    {
+      "id": "mkt:019f5d7a-6c9a-7aab-8d64-a9087a784992",
+      "time": "2026-07-14 05:55:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump says the United States is striking Iran's capabilities related to the Strait of Hormuz."
+    },
+    {
+      "id": "4985380",
+      "time": "2026-07-14 05:55:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談霍爾木茲海峽：最終，我們將控制整個海峽。"
+    },
     {
       "id": "4985379",
       "time": "2026-07-14 05:55:07",

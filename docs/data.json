@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-14 05:55:55",
-  "count": 17218,
+  "updated": "2026-07-14 05:59:48",
+  "count": 17227,
   "items": [
+    {
+      "id": "4985386",
+      "time": "2026-07-14 05:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若古巴境記憶體有伊朗無人機，我方會出手解決。"
+    },
+    {
+      "id": "4985385",
+      "time": "2026-07-14 05:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在核查古巴是否囤積伊朗無人機。"
+    },
+    {
+      "id": "4985384",
+      "time": "2026-07-14 05:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月14日06時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "4985383",
+      "time": "2026-07-14 05:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月14日06時繼續釋出高溫黃色預警。"
+    },
+    {
+      "id": "mkt:019f5d7c-b2f6-7aab-8d64-b8915a88dd8c",
+      "time": "2026-07-14 05:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he believes the US will ultimately control the situation."
+    },
+    {
+      "id": "4985382",
+      "time": "2026-07-14 05:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗局勢：美方打擊目標為伊朗所有可威脅霍爾木茲海峽的軍事力量。"
+    },
+    {
+      "id": "mkt:019f5d7a-f101-7aab-8d64-b526778562ba",
+      "time": "2026-07-14 05:56:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars News Agency, citing the Hormozgan provincial government, said a projectile struck the western area of Bandar Abbas port; no casualties reported so far."
+    },
+    {
+      "id": "4985381",
+      "time": "2026-07-14 05:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗霍爾木茲甘省省長辦公室：一枚炮彈擊中阿巴斯港西部，目前無人員傷亡。"
+    },
+    {
+      "id": "mkt:019f5d7a-6c9a-7aab-8d64-a9087a784992",
+      "time": "2026-07-14 05:55:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump says the United States is striking Iran's capabilities related to the Strait of Hormuz."
+    },
+    {
+      "id": "4985380",
+      "time": "2026-07-14 05:55:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談霍爾木茲海峽：最終，我們將控制整個海峽。"
+    },
     {
       "id": "4985379",
       "time": "2026-07-14 05:55:07",
@@ -157447,14 +157536,6 @@
         "國際"
       ],
       "text": "【美聯儲7月維持利率不變的機率為74.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.3%，累計加息25個基點的機率為25.7%。 美聯儲到9月維持利率不變的機率為42.9%，累計加息25個基點的機率為46.2%，累計加息50個基點的機率為10.8%。"
-    },
-    {
-      "id": "4973035",
-      "time": "2026-07-07 05:57:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國專利商標局撤銷“和平委員會”商標申請】美國專利商標局（USPTO）撤銷了針對總統特朗普發起的“和平委員會”（Board of Peace）專案的商標申請，該申請原本試圖獲取“Board of Peace”一詞及一款風格化標誌的品牌權。相關申請由專利商標局局長約翰·斯夸爾斯（John Squires）親自提交。他表示此舉是為了應對針對該專案域名的“搶注圈地”行為，但這些申請被指可能違反商標法而備受批評。眾議員傑米·拉斯金（Jamie Raskin）將撤銷申請稱為“值得歡迎且必要的糾偏”，同時繼續對“和平委員會”專案及其資金來源缺乏透明度提出質疑。"
     }
   ]
 }
