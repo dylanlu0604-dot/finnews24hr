@@ -1,7 +1,104 @@
 {
   "date": "2026-07-14",
-  "count": 528,
+  "count": 537,
   "items": [
+    {
+      "id": "te:markets:566515",
+      "time": "2026-07-14 07:02:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Lower in Morning Trade — The NZX 50 fell 20 points, or 0.2%, to 13,703 in Tuesday morning trade, reversing gains from the previous session, mainly weighed down by losses in the financial, communication services, technology, and utilities sectors. Rising oil prices due to the escalating conflict in the Middle East continued to pressure sentiment as inflation concerns fueled expectations of further interest rate hikes. Investors also awaited the release of US inflation data, along with key Chinese economic data, including Q2 GDP, due later this week. However, Monday's data helped limit the decline as New Zealand's private sector recorded its strongest growth since December 2025. On the data front, New Zealand's visitor arrivals rose 6.7% in May after rising 8% in April, marking the slowest growth in four months. Infratil shed 1.9%, A2 Milk dropped 1.8%, Ebos Group fell 1.7%, and Henderson Far East Income declined 0.6%."
+    },
+    {
+      "id": "4985448",
+      "time": "2026-07-14 07:02:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨上漲超1%，報每桶79.02美元。"
+    },
+    {
+      "id": "4985447",
+      "time": "2026-07-14 07:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普支援沙特對胡塞武裝發動打擊。"
+    },
+    {
+      "id": "4985446",
+      "time": "2026-07-14 07:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國6月BRC同店零售額同比增長1.7%。"
+    },
+    {
+      "id": "4985445",
+      "time": "2026-07-14 07:01:26",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月14日隔夜要聞一覽】\n1、當地時間7月13日，美國總統特朗普表示，美國正在保護中東多個富裕國家，因此應獲得相關國家的費用補償。\n2、美國總統特朗普表示，他仍認為美國與伊朗有可能達成協議，但美軍將繼續對伊朗發動猛烈打擊。特朗普表示，美軍當晚將再次發動一次“非常重大的襲擊”。\n3、美國中央司令部表示，在美國總統特朗普指示下，美軍於美國東部時間當天下午4時45分開始對伊朗發動連續第三晚空襲。\n4、伊朗軍隊發表宣告稱，針對美國近期對伊朗持續實施的挑釁和侵略行為，伊朗軍隊數小時前出動自殺式無人機，對駐科威特美軍的通訊系統、燃料儲存設施、“愛國者”防空系統、控制塔以及彈藥庫實施打擊。\n5、英國工黨議員安迪·伯納姆已獲得403名工黨議員中349人的提名支援，已事實上鎖定工黨黨首職位，有望於7月20日接任英國首相。\n6、由美國海軍監管的聯合海上資訊中心表示，美軍將於格林尼治時間7月14日20時（北京時間15日凌晨4時）開始執行對所有伊朗港口及伊朗沿海地區的海上封鎖。\n7、當地時間7月13日，歐盟成員國外長會結束，各成員國未能就第21輪對俄羅斯制裁方案達成一致，相關方案因存在分歧而未獲透過。\n8、俄羅斯6月原油產量降至至少兩年半以來的最低水平，根據OPEC月度報告，俄羅斯生產商6月日均生產原油892.8萬桶。\n9、分析師預計，摩根大通、美國銀行、花旗集團、高盛集團和摩根士丹利第二季度交易收入合計將接近390億美元。\n10、WTI原油期貨結算價收報78.14美元/桶，上漲6.73美元，漲幅9.42%。布倫特原油期貨結算價收報83.30美元/桶，上漲7.29美元，漲幅9.59%。"
+    },
+    {
+      "id": "mkt:019f5db6-9689-7aab-8d65-c415891ce745",
+      "time": "2026-07-14 07:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK June BRC total retail sales YoY 1.9% vs 3.7% prior."
+    },
+    {
+      "id": "mkt:019f5db6-7ea9-7aab-8d65-bfcb79158691",
+      "time": "2026-07-14 07:01:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Total Retail Sales (YoY) (Jun) | actual 1.9% | previous 3.7%"
+    },
+    {
+      "id": "mkt:019f5db6-782d-7aab-8d65-b333a339d885",
+      "time": "2026-07-14 07:01:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK June BRC like-for-like retail sales YoY 1.7% vs 2.7% expected; prior 3.4%."
+    },
+    {
+      "id": "mkt:019f5db6-5e3c-7aab-8d65-ae61e3bdb424",
+      "time": "2026-07-14 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Jun) | actual 1.7% | consensus 2.7% | previous 3.40%"
+    },
     {
       "id": "mkt:019f5db4-8d94-7aab-8d65-a6bf1a98e7e9",
       "time": "2026-07-14 06:59:01",
