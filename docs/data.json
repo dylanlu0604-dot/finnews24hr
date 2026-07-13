@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-13 08:42:32",
-  "count": 16711,
+  "updated": "2026-07-13 08:46:23",
+  "count": 16712,
   "items": [
+    {
+      "id": "te:markets:566167",
+      "time": "2026-07-13 08:45:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Rise on New US-Iran Attacks — European natural gas prices rose to around €49.4 per MWh on Monday, recouping losses from the previous session as renewed exchanges of attacks between the US and Iran heightened concerns over shipments through the Strait of Hormuz. Over the weekend, Iran expanded its strikes to Qatar and the UAE, while the US carried out additional attacks on Iranian targets. President Donald Trump stated that the strait remains open to commercial shipping, although Iran ?announced earlier that it had closed the waterway after a vessel using an unauthorized route was hit by a warning shot. Market participants remain on high alert, as any prolonged conflict or direct damage to LNG export infrastructure in the Gulf could complicate Europe's efforts to replenish storage ahead of the winter heating season."
+    },
+    {
+      "id": "4983293",
+      "time": "2026-07-13 08:45:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順網科技：截至一季度末公司已構建超330個節點機房高效協同的分散式算力網路】順網科技7月13日在互動平臺表示，公司高度重視雲遊戲及算力服務業務的發展。截至2026年第一季度末，公司已構建超330個節點機房高效協同的分散式算力網路，為近82萬終端提供服務，可運營算力規模達5.3萬路，並透過自研排程平臺持續最佳化算力資源的納管與高效排程。"
+    },
+    {
+      "id": "4983292",
+      "time": "2026-07-13 08:45:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司：中報業績期關注三條投資主線】中金公司研報認為，當前市場受外部不確定性影響較大，業績期投資者有望更關注基本面動向，透過中報尋找結構性亮點。業績披露階段重點關注：中報業績亮點領域。例如，上游油氣化工和部分金屬、受益於AI高景氣和海外需求的科技硬體和電力裝置、非銀金融等；AI產業鏈。當前AI產業快速發展，產業趨勢持續支援需求增長，關注直接受益於AI技術落地的光通訊，以及同時受益於能源安全與產業鏈安全的電池、儲能等；供需相對平衡的週期行業。結合產能週期位置和需求回升，關注細分化工品、光學光電子、部分創新藥等。"
+    },
+    {
+      "id": "4983291",
+      "time": "2026-07-13 08:44:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風來襲 貨輪漁船回港避風 部分列車臨時停運】受今年第9號颱風“巴威”影響，山東省氣象臺於昨天（7月12日）上午11點繼續釋出颱風黃色預警和暴雨藍色預警。昨天下午起，日照沿海風力逐步增強，港口作業和船舶航行受到不同程度影響。當地邊檢、海事部門迅速啟動應急預案，全力做好防颱風工作。根據氣象部門預報，受“巴威”影響，當前至15日，黑龍江省中東部地區將出現大到暴雨天氣，哈爾濱東部、牡丹江地區降雨量較大，對鐵路運輸安全造成影響。今天（13日）至15日，哈爾濱至北京、上海、武漢、太原等方向部分旅客列車臨時停運；齊齊哈爾、牡丹江等地開往北京、大連、丹東等方向的直通旅客列車，也將採取停運或調整執行區段的措施；黑龍江省內部分動車組列車臨時停運。"
+    },
+    {
+      "id": "te:economy:566166",
+      "time": "2026-07-13 08:43:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Senegal",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Senegal Inflation Rate at 5-Month Low of 0.4% — The annual inflation rate in Senegal slowed to 0.4% in June 2026 from 1.3% in May, marking the softest increase since January. The moderation was driven by a decline in food and non-alcoholic beverage prices, the largest component of the CPI basket, which fell for the first time in five months (-0.2% vs 1.0% in May). Prices also declined for housing and utilities (-0.6% vs 1.9%) and transport (-0.6% vs 0.9%). These declines were partially offset by stronger price increases for alcoholic beverages, tobacco and narcotics (12.0% vs 10.9%), health (1.6% vs 1.3%), recreation and culture (0.8% vs 1.1%), and clothing and footwear (1.1% vs 1.4%). On a monthly basis, the CPI was unchanged after rising 0.2% in the previous month."
+    },
+    {
+      "id": "4983290",
+      "time": "2026-07-13 08:42:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報79.08美元/桶。"
+    },
+    {
+      "id": "4983289",
+      "time": "2026-07-13 08:42:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期美國國債收益率升至2025年2月以來的最高水平。"
+    },
+    {
+      "id": "4983288",
+      "time": "2026-07-13 08:42:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破79美元/桶，日內漲3.93%。"
+    },
     {
       "id": "4983287",
       "time": "2026-07-13 08:41:49",
@@ -152194,79 +152268,6 @@
         "MKT News"
       ],
       "text": "【Top agencies launch nationwide crackdown on illegal, non‑compliant production】The Office of the State Council Work Safety Committee, together with the Central Political and Legal Affairs Commission, Supreme People’s Court, Supreme People’s Procuratorate, Ministry of Public Security and Ministry of Justice, issued a notice directing regions and relevant departments to intensify enforcement of workplace safety. The notice orders implementation of Xi Jinping’s safety directives and the national safety video conference guidance, tying enforcement to the three‑year safety整改 campaign and major accident‑hazard inspections, and directs focused inspections and enforcement in mines, chemicals, fire safety, and industrial/trade sectors."
-    },
-    {
-      "id": "4971255",
-      "time": "2026-07-06 08:45:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【多部門聯合部署開展安全生產“打非治違”工作 】從應急管理部獲悉，國務院安委會辦公室聯合中央政法委、最高人民法院、最高人民檢察院、公安部、司法部近日印發通知，部署各地區、各有關部門認真貫徹落實習近平總書記關於安全生產的重要指示批示精神，嚴格落實全國安全生產視訊會議精神，結合安全生產治本攻堅三年行動以及重大事故隱患排查整治等工作，聚焦礦山、化工、消防、工貿等重點行業領域，深入開展安全生產“打非治違”工作。"
-    },
-    {
-      "id": "mkt:019f34e2-982e-7aab-8ca6-721cef8ed26d",
-      "time": "2026-07-06 08:44:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Huatai: Watch Hong Kong stocks with heavy short interest where earnings outlook is stabilizing or improving】Huatai Securities says near-term focus should be on Hong Kong names that are deeply oversold, carry heavy short interest and show marginal stabilization or improvement in earnings expectations—notably innovative drugmakers and electric utilities—and on high-dividend defensive banks. Innovative-drug fundamentals are still improving; global style rebalancing has triggered catch-up moves and short-covering may continue. Prioritise CXO names with positive guidance and leading drugmakers with strong BD potential. For the AI hardware chain, further near-term increases offer limited risk/reward; the next critical window is the US July earnings season, so adjust exposure according to unrealized gains. AI software is more a source of stock-specific alpha tied to model leadership. On a medium-term view, maintain a balanced allocation between sectors showing accelerating demand and undervalued reversal candidates."
-    },
-    {
-      "id": "4971254",
-      "time": "2026-07-06 08:44:51",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國開啟美元兌韓元24小時交易機制 以提升韓元可兌換性】韓國於週一啟動了具有歷史意義的美元兌韓元現匯24小時在岸交易系統，這是該國為增強貨幣可兌換性所做的部分努力，其目標是爭取在MSCI全球指數中獲得發達市場地位。在岸市場於當地時間週一上午6時（週日2100GMT）開盤，並將不間斷執行至週六上午6時（週五2100GMT）。據韓國企劃財政部稱，企劃財政部長官具潤哲在首爾訪問韓亞銀行外匯交易部時表示，這將成為“韓元邁向全球的起點”。"
-    },
-    {
-      "id": "4971253",
-      "time": "2026-07-06 08:43:52",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【隨著投資者縮減對美聯儲加息的押注 金價走高】亞洲交易時段，金價小幅走高。大華全球經濟與市場研究團隊在一份報告中表示，疲軟的美國就業資料和較低的能源價格可能正促使投資者縮減對美聯儲加息的押注。黃金等無收益資產通常會受到高利率環境的拖累。現貨黃金上漲0.2%，至每盎司4,183.50美元。"
-    },
-    {
-      "id": "4971252",
-      "time": "2026-07-06 08:43:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：關注港股高沽空疊加盈利預期改善的方向】華泰證券研報指出，港股短期建議關注沽空壓力較重、盈利預期邊際企穩或改善的超跌品種（創新藥、電力公用事業等）及高股息防禦（銀行）。其中創新藥基本面繼續向上，全球風格再平衡中開始出現補漲，短期空頭回補有望延續，建議重點關注業績指引積極的CXO以及BD潛力大的龍頭。對於AI硬體鏈，短期進一步增配的價效比不高，下一個關鍵視窗在7月的美股財報季，建議根據浮盈程度對應調整配置敞口。AI軟體方面更多是模型領先的個股Alpha機會。中期視角，建議均衡配置景氣加速上行與低估反轉的思路不變。"
-    },
-    {
-      "id": "4971251",
-      "time": "2026-07-06 08:43:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國韓華海洋股價上漲11.7%，此前有報道稱加拿大將於週一公佈潛艇合同中標方。"
-    },
-    {
-      "id": "te:markets:564254",
-      "time": "2026-07-06 08:42:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Edge Down as Week Opens — Australian equities slipped in early Monday trade, easing 20 points or 0.2% to 8,825 and unwinding part of the prior session’s rally. The retreat pulled the market back from a one-week high as investors booked profits and turned cautious ahead of fresh job ads data and the June inflation gauge due later today. Concerns over further cash rate tightening also resurfaced, underscored by the Reserve Bank’s June minutes and Governor Michele Bullock’s recent remarks. In China, June CPI and PPI figures are expected later this week, with May showing steady consumer inflation but faster producer price gains. Sector moves were mixed: industrial services, consumer durables, and manufacturing weakened, though healthcare, electronic tech, and consumer non-durables provided some offset. The major banks lost between 0.3% and 0.9%, while Genesis Minerals tumbled 6.7%, Suncorp shed 3.5%, and Greatland Resources fell 2.6%."
     }
   ]
 }
