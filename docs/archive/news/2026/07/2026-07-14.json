@@ -1,7 +1,78 @@
 {
   "date": "2026-07-14",
-  "count": 345,
+  "count": 353,
   "items": [
+    {
+      "id": "mkt:019f5d1e-27ac-7aab-8d63-dcbfe5d9bc5f",
+      "time": "2026-07-14 04:14:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fitch says over the next few years AI-driven industry disruption will create credit risks for most North American diversified services companies, but those risks should remain manageable."
+    },
+    {
+      "id": "mkt:019f5d1d-695f-7aab-8d63-d6d7a5bda71c",
+      "time": "2026-07-14 04:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he sometimes disagrees with Netanyahu's approach and tells him so directly."
+    },
+    {
+      "id": "4985337",
+      "time": "2026-07-14 04:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有時候我不同意內塔尼亞胡的觀點，而且我是對的。"
+    },
+    {
+      "id": "mkt:019f5d1c-d03f-7aab-8d63-cb4bdbb138ad",
+      "time": "2026-07-14 04:13:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he gets along well with Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "mkt:019f5d1c-c572-7aab-8d63-c69983beb832",
+      "time": "2026-07-14 04:13:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the Iran memorandum of understanding was a test and that Iran did not comply."
+    },
+    {
+      "id": "4985336",
+      "time": "2026-07-14 04:13:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和內塔尼亞胡相處得非常融洽。"
+    },
+    {
+      "id": "4985335",
+      "time": "2026-07-14 04:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗協議是一次考驗，伊方並未遵守協議。"
+    },
+    {
+      "id": "4985334",
+      "time": "2026-07-14 04:12:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲10%，現報83.62美元/桶。訊息面上，特朗普稱美國今晚和明天將“重擊”伊朗。"
+    },
     {
       "id": "te:markets:566503",
       "time": "2026-07-14 04:10:38",

@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-14 04:11:51",
-  "count": 17208,
+  "updated": "2026-07-14 04:15:54",
+  "count": 17212,
   "items": [
+    {
+      "id": "mkt:019f5d1e-27ac-7aab-8d63-dcbfe5d9bc5f",
+      "time": "2026-07-14 04:14:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fitch says over the next few years AI-driven industry disruption will create credit risks for most North American diversified services companies, but those risks should remain manageable."
+    },
+    {
+      "id": "mkt:019f5d1d-695f-7aab-8d63-d6d7a5bda71c",
+      "time": "2026-07-14 04:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he sometimes disagrees with Netanyahu's approach and tells him so directly."
+    },
+    {
+      "id": "4985337",
+      "time": "2026-07-14 04:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有時候我不同意內塔尼亞胡的觀點，而且我是對的。"
+    },
+    {
+      "id": "mkt:019f5d1c-d03f-7aab-8d63-cb4bdbb138ad",
+      "time": "2026-07-14 04:13:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he gets along well with Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "mkt:019f5d1c-c572-7aab-8d63-c69983beb832",
+      "time": "2026-07-14 04:13:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the Iran memorandum of understanding was a test and that Iran did not comply."
+    },
+    {
+      "id": "4985336",
+      "time": "2026-07-14 04:13:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和內塔尼亞胡相處得非常融洽。"
+    },
+    {
+      "id": "4985335",
+      "time": "2026-07-14 04:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗協議是一次考驗，伊方並未遵守協議。"
+    },
+    {
+      "id": "4985334",
+      "time": "2026-07-14 04:12:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲10%，現報83.62美元/桶。訊息面上，特朗普稱美國今晚和明天將“重擊”伊朗。"
+    },
     {
       "id": "te:markets:566503",
       "time": "2026-07-14 04:10:38",
@@ -157314,41 +157385,6 @@
         "國際"
       ],
       "text": "【加密貨幣暴跌之際 困境資產投資基金探討置換Strategy優先股持倉】逢低買入Strategy Inc.優先股的困境資產投資基金正與該公司一家投行顧問洽談，擬將所持優先股換成其他證券。隨著加密貨幣持續暴跌令這家大量囤積比特幣的公司處境日益艱難，這些基金將該方案稱作雙贏安排。知情人士稱，這些投資者已與Moelis & Co.商討將其持倉折價換成其他優先股，或者可能換成普通股。Strategy普通股過去一年已暴跌約75%。知情人士稱，任何潛在交易都可能透過所謂的3(a)(9)條款完成。該條款允許企業不經美國證券交易委員會（SEC）正式註冊，即可置換證券。"
-    },
-    {
-      "id": "mkt:019f3911-7796-7aab-8cbb-ee851b7bf6c8",
-      "time": "2026-07-07 04:14:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Carney said if talks with Germany's TKMS fail, Canada will reserve the right to open submarine cooperation negotiations with South Korea's Hanwha Group."
-    },
-    {
-      "id": "4972998",
-      "time": "2026-07-07 04:13:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "加拿大總理卡尼： 若與蒂森克虜伯海事系統公司（TKMS）談判失敗，加拿大保留與韓國韓華集團重啟洽談的權利。"
-    },
-    {
-      "id": "mkt:019f3910-360c-7aab-8cbb-e544f0396a0d",
-      "time": "2026-07-07 04:13:11",
-      "tags": [
-        "MKT News",
-        "TKA.DE",
-        "Impact bullish"
-      ],
-      "text": "Prime Minister Carney said German firm TKMS has been selected as the preferred supplier for Canada’s 12-submarine procurement program."
-    },
-    {
-      "id": "4972997",
-      "time": "2026-07-07 04:12:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大總理卡尼宣佈，德國蒂森克虜伯海事系統公司（TKMS）成為加拿大 12 艘潛艇建造專案的優先供應商。"
     }
   ]
 }
