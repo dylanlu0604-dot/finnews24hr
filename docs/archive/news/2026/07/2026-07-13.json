@@ -1,7 +1,265 @@
 {
   "date": "2026-07-13",
-  "count": 985,
+  "count": 1011,
   "items": [
+    {
+      "id": "mkt:019f59ee-2e99-7aab-8d4f-746db33f7a38",
+      "time": "2026-07-13 13:23:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "603986.SS",
+        "Impact bearish",
+        "03986.HK"
+      ],
+      "text": "Mainland A-share Zhaoyi Innovation hit the day's limit-down in the afternoon with CNY31 bln turnover; Hong Kong-listed Zhaoyi Innovation (03986.HK) fell over 14%."
+    },
+    {
+      "id": "mkt:019f59ee-18db-7aab-8d4f-6a8caf0eb4a9",
+      "time": "2026-07-13 13:23:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Pork prices jump 15%】China's pork and hog prices have risen for two consecutive weeks in July, the Ministry of Agriculture and Rural Affairs says. Beijing Xinfadi wholesale pork averaged 14.4 yuan/kg on July 12, up 15% from July 1; the early-July peak averaged 14.55 yuan/kg on July 8, the highest since the Lunar New Year. Farm-gate hog prices began a sustained uptrend in late June, climbing 12.8% over the past two weeks. The ministry said continued reduction in productive sow capacity should gradually ease hog supply pressure in H2, while end-Q3 back-to-school demand and Mid-Autumn/National Day holiday restocking should support a mild price rebound. Producers are advised to use the current rally to orderly schedule sales."
+    },
+    {
+      "id": "4983714",
+      "time": "2026-07-13 13:23:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "兆易創新觸及跌停，成交額306.02億元，封單超2000手。"
+    },
+    {
+      "id": "4983713",
+      "time": "2026-07-13 13:23:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊持續走弱，誠邦股份等多股跌停】儲存器板塊大幅調整，誠邦股份跌停，雷科防務、天奧電子、夏農芯創、博敏電子、德明利此前跌停，西測測試、普冉股份、雅創電子、北京君正、佰維儲存、深科達等跌超10%。"
+    },
+    {
+      "id": "4983712",
+      "time": "2026-07-13 13:23:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國表示，埃博拉確診病例已達1873例，其中包括672例死亡病例。"
+    },
+    {
+      "id": "te:markets:566242",
+      "time": "2026-07-13 13:23:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Japan Hit 4-week Low — JP225 decreased to 66810.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) lost 3.56%, and in the last 12 months, it increased 69.41%."
+    },
+    {
+      "id": "4983711",
+      "time": "2026-07-13 13:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗陸軍防空部隊在阿巴斯港附近攔截並擊落了一架美國“盧卡斯”（LUCAS）無人機。"
+    },
+    {
+      "id": "mkt:019f59ed-764b-7aab-8d4f-612d19f4df57",
+      "time": "2026-07-13 13:22:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian army air defenses near Abbas Port intercepted and shot down a U.S. Lucas drone, state broadcaster Press TV reported."
+    },
+    {
+      "id": "mkt:019f59ed-61be-7aab-8d4f-5efdd5ef9da7",
+      "time": "2026-07-13 13:22:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Counterpoint Research: memory cost surge to add about $300 to iPhone 18 Pro Max BOM】Counterpoint Research data released on the 13th show the bill of materials for a 12GB/1TB iPhone 18 Pro Max is expected to rise by about $300 versus the prior generation, driven mainly by higher memory prices. Adoption of a 2nm SoC and advanced packaging are also cited as significant cost drivers; camera module costs are forecast to rise slightly while display and some components should decline, partially offsetting the overall increase."
+    },
+    {
+      "id": "mkt:019f59ed-5093-7aab-8d4f-53d4003d32df",
+      "time": "2026-07-13 13:22:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI 300 index was down as much as 2% intraday."
+    },
+    {
+      "id": "4983710",
+      "time": "2026-07-13 13:22:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌2%至4,684.72點。"
+    },
+    {
+      "id": "mkt:019f59ec-7496-7aab-8d4f-49fce28c486e",
+      "time": "2026-07-13 13:21:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said its latest retaliatory strikes targeted U.S. military facilities in Bahrain and destroyed a radar system in Oman."
+    },
+    {
+      "id": "4983709",
+      "time": "2026-07-13 13:21:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國將在2027年努力改善財政平衡和國債狀況。"
+    },
+    {
+      "id": "mkt:019f59eb-c2db-7aab-8d4f-40bf51834141",
+      "time": "2026-07-13 13:20:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "603986.SS"
+      ],
+      "text": "GigaDevice (A-share) trading turnover reached CNY30 billion."
+    },
+    {
+      "id": "4983708",
+      "time": "2026-07-13 13:20:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "mkt:019f59ea-41b2-7aab-8d4f-3f94e1bdd022",
+      "time": "2026-07-13 13:19:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures extended losses to 1%."
+    },
+    {
+      "id": "mkt:019f59e9-7f33-7aab-8d4f-345c68fc125f",
+      "time": "2026-07-13 13:18:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister said the government plans to cut costs to save roughly 50 trillion won from the 2027 budget."
+    },
+    {
+      "id": "4983706",
+      "time": "2026-07-13 13:18:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預算部長：到2027年透過削減成本將節省約50萬億韓元預算。"
+    },
+    {
+      "id": "4983705",
+      "time": "2026-07-13 13:18:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄官員稱莫斯科地區遭無人機襲擊 致3死多傷】當地時間7月13日清晨，俄羅斯首都莫斯科市長索比亞寧通報稱，自莫斯科時間12日20時30分起，超過350架無人機飛向莫斯科地區，大部分在遠距離被防空系統攔截，50架無人機在飛近莫斯科過程中被摧毀。此外，俄羅斯莫斯科州州長沃羅比約夫當地時間13日清晨通報稱，在該州十餘個區域上空攔截並擊落81架無人機。在莫斯科州伊斯特拉市皮奧涅爾斯基鎮，無人機墜落造成3人死亡，另有3人受傷，5棟私人住宅發生火災。在莫斯科州索爾涅奇諾戈爾斯克，一架無人機擊中一棟多層住宅樓，致2人受傷。"
+    },
+    {
+      "id": "mkt:019f59e8-e845-7aab-8d4f-2b845aa794f9",
+      "time": "2026-07-13 13:17:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russian official says drone attack on Moscow region kills 3, injures several】Moscow mayor Sobyanin said early July 13 that since 20:30 Moscow time on July 12 more than 350 drones flew toward the Moscow region; most were intercepted at long range and about 50 were destroyed as they approached Moscow. Moscow Oblast governor Vorobyov said forces intercepted and shot down 81 drones over more than ten districts. In Pionersky, Istra, drone debris killed three, injured three and set five private houses on fire; in Solnechnogorsk a drone struck a multi-storey residential building, injuring two."
+    },
+    {
+      "id": "mkt:019f59e8-e54f-7aab-8d4f-2564cecbf492",
+      "time": "2026-07-13 13:17:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S SHANGHAI COMPOSITE INDEX extended afternoon losses to 2%."
+    },
+    {
+      "id": "4983703",
+      "time": "2026-07-13 13:17:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.12%，成分股中，國博電子跌11.88%，佰維儲存跌11.69%，中科星圖跌9.77%，中控技術跌9.17%。"
+    },
+    {
+      "id": "4983702",
+      "time": "2026-07-13 13:17:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達5.01%，成分股中，天力複合跌14.05%，聚星科技跌11.61%，則成電子跌9.90%，廣信科技跌9.27%。"
+    },
+    {
+      "id": "4983701",
+      "time": "2026-07-13 13:17:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌2.01%，現報3915.867點；深證成指跌3.27%，現報14555.259點；創業板指跌2.99%，現報3727.793點。"
+    },
+    {
+      "id": "4983700",
+      "time": "2026-07-13 13:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國計劃在2027年投入超過800萬億韓元用於各項支出，創歷史新高。"
+    },
+    {
+      "id": "4983699",
+      "time": "2026-07-13 13:16:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量3772億元。"
+    },
     {
       "id": "te:economy:566240",
       "time": "2026-07-13 13:16:11",
