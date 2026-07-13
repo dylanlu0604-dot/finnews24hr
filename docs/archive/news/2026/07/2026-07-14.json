@@ -1,7 +1,65 @@
 {
   "date": "2026-07-14",
-  "count": 522,
+  "count": 528,
   "items": [
+    {
+      "id": "mkt:019f5db4-8d94-7aab-8d65-a6bf1a98e7e9",
+      "time": "2026-07-14 06:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil rose $0.50, extending intraday gains to 1.00%, trading at $78.58/bbl."
+    },
+    {
+      "id": "4985444",
+      "time": "2026-07-14 06:58:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破79美元/桶，日內漲1.10%。"
+    },
+    {
+      "id": "4985443",
+      "time": "2026-07-14 06:58:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報78.93美元/桶。"
+    },
+    {
+      "id": "4985442",
+      "time": "2026-07-14 06:56:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、持續擴大內需 大力提振消費（政策解讀）——國家發展改革委、商務部有關負責人就《擴大消費“十五五”規劃》答記者問\n2、6月中國物流業景氣指數為50.6% 需求側持續回升，市場預期總體趨穩\n3、校準智慧向善航向，共築普惠包容未來（寰宇平）\n4、外交部發言人介紹 2026世界人工智慧大會暨人工智慧全球治理高階別會議整體情況\n5、雅萬高鐵實現安全運營1000天\n6、國家超算網際網路核心節點上線執行\n7、農業農村部等七部門聯合部署 農藥獸藥生產經營使用綜合整治行動啟動\n8、我國實際使用外資連續16年保持在千億美元以上 “投資中國”有何新趨向（大資料觀察·投資中國）\n9、十四部門部署開展康復輔助器具產業擴能提質三年行動\n10、集貿市場誠信計量分級分類監管試點啟動\n11、第十七屆津臺投資合作洽談會舉行\n12、國家藥監局和國家醫保局 聯合檢查藥店和醫療機構\n13、中國石油塔里木油田 向西氣東輸管網供氣突破4000億立方米\n14、上半年對歐盟空調出口額達37.6億美元，同比增長43.2% 中國清涼電器走俏歐洲（經濟聚焦·中國品牌圈粉海外）\n15、銀行業保險業加強網路安全監管 管理辦法徵求意見\n16、江蘇釋出傳統產業煥新升級行動方案\n17、2025年地區可再生能源裝機容量增長15.9%，為近年來最快增速——非洲新能源產業跑出“加速度”（國際視點）\n18、輸入性通脹壓力增大 產業增長動能減弱 印尼推出下半年經濟刺激計劃。"
+    },
+    {
+      "id": "4985441",
+      "time": "2026-07-14 06:56:30",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、中共中央辦公廳國務院辦公廳關於完善自然資源資產管理制度體系的意見（二〇二六年七月四日）\n2、習近平將出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話\n3、《習近平談治國理政》第五卷吉爾吉斯斯坦推介會在比什凱克舉行\n4、李強主持召開經濟形勢專家和企業家座談會\n5、王滬寧會見第十一屆世界華僑華人社團聯誼大會全體代表\n6、國務院印發《國民健康“十五五”規劃》\n7、國務院批覆同意《擴大消費“十五五”規劃》\n8、城市更新 讓生活更美好（“十五五”開好局起好步）\n9、文明之花綻放鄉村沃土——農村精神文明建設煥發新氣象、開創新局面。"
+    },
+    {
+      "id": "mkt:019f5db2-321d-7aab-8d65-995940b4a343",
+      "time": "2026-07-14 06:56:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump calls restart of U.S. strikes on Iran a \"military conflict\", declines to set timetable】CNN reported President Trump on Monday described the U.S. restart of strikes on Iran as a \"military conflict\", denied it marked a new long-term phase and refused to set a timeline for how long the fighting would continue. He said U.S. actions have substantially degraded Iranian capabilities but that Iran would continue to resist, and noted the campaign has already exceeded the administration's initial four-to-six-week timetable. Trump offered no exit plan, compared the operation's four-month duration to Vietnam's 19-year war, and said he ultimately expects to negotiate with Iran while acknowledging a near-term deal is unlikely."
+    },
     {
       "id": "te:economy:566514",
       "time": "2026-07-14 06:51:36",
