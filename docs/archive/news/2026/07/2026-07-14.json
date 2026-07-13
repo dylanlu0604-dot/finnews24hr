@@ -1,7 +1,19 @@
 {
   "date": "2026-07-14",
-  "count": 521,
+  "count": 522,
   "items": [
+    {
+      "id": "te:economy:566514",
+      "time": "2026-07-14 06:51:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "New Zealand Tourist Arrivals Rise the Least in 4 Months — Visitor arrivals to New Zealand increased 6.7% year-on-year to 203,300 in May 2026, slowing from an 8.0% rise in April, driven largely by gains from China. The growth was the smallest in four months, and the number of visitors was the lowest since June 2025, underscoring the impact of rising oil prices due to the ongoing Middle East conflict."
+    },
     {
       "id": "4985440",
       "time": "2026-07-14 06:50:54",

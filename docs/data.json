@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-14 06:52:04",
-  "count": 17286,
+  "updated": "2026-07-14 06:55:56",
+  "count": 17283,
   "items": [
+    {
+      "id": "te:economy:566514",
+      "time": "2026-07-14 06:51:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "New Zealand Tourist Arrivals Rise the Least in 4 Months — Visitor arrivals to New Zealand increased 6.7% year-on-year to 203,300 in May 2026, slowing from an 8.0% rise in April, driven largely by gains from China. The growth was the smallest in four months, and the number of visitors was the lowest since June 2025, underscoring the impact of rising oil prices due to the ongoing Middle East conflict."
+    },
     {
       "id": "4985440",
       "time": "2026-07-14 06:50:54",
@@ -158042,46 +158054,6 @@
         "公司"
       ],
       "text": "【資本市場“應退盡退”生態日趨成熟，年內22家公司已摘牌或鎖定退市】7月6日，上海創興資源開發股份有限公司摘牌退市。至此，今年以來，已有16家公司摘牌退市，退市型別覆蓋財務類退市、重大違法強制退市、交易類退市、主動退市等情形。梳理上市公司公告發現，還有6家公司已鎖定退市。其中，5家A股公司觸及財務類退市指標，將於7月份集中摘牌退市；B股公司瓦房店軸承股份有限公司私有化退市正在流程中。綜合來看，年內已摘牌退市和鎖定退市公司的數量達到22家。此外，還有多家公司因涉嫌嚴重財務造假、未按期披露定期報告等原因面臨退市風險。（證券日報）"
-    },
-    {
-      "id": "4973055",
-      "time": "2026-07-07 06:55:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際航運資訊平臺：近期共有108艘船透過霍爾木茲海峽】全球能源市場當前最關注的問題之一，當屬霍爾木茲海峽通航水平究竟恢復到什麼程度。據美國方面6日訊息，國際航運資訊平臺“海上交通網站”的最新資料顯示，本月3日至5日，共有108艘船隻透過了霍爾木茲海峽，通航規模仍遠低於衝突前日均138艘的平均水平。霍爾木茲海峽是全球最重要的能源運輸通道之一，其意義不僅在於每天透過多少油輪，更在於對全球能源供應鏈穩定的保障。當前海峽已由全面中斷轉向有限恢復，但距離恢復正常商業執行仍有相當距離。今後，海峽運輸恢復程度，將繼續受到地區安全形勢、航運企業風險偏好以及美伊之間相關談判的進展等多重因素影響。（央視新聞）"
-    },
-    {
-      "id": "4973054",
-      "time": "2026-07-07 06:55:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子將於 7 月 30 日釋出第二季度財報。"
-    },
-    {
-      "id": "mkt:019f39a4-1196-7aab-8cbc-ef8ad6679155",
-      "time": "2026-07-07 06:54:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SNDK.O",
-        "Impact bearish",
-        "MU.O"
-      ],
-      "text": "After Samsung Electronics issued earnings guidance, SanDisk (SNDK.O) and Micron Technology (MU.O) fell in US after-hours trading, down 1.2% and 0.7% respectively."
-    },
-    {
-      "id": "te:markets:564576",
-      "time": "2026-07-07 06:53:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Gains, Hits New High — The NZX 50 rose 13 points, or 0.1%, to 13,776 in Tuesday morning trade, marking the third consecutive session of gains and hitting a fresh record high, tracking a rally on Wall Street overnight buoyed by strong gains in semiconductor stocks. Easing oil prices continued to lift sentiment as inflation concerns subsided, reducing expectations of an interest rate hike. The rally was also supported by easing concerns about a Fed rate hike following the release of the jobs data last week, while traders anticipated the release of the Fed's meeting minutes due later this week. Traders shrugged off expectations of an interest rate hike by the RBNZ at its meeting on Wednesday, with the market expecting the central bank to raise its policy rate by 25 bps to 2.5%. Consumer staples, financials, and healthcare mainly drove the index, with notable gains from A2 Milk (2.7%), AFT Pharmaceuticals (2.4%), Scales Corporation (0.8%), ANZ Group (0.5%), Summerset Group (0.6%), and Fisher & Paykel (0.4%)."
     }
   ]
 }
