@@ -1,7 +1,114 @@
 {
   "date": "2026-07-14",
-  "count": 123,
+  "count": 134,
   "items": [
+    {
+      "id": "4985207",
+      "time": "2026-07-14 01:10:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 失業率歷來是衡量勞動力市場狀況的最佳指標。"
+    },
+    {
+      "id": "4985206",
+      "time": "2026-07-14 01:09:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙表示，各州提起的訴訟 “曲解了既定反壟斷法，且對當下娛樂行業的競爭狀況存在不實描述”。"
+    },
+    {
+      "id": "4985205",
+      "time": "2026-07-14 01:09:27",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特聯軍發言人：防空系統已攔截胡塞武裝向沙特南部地區發射的彈道導彈威脅。"
+    },
+    {
+      "id": "mkt:019f5c74-7caf-7aab-8d61-47717003a3ee",
+      "time": "2026-07-14 01:09:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi-led coalition spokesman said air defenses intercepted ballistic missiles launched by Houthi forces toward southern Saudi Arabia."
+    },
+    {
+      "id": "4985204",
+      "time": "2026-07-14 01:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：譴責針對薩那國際機場的襲擊行為】伊朗外交部發言人譴責襲擊薩那國際機場的行徑，稱該行為明顯違反國際法與《聯合國憲章》，是對葉門國家主權和領土完整的公然踐踏。外交部發言人表示，此次襲擊有悖於各方維護和平穩定的努力，也違背 2022 年停火協議及後續為緩和緊張局勢達成的共識。他指出：襲擊民用機場、威脅民航客機安全這類挑釁性危險舉動，嚴重違反國際航空法，絕對無法容忍。此類魯莽行徑會破壞葉門和平政治程序，阻礙各方為和平解決葉門問題所開展的各項工作。伊朗外交部發言人同時表示，伊朗願提供一切支援，推動葉門和平政治程序，落實旨在實現葉門持久和平與穩定的路線圖。"
+    },
+    {
+      "id": "mkt:019f5c73-bb5e-7aab-8d61-395e94d2eb6c",
+      "time": "2026-07-14 01:08:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor WALLER said the unemployment rate has historically been the best gauge of labor-market conditions and has remained very stable."
+    },
+    {
+      "id": "mkt:019f5c72-f502-7aab-8d61-3566fe1c35f5",
+      "time": "2026-07-14 01:07:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "WALLER said he is not concerned the US Bureau of Labor Statistics will make larger revisions to employment data."
+    },
+    {
+      "id": "mkt:019f5c72-f131-7aab-8d61-29d01e769345",
+      "time": "2026-07-14 01:07:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller said the U.S. Bureau of Labor Statistics has been receiving increasing feedback late in the wage survey cycle."
+    },
+    {
+      "id": "mkt:019f5c72-864b-7aab-8d61-20fca6842808",
+      "time": "2026-07-14 01:07:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed governor WALLER said that even if the next inflation reading eases, he would need to see several more months of similar prints before treating it as a trend signal. He added that such a sequence would be a useful signal."
+    },
+    {
+      "id": "4985203",
+      "time": "2026-07-14 01:07:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 勞工統計局在非農就業調查週期後期收到的反饋樣本量有所增加。"
+    },
+    {
+      "id": "4985202",
+      "time": "2026-07-14 01:06:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 若下一期通脹資料回落，還需連續幾份同類資料，才能認定這是趨勢訊號。"
+    },
     {
       "id": "mkt:019f5c71-3cc9-7aab-8d61-1f42d91ef09e",
       "time": "2026-07-14 01:05:52",
