@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-14 04:07:55",
-  "count": 17203,
+  "updated": "2026-07-14 04:11:51",
+  "count": 17208,
   "items": [
+    {
+      "id": "te:markets:566503",
+      "time": "2026-07-14 04:10:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Wall Street Slides on AI and Middle East Concerns — US stock indices closed lower on Monday amid weakness in chipmakers and a deteriorating macroeconomic backdrop. The S&P 500 fell 0.8%, the Nasdaq 100 lost 1.9%, and the Dow dropped 138 points. Chipmakers sank on persistent concerns that AI hyperscalers will be forced to scale back spending on AI infrastructure. SK Hynix ADRs fell 8.6% after surging 13% in their debut on Friday, as a Korean brokerage warned the company could miss its next earnings expectations. Nvidia shed 3.5%, Broadcom was down 4%, AMD retreated 4.2%, and Intel fell 6.1%, while memory producers Sandisk and Micron lost 12.6% and 4.3%, respectively. Stocks in other sectors also declined alongside US Treasuries after President Trump said the US would reinstate the blockade of Iranian ships in the Strait of Hormuz, escalating the conflict and raising the risk of energy-driven inflation. Major banks fell ahead of this week's earnings, with JPMorgan down 0.6%, Bank of America falling 0.3%, and Goldman Sachs losing 0.9%."
+    },
+    {
+      "id": "mkt:019f5d1a-2354-7aab-8d63-bd039de5f948",
+      "time": "2026-07-14 04:10:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "President Trump said the US will strike Iran very hard tonight and tomorrow."
+    },
+    {
+      "id": "4985333",
+      "time": "2026-07-14 04:10:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：今晚、明日將對其實施嚴厲打擊。"
+    },
+    {
+      "id": "4985332",
+      "time": "2026-07-14 04:09:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：今晚要狠狠打擊伊朗。"
+    },
+    {
+      "id": "4985331",
+      "time": "2026-07-14 04:09:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗人極其不可靠。"
+    },
+    {
+      "id": "4985330",
+      "time": "2026-07-14 04:09:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們昨天剛達成協議，他們就撕毀協議。"
+    },
+    {
+      "id": "4985329",
+      "time": "2026-07-14 04:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們很快就會給“鎬頭”行動一試的機會。\n注：鎬頭（Pickaxe）是美方針對伊朗相關軍事行動代稱。"
+    },
+    {
+      "id": "4985328",
+      "time": "2026-07-14 04:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗不存在可用空軍、海軍與完整作戰軍力。"
+    },
     {
       "id": "4985327",
       "time": "2026-07-14 04:06:39",
@@ -157275,38 +157349,6 @@
         "公司"
       ],
       "text": "加拿大總理卡尼宣佈，德國蒂森克虜伯海事系統公司（TKMS）成為加拿大 12 艘潛艇建造專案的優先供應商。"
-    },
-    {
-      "id": "4972996",
-      "time": "2026-07-07 04:11:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Thrive Holdings融資大約20億美元。"
-    },
-    {
-      "id": "te:markets:564567",
-      "time": "2026-07-07 04:11:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise as Chipmakers Rally — US stock indices closed higher on Monday on strong gains in semiconductor stocks. The S&P 500 added 0.7%, the Nasdaq 100 rose 1.3%, and the Dow closed at a record high of 53,056. Chipmakers rallied ahead of Samsung's sales update and SK Hynix's ADR issuance on Friday. Broadcom rose 3.7% after extending its partnership with Apple (+1.3%). Nvidia gained 0.4% after its assembly partner Hon Hai Precision Industry signaled that AI demand continues to strengthen. Micron rose 0.9%, AMD surged 6.6%, and Intel added 1.5%. The gains extended a volatile period for chip stocks, as investors continue to weigh rising competition, potential overcapacity, and the returns on AI-related investments. On the data front, the US services sector expanded at a slightly slower pace in June, while firms increased hiring as cost pressures eased. Investors await minutes from the Fed's latest policy meeting on Wednesday for clues on how policymakers are balancing inflation and labor market risks."
-    },
-    {
-      "id": "mkt:019f390e-a832-7aab-8cbb-df855bb977c8",
-      "time": "2026-07-07 04:11:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "【CFTC: Hedge funds' yen net shorts highest since 2007】CFTC data show hedge funds increased net short positions in yen futures and options to about 138,000 contracts in the week to June 30, the most bearish positioning since 2007. The yen fell to its weakest since 1986, slipping below 162 per dollar, fueling renewed expectations of Japanese FX intervention; Japan's finance minister reiterated authorities can intervene at any time and Tokyo deployed record-sized support in late April–May. Markets view a widening US–Japan rate gap as the main driver of yen pressure, and say recent BOJ rate hikes have not reversed the weakness."
     }
   ]
 }
