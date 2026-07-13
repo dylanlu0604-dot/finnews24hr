@@ -1,7 +1,67 @@
 {
   "date": "2026-07-13",
-  "count": 2171,
+  "count": 2178,
   "items": [
+    {
+      "id": "te:markets:566397",
+      "time": "2026-07-13 19:56:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Retreats Toward 3-Month Low — Lithium carbonate prices fell To CNY 154,000 in mid-July, testing their lowest since March, as signs of higher supply offset evidence of strong demand. CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Still, industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing. On top of that, accelerating demand for energy storage systems magnified lithium consumption, even as EV orders in China slow."
+    },
+    {
+      "id": "mkt:019f5b55-c19e-7aab-8d59-92c387901f35",
+      "time": "2026-07-13 19:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an HKEX filing, Jiangsu Jiaxuan Intelligent Industrial Technology Co., Ltd. has submitted a listing application to HKEX."
+    },
+    {
+      "id": "4984771",
+      "time": "2026-07-13 19:56:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：江蘇嘉軒智慧工業科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4984770",
+      "time": "2026-07-13 19:54:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭前總理尼古拉·阿扎羅夫：美國正試圖透過改組烏克蘭政府來尋找澤連斯基的替代者。他特別指出，在澤連斯基於北約峰會期間與特朗普會面幾天後，烏克蘭便宣佈了政府更迭的訊息。"
+    },
+    {
+      "id": "4984769",
+      "time": "2026-07-13 19:53:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈爾斯：預計2026年上半年淨利潤同比下降39.79%-49.65%】哈爾斯公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為4600萬元-5500萬元，比上年同期下降39.79%-49.65%。扣除非經常性損益後的淨利潤預計為4380萬元-5280萬元，比上年同期下降41.23%-51.25%。"
+    },
+    {
+      "id": "4984767",
+      "time": "2026-07-13 19:53:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【集海黃金：擬動用最多2000萬港元回購股份】集海黃金公告，公司董事會宣佈，擬根據股東周年大會透過的決議，行使股份購回授權，以回購最多2.4億股，相當於已發行股份總數10%的股份。回購計劃將根據市況不時於公開市場進行，動用最多2000萬港元。回購資金將來自公司自身可用現金，而非上市所得款項。"
+    },
+    {
+      "id": "4984766",
+      "time": "2026-07-13 19:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞塞拜然總統：我們還能以敘利亞為基點，向周邊需求旺盛的地區拓展供氣業務。因此，對我們而言，與歐洲合作伙伴簽訂長期供氣合同、共同擴建現有天然氣輸送管網，是雙邊合作中的重中之重。"
+    },
     {
       "id": "4984765",
       "time": "2026-07-13 19:52:42",
