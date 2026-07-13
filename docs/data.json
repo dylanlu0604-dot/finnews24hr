@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-14 00:58:43",
-  "count": 17117,
+  "updated": "2026-07-14 01:02:46",
+  "count": 17123,
   "items": [
+    {
+      "id": "mkt:019f5c6c-d9b7-7aab-8d61-0729fab2bf09",
+      "time": "2026-07-14 01:01:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller said surprising markets is not a good idea."
+    },
+    {
+      "id": "mkt:019f5c6c-6e53-7aab-8d60-fba7d137a014",
+      "time": "2026-07-14 01:00:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller said he wants markets to receive as much information as possible."
+    },
+    {
+      "id": "mkt:019f5c6c-5f19-7aab-8d60-f46b3ae45fdc",
+      "time": "2026-07-14 01:00:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller said there is no basis in economic theory to justify withholding information from the public."
+    },
+    {
+      "id": "mkt:019f5c6c-24bc-7aab-8d60-ee287031eb7d",
+      "time": "2026-07-14 01:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "WALLER: Now is not the time to use forward guidance."
+    },
+    {
+      "id": "4985199",
+      "time": "2026-07-14 01:00:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒： 經濟學中沒有任何理論認為隱瞞資訊是有益之舉， 希望市場能夠掌握儘可能充分的資訊。"
+    },
+    {
+      "id": "4985198",
+      "time": "2026-07-14 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.27%，滬銅收漲0.34%，滬鋁收漲0.33%，滬鋅收跌0.60%，滬鉛收跌0.66%，滬鎳收漲0.46%，滬錫收跌1.27%。氧化鋁夜盤收漲0.15%，鋁合金收跌0.22%。不鏽鋼夜盤收漲1.85%。"
+    },
+    {
+      "id": "4985197",
+      "time": "2026-07-14 00:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭議長稱烏總理已提交辭呈】烏克蘭議長斯特凡丘克13日在社交媒體發文稱，烏總理斯維裡堅科已向議會提交辭呈。（新華社）"
+    },
+    {
+      "id": "4985196",
+      "time": "2026-07-14 00:59:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：當下並非使用前瞻性指引的時機。"
+    },
     {
       "id": "4985195",
       "time": "2026-07-14 00:57:59",
@@ -156326,25 +156405,6 @@
         "國際"
       ],
       "text": "以色列央行行長：只要通脹環境沒有意外變化，利率就可以繼續下降。"
-    },
-    {
-      "id": "4972920",
-      "time": "2026-07-07 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.04%，滬銅收漲0.01%，滬鋁收漲0.28%，滬鋅收漲0.84%，滬鉛收跌0.06%，滬鎳收漲0.41%，滬錫收漲0.35%。氧化鋁夜盤收跌0.15%，鋁合金收漲0.24%。不鏽鋼夜盤收漲2.34%。"
-    },
-    {
-      "id": "4972919",
-      "time": "2026-07-07 00:59:26",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：黃金可能在下半年反彈】根據Navellier & Associates的分析，由於央行購買和歐洲潛在的貨幣寬鬆政策支援需求，黃金可能在2026年下半年復甦。該公司預計黃金價格將在從1月創紀錄高點下跌約25%後，反彈至每盎司4500美元。"
     }
   ]
 }
