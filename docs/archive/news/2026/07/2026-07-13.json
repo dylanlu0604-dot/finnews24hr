@@ -1,7 +1,170 @@
 {
   "date": "2026-07-13",
-  "count": 457,
+  "count": 474,
   "items": [
+    {
+      "id": "mkt:019f5912-d51e-7aab-8d49-614dc112dbc3",
+      "time": "2026-07-13 09:23:54",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen rail handles 4.9846 mln passengers in first 10 days of summer travel period】Shenzhen railways said the 2026 summer travel period began July 1 and passenger demand has remained strong. Through July 10 the network handled 4.9846 mln passenger arrivals and departures. Station breakdown: Shenzhen North 3.3439 mln; Shenzhen Station 0.5409 mln; Shenzhen East 0.3960 mln; Futian 0.3442 mln, up 31.74% YoY."
+    },
+    {
+      "id": "mkt:019f5912-c9c6-7aab-8d49-5ebf81b372e9",
+      "time": "2026-07-13 09:23:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Energy-chemical futures extend gains; SC crude up over 3%】Main contracts in energy and chemical futures extended gains. SC crude main contract rose more than 3% to 483 yuan/barrel. Fuel oil gained nearly 5%; benzene up over 4%; styrene (EB) up over 3%; ethylene glycol (EG) and butadiene rubber rose around 4%."
+    },
+    {
+      "id": "mkt:019f5911-6da1-7aab-8d49-5499b677052f",
+      "time": "2026-07-13 09:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preview: China State Council Information Office to brief on improving natural resource asset management system on July 14】China's State Council Information Office will hold a press briefing at 15:00 on July 14, 2026. Ministry of Natural Resources Vice Minister Zhang Wentong and National Forestry and Grassland Administration (National Park Administration) Deputy Director Zhang Liming will outline measures to improve the natural resource asset management system and take questions."
+    },
+    {
+      "id": "4983357",
+      "time": "2026-07-13 09:22:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放2,170.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019f5911-2d3e-7aab-8d49-4c236a3b06f6",
+      "time": "2026-07-13 09:22:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong markets opened July 13 (Monday): Hang Seng Index (HSI) down 17.47 pts (-0.07%) at 24,157.65; Hang Seng Tech Index down 1.98 pts (-0.04%) at 4,719.68; Hang Seng China Enterprises Index (HSCEI) up 3.07 pts (+0.04%) at 8,042.26; Hang Seng Red Chip Index up 14.61 pts (+0.38%) at 3,865.65."
+    },
+    {
+      "id": "4983356",
+      "time": "2026-07-13 09:21:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報8029.00元。"
+    },
+    {
+      "id": "4983355",
+      "time": "2026-07-13 09:21:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲4%，現報7120.00元。"
+    },
+    {
+      "id": "4983354",
+      "time": "2026-07-13 09:21:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室將於2026年7月14日（星期二）下午3時舉行新聞釋出會，請自然資源部副部長張文彤、國家林業和草原局（國家公園管理局）副局長張利明介紹完善自然資源資產管理制度體系有關情況，並答記者問。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607133802761666",
+      "time": "2026-07-13 09:21:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2240億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4983353",
+      "time": "2026-07-13 09:21:24",
+      "tags": [],
+      "text": "港股恒指低開跌0.07％，國企指數漲0.04％，恒生科技指數開跌0.04%；兆易創新開跌超10%。"
+    },
+    {
+      "id": "mkt:019f5910-7c48-7aab-8d49-458bbba0c20f",
+      "time": "2026-07-13 09:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "03986.HK",
+        "Impact bearish",
+        "01688.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong equities opened mixed: HSI down 0.07% and Hang Seng Tech Index down 0.04% at the open. Stock 03986.HK fell more than 10%; 01688.HK jumped 7.84%."
+    },
+    {
+      "id": "mkt:019f5910-6e6e-7aab-8d49-3f2ede104bc6",
+      "time": "2026-07-13 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY 224 bln 7-day reverse repo today; bid and allotment both CNY 224 bln. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4983352",
+      "time": "2026-07-13 09:21:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2240億元7天逆回購操作，投標量2240億元，中標量2240億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f5910-1eb8-7aab-8d49-35df9fc9c28d",
+      "time": "2026-07-13 09:20:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. strikes water pumping station in Mahshahr, Iran; 1 killed, 4 wounded】Iran said on July 13 the U.S. military struck a water pumping station in Mahshahr in southwestern Iran, killing one person and wounding four."
+    },
+    {
+      "id": "4983351",
+      "time": "2026-07-13 09:20:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報4353.00元。"
+    },
+    {
+      "id": "4983350",
+      "time": "2026-07-13 09:20:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑運前十天 深圳鐵路到發旅客498.46萬人次】從深圳鐵路部門獲悉，2026年暑運自7月1日啟動以來，旅客出行需求持續旺盛。截至7月10日，深圳鐵路累計到發旅客498.46萬人次。其中，深圳北站累計到發旅客334.39萬人次；深圳站累計到發旅客54.09萬人次；深圳東站累計到發旅客39.60萬人次；福田站累計到發旅客34.42萬人次，同比增長31.74%。"
+    },
+    {
+      "id": "mkt:019f590f-ba06-7aab-8d49-2fc491240400",
+      "time": "2026-07-13 09:20:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shennan Electric A said it has not, to date, participated in any projects related to \"Yichu Shu Intelligent Source\"."
+    },
     {
       "id": "mkt:019f590e-fdc5-7aab-8d49-24bbfee41119",
       "time": "2026-07-13 09:19:42",
