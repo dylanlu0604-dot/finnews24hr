@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-14 05:20:58",
-  "count": 17213,
+  "updated": "2026-07-14 05:24:51",
+  "count": 17212,
   "items": [
+    {
+      "id": "mkt:019f5d5b-8999-7aab-8d64-68d7e0c5a6e7",
+      "time": "2026-07-14 05:21:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to CNN, U.S. officials said U.S. military strikes targeted Iranian military facilities, including coastal surveillance systems, unmanned aerial vehicles and missile capabilities."
+    },
     {
       "id": "mkt:019f5d5a-0d76-7aab-8d64-66c45ff683f5",
       "time": "2026-07-14 05:20:10",
@@ -157393,22 +157405,6 @@
         "國際"
       ],
       "text": "Syntiant Corp：持股比例不低於 5% 的股東包括英特爾投資公司、微軟全球金融以及樓氏電子。 花旗集團、美國銀行證券、瑞銀投行、尼達姆公司以及斯蒂費爾是其首次公開募股的承銷商。"
-    },
-    {
-      "id": "mkt:019f3950-1dcf-7aab-8cbc-ae35e23eb66c",
-      "time": "2026-07-07 05:22:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Armenian PM says seeks constructive resolution with Russia, wants continued EAEU participation】Armenian Prime Minister Pashinyan said on the 6th in Yekaterinburg that Armenia is willing to further develop ties with Russia and is keen to continue participating in Eurasian Economic Union (EAEU) activities. He acknowledged recent problems in Armenia-Russia relations, said Yerevan favors constructive talks and hopes the meeting with Russian Prime Minister Mishustin will resolve those issues, and said Armenia wants EAEU mechanisms to continue functioning to support the union’s development."
-    },
-    {
-      "id": "mkt:019f394f-0645-7aab-8cbc-a3d00a99b41f",
-      "time": "2026-07-07 05:21:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TKMS CEO says extent of the firm's backlog increase will depend on the effective date of the Canadian submarine contract."
     }
   ]
 }

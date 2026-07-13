@@ -1,7 +1,19 @@
 {
   "date": "2026-07-14",
-  "count": 411,
+  "count": 412,
   "items": [
+    {
+      "id": "mkt:019f5d5b-8999-7aab-8d64-68d7e0c5a6e7",
+      "time": "2026-07-14 05:21:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to CNN, U.S. officials said U.S. military strikes targeted Iranian military facilities, including coastal surveillance systems, unmanned aerial vehicles and missile capabilities."
+    },
     {
       "id": "mkt:019f5d5a-0d76-7aab-8d64-66c45ff683f5",
       "time": "2026-07-14 05:20:10",
