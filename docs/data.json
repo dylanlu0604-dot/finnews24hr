@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-13 20:34:18",
-  "count": 17141,
+  "updated": "2026-07-13 20:38:23",
+  "count": 17140,
   "items": [
+    {
+      "id": "4984853",
+      "time": "2026-07-13 20:37:28",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利維持英偉達增持評級和288美元目標價 對應約42%的潛在上漲空間】摩根士丹利在維持英偉達增持評級、288美元目標價和半導體行業首選地位。按報告採用的7月9日收盤價202.78美元計算，目標價對應約42%的潛在上漲空間。這一估值與大盤大致相當，且低於AMD、博通和英特爾等計算晶片同行。"
+    },
+    {
+      "id": "mkt:019f5b7b-6135-7aab-8d5b-1f3e4be95a50",
+      "time": "2026-07-13 20:37:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "German Foreign Ministry condemns Iran's attacks on merchant vessels in the Strait of Hormuz and assaults on states in the region."
+    },
+    {
+      "id": "mkt:019f5b7a-ea02-7aab-8d5b-14378d824f0e",
+      "time": "2026-07-13 20:36:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump says the US has long defended the Strait of Hormuz at no cost."
+    },
+    {
+      "id": "4984852",
+      "time": "2026-07-13 20:36:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今天國際：擬推激勵計劃並回購1-1.5億元股份】今天國際公告稱，第六屆董事會第二次會議審議多項議案。透過《2026年限制性股票激勵計劃（草案）》等相關議案，均尚需股東會審議。還透過回購股份方案，擬用自有資金1-1.5億元以集中競價回購A股，用於登出減資，價格不超9.97元/股，預計回購1.58%-2.37%股份，實施期限為股東會透過起12個月。此外，因股本變化擬增註冊資本至6.36億元，修改公司章程，提請7月30日開臨時股東會審議相關議案。"
+    },
+    {
+      "id": "4984851",
+      "time": "2026-07-13 20:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今天國際：董事長邵健鋒擬增持1000萬-1500萬元】今天國際公告，董事長邵健鋒計劃自本公告披露之日起6個月內，透過深圳證券交易所交易系統，以集中競價、大宗交易或法律法規允許的其他交易方式增持公司股份，計劃增持金額為人民幣1000萬元（含本數）-1500萬元（含本數）。截至本公告披露日，邵健鋒持有公司股份3476.44萬股，佔公司總股本的5.47%。"
+    },
+    {
+      "id": "mkt:019f5b7a-5bd1-7aab-8d5b-0d7431902d73",
+      "time": "2026-07-13 20:36:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany's non-seasonally adjusted current account surplus in May was €10.368 billion, the smallest since May 2025."
+    },
+    {
+      "id": "mkt:019f5b7a-5abd-7aab-8d5b-025d1acba4e4",
+      "time": "2026-07-13 20:36:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's current account, not seasonally adjusted, was EUR 10.368 billion in May, down from EUR 13.8 billion previously."
+    },
+    {
+      "id": "mkt:019f5b7a-331a-7aab-8d5a-fc4bda21582c",
+      "time": "2026-07-13 20:36:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Current Account USA (May) | actual 10368000000B | previous 13800000000B"
+    },
+    {
+      "id": "4984850",
+      "time": "2026-07-13 20:35:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗波斯灣海峽管理局：霍爾木茲海峽已不可通行】當地時間7月13日，伊朗波斯灣海峽管理局在社交平臺表示，由於美軍最近的“敵對行動”，目前霍爾木茲海峽已不通可行。該管理局表示，一旦局勢恢復穩定與平靜，所有通行申請將按照預定時間表進行稽核，許可流程也將恢復。獲得通行許可的唯一途徑是透過管理局的網站。（央視新聞）"
+    },
+    {
+      "id": "4984849",
+      "time": "2026-07-13 20:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：NIAGEN公司NB4168獲得FDA罕見兒科疾病認定。"
+    },
     {
       "id": "mkt:019f5b77-ff1f-7aab-8d5a-f6122d9933f6",
       "time": "2026-07-13 20:33:38",
@@ -13,6 +107,15 @@
         "XAUUSD"
       ],
       "text": "U.S. President Trump said Iran \"always tears up agreements\" and vowed to strike them hard, adding the United States will control the strait and could ultimately dominate it."
+    },
+    {
+      "id": "4984848",
+      "time": "2026-07-13 20:33:36",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【王滬寧會見第十一屆世界華僑華人社團聯誼大會全體代表】第十一屆世界華僑華人社團聯誼大會13日在京開幕。中共中央政治局常委、全國政協主席王滬寧會見出席大會的全體代表並合影留念，代表黨中央向大家表示熱烈歡迎，向世界各地的海外僑胞致以誠摯問候。 中共中央政治局委員、中央統戰部部長李幹傑參加會見並在大會開幕式上講話。他指出，海外僑胞作為中華民族大家庭的重要成員，是中國式現代化的重要參與者，是連結中國和世界的重要橋樑紐帶。希望廣大海外僑胞牢記習近平主席關於“根”“魂”“夢”的重要論述，把握歷史機遇，緊跟時代步伐，積極投身民族復興偉業，積極促進世界和平發展，積極推動僑社團結協作，為實現中華民族偉大復興、增進中國與世界各國友好合作貢獻新的僑界力量。 世界華僑華人社團聯誼大會是全球華僑華人主要社團聯誼交流的重要平臺。本屆大會以“凝僑心 聚僑力 謀發展”為主題，來自140個國家和地區的400多位華僑華人社團負責人出席大會。（新華社）"
     },
     {
       "id": "4984847",
@@ -156244,119 +156347,6 @@
         "其他"
       ],
       "text": "定價檔案顯示：沙烏地阿拉伯將8月銷往西北歐的阿拉伯輕質原油官方售價定為較洲際交易所布倫特原油結算價溢價0.85美元/桶。"
-    },
-    {
-      "id": "mkt:019f376e-edac-7aab-8cb3-f07c0e6e8f82",
-      "time": "2026-07-06 20:37:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian military says it struck an oil refinery in Russia's Omsk region."
-    },
-    {
-      "id": "4972539",
-      "time": "2026-07-06 20:37:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱，烏克蘭襲擊了俄羅斯鄂木斯克地區的一座煉油廠。"
-    },
-    {
-      "id": "4972538",
-      "time": "2026-07-06 20:36:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "Klarna股價下跌1.9%，該公司已提交美國銀行牌照申請。"
-    },
-    {
-      "id": "mkt:019f376d-84a1-7aab-8cb3-eec2c4295c07",
-      "time": "2026-07-06 20:35:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India said June diesel sales rose 6.2% YoY and petrol sales rose 7.4% YoY. Total fuel sales fell 3.1% YoY to 19.42 mln tonnes in June."
-    },
-    {
-      "id": "4972537",
-      "time": "2026-07-06 20:35:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯原子能集團已提請匈牙利政府商議保克什核電專案。"
-    },
-    {
-      "id": "mkt:019f376c-e410-7aab-8cb3-e5b6d72ed72a",
-      "time": "2026-07-06 20:35:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Saudi cuts August Asian Arab Light OSP by $11/bbl, biggest drop in at least 26 years】Aramco cut its August official selling price for Arab Light to Asian customers by $11/bbl, leaving the grade $1.50/bbl below the regional benchmark — the largest reduction in at least 26 years and larger than the $8/bbl expected in a survey. Middle East crude prices have fallen recently. After Ras Tanura (Persian Gulf) resumed exports, Aramco boosted shipments to about 90% of pre-war levels; exports had been routed to Yanbu on the Red Sea when the Strait of Hormuz was blocked. OPEC+ agreed a modest output increase for August; with shipping via the Strait of Hormuz restored, Gulf producers including Saudi Arabia, Iraq and Kuwait can utilise higher quotas."
-    },
-    {
-      "id": "4972536",
-      "time": "2026-07-06 20:35:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【沙特大幅下調原油售價 降幅創至少26年來最大】隨著全球供應激增加劇對買家的競爭，沙特將其8月對亞洲客戶主要原油品級的官方售價下調，降幅為至少26年來最大。據一份價目表顯示，沙特阿美將8月對亞洲出口的阿拉伯輕質原油價格下調11美元/桶，較區域基準價格貼水1.50美元/桶，這一降幅大於機構調查中預期的8美元/桶。中東原油價格近來已出現下跌。在恢復從拉斯塔努拉波斯灣港口的出口後，沙特阿美一度將原油發貨量提升至戰前水平的約90%。戰前，拉斯塔努拉是沙特原油出口的主要裝運港。由於戰爭封鎖了霍爾木茲海峽，沙特阿美將大部分原油流轉向紅海的延布港。此前，歐佩克+產油國集團同意在8月繼續進行小幅增產。如今，隨著霍爾木茲海峽的航運恢復，沙特、伊拉克和科威特等海灣產油國將能夠利用其更高的配額。"
-    },
-    {
-      "id": "4972535",
-      "time": "2026-07-06 20:34:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【欣銳科技：公司及子公司新獲2項德企專利和16項國內專利】欣銳科技公告稱，公司及子公司近期取得德國專利管理部門授權的2項實用新型專利、國家智慧財產權局頒發的7項發明專利和9項實用新型專利。發明專利權期限為20年，實用新型專利權期限為10年，均自申請日起算。本次專利獲取不會對公司近期經營產生重大影響，但有利於完善智慧財產權保護體系，提升核心競爭力。截至公告日，公司及子公司擁有專利共749項。"
-    },
-    {
-      "id": "4972534",
-      "time": "2026-07-06 20:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府資料顯示，印度6月柴油銷量同比增長6.2%，汽油銷量同比增長7.4%。"
-    },
-    {
-      "id": "4972533",
-      "time": "2026-07-06 20:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府資料顯示，印度6月燃油銷量同比下降3.1%，至1942萬噸。"
-    },
-    {
-      "id": "4972532",
-      "time": "2026-07-06 20:34:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳華強：公司是華為計算部件（含昇騰、鯤鵬）總經銷商】深圳華強(000062.SZ)釋出投資者關係活動記錄表公告，公司是村田全球主要授權分銷商，近期觀察到客戶下單增加、開始拉貨、主動補庫存，對部分缺貨型號，公司優先滿足大客戶採購需求。公司是華為計算部件（含昇騰、鯤鵬）總經銷商，將持續推進華為計算部件的技術和產品推廣，積極協助華為建設算力生態。深圳華強智算技術有限公司是公司近期設立的公司，公司將其定位為AI算力綜合服務商。未來該公司的主要發展方向是以華為計算部件（含昇騰和鯤鵬）業務為核心，聯動各類合作伙伴，面向國內AI產業提供晶片、模組等各類產品，同步輸出方案定製、技術服務、供應鏈配套等端到端能力，共建覆蓋端、邊、雲的國產AI全棧生態。"
-    },
-    {
-      "id": "4972531",
-      "time": "2026-07-06 20:34:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香格里拉（亞洲）：公司執行董事及首席投資官蔡志偉辭任】7月6日，香格里拉（亞洲）有限公司（香格里拉（亞洲），00069.HK）董事會宣佈，蔡志偉已辭任公司職務，將於7月8日起退任公司執行董事及首席投資官，以及董事會執行委員會成員的職務。香格里拉（亞洲）的公告指出，蔡志偉因發展其他個人事務辭任，其已確認與董事會並無出現意見分歧，也無任何就其辭任的事宜需要知會公司股東。"
     }
   ]
 }
