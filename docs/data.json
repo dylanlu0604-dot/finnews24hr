@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-14 04:00:00",
-  "count": 17205,
+  "updated": "2026-07-14 04:04:01",
+  "count": 17206,
   "items": [
+    {
+      "id": "mkt:019f5d13-b80f-7aab-8d63-ad6c743a9bc0",
+      "time": "2026-07-14 04:03:21",
+      "tags": [
+        "MKT News",
+        "SKH.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix's US-listed shares fell more than 9% in their second day of trading."
+    },
+    {
+      "id": "4985326",
+      "time": "2026-07-14 04:01:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士ADR收盤下跌9.3%。"
+    },
+    {
+      "id": "4985325",
+      "time": "2026-07-14 04:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500能源指數上漲3.2%，創2月3日以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:019f5d11-97f2-7aab-8d63-a35097622b3f",
+      "time": "2026-07-14 04:01:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indices down; SanDisk plunges over 12%】US stocks closed lower on Monday: Dow Jones Industrial Average -0.26%, S&P 500 -0.79%, Nasdaq -1.55%. Micron Technology fell 4.3% (MU), NVIDIA dropped 3.5% (NVDA), Intel slid 6% (INTC); SanDisk plunged more than 12% (SNDK). The Nasdaq Golden Dragon China Index closed down 0.14%; NetEase and JD.com each rose over 2%."
+    },
+    {
+      "id": "4985324",
+      "time": "2026-07-14 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.26%，標普500指數跌0.79%，納指跌1.55%。APP AppLovin跌12.65%，閃迪跌12.63%，邁威爾科技跌7.89%，Arm Holdings Plc跌7.55%，甲骨文跌6.36%。“七姐妹”方面：微軟漲1.54%，亞馬遜漲0.80%，蘋果漲0.63%，谷歌跌1.23%，Meta Platforms跌1.86%，特斯拉跌3.19%，英偉達跌3.54%。"
+    },
+    {
+      "id": "4985323",
+      "time": "2026-07-14 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.11%】金生遊樂跌12.10%，海天網路跌7.86%，樂信跌6.90%，陸金所控股跌7.46%，禾賽科技跌6.22%。"
+    },
+    {
+      "id": "4985322",
+      "time": "2026-07-14 04:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐阿聯酋使團週一釋出宣告稱，受地區安全域性勢影響，美國駐阿布扎比大使館與駐迪拜總領事館取消7月13日至15日所有領事預約。"
+    },
     {
       "id": "4985321",
       "time": "2026-07-14 03:57:23",
@@ -157268,68 +157338,6 @@
         "Importance 1"
       ],
       "text": "Colombia PPI Growth Slows in June — Colombia's Producer Price Index rose 3.3% year-on-year in June 2026, easing sharply from a 6.8% increase in May and marking the slowest annual producer inflation since February. Prices of goods produced for domestic consumption increased 4.99% from a year earlier, while export prices fell 1.86%. Among the main sectors, agriculture, livestock, and fishing recorded the strongest annual increase, rising 8.46%, while mining and manufacturing prices advanced 1.95% and 1.94%, respectively. The largest upward contributions came from pome and stone fruits (23.88%), raw, semi-manufactured or powdered gold (18.22%), and citrus fruits (78.03%). In contrast, coffee (-30.73%), green coffee (-21.97%), and ethyl alcohol and other denatured alcohols (-27.75%) were the main drags on the index. On a monthly basis, producer prices fell 3.49% in June."
-    },
-    {
-      "id": "mkt:019f3907-6afe-7aab-8cbb-c52c9cbd993c",
-      "time": "2026-07-07 04:03:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. equity close on Monday, July 6: Dow Jones Industrial Average +155.84 pts (+0.29%) to 53,055.91; S&P 500 +54.18 pts (+0.72%) to 7,537.42; Nasdaq Composite +288.49 pts (+1.12%) to 26,121.16."
-    },
-    {
-      "id": "4972993",
-      "time": "2026-07-07 04:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：美國網路防禦機構CISA正使用Anthropic的人工智慧工具來審計政府程式碼。CISA在使用人工智慧工具審計政府程式碼過程中，已發現多處漏洞。"
-    },
-    {
-      "id": "mkt:019f3906-8a67-7aab-8cbb-bfe53b799795",
-      "time": "2026-07-07 04:02:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said U.S. cybersecurity agency CISA is using ANTHROPIC's AI tools to audit government code and has identified multiple vulnerabilities during those AI-assisted audits."
-    },
-    {
-      "id": "mkt:019f3905-c89b-7aab-8cbb-b0356b66d66d",
-      "time": "2026-07-07 04:01:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "WDC.O",
-        "Impact bullish",
-        "AVGO.O",
-        "ASML.O"
-      ],
-      "text": "【US stocks close higher; chip stocks lead gains】US stocks closed higher on Monday: the Dow Jones Industrial Average rose 0.3%, the S&P 500 gained 0.7% and the Nasdaq Composite climbed 1.1%. Semiconductor-linked names led the advance: Western Digital (WDC.O) +7%, Broadcom (AVGO.O) +3.7%, ASML (ASML.O) +3%; Micron Technology (MU.O) and Intel (INTC.O) around +1%. The Nasdaq Golden Dragon China Index rose 1.7%; NIO (NIO.N) advanced 4.7%."
-    },
-    {
-      "id": "4972992",
-      "time": "2026-07-07 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.73%，納指漲1.12%。Arista Networks漲8.25%，西部資料漲7.14%，AMD漲6.61%。“七姐妹”方面：特斯拉漲6.69%，Meta Platforms漲3.03%，谷歌漲2.38%，蘋果漲1.33%，亞馬遜漲0.61%，英偉達漲0.34%，微軟跌0.92%。"
-    },
-    {
-      "id": "4972991",
-      "time": "2026-07-07 04:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.80%】愛奇藝漲6.44%，復朗集團漲5.84%，新氧漲5.52%，水滴公司漲5.42%，BOSS直聘漲5.15%。"
     }
   ]
 }
