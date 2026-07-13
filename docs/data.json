@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-14 00:34:21",
-  "count": 17104,
+  "updated": "2026-07-14 00:38:26",
+  "count": 17107,
   "items": [
+    {
+      "id": "4985179",
+      "time": "2026-07-14 00:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國緬因州發生槍擊事件 涉及移民及海關執法局】央視記者當地時間7月13日獲悉，美國緬因州眾議院議長瑞安·費克託在社交媒體上發文稱，當日在緬因州比迪福德發生了一起致人死亡的槍擊事件，事件涉及美國移民及海關執法局（ICE），但目前關於事發經過的細節尚不明確。瑞安·費克託表示，槍擊事件發生在當日上午，地點位於比迪福德，有一人死亡，該事件涉及美國移民及海關執法局（ICE）。緬因州警察和公共安全部目前正在現場收集細節，預計聯邦調查局（FBI）也將介入調查。（央視新聞）"
+    },
+    {
+      "id": "4985178",
+      "time": "2026-07-14 00:36:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美債收益率走低，因美聯儲沃勒稱短期記憶體在加息可能性。"
+    },
+    {
+      "id": "mkt:019f5c55-da70-7aab-8d60-73d635dbde97",
+      "time": "2026-07-14 00:35:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Waller said he expects consumer spending to remain strong and AI-related investment to stay robust."
+    },
+    {
+      "id": "4985177",
+      "time": "2026-07-14 00:35:45",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒：如果核心通脹繼續走低仍屬合理情形，屆時我將繼續支援維持利率不變。"
+    },
+    {
+      "id": "mkt:019f5c55-4eee-7aab-8d60-6b59c6ea5558",
+      "time": "2026-07-14 00:35:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "WALLER: If core inf continues to ease, that remains a reasonable scenario; I will continue to support keeping rates unchanged."
+    },
+    {
+      "id": "mkt:019f5c54-d651-7aab-8d60-6733093c4d6a",
+      "time": "2026-07-14 00:34:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Governor Waller said he is concerned about the rapid pace of elevated core inflation."
+    },
+    {
+      "id": "mkt:019f5c54-c917-7aab-8d60-58a031da94c1",
+      "time": "2026-07-14 00:34:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "WALLER said he expects headline inflation to start slowing with this week's data, but attention will remain on core inflation."
+    },
+    {
+      "id": "mkt:019f5c54-b3b5-7aab-8d60-520987f6e674",
+      "time": "2026-07-14 00:34:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Spot gold falls below $4,000/oz】Spot gold slid below $4,000/oz for the first time since July 1, falling more than 2.8% intraday after President Trump said he would restart a blockade against Iran and Fed governor Christopher Waller warned rates may need to be raised in the near term."
+    },
+    {
+      "id": "4985176",
+      "time": "2026-07-14 00:34:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報57.43美元/盎司。"
+    },
+    {
+      "id": "4985175",
+      "time": "2026-07-14 00:34:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4000美元/盎司，日內跌2.76%。"
+    },
     {
       "id": "4985174",
       "time": "2026-07-14 00:33:34",
@@ -156083,68 +156206,6 @@
         "MKT News"
       ],
       "text": "Market news: World Economic Forum founder Klaus Schwab reported discovering covert listening devices in his home."
-    },
-    {
-      "id": "4972909",
-      "time": "2026-07-07 00:38:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死哈馬斯軍事訓練部門指揮官】當地時間6日，以色列國防軍釋出通告稱，以軍在5日深夜至當天凌晨針對加沙地帶北部發動的空襲行動中，打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）軍事派別訓練部門指揮官法迪·法拉赫·阿舒爾·達格馬什。以軍稱，該人曾負責多項訓練工作，其中包括在2023年10月7日襲擊發生前對哈馬斯“努赫巴”精銳部隊的訓練。並曾參與指揮針對以軍在加沙地帶行動部隊的作戰。截至目前，哈馬斯方面對此暫無回應。"
-    },
-    {
-      "id": "mkt:019f384a-7eba-7aab-8cb9-a182733481cc",
-      "time": "2026-07-07 00:37:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Elysée Palace said Macron will call on Syria to play a role in \"easing tensions in the Middle East\"."
-    },
-    {
-      "id": "mkt:019f384a-467a-7aab-8cb9-9fdc97de5777",
-      "time": "2026-07-07 00:36:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French presidency says Macron will discuss reconstruction during his visit to Syria."
-    },
-    {
-      "id": "mkt:019f384a-431e-7aab-8cb9-93f72aeb165f",
-      "time": "2026-07-07 00:36:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Élysée says French investors and senior corporate executives will accompany President Macron on a trip to Damascus, Syria."
-    },
-    {
-      "id": "mkt:019f3849-cc22-7aab-8cb9-881574e35b46",
-      "time": "2026-07-07 00:36:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French presidency says Macron seeks to restore economic and trade cooperation with Syria."
-    },
-    {
-      "id": "4972908",
-      "time": "2026-07-07 00:35:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "世界經濟論壇創始人施瓦布在家中辦公室發現監聽器後，已在日內瓦提起刑事訴訟。"
-    },
-    {
-      "id": "4972907",
-      "time": "2026-07-07 00:35:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：多年來，華盛頓政客留給我們後代的只有鉅額債務。如今，有今天在場諸位（美國各大巨頭公司負責人）的鼎力支援，我們正助力美國年輕人開啟財富自由之路，幫他們打造理應擁有的美好未來。"
     }
   ]
 }
