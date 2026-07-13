@@ -1,7 +1,123 @@
 {
-  "updated": "2026-07-13 09:56:30",
-  "count": 16727,
+  "updated": "2026-07-13 10:00:29",
+  "count": 16728,
   "items": [
+    {
+      "id": "mkt:019f5933-cb6f-7aab-8d4a-eb0e89d69578",
+      "time": "2026-07-13 09:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI 300 Index slid as much as 1% intraday."
+    },
+    {
+      "id": "4983437",
+      "time": "2026-07-13 09:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【普洛藥業新增7個品種納入2026版國家基本藥物目錄】據普洛藥業訊息，7月9日，國家衛生健康委、國家中醫藥局、國家疾控局三部門聯合印發《國家基本藥物目錄（2026年版）》，自2026年9月1日起施行。普洛藥業旗下此次新增7個品種（10個產品）納入國家基藥目錄，覆蓋抗生素、抗病毒、抗癲癇、降壓、呼吸系統多個治療領域。"
+    },
+    {
+      "id": "mkt:019f5932-55b3-7aab-8d4a-e0f7163a5bde",
+      "time": "2026-07-13 09:58:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix falls 10% in Seoul after 13% US debut rally, faces profit-taking pressure】SK Hynix plunged about 10% in Seoul on Monday, dragging the KOSPI, after the memory-chip maker rose 13% in its US trading debut last Friday. A Seoul active-equity manager said the New York gains appear priced in, leaving the stock exposed to large intraday profit-taking and arbitrage unwinds. The $26.5bn US offering — viewed as a barometer of overseas financing demand and the durability of the AI rally — was over 7x oversubscribed despite concerns about elevated AI valuations and capex. SK Hynix is a major supplier of high-bandwidth memory (HBM) for NVIDIA."
+    },
+    {
+      "id": "mkt:019f5932-4c29-7aab-8d4a-da697d86e00f",
+      "time": "2026-07-13 09:58:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index widened losses to 1%, the Shenzhen Composite fell 1.79% and the ChiNext Index dropped 1.48%."
+    },
+    {
+      "id": "4983436",
+      "time": "2026-07-13 09:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際足聯主席：將討論世界盃再擴軍至64隊】國際足聯主席因凡蒂諾當地時間7月12日在接受採訪時表示，關於世界盃進一步擴軍、將決賽圈參賽隊伍增至64支的討論，將在今年這屆賽事結束後進行。他未透露更多細節。2030年世界盃將由摩洛哥、葡萄牙和西班牙聯合承辦（阿根廷、烏拉圭、巴拉圭也將各舉辦一場比賽，以紀念首屆世界盃在烏拉圭舉辦100週年 ）。2034年世界盃則落戶沙烏地阿拉伯。（央視新聞）"
+    },
+    {
+      "id": "4983435",
+      "time": "2026-07-13 09:57:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1%】上證指數跌1.01%，現報3955.623點；深證成指跌1.76%，現報14781.910點；創業板指跌1.45%，現報3787.203點。"
+    },
+    {
+      "id": "mkt:019f5931-3c6a-7aab-8d4a-d2ec71c41d13",
+      "time": "2026-07-13 09:57:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Beijing Stock Exchange 50 Index declines widen to 3%."
+    },
+    {
+      "id": "4983434",
+      "time": "2026-07-13 09:57:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，天力複合跌15.15%，聚星科技跌9.53%，星圖測控跌9.11%，富士達跌7.17%。"
+    },
+    {
+      "id": "4983433",
+      "time": "2026-07-13 09:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林報告至少兩次爆炸。"
+    },
+    {
+      "id": "mkt:019f5930-c980-7aab-8d4a-c99fe4ec765d",
+      "time": "2026-07-13 09:56:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share commercial space sector extended losses; Aerospace Power hit its limit down, and Shanghai Harbor, Aerospace Development, Higer Communications, Tongyu Communications and Shenjian Co. also hit limit down."
+    },
+    {
+      "id": "4983432",
+      "time": "2026-07-13 09:55:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊持續走低，航天動力觸及跌停】商業航天板塊持續走低，航天動力觸及跌停，上海港灣、航天發展、海格通訊、通宇通訊、神劍股份等多股跌停。"
+    },
     {
       "id": "mkt:019f592f-747c-7aab-8d4a-c68d5745290a",
       "time": "2026-07-13 09:55:09",
@@ -152375,98 +152491,6 @@
         "國際"
       ],
       "text": "印尼基準股指開盤上漲 0.3%，報 5893.28 點  。"
-    },
-    {
-      "id": "4971394",
-      "time": "2026-07-06 10:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【PCB成關鍵瓶頸？ 機構爆料：製造工藝面臨挑戰，英偉達Kyber機架或遇延遲】半導體行業研究機構SemiAnalysis北京時間今日上午在社交平臺釋出一系列文章，指出英偉達Kyber NVL144機架架構或將遭遇延遲。該機構表示：“就在黃仁勳於GTC展示Kyber NVL144僅三個月後，該產品就遭遇了重大挫折，並被延遲超過12個月，推遲至2028年。”關於產品延遲的原因，該機構將其歸結為“PCB中板的製造工藝仍面臨重大挑戰”。SemiAnalysis指出：“英偉達目前沒有經過驗證的解決方案來擴充套件Rubin Ultra的規模擴充套件域，這為AMD MI500X或TPUv8i Broadfly等競爭對手在規模擴充套件能力上超越Rubin Ultra留下了空間。”"
-    },
-    {
-      "id": "4971393",
-      "time": "2026-07-06 10:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃河調水調沙進入集中排沙階段】記者從水利部瞭解到，5日21時，小浪底水庫降至對接水位215米左右，排沙洞含沙量達到150千克每立方米，標誌著黃河2026年主汛期前調水調沙進入集中排沙階段。（央視新聞）"
-    },
-    {
-      "id": "4971392",
-      "time": "2026-07-06 09:59:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "港股汽車股走高，零跑汽車漲5.6%，小鵬集團漲3.6%，吉利汽車漲超3%。"
-    },
-    {
-      "id": "4971391",
-      "time": "2026-07-06 09:58:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念反覆活躍 甘李藥業觸及漲停】創新藥概念反覆活躍，甘李藥業觸及漲停，三元基因、熱景生物漲超10%，亞虹醫藥、首藥控股、博騰股份、苑東生物等跟漲。訊息面上，國家藥監局綜合司就《關於最佳化細胞與基因治療藥品審評審批有關事項的公告(徵求意見稿)》公開徵求意見。其中提到，將符合條件的細胞與基因治療藥品納入創新藥臨床試驗審評審批30日通道，提高臨床研發質效。"
-    },
-    {
-      "id": "mkt:019f3525-707f-7aab-8ca8-6c86f6fe14ce",
-      "time": "2026-07-06 09:57:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share advanced packaging sector rallied again: Shenghe Jingwei rose over 10%, Hongtian hit the daily limit, and JCET, Tongfu Microelectronics and Fuman Microelectronics also gained."
-    },
-    {
-      "id": "4971390",
-      "time": "2026-07-06 09:57:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量352億元。"
-    },
-    {
-      "id": "4971389",
-      "time": "2026-07-06 09:57:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西一地回應“違規地磅單次交易差價可達萬元”：將開展專項整治】江西贛州市章貢區市場監督管理局7月6日釋出情況通報：針對7月5日晚央視財經頻道曝光我區存在經營者非法改裝地磅問題，我局高度重視，連夜開展調查，將根據調查情況依法依規嚴肅處理。同時將舉一反三，開展地磅非法改裝問題專項整治，切實維護市場經營秩序和消費者合法權益。"
-    },
-    {
-      "id": "4971388",
-      "time": "2026-07-06 09:57:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【先進封裝板塊再度拉昇，盛合晶微漲超10%】先進封裝板塊再度拉昇，盛合晶微漲超10%，洪田股份漲停，長電科技、通富微電、富滿微跟漲。訊息面上，華為何庭波正式釋出韜定律V2技術成果，透過邏輯摺疊與混合鍵合的路線創新，在無EUV光刻機的約束下實現了先進製程的跨越式升級。"
-    },
-    {
-      "id": "te:markets:564281",
-      "time": "2026-07-06 09:56:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Heating Oil Trades Near 3-Month Low — US heating oil prices hovered around $3.20 per gallon, trading near their lowest level since March amid growing fears of a potential global oil surplus. OPEC+ approved another 188,000-barrel-per-day increase in production quotas for next month, following similar hikes in June and July. Although much of the additional output has yet to reach the market, the decision signals the group's intention to continue unwinding earlier production cuts as regional stability improves. This came at a time when oil and gas shipments through the US-secured corridor in the Strait of Hormuz continued to recover, enabling major Persian Gulf producers to boost exports. Saudi Arabia's exports approached pre-war levels as tanker traffic resumed, while the United Arab Emirates also restored its export flows. Elsewhere, UK diesel prices posted a record monthly decline in June, further signaling easing pressure across distillate fuel markets."
-    },
-    {
-      "id": "4971387",
-      "time": "2026-07-06 09:56:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【紫光國芯擬IPO 將加碼儲存晶片研發】近日，西安紫光國芯半導體股份有限公司（下稱“紫光國芯”）正式向北交所遞交招股書並獲受理，保薦機構為中信建投證券。這是紫光集團600億元重整落地四年後，新紫光體系首家衝刺資本市場的儲存企業。作為一家以DRAM技術為核心的無晶圓廠（Fabless）積體電路設計企業，紫光國芯受益於儲存行業景氣度持續提升，2026年上半年營業收入和淨利潤預計將大幅增長。公司本次擬募資11.5億元，投向新一代儲存器研發及產業化專案並補充營運資金。"
     }
   ]
 }

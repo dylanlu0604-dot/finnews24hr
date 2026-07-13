@@ -1,7 +1,123 @@
 {
   "date": "2026-07-13",
-  "count": 595,
+  "count": 606,
   "items": [
+    {
+      "id": "mkt:019f5933-cb6f-7aab-8d4a-eb0e89d69578",
+      "time": "2026-07-13 09:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI 300 Index slid as much as 1% intraday."
+    },
+    {
+      "id": "4983437",
+      "time": "2026-07-13 09:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【普洛藥業新增7個品種納入2026版國家基本藥物目錄】據普洛藥業訊息，7月9日，國家衛生健康委、國家中醫藥局、國家疾控局三部門聯合印發《國家基本藥物目錄（2026年版）》，自2026年9月1日起施行。普洛藥業旗下此次新增7個品種（10個產品）納入國家基藥目錄，覆蓋抗生素、抗病毒、抗癲癇、降壓、呼吸系統多個治療領域。"
+    },
+    {
+      "id": "mkt:019f5932-55b3-7aab-8d4a-e0f7163a5bde",
+      "time": "2026-07-13 09:58:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix falls 10% in Seoul after 13% US debut rally, faces profit-taking pressure】SK Hynix plunged about 10% in Seoul on Monday, dragging the KOSPI, after the memory-chip maker rose 13% in its US trading debut last Friday. A Seoul active-equity manager said the New York gains appear priced in, leaving the stock exposed to large intraday profit-taking and arbitrage unwinds. The $26.5bn US offering — viewed as a barometer of overseas financing demand and the durability of the AI rally — was over 7x oversubscribed despite concerns about elevated AI valuations and capex. SK Hynix is a major supplier of high-bandwidth memory (HBM) for NVIDIA."
+    },
+    {
+      "id": "mkt:019f5932-4c29-7aab-8d4a-da697d86e00f",
+      "time": "2026-07-13 09:58:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index widened losses to 1%, the Shenzhen Composite fell 1.79% and the ChiNext Index dropped 1.48%."
+    },
+    {
+      "id": "4983436",
+      "time": "2026-07-13 09:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際足聯主席：將討論世界盃再擴軍至64隊】國際足聯主席因凡蒂諾當地時間7月12日在接受採訪時表示，關於世界盃進一步擴軍、將決賽圈參賽隊伍增至64支的討論，將在今年這屆賽事結束後進行。他未透露更多細節。2030年世界盃將由摩洛哥、葡萄牙和西班牙聯合承辦（阿根廷、烏拉圭、巴拉圭也將各舉辦一場比賽，以紀念首屆世界盃在烏拉圭舉辦100週年 ）。2034年世界盃則落戶沙烏地阿拉伯。（央視新聞）"
+    },
+    {
+      "id": "4983435",
+      "time": "2026-07-13 09:57:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1%】上證指數跌1.01%，現報3955.623點；深證成指跌1.76%，現報14781.910點；創業板指跌1.45%，現報3787.203點。"
+    },
+    {
+      "id": "mkt:019f5931-3c6a-7aab-8d4a-d2ec71c41d13",
+      "time": "2026-07-13 09:57:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Beijing Stock Exchange 50 Index declines widen to 3%."
+    },
+    {
+      "id": "4983434",
+      "time": "2026-07-13 09:57:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，天力複合跌15.15%，聚星科技跌9.53%，星圖測控跌9.11%，富士達跌7.17%。"
+    },
+    {
+      "id": "4983433",
+      "time": "2026-07-13 09:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林報告至少兩次爆炸。"
+    },
+    {
+      "id": "mkt:019f5930-c980-7aab-8d4a-c99fe4ec765d",
+      "time": "2026-07-13 09:56:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share commercial space sector extended losses; Aerospace Power hit its limit down, and Shanghai Harbor, Aerospace Development, Higer Communications, Tongyu Communications and Shenjian Co. also hit limit down."
+    },
+    {
+      "id": "4983432",
+      "time": "2026-07-13 09:55:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊持續走低，航天動力觸及跌停】商業航天板塊持續走低，航天動力觸及跌停，上海港灣、航天發展、海格通訊、通宇通訊、神劍股份等多股跌停。"
+    },
     {
       "id": "mkt:019f592f-747c-7aab-8d4a-c68d5745290a",
       "time": "2026-07-13 09:55:09",
