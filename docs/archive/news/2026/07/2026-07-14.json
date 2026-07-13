@@ -1,7 +1,84 @@
 {
   "date": "2026-07-14",
-  "count": 435,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:019f5d80-005c-7aab-8d64-d0f44c60c682",
+      "time": "2026-07-14 06:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump says reaching an agreement with Iran is possible."
+    },
+    {
+      "id": "4985391",
+      "time": "2026-07-14 06:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍將恢復對伊朗海上封鎖】美軍中央司令部當地時間7月13日釋出宣告表示，根據美國總統特朗普的指令，美軍中央司令部部隊將於美東時間7月14日下午4點（伊朗時間7月14日深夜11點半，北京時間7月15日凌晨4點），對進出伊朗港口的海上交通重新實施封鎖。宣告稱，美軍將對往返於伊朗港口及沿海區域的船隻執行封鎖行動，對於“未違反封鎖規定”的船隻，美軍將繼續支援其在區域海域的正常通行。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f5d7f-6f5b-7aab-8d64-cacb9a112d1f",
+      "time": "2026-07-14 06:01:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "WTI crude opened steady on Tuesday, trading at $77.75/bbl."
+    },
+    {
+      "id": "4985390",
+      "time": "2026-07-14 06:00:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：認為有望達成伊朗相關協議。"
+    },
+    {
+      "id": "mkt:019f5d7e-fe74-7aab-8d64-c40a80c05eaf",
+      "time": "2026-07-14 06:00:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump on Iran: he seeks to weaken Iran's offensive capabilities."
+    },
+    {
+      "id": "4985389",
+      "time": "2026-07-14 06:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：摧毀伊朗的進攻能力。"
+    },
+    {
+      "id": "4985388",
+      "time": "2026-07-14 06:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚我們向伊朗投放了大量彈藥。"
+    },
+    {
+      "id": "4985387",
+      "time": "2026-07-14 05:59:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔傳出密集爆炸聲】當地時間14日0時16分，新華社記者在烏克蘭首都基輔市聽到密集爆炸聲，隨後基輔市拉響防空警報。基輔市軍事管理局局長特卡琴科在社交媒體發文稱俄軍正在對基輔市發動導彈襲擊，提醒民眾做好防護。（新華社）"
+    },
     {
       "id": "4985386",
       "time": "2026-07-14 05:58:57",
