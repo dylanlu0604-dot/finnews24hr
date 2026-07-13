@@ -1,7 +1,23 @@
 {
   "date": "2026-07-14",
-  "count": 35,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019f5c4c-d0e4-7aab-8d5f-f5675783f20e",
+      "time": "2026-07-14 00:26:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's presidential palace said President Aoun and Prime Minister Salam discussed Aoun's upcoming visit to the United States, including a meeting with U.S. President Trump."
+    },
+    {
+      "id": "mkt:019f5c4c-aa84-7aab-8d5f-ea1f45e6832e",
+      "time": "2026-07-14 00:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese presidential palace said President Aoun and Prime Minister Salam discussed upcoming Lebanon–US–Israel trilateral talks in Rome and urged Lebanon’s delegation to insist that Israeli forces immediately withdraw from two pilot areas before discussing any other issues."
+    },
     {
       "id": "4985155",
       "time": "2026-07-14 00:24:51",

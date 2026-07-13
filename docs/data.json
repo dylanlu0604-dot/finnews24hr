@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-14 00:26:10",
-  "count": 17083,
+  "updated": "2026-07-14 00:30:15",
+  "count": 17078,
   "items": [
+    {
+      "id": "mkt:019f5c4c-d0e4-7aab-8d5f-f5675783f20e",
+      "time": "2026-07-14 00:26:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's presidential palace said President Aoun and Prime Minister Salam discussed Aoun's upcoming visit to the United States, including a meeting with U.S. President Trump."
+    },
+    {
+      "id": "mkt:019f5c4c-aa84-7aab-8d5f-ea1f45e6832e",
+      "time": "2026-07-14 00:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese presidential palace said President Aoun and Prime Minister Salam discussed upcoming Lebanon–US–Israel trilateral talks in Rome and urged Lebanon’s delegation to insist that Israeli forces immediately withdraw from two pilot areas before discussing any other issues."
+    },
     {
       "id": "4985155",
       "time": "2026-07-14 00:24:51",
@@ -155820,68 +155836,6 @@
         "市場"
       ],
       "text": "阿拉比卡咖啡價格飆升18%，創2000年7月以來最大盤中漲幅。"
-    },
-    {
-      "id": "4972903",
-      "time": "2026-07-07 00:29:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "咖啡經紀商及交易商表示，本輪咖啡市場上漲由買盤推動，背後與亞洲及巴西的天氣擔憂有關。"
-    },
-    {
-      "id": "4972902",
-      "time": "2026-07-07 00:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普結束在特朗普賬戶午餐會上的講話。"
-    },
-    {
-      "id": "4972901",
-      "time": "2026-07-07 00:28:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如今有38%的美國人沒有持有股票，但我們的股市已經創下73次歷史新高。依託特朗普專屬投資賬戶計劃，每個新生兒都將擁有股市投資份額。"
-    },
-    {
-      "id": "mkt:019f3842-3776-7aab-8cb9-7c87ad7b9aee",
-      "time": "2026-07-07 00:28:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Cuba's National Electric Union says the country's power grid has collapsed nationwide; cause unknown."
-    },
-    {
-      "id": "4972900",
-      "time": "2026-07-07 00:27:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "古巴全國電力工會：古巴全國電網崩潰，原因不明。"
-    },
-    {
-      "id": "4972899",
-      "time": "2026-07-07 00:26:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "倫敦羅布斯塔咖啡期貨上漲近10%，至每噸4085美元。"
-    },
-    {
-      "id": "te:markets:564554",
-      "time": "2026-07-07 00:26:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB at Record Highs — The FTSE MIB rose 0.3% to close at a record high of 52,959 on Monday, supported by expectations of higher military spending across NATO members. Defense stocks led gains after NATO members, including Italy, increased military spending. Fincantieri jumped 11.4% after announcing four acquisitions worth just over €1 billion, while Leonardo gained 4.6% and Avio added 2.6%. Ferrari rose 2.2%, extending gains as it continued its share buyback program and following the unveiling of its new model. Banks also advanced on expectations for a ECB rate hike, with Banco BPM up 2.2% after unveiling a €1.5 billion credit facility for Italian businesses' digital and ecological transition. Finecobank (1.2%) and Intesa Sanpaolo (1.1%) also advanced while insurers Unipol (0.3%) and Generali (0.1%) followed. Prysmian led losses at 2.1% and utilities underperformed, with Italgas down 1.7%, Terna losing 1.6%, and A2A falling 1.4%."
     }
   ]
 }
