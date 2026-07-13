@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-13 10:16:26",
-  "count": 16741,
+  "updated": "2026-07-13 10:20:22",
+  "count": 16739,
   "items": [
+    {
+      "id": "4983475",
+      "time": "2026-07-13 10:19:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體材料板塊短線走低，有研矽跌超14%】半導體材料板塊短線走低，有研矽跌超14%，有研新材、先導基電、中晶科技、雅克科技等跟跌。"
+    },
+    {
+      "id": "mkt:019f5944-655a-7aab-8d4b-7c3c3358f20e",
+      "time": "2026-07-13 10:18:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's military said northern border outposts and an offshore oil platform were attacked, injuring one worker."
+    },
+    {
+      "id": "4983474",
+      "time": "2026-07-13 10:17:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今年上半年市場監管總局釋出101項國家計量技術規範】2026年上半年，市場監管總局釋出101項國家計量技術規範，較去年同期增長23%，啟動401項國家計量技術規範制修訂計劃。截至目前，共設立全國專業計量技術委員會72家，釋出現行有效國家計量技術規範2339項。"
+    },
+    {
+      "id": "mkt:019f5943-82ef-7aab-8d4b-73414fe53674",
+      "time": "2026-07-13 10:17:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US-Iran memorandum is clear evidence of a major US failure】Tariq Khan, retired lieutenant general and former commander of Pakistan’s Frontier Corps, said the US and its regional allies have been driven into a dead end on Iran policy and that recent violence reflects President Trump’s inability to impose his will on negotiations. He called the US‑Iran memorandum clear evidence of a major US failure. Khan said recent US strike attempts have failed and that a credible ground invasion would require about 300,000 troops. He added Trump may want to extricate himself — which could be the only route to immediate peace — but lacks the ability to do so, and questioned whether Israel has used, threatened or coerced US policy, saying that is unknown."
+    },
+    {
+      "id": "mkt:019f5943-155c-7aab-8d4b-6c8900df3a88",
+      "time": "2026-07-13 10:16:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 5-year government bond yield rose 0.5 bps to 1.985%."
+    },
+    {
+      "id": "4983473",
+      "time": "2026-07-13 10:16:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率上漲0.5個基點，至1.985%。"
+    },
     {
       "id": "mkt:019f5942-712b-7aab-8d4b-65393dcf9ccd",
       "time": "2026-07-13 10:15:54",
@@ -152541,75 +152597,6 @@
         "SSE Composite"
       ],
       "text": "ChiNext Index fell 1% after earlier rising more than 1%; Shenzhen Composite Index down 0.62% and Shanghai Composite Index down 0.14%. PCB sector slid amid volatility."
-    },
-    {
-      "id": "4971428",
-      "time": "2026-07-06 10:20:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於當地時間週三上午 10 點 30 分在土耳其會見北約秘書長呂特。"
-    },
-    {
-      "id": "4971427",
-      "time": "2026-07-06 10:20:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中消協釋出關於健身預付款的消費提示 選機構要“三看兩不”】\n近年來，健身機構大多采用“先交錢、後消費”的預付費模式。這一模式在為消費者帶來優惠的同時，也產生了退款難、服務質量縮水，甚至部分商家關門停業、捲款跑路等問題，嚴重損害了消費者的合法權益。\n\n對此，中國消費者協會今天釋出提示：消費者選擇體育健身服務機構時要堅持“三看兩不”。\n\n一看證照情況，包括營業執照、教練員從業資格證等。\n二看經營情況，包括經營環境、規模等。\n三看誠信情況，包括市場口碑、社會信譽、是否被列入行業黑名單等。\n不受“充值越多，折扣力度越大”的營銷手段誘惑盲目大額充值。\n不辦理“終身卡”“五年卡”等超長期預付卡。"
-    },
-    {
-      "id": "4971426",
-      "time": "2026-07-06 10:19:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於當地時間週三下午 4 點 15 分在土耳其出席新聞釋出會。"
-    },
-    {
-      "id": "4971425",
-      "time": "2026-07-06 10:19:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌1.01%，現報3979.458點；上證指數跌0.11%，現報4039.038點；深證成指跌0.54%，現報15512.631點。"
-    },
-    {
-      "id": "4971424",
-      "time": "2026-07-06 10:17:58",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【韓元邁入全天候交易時代，韓財長：反映經濟基本面與外國投資者需求】韓國財政部長週一表示，隨著韓國啟動24小時外匯交易，政府將繼續努力改善外國投資者對本國金融市場的准入。具允哲當天上午走訪了位於首爾市中心韓亞銀行的交易室，標誌著亞洲第四大經濟體正式啟動韓元24小時交易系統。具允哲在訪問期間表示：“24小時交易系統的啟動，反映了韓國對其經濟基本面的信心，包括強勁的外部穩健性和創紀錄的經常賬戶盈餘。”他補充道：“這也是一項改革措施，反映了外國投資者對我們外匯和資本市場日益增長的需求，正如韓國被納入世界政府債券指數所證明的那樣。”具允哲表示，全天候交易系統的開放也將成為韓元再次飛躍的起點，因為國內外投資者及貿易公司可以不受時間限制進行外匯交易。"
-    },
-    {
-      "id": "4971423",
-      "time": "2026-07-06 10:17:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "mkt:019f3536-e2ba-7aab-8ca8-c74afc6235e5",
-      "time": "2026-07-06 10:16:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Won enters 24-hour trading era; finance minister says move reflects economic fundamentals and foreign investor demand】South Korea has launched a 24-hour KRW trading system, Finance Minister Koo Yun-cheol said Monday after visiting Hana Bank’s trading floor in central Seoul. Koo said the launch reflects confidence in Korea’s economic fundamentals, citing strong external resilience and a record current account surplus, and is a market-access reform responding to rising foreign investor demand — evidenced by Korea’s inclusion in the World Government Bond Index. He added that round-the-clock trading will allow domestic and foreign investors and trading firms to transact FX without time constraints and will be a starting point for the won’s next leap."
-    },
-    {
-      "id": "4971422",
-      "time": "2026-07-06 10:16:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美光啟動日本廣島工廠擴建 以進一步提高先進儲存晶片產能】美光科技週六啟動日本廣島工廠的擴建，以進一步提高先進儲存晶片的產能，滿足不斷增長的人工智慧(AI)算力硬體需求。該擴建工程的投資額達到1.5萬億日元（約合93億美元），日本經濟產業省為該專案提供不超過5000億日元的補貼支援。該工廠將生產高頻寬記憶體等AI基建急需的晶片。製造裝置的交付和安裝計劃於2028年下半年開始。儲存晶片公司競相在全球擴大產能。美光正在Boise建設兩座先進晶圓廠，今年1月為位於紐約州的千億美元生產基地舉行奠基儀式，以提高美國本土DRAM產量。韓國SK海力士和三星電子也在積極擴大產能。"
     }
   ]
 }
