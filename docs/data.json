@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-14 00:18:00",
-  "count": 17094,
+  "updated": "2026-07-14 00:22:05",
+  "count": 17091,
   "items": [
+    {
+      "id": "mkt:019f5c47-5510-7aab-8d5f-d7840f66c861",
+      "time": "2026-07-14 00:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor WALLER to speak in 10 minutes."
+    },
+    {
+      "id": "4985153",
+      "time": "2026-07-14 00:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利議會透過罷免總統相關法案。"
+    },
+    {
+      "id": "mkt:019f5c45-212a-7aab-8d5f-c8456369671b",
+      "time": "2026-07-14 00:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMO: No legal basis for charging transit fees after Trump proposes 20% charge on Strait of Hormuz shipments】Trump said the US would impose a 20% charge on cargo transiting the Strait of Hormuz. An IMO spokesperson said: \"We have been made aware of the matter and are awaiting further details. The International Maritime Organization firmly opposes charging fees for straits used for international navigation. There is no legal basis for compulsory strait transit fees.\""
+    },
     {
       "id": "te:markets:566486",
       "time": "2026-07-14 00:17:09",
@@ -155915,65 +155947,6 @@
         "國際"
       ],
       "text": "特朗普：我們十分尊重澳大利亞。"
-    },
-    {
-      "id": "mkt:019f383c-15c3-7aab-8cb9-4f94475d7937",
-      "time": "2026-07-07 00:21:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "An Israel Defense Forces spokesman said Israeli forces killed the commander of Hamas's military-training department."
-    },
-    {
-      "id": "4972890",
-      "time": "2026-07-07 00:20:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京玻色量子科技股份有限公司啟動上市輔導】據證監會官網顯示，北京玻色量子科技股份有限公司於2026年7月6日正式啟動上市輔導，國泰海通證券擔任輔導機構。"
-    },
-    {
-      "id": "4972889",
-      "time": "2026-07-07 00:20:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廈門通靈生物醫藥科技股份有限公司啟動上市輔導】據證監會官網顯示，廈門通靈生物醫藥科技股份有限公司於2026年7月6日正式啟動上市輔導，國信證券擔任輔導機構。"
-    },
-    {
-      "id": "4972888",
-      "time": "2026-07-07 00:20:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統抵達敘利亞首都大馬士革，與敘利亞領導人艾哈邁德·沙拉舉行會晤。"
-    },
-    {
-      "id": "4972887",
-      "time": "2026-07-07 00:19:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：以軍擊斃哈馬斯訓練部門指揮官。"
-    },
-    {
-      "id": "mkt:019f3838-fe87-7aab-8cb9-4340375ca538",
-      "time": "2026-07-07 00:18:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) shares hit an intraday high, latest up 1.26%."
     }
   ]
 }

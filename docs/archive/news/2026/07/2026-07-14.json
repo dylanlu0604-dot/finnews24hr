@@ -1,7 +1,39 @@
 {
   "date": "2026-07-14",
-  "count": 27,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:019f5c47-5510-7aab-8d5f-d7840f66c861",
+      "time": "2026-07-14 00:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor WALLER to speak in 10 minutes."
+    },
+    {
+      "id": "4985153",
+      "time": "2026-07-14 00:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利議會透過罷免總統相關法案。"
+    },
+    {
+      "id": "mkt:019f5c45-212a-7aab-8d5f-c8456369671b",
+      "time": "2026-07-14 00:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMO: No legal basis for charging transit fees after Trump proposes 20% charge on Strait of Hormuz shipments】Trump said the US would impose a 20% charge on cargo transiting the Strait of Hormuz. An IMO spokesperson said: \"We have been made aware of the matter and are awaiting further details. The International Maritime Organization firmly opposes charging fees for straits used for international navigation. There is no legal basis for compulsory strait transit fees.\""
+    },
     {
       "id": "te:markets:566486",
       "time": "2026-07-14 00:17:09",
