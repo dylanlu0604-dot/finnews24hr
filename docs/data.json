@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-14 04:39:43",
-  "count": 17217,
+  "updated": "2026-07-14 04:43:37",
+  "count": 17219,
   "items": [
+    {
+      "id": "4985355",
+      "time": "2026-07-14 04:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭聯合多國盟友成立專項聯盟，以應對俄羅斯彈道導彈威脅。"
+    },
+    {
+      "id": "4985354",
+      "time": "2026-07-14 04:42:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方警告：絕不允許美國插手霍爾木茲海峽的航道管控事務。"
+    },
+    {
+      "id": "mkt:019f5d36-1f17-7aab-8d64-1c0cfab33ee2",
+      "time": "2026-07-14 04:40:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Carolina governor appoints late Sen. Lindsey Graham's sister to fill remainder of his term】On July 13, South Carolina Governor Henry McMaster announced he has appointed Darlene Graham Nodone to serve the remainder of the late Republican U.S. Senator Lindsey Graham's term."
+    },
     {
       "id": "4985353",
       "time": "2026-07-14 04:36:53",
@@ -157434,14 +157458,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼： 上週末與韓國總統進行了長時間友好會談。"
-    },
-    {
-      "id": "mkt:019f3928-c455-7aab-8cbc-298c9f4a3ad6",
-      "time": "2026-07-07 04:40:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syrian President Shala said the government has signed energy-sector contracts to add about 5,000 MW of generation capacity and rebuild power plants, and is drafting plans to rebuild and modernize state institutions."
     }
   ]
 }
