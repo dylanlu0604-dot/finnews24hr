@@ -1,7 +1,536 @@
 {
   "date": "2026-07-14",
-  "count": 182,
+  "count": 235,
   "items": [
+    {
+      "id": "4985263",
+      "time": "2026-07-14 02:09:19",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝威脅攻擊沙特目標】葉門胡塞武裝當地時間7月13日晚透過社交媒體釋出影片，威脅攻擊沙特多個目標。在胡塞武裝公佈的影片中，出現了沙特首都利雅得的哈立德國王國際機場、吉達的阿卜杜勒阿齊茲國王國際機場、達曼的法赫德國王國際機場，以及港口等重要設施的航拍圖片和經緯度座標，並配以“回擊即將到來”的文字。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985262",
+      "time": "2026-07-14 02:09:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲9%，現報77.84美元/桶。"
+    },
+    {
+      "id": "4985261",
+      "time": "2026-07-14 02:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱擊落兩架美製盧卡斯無人機】當地時間7月13日晚，伊朗伊斯蘭革命衛隊宣佈，稍早前在伊朗阿巴斯港和法爾斯省拉爾市，革命衛隊的防禦系統擊落兩架美製盧卡斯無人機。（央視新聞）"
+    },
+    {
+      "id": "4985260",
+      "time": "2026-07-14 02:08:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報501.20元。"
+    },
+    {
+      "id": "mkt:019f5ca8-181c-7aab-8d62-a21c2947a63d",
+      "time": "2026-07-14 02:05:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian banking regulator emailed company executives in April warning that ANTHROPIC's Claude MYTHOS poses risks to financial institutions."
+    },
+    {
+      "id": "mkt:019f5ca6-48f0-7aab-8d62-987eec60a659",
+      "time": "2026-07-14 02:03:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran FM: payment for Strait of Hormuz security justified but Trump’s 20% demand excessive】Iran’s foreign minister said Trump was completely right that any party providing security for merchant ships transiting the Strait of Hormuz should be compensated; he added a 20% fee would be excessive and said Iran would charge a fair fee."
+    },
+    {
+      "id": "4985259",
+      "time": "2026-07-14 02:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大銀行監管機構在 4 月致金融機構高管的郵件中，向各金融機構警示了 Anthropic 旗下 Claude Mythos 模型存在的相關風險。"
+    },
+    {
+      "id": "4985258",
+      "time": "2026-07-14 02:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲9%，現報82.85美元/桶。"
+    },
+    {
+      "id": "4985257",
+      "time": "2026-07-14 02:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：此地是波斯灣，霍爾木茲海峽的規則由伊朗制定。奉勸那些慘敗方：少放空話虛張聲勢，公佈你們人員傷亡與經濟損失的真實數字。"
+    },
+    {
+      "id": "4985256",
+      "time": "2026-07-14 02:00:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：美國總統說得完全沒錯。任何保障商船安全通行霍爾木茲海峽的一方，都理應獲得相應服務補償。伊朗歷來是霍爾木茲海峽的守護者，並將永遠擔此職責。百分之二十的分成顯然過高，我們會秉持公平原則。"
+    },
+    {
+      "id": "mkt:019f5ca3-02d5-7aab-8d62-9574d12281f2",
+      "time": "2026-07-14 02:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said Iran has long been the guardian of the Strait of Hormuz and will remain so."
+    },
+    {
+      "id": "mkt:019f5ca2-edd4-7aab-8d62-8e384685658e",
+      "time": "2026-07-14 02:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US June government budget deficit $120.0 bln, vs consensus $128.3 bln; prior (May) deficit $292.6 bln."
+    },
+    {
+      "id": "mkt:019f5ca2-caa7-7aab-8d62-8324e4999cf6",
+      "time": "2026-07-14 02:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Government Budget (Jun) | actual -120000000000B | consensus -128300000000B | previous -292648000000B"
+    },
+    {
+      "id": "4985255",
+      "time": "2026-07-14 01:59:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月政府預算 -1203.05億美元，前值 -2926億美元。"
+    },
+    {
+      "id": "mkt:019f5ca2-402a-7aab-8d62-7882146cce48",
+      "time": "2026-07-14 01:59:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. to impose maritime blockade of Iranian ports from 04:00 on July 15】The Joint Maritime Information Center (JMIC), led by the U.S. Navy, said the U.S. military will begin a maritime blockade of all Iranian ports and coastal areas at 20:00 GMT on July 14 (04:00 local July 15). The blockade applies to all vessels regardless of flag and covers Iran’s entire coastline, including ports and oil terminals. Neutral ships transiting the Strait of Hormuz to non‑Iranian destinations will not be impeded. Humanitarian shipments will be allowed but subject to inspection."
+    },
+    {
+      "id": "mkt:019f5c9f-bd1c-7aab-8d62-705060024f51",
+      "time": "2026-07-14 01:56:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "French President MACRON said multinational forces will conduct joint military exercises with Ukrainian forces in countries neighboring Ukraine."
+    },
+    {
+      "id": "mkt:019f5c9f-bc9b-7aab-8d62-6c840b60ca38",
+      "time": "2026-07-14 01:56:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Navy-led Combined Maritime Information Center says humanitarian aid shipments will be permitted to transit but will be subject to inspection."
+    },
+    {
+      "id": "4985254",
+      "time": "2026-07-14 01:56:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍牽頭的聯合海上資訊中心（JMIC）：人道主義物資運輸船隻准予通行，但須接受檢查。"
+    },
+    {
+      "id": "4985253",
+      "time": "2026-07-14 01:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍牽頭的聯合海上資訊中心（JMIC）：此次封鎖不會妨礙中立船隻經霍爾木茲海峽往返非伊朗目的地的正常通行。"
+    },
+    {
+      "id": "mkt:019f5c9e-a769-7aab-8d62-65509aea18c1",
+      "time": "2026-07-14 01:55:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The US Navy-led Joint Maritime Information Center said a maritime blockade would not impede neutral vessels transiting the Strait of Hormuz to or from non-Iranian destinations."
+    },
+    {
+      "id": "mkt:019f5c9e-88c6-7aab-8d62-5eee58172824",
+      "time": "2026-07-14 01:55:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US and Brent crude climbed sharply: WTI rose more than 8%, Brent reached $82/bbl, up 7.98% intraday."
+    },
+    {
+      "id": "mkt:019f5c9e-1263-7aab-8d62-57c15c168e31",
+      "time": "2026-07-14 01:54:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Navy-led Joint Maritime Information Center says US maritime blockade covers Iran's entire coastline, including, but not limited to, Iranian ports and oil terminals."
+    },
+    {
+      "id": "mkt:019f5c9d-b344-7aab-8d62-494f8726769f",
+      "time": "2026-07-14 01:54:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. military to begin maritime blockade of Iranian ports from July 14 20:00 GMT】The U.S. Navy-led Combined Maritime Information Center said the U.S. military will begin a maritime blockade of all Iranian ports and coastal waters from 20:00 GMT on July 14 (04:00 Beijing time on July 15)."
+    },
+    {
+      "id": "4985252",
+      "time": "2026-07-14 01:54:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國海軍主導的聯合海上資訊中心（JMIC）：美軍將於格林尼治時間7月14日20:00（北京時間7月15日04:00）起，對伊朗所有港口及沿岸區域實施海上封鎖管控。 美方封鎖範圍覆蓋伊朗全部海岸線，包括但不限於伊朗各港口與石油碼頭。"
+    },
+    {
+      "id": "4985251",
+      "time": "2026-07-14 01:54:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：多國部隊將在烏克蘭周邊國家與烏方舉行軍事演習。"
+    },
+    {
+      "id": "4985250",
+      "time": "2026-07-14 01:53:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲8%，現報82.10美元/桶。"
+    },
+    {
+      "id": "mkt:019f5c9c-4868-7aab-8d62-46d4c109a184",
+      "time": "2026-07-14 01:52:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "US Navy-led Joint Maritime Information Coordination Centre says a US maritime blockade applies to all vessels regardless of flag."
+    },
+    {
+      "id": "4985249",
+      "time": "2026-07-14 01:52:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國海軍牽頭的聯合海上資訊中心：美方封鎖措施適用於所有船舶通行，不分船籍。"
+    },
+    {
+      "id": "4985248",
+      "time": "2026-07-14 01:52:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破62000美元，日內跌2.82%。"
+    },
+    {
+      "id": "mkt:019f5c9b-94db-7aab-8d62-39054f0a3f02",
+      "time": "2026-07-14 01:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. State Department launches multi-agency effort to 'systematically degrade' International Criminal Court】On the 13th the U.S. State Department announced a multi-agency campaign to 'systematically degrade' the International Criminal Court's operational capacity, aiming to prevent the ICC from acting against U.S. service members or government officials and to stop it from otherwise 'threatening U.S. sovereignty.'"
+    },
+    {
+      "id": "4985247",
+      "time": "2026-07-14 01:51:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲8%，現報77.14美元/桶。"
+    },
+    {
+      "id": "4985246",
+      "time": "2026-07-14 01:51:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破82美元/桶，日內漲7.91%。"
+    },
+    {
+      "id": "4985245",
+      "time": "2026-07-14 01:51:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報496.40元。"
+    },
+    {
+      "id": "4985244",
+      "time": "2026-07-14 01:50:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破77美元/桶，日內漲7.83%。"
+    },
+    {
+      "id": "4985243",
+      "time": "2026-07-14 01:50:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報13992.00元。"
+    },
+    {
+      "id": "4985242",
+      "time": "2026-07-14 01:50:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國務院宣佈發起行動“削弱國際刑事法院運作能力”】美國國務院13日宣佈發起一項由多個政府部門參與的行動，以“系統性削弱國際刑事法院運作能力”，使其無法對美國軍人或政府官員採取行動，並防止其以其他方式“威脅美國主權”。據美國務院發給媒體的郵件宣告，美方將採取的措施包括吊銷國際刑事法院人員的簽證並對其實施旅行禁令，加大對國際刑事法院及其附屬機構的制裁力度，以及加強外交交涉敦促一些國家退出國際刑事法院等。宣告強調，美國從未同意接受國際刑事法院管轄。（新華社）"
+    },
+    {
+      "id": "mkt:019f5c9a-10ba-7aab-8d62-372555002d8b",
+      "time": "2026-07-14 01:50:28",
+      "tags": [
+        "MKT News",
+        "BA.L",
+        "Impact bullish",
+        "AIR.PA",
+        "LDO.MI"
+      ],
+      "text": "French President Macron said his government will authorize expanded production of several weapon systems, including SCALP cruise missiles."
+    },
+    {
+      "id": "mkt:019f5c9a-0d13-7aab-8d62-2ab50701d024",
+      "time": "2026-07-14 01:50:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Goldman: Earnings growth still primary US equity driver; Fed hikes would hit markets three ways】Goldman analysts say earnings growth is likely to remain the main driver of US equities even as a more hawkish Fed raises downside risk. Goldman expects the Fed to keep rates on hold this year but assigns a 25% probability of a rate hike. A Fed resumption of hikes would affect equities via three channels: higher rates weakening the growth outlook — and historically growth has mattered more for equity performance than rates themselves; the current AI-led investment cycle is unusually capital‑intensive, making firms more sensitive to higher financing costs; and past tightening cycles have coincided with weak equity returns. Goldman adds: \"Whether or not the Fed hikes, uncertainty about the Fed's policy path will raise rate volatility risk and constitute a headwind for equities.\""
+    },
+    {
+      "id": "4985241",
+      "time": "2026-07-14 01:48:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報57.74美元/盎司。"
+    },
+    {
+      "id": "mkt:019f5c98-58ff-7aab-8d62-228cccbc37d9",
+      "time": "2026-07-14 01:48:35",
+      "tags": [
+        "MKT News",
+        "AM.PA",
+        "Impact bullish"
+      ],
+      "text": "French President Macron said Ukraine will purchase 16 Rafale fighters, expected to operate in Ukrainian airspace in 2028-2029."
+    },
+    {
+      "id": "4985240",
+      "time": "2026-07-14 01:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：烏克蘭將採購 16 架陣風戰鬥機，這批戰機將於 2028 至 2029 年投入烏克蘭空域執行任務。"
+    },
+    {
+      "id": "4985239",
+      "time": "2026-07-14 01:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：烏克蘭已同意採購 SAMP-T 防空系統。"
+    },
+    {
+      "id": "mkt:019f5c96-7759-7aab-8d62-181fe3d09e39",
+      "time": "2026-07-14 01:46:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "HO.PA",
+        "Impact bullish"
+      ],
+      "text": "French President Macron said Ukraine has agreed to purchase the SAMP/T air-defence system."
+    },
+    {
+      "id": "mkt:019f5c92-063f-7aab-8d62-17e63a3e518c",
+      "time": "2026-07-14 01:41:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi leader said the group will target Saudi Arabia's critical infrastructure."
+    },
+    {
+      "id": "mkt:019f5c8f-7f61-7aab-8d62-0b883392b194",
+      "time": "2026-07-14 01:38:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "International oil prices continued higher; WTI crude surged 7.00% intraday to $76.43/bbl."
+    },
+    {
+      "id": "mkt:019f5c8e-f51b-7aab-8d62-051d6e7a92b8",
+      "time": "2026-07-14 01:38:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Houthi militants say a response is imminent."
+    },
+    {
+      "id": "mkt:019f5c8e-d3b0-7aab-8d61-fe246514916a",
+      "time": "2026-07-14 01:38:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi-led coalition says it intercepted Houthi ballistic missiles】The Saudi-led coalition said on the evening of July 13 its air defenses engaged ballistic missiles fired by Yemen’s Houthi movement toward southern Saudi Arabia. Earlier, Sanaa International Airport, controlled by the Houthis, was hit in an airstrike; the Houthis accused Saudi forces and vowed retaliation. Yemen’s defense ministry said the strike targeted a senior Houthi delegation that had attended a funeral for Iran’s slain supreme leader Khamenei to prevent them boarding an Iranian plane to return home."
+    },
+    {
+      "id": "4985237",
+      "time": "2026-07-14 01:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特稱應對胡塞武裝導彈】由沙特主導的多國聯軍當地時間7月13日晚表示，其防空系統應對了葉門胡塞武裝向沙特南部地區發射的彈道導彈。當天早些時候，胡塞武裝控制的葉門首都薩那國際機場遭空襲。胡塞武裝指責沙特發動了這次空襲，並誓言報復。葉門政府國防部則稱空襲薩那國際機場，以阻止參加完伊朗遇害最高領袖哈梅內伊追悼儀式的胡塞武裝高階別代表團搭乘伊朗飛機回國。 2014年胡塞武裝佔領薩那後，葉門一直深陷衝突之中。次年，沙特領導的多國聯軍介入葉門內戰，支援國際社會普遍承認的葉門政府。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985236",
+      "time": "2026-07-14 01:36:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲7%，現報76.41美元/桶。"
+    },
+    {
+      "id": "4985235",
+      "time": "2026-07-14 01:35:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲7%，現報81.33美元/桶。"
+    },
+    {
+      "id": "mkt:019f5c8b-6bf5-7aab-8d61-f54f364a665e",
+      "time": "2026-07-14 01:34:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Waller favors replacing 2% inflation target with 1.5%-2.5% range】Federal Reserve Governor Waller said he favors an inflation-target range rather than a single 2% point, proposing 1.5%-2.5% because expecting the Fed to hit a precise number is unrealistic. He warned that judging policy success or failure by a single point can be overly harsh and that a target range would better reflect economic dynamics."
+    },
+    {
+      "id": "4985234",
+      "time": "2026-07-14 01:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利國會透過《基本法》修正案 提前終止總統任期】當地時間13日，匈牙利國會投票透過了《基本法》第十七次修正案，其中包括終止現任總統舒尤克的總統任期。此前，匈牙利總理毛焦爾威脅稱，如果不辭職就會透過修改《基本法》結束總統任期。舒尤克2024年經國會選舉當選匈牙利總統，其任期持續至2029年。（央視新聞）"
+    },
+    {
+      "id": "4985233",
+      "time": "2026-07-14 01:33:09",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "胡塞武裝：反擊即將到來。"
+    },
     {
       "id": "mkt:019f5c86-d110-7aab-8d61-ea0c173768a5",
       "time": "2026-07-14 01:29:26",
