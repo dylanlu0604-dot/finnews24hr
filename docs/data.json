@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-14 04:19:52",
-  "count": 17217,
+  "updated": "2026-07-14 04:23:53",
+  "count": 17218,
   "items": [
+    {
+      "id": "mkt:019f5d25-d99e-7aab-8d63-f370491bddf2",
+      "time": "2026-07-14 04:23:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International crude settlement prices jump over 9%】NYMEX August light crude futures rose $6.73 to settle at $78.14/bbl, up 9.42%. ICE Brent futures for September delivery rose $7.29 to settle at $83.30/bbl, up 9.59%."
+    },
+    {
+      "id": "4985341",
+      "time": "2026-07-14 04:22:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【國際油價13日大幅上漲】國際油價13日大幅上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲6.73美元，收於每桶78.14美元，漲幅為9.42%；9月交貨的倫敦布倫特原油期貨價格上漲7.29美元，收於每桶83.30美元，漲幅為9.59%。"
+    },
     {
       "id": "mkt:019f5d21-dc69-7aab-8d63-e8df6c4e063e",
       "time": "2026-07-14 04:18:47",
@@ -157417,21 +157440,6 @@
         "公司"
       ],
       "text": "加拿大總理卡尼： 蒂森克虜伯海事系統公司（TKMS）提議調配德國與挪威訂單中的潛艇產能，從而實現首批 4 艘潛艇於 2034 年前提前交付。"
-    },
-    {
-      "id": "mkt:019f3919-1943-7aab-8cbb-f024dce6e075",
-      "time": "2026-07-07 04:22:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Traders' dollar positioning most bullish since 2015】CFTC data show net bullish bets on the dollar rose to nearly $40bn as of June 30, the highest since 2015, extending a monthly rally led by interest-rate expectations. Markets are pricing a higher-for-longer Fed and a risk of further hikes, which helped the dollar gain about 2% in June. Analysts say Fed tightening expectations and US economic resilience support the move, but some institutions warn weaker recent employment data could cap further upside."
     }
   ]
 }
