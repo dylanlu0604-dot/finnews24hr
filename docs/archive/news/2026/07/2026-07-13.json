@@ -1,7 +1,1257 @@
 {
   "date": "2026-07-13",
-  "count": 2328,
+  "count": 2464,
   "items": [
+    {
+      "id": "mkt:019f5bb2-f805-7aab-8d5c-7da2114a3ca0",
+      "time": "2026-07-13 21:38:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Caspian Pipeline Consortium June oil exports fell 7% MoM to 6.442 million tonnes."
+    },
+    {
+      "id": "te:markets:566422",
+      "time": "2026-07-13 21:36:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuit Stock Price Hits 4-week High — Intuit shares increased to 287.00 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 3.35%, and in the last 12 months, it decreased 61.73%."
+    },
+    {
+      "id": "te:economy:566421",
+      "time": "2026-07-13 21:36:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Yield Rises to 1-Month High — Switzerland's 10-year government bond yield rose above 0.40%, reaching its highest level in a month after touching a nearly four-month low of 0.25% on June 26th, as escalating geopolitical tensions heightened concerns over oil supply disruptions and inflation risks. US-Iran tensions persisted after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Meanwhile, President Donald Trump said the Strait of Hormuz remained open to commercial shipping, while Tehran claimed it had closed the waterway after intercepting two vessels it said were using an unauthorized route, adding to uncertainty over global energy supplies and boosting safe-haven demand. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation. Swiss inflation eased to 0.5% in June, the first slowdown in eight months, with the SNB forecasting 0.6% inflation in 2026."
+    },
+    {
+      "id": "4984962",
+      "time": "2026-07-13 21:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【蘋果股價升破6月初高點重新整理記錄新高 總市值報4.71萬億美元】在AI科技股下跌之際，蘋果股價上漲1.65%，報320.530美元/股，重新整理記錄新高，總市值報4.71萬億美元。"
+    },
+    {
+      "id": "mkt:019f5bb1-40d5-7aab-8d5c-7464f3da93c5",
+      "time": "2026-07-13 21:36:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Zelenskiy proposes 90-day extension of Ukraine martial law and mobilization to Oct. 31】On the 13th, Ukrainian President Zelenskiy submitted a bill to the Verkhovna Rada proposing a 90-day extension of martial law and mobilization through Oct. 31. Parliament is due to vote on the extension shortly; this is the 20th time the Rada has voted on extending martial law since the Russia-Ukraine conflict escalated in early 2022."
+    },
+    {
+      "id": "te:markets:566420",
+      "time": "2026-07-13 21:36:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pull Back — US equity indices were mostly lower on Monday amid weakness for AI companies and more macroeconomic uncertainty. The S&P 500 dropped 0.3% and the Nasdaq 100 lost 1.3%. Chip producers were under fresh pressure to indicate persistent uncertainty on whether the sector will deliver the ambitious guidance that backed its speculative rally. SK Hynix ADRs were 8% down after surging 13% in its issue on Friday as a Korean broker stated it could miss its next earnings. Nvidia, AMD, and Intel fell over 1% while memory producers Sandisk and Micron lost more than 3%. Meanwhile, the Dow inched marginally higher despite the risk of higher interest rates. Strikes between the US and Iran continued to hamper energy exports out of the Middle East, risking inflation and lifting credit costs. Major banks were mixed ahead of their earnings reports tomorrow, with JPMorgan and Bank of America both hovering near the flatline. Still, Visa rose 1.5%, and J&J rose 0.5% ahead of its earnings Wednesday."
+    },
+    {
+      "id": "te:markets:566419",
+      "time": "2026-07-13 21:35:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chevron Stock Price Hits 4-week High — Chevron shares increased to 180.78 USD, the highest since June 2026. Over the past 4 weeks, Chevron lost 3.08%, and in the last 12 months, it increased 15.96%."
+    },
+    {
+      "id": "4984961",
+      "time": "2026-07-13 21:35:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROUNDHILL MEMORY ETF 下跌8.6%。"
+    },
+    {
+      "id": "4984960",
+      "time": "2026-07-13 21:35:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，貝殼漲3.47%，網易漲3.17%，蔚來漲2.93%，京東漲3.12%，好未來漲2.47%。"
+    },
+    {
+      "id": "mkt:019f5bb0-6814-7aab-8d5c-69c5a1326e1e",
+      "time": "2026-07-13 21:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC says it will inflict unprecedented humiliation on US】The Islamic Revolutionary Guard Corps said that, as it downgraded the US's ostensible objective at the start of US aggression to \"reopening the Strait of Hormuz\", it will respond to new hostile US actions by shaming and frustrating the US more than before and inflicting unprecedented humiliation."
+    },
+    {
+      "id": "te:markets:566418",
+      "time": "2026-07-13 21:34:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits 4-week High — ConocoPhillips shares increased to 111.97 USD, the highest since June 2026. Over the past 4 weeks, ConocoPhillips lost 0.49%, and in the last 12 months, it increased 18.63%."
+    },
+    {
+      "id": "te:markets:566416",
+      "time": "2026-07-13 21:33:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Stock Price Hits 13-week Low — Oracle shares decreased to 137.53 USD, the lowest since April 2026. Over the past 4 weeks, Oracle lost 28.24%, and in the last 12 months, it decreased 39.71%."
+    },
+    {
+      "id": "te:markets:566415",
+      "time": "2026-07-13 21:33:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CIBC Stock Price Hits All-time High — CIBC shares increased to an all-time high of 167.53 CAD. Over the past 4 weeks, CIBC gained 7.15%, and in the last 12 months, it increased 67.15%."
+    },
+    {
+      "id": "4984959",
+      "time": "2026-07-13 21:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "TRICO BANCSHARES開盤上漲8.1%，FIRST HAWAIIAN下跌9.5%。"
+    },
+    {
+      "id": "mkt:019f5bad-bb32-7aab-8d5c-639bb80bd339",
+      "time": "2026-07-13 21:32:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Aviation Administration said it has closed its probe into the anomaly on SpaceX’s Starship 12th flight, clearing a regulatory obstacle for the 13th test flight planned for this week."
+    },
+    {
+      "id": "mkt:019f5bad-a494-7aab-8d5c-5ad69cbdad81",
+      "time": "2026-07-13 21:32:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Climate-tech deal volume hits record; power demand fuels market】Currence said global climate-tech M&A and listings hit a record in 1H 2026 with 153 transactions, up 70% YoY; acquisitions were the largest component, rising roughly 65% YoY. The sector staged its busiest IPO window since 1H 2022, with 17 climate-tech listings raising $6.7 bln in 1H. Activity is concentrated in energy-related technologies—over one-third of acquisition targets were in energy and nearly 60% of IPOs were energy firms. B Capital partner Jeff Johnson said investors are targeting technologies to power AI data centers and broader electrification; global data-center power demand is expected to more than double by 2030, and public markets are beginning to recognise many such companies’ value."
+    },
+    {
+      "id": "4984958",
+      "time": "2026-07-13 21:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌3.2%。"
+    },
+    {
+      "id": "mkt:019f5bad-6497-7aab-8d5c-54262df23c68",
+      "time": "2026-07-13 21:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Jiangsu provincial government signs strategic cooperation agreement with Sugon】Jiangsu provincial government and Sugon (Dawning Information Industry Co.) signed a strategic cooperation agreement in Nanjing on July 11. Jiangsu Governor Liu Xiaotao said the province is a major integrated-circuit cluster with a relatively complete industry and innovation ecosystem, providing a strong basis and wide scope for deeper collaboration. The province urged Sugon to support construction of the \"Guanghe Space\", increase technology, capital and resource investment in Jiangsu to better back foundation models and intelligent-agent applications, and attract upstream and downstream ecosystem firms; Jiangsu said it will continue to optimize the business environment and advance practical cooperation to a higher level."
+    },
+    {
+      "id": "mkt:019f5bad-3298-7aab-8d5c-4cd5b7e81e68",
+      "time": "2026-07-13 21:31:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities at open July 13 (Mon): Dow Jones opened up 76.87 pts (+0.15%) at 52,713.88; S&P 500 opened down 13.95 pts (-0.18%) at 7,561.44; Nasdaq Composite opened down 170.86 pts (-0.65%) at 26,110.75."
+    },
+    {
+      "id": "mkt:019f5bad-0d58-7aab-8d5c-44e2b1e9f50f",
+      "time": "2026-07-13 21:31:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said countries must now reduce tensions to consolidate the basis for security and stability."
+    },
+    {
+      "id": "4984957",
+      "time": "2026-07-13 21:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "德克斯戶外用品股價上漲約2%，此前傑富瑞將其評級上調至\"買入\"。"
+    },
+    {
+      "id": "4984956",
+      "time": "2026-07-13 21:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士ADR下跌9.3%，此前首爾股市創下歷史最大跌幅。"
+    },
+    {
+      "id": "4984955",
+      "time": "2026-07-13 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.06%，標普500指數跌0.30%，納指跌0.74%。閃迪跌6.93%，西部資料跌6.66%，Epam Systems漲4.36%，高知特漲3.92%。“七姐妹”方面：微軟漲0.96%，蘋果漲0.71%，亞馬遜漲0.06%，Meta Platforms跌0.05%，谷歌跌0.41%，英偉達跌0.86%，特斯拉跌1.47%。"
+    },
+    {
+      "id": "mkt:019f5bac-448f-7aab-8d5c-3b1d2bcf2cf2",
+      "time": "2026-07-13 21:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish",
+        "SNDK.O",
+        "MU.O"
+      ],
+      "text": "US stocks at the open: Dow Jones +0.08%, S&P 500 -0.32%, Nasdaq -0.73%. Tech-led losses: SK Hynix (SKHY.O) down >8%, SanDisk (SNDK.O) down >6%, Micron Technology (MU.O) down 5%, Intel (INTC.O) down 4%, Qualcomm (QCOM.O) down 1%."
+    },
+    {
+      "id": "4984954",
+      "time": "2026-07-13 21:30:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE開盤下跌18.24點，跌幅0.05%，報35,287.07點。"
+    },
+    {
+      "id": "mkt:019f5bac-2659-7aab-8d5c-354bbc293be2",
+      "time": "2026-07-13 21:30:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: Bohai Sea live-fire exercises to close waters July 14-17】Tangshan Maritime Safety Administration posted on the China Maritime Safety Administration website that live-fire exercises will be conducted in parts of the Bohai Sea from 00:00 on July 14 to 24:00 on July 17; entry into the affected waters is prohibited."
+    },
+    {
+      "id": "4984953",
+      "time": "2026-07-13 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，華住酒店集團漲0.17%。"
+    },
+    {
+      "id": "4984952",
+      "time": "2026-07-13 21:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，7月14日0時至7月17日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "4984951",
+      "time": "2026-07-13 21:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西起草新規允許私人合作伙伴參與鈾礦開採。"
+    },
+    {
+      "id": "4984948",
+      "time": "2026-07-13 21:27:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據美國證券交易委員會備案檔案，雙威動力雙體船公司（TWIN VEE POWERCATS CO）股東將在合併完成後獲得美國海上燃料公司（USFM）10%的股份。"
+    },
+    {
+      "id": "te:economy:566412",
+      "time": "2026-07-13 21:26:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ethiopia",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Ethiopia Lifts Key Policy Rate to 16% — The National Bank of Ethiopia raised its key interest rate to 16% from 15% on July 13th, 2026, marking the first adjustment since the benchmark was introduced at 15% in mid-2024 as part of broader economic reforms under Prime Minister Abiy Ahmed. It also scrapped the 24% credit growth ceiling hat had restricted bank lending since 2023. Inflation accelerated to 13.4% in May 2026, after falling into single digits in December 2025 for the first time in almost a decade, driven by global oil disruptions linked to the US–Iran conflict that lifted fuel, transport, and production costs. The central bank expects inflation to decline by the end of 2026 but acknowledged that prices are likely to remain elevated in the near term."
+    },
+    {
+      "id": "mkt:019f5ba8-2b72-7aab-8d5c-2ceb018f3fcd",
+      "time": "2026-07-13 21:26:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen Civil Aviation Authority ordered all airports to suspend arrivals and departures until further notice."
+    },
+    {
+      "id": "4984947",
+      "time": "2026-07-13 21:24:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇省政府與中科曙光簽署戰略合作協議】7月11日，江蘇省政府與曙光資訊產業股份有限公司在南京簽署戰略合作協議。省長劉小濤會見中科曙光董事長曆軍一行，並共同見證簽約。劉小濤對中科曙光長期以來給予江蘇經濟社會發展的大力支援表示感謝。劉小濤說，江蘇是積體電路產業重要集聚區，擁有較為完整的產業佈局和創新體系，雙方深化合作的基礎良好、空間廣闊。希望中科曙光聚力賦能“光合空間”建設，持續加大在蘇專案的技術、資金和資源投入，更好支撐資料大模型和智慧體應用，吸引更多上下游生態企業集聚。我們將持續最佳化營商環境，推進務實合作向更高水平發展。（微訊江蘇）"
+    },
+    {
+      "id": "te:economy:566410",
+      "time": "2026-07-13 21:24:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Crude Oil Production",
+        "Importance 0"
+      ],
+      "text": "Nigeria Oil Output Highest since 2020 — Nigeria's crude oil production increased to 1.555 million barrels per day in June 2026, the highest level since April 2020, according to OPEC's monthly report. Output reached 104% of the country's current OPEC production quota, up from 102% in May, highlighting continued gains in supply."
+    },
+    {
+      "id": "mkt:019f5ba6-50ec-7aab-8d5c-2218532c0c1b",
+      "time": "2026-07-13 21:24:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell more than 3% intraday, trading at $2.851/MMBtu."
+    },
+    {
+      "id": "4984946",
+      "time": "2026-07-13 21:23:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鞍鋼股份：預計2026年上半年虧損約20.47億元，上年同期虧損11.15億元】鞍鋼股份公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損約人民幣20.47億元，比上年同期（調整後）虧損11.15億元下降約83.59%；歸屬於上市公司股東的扣除非經常性損益後的淨利潤虧損約21.09億元，比上年同期（調整後）虧損12.31億元下降約71.32%；基本每股收益虧損約0.218元/股。上年同期調整後歸屬於上市公司股東的淨利潤虧損11.15億元。業績變動原因為：2026年上半年，鋼鐵行業供大於求局面仍未改變，鋼材售價持續低迷，鐵礦石、焦煤等原燃料價格高位執行，購銷兩端剪刀差持續收窄，利潤空間進一步壓縮，公司生產經營仍處於虧損局面。"
+    },
+    {
+      "id": "4984945",
+      "time": "2026-07-13 21:23:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯股價轉負。"
+    },
+    {
+      "id": "4984944",
+      "time": "2026-07-13 21:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：下薩克森州正洽談收購大眾工廠股權。"
+    },
+    {
+      "id": "4984943",
+      "time": "2026-07-13 21:22:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5512.00元。"
+    },
+    {
+      "id": "mkt:019f5ba5-064f-7aab-8d5c-1a96e6209b7e",
+      "time": "2026-07-13 21:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange issued a regulatory work letter to Aojing Medical Technology Co., Ltd. concerning related matters."
+    },
+    {
+      "id": "4984942",
+      "time": "2026-07-13 21:22:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆尚節能：收購金勝電子100%股權的交易預計推進週期較長，存在較大不確定性】恆尚節能在回覆上交所問詢函中表示，公司擬以不超過人民幣6億元的交易對價透過發行股份及支付現金方式收購金勝電子100%股權，但本次交易預計推進週期較長，存在較大不確定性，短期內標的公司業績無法納入公司合併報表。"
+    },
+    {
+      "id": "4984941",
+      "time": "2026-07-13 21:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏攻擊十餘處俄軍目標，俄打擊烏黑海港口】烏克蘭國家安全域性13日在社交媒體發文說，烏方當天凌晨動用無人機對俄羅斯十餘處軍事目標實施大規模打擊。俄羅斯國防部13日說，俄軍當天打擊了位於黑海的烏克蘭切爾諾莫斯克港。烏國家安全域性說，遭襲俄方目標包括克里米亞半島東北部一空軍基地、三座固定式雷達站、高加索港的三個儲油罐，以及斯塔夫羅波爾州維亞茲尼基的儲油罐區等。俄國防部13日通報說，俄軍當天凌晨使用高精度遠端武器和無人機實施叢集打擊，擊毀切爾諾莫斯克港用於裝卸和存放烏軍軍用物資的基礎設施、油料貯存設施和武器倉庫，以及為烏軍運送物資的兩艘渡船和一艘集裝箱船等。（新華社）"
+    },
+    {
+      "id": "4984940",
+      "time": "2026-07-13 21:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家糧食和物資儲備局向遼寧調運中央防汛物資支援做好防汛搶險工作】據國家糧食和物資儲備局訊息，7月13日，根據遼寧省防汛搶險工作需要，按照國家防總辦公室調令，國家糧食和物資儲備局緊急調運復膜編織布等價值171萬元中央防汛物資，支援遼寧省做好防汛搶險工作。"
+    },
+    {
+      "id": "4984939",
+      "time": "2026-07-13 21:21:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇順電子：擬向特定物件發行A股並開展多項業務】宇順電子公告稱，第六屆董事會第四十四次會議審議多項議案。公司擬向控股股東上海奉望實業發行A股，募資不超15億元用於補流償債，發行數量不超8407.61萬股。會議還透過未來三年股東分紅規劃、開展不超10億元融資租賃業務、為子公司提供不超17億元擔保額度等議案。此外，董事會同意聘任王璞為證券事務代表，並決定7月29日召開2026年第六次臨時股東會。"
+    },
+    {
+      "id": "4984938",
+      "time": "2026-07-13 21:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一架以色列無人機對加沙地帶南部汗尤尼斯西部的馬瓦西（Al-Mawasi）地區發動了空襲。"
+    },
+    {
+      "id": "mkt:019f5ba3-1be9-7aab-8d5c-14d4ccd21113",
+      "time": "2026-07-13 21:20:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says it will not allow US interference in Strait of Hormuz management】Iran’s top joint military command said it will not permit US interference in management of the Strait of Hormuz and that any US transit of the strait without Iranian authorization would be met with strong resistance. It warned regional governments that cooperation with the US would be treated as an act of war against Iran and said any escalation would affect all countries in the region, for which it held the US and its allies responsible. Iran said it will respond firmly to any US military actions outside Iran-designated shipping routes that interfere with or make passage unsafe for commercial vessels and oil tankers. It blamed frequent US incursions for endangering regional security, international trade and tanker navigation, and said cooperation by some regional states raises the risk of a wider conflict."
+    },
+    {
+      "id": "4984937",
+      "time": "2026-07-13 21:19:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統提議再延長國家戰時狀態90天】烏克蘭最高拉達（議會）官網13日釋出訊息說，烏總統澤連斯基當天向最高拉達遞交關於繼續延長國家戰時狀態90天的法令草案，提議將國家戰時狀態延期至10月31日。據烏克蘭國家通訊社報道，烏最高拉達將在近期就延長國家戰時狀態法令草案進行投票。這是自2022年初俄烏衝突升級以來，烏最高拉達第20次就延長國家戰時狀態進行投票審議。（新華社）"
+    },
+    {
+      "id": "mkt:019f5ba2-4b5d-7aab-8d5c-0f44af8bc3a5",
+      "time": "2026-07-13 21:19:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's president said he has ordered not to expand the scope of confrontations to prevent Iran from dragging Yemen into a conflict that serves Iranian interests."
+    },
+    {
+      "id": "te:markets:566407",
+      "time": "2026-07-13 21:19:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Traders Assess Middle East Developments — The dollar index was little changed at 100.9 on Monday, remaining near the level it has held throughout July as investors assessed developments in the Middle East while evaluating the outlook for US monetary policy. Fresh military exchanges between the US and Iran, along with conflicting reports over whether the Strait of Hormuz remains open to shipping, pushed oil prices higher. Markets are also awaiting this week's US CPI and PPI reports for further insight into inflation trends, as well as Fed Chair Warsh's testimony before Congress for additional clues on the central bank's policy path. Traders are currently pricing in at least one Fed interest rate hike this year, with the probability of a September increase hovering around 71%. The dollar weakened against the euro but strengthened against the yen, as the Japanese currency came under pressure following a Reuters report that Japan has no immediate plans to alter the asset allocation of its state pension funds."
+    },
+    {
+      "id": "4984936",
+      "time": "2026-07-13 21:19:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團斥資53.4億美元收購威廉姆斯旗下電力合資企業股權。"
+    },
+    {
+      "id": "te:economy:566406",
+      "time": "2026-07-13 21:18:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Arab Emirates",
+        "Crude Oil Production",
+        "Importance 2"
+      ],
+      "text": "United Arab Emirates Oil Output Highest since 2020 — The United Arab Emirates increased crude oil production by 1,707 thousand barrels per day to 3.818 million barrels per day in June 2026, the highest since April 2020, according to OPEC's monthly report. The increase followed the country's departure from OPEC at the end of April and reflected its efforts to restore exports after the interim US-Iran peace agreement allowed more shipments through the Strait of Hormuz. The UAE has expanded the use of its own tanker fleet while chartering additional vessels, including ships operated by South Korea's Sinokor Group, with some cargoes transported without active tracking signals. Output from Kuwait also increased to 1.394 million barrels per day, while Iraq pumped 2.09 million. In contrast, Saudi Arabia reduced production by 373,000 barrels to 6.637 million per day. The recovery in regional supply has since been clouded by renewed fighting around Hormuz, which has lifted oil prices and revived concerns over disruptions to global energy flows."
+    },
+    {
+      "id": "4984935",
+      "time": "2026-07-13 21:18:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝官員：沙特政權在沒有任何正當理由的情況下，對葉門的機場和港口施加不公正的封鎖，這完全無視了睦鄰友好關係以及人道主義和道德原則。"
+    },
+    {
+      "id": "4984934",
+      "time": "2026-07-13 21:17:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：加強碼頭、泊位等基礎設施和配套服務保障，推動遊艇消費大眾化】7月13日，交通運輸部黨組書記、部長劉偉在河北省秦皇島市調研檢查暑期交通運輸安全生產和服務保障工作。在北戴河溢油應急前線值守點，劉偉調研暑期溢油應急準備情況，登上“海事應急1”躉船，聽取應急值守保障、力量預置和應急反應能力建設等工作介紹。他強調，要堅持預防為主，加強水上交通安全監管，強化重大危險源提級管控，提高溢油應急聯動處置能力。在秦皇島港西港區遊艇碼頭，劉偉瞭解遊艇等產業發展情況，調研海事服務保障遊艇業高質量發展等工作。他強調，要加強碼頭、泊位等基礎設施和配套服務保障，推動遊艇消費大眾化，進一步規範遊艇安全管理，促進遊艇業健康發展。海事部門要著力完善遊艇監管機制，提升遊艇監管能力和水平。在秦皇島火車站，劉偉檢查暑期車站執行和安全保障情況，強調要精心做好運力統籌安排，推出更多暖心便民服務措施，確保群眾平安便捷出行。針對當前防汛形勢的嚴峻性和複雜性，劉偉要求，要壓實各方責任，強化汛期災害天氣主動防禦，深入推進突出問題專項治理，提升安全監管手段智慧化水平，持續推進汛期暑期重大風險隱患排查整治，保障交通重大基礎設施和在建工程度汛安全。"
+    },
+    {
+      "id": "4984933",
+      "time": "2026-07-13 21:17:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行表示，6月份美國信用卡消費額同比增長6.3%。"
+    },
+    {
+      "id": "4984932",
+      "time": "2026-07-13 21:17:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟對俄羅斯4名個人和5家實體實施制裁】歐盟理事會決定，對4名俄羅斯個人和5家實體實施制裁措施。歐盟表示，被制裁物件將被凍結在歐盟境內資產，歐盟公民和企業不得向其提供資金，同時相關個人還將被禁止入境或過境歐盟。（央視新聞）"
+    },
+    {
+      "id": "4984931",
+      "time": "2026-07-13 21:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美國計劃控制霍爾木茲海峽並獲利】美國總統特朗普13日稱，美國計劃控制霍爾木茲海峽，並應該因“守護”這條重要水道而獲得補償。特朗普在接受美國福克斯新聞頻道電話採訪時稱，“我們會守住海峽，而且很可能會掌控它。我們將成為海峽的守護者，並應該為此獲得補償。”特朗普還威脅對伊朗發動襲擊。他說：“他們（伊朗）總是撕毀協議。我們與這些人達成過10項協議，所以我們將非常嚴厲地打擊他們。”（新華社）"
+    },
+    {
+      "id": "mkt:019f5b9e-c103-7aab-8d5c-03243704feff",
+      "time": "2026-07-13 21:15:58",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "RBC: Sterling remains attractive on elevated yields even if the Bank of England pauses rate hikes."
+    },
+    {
+      "id": "4984930",
+      "time": "2026-07-13 21:15:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇順電子：擬向特定物件發行A股股票募集資金不超15億元】宇順電子公告，公司2026年度擬向特定物件發行A股股票，募集資金總額不超過15億元（含本數），扣除相關發行費用後的募集資金淨額擬全部用於償還債務和補充流動資金。本次向特定物件發行股票的發行物件為公司控股股東上海奉望，發行物件以現金方式認購公司本次發行的股票。本次向特定物件發行股票的定價基準日為發行期首日。發行價格不低於定價基準日前20個交易日公司股票交易均價的80%。若公司股票在本次發行的定價基準日至發行日期間發生派息、送股、資本公積轉增股本等除權、除息事項，本次發行價格將作出相應調整。本次向特定物件發行的股票數量按照募集資金總額除以發行價格確定，擬發行股數不超過8407.61萬股（含本數），不超過本次向特定物件發行前公司總股本的30%。若公司在本次發行的定價基準日至發行日期間發生派息、送股、資本公積轉增股本等除權、除息事項，本次發行的發行數量區間將做相應調整。最終發行股票數量將在本次發行經深圳證券交易所稽核透過並經中國證監會同意註冊後，由公司董事會或董事會授權人士根據股東會的授權於發行時根據實際情況與保薦機構（主承銷商）協商確定。"
+    },
+    {
+      "id": "mkt:019f5b9e-7015-7aab-8d5b-ffadc42fabce",
+      "time": "2026-07-13 21:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "RBC says GBP may extend gains versus EUR in the near term, but could weaken again as fiscal concerns resurface in late 2026."
+    },
+    {
+      "id": "4984929",
+      "time": "2026-07-13 21:15:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "威廉姆斯公司（WILLIAMS COMPANIES）與黑石、阿波羅、KKR簽署電力創新專案合作協議。"
+    },
+    {
+      "id": "4984928",
+      "time": "2026-07-13 21:15:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "威廉姆斯集團披露，將向電力創新合資專案注資53.4億美元。"
+    },
+    {
+      "id": "4984927",
+      "time": "2026-07-13 21:14:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天目藥業：控股股東擬轉讓20%股份 控制權或變更】天目藥業公告稱，公司控股股東匯隆華澤持有公司29.99%股份，擬透過公開徵集受讓方協議轉讓2435.58萬股，佔總股本20%。轉讓完成後，匯隆華澤持股降至9.99%，該事項可能導致公司控股股東及實控人變更。本次轉讓尚需國資部門批准，受讓方也不確定，最終轉讓價格將依據相關法規確定。"
+    },
+    {
+      "id": "4984926",
+      "time": "2026-07-13 21:14:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：上交所併購重組委7月20日稽核公司併購交易申請】中化裝備公告稱，公司擬發行股份購買益陽橡膠塑膠機械集團有限公司100%股權、藍星（北京）化工機械有限公司100%股權，並募集配套資金。上交所併購重組稽核委員會定於2026年7月20日召開會議，稽核本次交易申請。本次交易尚需上交所稽核透過及中國證監會同意註冊，能否取得批准和註冊及時間均不確定，公司將及時披露進展。"
+    },
+    {
+      "id": "4984925",
+      "time": "2026-07-13 21:13:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆釋出山洪災害氣象風險黃色預警】據央視新聞，新疆維吾爾自治區水利廳、新疆維吾爾自治區氣象局2026年7月13日18時聯合釋出山洪災害氣象風險黃色預警，預計7月13日20時至14日20時，克孜勒蘇柯爾克孜自治州阿克陶縣、喀什地區塔什庫爾干塔吉克自治縣的區域性地區發生山洪災害可能性較大（黃色預警）；巴音郭楞蒙古自治州且末縣、克孜勒蘇柯爾克孜自治州烏恰縣、喀什地區莎車縣、葉城縣的區域性地區可能發生山洪災害（藍色預警）；其他預報降水區域也可能因局地短歷時強降水引發山洪災害。"
+    },
+    {
+      "id": "4984924",
+      "time": "2026-07-13 21:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天際股份：公司股票將於7月15日起被實施其他風險警示】天際股份公告，公司於2026年7月13日收到廣東證監局下發的《行政處罰事先告知書》，認定公司披露的2023年年度報告存在虛假記載。根據《深圳證券交易所股票上市規則（2026年修訂）》第9.8.1條之第（八）項規定，公司股票自2026年7月15日起被實施其他風險警示，股票簡稱由“天際股份”變更為“ST天際”，證券程式碼仍為“002759”，股票交易的日漲跌幅限制不變，仍為10%。公司股票自2026年7月14日（星期二）開市起停牌一天，將於2026年7月15日（星期三）開市起復牌。"
+    },
+    {
+      "id": "4984923",
+      "time": "2026-07-13 21:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天際股份：預計2026年上半年淨利潤為2.2億元–2.6億元，上年同期虧損5236.08萬元】天際股份公告，預計2026年1月1日—2026年6月30日歸屬於上市公司股東的淨利潤為盈利2.2億元–2.6億元，上年同期虧損5236.08萬元；扣除非經常性損益後的淨利潤為盈利2.2億元–2.6億元，上年同期虧損5638.71萬元；基本每股收益為盈利0.44元/股–0.52元/股，上年同期虧損0.10元/股。公司主要產品六氟磷酸鋰從2025年第四季度開始供需形勢發生變化，盈利能力恢復。"
+    },
+    {
+      "id": "mkt:019f5b9c-b271-7aab-8d5b-f6ffd3b0d675",
+      "time": "2026-07-13 21:13:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme Joint Military Command said repeated US adventurism and malign actions attempting to interfere with management of the Strait of Hormuz have seriously endangered regional security, international trade and the safe passage of oil tankers and commercial vessels. The command added that cooperation by certain regional states has raised the risk of a wider regional war."
+    },
+    {
+      "id": "4984922",
+      "time": "2026-07-13 21:11:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連：7月13日夜間至14日夜間莊河市和長海縣區域性有大暴雨】據大連市防汛抗旱指揮部辦公室7月13日訊息，今年第9號颱風“巴威”將以每小時5-10公里的速度向北偏東方向緩慢移動，強度變化不大，14日白天將經山東半島移入黃海北部海面，15日以後逐漸變性為溫帶氣旋。受颱風殘渦與冷空氣共同影響，大連市將出現風雨天氣。據氣象部門預報，7月13日夜間至14日夜間，全市有大雨到暴雨，其中莊河市和長海縣區域性大暴雨。降雨期間可能伴有短時強降水、雷暴大風、雷電等強對流天氣。發生城市內澇、山洪、滑坡泥石流等地質災害風險較大。大連市防汛抗旱指揮部已啟動防汛四級應急響應。截至目前，莊河市、瓦房店市、長海縣啟動防汛三級應急響應，其他地區啟動防汛四級應急響應。"
+    },
+    {
+      "id": "mkt:019f5b9a-863b-7aab-8d5b-eb74b66f9c5d",
+      "time": "2026-07-13 21:11:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's top joint military command said Iran will resolutely respond to any interference with commercial vessels and oil tankers by US forces operating outside Iran-designated shipping routes and without permission from Iran's armed forces."
+    },
+    {
+      "id": "4984921",
+      "time": "2026-07-13 21:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電：擬20億元增資收購先導微電子50.63%股權】先導基電公告稱，公司擬與清遠先導特種材料有限公司和先導微電子簽署投資協議，以增資形式對先導微電子投資20億元，取得其50.63%股權實現控股。交易構成關聯交易，但不構成重大資產重組。該議案尚需提交公司2026年第三次臨時股東會審議。此外，會議還透過制定資訊披露事務管理制度及召開2026年第三次臨時股東會的議案，後者擬定於7月29日召開。"
+    },
+    {
+      "id": "4984920",
+      "time": "2026-07-13 21:09:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖的顧問兼助手穆罕默德·穆赫貝爾在社交平臺上寫道：“霍爾木茲海峽擁有歷史的教訓，對於伊朗民族而言，其戰略價值、安全利益和經濟利益是不可替代的。”"
+    },
+    {
+      "id": "te:markets:566402",
+      "time": "2026-07-13 21:08:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cocoa Futures Ease From 8-Month Highs — Cocoa futures traded around $5,700 per tonne, down from an eight-month high of $6,455 hit on July 9, as profit-taking and long liquidation followed signs of ample cocoa supplies from the top grower Ivory Coast. Data released on July 10 showed farmers shipped 2.07 MMT of cocoa to ports between October 1, 2025, and July 5, 2026, up 21% from a year earlier. Moreover, ICE-monitored cocoa inventories rose further to a nearly two-year high of 3,151,790 bags. However, concerns over the 2026/27 crop persisted, with Ivory Coast's main harvest expected to decline by more than 10% due to excessive El Niño-linked rainfall and poor crop management. Local farmers said soil moisture remained too high and more sunshine was needed to limit crop disease and support the September-to-February main crop after heavy rains flooded plantations in some regions in late June. They added that flowering will continue through September, with the harvest depending on how many flowers develop into pods."
+    },
+    {
+      "id": "mkt:019f5b98-4f9a-7aab-8d5b-e39eb6f4b975",
+      "time": "2026-07-13 21:08:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme Joint Military Command said if the conflict widens it would affect all countries in the region and that responsibility lies with the United States and its allies."
+    },
+    {
+      "id": "4984919",
+      "time": "2026-07-13 21:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部：若戰事擴大，戰火將蔓延至本地區所有國家，責任由美國及其盟友承擔。"
+    },
+    {
+      "id": "4984918",
+      "time": "2026-07-13 21:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部預測，7月13日當週生豬屠宰量為46.5萬頭，肉牛屠宰量為10.3萬頭。"
+    },
+    {
+      "id": "4984917",
+      "time": "2026-07-13 21:08:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2507.00元。"
+    },
+    {
+      "id": "4984916",
+      "time": "2026-07-13 21:07:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST葫蘆娃：變更部分募集資金投資子專案並轉讓原專案】ST葫蘆娃公告稱，公司結合行業環境等因素，擬對“藥品研發專案”內部資金使用結構調整。終止鹽酸左旋沙丁胺醇異丙託溴銨霧化吸入溶液、酒石酸阿福特羅霧化吸入溶液研發專案，前者擬1760萬元轉讓給北京盈科瑞創新藥物研究有限公司。涉及變更投向的募集資金1104萬元，佔募集資金總額5.30%。該事項已透過董事會審議，尚需股東會審議。"
+    },
+    {
+      "id": "mkt:019f5b96-9dee-7aab-8d5b-dd22f5de9241",
+      "time": "2026-07-13 21:07:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme Joint Military Command warned regional leaders that any cooperation with the United States would be treated as an act of war against Iran."
+    },
+    {
+      "id": "4984915",
+      "time": "2026-07-13 21:06:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將繼續打擊伊朗 “守護”霍爾木茲海峽】美國總統特朗普表示，美國可能接管霍爾木茲海峽，並應就維護這一重要國際水道的安全獲得補償。特朗普當天在接受電話採訪時表示，美國將“守住”霍爾木茲海峽，並“很可能會運營它”。他說，美國將成為霍爾木茲海峽的“守護者”。特朗普表示，美國之所以應該獲得補償，是因為美國“讓自己的人員身處危險之中”。此外，特朗普稱，由於伊朗方面未能履行雙方此前達成的協議，美國將繼續對伊朗實施打擊，“每當伊朗發射無人機，美國都會予以強力回擊”。（央視新聞）"
+    },
+    {
+      "id": "4984914",
+      "time": "2026-07-13 21:06:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5568.00元。"
+    },
+    {
+      "id": "mkt:019f5b95-6778-7aab-8d5b-d107b518b68e",
+      "time": "2026-07-13 21:05:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme Joint Military Command warned any U.S. attempt to transit the strait without Iran's authorization will be met with forceful opposition."
+    },
+    {
+      "id": "4984913",
+      "time": "2026-07-13 21:05:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局受理BioMarin製藥VOXZOGO的補充新藥申請，擬授予完全批准。"
+    },
+    {
+      "id": "4984912",
+      "time": "2026-07-13 21:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部表示，美國任何未經伊朗許可試圖通行霍爾木茲海峽的行為都將遭到強硬回擊。"
+    },
+    {
+      "id": "4984911",
+      "time": "2026-07-13 21:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部稱，伊朗不會允許美國干預霍爾木茲海峽的管理事務。"
+    },
+    {
+      "id": "4984910",
+      "time": "2026-07-13 21:04:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）披露檔案，海德科公司（HEICO Corp）提交混合上架儲架發行申請，發行規模未披露。"
+    },
+    {
+      "id": "4984909",
+      "time": "2026-07-13 21:04:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4447.00元。"
+    },
+    {
+      "id": "4984908",
+      "time": "2026-07-13 21:04:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蓮花控股：預計2026年上半年淨利潤同比增長48.75%至61.14%】蓮花控股公告，預計2026年上半年度實現歸屬於上市公司股東的淨利潤2.4億元至2.6億元，與上年同期相比，將增加7865.23萬元至9865.23萬元，同比增長48.75%至61.14%。實現歸屬於上市公司股東的扣除非經常性損益的淨利潤2億元至2.2億元，與上年同期相比，將增加3859.77萬元至5859.77萬元，同比增長23.91%至36.31%。"
+    },
+    {
+      "id": "4984907",
+      "time": "2026-07-13 21:04:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "KRAKEN：KRAKEN卡現已在英國及歐洲經濟區向符合條件的客戶開放，更多市場即將推出。"
+    },
+    {
+      "id": "mkt:019f5b93-deec-7aab-8d5b-cd7a4fd978e0",
+      "time": "2026-07-13 21:04:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Supreme Joint Military Command said Iran will not allow the United States to interfere in the management of the Strait of Hormuz."
+    },
+    {
+      "id": "4984906",
+      "time": "2026-07-13 21:03:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯出口額五月增至428.91億美元。"
+    },
+    {
+      "id": "4984905",
+      "time": "2026-07-13 21:03:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州高鐵：控股股東擬變更 控制權或生變】神州高鐵公告稱，7月13日，控股股東國投高新與浙江經投、浙江智新簽署增資合同，國投高新以6億股公司股份、浙江經投以現金向浙江智新增資。增資後，浙江經投、國投高新分別持有浙江智新51%、49%股權。權益變動後，浙江智新將持有公司22.09%股份，控股股東將變更為浙江智新，實控人變為浙江省國資委。本次變更尚需多部門批准及完成過戶登記等程式，最終能否實施完成及時間不確定。"
+    },
+    {
+      "id": "4984904",
+      "time": "2026-07-13 21:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅爾斯·羅伊斯：羅爾斯·羅伊斯為斯塔納航運全新混合動力近海船隊提供動力，所供動力裝置為MTU 4000系列發動機。"
+    },
+    {
+      "id": "4984903",
+      "time": "2026-07-13 21:02:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST長園：因資訊披露違法違規 公司及相關人員遭行政處罰】ST長園公告稱，公司及相關人員收到深圳證監局下發的《行政處罰決定書》。2023年7月至2025年1月期間，時任董事長、總經理吳啟權安排公司透過預付款方式將資金轉至其控制公司，用於償還個人債務等，非經營性資金佔用發生額為108,666.32萬元，公司未及時披露該關聯交易。深圳證監局決定對公司處以160萬元罰款，對吳啟權處以180萬元罰款，對姚澤處以80萬元罰款。目前公司已完成整改，吳啟權、姚澤均已離職。"
+    },
+    {
+      "id": "4984902",
+      "time": "2026-07-13 21:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠通科技：擬使用超募資金1億元收購誠瑞科技51%股權】綠通科技公告，公司擬使用超募資金4026.83萬元受讓蔣建軍、蘇州融享進取創業投資合夥企業（有限合夥）持有的誠瑞科技合計29.4773%的股權（對應標的公司98.2577萬元註冊資本），並使用超募資金6000萬元對誠瑞科技進行增資並取得增資後30.5188%的股權（對應標的公司146.4129萬元註冊資本）。本次交易完成後，公司合計持有誠瑞科技51%的股權（對應標的公司增資後244.6706萬元註冊資本），標的公司將成為上市公司控股子公司，納入上市公司合併報表範圍。"
+    },
+    {
+      "id": "4984901",
+      "time": "2026-07-13 21:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【實益達：控股股東陳亞妹及喬昕擬合計減持不超3%】實益達公告，控股股東、董事陳亞妹及一致行動人、股東、董事、執行長（CEO）喬昕因自身資金需求，合計擬減持公司股份不超過1732.51萬股，不超過公司當前總股本的3%。減持方式為大宗交易或集中競價交易，減持期間為自公告披露之日起15個交易日後的3個月內。"
+    },
+    {
+      "id": "4984900",
+      "time": "2026-07-13 21:02:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣價格上漲 中東衝突令供應前景蒙上陰影】在美國和伊朗再次相互發動襲擊、雙方就霍爾木茲海峽是否仍對航運開放各執一詞後，歐洲天然氣價格追隨油價上漲。歐洲天然氣基準期貨週一一度上漲4.5%，延續上週漲勢。目前價格維持在每兆瓦時50歐元上方，接近美伊簽署臨時和平協議以來的最高水平。美國中央司令部表示，美軍打擊了數十個目標，以削弱伊朗威脅霍爾木茲海峽這一狹窄航道航運安全的能力。與此同時，伊朗對美國在中東地區的盟友發動襲擊，並宣佈霍爾木茲海峽將“關閉，直至另行通知”。不過，西方海軍堅持認為，該海峽仍保持開放。"
+    },
+    {
+      "id": "4984899",
+      "time": "2026-07-13 21:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：本次調查與極右翼恐怖主義相關，關聯針對一場伊斯蘭活動的可疑威脅。"
+    },
+    {
+      "id": "4984898",
+      "time": "2026-07-13 21:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：倫敦反恐警務部門在一項調查中總共逮捕了12人。"
+    },
+    {
+      "id": "mkt:019f5b90-cc64-7aab-8d5b-c42993eb1280",
+      "time": "2026-07-13 21:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN CENBANK reported Russia's May trade surplus at $14.15 bln."
+    },
+    {
+      "id": "mkt:019f5b90-7ea7-7aab-8d5b-b8aa7707da0c",
+      "time": "2026-07-13 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals"
+      ],
+      "text": "China night session: most-active domestic futures opened mixed. Benzene, SC crude, fuel oil and low-sulfur fuel oil (LU) were up >1%. On the downside, benzene and PVC fell >1%; Shanghai silver, coke and methanol slipped about 1%."
+    },
+    {
+      "id": "4984897",
+      "time": "2026-07-13 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】生豬連續跌2.67%，集運指數歐線期貨連續跌1.81%，蘋果連續跌1.73%，鉑連續跌1.63%，紅棗連續跌1.59%。"
+    },
+    {
+      "id": "4984896",
+      "time": "2026-07-13 20:59:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月10日美國有效聯邦基金利率為3.62%，當日成交規模為1260億美元；7月9日有效聯邦基金利率同樣為3.62%，成交規模也為1260億美元。"
+    },
+    {
+      "id": "4984895",
+      "time": "2026-07-13 20:59:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST椰島：全資子公司與關聯方共同投資設立兩家控股孫公司】*ST椰島公告稱，公司全資子公司與關聯方共同投資，分別在海南省海口市設立佳品商業（註冊資本1000萬元）及共發食品（註冊資本1000萬元）。公司全資子公司分別出資510萬元，均持股51%。本次交易構成關聯交易，但未構成重大資產重組。過去12個月內，公司與同一關聯人實際控制主體發生的關聯交易累計金額為3155.06萬元，超過公司最近一期經審計淨資產的5%。本次關聯交易已透過相關會議審議，豁擴音交股東會審議。投資可能面臨宏觀政策、市場變化等風險。"
+    },
+    {
+      "id": "4984894",
+      "time": "2026-07-13 20:59:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通表示，土耳其通脹居高不下，需要採取適度減稅措施。"
+    },
+    {
+      "id": "4984892",
+      "time": "2026-07-13 20:58:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯：控股股東小康控股擬增持公司股份1.5億元至3億元】賽力斯公告，控股股東重慶小康控股有限公司持有公司4.01億股，佔公司總股本22.99%。小康控股基於對公司未來發展的信心和長期投資價值的認可，計劃自公告披露之日起6個月內，透過集中競價方式以自有資金增持公司A股股份，累計增持金額不低於1.5億元且不超過3億元。本次增持不設價格區間，小康控股將根據市場及股價情況擇機實施。"
+    },
+    {
+      "id": "4984891",
+      "time": "2026-07-13 20:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通攜手震有科技星地融合組網 實現里程碑突破】近日，震有科技成功中標“2026年中國聯通研究院專用網路連線及業務管理系統”專案，進一步拓展公司在星地融合、衛星網際網路與物聯車聯創新應用領域的落地場景。該專案服務於中國聯通研究院承接的北京市產業創新叢集重點支撐專案《面向物聯車聯的星地融合技術研究及應用驗證》，將圍繞星地異構融合、跨網統一管理、多元星座接入及業務驗證示範等需求，構建專用網路連線與業務管理支撐能力。此次攜手中國聯通不僅是震有科技在星地融合組網及物聯車聯領域的又一關鍵落地，更是雙方在支撐空天地一體化網路演進、推動衛星網際網路商業化程序中，取得了里程碑式的戰略突破。"
+    },
+    {
+      "id": "4984890",
+      "time": "2026-07-13 20:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達將8月海洋原油官方售價（OSP）定為阿曼/迪拜報價貼水5美元/桶；陸地原油官方售價定為阿曼/迪拜報價貼水4.50美元/桶。"
+    },
+    {
+      "id": "4984889",
+      "time": "2026-07-13 20:57:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷神技術公司旗下柯林斯航空航天被貝爾德事隆選中，為美國陸軍MV-75“夏延”旋翼機供應五套系統。"
+    },
+    {
+      "id": "mkt:019f5b8d-da67-7aab-8d5b-b0d1a7415c91",
+      "time": "2026-07-13 20:57:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kazakhstan's oil ministry said oil production fell 8.4% in 1H."
+    },
+    {
+      "id": "4984888",
+      "time": "2026-07-13 20:57:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈薩克上半年石油產量下降8.4%。"
+    },
+    {
+      "id": "mkt:019f5b8d-303f-7aab-8d5b-adb55ace5247",
+      "time": "2026-07-13 20:56:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar set August official selling prices (OSP) for crude: marine grade at USD5/bbl below Oman/Dubai quotes; onshore grade at USD4.50/bbl below Oman/Dubai."
+    },
+    {
+      "id": "4984887",
+      "time": "2026-07-13 20:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崔士鑫已任中國記協黨組書記】7月13日，中國記協官網資訊顯示，崔士鑫已任中國記協黨組書記。"
+    },
+    {
+      "id": "mkt:019f5b8b-e125-7aab-8d5b-a7c9adc7042c",
+      "time": "2026-07-13 20:55:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump: Iran always breaks agreements, so we'll hit them hard】President Trump said Iran \"always breaks agreements\" and vowed to \"hit them hard.\" He said most of Iran's equipment, including its air-defence guns, is gone and that US forces strike decisively when Iran sends drones. Trump said previous deals with Iran were repeatedly violated — \"we've made deals with these people 10 times\" — and that the US will control, and likely dominate, the Strait of Hormuz. He added the US has been defending the strait for free, will act as its \"guardian angel,\" and only seeks to recoup costs and be compensated for risks taken in the waterway."
+    },
+    {
+      "id": "4984884",
+      "time": "2026-07-13 20:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長稱，公司將審慎管控運力投放。"
+    },
+    {
+      "id": "mkt:019f5b8a-df16-7aab-8d5b-9de13adf7a47",
+      "time": "2026-07-13 20:54:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said France is a reliable, stable partner, committed to its obligations and to a policy of neutrality in conflicts it has not chosen, respect for international law, and the defense of freedoms including freedom of navigation."
+    },
+    {
+      "id": "4984883",
+      "time": "2026-07-13 20:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京表示，俄羅斯正在發展本國經濟、完善武裝力量，並在國防工業領域取得新成果。"
+    },
+    {
+      "id": "te:markets:566401",
+      "time": "2026-07-13 20:53:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Muted Amid Middle East Tensions — Futures tracking the S&P/TSX Composite Index were little changed on Monday as military exchanges between the US and Iran weighed on investor sentiment. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Bond yields rose as inflation concerns reinforced expectations that interest rates will remain higher for longer in North America, pressuring financial stocks and the broader index. Meanwhile, gold prices fell on expectations of a hawkish Fed, weighing on mining stocks. Investors also await the Bank of Canada's policy decision on Wednesday, with the central bank widely expected to keep its key interest rate unchanged at 2.25%."
+    },
+    {
+      "id": "4984882",
+      "time": "2026-07-13 20:52:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣基準期貨一度上漲4.5%，延續上週漲勢。"
+    },
+    {
+      "id": "4984881",
+      "time": "2026-07-13 20:52:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST東時：預計2026年上半年淨虧損1.9億-2.2億元】ST東時公告稱，預計2026年上半年歸屬於上市公司股東的淨利潤為-2.2億元至-1.9億元，扣非淨利潤為-9800萬元至-7300萬元，上年同期淨利潤為-1.07億元。業績預虧主要因受宏觀經濟及市場競爭影響，報名學員數量同比下滑，且全資子公司相關稅務支出計入當期損益。"
+    },
+    {
+      "id": "4984880",
+      "time": "2026-07-13 20:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國家疾病預防控制局和中國氣象局聯合釋出高溫健康風險預警】國家疾病預防控制局、中國氣象局7月13日18時聯合釋出高溫健康風險預警：預計，7月13日20時至14日20時，華北東部、黃淮中西部、江淮、江漢、江南中西部、華南西部、西南地區東部和南部、西北地區東南部及內蒙古、新疆等地高溫健康風險較高（黃色預警）；湖北、湖南、貴州、重慶、四川、河南、上海、浙江、江蘇、安徽、廣西、甘肅、陝西、內蒙古、新疆等地的部分地區高溫健康風險高（橙色預警），其中，湖北中部、湖南中北部、貴州中部、重慶中部和東南部、四川中東部、河南東南部、安徽南部、甘肅西北部、陝西中部、內蒙古西北部、新疆北部和東部等地高溫健康風險極高（紅色預警）。請公眾及時關注預警資訊變化，保持室內涼爽，避開高溫時段外出，減少戶外活動，保證充足飲水。老人、孕婦、兒童、慢性病患者加強關注自身健康狀況。"
+    },
+    {
+      "id": "mkt:019f5b88-7b9e-7aab-8d5b-943e997552c3",
+      "time": "2026-07-13 20:51:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Putin said Russia is improving its armed forces."
+    },
+    {
+      "id": "mkt:019f5b87-f132-7aab-8d5b-8c7daf48780e",
+      "time": "2026-07-13 20:51:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran MP vows to seek reparations from current and future generations of Americans】In a July 12 interview with Russia Today, Abolfazl Zohrevand, a member of Iran's parliamentary national-security and foreign-policy committee, said Iran is prepared for both war and peace and that the United States must acknowledge its \"strategic error\" and pay. He cited President Trump’s claim Iran suffered \"US$1 trillion in damage\" and said Iran will seek that compensation from \"current and future generations\" of Americans. He warned the conflict would not end soon and said \"all Iranians are prepared to take revenge on the United States.\""
+    },
+    {
+      "id": "4984879",
+      "time": "2026-07-13 20:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：擴大區域投行業務覆蓋範圍，在美國新增九名核心高階僱員。"
+    },
+    {
+      "id": "4984878",
+      "time": "2026-07-13 20:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議員稱將向幾代美國人追討賠償】在“今日俄羅斯”電視臺7月12日釋出的專訪中，伊朗議會國家安全與外交政策委員會成員阿布勒法茲勒·佐赫雷萬德表示，伊朗已做好戰爭與和平的兩手準備，而美國必須真正承認其“戰略錯誤”併為此付出代價。佐赫雷萬德稱，美國總統特朗普曾宣稱對伊朗造成了“1萬億美元損失”，而伊朗將向美國“當前和未來的幾代人”追討這筆賠償。他還警告稱，這場戰爭短期內無法結束，“所有伊朗人都準備向美國復仇”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4984877",
+      "time": "2026-07-13 20:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國設定2027財年原蔗糖配額約為110萬噸。"
+    },
+    {
+      "id": "4984876",
+      "time": "2026-07-13 20:49:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長稱國際出行旺季態勢十分向好。"
+    },
+    {
+      "id": "mkt:019f5b86-389c-7aab-8d5b-80834c821a99",
+      "time": "2026-07-13 20:49:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAL.N",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Delta Air Lines (DAL.N) said oil prices will remain \"sticky\" for longer, i.e. high levels are unlikely to ease."
+    },
+    {
+      "id": "4984875",
+      "time": "2026-07-13 20:49:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長表示，高油價局面將持續更久。"
+    },
+    {
+      "id": "mkt:019f5b85-fe7b-7aab-8d5b-7b2991fd7781",
+      "time": "2026-07-13 20:48:55",
+      "tags": [
+        "MKT News",
+        "DAL.N",
+        "Impact bullish"
+      ],
+      "text": "Delta Air Lines (DAL.N) says it will \"perform very well\" amid rising oil prices."
+    },
+    {
+      "id": "4984874",
+      "time": "2026-07-13 20:48:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普兩子投資國防科技企業 手握數十億美元軍方訂單】唐納德·特朗普總統的兩個兒子——小唐納德·特朗普與埃裡克·特朗普，佈局了一整套國防科技初創企業投資組合。這些企業正受益於美國國防部新的戰略重心與財政撥款，令美國國家安全層面的核心國家利益，與特朗普家族的個人財富深度捆綁交織。絕大多數投資行為發生在特朗普二度當選總統之後。自兄弟二人入股以來，這些企業合計拿下至少32億美元聯邦直接訂單，另有31億美元后續合同選擇權；其中部分企業躋身官方預選承包商短名單，可單獨競標未來總額近2000億美元的專案。 統計顯示，SpaceX與Anduril兩家頭部企業佔據相關專案直接撥款總額的97%、遠期合同額度的42%。若剔除這兩家巨頭，其餘13家與特朗普兄弟有關聯的初創公司，在二人投資後仍拿到1.8億美元長期聯邦合作意向與1.03億美元即時撥款。 15家企業裡，10家在特朗普兄弟入股前就已有政府業務，8家在拜登執政期間便手握官方合同；僅有5家是在其父就任總統、兄弟二人投資後才首次拿下聯邦訂單。"
+    },
+    {
+      "id": "4984873",
+      "time": "2026-07-13 20:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克下調2026年全球石油需求增長預期】石油輸出國組織（歐佩克）13日釋出《2026年7月石油市場月報》，將2026年全球石油需求增長預期較上月小幅下調至日均80萬桶。其中，經合組織國家需求增量約4萬桶/日，新增需求仍主要來自非經合組織經濟體。此外，報告認為，受市場預期中東地區緊張局勢緩和以及供應前景改善等因素影響，6月份國際油價明顯回落，但全球原油市場基本面仍保持穩定。(央視新聞)"
+    },
+    {
+      "id": "4984872",
+      "time": "2026-07-13 20:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗方面表示，不會被迫向“敵方”支付船隻過境費。"
+    },
+    {
+      "id": "4984871",
+      "time": "2026-07-13 20:47:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果調整Mac晶片路線圖，加速AI晶片研發】當地時間7月12日，科技記者發文稱，蘋果正調整Mac晶片路線圖，以適應AI發展需求。蘋果將在今年秋季推出M6基礎版晶片後，首次跳過M6 Pro、M6 Max和M6 Ultra等高階版本，直接推進M7系列研發，M7預計於2027年上半年釋出，M7 Ultra將於2028年推出。據悉，M7 Ultra將大幅提升AI效能，目標接近英偉達Blackwell等專用AI加速器，並有望成為蘋果下一代AI伺服器晶片基礎。此外，蘋果已著手研發AI能力更強的M8及後續晶片，2028年產品將採用1.4奈米制程。"
+    },
+    {
+      "id": "mkt:019f5b84-5901-7aab-8d5b-749271c75693",
+      "time": "2026-07-13 20:47:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "Sources say Xiyin is targeting a Hong Kong listing before August, seeking up to US$3bn in proceeds; IPO size will depend on valuation and investor feedback."
+    },
+    {
+      "id": "te:economy:566400",
+      "time": "2026-07-13 20:47:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "German Current Account Surplus Widens in May — Germany’s current account surplus reached €10.4 billion in May 2026, the smallest in a year but still above the €5.9 billion recorded in May 2025. The primary income surplus shifted to €5.7 billion, compared to a €2.3 billion deficit in May 2025. The goods surplus remained nearly unchanged at €15.4 billion, down slightly from €15.8 billion, as exports rose 0.6% to €112.9 billion and imports increased 1.1% to €97.5 billion. Meanwhile, the services deficit widened to €7.2 billion from €5.9 billion, and the secondary income gap grew to €3.5 billion from €1.6 billion. For January–May 2026, the current account surplus narrowed slightly to €88.7 billion from €90 billion."
+    },
+    {
+      "id": "4984870",
+      "time": "2026-07-13 20:46:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "KALSHI：將公開發布專業級桌面交易工作站KALSHI PRO。"
+    },
     {
       "id": "mkt:019f5b83-317e-7aab-8d5b-6f18f82b62e1",
       "time": "2026-07-13 20:45:52",
