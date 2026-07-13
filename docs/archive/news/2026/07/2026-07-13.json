@@ -1,7 +1,184 @@
 {
   "date": "2026-07-13",
-  "count": 1446,
+  "count": 1464,
   "items": [
+    {
+      "id": "4984038",
+      "time": "2026-07-13 16:10:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國下薩克森州正考慮對大眾汽車奧斯納布呂克工廠保留國有股權。"
+    },
+    {
+      "id": "4984037",
+      "time": "2026-07-13 16:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國船舶：預計2026年上半年淨利潤同比增長212.29%至273.39%】中國船舶公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤92億元至110億元之間，與上年同期相比，增加62.54億元至80.54億元之間，同比增加212.29%至273.39%；與上年同期（按合併完成後重述口徑）相比，增加54.23億元至72.23億元之間，同比增加143.56%至191.21%。公司預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤90億元至108億元之間，與上年同期相比，增加61.09億元至79.09億元之間，同比增加211.34%至273.61%；與上年同期（按合併完成後重述口徑）相比，增加61.09億元至79.09億元之間，同比增加211.34%至273.61%。"
+    },
+    {
+      "id": "mkt:019f5a86-f35f-7aab-8d53-fe0d8d9d5d58",
+      "time": "2026-07-13 16:10:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00100.HK",
+        "Impact bearish",
+        "09927.HK"
+      ],
+      "text": "At the Hong Kong close the HSI rose 0.16% while the Hang Seng Tech Index fell 0.96%. MINIMAX-W (00100.HK) slid 17.13%; SERES (09927.HK) dropped 13.56%."
+    },
+    {
+      "id": "te:markets:566331",
+      "time": "2026-07-13 16:09:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Plunges by 5.31% — Top commodity losers are Oat (-5.31%), Rubber (-1.15%) and Rice (-0.67%). Gains are led by Corn (1.38%)."
+    },
+    {
+      "id": "mkt:019f5a86-059e-7aab-8d53-f3388c72f4e2",
+      "time": "2026-07-13 16:09:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Wall Street (US)",
+        "Japan & APAC",
+        "FTSE100",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【War premium fades; Citigroup cuts UK equities two notches to underweight】Citigroup strategists led by Beata Manthey cut the UK equity allocation two notches to underweight in global asset allocation, citing the market’s defensive bias and heavy commodity/energy exposure as less attractive as geopolitical tensions ease. The team favors US and Japanese equities and leaves other European markets at neutral. They note the FTSE 100’s roughly 10% energy weight and near-35% allocation to defensive sectors (healthcare, staples) supported outperformance during the Iran-driven oil spike, but the index has lagged since the US and Iran announced a ceasefire on April 8."
+    },
+    {
+      "id": "4984036",
+      "time": "2026-07-13 16:09:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數下跌1%，報21546.42點。"
+    },
+    {
+      "id": "4984035",
+      "time": "2026-07-13 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.095%，恒生科技指數跌0.989%】華潤啤酒漲3.243%，中國宏橋漲3.182%，龍湖集團漲3.115%，農夫山泉漲2.969%，商湯-W跌5.674%，華虹宏力跌7.601%，MINIMAX-W跌17.498%。"
+    },
+    {
+      "id": "4984034",
+      "time": "2026-07-13 16:09:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【3倍做多韓國ETF-Direxion盤前大跌24%】隨著韓國股市再度大跌，美股盤前，3倍做多韓國ETF-Direxion下跌24%，2倍做多DRAM ETF-T-REX下跌20%，三倍做多半導體ETF-Direxion下跌超10%。2倍做多SNDK ETF-T-REX下跌超15%。"
+    },
+    {
+      "id": "mkt:019f5a85-6b8e-7aab-8d53-ee20c97ad414",
+      "time": "2026-07-13 16:08:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bearish",
+        "STX.O",
+        "WDC.O"
+      ],
+      "text": "US memory-chip makers' shares fell in premarket trading: Micron down 6.6%, SanDisk down 6.5%, Seagate down 5.4%, Western Digital down 6.6%."
+    },
+    {
+      "id": "4984033",
+      "time": "2026-07-13 16:08:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【氣派科技：預計2026年上半年淨利潤1200萬元左右，同比扭虧為盈】氣派科技公告，預計2026年上半年淨利潤1200萬元左右，較上年同期相比，將增加人民幣7066.86萬元左右，同比扭虧為盈。公司實現扭虧為盈，主要得益於半導體行業週期復甦，訂單充足、產能利用率提升，同比產量大幅提升，固定成本分攤大幅攤薄，生產成本下降；同時產品結構最佳化、銷售單價有所提升，毛利率得到改善，共同推動業績扭虧為盈。主營晶圓測試業務的子公司氣派芯競隨著產能的持續釋放，實現了業績扭虧為盈。"
+    },
+    {
+      "id": "mkt:019f5a85-1838-7aab-8d53-e29c58e11cdc",
+      "time": "2026-07-13 16:08:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said Tehran will not allow the Strait of Hormuz to become a threat to Iran's national security and said Iran remains committed to ensuring safe navigation through the waterway."
+    },
+    {
+      "id": "4984032",
+      "time": "2026-07-13 16:08:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西部黃金：2026年上半年淨利潤預增214.87%-333.39%】西部黃金公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為5億元-5.7億元，與上年同期法定披露資料相比，增加3.41億元-4.11億元，同比增加214.87%-258.95%；與追溯調整後資料相比，增加3.68億元-4.38億元，同比增加280.16%-333.39%。業績增長主要因黃金、電解錳和錳錠銷量及銷售價格上升，且2025年8月納入新疆美盛礦業有限公司合併報表範圍。"
+    },
+    {
+      "id": "4984031",
+      "time": "2026-07-13 16:08:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國儲存晶片製造商股價盤前下跌。美光科技下跌6.6%，閃迪下跌6.5%，希捷科技下跌5.4%，西部資料下跌6.6%。"
+    },
+    {
+      "id": "4984030",
+      "time": "2026-07-13 16:07:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【博通美股盤前跌超2%】博通美股盤前跌超2%，現報391.88美元。"
+    },
+    {
+      "id": "mkt:019f5a84-b735-7aab-8d53-def9afaeb501",
+      "time": "2026-07-13 16:07:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said the presence of US forces over the past four months has caused turmoil and insecurity in the region and that Tehran hopes regional states will draw lessons."
+    },
+    {
+      "id": "4984029",
+      "time": "2026-07-13 16:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局：“七下八上”防汛關鍵期將至，要充分認識到形勢的嚴峻性、複雜性、極端性】中國氣象區域性署“七下八上” 防汛關鍵期氣象服務保障工作。會議強調，“七下八上”防汛關鍵期將至，各級氣象部門要充分認識到形勢的嚴峻性、複雜性、極端性，進一步牢固樹立底線思維、極限思維，直面風險挑戰、保持高度警覺，推動觀測、預報、服務各環節咬合更緊、協同更暢，全面壓實政治責任，全力發揮氣象防災減災第一道防線作用。一要強化協同聯動，完善氣象災害應急響應機制。二要加強科技賦能，以科技成果應用提升汛期氣象服務實效。加強科技攻關、成果轉化、協同配合，保持互促共進的協同態勢，推動新技術新產品在汛期氣象服務中深度應用，確保科技成果轉化為預報能力和服務成效。三要緊跟新形勢、新需求，進一步做好宣傳科普工作。"
+    },
+    {
+      "id": "4984028",
+      "time": "2026-07-13 16:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神馬股份：預計2026年上半年淨利潤6600萬元】神馬股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤6600萬元左右，與上年同期相比，將實現扭虧為盈。報告期內，受行業市場供需關係等多種因素影響，公司主要產品售價較同期有所上升，因此，公司盈利水平較上年同期有所提升。"
+    },
+    {
+      "id": "4984027",
+      "time": "2026-07-13 16:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：我們需要在平臺上實施與年齡相符的限制。 這不是關於兒童是否可以訪問社交媒體。 而是關於社交媒體何時可以接觸我們的孩子。"
+    },
     {
       "id": "4984026",
       "time": "2026-07-13 16:06:27",
