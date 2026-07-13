@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-13 08:11:30",
-  "count": 16688,
+  "updated": "2026-07-13 08:15:22",
+  "count": 16695,
   "items": [
+    {
+      "id": "4983252",
+      "time": "2026-07-13 08:14:42",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：預計美股後續將維持震盪上行走勢】中信證券研報表示，美股本週AI主線交易動能顯著迴歸，SK海力士美股上市後股價上漲印證AI硬體產業鏈熱度持續，Meta擴建資料中心、亞馬遜發債籌資印證科技巨頭資本開支仍具韌性，有效緩解市場對AI領域投入節奏放緩的擔憂。我們預計美股後續將維持震盪上行走勢，建議關注：軟體、軍工、能源基建及金融板塊。"
+    },
+    {
+      "id": "mkt:019f58d3-77a4-7aab-8d48-3c3ce25ed667",
+      "time": "2026-07-13 08:14:41",
+      "tags": [
+        "MKT News",
+        "2330.TW",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【TSMC to report Q2 on Thursday; conference outlook crucial】TSMC will report Q2 results and hold an earnings briefing on Thursday. Analysts see the company likely to post strong results but view Q3 as uncertain. Liao Wanting, general manager at Uni‑President Investment Advisory, said global compute sales growth has recently shown signs of slowing; if management calms investor concerns over AI supply‑chain lead times and shipment disruptions at the briefing, the stock should rebound, but any signal to curb capex would validate market worries. She added AI growth remains positive but not yet strong enough to justify upward revisions, and supply‑chain bottlenecks are making firms cautious ahead of July earnings. Huang Yiting, chairman of First Securities Investment Advisory, called the briefing pivotal: better‑than‑expected results and positive guidance could push Taiwan stocks back toward or above prior highs. He warned that Samsung’s post‑earnings collapse reflected high leverage in Korean markets and is unlikely to be broadly replicated."
+    },
+    {
+      "id": "4983251",
+      "time": "2026-07-13 08:14:09",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "【中信證券：近期港股也有較為明顯的pair trading跡象 短期仍建議關注基本面確定性較高和有事件催化的方向】中信證券研報表示，本週央行行長潘功勝表態外儲將繼續增加在港的資產配置比例，推動港股連續第二週大幅反彈。目前港股未平倉賣空佔市值比例雖已從6月中旬的高點小幅回落至2.43%，但仍接近歷史均值三倍標準差以上的水平，內外部擾動因素逐步緩和下，預計未來將有較大的回落空間。但近期港股也有較為明顯的pair trading跡象，短期我們仍建議關注基本面確定性較高和有事件催化的方向，包括：創新藥、航空、機器人和強工業屬性金屬。"
+    },
+    {
+      "id": "4983250",
+      "time": "2026-07-13 08:12:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌4個基點至3.71%。"
+    },
+    {
+      "id": "4983249",
+      "time": "2026-07-13 08:12:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東戰事推高能源成本 歐盟擬加速電氣化轉型減少油氣依賴】今年以來，美以對伊朗發動戰爭致使高度依賴能源進口的歐洲地區油氣價格暴漲。一份歐盟委員會提案草案顯示，歐盟正計劃推出一系列政策和融資方案，以推動歐盟減少對石油和天然氣的依賴，加速歐盟經濟的電氣化轉型。據悉，這一草案將於7月17日由歐盟委員會正式公佈。根據草案，歐盟計劃設定一個目標，到2040年，歐盟整體經濟的能源消耗中至少要有一定比例來自電力。該草案目前仍在制定中，並未說明具體比例。加快電氣化轉型意味著歐盟將推動從汽油和柴油汽車過渡到電動汽車，讓家庭使用電力驅動的熱泵取代燃氣鍋爐，以及實現工業流程的電氣化——例如，用電力驅動的熔爐取代化石燃料熔爐。"
+    },
+    {
+      "id": "te:markets:566162",
+      "time": "2026-07-13 08:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slip Ahead of Earnings Deluge — US stock futures edged lower on Monday as investors prepared for a busy week of corporate earnings while keeping a close watch on escalating tensions in the Middle East. Major US banks, including JPMorgan Chase, Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and Wells Fargo, are set to report their latest quarterly results. Other companies scheduled to release earnings include Johnson & Johnson, GE Aerospace, UnitedHealth Group, Intuitive Surgical, and Netflix. S&P 500 companies are expected to post a 24% increase in second-quarter profits, offering a key test of whether strong earnings can support an artificial intelligence-driven rally. Investors are also awaiting key US inflation data this week for further clues on the Federal Reserve's policy outlook. Meanwhile, the US and Iran exchanged fresh missile strikes over the weekend amid persistent tensions over shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "4983248",
+      "time": "2026-07-13 08:11:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：關注2026-2027年民營商業航天企業的IPO程序】中信證券研報表示，7月10日，長征十號乙運載火箭首飛成功，完成全球首次火箭一子級海上網系可控回收，是我國商業航天產業化發展的關鍵里程碑。本次可回收發射任務的成功，有望推動我國衛星發射成本大幅下降，進而加速衛星組網程序，由此帶來的資本開支料將催生巨大投資機會。後續需重點聚焦民營可回收商業火箭領域，建議關注可回收商業火箭企業的回收技術驗證、衛星製造產能擴建的規模化落地進度，同時建議關注2026-2027年民營商業航天企業的IPO程序。"
+    },
+    {
+      "id": "4983247",
+      "time": "2026-07-13 08:11:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧：與康哲藥業達成一項中樞神經系統領域藥物研發新合作】英矽智慧7月13日公告，集團已與康哲藥業控股有限公司達成一項新的中樞神經系統領域藥物研發戰略合作。根據該合作的協議條款，雙方將結合英矽智慧已驗證的AI平臺與AI賦能創新藥研發能力，以及康哲藥業經驗豐富的研發團隊和對疾病領域的深度認知，共同推進創新藥合作開發。基於該合作，英矽智慧有望獲得總額最高約人民幣12億元的里程碑付款，以及淨銷售額分成。"
+    },
+    {
+      "id": "4983246",
+      "time": "2026-07-13 08:11:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：基藥目錄更新助創新藥可及性提升】華泰證券研報稱，7月9日，國家衛健委釋出《國家基本藥物目錄（2026年版）》，新版目錄將於9月1日起實施。據國家衛健委，本次調整為2018年版目錄以來的首次全面更新，共收錄藥品794種（含化藥/生物藥476種），新增品種116種（含化藥/生物藥68種）。本次目錄首次在遴選機制中將創新藥作為遴選方向，新納入4款國產一類創新藥（含化藥/生物藥3款）。華泰證券認為，創新藥支援政策正從審評審批、醫保準入延伸至基藥目錄、基層配備、規範使用及上下級醫療機構用藥銜接等環節，有望提升國產創新藥臨床可及性，延續了《全鏈條支援創新藥發展實施方案》以來的政策導向。"
+    },
+    {
+      "id": "4983245",
+      "time": "2026-07-13 08:11:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國夏糧產量創新高】國家統計局日前公佈了今年我國夏糧產量資料。今年，我國夏糧產量首次突破3000億斤，單產每畝378.8公斤，創歷史新高。豐收的背後有哪些硬核支撐？專家表示，夏糧再獲豐收核心是依靠品種創新與技術整合的雙輪驅動，支撐了大面積單產穩步提升。首先，優良品種的推廣應用築牢了增產根基。當前，我國小麥良種基本上實現了全覆蓋，主推品種向高產穩產、優質抗逆、綠色高效方向轉化升級。鄭麥1860、魯研951等高產品種百畝方畝產均超過840公斤，抗赤黴病品種揚麥53畝產達624.67公斤。其次，瞄準單產這一關鍵變數，近年來我國持續整合一批綠色高產高效技術模式、推廣一批增產增效關鍵技術、挖掘一批大面積整建制高產典型，全環節、全過程挖掘糧油單產潛力，加快形成“多技術整合、大面積普及”均衡增產的格局。（央視）"
+    },
     {
       "id": "mkt:019f58cf-8ab1-7aab-8d48-30ba5af21dc8",
       "time": "2026-07-13 08:10:24",
@@ -152048,32 +152140,6 @@
         "國際"
       ],
       "text": "【韓國SK海力士將啟動280億美元美國上市計劃 以順應全球人工智慧浪潮】據監管檔案顯示，韓國晶片製造商SK海力士將於週一啟動其約280億美元的美國上市計劃，這將是全球規模最大的新股發行之一，該公司正藉此把握全球人工智慧熱潮的機遇。該公司將在納斯達克市場透過存託憑證發行1779萬股新股，這將使其躋身全球市值最高的科技公司之列。每10股美國存託憑證（ADR）將代表1股普通股，股票將根據SK海力士在首爾的交易價格，在週一公佈的定價區間內進行發售。受全球投資者對AI股票需求激增的推動，SK海力士股價上漲1%，今年以來累計漲幅約為273%。週一早盤，韓國綜合股價指數(KOSPI)上漲0.2%。SK海力士是人工智慧熱潮中全球最大的受益者之一，其表現優於主要競爭對手三星電子和美光科技。監管檔案顯示，紐約上市的最終定價將於週四確定，股票將於週五開始交易。該公司管理層將於本週透過路演與全球投資者會面。預計此次募資規模將僅次於上月SpaceX創紀錄的857億美元首次公開募股（IPO），超過沙特阿美2019年256億美元的IPO，以及阿里巴巴2014年規模相近的IPO。"
-    },
-    {
-      "id": "4971231",
-      "time": "2026-07-06 08:14:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【G545綿茂公路恢復通行，交通管制解除】6日7時左右，從綿竹市相關部門獲悉，經現場勘驗，G545國道綿茂公路已基本具備安全通行條件，相關部門解除該路段全封閉交通管制，道路恢復雙向通行。此前，受綿竹地震影響，G545綿茂公路沿線存在山體滑坡、落石等安全風險，當地相關部門決定對綿茂公路全線（綿竹段至茂縣段）實施臨時性全域交通管制。（央視新聞）"
-    },
-    {
-      "id": "4971230",
-      "time": "2026-07-06 08:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港銀行上週五向金管局貼現窗借取約3.7億港元隔夜流動性】香港銀行於週五（3日）向金管局貼現窗借取3.71億港元隔夜流動性，週一（6日）回籠，銀行體系總結餘回落至541.57億港元。"
-    },
-    {
-      "id": "mkt:019f34c4-083a-7aab-8ca6-3857b31da6a7",
-      "time": "2026-07-06 08:11:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 9.80 points (-0.11%) at 8,834.60 on Monday, July 6."
     }
   ]
 }
