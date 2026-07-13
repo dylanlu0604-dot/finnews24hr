@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-14 04:23:53",
-  "count": 17218,
+  "updated": "2026-07-14 04:27:49",
+  "count": 17217,
   "items": [
+    {
+      "id": "4985344",
+      "time": "2026-07-14 04:27:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將啟動“鎬頭山”行動，告知伊朗做好準備。"
+    },
+    {
+      "id": "4985343",
+      "time": "2026-07-14 04:26:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：調幅廣播行業不會受到衝擊。"
+    },
+    {
+      "id": "4985342",
+      "time": "2026-07-14 04:24:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 這份諒解備忘錄某種程度上只是一次試探。 而他們並沒有遵守這次試探達成的約定。"
+    },
     {
       "id": "mkt:019f5d25-d99e-7aab-8d63-f370491bddf2",
       "time": "2026-07-14 04:23:09",
@@ -157404,42 +157429,6 @@
         "國際"
       ],
       "text": "明晟公司（MSCI）關於印尼市場公告：MSCI 將暫停上調外資納入係數（FIF）及可納入股份數量（NOS)。"
-    },
-    {
-      "id": "te:markets:564568",
-      "time": "2026-07-07 04:26:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Miners and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.2% to close at 35,212 on Monday, pressured by declines in mining and energy stocks. Gold miners led losses as a stronger dollar weighed on bullion prices. Agnico Eagle fell 1.6%, Barrick lost 2.4%, WPM retreated 2.6%, and Franco-Nevada dropped 3.4%. Energy shares also traded lower after oil prices fell further below pre-conflict levels as OPEC+ agreed to raise output targets again from August, while exports through the Strait of Hormuz continued to recover, improving the global supply outlook. Canadian Natural fell 1.3%, Imperial Oil lost 1.6%, and Cenovus shed 1.9%. In contrast, financials outperformed as lower oil prices pushed bond yields lower and reinforced expectations that the BoC will keep interest rates on hold. RBC gained 1.7%, TD Bank rose 0.8%, BMO added 1.2%, and Brookfield advanced 1.4%."
-    },
-    {
-      "id": "4973002",
-      "time": "2026-07-07 04:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI 將旗下 X 賬號更名為 SpaceXAI，並更換標識。"
-    },
-    {
-      "id": "4973001",
-      "time": "2026-07-07 04:24:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼： TKMS將向加拿大投入數百億加元投資。"
-    },
-    {
-      "id": "4973000",
-      "time": "2026-07-07 04:24:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大總理卡尼： 蒂森克虜伯海事系統公司（TKMS）提議調配德國與挪威訂單中的潛艇產能，從而實現首批 4 艘潛艇於 2034 年前提前交付。"
     }
   ]
 }
