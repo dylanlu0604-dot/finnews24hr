@@ -1,7 +1,131 @@
 {
   "date": "2026-07-13",
-  "count": 2464,
+  "count": 2477,
   "items": [
+    {
+      "id": "mkt:019f5bb7-43f4-7aab-8d5c-968ce917425c",
+      "time": "2026-07-13 21:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it will not allow the Strait of Hormuz to fall outside Iranian sovereign control, warned vessels that violate its authority will face decisive punishment, and said the US would be punished again if it seeks to entrench such breaches."
+    },
+    {
+      "id": "4984970",
+      "time": "2026-07-13 21:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將 SAIA INC <SAIA.O>  評級從中性上調至買入；目標價從499美元上調至502美元。"
+    },
+    {
+      "id": "4984969",
+      "time": "2026-07-13 21:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4984967",
+      "time": "2026-07-13 21:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：我們繼續維護對霍爾木茲海峽的管轄與控制權。"
+    },
+    {
+      "id": "te:markets:566428",
+      "time": "2026-07-13 21:40:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Edges Up — The Swiss franc rose above $0.809 while US-Iran tensions increase demand for safe-haven assets. US-Iran tensions remained elevated after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Conflicting statements over the Strait of Hormuz further heightened uncertainty, with President Donald Trump insisting the waterway remained open to commercial shipping while Tehran claimed it had closed the strait after intercepting two vessels it said were using an unauthorized route. As a result, oils prices surged although the US dollar remained stable. At the same time, concerns over supply disruptions and its impact on inflation boosted demand for safe-haven assets and strengthened the Swiss franc. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation and imported inflation."
+    },
+    {
+      "id": "4984966",
+      "time": "2026-07-13 21:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜計劃新建港口以繞開霍爾木茲海峽。"
+    },
+    {
+      "id": "4984965",
+      "time": "2026-07-13 21:40:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾基亞股價走低，最新下跌5%。"
+    },
+    {
+      "id": "te:economy:566427",
+      "time": "2026-07-13 21:40:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Rise — The yield on the US 10-year Treasury note rose toward 4.59% on Monday, extending Friday's gains to its highest level in nearly two months, while the two-year Treasury yield climbed to its highest level since early 2025. The US and Iran exchanged fresh military strikes, and conflicting reports persisted over whether the Strait of Hormuz remains open to shipping. The resulting rise in oil prices heightened concerns that renewed energy cost pressures could fuel inflation. Markets are also awaiting this week's US CPI and PPI reports for further insight into inflation trends, as well as Fed Chair Warsh's testimony before Congress for additional clues on the central bank's policy path. Traders are currently pricing in at least one Federal Reserve interest rate hike this year, with the probability of a September increase hovering around 71%."
+    },
+    {
+      "id": "mkt:019f5bb4-e6fc-7aab-8d5c-8fc4529b45ed",
+      "time": "2026-07-13 21:40:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Financial Times reports Dubai plans to build a new port to bypass the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:566426",
+      "time": "2026-07-13 21:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.17% Higher — The Dow Jones Index is up by 88 points or 0.17 percent on Monday. Top gainers are Chevron (2.15%), Apple (2.06%) and IBM (1.85%). Biggest losses came from Cisco Systems (-2.31%), Boeing (-1.14%) and Caterpillar (-1.09%)."
+    },
+    {
+      "id": "4984964",
+      "time": "2026-07-13 21:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：美國干涉霍爾木茲海峽，嚴重危及全球油氣供應安全。"
+    },
+    {
+      "id": "mkt:019f5bb3-e48f-7aab-8d5c-866b45feb03a",
+      "time": "2026-07-13 21:39:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry spokesman Baghaei vows revenge for slain Iranians】Iran foreign ministry spokesman Baghaei said on July 13 Tehran will avenge the slain Iranian Supreme Leader Ali Khamenei and all Iranians killed or wounded in US and Israeli attacks, calling revenge \"a basic principle and a common public demand.\" He said the ministry is recording alleged crimes through international legal channels and seeking justice. Baghaei accused the US of pressuring Oman, saying a planned Iran‑Oman Strait of Hormuz joint management mechanism failed because of US pressure. After four rounds of US‑Iran exchanges last week, he warned Tehran will not hesitate to defend itself and that any foreign territory used to attack Iran will be included within the scope of its defensive strikes."
+    },
+    {
+      "id": "4984963",
+      "time": "2026-07-13 21:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：裡海管道聯盟6月石油出口量較5月下降7%，至644.2萬噸。"
+    },
     {
       "id": "mkt:019f5bb2-f805-7aab-8d5c-7da2114a3ca0",
       "time": "2026-07-13 21:38:03",

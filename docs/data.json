@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-13 21:39:18",
-  "count": 17140,
+  "updated": "2026-07-13 21:43:21",
+  "count": 17135,
   "items": [
+    {
+      "id": "mkt:019f5bb7-43f4-7aab-8d5c-968ce917425c",
+      "time": "2026-07-13 21:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it will not allow the Strait of Hormuz to fall outside Iranian sovereign control, warned vessels that violate its authority will face decisive punishment, and said the US would be punished again if it seeks to entrench such breaches."
+    },
+    {
+      "id": "4984970",
+      "time": "2026-07-13 21:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將 SAIA INC <SAIA.O>  評級從中性上調至買入；目標價從499美元上調至502美元。"
+    },
+    {
+      "id": "4984969",
+      "time": "2026-07-13 21:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4984967",
+      "time": "2026-07-13 21:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：我們繼續維護對霍爾木茲海峽的管轄與控制權。"
+    },
+    {
+      "id": "te:markets:566428",
+      "time": "2026-07-13 21:40:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Edges Up — The Swiss franc rose above $0.809 while US-Iran tensions increase demand for safe-haven assets. US-Iran tensions remained elevated after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Conflicting statements over the Strait of Hormuz further heightened uncertainty, with President Donald Trump insisting the waterway remained open to commercial shipping while Tehran claimed it had closed the strait after intercepting two vessels it said were using an unauthorized route. As a result, oils prices surged although the US dollar remained stable. At the same time, concerns over supply disruptions and its impact on inflation boosted demand for safe-haven assets and strengthened the Swiss franc. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation and imported inflation."
+    },
+    {
+      "id": "4984966",
+      "time": "2026-07-13 21:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜計劃新建港口以繞開霍爾木茲海峽。"
+    },
+    {
+      "id": "4984965",
+      "time": "2026-07-13 21:40:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾基亞股價走低，最新下跌5%。"
+    },
+    {
+      "id": "te:economy:566427",
+      "time": "2026-07-13 21:40:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Rise — The yield on the US 10-year Treasury note rose toward 4.59% on Monday, extending Friday's gains to its highest level in nearly two months, while the two-year Treasury yield climbed to its highest level since early 2025. The US and Iran exchanged fresh military strikes, and conflicting reports persisted over whether the Strait of Hormuz remains open to shipping. The resulting rise in oil prices heightened concerns that renewed energy cost pressures could fuel inflation. Markets are also awaiting this week's US CPI and PPI reports for further insight into inflation trends, as well as Fed Chair Warsh's testimony before Congress for additional clues on the central bank's policy path. Traders are currently pricing in at least one Federal Reserve interest rate hike this year, with the probability of a September increase hovering around 71%."
+    },
+    {
+      "id": "mkt:019f5bb4-e6fc-7aab-8d5c-8fc4529b45ed",
+      "time": "2026-07-13 21:40:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Financial Times reports Dubai plans to build a new port to bypass the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:566426",
+      "time": "2026-07-13 21:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.17% Higher — The Dow Jones Index is up by 88 points or 0.17 percent on Monday. Top gainers are Chevron (2.15%), Apple (2.06%) and IBM (1.85%). Biggest losses came from Cisco Systems (-2.31%), Boeing (-1.14%) and Caterpillar (-1.09%)."
+    },
+    {
+      "id": "4984964",
+      "time": "2026-07-13 21:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：美國干涉霍爾木茲海峽，嚴重危及全球油氣供應安全。"
+    },
+    {
+      "id": "mkt:019f5bb3-e48f-7aab-8d5c-866b45feb03a",
+      "time": "2026-07-13 21:39:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry spokesman Baghaei vows revenge for slain Iranians】Iran foreign ministry spokesman Baghaei said on July 13 Tehran will avenge the slain Iranian Supreme Leader Ali Khamenei and all Iranians killed or wounded in US and Israeli attacks, calling revenge \"a basic principle and a common public demand.\" He said the ministry is recording alleged crimes through international legal channels and seeking justice. Baghaei accused the US of pressuring Oman, saying a planned Iran‑Oman Strait of Hormuz joint management mechanism failed because of US pressure. After four rounds of US‑Iran exchanges last week, he warned Tehran will not hesitate to defend itself and that any foreign territory used to attack Iran will be included within the scope of its defensive strikes."
+    },
+    {
+      "id": "4984963",
+      "time": "2026-07-13 21:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：裡海管道聯盟6月石油出口量較5月下降7%，至644.2萬噸。"
+    },
     {
       "id": "mkt:019f5bb2-f805-7aab-8d5c-7da2114a3ca0",
       "time": "2026-07-13 21:38:03",
@@ -156168,173 +156292,6 @@
         "NDAQ"
       ],
       "text": "President Trump praised the CEO of Intercontinental Exchange and the heads of the New York Stock Exchange and Nasdaq."
-    },
-    {
-      "id": "4972658",
-      "time": "2026-07-06 21:42:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普讚揚國際交易所執行長、紐約證券交易所和納斯達克的負責人。"
-    },
-    {
-      "id": "4972657",
-      "time": "2026-07-06 21:42:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "穆迪評級機構授予L&T沙特公司Baa1評級，展望穩定。"
-    },
-    {
-      "id": "4972656",
-      "time": "2026-07-06 21:42:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Element Solutions股價下跌4.4%，Solstice Advanced Materials將以145億美元交易收購該公司。"
-    },
-    {
-      "id": "4972655",
-      "time": "2026-07-06 21:41:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOLSTICE股價下跌14.1%。"
-    },
-    {
-      "id": "mkt:019f37a9-e45d-7aab-8cb5-939bca008458",
-      "time": "2026-07-06 21:41:48",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Hong Kong chief executive Lee Ka-chiu meets PBOC's Pan】Hong Kong chief executive Lee Ka-chiu met PBOC's Pan Gongsheng on July 6 to discuss economic and financial issues; Financial Secretary Paul Chan and Secretary for Financial Services and the Treasury Christopher Hui attended. Lee said China’s 15th Five-Year Plan supports measures to strengthen Hong Kong’s role as an international financial centre, explicitly citing development of a global offshore RMB hub, international asset and wealth management centre, international risk management centre and a commodities trading ecosystem. The HKSAR is drafting its first five‑year plan to align with those national priorities and said it will push greater mainland-market connectivity, promote two-way capital flows and enhance Hong Kong’s competitiveness as an international financial centre."
-    },
-    {
-      "id": "4972654",
-      "time": "2026-07-06 21:41:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【香港特區行政長官李家超與央行行長潘功勝會面】香港特區政府行政長官李家超今日（七月六日）與中國人民銀行行長潘功勝會面，就經濟金融議題交流意見。財政司司長陳茂波和財經事務及庫務局局長許正宇亦有出席。李家超歡迎潘功勝行長率團到訪香港。李家超表示，國家「十五五」規劃支援香港鞏固提升國際金融中心地位，強化全球離岸人民幣業務樞紐、國際資產及財富管理中心、國際風險管理中心功能，構建大宗商品交易生態圈。特區政府正全速編制香港第一個五年規劃，積極把握國家十五五規劃帶來的重大機遇，推動國際金融中心高質量發展。特區政府會繼續善用香港在一國兩制下背靠祖國、聯通世界的獨特優勢，持續推動與內地金融市場互聯互通，促進兩地資金雙向流動，進一步增強香港國際金融中心的競爭力。（香港特區政府）"
-    },
-    {
-      "id": "mkt:019f37a9-b9a8-7aab-8cb5-8f2f7e76cef5",
-      "time": "2026-07-06 21:41:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【BESSENT: Trump accounts to give next generation a stake in the American Dream】BESSENT, speaking in the WHITE HOUSE Oval Office, said Trump accounts — tax-advantaged savings accounts for children under 18 — will provide the next generation an economic foundation to share the American Dream. He said the administration is building an \"ownership economy\" to make citizens shareholders and that 6 million US children have registered the accounts."
-    },
-    {
-      "id": "4972653",
-      "time": "2026-07-06 21:41:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：希爾頓度假俱樂部8.5億美元貸款再融資。"
-    },
-    {
-      "id": "mkt:019f37a9-4ca5-7aab-8cb5-8244c7745507",
-      "time": "2026-07-06 21:41:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he is discussing with Congress a new account type aimed at adults."
-    },
-    {
-      "id": "4972652",
-      "time": "2026-07-06 21:41:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡普託稱，阿根廷債務規模到 2031 年將降至國內生產總值的 37%。"
-    },
-    {
-      "id": "4972651",
-      "time": "2026-07-06 21:40:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：財長貝森特表現出色。"
-    },
-    {
-      "id": "mkt:019f37a8-9fe7-7aab-8cb5-78b7f9145c44",
-      "time": "2026-07-06 21:40:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【Microsoft to cut about 4,800 jobs, hits sales and Xbox units】Microsoft will cut roughly 4,800 roles, about 2.1% of its global workforce, primarily in sales and the Xbox gaming division. The company had more than 220,000 employees before the reduction. Microsoft is trimming costs while increasing AI infrastructure spending and faces investor concern that AI could disrupt traditional software revenue. Last year the firm cut about 6,000 jobs in May and a further 9,000 in July (around 4% of staff). Earlier this year Microsoft offered a voluntary retirement buyout in the U.S. to employees at or below grade 67 with long service; of roughly 9,000 eligible staff, about one-third accepted, helping keep this year's layoff rate below last year's level."
-    },
-    {
-      "id": "mkt:019f37a8-9ec7-7aab-8cb5-76adf8ad82bb",
-      "time": "2026-07-06 21:40:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said tariffs are prompting companies to invest in the United States."
-    },
-    {
-      "id": "mkt:019f37a8-86e9-7aab-8cb5-6b9ce518593f",
-      "time": "2026-07-06 21:40:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Treasury Secretary Bessent has performed excellently."
-    },
-    {
-      "id": "te:markets:564506",
-      "time": "2026-07-06 21:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is falling 36 points. Losses were driven by Nike (-3.49%), Visa (-2.67%) and Microsoft (-2.14%). Biggest rises came from Goldman Sachs (2.63%), Caterpillar (2.23%) and JPMorgan (1.48%)."
-    },
-    {
-      "id": "4972650",
-      "time": "2026-07-06 21:39:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "以色列央行行長亞倫：通脹預期降低或將加速降息。"
-    },
-    {
-      "id": "mkt:019f37a7-faf6-7aab-8cb5-63211e506418",
-      "time": "2026-07-06 21:39:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel Governor Yaron said lower inflation expectations could accelerate rate cuts."
-    },
-    {
-      "id": "4972649",
-      "time": "2026-07-06 21:39:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中航重機：聘任馮彥成為總經理】中航重機7月6日公告，公司董事會同意提名馮彥成為公司非獨立董事候選人，該議案尚需提交股東會審議。公司董事會同意聘任馮彥成為總經理；同意聘任魏志堅為公司副總經理。"
     }
   ]
 }
