@@ -1,7 +1,250 @@
 {
   "date": "2026-07-13",
-  "count": 565,
+  "count": 589,
   "items": [
+    {
+      "id": "mkt:019f592c-7200-7aab-8d4a-a3eda5c2759b",
+      "time": "2026-07-13 09:51:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01688.HK",
+        "Impact bearish"
+      ],
+      "text": "Lingyi iTech's A shares hit the daily down limit, turnover CNY 1.937 bln; Hong Kong-listed shares (01688.HK) fell 7.58%."
+    },
+    {
+      "id": "4983429",
+      "time": "2026-07-13 09:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士跌幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019f592c-5a0c-7aab-8d4a-98acebef8ce5",
+      "time": "2026-07-13 09:51:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares' decline widened to 10%."
+    },
+    {
+      "id": "4983428",
+      "time": "2026-07-13 09:51:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至268.66點。"
+    },
+    {
+      "id": "te:markets:566189",
+      "time": "2026-07-13 09:51:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Near 3-Week Highs — The New Zealand dollar held around $0.576 on Monday, hovering near its highest level in more than three weeks, supported by expectations of further interest rate hikes from the Reserve Bank. Swaps traders are pricing in nearly two additional quarter-point rate hikes from the Reserve Bank of New Zealand by year-end, following the central bank’s hawkish stance and strong manufacturing data last week. Additional support came from fresh data showing that New Zealand’s services sector returned to expansion in June for the first time since January, reinforcing the view that the economy is regaining momentum. However, escalating tensions in the Middle East are weighing on risk sentiment and limiting the kiwi’s gains. The US and Iran exchanged heavy missile and drone strikes over the weekend, with Tehran targeting US facilities across the Gulf and claiming it had once again closed the Strait of Hormuz."
+    },
+    {
+      "id": "4983427",
+      "time": "2026-07-13 09:50:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國金融監督院院長呼籲資產管理公司加強對ETF的管理】據韓國金融監督院的宣告，其負責人呼籲該國資產管理公司對ETF產品承擔更大的責任。院長李粲珍週一會見了20家資產管理公司的執行長和韓國金融投資協會的負責人，李粲珍表示，隨著ETF市場快速擴張，資產管理公司的責任也日益加重，他呼籲這些公司在宣傳此類產品時確保投資資訊的準確性。李粲珍還提醒資產管理公司要更加密切地關注其產品與LP公司之間的跟蹤誤差和差異。"
+    },
+    {
+      "id": "mkt:019f592b-5e1c-7aab-8d4a-90f63052a35b",
+      "time": "2026-07-13 09:50:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI fell below 7,100, down 5.04% intraday. SK Hynix dropped 9.6% and Samsung Electronics fell 5.7%."
+    },
+    {
+      "id": "4983426",
+      "time": "2026-07-13 09:50:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌5％至7099.36點，SK海力士現跌9.6%，三星電子跌5.7%。"
+    },
+    {
+      "id": "4983425",
+      "time": "2026-07-13 09:50:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
+    {
+      "id": "mkt:019f592b-2158-7aab-8d4a-8b432c6dfb35",
+      "time": "2026-07-13 09:50:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Judo Bank adviser: RBA still assessing whether fuel-price shock will be persistent】Judo Bank economic adviser Warren Hogan said the Reserve Bank of Australia remains uneasy about the inf outlook and keeps the option of further rate hikes open. Despite escalation in the Iran conflict, Brent crude is only around $77/bbl, and market pricing suggests any supply shock will be contained rather than persistent. The RBA wants greater confidence that the fuel-price shock will not have lasting effects; it has not reached that level of certainty."
+    },
+    {
+      "id": "mkt:019f592b-1c7c-7aab-8d4a-8706350ccf98",
+      "time": "2026-07-13 09:50:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index fell as much as 1% intraday; Shenzhen Component Index down 1.39%; Shanghai Composite Index down 0.74%."
+    },
+    {
+      "id": "4983424",
+      "time": "2026-07-13 09:50:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "領益智造觸及跌停，成交額19.37億元，封單424165手。"
+    },
+    {
+      "id": "4983423",
+      "time": "2026-07-13 09:49:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.02%，現報3803.491點；上證指數跌0.72%，現報3967.475點；深證成指跌1.37%，現報14840.719點。"
+    },
+    {
+      "id": "4983422",
+      "time": "2026-07-13 09:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來李斌回應友商智駕兜底】在蔚來 ES8 大五座上市釋出會的次日，蔚來創始人李斌接受媒體採訪，針對友商推出的智駕“兜底”服務發表觀點。 李斌表示：“如果確實是因為系統本身的原因造成損失，按照我們的服務標準，我不覺得我們公司會不兜底。我們也沒有必要發一個宣告去說這個事。”“如果是我們系統的原因，如果是因為我們功能不完善帶來損失，從我們的角度來講，事實上都是要站在使用者的視角、從使用者的利益出發解決這些問題。” 李斌還表示：“我說實話，沒有特別去研究這個事情，我們其實一直都是這麼做的。”（IT之家）"
+    },
+    {
+      "id": "4983421",
+      "time": "2026-07-13 09:49:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "八馬茶業股價大漲15%，至21.80港元，此前披露上半年利潤可能增長。"
+    },
+    {
+      "id": "mkt:019f592a-08a1-7aab-8d4a-7f3007e03907",
+      "time": "2026-07-13 09:49:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China coke most-active contract fell 2.00% intraday to 1,874.50 yuan/ton."
+    },
+    {
+      "id": "mkt:019f5929-d777-7aab-8d4a-75bfe9b7867b",
+      "time": "2026-07-13 09:49:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Morgan Stanley MUFG: Yen and JGBs likely to see short-term support from Katayama remarks】Morgan Stanley MUFG Securities strategists said Katayama’s remarks last Friday could provide short-term support to the yen and sentiment in the Japanese government bond market, calling the comments a form of verbal intervention against yen weakness and volatility in ultra-long JGBs. They estimate a 1 percentage-point increase in Japan’s Government Pension Investment Fund (GPIF) domestic bond allocation would mechanically generate about ¥660 billion of 7–11 year JGB demand and roughly ¥800 billion of 11+ year JGB demand, based on GPIF securities-level market-value weights as of end-March 2026. The strategists warned this mechanical flow risk should not be ignored."
+    },
+    {
+      "id": "mkt:019f5929-afab-7aab-8d4a-6a2c96610ca7",
+      "time": "2026-07-13 09:48:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share gaming sector extended losses; Xinghui Entertainment and Bingchuan Network dropped more than 10%, while Youzu Interactive, Baotong Technology, Kaiying Network, Fuchun and Perfect World also fell."
+    },
+    {
+      "id": "4983420",
+      "time": "2026-07-13 09:48:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【海工裝備板塊大幅調整，巨力索具跌停】海工裝備板塊大幅調整，巨力索具跌停，海蘭信、中船防務、中國船舶、中超控股、江龍船艇、大金重工等跟跌。"
+    },
+    {
+      "id": "4983419",
+      "time": "2026-07-13 09:48:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：上半年法拍房市場量升價降、結構分化】中指研究院最新發布《CI Buddy：2026年1—6月全國法拍市場監測報告》顯示，2026年1—6月，全國法拍市場整體呈現出“量升價降、結構分化”的格局。成交量小幅回暖，上半年成交約10.3萬套，較2025年上半年增加約29.8%；成交金額同步回升但價格承壓，總成交金額約1515億元，同比增加17.6%。法拍住宅成交均價約8165元/平方米，較2025年同期有所下滑。"
+    },
+    {
+      "id": "mkt:019f5929-70d3-7aab-8d4a-6497a93647bf",
+      "time": "2026-07-13 09:48:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index loss widened to 1.65%; Kioxia shares down more than 8%."
+    },
+    {
+      "id": "4983418",
+      "time": "2026-07-13 09:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股機器人股多數走弱 埃斯頓跌近9%】截至發稿，埃斯頓(02715.HK)跌8.96%，廣汽集團(02238.HK)跌5.02%，臥安機器人(06600.HK)跌3.31%。"
+    },
+    {
+      "id": "mkt:019f5929-4370-7aab-8d4a-5ca96992d3bb",
+      "time": "2026-07-13 09:48:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI gains widened to 1.00%; Hang Seng Tech Index up 1.45%."
+    },
+    {
+      "id": "4983417",
+      "time": "2026-07-13 09:48:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24419.391點；恒生科技指數現漲1.511%。"
+    },
     {
       "id": "4983416",
       "time": "2026-07-13 09:47:44",
