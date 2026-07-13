@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-13 21:43:21",
-  "count": 17135,
+  "updated": "2026-07-13 21:47:22",
+  "count": 17131,
   "items": [
+    {
+      "id": "mkt:019f5bba-94e7-7aab-8d5c-b63a3557ce61",
+      "time": "2026-07-13 21:46:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dubai plans new port to bypass Strait of Hormuz】Financial Times, citing people familiar with the matter, reports DP World is planning a new port and container terminal on the UAE’s east coast to reduce reliance on flagship Jebel Ali and to provide a route that avoids the Strait of Hormuz. The Dubai-headquartered operator is in talks to develop a new multipurpose port on Fujairah’s coast and to add a container terminal at the existing local port. Over the past two decades DP World has built a large global ports and logistics footprint, but Jebel Ali remains the group’s and Dubai’s core asset; shifting some throughput offshore would be material for Dubai’s trade and financial hub positioning."
+    },
+    {
+      "id": "4984977",
+      "time": "2026-07-13 21:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：針對俄羅斯的襲擊，俄方將作出映象式且數倍猛烈的回應。"
+    },
+    {
+      "id": "4984976",
+      "time": "2026-07-13 21:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將超威半導體 <AMD.O> 目標價從550美元上調至620美元。"
+    },
+    {
+      "id": "mkt:019f5bb9-3e01-7aab-8d5c-ac6860ae22ef",
+      "time": "2026-07-13 21:44:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "MOODY'S says a US shift away from involvement in European security affairs would have a negative impact on European sovereign creditworthiness."
+    },
+    {
+      "id": "mkt:019f5bb9-0f59-7aab-8d5c-a52a9546b8b0",
+      "time": "2026-07-13 21:44:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said Russia will deliver a mirror response several times more forceful to attacks on Russia."
+    },
+    {
+      "id": "4984975",
+      "time": "2026-07-13 21:44:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料機構克普勒（Kpler）統計資料顯示，週日僅有14艘船舶穿越霍爾木茲海峽，創下一個月以來單日通行新低。"
+    },
+    {
+      "id": "mkt:019f5bb8-d26c-7aab-8d5c-9b39cb8e5306",
+      "time": "2026-07-13 21:44:26",
+      "tags": [
+        "MKT News",
+        "DPW.L",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports DP World is in talks to develop a new multipurpose port on the coast of Fujairah."
+    },
+    {
+      "id": "4984974",
+      "time": "2026-07-13 21:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將恩智浦半導體<NXPI.O> 目標價從275美元上調至310美元。"
+    },
+    {
+      "id": "te:markets:566434",
+      "time": "2026-07-13 21:44:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises on US-Iran Strikes — Brent crude oil climbed more than 3% to around $78.7 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a \"crisis phase.\" Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day."
+    },
+    {
+      "id": "4984973",
+      "time": "2026-07-13 21:44:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "威廉姆斯公司股價下跌2.7%，該公司同意將五個發電專案49%的非控股股權出售給黑石集團牽頭的財團。"
+    },
+    {
+      "id": "4984972",
+      "time": "2026-07-13 21:43:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技股價下跌7.2%，報908.730美元/股，總市值報1.03萬億美元。"
+    },
+    {
+      "id": "te:markets:566433",
+      "time": "2026-07-13 21:43:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Jumps on Fresh US-Iran Strikes — Crude oil climbed more than 3% to around $74 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a \"crisis phase.\" Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day."
+    },
+    {
+      "id": "te:markets:566432",
+      "time": "2026-07-13 21:43:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 11-week High — Stryker shares increased to 334.88 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 9.19%, and in the last 12 months, it decreased 14.31%."
+    },
+    {
+      "id": "4984971",
+      "time": "2026-07-13 21:42:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【迪拜環球港務擬建東海岸新港 擺脫霍爾木茲海峽航運制約】迪拜環球港務集團（DP World）計劃在阿聯酋東海岸新建一座港口與集裝箱碼頭，此舉將降低迪拜對旗艦傑貝阿里港樞紐的依賴，實現繞開霍爾木茲海峽開展貨運。知情人士透露，這家總部位於迪拜的港口運營商正洽談在富查伊拉沿海區域新建一座綜合性多用途港口，並在當地現有港區擴建一座全新集裝箱碼頭。過去二十年間，迪拜環球港務成長為阿聯酋國際化佈局最廣的企業之一，在全球搭建起港口物流產業版圖，但傑貝阿里港始終是集團乃至迪拜最核心的王牌資產。將部分港口運力外遷到迪拜以外地區，對迪拜酋長國而言是顛覆性轉變。迪拜能成長為全球貿易與金融中心，很大程度依託傑貝阿里港的發展紅利。不過迪拜環球港務的佈局，契合阿聯酋政府一項更大規模戰略規劃：透過降低對霍爾木茲海峽的依賴，打造經濟防禦屏障，抵禦未來與伊朗爆發衝突帶來的衝擊。自美以發動打擊行動以來，伊朗多次動用無人機、導彈襲擊海峽商船，航運秩序持續受擾。"
+    },
     {
       "id": "mkt:019f5bb7-43f4-7aab-8d5c-968ce917425c",
       "time": "2026-07-13 21:42:44",
@@ -25,6 +162,14 @@
         "其他"
       ],
       "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4984968",
+      "time": "2026-07-13 21:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西再次預撥2億元保障防汛救災工作】記者從廣西壯族自治區財政廳獲悉，按照廣西壯族自治區黨委、政府工作部署，7月12日，自治區財政再次預撥2億元，重點支援災情較重的南寧、貴港兩市妥善安置受災群眾、保障群眾基本生活、開展受災地區搶修恢復等工作，幫助災區儘快恢復正常生產生活秩序。截至目前，自治區財政已累計預撥資金4.16億元，支援南寧、貴港、欽州、防城港等受災地區做好救災各項工作。據瞭解，下一步，廣西壯族自治區財政廳將會同自治區應急管理等部門加強救災資金保障和使用監管，全力支援抗洪救災和生產生活恢復各項工作，切實保障人民群眾生命財產安全。 (央視新聞)"
     },
     {
       "id": "4984967",
@@ -156110,188 +156255,6 @@
         "其他"
       ],
       "text": "TITAN CO LTD：2027財年第一季度國際業務同比增長128%。"
-    },
-    {
-      "id": "4972668",
-      "time": "2026-07-06 21:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市與哈爾濱工業大學簽署深化戰略合作協議】7月6日下午，重慶市人民政府與哈爾濱工業大學簽署深化戰略合作協議。重慶市委書記袁家軍說，希望哈工大以此次簽約為起點，持續加大在渝佈局力度，在創新平臺建設、科技成果轉化、人工智慧和低空經濟發展、人才培養等方面深化與重慶合作，打造更多校地合作標誌性成果。當天下午，哈爾濱工業大學還與重慶市有關區和企業簽署了系列合作協議。"
-    },
-    {
-      "id": "4972667",
-      "time": "2026-07-06 21:46:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出紅色暴雨警告。"
-    },
-    {
-      "id": "mkt:019f37ae-0416-7aab-8cb5-c823a8f37d95",
-      "time": "2026-07-06 21:46:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKO issues red rainstorm warning."
-    },
-    {
-      "id": "4972666",
-      "time": "2026-07-06 21:46:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【費城半導體指數漲幅擴大至逾3.5%】費城半導體指數漲幅擴大至逾3.5%，AMD、博通漲超6%，英特爾、高通漲超5%，臺積電漲近5%，阿斯麥、邁威爾科技漲超3%，美光科技漲近3%。"
-    },
-    {
-      "id": "mkt:019f37ad-d9b6-7aab-8cb5-c66e2160a36b",
-      "time": "2026-07-06 21:46:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "Argentina's economy minister said the country needs to develop its domestic capital markets and is seeking financing alternatives cheaper than Wall Street."
-    },
-    {
-      "id": "4972665",
-      "time": "2026-07-06 21:46:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所倫敦可可期貨<LCCc2>價格大漲近10%，至每噸4135英鎊。"
-    },
-    {
-      "id": "4972664",
-      "time": "2026-07-06 21:45:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡普託：阿根廷正在探索華爾街之外更便宜的替代方案。"
-    },
-    {
-      "id": "4972663",
-      "time": "2026-07-06 21:45:28",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月標普全球綜合PMI終值 51.9，前值52.2。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607063795448613",
-      "time": "2026-07-06 21:45:25",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月標普全球服務業PMI終值51.2】美國6月標普全球服務業PMI終值51.2，前值51.3；6月標普全球綜合PMI終值51.9，前值52.2。"
-    },
-    {
-      "id": "4972662",
-      "time": "2026-07-06 21:45:10",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月服務業PMI為51.2，綜合PMI為51.9。"
-    },
-    {
-      "id": "mkt:019f37ac-f27c-7aab-8cb5-bafa62962e60",
-      "time": "2026-07-06 21:45:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US June S&P Global Services PMI (final) 51.2; prior 51.3."
-    },
-    {
-      "id": "mkt:019f37ac-ef72-7aab-8cb5-b285b01e6aa6",
-      "time": "2026-07-06 21:45:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US June S&P Global Composite PMI (final) 51.9, down from 52.2 previously."
-    },
-    {
-      "id": "mkt:019f37ac-d0a1-7aab-8cb5-aeee870f7c3d",
-      "time": "2026-07-06 21:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Markit Services PMI Final (Jun) | actual 51.2 | previous 51.3"
-    },
-    {
-      "id": "mkt:019f37ac-d038-7aab-8cb5-a60a07fc8923",
-      "time": "2026-07-06 21:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Composite PMI Final (Jun) | actual 51.9 | previous 52.2"
-    },
-    {
-      "id": "4972661",
-      "time": "2026-07-06 21:44:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡普託：計劃以儘可能低的利率對現有債務進行再融資。"
-    },
-    {
-      "id": "4972660",
-      "time": "2026-07-06 21:44:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約證券交易所和納斯達克可以攜手做很多好事。"
-    },
-    {
-      "id": "4972659",
-      "time": "2026-07-06 21:44:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡普託表示，受高利率影響，阿根廷暫未進入全球資本市場融資。"
-    },
-    {
-      "id": "te:economy:564508",
-      "time": "2026-07-06 21:44:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Canada Private Sector Activity Contracts — The S&P Global Canada Composite PMI declined to 47.9 in June 2026, marking the first contraction in 6 months in private-sector business activity, down from 50.8 in May. The decline was driven by weaker services activity, which more than offset a solid expansion in manufacturing output. New orders also declined during the month, pointing to softer demand. Despite the downturn in activity, private-sector employment continued to grow, although optimism regarding the future deteriorated. On the price front, inflationary pressures eased."
-    },
-    {
-      "id": "mkt:019f37ab-bd2f-7aab-8cb5-9c3dc78d33fe",
-      "time": "2026-07-06 21:43:49",
-      "tags": [
-        "MKT News",
-        "ICE",
-        "NDAQ"
-      ],
-      "text": "President Trump praised the CEO of Intercontinental Exchange and the heads of the New York Stock Exchange and Nasdaq."
     }
   ]
 }

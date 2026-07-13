@@ -1,7 +1,144 @@
 {
   "date": "2026-07-13",
-  "count": 2477,
+  "count": 2492,
   "items": [
+    {
+      "id": "mkt:019f5bba-94e7-7aab-8d5c-b63a3557ce61",
+      "time": "2026-07-13 21:46:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dubai plans new port to bypass Strait of Hormuz】Financial Times, citing people familiar with the matter, reports DP World is planning a new port and container terminal on the UAE’s east coast to reduce reliance on flagship Jebel Ali and to provide a route that avoids the Strait of Hormuz. The Dubai-headquartered operator is in talks to develop a new multipurpose port on Fujairah’s coast and to add a container terminal at the existing local port. Over the past two decades DP World has built a large global ports and logistics footprint, but Jebel Ali remains the group’s and Dubai’s core asset; shifting some throughput offshore would be material for Dubai’s trade and financial hub positioning."
+    },
+    {
+      "id": "4984977",
+      "time": "2026-07-13 21:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：針對俄羅斯的襲擊，俄方將作出映象式且數倍猛烈的回應。"
+    },
+    {
+      "id": "4984976",
+      "time": "2026-07-13 21:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將超威半導體 <AMD.O> 目標價從550美元上調至620美元。"
+    },
+    {
+      "id": "mkt:019f5bb9-3e01-7aab-8d5c-ac6860ae22ef",
+      "time": "2026-07-13 21:44:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "MOODY'S says a US shift away from involvement in European security affairs would have a negative impact on European sovereign creditworthiness."
+    },
+    {
+      "id": "mkt:019f5bb9-0f59-7aab-8d5c-a52a9546b8b0",
+      "time": "2026-07-13 21:44:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said Russia will deliver a mirror response several times more forceful to attacks on Russia."
+    },
+    {
+      "id": "mkt:019f5bb8-d26c-7aab-8d5c-9b39cb8e5306",
+      "time": "2026-07-13 21:44:26",
+      "tags": [
+        "MKT News",
+        "DPW.L",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports DP World is in talks to develop a new multipurpose port on the coast of Fujairah."
+    },
+    {
+      "id": "4984975",
+      "time": "2026-07-13 21:44:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料機構克普勒（Kpler）統計資料顯示，週日僅有14艘船舶穿越霍爾木茲海峽，創下一個月以來單日通行新低。"
+    },
+    {
+      "id": "4984974",
+      "time": "2026-07-13 21:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將恩智浦半導體<NXPI.O> 目標價從275美元上調至310美元。"
+    },
+    {
+      "id": "te:markets:566434",
+      "time": "2026-07-13 21:44:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises on US-Iran Strikes — Brent crude oil climbed more than 3% to around $78.7 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a \"crisis phase.\" Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day."
+    },
+    {
+      "id": "4984973",
+      "time": "2026-07-13 21:44:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "威廉姆斯公司股價下跌2.7%，該公司同意將五個發電專案49%的非控股股權出售給黑石集團牽頭的財團。"
+    },
+    {
+      "id": "4984972",
+      "time": "2026-07-13 21:43:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技股價下跌7.2%，報908.730美元/股，總市值報1.03萬億美元。"
+    },
+    {
+      "id": "te:markets:566433",
+      "time": "2026-07-13 21:43:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Jumps on Fresh US-Iran Strikes — Crude oil climbed more than 3% to around $74 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a \"crisis phase.\" Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day."
+    },
+    {
+      "id": "te:markets:566432",
+      "time": "2026-07-13 21:43:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 11-week High — Stryker shares increased to 334.88 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 9.19%, and in the last 12 months, it decreased 14.31%."
+    },
+    {
+      "id": "4984971",
+      "time": "2026-07-13 21:42:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【迪拜環球港務擬建東海岸新港 擺脫霍爾木茲海峽航運制約】迪拜環球港務集團（DP World）計劃在阿聯酋東海岸新建一座港口與集裝箱碼頭，此舉將降低迪拜對旗艦傑貝阿里港樞紐的依賴，實現繞開霍爾木茲海峽開展貨運。知情人士透露，這家總部位於迪拜的港口運營商正洽談在富查伊拉沿海區域新建一座綜合性多用途港口，並在當地現有港區擴建一座全新集裝箱碼頭。過去二十年間，迪拜環球港務成長為阿聯酋國際化佈局最廣的企業之一，在全球搭建起港口物流產業版圖，但傑貝阿里港始終是集團乃至迪拜最核心的王牌資產。將部分港口運力外遷到迪拜以外地區，對迪拜酋長國而言是顛覆性轉變。迪拜能成長為全球貿易與金融中心，很大程度依託傑貝阿里港的發展紅利。不過迪拜環球港務的佈局，契合阿聯酋政府一項更大規模戰略規劃：透過降低對霍爾木茲海峽的依賴，打造經濟防禦屏障，抵禦未來與伊朗爆發衝突帶來的衝擊。自美以發動打擊行動以來，伊朗多次動用無人機、導彈襲擊海峽商船，航運秩序持續受擾。"
+    },
     {
       "id": "mkt:019f5bb7-43f4-7aab-8d5c-968ce917425c",
       "time": "2026-07-13 21:42:44",
@@ -25,6 +162,14 @@
         "其他"
       ],
       "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
+    {
+      "id": "4984968",
+      "time": "2026-07-13 21:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西再次預撥2億元保障防汛救災工作】記者從廣西壯族自治區財政廳獲悉，按照廣西壯族自治區黨委、政府工作部署，7月12日，自治區財政再次預撥2億元，重點支援災情較重的南寧、貴港兩市妥善安置受災群眾、保障群眾基本生活、開展受災地區搶修恢復等工作，幫助災區儘快恢復正常生產生活秩序。截至目前，自治區財政已累計預撥資金4.16億元，支援南寧、貴港、欽州、防城港等受災地區做好救災各項工作。據瞭解，下一步，廣西壯族自治區財政廳將會同自治區應急管理等部門加強救災資金保障和使用監管，全力支援抗洪救災和生產生活恢復各項工作，切實保障人民群眾生命財產安全。 (央視新聞)"
     },
     {
       "id": "4984967",
