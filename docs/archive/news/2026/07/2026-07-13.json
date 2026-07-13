@@ -1,7 +1,615 @@
 {
   "date": "2026-07-13",
-  "count": 384,
+  "count": 448,
   "items": [
+    {
+      "id": "4983345",
+      "time": "2026-07-13 09:15:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7972元。"
+    },
+    {
+      "id": "mkt:019f590a-cb7d-7aab-8d49-0444ed7f604d",
+      "time": "2026-07-13 09:15:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Orient Securities: long-dated bonds remain core for insurers; absolute yields and term premium guide allocation】Orient Securities' insurance report says long-dated bonds remain the core of insurers' asset portfolios as allocation shifts from pure duration extension to structural optimization. Persistently low rates are compressing coupon and reinvestment returns; lengthening duration only delays a downward shift in the yield center. The report expects most listed insurers' net investment yields to decline YoY in 2025 as high-coupon stock matures and new allocations earn lower interest. Static estimates show long-duration holdings cut annual reallocation needs but cannot fully offset low-rate pressure. Currently 30-year government and local-government bond yields remain above insurers' marginal new liability funding costs, leaving long-duration assets with coupon coverage and duration-matching value; the 30Y-10Y spread has widened markedly from 2025 lows. Insurers' allocation logic is moving to duration matching + term-premium capture + timing-driven positioning."
+    },
+    {
+      "id": "4983344",
+      "time": "2026-07-13 09:15:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報4980.00元。"
+    },
+    {
+      "id": "4983343",
+      "time": "2026-07-13 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.01%，報24161.20點，低水13.92點。"
+    },
+    {
+      "id": "4983342",
+      "time": "2026-07-13 09:14:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份：公司8月父母代肉種雞雛雞報價與7月持平】益生股份(002458)7月13日在互動平臺表示，公司2026年8月父母代肉種雞雛雞報價為66元/套，與7月持平。"
+    },
+    {
+      "id": "4983341",
+      "time": "2026-07-13 09:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【熱浪席捲歐洲 西班牙、克羅埃西亞山火持續蔓延】受持續高溫天氣影響，歐洲多國山火持續燃燒。當地時間12日，西班牙阿爾梅里亞省的山火仍在持續燃燒。該省所在的安達盧西亞自治區政府通報，隨著氣象條件好轉，這場山火已得到控制，但尚未完全撲滅。阿爾梅里亞省山火自9日開始已燃燒數日，12日山火過火面積達到7000公頃，造成至少13人死亡，另有18人受傷，其中5人傷勢嚴重。這場山火已成為21世紀以來西班牙死傷最慘重的山火之一。12日，克羅埃西亞南部科爾丘拉島的山火仍在持續，經過撲救，目前火勢有所緩解，但尚未完全得到控制。11日，克羅埃西亞南部亞德里亞海沿岸多地發生山火，其中科爾丘拉島火情最為嚴重，過火面積已超100公頃。"
+    },
+    {
+      "id": "mkt:019f5909-9ecd-7aab-8d48-fb10f8be40c2",
+      "time": "2026-07-13 09:13:50",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI index briefly fell 3% and is trading 2.8% lower; SK Hynix trading 7.7% lower, Samsung Electronics trading 3% lower."
+    },
+    {
+      "id": "4983340",
+      "time": "2026-07-13 09:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連市啟動全市防汛四級應急響應】“大連發布”訊息，7月13日8時30分，大連市氣象臺釋出暴雨藍色預警，根據《大連市防汛抗旱應急預案》有關規定並結合氣象預報，經會商研判，大連市防汛抗旱指揮部決定自7月13日8時30分起，釋出防汛藍色預警，啟動全市防汛四級應急響應。"
+    },
+    {
+      "id": "mkt:019f5908-b5e3-7aab-8d48-f1693b91664d",
+      "time": "2026-07-13 09:12:50",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Bank of East Asia wealth management: Hong Kong stocks may see H2 tactical rebound; trims Hang Seng target to 27,100】Bank of East Asia wealth management strategist Chen Weicong said tech firms’ higher AI spending and rising energy and memory production costs have weakened earnings recovery for heavyweight tech and consumer names, prompting a cut to this year’s Hang Seng earnings forecast and a target reduction from 29,000 to 27,100. The implied P/E on the forecast is about 10x, slightly below the 10-year average of ~10.5x, making valuations increasingly attractive and recent overselling a buying opportunity. He expects a short-lived phase rebound in H2; the July Politburo meeting could be a catalyst if it signals further growth-stabilizing policies."
+    },
+    {
+      "id": "4983339",
+      "time": "2026-07-13 09:12:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尚水智慧：公司半乾法、幹法極片製造裝置已實現小批次交付】尚水智慧(301513)7月13日在互動平臺表示，公司持續關注幹法電極及固態電池相關技術的發展，已研發形成雙傳動包覆機、雙螺桿擠出纖維化裝置、輥壓覆膜一體機等核心裝置。目前，公司半乾法、幹法極片製造裝置已實現小批次交付，並應用於固態電池等前沿領域的研發製造、工藝驗證及生產測試。固態電池相關業務推進節奏受行業技術發展及產業化程序影響，存在一定不確定性。"
+    },
+    {
+      "id": "4983338",
+      "time": "2026-07-13 09:12:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【巴克萊：油價衝擊已過 但通脹依然存在】巴克萊表示，儘管油價已從伊朗衝突期間的峰值大幅回落，但其對通脹的預測卻有所惡化。該行在給客戶的一份報告中稱，最近幾個月，美聯儲今年按兵不動且不加息的路徑已大幅收窄。不過該行補充說，這目前仍是該行的基本情境。巴克萊表示，油價衝擊來了又去，但通脹卻沒有，其原因在於目前美國經濟的整體強勁。該行補充稱，因此油價下跌無法讓美聯儲擺脫通脹困擾。"
+    },
+    {
+      "id": "4983337",
+      "time": "2026-07-13 09:12:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆鋒工具等投資成立智創精密科技公司】企查查APP顯示，近日，蘇州星螺智創精密科技有限公司成立，經營範圍包含：金屬工具製造；機械零件、零部件加工；刀具製造；金屬切削加工服務等。企查查股權穿透顯示，該公司由恆鋒工具等共同持股。"
+    },
+    {
+      "id": "4983336",
+      "time": "2026-07-13 09:11:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士在納斯達克上市首日後股價下跌 分析師：受獲利回吐及盈利預期降溫影響】SK海力士股價在韓國交易所一度下跌8.2%。NH投資證券高階分析師柳永浩表示，在美國上市結束後，投資者進行了獲利了結，同時市場情緒也因對SK海力士第二季度業績的謹慎預期而受到影響。他指出，投資者原本預期SK海力士的HBM4晶片出貨量將從第二季度起增長，但這種增長似乎並未大規模實現。柳永浩還表示，投資者已下調了盈利預期，因為SK海力士在HBM市場的業務佔比高於同城競爭對手三星電子，因此難以從近期傳統DRAM晶片價格的上漲中獲得同等程度的收益。"
+    },
+    {
+      "id": "mkt:019f5907-24fb-7aab-8d48-eda41b7b87f4",
+      "time": "2026-07-13 09:11:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【China International Capital Co: Three investment themes to watch in interim earnings season】China International Capital Co research says high external uncertainty will drive investors to use interim reports to find structural winners. Key themes: upstream oil, gas, chemicals and select metals as potential earnings bright spots; technology hardware and power equipment exposed to the AI cycle and to overseas demand, and non-bank financials; the AI supply chain—optical communications that directly benefit from AI deployment, plus batteries and energy storage that also gain from energy‑security and supply‑chain security. Also monitor cyclical industries with relatively balanced supply–demand and improving demand/capacity dynamics, notably specialty chemicals, optoelectronics and certain innovative pharmaceuticals."
+    },
+    {
+      "id": "mkt:019f5906-c0db-7aab-8d48-e33934caaa84",
+      "time": "2026-07-13 09:10:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 1.00% intraday."
+    },
+    {
+      "id": "4983335",
+      "time": "2026-07-13 09:10:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌1%。"
+    },
+    {
+      "id": "4983334",
+      "time": "2026-07-13 09:09:55",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【財通基金：旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金將於2026年7月13日開盤起至當日10:30停牌】截至 2026 年 7 月 9 日上海證券交易所收盤，財通基金管理有限公司（以下簡稱 “本基金管理人”）旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046，以下簡稱 “本基金”）二級市場交易價格大幅高於基金份額淨值，產生高額溢價。特此提醒投資者留意二級市場交易溢價風險，投資者若盲目參與投資，或將面臨重大虧損。為保護投資者合法權益，本基金自 2026 年 7 月 13 日開盤至當日 10:30 實施停牌。若 2026 年 7 月 13 日本基金二級市場交易溢價幅度未能顯著收窄，本基金可向上交所申請盤中臨時停牌、延長停牌時長等風險警示措施，具體安排以屆時釋出公告為準。"
+    },
+    {
+      "id": "te:markets:566177",
+      "time": "2026-07-13 09:09:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hovers Near 3-Month Lows — The Australian dollar hovered around $0.693, extending the previous week’s roughly 0.2% loss to trade near three-month lows as persistent Middle East tensions weighed on global risk sentiment. The US launched another wave of strikes on Iran over the weekend in response to an attack on a container ship in the Strait of Hormuz, while Tehran retaliated by targeting US military facilities across the Middle East. Meanwhile, hawkish rhetoric from the Reserve Bank of Australia helped limit the Aussie’s losses. RBA Assistant Governor Sarah Hunter said last week that the board will act as needed to return inflation to its target, warning some tightening may be required if the oil shock lifts inflation expectations. Markets currently price around a 60% chance of one more rate hike later this year, up from roughly 40% previously, though futures imply only a 19% odds of an August move. Traders now await key employment and inflation data due later this month for fresh clues on the policy outlook."
+    },
+    {
+      "id": "mkt:019f5903-2e69-7aab-8d48-d90a6adf41f1",
+      "time": "2026-07-13 09:06:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bullish",
+        "00100.HK",
+        "Impact bearish"
+      ],
+      "text": "【Zhipu placement lands; JP Morgan lifts Zhipu PT again to HKD 2,400】JP Morgan raised its price target for Zhipu (02513.HK) by 20% to HKD 2,400 from HKD 2,000, marking a second increase in one week (the bank moved the PT from HKD 1,800 to HKD 2,000 last Tuesday). JP Morgan said proceeds from a USD 4.0 bln equity placement will ease compute-supply bottlenecks and support further model-training investment; the bank added that new inference capacity could convert into annual recurring revenue within 12 months, analysts including Olivia Xu wrote. JP Morgan also cut its price target on MiniMax (00100.HK) to HKD 240 from HKD 300, citing share dilution after the company’s lock-up expiration and the fundraising; this follows a downgrade last week."
+    },
+    {
+      "id": "4983332",
+      "time": "2026-07-13 09:06:01",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SK海力士在首爾下挫逾7% 之前在納斯達克上市首日大漲】SK海力士在韓國交易所一度下跌8.2%；該公司的美國存託憑證(ADR)在週五上市首日收盤上漲13%。Korea Investment & Securities預測，SK海力士第二季度營業利潤可能比市場預期低8%，原因是該公司來自HBM的收入佔比高於同行，限制了平均售價的上漲空間。“從歷史上看，由於存在外匯和監管摩擦，像臺積電這樣的全球大型企業，其本地股票和ADR之間通常存在約15%的結構性估值差距，”教保生命保險駐首爾的主動股票管理主管Jason Minsang Kam表示。Kam表示，由於紐約市場的動能已然被市場消化，該股可能面臨日內大量獲利回吐和套利平倉，以長上影線形態收盤。“SK海力士透過HBM將記憶體轉化為‘定製化解決方案服務’的願景，是一種穩健的長期敘事。然而，正如摩根士丹利和各大投資銀行所警告的那樣，記憶體本質上仍然是一種週期性商品。‘服務提供商’溢價僅在供應短缺時才會存在。”資料顯示，該公司的ADR週五較其韓股溢價約15%。"
+    },
+    {
+      "id": "4983331",
+      "time": "2026-07-13 09:05:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報4937.00元。"
+    },
+    {
+      "id": "4983330",
+      "time": "2026-07-13 09:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲熱浪肆虐 德法溺水事故頻發】受持續熱浪的影響，歐洲近期連續遭遇創紀錄的高溫天氣，大批民眾選擇戲水乘涼。受此影響，在德國和法國，近來溺水事故頻發。德國救生協會12日釋出的資料顯示，受高溫天氣影響，德國6月至少有99人因溺水死亡，為2003年以來歷年同期最高值。根據統計資料，超過90%的死者為男性，其中多數為年輕人。大多數溺亡事故發生在湖泊和河流。救援人員分析，許多人低估了水流湍急、入水前後溫差等風險。此外，游泳技能欠佳、過度自信、跳入渾濁水域等也被視為誘發事故的原因。（央視）"
+    },
+    {
+      "id": "mkt:019f5901-3b09-7aab-8d48-d75504dc4e65",
+      "time": "2026-07-13 09:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China National Marine Forecasting Center issues storm-surge orange and wave blue alerts for northern sea areas】Typhoon Bavi (this year’s No.9, tropical-storm intensity) had its center at 08:00 in Si County, Suzhou, Anhui. The Central Meteorological Observatory forecasts Bavi will move north-northeast at 10–15 km/h, weaken gradually, cross the Shandong Peninsula into the northern Yellow Sea on the 14th and transition to an extratropical cyclone after the 15th. Under the Marine Disaster Emergency Plan the National Marine Forecasting Center this morning issued a storm-surge orange alert and a wave blue alert for China’s northern sea areas."
+    },
+    {
+      "id": "mkt:019f5900-d5a9-7aab-8d48-ce40e5e00b65",
+      "time": "2026-07-13 09:04:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump’s approval at 59%; inflation easing and oil and gas prices declining."
+    },
+    {
+      "id": "4983329",
+      "time": "2026-07-13 09:04:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：59%的支援率。通脹下降，油氣價格也在降低。"
+    },
+    {
+      "id": "mkt:019f5900-4dbf-7aab-8d48-c50aabbf4976",
+      "time": "2026-07-13 09:03:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active lithium carbonate futures fell more than 2% to 147,880 yuan/ton."
+    },
+    {
+      "id": "mkt:019f5900-4bc3-7aab-8d48-bdc0aa042421",
+      "time": "2026-07-13 09:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenyang, Liaoning activates Level-2 flood emergency; citywide classes and non-essential work suspended】Shenyang has activated a citywide Level-2 flood-control emergency in response to Typhoon Bavi. All schools and non-essential workplaces are suspended today; government agencies and enterprises should work from home in principle, except units maintaining basic urban operations. The city flood-control headquarters has placed 12 departments—including emergency management, public security, meteorology, water affairs, urban construction, urban management enforcement, natural resources, agriculture, fire services and power supply—under unified command. More than 3,500 flood-responsible personnel at municipal, district/county, township/street and village/community levels are on duty conducting rescue and drainage operations."
+    },
+    {
+      "id": "mkt:019f5900-3636-7aab-8d48-b18a7140b2d8",
+      "time": "2026-07-13 09:03:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China energy and chemicals futures' most-active contracts continued to rise; fuel oil up more than 4%, while benzene, methanol, butadiene, rubber, LPG and ethylene glycol gains widened to above 3%."
+    },
+    {
+      "id": "mkt:019f5900-28ce-7aab-8d48-ad7f54187a48",
+      "time": "2026-07-13 09:03:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China commodity futures opened mixed this morning. Fuel oil and container-shipping (Europe-route) contracts rose more than 3%; LPG, butadiene rubber, benzene, asphalt, low-sulfur fuel oil (LU) and SC crude oil gained over 2%. Shanghai silver futures fell nearly 2%."
+    },
+    {
+      "id": "4983327",
+      "time": "2026-07-13 09:03:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣股市上漲逾2%。"
+    },
+    {
+      "id": "4983326",
+      "time": "2026-07-13 09:03:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股股票回購一覽：86只個股獲公司回購】Wind資料顯示，7月10日，共86只港股獲公司回購，5只個股回購金額超千萬港元。其中，布魯可、MONGOL MINING、中國石油化工股份回購金額最大，分別獲公司回購4205.82萬港元、2060.83萬港元、1829.52萬港元。截至7月10日，今年已有283只港股獲公司回購，80只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。"
+    },
+    {
+      "id": "4983325",
+      "time": "2026-07-13 09:03:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺針對我國北部海域釋出風暴潮橙色和海浪藍色警報】從自然資源部獲悉，今年第9號颱風“巴威”（熱帶風暴級）的中心今天（13日）早晨8點鐘位於安徽省宿州市泗縣境內。中央氣象臺預計“巴威”將以每小時10-15公里的速度向北偏東轉東北方向移動，強度緩慢減弱，14日白天將經山東半島移入黃海北部海面，15日以後逐漸變性為溫帶氣旋。根據《海洋災害應急預案》，國家海洋預報臺於今天早上釋出風暴潮橙色警報和海浪藍色警報。"
+    },
+    {
+      "id": "4983324",
+      "time": "2026-07-13 09:02:55",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【AI 火熱需求傳導至成熟製程，臺積電開啟新一輪漲價潮】據報道，臺積電先進製程訂單爆滿，在持續上調 3 奈米等先進製程報價的同時，漲價浪潮已蔓延至成熟製程。多家 IC 設計廠商透露，已陸續收到臺積電通知，計劃上調成熟製程代工價格，不同客戶漲價幅度存在差異，調價預計明年 1 月正式生效。這是新冠疫情結束三年多以來，臺積電首次上調成熟製程報價。疊加此前多個先進工藝節點已完成漲價，臺積電全面迎來漲價紅利，經營景氣度進一步走高。臺積電將於本週四（16 日）舉辦業績說明會，現階段處於財報靜默期，昨日（12 日）未對成熟製程漲價傳聞作出回應。針對定價相關問題，臺積電此前多次公開表態，公司定價策略始終立足長期戰略，而非短期逐利，會持續與客戶深度協作，創造產業價值。今年年初市場便傳出臺積電先進製程產能持續供不應求，已連續四年上調報價；如今漲價趨勢延伸至成熟製程。多家 IC 設計企業私下表示，各大廠商需在年底前編制下一年度採購預算，臺積電近期已陸續與客戶溝通，確定明年上調成熟製程代工價格。漲價幅度將根據合作廠商、產品線區分，於第四季度最終敲定，目前市場預估漲幅為個位數百分比。"
+    },
+    {
+      "id": "4983323",
+      "time": "2026-07-13 09:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟控股份成立智控科技公司 含機器人業務】企查查APP顯示，近日，深圳深科智控科技有限公司成立，經營範圍包含：智慧機器人的研發；電機及其控制系統研發；機械裝置研發；工業自動控制系統裝置銷售等。企查查股權穿透顯示，該公司由軟控股份全資持股。"
+    },
+    {
+      "id": "4983322",
+      "time": "2026-07-13 09:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【階躍星辰在上海新設智慧科技公司】企查查APP顯示，近日，上海啟躍星辰智慧科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧雙創服務平臺；軟體開發；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由上海階躍星辰智慧科技股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019f58fe-9152-7aab-8d48-a1d908de3803",
+      "time": "2026-07-13 09:01:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the open on July 13 (Mon), Shanghai Gold Exchange gold T+D slipped 1.17% to 888.13 yuan/gram, while silver T+D fell 2.08% to 14,331.0 yuan/kg."
+    },
+    {
+      "id": "4983321",
+      "time": "2026-07-13 09:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民眾舉行集會 要求高市政府糾正錯誤做法】當地時間12日，日本民眾在東京港區舉行集會，要求日本政府撤回涉臺錯誤言論，糾正錯誤做法，正視歷史。參加者表示，日本政府近期相關言行加劇地區緊張局勢，不利於日中和平友好關係發展。（央視）"
+    },
+    {
+      "id": "4983320",
+      "time": "2026-07-13 09:01:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞國家石油公司與靜岡燃氣強化長期液化天然氣合作伙伴關係。"
+    },
+    {
+      "id": "mkt:019f58fe-384e-7aab-8d48-98535d55135e",
+      "time": "2026-07-13 09:01:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 718.71 points higher on July 13 (Monday), up 1.58% at 46,073.32."
+    },
+    {
+      "id": "4983319",
+      "time": "2026-07-13 09:01:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4311.00元。"
+    },
+    {
+      "id": "mkt:019f58fe-01bc-7aab-8d48-9449685898e6",
+      "time": "2026-07-13 09:01:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.27%."
+    },
+    {
+      "id": "4983318",
+      "time": "2026-07-13 09:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "小鵬汽車：7月16日，北京時間19:00，慕尼黑， 小鵬MONA L03將全球正式上市釋出！ 這是小鵬首款中國與歐洲同步上市、同步釋出的全球車型。 本次釋出會還將公佈小鵬物理AI的最新佈局與技術進展。"
+    },
+    {
+      "id": "4983317",
+      "time": "2026-07-13 09:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報3890.00元。"
+    },
+    {
+      "id": "4983316",
+      "time": "2026-07-13 09:00:25",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：香港軟體科技股表現可能將趨於改善 下半年仍維持超配A股】高盛稱，該行模型顯示H股軟體股的表現可能在未來幾個月趨於改善，並有望在基本面、估值及流動性等多個維度上縮小與A股硬科技板塊之間的差距。總體而言不認同中國AI股票整體存在泡沫的觀點，但也觀察到AI投資領域內部出現區域性過熱跡象，主要集中在半導體板塊，以及部分A股“硬科技”代表性標的。對於下半年，維持超配A股，主要因其在週期維度上更具優勢的盈利動能，以及對國際投資者而言尚未被充分重視的分散化配置價值；也建議開始逐步增持部分港股大型網際網路公司股票。"
+    },
+    {
+      "id": "4983315",
+      "time": "2026-07-13 09:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.2%至45,902.76點。"
+    },
+    {
+      "id": "4983314",
+      "time": "2026-07-13 09:00:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報7746.00元。"
+    },
+    {
+      "id": "4983313",
+      "time": "2026-07-13 09:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報45,500.32。"
+    },
+    {
+      "id": "4983312",
+      "time": "2026-07-13 09:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2499.00點。"
+    },
+    {
+      "id": "4983311",
+      "time": "2026-07-13 09:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲1%，現報5668.00元。"
+    },
+    {
+      "id": "4983310",
+      "time": "2026-07-13 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2553.00元。"
+    },
+    {
+      "id": "4983309",
+      "time": "2026-07-13 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3265.00元。"
+    },
+    {
+      "id": "4983308",
+      "time": "2026-07-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.13%。"
+    },
+    {
+      "id": "4983307",
+      "time": "2026-07-13 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】燃料油連續漲3.99%，集運指數歐線期貨連續漲3.75%，上海原油連續漲3.00%，甲醇連續漲2.78%，丁二烯橡膠連續漲2.56%，液化石油氣連續漲2.49%，純苯連續漲2.28%，瀝青連續漲2.22%，低硫燃料油連續漲2.07%。"
+    },
+    {
+      "id": "4983306",
+      "time": "2026-07-13 08:59:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【智譜配售落地 摩根大通再度上調智譜目標價】摩根大通將智譜目標價上調20%，這是繼上週二上調這家中國大模型企業目標價後，一週內第二次上調該公司目標價。該行表示，公司最新募資計劃將助力營收增長。包括OliviaXu在內的分析師在研報中寫道，這筆40億美元股票配售所得新資金，能夠緩解算力服務供給瓶頸，同時支撐後續模型訓練投入。摩根大通稱，新增推理算力資源有望在12個月內轉化為年度經常性收入（ARR）。摩根大通將智譜目標價由2000港元上調至2400港元；上週二剛將目標價從1800港元調至2000港元。另外，摩根大通同步下調MiniMax目標價。該公司上週股份鎖定期屆滿並推出募資方案，配售帶來股權稀釋效應，因此下調預期。繼上週下調目標價後，本次再度將其目標價由300港元下調至240港元。"
+    },
+    {
+      "id": "4983305",
+      "time": "2026-07-13 08:58:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至3%】韓國綜指跌幅擴大至3%，現報7247.25點。個股方面，SK海力士跌超8%，三星電子跌超3%。"
+    },
+    {
+      "id": "te:markets:566172",
+      "time": "2026-07-13 08:58:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Opens Week on Softer Footing — Australian shares eased in early Monday trade, with the ASX 200 hovering near 8,797 after last week’s strength. Sentiment was dampened by weaker U.S. futures and renewed geopolitical tension, as reports of U.S.–Iran airstrikes and Tehran’s closure of the Strait of Hormuz weighed on risk appetite. Investors also turned cautious ahead of key economic data in top trading partner China later this week, including Q2 GDP and June activity figures, notably industrial output, retail sales, and the jobless rate. Locally, July confidence surveys for households and businesses will also be released, along with inflation expectations. Sector moves were uneven: tech services, industrials, and healthcare slipped, with Northern Star (-2.5%), Coles (-2.0%), Evolution (-1.4%), and Origin (-2.7%) among notable laggards. Meanwhile, miners provided some support, with BHP up 0.5% and Rio Tinto adding 0.2%. Financials were modestly firmer, as three of the big four banks rose between 0.1% and 0.4%."
+    },
+    {
+      "id": "4983304",
+      "time": "2026-07-13 08:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月10日579股獲融資買入超億元 中際旭創穫買入78.43億元居首】7月10日共有3465只個股獲融資資金買入，有579股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入78.43億元、67.08億元、33.08億元。"
+    },
+    {
+      "id": "4983303",
+      "time": "2026-07-13 08:54:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利第一大銀行OTP據悉考慮發行點心債籌資至多15億元。"
+    },
+    {
+      "id": "te:markets:566170",
+      "time": "2026-07-13 08:53:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Struggle on MidEast Tensions — The Nikkei 225 Index slipped 0.2% to around 68,400, while the broader Topix Index rose 0.6% to 4,060 in mixed trading on Monday as Japanese equities lacked clear direction amid escalating tensions in the Middle East, keeping inflationary pressures and interest-rate hike expectations in focus. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, driving oil prices higher. Investors are also awaiting a wave of corporate earnings reports from Wall Street this week, which will serve as a key test of whether the artificial intelligence-driven market rally can be supported by strong corporate results. Among individual stocks, Kioxia Holdings (-1.8%), Taiyo Yuden (-4.8%), and Yaskawa Electric (-14.2%) led the declines, while SUMCO Corp (7.9%), SoftBank Group (2%), and Mitsubishi UFJ (2.4%) posted solid gains."
+    },
+    {
+      "id": "mkt:019f58f6-cdb9-7aab-8d48-8b2fdc9c1748",
+      "time": "2026-07-13 08:53:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose 4.00% intraday to $79 per barrel; WTI crude gained nearly 4%."
+    },
+    {
+      "id": "4983302",
+      "time": "2026-07-13 08:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗一水泵站致1死4傷】據伊朗官方通訊社伊通社今天（7月13日）報道，美軍襲擊伊朗西南部馬赫沙赫爾的一處水泵站，造成1人死亡、4人受傷。（ CCTV國際時訊）"
+    },
+    {
+      "id": "4983300",
+      "time": "2026-07-13 08:52:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋼天源：公司不是磁珠和電感的原料供應商】中鋼天源(002057)7月13日在互動平臺表示，公司不是磁珠和電感的原料供應商。"
+    },
+    {
+      "id": "4983299",
+      "time": "2026-07-13 08:52:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙欣材料：PVB樹脂產品正推進MLCC行業下游客戶認證 認證週期存在不確定性】雙欣材料7月13日在互動平臺表示，公司PVB樹脂產品正在積極推進MLCC行業下游客戶的認證，該應用領域的PVB樹脂產品屬於高度定製化非標化工新材料，行業認證主要是下游客戶對公司該型號PVB樹脂產品的各項關鍵效能指標及穩定性的驗證，認證週期存在不確定性。"
+    },
+    {
+      "id": "4983298",
+      "time": "2026-07-13 08:51:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年秋冬季將形成超強厄爾尼諾事件 持續顯著影響我國氣候、海洋生態和防災減災】近日，國家海洋環境預報中心綜合海洋監測、大氣環流及多模式預測結果研判，今年秋冬季將形成一次超強厄爾尼諾事件，不排除趕超1997/1998年史上超強厄爾尼諾的可能，各類氣候及海洋災害風險需提前防範。 最新監測資料顯示，本次厄爾尼諾增暖特徵典型。今年春季增暖率先在赤道東太平洋秘魯沿岸海域出現，逐步向西擴充套件，5月已正式進入厄爾尼諾狀態，近期增暖速率顯著加快。目前，國內外動力、統計及人工智慧模式預測結論高度一致，預計今年秋冬季達到強至超強厄爾尼諾標準，重新整理歷史極值的可能性持續增大。 國家海洋環境預報中心專家表示，本次厄爾尼諾將對我國氣候、海洋生態和防災減災產生顯著持續性影響。颱風方面，西北太平洋及南海臺風生成數量偏少，但源地偏東偏南、強度更強，需重點防範強颱風引發的災害性海浪、風暴潮及海水倒灌災害。 氣候方面，今年夏秋季我國華北、東北及江南地區降水偏多，長江中游降水偏少，冬季整體呈現暖冬特徵。海洋領域，渤海、黃海、東海北部海溫偏高，區域性海洋熱浪風險突出，將威脅海水養殖安全，加劇珊瑚礁白化問題。（ 中國自然資源報  ）"
+    },
     {
       "id": "4983297",
       "time": "2026-07-13 08:49:21",
