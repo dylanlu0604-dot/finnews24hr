@@ -1,7 +1,98 @@
 {
   "date": "2026-07-13",
-  "count": 1112,
+  "count": 1121,
   "items": [
+    {
+      "id": "4983779",
+      "time": "2026-07-13 14:07:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【外資拋售致韓股失守7000點 暴漲暴跌頻繁年內累計35次觸發“側車”機制】據報道，韓國綜合股價指數（KOSPI）盤中一度跌破7000點大關，觸發今年第七次熔斷機制。由於美伊地緣政治緊張局勢再度升溫，外資和機構投資者大量拋售股票，導致該指數大幅下跌。這是自5月4日以來，KOSPI近兩個月來首次在交易中跌破7000點。資料顯示，外資和機構投資者領跌帶頭拋售，外資淨賣出2.23萬億韓元，機構投資者淨賣出約5700億韓元，而個人投資者淨買入近2.7萬億韓元。在機構投資者中，國民養老基金淨買入約2200億韓元。近期，韓國股市劇烈震盪，時而暴漲時而暴跌。今天的早盤中，一度觸發了今年第18次“暫停程式化交易機制”（側車機制），午後甚至啟動了熔斷機制。今年以來，韓國股市已累計出現17次買方觸發的“側車”和18次賣方觸發的“側車”操作，總計35次。"
+    },
+    {
+      "id": "4983778",
+      "time": "2026-07-13 14:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳王老吉銷售副總經理被免職，官方暫無回應】據報道，有接近王老吉的知情人士透露，廣州王老吉大健康產業有限公司（即“王老吉大健康”）負責銷售業務的副總經理王平已被免去所有職務。據悉，王平在王老吉體系內深耕多年，長期分管銷售與市場業務，曾任王老吉(廣東)銷售有限公司法定代表人、董事及銷售二部總監，並曾以副總經理身份主導營銷中心及電商板塊工作。對於上述情況，新浪財經問詢了王老吉方面，截止發稿前未獲回應；同時也致電王老吉大健康母公司白雲山，截止發稿前未能接通。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f5a16-389b-7aab-8d50-c997aa24f5d7",
+      "time": "2026-07-13 14:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign selling pushes KOSPI below 7,000, triggers 7th circuit breaker; 35 sidecar pauses YTD】KOSPI fell intraday below 7,000, triggering the seventh circuit breaker of the year after renewed US–Iran geopolitical tensions spurred heavy foreign and institutional selling. Foreign investors net sold 2.23 tln won and institutions net sold about 570 bln won; retail investors net bought roughly 2.7 tln won. The National Pension Service was a buyer, net purchasing about 220 bln won. The market hit a program‑trading pause (sidecar) in the morning and a circuit breaker in the afternoon. Year‑to‑date there have been 17 buy‑triggered and 18 sell‑triggered sidecar activations, 35 in total."
+    },
+    {
+      "id": "mkt:019f5a15-50a0-7aab-8d50-c010a40f874c",
+      "time": "2026-07-13 14:06:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY rose 25 pips to 162.26 after Refinitiv reported Japan has no plans to change GPIF target allocation."
+    },
+    {
+      "id": "te:markets:566255",
+      "time": "2026-07-13 14:05:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Markets Head for Lower Open — European equity markets were set to open sharply lower on Monday as surging oil prices following renewed hostilities between the US and Iran reignited concerns over inflation and the outlook for interest rates. The US carried out its fourth strike in a week against Iran on Sunday in retaliation for an Iranian attack on a Cyprus-flagged container ship. Tehran declared that the Strait of Hormuz would be closed \"until further notice,\" though the claim was dismissed by the US Central Command. Investors are also preparing for key US inflation data and a wave of corporate earnings reports from Wall Street this week. Meanwhile, Europe has no major economic data or corporate earnings releases scheduled for Monday, with traders instead turning their attention to Eurozone and UK GDP figures due later this week. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were down 1% and 0.8%, respectively."
+    },
+    {
+      "id": "4983777",
+      "time": "2026-07-13 14:05:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日元兌美元下跌，訊息面上，日本暫無計劃改變GPIF（政府養老基金）的分配方式。"
+    },
+    {
+      "id": "mkt:019f5a13-df53-7aab-8d50-b89ffc1e06bc",
+      "time": "2026-07-13 14:04:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Germany reportedly funding purchase of 50,000 attack drones for Ukraine】Foreign reports, citing a person familiar with the matter, say Germany is funding procurement of 50,000 attack drones for Ukraine — one of the largest known Western government drone orders for Kyiv. The order covers SkyFall’s Shrike FPV drones, fitted with Auterion software that can perform autonomous terminal‑phase tracking and engagement of moving targets, Auterion CEO Lorenz Meier confirmed. Meier said the contract is worth about €90m (≈$103m), funded by a European country; some units have been delivered to the Ukrainian government and the remainder are due this year. SkyFall has confirmed German participation in the purchase."
+    },
+    {
+      "id": "mkt:019f5a13-b3cf-7aab-8d50-b25d9ca1484c",
+      "time": "2026-07-13 14:04:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,050/oz, down 1.70% intraday."
+    },
+    {
+      "id": "4983776",
+      "time": "2026-07-13 14:04:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌1.68%。"
+    },
     {
       "id": "mkt:019f5a13-0f14-7aab-8d50-adf6a77ba658",
       "time": "2026-07-13 14:03:46",
