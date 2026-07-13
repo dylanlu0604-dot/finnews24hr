@@ -1,7 +1,49 @@
 {
   "date": "2026-07-14",
-  "count": 395,
+  "count": 399,
   "items": [
+    {
+      "id": "mkt:019f5d51-6568-7aab-8d64-3df6c2ca2690",
+      "time": "2026-07-14 05:10:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said it launched a third consecutive night of strikes against Iran at 4:45 p.m. ET today, saying the actions will continue to make Iranian forces pay a heavy price and degrade their ability to attack commercial shipping in the Strait of Hormuz."
+    },
+    {
+      "id": "4985366",
+      "time": "2026-07-14 05:10:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：應總司令指令，美國中央司令部於美國東部時間今日下午4點45分開啟連續第三晚針對伊朗的打擊行動。此次打擊將持續讓伊朗軍方付出沉重代價，並削弱其襲擊無辜平民與霍爾木茲海峽商船的能力。"
+    },
+    {
+      "id": "4985365",
+      "time": "2026-07-14 05:09:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：美國東部時間今日下午4點45分，美國中央司令部開始連續第三晚對伊朗發動打擊。"
+    },
+    {
+      "id": "mkt:019f5d4e-02bf-7aab-8d64-32c25d202b28",
+      "time": "2026-07-14 05:07:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon Web Services (AWS) says OpenAI GPT-5.6 models SOL, TERRA and LUNA are now fully available on AWS infrastructure."
+    },
     {
       "id": "4985364",
       "time": "2026-07-14 05:06:42",

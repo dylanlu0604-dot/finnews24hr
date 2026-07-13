@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-14 05:07:24",
-  "count": 17210,
+  "updated": "2026-07-14 05:13:08",
+  "count": 17208,
   "items": [
+    {
+      "id": "mkt:019f5d51-6568-7aab-8d64-3df6c2ca2690",
+      "time": "2026-07-14 05:10:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said it launched a third consecutive night of strikes against Iran at 4:45 p.m. ET today, saying the actions will continue to make Iranian forces pay a heavy price and degrade their ability to attack commercial shipping in the Strait of Hormuz."
+    },
+    {
+      "id": "4985366",
+      "time": "2026-07-14 05:10:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：應總司令指令，美國中央司令部於美國東部時間今日下午4點45分開啟連續第三晚針對伊朗的打擊行動。此次打擊將持續讓伊朗軍方付出沉重代價，並削弱其襲擊無辜平民與霍爾木茲海峽商船的能力。"
+    },
+    {
+      "id": "4985365",
+      "time": "2026-07-14 05:09:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：美國東部時間今日下午4點45分，美國中央司令部開始連續第三晚對伊朗發動打擊。"
+    },
+    {
+      "id": "mkt:019f5d4e-02bf-7aab-8d64-32c25d202b28",
+      "time": "2026-07-14 05:07:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon Web Services (AWS) says OpenAI GPT-5.6 models SOL, TERRA and LUNA are now fully available on AWS infrastructure."
+    },
     {
       "id": "4985364",
       "time": "2026-07-14 05:06:42",
@@ -157326,61 +157368,6 @@
         "其他"
       ],
       "text": "阿根廷央行調查顯示，該國未來12個月通脹預期為22.3%。"
-    },
-    {
-      "id": "mkt:019f3945-fa8c-7aab-8cbc-7fc481916dfe",
-      "time": "2026-07-07 05:11:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WMT.O",
-        "Impact bullish"
-      ],
-      "text": "Walmart's Sam's Club will continue offering competitive fuel prices and has reduced prices on more than 250 items to boost consumer value."
-    },
-    {
-      "id": "4973027",
-      "time": "2026-07-07 05:11:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾瑪公司：山姆會員店持續推出極具競爭力的燃油價格，為顧客帶來實惠油價，同時下調 250 餘種商品售價。消費者可在食品雜貨、家居日用品、戶外用品、玩具及服飾品類享受優惠，各類日常必需品全面降價。"
-    },
-    {
-      "id": "mkt:019f3945-abe6-7aab-8cbc-71bbc720fbf8",
-      "time": "2026-07-07 05:11:35",
-      "tags": [
-        "MKT News",
-        "RIVN.O",
-        "Impact bearish"
-      ],
-      "text": "Rivian filed paperwork with the SEC proposing an offering of 75 million Class A common shares."
-    },
-    {
-      "id": "4973026",
-      "time": "2026-07-07 05:11:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃爾瑪：碎牛肉售價由 6.74 美元下調至 5.94 美元。"
-    },
-    {
-      "id": "4973025",
-      "time": "2026-07-07 05:09:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破64000美元，日內漲1.01%。"
-    },
-    {
-      "id": "4973024",
-      "time": "2026-07-07 05:08:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "“特斯拉勁敵”Rivian二季度營收初步估算為15.5億-16.5億美元，分析師預期14.4億美元。"
     }
   ]
 }
