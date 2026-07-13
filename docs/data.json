@@ -1,7 +1,154 @@
 {
-  "updated": "2026-07-13 09:36:41",
+  "updated": "2026-07-13 09:40:38",
   "count": 16714,
   "items": [
+    {
+      "id": "mkt:019f5921-7993-7aab-8d49-f8b537f77da2",
+      "time": "2026-07-13 09:39:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Shenzhen Composite Index fell as much as 1% intraday; China's Shanghai Composite Index was down 0.7%."
+    },
+    {
+      "id": "4983399",
+      "time": "2026-07-13 09:39:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "晶片股快速反彈，上海合晶漲超10%，盛科通訊、帝奧微、瑞芯微、東微半導、恆玄科技、華天科技、寒武紀漲超5%。"
+    },
+    {
+      "id": "4983398",
+      "time": "2026-07-13 09:39:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報14895.145點；上證指數跌0.68%，現報3968.831點；創業板指跌0.44%，現報3825.787點。"
+    },
+    {
+      "id": "4983397",
+      "time": "2026-07-13 09:39:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量578億元。"
+    },
+    {
+      "id": "4983396",
+      "time": "2026-07-13 09:39:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寒武紀盤中漲超5%】A股寒武紀盤中漲5.02%，現報1475.02元。"
+    },
+    {
+      "id": "4983395",
+      "time": "2026-07-13 09:39:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.19%，成分股中，盛科通訊漲9.28%，寒武紀漲5.63%，恆玄科技漲5.36%，沐曦股份漲4.02%。"
+    },
+    {
+      "id": "mkt:019f5920-2345-7aab-8d49-f235aae93191",
+      "time": "2026-07-13 09:38:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-shares early session: MLCC-related stocks fell sharply. Fenghua Hi-Tech hit the daily limit, Yunzhong Technology dropped over 10%; Guoci Materials, Hongyuan Electronics, Zhenhua Technology and Sanhuan Group also declined."
+    },
+    {
+      "id": "mkt:019f591f-ee04-7aab-8d49-ea45da4b597b",
+      "time": "2026-07-13 09:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail short-term cash yield snapshot】Tencent Licaitong (demand + 7-day annualized) yielded between 0.7250% and 1.1840%. WeChat Lingqiantong (7-day annualized) ranged 0.8570%–1.0070%. Alipay Yu'e Bao (7-day annualized) ranged 0.9470%–1.0260%."
+    },
+    {
+      "id": "mkt:019f591f-5054-7aab-8d49-e7c58e557041",
+      "time": "2026-07-13 09:37:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00100.HK",
+        "Impact bearish"
+      ],
+      "text": "MINIMAX-W (00100.HK) extends losses to 10%."
+    },
+    {
+      "id": "4983394",
+      "time": "2026-07-13 09:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "MINIMAX-W(00100.HK)跌幅擴大至10%。"
+    },
+    {
+      "id": "4983393",
+      "time": "2026-07-13 09:36:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工板塊大幅調整，多氟多跌停】氟化工板塊大幅調整，多氟多跌停，江化微、南大光電、巨化股份、中船特氣、深圳新星、昊華科技等跟跌。"
+    },
+    {
+      "id": "4983392",
+      "time": "2026-07-13 09:36:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報4395.00元。"
+    },
+    {
+      "id": "4983391",
+      "time": "2026-07-13 09:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商業航天板塊下挫，電科藍天跌超10%】商業航天板塊下挫，電科藍天跌超10%，航天發展、上海港灣、航天動力、信維通訊、通宇通訊紛紛下挫。"
+    },
+    {
+      "id": "4983390",
+      "time": "2026-07-13 09:36:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4983389",
+      "time": "2026-07-13 09:36:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交換機概念再度活躍 星網銳捷10天6板】早盤交換機概念再度活躍，星網銳捷走出10天6板，菲菱科思、盛科通訊、銳捷網路、中興通訊、紫光股份跟漲。"
+    },
+    {
+      "id": "4983388",
+      "time": "2026-07-13 09:36:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
     {
       "id": "mkt:019f591d-eeb5-7aab-8d49-daea390af256",
       "time": "2026-07-13 09:36:01",
@@ -152178,152 +152325,6 @@
         "公司"
       ],
       "text": "【深城交等成立科技新公司，含AI及物聯網業務】企查查APP顯示，近日，北京深舟科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；智慧控制系統整合；物聯網裝置銷售；物聯網技術服務；大資料服務等。企查查股權穿透顯示，該公司由深城交等共同持股。"
-    },
-    {
-      "id": "4971356",
-      "time": "2026-07-06 09:40:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "斐濟總理：合作協議聚焦於深化安全合作、加強經濟一體化與韌性，以及強化民間聯絡。"
-    },
-    {
-      "id": "mkt:019f3515-7c7d-7aab-8ca7-fecee8abe999",
-      "time": "2026-07-06 09:40:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fiji's prime minister said he and Australia's prime minister signed the Wawel Treaty and the Peace Ocean Defense Alliance Treaty, and that the signings mark a significant upgrade in bilateral relations."
-    },
-    {
-      "id": "4971355",
-      "time": "2026-07-06 09:40:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化學化工板塊盤初震盪走高，金浦鈦業、振華股份漲停】化學化工板塊盤初震盪走高，金浦鈦業、振華股份漲停，惠雲鈦業、航錦科技、金瑞礦業、凱盛新材、世龍實業跟漲。相關ETF方面，化工ETF華寶（516020）成交額2690.43萬元，化工ETF富國（516120）成交額1865.04萬元。"
-    },
-    {
-      "id": "4971354",
-      "time": "2026-07-06 09:39:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元匯率跌至32，為4月以來首次。"
-    },
-    {
-      "id": "4971353",
-      "time": "2026-07-06 09:39:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4971352",
-      "time": "2026-07-06 09:39:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "斐濟總理：多項協議標誌著雙邊（斐濟和澳大利亞）關係大幅升級。"
-    },
-    {
-      "id": "4971351",
-      "time": "2026-07-06 09:39:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "斐濟總理：澳大利亞總理與我簽署了《VUVALE條約》與《和平海洋防務聯盟》。"
-    },
-    {
-      "id": "4971350",
-      "time": "2026-07-06 09:38:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量118億元。"
-    },
-    {
-      "id": "mkt:019f3513-87e9-7aab-8ca7-f1e3f2b2521d",
-      "time": "2026-07-06 09:38:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China A-share titanium dioxide sector rallied; Zhenhua Co. hit the daily trading limit, while Jinpu Titanium, Huiyun Titanium and Kuncai Technology also rose."
-    },
-    {
-      "id": "mkt:019f3513-4633-7aab-8ca7-eb9ff38e9719",
-      "time": "2026-07-06 09:38:03",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【India to expand domestic crude exploration to cut import reliance】Hardeep Singh Puri, India’s minister of petroleum and natural gas, said India is expanding domestic crude exploration and is tendering roughly 250,000 sq km of previously unexplored acreage to boost local supply and reduce import dependence, AFP reported on the 5th. Puri said recent transit constraints through the Strait of Hormuz tightened supplies. India produced 25.98 mln tonnes of crude in FY25 (about 522,000 bpd), down from a 2011 peak above 900,000 bpd, meeting roughly 10% of domestic crude demand. To ease supply pressure, India has broadened its supplier base from 27 to 41 countries, adding Iran and Venezuela and increasing purchases from Russia and several African suppliers."
-    },
-    {
-      "id": "4971349",
-      "time": "2026-07-06 09:37:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【燃氣輪機概念表現活躍】聯德股份逼近漲停，傑瑞股份、應流股份、隆達股份、汽輪科技、常寶股份跟漲。"
-    },
-    {
-      "id": "mkt:019f3512-a12e-7aab-8ca7-e658a5d27572",
-      "time": "2026-07-06 09:37:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "China A-share benchmark indices turned lower; the Shenzhen Composite Index fell 0.23% and the ChiNext Index fell 0.6%."
-    },
-    {
-      "id": "4971348",
-      "time": "2026-07-06 09:37:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【玻璃基板概念股盤初下挫，彩虹股份跌超5%】玻璃基板概念股盤初下挫，彩虹股份跌超5%，帝爾鐳射、雷曼光電、京東方A、沃格光電紛紛下挫。"
-    },
-    {
-      "id": "4971347",
-      "time": "2026-07-06 09:36:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊盤初衝高，歡瑞世紀漲停】影視院線板塊盤初衝高，歡瑞世紀漲停，幸福藍海、金逸影視、中國電影、橫店影視、慈文傳媒跟漲。相關ETF方面，影視ETF國泰（516620）漲0.6%，成交額272.23萬元，傳媒ETF廣發（512980）漲0.74%，成交額2076.88萬元。"
-    },
-    {
-      "id": "te:markets:564269",
-      "time": "2026-07-06 09:36:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Gains Ahead of Key Earnings — The benchmark KOSPI rose 1% to around 8,170 on Monday, extending gains from the previous session as technology stocks advanced ahead of key corporate earnings. Investors looked ahead to Samsung Electronics' highly anticipated second-quarter results, which are expected to provide fresh confirmation of robust AI-driven memory chip demand and pricing following recent volatility in global semiconductor shares. US stock futures also advanced despite lingering concerns over AI-related valuations, improving global risk sentiment. Samsung Electronics climbed 3.4%, while SK hynix rose 1.3%. Other notable gainers included SK Square (3.3%), Hyundai Motor (2.4%), HD Hyundai Heavy Industries (2.4%), Kia Corporation (5.5%), and KB Financial Group (2.1%). Sentiment also remained underpinned by the government's continued support for AI and semiconductor development, including plans to launch a future-growth fund financed by semiconductor tax revenue and accelerate AI adoption across the economy."
-    },
-    {
-      "id": "4971346",
-      "time": "2026-07-06 09:36:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器人概念延續強勢 雷賽智慧3連板】早盤機器人概念延續上週強勢，雷賽智慧3連板，華依科技觸及20cm漲停，風語築、埃斯頓、徵和工業、臥龍電驅、大洋電機跟漲。訊息面上，7月3日，北京2026全球數字經濟大會現場，特斯拉副總裁陶琳登臺發表主題演講，公開對外確認核心規劃：特斯拉Optimus人形機器人將於2026年底正式啟動規模化量產，弗裡蒙特工廠遠期設計年產能目標100萬臺。"
     }
   ]
 }
