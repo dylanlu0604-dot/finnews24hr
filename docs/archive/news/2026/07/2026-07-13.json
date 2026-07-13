@@ -1,7 +1,106 @@
 {
   "date": "2026-07-13",
-  "count": 485,
+  "count": 496,
   "items": [
+    {
+      "id": "mkt:019f591a-5054-7aab-8d49-a2cada73936b",
+      "time": "2026-07-13 09:32:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share gas sector rallies; Shuifa Gas hits daily limit-up, Kaitian Gas, Tianhao Energy, Hongtong Gas, Shenzhen Gas and Guizhou Gas also trade higher."
+    },
+    {
+      "id": "mkt:019f591a-3ef5-7aab-8d49-9a435df3c7f2",
+      "time": "2026-07-13 09:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened down 0.11%. Jingzhuang convertible bond, Lanxiao Convertible 02, Hongwei convertible bond, Lianrui convertible bond and Shengde convertible bond led declines, down 3.72%, 3.47%, 3.30%, 3.22% and 2.22% respectively. Weike convertible bond, Aike convertible bond, Nanxin convertible bond, Hangyang convertible bond and Jindi convertible bond led gains, up 20.00%, 8.61%, 8.07%, 4.79% and 4.26% respectively."
+    },
+    {
+      "id": "4983371",
+      "time": "2026-07-13 09:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【燃氣板塊走高，九豐能源2連板】燃氣板塊走高，九豐能源2連板，水發燃氣漲停，凱添燃氣、天壕能源、洪通燃氣、深圳燃氣、貴州燃氣跟漲。"
+    },
+    {
+      "id": "4983370",
+      "time": "2026-07-13 09:31:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "立邦塗料：已提出以75億歐元收購阿克蘇諾貝爾裝飾塗料業務；但本次收購的具體事項尚未確定。"
+    },
+    {
+      "id": "mkt:019f5919-3b2e-7aab-8d49-97f4a8ebbfb9",
+      "time": "2026-07-13 09:30:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "DXY"
+      ],
+      "text": "【DR Congo Ebola outbreak expands to five provinces; over 1,800 confirmed cases】DR Congo health ministry said on July 12 the current Ebola outbreak now affects five provinces, with 1,873 confirmed cases and 672 deaths. Tshopo and Haut-Uele were newly listed as affected provinces; cases there are linked to the Nia‑Nia area of Ituri. Previously affected provinces were Ituri, North Kivu and South Kivu. The report said 763 patients remain in isolation or hospital and 306 have recovered. South Kivu has reported no new confirmed cases since May 26, marking 42 consecutive days without new confirmed cases as of July 7, twice the maximum Ebola incubation period."
+    },
+    {
+      "id": "4983369",
+      "time": "2026-07-13 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.07%，成分股中，天力複合跌6.45%，同惠電子跌3.06%，開特股份跌2.94%，萬達軸承跌2.89%。"
+    },
+    {
+      "id": "4983368",
+      "time": "2026-07-13 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.25%， 滬深300指數期貨連續跌0.80%， 中證500指數期貨連續跌1.42%， 上證50指數期貨連續跌0.99%。"
+    },
+    {
+      "id": "4983367",
+      "time": "2026-07-13 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.04%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4983366",
+      "time": "2026-07-13 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.29%，成分股中，佰維儲存跌4.25%，盛美上海跌3.28%，華海清科跌3.25%，中微公司跌3.00%。"
+    },
+    {
+      "id": "4983365",
+      "time": "2026-07-13 09:29:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情擴至5省 超1800例確診】剛果（金）衛生部12日釋出的最新疫情報告顯示，該國本輪埃博拉疫情影響地區已增加至5個省，累計報告確診病例1873例，其中死亡672例。喬波省和上韋萊省首次被列入受疫情影響省份。報告說，兩省發現的病例均與伊圖裡省尼亞尼亞地區有關。此前該國埃博拉疫情影響地區為伊圖裡省、北基伍省和南基伍省。根據報告，763名患者正在接受隔離或住院治療，累計治癒病例為306例。（新華社）"
+    },
+    {
+      "id": "mkt:019f5917-48ef-7aab-8d49-8a5fa3ef3af2",
+      "time": "2026-07-13 09:28:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share electronic specialty gases sector opened sharply higher; Jiufeng Energy opened locked at the daily upper limit, marking a second consecutive limit-up. Huate Gas, Hangyang, Kaimete Gas, Shudao Equipment, Guanggang Gas and Jin Hong Gas also advanced."
+    },
     {
       "id": "mkt:019f5916-a858-7aab-8d49-842207e32ee3",
       "time": "2026-07-13 09:28:04",
