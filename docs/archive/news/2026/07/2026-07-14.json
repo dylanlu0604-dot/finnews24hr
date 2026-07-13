@@ -1,7 +1,54 @@
 {
   "date": "2026-07-14",
-  "count": 514,
+  "count": 519,
   "items": [
+    {
+      "id": "4985438",
+      "time": "2026-07-14 06:45:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭5月短期入境遊客同比增加6.7%。"
+    },
+    {
+      "id": "4985437",
+      "time": "2026-07-14 06:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭5月經季節性調整後的淨移民人數增加1860人。"
+    },
+    {
+      "id": "mkt:019f5da8-1bba-7aab-8d65-902a8bb343cc",
+      "time": "2026-07-14 06:45:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UAE says two tankers attacked in Strait of Hormuz; 1 dead, 8 injured】The UAE Defense Ministry said on July 14 two UAE tankers in the southern shipping lane of the Strait of Hormuz were hit by two Iranian cruise missiles, killing one Indian crew member and injuring eight, four seriously. Both vessels caught fire; the ministry said fires are now under control. Iran has not responded. The ministry condemned the incident as a serious violation of international law and said it reserves the right to take all necessary measures to defend national sovereignty and security."
+    },
+    {
+      "id": "4985436",
+      "time": "2026-07-14 06:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋稱2艘油輪遭襲1死8傷】阿聯酋國防部今天（7月14日）剛剛發表宣告稱，2艘阿聯酋油輪在霍爾木茲海峽南向航道“遭伊朗2枚巡航導彈襲擊”，造成1名印度籍船員死亡，另有8人受傷，其中4人傷勢嚴重。伊朗方面對此暫無回應。 阿聯酋國防部稱，2艘油輪均起火，火勢目前已得到控制。阿聯酋國防部譴責此次襲擊“嚴重違反國際法”，並表示保留採取一切必要措施捍衛國家主權與安全的正當權利。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:566513",
+      "time": "2026-07-14 06:44:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 2.78% — Top crypto losers are Bitcoin (-2.78%), Ether (-2.41%) and Binance (-1.34%)."
+    },
     {
       "id": "mkt:019f5da6-37f2-7aab-8d65-8b210bed1afa",
       "time": "2026-07-14 06:43:22",
