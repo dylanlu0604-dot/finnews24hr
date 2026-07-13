@@ -1,7 +1,158 @@
 {
-  "updated": "2026-07-13 10:08:33",
-  "count": 16735,
+  "updated": "2026-07-13 10:12:27",
+  "count": 16740,
   "items": [
+    {
+      "id": "mkt:019f593e-7ff2-7aab-8d4b-558083dd43b1",
+      "time": "2026-07-13 10:11:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Explosion near US military base in Bahrain; air defences activated】An explosion occurred near a US military base in Bahrain on July 13 local time. Bahrain’s interior ministry said air defence systems were activated."
+    },
+    {
+      "id": "4983465",
+      "time": "2026-07-13 10:11:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019f593e-7236-7aab-8d4b-4fcd7650fe45",
+      "time": "2026-07-13 10:11:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share brokerage sector jumped intraday; Zhongtai Securities rose over 6%, with Tianfeng Securities, Changjiang Securities, Huaxin Shares and Founder Securities also higher."
+    },
+    {
+      "id": "4983464",
+      "time": "2026-07-13 10:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孫東旭明明天權在北京成立新科技公司】天眼查App顯示，近日，美麗明天（北京）科技有限公司成立，法定代表人為孫東旭，註冊資本1000萬人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，鮮肉批發，水產品批發等。股東資訊顯示，該公司由孫東旭、石明、郭天權共同持股，其中孫東旭持股 34%，石明、郭天權各持股33%。"
+    },
+    {
+      "id": "mkt:019f593d-f6b3-7aab-8d4b-47c002456236",
+      "time": "2026-07-13 10:11:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Tax window and large government bond repayments create >RMB2.2 trillion liquidity gap; PBOC likely to cushion】Quarter-beginning tax payments and a rise in government bond net redemptions are set to tighten liquidity this week. July tax receipts historically run about RMB1.7–1.9 trillion (2021–25); government bond net repayments have risen to RMB568.7 billion, producing a combined funding shortfall exceeding RMB2.2 trillion. The PBOC is likely to step up reverse-repo injections to cushion money markets; a RMB900 billion six‑month buyout reverse repo matures this week, leaving scope for net injection. Overnight reverse repos may be reintroduced to smooth short-term volatility—the tool was used at quarter-end on June 29–30 (RMB300 billion and RMB600 billion) to blunt rate spikes."
+    },
+    {
+      "id": "4983463",
+      "time": "2026-07-13 10:10:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【稅期遇上大額政府債繳款 預計央行呵護延續 壓力總體可控】本週將迎來稅期作為季初月，7月通常為繳稅大月，參考2021-2025年同期資料，7月繳稅規模基本落在1.7-1.9萬億元水平，對資金面的實際衝擊並不大。另外，政府債淨繳款規模上升至5687億元，大稅期走款與政府債大額繳款疊加，流動性預計面臨2.2萬億元以上的資金缺口。業內人士指出，若本週資金壓力增大，央行可能也會同步加大逆回購投放予以呵護。同時，恰逢9000億元6個月買斷式逆回購到期視窗，央行有望適當淨投放。此外，隔夜逆回購工具也不排除在稅期重啟，平抑資金面階段性波動。此前該工具已在跨季時點投入使用（6月29-30日分別投放3000、6000億元），以平滑跨季前後資金利率的凸點。（新華財經）"
+    },
+    {
+      "id": "4983462",
+      "time": "2026-07-13 10:10:39",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【證券板塊短線衝高，中泰證券漲超6%】證券板塊短線衝高，中泰證券漲超6%、天風證券、長江證券、華鑫股份、方正證券跟漲。"
+    },
+    {
+      "id": "4983461",
+      "time": "2026-07-13 10:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "照片顯示美國海軍第五艦隊總部在巴林遭到直接襲擊。"
+    },
+    {
+      "id": "4983460",
+      "time": "2026-07-13 10:10:09",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛：AI或引爆美國通脹 儲存暴漲是核心推手】高盛最新研究表明，美國很可能將首當其衝地受到由人工智慧（AI）引發的全球通脹浪潮的衝擊。這家華爾街巨頭對AI熱潮如何推高全球消費者價格進行了分析。由於供應受限，記憶體晶片和半導體等關鍵零部件的價格被推高。高盛經濟學家Megan Peters撰文指出，美國可能會遭受最嚴重的通脹衝擊。根據高盛的估計，AI每年使美國核心個人消費支出（PCE）通脹率（美聯儲偏好的通脹指標）上升約20個基點。到今年年底，預計這股通脹壓力將增加一倍以上，對核心PCE的推升幅度將達到50個基點。"
+    },
+    {
+      "id": "mkt:019f593c-e53c-7aab-8d4b-3be22a2e6d59",
+      "time": "2026-07-13 10:09:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Indonesian rupiah weakened to 18,110 per dollar, its weakest level since June 9."
+    },
+    {
+      "id": "4983459",
+      "time": "2026-07-13 10:09:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元跌至18110，創6月9日以來新低。"
+    },
+    {
+      "id": "4983458",
+      "time": "2026-07-13 10:08:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "安東尼廢物處理公司稱，其垃圾焚燒發電廠的運營已暫停。"
+    },
+    {
+      "id": "4983457",
+      "time": "2026-07-13 10:08:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河航天合肥載荷中心首套通訊衛星載荷正式下線】近日，銀河航天合肥載荷中心首套通訊衛星載荷正式下線，標誌其衛星通訊載荷智慧產線正式投產。專案一期達產後，可年產適配50—100顆衛星的通訊載荷。"
+    },
+    {
+      "id": "mkt:019f593b-7f0e-7aab-8d4b-33b147ca6e2b",
+      "time": "2026-07-13 10:08:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 2-year Treasury yield hit a 17-month high of 4.2393%. Federal funds futures price in about 39bps of rate hikes by December."
+    },
+    {
+      "id": "te:markets:566195",
+      "time": "2026-07-13 10:08:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall as Week Begins — The Shanghai Composite fell 0.7% to 3,968 on Monday, while the Shenzhen Component dropped 1.6% to 14,808, extending losses from the previous week as market sentiment remained cautious amid renewed US-Iran tensions. Over the weekend, fresh US missile strikes on Iran intensified tensions between Washington and Tehran, with both countries giving contradictory signals on the status of shipping through the Strait of Hormuz. The latest escalation clouded prospects for negotiations over Iran's nuclear program and a broader resolution to the conflict. Meanwhile, China reportedly urged major refiners to maintain strong fuel output to bolster energy security as disruptions to Persian Gulf oil shipments loom, despite ample fuel stockpiles and subdued consumption. Among individual stocks, BYD (-3.2%), Luxshare Precision Industry (-2.5%), and Hangzhou Hikvision Digital (-1.7%) led the declines. In contrast, energy shares outperformed, with PetroChina up 0.9% and CNOOC gaining 2.2%."
+    },
     {
       "id": "4983456",
       "time": "2026-07-13 10:07:11",
@@ -152462,104 +152613,6 @@
         "國際"
       ],
       "text": "日本日經指數下跌 1%，報 69046.03 點。"
-    },
-    {
-      "id": "te:markets:564285",
-      "time": "2026-07-06 10:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Pulls Back Amid Lack of Intervention — The Japanese yen weakened toward 162 per dollar on Monday, giving back about half of its July 2 gains as Tokyo has yet to intervene despite repeated warnings from officials. Investors also remain skeptical that any intervention would provide lasting support for the currency. Late last week, the yen rebounded sharply from 40-year lows after reports suggested Japan may stop signaling its intervention plans in advance to catch traders off guard and help unwind speculative bets against the currency. Finance Minister Satsuki Katayama also reiterated that authorities are prepared to step into the market at any time if needed, adding that Japan and the US remain in close contact on foreign exchange policy. Meanwhile, the yen continued to draw support from a weaker dollar after soft US jobs data prompted traders to scale back expectations for Federal Reserve interest rate hikes this year."
-    },
-    {
-      "id": "4971416",
-      "time": "2026-07-06 10:11:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報23585.070點；恒生科技指數現漲1.313%。"
-    },
-    {
-      "id": "4971415",
-      "time": "2026-07-06 10:11:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：謀求經濟強勁發展，以此實現稅收自然增長。"
-    },
-    {
-      "id": "4971414",
-      "time": "2026-07-06 10:10:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商輪船漲超6%】招商輪船漲超6%，報18.08元，成交額超16億元。公司7月5日公告，預計上半年實現淨利潤66億元—73億元，淨利潤同比增長214%—248%。"
-    },
-    {
-      "id": "4971413",
-      "time": "2026-07-06 10:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺7月6日06時繼續釋出暴雨橙色預警】預計，7月6日08時至7日08時，廣西中東部、廣東中西部、海南島西南部、湖南西南部和北部、湖北東部、河南東北部和南部、安徽中北部、江蘇北部、山東中南部以及內蒙古東北部等地部分地區有暴雨，其中廣西北部和東南部、廣東南部沿海、湖南西南部和東北部、湖北東南部、安徽北部、江蘇北部、山東南部等地部分地區有大暴雨，廣西東南部沿海、廣東西南部等地局地特大暴雨（250～280毫米）。上述部分地區伴有短時強降水（最大小時降雨量30～60毫米，局地可超過90毫米），局地有雷暴大風或冰雹等強對流天氣。"
-    },
-    {
-      "id": "te:markets:564284",
-      "time": "2026-07-06 10:09:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Rise to Start the Week — The Shanghai Composite rose 0.4% to 4,059 on Monday, while the Shenzhen Component added 0.7% to 15,705, supported by improving sentiment as shipments through the Strait of Hormuz showed signs of recovery. After a series of unexplained vessel U-turns and route diversions disrupted traffic in the strategic waterway, oil and gas flows along a US-protected transit corridor began to normalize, easing concerns over potential supply disruptions. On the domestic front, investors turned their attention to key inflation data due later this week. Consumer inflation is expected to hold steady at 1.2%, while producer price inflation is forecast to accelerate slightly to 4.1% from 3.9%. Among individual stocks, notable gainers included CNOOC Limited (3.5%), Zijin Mining Group (5.8%), and Shenzhen Longsys Electronics (12.5%). In contrast, CATL slipped 0.4% after investing in CarbonScape Ltd. to expand bio-based graphite production amid growing EV and energy storage demand."
-    },
-    {
-      "id": "4971412",
-      "time": "2026-07-06 10:09:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4971411",
-      "time": "2026-07-06 10:09:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股科網股拉昇，嗶哩嗶哩、騰訊控股漲超3%，美團漲2.4%，阿里巴巴漲1.9%。"
-    },
-    {
-      "id": "mkt:019f352f-9687-7aab-8ca8-a547b12fa0ad",
-      "time": "2026-07-06 10:08:58",
-      "tags": [
-        "MKT News",
-        "09626.HK",
-        "Impact bullish",
-        "00700.HK",
-        "03690.HK"
-      ],
-      "text": "Hong Kong tech shares rallied; Bilibili (09626.HK) and Tencent Holdings (00700.HK) rose over 3%, Meituan (03690.HK) gained 2.4% and Alibaba Group (09988.HK) added 1.9%."
-    },
-    {
-      "id": "te:markets:564283",
-      "time": "2026-07-06 10:08:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Higher as PMI Improves — The Hang Seng Index rose 0.8%, or 187 points, to 23,529 on Monday, supported by stronger-than-expected private-sector activity after the S&P Global Hong Kong SAR PMI climbed to 52.0 in June from 50.4 in May, marking the fastest expansion since February. Investors also looked ahead to China's June CPI and PPI data due later this week for fresh clues on the mainland's economic recovery. Gains were tempered, however, by caution over a record wave of IPO lock-up expirations this week, which could increase share supply and trigger profit-taking in recently listed companies. Chinese AI developer Knowledge Atlas Technology will see 25.6 million shares, or nearly 6% of its outstanding stock, become eligible for trading on Wednesday, while MiniMax and Shanghai Iluvatar CoreX Semiconductor are also set to unlock sizeable portions of their shares. Among notable movers were SMIC (1.6%), Innovent Biologics (3.6%), and Kingboard Holdings (2.2%) while Knowledge Atlas Technology declined 7.2%."
     }
   ]
 }
