@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-13 08:23:03",
-  "count": 16700,
+  "updated": "2026-07-13 08:26:57",
+  "count": 16708,
   "items": [
+    {
+      "id": "4983269",
+      "time": "2026-07-13 08:26:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲0.3% AI樂觀情緒蓋過中東緊張局勢】隨著圍繞人工智慧的樂觀情緒蓋過中東緊張局勢，日經指數抹去早盤跌幅，上漲0.3%，至68,774.71點。SK海力士在美國市場的歷史性首秀有助於恢復投資者對AI交易的興趣。“半導體題材是一個支撐因素，“澳大利亞國民銀行高階經濟學家Taylor Nugent在評論中表示。在日本基準指數表現最好的成分股中，Lasertec上漲4.9%，Furukawa Electric上漲4.3%，Tokyo Ohka Kogyo上漲4.05%。然而，在美國表示於週日晚間對伊朗發動新一輪打擊之後，日本股市的漲幅可能受限。"
+    },
+    {
+      "id": "te:markets:566163",
+      "time": "2026-07-13 08:25:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises 3% — US heating oil futures rose about 3% to above $3.65 per gallon on Monday, recouping losses from recent sessions as escalating hostilities between the US and Iran heightened concerns over fuel supplies. The US launched another wave of strikes on Iran on Sunday after hitting 140 targets a day earlier in response to an IRGC attack on a container ship in the Strait of Hormuz. Iran retaliated by targeting US military facilities across Jordan, Kuwait, Bahrain, and Oman. While Tehran claimed it had closed the Strait of Hormuz until further notice, US Central Command maintained that the strategic waterway remained open to lawful shipping. The latest flare-up further dimmed hopes for diplomacy after reports last week indicated technical talks were underway. Meanwhile, Russia said it would suspend diesel exports and become a net importer as repeated Ukrainian attacks and higher crude prices disrupted operations at key refineries, adding to supply concerns."
+    },
+    {
+      "id": "4983268",
+      "time": "2026-07-13 08:25:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士在納斯達克強勢首秀後 其首爾股市股價一度下跌4.4%】週一早盤，SK海力士股價一度下跌4.4%。此前，這家全球領先的人工智慧記憶體晶片製造商在週五備受矚目的美國上市後，其納斯達克首日交易大漲12.8%。這家韓國記憶體晶片製造商透過以每股149美元的價格發行美國存託憑證（ADR），籌集了超過260億美元。該股開盤價為170美元，較發行價高出14%，最終在首個交易日收盤時上漲12.8%。韓國基準股指KOSPI指數下跌0.4%。"
+    },
+    {
+      "id": "4983267",
+      "time": "2026-07-13 08:24:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士在納斯達克強勢首秀後，其首爾股市股價一度下跌4.4%。"
+    },
+    {
+      "id": "4983266",
+      "time": "2026-07-13 08:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創：行業算力需求和頻寬需求真實存在，會反映到光模組廠商業績上】中際旭創7月12日稱，2027—2028年會出現更高頻寬的光連線產品，行業技術趨勢仍在加速，行業的算力需求和頻寬的需求都是真實存在的，會反映到光模組廠商的訂單、收入和業績上。關於近期市場對CSP客戶及行業需求的懷疑，公司目前看到行業需求依然強勁，且沒有看到大客戶的需求指引出現下修的情況。"
+    },
+    {
+      "id": "mkt:019f58dc-4dd3-7aab-8d48-65e19aae14b8",
+      "time": "2026-07-13 08:24:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhongji Xuchuang says Q2 gross-margin outlook remains stable】Zhongji Xuchuang said on July 12 it expects Q2 gross margin to remain stable and does not foresee a material decline from component shortages or input-price rises. It expects materials to ease to varying degrees in H2, said inventory is ample and that margins should see marginal improvement in H2, and expressed confidence in maintaining future gross-margin stability."
+    },
+    {
+      "id": "4983265",
+      "time": "2026-07-13 08:24:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡交易所：6月證券日均成交額21億新加坡元。"
+    },
+    {
+      "id": "4983264",
+      "time": "2026-07-13 08:23:56",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：仍看好美股科技主線，目前更偏好海外算力鏈中下游環節】中信證券研報稱，注意到美國企業的AI採用率正在提高，整體企業部門的科技投資強度符合長期趨勢，相信市場競爭機制將推動更多企業用AI提升工作效率，這將帶來全新的算力服務、AI模型與應用的需求。中信證券仍看好美股的科技主線，目前更偏好海外算力鏈的中下游環節，且看好美股相較於日韓股市的吸引力。"
+    },
+    {
+      "id": "mkt:019f58db-96d2-7aab-8d48-5d99756ec943",
+      "time": "2026-07-13 08:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SGX: June securities market turnover rose 72% YoY to SGD 44.6 bln; derivatives volume rose 31% YoY to 34.3 mln contracts."
+    },
+    {
+      "id": "4983263",
+      "time": "2026-07-13 08:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創：二季度公司毛利率預期仍保持穩定】中際旭創7月12日稱，二季度公司毛利率預期仍保持穩定，不會由於物料緊張、物料漲價等因素出現明顯下滑。今年下半年，物料預計將出現不同程度的緩解，公司備料非常充分，下半年會有邊際改善。公司有信心保持未來毛利率的穩定。"
+    },
+    {
+      "id": "4983262",
+      "time": "2026-07-13 08:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林東遼縣啟動14個臨時安置點 409戶村民提前轉移】受颱風“巴威”影響，預計到14日夜間，吉林東遼將出現大到暴雨，東遼河流域洪水風險較高。目前，當地啟動14個臨時安置點，覆蓋東遼縣全部鄉鎮街。"
+    },
     {
       "id": "4983261",
       "time": "2026-07-13 08:22:18",
@@ -152159,31 +152253,6 @@
         "MKT News"
       ],
       "text": "South Korea's KOSPI, after approaching a 3% intraday gain, pulled back sharply and is currently up 1.4%."
-    },
-    {
-      "id": "4971239",
-      "time": "2026-07-06 08:26:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方財富策略陳果團隊：A股再平衡繼續，關注業績超預期】東方財富策略陳果團隊研報指出，隨著中報視窗期的到來，認為市場可放下“矽基碳基之爭”，以開放的心態，全面考察各行業景氣度和重點公司業績是否超越市場預期。縱觀申萬二級行業，我們將景氣度向上行業分為四類：第一類，兼具高利潤體量和高預期增速的半導體、通訊裝置、化學制品；第二類，利潤體量不大但增速預期大幅上修的飼料、能源金屬等；第三類，利潤體量較大因此資金容量大、增速預期尚可的工業金屬、煉化及貿易、證券、城商行、電池、煤炭開採等；第四類，利潤體量不大但增速預期相對匹配的偏穩健增長行業，如電網裝置、化學制藥、其他電源裝置、元件、物流、航運港口等。總的來說，我們認為中報以及下半年基本面，能超越市場預期的，並非只有前期最熱門的AI上游賽道。"
-    },
-    {
-      "id": "4971238",
-      "time": "2026-07-06 08:26:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數一度上漲2.9%，至8,319.38點。"
-    },
-    {
-      "id": "4971237",
-      "time": "2026-07-06 08:24:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部發布洪水黃色預警 珠江流域部分河流將出現超警洪水】從水利部瞭解到，受颱風“美莎克”影響，珠江流域西江干流及支流柳江、桂江、鬱江、北流河等主要河流將出現超警洪水過程，暴雨區內鬱江支流東班江新江河、桂南沿海大風江茅嶺江等中小河流可能發生較大洪水。水利部資訊中心釋出洪水黃色預警，提醒廣西、廣東等省份相關地區社會公眾注意防範。"
     }
   ]
 }
