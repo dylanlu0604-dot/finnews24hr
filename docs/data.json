@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-14 02:26:30",
-  "count": 17193,
+  "updated": "2026-07-14 02:30:15",
+  "count": 17187,
   "items": [
+    {
+      "id": "mkt:019f5cbb-6ca9-7aab-8d62-d8148f6fc84f",
+      "time": "2026-07-14 02:26:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Joint Maritime Information Center (JMIC) said the threat level to transit through the Strait of Hormuz remains \"severe\" and further deliberate hostile actions may occur."
+    },
     {
       "id": "mkt:019f5cba-1466-7aab-8d62-d29a09403fef",
       "time": "2026-07-14 02:25:26",
@@ -157132,71 +157145,6 @@
         "國際"
       ],
       "text": "美國原油期貨結算價報每桶68.55美元，下跌14美分，跌幅0.20%。"
-    },
-    {
-      "id": "4972960",
-      "time": "2026-07-07 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.23%，報438.30元人民幣/桶。滬金夜盤收跌0.15%，滬銀收跌0.47%。"
-    },
-    {
-      "id": "4972959",
-      "time": "2026-07-07 02:29:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據Kraken交易所官網訊息，受BONK代幣相關突發事件影響，該平臺已臨時暫停BONK代幣的充提業務。"
-    },
-    {
-      "id": "mkt:019f38b0-f208-7aab-8cba-dee2ac82b38b",
-      "time": "2026-07-07 02:29:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "YONHAP reports Trump reiterated tariffs have prompted South Korean, Japanese and other automakers to build plants in the U.S."
-    },
-    {
-      "id": "mkt:019f38af-5a00-7aab-8cba-d383afc869cc",
-      "time": "2026-07-07 02:27:23",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "Syrian President Shala said Syria will order eight Airbus aircraft in the near term."
-    },
-    {
-      "id": "mkt:019f38af-20cc-7aab-8cba-ca928456f547",
-      "time": "2026-07-07 02:27:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syrian president Shala said France can play a role in Syria's reconstruction and other areas."
-    },
-    {
-      "id": "4972958",
-      "time": "2026-07-07 02:27:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱日聯金融集團總裁稱，該集團計劃中長期將股本回報率提升至15%左右的區間中段。"
-    },
-    {
-      "id": "4972957",
-      "time": "2026-07-07 02:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱俄對烏大規模襲擊致22人死亡】烏克蘭總統澤連斯基當地時間6日表示，俄羅斯當天對烏克蘭發動的大規模襲擊已造成22人死亡、近90人受傷，目前救援和善後工作仍在繼續。澤連斯基稱，俄軍此次共發射68枚導彈，其中包括大量彈道導彈，併發射350多架不同型別無人機。他表示，此次襲擊的主要目標是基輔及基輔州。"
     }
   ]
 }

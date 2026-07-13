@@ -1,7 +1,20 @@
 {
   "date": "2026-07-14",
-  "count": 253,
+  "count": 254,
   "items": [
+    {
+      "id": "mkt:019f5cbb-6ca9-7aab-8d62-d8148f6fc84f",
+      "time": "2026-07-14 02:26:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Joint Maritime Information Center (JMIC) said the threat level to transit through the Strait of Hormuz remains \"severe\" and further deliberate hostile actions may occur."
+    },
     {
       "id": "mkt:019f5cba-1466-7aab-8d62-d29a09403fef",
       "time": "2026-07-14 02:25:26",
