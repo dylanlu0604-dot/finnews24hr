@@ -1,7 +1,28 @@
 {
   "date": "2026-07-14",
-  "count": 388,
+  "count": 390,
   "items": [
+    {
+      "id": "mkt:019f5d41-942c-7aab-8d64-29052396cc93",
+      "time": "2026-07-14 04:53:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US may strike hardened underground nuclear site near Natanz; warns of heavy airstrikes tonight, tomorrow】Trump said the United States will strike the hardened underground nuclear facility \"Gaoshan\" near Iran’s Natanz uranium‑enrichment site and warned of continued heavy airstrikes tonight and tomorrow. He told reporters the US is closely monitoring the site, which he described as currently inactive, and said Washington will destroy it whenever activity is detected, adding a strike could come soon. The site is reported to contain two deep tunnel complexes and is considered among Iran’s most fortified nuclear facilities, potentially able to withstand the most powerful US bunker‑busting munitions."
+    },
+    {
+      "id": "4985359",
+      "time": "2026-07-14 04:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：決定將外交部與外貿部合併，組建全新的外交與貿易部，任命國際關係專家費利克斯·普拉森西亞執掌該部門。"
+    },
     {
       "id": "4985358",
       "time": "2026-07-14 04:50:21",

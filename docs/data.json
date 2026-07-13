@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-14 04:51:34",
-  "count": 17212,
+  "updated": "2026-07-14 04:55:35",
+  "count": 17210,
   "items": [
+    {
+      "id": "4985359",
+      "time": "2026-07-14 04:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：決定將外交部與外貿部合併，組建全新的外交與貿易部，任命國際關係專家費利克斯·普拉森西亞執掌該部門。"
+    },
+    {
+      "id": "mkt:019f5d41-942c-7aab-8d64-29052396cc93",
+      "time": "2026-07-14 04:53:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US may strike hardened underground nuclear site near Natanz; warns of heavy airstrikes tonight, tomorrow】Trump said the United States will strike the hardened underground nuclear facility \"Gaoshan\" near Iran’s Natanz uranium‑enrichment site and warned of continued heavy airstrikes tonight and tomorrow. He told reporters the US is closely monitoring the site, which he described as currently inactive, and said Washington will destroy it whenever activity is detected, adding a strike could come soon. The site is reported to contain two deep tunnel complexes and is considered among Iran’s most fortified nuclear facilities, potentially able to withstand the most powerful US bunker‑busting munitions."
+    },
     {
       "id": "4985358",
       "time": "2026-07-14 04:50:21",
@@ -157362,46 +157383,6 @@
         "市場"
       ],
       "text": "【美元指數6日微漲】衡量美元對六種主要貨幣的美元指數當天上漲0.01%，在匯市尾市收於100.853。截至紐約匯市尾市，1歐元兌換1.1443美元，高於前一交易日的1.1439美元；1英鎊兌換1.3395美元，高於前一交易日的1.3356美元。1美元兌換162.06日元，高於前一交易日的161.36日元；1美元兌換0.8050瑞士法郎，高於前一交易日的0.8035瑞士法郎；1美元兌換1.4209加元，高於前一交易日的1.4198加元；1美元兌換9.6255瑞典克朗，低於前一交易日的9.6436瑞典克朗。"
-    },
-    {
-      "id": "mkt:019f3934-b3a8-7aab-8cbc-61985545787f",
-      "time": "2026-07-07 04:53:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WMT.O"
-      ],
-      "text": "TRUMP said Walmart is acting \"boldly\" and urged other retailers to follow the example of the \"patriotic company\"."
-    },
-    {
-      "id": "mkt:019f3934-6cda-7aab-8cbc-5b3491d26126",
-      "time": "2026-07-07 04:52:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices slip on 6th】At the close, NYMEX August-delivery light crude futures fell $0.14 to $68.55/bbl, down 0.2%; ICE Brent September-delivery futures fell $0.13 to $71.99/bbl, down 0.18%."
-    },
-    {
-      "id": "mkt:019f3933-f276-7aab-8cbc-525cec70e927",
-      "time": "2026-07-07 04:52:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Argentina market expectations survey shows economists expect end-2026 inf at 30.0%, 0.5ppt below prior forecast; 2026 GDP growth seen at 3.0%, 0.1ppt above prior forecast."
-    },
-    {
-      "id": "4973019",
-      "time": "2026-07-07 04:51:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價6日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌14美分，收於每桶68.55美元，跌幅為0.2%；9月交貨的倫敦布倫特原油期貨價格下跌13美分，收於每桶71.99美元，跌幅為0.18%。"
     }
   ]
 }
