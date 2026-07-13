@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-14 06:08:03",
+  "updated": "2026-07-14 06:11:56",
   "count": 17255,
   "items": [
+    {
+      "id": "4985405",
+      "time": "2026-07-14 06:10:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為58.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為58.3%，累計加息25個基點的機率為41.7%。 美聯儲到9月維持利率不變的機率為24.9%，累計加息25個基點的機率為51.2%，累計加息50個基點的機率為23.9%。"
+    },
+    {
+      "id": "mkt:019f5d87-818f-7aab-8d65-3da4542d1ee0",
+      "time": "2026-07-14 06:09:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hungary parliament passes amendment seeking to remove president】Hungary's parliament on the 13th passed the 17th amendment to the Fundamental Law seeking to remove President Shu Youke. Under the amendment, the president's mandate would end the day after the measure takes effect and parliament must elect a new president within 30 days. If the president refuses to sign the amendment, parliament may launch impeachment proceedings. Fidesz, led by former prime minister Orbán, and coalition partner the Christian Democratic People's Party (KDNP) called the amendment “undemocratic” and did not take part in the vote."
+    },
+    {
+      "id": "mkt:019f5d86-51c1-7aab-8d65-3269ef3fbfa4",
+      "time": "2026-07-14 06:08:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he will carry out another large-scale strike against Iran on Monday night (ET)."
+    },
     {
       "id": "mkt:019f5d85-6a64-7aab-8d65-2c04a1ace71f",
       "time": "2026-07-14 06:07:32",
@@ -157765,32 +157795,6 @@
         "其他"
       ],
       "text": "秘魯（當選總統）Fujimori：Velarde將繼續擔任央行行長。"
-    },
-    {
-      "id": "mkt:019f397c-a28c-7aab-8cbc-d8bb4d6ce57f",
-      "time": "2026-07-07 06:11:37",
-      "tags": [
-        "MKT News",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "Petrobras said it received 2.7 bln reais related to Brazil's diesel subsidy program."
-    },
-    {
-      "id": "4973039",
-      "time": "2026-07-07 06:11:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司：已收到與巴西柴油補貼計劃相關的 27 億雷亞爾款項。"
-    },
-    {
-      "id": "mkt:019f397b-a875-7aab-8cbc-d18e6400d191",
-      "time": "2026-07-07 06:10:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru president-elect Keiko Fujimori has appointed Julio Velarde to remain governor of the Central Reserve Bank of Peru."
     }
   ]
 }
