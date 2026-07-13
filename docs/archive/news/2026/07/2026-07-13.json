@@ -1,7 +1,141 @@
 {
   "date": "2026-07-13",
-  "count": 2306,
+  "count": 2320,
   "items": [
+    {
+      "id": "4984860",
+      "time": "2026-07-13 20:41:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指BIST-100（.XU100）下跌1.9%，銀行板塊指數（.XBANK）下跌2.5%。"
+    },
+    {
+      "id": "4984859",
+      "time": "2026-07-13 20:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：伊朗如今正在捍衛該海峽，以免將來不得不向敵人作出讓步，以確保本國船隻能夠順利通行。"
+    },
+    {
+      "id": "mkt:019f5b7e-cbd4-7aab-8d5b-525917cacea8",
+      "time": "2026-07-13 20:41:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An adviser to Iran's Supreme Leader said Iran will never back down on the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f5b7e-6c7c-7aab-8d5b-4a3eb9765d3a",
+      "time": "2026-07-13 20:40:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An adviser to Iran's supreme leader said the Strait of Hormuz's strategic position and its security and economic importance are irreplaceable."
+    },
+    {
+      "id": "4984858",
+      "time": "2026-07-13 20:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會宣佈：10月27日舉行全國大選】據法新社7月12日報道，以色列議會12日表示，以色列將在法律允許的最後日期即10月27日舉行全國大選。外界普遍認為，這次大選是對自加沙戰爭爆發以來本雅明·內塔尼亞胡總理領導能力的一次公投。 以色列議會將於7月17日結束本屆任期，使執政聯盟數十年來首次完成四年完整任期。 現年76歲、曾多次非連續擔任總理的內塔尼亞胡已是以色列任職時間最長的總理，他宣佈有意再次參選。 內塔尼亞胡說，他“打算贏得”選舉，為這場可能是他政治生涯中具有決定性意義的競爭做好準備。 最近幾天，作為以色列歷史上右翼色彩最濃的執政聯盟之一，他的政府一直在抓緊透過一系列法案，以鞏固其聯盟，並以強勢姿態參加選舉。 上月，內塔尼亞胡甚至表示，他打算“建立一個廣泛的全國政府，不是一個依賴阿拉伯政黨的右翼或左翼政府，而是一個廣泛的全國政府”。 透過跨越黨派界限，內塔尼亞胡似乎正試圖圍繞國家團結而不是意識形態結盟來重新制訂其競選綱領。 但最近的民意調查顯示，大多數以色列人希望他下臺，前國防軍參謀長加迪·埃森科特已成為其主要競爭對手。（參考訊息）"
+    },
+    {
+      "id": "mkt:019f5b7e-0303-7aab-8d5b-41bdf1402faf",
+      "time": "2026-07-13 20:40:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he only wants to recoup the costs of the operation and be compensated for the price paid for the risks taken in the strait."
+    },
+    {
+      "id": "mkt:019f5b7d-5a7b-7aab-8d5b-3ece494593bc",
+      "time": "2026-07-13 20:39:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Trump said the U.S. will act as a \"guardian angel\" for the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f5b7c-d7f6-7aab-8d5b-3494c1ca5627",
+      "time": "2026-07-13 20:38:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's Foreign Ministry urged restoration of a ceasefire and resumption of negotiations."
+    },
+    {
+      "id": "mkt:019f5b7c-c821-7aab-8d5b-2f666e4cbb5b",
+      "time": "2026-07-13 20:38:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German Foreign Ministry reiterated it will continue to support the full and rapid restoration of international shipping in the Strait of Hormuz."
+    },
+    {
+      "id": "4984857",
+      "time": "2026-07-13 20:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部：我們同樣呼籲恢復停火與談判重啟。"
+    },
+    {
+      "id": "mkt:019f5b7c-a95e-7aab-8d5b-25ba9e967c88",
+      "time": "2026-07-13 20:38:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "【Intel to invest €5 billion to expand Ireland plant】Intel (INTC.O) will invest €5 billion ($5.7 billion) to expand its Leixlip campus near Dublin, increasing capacity for data‑center processors, including flagship Xeon server CPUs, and boosting R&D. The company said the expansion is part of plans to raise data‑center processor output and, Executive VP Naga Chandrasekaran said, to improve delivery for foundry customers as it seeks to bolster its foundry business. Intel framed the investment as an effort to regain manufacturing leadership amid the AI boom and to strengthen competition with TSMC."
+    },
+    {
+      "id": "4984856",
+      "time": "2026-07-13 20:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部：我方重申持續支援環球銀行金融電信協會（SWIFT），並全面恢復霍爾木茲海峽國際航運。"
+    },
+    {
+      "id": "4984855",
+      "time": "2026-07-13 20:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：預計2026年上半年淨虧損2.1億元–3.1億元】*ST嶺南公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為2.1億元–3.1億元，上年同期為虧損1.28億元。扣除非經常性損益後的淨虧損預計為2.08億元–3.08億元，上年同期為虧損1.28億元。本期公司虧損的主要原因是受歷史債務、訴訟等因素影響，公司投標資質受限、新增業務拓展基本停滯，無新增訂單形成收入。"
+    },
+    {
+      "id": "4984854",
+      "time": "2026-07-13 20:38:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價在美股盤前交易中跌超10%。"
+    },
     {
       "id": "4984853",
       "time": "2026-07-13 20:37:28",

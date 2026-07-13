@@ -1,7 +1,141 @@
 {
-  "updated": "2026-07-13 20:38:23",
-  "count": 17140,
+  "updated": "2026-07-13 20:42:28",
+  "count": 17144,
   "items": [
+    {
+      "id": "4984860",
+      "time": "2026-07-13 20:41:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指BIST-100（.XU100）下跌1.9%，銀行板塊指數（.XBANK）下跌2.5%。"
+    },
+    {
+      "id": "4984859",
+      "time": "2026-07-13 20:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：伊朗如今正在捍衛該海峽，以免將來不得不向敵人作出讓步，以確保本國船隻能夠順利通行。"
+    },
+    {
+      "id": "mkt:019f5b7e-cbd4-7aab-8d5b-525917cacea8",
+      "time": "2026-07-13 20:41:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An adviser to Iran's Supreme Leader said Iran will never back down on the Strait of Hormuz."
+    },
+    {
+      "id": "4984858",
+      "time": "2026-07-13 20:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會宣佈：10月27日舉行全國大選】據法新社7月12日報道，以色列議會12日表示，以色列將在法律允許的最後日期即10月27日舉行全國大選。外界普遍認為，這次大選是對自加沙戰爭爆發以來本雅明·內塔尼亞胡總理領導能力的一次公投。 以色列議會將於7月17日結束本屆任期，使執政聯盟數十年來首次完成四年完整任期。 現年76歲、曾多次非連續擔任總理的內塔尼亞胡已是以色列任職時間最長的總理，他宣佈有意再次參選。 內塔尼亞胡說，他“打算贏得”選舉，為這場可能是他政治生涯中具有決定性意義的競爭做好準備。 最近幾天，作為以色列歷史上右翼色彩最濃的執政聯盟之一，他的政府一直在抓緊透過一系列法案，以鞏固其聯盟，並以強勢姿態參加選舉。 上月，內塔尼亞胡甚至表示，他打算“建立一個廣泛的全國政府，不是一個依賴阿拉伯政黨的右翼或左翼政府，而是一個廣泛的全國政府”。 透過跨越黨派界限，內塔尼亞胡似乎正試圖圍繞國家團結而不是意識形態結盟來重新制訂其競選綱領。 但最近的民意調查顯示，大多數以色列人希望他下臺，前國防軍參謀長加迪·埃森科特已成為其主要競爭對手。（參考訊息）"
+    },
+    {
+      "id": "mkt:019f5b7e-6c7c-7aab-8d5b-4a3eb9765d3a",
+      "time": "2026-07-13 20:40:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An adviser to Iran's supreme leader said the Strait of Hormuz's strategic position and its security and economic importance are irreplaceable."
+    },
+    {
+      "id": "mkt:019f5b7e-0303-7aab-8d5b-41bdf1402faf",
+      "time": "2026-07-13 20:40:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he only wants to recoup the costs of the operation and be compensated for the price paid for the risks taken in the strait."
+    },
+    {
+      "id": "mkt:019f5b7d-5a7b-7aab-8d5b-3ece494593bc",
+      "time": "2026-07-13 20:39:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Trump said the U.S. will act as a \"guardian angel\" for the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f5b7c-d7f6-7aab-8d5b-3494c1ca5627",
+      "time": "2026-07-13 20:38:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's Foreign Ministry urged restoration of a ceasefire and resumption of negotiations."
+    },
+    {
+      "id": "mkt:019f5b7c-c821-7aab-8d5b-2f666e4cbb5b",
+      "time": "2026-07-13 20:38:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German Foreign Ministry reiterated it will continue to support the full and rapid restoration of international shipping in the Strait of Hormuz."
+    },
+    {
+      "id": "4984857",
+      "time": "2026-07-13 20:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部：我們同樣呼籲恢復停火與談判重啟。"
+    },
+    {
+      "id": "mkt:019f5b7c-a95e-7aab-8d5b-25ba9e967c88",
+      "time": "2026-07-13 20:38:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "【Intel to invest €5 billion to expand Ireland plant】Intel (INTC.O) will invest €5 billion ($5.7 billion) to expand its Leixlip campus near Dublin, increasing capacity for data‑center processors, including flagship Xeon server CPUs, and boosting R&D. The company said the expansion is part of plans to raise data‑center processor output and, Executive VP Naga Chandrasekaran said, to improve delivery for foundry customers as it seeks to bolster its foundry business. Intel framed the investment as an effort to regain manufacturing leadership amid the AI boom and to strengthen competition with TSMC."
+    },
+    {
+      "id": "4984856",
+      "time": "2026-07-13 20:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部：我方重申持續支援環球銀行金融電信協會（SWIFT），並全面恢復霍爾木茲海峽國際航運。"
+    },
+    {
+      "id": "4984855",
+      "time": "2026-07-13 20:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：預計2026年上半年淨虧損2.1億元–3.1億元】*ST嶺南公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為2.1億元–3.1億元，上年同期為虧損1.28億元。扣除非經常性損益後的淨虧損預計為2.08億元–3.08億元，上年同期為虧損1.28億元。本期公司虧損的主要原因是受歷史債務、訴訟等因素影響，公司投標資質受限、新增業務拓展基本停滯，無新增訂單形成收入。"
+    },
+    {
+      "id": "4984854",
+      "time": "2026-07-13 20:38:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價在美股盤前交易中跌超10%。"
+    },
     {
       "id": "4984853",
       "time": "2026-07-13 20:37:28",
@@ -156256,97 +156390,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold slid $14 intraday, down over 1.0%, trading at $4,133.10/oz."
-    },
-    {
-      "id": "4972546",
-      "time": "2026-07-06 20:42:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金日內跌1%，現報4132.93美元/盎司。"
-    },
-    {
-      "id": "4972545",
-      "time": "2026-07-06 20:42:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省委書記梁言順調研核聚變能科技創新工作並主持召開座談會】據安徽日報，7月6日上午，安徽省委書記梁言順在合肥市調研核聚變能科技創新工作並主持召開座談會，強調要保持定力，持續攻關，努力搶佔核聚變能發展制高點，為實現國家高水平科技自立自強作出更大貢獻。"
-    },
-    {
-      "id": "mkt:019f3773-33aa-7aab-8cb4-0fd04f32dac5",
-      "time": "2026-07-06 20:42:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Ukraine's military said an attack on the Omsk refinery in Russia sparked a fire; the site is about 2,500 km from Ukraine's border."
-    },
-    {
-      "id": "4972544",
-      "time": "2026-07-06 20:41:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "比利時足協表示， 就巴洛貢相關裁決致函國際足聯，尚未收到國際足聯給出的任何解釋。"
-    },
-    {
-      "id": "mkt:019f3772-a686-7aab-8cb4-0572b83f5ba5",
-      "time": "2026-07-06 20:41:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Belgian Football Association has written to FIFA regarding Balogun's decision."
-    },
-    {
-      "id": "4972543",
-      "time": "2026-07-06 20:41:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同益股份：擬1000萬元參投共青城嘉鑠合夥企業】同益股份(300538)7月6日公告，公司作為有限合夥人出資1000萬元參與投資共青城嘉鑠創業投資合夥企業（有限合夥）（簡稱“共青城嘉鑠”或“基金”），共青城嘉鑠的出資額擬從1000萬元增至5500萬元，公司佔該基金總出資額的18.18%。該基金將投資於某公司股權，以創業投資方式賦能被投企業成長，透過專業投資運作，經IPO、併購、市場化股權轉讓等途徑完成投資退出，實現資本增值、獲取投資收益。"
-    },
-    {
-      "id": "mkt:019f3772-27c3-7aab-8cb3-fa5ff522cfc6",
-      "time": "2026-07-06 20:40:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Pricing document shows Saudi Arabia set August official selling price for Arab Light to Northwest Europe at a $0.85/bbl premium to ICE Brent settlement."
-    },
-    {
-      "id": "4972542",
-      "time": "2026-07-06 20:40:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱，襲擊俄羅斯鄂木斯克煉油廠引發火災，襲擊目標距烏克蘭邊境近2500公里。"
-    },
-    {
-      "id": "4972541",
-      "time": "2026-07-06 20:40:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博敏電子：擬定增募資不超過3億元用於800G數連產品專案】博敏電子公告，擬透過簡易程式向特定物件發行股票募集資金不超過3億元，扣除發行費用後擬用於800G及以上數連產品用印製電路板專案（擬投入募集資金24,000.00萬元）及補充流動資金和償還銀行貸款（擬投入6,000.00萬元）。本次發行股票的定價基準日為發行期首日，發行價格不低於定價基準日前20個交易日公司股票交易均價的80%。最終發行物件將由公司董事會與保薦機構（主承銷商）協商確定，發行物件均以人民幣現金方式認購。本次發行尚需上海證券交易所稽核透過並經中國證監會註冊決定。"
-    },
-    {
-      "id": "4972540",
-      "time": "2026-07-06 20:39:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "定價檔案顯示：沙烏地阿拉伯將8月銷往西北歐的阿拉伯輕質原油官方售價定為較洲際交易所布倫特原油結算價溢價0.85美元/桶。"
     }
   ]
 }
