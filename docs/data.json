@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-13 19:49:23",
-  "count": 17093,
+  "updated": "2026-07-13 19:53:22",
+  "count": 17097,
   "items": [
+    {
+      "id": "4984765",
+      "time": "2026-07-13 19:52:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞塞拜然總統： 我們已開始向一個此前完全未曾預料到的市場供應天然氣，也就是敘利亞。"
+    },
+    {
+      "id": "4984764",
+      "time": "2026-07-13 19:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋傳出爆炸聲】新聞訊息稱，阿聯酋傳出爆炸聲。阿聯酋國防部發表緊急宣告宣佈，一處軍事倉庫發生了火災。"
+    },
+    {
+      "id": "4984763",
+      "time": "2026-07-13 19:51:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【階躍與上海人工智慧實驗室釋出《新一代智慧體系統安全技術白皮書》】階躍聯合上海人工智慧實驗室釋出《新一代智慧體系統安全技術白皮書》及《端側大模型網路安全指南》，首次系統提出\"可信、可見、可控、可逆\"的智慧體安全框架，共同研製智慧體安全技術國家標準，在智慧體能力躍遷的同時建立可信邊界。"
+    },
+    {
+      "id": "4984762",
+      "time": "2026-07-13 19:51:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華建集團：股價異常波動 一季度營收及淨利潤雙降】華建集團公告稱，公司股票於2026年7月10日、7月13日連續兩個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動情形。公司最新滾動市盈率為1037.59，顯著高於所處行業平均水平。2026年一季度，公司實現營業收入11.91億元，同比下降7.44%；淨利潤410.59萬元，同比下降93.18%；扣非淨利潤-805.22萬元，同比由盈轉虧。經自查，公司及控股股東不存在應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "4984761",
+      "time": "2026-07-13 19:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部支援指導廣西抗洪救災恢復生產】受今年第10號颱風“美莎克”影響，廣西多地發生嚴重暴雨洪澇災害，對農業生產造成較大影響。農業農村部在前期釋出預警資訊、升級應急響應、派組一線指導的基礎上，近日向廣西緊急調撥消毒藥22噸、防護服9300套及其他防疫物資，全力支援廣西開展動物疫病防控。同時，抽調精幹力量和行業專家，下沉重災區蹲點指導，落實關鍵措施，協調解決困難，持續推進抗洪救災和恢復生產；加快農田排水排澇，落實肥水措施，促進受災作物恢復生長，絕收地塊因地制宜改種補種；抓緊抓好死亡畜禽無害化處理，嚴防重大動物疫情發生；加強飼草料、獸藥調劑運輸，修復損毀設施，科學補苗補欄，促進恢復生產，最大程度減輕災害損失。同時，加強因災返貧致貧風險監測，指導及時啟動“綠色通道”，落實精準幫扶措施，切實防止因災返貧致貧。"
+    },
+    {
+      "id": "4984760",
+      "time": "2026-07-13 19:50:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗海峽管理局：通行恢復需要等待局勢穩定】伊朗波斯灣海峽管理局（PGSA）：由於美軍近期的敵對行動，目前透過霍爾木茲海峽已不可行。一旦恢復穩定與平靜，所有申請將按預定時間表進行稽核，許可流程也將恢復。請記住，獲取通行許可的唯一途徑是透過我們的網站。"
+    },
+    {
+      "id": "mkt:019f5b50-9d98-7aab-8d59-8d149b95681c",
+      "time": "2026-07-13 19:50:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran PGSA: Transit resumption contingent on stabilization】Iran's Persian Gulf Strait Authority (PGSA) said transit through the Strait of Hormuz is currently not feasible following recent hostile actions by the U.S. military. It said permit processing and application reviews will resume on schedule once stability and calm return. The PGSA said the only way to obtain a transit permit is via its website."
+    },
+    {
+      "id": "mkt:019f5b50-92a0-7aab-8d59-85c372c796f6",
+      "time": "2026-07-13 19:50:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine will showcase its anti-ballistic missile program in Paris on Monday."
+    },
+    {
+      "id": "4984759",
+      "time": "2026-07-13 19:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭將於週一在巴黎展示其反彈道導彈專案。"
+    },
+    {
+      "id": "te:markets:566390",
+      "time": "2026-07-13 19:50:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Futures Rise to 2-Month High — Cotton futures rose above 82 cents per pound, the highest level in two months, as increasing oil prices due to geopolitical tensions and adverse weather supported prices. US-Iran tensions persisted, while uncertainty remained over shipping through the Strait of Hormuz. President Donald Trump stated that the waterway remained open to commercial vessels, while Tehran claimed it had closed the strait, increasing oil prices and boosting cotton. Meanwhile, concerns over weather-related supply risks continued to support prices. India's monsoon is expected to bring below-average rainfall, potentially delaying cotton sowing, which was already running 23% below last year's pace. However, gains were capped by booming Brazilian cotton exports to Asian markets and the latest World Agricultural Supply and Demand Estimates, which projected larger cotton crops in Brazil and the United States alongside only a modest increase in global consumption."
+    },
+    {
+      "id": "4984758",
+      "time": "2026-07-13 19:50:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基抵達法國。"
+    },
     {
       "id": "4984757",
       "time": "2026-07-13 19:48:23",
@@ -155818,64 +155913,6 @@
         "其他"
       ],
       "text": "【三部門向廣西調撥15萬件中央救災物資】7月6日，針對廣西南寧、貴港等地暴雨洪澇災害影響，根據災區救災工作需要，國家防災減災救災委員會辦公室、應急管理部會同國家糧食和物資儲備局向廣西調撥帳篷、摺疊床、夏涼被、夏裝、家庭應急包等15萬件中央救災物資，全力支援災區做好受災群眾轉移安置和基本生活救助工作。 另外，啟動應急物資政社協同保障機制，協調中國紅十字會總會援助捐贈賑濟家庭包5000個，協調中國應急關愛基金會、阿里巴巴公益基金會援助捐贈應急照明燈2萬臺，協調中華慈善總會、中國鄉村發展基金會、中國紅十字基金會、壹基金、愛德基金會、騰訊基金會、美團公益基金會、位元組跳動基金會、基金會救災協調會等捐贈首批物資，包括應急食品、飲用水、日用品等共計12萬餘件，並面向災區提供熱餐供應、淨水供應、兒童服務等全面支援。（應急管理部）"
-    },
-    {
-      "id": "4972453",
-      "time": "2026-07-06 19:52:40",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "高盛將閃迪目標股價從1200美元上調至2200美元。"
-    },
-    {
-      "id": "4972452",
-      "time": "2026-07-06 19:51:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "航錦科技：預計上半年淨利潤4000萬元-5600萬元，同比增長191.45%-308.03%。本報告期，公司智算算力板塊發展持續向好，已成為公司主要創利來源，預計盈利1.37億元-1.53億元；化工板塊受銷售價格下降影響，預計虧損8500萬元-1億元。"
-    },
-    {
-      "id": "4972451",
-      "time": "2026-07-06 19:51:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "Datadog股價盤前下跌2.5%，此前伯恩斯坦將其評級從“跑贏大盤”下調至“與大盤持平”。"
-    },
-    {
-      "id": "4972450",
-      "time": "2026-07-06 19:50:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大選定德國蒂森克虜伯海洋系統公司承建新型潛艇。"
-    },
-    {
-      "id": "4972449",
-      "time": "2026-07-06 19:50:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朗科科技：補繳稅款及滯納金1112.59萬元】朗科科技(300042)7月6日公告，公司近日收到涉稅文書，同時公司對涉稅事項開展自查，公司需補繳稅款及滯納金1112.59萬元。截至目前，上述稅款及滯納金已繳納完畢，此次補繳不涉及行政處罰。"
-    },
-    {
-      "id": "4972448",
-      "time": "2026-07-06 19:50:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將應用材料目標股價從520美元上調至645美元。"
-    },
-    {
-      "id": "4972447",
-      "time": "2026-07-06 19:50:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "紅迪網（Reddit）正藉助人工智慧打擊站內 AI 營銷垃圾資訊。"
     }
   ]
 }
