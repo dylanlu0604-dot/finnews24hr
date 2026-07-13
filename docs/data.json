@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-14 07:47:50",
-  "count": 17284,
+  "updated": "2026-07-14 07:52:26",
+  "count": 17280,
   "items": [
+    {
+      "id": "4985501",
+      "time": "2026-07-14 07:51:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲0.5個基點，至2.790%。"
+    },
+    {
+      "id": "te:markets:566525",
+      "time": "2026-07-14 07:51:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower on Middle East Jitters — US stock futures edged lower on Tuesday as investors assessed escalating tensions in the Middle East after President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz. The move sent oil prices sharply higher and weighed on equities, fueling concerns that central banks may need to raise interest rates to contain renewed inflationary pressures. Investors also awaited key US inflation data and Fed Chair Kevin Warsh’s testimony before Congress later on Tuesday. On the corporate front, earnings from JPMorgan Chase, Goldman Sachs, Bank of America, Citigroup, and Wells Fargo are due later today. In regular trading on Monday, the Dow fell 0.26%, the S&P 500 declined 0.79%, and the Nasdaq Composite dropped 1.55%. Chipmakers led the losses amid persistent concerns that AI hyperscalers could scale back spending on AI infrastructure, with Micron (-4.3%), Nvidia (-3.5%), Sandisk (-12.6%), AMD (-4.2%), and Intel (-6.1%) all ending lower."
+    },
+    {
+      "id": "4985500",
+      "time": "2026-07-14 07:50:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【支付行業強監管態勢持續深化 年內支付機構被罰超3億元】支付行業強監管態勢持續深化。近日，中國人民銀行官網最新行政許可資訊顯示，聖亞雲鼎支付有限公司進入“已登出許可機構”列表，這是年內第5張被登出的支付牌照。一邊是行業加速出清，另一邊是鉅額罰單密集披露。日前，上海瀚銀資訊科技有限公司因違反清算管理規定等被罰沒約7445萬元，重新整理年內單筆處罰紀錄。另據證券時報記者統計，截至7月13日，年內支付機構累計被罰金額已超3.05億元。"
+    },
+    {
+      "id": "4985499",
+      "time": "2026-07-14 07:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：預計雞價會逐步回升，對下半年肉雞行情持相對樂觀態度】溫氏股份在近期的投資者關係活動中表示，上半年，中華土雞（黃羽肉雞）消費為傳統消費淡季，同時受低迷豬價影響，雞價被壓制，導致上半年雞價較低。按照過往週期規律，下半年天氣較涼且節日較多，一般為雞肉消費旺季，預計價格會逐步回升，對下半年肉雞行情持相對樂觀態度。二季度，溫氏股份肉豬養殖綜合成本為6元/斤左右。毛雞出欄完全成本為5.8元/斤，剔除飼料原料價格影響後，養雞成本環比有所降低。"
+    },
+    {
+      "id": "4985498",
+      "time": "2026-07-14 07:47:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東衝突升級之際油價上漲】在中東衝突不斷升級之際，亞洲早盤油價上漲。近月西得州中質油期貨上漲1.6%，報每桶79.41美元。在美國總統特朗普宣佈發動為期數天的多波攻擊並對霍爾木茲海峽的伊朗貿易實施新一輪封鎖之後，美國連續第三個夜晚對伊朗發動打擊。特朗普還表示，美國將對所有透過這條關鍵水道的貨物徵收20%的費用。澳新銀行研究部分析師在一份研究報告中表示：“此舉可能引發伊朗的進一步襲擊，並使上個月美伊和平協議達成後開始的石油供應復甦面臨風險。“"
+    },
     {
       "id": "mkt:019f5de0-479f-7aab-8d65-fd1e56997fde",
       "time": "2026-07-14 07:46:47",
@@ -157980,85 +158026,6 @@
         "國際"
       ],
       "text": "【油價上漲，因美伊料將恢復談判前可能出現頭寸調整】在伊朗前最高領袖阿里·哈梅內伊的葬禮結束後，美伊料將恢復談判，在此之前可能出現的頭寸調整推動油價在早盤交易中上漲。BankPro的Paolo Broccardo在一封電子郵件中表示：“美國和伊朗定於恢復談判。“該CEO表示：“隨著供應正常化推進，談判的持續進展可能會加劇近期價格的下行壓力。”Broccardo補充說：“相反，談判中的任何挫折都可能迅速逆轉這一走勢，並恢復原油的上漲勢頭。“近月西得州中質油期貨上漲0.4%，報每桶68.80美元。"
-    },
-    {
-      "id": "4973110",
-      "time": "2026-07-07 07:51:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家基金公司密集佈局自由現金流產品】7月6日，蘇新基金髮布公告稱，旗下蘇新中證800自由現金流指數增聘基金經理鮑浩政，與林茂政共同管理該產品。此前不久，匯添富基金旗下第三隻自由現金流ETF（交易型開放式指數基金）——300現金流ETF匯添富成立。近年來，基金公司持續加碼佈局自由現金流策略產品，該類指數產品正成為指數化投資創新的重要方向。截至7月6日，全市場自由現金流相關產品數量已達107只（包含50只聯接基金、29只ETF、28只普通場外指數基金），總規模達571.77億元，相較2026年初增長42.79%。（證券日報）"
-    },
-    {
-      "id": "4973109",
-      "time": "2026-07-07 07:51:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一艘液化天然氣運輸船在阿曼灣遭襲】霍爾木茲海峽附近海域一段船舶無線電公共頻道錄音顯示，當地時間7日凌晨，一艘液化天然氣運輸船在阿曼灣遇襲後多次發出遇險警報，稱船舶機艙起火，船上人員安全。這段由一名商船海員向記者提供的錄音中，遇襲船舶報告稱，其左舷遭到無人機襲擊，機艙起火併冒出濃煙，無法進一步評估船體受損情況，但全體船員安全，已在右舷集合。遇襲船舶請求附近海岸無線電臺及海軍力量提供支援。這名海員告訴記者，根據遇襲船舶報出的船名判斷，這是一艘液化天然氣運輸船。這類運輸船載有易燃貨物，遇襲後存在較高安全風險。（新華社）"
-    },
-    {
-      "id": "mkt:019f39d7-8dd8-7aab-8cbd-8781c5f9b39a",
-      "time": "2026-07-07 07:50:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【LNG carrier attacked in Gulf of Oman near Strait of Hormuz】Early on the 7th (local time), an LNG carrier in the Gulf of Oman near the Strait of Hormuz sent multiple distress calls after reporting a drone strike to its port side, a radio recording provided by a merchant seafarer shows. The vessel reported an engine-room fire and heavy smoke, said it could not further assess hull damage, and that all crew were safe and mustered on the starboard side. The ship requested assistance from nearby coastal radio stations and naval forces. The seafarer said the ship identification in the calls indicates it is carrying liquefied natural gas; such vessels carry flammable cargo and face elevated safety risk when attacked."
-    },
-    {
-      "id": "4973108",
-      "time": "2026-07-07 07:50:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部工作組指導颱風“美莎克”引發的水庫險情處置】從水利部瞭解到，昨天（6日）晚上，針對颱風“美莎克”引發的水庫漫頂以及缺口等險情，水利部工作組抵達廣西橫州一線，指導險情處置和洪水防禦。目前水利部維持對廣西洪水防禦Ⅱ級應急響應，各項搶險救援工作正在抓緊進行中。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607073795710177",
-      "time": "2026-07-07 07:50:34",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本6月外匯儲備12875億美元，前值13059億美元。"
-    },
-    {
-      "id": "mkt:019f39d6-d9df-7aab-8cbd-7d31912d494c",
-      "time": "2026-07-07 07:50:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's foreign exchange reserves fell to $1.2875 tln in June from $1.3059 tln in May."
-    },
-    {
-      "id": "mkt:019f39d6-b7ca-7aab-8cbd-72a22047f592",
-      "time": "2026-07-07 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Foreign Exchange Reserves (Jun) | actual 1287500000000B | previous 1305900000000B"
-    },
-    {
-      "id": "4973107",
-      "time": "2026-07-07 07:48:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【龔孟建代理山西長治市市長】山西省長治市人大訊息，7月6日，長治市第十五屆人大常委會召開第三十五次會議，決定接受陳向陽辭去長治市人民政府市長職務請求，任命龔孟建為長治市人民政府副市長，代理長治市人民政府市長。（新華社）"
-    },
-    {
-      "id": "4973106",
-      "time": "2026-07-07 07:48:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【記憶體條價格暴漲超300% 硬碟價格水漲船高】據央視財經，在被譽為“中國電子第一街”的深圳華強北，遊戲發燒友徐紹安最近準備玩一款3A遊戲，計劃升級一下電腦，他諮詢發現，一套32GB的DDR5記憶體套裝目前已經漲到近4000元，比去年貴了三四倍，於是他決定降低配置，改用24GB配置，等以後價格下降再做升級。 記者調查瞭解到，除了記憶體價格一路上漲以外，硬碟價格同樣水漲船高，以某款1TB固態硬碟為例，目前已經漲到900多元，不少電腦裝機商表示，目前零部件和整機的價格處於高位，導致不少裝機客戶選擇觀望。 記者統計發現，跟去年對比，主流型號的儲存產品價格漲幅皆超過100%。其中：1TB固態硬碟去年410元，現在950元，漲幅132%；16G DDR5記憶體去年450元，現在1800元，漲幅300%；32G DDR5記憶體去年900元，現在3800元，漲幅322%。"
     }
   ]
 }

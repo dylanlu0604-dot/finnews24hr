@@ -1,7 +1,53 @@
 {
   "date": "2026-07-14",
-  "count": 595,
+  "count": 600,
   "items": [
+    {
+      "id": "4985501",
+      "time": "2026-07-14 07:51:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲0.5個基點，至2.790%。"
+    },
+    {
+      "id": "te:markets:566525",
+      "time": "2026-07-14 07:51:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower on Middle East Jitters — US stock futures edged lower on Tuesday as investors assessed escalating tensions in the Middle East after President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz. The move sent oil prices sharply higher and weighed on equities, fueling concerns that central banks may need to raise interest rates to contain renewed inflationary pressures. Investors also awaited key US inflation data and Fed Chair Kevin Warsh’s testimony before Congress later on Tuesday. On the corporate front, earnings from JPMorgan Chase, Goldman Sachs, Bank of America, Citigroup, and Wells Fargo are due later today. In regular trading on Monday, the Dow fell 0.26%, the S&P 500 declined 0.79%, and the Nasdaq Composite dropped 1.55%. Chipmakers led the losses amid persistent concerns that AI hyperscalers could scale back spending on AI infrastructure, with Micron (-4.3%), Nvidia (-3.5%), Sandisk (-12.6%), AMD (-4.2%), and Intel (-6.1%) all ending lower."
+    },
+    {
+      "id": "4985500",
+      "time": "2026-07-14 07:50:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【支付行業強監管態勢持續深化 年內支付機構被罰超3億元】支付行業強監管態勢持續深化。近日，中國人民銀行官網最新行政許可資訊顯示，聖亞雲鼎支付有限公司進入“已登出許可機構”列表，這是年內第5張被登出的支付牌照。一邊是行業加速出清，另一邊是鉅額罰單密集披露。日前，上海瀚銀資訊科技有限公司因違反清算管理規定等被罰沒約7445萬元，重新整理年內單筆處罰紀錄。另據證券時報記者統計，截至7月13日，年內支付機構累計被罰金額已超3.05億元。"
+    },
+    {
+      "id": "4985499",
+      "time": "2026-07-14 07:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：預計雞價會逐步回升，對下半年肉雞行情持相對樂觀態度】溫氏股份在近期的投資者關係活動中表示，上半年，中華土雞（黃羽肉雞）消費為傳統消費淡季，同時受低迷豬價影響，雞價被壓制，導致上半年雞價較低。按照過往週期規律，下半年天氣較涼且節日較多，一般為雞肉消費旺季，預計價格會逐步回升，對下半年肉雞行情持相對樂觀態度。二季度，溫氏股份肉豬養殖綜合成本為6元/斤左右。毛雞出欄完全成本為5.8元/斤，剔除飼料原料價格影響後，養雞成本環比有所降低。"
+    },
+    {
+      "id": "4985498",
+      "time": "2026-07-14 07:47:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東衝突升級之際油價上漲】在中東衝突不斷升級之際，亞洲早盤油價上漲。近月西得州中質油期貨上漲1.6%，報每桶79.41美元。在美國總統特朗普宣佈發動為期數天的多波攻擊並對霍爾木茲海峽的伊朗貿易實施新一輪封鎖之後，美國連續第三個夜晚對伊朗發動打擊。特朗普還表示，美國將對所有透過這條關鍵水道的貨物徵收20%的費用。澳新銀行研究部分析師在一份研究報告中表示：“此舉可能引發伊朗的進一步襲擊，並使上個月美伊和平協議達成後開始的石油供應復甦面臨風險。“"
+    },
     {
       "id": "mkt:019f5de0-479f-7aab-8d65-fd1e56997fde",
       "time": "2026-07-14 07:46:47",
