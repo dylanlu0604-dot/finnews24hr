@@ -1,7 +1,51 @@
 {
   "date": "2026-07-14",
-  "count": 322,
+  "count": 327,
   "items": [
+    {
+      "id": "mkt:019f5d0b-7fe0-7aab-8d63-9f99cbd92912",
+      "time": "2026-07-14 03:54:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump to give prime-time address Friday; may signal renewed US‑Iran escalation】President Trump said he will deliver a national address at 9pm Thursday (0900 Beijing Friday) as tensions around the Strait of Hormuz rise. He did not specify the subject. The timing and comment could indicate a renewed acceleration of conflict between the US and Iran, despite expectations that both sides would enter talks after signing a memorandum of understanding."
+    },
+    {
+      "id": "4985320",
+      "time": "2026-07-14 03:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯任命的頓涅茨克地區部分佔領區負責人稱，烏克蘭無人機襲擊造成八人死亡。"
+    },
+    {
+      "id": "4985319",
+      "time": "2026-07-14 03:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼：將把與伊朗開展溝通對接置於優先位置，以此保障航行自由。"
+    },
+    {
+      "id": "4985318",
+      "time": "2026-07-14 03:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼：阿曼承諾積極同伊朗及世界各大國開展合作，搭建穩定的安全機制。"
+    },
+    {
+      "id": "4985317",
+      "time": "2026-07-14 03:52:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗發生的爆炸事件發生在美國中央司令部標註的伊朗南部沿海地帶，特朗普告知國會伊朗境內戰事已重啟、恢復海上封鎖，同時伊朗革命衛隊持續襲擊過往船隻。"
+    },
     {
       "id": "4985316",
       "time": "2026-07-14 03:50:37",
