@@ -1,7 +1,19 @@
 {
   "date": "2026-07-14",
-  "count": 412,
+  "count": 413,
   "items": [
+    {
+      "id": "mkt:019f5d5e-949d-7aab-8d64-7546c406c1d2",
+      "time": "2026-07-14 05:25:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Senior Ukrainian official says Russian ballistic missiles struck Kyiv."
+    },
     {
       "id": "mkt:019f5d5b-8999-7aab-8d64-68d7e0c5a6e7",
       "time": "2026-07-14 05:21:47",

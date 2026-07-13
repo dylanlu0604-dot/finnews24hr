@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-14 05:24:51",
+  "updated": "2026-07-14 05:28:45",
   "count": 17212,
   "items": [
+    {
+      "id": "mkt:019f5d5e-949d-7aab-8d64-7546c406c1d2",
+      "time": "2026-07-14 05:25:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Senior Ukrainian official says Russian ballistic missiles struck Kyiv."
+    },
     {
       "id": "mkt:019f5d5b-8999-7aab-8d64-68d7e0c5a6e7",
       "time": "2026-07-14 05:21:47",
@@ -157395,16 +157407,6 @@
         "Impact mixed"
       ],
       "text": "【U.S. earnings season to start; investors expect solid Q2 results but worry about oil-price hit】Summit Place Financial Advisors says markets expect broadly solid Q2 corporate results, but investors will focus on high oil prices’ impact on costs, margins and final product prices. The firm adds inflationary pressure from rising energy costs may take months to fully transmit, leaving the Fed limited room to cut rates in the near term and likely on the sidelines."
-    },
-    {
-      "id": "4973031",
-      "time": "2026-07-07 05:28:26",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "Syntiant Corp：持股比例不低於 5% 的股東包括英特爾投資公司、微軟全球金融以及樓氏電子。 花旗集團、美國銀行證券、瑞銀投行、尼達姆公司以及斯蒂費爾是其首次公開募股的承銷商。"
     }
   ]
 }
