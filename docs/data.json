@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-14 05:17:02",
-  "count": 17211,
+  "updated": "2026-07-14 05:20:58",
+  "count": 17213,
   "items": [
+    {
+      "id": "mkt:019f5d5a-0d76-7aab-8d64-66c45ff683f5",
+      "time": "2026-07-14 05:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state TV reported two explosions heard on Kish Island."
+    },
+    {
+      "id": "4985373",
+      "time": "2026-07-14 05:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱擊落一架美軍無人機】伊朗伊斯蘭革命衛隊當地時間13日晚宣佈，一架美軍MQ-1無人機當天深夜在霍爾木茲海峽上空被革命衛隊防空系統擊落。（央視新聞）"
+    },
+    {
+      "id": "4985372",
+      "time": "2026-07-14 05:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺表示，伊朗基什島聽到兩次爆炸聲。"
+    },
+    {
+      "id": "4985371",
+      "time": "2026-07-14 05:18:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員預計沃什執掌的美聯儲本月加息機率約50%】交易員認為，美國本月晚些時候加息的可能性已接近五五開，因油價再度上漲以及美聯儲官員發表鷹派言論，預示美聯儲可能迅速行動以遏制通脹。週一貨幣市場定價顯示，在美國對伊朗發動一系列新打擊後，交易員加大了對7月加息25個基點的押注；定價顯示，加息可能性接近50%，高於日內早些時候不到40%的水平，此前美聯儲理事克里斯托弗·沃勒表示，如果基礎通脹繼續顯示價格壓力廣泛存在，決策者可能需要加息。"
+    },
+    {
+      "id": "mkt:019f5d58-3cc0-7aab-8d64-5e77cfe1d044",
+      "time": "2026-07-14 05:18:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Air-raid sirens sounding in Kyiv, Ukraine."
+    },
+    {
+      "id": "4985370",
+      "time": "2026-07-14 05:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都基輔響起防空警報。"
+    },
+    {
+      "id": "4985369",
+      "time": "2026-07-14 05:16:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）批准最終規則，調整非清算互換交易保證金要求。"
+    },
     {
       "id": "mkt:019f5d56-b2e5-7aab-8d64-50e1c37fe33f",
       "time": "2026-07-14 05:16:30",
@@ -157346,52 +157409,6 @@
         "MKT News"
       ],
       "text": "TKMS CEO says extent of the firm's backlog increase will depend on the effective date of the Canadian submarine contract."
-    },
-    {
-      "id": "4973030",
-      "time": "2026-07-07 05:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【亞美尼亞總理：希望以建設性方式解決同俄羅斯的問題】亞美尼亞總理帕什尼揚6日表示，亞方有意願同俄羅斯進一步發展關係，並對繼續參加歐亞經濟聯盟的活動抱“濃厚興趣”，希望以建設性方式解決同俄方之間的問題。帕什尼揚6日在俄羅斯葉卡捷琳堡市同俄總理米舒斯京舉行會談時說，最近亞俄兩國關係出現一些問題，亞方致力於同俄方進行建設性討論，希望此次會談能解決這些問題。他說，亞方願意繼續參加歐亞經濟聯盟的活動，確保聯盟機制繼續有效運作，這有利於聯盟進一步發展。（新華社）"
-    },
-    {
-      "id": "mkt:019f394d-0730-7aab-8cbc-98dad4f8e925",
-      "time": "2026-07-07 05:19:37",
-      "tags": [
-        "MKT News",
-        "TKA.DE",
-        "Impact bullish"
-      ],
-      "text": "TKMS CEO says the company aims to secure a formal contract for the Canadian submarine order by end-2026."
-    },
-    {
-      "id": "mkt:019f394d-02c6-7aab-8cbc-9179fa040291",
-      "time": "2026-07-07 05:19:36",
-      "tags": [
-        "MKT News",
-        "RIVN.O"
-      ],
-      "text": "Rivian expects Q2 revenue of $1.55–1.65 billion."
-    },
-    {
-      "id": "mkt:019f394c-e3fe-7aab-8cbc-8873692a9ed4",
-      "time": "2026-07-07 05:19:28",
-      "tags": [
-        "MKT News",
-        "WMT.O",
-        "Impact bearish"
-      ],
-      "text": "Walmart cut prices on multiple categories, including groceries, household goods and apparel."
-    },
-    {
-      "id": "mkt:019f394c-d9b5-7aab-8cbc-833c1df8777c",
-      "time": "2026-07-07 05:19:25",
-      "tags": [
-        "MKT News",
-        "WMT.O"
-      ],
-      "text": "Walmart cuts ground-beef price to $5.94 per lb from $6.74 per lb."
     }
   ]
 }
