@@ -1,7 +1,227 @@
 {
   "date": "2026-07-13",
-  "count": 496,
+  "count": 520,
   "items": [
+    {
+      "id": "mkt:019f591d-eeb5-7aab-8d49-daea390af256",
+      "time": "2026-07-13 09:36:01",
+      "tags": [
+        "MKT News",
+        "00632.HK",
+        "Impact bullish",
+        "00883.HK",
+        "00857.HK"
+      ],
+      "text": "Hong Kong-listed oil and gas producers strengthened in early trade: 00632.HK rose over 3%, CNOOC (00883.HK) gained more than 2%, PetroChina (00857.HK) advanced 1.55%."
+    },
+    {
+      "id": "4983387",
+      "time": "2026-07-13 09:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子跌5%。"
+    },
+    {
+      "id": "4983386",
+      "time": "2026-07-13 09:35:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.04%，成分股中，天力複合跌12.42%，星圖測控跌7.77%，萬達軸承跌7.12%，富士達跌5.00%。"
+    },
+    {
+      "id": "4983385",
+      "time": "2026-07-13 09:35:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首個央地共建，深圳國際船舶登記服務中心運營半年成效顯著】作為全國首個央地共建的國際船舶登記服務中心，深圳國際船舶登記服務中心在前海實體化運營半年以來發展成效顯著，目前“中國前海”籍船舶數量達32艘，規模位居全國自貿區前三，累計設立93個船舶租賃SPV，管理租賃船舶118艘，船舶租賃資產總規模突破240億元。目前，前海已集聚航運企業超600家、航運配套服務企業超400家，中遠海運、招商局、DHL等15家世界500強企業，在前海佈局落地77個航運服務業務主體。為進一步壓縮辦事時限、降低企業運營成本、提升船舶落戶吸引力，深圳在全國率先推進國際船舶登記全流程再造，創新推出“1小時落戶中國前海”專屬服務，實現船舶轉籍業務“一窗受理、一門通辦”。目前，企業辦理船舶落戶業務，只需對接專屬海事服務專員，即可實現所有跨部門手續並聯審批，落戶證書當場核發、立等可取。（深圳釋出）"
+    },
+    {
+      "id": "4983384",
+      "time": "2026-07-13 09:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC板塊震盪下挫，風華高科跌停】MLCC板塊震盪下挫，風華高科跌停，昀冢科技跌超11%，信維通訊、宏明電子、多浦樂、皖維高新、振華科技等跟跌。"
+    },
+    {
+      "id": "mkt:019f591d-0aec-7aab-8d49-d0f876e77d09",
+      "time": "2026-07-13 09:35:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the side-car mechanism on the KOSPI index, suspending program trading buy orders."
+    },
+    {
+      "id": "4983383",
+      "time": "2026-07-13 09:34:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣單。"
+    },
+    {
+      "id": "mkt:019f591c-453a-7aab-8d49-cc488deef823",
+      "time": "2026-07-13 09:34:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share aerospace sector opened weaker; Aerospace Engineering hit limit-down, with Aerospace Power, Aerospace Development, Aerospace Intelligent Equipment, Aerospace Electromechanical and Aerospace Manufacturing also sliding."
+    },
+    {
+      "id": "mkt:019f591c-3380-7aab-8d49-c368c91a4ca4",
+      "time": "2026-07-13 09:34:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share traditional Chinese medicine stocks outperformed; Longshen Rongfa jumped over 10%, while Jiuzhitang, Shengwugu, Guangyuyuan, Yiling Pharmaceuticals and Datang Pharmaceutical also advanced."
+    },
+    {
+      "id": "4983382",
+      "time": "2026-07-13 09:34:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【地下管廊板塊走弱，青龍管業跌停】地下管廊板塊走弱，青龍管業跌停，深水規院、光格科技、三和管樁、韓建河山、大禹節水、東方雨虹等跟跌。"
+    },
+    {
+      "id": "4983381",
+      "time": "2026-07-13 09:33:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報3292.00元。"
+    },
+    {
+      "id": "4983380",
+      "time": "2026-07-13 09:33:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數盤初漲幅迅速擴大至1%。"
+    },
+    {
+      "id": "te:markets:566180",
+      "time": "2026-07-13 09:33:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens on Middle East Tensions — The Japanese yen weakened to around 162 per dollar on Monday, giving back the previous session’s gains as escalating tensions in the Middle East pressured the currency. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, driving oil prices higher and reinforcing expectations of interest-rate hikes to curb inflation. Japan’s economy and currency remain particularly vulnerable to higher oil prices due to the country’s heavy reliance on crude imports from the Middle East. The yen also faced additional pressure from a stronger dollar, which continued to attract safe-haven demand amid the geopolitical crisis. Last Friday, the yen surged after Finance Minister Satsuki Katayama said the government would encourage domestic pension funds to increase their allocations to Japanese financial assets."
+    },
+    {
+      "id": "mkt:019f591b-c014-7aab-8d49-bccabf88f1f9",
+      "time": "2026-07-13 09:33:38",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index gains in early trade quickly widened to 1%."
+    },
+    {
+      "id": "4983379",
+      "time": "2026-07-13 09:33:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊短線拉昇，華特氣體漲超15%】電子化學品板塊短線拉昇，華特氣體、金宏氣體漲超15%，廣鋼氣體、矽烷科技、格林達、三孚新科、天承科技跟漲。"
+    },
+    {
+      "id": "4983378",
+      "time": "2026-07-13 09:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中藥概念表現活躍 隴神戎發漲超10%】中藥概念表現活躍，隴神戎發漲超10%，九芝堂、生物谷、廣譽遠、以嶺藥業、大唐藥業跟漲。"
+    },
+    {
+      "id": "4983377",
+      "time": "2026-07-13 09:33:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4983376",
+      "time": "2026-07-13 09:33:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲4%，現報13000.00元。"
+    },
+    {
+      "id": "4983375",
+      "time": "2026-07-13 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股C股(上市次日至五日)板塊短線走低】康美特跌12.88%"
+    },
+    {
+      "id": "mkt:019f591a-f78b-7aab-8d49-b7f2335e2899",
+      "time": "2026-07-13 09:32:47",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index rallied in early trade to turn positive after an opening drop of as much as 0.89%."
+    },
+    {
+      "id": "4983374",
+      "time": "2026-07-13 09:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指盤初拉昇轉漲，此前開盤一度跌0.89%。"
+    },
+    {
+      "id": "mkt:019f591a-9f37-7aab-8d49-af9638e29eb0",
+      "time": "2026-07-13 09:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix falls over 8% in Seoul as investors take profits after strong ADR debut】SK Hynix shares fell as much as 8.2% in early trade in Seoul on Monday as investors took profits after the company's Nasdaq ADR jumped 12.8% on its first trading day last Friday. NH Investment Securities senior analyst Ryu Young-ho said profit-taking after the US listing and a cautious Q2 earnings outlook dented sentiment: expected HBM4 shipment growth from Q2 has not materialized at scale. Ryu added investors have trimmed earnings expectations because SK Hynix's greater HBM exposure versus Samsung reduces its benefit from recent DRAM price gains."
+    },
+    {
+      "id": "4983373",
+      "time": "2026-07-13 09:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4769.900點；恒生指數現漲0.677%。"
+    },
     {
       "id": "mkt:019f591a-5054-7aab-8d49-a2cada73936b",
       "time": "2026-07-13 09:32:04",
@@ -9,6 +229,15 @@
         "MKT News"
       ],
       "text": "A-share gas sector rallies; Shuifa Gas hits daily limit-up, Kaitian Gas, Tianhao Energy, Hongtong Gas, Shenzhen Gas and Guizhou Gas also trade higher."
+    },
+    {
+      "id": "4983372",
+      "time": "2026-07-13 09:32:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車整車板塊盤初走弱，眾泰汽車跌停】汽車整車板塊盤初走弱，眾泰汽車跌停，賽力斯、廣汽集團、北汽藍谷、江淮汽車、綠通科技、ST中路等跟跌。"
     },
     {
       "id": "mkt:019f591a-3ef5-7aab-8d49-9a435df3c7f2",

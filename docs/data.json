@@ -1,7 +1,227 @@
 {
-  "updated": "2026-07-13 09:32:38",
-  "count": 16712,
+  "updated": "2026-07-13 09:36:41",
+  "count": 16714,
   "items": [
+    {
+      "id": "mkt:019f591d-eeb5-7aab-8d49-daea390af256",
+      "time": "2026-07-13 09:36:01",
+      "tags": [
+        "MKT News",
+        "00632.HK",
+        "Impact bullish",
+        "00883.HK",
+        "00857.HK"
+      ],
+      "text": "Hong Kong-listed oil and gas producers strengthened in early trade: 00632.HK rose over 3%, CNOOC (00883.HK) gained more than 2%, PetroChina (00857.HK) advanced 1.55%."
+    },
+    {
+      "id": "4983387",
+      "time": "2026-07-13 09:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子跌5%。"
+    },
+    {
+      "id": "4983386",
+      "time": "2026-07-13 09:35:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.04%，成分股中，天力複合跌12.42%，星圖測控跌7.77%，萬達軸承跌7.12%，富士達跌5.00%。"
+    },
+    {
+      "id": "4983385",
+      "time": "2026-07-13 09:35:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首個央地共建，深圳國際船舶登記服務中心運營半年成效顯著】作為全國首個央地共建的國際船舶登記服務中心，深圳國際船舶登記服務中心在前海實體化運營半年以來發展成效顯著，目前“中國前海”籍船舶數量達32艘，規模位居全國自貿區前三，累計設立93個船舶租賃SPV，管理租賃船舶118艘，船舶租賃資產總規模突破240億元。目前，前海已集聚航運企業超600家、航運配套服務企業超400家，中遠海運、招商局、DHL等15家世界500強企業，在前海佈局落地77個航運服務業務主體。為進一步壓縮辦事時限、降低企業運營成本、提升船舶落戶吸引力，深圳在全國率先推進國際船舶登記全流程再造，創新推出“1小時落戶中國前海”專屬服務，實現船舶轉籍業務“一窗受理、一門通辦”。目前，企業辦理船舶落戶業務，只需對接專屬海事服務專員，即可實現所有跨部門手續並聯審批，落戶證書當場核發、立等可取。（深圳釋出）"
+    },
+    {
+      "id": "4983384",
+      "time": "2026-07-13 09:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC板塊震盪下挫，風華高科跌停】MLCC板塊震盪下挫，風華高科跌停，昀冢科技跌超11%，信維通訊、宏明電子、多浦樂、皖維高新、振華科技等跟跌。"
+    },
+    {
+      "id": "mkt:019f591d-0aec-7aab-8d49-d0f876e77d09",
+      "time": "2026-07-13 09:35:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the side-car mechanism on the KOSPI index, suspending program trading buy orders."
+    },
+    {
+      "id": "4983383",
+      "time": "2026-07-13 09:34:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣單。"
+    },
+    {
+      "id": "mkt:019f591c-453a-7aab-8d49-cc488deef823",
+      "time": "2026-07-13 09:34:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share aerospace sector opened weaker; Aerospace Engineering hit limit-down, with Aerospace Power, Aerospace Development, Aerospace Intelligent Equipment, Aerospace Electromechanical and Aerospace Manufacturing also sliding."
+    },
+    {
+      "id": "4983382",
+      "time": "2026-07-13 09:34:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【地下管廊板塊走弱，青龍管業跌停】地下管廊板塊走弱，青龍管業跌停，深水規院、光格科技、三和管樁、韓建河山、大禹節水、東方雨虹等跟跌。"
+    },
+    {
+      "id": "mkt:019f591c-3380-7aab-8d49-c368c91a4ca4",
+      "time": "2026-07-13 09:34:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share traditional Chinese medicine stocks outperformed; Longshen Rongfa jumped over 10%, while Jiuzhitang, Shengwugu, Guangyuyuan, Yiling Pharmaceuticals and Datang Pharmaceutical also advanced."
+    },
+    {
+      "id": "4983381",
+      "time": "2026-07-13 09:33:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報3292.00元。"
+    },
+    {
+      "id": "4983380",
+      "time": "2026-07-13 09:33:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數盤初漲幅迅速擴大至1%。"
+    },
+    {
+      "id": "te:markets:566180",
+      "time": "2026-07-13 09:33:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens on Middle East Tensions — The Japanese yen weakened to around 162 per dollar on Monday, giving back the previous session’s gains as escalating tensions in the Middle East pressured the currency. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, driving oil prices higher and reinforcing expectations of interest-rate hikes to curb inflation. Japan’s economy and currency remain particularly vulnerable to higher oil prices due to the country’s heavy reliance on crude imports from the Middle East. The yen also faced additional pressure from a stronger dollar, which continued to attract safe-haven demand amid the geopolitical crisis. Last Friday, the yen surged after Finance Minister Satsuki Katayama said the government would encourage domestic pension funds to increase their allocations to Japanese financial assets."
+    },
+    {
+      "id": "mkt:019f591b-c014-7aab-8d49-bccabf88f1f9",
+      "time": "2026-07-13 09:33:38",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index gains in early trade quickly widened to 1%."
+    },
+    {
+      "id": "4983379",
+      "time": "2026-07-13 09:33:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊短線拉昇，華特氣體漲超15%】電子化學品板塊短線拉昇，華特氣體、金宏氣體漲超15%，廣鋼氣體、矽烷科技、格林達、三孚新科、天承科技跟漲。"
+    },
+    {
+      "id": "4983378",
+      "time": "2026-07-13 09:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中藥概念表現活躍 隴神戎發漲超10%】中藥概念表現活躍，隴神戎發漲超10%，九芝堂、生物谷、廣譽遠、以嶺藥業、大唐藥業跟漲。"
+    },
+    {
+      "id": "4983377",
+      "time": "2026-07-13 09:33:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4983376",
+      "time": "2026-07-13 09:33:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲4%，現報13000.00元。"
+    },
+    {
+      "id": "4983375",
+      "time": "2026-07-13 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股C股(上市次日至五日)板塊短線走低】康美特跌12.88%"
+    },
+    {
+      "id": "mkt:019f591a-f78b-7aab-8d49-b7f2335e2899",
+      "time": "2026-07-13 09:32:47",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index rallied in early trade to turn positive after an opening drop of as much as 0.89%."
+    },
+    {
+      "id": "4983374",
+      "time": "2026-07-13 09:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指盤初拉昇轉漲，此前開盤一度跌0.89%。"
+    },
+    {
+      "id": "mkt:019f591a-9f37-7aab-8d49-af9638e29eb0",
+      "time": "2026-07-13 09:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix falls over 8% in Seoul as investors take profits after strong ADR debut】SK Hynix shares fell as much as 8.2% in early trade in Seoul on Monday as investors took profits after the company's Nasdaq ADR jumped 12.8% on its first trading day last Friday. NH Investment Securities senior analyst Ryu Young-ho said profit-taking after the US listing and a cautious Q2 earnings outlook dented sentiment: expected HBM4 shipment growth from Q2 has not materialized at scale. Ryu added investors have trimmed earnings expectations because SK Hynix's greater HBM exposure versus Samsung reduces its benefit from recent DRAM price gains."
+    },
+    {
+      "id": "4983373",
+      "time": "2026-07-13 09:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4769.900點；恒生指數現漲0.677%。"
+    },
     {
       "id": "mkt:019f591a-5054-7aab-8d49-a2cada73936b",
       "time": "2026-07-13 09:32:04",
@@ -9,6 +229,15 @@
         "MKT News"
       ],
       "text": "A-share gas sector rallies; Shuifa Gas hits daily limit-up, Kaitian Gas, Tianhao Energy, Hongtong Gas, Shenzhen Gas and Guizhou Gas also trade higher."
+    },
+    {
+      "id": "4983372",
+      "time": "2026-07-13 09:32:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車整車板塊盤初走弱，眾泰汽車跌停】汽車整車板塊盤初走弱，眾泰汽車跌停，賽力斯、廣汽集團、北汽藍谷、江淮汽車、綠通科技、ST中路等跟跌。"
     },
     {
       "id": "mkt:019f591a-3ef5-7aab-8d49-9a435df3c7f2",
@@ -152095,209 +152324,6 @@
         "市場"
       ],
       "text": "【機器人概念延續強勢 雷賽智慧3連板】早盤機器人概念延續上週強勢，雷賽智慧3連板，華依科技觸及20cm漲停，風語築、埃斯頓、徵和工業、臥龍電驅、大洋電機跟漲。訊息面上，7月3日，北京2026全球數字經濟大會現場，特斯拉副總裁陶琳登臺發表主題演講，公開對外確認核心規劃：特斯拉Optimus人形機器人將於2026年底正式啟動規模化量產，弗裡蒙特工廠遠期設計年產能目標100萬臺。"
-    },
-    {
-      "id": "4971345",
-      "time": "2026-07-06 09:36:35",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "【滙豐：澳大利亞房價回落才剛剛開始】滙豐首席經濟學家Paul Bloxham表示，澳大利亞房價在6月份出現回落，但這種下跌才剛剛開始。他說，最近有關投資性房產的稅收政策發生重大變化，加上澳大利亞央行早些時候的三次加息，迅速削弱了市場上的投資者需求。Bloxham預計，從現在到明年年底，全國房價最高將下跌8%。6月份資料中的下跌速度表明，這種觀點的風險似乎也偏向下行。“做好準備，”Bloxham補充道。"
-    },
-    {
-      "id": "mkt:019f3511-decc-7aab-8ca7-d82c57f9b24e",
-      "time": "2026-07-06 09:36:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share glass-substrate concept stocks opened lower; Caihong Co. fell more than 5%. Dier Laser, Leiman Optoelectronics, BOE Technology (BOE-A) and Woge Optoelectronics also slid."
-    },
-    {
-      "id": "4971344",
-      "time": "2026-07-06 09:36:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.3%至32.026。"
-    },
-    {
-      "id": "mkt:019f3511-b077-7aab-8ca7-d264507bd9f6",
-      "time": "2026-07-06 09:36:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HSBC: Australian house-price decline far from over】HSBC chief economist Paul Bloxham said Australian house prices pulled back in June but that is just the start. He cited major recent changes to taxation of investment properties and three Reserve Bank of Australia rate hikes as having rapidly weakened investor demand. Bloxham forecasts national house prices could fall up to 8% from now through the end of next year and said June’s pace of decline implies downside risk. He added: \"Buckle up.\""
-    },
-    {
-      "id": "4971343",
-      "time": "2026-07-06 09:36:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器人概念延續強勢 雷賽智慧3連板】早盤機器人概念延續上週強勢，雷賽智慧3連板，華依科技觸及20cm漲停，風語築、埃斯頓、徵和工業、臥龍電驅、大洋電機跟漲。訊息面上，7月3日，北京2026全球數字經濟大會現場，特斯拉副總裁陶琳登臺發表主題演講，公開對外確認核心規劃：特斯拉Optimus人形機器人將於2026年底正式啟動規模化量產，弗裡蒙特工廠遠期設計年產能目標100萬臺。"
-    },
-    {
-      "id": "4971342",
-      "time": "2026-07-06 09:36:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：菲律賓法院已對菲律賓參議員馬爾科萊塔下達逮捕令。"
-    },
-    {
-      "id": "4971341",
-      "time": "2026-07-06 09:35:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星海圖在秦皇島成立科技公司，含機器人業務】企查查APP顯示，近日，秦皇島星海圖科技有限公司成立，經營範圍包含：智慧機器人銷售；智慧機器人的研發；人工智慧基礎軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由星海圖（北京）人工智慧科技股份有限公司全資持股。"
-    },
-    {
-      "id": "4971340",
-      "time": "2026-07-06 09:35:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "mkt:019f3510-81d7-7aab-8ca7-ca5bb832510c",
-      "time": "2026-07-06 09:35:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Nikkei 225",
-        "CSI300"
-      ],
-      "text": "【Asia loan market posts weakest H1 in 16 years as Iran war spillovers sap confidence】Asia's loan market showed no rebound entering H2, with APAC excluding Japan loan issuance in USD, EUR and JPY down 15% YoY to $69.0 billion in H1 — the weakest first half in 16 years. Bankers say spillovers from the Iran war have delayed investment and deal activity and prompted tighter lender risk reviews, lengthening financing timelines. These headwinds could persist through the rest of the year, and competition may compress some loan spreads. BARCLAYS' head of Asia loan syndicate Andrew Ashman said: \"With rising uncertainty, corporate confidence has weakened,\" adding that an expected M&A-driven pickup in loan volume has not materialised and geopolitical tensions may continue to affect future new loan activity."
-    },
-    {
-      "id": "4971339",
-      "time": "2026-07-06 09:34:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【亞洲貸款市場迎16年來最冷上半年，伊朗戰爭餘波壓制信心】在進入下半年之際，亞洲貸款市場仍無明顯反彈跡象。銀行家們表示，伊朗戰爭的餘波持續壓制著貸款方和借款方的信心。資料顯示，今年前六個月，除日本外亞太地區的美元、歐元和日元貸款發行量同比下降15%，至690億美元，為16年來最疲弱的上半年表現。中東衝突推遲了亞洲的投資和交易活動，而由於貸款機構對交易進行更嚴格的風險審查，融資時間線也在拉長。銀行家們表示，這些不利因素可能在今年剩餘時間內持續存在，競爭也可能抑制部分貸款的利差。巴克萊銀行亞太貸款銀團主管安德魯·阿什曼表示：“隨著不確定性增加，企業信心有所下降。”他補充稱，併購活動帶動更多貸款的預期尚未實現，而地緣政治局勢可能繼續“影響未來的新增貸款交易量”。"
-    },
-    {
-      "id": "4971338",
-      "time": "2026-07-06 09:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月備案私募產品環比增逾三成】私募排排網資料顯示，2026年6月全市場新增備案私募證券產品1465只，較5月的1101只環比增長33.06%。"
-    },
-    {
-      "id": "mkt:019f3510-56ae-7aab-8ca7-c1a90bdf5503",
-      "time": "2026-07-06 09:34:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China private securities product filings up 33% MoM in June 2026】Private fund data provider Simuwang showed 1,465 new private securities products were filed in June 2026, up 33.06% MoM from 1,101 in May."
-    },
-    {
-      "id": "4971337",
-      "time": "2026-07-06 09:34:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔又響起多次爆炸聲】當地時間6日，烏克蘭首都基輔響起多次爆炸聲。基輔市長克利奇科表示，截至目前基輔市已有5人受傷。當天稍早，基輔響起多次爆炸聲。基輔市軍事管理局局長特卡琴科在社交媒體發文稱，俄軍正在向基輔發射彈道導彈。當地官員在社交媒體發文稱，有一棟居民樓被導彈擊中，導致人員被困。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f3510-4700-7aab-8ca7-be1fc7b3b8c0",
-      "time": "2026-07-06 09:34:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Multiple explosions reported in Kyiv】Multiple explosions were heard in Kyiv on the 6th (local time). Mayor Klitschko said five people have been injured. Kyiv military administration head Tkachenko posted that Russian forces are firing ballistic missiles at the city; local officials said a residential building was struck and people are trapped."
-    },
-    {
-      "id": "4971336",
-      "time": "2026-07-06 09:34:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度政府要求“元”公司刪除涉兒童性剝削內容】印度媒體7月5日援引訊息人士的話報道，社交媒體“照片牆”（Instagram）被曝在印度大量推送涉兒童性剝削的廣告後，印度政府已要求其母公司美國“元”公司(Meta)立即刪除相關內容，並於7天內作出詳細解釋。“元”公司尚未就印度政府的要求作出回應。該公司先前表示，已運用人工智慧等工具監控社交平臺、刪除涉兒童性剝削等內容，但承認這些措施“不完美”，未能徹底消除不法內容。（新華社）"
-    },
-    {
-      "id": "4971335",
-      "time": "2026-07-06 09:34:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【教育板塊早盤走強，中公教育一字漲停】教育板塊早盤走強，中公教育一字漲停，全通教育、昂立教育、科德教育、凱文教育跟漲。"
-    },
-    {
-      "id": "mkt:019f350f-d25d-7aab-8ca7-b740dd1ae06b",
-      "time": "2026-07-06 09:34:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share organosilicon sector rallied in early trade. Dongyue Silicones jumped over 10%; peers Chenguang New Materials, Xinyaqiang, Huitian New Materials, Hongbo New Materials and Jianghan New Materials also advanced."
-    },
-    {
-      "id": "4971334",
-      "time": "2026-07-06 09:34:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【有機矽板塊盤初拉昇，東嶽矽材漲超10%】有機矽板塊盤初拉昇，東嶽矽材漲超10%，晨光新材、新亞強、迴天新材、宏柏新材、江瀚新材等跟漲。訊息面上，東嶽矽材預計上半年淨利潤同比增長905%~952%。"
-    },
-    {
-      "id": "4971333",
-      "time": "2026-07-06 09:33:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝概念盤初活躍 華大九天漲超10%】早盤先進封裝概念盤初活躍，華大九天漲超10%，聯動科技、華天科技、微導奈米、長電科技、通富微電等跟漲。訊息面上，華為半導體負責人何庭波於7月3日釋出《面向多層級電子系統的時間縮微理論》（業內也稱“韜定律”）V2版本，明確了LogicFolding單元級3D堆疊、混合鍵合、TSV、統一匯流排、Hi-ONE光引擎五大落地技術。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607063794451180",
-      "time": "2026-07-06 09:33:04",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行表示，歐元體系T2系統執行正常，此前發生的支付處理故障已得到解決。"
-    },
-    {
-      "id": "4971332",
-      "time": "2026-07-06 09:33:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元貶破32元整數關，觸及4月初以來盤中新低。"
-    },
-    {
-      "id": "4971331",
-      "time": "2026-07-06 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股昨日漲停板塊異動拉昇】雷賽智慧、星網銳捷、金科股份、鋮昌科技、先鋒電子、賢豐控股、ST龍大觸及漲停"
     }
   ]
 }
