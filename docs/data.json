@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-15 06:45:09",
-  "count": 18777,
+  "updated": "2026-07-15 06:49:01",
+  "count": 18776,
   "items": [
+    {
+      "id": "4988571",
+      "time": "2026-07-15 06:47:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：凍結了超過1.3億美元伊朗數字資產。"
+    },
+    {
+      "id": "4988570",
+      "time": "2026-07-15 06:46:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【主營產品量價齊升，上市礦企上半年業績扎堆大增】紫金礦業預計上半年盈利391億元，洛陽鉬業預計淨賺155億元至165億元，盛達資源、西部黃金、株冶集團、西部礦業等預計業績增幅下限均超過100%……近期，上半年業績預喜成為A股上市礦企關鍵詞。支撐礦企業績大增的，是主營礦產品量價齊升。A股某礦產公司人士認為，中長期來看，有色金屬作為能源轉型、數字經濟的核心戰略金屬，供需長期錯配格局未改變，擁有優質自有礦山、持續擴產的頭部企業，有望充分享受行業長期高景氣週期。（上證報）"
+    },
+    {
+      "id": "te:markets:566917",
+      "time": "2026-07-15 06:45:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Surges by 6.36% — Top crypto gainers are Ether (6.36%), Bitcoin (4.27%) and Binance (2.63%)."
+    },
     {
       "id": "mkt:019f62cc-c0c6-7aab-8d8b-477d62b846b5",
       "time": "2026-07-15 06:43:33",
@@ -171886,38 +171914,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Falls Ahead of RBNZ Decision — The NZX 50 dropped 42 points, or 0.3%, to 13,720 in Wednesday morning trade, after being flat in the previous session, pulling back from a record high reached over the previous two consecutive sessions, as traders remained cautious ahead of the RBNZ's monetary policy decision due later today. The market expects the central bank to raise its policy rate by 25 bps to 2.5%. Traders also anticipated the release of the Fed's June meeting minutes for guidance on the outlook for interest rates. Rising oil prices also pressured sentiment, as inflation concerns raised expectations of further interest rate hikes. Financials, healthcare, technology, and utilities mainly weighed on the index. Fisher & Paykel Healthcare dropped 2.0%, Ebos Group fell 1.2%, Mainfreight lost 1.0%, Infratil declined 0.6%, and F&C Investment went down 0.4%."
-    },
-    {
-      "id": "mkt:019f3ec3-ea82-7aab-8cd8-1272f455a0e0",
-      "time": "2026-07-08 06:47:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion in Damascus during Macron visit kills 1, injures 36】A report on the evening of the 7th, citing the Syrian Interim Government health ministry, said two explosions hit near the Tourism Ministry building in central Damascus that morning, killing one and injuring 36. The French presidency said the blasts occurred close to the hotel where President Macron is staying."
-    },
-    {
-      "id": "4975071",
-      "time": "2026-07-08 06:46:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴已恢復電網供電，但在美國燃料封鎖下電力短缺問題仍持續存在。"
-    },
-    {
-      "id": "mkt:019f3ec2-581a-7aab-8cd8-0d352b77ed79",
-      "time": "2026-07-08 06:45:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait's Ministry of Electricity said multiple transmission lines are out of service, causing power outages in parts of the country."
-    },
-    {
-      "id": "4975070",
-      "time": "2026-07-08 06:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特電力部表示，多條輸電線路停運，導致該國部分地區停電。"
     }
   ]
 }
