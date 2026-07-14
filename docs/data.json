@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-15 03:15:56",
-  "count": 18826,
+  "updated": "2026-07-15 03:19:51",
+  "count": 18817,
   "items": [
+    {
+      "id": "4988452",
+      "time": "2026-07-15 03:16:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥期貨漲約1.4%】週二（7月14日）紐約尾盤，彭博穀物分類指數漲0.24%，報30.9322點。CBOT玉米期貨跌0.81%，CBOT小麥期貨漲1.38%。CBOT大豆期貨跌0.36%，報19.9050美元/蒲式耳，豆粕期貨漲0.38%，豆油期貨跌0.66%。ICE原糖期貨漲1.15%，ICE白糖期貨漲1.22%。ICE阿拉比卡咖啡期貨跌1.87%，咖啡“C”期貨跌0.91%。羅布斯塔咖啡期貨漲0.47%。紐約可可期貨漲1.61%，報5936美元/噸。倫敦可可期貨跌0.38%。芝加哥WCE雙低油菜籽期貨跌1.84%。ICE棉花期貨跌0.70%。"
+    },
+    {
+      "id": "mkt:019f620f-100a-7aab-8d88-4b30880f9130",
+      "time": "2026-07-15 03:16:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. backs reopening Iraq–Syria oil pipeline to blunt Iran's Strait of Hormuz leverage】The U.S. is advancing talks to reopen an oil pipeline linking Iraq and Syria that would bypass the Strait of Hormuz, aiming to reduce Iran's ability to disrupt global energy flows. Special envoy Thomas Barrack has convened Iraqi and Syrian officials and companies including Chevron to discuss restarting a long-dormant route; while multiple new-route options are under consideration, talks have focused on rebuilding the Kirkuk–Baniyas pipeline, out of service for more than 20 years. A U.S. State Department official said Washington is supporting repairs to expand trade corridors and expects U.S. firms to play a major role in construction. President Trump met Iraq's prime minister and said “large-scale” new oil cooperation would be announced this week or next."
+    },
+    {
+      "id": "4988451",
+      "time": "2026-07-15 03:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國航空開通飛往馬拉開波的航線。"
+    },
     {
       "id": "mkt:019f620c-791b-7aab-8d88-45127e54bbae",
       "time": "2026-07-15 03:13:32",
@@ -172169,117 +172198,6 @@
         "WTI"
       ],
       "text": "Iran's foreign ministry spokesman said some commercial vessels are sailing without coordination and have switched off or tampered with AIS transponders, raising shipping safety and environmental risks and impeding safe navigation through the Strait of Hormuz."
-    },
-    {
-      "id": "4974891",
-      "time": "2026-07-08 03:19:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國撤銷伊朗石油銷售授權後油價上漲，美元進一步走強；美元指數上漲0.25%，報101.1。"
-    },
-    {
-      "id": "4974890",
-      "time": "2026-07-08 03:18:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：任命羅曼·馬尼利亞出任稅務總局局長。"
-    },
-    {
-      "id": "mkt:019f3e04-d463-7aab-8cd5-ac1a0656e6b4",
-      "time": "2026-07-08 03:18:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign ministry spokesman urged regional states, including Qatar, and shipping companies to refrain from actions that would violate the memorandum."
-    },
-    {
-      "id": "4974889",
-      "time": "2026-07-08 03:18:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲6%，現報76.33美元/桶。"
-    },
-    {
-      "id": "4974888",
-      "time": "2026-07-08 03:18:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌4%，現報59.51美元/盎司。"
-    },
-    {
-      "id": "mkt:019f3e04-7d03-7aab-8cd5-a60bf16ef2a4",
-      "time": "2026-07-08 03:18:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign ministry spokesman called Qatar's allegation that Iran attacked a vessel associated with Qatar dubious, saying the claim violates principles of good-neighborliness and is unacceptable."
-    },
-    {
-      "id": "mkt:019f3e04-75c5-7aab-8cd5-99846080daf0",
-      "time": "2026-07-08 03:18:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver tumbled 4.00% intraday to $59.54/oz."
-    },
-    {
-      "id": "4974887",
-      "time": "2026-07-08 03:18:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守60美元/盎司，日內跌3.78%。"
-    },
-    {
-      "id": "mkt:019f3e02-c278-7aab-8cd5-9544a4754e89",
-      "time": "2026-07-08 03:16:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Gold falls below $4,100 as Brent and WTI jump 5%】Brent crude up 5.00% at $75.67/bbl; WTI up 5.00% above $72.00/bbl. Spot gold down 1.54%, trading below $4,100/oz."
-    },
-    {
-      "id": "4974886",
-      "time": "2026-07-08 03:16:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽維持泰森食品“BBB”/“F2”評級，展望穩定。"
-    },
-    {
-      "id": "4974885",
-      "time": "2026-07-08 03:16:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4100美元/盎司，日內跌1.59%。"
-    },
-    {
-      "id": "4974884",
-      "time": "2026-07-08 03:15:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦機場管理局：已透過多個機構在海上展開搜尋救援行動，定位失聯飛機。"
     }
   ]
 }

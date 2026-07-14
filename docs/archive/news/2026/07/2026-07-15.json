@@ -1,7 +1,36 @@
 {
   "date": "2026-07-15",
-  "count": 407,
+  "count": 410,
   "items": [
+    {
+      "id": "4988452",
+      "time": "2026-07-15 03:16:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥期貨漲約1.4%】週二（7月14日）紐約尾盤，彭博穀物分類指數漲0.24%，報30.9322點。CBOT玉米期貨跌0.81%，CBOT小麥期貨漲1.38%。CBOT大豆期貨跌0.36%，報19.9050美元/蒲式耳，豆粕期貨漲0.38%，豆油期貨跌0.66%。ICE原糖期貨漲1.15%，ICE白糖期貨漲1.22%。ICE阿拉比卡咖啡期貨跌1.87%，咖啡“C”期貨跌0.91%。羅布斯塔咖啡期貨漲0.47%。紐約可可期貨漲1.61%，報5936美元/噸。倫敦可可期貨跌0.38%。芝加哥WCE雙低油菜籽期貨跌1.84%。ICE棉花期貨跌0.70%。"
+    },
+    {
+      "id": "mkt:019f620f-100a-7aab-8d88-4b30880f9130",
+      "time": "2026-07-15 03:16:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. backs reopening Iraq–Syria oil pipeline to blunt Iran's Strait of Hormuz leverage】The U.S. is advancing talks to reopen an oil pipeline linking Iraq and Syria that would bypass the Strait of Hormuz, aiming to reduce Iran's ability to disrupt global energy flows. Special envoy Thomas Barrack has convened Iraqi and Syrian officials and companies including Chevron to discuss restarting a long-dormant route; while multiple new-route options are under consideration, talks have focused on rebuilding the Kirkuk–Baniyas pipeline, out of service for more than 20 years. A U.S. State Department official said Washington is supporting repairs to expand trade corridors and expects U.S. firms to play a major role in construction. President Trump met Iraq's prime minister and said “large-scale” new oil cooperation would be announced this week or next."
+    },
+    {
+      "id": "4988451",
+      "time": "2026-07-15 03:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國航空開通飛往馬拉開波的航線。"
+    },
     {
       "id": "mkt:019f620c-791b-7aab-8d88-45127e54bbae",
       "time": "2026-07-15 03:13:32",
