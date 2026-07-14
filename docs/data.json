@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-15 03:41:18",
-  "count": 18818,
+  "updated": "2026-07-15 03:45:13",
+  "count": 18816,
   "items": [
+    {
+      "id": "mkt:019f6228-dfbb-7aab-8d88-a2d1e1949d1e",
+      "time": "2026-07-15 03:44:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court filings show the Writers Guild of America has filed suit seeking to block Paramount's acquisition of Warner Bros. Discovery (WBD.O)."
+    },
+    {
+      "id": "4988465",
+      "time": "2026-07-15 03:43:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國編劇工會提起訴訟，要求阻止派拉蒙收購華納兄弟探索公司。"
+    },
+    {
+      "id": "mkt:019f6227-8470-7aab-8d88-9ff353021d9d",
+      "time": "2026-07-15 03:43:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM confirms new strikes on Iran】CENTCOM said US forces began a fresh round of strikes on Iran at 15:00 US Eastern Time on July 14 (22:30 Tehran time). It said forces were preparing to reimpose a maritime blockade on Iranian ports and coastal areas, and that the blockade took effect at 16:00 US Eastern (23:30 Tehran). The US had on July 13 announced a third consecutive night of strikes and said it would restore the blockade on July 14 US Eastern Time. President Trump has formally notified Congress that hostilities with Iran have resumed."
+    },
+    {
+      "id": "mkt:019f6226-20bb-7aab-8d88-9393d794cd1c",
+      "time": "2026-07-15 03:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it supports competition and individuals’ freedom to choose where they work."
+    },
     {
       "id": "4988464",
       "time": "2026-07-15 03:39:20",
@@ -172161,58 +172198,6 @@
         "國際"
       ],
       "text": "以色列國防軍：明天上午將在戈蘭高地舉行軍事演習。"
-    },
-    {
-      "id": "4974909",
-      "time": "2026-07-08 03:44:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗駁斥卡達船隻遇襲相關指控 警示違規航行存風險】伊朗外交部發言人巴加埃表示，卡達就霍爾木茲海峽一艘關聯該國的船隻遇襲一事提出的指控令人費解，此舉有悖睦鄰友好關係，同時警告未按協調航線航行的船隻將面臨安全風險。巴加埃稱，商船若不與伊朗協調航線，或是擅自篡改船舶追蹤系統，會滋生安全隱患，也會破壞伊朗為保障霍爾木茲海峽通航安全所做的努力。巴加埃表示，伊朗正嚴格履行霍爾木茲海峽管控措施諒解備忘錄項下自身承擔的各項義務。他敦促地區各國及航運企業，切勿採取任何違背該備忘錄條款的行為。"
-    },
-    {
-      "id": "mkt:019f3e1c-0f4d-7aab-8cd5-d647f3bf5e8c",
-      "time": "2026-07-08 03:44:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Gulf Cooperation Council secretary-general said the attack on a Saudi tanker reflects that Iran’s hostile actions are continuing."
-    },
-    {
-      "id": "4974908",
-      "time": "2026-07-08 03:43:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "一個民權組織在聯邦訴訟中指控，特朗普政府正向伊朗政府提供尋求在美國庇護的伊朗人的機密資訊。"
-    },
-    {
-      "id": "4974907",
-      "time": "2026-07-08 03:43:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "油輪追蹤TankerTrackers：伊朗今日將在哈爾克島裝運600萬桶原油。"
-    },
-    {
-      "id": "4974906",
-      "time": "2026-07-08 03:41:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國會議員將敦促財政部長貝森特支援對俄羅斯實施更嚴厲制裁，目前這項兩黨聯合法案在國會陷入停滯。"
-    },
-    {
-      "id": "mkt:019f3e19-9584-7aab-8cd5-c86479fd316a",
-      "time": "2026-07-08 03:41:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【French far‑right leader Marine Le Pen announces 2027 presidential bid】Marine Le Pen, leader of the National Rally and chair of its parliamentary group in the National Assembly, said on the evening of July 7 she will run in the 2027 presidential election. Le Pen has polled strongly in recent French surveys and has run three times previously, reaching the second round in 2017 and 2022 but losing both to President Emmanuel Macron. Earlier on July 7 the Paris Court of Appeal upheld her conviction for misappropriation of public funds but amended her sentence, restoring her legal eligibility to stand in 2027."
     }
   ]
 }
