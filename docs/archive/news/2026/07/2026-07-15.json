@@ -1,7 +1,50 @@
 {
   "date": "2026-07-15",
-  "count": 403,
+  "count": 407,
   "items": [
+    {
+      "id": "mkt:019f620c-791b-7aab-8d88-45127e54bbae",
+      "time": "2026-07-15 03:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said it has intercepted one ballistic missile, five cruise missiles and 33 drones since this evening. It said an Iranian attack damaged multiple critical and civilian facilities, caused shrapnel damage at some sites and struck a Kuwaiti naval vessel, wounding four service members who are in stable condition."
+    },
+    {
+      "id": "mkt:019f620b-5b4c-7aab-8d88-3f7b88e5f1aa",
+      "time": "2026-07-15 03:12:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said in the event of war Iran would assume full control of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f620a-f16c-7aab-8d88-33dce4c4b018",
+      "time": "2026-07-15 03:11:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Iran deputy foreign minister said the IRGC navy has completed mine-clearing in the northern Strait of Hormuz under a memorandum of understanding, but sea mines remain in the old channel."
+    },
+    {
+      "id": "4988450",
+      "time": "2026-07-15 03:11:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特軍方第 72 號宣告】國防部官方發言人表示：自今日晚間至今，武裝部隊共計偵測到 1 枚彈道導彈、5 枚巡航導彈以及 33 架敵方無人機，上述來襲目標已全部攔截處置完畢。此次伊朗發動的襲擊針對多處重要基礎設施與民用設施，彈片散落於境內多地，造成財產損毀。另有一艘科威特海軍艦艇遭襲擊，4 名軍方人員受傷，傷者已接受全面醫療救治，目前傷情穩定。"
+    },
     {
       "id": "mkt:019f6209-d850-7aab-8d88-291644558049",
       "time": "2026-07-15 03:10:40",
