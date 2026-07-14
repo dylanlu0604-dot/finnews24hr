@@ -1,7 +1,89 @@
 {
   "date": "2026-07-14",
-  "count": 746,
+  "count": 754,
   "items": [
+    {
+      "id": "te:markets:566555",
+      "time": "2026-07-14 08:56:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Gains on Middle East Jitters — The dollar index held around 101.2 on Tuesday after surging in the previous session, supported by safe-haven demand as President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz and sought reimbursement from countries benefiting from US efforts to secure the vital shipping lane. The move sent oil prices sharply higher, fueling renewed concerns that central banks may need to raise interest rates to contain inflationary pressures. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely watching his remarks for further policy signals. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged. The dollar remained stronger against most major currencies but weakened versus the New Zealand dollar after hawkish signals from the RBNZ."
+    },
+    {
+      "id": "te:markets:566554",
+      "time": "2026-07-14 08:56:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Rises to 4-Week High — The New Zealand dollar rose to around $0.577 on Tuesday, its highest level in four weeks, following remarks from RBNZ Chief Economist Paul Conway. Conway warned that inflation may not ease as quickly as the central bank expects, raising the possibility of further interest rate hikes. Last week, the RBNZ lowered its forecast for third-quarter inflation to 3.3% from 4.3%, citing lower fuel prices following the interim US-Iran agreement. However, oil prices have rebounded in recent days as renewed fighting in the Middle East fueled supply concerns. The RBNZ's hawkish stance last week, combined with a series of upbeat domestic economic data, has led markets to price in two additional rate hikes this year. However, the kiwi's gains were limited as the standoff between the US and Iran intensified, with President Trump reimposing a US naval blockade of Iranian ports and announcing a 20% charge on all cargo shipped through the Strait of Hormuz, dampening risk appetite."
+    },
+    {
+      "id": "4985600",
+      "time": "2026-07-14 08:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國標實施在即 高新興連中兩個千萬級電動腳踏車數字化治理專案】據高新興訊息，近日，高新興相繼斬獲廣東、福建兩省電動腳踏車數字化治理千萬級採購專案，中標金額合計超2466萬元。公司表示，由公安部交通管理科學研究所牽頭制定、高新興深度參與編制的國家標準《電動腳踏車電子身份與識讀通用規範》，將於2026年10月1日正式實施，電動腳踏車數字號牌驅動的非機動車數智化治理模式，即將在全國推廣。"
+    },
+    {
+      "id": "4985599",
+      "time": "2026-07-14 08:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：中東局勢惡化令人深感擔憂。"
+    },
+    {
+      "id": "mkt:019f5e1f-2a26-7aab-8d67-63dae4739d88",
+      "time": "2026-07-14 08:55:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI rose 1.00% intraday; Samsung Electronics up 5%, SK Hynix up 2%."
+    },
+    {
+      "id": "4985598",
+      "time": "2026-07-14 08:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科技日報：NSF涉華實體禁令嚴重損害中美科技合作】日前，美國國家科學基金會（NSF）釋出“致同仁信”，宣佈基於“國家安全”等考慮，擬於2027財年實施所謂新的“科研安全政策”，禁止與美國商務部BIS實體清單、國防部1260H清單、聯邦通訊委員會（FCC）受管制清單等“美國限制名單”上的實體，就NSF資助的專案開展合作。該禁令覆蓋面廣且內容嚴苛，既限制聯合研究，又限制人員交流。機構層面，禁令規定NSF的撥款，不得以任何形式資助任何機構與“受限制實體”的合作研究，與相關實體僱員個人的合作也不行；個人層面，禁令規定受NSF資助的“高階”或“關鍵”人員，不得在“受限制實體”擔任任何職務或職位，不得接受“受限制實體”提供的研究資助，更不得與“受限制實體”及其僱員就NSF資助的研究進行合作。中美均為全球主要科學產出國，開展科研合作既有利於兩國科技水平的提高，更有利於全人類的共同福祉。NSF作為美國基礎研究領域的重要資助機構，應做中美科研合作的推動者而非破壞者，不應讓損人害己的涉華實體禁令付諸實施。"
+    },
+    {
+      "id": "mkt:019f5e1e-b767-7aab-8d67-587c5ecd9c18",
+      "time": "2026-07-14 08:54:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Tech Daily: NSF ban on China-linked entities would severely damage China-U.S. research cooperation】Tech Daily reports the U.S. National Science Foundation issued a \"Dear Colleague\" letter proposing a new research-security policy, citing national security, to take effect in FY2027 that would bar collaboration on NSF-funded projects with entities on U.S. restricted lists (Commerce Department BIS Entity List, DoD 1260H list, and FCC-controlled lists). NSF accounts for roughly one-quarter of U.S. federal funding for university basic research. If implemented, the ban would significantly damage China-U.S. research cooperation."
+    },
+    {
+      "id": "4985597",
+      "time": "2026-07-14 08:54:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6876.42點。個股方面，三星電子漲超4%，SK海力士漲超1%。n"
+    },
     {
       "id": "mkt:019f5e1c-ea50-7aab-8d67-5682ed4a91a9",
       "time": "2026-07-14 08:53:00",

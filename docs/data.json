@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-14 08:53:51",
-  "count": 17339,
+  "updated": "2026-07-14 08:57:40",
+  "count": 17341,
   "items": [
+    {
+      "id": "te:markets:566555",
+      "time": "2026-07-14 08:56:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Gains on Middle East Jitters — The dollar index held around 101.2 on Tuesday after surging in the previous session, supported by safe-haven demand as President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz and sought reimbursement from countries benefiting from US efforts to secure the vital shipping lane. The move sent oil prices sharply higher, fueling renewed concerns that central banks may need to raise interest rates to contain inflationary pressures. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely watching his remarks for further policy signals. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged. The dollar remained stronger against most major currencies but weakened versus the New Zealand dollar after hawkish signals from the RBNZ."
+    },
+    {
+      "id": "te:markets:566554",
+      "time": "2026-07-14 08:56:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Rises to 4-Week High — The New Zealand dollar rose to around $0.577 on Tuesday, its highest level in four weeks, following remarks from RBNZ Chief Economist Paul Conway. Conway warned that inflation may not ease as quickly as the central bank expects, raising the possibility of further interest rate hikes. Last week, the RBNZ lowered its forecast for third-quarter inflation to 3.3% from 4.3%, citing lower fuel prices following the interim US-Iran agreement. However, oil prices have rebounded in recent days as renewed fighting in the Middle East fueled supply concerns. The RBNZ's hawkish stance last week, combined with a series of upbeat domestic economic data, has led markets to price in two additional rate hikes this year. However, the kiwi's gains were limited as the standoff between the US and Iran intensified, with President Trump reimposing a US naval blockade of Iranian ports and announcing a 20% charge on all cargo shipped through the Strait of Hormuz, dampening risk appetite."
+    },
+    {
+      "id": "4985600",
+      "time": "2026-07-14 08:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國標實施在即 高新興連中兩個千萬級電動腳踏車數字化治理專案】據高新興訊息，近日，高新興相繼斬獲廣東、福建兩省電動腳踏車數字化治理千萬級採購專案，中標金額合計超2466萬元。公司表示，由公安部交通管理科學研究所牽頭制定、高新興深度參與編制的國家標準《電動腳踏車電子身份與識讀通用規範》，將於2026年10月1日正式實施，電動腳踏車數字號牌驅動的非機動車數智化治理模式，即將在全國推廣。"
+    },
+    {
+      "id": "4985599",
+      "time": "2026-07-14 08:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：中東局勢惡化令人深感擔憂。"
+    },
+    {
+      "id": "mkt:019f5e1f-2a26-7aab-8d67-63dae4739d88",
+      "time": "2026-07-14 08:55:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI rose 1.00% intraday; Samsung Electronics up 5%, SK Hynix up 2%."
+    },
+    {
+      "id": "4985598",
+      "time": "2026-07-14 08:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科技日報：NSF涉華實體禁令嚴重損害中美科技合作】日前，美國國家科學基金會（NSF）釋出“致同仁信”，宣佈基於“國家安全”等考慮，擬於2027財年實施所謂新的“科研安全政策”，禁止與美國商務部BIS實體清單、國防部1260H清單、聯邦通訊委員會（FCC）受管制清單等“美國限制名單”上的實體，就NSF資助的專案開展合作。該禁令覆蓋面廣且內容嚴苛，既限制聯合研究，又限制人員交流。機構層面，禁令規定NSF的撥款，不得以任何形式資助任何機構與“受限制實體”的合作研究，與相關實體僱員個人的合作也不行；個人層面，禁令規定受NSF資助的“高階”或“關鍵”人員，不得在“受限制實體”擔任任何職務或職位，不得接受“受限制實體”提供的研究資助，更不得與“受限制實體”及其僱員就NSF資助的研究進行合作。中美均為全球主要科學產出國，開展科研合作既有利於兩國科技水平的提高，更有利於全人類的共同福祉。NSF作為美國基礎研究領域的重要資助機構，應做中美科研合作的推動者而非破壞者，不應讓損人害己的涉華實體禁令付諸實施。"
+    },
+    {
+      "id": "mkt:019f5e1e-b767-7aab-8d67-587c5ecd9c18",
+      "time": "2026-07-14 08:54:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Tech Daily: NSF ban on China-linked entities would severely damage China-U.S. research cooperation】Tech Daily reports the U.S. National Science Foundation issued a \"Dear Colleague\" letter proposing a new research-security policy, citing national security, to take effect in FY2027 that would bar collaboration on NSF-funded projects with entities on U.S. restricted lists (Commerce Department BIS Entity List, DoD 1260H list, and FCC-controlled lists). NSF accounts for roughly one-quarter of U.S. federal funding for university basic research. If implemented, the ban would significantly damage China-U.S. research cooperation."
+    },
+    {
+      "id": "4985597",
+      "time": "2026-07-14 08:54:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6876.42點。個股方面，三星電子漲超4%，SK海力士漲超1%。n"
+    },
     {
       "id": "mkt:019f5e1c-ea50-7aab-8d67-5682ed4a91a9",
       "time": "2026-07-14 08:53:00",
@@ -158521,56 +158603,6 @@
         "國際"
       ],
       "text": "【全球基金購買韓國債券規模創一個月新高】根據韓國金融監督院的資料，7月3日外國資金淨買入11.3億美元韓國債券 ，為自2026年6月5日以來最高水平。根據交易所資料，7月6日外國資金淨拋售 8.876億美元韓國股票，為連續第11個交易日淨賣出。"
-    },
-    {
-      "id": "4973181",
-      "time": "2026-07-07 08:56:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【勝宏科技：原材料價格波動主要體現在消費類產品上，已將原材料上漲帶來的成本壓力合理、有序地向下遊客戶傳導】勝宏科技7月6日在機構投資者現場參觀時表示，公司原材料價格波動主要體現在消費類產品上，公司消費業務相對穩定，已將原材料上漲帶來的成本壓力合理、有序地向下遊客戶傳導。公司前期量產高階產品原材料價格平穩，產品定價較為穩定，新產品定價遵循市場化定價原則，將根據具體產品料號的製造難度、市場供需、原材料價格波動情況等與客戶協商定價。一方面公司將透過最佳化供應鏈管理、技術創新及精細化運營等多種措施，積極對沖成本波動影響，另一方面公司快速推進與下游客戶議價工作，目前PCB產能相對緊張，公司亦優先保障高品質、高價值量客戶的產品交付。價格由供需決定，從中期來看，高階產品的供給仍將處於相對緊張的狀態。"
-    },
-    {
-      "id": "4973180",
-      "time": "2026-07-07 08:55:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參7月7日價格釋出：普五八代領跌 總價創近四日新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月7日整體繼續回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9882元，較昨日再度下跌19元，連續兩日回落並創下四日以來最低。縱觀全場，創月高月低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒環比有所降溫，總價低位震盪格局仍未扭轉。今日11大白酒單品三漲八跌，輸家數量佔據絕對優勢。上漲方面，青花郎漲幅居前，上漲5元/瓶，重新逼近700元關口；青花汾20上漲4元/瓶，平近一月最高紀錄；五糧液1618小幅上漲1元/瓶。下跌方面，五糧液普五八代跌幅居前，下跌8元/瓶，再創“酒價內參”自去年11月有統計以來最低；古井貢古20下跌6元/瓶，自昨日創下的“酒價內參”有統計以來最高價處回落，但仍處於近一月次高位；習酒君品下跌4元/瓶；精品茅臺與國窖1573均下跌3元/瓶，其中前者仍位於2400元一線附近；飛天茅臺與水晶劍南春均下跌2元/瓶，其中前者創今年4月23日以來最低價紀錄，相對i茅臺官方定價的價差繼續收窄，後者平近一月最低價。洋河夢之藍M6+小幅下跌1元/瓶。"
-    },
-    {
-      "id": "4973179",
-      "time": "2026-07-07 08:55:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西南寧開展水庫漫頂決堤災情救援工作，已疏散受災人口4.8萬人】據南寧釋出官微訊息，7月6日晚，南寧市舉行防汛救災新聞釋出會，通報橫州市、賓陽縣防汛救災有關情況。據初步統計，截至新聞釋出會舉行前，南寧市因水庫下游洪澇災害造成的受災人口約5.5萬人，已疏散4.8萬人。7月4日8時至6日19時，南寧市普降暴雨到大暴雨，造成橫州市六藍水庫、雲表水庫出現漫頂、決堤事件，造成幾個水庫集中向橫州市雲表鎮及周邊地區下洩，人民群眾生命財產受到嚴重損失。從當前情況看，災情後續還存在著幾方面風險，主要有：一是颱風“美莎克”造成本區域持續降雨，導致災情擴大；二是洪澇淹沒區向下遊移動，造成受災面積擴大；三是救援處置過程中，可能因處置不當而造成次生風險。此次降雨表現出範圍廣、強度大、極端性強的特點。橫州市、賓陽縣等多地出現了打破當地24小時氣象紀錄的極端降雨。"
-    },
-    {
-      "id": "4973178",
-      "time": "2026-07-07 08:54:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風和季風氣流共同影響 廣西暴雨持續】在臺風“美莎克”和季風氣流的共同影響下，廣西頻繁出現強降雨，防城港的防城區累計降水量超過600毫米，賓陽局地更是超過700毫米，雨量非常驚人，基本是一天就下了北方很多城市一年的雨。未來“美莎克”的殘餘環流還會沿著副熱帶高壓邊緣北上，牽引季風氣流輸送水汽，製造強降雨、強對流天氣。今天廣西東南部、廣東西南部等地普遍是暴雨如注的場景，其中在廣西東南部局地有大暴雨，甚至是特大暴雨天氣。除此之外，在山東、安徽、江蘇以及遼寧等地也會有大到暴雨或大暴雨，同時可能會伴隨短時強降水、雷暴大風或冰雹等強對流天氣，大家要加強防範。（央視）"
-    },
-    {
-      "id": "4973177",
-      "time": "2026-07-07 08:54:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲1個基點，至3.815%。"
-    },
-    {
-      "id": "4973176",
-      "time": "2026-07-07 08:53:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國阿克西奧斯新聞網站6日援引一名美國官員的話報道說，伊朗伊斯蘭革命衛隊向數艘透過霍爾木茲海峽的商船發射了至少兩枚導彈。兩艘商船被擊中且受損嚴重，無人員傷亡。（新華社）"
     }
   ]
 }
