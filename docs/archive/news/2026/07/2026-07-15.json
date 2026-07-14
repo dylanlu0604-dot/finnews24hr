@@ -1,7 +1,15 @@
 {
   "date": "2026-07-15",
-  "count": 562,
+  "count": 563,
   "items": [
+    {
+      "id": "mkt:019f628e-4e7b-7aab-8d8a-a286e5e33bbc",
+      "time": "2026-07-15 05:35:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. House passes bill to make daylight saving time permanent】On July 14 the U.S. House voted to pass a bill to make daylight saving time permanent and sent it to the Senate for consideration. In May the House Energy and Commerce Committee approved the Sunshine Protection Act 48-1; the bill would eliminate the twice-yearly clock changes and keep daylight saving time year-round."
+    },
     {
       "id": "4988522",
       "time": "2026-07-15 05:31:49",

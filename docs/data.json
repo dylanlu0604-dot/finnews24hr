@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-15 05:32:31",
-  "count": 18800,
+  "updated": "2026-07-15 05:36:26",
+  "count": 18794,
   "items": [
+    {
+      "id": "mkt:019f628e-4e7b-7aab-8d8a-a286e5e33bbc",
+      "time": "2026-07-15 05:35:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. House passes bill to make daylight saving time permanent】On July 14 the U.S. House voted to pass a bill to make daylight saving time permanent and sent it to the Senate for consideration. In May the House Energy and Commerce Committee approved the Sunshine Protection Act 48-1; the bill would eliminate the twice-yearly clock changes and keep daylight saving time year-round."
+    },
     {
       "id": "4988522",
       "time": "2026-07-15 05:31:49",
@@ -172055,69 +172063,6 @@
         "國際"
       ],
       "text": "以色列對黎巴嫩南部真主黨目標發動空襲。"
-    },
-    {
-      "id": "4975006",
-      "time": "2026-07-08 05:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國移民與海關執法局（ICE）稱，該局探員在得克薩斯州一次車輛截停檢查中開槍擊斃了一名墨西哥司機。"
-    },
-    {
-      "id": "4975005",
-      "time": "2026-07-08 05:35:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美伊時隔9天再起衝突】當地時間今天（7月8日）凌晨，伊朗南部格什姆島及錫裡克、阿巴斯港等多地傳出爆炸聲。據伊朗媒體報道，錫裡克的港口“遭6枚發射物襲擊”。美軍中央司令部稱，已開始對伊朗發動一系列強力打擊，“以回應伊朗攻擊三艘途經霍爾木茲海峽的商船”。據匿名美國官員稍早前稱，初步跡象顯示“伊朗近日在霍爾木茲海峽向三艘商船開火”，這一行為“完全不可接受”，將招致相應後果。但伊朗方面目前並未承認襲擊商船一事。美國財政部則已宣佈撤銷對伊朗石油銷售制裁的臨時豁免。 對此，伊朗外交部今天凌晨最新發表宣告予以譴責，表示將採取一切其認為必要的措施，以維護自身利益與國家安全，而美國政府須為違反《伊斯蘭堡諒解備忘錄》承擔一切後果。"
-    },
-    {
-      "id": "mkt:019f3e81-2de7-7aab-8cd7-62812b94701a",
-      "time": "2026-07-08 05:34:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK to lead a European initiative to boost funding for deep precision-strike capabilities. Under the initiative, allies will invest $50 billion over the next 10 years to develop those capabilities."
-    },
-    {
-      "id": "4975004",
-      "time": "2026-07-08 05:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：將推出新倡議，由同盟國在未來十年投入500億美元，開發深度精確打擊能力。"
-    },
-    {
-      "id": "4975003",
-      "time": "2026-07-08 05:33:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行政策委員會委員淺田：加息或拖累經濟。"
-    },
-    {
-      "id": "4975002",
-      "time": "2026-07-08 05:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國唐寧街：英國將牽頭推出一項歐洲倡議，增加對深度精確打擊能力的資金投入。"
-    },
-    {
-      "id": "4975001",
-      "time": "2026-07-08 05:32:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普道瓊斯指數：印尼、土耳其、奈及利亞被納入2027年潛在市場重分類觀察名單。"
     }
   ]
 }
