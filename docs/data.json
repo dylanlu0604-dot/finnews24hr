@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-14 23:12:49",
-  "count": 18566,
+  "updated": "2026-07-14 23:18:47",
+  "count": 18569,
   "items": [
+    {
+      "id": "4988121",
+      "time": "2026-07-14 23:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗永遠不會擁有核武器。"
+    },
+    {
+      "id": "4988120",
+      "time": "2026-07-14 23:16:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與伊拉克總理阿里·扎伊迪舉行雙邊會談。"
+    },
+    {
+      "id": "mkt:019f6132-d2ca-7aab-8d82-c0bc68d2c583",
+      "time": "2026-07-14 23:15:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said AI is broadly beneficial to the economy but warned against being overly complacent."
+    },
+    {
+      "id": "4988118",
+      "time": "2026-07-14 23:15:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧整體而言對經濟有益，但我不願對此盲目自滿."
+    },
+    {
+      "id": "mkt:019f6132-3241-7aab-8d82-bbd10bcef845",
+      "time": "2026-07-14 23:15:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the United States has again secured victory, doing so in an unprecedented way."
+    },
+    {
+      "id": "4988117",
+      "time": "2026-07-14 23:14:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧將隨著時間的推移顯著提升生產力。"
+    },
+    {
+      "id": "4988116",
+      "time": "2026-07-14 23:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：在歷史上，伊朗南部始終是抵抗殖民主義、捍衛獨立的象徵。今天，這片土地上高尚的人民以耐心、堅韌和不屈的精神，帶著尊嚴度過了因敵人侵略而帶來的艱難日子。我與這些忠誠而堅韌的人民同在，並對他們深表感激。整個伊朗，都是我的家園。"
+    },
+    {
+      "id": "mkt:019f6130-dd7a-7aab-8d82-b35dddaa9175",
+      "time": "2026-07-14 23:13:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said AI implies substantial long-term productivity gains."
+    },
+    {
+      "id": "4988115",
+      "time": "2026-07-14 23:13:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧普及或許是意義最重大的變革。"
+    },
+    {
+      "id": "4988114",
+      "time": "2026-07-14 23:13:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：我們對自身實現2026年回報率目標、進而達成今年5月公佈的後續目標的能力非常有信心。"
+    },
+    {
+      "id": "4988113",
+      "time": "2026-07-14 23:12:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士ADR股價漲幅擴大至17%，總市值報1.30萬億美元，創上市以來新高。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607143806156391",
+      "time": "2026-07-14 23:12:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，不認為穩定物價和就業之間存在殘酷的抉擇。"
+    },
     {
       "id": "4988112",
       "time": "2026-07-14 23:11:52",
@@ -169705,82 +169818,6 @@
         "其他"
       ],
       "text": "SpaceX：麥格理首次覆蓋，給予跑贏大盤評級，目標價 250 美元。"
-    },
-    {
-      "id": "4974752",
-      "time": "2026-07-07 23:18:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "塞爾維亞政府：6 月通脹同比放緩至 2.7%，5 月為 3.5%。"
-    },
-    {
-      "id": "mkt:019f3d28-7a3e-7aab-8cd1-f1e8f739d99a",
-      "time": "2026-07-07 23:18:10",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "New Zealand GDT price index to June 23 fell 4.9% (prior -2.8%)."
-    },
-    {
-      "id": "mkt:019f3d28-595c-7aab-8cd1-ef2a80bf289c",
-      "time": "2026-07-07 23:18:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jun.23) | actual -4.9% | previous -2.8%"
-    },
-    {
-      "id": "4974751",
-      "time": "2026-07-07 23:17:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "恆天然：7月7日全球乳品貿易（GDT）拍賣價格指數下降4.9%，奶粉各合同期FAS拍賣均價3,793美元/噸。批發奶粉價格指數下降4.4%，報3,425美元/噸。"
-    },
-    {
-      "id": "mkt:019f3d25-9672-7aab-8cd1-e1a516995956",
-      "time": "2026-07-07 23:15:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Norwegian government will provide NOK 3 bln (about $306.2m) to support Ukraine's air-defence systems."
-    },
-    {
-      "id": "4974749",
-      "time": "2026-07-07 23:14:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國（國會山）民主黨成員們發函Kalshi、Polymarket、以及特朗普媒體。"
-    },
-    {
-      "id": "4974748",
-      "time": "2026-07-07 23:14:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "油價上漲致美國航空股集體下挫，達美航空下跌 2.3%，西南航空下滑 2.6%，美國航空跌 1.9%。聯合航空下跌 2.2%，阿拉斯加航空下滑 1.2%，捷藍航空大跌 4.1%。"
-    },
-    {
-      "id": "4974747",
-      "time": "2026-07-07 23:13:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威政府：向烏克蘭防空體系提供 30 億挪威克朗（摺合 3.062 億美元）援助。"
-    },
-    {
-      "id": "4974746",
-      "time": "2026-07-07 23:12:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所資料：英國近月天然氣批發價上漲 6%，報 104.61 便士 / 熱量單位。"
     }
   ]
 }
