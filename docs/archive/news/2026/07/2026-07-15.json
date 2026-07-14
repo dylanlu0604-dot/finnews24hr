@@ -1,7 +1,28 @@
 {
   "date": "2026-07-15",
-  "count": 568,
+  "count": 570,
   "items": [
+    {
+      "id": "mkt:019f629b-0635-7aab-8d8a-c70228473cb2",
+      "time": "2026-07-15 05:49:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran military says it continues strikes on U.S. bases in region】Iran’s military said early on the 15th local time it is continuing drone attacks on U.S. bases in the region. It said a few hours earlier suicide drones struck the F-18 parking area, a barracks block and a large equipment warehouse at the Azraq U.S. base in Jordan."
+    },
+    {
+      "id": "4988525",
+      "time": "2026-07-15 05:48:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方稱持續打擊地區內美軍基地】伊朗軍隊當地時間15日凌晨發表宣告稱，伊朗軍隊持續對地區內美軍基地展開無人機打擊。宣告稱，數小時前，約旦阿茲拉克美軍基地內的F-18戰鬥機部署地點、住宿樓以及大型裝置倉庫遭到伊朗自殺式無人機的襲擊。（央視新聞）"
+    },
     {
       "id": "mkt:019f6299-3b0a-7aab-8d8a-b98562a68268",
       "time": "2026-07-15 05:47:16",
