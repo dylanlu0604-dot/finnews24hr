@@ -1,7 +1,156 @@
 {
   "date": "2026-07-14",
-  "count": 722,
+  "count": 738,
   "items": [
+    {
+      "id": "mkt:019f5e19-9b16-7aab-8d67-35da6ed2b09b",
+      "time": "2026-07-14 08:49:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama Satsuki said she would not comment on whether changes to the Government Pension Investment Fund's asset allocation would lead to reduced investment in foreign assets."
+    },
+    {
+      "id": "te:economy:566552",
+      "time": "2026-07-14 08:49:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 5-Week Top — Australia’s 10-year government bond yield rose above 4.9%, reaching a five-week high as escalating tensions over the Strait of Hormuz fueled inflation concerns. US President Donald Trump now reinstated a blockade on Iranian vessels transiting the Strait of Hormuz and called on countries benefiting from US efforts to secure the vital shipping route to share the costs. The move followed renewed hostilities between Washington and Tehran, with the US targeting Iran’s maritime capabilities while Tehran retaliated against US allies in the region. In Australia, investors continued to assess the policy outlook with a thin economic calendar this week. Some suspect the Reserve Bank could be done hiking after three rate rises to 4.35%, with a further move this year just seen at around 50%. Upcoming employment and inflation data due later this month will be closely watched for fresh clues on whether underlying price pressures remain strong enough to warrant further monetary tightening."
+    },
+    {
+      "id": "4985592",
+      "time": "2026-07-14 08:49:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌美元上漲0.51%，報0.5775。"
+    },
+    {
+      "id": "mkt:019f5e18-fc0d-7aab-8d67-2ef115fbca95",
+      "time": "2026-07-14 08:48:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said any changes to the asset-management portfolio will be made according to rules set by the Government Pension Investment Fund."
+    },
+    {
+      "id": "mkt:019f5e18-bdf4-7aab-8d67-2505954b3581",
+      "time": "2026-07-14 08:48:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan finance minister Katayama said if the asset-management environment undergoes a major change, authorities could consider adjusting the Government Pension Investment Fund's (GPIF) portfolio."
+    },
+    {
+      "id": "4985591",
+      "time": "2026-07-14 08:48:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：對GPIF資產配置調整是否會導致其減少對外國資產投資不予置評。"
+    },
+    {
+      "id": "mkt:019f5e18-99b2-7aab-8d67-18b42538e034",
+      "time": "2026-07-14 08:48:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin balances across China's two exchanges fall CNY33.53 bln】As of July 13, margin financing on the Shanghai Stock Exchange stood at CNY1,457.52 bln, down CNY13.75 bln from the prior trading day; Shenzhen Stock Exchange at CNY1,422.72 bln, down CNY19.78 bln. Combined margin balance was CNY2,880.24 bln, down CNY33.53 bln."
+    },
+    {
+      "id": "4985590",
+      "time": "2026-07-14 08:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：資產管理組合的任何變動都將基於為GPIF制定的規則。"
+    },
+    {
+      "id": "4985589",
+      "time": "2026-07-14 08:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：如果資產管理環境發生急劇變化，可考慮調整GPIF的投資組合。"
+    },
+    {
+      "id": "mkt:019f5e17-f3f9-7aab-8d67-168f50eacb99",
+      "time": "2026-07-14 08:47:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said it is time to consider allowing Japanese government bonds (JGBs) into NISA."
+    },
+    {
+      "id": "4985588",
+      "time": "2026-07-14 08:47:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率上漲0.1%，至162.24。"
+    },
+    {
+      "id": "4985587",
+      "time": "2026-07-14 08:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少335.33億元】截至7月13日，上交所融資餘額報14575.17億元，較前一交易日減少137.54億元；深交所融資餘額報14227.19億元，較前一交易日減少197.79億元；兩市合計28802.36億元，較前一交易日減少335.33億元。"
+    },
+    {
+      "id": "4985586",
+      "time": "2026-07-14 08:46:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "片山講話期間，日元兌美元走強。"
+    },
+    {
+      "id": "4985585",
+      "time": "2026-07-14 08:46:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：現在是時候考慮將日本國債納入個人投資賬戶（NISA）了。"
+    },
+    {
+      "id": "4985584",
+      "time": "2026-07-14 08:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將緊急採取具體措施，使政府債券對個人投資者更具吸引力，並審查其產品特點。"
+    },
+    {
+      "id": "4985583",
+      "time": "2026-07-14 08:45:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌澳元走強，升至3月以來最高水平。"
+    },
     {
       "id": "4985582",
       "time": "2026-07-14 08:45:30",
