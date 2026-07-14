@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-14 09:19:22",
-  "count": 17355,
+  "updated": "2026-07-14 09:23:14",
+  "count": 17349,
   "items": [
+    {
+      "id": "4985662",
+      "time": "2026-07-14 09:22:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放2,265.0億元人民幣。"
+    },
+    {
+      "id": "4985661",
+      "time": "2026-07-14 09:21:46",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.13％，國企指數跌0.01％，恒生科技指數開跌0.25%；石油股走強。"
+    },
+    {
+      "id": "mkt:019f5e36-f096-7aab-8d67-eb370a7c1b83",
+      "time": "2026-07-14 09:21:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY236.5 bln 7-day reverse repo today; bids and allotments both CNY236.5 bln. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:019f5e36-ab57-7aab-8d67-e7607c58561d",
+      "time": "2026-07-14 09:21:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hang Seng Index (HSI) opened down 32.2 points (-0.13%) at 24,181.52 on Tuesday, July 14. Hang Seng Tech Index opened down 11.82 points (-0.25%) at 4,664.61. Hang Seng China Enterprises Index (H‑share) opened down 0.81 points (-0.01%) at 8,065.16. Hang Seng Red‑chip Index opened up 3.32 points (+0.09%) at 3,886.36."
+    },
+    {
+      "id": "4985659",
+      "time": "2026-07-14 09:21:07",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展2,365億元七天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "4985658",
+      "time": "2026-07-14 09:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊14日在社交媒體上發表宣告說，數小時前，兩艘巨型油輪被美國“惡意操縱”，關閉導航系統。它們無視霍爾木茲海峽航運安全控制中心的多次警告，危及該航道的航行安全並選擇穿越雷區，最終被伊朗伊斯蘭革命衛隊海軍擊中並失去動力。（新華社）"
+    },
+    {
+      "id": "mkt:019f5e36-6da1-7aab-8d67-dfa2b6ca1f2e",
+      "time": "2026-07-14 09:20:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00857.HK",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "At the Hong Kong open the HSI fell 0.13% and the Hang Seng Tech Index fell 0.25%. Oil names outperformed; PetroChina (00857.HK) rose 3.57%. International oil prices recently recorded their largest one-day gain in six years."
+    },
+    {
+      "id": "4985657",
+      "time": "2026-07-14 09:20:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌2個基點，至3.725%。"
+    },
+    {
+      "id": "4985656",
+      "time": "2026-07-14 09:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅夏河短時強降水引發洪澇災害，已轉移8105人】記者從甘肅省甘南藏族自治州夏河縣防汛抗旱指揮部辦公室瞭解到，7月13日19時許，夏河縣出現雷電天氣和短時強降水，引發洪澇災害。據初步統計，截至14日7時，已有8105名涉險人員被緊急轉移安置。另據統計，此次災害還導致31間房屋倒塌，330餘間房屋進水，42頂牧民帳篷被沖毀。（央視新聞）"
+    },
     {
       "id": "mkt:019f5e34-50cd-7aab-8d67-d77d32e5c3ac",
       "time": "2026-07-14 09:18:34",
@@ -158574,154 +158672,6 @@
         "國際"
       ],
       "text": "【TeraWulf與Anthropic簽署20年AI資料中心租約，合同收入約190億美元】美國AI基礎設施運營商TeraWulf當地時間7月6日宣佈，與人工智慧公司Anthropic簽署一項為期20年的長期租賃協議。Anthropic將租用位於美國肯塔基州Justified Data園區、專為AI打造的資料中心設施，總關鍵IT負載規模約401兆瓦（MW），專案將分階段建設，預計首批產能於2027年下半年投運，並於2028年初全面投入運營。TeraWulf預計，該租約在初始租期內將帶來約190億美元的合同收入，並由投資級信用主體提供支援。與此同時，TeraWulf還宣佈，將其持有的Abernathy合資專案50.1%股權出售給以AI雲基礎設施公司Fluidstack為首的投資者財團，實現約4.5億美元投資的溢價退出。"
-    },
-    {
-      "id": "4973227",
-      "time": "2026-07-07 09:23:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洞察科技完成數千萬元Pre-A+輪融資】近日，廣州洞察科技有限公司（簡稱“洞察科技”）宣佈完成數千萬元Pre-A+輪融資，本輪由山藍資本投資。融資將重點用於固態奈米孔晶片測試與封裝產線建設、檢測產品研發，以及先進半導體方向的技術拓展。"
-    },
-    {
-      "id": "te:markets:564619",
-      "time": "2026-07-07 09:22:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Hits 3-Week High — US heating oil prices rose above $3.30 per gallon, reaching a three-week high, as concerns over global distillate supplies outweighed weakness in crude oil. Markets remained focused on Russia, where Ukrainian drone strikes continued to disrupt refinery operations, fueling speculation that Moscow could impose a diesel export ban to ease domestic shortages. With Russian refinery runs near multi-year lows and global distillate inventories still tight, traders expected reduced diesel exports to keep refining margins elevated and support heating oil prices. The gains came even as benchmark crude prices remained subdued amid higher OPEC+ output and recovering oil and gas shipments through the US-secured corridor in the Strait of Hormuz, allowing major Persian Gulf producers to increase exports."
-    },
-    {
-      "id": "4973226",
-      "time": "2026-07-07 09:22:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守61美元/盎司，日內跌1.64%。"
-    },
-    {
-      "id": "4973225",
-      "time": "2026-07-07 09:21:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【劉烈宏：行業資料價值釋放進入縱深推進新階段 國家資料局將聯合有關部門出臺有針對性的具體舉措】2026年7月2日至3日，國家資料局黨組書記、局長劉烈宏出席在北京舉辦的“2026年全球數字經濟大會”開幕式及“資料要素髮展論壇”並致辭。劉烈宏表示，隨著“531”工作體系的落地實施，資料要素潛能加速釋放，資料流通利用呈現新態勢。一是行業資料價值釋放進入縱深推進新階段。企業要著力打好“三個主戰場”，在深化行業資料流通利用中實現自身價值；地方要著力營造濃厚資料氛圍，透過資料賦能產業轉型助力經濟高質量發展；國家資料局將聯合有關部門出臺有針對性的具體舉措。二是重點問題解決路徑更加明晰。比如，適應人工智慧多元用數需求，解決“系統建設分散、標準不統一、資料共享難”的難題，以智慧體呼叫等“技術賦能”化解“資料分散”痛點，以“語義統一”破解“格式不統一”等實踐已初見成效。三是資料賦能人工智慧創新發展不斷深化。在供給端，加快構建行業高質量資料集供給體系；在流通端，系統最佳化面向人工智慧的用數規則和流通模式；在應用端，以“模數共振”驅動資料飛輪加速運轉。"
-    },
-    {
-      "id": "4973224",
-      "time": "2026-07-07 09:21:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠595.0億元人民幣。"
-    },
-    {
-      "id": "4973223",
-      "time": "2026-07-07 09:21:34",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.2％，國企指數跌0.41％，科指開跌0.37%。"
-    },
-    {
-      "id": "mkt:019f3a2a-8c96-7aab-8cbe-aa643f641a57",
-      "time": "2026-07-07 09:21:34",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "At the open on July 7 (Tue) in Hong Kong, the HSI fell 47.83 points (-0.20%) to 23,568.49; the Hang Seng Tech Index fell 16.81 points (-0.37%) to 4,524.42; the HSCEI fell 31.81 points (-0.41%) to 7,780.54; the Red Chip Index fell 6.59 points (-0.17%) to 3,847.99."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607073795998480",
-      "time": "2026-07-07 09:21:31",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行公開市場今日淨回籠595億元】央行今日開展100億元7天逆回購操作，操作利率為1.40%，與此前持平。因今日有695億元7天期逆回購到期，當日實現淨回籠595億元。"
-    },
-    {
-      "id": "mkt:019f3a2a-7d6c-7aab-8cbe-a63a2d9430ff",
-      "time": "2026-07-07 09:21:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tencent",
-        "01024.HK",
-        "Impact bearish",
-        "00700.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.2% and the Hang Seng Tech Index fell 0.37%. Kuaishou (01024.HK) opened nearly 6% lower; Tencent Holdings (00700.HK) opened about 1.55% higher after trimming its Kuaishou stake and raising roughly HKD10 billion."
-    },
-    {
-      "id": "4973222",
-      "time": "2026-07-07 09:21:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Shopee與Meta深化合作，推出Instagram聯盟專案】7月7日訊息，Shopee與Meta宣佈深化合作，在東南亞及巴西等市場推出Instagram聯盟專案。創作者可將Shopee聯盟商品直接新增至Instagram Reels和Feed內容中，透過內容分享帶動更多商品傳播和銷售。"
-    },
-    {
-      "id": "4973221",
-      "time": "2026-07-07 09:21:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北方華創多項真空技術成果被工信部認定為工業母機典型創新案例】工業和資訊化部日前正式釋出“2026年度工業母機創新產品典型案例名單”，北方華創多項真空核心技術成果入選。北方華創本次入選的成果來自真空新能源裝備事業群，涵蓋核心工藝裝備與測試評價平臺兩大方向。"
-    },
-    {
-      "id": "te:economy:564617",
-      "time": "2026-07-07 09:21:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Philippines Industrial Output Eases in May — Manufacturing production in the Philippines increased by 13.5% year-on-year in May 2026, easing from a more than four-year high and revised gain of 14.6% in the previous month. The moderation was largely driven by slower output growth in the manufacture of transport equipment (0.9% vs 12.6% in April), which accounted for 42% of total industrial production. Additional downward pressure came from softer growth in the manufacture of food products (3.1% vs 6.1%) and a sharp contraction in the manufacture of chemicals and chemical products (-11.5% vs 1.0%). In contrast, several categories saw faster expansion, including the manufacture of coke and refined petroleum products (78.5% vs 60.4%), computer, electronic and optical products (22.6% vs 19.8%), and leather and related products, including footwear (90.9% vs 75.7%). For the January–May period, industrial production rose 8.2% compared with the corresponding period a year earlier."
-    },
-    {
-      "id": "mkt:019f3a2a-08d8-7aab-8cbe-9ce8a5ab71f4",
-      "time": "2026-07-07 09:21:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "PBOC conducted a CNY 10 bln 7-day reverse repo today, bids CNY 10 bln, allotment CNY 10 bln, rate 1.40%, unchanged."
-    },
-    {
-      "id": "4973220",
-      "time": "2026-07-07 09:20:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 100 億元 7 天期逆回購操作 操作利率 1.4%。"
-    },
-    {
-      "id": "mkt:019f3a29-6a8c-7aab-8cbe-900a96d10b43",
-      "time": "2026-07-07 09:20:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact mixed",
-        "AMZN.O",
-        "GOOGL.O"
-      ],
-      "text": "【AI firms wage free-compute war; startups net large cloud/token credits】WSJ reports Silicon Valley startups are receiving a surge in free compute and token credits as AI model vendors compete for new enterprise clients. Cursor, the AI coding firm acquired by SpaceX, offered a 75% discount through July 5. OpenAI and Anthropic sales teams are presenting highly generous terms. Some founders say fundraising has been delayed and they can negotiate between AI vendors. Combined cloud and token credits from some providers can exceed $3m, roughly the median US seed round. Google Cloud is granting select startups up to $500k in cloud credits plus early access to Gemini; Microsoft and AWS are offering similar packages. Vendors are pushing such deals to lock in early customers and secure durable revenue while facing competition from increasingly capable free and lower-cost models."
     }
   ]
 }

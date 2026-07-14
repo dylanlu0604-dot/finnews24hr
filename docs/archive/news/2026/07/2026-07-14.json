@@ -1,7 +1,105 @@
 {
   "date": "2026-07-14",
-  "count": 824,
+  "count": 833,
   "items": [
+    {
+      "id": "4985662",
+      "time": "2026-07-14 09:22:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放2,265.0億元人民幣。"
+    },
+    {
+      "id": "4985661",
+      "time": "2026-07-14 09:21:46",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.13％，國企指數跌0.01％，恒生科技指數開跌0.25%；石油股走強。"
+    },
+    {
+      "id": "mkt:019f5e36-f096-7aab-8d67-eb370a7c1b83",
+      "time": "2026-07-14 09:21:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY236.5 bln 7-day reverse repo today; bids and allotments both CNY236.5 bln. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:019f5e36-ab57-7aab-8d67-e7607c58561d",
+      "time": "2026-07-14 09:21:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hang Seng Index (HSI) opened down 32.2 points (-0.13%) at 24,181.52 on Tuesday, July 14. Hang Seng Tech Index opened down 11.82 points (-0.25%) at 4,664.61. Hang Seng China Enterprises Index (H‑share) opened down 0.81 points (-0.01%) at 8,065.16. Hang Seng Red‑chip Index opened up 3.32 points (+0.09%) at 3,886.36."
+    },
+    {
+      "id": "4985659",
+      "time": "2026-07-14 09:21:07",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展2,365億元七天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "4985658",
+      "time": "2026-07-14 09:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊14日在社交媒體上發表宣告說，數小時前，兩艘巨型油輪被美國“惡意操縱”，關閉導航系統。它們無視霍爾木茲海峽航運安全控制中心的多次警告，危及該航道的航行安全並選擇穿越雷區，最終被伊朗伊斯蘭革命衛隊海軍擊中並失去動力。（新華社）"
+    },
+    {
+      "id": "mkt:019f5e36-6da1-7aab-8d67-dfa2b6ca1f2e",
+      "time": "2026-07-14 09:20:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00857.HK",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "At the Hong Kong open the HSI fell 0.13% and the Hang Seng Tech Index fell 0.25%. Oil names outperformed; PetroChina (00857.HK) rose 3.57%. International oil prices recently recorded their largest one-day gain in six years."
+    },
+    {
+      "id": "4985657",
+      "time": "2026-07-14 09:20:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌2個基點，至3.725%。"
+    },
+    {
+      "id": "4985656",
+      "time": "2026-07-14 09:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅夏河短時強降水引發洪澇災害，已轉移8105人】記者從甘肅省甘南藏族自治州夏河縣防汛抗旱指揮部辦公室瞭解到，7月13日19時許，夏河縣出現雷電天氣和短時強降水，引發洪澇災害。據初步統計，截至14日7時，已有8105名涉險人員被緊急轉移安置。另據統計，此次災害還導致31間房屋倒塌，330餘間房屋進水，42頂牧民帳篷被沖毀。（央視新聞）"
+    },
     {
       "id": "mkt:019f5e34-50cd-7aab-8d67-d77d32e5c3ac",
       "time": "2026-07-14 09:18:34",
