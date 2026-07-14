@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-15 01:54:44",
+  "updated": "2026-07-15 01:58:42",
   "count": 18803,
   "items": [
+    {
+      "id": "mkt:019f61c7-1f65-7aab-8d87-2dfb0c4cb1ab",
+      "time": "2026-07-15 01:57:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Mehr news agency reported Iran launched missiles and drones toward Kuwait and Bahrain."
+    },
+    {
+      "id": "4988381",
+      "time": "2026-07-15 01:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會副秘書巴加埃：我方在言辭與行動上均不得對敵人展現任何妥協與寬容。"
+    },
+    {
+      "id": "4988380",
+      "time": "2026-07-15 01:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：與以色列以往歷次戰爭一樣，這場復興之戰彰顯了我國年輕一代非凡的力量。本屆政府深思熟慮、果敢決斷，循序漸進地打擊那些妄圖毀滅我們的勢力。"
+    },
+    {
+      "id": "4988379",
+      "time": "2026-07-15 01:55:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股價下跌幅度收窄至45%。"
+    },
+    {
+      "id": "4988378",
+      "time": "2026-07-15 01:55:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "法蘭克福檢察院搜查德意志銀行分支機構。"
+    },
+    {
+      "id": "mkt:019f61c4-946b-7aab-8d87-2546845e2517",
+      "time": "2026-07-15 01:55:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's defense ministry spokesman said the armed forces are taking measures to respond to aerial attacks."
+    },
     {
       "id": "4988377",
       "time": "2026-07-15 01:54:07",
@@ -172027,54 +172083,6 @@
         "其他"
       ],
       "text": "惠譽評級表示秘魯主要銀行展現出穩健的信用狀況。"
-    },
-    {
-      "id": "mkt:019f3db9-f31c-7aab-8cd4-952d693d9cdd",
-      "time": "2026-07-08 01:57:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cites Lebanese diplomatic sources saying a proposed framework agreement would mark the end of a phase; Lebanon is seeking a security pact to secure the return of displaced people and restore regional stability."
-    },
-    {
-      "id": "4974832",
-      "time": "2026-07-08 01:56:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：黎巴嫩外交訊息人士表示，我們拒絕在羅馬舉行第六輪談判。以色列欲借羅馬談判擺脫美國壓力。以色列正尋求與黎巴嫩建立一種雙邊機制，並將美國參與降至最低。以軍持續打擊納巴提耶，且未落實“試點區域”安排，目的是繼續迫使黎巴嫩南部人口外流。以色列試圖在以色列大選前規避落實“試點區域”安排。"
-    },
-    {
-      "id": "mkt:019f3db8-4a22-7aab-8cd4-8e666eba98d6",
-      "time": "2026-07-08 01:55:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera, citing Lebanese diplomatic sources, says Israel is seeking to avoid implementing the \"pilot zone\" arrangements ahead of the Israeli election."
-    },
-    {
-      "id": "mkt:019f3db8-4526-7aab-8cd4-80c7bc94ec73",
-      "time": "2026-07-08 01:55:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cites Lebanese diplomatic sources saying Israeli forces continue strikes on Nabatieh and have not implemented the 'pilot zone' arrangement; the sources say the aim is to force further displacement of residents in southern Lebanon."
-    },
-    {
-      "id": "mkt:019f3db7-f248-7aab-8cd4-78f26a923f2a",
-      "time": "2026-07-08 01:54:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking a bilateral mechanism with Lebanon while minimizing US involvement."
-    },
-    {
-      "id": "mkt:019f3db7-ecf4-7aab-8cd4-773eaa698f11",
-      "time": "2026-07-08 01:54:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking to use talks in Rome to relieve pressure from the United States."
     }
   ]
 }
