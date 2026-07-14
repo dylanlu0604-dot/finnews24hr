@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-15 01:34:55",
-  "count": 18800,
+  "updated": "2026-07-15 01:38:50",
+  "count": 18801,
   "items": [
+    {
+      "id": "4988365",
+      "time": "2026-07-15 01:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【3艘油輪在阿曼附近海域遭襲 3人失蹤6人受傷】阿曼海事安全中心14日說，3艘油輪當天在阿曼附近海域多個地點遭襲，共造成3名船員失蹤、6人受傷。根據該中心發表的宣告，3艘油輪均懸掛賴比瑞亞國旗。其中一艘油輪在阿曼穆桑代姆省近海遇襲，18名船員已由附近船隻轉移，仍有3人失蹤，搜救工作在繼續。另一艘油輪在距離穆桑代姆省海岸約8.5海里處遭襲，船舶失去動力，6名船員受傷。阿曼軍方艦艇正在現場監控事態。還有一艘油輪在阿曼東南省附近海域遭襲，船舶機艙起火，未造成人員傷亡。阿曼外交部當天發表宣告，呼籲尊重國際法，確保商船安全透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4988364",
+      "time": "2026-07-15 01:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶北部打死多名哈馬斯武裝人員】當地時間14日，以色列國防軍發表宣告稱，以軍當天在加沙地帶北部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）傑巴利耶營軍事安全負責人。以軍稱，一同被打死的還有數名哈馬斯武裝人員。以方指責上述人員近期策劃並實施針對以色列的襲擊。"
+    },
+    {
+      "id": "4988363",
+      "time": "2026-07-15 01:36:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：疾控中心已向醫生髮布健康警報，敦促對環孢子蟲病進行檢測。"
+    },
+    {
+      "id": "4988362",
+      "time": "2026-07-15 01:36:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴林境內再次拉響防空警報】當地時間14日晚8時10分左右，巴林境內拉響防空警報。這是當天凌晨以來巴林境內拉響的第四輪防空警報。"
+    },
+    {
+      "id": "4988361",
+      "time": "2026-07-15 01:34:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：僅憑一個月通脹資料向好遠遠不夠。"
+    },
     {
       "id": "mkt:019f61b1-9007-7aab-8d87-03a3abcdc974",
       "time": "2026-07-15 01:34:14",
@@ -172025,50 +172066,6 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry said it firmly rejects Iran's attack, saying the action undermines the safety of international navigation."
-    },
-    {
-      "id": "4974827",
-      "time": "2026-07-08 01:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "據紐約時報： 美國眾議院民主黨領袖傑弗里斯稱普拉特納應當退出參議院競選。"
-    },
-    {
-      "id": "4974826",
-      "time": "2026-07-08 01:37:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部發表宣告：召見伊朗副大使，就霍爾木茲海峽內卡達液化天然氣運輸船遭襲擊一事提出抗議。"
-    },
-    {
-      "id": "mkt:019f3da8-02ec-7aab-8cd4-1b0a649539b2",
-      "time": "2026-07-08 01:37:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Qatar's foreign ministry summoned Iran's deputy ambassador to protest actions targeting Qatari liquefied natural gas tankers in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f3da7-2871-7aab-8cd4-1159ceae6dc7",
-      "time": "2026-07-08 01:36:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UKMTO raises Strait of Hormuz threat level to 'severe'】The UK Maritime Trade Operations (UKMTO) said three attacks on tankers near the Strait of Hormuz on Tuesday prompted it to raise the maritime threat level to 'severe', the second-highest. An unnamed LNG carrier suffered a fire after an unidentified object struck the port side of its engine room while transiting the strait. A very large crude carrier (VLCC) was hit by an unidentified object as it departed the strait; the vessel continued to its destination and no casualties were reported. A third tanker was attacked near Oman's Musandam peninsula, sustaining minor structural damage. UKMTO said the likelihood of deliberate hostile action has increased, navigational disruption persists and vessels should remain highly vigilant. It added that Iran's Islamic Revolutionary Guard Corps' hailing and route-interference activity continues, notably targeting ships with their automatic identification system (AIS) active."
     }
   ]
 }
